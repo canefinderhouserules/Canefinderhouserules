@@ -4,127 +4,28 @@ docs_dir: docs
 theme:
   name: material
   features:
-  - navigation.top
-  - navigation.sections
-  - navigation.indexes
-  - search.highlight
-  - search.suggest
-  - toc.follow
-  - content.code.copy
+    - navigation.tabs
+    - navigation.top
+    - navigation.indexes
+    - search.highlight
+    - search.suggest
+    - toc.follow
   palette:
-  - media: '(prefers-color-scheme: light)'
-    scheme: default
-    toggle:
-      icon: material/weather-night
-      name: Dark mode
-  - media: '(prefers-color-scheme: dark)'
-    scheme: slate
-    toggle:
-      icon: material/weather-sunny
-      name: Light mode
+    - media: '(prefers-color-scheme: light)'
+      scheme: default
+      toggle:
+        icon: material/weather-night
+        name: Dark mode
+    - media: '(prefers-color-scheme: dark)'
+      scheme: slate
+      toggle:
+        icon: material/weather-sunny
+        name: Light mode
 plugins:
-- search
+  - search
+  - awesome-nav
 markdown_extensions:
-- tables
-- toc
-nav:
-- Home: index.md
-- General Rules:
-  - General Rules: general-rules/general-rules.md
-- Character Options:
-  - Experience and XP Purchases: character-options/experience-and-xp-purchases.md
-  - Luck and Determination: character-options/luck-and-determination.md
-  - Merits: character-options/merits.md
-  - Flaws: character-options/flaws.md
-  - Backgrounds and Anti-Backgrounds: character-options/backgrounds-and-anti-backgrounds.md
-  - Stress and Grace: character-options/stress-and-grace.md
-  - Alignments: character-options/alignments.md
-- Class Changes:
-  - IMPROVED FAMILIAR: class-changes/improved-familiar.md
-  - Medium: class-changes/medium.md
-  - Rogue: class-changes/rogue.md
-  - Shifter: class-changes/shifter.md
-  - Kineticist: class-changes/kineticist.md
-  - White-Haired Witch: class-changes/white-haired-witch.md
-- Equipment:
-  - Weapons: equipment/weapons.md
-  - Special Weapon Properties: equipment/special-weapon-properties.md
-- Favored Class Bonuses:
-  - Favored Class Bonuses: favored-class-bonuses/favored-class-bonuses.md
-- Domains:
-  - Domains Overview: domains/domains-overview.md
-  - Air: domains/air.md
-  - Animal: domains/animal.md
-  - Artifice: domains/artifice.md
-  - Chaos: domains/chaos.md
-  - Charm: domains/charm.md
-  - Community: domains/community.md
-  - Darkness: domains/darkness.md
-  - Death: domains/death.md
-  - Destruction: domains/destruction.md
-  - Earth: domains/earth.md
-  - Evil: domains/evil.md
-  - Fire: domains/fire.md
-  - Glory: domains/glory.md
-  - Good: domains/good.md
-  - Healing: domains/healing.md
-  - Knowledge: domains/knowledge.md
-  - Law: domains/law.md
-  - Liberation: domains/liberation.md
-  - Luck: domains/luck.md
-  - Madness: domains/madness.md
-  - Magic: domains/magic.md
-  - Nobility: domains/nobility.md
-  - Plant: domains/plant.md
-  - Protection: domains/protection.md
-  - Repose: domains/repose.md
-  - Rune: domains/rune.md
-  - Scalykind: domains/scalykind.md
-  - Strength: domains/strength.md
-  - Sun: domains/sun.md
-  - Travel: domains/travel.md
-  - Trickery: domains/trickery.md
-  - Void: domains/void.md
-  - War: domains/war.md
-  - Water: domains/water.md
-  - Weather: domains/weather.md
-- Star Wars (Force):
-  - SISTEMA DE ESTAMINA: star-wars-force/sistema-de-estamina.md
-  - Spells (habilidades): star-wars-force/spells-habilidades.md
-  - Force Sensitivity: star-wars-force/force-sensitivity.md
-  - Lado Oscuro/Lado Luminoso: star-wars-force/lado-oscuro-lado-luminoso.md
-  - Lista de class features y sus precios: star-wars-force/lista-de-class-features-y-sus-precios.md
-  - Razas: star-wars-force/razas.md
-  - Armas: star-wars-force/armas.md
-  - Lightsabers: star-wars-force/lightsabers.md
-  - Criticos de Lightsaber: star-wars-force/criticos-de-lightsaber.md
-  - Estilos de sable: star-wars-force/estilos-de-sable.md
-  - Devolver tiros: star-wars-force/devolver-tiros.md
-  - Cambios a Skills: star-wars-force/cambios-a-skills.md
-  - Force Powers: star-wars-force/force-powers.md
-  - Codru-ji (12 RP): star-wars-force/codru-ji-12-rp.md
-  - Ithorian (13 RP): star-wars-force/ithorian-13-rp.md
-  - Astromech (12 RP): star-wars-force/astromech-12-rp.md
-  - Chiss: star-wars-force/chiss.md
-- Stamina System B:
-  - SISTEMA DE ESTAMINA: stamina-system-b/sistema-de-estamina.md
-  - Spells (habilidades): stamina-system-b/spells-habilidades.md
-  - Lista de class features y sus precios: stamina-system-b/lista-de-class-features-y-sus-precios.md
-- Chakra (Naruto):
-  - SISTEMA DE CHAKRA: chakra-naruto/sistema-de-chakra.md
-  - JUTSUS: chakra-naruto/jutsus.md
-  - Elementos: chakra-naruto/elementos.md
-  - KEKKEI GENKAIS: chakra-naruto/kekkei-genkais.md
-  - CLASS FEATURES ULTRA REMIL UNICAS PERO COMUNES: chakra-naruto/class-features-ultra-remil-unicas-pero-comunes.md
-  - Lista de class features y sus precios: chakra-naruto/lista-de-class-features-y-sus-precios.md
-- Vampires:
-  - Efectos de ser un vampiro: vampires/efectos-de-ser-un-vampiro.md
-  - Feats nuevas: vampires/feats-nuevas.md
-  - Casters: vampires/casters.md
-  - Clanes: vampires/clanes.md
-  - Disciplinas: vampires/disciplinas.md
-  - Humanidad: vampires/humanidad.md
-- Monster PCs and Races:
-  - Alternativa 1: monster-pcs-and-races/alternativa-1.md
-  - Alternativa 2: monster-pcs-and-races/alternativa-2.md
-- About: about.md
+  - tables
+  - toc
+  - admonition
+  - pymdownx.details
