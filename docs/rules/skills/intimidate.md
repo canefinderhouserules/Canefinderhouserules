@@ -1,8 +1,6 @@
 # Intimidate
 
 !!! warning "House rule"
-    You can add your Strength modifier or your Charisma modifier to Intimidate checks.
+    You can use your Strength modifier or your Charisma modifier on Intimidate checks (choose one).
 
-When you make an Intimidate check, you may use either your **Strength modifier** or your **Charisma modifier** (your choice) in place of the normal ability modifier.
-
-<!-- TODO confirm: "either one, your choice" vs "add both". -->
+When you make an Intimidate check, you may use either your **Strength modifier** or your **Charisma modifier**, whichever you prefer. You use only one of them, not both.

@@ -1,8 +1,8 @@
 # Prone
 
 !!! warning "House rule"
-    The +4 AC bonus against ranged attacks does not apply against point-blank instantaneous-fire weapons.
+    Against an adjacent attacker using an instantaneous-fire ranged weapon, a prone defender takes the **–4 AC** that applies against melee, and does not get the +4 AC that applies against ranged attacks.
 
-A prone character normally gains a +4 bonus to AC against ranged attacks. This bonus **does not apply** against a ranged attack made by an adjacent attacker using a weapon that fires instantaneously (such as a firearm).
+A prone character normally takes a –4 penalty to AC against melee attacks and gains a +4 bonus to AC against ranged attacks.
 
-<!-- TODO: the original notes also mention "counting even the melee penalty" and that it "still provokes AoO although the prone character would have -4 attack as usual". Not clear how to phrase this: ask the GM. -->
+If the attacker is **adjacent** to the prone character and uses a weapon that **fires instantaneously** (such as a firearm or a crossbow), the +4 bonus to AC against ranged attacks **does not apply**. Instead, the attack is treated as a melee attack for this purpose, and the prone character takes the **–4 penalty to AC**.

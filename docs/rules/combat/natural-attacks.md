@@ -5,9 +5,15 @@
 
 ## Attack limit
 
-The same limit that applies to summoner eidolons applies to player characters: the number of natural attacks you can make is capped according to your character level.
+The same limit that applies to summoner eidolons applies to player characters: the number of natural attacks you can make in a round is capped according to your **character level**.
 
-<!-- TODO: insert the actual table/numbers of the eidolon max-attacks-by-level limit here. -->
+| Character level | Maximum natural attacks |
+|---|---|
+| 1st–3rd | 3 |
+| 4th–8th | 4 |
+| 9th–13th | 5 |
+| 14th–18th | 6 |
+| 19th–20th | 7 |
 
 ## Single natural attack
 
