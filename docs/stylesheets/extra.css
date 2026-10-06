@@ -1,0 +1,4 @@
+.md-typeset table:not([class]) { font-size: .68rem; }
+.md-typeset table:not([class]) th,
+.md-typeset table:not([class]) td { padding: .45em .7em; vertical-align: top; min-width: 0; }
+.md-typeset table:not([class]) td { white-space: normal; }

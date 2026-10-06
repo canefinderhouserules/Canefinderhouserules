@@ -29,3 +29,5 @@ markdown_extensions:
   - toc
   - admonition
   - pymdownx.details
+extra_css:
+  - stylesheets/extra.css

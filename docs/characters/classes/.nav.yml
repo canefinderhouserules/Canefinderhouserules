@@ -1,0 +1,13 @@
+nav:
+  - character-advancement.md
+  - barbarian.md
+  - bard.md
+  - cleric.md
+  - druid.md
+  - fighter.md
+  - monk.md
+  - paladin.md
+  - ranger.md
+  - rogue.md
+  - sorcerer.md
+  - "*"
