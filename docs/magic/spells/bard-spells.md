@@ -7,17 +7,17 @@
 - **[Detect Magic](detect-magic.md)**: Detects spells and magic items within 60 ft.
 - **[Flare](flare.md)**: Dazzles one creature (–1 on attack rolls).
 - **[Ghost Sound](ghost-sound.md)**: Figment sounds.
-- **Know Direction**: You discern north.
-- **Light**: Object shines like a torch.
-- **Lullaby**: Makes subject drowsy: –5 on Perception checks, –2 on Will saves against *sleep*.
-- **Mage Hand**: 5-pound telekinesis.
-- **Mending**: Makes minor repairs on an object.
-- **Message**: Whisper conversation at distance.
-- **Open/Close**: Opens or closes small or light things.
-- **Prestidigitation**: Performs minor tricks.
-- **Read Magic**: Read scrolls and spellbooks.
-- **Resistance**: Subject gains +1 on saving throws.
-- **Summon Instrument**: Summons one musical instrument.
+- **[Know Direction](know-direction.md)**: You discern north.
+- **[Light](light.md)**: Object shines like a torch.
+- **[Lullaby](lullaby.md)**: Makes subject drowsy: –5 on Perception checks, –2 on Will saves against *sleep*.
+- **[Mage Hand](mage-hand.md)**: 5-pound telekinesis.
+- **[Mending](mending.md)**: Makes minor repairs on an object.
+- **[Message](message.md)**: Whisper conversation at distance.
+- **[Open/Close](open-close.md)**: Opens or closes small or light things.
+- **[Prestidigitation](prestidigitation.md)**: Performs minor tricks.
+- **[Read Magic](read-magic.md)**: Read scrolls and spellbooks.
+- **[Resistance](resistance.md)**: Subject gains +1 on saving throws.
+- **[Summon Instrument](summon-instrument.md)**: Summons one musical instrument.
 
 ## 1st-Level Bard Spells
 
@@ -37,16 +37,16 @@
 - **[Hideous Laughter](hideous-laughter.md)**: Subject loses actions for 1 round/ level.
 - **[Hypnotism](hypnotism.md)**: Fascinates 2d4 HD of creatures.
 - **[Identify](identify.md)**: Gives +10 bonus to identify magic items.
-- **Magic Aura**: Alters object’s magic aura.
-- **Magic Mouth**: Objects speaks once when triggered.
-- **Obscure Object**: Masks object against *scrying*.
-- **Remove Fear**: Suppresses fear or gives +4 on saves against fear for one subject + one per four levels.
-- **Silent Image**: Creates minor illusion of your design.
-- **Sleep**: Puts 4 HD of creatures into magical slumber.
-- **Summon Monster I**: Summons extraplanar creature to fight for you.
-- **Undetectable Alignment**: Conceals alignment for 24 hours.
-- **Unseen Servant**: Invisible force obeys your commands.
-- **Ventriloquism**: Throws voice for 1 min./level.
+- **[Magic Aura](magic-aura.md)**: Alters object’s magic aura.
+- **[Magic Mouth](magic-mouth.md)**: Objects speaks once when triggered.
+- **[Obscure Object](obscure-object.md)**: Masks object against *scrying*.
+- **[Remove Fear](remove-fear.md)**: Suppresses fear or gives +4 on saves against fear for one subject + one per four levels.
+- **[Silent Image](silent-image.md)**: Creates minor illusion of your design.
+- **[Sleep](sleep.md)**: Puts 4 HD of creatures into magical slumber.
+- **[Summon Monster I](summon-monster-i.md)**: Summons extraplanar creature to fight for you.
+- **[Undetectable Alignment](undetectable-alignment.md)**: Conceals alignment for 24 hours.
+- **[Unseen Servant](unseen-servant.md)**: Invisible force obeys your commands.
+- **[Ventriloquism](ventriloquism.md)**: Throws voice for 1 min./level.
 
 ## 2nd-Level Bard Spells
 
@@ -69,22 +69,22 @@
 - **[Heroism](heroism.md)**: Gives +2 on attack rolls, saves, skill checks.
 - **[Hold Person](hold-person.md)**: Paralyzes one humanoid for 1 round/level.
 - **[Hypnotic Pattern](hypnotic-pattern.md)**: Fascinates (2d4 + level) HD of creatures.
-- **Invisibility**: Subject is invisible for 1 min./level or until it attacks.
-- **Locate Object**: Senses direction toward object (specific or type).
-- **Minor Image**: As *silent image*, plus some sound.
-- **Mirror Image**: Creates decoy duplicates of you (1d4 + 1 per three levels, max 8).
-- **Misdirection**: Misleads divinations for one creature or object.
-- **Pyrotechnics**: Turns fire into blinding light or choking smoke.
-- **Rage**: Gives +2 to Str and Con, +1 on Will saves, –2 to AC.
-- **Scare**: Panics creatures of less than 6 HD.
-- **Shatter**: Sonic vibration damages objects or crystalline creatures.
-- **Silence**: Negates sound in 20-ft. radius.
-- **Sound Burst**: Deals 1d8 sonic damage and may stun subjects.
-- **Suggestion**: Compels subject to follow stated course of action.
-- **Summon Monster II**: Summons extraplanar creature to fight for you.
-- **Summon Swarm**: Summons swarm of bats, rats, or spiders.
-- **Tongues**: Speak and understand any language.
-- **Whispering Wind**: Sends a short message 1 mile/level.
+- **[Invisibility](invisibility.md)**: Subject is invisible for 1 min./level or until it attacks.
+- **[Locate Object](locate-object.md)**: Senses direction toward object (specific or type).
+- **[Minor Image](minor-image.md)**: As *silent image*, plus some sound.
+- **[Mirror Image](mirror-image.md)**: Creates decoy duplicates of you (1d4 + 1 per three levels, max 8).
+- **[Misdirection](misdirection.md)**: Misleads divinations for one creature or object.
+- **[Pyrotechnics](pyrotechnics.md)**: Turns fire into blinding light or choking smoke.
+- **[Rage](rage.md)**: Gives +2 to Str and Con, +1 on Will saves, –2 to AC.
+- **[Scare](scare.md)**: Panics creatures of less than 6 HD.
+- **[Shatter](shatter.md)**: Sonic vibration damages objects or crystalline creatures.
+- **[Silence](silence.md)**: Negates sound in 20-ft. radius.
+- **[Sound Burst](sound-burst.md)**: Deals 1d8 sonic damage and may stun subjects.
+- **[Suggestion](suggestion.md)**: Compels subject to follow stated course of action.
+- **[Summon Monster II](summon-monster-ii.md)**: Summons extraplanar creature to fight for you.
+- **[Summon Swarm](summon-swarm.md)**: Summons swarm of bats, rats, or spiders.
+- **[Tongues](tongues.md)**: Speak and understand any language.
+- **[Whispering Wind](whispering-wind.md)**: Sends a short message 1 mile/level.
 
 ## 3rd-Level Bard Spells
 
@@ -105,19 +105,19 @@
 - **[Good Hope](good-hope.md)**: Subjects gain +2 on attack rolls, damage rolls, saves, and checks.
 - **[Haste](haste.md)**: One creature/level moves faster, receives +1 on attack rolls, AC, and Reflex saves.
 - **[Illusory Script](illusory-script.md)**: Only select creatures can read text.
-- **Invisibility Sphere**: Makes everyone within 10 feet invisible.
-- **Major Image**: As *silent image*, plus sound, smell, and thermal effects.
-- **Phantom Steed**: Magic horse appears for 1 hour/level.
-- **Remove Curse**: Frees object or person from curse.
-- **Scrying**: Spies on subject from a distance.
-- **Sculpt Sound**: Creates new sounds or changes existing ones into new sounds.
-- **Secret Page**: Changes one page to hide its real content.
-- **See Invisibility**: Reveals invisible creatures or objects.
-- **Sepia Snake Sigil**: Creates a snake-shaped text symbol that immobilizes reader.
-- **Slow**: One subject/level takes only one action/round, –1 to AC, Reflex saves, and attack rolls.
-- **Speak with Animals**: You can communicate with animals.
-- **Summon Monster III**: Summons extraplanar creature to fight for you.
-- **Tiny Hut**: Creates shelter for 10 creatures.
+- **[Invisibility Sphere](invisibility-sphere.md)**: Makes everyone within 10 feet invisible.
+- **[Major Image](major-image.md)**: As *silent image*, plus sound, smell, and thermal effects.
+- **[Phantom Steed](phantom-steed.md)**: Magic horse appears for 1 hour/level.
+- **[Remove Curse](remove-curse.md)**: Frees object or person from curse.
+- **[Scrying](scrying.md)**: Spies on subject from a distance.
+- **[Sculpt Sound](sculpt-sound.md)**: Creates new sounds or changes existing ones into new sounds.
+- **[Secret Page](secret-page.md)**: Changes one page to hide its real content.
+- **[See Invisibility](see-invisibility.md)**: Reveals invisible creatures or objects.
+- **[Sepia Snake Sigil](sepia-snake-sigil.md)**: Creates a snake-shaped text symbol that immobilizes reader.
+- **[Slow](slow.md)**: One subject/level takes only one action/round, –1 to AC, Reflex saves, and attack rolls.
+- **[Speak with Animals](speak-with-animals.md)**: You can communicate with animals.
+- **[Summon Monster III](summon-monster-iii.md)**: Summons extraplanar creature to fight for you.
+- **[Tiny Hut](tiny-hut.md)**: Creates shelter for 10 creatures.
 
 ## 4th-Level Bard Spells
 
@@ -129,19 +129,19 @@
 - **[Freedom of Movement](freedom-of-movement.md)**: Subject moves normally despite impediments to restrict movement.
 - **[Hallucinatory Terrain](hallucinatory-terrain.md)**: Makes one type of terrain appear like another (field as forest, or the like).
 - **[Hold Monster](hold-monster.md)**: As *hold person*, but any creature.
-- **Invisibility, Greater**: As *invisibility,* but subject can attack and stay invisible.
-- **Legend Lore**: Lets you learn tales about a person, place, or thing.
-- **Locate Creature**: Indicates direction to known creature.
-- **Modify Memory**: Changes 5 minutes of subject’s memories.
-- **Neutralize Poison**: Immunizes subject against poison, detoxifies venom in or on subject.
-- **Rainbow Pattern**: Lights fascinate 24 HD of creatures.
-- **Repel Vermin**: Insects, spiders, and other vermin stay 10 ft. away.
-- **Secure Shelter**: Creates sturdy cottage.
-- **Shadow Conjuration**: Mimics conjuration below 4th level, but only 20% real.
-- **Shout**: Deafens all within cone and deals 5d6 sonic damage.
-- **Speak with Plants**: You can talk to plants and plant creatures.
-- **Summon Monster IV**: Summons extraplanar creature to fight for you.
-- **Zone of Silence**: Keeps eavesdroppers from overhearing you.
+- **[Invisibility, Greater](invisibility-greater.md)**: As *invisibility,* but subject can attack and stay invisible.
+- **[Legend Lore](legend-lore.md)**: Lets you learn tales about a person, place, or thing.
+- **[Locate Creature](locate-creature.md)**: Indicates direction to known creature.
+- **[Modify Memory](modify-memory.md)**: Changes 5 minutes of subject’s memories.
+- **[Neutralize Poison](neutralize-poison.md)**: Immunizes subject against poison, detoxifies venom in or on subject.
+- **[Rainbow Pattern](rainbow-pattern.md)**: Lights fascinate 24 HD of creatures.
+- **[Repel Vermin](repel-vermin.md)**: Insects, spiders, and other vermin stay 10 ft. away.
+- **[Secure Shelter](secure-shelter.md)**: Creates sturdy cottage.
+- **[Shadow Conjuration](shadow-conjuration.md)**: Mimics conjuration below 4th level, but only 20% real.
+- **[Shout](shout.md)**: Deafens all within cone and deals 5d6 sonic damage.
+- **[Speak with Plants](speak-with-plants.md)**: You can talk to plants and plant creatures.
+- **[Summon Monster IV](summon-monster-iv.md)**: Summons extraplanar creature to fight for you.
+- **[Zone of Silence](zone-of-silence.md)**: Keeps eavesdroppers from overhearing you.
 
 ## 5th-Level Bard Spells
 
@@ -150,17 +150,17 @@
 - **[Dream](dream.md)**: Sends message to anyone sleeping.
 - **[False Vision](false-vision.md)**: Fools scrying with an illusion.
 - **[Heroism, Greater](heroism-greater.md)**: Gives +4 bonus on attack rolls, saves, skill checks; immunity to fear; temporary hp.
-- **Mind Fog**: Subjects in fog get –10 to Wis and Will checks.
-- **Mirage Arcana**: As *hallucinatory terrain,* plus structures.
-- **Mislead**: Turns you invisible and creates illusory double.
-- **Nightmare**: Sends vision dealing 1d10 damage, fatigue.
-- **Persistent Image**: As *major image*, but no concentration required.
-- **Seeming**: Changes appearance of one person per two levels.
-- **Shadow Evocation**: Mimics evocation of lower than 5th level, but only 20% real.
-- **Shadow Walk**: Step into shadow to travel rapidly.
-- **Song of Discord**: Forces targets to attack each other.
-- **Suggestion, Mass**: As *suggestion,* affects subject/level.
-- **Summon Monster V**: Summons extraplanar creature to fight for you.
+- **[Mind Fog](mind-fog.md)**: Subjects in fog get –10 to Wis and Will checks.
+- **[Mirage Arcana](mirage-arcana.md)**: As *hallucinatory terrain,* plus structures.
+- **[Mislead](mislead.md)**: Turns you invisible and creates illusory double.
+- **[Nightmare](nightmare.md)**: Sends vision dealing 1d10 damage, fatigue.
+- **[Persistent Image](persistent-image.md)**: As *major image*, but no concentration required.
+- **[Seeming](seeming.md)**: Changes appearance of one person per two levels.
+- **[Shadow Evocation](shadow-evocation.md)**: Mimics evocation of lower than 5th level, but only 20% real.
+- **[Shadow Walk](shadow-walk.md)**: Step into shadow to travel rapidly.
+- **[Song of Discord](song-of-discord.md)**: Forces targets to attack each other.
+- **[Suggestion, Mass](suggestion-mass.md)**: As *suggestion,* affects subject/level.
+- **[Summon Monster V](summon-monster-v.md)**: Summons extraplanar creature to fight for you.
 
 ## 6th-Level Bard Spells
 
@@ -175,12 +175,12 @@
 - **[Fox’s Cunning, Mass](foxs-cunning-mass.md)**: As *fox’s cunning*, affects 1 subject/level.
 - **[Geas/Quest](geas-quest.md)**: As *lesser geas,* but affects any creature.
 - **[Heroes’ Feast](heroes-feast.md)**: Food for one creature/level cures and grants combat bonuses*.*
-- **Irresistible Dance**: Forces subject to dance.
-- **Permanent Image**: Permanent illusion, includes sight, sound, smell, and thermal effects.
-- **Programmed Image**: As *major image*, plus triggered by event.
-- **Project Image**: Illusory double can talk and cast spells.
-- **Scrying, Greater**: As *scrying*, but faster and longer.
-- **Shout, Greater**: Devastating yell deals 10d6 sonic damage; stuns creatures.
-- **Summon Monster VI**: Summons extraplanar creature to fight for you.
-- **Sympathetic Vibration**: Deals 2d10 damage/round to freestanding structure.
-- **Veil**: Changes appearance of group of creatures.
+- **[Irresistible Dance](irresistible-dance.md)**: Forces subject to dance.
+- **[Permanent Image](permanent-image.md)**: Permanent illusion, includes sight, sound, smell, and thermal effects.
+- **[Programmed Image](programmed-image.md)**: As *major image*, plus triggered by event.
+- **[Project Image](project-image.md)**: Illusory double can talk and cast spells.
+- **[Scrying, Greater](scrying-greater.md)**: As *scrying*, but faster and longer.
+- **[Shout, Greater](shout-greater.md)**: Devastating yell deals 10d6 sonic damage; stuns creatures.
+- **[Summon Monster VI](summon-monster-vi.md)**: Summons extraplanar creature to fight for you.
+- **[Sympathetic Vibration](sympathetic-vibration.md)**: Deals 2d10 damage/round to freestanding structure.
+- **[Veil](veil.md)**: Changes appearance of group of creatures.

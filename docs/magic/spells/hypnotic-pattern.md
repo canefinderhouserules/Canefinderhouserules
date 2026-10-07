@@ -1,6 +1,6 @@
 # Hypnotic Pattern
 
-**School** illusion (pattern) [mind-affecting]; **Level** bard 2, sorcerer/ wizard 2  
+**School** illusion (pattern) [mind-affecting]; **Level** bard 2, sorcerer/wizard 2  
 **Casting Time** 1 standard action  
 **Components** V (bard only), S, M (a stick of incense or a crystal rod); see text  
 **Range** medium (100 ft. + 10 ft./level)  

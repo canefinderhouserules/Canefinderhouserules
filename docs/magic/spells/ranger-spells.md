@@ -13,14 +13,14 @@
 - **[Endure Elements](endure-elements.md)**: Exist comfortably in hot or cold regions.
 - **[Entangle](entangle.md)**: Plants entangle everyone in 40-ft. radius.
 - **[Hide from Animals](hide-from-animals.md)**: Animals can’t perceive one subject/level.
-- **Jump**: Subject gets bonus on Acrobatics checks.
-- **Longstrider**: Your base speed increases by 10 ft.
-- **Magic Fang**: One natural weapon of subject creature gets +1 on attack and damage rolls.
-- **Pass without Trace**: One subject/level leaves no tracks.
-- **Read Magic**: Read scrolls and spellbooks.
-- **Resist Energy**: Ignores 10 (or more) points of damage/attack from specified energy type.
-- **Speak with Animals**: You can communicate with animals.
-- **Summon Nature’s Ally I**: Summons creature to fight for you.
+- **[Jump](jump.md)**: Subject gets bonus on Acrobatics checks.
+- **[Longstrider](longstrider.md)**: Your base speed increases by 10 ft.
+- **[Magic Fang](magic-fang.md)**: One natural weapon of subject creature gets +1 on attack and damage rolls.
+- **[Pass without Trace](pass-without-trace.md)**: One subject/level leaves no tracks.
+- **[Read Magic](read-magic.md)**: Read scrolls and spellbooks.
+- **[Resist Energy](resist-energy.md)**: Ignores 10 (or more) points of damage/attack from specified energy type.
+- **[Speak with Animals](speak-with-animals.md)**: You can communicate with animals.
+- **[Summon Nature’s Ally I](summon-natures-ally-i.md)**: Summons creature to fight for you.
 
 ## 2nd-Level Ranger Spells
 
@@ -29,13 +29,13 @@
 - **[Cat’s Grace](cats-grace.md)**: Subject gains +4 to Dex for 1 min./level.
 - **[Cure Light Wounds](cure-light-wounds.md)**: Cures 1d8 damage + 1/level (max +5).
 - **[Hold Animal](hold-animal.md)**: Paralyzes one animal for 1 round/level.
-- **Owl’s Wisdom**: Subject gains +4 to Wis for 1 min./level.
-- **Protection from Energy**: Absorbs 12 points/level of damage from one kind of energy.
-- **Snare**: Creates a magic booby trap.
-- **Speak with Plants**: You can talk to plants and plant creatures.
-- **Spike Growth**: Creatures in area take 1d4 damage, may be slowed*.*
-- **Summon Nature’s Ally II**: Summons creature to fight for you.
-- **Wind Wall**: Deflects arrows, smaller creatures, and gases.
+- **[Owl’s Wisdom](owls-wisdom.md)**: Subject gains +4 to Wis for 1 min./level.
+- **[Protection from Energy](protection-from-energy.md)**: Absorbs 12 points/level of damage from one kind of energy.
+- **[Snare](snare.md)**: Creates a magic booby trap.
+- **[Speak with Plants](speak-with-plants.md)**: You can talk to plants and plant creatures.
+- **[Spike Growth](spike-growth.md)**: Creatures in area take 1d4 damage, may be slowed*.*
+- **[Summon Nature’s Ally II](summon-natures-ally-ii.md)**: Summons creature to fight for you.
+- **[Wind Wall](wind-wall.md)**: Deflects arrows, smaller creatures, and gases.
 
 ## 3rd-Level Ranger Spells
 
@@ -43,15 +43,15 @@
 - **[Cure Moderate Wounds](cure-moderate-wounds.md)**: Cures 2d8 damage +1/level (max. +10).
 - **[Darkvision](darkvision.md)**: See 60 ft. in total darkness.
 - **[Diminish Plants](diminish-plants.md)**: Reduces size or blights growth of normal plants.
-- **Magic Fang, Greater**: One natural weapon gets + 1/four levels (max. +5).
-- **Neutralize Poison**: Immunizes subject against poison, detoxifies venom in or on subject.
-- **Plant Growth**: Grows vegetation, improves crops.
-- **Reduce Animal**: Shrinks one willing animal.
-- **Remove Disease**: Cures all diseases affecting subject.
-- **Repel Vermin**: Insects, spiders, and other vermin stay 10 ft. away.
-- **Summon Nature’s Ally III**: Summons creature to fight for you.
-- **Tree Shape**: You look exactly like a tree for 1 hour/level.
-- **Water Walk**: Subject treads on water as if solid.
+- **[Magic Fang, Greater](magic-fang-greater.md)**: One natural weapon gets + 1/four levels (max. +5).
+- **[Neutralize Poison](neutralize-poison.md)**: Immunizes subject against poison, detoxifies venom in or on subject.
+- **[Plant Growth](plant-growth.md)**: Grows vegetation, improves crops.
+- **[Reduce Animal](reduce-animal.md)**: Shrinks one willing animal.
+- **[Remove Disease](remove-disease.md)**: Cures all diseases affecting subject.
+- **[Repel Vermin](repel-vermin.md)**: Insects, spiders, and other vermin stay 10 ft. away.
+- **[Summon Nature’s Ally III](summon-natures-ally-iii.md)**: Summons creature to fight for you.
+- **[Tree Shape](tree-shape.md)**: You look exactly like a tree for 1 hour/level.
+- **[Water Walk](water-walk.md)**: Subject treads on water as if solid.
 
 ## 4th-Level Ranger Spells
 
@@ -59,6 +59,6 @@
 - **[Commune with Nature](commune-with-nature.md)**: Learn about terrain for 1 mile/level.
 - **[Cure Serious Wounds](cure-serious-wounds.md)**: Cures 3d8 damage + 1/level (max +15).
 - **[Freedom of Movement](freedom-of-movement.md)**: Subject moves normally despite impediments to movement.
-- **Nondetection**: Hides subject from divination, scrying.
-- **Summon Nature’s Ally IV**: Summons creature to fight for you.
-- **Tree Stride**: Step from one tree to another far away.
+- **[Nondetection](nondetection.md)**: Hides subject from divination, scrying.
+- **[Summon Nature’s Ally IV](summon-natures-ally-iv.md)**: Summons creature to fight for you.
+- **[Tree Stride](tree-stride.md)**: Step from one tree to another far away.

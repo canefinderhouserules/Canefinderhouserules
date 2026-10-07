@@ -6,7 +6,7 @@
 **Range** touch  
 **Target** creature touched  
 **Duration** instantaneous  
-**Saving Throw** Will negates (harmless) or Will half, see text; **Spell** **Resistance** yes (harmless) or yes, see text
+**Saving Throw** Will negates (harmless) or Will half, see text; **Spell Resistance** yes (harmless) or yes, see text
 
 This spell cures 5d8 points of damage + 1 point per caster level (maximum +25).
 

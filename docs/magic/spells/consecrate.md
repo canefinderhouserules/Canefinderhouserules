@@ -10,8 +10,6 @@
 
 This spell blesses an area with positive energy. The DC to resist positive channeled energy within this area gains a +3 sacred bonus. Every undead creature entering a consecrated area suffers
 
-Contact Other Plane
-
 | Plane | Avoid Int/ |  |
 |---|---|---|
 | **Contacted** | **Cha Decrease** | **Answer** |

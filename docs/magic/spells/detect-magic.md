@@ -24,12 +24,10 @@ Magical areas, multiple types of magic, or strong local magical emanations may d
 | Strong | 1d6 × 10 minutes |
 | Overwhelming | 1d6 days |
 
-**Aura Power**
-
-| Moderate | Strong | Overwhelming |
-|---|---|---|
-| 4th–6th | 7th–9th | 10th+ (deity-level) |
-| 6th–11th | 12th–20th | 21st+ (artifact) |
+| Spell or Object | Faint | Moderate | Strong | Overwhelming |
+|---|---|---|---|---|
+| Functioning spell (spell level) | 3rd or lower | 4th–6th | 7th–9th | 10th+ (deity-level) |
+| Magic item (caster level) | 5th or lower | 6th–11th | 12th–20th | 21st+ (artifact) |
 
 Outsiders and elementals are not magical in themselves, but if they are summoned, the conjuration spell registers. Each round, you can turn to detect magic in a new area. The spell can penetrate barriers, but 1 foot of stone, 1 inch of common metal, a thin sheet of lead, or 3 feet of wood or dirt blocks it.
 

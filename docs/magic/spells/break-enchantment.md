@@ -1,6 +1,6 @@
 # Break Enchantment
 
-**School** abjuration; **Level** bard 4, cleric 5, paladin 4, sorcerer/ wizard 5  
+**School** abjuration; **Level** bard 4, cleric 5, paladin 4, sorcerer/wizard 5  
 **Casting Time** 1 minute  
 **Components** V, S  
 **Range** close (25 ft. + 5 ft./2 levels)  

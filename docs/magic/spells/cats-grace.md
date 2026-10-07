@@ -1,6 +1,6 @@
 # Cat’s Grace
 
-**School** transmutation; **Level** bard 2, druid 2, ranger 2, sorcerer/ wizard 2  
+**School** transmutation; **Level** bard 2, druid 2, ranger 2, sorcerer/wizard 2  
 **Casting Time** 1 standard action  
 **Components** V, S, M (pinch of cat fur)  
 **Range** touch  
