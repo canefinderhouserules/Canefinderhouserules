@@ -28,4 +28,7 @@ This feat allows you to acquire a powerful familiar, but only when you could nor
 </tbody>
 </table>
 
+!!! warning "House rule"
+    An improved familiar does **not** lose the passive bonus that a regular familiar grants its master. You choose the bonus from the standard familiar list (the familiar special ability table in the Wizard class) — either the one you had before taking this feat or any other entry on that list. You are not tied to the improved creature's type.
+
 Improved familiars otherwise use the rules for regular familiars*,* with two exceptions: if the creature’s type is something other than animal, its type does not change; and improved familiars do not gain the ability to speak with other creatures of their kind (although many of them already have the ability to communicate).

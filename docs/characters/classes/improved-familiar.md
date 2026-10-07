@@ -1,7 +1,5 @@
 # IMPROVED FAMILIAR
 
-Ahora también tienen el bono de familiar, el del que tenian antes o uno que le pegue al nuevo tipo de bicho sacado de la lista de aca arriba, consultar con master.
-
 **- Bloodrager:**
 
 **-- Primalist:** Podes cambiar 1 bloodline power por 1 rage power en vez de 2, y no podes ponerte los exclusivos de unchained barb (vease las stances).
