@@ -2,7 +2,7 @@
 
 *(Combat)*
 
-You can strike out at every foe w­ithin reach.
+You can strike out at every foe within reach.
 
 **Prerequisites**: Dex 13, Int 13, Combat Expertise, Dodge, Mobility, Spring Attack, base attack bonus +4.
 

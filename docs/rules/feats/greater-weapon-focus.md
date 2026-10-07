@@ -2,7 +2,7 @@
 
 *(Combat)*
 
-Choose one type of weapon (including u­narmed strike or grapple) for which you have already selected Weapon Focus. You are a master at your chosen weapon.
+Choose one type of weapon (including unarmed strike or grapple) for which you have already selected Weapon Focus. You are a master at your chosen weapon.
 
 **Prerequisites**: Proficiency with selected weapon, Weapon Focus with selected weapon, 8th-level fighter.
 

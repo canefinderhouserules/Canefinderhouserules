@@ -1,4 +1,4 @@
-# Weapons
+# Extended Weapon List
 
 <table>
 <colgroup>

@@ -10,7 +10,7 @@ The Pathfinder RPG uses a number of terms, abbreviations, and definitions in pre
 
 **Armor Class (AC)**: All creatures in the game have an Armor Class. This score represents how hard it is to hit a creature in combat. As with other scores, higher is better.
 
-**Base Attack Bonus (BAB)**: Each creature has a base attack bonus and it represents its skill in combat. As a character gains levels or Hit Dice, his base attack bonus improves. When a creature’s base attack bonus reaches +6, +11, or +16, he receives an additional attack in combat when he takes a full-attack action (which is one type of full-round action—­see Chapter 8).
+**Base Attack Bonus (BAB)**: Each creature has a base attack bonus and it represents its skill in combat. As a character gains levels or Hit Dice, his base attack bonus improves. When a creature’s base attack bonus reaches +6, +11, or +16, he receives an additional attack in combat when he takes a full-attack action (which is one type of full-round action—see Chapter 8).
 
 **Bonus**: Bonuses are numerical values that are added to checks and statistical scores. Most bonuses have a type, and as a general rule, bonuses of the same type are not cumulative (do not “stack”)—only the greater bonus granted applies.
 

@@ -2,7 +2,7 @@
 
 *(Combat)*
 
-You have mastered the ability to cast spells while w­earing armor.
+You have mastered the ability to cast spells while wearing armor.
 
 **Prerequisites**: Arcane Armor Training, Medium Armor Proficiency, caster level 7th.
 

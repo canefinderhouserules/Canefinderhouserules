@@ -6,4 +6,4 @@ You can use your *ki* pool more times per day than most.
 
 **Benefit**: Your *ki* pool increases by 2.
 
-**Special**: You can gain Extra *Ki* multiple times. Its e­ffects stack.
+**Special**: You can gain Extra *Ki* multiple times. Its effects stack.

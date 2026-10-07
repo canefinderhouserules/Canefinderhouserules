@@ -14,7 +14,7 @@ Some feats are general, meaning that no special rules govern them as a group. Ot
 
 ### Combat Feats
 
-Any feat designated as a combat feat can be selected as a fighter’s bonus feat. This designation does not restrict characters of other classes from selecting these feats, a­ssuming that they meet the prerequisites.
+Any feat designated as a combat feat can be selected as a fighter’s bonus feat. This designation does not restrict characters of other classes from selecting these feats, assuming that they meet the prerequisites.
 
 ### Critical Feats
 
@@ -30,7 +30,7 @@ Using an item creation feat also requires access to a laboratory or magical work
 
 **Time**: The time to create a magic item depends on the feat and the cost of the item.
 
-**Item Cost**: Brew Potion, Craft Staff, Craft Wand, and Scribe Scroll create items that directly reproduce spell e­ffects, and the power of these items depends on their caster level—that is, a spell from such an item has the power it would have if cast by a spellcaster of that level. The price of these items (and thus the cost of the raw materials) also depends on the caster level. The caster level must be low enough that the spellcaster creating the item can cast the spell at that level. To find the final price in each case, multiply the caster level by the spell level, then multiply the result by a constant, as shown below:
+**Item Cost**: Brew Potion, Craft Staff, Craft Wand, and Scribe Scroll create items that directly reproduce spell effects, and the power of these items depends on their caster level—that is, a spell from such an item has the power it would have if cast by a spellcaster of that level. The price of these items (and thus the cost of the raw materials) also depends on the caster level. The caster level must be low enough that the spellcaster creating the item can cast the spell at that level. To find the final price in each case, multiply the caster level by the spell level, then multiply the result by a constant, as shown below:
 
 - Scrolls: Base price = spell level × caster level × 25 gp.
 - Potions: Base price = spell level × caster level × 50 gp.
@@ -40,7 +40,7 @@ Using an item creation feat also requires access to a laboratory or magical work
 
 A 0-level spell is considered to have a spell level of 1/2 for the purpose of this calculation.
 
-**Extra Costs**: Any potion, scroll, or wand that stores a spell with a costly material component also carries a commensurate cost. For potions and scrolls, the creator must expend the material component cost when creating the item. For a wand, the creator must expend 50 units of the m*­*aterial component. Some magic items similarly incur extra costs in m­aterial components, as noted in their descriptions.
+**Extra Costs**: Any potion, scroll, or wand that stores a spell with a costly material component also carries a commensurate cost. For potions and scrolls, the creator must expend the material component cost when creating the item. For a wand, the creator must expend 50 units of the m**aterial component. Some magic items similarly incur extra costs in material components, as noted in their descriptions.
 
 **Skill Check**: Successfully creating a magic item requires a Spellcraft check with a DC equal to 5 + the item’s caster level. Alternatively, you can use an associated Craft or Profession skill to attempt this check instead, depending upon the item being crafted. See pages 550–553 in Chapter 15 for more details on which Craft and Profession checks may be substituted in this manner. The DC of this check can increase if the crafter is rushed or does not meet all of the prerequisites. A failed check ruins the materials used, while a check that fails by 5 or more results in a cursed item. See Chapter 15 for more details.
 
@@ -60,7 +60,7 @@ For a spell with a longer casting time, it takes an extra full-round action to c
 
 The modifications made by these feats only apply to spells cast directly by the feat user. A spellcaster can’t use a metamagic feat to alter a spell being cast from a wand, scroll, or other device.
 
-Metamagic feats that eliminate components of a spell don’t eliminate the attack of opportunity provoked by c­asting a spell while threatened. Casting a spell m­odified by Quicken Spell does not provoke an attack of opportunity.
+Metamagic feats that eliminate components of a spell don’t eliminate the attack of opportunity provoked by casting a spell while threatened. Casting a spell modified by Quicken Spell does not provoke an attack of opportunity.
 
 Metamagic feats cannot be used with all spells. See the specific feat descriptions for the spells that a particular feat can’t modify.
 

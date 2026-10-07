@@ -66,9 +66,9 @@ The benefits of the ranger’s chosen style feats apply only when he wears light
 **Favored Terrain (Ex)**: At 3rd level, a ranger may select a type of terrain from the Favored Terrains table. The ranger gains a +2 bonus on initiative checks and Knowledge (geography), Perception, Stealth, and Survival skill checks when he is in this terrain. A ranger traveling through his favored terrain normally leaves no trail and cannot be tracked (though he may leave a trail if he so chooses).
 
 !!! warning "House rule"
-    A ranger may change his favored terrain by spending 48 continuous hours in the new terrain of his choice. A ranger gains the ability to maintain a second favored terrain at 9th level (instead of 8th).
+    A ranger may change any of his favored terrains by spending 48 continuous hours in the new terrain of his choice.
 
-At 9th level and every five levels thereafter, the ranger may select an additional favored terrain.
+At 8th level and every five levels thereafter, the ranger may select an additional favored terrain.
 
 In addition, at each such interval, the skill bonus and initiative bonus in any one favored terrain (including the one just selected, if so desired), increases by +2.
 
@@ -103,18 +103,18 @@ If a specific terrain falls into more than one category of favored terrain, the 
 <tr><td>5th</td><td>+5</td><td>+4</td><td>+4</td><td>+1</td><td>2nd favored enemy</td><td>1</td><td>—</td><td>—</td><td>—</td></tr>
 <tr><td>6th</td><td>+6/+1</td><td>+5</td><td>+5</td><td>+2</td><td>Combat style feat</td><td>1</td><td>—</td><td>—</td><td>—</td></tr>
 <tr><td>7th</td><td>+7/+2</td><td>+5</td><td>+5</td><td>+2</td><td>Woodland stride</td><td>1</td><td>0</td><td>—</td><td>—</td></tr>
-<tr><td>8th</td><td>+8/+3</td><td>+6</td><td>+6</td><td>+2</td><td>Swift tracker</td><td>1</td><td>1</td><td>—</td><td>—</td></tr>
-<tr><td>9th</td><td>+9/+4</td><td>+6</td><td>+6</td><td>+3</td><td>Evasion, 2nd favored terrain</td><td>2</td><td>1</td><td>—</td><td>—</td></tr>
+<tr><td>8th</td><td>+8/+3</td><td>+6</td><td>+6</td><td>+2</td><td>Swift tracker, 2nd favored terrain</td><td>1</td><td>1</td><td>—</td><td>—</td></tr>
+<tr><td>9th</td><td>+9/+4</td><td>+6</td><td>+6</td><td>+3</td><td>Evasion</td><td>2</td><td>1</td><td>—</td><td>—</td></tr>
 <tr><td>10th</td><td>+10/+5</td><td>+7</td><td>+7</td><td>+3</td><td>3rd favored enemy, combat style feat</td><td>2</td><td>1</td><td>0</td><td>—</td></tr>
 <tr><td>11th</td><td>+11/+6/+1</td><td>+7</td><td>+7</td><td>+3</td><td>Quarry</td><td>2</td><td>1</td><td>1</td><td>—</td></tr>
 <tr><td>12th</td><td>+12/+7/+2</td><td>+8</td><td>+8</td><td>+4</td><td>Camouflage</td><td>2</td><td>2</td><td>1</td><td>—</td></tr>
-<tr><td>13th</td><td>+13/+8/+3</td><td>+8</td><td>+8</td><td>+4</td><td>—</td><td>3</td><td>2</td><td>1</td><td>0</td></tr>
-<tr><td>14th</td><td>+14/+9/+4</td><td>+9</td><td>+9</td><td>+4</td><td>Combat style feat, 3rd favored terrain</td><td>3</td><td>2</td><td>1</td><td>1</td></tr>
+<tr><td>13th</td><td>+13/+8/+3</td><td>+8</td><td>+8</td><td>+4</td><td>3rd favored terrain</td><td>3</td><td>2</td><td>1</td><td>0</td></tr>
+<tr><td>14th</td><td>+14/+9/+4</td><td>+9</td><td>+9</td><td>+4</td><td>Combat style feat</td><td>3</td><td>2</td><td>1</td><td>1</td></tr>
 <tr><td>15th</td><td>+15/+10/+5</td><td>+9</td><td>+9</td><td>+5</td><td>4th favored enemy</td><td>3</td><td>2</td><td>2</td><td>1</td></tr>
 <tr><td>16th</td><td>+16/+11/+6/+1</td><td>+10</td><td>+10</td><td>+5</td><td>Improved evasion</td><td>3</td><td>3</td><td>2</td><td>1</td></tr>
 <tr><td>17th</td><td>+17/+12/+7/+2</td><td>+10</td><td>+10</td><td>+5</td><td>Hide in plain sight</td><td>4</td><td>3</td><td>2</td><td>1</td></tr>
-<tr><td>18th</td><td>+18/+13/+8/+3</td><td>+11</td><td>+11</td><td>+6</td><td>Combat style feat</td><td>4</td><td>3</td><td>2</td><td>2</td></tr>
-<tr><td>19th</td><td>+19/+14/+9/+4</td><td>+11</td><td>+11</td><td>+6</td><td>Improved quarry, 4th favored terrain</td><td>4</td><td>3</td><td>3</td><td>2</td></tr>
+<tr><td>18th</td><td>+18/+13/+8/+3</td><td>+11</td><td>+11</td><td>+6</td><td>4th favored terrain, combat style feat</td><td>4</td><td>3</td><td>2</td><td>2</td></tr>
+<tr><td>19th</td><td>+19/+14/+9/+4</td><td>+11</td><td>+11</td><td>+6</td><td>Improved quarry</td><td>4</td><td>3</td><td>3</td><td>2</td></tr>
 <tr><td>20th</td><td>+20/+15/+10/+5</td><td>+12</td><td>+12</td><td>+6</td><td>5th favored enemy, master hunter</td><td>4</td><td>4</td><td>3</td><td>3</td></tr>
 </tbody>
 </table>

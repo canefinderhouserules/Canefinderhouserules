@@ -182,7 +182,7 @@ Your bloodline is blessed by a celestial power, either from a celestial ancestor
 
 **Class Skill**: Heal.
 
-**Bonus Spells**: *bless* (3rd), *resist energy* (5th), *magic circle* *against evil* (7th), *remove curse* (9th), *flame strike* (11th), *g­reater dispel magic* (13th), *banishment* (15th), *sunburst* (17th), *gate* (19th).
+**Bonus Spells**: *bless* (3rd), *resist energy* (5th), *magic circle* *against evil* (7th), *remove curse* (9th), *flame strike* (11th), *greater dispel magic* (13th), *banishment* (15th), *sunburst* (17th), *gate* (19th).
 
 **Bonus Feats**: Dodge, Extend Spell, Iron Will, Mobility, Mounted Combat, Ride-By Attack, Skill Focus (Knowledge [religion]), Weapon Finesse.
 

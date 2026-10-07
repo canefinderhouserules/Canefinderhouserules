@@ -1,6 +1,6 @@
 # Greater Spell Penetration
 
-Your spells break through spell resistance much more e­asily than most.
+Your spells break through spell resistance much more easily than most.
 
 **Prerequisite**: Spell Penetration.
 
