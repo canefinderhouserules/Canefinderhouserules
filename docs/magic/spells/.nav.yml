@@ -1,0 +1,9 @@
+nav:
+  - index.md
+  - bard-spells.md
+  - cleric-spells.md
+  - druid-spells.md
+  - paladin-spells.md
+  - ranger-spells.md
+  - sorcerer-wizard-spells.md
+  - "*"

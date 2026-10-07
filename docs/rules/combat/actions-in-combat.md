@@ -164,7 +164,7 @@ You can make attacks with natural weapons in combination with attacks made with 
     | 14th–18th | 6 |
     | 19th–20th | 7 |
 
-    A creature or form that has only one natural attack can spend one feat to gain iterative attacks with it, like the shifter class feature (each extra attack at the usual iterative progression).
+    A creature or form that has only one natural attack can spend one feat to gain iterative attacks with it (each extra attack at the usual iterative progression).
 
 **Shooting or Throwing into a Melee**: If you shoot or throw a ranged weapon at a target engaged in melee with a friendly character, you take a –2 penalty on your attack roll. Two characters are engaged in melee if they are enemies of each other and either threatens the other. (An unconscious or otherwise immobilized character is not considered engaged unless he is actually being attacked.)
 
