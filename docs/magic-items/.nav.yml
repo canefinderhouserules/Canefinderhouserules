@@ -2,4 +2,6 @@ nav:
   - index.md
   - Armor and Shields: armor.md
   - Specific Armors and Shields: armor-specific.md
+  - Weapons: weapons.md
+  - Specific Weapons: weapons-specific.md
   - "*"
