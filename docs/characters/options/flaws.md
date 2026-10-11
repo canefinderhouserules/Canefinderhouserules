@@ -1,63 +1,58 @@
 # Flaws
 
-Poco agraciado: 100xp No eres muy atractivo a simple vista, con rasgos un tanto exóticos o alejados de lo que se consideraría hegemónico para la mayoría, si bien a este nivel puedes ocultarlo con maquillaje u otros artilugios, en general tendrás un penalizador a las presentaciones con otros NPCs.
+**Plain** (100 XP): you are not very attractive at first sight, with somewhat exotic features, far from what most would consider conventionally attractive. At this level you can hide it with makeup or other devices, but you generally take a penalty on introductions with NPCs.
 
-Feo: 250xp No eres para nada atractivo, con rasgos que casi nadie podría considerar gustosos o agradables, marcas de acné, narices masivas, ojos saltones, etc. Es dificil de disimular con maquillaje, aunque posible de hacerlo con magia. Tendrás un gran penalizador a las presentaciones con algunos NPCs.
+**Ugly** (250 XP): you are not attractive at all, with features almost no one would find pleasant: acne scars, a massive nose, bulging eyes, and so on. It is hard to hide with makeup, though possible with magic. You take a large penalty on introductions with some NPCs.
 
-Horrible: 500xp Has nacido verdaderamente repulsivo para la especie, posiblemente por algún problema de nacimiento que va mas allá de rasgos asimétricos o poco queribles, entrando en categoría de labio leporino o símiles. En muchas culturas afectara gravemente tus presentaciones con NPCs e incluso la magia tiene problema para taparlo.
+**Hideous** (500 XP): you were born truly repulsive for your species, possibly from a birth defect that goes beyond asymmetrical or unlovely features, into the territory of a cleft lip or the like. In many cultures it seriously affects your introductions with NPCs, and even magic has trouble covering it.
 
-Desfigurado: 400xp Terribles heridas te han dejado desfigurado, acercándote a la visión de alguien horrible. Lo único benévolo en comparación es que algunas razas encuentran respetable o son mas dadas a la empatía con este tipo de condición, principalmente si ha sucedido por un medio bélico o heróico (Representable en contactos)
+**Disfigured** (400 XP): terrible wounds have left you disfigured, close to a hideous appearance. The one mercy is that some races find this respectable or are more empathetic toward it, especially if it came from war or heroism (can be represented with Contacts).
 
-Manco: 500xp Te falta una mano, o esta anquilosada e inútil, tu decides por que. No puedes equipar ningún objeto en dicha mano.
+**One-Handed** (500 XP): you are missing a hand, or it is withered and useless; you decide why. You cannot equip any item in that hand.
 
-Sin brazo: 750xp: Careces de un brazo o no puedes moverlo. Mas allá de no poder equiparle objetos, recibes también un penalizador de -4 a fuerza o destreza en Combat Manouvers, también aplica a tiradas de fuerza o carga que requieran ambos brazos.
+**No Arm** (750 XP): you lack an arm or cannot move it. Besides being unable to equip items in it, you take a –4 penalty to Strength or Dexterity on combat maneuvers, and to Strength or carrying checks that require both arms.
 
-Sin dedos: 250xp: ¡Has perdido 1d3 de dedos! O te han quedado inútiles, sufres -2 a la destreza o fuerza en tiradas que requieran usar las manos, también ataques que busquen desarmarte o quitarte algo de las manos obtienen un +3.
+**Missing Fingers** (250 XP): you have lost 1d3 fingers, or they are useless. You take –2 to Dexterity or Strength on checks that require your hands, and attacks that try to disarm you or take something from your hands gain +3.
 
-Sordera parcial: 100xp: El personaje pierde -2 en perception rolls.
+**Partial Deafness** (100 XP): the character takes –2 on Perception rolls.
 
-Sordo: 400xp (800xp si es caster): El personaje no puede tirar escuchar, sufre -4 iniciativa según el contexto y si tiene que usar un componente verbal al lanzar hechizos, tiene 20% de chance de fallar.
+**Deaf** (400 XP; 800 XP for casters): the character cannot make hearing checks, takes –4 to initiative depending on context, and has a 20% chance of failure when casting a spell with a verbal component.
 
-Problema visual: 100xp: -1 a ataques en general, -4 a la percepción visual y tu personaje solo puede ver a la mitad de la distancia normal. También tiene problemas para leer. Puede corregirse con anteojos.
+**Vision Problem** (100 XP): –1 to attacks in general, –4 on visual Perception, and the character can only see half the normal distance. Reading is also difficult. Can be corrected with glasses.
 
-Problema del habla 100xp (500 si es caster): El personaje es tartamudo o cuenta con sindrome de tourette, o semejantes. Cuenta con -4 a las tiradas de diplomacia o similes y puede tener un fallo arcano del 20% al usar hechizos que requieran componente verbal.
+**Speech Problem** (100 XP; 500 XP for casters): the character stutters, has Tourette syndrome, or something similar. They take –4 on Diplomacy and similar checks and may suffer a 20% arcane failure chance on spells with a verbal component.
 
-Pesadillas 250xp: El personaje tiene horribles pesadillas al dormir, lanza 1d10 y cada vez que saque 1 o 2 puede ganar estrés al despertar, también despertando a los demás con terribles alaridos. El personaje además tiene -4 a cualquier spell que sirva para manipular los sueños.
+**Nightmares** (250 XP): the character has horrible nightmares. Roll 1d10 each night; on a 1 or 2 they may gain stress on waking, also waking others with terrible screams. The character also takes –4 to any spell that manipulates dreams.
 
-Fobia: 500xp: El personaje tiene una importante fobia, deberá lanzar una Will Check contra miedo en cuanto el objeto de su terror aparezca, ganando estrés y teniendo las siguientes consecuencias.
+**Phobia** (500 XP): the character has a serious phobia. They must make a Will save against fear as soon as the object of their terror appears, gaining stress and suffering the following consequences:
 
-CD: 20 Superas tu fobia sin efecto.
+| Result | Effect |
+|---|---|
+| DC 20 | You overcome your phobia with no effect. |
+| DC 16 | You are shaken for 1d4 rounds. |
+| DC 12 | You are shaken until the object of your phobia goes away. |
+| DC 8 | You must flee the scene. |
+| Natural 1 | You are paralyzed. |
 
-CD: 16 Entras en estado de shaken por 1d4 turnos.
+**Disgust** (100 XP): something fills your character with absolute revulsion (rats, insects, drinking from the same cup; your choice). You must make a DC 12 Will save to interact with the object, or end up making a scene. A natural 1 means vomiting or retching.
 
-CD: 12 Entras en estado de shaken hasta que el objeto de tu fobia desaparezca.
+**Hatred** (100/200/300 XP): you hate someone: a hatred of a gender, of humanity, of a particular race, and so on. The larger the group and the more likely the interaction, the more XP. An orc who hates humans is worth 100; a character who hates women is worth 300; an elf who hates the horde is worth 200. In combat you must make a DC 14 Will save or go attack that person in some way. You take –4 on Diplomacy when talking to them and need a Bluff check to hide your annoyance.
 
-CD: 8 Tienes que escapar de la escena.
+**Old Battle Wound** (150 XP): one of your old wounds never healed well. If you roll a natural 1 on any physical check (Athletics, Acrobatics, a combat maneuver, etc.), you suffer an effect similar to *pain strike*, cast by a wizard of your level.
 
-Pifia: Te paralizas.
+**Lame** (750 XP): the character cannot use one leg well. They lose 5 feet of their maximum movement speed and take –4 on Acrobatics and Athletics checks. Difficult terrain is also more severe for them.
 
-Asco: 100xp: No, no es la asociacion de saltadores compulsivos. Algo le genera absoluta repulsión a tu personaje (Ratas, insectos, tomar del mismo vaso, tu eliges) Tendrás que hacer una Will save, CD 12 para interactuar con el objeto en cuestión, o acabarás montando una escena. Una pifia implica vomitar o tener arcadas.
+**No Leg** (1,500 XP): the character is missing a leg, and must crawl or rely on someone to walk, making their state "lame" while this holds. They can use crutches, but those immobilize the arm that holds them. They can wear a peg leg, but it lets them move only at half their normal speed and gives –8 to Acrobatics and Athletics.
 
-Odio: 100/200/300xp: Odias a alguien, puede ser misandria, misantropía, misoginia, una raza en particular, etc. (a mas grande el grupo y mas probable la interración, mas exp)
+**Blind** (1,500 XP): the character cannot see; apply the rules for blindness. Buying the Blind-Fight feat may be worthwhile.
 
-Un orco que odia humanos sería 100. Un personaje que odia a las mujeres sería 300, un elfo que odia a la horda sería 200. Lo cierto es que detestas a algún tipo de grupo. En combate deberás realizar una Will save, CD 14 o ir a golpear/atacar a esa persona de alguna forma. Tendrás -4 a la diplomacia al hablar con ellos y requerirás una tirada de bluff para disimular tu fastidio.
+**Paralyzed** (2,000 XP): the character has no legs or cannot move them. They must use a wheelchair, moving at 1/4 normal speed, and can only crawl without it.
 
-Vieja herida de batalla: 150xp: Una de tus viejas heridas jamás se curó bien, si sacas un 1 en algún tipo de check fisico (Atletismo, acrobacia, combat manouver, etc) sufren un efecto similar a Pain Strike, casteado por un mago de su nivel.
+**Allergy** (100 XP): you are allergic to something. The less common it is, the deadlier it is. Make a Fortitude check in the presence of the allergen:
 
-Cojo: 750xp El personaje no puede usar bien una pierna, pierde 5 de su velocidad máxima de movimiento y sufre -4 a acrobatics y athletics checks. También el difficult terrain es mas drástico para ellos.
-
-Sin pierna: 1500xp: Al personaje le falta una pierna, tiene que arrastrarse o usar a alguien para caminar, transformando su estado en "cojo" mientras esto pase. Puede usar muletas, pero le inmovilizará el brazo donde la posea. Puede ponerse una peg leg, pero esto solo le deja moverse a la mitad de su velocidad normal y lo deja con -8 acrobatics -8 athletics.
-
-Ciego: 1500xp: El personaje no puede ver, hay que ver los efectos. Comprar el feat de pelear en la oscuridad puede ser interesante.
-
-Paralítico: 2000xp El personaje no tiene piernas o no puede moverlas, debe ir en silla de ruedas, avanzando a 1/4 de la velocidad normal, y solo puede arrastrarse sin esta.
-
-Alergia: 100xp: Eres alérgico a algo, ten en cuenta que a menos común sea, mas mortal será, debes lanzar una fortitud check en presencia de lo que te da alergia.
-
-DC 20: Lo aguantas
-
-DC 14: Estornudos
-
-DC: 10 Reacción inflamatoria/urticaria
-
-1: Pifia: Problema respiratorio
+| Result | Effect |
+|---|---|
+| DC 20 | You hold it off. |
+| DC 14 | Sneezing. |
+| DC 10 | Inflammatory reaction or hives. |
+| Natural 1 | Breathing problems. |

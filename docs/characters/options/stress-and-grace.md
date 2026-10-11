@@ -1,165 +1,102 @@
 # Stress and Grace
 
-## Estres
+## Stress
 
-+1 estrés.
+| Stress gained | Example |
+|---|---|
+| +1 | Suffering a slight annoyance, a joke that fell flat, seeing a very large spider on you. |
+| +5 | Hearing very hurtful words, being treated unjustly. |
+| +10 | Taking a beating, fearing for your personal safety, suffering serious helplessness. |
+| +25 | Watching a short-term goal fail completely, the failure of a romantic infatuation. |
+| +50 | Feeling utterly alone for at least four months, the loss of a loved one. |
+| +100 | The loss of someone enormously close, loss of meaning in life, a total lack of purpose. |
+| +200 | The loss of an absolutely beloved person, a soul mate, or a parent or guardian at a moment of clear need; the absolute failure of the character's lifelong ambitions, and so on. |
 
-Sufrir una ligera molestia, chiste que cayó mal, ver una araña muy grande encima tuyo, etc
+## Stress Thresholds
 
-+5 estrés.
+The stress threshold represents the character's inner thoughts and state of mind. It can be masked with subterfuge, high Charisma and a powerful will, but it remains within the character.
 
-Escuchar palabras muy hirientes, ser tratado injustamente.
+**0–24:** your state of mind is normal.
 
-+10 estrés.
+**25–99:** you are slightly downcast. You struggle to find the energy for some things, and thoughts of anger, resentment or sadness often invade you. (–1 on social checks to make others like you.)
 
-Recibir una golpiza, temer por la integridad personal, sufrir impotencia grave.
+**100–199:** you have been put through so much pain that it is common to develop strange ways of coping, from a severe compulsion that forbids stepping on lines to self-harm to calm your anxiety. Interest in life diminishes and thoughts of death begin to stalk you. (–1 on social checks, –1 on Determination checks.)
 
-+25 estrés.
+You must make a Determination check, with these results:
 
-Ver una meta corta fracasar por completo, fracaso de un capricho amoroso.
+| Result | Outcome |
+|---|---|
+| Less than Normal | +10 stress and a negative trait. |
+| Normal | Negative trait and –10 stress. |
+| Difficult | Negative trait and –25 stress. |
+| Very Difficult | Choose a negative trait and –50 stress, or gain +50 stress with no negative trait. |
+| Epic | Choose a negative trait and –75 stress, or gain +25 stress with no trait. |
+| Legendary | Negative trait and –100 stress, or no trait and no stress gained. |
 
-+50 estrés.
+**200–299:** your agony is immense. You often find yourself fantasizing about your own death, the end of your existence and so the end of your suffering. You may begin to have somatic manifestations of your unbearable pain, and your mental state deteriorates further, corrupting whatever sanity you had left and leading to fits of rage or paralyzing depression. (–2 on social checks, –2 on Determination.)
 
-Sentirse absolutamente solo por al menos cuatro meses, pérdida de un ser querido.
+| Result | Outcome |
+|---|---|
+| Less than Difficult | +10 stress and a negative trait. |
+| Difficult | Negative trait and –10 stress. |
+| Very Difficult | Negative trait and –25 stress. |
+| Epic | Choose a negative trait and –50 stress, or gain +50 stress with no negative trait. |
+| Legendary | Choose a negative trait and –75 stress, or gain +25 stress with no trait. |
+| Mythic | Negative trait and –100 stress, or no trait and no stress gained. |
 
-+100 estrés.
+**300–399:** *"Keeping your composure when everyone else would have understood if you had given up: there lies true strength."*
 
-Pérdida de una persona enormemente cercana, pérdida de sentido en la vida, falta total de propósito.
+If the character has not killed themselves after crossing this threshold, they undoubtedly long for death with every part of their being. This is someone utterly destroyed and crushed by life, the lowest state of human will, who believes everything has been taken from them and has reached the height of stress. (–4 on social checks, –3 on Determination, +1 Intimidate.)
 
-+200 estrés.
+| Result | Outcome |
+|---|---|
+| Less than Very Difficult | +10 stress and a negative trait. |
+| Very Difficult | Negative trait and –10 stress. |
+| Epic | Negative trait and –25 stress. |
+| Legendary | Choose a negative trait and –50 stress, or gain +50 stress with no negative trait. |
+| Mythic | Choose a negative trait and –75 stress, or gain +25 stress with no trait. |
+| Impossible | Negative trait and –100 stress, or no trait and no stress gained. |
 
-Perdida de una persona absolutamente amada, alma gemela, figura paterna/materna o tutor en momento de clara necesidad, fracaso absoluto de las ambiciones de toda la vida del personaje, etc.
+**400–499:** if the character is still alive, there is little left to say. (–5 on social checks, –4 on Determination, +2 Intimidate.)
 
-## Umbrales de estrés
+**500 stress:** the limit of human endurance. Beyond this point any mortal is broken and plunged into absolute madness. If their health does not make them succumb, they are no longer master of their own reason. (–8 on social checks, –7 on Determination, +3 Intimidate.)
 
-El umbral de estrés representa los pensamientos internos del personaje y su estado anímico, el cual, si bien puede ser enmascarado con un subterfugio y carisma alto, además de una voluntad poderosa... seguirá vigente dentro del personaje.
+## Grace
 
-**0:** Tu estado anímico es normal.
+| Grace gained | Example |
+|---|---|
+| +1 | Receiving a welcome compliment, receiving an affectionate caress. |
+| +5 | Being recognized as useful, receiving signs of affection. |
+| +10 | Seeing progress toward a short-term goal, seeing the fruit of your effort. |
+| +25 | Seeing a short-term goal satisfactorily completed, winning a romantic infatuation. |
+| +50 | Feeling surrounded by loved ones, having a very special moment with someone, having a child. |
+| +100 | Seeing a life purpose begin to be fulfilled, achieving a monumental goal, having a long-awaited child. |
+| +200 | Achieving the character's lifelong dream. |
 
-**25 al 99:** Estas ligeramente decaído, te cuesta encontrar energía para hacer algunas cosas y es normal que pensamientos de enojo, resentimiento o tristeza te invadan. (-1 En las tiradas sociales para caer bien a otros.)
+## Grace Thresholds
 
-**100 al 199:** Has sido sometido a tanto dolor que es común que desarrolles maneras extrañas de tolerarlo, desde un severo TOC que te obliga a no pisar las líneas hasta el autoflagelarte para calmar tu ansiedad. Es normal que sientas un interés por la vida disminuido y pensamientos de un thanatos elevado empiecen a asecharte. (-1 en las tiradas sociales, -1 a Tiradas de Determinacion)
+**50–99 Grace:** the character is happy and usually in a good mood. +1 on Charisma checks for social skills.
 
-Requerirá una tirada de Determinacion con los siguientes resultados:
+**100–199 Grace:** the character feels fulfilled, and it is hard to pull them away from whatever they are doing. +2 on Charisma checks for social skills, +1 Determination.
 
-Menos de normal: +10 estrés y un trait negativo.
+**200–299 Grace:** the character is immensely happy. At this point they will likely struggle to leave where they are or the company they keep, unless they have a deeply held goal. High Determination checks are required to avoid succumbing to the lethargy of staying put. (If they earned their grace by loving a partner and having a family, they may give up the adventuring life; if instead they earned it by being the greatest of warriors, they may find it hard to leave war.) +3 on Charisma checks for social skills, +2 Determination.
 
-Normal: Trait negativo y -10 al estrés.
+**300–499 Grace:** the character wears an indelible smile of satisfaction. Their gratitude for being alive is so intense it can be unbearable to others; their light and happiness cloy and seduce alike. The world is a beautiful place. +4 on Charisma checks for social skills, +3 Determination.
 
-Dificil: Trait negativo y -25 al estrés.
+**500 Grace:** +4 on Charisma checks for social skills, +3 Determination. In addition, anyone who counts you at least a friend gains an extra –10 stress per year (your happiness is contagious).
 
-Muy dificil: Puede optar por un trait negativo y -50 al estrés, o por obtener +50 estrés sin un trait negativo.
+## Yearly Positives and Negatives from Relationships
 
-Épico: Puede optar por un trait negativo y -75 al estrés, o por obtene +25 al estrés sin trait.
-
-Legendario: Trait negativo y -100 al estrés, o sin trait pero sin ganar estrés.
-
-**200 al 299:** Tu agonía es inmensa, a menudo te encuentras fantaseando con tu propia muerte, el cese de tu existencia y por lo tanto, el final de tu sufrimiento por este mundo. Puede que empieces a tener manifestaciones somáticas de tu dolor inaguantable, tu estado mental se deteriora incluso mas, corrompiendo cualquier clase de sanidad que pudieses tener, conduciéndote a ataques de cólera o depresiones paralizantes. (-2 en las tiradas sociales, -2 a Determinacion)
-
-Menos de Dificil: +10 estrés y un trait negativo.
-
-Dificil: Trait negativo y -10 al estrés.
-
-Muy Dificil: Trait negativo y -25 al estrés.
-
-Epico: Puede optar por un trait negativo y -50 al estrés, o por obtener +50 estrés sin un trait negativo.
-
-Legendario: Puede optar por un trait negativo y -75 al estrés, o por obtene +25 al estrés sin trait.
-
-Mítico: Trait negativo y -100 al estrés, o sin trait pero sin ganar estrés.
-
-**300 al 399:** "El mantener la compostura cuando todos los demás hubiesen comprendido si te hubieses rendido, allí reside la verdadera fuerza"
-
-Si el personaje no se ha matado tras cruzar este umbral, es indudable que al menos anhela la muerte con cada parte de su ser. Hablamos de alguien destruido y aplastado por completo por la vida, el estado mas paupérrimo de la voluntad humana, una persona que considera que le han arrebatado todo y ha llegado al colmo del estrés. (-4 a las tiradas sociales, -3 a la Determinacion) (+1 intimidar)
-
-Menos de Muy Dificil: +10 estrés y un trait negativo.
-
-Muy dificil: Trait negativo y -10 al estrés.
-
-Epico: Trait negativo y -25 al estrés.
-
-Legendario: Puede optar por un trait negativo y -50 al estrés, o por obtener +50 estrés sin un trait negativo.
-
-Mítico: Puede optar por un trait negativo y -75 al estrés, o por obtene +25 al estrés sin trait.
-
-Imposible: Trait negativo y -100 al estrés, o sin trait pero sin ganar estrés.
-
-**400 al 499:** Si el personaje esta vivo, ya no sé ni que escribir por el, mas que F. (-5 a las tirada sociales, -4 a la Determinacion) (+2 intimidar)
-
-**500 estrés:** El límite de la resistencia humana, mas allá de este punto, cualquier ser mortal estará quebrado y sumido en una locura absoluta. Si su salud no lo hace sucumbir, ya no es dueño de su razón. (-8 a las tiradas sociales, -7 a la Determinacion) (+3 intimidar)
-
-## Gracia
-
-+1 Gracia
-
-Recibir un halago bienvenido, recibir una caricia afectuosa.
-
-+5 Gracia
-
-Ser reconocido como alguien útil, recibir muestras de afecto.
-
-+10 Gracia
-
-Ver el progreso de una meta corta, ver el fruto de tu esfuerzo.
-
-+25 Gracia
-
-Ver una meta corta completarse satisfactoriamente, lograr un capricho amoroso.
-
-+50 Gracia
-
-Sentirse rodeado de seres amados, tener un momento muy especial con alguien, tener un hijo.
-
-+100 Gracia.
-
-Ver un propósito de la vida comenzar a alcanzarse, cumplir una meta descomunal, tener un hijo muy esperado.
-
-+200 estrés.
-
-Conseguir el sueño de toda la vida del personaje.
-
-## Umbrales de Gracia
-
-50-99 Gracia: El personaje es féliz y suele encontrarse de buen humor.
-
-+1 a las tiradas de carisma para skills sociales.
-
-100-199 Gracia: El personaje se siente pleno, y es dificil alejarlo de lo que sea que este haciendo.
-
-+2 a las tiradas de carisma para skills sociales, +1 Determinacion.
-
-200-299 Gracia: El personaje es inmensamente feliz, a este punto es probable que le cueste abandonar el lugar donde se encuentra o las compañías que tiene a menos que tenga una meta muy consagrada. Requerirá tiradas de Determinacion altas para no sucumbir ante el letargo de mantenerse en donde esté.
-
-(Si obtuvo su gracia amando a una mujer y teniendo familia, puede que deje su vida de aventurero, si por el contrario, la obtuvo siendo el mas grande de los guerreros, puede que le cueste abandonar las guerras.)
-
-+3 a la tirada de carisma para skills sociales, +2 Determinacion.
-
-300-499 Gracia: El personaje tiene una sonrisa de satisfacción imborrable, su nivel de agradecimiento con estar vivo es tan intenso que puede ser insoportable para otros, su luz y felicidad empalagan y seducen por igual. El mundo es un sitio hermoso...
-
-+4 a la tirada de carisma para skills sociales, +3 a la Determinacion.
-
-500 gracia: +4 a la tirada de carisma para skills sociales, +3 a la Determinacion. -10 estres extra anual a quienes te tengan como minimo de amigo (tu felicidad es contagiosa)
-
-## Positivos y Negativos anuales por allegados
-
-Alma gemela: +50 Gracia \[Maximo 1\]
-
-Amor romántico: +40 Gracia \[Maximo 1\]
-
-Familiar amado: +30 Gracia \[Maximo 3\]
-
-Pareja Sexual: +30 Gracia \[Maximo 2 o 3 con lujurioso\]
-
-Amigo increible: +25 Gracia \[Maximo 3\]
-
-Amigo: +10 Gracia \[Maximo 4\]
-
-Conocido amigable: +5 Gracia \[Maximo 4\]
-
-Conocido enemistado: +5 estrés \[Maximo 5\]
-
-Enemigo: +10 estrés \[Maximo 4\]
-
-Gran enemigo: +25 estrés \[Maximo 3\]
-
-Persona que odias con toda tu alma: +50 estrés \[Maximo 2\]
+| Relationship | Yearly effect | Maximum |
+|---|---|---|
+| Soul mate | +50 Grace | 1 |
+| Romantic love | +40 Grace | 1 |
+| Beloved relative | +30 Grace | 3 |
+| Sexual partner | +30 Grace | 2 (3 with Lustful) |
+| Incredible friend | +25 Grace | 3 |
+| Friend | +10 Grace | 4 |
+| Friendly acquaintance | +5 Grace | 4 |
+| Estranged acquaintance | +5 stress | 5 |
+| Enemy | +10 stress | 4 |
+| Great enemy | +25 stress | 3 |
+| Person you hate with all your soul | +50 stress | 2 |

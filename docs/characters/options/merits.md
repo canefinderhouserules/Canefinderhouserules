@@ -1,18 +1,17 @@
 # Merits
 
-Optimista: 250xp Siempre que ganes estrés, puedes realizar una Will save, CD 15 para ver el lado bueno de las cosas, reduciendo a la mitad lo que hubieses ganado.
+**Optimist** (250 XP): whenever you gain stress, you may make a DC 15 Will save to see the bright side, halving the stress you would have gained.
 
-Fanático: 250xp Alguna actividad te es increíblemente útil para disminuir tu estrés, ganando el doble de ocio al realizarla. (Puedes elegirla a tu gusto, siendo entrenar, leer, charlar, tener sexo, comer, etc)
+**Fanatic** (250 XP): some activity is incredibly useful for reducing your stress, and you gain double leisure from doing it. You choose the activity: training, reading, chatting, sex, eating, and so on.
 
-Apático: 250xp Bueno, la realidad es que las cosas no suelen importarte mucho. Reduces a la mitad automaticamente cualquier estrés obtenido, lamentablemente, también reduces a la mitad cualquier felicidad u ocio obtenida.
+**Apathetic** (250 XP): things rarely matter much to you. You automatically halve any stress gained; unfortunately, you also halve any happiness or leisure gained.
 
-Atractivo: 250xp Tu personaje tiene rasgos afables y siméticos, agradables para la mayoría de las culturas del mundo independientemente de su raza. Puede experimentar una reducción de dificultades en la tirada de carisma al realizar una tirada de primera vista con un npc.
+**Attractive** (250 XP): your character has pleasant, symmetrical features that most cultures find agreeable regardless of race. Charisma checks for a first impression with an NPC have a reduced DC.
 
-Bello: 500xp Tu personaje tiene rasgos genuinamente llamativos, resaltando por encima de la media allí donde va, tiene una reducción significativa de dificultad con personajes que puedan encontrarlo atractivo, al mismo tiempo, el exceso de atención podría ocasionarle problemas.
+**Beautiful** (500 XP): your character has genuinely striking features and stands out above the average wherever they go. Social difficulty is significantly reduced with characters who might find them attractive; at the same time, the excess attention can cause problems.
 
-Destructor: 500xp A mayor tu estrés, mayor tus capacidades de combate. Por cada 100 puntos de estrés, ganan +1 Impacto (Hasta un máximo de 3).
+**Destroyer** (500 XP): the more stress you have, the better your combat ability. For every 100 points of stress you gain +1 Impact (maximum 3).
 
-Hermoso: 1000xp Tu personaje deja anonadado a casi cualquiera con su mera presencia, es muy difícil olvidarlo y cuenta con rasgos y facciones verdaderamente resaltantes. Es muy facil que los personajes le encuentren atractivo, incluso si no son de su misma especie, representandose en una reducción a ciertas dificultades en tiradas sociales. Es posible que también atraigas admiradores pesados o peligrosos.
+**Gorgeous** (1,000 XP): your character stuns almost anyone with their mere presence. They are very hard to forget and have truly remarkable features. Characters find them attractive very easily, even those of another species, which reduces the DC of certain social checks. You may also attract pushy or dangerous admirers.
 
-Adalid: 1000xp Eres el campeón de alguna deidad o fuerza mágica del mundo, decidirás con el master alguna misión que te haya sido impuesta por la misma y la cual deberás completar a lo largo de la trama. Tu Dios o Deidad puede enviarte ayuda ocasionalmente o salvarte las papas del fuego mas de una vez, pero se enfadará si llevas tiempo sin progresar en tu misión.
-
+**Champion** (1,000 XP): you are the champion of some deity or magical force of the world. You and the GM decide on a mission that has been laid upon you, which you must complete over the course of the story. Your deity may occasionally send help or save you from trouble more than once, but will be angry if you go a long time without progressing in your mission.

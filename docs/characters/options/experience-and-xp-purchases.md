@@ -1,49 +1,36 @@
 # Experience and XP Purchases
 
-Milestone: Se ganan niveles cuando el master ha considerado que han atravesado suficientes penurias para que obtengan +1 nivel.
+**Milestone:** levels are gained when the GM judges that the party has endured enough hardship to earn +1 level.
 
-## Experiencia por rol
+## Experience for Roleplaying
 
-Rol Social: +30xp.
+| Award | XP |
+|---|---|
+| Social role | +30 |
+| Relevant social role | +50 |
+| Transcendental social role | +100 |
+| Epic combat action | +100 |
+| Legendary combat action | +200 |
+| Transcendental combat action | +300 |
 
-Rol Social relevante: +50xp.
+## Purchases with Experience
 
-Rol social trascendental: +100xp.
+| Purchase | Cost | Notes |
+|---|---|---|
+| Skill point | 100 XP | |
+| Stat point | 1,000 XP | No more than 2 per stat, no more than 4 points in total. |
+| Spell known | 100 XP | Requires a teacher. ×10 for spontaneous casters. ×5–10 (negotiable) for spells from another spellbook. |
+| Spell slot/use | 1,000 XP | The GM will likely set a maximum. |
+| Trait | 200–500 XP | May require a teacher. |
+| Feat | 2,000 XP | Requires a teacher; the GM may set a maximum. |
+| Save | 500 XP | +1 to one specific save, maximum +3, and the other two are then capped at +1 (or +2 to each). |
+| Simple weapon proficiency (1 weapon group) | 100 XP | |
+| Martial weapon proficiency (1 weapon group) | 250 XP | |
+| Exotic weapon proficiency (1 weapon) | 500 XP | |
+| Tower shield proficiency | 500 XP | |
+| Armor proficiency | 500 XP | Each requires the previous one (medium requires light, and so on). |
+| Determination | 100 XP | Maximum 10. The cost is multiplied by the level of Determination you want to buy. |
+| Luck | 300 XP | +6 to the Luck d100 roll, up to a maximum of 7 purchases. |
+| Anti-luck | gain 200 XP | –6 to the Luck d100 roll, up to a maximum of 7 purchases. |
 
-Accion epica en combate: +100xp.
-
-Accion legendaria en combate: +200xp.
-
-Accion trascendental en combate: +300xp.
-
-## Compras con Experiencia
-
-Skill point: 100xp.
-
-Stat Point: 1000xp. (no mas de 2 por stat, no mas de 4 puntos en total)
-
-Spell Known: 100xp. (requiere maestro) (x10 para Espontaneo. x5-10 negociable spells de otros spellbook)
-
-Spell Slot/use: 1000xp. (seguro le ponga un maximo)
-
-Trait: 200-500xp. (Puede requerir maestro)
-
-Feat: 2000xp. (requiere maestro, quiza le ponga un maximo)
-
-Save: 500xp (ganas +1 a 1 save especifica, maximo +3, per olas otras dos quedan con maximo de +1, o +2 a cada una)
-
-Simple Weapon Proficiency (1 Weapon group): 100xp.
-
-Martial Weapon Proficiency (1 Weapon group): 250xp.
-
-Exotic Weapon Proficiency (1 Weapon): 500xp.
-
-Tower Shield Proficiency: 500xp.
-
-Armor Proficiency: 500xp. (Cada una requiere la anterior, vease medium requiere light, y etc.)
-
-Determinacion: 100xp. (Maximo 10. Su coste se multiplica por el nivel de determinacion que queres comprar).
-
-Luck: 300xp. \[+6 al d100 de suerte. hasta un maximo de 7 compras\]
-
-Antiluck: +200xp \[-6 al d100 de suerte. hasta un maximo de 7 compras\]
+See [Luck and Determination](luck-and-determination.md).

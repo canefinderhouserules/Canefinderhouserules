@@ -1,17 +1,15 @@
 # Luck and Determination
 
-Suerte: "Atributo" nuevo que solo se puede subir con experiencia que ganen, ajeno al sistema de pathfinder. Empieza en 0. Tiene un nivel maximo de 7. Cada nivel de Suerte te otorga un +6 a las tiradas de suerte que se pudiesen llegar a pedir.
+## Luck
 
-Determinacion: El primo hermano de voluntad que no se llama voluntad porque es confuso por mas que cambiarle el nombre y que tenga el mismo efecto de lo que ya conocemos como voluntad lo vaya a hacer mas confuso. Y si, no le puse comas aproposito.
+Luck is a new "attribute" outside the standard Pathfinder system, and it can only be raised with experience. It starts at 0 and has a maximum level of 7. Each level of Luck grants a +6 bonus to any luck rolls that may be called for.
 
-Se empieza con 1.
+## Determination
 
-El maximo es 10.
+Determination is Will's first cousin. It is not called Will because that would be confusing, even though it works much like Will does.
 
-Solo se puede comprar con experiencia que ganen roleando, y ocasionalmente como regalo del master por acciones puntuales.
-
-Se puede gastar un punto para rerrolear una tirada que haya salido mal.
-
-Da +4 a tiradas de Determinacion, que sirve para lo que ustedes quieran tirar para tomar decisiones del personaje y para el sistema de estres.
-
-Se puede gastar un punto para tener +5 ataque/dc/ac.
+- You start with 1 point, and the maximum is 10.
+- It can only be bought with experience earned through roleplaying, and occasionally given by the GM as a gift for specific actions.
+- You can spend a point to reroll a bad roll.
+- It grants +4 on Determination checks, which are used for whatever decisions you want to roll for your character and for the [stress system](stress-and-grace.md).
+- You can spend a point to gain +5 to an attack roll, a DC or AC.
