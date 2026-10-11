@@ -35,6 +35,10 @@ To qualify to become an assassin, a character must fulfill all the following cri
 
 **Special**: The character must kill someone for no other reason than to become an assassin.
 
+!!! warning "House rules"
+    - Add your assassin level to the DC of any poison you use.
+    - Add your assassin level to the DC of your death attack (naturally, the target rolls 2 saves under our house rules for save-or-die effects).
+
 ### Class Skills
 
 The assassin’s class skills (and the key ability for each skill) are Acrobatics (Dex), Bluff (Cha), Climb (Str), Diplomacy (Cha), Disable Device (Int), Disguise (Cha), Escape Artist (Dex), Intimidate (Cha), Linguistics (Int), Perception (Wis), Sense Motive (Wis), Sleight of Hand (Dex), Stealth (Dex), Swim (Str), and Use Magic Device (Cha).

@@ -37,6 +37,9 @@ To qualify to become a dragon disciple, a character must fulfill all the followi
 
 **Spellcasting**: Ability to cast 1st-level arcane spells without preparation. If the character has sorcerer levels, he must have the draconic bloodline. If the character gains levels of sorcerer after taking this class, he must take the draconic bloodline.
 
+!!! warning "House rules"
+    - Your dragon disciple level counts double for the duration and number of uses of your draconic bloodline abilities.
+
 ### Class Skills
 
 The dragon disciple’s class skills (and the key ability for each skill) are Diplomacy (Cha), Escape Artist (Dex), Fly (Dex), Knowledge (all skills taken individually) (Int), Perception (Wis), and Spellcraft (Int).

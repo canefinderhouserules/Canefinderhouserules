@@ -35,6 +35,15 @@ To qualify to become a duelist, a character must fulfill all the following crite
 
 **Feats**: Dodge, Mobility, Weapon Finesse.
 
+!!! warning "House rules"
+    - Requirement: base attack bonus +3 (instead of +6).
+    - Precise Strike works like the Legendary Swashbuckler's.
+    - Improved Reaction also grants Improved Initiative (in addition to what it already gives).
+    - Parry is replaced by the swashbuckler's Panache class feature, but using Intelligence instead of Charisma. You automatically gain Parry and Riposte.
+    - You gain 1 deed at every even level.
+    - At 5th level you gain evasion. If you already have evasion, it becomes improved evasion.
+    - Elaborate Defense: you may choose between increasing AC or reducing the attack penalty, and it also works with Combat Expertise.
+
 ### Class Skills
 
 The duelist’s class skills (and the key ability for each skill) are Acrobatics (Dex), Bluff (Cha), Escape Artist (Dex), Perception (Wis), Perform (Cha), and Sense Motive (Wis).

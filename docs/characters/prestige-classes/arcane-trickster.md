@@ -37,6 +37,10 @@ To qualify to become an arcane trickster, a character must fulfill all of the fo
 
 **Special**: Sneak attack +2d6.
 
+!!! warning "House rules"
+    - Requirements: Disable Device 1 rank, Escape Artist 1 rank, Knowledge (arcana) 3 ranks, caster level 1, and 1d6 sneak attack.
+    - Impromptu Sneak Attack: gains 1 use every 2 levels.
+
 ### Class Skills
 
 The arcane trickster’s class skills (and the key ability for each skill) are Acrobatics (Dex), Appraise (Int), Bluff (Cha), Climb (Str), Diplomacy (Cha), Disable Device (Int), Disguise (Cha), Escape Artist (Dex), Knowledge (all skills taken individually) (Int), Perception (Wis), Sense Motive (Wis), Sleight of Hand (Dex), Spellcraft (Int), Stealth (Dex), and Swim (Str).

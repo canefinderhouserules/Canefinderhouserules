@@ -33,6 +33,11 @@ To qualify to become an eldritch knight, a character must fulfill all the follow
 
 **Spells**: Able to cast 3rd-level arcane spells.
 
+!!! warning "House rules"
+    - Requirement: able to cast 1st-level arcane spells (instead of 3rd).
+    - At 3rd level you gain Arcing Weapon (or an extra combat feat if you already have it).
+    - At 6th level you gain Explosive Weapon (or an extra combat feat if you already have it).
+
 ### Class Skills
 
 The eldritch knight’s class skills (and the key ability for each skill) are Climb (Str), Knowledge (arcana) (Int), Knowledge (nobility and royalty) (Int), Linguistics (Int), Ride (Dex), Sense Motive (Wis), Spellcraft (Int), and Swim (Str).

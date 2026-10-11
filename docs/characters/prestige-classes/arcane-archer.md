@@ -35,6 +35,13 @@ To qualify to become an arcane archer, a character must fulfill all the followin
 
 **Spells**: Ability to cast 1st-level arcane spells.
 
+!!! warning "House rules"
+    - Requirement: base attack bonus +3 (instead of +6).
+    - Enhance Arrow: arrows are enhanced at levels 1, 2, 3, 4 and 5 (instead of 1, 3, 5, 7 and 9).
+    - Imbue Arrow: can imbue any spell, not just area spells. If you use a spell with multiple attacks or rays, you can fire as many rays or attacks as you have attacks (for example, you can fire *scorching ray* on a full attack).
+    - Seeker Arrow and Phase Arrow: double the uses, and you can spend 1 use per attack so that it affects more than one attack in the same round (effectively 2 uses per day plus 1 per level; you can make a full attack spending 1 use per attack).
+    - Hail of Arrows: double the uses.
+
 ### Class Skills
 
 The arcane archer’s class skills (and the key ability for each skill) are Perception (Wis), Ride (Dex), Stealth (Dex), and Survival (Wis).
