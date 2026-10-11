@@ -1,55 +1,49 @@
-# SISTEMA DE ESTAMINA
+# Stamina System
 
-**Cantidad de Estamina:** numero fijo (según clase) xnivel + atributo de casteol x nivel (como la salud con constitucion, pero con un atributo acorde al poder)
+!!! warning "House system"
+    An optional alternative to spell slots. Characters have a stamina pool instead, and abilities cost stamina. Experimental and open to negotiation with the GM.
 
-**Los números fijos son:**
+**Stamina:** a fixed number (by class) × level, plus the casting ability modifier × level (like hit points with Constitution, but using the ability that suits the power).
 
-**clase 9na esfera:** 12
+**The fixed numbers are:**
 
-**clase 6ta esfera:** 8
+| Class type | Fixed number |
+|---|---|
+| 9th-level caster class | 12 |
+| 6th-level caster class | 8 |
+| 4th-level caster class | 6 |
 
-**clase 4ta esfera:** 6
+**Ability cost** (by spell level):
 
-**Coste de Habilidades:**
+| Spell level | Stamina cost |
+|---|---|
+| 0 | 0–3 |
+| 1 | 1–10 |
+| 2 | 11–20 |
+| 3 | 21–30 |
+| 4 | 31–40 |
+| 5 | 41–50 |
+| 6 | 51–60 |
+| 7 | 61–70 |
+| 8 | 71–80 |
+| 9 | 81–100 |
 
-**0:** 0-3
-
-**1:** 1-10
-
-**2:** 11-20
-
-**3:** 21-30
-
-**4:** 31-40
-
-**5:** 41-50
-
-**6:** 51-60
-
-**7:** 61-70
-
-**8:** 71-80
-
-**9:** 81-100
-
-**CASTING ABILITY**
-
-Por regla general, el atributo para castear es Inteligencia. El power master puede elegir cualquiera de los 3, y los otros 2 pueden gastar exp o una feat en cambiarlo de int a otro.
+**Casting ability:** as a general rule, the casting ability is Intelligence. The Power Master may choose any of the 3 abilities; the other 2 classes can spend XP or a feat to change it from Intelligence to another.
 
 ## Classes
 
-Las clases son algo sumamente customizable y poco definido, por eso son solo 3. Definen en piedra cada cuantos niveles sacas una nueva class feature, cuanta HP y cuanta estamina por nivel recibis, cuanto bab tenes, las saves que obtenes, y de cierta forma que clase de class features podes llegar a obtener (negociable).
+Classes are extremely customizable and loosely defined, which is why there are only 3. They set in stone how many levels apart you gain a new class feature, how many hit points and how much stamina you gain per level, your BAB, your saves, and, to a degree, what kind of class features you can obtain (negotiable).
 
 **Warrior**
 
 **Hit Die**: d10.  
-**Stamina Die:** d6.
+**Stamina Die**: d6.
 
 ### Class Skills
 
 The \[Warrior\]’s Class Skills are 8 of your choice.
 
-**Skill Ranks per Level**: 4 + [<u>Int</u>](http://www.d20pfsrd.com/basics-ability-scores/ability-scores#TOC-Intelligence-Int-) modifier.
+**Skill Ranks per Level**: 4 + Int modifier.
 
 ##### Table: Class
 
@@ -87,35 +81,34 @@ A \[Warrior\] is proficient in \[all simple and martial weapon types and 1 exoti
 
 **Warrior Class Feature (Ex, Sp, Su)**
 
-A nivel 2 y cada 2 niveles consiguen una class feature a su eleccion, desde custom para representar algo muy único y diferente a sistematizar y balancear (torturar) con el gm de turno (o sea yo, el único autista de balance) hasta robada de clases de pathfinder.  
-  
-Esto es completamente experimental, pero por ahora las únicas minusculas reglas que se me cruzaron por la cabeza para mantener cierto grado de sentido son:  
-- Podes copiar cualquier class feature del mismo nivel que conseguis la class feature o menos (no podes copiar la class feature Bane con una class feature lvl 2, ya que es una class feature lvl 5 en la clase de inquisitor).
+At 2nd level and every 2 levels thereafter you gain a class feature of your choice, ranging from a custom feature representing something very unique and different (to be systematized and balanced with the GM) to one borrowed from a Pathfinder class.
 
-\- Podes copiar class features solo de clases similares. Marcial de marciales (y de marciales hibridos negociable quizá de menor nivel). En el caso del Shinobi Warrior, solo puede copiar de clases sin spells, o con spells de 4ta, y posiblemente con spells de 6ta con posible leveo mas debil o que gaste una class feature de nivel mas alto.
+This is completely experimental, but for now the only tiny rules for keeping some degree of sense are:
 
-\- Cada class feature tiene un valor diferente, dividido entre OP, comun, y Debil. Cada vez que elegis una class feature podes elegir 1 OP, o 2 comunes, o 4 debiles (o 1 comun y 2 debiles). Probablemente límite a solo 2 OPs o quizá prohiba algunas mezclas. Todo negociable.
+- You can copy any class feature of the same level as the class feature you are gaining, or lower (you cannot copy the inquisitor's Bane with a level 2 class feature, since it is a level 5 feature for the inquisitor).
+- You can copy class features only from similar classes: martial from martial (and from martial hybrids, negotiable and perhaps at a lower level). For the Warrior, only from classes without spells or with 4th-level spells, and possibly from 6th-level casters with a weaker level or at the cost of a higher-level class feature.
+- Each class feature has a different value: Strong, Common or Weak (see [Class Features and Prices](class-features-and-prices.md)). Each time you choose a class feature you can take 1 Strong, or 2 Common, or 4 Weak (or 1 Common and 2 Weak). The GM will probably limit this to 2 Strong features, or may ban some combinations. All negotiable.
 
 **Powerless (Ex, Sp, Su)**
 
-Class feature opcional que representa heroes que no tienen poderes, o heroes que solo quieren tener la cosa mas brainded basica pasiva y no pensar en nada mas. En vez de spells, reciben algo pasivo permanente a discutir con el master de turno, similar a un spell de lvl 1 permanente a nivel 1, que mejora a nivel 2 a nivel 4, a nivel 3 al 7, 4 al 10 y 5 al 13.
+An optional class feature for heroes who have no powers, or who just want something basic and passive and not to think about anything else. Instead of spells, they receive a permanent passive effect to be agreed with the GM, similar to a permanent 1st-level spell at 1st level, improving to a 2nd-level equivalent at 4th level, 3rd at 7th, 4th at 10th and 5th at 13th.
 
 **Mutation (Ex, Sp, Su)**
 
-Mas que una class feature, un delimitante del tipo de poderes y habilidaades que podes desarrollar con el personaje, algo mas narrativo que otra cosa, pero obviamente según lo que elijan puede ser algo mas copado e interesante, quizá hasta op por variedad. Quizá le ponga precio o vuelva mas op algo de alguna forma a mas limitante sea (o precio en exp a mas abarcativo sea).
+More than a class feature, this is a boundary on the type of powers and abilities you can develop with the character. It is more narrative than anything, but depending on what you choose it can be cooler or more interesting, or even strong by variety. The GM may attach a price, or make something stronger the more limiting it is (or charge XP the broader it is).
 
-Esto obviamente se decide a lvl 1 y el master debe saberlo.
+This is decided at 1st level and the GM must know about it.
 
 **Specialist  
 Hit Die**: d8.
 
-**Stamina Die:** d8
+**Stamina Die**: d8
 
 ### Class Skills
 
 The \[Specialist\]’s Class Skills are 12 of your choice.
 
-**Skill Ranks per Level**: 6 + [<u>Int</u>](http://www.d20pfsrd.com/basics-ability-scores/ability-scores#TOC-Intelligence-Int-) modifier.
+**Skill Ranks per Level**: 6 + Int modifier.
 
 ##### Table: Class
 
@@ -153,31 +146,30 @@ A \[Specialist\] is proficient in \[Simple and Martial weapons\] and \[Light and
 
 **Specialist Class Feature (Ex, Sp, Su)**
 
-A nivel 2 y cada 2 niveles consiguen una class feature a su eleccion, desde custom para representar algo muy único y diferente a sistematizar y balancear (torturar) con el gm de turno (o sea yo, el único autista de balance) hasta robada de clases de pathfinder.  
-  
-Esto es completamente experimental, pero por ahora la única minuscula regla que se me cruzo por la cabeza para mantener cierto grado de sentido es:  
-- Podes copiar cualquier class feature del mismo nivel que conseguis la class feature o menos (no podes copiar la class feature Bane con una class feature lvl 2, ya que es una class feature lvl 5 en la clase de inquisitor).
+At 2nd level and every 2 levels thereafter you gain a class feature of your choice, ranging from a custom feature representing something very unique and different (to be systematized and balanced with the GM) to one borrowed from a Pathfinder class.
 
-\- Podes copiar class features solo de clases similares. Marcial de marciales (y de marciales hibridos negociable quizá de menor nivel). En el caso del Shinobi Warrior, solo puede copiar de clases sin spells, o con spells de 4ta, y posiblemente con spells de 6ta con posible leveo mas debil o que gaste una class feature de nivel mas alto.
+This is completely experimental, but for now the only tiny rules for keeping some degree of sense are:
 
-\- Cada class feature tiene un valor diferente, dividido entre OP, comun, y Debil. Cada vez que elegis una class feature podes elegir 1 OP, o 2 comunes, o 4 debiles (o 1 comun y 2 debiles). Probablemente límite a solo 2 OPs o quizá prohiba algunas mezclas. Todo negociable.
+- You can copy any class feature of the same level as the class feature you are gaining, or lower (you cannot copy the inquisitor's Bane with a level 2 class feature, since it is a level 5 feature for the inquisitor).
+- You can copy class features only from similar classes: martial from martial (and from martial hybrids, negotiable and perhaps at a lower level). For the Warrior, only from classes without spells or with 4th-level spells, and possibly from 6th-level casters with a weaker level or at the cost of a higher-level class feature.
+- Each class feature has a different value: Strong, Common or Weak (see [Class Features and Prices](class-features-and-prices.md)). Each time you choose a class feature you can take 1 Strong, or 2 Common, or 4 Weak (or 1 Common and 2 Weak). The GM will probably limit this to 2 Strong features, or may ban some combinations. All negotiable.
 
 **Mutation (Ex, Sp, Su)**
 
-Mas que una class feature, un delimitante del tipo de poderes y habilidaades que podes desarrollar con el personaje, algo mas narrativo que otra cosa, pero obviamente según lo que elijan puede ser algo mas copado e interesante, quizá hasta op por variedad. Quizá le ponga precio o vuelva mas op algo de alguna forma a mas limitante sea (o precio en exp a mas abarcativo sea).
+More than a class feature, this is a boundary on the type of powers and abilities you can develop with the character. It is more narrative than anything, but depending on what you choose it can be cooler or more interesting, or even strong by variety. The GM may attach a price, or make something stronger the more limiting it is (or charge XP the broader it is).
 
-Esto obviamente se decide a lvl 1 y el master debe saberlo.
+This is decided at 1st level and the GM must know about it.
 
 **Power Master  
 Hit Die**: d6.
 
-**Stamina Die:** d12.
+**Stamina Die**: d12.
 
 ### Class Skills
 
 The \[Power Master\]’s Class Skills are 8 of your choice.
 
-**Skill Ranks per Level**: 4 + [<u>Int</u>](http://www.d20pfsrd.com/basics-ability-scores/ability-scores#TOC-Intelligence-Int-) modifier.
+**Skill Ranks per Level**: 4 + Int modifier.
 
 ##### Table: Class
 
@@ -215,17 +207,16 @@ A \[Power Master\] is proficient in \[Simple Weapons\] and \[Light armor\].
 
 **Power Master Class Feature (Ex, Sp, Su)**
 
-A nivel 2 y cada 2 niveles consiguen una class feature a su eleccion, desde custom para representar algo muy único y diferente a sistematizar y balancear (torturar) con el gm de turno (o sea yo, el único autista de balance) hasta robada de clases de pathfinder.  
-  
-Esto es completamente experimental, pero por ahora la única minuscula regla que se me cruzo por la cabeza para mantener cierto grado de sentido es:  
-- Podes copiar cualquier class feature del mismo nivel que conseguis la class feature o menos (no podes copiar la class feature Bane con una class feature lvl 2, ya que es una class feature lvl 5 en la clase de inquisitor).
+At 2nd level and every 2 levels thereafter you gain a class feature of your choice, ranging from a custom feature representing something very unique and different (to be systematized and balanced with the GM) to one borrowed from a Pathfinder class.
 
-\- Podes copiar class features solo de clases similares. Marcial de marciales (y de marciales hibridos negociable quizá de menor nivel). En el caso del Warrior, solo puede copiar de clases sin spells, o con spells de 4ta, y posiblemente con spells de 6ta con posible leveo mas debil o que gaste una class feature de nivel mas alto.
+This is completely experimental, but for now the only tiny rules for keeping some degree of sense are:
 
-\- Cada class feature tiene un valor diferente, dividido entre OP, comun, y Debil. Cada vez que elegis una class feature podes elegir 1 OP, o 2 comunes, o 4 debiles (o 1 comun y 2 debiles). Probablemente límite a solo 2 OPs o quizá prohiba algunas mezclas. Todo negociable.
+- You can copy any class feature of the same level as the class feature you are gaining, or lower (you cannot copy the inquisitor's Bane with a level 2 class feature, since it is a level 5 feature for the inquisitor).
+- You can copy class features only from similar classes: martial from martial (and from martial hybrids, negotiable and perhaps at a lower level). For the Warrior, only from classes without spells or with 4th-level spells, and possibly from 6th-level casters with a weaker level or at the cost of a higher-level class feature.
+- Each class feature has a different value: Strong, Common or Weak (see [Class Features and Prices](class-features-and-prices.md)). Each time you choose a class feature you can take 1 Strong, or 2 Common, or 4 Weak (or 1 Common and 2 Weak). The GM will probably limit this to 2 Strong features, or may ban some combinations. All negotiable.
 
 **Mutation (Ex, Sp, Su)**
 
-Mas que una class feature, un delimitante del tipo de poderes y habilidaades que podes desarrollar con el personaje, algo mas narrativo que otra cosa, pero obviamente según lo que elijan puede ser algo mas copado e interesante, quizá hasta op por variedad. Quizá le ponga precio o vuelva mas op algo de alguna forma a mas limitante sea (o precio en exp a mas abarcativo sea).
+More than a class feature, this is a boundary on the type of powers and abilities you can develop with the character. It is more narrative than anything, but depending on what you choose it can be cooler or more interesting, or even strong by variety. The GM may attach a price, or make something stronger the more limiting it is (or charge XP the broader it is).
 
-Esto obviamente se decide a lvl 1 y el master debe saberlo.
+This is decided at 1st level and the GM must know about it.
