@@ -1,12 +1,13 @@
 # Favored Class Bonuses
 
-Ahora los FCB son mas generalistas (y mas utiles o en linea con los mas utiles) y todos pueden acceder a todos, sin importar la raza. Y en lugar de ser 69 repetidos por clase, voy a hacer una sola lista adaptable a cualquier clase.
+!!! warning "House rule"
+    Favored class bonuses (FCBs) are now more general (and more useful, or in line with the most useful ones), and everyone can access all of them regardless of race. Instead of dozens of repeats per class, there is a single list adaptable to any class.
 
-La única regla a tener en cuenta es que los que te dan algo de clase, vease extra combat feat, extra wild talent, extra rogue talent, etc ya saben cuales digo, necesitan obviamente que tengas una clase que tenga esas cosas. si tu calse no te da extra combat feats, no podes ponerte ese fcb, si tu clase no te da discoveries, no podes ganar discoveries de esta forma, etc, etc.
+    The only rule to keep in mind: bonuses that grant something class-specific (extra combat feat, extra wild talent, extra rogue talent, and so on) require that you actually have a class with those features. If your class does not give extra combat feats, you cannot take that FCB; if it does not give discoveries, you cannot gain discoveries this way; and so on.
 
-Todavía se puede usar el sistema oficial de FCB por si borre o nerfie algun caso muy especifico al volverlo general, respetando las reglas normales siendo de la raza adecuada y todo eso (excepto la cringeada de monk gato, no me jodas wolf)
+    The official FCB system can still be used in case a very specific case was removed or nerfed by making the list general, following the normal rules (being of the appropriate race and so on).
 
-## FCBs:
+## FCBs
 
 \- Gain 1/6 of a bonus **combat feat/Focus Power/Magus Arcana/Hex/slayer talent/arcanist exploit**.
 
@@ -290,8 +291,8 @@ Todavía se puede usar el sistema oficial de FCB por si borre o nerfie algun cas
 
 ### Variant Multiclassing
 
-**Source** [<u>Pathfinder Roleplaynng Game: Pathfinder Unchained</u>](http://www.amazon.com/gp/product/1601257155/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1601257155&linkCode=as2&tag=httpwwwd20pfs-20&linkId=SUELYCMD4O5LZ3U6)
+**Source:** Pathfinder Roleplaying Game: Pathfinder Unchained
 
-This optional system allows a character to trade out half her feats in order to gain the benefits of a secondary class. These rules enable characters to gain many of the benefits of multiclassing without sacrificing advancement in their primary classes, and creates opportunities to explore novel character concepts, such as a [<u>barbarian</u>](https://www.d20pfsrd.com/classes/core-classes/barbarian) whose rage stems from being afflicted by the gods with an [<u>oracle’s</u>](https://www.d20pfsrd.com/classes/base-classes/oracle) curse and revelations.
+This optional system allows a character to trade out half her feats in order to gain the benefits of a secondary class. These rules enable characters to gain many of the benefits of multiclassing without sacrificing advancement in their primary classes, and creates opportunities to explore novel character concepts, such as a barbarian whose rage stems from being afflicted by the gods with an oracle’s curse and revelations.
 
-Under the standard rules, multiclassing can lead to a wide disparity in character ability. With this system, each character can choose a secondary class at 1st level that she trains in throughout her career, without giving up levels in her primary class. Once selected, this choice is permanent (though if using the [<u>retraining rules</u>](https://www.d20pfsrd.com/basics-ability-scores/more-character-options/retraining), the secondary class can be retrained by paying half the cost of retraining all her class levels). A character who selects this option doesn’t gain feats at 3rd, 7th, 11th, 15th, and 19th levels, but instead gains class features from her secondary class as described on **Table: Multiclass Character Advancement**. It is probably a good idea to use either this variant system or normal multiclassing, but it’s possible for the two systems to be used together. In a game using both systems, a character can’t take levels in the secondary class she gains from this variant.
+Under the standard rules, multiclassing can lead to a wide disparity in character ability. With this system, each character can choose a secondary class at 1st level that she trains in throughout her career, without giving up levels in her primary class. Once selected, this choice is permanent (though if using the retraining rules, the secondary class can be retrained by paying half the cost of retraining all her class levels). A character who selects this option doesn’t gain feats at 3rd, 7th, 11th, 15th, and 19th levels, but instead gains class features from her secondary class as described on **Table: Multiclass Character Advancement**. It is probably a good idea to use either this variant system or normal multiclassing, but it’s possible for the two systems to be used together. In a game using both systems, a character can’t take levels in the secondary class she gains from this variant.
