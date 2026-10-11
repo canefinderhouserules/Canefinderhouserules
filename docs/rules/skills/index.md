@@ -4,7 +4,7 @@
 
 Each level, your character gains a number of skill ranks dependent upon your class plus your Intelligence modifier. Investing a rank in a skill represents a measure of training in that skill. You can never have more ranks in a skill than your total number of Hit Dice. In addition, each class has a number of favored skills, called class skills. It is easier for your character to become more proficient in these skills, as they represent part of his professional training and constant practice. You gain a +3 bonus on all class skills that you put ranks into. If you have more than one class and both grant you a class skill bonus, these bonuses do not stack.
 
-The number of skill ranks you gain when taking a level in one of the base classes is shown on Table 4–1. Humans gain 1 additional skill rank per class level. Characters who take a level in a favored class have the option of gaining 1 additional skill rank or an additional hit point (see page 31). If you select a level in a new class, all of its class skills are automatically added to your list of class skills, and you gain a +3 bonus on these skills if you have ranks in them.
+The number of skill ranks you gain when taking a level in one of the base classes is shown on Table 4–1. Humans gain 1 additional skill rank per class level. Characters who take a level in a favored class have the option of gaining 1 additional skill rank or an additional hit point (see [Character Advancement](../../characters/classes/character-advancement.md)). If you select a level in a new class, all of its class skills are automatically added to your list of class skills, and you gain a +3 bonus on these skills if you have ranks in them.
 
 **Table 4–1: Skill Ranks**
 

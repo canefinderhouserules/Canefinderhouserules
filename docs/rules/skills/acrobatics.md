@@ -6,7 +6,7 @@ You can keep your balance while traversing narrow or treacherous surfaces. You c
 
 *Armor check penalty applies to all Strength- and Dexterity-based skill checks.*
 
-**Check**: You can use Acrobatics to move on narrow surfaces and uneven ground without falling. A successful check allows you to move at half speed across such surfaces—only one check is needed per round. Use the following table to determine the base DC, which is then modified by the Acrobatics skill modifiers noted on page 89. While you are using Acrobatics in this way, you are considered flat-footed and lose your Dexterity bonus to your AC (if any). If you take damage while using Acrobatics, you must immediately make another Acrobatics check at the same DC to avoid falling or being knocked prone.
+**Check**: You can use Acrobatics to move on narrow surfaces and uneven ground without falling. A successful check allows you to move at half speed across such surfaces—only one check is needed per round. Use the following table to determine the base DC, which is then modified by the Acrobatics skill modifiers noted below. While you are using Acrobatics in this way, you are considered flat-footed and lose your Dexterity bonus to your AC (if any). If you take damage while using Acrobatics, you must immediately make another Acrobatics check at the same DC to avoid falling or being knocked prone.
 
 | Surface Width | Base Acrobatics DC |
 |---|---|
@@ -29,7 +29,7 @@ In addition, you can move through a threatened square without provoking an attac
 
 Finally, you can use the Acrobatics skill to make jumps or to soften a fall. The base DC to make a jump is equal to the distance to be crossed (if horizontal) or four times the height to be reached (if vertical). These DCs double if you do not have at least 10 feet of space to get a running start. The only Acrobatics modifiers that apply are those concerning the surface you are jumping from. If you fail this check by 4 or less, you can attempt a DC 20 Reflex save to grab hold of the other side after having missed the jump. If you fail by 5 or more, you fail to make the jump and fall (or land prone, in the case of a vertical jump). Creatures with a base land speed above 30 feet receive a +4 racial bonus on Acrobatics checks made to jump for every 10 feet of their speed above 30 feet. Creatures with a base land speed below 30 feet receive a –4 racial penalty on Acrobatics checks made to jump for every 10 feet of their speed below 30 feet. No jump can allow you to exceed your maximum movement for the round. For a running jump, the result of your Acrobatics check indicates the distance traveled in the jump (and if the check fails, the distance at which you actually land and fall prone). Halve this result for a standing long jump to determine where you land.
 
-When you deliberately fall any distance, even as a result of a missed jump, a DC 15 Acrobatics skill check allows you to ignore the first 10 feet fallen, although you still end up prone if you take damage from a fall. See the falling rules on page 443 for further details.
+When you deliberately fall any distance, even as a result of a missed jump, a DC 15 Acrobatics skill check allows you to ignore the first 10 feet fallen, although you still end up prone if you take damage from a fall. See the falling rules in [Environmental Rules](../../gamemastering/environment/environmental-rules.md) for further details.
 
 | Long Jump | Acrobatics DC |
 |---|---|

@@ -21,4 +21,4 @@ This spell causes seven shimmering, multicolored beams of light to spray from yo
 | 7 | Violet | Sent to another plane (Will negates) |
 | 8 | Struck by two rays | Roll twice more, ignoring any “8” results |
 
-* See poisons on page 557.
+* See [poison](../../rules/appendices/poison.md).

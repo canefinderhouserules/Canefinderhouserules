@@ -59,7 +59,7 @@ A wizard may know any number of spells. He must choose and prepare his spells ah
 
 **Bonus Languages**: A wizard may substitute Draconic for one of the bonus languages available to the character because of his race.
 
-**Arcane Bond (Ex or Sp)**: At 1st level, wizards form a powerful bond with an object or a creature. This bond can take one of two forms: a familiar or a bonded object. A familiar is a magical pet that enhances the wizard’s skills and senses and can aid him in magic, while a bonded object is an item a wizard can use to cast additional spells or to serve as a magical item. Once a wizard makes this choice, it is permanent and cannot be changed. Rules for familiars appear on page 82, while rules for bonded items are given below.
+**Arcane Bond (Ex or Sp)**: At 1st level, wizards form a powerful bond with an object or a creature. This bond can take one of two forms: a familiar or a bonded object. A familiar is a magical pet that enhances the wizard’s skills and senses and can aid him in magic, while a bonded object is an item a wizard can use to cast additional spells or to serve as a magical item. Once a wizard makes this choice, it is permanent and cannot be changed. Rules for familiars appear in the [Improved Familiar](improved-familiar.md) rules, while rules for bonded items are given below.
 
 Wizards who select a bonded object begin play with one at no cost. Objects that are the subject of an arcane bond must fall into one of the following categories: amulet, ring, staff, wand, or weapon. These objects are always masterwork quality. Weapons acquired at 1st level are not made of any special material. If the object is an amulet or ring, it must be worn to have effect, while staves, wands, and weapons must be wielded. If a wizard attempts to cast a spell without his bonded object worn or in hand, he must make a concentration check or lose the spell. The DC for this check is equal to 20 + the spell’s level. If the object is a ring or amulet, it occupies the ring or neck slot accordingly.
 
@@ -262,7 +262,7 @@ Damage equals that of a normal creature of the familiar’s kind.
 
 ## Arcane Spells and Armor
 
-Armor restricts the complicated gestures required while casting any spell that has a somatic component. The armor and shield descriptions list the arcane spell failure chance for different armors and shields (see page 151).
+Armor restricts the complicated gestures required while casting any spell that has a somatic component. The armor and shield descriptions list the arcane spell failure chance for different armors and shields (see [Armor](../../equipment/armor.md)).
 
 If a spell doesn’t have a somatic component, an arcane spellcaster can cast it with no arcane spell failure chance while wearing armor. Such spells can also be cast even if the caster’s hands are bound or he is grappling (although concentration checks still apply normally). The metamagic feat Still Spell allows a spellcaster to prepare or cast a spell without the somatic component at one spell level higher than normal. This also provides a way to cast a spell while wearing armor without risking arcane spell failure.
 

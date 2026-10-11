@@ -24,7 +24,7 @@ The following are class features of the cleric.
 
 **Aura (Ex)**: A cleric of a chaotic, evil, good, or lawful deity has a particularly powerful aura corresponding to the deity’s alignment (see the *detect evil* spell for details).
 
-**Spells**: A cleric casts divine spells which are drawn from the cleric spell list presented in Chapter 10. Her alignment, however, may restrict her from casting certain spells opposed to her moral or ethical beliefs; see chaotic, evil, good, and lawful spells on page 41. A cleric must choose and prepare her spells in advance.
+**Spells**: A cleric casts divine spells which are drawn from the cleric spell list presented in Chapter 10. Her alignment, however, may restrict her from casting certain spells opposed to her moral or ethical beliefs; see chaotic, evil, good, and lawful spells in the spell descriptions. A cleric must choose and prepare her spells in advance.
 
 To prepare or cast a spell, a cleric must have a Wisdom score equal to at least 10 + the spell level. The Difficulty Class for a saving throw against a cleric’s spell is 10 + the spell level + the cleric’s Wisdom modifier.
 

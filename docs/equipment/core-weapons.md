@@ -12,7 +12,7 @@ Weapons are grouped into several interlocking sets of categories. These categori
 
 *Reach Weapons*: Glaives, guisarmes, lances, longspears, ranseurs, and whips are reach weapons. A reach weapon is a melee weapon that allows its wielder to strike at targets that aren’t adjacent to him. Most reach weapons double the wielder’s natural reach, meaning that a typical Small or Medium wielder of such a weapon can attack a creature 10 feet away, but not a creature in an adjacent square. A typical Large character wielding a reach weapon of the appropriate size can attack a creature 15 or 20 feet away, but not adjacent creatures or creatures up to 10 feet away.
 
-*Double Weapons*: Dire flails, dwarven urgroshes, gnome hooked hammers, orc double axes, quarterstaves, and two-bladed swords are double weapons. A character can fight with both ends of a double weapon as if fighting with two weapons, but he incurs all the normal attack penalties associated with two-weapon combat, just as though the character were wielding a one-handed weapon and a light weapon (see page 202).
+*Double Weapons*: Dire flails, dwarven urgroshes, gnome hooked hammers, orc double axes, quarterstaves, and two-bladed swords are double weapons. A character can fight with both ends of a double weapon as if fighting with two weapons, but he incurs all the normal attack penalties associated with two-weapon combat, just as though the character were wielding a one-handed weapon and a light weapon (see [Combat](../rules/combat/special-attacks.md)).
 
 The character can also choose to use a double weapon two-handed, attacking with only one end of it. A creature wielding a double weapon in one hand can’t use it as a double weapon—only one end of the weapon can be used in any given round.
 
@@ -22,7 +22,7 @@ The character can also choose to use a double weapon two-handed, attacking with 
 
 *Ammunition*: Projectile weapons use ammunition: arrows (for bows), bolts (for crossbows), darts (for blowguns), or sling bullets (for slings and halfling sling staves). When using a bow, a character can draw ammunition as a free action; crossbows and slings require an action for reloading (as noted in their descriptions). Generally speaking, ammunition that hits its target is destroyed or rendered useless, while ammunition that misses has a 50% chance of being destroyed or lost.
 
-Although they are thrown weapons, shuriken are treated as ammunition for the purposes of drawing them, crafting masterwork or otherwise special versions of them (see Masterwork Weapons on page 149), and what happens to them after they are thrown.
+Although they are thrown weapons, shuriken are treated as ammunition for the purposes of drawing them, crafting masterwork or otherwise special versions of them (see Masterwork Weapons in [Weapons](weapons.md)), and what happens to them after they are thrown.
 
 **Light, One-Handed, and Two-Handed Melee Weapons**: This designation is a measure of how much effort it takes to wield a weapon in combat. It indicates whether a melee weapon, when wielded by a character of the weapon’s size category, is considered a light weapon, a one-handed weapon, or a two-handed weapon.
 
@@ -215,13 +215,13 @@ In other cases, a weapon can deal either of two types of damage. In a situation 
 
 ## Weapon Descriptions
 
-Weapons found on Table 6–4 are described below. Splash weapons are described under Special Substances and Items on page 160.
+Weapons found on Table 6–4 are described below. Splash weapons are described under Special Substances and Items in [Goods and Services](goods-and-services.md).
 
 **Arrows**: An arrow used as a melee weapon is treated as a light improvised weapon (–4 penalty on attack rolls) and deals damage as a dagger of its size (critical multiplier ×2). Arrows come in a leather quiver that holds 20 arrows.
 
 **Axe, Orc Double**: A cruel weapon with blades placed at opposite ends of a long haft, an orc double axe is a double weapon.
 
-**Blowgun**: Blowguns are generally used to deliver debilitating (but rarely fatal) poisons from a distance. They are nearly silent when fired. For a list of appropriate poisons, see page 559.
+**Blowgun**: Blowguns are generally used to deliver debilitating (but rarely fatal) poisons from a distance. They are nearly silent when fired. For a list of appropriate poisons, see [Poison](../rules/appendices/poison.md).
 
 **Bolas**: A bolas is a pair of weights, connected by a thin rope or cord. You can use this weapon to make a ranged trip attack against an opponent. You can’t be tripped during your own trip attempt when using a bolas.
 
@@ -233,7 +233,7 @@ Weapons found on Table 6–4 are described below. Splash weapons are described u
 
 **Crossbow, Hand**: You can draw a hand crossbow back by hand. Loading a hand crossbow is a move action that provokes attacks of opportunity.
 
-You can shoot, but not load, a hand crossbow with one hand at no penalty. You can shoot a hand crossbow with each hand, but you take a penalty on attack rolls as if attacking with two light weapons (see page 202).
+You can shoot, but not load, a hand crossbow with one hand at no penalty. You can shoot a hand crossbow with each hand, but you take a penalty on attack rolls as if attacking with two light weapons (see [Combat](../rules/combat/special-attacks.md)).
 
 **Crossbow, Heavy**: You draw a heavy crossbow back by turning a small winch. Loading a heavy crossbow is a full-round action that provokes attacks of opportunity.
 
@@ -253,11 +253,11 @@ You can shoot, but not load, a hand crossbow with one hand at no penalty. You ca
 | 2d8 | 1d10 | 3d8 |
 | 2d10 | 2d6 | 4d8 |
 
-Normally, operating a heavy crossbow requires two hands. However, you can shoot, but not load, a heavy crossbow with one hand at a –4 penalty on attack rolls. You can shoot a heavy crossbow with each hand, but you take a penalty on attack rolls as if attacking with two one-handed weapons (see page 202). This penalty is cumulative with the penalty for one-handed firing.
+Normally, operating a heavy crossbow requires two hands. However, you can shoot, but not load, a heavy crossbow with one hand at a –4 penalty on attack rolls. You can shoot a heavy crossbow with each hand, but you take a penalty on attack rolls as if attacking with two one-handed weapons (see [Combat](../rules/combat/special-attacks.md)). This penalty is cumulative with the penalty for one-handed firing.
 
 **Crossbow, Light**: You draw a light crossbow back by pulling a lever. Loading a light crossbow is a move action that provokes attacks of opportunity.
 
-Normally, operating a light crossbow requires two hands. However, you can shoot, but not load, a light crossbow with one hand at a –2 penalty on attack rolls. You can shoot a light crossbow with each hand, but you take a penalty on attack rolls as if attacking with two light weapons (see page 202). This penalty is cumulative with the penalty for one-handed firing.
+Normally, operating a light crossbow requires two hands. However, you can shoot, but not load, a light crossbow with one hand at a –2 penalty on attack rolls. You can shoot a light crossbow with each hand, but you take a penalty on attack rolls as if attacking with two light weapons (see [Combat](../rules/combat/special-attacks.md)). This penalty is cumulative with the penalty for one-handed firing.
 
 **Crossbow, Repeating**: The repeating crossbow (whether heavy or light) holds 5 crossbow bolts. As long as it holds bolts, you can reload it by pulling the reloading lever (a free action). Loading a new case of 5 bolts is a full-round action that provokes attacks of opportunity.
 
@@ -333,7 +333,7 @@ A net must be folded to be thrown effectively. The first time you throw your net
 
 **Sai**: A sai is a metal spike flanked by a pair of prongs used to trap an enemy’s weapon. With a sai, you get a +2 bonus on Combat Maneuver Checks to sunder an enemy’s weapon. Though pointed, a sai is used primarily to bludgeon foes and to disarm weapons.
 
-**Shield, Heavy or Light**: You can bash with a shield instead of using it for defense. See page 152 for details.
+**Shield, Heavy or Light**: You can bash with a shield instead of using it for defense. See [Armor](armor.md) for details.
 
 **Shortbow**: A shortbow is made up of one piece of wood, about 3 feet in length. You need two hands to use a bow, regardless of its size. You can use a shortbow while mounted. If you have a penalty for low Strength, apply it to damage rolls when you use a shortbow. If you have a bonus for high Strength, you can apply it to damage rolls when you use a composite shortbow (see below), but not a regular shortbow.
 
@@ -363,7 +363,7 @@ A halfling sling staff can be used as a simple weapon that deals bludgeoning dam
 
 **Spiked Armor**: You can outfit your armor with spikes, which can deal damage in a grapple or as a separate attack. See Armor, below, for details.
 
-**Spiked Shield, Heavy or Light**: You can bash with a spiked shield instead of using it for defense. See page 152 for details.
+**Spiked Shield, Heavy or Light**: You can bash with a spiked shield instead of using it for defense. See [Armor](armor.md) for details.
 
 **Starknife**: From a central metal ring, four tapering metal blades extend like points on a compass rose. A wielder can stab with the starknife or throw it.
 

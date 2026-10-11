@@ -16,7 +16,7 @@ The sorcerer’s class skills are Appraise (Int), Bluff (Cha), Craft (Int), Fly 
 
 All of the following are class features of the sorcerer.
 
-**Weapon and Armor Proficiency**: Sorcerers are proficient with all simple weapons. They are not proficient with any type of armor or shield. Armor interferes with a sorcerer’s gestures, which can cause her spells with somatic components to fail (see Arcane Spells and Armor on page 83).
+**Weapon and Armor Proficiency**: Sorcerers are proficient with all simple weapons. They are not proficient with any type of armor or shield. Armor interferes with a sorcerer’s gestures, which can cause her spells with somatic components to fail (see [Arcane Spells and Armor](wizard.md)).
 
 **Spells**: A sorcerer casts arcane spells drawn primarily from the sorcerer/wizard spell list presented in Chapter 10. She can cast any spell she knows without preparing it ahead of time. To learn or cast a spell, a sorcerer must have a Charisma score equal to at least 10 + the spell level. The Difficulty Class for a saving throw against a sorcerer’s spell is 10 + the spell level + the sorcerer’s Charisma modifier.
 
@@ -166,7 +166,7 @@ Your family has always been skilled in the eldritch art of magic. While many of 
 
 **Bloodline Powers**: Magic comes naturally to you, but as you gain levels you must take care to prevent the power from overwhelming you.
 
-*Arcane Bond* *(Su)*: At 1st level, you gain an arcane bond, as a wizard equal to your sorcerer level. Your sorcerer levels stack with any wizard levels you possess when determining the powers of your familiar or bonded object. This ability does not allow you to have both a familiar and a bonded item. Rules for arcane bonds appear on page 78. Once per day, your bonded item allows you to cast any one of your spells known (unlike a wizard’s bonded item, which allows him to cast any one spell in his spellbook).
+*Arcane Bond* *(Su)*: At 1st level, you gain an arcane bond, as a wizard equal to your sorcerer level. Your sorcerer levels stack with any wizard levels you possess when determining the powers of your familiar or bonded object. This ability does not allow you to have both a familiar and a bonded item. Rules for arcane bonds appear in the wizard class description. Once per day, your bonded item allows you to cast any one of your spells known (unlike a wizard’s bonded item, which allows him to cast any one spell in his spellbook).
 
 *Metamagic Adept (Ex)*: At 3rd level, you can apply any one metamagic feat you know to a spell you are about to cast without increasing the casting time. You must still expend a higher-level spell slot to cast this spell. You can use this ability once per day at 3rd level and one additional time per day for every four sorcerer levels you possess beyond 3rd, up to five times per day at 19th level. At 20th level, this ability is replaced by arcane apotheosis.
 
@@ -339,7 +339,7 @@ Somewhere in your family’s history, a relative made a deal with a devil, and t
 
 **Bloodline Powers**: You can draw upon the power of Hell, although you must be wary of its corrupting influence. Such power does not come without a price.
 
-*Corrupting Touch* *(Sp)*: At 1st level, you can cause a creature to become shaken (see page 568) as a melee touch attack. This effect persists for a number of rounds equal to 1/2 your sorcerer level (minimum 1). Creatures shaken by this ability radiate an aura of evil, as if they were an evil outsider (see *detect evil*). Multiple touches do not stack, but they do add to the duration. You can use this ability a number of times per day equal to 3 + your Charisma modifier.
+*Corrupting Touch* *(Sp)*: At 1st level, you can cause a creature to become shaken (see [Conditions](../../rules/appendices/conditions.md#shaken)) as a melee touch attack. This effect persists for a number of rounds equal to 1/2 your sorcerer level (minimum 1). Creatures shaken by this ability radiate an aura of evil, as if they were an evil outsider (see *detect evil*). Multiple touches do not stack, but they do add to the duration. You can use this ability a number of times per day equal to 3 + your Charisma modifier.
 
 *Infernal Resistances* *(Ex)*: At 3rd level, you gain resist fire 5 and a +2 bonus on saving throws made against poison. At 9th level, your resistance to fire increases to 10 and your bonus on poison saving throws increases to +4.
 
@@ -363,7 +363,7 @@ The taint of the grave runs through your family. Perhaps one of your ancestors b
 
 **Bloodline Powers**: You can call upon the foul powers of the afterlife. Unfortunately, the more you draw upon them, the closer you come to joining them.
 
-*Grave Touch (Sp)*: Starting at 1st level, you can make a melee touch attack as a standard action that causes a living creature to become shaken for a number of rounds equal to 1/2 your sorcerer level (minimum 1). If you touch a shaken creature with this ability, it becomes frightened (see page 567) for 1 round if it has fewer Hit Dice than your sorcerer level. You can use this ability a number of times per day equal to 3 + your Charisma modifier.
+*Grave Touch (Sp)*: Starting at 1st level, you can make a melee touch attack as a standard action that causes a living creature to become shaken for a number of rounds equal to 1/2 your sorcerer level (minimum 1). If you touch a shaken creature with this ability, it becomes frightened (see [Conditions](../../rules/appendices/conditions.md#frightened)) for 1 round if it has fewer Hit Dice than your sorcerer level. You can use this ability a number of times per day equal to 3 + your Charisma modifier.
 
 *Death’s Gift* *(Su)*: At 3rd level, you gain resist cold 5 and DR 5/— against nonlethal damage. At 9th level, your resistance to cold increases to 10 and your DR increases to 10/— against nonlethal damage.
 

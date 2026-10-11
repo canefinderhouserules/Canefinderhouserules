@@ -8,4 +8,4 @@
 **Duration** instantaneous  
 **Saving Throw** Will negates (object); **Spell Resistance** yes (object)
 
-This transmutation imbues a flask (1 pint) of water with positive energy, turning it into holy water (see page 160).
+This transmutation imbues a flask (1 pint) of water with positive energy, turning it into holy water (see [Goods and Services](../../equipment/goods-and-services.md)).

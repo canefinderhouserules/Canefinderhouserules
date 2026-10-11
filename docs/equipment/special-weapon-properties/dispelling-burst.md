@@ -149,7 +149,7 @@ If a *dispelling burst* weapon confirms a critical hit while it is not currently
 <p><strong>Slot</strong> none; <strong>Price</strong> +2 bonus; <strong>Weight</strong> —</p>
 <h3 id="description-113"><span class="smallcaps">Description</span></h3>
 <p>A <em>harvesting</em> weapon siphons away mythic power from one mythic creature to empower another. Whenever a mythic wielder confirms a critical hit against another mythic creature, the weapon leeches away one use of the target’s mythic power and transfers it to the wielder. If the wielder already has her maximum number of uses of mythic power, the target’s use of mythic power is still leeched, but the wielder doesn’t gain it. The weapon can do this a number of times per day equal to the enhancement bonus of the weapon.</p>
-<p>If the <em>harvesting</em> weapon is a legendary item (see page 169), the wielder can have the mythic power that is leeched replenish one of that weapon’s uses of legendary power. Only melee weapons can have this ability.</p>
+<p>If the <em>harvesting</em> weapon is a legendary item , the wielder can have the mythic power that is leeched replenish one of that weapon’s uses of legendary power. Only melee weapons can have this ability.</p>
 <h3 id="construction-110"><span class="smallcaps">Construction</span></h3>
 <p><strong>Requirements</strong> Craft Magic Arms and Armor, Mythic Crafter, <em>steal power</em>; <strong>Price</strong> —</p></th>
 </tr>

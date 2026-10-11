@@ -26,9 +26,9 @@ There are hundreds of spells available to spellcasters in the Pathfinder Rolepla
 
 ## Spell Descriptions
 
-The following spells are presented in alphabetical order, with the exception of those whose names begin with “greater,” “lesser,” or “mass” (see Order of Presentation on page 224).
+The following spells are presented in alphabetical order, with the exception of those whose names begin with “greater,” “lesser,” or “mass” (see Order of Presentation above).
 
-The following spells are presented in alphabetical order, with the exception of those whose names begin with “greater,” “lesser,” or “mass” (see Order of Presentation on page 224).
+The following spells are presented in alphabetical order, with the exception of those whose names begin with “greater,” “lesser,” or “mass” (see Order of Presentation above).
 
 Any spell whose name begins with *greater* is alphabetized in this chapter according to the spell name. Thus, the description of a *greater* spell appears near the description of the spell on which it is based. Spell chains that have *greater* spells in them include those based on the spells *arcane sight, command, dispel magic,* *glyph of warding, invisibility, magic fang, magic weapon, planar ally,* *planar binding, polymorph, prying eyes, restoration, scrying, shadow* *conjuration, shadow evocation, shout,* and *teleport.*
 

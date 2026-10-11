@@ -62,7 +62,7 @@ Several modifiers may apply to the Survival check, as given on the table above.
 
 **Action**: Varies. A single Survival check may represent activity over the course of hours or a full day. A Survival check made to find tracks is at least a full-round action, and it may take even longer.
 
-**Try Again**: Varies. For getting along in the wild or for gaining the Fortitude save bonus noted in the first table on page 107, you make a Survival check once every 24 hours. The result of that check applies until the next check is made. To avoid getting lost or avoid natural hazards, you make a Survival check whenever the situation calls for one. Retries to avoid getting lost in a specific situation or to avoid a specific natural hazard are not allowed. For finding tracks, you can retry a failed check after 1 hour (outdoors) or 10 minutes (indoors) of searching.
+**Try Again**: Varies. For getting along in the wild or for gaining the Fortitude save bonus noted in the first table above, you make a Survival check once every 24 hours. The result of that check applies until the next check is made. To avoid getting lost or avoid natural hazards, you make a Survival check whenever the situation calls for one. Retries to avoid getting lost in a specific situation or to avoid a specific natural hazard are not allowed. For finding tracks, you can retry a failed check after 1 hour (outdoors) or 10 minutes (indoors) of searching.
 
 **Special**: If you are trained in Survival, you can automatically determine where true north lies in relation to yourself.
 

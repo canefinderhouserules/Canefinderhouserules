@@ -6,9 +6,9 @@ When generating a character, start with your character’s concept. Do you want 
 
 Once you have a general concept worked out, use the following steps to bring your idea to life, recording the resulting information and statistics on your Pathfinder RPG character sheet, which can be found at the back of this book and photocopied for your convenience.
 
-**Step 1—Determine Ability Scores**: Start by generating your character’s ability scores (see page 15). These six scores determine your character’s most basic attributes and are used to decide a wide variety of details and statistics. Some class selections require you to have better than average scores for some of your abilities.
+**Step 1—Determine Ability Scores**: Start by generating your character’s ability scores (see [Ability Scores](ability-scores.md)). These six scores determine your character’s most basic attributes and are used to decide a wide variety of details and statistics. Some class selections require you to have better than average scores for some of your abilities.
 
-**Step 2—Pick Your Race**: Next, pick your character’s race, noting any modifiers to your ability scores and any other racial traits (see Chapter 2). There are seven basic races to choose from, although your GM might have others to add to the list. Each race lists the languages your character automatically knows, as well as a number of bonus languages. A character knows a number of additional bonus languages equal to his or her Intelligence modifier (see page 17).
+**Step 2—Pick Your Race**: Next, pick your character’s race, noting any modifiers to your ability scores and any other racial traits (see Chapter 2). There are seven basic races to choose from, although your GM might have others to add to the list. Each race lists the languages your character automatically knows, as well as a number of bonus languages. A character knows a number of additional bonus languages equal to his or her Intelligence modifier.
 
 **Step 3—Pick Your Class**: A character’s class represents a profession, such as fighter or wizard. If this is a new character, he starts at 1st level in his chosen class. As he gains experience points (XP) for defeating monsters, he goes up in level, granting him new powers and abilities.
 

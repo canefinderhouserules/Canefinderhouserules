@@ -14,7 +14,7 @@ Each *runeforged weapon* opposes a school of magic. T he wielder gains a +2 mora
 
 Each of the seven Thassilonian schools of magic is opposed by a single *runeforged weapon* quality—each of these being the combination of that school’s opposition schools. The seven correct component combinations and the type of *runeforged weapon* each combination creates are listed below. Note that the first name for each type of weapon listed is its sinful name— the second is the name a virtuous character can use to refer to the weapon. In any event, a *runeforged weapon* functions the same, regardless of whether it magnifies a wielder’s sin or virtue.
 
-A wielder who is considered sinful or virtuous (see page 416) with the same type of sin/virtue as a *runeforged weapon* he wields becomes more aware of danger around him—gaining a +2 insight bonus on Initiative checks and a +1 dodge bonus to AC.
+A wielder who is considered sinful or virtuous  with the same type of sin/virtue as a *runeforged weapon* he wields becomes more aware of danger around him—gaining a +2 insight bonus on Initiative checks and a +1 dodge bonus to AC.
 
 The specific effects of each of the seven types of runeforged weapons are listed below.
 
