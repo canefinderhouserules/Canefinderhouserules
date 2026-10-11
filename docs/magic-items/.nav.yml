@@ -11,4 +11,7 @@ nav:
   - Staves: staves.md
   - Wands: wands.md
   - Wondrous Items: wondrous-items
-  - "*"
+  - Intelligent Items: intelligent-items.md
+  - Cursed Items: cursed-items.md
+  - Artifacts: artifacts.md
+  - Creating Magic Items: creating-magic-items.md

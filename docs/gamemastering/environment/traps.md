@@ -208,7 +208,7 @@ The following sample traps represent just some of the possibilities when constru
 
 **Type** mechanical; **Perception** DC 20; **Disable Device** DC 20  
 **Trigger** location; **Reset** manual  
-**Effect** Atk +15 melee (6d6); multiple targets (all targets in a 10-ft. square) 421 Environment 13
+**Effect** Atk +15 melee (6d6); multiple targets (all targets in a 10-ft. square)
 
 ### Fireball Trap (CR 5)
 
