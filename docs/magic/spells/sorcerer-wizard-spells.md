@@ -56,7 +56,7 @@
 - **[Alarm](alarm.md)**: Wards an area for 2 hours/level.
 - **[Endure Elements](endure-elements.md)**: Exist comfortably in hot or cold regions.
 - **[Hold Portal](hold-portal.md)**: Holds door shut.
-- **Protection from Chaos/Evil/Good/Law**: +2 to AC and saves, plus additional protection against selected alignment.
+- **[Protection from Chaos](protection-from-chaos.md)/[Protection from Evil](protection-from-evil.md)/[Protection from Good](protection-from-good.md)/[Protection from Law](protection-from-law.md)**: +2 to AC and saves, plus additional protection against selected alignment.
 - **[Shield](shield.md)**: Invisible disc gives +4 to AC, blocks *magic missiles.*
 
 **Conjuration**
@@ -197,7 +197,7 @@
 
 - **[Dispel Magic](dispel-magic.md)**: Cancels one magical spell or effect.
 - **[Explosive Runes](explosive-runes.md)**: Deals 6d6 damage when read.
-- **Magic Circle against Chaos/Evil/Good/Law**: As *protection* spells, but 10-ft. radius and 10 min./level.
+- **[Magic Circle against Chaos](magic-circle-against-chaos.md)/[Magic Circle against Evil](magic-circle-against-evil.md)/[Magic Circle against Good](magic-circle-against-good.md)/[Magic Circle against Law](magic-circle-against-law.md)**: As *protection* spells, but 10-ft. radius and 10 min./level.
 - **[Nondetection](nondetection.md)**: Hides subject from divination, scrying.
 - **[Protection from Energy](protection-from-energy.md)**: Absorbs 12 points/level of damage from one kind of energy.
 
