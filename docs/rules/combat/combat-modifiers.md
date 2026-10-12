@@ -86,6 +86,9 @@ In addition, some magical effects provide concealment against all attacks, regar
 
 **Total Concealment**: If you have line of effect to a target but not line of sight, he is considered to have total concealment from you. You can’t attack an opponent that has total concealment, though you can attack into a square that you think he occupies. A successful attack into a square occupied by an enemy with total concealment has a 50% miss chance (instead of the normal 20% miss chance for an opponent with concealment).
 
+!!! warning "House rule"
+    Total concealment from blindness or invisibility gives a **30%** miss chance instead of 50%. This applies to attacks against invisible creatures, and to attacks made by (or against) a blinded character.
+
 You can’t execute an attack of opportunity against an opponent with total concealment, even if you know what square or squares the opponent occupies.
 
 **Ignoring Concealment**: Concealment isn’t always effective. An area of dim lighting or darkness doesn’t provide any concealment against an opponent with darkvision. Characters with low-light vision can see clearly for a greater distance than other characters with the same light source. Although *invisibility* provides total concealment, sighted opponents may still make Perception checks to notice the location of an invisible character. An invisible character gains a +20 bonus on Stealth checks if moving, or a +40 bonus on Stealth checks when not moving (even though opponents can’t see you, they might be able to figure out where you are from other visual or auditory clues).

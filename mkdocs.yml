@@ -32,8 +32,3 @@ markdown_extensions:
 extra_css:
   - stylesheets/extra.css
 
-# Third-party IP (Star Wars, Vampire: The Masquerade, Naruto) is kept in the repo but not published.
-exclude_docs: |
-  campaign-systems/star-wars/
-  campaign-systems/vampires/
-  campaign-systems/chakra/

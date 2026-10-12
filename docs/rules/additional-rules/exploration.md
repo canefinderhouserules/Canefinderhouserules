@@ -12,7 +12,7 @@ Normal light functions just like bright light, but characters with light sensiti
 
 In an area of dim light, a character can see somewhat. Creatures within this area have concealment (20% miss chance in combat) from those without darkvision or the ability to see in darkness. A creature within an area of dim light can make a Stealth check to conceal itself. Areas of dim light include outside at night with a moon in the sky, bright starlight, and the area between 20 and 40 feet from a torch.
 
-In areas of darkness, creatures without darkvision are effectively blinded. In addition to the obvious effects, a blinded creature has a 50% miss chance in combat (all opponents have total concealment), loses any Dexterity bonus to AC, takes a –2 penalty to AC, and takes a –4 penalty on Perception checks that rely on sight and most Strength- and Dexterity-based skill checks. Areas of darkness include an unlit dungeon chamber, most caverns, and outside on a cloudy, moonless night.
+In areas of darkness, creatures without darkvision are effectively blinded. In addition to the obvious effects, a blinded creature has a 30% miss chance in combat (all opponents have total concealment), loses any Dexterity bonus to AC, takes a –2 penalty to AC, and takes a –4 penalty on Perception checks that rely on sight and most Strength- and Dexterity-based skill checks. Areas of darkness include an unlit dungeon chamber, most caverns, and outside on a cloudy, moonless night.
 
 Characters with low-light vision (elves, gnomes, and half-elves) can see objects twice as far away as the given radius. Double the effective radius of bright light, normal light, and dim light for such characters.
 

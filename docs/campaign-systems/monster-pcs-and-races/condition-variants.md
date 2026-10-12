@@ -1,7 +1,7 @@
 # Condition Variants
 
 !!! warning "House variant"
-    This is the table's variant condition list. Several conditions come in numbered tiers (for example *nauseated 1/2*, *paralyzed 1/2*, *petrified 1/2*, *sleep 1/2*, *stunned 1/2*), and some use different numbers than the Core Rulebook (for example, a 30% miss chance for total concealment from blindness and invisibility, a DC 20 Heal check to stop bleeding, and a 15% miss chance for dazzled). Where this list differs from [Conditions](../../rules/appendices/conditions.md), this list is the variant in use for the campaign systems.
+    This is the table's variant condition list. Several conditions come in numbered tiers (for example *nauseated 1/2*, *paralyzed 1/2*, *petrified 1/2*, *sleep 1/2*, *stunned 1/2*), and some use different numbers than the Core Rulebook (for example, a DC 20 Heal check to stop bleeding and a 15% miss chance for dazzled; the 30% miss chance for blindness and invisibility is now the standard rule). Where this list differs from [Conditions](../../rules/appendices/conditions.md), this list is the variant in use for the campaign systems.
 
 ## Bleed
 
