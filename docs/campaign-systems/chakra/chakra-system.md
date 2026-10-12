@@ -1,42 +1,36 @@
-# SISTEMA DE CHAKRA
+# Chakra System
 
-**Cantidad de chakra:** numero fijo (según clase) xnivel + stat mental x nivel (como la salud con constitucion, pero con un atributo mental)
+!!! warning "House system"
+    A fully alternative power system, separate from the normal Pathfinder spellcasting rules. Inspired by ninja fiction, it replaces spell slots with a chakra pool, and spells with jutsu. Experimental and open to negotiation with the GM.
 
-**Los números fijos son:**
+**Chakra:** a fixed number (by class) × level, plus the mental ability modifier × level (like hit points with Constitution, but with a mental ability).
 
-**clase 9na esfera:** 12
+**The fixed numbers are:**
 
-**clase 6ta esfera:** 8
+| Class type | Fixed number |
+|---|---|
+| 9th-level caster class | 12 |
+| 6th-level caster class | 8 |
+| 4th-level caster class | 6 |
 
-**clase 4ta esfera:** 6
+**Jutsu cost** (by spell level):
 
-**Coste de jutsus:**
+| Spell level | Chakra cost |
+|---|---|
+| 0 | 0–3 |
+| 1 | 1–10 |
+| 2 | 11–20 |
+| 3 | 21–30 |
+| 4 | 31–40 |
+| 5 | 41–50 |
+| 6 | 51–60 |
+| 7 | 61–70 |
+| 8 | 71–80 |
+| 9 | 81–100 |
 
-**0:** 0-3
+A character can die from negative chakra, under the same rules as dying from negative hit points, but using the casting ability instead of Constitution.
 
-**1:** 1-10
-
-**2:** 11-20
-
-**3:** 21-30
-
-**4:** 31-40
-
-**5:** 41-50
-
-**6:** 51-60
-
-**7:** 61-70
-
-**8:** 71-80
-
-**9:** 81-100
-
-Un personaje puede morir por chakra negativo, bajo las mismas reglas que morir por quedar en HP negativa, pero usando el atributo de caster en vez de constitucion.  
-  
-**CASTING ABILITY**
-
-Por regla general al menos en el caso de Naruto, el atributo para castear es Inteligencia. El Jutsu Master puede elegir cualquiera de los 3, y los otros 2 pueden gastar exp o una feat en cambiarlo de int a otro.
+**Casting ability:** as a general rule, the casting ability is Intelligence. The Jutsu Master may choose any of the 3 abilities; the other 2 classes can spend XP or a feat to change it from Intelligence to another.
 
 ## Classes
 
@@ -45,13 +39,13 @@ Las clases son algo sumamente customizable y poco definido, por eso son solo 3. 
 **Shinobi Warrior**
 
 **Hit Die**: d10.  
-**Chakra Die:** d6.
+**Chakra Die**: d6.
 
 ### Class Skills
 
 The \[Shinobi Warrior\]’s Class Skills are 5 of your choice.
 
-**Skill Ranks per Level**: 4 + [<u>Int</u>](http://www.d20pfsrd.com/basics-ability-scores/ability-scores#TOC-Intelligence-Int-) modifier.
+**Skill Ranks per Level**: 4 + Int modifier.
 
 ##### Table: Class
 
@@ -89,31 +83,30 @@ A \[Shinobi Warrior\] is proficient in \[all weapon types\] and \[all armor type
 
 **Warrior Class Feature (Ex, Sp, Su)**
 
-A nivel 2 y cada 2 niveles consiguen una class feature a su eleccion, desde custom para representar algo muy único y diferente a sistematizar y balancear (torturar) con el gm de turno (o sea yo, el único autista de balance) hasta robada de clases de pathfinder.  
-  
-Esto es completamente experimental, pero por ahora las únicas minusculas reglas que se me cruzaron por la cabeza para mantener cierto grado de sentido son:  
-- Podes copiar cualquier class feature del mismo nivel que conseguis la class feature o menos (no podes copiar la class feature Bane con una class feature lvl 2, ya que es una class feature lvl 5 en la clase de inquisitor).
+At 2nd level and every 2 levels thereafter you gain a class feature of your choice, ranging from a custom feature representing something very unique and different (to be systematized and balanced with the GM) to one borrowed from a Pathfinder class.
 
-\- Podes copiar class features solo de clases similares. Marcial de marciales (y de marciales hibridos negociable quizá de menor nivel). En el caso del Shinobi Warrior, solo puede copiar de clases sin spells, o con spells de 4ta, y posiblemente con spells de 6ta con posible leveo mas debil o que gaste una class feature de nivel mas alto.
+This is completely experimental, but for now the only tiny rules for keeping some degree of sense are:
 
-\- Cada class feature tiene un valor diferente, dividido entre OP, comun, y Debil. Cada vez que elegis una class feature podes elegir 1 OP, o 2 comunes, o 4 debiles (o 1 comun y 2 debiles). Probablemente límite a solo 2 OPs o quizá prohiba algunas mezclas. Todo negociable.
+- You can copy any class feature of the same level as the class feature you are gaining, or lower (you cannot copy the inquisitor's Bane with a level 2 class feature, since it is a level 5 feature for the inquisitor).
+- You can copy class features only from similar classes: martial from martial (and from martial hybrids, negotiable and perhaps at a lower level). For the Warrior-type class, only from classes without spells or with 4th-level spells, and possibly from 6th-level casters with a weaker level or at the cost of a higher-level class feature.
+- Each class feature has a different value: Strong, Common or Weak. Each time you choose a class feature you can take 1 Strong, or 2 Common, or 4 Weak (or 1 Common and 2 Weak). The GM will probably limit this to 2 Strong features, or may ban some combinations. All negotiable.
 
 **Elemental Affinity (Ex, Sp, Su)**
 
-Ganas una afinidad elemental, permitiendote aprender jutsus de ese elemento.
+You gain an elemental affinity, allowing you to learn jutsu of that element.
 
-El Shinobi Warrior no gana mas que una, teniendo que desbloquear otras mediante feats si así lo desea.
+The Shinobi Warrior gains only one, and must unlock others through feats if desired.
 
 **Shinobi Specialist  
 Hit Die**: d8.
 
-**Chakra Die:** d8
+**Chakra Die**: d8
 
 ### Class Skills
 
 The \[Class\]’s Class Skills are 10 of your choice.
 
-**Skill Ranks per Level**: 6 + [<u>Int</u>](http://www.d20pfsrd.com/basics-ability-scores/ability-scores#TOC-Intelligence-Int-) modifier.
+**Skill Ranks per Level**: 6 + Int modifier.
 
 ##### Table: Class
 
@@ -151,31 +144,30 @@ A \[Shinobi Specialist\] is proficient in \[Simple and Martial weapons\] and \[L
 
 **Specialist Class Feature (Ex, Sp, Su)**
 
-A nivel 2 y cada 2 niveles consiguen una class feature a su eleccion, desde custom para representar algo muy único y diferente a sistematizar y balancear (torturar) con el gm de turno (o sea yo, el único autista de balance) hasta robada de clases de pathfinder.  
-  
-Esto es completamente experimental, pero por ahora la única minuscula regla que se me cruzo por la cabeza para mantener cierto grado de sentido es:  
-- Podes copiar cualquier class feature del mismo nivel que conseguis la class feature o menos (no podes copiar la class feature Bane con una class feature lvl 2, ya que es una class feature lvl 5 en la clase de inquisitor).
+At 2nd level and every 2 levels thereafter you gain a class feature of your choice, ranging from a custom feature representing something very unique and different (to be systematized and balanced with the GM) to one borrowed from a Pathfinder class.
 
-\- Podes copiar class features solo de clases similares. Marcial de marciales (y de marciales hibridos negociable quizá de menor nivel). En el caso del Shinobi Warrior, solo puede copiar de clases sin spells, o con spells de 4ta, y posiblemente con spells de 6ta con posible leveo mas debil o que gaste una class feature de nivel mas alto.
+This is completely experimental, but for now the only tiny rule for keeping some degree of sense is:
 
-\- Cada class feature tiene un valor diferente, dividido entre OP, comun, y Debil. Cada vez que elegis una class feature podes elegir 1 OP, o 2 comunes, o 4 debiles (o 1 comun y 2 debiles). Probablemente límite a solo 2 OPs o quizá prohiba algunas mezclas. Todo negociable.
+- You can copy any class feature of the same level as the class feature you are gaining, or lower (you cannot copy the inquisitor's Bane with a level 2 class feature, since it is a level 5 feature for the inquisitor).
+- You can copy class features only from similar classes: martial from martial (and from martial hybrids, negotiable and perhaps at a lower level). For the Warrior-type class, only from classes without spells or with 4th-level spells, and possibly from 6th-level casters with a weaker level or at the cost of a higher-level class feature.
+- Each class feature has a different value: Strong, Common or Weak. Each time you choose a class feature you can take 1 Strong, or 2 Common, or 4 Weak (or 1 Common and 2 Weak). The GM will probably limit this to 2 Strong features, or may ban some combinations. All negotiable.
 
 **Elemental Affinity (Ex, Sp, Su)**
 
-Ganas una afinidad elemental, permitiendote aprender jutsus de ese elemento.
+You gain an elemental affinity, allowing you to learn jutsu of that element.
 
-El Shinobi Specialist gana otra afinidad elemental a nivel 9 y otra a nivel 15.
+The Shinobi Specialist gains another elemental affinity at 9th level and another at 15th level.
 
 **Shinobi Jutsu Master  
 Hit Die**: d6.
 
-**Chakra Die:** d12.
+**Chakra Die**: d12.
 
 ### Class Skills
 
 The \[Jutsu Master\]’s Class Skills are 5 of your choice.
 
-**Skill Ranks per Level**: 4 + [<u>Int</u>](http://www.d20pfsrd.com/basics-ability-scores/ability-scores#TOC-Intelligence-Int-) modifier.
+**Skill Ranks per Level**: 4 + Int modifier.
 
 ##### Table: Class
 
@@ -213,17 +205,16 @@ A \[Jutsu Master\] is proficient in \[Simple Weapons\] and \[Light armor\].
 
 **Jutsu Master Class Feature (Ex, Sp, Su)**
 
-A nivel 2 y cada 2 niveles consiguen una class feature a su eleccion, desde custom para representar algo muy único y diferente a sistematizar y balancear (torturar) con el gm de turno (o sea yo, el único autista de balance) hasta robada de clases de pathfinder.  
-  
-Esto es completamente experimental, pero por ahora la única minuscula regla que se me cruzo por la cabeza para mantener cierto grado de sentido es:  
-- Podes copiar cualquier class feature del mismo nivel que conseguis la class feature o menos (no podes copiar la class feature Bane con una class feature lvl 2, ya que es una class feature lvl 5 en la clase de inquisitor).
+At 2nd level and every 2 levels thereafter you gain a class feature of your choice, ranging from a custom feature representing something very unique and different (to be systematized and balanced with the GM) to one borrowed from a Pathfinder class.
 
-\- Podes copiar class features solo de clases similares. Marcial de marciales (y de marciales hibridos negociable quizá de menor nivel). En el caso del Shinobi Warrior, solo puede copiar de clases sin spells, o con spells de 4ta, y posiblemente con spells de 6ta con posible leveo mas debil o que gaste una class feature de nivel mas alto.
+This is completely experimental, but for now the only tiny rule for keeping some degree of sense is:
 
-\- Cada class feature tiene un valor diferente, dividido entre OP, comun, y Debil. Cada vez que elegis una class feature podes elegir 1 OP, o 2 comunes, o 4 debiles (o 1 comun y 2 debiles). Probablemente límite a solo 2 OPs o quizá prohiba algunas mezclas. Todo negociable.
+- You can copy any class feature of the same level as the class feature you are gaining, or lower (you cannot copy the inquisitor's Bane with a level 2 class feature, since it is a level 5 feature for the inquisitor).
+- You can copy class features only from similar classes: martial from martial (and from martial hybrids, negotiable and perhaps at a lower level). For the Warrior-type class, only from classes without spells or with 4th-level spells, and possibly from 6th-level casters with a weaker level or at the cost of a higher-level class feature.
+- Each class feature has a different value: Strong, Common or Weak. Each time you choose a class feature you can take 1 Strong, or 2 Common, or 4 Weak (or 1 Common and 2 Weak). The GM will probably limit this to 2 Strong features, or may ban some combinations. All negotiable.
 
 **Elemental Affinity (Ex, Sp, Su)**
 
-Ganas una afinidad elemental, permitiendote aprender jutsus de ese elemento.
+You gain an elemental affinity, allowing you to learn jutsu of that element.
 
-El Jutsu Master gana otra afinidad elemental a nivel 5, 10 y 15.
+The Jutsu Master gains another elemental affinity at 5th, 10th and 15th level.
