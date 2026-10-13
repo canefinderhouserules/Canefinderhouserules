@@ -4,9 +4,7 @@ A magic weapon is enhanced to strike more truly and deliver more damage. Magic w
 
 Weapons come in two basic categories: melee and ranged. Some of the weapons listed as melee weapons can also be used as ranged weapons. In this case, their enhancement bonuses apply to both melee and ranged attacks.
 
-Some magic weapons have special abilities. Special abilities count as additional bonuses for determining the market value of the item, but do not modify attack or damage bonuses Table 15–7: Specific Shields Market Minor Medium Major Specific Shield Price 01–30 01–20 — Darkwood buckler 203 gp 31–80 21–45 — Darkwood shield 257 gp 81–95 46–70 — Mithral heavy shield 1,020 gp 96–100 71–85 01–20 Caster’s shield 3,153 gp — 86–90 21–40 Spined shield 5,580 gp — 91–95 41–60 Lion’s shield 9,170 gp — 96–100 61–90 Winged shield 17,257 gp — — 91–100 Absorbing shield 50,170 gp
-
-(except where specifically noted). A single weapon cannot have a modified bonus (enhancement bonus plus special ability bonus equivalents, including from character abilities and spells) higher than +10. A weapon with a special ability must also have at least a +1 enhancement bonus. Weapons cannot possess the same special ability more than once.
+Some magic weapons have special abilities. Special abilities count as additional bonuses for determining the market value of the item, but do not modify attack or damage bonuses (except where specifically noted). A single weapon cannot have a modified bonus (enhancement bonus plus special ability bonus equivalents, including from character abilities and spells) higher than +10. A weapon with a special ability must also have at least a +1 enhancement bonus. Weapons cannot possess the same special ability more than once.
 
 Weapons or ammunition can be made of an unusual material. Roll d%: 01–95 indicates that the item is of a standard sort, and 96– 100 indicates that it is made of a special material (see Chapter 6).
 

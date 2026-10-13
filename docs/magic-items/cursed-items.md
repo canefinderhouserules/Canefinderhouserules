@@ -208,8 +208,6 @@ This armor is similar in appearance to armor of command and functions as a suit 
 
 **Creation** (associated magic items): armor of command, +1 full plate
 
-Helm of Opposite Alignment Stone of Weight Gauntlets of Fumbling Necklace of Strangulation Poisonous Cloak Bag of Devouring
-
 ### Bag of Devouring
 
 **Aura** strong conjuration; **CL** 17th  
