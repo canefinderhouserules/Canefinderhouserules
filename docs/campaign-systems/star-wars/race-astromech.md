@@ -54,4 +54,3 @@ Benefit: Choose a 2nd-level or lower spell that does not attack a creature or de
 
 Special: This trait costs as many RP as the level of the spell chosen (minimum 1 RP). This trait can be taken up to three times. Each time you take an additional spell, adjust the RP cost of this trait appropriately.
 
-[<u>https://www.d20pfsrd.com/magic/all-spells/m/make-whole/</u>](https://www.d20pfsrd.com/magic/all-spells/m/make-whole/)

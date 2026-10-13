@@ -1,4 +1,4 @@
-# Chiss
+# Chiss (race)
 
 Type: Humanoid (near-human) \[0\]
 

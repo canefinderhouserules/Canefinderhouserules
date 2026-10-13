@@ -34,7 +34,7 @@ A character can die from negative chakra, under the same rules as dying from neg
 
 ## Classes
 
-Las clases son algo sumamente customizable y poco definido, por eso son solo 3. Definen en piedra cada cuantos niveles sacas una nueva class feature, cuanta HP y cuanto Chakra por nivel recibis, cuanto bab tenes, las saves que obtenes, y de cierta forma que clase de class features podes llegar a obtener (negociable).
+Classes are extremely customizable and loosely defined, which is why there are only 3. They set in stone how many levels apart you gain a new class feature, how many hit points and how much chakra you gain per level, your BAB, your saves, and, to a degree, what kind of class features you can obtain (negotiable).
 
 **Shinobi Warrior**
 

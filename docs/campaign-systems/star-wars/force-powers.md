@@ -1,8 +1,11 @@
 # Force Powers
 
-Force powers, aka spells, que ya hayamos creado, sumado a una pequeña lista de cantrips que cualquier personaje entrenado por la orden jedi gana automaticamente
+!!! note "Star Wars subsystem"
+    This is a custom subsystem, separate from the normal Pathfinder rules.
 
-## Cantrips de regalo
+The Force powers (a.k.a. spells) we have already created, plus a short list of cantrips that any character trained by the Jedi Order gains automatically.
+
+## Free Cantrips
 
 **Force Cushion, Lesser**
 
@@ -22,7 +25,7 @@ Target: Self
 
 Duration: Instantaneous
 
-Description: Anula el daño de una caida, de hasta un maximo de 5ft por caster level, con un maximo de 50ft.
+Description: Negates falling damage, up to a maximum of 5 ft. per caster level, with a cap of 50 ft.
 
 **Force Jump, Lesser**
 
@@ -42,7 +45,7 @@ Target: Self
 
 Duration: Instantaneous
 
-Description: te moves hasta un maximo de la mitad de tu velocidad saltando en la direccion que quieras.
+Description: You move up to half your speed by jumping in any direction you choose.
 
 **Detect Force**
 
@@ -72,7 +75,7 @@ You detect force auras. The amount of information revealed depends on how long y
 
 2nd Round: Number of different force auras and the power of the most potent aura.
 
-3rd Round: The strength and location of each aura. If the items or creatures bearing the auras are in line of sight, you can make Knowledge (arcana) skill checks to determine the school of magic involved in each. (Make one check per aura: DC 15 + spell level, or 15 + 1/2 caster level for a nonspell effect.) If the aura eminates from a magic item, you can attempt to identify its properties (see Spellcraft).
+3rd Round: The strength and location of each aura. If the items or creatures bearing the auras are in line of sight, you can make Knowledge (arcana) skill checks to determine the school of magic involved in each. (Make one check per aura: DC 15 + spell level, or 15 + 1/2 caster level for a nonspell effect.) If the aura emanates from a magic item, you can attempt to identify its properties (see Spellcraft).
 
 Magical areas, multiple types of magic, or strong local magical emanations may distort or conceal weaker auras.
 
@@ -116,7 +119,7 @@ You detect life. The amount of information revealed depends on how long you stud
 
 2nd Round: Number of different living beings.
 
-3rd Round: The aproximate location of each living being.
+3rd Round: The approximate location of each living being.
 
 **Force Buff**
 
@@ -134,7 +137,7 @@ Range: Self
 
 Duration: 1 Round/level.
 
-Description: +2 a 1 stat fisico a eleccion, o +4 a 1 skill fisica a eleccion.
+Description: +2 to 1 physical ability score of your choice, or +4 to 1 physical skill of your choice.
 
 **Force Speed**
 
@@ -152,7 +155,7 @@ Range: Self
 
 Duration: 1 Round/level.
 
-Description: +10ft a todos los tipos de movimiento que tengas.
+Description: +10 ft. to all types of movement you have.
 
 **Force Push and Pull lesser**
 
@@ -174,7 +177,7 @@ Duration: Instantaneous
 
 Saving Throw: None. Spell Resistance: Yes
 
-Description: haces una tirada de CMB usando tu habilidad de casteo y tu caster level. Si superas, moves a alguien 5ft para el lado que quieras. Por cada 5 que superes el CMD enemigo, moves 5ft mas, hasta un maximo de 15ft. Si moves a alguien hacia un objeto solido, le haces 1d6 de daño contundente.
+Description: You make a CMB check using your casting ability and your caster level. If you succeed, you move someone 5 ft. in the direction you choose. For every 5 by which you beat the enemy's CMD, you move them 5 ft. farther, up to a maximum of 15 ft. If you move someone into a solid object, you deal 1d6 points of bludgeoning damage to them.
 
 **Force Telekinesis Lesser**
 
@@ -200,9 +203,9 @@ Description
 
 You point your hand at an object and can lift it and move it at will from a distance. As a move action, you can propel the object as far as 15 feet in any direction, though the spell ends if the distance between you and the object ever exceeds the spell's range.
 
-**Force Powers aprendibles**
+## Learnable Force Powers
 
-## Nivel 1
+### Level 1
 
 **Force Push and Pull**
 
@@ -224,9 +227,9 @@ Duration: Instantaneous
 
 Saving Throw: Fort or reflex halves. Spell Resistance: Yes
 
-Description: Moves a tu objetivo, ya sea hacia una direccion que vos quieras o hacia ti mismo, 5ft cada 2 caster level (minimo 5ft, o 0 si resisten), hasta un maximo de 30ft. Este movimiento no provoca ataque de oportunidad. Cada 5ft que alguien tenga que moverse pero no pueda porque hay una pared o el suelo o lo que sea, recibe 1d6 de daño contundente.
+Description: You move your target, either in a direction of your choice or toward yourself, 5 ft. per 2 caster levels (minimum 5 ft., or 0 if they resist), up to a maximum of 30 ft. This movement does not provoke attacks of opportunity. For every 5 ft. that someone has to move but cannot because of a wall, the ground or anything else, they take 1d6 points of bludgeoning damage.
 
-En el caso de objetos puede hasta un maximo de 25 pounds por caster level
+In the case of objects, you can move up to a maximum of 25 pounds per caster level.
 
 **Strong Push**
 
@@ -246,7 +249,7 @@ Duration: Instantaneous
 
 Saving Throw: Fort or reflex halves. Spell Resistance: Yes
 
-Description: moves todo lo que este en el cono hacia el lado contrario de donde viene el mismo. 5ft cada 2 caster level (mínimo 5ft o 0 si resisten) hasta un máximo de 15ft. Este movimiento no provoca ataque de oportunidad. Cada 5ft que alguien tenga que moverse pero no pueda porque hay una pared o el suelo o lo que sea, recibe 1d6 de daño contundente.
+Description: You move everything in the cone away from you, in the direction opposite to where the cone comes from, 5 ft. per 2 caster levels (minimum 5 ft., or 0 if they resist), up to a maximum of 15 ft. This movement does not provoke attacks of opportunity. For every 5 ft. that someone has to move but cannot because of a wall, the ground or anything else, they take 1d6 points of bludgeoning damage.
 
 **Force Attack**
 
@@ -268,7 +271,7 @@ Duration: Instantaneous
 
 Saving Throw: Fort or reflex halves. Spell Resistance: Yes
 
-Description: Golpeas a tu objetivo con la fuerza, haciendole 1d6 de daño contundente por nivel de caster (hasta un máximo de 5d6) y moviendolo 5ft para atrás. si savea, niega el movimiento y reduce al a mitad el daño. El movimiento no provoca ataques de oportunidad.
+Description: You strike your target with the Force, dealing 1d6 points of bludgeoning damage per caster level (maximum 5d6) and pushing them back 5 ft. If they save, they negate the movement and take half damage. The movement does not provoke attacks of opportunity.
 
 **Saber Throw**
 
@@ -286,8 +289,8 @@ Range: 30ft Line
 
 Duration: Instantaneous
 
-Description: Haces un Ranged Attack que le pega a todo lo que este en la linea, y le causa el daño de tu sable + tu str o tu casting ability. Podes usar tu casting ability en lugar de dexterity para el ranged attack. Si no superas la AC de alguien con sable de luz, se termina la linea en el. Puede usarse en una full round como uno de tus ataques, si es que tenes mas de 1.  
-  
+Description: You make a ranged attack that hits everything in the line and deals your lightsaber's damage + your Strength or casting ability modifier to each. You can use your casting ability instead of Dexterity for the ranged attack. If you fail to beat the AC of someone wielding a lightsaber, the line ends at that creature. It can be used in a full-round action as one of your attacks, if you have more than one.
+
 **Force Throw**
 
 School: Force Alter
@@ -301,7 +304,7 @@ Components: S
 Range: medium (100 ft. + 10 ft./level)  
 Targets up to five creatures, no two of which can be more than 15 ft. apart  
 Duration: Instantaneous  
-Description: Lanzas algun objeto pequeño del ambiente, de no mas de 1lbs hacia el enemigo, sumamente rápido y a larga distancia. Como Ranged Touch attack lanzas un ataque que causa 1d4+2 de daño contundente perforante o cortante según lo que lances. Podes lanzar un objeto extra cada 2 caster level encima de 1, hasta un máximo de 5 a 9 caster level. Podes usar tu habilidad de casteo en lugar de dexterity como atributo para el ranged attack. Podes lanzar a un mismo objetivo multiples objetos con una sola tirada, o dividirlos entre distintos objetivos, no menos de 1 para cada objetivo, y a no mas de 15ft entre si.
+Description: You hurl a small object from the surroundings, weighing no more than 1 lb., at the enemy, extremely fast and over a long distance. You make a ranged touch attack that deals 1d4+2 points of bludgeoning, piercing or slashing damage, depending on what you throw. You can throw one extra object for every 2 caster levels above 1, up to a maximum of 5 objects at caster level 9. You can use your casting ability instead of Dexterity for the ranged attack. You can throw multiple objects at the same target. con una sola tirada, o dividirlos entre distintos objetivos, no menos de 1 para cada objetivo, y a no mas de 15ft entre si.
 
 **Force Jump**
 
@@ -321,7 +324,7 @@ Target: Self
 
 Duration: Instantaneous
 
-Description: te moves hasta un maximo de tu velocidad saltando en la direccion que quieras.
+Description: You move up to your speed by jumping in any direction you choose.
 
 **Force Cushion**
 
@@ -341,7 +344,7 @@ Target: Self
 
 Duration: Instantaneous
 
-Description: Anula el daño de una caida, de hasta un maximo de 10ft por caster level.
+Description: Negates falling damage, up to a maximum of 10 ft. per caster level.
 
 **Strong Bellow**
 
@@ -363,7 +366,7 @@ Duration: Instantaneous
 
 Saving Throw: Fort Halves/negates. Spell Resistance: No
 
-Description: pega un terrible grito locardo, levemente potenciado por la fuerza. 1d4 de daño sonico cada caster level, maximo 5d4. Deja Deafened por 1 ronda a menos que se tenga exito en la save.
+Description: You let out a terrible, wild scream, slightly empowered by the Force. It deals 1d4 points of sonic damage per caster level, maximum 5d4. Targets are deafened for 1 round unless they succeed on the save.
 
 **Telekinesis**
 
@@ -417,9 +420,9 @@ Range: Self
 
 Duration: 1 minute/level.
 
-Description: +2 Deflection bonus a AC. +1 extra cada 6 caster level.
+Description: +2 deflection bonus to AC, +1 additional per 6 caster levels.
 
-## Nivel 2
+### Level 2
 
 **Force Bellow**
 
@@ -441,4 +444,4 @@ Duration: Instantaneous
 
 Saving Throw: Fort Halves/negates. Spell Resistance: No
 
-Description: pega un terrible grito ultra mega bass boosteado por la fuerza. 1d4 de daño sonico cada caster level, maximo 10d4. Deja Deafened por 1 ronda a menos que se tenga exito en la save.
+Description: You let out a terrible, ultra bass-boosted scream empowered by the Force. It deals 1d4 points of sonic damage per caster level, maximum 10d4. Targets are deafened for 1 round unless they succeed on the save.

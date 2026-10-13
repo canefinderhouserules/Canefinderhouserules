@@ -1,11 +1,9 @@
 # Force Sensitivity
 
-Voy a ser mala persona y cobrarselos, pero le voy a poner beneficios. El consular lo consigue gratis a lvl 1 porque literal solo lo puede usar alguien con la fuerza así que eso, además ser full caster con hp de full caster en un rol donde TODO tira 500 tiros por segundo es… bueno, no la mejor de las ideas che
+This costs a feat, but it comes with benefits. The Consular gets it for free at level 1, because only someone with the Force can use that class, and being a full caster with full-caster hit points in a role where EVERYTHING fires 500 shots per second is, well, not the best idea.
 
-**Force Sensitive \[Feat\] \[Requisito: Solo se puede tomar a nivel 1\]:** Sos force sensitive. Tu tirada de percepcion sirve para percibir mucho mas que los sentidos normales, a veces hasta percibir las cosas antes de que sucedan, así que esencialmente ignora bonus de invisibilidad o los reduce drasticamente, y esas cosas. Podes bloquear y desviar blasters con un sable de luz, tenes un sable de luz gratis, incluso 2 según el rol consultar. Tenes +1 Dodge AC, que sube a nivel 3 y cada 3 niveles (a nivel 6 sería +3 y así sucesivamente). Esta AC se pierde si te agarran flat footed.
+**Force Sensitive** *(feat; prerequisite: can only be taken at level 1)*: you are Force sensitive. Your Perception roll can perceive much more than normal senses, sometimes even perceiving things before they happen, so it essentially ignores invisibility bonuses or drastically reduces them, and so on. You can block and deflect blasters with a lightsaber, and you have a free lightsaber (even 2, depending on the role; ask). You have +1 dodge AC, which rises at level 3 and every 3 levels after that (at level 6 it is +3, and so on). This AC is lost if you are caught flat-footed.
 
-**Force Sensitive \[Trait\]** \[Requisito: solo se puede tomar a nivel 1 (o valley of the jedi shenanigans we)\]:
+**Force Sensitive** *(trait; prerequisite: can only be taken at level 1)*: you are Force sensitive but have not had formal training, or are too lucky to have gone to be a temple guard. You can use Perception in an extrasensory way, but it does not always work: it only works if you roll more than 10 on the base die. You have no AC bonus and no lightsaber.
 
-Sos force sensitive pero no tenes ni tuviste entrenamiento formal, o sos muy pete anda a hacerte guardia del templo bobo. Tenes el usar percepcion de manera extrasensorial pero no siempre funciona, solo sirve si sacas mas de 10 en el dado base, y no tenes bonos de AC, ni un sable de luz.
-
-Also ser force sensitive te habilita el sistema de Karma
+Being Force sensitive also enables the [Karma system](dark-side-light-side.md).

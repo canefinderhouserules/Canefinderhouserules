@@ -32,8 +32,8 @@ Skill Bonus (2 RP)
 
 Benefits: Ithorians gain a +2 racial bonus on skill checks made with Knowledge (Nature).
 
-Pyromaniac: Soundmaniac xd (3 RP)
+Soundmaniac (3 RP)
 
-Benefit: Members of this race are treated as +1 level higher when casting spells with the sonic descriptor, using granted powers of the sonic xd domain, using bloodline powers of the sonic xd elemental bloodline, using the revelations of the oracle’s sonic mystery, and determining the damage of alchemist bombs that deal sonic damage. This trait does not give members of this race early access to level-based powers; it only affects powers that they could already use without this trait. If a member of this race has a Wisdom score of 11 or higher, it also gains the following spell-like abilities (the caster level is equal to the user’s character level):
+Benefit: Members of this race are treated as +1 level higher when casting spells with the sonic descriptor, using granted powers of the sonic domain, using bloodline powers of the sonic elemental bloodline, using the revelations of the oracle’s sonic mystery, and determining the damage of alchemist bombs that deal sonic damage. This trait does not give members of this race early access to level-based powers; it only affects powers that they could already use without this trait. If a member of this race has a Wisdom score of 11 or higher, it also gains the following spell-like abilities (the caster level is equal to the user’s character level):
 
-1/day—Sotto Voce, Lullaby pero deafened y area alrededor en vez de a 100ft, Virtue, Burning Hands (pero sonico y fort en lugar de reflex)
+1/day—*Sotto Voce*, *Lullaby* (but the target is deafened, and it affects the area around you instead of 100 ft.), *Virtue*, *Burning Hands* (but sonic damage and a Fortitude save instead of Reflex)
