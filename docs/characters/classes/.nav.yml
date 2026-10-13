@@ -1,17 +1,29 @@
 nav:
   - character-advancement.md
+  - alchemist-archetypes.md
   - barbarian.md
   - bard.md
+  - bard-archetypes.md
   - cleric.md
+  - cleric-archetypes.md
   - druid.md
+  - druid-archetypes.md
   - fighter.md
+  - inquisitor-archetypes.md
   - magus.md
   - magus-archetypes.md
-  - magus-archetypes.md
   - monk.md
+  - monk-archetypes.md
+  - oracle-archetypes.md
   - paladin.md
+  - paladin-archetypes.md
   - ranger.md
+  - ranger-archetypes.md
   - rogue.md
   - sorcerer.md
+  - sorcerer-archetypes.md
+  - summoner-archetypes.md
+  - witch-archetypes.md
   - wizard.md
+  - wizard-archetypes.md
   - "*"
