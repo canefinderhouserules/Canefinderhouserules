@@ -14,6 +14,12 @@
 - Skill requirements drop to 3; the spell level requirement drops to 1.
 - Solar Invocation changes to +1 at level 1, +2 at level 3, +3 at level 6, and +4 at level 9.
 
+## Arclord of the Eye
+
+- Skill requirements drop to 3. The special requirement no longer asks for arcane sight. The feat requirement is only the class's own entry feat.
+- Arcane Sight is a 1st-level spell for them.
+- From 2nd level onward it counts as gaining a level in another class of your choice as well (Aligned Class; see Evangelist for details).
+
 ## Argent Dramaturge
 
 - Perform and Spellcraft requirements drop to 4.
@@ -247,6 +253,10 @@
 - Gains proficiency with the order's dueling sword at level 1, and Dazzling Display.
 - Defensive Parry also gives Parry and Riposte and Panache as if you were a swashbuckler of your level.
 - Confounding Duelist lets you use Shatter Confidence with any hit even if the enemy is not shaken, and gives +1 critical range or critical multiplier, which stacks with Improved Critical (that is, it makes the dueling sword 18–20/×2 or 19–20/×3, your choice).
+
+## Sworn of the Fae
+
+- Gains Aligned Class at half rate.
 
 ## Winter Witch
 

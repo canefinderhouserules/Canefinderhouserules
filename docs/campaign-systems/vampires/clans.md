@@ -18,4 +18,4 @@
 | **Tzimisce** | They must rest near at least a kilo of earth from a place that was very significant to the vampire in question. Failing to do so leaves them exhausted until they do. | Vicissitude, Animalism, Auspex |
 | **Ventrue** | They can only feed on one specific type of blood, chosen at character creation: from "specifically red-haired women" to "gay men," things so specific that they make feeding harder. Generally also people of quality, who have had a good, healthy life, not just any street bum, let alone animals. | Dominate, Fortitude, Presence |
 | **Followers of Set (Setites)** | Light sensitivity. | Obfuscate, Presence, Protean |
-| **Banu Haqim (Assamites)** | A curse that grows worse with the passing of time. Addicted to diablerie, and their aura is that of diablerie, which brings them many problems when moving through Camarilla territory. | Auspex, Celerity, Obfuscate |
+| **Banu Haqim (Assamites)** | Their skin gradually darkens over time until it is as black as charcoal. Addicted to diablerie, and their aura is that of diablerie, which brings them many problems when moving through Camarilla territory. | Auspex, Celerity, Obfuscate |
