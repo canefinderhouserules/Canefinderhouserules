@@ -31,3 +31,5 @@ The following text is the property of Wizards of the Coast, Inc. and is Copyrigh
     The Book of Experimental Might © 2008, Monte J. Cook. All rights reserved.
 
     Tome of Horrors © 2002, Necromancer Games, Inc.; Authors: Scott Greene, with Clark Peterson, Erica Balsley, Kevin Baase, Casey Christofferson, Lance Hawvermale, Travis Hawvermale, Patrick Lawinger, and Bill Webb; Based on original content from TSR.
+
+    Pathfinder Roleplaying Game Mythic Adventures © 2013, Paizo Publishing, LLC; Authors: Jason Bulmahn, Stephen Radney-MacFarland, Sean K Reynolds, and Robert Schwalb.

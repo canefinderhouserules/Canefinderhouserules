@@ -1,13 +1,14 @@
 # Casters
 
-"no existen los espontaneos" sort of
+!!! note "Vampire subsystem"
+    This is a custom subsystem, separate from the normal Pathfinder rules.
 
-se pueden estudiar excepciones, pero por regla general tienen que usar las clases de caster preparados.
+There are no spontaneous casters, sort of.
 
-La cantidad de hechizos conocidos (incluso para clases divinas) usa la de wizard, pero en vez de +2 por nivel, es +3 spells por nivel. No necesita "preparar" los hechizos para poder lanzarlos, es como si siempre los tuviese preparados. No podes aprender hechizos nuevos mediante scroll, tenes que gastar experiencia.
+Exceptions can be studied, but as a general rule vampires have to use the prepared caster classes.
 
-Rituales: Se pueden ver y estudiar caso a caso, los aprenderian como si fuesen spells de su propia clase magica (lo comento porque hay muchos con efectos muy utiles y demasiado especificos del universo de vampiro, se va a notar su falta).
+The number of spells known (even for divine classes) uses the wizard's, but instead of +2 per level, it is +3 spells per level. A vampire does not need to "prepare" spells to cast them; it is as if they were always prepared. You cannot learn new spells from scrolls; you have to spend experience.
 
-Obsolete Class Feature:
+**Rituals:** They can be examined and studied case by case, and a vampire would learn them as if they were spells of their own magic class. (I mention this because many have very useful effects that are too specific to the vampire universe; their absence will be noticeable.)
 
-Si tenes una class feature obsoleta por los cambios que hemos estado poniendo (craft scroll por ejemplo) se habla para que se cambie por otra cosa.
+**Obsolete class features:** If you have a class feature made obsolete by the changes we have been making (Craft Scroll, for example), talk to the GM so it can be swapped for something else.
