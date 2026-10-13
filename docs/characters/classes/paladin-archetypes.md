@@ -28,6 +28,8 @@ The following are a selection of oaths for the oathbound paladin archetype. Othe
 
 ### Oath against Corruption
 
+**Typical deities**: a god of cities, law, merchants, and wealth; a goddess of healing, honesty, redemption, and the sun; a goddess of art, beauty, love, and music; a god of the forge, protection, and strategy.
+
 More insidious than meddling devils and more destructive than rampaging hordes are the strange alien entities that bubble up from the deep earth and the strange places beyond the sky. When a paladin takes this oath, she becomes a hunter of aberrations, protecting the common people from these bizarre threats. Often the paladin works in secret, not wanting to spread panic about her mission. Within cities they sometimes have underground bases that give access through the sewers and passages to strange vaults where the aberrant creatures live.
 
 **Aura of Purity (Su)**: At 3rd level, you gain a +4 sacred bonus on saves against spells and effects from creatures of the aberration type. Allies within 10 feet gain a +1 sacred bonus on these saves. This ability functions only while the paladin is conscious, not if she is unconscious or dead. This ability replaces aura of courage.
@@ -44,6 +46,8 @@ Whenever the paladin channels positive energy or uses lay on hands to heal a cre
 
 ### Oath against Fiends
 
+**Typical deities**: a goddess of honor, justice, rulership, and valor; a goddess of healing, honesty, redemption, and the sun; a god of the forge, protection, and strategy.
+
 A paladin who takes an oath against demons, devils, daemons, and other evil outsiders is constantly on the lookout for malicious fiendish insurgence into the world, and faces it with swift and unwavering defiance. Often she works closely with inquisitors, searching for signs of outsider manipulation and possession.
 
 **Anchoring Aura (Su)**: At 8th level, a paladin’s aura hampers extradimensional travel by evil outsiders. The aura extends 20 feet from the paladin. Evil outsiders attempting to use abilities such as dimension door, plane shift, or teleport to leave or enter the aura must succeed at a Will save (DC 10 + 1/2 the paladin’s level + the paladin’s Charisma modifier); failure means the ability does not function, as if the outsider were affected by dimensional anchor. The aura functions only while the paladin is conscious, not if she is unconscious or dead. Alternatively, as an immediate action, the paladin can expend one use of her smite evil ability to target an evil outsider within 30 feet with dimensional anchor. A targeted dimensional anchor persists even if the paladin is unconscious or dead.
@@ -58,6 +62,8 @@ This ability replaces aura of resolve.
 
 ### Oath against Savagery
 
+**Typical deities**: a god of cities, law, merchants, and wealth; a god of family, farming, hunting, and trade; a goddess of honor, justice, rulership, and valor; a god of the forge, protection, and strategy.
+
 Some paladins are champions of order, pledging to battle the hordes of goblinoids, orcs, hostile barbarians, and similar savages that nip at the heels of civilization, as well as those who gnaw on society from within, such as thieves’ and assassins’ guilds. More so than other paladins, those who take this oath expect to fight many creatures at once, and develop special abilities to deal with these numbers.
 
 **Holy Reach (Su)**: At 2nd level, an oathbound paladin can expend one use of her smite evil ability to extend her natural reach by 5 feet for 1 minute. This does not stack with the Lunge feat. This ability replaces divine grace.
@@ -69,6 +75,8 @@ Some paladins are champions of order, pledging to battle the hordes of goblinoid
 **Oath Spells**: 1st—deathwatch; 2nd—protection from arrows; 3rd—haste; 4th—divine power.
 
 ### Oath against Undeath
+
+**Typical deities**: a goddess of honor, justice, rulership, and valor; a goddess of healing, honesty, redemption, and the sun; a god of the forge, protection, and strategy.
 
 A paladin with this oath vows to restore the natural state of death to any animate corpse she encounters, and destroy the undead energy in the process. While a few paladins who take this oath recognize that not all undead are evil, others are quite willing to purge neutral and good undead along with all the evil ones.
 
@@ -90,6 +98,8 @@ This ability functions only while the paladin is conscious, not if she is uncons
 
 ### Oath against the Wyrm
 
+**Typical deities**: a god of cities, law, merchants, and wealth; a goddess of honor, justice, rulership, and valor; a god of the forge, protection, and strategy.
+
 Few dragons see the smaller races of the world as their equals—to most, humanoids are either food or an annoyance. Some paladins swear to protect others against the predation of dragonkind. Some include dragonblooded creatures (such as half-dragons or even sorcerers with the draconic bloodline) in their oath and team up with inquisitors to root out those whose ancestry carries the taint of dragon magic. Many paladins with this oath are thrill-seekers for the cause of good, channeling their divine power in ways that allow them to take on their powerful foes head on.
 
 **Breath Evasion (Su)**: At 4th level, a paladin with this oath gains evasion, but only against the breath weapons of creatures with the dragon type. This ability replaces channel positive energy.
@@ -106,6 +116,8 @@ Her DR increases to 10/evil. Whenever she uses smite evil and successfully strik
 
 ### Oath of Charity
 
+**Typical deities**: a god of family, farming, hunting, and trade; a goddess of honor, justice, rulership, and valor; a goddess of healing, honesty, redemption, and the sun; a god of the forge, protection, and strategy.
+
 Charity is more than just giving money to a temple or a cause—it is about the necessity of sacrifice to help others. Those who take this oath dedicate their lives to protecting those who can’t protect themselves and giving to those who are in need. They are generous to a fault, the most steadfast of friends, and give without anyone needing to ask. Paladins who take the oath of charity often turn over a fifth or more of their acquired wealth gained through adventuring to their temples or community.
 
 **Charitable Hands (Su)**: At 2nd level, a paladin with this oath heals 50% less when she uses lay on hands on herself, but 50% more than the normal amount when she uses it to heal others. Using lay on hands to harm undead deals the normal amount of damage. This ability otherwise works like and replaces lay on hands.
@@ -118,6 +130,8 @@ Charity is more than just giving money to a temple or a cause—it is about the 
 
 ### Oath of Chastity
 
+**Typical deities**: a goddess of honor, justice, rulership, and valor; a goddess of healing, honesty, redemption, and the sun; a god of the forge, protection, and strategy.
+
 A chaste paladin proves her purity by way of her action and her abstinence from romantic activities. Many believe that this oath is only about sex, but it is really an oath about the romantic notion that a single person could be more important than all the evils facing the world—it is this perceived selfishness that the bearer of the Oath of Chastity strives to reject. In doing so, she gains purifying power.
 
 **Pure of Mind (Su)**: At 2nd level, the paladin gains a +4 sacred bonus on saves against charm effects and figments, and gains a bonus equal to her Charisma modifier on Will saving throws. This ability replaces divine grace.
@@ -129,6 +143,8 @@ A chaste paladin proves her purity by way of her action and her abstinence from 
 **Oath Spells**: 1st—remove fear; 2nd—confess\*\*; 3rd— heroism; 4th—freedom of movement.
 
 ### Oath of Loyalty
+
+**Typical deities**: a god of cities, law, merchants, and wealth; a goddess of honor, justice, rulership, and valor; a goddess of healing, honesty, redemption, and the sun; a goddess of art, beauty, love, and music; a god of the forge, protection, and strategy.
 
 To most paladins, their word is everything. When they say something, it will be done. Those who take this oath put that ideal to the test every day. The oathbound paladin’s word is a promise, a sacred bond, and also greater power in the cause of law and good. She is careful with her words, lest she agree to something she cannot fully support.
 
@@ -147,6 +163,8 @@ Never go back on an oath.
 **Oath Spells**: 1st—wrath\*\*; 2nd—aid; 3rd— helping hand; 4th—sending.
 
 ### Oath of Vengeance
+
+**Typical deities**: a goddess of honor, justice, rulership, and valor; a god of the forge, protection, and strategy.
 
 While all paladins uphold the principals of law and good, sometimes these ideas must have a ruthless and dangerous side. It often falls upon a paladin to bring justice in the form of vengeance upon heinous transgressors against law and good. These oathbound paladins are always on the hunt for those who have perpetrated evil, and are the instrument of Heaven’s most definitive and implacable judgment.
 

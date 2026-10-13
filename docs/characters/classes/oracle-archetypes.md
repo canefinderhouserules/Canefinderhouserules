@@ -12,6 +12,8 @@ The following are new mysteries for oracles. An oracle must pick one mystery upo
 
 ### Ancestor
 
+**Typical deities**: a god of family, farming, hunting, and trade; a god of history, knowledge, and self-perfection; a goddess of birth, death, fate, and prophecy.
+
 **Class Skills**: An oracle with the ancestor mystery adds Linguistics, and all Knowledge skills to her list of class skills.
 
 **Bonus Spells**: unseen servant (2nd), spiritual weapon (4th), heroism (6th), spiritual ally\*\* (8th), telekinesis (10th), greater heroism (12th), ethereal jaunt (14th), vision (16th), astral projection (18th).
@@ -41,6 +43,8 @@ The following are new mysteries for oracles. An oracle must pick one mystery upo
 **Final Revelation**: Upon reaching 20th level, you become one with the spirits of your ancestors. You gain a bonus on Will saving throws equal to your Charisma modifier, blindsense out to a range of 60 feet, and a +4 bonus on your caster level for all divination spells. You can cast astral projection as a spelllike ability once per day without requiring material components.
 
 ### Dark Tapestry
+
+**Typical deities**: a goddess of madness, monsters, and nightmares; a god of greed, murder, poison, and secrets; a god of darkness, envy, loss, and pain.
 
 **Class Skills**: An oracle with the dark tapestry mystery adds Disguise, Intimidate, Knowledge (arcana), and Stealth to her list of class skills.
 
@@ -74,6 +78,8 @@ The randomly stolen thoughts remain in your mind for a number of rounds equal to
 
 ### Metal
 
+**Typical deities**: a god of cities, law, merchants, and wealth; a god of battle, strength, and weapons; a god of the forge, protection, and strategy.
+
 **Class Skills**: An oracle with the metal mystery adds Appraise, Bluff, Disable Device, and Intimidate to her list of class skills.
 
 **Bonus Spells**: lead blades\*\* (2nd), heat metal (4th), keen edge (6th), versatile weapon\*\* (8th), major creation (metal items only) (10th), wall of iron (12th), statue (metal statue instead of iron) (14th), repel metal or stone (16th), iron body (18th).
@@ -104,6 +110,8 @@ The randomly stolen thoughts remain in your mind for a number of rounds equal to
 
 ### Time
 
+**Typical deities**: a god of nature, the sea, and weather; a god of magic; a goddess of birth, death, fate, and prophecy.
+
 **Class Skills**: An oracle with the time mystery adds Fly, Knowledge (arcana), Perception, and Use Magic Device to her list of class skills.
 
 **Bonus Spells**: memory lapse\*\* (2nd), gentle repose (4th), sands of time\* (6th), threefold aspect\*\* (8th), permanency (10th), contingency (12th), disintegrate (14th), temporal stasis (16th), time stop (18th).
@@ -133,6 +141,8 @@ The randomly stolen thoughts remain in your mind for a number of rounds equal to
 **Final Revelation**: Upon reaching 20th level, you become a true master of time and stop aging. You cannot be magically aged and no longer take penalties to your ability scores for aging. Age bonuses still accrue, and any aging penalties that you have already accrued remain in place. You cannot die of old age, but you can be killed or die through accident, disease, poison, or other external effects. In addition, you can cast time stop once per day as a spell-like ability.
 
 ### Wood
+
+**Typical deities**: a god of family, farming, hunting, and trade; a god of nature, the sea, and weather.
 
 **Class Skills**: An oracle with the wood mystery adds Climb, Knowledge (nature), Stealth, and Survival to her list of class skills.
 

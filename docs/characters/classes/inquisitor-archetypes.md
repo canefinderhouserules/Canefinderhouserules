@@ -16,6 +16,8 @@ Inquisitions are intended for inquisitors, not for other classes that give acces
 
 ### Anger Inquisition
 
+**Typical deities**: a god of battle, strength, and weapons; a god of destruction, disaster, and wrath.
+
 **Granted Powers**: Holy (or unholy) rage, granted by your patron deity, ensures that when you fight, the battle ends with a bloody victory.
 
 **Hateful Retort (Ex)**: Once per day, as an immediate action after you have been hit with a melee attack, you can make a melee attack against the creature that hit you. This melee attack is at your highest attack bonus, even if you’ve already attacked in the round.
@@ -23,6 +25,8 @@ Inquisitions are intended for inquisitors, not for other classes that give acces
 **Divine Anger (Ex)**: At 6th level, you gain the ability to rage like a barbarian. Your effective barbarian level for this ability is your inquisitor level – 3. If you have levels in barbarian, these levels stack when determining the effect of your rage. You do not gain any rage powers from this granted power, though if you have rage powers from another class, you may use them with these rages. You can rage a number of rounds per day equal to your Wisdom bonus, plus 1 round for every inquisitor level above 4th.
 
 ### Conversion Inquisition
+
+**Typical deities**: any deity.
 
 **Granted Powers**: You are a powerful persuader. A honeyed tongue empowered by divine argumentation sways the indifferent and adversarial to your side.
 
@@ -32,6 +36,8 @@ Inquisitions are intended for inquisitors, not for other classes that give acces
 
 ### Fate Inquisition
 
+**Typical deities**: a god of magic; a god of greed, murder, poison, and secrets; a goddess of birth, death, fate, and prophecy.
+
 **Granted Powers**: Fate is a powerful tool for those who dole out justice for their deity. You can read the strands of fate, and those strands guide your endeavors.
 
 **Augury (Sp)**: Once per day, you can use augury as a spelllike ability.
@@ -40,6 +46,8 @@ Inquisitions are intended for inquisitors, not for other classes that give acces
 
 ### Fervor Inquisition
 
+**Typical deities**: a goddess of lust, revenge, and trickery; a god of ale, bravery, freedom, and wine; a god of nature, the sea, and weather; a goddess of art, beauty, love, and music.
+
 **Granted Powers**: Only a passionate and righteous will such as yours can ensure that justice will be properly done.
 
 **Fire of Belief (Sp)**: You can unleash a gout of holy or unholy flame that sears one target within 30 feet as a ranged touch attack. The target takes 1d6 points of fire damage plus half your inquisitor level (minimum +1). If you are good, the flames only harm nongood targets. If you are evil, the flames only harm nonevil targets. If you are neither good nor evil, when you gain this ability you must decide whether the flames harm only nongood or nonevil targets; once you make this decision, it cannot be changed (though if your alignment changes, the effect of the flames changes appropriately). You can use this ability a number of times per day equal to 3 + your Wisdom modifier.
@@ -47,6 +55,8 @@ Inquisitions are intended for inquisitors, not for other classes that give acces
 **Fervent Action (Ex)**: At 8th level, once per day as a swift action, you can make a single melee attack at your highest attack bonus, move up to your speed, or cast a prepared inquisitor spell (of a spell level up to one lower than the highest level spell you can cast) as per Quickened Spell.
 
 ### Heresy Inquisition
+
+**Typical deities**: a god of cities, law, merchants, and wealth; a god of contracts, pride, slavery, and tyranny; a goddess of lust, revenge, and trickery; a goddess of dreams, luck, stars, and travelers; a god of family, farming, hunting, and trade; a god of battle, strength, and weapons; a god of nature, the sea, and weather; a goddess of honor, justice, rulership, and valor; a goddess of madness, monsters, and nightmares; a god of magic; a god of greed, murder, poison, and secrets; a goddess of birth, death, fate, and prophecy; a god of destruction, disaster, and wrath; a goddess of healing, honesty, redemption, and the sun; a goddess of art, beauty, love, and music; a god of the forge, protection, and strategy; a goddess of disease, gluttony, and undeath; a god of darkness, envy, loss, and pain.
 
 **Granted Powers**: Often it is hard to tell heretics from the faithful. You use duplicity, stealth, and the heretics’ own arguments to root them out and bring them to justice.
 
@@ -58,11 +68,42 @@ Inquisitions are intended for inquisitors, not for other classes that give acces
 
 ### Imprisonment Inquisition
 
+**Typical deities**: a god of cities, law, merchants, and wealth; a god of contracts, pride, slavery, and tyranny; a god of the forge, protection, and strategy.
+
 **Granted Powers**: Sometimes it is better to capture foes than to kill them—whether your intention is to punish them for their crimes or to torture them for information.
 
 **Caging Strike (Su)**: With a devastating weapon strike, spectral chains wrap around your target for a short period of time. Whenever you confirm a critical hit with a melee or ranged weapon attack (including spells that require attack rolls), you can choose to also entangle that target for 1d4 rounds (Fortitude negates). You may use this ability a number of times per day equal to 3 + your Wisdom modifier.
 
 **Divine Prison**: At 8th level, once per day upon making a successful melee attack, you can affect your target with hold monster (Will negates).
+
+**Table: Inquisitions by Deity Type**
+
+| Deity type | Alignment | Inquisitions |
+|---|---|---|
+| God of family, farming, hunting, and trade | LG | Conversion, Heresy, Illumination, Valor, Zeal |
+| Goddess of honor, justice, rulership, and valor | LG | Conversion, Heresy, Justice, Order, Persistence, Truth, Valor |
+| God of the forge, protection, and strategy | LG | Conversion, Heresy, Imprisonment, Tactics |
+| Goddess of healing, honesty, redemption, and the sun | NG | Conversion, Heresy, Illumination, Order, Truth, Valor |
+| Goddess of art, beauty, love, and music | NG | Conversion, Fervor, Heresy |
+| God of ale, bravery, freedom, and wine | CG | Conversion, Fervor, Valor |
+| Goddess of dreams, luck, stars, and travelers | CG | Conversion, Heresy, Illumination, Oblivion |
+| God of cities, law, merchants, and wealth | LN | Conversion, Heresy, Imprisonment, Order |
+| God of history, knowledge, and self-perfection | LN | Conversion, Tactics |
+| God of nature, the sea, and weather | N | Conversion, Fervor, Heresy |
+| God of magic | N | Conversion, Fate, Heresy, Zeal |
+| Goddess of birth, death, fate, and prophecy | N | Conversion, Fate, Heresy, Justice, Oblivion, Truth |
+| Goddess of lust, revenge, and trickery | CN | Conversion, Fervor, Heresy, Torture |
+| God of battle, strength, and weapons | CN | Anger, Conversion, Heresy, Tactics |
+| God of contracts, pride, slavery, and tyranny | LE | Conversion, Heresy, Imprisonment, Persistence, Torture |
+| God of darkness, envy, loss, and pain | LE | Conversion, Heresy, Oblivion |
+| God of greed, murder, poison, and secrets | NE | Conversion, Fate, Heresy, Torture, Vengeance |
+| Goddess of disease, gluttony, and undeath | NE | Conversion, Heresy, Persistence, Vengeance |
+| Goddess of madness, monsters, and nightmares | CE | Conversion, Heresy, Oblivion, Vengeance |
+| God of destruction, disaster, and wrath | CE | Inquisition |
+
+### Illumination Inquisition
+
+**Typical deities**: a goddess of dreams, luck, stars, and travelers; a god of family, farming, hunting, and trade; a goddess of healing, honesty, redemption, and the sun.
 
 **Granted Powers**: Many times an inquisitor’s greatest weapon is pure and unflinching illumination; errors are often illuminated by light and wisdom.
 
@@ -72,6 +113,8 @@ Inquisitions are intended for inquisitors, not for other classes that give acces
 
 ### Justice Inquisition
 
+**Typical deities**: a goddess of honor, justice, rulership, and valor; a goddess of birth, death, fate, and prophecy.
+
 **Granted Powers**: Some must learn that to submit to one’s fate often means submitting to your form of justice.
 
 **Judicious Force (Su)**: If you or an ally within 10 feet makes a critical threat with a melee or ranged attack, as an immediate action you may add +4 to the confirmation roll. This does not stack with the Critical Focus feat. You may use this ability a number of times per day equal to your Wisdom bonus.
@@ -79,6 +122,8 @@ Inquisitions are intended for inquisitors, not for other classes that give acces
 **Chains of Justice (Su)**: At 6th level, once per day, you can bind an opponent within 60 feet to you with spectral chains (Will negates). When you take damage from an enemy, the bound target takes this damage as well. Whenever the bound target takes damage from you or one of your allies, you take this damage as well. You and the target are not physically bound to each other, and either can end the connection by breaking the line of effect or exceeding the ability’s range. You may dismiss the chains as a standard action.
 
 ### Oblivion Inquisition
+
+**Typical deities**: a goddess of dreams, luck, stars, and travelers; a goddess of madness, monsters, and nightmares; a goddess of birth, death, fate, and prophecy; a god of darkness, envy, loss, and pain.
 
 **Granted Powers**: Some inquisitors believe that without faith there is only oblivion. But there are some divine servants who know enough about the darkness that lies beyond faith to use it as a tool… and a weapon.
 
@@ -88,6 +133,8 @@ Inquisitions are intended for inquisitors, not for other classes that give acces
 
 ### Order Inquisition
 
+**Typical deities**: a god of cities, law, merchants, and wealth; a goddess of honor, justice, rulership, and valor; a goddess of healing, honesty, redemption, and the sun.
+
 **Granted Powers**: Most inquisitors fight insane aberrations and demonic creatures as well as the chaos of heresy. They use the dictum and the mantles of law in order to aid their struggle.
 
 **Mantle against Chaos (Sp)**: You can use protection from chaos on yourself or another creature as a spell-like ability. You can use this ability for a number of minutes per day equal to your inquisitor level (minimum 1). This duration does not need to be consecutive, but it must be used in 1 minute increments.
@@ -95,6 +142,8 @@ Inquisitions are intended for inquisitors, not for other classes that give acces
 **Commanding Order (Sp)**: At 8th level, you can use greater command, except it only affects a single target. You can use this ability a number of times per day equal to 3 + your Wisdom bonus.
 
 ### Persistence Inquisition
+
+**Typical deities**: a god of contracts, pride, slavery, and tyranny; a goddess of honor, justice, rulership, and valor; a goddess of disease, gluttony, and undeath.
 
 **Granted Powers**: Your deity chose you for your persistence. You have vowed to pursue the enemies of the faith to the world’s end if necessary. You receive Step Up as a bonus feat.
 
@@ -104,6 +153,8 @@ Inquisitions are intended for inquisitors, not for other classes that give acces
 
 ### Tactics Inquisition
 
+**Typical deities**: a god of battle, strength, and weapons; a god of history, knowledge, and self-perfection; a god of the forge, protection, and strategy.
+
 **Granted Powers**: It is the cold and tactical mind that often wins the day. A proper, carefully considered sacrifice can inspire one’s allies to serve your cause.
 
 **Inquisitor’s Direction (Su)**: At the start of your turn, you can choose to enter a tranquil, reflective state and forgo all actions (standard, move, swift, immediate, and free actions, including attacks of opportunity) for that round; one ally of your choice within 30 feet gains the benefit of haste for 1 round. You can use this ability a number of times per day equal to your 3 + Wisdom bonus (minimum 1).
@@ -111,6 +162,8 @@ Inquisitions are intended for inquisitors, not for other classes that give acces
 **Grant the Initiative (Ex)**: At 8th level, you and all allies within 30 feet may add your Wisdom bonus to your initiative checks.
 
 ### Torture Inquisition
+
+**Typical deities**: a god of contracts, pride, slavery, and tyranny; a goddess of lust, revenge, and trickery; a god of greed, murder, poison, and secrets.
 
 **Granted Powers**: Only through pain can truth and justice come to the surface. And if that doesn’t work, at least you’ve enacted divine vengeance.
 
@@ -122,6 +175,8 @@ Inquisitions are intended for inquisitors, not for other classes that give acces
 
 ### Truth Inquisition
 
+**Typical deities**: a goddess of honor, justice, rulership, and valor; a goddess of birth, death, fate, and prophecy; a goddess of healing, honesty, redemption, and the sun.
+
 **Granted Powers**: To find truth, one has to wring honesty from others—whether in a friendly or hostile manner.
 
 **Justice’s True Path (Sp)**: As a standard action, you can touch a creature, granting an insight bonus on one attack roll, skill check, ability check, or saving throw before your next turn; this bonus is equal to half your inquisitor level (minimum 1) and lasts for 1 round. You can use this ability a number of times per day equal to 3 + your Wisdom modifier.
@@ -130,6 +185,8 @@ Inquisitions are intended for inquisitors, not for other classes that give acces
 
 ### Valor Inquisition
 
+**Typical deities**: a god of ale, bravery, freedom, and wine; a god of family, farming, hunting, and trade; a goddess of honor, justice, rulership, and valor; a goddess of healing, honesty, redemption, and the sun.
+
 **Granted Powers**: It takes courage to confront the enemies of your faith.
 
 **Touch of Resolve (Sp)**: You may use remove fear on a single creature a number of times per day equal to your 3 + your Wisdom bonus.
@@ -137,6 +194,8 @@ Inquisitions are intended for inquisitors, not for other classes that give acces
 **Fearless (Su)**: At 8th level, you become immune to fear.
 
 ### Vengeance Inquisition
+
+**Typical deities**: a goddess of madness, monsters, and nightmares; a god of greed, murder, poison, and secrets; a god of destruction, disaster, and wrath; a goddess of disease, gluttony, and undeath.
 
 **Granted Powers**: Vengeance is justice naked of pretense.
 
@@ -149,6 +208,8 @@ On your oath, you will deliver justice so unbounded.
 Effects that kill you or do not reduce you to negative hit points (such as ability damage or drain, negative levels, and disintegrate) do not trigger this ability.
 
 ### Zeal Inquisition
+
+**Typical deities**: a god of family, farming, hunting, and trade; a god of magic.
 
 **Granted Powers**: An inquisitor needs unyielding zeal in order to make sure her deity’s work is done.
 

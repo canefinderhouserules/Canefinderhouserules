@@ -300,7 +300,7 @@ This ability replaces inspire courage.
 
 ## Demagogue
 
-Not content with providing amusing and occasionally instructive performances, the demagogue seeks to inf lame and ignite his audience, driving them toward a specific purpose with carefully chosen words and tones that may spark momentous change.
+Not content with providing amusing and occasionally instructive performances, the demagogue seeks to inflame and ignite his audience, driving them toward a specific purpose with carefully chosen words and tones that may spark momentous change.
 
 **Famous**: At 1st level, a demagogue is famous in a particular region. This works like the famous ability of the celebrity bard archetype, except the demagogue’s skill bonuses apply to Bluff and Intimidate instead of Diplomacy and Intimidate. This ability replaces inspire courage +1.
 
