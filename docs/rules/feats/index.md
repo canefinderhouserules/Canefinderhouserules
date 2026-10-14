@@ -272,3 +272,120 @@ The following format is used for all feat descriptions.
 | Widen Spell | — | Double spell area |
 
 \* This is a combat feat and can be selected as a fighter bonus feat.
+
+## Ultimate Magic Feats
+
+Feats from *Ultimate Magic*. Each name links to its full description.
+
+| Feat | Type | Prerequisites |
+|---|---|---|
+| [Abundant Revelations](abundant-revelations.md) | — | Mystery class feature |
+| [Accursed Critical](accursed-critical.md) | Critical | Critical Focus, ability to cast bestow curse or major curse, caster level 9th |
+| [Accursed Hex](accursed-hex.md) | — | Hex class feature |
+| [Advanced Ranger Trap](advanced-ranger-trap.md) | — | Trap class feature, ranger level 5th |
+| [Antagonize](antagonize.md) | — | — |
+| [Blighted Critical](blighted-critical.md) | Critical | Caster level 5th |
+| [Blighted Critical Mastery](blighted-critical-mastery.md) | — | Blighted Critical, Critical Focus, caster level 9th |
+| [Burning Spell](burning-spell.md) | Metamagic | — |
+| [Channeled Shield Wall](channeled-shield-wall.md) | — | Channel energy, 3d6 proficiency with a shield |
+| [Concussive Spell](concussive-spell.md) | Metamagic | — |
+| [Create Reliquary Arms and Shields](create-reliquary-arms-and-shields.md) | Item Creation | Craft Magic Arms and Armor, ability to cast consecrate or desecrate |
+| [Create Sanguine Elixir](create-sanguine-elixir.md) | Item Creation | Cha 15, Brew Potion, Craft (alchemy) 12 ranks, sorcerer level 3rd |
+| [Defending Eidolon](defending-eidolon.md) | — | Shield ally feature |
+| [Deny Death](deny-death.md) | — | Ki pool, Endurance |
+| [Detect Expertise](detect-expertise.md) | — | Int 13; ability to cast detect chaos, detect evil, detect good, detect law, or detect magic |
+| [Die for Your Master](die-for-your-master.md) | — | Tumor familiar alchemist discovery |
+| [Divine Interference](divine-interference.md) | — | Divine spellcaster, caster level 10th |
+| [Dragonbane Aura](dragonbane-aura.md) | — | Aura of courage class feature, caster level 8th |
+| [Echoing Spell](echoing-spell.md) | Metamagic | — |
+| [Eldritch Heritage](eldritch-heritage.md) | — | Cha 13, Skill Focus with the class skill of bloodline selected for this feat (see below), character level 3rd |
+| [Ensemble](ensemble.md) | Teamwork | Perform 5 ranks |
+| [Evolved Familiar](evolved-familiar.md) | — | Int 13, Cha 13, familiar class feature |
+| [Exploit Lore](exploit-lore.md) | — | Monster lore class feature, base attack bonus +11 |
+| [Extended Bane](extended-bane.md) | — | Bane class feature |
+| [Extra Arcana](extra-arcana.md) | — | Magus arcana class feature |
+| [Extra Arcane Pool](extra-arcane-pool.md) | — | Arcane pool class feature |
+| [Extra Cantrips or Orisons](extra-cantrips-or-orisons.md) | — | Ability to cast cantrips or orisons |
+| [Extra Evolution](extra-evolution.md) | — | Eidolon class feature |
+| [Extra Ranger Trap](extra-ranger-trap.md) | — | Trap class feature |
+| [Extra Summons](extra-summons.md) | — | Ability to cast summon monster as a spelllike ability, summoner 1st |
+| [Eyes of Judgment](eyes-of-judgment.md) | — | Detect alignment class feature, caster level 6th |
+| [Fast Empathy](fast-empathy.md) | — | Handle Animal 5 ranks, wild empathy class feature |
+| [Favored Judgment](favored-judgment.md) | — | Wis 13, judgment class feature |
+| [Fearless Aura](fearless-aura.md) | — | Aura of courage class feature, caster level 8th |
+| [Fire Music](fire-music.md) | — | Spellcraft 5 ranks, ability to cast bard spells, ability to cast an arcane fire spell from some other spellcasting class |
+| [Flaring Spell](flaring-spell.md) | Metamagic | — |
+| [Focused Eidolon](focused-eidolon.md) | — | Shield ally class feature |
+| [Gliding Steps](gliding-steps.md) | — | Dodge, Mobility, Nimble Moves, ki pool |
+| [Grant Initiative](grant-initiative.md) | — | Cunning initiative class feature |
+| [Greater Blighted Critical](greater-blighted-critical.md) | Critical | Blighted Critical, Critical Focus, caster level 12th |
+| [Greater Eldritch Heritage](greater-eldritch-heritage.md) | — | Cha 17, Eldritch Heritage, Improved Eldritch Heritage, character level 17th |
+| [Greater Mercy](greater-mercy.md) | — | Cha 13, lay on hands class feature, mercy class feature |
+| [Greater Spell Specialization](greater-spell-specialization.md) | — | Int 13, Spell Focus, Spell Specialization, able to prepare 5th-level spells |
+| [Greater Wild Empathy](greater-wild-empathy.md) | — | Knowledge (nature) 5 ranks, wild empathy class feature |
+| [Implant Bomb](implant-bomb.md) | — | Heal 5 ranks, delayed bomb alchemist discovery |
+| [Improved Eldritch Heritage](improved-eldritch-heritage.md) | — | Cha 15, Eldritch Heritage, character level 11th |
+| [Improved Monster Lore](improved-monster-lore.md) | — | Monster lore class feature |
+| [Insightful Gaze](insightful-gaze.md) | — | Stern gaze class feature, Sense Motive 5 ranks |
+| [Intimidating Gaze](intimidating-gaze.md) | — | Cha 13+, stern gaze class feature, Intimidate 5 ranks |
+| [Judgment Surge](judgment-surge.md) | — | Judgment class feature |
+| [Ki Stand](ki-stand.md) | — | Ki pool |
+| [Learn Ranger Trap](learn-ranger-trap.md) | — | Survival 5 ranks |
+| [Life Lure](life-lure.md) | — | Channel positive energy class feature |
+| [Moonlight Summons](moonlight-summons.md) | — | Spell Focus (conjuration), able to cast summon nature’s ally |
+| [Mystic Stride](mystic-stride.md) | — | Dex 15, Nimble Moves, woodland stride class feature |
+| [Oracular Intuition](oracular-intuition.md) | — | Mystery class feature |
+| [Painful Anchor](painful-anchor.md) | — | Anchoring aura class feature |
+| [Piercing Spell](piercing-spell.md) | Metamagic | — |
+| [Planar Preservationist](planar-preservationist.md) | — | Preservationist alchemist archetype |
+| [Powerful Shape](powerful-shape.md) | — | Wild shape class feature, druid level 8th |
+| [Prodigy](prodigy.md) | — | — |
+| [Prophetic Visionary](prophetic-visionary.md) | — | Mystery class feature |
+| [Pure Faith](pure-faith.md) | — | Divine health class feature |
+| [Quarterstaff Master](quarterstaff-master.md) | Combat | Weapon Focus (quarterstaff ), base attack bonus +5 |
+| [Quick Channel](quick-channel.md) | — | Knowledge (religion) 5 ranks, channel energy class feature |
+| [Quick Wild Shape](quick-wild-shape.md) | — | Wild shape class feature, caster level 8th |
+| [Radiant Charge](radiant-charge.md) | — | Lay on hands class feature |
+| [Remote Bomb](remote-bomb.md) | — | Delayed bomb discovery |
+| [Resilient Eidolon](resilient-eidolon.md) | — | Eidolon class feature |
+| [Reward of Grace](reward-of-grace.md) | — | Lay on hands class feature |
+| [Reward of Life](reward-of-life.md) | — | Lay on hands class feature |
+| [Ricochet Splash Weapon](ricochet-splash-weapon.md) | — | Dex 13, Throw Anything |
+| [Rime Spell](rime-spell.md) | Metamagic | — |
+| [Sacred Summons](sacred-summons.md) | — | Aura class feature, ability to cast summon monster |
+| [Sense Link](sense-link.md) | — | Bond senses class feature |
+| [Shaping Focus](shaping-focus.md) | — | Wild shape class feature, Knowledge (nature) 5 ranks |
+| [Sin Seer](sin-seer.md) | — | Detect undead paladin class feature |
+| [Skeleton Summoner](skeleton-summoner.md) | — | Spell Focus (necromancy), ability to cast summon monster |
+| [Sorcerous Bloodstrike](sorcerous-bloodstrike.md) | — | Cha 13, sorcerer bloodline class feature |
+| [Spell Bluff](spell-bluff.md) | — | Bluff 5 ranks, Spellcraft 5 ranks |
+| [Spell Hex](spell-hex.md) | — | Major hex class feature |
+| [Spell Specialization](spell-specialization.md) | — | Int 13, Spell Focus |
+| [Spellsong](spellsong.md) | — | Cha 13, bardic performance class ability, able to cast 1st-level spells |
+| [Split Hex](split-hex.md) | — | Witch level 10th |
+| [Split Major Hex](split-major-hex.md) | — | Split hex, caster level 18th |
+| [Spontaneous Metafocus](spontaneous-metafocus.md) | — | Cha 13, one metamagic feat, able to spontaneously cast spells |
+| [Starlight Summons](starlight-summons.md) | — | Spell Focus (conjuration), able to cast summon nature’s ally |
+| [Sunlight Summons](sunlight-summons.md) | — | Spell Focus (conjuration), able to cast summon nature’s ally |
+| [Superior Summoning](superior-summoning.md) | — | Augment Summoning, caster level 3rd |
+| [Thanatopic Spell](thanatopic-spell.md) | Metamagic | Knowledge (religion) 6 ranks, Spell Focus (necromancy) |
+| [Theurgy](theurgy.md) | — | Wis 13, Int or Cha 13, able to cast 1st-level arcane spells, able to cast 1st-level divine spells |
+| [Thoughtful Discernment](thoughtful-discernment.md) | — | Discern lies class feature |
+| [Threnodic Spell](threnodic-spell.md) | Metamagic | Knowledge (religion) 6 ranks, Spell Focus (necromancy) |
+| [Toppling Spell](toppling-spell.md) | Metamagic | — |
+| [Tripping Staff](tripping-staff.md) | Combat | Int 13, Combat Expertise, Improved Trip, Weapon Focus (quarterstaff ), base attack bonus +6 |
+| [Tripping Twirl](tripping-twirl.md) | Combat | Int 13, Combat Expertise, Improved Trip, Tripping Staff, Weapon Focus (quarterstaff ), Weapon Specialization (quarterstaff ), base attack bonus +12 |
+| [Ultimate Mercy](ultimate-mercy.md) | — | Cha 19, Greater Mercy, lay on hands, mercy class feature |
+| [Ultimate Resolve](ultimate-resolve.md) | — | Aura of resolve class feature |
+| [Uncanny Alertness](uncanny-alertness.md) | — | Alertness |
+| [Uncanny Concentration](uncanny-concentration.md) | — | Combat Casting |
+| [Undead Master](undead-master.md) | — | Spell focus (necromancy), the ability to cast animate dead or command undead |
+| [Unsanctioned Detection](unsanctioned-detection.md) | — | Detect evil class feature |
+| [Unsanctioned Knowledge](unsanctioned-knowledge.md) | — | Int 13, ability to cast 1st-level paladin spells |
+| [Versatile Channeler](versatile-channeler.md) | — | Channel energy class feature, necromancer or neutrally aligned cleric (see below) |
+| [Vigilant Eidolon](vigilant-eidolon.md) | — | Eidolon class feature |
+| [Voice of the Sibyl](voice-of-the-sibyl.md) | — | Cha 15 |
+| [Warrior Priest](warrior-priest.md) | — | Ability to cast divine spells, domain or mystery class feature |
+| [Wild Speech](wild-speech.md) | — | Druid level 6th, wild shape class feature |
+| [Witch Knife](witch-knife.md) | — | Witch class |
+| [Word of Healing](word-of-healing.md) | — | Lay on hands class feature |

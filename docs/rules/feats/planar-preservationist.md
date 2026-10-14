@@ -1,0 +1,7 @@
+# Planar Preservationist
+
+You know how to preserve and reconstitute extraplanar monsters as well as normal animals.
+
+**Prerequisite**: Preservationist alchemist archetype.
+
+**Benefit**: For every summon nature’s ally extract you know, you learn the equivalent summon monster spell as an extract. If you later learn other summon nature’s ally extracts, you automatically learn the equivalent summon monster spell as an extract.
