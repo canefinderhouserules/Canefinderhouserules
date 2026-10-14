@@ -127,9 +127,7 @@ Cavaliers belonging to the order of the dragon dedicate themselves to a group of
 
 **Strategy (Ex)**: At 8th level, the cavalier can spend a standard action to grant one of a number of bonuses to all allies within 30 feet (including himself ). The allies must be able to see or hear the cavalier to receive this bonus. The cavalier can grant a +2 dodge bonus to AC for 1 round, a +2 morale bonus on all attack rolls for 1 round, or the ability to move up to their speed as an immediate action once. The cavalier can grant a different bonus to each ally within range, but allies can only benefit from this ability once per combat.
 
-**Act as One (Ex)**: At 15th level, the cavalier can spend a standard action to move up to his speed and make a melee attack. All allies within 30 feet can also move up to their speed and make a melee attack as an immediate action.
-
-This movement and attack can be made as a charge if the movement qualifies. All attacks are made at a +2 bonus (this stacks with the bonus from a charge) and all participants receive a +2 dodge bonus to their AC for 1 round. A cavalier can use this ability once per combat.
+**Act as One (Ex)**: At 15th level, the cavalier can spend a standard action to move up to his speed and make a melee attack. All allies within 30 feet can also move up to their speed and make a melee attack as an immediate action. This movement and attack can be made as a charge if the movement qualifies. All attacks are made at a +2 bonus (this stacks with the bonus from a charge) and all participants receive a +2 dodge bonus to their AC for 1 round. A cavalier can use this ability once per combat.
 
 ### Order of the Lion
 
