@@ -393,3 +393,13 @@ Some spells in the Core Rulebook are clearly the best of their spell level. Othe
 
 **Time Stop**: This is the only spell in the game that lets the caster take multiple rounds’ worth of actions and simultaneously prevents anyone else from doing anything about it.
 
+## Spells with New Descriptors
+
+The following spells from the Core Rulebook and Advanced Player’s Guide (marked with a double asterisk) have the new descriptors introduced above.
+
+- **Curse**: bestow curse, blindness/deafness, brand\*\*, brand (greater)\*\*, crafter’s curse\*\*, cup of dust\*\*, feast of ashes\*\*, geas (lesser), geas/quest, ill omen\*\*, mark of justice, nature’s exile\*\*, oracle’s burden\*\*, rest eternal\*\*.
+- **Disease**: contagion, pox pustules\*\*.
+- **Emotion**: antipathy, aura of greater courage\*\*, bane, blessing of courage and life\*\*, calm animals, calm emotions, castigate\*\*, castigate (mass)\*\*, cause fear, crushing despair, doom, euphoric tranquility\*\*, eyebite, fear, forced repentance\*\*, good hope, hunter’s howl\*\*, moonstruck\*\*, phantasmal killer, phantasmal revenge\*\*, rage, rally point\*\*, scare, shared wrath\*\*, symbol of fear, sympathy, weapon of awe\*\*, weird, wrath\*\*.
+- **Pain**: eyebite, pain strike\*\*, pain strike (mass)\*\*, repel vermin, retribution\*\*, symbol of pain.
+- **Poison**: accelerate poison\*\*, cloudkill, ghoul touch (stench aspect only), poison, putrefy food and drink\*\*, stinking cloud, transmute potion to poison\*\*, venomous bolt\*\*.
+- **Shadow**: project image, shades, shadow conjuration, shadow conjuration (greater), shadow evocation, shadow evocation (greater), shadow walk.
