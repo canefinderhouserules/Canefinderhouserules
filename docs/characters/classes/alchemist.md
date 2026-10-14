@@ -177,6 +177,10 @@ He can create any alchemical item as a full-round action if he succeeds at the C
 
 **Philosopher’s Stone**: The alchemist learns how to create a philosopher’s stone, and can do so once per month at no cost. Creating a philosopher’s stone takes 1 day of work.
 
+**Poison Touch**: The alchemist gains a poisonous touch, as if under the effects of a poison spell. He can suppress or activate this ability as a free action. The physical appearance of how the alchemist generates and delivers his poisonous touch varies from alchemist to alchemist.
+
+**True Mutagen**: The alchemist’s mutagen now grants a +8 natural armor bonus and a +8 alchemical bonus to Strength, Dexterity, and Constitution. The alchemist takes a –2 penalty to his Intelligence, Wisdom, and Charisma as long as the mutagen persists (see Mutagen). An alchemist must possess the grand mutagen discovery before selecting this discovery.
+
 ## Alchemist Formulae
 
 Alchemists gain access to a variety of formulae, allowing them to make extracts of the following spells. An asterisk (\*) marks spells from the Advanced Player’s Guide.
