@@ -389,3 +389,6 @@ Feats from *Ultimate Magic*. Each name links to its full description.
 | [Wild Speech](wild-speech.md) | — | Druid level 6th, wild shape class feature |
 | [Witch Knife](witch-knife.md) | — | Witch class |
 | [Word of Healing](word-of-healing.md) | — | Lay on hands class feature |
+| [Experimental Spellcaster](experimental-spellcaster.md) | — | Ability to cast spells |
+| [Extra Word](extra-word.md) | — | Caster level 1st, ability to cast wordspells, see Special |
+| [Meta Word Mastery](meta-word-mastery.md) | — | Ability to cast wordspells |
