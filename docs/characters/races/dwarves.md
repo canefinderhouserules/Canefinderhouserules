@@ -37,3 +37,23 @@ Dwarves are a stoic but stern race, ensconced in cities carved from the hearts o
 **Weapon Familiarity**: Dwarves are proficient with battleaxes, heavy picks, and warhammers, and treat any weapon with the word “dwarven” in its name as a martial weapon.
 
 **Languages**: Dwarves begin play speaking Common and Dwarven. Dwarves with high Intelligence scores can choose from the following: Giant, Gnome, Goblin, Orc, Terran, and Undercommon.
+
+## Alternate Racial Traits
+
+The following racial traits might be selected instead of existing racial traits. Consult your GM before selecting any of these options.
+
+**Ancient Enmity**: Dwarves have long been in conflict with elves, especially the hated drow. Dwarves with this racial trait receive a +1 bonus on attack rolls against humanoid creatures of the elf subtype. This racial trait replaces the hatred racial trait.
+
+**Craftsman**: Dwarves are known for their superior craftsmanship when it comes to metal and stone works. Dwarves with this racial trait receive a +2 racial bonus on all Craft or Profession checks that create objects from metal or stone. This racial trait replaces the greed racial trait.
+
+**Deep Warrior**: Dwarves with this racial trait grew up facing the abominations that live deep beneath the surface. They receive a +2 dodge bonus to AC against monsters of the aberration type and a +2 racial bonus to their CMB on attempts made to grapple such creatures (or to continue a grapple). This racial trait replaces the defensive training racial trait.
+
+**Lorekeeper**: Dwarves keep extensive records about their history and the world around them. Dwarves with this racial trait receive a +2 racial bonus on Knowledge (history) skill checks that pertain to dwarves or their enemies. They can make such skill checks untrained. This racial trait replaces the greed racial trait.
+
+**Magic Resistant**: Some of the older dwarven clans are particularly resistant to magic. Dwarves with this racial trait gain spell resistance equal to 5 + their character level. This resistance can be lowered for 1 round as a standard action. Dwarves with this racial trait take a –2 penalty on all concentration checks made in relation to arcane spells. This racial trait replaces the hardy racial trait.
+
+**Relentless**: Dwarves are skilled at pushing their way through a battlefield, tossing aside lesser foes with ease. Dwarves with this racial trait receive a +2 bonus on Combat Maneuver checks made to bull rush or overrun an opponent. This bonus only applies while both the dwarf and his opponent are standing on the ground. This racial trait replaces the stability racial trait.
+
+**Stonesinger**: Some dwarves’ affinity with the earth grants them greater powers. Dwarves with this racial trait are treated as 1 level higher when casting spells with the earth descriptor or using granted powers of the Earth domain, the bloodline powers of the earth elemental bloodline, and revelations of the oracle’s stone mystery. This ability does not give the dwarf early access to levelbased powers; it only affects powers the dwarf could use without this ability. This racial trait replaces the stonecunning racial trait.
+
+**Stubborn**: Dwarves are renowned for being stubborn. Dwarves with this racial trait receive a +2 racial bonus on Will saves to resist spells and spell-like abilities of the enchantment (charm) and enchantment (compulsion) schools. In addition, if they fail such a save, they receive another save 1 round later to prematurely end the effect (assuming it has a duration greater than 1 round). This second save is made at the same DC as the first. If the dwarf has a similar ability from another source (such as a rogue’s slippery mind), he can only use one of these abilities per round, but can try one on the second round if the first reroll ability fails). This racial trait replaces the hardy racial trait.

@@ -81,3 +81,15 @@ specific role in any adventuring party. The following eleven classes represent t
 <tr><td>20th</td><td>5,350,000</td><td>3,600,000</td><td>2,400,000</td><td>—</td><td>5th</td></tr>
 </tbody>
 </table>
+
+## Alternate Racial Traits
+
+The following racial traits might be selected instead of existing racial traits. Consult your GM before selecting any of these options.
+
+**Eye for Talent**: Humans have great intuition for hidden potential. They gain a +2 bonus on Sense Motive checks. In addition, when they acquire an animal companion, bonded mount, cohort, or familiar, that creature gains a +2 bonus to one ability score of the character’s choice. This racial trait replaces the bonus feat racial trait.
+
+**Heart of the Fields**: Humans born in rural areas are used to hard labor. They gain a bonus equal to half their character level to any one Craft or Profession skill, and once per day they may ignore an effect that would cause them to become fatigued or exhausted. This racial trait replaces the skilled racial trait.
+
+**Heart of the Streets**: Humans from bustling cities are skilled with crowds. They gain a +1 bonus on Reflex saves and a +1 dodge bonus to Armor Class when adjacent to at least two other allies. Crowds do not count as difficult terrain for them. This racial trait replaces the skilled racial trait.
+
+**Heart of the Wilderness**: Humans raised in the wild learn the hard way that only the strong survive. They gain a bonus equal to half their character level on Survival checks. They also gain a +5 bonus on Constitution checks to stabilize when dying and add half their character level to their Constitution score when determining the negative hit point total necessary to kill them. This racial trait replaces the skilled racial trait.

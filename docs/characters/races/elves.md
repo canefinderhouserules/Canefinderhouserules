@@ -39,3 +39,21 @@ In addition, elves receive a +2 racial bonus on Spellcraft skill checks made to 
 **Weapon Familiarity**: Elves are proficient with longbows (including composite longbows), longswords, rapiers, and shortbows (including composite shortbows), and treat any weapon with the word “elven” in its name as a martial weapon.
 
 **Languages**: Elves begin play speaking Common and Elven. Elves with high Intelligence scores can choose from the following: Celestial, Draconic, Gnoll, Gnome, Goblin, Orc, and Sylvan.
+
+## Alternate Racial Traits
+
+The following racial traits might be selected instead of existing racial traits. Consult your GM before selecting any of these options.
+
+**Desert Runner**: Some elves thrive in the deepest deserts, forever roaming across burned and parched lands. Elves with this racial trait receive a +4 racial bonus on Constitution checks and Fortitude saves to avoid fatigue, Races 1 exhaustion, or ill effects from running, forced marches, starvation, thirst, or hot or cold environments. This racial trait replaces the elven magic racial trait.
+
+**Dreamspeaker**: A few elves have the ability to tap into the power of sleep, dreams, and prescient reverie. Elves with this racial trait add +1 to saving throw DCs for spells of the divination school and sleep effects they cast. In addition, elves with a Charisma of 15 or higher may use dream once per day as a spell-like ability (caster level is equal to the elf’s character level). This racial trait replaces the elven immunities racial trait.
+
+**Eternal Grudge**: Elves with this racial trait grew up in secluded, isolationist communities where generations-old slights and quarrels linger as eternal blood feuds. They receive a +1 bonus on attack rolls against humanoids of the dwarf and orc subtypes due to special training against these hated foes. This racial trait replaces the elven magic racial trait.
+
+**Lightbringer**: Many elves revere the sun, moon, and stars, but some are literally infused with the radiant power of the heavens. Elves with this racial trait are immune to light-based blindness and dazzle effects, and are treated as one level higher when determining the effects of any light-based spell or effect they cast (including spell-like and supernatural abilities). Elves with Intelligence 10 or higher may use light at will as a spell-like ability. This racial trait replaces the elven immunities and elven magic racial traits.
+
+**Silent Hunter**: Elves are renowned for their subtlety and skill. Elves with this racial trait reduce the penalty for using Stealth while moving by 5 and can make Stealth checks while running at a –20 penalty (this number includes the penalty reduction from this racial trait). This racial trait replaces the elven magic racial trait.
+
+**Spirit of the Waters**: Some elves have adapted to life in tune with the sea or along the reedy depths of wild rivers and lakes. They gain a +4 racial bonus on Swim checks, can always take 10 while swimming, and may choose Aquan as a bonus language. They are proficient with longspear, trident, and net. This racial trait replaces elven magic and weapon familiarity racial traits.
+
+**Woodcraft**: Elves know the deep secrets of the wild like no others, especially those of the forests. Elves with this racial trait gain a +1 bonus on Knowledge (nature) and Survival checks. In forest terrain, these bonuses improve to +2. This racial trait replaces the elven magic racial trait.

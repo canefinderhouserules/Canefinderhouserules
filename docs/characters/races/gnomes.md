@@ -37,3 +37,21 @@ Gnomes trace their lineage back to the mysterious realm of the fey, a place wher
 **Weapon Familiarity**: Gnomes treat any weapon with the word “gnome” in its name as a martial weapon.
 
 **Languages**: Gnomes begin play speaking Common, Gnome, and Sylvan. Gnomes with high Intelligence scores can choose from the following: Draconic, Dwarven, Elven, Giant, Goblin, and Orc.
+
+## Alternate Racial Traits
+
+The following racial traits might be selected instead of existing racial traits. Consult your GM before selecting any of these options.
+
+**Academician**: Some gnomes are more academically inclined than their kin. Gnomes with this racial trait gain a +2 bonus on any one Knowledge skill. This racial trait replaces the obsessive racial trait.
+
+**Eternal Hope**: Gnomes rarely lose hope and are always confident that even hopeless situations will work out. ### Races 1 Gnomes with this racial trait receive a +2 racial bonus on saving throws against fear and despair effects. Once per day, after rolling a 1 on a d20, the gnome may reroll and use the second result. This racial trait replaces the defensive training and hatred racial traits.
+
+**Gift of Tongues**: Gnomes love languages and learning about those they meet. Gnomes with this racial trait gain a +1 bonus on Bluff and Diplomacy checks, and they learn one additional language every time they put a rank in the Linguistics skill. This racial trait replaces the defensive training and hatred racial traits.
+
+**Magical Linguist**: Gnomes study languages in both their mundane and supernatural manifestations. Gnomes with this racial trait add +1 to the DC of spells they cast with the language-dependent descriptor or those that create glyphs, symbols, or other magical writings. They gain a +2 racial bonus on saving throws against such spells. Gnomes with a Charisma of 11 or higher also gain the following spell-like abilities: 1/day—arcane mark, comprehend languages, message, read magic. The caster level for these effects is equal to the gnome’s level. This racial trait replaces the gnome magic and illusion resistance racial traits.
+
+**Master Tinker**: Gnomes experiment with all manner of mechanical devices. Gnomes with this racial trait gain a +1 bonus on Disable Device and Knowledge (engineering) checks. They are treated as proficient with any weapon they have personally crafted. This racial trait replaces the defensive training and hatred racial traits.
+
+**Pyromaniac**: Gnomes with this racial trait are treated as one level higher when casting spells with the fire descriptor, using granted powers of the Fire domain, using the bloodline powers of the fire elemental bloodline or the revelations of the oracle’s flame mystery, and when determining the damage of alchemist bombs that deal fire damage (this ability does not give gnomes early access to level-based powers, only affecting the powers they could use without this ability). Gnomes with Charisma of 11 or higher also gain the following spell-like abilities: 1/day—dancing lights, flare, prestidigitation, produce flame. The caster level for these effects is equal to the gnome’s level; the DCs are Charisma-based. This racial trait replaces the gnome magic and illusion resistance racial traits.
+
+**Warden of Nature**: Gnomes must often protect their homes against unnatural or pestilential infestations. Gnomes with this racial trait get a +2 dodge bonus to AC against aberrations, oozes, and vermin, and a +1 bonus on attack rolls against them because of their special training. This racial trait replaces the defensive training and hatred racial traits.

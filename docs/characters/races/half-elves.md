@@ -39,3 +39,19 @@ build and comely features of their elven lineage, but their skin color is dictat
 **Multitalented**: Half-elves choose two favored classes at first level and gain +1 hit point or +1 skill point whenever they take a level in either one of those classes. See Chapter 3 for more information about favored classes.
 
 **Languages**: Half-elves begin play speaking Common and Elven. Half-elves with high Intelligence scores can choose any languages they want (except secret languages, such as Druidic).
+
+## Alternate Racial Traits
+
+The following racial traits might be selected instead of existing racial traits. Consult your GM before selecting any of these options.
+
+**Ancestral Arms**: Some half-elves receive training in an unusual weapon. Half-elves with this racial trait receive Exotic Weapon Proficiency or Martial Weapon Proficiency with one weapon as a bonus feat at 1st level. This racial trait replaces the adaptability racial trait.
+
+**Arcane Training**: Half-elves occasionally seek tutoring to help them master the magic in their blood. Half-elves with this racial trait have only one favored class and it must be an arcane spellcasting class. They can use spell trigger and spell completion items for their favored class as if 1 level higher (or as a 1st-level character if they have no levels in that class). This racial trait replaces the multitalented racial trait.
+
+**Dual Minded**: The mixed ancestry of some half-elves makes them resistant to mental attacks. Half-elves with this racial trait get a +2 bonus on all Will saving throws. This racial trait replaces the adaptability racial trait.
+
+**Integrated**: Many half-elves are skilled in the art of ingratiating themselves into a community as if they were natives. Half-elves with this racial trait gain a +1 bonus on Bluff, Disguise, and Knowledge (local) checks. This racial trait replaces the adaptability racial trait.
+
+**Sociable**: Half-elves are skilled at charming others and recovering from faux pas. If halfelves with this racial trait attempt to change a creature’s attitude with a Diplomacy check and fail by 5 or more, they can try to influence the creature a second time even if 24 hours have not passed. This racial trait replaces the adaptability racial trait.
+
+**Water Child**: Some half-elves are born of elves adapted to life on or near the water. These half-elves gain a +4 racial bonus on Swim checks, can always take 10 while swimming, and may choose Aquan as a bonus language. This racial trait replaces the halfelf’s adaptability and multitalented racial traits.

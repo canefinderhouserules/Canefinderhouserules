@@ -31,3 +31,27 @@ Half-orcs are monstrosities, their tragic births the result of perversion and vi
 **Weapon Familiarity**: Half-orcs are proficient with greataxes and falchions and treat any weapon with the word “orc” in its name as a martial weapon.
 
 **Languages**: Half-orcs begin play speaking Common and Orc. Half-orcs with high Intelligence scores can choose from the following: Abyssal, Draconic, Giant, Gnoll, and Goblin.
+
+## Alternate Racial Traits
+
+The following racial traits might be selected instead of existing racial traits. Consult your GM before selecting any of these options.
+
+**Beastmaster**: Some half-orcs have a spiritual kinship with fantastical beasts, capturing them for sport or living and hunting with them. A half-orc with this trait treats whip and net as martial weapons and gains a +2 bonus on Handle Animal checks. This racial trait replaces the orc ferocity racial trait.
+
+**Bestial**: The orc blood of some half-orcs manifests in the form of particularly prominent orc features, exacerbating their bestial appearances but improving their already keen senses. They gain a +2 racial bonus on Perception checks. This racial trait replaces the orc ferocity racial trait.
+
+**Cavewight**: Some half-orcs live far from the surface, seeking solace in winding cave complexes. Half-orcs with this racial trait gain a +1 bonus on Knowledge (dungeoneering) and Survival checks made underground. This racial trait replaces the intimidating racial trait.
+
+**Chain Fighter**: Some half-orcs have escaped from slavery and reforged the chains of their imprisonment into deadly weapons. Half-orcs with this racial trait are proficient with flails and heavy flails, and treat dire flails and spiked chains as martial weapons. This trait replaces the weapon familiarity racial trait.
+
+**Gatecrasher**: Many half-orcs revel in acts of wanton destruction. Half-orcs with this racial trait gain a +2 bonus on Strength checks to break objects and a +2 bonus on sunder attempts. This racial trait replaces the orc ferocity racial trait.
+
+**Plagueborn**: Half-orcs are sometimes forced to live on the rancid and unsanitary margins of society, becoming inured to all manner of sickness. Half-orcs with this racial trait gain a +2 racial bonus on saving throws against disease, ingested poisons, and becoming nauseated or sickened. This racial trait replaces the intimidating and orc ferocity racial traits.
+
+**Rock Climber**: Half-orcs from mountainous regions are excellent climbers, and sometimes ambush prey by leaping down from above. Half-orcs with this racial trait gain a +1 bonus on Acrobatics and Climb checks. This racial trait replaces the intimidating trait.
+
+**Sacred Tattoo**: Tattoos, piercings, and ritual scarification are sacred markings to many half-orcs. Half-orcs with this racial trait gain a +1 luck bonus on all saving throws. This racial trait replaces the orc ferocity racial trait.
+
+**Scavenger**: Some half-orcs eke out a leaving picking over the garbage heaps of society, and must learn to separate rare finds from the inevitable dross. Half-orcs with this racial trait receive a +2 racial bonus on Appraise checks and on Perception checks to find hidden objects (including traps and secret doors), determine if food is spoiled, or identify a potion by taste. This racial trait replaces the intimidating racial trait.
+
+**Toothy**: Some half-orcs’ vestigial tusks are massive and sharp, granting a bite attack. This is a primary natural attack that deals 1d4 points of piercing damage. This racial trait replaces the orc ferocity racial trait.

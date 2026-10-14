@@ -35,3 +35,23 @@ Though their curiosity drives them to travel and seek new places and experiences
 **Weapon Familiarity**: Halflings are proficient with slings and treat any weapon with the word “halfling” in its name as a martial weapon.
 
 **Languages**: Halflings begin play speaking Common and Halfling. Halflings with high Intelligence scores can choose from the following: Dwarven, Elven, Gnome, and Goblin.
+
+## Alternate Racial Traits
+
+The following racial traits might be selected instead of existing racial traits. Consult your GM before selecting any of these options.
+
+**Craven**: While most halflings are fearless, some are skittish, making them particularly alert. Halflings with this racial trait gain a +1 bonus on initiative checks and a +1 bonus on attack rolls when flanking. They suffer a –2 penalty on fear saves and gain no benefit from morale bonuses on fear saves. When affected by a fear effect, their base speed increases by 10 feet and they gain a +1 dodge bonus to Armor Class. This racial trait replaces the fearless and halfling luck racial traits.
+
+**Low Blow**: Some halflings train extensively in how to attack larger creatures. Halflings with this racial trait gain a +1 bonus on critical confirmation rolls against opponents larger than themselves. This racial trait replaces the keen senses racial trait.
+
+**Outrider**: Some halflings specialize in mounted combat. Halflings with this racial trait gain a +2 bonus on Handle Animal and Ride checks. This racial trait replaces the sure-footed racial trait.
+
+**Practicality**: Halflings are grounded in hard work and common sense. Halflings with this racial trait gain a +2 bonus on any one Craft or Profession skill, as well as on Sense Motive checks and saves against illusions. This racial trait replaces the fearless and sure-footed racial traits.
+
+**Swift as Shadows**: Halflings possess incredible stealth even while moving through obstructed areas. Halflings with this racial trait reduce the penalty for using Stealth while moving by 5, and reduce the Stealth check penalty for sniping by 10. This racial trait replaces the surefooted racial trait.
+
+**Underfoot**: Halflings must train hard to effectively fight bigger opponents. Halflings with this racial trait gain a +1 dodge bonus to AC against foes larger than themselves and a +1 bonus on Reflex saving throws to avoid trample attacks. This racial trait replaces the halfling luck racial trait.
+
+**Wanderlust**: Halflings love travel and maps. Halflings with this racial trait receive a +2 bonus on Knowledge (geography) and Survival checks. When casting spells or using abilities that provide or enhance movement, halflings treat their caster level as +1 higher than normal. This racial trait replaces the fearless and halfling luck racial traits.
+
+**Warslinger**: Halflings are experts at the use of the sling. Halflings with this racial trait can reload a sling as a free action. Reloading a sling still requires two hands and provokes attacks of opportunity. This racial trait replaces the sure-footed racial trait.
