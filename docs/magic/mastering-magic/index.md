@@ -8,3 +8,4 @@ Advanced rules for spellcasters: spellblights, spell duels, binding outsiders, b
 - [Building and Modifying Constructs](constructs.md)
 - [New Familiars](new-familiars.md)
 - [Designing Spells](designing-spells.md)
+- [Spellbooks](spellbooks.md)
