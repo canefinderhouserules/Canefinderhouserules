@@ -326,4 +326,18 @@ You can use this ability once per day. You must be 11th level to select this rev
 
 **Invisibility (Su)**: As a standard action, you can become invisible (as per the invisibility spell). You can remain invisible for 1 minute per day per oracle level. This duration does not need to be consecutive, but it must be spent in 1-minute increments. Starting at 9th level, each time you activate this ability you can treat it as greater invisibility, though each round spent this way counts as 1 minute of your normal invisibility duration. You must be at least 3rd level to select this revelation.
 
-**Lightning Breath (Su)**: As a standard action, you can breathe a 30-foot line of electricity. This line deals 1d4
+**Lightning Breath (Su)**: As a standard action, you can breathe a 30-foot line of electricity. This line deals 1d4 points of electricity damage per oracle level. A Reflex save halves this damage. You can use this ability once per day, plus one additional time per day at 5th level and every five levels thereafter.
+
+**Spark Skin (Ex)**: You gain resist electricity 5. This resistance increases to 10 at 5th level and 20 at 11th level. At 17th level, you gain immunity to electricity.
+
+**Thunderburst (Ex)**: As a standard action, you can create a blast of air accompanied by a loud peal of thunder. The blast has a range of 100 feet and has a 20-foot radius, increasing by 5 feet for every 4 oracle levels after 7th. Creatures in the area take 1d6 points of bludgeoning damage per oracle level and are deafened for 1 hour, with a Fortitude save resulting in half damage and no deafness. You must be at least 7th level to select this revelation. You can use this ability once per day, plus one additional time per day at 11th level and every four levels thereafter.
+
+**Touch of Electricity (Su)**: As a standard action, you can perform a melee touch attack that deals 1d6 points of electricity damage +1 point for every two oracle levels you possess. You can use this ability a number of times per day equal to 3 + your Charisma modifier. At 11th level, any weapon that you wield is treated as a shock weapon.
+
+**Vortex Spells (Ex)**: Whenever you score a critical hit against an opponent with an attack spell, the target is staggered for 1 round. At 11th level, the duration increases to 1d4 rounds.
+
+**Wind Sight (Ex)**: You ignore penalties on Perception checks based on wind and the first 100 feet of distance. At 7th level, as a standard action, you can see and hear into any area (as if using clairaudience and clairvoyance) within range as long as there is an unobstructed path for air to travel between you and the target area (this does not require line of effect, meaning the path can turn corners and go through spaces no smaller than 1 inch in diameter). You can use this ability a number of rounds per day equal to your oracle level, but these rounds do not need to be consecutive.
+
+**Wings of Air (Su)**: As a swift action, you can manifest a pair of translucent, cloud-like wings that grant you a fly speed of 60 feet with good maneuverability. At 10th level, your speed increases to 90 feet and your maneuverability increases to perfect. You can use these wings for 1 minute per day per oracle level. This duration does not need to be consecutive, but it must be spent in 1-minute increments. You must be at least 7th level to select this revelation.
+
+**Final Revelation**: Upon reaching 20th level, you become a master of air and electricity. You can apply any one of the following feats to any air or electricity spell without increasing the level or casting time: Enlarge Spell, Extend Spell, Silent Spell, or Still Spell.
