@@ -166,7 +166,7 @@ Witches can add new spells to their familiars through several methods. A witch c
 
 In addition to the familiars presented in the Pathfinder RPG Core Rulebook, witches might select any of the following animals as their familiar. Sorcerers and wizards might also adopt these new familiars, utilizing the same rules as for any other familiar.
 
-These familiars make use of statistics presented in the Pathfinder RPG Bestiary (on the noted pages), specifically the house centipede (43), king crab (50), greensting scorpion (242), fox (dog with the young template, 87), octopus (octopus with the young template, 219), and scarlet spider (258).
+These familiars make use of statistics presented in the Pathfinder RPG Bestiary, specifically the house centipede, king crab, greensting scorpion, fox (dog with the young template), octopus (octopus with the young template), and scarlet spider.
 
 | Familiar | Special Ability |
 |---|---|
