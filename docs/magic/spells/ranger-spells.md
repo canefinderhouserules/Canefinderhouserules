@@ -62,3 +62,33 @@
 - **[Nondetection](nondetection.md)**: Hides subject from divination, scrying.
 - **[Summon Nature’s Ally IV](summon-natures-ally-iv.md)**: Summons creature to fight for you.
 - **[Tree Stride](tree-stride.md)**: Step from one tree to another far away.
+
+## Ultimate Magic Spells
+
+New spells from *Ultimate Magic*. An M or F after a name marks a material or focus component not normally included in a spell component pouch.
+
+### 1st-Level Ranger Spells
+
+- **[Anticipate Peril](anticipate-peril.md)**: Target gains a bonus on one initiative check.
+- **[Diagnose Disease](diagnose-disease.md)**: Detect and identify diseases.
+- **[Horn of Pursuit](horn-of-pursuit.md)**: Create three notes heard miles away.
+- **[Know the Enemy](know-the-enemy.md)**: Gain +10 on a monster Knowledge check.
+- **[Summon Minor Ally](summon-minor-ally.md)**: Summon 1d3 Tiny animals.
+- **[Wartrain Mount](wartrain-mount.md)**: Animal gains combat training.
+
+### 2nd-Level Ranger Spells
+
+- **[Acute Senses](acute-senses.md)**: Subject gains a bonus on Perception checks.
+- **[Badger’s Ferocity](badgers-ferocity.md)**: Weapons are keen while you concentrate.
+- **[Web Shelter](web-shelter.md)**: Create a comfortable shelter made of webbing.
+
+### 3rd-Level Ranger Spells
+
+- **[Blessing of the Mole](blessing-of-the-mole.md)**: 1 ally/level gains darkvision and a +2 Stealth bonus.
+- **[Burrow](burrow.md)**: Target gains a burrow speed of 15.
+- **[Fickle Winds](fickle-winds.md)**: Wind walls selectively block attacks.
+
+### 4th-Level Ranger Spells
+
+- **[Darkvision, Greater](darkvision-greater.md)**: See 120 ft. in total darkness.
+- **[Raise Animal Companion](raise-animal-companion.md)**: As raise dead, but on an animal.

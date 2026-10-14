@@ -198,3 +198,83 @@
 - **[Storm of Vengeance](storm-of-vengeance.md)**: Storm rains acid, lightning, and hail.
 - **[Summon Nature’s Ally IX](summon-natures-ally-ix.md)**: Summons creature to fight.
 - **[Sympathy](sympathy.md)**: Object or location attracts certain creatures.
+
+## Ultimate Magic Spells
+
+New spells from *Ultimate Magic*. An M or F after a name marks a material or focus component not normally included in a spell component pouch.
+
+### 1st-Level Druid Spells
+
+- **[Decompose Corpse](decompose-corpse.md)**: Turn a corpse into a clean skeleton.
+- **[Diagnose Disease](diagnose-disease.md)**: Detect and identify diseases.
+- **[Frostbite](frostbite.md)**: Target takes cold damage and is fatigued.
+- **[Ray of Sickening](ray-of-sickening.md)**: Ray makes the subject sickened.
+- **[Remove Sickness](remove-sickness.md)**: Suppress disease, nausea, and the sickened condition.
+- **[Restore Corpse](restore-corpse.md)**: Skeletal corpse grows f lesh.
+- **[Summon Minor Ally](summon-minor-ally.md)**: Summon 1d3 Tiny animals.
+
+### 2nd-Level Druid Spells
+
+- **[Frigid Touch](frigid-touch.md)**: Target takes cold damage and is staggered.
+- **[Masterwork Transformation](masterwork-transformation.md)**: Make a normal item into a masterwork one.
+- **[Pernicious Poison](pernicious-poison.md)**: Target takes a –4 penalty against poison.
+- **[Tar Ball](tar-ball.md)**: Burning tar harms target and penalizes its Dex.
+- **[Unshakable Chill](unshakable-chill.md)**: Target is aff licted with severe cold.
+- **[Wartrain Mount](wartrain-mount.md)**: Animal gains the combat training general purpose.
+- **[Web Shelter](web-shelter.md)**: Create a comfortable shelter made of webbing.
+
+### 3rd-Level Druid Spells
+
+- **[Anthropomorphic Animal](anthropomorphic-animal.md)**: Animal becomes bipedal.
+- **[Ash Storm](ash-storm.md)**: Hamper vision and movement.
+- **[Badger’s Ferocity](badgers-ferocity.md)**: Weapons are keen while you concentrate.
+- **[Burrow](burrow.md)**: Target gains a burrow speed of 15.
+- **[Burst of Nettles](burst-of-nettles.md)**: Burst deals 3d6 damage and 1d6 acid.
+- **[Fungal Infestation](fungal-infestation.md)**: Target takes bleed from attacks.
+- **[Mad Monkeys](mad-monkeys.md)**: Summon a swarm of mischievous monkeys.
+- **[Rain of Frogs](rain-of-frogs.md)**: Summon a swarm of poisonous frogs.
+- **[Spit Venom](spit-venom.md)**: Spit blinding black adder venom.
+- **[Vermin Shape I](vermin-shape-i.md)**: Take the form and some of the powers of a Small or Medium vermin.
+
+### 4th-Level Druid Spells
+
+- **[Age Resistance, Lesser](age-resistance-lesser.md)**: Ignore penalties from middle age.
+- **[Arboreal Hammer](arboreal-hammer.md)**: Tree branches attack opponents.
+- **[Atavism](atavism.md)**: Animal gains advanced creature simple template.
+- **[Cape of Wasps](cape-of-wasps.md)**: Wasp swarm defends or carries you.
+- **[Echolocation](echolocation.md)**: Sonic sense gives you blindsight 40 ft.
+- **[Plague Carrier](plague-carrier.md)**: Target’s attacks carry filth fever.
+- **[Ride the Waves](ride-the-waves.md)**: Target can breathe water and swim.
+- **[Touch of Slime](touch-of-slime.md)**: Touch infests a target with green slime.
+- **[Vermin Shape II](vermin-shape-ii.md)**: As vermin shape, but Tiny or Large.
+- **[Volcanic Storm](volcanic-storm.md)**: Hot rocks deal 5d6 damage.
+
+### 5th-Level Druid Spells
+
+- **[Contagion, Greater](contagion-greater.md)**: Infect a subject with a magical disease.
+- **[Fickle Winds](fickle-winds.md)**: Wind walls selectively block attacks.
+- **[Raise Animal Companion](raise-animal-companion.md)**: As raise dead, but on an animal.
+- **[Reprobation](reprobation.md)**: Marked target is shunned by your religion.
+
+### 6th-Level Druid Spells
+
+- **[Age Resistance](age-resistance.md)**: Ignore penalties from old age.
+- **[Eagle Aerie](eagle-aerie.md)**: Summon 1 giant eagle/3 levels.
+- **[Epidemic](epidemic.md)**: Infect a subject with a highly contagious disease.
+- **[Plague Storm](plague-storm.md)**: Cloud infects creatures like contagion.
+
+### 7th-Level Druid Spells
+
+- **[Age Resistance, Greater](age-resistance-greater.md)**: Ignore penalties from venerable age.
+- **[Scouring Winds](scouring-winds.md)**: Winds block vision and deal 3d6 damage.
+
+### 8th-Level Druid Spells
+
+- **[Atavism, Mass](atavism-mass.md)**: One animal/level gains advanced template.
+- **[Blood Mist](blood-mist.md)**: Mist causes Wisdom damage and rage.
+
+### 9th-Level Druid Spells
+
+- **[Polar Midnight](polar-midnight.md)**: Cold darkness paralyzes and deals damage.
+- **[Summon Elder Worm](summon-elder-worm.md)**: Summon a giant purple worm.
+- **[Summon Froghemoth](summon-froghemoth.md)**: Summon a froghemoth.

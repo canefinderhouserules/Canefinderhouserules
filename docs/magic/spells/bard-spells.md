@@ -184,3 +184,92 @@
 - **[Summon Monster VI](summon-monster-vi.md)**: Summons extraplanar creature to fight for you.
 - **[Sympathetic Vibration](sympathetic-vibration.md)**: Deals 2d10 damage/round to freestanding structure.
 - **[Veil](veil.md)**: Changes appearance of group of creatures.
+
+## Ultimate Magic Spells
+
+New spells from *Ultimate Magic*. An M or F after a name marks a material or focus component not normally included in a spell component pouch.
+
+### 1st-Level Bard Spells
+
+- **[Anticipate Peril](anticipate-peril.md)**: Target gains a bonus on one initiative check.
+- **[Chord of Shards](chord-of-shards.md)**: Performance deals 2d6 piercing damage.
+- **[Delusional Pride](delusional-pride.md)**: Target is penalized on attacks and checks but gains bonus against charms and compulsions.
+- **[Ear-Piercing Scream](ear-piercing-scream.md)**: Deal sonic damage and daze target.
+- **[Forced Quiet](forced-quiet.md)**: Target cannot make loud noises.
+- **[Fumbletongue](fumbletongue.md)**: Target cannot speak intelligently.
+- **[Horn of Pursuit](horn-of-pursuit.md)**: Create three notes heard miles away.
+- **[Ki Arrow](ki-arrow.md)**: Arrow deals damage as your unarmed strike.
+- **[Play Instrument](play-instrument.md)**: Play instrument as if you were skilled.
+- **[Summon Minor Monster](summon-minor-monster.md)**: Summon 1d3 Tiny animals.
+- **[Unnatural Lust](unnatural-lust.md)**: Target is compelled to kiss or caress another.
+- **[Unprepared Combatant](unprepared-combatant.md)**: Target takes –4 on initiative and Ref lex saves.
+- **[Vocal Alteration](vocal-alteration.md)**: Disguise target’s voice.
+- **[Youthful Appearance](youthful-appearance.md)**: Target appears younger.
+
+### 2nd-Level Bard Spells
+
+- **[Acute Senses](acute-senses.md)**: Subject gains bonus on Perception checks.
+- **[Allegro](allegro.md)**: Gain haste while maintaining bardic performance.
+- **[Boiling Blood](boiling-blood.md)**: Targets take fire damage; orcs get +2 Strength.
+- **[Compassionate Ally](compassionate-ally.md)**: Target compelled to help injured ally.
+- **[Delay Pain](delay-pain.md)**: Ignore pain for 1 hour/level.
+- **[Disguise Other](disguise-other.md)**: As disguise self, but affects you or another.
+- **[Distracting Cacophony](distracting-cacophony.md)**: Noise makes it difficult to cast.
+- **[Distressing Tone](distressing-tone.md)**: Sound sickens 1d4 creatures.
+- **[Ghostly Disguise](ghostly-disguise.md)**: You look like a ghost of yourself.
+- **[Haunting Mists](haunting-mists.md)**: Creatures are shaken and take Wis damage.
+- **[Mad Hallucination](mad-hallucination.md)**: Target takes penalties to mental actions.
+- **[Masterwork Transformation](masterwork-transformation.md)**: Make a normal item into a masterwork one.
+- **[Miserable Pity](miserable-pity.md)**: Opponents cannot attack a pathetic creature.
+- **[Oppressive Boredom](oppressive-boredom.md)**: Target loses its next action.
+- **[Piercing Shriek](piercing-shriek.md)**: Target is staggered by a painful sound.
+- **[Reckless Infatuation](reckless-infatuation.md)**: Target is compelled to stay near another.
+- **[Share Memory](share-memory.md)**: Share one memory with the target.
+- **[Silk to Steel](silk-to-steel.md)**: Use a scarf as a shield or whip.
+- **[Snapdragon Fireworks](snapdragon-fireworks.md)**: Create 1 dragon firework/level.
+- **[Steal Voice](steal-voice.md)**: Target gains the croaking spellblight.
+- **[Unadulterated Loathing](unadulterated-loathing.md)**: Target is compelled to avoid another creature.
+- **[Wartrain Mount](wartrain-mount.md)**: Animal gains the combat training general purpose.
+
+### 3rd-Level Bard Spells
+
+- **[Control Summoned Creature](control-summoned-creature.md)**: Direct a summoned monster as if you had summoned it.
+- **[Curse of Disgust](curse-of-disgust.md)**: Target is sickened when viewing a trigger.
+- **[Exquisite Accompaniment](exquisite-accompaniment.md)**: Instrument maintains bardic performance for you.
+- **[Haunting Choir](haunting-choir.md)**: Spirits cause wracking pain to listeners.
+- **[Mad Monkeys](mad-monkeys.md)**: Summon a swarm of mischievous monkeys.
+- **[Malicious Spite](malicious-spite.md)**: Target is compelled to plot against another.
+- **[Overwhelming Grief](overwhelming-grief.md)**: Grieving target can take no actions and is denied its Dex bonus.
+- **[Rain of Frogs](rain-of-frogs.md)**: Summon a swarm of poisonous frogs.
+- **[Smug Narcissism](smug-narcissism.md)**: Target is distracted by its sense of self.
+- **[Terrible Remorse](terrible-remorse.md)**: Creature is compelled to harm itself.
+- **[Vision of Hell](vision-of-hell.md)**: Illusory hellscape makes creatures shaken.
+- **[Witness](witness.md)**: See through the target’s eyes and ears.
+
+### 4th-Level Bard Spells
+
+- **[Dance of a Hundred Cuts](dance-of-a-hundred-cuts.md)**: Gain +1 combat bonus/3 levels.
+- **[Daze, Mass](daze-mass.md)**: As daze, but affecting multiple creatures.
+- **[Echolocation](echolocation.md)**: Sonic sense gives you blindsight 40 ft.
+- **[Envious Urge](envious-urge.md)**: Targets steal from or disarm others.
+- **[Primal Scream](primal-scream.md)**: Free yourself from enchantments and paralysis effects.
+- **[Serenity](serenity.md)**: Peaceful feelings harm those attempting violence.
+- **[Shadow Step](shadow-step.md)**: Teleport from one shadow to another.
+- **[Sonic Thrust](sonic-thrust.md)**: Sound moves targets away from you.
+- **[Utter Contempt](utter-contempt.md)**: Target’s attitude worsens by two categories.
+- **[Virtuoso Performance](virtuoso-performance.md)**: Start a second bardic performance while maintaining the first.
+- **[Wall of Sound](wall-of-sound.md)**: Sonic wall def lects and damages creatures.
+
+### 5th-Level Bard Spells
+
+- **[Joyful Rapture](joyful-rapture.md)**: Negate harmful emotions.
+- **[Ki Shout](ki-shout.md)**: Target takes 1d6 sonic/level and is stunned.
+- **[Resonating Word](resonating-word.md)**: Target is damaged, staggered, and stunned.
+- **[Shadowbard](shadowbard.md)**: Shadowy duplicate starts a bardic performance.
+- **[Vengeful Outrage](vengeful-outrage.md)**: Target is compelled to destroy one enemy.
+
+### 6th-Level Bard Spells
+
+- **[Dance of a Thousand Cuts](dance-of-a-thousand-cuts.md)**: As dance of a hundred cuts, plus the benefits of haste.
+- **[Overwhelming Presence](overwhelming-presence.md)**: Creatures bow before you as if you were divine.
+- **[Waves of Ecstasy](waves-of-ecstasy.md)**: Pleasure stuns and staggers creatures.

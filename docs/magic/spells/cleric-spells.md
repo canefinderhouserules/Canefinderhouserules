@@ -253,3 +253,111 @@
 - **[Storm of Vengeance](storm-of-vengeance.md)**: Storm rains acid, lightning, and hail.
 - **[Summon Monster IX](summon-monster-ix.md)**: Summons extraplanar creature to fight for you.
 - **[True Resurrection](true-resurrection.md)**: As *resurrection*, plus remains aren’t needed.
+
+## Ultimate Magic Spells
+
+New spells from *Ultimate Magic*. An M or F after a name marks a material or focus component not normally included in a spell component pouch.
+
+### 1st-Level Cleric Spells
+
+- **[Decompose Corpse](decompose-corpse.md)**: Turn corpse into clean skeleton.
+- **[Diagnose Disease](diagnose-disease.md)**: Detect and identify diseases.
+- **[Forbid Action](forbid-action.md)**: Target obeys your command to not do something.
+- **[Know the Enemy](know-the-enemy.md)**: Gain +10 on a monster Knowledge check.
+- **[Murderous Command](murderous-command.md)**: Target is compelled to kill its ally.
+- **[Ray of Sickening](ray-of-sickening.md)**: Ray makes the subject sickened.
+- **[Remove Sickness](remove-sickness.md)**: Suppress disease, nausea, and the sickened condition.
+- **[Restore Corpse](restore-corpse.md)**: Skeletal corpse grows f lesh.
+- **[Sanctify Corpse](sanctify-corpse.md)**: Prevent a corpse from becoming an undead creature.
+- **[Summon Minor Monster](summon-minor-monster.md)**: Summon 1d3 Tiny animals.
+
+### 2nd-Level Cleric Spells
+
+- **[Animate Dead, Lesser](animate-dead-lesser.md)**: Create one skeleton or zombie.
+- **[Arrow of Law](arrow-of-law.md)**: Harm and possibly daze chaotic creatures.
+- **[Boiling Blood](boiling-blood.md)**: Targets take fire damage; orcs get +2 Strength.
+- **[Compassionate Ally](compassionate-ally.md)**: Target is compelled to help injured ally.
+- **[Delay Pain](delay-pain.md)**: Ignore pain for 1 hour/level.
+- **[Disfiguring Touch](disfiguring-touch.md)**: Target becomes disfigured.
+- **[Dread Bolt](dread-bolt.md)**: Harm and possibly sicken good creatures.
+- **[Imbue with Aura](imbue-with-aura.md)**: Target emulates your cleric aura.
+- **[Masterwork Transformation](masterwork-transformation.md)**: Make a normal item into a masterwork one.
+- **[Protective Penumbra](protective-penumbra.md)**: Shadow protects the target from light.
+- **[Shard of Chaos](shard-of-chaos.md)**: Harm and possibly slow lawful creatures.
+- **[Spear of Purity](spear-of-purity.md)**: Harm and possibly blind evil creatures.
+- **[Surmount Affliction](surmount-affliction.md)**: Temporarily suppress one condition.
+- **[Web Shelter](web-shelter.md)**: Create a comfortable shelter made of webbing.
+
+### 3rd-Level Cleric Spells
+
+- **[Agonize](agonize.md)**: Pain encourages an outsider to obey you.
+- **[Archon’s Aura](archons-aura.md)**: Aura penalizes enemy attacks and AC.
+- **[Badger’s Ferocity](badgers-ferocity.md)**: Weapons are keen while you concentrate.
+- **[Blessing of the Mole](blessing-of-the-mole.md)**: 1 ally/level gains darkvision and a +2 Stealth bonus.
+- **[Ki Leech](ki-leech.md)**: Add to your ki pool when you critically hit.
+- **[Sands of Time](sands-of-time.md)**: Target temporarily ages.
+- **[Symbol of Healing](symbol-of-healing.md)**: Triggered rune heals living creatures.
+- **[Vision of Hell](vision-of-hell.md)**: Illusory hellscape makes creatures shaken.
+
+### 4th-Level Cleric Spells
+
+- **[Aura of Doom](aura-of-doom.md)**: Creatures in your aura become shaken.
+- **[Blood Crow Strike](blood-crow-strike.md)**: Unarmed strikes create crows that deal fire and negative energy damage.
+- **[Control Summoned Creature](control-summoned-creature.md)**: Direct a summoned monster as if you had summoned it.
+- **[Fleshworm Infestation](fleshworm-infestation.md)**: Worms deal hp and Dex damage.
+- **[Oracle’s Vessel](oracles-vessel.md)**: Oracle only. Target gains the benefits of your oracle’s curse.
+- **[Plague Carrier](plague-carrier.md)**: Target’s attacks carry filth fever.
+- **[Ride the Waves](ride-the-waves.md)**: Target can breathe water and swim.
+- **[Soothe Construct](soothe-construct.md)**: Reduce the berserk chance of a construct.
+- **[Spit Venom](spit-venom.md)**: Spit blinding black adder venom.
+- **[Symbol of Revelation](symbol-of-revelation.md)**: Triggered symbol reveals illusions.
+- **[Symbol of Slowing](symbol-of-slowing.md)**: Triggered rune slows creatures.
+- **[Terrible Remorse](terrible-remorse.md)**: Creature is compelled to harm itself.
+
+### 5th-Level Cleric Spells
+
+- **[Astral Projection, Lesser](astral-projection-lesser.md)**: Limited astral travel.
+- **[Contagion, Greater](contagion-greater.md)**: Infect a subject with a magical disease.
+- **[Curse of Magic Negation](curse-of-magic-negation.md)**: Target gains the negated spellblight.
+- **[Curse, Major](curse-major.md)**: As bestow curse, but harder to remove.
+- **[Fickle Winds](fickle-winds.md)**: Wind walls selectively block attacks.
+- **[Forbid Action, Greater](forbid-action-greater.md)**: As forbid action, but 1 creature/level.
+- **[Holy Ice](holy-ice.md)**: Create wall or javelins of frozen holy water.
+- **[Rapid Repair](rapid-repair.md)**: Construct gains fast healing 5.
+- **[Reprobation](reprobation.md)**: Marked target is shunned by your religion.
+- **[Serenity](serenity.md)**: Peaceful feelings harm those attempting violence.
+- **[Symbol of Scrying](symbol-of-scrying.md)**: Triggered rune activates scrying sensor.
+- **[Unholy Ice](unholy-ice.md)**: Create wall or javelins of frozen unholy water.
+
+### 6th-Level Cleric Spells
+
+- **[Cold Ice Strike](cold-ice-strike.md)**: Cone of ice slivers deals 1d6 cold/level.
+- **[Epidemic](epidemic.md)**: Infect a subject with a highly contagious disease.
+- **[Joyful Rapture](joyful-rapture.md)**: Negate harmful emotions.
+- **[Plague Storm](plague-storm.md)**: Cloud infects creatures like contagion.
+- **[Symbol of Sealing](symbol-of-sealing.md)**: Creates triggered wall of force.
+
+### 7th-Level Cleric Spells
+
+- **[Bestow Grace of the Champion](bestow-grace-of-the-champion.md)**: Target gains paladin abilities for 1 round/level.
+- **[Circle of Clarity](circle-of-clarity.md)**: Emanation hampers illusions and stealth.
+- **[Create Demiplane, Lesser](create-demiplane-lesser.md)**: Create your own demiplane.
+- **[Lunar Veil](lunar-veil.md)**: Dispel light and revert lycanthropes.
+- **[Waves of Ecstasy](waves-of-ecstasy.md)**: Pleasure stuns and staggers creatures.
+
+### 8th-Level Cleric Spells
+
+- **[Call Construct](call-construct.md)**: Summon your golem to you.
+- **[Create Demiplane](create-demiplane.md)**: As lesser create demiplane, but larger and with planar traits.
+- **[Orb of the Void](orb-of-the-void.md)**: Sphere inf licts negative levels.
+
+### 9th-Level Cleric Spells
+
+- **[Create Demiplane, Greater](create-demiplane-greater.md)**: As create demiplane, but larger and with more planar traits.
+- **[Cursed Earth](cursed-earth.md)**: Plants die, living creatures catch diseases, or dead creatures rise as zombies.
+- **[Interplanetary Teleport](interplanetary-teleport.md)**: Teleport to another planet.
+- **[Overwhelming Presence](overwhelming-presence.md)**: Creatures bow before you as if you were divine.
+- **[Polar Midnight](polar-midnight.md)**: Cold darkness paralyzes and deals damage.
+- **[Symbol of Strife](symbol-of-strife.md)**: Triggered rune makes creatures attack.
+- **[Symbol of Vulnerability](symbol-of-vulnerability.md)**: Triggered rune gives penalties.
+- **[Wooden Phalanx](wooden-phalanx.md)**: Creates 1d4+2 temporary wood golems to fight for you.

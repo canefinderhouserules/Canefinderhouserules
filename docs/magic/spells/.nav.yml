@@ -1,9 +1,15 @@
 nav:
   - index.md
+  - alchemist-spells.md
+  - antipaladin-spells.md
   - bard-spells.md
   - cleric-spells.md
   - druid-spells.md
+  - inquisitor-spells.md
+  - magus-spells.md
   - paladin-spells.md
   - ranger-spells.md
   - sorcerer-wizard-spells.md
+  - summoner-spells.md
+  - witch-spells.md
   - "*"

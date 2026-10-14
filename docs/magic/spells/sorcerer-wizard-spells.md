@@ -661,3 +661,190 @@
 **Universal**
 
 - **[Wish](wish.md)**: As *limited wish,* but with fewer limits.
+
+## Ultimate Magic Spells
+
+New spells from *Ultimate Magic*. An M or F after a name marks a material or focus component not normally included in a spell component pouch.
+
+### 1st-Level Sorcerer/Wizard Spells
+
+- **[Anticipate Peril](anticipate-peril.md)**: Target gains a bonus on one initiative check.
+- **[Bungle](bungle.md)**: Target takes a –20 penalty on its next attack roll or check.
+- **[Corrosive Touch](corrosive-touch.md)**: Touch attack deals 1d4 acid/level.
+- **[Decompose Corpse](decompose-corpse.md)**: Turn a corpse into a clean skeleton.
+- **[Delusional Pride](delusional-pride.md)**: Target is penalized on attacks and checks but gains bonus against charms and compulsions.
+- **[Ear-Piercing Scream](ear-piercing-scream.md)**: Deal sonic damage and daze target.
+- **[Forced Quiet](forced-quiet.md)**: Target cannot make loud noises.
+- **[Icicle Dagger](icicle-dagger.md)**: Masterwork ice dagger deals +1 cold damage.
+- **[Interrogation](interrogation.md)**: Target answers questions or suffers pain.
+- **[Ki Arrow](ki-arrow.md)**: Arrow deals damage as your unarmed strike.
+- **[Polypurpose Panacea](polypurpose-panacea.md)**: Gain a relaxing or entertaining effect.
+- **[Ray of Sickening](ray-of-sickening.md)**: Ray makes the subject sickened.
+- **[Restore Corpse](restore-corpse.md)**: Skeletal corpse grows f lesh.
+- **[Shadow Weapon](shadow-weapon.md)**: Create a quasi-real masterwork weapon.
+- **[Snapdragon Fireworks](snapdragon-fireworks.md)**: Create 1 dragon firework/level.
+- **[Summon Minor Monster](summon-minor-monster.md)**: Summon 1d3 Tiny animals.
+- **[Unprepared Combatant](unprepared-combatant.md)**: Target takes –4 on initiative and Ref lex saves.
+- **[Vocal Alteration](vocal-alteration.md)**: Disguise target’s voice.
+- **[Youthful Appearance](youthful-appearance.md)**: Target appears younger.
+
+### 2nd-Level Sorcerer/Wizard Spells
+
+- **[Badger’s Ferocity](badgers-ferocity.md)**: Weapons are keen while you concentrate.
+- **[Blood Transcription](blood-transcription.md)**: Wizard only. Learn a spell from the target’s blood.
+- **[Boiling Blood](boiling-blood.md)**: Targets take fire damage; orcs get +2 Strength.
+- **[Compassionate Ally](compassionate-ally.md)**: Target is compelled to help injured ally.
+- **[Cushioning Bands](cushioning-bands.md)**: Force bands protect against crushing.
+- **[Defensive Shock](defensive-shock.md)**: Electricity damages your attackers.
+- **[Delay Pain](delay-pain.md)**: Ignore pain for 1 hour/level. Disfiguring Touch : Target becomes disfigured.
+- **[Disguise Other](disguise-other.md)**: As disguise self, but affects you or another.
+- **[Frigid Touch](frigid-touch.md)**: Target takes cold damage and is staggered.
+- **[Ghostly Disguise](ghostly-disguise.md)**: You look like a ghost of yourself.
+- **[Haunting Mists](haunting-mists.md)**: Creatures are shaken and take Wis damage.
+- **[Mad Hallucination](mad-hallucination.md)**: Target takes penalties to mental actions.
+- **[Masterwork Transformation](masterwork-transformation.md)**: Make a normal item into a masterwork one.
+- **[Miserable Pity](miserable-pity.md)**: Opponents cannot attack a pathetic creature.
+- **[Oppressive Boredom](oppressive-boredom.md)**: Target loses its next action.
+- **[Pernicious Poison](pernicious-poison.md)**: Target takes a –4 penalty against poison.
+- **[Protective Penumbra](protective-penumbra.md)**: Shadow protects the target from light.
+- **[Sculpt Simulacrum](sculpt-simulacrum.md)**: Alter a simulacrum’s appearance.
+- **[Share Memory](share-memory.md)**: Share one memory with the target.
+- **[Silk to Steel](silk-to-steel.md)**: Use a scarf as a shield or whip.
+- **[Skinsend](skinsend.md)**: Animate and possess your own skin as if it were a separate creature.
+- **[Steal Voice](steal-voice.md)**: Target gains the croaking spellblight.
+- **[Symbol of Mirroring](symbol-of-mirroring.md)**: Triggered rune creates mirror images.
+- **[Unnatural Lust](unnatural-lust.md)**: Target is compelled to kiss or caress another creature.
+- **[Unshakable Chill](unshakable-chill.md)**: Target is aff licted with severe cold.
+- **[Web Shelter](web-shelter.md)**: Create a comfortable shelter made of webbing.
+
+### 3rd-Level Sorcerer/Wizard Spells
+
+- **[Animate Dead, Lesser](animate-dead-lesser.md)**: Create one skeleton or zombie.
+- **[Anthropomorphic Animal](anthropomorphic-animal.md)**: Animal becomes bipedal.
+- **[Ash Storm](ash-storm.md)**: Hamper vision and movement.
+- **[Burrow](burrow.md)**: Target gains a burrow speed of 15.
+- **[Countless Eyes](countless-eyes.md)**: Extra eyes give all-around vision.
+- **[Distracting Cacophony](distracting-cacophony.md)**: Noise makes it difficult to cast.
+- **[Eldritch Fever](eldritch-fever.md)**: Target gains the eldritch ague spellblight.
+- **[Eruptive Pustules](eruptive-pustules.md)**: Acid boils burst when you are attacked.
+- **[Excruciating Deformation](excruciating-deformation.md)**: Target takes Dex and Con damage.
+- **[Force Punch](force-punch.md)**: Target takes force damage and is pushed away.
+- **[Howling Agony](howling-agony.md)**: Screaming pain limits the target’s actions.
+- **[Ki Leech](ki-leech.md)**: Add to your ki pool when you critically hit.
+- **[Loathsome Veil](loathsome-veil.md)**: Nauseate and/or sicken weak creatures.
+- **[Mad Monkeys](mad-monkeys.md)**: Summon a swarm of mischievous monkeys.
+- **[Marionette Possession](marionette-possession.md)**: As magic jar, but limited to line of sight.
+- **[Monstrous Physique I](monstrous-physique-i.md)**: Take the form and some of the powers of a Small or Medium monstrous humanoid.
+- **[Rain of Frogs](rain-of-frogs.md)**: Summon a swarm of poisonous frogs.
+- **[Reckless Infatuation](reckless-infatuation.md)**: Target is compelled to stay near another.
+- **[Sands of Time](sands-of-time.md)**: Target temporarily ages.
+- **[Strangling Hair](strangling-hair.md)**: Your hair animates and grapples.
+- **[Toxic Gift](toxic-gift.md)**: Target suffers the effect of the poison in you.
+- **[Unadulterated Loathing](unadulterated-loathing.md)**: Target is compelled to avoid another creature.
+- **[Undead Anatomy I](undead-anatomy-i.md)**: Take the form and some of the powers of a Small or Medium undead.
+- **[Vision of Hell](vision-of-hell.md)**: Illusory hellscape makes creatures shaken.
+
+### 4th-Level Sorcerer/Wizard Spells
+
+- **[Age Resistance, Lesser](age-resistance-lesser.md)**: Ignore penalties from middle age.
+- **[Agonize](agonize.md)**: Pain encourages an outsider to obey you.
+- **[Control Summoned Creature](control-summoned-creature.md)**: Direct a summoned monster as if you had summoned it.
+- **[Curse of Magic Negation](curse-of-magic-negation.md)**: Target gains the negated spellblight.
+- **[Darkvision, Greater](darkvision-greater.md)**: See 120 ft. in total darkness.
+- **[Daze, Mass](daze-mass.md)**: As daze, but affecting multiple creatures.
+- **[False Life, Greater](false-life-greater.md)**: Gain 2d10 temporary hp + 1/level.
+- **[Familiar Melding](familiar-melding.md)**: Possess your familiar.
+- **[Fleshworm Infestation](fleshworm-infestation.md)**: Worms deal hp and Dex damage.
+- **[Malfunction](malfunction.md)**: Construct behaves oddly for 1 round/level.
+- **[Malicious Spite](malicious-spite.md)**: Target is compelled to plot against another.
+- **[Monstrous Physique II](monstrous-physique-ii.md)**: Take the form and some of the powers of a Tiny or Large monstrous humanoid.
+- **[Overwhelming Grief](overwhelming-grief.md)**: Grieving target can take no actions and is denied its Dex bonus.
+- **[Ride the Waves](ride-the-waves.md)**: Target can breathe water and swim.
+- **[Shadow Step](shadow-step.md)**: Teleport from one shadow to another.
+- **[Simulacrum, Lesser](simulacrum-lesser.md)**: Creates a double of a weak creature.
+- **[Symbol of Revelation](symbol-of-revelation.md)**: Triggered symbol reveals illusions.
+- **[Symbol of Slowing](symbol-of-slowing.md)**: Triggered rune slows creatures.
+- **[Terrible Remorse](terrible-remorse.md)**: Creature is compelled to harm itself.
+- **[Touch of Slime](touch-of-slime.md)**: Touch infests a target with green slime.
+- **[Vermin Shape I](vermin-shape-i.md)**: Take the form and some of the powers of a Small or Medium vermin.
+- **[Vitriolic Mist](vitriolic-mist.md)**: As fire shield, except acid damage.
+- **[Volcanic Storm](volcanic-storm.md)**: Hot rocks deal 5d6 damage.
+
+### 5th-Level Sorcerer/Wizard Spells
+
+- **[Acidic Spray](acidic-spray.md)**: 1d6/level acid damage plus 1 round of acid.
+- **[Astral Projection, Lesser](astral-projection-lesser.md)**: Limited astral travel.
+- **[Corrosive Consumption](corrosive-consumption.md)**: Acidic patch damages an opponent.
+- **[Curse of Disgust](curse-of-disgust.md)**: Target is sickened when viewing a trigger.
+- **[Echolocation](echolocation.md)**: Sonic sense gives you blindsight 40 ft.
+- **[Fickle Winds](fickle-winds.md)**: Wind walls selectively block attacks.
+- **[Icy Prison](icy-prison.md)**: Thick ice holds and damages the target.
+- **[Lightning Arc](lightning-arc.md)**: Targets in a line take 1d6 electricity/level.
+- **[Monstrous Physique III](monstrous-physique-iii.md)**: Take the form and some of the powers of a Diminutive or Huge monstrous humanoid.
+- **[Plague Carrier](plague-carrier.md)**: Target’s attacks carry filth fever.
+- **[Possess Object](possess-object.md)**: Possess and animate one object.
+- **[Rapid Repair](rapid-repair.md)**: Construct gains fast healing 5.
+- **[Smug Narcissism](smug-narcissism.md)**: Target is distracted by its sense of self.
+- **[Sonic Thrust](sonic-thrust.md)**: Sound moves targets away from you.
+- **[Soothe Construct](soothe-construct.md)**: Reduce the berserk chance of a construct.
+- **[Symbol of Scrying](symbol-of-scrying.md)**: Triggered rune activates scrying sensor.
+- **[Unbreakable Construct](unbreakable-construct.md)**: Increase construct hardness or DR.
+- **[Undead Anatomy II](undead-anatomy-ii.md)**: Take the form and some of the powers of a Tiny or Large undead.
+- **[Vermin Shape II](vermin-shape-ii.md)**: As vermin shape, but Tiny or Large.
+- **[Wall of Sound](wall-of-sound.md)**: Sonic wall def lects and damages creatures.
+
+### 6th-Level Sorcerer/Wizard Spells
+
+- **[Age Resistance](age-resistance.md)**: Ignore penalties from old age.
+- **[Battlemind Link](battlemind-link.md)**: You and an ally gain attack and AC bonuses.
+- **[Cold Ice Strike](cold-ice-strike.md)**: Cone of ice slivers deals 1d6 cold/level.
+- **[Conjure Black Pudding](conjure-black-pudding.md)**: Summon a black pudding.
+- **[Contagion, Greater](contagion-greater.md)**: Infect a subject with a magical disease.
+- **[Curse, Major](curse-major.md)**: As bestow curse, but harder to remove.
+- **[Envious Urge](envious-urge.md)**: Targets steal from or disarm others.
+- **[Ice Crystal Teleport](ice-crystal-teleport.md)**: Target is frozen, then teleported. Leashed Shackles : Target is restricted to a specific location.
+- **[Monstrous Physique IV](monstrous-physique-iv.md)**: As monstrous physique III, with more abilities.
+- **[Serenity](serenity.md)**: Peaceful feelings harm those attempting violence.
+- **[Symbol of Sealing](symbol-of-sealing.md)**: Create triggered wall of force.
+- **[Undead Anatomy III](undead-anatomy-iii.md)**: Take the form and some of the powers of a Diminutive or Huge undead.
+- **[Utter Contempt](utter-contempt.md)**: Target’s attitude worsens by two categories.
+- **[Vengeful Outrage](vengeful-outrage.md)**: Target is compelled to destroy one enemy.
+
+### 7th-Level Sorcerer/Wizard Spells
+
+- **[Age Resistance, Greater](age-resistance-greater.md)**: Ignore penalties from venerable age.
+- **[Caustic Eruption](caustic-eruption.md)**: Burst deals 1d6 acid/level and lingers.
+- **[Circle of Clarity](circle-of-clarity.md)**: Emanation hampers illusions and stealth.
+- **[Control Construct](control-construct.md)**: Take control of a construct.
+- **[Create Demiplane, Lesser](create-demiplane-lesser.md)**: Create your own demiplane.
+- **[Epidemic](epidemic.md)**: Infect a subject with a highly contagious disease.
+- **[Ice Body](ice-body.md)**: Your body becomes living ice.
+- **[Joyful Rapture](joyful-rapture.md)**: Negate harmful emotions.
+- **[Ki Shout](ki-shout.md)**: Target takes 1d6 sonic/level and is stunned. Lightning Rod: Absorb electrical attacks and gain immunity to electricity.
+- **[Lunar Veil](lunar-veil.md)**: Dispel light and revert lycanthropes.
+- **[Plague Storm](plague-storm.md)**: Cloud infects creatures like contagion.
+- **[Resonating Word](resonating-word.md)**: Target is damaged, staggered, and stunned.
+- **[Scouring Winds](scouring-winds.md)**: Winds block vision and deal 3d6 damage per round.
+- **[Temporary Resurrection](temporary-resurrection.md)**: Bring a creature to life for 24 hours, after which it dies again.
+- **[Waves of Ecstasy](waves-of-ecstasy.md)**: Pleasure stuns and staggers creatures.
+
+### 8th-Level Sorcerer/Wizard Spells
+
+- **[Call Construct](call-construct.md)**: Summon your construct to you.
+- **[Create Demiplane](create-demiplane.md)**: As lesser create demiplane, but larger and with planar traits.
+- **[Orb of the Void](orb-of-the-void.md)**: Sphere inf licts negative levels.
+- **[Prediction of Failure](prediction-of-failure.md)**: Target is permanently shaken and sickened, and may gain a spellblight.
+- **[Undead Anatomy IV](undead-anatomy-iv.md)**: As undead anatomy III, but with more abilities.
+
+### 9th-Level Sorcerer/Wizard Spells
+
+- **[Create Demiplane, Greater](create-demiplane-greater.md)**: As create demiplane, but larger and with more planar traits.
+- **[Cursed Earth](cursed-earth.md)**: Plants die, living creatures catch diseases, or dead creatures rise as zombies.
+- **[Icy Prison, Mass](icy-prison-mass.md)**: As icy prison, but it affects 1 creature/level.
+- **[Interplanetary Teleport](interplanetary-teleport.md)**: Teleport to another planet.
+- **[Overwhelming Presence](overwhelming-presence.md)**: Creatures bow before you as if you were divine.
+- **[Ride the Lightning](ride-the-lightning.md)**: Transform into electricity.
+- **[Symbol of Strife](symbol-of-strife.md)**: Triggered rune makes creatures attack.
+- **[Symbol of Vulnerability](symbol-of-vulnerability.md)**: Triggered rune gives penalties.
+- **[Transmute Blood to Acid](transmute-blood-to-acid.md)**: Target takes acid damage each round, and its attackers take acid damage.
+- **[Wooden Phalanx](wooden-phalanx.md)**: Creates 1d4+2 temporary wood golems to fight for you.

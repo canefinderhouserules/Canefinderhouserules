@@ -54,3 +54,35 @@
 - **[Mark of Justice](mark-of-justice.md)**: Designates action that triggers *curse* on subject.
 - **[Neutralize Poison](neutralize-poison.md)**: Immunizes subject against poison, detoxifies venom in or on subject.
 - **[Restoration](restoration.md)**: Restores level and ability score drains.
+
+## Ultimate Magic Spells
+
+New spells from *Ultimate Magic*. An M or F after a name marks a material or focus component not normally included in a spell component pouch.
+
+### 1st-Level Paladin Spells
+
+- **[Diagnose Disease](diagnose-disease.md)**: Detect and identify diseases.
+- **[Horn of Pursuit](horn-of-pursuit.md)**: Create three notes heard miles away.
+- **[Know the Enemy](know-the-enemy.md)**: Gain +10 on a monster Knowledge check.
+- **[Sanctify Corpse](sanctify-corpse.md)**: Prevent a corpse from becoming an undead.
+- **[Wartrain Mount](wartrain-mount.md)**: Animal gains the combat training general purpose.
+- **[Word of Resolve](word-of-resolve.md)**: Ally rerolls a save against charm or fear.
+
+### 2nd-Level Paladin Spells
+
+- **[Arrow of Law](arrow-of-law.md)**: Harm and possibly daze chaotic creatures.
+- **[Holy Shield](holy-shield.md)**: Lend your shield’s protection to another.
+- **[Vestment of the Champion](vestment-of-the-champion.md)**: Armor or shield gains a +1 enhancement per four levels.
+
+### 3rd-Level Paladin Spells
+
+- **[Archon’s Aura](archons-aura.md)**: Aura penalizes enemy attacks and AC.
+- **[Blade of Bright Victory](blade-of-bright-victory.md)**: Bonded weapon gains ghost touch.
+- **[Blessing of the Mole](blessing-of-the-mole.md)**: 1 ally/level gains darkvision and a +2 Stealth bonus.
+
+### 4th-Level Paladin Spells
+
+- **[Bestow Grace of the Champion](bestow-grace-of-the-champion.md)**: Target gains paladin abilities for 1 round/level.
+- **[Raise Animal Companion](raise-animal-companion.md)**: As raise dead, but on an animal.
+- **[Reprobation](reprobation.md)**: Marked target is shunned by your religion.
+- **[Symbol of Healing](symbol-of-healing.md)**: Triggered rune heals living creatures.

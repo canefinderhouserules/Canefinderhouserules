@@ -24,6 +24,18 @@ There are hundreds of spells available to spellcasters in the Pathfinder Rolepla
 
 - [Sorcerer/Wizard Spells](sorcerer-wizard-spells.md)
 
+- [Alchemist Spells](alchemist-spells.md)
+
+- [Antipaladin Spells](antipaladin-spells.md)
+
+- [Inquisitor Spells](inquisitor-spells.md)
+
+- [Magus Spells](magus-spells.md)
+
+- [Summoner Spells](summoner-spells.md)
+
+- [Witch Spells](witch-spells.md)
+
 ## Spell Descriptions
 
 The following spells are presented in alphabetical order, with the exception of those whose names begin with “greater,” “lesser,” or “mass” (see Order of Presentation above).
