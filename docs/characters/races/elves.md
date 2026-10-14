@@ -44,7 +44,7 @@ In addition, elves receive a +2 racial bonus on Spellcraft skill checks made to 
 
 The following racial traits might be selected instead of existing racial traits. Consult your GM before selecting any of these options.
 
-**Desert Runner**: Some elves thrive in the deepest deserts, forever roaming across burned and parched lands. Elves with this racial trait receive a +4 racial bonus on Constitution checks and Fortitude saves to avoid fatigue, Races 1 exhaustion, or ill effects from running, forced marches, starvation, thirst, or hot or cold environments. This racial trait replaces the elven magic racial trait.
+**Desert Runner**: Some elves thrive in the deepest deserts, forever roaming across burned and parched lands. Elves with this racial trait receive a +4 racial bonus on Constitution checks and Fortitude saves to avoid fatigue, exhaustion, or ill effects from running, forced marches, starvation, thirst, or hot or cold environments. This racial trait replaces the elven magic racial trait.
 
 **Dreamspeaker**: A few elves have the ability to tap into the power of sleep, dreams, and prescient reverie. Elves with this racial trait add +1 to saving throw DCs for spells of the divination school and sleep effects they cast. In addition, elves with a Charisma of 15 or higher may use dream once per day as a spell-like ability (caster level is equal to the elf’s character level). This racial trait replaces the elven immunities racial trait.
 

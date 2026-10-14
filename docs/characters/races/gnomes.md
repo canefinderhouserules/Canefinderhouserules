@@ -44,7 +44,7 @@ The following racial traits might be selected instead of existing racial traits.
 
 **Academician**: Some gnomes are more academically inclined than their kin. Gnomes with this racial trait gain a +2 bonus on any one Knowledge skill. This racial trait replaces the obsessive racial trait.
 
-**Eternal Hope**: Gnomes rarely lose hope and are always confident that even hopeless situations will work out. ### Races 1 Gnomes with this racial trait receive a +2 racial bonus on saving throws against fear and despair effects. Once per day, after rolling a 1 on a d20, the gnome may reroll and use the second result. This racial trait replaces the defensive training and hatred racial traits.
+**Eternal Hope**: Gnomes rarely lose hope and are always confident that even hopeless situations will work out. Gnomes with this racial trait receive a +2 racial bonus on saving throws against fear and despair effects. Once per day, after rolling a 1 on a d20, the gnome may reroll and use the second result. This racial trait replaces the defensive training and hatred racial traits.
 
 **Gift of Tongues**: Gnomes love languages and learning about those they meet. Gnomes with this racial trait gain a +1 bonus on Bluff and Diplomacy checks, and they learn one additional language every time they put a rank in the Linguistics skill. This racial trait replaces the defensive training and hatred racial traits.
 
