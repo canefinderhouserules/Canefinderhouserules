@@ -303,7 +303,7 @@ New spells from the *Advanced Player's Guide*. An M or F after a name marks a ma
 - **[Keen Senses](keen-senses.md)**: Gain +2 Perception and low-light vision.
 - **[Negate Aroma](negate-aroma.md)**: Subject cannot be tracked by scent.
 - **[Stone Fist](stone-fist.md)**: Your unarmed strikes are lethal.
-- **Touch of the Sea**: Swim speed becomes 30 ft.
+- **[Touch of the Sea](touch-of-the-sea.md)**: Swim speed becomes 30 ft.
 
 ### 2nd-Level Druid Spells
 
@@ -348,7 +348,7 @@ New spells from the *Advanced Player's Guide*. An M or F after a name marks a ma
 - **[River of Wind](river-of-wind.md)**: Creates wind that causes nonlethal damage and can knock down or push creatures.
 - **[Strong Jaw](strong-jaw.md)**: Natural attacks damage as two sizes bigger.
 - **[Thorn Body](thorn-body.md)**: Your attackers take 1d6 +1 damage/level.
-- **True Form**: Removes polymorph effects.
+- **[True Form](true-form.md)**: Removes polymorph effects.
 
 ### 5th-Level Druid Spells
 
@@ -367,19 +367,19 @@ New spells from the *Advanced Player's Guide*. An M or F after a name marks a ma
 ### 7th-Level Druid Spells
 
 - **[Rampart](rampart.md)**: Creates 5-ft.-thick earthen barrier.
-- **Vortex**: Creates a whirlpool in water.
+- **[Vortex](vortex.md)**: Creates a whirlpool in water.
 
 ### 8th-Level Druid Spells
 
 - **[Euphoric Tranquility](euphoric-tranquility.md)**: Makes a creature friendly.
 - **[Seamantle](seamantle.md)**: Sheathes you in protective water.
 - **[Stormbolts](stormbolts.md)**: 1d8 damage/level (max 20d8) to targets.
-- **Wall of Lava**: Wall damages foes that try to enter, periodically launches lava at nearby targets.
+- **[Wall of Lava](wall-of-lava.md)**: Wall damages foes that try to enter, periodically launches lava at nearby targets.
 
 ### 9th-Level Druid Spells
 
 - **[Clashing Rocks](clashing-rocks.md)**: 20d6 damage to target creature.
-- **Tsunami**: Huge wave damages and sweeps up all in its path.
-- **Winds of Vengeance**: You can fly and attack with wind.
-- **World Wave**: Earth or water moves you across distances and damages things not of the natural world.
+- **[Tsunami](tsunami.md)**: Huge wave damages and sweeps up all in its path.
+- **[Winds of Vengeance](winds-of-vengeance.md)**: You can fly and attack with wind.
+- **[World Wave](world-wave.md)**: Earth or water moves you across distances and damages things not of the natural world.
 

@@ -66,7 +66,7 @@ New spells from the *Advanced Player's Guide*. An M or F after a name marks a ma
 
 - **[Burst Bonds](burst-bonds.md)**: 1d6 damage/level (max 5d6) to restraints.
 - **[Tireless Pursuit](tireless-pursuit.md)**: Ignore fatigue while hustling.
-- **Wrath**: +1 attack and damage against target creature.
+- **[Wrath](wrath.md)**: +1 attack and damage against target creature.
 
 ### 2nd-Level Inquisitor Spells
 
@@ -80,7 +80,7 @@ New spells from the *Advanced Player's Guide*. An M or F after a name marks a ma
 - **[Honeyed Tongue](honeyed-tongue.md)**: Roll 2 dice when using Diplomacy, take higher roll.
 - **[Perceive Cues](perceive-cues.md)**: +5 Perception and Sense Motive 10 min./level.
 - **[Sacred Bond](sacred-bond.md)** (F): Cast touch healing spells from a distance.
-- **Weapon of Awe**: Weapon gets +2 on damage rolls.
+- **[Weapon of Awe](weapon-of-awe.md)**: Weapon gets +2 on damage rolls.
 
 ### 3rd-Level Inquisitor Spells
 
@@ -94,7 +94,7 @@ New spells from the *Advanced Player's Guide*. An M or F after a name marks a ma
 - **[Retribution](retribution.md)**: Recent attacker is afflicted with penalties.
 - **[Righteous Vigor](righteous-vigor.md)**: Boosts attack bonus with each hit.
 - **[Seek Thoughts](seek-thoughts.md)**: Detects thinking creatures’ thoughts.
-- **Ward the Faithful**: Creatures of same faith gain bonuses to AC and on saving throws.
+- **[Ward the Faithful](ward-the-faithful.md)**: Creatures of same faith gain bonuses to AC and on saving throws.
 
 ### 4th-Level Inquisitor Spells
 
@@ -114,7 +114,7 @@ New spells from the *Advanced Player's Guide*. An M or F after a name marks a ma
 - **[Castigate, Mass](castigate-mass.md)**: As castigate, but affects multiple creatures.
 - **[Ghostbane Dirge, Mass](ghostbane-dirge-mass.md)**: As ghostbane dirge, but affects multiple creatures.
 - **[Resounding Blow](resounding-blow.md)**: Melee attack deals 1d6 more damage.
-- **Unwilling Shield** (M): Subject shares wounds you receive.
+- **[Unwilling Shield](unwilling-shield.md)** (M): Subject shares wounds you receive.
 
 ### 6th-Level Inquisitor Spells
 

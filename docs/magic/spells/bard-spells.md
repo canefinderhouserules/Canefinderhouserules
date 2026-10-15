@@ -282,7 +282,7 @@ New spells from the *Advanced Player's Guide*. An M or F after a name marks a ma
 
 - **[Sift](sift.md)**: See area as though examining it.
 - **[Spark](spark.md)**: Ignites flammable objects.
-- **Unwitting Ally**: Subject is considered ally for 1 round.
+- **[Unwitting Ally](unwitting-ally.md)**: Subject is considered ally for 1 round.
 
 ### 1st-Level Bard Spells
 
@@ -299,8 +299,8 @@ New spells from the *Advanced Player's Guide*. An M or F after a name marks a ma
 - **[Share Language](share-language.md)**: Subject understands chosen language.
 - **[Solid Note](solid-note.md)**: Creates tangible music note.
 - **[Timely Inspiration](timely-inspiration.md)**: Gives bonus on failed check/attack.
-- **Touch of Gracelessness**: Subject loses 1d6 + 1 Dex/two levels and is prone to falling down.
-- **Vanish**: As invisibility for 1 round/level (5 max).
+- **[Touch of Gracelessness](touch-of-gracelessness.md)**: Subject loses 1d6 + 1 Dex/two levels and is prone to falling down.
+- **[Vanish](vanish.md)**: As invisibility for 1 round/level (5 max).
 
 ### 2nd-Level Bard Spells
 
@@ -313,7 +313,7 @@ New spells from the *Advanced Player's Guide*. An M or F after a name marks a ma
 - **[Ghostbane Dirge](ghostbane-dirge.md)**: Incorporeal creature takes half damage from nonmagical weapons.
 - **[Hidden Speech](hidden-speech.md)**: Gain +10 on Bluff to send secret messages.
 - **[Honeyed Tongue](honeyed-tongue.md)**: Roll 2 dice when using Diplomacy, take higher roll.
-- **Versatile Weapon**: Weapon bypasses some DR.
+- **[Versatile Weapon](versatile-weapon.md)**: Weapon bypasses some DR.
 
 ### 3rd-Level Bard Spells
 
@@ -335,8 +335,8 @@ New spells from the *Advanced Player's Guide*. An M or F after a name marks a ma
 - **[Discordant Blast](discordant-blast.md)**: 3d6 sonic damage in 10-ft. burst or 30-ft. cone can also bull rush creatures.
 - **[Ghostbane Dirge, Mass](ghostbane-dirge-mass.md)**: As ghostbane dirge, but affecting multiple creatures.
 - **[Heroic Finale](heroic-finale.md)**: Subject within range of your bardic performance can take an action.
-- **Treasure Stitching** (M):  Objects on cloth become embroidered.
-- **Wandering Star Motes**: Outlines subject, produces light.
+- **[Treasure Stitching](treasure-stitching.md)** (M):  Objects on cloth become embroidered.
+- **[Wandering Star Motes](wandering-star-motes.md)**: Outlines subject, produces light.
 
 ### 5th-Level Bard Spells
 
@@ -348,7 +348,7 @@ New spells from the *Advanced Player's Guide*. An M or F after a name marks a ma
 - **[Frozen Note](frozen-note.md)**: Paralyzes creatures listening to your song.
 - **[Phantasmal Web](phantasmal-web.md)**: Catches subjects in illusory web.
 - **[Stunning Finale](stunning-finale.md)**: Stuns 3 creatures for 1 round.
-- **Unwilling Shield** (M): Subject shares wounds you receive.
+- **[Unwilling Shield](unwilling-shield.md)** (M): Subject shares wounds you receive.
 
 ### 6th-Level Bard Spells
 

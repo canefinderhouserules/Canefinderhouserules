@@ -100,7 +100,7 @@ New spells from the *Advanced Player's Guide*. An M or F after a name marks a ma
 - **[Honeyed Tongue](honeyed-tongue.md)**: Roll 2 dice when using Diplomacy, take higher roll.
 - **[Knight's Calling](knights-calling.md)**: Forces target to move toward you and fight you.
 - **[Rally Point](rally-point.md)**: Square gives good creatures bonuses.
-- **Veil of Positive Energy**: +2 AC, +2 on saves vs. undead.
+- **[Veil of Positive Energy](veil-of-positive-energy.md)**: +2 AC, +2 on saves vs. undead.
 
 ### 2nd-Level Paladin Spells
 
@@ -115,8 +115,8 @@ New spells from the *Advanced Player's Guide*. An M or F after a name marks a ma
 - **[Righteous Vigor](righteous-vigor.md)**: Boosts attack bonus with each hit.
 - **[Sacred Bond](sacred-bond.md)** (F): Cast touch healing spells from a distance.
 - **[Saddle Surge](saddle-surge.md)**: Bonus damage for moving on mount.
-- **Wake of Light**: Magical trail aids good creatures, hinders evil ones.
-- **Weapon of Awe**: Weapon gets +2 on damage rolls.
+- **[Wake of Light](wake-of-light.md)**: Magical trail aids good creatures, hinders evil ones.
+- **[Weapon of Awe](weapon-of-awe.md)**: Weapon gets +2 on damage rolls.
 
 ### 3rd-Level Paladin Spells
 
@@ -126,7 +126,7 @@ New spells from the *Advanced Player's Guide*. An M or F after a name marks a ma
 - **[Holy Whisper](holy-whisper.md)**: Whisper sickens evil creatures, gives good creatures bonuses.
 - **[Marks of Forbiddance](marks-of-forbiddance.md)**: Makes 2 creatures pass Will saves in order to attack each other.
 - **[Sanctify Armor](sanctify-armor.md)**: +1 AC/four levels (max +5).
-- **Wrathful Mantle**: Subject shines and gets +1/four levels on all saves.
+- **[Wrathful Mantle](wrathful-mantle.md)**: Subject shines and gets +1/four levels on all saves.
 
 ### 4th-Level Paladin Spells
 

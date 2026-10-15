@@ -134,7 +134,7 @@ New spells from the *Advanced Player's Guide*. An M or F after a name marks a ma
 - **[Protective Spirit](protective-spirit.md)**: Protects from attacks of opportunity.
 - **[Slipstream](slipstream.md)**: Wave boosts creature’s speed.
 - **[Stone Call](stone-call.md)**: 2d6 damage to all creatures in area.
-- **Versatile Weapon**: Weapon bypasses some DR.
+- **[Versatile Weapon](versatile-weapon.md)**: Weapon bypasses some DR.
 
 ### 3rd-Level Ranger Spells
 
@@ -146,7 +146,7 @@ New spells from the *Advanced Player's Guide*. An M or F after a name marks a ma
 - **[Life Bubble](life-bubble.md)**: Protects creatures from sustained environmental effects.
 - **[Strong Jaw](strong-jaw.md)**: Natural attacks damage as two sizes bigger.
 - **[Tireless Pursuers](tireless-pursuers.md)**: As tireless pursuit, but affects many targets rather than one.
-- **Venomous Bolt**: Arrow or bolt poisons target.
+- **[Venomous Bolt](venomous-bolt.md)**: Arrow or bolt poisons target.
 
 ### 4th-Level Ranger Spells
 

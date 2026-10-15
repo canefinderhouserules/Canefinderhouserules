@@ -48,7 +48,7 @@ New spells from the *Advanced Player's Guide*. An M or F after a name marks a ma
 
 - **[Ant Haul](ant-haul.md)**: Triples carrying capacity of a creature.
 - **[Rejuvenate Eidolon, Lesser](rejuvenate-eidolon-lesser.md)**: Eidolon cured 1d10 damage +1/level (max +5).
-- **Unfetter**: Remove distance restriction on eidolon.
+- **[Unfetter](unfetter.md)**: Remove distance restriction on eidolon.
 
 ### 2nd-Level Summoner Spells
 
@@ -71,7 +71,7 @@ New spells from the *Advanced Player's Guide*. An M or F after a name marks a ma
 - **[Acid Pit](acid-pit.md)** (M): Creates a pit with acid at the bottom.
 - **[Evolution Surge, Greater](evolution-surge-greater.md)**: Grants eidolon two evolutions with a total of 6 evolution points.
 - **[Purified Calling](purified-calling.md)**: Eidolon summoned is fully healed.
-- **Transmogrify** (M):  Change your eidolon's evolutions.
+- **[Transmogrify](transmogrify.md)** (M):  Change your eidolon's evolutions.
 
 ### 5th-Level Summoner Spells
 

@@ -383,7 +383,7 @@ New spells from the *Advanced Player's Guide*. An M or F after a name marks a ma
 - **[Instant Armor](instant-armor.md)**: Summon armor temporarily replacing your current attire.
 - **[Oracle's Burden](oracles-burden.md)**: (Oracle only.) Creature is affected by negative oracle's curse effects.
 - **[Share Language](share-language.md)**: Subject understands chosen language.
-- **Weapon of Awe**: Weapon gets +2 on damage rolls.
+- **[Weapon of Awe](weapon-of-awe.md)**: Weapon gets +2 on damage rolls.
 
 ### 3rd-Level Cleric Spells
 
@@ -394,7 +394,7 @@ New spells from the *Advanced Player's Guide*. An M or F after a name marks a ma
 - **[Guiding Star](guiding-star.md)**: Know approximate distance from where you cast this spell.
 - **[Nap Stack](nap-stack.md)** (M): Subjects only need 2 hours for a night’s sleep, and can sleep even longer for more benefits.
 - **[Sacred Bond](sacred-bond.md)** (F): Cast touch healing spells from a distance.
-- **Wrathful Mantle**: Subject gets +1/four levels on all saves.
+- **[Wrathful Mantle](wrathful-mantle.md)**: Subject gets +1/four levels on all saves.
 
 ### 4th-Level Cleric Spells
 
@@ -410,7 +410,7 @@ New spells from the *Advanced Player's Guide*. An M or F after a name marks a ma
 - **[Life Bubble](life-bubble.md)**: Protects creatures from environment.
 - **[Pillar of Life](pillar-of-life.md)**: Created pillar heals 2d8 + 1/level (max +20).
 - **[Snake Staff](snake-staff.md)**: Transforms staff or other wood into snakes to fight for you.
-- **Treasure Stitching** (M):  Objects on cloth become embroidered.
+- **[Treasure Stitching](treasure-stitching.md)** (M):  Objects on cloth become embroidered.
 
 ### 6th-Level Cleric Spells
 
@@ -424,5 +424,5 @@ New spells from the *Advanced Player's Guide*. An M or F after a name marks a ma
 
 ### 9th-Level Cleric Spells
 
-- **Winds of Vengeance**: Grants flight; attack with wind.
+- **[Winds of Vengeance](winds-of-vengeance.md)**: Grants flight; attack with wind.
 

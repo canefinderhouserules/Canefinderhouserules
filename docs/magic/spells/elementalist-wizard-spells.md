@@ -43,7 +43,7 @@ Spells available to the elementalist wizard, who specializes in one of the four 
 
 - **[Hydraulic Push](hydraulic-push.md)**: Sudden and powerful wave of water bull rushes an enemy.
 - **[Obscuring Mist](obscuring-mist.md)**: Fog surrounds you.
-- **Touch of the Sea**: Swim speed becomes 30 ft.
+- **[Touch of the Sea](touch-of-the-sea.md)**: Swim speed becomes 30 ft.
 
 ## 2nd-Level Elementalist Wizard Spells
 
@@ -238,7 +238,7 @@ Spells available to the elementalist wizard, who specializes in one of the four 
 ### Water
 
 - **[Control Weather](control-weather.md)**: Changes weather in local area.
-- **Vortex**: Creates a whirlpool in water.
+- **[Vortex](vortex.md)**: Creates a whirlpool in water.
 
 ### All
 
@@ -256,12 +256,12 @@ Spells available to the elementalist wizard, who specializes in one of the four 
 ### Earth
 
 - **[Iron Body](iron-body.md)**: Your body becomes living iron.
-- **Wall of Lava**: Wall damages foes that try to enter, periodically launches lava at nearby targets.
+- **[Wall of Lava](wall-of-lava.md)**: Wall damages foes that try to enter, periodically launches lava at nearby targets.
 
 ### Fire
 
 - **[Incendiary Cloud](incendiary-cloud.md)**: Deals 6d6 fire damage/round.
-- **Wall of Lava**: Wall damages foes that try to enter, periodically launches lava at nearby targets.
+- **[Wall of Lava](wall-of-lava.md)**: Wall damages foes that try to enter, periodically launches lava at nearby targets.
 
 ### Water
 
@@ -279,12 +279,12 @@ Spells available to the elementalist wizard, who specializes in one of the four 
 ### Air
 
 - **[Suffocation, Mass](suffocation-mass.md)**: One creature/level suffocates.
-- **Winds of Vengeance**: Gives you the ability to fly and attack with wind.
+- **[Winds of Vengeance](winds-of-vengeance.md)**: Gives you the ability to fly and attack with wind.
 
 ### Earth
 
 - **[Clashing Rocks](clashing-rocks.md)**: 20d6 damage to target creature.
-- **World Wave**: Earth moves you across distances.
+- **[World Wave](world-wave.md)**: Earth moves you across distances.
 
 ### Fire
 
@@ -293,8 +293,8 @@ Spells available to the elementalist wizard, who specializes in one of the four 
 
 ### Water
 
-- **Tsunami**: Wave damages and sweeps up all in its path.
-- **World Wave**: Earth moves you across distances.
+- **[Tsunami](tsunami.md)**: Wave damages and sweeps up all in its path.
+- **[World Wave](world-wave.md)**: Earth moves you across distances.
 
 ### All
 

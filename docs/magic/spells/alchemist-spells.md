@@ -62,7 +62,7 @@ New spells from the *Advanced Player's Guide*. An M or F after a name marks a ma
 - **[Keen Senses](keen-senses.md)**: Gain +2 Perception and low-light vision.
 - **[Negate Aroma](negate-aroma.md)**: Subject cannot be tracked by scent.
 - **[Stone Fist](stone-fist.md)**: Your unarmed strikes are lethal.
-- **Touch of the Sea**: Swim speed becomes 30 ft.
+- **[Touch of the Sea](touch-of-the-sea.md)**: Swim speed becomes 30 ft.
 
 ### 2nd-Level Alchemist Spells
 
@@ -70,8 +70,8 @@ New spells from the *Advanced Player's Guide*. An M or F after a name marks a ma
 - **[Elemental Touch](elemental-touch.md)**: Gain energy damage touch attack.
 - **[Fire Breath](fire-breath.md)**: Exhale a cone of flame at will.
 - **[Perceive Cues](perceive-cues.md)**: +5 Perception and Sense Motive 10 min./level.
-- **Transmute Potion to Poison**: Spit poison onto weapon after drinking potion.
-- **Vomit Swarm**: Produces a spider swarm that fights for you.
+- **[Transmute Potion to Poison](transmute-potion-to-poison.md)**: Spit poison onto weapon after drinking potion.
+- **[Vomit Swarm](vomit-swarm.md)**: Produces a spider swarm that fights for you.
 
 ### 3rd-Level Alchemist Spells
 
@@ -88,7 +88,7 @@ New spells from the *Advanced Player's Guide*. An M or F after a name marks a ma
 - **[Detonate](detonate.md)** (M): Inflicts 1d8/level energy damage to all creatures within 15 ft.
 - **[Dragon's Breath](dragons-breath.md)**: Gives you a dragon’s breath weapon.
 - **[Fluid Form](fluid-form.md)**: Gain DR 10/slashing, increases reach 10 ft., and breathe water.
-- **Universal Formula** (M): Acts as any extract 3rd level or lower.
+- **[Universal Formula](universal-formula.md)** (M): Acts as any extract 3rd level or lower.
 
 ### 5th-Level Alchemist Spells
 
@@ -99,5 +99,5 @@ New spells from the *Advanced Player's Guide*. An M or F after a name marks a ma
 
 ### 6th-Level Alchemist Spells
 
-- **Twin Form**: Creates controllable duplicate of you.
+- **[Twin Form](twin-form.md)**: Creates controllable duplicate of you.
 

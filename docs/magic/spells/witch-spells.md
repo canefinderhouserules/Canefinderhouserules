@@ -155,7 +155,7 @@ New spells from the *Advanced Player's Guide*. An M or F after a name marks a ma
 - **[Hidden Speech](hidden-speech.md)**: Gain +10 on Bluff to send secret messages.
 - **[Perceive Cues](perceive-cues.md)**: +5 Perception and Sense Motive 10 min./level.
 - **[Pox Pustules](pox-pustules.md)**: Subject is sickened and has –4 Dex.
-- **Vomit Swarm**: Produces a spider swarm that fights for you.
+- **[Vomit Swarm](vomit-swarm.md)**: Produces a spider swarm that fights for you.
 
 ### 3rd-Level Witch Spells
 
@@ -166,7 +166,7 @@ New spells from the *Advanced Player's Guide*. An M or F after a name marks a ma
 - **[Screech](screech.md)**: Foes provoke attacks of opportunity.
 - **[Seek Thoughts](seek-thoughts.md)**: Detects thinking creatures’ thoughts.
 - **[Share Senses](share-senses.md)**: Perceive the world around your familiar.
-- **Twilight Knife**: Floating knife attacks with you.
+- **[Twilight Knife](twilight-knife.md)**: Floating knife attacks with you.
 
 ### 4th-Level Witch Spells
 
@@ -174,7 +174,7 @@ New spells from the *Advanced Player's Guide*. An M or F after a name marks a ma
 - **[Sleepwalk](sleepwalk.md)** (M): Causes creature to move while asleep.
 - **[Spite](spite.md)** (M): Inflict touch spell upon creature that attacks you.
 - **[Threefold Aspect](threefold-aspect.md)** (F): Appear older or younger.
-- **Wandering Star Motes**: Outlines subject and produces light as a sunrod.
+- **[Wandering Star Motes](wandering-star-motes.md)**: Outlines subject and produces light as a sunrod.
 
 ### 5th-Level Witch Spells
 
@@ -188,7 +188,7 @@ New spells from the *Advanced Player's Guide*. An M or F after a name marks a ma
 - **[Cloak of Dreams](cloak-of-dreams.md)**: Causes living creatures within 5 ft. to fall asleep.
 - **[Fester, Mass](fester-mass.md)**: As fester, but affecting multiple targets.
 - **[Swarm Skin](swarm-skin.md)**: Turns your body into a swarm of vermin.
-- **Unwilling Shield** (M): Subject shares wounds you receive.
+- **[Unwilling Shield](unwilling-shield.md)** (M): Subject shares wounds you receive.
 
 ### 8th-Level Witch Spells
 

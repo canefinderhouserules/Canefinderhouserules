@@ -873,9 +873,9 @@ New spells from the *Advanced Player's Guide*. An M or F after a name marks a ma
 - **[Sculpt Corpse](sculpt-corpse.md)**: Makes corpse look like another creature.
 - **[Stone Fist](stone-fist.md)**: Your unarmed strikes are lethal.
 - **[Stumble Gap](stumble-gap.md)** (F): Small hole trips creatures.
-- **Touch of Gracelessness**: Subject loses 1d6 + 1 Dex/two levels and is prone to falling down.
-- **Touch of the Sea**: Swim speed becomes 30 ft.
-- **Vanish**: As invisibility for 1 round/level (5 max).
+- **[Touch of Gracelessness](touch-of-gracelessness.md)**: Subject loses 1d6 + 1 Dex/two levels and is prone to falling down.
+- **[Touch of the Sea](touch-of-the-sea.md)**: Swim speed becomes 30 ft.
+- **[Vanish](vanish.md)**: As invisibility for 1 round/level (5 max).
 
 ### 2nd-Level Sorcerer/Wizard Spells
 
@@ -908,8 +908,8 @@ New spells from the *Advanced Player's Guide*. An M or F after a name marks a ma
 - **[Seek Thoughts](seek-thoughts.md)**: Detects thinking creatures’ thoughts.
 - **[Shifting Sand](shifting-sand.md)**: Creates difficult terrain and erases tracks, can carry along some creatures and objects.
 - **[Spiked Pit](spiked-pit.md)**: As create pit, but filled with spikes.
-- **Twilight Knife**: Floating knife attacks with you.
-- **Versatile Weapon**: Weapon bypasses some DR.
+- **[Twilight Knife](twilight-knife.md)**: Floating knife attacks with you.
+- **[Versatile Weapon](versatile-weapon.md)**: Weapon bypasses some DR.
 
 ### 4th-Level Sorcerer/Wizard Spells
 
@@ -923,8 +923,8 @@ New spells from the *Advanced Player's Guide*. An M or F after a name marks a ma
 - **[River of Wind](river-of-wind.md)**: A stream of wind causes nonlethal damage and can knock down or push creatures.
 - **[Shadow Projection](shadow-projection.md)**: Temporarily become a shadow.
 - **[Share Senses](share-senses.md)**: See/hear/smell what your familiar is.
-- **True Form**: Removes polymorph effects.
-- **Wandering Star Motes**: Outlines subject and produces light as a sunrod.
+- **[True Form](true-form.md)**: Removes polymorph effects.
+- **[Wandering Star Motes](wandering-star-motes.md)**: Outlines subject and produces light as a sunrod.
 
 ### 5th-Level Sorcerer/Wizard Spells
 
@@ -936,7 +936,7 @@ New spells from the *Advanced Player's Guide*. An M or F after a name marks a ma
 - **[Phantasmal Web](phantasmal-web.md)**: Catches subjects in illusory web.
 - **[Planar Adaptation](planar-adaptation.md)**: Resist harmful effects of other plane.
 - **[Suffocation](suffocation.md)**: Target quickly suffocates to death.
-- **Treasure Stitching** (M):  Objects on cloth become embroidered.
+- **[Treasure Stitching](treasure-stitching.md)** (M):  Objects on cloth become embroidered.
 
 ### 6th-Level Sorcerer/Wizard Spells
 
@@ -956,22 +956,22 @@ New spells from the *Advanced Player's Guide*. An M or F after a name marks a ma
 - **[Phantasmal Revenge](phantasmal-revenge.md)**: Ghost from corpse hunts killer.
 - **[Planar Adaptation, Mass](planar-adaptation-mass.md)**: As planar adaptation, but affects multiple creatures.
 - **[Rampart](rampart.md)**: Creates 5-ft.-thick earthen barrier.
-- **Vortex**: Creates a whirlpool in water.
+- **[Vortex](vortex.md)**: Creates a whirlpool in water.
 
 ### 8th-Level Sorcerer/Wizard Spells
 
 - **[Euphoric Tranquility](euphoric-tranquility.md)**: Makes a creature friendly.
 - **[Seamantle](seamantle.md)**: Sheathes you in protective water.
 - **[Stormbolts](stormbolts.md)**: 1d8 damage/level (max 20d8) to targets.
-- **Wall of Lava**: Wall damages foes that try to enter, periodically launches lava at nearby targets.
+- **[Wall of Lava](wall-of-lava.md)**: Wall damages foes that try to enter, periodically launches lava at nearby targets.
 
 ### 9th-Level Sorcerer/Wizard Spells
 
 - **[Clashing Rocks](clashing-rocks.md)**: 20d6 damage to target creature.
 - **[Fiery Body](fiery-body.md)**: You gain various fire-related powers.
 - **[Suffocation, Mass](suffocation-mass.md)**: One creature/level suffocates to death.
-- **Tsunami**: Huge wave damages and sweeps up all in its path.
-- **Wall of Suppression** (M): Creates wall that disables magic.
-- **Winds of Vengeance**: Gives you the ability to fly and attack with wind.
-- **World Wave**: Earth moves you across distances.
+- **[Tsunami](tsunami.md)**: Huge wave damages and sweeps up all in its path.
+- **[Wall of Suppression](wall-of-suppression.md)** (M): Creates wall that disables magic.
+- **[Winds of Vengeance](winds-of-vengeance.md)**: Gives you the ability to fly and attack with wind.
+- **[World Wave](world-wave.md)**: Earth moves you across distances.
 
