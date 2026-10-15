@@ -100,6 +100,12 @@ Penetrating Strike (2 ki points) quivering palm (monk ability, 2 ki points) stra
 
 Deafening Critical (3 ki points) empty body (monk ability, 3 ki points) Greater Penetrating Strike (3 ki points) perfect self (monk ability, level 20) Tiring Critical (3 ki points)
 
+## Advanced Player's Guide Archetypes
+
+The themes and alternate class features presented below introduce not only variations in fighting techniques, but alternate philosophies for monks seeking perfection.
+
+Bonus feats marked with asterisks (*) are found in the feat section of the Advanced Player's Guide.
+
 ## Drunken Master
 
 Most monks lead lives of moderation and quiet contemplation. But the drunken master finds perfection through excess. Powered by strong wine, he uses his intoxication to reach a state where his ki is more potent, if somewhat fleeting. A drunken master has the following class features.
