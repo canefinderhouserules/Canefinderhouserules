@@ -532,3 +532,32 @@ Feats from the *Advanced Player's Guide*. Each name links to its full descriptio
 | [Shield Wall](shield-wall.md) | Combat, Teamwork | Shield Proficiency |
 | [Shielded Caster](shielded-caster.md) | Teamwork | — |
 | [Sickening Spell](sickening-spell.md) | Metamagic | — |
+| [Smash](smash.md) | Combat | Power Attack, half-orc |
+| [Smell Fear](smell-fear.md) | — | Keen Scent, half-orc or orc |
+| [Sociable](sociable.md) | — | Cha 13, half-elf |
+| [Spell Perfection](spell-perfection.md) | — | Spellcraft 15 ranks, at least three metamagic feats |
+| [Spider Step](spider-step.md) | — | Acrobatics 6 ranks, Climb 6 ranks, monk level 6th |
+| [Stabbing Shot](stabbing-shot.md) | Combat | Rapid Shot, elf |
+| [Steel Soul](steel-soul.md) | — | Dwarf, hardy racial trait |
+| [Step Up and Strike](step-up-and-strike.md) | Combat | Dex 13, Following Step, Step Up, base attack bonus +6 |
+| [Stone-Faced](stone-faced.md) | — | Dwarf |
+| [Stone Sense](stone-sense.md) | — | Improved Stonecunning, Perception 10 ranks |
+| [Stone Singer](stone-singer.md) | — | Cha 13, bardic performance class feature, dwarf |
+| [Stunning Assault](stunning-assault.md) | Combat | Str 13, Power Attack, base attack bonus +16 |
+| [Summoner’s Call](summoner-s-call.md) | — | Eidolon class feature |
+| [Sundering Strike](sundering-strike.md) | Combat | Str 13, Improved Sunder, Power Attack, base attack bonus +9 |
+| [Swift Aid](swift-aid.md) | Combat | Int 13, Combat Expertise, base attack bonus +6 |
+| [Taunt](taunt.md) | — | Cha 13, Small size or smaller |
+| [Team Up](team-up.md) | Combat | Int 13, Combat Expertise, Gang Up, base attack bonus +6 |
+| [Teleport Tactician](teleport-tactician.md) | Combat | Combat Reflexes, Disruptive, Spellbreaker |
+| [Tenacious Transmutation](tenacious-transmutation.md) | — | Spell Focus (transmutation) |
+| [Thundering Spell](thundering-spell.md) | Metamagic | — |
+| [Touch of Serenity](touch-of-serenity.md) | Combat | Wis 18, Improved Unarmed Strike, base attack bonus +8 |
+| [Trick Riding](trick-riding.md) | Combat | Ride 9 ranks, Mounted Combat |
+| [Tripping Strike](tripping-strike.md) | Combat | Int 13, Combat Expertise, Improved Trip, base attack bonus +9 |
+| [Under and Over](under-and-over.md) | Combat | Agile Maneuvers, Small size or smaller |
+| [Underfoot](underfoot.md) | Combat | Dodge, Mobility, Small size or smaller |
+| [Vermin Heart](vermin-heart.md) | — | Wild empathy class feature |
+| [War Singer](war-singer.md) | — | Cha 13, bardic performance class feature, half-orc or orc |
+| [Well-Prepared](well-prepared.md) | — | Halfling |
+| [Sidestep](sidestep.md) | Combat | Dex 13, Dodge, Mobility |
