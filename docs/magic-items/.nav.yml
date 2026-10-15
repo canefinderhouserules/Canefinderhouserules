@@ -1,14 +1,19 @@
 nav:
   - index.md
   - Armor and Shields: armor.md
+  - Armor and Shields (APG): armor-apg.md
   - Specific Armors and Shields: armor-specific.md
   - Weapons: weapons.md
+  - Weapons (APG): weapons-apg.md
   - Specific Weapons: weapons-specific.md
   - Potions and Oils: potions.md
   - Rings: rings.md
+  - Rings (APG): rings-apg.md
   - Rods: rods.md
+  - Rods (APG): rods-apg.md
   - Scrolls: scrolls.md
   - Staves: staves.md
+  - Staves (APG): staves-apg.md
   - Wands: wands.md
   - Wondrous Items: wondrous-items
   - Intelligent Items: intelligent-items.md
