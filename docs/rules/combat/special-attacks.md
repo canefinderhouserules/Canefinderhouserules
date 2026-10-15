@@ -34,7 +34,7 @@ Even if you have extra attacks, such as from having a high enough base attack bo
 
 ## Combat Maneuvers
 
-During combat, you can attempt to perform a number of maneuvers that can hinder or even cripple your foe, including bull rush, disarm, grapple, overrun, sunder, and trip. Although these maneuvers have vastly different results, they all use a similar mechanic to determine success.
+During combat, you can attempt to perform a number of maneuvers that can hinder or even cripple your foe, including bull rush, dirty trick, disarm, drag, grapple, overrun, reposition, steal, sunder, and trip. Although these maneuvers have vastly different results, they all use a similar mechanic to determine success.
 
 **Combat Maneuver Bonus**: Each character and creature has a Combat Maneuver Bonus (or CMB) that represents its skill at performing combat maneuvers. A creature’s CMB is determined using the following formula:
 
@@ -64,11 +64,27 @@ If your attack is successful, your target is pushed back 5 feet. For every 5 by 
 
 An enemy being moved by a bull rush does not provoke an attack of opportunity because of the movement unless you possess the Greater Bull Rush feat. You cannot bull rush a creature into a square that is occupied by a solid object or obstacle. If there is another creature in the way of your bull rush, you must immediately make a combat maneuver check to bull rush that creature. You take a –4 penalty on this check for each creature being pushed beyond the first. If you are successful, you can continue to push the creatures a distance equal to the lesser result. For example, if a fighter bull rushes a goblin for a total of 15 feet, but there is another goblin 5 feet behind the first, he must make another combat maneuver check against the second goblin after having pushed the first 5 feet. If his check reveals that he can push the second goblin a total of 20 feet, he can continue to push both goblins another 10 feet (since the first goblin will have moved a total of 15 feet).
 
+### Dirty Trick
+
+You can attempt to hinder a foe in melee as a standard action. This maneuver covers any sort of situational attack that imposes a penalty on a foe for a short period of time. Examples include kicking sand into an opponent’s face to blind him for 1 round, pulling down an enemy’s pants to halve his speed, or hitting a foe in a sensitive spot to make him sickened for a round. The GM is the arbiter of what can be accomplished with this maneuver, but it cannot be used to impose a permanent penalty, and the results can be undone if the target spends a move action. If you do not have the Improved Dirty Trick feat or a similar ability, attempting a dirty trick provokes an attack of opportunity from the target of your maneuver.
+
+If your attack is successful, the target takes a penalty. The penalty is limited to one of the following conditions: blinded, dazzled, deafened, entangled, shaken, or sickened. This condition lasts for 1 round. For every 5 by which your attack exceeds your opponent’s CMD, the penalty lasts 1 additional round. This penalty can usually be removed if the target spends a move action. If you possess the Greater Dirty Trick feat, the penalty lasts for 1d4 rounds, plus 1 round for every 5 by which your attack exceeds your opponent’s CMD. In addition, removing the condition requires the target to spend a standard action.
+
 ### Disarm
 
 You can attempt to disarm your opponent in place of a melee attack. If you do not have the Improved Disarm feat, or a similar ability, attempting to disarm a foe provokes an attack of opportunity from the target of your maneuver. Attempting to disarm a foe while unarmed imposes a –4 penalty on the attack.
 
 If your attack is successful, your target drops one item it is carrying of your choice (even if the item is wielded with two hands). If your attack exceeds the CMD of the target by 10 or more, the target drops the items it is carrying in both hands (maximum two items if the target has more than two hands). If your attack fails by 10 or more, you drop the weapon that you were using to attempt the disarm. If you successfully disarm your opponent without using a weapon, you may automatically pick up the item dropped.
+
+### Drag
+
+You can attempt to drag a foe as a standard action. You can only drag an opponent who is no more than one size category larger than you. The aim of this maneuver is to drag a foe in a straight line behind you without doing any harm. If you do not have the Improved Drag feat or a similar ability, initiating a drag provokes an attack of opportunity from the target of your maneuver.
+
+If your attack is successful, both you and your target are moved 5 feet back, with your opponent occupying your original space and you in the space behind that in a straight line. For every 5 by which your attack exceeds your opponent’s CMD, you can drag the target back an additional 5 feet. You must be able to move with the target to perform this maneuver. If you do not have enough movement, the drag goes to the maximum amount of movement available to you and ends.
+
+An enemy being moved by a drag does not provoke an attack of opportunity because of the movement unless you possess the Greater Drag feat. You cannot move a creature into a square that is occupied by a solid object or obstacle. If there is another creature in the way of your movement, the drag ends adjacent to that creature.
+
+**Stability**: Some characters or types of creatures prove particularly sure-footed, making them more difficult to overthrow and move around the battlefield. Any racial ability that grants a bonus to CMD versus bull rush attempts grants the same bonus against drag combat maneuvers.
 
 ### Grapple
 
@@ -91,6 +107,22 @@ As a standard action, you can attempt to grapple a foe, hindering his combat opt
 As a standard action, taken during your move or as part of a charge, you can attempt to overrun your target, moving through its square. You can only overrun an opponent who is no more than one size category larger than you. If you do not have the Improved Overrun feat, or a similar ability, initiating an overrun provokes an attack of opportunity from the target of your maneuver. If your overrun attempt fails, you stop in the space directly in front of the opponent, or the nearest open space in front of the creature if there are other creatures occupying that space.
 
 When you attempt to overrun a target, it can choose to avoid you, allowing you to pass through its square without requiring an attack. If your target does not avoid you, make a combat maneuver check as normal. If your maneuver is successful, you move through the target’s space. If your attack exceeds your opponent’s CMD by 5 or more, you move through the target’s space and the target is knocked prone. If the target has more than two legs, add +2 to the DC of the combat maneuver attack roll for each additional leg it has.
+
+### Reposition
+
+You can attempt to reposition a foe to a different location as a standard action. You can only reposition an opponent that is no more than one size category larger than you. A reposition attempts to force a foe to move to a different position in relation to your location without doing any harm. If you do not have the Improved Reposition feat or a similar ability, attempting to reposition a foe provokes an attack of opportunity from the target of your maneuver. You cannot use this maneuver to move a foe into a space that is intrinsically dangerous, such as a pit or wall of fire.
+
+If your attack is successful, you may move your target 5 feet to a new location. For every 5 by which your attack exceeds your opponent’s CMD, you can move the target an additional 5 feet. The target must remain within your reach at all times during this movement, except for the final 5 feet of movement, which can be to a space adjacent to your reach.
+
+An enemy being moved by a reposition does not provoke an attack of opportunity because of the movement unless you possess the Greater Reposition feat. You cannot move a creature into a square that is occupied by a solid object or obstacle.
+
+### Steal
+
+You can attempt to take an item from a foe as a standard action. This maneuver can be used in melee to take any item that is neither held nor hidden in a bag or pack. You must have at least one hand free (holding nothing) to attempt this maneuver. You must select the item to be taken before the check is made. Items that are simply tucked into a belt or loosely attached (such as brooches or necklaces) are the easiest to take. Items fastened to a foe (such as cloaks, sheathed weapons, or pouches) are more difficult to take, and give the opponent a +5 bonus (or greater) to his CMD. Items that are closely worn (such as armor, backpacks, boots, clothing, or rings) cannot be taken with this maneuver. Items held in the hands (such as wielded weapons or wands) also cannot be taken with the steal maneuver—you must use the disarm combat maneuver instead. The GM is the final arbiter of what items can be taken. If you do not have the Improved Steal feat or a similar ability, attempting to steal an object provokes an attack of opportunity from the target of your maneuver.
+
+Although this maneuver can only be performed if the target is within your reach, you can use a whip to steal an object from a target within range with a –4 penalty on the attack roll.
+
+If your attack is successful, you may take one item from your opponent. You must be able to reach the item to be taken (subject to GM discretion). Your enemy is immediately aware of this theft unless you possess the Greater Steal feat.
 
 ### Sunder
 

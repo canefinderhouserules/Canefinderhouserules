@@ -69,6 +69,7 @@ New spells from the *Advanced Player's Guide*. An M or F after a name marks a ma
 - **[Alchemical Allocation](alchemical-allocation.md)**: Gain potion’s benefits without consuming it.
 - **[Elemental Touch](elemental-touch.md)**: Gain energy damage touch attack.
 - **[Fire Breath](fire-breath.md)**: Exhale a cone of flame at will.
+- **[Heroic Fortune](heroic-fortune.md)**: Grants the target 1 temporary hero point.
 - **[Perceive Cues](perceive-cues.md)**: +5 Perception and Sense Motive 10 min./level.
 - **[Transmute Potion to Poison](transmute-potion-to-poison.md)**: Spit poison onto weapon after drinking potion.
 - **[Vomit Swarm](vomit-swarm.md)**: Produces a spider swarm that fights for you.

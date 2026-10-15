@@ -123,6 +123,7 @@ New spells from the *Advanced Player's Guide*. An M or F after a name marks a ma
 - **[Divine Transfer](divine-transfer.md)**: Transfer hit points and give DR/evil to target creature.
 - **[Fire of Judgment](fire-of-judgment.md)**: Smited creature takes damage when it attacks.
 - **[Ghostbane Dirge, Mass](ghostbane-dirge-mass.md)**: As ghostbane dirge, but affects multiple creatures.
+- **[Heroic Fortune](heroic-fortune.md)**: Grants the target 1 temporary hero point.
 - **[Holy Whisper](holy-whisper.md)**: Whisper sickens evil creatures, gives good creatures bonuses.
 - **[Marks of Forbiddance](marks-of-forbiddance.md)**: Makes 2 creatures pass Will saves in order to attack each other.
 - **[Sanctify Armor](sanctify-armor.md)**: +1 AC/four levels (max +5).

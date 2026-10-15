@@ -380,6 +380,7 @@ New spells from the *Advanced Player's Guide*. An M or F after a name marks a ma
 - **[Blessing of Courage and Life](blessing-of-courage-and-life.md)**: +2 on saves vs. fear and death.
 - **[Ghostbane Dirge](ghostbane-dirge.md)**: Incorporeal creature takes half damage from nonmagical weapons.
 - **[Grace](grace.md)**: Movement doesn’t provoke attacks of opportunity.
+- **[Heroic Fortune](heroic-fortune.md)**: Grants the target 1 temporary hero point.
 - **[Instant Armor](instant-armor.md)**: Summon armor temporarily replacing your current attire.
 - **[Oracle's Burden](oracles-burden.md)**: (Oracle only.) Creature is affected by negative oracle's curse effects.
 - **[Share Language](share-language.md)**: Subject understands chosen language.
@@ -394,6 +395,8 @@ New spells from the *Advanced Player's Guide*. An M or F after a name marks a ma
 - **[Guiding Star](guiding-star.md)**: Know approximate distance from where you cast this spell.
 - **[Nap Stack](nap-stack.md)** (M): Subjects only need 2 hours for a night’s sleep, and can sleep even longer for more benefits.
 - **[Sacred Bond](sacred-bond.md)** (F): Cast touch healing spells from a distance.
+- **[Severed Fate](severed-fate.md)**: Target is shaken and cannot use hero points.
+- **[Unravel Destiny](unravel-destiny.md)**: Target takes penalties per hero point it has.
 - **[Wrathful Mantle](wrathful-mantle.md)**: Subject gets +1/four levels on all saves.
 
 ### 4th-Level Cleric Spells
@@ -407,6 +410,7 @@ New spells from the *Advanced Player's Guide*. An M or F after a name marks a ma
 
 - **[Cleanse](cleanse.md)**: Cures 4d8 damage +1/level (max +25) and also removes several afflictions.
 - **[Ghostbane Dirge, Mass](ghostbane-dirge-mass.md)**: As ghostbane dirge, but affects multiple creatures.
+- **[Heroic Fortune, Mass](heroic-fortune-mass.md)**: Grants 1 temporary hero point to several creatures.
 - **[Life Bubble](life-bubble.md)**: Protects creatures from environment.
 - **[Pillar of Life](pillar-of-life.md)**: Created pillar heals 2d8 + 1/level (max +20).
 - **[Snake Staff](snake-staff.md)**: Transforms staff or other wood into snakes to fight for you.

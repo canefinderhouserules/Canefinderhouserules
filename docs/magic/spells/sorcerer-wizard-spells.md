@@ -904,11 +904,13 @@ New spells from the *Advanced Player's Guide*. An M or F after a name marks a ma
 - **[Elemental Aura](elemental-aura.md)**: Creates an aura of energy around you.
 - **[Enter Image](enter-image.md)**: Transfers your consciousness to an object bearing your likeness.
 - **[Hydraulic Torrent](hydraulic-torrent.md)**: Creates torrent of water that bull rushes any creature in its path.
+- **[Malediction](malediction.md)**: Consume a dying creature’s life force to gain temporary hero points.
 - **[Pain Strike](pain-strike.md)**: Inflicts 1d6 nonlethal damage 1 round/level.
 - **[Seek Thoughts](seek-thoughts.md)**: Detects thinking creatures’ thoughts.
 - **[Shifting Sand](shifting-sand.md)**: Creates difficult terrain and erases tracks, can carry along some creatures and objects.
 - **[Spiked Pit](spiked-pit.md)**: As create pit, but filled with spikes.
 - **[Twilight Knife](twilight-knife.md)**: Floating knife attacks with you.
+- **[Unravel Destiny](unravel-destiny.md)**: Target takes penalties per hero point it has.
 - **[Versatile Weapon](versatile-weapon.md)**: Weapon bypasses some DR.
 
 ### 4th-Level Sorcerer/Wizard Spells

@@ -155,18 +155,21 @@ New spells from the *Advanced Player's Guide*. An M or F after a name marks a ma
 - **[Hidden Speech](hidden-speech.md)**: Gain +10 on Bluff to send secret messages.
 - **[Perceive Cues](perceive-cues.md)**: +5 Perception and Sense Motive 10 min./level.
 - **[Pox Pustules](pox-pustules.md)**: Subject is sickened and has –4 Dex.
+- **[Severed Fate](severed-fate.md)**: Target is shaken and cannot use hero points.
 - **[Vomit Swarm](vomit-swarm.md)**: Produces a spider swarm that fights for you.
 
 ### 3rd-Level Witch Spells
 
 - **[Cup of Dust](cup-of-dust.md)**: Causes a creature to become dehydrated.
 - **[Guiding Star](guiding-star.md)**: Know approximate distance from where you cast this spell.
+- **[Malediction](malediction.md)**: Consume a dying creature’s life force to gain temporary hero points.
 - **[Nature's Exile](natures-exile.md)**: Gives subject –10 on Survival checks.
 - **[Pain Strike](pain-strike.md)**: Inflicts 1d6 nonlethal damage 1 round/level.
 - **[Screech](screech.md)**: Foes provoke attacks of opportunity.
 - **[Seek Thoughts](seek-thoughts.md)**: Detects thinking creatures’ thoughts.
 - **[Share Senses](share-senses.md)**: Perceive the world around your familiar.
 - **[Twilight Knife](twilight-knife.md)**: Floating knife attacks with you.
+- **[Unravel Destiny](unravel-destiny.md)**: Target takes penalties per hero point it has.
 
 ### 4th-Level Witch Spells
 

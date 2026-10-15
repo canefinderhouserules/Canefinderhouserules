@@ -406,6 +406,7 @@ Feats from the *Advanced Player's Guide*. Each name links to its full descriptio
 | [Arcane Talent](arcane-talent.md) | — | Cha 10; elf, half-elf, or gnome |
 | [Aspect of the Beast](aspect-of-the-beast.md) | — | wild shape class feature, see Special |
 | [Bashing Finish](bashing-finish.md) | Combat | Improved Shield Bash, Shield Master, Two-Weapon Fighting, base attack bonus +11 |
+| [Blood of Heroes](blood-of-heroes.md) | — | Hero’s Fortune |
 | [Bloody Assault](bloody-assault.md) | Combat | Str 13, Power Attack, base attack bonus +6 |
 | [Bodyguard](bodyguard.md) | Combat | Combat Reflexes |
 | [Bouncing Spell](bouncing-spell.md) | Metamagic | — |
@@ -471,6 +472,7 @@ Feats from the *Advanced Player's Guide*. Each name links to its full descriptio
 | [Groundling](groundling.md) | — | Cha 13, gnome, gnome magic racial trait |
 | [Heroic Defiance](heroic-defiance.md) | — | Diehard, Endurance, base Fortitude save +8 |
 | [Heroic Recovery](heroic-recovery.md) | — | Diehard, Endurance, base Fortitude save +4 |
+| [Hero’s Fortune](heros-fortune.md) | — | — |
 | [Improved Blind-Fight](improved-blind-fight.md) | Combat | Perception 10 ranks, Blind-Fight |
 | [Improved Dirty Trick](improved-dirty-trick.md) | Combat | Int 13, Combat Expertise |
 | [Improved Drag](improved-drag.md) | Combat | Str 13, Power Attack, base attack bonus +1 |
@@ -493,6 +495,7 @@ Feats from the *Advanced Player's Guide*. Each name links to its full descriptio
 | [Lingering Spell](lingering-spell.md) | Metamagic | — |
 | [Lookout](lookout.md) | Combat, Teamwork | — |
 | [Low Profile](low-profile.md) | Combat | Dex 13, Small size or smaller |
+| [Luck of Heroes](luck-of-heroes.md) | — | Hero’s Fortune |
 | [Lucky Halfling](lucky-halfling.md) | — | Halfling |
 | [Major Spell Expertise](major-spell-expertise.md) | — | Minor Spell Expertise, ability to cast 9th-level spells |
 | [Master Alchemist](master-alchemist.md) | — | Craft (alchemy) 5 ranks |
@@ -527,11 +530,12 @@ Feats from the *Advanced Player's Guide*. Each name links to its full descriptio
 | [Shadow Strike](shadow-strike.md) | Combat | Base attack bonus +1 |
 | [Shared Insight](shared-insight.md) | — | Wis 13, half-elf |
 | [Sharp Senses](sharp-senses.md) | — | Keen senses racial trait |
+| [Shielded Caster](shielded-caster.md) | Teamwork | — |
 | [Shield of Swings](shield-of-swings.md) | Combat | Str 13, Power Attack, base attack bonus +1 |
 | [Shield Specialization](shield-specialization.md) | Combat | Proficiency with selected shield, Shield Focus, fighter level 4th |
 | [Shield Wall](shield-wall.md) | Combat, Teamwork | Shield Proficiency |
-| [Shielded Caster](shielded-caster.md) | Teamwork | — |
 | [Sickening Spell](sickening-spell.md) | Metamagic | — |
+| [Sidestep](sidestep.md) | Combat | Dex 13, Dodge, Mobility |
 | [Smash](smash.md) | Combat | Power Attack, half-orc |
 | [Smell Fear](smell-fear.md) | — | Keen Scent, half-orc or orc |
 | [Sociable](sociable.md) | — | Cha 13, half-elf |
@@ -560,4 +564,3 @@ Feats from the *Advanced Player's Guide*. Each name links to its full descriptio
 | [Vermin Heart](vermin-heart.md) | — | Wild empathy class feature |
 | [War Singer](war-singer.md) | — | Cha 13, bardic performance class feature, half-orc or orc |
 | [Well-Prepared](well-prepared.md) | — | Halfling |
-| [Sidestep](sidestep.md) | Combat | Dex 13, Dodge, Mobility |

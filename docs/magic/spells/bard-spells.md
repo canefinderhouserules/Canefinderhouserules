@@ -311,6 +311,7 @@ New spells from the *Advanced Player's Guide*. An M or F after a name marks a ma
 - **[Enter Image](enter-image.md)**: Transfers your consciousness to an object bearing your likeness.
 - **[Gallant Inspiration](gallant-inspiration.md)**: +2d4 bonus on failed attack roll or skill check.
 - **[Ghostbane Dirge](ghostbane-dirge.md)**: Incorporeal creature takes half damage from nonmagical weapons.
+- **[Heroic Fortune](heroic-fortune.md)**: Grants the target 1 temporary hero point.
 - **[Hidden Speech](hidden-speech.md)**: Gain +10 on Bluff to send secret messages.
 - **[Honeyed Tongue](honeyed-tongue.md)**: Roll 2 dice when using Diplomacy, take higher roll.
 - **[Versatile Weapon](versatile-weapon.md)**: Weapon bypasses some DR.
@@ -335,6 +336,7 @@ New spells from the *Advanced Player's Guide*. An M or F after a name marks a ma
 - **[Discordant Blast](discordant-blast.md)**: 3d6 sonic damage in 10-ft. burst or 30-ft. cone can also bull rush creatures.
 - **[Ghostbane Dirge, Mass](ghostbane-dirge-mass.md)**: As ghostbane dirge, but affecting multiple creatures.
 - **[Heroic Finale](heroic-finale.md)**: Subject within range of your bardic performance can take an action.
+- **[Heroic Fortune, Mass](heroic-fortune-mass.md)**: Grants 1 temporary hero point to several creatures.
 - **[Treasure Stitching](treasure-stitching.md)** (M):  Objects on cloth become embroidered.
 - **[Wandering Star Motes](wandering-star-motes.md)**: Outlines subject, produces light.
 
