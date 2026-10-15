@@ -86,3 +86,56 @@ New spells from *Ultimate Magic*. An M or F after a name marks a material or foc
 - **[Raise Animal Companion](raise-animal-companion.md)**: As raise dead, but on an animal.
 - **[Reprobation](reprobation.md)**: Marked target is shunned by your religion.
 - **[Symbol of Healing](symbol-of-healing.md)**: Triggered rune heals living creatures.
+
+## Advanced Player's Guide Spells
+
+New spells from the *Advanced Player's Guide*. An M or F after a name marks a material or focus component not normally included in a spell component pouch.
+
+### 1st-Level Paladin Spells
+
+- **[Challenge Evil](challenge-evil.md)**: Sickens creature if it refuses to fight you.
+- **[Ghostbane Dirge](ghostbane-dirge.md)**: Incorporeal creature takes half damage from nonmagical weapons.
+- **[Grace](grace.md)**: Movement doesn't provoke attacks of opportunity.
+- **[Hero's Defiance](heros-defiance.md)**: Allows the use of lay on hands while falling unconscious.
+- **[Honeyed Tongue](honeyed-tongue.md)**: Roll 2 dice when using Diplomacy, take higher roll.
+- **[Knight's Calling](knights-calling.md)**: Forces target to move toward you and fight you.
+- **[Rally Point](rally-point.md)**: Square gives good creatures bonuses.
+- **Veil of Positive Energy**: +2 AC, +2 on saves vs. undead.
+
+### 2nd-Level Paladin Spells
+
+- **[Aura of Greater Courage](aura-of-greater-courage.md)**: Increases strength of a paladin’s aura of courage.
+- **[Bestow Grace](bestow-grace.md)**: Subject gains bonus on saving throws equal to Cha modifier.
+- **[Blessing of Courage and Life](blessing-of-courage-and-life.md)**: Grants a +2 bonus on saves vs. fear and death.
+- **[Corruption Resistance](corruption-resistance.md)**: Protects creature against damage from alignment-based attacks.
+- **[Fire of Entanglement](fire-of-entanglement.md)**: Your ability to smite evil also entangles your foe.
+- **[Instant Armor](instant-armor.md)**: Summon armor temporarily replacing your current attire.
+- **[Light Lance](light-lance.md)**: Creates a soaring beacon of light.
+- **[Paladin's Sacrifice](paladins-sacrifice.md)**: Take the damage and effects for another creature.
+- **[Righteous Vigor](righteous-vigor.md)**: Boosts attack bonus with each hit.
+- **[Sacred Bond](sacred-bond.md)** (F): Cast touch healing spells from a distance.
+- **[Saddle Surge](saddle-surge.md)**: Bonus damage for moving on mount.
+- **Wake of Light**: Magical trail aids good creatures, hinders evil ones.
+- **Weapon of Awe**: Weapon gets +2 on damage rolls.
+
+### 3rd-Level Paladin Spells
+
+- **[Divine Transfer](divine-transfer.md)**: Transfer hit points and give DR/evil to target creature.
+- **[Fire of Judgment](fire-of-judgment.md)**: Smited creature takes damage when it attacks.
+- **[Ghostbane Dirge, Mass](ghostbane-dirge-mass.md)**: As ghostbane dirge, but affects multiple creatures.
+- **[Holy Whisper](holy-whisper.md)**: Whisper sickens evil creatures, gives good creatures bonuses.
+- **[Marks of Forbiddance](marks-of-forbiddance.md)**: Makes 2 creatures pass Will saves in order to attack each other.
+- **[Sanctify Armor](sanctify-armor.md)**: +1 AC/four levels (max +5).
+- **Wrathful Mantle**: Subject shines and gets +1/four levels on all saves.
+
+### 4th-Level Paladin Spells
+
+- **[Blaze of Glory](blaze-of-glory.md)**: Last stand cures good creatures, hurts evil.
+- **[Fire of Vengeance](fire-of-vengeance.md)**: Smited creature takes 3d8 damage.
+- **[Forced Repentance](forced-repentance.md)**: Target falls prone and confesses sins.
+- **[King’s Castle](kings-castle.md)**: Instantly switch places with a single ally.
+- **[Oath of Peace](oath-of-peace.md)**: Grants +5 AC and DR 10/evil, can’t attack.
+- **[Resounding Blow](resounding-blow.md)**: Melee attack deals 1d6 more damage.
+- **[Sacrificial Oath](sacrificial-oath.md)**: Take damage for an ally for many rounds.
+- **[Stay the Hand](stay-the-hand.md)**: Subject cannot attack with melee weapon.
+

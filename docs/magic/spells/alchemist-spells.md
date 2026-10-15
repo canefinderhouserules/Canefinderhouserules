@@ -49,3 +49,55 @@ New alchemist spells from *Ultimate Magic*. Spells from other books will be adde
 
 - **[Monstrous Physique IV](monstrous-physique-iv.md)**: As monstrous physique III, with more abilities.
 - **[Undead Anatomy III](undead-anatomy-iii.md)**: Take the form and some of the powers of a Diminutive or Huge undead.
+
+## Advanced Player's Guide Spells
+
+New spells from the *Advanced Player's Guide*. An M or F after a name marks a material or focus component not normally included in a spell component pouch.
+
+### 1st-Level Alchemist Spells
+
+- **[Ant Haul](ant-haul.md)**: Triples carrying capacity of a creature.
+- **[Bomber's Eye](bombers-eye.md)**: Increases thrown weapon range; +1 attack.
+- **[Crafter's Fortune](crafters-fortune.md)**: Subject gains +5 on next Craft check.
+- **[Keen Senses](keen-senses.md)**: Gain +2 Perception and low-light vision.
+- **[Negate Aroma](negate-aroma.md)**: Subject cannot be tracked by scent.
+- **[Stone Fist](stone-fist.md)**: Your unarmed strikes are lethal.
+- **Touch of the Sea**: Swim speed becomes 30 ft.
+
+### 2nd-Level Alchemist Spells
+
+- **[Alchemical Allocation](alchemical-allocation.md)**: Gain potion’s benefits without consuming it.
+- **[Elemental Touch](elemental-touch.md)**: Gain energy damage touch attack.
+- **[Fire Breath](fire-breath.md)**: Exhale a cone of flame at will.
+- **[Perceive Cues](perceive-cues.md)**: +5 Perception and Sense Motive 10 min./level.
+- **Transmute Potion to Poison**: Spit poison onto weapon after drinking potion.
+- **Vomit Swarm**: Produces a spider swarm that fights for you.
+
+### 3rd-Level Alchemist Spells
+
+- **[Absorbing Touch](absorbing-touch.md)**: Caster absorbs an item for 1 day/level.
+- **[Amplify Elixir](amplify-elixir.md)**: Empowers or extends the effects of any potion or elixir.
+- **[Bloodhound](bloodhound.md)**: Enhances sense of smell and grants the caster the scent special ability.
+- **[Draconic Reservoir](draconic-reservoir.md)**: Subject can absorb energy damage and enhance melee attacks with it.
+- **[Elemental Aura](elemental-aura.md)**: Creates an aura of energy around you.
+- **[Seek Thoughts](seek-thoughts.md)**: Detects thinking creatures’ thoughts.
+- **[Thorn Body](thorn-body.md)**: Those attacking you take 1d6 +1 damage/level.
+
+### 4th-Level Alchemist Spells
+
+- **[Detonate](detonate.md)** (M): Inflicts 1d8/level energy damage to all creatures within 15 ft.
+- **[Dragon's Breath](dragons-breath.md)**: Gives you a dragon’s breath weapon.
+- **[Fluid Form](fluid-form.md)**: Gain DR 10/slashing, increases reach 10 ft., and breathe water.
+- **Universal Formula** (M): Acts as any extract 3rd level or lower.
+
+### 5th-Level Alchemist Spells
+
+- **[Delayed Consumption](delayed-consumption.md)**: Extract doesn’t come into effect until you want it to.
+- **[Elude Time](elude-time.md)** (M): Puts you in temporary suspended animation.
+- **[Planar Adaptation](planar-adaptation.md)**: Resist harmful effects of one plane.
+- **[Resurgent Transformation](resurgent-transformation.md)** (M): Gain second wind when close to death.
+
+### 6th-Level Alchemist Spells
+
+- **Twin Form**: Creates controllable duplicate of you.
+

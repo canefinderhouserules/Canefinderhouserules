@@ -18,6 +18,8 @@ There are hundreds of spells available to spellcasters in the Pathfinder Rolepla
 
 - [Druid Spells](druid-spells.md)
 
+- [Elementalist Wizard Spells](elementalist-wizard-spells.md)
+
 - [Paladin Spells](paladin-spells.md)
 
 - [Ranger Spells](ranger-spells.md)

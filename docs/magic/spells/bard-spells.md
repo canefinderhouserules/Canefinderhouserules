@@ -273,3 +273,89 @@ New spells from *Ultimate Magic*. An M or F after a name marks a material or foc
 - **[Dance of a Thousand Cuts](dance-of-a-thousand-cuts.md)**: As dance of a hundred cuts, plus the benefits of haste.
 - **[Overwhelming Presence](overwhelming-presence.md)**: Creatures bow before you as if you were divine.
 - **[Waves of Ecstasy](waves-of-ecstasy.md)**: Pleasure stuns and staggers creatures.
+
+## Advanced Player's Guide Spells
+
+New spells from the *Advanced Player's Guide*. An M or F after a name marks a material or focus component not normally included in a spell component pouch.
+
+### 0-Level Bard Spells
+
+- **[Sift](sift.md)**: See area as though examining it.
+- **[Spark](spark.md)**: Ignites flammable objects.
+- **Unwitting Ally**: Subject is considered ally for 1 round.
+
+### 1st-Level Bard Spells
+
+- **[Beguiling Gift](beguiling-gift.md)**: Subject immediately accepts an offered item and uses it.
+- **[Borrow Skill](borrow-skill.md)**: Make a skill check using another’s ranks.
+- **[Dancing Lantern](dancing-lantern.md)**: Animates a lantern that follows you.
+- **[Feather Step](feather-step.md)**: Ignore movement penalty in difficult terrain.
+- **[Flare Burst](flare-burst.md)**: As flare, but on all creatures within 10 ft.
+- **[Innocence](innocence.md)**: Gain +10 on Bluff checks to seem innocent.
+- **[Invigorate](invigorate.md)**: Temporarily relieves fatigue or exhaustion.
+- **[Memory Lapse](memory-lapse.md)**: Subject forgets events back to last turn.
+- **[Restful Sleep](restful-sleep.md)**: Gain more hit points while sleeping.
+- **[Saving Finale](saving-finale.md)**: Subject rerolls failed saving throw.
+- **[Share Language](share-language.md)**: Subject understands chosen language.
+- **[Solid Note](solid-note.md)**: Creates tangible music note.
+- **[Timely Inspiration](timely-inspiration.md)**: Gives bonus on failed check/attack.
+- **Touch of Gracelessness**: Subject loses 1d6 + 1 Dex/two levels and is prone to falling down.
+- **Vanish**: As invisibility for 1 round/level (5 max).
+
+### 2nd-Level Bard Spells
+
+- **[Blood Biography](blood-biography.md)**: Learn about a creature with its blood.
+- **[Cacophonous Call](cacophonous-call.md)**: Nauseates target.
+- **[Create Treasure Map](create-treasure-map.md)** (M): Creates a treasure map out of a creature's corpse.
+- **[Dust of Twilight](dust-of-twilight.md)**: Black particles extinguish light sources.
+- **[Enter Image](enter-image.md)**: Transfers your consciousness to an object bearing your likeness.
+- **[Gallant Inspiration](gallant-inspiration.md)**: +2d4 bonus on failed attack roll or skill check.
+- **[Ghostbane Dirge](ghostbane-dirge.md)**: Incorporeal creature takes half damage from nonmagical weapons.
+- **[Hidden Speech](hidden-speech.md)**: Gain +10 on Bluff to send secret messages.
+- **[Honeyed Tongue](honeyed-tongue.md)**: Roll 2 dice when using Diplomacy, take higher roll.
+- **Versatile Weapon**: Weapon bypasses some DR.
+
+### 3rd-Level Bard Spells
+
+- **[Arcane Concordance](arcane-concordance.md)**: Grants metamagic to arcane spells.
+- **[Campfire Wall](campfire-wall.md)**: Creates a shelter around a campfire.
+- **[Coordinated Effort](coordinated-effort.md)**: Grants a teamwork feat you have.
+- **[Elemental Speech](elemental-speech.md)**: Enables you to speak to elementals and some creatures.
+- **[Feather Step, Mass](feather-step-mass.md)**: As feather step, but multiple creatures.
+- **[Invigorate, Mass](invigorate-mass.md)**: As invigorate, but multiple creatures.
+- **[Jester's Jaunt](jesters-jaunt.md)**: Teleport target within 30 ft. of itself.
+- **[Purging Finale](purging-finale.md)**: Removes one negative effect.
+- **[Reviving Finale](reviving-finale.md)**: Allies cured 2d6 damage.
+- **[Seek Thoughts](seek-thoughts.md)**: Detects thinking creatures’ thoughts.
+- **Thunderous Drums**: 1d8 damage/level and knocked prone.
+
+### 4th-Level Bard Spells
+
+- **[Denounce](denounce.md)**: Worsens attitudes toward target creature.
+- **[Discordant Blast](discordant-blast.md)**: 3d6 sonic damage in 10-ft. burst or 30-ft. cone can also bull rush creatures.
+- **[Ghostbane Dirge, Mass](ghostbane-dirge-mass.md)**: As ghostbane dirge, but affecting multiple creatures.
+- **[Heroic Finale](heroic-finale.md)**: Subject within range of your bardic performance can take an action.
+- **Treasure Stitching** (M):  Objects on cloth become embroidered.
+- **Wandering Star Motes**: Outlines subject, produces light.
+
+### 5th-Level Bard Spells
+
+- **[Bard’s Escape](bards-escape.md)**: You and allies escape an emergency by teleporting to safety.
+- **[Cacophonous Call, Mass](cacophonous-call-mass.md)**: Nauseates multiple targets.
+- **[Cloak of Dreams](cloak-of-dreams.md)**: Living creatures within 5 ft. fall asleep.
+- **[Deafening Song Bolt](deafening-song-bolt.md)**: Blast of song deals 3d10 damage and deafens targets.
+- **[Foe to Friend](foe-to-friend.md)**: Redirect an enemy creature's attack.
+- **[Frozen Note](frozen-note.md)**: Paralyzes creatures listening to your song.
+- **[Phantasmal Web](phantasmal-web.md)**: Catches subjects in illusory web.
+- **[Stunning Finale](stunning-finale.md)**: Stuns 3 creatures for 1 round.
+- **Unwilling Shield** (M): Subject shares wounds you receive.
+
+### 6th-Level Bard Spells
+
+- **[Brilliant Inspiration](brilliant-inspiration.md)**: Take best of two d20 rolls.
+- **[Deadly Finale](deadly-finale.md)**: Deals 2d8 damage to multiple targets.
+- **[Euphoric Tranquility](euphoric-tranquility.md)**: Makes a single creature peaceful and friendly.
+- **[Fool's Forbiddance](fools-forbiddance.md)**: Confuses enemies who come within a magical emanation centered on you.
+- **[Getaway](getaway.md)**: Teleports a group of predetermined allies and creatures to a predetermined location.
+- **[Pied Piping](pied-piping.md)**: Compel similar creatures to follow you.
+

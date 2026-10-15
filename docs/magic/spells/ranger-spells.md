@@ -92,3 +92,66 @@ New spells from *Ultimate Magic*. An M or F after a name marks a material or foc
 
 - **[Darkvision, Greater](darkvision-greater.md)**: See 120 ft. in total darkness.
 - **[Raise Animal Companion](raise-animal-companion.md)**: As raise dead, but on an animal.
+
+## Advanced Player's Guide Spells
+
+New spells from the *Advanced Player's Guide*. An M or F after a name marks a material or focus component not normally included in a spell component pouch.
+
+### 1st-Level Ranger Spells
+
+- **[Ant Haul](ant-haul.md)**: Triples carrying capacity of a creature.
+- **[Aspect of the Falcon](aspect-of-the-falcon.md)**: Gives bonuses on Perception and ranged attacks.
+- **[Call Animal](call-animal.md)**: Makes an animal come to you.
+- **[Cloak of Shade](cloak-of-shade.md)**: Reduces effects of intense sun exposure and environmental heat.
+- **[Dancing Lantern](dancing-lantern.md)**: Animates a lantern that follows you.
+- **[Detect Aberration](detect-aberration.md)**: Detect presence of aberrations.
+- **[Feather Step](feather-step.md)**: Subject ignores adverse movement effects in difficult terrain.
+- **[Glide](glide.md)**: No fall damage, move 60 ft./round while falling.
+- **[Gravity Bow](gravity-bow.md)**: Arrows do damage as though one size category bigger.
+- **[Hunter's Howl](hunters-howl.md)**: Treat enemies as favored for 1 round/level.
+- **[Keen Senses](keen-senses.md)**: Subject gains +2 Perception, low-light vision.
+- **[Lead Blades](lead-blades.md)**: Melee weapons damage as if one size bigger.
+- **[Negate Aroma](negate-aroma.md)**: Subject cannot be tracked by scent.
+- **[Residual Tracking](residual-tracking.md)**: Tell creature's appearance by footprint.
+- **[Tireless Pursuit](tireless-pursuit.md)**: Ignore fatigue while hustling.
+
+### 2nd-Level Ranger Spells
+
+- **[Accelerate Poison](accelerate-poison.md)**: Hastens targeted poison's onset.
+- **[Allfood](allfood.md)**: Turns item up to 5 lbs./level into food.
+- **[Arrow Eruption](arrow-eruption.md)**: Creates duplicates of an arrow used to kill a creature in the previous round.
+- **[Aspect of the Bear](aspect-of-the-bear.md)**: +2 AC and combat maneuver rolls.
+- **[Bloodhound](bloodhound.md)**: Gives caster the scent special ability.
+- **[Campfire Wall](campfire-wall.md)**: Creates a shelter around a campfire.
+- **[Chameleon Stride](chameleon-stride.md)**: Gives a +4 bonus on Stealth checks and concealment.
+- **[Create Treasure Map](create-treasure-map.md)** (M): Creates a treasure map out of a creature’s corpse.
+- **[Eagle Eye](eagle-eye.md)**: Creates a magical sensor high above you.
+- **[Guiding Star](guiding-star.md)**: Know approximate distance from where you cast this spell.
+- **[Hide Campsite](hide-campsite.md)**: Hides all traces of your campsite.
+- **[Hunter’s Eye](hunters-eye.md)**: +20 on Perception checks to locate a target.
+- **[Lockjaw](lockjaw.md)**: Gives creature grab ability with a natural attack.
+- **[Perceive Cues](perceive-cues.md)**: +5 Perception and Sense Motive 10 min./level.
+- **[Protective Spirit](protective-spirit.md)**: Protects from attacks of opportunity.
+- **[Slipstream](slipstream.md)**: Wave boosts creature’s speed.
+- **[Stone Call](stone-call.md)**: 2d6 damage to all creatures in area.
+- **Versatile Weapon**: Weapon bypasses some DR.
+
+### 3rd-Level Ranger Spells
+
+- **[Aspect of the Stag](aspect-of-the-stag.md)**: +2 AC against attacks of opportunity and increases speed.
+- **[Bloody Claws](bloody-claws.md)**: Gives creature the ability to deal bleed damage with natural attacks.
+- **[Cloak of Winds](cloak-of-winds.md)**: Creates a whirling screen of strong wind around you.
+- **[Feather Step, Mass](feather-step-mass.md)**: As feather step, but affects many targets rather than one.
+- **[Instant Enemy](instant-enemy.md)**: Target is treated as a favored enemy type of your choice.
+- **[Life Bubble](life-bubble.md)**: Protects creatures from sustained environmental effects.
+- **[Strong Jaw](strong-jaw.md)**: Natural attacks damage as two sizes bigger.
+- **[Tireless Pursuers](tireless-pursuers.md)**: As tireless pursuit, but affects many targets rather than one.
+- **Venomous Bolt**: Arrow or bolt poisons target.
+
+### 4th-Level Ranger Spells
+
+- **[Aspect of the Wolf](aspect-of-the-wolf.md)**: Subject gains +4 Str and Dex, and +2 bonus on trip attacks.
+- **[Blessing of the Salamander](blessing-of-the-salamander.md)**: Subject gets fast healing 2, fire resistance 10, +2 CMD.
+- **[Bow Spirit](bow-spirit.md)**: Summons an invisible spirit that fires your arrows for you as a swift action.
+- **[Grove of Respite](grove-of-respite.md)**: Creates trees and a small spring.
+

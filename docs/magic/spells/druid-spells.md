@@ -278,3 +278,108 @@ New spells from *Ultimate Magic*. An M or F after a name marks a material or foc
 - **[Polar Midnight](polar-midnight.md)**: Cold darkness paralyzes and deals damage.
 - **[Summon Elder Worm](summon-elder-worm.md)**: Summon a giant purple worm.
 - **[Summon Froghemoth](summon-froghemoth.md)**: Summon a froghemoth.
+
+## Advanced Player's Guide Spells
+
+New spells from the *Advanced Player's Guide*. An M or F after a name marks a material or focus component not normally included in a spell component pouch.
+
+### 0-Level Druid Spells
+
+- **[Spark](spark.md)**: Ignites flammable objects.
+
+### 1st-Level Druid Spells
+
+- **[Alter Winds](alter-winds.md)**: Increase/decrease strength of natural winds.
+- **[Ant Haul](ant-haul.md)**: Triples carrying capacity of a creature.
+- **[Aspect of the Falcon](aspect-of-the-falcon.md)**: Gives bonuses on Perception checks and ranged attacks.
+- **[Bristle](bristle.md)**: Trade natural armor bonus for a bonus on attacks with natural weapons.
+- **[Call Animal](call-animal.md)**: Makes an animal come to you.
+- **[Cloak of Shade](cloak-of-shade.md)**: Reduces effects of sun exposure and heat.
+- **[Detect Aberration](detect-aberration.md)**: Reveals presence of aberrations.
+- **[Expeditious Excavation](expeditious-excavation.md)**: Moves 5-ft. cubes of earth.
+- **[Feather Step](feather-step.md)**: Ignore movement penalty in difficult terrain.
+- **[Flare Burst](flare-burst.md)**: As flare, but all creatures within 10 ft.
+- **[Hydraulic Push](hydraulic-push.md)**: Wave of water bull rushes an enemy.
+- **[Keen Senses](keen-senses.md)**: Gain +2 Perception and low-light vision.
+- **[Negate Aroma](negate-aroma.md)**: Subject cannot be tracked by scent.
+- **[Stone Fist](stone-fist.md)**: Your unarmed strikes are lethal.
+- **Touch of the Sea**: Swim speed becomes 30 ft.
+
+### 2nd-Level Druid Spells
+
+- **[Accelerate Poison](accelerate-poison.md)**: Hastens targeted poison’s onset.
+- **[Aspect of the Bear](aspect-of-the-bear.md)**: +2 AC and combat maneuver rolls.
+- **[Burning Gaze](burning-gaze.md)**: Inflict 1d6 fire damage to creature.
+- **[Campfire Wall](campfire-wall.md)**: Creates a shelter around a campfire.
+- **[Eagle Eye](eagle-eye.md)**: Creates a magical sensor high above you.
+- **[Elemental Speech](elemental-speech.md)**: Enables you to speak to elementals and some creatures.
+- **[Feast of Ashes](feast-of-ashes.md)**: A target starves with an insatiable hunger.
+- **[Glide](glide.md)**: You take no falling damage, move 60 ft./round while falling.
+- **[Lockjaw](lockjaw.md)**: Creature gains grab ability with natural attack.
+- **[Natural Rhythm](natural-rhythm.md)**: +1 on damage rolls with each hit (max +5).
+- **[Pox Pustules](pox-pustules.md)**: Subject is sickened and has –4 Dex.
+- **[Scent Trail](scent-trail.md)**: Leave trail for allies to follow.
+- **[Share Language](share-language.md)**: Subject understands chosen language.
+- **[Slipstream](slipstream.md)**: Wave boosts creature’s speed.
+- **[Stone Call](stone-call.md)**: 2d6 damage to all creatures in area.
+
+### 3rd-Level Druid Spells
+
+- **[Aqueous Orb](aqueous-orb.md)**: Creates rolling sphere of water.
+- **[Cloak of Winds](cloak-of-winds.md)**: Creates screen of strong wind around you.
+- **[Create Treasure Map](create-treasure-map.md)** (M): Creates a treasure map out of a creature’s corpse.
+- **[Cup of Dust](cup-of-dust.md)**: Causes a creature to become dehydrated.
+- **[Feather Step, Mass](feather-step-mass.md)**: As feather step, but multiple creatures.
+- **[Hide Campsite](hide-campsite.md)**: Hides all traces of your campsite.
+- **[Hydraulic Torrent](hydraulic-torrent.md)**: Creates torrent of water that bull rushes any creature in its path.
+- **[Lily Pad Stride](lily-pad-stride.md)**: Walk across water on moving lily pads.
+- **[Nature's Exile](natures-exile.md)**: Gives subject –10 on Survival checks.
+- **[Shifting Sand](shifting-sand.md)**: Creates difficult terrain and erases tracks; can carry creatures or objects along.
+
+### 4th-Level Druid Spells
+
+- **[Aspect of the Stag](aspect-of-the-stag.md)**: +2 AC against attacks of opportunity and increases speed.
+- **[Ball Lightning](ball-lightning.md)**: Flying lightning spheres deal 3d6 electricity damage each.
+- **[Bloody Claws](bloody-claws.md)**: Causes bleed damage with natural attacks.
+- **[Geyser](geyser.md)**: Creates a geyser of boiling water.
+- **[Grove of Respite](grove-of-respite.md)**: Creates trees and a small spring.
+- **[Life Bubble](life-bubble.md)**: Protects from environmental effects.
+- **[Moonstruck](moonstruck.md)**: Subject is enraged and confused.
+- **[River of Wind](river-of-wind.md)**: Creates wind that causes nonlethal damage and can knock down or push creatures.
+- **[Strong Jaw](strong-jaw.md)**: Natural attacks damage as two sizes bigger.
+- **[Thorn Body](thorn-body.md)**: Your attackers take 1d6 +1 damage/level.
+- **True Form**: Removes polymorph effects.
+
+### 5th-Level Druid Spells
+
+- **[Aspect of the Wolf](aspect-of-the-wolf.md)**: +4 Str and Dex, +2 bonus on trip attacks.
+- **[Blessing of the Salamander](blessing-of-the-salamander.md)**: Subject gets fast healing 2, fire resistance 10, and +2 to its CMD.
+- **[Fire Snake](fire-snake.md)**: Creates a serpentine path of fire 5 ft. long/level that deals 1d6 fire damage/level.
+- **[Rest Eternal](rest-eternal.md)** (M): Dead creature cannot be revived.
+- **[Snake Staff](snake-staff.md)**: Transforms wood into snakes to fight for you.
+- **[Threefold Aspect](threefold-aspect.md)** (F): Appear older or younger.
+
+### 6th-Level Druid Spells
+
+- **[Sirocco](sirocco.md)**: Hot wind does 4d6 damage, fatigues those damaged, and knocks creatures prone.
+- **[Swarm Skin](swarm-skin.md)**: Turns your body into a swarm that can attack.
+
+### 7th-Level Druid Spells
+
+- **[Rampart](rampart.md)**: Creates 5-ft.-thick earthen barrier.
+- **Vortex**: Creates a whirlpool in water.
+
+### 8th-Level Druid Spells
+
+- **[Euphoric Tranquility](euphoric-tranquility.md)**: Makes a creature friendly.
+- **[Seamantle](seamantle.md)**: Sheathes you in protective water.
+- **[Stormbolts](stormbolts.md)**: 1d8 damage/level (max 20d8) to targets.
+- **Wall of Lava**: Wall damages foes that try to enter, periodically launches lava at nearby targets.
+
+### 9th-Level Druid Spells
+
+- **[Clashing Rocks](clashing-rocks.md)**: 20d6 damage to target creature.
+- **Tsunami**: Huge wave damages and sweeps up all in its path.
+- **Winds of Vengeance**: You can fly and attack with wind.
+- **World Wave**: Earth or water moves you across distances and damages things not of the natural world.
+

@@ -848,3 +848,130 @@ New spells from *Ultimate Magic*. An M or F after a name marks a material or foc
 - **[Symbol of Vulnerability](symbol-of-vulnerability.md)**: Triggered rune gives penalties.
 - **[Transmute Blood to Acid](transmute-blood-to-acid.md)**: Target takes acid damage each round, and its attackers take acid damage.
 - **[Wooden Phalanx](wooden-phalanx.md)**: Creates 1d4+2 temporary wood golems to fight for you.
+
+## Advanced Player's Guide Spells
+
+New spells from the *Advanced Player's Guide*. An M or F after a name marks a material or focus component not normally included in a spell component pouch.
+
+### 0-Level Sorcerer/Wizard Spells
+
+- **[Spark](spark.md)**: Ignites flammable objects.
+
+### 1st-Level Sorcerer/Wizard Spells
+
+- **[Alter Winds](alter-winds.md)**: Increase/decrease strength of natural winds.
+- **[Ant Haul](ant-haul.md)**: Triples carrying capacity of a creature.
+- **[Break](break.md)**: Gives an object the broken condition.
+- **[Crafter's Curse](crafters-curse.md)**: Subject takes –5 on Craft skill checks.
+- **[Crafter's Fortune](crafters-fortune.md)**: Subject gains +5 on next Craft check.
+- **[Dancing Lantern](dancing-lantern.md)**: Animates a lantern that follows you.
+- **[Expeditious Excavation](expeditious-excavation.md)**: Moves 5-ft. cubes of earth.
+- **[Flare Burst](flare-burst.md)**: As flare, but affects all creatures in 10 ft.
+- **[Gravity Bow](gravity-bow.md)**: Arrows do damage as though one size category bigger.
+- **[Hydraulic Push](hydraulic-push.md)**: Wave of water bull rushes an enemy.
+- **[Memory Lapse](memory-lapse.md)**: Subject forgets events back to last turn.
+- **[Sculpt Corpse](sculpt-corpse.md)**: Makes corpse look like another creature.
+- **[Stone Fist](stone-fist.md)**: Your unarmed strikes are lethal.
+- **[Stumble Gap](stumble-gap.md)** (F): Small hole trips creatures.
+- **Touch of Gracelessness**: Subject loses 1d6 + 1 Dex/two levels and is prone to falling down.
+- **Touch of the Sea**: Swim speed becomes 30 ft.
+- **Vanish**: As invisibility for 1 round/level (5 max).
+
+### 2nd-Level Sorcerer/Wizard Spells
+
+- **[Accelerate Poison](accelerate-poison.md)**: Hastens targeted poison’s onset.
+- **[Arrow Eruption](arrow-eruption.md)**: Creates duplicates of killing arrow.
+- **[Burning Gaze](burning-gaze.md)**: Inflict 1d6 fire damage to creature by looking at it.
+- **[Create Pit](create-pit.md)** (F): Creates an extradimensional pit.
+- **[Create Treasure Map](create-treasure-map.md)** (M): Creates a treasure map out of a creature’s corpse.
+- **[Dust of Twilight](dust-of-twilight.md)**: Black particles extinguish light sources within area.
+- **[Elemental Speech](elemental-speech.md)**: Enables you to speak to elementals and some creatures.
+- **[Elemental Touch](elemental-touch.md)**: Gain energy damage touch attack.
+- **[Fire Breath](fire-breath.md)**: Exhale a cone of flame at will.
+- **[Glide](glide.md)**: You take no falling damage, move 60 ft./round while falling.
+- **[Share Language](share-language.md)**: Subject understands chosen language.
+- **[Slipstream](slipstream.md)**: Wave boosts creature’s speed.
+- **[Stone Call](stone-call.md)**: 2d6 damage to all creatures in area.
+
+### 3rd-Level Sorcerer/Wizard Spells
+
+- **[Aqueous Orb](aqueous-orb.md)**: Creates rolling sphere of water.
+- **[Blood Biography](blood-biography.md)**: Learn about a creature with its blood.
+- **[Campfire Wall](campfire-wall.md)**: Creates a shelter around a campfire.
+- **[Cloak of Winds](cloak-of-winds.md)**: Creates a screen of wind around you.
+- **[Devolution](devolution.md)**: Target eidolon temporarily loses 1 evolution +1/five levels.
+- **[Draconic Reservoir](draconic-reservoir.md)**: Subject can absorb energy damage and enhance melee attacks with it.
+- **[Elemental Aura](elemental-aura.md)**: Creates an aura of energy around you.
+- **[Enter Image](enter-image.md)**: Transfers your consciousness to an object bearing your likeness.
+- **[Hydraulic Torrent](hydraulic-torrent.md)**: Creates torrent of water that bull rushes any creature in its path.
+- **[Pain Strike](pain-strike.md)**: Inflicts 1d6 nonlethal damage 1 round/level.
+- **[Seek Thoughts](seek-thoughts.md)**: Detects thinking creatures’ thoughts.
+- **[Shifting Sand](shifting-sand.md)**: Creates difficult terrain and erases tracks, can carry along some creatures and objects.
+- **[Spiked Pit](spiked-pit.md)**: As create pit, but filled with spikes.
+- **Twilight Knife**: Floating knife attacks with you.
+- **Versatile Weapon**: Weapon bypasses some DR.
+
+### 4th-Level Sorcerer/Wizard Spells
+
+- **[Acid Pit](acid-pit.md)** (F): Creates a pit with a layer of acid on the bottom.
+- **[Ball Lightning](ball-lightning.md)**: Flying lightning spheres deal 3d6 electricity damage each.
+- **[Calcific Touch](calcific-touch.md)**: Touch attack slows target, 1d4 Dex damage.
+- **[Detonate](detonate.md)** (M): Inflicts 1d8/level energy damage to all creatures within 15 ft.
+- **[Dragon's Breath](dragons-breath.md)**: Gives you a dragon’s breath weapon.
+- **[Firefall](firefall.md)**: Causes fire to burst up, dealing 2d6 fire damage.
+- **[Moonstruck](moonstruck.md)**: Subject is enraged and confused.
+- **[River of Wind](river-of-wind.md)**: A stream of wind causes nonlethal damage and can knock down or push creatures.
+- **[Shadow Projection](shadow-projection.md)**: Temporarily become a shadow.
+- **[Share Senses](share-senses.md)**: See/hear/smell what your familiar is.
+- **True Form**: Removes polymorph effects.
+- **Wandering Star Motes**: Outlines subject and produces light as a sunrod.
+
+### 5th-Level Sorcerer/Wizard Spells
+
+- **[Fire Snake](fire-snake.md)**: Creates a serpentine path of fire 5 ft. long/level that deals 1d6 fire damage/level.
+- **[Geyser](geyser.md)**: Creates a geyser of boiling water.
+- **[Hungry Pit](hungry-pit.md)**: As create pit, but dealing 4d6 damage to those in it as it closes.
+- **[Life Bubble](life-bubble.md)**: Protects creatures from sustained environmental effects.
+- **[Pain Strike, Mass](pain-strike-mass.md)**: As pain, but affects multiple creatures.
+- **[Phantasmal Web](phantasmal-web.md)**: Catches subjects in illusory web.
+- **[Planar Adaptation](planar-adaptation.md)**: Resist harmful effects of other plane.
+- **[Suffocation](suffocation.md)**: Target quickly suffocates to death.
+- **Treasure Stitching** (M):  Objects on cloth become embroidered.
+
+### 6th-Level Sorcerer/Wizard Spells
+
+- **[Cloak of Dreams](cloak-of-dreams.md)**: Creatures within 5 ft. fall asleep.
+- **[Contagious Flame](contagious-flame.md)**: Scorching rays cause 4d6 fire damage, then move on to new targets.
+- **[Enemy Hammer](enemy-hammer.md)**: Allows you to telekinetically use a creature as a weapon.
+- **[Fluid Form](fluid-form.md)**: Gain DR 10/slashing, increases reach 10 ft., and breathe water.
+- **[Getaway](getaway.md)**: Teleports you and select creatures to predetermined location.
+- **[Sirocco](sirocco.md)**: Hot wind does 4d6 damage, fatigues those damaged, and knocks creatures prone. Unwilling ShieldM: Subject shares wounds you receive.
+
+### 7th-Level Sorcerer/Wizard Spells
+
+- **[Deflection](deflection.md)**: Attacks that miss are redirected back to the source of the attack.
+- **[Expend](expend.md)**: Wastes creatures’ limited use magical ability.
+- **[Firebrand](firebrand.md)**: Allies gain flaming weapons, immunity to your fire spells, and a one-use ray of fire attack.
+- **[Fly, Mass](fly-mass.md)**: One creature/level gains ability to fly.
+- **[Phantasmal Revenge](phantasmal-revenge.md)**: Ghost from corpse hunts killer.
+- **[Planar Adaptation, Mass](planar-adaptation-mass.md)**: As planar adaptation, but affects multiple creatures.
+- **[Rampart](rampart.md)**: Creates 5-ft.-thick earthen barrier.
+- **Vortex**: Creates a whirlpool in water.
+
+### 8th-Level Sorcerer/Wizard Spells
+
+- **[Euphoric Tranquility](euphoric-tranquility.md)**: Makes a creature friendly.
+- **[Seamantle](seamantle.md)**: Sheathes you in protective water.
+- **[Stormbolts](stormbolts.md)**: 1d8 damage/level (max 20d8) to targets.
+- **Wall of Lava**: Wall damages foes that try to enter, periodically launches lava at nearby targets.
+
+### 9th-Level Sorcerer/Wizard Spells
+
+- **[Clashing Rocks](clashing-rocks.md)**: 20d6 damage to target creature.
+- **[Fiery Body](fiery-body.md)**: You gain various fire-related powers.
+- **[Suffocation, Mass](suffocation-mass.md)**: One creature/level suffocates to death.
+- **Tsunami**: Huge wave damages and sweeps up all in its path.
+- **Wall of Suppression** (M): Creates wall that disables magic.
+- **Winds of Vengeance**: Gives you the ability to fly and attack with wind.
+- **World Wave**: Earth moves you across distances.
+

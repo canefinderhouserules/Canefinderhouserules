@@ -129,3 +129,72 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Polar Midnight](polar-midnight.md)**: Cold darkness paralyzes and deals damage. The following spells are presented in alphabetical order, with the exception of those whose names begin with “greater,” “lesser,” or “mass.” These spells are alphabetized
 - **[Symbol of Strife](symbol-of-strife.md)**: Triggered rune makes creatures attack.
 - **[Symbol of Vulnerability](symbol-of-vulnerability.md)**: Triggered rune gives penalties.
+
+## Advanced Player's Guide Spells
+
+New spells from the *Advanced Player's Guide*. An M or F after a name marks a material or focus component not normally included in a spell component pouch.
+
+### 0-Level Witch Spells
+
+- **[Putrefy Food and Drink](putrefy-food-and-drink.md)**: Makes food and water inedible.
+- **[Spark](spark.md)**: Ignites flammable objects.
+
+### 1st-Level Witch Spells
+
+- **[Beguiling Gift](beguiling-gift.md)**: Subject immediately accepts an offered item and uses it.
+- **[Dancing Lantern](dancing-lantern.md)**: Animates a lantern that follows you.
+- **[Ill Omen](ill-omen.md)**: Target rolls twice for checks and attacks and uses worst roll.
+- **[Mask Dweomer](mask-dweomer.md)**: Hides presence of a spell from detect magic.
+
+### 2nd-Level Witch Spells
+
+- **[Burning Gaze](burning-gaze.md)**: Inflict 1d6 fire damage to creature by looking at it.
+- **[Feast of Ashes](feast-of-ashes.md)**: A target starves with an insatiable hunger.
+- **[Fester](fester.md)**: Gives subject SR 12 + your level vs. healing effects.
+- **[Glide](glide.md)**: You take no falling damage and move 60 ft./round while falling.
+- **[Hidden Speech](hidden-speech.md)**: Gain +10 on Bluff to send secret messages.
+- **[Perceive Cues](perceive-cues.md)**: +5 Perception and Sense Motive 10 min./level.
+- **[Pox Pustules](pox-pustules.md)**: Subject is sickened and has –4 Dex.
+- **Vomit Swarm**: Produces a spider swarm that fights for you.
+
+### 3rd-Level Witch Spells
+
+- **[Cup of Dust](cup-of-dust.md)**: Causes a creature to become dehydrated.
+- **[Guiding Star](guiding-star.md)**: Know approximate distance from where you cast this spell.
+- **[Nature's Exile](natures-exile.md)**: Gives subject –10 on Survival checks.
+- **[Pain Strike](pain-strike.md)**: Inflicts 1d6 nonlethal damage 1 round/level.
+- **[Screech](screech.md)**: Foes provoke attacks of opportunity.
+- **[Seek Thoughts](seek-thoughts.md)**: Detects thinking creatures’ thoughts.
+- **[Share Senses](share-senses.md)**: Perceive the world around your familiar.
+- **Twilight Knife**: Floating knife attacks with you.
+
+### 4th-Level Witch Spells
+
+- **[Moonstruck](moonstruck.md)**: Subject is enraged and confused.
+- **[Sleepwalk](sleepwalk.md)** (M): Causes creature to move while asleep.
+- **[Spite](spite.md)** (M): Inflict touch spell upon creature that attacks you.
+- **[Threefold Aspect](threefold-aspect.md)** (F): Appear older or younger.
+- **Wandering Star Motes**: Outlines subject and produces light as a sunrod.
+
+### 5th-Level Witch Spells
+
+- **[Banish Seeming](banish-seeming.md)**: Dispels touched illusion or a creature's change in form.
+- **[Pain Strike, Mass](pain-strike-mass.md)**: As pain strike, but affects multiple creatures.
+- **[Rest Eternal](rest-eternal.md)** (M): Dead creature cannot be revived.
+- **[Suffocation](suffocation.md)**: Target quickly suffocates to death.
+
+### 6th-Level Witch Spells
+
+- **[Cloak of Dreams](cloak-of-dreams.md)**: Causes living creatures within 5 ft. to fall asleep.
+- **[Fester, Mass](fester-mass.md)**: As fester, but affecting multiple targets.
+- **[Swarm Skin](swarm-skin.md)**: Turns your body into a swarm of vermin.
+- **Unwilling Shield** (M): Subject shares wounds you receive.
+
+### 8th-Level Witch Spells
+
+- **[Stormbolts](stormbolts.md)**: 1d8 damage/level (max 20d8) to targets.
+
+### 9th-Level Witch Spells
+
+- **[Suffocation, Mass](suffocation-mass.md)**: One creature/level suffocates to death.
+

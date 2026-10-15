@@ -361,3 +361,68 @@ New spells from *Ultimate Magic*. An M or F after a name marks a material or foc
 - **[Symbol of Strife](symbol-of-strife.md)**: Triggered rune makes creatures attack.
 - **[Symbol of Vulnerability](symbol-of-vulnerability.md)**: Triggered rune gives penalties.
 - **[Wooden Phalanx](wooden-phalanx.md)**: Creates 1d4+2 temporary wood golems to fight for you.
+
+## Advanced Player's Guide Spells
+
+New spells from the *Advanced Player's Guide*. An M or F after a name marks a material or focus component not normally included in a spell component pouch.
+
+### 0-Level Cleric Spells
+
+- **[Spark](spark.md)**: Ignites flammable objects.
+
+### 1st-Level Cleric Spells
+
+- **[Ant Haul](ant-haul.md)**: Triples carrying capacity of a creature.
+- **[Dancing Lantern](dancing-lantern.md)**: Animates a lantern that follows you.
+
+### 2nd-Level Cleric Spells
+
+- **[Blessing of Courage and Life](blessing-of-courage-and-life.md)**: +2 on saves vs. fear and death.
+- **[Ghostbane Dirge](ghostbane-dirge.md)**: Incorporeal creature takes half damage from nonmagical weapons.
+- **[Grace](grace.md)**: Movement doesn’t provoke attacks of opportunity.
+- **[Instant Armor](instant-armor.md)**: Summon armor temporarily replacing your current attire.
+- **[Oracle's Burden](oracles-burden.md)**: (Oracle only.) Creature is affected by negative oracle's curse effects.
+- **[Share Language](share-language.md)**: Subject understands chosen language.
+- **Weapon of Awe**: Weapon gets +2 on damage rolls.
+
+### 3rd-Level Cleric Spells
+
+- **[Blood Biography](blood-biography.md)**: Learn about a creature with its blood.
+- **[Borrow Fortune](borrow-fortune.md)**: (Oracle only.) Retry attack or check, but do worse on next two.
+- **[Elemental Speech](elemental-speech.md)**: You can speak with elementals and some creatures.
+- **[Enter Image](enter-image.md)**: Transfers your consciousness to an object bearing your likeness.
+- **[Guiding Star](guiding-star.md)**: Know approximate distance from where you cast this spell.
+- **[Nap Stack](nap-stack.md)** (M): Subjects only need 2 hours for a night’s sleep, and can sleep even longer for more benefits.
+- **[Sacred Bond](sacred-bond.md)** (F): Cast touch healing spells from a distance.
+- **Wrathful Mantle**: Subject gets +1/four levels on all saves.
+
+### 4th-Level Cleric Spells
+
+- **[Blessing of Fervor](blessing-of-fervor.md)**: Gives allies a choice of benefits.
+- **[Planar Adaptation](planar-adaptation.md)**: Resist harmful effects of other plane.
+- **[Rest Eternal](rest-eternal.md)** (M): Dead creature cannot be revived.
+- **[Spiritual Ally](spiritual-ally.md)**: Creates a divine ally to aid you.
+
+### 5th-Level Cleric Spells
+
+- **[Cleanse](cleanse.md)**: Cures 4d8 damage +1/level (max +25) and also removes several afflictions.
+- **[Ghostbane Dirge, Mass](ghostbane-dirge-mass.md)**: As ghostbane dirge, but affects multiple creatures.
+- **[Life Bubble](life-bubble.md)**: Protects creatures from environment.
+- **[Pillar of Life](pillar-of-life.md)**: Created pillar heals 2d8 + 1/level (max +20).
+- **[Snake Staff](snake-staff.md)**: Transforms staff or other wood into snakes to fight for you.
+- **Treasure Stitching** (M):  Objects on cloth become embroidered.
+
+### 6th-Level Cleric Spells
+
+- **[Planar Adaptation, Mass](planar-adaptation-mass.md)**: As planar adaptation, but affects multiple creatures.
+
+### 8th-Level Cleric Spells
+
+- **[Divine Vessel](divine-vessel.md)**: (Oracle only.) Change into a huge, otherworldly creature.
+- **[Euphoric Tranquility](euphoric-tranquility.md)**: Makes a single creature peaceful and friendly.
+- **[Stormbolts](stormbolts.md)**: 1d8 damage/level (max 20d8) to targets.
+
+### 9th-Level Cleric Spells
+
+- **Winds of Vengeance**: Grants flight; attack with wind.
+
