@@ -26,6 +26,22 @@ The prestige classes presented in this chapter are summarized below.
 
 **[Shadowdancer](shadowdancer.md)**: A mysterious adventurer who walks the boundaries between the real world and the realm of shadows, and who can command shadows to do her bidding.
 
+**[Battle Herald](battle-herald.md)**: A veteran whose masterful tactics and air of command inspire allies to greater feats of heroism.
+
+**[Holy Vindicator](holy-vindicator.md)**: A pious warrior who spreads religion at the edge of a sword.
+
+**[Horizon Walker](horizon-walker.md)**: A scout and wanderer comfortable in even the strangest terrain.
+
+**[Master Chymist](master-chymist.md)**: An alchemist whose mutagens create an alternate, brutish personality.
+
+**[Master Spy](master-spy.md)**: An espionage expert specializing in disguises and striking swiftly from the shadows.
+
+**[Nature Warden](nature-warden.md)**: A master of the wilderness bonded spiritually to a fearsome animal companion.
+
+**[Rage Prophet](rage-prophet.md)**: A bold and barbaric champion who embraces otherworldly powers in order to perfect the art of combat.
+
+**[Stalwart Defender](stalwart-defender.md)**: A master of defending territory and holding the line at all costs.
+
 ### Definitions of Terms
 
 Here are definitions of some terms used in this section.
