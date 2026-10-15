@@ -392,3 +392,143 @@ Feats from *Ultimate Magic*. Each name links to its full description.
 | [Experimental Spellcaster](experimental-spellcaster.md) | — | Ability to cast spells |
 | [Extra Word](extra-word.md) | — | Caster level 1st, ability to cast wordspells, see Special |
 | [Meta Word Mastery](meta-word-mastery.md) | — | Ability to cast wordspells |
+
+## Advanced Player's Guide Feats
+
+Feats from the *Advanced Player's Guide*. Each name links to its full description.
+
+| Feat | Type | Prerequisites |
+|---|---|---|
+| [Additional Traits](additional-traits.md) | — | — |
+| [Allied Spellcaster](allied-spellcaster.md) | Teamwork | Caster level 1st |
+| [Arcane Blast](arcane-blast.md) | — | Arcane spellcaster, caster level 10th |
+| [Arcane Shield](arcane-shield.md) | — | Arcane spellcaster, caster level 10th |
+| [Arcane Talent](arcane-talent.md) | — | Cha 10; elf, half-elf, or gnome |
+| [Aspect of the Beast](aspect-of-the-beast.md) | — | wild shape class feature, see Special |
+| [Bashing Finish](bashing-finish.md) | Combat | Improved Shield Bash, Shield Master, Two-Weapon Fighting, base attack bonus +11 |
+| [Bloody Assault](bloody-assault.md) | Combat | Str 13, Power Attack, base attack bonus +6 |
+| [Bodyguard](bodyguard.md) | Combat | Combat Reflexes |
+| [Bouncing Spell](bouncing-spell.md) | Metamagic | — |
+| [Breadth of Experience](breadth-of-experience.md) | — | Dwarf, elf, or gnome; 100+ years old |
+| [Bull Rush Strike](bull-rush-strike.md) | Combat | Str 13, Improved Bull Rush, Power Attack, base attack bonus +9 |
+| [Charge Through](charge-through.md) | Combat | Str 13, Improved Overrun, Power Attack, base attack bonus +1 |
+| [Childlike](childlike.md) | — | Cha 13, halfling |
+| [Cloud Step](cloud-step.md) | — | Spider Step, monk level 12th |
+| [Cockatrice Strike](cockatrice-strike.md) | Combat | Improved Unarmed Strike, Gorgon’s Fist, Medusa’s Wrath, base attack bonus +14 |
+| [Combat Patrol](combat-patrol.md) | Combat | Combat Reflexes, Mobility, base attack bonus +5 |
+| [Cooperative Crafting](cooperative-crafting.md) | — | 1 rank in any Craft skill, any item creation feat |
+| [Coordinated Defense](coordinated-defense.md) | Combat, Teamwork | — |
+| [Coordinated Maneuvers](coordinated-maneuvers.md) | Combat, Teamwork | — |
+| [Cosmopolitan](cosmopolitan.md) | — | — |
+| [Covering Defense](covering-defense.md) | Combat | Shield Focus, base attack bonus +6 |
+| [Crippling Critical](crippling-critical.md) | Combat, Critical | Critical Focus, base attack bonus +13 |
+| [Crossbow Mastery](crossbow-mastery.md) | Combat | Dex 15, Point-Blank Shot, Rapid Reload, Rapid Shot |
+| [Dastardly Finish](dastardly-finish.md) | Combat | Sneak attack +5d6 |
+| [Dazing Assault](dazing-assault.md) | Combat | Str 13, Power Attack, base attack bonus +11 |
+| [Dazing Spell](dazing-spell.md) | Metamagic | — |
+| [Deep Drinker](deep-drinker.md) | — | Con 13, monk level 11, drunken ki class feature |
+| [Deepsight](deepsight.md) | — | Darkvision 60 feet |
+| [Disarming Strike](disarming-strike.md) | Combat | Int 13, Combat Expertise, Improved Disarm, base attack bonus +9 |
+| [Disrupting Shot](disrupting-shot.md) | Combat | Dex 13, Point-Blank Shot, fighter level 6th |
+| [Disruptive Spell](disruptive-spell.md) | Metamagic | — |
+| [Diviner’s Delving](diviner-s-delving.md) | — | Spell Focus (divination) |
+| [Dreadful Carnage](dreadful-carnage.md) | Combat | Str 15, Power Attack, Furious Focus, base attack bonus +11 |
+| [Duck and Cover](duck-and-cover.md) | Teamwork | — |
+| [Eagle Eyes](eagle-eyes.md) | — | Wis 13, keen senses racial trait |
+| [Eclectic](eclectic.md) | — | Human |
+| [Ectoplasmic Spell](ectoplasmic-spell.md) | Metamagic | — |
+| [Eldritch Claws](eldritch-claws.md) | Combat | Str 15, natural weapons, base attack bonus +6 |
+| [Elemental Fist](elemental-fist.md) | Combat | Con 13, Wis 13, Improved Unarmed Strike, base attack bonus +8 |
+| [Elemental Focus](elemental-focus.md) | — | — |
+| [Elemental Spell](elemental-spell.md) | Metamagic | — |
+| [Elven Accuracy](elven-accuracy.md) | Combat | Elf |
+| [Enforcer](enforcer.md) | Combat | Intimidate 1 rank |
+| [Expanded Arcana](expanded-arcana.md) | — | Caster level 1st, see Special |
+| [Extra Bombs](extra-bombs.md) | — | Bomb class feature |
+| [Extra Discovery](extra-discovery.md) | — | Discovery class feature |
+| [Extra Hex](extra-hex.md) | — | Hex class feature |
+| [Extra Rage Power](extra-rage-power.md) | — | Rage power class feature |
+| [Extra Revelation](extra-revelation.md) | — | Revelation class feature |
+| [Extra Rogue Talent](extra-rogue-talent.md) | — | Rogue talent class feature |
+| [Fast Drinker](fast-drinker.md) | — | Con 18, drunken ki class feature |
+| [Fast Healer](fast-healer.md) | — | Con 13, Diehard, Endurance |
+| [Favored Defense](favored-defense.md) | — | Favored enemy class feature |
+| [Fight On](fight-on.md) | — | Con 13; dwarf, half-orc, or orc |
+| [Focused Shot](focused-shot.md) | Combat | Int 13, Point Blank Shot, Precise Shot |
+| [Focused Spell](focused-spell.md) | Metamagic | — |
+| [Following Step](following-step.md) | Combat | Dex 13, Step Up |
+| [Furious Focus](furious-focus.md) | Combat | Str 13, Power Attack, base attack bonus +1 |
+| [Gang Up](gang-up.md) | Combat | Int 13, Combat Expertise |
+| [Gnome Trickster](gnome-trickster.md) | — | Cha 13, gnome, gnome magic racial trait |
+| [Go Unnoticed](go-unnoticed.md) | — | Dex 13, Small size or smaller |
+| [Greater Blind-Fight](greater-blind-fight.md) | Combat | Perception 15 ranks, Improved BlindFight |
+| [Greater Dirty Trick](greater-dirty-trick.md) | Combat | Int 13, Combat Expertise, Improved Dirty Trick, base attack bonus +6 |
+| [Greater Drag](greater-drag.md) | Combat | Str 13, Improved Drag, Power Attack, base attack bonus +6 |
+| [Greater Elemental Focus](greater-elemental-focus.md) | — | Elemental Focus |
+| [Greater Reposition](greater-reposition.md) | Combat | Int 13, Combat Expertise, Improved Reposition, base attack bonus +6 |
+| [Greater Shield Specialization](greater-shield-specialization.md) | Combat | Proficiency with selected shield, Greater Shield Focus, Shield Focus, Shield Specialization with selected shield, fighter level 12th |
+| [Greater Steal](greater-steal.md) | Combat | Int 13, Combat Expertise, Improved Steal, base attack bonus +6 |
+| [Groundling](groundling.md) | — | Cha 13, gnome, gnome magic racial trait |
+| [Heroic Defiance](heroic-defiance.md) | — | Diehard, Endurance, base Fortitude save +8 |
+| [Heroic Recovery](heroic-recovery.md) | — | Diehard, Endurance, base Fortitude save +4 |
+| [Improved Blind-Fight](improved-blind-fight.md) | Combat | Perception 10 ranks, Blind-Fight |
+| [Improved Dirty Trick](improved-dirty-trick.md) | Combat | Int 13, Combat Expertise |
+| [Improved Drag](improved-drag.md) | Combat | Str 13, Power Attack, base attack bonus +1 |
+| [Improved Ki Throw](improved-ki-throw.md) | Combat | Improved Bull Rush, Ki Throw |
+| [Improved Reposition](improved-reposition.md) | Combat | Int 13, Combat Expertise |
+| [Improved Second Chance](improved-second-chance.md) | Combat | Int 13, Combat Expertise, Second Chance, base attack bonus +11 |
+| [Improved Share Spells](improved-share-spells.md) | — | Spellcraft 10 ranks, ability to acquire an animal companion, eidolon, familiar, or special mount |
+| [Improved Sidestep](improved-sidestep.md) | Combat | Dex 15, Dodge, Mobility, Sidestep |
+| [Improved Steal](improved-steal.md) | Combat | Int 13, Combat Expertise |
+| [Improved Stonecunning](improved-stonecunning.md) | — | Wis 13, dwarf, stonecunning racial trait |
+| [In Harm’s Way](in-harm-s-way.md) | Combat | Bodyguard |
+| [Intensified Spell](intensified-spell.md) | Metamagic | — |
+| [Ironguts](ironguts.md) | — | Con 13; dwarf, half-orc, or orc |
+| [Ironhide](ironhide.md) | — | Con 13; dwarf, half-orc, or orc |
+| [Keen Scent](keen-scent.md) | — | Wis 13, half-orc or orc |
+| [Ki Throw](ki-throw.md) | Combat | Improved Trip, Improved Unarmed Strike |
+| [Leaf Singer](leaf-singer.md) | — | Cha 13, bardic performance class feature, elf or half-elf |
+| [Light Step](light-step.md) | — | Acrobatic Steps, Nimble Moves, elf |
+| [Lingering Performance](lingering-performance.md) | — | Bardic performance class feature |
+| [Lingering Spell](lingering-spell.md) | Metamagic | — |
+| [Lookout](lookout.md) | Combat, Teamwork | — |
+| [Low Profile](low-profile.md) | Combat | Dex 13, Small size or smaller |
+| [Lucky Halfling](lucky-halfling.md) | — | Halfling |
+| [Major Spell Expertise](major-spell-expertise.md) | — | Minor Spell Expertise, ability to cast 9th-level spells |
+| [Master Alchemist](master-alchemist.md) | — | Craft (alchemy) 5 ranks |
+| [Merciful Spell](merciful-spell.md) | Metamagic | — |
+| [Minor Spell Expertise](minor-spell-expertise.md) | — | Ability to cast 4th-level spells |
+| [Missile Shield](missile-shield.md) | Combat | Dex 13, Shield Focus |
+| [Mounted Shield](mounted-shield.md) | Combat | Mounted Combat, Shield Focus |
+| [Mounted Skirmisher](mounted-skirmisher.md) | Combat | Ride rank 14, Mounted Combat, Trick Riding |
+| [Outflank](outflank.md) | Combat, Teamwork | Base attack bonus +4 |
+| [Paired Opportunists](paired-opportunists.md) | Combat, Teamwork | — |
+| [Parry Spell](parry-spell.md) | — | Spellcraft 15 ranks, Improved Counterspell  |
+| [Parting Shot](parting-shot.md) | Combat | Dex 13, Dodge, Mobility, Point Blank Shot, Shot on the Run, base attack bonus +6 |
+| [Pass for Human](pass-for-human.md) | — | Half-elf, half-orc, or halfling (see Special) |
+| [Perfect Strike](perfect-strike.md) | Combat | Dex 13, Wis 13, Improved Unarmed Strike, base attack bonus +8 |
+| [Persistent Spell](persistent-spell.md) | Metamagic | — |
+| [Point Blank Master](point-blank-master.md) | Combat | Weapon Specialization with selected ranged weapon |
+| [Practiced Tactician](practiced-tactician.md) | — | Tactician class feature |
+| [Precise Strike](precise-strike.md) | Combat, Teamwork | Dex 13, base attack bonus +1 |
+| [Preferred Spell](preferred-spell.md) | — | Spellcraft 5 ranks, Heighten Spell |
+| [Punishing Kick](punishing-kick.md) | Combat | Con 13, Wis 13, Improved Unarmed Strike, base attack bonus +8 |
+| [Pushing Assault](pushing-assault.md) | Combat | Str 15, Power Attack, base attack bonus +1 |
+| [Racial Heritage](racial-heritage.md) | — | Human |
+| [Raging Vitality](raging-vitality.md) | — | Con 15, rage class feature |
+| [Ray Shield](ray-shield.md) | Combat | Dex 15, Missile Shield, Spellbreaker |
+| [Razortusk](razortusk.md) | — | Half-orc |
+| [Reach Spell](reach-spell.md) | Metamagic | — |
+| [Rending Claws](rending-claws.md) | Combat | Str 13, two claw natural weapon attacks, base attack bonus +6 |
+| [Repositioning Strike](repositioning-strike.md) | Combat | Int 13, Combat Expertise, Improved Reposition, base attack bonus +9 |
+| [Saving Shield](saving-shield.md) | Combat | Shield Proficiency |
+| [Second Chance](second-chance.md) | Combat | Int 13, Combat Expertise, base attack bonus +6 |
+| [Selective Spell](selective-spell.md) | Metamagic | Spellcraft 10 ranks |
+| [Shadow Strike](shadow-strike.md) | Combat | Base attack bonus +1 |
+| [Shared Insight](shared-insight.md) | — | Wis 13, half-elf |
+| [Sharp Senses](sharp-senses.md) | — | Keen senses racial trait |
+| [Shield of Swings](shield-of-swings.md) | Combat | Str 13, Power Attack, base attack bonus +1 |
+| [Shield Specialization](shield-specialization.md) | Combat | Proficiency with selected shield, Shield Focus, fighter level 4th |
+| [Shield Wall](shield-wall.md) | Combat, Teamwork | Shield Proficiency |
+| [Shielded Caster](shielded-caster.md) | Teamwork | — |
+| [Sickening Spell](sickening-spell.md) | Metamagic | — |

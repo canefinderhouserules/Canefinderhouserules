@@ -1,0 +1,11 @@
+# Elemental Fist
+
+*(Combat)*
+
+You empower your strike with elemental energy
+
+**Prerequisites**: Con 13, Wis 13, Improved Unarmed Strike, base attack bonus +8.
+
+**Benefit**: When you use Elemental Strike pick one of the following energy types: acid, cold, electricity, or fire. On a successful hit, the attack deals damage normally plus 1d6 points of damage of the chosen type. You must declare that you are using this feat before you make your attack roll (thus a failed attack roll ruins the attempt). You may attempt an elemental fist attack once per day for every four levels you have attained (see Special), and no more than once per round.
+
+**Special**: A monk of the four winds receives Elemental Fist as a bonus feat at 1st level, even if he does not meet the prerequisites. A monk may attempt an Elemental Fist attack a number of times per day equal to his monk level, plus one more time per day for every four levels he has in classes other than monk.
