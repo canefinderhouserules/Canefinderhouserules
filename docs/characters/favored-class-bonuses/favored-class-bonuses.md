@@ -5,7 +5,7 @@
 
     The only rule to keep in mind: bonuses that grant something class-specific (extra combat feat, extra wild talent, extra rogue talent, and so on) require that you actually have a class with those features. If your class does not give extra combat feats, you cannot take that FCB; if it does not give discoveries, you cannot gain discoveries this way; and so on.
 
-    The official FCB system can still be used in case a very specific case was removed or nerfed by making the list general, following the normal rules (being of the appropriate race and so on).
+    The official FCB system can still be used in case a very specific case was removed or nerfed by making the list general, following the normal rules (being of the appropriate race and so on). The official racial options are listed in [Racial Favored Class Options](racial-favored-class-options.md).
 
 ## FCBs
 
