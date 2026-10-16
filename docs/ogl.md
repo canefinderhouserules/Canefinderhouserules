@@ -1,6 +1,6 @@
 # Open Game License
 
-This site uses material from the Pathfinder Roleplaying Game Core Rulebook, published under the Open Game License v1.0a. No Product Identity is used. The full license text and the required Section 15 copyright notice follow.
+This site uses material from the Pathfinder Roleplaying Game Core Rulebook and Advanced Player’s Guide, published under the Open Game License v1.0a. No Product Identity is used. The full license text and the required Section 15 copyright notice follow.
 
 ## OPEN GAME LICENSE Version 1.0a
 
@@ -39,3 +39,5 @@ The following text is the property of Wizards of the Coast, Inc. and is Copyrigh
     Pathfinder Player Companion: Mythic Origins © 2013, Paizo Publishing, LLC; Authors: Dennis Baker, Philip Minchin, and Russ Taylor.
 
     Pathfinder Roleplaying Game Ultimate Magic © 2011, Paizo Publishing, LLC; Authors: Jason Bulmahn, Tim Hitchcock, Colin McComb, Rob McCreary, Jason Nelson, Stephen Radney-MacFarland, Sean K Reynolds, Owen K.C. Stephens, and Russ Taylor.
+
+    Pathfinder Roleplaying Game Advanced Player's Guide © 2010, Paizo Publishing, LLC; Author: Jason Bulmahn.
