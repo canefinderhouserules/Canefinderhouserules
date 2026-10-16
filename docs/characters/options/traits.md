@@ -1,5 +1,7 @@
 # Traits and Skill Options
 
+The full trait rules and lists are in [Traits](../traits/index.md).
+
 !!! warning "House rules"
     Trait changes and new traits used at this table.
 
