@@ -273,3 +273,45 @@ Some oracles seek meaning in the pattern of the stars across the night sky, the 
 **Guiding Star (Su)**: As the heavens mystery revelation. You must take this revelation at 1st level.
 
 **Star Chart (Ex)**: As the heavens mystery revelation. You must take this revelation at 7th level.
+
+## Psychic Searcher
+
+A psychic searcher is devoted to revealing the hidden within the world around her by sensing and communing with residual mental energy, haunts, and fragments of living spirits that can dwell in objects or rooms.
+
+**Bonus Spells**: Augury (4th), locate object (6th), divination (8th), find the path (12th), discern location (16th), foresight(18th). These bonus spells replace the oracle's normal mystery bonus spells at these levels.
+
+**Inspiration (Ex)**: At 2nd level, a psychic searcher gains an inspiration pool, as the investigator class ability. A psychic searcher uses her oracle level as her investigator level to determine the effects of this ability. She gains free uses of inspiration on Diplomacy, Knowledge (arcana, history, local, nobility, planes, religion), and Sense Motive skill checks without spending a use of inspiration, provided she's trained in that skill. A psychic searcher's inspiration pool refreshes each day, usually when she refreshes her spells. A psychic searcher's inspiration pool is based on her Wisdom modifier, not Intelligence. This ability replaces the mystery spell gained at 2nd level.
+
+**Psychic Talent (Su)**: At 3rd level, a psychic searcher's mastery of her supernatural insight grows, granting her a new investigator talent from the following list: amazing inspiration, eidetic recollection, empathy, inspired alertness, item lore, perceptive tracking (except using Sense Motive instead of Perception or Survival), rogue talent (only for hard to fool), and tenacious inspiration. Whenever a psychic searcher can select a new revelation, she can instead select an investigator or rogue talent from the above list. This ability replaces the revelation gained at 3rd level. Recommended Mysteries: Ancestor, lore, nature.
+
+## Spirit Guide
+
+Through her exploration of the universe's mysteries, a spirit guide opens connections to the spirit world and forms bonds with the entities that inhabit it.
+
+**Class Skills**: A spirit guide gains all Knowledge skills as class skills. This replaces the bonus class skills gained from the oracle's mystery.
+
+**Bonded Spirit (Su)**: At 3rd level, a spirit guide can form a temporary bond with a spirit, as the shaman's wandering spirit class feature. She must make this selection each day when she refreshes her spells. A spirit guide cannot bond with a spirit that is incompatible with her alignment, ethos, or mystery (GM's discretion).
+
+A spirit guide gains one hex of her choice from the list of hexes available from that spirit. She uses her oracle level as her shaman level and her Charisma score instead of Wisdom for the purpose of determining its effects.
+
+At 4th level, she adds the bonded spirit's spirit magic spells to her oracle spells known for that day, but only of spell levels she can cast. At 7th level, she gains the spirit ability of her current bonded spirit. At 15th level, she gains the greater spirit ability of her current bonded spirit.
+
+This ability replaces the revelations gained at 3rd, 7th, and 15th levels.
+
+**Recommended Mysteries**: Ancestor, heavens, lore.
+
+## Warsighted
+
+A warsighted's unique gifts are not in strange magical revelations, but in her ability to adapt in the midst of a battle with new fighting techniques. The warsighted is a master of combat, as dedicated as a fighter and as flexible as a brawler.
+
+**Martial Flexibility (Ex)**: At 1st level, a warsighted can use a move action to gain the benefit of a combat feat she doesn't possess. This effect lasts for 1 minute. The warsighted must otherwise meet all the feat's prerequisites. She can use this ability a number of times per day equal to 3 + 1/2 her oracle level.
+
+The warsighted can use this ability again before the duration expires in order to replace the previous combat feat with another choice.
+
+If a combat feat has a daily use limitation (for example, Stunning Fist), any uses of that combat feat while using this ability count toward that feat's daily limit. At later levels, when she gains multiple feats through this ability, she can use those feats to meet the prerequisites of other feats she gains with this ability. Doing so means that she cannot replace a feat currently fulfilling another's prerequisite without also replacing those feats that require it. Each individual feat selected counts toward her daily uses of this ability. At 7th level, a warsighted can use this ability to gain the benefit of two combat feats at the same time. She can select one feat as a swift action or two feats as a move action. At 11th level, a warsighted can use this ability to gain the benefits of three combat feats at the same time. She can select one feat as a free action, two feats as a swift action, or three feats as a move action.
+
+At 15th level, a warsighted can use this ability to gain the benefit of one combat feat as an immediate action or three combat feats as a swift action.
+
+This ability replaces the revelations gained at 1st, 7th, 11th, and 15th levels.
+
+**Recommended Mysteries**: Battle, bones, nature, metal.

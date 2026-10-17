@@ -50,7 +50,7 @@ For example, a barbarian that selects a beast totem rage power cannot later chos
 
 **Ferocious Mount, Greater (Ex)**: While raging and mounted, the barbarian’s mount gains the benefits of any rage powers that are constant in effect when the barbarian is raging. It does not gain the benefit of any rage powers that require actions to activate, even if they are free actions. A barbarian must have the ferocious mount rage power to select this rage power. A barbarian must be at least 8th level to select this rage power.
 
-**Ferocious Trample (Ex)**: While raging and mounted, the barbarian’s mount gains the trample special attack (Pathfinder RPG Bestiary 305). This attack inflicts 1d8 points of damage for a Medium mount, 2d6 for a Large mount, or 2d8 for a Huge mount, plus 1–1/2 times the mount’s Strength modifier. A successful Reflex save (DC 10 + 1/2 the barbarian’s level + the mount’s Strength modifier) halves this damage. Creatures in the mount’s path or that threaten squares it passes through may make attacks of opportunity against either the barbarian or the mount, but not both. A barbarian must have the ferocious mount rage power to select this rage power. A barbarian must be at least 8th level to select this rage power.
+**Ferocious Trample (Ex)**: While raging and mounted, the barbarian’s mount gains the trample special attack. This attack inflicts 1d8 points of damage for a Medium mount, 2d6 for a Large mount, or 2d8 for a Huge mount, plus 1–1/2 times the mount’s Strength modifier. A successful Reflex save (DC 10 + 1/2 the barbarian’s level + the mount’s Strength modifier) halves this damage. Creatures in the mount’s path or that threaten squares it passes through may make attacks of opportunity against either the barbarian or the mount, but not both. A barbarian must have the ferocious mount rage power to select this rage power. A barbarian must be at least 8th level to select this rage power.
 
 **Ferocious Trample, Greater (Ex)**: A barbarian’s mount can affect creatures up to its own size with its ferocious trample. In addition, it can make an overrun combat maneuver check as a free action against a creature that fails its Reflex save (or chooses not to save in order to take an attack of opportunity) against its trample. A barbarian must have the ferocious trample rage power to select this rage power. A barbarian must be at least 12th level to select this rage power.
 
@@ -72,7 +72,7 @@ For example, a barbarian that selects a beast totem rage power cannot later chos
 
 **Hurling, Greater (Ex)**: As hurling, but the barbarian can increase the range increment to 30 feet or increase the size of a hurled object by two size categories. A barbarian must have the hurling rage power to select this rage power. A barbarian must be at least 12th level to select this rage power.
 
-**Hurling, Lesser (Ex)**: As a full-round action while raging, the barbarian can lift and hurl an object up to one size category smaller than herself with both hands or two size categories smaller with one hand as an improvised weapon with a range increment of 10 feet. This inflicts damage as a falling object (Core Rulebook 443) plus the barbarian’s Strength bonus. This damage is halved if the object is not made of stone, metal, or similar material. This is a ranged touch attack, and the target may attempt a Reflex save (DC 10 + 1/2 the barbarian’s level + the barbarian’s Strength modifier) for half damage. The barbarian may apply Power Attack to this attack as a one- or two-handed weapon, as appropriate.
+**Hurling, Lesser (Ex)**: As a full-round action while raging, the barbarian can lift and hurl an object up to one size category smaller than herself with both hands or two size categories smaller with one hand as an improvised weapon with a range increment of 10 feet. This inflicts damage as a falling object plus the barbarian’s Strength bonus. This damage is halved if the object is not made of stone, metal, or similar material. This is a ranged touch attack, and the target may attempt a Reflex save (DC 10 + 1/2 the barbarian’s level + the barbarian’s Strength modifier) for half damage. The barbarian may apply Power Attack to this attack as a one- or two-handed weapon, as appropriate.
 
 **Hurling Charge (Ex)**: While raging and making a charge attack, the barbarian may draw and throw a hurled weapon during her charge, gaining the normal +2 attack roll bonus on the thrown weapon attack as well as on the melee attack at the end of the charge. The barbarian must move at least 10 feet before using a thrown weapon and at least 10 additional feet before making a melee attack at the end of her charge. The barbarian must have a thrown weapon in hand or have one hand free at the beginning of her charge. A barbarian must have the lesser hurling rage power to select this rage power. A barbarian must be at least 6th level to select this rage power.
 
@@ -203,3 +203,51 @@ Many barbarians distrust magic. While most just shy away from magic, others focu
 A barbarian often has a special totem that is the patron of her tribe. While individual totems vary, those in the tribe that call upon a totem receive similar abilities. Totem warrior barbarians can select from the following rage powers.
 
 **Rage Powers**: The totem warrior is based entirely upon his totem rage powers. In addition to the totem powers themselves, the following rage powers complement the totem warrior archtype (depending on the totem chosen): animal fury*, low-light vision*, night vision*, raging climber*, raging leaper*, raging swimmer*, and swift foot*.
+
+## New Rage Powers
+
+Any barbarian meeting the prerequisites can take the following new rage powers. Blood rage powers grant powers in a theme. A barbarian cannot select from more than one group of blood rage powers. A barbarian of any level can take a lesser blood rage power. The middle blood rage power (that without "lesser" or "greater" in the title) can only be taken by a 6th level or higher barbarian that already has the lesser blood rage power of its group. A greater blood rage power can only be taken by a 10th level or higher barbarian that already has the middle blood rage power.
+
+**Abyssal Blood (Su)**: Once per day when the barbarian enters a rage, she can choose to grow one size category larger than her base size (as enlarge person, even if the barbarian isn't humanoid).
+
+**Abyssal Blood, Greater (Su)**: While raging, the barbarian gains resistance 5 to acid, cold, and fire.
+
+**Abyssal Blood, Lesser (Su)**: While raging, the barbarian gains two claw attacks. These attacks are considered primary attacks and are made at the barbarian's full base attack bonus. They deal 1d6 points of slashing damage for Medium creatures (1d4 if Small) plus her Strength modifier.
+
+**Celestial Blood (Su)**: While raging, the barbarian gains resistance 5 to acid and cold.
+
+**Celestial Blood, Greater (Su)**: Once per rage, the barbarian can reroll one ability check, skill check, or saving throw she just made. She must take the second result, even if it's lower. She must decide to use this ability after the die is rolled but before results are revealed.
+
+**Celestial Blood, Lesser (Su)**: While raging, the barbarian's melee attacks are considered good-aligned weapons for the purpose of bypassing damage reduction.
+
+Furthermore, the barbarian deals an additional 1d6 points of damage when she damages an evil outsider with a melee attack.
+
+**Draconic Blood (Su)**: Choose an energy type from the following: acid, cold, fire, or electricity. While raging, the barbarian gains resistance 5 against the chosen energy type and a +1 natural armor bonus.
+
+**Draconic Blood, Greater (Su)**: While raging, the barbarian gains a breath weapon that she can use once per day. For every 2 barbarian levels, this breath weapon deals 1d6 points of damage of the energy type she choose for the draconic blood power, either in a 30-foot cone (if cold or fire) or a 60-foot line (if acid or electricity). Those caught in the area of the breath can attempt a Reflex saving throw for half damage. The DC of this save is equal to 10 + 1/2 the barbarian's level + her Constitution modifier.
+
+**Draconic Blood, Lesser (Su)**: While raging, the barbarian gains two claw attacks. These attacks are considered primary attacks and are made at the barbarian's full base attack bonus. They deal 1d6 points of slashing damage for Medium creatures (1d4 if Small) plus her Strength modifier.
+
+**Elemental Blood (Su)**: While raging the barbarian gains energy resistance 10 against the energy type chosen when she took lesser elemental blood.
+
+**Elemental Blood, Greater (Su)**: While raging, the barbarian gains a special movement type or bonus based on her chosen element: acid grants a burrow speed of 30 feet, cold grants a swim speed of 60 feet, fire grants an increase of 30 feet to her base land speed, and electricity grants a fly speed of 60 feet (good maneuverability).
+
+**Elemental Blood, Lesser (Su)**: Choose an energy type: acid, cold, fire, or electricity. While raging, as a swift action up to three times a day, the barbarian can imbue her melee attacks with elemental energy, dealing an additional 1d6 points of damage of the chosen energy type for 1 round.
+
+**Fey Blood (Su)**: While raging, when the barbarian charges, she ignores difficult terrain (including magical terrain, but not other creatures).
+
+**Fey Blood, Greater (Su)**: While raging, as long as the barbarian moves at least 10 feet, she gain the effects of blur for 1 round.
+
+**Fey Blood, Lesser (Su)**: While raging, each time the barbarian confirms a critical hit, the target must succeed at a Will saving throw (DC = 10 + 1/2 the barbarian's level + her Constitution modifier) or be confused for one round. This is a mind-affecting compulsion effect.
+
+**Infernal Blood (Su)**: While raging, the barbarian gains fire resistance 5, as well as a +2 bonus on saving throws against poison.
+
+**Infernal Blood, Greater (Su)**: While raging, the barbarian gains a +4 bonus against enchantment and fear effects.
+
+**Infernal Blood, Lesser (Su)**: While raging, up to three times a day as a swift action, the barbarian can infuse her attacks with hellfire for 1 round. During this time, all of her melee attacks gain the flaming magic weapon special ability.
+
+**Undead Blood (Su)**: While raging, all of the barbarian's melee attacks are treated as if they were made with a weapon with the ghost touch weapon special ability.
+
+**Undead Blood, Greater (Su)**: While raging, the barbarian gains cold resistance 10, as well as DR 10/- against nonlethal damage.
+
+**Undead Blood, Lesser (Su)**: While raging, when the barbarian hits a creature with a charge attack, the creature she hit becomes shaken for a number of rounds equal to 1/2 her barbarian level (minimum 1). This effect does not stack with other fear effects to cause a stronger condition.

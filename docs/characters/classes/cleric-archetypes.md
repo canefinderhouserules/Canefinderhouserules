@@ -173,3 +173,21 @@ A cleric cannot take the undead lord archetype unless her deity’s portfolio in
 **Unlife Healer (Su)**: At 8th level, the undead lord’s spells, spell-like abilities, and supernatural abilities used to heal undead heal an extra 50% damage. At 16th level, these effects automatically heal the maximum possible damage for the effect + the extra 50%. This does not stack with abilities or feats such as Empower Spell or Maximize Spell.
 
 \* Indicates a new feat in this book.
+
+## Ecclesitheurge
+
+Eschewing physical armor for protection via the strength of his faith, an ecclesitheurge focuses on the miracles his deity bestows and the breadth of that deity's dominion.
+
+**Weapon and Armor Proficiency**: An ecclesitheurge is proficient with the club, dagger, heavy crossbow, light crossbow, and quarterstaff, but he's not proficient with any type of armor or shield. This replaces the cleric's weapon and armor proficiencies.
+
+**Ecclesitheurge's Vow**: At 1st level, an ecclesitheurge makes a vow to his deity to be protected solely by his faith, not by armor or shields. An ecclesitheurge who wears prohibited armor or uses a prohibited shield is unable to use his blessing of the faithful ability, use cleric domain powers, or cast cleric spells.
+
+**Domain Mastery**: At 1st level, when an ecclesitheurge chooses his cleric domains, he designates one as his primary domain and the other as his secondary domain. An ecclesitheurge can use his non-domain spell slots to prepare spells from his primary domain's spell list. Each day when he prepares spells, an ecclesitheurge can select a different domain granted by his deity to gain access to that domain's spell list instead of his secondary domain spell list. He does not lose access to his actual secondary domain's granted powers or gain access to the other domain's granted powers. For example, an ecclesitheurge with the Glory domain as his primary domain and the Good domain as his secondary domain can choose to gain access to the Healing domain; until the next time he prepares spells, he uses the Healing domain spell list as his secondary domain spell list instead of the Good domain spell list, but still keeps the granted powers of the Good domain and does not gain the granted powers of the Healing domain.
+
+This ability alters the normal domain ability.
+
+**Bonded Holy Symbol (Su)**: At 3rd level, an ecclesitheurge forms a powerful bond with a holy symbol of his deity, akin to a wizard's bonded object. Once per day, a bonded holy symbol can be used to cast any one spell that the ecclesitheurge has on his cleric or domain spell list that day. This spell is treated like any other spell cast by the ecclesitheurge, including with respect to casting time, duration, and other effects dependent on the ecclesitheurge's level. This spell cannot be modified by metamagic feats or other abilities. An ecclesitheurge can add additional magic abilities to his bonded holy symbol as if he had the required item creation feat (typically Craft Wondrous Item), provided he meets the feat's level prerequisites. For example, an ecclesitheurge with a bonded holy symbol necklace must be at least 3rd level to add magic abilities to the item. The magic properties of a bonded holy symbol, including any magic abilities added to the object, function for only the ecclesitheurge. If a bonded holy symbol's owner dies or the item is replaced, the object reverts to being an ordinary holy symbol.
+
+If a bonded holy symbol is damaged, it is restored to full hit points the next time the ecclesitheurge gains his spells for the day. If the holy symbol is lost or destroyed, it can be replaced after 1 week in a special ritual that costs 200 gp per cleric level plus the cost of the holy symbol itself This ritual takes 8 hours to complete. Items replaced in this way do not possess any of the additional enchantments of the previous bonded holy symbol. An ecclesitheurge can instead designate an existing holy symbol as his bonded holy symbol. This functions in the same way as replacing a lost or destroyed item, except that the new holy symbol retains its abilities while gaining the benefits and drawbacks of becoming a bonded holy symbol.
+
+This ability replaces the increase to channel energy gained at 3rd level.

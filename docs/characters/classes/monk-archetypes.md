@@ -287,3 +287,39 @@ A zen archer cannot use Rapid Shot or Manyshot when making a flurry of blows wit
 **Trick Shot (Su)**: At 11th level, a zen archer may hit targets that he might otherwise miss. By spending 1 point from his ki pool as a swift action, the zen archer can ignore concealment. By spending 2 points, he can ignore total concealment or cover. By spending 3 points, he can ignore total cover, even firing arrows around corners. The arrow must still be able to reach the target; a target inside a closed building with no open doors or windows cannot be attacked. These effects last for 1 round. This ability replaces diamond body.
 
 **Ki Focus Bow (Su)**: At 17th level, as long as he has at least 1 point of ki in his ki pool, a zen archer may treat arrows fired from his bow as if they were ki focus weapons, allowing him to use his special ki attacks as if his arrows were unarmed attacks. This ability replaces tongue of the sun and moon.
+
+## Kata Master
+
+The kata master takes the visual aspect of his martial art to its logical extreme, harnessing her flowing movements and skilled maneuvers as a psychological weapon against her enemies. A kata master forsakes the mental discipline of her more contemplative brethren in favor of these flamboyant exhibitions. She often performs in staged fights and tournaments, utilizing stylized forms to amaze the audience and shock and dismay her opponents.
+
+**Panache**: At 1st level, a kata master gains the swashbuckler's panache class ability. At the start of each day, a kata master gains a number of panache points equal to her Charisma bonus (minimum 1). Her panache goes up or down throughout the day, but usually cannot go higher than his Charisma bonus (minimum 1). A kata master gains the swashbuckler's derring-do and opportune parry and riposte deeds. A kata master can use an unarmed strike or monk special weapon in place of a light or one-handed piercing melee weapon for granted swashbuckler class features and deeds. This ability replaces stunning fist.
+
+**Menacing Swordplay (Ex)**: At 3rd level, a kata master gains the swashbuckler's menacing swordplay deed. This ability replaces still mind.
+
+**Ki Pool (Su)**: At 4th level, a kata master can treat ki points as panache points for any swashbuckler deed gained through this archetype. This ability modifies ki pool.
+
+**Targeted Strike (Ex)**: At 7th level, a kata master gains the swashbuckler's targeted strike deed. This ability replaces wholeness of body.
+
+**Dizzying Defense (Ex)**: At 15th level, a kata master gains the dizzying defense swashbuckler deed. This ability replaces quivering palm.
+
+## Wildcat
+
+A wildcat is a student of the school of hard knocks, who dedicates himself to learning how to take down foes by any means necessary. A wildcat isn't afraid to smash a tankard over a foe's head, stomp an opponent's foot, gouge an eye, or generally create mayhem to gain any possible advantage.
+
+**Ready for Anything (Ex)**: At 3rd level, a wildcat gains a +2 bonus on initiative checks and Perception checks to act in a surprise round. This ability replaces still mind.
+
+**Brawler Maneuver Training (Ex)**: At 4th level, a wildcat gains additional training with the dirty trick combat maneuver (Advanced Player's Guide 320 ). He gains a +1 bonus on combat maneuver checks when attempting this combat maneuver and a +1 bonus to his CMD when defending against this maneuver.
+
+At 7th, ioth, and 16th levels, a wildcat becomes further trained in another combat maneuver, gaining the above +1 bonus on combat maneuver checks and to CMD. In addition, the bonuses granted by previous maneuver training increase by 1 each. For example, when a wildcat reaches 7th level, he gains a +1 bonus on one type of combat maneuver, +1 to her CMD against that combat maneuver, and the bonuses for the dirty trick combat maneuver increase to +2.
+
+This ability replaces ki pool and high jump.
+
+**Improvised Weapon Mastery (Ex)**: Starting at 4th level, a wildcat's damage with improvised weapons increases. When wielding an improvised weapon, he uses the unarmed strike damage of a monk four levels lower instead of the base damage for that weapon (minimum monk level 1). For example, a 6th-level Medium wildcat wielding a broken bottle deals 1d6 points of damage instead of the weapon's normal 1d4. If the weapon normally deals more damage than this, its damage is unchanged. This increase in damage does not affect any other aspect of the weapon. The wildcat can decide to use the weapon's base damage instead of his adjusted unarmed strike damage. This must be declared before the attack roll is attempted. This ability replaces all instances of slow fall.
+
+**Bonus Feat**: A wildcat adds the following feats to his list of bonus feats at 6th level: Improved Dirty Trick, Improved Reposition, Improved Steal_ He adds the following feats to his list of bonus feats at 10th level: Quick Dirty Trick, Quick Reposition, Quick Steal.
+
+**Knockout (Ex)**: Starting at 9th level, once per day a wildcat can unleash a devastating attack that can instantly knock a target unconscious. He must announce this intent before making his attack roll. If the wildcat's strike is successful and the target takes damage from the blow, the target must succeed at a Fortitude saving throw (DC = 10 + 1/2 the wildcat's level + the higher of the wildcat's Strength or Dexterity modifier) or fall unconscious for 1d6 rounds. Each round on its turn, the unconscious target can attempt a new saving throw to end the effect; this is a fullround action that does not provoke attacks of opportunity. Creatures immune to critical hits or nonlethal damage are immune to this ability. At 12th level, a wildcat can use this ability twice per day. This ability replaces improved evasion and abundant step.
+
+**Turn the Tables (Ex)**: At 13th level, opponents provoke an attack of opportunity from the wildcat whenever they fail at a combat maneuver against the wildcat. This ability replaces diamond soul.
+
+**Dirty Blow (Ex)**: At 19th level, when a wildcat succeeds at a dirty trick combat maneuver, he can deal his unarmed strike damage to that opponent. This ability replaces empty body.

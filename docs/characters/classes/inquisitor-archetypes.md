@@ -296,3 +296,33 @@ This ability replaces an inquisitor’s domain.
 **Speak with Dead (Sp)**: At 6th level, when the inquisitor eats an enemy’s sins, within 10 minutes of doing so, she can ask the remnants of the enemy’s soul questions as if using speak with dead, with a caster level equal to her inquisitor level. She does not need the enemy’s corpse to use this ability (she can eat sin, move away from the corpse, then use speak with dead), though the soul gets a saving throw just as a corpse would. This ability replaces the bonus teamwork feat gained at 6th level.
 
 **Burden of Sin (Sp)**: At 14th level, a sin eater may spend a full-round action to transfer one harmful affliction, condition, or spell effect from another creature to herself (this includes curses, possessions, and permanent effects such as petrification, or any condition that break enchantment can end or reverse). The effect to be transferred is chosen by the sin eater and affects her as if she were the original target, continuing its duration (if any) and preventing any further effect on the original bearer. For example, the inquisitor could transfer a lethal disease to herself, or petrify herself to restore a petrified comrade. The sin eater can use this ability as often as desired, even using it multiple times on the same creature. This ability replaces exploit weakness.
+
+## Sacred Huntsmaster
+
+Some inquisitors create a strong bond with an animal companion, and they hunt and punish threats to the faith as an awe-inspiring duo. When they work together as one, there are few that dare to stand in their way.
+
+**Animal Companion (Ex)**: At 1st level, a sacred huntsmaster forms a bond with an animal companion. This ability works as the hunter class feature of the same name, using her inquisitor level as her hunter level. This ability replaces judgment 1/day.
+
+**Hunter Tactics (Ex)**: At 3rd level, a sacred huntsmaster automatically grants her teamwork feats to her animal companion. The companion doesn't need to meet the prerequisites of these teamwork feats.
+
+**Animal Focus (Su)**: At 4th level, a sacred huntsmaster can take on the aspects of an animal as a swift action. This ability works as the hunter's animal focus class feature, with her inquisitor level serving as her hunter level. This ability replaces later iterations of the judgment ability.
+
+**Improved Empathic Link (Su)**: At 8th level, the sacred huntsmaster gains an empathic link with her animal companion. This functions like an empathic link with a familiar, except the sacred huntsmaster can also see through a companion's eyes as a swift action, maintaining this connection as long as she likes (as long as the companion is within 1 mile) and ending it as a free action. The sacred huntsmaster is blinded while maintaining this connection. This ability replaces second judgment.
+
+**Raise Animal Companion (Sp)**: At 16th level, a sacred huntsmaster gains raise animal companion as a spelllike ability (not restricted to her own animal companion). Using this ability gives the sacred huntsmaster a negative level that cannot be overcome in any way (including by restoration), but automatically ends after 24 hours. At 16th level, this functions as resurrection instead of raise dead, but otherwise operates as normal. This ability replaces third judgment.
+
+**Second Animal Focus (Ex)**: At 17th level, whenever a sacred huntsmaster uses her animal focus ability, she selects two different animal aspects for herself instead of one, and can assign two aspects to her companion instead of one. As with the companion's previous aspect, the second one does not count against the minutes per day a sacred huntsmaster can take on an aspect. If her animal companion is dead and the sacred huntsmaster has applied that aspect to herself, that aspect counts toward her maximum of two aspects at once. The sacred huntsmaster can still only apply one of her dead companion's to herself, not both. This ability replaces slayer.
+
+**Greater Empathic Link (Su)**: At 20th level, the range of a sacred huntsmaster's empathic link with her animal companion increases to 10 miles. If the animal companion is within 1 mile, it and the sacred huntsmaster can communicate telepathically. This ability replaces true judgment.
+
+## Sanctified Slayer
+
+While all inquisitors root out enemies of the faith, in many orders and churches there's a select group of these religious hunters devoted to one goal, and one goal alone-to terminate the enemies of the faith wherever they can be found. Sometimes these sanctified slayers are given special dispensation to commit ruthless murders for the faith's greater good. Other times, they're simply willing to take the initiative to revel in the zeal of such grisly work.
+
+**Studied Target (Ex)**: At 1st level, a sanctified slayer gains the slayer's studied target class feature. She uses her inquisitor level as her effective slayer level to determine the effects of studied target. This ability replaces judgment 1/day.
+
+**Sneak Attack (Ex)**: At 4th level, if a sanctified slayer catches an opponent unable to defend itself effectively from her attack, she can strike a vital spot to deal extra damage. The sanctified slayer's attack deals additional damage anytime her target would be denied a Dexterity bonus to AC (whether or not the target actually has a Dexterity bonus), or when the sanctified slayer flanks her target. This additional damage is 1d6 at 4th level, and increases by 1d6 every 3 levels thereafter. Should a sanctified slayer score a critical hit with the sneak attack, this extra damage is not multiplied. Ranged attacks can count as sneak attacks only if the target is within 30 feet. With a weapon that deals nonlethal damage (such as a sap, whip, or an unarmed strike), a sanctified slayer can make a sneak attack that deals nonlethal damage instead of lethal damage. She cannot use a weapon that deals lethal damage to deal nonlethal damage in a sneak attack, even with the usual -4 penalty.
+
+A sanctified slayer must be able to see the target well enough to pick out a vital spot and must be able to reach such a spot. A sanctified slayer cannot use sneak attack while striking a creature with concealment. This ability replaces the later iterations of the judgment ability.
+
+**Talented Slayer (Ex)**: At 8th, 16th, 17th, and 20th levels, a sanctified slayer can gain a single slayer talent, including those from the list of rogue talents that a slayer can take, but not an advanced slayer talent. This ability replaces second judgment, third judgment, slayer, and true judgment.

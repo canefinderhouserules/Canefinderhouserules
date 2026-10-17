@@ -7,6 +7,7 @@ nav:
   - bard.md
   - bard-archetypes.md
   - cavalier.md
+  - cavalier-archetypes.md
   - cleric.md
   - cleric-archetypes.md
   - druid.md
@@ -40,16 +41,26 @@ nav:
   - wizard.md
   - wizard-archetypes.md
   - arcanist.md
+  - arcanist-archetypes.md
   - bloodrager.md
+  - bloodrager-archetypes.md
   - bloodrager-bloodlines.md
   - brawler.md
+  - brawler-archetypes.md
   - hunter.md
+  - hunter-archetypes.md
   - investigator.md
+  - investigator-archetypes.md
   - shaman.md
+  - shaman-archetypes.md
   - shaman-spirits.md
   - skald.md
+  - skald-archetypes.md
   - slayer.md
+  - slayer-archetypes.md
   - swashbuckler.md
+  - swashbuckler-archetypes.md
   - warpriest.md
+  - warpriest-archetypes.md
   - warpriest-blessings.md
   - "*"

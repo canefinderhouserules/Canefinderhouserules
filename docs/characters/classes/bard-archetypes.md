@@ -557,3 +557,31 @@ Whether acrobat, troubadour, or thespian, the street performer mixes with the ma
 **Streetwise**: A street performer gains a bonus equal to half his level on Bluff, Disguise, Knowledge (local), and Sleight of Hand checks, Diplomacy or Intimidate checks made to influence crowds, and Diplomacy checks to gather information (minimum +1). This replaces bardic knowledge.
 
 **Quick Change (Ex)**: At 5th level, a street performer can don a disguise as a standard action by taking a –5 penalty on his check. He can take 10 on Bluff and Disguise checks and use Bluff to create a diversion to hide as a swift action. He can take 20 on a Bluff or Disguise check once per day, plus one time per six levels beyond 5th. This ability replaces lore master.
+
+## Flame Dancer
+
+A flame dancer studies the movements of fire, adding its grace to his repertoire. He seeks truth in fire's burning essence, and uses his performance to unleash the power of fire against those who dare oppose him.
+
+**Bardic Performance**: A flame dancer gains the following bardic performances.
+
+**Fire Dance (Su)**: At 1st level, a fire dancer learns to protect himself and others from the pain of fire, and discovers how to control the flame while enduring its heat. Each round of the fire dance, he rolls a Perform (dance or sing)
+
+check. Any ally within 30 feet of the bard that has caught on fire or is affected by a fire effect or extreme heat can use the bard's Perform check result in place of its saving throw against that fire. Any ally within 30 feet of the bard who is suffering from heatstroke can ignore the fatigue from heat exposure so long as the bard maintains this performance. Fire dance relies on audible or visual components. This ability replaces countersong.
+
+**Song of the Fiery Gaze (Su)**: At 3rd level, a fire dancer can allow allies to see through flames without any distortion. Any ally within 30 feet of the bard who can hear the performance can see through fire, fog, and smoke without penalty as long as the light is sufficient to allow him to see normally, as with the base effect of the gaze of flames oracle revelation. Song of the fiery gaze relies on audible components. This ability replaces inspire competence.
+
+**Fire Break (Su)**: At 6th level, a fire dancer's performance can bend flames away from others. Any ally within 30 feet of the bard who can hear or see the bardic performance gains resist fire 20 as long as the performance is maintained. At 11th level, this resistance increases to 30. Fire break relies on audible or visual components. This ability replaces suggestion.
+
+**Fan the Flames (Su)**: At 8th level, a fire dancer adds burning hands, flaming sphere, and fireball to his list of bard spells known (as 1st-, 2nd-, and 3rd-level spells, respectively). This ability replaces dirge of doom.
+
+## Voice of the Wild
+
+Most bards are inspired by the art of civilization, yet the voice of the wild's muse is the grandeur and beauty of nature. The voice of the wild has discovered some of nature's magical secrets, and can use his performance to bring out the bestial side in his allies.
+
+**Wild Knowledge (Ex)**: At 1st level, a voice ' of the wild adds 1/2 his level (minimum 1) to all KKnowledge (nature) checks. He can use Knowledge (geography) and Knowledge (nature) untrained. This ability replaces bardic knowledge. Nature Magic: At 1st level, a voice of the 'wild can select a 1st-level druid or ranger spell as a bard spell known instead of a spell from the bard spell list. The voice of the wild can select another druid or ranger spell (of any bard spell level he can cast) at 4th, 7th, 10th, 13th, and 16th levels. If he chooses to learn a new spell in place of an old one, he can exchange a druid or ranger spell for another. This ability replaces countersong, all instances of versatile performance, and jack-of-all-trades.
+
+**Bardic Performance**: Voices of the wild gain the following bardic performance. Song of the Wild (Su): At 3rd level, the voice of the wild can use bardic performance to grant an animal aspect to an ally, as if using the hunter's animal focus class feature.
+
+The ally must be able to hear or see the performance. The voice of the wild uses his bard level as his hunter level for determining the effect of the animal aspect.
+
+The bard can affect a second ally with this performance at 10th level and a third at 17th level. Song of the wild relies on audible or visual components. This ability replaces all increments of inspire competence, dirge of doom, and inspire heroics.

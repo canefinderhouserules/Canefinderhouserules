@@ -327,9 +327,9 @@ The companion must end this movement in a square adjacent to the ranger. The ani
 
 Some rangers nurture a connection with the spirits that reside in all things. By communing with these spirits, the spirit ranger can gain glimpses of things to come. A spirit ranger has the following class features.
 
-**Spirit Bond (Ex)**: At 4th level, instead of forming a bond with his hunting companions or an animal companion, the spirit ranger forms a bond with the spirits of nature themselves. Each day, as long as he is within one of his favored terrains, the ranger can cast augury (Pathfinder RPG Core Rulebook 245) as a spell-like ability with a caster level equal to his ranger level. In addition, he can call upon these spirits to cast any one ranger spell that he is capable of casting, without having to prepare the spell. At 8th level, and every four levels thereafter, he can cast an additional spell in this way. This replaces hunter’s bond.
+**Spirit Bond (Ex)**: At 4th level, instead of forming a bond with his hunting companions or an animal companion, the spirit ranger forms a bond with the spirits of nature themselves. Each day, as long as he is within one of his favored terrains, the ranger can cast augury as a spell-like ability with a caster level equal to his ranger level. In addition, he can call upon these spirits to cast any one ranger spell that he is capable of casting, without having to prepare the spell. At 8th level, and every four levels thereafter, he can cast an additional spell in this way. This replaces hunter’s bond.
 
-**Wisdom of the Spirits (Sp)**: At 12th level, the spirit ranger can use his augury spell-like ability even when he is not in one of his favored terrains. If he is within one of his favored terrains, the ranger can cast divination (Pathfinder RPG Core Rulebook 273) instead. Like augury, the caster level of the divination is equal to the ranger’s level. This ability replaces camouflage.
+**Wisdom of the Spirits (Sp)**: At 12th level, the spirit ranger can use his augury spell-like ability even when he is not in one of his favored terrains. If he is within one of his favored terrains, the ranger can cast divination instead. Like augury, the caster level of the divination is equal to the ranger’s level. This ability replaces camouflage.
 
 ## Urban Ranger
 
@@ -352,3 +352,35 @@ In addition, he can move through the space occupied by local citizens as if they
 **Blend In (Ex)**: An urban ranger of 12th level or higher can use his Stealth bonus in place of a Disguise skill check in any of his favored communities. This disguise does not take an action to don. He must make a check whenever someone attempts to pick him out from the local citizens. If his check is successful, he blends into the crowd. While not invisible, enemies do not notice his presence and take no actions against him unless they are taking actions against the local citizens in general. This replaces camouflage.
 
 **Invisibility Trick (Sp)**: At 17th level, the urban ranger can cast greater invisibility on himself as a wizard of his ranger level as a swift action. He can use this spell-like ability a number of times per day equal to his Wisdom modifier (minimum 1). This ability replaces hide in plain sight.
+
+## Divine Tracker
+
+Blessed by his deity, a divine tracker hunts down those he deems deserving of his retribution. His imbued weapon is likely to find purchase in his favored enemy.
+
+**Alignment**: A divine tracker's alignment must be within one step of his deity's, along either the law/chaos axis or the good/evil axis.
+
+**Favored Weapon**: At 1st level, a divine tracker becomes proficient with the favored weapon of his deity. If his deity's favored weapon is unarmed strike, he instead gains Improved Unarmed Strike as a bonus feat. This ability replaces wild empathy.
+
+**Blessings (Su)**: At 4th level, a divine tracker forms a close bond with his deity's ethos. He selects two warpriest domains from among the domains granted by his deity, and gains the minor blessings of those domains. A divine tracker can select an alignment domain (Chaos, Evil, Good, or Law) only if his alignment matches that domain. If a divine tracker isn't devoted to a particular deity, he still selects two blessings to represent his spiritual inclinations and abilities, subject to GM approval. The restriction on alignment domains still applies. A divine tracker uses his ranger level as his warpriest level to determine the effect of the blessing. At 13th level, a divine tracker gains the major blessing from both of his domains. This ability replaces hunter's bond.
+
+## Hooded Champion
+
+The hooded champion lives on the periphery of civilized lands, and is often at odds with the forces of law and order. He is frequently a hero of oppressed peoples, lurking in the woods near their homes and trying to right the injustices inflicted upon them by the wealthy and powerful.
+
+**Panache (Ex)**: At 1st level, the hooded champion gains the swashbuckler's panache class feature. He regains panache through critical hits and killing blows when using a bow of any kind, rather than when using a light or one-handed piercing melee weapon. If the hooded champion has this ability and the panache ability from another class or archetype, the panache points from the two sources do not stack, but the hooded champion regains panache in any way either class feature allows him to. For example, a character with a Charisma score of 16 who has both the hooded champion's and the swashbuckler's panache has a base of 3 panache points, and regains panache from critical hits and killing blows from both bows and light or one-handed piercing melee weapons. This ability replaces favored enemy at 1st level.
+
+**Deeds**: At 1st level, the hooded champion gains the swashbuckler's derring-do and dodging panache deeds, as well as the following deeds. For all deeds, treat the hooded champion's ranger level as his swashbuckler level.
+
+**Dead Aim (Ex)**: At 1st level, the hooded champion's can spend 1 panache point when making a single ranged attack with a bow to make a ranged touch attack instead. The target must be in the bow's first range increment. At 3rd level, the hooded champion gains the swashbuckler's kip-up deed as well as the following deed.
+
+**Hooded Champion's Initiative (Ex)**: At 3rd level, while the hooded champion has at least 1 panache point, he gains a +2 bonus on initiative checks. In addition, if he has the Quick Draw feat, his hands are free and unrestrained, and his weapon isn't hidden, he can draw a single bow as part of the initiative check.
+
+**Combat Style**: At 2nd level, the hooded champion must select the archery combat style. At 9th level, the hooded champion gains the swashbuckler's grace and evasive deeds. At 16th level, the hooded champion gains the swashbuckler's edge and cheat death deeds. This ability replaces wild empathy, endurance, evasion, and improved evasion.
+
+## Wild Hunter
+
+A wild hunter seeks to emulate the animals around him to keep him safe while he tracks his prey. Instead of studying the traits and behaviors of a favored enemy, a wild hunter studies those of various animals, incorporating those attributes into his hunting strategy.
+
+**Animal Focus (Su)**: At 1st level, as a swift action a wild hunter can take on the aspect of an animal, gaining a bonus or special ability based on the type of animal emulated. This functions as the hunter's animal focus class feature, though this only applies to the wild hunter and not an animal companion (see shared focus, below). The wild hunter can use this ability for 1 minute per day per ranger level. This duration does not need to be consecutive, but it must be spent in 1-minute increments. He can only emulate one animal at a time. This ability replaces all instances of the favored enemy class ability.
+
+**Shared Focus (Su)**: At 7th level, a wild hunter can share his current animal focus with one creature appropriate to his hunter's bond. If the wild hunter's bond is with an animal companion, the companion automatically gains the benefits of the wild hunter's current animal focus. If the wild hunter's bond is with his companions, as a swift action he can select one bonded ally to gain the benefits of the hunter's current animal focus; this lasts until the hunter's bond ends, the animal focus ends for the wild hunter, or the wild hunter selects a different companion. This ability replaces woodland stride and swift tracker.

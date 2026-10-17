@@ -188,7 +188,7 @@ In addition to the normal choices of animal companions listed in the Core Rulebo
 
 ### Leech, Giant
 
-**Starting Statistics**: Size Small; Speed 5 ft., swim 20 ft.; AC +0 natural armor; Attack bite (1d4 plus attach); Ability Scores Str 9, Dex 14, Con 12, Int —, Wis 10, Cha 1; Special Attacks attach (Pathfinder RPG Bestiary 187), blood drain (1 Str); Special Qualities amphibious, blindsense 30 ft., scent, susceptible to salt (Bestiary 187); CMD can’t be tripped.
+**Starting Statistics**: Size Small; Speed 5 ft., swim 20 ft.; AC +0 natural armor; Attack bite (1d4 plus attach); Ability Scores Str 9, Dex 14, Con 12, Int —, Wis 10, Cha 1; Special Attacks attach, blood drain (1 Str); Special Qualities amphibious, blindsense 30 ft., scent, susceptible to salt; CMD can’t be tripped.
 
 7th-Level Advancement: Size Medium; Attack bite (1d6 plus attach); Ability Scores Str +2, Dex –2, Con +2; Special Attacks blood drain (1 Str and 1 Con damage); Special Qualities blindsight 30 ft.
 
@@ -206,7 +206,7 @@ In addition to the normal choices of animal companions listed in the Core Rulebo
 
 ### Slug, Giant
 
-**Starting Statistics**: Size Medium; Speed 20 ft.; AC +4 natural armor; Attack tongue (1d4 plus 1 acid); Ability Scores Str 13, Dex 8, Con 13, Int —, Wis 10, Cha 1; Special Attacks spit acid (ranged touch attack, 30 foot range, 1d6 acid damage); Special Qualities blindsense 30 ft., DR 5/ slashing or piercing, susceptible to salt (Bestiary 254); CMD can’t be tripped.
+**Starting Statistics**: Size Medium; Speed 20 ft.; AC +4 natural armor; Attack tongue (1d4 plus 1 acid); Ability Scores Str 13, Dex 8, Con 13, Int —, Wis 10, Cha 1; Special Attacks spit acid (ranged touch attack, 30 foot range, 1d6 acid damage); Special Qualities blindsense 30 ft., DR 5/ slashing or piercing, susceptible to salt; CMD can’t be tripped.
 
 7th-Level Advancement: Size Large; AC +2 natural armor; Attack tongue (1d6 plus 1d2 acid); Ability Scores Str +2, Dex –2, Con +2; Special Attacks spit acid (ranged touch attack, 30-foot range, 1d8 acid damage); Special Qualities blindsight 30 ft.
 
@@ -345,3 +345,39 @@ While most druids focus their attention upon the rich earth and the bounty of na
 **Windlord**: At 9th level, a storm druid can select another domain or subdomain from those available to her through her nature bond. This ability replaces venom immunity.
 
 **Storm Lord (Ex)**: At 13th level, a storm druid is unaffected by natural and magical wind effects. She also becomes immune to deafness and gains +2 bonus on saving throws against sonic effects. This ability replaces a thousand faces.
+
+## Feral Shifter
+
+A feral shifter internalizes her communion with and mastery over animals. Instead of forming a bond with an animal companion or an aspect of nature, she alters her own essence or being as homage to the noble creatures of the wild. More in tune with transformation and animal bodies than a normal druid, a feral shifter blurs the line between humanoid and beast.
+
+**Animal Focus (Su)**: At 1st level, as a swift action, a feral shifter can take on the aspect of an animal, gaining a bonus or special ability based on the type of animal emulated. This functions as the hunter's animal focus class feature. The feral shifter can use this ability for a number of minutes per day equal to her druid level. This duration does not need to be consecutive, but it must be spent in I-minute increments. She can emulate only one animal at a time. This ability replaces nature bond.
+
+**Second Animal Focus (Su)**: At 9th level, when a feral shifter uses her animal focus ability, she selects two different animal aspects for herself instead of one. This ability replaces venom immunity, a thousand faces, and timeless body.
+
+## Nature Fang
+
+A nature fang is a druid who stalks and slays those who despoil nature, kill scarce animals, or introduce diseases to unprotected habitats. She gives up a close empathic connection with the natural world to become its deadly champion and avenger.
+
+**Studied Target (Ex)**: At 1st level, a nature fang gains the slayer's studied target class feature. At 5th level and every 5 levels thereafter, the nature fang's bonus against her studied target increases by 1 Unlike a slayer, a nature fang does not gain the ability to maintain more than one studied target at the same time. This ability replaces nature sense, wild empathy, and woodland stride.
+
+**Slayer Talent**: At 4th level and every 2 levels thereafter, a nature fang selects a slayer talent. Starting at 12th level, she can select an advanced slayer talent in place of a slayer talent. She uses her druid level as her slayer level to determine what talents she can select. This ability replaces wild shape.
+
+**Sneak Attack (Ex)**: At 4th level, a nature fang gains sneak attack + 1d6. This functions as the rogue sneak attack ability. If the nature fang gets a sneak attack bonus from another source, the bonuses on damage stack. This ability replaces resist nature's lure.
+
+**Swift Studied Target**: At 9th level, a nature fang can study an opponent as a move or swift action. This ability replaces venom immunity.
+
+**Slayer Talents**: The following slayer talents complement the nature fang archetype: foil scrutiny, poison use, ranger combat style. Additionally, the following rogue talents, which are also available to slayers, complement the archetype: bleeding attack, camouflage, fast stealth, finesse rogue, lasting poison, rogue crawl, slow reactions, surprise attack, swift poison , terrain mastery.
+
+**Advanced Talents**: The following advanced talents complement the nature fang archetype: assassinate, slayer camouflage, woodland stride. The rogue advanced talent master of disguise also fits the archetype.
+
+## Wild Whisperer
+
+A wild whisperer is an expert at studying, predicting, and explaining animal behavior. She is less interested in plants, fey, and other aspects of the natural world, and uses her gifts to tame or relocate dangerous beasts and soothe the hurts of wounded and sickly creatures.
+
+**Inspiration (Ex)**: At 2nd level, a wild whisperer gains an inspiration pool as the investigator class ability. A wild whisperer uses her druid level as her investigator level when determining the effects of this ability. Instead of free uses of inspiration on Knowledge, Linguistics, or Spellcraft skill checks, the wild whisperer can use inspiration on Handle Animal, Heal, Knowledge (geography), KKnowledge (nature), Ride, Sense Motive, and Survival skill checks without expending a use of inspiration, provided she's trained in the relevant skill. She can also use inspiration on any wild empathy check without expending a use of inspiration. A wild whisperer's inspiration pool refreshes each day when she prepares spells. This ability replaces woodland stride, trackless step, and resist nature's lure.
+
+**Wild Shape (Ex)**: At 4th level, a wild whisperer gains the wild shape ability, but she never gains the ability to take the form of an elemental or plant. This ability alters wild shape.
+
+**Natural Expertise (Ex)**: At 6th level, a wild whisperer's powers of observation give her an advantage when she's fighting natural creatures. When using inspiration on an attack roll against an animal or a vermin or on a saving throw against an effect from an animal or a vermin, a wild whisperer has to expend only one use of inspiration instead of two. This ability replaces the increase to wild shape given at 6th level. Investigator Talent: At 8th level, wild whisperer selects an investigator talent. This ability replaces the increase to wild shape given at 8th level.
+
+**Investigator Talents**: The following investigator talents complement the wild whisperer archetype: amazing inspiration, effortless aid, eidetic recollection, empathy, inspirational expertise, inspired alertness, inspired intimidator, perceptive tracking, tenacious inspiration.
