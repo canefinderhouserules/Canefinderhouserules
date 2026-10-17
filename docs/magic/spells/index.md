@@ -36,6 +36,8 @@ There are hundreds of spells available to spellcasters in the Pathfinder Rolepla
 
 - [Magus Spells](magus-spells.md)
 
+- [Shaman Spells](shaman-spells.md)
+
 - [Summoner Spells](summoner-spells.md)
 
 - [Witch Spells](witch-spells.md)
