@@ -319,3 +319,31 @@ His second swing sheared the gargoyle’s head from its shoulders with a sound l
 “They’re going to notch your hide if you don’t get moving,” Seoni replied.
 
 Falling back up the steps, she sent blue lightning sizzling through their attackers’ ranks, peppering them both with shards of stone. Instead of retreating, the gargoyles screamed with laughter, falling on their wounded comrades and pulling them apart. Still fighting, Seoni and Valeros climbed backward toward the strange green light.
+
+## Exploiter Wizard
+
+forgoes the tried and true methods of arcane focus and arcane schools for the exploits favored by an arcanist. Some wizards regard this blatant exploitation of arcane magic as somehow "cheating," but most exploiters believe this prejudice is close-minded and overly traditional.
+
+**Arcane Reservoir (Su)**: At 1st level, the exploiter wizard gains the arcanist's arcane reservoir class feature. The exploiter wizard uses his wizard level as his arcanist level for determining how many arcane reservoir points he gains at each level. This ability replaces arcane bond. Exploiter Exploit: At 1st level and every 4 levels thereafter, the exploiter wizard gains a single arcanist exploit. The exploiter wizard uses his wizard level as his arcanist level for determining the effects and DCs of his arcanist exploits. This ability replaces arcane school.
+
+## Spell Sage
+
+increase the effectiveness of his own spells and eventually even cast spells from other classes' spell lists. While most wizards focus on a school, the spell sage looks at the particular aspects of individual spells and is not afraid to modify them with interesting bits of insight to gain deeper understandings of the formulae.
+
+**Focused Spells (Su)**: At 1st level, once per day the spell sage's understanding of spells allows him to increase his caster level by 4 for a single spell cast. He can do this twice per day at 8th level, and three times per day at 16th level. This ability replaces arcane bond.
+
+**Spell Study (Su)**: At 2nd level, the sage's understanding of the spells of bards, clerics, and druids is so great that he can use his own magic in an in efficient, roundabout way to duplicate those classes' spells. Once per day, a spell sage can spontaneously cast any spell on the bard, cleric, or druid spell list as if it were a wizard spell he knew and had prepared. Casting the spell requires the spell sage to spend 1 full round per spell level of the desired spell (if the spell is on multiple spell lists indicated above, using )
+
+the lowest level from among those lists) and requires expending two prepared spells of that spell level or higher; if the spell's casting time is normally 1 full round or longer, this is added to the spell sage's casting time. For example, if a spell sage wants to use spell study to cast cure light wounds (cleric spell level 1st), he must spend 2 full rounds casting and expend two prepared wizard spells of 1st level or higher.
+
+At 6th level and every 5 levels thereafter, a spell sage can use this ability an additional time per day (to a maximum of four times per day at 16th level). This ability replaces arcane school.
+
+## Spirit Whisperer
+
+often mistaken for witches. While spirit whisperers do gain and store their spells by communing with familiars, the spirits they gain guidance from are somewhat closer to the world and more direct than the powers with which witches typically traffic. These wizards treat such spirits as mentors and friends, conversing with them rather than appeasing them in the effort to gain and use arcane knowledge.
+
+**Arcane Bond (Ex)**: When a spirit whisperer chooses an arcane bond, he must choose the familiar arcane bond, and the familiar gains the spirit animal ability of his selected spirit (see spirit link, below). The spirit whisperer does not need a spellbook, but instead stores and prepares his spell by communing with the familiar as the witch's familiar class feature. This ability alters arcane bond and replaces the spellbooks class feature.
+
+**Spirit Link (Su)**: At 1st level, a spirit whisperer forms a mystical bond with a spirit. The spirit whisperer picks a spirit from the shaman's list of spirits. At 1st level, he gains a spirit ability granted by that spirit. At 8th level, he gains the greater spirit ability granted by that spirit. At 20th level, the spirit whisperer gains the manifestation ability granted by the spirit. He uses his wizard level as his shaman level for determining the effects and DCs of abilities granted by the spirit. In addition, he uses his Intelligence modifier in place of his Wisdom modifier for these abilities. He does not gain hexes, spirit magic spells, or the true spirit ability typically granted to a shaman by these spirits. This ability replaces arcane school and the bonus feat gained at 20th level.
+
+**Spirit Hex**: At 5th level, a spirit whisperer can select one hex from the list of those granted by his chosen spirit. He uses his wizard level as his shaman level when determining the effects and DC of this hex. In addition, he uses his Intelligence modifier in place of his Wisdom modifier for these hexes. At 10th and 15th level, he can select another hex from those granted by his spirit. Each hex selected in this way replaces the bonus feat gained at that level. This ability alters bonus feats.

@@ -28,4 +28,80 @@ Referred to as fanatics, lunatics, or obsessives, cultists see themselves as gen
 
 **Well-Hidden (Ex)**: A cult leader gains a +2 bonus on Disguise and Stealth checks. This ability replaces focus weapon.
 
-**Sneak Attack (Ex)**: At 3rd level, a cult leader gains the sneak attack ability, as the rogue class feature. If he already has sneak attack from another class, the extra damage from the classes that grant sneak attack stack for the purpose of determining the sneak attack's extra damage dice. This extra damage is 1d6 at 3rd level and increases by 1d6 every 3 levels thereafter. This ability replaces the bonus feats gained at
+**Sneak Attack (Ex)**: At 3rd level, a cult leader gains the sneak attack ability, as the rogue class feature. If he already has sneak attack from another class, the extra damage from the classes that grant sneak attack stack for the purpose of determining the sneak attack's extra damage dice. This extra damage is 1d6 at 3rd level and increases by 1d6 every 3 levels thereafter. This ability replaces the bonus feats gained at 3rd, 9th, and 15th levels.
+
+**Enthrall (Sp)**: At 4th level, a cult leader can cast enthrall. Using this ability consumes two uses of his fervor ability. This ability replaces channel energy.
+
+**Hide in Plain Sight (Su)**: At 12th level, a cult leader can use the Stealth skill even while being observed. As long as he is within 10 feet of an area of dim light, a cult leader can hide himself from view in the open without anything to actually hide behind. He cannot, however, hide in his own shadow. This ability replaces the bonus feat gained at 12th level.
+
+## Disenchanter
+
+While many warpriests focus on threats to the body, the disenchanter focuses on dangers to the mind and the soul. Using the power of his patron, the disenchanter seeks to keep the powers of magic in check.
+
+**Bonus Feats (Ex)**: Whenever a disenchanter gains a bonus feat, he must choose from the following list: Great Fortitude, Improved Counterspell, Iron Will, Lightning Reflexes, Skill Focus (Spellcraft), or Spell Focus (abjuration). At 6th level, he adds the following feats to this list: Dispel Synergy, Improved Great Fortitude, Improved Iron Will, and Improved Lightning Reflexes. At 12th level, he adds the following feats to this list:
+
+Destructive Dispel, Dispelling Critical, Parry Spell, and Ray Shield. He need not meet the prerequisites for these feats. This ability alters bonus feats.
+
+**Mystic Interference (Su)**: At 4th level, a disenchanter can channel a burst of pure abjuration magic to grant protection to himself and all allies with 30 feet. Affected creatures receive a +1 bonus on saving throws against spells and spell-like abilities for a number of rounds equal to his warpriest level. This is a sacred bonus if the warpriest is good-aligned or able to spontaneously cast cure spells, and a profane bonus if the warpriest is evil-aligned or able to spontaneously cast inflict spells. Using this ability consumes two uses of his fervor ability. At 8th level and every 4 levels thereafter, the bonus granted by mystic interference increases by 1 (to a maximum of+5 at 20th level). This ability replaces channel energy.
+
+**Banish Enchantment (Su)**: At 6th level, a disenchanter learns to focus his mystic interference. As a standard action, he can consume two uses of his fervor ability to target a single creature within 30 feet with a targeted dispel magic. This ability replaces the bonus feat gained at 6th level.
+
+## Divine Commander
+
+Some warpriests are called to lead great armies and face legions of foes. These divine commanders live for war and fight for glory. Their hearts quicken at battle cries, and they charge forth with their deity's symbol held high. These leaders of armies do so to promote the agenda of their faith, and lead armies of devoted followers willing to give their lives for the cause. (Several of the divine commander's abilities reference and interact with the mass combat rules in the mass combat rules.)
+
+**Mount (Ex)**: A divine commander gains the service of a loyal and trusty steed to carry her into battle. This mount functions as a druid's animal companion, using the divine commander's level as her effective druid level. The creature must be one that she is capable of riding and must be suitable as a mount. A Medium divine commander can select a camel or a horse. A Small divine commander can select a pony or wolf, but can also select a boar or a dog if she is at least 4th level. (The GM might approve other animals as suitable mounts.) A divine commander does not take an armor check penalty on Ride checks while riding this mount. The mount is always considered combat trained, and begins play with Light Armor Proficiency as a bonus feat. A divine commander's mount does not gain the share spells special ability. Should a divine commander's mount die, she can find another mount to serve her after 1 week of mourning. This new mount does not gain the link, evasion, devotion, or improved evasion special abilities until the next time the divine commander gains a level. This ability replaces blessings.
+
+**Battle Tactician (Ex)**: At 3rd level, a divine commander gains a teamwork feat as a bonus feat. She must meet the prerequisites for this feat. As a standard action, the divine commander can grant this feat to all allies within 30 feet who can see and hear her. Allies retain the use of this bonus feat for 4 rounds, plus 1 round for every 2 levels beyond 3rd that the divine commander possesses. Allies do not need to meet the prerequisites of this bonus feat. The divine commander can use this ability once per day at 3rd level, plus one additional time per day at 9th and 15th levels. This ability replaces the bonus feat gained at 3rd level.
+
+**Blessed Mount (Su)**: At 6th level, a divine commander's mount becomes a creature blessed by his deity. The divine commander's mount gains either the celestial, entropic, fiendish, or resolute template, matching the alignment of the warpriest's deity (celestial for good, entropic for chaotic, fiendish for evil, and resolute for lawful). If the deity matches more than one alignment, the divine commander can select which of the two templates the mount receives. Once the type of template is selected, it cannot be changed.
+
+If the divine commander's deity is neutral with no other alignment components, the mount receives spell resistance equal to the divine commander's level + 5, as well as resistance 10 against two types of energy damage of the divine commander's choice.
+
+If a divine commander's mount dies and the divine commander finds another mount, the new mount becomes a blessed mount the next time the divine commander gains a level. This ability replaces the bonus feat gained at 6th level.
+
+**Greater Battle Tactician (Ex)**: At 12th level, the divine commander gains an additional teamwork feat as a bonus feat. She must meet the prerequisites for this feat. The divine commander can grant this feat to her allies using the battle tactician ability. Additionally, using the battle tactician ability is now a swift action. This ability replaces the bonus feat gained at 12th level.
+
+**Bless Army (Su)**: At 15th level, a divine commander can raise her holy symbol high and give a blessing to the army she is leading. The divine commander's army gains a +1 bonus to the army's OM and DV. This is a sacred bonus if the warpriest is good-aligned or able to spontaneously cast cure spells, and it is a profane bonus if the warpriest is evil-aligned or able to spontaneously cast inflict spells. Using this ability requires the divine commander to expend two uses of her fervor ability. This bonus lasts for 1 battle, and it must be performed during the tactics phase of the battle. If this is performed when a mass combat is not imminent, the fervor is spent without granting any bonus. This ability replaces the bonus feat gained at 15th level.
+
+## Forgepriest
+
+Armorers of exquisite skill, forgepriests take inspiration from their deity to produce the most perfect weapons and armor they can, the better to equip the armies of the faithful. Blessings: A forgepriest selects only one blessing. This alters the blessings class feature.
+
+**Smith's Spells**: A forgepriest adds the following spells to his spell list: 1st-jury r(g, shield; 2nd-heat metal, shatter; 3rd-keen edge, quench, versatile weapon; 4th-wreath of blades; 5th-fabricate, major creation; 6th-mage's sword.
+
+**Forge Mastery (Ex)**: A 2nd level, the forgepriest adds a bonus equal to half his level to all Craft checks to make metal items, armor, and weapons. (This benefit is gained from the altered version of blessings, above.)
+
+**Bonus Feats**: A forgepriest can select item creation feats in addition to combat feats when he gains a bonus feat. This ability alters bonus feats.
+
+Craft Magic Arms and Armor At 3rd level, a forgepriest gains Craft Magic Arms and Armor as a bonus feat. This ability replaces the bonus feat gained at 3rd level.
+
+**Creator's Bond (Su)**: At 4th level, when a forgepriest uses his sacred weapon ability with an item he created personally, he can expend two uses of his fervor ability to increase the bonus granted by 1 Once the forgepriest has the sacred armor ability, he can also use this ability in conjunction with that. This ability replaces channel energy.
+
+**Heat of the Forge (Su)**: At 6th level, a forgepriest gains fire resistance 5. At 13th level, this resistance increases to 10. This ability replaces the bonus feat gained at 6th level.
+
+## Sacred Fist
+
+Unlike many warpriests, sacred fists leave behind armor and shield and instead rely on their fists and whatever protection their deity bestows on them.
+
+**Class Skills**: The sacred fist's class skills are Acrobatics (Dex), Climb (Str), Craft (Int), Diplomacy (Cha), Escape Artist (Dex), Heal (Wis), Intimidate (Cha), Knowledge (history) (Int), Knowledge (religion) (Int), Perception (Wis), Profession (Wis), Sense Motive (Wis), Ride (Dex), Sense Motive (Wis), Spellcraft (Int), Stealth (Dex), and Swim (Str). These skills replace the warpriest's class skills.
+
+**Weapon and Armor Proficiency**: Sacred fists are proficient with the club, crossbow (light or heavy), dagger, handaxe, javelin, kama, nunchaku, quarterstaff, sai, shortspear, short sword, shuriken, siangham, sling, and spear. Sacred fists are not proficient with any armor or shields. This replaces the warpriest's weapon and armor proficiency.
+
+**AC Bonus (Su)**: A deity protects her sacred fist as long as he is unarmored and unencumbered. A sacred fist adds his Wisdom modifier (minimum 0) to his AC and his CMD. In addition, a sacred fist gains a +1 deflection bonus to AC and CMD at 4th level. This bonus increases by 1 for every 4 levels thereafter (to a maximum of +5 at 20th level).
+
+These bonuses to AC apply even against touch attacks or when the sacred fist is flat-footed. He loses these bonuses when he is immobilized or helpless, when he wears any armor, when he carries a shield, or when he carries a medium or heavy load.
+
+**Flurry of Blows (Ex)**: At 1st level, a sacred fist can make a flurry of blows attack as a full-attack action. This ability works like the monk ability of the same name. This ability replaces sacred weapon.
+
+**Unarmed Strike**: At 1st level, a sacred fist gains Improved Unarmed Strike as a bonus feat. He uses his warpriest levels as monk levels for determining the amount of damage dealt with an unarmed strike. This ability replaces focus weapon.
+
+**Blessed Fortitude (Su)**: At 3rd level, a sacred fist can avoid even magical and unusual attacks with help from his deity. If he succeeds at a Fortitude saving throw against an attack that has a reduced effect on a successful save, he instead avoids the effect entirely. A helpless sacred fist does not gain the benefit of the blessed fortitude ability. This ability replaces the bonus feat gained at 3rd level.
+
+**Bonus Style Feat**: At 6th level, the sacred fist gains a style feat as a bonus feat. The sacred fist must meet the style feat's prerequisites. He uses his warpriest levels as monk levels for the purposes of meeting the feat's prerequisites. At 12th and 18th levels, a sacred fist gains either another style feat or a feat that requires a style feat as a prerequisite. This ability replaces the bonus feats gained at 6th, 12th, and 18th levels.
+
+**Ki Pool (Su)**: At 7th level, the sacred fist gains a ki pool. This functions as the monk class feature, using the sacred fist's level - 3 as his monk level when determining the number of points in his pool and bonuses granted to his unarmed strike. Additionally, the sacred fist can as a swift action spend 1 point from his ki pool to grant himself a +1 insight bonus to his AC for 1 minute. (This is in addition the normal ki ability to gain a dodge bonus to AC.) This insight bonus increases by 1 for every 3 levels above 7th (to a maximum of +5 at 19th level). This ability replaces sacred armor.
+
+**Miraculous Fortitude (Su)**: At 9th level, the sacred fist's blessed fortitude ability improves. He still takes no damage or negative effect when he succeeds at a Fortitude save, but now when he fails a Fortitude saving throw against a spell or effect that deals damage (including ability damage and drain), he takes only half the amount of damage. A helpless sacred fist does not gain the benefit of miraculous fortitude. This ability replaces the bonus feat gained at 9th level.
+
+)

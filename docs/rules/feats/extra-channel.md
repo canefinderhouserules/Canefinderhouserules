@@ -6,4 +6,4 @@ You can channel divine energy more often.
 
 **Benefit**: You can channel energy two additional times per day.
 
-**Special**: If a paladin with the ability to channel positive energy takes this feat, she can use lay on hands four additional times a day, but only to channel positive energy.
+**Special**: If a paladin with the ability to channel positive energy takes this feat, she can use lay on hands four additional times a day, but only to channel positive energy. If a warpriest with the ability to channel energy takes this feat, he gains four additional uses of fervor per day, but can use them only to channel energy.

@@ -70,6 +70,28 @@ Metamagic feats cannot be used with all spells. See the specific feat descriptio
 
 **Counterspelling Metamagic Spells**: Whether or not a spell has been enhanced by a metamagic feat does not affect its vulnerability to counterspelling or its ability to counterspell another spell (see Chapter 9).
 
+### Panache Feats
+
+Panache feats interact with the swashbuckler’s panache class ability or the panache granted by the Amateur Swashbuckler feat. Swashbucklers can take panache feats as bonus feats.
+
+### Style Feats
+
+Style feats are based on fighting styles suited to the brawler’s rough-and-tumble combat disciplines. As a swift action, you can enter the stance employed by the fighting style that a style feat embodies. Although you cannot use a style feat before combat begins, the style you are in persists until either you use a swift action to switch styles or the end of the combat encounter, whichever occurs first. You can use a feat that has a style feat as a prerequisite only while you are in the stance of the associated style.
+
+- **Grabbing Style**: A wrestling and grappling style that favors powerful one-handed grabs, fast repositioning of those grabbed, and the ability to move and damage one or two opponents. Feat path: Grabbing Style, Grabbing Drag, Grabbing Master.
+- **Jabbing Style**: This style favors rapid punches and kicks, typically while the fighter circles her opponent. Many of these jabs land in the same general area or in debilitating areas of the body, delivering more pain and damage with each successive jab. Feat path: Jabbing Style, Jabbing Dancer, Jabbing Master.
+- **Pummeling Style**: Seemingly wild and powerful haymaker punches and extended kicks are the hallmark of this style. Deeply rooted in its martial philosophy is the concept that landing one powerful strike in the right area will send an opponent painfully sprawling. Feat path: Pummeling Style, Pummeling Bully, Pummeling Charge.
+
+### Teamwork Feats
+
+Teamwork feats grant significant bonuses, but they function only under specific circumstances. In most cases, these feats require an ally with the same feat to have a specific position on the battlefield. Teamwork feats provide no benefits if the given conditions are not met. Allies who are paralyzed, stunned, unconscious, or otherwise unable to act do not count for the purposes of these feats. Cavaliers, hunters, and inquisitors have special class abilities that allow them to use teamwork feats even if their allies don’t have those feats.
+
+### Feats That Grant Extra Uses of Class Abilities
+
+Feats that grant extra uses of class abilities, like Extra Channel or Extra Rage, effectively grant the affected ability a pool of additional uses each day. If you have levels in multiple classes that have the same ability (or abilities that are considered as others for feat purposes, like the skald's raging song counting as bardic performance), this single pool applies to all those abilities together, and doesn't grant extra uses to each one separately. You may spend this pool of uses each day on any of these abilities in whatever manner you choose.
+
+For example, if you have levels in both barbarian and bloodrager and you take the Extra Rage feat, you gain 6 extra rounds that you can either use to rage or bloodrage or split between the two. The feat does not give both an extra 6 rounds of rage and 6 rounds of bloodrage-it gives you exactly 6 rounds each day that you can use for either one of these abilities. One day, you might use 4 of these rounds for rage and 2 on bloodrage; the next day, you might use 3 on each.
+
 ## Feat Descriptions
 
 Feats are summarized on Table 5–1 on the pages following. Note that the prerequisites and benefits of the feats on this table are abbreviated for ease of reference. See the feats description for full details.
@@ -564,3 +586,139 @@ Feats from the *Advanced Player's Guide*. Each name links to its full descriptio
 | [Vermin Heart](vermin-heart.md) | — | Wild empathy class feature |
 | [War Singer](war-singer.md) | — | Cha 13, bardic performance class feature, half-orc or orc |
 | [Well-Prepared](well-prepared.md) | — | Halfling |
+
+## Advanced Class Guide Feats
+
+Feats from the *Advanced Class Guide*. Each name links to its full description.
+
+| Feat | Type | Prerequisites |
+|---|---|---|
+| [Aberrant Tumor](aberrant-tumor.md) | — | Aberrant bloodline |
+| [Amateur Investigator](amateur-investigator.md) | — | Int 13, 1 rank in at least one Knowledge skill, no levels in a class that has the inspiration class feature |
+| [Amateur Swashbuckler](amateur-swashbuckler.md) | Combat | No levels in a class that has the panache class feature |
+| [Animal Soul](animal-soul.md) | — | Animal companion or mount class feature |
+| [Anticipate Dodge](anticipate-dodge.md) | Combat | Dodge, Mobility; base attack bonus +7, brawler level 4th, or monk level 4th |
+| [Barroom Brawler](barroom-brawler.md) | Combat | Base attack bonus +4 |
+| [Battle Cry](battle-cry.md) | Combat | Cha 13; base attack bonus +5 or Perform (act, oratory, or sing) 5 ranks |
+| [Befuddling Strike](befuddling-strike.md) | Combat | Dex 13, Wis 13, Improved Unarmed Strike, base attack bonus +8 |
+| [Believer's Boon](believer-s-boon.md) | — | Wis 13, alignment must be within one step of your deity's |
+| [Believer's Hands](believer-s-hands.md) | — | Wis 13, Believer's Boon, must be lawful good, alignment must be within one step of your deity's |
+| [Blasting Charge](blasting-charge.md) | — | Base attack bonus +7, ability to cast 2nd level bloodrager spells, bloodrage class feature |
+| [Blessed Striker](blessed-striker.md) | — | Base attack bonus +n, ability to cast divine spells, alignment must be within one step of your deity's |
+| [Blooded Arcane Strike](blooded-arcane-strike.md) | Combat | Arcane Strike, ability to cast arcane spells, bloodrage class feature |
+| [Bookish Rogue](bookish-rogue.md) | — | Minor magic rogue talent |
+| [Canny Tumble](canny-tumble.md) | Combat | Dodge, Mobility, Acrobatics 5 ranks |
+| [Channeled Blessing](channeled-blessing.md) | — | Blessingst class feature, channel energy class feature |
+| [Channeling Force](channeling-force.md) | Combat | Ability to cast at least one force spell, channel energy class feature |
+| [Confounding Tumble Deed](confounding-tumble-deed.md) | Panache | Amateur Swashbuckler feat or panache class feature, Canny Tumble, Acrobatics 7 ranks |
+| [Coordinated Shot](coordinated-shot.md) | Combat, Teamwork | Point-Blank Shot |
+| [Counter Reflexes](counter-reflexes.md) | Combat | Anticipate Dodge, Dodge, Mobility; base attack bonus +9, brawler level 6th, or monk level 6th |
+| [Counterpunch](counterpunch.md) | Combat | Dex 18, Combat Reflexes, Improved Unarmed Strike, Weapon Focus (unarmed strike); base attack bonus +16 or brawler level 12th |
+| [Dazing Fist](dazing-fist.md) | Combat | Dex 13, Wis 13, Improved Unarmed Strike, base attack bonus +4 |
+| [Disable Dweomer](disable-dweomer.md) | — | Disable Device 5 ranks, Use Magic Device 5 ranks, trapfinding |
+| [Disarming Threat Deed](disarming-threat-deed.md) | Panache | Amateur Swashbuckler or panache class feature; Diplomacy 2 ranks, Intimidate 2 ranks |
+| [Disheartening Display](disheartening-display.md) | Combat | Dazzling Display, Weapon Focus, base attack bonus +6, proficiency with chosen weapon |
+| [Distracting Charge](distracting-charge.md) | Combat, Teamwork | — |
+| [Divine Protection](divine-protection.md) | — | Cha 13, Knowledge (religion) 5 ranks, ability to cast 2nd-level divine spells; blessings, domains, or mystery class feature |
+| [Draining Strike](draining-strike.md) | Combat | Dex 13, Wis 13, Improved Unarmed Strike, base attack bonus +8 |
+| [Dual Enhancement](dual-enhancement.md) | — | Two-Weapon Fighting; divine bond (weapon) or sacred weapon class feature |
+| [Dueling Cape](dueling-cape.md) | Combat, Panache | Dodge, Sleight of Hand 1 rank |
+| [Energy Channel](energy-channel.md) | — | Channel energy class feature; Air, Earth, Fire, or Water domain or blessing |
+| [Esoteric Linguistics](esoteric-linguistics.md) | — | Skill Focus (Linguistics) |
+| [Evolved Companion](evolved-companion.md) | — | Cha 13, animal companion class feature |
+| [Evolved Summoned Monster](evolved-summoned-monster.md) | — | Augmented Summoning, Spell Focus (conjuration), ability to cast summon monster I |
+| [Expanded Preparation](expanded-preparation.md) | — | Arcanist level 1st |
+| [Extended Animal Focus](extended-animal-focus.md) | — | Animal focus class feature |
+| [Extra Arcanist Exploit](extra-arcanist-exploit.md) | — | Arcanist exploit class feature |
+| [Extra Inspiration](extra-inspiration.md) | — | Amateur Investigator or inspiration class feature |
+| [Extra Investigator Talent](extra-investigator-talent.md) | — | Investigator talent class feature |
+| [Extra Martial Flexibility](extra-martial-flexibility.md) | — | Martial flexibility class feature |
+| [Extra Panache](extra-panache.md) | Panache | Amateur Swashbuckler or panache class feature |
+| [Extra Reservoir](extra-reservoir.md) | — | — |
+| [Extra Slayer Talent](extra-slayer-talent.md) | — | Slayer talent class feature |
+| [Extreme Prejudice](extreme-prejudice.md) | Combat | Seething Hatred, sneak attack +3d6, studied target class feature |
+| [Faerie's Strike](faerie-s-strike.md) | Combat | Nature Magic or the ability to cast druid or ranger spells; Vital Strike, Knowledge (nature) 5 ranks |
+| [Favored Enemy Spellcasting](favored-enemy-spellcasting.md) | — | Ability to cast spells |
+| [Flexible Hex](flexible-hex.md) | — | Wandering hex class feature |
+| [Flexible Wizardry](flexible-wizardry.md) | — | Spell Mastery, wizard level 1st |
+| [Focused Inspiration](focused-inspiration.md) | — | Inspiration class feature, keen recollection class feature |
+| [Force Dash](force-dash.md) | — | Base attack bonus +4, ability to cast 2nd-level arcane spells, ability to cast at least one arcane force spell |
+| [Formula Recollection](formula-recollection.md) | — | Spellcraft 5 ranks, keen recollection class feature |
+| [Grabbing Drag](grabbing-drag.md) | Combat | Grabbing Style, Improved Grapple; base attack bonus +8, brawler level 4th, or monk level 4th |
+| [Grabbing Master](grabbing-master.md) | Combat | Grabbing Drag, Grabbing Style, Improved Grapple; base attack bonus +12, brawler level 8th, or monk level 8th |
+| [Grabbing Style](grabbing-style.md) | Combat, Style | Improved Grapple; base attack bonus +6, brawler's flurry class feature, or flurry of blows class feature |
+| [Grasping Strike](grasping-strike.md) | Combat | Nature Magic or the ability to cast druid or ranger spells; Vital Strike, Knowledge (nature) 5 ranks |
+| [Greater Dirge of Doom](greater-dirge-of-doom.md) | — | Improved Dirge of Doom, ability to perform dirge of doom |
+| [Greater Skald's Vigor](greater-skald-s-vigor.md) | — | Skald's Vigor, Perform (song) 10 ranks |
+| [Greater Weapon of the Chosen](greater-weapon-of-the-chosen.md) | Combat | Improved Weapon of the Chosen, Weapon Focus with deity's favored weapon, Weapon of the Chosen, worship and receive spells from a deity |
+| [Gruesome Slaughter](gruesome-slaughter.md) | Combat | Intimidating Prowess, Killing Flourish, Intimidate 11 ranks, slayer level 11th |
+| [Improved Awesome Blow](improved-awesome-blow.md) | Combat | Str 13; Awesome Blow or awesome blow class feature; Power Attack |
+| [Improved Dirge of Doom](improved-dirge-of-doom.md) | — | Ability to perform dirge of doom |
+| [Improved Duck and Cover](improved-duck-and-cover.md) | Teamwork | Duck and Cover |
+| [Improved Flexible Wizardry](improved-flexible-wizardry.md) | — | Flexible Wizardry, Spell Mastery, wizard level 8th |
+| [Improved Spell Sharing](improved-spell-sharing.md) | Teamwork | Ability to acquire an animal companion, eidolon, familiar, or special mount |
+| [Improved Studied Combatant](improved-studied-combatant.md) | — | Int 13, Amateur Investigator, Studied Combatant, base attack bonus +8, 1 rank in at least one Knowledge skill, no levels in a class that has the inspiration class feature |
+| [Improved Swap Places](improved-swap-places.md) | Combat, Teamwork | Swap Places |
+| [Improved Weapon of the Chosen](improved-weapon-of-the-chosen.md) | Combat | Weapon Focus with your deity's favored weapon, Weapon of the Chosen |
+| [Insightful Delivery](insightful-delivery.md) | — | Poison use class feature, studied strike +4d6 |
+| [Inspired Alchemy](inspired-alchemy.md) | — | Ability to create 2nd-level extracts, alchemy class feature, inspiration class feature |
+| [Inspired by Fear](inspired-by-fear.md) | — | Ability to perform dirge of doom |
+| [Inspired Strike](inspired-strike.md) | — | Studied combat class feature |
+| [Intercept Charge](intercept-charge.md) | Combat, Teamwork | — |
+| [Intimidating Performance](intimidating-performance.md) | — | Ability to start a performance (or raging song) as a move action, bardic performance or raging songt class feature |
+| [Jabbing Dancer](jabbing-dancer.md) | Combat | Dodge, Improved Unarmed Strike, Jabbing Style, Mobility; base attack bonus +9, brawler level 5th, or monk level 5th |
+| [Jabbing Master](jabbing-master.md) | Combat | Dodge, Improved Unarmed Strike, Jabbing Dancer, Jabbing Style, Mobility, Power Attack; base attack bonus +12, brawler level 8th, or monk level 8th |
+| [Jabbing Style](jabbing-style.md) | Combat, Style | Improved Unarmed Strike; base attack bonus +6, brawler's flurry class feature, or flurry of blows class feature |
+| [Kick Up](kick-up.md) | Combat | Dex 12, Acrobatic, Acrobatics 1 rank; slayer level 1st or swashbuckler level 1st |
+| [Killing Flourish](killing-flourish.md) | Combat | Intimidating Prowess, Intimidate 4 ranks, slayer level 4th |
+| [Lay of the Land](lay-of-the-land.md) | — | Animal focus class feature, wild empathy class feature |
+| [Lunging Spell Touch](lunging-spell-touch.md) | — | Spellcraft 6 ranks |
+| [Manifested Blood](manifested-blood.md) | — | Cha 13; draconic or elemental bloodline |
+| [Merciless Butchery](merciless-butchery.md) | Combat | Dastardly Finish, sneak attack +5d6, studied target class feature |
+| [Nature Magic](nature-magic.md) | — | Knowledge (nature) 1 rank |
+| [Orator](orator.md) | — | Skill Focus (Linguistics) |
+| [Pack Flanking](pack-flanking.md) | Teamwork | Int 13, Combat Expertise, ability to acquire an animal companion |
+| [Paralyzing Strike](paralyzing-strike.md) | Combat | Dex 13, Wis 13, Improved Unarmed Strike, base attack bonus +14 |
+| [Pommel Strike Deed](pommel-strike-deed.md) | Panache | Amateur Swashbuckler or panache class feature; base attack bonus +3 |
+| [Pummeling Bully](pummeling-bully.md) | Combat | Improved Reposition, Improved Trip, Improved Unarmed Strike, Pummeling Style; base attack bonus +9, brawler level 5th, or monk level 5th |
+| [Pummeling Charge](pummeling-charge.md) | Combat | Improved Unarmed Strike, Pummeling Style; base attack bonus +12, brawler level 8th, or monk level 8th |
+| [Pummeling Style](pummeling-style.md) | Combat, Style | Improved Unarmed Strike; base attack bonus +6, brawler's flurry class feature, or flurry of blows class feature |
+| [Quicken Blessing](quicken-blessing.md) | — | Access to a blessing's major power, blessings class feature |
+| [Rage Casting](rage-casting.md) | — | Blood casting class feature |
+| [Raging Absorption](raging-absorption.md) | — | Ability to cast 2nd-level bloodrager spells, bloodrage class feature |
+| [Raging Blood](raging-blood.md) | — | Eldritch Heritage or sorcerer bloodline class feature |
+| [Raging Concentration](raging-concentration.md) | — | Blood casting class feature |
+| [Ranged Study](ranged-study.md) | — | Weapon Focus with the chosen weapon, studied combat class feature |
+| [Reactive Healing](reactive-healing.md) | — | Quick Channel or Quicken Spell; channel energy or lay on hands class feature |
+| [Reckless Rage](reckless-rage.md) | — | Power Attack; rage or raging songt class feature |
+| [Recovered Rage](recovered-rage.md) | — | Rage or raging songt class feature |
+| [Resilient Armor](resilient-armor.md) | — | Divine bond (armor or shield), or sacred armor class feature |
+| [Riving Strike](riving-strike.md) | Combat | Arcane Strike, ability to cast arcane spells |
+| [Seething Hatred](seething-hatred.md) | Combat | Studied target class feature |
+| [Seize Advantage](seize-advantage.md) | Combat | Opportune parry and riposte deed |
+| [Share Healing](share-healing.md) | Teamwork | Ability to acquire an animal companion, eidolon, familiar, or special mount |
+| [Silent Kill](silent-kill.md) | Combat | Stealth 12 ranks; assassinate advanced slayer talent or ninja master trick |
+| [Skald's Vigor](skald-s-vigor.md) | — | Raging songt class feature |
+| [Skilled Rager](skilled-rager.md) | — | Rage class feature |
+| [Slashing Grace](slashing-grace.md) | Combat | Dex 13, Weapon Finesse, Weapon Focus with chosen weapon |
+| [Slayer's Feint](slayer-s-feint.md) | Combat | Dex 15, Acrobatic or slayer level 1st, Combat Expertise, Acrobatics 1 rank |
+| [Slow Faller](slow-faller.md) | — | Acrobatics 5 ranks or slow fall class feature |
+| [Spirit Talker](spirit-talker.md) | — | Hex class feature; shaman level 6th or witch level 6th |
+| [Spirit's Gift](spirit-s-gift.md) | — | Animal companion class feature or familiar class feature |
+| [Spiritual Guardian](spiritual-guardian.md) | — | Ability to cast spiritual weapon or spiritual ally, spirit magic class feature |
+| [Spontaneous Nature's Ally](spontaneous-nature-s-ally.md) | — | Knowledge (nature) 5 ranks, ability to spontaneously cast cure or inflict spells, Animal or Plant domain |
+| [Staggering Fist](staggering-fist.md) | Combat | Dex 13, Wis 13, Improved Unarmed Strike, base attack bonus +2 |
+| [Stalker's Focus](stalker-s-focus.md) | — | Knowledge (nature) 3 ranks, Survival 3 ranks, no levels in a class that has the animal focus class feature |
+| [Steadfast Personality](steadfast-personality.md) | — | — |
+| [Stouthearted](stouthearted.md) | — | Raging songt class feature |
+| [Studied Combatant](studied-combatant.md) | — | Int 13, Amateur Investigator, base attack bonus +6, 1 rank in at least one Knowledge skill, no levels in a class that has the inspiration class feature |
+| [Surprise Maneuver](surprise-maneuver.md) | — | Combat Expertise; sneak attack +3d6 or studied strike +3d6 |
+| [Talented Magician](talented-magician.md) | — | Major magic rogue talent, minor magic rogue talent |
+| [Twinned Feint](twinned-feint.md) | Combat | Cha 13 |
+| [Twist Away](twist-away.md) | — | Evasion |
+| [Undersized Mount](undersized-mount.md) | Combat | Ride 1 rank |
+| [Unfettered Familiar](unfettered-familiar.md) | — | Caster level 5th, familiar class feature |
+| [War Blessing](war-blessing.md) | — | Mystery or domain class feature |
+| [Weapon of the Chosen](weapon-of-the-chosen.md) | Combat | Weapon Focus with deity's favored weapon, must worship and receive spells from a deity |
+| [Winter's Strike](winter-s-strike.md) | Combat | Nature Magic or the ability to cast druid or ranger spells; Vital Strike, Knowledge (nature) 5 ranks |
+| [Wounded Paw Gambit](wounded-paw-gambit.md) | Combat, Teamwork | Broken Wing Gambit, Bluffs ranks |
