@@ -30,6 +30,8 @@ There are hundreds of spells available to spellcasters in the Pathfinder Rolepla
 
 - [Antipaladin Spells](antipaladin-spells.md)
 
+- [Bloodrager Spells](bloodrager-spells.md)
+
 - [Inquisitor Spells](inquisitor-spells.md)
 
 - [Magus Spells](magus-spells.md)

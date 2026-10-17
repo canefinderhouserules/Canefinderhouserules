@@ -1,0 +1,213 @@
+# Bloodrager Spells
+
+Bloodragers gain access to the following spells. Spells in plain text come from other books or from this book’s new spells and are not yet transcribed here.
+
+## 1st-Level Bloodrager Spells
+
+- Blade Lash
+- Blurred Movement
+- **[Break](break.md)**: Gives an object the broken condition.
+- **[Burning Hands](burning-hands.md)**: 1d4/level fire damage (max 5d4).
+- **[Cause Fear](cause-fear.md)**: A creature of 5 HD or less flees for 1d4 rounds.
+- **[Chill Touch](chill-touch.md)**: One touch/level deals 1d6 damage and possibly 1 Str damage.
+- **[Color Spray](color-spray.md)**: Knocks unconscious, blinds, and/or stuns weak creatures.
+- **[Corrosive Touch](corrosive-touch.md)**: Touch attack deals 1d4 acid/level.
+- **[Ear-Piercing Scream](ear-piercing-scream.md)**: Deal sonic damage and daze target.
+- **[Endure Elements](endure-elements.md)**: Exist comfortably in hot or cold regions.
+- **[Enlarge Person](enlarge-person.md)**: Humanoid creature doubles in size.
+- **[Expeditious Retreat](expeditious-retreat.md)**: Your base speed increases by 30 ft.
+- **[Feather Fall](feather-fall.md)**: Objects or creatures fall slowly.
+- **[Flare Burst](flare-burst.md)**: As flare, but all creatures within 10 ft.
+- **[Frostbite](frostbite.md)**: Target takes cold damage and is fatigued.
+- **[Hydraulic Push](hydraulic-push.md)**: Wave of water bull rushes an enemy.
+- **[Icicle Dagger](icicle-dagger.md)**: Masterwork ice dagger deals +1 cold damage.
+- **[Jump](jump.md)**: Subject gets bonus on Acrobatics checks.
+- Line in the Sand
+- Long Arm
+- **[Mage Armor](mage-armor.md)**: Gives subject +4 armor bonus.
+- **[Magic Missile](magic-missile.md)**: 1d4+1 damage; +1 missile per two levels above 1st (max 5).
+- **[Magic Weapon](magic-weapon.md)**: Weapon gains +1 bonus.
+- Marid's Mastery
+- Mirror Strike
+- **[Mount](mount.md)**: Summons riding horse for 2 hours/level.
+- Mudball
+- Phantom Blood
+- Protection from Chaos/evil/good/law
+- **[Ray of Enfeeblement](ray-of-enfeeblement.md)**: Ray causes 1d6 Str penalty + 1 per 2 levels.
+- **[Ray of Sickening](ray-of-sickening.md)**: Ray makes the subject sickened.
+- **[Reduce Person](reduce-person.md)**: Humanoid creature halves in size.
+- Returning Weapon
+- **[Shadow Weapon](shadow-weapon.md)**: Create a quasi-real masterwork weapon.
+- **[Shield](shield.md)**: Invisible disc gives +4 to AC, blocks *magic missiles.*
+- **[Shocking Grasp](shocking-grasp.md)**: Touch delivers 1d6/level electricity damage (max 5d6).
+- Shock Shield
+- **[Stone Fist](stone-fist.md)**: Your unarmed strikes are lethal.
+- Stone Shield
+- Strong Wings
+- Sundering Shards
+- Thunderstomp
+- Touch of Combustion
+- **[Touch of Gracelessness](touch-of-gracelessness.md)**: Subject loses 1d6 + 1 Dex/two levels and is prone to falling down.
+- **[Touch of the Sea](touch-of-the-sea.md)**: Swim speed becomes 30 ft.
+- **[True Strike](true-strike.md)**: +20 on your next attack roll.
+- Unerring Weapon
+- Warding Weapon
+- Wave Shield
+- Web Bolt
+- Windy Escape
+- Winter Feathers
+
+## 2nd-Level Bloodrager Spells
+
+- Ablative Barrier
+- **[Acid Arrow](acid-arrow.md)**: Ranged touch attack; 2d4 damage for 1 round + 1 round/three levels.
+- Adhesive Blood
+- Animal Aspect
+- **[Bear’s Endurance](bears-endurance.md)**: Subject gains +4 to Con for 1 min./level.
+- **[Blindness/Deafness](blindness-deafness.md)**: Makes subject blind or deaf.
+- Blood Armor
+- Blood Blaze
+- **[Boiling Blood](boiling-blood.md)**: Targets take fire damage; orcs get +2 Strength.
+- Brow Gasher
+- Bullet Shield
+- **[Bull’s Strength](bulls-strength.md)**: Subject gains +4 to Str for 1 min./level.
+- **[Burning Gaze](burning-gaze.md)**: Inflict 1d6 fire damage to creature.
+- **[Cat’s Grace](cats-grace.md)**: Subject gains +4 to Dex for 1 min./level.
+- Certain Grip
+- **[Daze Monster](daze-monster.md)**: Living creature of 6 HD or less loses its next action.
+- Death from Below
+- **[Defensive Shock](defensive-shock.md)**: Electricity damages your attackers.
+- **[Delay Pain](delay-pain.md)**: Ignore pain for 1 hour/level. Disfiguring Touch : Target becomes disfigured.
+- **[Disfiguring Touch](disfiguring-touch.md)**: Target becomes disfigured.
+- **[Dust of Twilight](dust-of-twilight.md)**: Black particles extinguish light sources within area.
+- **[Eagle’s Splendor](eagles-splendor.md)**: Subject gains +4 to Cha for 1 min./ level.
+- **[Elemental Touch](elemental-touch.md)**: Gain energy damage touch attack.
+- Extreme Flexibility
+- **[False Life](false-life.md)**: Gain 1d10 temporary hp + 1/level (max +10).
+- **[Fire Breath](fire-breath.md)**: Exhale a cone of flame at will.
+- **[Flaming Sphere](flaming-sphere.md)**: Rolling ball of fire deals 3d6 fire damage.
+- **[Frigid Touch](frigid-touch.md)**: Target takes cold damage and is staggered.
+- **[Ghoul Touch](ghoul-touch.md)**: Paralyzes one subject, which exudes stench that makes those nearby sickened.
+- **[Glitterdust](glitterdust.md)**: Blinds creatures, outlines invisible creatures.
+- Gusting Sphere
+- **[Gust of Wind](gust-of-wind.md)**: Blows away or knocks down smaller creatures.
+- Imbue with Elemental Might
+- **[Mirror Image](mirror-image.md)**: Creates decoy duplicates of you.
+- Molten Orb
+- **[Protection from Arrows](protection-from-arrows.md)**: Subject gains DR 10/magic against ranged attacks.
+- **[Pyrotechnics](pyrotechnics.md)**: Turns fire into blinding light or thick smoke.
+- **[Resist Energy](resist-energy.md)**: Ignores 10 (or more) points of damage/attack from specified energy type.
+- **[Scorching Ray](scorching-ray.md)**: Ranged touch attack deals 4d6 fire damage, + 1 ray/four levels (max 3).
+- **[See Invisibility](see-invisibility.md)**: Reveals invisible creatures or objects.
+- **[Shatter](shatter.md)**: Sonic energy damages objects or crystalline creatures.
+- **[Slipstream](slipstream.md)**: Wave boosts creature’s speed.
+- Sonic Scream
+- **[Spider Climb](spider-climb.md)**: Grants ability to walk on walls and ceilings.
+- Steal Breath
+- **[Stone Call](stone-call.md)**: 2d6 damage to all creatures in area.
+- Stone Discus
+- **[Touch of Idiocy](touch-of-idiocy.md)**: Subject takes 1d6 penalty to Int, Wis, and Cha.
+- **[Unshakable Chill](unshakable-chill.md)**: Target is aff licted with severe cold.
+
+## 3rd-Level Bloodrager Spells
+
+- Air Geyser
+- Animal Aspect, Greater
+- **[Aqueous Orb](aqueous-orb.md)**: Creates rolling sphere of water.
+- **[Beast Shape I](beast-shape-i.md)**: You take the form and some of the powers of a Small or Medium animal.
+- **[Blood Biography](blood-biography.md)**: Learn about a creature with its blood.
+- Blood Scent
+- **[Burrow](burrow.md)**: Target gains a burrow speed of 15.
+- Burst of Speed
+- Chain of Perdition
+- **[Cloak of Winds](cloak-of-winds.md)**: Creates a whirling screen of strong wind around you.
+- **[Countless Eyes](countless-eyes.md)**: Extra eyes give all-around vision.
+- **[Draconic Reservoir](draconic-reservoir.md)**: Subject can absorb energy damage and enhance melee attacks with it.
+- **[Elemental Aura](elemental-aura.md)**: Creates an aura of energy around you.
+- **[Eruptive Pustules](eruptive-pustules.md)**: Acid boils burst when you are attacked.
+- **[Excruciating Deformation](excruciating-deformation.md)**: Target takes Dex and Con damage.
+- **[Fireball](fireball.md)**: 1d6 damage per level, 20-ft. radius.
+- Firestream
+- Fire Trail
+- **[Flame Arrow](flame-arrow.md)**: Arrows deal +1d6 fire damage.
+- **[Fly](fly.md)**: Subject flies at speed of 60 ft.
+- **[Force Hook Charge](force-hook-charge.md)**: Hook of force drags you to the target.
+- **[Force Punch](force-punch.md)**: Target takes 1d4 force damage per level and is pushed away.
+- Gloomblind Bolts
+- **[Haste](haste.md)**: One creature/level moves faster, +1 on attack rolls, AC, and Reflex saves.
+- **[Heroism](heroism.md)**: Gives +2 bonus on attack rolls, saves, skill checks.
+- **[Hold Person](hold-person.md)**: Paralyzes one humanoid for 1 round/level.
+- Hostile Levitation
+- **[Howling Agony](howling-agony.md)**: Screaming pain limits the target’s actions.
+- **[Hydraulic Torrent](hydraulic-torrent.md)**: Creates torrent of water that bull rushes any creature in its path.
+- **[Keen Edge](keen-edge.md)**: Doubles normal weapon’s threat range.
+- **[Lightning Bolt](lightning-bolt.md)**: Electricity deals 1d6/level damage.
+- Locate Weakness
+- **[Magic Weapon, Greater](magic-weapon-greater.md)**: Weapon gains +1 bonus/four levels (max +5).
+- **[Monstrous Physique I](monstrous-physique-i.md)**: Take the form and some of the powers of a Small or Medium monstrous humanoid.
+- **[Pain Strike](pain-strike.md)**: Inflicts 1d6 nonlethal damage 1 round/level.
+- Paragon Surge
+- **[Phantom Steed](phantom-steed.md)**: Magic horse appears for 1 hour/level.
+- **[Protection from Energy](protection-from-energy.md)**: Absorbs 12 points/level of damage from one kind of energy.
+- **[Rage](rage.md)**: Gives +2 to Str and Con, +1 on Will saves, –2 to AC.
+- Raging Rubble
+- **[Ray of Exhaustion](ray-of-exhaustion.md)**: Ray makes subject exhausted.
+- Resinous Skin
+- Silver Darts
+- **[Sleet Storm](sleet-storm.md)**: Hampers vision and movement.
+- **[Slow](slow.md)**: One subject/level takes only one action/round, –1 to AC, Reflex saves, and attack rolls.
+- **[Stinking Cloud](stinking-cloud.md)**: Nauseating vapors, 1 round/level.
+- Thunderstomp, Greater
+- **[Twilight Knife](twilight-knife.md)**: Floating knife attacks with you.
+- **[Undead Anatomy I](undead-anatomy-i.md)**: Take the form and some of the powers of a Small or Medium undead.
+- **[Vampiric Touch](vampiric-touch.md)**: Touch deals 1d6 damage/2 levels; caster gains damage as temporary hp.
+- **[Versatile Weapon](versatile-weapon.md)**: Weapon bypasses some DR.
+- **[Vision of Hell](vision-of-hell.md)**: Illusory hellscape makes creatures shaken.
+- **[Water Breathing](water-breathing.md)**: Subjects can breathe underwater.
+- **[Wind Wall](wind-wall.md)**: Deflects arrows, smaller creatures, and gases.
+
+## 4th-Level Bloodrager Spells
+
+- Absorbing Inhalation
+- **[Ball Lightning](ball-lightning.md)**: Flying lightning spheres deal 3d6 electricity damage each.
+- **[Beast Shape II](beast-shape-ii.md)**: You take the form and some of the powers of a Tiny or Large animal.
+- **[Bestow Curse](bestow-curse.md)**: –6 to an ability score; –4 on attack rolls, saves, and checks; or 50% chance of losing each action.
+- **[Black Tentacles](black-tentacles.md)**: Tentacles grapple all creatures within a 20-ft. spread.
+- **[Calcific Touch](calcific-touch.md)**: Touch attack slows target, 1d4 Dex damage.
+- **[Confusion](confusion.md)**: Subjects behave oddly for 1 round/level.
+- **[Contagion](contagion.md)**: Infects subject with chosen disease.
+- **[Crushing Despair](crushing-despair.md)**: Subjects take –2 on attack rolls, damage rolls, saves, and checks.
+- **[Detonate](detonate.md)**: 1d8/level energy damage to nearby creatures.
+- **[Dragon’s Breath](dragons-breath.md)**: Gives you a dragon’s breath weapon.
+- Earth Glide
+- **[Elemental Body I](elemental-body-i.md)**: Turns you into a Small elemental.
+- **[Enervation](enervation.md)**: Subject gains 1d4 negative levels.
+- **[Enlarge Person, Mass](enlarge-person-mass.md)**: 1 humanoid creature/level doubles in size.
+- **[False Life, Greater](false-life-greater.md)**: Gain 2d10 temporary hp + 1/level.
+- **[Fear](fear.md)**: Subjects within cone flee for 1 round/level.
+- **[Firefall](firefall.md)**: Causes fire to burst up, dealing 2d6 fire damage.
+- **[Fire Shield](fire-shield.md)**: Creatures attacking you take fire damage; you’re protected from heat or cold.
+- Flaming Sphere, Greater
+- Ghost Wolf
+- Hellmouth Lash
+- **[Ice Storm](ice-storm.md)**: Hail deals 5d6 damage in cylinder 40 ft. across.
+- **[Monstrous Physique II](monstrous-physique-ii.md)**: Take the form and some of the powers of a Tiny or Large monstrous humanoid.
+- **[Moonstruck](moonstruck.md)**: Subject is enraged and confused.
+- Pellet Blast
+- **[Phantasmal Killer](phantasmal-killer.md)**: Fearsome illusion kills subject or deals 3d6 damage.
+- **[Reduce Person, Mass](reduce-person-mass.md)**: As *reduce person*, but affects 1 humanoid creature/level.
+- **[Ride the Waves](ride-the-waves.md)**: Target can breathe water and swim.
+- **[River of Wind](river-of-wind.md)**: Creates wind that causes nonlethal damage and can knock down or push creatures.
+- Shocking Image
+- **[Shout](shout.md)**: Deafens all within cone and deals 5d6 sonic damage.
+- **[Slow](slow.md)**: One subject/level takes only one action/round, –1 to AC, Reflex saves, and attack rolls.
+- **[Stoneskin](stoneskin.md)**: Grants DR 10/adamantine.
+- Telekinetic Charge
+- **[Touch of Slime](touch-of-slime.md)**: Touch infests a target with green slime.
+- **[Vermin Shape I](vermin-shape-i.md)**: Take the form and some of the powers of a Small or Medium vermin.
+- **[Vitriolic Mist](vitriolic-mist.md)**: As fire shield, except acid damage.
+- **[Volcanic Storm](volcanic-storm.md)**: Hot rocks deal 5d6 damage.
+- **[Wall of Fire](wall-of-fire.md)**: Deals 2d4 fire damage out to 10 ft. and 1d4 out to 20 ft. Passing through wall deals 2d6 damage +1/level.
+- **[Wall of Ice](wall-of-ice.md)**: *Ice plane* creates wall or *hemisphere* creates dome.
+- **[Wall of Sound](wall-of-sound.md)**: Sonic wall def lects and damages creatures.
+- Wreath of Blades
