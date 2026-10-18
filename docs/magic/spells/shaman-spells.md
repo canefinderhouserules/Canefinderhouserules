@@ -39,31 +39,31 @@ Shamans gain access to the following spells. Spells in plain text come from othe
 - **[Detect Animals or Plants](detect-animals-or-plants.md)**: Detects kinds of animals or plants.
 - Detect Chaos/evil/good/law
 - **[Detect Undead](detect-undead.md)**: Reveals undead within 60 ft.
-- Discern Next of Kin
+- **[Discern Next of Kin](discern-next-of-kin.md)**: Read the target’s mind to learn about its family.
 - **[Doom](doom.md)**: One subject takes –2 on attack rolls, damage rolls, saves, and checks.
 - **[Endure Elements](endure-elements.md)**: Exist comfortably in hot or cold regions.
 - **[Entangle](entangle.md)**: Plants entangle everyone in 40-ft. radius.
 - **[Frostbite](frostbite.md)**: Target takes cold damage and is fatigued.
-- Gentle Breeze
+- **[Gentle Breeze](gentle-breeze.md)**: Light wind protects one target from
 - **[Goodberry](goodberry.md)**: 2d4 berries each cure 1 hp (max 8 hp/24 hours).
-- Heightened Awareness
-- Hex Vulnerability
+- **[Heightened Awareness](heightened-awareness.md)**: Your recall and ability to process information improve.
+- **[Hex Vulnerability](hex-vulnerability.md)**: Reuse a hex on a specific target.
 - **[Hex Ward](hex-ward.md)**: Target gains +4 on saves against witch hexes.
 - **[Hide from Animals](hide-from-animals.md)**: Animals can’t perceive one subject/level.
 - **[Hydraulic Push](hydraulic-push.md)**: Wave of water bull rushes an enemy.
 - **[Inflict Light Wounds](inflict-light-wounds.md)**: Touch deals 1d8 damage +1/level (max +5).
 - **[Magic Stone](magic-stone.md)**: Three stones gain +1 on attack rolls, deal 1d6+1 damage.
 - **[Magic Weapon](magic-weapon.md)**: Weapon gains +1 bonus.
-- Monkey Fish
+- **[Monkey Fish](monkey-fish.md)**: Gain a climb speed and a swim speed of 10 ft. for a time.
 - **[Obscuring Mist](obscuring-mist.md)**: Fog surrounds you.
 - **[Pass without Trace](pass-without-trace.md)**: One subject/level leaves no tracks.
 - **[Produce Flame](produce-flame.md)**: 1d6 damage + 1/level, touch or thrown.
 - Protection from Chaos/evil/good/law
 - **[Remove Fear](remove-fear.md)**: Suppresses fear or gives +4 on saves against fear for one subject + one per four levels.
-- Sense Spirit Magic
+- **[Sense Spirit Magic](sense-spirit-magic.md)**: Gain bonuses on identifying and resisting spells associated with your spirits.
 - **[Sleep](sleep.md)**: Puts 4 HD of creatures into magical slumber.
 - Stone Shield
-- Thorn Javelin
+- **[Thorn Javelin](thorn-javelin.md)**: Wield a javelin that sickens opponents when it strikes.
 - Wave Shield
 
 ## 2nd-Level Shaman Spells
@@ -71,14 +71,14 @@ Shamans gain access to the following spells. Spells in plain text come from othe
 - **[Aid](aid.md)**: +1 on attack rolls and saves against fear, 1d8 temporary hp +1/level (max +10).
 - **[Alter Self](alter-self.md)**: Assume form of a Small or Medium humanoid.
 - **[Animal Messenger](animal-messenger.md)**: Sends a Tiny animal to a specific place.
-- Animal Purpose Training
+- **[Animal Purpose Training](animal-purpose-training.md)**: Animal gains a new general purpose.
 - **[Animate Dead, Lesser](animate-dead-lesser.md)**: Create one skeleton or zombie.
 - **[Augury](augury.md)**: Learns whether an action will be good or bad.
 - **[Barkskin](barkskin.md)**: Grants +2 (or higher) enhancement to natural armor.
 - **[Bear’s Endurance](bears-endurance.md)**: Subject gains +4 to Con for 1 min./level.
-- Beastspeak
+- **[Beastspeak](beastspeak.md)**: Speak normally while in animal form.
 - **[Bull’s Strength](bulls-strength.md)**: Subject gains +4 to Str for 1 min./level.
-- Buoyancy
+- **[Buoyancy](buoyancy.md)**: Targets easily float on water.
 - **[Burning Gaze](burning-gaze.md)**: Inflict 1d6 fire damage to creature.
 - **[Calm Emotions](calm-emotions.md)**: Calms creatures, negating emotion effects.
 - Commune with Birds
@@ -90,7 +90,7 @@ Shamans gain access to the following spells. Spells in plain text come from othe
 - **[Enthrall](enthrall.md)**: Captivates all within 100 ft. + 10 ft./level.
 - **[False Life](false-life.md)**: Gain 1d10 temporary hp + 1/level (max +10).
 - **[Flame Blade](flame-blade.md)**: Touch attack deals 1d8 + 1/two levels damage.
-- Focused Scrutiny
+- **[Focused Scrutiny](focused-scrutiny.md)**: Gain skill bonuses when interacting with the target.
 - **[Fog Cloud](fog-cloud.md)**: Fog obscures vision.
 - **[Gentle Repose](gentle-repose.md)**: Preserves one corpse.
 - **[Ghostbane Dirge](ghostbane-dirge.md)**: Incorporeal creature takes half damage from nonmagical weapons.
@@ -100,14 +100,14 @@ Shamans gain access to the following spells. Spells in plain text come from othe
 - Imbue with Elemental Might
 - **[Inflict Moderate Wounds](inflict-moderate-wounds.md)**: Touch attack, 2d8 damage +1/ level (max +10).
 - **[Levitate](levitate.md)**: Subject moves up and down at your direction.
-- Life Pact
+- **[Life Pact](life-pact.md)**: Affected creatures automatically donate hp to stabilize fallen ally.
 - **[Owl’s Wisdom](owls-wisdom.md)**: Subject gains +4 to Wis for 1 min./level.
 - **[Remove Paralysis](remove-paralysis.md)**: Frees creatures from paralysis or *slow* effect.
 - **[Resist Energy](resist-energy.md)**: Ignores 10 (or more) points of damage/attack from specified energy type.
 - **[Restoration, Lesser](restoration-lesser.md)**: Dispels magical ability penalty or repairs 1d4 ability damage.
 - **[Scare](scare.md)**: Frightens creature of less than 6 HD.
-- Shield Companion
-- Sickening Entanglement
+- **[Shield Companion](shield-companion.md)**: As shield other, but affecting your companion creature.
+- **[Sickening Entanglement](sickening-entanglement.md)**: As entangle, but plants have sickening sap.
 - **[Spiritual Weapon](spiritual-weapon.md)**: Magic weapon attacks on its own.
 - **[Summon Swarm](summon-swarm.md)**: Summons swarm of bats, rats, or spiders.
 - **[Tree Shape](tree-shape.md)**: You look exactly like a tree for 1 hour/level.
@@ -117,9 +117,9 @@ Shamans gain access to the following spells. Spells in plain text come from othe
 
 ## 3rd-Level Shaman Spells
 
-- Anchored Step
+- **[Anchored Step](anchored-step.md)**: Vines beneath your feet stabilize you but slow you down.
 - **[Animate Dead](animate-dead.md)**: Creates undead skeletons and zombies out of corpses.
-- Aura Sight
+- **[Aura Sight](aura-sight.md)**: Alignment auras become visible to you.
 - **[Bestow Curse](bestow-curse.md)**: –6 to an ability score; –4 on attack rolls, saves, and checks; or 50% chance of losing each action.
 - **[Blindness/Deafness](blindness-deafness.md)**: Makes subject blind or deaf.
 - **[Call Lightning](call-lightning.md)**: Calls down lightning bolts (3d6 per bolt) from sky.
@@ -133,27 +133,27 @@ Shamans gain access to the following spells. Spells in plain text come from othe
 - **[Dominate Animal](dominate-animal.md)**: One animal obeys your silent mental commands and orders.
 - Fins to Feet
 - **[Fly](fly.md)**: Subject flies at speed of 60 ft.
-- Font of Spirit Magic
-- Hex Glyph
+- **[Font of Spirit Magic](font-of-spirit-magic.md)**
+- **[Hex Glyph](hex-glyph.md)**
 - **[Inflict Serious Wounds](inflict-serious-wounds.md)**: Touch attack, 3d8 damage +1/ level (max +15).
 - Magic Circle Against Chaos/evil/good/law
 - **[Magic Vestment](magic-vestment.md)**: Armor or shield gains +1 enhancement per four levels.
-- Mantle of Calm
-- Mindlocked Messenger
-- Nauseating Trail
-- Pierce Disguise
-- Polymorph Familiar
+- **[Mantle of Calm](mantle-of-calm.md)**: Neutralize the rage effects of those who have attacked you.
+- **[Mindlocked Messenger](mindlocked-messenger.md)**: ‘Target gains a message that can be given only to its intended recipient.
+- **[Nauseating Trail](nauseating-trail.md)**: Creature leaves a trail of stinking
+- **[Pierce Disguise](pierce-disguise.md)**: See through low-level magical disguises.
+- **[Polymorph Familiar](polymorph-familiar.md)**: Give your familiar the shape of another animal.
 - **[Protection from Energy](protection-from-energy.md)**: Absorbs 12 points/level of damage from one kind of energy.
 - **[Remove Blindness/Deafness](remove-blindness-deafness.md)**: Cures normal or magical blindness or deafness.
 - **[Remove Curse](remove-curse.md)**: Frees object or person from curse.
 - **[Sleet Storm](sleet-storm.md)**: Hampers vision and movement.
 - **[Speak with Dead](speak-with-dead.md)**: Corpse answers one question/two levels.
-- Speak with Haunt
-- Stench of Prey
+- **[Speak with Haunt](speak-with-haunt.md)**: Haunt answers one question/2 levels.
+- **[Stench of Prey](stench-of-prey.md)**: Predatory animals must successfully save or attack the target.
 - **[Stinking Cloud](stinking-cloud.md)**: Nauseating vapors, 1 round/level.
 - **[Stone Shape](stone-shape.md)**: Sculpts stone into any shape.
-- Stricken Heart
-- Thorny Entanglement
+- **[Stricken Heart](stricken-heart.md)**: Touch attack deals 346 damage and staggers target.
+- **[Thorny Entanglement](thorny-entanglement.md)**: As entangle, plus plants make ranged attacks.
 - Ward of the Season
 - **[Water Breathing](water-breathing.md)**: Subjects can breathe underwater.
 - **[Water Walk](water-walk.md)**: Subject treads on water as if solid.
@@ -161,14 +161,14 @@ Shamans gain access to the following spells. Spells in plain text come from othe
 
 ## 4th-Level Shaman Spells
 
-- Adjustable Polymorph
-- Air Geyser
-- Anti-incorporeal Shell
+- **[Adjustable Polymorph](adjustable-polymorph.md)**: As alter self; but you can change the shape as a swift action.
+- **[Air Geyser](air-geyser.md)**: Blast of air deals 2d6 bludgeoning damage and knocks opponent upward.
+- **[Anti-incorporeal Shell](anti-incorporeal-shell.md)**: Incorporeal creatures stay 10 ft. away from you.
 - **[Ball Lightning](ball-lightning.md)**: Flying lightning spheres deal 3d6 electricity damage each.
 - **[Command Plants](command-plants.md)**: Sway the actions of plant creatures.
 - **[Control Water](control-water.md)**: Raises or lowers bodies of water.
 - **[Cure Critical Wounds](cure-critical-wounds.md)**: Cures 4d8 damage + 1/level (max +20).
-- Curse of Burning Sleep
+- **[Curse of Burning Sleep](curse-of-burning-sleep.md)**: Creature catches fire the next time it sleeps for an hour.
 - **[Detect Scrying](detect-scrying.md)**: Alerts you to magical eavesdropping
 - **[Dismissal](dismissal.md)**: Forces a creature to return to its native plane.
 - **[Divination](divination.md)**: Provides useful advice for specific proposed actions.
@@ -183,7 +183,7 @@ Shamans gain access to the following spells. Spells in plain text come from othe
 - **[Inflict Critical Wounds](inflict-critical-wounds.md)**: Touch attack, 4d8 damage + 1/level (max +20).
 - **[Magic Weapon, Greater](magic-weapon-greater.md)**: Weapon gains +1 bonus/four levels (max +5).
 - **[Neutralize Poison](neutralize-poison.md)**: Immunizes subject against poison, detoxifies venom in or on subject.
-- Persistent Vigor
+- **[Persistent Vigor](persistent-vigor.md)**: Gain fast healing 2, immunity to bleed, and faster recovery from diseases and poisons.
 - **[Planar Ally, Lesser](planar-ally-lesser.md)**: Exchange services with a 6 HD extraplanar creature.
 - **[Poison](poison.md)**: Touch deals 1d3 Con damage 1/round for 6 rounds.
 - **[Rain of Frogs](rain-of-frogs.md)**: Summon a swarm of poisonous frogs.
@@ -194,7 +194,7 @@ Shamans gain access to the following spells. Spells in plain text come from othe
 - **[Sands of Time](sands-of-time.md)**: Target temporarily ages.
 - **[Scrying](scrying.md)**: Spies on subject from a distance.
 - **[Sending](sending.md)**: Delivers short message anywhere, instantly.
-- Slowing Mud
+- **[Slowing Mud](slowing-mud.md)**: Targets are covered in mud that blinds them and acts like slow.
 - **[Solid Fog](solid-fog.md)**: Blocks vision and slows movement.
 - **[Spike Stones](spike-stones.md)**: Creatures in area take 1d8 damage, may also be slowed*.*
 - **[Spit Venom](spit-venom.md)**: Spit blinding black adder venom.
@@ -217,11 +217,11 @@ Shamans gain access to the following spells. Spells in plain text come from othe
 - **[Curse, Major](curse-major.md)**: As bestow curse, but harder to remove.
 - Dispel Chaos/evil/good/law
 - **[Dominate Person](dominate-person.md)**: Controls humanoid telepathically.
-- Feast on Fear
+- **[Feast on Fear](feast-on-fear.md)**: Targets are panicked, and you gain temporary hit points.
 - **[Flame Strike](flame-strike.md)**: Smites foes with divine fire (1d6/level damage).
 - **[Ghostbane Dirge, Mass](ghostbane-dirge-mass.md)**: As ghostbane dirge, but affecting multiple creatures.
 - **[Grove of Respite](grove-of-respite.md)**: Creates trees and a small spring.
-- Hex Glyph, Greater
+- **[Hex Glyph, Greater](hex-glyph-greater.md)**
 - **[Inflict Light Wounds, Mass](inflict-light-wounds-mass.md)**: Deals 1d8 damage + 1/level, affects 1 subject/level.
 - **[Insect Plague](insect-plague.md)**: Wasp swarms attack creatures.
 - **[Overland Flight](overland-flight.md)**: You fly at a speed of 40 ft. and can hustle over long distances.
@@ -262,7 +262,7 @@ Shamans gain access to the following spells. Spells in plain text come from othe
 - **[Control Weather](control-weather.md)**: Changes weather in local area.
 - **[Creeping Doom](creeping-doom.md)**: Swarms of centipedes attack at your command.
 - **[Cure Serious Wounds, Mass](cure-serious-wounds-mass.md)**: Cures 3d8 damage + 1/level, affects 1 subject/level.
-- Fairy Ring Retreat
+- **[Fairy Ring Retreat](fairy-ring-retreat.md)**: Toadstool circle leads to an extradimensional meadow.
 - **[Harm](harm.md)**: Deals 10 points/level damage to target.
 - **[Heal](heal.md)**: Cures 10 points/level damage, all diseases and mental conditions.
 - **[Ice Body](ice-body.md)**: Your body becomes living ice.

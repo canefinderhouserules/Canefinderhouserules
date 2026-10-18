@@ -4,8 +4,8 @@ Bloodragers gain access to the following spells. Spells in plain text come from 
 
 ## 1st-Level Bloodrager Spells
 
-- Blade Lash
-- Blurred Movement
+- **[Blade Lash](blade-lash.md)**: Use your weapon like a whip to trip an opponent.
+- **[Blurred Movement](blurred-movement.md)**: As blur, but only while you are moving.
 - **[Break](break.md)**: Gives an object the broken condition.
 - **[Burning Hands](burning-hands.md)**: 1d4/level fire damage (max 5d4).
 - **[Cause Fear](cause-fear.md)**: A creature of 5 HD or less flees for 1d4 rounds.
@@ -22,8 +22,8 @@ Bloodragers gain access to the following spells. Spells in plain text come from 
 - **[Hydraulic Push](hydraulic-push.md)**: Wave of water bull rushes an enemy.
 - **[Icicle Dagger](icicle-dagger.md)**: Masterwork ice dagger deals +1 cold damage.
 - **[Jump](jump.md)**: Subject gets bonus on Acrobatics checks.
-- Line in the Sand
-- Long Arm
+- **[Line in the Sand](line-in-the-sand.md)**: Increase your attacks of opportunity per round.
+- **[Long Arm](long-arm.md)**: Your arms lengthen, giving you extra reach.
 - **[Mage Armor](mage-armor.md)**: Gives subject +4 armor bonus.
 - **[Magic Missile](magic-missile.md)**: 1d4+1 damage; +1 missile per two levels above 1st (max 5).
 - **[Magic Weapon](magic-weapon.md)**: Weapon gains +1 bonus.
@@ -31,7 +31,7 @@ Bloodragers gain access to the following spells. Spells in plain text come from 
 - Mirror Strike
 - **[Mount](mount.md)**: Summons riding horse for 2 hours/level.
 - Mudball
-- Phantom Blood
+- **[Phantom Blood](phantom-blood.md)**: Gain temporary hp if Con loss would knock you out or kill you.
 - Protection from Chaos/evil/good/law
 - **[Ray of Enfeeblement](ray-of-enfeeblement.md)**: Ray causes 1d6 Str penalty + 1 per 2 levels.
 - **[Ray of Sickening](ray-of-sickening.md)**: Ray makes the subject sickened.
@@ -44,8 +44,8 @@ Bloodragers gain access to the following spells. Spells in plain text come from 
 - **[Stone Fist](stone-fist.md)**: Your unarmed strikes are lethal.
 - Stone Shield
 - Strong Wings
-- Sundering Shards
-- Thunderstomp
+- **[Sundering Shards](sundering-shards.md)**: Sundered item explodes, dealing 1d6 damage to adjacent creatures.
+- **[Thunderstomp](thunderstomp.md)**: Trip one creature within range.
 - Touch of Combustion
 - **[Touch of Gracelessness](touch-of-gracelessness.md)**: Subject loses 1d6 + 1 Dex/two levels and is prone to falling down.
 - **[Touch of the Sea](touch-of-the-sea.md)**: Swim speed becomes 30 ft.
@@ -61,11 +61,11 @@ Bloodragers gain access to the following spells. Spells in plain text come from 
 
 - Ablative Barrier
 - **[Acid Arrow](acid-arrow.md)**: Ranged touch attack; 2d4 damage for 1 round + 1 round/three levels.
-- Adhesive Blood
+- **[Adhesive Blood](adhesive-blood.md)**: Attackers’ weapons stick to your gluey blood.
 - Animal Aspect
 - **[Bear’s Endurance](bears-endurance.md)**: Subject gains +4 to Con for 1 min./level.
 - **[Blindness/Deafness](blindness-deafness.md)**: Makes subject blind or deaf.
-- Blood Armor
+- **[Blood Armor](blood-armor.md)**: Your blood hardens when you are wounded, increasing your AC.
 - Blood Blaze
 - **[Boiling Blood](boiling-blood.md)**: Targets take fire damage; orcs get +2 Strength.
 - Brow Gasher
@@ -82,7 +82,7 @@ Bloodragers gain access to the following spells. Spells in plain text come from 
 - **[Dust of Twilight](dust-of-twilight.md)**: Black particles extinguish light sources within area.
 - **[Eagle’s Splendor](eagles-splendor.md)**: Subject gains +4 to Cha for 1 min./ level.
 - **[Elemental Touch](elemental-touch.md)**: Gain energy damage touch attack.
-- Extreme Flexibility
+- **[Extreme Flexibility](extreme-flexibility.md)**: Gain a bonus to AC, on Escape Artist checks, and when grappling.
 - **[False Life](false-life.md)**: Gain 1d10 temporary hp + 1/level (max +10).
 - **[Fire Breath](fire-breath.md)**: Exhale a cone of flame at will.
 - **[Flaming Sphere](flaming-sphere.md)**: Rolling ball of fire deals 3d6 fire damage.
@@ -93,7 +93,7 @@ Bloodragers gain access to the following spells. Spells in plain text come from 
 - **[Gust of Wind](gust-of-wind.md)**: Blows away or knocks down smaller creatures.
 - Imbue with Elemental Might
 - **[Mirror Image](mirror-image.md)**: Creates decoy duplicates of you.
-- Molten Orb
+- **[Molten Orb](molten-orb.md)**: Molten metal splash weapon deals 2d6 fire damage plus ongoing damage.
 - **[Protection from Arrows](protection-from-arrows.md)**: Subject gains DR 10/magic against ranged attacks.
 - **[Pyrotechnics](pyrotechnics.md)**: Turns fire into blinding light or thick smoke.
 - **[Resist Energy](resist-energy.md)**: Ignores 10 (or more) points of damage/attack from specified energy type.
@@ -101,17 +101,17 @@ Bloodragers gain access to the following spells. Spells in plain text come from 
 - **[See Invisibility](see-invisibility.md)**: Reveals invisible creatures or objects.
 - **[Shatter](shatter.md)**: Sonic energy damages objects or crystalline creatures.
 - **[Slipstream](slipstream.md)**: Wave boosts creature’s speed.
-- Sonic Scream
+- **[Sonic Scream](sonic-scream.md)**: Create a cone of damaging sound at will.
 - **[Spider Climb](spider-climb.md)**: Grants ability to walk on walls and ceilings.
 - Steal Breath
 - **[Stone Call](stone-call.md)**: 2d6 damage to all creatures in area.
-- Stone Discus
+- **[Stone Discus](stone-discus.md)**: Flying discus deals bludgeoning or slashing damage.
 - **[Touch of Idiocy](touch-of-idiocy.md)**: Subject takes 1d6 penalty to Int, Wis, and Cha.
 - **[Unshakable Chill](unshakable-chill.md)**: Target is aff licted with severe cold.
 
 ## 3rd-Level Bloodrager Spells
 
-- Air Geyser
+- **[Air Geyser](air-geyser.md)**: Blast of air deals 2d6 bludgeoning damage and knocks opponent upward.
 - Animal Aspect, Greater
 - **[Aqueous Orb](aqueous-orb.md)**: Creates rolling sphere of water.
 - **[Beast Shape I](beast-shape-i.md)**: You take the form and some of the powers of a Small or Medium animal.
@@ -153,11 +153,11 @@ Bloodragers gain access to the following spells. Spells in plain text come from 
 - Raging Rubble
 - **[Ray of Exhaustion](ray-of-exhaustion.md)**: Ray makes subject exhausted.
 - Resinous Skin
-- Silver Darts
+- **[Silver Darts](silver-darts.md)**: Cone of silver darts deals 1d6 piercing damage/level, less against armored targets.
 - **[Sleet Storm](sleet-storm.md)**: Hampers vision and movement.
 - **[Slow](slow.md)**: One subject/level takes only one action/round, –1 to AC, Reflex saves, and attack rolls.
 - **[Stinking Cloud](stinking-cloud.md)**: Nauseating vapors, 1 round/level.
-- Thunderstomp, Greater
+- **[Thunderstomp, Greater](thunderstomp-greater.md)**: Trip multiple creatures within
 - **[Twilight Knife](twilight-knife.md)**: Floating knife attacks with you.
 - **[Undead Anatomy I](undead-anatomy-i.md)**: Take the form and some of the powers of a Small or Medium undead.
 - **[Vampiric Touch](vampiric-touch.md)**: Touch deals 1d6 damage/2 levels; caster gains damage as temporary hp.
@@ -187,7 +187,7 @@ Bloodragers gain access to the following spells. Spells in plain text come from 
 - **[Fear](fear.md)**: Subjects within cone flee for 1 round/level.
 - **[Firefall](firefall.md)**: Causes fire to burst up, dealing 2d6 fire damage.
 - **[Fire Shield](fire-shield.md)**: Creatures attacking you take fire damage; you’re protected from heat or cold.
-- Flaming Sphere, Greater
+- **[Flaming Sphere, Greater](flaming-sphere-greater.md)**: Rolling ball of fire deals 6d6 fire damage and ignites targets.
 - Ghost Wolf
 - Hellmouth Lash
 - **[Ice Storm](ice-storm.md)**: Hail deals 5d6 damage in cylinder 40 ft. across.
