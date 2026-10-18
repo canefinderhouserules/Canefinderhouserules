@@ -14,6 +14,7 @@ New summoner spells from *Ultimate Magic*. Spells from other books will be added
 - **[Cushioning Bands](cushioning-bands.md)**: Force bands protect against crushing.
 - **[Restore Eidolon, Lesser](restore-eidolon-lesser.md)**: Lesser restoration for an eidolon.
 - **[Web Shelter](web-shelter.md)**: Create a comfortable shelter made of webbing.
+- **[Whip of Spiders](whip-of-spiders.md)**: Whiplike spider swarm deals swarm damage by touch.
 
 ## 3rd-Level Summoner Spells
 
@@ -34,11 +35,13 @@ New summoner spells from *Ultimate Magic*. Spells from other books will be added
 - **[Conjure Black Pudding](conjure-black-pudding.md)**: Summon a black pudding.
 - **[Create Demiplane, Lesser](create-demiplane-lesser.md)**: Create your own demiplane.
 - **[Ice Crystal Teleport](ice-crystal-teleport.md)**: Target is frozen, then teleported.
+- **[Whip of Centipedes](whip-of-centipedes.md)**: As whip of spiders, but with centipedes.
 
 ## 6th-Level Summoner Spells
 
 - **[Create Demiplane](create-demiplane.md)**: As lesser create demiplane, but larger and with planar traits.
 - **[Eagle Aerie](eagle-aerie.md)**: Summon 1 giant eagle/3 levels.
+- **[Whip of Ants](whip-of-ants.md)**: As whip of spiders, but with army ants.
 
 ## Advanced Player's Guide Spells
 

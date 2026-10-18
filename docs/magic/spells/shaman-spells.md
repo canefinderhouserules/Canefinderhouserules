@@ -64,7 +64,7 @@ Shamans gain access to the following spells. Spells in plain text come from othe
 - **[Sleep](sleep.md)**: Puts 4 HD of creatures into magical slumber.
 - Stone Shield
 - **[Thorn Javelin](thorn-javelin.md)**: Wield a javelin that sickens opponents when it strikes.
-- Wave Shield
+- **[Wave Shield](wave-shield.md)**: Water blunts one incoming attack or fire effect.
 
 ## 2nd-Level Shaman Spells
 

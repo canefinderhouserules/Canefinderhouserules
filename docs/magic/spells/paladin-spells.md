@@ -28,6 +28,7 @@
 - **[Resist Energy](resist-energy.md)**: Ignores 10 or more points of damage per attack from specified energy type.
 - **[Shield Other](shield-other.md)**: You take half of subject’s damage.
 - **[Undetectable Alignment](undetectable-alignment.md)**: Conceals alignment from magical detection for 24 hours.
+- **[Widen Auras](widen-auras.md)**: Doubles the range of your antipaladin or paladin auras.
 - **[Zone of Truth](zone-of-truth.md)**: Subjects within range cannot lie.
 
 ## 3rd-Level Paladin Spells

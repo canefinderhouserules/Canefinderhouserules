@@ -38,6 +38,7 @@
 - **[Shillelagh](shillelagh.md)**: Cudgel or quarterstaff becomes +1 weapon (2d6 damage) for 1 min./level.
 - **[Speak with Animals](speak-with-animals.md)**: You can communicate with animals.
 - **[Summon Nature’s Ally I](summon-natures-ally-i.md)**: Summons creature to fight.
+- **[Wave Shield](wave-shield.md)**: Water blunts one incoming attack or fire effect.
 
 ## 2nd-Level Druid Spells
 
@@ -66,6 +67,7 @@
 - **[Summon Swarm](summon-swarm.md)**: Summons swarm of bats, rats, or spiders.
 - **[Tree Shape](tree-shape.md)**: You look exactly like a tree for 1 hour/level.
 - **[Warp Wood](warp-wood.md)**: Bends wood.
+- **[Whip of Spiders](whip-of-spiders.md)**: Whiplike spider swarm deals swarm damage by touch.
 - **[Wood Shape](wood-shape.md)**: Reshapes wooden objects to suit you.
 
 ## 3rd-Level Druid Spells
@@ -134,6 +136,7 @@
 - **[Unhallow](unhallow.md)**: Designates location as unholy.
 - **[Wall of Fire](wall-of-fire.md)**: Deals 2d4 fire damage out to 10 ft. and 1d4 out to 20 ft. Passing through wall deals 2d6 damage +1/level.
 - **[Wall of Thorns](wall-of-thorns.md)**: Thorns damage anyone who tries to pass.
+- **[Whip of Centipedes](whip-of-centipedes.md)**: As whip of spiders, but with centipedes.
 
 ## 6th-Level Druid Spells
 
@@ -155,6 +158,7 @@
 - **[Summon Nature’s Ally VI](summon-natures-ally-vi.md)**: Summons creature to fight.
 - **[Transport via Plants](transport-via-plants.md)**: Move instantly from one plant to another of the same kind.
 - **[Wall of Stone](wall-of-stone.md)**: Creates a stone wall that can be shaped.
+- **[Whip of Ants](whip-of-ants.md)**: As whip of spiders, but with army ants.
 
 ## 7th-Level Druid Spells
 

@@ -52,7 +52,7 @@ Bloodragers gain access to the following spells. Spells in plain text come from 
 - **[True Strike](true-strike.md)**: +20 on your next attack roll.
 - Unerring Weapon
 - Warding Weapon
-- Wave Shield
+- **[Wave Shield](wave-shield.md)**: Water blunts one incoming attack or fire effect.
 - Web Bolt
 - Windy Escape
 - Winter Feathers

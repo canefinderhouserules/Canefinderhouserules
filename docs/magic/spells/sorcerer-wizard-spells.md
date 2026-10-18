@@ -113,6 +113,7 @@
 - **[Jump](jump.md)**: Subject gets bonus on Acrobatics checks.
 - **[Magic Weapon](magic-weapon.md)**: Weapon gains +1 bonus.
 - **[Reduce Person](reduce-person.md)**: Humanoid creature halves in size.
+- **[Wave Shield](wave-shield.md)**: Water blunts one incoming attack or fire effect.
 
 ## 2nd-Level Sorcerer/Wizard Spells
 
@@ -189,6 +190,7 @@
 - **[Pyrotechnics](pyrotechnics.md)**: Turns fire into blinding light or thick smoke.
 - **[Rope Trick](rope-trick.md)**: As many as eight creatures hide in extradimensional space.
 - **[Spider Climb](spider-climb.md)**: Grants ability to walk on walls and ceilings.
+- **[Whip of Spiders](whip-of-spiders.md)**: Whiplike spider swarm deals swarm damage by touch.
 - **[Whispering Wind](whispering-wind.md)**: Sends a short message 1 mile/level.
 
 ## 3rd-Level Sorcerer/Wizard Spells
@@ -229,6 +231,7 @@
 - **[Fireball](fireball.md)**: 1d6 damage per level, 20-ft. radius.
 - **[Lightning Bolt](lightning-bolt.md)**: Electricity deals 1d6/level damage.
 - **[Tiny Hut](tiny-hut.md)**: Creates shelter for 10 creatures.
+- **[Wall of Nausea](wall-of-nausea.md)**: Wall of distorted images nauseates creatures passing through.
 - **[Wind Wall](wind-wall.md)**: Deflects arrows, smaller creatures, and gases.
 
 **Illusion**
@@ -403,6 +406,7 @@
 **Universal**
 
 - **[Permanency](permanency.md)**: Makes certain spells permanent.
+- **[Whip of Centipedes](whip-of-centipedes.md)**: As whip of spiders, but with centipedes.
 
 ## 6th-Level Sorcerer/Wizard Spells
 
@@ -476,6 +480,7 @@
 - **[Plant Shape II](plant-shape-ii.md)**: Turns you into a Large plant creature.
 - **[Stone to Flesh](stone-to-flesh.md)**: Restores petrified creature.
 - **[Transformation](transformation.md)**: You gain combat bonuses.
+- **[Whip of Ants](whip-of-ants.md)**: As whip of spiders, but with army ants.
 
 ## 7th-Level Sorcerer/Wizard Spells
 

@@ -6,6 +6,7 @@ The magus class spell list appears on the [Magus](../../characters/classes/magus
 
 - **[Corrosive Touch](corrosive-touch.md)**: Touch attack deals 1d4 acid/level.
 - **[Frostbite](frostbite.md)**: Target takes cold damage and is fatigued.
+- **[Wave Shield](wave-shield.md)**: Water blunts one incoming attack or fire effect.
 
 ## 2nd-Level Magus Spells
 

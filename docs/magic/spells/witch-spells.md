@@ -24,6 +24,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Summon Minor Monster](summon-minor-monster.md)**: Summon 1d3 Tiny animals.
 - **[Unprepared Combatant](unprepared-combatant.md)**: Target takes –4 on initiative and Ref lex saves.
 - **[Vocal Alteration](vocal-alteration.md)**: Disguise target’s voice.
+- **[Wave Shield](wave-shield.md)**: Water blunts one incoming attack or fire effect.
 - **[Youthful Appearance](youthful-appearance.md)**: Target appears younger.
 
 ## 2nd-Level Witch Spells
@@ -46,6 +47,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Unnatural Lust](unnatural-lust.md)**: Target is compelled to kiss or caress another.
 - **[Unshakable Chill](unshakable-chill.md)**: Target is aff licted with severe cold.
 - **[Web Shelter](web-shelter.md)**: Create a comfortable shelter made of webbing.
+- **[Whip of Spiders](whip-of-spiders.md)**: Whiplike spider swarm deals swarm damage by touch.
 
 ## 3rd-Level Witch Spells
 
@@ -97,6 +99,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Possess Object](possess-object.md)**: Possess and animate one object.
 - **[Smug Narcissism](smug-narcissism.md)**: Target is distracted by its sense of self.
 - **[Symbol of Scrying](symbol-of-scrying.md)**: Triggered rune activates scrying sensor.
+- **[Whip of Centipedes](whip-of-centipedes.md)**: As whip of spiders, but with centipedes.
 
 ## 6th-Level Witch Spells
 
@@ -106,6 +109,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Plague Storm](plague-storm.md)**: Cloud infects creatures like contagion.
 - **[Symbol of Sealing](symbol-of-sealing.md)**: Create triggered wall of force.
 - **[Vengeful Outrage](vengeful-outrage.md)**: Target is compelled to destroy one enemy.
+- **[Whip of Ants](whip-of-ants.md)**: As whip of spiders, but with army ants.
 
 ## 7th-Level Witch Spells
 

@@ -84,6 +84,7 @@
 - **[Summon Monster II](summon-monster-ii.md)**: Summons extraplanar creature to fight for you.
 - **[Summon Swarm](summon-swarm.md)**: Summons swarm of bats, rats, or spiders.
 - **[Tongues](tongues.md)**: Speak and understand any language.
+- **[Whip of Spiders](whip-of-spiders.md)**: Whiplike spider swarm deals swarm damage by touch.
 - **[Whispering Wind](whispering-wind.md)**: Sends a short message 1 mile/level.
 
 ## 3rd-Level Bard Spells
@@ -118,6 +119,7 @@
 - **[Speak with Animals](speak-with-animals.md)**: You can communicate with animals.
 - **[Summon Monster III](summon-monster-iii.md)**: Summons extraplanar creature to fight for you.
 - **[Tiny Hut](tiny-hut.md)**: Creates shelter for 10 creatures.
+- **[Wall of Nausea](wall-of-nausea.md)**: Wall of distorted images nauseates creatures passing through.
 
 ## 4th-Level Bard Spells
 
@@ -161,6 +163,7 @@
 - **[Song of Discord](song-of-discord.md)**: Forces targets to attack each other.
 - **[Suggestion, Mass](suggestion-mass.md)**: As *suggestion,* affects subject/level.
 - **[Summon Monster V](summon-monster-v.md)**: Summons extraplanar creature to fight for you.
+- **[Whip of Centipedes](whip-of-centipedes.md)**: As whip of spiders, but with centipedes.
 
 ## 6th-Level Bard Spells
 
@@ -184,6 +187,7 @@
 - **[Summon Monster VI](summon-monster-vi.md)**: Summons extraplanar creature to fight for you.
 - **[Sympathetic Vibration](sympathetic-vibration.md)**: Deals 2d10 damage/round to freestanding structure.
 - **[Veil](veil.md)**: Changes appearance of group of creatures.
+- **[Whip of Ants](whip-of-ants.md)**: As whip of spiders, but with army ants.
 
 ## Ultimate Magic Spells
 

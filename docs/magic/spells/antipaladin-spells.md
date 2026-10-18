@@ -14,6 +14,7 @@ New antipaladin spells from *Ultimate Magic*. Spells from other books will be ad
 - **[Toxic Gift](toxic-gift.md)**: Target suffers the effect of a poison in you.
 - **[Unadulterated Loathing](unadulterated-loathing.md)**: Target is compelled to avoid another creature.
 - **[Vestment of the Champion](vestment-of-the-champion.md)**: Armor or shield gains a +1 enhancement per four levels.
+- **[Widen Auras](widen-auras.md)**: Doubles the range of your antipaladin or paladin auras.
 
 ## 3rd-Level Antipaladin Spells
 
