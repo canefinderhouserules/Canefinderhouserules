@@ -791,3 +791,13 @@ Feats from *Occult Adventures*. Each name links to its full description.
 | [Ready for Pain](ready-for-pain.md) | — | Mesmerist trick class feature |
 | [Scarring Spell](scarring-spell.md) | Metamagic | — |
 | [Shared Soul](shared-soul.md) | — | Shared consciousness class feature |
+| [Shatter Mental Mask](shatter-mental-mask.md) | Combat | Psychic Sensitivity or ability to cast psychic spells or use psychic spell-like abilities, character level 2nd |
+| [Spirit Focus](spirit-focus.md) | — | Spirit bonus class feature |
+| [Spirit Sense](spirit-sense.md) | — | Psychic Sensitivity or ability to cast psychic spells |
+| [Spiritual Balance](spiritual-balance.md) | — | Ki pool class feature, still mind class feature |
+| [Spiritualist’s Call](spiritualist-s-call.md) | — | Phantom class feature |
+| [Strong Implement Link](strong-implement-link.md) | — | Implements class feature |
+| [Third Eye](third-eye.md) | — | Psychic Sensitivity or ability to cast psychic spells |
+| [Traumatic Spell](traumatic-spell.md) | Metamagic | — |
+| [Vigilant Phantom](vigilant-phantom.md) | — | Phantom class feature |
+| [Xenoglossy](xenoglossy.md) | — | Int 13, Linguistics 3 ranks |
