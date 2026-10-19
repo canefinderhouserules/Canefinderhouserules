@@ -25,9 +25,19 @@ In most cases these benefits are gained on a level-by-level basis, and unless ot
 
 **Investigator**: Gain a +1/4 bonus on Perception checks when underground and +1/2 bonus to the investigator's trap sense ability regarding stone traps.
 
+**Kineticist**: Add 1/3 point of damage to earth element blasts that deal damage.
+
+**Medium**: Gain a +1/2 bonus on saving throws against possession and a +1/2 bonus on saving throws to end haunt channeler, location channel, and spacious soul.
+
+**Mesmerist**: Increase painful stare’s damage by 1/4 point.
+
+**Occultist**: Gain a +1/3 bonus on Appraise and Use Magic Device checks involving stone and metal objects.
+
 **Oracle**: Reduce the non-proficient penalty for one weapon by 1. When the non-proficient penalty for a weapon becomes 0 because of this ability, the oracle is treated as having the appropriate Martial or Exotic Weapon Proficiency feat with that weapon.
 
 **Paladin**: Add a +1 bonus on concentration checks when casting paladin spells.
+
+**Psychic**: When casting psychic abjuration spells, add 1/2 level to the effective caster level of the spell, but only to determine the spell’s duration.
 
 **Ranger**: Add a +1/2 bonus on wild empathy checks to influence animals and magical beasts that live underground.
 
@@ -38,6 +48,8 @@ In most cases these benefits are gained on a level-by-level basis, and unless ot
 **Skald**: Reduce the arcane spell failure chance for casting skald spells when wearing heavy armor by 1%. Once the total reduction reaches 10%, the skald also receives Heavy Armor Proficiency (if the skald does not already possess it).
 
 **Slayer**: Gain a +1/3 bonus on Knowledge (dungeoneering) checks and on Survival checks when underground. If the slayer has a +1 bonus on Knowledge (dungeoneering) checks from this ability, he is also considered trained in that skill.
+
+**Spiritualist**: Add 1/6 to the shield bonus granted by the 3rd-level ectoplasmic bonded manifestation ability.
 
 **Swashbuckler**: Add 1/4 to the swashbuckler's effective class level to determine the extra damage she deals because of the precise strike deed when wielding a light pick or a heavy pick. If the swashbuckler has the Slashing Grace feat or another similar effect, she can treat the battleaxe or handaxe as a one-handed piercing melee weapon, and she gains this benefit when wielding the appropriate weapon for the feat as well.
 
@@ -63,6 +75,16 @@ In most cases these benefits are gained on a level-by-level basis, and unless ot
 
 **Investigator**: Increase the total number of points in the investigator's inspiration pool by 1/3.
 
+**Kineticist**: Gain a +1/4 bonus on damage rolls that apply the kineticist’s elemental overflow bonus.
+
+**Medium**: Gain a +1/3 bonus on all skill checks using occult skill unlocks.
+
+**Mesmerist**: Gain a +1/2 bonus on Acrobatics checks to move through a threatened area and a +1/2 bonus on Bluff checks to feint.
+
+**Occultist**: Increase the occultist’s total number of points of mental focus by 1/2 point.
+
+**Psychic**: Increase the total number of points in the psychic’s phrenic pool by 1/3 point.
+
 **Ranger**: Choose a weapon from the following list: longbow, longsword, rapier, shortbow, short sword, or any weapon with “elven” in its name. Add a +1/2 circumstance bonus on critical hit confirmation rolls with that weapon (maximum bonus of +4). This bonus does not stack with Critical Focus.
 
 **Shaman**: Add 5 feet to the range of a chosen shaman hex. Multiple bonuses from this ability can apply to the same hex, to a maximum of an additional 30 feet for any single hex.
@@ -72,6 +94,8 @@ In most cases these benefits are gained on a level-by-level basis, and unless ot
 **Slayer**: Increase the studied target bonus on Perception and Survival checks by 1/4. When the slayer gains the stalker class feature, he also gains this increase to the studied target bonus on Stealth checks.
 
 **Sorcerer**: Select one bloodline power at 1st level that is normally usable a number of times per day equal to 3 + the sorcerer’s Charisma modifier. The sorcerer adds +1/2 to the number of uses per day of that bloodline power.
+
+**Spiritualist**: Add 1/6 to the shield bonus granted by the 3rd-level ectoplasmic bonded manifestation ability.
 
 **Swashbuckler**: Increase the total number of points in the swashbuckler's panache pool by 1/4.
 
@@ -95,7 +119,17 @@ In most cases these benefits are gained on a level-by-level basis, and unless ot
 
 **Investigator**: Add one extract formula from the investigator's list to his formula book. This formula must be at least 1 formula level below the highest level the investigator can create.
 
+**Kineticist**: Gain a +1/2 bonus on Bluff, Diplomacy, Intimidate, and Sense Motive skill checks against creatures with the elemental subtype matching the kineticist’s primary element.
+
+**Medium**: Gain a +1/2 bonus on Bluff, Diplomacy, Intimidate, and Sense Motive skill checks against spirits, undead, phantoms, and creatures native to the Astral Plane.
+
+**Mesmerist**: Increase the number of mesmerist tricks the mesmerist can use per day by 1/3.
+
+**Occultist**: Increase the duration of the occultist’s minor figment by 1 minute, and increase the total concealment miss chance from the occultist’s distortion resonant power by 2%. This doesn’t increase the maximum miss chance.
+
 **Oracle**: Treat the gnome’s level as +1/2 higher for the purpose of determining the effects of the oracle’s curse ability.
+
+**Psychic**: Increase the total number of points in the psychic’s phrenic pool by 1/3 point.
 
 **Ranger**: Add DR 1/magic to the ranger’s animal companion. Each time the ranger selects this benefit, the DR/magic increases by +1/2 (maximum DR 10/magic). If the gnome ever replaces his animal companion, the new companion gains this DR.
 
@@ -106,6 +140,8 @@ In most cases these benefits are gained on a level-by-level basis, and unless ot
 **Skald**: Add a +1 bonus on concentration checks when casting skald spells.
 
 **Slayer**: The slayer gains 1/6 of a new slayer talent.
+
+**Spiritualist**: Add 1/6 to the shield bonus granted to the spiritualist while under the effects of either spiritual interference or greater spiritual interference.
 
 **Summoner**: Add +1 hit point to the summoner’s eidolon.
 
@@ -131,6 +167,16 @@ In most cases these benefits are gained on a level-by-level basis, and unless ot
 
 **Investigator**: Gain a +1/4 bonus on all inspiration rolls.
 
+**Kineticist**: Gain a +1/4 bonus on damage rolls that apply the kineticist’s elemental overflow bonus.
+
+**Medium**: Gain a +1/3 bonus on all skill checks using occult skill unlocks.
+
+**Mesmerist**: When casting mesmerist enchantment spells, add 1/2 to the effective caster level of the spell, but only to determine the spell’s duration.
+
+**Occultist**: Gain a +1/2 bonus on Spellcraft checks to identify the properties of magic items and a +1/2 bonus on Use Magic Device checks to emulate a race.
+
+**Psychic**: Gain 1/6 of a new phrenic amplification.
+
 **Ranger**: Add +1 skill rank to the ranger’s animal companion. If the half-elf ever replaces his companion, the new companion gains these bonus skill ranks.
 
 **Rogue**: Add a +1/2 bonus on Bluff checks to feint and Diplomacy checks to gather information.
@@ -140,6 +186,8 @@ In most cases these benefits are gained on a level-by-level basis, and unless ot
 **Skald**: Increase the skald's total number of raging song rounds per day by 1
 
 **Slayer**: Gain a +1/2 bonus on Bluff checks to feint and Diplomacy checks to gain information.
+
+**Spiritualist**: Add 1 skill rank to the spiritualist’s phantom.
 
 **Summoner**: Add +1/4 to the eidolon’s evolution pool.
 
@@ -169,6 +217,16 @@ In most cases these benefits are gained on a level-by-level basis, and unless ot
 
 **Investigator**: Gain a +1/3 bonus on critical hit confirmation rolls made while using studied combat (maximum bonus of +5). This bonus does not stack with those gained through Critical Focus and similar effects.
 
+**Kineticist**: Add 1/3 point of fire damage to fire-element blasts that deal fire damage.
+
+**Medium**: When gaining a taboo, the medium can use spirit surge without incurring influence an additional 1/4 time per day.
+
+**Mesmerist**: Increase the mesmerist’s bonus damage from painful stare by 1/2 point.
+
+**Occultist**: Deal an additional 1/2 point of damage with focus powers.
+
+**Psychic**: Gain a +1 bonus on concentration checks required because of taking damage while casting spells from the psychic class.
+
 **Ranger**: Add +1 hit point to the ranger’s animal companion. If the half-orc ever replaces his animal companion, the new animal companion gains these bonus hit points.
 
 **Shaman**: Add one spell from the cleric spell list that isn't on the shaman spell list to the list of spells the shaman knows. This spell must be at least 1 level below the highest spell level the shaman can cast.
@@ -178,6 +236,8 @@ In most cases these benefits are gained on a level-by-level basis, and unless ot
 **Slayer**: Gain a +1/3 bonus on critical hit confirmation rolls made while using sneak attack (maximum bonus of +5). This bonus doesn't stack with those gained through Critical Focus and similar effects.
 
 **Sorcerer**: Add +1/2 to fire spell damage.
+
+**Spiritualist**: Add 1 hit point to the spiritualist’s phantom.
 
 **Swashbuckler**: Gain a +1/3 bonus on all critical hit confirmation rolls made while using the precise strike deed (maximum bonus of +5). This bonus doesn't stack with those gained through Critical Focus and similar effects.
 
@@ -201,9 +261,19 @@ In most cases these benefits are gained on a level-by-level basis, and unless ot
 
 **Investigator**: Add one extract formula from the investigator's list to his formula book. This formula must be at least 1 formula level below the highest level the investigator can create.
 
+**Kineticist**: Increase the capacity of the kineticist’s internal buffer by 1/6 point.
+
+**Medium**: Increase the bonus the medium gains from its seance boon by 1/3 point. This doesn’t increase the bonus allies gain from shared seance.
+
+**Mesmerist**: Increase the number of mesmerist tricks the mesmerist can use per day by 1/3.
+
 **Monk**: Add +1 to the monk’s CMD when resisting a grapple and +1/2 to the number of stunning attacks he can attempt per day.
 
+**Occultist**: Add 1/2 point of mental focus per day.
+
 **Paladin**: Add +1/2 hp to the paladin’s lay on hands ability (whether using it to heal or harm).
+
+**Psychic**: The psychic treats her Charisma bonus as 1/3 point higher for the purpose of determining the number of uses or rounds per day of her discipline powers.
 
 **Ranger**: Add +1/3 dodge bonus to Armor Class against the halfling’s favored enemies.
 
@@ -214,6 +284,8 @@ In most cases these benefits are gained on a level-by-level basis, and unless ot
 **Skald**: Choose a weapon from the following list: dagger, sling, or any weapon with the word "halfling" in its name. Add a +1/2 bonus on critical hit confirmation rolls with that weapon (maximum bonus +4)· This bonus doesn't stack with those gained through Critical Focus and similar effects.
 
 **Slayer**: Add a +1/4 dodge bonus to Armor Class against the slayer's studied target.
+
+**Spiritualist**: Add 1/4 to the number of rounds that the spiritualist’s incorporeal phantom can be out of sight and line of effect before being sent back to the Ethereal Plane.
 
 **Summoner**: Add +1 skill rank to the summoner’s eidolon.
 
@@ -249,11 +321,21 @@ In most cases these benefits are gained on a level-by-level basis, and unless ot
 
 **Investigator**: Add one extract formula from the investigator's formula list to his formula book. This formula must be at least 1 formula level below the highest level the investigator can create.
 
+**Kineticist**: Gain 1/6 of an Extra Wild Talent feat.
+
+**Medium**: When gaining a taboo, the medium can use spirit surge without incurring influence an additional 1/4 time per day.
+
+**Mesmerist**: Increase the mesmerist’s towering ego bonus by 1/3 point (to a maximum increase of +2).
+
 **Monk**: Add +1/4 to the monk’s ki pool.
+
+**Occultist**: Gain 1/6 of a new focus power.
 
 **Oracle**: Add one spell known from the oracle spell list. This spell must be at least one level below the highest spell level the oracle can cast.
 
 **Paladin**: Add +1 to the paladin’s energy resistance to one kind of energy (maximum +10).
+
+**Psychic**: Add one spell known from the psychic spell list. This spell must be at least 1 level lower than the highest spell level the psychic can cast.
 
 **Ranger**: Add +1 hit point or +1 skill rank to the ranger’s animal companion. If the ranger ever replaces his companion, the new companion gains these bonus hit points or skill ranks.
 
@@ -266,6 +348,8 @@ In most cases these benefits are gained on a level-by-level basis, and unless ot
 **Slayer**: Gain 1/6 of a new slayer talent.
 
 **Sorcerer**: Add one spell known from the sorcerer spell list. This spell must be at least one level below the highest spell level the sorcerer can cast.
+
+**Spiritualist**: Add 1 skill rank or 1 hit point to the spiritualist’s phantom.
 
 **Summoner**: Add +1 hit point or +1 skill rank to the summoner’s eidolon.
 
