@@ -146,7 +146,7 @@ Your mind is impure, tainted by outside forces. These might be monstrous ancesto
 
 **Phrenic Pool Ability**: Charisma.
 
-**Bonus Spells**: Ray of enfeeblement (1st), alter self (4th), excruciating deformationUM (6th), black tentacles (8th), explode head* (10th), repulsion (12th), insanity (14th), orb of the voidUM (16th), telekinetic storm* (18th).
+**Bonus Spells**: Ray of enfeeblement (1st), alter self (4th), excruciating deformation (6th), black tentacles (8th), explode head* (10th), repulsion (12th), insanity (14th), orb of the void (16th), telekinetic storm* (18th).
 
 **Discipline Powers**: Your powers allow the dark influences to take over, and it can be difficult to come back from the brink.
 
@@ -162,15 +162,15 @@ You discover deeper and more powerful corners of your mind through journeys you 
 
 **Phrenic Pool Ability**: Charisma.
 
-**Bonus Spells**: Sleep (1st), oneiric horror* (4th), deep slumber (6th), sleepwalkAPG (8th), nightmare (10th), cloak of dreamsAPG (12th), ethereal jaunt (14th), dream voyage* (16th), microcosm* (18th).
+**Bonus Spells**: Sleep (1st), oneiric horror* (4th), deep slumber (6th), sleepwalk (8th), nightmare (10th), cloak of dreams (12th), ethereal jaunt (14th), dream voyage* (16th), microcosm* (18th).
 
 **Discipline Powers**: Your mind can powerfully influence dreaming consciousnesses.
 
 **Dream Leech (Su)**: While adjacent to a sleeping or unconscious creature, you can take a swift action to siphon that creature’s dreams, thereby learning new things about your own mind. The creature can attempt a Will save to negate this effect; such creatures are never considered willing. Creatures that don’t dream are immune to this effect. If the subject fails the save, you gain a +4 bonus on your next Bluff, Diplomacy, or Intimidate check against the subject within the next 24 hours, and you regain 1 point in your phrenic pool. You can use this ability a number of times per day equal to your Charisma modifier, but no more than once per hour and no more than once per creature per day.
 
-**Oneiromancy (Su)**: As a standard action, you can tamper with the minds of sleeping creatures. You plant a subconscious thought in a sleeping creature’s mind by attempting a Diplomacy or Intimidate check to modify the sleeping creature’s attitude or request a service from it. If you succeed, when the creature wakes it behaves in the way you dictated with the normal restrictions for the Diplomacy or Intimidate skill. The target of oneiromancy remains unaware of this manipulation, though if you fail your Diplomacy check the subject might have its starting attitude toward you negatively impacted, as normal. You must be adjacent to the sleeping creature to use this ability. Alternatively, you can use this ability as part of the casting of dream, minor dreamARG, or nightmare. In this case, the oneiromancy effect takes place when the spell is cast. You can use this ability a number of times per day equal to 3 + your Charisma modifier. Creatures that don’t dream are immune to this effect.
+**Oneiromancy (Su)**: As a standard action, you can tamper with the minds of sleeping creatures. You plant a subconscious thought in a sleeping creature’s mind by attempting a Diplomacy or Intimidate check to modify the sleeping creature’s attitude or request a service from it. If you succeed, when the creature wakes it behaves in the way you dictated with the normal restrictions for the Diplomacy or Intimidate skill. The target of oneiromancy remains unaware of this manipulation, though if you fail your Diplomacy check the subject might have its starting attitude toward you negatively impacted, as normal. You must be adjacent to the sleeping creature to use this ability. Alternatively, you can use this ability as part of the casting of dream, minor dream, or nightmare. In this case, the oneiromancy effect takes place when the spell is cast. You can use this ability a number of times per day equal to 3 + your Charisma modifier. Creatures that don’t dream are immune to this effect.
 
-**Mind Heist (Sp)**: At 5th level, you can delve into the subconscious mind of a sleeping target. You can cast detect thoughts as a spell-like ability on any adjacent sleeping creature. Additionally, you can gain the benefit of detect thoughts on a target of your dream, minor dreamARG, or nightmare spells as if you had studied the target for 3 rounds. If you cast dream scan, you know whether you received false information from the dream. A successful Will save negates mind heist.
+**Mind Heist (Sp)**: At 5th level, you can delve into the subconscious mind of a sleeping target. You can cast detect thoughts as a spell-like ability on any adjacent sleeping creature. Additionally, you can gain the benefit of detect thoughts on a target of your dream, minor dream, or nightmare spells as if you had studied the target for 3 rounds. If you cast dream scan, you know whether you received false information from the dream. A successful Will save negates mind heist.
 
 You can use this ability a number of times per day equal to your Charisma modifier.
 
@@ -184,7 +184,7 @@ Your belief in a higher power fuels your psychic abilities. Whether your mental 
 
 **Phrenic Pool Ability**: Wisdom.
 
-**Bonus Spells**: Bless (1st), spiritual weapon (4th), magic vestment (6th), guardian of faithACG (8th), commune (10th), psychic surgery* (12th), greater scrying (14th), greater planar ally (16th), miracle (18th).
+**Bonus Spells**: Bless (1st), spiritual weapon (4th), magic vestment (6th), guardian of faith (8th), commune (10th), psychic surgery* (12th), greater scrying (14th), greater planar ally (16th), miracle (18th).
 
 **Discipline Powers**: Your powers serve to protect or cure you and your allies.
 
@@ -206,7 +206,7 @@ By collecting expert information and reading all sorts of treatises and chapbook
 
 **Discipline Powers**: Your powers relate to your extensive knowledge and your ability to alter and adapt your memory.
 
-**Illuminating Answers (Su)**: You can glean deeper truths from advice you magically obtain, even if the information itself is specious. When you use a spell or spell-like ability that allows you to get answers to questions (such as augury, blood biographyAPG, or contact other plane) and get at least one answer, you regain 1 point in your phrenic pool. You regain this point even if the answer is false or vague. The maximum number of points you can regain in this way per day is equal to your Wisdom modifier.
+**Illuminating Answers (Su)**: You can glean deeper truths from advice you magically obtain, even if the information itself is specious. When you use a spell or spell-like ability that allows you to get answers to questions (such as augury, blood biography, or contact other plane) and get at least one answer, you regain 1 point in your phrenic pool. You regain this point even if the answer is false or vague. The maximum number of points you can regain in this way per day is equal to your Wisdom modifier.
 
 **Mnemonic Cache (Su)**: You can memorize a piece of information and later recall it perfectly. Your mnemonic cache can hold roughly 10 pages of written information, including images and maps, or 30 minutes’ worth of speech or music. (Memorizing music doesn’t confer the ability to perform it properly.) The amount you can store increases by 5 pages and 5 minutes at 2nd level, and at every psychic level thereafter. You can hold only one piece of information in your mnemonic cache at a time.
 
@@ -228,7 +228,7 @@ Mental blocks prevent your immense inborn psychic energies from flowing freely. 
 
 **Phrenic Pool Ability**: Charisma.
 
-**Bonus Spells**: Persuasive goadUM (1st), pain strikeAPG (4th), vampiric touch (6th), mass pain strikeAPG (8th), synapse overload* (10th), mass inflict pain* (12th), waves of exhaustion (14th), horrid wilting (16th), mass suffocationAPG (18th).
+**Bonus Spells**: Persuasive goad (1st), pain strike (4th), vampiric touch (6th), mass pain strike (8th), synapse overload* (10th), mass inflict pain* (12th), waves of exhaustion (14th), horrid wilting (16th), mass suffocation (18th).
 
 **Discipline Powers**: Your powers allow you to cause and endure pain.
 
@@ -238,17 +238,17 @@ Mental blocks prevent your immense inborn psychic energies from flowing freely. 
 
 **Live On (Sp)**: At 5th level, you can use lay on hands as though you were a paladin of 3 levels lower than your psychic level. You also gain access to mercies as though you were a paladin of 3 levels lower than your psychic level. You can target only yourself with lay on hands or mercies gained from this discipline. This stacks with lay on hands abilities gained from other sources.
 
-**Agonizing Wound (Su)**: At 13th level, whenever you cast a spell that deals damage to a creature, you can also make that creature frightened or sickened (your choice) for a number of rounds equal to your Charisma modifier. If you expend two uses of this ability, you can instead have the creature become dazed, nauseated, or panicked for 1 round. The creature can attempt a Will saving throw to negate this effect. You can use this ability a number of times per day equal to 3 + your Charisma modifier. This is a mind-affecting painUM effect. Psychedelia You ingest hallucinogens to expand your mind.
+**Agonizing Wound (Su)**: At 13th level, whenever you cast a spell that deals damage to a creature, you can also make that creature frightened or sickened (your choice) for a number of rounds equal to your Charisma modifier. If you expend two uses of this ability, you can instead have the creature become dazed, nauseated, or panicked for 1 round. The creature can attempt a Will saving throw to negate this effect. You can use this ability a number of times per day equal to 3 + your Charisma modifier. This is a mind-affecting pain effect. Psychedelia You ingest hallucinogens to expand your mind.
 
 Experimentation and study show you which ones will have the greatest effect. Your psychedelic forays put you into a different mental space from others, and normal people don’t really understand you.
 
 **Phrenic Pool Ability**: Wisdom.
 
-**Bonus Spells**: Polypurpose panaceaUM (1st), mad hallucinationUM (4th), synesthesia* (6th), confusion (8th), mirage arcana (10th), joyful raptureUM (12th), waves of ecstasyUM (14th), euphoric tranquilityAPG (16th), astral projection (18th).
+**Bonus Spells**: Polypurpose panacea (1st), mad hallucination (4th), synesthesia* (6th), confusion (8th), mirage arcana (10th), joyful rapture (12th), waves of ecstasy (14th), euphoric tranquility (16th), astral projection (18th).
 
 **Discipline Powers**: You distort your own mind and perceptions, and can impress your altered states onto others.
 
-**Drug Resistance (Ex)**: When you ingest drugs, you take half as much ability damage (minimum 1). You also gain a +4 bonus on saving throws to avoid becoming addicted to a drug or to overcome being addicted (Pathfinder RPG GameMastery Guide 236).
+**Drug Resistance (Ex)**: When you ingest drugs, you take half as much ability damage (minimum 1). You also gain a +4 bonus on saving throws to avoid becoming addicted to a drug or to overcome being addicted.
 
 **Cognatogen (Su)**: Once per day, you can create a cognatogen, a mutagen-like mixture that heightens one mental ability score at the expense of a physical ability score. When you imbibe a cognatogen, you gain a +2 natural armor bonus and a +4 alchemical bonus to the selected ability score for 1 minute per psychic level. In addition, while the cognatogen is in effect, you take a –2 penalty to one of your physical ability scores. If the cognatogen enhances your Intelligence, it applies a penalty to your Strength. If it enhances your Wisdom, it applies a penalty to your Dexterity. If it enhances your Charisma, it applies a penalty to your Constitution. Otherwise, this ability works just like the alchemist’s mutagen ability (Pathfinder RPG Advanced Player’s Guide 28). When the effect of the cognatogen ends, you take 2 points of ability damage to the ability score penalized by the cognatogen. If you have both alchemist and psychic levels, these levels stack to determine the duration of your cognatogen and the DC of the save a non-alchemist must attempt if he drinks your cognatogen. If you gain discoveries, you can take the grand cognatogen and greater cognatogen discoveries to improve your cognatogen. The infuse mutagen discovery and the persistent mutagen class ability apply to cognatogens. However, even if you have alchemist levels, the duration of your cognatogen remains 1 minute per level (instead of 10 minutes per level) and you can still create only one per day (instead of an unlimited number) unless you also possess the cognatogen discovery.
 
@@ -264,7 +264,7 @@ Forging a close bond with other people brings out the best in you, making it eas
 
 **Phrenic Pool Ability**: Charisma.
 
-**Bonus Spells**: Charm person (1st), enthrall (4th), coordinated effortAPG (6th), lesser geas (8th), telepathy* (10th), battlemind linkUM (12th), mass hold person (14th), mass charm monster (16th), overwhelming presenceUM (18th).
+**Bonus Spells**: Charm person (1st), enthrall (4th), coordinated effort (6th), lesser geas (8th), telepathy* (10th), battlemind link (12th), mass hold person (14th), mass charm monster (16th), overwhelming presence (18th).
 
 **Discipline Powers**: Your powers meld several minds together, or allow you to more easily influence others.
 
@@ -272,7 +272,7 @@ Forging a close bond with other people brings out the best in you, making it eas
 
 **Emotional Push (Su)**: You can draw upon the intense power of your own emotions in desperate situations, and your allies can call upon you through your emotional link to protect themselves. When you or a subject of your emotional bond must attempt a saving throw, the person attempting the save can gain a bonus equal to your Charisma bonus on the save as an immediate action. This ability can be used once per day, plus one additional time per day for every 4 psychic levels you possess. Allies using this ability don’t need your permission, since the emotional connection is so direct, though you know when one of the uses has been expended. If the ally’s saving throw is successful, you regain 1 point in your phrenic pool.
 
-**Share Memory (Sp)**: At 5th level, you can use share memoryUM at will, but only with a willing target.
+**Share Memory (Sp)**: At 5th level, you can use share memory at will, but only with a willing target.
 
 **Team Player (Ex)**: At 5th level and 13th level, you gain a bonus teamwork feat.
 
@@ -282,7 +282,7 @@ Self-Perfection You take a holistic view of psychic power, believing that you mu
 
 **Phrenic Pool Ability**: Wisdom.
 
-**Bonus Spells**: Expeditious retreat (1st), bear’s endurance (4th), haste (6th), freedom of movement (8th), echolocationUM (10th), transformation (12th), ethereal jaunt (14th), iron body (16th), akashic form* (18th).
+**Bonus Spells**: Expeditious retreat (1st), bear’s endurance (4th), haste (6th), freedom of movement (8th), echolocation (10th), transformation (12th), ethereal jaunt (14th), iron body (16th), akashic form* (18th).
 
 **Discipline Powers**: Your powers alter your body through your force of will.
 
@@ -302,7 +302,7 @@ Psychic magic flows through you when you attain a peaceful mental state. Regular
 
 **Phrenic Pool Ability**: Wisdom.
 
-**Bonus Spells**: Telempathic projection* (1st), silence (4th), mantle of calmACG (6th), mass dazeUM (8th), serenityUM (10th), psychic surgery* (12th), mind blank (14th), euphoric tranquilityAPG (16th), time stop (18th).
+**Bonus Spells**: Telempathic projection* (1st), silence (4th), mantle of calm (6th), mass daze (8th), serenity (10th), psychic surgery* (12th), mind blank (14th), euphoric tranquility (16th), time stop (18th).
 
 **Discipline Powers**: Your stable mind protects you and your allies.
 

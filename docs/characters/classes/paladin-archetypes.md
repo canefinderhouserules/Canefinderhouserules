@@ -273,3 +273,13 @@ A temple champion is a powerful warrior dedicated to a good or lawful deity. She
 **Blessing (Su)**: At 5th level, a temple champion gains the minor blessing (as the warpriest class feature) of the domain she selected at 1st level. She uses her paladin level as her warpriest level for determining the effects of that blessing. Any Wisdom-based aspects of that blessing instead use the temple champion's Charisma. At 11th level, she gains the major blessing of her chosen domain. This ability replaces divine bond and aura of justice.
 
 -
+
+## Ghost Hunter
+
+Ghost hunters devote their lives to eliminating malevolent spirits and putting them to rest.
+
+**Ghostly Smite (Su)**: A ghost hunter’s smite evil ability does not automatically bypass DR (other than DR/good). However, she treats her weapon as a ghost touch weapon against the target of her smite. She does not deal extra damage on the first attack against evil outsiders and evil dragons, but she deals 3 points of damage per paladin level she possesses to undead creatures on the first attack (instead of 2 points). This ability alters smite evil.
+
+**Exorcise Possession (Su)**: At 6th level, a ghost hunter can try to end any possession spells or effects, or effects that directly exercise mental control over a creature. She must touch the affected creature (this requires a melee touch attack if the target is neither willing nor helpless) and expend a use of her lay on hands ability. The target can immediately attempt a Will save against the original save DC of the controlling effect. If the save is successful, the effect immediately ends, as if the target had succeeded at its original saving throw. This ability replaces the 6th-level mercy.
+
+**Speak to the Restless (Sp)**: At 9th level, a ghost hunter can commune with the spirits of the restless dead once per day. By holding a seance for 10 minutes, she can ask questions of a destroyed undead or a neutralized or destroyed haunt. To use this ability on a corporeal undead, the ghost hunter must have the creature’s head in her possession. For a haunt or incorporeal undead, this seance must be held in the haunt’s location or where the incorporeal undead was destroyed. Treat this ability as speak with haunt or as speak with dead (but affecting only undead rather than only corpses), using the ghost hunter’s class level as the caster level. This ability replaces the 9th-level mercy.

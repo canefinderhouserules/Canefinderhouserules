@@ -263,7 +263,7 @@ form has DR 5/slashing. When the spiritualist reaches 5th level, the phantom gai
 
 **Phase Lurch (Su)**: A phantom in ectoplasmic form has the ability to pass through walls or material obstacles. In order to use this ability, it must begin and end its turn outside whatever wall or obstacle it’s moving through. An ectoplasmic phantom can’t move through corporeal creatures with this ability, and its movement speed is halved while moving through a wall or obstacle. Any surface it moves through is coated with a thin, silvery mucus that lingers for 1 minute.
 
-**Incorporeal**: When the spiritualist chooses to manifest the phantom in incorporeal form, the phantom appears within 30 feet of the spiritualist as a ghostly apparition. It gains the incorporeal subtype (Pathfinder RPG Bestiary 301), including a deflection bonus to AC equal to its Charisma modifier. Since it isn’t an undead creature, it takes no damage from holy water or positive energy. Unlike other incorporeal creatures, an incorporeal phantom can’t attack corporeal creatures, except to deliver touch-attack spells using the deliver touch spell ability. An incorporeal manifested phantom can make slam attacks against other incorporeal creatures as if it were in ectoplasmic form.
+**Incorporeal**: When the spiritualist chooses to manifest the phantom in incorporeal form, the phantom appears within 30 feet of the spiritualist as a ghostly apparition. It gains the incorporeal subtype, including a deflection bonus to AC equal to its Charisma modifier. Since it isn’t an undead creature, it takes no damage from holy water or positive energy. Unlike other incorporeal creatures, an incorporeal phantom can’t attack corporeal creatures, except to deliver touch-attack spells using the deliver touch spell ability. An incorporeal manifested phantom can make slam attacks against other incorporeal creatures as if it were in ectoplasmic form.
 
 ### Emotional Focus
 
@@ -323,7 +323,7 @@ Their coloration tends to have a grayish or sickly green cast. When they speak, 
 
 **Power from Despair**: The phantom gains a +2 bonus on attack and damage rolls against creatures that are shaken, frightened, panicked, cowering, or subject to effects such as aura of despair or crushing despair.
 
-**Miserable Strike (Su)**: If the phantom hits a creature with a slam attack, that creature must succeed at a Will saving throw (DC = 10 + 1/2 the phantom’s Hit Dice + the phantom’s Charisma modifier) or take a –2 penalty on attack and damage rolls for 1 round. This is a mindaffecting fear and emotionUM effect. Penalties from multiple hits don’t stack with themselves.
+**Miserable Strike (Su)**: If the phantom hits a creature with a slam attack, that creature must succeed at a Will saving throw (DC = 10 + 1/2 the phantom’s Hit Dice + the phantom’s Charisma modifier) or take a –2 penalty on attack and damage rolls for 1 round. This is a mindaffecting fear and emotion effect. Penalties from multiple hits don’t stack with themselves.
 
 **Aura** of Despair (Su): When the spiritualist reaches 7th
 

@@ -144,3 +144,61 @@ If an eldritch scion takes levels in another class that grant a bloodline, the b
 **Improved Spell Combat (Ex)**: At 14th level, an eldritch scion gains the improved spell combat class feature. This ability alters improved spell combat.
 
 **Greater Spell Combat (Ex)**: At 18th level, an eldritch scion gains the greater spell combat class feature. This ability alters greater spell combat.
+
+## Esoteric
+
+Esoterics are drawn to the mysticism of the occult and spend their lives delving into forgotten texts and forbidden tomes. Each esoteric learns to inscribe his spells on his flesh in a complex series of occult symbols and arcane equations.
+
+**Weapon and Armor Proficiency**: An esoteric is proficient with simple weapons only. This alters the magus’s weapon and armor proficiency.
+
+**Diminished Spellcasting**: An esoteric has one fewer spell slot of each level than a regular magus. If this reduces his number of spell slots of a particular level to zero, he can cast spells of that level only if his Intelligence allows bonus spells of that level. This ability alters the magus’s spellcasting.
+
+**Arcane Pool (Su)**: At 1st level, an esoteric can use his arcane pool to enhance his unarmed strikes as if they were manufactured weapons. At 5th level, he can use these bonuses to add any of the following weapon special abilities to his weapons or unarmed strikes: defending, flaming, flaming burst, frost, icy burst, impact, shock, shocking burst, speed, or thundering.
+
+This ability alters arcane pool.
+
+**Unarmed Strike**: At 1st level, an esoteric gains Improved Unarmed Strike as a bonus feat. He also treats his magus levels as monk levels when determining the amount of damage he deals with his unarmed strikes.
+
+**Unarmed Spellstrike (Su)**: At 1st level, an esoteric gains the magus spellstrike class feature. However, an esoteric can deliver spells with spellstrike only with his unarmed strikes. This ability alters spellstrike.
+
+**Ki Arcana (Su)**: At 4th level, an esoteric’s arcane pool is also considered a ki pool for the purposes of meeting feat and ability requirements. Points from an esoteric’s arcane pool can be used for abilities that normally require ki. If an esoteric gains a ki pool, he can use points from his arcane pool and ki pool interchangeably (though not special points such as drunken ki). This ability replaces spell recall.
+
+**Tattooed Spell (Sp)**: At 5th level and every 6 levels thereafter, an esoteric can permanently tattoo one spell from his magus spellbook onto his body; the first tattooed spell must be of 2nd level or lower, the second must be of 4th level or lower, and the last can be of any level. The spell that is tattooed must not have an expensive material component or a focus. The esoteric can prepare any tattooed spell without needing his spellbook. Additionally, he can cast each of his tattooed spells as a spell-like ability once per day. When the esoteric uses these spell-like abilities, the tattoo associated with the spell-like ability glows as light for a number of rounds equal to the spell’s level. This ability replaces bonus feats.
+
+**AC Bonus (Ex)**: At 7th level when an esoteric wears light or no armor, he gains a +1 dodge bonus to AC and CMD.
+
+This bonus increases by 1 at 13th level. He loses these bonuses while immobilized or helpless, or while wearing medium or heavy armor, using a shield, or carrying a medium or heavy load. This ability replaces medium armor and heavy armor.
+
+**Improved Tattooed Spell (Sp)**: At 11th level, an esoteric can use each of his spell-like abilities from tattooed spell one additional time per day. This ability replaces improved spell recall.
+
+## Mindblade
+
+A mindblade blends psychic talent and martial skill to lethal effect. By forming weapons with her mind, she always has the right tool for any situation.
+
+**Spells**: A mindblade casts spells from the magus spell list as psychic spells. She can cast any spell she knows without preparing it ahead of time. To learn or cast a spell, a mindblade must have an Intelligence score equal to at least 10 + the spell’s level. The saving throw DC to resist a mindblade’s spell is equal to 10 + the spell’s level + the mindblade’s Intelligence modifier.
+
+Like other spellcasters, a mindblade can cast only a certain number of spells of each spell level per day. She knows the same number of spells and receives the same number of spells slots per day as a bard of her magus level, and knows and uses 0-level knacks as a bard uses cantrips. In addition, she receives bonus spells per day if she has a high Intelligence score (see Table 1–3 of the Core Rulebook).
+
+At 5th level and every 3 levels thereafter, a mindblade can learn a new spell in place of one she already knows, using the same rules as a bard. In effect, the mindblade loses the old spell in exchange for the new one. The new spell’s level must be the same as that of the spell being exchanged, and the new spell must be at least 1 level lower than the highest-level spell the mindblade can cast.
+
+A mindblade need not prepare her spells in advance.
+
+She can cast any magus spell she knows at any time, assuming she has not yet used up her allotment of spells per day for the spell’s level.
+
+This ability replaces the magus’s spellcasting.
+
+**Psychic Pool (Su)**: A mindblade gains a psychic pool, similar to a normal magus’s arcane pool. At 1st level, a mindblade can expend 1 point from her psychic pool as a standard action to manifest a light melee weapon of her choice, formed from psychic energy. By spending 2  points, the mindblade can manifest a one-handed melee weapon, and by spending 3 points, she can manifest a two-handed melee weapon (but not a double weapon). This psychic weapon can last indefinitely, but it vanishes if it leaves the mindblade’s hand. The mindblade can dismiss a held psychic weapon as a free action. When a psychic weapon vanishes, the mindblade regains the psychic energy used to create it. She can maintain only one weapon at a time.
+
+At 1st level, a psychic weapon counts as a magic weapon of whatever type the mindblade selected, with a +1 enhancement bonus. At 3rd level and every 3 levels thereafter, the weapon’s enhancement bonus increases by 1, up to maximum of +5 at 12th level. Starting at 5th level, the mindblade can add any of the weapon special abilities listed in the arcane pool class feature in place of these bonuses, although the weapon must maintain at least a +1 bonus to benefit from any weapon special abilities. At 15th and 18th levels, the weapon gains an additional +1 enhancement bonus, which the mindblade can spend only on weapon special abilities.
+
+This ability replaces arcane pool, and counts as arcane pool for the purpose of feats, abilities, and class features.
+
+**Psychic Access (Su)**: At 4th level, the mindblade gains access to an expanded spell list. She adds two spells from the psychic class spell list to her magus spell list as magus spells of the same spell level. These must be spells of levels the mindblade is able to cast. At 7th, 11th, 14th, and 19th levels, she adds two more psychic class spells to her spell list, following the same restrictions. When a mindblade takes the spell blending arcana, she gains spells from the psychic class spell list instead of the wizard spell list.
+
+This ability replaces spell recall, knowledge pool, improved spell recall, greater spell combat, and greater spell access.
+
+**Dual Weapons (Su)**: At 7th level, a mindblade can maintain two psychic weapons at a time or a psychic double weapon, though each weapon (or each end of a double weapon) has an enhancement bonus 1 lower than normal. Starting at 12th level, each of the two psychic weapons (or each end of a double weapon) instead has an enhancement bonus 2 lower than normal. When using two-weapon fighting with two psychic weapons or a psychic double weapon, the mindblade can use her spell combat ability as though she had a hand free. This ability replaces medium armor.
+
+**Rapid Manifest (Su)**: At 8th level, a mindblade can manifest a psychic weapon as a swift action. This ability replaces improved spell combat.
+
+**Dual Manifest (Su)**: At 13th level, a mindblade can manifest two psychic weapons with the same action. She must pay the cost for both weapons. Also, when wielding a weapon two-handed, she can use her spell combat ability as though she had a hand free. This ability replaces heavy armor.

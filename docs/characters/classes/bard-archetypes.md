@@ -585,3 +585,39 @@ Most bards are inspired by the art of civilization, yet the voice of the wild's 
 The ally must be able to hear or see the performance. The voice of the wild uses his bard level as his hunter level for determining the effect of the animal aspect.
 
 The bard can affect a second ally with this performance at 10th level and a third at 17th level. Song of the wild relies on audible or visual components. This ability replaces all increments of inspire competence, dirge of doom, and inspire heroics.
+
+## Phrenologist
+
+The phrenologist is an expert at reading creatures’ skulls, and he learns to use this knowledge to his benefit.
+
+**Phrenological Knowledge (Ex)**: A phrenologist is an expert at reading creatures’ skulls. He gains Psychic Sensitivity* as a bonus feat, and he can use the phrenology skill unlock even if he is untrained in Knowledge (arcana). He adds half his class level (minimum 1) on all Knowledge (arcana) checks for the phrenology occult skill unlock. This ability replaces bardic knowledge.
+
+**Skull-Versed (Ex)**: Starting at 2nd level, a phrenologist can use knowledge gleaned from a creature’s skull to tailor a performance. All creatures on which the phrenologist has successfully used his phrenology skill unlock take a –2 penalty on all saving throws against the phrenologist’s bardic performances. This ability replaces well-versed.
+
+**Phrenological Savant**: At 10th level, a phrenologist gains either Psychic Maestro* or Psychic Virtuoso* as a bonus feat. If he chooses Psychic Maestro, he must select phrenology as one of his two skill unlocks to use an additional time. This ability replaces jack-of-all-trades.
+
+**Bardic Performance**: A phrenologist gains the following types of bardic performance.
+
+**Skull Sonata (Su)**: At 1st level, a phrenologist learns to use the resonance of other creatures’ skulls to increase sonic damage. All enemies within 30 feet of the phrenologist that have skulls take an amount of additional sonic damage equal to half the phrenologist’s bard level (minimum 1) each time they take sonic damage. Skull sonata relies on audible components. This ability replaces inspire courage.
+
+**In Your Head (Sp)**: At 3rd level, a phrenologist can use his performance to send his own senses into another’s skull, as the spell witness (DC = 10 + 1/2 the phrenologist’s class level + his Charisma modifier). At 11th level, this performance’s duration increases to 10 minutes per bard level, and at 19th level, the duration increases to 1 hour per bard level. In your head relies on audible components. This ability replaces inspire competence.
+
+**Fingers of Fascination (Su)**: When a phrenologist uses the fascinate bardic performance, he can send forth psychic fingers along with his performance, allowing him to study one of the fascinated creatures with his phrenology skill unlock without touching its head physically and without it being helpless, willing, or paralyzed. This does not spend his daily use of the phrenology skill unlock. This ability alters fascinate.
+
+## Silver Balladeer
+
+The bright purity of silver makes beautiful music, and its vibrations are also anathema to unnatural creatures. Some bards use a mixture of silver-stringed instruments and esoteric knowledge to battle the dark forces of the world.
+
+**Alignment**: A silver balladeer must have a good alignment. This ability alters alignment.
+
+**Bardic Performance**: A silver balladeer gains the bardic performances listed below. These bardic performances all require the use of a silver or silver-stringed instrument, which costs twice as much as a normal masterwork instrument.
+
+**Break Curse (Su)**: At 6th level, a silver balladeer can suppress a single curse affecting an ally within 30 feet that is able to see and hear her. Each round the silver balladeer uses break curse, she attempts a Perform check against the original DC of the curse. If successful, she suppresses the curse for 1 round. After she has suppressed the curse for 4 consecutive rounds, she can attempt a caster level check to remove the curse as if she had cast remove curse. This ability replaces suggestion.
+
+**Holy Vibration (Su)**: At 9th level, a silver balladeer can spend a round of bardic performance to make a single door or a window within 30 feet resonate with a holy vibration. Undead and creatures with the evil subtype are unable to open a door or window affected in this way (as arcane lock) for 10 minutes per bard level. If such a creature has the incorporeal subtype, it is unable to move through the affected door or window, or through any walls, floors, or ceilings within 20 feet of it. Incorporeal creatures can attempt Charisma checks to break through areas warded by holy vibration, using the same break DC as for the object the creature is trying to move through. This ability replaces inspire greatness.
+
+**Mass Break Curse (Su)**: At 18th level, a silver balladeer can suppress all curses among any number of allies within 30  feet when using break curse. Every 4 consecutive rounds of using this performance, the silver balladeer can attempt a caster level check to remove a single curse on a single ally affected by this performance, as if she had cast remove curse. This ability replaces mass suggestion.
+
+**Pure Heart (Ex)**: At 2nd level, a silver balladeer gains a +4 bonus on saving throws against curses, hexes, and charm effects. This ability replaces well-versed.
+
+**Silver Mastery (Su)**: At 2nd level, a silver balladeer treats silver weapons as if they were also cold iron for the purpose of overcoming damage reduction. Also, alchemical silver weapons do not impose a penalty on damage rolls when wielded by a silver balladeer, and a silver balladeer gains a +1 bonus on attack rolls made with mithral weapons. This ability replaces the 2nd-level versatile performance.

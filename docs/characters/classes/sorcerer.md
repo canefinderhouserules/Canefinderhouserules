@@ -265,6 +265,32 @@ At some point in your family’s history, a dragon interbred with your bloodline
 
 *Power of Wyrms* *(Su)*: At 20th level, your draconic heritage becomes manifest. You gain immunity to paralysis, sleep, and damage of your energy type. You also gain blindsense 60 feet.
 
+## Ectoplasm
+
+Your family has a connection with the ethereal substance known as ectoplasm, whether from communing with the spirits or battling the spiritual undead. The power of the Ethereal Plane thrums in your mind and pulls at your flesh.
+
+**Class Skill**: Stealth.
+
+**Bonus Spells**: Obscuring mist (3rd), ghost whip* (5th), ectoplasmic snare* (7th), spirit-bound blade* (9th), wall of ectoplasm* (11th), ethereal jaunt (13th), ectoplasmic eruption* (15th), create demiplane (17th), etherealness (19th).
+
+**Bonus Feats**: Blind-Fight, Dodge, Ectoplasmic Spell, Lingering Spell, Silent Spell, Skill Focus (Fly), Skill Focus (Stealth), Spell Focus.
+
+**Bloodline Arcana**: Incorporeal creatures take 75% of the normal amount of damage from your damaging spells, and when incorporeal creatures attempt saving throws against your non-damaging spells, they roll twice and must take the lower result.
+
+**Bloodline Powers**: You can control and emit ectoplasm, leaving you less grounded in the physical world.
+
+**Entangling Ectoplasm (Sp)**: At 1st level, you can create a ball of ectoplasm and hurl it at targets within 30 feet. This ectoplasm acts as a tanglefoot bag that can also entangle incorporeal creatures.
+
+The ectoplasm dissipates within 1d3 rounds. You can use this ability a number of times per day equal to 3 + your Charisma modifier.
+
+**Ectoplasmic Reach (Su)**: At 3rd level, you can exude small tendrils of ectoplasm that can be used to make melee touch attacks as part of a spell with a range of touch. You can make melee touch attacks as if you had an additional 5 feet of reach. You must have a free hand with which to direct the ectoplasm. This ability does not otherwise increase your threatened area. At 11th level, this additional reach increases to 10 feet. At 17th level, this additional reach increases to 15 feet.
+
+**Ectoplasmic Form (Sp)**: At 9th level, you can transform into a cloud of ectoplasm. Treat this as gaseous form, except that you can fly at a speed of 30 feet, and you can solidify your form sufficiently to carry small objects, though fine manipulation is impossible. You can use this ability for a number of minutes per day equal to your sorcerer level. These minutes need not be consecutive, but must be used in 1-minute increments.
+
+**Malevolent Ectoplasm (Sp)**: At 15th level, your ectoplasmic tendrils can lash out at creatures around you. Treat this as a black tentacles effect centered on your position, but the tentacles can also grapple ethereal and incorporeal creatures, and they do not affect you (though they still affect your allies). You can use this ability a number of rounds per day equal to your sorcerer level. These rounds need not be consecutive.
+
+**Ectoplasmic Body (Ex)**: At 20th level, you are more ectoplasm than flesh. You become immune to sneak attacks and critical hits and gain DR 5/slashing.
+
 ## Elemental
 
 The power of the elements resides in you, and at times you can hardly control its fury. This influence comes from an elemental outsider in your family history or a time when you or your relatives were exposed to a powerful elemental force.
@@ -348,6 +374,30 @@ Somewhere in your family’s history, a relative made a deal with a devil, and t
 *On Dark Wings* *(Su)*: At 15th level, you can grow fearsome bat wings as a standard action, giving you a fly speed of 60 feet with average maneuverability. The wings can be dismissed as a free action.
 
 *Power of the Pit* *(Su)*: At 20th level, your form becomes infused with vile power. You gain immunity to fire and poison. You also gain resistance to acid 10 and cold 10, and the ability to see perfectly in darkness of any kind to a range of 60 feet.
+
+## Psychic
+
+Psychic power runs thorough your blood, whether it be from a familial predisposition to psychic power or exposure to a powerful psychic phenomenon. Whatever the source of this power, your mind is a dangerous weapon.
+
+**Class Skill**: Sense Motive.
+
+**Bonus Spells**: Mind thrust I* (3rd), id insinuation I* (5th), ego whip I* (7th), intellect fortress I* (9th), psychic crush I* (11th), mental barrier V* (13th), tower of iron will III* (15th), bilocation* (17th), microcosm* (19th).
+
+**Bonus Feats**: Focused Spell, Heighten Spell, Intuitive Spell*, Iron Will, Logical Spell*, Persuasive, Quicken Spell, Skill Focus (Sense Motive), Spell Focus.
+
+**Bloodline Arcana**: Your sorcerer spells and spell-like abilities count as psychic instead of arcane. You use thought and emotion components instead of verbal and somatic components when casting your spells.
+
+**Bloodline Powers**: Your psychic powers make you a master mentalist, but your soul struggles with the urge to transcend into a pure thought-form.
+
+**Psychic Strike (Su)**: At 1st level, you can overwhelm the minds of those nearby. You can target one creature within 30 feet that you can see; that creature must succeed at a Will saving throw (DC = 10 + 1/2 your sorcerer level + your Charisma modifier) or it takes 1d6 points of damage + 1 point for every 2 sorcerer levels you possess and becomes shaken for 1 round. You can use this ability a number of times per day equal to 3 + your Charisma modifier.
+
+**Mental Resistance (Ex)**: At 3rd level, your mind blocks attempts to assail it. You gain a +2 bonus on saving throws against mind-affecting effects. At 9th level, this bonus increases to +4.
+
+**Undercasting Prodigy (Sp)**: Starting at 9th level, whenever you gain a new level of spells, you automatically replace any psychic bloodline spells that can be undercast with the highest-level version you can cast in your list of spells known. For example, at 9th level, you would replace mind thrust I, id insinuation I, and ego whip I with mind thrust IV, id insinuation III, and ego whip II, respectively, as spells known.
+
+**Thoughtsense (Sp)**: At 15th level, you can detect the thoughts of others around you, as a constant thoughtsense* effect with a range of 30 feet instead of 60 feet.
+
+**True Thought-Form (Sp)**: At 20th level, you can shed the restrictions of the flesh and become a thoughtform—a being that exists independently of its substance. Whenever a creature would kill you, you can attempt to use mind swap* against that creature as an immediate action just before dying.
 
 ## Undead
 

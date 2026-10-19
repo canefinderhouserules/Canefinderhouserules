@@ -186,7 +186,7 @@ Guardian’s Shield (Lesser, Su):
 
 You gain proficiency in heavy armors and shields (including tower shields).
 
-**Absorb Blow (Intermediate, Su)**: You gain DR/—and resistance to acid, cold, electricity, fire, and sonic equal to 1/2 your medium level. Add paladin’s sacrificeAPG to your medium spells known as a 2nd-level spell.
+**Absorb Blow (Intermediate, Su)**: You gain DR/—and resistance to acid, cold, electricity, fire, and sonic equal to 1/2 your medium level. Add paladin’s sacrifice to your medium spells known as a 2nd-level spell.
 
 **Sudden Block (Greater, Su)**: After an enemy’s attack would hit you or an adjacent creature, you can use spirit surge to increase the victim’s AC, possibly causing the attack to fail, by rolling your spirit surge die and adding it to the chosen character’s AC. You must not be flat-footed, and you must be aware of the attack. If use of this ability causes the enemy’s attack to miss, you can make an attack at your highest base attack bonus against that enemy as an immediate action.
 
@@ -308,7 +308,7 @@ These skills count as class skills for you, and you are treated as if you had an
 
     --- Guardian's Shield (Lesser, Su): You gain proficiency in heavy armors and shields (including tower shields). You gain Divine Grace.
 
-    --- Absorb Blow (Intermediate, Su): You gain DR/— and resistance to acid, cold, electricity, fire, and sonic equal to your medium level. Add paladin’s sacrificeAPG to your medium spells known as a 2nd-level spell.
+    --- Absorb Blow (Intermediate, Su): You gain DR/—and resistance to acid, cold, electricity, fire, and sonic equal to your medium level. Add paladin’s sacrifice to your medium spells known as a 2nd-level spell.
 
     --- Sudden Block (Greater, Su): After an enemy’s attack would hit you or an adjacent creature, you can use spirit surge to increase the victim’s AC, possibly causing the attack to fail, by rolling your spirit surge die and adding it to the chosen character’s AC. You must not be flat-footed, and you must be aware of the attack. If use of this ability causes the enemy’s attack to miss, you can make an attack at your highest base attack bonus against that enemy as an immediate action.
 

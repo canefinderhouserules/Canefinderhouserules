@@ -171,3 +171,35 @@ checks. This ability replaces evasion.
 **Precise Splash Weapons (Ex)**: At 4th level, an underground chemist can deal sneak attack damage with splash weapons. The attack must be her first attack that round, qualify for dealing sneak attack damage (such as against a flat-footed target), and be directed at a creature rather than a square. This ability replaces the rogue talent gained at 4th level.
 
 **Discovery (Su)**: At 10th level, an underground chemist can select one of the following alchemist discoveries in place of a rogue talent: concentrate poison, dilution, enhance potion, extend potion, mummification, nauseating flesh, poison conversion, preserve organs, spontaneous healing, or sticky poison. She uses her rogue level as her alchemist level for determining the effects of her discoveries and whether she is able to select one. This ability alters advanced talents. Rogue Talents: The following rogue talents complement the underground chemist archetype: black market connections, fast fingers, lasting poison, sniper's eye, and swift poison Advanced Talents: The following advanced rogue talents complement the underground chemist archetype: deadly cocktail and thoughtful reexamining_
+
+## Escapologist
+
+The escapologist excels at escaping any confinement, whether physical, magical, or mental. Few restraints can hold an escapologist for long.
+
+**Elusive**: An escapologist adds 1/2 her rogue level (minimum  +1) as a bonus on all Disable Device and Escape Artist checks. An escapologist can use Disable Device to disarm magical  traps. This ability replaces trapfinding, but counts as trapfinding for the purposes of prerequisites and abilities that require trapfinding.
+
+**Unfettered Mind (Su)**: At 3rd level, an escapologist can attempt an Escape Artist check as a full-round action to remove a mind-affecting effect currently affecting her. The DC of this check is equal to the effect’s original save DC + 20. She cannot remove effects that do not allow a saving throw. She can attempt to escape even if paralyzed or restrained, as long as she can take purely mental actions. She can attempt this check against a particular effect once per round if the effect is measured in rounds, once per minute if the effect is measured in minutes, once per 10 minutes if the effect is measured in 10-minute intervals, and so on. This ability replaces uncanny dodge.
+
+**Impossible Escape (Su)**: At 8th level, as an immediate action, an escapologist can attempt an Escape Artist check at a –10 penalty and apply the result in place of either a failed Reflex save or her AC against an attack that would have hit her. If she succeeds, her contortions let her avoid the attack or effect entirely. Using this ability leaves the escapologist staggered until the end of her next turn. If the escapologist can’t become staggered, she can’t use impossible escape. This ability replaces improved uncanny dodge.
+
+## False Medium
+
+The false medium is a master of pretending to have occult powers in order to manipulate the emotions and atmosphere of the people and places around him, often reaping a healthy reward from the bereaved, who find solace in his comforting lies.
+
+**Dim the Lights (Ex)**: At 1st level, while in dim light or darkness, a false medium adds 1/2 his rogue level as a bonus on Bluff, Disguise, and Sleight of Hand checks, and creatures without low-light vision or darkvision take an equal penalty on skill checks to oppose the false medium’s Bluff, Disguise, and Sleight of Hand checks.
+
+This ability replaces trapfinding.
+
+**False Sensitivity (Ex)**: At 2nd level, a charlatan can convincingly fake the ability to use occult skill unlocks such as automatic writing and dowsing. An untrained onlooker can’t tell the difference between the false medium’s scams and a true use of occult skill unlocks. An onlooker capable of using the particular occult skill unlock that the false medium is faking can attempt the appropriate skill check for that unlock, opposed by the false medium’s Bluff check, to detect the fraud. In any case, any results of the false medium’s charades are fabricated (for instance, the false medium might ask leading questions to elicit false memories while pretending to use hypnotism). This ability replaces the 2nd-level rogue talent.
+
+**Haunting Presences (Ex)**: At 3rd level, the false medium exploits his natural talent for deception to convince others of the presence of false supernatural entities. As long as the false medium is in conditions of dim light or darkness, he can use Bluff skill checks to emulate the effects of dancing lights, ghost sound, silent image, or ventriloquism by throwing his voice, subtly misdirecting or convincing subjects, or manipulating light and shadows. The range of these effects is 10 feet from the false medium, plus an additional 5 feet for every 3 rogue levels he possesses beyond 3rd. The effects last for 1 round, though they can be maintained with additional checks.
+
+Only one of these effects can be created or maintained in a given round. Observers can attempt either a Perception or Sense Motive check (whichever of their bonuses is higher) to oppose this Bluff check; the GM should roll these checks secretly. This is an extraordinary ability and not an illusion, so if the false medium succeeds at the opposed check, even powerful effects like true seeing don’t detect the fakery.
+
+This ability replaces trap sense.
+
+**Rogue Talents**: The following rogue talents complement the false medium rogue archetype: esoteric scholar, fast fingers, honeyed words, major magic, minor magic, and quick trapsmith.
+
+**Advanced Talents**: The following advanced rogue talents complement the false medium rogue archetype:
+
+feat, master of disguise, and skill mastery.

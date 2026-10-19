@@ -72,7 +72,7 @@ The mesmerist’s class skills are Appraise (Int), Bluff (Cha), Craft (Int), Dip
 
 The following are the class features of the mesmerist.
 
-**Weapon and Armor Proficiency**: A mesmerist is proficient with all simple weapons, plus the hand crossbow, sap, sword caneUE, and whip. He is proficient with light armor, but not with shields.
+**Weapon and Armor Proficiency**: A mesmerist is proficient with all simple weapons, plus the hand crossbow, sap, sword cane, and whip. He is proficient with light armor, but not with shields.
 
 **Spells**: A mesmerist casts psychic spells drawn from the mesmerist spell list. He can cast any spell he knows without preparing it ahead of time. To learn or cast a spell, a mesmerist must have a Charisma score equal to at least 10 + the spell’s level. The saving throw DC against a mesmerist’s spell is 10 + the spell’s level + the mesmerist’s Charisma modifier.
 
@@ -108,7 +108,7 @@ The mesmerist knows one trick at 1st level, and learns another trick at 2nd leve
 
 **Gift of Will**: A small portion of the mesmerist’s vast mental power buttresses his ally’s mind. The mesmerist can trigger this trick when the subject attempts a Will saving throw or a Sense Motive check, or is targeted by an Intimidate check to demoralize her. For a saving throw, the subject uses the mesmerist’s Will saving throw bonus instead of her own. For a Sense Motive check or Intimidate check, she adds the mesmerist’s Charisma bonus as a morale bonus on the check or to the DC. The mesmerist can’t implant this trick on himself.
 
-**Levitation Buffer**: A mesmerist’s telekinetic assault renders foes around the subject less of a threat. The mesmerist can trigger this trick when either an enemy moves adjacent to the subject or the subject begins her turn with one or more enemies adjacent to her. The mesmerist can either lift all enemies adjacent to the subject slightly into the air or push them all away from the subject. Lifting enemies causes them to move at half speed and take a –4 penalty to their CMDs against bull rush, drag, and reposition attempts for 1 round (Will negates). The speed reduction and CMD penalty don’t stack with those from hostile levitation (Pathfinder RPG Ultimate Combat 231).
+**Levitation Buffer**: A mesmerist’s telekinetic assault renders foes around the subject less of a threat. The mesmerist can trigger this trick when either an enemy moves adjacent to the subject or the subject begins her turn with one or more enemies adjacent to her. The mesmerist can either lift all enemies adjacent to the subject slightly into the air or push them all away from the subject. Lifting enemies causes them to move at half speed and take a –4 penalty to their CMDs against bull rush, drag, and reposition attempts for 1 round (Will negates). The speed reduction and CMD penalty don’t stack with those from hostile levitation.
 
 Pushing enemies away requires the mesmerist to attempt a bull rush combat maneuver check using his mesmerist level + his Charisma modifier as his CMB. Any enemy that’s successfully pushed moves away from the subject of the trick using the normal rules for a bull rush.
 
@@ -184,7 +184,7 @@ The mesmerist can also partially affect such a creature with his mind-affecting 
 
 **Masterful Tricks (Su)**: At 12th level, a mesmerist can choose one of the following masterful tricks in place of a mesmerist trick. He gains an additional masterful trick every 2 levels thereafter. Using a masterful trick consumes two uses of the mesmerist trick class feature instead of one.
 
-**Avian Escape**: The subject changes shape to elude an attacking enemy. The mesmerist can trigger this trick when the subject takes damage from an enemy’s attack. The subject transforms into a bird (as beast shape III). Though the subject can appear as any Tiny bird, it uses the statistics for a raven (Pathfinder RPG Bestiary 133). This is a polymorph effect.
+**Avian Escape**: The subject changes shape to elude an attacking enemy. The mesmerist can trigger this trick when the subject takes damage from an enemy’s attack. The subject transforms into a bird (as beast shape III). Though the subject can appear as any Tiny bird, it uses the statistics for a raven. This is a polymorph effect.
 
 **Cursed Sanction**: A ward curses an enemy who attacks the subject. While this trick is implanted, a visible, circular symbol appears on the subject’s forehead. The mesmerist can trigger this trick when the subject is attacked or becomes the target of a spell that requires an attack roll. The attacker takes a –4 penalty on attack rolls, saves, ability checks, and skill checks for 1 minute per mesmerist level (Will negates). This penalty applies to the triggering attack roll. This is a curse effect.
 

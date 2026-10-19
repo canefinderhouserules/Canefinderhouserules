@@ -200,3 +200,45 @@ Cavaliers who join the order of the sword dedicate their lives to the code of ch
 **Mounted Mastery (Ex)**: At 8th level, the cavalier ignores the armor check penalty when using the Ride skill, regardless of whether or not the creature he is riding is his mount. Whenever he makes a charge attack while mounted, he receives a +4 dodge bonus to his AC to avoid attacks set against his charge. When making such an attack, he can add his mount’s Strength modifier to the damage roll, in addition to his own. He also receives a bonus feat, chosen from the following list: Mounted Combat, Ride-By Attack, Skill Focus (Ride), Spirited Charge, Trample, or Unseat. He must qualify for the feat selected.
 
 **Knight’s Challenge (Ex)**: At 15th level, the cavalier can make a knight’s challenge once per day. This functions like a normal challenge, but the cavalier adds his Charisma bonus on all attack rolls and damage rolls made against the target of his challenge. In addition, he receives a +4 circumstance bonus on attack rolls made to confirm critical hits against the target of his knight’s challenge.
+
+### Order of the Eastern Star
+
+This cavalier order exists to keep dangerous secrets hidden from the world and secretly protect the world against unimaginable threats from beyond the mortal realms. These cavaliers scout and observe, concerning themselves not with the trivial pursuit of morality, but rather with ensuring the survival of society itself.
+
+**Edicts**: The cavalier must preserve the secrets of his order while acting to protect civilization against occult threats. He must thwart the schemes of otherworldly horrors and must give his order a full accounting of any potential threats.
+
+**Challenge**: Whenever a cavalier of the order of the eastern star issues a challenge, he receives a +1 dodge bonus to AC and a +1 insight bonus on saves against the attacks and abilities of the target of his challenge. He must be wearing light armor and carrying no more than a light load to receive these bonuses. These bonuses increase by 1 for every 4 class levels the cavalier possesses.
+
+**Skills**: A cavalier belonging to the order of the eastern star adds Knowledge (arcana) and Knowledge (planes) to his class skills. He can attempt Knowledge (arcana) and Knowledge (planes) checks untrained. If he has ranks in these skills, as long as a check involves knowledge of the occult or supernatural, he receives a bonus on the check equal to 1/2 his cavalier level (minimum +1).
+
+**Feats**: A cavalier of this order gains Psychic Sensitivity as a bonus feat.
+
+**Order Abilities**: A cavalier belonging to this order gains the following abilities as he increases in level.
+
+**Guarded (Ex)**: At 2nd level, the cavalier gains DR 1/—and a +2 morale bonus on saving throws when wearing light armor or no armor and fighting defensively or using Combat Expertise. At 6th level and every 4 levels thereafter, this DR increases by 1. He loses the benefits of this ability if carrying a medium or heavier load.
+
+**Pierce the Guard (Ex)**: At 8th level, when attacking with a light or one-handed weapon, the cavalier ignores the penalty for fighting defensively or using Combat Expertise on his first melee attack roll each round. If fighting with two weapons, he ignores the penalty for the first attack with each weapon, as long as the off-hand weapon is a light weapon.
+
+The cavalier can’t use this ability with double weapons.
+
+**One Purpose (Ex)**: At 15th level, the cavalier’s mount shares the benefits of the cavalier’s guarded ability as long as both are wearing light or no armor and carrying no more than a light load.
+
+The cavalier must fight defensively or use Combat Expertise to grant these benefits, but the mount need not. In addition, the mount gains all the benefits of the cavalier’s challenge, regardless of what barding it wears.
+
+### Order of the Shroud
+
+Cavaliers of this order seek out and destroy undead and those who harbor or create them. They scour old crypts, graveyards, and battlefields to bring eternal rest.
+
+**Edicts**: The cavalier must protect the common folk from the scourge of the undead. He must seek out and destroy the restless dead and give aid to those haunted by them. He must protect those who cannot defend themselves, and root out sources that birth the corruption of life and death.
+
+**Challenge**: Whenever an order of the shroud cavalier issues a challenge to an undead creature, he receives a +1 morale bonus on attack rolls against the target of his challenge for 1 minute. The bonus increases by 1 for every 4 class levels the cavalier possesses.
+
+**Skills**: An order of the shroud cavalier adds Knowledge (local) (Int) and Knowledge (religion) (Int) to his list of class skills. An order of the shroud cavalier can attempt Knowledge (religion) checks untrained. If he has ranks in that skill, as long as a Knowledge (religion) check involves undead or haunts, he receives a bonus on the check equal to 1/2 his cavalier level (minimum +1).
+
+**Order Abilities**: A cavalier belonging to the order of the shroud gains the following abilities as he increases in level.
+
+**Spiritual Shield (Su)**: At 2nd level, the cavalier can call upon the spirits of the fallen for protection. Once per day as an immediate action when attacked by an undead target of his challenge, the cavalier can gain a deflection bonus equal to his Charisma modifier to his AC against that attack. The cavalier must decide to use this ability before the attack roll.
+
+**Destroyer of the Undead (Su)**: At 8th level, the cavalier’s weapons are treated as having the cavalier’s alignment for the purpose of overcoming the damage reduction of undead creatures. Against an undead target of his challenge, the cavalier automatically overcomes all damage reduction that undead possesses.
+
+**Stand Against Darkness (Ex or Su)**: At 15th level, the cavalier can take revenge on undead that dare strike him or those he seeks to protect. Whenever an undead creature that is the subject of his challenge hits the cavalier or an adjacent ally with a melee attack, the creature provokes an attack of opportunity from the cavalier. The cavalier gains a +2 morale bonus on attacks of opportunity provoked as a result of this ability. If an undead subject of the cavalier’s challenge threatens a critical hit against the cavalier, the cavalier gains a deflection bonus equal to his Charisma modifier against the confirmation roll. This bonus functions as a supernatural ability.

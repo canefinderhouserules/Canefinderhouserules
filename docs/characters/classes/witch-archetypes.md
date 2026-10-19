@@ -189,3 +189,29 @@ Mountains can be sanctuaries for witches hunted by society. Here they form bonds
 **Mountain Beast Empathy (Ex)**: At 2nd level, a mountain witch can influence the attitude of mountain-dwelling animals, as the druid's wild empathy class feature but only on animals native to mountainous environments. The mountain witch uses her witch level as her druid level for this ability. This ability replaces the hex gained at md level. Hexes: The following witch hexes complement the mountain witch archetype: beast of ill-omen, crystal sight*, lodestone*, metal curse*, stone stability*, and ward of stone*. (Those with asterisks [*] are detailed in the shaman class.) Major Hexes: The following major hexes complement the mountain witch archetype: beast eye, hidden home, hoarfrost, and weather control.
 
 **Grand Hexes**: The following grand hexes complement the mountain witch archetype: eternal slumber, natural disaster, and witch's hut.
+
+## Ley Line Guardian
+
+Some witches tap into the power of their patrons not through a special connection with a familiar, but rather directly through the vast network of ley lines that crosses the planes. These witches can harness the latent powers of ley lines without even needing to be near one of the points where ley lines’ powers are accessible to mortal spellcasters.
+
+**Ley Line Powered**: Instead of preparing her spells, a ley line guardian draws the power casting spells directly from ley lines. A ley line guardian is a spontaneous spellcaster. She knows the same number of spells and receives the same number of spell slots per day as a sorcerer of her witch level. Bonus spells granted by a ley line guardian’s patron are added to the ley line guardian’s total spells known at the appropriate levels. This ability alters the witch’s spellcasting.
+
+**Conduit Surge (Su)**: At 1st level, a ley line guardian is adept at channeling energy from ley lines to enhance her own spells. As a swift action, she can increase her effective caster level for the next spell she casts in that round by 1d4–1 levels. After performing a conduit surge, the ley line guardian must succeed at a Fortitude save (DC = 10 + level of spell cast + number of additional caster levels granted) or become staggered for a number of minutes equal to the level of the spell cast. At 8th level, the caster level increase becomes 1d4. She can use this ability a number of times per day equal to 3 + her Charisma modifier.
+
+This ability replaces familiar and the hexes gained at 1st and 8th levels.
+
+3 Feats No more running!”
+
+Oloch turned and raised his sword. “They die here, or we do!”
+
+“I’d really prefer the former,”
+
+Meligaster murmured, and touched his brow. “Very well.”
+
+Only a few yards away, the cultists suddenly screamed and stumbled to a halt.
+
+Eyes wide with terror, they scrambled backward down the temple corridor, staves and blades tumbling from shaking hands.
+
+Oloch roared a laugh. “See, little man? Cowards can never stand before a true warrior.”
+
+“Yes.” Meligaster lowered

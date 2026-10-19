@@ -603,7 +603,7 @@ Your telekinetic blast can throw a Large or smaller creature instead of an unatt
 
 **Saving Throw** none
 
-Your force blast hooks onto its target and drags you adjacent to it. This effect functions as force hook chargeUM, except with the range and damage of your force blast.
+Your force blast hooks onto its target and drags you adjacent to it. This effect functions as force hook charge, except with the range and damage of your force blast.
 
 #### Fragmentation
 
@@ -833,7 +833,7 @@ You use wind to buffet yourself away from area attacks. Until the next time your
 
 **Element** aether; **Type** utility (Sp); **Level** 5; **Burn** 0
 
-You use strands of aether to animate an object. You can animate a Medium or smaller object as an animated object (Pathfinder RPG Bestiary 14) with no Construction Point abilities (except for stone or metal [common], if the object is constructed of one of those materials). Each round on your turn, you must take a move action to guide the object, or it reverts to its inanimate state. By accepting 1 point of burn, you can pour a bit of your own sentience into the aether puppet, allowing the effect to persist for 1 round per kineticist level without requiring additional actions. At 12th level, you can animate a Large or smaller object, which gains all the abilities of the Medium animated object plus the additional attack ability. At 14th level, you can animate a Huge or smaller object, which gains all the abilities of the Large animated object. At 16th level, you can animate a Gargantuan or smaller object, which gains all the abilities of the Huge animated object, as well as the metal (mithral) ability if the object is made of mithral. At 18th level, you can animate a Colossal or smaller object, which gains all the abilities of the Gargantuan animated object, plus the metal (adamantine) ability if the object is made of adamantine.
+You use strands of aether to animate an object. You can animate a Medium or smaller object as an animated object with no Construction Point abilities (except for stone or metal [common], if the object is constructed of one of those materials). Each round on your turn, you must take a move action to guide the object, or it reverts to its inanimate state. By accepting 1 point of burn, you can pour a bit of your own sentience into the aether puppet, allowing the effect to persist for 1 round per kineticist level without requiring additional actions. At 12th level, you can animate a Large or smaller object, which gains all the abilities of the Medium animated object plus the additional attack ability. At 14th level, you can animate a Huge or smaller object, which gains all the abilities of the Large animated object. At 16th level, you can animate a Gargantuan or smaller object, which gains all the abilities of the Huge animated object, as well as the metal (mithral) ability if the object is made of mithral. At 18th level, you can animate a Colossal or smaller object, which gains all the abilities of the Gargantuan animated object, plus the metal (adamantine) ability if the object is made of adamantine.
 
 #### Air Cushion
 
@@ -845,7 +845,7 @@ You cushion a fall from any height. You are constantly under the effects of feat
 
 **Element** air; **Type** utility (Sp); **Level** 1; **Burn** 0
 
-You are always surrounded by air, as air bubbleUC. As a standard action, you can accept 1 point of burn to extend the effect to a number of additional creatures equal to your Constitution modifier for 1 minute per kineticist level you possess.
+You are always surrounded by air, as air bubble. As a standard action, you can accept 1 point of burn to extend the effect to a number of additional creatures equal to your Constitution modifier for 1 minute per kineticist level you possess.
 
 #### Air Shroud, Greater
 
@@ -853,7 +853,7 @@ You are always surrounded by air, as air bubbleUC. As a standard action, you can
 
 **Prerequisite** air shroud
 
-Your air shroud improves, granting you the benefits of life bubbleAPG. When you accept burn to grant the benefit to others, the benefit lasts until the next time your burn is removed.
+Your air shroud improves, granting you the benefits of life bubble. When you accept burn to grant the benefit to others, the benefit lasts until the next time your burn is removed.
 
 #### Air’s Leap
 
@@ -877,7 +877,7 @@ You can also use your aerokinesis to make it harder to detect you or others by s
 
 **Element** earth; **Type** utility (Sp); **Level** 1; **Burn** 0
 
-You can move up to 5 pounds per kineticist level of rocks, loose earth, sand, clay, and other similar materials up to 15 feet as a move action. You can search earthen and stone areas from a distance as if using the siftAPG cantrip.
+You can move up to 5 pounds per kineticist level of rocks, loose earth, sand, clay, and other similar materials up to 15 feet as a move action. You can search earthen and stone areas from a distance as if using the sift cantrip.
 
 #### Basic Hydrokinesis
 
@@ -889,7 +889,7 @@ You can create water as the cantrip create water, purify water as if using purif
 
 **Element** fire; **Type** utility (Sp); **Level** 1; **Burn** 0
 
-You can use your inner flame to reproduce the effects of a flare, light, or sparkAPG cantrip, except that the light you create with light produces heat like a normal flame; using any of the three abilities ends any previous light effect from this wild talent.
+You can use your inner flame to reproduce the effects of a flare, light, or spark cantrip, except that the light you create with light produces heat like a normal flame; using any of the three abilities ends any previous light effect from this wild talent.
 
 #### Basic Telekinesis
 
@@ -1193,7 +1193,7 @@ You use aether to choke a creature within 120 feet, air to create an area of unb
 
 **Element** aether; **Type** utility (Sp); **Level** 8; **Burn** 0
 
-You can deflect your foes’ attacks, as the spell deflectionAPG with a duration of 1 round. You can accept 1 point of burn to increase the duration to 1 round per kineticist level you possess.
+You can deflect your foes’ attacks, as the spell deflection with a duration of 1 round. You can accept 1 point of burn to increase the duration to 1 round per kineticist level you possess.
 
 #### Telekinetic Finesse
 
@@ -1235,7 +1235,7 @@ You can perform combat maneuvers as telekinesis, but you use your Constitution m
 
 **Element** water; **Type** utility (Sp); **Level** 9; **Burn** 1
 
-You call forth a powerful tidal wave, as tsunamiAPG.
+You call forth a powerful tidal wave, as tsunami.
 
 #### Touchsight
 
@@ -1301,7 +1301,7 @@ You can manipulate massive quantities of water. As a standard action, you can ra
 
 **Element** water; **Type** utility (Sp); **Level** 3; **Burn** 0
 
-You call forth a current of water to increase your speed and allow you to swim with ease, as if under the effects of slipstreamAPG with unlimited duration.
+You call forth a current of water to increase your speed and allow you to swim with ease, as if under the effects of slipstream with unlimited duration.
 
 #### Waterdancer, Greater
 
