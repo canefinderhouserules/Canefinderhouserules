@@ -1,0 +1,7 @@
+# Emotional Conduit
+
+The deep emotional resonance you share with your phantom enables you to master the emotions of others.
+
+**Prerequisite**: Shared consciousness class feature.
+
+**Benefit**: You gain familiarity with a number of additional spells based on the emotional focus of your phantom. These spells are added to both your class spell list (if not already on that list) and your list of spells known; they are in addition to the normal number of spells known for your level. The spells you gain are as follows (spells marked with a dagger [†] can be found in Chapter 4: Psychic Magic): Anger: 1st—burst of adrenaline† , 2nd—rage, 3rd—howling agony, 4th—telekinetic charge, 5th—vengeful outrage, 6th—transformation. Despair: 1st—touch of gracelessness, 2nd—death knell, 3rd—ray of exhaustion, 4th—crushing despair, 5th— suffocation, 6th—eyebite. Devotion: 1st—invisibility alarm, 2nd—spiritual weapon, 3rd—cure light wounds, 4th—spell immunity, 5th—vampiric shadow shield, 6th—greater heroism. Fear: 1st—heightened awareness, 2nd—scare, 3rd—fear, 4th—feast on fear, 5th—nightmare, 6th—frightful aspect. Hatred: 1st—murderous command, 2nd—disfiguring touch, 3rd—bestow curse, 4th—debilitating portent, 5th— foster hatred† , 6th—phantasmal revenge. Jealousy: 1st—compel hostility, 2nd—life pact, 3rd— ectoplasmic snare† , 4th—entrap spirit†, 5th—dominate person, 6th—unwilling shield. Zeal: 1st—delusional pride, 2nd—false life, 3rd—heroism, 4th—freedom of movement, 5th—joyful rapture, 6th—greater heroism.

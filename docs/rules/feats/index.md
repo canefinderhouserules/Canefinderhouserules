@@ -74,6 +74,10 @@ Metamagic feats cannot be used with all spells. See the specific feat descriptio
 
 Panache feats interact with the swashbuckler’s panache class ability or the panache granted by the Amateur Swashbuckler feat. Swashbucklers can take panache feats as bonus feats.
 
+### Stare Feats
+
+Stare feats allow a mesmerist to apply additional effects to his painful stare ability. Characters without the Compounded Pain feat can apply the effects of only one stare feat to an individual attack; a mesmerist with multiple stare feats must choose which to apply before the damage roll is made.
+
 ### Style Feats
 
 Style feats are based on fighting styles suited to the brawler’s rough-and-tumble combat disciplines. As a swift action, you can enter the stance employed by the fighting style that a style feat embodies. Although you cannot use a style feat before combat begins, the style you are in persists until either you use a swift action to switch styles or the end of the combat encounter, whichever occurs first. You can use a feat that has a style feat as a prerequisite only while you are in the stance of the associated style.
@@ -722,3 +726,68 @@ Feats from the *Advanced Class Guide*. Each name links to its full description.
 | [Weapon of the Chosen](weapon-of-the-chosen.md) | Combat | Weapon Focus with deity's favored weapon, must worship and receive spells from a deity |
 | [Winter's Strike](winter-s-strike.md) | Combat | Nature Magic or the ability to cast druid or ranger spells; Vital Strike, Knowledge (nature) 5 ranks |
 | [Wounded Paw Gambit](wounded-paw-gambit.md) | Combat, Teamwork | Broken Wing Gambit, Bluffs ranks |
+
+## Occult Adventures Feats
+
+Feats from *Occult Adventures*. Each name links to its full description.
+
+| Feat | Type | Prerequisites |
+|---|---|---|
+| [Alter Binary Mindscape](alter-binary-mindscape.md) | — | Int 13, ability to cast instigate psychic duel |
+| [Bleeding Stare](bleeding-stare.md) | Combat, Stare | Mesmerist level 5th, painful stare class feature |
+| [Chakra Adept](chakra-adept.md) | — | Chakra Initiate, ability to awaken the heart chakra |
+| [Chakra Initiate](chakra-initiate.md) | — | Ability to awaken the root chakra |
+| [Chakra Master](chakra-master.md) | — | Chakra Adept, Chakra Initiate, ability to awaken the crown chakra |
+| [Compounded Pain](compounded-pain.md) | Combat | Mesmerist level 13th, painful stare class feature |
+| [Delay Blast](delay-blast.md) | — | Base attack bonus +3, kinetic blast class feature |
+| [Demoralizing Stare](demoralizing-stare.md) | Combat, Stare | Mesmerist level 9th, painful stare class feature |
+| [Disciplinary Devotee](disciplinary-devotee.md) | — | Psychic discipline class feature |
+| [Distant Delivery](distant-delivery.md) | — | Phantom class feature, phantom with the deliver touch spells ability |
+| [Efficient Focus Shift](efficient-focus-shift.md) | — | Occultist level 7th |
+| [Elongated Cranium](elongated-cranium.md) | — | — |
+| [Emotional Conduit](emotional-conduit.md) | — | Shared consciousness class feature |
+| [Empath](empath.md) | — | Psychic Sensitivity or ability to cast psychic spells, Perception 1 rank or Sense Motive 1 rank |
+| [Excoriating Stare](excoriating-stare.md) | Combat, Stare | Mesmerist level 11th, painful stare class feature |
+| [Expanded Phrenic Pool](expanded-phrenic-pool.md) | — | Phrenic pool class feature |
+| [Extend Resonant Power](extend-resonant-power.md) | — | Caster level 7th, mental focus class feature |
+| [Extended Stare](extended-stare.md) | — | Hypnotic stare class feature |
+| [Extra Amplification](extra-amplification.md) | — | Phrenic amplification class feature |
+| [Extra Focus Power](extra-focus-power.md) | — | Focus power class feature |
+| [Extra Mental Focus](extra-mental-focus.md) | — | Mental focus class feature |
+| [Extra Mesmerist Tricks](extra-mesmerist-tricks.md) | — | Mesmerist trick class feature |
+| [Extra Touch Treatment](extra-touch-treatment.md) | — | Touch treatment class feature |
+| [Extra Wild Talent](extra-wild-talent.md) | — | Kineticist level 6th |
+| [Fatiguing Stare](fatiguing-stare.md) | Combat, Stare | Mesmerist level 7th, painful stare class feature |
+| [Fearsome Spell](fearsome-spell.md) | Metamagic | — |
+| [Focused Phantom](focused-phantom.md) | — | Spiritual interference class feature |
+| [Furious Spell](furious-spell.md) | Metamagic | — |
+| [Greater Mesmerizing Feint](greater-mesmerizing-feint.md) | Combat | Mesmerizing Feint, Bluff 10 ranks, hypnotic stare class feature, psychic inception bold stare |
+| [Hidden Presence](hidden-presence.md) | — | Int or Cha 17, ability to cast possession or greater possession |
+| [Implement Focus](implement-focus.md) | — | Occultist level 3rd |
+| [Intense Pain](intense-pain.md) | Combat, Stare | Mesmerist level 7th, painful stare class feature |
+| [Interweave Composite Blast](interweave-composite-blast.md) | Combat, Teamwork | Kinetic blast class feature |
+| [Intimidating Glance](intimidating-glance.md) | Combat | Hypnotic stare class feature |
+| [Intrusive Presence](intrusive-presence.md) | — | Int or Cha 21, Hidden Presence, Manipulative Presence, ability to cast possession or greater possession |
+| [Intuitive Spell](intuitive-spell.md) | Metamagic | — |
+| [Kinetic Counter](kinetic-counter.md) | — | Cold simple blast, fire simple blast, or water simple blast; kinetic blast class feature |
+| [Kinetic Leap](kinetic-leap.md) | — | Acrobatics 3 ranks, kinetic blast class feature |
+| [Logical Spell](logical-spell.md) | Metamagic | — |
+| [Lucid Dreamer](lucid-dreamer.md) | — | Cha 13, Knowledge (planes) 3 ranks |
+| [Manipulative Presence](manipulative-presence.md) | — | Int or Cha 19, Hidden Presence, ability to cast possession or greater possession |
+| [Mesmerizing Feint](mesmerizing-feint.md) | Combat | Hypnotic stare class feature |
+| [Parting Blast](parting-blast.md) | — | Kinetic blast class feature |
+| [Phantom Fighter](phantom-fighter.md) | — | Phantom class feature, phantom with the magic attacks ability |
+| [Phantom Fortification](phantom-fortification.md) | — | Phantom class feature, phantom with the incorporeal f light ability |
+| [Psychic Adept](psychic-adept.md) | — | Int 11, Psychic Sensitivity |
+| [Psychic Combatant](psychic-combatant.md) | Combat | Int 13, Psychic Sensitivity or the ability to cast psychic spells or use psychic spell-like abilities, character level 3rd |
+| [Psychic Defender](psychic-defender.md) | — | Int 13, Psychic Sensitivity or the ability to cast psychic spells or use psychic spell-like abilities, character level 3rd |
+| [Psychic Disciple](psychic-disciple.md) | — | Int 13, Psychic Adept, Psychic Sensitivity |
+| [Psychic Healing](psychic-healing.md) | — | Cha 11, Psychic Sensitivity or the ability to cast psychic spells, Heal 3 ranks |
+| [Psychic Maestro](psychic-maestro.md) | — | Psychic Sensitivity or the ability to cast psychic spells |
+| [Psychic Sensitivity](psychic-sensitivity.md) | — | — |
+| [Psychic Virtuoso](psychic-virtuoso.md) | — | Psychic Sensitivity or ability to cast psychic spells |
+| [Rapid Focus Shift](rapid-focus-shift.md) | — | Caster level 5th, mental focus class ability |
+| [Ready for Battle](ready-for-battle.md) | — | Mesmerist trick class feature |
+| [Ready for Pain](ready-for-pain.md) | — | Mesmerist trick class feature |
+| [Scarring Spell](scarring-spell.md) | Metamagic | — |
+| [Shared Soul](shared-soul.md) | — | Shared consciousness class feature |
