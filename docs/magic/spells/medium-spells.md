@@ -1,0 +1,267 @@
+# Medium Spells
+
+Mediums gain access to the following spells. Spells without a link come from other sourcebooks that have not been added to this wiki yet. All spells are cast as psychic spells.
+
+## 0-Level Medium Spells
+
+- **[Bleed](bleed.md)**: Cause a stabilized creature to resume dying.
+- **[Dancing Lights](dancing-lights.md)**: Creates torches or other lights.
+- **[Daze](daze.md)**: A single humanoid creature with 4 HD or less loses its next action.
+- **[Detect Magic](detect-magic.md)**: Detects spells and magic items within 60 ft.
+- **[Detect Psychic Significance](detect-psychic-significance.md)**: Find psychically charged items.
+- **[Flare](flare.md)**: Dazzles one creature (–1 penalty on attack rolls).
+- **[Ghost Sound](ghost-sound.md)**: Figment sounds.
+- **[Grave Words](grave-words.md)**: Force a corpse to babble.
+- **[Guidance](guidance.md)**: +1 on one attack roll, saving throw, or skill check.
+- Haunted Fey Aspect
+- **[Light](light.md)**: Object shines like a torch.
+- **[Mage Hand](mage-hand.md)**: 5-pound telekinesis.
+- **[Message](message.md)**: Whisper conversation at distance.
+- **[Open/Close](open-close.md)**: Opens or closes small or light things.
+- **[Prestidigitation](prestidigitation.md)**: Performs minor tricks.
+- **[Read Magic](read-magic.md)**: Read scrolls and spellbooks.
+- **[Resistance](resistance.md)**: Subject gains +1 bonus on saving throws.
+- **[Sift](sift.md)**: See area as though examining it.
+- **[Stabilize](stabilize.md)**: Cause a dying creature to stabilize.
+- **[Virtue](virtue.md)**: Subject gains 1 temporary hp.
+
+## 1st-Level Medium Spells
+
+- **[Ant Haul](ant-haul.md)**: Triples carrying capacity of a creature.
+- **[Anticipate Peril](anticipate-peril.md)**: Target gains a bonus on one initiative check.
+- Bleed Glory
+- **[Borrow Skill](borrow-skill.md)**: Make a skill check using another’s ranks.
+- **[Burst of Insight](burst-of-insight.md)**: Gain a +8 bonus to Int, Wis, or Cha for one roll, then be dazed for 1 round.
+- **[Calm Spirit](calm-spirit.md)**: Postpone hostile action by a haunt or incorporeal undead.
+- **[Cause Fear](cause-fear.md)**: A creature of 5 HD or less flees for 1d4 rounds.
+- **[Charge Object](charge-object.md)**: Infuse psychic energy and ownership history into an item.
+- **[Command](command.md)**: One subject obeys a command for 1 round.
+- Compel Hostility
+- **[Comprehend Languages](comprehend-languages.md)**: You understand all spoken and written languages.
+- **[Confusion, Lesser](confusion-lesser.md)**: One creature is *confused* for 1 round.
+- **[Deathwatch](deathwatch.md)**: Reveals how near death subjects within 30 ft. are.
+- **[Decompose Corpse](decompose-corpse.md)**: Turn a corpse into a clean skeleton.
+- **[Decrepit Disguise](decrepit-disguise.md)**: Make an object seem worthless.
+- **[Delusional Pride](delusional-pride.md)**: Target is penalized on attacks and checks but gains bonus against charms and compulsions.
+- **[Detect Undead](detect-undead.md)**: Reveals undead within 60 ft.
+- **[Discern Next of Kin](discern-next-of-kin.md)**: Read the target’s mind to learn about its family.
+- **[Disguise Self](disguise-self.md)**: Changes your appearance.
+- **[Disguise Weapon](disguise-weapon.md)**
+- **[Ear-Piercing Scream](ear-piercing-scream.md)**: Deal sonic damage and daze target.
+- **[Enlarge Person](enlarge-person.md)**: Humanoid creature doubles in size.
+- **[Expeditious Retreat](expeditious-retreat.md)**: Your base speed increases by 30 ft.
+- **[Heightened Awareness](heightened-awareness.md)**: Your recall and ability to process information improve.
+- **[Identify](identify.md)**: Gives +10 bonus to identify magic items.
+- **[Ill Omen](ill-omen.md)**: Target rolls twice for checks and attacks and uses worst roll.
+- **[Invigorate](invigorate.md)**: Temporarily relieves fatigue or exhaustion.
+- Liberating Command
+- **[Long Arm](long-arm.md)**: Your arms lengthen, giving you extra reach.
+- **[Mindlink](mindlink.md)**: Communicate a great deal of information in an instant.
+- **[Murderous Command](murderous-command.md)**: Target is compelled to kill its ally.
+- Negative Reaction
+- **[Object Reading](object-reading.md)**: Read psychic impressions left on an object.
+- **[Oneiric Horror](oneiric-horror.md)**: Distract and fatigue the target with a creature from its nightmares.
+- **[Paranoia](paranoia.md)**: Target becomes hostile to all creatures.
+- **[Protection from Chaos](protection-from-chaos.md)**
+- **[Protection from Evil](protection-from-evil.md)**
+- **[Protection from Good](protection-from-good.md)**
+- **[Protection from Law](protection-from-law.md)**
+- **[Psychic Reading](psychic-reading.md)**: Read surface thoughts to learn information about a subject.
+- **[Quintessence](quintessence.md)**: Mask any flaws of or damage to a creature or object.
+- **[Reduce Person](reduce-person.md)**: Humanoid creature halves in size.
+- **[Remove Fear](remove-fear.md)**: Suppresses fear or gives +4 on saves against fear for one subject + one per four levels.
+- **[Restore Corpse](restore-corpse.md)**: Skeletal corpse grows f lesh.
+- Share Glory
+- **[Share Language](share-language.md)**: Subject understands chosen language.
+- **[Silent Image](silent-image.md)**: Creates minor illusion of your design.
+- **[Summon Minor Monster](summon-minor-monster.md)**: Summon 1d3 Tiny animals.
+- **[Summon Monster I](summon-monster-i.md)**: (Evil creatures only.) Summons extraplanar creature to fight for you.
+- **[True Strike](true-strike.md)**: +20 on your next attack roll.
+- Unerring Weapon
+- **[Unprepared Combatant](unprepared-combatant.md)**: Target takes –4 on initiative and Ref lex saves.
+- **[Unseen Servant](unseen-servant.md)**: Invisible force obeys your commands.
+- **[Ventriloquism](ventriloquism.md)**: Throws voice for 1 min./level.
+- **[Vocal Alteration](vocal-alteration.md)**: Disguise target’s voice.
+- Whispering Lore
+- **[Youthful Appearance](youthful-appearance.md)**: Target appears younger.
+
+## 2nd-Level Medium Spells
+
+- **[Aid](aid.md)**: +1 on attack rolls and saves against fear, 1d8 temporary hp +1/level (max +10).
+- **[Alter Self](alter-self.md)**: Assume form of a Small or Medium humanoid.
+- **[Analyze Aura](analyze-aura.md)**: Read a creature’s or an object’s alignment, emotion, health, and magic auras.
+- **[Apport Object](apport-object.md)**: Send or receive a small object via teleportation.
+- **[Augury](augury.md)**: Learns whether an action will be good or bad.
+- **[Bear’s Endurance](bears-endurance.md)**: Subject gains +4 to Con for 1 min./level.
+- **[Bestow Curse](bestow-curse.md)**: –6 to an ability score; –4 on attack rolls, saves, and checks; or 50% chance of losing each action.
+- Bestow Insight
+- Bestow Weapon Proficiency
+- **[Blood Biography](blood-biography.md)**: Learn about a creature with its blood.
+- **[Blur](blur.md)**: Attacks miss subject 20% of the time.
+- **[Bull’s Strength](bulls-strength.md)**: Subject gains +4 to Str for 1 min./level.
+- **[Cast Out](cast-out.md)**: Does 2d8 damage +1/level (max +15) to creature and dispels an effect.
+- **[Catatonia](catatonia.md)**: Make a willing target appear to be dead.
+- **[Cat’s Grace](cats-grace.md)**: Subject gains +4 to Dex for 1 min./level.
+- **[Clairaudience/Clairvoyance](clairaudience-clairvoyance.md)**: Hear or see at a distance for 1 min./level.
+- **[Cognitive Block](cognitive-block.md)**: Add a thought component to all of the target’s spells.
+- **[Compassionate Ally](compassionate-ally.md)**: Target is compelled to help injured ally.
+- **[Create Treasure Map](create-treasure-map.md)**
+- **[Darkvision](darkvision.md)**: See 60 ft. in total darkness.
+- **[Daze Monster](daze-monster.md)**: Living creature of 6 HD or less loses its next action.
+- **[Detect Mindscape](detect-mindscape.md)**: Sense the presence and attributes of mindscapes.
+- **[Detect Thoughts](detect-thoughts.md)**: Allows “listening” to surface thoughts.
+- **[Disguise Other](disguise-other.md)**: As disguise self, but affects you or another.
+- **[Eagle’s Splendor](eagles-splendor.md)**: Subject gains +4 to Cha for 1 min./ level.
+- **[Enshroud Thoughts](enshroud-thoughts.md)**: Ward yourself against thought detection and memory alteration.
+- **[Extreme Flexibility](extreme-flexibility.md)**: Gain a bonus to AC, on Escape Artist checks, and when grappling.
+- **[False Life](false-life.md)**: Gain 1d10 temporary hp + 1/level (max +10).
+- **[Find Traps](find-traps.md)**: Notice traps as a rogue does.
+- **[Focused Scrutiny](focused-scrutiny.md)**: Gain skill bonuses when interacting with the target.
+- **[Fox’s Cunning](foxs-cunning.md)**: Subject gains +4 to Int for 1 min./level.
+- **[Gentle Repose](gentle-repose.md)**: Preserves one corpse.
+- **[Ghostly Disguise](ghostly-disguise.md)**: You look like a ghost of yourself.
+- **[Haste](haste.md)**: One creature/level moves faster, +1 on attack rolls, AC, and Reflex saves.
+- **[Helping Hand](helping-hand.md)**: Ghostly hand leads subject to you.
+- **[Heroism](heroism.md)**: Gives +2 bonus on attack rolls, saves, skill checks.
+- **[Hidden Speech](hidden-speech.md)**: Gain +10 on Bluff to send secret messages.
+- **[Hideous Laughter](hideous-laughter.md)**: Subject loses actions for 1 round/level.
+- **[Hold Person](hold-person.md)**: Paralyzes one humanoid for 1 round/level.
+- Hostile Levitation
+- **[Hypercognition](hypercognition.md)**: Rapidly recall everything you know about a subject.
+- **[Inflict Pain](inflict-pain.md)**: Target takes a –4 penalty on attack rolls, skill checks, and ability checks.
+- **[Instigate Psychic Duel](instigate-psychic-duel.md)**: Start a psychic duel between yourself and another creature.
+- **[Investigative Mind](investigative-mind.md)**
+- **[Invisibility](invisibility.md)**: Subject is invisible for 1 min./level or until it attacks.
+- **[Knock](knock.md)**: Opens locked or magically sealed door.
+- Lend Path
+- **[Levitate](levitate.md)**: Subject moves up and down at your direction.
+- **[Locate Object](locate-object.md)**: Senses direction toward object (specific or type).
+- **[Magic Mouth](magic-mouth.md)**: Object speaks once when triggered.
+- Minor Dream
+- **[Minor Image](minor-image.md)**: As *silent image*, plus some sound.
+- **[Mirror Image](mirror-image.md)**: Creates decoy duplicates of you.
+- **[Misdirection](misdirection.md)**: Misleads divinations for 1 creature or object.
+- Mythic Severance
+- **[Nondetection](nondetection.md)**: Hides subject from divination, scrying.
+- **[Object Possession, Lesser](object-possession-lesser.md)**: Project your soul into an object, animating it.
+- **[Oneiric Horror, Greater](oneiric-horror-greater.md)**: As oneiric horror, plus Str damage.
+- **[Oppressive Boredom](oppressive-boredom.md)**: Target loses its next action.
+- **[Owl’s Wisdom](owls-wisdom.md)**: Subject gains +4 to Wis for 1 min./level.
+- Pilfering Hand
+- **[Placebo Effect](placebo-effect.md)**: Temporarily suppress an affliction or condition.
+- **[Purge Spirit](purge-spirit.md)**: Deal 1d6 points of damage per level to one haunt or spirit creature and stagger it.
+- Qualm
+- Restore Mythic Power
+- **[Riding Possession](riding-possession.md)**: As possession, but you observe instead of control the subject.
+- **[Rope Trick](rope-trick.md)**: As many as eight creatures hide in extradimensional space.
+- **[Scare](scare.md)**: Frightens creature of less than 6 HD.
+- **[Sealed Life](sealed-life.md)**: Prevent a creature from transferring life force to or from others.
+- **[Seek Thoughts](seek-thoughts.md)**: Detects thinking creatures’ thoughts.
+- **[Sessile Spirit](sessile-spirit.md)**: Cause a spirit inhabiting a creature or an object to go dormant.
+- **[Share Memory](share-memory.md)**: Share one memory with the target.
+- **[Slow](slow.md)**: One subject/level takes only one action/round, –1 to AC, Reflex saves, and attack rolls.
+- **[Speak with Dead](speak-with-dead.md)**: Corpse answers one question/two levels.
+- **[Speak with Haunt](speak-with-haunt.md)**: Haunt answers one question/2 levels.
+- **[Spectral Hand](spectral-hand.md)**: Creates disembodied glowing hand to deliver touch attacks.
+- **[Spider Climb](spider-climb.md)**: Grants ability to walk on walls and ceilings.
+- **[Spiritual Weapon](spiritual-weapon.md)**: Magic weapon attacks on its own.
+- **[Status](status.md)**: Monitors condition, position of allies.
+- **[Steal Voice](steal-voice.md)**: Target gains the croaking spellblight.
+- **[Suggestion](suggestion.md)**: Compels a subject to follow stated course of action.
+- **[Summon Monster II](summon-monster-ii.md)**: (Evil creatures only.) Summons extraplanar creature to fight for you.
+- Tactical Acumen
+- **[Tongues](tongues.md)**: Speak and understand any language.
+- **[Touch of Idiocy](touch-of-idiocy.md)**: Subject takes 1d6 penalty to Int, Wis, and Cha.
+- **[Water Walk](water-walk.md)**: Subject treads on water as if solid.
+- **[Whispering Wind](whispering-wind.md)**: Sends a short message 1 mile/level.
+- **[Zone of Truth](zone-of-truth.md)**: Subjects within range cannot lie.
+
+## 3rd-Level Medium Spells
+
+- **[Adjustable Disguise](adjustable-disguise.md)**
+- **[Apport Animal](apport-animal.md)**: Send or receive a Tiny or smaller animal via teleportation.
+- **[Aura Alteration](aura-alteration.md)**: Masks a creature’s or an object’s alignment, emotion, health, and magic auras.
+- **[Borrow Fortune](borrow-fortune.md)**: (Oracle only.) Retry attack or check, but do worse on next two.
+- Burst of Speed
+- **[Call Spirit](call-spirit.md)**: Make the spirit of one creature manifest.
+- **[Daze, Mass](daze-mass.md)**: As daze, but affecting multiple creatures.
+- **[Detect Scrying](detect-scrying.md)**: Alerts you to magical eavesdropping
+- **[Dimension Door](dimension-door.md)**: Teleports you a short distance.
+- **[Dimensional Anchor](dimensional-anchor.md)**: Bars extradimensional movement.
+- **[Discern Lies](discern-lies.md)**: Reveals deliberate falsehoods.
+- **[Dispel Magic](dispel-magic.md)**: Cancels one magical spell or effect.
+- **[Displacement](displacement.md)**: Attacks miss subject 50% of the time.
+- **[Divination](divination.md)**: Provides useful advice for specific proposed actions.
+- **[Dream](dream.md)**: Sends message to anyone sleeping.
+- **[Enter Image](enter-image.md)**: Transfers your consciousness to an object bearing your likeness.
+- **[Erase Impressions](erase-impressions.md)**: Erase psychic impressions from an object.
+- **[False Life, Greater](false-life-greater.md)**: Gain 2d10 temporary hp + 1/level.
+- **[Fly](fly.md)**: Subject flies at speed of 60 ft.
+- **[Gaseous Form](gaseous-form.md)**: Subject becomes insubstantial and can fly slowly.
+- **[Invisibility, Greater](invisibility-greater.md)**: As invisibility, but subject can attack and stay invisible.
+- **[Locate Creature](locate-creature.md)**: Indicates direction to familiar creature.
+- **[Magic Circle against Chaos](magic-circle-against-chaos.md)**
+- **[Magic Circle against Evil](magic-circle-against-evil.md)**
+- **[Magic Circle against Good](magic-circle-against-good.md)**
+- **[Magic Circle against Law](magic-circle-against-law.md)**
+- **[Major Image](major-image.md)**: As *silent image*, plus sound, smell and thermal effects.
+- **[Mind Probe](mind-probe.md)**: Learn answers from a subject’s memories.
+- **[Mind Swap](mind-swap.md)**: Switch minds with another creature for 1 hour per level.
+- **[Mindscape Door](mindscape-door.md)**: Create a portal allowing entry to and exit from a mindscape.
+- **[Node of Blasting](node-of-blasting.md)**: Place a trap on an object to mentally damage a creature that touches it.
+- Paragon Surge
+- **[Phantasmal Killer](phantasmal-killer.md)**: Fearsome illusion kills subject or deals 3d6 damage.
+- **[Pierce Disguise](pierce-disguise.md)**: See through low-level magical disguises.
+- **[Planar Ally, Lesser](planar-ally-lesser.md)**: Exchange services with a 6 HD extraplanar creature.
+- **[Possession](possession.md)**: Project your soul into a creature’s body.
+- **[Remove Curse](remove-curse.md)**: Frees object or person from curse.
+- **[Retrocognition](retrocognition.md)**: Gain psychic impressions from past events in a location.
+- **[Scrying](scrying.md)**: Spies on subject from a distance.
+- **[Sending](sending.md)**: Delivers short message anywhere, instantly.
+- **[Share Senses](share-senses.md)**: See/hear/smell what your familiar is.
+- **[Summon Monster IV](summon-monster-iv.md)**: (Evil creatures only.) Summons extraplanar creature to fight for you.
+- **[Thaumaturgic Circle](thaumaturgic-circle.md)**: As magic circle, but affecting a nonalignment subtype or outsider race.
+- **[Vampiric Touch](vampiric-touch.md)**: Touch deals 1d6 damage/2 levels; caster gains damage as temporary hp.
+- **[Witness](witness.md)**: See through the target’s eyes and ears.
+
+## 4th-Level Medium Spells
+
+- **[Adjustable Polymorph](adjustable-polymorph.md)**: As alter self; but you can change the shape as a swift action.
+- **[Battlemind Link](battlemind-link.md)**: You and an ally gain attack and AC bonuses.
+- **[Break Enchantment](break-enchantment.md)**: Frees subjects from enchantments, transmutations, and curses.
+- **[Command, Greater](command-greater.md)**: As *command,* but affects one subject/level.
+- **[Create Mindscape](create-mindscape.md)**: Form an immersive mindscape.
+- **[Darkvision, Greater](darkvision-greater.md)**: See 120 ft. in total darkness.
+- **[Death Ward](death-ward.md)**: Grants bonuses against death spells and negative energy.
+- Deathless
+- **[Dismissal](dismissal.md)**: Forces a creature to return to its native plane.
+- **[Dream Council](dream-council.md)**: Communicate with multiple sleeping creatures.
+- **[Dream Scan](dream-scan.md)**: Read a dreaming creature’s thoughts.
+- **[Entrap Spirit](entrap-spirit.md)**: Trap an incorporeal creature or a haunt in a mirror.
+- **[False Vision](false-vision.md)**: Fools scrying with an illusion.
+- **[Fear](fear.md)**: Subjects within cone flee for 1 round/level.
+- **[Feeblemind](feeblemind.md)**: Subject’s Int and Cha drop to 1.
+- **[Freedom of Movement](freedom-of-movement.md)**: Subject moves normally despite impediments to movement.
+- **[Hold Monster](hold-monster.md)**: As *hold person*, but any creature.
+- **[Inflict Pain, Mass](inflict-pain-mass.md)**: As inflict pain, but affecting one creature per level.
+- **[Legend Lore](legend-lore.md)**: Lets you learn tales about a person, place, or thing.
+- **[Mage’s Private Sanctum](mages-private-sanctum.md)**: Prevents anyone from viewing or scrying an area for 24 hours.
+- **[Mindwipe](mindwipe.md)**: Erase a portion of the target’s mind and experiences, inflicting negative levels.
+- **[Modify Memory](modify-memory.md)**: Changes 5 minutes of subject’s memories.
+- **[Nightmare](nightmare.md)**: Sends vision dealing 1d10 damage, fatigue.
+- **[Object Possession](object-possession.md)**: As lesser object possession, but with a larger object.
+- **[Persistent Image](persistent-image.md)**: As *major image*, but with no concentration required.
+- **[Planar Adaptation](planar-adaptation.md)**: Resist harmful effects of other plane.
+- **[Planar Binding, Lesser](planar-binding-lesser.md)**: Traps extraplanar creature of 6 HD or less until it performs a task.
+- **[Plane Shift](plane-shift.md)**: As many as eight subjects travel to another plane.
+- **[Reincarnate](reincarnate.md)**: Brings dead subject back in a random body.
+- **[Remote Viewing](remote-viewing.md)**: Gain psychic impressions from a distant location.
+- **[Seeming](seeming.md)**: Changes appearance of 1 person per 2 levels.
+- **[Spirit-Bound Blade](spirit-bound-blade.md)**: Give a weapon ghost touch and another ability tied to an emotion.
+- **[Spiritual Ally](spiritual-ally.md)**: Creates a divine ally to aid you.
+- **[Summon Monster V](summon-monster-v.md)**: Summons extraplanar creature to fight for you.
+- **[Telepathic Bond](telepathic-bond.md)**: Link lets allies communicate.
+- **[Telepathy](telepathy.md)**: Communicate mentally with creatures within 100 ft.
+- **[Teleport](teleport.md)**: Instantly transports you as far as 100 miles per level.
+- **[Thoughtsense](thoughtsense.md)**: Automatically detect nearby conscious creatures.
+- **[True Seeing](true-seeing.md)**: Lets you see all things as they really are.

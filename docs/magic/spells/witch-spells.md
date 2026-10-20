@@ -29,14 +29,20 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 
 ## 2nd-Level Witch Spells
 
+- **[Anticipate Thoughts](anticipate-thoughts.md)**: Gain increasing bonuses to AC and on attack rolls and damage rolls against one creature.
+- **[Apport Object](apport-object.md)**: Send or receive a small object via teleportation.
 - **[Blood Transcription](blood-transcription.md)**: Learn a spell from the target’s blood.
 - **[Boiling Blood](boiling-blood.md)**: Targets take fire damage; orcs get +2 Strength.
 - **[Delay Pain](delay-pain.md)**: Ignore pain for 1 hour/level. Disfiguring Touch : Target becomes disfigured.
+- **[Demand Offering](demand-offering.md)**: Make a creature give you an object it’s holding.
+- **[Enshroud Thoughts](enshroud-thoughts.md)**: Ward yourself against thought detection and memory alteration.
+- **[Ghost Whip](ghost-whip.md)**: Create a ghost touch whip that passes through objects.
 - **[Ghostly Disguise](ghostly-disguise.md)**: You look like a ghost of yourself.
 - **[Haunting Mists](haunting-mists.md)**: Creatures are shaken and take Wis damage.
 - **[Mad Hallucination](mad-hallucination.md)**: Target takes penalties to mental actions.
 - **[Masterwork Transformation](masterwork-transformation.md)**: Make a normal item into a masterwork one.
 - **[Miserable Pity](miserable-pity.md)**: Opponents cannot attack a pathetic creature.
+- **[Paranoia](paranoia.md)**: Target becomes hostile to all creatures.
 - **[Pernicious Poison](pernicious-poison.md)**: Target takes a –4 penalty against poison.
 - **[Protective Penumbra](protective-penumbra.md)**: Shadow protects the target from light.
 - **[Share Memory](share-memory.md)**: Share one memory with the target.
@@ -52,13 +58,18 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 ## 3rd-Level Witch Spells
 
 - **[Anthropomorphic Animal](anthropomorphic-animal.md)**: Animal becomes bipedal.
+- **[Apport Animal](apport-animal.md)**: Send or receive a Tiny or smaller animal via teleportation.
 - **[Ash Storm](ash-storm.md)**: Hamper vision and movement.
+- **[Aversion](aversion.md)**: Cause the target to avoid an object or location.
+- **[Babble](babble.md)**: Target becomes nauseated and nearby creatures become fascinated.
 - **[Cackling Skull](cackling-skull.md)**: Skull acts as magic mouth, listeners are shaken.
+- **[Catatonia](catatonia.md)**: Make a willing target appear to be dead.
 - **[Countless Eyes](countless-eyes.md)**: Extra eyes give all-around vision.
 - **[Eldritch Fever](eldritch-fever.md)**: Target gains the eldritch ague spellblight.
 - **[Eruptive Pustules](eruptive-pustules.md)**: Acid boils burst when you are attacked.
 - **[Excruciating Deformation](excruciating-deformation.md)**: Target takes Dex and Con damage.
 - **[Howling Agony](howling-agony.md)**: Screaming pain limits the target’s actions.
+- **[Inflict Pain](inflict-pain.md)**: Target takes a –4 penalty on attack rolls, skill checks, and ability checks.
 - **[Ki Leech](ki-leech.md)**: Add to your ki pool when you critically hit.
 - **[Loathsome Veil](loathsome-veil.md)**: Nauseates and/or sickens weak creatures.
 - **[Marionette Possession](marionette-possession.md)**: As magic jar, but limited to line of sight.
@@ -81,7 +92,10 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[False Life, Greater](false-life-greater.md)**: Gain 2d10 temporary hp + 1/level.
 - **[Familiar Melding](familiar-melding.md)**: Possess your familiar.
 - **[Fleshworm Infestation](fleshworm-infestation.md)**: Worms deal hp and Dex damage.
+- **[Object Possession, Lesser](object-possession-lesser.md)**: Project your soul into an object, animating it.
+- **[Purge Spirit](purge-spirit.md)**: Deal 1d6 points of damage per level to one haunt or spirit creature and stagger it.
 - **[Ride the Waves](ride-the-waves.md)**: Target can breathe water and swim.
+- **[Riding Possession](riding-possession.md)**: As possession, but you observe instead of control the subject.
 - **[Shadow Step](shadow-step.md)**: Teleport from one shadow to another.
 - **[Symbol of Healing](symbol-of-healing.md)**: Triggered rune heals living creatures.
 - **[Symbol of Revelation](symbol-of-revelation.md)**: Triggered symbol reveals illusions.
@@ -95,8 +109,11 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Contagion, Greater](contagion-greater.md)**: Infect a subject with a magical disease.
 - **[Curse of Disgust](curse-of-disgust.md)**: Target is sickened while viewing trigger.
 - **[Curse, Major](curse-major.md)**: As bestow curse, but harder to remove.
+- **[Object Possession](object-possession.md)**: As lesser object possession, but with a larger object.
 - **[Plague Carrier](plague-carrier.md)**: Target’s attacks carry filth fever.
 - **[Possess Object](possess-object.md)**: Possess and animate one object.
+- **[Possession](possession.md)**: Project your soul into a creature’s body.
+- **[Sessile Spirit](sessile-spirit.md)**: Cause a spirit inhabiting a creature or an object to go dormant.
 - **[Smug Narcissism](smug-narcissism.md)**: Target is distracted by its sense of self.
 - **[Symbol of Scrying](symbol-of-scrying.md)**: Triggered rune activates scrying sensor.
 - **[Whip of Centipedes](whip-of-centipedes.md)**: As whip of spiders, but with centipedes.
@@ -106,6 +123,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Age Resistance](age-resistance.md)**: Ignore penalties from old age.
 - **[Epidemic](epidemic.md)**: Infect a subject with a highly contagious disease.
 - **[Ice Crystal Teleport](ice-crystal-teleport.md)**: Target is frozen, then teleported.
+- **[Mind Swap](mind-swap.md)**: Switch minds with another creature for 1 hour per level.
 - **[Plague Storm](plague-storm.md)**: Cloud infects creatures like contagion.
 - **[Symbol of Sealing](symbol-of-sealing.md)**: Create triggered wall of force.
 - **[Vengeful Outrage](vengeful-outrage.md)**: Target is compelled to destroy one enemy.
@@ -116,14 +134,20 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Age Resistance, Greater](age-resistance-greater.md)**: Ignore penalties from venerable age.
 - **[Create Demiplane, Lesser](create-demiplane-lesser.md)**: Create your own demiplane.
 - **[Ice Body](ice-body.md)**: Your body becomes living ice.
+- **[Inflict Pain, Mass](inflict-pain-mass.md)**: As inflict pain, but affecting one creature per level.
 - **[Lunar Veil](lunar-veil.md)**: Dispel light and revert lycanthropes.
+- **[Object Possession, Greater](object-possession-greater.md)**: As possess object, but the object is more powerful and you can possess a construct.
+- **[Primal Regression](primal-regression.md)**: Make a creature become bestial and unintelligent.
 - **[Scouring Winds](scouring-winds.md)**: Winds block vision and deal 3d6 damage per round.
+- **[Shadow Body](shadow-body.md)**: Turn your body into a living shadow.
 - **[Temporary Resurrection](temporary-resurrection.md)**: Bring a creature to life for 24 hours.
 - **[Waves of Ecstasy](waves-of-ecstasy.md)**: Pleasure stuns and staggers creatures.
+- **[Withdraw Affliction](withdraw-affliction.md)**: Remove an affliction and inflict it on another creature.
 
 ## 8th-Level Witch Spells
 
 - **[Create Demiplane](create-demiplane.md)**: As lesser create demiplane, but larger and with planar traits.
+- **[Possession, Greater](possession-greater.md)**: As possession, but your body vanishes.
 - **[Prediction of Failure](prediction-of-failure.md)**: Target is permanently shaken and sickened, and may gain a spellblight.
 
 ## 9th-Level Witch Spells

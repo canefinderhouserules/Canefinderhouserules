@@ -19,6 +19,7 @@ New summoner spells from *Ultimate Magic*. Spells from other books will be added
 ## 3rd-Level Summoner Spells
 
 - **[Agonize](agonize.md)**: Pain encourages an outsider to obey you.
+- **[Apport Animal](apport-animal.md)**: Send or receive a Tiny or smaller animal via teleportation.
 - **[Control Summoned Creature](control-summoned-creature.md)**: Direct a summoned monster as if you had summoned it.
 - **[Mad Monkeys](mad-monkeys.md)**: Summon a swarm of mischievous monkeys.
 - **[Marionette Possession](marionette-possession.md)**: As magic jar, but limited to line of sight.
@@ -28,6 +29,8 @@ New summoner spells from *Ultimate Magic*. Spells from other books will be added
 ## 4th-Level Summoner Spells
 
 - **[Daze, Mass](daze-mass.md)**: As daze, but affecting multiple creatures.
+- **[Riding Possession](riding-possession.md)**: As possession, but you observe instead of control the subject.
+- **[Thaumaturgic Circle](thaumaturgic-circle.md)**: As magic circle, but affecting a nonalignment subtype or outsider race.
 - **[Vitriolic Mist](vitriolic-mist.md)**: As fire shield, except acid damage.
 
 ## 5th-Level Summoner Spells
@@ -35,6 +38,8 @@ New summoner spells from *Ultimate Magic*. Spells from other books will be added
 - **[Conjure Black Pudding](conjure-black-pudding.md)**: Summon a black pudding.
 - **[Create Demiplane, Lesser](create-demiplane-lesser.md)**: Create your own demiplane.
 - **[Ice Crystal Teleport](ice-crystal-teleport.md)**: Target is frozen, then teleported.
+- **[Mind Swap](mind-swap.md)**: Switch minds with another creature for 1 hour per level.
+- **[Possession](possession.md)**: Project your soul into a creature’s body.
 - **[Whip of Centipedes](whip-of-centipedes.md)**: As whip of spiders, but with centipedes.
 
 ## 6th-Level Summoner Spells

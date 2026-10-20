@@ -54,6 +54,7 @@ Shamans gain access to the following spells. Spells in plain text come from othe
 - **[Inflict Light Wounds](inflict-light-wounds.md)**: Touch deals 1d8 damage +1/level (max +5).
 - **[Magic Stone](magic-stone.md)**: Three stones gain +1 on attack rolls, deal 1d6+1 damage.
 - **[Magic Weapon](magic-weapon.md)**: Weapon gains +1 bonus.
+- **[Mindlink](mindlink.md)**: Communicate a great deal of information in an instant.
 - **[Monkey Fish](monkey-fish.md)**: Gain a climb speed and a swim speed of 10 ft. for a time.
 - **[Obscuring Mist](obscuring-mist.md)**: Fog surrounds you.
 - **[Pass without Trace](pass-without-trace.md)**: One subject/level leaves no tracks.
@@ -81,12 +82,14 @@ Shamans gain access to the following spells. Spells in plain text come from othe
 - **[Buoyancy](buoyancy.md)**: Targets easily float on water.
 - **[Burning Gaze](burning-gaze.md)**: Inflict 1d6 fire damage to creature.
 - **[Calm Emotions](calm-emotions.md)**: Calms creatures, negating emotion effects.
+- **[Calm Spirit](calm-spirit.md)**: Postpone hostile action by a haunt or incorporeal undead.
 - Commune with Birds
 - **[Cure Moderate Wounds](cure-moderate-wounds.md)**: Cures 2d8 damage +1/level (max. +10).
 - **[Darkness](darkness.md)**: 20-ft. radius of supernatural shadow.
 - **[Delay Poison](delay-poison.md)**: Stops poison from harming subject for 1 hour/level.
 - **[Eagle Eye](eagle-eye.md)**: Creates a magical sensor high above you.
 - **[Eagle’s Splendor](eagles-splendor.md)**: Subject gains +4 to Cha for 1 min./ level.
+- **[Enshroud Thoughts](enshroud-thoughts.md)**: Ward yourself against thought detection and memory alteration.
 - **[Enthrall](enthrall.md)**: Captivates all within 100 ft. + 10 ft./level.
 - **[False Life](false-life.md)**: Gain 1d10 temporary hp + 1/level (max +10).
 - **[Flame Blade](flame-blade.md)**: Touch attack deals 1d8 + 1/two levels damage.
@@ -131,6 +134,7 @@ Shamans gain access to the following spells. Spells in plain text come from othe
 - **[Deep Slumber](deep-slumber.md)**: Puts 10 HD of creatures to sleep.
 - **[Dispel Magic](dispel-magic.md)**: Cancels one magical spell or effect.
 - **[Dominate Animal](dominate-animal.md)**: One animal obeys your silent mental commands and orders.
+- **[Ectoplasmic Snare](ectoplasmic-snare.md)**: Tendril of ectoplasm grapples a creature and tethers you to it.
 - Fins to Feet
 - **[Fly](fly.md)**: Subject flies at speed of 60 ft.
 - **[Font of Spirit Magic](font-of-spirit-magic.md)**
@@ -194,9 +198,11 @@ Shamans gain access to the following spells. Spells in plain text come from othe
 - **[Sands of Time](sands-of-time.md)**: Target temporarily ages.
 - **[Scrying](scrying.md)**: Spies on subject from a distance.
 - **[Sending](sending.md)**: Delivers short message anywhere, instantly.
+- **[Sessile Spirit](sessile-spirit.md)**: Cause a spirit inhabiting a creature or an object to go dormant.
 - **[Slowing Mud](slowing-mud.md)**: Targets are covered in mud that blinds them and acts like slow.
 - **[Solid Fog](solid-fog.md)**: Blocks vision and slows movement.
 - **[Spike Stones](spike-stones.md)**: Creatures in area take 1d8 damage, may also be slowed*.*
+- **[Spirit-Bound Blade](spirit-bound-blade.md)**: Give a weapon ghost touch and another ability tied to an emotion.
 - **[Spit Venom](spit-venom.md)**: Spit blinding black adder venom.
 - **[Thorn Body](thorn-body.md)**: Your attackers take 1d6 +1 damage/level.
 - **[Tongues](tongues.md)**: Speak and understand any language.
@@ -210,6 +216,7 @@ Shamans gain access to the following spells. Spells in plain text come from othe
 - **[Break Enchantment](break-enchantment.md)**: Frees subjects from enchantments, transmutations, and curses.
 - **[Breath of Life](breath-of-life.md)**: Cures 5d8 damage + 1/level and restores life to recently slain creatures.
 - **[Call Lightning Storm](call-lightning-storm.md)**: As *call lightning,* but 5d6 damage per bolt.
+- **[Call Spirit](call-spirit.md)**: Make the spirit of one creature manifest.
 - **[Commune](commune.md)**: Deity answers one yes-or-no question/level.
 - **[Commune with Nature](commune-with-nature.md)**: Learn about terrain for 1 mile/level.
 - **[Control Winds](control-winds.md)**: Changes wind direction and speed.
@@ -235,6 +242,7 @@ Shamans gain access to the following spells. Spells in plain text come from othe
 
 - **[Antilife Shell](antilife-shell.md)**: 10-ft.-radius field hedges out living creatures.
 - **[Awaken](awaken.md)**: Animal or tree gains human intellect.
+- **[Awaken Construct](awaken-construct.md)**
 - **[Banishment](banishment.md)**: Banishes 2 HD/level of extraplanar creatures.
 - **[Bear’s Endurance, Mass](bears-endurance-mass.md)**: As *bear’s endurance*, affects 1 subject/level.
 - **[Bull’s Strength, Mass](bulls-strength-mass.md)**: As *bull’s strength*, affects 1 subject/level.
@@ -249,11 +257,13 @@ Shamans gain access to the following spells. Spells in plain text come from othe
 - **[Inflict Moderate Wounds, Mass](inflict-moderate-wounds-mass.md)**: Deals 2d8 damage + 1/level, affects 1 subject/level.
 - **[Owl’s Wisdom, Mass](owls-wisdom-mass.md)**: As *owl’s wisdom*, affects 1 subject/level.
 - **[Planar Ally](planar-ally.md)**: As *lesser planar ally,* but up to 12 HD.
+- **[Primal Regression](primal-regression.md)**: Make a creature become bestial and unintelligent.
 - **[Raise Dead](raise-dead.md)**: Restores life to subject who died as long as one day/level ago.
 - **[Slay Living](slay-living.md)**: Touch attack deals 12d6 +1 per level.
 - **[Snake Staff](snake-staff.md)**: Transforms wood into snakes to fight for you.
 - **[Stone to Flesh](stone-to-flesh.md)**: Restores petrified creature.
 - **[Wall of Stone](wall-of-stone.md)**: Creates a stone wall that can be shaped.
+- **[Withdraw Affliction](withdraw-affliction.md)**: Remove an affliction and inflict it on another creature.
 
 ## 7th-Level Shaman Spells
 

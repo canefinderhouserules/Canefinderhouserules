@@ -13,7 +13,9 @@ New alchemist spells from *Ultimate Magic*. Spells from other books will be adde
 
 - **[Acute Senses](acute-senses.md)**: Subject gains a bonus on Perception checks.
 - **[Blood Transcription](blood-transcription.md)**: Learn a spell from the target’s blood.
+- **[Catatonia](catatonia.md)**: Make a willing target appear to be dead.
 - **[Defensive Shock](defensive-shock.md)**: Electricity damages your attackers.
+- **[Enshroud Thoughts](enshroud-thoughts.md)**: Ward yourself against thought detection and memory alteration.
 - **[Ghostly Disguise](ghostly-disguise.md)**: You look like a ghost of yourself.
 - **[Skinsend](skinsend.md)**: Animate and possess your own skin as if it were a separate creature.
 
@@ -23,6 +25,7 @@ New alchemist spells from *Ultimate Magic*. Spells from other books will be adde
 - **[Burrow](burrow.md)**: Target gains a burrow speed of 15.
 - **[Countless Eyes](countless-eyes.md)**: Extra eyes give all-around vision.
 - **[Eruptive Pustules](eruptive-pustules.md)**: Acid boils burst when you are attacked.
+- **[Hypercognition](hypercognition.md)**: Rapidly recall everything you know about a subject.
 - **[Marionette Possession](marionette-possession.md)**: As magic jar, but limited to line of sight.
 - **[Monstrous Physique I](monstrous-physique-i.md)**: Take the form and some of the powers of a Small or Medium monstrous humanoid.
 - **[Undead Anatomy I](undead-anatomy-i.md)**: Take the form and some of the powers of a Small or Medium undead.

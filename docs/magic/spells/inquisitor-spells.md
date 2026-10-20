@@ -20,16 +20,23 @@ New inquisitor spells from *Ultimate Magic*. Spells from other books will be add
 ## 2nd-Level Inquisitor Spells
 
 - **[Acute Senses](acute-senses.md)**: Subject gains a bonus on Perception checks.
+- **[Anticipate Thoughts](anticipate-thoughts.md)**: Gain increasing bonuses to AC and on attack rolls and damage rolls against one creature.
 - **[Delay Pain](delay-pain.md)**: Ignore pain for 1 hour/level.
+- **[Demand Offering](demand-offering.md)**: Make a creature give you an object it’s holding.
 - **[Disguise Other](disguise-other.md)**: As disguise self, but affects you or another.
 - **[Distressing Tone](distressing-tone.md)**: Sound sickens 1d4 creatures.
+- **[Enshroud Thoughts](enshroud-thoughts.md)**: Ward yourself against thought detection and memory alteration.
+- **[Ghost Whip](ghost-whip.md)**: Create a ghost touch whip that passes through objects.
 - **[Ghostly Disguise](ghostly-disguise.md)**: You look like a ghost of yourself.
 - **[Howling Agony](howling-agony.md)**: Screaming pain limits the target’s actions.
+- **[Inflict Pain](inflict-pain.md)**: Target takes a –4 penalty on attack rolls, skill checks, and ability checks.
+- **[Psychic Reading](psychic-reading.md)**: Read surface thoughts to learn information about a subject.
 - **[Surmount Affliction](surmount-affliction.md)**: Temporarily suppress one condition.
 
 ## 3rd-Level Inquisitor Spells
 
 - **[Blessing of the Mole](blessing-of-the-mole.md)**: 1 ally/level gains darkvision and a +2 Stealth bonus.
+- **[Contagious Zeal](contagious-zeal.md)**: Grant bonuses and temporary hit points that spread from creature to creature.
 - **[Countless Eyes](countless-eyes.md)**: Extra eyes give all-around vision.
 - **[Eldritch Fever](eldritch-fever.md)**: Target gains the eldritch ague spellblight.
 - **[Terrible Remorse](terrible-remorse.md)**: Creature is compelled to harm itself.
@@ -43,15 +50,20 @@ New inquisitor spells from *Ultimate Magic*. Spells from other books will be add
 - **[Fleshworm Infestation](fleshworm-infestation.md)**: Worms deal hp and Dex damage.
 - **[Interrogation, Greater](interrogation-greater.md)**: As interrogation, except with more pain and more questions. Leashed Shackles : Target is restricted to a specific location.
 - **[Reprobation](reprobation.md)**: Marked target is shunned by your religion.
+- **[Sessile Spirit](sessile-spirit.md)**: Cause a spirit inhabiting a creature or an object to go dormant.
+- **[Thaumaturgic Circle](thaumaturgic-circle.md)**: As magic circle, but affecting a nonalignment subtype or outsider race.
 
 ## 5th-Level Inquisitor Spells
 
 - **[Divine Pursuit](divine-pursuit.md)**: Gain a movement type of your prey.
 - **[Forbid Action, Greater](forbid-action-greater.md)**: As forbid action, but 1 creature/level. Lend Greater Judgment: Ally receives all your judgments.
+- **[Foster Hatred](foster-hatred.md)**: Cause creatures to hate one type of creature.
+- **[Inflict Pain, Mass](inflict-pain-mass.md)**: As inflict pain, but affecting one creature per level.
 
 ## 6th-Level Inquisitor Spells
 
 - **[Overwhelming Presence](overwhelming-presence.md)**: Creatures bow before you as if you were divine.
+- **[Unshakable Zeal](unshakable-zeal.md)**: Grant benefits on future attempts after failed checks, and protect against fear and emotion effects.
 
 ## Advanced Player's Guide Spells
 

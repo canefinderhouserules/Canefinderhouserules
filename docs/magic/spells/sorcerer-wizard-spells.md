@@ -54,9 +54,13 @@
 **Abjuration**
 
 - **[Alarm](alarm.md)**: Wards an area for 2 hours/level.
+- **[Decrepit Disguise](decrepit-disguise.md)**: Make an object seem worthless.
+- **[Deja Vu](deja-vu.md)**: Make a creature repeat its actions.
 - **[Endure Elements](endure-elements.md)**: Exist comfortably in hot or cold regions.
 - **[Hold Portal](hold-portal.md)**: Holds door shut.
+- **[Mindlink](mindlink.md)**: Communicate a great deal of information in an instant.
 - **[Protection from Chaos](protection-from-chaos.md)/[Protection from Evil](protection-from-evil.md)/[Protection from Good](protection-from-good.md)/[Protection from Law](protection-from-law.md)**: +2 to AC and saves, plus additional protection against selected alignment.
+- **[Quintessence](quintessence.md)**: Mask any flaws of or damage to a creature or object.
 - **[Shield](shield.md)**: Invisible disc gives +4 to AC, blocks *magic missiles.*
 
 **Conjuration**
@@ -119,9 +123,15 @@
 
 **Abjuration**
 
+- **[Anticipate Thoughts](anticipate-thoughts.md)**: Gain increasing bonuses to AC and on attack rolls and damage rolls against one creature.
+- **[Apport Object](apport-object.md)**: Send or receive a small object via teleportation.
 - **[Arcane Lock](arcane-lock.md)**: Magically locks a portal or chest.
+- **[Demand Offering](demand-offering.md)**: Make a creature give you an object it’s holding.
+- **[Ghost Whip](ghost-whip.md)**: Create a ghost touch whip that passes through objects.
 - **[Obscure Object](obscure-object.md)**: Masks object against scrying.
+- **[Paranoia](paranoia.md)**: Target becomes hostile to all creatures.
 - **[Protection from Arrows](protection-from-arrows.md)**: Subject gains DR 10/magic against ranged attacks.
+- **[Psychic Reading](psychic-reading.md)**: Read surface thoughts to learn information about a subject.
 - **[Resist Energy](resist-energy.md)**: Ignores first 10 (or more) points of damage per attack from specified energy type.
 
 **Conjuration**
@@ -197,10 +207,19 @@
 
 **Abjuration**
 
+- **[Apport Animal](apport-animal.md)**: Send or receive a Tiny or smaller animal via teleportation.
+- **[Aversion](aversion.md)**: Cause the target to avoid an object or location.
+- **[Babble](babble.md)**: Target becomes nauseated and nearby creatures become fascinated.
+- **[Catatonia](catatonia.md)**: Make a willing target appear to be dead.
+- **[Contagious Zeal](contagious-zeal.md)**: Grant bonuses and temporary hit points that spread from creature to creature.
+- **[Detect Mindscape](detect-mindscape.md)**: Sense the presence and attributes of mindscapes.
 - **[Dispel Magic](dispel-magic.md)**: Cancels one magical spell or effect.
+- **[Ectoplasmic Snare](ectoplasmic-snare.md)**: Tendril of ectoplasm grapples a creature and tethers you to it.
 - **[Explosive Runes](explosive-runes.md)**: Deals 6d6 damage when read.
+- **[Inflict Pain](inflict-pain.md)**: Target takes a –4 penalty on attack rolls, skill checks, and ability checks.
 - **[Magic Circle against Chaos](magic-circle-against-chaos.md)/[Magic Circle against Evil](magic-circle-against-evil.md)/[Magic Circle against Good](magic-circle-against-good.md)/[Magic Circle against Law](magic-circle-against-law.md)**: As *protection* spells, but 10-ft. radius and 10 min./level.
 - **[Nondetection](nondetection.md)**: Hides subject from divination, scrying.
+- **[Oneiric Horror](oneiric-horror.md)**: Distract and fatigue the target with a creature from its nightmares.
 - **[Protection from Energy](protection-from-energy.md)**: Absorbs 12 points/level of damage from one kind of energy.
 
 **Conjuration**
@@ -270,7 +289,13 @@
 - **[Dimensional Anchor](dimensional-anchor.md)**: Bars extradimensional movement.
 - **[Fire Trap](fire-trap.md)**: Opened object deals 1d4 damage + 1/level.
 - **[Globe of Invulnerability, Lesser](globe-of-invulnerability-lesser.md)**: Stops 1st- through 3rd- level spell effects.
+- **[Hypercognition](hypercognition.md)**: Rapidly recall everything you know about a subject.
+- **[Mindscape Door](mindscape-door.md)**: Create a portal allowing entry to and exit from a mindscape.
+- **[Mindwipe](mindwipe.md)**: Erase a portion of the target’s mind and experiences, inflicting negative levels.
+- **[Object Possession, Lesser](object-possession-lesser.md)**: Project your soul into an object, animating it.
+- **[Purge Spirit](purge-spirit.md)**: Deal 1d6 points of damage per level to one haunt or spirit creature and stagger it.
 - **[Remove Curse](remove-curse.md)**: Frees object or person from curse.
+- **[Riding Possession](riding-possession.md)**: As possession, but you observe instead of control the subject.
 - **[Stoneskin](stoneskin.md)**: Grants DR 10/adamantine.
 
 **Conjuration**
@@ -302,6 +327,8 @@
 - **[Ice Storm](ice-storm.md)**: Hail deals 5d6 damage in cylinder 40 ft. across.
 - **[Resilient Sphere](resilient-sphere.md)**: Force globe protects but traps one subject.
 - **[Shout](shout.md)**: Deafens all within cone and deals 5d6 sonic damage.
+- **[Telekinetic Maneuver](telekinetic-maneuver.md)**: Perform a telekinetic combat maneuver.
+- **[Thaumaturgic Circle](thaumaturgic-circle.md)**: As magic circle, but affecting a nonalignment subtype or outsider race.
 - **[Wall of Fire](wall-of-fire.md)**: Deals 2d4 fire damage out to 10 ft. and 1d4 out to 20 ft. Passing through wall deals 2d6 damage + 1/level.
 - **[Wall of Ice](wall-of-ice.md)**: *Ice plane* creates wall or *hemisphere* creates dome.
 
@@ -336,6 +363,8 @@
 **Abjuration**
 
 - **[Break Enchantment](break-enchantment.md)**: Frees subjects from enchantments, transmutations, and curses.
+- **[Condensed Ether](condensed-ether.md)**: Creates a planar conjunction that slows movement, penalizes AC and Reflex saves, and imposes a miss chance on ranged attacks.
+- **[Create Mindscape](create-mindscape.md)**: Form an immersive mindscape.
 - **[Dismissal](dismissal.md)**: Forces a creature to return to its native plane.
 - **[Mage’s Private Sanctum](mages-private-sanctum.md)**: Prevents anyone from viewing or scrying an area for 24 hours.
 
@@ -344,10 +373,17 @@
 - **[Cloudkill](cloudkill.md)**: Kills 3 HD or less; 4–6 HD save or die, 6+ HD take Con damage.
 - **[Mage’s Faithful Hound](mages-faithful-hound.md)**: Phantom dog can guard a location and attack intruders.
 - **[Major Creation](major-creation.md)**: As *minor creation,* plus stone and metal.
+- **[Mind Probe](mind-probe.md)**: Learn answers from a subject’s memories.
+- **[Object Possession](object-possession.md)**: As lesser object possession, but with a larger object.
+- **[Oneiric Horror, Greater](oneiric-horror-greater.md)**: As oneiric horror, plus Str damage.
+- **[Parchment Swarm](parchment-swarm.md)**
 - **[Planar Binding, Lesser](planar-binding-lesser.md)**: Traps extraplanar creature of 6 HD or less until it performs a task.
+- **[Possession](possession.md)**: Project your soul into a creature’s body.
 - **[Secret Chest](secret-chest.md)**: Hides expensive chest on Ethereal Plane; you retrieve it at will.
 - **[Summon Monster V](summon-monster-v.md)**: Summons extraplanar creature to fight for you.
 - **[Teleport](teleport.md)**: Instantly transports you as far as 100 miles per level.
+- **[Thoughtsense](thoughtsense.md)**: Automatically detect nearby conscious creatures.
+- **[Wall of Ectoplasm](wall-of-ectoplasm.md)**: Wall of spirits blocks movement on the Material Plane and Ethereal Plane and causes fear.
 - **[Wall of Stone](wall-of-stone.md)**: Creates a stone wall that can be shaped.
 
 **Divination**
@@ -414,8 +450,12 @@
 
 - **[Antimagic Field](antimagic-field.md)**: Negates magic within 10 ft.
 - **[Dispel Magic, Greater](dispel-magic-greater.md)**: As *dispel magic*, but with multiple targets.
+- **[Dream Scan](dream-scan.md)**: Read a dreaming creature’s thoughts.
+- **[Explode Head](explode-head.md)**: Explode the head of a creature with 20 hp or fewer and deal damage in a 10-ft. radius around it.
 - **[Globe of Invulnerability](globe-of-invulnerability.md)**: As *lesser globe of invulnerability*, plus 4th-level spell effects.
 - **[Guards and Wards](guards-and-wards.md)**: Array of magic effects protect area.
+- **[Mind Swap](mind-swap.md)**: Switch minds with another creature for 1 hour per level.
+- **[Psychic Asylum](psychic-asylum.md)**: Perform a lengthy mental task in a private mindscape.
 - **[Repulsion](repulsion.md)**: Creatures can’t approach you.
 
 **Conjuration**
@@ -423,6 +463,7 @@
 - **[Acid Fog](acid-fog.md)**: Fog deals acid damage.
 - **[Planar Binding](planar-binding.md)**: As *lesser planar binding,* but up to 12 HD.
 - **[Summon Monster VI](summon-monster-vi.md)**: Summons extraplanar creature to fight for you.
+- **[Telepathy](telepathy.md)**: Communicate mentally with creatures within 100 ft.
 - **[Wall of Iron](wall-of-iron.md)**: 30 hp/four levels; can topple onto foes.
 
 **Divination**
@@ -486,8 +527,15 @@
 
 **Abjuration**
 
+- **[Awaken Construct](awaken-construct.md)**
 - **[Banishment](banishment.md)**: Banishes 2 HD/level of extraplanar creatures.
+- **[Create Mindscape, Greater](create-mindscape-greater.md)**: As create mindscape, but affecting more creatures, having a longer duration, and allowing magic alteration.
+- **[Dream Council](dream-council.md)**: Communicate with multiple sleeping creatures.
+- **[Inflict Pain, Mass](inflict-pain-mass.md)**: As inflict pain, but affecting one creature per level.
+- **[Object Possession, Greater](object-possession-greater.md)**: As possess object, but the object is more powerful and you can possess a construct.
+- **[Retrocognition](retrocognition.md)**: Gain psychic impressions from past events in a location.
 - **[Sequester](sequester.md)**: Subject is invisible to sight and scrying; renders creature comatose.
+- **[Shadow Body](shadow-body.md)**: Turn your body into a living shadow.
 - **[Spell Turning](spell-turning.md)**: Reflect 1d4+6 spell levels back at caster.
 
 **Conjuration**
@@ -557,6 +605,7 @@
 
 - **[Dimensional Lock](dimensional-lock.md)**: Teleportation and interplanar travel blocked for 1 day/level.
 - **[Mind Blank](mind-blank.md)**: Subject is protected from mental/emotional magic and scrying.
+- **[Possession, Greater](possession-greater.md)**: As possession, but your body vanishes.
 - **[Prismatic Wall](prismatic-wall.md)**: Wall’s colors have array of effects.
 - **[Protection from Spells](protection-from-spells.md)**: Confers +8 resistance bonus.
 
@@ -618,6 +667,7 @@
 
 **Abjuration**
 
+- **[Bilocation](bilocation.md)**: Exist in two places at once.
 - **[Freedom](freedom.md)**: Releases creature from *imprisonment.*
 - **[Imprisonment](imprisonment.md)**: Entombs subject beneath the earth.
 - **[Mage’s Disjunction](mages-disjunction.md)**: Dispels magic, disenchants magic items.

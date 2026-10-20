@@ -28,6 +28,8 @@
 - **[Comprehend Languages](comprehend-languages.md)**: You understand all languages.
 - **[Confusion, Lesser](confusion-lesser.md)**: One creature is *confused* for 1 round.
 - **[Cure Light Wounds](cure-light-wounds.md)**: Cures 1d8 damage + 1/level (max +5).
+- **[Decrepit Disguise](decrepit-disguise.md)**: Make an object seem worthless.
+- **[Deja Vu](deja-vu.md)**: Make a creature repeat its actions.
 - **[Detect Secret Doors](detect-secret-doors.md)**: Reveals hidden doors within 60 ft.
 - **[Disguise Self](disguise-self.md)**: Changes your appearance.
 - **[Erase](erase.md)**: Mundane or magical writing vanishes.
@@ -40,6 +42,7 @@
 - **[Magic Aura](magic-aura.md)**: Alters object’s magic aura.
 - **[Magic Mouth](magic-mouth.md)**: Objects speaks once when triggered.
 - **[Obscure Object](obscure-object.md)**: Masks object against *scrying*.
+- **[Quintessence](quintessence.md)**: Mask any flaws of or damage to a creature or object.
 - **[Remove Fear](remove-fear.md)**: Suppresses fear or gives +4 on saves against fear for one subject + one per four levels.
 - **[Silent Image](silent-image.md)**: Creates minor illusion of your design.
 - **[Sleep](sleep.md)**: Puts 4 HD of creatures into magical slumber.
@@ -53,16 +56,24 @@
 - **[Alter Self](alter-self.md)**: Assume form of a Small or Medium humanoid.
 - **[Animal Messenger](animal-messenger.md)**: Sends a Tiny animal to a specific place.
 - **[Animal Trance](animal-trance.md)**: Fascinates 2d6 HD of animals.
+- **[Anticipate Thoughts](anticipate-thoughts.md)**: Gain increasing bonuses to AC and on attack rolls and damage rolls against one creature.
+- **[Apport Object](apport-object.md)**: Send or receive a small object via teleportation.
+- **[Aversion](aversion.md)**: Cause the target to avoid an object or location.
+- **[Babble](babble.md)**: Target becomes nauseated and nearby creatures become fascinated.
 - **[Blindness/Deafness](blindness-deafness.md)**: Makes subject blind or deaf.
 - **[Blur](blur.md)**: Attacks miss subject 20% of the time.
 - **[Calm Emotions](calm-emotions.md)**: Calms creatures, negating emotion effects.
+- **[Catatonia](catatonia.md)**: Make a willing target appear to be dead.
 - **[Cat’s Grace](cats-grace.md)**: Subject gains +4 to Dex for 1 min./level.
+- **[Contagious Zeal](contagious-zeal.md)**: Grant bonuses and temporary hit points that spread from creature to creature.
 - **[Cure Moderate Wounds](cure-moderate-wounds.md)**: Cures 2d8 damage + 1/level (max +10).
 - **[Darkness](darkness.md)**: 20-ft. radius of supernatural shadow.
 - **[Daze Monster](daze-monster.md)**: Living creature of 6 HD or less loses next action.
 - **[Delay Poison](delay-poison.md)**: Stops poison from harming target for 1 hour/level.
+- **[Demand Offering](demand-offering.md)**: Make a creature give you an object it’s holding.
 - **[Detect Thoughts](detect-thoughts.md)**: Allows “listening” to surface thoughts.
 - **[Eagle’s Splendor](eagles-splendor.md)**: Subject gains +4 to Cha for 1 min./level.
+- **[Enshroud Thoughts](enshroud-thoughts.md)**: Ward yourself against thought detection and memory alteration.
 - **[Enthrall](enthrall.md)**: Captivates all within 100 ft. + 10 ft./level.
 - **[Fox’s Cunning](foxs-cunning.md)**: Subject gains +4 to Int for 1 min./level.
 - **[Glitterdust](glitterdust.md)**: Blinds creatures, outlines invisible creatures.
@@ -71,9 +82,13 @@
 - **[Hypnotic Pattern](hypnotic-pattern.md)**: Fascinates (2d4 + level) HD of creatures.
 - **[Invisibility](invisibility.md)**: Subject is invisible for 1 min./level or until it attacks.
 - **[Locate Object](locate-object.md)**: Senses direction toward object (specific or type).
+- **[Mental Block](mental-block.md)**: Prevent the target from using its skill ranks, spells, feats, and abilities.
 - **[Minor Image](minor-image.md)**: As *silent image*, plus some sound.
 - **[Mirror Image](mirror-image.md)**: Creates decoy duplicates of you (1d4 + 1 per three levels, max 8).
 - **[Misdirection](misdirection.md)**: Misleads divinations for one creature or object.
+- **[Oneiric Horror](oneiric-horror.md)**: Distract and fatigue the target with a creature from its nightmares.
+- **[Paranoia](paranoia.md)**: Target becomes hostile to all creatures.
+- **[Psychic Reading](psychic-reading.md)**: Read surface thoughts to learn information about a subject.
 - **[Pyrotechnics](pyrotechnics.md)**: Turns fire into blinding light or choking smoke.
 - **[Rage](rage.md)**: Gives +2 to Str and Con, +1 on Will saves, –2 to AC.
 - **[Scare](scare.md)**: Panics creatures of less than 6 HD.
@@ -105,6 +120,7 @@
 - **[Glibness](glibness.md)**: You gain +20 bonus on Bluff checks, and your lies can escape magical discernment.
 - **[Good Hope](good-hope.md)**: Subjects gain +2 on attack rolls, damage rolls, saves, and checks.
 - **[Haste](haste.md)**: One creature/level moves faster, receives +1 on attack rolls, AC, and Reflex saves.
+- **[Hypercognition](hypercognition.md)**: Rapidly recall everything you know about a subject.
 - **[Illusory Script](illusory-script.md)**: Only select creatures can read text.
 - **[Invisibility Sphere](invisibility-sphere.md)**: Makes everyone within 10 feet invisible.
 - **[Major Image](major-image.md)**: As *silent image*, plus sound, smell, and thermal effects.
@@ -136,6 +152,7 @@
 - **[Locate Creature](locate-creature.md)**: Indicates direction to known creature.
 - **[Modify Memory](modify-memory.md)**: Changes 5 minutes of subject’s memories.
 - **[Neutralize Poison](neutralize-poison.md)**: Immunizes subject against poison, detoxifies venom in or on subject.
+- **[Oneiric Horror, Greater](oneiric-horror-greater.md)**: As oneiric horror, plus Str damage.
 - **[Rainbow Pattern](rainbow-pattern.md)**: Lights fascinate 24 HD of creatures.
 - **[Repel Vermin](repel-vermin.md)**: Insects, spiders, and other vermin stay 10 ft. away.
 - **[Secure Shelter](secure-shelter.md)**: Creates sturdy cottage.
@@ -157,12 +174,14 @@
 - **[Mislead](mislead.md)**: Turns you invisible and creates illusory double.
 - **[Nightmare](nightmare.md)**: Sends vision dealing 1d10 damage, fatigue.
 - **[Persistent Image](persistent-image.md)**: As *major image*, but no concentration required.
+- **[Repress Memory](repress-memory.md)**: Remove a piece of knowledge from your mind.
 - **[Seeming](seeming.md)**: Changes appearance of one person per two levels.
 - **[Shadow Evocation](shadow-evocation.md)**: Mimics evocation of lower than 5th level, but only 20% real.
 - **[Shadow Walk](shadow-walk.md)**: Step into shadow to travel rapidly.
 - **[Song of Discord](song-of-discord.md)**: Forces targets to attack each other.
 - **[Suggestion, Mass](suggestion-mass.md)**: As *suggestion,* affects subject/level.
 - **[Summon Monster V](summon-monster-v.md)**: Summons extraplanar creature to fight for you.
+- **[Unshakable Zeal](unshakable-zeal.md)**: Grant benefits on future attempts after failed checks, and protect against fear and emotion effects.
 - **[Whip of Centipedes](whip-of-centipedes.md)**: As whip of spiders, but with centipedes.
 
 ## 6th-Level Bard Spells
@@ -172,6 +191,8 @@
 - **[Cat’s Grace, Mass](cats-grace-mass.md)**: As *cat’s grace*, affects 1 subject/level.
 - **[Charm Monster, Mass](charm-monster-mass.md)**: As *charm monster,* but all within 30 ft.
 - **[Cure Moderate Wounds, Mass](cure-moderate-wounds-mass.md)**: Cures 2d8 damage + 1/level, affects 1 subject/level.
+- **[Dream Council](dream-council.md)**: Communicate with multiple sleeping creatures.
+- **[Dream Scan](dream-scan.md)**: Read a dreaming creature’s thoughts.
 - **[Eagle’s Splendor, Mass](eagles-splendor-mass.md)**: As *eagle’s splendor*, affects 1 subject/level.
 - **[Eyebite](eyebite.md)**: Target becomes panicked, sickened, and/or comatose.
 - **[Find the Path](find-the-path.md)**: Shows most direct way to a location.

@@ -1,0 +1,308 @@
+# Spiritualist Spells
+
+Spiritualists gain access to the following spells. Spells without a link come from other sourcebooks that have not been added to this wiki yet. All spells are cast as psychic spells.
+
+## 0-Level Spiritualist Spells
+
+- **[Bleed](bleed.md)**: Cause a stabilized creature to resume dying.
+- **[Daze](daze.md)**: A single humanoid creature with 4 HD or less loses its next action.
+- **[Detect Magic](detect-magic.md)**: Detects spells and magic items within 60 ft.
+- **[Detect Psychic Significance](detect-psychic-significance.md)**: Find psychically charged items.
+- **[Grave Words](grave-words.md)**: Force a corpse to babble.
+- **[Guidance](guidance.md)**: +1 on one attack roll, saving throw, or skill check.
+- **[Light](light.md)**: Object shines like a torch.
+- **[Mage Hand](mage-hand.md)**: 5-pound telekinesis.
+- **[Mending](mending.md)**: Makes minor repairs on an object.
+- **[Message](message.md)**: Whisper conversation at distance.
+- **[Open/Close](open-close.md)**: Opens or closes small or light things.
+- **[Read Magic](read-magic.md)**: Read scrolls and spellbooks.
+- **[Resistance](resistance.md)**: Subject gains +1 bonus on saving throws.
+- **[Stabilize](stabilize.md)**: Cause a dying creature to stabilize.
+- **[Telekinetic Projectile](telekinetic-projectile.md)**: Telekinetically hurl an object, dealing 1d6 points of damage to the target and object.
+- **[Virtue](virtue.md)**: Subject gains 1 temporary hp.
+
+## 1st-Level Spiritualist Spells
+
+- **[Alarm](alarm.md)**: Wards an area for 2 hours/level.
+- **[Alter Winds](alter-winds.md)**: Increase/decrease strength of natural winds.
+- **[Anticipate Peril](anticipate-peril.md)**: Target gains a bonus on one initiative check.
+- **[Burst of Adrenaline](burst-of-adrenaline.md)**: Gain a +8 bonus to Str, Dex, or Con for one roll, then be fatigued for 1 round.
+- **[Burst of Insight](burst-of-insight.md)**: Gain a +8 bonus to Int, Wis, or Cha for one roll, then be dazed for 1 round.
+- **[Cause Fear](cause-fear.md)**: A creature of 5 HD or less flees for 1d4 rounds.
+- **[Charge Object](charge-object.md)**: Infuse psychic energy and ownership history into an item.
+- **[Chill Touch](chill-touch.md)**: One touch/level deals 1d6 damage and possibly 1 Str damage.
+- **[Comprehend Languages](comprehend-languages.md)**: You understand all spoken and written languages.
+- **[Cure Light Wounds](cure-light-wounds.md)**: Cures 1d8 damage + 1/level (max +5).
+- **[Deathwatch](deathwatch.md)**: Reveals how near death subjects within 30 ft. are.
+- **[Decompose Corpse](decompose-corpse.md)**: Turn a corpse into a clean skeleton.
+- **[Detect Chaos](detect-chaos.md)**
+- **[Detect Evil](detect-evil.md)**
+- **[Detect Good](detect-good.md)**
+- **[Detect Law](detect-law.md)**
+- **[Detect Undead](detect-undead.md)**: Reveals undead within 60 ft.
+- **[Discern Next of Kin](discern-next-of-kin.md)**: Read the target’s mind to learn about its family.
+- **[Doom](doom.md)**: One subject takes –2 on attack rolls, damage rolls, saves, and checks.
+- **[Endure Elements](endure-elements.md)**: Exist comfortably in hot or cold regions.
+- **[Expeditious Retreat](expeditious-retreat.md)**: Your base speed increases by 30 ft.
+- **[Feather Fall](feather-fall.md)**: Objects or creatures fall slowly.
+- **[Identify](identify.md)**: Gives +10 bonus to identify magic items.
+- **[Inflict Light Wounds](inflict-light-wounds.md)**: Touch deals 1d8 damage +1/level (max +5).
+- **[Mage Armor](mage-armor.md)**: Gives subject +4 armor bonus.
+- **[Magic Fang](magic-fang.md)**: One natural weapon of subject creature gets +1 on attack and damage rolls.
+- **[Mindlink](mindlink.md)**: Communicate a great deal of information in an instant.
+- **[Obscuring Mist](obscuring-mist.md)**: Fog surrounds you.
+- **[Phantom Blood](phantom-blood.md)**: Gain temporary hp if Con loss would knock you out or kill you.
+- **[Protection from Chaos](protection-from-chaos.md)**
+- **[Protection from Evil](protection-from-evil.md)**
+- **[Protection from Good](protection-from-good.md)**
+- **[Protection from Law](protection-from-law.md)**
+- **[Psychic Reading](psychic-reading.md)**: Read surface thoughts to learn information about a subject.
+- **[Remove Fear](remove-fear.md)**: Suppresses fear or gives +4 on saves against fear for one subject + one per four levels.
+- **[Remove Sickness](remove-sickness.md)**: Suppress disease, nausea, and the sickened condition.
+- **[Sanctify Corpse](sanctify-corpse.md)**: Prevent a corpse from becoming an undead creature.
+- **[Sanctuary](sanctuary.md)**: Opponents can’t attack you, and you can’t attack.
+- **[Shield](shield.md)**: Invisible disc gives +4 to AC, blocks *magic missiles.*
+- **[Summon Monster I](summon-monster-i.md)**: (Evil creatures only.) Summons extraplanar creature to fight for you.
+- **[Telempathic Projection](telempathic-projection.md)**: Alter the target’s attitude or give bonuses to those interacting with the target.
+- **[Touch of Gracelessness](touch-of-gracelessness.md)**: Subject loses 1d6 + 1 Dex/two levels and is prone to falling down.
+- **[Unseen Servant](unseen-servant.md)**: Invisible force obeys your commands.
+- **[Ventriloquism](ventriloquism.md)**: Throws voice for 1 min./level.
+
+## 2nd-Level Spiritualist Spells
+
+- **[Aid](aid.md)**: +1 on attack rolls and saves against fear, 1d8 temporary hp +1/level (max +10).
+- **[Animate Dead, Lesser](animate-dead-lesser.md)**: Create one skeleton or zombie.
+- **[Augury](augury.md)**: Learns whether an action will be good or bad.
+- **[Blur](blur.md)**: Attacks miss subject 20% of the time.
+- **[Calm Spirit](calm-spirit.md)**: Postpone hostile action by a haunt or incorporeal undead.
+- **[Catatonia](catatonia.md)**: Make a willing target appear to be dead.
+- **[Cure Moderate Wounds](cure-moderate-wounds.md)**: Cures 2d8 damage +1/level (max. +10).
+- **[Death Knell](death-knell.md)**: Kills dying creature; you gain 1d8 temporary hp, +2 to Str, and +1 caster level.
+- **[Detect Thoughts](detect-thoughts.md)**: Allows “listening” to surface thoughts.
+- **[Disfiguring Touch](disfiguring-touch.md)**: Target becomes disfigured.
+- **[Emotive Block](emotive-block.md)**: Add an emotion component to all of the target’s spells.
+- **[False Life](false-life.md)**: Gain 1d10 temporary hp + 1/level (max +10).
+- **[Gentle Repose](gentle-repose.md)**: Preserves one corpse.
+- **[Ghost Whip](ghost-whip.md)**: Create a ghost touch whip that passes through objects.
+- **[Ghoul Touch](ghoul-touch.md)**: Paralyzes one subject, which exudes stench that makes those nearby sickened.
+- **[Inflict Moderate Wounds](inflict-moderate-wounds.md)**: Touch attack, 2d8 damage +1/ level (max +10).
+- **[Inflict Pain](inflict-pain.md)**: Target takes a –4 penalty on attack rolls, skill checks, and ability checks.
+- **[Instigate Psychic Duel](instigate-psychic-duel.md)**: Start a psychic duel between yourself and another creature.
+- **[Invisibility](invisibility.md)**: Subject is invisible for 1 min./level or until it attacks.
+- **[Levitate](levitate.md)**: Subject moves up and down at your direction.
+- **[Life Pact](life-pact.md)**: Affected creatures automatically donate hp to stabilize fallen ally.
+- **[Locate Object](locate-object.md)**: Senses direction toward object (specific or type).
+- **[Misdirection](misdirection.md)**: Misleads divinations for 1 creature or object.
+- **[Object Reading](object-reading.md)**: Read psychic impressions left on an object.
+- **[Phantom Steed](phantom-steed.md)**: Magic horse appears for 1 hour/level.
+- **[Phantom Trap](phantom-trap.md)**: Makes item seem trapped.
+- Pilfering Hand
+- **[Protection from Arrows](protection-from-arrows.md)**: Subject gains DR 10/magic against ranged attacks.
+- **[Protective Penumbra](protective-penumbra.md)**: Shadow protects the target from light.
+- **[Purge Spirit](purge-spirit.md)**: Deal 1d6 points of damage per level to one haunt or spirit creature and stagger it.
+- **[Remove Paralysis](remove-paralysis.md)**: Frees creatures from paralysis or *slow* effect.
+- **[Resist Energy](resist-energy.md)**: Ignores 10 (or more) points of damage/attack from specified energy type.
+- **[Restoration, Lesser](restoration-lesser.md)**: Dispels magical ability penalty or repairs 1d4 ability damage.
+- **[Scare](scare.md)**: Frightens creature of less than 6 HD.
+- **[See Invisibility](see-invisibility.md)**: Reveals invisible creatures or objects.
+- **[Spectral Hand](spectral-hand.md)**: Creates disembodied glowing hand to deliver touch attacks.
+- **[Spiritual Weapon](spiritual-weapon.md)**: Magic weapon attacks on its own.
+- **[Status](status.md)**: Monitors condition, position of allies.
+- **[Stricken Heart](stricken-heart.md)**: Touch attack deals 346 damage and staggers target.
+- **[Summon Monster II](summon-monster-ii.md)**: (Evil creatures only.) Summons extraplanar creature to fight for you.
+- **[Surmount Affliction](surmount-affliction.md)**: Temporarily suppress one condition.
+- **[Touch of Idiocy](touch-of-idiocy.md)**: Subject takes 1d6 penalty to Int, Wis, and Cha.
+- **[Twilight Haze](twilight-haze.md)**
+
+## 3rd-Level Spiritualist Spells
+
+- **[Analyze Aura](analyze-aura.md)**: Read a creature’s or an object’s alignment, emotion, health, and magic auras.
+- **[Animate Dead](animate-dead.md)**: Creates undead skeletons and zombies out of corpses.
+- **[Aura Sight](aura-sight.md)**: Alignment auras become visible to you.
+- **[Bestow Curse](bestow-curse.md)**: –6 to an ability score; –4 on attack rolls, saves, and checks; or 50% chance of losing each action.
+- **[Blindness/Deafness](blindness-deafness.md)**: Makes subject blind or deaf.
+- **[Clairaudience/Clairvoyance](clairaudience-clairvoyance.md)**: Hear or see at a distance for 1 min./level.
+- **[Cloak of Winds](cloak-of-winds.md)**: Creates a whirling screen of strong wind around you.
+- **[Condensed Ether](condensed-ether.md)**: Creates a planar conjunction that slows movement, penalizes AC and Reflex saves, and imposes a miss chance on ranged attacks.
+- **[Contagious Zeal](contagious-zeal.md)**: Grant bonuses and temporary hit points that spread from creature to creature.
+- **[Cure Serious Wounds](cure-serious-wounds.md)**: Cures 3d8 damage + 1/level (max +15).
+- **[Dispel Magic](dispel-magic.md)**: Cancels one magical spell or effect.
+- **[Displacement](displacement.md)**: Attacks miss subject 50% of the time.
+- **[Ectoplasmic Snare](ectoplasmic-snare.md)**: Tendril of ectoplasm grapples a creature and tethers you to it.
+- **[Ethereal Fists](ethereal-fists.md)**: Your claws, unarmed strikes, and touch spells affect ethereal creatures.
+- **[Fly](fly.md)**: Subject flies at speed of 60 ft.
+- **[Force Punch](force-punch.md)**: Target takes 1d4 force damage per level and is pushed away.
+- **[Gaseous Form](gaseous-form.md)**: Subject becomes insubstantial and can fly slowly.
+- **[Haste](haste.md)**: One creature/level moves faster, +1 on attack rolls, AC, and Reflex saves.
+- **[Helping Hand](helping-hand.md)**: Ghostly hand leads subject to you.
+- **[Heroism](heroism.md)**: Gives +2 bonus on attack rolls, saves, skill checks.
+- Hostile Levitation
+- **[Howling Agony](howling-agony.md)**: Screaming pain limits the target’s actions.
+- **[Inflict Serious Wounds](inflict-serious-wounds.md)**: Touch attack, 3d8 damage +1/ level (max +15).
+- **[Invisibility Purge](invisibility-purge.md)**: Dispels invisibility within 5 ft./level.
+- **[Locate Object](locate-object.md)**: Senses direction toward object (specific or type).
+- **[Magic Circle against Chaos](magic-circle-against-chaos.md)**
+- **[Magic Circle against Evil](magic-circle-against-evil.md)**
+- **[Magic Circle against Good](magic-circle-against-good.md)**
+- **[Magic Circle against Law](magic-circle-against-law.md)**
+- **[Magic Fang, Greater](magic-fang-greater.md)**: One natural weapon gets + 1/four levels (max. +5).
+- **[Mindlocked Messenger](mindlocked-messenger.md)**: ‘Target gains a message that can be given only to its intended recipient.
+- **[Minor Creation](minor-creation.md)**: Creates one cloth or wood object.
+- **[Nondetection](nondetection.md)**: Hides subject from divination, scrying.
+- **[Object Possession, Lesser](object-possession-lesser.md)**: Project your soul into an object, animating it.
+- **[Obscure Object](obscure-object.md)**: Masks object against scrying.
+- **[Pain Strike](pain-strike.md)**: Inflicts 1d6 nonlethal damage 1 round/level.
+- Phantom Driver
+- **[Phantom Steed](phantom-steed.md)**: Magic horse appears for 1 hour/level.
+- **[Protection from Energy](protection-from-energy.md)**: Absorbs 12 points/level of damage from one kind of energy.
+- **[Ray of Exhaustion](ray-of-exhaustion.md)**: Ray makes subject exhausted.
+- **[Remove Blindness/Deafness](remove-blindness-deafness.md)**: Cures normal or magical blindness or deafness.
+- **[Remove Curse](remove-curse.md)**: Frees object or person from curse.
+- **[Remove Disease](remove-disease.md)**: Cures all diseases affecting subject.
+- **[Riding Possession](riding-possession.md)**: As possession, but you observe instead of control the subject.
+- **[Sands of Time](sands-of-time.md)**: Target temporarily ages.
+- **[Sealed Life](sealed-life.md)**: Prevent a creature from transferring life force to or from others.
+- **[Seek Thoughts](seek-thoughts.md)**: Detects thinking creatures’ thoughts.
+- **[Sessile Spirit](sessile-spirit.md)**: Cause a spirit inhabiting a creature or an object to go dormant.
+- **[Slow](slow.md)**: One subject/level takes only one action/round, –1 to AC, Reflex saves, and attack rolls.
+- **[Speak with Dead](speak-with-dead.md)**: Corpse answers one question/two levels.
+- **[Spirit-Bound Blade](spirit-bound-blade.md)**: Give a weapon ghost touch and another ability tied to an emotion.
+- **[Summon Monster III](summon-monster-iii.md)**: (Evil creatures only.) Summons extraplanar creature to fight for you.
+- **[Tongues](tongues.md)**: Speak and understand any language.
+- **[Twilight Knife](twilight-knife.md)**: Floating knife attacks with you.
+- **[Undead Anatomy I](undead-anatomy-i.md)**: Take the form and some of the powers of a Small or Medium undead.
+- **[Unliving Rage](unliving-rage.md)**
+- **[Vampiric Touch](vampiric-touch.md)**: Touch deals 1d6 damage/2 levels; caster gains damage as temporary hp.
+- **[Wind Wall](wind-wall.md)**: Deflects arrows, smaller creatures, and gases.
+
+## 4th-Level Spiritualist Spells
+
+- **[Anti-Incorporeal Shell](anti-incorporeal-shell.md)**: Incorporeal creatures stay 10 ft. away from you.
+- **[Aura Alteration](aura-alteration.md)**: Masks a creature’s or an object’s alignment, emotion, health, and magic auras.
+- **[Aura of Doom](aura-of-doom.md)**: Creatures in your aura become shaken.
+- **[Bestow Curse](bestow-curse.md)**: –6 to an ability score; –4 on attack rolls, saves, and checks; or 50% chance of losing each action.
+- **[Black Tentacles](black-tentacles.md)**: Tentacles grapple all creatures within a 20-ft. spread.
+- **[Confusion](confusion.md)**: Subjects behave oddly for 1 round/level.
+- **[Crushing Despair](crushing-despair.md)**: Subjects take –2 on attack rolls, damage rolls, saves, and checks.
+- **[Cure Critical Wounds](cure-critical-wounds.md)**: Cures 4d8 damage + 1/level (max +20).
+- **[Death Ward](death-ward.md)**: Grants bonuses against death spells and negative energy.
+- Debilitating Portent
+- **[Detect Scrying](detect-scrying.md)**: Alerts you to magical eavesdropping
+- **[Dimension Door](dimension-door.md)**: Teleports you a short distance.
+- **[Dimensional Anchor](dimensional-anchor.md)**: Bars extradimensional movement.
+- **[Divination](divination.md)**: Provides useful advice for specific proposed actions.
+- **[Enervation](enervation.md)**: Subject gains 1d4 negative levels.
+- **[Entrap Spirit](entrap-spirit.md)**: Trap an incorporeal creature or a haunt in a mirror.
+- **[Erase Impressions](erase-impressions.md)**: Erase psychic impressions from an object.
+- **[Ethereal Envelope](ethereal-envelope.md)**: Shroud your unconscious self in a cocoon on the Ethereal Plane.
+- **[Etheric Shards](etheric-shards.md)**: Fill an area with invisible shards that slow movement and damage creatures.
+- **[False Life, Greater](false-life-greater.md)**: Gain 2d10 temporary hp + 1/level.
+- **[Fear](fear.md)**: Subjects within cone flee for 1 round/level.
+- **[Freedom of Movement](freedom-of-movement.md)**: Subject moves normally despite impediments to movement.
+- **[Imbue with Spell Ability](imbue-with-spell-ability.md)**: Transfer spells to subject.
+- **[Inflict Critical Wounds](inflict-critical-wounds.md)**: Touch attack, 4d8 damage + 1/level (max +20).
+- **[Invisibility, Greater](invisibility-greater.md)**: As invisibility, but subject can attack and stay invisible.
+- **[Locate Creature](locate-creature.md)**: Indicates direction to familiar creature.
+- **[Mind Swap](mind-swap.md)**: Switch minds with another creature for 1 hour per level.
+- **[Mindwipe](mindwipe.md)**: Erase a portion of the target’s mind and experiences, inflicting negative levels.
+- **[Mirror Transport](mirror-transport.md)**
+- **[Neutralize Poison](neutralize-poison.md)**: Immunizes subject against poison, detoxifies venom in or on subject.
+- **[Phantasmal Killer](phantasmal-killer.md)**: Fearsome illusion kills subject or deals 3d6 damage.
+- Phantom Chariot
+- Phantom Steed, Communal
+- **[Possession](possession.md)**: Project your soul into a creature’s body.
+- **[Remove Curse](remove-curse.md)**: Frees object or person from curse.
+- **[Restoration](restoration.md)**: Restores level and ability score drains.
+- **[Shadow Conjuration](shadow-conjuration.md)**: Mimics conjuration below 4th level, but only 20% real.
+- **[Shadow Step](shadow-step.md)**: Teleport from one shadow to another.
+- **[Solid Fog](solid-fog.md)**: Blocks vision and slows movement.
+- **[Speak with Haunt](speak-with-haunt.md)**: Haunt answers one question/2 levels.
+- **[Spell Immunity](spell-immunity.md)**: Subject is immune to one spell per 4 levels.
+- **[Spiritual Ally](spiritual-ally.md)**: Creates a divine ally to aid you.
+- **[Summon Monster IV](summon-monster-iv.md)**: (Evil creatures only.) Summons extraplanar creature to fight for you.
+- Telekinetic Charge
+- **[Telekinetic Maneuver](telekinetic-maneuver.md)**: Perform a telekinetic combat maneuver.
+- **[Terrible Remorse](terrible-remorse.md)**: Creature is compelled to harm itself.
+- **[Thoughtsense](thoughtsense.md)**: Automatically detect nearby conscious creatures.
+
+## 5th-Level Spiritualist Spells
+
+- **[Break Enchantment](break-enchantment.md)**: Frees subjects from enchantments, transmutations, and curses.
+- **[Breath of Life](breath-of-life.md)**: Cures 5d8 damage + 1/level and restores life to recently slain creatures.
+- **[Call Spirit](call-spirit.md)**: Make the spirit of one creature manifest.
+- **[Cloudkill](cloudkill.md)**: Kills 3 HD or less; 4–6 HD save or die, 6+ HD take Con damage.
+- **[Contact Other Plane](contact-other-plane.md)**: Lets you ask question of extraplanar entity.
+- **[Curse, Major](curse-major.md)**: As bestow curse, but harder to remove.
+- **[Dismissal](dismissal.md)**: Forces a creature to return to its native plane.
+- **[Disrupting Weapon](disrupting-weapon.md)**: Melee weapon destroys undead.
+- **[Dominate Person](dominate-person.md)**: Controls humanoid telepathically.
+- **[Dream](dream.md)**: Sends message to anyone sleeping.
+- **[Ethereal Envelopment](ethereal-envelopment.md)**: As ethereal envelope, but able to affect an unwilling creature.
+- **[False Vision](false-vision.md)**: Fools scrying with an illusion.
+- **[Feast on Fear](feast-on-fear.md)**: Targets are panicked, and you gain temporary hit points.
+- **[Feeblemind](feeblemind.md)**: Subject’s Int and Cha drop to 1.
+- **[Fickle Winds](fickle-winds.md)**: Wind walls selectively block attacks.
+- **[Foster Hatred](foster-hatred.md)**: Cause creatures to hate one type of creature.
+- **[Incorporeal Chains](incorporeal-chains.md)**: Grapple incorporeal creatures and deal damage equal to 1d8 + Int.
+- **[Inflict Pain, Mass](inflict-pain-mass.md)**: As inflict pain, but affecting one creature per level.
+- **[Mage’s Faithful Hound](mages-faithful-hound.md)**: Phantom dog can guard a location and attack intruders.
+- **[Mage’s Private Sanctum](mages-private-sanctum.md)**: Prevents anyone from viewing or scrying an area for 24 hours.
+- **[Mind Fog](mind-fog.md)**: Subjects in fog get –10 to Wis and Will checks.
+- **[Nightmare](nightmare.md)**: Sends vision dealing 1d10 damage, fatigue.
+- **[Object Possession](object-possession.md)**: As lesser object possession, but with a larger object.
+- **[Overland Flight](overland-flight.md)**: You fly at a speed of 40 ft. and can hustle over long distances.
+- **[Pain Strike, Mass](pain-strike-mass.md)**: As pain, but affects multiple creatures.
+- **[Phantasmal Web](phantasmal-web.md)**: Catches subjects in illusory web.
+- **[Planar Adaptation](planar-adaptation.md)**: Resist harmful effects of other plane.
+- **[Plane Shift](plane-shift.md)**: As many as eight subjects travel to another plane.
+- **[Prying Eyes](prying-eyes.md)**: 1d4 + 1/level floating eyes scout for you.
+- **[Raise Dead](raise-dead.md)**: Restores life to subject who died as long as one day/level ago.
+- **[Remote Viewing](remote-viewing.md)**: Gain psychic impressions from a distant location.
+- **[Repair Undead, Mass](repair-undead-mass.md)**
+- **[Scrying](scrying.md)**: Spies on subject from a distance.
+- **[Secret Chest](secret-chest.md)**: Hides expensive chest on Ethereal Plane; you retrieve it at will.
+- **[Sending](sending.md)**: Delivers short message anywhere, instantly.
+- **[Shadow Body](shadow-body.md)**: Turn your body into a living shadow.
+- **[Shadow Evocation](shadow-evocation.md)**: Mimics evocation below 5th level, but only 20% real.
+- **[Slay Living](slay-living.md)**: Touch attack deals 12d6 +1 per level.
+- **[Telepathic Bond](telepathic-bond.md)**: Link lets allies communicate.
+- **[Teleport](teleport.md)**: Instantly transports you as far as 100 miles per level.
+- **[Undead Anatomy II](undead-anatomy-ii.md)**: Take the form and some of the powers of a Tiny or Large undead.
+- **[Vampiric Shadow Shield](vampiric-shadow-shield.md)**
+- **[Wall of Ectoplasm](wall-of-ectoplasm.md)**: Wall of spirits blocks movement on the Material Plane and Ethereal Plane and causes fear.
+- **[Wall of Sound](wall-of-sound.md)**: Sonic wall def lects and damages creatures.
+- **[Waves of Fatigue](waves-of-fatigue.md)**: Several targets become fatigued.
+- **[Withdraw Affliction](withdraw-affliction.md)**: Remove an affliction and inflict it on another creature.
+
+## 6th-Level Spiritualist Spells
+
+- **[Analyze Dweomer](analyze-dweomer.md)**: Reveals magical aspects of subject.
+- **[Banishment](banishment.md)**: Banishes 2 HD/level of extraplanar creatures.
+- **[Banshee Blast](banshee-blast.md)**
+- **[Circle of Death](circle-of-death.md)**: Kills 1d4/level HD of creatures.
+- **[Create Undead](create-undead.md)**: Raises ghouls, ghasts, mummies, or mohrgs from physical remains.
+- **[Disintegrate](disintegrate.md)**: Reduces one creature or object to dust.
+- **[Dispel Magic, Greater](dispel-magic-greater.md)**: As *dispel magic*, but with multiple targets.
+- **[Ectoplasmic Eruption](ectoplasmic-eruption.md)**: Deal 6d6 points of damage and entangle creatures in a 30-ft. radius, and push ethereal and incorporeal creatures onto the Material Plane.
+- **[Enemy Hammer](enemy-hammer.md)**: Allows you to telekinetically use a creature as a weapon.
+- **[Eyebite](eyebite.md)**: Target becomes panicked, sickened, and comatose.
+- **[Find the Path](find-the-path.md)**: Shows most direct way to a location.
+- **[Getaway](getaway.md)**: Teleports you and select creatures to predetermined location.
+- **[Harm](harm.md)**: Deals 10 points/level damage to target.
+- **[Heal](heal.md)**: Cures 10 points/level damage, all diseases and mental conditions.
+- **[Heroism, Greater](heroism-greater.md)**: Gives +4 bonus on attack rolls, saves, skill checks; immunity to fear; temporary hp.
+- **[Leashed Shackles](leashed-shackles.md)**
+- **[Legend Lore](legend-lore.md)**: Lets you learn tales about a person, place, or thing.
+- **[Mislead](mislead.md)**: Turns you invisible and creates illusory double.
+- **[Object Possession, Greater](object-possession-greater.md)**: As possess object, but the object is more powerful and you can possess a construct.
+- **[Repulsion](repulsion.md)**: Creatures can’t approach you.
+- **[Sealed Life, Greater](sealed-life-greater.md)**: As sealed life, plus death ward and immunity to soul transference.
+- **[Shadow Walk](shadow-walk.md)**: Step into shadow to travel rapidly.
+- **[Summon Monster VI](summon-monster-vi.md)**: Summons extraplanar creature to fight for you.
+- **[Telepathy](telepathy.md)**: Communicate mentally with creatures within 100 ft.
+- **[Transformation](transformation.md)**: You gain combat bonuses.
+- **[True Seeing](true-seeing.md)**: Lets you see all things as they really are.
+- **[Undead Anatomy III](undead-anatomy-iii.md)**: Take the form and some of the powers of a Diminutive or Huge undead.
+- **[Undeath to Death](undeath-to-death.md)**: Destroys 1d4/level HD of undead (max. 20d4).
+- **[Unshakable Zeal](unshakable-zeal.md)**: Grant benefits on future attempts after failed checks, and protect against fear and emotion effects.
+- **[Unwilling Shield](unwilling-shield.md)**

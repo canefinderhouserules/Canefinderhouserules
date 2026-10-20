@@ -51,6 +51,7 @@
 - **[Bear’s Endurance](bears-endurance.md)**: Subject gains +4 to Con for 1 min./level.
 - **[Bull’s Strength](bulls-strength.md)**: Subject gains +4 to Str for 1 min./level.
 - **[Calm Emotions](calm-emotions.md)**: Calms creatures, negating emotion effects.
+- **[Calm Spirit](calm-spirit.md)**: Postpone hostile action by a haunt or incorporeal undead.
 - **[Consecrate](consecrate.md)**: Fills area with positive energy, weakening undead.
 - **[Cure Moderate Wounds](cure-moderate-wounds.md)**: Cures 2d8 damage + 1/level (max +10).
 - **[Darkness](darkness.md)**: 20-ft. radius of supernatural shadow.
@@ -61,6 +62,7 @@
 - **[Enthrall](enthrall.md)**: Captivates all within 100 ft. + 10 ft./level.
 - **[Find Traps](find-traps.md)**: Notice traps as a rogue does.
 - **[Gentle Repose](gentle-repose.md)**: Preserves one corpse.
+- **[Ghost Whip](ghost-whip.md)**: Create a ghost touch whip that passes through objects.
 - **[Hold Person](hold-person.md)**: Paralyzes one humanoid for 1 round/level.
 - **[Inflict Moderate Wounds](inflict-moderate-wounds.md)**: Touch attack, 2d8 damage + 1/level (max +10).
 - **[Make Whole](make-whole.md)**: Repairs an object.
@@ -83,7 +85,9 @@
 - **[Animate Dead](animate-dead.md)**: Creates undead skeletons and zombies.
 - **[Bestow Curse](bestow-curse.md)**: –6 to an ability score; –4 on attack rolls, saves, and checks; or 50% chance of losing each action.
 - **[Blindness/Deafness](blindness-deafness.md)**: Makes subject blinded or deafened.
+- **[Catatonia](catatonia.md)**: Make a willing target appear to be dead.
 - **[Contagion](contagion.md)**: Infects subject with chosen disease.
+- **[Contagious Zeal](contagious-zeal.md)**: Grant bonuses and temporary hit points that spread from creature to creature.
 - **[Continual Flame](continual-flame.md)**: Makes a permanent, heatless light.
 - **[Create Food and Water](create-food-and-water.md)**: Feeds three humans (or one horse)/level.
 - **[Cure Serious Wounds](cure-serious-wounds.md)**: Cures 3d8 damage + 1/level (max +15).
@@ -139,6 +143,7 @@
 - **[Sending](sending.md)**: Delivers short message anywhere, instantly.
 - **[Spell Immunity](spell-immunity.md)**: Subject is immune to one spell per 4 levels.
 - **[Summon Monster IV](summon-monster-iv.md)**: Summons extraplanar creature to fight for you.
+- **[Thaumaturgic Circle](thaumaturgic-circle.md)**: As magic circle, but affecting a nonalignment subtype or outsider race.
 - **[Tongues](tongues.md)**: Speak and understand any language.
 - **[Unholy Blight](unholy-blight.md)**: Harms and sickens good creatures (1d8 damage/2 levels).
 
@@ -147,6 +152,7 @@
 - **[Atonement](atonement.md)**: Removes burden of misdeeds from subject and reverses magical alignment change.
 - **[Break Enchantment](break-enchantment.md)**: Frees subjects from enchantments, transmutations, and curses.
 - **[Breath of Life](breath-of-life.md)**: Cures 5d8 damage + 1/level and restores life to recently slain creatures.
+- **[Call Spirit](call-spirit.md)**: Make the spirit of one creature manifest.
 - **[Command, Greater](command-greater.md)**: As *command,* but affects one subject/level.
 - **[Commune](commune.md)**: Deity answers one yes-or-no question/level.
 - **[Cure Light Wounds, Mass](cure-light-wounds-mass.md)**: Cures 1d8 damage + 1/level, affects 1 subject/level.
@@ -161,6 +167,7 @@
 - **[Raise Dead](raise-dead.md)**: Restores life to subject who died as long as one day/level ago.
 - **[Righteous Might](righteous-might.md)**: Your size increases, and you gain bonuses in combat.
 - **[Scrying](scrying.md)**: Spies on subject from a distance.
+- **[Sessile Spirit](sessile-spirit.md)**: Cause a spirit inhabiting a creature or an object to go dormant.
 - **[Slay Living](slay-living.md)**: Touch attack deals 12d6 + 1 per level.
 - **[Spell Resistance](spell-resistance.md)**: Subject gains SR 12 + level.
 - **[Summon Monster V](summon-monster-v.md)**: Summons extraplanar creature to fight for you.
@@ -168,6 +175,7 @@
 - **[Symbol of Sleep](symbol-of-sleep.md)**: Triggered rune puts nearby creatures into catatonic slumber.
 - **[True Seeing](true-seeing.md)**: Lets you see all things as they really are.
 - **[Unhallow](unhallow.md)**: Designates location as unholy.
+- **[Wall of Ectoplasm](wall-of-ectoplasm.md)**: Wall of spirits blocks movement on the Material Plane and Ethereal Plane and causes fear.
 - **[Wall of Stone](wall-of-stone.md)**: Creates a stone wall that can be shaped.
 
 ## 6th-Level Cleric Spells
@@ -201,6 +209,7 @@
 
 ## 7th-Level Cleric Spells
 
+- **[Awaken Construct](awaken-construct.md)**
 - **[Blasphemy](blasphemy.md)**: Kills, paralyzes, weakens, or dazes nonevil subjects.
 - **[Control Weather](control-weather.md)**: Changes weather in local area.
 - **[Cure Serious Wounds, Mass](cure-serious-wounds-mass.md)**: Cures 3d8 damage + 1/level, affects 1 subject/level.

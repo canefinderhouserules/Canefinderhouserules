@@ -42,6 +42,16 @@ There are hundreds of spells available to spellcasters in the Pathfinder Rolepla
 
 - [Witch Spells](witch-spells.md)
 
+- [Medium Spells](medium-spells.md)
+
+- [Mesmerist Spells](mesmerist-spells.md)
+
+- [Occultist Spells](occultist-spells.md)
+
+- [Psychic Spells](psychic-spells.md)
+
+- [Spiritualist Spells](spiritualist-spells.md)
+
 ## Spell Descriptions
 
 The following spells are presented in alphabetical order, with the exception of those whose names begin with “greater,” “lesser,” or “mass” (see Order of Presentation above).

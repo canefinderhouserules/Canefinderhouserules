@@ -39,10 +39,12 @@
 
 ## 3rd-Level Ranger Spells
 
+- **[Apport Animal](apport-animal.md)**: Send or receive a Tiny or smaller animal via teleportation.
 - **[Command Plants](command-plants.md)**: Sway the actions of plant creatures.
 - **[Cure Moderate Wounds](cure-moderate-wounds.md)**: Cures 2d8 damage +1/level (max. +10).
 - **[Darkvision](darkvision.md)**: See 60 ft. in total darkness.
 - **[Diminish Plants](diminish-plants.md)**: Reduces size or blights growth of normal plants.
+- **[Enshroud Thoughts](enshroud-thoughts.md)**: Ward yourself against thought detection and memory alteration.
 - **[Magic Fang, Greater](magic-fang-greater.md)**: One natural weapon gets + 1/four levels (max. +5).
 - **[Neutralize Poison](neutralize-poison.md)**: Immunizes subject against poison, detoxifies venom in or on subject.
 - **[Plant Growth](plant-growth.md)**: Grows vegetation, improves crops.

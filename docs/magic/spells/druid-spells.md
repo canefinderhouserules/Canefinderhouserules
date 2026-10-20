@@ -72,6 +72,8 @@
 
 ## 3rd-Level Druid Spells
 
+- **[Apport Animal](apport-animal.md)**: Send or receive a Tiny or smaller animal via teleportation.
+- **[Aversion](aversion.md)**: Cause the target to avoid an object or location.
 - **[Call Lightning](call-lightning.md)**: Calls down lightning bolts (3d6 per bolt) from sky.
 - **[Contagion](contagion.md)**: Infects subject with chosen disease.
 - **[Cure Moderate Wounds](cure-moderate-wounds.md)**: Cures 2d8 damage + 1/level (max +10).
@@ -152,6 +154,7 @@
 - **[Liveoak](liveoak.md)**: Oak becomes treant guardian.
 - **[Move Earth](move-earth.md)**: Digs trenches and builds hills.
 - **[Owl’s Wisdom, Mass](owls-wisdom-mass.md)**: As *owl’s wisdom*, affects 1 subject/level.
+- **[Primal Regression](primal-regression.md)**: Make a creature become bestial and unintelligent.
 - **[Repel Wood](repel-wood.md)**: Pushes away wooden objects.
 - **[Spellstaff](spellstaff.md)**: Stores one spell in wooden quarterstaff.
 - **[Stone Tell](stone-tell.md)**: Talk to natural or worked stone.
