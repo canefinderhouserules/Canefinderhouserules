@@ -4,6 +4,7 @@ nav:
   - alchemist-archetypes.md
   - barbarian.md
   - barbarian-archetypes.md
+  - unchained-barbarian.md
   - bard.md
   - bard-archetypes.md
   - cavalier.md
@@ -24,6 +25,7 @@ nav:
   - magus-archetypes.md
   - monk.md
   - monk-archetypes.md
+  - unchained-monk.md
   - oracle.md
   - oracle-mysteries.md
   - oracle-archetypes.md
@@ -34,11 +36,14 @@ nav:
   - ranger-archetypes.md
   - rogue.md
   - rogue-archetypes.md
+  - unchained-rogue.md
   - ninja.md
   - sorcerer.md
   - sorcerer-archetypes.md
   - summoner.md
   - eidolon-evolutions.md
+  - unchained-summoner.md
+  - unchained-eidolons.md
   - summoner-archetypes.md
   - witch.md
   - witch-archetypes.md
