@@ -8,6 +8,7 @@ nav:
   - bard-archetypes.md
   - cavalier.md
   - cavalier-archetypes.md
+  - samurai.md
   - cleric.md
   - cleric-archetypes.md
   - druid.md
@@ -15,6 +16,7 @@ nav:
   - druid-variants.md
   - fighter.md
   - fighter-archetypes.md
+  - gunslinger.md
   - inquisitor.md
   - inquisitor-archetypes.md
   - magus.md
@@ -31,6 +33,7 @@ nav:
   - ranger-archetypes.md
   - rogue.md
   - rogue-archetypes.md
+  - ninja.md
   - sorcerer.md
   - sorcerer-archetypes.md
   - summoner.md
