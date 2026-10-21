@@ -63,7 +63,7 @@ The table below describes in general terms how likely it is that a given square 
 
 ### Forest Fires (CR 6)
 
-Most campfire sparks ignite nothing, but if conditions are dry, winds are strong, or the forest floor is dried out and flammable, a forest fire can result. Lightning strikes often set trees ablaze and start forest fires in this way. Whatever the cause of the fire, travelers can get caught in the conf lagration.
+Most campfire sparks ignite nothing, but if conditions are dry, winds are strong, or the forest floor is dried out and flammable, a forest fire can result. Lightning strikes often set trees ablaze and start forest fires in this way. Whatever the cause of the fire, travelers can get caught in the conflagration.
 
 A forest fire can be spotted from as far away as 2d6 × 100 feet by a character who makes a Perception check, treating the fire as a Colossal creature (reducing the DC by 16). If all characters fail their Perception checks, the fire moves closer to them. They automatically see it when it closes to half the original distance. With proper elevation, the smoke from a forest fire can be spotted as far as 10 miles away.
 
@@ -205,7 +205,7 @@ High altitude travel can be extremely fatiguing—and sometimes deadly—to crea
 
 **Altitude Zones**: In general, mountains present three possible altitude bands: low pass, low peak/high pass, and high peak.
 
-**Low Pass (lower than 5,000 feet)**: Most travel in low mountains takes place in low passes, a zone consisting largely of alpine meadows and forests. Travelers might find the going difficult (which is ref lected in the movement modifiers for traveling through mountains), but the altitude itself has no game effect.
+**Low Pass (lower than 5,000 feet)**: Most travel in low mountains takes place in low passes, a zone consisting largely of alpine meadows and forests. Travelers might find the going difficult (which is reflected in the movement modifiers for traveling through mountains), but the altitude itself has no game effect.
 
 **Low Peak or High Pass (5,000 to 15,000 feet)**: Ascending to the highest slopes of low mountains, or most normal travel through high mountains, falls into this category. All nonacclimated creatures labor to breathe in the thin air at this altitude. Characters must succeed on a Fortitude save each hour (DC 15, +1 per previous check) or be fatigued. The fatigue ends when the character descends to an altitude with more air. Acclimated characters do not have to attempt the Fortitude save.
 
@@ -281,7 +281,7 @@ The terrain elements in the table below are mutually exclusive.
 
 ## Aquatic Terrain
 
-Aquatic terrain is the least hospitable to most PCs, because they can’t breathe there. Aquatic terrain doesn’t offer the variety that land terrain does. The ocean floor holds many marvels, including undersea analogues of any of the terrain elements described earlier in this section, but if characters find themselves in the water because they were bull rushed off the deck of a pirate ship, the tall kelp beds hundreds of feet below them don’t matter. Accordingly, these rules simply divide aquatic terrain into two categories: flowing water (such as streams and rivers) and non-f lowing water (such as lakes and oceans).
+Aquatic terrain is the least hospitable to most PCs, because they can’t breathe there. Aquatic terrain doesn’t offer the variety that land terrain does. The ocean floor holds many marvels, including undersea analogues of any of the terrain elements described earlier in this section, but if characters find themselves in the water because they were bull rushed off the deck of a pirate ship, the tall kelp beds hundreds of feet below them don’t matter. Accordingly, these rules simply divide aquatic terrain into two categories: flowing water (such as streams and rivers) and non-flowing water (such as lakes and oceans).
 
 **Flowing Water**: Large, placid rivers move at only a few miles per hour, so they function as still water for most purposes. But some rivers and streams are swifter; anything floating in them moves downstream at a speed of 10 to 40 feet per round. The fastest rapids send swimmers bobbing downstream at 60 to 90 feet per round. Fast rivers are always at least rough water (Swim DC 15), and whitewater rapids are stormy water (Swim DC 20). If a character is in moving water, move her downstream the indicated distance at the end of her turn. A character trying to maintain her position relative to the riverbank can spend some or all of her turn swimming upstream.
 
@@ -289,7 +289,7 @@ Aquatic terrain is the least hospitable to most PCs, because they can’t breath
 
 **Non-Flowing Water**: Lakes and oceans simply require a swim speed or successful Swim checks to move through (DC 10 in calm water, DC 15 in rough water, DC 20 in stormy water). Characters need a way to breathe if they’re underwater; failing that, they risk drowning. When underwater, characters can move in any direction.
 
-**Stealth and Detection Underwater**: How far you can see underwater depends on the water’s clarity. As a guideline, creatures can see 4d8 × 10 feet if the water is clear, and 1d8 × 10 feet if it’s murky. Moving water is always murky, unless it’s in a particularly large, slow-moving river. It’s hard to find cover or concealment to hide underwater (except along the sea f loor).
+**Stealth and Detection Underwater**: How far you can see underwater depends on the water’s clarity. As a guideline, creatures can see 4d8 × 10 feet if the water is clear, and 1d8 × 10 feet if it’s murky. Moving water is always murky, unless it’s in a particularly large, slow-moving river. It’s hard to find cover or concealment to hide underwater (except along the sea floor).
 
 **Invisibility**: An invisible creature displaces water and leaves a visible, body-shaped “bubble” where the water was displaced. The creature still has concealment (20% miss chance), but not total concealment (50% miss chance).
 

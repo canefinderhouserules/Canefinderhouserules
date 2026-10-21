@@ -2,7 +2,7 @@
 
 *(Combat)*
 
-You hurl weapons with both hands and with great force, sometimes using a whirling technique to send your weapon f lying through the air at tremendous speeds.
+You hurl weapons with both hands and with great force, sometimes using a whirling technique to send your weapon flying through the air at tremendous speeds.
 
 **Prerequisite**: Str 15.
 

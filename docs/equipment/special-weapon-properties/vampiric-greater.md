@@ -81,7 +81,6 @@ This special ability functions as the *vampiric* special ability, except that th
 <thead>
 <tr class="header">
 <th><h1 id="transformative-greater"><span class="smallcaps">Transformative, Greater</span></h1>
-<p><strong>Source</strong> <a href="http://paizo.com/products/btpy9l37/discuss&amp;page=5?Pathfinder-Campaign-Setting-Inner-Sea-Intrigue"><em>Inner Sea Intrigue pg. 52</em></a></p>
 <p><strong>Aura</strong> strong transmutation <strong>CL</strong> 15th</p>
 <p><strong>Slot</strong> none; <strong>Price</strong> +15,000 gp; <strong>Weight</strong> —</p>
 <h3 id="description-146"><span class="smallcaps">Description</span></h3>
@@ -205,7 +204,7 @@ This special ability functions as the *vampiric* special ability, except that th
 <p><strong>Aura</strong> moderate enchantment <strong>CL</strong> 10th</p>
 <p><strong>Slot</strong> weapon quality; <strong>Price</strong> +3 bonus; <strong>Weight</strong> —</p>
 <h3 id="description-152"><span class="smallcaps">Description</span></h3>
-<p>This special ability can only be placed on melee weapons. A <em>repositioning</em> weapon grants the wielder a +2 enhancement bonus on combat maneuver checks to reposition a foe (<em>Advanced Player’s Guide</em> 322). I f the wielder confirms a critical hit with the weapon, he can attempt to reposition his opponent as a free action. These reposition attempts still provoke attacks of opportunity as normal. A weapon cannot have both the <em>anchoring</em> and <em>repositioning</em> special abilities.</p>
+<p>This special ability can only be placed on melee weapons. A <em>repositioning</em> weapon grants the wielder a +2 enhancement bonus on combat maneuver checks to reposition a foe (<em>Advanced Player’s Guide</em> 322). If the wielder confirms a critical hit with the weapon, he can attempt to reposition his opponent as a free action. These reposition attempts still provoke attacks of opportunity as normal. A weapon cannot have both the <em>anchoring</em> and <em>repositioning</em> special abilities.</p>
 <h3 id="construction-149"><span class="smallcaps">Construction</span></h3>
 <p><strong>Requirements</strong> Craft Magic Arms and Armor, <em>telekinesis</em>; <strong>Price</strong> —</p></th>
 </tr>

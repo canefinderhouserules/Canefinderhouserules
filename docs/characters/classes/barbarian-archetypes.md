@@ -254,7 +254,7 @@ Furthermore, the barbarian deals an additional 1d6 points of damage when she dam
 
 ## Flesheater
 
-A f lesheater eats flesh to create a spiritual bond between herself and the consumed creature, allowing her to take on aspects of the creature that served as the meal.
+A flesheater eats flesh to create a spiritual bond between herself and the consumed creature, allowing her to take on aspects of the creature that served as the meal.
 
 **Rage**: In additional to the standard bonuses and penalties of rage, a flesheater takes a –2 penalty to Intelligence while raging. The additional benefits and penalties from a flesheater’s abilities last only as long as her rage does, and she cannot use these abilities if they would bring the total penalty to Intelligence to an amount equal to or greater than her Intelligence score. This ability alters the rage ability.
 
@@ -262,7 +262,7 @@ A f lesheater eats flesh to create a spiritual bond between herself and the cons
 
 **Unbound Rage (Su)**: At 11th level, a flesheater can draw in mass from the Ethereal Plane to enlarge herself when she enters a rage, as long as the creature whose flesh she last consumed was at least one size category larger than her base size. Unbound rage affects her as enlarge person, except she receives a +4 size bonus to Strength and an additional –2 penalty to Intelligence. This ability replaces greater rage.
 
-**Feast (Su)**: At 14th level, a f lesheater can use her one flesh and unbound rage abilities to emulate any one valid consumed creature of her choice, rather than only the one she consumed most recently. This ability replaces the 14th-level rage power.
+**Feast (Su)**: At 14th level, a flesheater can use her one flesh and unbound rage abilities to emulate any one valid consumed creature of her choice, rather than only the one she consumed most recently. This ability replaces the 14th-level rage power.
 
 **Unbound Form (Su)**: At 20th level, a flesheater can use her one flesh ability to assume the shape of a valid consumed creature. This ability functions as alter self, beast shape IV, form of the dragon III, or giant form II, as appropriate. This is a polymorph effect. This ability replaces mighty rage.
 

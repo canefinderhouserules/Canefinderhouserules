@@ -48,7 +48,7 @@ Undines get along quite well with elves and gnomes. Often these races share prot
 
 The following racial traits might be selected instead of existing undine racial traits. Consult your GM before selecting any of these new options.
 
-**Acid Breath**: Undines whose outsider heritage can be traced to a water mephit can wield acid as a weapon. Such an undine has a breath weapon that is a 5-foot cone of acidic water usable once per day. The breath deals 1d8 points of acid damage per two character levels (maximum 5d8). A Ref lex saving throw (DC 10 + 1/2 the undine’s level + the undine’s Constitution modifier) halves the damage. This racial trait replaces the spell-like ability racial trait.
+**Acid Breath**: Undines whose outsider heritage can be traced to a water mephit can wield acid as a weapon. Such an undine has a breath weapon that is a 5-foot cone of acidic water usable once per day. The breath deals 1d8 points of acid damage per two character levels (maximum 5d8). A Reflex saving throw (DC 10 + 1/2 the undine’s level + the undine’s Constitution modifier) halves the damage. This racial trait replaces the spell-like ability racial trait.
 
 **Amphibious**: Some undines are born with a permanent bond to water. Undines with this racial trait gain the aquatic subtype and amphibious special quality. This racial trait replaces the spell-like ability racial trait.
 

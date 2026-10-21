@@ -2,7 +2,6 @@
 
 **Source** [*PRPG Core Rulebook pg. 42*](http://paizo.com/pathfinderRPG/v5748btpy88yj)
 
-**Deities**: [Alseta](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Alseta), [Arlachramas](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Arlachramas), [Aroden](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Aroden), [Bergelmir](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Bergelmir), [Bes](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Bes), [Bharnarol](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Bharnarol), [Bolka](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Bolka), [Ceyannan](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Ceyannan), [Daikitsu](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Daikitsu), [Dretha](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Dretha), [Elion](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Elion), [Erastil](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Erastil), [Fandarra](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Fandarra), [Findeladlara](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Findeladlara), [Folgrit](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Folgrit), [Gavidya](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Gavidya), [Ghenshau](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Ghenshau), [Grandmother Spider](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Grandmother%20Spider), [Grundinnar](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Grundinnar), [Iapholi](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Iapholi), [Imbrex](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Imbrex), [Inma](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Inma), [Isis](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Isis), [Jiraviddain](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Jiraviddain), [Kaikyton](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Kaikyton), [Kazutal](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Kazutal), [Kurgess](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Kurgess), [Lorris](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Lorris), [Lymnieris](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Lymnieris), [Lythertida](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Lythertida), [Matravash](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Matravash), [Mazludeh](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Mazludeh), [Nephthys](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Nephthys), [Nivi Rhombodazzle](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Nivi%20Rhombodazzle), [Shei](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Shei), [Svarozic](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Svarozic), [Thisamet](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Thisamet), [Ulon](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Ulon), [Vale](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Vale), [Yig](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Yig)
 
 **Granted Powers**: Your touch can heal wounds, and your presence instills unity and strengthens emotional bonds.
 
@@ -14,11 +13,9 @@
 
 ###  <span class="smallcaps">Cooperation Subdomain</span>
 
-**Source** [*Inner Sea Gods pg. 224*](http://paizo.com/products/btpy94wj?Pathfinder-Campaign-Setting-Inner-Sea-Gods-Hardcover), [*Champions of Purity pg. 20*](http://paizo.com/products/btpy8x1s?Pathfinder-Player-Companion-Champions-of-Purity)
 
 **Associated Domain(s)**: Community
 
-**Associated Deities**: [Arqueros](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Arqueros), [Bharnarol](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Bharnarol), [Elion](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Elion), [Hembad](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Hembad), [Matravash](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Matravash), [Mazludeh](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Mazludeh), [Nephthys](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Nephthys), [Svarozic](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Svarozic), [Ulon](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Ulon)
 
 **Replacement Power**: The following granted power replaces the calming touch ability of the Community domain.
 
@@ -32,7 +29,6 @@
 
 **Associated Domain(s)**: Community, Knowledge
 
-**Associated Deities**: [Abraxas](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Abraxas), [Andoletta](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Andoletta), [Bergelmir](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Bergelmir), [Bharnarol](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Bharnarol), [Elion](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Elion), [Erastil](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Erastil), [Eritrice](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Eritrice), [Irori](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Irori), [Nethys](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Nethys), [Shei](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Shei), [Svarozic](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Svarozic)
 
 **Replacement Power**: The following granted power replaces the unity power of the Community domain or the remote viewing power of the Knowledge domain.
 
@@ -46,7 +42,6 @@
 
 **Associated Domain(s)**: Community
 
-**Associated Deities**: [Bergelmir](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Bergelmir), [Bes](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Bes), [Bolka](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Bolka), [Daikitsu](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Daikitsu), [Dretha](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Dretha), [Erastil](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Erastil), [Fandarra](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Fandarra), [Folgrit](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Folgrit), [Gavidya](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Gavidya), [Iapholi](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Iapholi), [Imbrex](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Imbrex), [Inma](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Inma), [Isis](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Isis), [Jiraviddain](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Jiraviddain), [Kaikyton](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Kaikyton), [Kurgess](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Kurgess), [Lorris](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Lorris), [Lythertida](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Lythertida), [Mazludeh](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Mazludeh), [Shei](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Shei), [Svarozic](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Svarozic), [Thisamet](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Thisamet)
 
 **Replacement Power**: The following power replaces the calming touch power of the Community domain.
 
@@ -60,7 +55,6 @@
 
 **Associated Domain(s)**: Community
 
-**Associated Deities**: [Alseta](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Alseta), [Bergelmir](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Bergelmir), [Bes](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Bes), [Daikitsu](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Daikitsu), [Dretha](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Dretha), [Elion](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Elion), [Erastil](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Erastil), [Fandarra](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Fandarra), [Findeladlara](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Findeladlara), [Folgrit](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Folgrit), [Ghenshau](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Ghenshau), [Imbrex](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Imbrex), [Inma](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Inma), [Jiraviddain](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Jiraviddain), [Kurgess](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Kurgess)
 
 **Replacement Power**: The following granted power replaces the unity power of the Community domain.
 

@@ -2,7 +2,7 @@
 
 *(Combat)*
 
-You present a serene facade until you unsheathe your weapon and strike in one f luid motion.
+You present a serene facade until you unsheathe your weapon and strike in one fluid motion.
 
 **Prerequisites**: Weapon expertise class feature or Quick Draw, Bluff 1 rank.
 

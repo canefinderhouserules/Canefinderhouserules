@@ -2,7 +2,7 @@
 
 *(Combat)*
 
-The power f lowing through your veins also f lows through your unarmed strike.
+The power flowing through your veins also flows through your unarmed strike.
 
 **Prerequisites**: Sorcerer bloodline class feature, Improved Unarmed Strike.
 

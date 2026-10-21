@@ -36,7 +36,7 @@ While many cavaliers are the champions of old fighting forms, some younger, more
 
 ## Ghost Rider
 
-Ghost riders are conf licted warriors who use the powers of the phantasmal dead even while seeking out and banishing the corruption of undeath from plagued communities. Their strange abilities mark them as outsiders and stoic loners, and they stay in one place only long enough to help the afflicted before riding off to unknown destinations.
+Ghost riders are conflicted warriors who use the powers of the phantasmal dead even while seeking out and banishing the corruption of undeath from plagued communities. Their strange abilities mark them as outsiders and stoic loners, and they stay in one place only long enough to help the afflicted before riding off to unknown destinations.
 
 **Ghost Mount (Su)**: At 1st level, a ghost rider gains the ability to manifest a special mount of conjured ectoplasm rather than one of flesh and bone. This spectral companion functions like a spiritualist’s phantom companion, using the ghost rider’s cavalier level as her effective spiritualist level. The phantom takes the form of a ghostly creature analogous to one of a cavalier’s normal mount options for her size and class level, such as a Large horse for a Medium ghost rider or a wolf for a Small ghost rider. A ghost rider must choose a mount that is capable of bearing her weight, that has four or more legs, and that lacks a fly speed (although the GM may allow mounts with a swim speed in certain environments). The GM might approve other animals as suitable mounts.
 

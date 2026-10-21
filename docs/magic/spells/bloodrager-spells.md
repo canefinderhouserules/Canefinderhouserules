@@ -116,7 +116,7 @@ Bloodragers gain access to the following spells. Spells in plain text come from 
 - **[Stone Discus](stone-discus.md)**: Flying discus deals bludgeoning or slashing damage.
 - **[Symbol of Exsanguination](symbol-of-exsanguination.md)**: Triggered rune causes nearby creatures to bleed.
 - **[Touch of Idiocy](touch-of-idiocy.md)**: Subject takes 1d6 penalty to Int, Wis, and Cha.
-- **[Unshakable Chill](unshakable-chill.md)**: Target is aff licted with severe cold.
+- **[Unshakable Chill](unshakable-chill.md)**: Target is afflicted with severe cold.
 - **[Vine Strike](vine-strike.md)**: Enhance one of your natural or unarmed attacks with thorny vine growth.
 - **[With the Wind](with-the-wind.md)**: Protect a target from being blown away by wind of less than windstorm force.
 
@@ -233,6 +233,6 @@ Bloodragers gain access to the following spells. Spells in plain text come from 
 - **[Volcanic Storm](volcanic-storm.md)**: Hot rocks deal 5d6 damage.
 - **[Wall of Fire](wall-of-fire.md)**: Deals 2d4 fire damage out to 10 ft. and 1d4 out to 20 ft. Passing through wall deals 2d6 damage +1/level.
 - **[Wall of Ice](wall-of-ice.md)**: *Ice plane* creates wall or *hemisphere* creates dome.
-- **[Wall of Sound](wall-of-sound.md)**: Sonic wall def lects and damages creatures.
+- **[Wall of Sound](wall-of-sound.md)**: Sonic wall deflects and damages creatures.
 - **[Wooden Wing Shield](wooden-wing-shield.md)**: Your wings become a barrier granting a +4 shield bonus to AC.
 - Wreath of Blades

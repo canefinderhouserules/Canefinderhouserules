@@ -343,7 +343,7 @@ The following evolutions cost 1 point from the eidolon’s evolution pool.
 
 **Climb (Ex)**: The eidolon becomes a skilled climber, gaining a climb speed equal to its base speed. This evolution can be selected more than once. Each additional time it is selected, increase the eidolon’s climb speed by 20 feet.
 
-**Gills (Ex)**: The eidolon has gills and can breathe underwater indef initely.
+**Gills (Ex)**: The eidolon has gills and can breathe underwater indefinitely.
 
 **Improved Damage (Ex)**: One of the eidolon’s natural attacks is particularly deadly. Select one natural attack form and increase the damage die by one step. This evolution can be selected more than once. Its effects do not stack. Each time the eidolon selects this evolution, it applies to a different natural attack.
 

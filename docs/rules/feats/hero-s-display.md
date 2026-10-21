@@ -2,7 +2,7 @@
 
 *(Combat, Performance)*
 
-With a dramatic f lourish you display your weapons to the crowd. Onlookers are elated, and your enemies are demoralized.
+With a dramatic flourish you display your weapons to the crowd. Onlookers are elated, and your enemies are demoralized.
 
 **Prerequisites**: Dazzling Display, Weapon Focus, and proficiency with the selected weapon.
 

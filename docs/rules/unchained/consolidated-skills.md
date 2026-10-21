@@ -788,7 +788,7 @@ By succeeding at a Spellcraft check, you can determine specific types of spells 
 
 #### Identify Monsters
 
-Spellcraft can be used to identify monsters of the construct, dragon, and magical beast types. See the Monster Identif ication sidebar.
+Spellcraft can be used to identify monsters of the construct, dragon, and magical beast types. See the Monster Identification sidebar.
 
 #### Learn or Borrow Spells
 

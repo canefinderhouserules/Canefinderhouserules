@@ -2,7 +2,6 @@
 
 ***Source** [PRPG Core Rulebook pg. 45](http://paizo.com/pathfinderRPG/v5748btpy88yj)*
 
-***Deities**: [Andirifkhu](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Andirifkhu), [Atropos](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Atropos), [Bes](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Bes), [Calistria](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Calistria), [Chadali](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Chadali), [Chaldira](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Chaldira), [Chinostes (Evil Aspect)](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Chinostes%20(Evil%20Aspect)), [Chinostes (Good Aspect)](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Chinostes%20(Good%20Aspect)), [Dachzerul](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Dachzerul), [Dammar](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Dammar), [Desna](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Desna), [Graffiacane](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Graffiacane), [Grandmother Spider](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Grandmother%20Spider), [Halcamora](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Halcamora), [Hembad](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Hembad), [Imot](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Imot), [Irez](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Irez), [Kofusachi](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Kofusachi), [Kurgess](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Kurgess), [Lalaci](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Lalaci), [Lao Shu Po](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Lao%20Shu%20Po), [Magdh](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Magdh), [Nivi Rhombodazzle](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Nivi%20Rhombodazzle), [Raetorgash](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Raetorgash), [Shelyn](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Shelyn), [Shelyn (pre-Earthfall)](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Shelyn%20(pre-Earthfall)), [Sinashakti](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Sinashakti), [Uaransaph](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Uaransaph), [Yabu](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Yabu)*
 
 ***Granted Powers**: You are infused with luck, and your mere presence can spread good fortune.*
 
@@ -18,7 +17,6 @@
 
 ***Associated Domain(s)**: Luck*
 
-***Associated Deities**: [Andirifkhu](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Andirifkhu), [Calistria](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Calistria), [Chinostes (Evil Aspect)](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Chinostes%20(Evil%20Aspect)), [Chinostes (Good Aspect)](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Chinostes%20(Good%20Aspect)), [Dachzerul](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Dachzerul), [Desna](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Desna), [Graffiacane](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Graffiacane), [Lao Shu Po](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Lao%20Shu%20Po), [Magdh](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Magdh), [Raetorgash](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Raetorgash), [Yabu](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Yabu)*
 
 ***Replacement Power**: The following granted power replaces the bit of luck power of the Luck domain.*
 
@@ -32,7 +30,6 @@
 
 ***Associated Domain(s)**: Luck*
 
-***Associated Deities**: [Chadali](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Chadali), [Chaldira](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Chaldira), [Desna](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Desna), [Hembad](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Hembad), [Irez](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Irez), [Kofusachi](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Kofusachi), [Kurgess](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Kurgess), [Lalaci](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Lalaci), [Magdh](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Magdh), [Nivi Rhombodazzle](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Nivi%20Rhombodazzle), [Raetorgash](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Raetorgash), [Shelyn](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Shelyn), [Shelyn (pre-Earthfall)](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Shelyn%20(pre-Earthfall)), [Sinashakti](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Sinashakti), [Uaransaph](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Uaransaph)*
 
 ***Replacement Power**: The following granted power replaces the good fortune power of the Luck domain.*
 
@@ -46,7 +43,6 @@
 
 ***Associated Domain(s)**: Luck*
 
-***Associated Deities**: [Bes](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Bes)*
 
 ***Replacement Power**: The following granted power replaces the good fortune ability of the Luck domain.*
 

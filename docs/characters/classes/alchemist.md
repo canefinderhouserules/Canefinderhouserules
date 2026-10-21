@@ -151,7 +151,7 @@ Smoke bomb*: When the alchemist creates a bomb, he can choose to have it create 
 
 **Sticky poison**: Any poison the alchemist creates is sticky—when the alchemist applies it to a weapon, the weapon remains poisoned for a number of strikes equal to the alchemist’s Intelligence modifier. An alchemist must be at least 6th level before selecting this discovery.
 
-Stink bomb*: The effects of the smoke created by an alchemist’s bomb can duplicate the effects of stinking cloud instead of fog cloud, f illing an area equal to twice the bomb’s splash radius for 1 round. An alchemist must possess the smoke bomb discovery before selecting this discovery.
+Stink bomb*: The effects of the smoke created by an alchemist’s bomb can duplicate the effects of stinking cloud instead of fog cloud, filling an area equal to twice the bomb’s splash radius for 1 round. An alchemist must possess the smoke bomb discovery before selecting this discovery.
 
 **Poison Resistance (Ex)**: At 2nd level, an alchemist gains a +2 bonus on all saving throws against poison. This bonus increases to +4 at 5th level, and then again to +6 at 8th level. At 10th level, an alchemist becomes completely immune to poison.
 

@@ -4,7 +4,7 @@ Rather than introducing new rules, this section explains the nuances of possessi
 
 ## What Is Possession?
 
-True possession is when a creature displaces or overrides the target’s consciousness with its own, establishing direct control over the target’s body. The Pathfinder RPG features several effects that are often conf lated with possession. The section below describes several possession and possession-like effects and the differences between them.
+True possession is when a creature displaces or overrides the target’s consciousness with its own, establishing direct control over the target’s body. The Pathfinder RPG features several effects that are often conflated with possession. The section below describes several possession and possession-like effects and the differences between them.
 
 **Domination**: Dominate spells are often confused with possession, as they produce superficially similar outcomes. However, domination and possession are not the same. Domination is mind-control, enslaving the target’s mind and forcing it to carry out the caster’s will; thus, the caster doesn’t directly control the target’s body. The target’s dominated mind merely carries out a mandate given by the caster with the means, knowledge, and experience it has available.
 
@@ -30,7 +30,7 @@ and the possession spell works similarly. This term wasn’t previously defined,
 
 • The possessor can use nonmagical and magical class abilities such as domain, hex, rage, and school powers.
 
-Supernatural abilities (with the exception of class abilities) are not considered mental abilities, as they generally rely upon a creature’s physical form. For example, a red dragon possessing a cleric of Iomedae could not use its breath weapon ability to breathe fire while inhabiting the cleric’s form. The GM can choose to make a specific exception if she believes an ability is solely mental in nature.
+Supernatural abilities (with the exception of class abilities) are not considered mental abilities, as they generally rely upon a creature’s physical form. For example, a red dragon possessing a cleric of a good deity could not use its breath weapon ability to breathe fire while inhabiting the cleric’s form. The GM can choose to make a specific exception if she believes an ability is solely mental in nature.
 
 ## Rule Interactions
 

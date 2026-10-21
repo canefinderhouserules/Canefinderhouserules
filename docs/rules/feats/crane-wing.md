@@ -2,7 +2,7 @@
 
 *(Combat)*
 
-You move with the speed and finesse of an avian hunter, your sweeping blocks and graceful motions allowing you to def lect melee attacks with ease.
+You move with the speed and finesse of an avian hunter, your sweeping blocks and graceful motions allowing you to deflect melee attacks with ease.
 
 **Prerequisites**: Crane Style, Dodge, Improved Unarmed Strike, base attack bonus +5 or monk level 5th.
 

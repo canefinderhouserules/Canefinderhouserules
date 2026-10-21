@@ -2,7 +2,6 @@
 
 ***Source** [PRPG Core Rulebook pg. 48](http://paizo.com/pathfinderRPG/v5748btpy88yj)*
 
-***Deities**: [Aegirran](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Aegirran), [Besmara](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Besmara), [Bokrug](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Bokrug), [Daikitsu](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Daikitsu), [Diceid](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Diceid), [Elion](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Elion), [Gozreh](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Gozreh), [Halcamora](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Halcamora), [Hataam](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Hataam), [Hei Feng](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Hei%20Feng), [Hshurha](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Hshurha), [Imot](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Imot), [Ithaqua](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Ithaqua), [Ketephys](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Ketephys), [Maat](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Maat), [Nataka](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Nataka), [Ng](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Ng), [Psomeira](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Psomeira), [Pulura](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Pulura), [Rasvocel](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Rasvocel), [Roqorolos](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Roqorolos), [Rovagug](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Rovagug), [Rull](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Rull), [Set](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Set), [Sithhud](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Sithhud), [Trelmarixian](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Trelmarixian), [Urxehl](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Urxehl), [Valani](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Valani), [Vermilion Mother](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Vermilion%20Mother), [Vois](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Vois), [Vonymos](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Vonymos), [Yan-gant-y-tan](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Yan-gant-y-tan)*
 
 ***Granted Powers**: With power over storm and sky, you can call down the wrath of the gods upon the world below.*
 
@@ -20,7 +19,6 @@
 
 ***Associated Domain(s)**: Weather*
 
-***Associated Deities**: [Daikitsu](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Daikitsu), [Gozreh](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Gozreh), [Hei Feng](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Hei%20Feng), [Rull](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Rull)*
 
 ***Replacement Power**: The following granted power replaces the lightning lord ability of the Weather domain.*
 
@@ -34,7 +32,6 @@
 
 ***Associated Domain(s)**: Weather*
 
-***Associated Deities**: [Aegirran](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Aegirran), [Daikitsu](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Daikitsu), [Gozreh](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Gozreh), [Halcamora](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Halcamora), [Hataam](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Hataam), [Ketephys](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Ketephys), [Maat](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Maat), [Nataka](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Nataka), [Ng](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Ng), [Psomeira](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Psomeira), [Pulura](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Pulura), [Rasvocel](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Rasvocel), [Trelmarixian](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Trelmarixian), [Valani](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Valani), [Vois](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Vois)*
 
 ***Replacement Power**: The following granted power replaces the storm burst power of the Weather domain.*
 
@@ -48,7 +45,6 @@
 
 ***Associated Domain(s)**: Weather*
 
-***Associated Deities**: [Aegirran](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Aegirran), [Besmara](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Besmara), [Bokrug](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Bokrug), [Diceid](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Diceid), [Hataam](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Hataam), [Hei Feng](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Hei%20Feng), [Hshurha](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Hshurha), [Ithaqua](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Ithaqua), [Rasvocel](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Rasvocel), [Roqorolos](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Roqorolos), [Rovagug](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Rovagug), [Rull](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Rull), [Set](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Set), [Sithhud](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Sithhud), [Tolc](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Tolc), [Urxehl](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Urxehl), [Valani](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Valani), [Vois](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Vois), [Yan-gant-y-tan](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Yan-gant-y-tan)*
 
 ***Replacement Power**: The following granted power replaces the lightning lord power of the Weather domain.*
 

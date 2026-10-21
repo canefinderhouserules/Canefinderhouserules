@@ -2,7 +2,7 @@
 
 *(Combat)*
 
-Calling upon the burning spirits of incarnate f lame, you can manipulate fire to protect yourself and immolate your foes.
+Calling upon the burning spirits of incarnate flame, you can manipulate fire to protect yourself and immolate your foes.
 
 **Prerequisites**: Con 15, Wis 15, Efreeti Style, Elemental Fist, Improved Unarmed Strike, base attack bonus +11 or monk level 9th.
 

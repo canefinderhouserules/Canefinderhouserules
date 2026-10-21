@@ -39,7 +39,7 @@ At 1st level, a character gains training in a number of skill groups determined 
 
 ⁵ This category includes the rogue.
 
-If a skill is on her class skill list, she gains the +3 bonus if she’s trained in its skill group or has a specialty in it— she doesn’t have to both be trained and have a specialty. Class skill bonuses look only at specific skills, not groups. If Diplomacy is on a character’s class skill list but Bluff isn’t, having training in the Social skill group doesn’t allow that character to gain the class skill bonus on Bluff checks. Any circumstance that modif ies skill checks, such as the Skill Focus feat or certain spells, still grants the same bonus or penalty as it would if the campaign weren’t using grouped skills.
+If a skill is on her class skill list, she gains the +3 bonus if she’s trained in its skill group or has a specialty in it— she doesn’t have to both be trained and have a specialty. Class skill bonuses look only at specific skills, not groups. If Diplomacy is on a character’s class skill list but Bluff isn’t, having training in the Social skill group doesn’t allow that character to gain the class skill bonus on Bluff checks. Any circumstance that modifies skill checks, such as the Skill Focus feat or certain spells, still grants the same bonus or penalty as it would if the campaign weren’t using grouped skills.
 
 ### Grouped Skills in Other Variants
 

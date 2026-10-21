@@ -2,7 +2,6 @@
 
 ***Source** [PRPG Core Rulebook pg. 46](http://paizo.com/pathfinderRPG/v5748btpy88yj)*
 
-***Deities**: [Angazhan](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Angazhan), [Barbariccia](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Barbariccia), [Cernunnos](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Cernunnos), [Cyth-V'sug](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Cyth-V%27sug), [Daikitsu](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Daikitsu), [Diceid](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Diceid), [Erastil](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Erastil), [Fandarra](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Fandarra), [Furcas](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Furcas), [Gozreh](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Gozreh), [Green Faith](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Green%20Faith), [Halcamora](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Halcamora), [Il'surrish](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Il%27surrish), [Immonhiel](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Immonhiel), [Jaidi](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Jaidi), [Kelksiomides](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Kelksiomides), [Ketephys](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Ketephys), [Lady Nanbyo](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Lady%20Nanbyo), [Nhimbaloth](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Nhimbaloth), [Oaur-Ooung](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Oaur-Ooung), [Osiris](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Osiris), [Pirias](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Pirias), [Shub-Niggurath](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Shub-Niggurath), [Tamede](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Tamede), [The Green Mother](https://www.aonprd.com/DeityDisplay.aspx?ItemName=The%20Green%20Mother), [Treerazer](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Treerazer), [Vermilion Mother](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Vermilion%20Mother), [Xhamen-Dor](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Xhamen-Dor), [Zyphus](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Zyphus)*
 
 ***Granted Powers**: You find solace in the green, can grow defensive thorns, and can communicate with plants.*
 
@@ -18,7 +17,6 @@
 
 ***Associated Domain(s)**: Plant*
 
-***Associated Deities**: [Angazhan](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Angazhan), [Cyth-V'sug](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Cyth-V%27sug), [Gozreh](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Gozreh), [Lady Nanbyo](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Lady%20Nanbyo), [Nhimbaloth](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Nhimbaloth), [Oaur-Ooung](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Oaur-Ooung), [Shub-Niggurath](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Shub-Niggurath), [Tamede](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Tamede), [The Green Mother](https://www.aonprd.com/DeityDisplay.aspx?ItemName=The%20Green%20Mother), [Treerazor](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Treerazor), [Trelmarixian](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Trelmarixian), [Vermilion Mother](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Vermilion%20Mother), [Vorasha](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Vorasha), [Xhamen-Dor](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Xhamen-Dor), [Zyphus](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Zyphus)*
 
 ***Replacement Power**: The following granted power replaces the bramble armor power of the Plant domain.*
 
@@ -32,7 +30,6 @@
 
 ***Associated Domain(s)**: Plant*
 
-***Associated Deities**: [Angazhan](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Angazhan), [Barbariccia](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Barbariccia), [Cernunnos](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Cernunnos), [Cyth-V'sug](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Cyth-V%27sug), [Daikitsu](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Daikitsu), [Erastil](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Erastil), [Fandarra](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Fandarra), [Furcas](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Furcas), [Gozreh](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Gozreh), [Halcamora](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Halcamora), [Immonhiel](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Immonhiel), [Jaidi](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Jaidi), [Ketephys](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Ketephys), [Oaur-Ooung](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Oaur-Ooung), [Osiris](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Osiris), [Pirias](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Pirias), [Shub-Niggurath](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Shub-Niggurath), [Tamede](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Tamede), [The Green Mother](https://www.aonprd.com/DeityDisplay.aspx?ItemName=The%20Green%20Mother), [Valani](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Valani), [Vermilion Mother](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Vermilion%20Mother)*
 
 ***Replacement Power**: The following granted power replaces the wooden fist power of the Plant domain.*
 
@@ -46,7 +43,6 @@
 
 ***Associated Domain(s)**: Plant*
 
-***Associated Deities**: [Gozreh](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Gozreh), [Green Faith](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Green%20Faith)*
 
 ***Replacement Power**: The following granted power replaces the wooden fist power of the Plant domain.*
 
@@ -64,7 +60,6 @@
 
 ***Associated Domain(s)**: Plant*
 
-***Associated Deities**: [Shub-Niggurath](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Shub-Niggurath), [The Green Mother](https://www.aonprd.com/DeityDisplay.aspx?ItemName=The%20Green%20Mother), [Zyphus](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Zyphus)*
 
 ***Replacement Power**: The following granted power replaces the wooden fist power of the Plant domain.*
 

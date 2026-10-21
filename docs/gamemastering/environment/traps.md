@@ -98,7 +98,7 @@ Monsters sometimes live in pits. Any monster that can fit into the pit might hav
 
 A secondary trap, mechanical or magical, at the bottom of a pit can be particularly deadly. Activated by a falling victim, the secondary trap attacks the already injured character when she’s least ready for it.
 
-**Ranged Attack Traps**: These traps f ling darts, arrows, spears, or the like at whomever activated the trap. The builder sets the attack bonus. A ranged attack trap can be configured to simulate the effect of a composite bow with a high Strength rating, which provides the trap with a bonus on damage equal to its Strength rating. These traps deal whatever damage their ammunition normally does. If a trap is constructed with a high Strength rating, it has a corresponding bonus on damage.
+**Ranged Attack Traps**: These traps fling darts, arrows, spears, or the like at whomever activated the trap. The builder sets the attack bonus. A ranged attack trap can be configured to simulate the effect of a composite bow with a high Strength rating, which provides the trap with a bonus on damage equal to its Strength rating. These traps deal whatever damage their ammunition normally does. If a trap is constructed with a high Strength rating, it has a corresponding bonus on damage.
 
 **Melee Attack Traps**: These traps feature such obstacles as sharp blades that emerge from walls and stone blocks that fall from ceilings. Once again, the builder sets the attack bonus. These traps deal the same damage as the melee weapons they “wield.” In the case of a falling stone block, you can assign any amount of bludgeoning damage you like, but remember that whoever resets the trap has to lift that stone back into place.
 

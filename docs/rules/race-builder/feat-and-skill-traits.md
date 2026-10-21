@@ -115,7 +115,7 @@ Feat and skill racial traits typically grant bonuses on particular skills or gra
 
 **Stonecunning (1 RP)**  
 *Prerequisites*: None  
-*Benefit*: Members of this race receive a +2 bonus on Perception checks to notice unusual stonework, such as traps and hidden doors located in stone walls or f loors. They receive a check to notice such features whenever they pass within 10 feet of them, whether or not they are actively looking.
+*Benefit*: Members of this race receive a +2 bonus on Perception checks to notice unusual stonework, such as traps and hidden doors located in stone walls or floors. They receive a check to notice such features whenever they pass within 10 feet of them, whether or not they are actively looking.
 
 **Underground Sneak (5 RP)**  
 *Prerequisite*: Race is native to the Underworld  

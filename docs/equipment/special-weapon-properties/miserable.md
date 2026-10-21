@@ -102,7 +102,6 @@ A *miserable* weapon cuts through the energy resistance of certain foes. *Misera
 <thead>
 <tr class="header">
 <th><h1 id="pitfall"><span class="smallcaps">Pitfall</span></h1>
-<p><strong>Source</strong> <a href="http://paizo.com/store/downloads/pathfinder/pathfinderCompanion/35E/v5748btpy8853"><em>Taldor, Echoes of Glory pg. 27</em></a></p>
 <p><strong>Aura</strong> moderate transmutation <strong>CL</strong> 5th</p>
 <p><strong>Slot</strong> weapon quality; <strong>Price</strong> +1 bonus; <strong>Weight</strong> —</p>
 <h3 id="description-63"><span class="smallcaps">Description</span></h3>

@@ -404,7 +404,7 @@ Diehard, Endurance, Great Fortitude, Improved Bull Rush, and Toughness. She must
 
 ## Bat Shaman
 
-The bat shaman’s totem is the agile bat, f litting and turning with incredible speed through even the most convoluted mazes. Her enemies do not know when she will appear, and when she does, she strikes fast and hard before disappearing into the night.
+The bat shaman’s totem is the agile bat, flitting and turning with incredible speed through even the most convoluted mazes. Her enemies do not know when she will appear, and when she does, she strikes fast and hard before disappearing into the night.
 
 **Nature Bond**: A bat shaman who chooses an animal companion must select a bat. If choosing a domain, the bat shaman must choose from Air, Animal, Darkness (Night subdomain), and Trickery (Deception subdomain).
 

@@ -684,7 +684,7 @@ During the creation process, you receive signs that indicate your patron’s fav
 
 Perks are beneficial adjustments to an item, often gained from critical success at a challenge. The strongest perks tend to have the highest numbers on the table below.
 
-Reroll duplicates and perks that don’t f it the item. Feel free to invent your own perks or apply an appropriate perk without rolling.
+Reroll duplicates and perks that don’t fit the item. Feel free to invent your own perks or apply an appropriate perk without rolling.
 
 **Table: Perks**
 
@@ -883,7 +883,7 @@ This imposes a –1 penalty on saves against environmental cold, cold effects, a
 
 ## Flaws
 
-Flaws are adjustments to an item that are detrimental in nature. Most are similar to curses, but not nearly as damaging or restrictive to the bearer. Whenever a challenge would add a flaw to an item, roll on the following table. In general, the more harmful flaws have higher numbers on the table. Reroll duplicates and flaws that do not f it the item. Feel free to invent your own flaws or simply choose an appropriate one.
+Flaws are adjustments to an item that are detrimental in nature. Most are similar to curses, but not nearly as damaging or restrictive to the bearer. Whenever a challenge would add a flaw to an item, roll on the following table. In general, the more harmful flaws have higher numbers on the table. Reroll duplicates and flaws that do not fit the item. Feel free to invent your own flaws or simply choose an appropriate one.
 
 **Accumulating Flaws**: The more flaws the item has, the more likely it is to become cursed. For each flaw beyond the first, add a cumulative +5 modifier to the d% roll until the item gains a curse (after which the +5 modifiers no longer apply). When you decide to create a new flaw or choose an appropriate one rather than rolling, you should still roll first to determine whether the item gains a curse instead.
 

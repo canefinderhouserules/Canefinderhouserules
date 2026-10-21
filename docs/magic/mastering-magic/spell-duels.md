@@ -6,9 +6,9 @@ Spellcasters are no strangers to battle, but there’s a difference between the 
 
 A spell duel is a form of combat, but unlike ordinary combat, the participants must all agree to willingly enter the duel and abide by its rules. If either side breaks the rules, it is considered the loser of the duel, regardless of any other outcome, and if its members continue aggressive action, the fight returns to the standard rules for combat. The rules for a duel between spellcasters are usually very simple, but can be changed and altered by the participants, so long as both sides agree. Such discussions typically happen before the duel, allowing both sides to properly prepare, but as with all elements of a duel, this is not always the case. Most duels utilize the following simple rules.
 
-•	 Each participant must f ight alone and can receive no help from outside sources, with the exception of familiars or other bonded creatures.
+•	 Each participant must fight alone and can receive no help from outside sources, with the exception of familiars or other bonded creatures.
 
-•	 Each participant must f ight with magic. The use of melee or ranged weapons is forbidden, with the exception of bonded objects and weapons that can cast spells, such as staves.
+•	 Each participant must fight with magic. The use of melee or ranged weapons is forbidden, with the exception of bonded objects and weapons that can cast spells, such as staves.
 
 •	 The use of summoned or otherwise conjured creatures is forbidden, unless the duel expects such creatures to combat one another at the behest of the participants (rather than directly attacking the dueling opponent).
 

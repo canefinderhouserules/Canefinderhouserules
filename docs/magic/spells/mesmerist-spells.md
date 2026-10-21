@@ -106,7 +106,7 @@ Mesmerists gain access to the following spells. Spells without a link come from 
 - **[Touch of Gracelessness](touch-of-gracelessness.md)**: Subject loses 1d6 + 1 Dex/two levels and is prone to falling down.
 - **[Undetectable Alignment](undetectable-alignment.md)**: Conceals alignment for 24 hours.
 - **[Unnatural Lust](unnatural-lust.md)**: Target is compelled to kiss or caress another creature.
-- **[Unprepared Combatant](unprepared-combatant.md)**: Target takes –4 on initiative and Ref lex saves.
+- **[Unprepared Combatant](unprepared-combatant.md)**: Target takes –4 on initiative and Reflex saves.
 - **[Unseen Servant](unseen-servant.md)**: Invisible force obeys your commands.
 - **[Vanish](vanish.md)**: As invisibility for 1 round/level (5 max).
 - **[Ventriloquism](ventriloquism.md)**: Throws voice for 1 min./level.

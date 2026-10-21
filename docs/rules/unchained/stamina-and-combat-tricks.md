@@ -346,7 +346,7 @@ Nearly every combat feat has a combat trick associated with it. Some very basic 
 
 **Following Step (Combat)**: When you use this feat to move, you can spend 2 stamina points to increase your movement to 15 feet.
 
-**Fortif ied Armor Training (Combat)**: When you use this feat to negate a critical hit, you can spend 5 stamina points to give your armor or shield a 50% chance to avoid gaining the broken condition.
+**Fortified Armor Training (Combat)**: When you use this feat to negate a critical hit, you can spend 5 stamina points to give your armor or shield a 50% chance to avoid gaining the broken condition.
 
 **Furious Focus (Combat)**: When using the Power Attack feat and wielding a two-handed melee weapon or a one- handed melee weapon with two hands, you can spend 5 stamina points. If you do, each successful attack you make against a target reduces your Power Attack penalty against that target by 1 (to a minimum of 0) until the beginning of your next turn.
 
@@ -552,7 +552,7 @@ Nearly every combat feat has a combat trick associated with it. Some very basic 
 
 **Kirin Path (Combat)**: When using Kirin Style, you can spend 5 stamina points instead of using an attack of opportunity to move a distance equal to 5 feet × your Intelligence modifier.
 
-**Kirin Strike (Combat)**: As long as you have at least 1 stamina point in your stamina pool, when you hit a creature you have identif ied with Kirin Style, you add your Intelligence modifier to melee and ranged attack damage rolls against that creature for the next 24 hours. You still can take a swift action to add twice your Intelligence modifier to damage rolls, but that damage doesn’t stack with the damage from this combat trick.
+**Kirin Strike (Combat)**: As long as you have at least 1 stamina point in your stamina pool, when you hit a creature you have identified with Kirin Style, you add your Intelligence modifier to melee and ranged attack damage rolls against that creature for the next 24 hours. You still can take a swift action to add twice your Intelligence modifier to damage rolls, but that damage doesn’t stack with the damage from this combat trick.
 
 **Kirin Style (Combat, Style)**: When you attempt a Knowledge check to identify a creature, you can spend up to 2 stamina points to gain a bonus on that check equal to double the number of stamina points you spent.
 
@@ -690,7 +690,7 @@ Nearly every combat feat has a combat trick associated with it. Some very basic 
 
 **Pinpoint Targeting (Combat)**: When you use this feat, you can spend stamina points to retain the ability to move. If you spend 2 stamina points, you can take a 5-foot step after you make the attack. If you instead spend 5 stamina points, you can move up to half your speed as a move action.
 
-**Point-Blank Master (Combat)**: When f iring any type of ranged weapon, throwing a weapon, or making a ranged touch attack, you can spend 2 stamina points to avoid provoking an attack of opportunity.
+**Point-Blank Master (Combat)**: When firing any type of ranged weapon, throwing a weapon, or making a ranged touch attack, you can spend 2 stamina points to avoid provoking an attack of opportunity.
 
 **Point-Blank Shot (Combat)**: You can spend up to 6 stamina points to increase this feat’s range by 5 feet for each stamina point you spent.
 

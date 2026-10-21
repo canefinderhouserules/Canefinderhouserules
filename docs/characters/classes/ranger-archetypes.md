@@ -411,7 +411,7 @@ Some rangers devote their lives to the woods, becoming hunters, protectors, and 
 
 **Deep Knowledge (Ex)**: At 3rd level, a deep walker gains a +2 bonus on initiative checks and Knowledge (dungeoneering), Perception, Stealth, and Survival skill checks while underground (in caves and dungeons). Every 5 levels thereafter, the deep walker gains an additional +3 on each of those checks while underground (to a maximum of +11 at 18th level). This ability replaces favored terrain.
 
-**Rock Hopper (Ex)**: At 7th level, a deep walker instinctively grasps for the most stable surfaces and holds on tighter while moving over underground rock and stone. The deep walker gains a +5 bonus on all Acrobatics and Climb checks made to traverse underground terrain. Furthermore, the deep walker ignores difficult terrain created by underground terrain and subterranean f lora. This ability replaces woodland stride.
+**Rock Hopper (Ex)**: At 7th level, a deep walker instinctively grasps for the most stable surfaces and holds on tighter while moving over underground rock and stone. The deep walker gains a +5 bonus on all Acrobatics and Climb checks made to traverse underground terrain. Furthermore, the deep walker ignores difficult terrain created by underground terrain and subterranean flora. This ability replaces woodland stride.
 
 **Deep Walker Camouflage (Ex)**: At 12th level, a deep walker can use the Stealth skill to hide in underground environments, even if the terrain does not grant cover or concealment. This ability replaces camouflage.
 

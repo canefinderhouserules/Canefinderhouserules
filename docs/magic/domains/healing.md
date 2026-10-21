@@ -2,7 +2,6 @@
 
 ***Source** [PRPG Core Rulebook pg. 44](http://paizo.com/pathfinderRPG/v5748btpy88yj)*
 
-***Deities**: [Aerekostes](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Aerekostes), [Aesocar](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Aesocar), [Barravoclair](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Barravoclair), [Bolka](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Bolka), [Cihua Couatl](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Cihua%20Couatl), [Dalenydra](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Dalenydra), [Dammar](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Dammar), [Immonhiel](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Immonhiel), [Irori](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Irori), [Isis](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Isis), [Jiraviddain](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Jiraviddain), [Korada](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Korada), [Lorcan](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Lorcan), [Lythertida](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Lythertida), [Marishi](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Marishi), [Milani](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Milani), [Mother Vulture](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Mother%20Vulture), [Osiris](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Osiris), [Osolmyr](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Osolmyr), [Pharasma](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Pharasma), [Qi Zhong](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Qi%20Zhong), [Raetorgash](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Raetorgash), [Reymenda](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Reymenda), [Sarenrae](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Sarenrae), [Sekhmet](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Sekhmet), [Selket](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Selket), [Shei](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Shei), [Teshallas](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Teshallas), [Vildeis](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Vildeis)*
 
 ***Granted Powers**: Your touch staves off pain and death, and your healing magic is particularly vital and potent.*
 
@@ -20,7 +19,6 @@
 
 ***Associated Domain(s)**: Healing*
 
-***Associated Deities**: [Dalenydra](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Dalenydra), [Immonhiel](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Immonhiel), [Irori](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Irori), [Korada](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Korada), [Qi Zhong](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Qi%20Zhong), [Sarenrae](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Sarenrae)*
 
 ***Replacement Power**: The following granted power replaces the rebuke death power of the Healing domain.*
 
@@ -34,7 +32,6 @@
 
 ***Associated Domain(s)**: Healing*
 
-***Associated Deities**: [Aesocar](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Aesocar), [Barravoclair](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Barravoclair), [Bolka](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Bolka), [Cihua Couatl](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Cihua%20Couatl), [Dalenydra](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Dalenydra), [Immonhiel](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Immonhiel), [Irori](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Irori), [Jiraviddain](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Jiraviddain), [Korada](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Korada), [Lythertida](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Lythertida), [Marishi](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Marishi), [Milani](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Milani), [Osiris](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Osiris), [Qi Zhong](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Qi%20Zhong), [Raetorgash](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Raetorgash), [Reymenda](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Reymenda), [Sarenrae](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Sarenrae), [Sekhmet](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Sekhmet), [Selket](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Selket)*
 
 ***Replacement Power**: The following granted power replaces the rebuke death power of the Healing domain.*
 
@@ -48,7 +45,6 @@
 
 ***Associated Domain(s)**: Healing*
 
-***Associated Deities**: [Aerekostes](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Aerekostes), [Aesocar](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Aesocar), [Barravoclair](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Barravoclair), [Dalenydra](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Dalenydra), [Immonhiel](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Immonhiel), [Isis](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Isis), [Lorcan](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Lorcan), [Osiris](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Osiris), [Osolmyr](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Osolmyr), [Pharasma](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Pharasma), [Qi Zhong](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Qi%20Zhong), [Sarenrae](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Sarenrae), [Shei](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Shei), [Vildeis](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Vildeis)*
 
 ***Replacement Power**: The following granted power replaces the healer’s blessing power of the Healing domain.*
 
@@ -68,7 +64,7 @@
 
 ***Associated Domain(s)**: Healing*
 
-*Through Irori’s teachings, impurities in oneself and in the world are overcome. Irori’s followers are some of the most self-disciplined of Golarion’s faithful, believing that knowledge is the best weapon one can wield against the shackles of possession. They rarely directly involve themselves in battling those intruding forces, instead hoping the afflicted can overcome their situations through their own force of will. Haunts are the one exception to this mantra of nonintervention. As spirits beyond the mortal cycle, haunts are often targeted by the servants of Irori as being stains on the delicate fabric of the world.*
+*Through the teachings of an ascetic faith, impurities in oneself and in the world are overcome. Its followers are some of the most self-disciplined of the faithful, believing that knowledge is the best weapon one can wield against the shackles of possession. They rarely directly involve themselves in battling those intruding forces, instead hoping the afflicted can overcome their situations through their own force of will. Haunts are the one exception to this mantra of nonintervention. As spirits beyond the mortal cycle, haunts are often targeted by the servants of that faith as being stains on the delicate fabric of the world.*
 
 ***Exorcise Haunt (Sp)**: You can emit a burst of positive energy as a standard action. Any haunt or ghost like undead within 15 feet of you takes 1d8 points of damage plus 1d8 for every 2 cleric levels you have. You can use this ability a number of times per day equal to 3 + your Wisdom modifier.*
 

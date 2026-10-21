@@ -313,7 +313,7 @@ Spiritualists gain access to the following spells. Spells without a link come fr
 - **[Vampiric Shadow Shield](vampiric-shadow-shield.md)**
 - **[Waft](waft.md)**: Targets become light enough to be carried by the wind.
 - **[Wall of Ectoplasm](wall-of-ectoplasm.md)**: Wall of spirits blocks movement on the Material Plane and Ethereal Plane and causes fear.
-- **[Wall of Sound](wall-of-sound.md)**: Sonic wall def lects and damages creatures.
+- **[Wall of Sound](wall-of-sound.md)**: Sonic wall deflects and damages creatures.
 - **[Waves of Fatigue](waves-of-fatigue.md)**: Several targets become fatigued.
 - **[Withdraw Affliction](withdraw-affliction.md)**: Remove an affliction and inflict it on another creature.
 - **[Wither Limb](wither-limb.md)**: Make one of the target’s limbs useless.

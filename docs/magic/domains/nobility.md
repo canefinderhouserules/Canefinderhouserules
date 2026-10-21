@@ -2,7 +2,6 @@
 
 ***Source** [PRPG Core Rulebook pg. 46](http://paizo.com/pathfinderRPG/v5748btpy88yj)*
 
-***Deities**: [Abadar](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Abadar), [Arazni](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Arazni), [Chinostes (Evil Aspect)](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Chinostes%20(Evil%20Aspect)), [Chinostes (Good Aspect)](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Chinostes%20(Good%20Aspect)), [Count Ranalc](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Count%20Ranalc), [Dispater](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Dispater), [Erecura](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Erecura), [Eritrice](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Eritrice), [Folgrit](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Folgrit), [General Susumu](https://www.aonprd.com/DeityDisplay.aspx?ItemName=General%20Susumu), [Horus](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Horus), [Inma](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Inma), [Jacarkas](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Jacarkas), [Kols](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Kols), [Lanishra](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Lanishra), [Lissala](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Lissala), [Lissala (pre-Earthfall)](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Lissala%20(pre-Earthfall)), [Losarkur](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Losarkur), [Myr](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Myr), [Naderi](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Naderi), [Nalinivati](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Nalinivati), [Nameless](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Nameless), [Olheon](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Olheon), [Omrataji](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Omrataji), [Ragathiel](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Ragathiel), [Ruapceras](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Ruapceras), [Seramaydiel](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Seramaydiel), [Shamira](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Shamira), [Shax](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Shax), [Sicva](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Sicva), [Smiad](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Smiad), [Sugroz](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Sugroz), [Thamir Gixx](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Thamir%20Gixx), [The Lost Prince](https://www.aonprd.com/DeityDisplay.aspx?ItemName=The%20Lost%20Prince), [Trudd](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Trudd), [Vale](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Vale), [Ydersius](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Ydersius), [Zaebos](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Zaebos)*
 
 ***Granted Powers**: You are a great leader, an inspiration to all who follow the teachings of your faith.*
 
@@ -18,7 +17,6 @@
 
 ***Associated Domain(s)**: Nobility*
 
-***Associated Deities**: [Abadar](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Abadar), [Nalinivati](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Nalinivati)*
 
 ***Replacement Power**: The following granted power replaces the inspiring word ability of the Nobility domain.*
 
@@ -36,7 +34,6 @@
 
 ***Associated Domain(s)**: Glory, Nobility*
 
-***Associated Deities**: [Dispater](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Dispater), [General Susumu](https://www.aonprd.com/DeityDisplay.aspx?ItemName=General%20Susumu), [Iomedae](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Iomedae), [Jaidz](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Jaidz), [Lissala](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Lissala), [Olheon](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Olheon), [Ydersius](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Ydersius)*
 
 ***Replacement Power**: You gain Intimidate as a class skill; this replaces the Glory domain’s increased save DC to resist channel positive energy. The following granted power replaces the divine presence power of the Glory domain or the leadership power of the Nobility domain.*
 
@@ -50,7 +47,6 @@
 
 ***Associated Domain(s)**: Nobility*
 
-***Associated Deities**: [Abadar](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Abadar), [Arazni](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Arazni), [Dispater](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Dispater), [Erecura](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Erecura), [Eritrice](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Eritrice), [General Susumu](https://www.aonprd.com/DeityDisplay.aspx?ItemName=General%20Susumu), [Horus](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Horus), [Inma](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Inma), [Jacarkas](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Jacarkas), [Kols](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Kols), [Lissala](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Lissala), [Lissala (pre-Earthfall)](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Lissala%20(pre-Earthfall)), [Myr](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Myr), [Nalinivati](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Nalinivati), [Olheon](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Olheon), [Omrataji](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Omrataji), [Ra](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Ra), [Ruapceras](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Ruapceras), [Seramaydiel](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Seramaydiel), [Shamira](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Shamira), [Shax](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Shax), [Sicva](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Sicva), [Sugroz](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Sugroz), [Thamir Gixx](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Thamir%20Gixx), [Ydersius](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Ydersius), [Zaebos](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Zaebos)*
 
 ***Replacement Power**: The following granted power replaces the inspiring word power of the Nobility domain.*
 
@@ -64,7 +60,6 @@
 
 ***Associated Domain(s)**: Nobility*
 
-***Associated Deities**: [Abadar](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Abadar), [Chinostes (Evil Aspect)](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Chinostes%20(Evil%20Aspect)), [Chinostes (Good Aspect)](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Chinostes%20(Good%20Aspect)), [Count Ranalc](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Count%20Ranalc), [Folgrit](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Folgrit), [Naderi](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Naderi), [Olheon](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Olheon), [Ragathiel](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Ragathiel), [Shax](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Shax), [Smiad](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Smiad), [Sugroz](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Sugroz), [The Lost Prince](https://www.aonprd.com/DeityDisplay.aspx?ItemName=The%20Lost%20Prince), [Trudd](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Trudd), [Vildeis](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Vildeis), [Ydersius](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Ydersius), [Zaebos](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Zaebos)*
 
 ***Replacement Power**: The following granted power replaces the leadership power of the Nobility domain.*
 

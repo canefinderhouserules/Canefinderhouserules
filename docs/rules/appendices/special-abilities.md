@@ -183,7 +183,7 @@ Spells, magic items, and certain monsters can affect characters with fear. In mo
 
 **Frightened**: Characters who are frightened are shaken, and in addition they flee from the source of their fear as quickly as they can. They can choose the paths of their flight. Other than that stipulation, once they are out of sight (or hearing) of the source of their fear, they can act as they want. If the duration of their fear continues, however, characters can be forced to flee if the source of their fear presents itself again. Characters unable to flee can fight (though they are still shaken).
 
-**Panicked**: Characters who are panicked are shaken, and they run away from the source of their fear as quickly as they can, dropping whatever they are holding. Other than running away from the source, their paths are random. They flee from all other dangers that confront them rather than facing those dangers. Once they are out of sight (or hearing) of any source of danger, they can act as they want. Panicked characters cower if they are prevented from f leeing.
+**Panicked**: Characters who are panicked are shaken, and they run away from the source of their fear as quickly as they can, dropping whatever they are holding. Other than running away from the source, their paths are random. They flee from all other dangers that confront them rather than facing those dangers. Once they are out of sight (or hearing) of any source of danger, they can act as they want. Panicked characters cower if they are prevented from fleeing.
 
 **Becoming Even More Fearful**: Fear effects are cumulative. A shaken character who is made shaken again becomes frightened, and a shaken character who is made frightened becomes panicked instead. A frightened character who is made shaken or frightened becomes panicked instead.
 
@@ -235,7 +235,7 @@ Some monsters and spells have the supernatural or spell-like ability to paralyze
 
 A paralyzed character cannot move, speak, or take any physical action. He is rooted to the spot, frozen and helpless. Not even friends can move his limbs. He may take purely mental actions, such as casting a spell with no components.
 
-A winged creature flying in the air at the time that it becomes paralyzed cannot f lap its wings and falls. A swimmer can’t swim and may drown.
+A winged creature flying in the air at the time that it becomes paralyzed cannot flap its wings and falls. A swimmer can’t swim and may drown.
 
 ## Scent
 

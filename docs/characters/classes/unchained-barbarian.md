@@ -103,7 +103,7 @@ If the barbarian also has uncanny dodge from another class, levels from the clas
 
 **Flesh Wound (Ex)**: Once per day, the barbarian can avoid serious harm from an attack. She attempts a Fortitude save with a DC equal to the damage that would be dealt by the attack. If she succeeds, she takes no damage from the attack. If she fails, she takes half damage from the attack and the damage is nonlethal. The barbarian must elect to use this ability after the attack roll is made, but before the damage is rolled. A barbarian must be at least 10th level to select this rage power.
 
-**Ground Breaker (Ex)**: The barbarian can attack the floor around her as a full-round action. This attack automatically hits and deals damage normally. If the barbarian deals more damage than the floor’s hardness, the space she occupies and all of the squares adjacent to her become diff icult terrain. Creatures in those squares, except the barbarian, must succeed at DC 15 Reflex saves or be knocked prone. A barbarian must be at least 6th level to select this rage power.
+**Ground Breaker (Ex)**: The barbarian can attack the floor around her as a full-round action. This attack automatically hits and deals damage normally. If the barbarian deals more damage than the floor’s hardness, the space she occupies and all of the squares adjacent to her become difficult terrain. Creatures in those squares, except the barbarian, must succeed at DC 15 Reflex saves or be knocked prone. A barbarian must be at least 6th level to select this rage power.
 
 **Ground Breaker, Greater (Ex)**: When using the ground breaker rage power, the barbarian can extend the radius of the effect by 5 feet. This rage power can be selected up to three times, and its effects stack. A barbarian must be at least 8th level and have the ground breaker rage power to select this rage power.
 
@@ -117,7 +117,7 @@ If the barbarian also has uncanny dodge from another class, levels from the clas
 
 **Intimidating Glare (Ex)**: The barbarian adds her Strength modifier in place of her Charisma modifier on all Intimidate checks to demoralize a foe. She can attempt an Intimidate check to demoralize an adjacent foe as a move action instead of a standard action. If the barbarian successfully demoralizes an adjacent foe, that foe is shaken for the remainder of the barbarian’s current rage.
 
-**Knockback (Ex)**: Once per round, the barbarian can attempt a bull rush against one target in place of a melee attack, using her full CMB regardless of the attack it replaces. If the bull rush is successful, the target takes an amount of damage equal to the barbarian’s Strength modif ier and is knocked back as normal. The barbarian doesn’t move with the target. This bull rush doesn’t provoke an attack of opportunity.
+**Knockback (Ex)**: Once per round, the barbarian can attempt a bull rush against one target in place of a melee attack, using her full CMB regardless of the attack it replaces. If the bull rush is successful, the target takes an amount of damage equal to the barbarian’s Strength modifier and is knocked back as normal. The barbarian doesn’t move with the target. This bull rush doesn’t provoke an attack of opportunity.
 
 **Knockdown Stance (Ex)**: The barbarian can focus on toppling her foes. Once per round, she can make a trip attack against one target in place of a melee attack. If she succeeds, the target is knocked prone. This trip attempt doesn’t provoke an attack of opportunity. This is a stance rage power.
 

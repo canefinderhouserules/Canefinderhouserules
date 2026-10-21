@@ -14,4 +14,4 @@ You build upon your targets’ innate prejudice, stoking it from a simmer to the
 
 positive opinion of the chosen creatures automatically succeed at their saving throws, while targets with a particular hatred toward the chosen creature (such as the dwarf’s hatred racial ability) take a –4 penalty on their saving throws. Targets that fail their saving throws become hostile toward all creatures of the chosen type and never treat them as allies for the spell’s duration. Affected creatures take everything creatures of the chosen type do in the worst possible light.
 
-Since most creatures don’t hold ill-will toward their own race, you can use foster hatred toward a smaller subset of creatures of your chosen type, such as worshipers of Shelyn, in order to focus the hatred onto your chosen targets.
+Since most creatures don’t hold ill-will toward their own race, you can use foster hatred toward a smaller subset of creatures of your chosen type, such as worshipers of a particular deity, in order to focus the hatred onto your chosen targets.

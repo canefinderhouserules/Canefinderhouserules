@@ -2,7 +2,6 @@
 
 ***Source** [PRPG Core Rulebook pg. 44](http://paizo.com/pathfinderRPG/v5748btpy88yj)*
 
-***Deities**: [Akuma](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Akuma), [Aroden](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Aroden), [Damerrich](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Damerrich), [Drokalion](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Drokalion), [General Susumu](https://www.aonprd.com/DeityDisplay.aspx?ItemName=General%20Susumu), [Gorum](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Gorum), [Iapholi](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Iapholi), [Iomedae](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Iomedae), [Jaidi](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Jaidi), [Jaidz](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Jaidz), [Kols](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Kols), [Myr](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Myr), [Osolmyr](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Osolmyr), [Quindiovatos](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Quindiovatos), [Ra](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Ra), [Rubicante](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Rubicante), [Sarenrae](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Sarenrae), [Shizuru](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Shizuru), [Skode](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Skode), [Uruskreil](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Uruskreil), [Vonymos](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Vonymos)*
 
 ***Granted Powers**: You are infused with the glory of the divine, and are a true foe of the undead. In addition, when you channel positive energy to harm undead creatures, the save DC to halve the damage is increased by 2.*
 
@@ -18,7 +17,6 @@
 
 ***Associated Domain(s)**: Glory*
 
-***Associated Deities**: [Iomedae](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Iomedae), [Shizuru](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Shizuru)*
 
 ***Replacement Power**: The following granted power replaces the touch of glory power of the Glory domain.*
 
@@ -32,7 +30,6 @@
 
 ***Associated Domain(s)**: Glory*
 
-***Associated Deities**: [Damerrich](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Damerrich), [General Susumu](https://www.aonprd.com/DeityDisplay.aspx?ItemName=General%20Susumu), [Iomedae](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Iomedae), [Myr](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Myr), [Osolmyr](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Osolmyr), [Ra](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Ra), [Sarenrae](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Sarenrae), [Shizuru](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Shizuru), [Skode](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Skode)*
 
 ***Replacement Power**: The following granted power replaces the divine presence power of the Glory domain.*
 
@@ -46,7 +43,6 @@
 
 ***Associated Domain(s)**: Glory*
 
-***Associated Deities**: [Akuma](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Akuma), [Damerrich](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Damerrich), [General Susumu](https://www.aonprd.com/DeityDisplay.aspx?ItemName=General%20Susumu), [Iomedae](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Iomedae), [Jaidi](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Jaidi), [Myr](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Myr), [Quindiovatos](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Quindiovatos), [Ra](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Ra), [Rubicante](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Rubicante), [Shizuru](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Shizuru), [Smiad](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Smiad), [Uruskreil](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Uruskreil)*
 
 ***Replacement Power**: The following granted power replaces the touch of glory power of the Glory domain.*
 
@@ -62,7 +58,6 @@
 
 ***Associated Domain(s)**: Glory, Nobility*
 
-***Associated Deities**: [Dispater](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Dispater), [General Susumu](https://www.aonprd.com/DeityDisplay.aspx?ItemName=General%20Susumu), [Iomedae](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Iomedae), [Jaidz](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Jaidz), [Lissala](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Lissala), [Olheon](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Olheon), [Ydersius](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Ydersius)*
 
 ***Replacement Power**: You gain Intimidate as a class skill; this replaces the Glory domain’s increased save DC to resist channel positive energy. The following granted power replaces the divine presence power of the Glory domain or the leadership power of the Nobility domain.*
 
@@ -78,7 +73,6 @@
 
 ***Associated Domain(s)**: Glory*
 
-***Associated Deities**: [General Susumu](https://www.aonprd.com/DeityDisplay.aspx?ItemName=General%20Susumu), [Gorum](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Gorum), [Shizuru](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Shizuru)*
 
 ***Replacement Power**: In campaigns that use the optional hero point system (Pathfinder RPG Advanced Player’s Guide 322), you gain Hero’s Fortune (Advanced Player’s Guide 324) as a bonus feat. Otherwise, you gain Marked for Glory (Pathfinder RPG Mythic Adventures 69) as a bonus feat, even if you do not meet its prerequisites. These replace the Glory domain’s increased save DC when channeling positive energy. In addition, the following granted power replaces the divine presence power of the Glory domain.*
 

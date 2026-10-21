@@ -110,7 +110,7 @@ A character who breathes heavy smoke must make a Fortitude save each round (DC 1
 
 ## Starvation and Thirst
 
-Characters might find themselves without food or water and with no means to obtain them. In normal climates, Medium characters need at least a gallon of f luids and about a pound of decent food per day to avoid starvation. (Small characters need half as much.) In very hot climates, characters need two or three times as much water to avoid dehydration.
+Characters might find themselves without food or water and with no means to obtain them. In normal climates, Medium characters need at least a gallon of fluids and about a pound of decent food per day to avoid starvation. (Small characters need half as much.) In very hot climates, characters need two or three times as much water to avoid dehydration.
 
 A character can go without water for 1 day plus a number of hours equal to his Constitution score. After this time, the character must make a Constitution check each hour (DC 10, +1 for each previous check) or take 1d6 points of nonlethal damage. Characters that take an amount of nonlethal damage equal to their total hit points begin to take lethal damage instead.
 

@@ -1,39 +1,10 @@
 # Horror Adventures Magic Weapons
 
-The following are new weapon special abilities and specific weapons. See the Core Rulebook for the rules regarding magic weapons. A weapon with a special ability must also have at least a +1 enhancement bonus.
+The following are new specific weapons. See the Core Rulebook for the rules regarding magic weapons. A weapon with a special ability must also have at least a +1 enhancement bonus.
 
 ## Weapon Special Abilities
 
-### Vampiric
-
-**Aura** faint necromancy; **CL** 5th  
-**Slot** none; **Price** +1 bonus; **Weight** —
-
-This special ability can be placed only on piercing or slashing melee weapons. The first time each round that the wielder hits a living target with a *vampiric* weapon, the weapon restores an amount of hit points to the wielder equal to 1/2 the damage dealt to the target, to a maximum equal to the wielder’s number of Hit Dice. If the damage was more than enough to kill the target, any excess damage doesn’t count toward the amount healed. A creature can regain no more than 2 hit points per Hit Die from a *vampiric* weapon each day. A new owner gains no healing from a *vampiric* weapon until she owns it for 24 consecutive hours, and a wielder can be attuned to only one *vampiric* or *greater vampiric* weapon at a time. Finally, a wielder healed by a *vampiric* weapon can’t exceed her maximum hit point total, though excess healing also doesn’t count toward the daily limit of hit points she can regain.
-
-Both living and undead creatures can benefit from the healing. A *vampiric* weapon automatically converts the stolen energy into positive or negative energy, as appropriate for the wielder.
-
-**Requirements** Craft Magic Arms and Armor, *cure moderate wounds*, *inflict moderate wounds*, *vampiric touch*; **Cost** +1 bonus
-
-### Vampiric, Greater
-
-**Aura** moderate necromancy; **CL** 8th  
-**Slot** none; **Price** +2 bonus; **Weight** —
-
-This special ability functions as the *vampiric* special ability, except that the daily limit of healing from *greater vampiric* weapons is 5 hit points per Hit Die of the owner. A wielder can be attuned to only one *vampiric* or *greater vampiric* weapon at a time.
-
-**Requirements** Craft Magic Arms and Armor, *cure serious wounds*, *inflict serious wounds*, *vampiric touch*; **Cost** +2 bonus
-
-### Table 7–4: Weapon Special Abilities
-
-| Item | Price |
-|---|---|
-| **+1 Weapon Special Ability** | |
-| Vampiric | +1 bonus |
-| **+2 Weapon Special Ability** | |
-| Greater vampiric | +2 bonus |
-
-The base price is added to the enhancement bonus of the weapon to determine the total price.
+The *vampiric* and *greater vampiric* special abilities from this book are described on the special weapon property pages: [Vampiric](../equipment/special-weapon-properties/vampiric.md) and [Greater Vampiric](../equipment/special-weapon-properties/vampiric-greater.md).
 
 ## Specific Weapons
 

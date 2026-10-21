@@ -4,15 +4,15 @@ Optional rules from *Pathfinder Roleplaying Game: Pathfinder Unchained* that unc
 
 ## Skills and Options
 
-Skills and feats are key components you can use to customize a character in the Pathfinder RPG. This chapter unchains skills from their foundations, presenting new optional rules that simplify and streamline skills, as well as rules that enhance the use of non-adventuring skills. The chapter’s f inal section introduces an alternative approach to multiclassing, in which you trade out some of your feats to customize your character with powers from a secondary class of your choice.
+Skills and feats are key components you can use to customize a character in the Pathfinder RPG. This chapter unchains skills from their foundations, presenting new optional rules that simplify and streamline skills, as well as rules that enhance the use of non-adventuring skills. The chapter’s final section introduces an alternative approach to multiclassing, in which you trade out some of your feats to customize your character with powers from a secondary class of your choice.
 
-**Background Skills**: Adventuring-oriented skills such as Perception are usually more important for your character’s survival than background skills such as Profession, but these background skills are invaluable for f leshing out characters. This system separates skills into adventuring and background skills, so you don’t have to sacrifice your character’s life expectancy for her to have a rich background or engage in downtime activities.
+**Background Skills**: Adventuring-oriented skills such as Perception are usually more important for your character’s survival than background skills such as Profession, but these background skills are invaluable for fleshing out characters. This system separates skills into adventuring and background skills, so you don’t have to sacrifice your character’s life expectancy for her to have a rich background or engage in downtime activities.
 
 **Consolidated Skills**: In many circumstances, the Pathfinder RPG’s breadth of skills is a strength, but some groups prefer the simplicity of having fewer, more general skills. This system reduces the number of skills from 35 to 12 and handles the implications of this change.
 
 **Grouped Skills**: This system is perfect for groups that feel the granularity of skill points requires too much bookkeeping. Using grouped skills decreases the complexity of allocating skill points and broadens a character’s ability to participate in skill-based interactions while narrowing his area of true expertise.
 
-**Craft and Profession**: The Craft and Profession skill rules in the Pathfinder RPG Core Rulebook don’t provide much variety or flexibility for characters who want to launch crafting or professional enterprises. This section introduces new rules that help characters who enjoy their side jobs as much as f ighting monsters take charge of those aspects of play, and also provides flavorful suggestions on how characters can take their professions on the road.
+**Craft and Profession**: The Craft and Profession skill rules in the Pathfinder RPG Core Rulebook don’t provide much variety or flexibility for characters who want to launch crafting or professional enterprises. This section introduces new rules that help characters who enjoy their side jobs as much as fighting monsters take charge of those aspects of play, and also provides flavorful suggestions on how characters can take their professions on the road.
 
 **Skill Unlocks**: In this new system, characters unlock additional abilities when they attain 5, 10, 15, and 20 ranks in a skill. The skill unlocks system interfaces with the unchained rogue to make the rogue the true master of skills.
 

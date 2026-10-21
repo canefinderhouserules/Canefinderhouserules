@@ -1,6 +1,6 @@
 # Merciful Bane
 
-You can use your bane ability to inf lict nonlethal damage.
+You can use your bane ability to inflict nonlethal damage.
 
 **Prerequisite**: Bane class feature.
 

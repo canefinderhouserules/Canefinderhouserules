@@ -2,7 +2,6 @@
 
 ***Source** [PRPG Core Rulebook pg. 47](http://paizo.com/pathfinderRPG/v5748btpy88yj)*
 
-***Deities**: [Aldinach](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Aldinach), [Azathoth](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Azathoth), [Easivra](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Easivra), [Horus](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Horus), [Iaozrael](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Iaozrael), [Iomedae](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Iomedae), [Jaidi](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Jaidi), [Jerishall](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Jerishall), [Keltheald](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Keltheald), [Khepri](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Khepri), [Lalaci](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Lalaci), [Muronna](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Muronna), [Nurgal](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Nurgal), [Pharimia](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Pharimia), [Ra](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Ra), [Sarenrae](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Sarenrae), [Shizuru](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Shizuru), [Skode](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Skode)*
 
 ***Granted Powers**: You see truth in the pure and burning light of the sun, and can call upon its blessing or wrath to work great deeds.*
 
@@ -18,7 +17,6 @@
 
 ***Associated Domain(s)**: Sun*
 
-***Associated Deities**: [Easivra](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Easivra), [Horus](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Horus), [Iaozrael](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Iaozrael), [Iomedae](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Iomedae), [Jaidi](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Jaidi), [Keltheald](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Keltheald), [Khepri](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Khepri), [Muronna](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Muronna), [Nurgal](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Nurgal), [Ra](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Ra), [Sarenrae](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Sarenrae), [Shizuru](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Shizuru), [Skode](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Skode)*
 
 ***Replacement Power**: The following granted power replaces the nimbus of light power of the Sun domain.*
 
@@ -32,7 +30,6 @@
 
 ***Associated Domain(s)**: Sun*
 
-***Associated Deities**: [Aldinach](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Aldinach), [Easivra](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Easivra), [Horus](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Horus), [Iaozrael](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Iaozrael), [Iomedae](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Iomedae), [Jaidi](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Jaidi), [Keltheald](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Keltheald), [Lalaci](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Lalaci), [Pharimia](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Pharimia), [Ra](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Ra), [Sarenrae](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Sarenrae), [Shizuru](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Shizuru), [Skode](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Skode)*
 
 ***Replacement Power**: The following granted power replaces the sun’s blessing power of the Sun domain.*
 
@@ -46,7 +43,6 @@
 
 ***Associated Domain(s)**: Sun*
 
-***Associated Deities**: [Iomedae](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Iomedae), [Sarenrae](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Sarenrae), [Shizuru](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Shizuru)*
 
 ***Replacement Power**: The following granted power replaces the sun’s blessing ability of the Sun domain.*
 
@@ -62,7 +58,6 @@
 
 ***Associated Domain(s)**: Sun*
 
-***Associated Deities**: [Aldinach](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Aldinach), [Lalaci](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Lalaci), [Nurgal](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Nurgal), [Sarenrae](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Sarenrae)*
 
 ***Replacement Power**: The following granted power replaces the sun’s blessing power and alters the nimbus of light power of the Sun domain.*
 

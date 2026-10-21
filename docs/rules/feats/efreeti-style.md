@@ -2,7 +2,7 @@
 
 *(Combat, Style)*
 
-Your mastery of the unpredictable power of f lames allows you to unleash scorching strikes that burn your enemies even when you fail to make contact.
+Your mastery of the unpredictable power of flames allows you to unleash scorching strikes that burn your enemies even when you fail to make contact.
 
 **Prerequisites**: Con 13, Wis 15, Elemental Fist, Improved Unarmed Strike, base attack bonus +9 or monk level 5th.
 

@@ -108,14 +108,14 @@ The styles that follow include specific feat paths — feats that complement eac
 - **Dragon Style**: Dragon style captures the overwhelming power, grace, and ferocity of dragons. Practitioners use acrobatic footwork and strong attacks to overwhelm foes. The deepest secrets of the style require imbibing alchemical tonics and deep meditations similar to the long sleeps of dragons. *Feat path*: Dragon Style, Dragon Ferocity, Dragon Roar.
 - **Earth Child Style**: A warrior cadre of dwarves and gnomes dedicated to fighting and slaying giants developed this style. Students of the style learn how to enhance their defensive training to become even more elusive when facing giants. They also spend long hours studying the anatomy of the various giant races to increase the effectiveness of their unarmed strikes. Eventually, masters of this fighting style learn how to bring down even the mightiest creatures by targeting feet, ankles, and knees. *Feat path*: Earth Child Style, Earth Child Topple, Earth Child Binder.
 - **Efreeti Style**: The efreeti style focuses on aggression and speed, taking inspiration from beings of living fire. Masters of the style can deflect and control fire, immolate their enemies, and summon forth gouts of elemental flame. *Feat path*: Efreeti Style, Efreeti Stance, Efreeti Touch.
-- **Janni Style**: This style, originating humbly from the folk traditions of disparate peoples, represents several similar unarmed fighting arts practiced around the world. Regardless of variations in technique, all practitioners have a f luid fighting stance that emphasizes rapid, powerful kicks. The style’s constant motion and graceful footwork lead many to mistakenly view practitioners as highly skilled dancers, a misconception that has allowed the technique to be taught in secret, the hidden weapon of the downtrodden and the oppressed. Openly martial versions of this style lose some of the dancelike qualities but retain the style’s extraordinary kicking techniques and agility. *Feat path*: Janni Style, Janni Tempest, Janni Rush.
+- **Janni Style**: This style, originating humbly from the folk traditions of disparate peoples, represents several similar unarmed fighting arts practiced around the world. Regardless of variations in technique, all practitioners have a fluid fighting stance that emphasizes rapid, powerful kicks. The style’s constant motion and graceful footwork lead many to mistakenly view practitioners as highly skilled dancers, a misconception that has allowed the technique to be taught in secret, the hidden weapon of the downtrodden and the oppressed. Openly martial versions of this style lose some of the dancelike qualities but retain the style’s extraordinary kicking techniques and agility. *Feat path*: Janni Style, Janni Tempest, Janni Rush.
 - **Kirin Style**: The school of the kirin employs critical observations as weapons against opponents. Practitioners catalogue a foe’s weaknesses and seek the perfect moment to strike, ensuring that no movement or effort is ever wasted. Popular among those rare orders that blend monastic training with arcane study, kirin style is sometimes practiced by wizards who seek to hone their bodies along with their minds. *Feat path*: Kirin Style, Kirin Strike, Kirin Path.
 - **Mantis Style**: Based on the hunting techniques of the praying mantis, practitioners of this style fight with their hands turned down to emulate the insect’s sharp grasping forelimbs. Mantis style uses precise, accurate strikes to pinpoint an opponent’s vital areas, such as eyes, throat, and pressure points. *Feat path*: Mantis Style, Mantis Wisdom, Mantis Torment.
-- **Marid Style**: Marid style emulates the f luid strength of f lowing rivers and the cold of the ocean depths. Masters of the style can withstand severe cold, manipulate water to lash at enemies from afar, and freeze their foes in place. *Feat path*: Marid Style, Marid Spirit, Marid Coldsnap.
+- **Marid Style**: Marid style emulates the fluid strength of flowing rivers and the cold of the ocean depths. Masters of the style can withstand severe cold, manipulate water to lash at enemies from afar, and freeze their foes in place. *Feat path*: Marid Style, Marid Spirit, Marid Coldsnap.
 - **Monkey Style**: Renowned for its speed and agility, monkey style blends jumping strikes, rolling blows, and ground fighting into a continuous onslaught aimed at disorienting and damaging an opponent through superior mobility. *Feat path*: Monkey Style, Monkey Moves, Monkey Shine.
 - **Panther Style**: Students of the panther throw caution to the wind as they weave recklessly among their foes. Those who master the style turn their unrivaled mobility into a weapon, striking their enemies with a series of swift retaliatory strikes. *Feat path*: Panther Style, Panther Claws, Panther Parry.
 - **Shaitan Style**: Practitioners of this style imbue their fists with the mineral acids of the deep earth. Their forceful blows conjure forth caustic elements to dissolve and disable their enemies. *Feat path*: Shaitan Style, Shaitan Skin, Shaitan Earthblast.
-- **Snake Style**: Snake style emphasizes quick, shifting movements. Its practitioners normally hold their hands f lat with the fingers together to mimic the head of a snake. Able to strike when least expected, snake stylists are known for opportunism and blinding speed. *Feat path*: Snake Style, Snake Sidewinder, Snake Fang.
+- **Snake Style**: Snake style emphasizes quick, shifting movements. Its practitioners normally hold their hands flat with the fingers together to mimic the head of a snake. Able to strike when least expected, snake stylists are known for opportunism and blinding speed. *Feat path*: Snake Style, Snake Sidewinder, Snake Fang.
 - **Snapping Turtle Style**: The snapping turtle style emphasizes active defense with one hand. Students of the style utilize a variety of locks, grabs, and circular blocks to protect themselves, as well as employing a debilitating clutch. *Feat path*: Snapping Turtle Style, Snapping Turtle Clutch, Snapping Turtle Shell.
 - **Tiger Style**: This style seeks to emulate the power and fury of the great tiger. Practitioners use their hands like claws, perfecting overpowering double hand strikes and driving attack chains. *Feat path*: Tiger Style, Tiger Claws, Tiger Pounce. Teamwork Feats Teamwork feats first appeared in the Advanced Player’s Guide. They grant significant bonuses but only function under specific circumstances. In most cases, these feats require an ally with the same feat to have a specific position on the
 
@@ -810,7 +810,7 @@ Feats from *Occult Adventures*. Each name links to its full description.
 | [Mesmerizing Feint](mesmerizing-feint.md) | Combat | Hypnotic stare class feature |
 | [Parting Blast](parting-blast.md) | — | Kinetic blast class feature |
 | [Phantom Fighter](phantom-fighter.md) | — | Phantom class feature, phantom with the magic attacks ability |
-| [Phantom Fortification](phantom-fortification.md) | — | Phantom class feature, phantom with the incorporeal f light ability |
+| [Phantom Fortification](phantom-fortification.md) | — | Phantom class feature, phantom with the incorporeal flight ability |
 | [Psychic Adept](psychic-adept.md) | — | Int 11, Psychic Sensitivity |
 | [Psychic Combatant](psychic-combatant.md) | Combat | Int 13, Psychic Sensitivity or the ability to cast psychic spells or use psychic spell-like abilities, character level 3rd |
 | [Psychic Defender](psychic-defender.md) | — | Int 13, Psychic Sensitivity or the ability to cast psychic spells or use psychic spell-like abilities, character level 3rd |
@@ -875,7 +875,7 @@ Feats from *Ultimate Combat*. Each name links to its full description.
 | [Crane Style](crane-style.md) | Combat, Style | Dodge, Improved Unarmed Strike, base attack bonus +2 or monk level 1st |
 | [Crane Wing](crane-wing.md) | Combat | Crane Style, Dodge, Improved Unarmed Strike, base attack bonus +5 or monk level 5th |
 | [Crusader’s Fist](crusader-s-fist.md) | Combat | Lay on hands class feature or touch of corruption class feature, Improved Unarmed Strike, base attack bonus +6 |
-| [Crusader’s Flurry](crusader-s-flurry.md) | — | Channel energy class feature, f lurry of blows class feature, Weapon Focus with your deity’s favored melee weapon |
+| [Crusader’s Flurry](crusader-s-flurry.md) | — | Channel energy class feature, flurry of blows class feature, Weapon Focus with your deity’s favored melee weapon |
 | [Crushing Blow](crushing-blow.md) | Combat | Improved Unarmed Strike, Stunning Fist |
 | [Deadly Finish](deadly-finish.md) | Combat | Base attack bonus +11 |
 | [Death from Above](death-from-above.md) | Combat | — |
@@ -920,7 +920,7 @@ Feats from *Ultimate Combat*. Each name links to its full description.
 | [Efreeti Stance](efreeti-stance.md) | Combat | Con 15, Wis 15, Efreeti Style, Elemental Fist, Improved Unarmed Strike, base attack bonus +11 or monk level 9th |
 | [Efreeti Style](efreeti-style.md) | Combat, Style | Con 13, Wis 15, Elemental Fist, Improved Unarmed Strike, base attack bonus +9 or monk level 5th |
 | [Efreeti Touch](efreeti-touch.md) | Combat | Con 15, Wis 17, Efreeti Style, Efreeti Stance, Elemental Fist, Improved Unarmed Strike, base attack bonus +13 or monk level 11th |
-| [Elusive Redirection](elusive-redirection.md) | — | Elusive target class feature, Combat Expertise, Improved Unarmed Strike, f lowing monk level 12th |
+| [Elusive Redirection](elusive-redirection.md) | — | Elusive target class feature, Combat Expertise, Improved Unarmed Strike, flowing monk level 12th |
 | [Enfilading Fire](enfilading-fire.md) | Combat, Teamwork | Point-Blank Shot, Precise Shot, one other teamwork feat |
 | [Escape Route](escape-route.md) | Teamwork | — |
 | [Expert Driver](expert-driver.md) | — | Skilled Driver with the selected vehicle type |
@@ -1012,16 +1012,16 @@ Feats from *Ultimate Combat*. Each name links to its full description.
 | [No Name](no-name.md) | Grit | Grit class feature or Amateur Gunslinger feat, Bluff 4 ranks |
 | [Opening Volley](opening-volley.md) | Combat | — |
 | [Pack Attack](pack-attack.md) | Combat, Teamwork | Base attack bonus +1 |
-| [Panther Claw](panther-claw.md) | Combat | Wis 15, Combat Ref lexes, Improved Unarmed Strike, Panther Style |
-| [Panther Parry](panther-parry.md) | Combat | Wis 15, Combat Ref lexes, Improved Unarmed Strike, Panther Claw, Panther Style |
-| [Panther Style](panther-style.md) | Combat, Style | Wis 13, Combat Ref lexes, Improved Unarmed Strike |
+| [Panther Claw](panther-claw.md) | Combat | Wis 15, Combat Reflexes, Improved Unarmed Strike, Panther Style |
+| [Panther Parry](panther-parry.md) | Combat | Wis 15, Combat Reflexes, Improved Unarmed Strike, Panther Claw, Panther Style |
+| [Panther Style](panther-style.md) | Combat, Style | Wis 13, Combat Reflexes, Improved Unarmed Strike |
 | [Passing Trick](passing-trick.md) | Combat | Int 13, Combat Expertise, Dodge, Improved Feint, Mobility, size Small or smaller |
 | [Performance Weapon Mastery](performance-weapon-mastery.md) | Combat | — |
 | [Performing Combatant](performing-combatant.md) | Combat | Dazzling Display, any one performance feat |
-| [Pin Down](pin-down.md) | Combat | Combat Ref lexes, fighter level 11th |
+| [Pin Down](pin-down.md) | Combat | Combat Reflexes, fighter level 11th |
 | [Pinning Knockout](pinning-knockout.md) | Combat | Dex 13, Greater Grapple, Improved Grapple, Improved Unarmed Strike, base attack bonus +9 or monk level 9th |
 | [Pinning Rend](pinning-rend.md) | Combat | Dex 13, Greater Grapple, Improved Grapple, Improved Unarmed Strike, base attack bonus +9 or monk level 9th |
-| [Pinpoint Poisoner](pinpoint-poisoner.md) | Combat | Poison use class feature, Craft (alchemy) 6 ranks, Adder Strike, Improved Unarmed Strike, TwoWeapon Fighting or f lurry of blows class feature |
+| [Pinpoint Poisoner](pinpoint-poisoner.md) | Combat | Poison use class feature, Craft (alchemy) 6 ranks, Adder Strike, Improved Unarmed Strike, TwoWeapon Fighting or flurry of blows class feature |
 | [Planar Wild Shape](planar-wild-shape.md) | — | Wild shape class feature, Knowledge (planes) 5 ranks |
 | [Prone Shooter](prone-shooter.md) | Combat | Base attack bonus +1 |
 | [Prone Slinger](prone-slinger.md) | Combat | — |
@@ -1064,7 +1064,7 @@ Feats from *Ultimate Combat*. Each name links to its full description.
 | [Skilled Driver](skilled-driver.md) | — | — |
 | [Slayer’s Knack](slayer-s-knack.md) | — | Favored enemy class feature, base attack bonus +6 |
 | [Sling Flail](sling-flail.md) | Combat | Weapon Focus (sling), base attack bonus +1 |
-| [Snake Fang](snake-fang.md) | Combat | Combat Ref lexes, Improved Unarmed Strike, Snake Sidewind, Snake Style, Acrobatics 6 ranks, Sense Motive 9 ranks |
+| [Snake Fang](snake-fang.md) | Combat | Combat Reflexes, Improved Unarmed Strike, Snake Sidewind, Snake Style, Acrobatics 6 ranks, Sense Motive 9 ranks |
 | [Snake Sidewind](snake-sidewind.md) | Combat | Improved Unarmed Strike, Snake Style, Acrobatics 3 ranks, Sense Motive 6 ranks |
 | [Snake Style](snake-style.md) | Combat, Style | Improved Unarmed Strike, Acrobatics 1 rank, Sense Motive 3 ranks |
 | [Snap Shot](snap-shot.md) | Combat | Dex 13, Point-Blank Shot, Rapid Shot, Weapon Focus, base attack bonus +6 |
@@ -1092,11 +1092,11 @@ Feats from *Ultimate Combat*. Each name links to its full description.
 | [Tiger Style](tiger-style.md) | Combat, Style | Improved Unarmed Strike, base attack bonus +3 or monk level 3rd |
 | [Trapper’s Setup](trapper-s-setup.md) | — | Craft (traps) 5 ranks |
 | [Twin Thunders](twin-thunders.md) | Combat | Dwarf or gnome, defensive training racial trait, Two-Weapon Fighting or flurry of blows class feature, Weapon Focus with both wielded weapons |
-| [Twin Thunders Flurry](twin-thunders-flurry.md) | Combat | Dwarf or gnome; defensive training racial trait; Improved Two-Weapon Fighting and Two-Weapon Fighting, or f lurry of blows class feature; Twin Thunders; Weapon Focus with both wielded weapons; base attack bonus +6 |
-| [Twin Thunders Master](twin-thunders-master.md) | Combat | Dwarf or gnome; defensive training racial trait; Improved Two-Weapon Fighting and Two-Weapon Fighting, or f lurry of blows class feature; Twin Thunders; Twin Thunders Flurry; Weapon Focus with both wielded weapons; base attack bonus +9 |
+| [Twin Thunders Flurry](twin-thunders-flurry.md) | Combat | Dwarf or gnome; defensive training racial trait; Improved Two-Weapon Fighting and Two-Weapon Fighting, or flurry of blows class feature; Twin Thunders; Weapon Focus with both wielded weapons; base attack bonus +6 |
+| [Twin Thunders Master](twin-thunders-master.md) | Combat | Dwarf or gnome; defensive training racial trait; Improved Two-Weapon Fighting and Two-Weapon Fighting, or flurry of blows class feature; Twin Thunders; Twin Thunders Flurry; Weapon Focus with both wielded weapons; base attack bonus +9 |
 | [Two-Handed Thrower](two-handed-thrower.md) | Combat | Str 15 |
 | [Two-Weapon Feint](two-weapon-feint.md) | Combat | Dex 15, Int 13, Combat Expertise, TwoWeapon Fighting |
-| [Vicious Stomp](vicious-stomp.md) | Combat | Combat Ref lexes, Improved Unarmed Strike |
+| [Vicious Stomp](vicious-stomp.md) | Combat | Combat Reflexes, Improved Unarmed Strike |
 | [Wave Strike](wave-strike.md) | Combat | Weapon expertise class feature or Quick Draw, Bluff 1 rank |
 | [Whip Mastery](whip-mastery.md) | Combat | Weapon Focus (whip), base attack bonus +2 |
 

@@ -2,7 +2,6 @@
 
 ***Source** [PRPG Core Rulebook pg. 43](http://paizo.com/pathfinderRPG/v5748btpy88yj)*
 
-***Deities**: [Abadar](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Abadar), [Abhoth](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Abhoth), [Anubis](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Anubis), [Ashukharma](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Ashukharma), [Ayrzul](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Ayrzul), [Benorus](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Benorus), [Bes](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Bes), [Brigh](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Brigh), [Cixyron](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Cixyron), [Cyth-V'sug](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Cyth-V%27sug), [Draghignazzo](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Draghignazzo), [Eldas](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Eldas), [Fandarra](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Fandarra), [Green Faith](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Green%20Faith), [Imbrex](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Imbrex), [Ioramvol](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Ioramvol), [Jerishall](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Jerishall), [Kaikyton](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Kaikyton), [Magrim](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Magrim), [Mammon](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Mammon), [Mhar](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Mhar), [Minderhal](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Minderhal), [Murnath](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Murnath), [Nalmungder](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Nalmungder), [Nivi Rhombodazzle](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Nivi%20Rhombodazzle), [Omrataji](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Omrataji), [Onos](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Onos), [Orgesh](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Orgesh), [Phlegyas](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Phlegyas), [Ptah](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Ptah), [Quindiovatos](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Quindiovatos), [Scal](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Scal), [Soralyon](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Soralyon), [The Green Mother](https://www.aonprd.com/DeityDisplay.aspx?ItemName=The%20Green%20Mother), [Torag](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Torag), [Trelmarixian](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Trelmarixian), [Ushitora](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Ushitora), [Valani](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Valani), [Varg](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Varg), [Vavaalrav](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Vavaalrav), [Venkelvore](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Venkelvore), [Wylgart](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Wylgart), [Xoveron](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Xoveron), [Yamasoth](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Yamasoth), [Yamatsumi](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Yamatsumi), [Yuelral](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Yuelral), [Zipacna](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Zipacna)*
 
 ***Granted Powers**: You have mastery over earth, metal, and stone, can fire darts of acid, and command earth creatures.*
 
@@ -18,7 +17,6 @@
 
 ***Associated Domain(s)**: Earth*
 
-***Associated Deities**: [Abhoth](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Abhoth), [Ashukharma](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Ashukharma), [Ayrzul](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Ayrzul), [Benorus](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Benorus), [Bes](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Bes), [Cyth-V'sug](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Cyth-V%27sug), [Draghignazzo](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Draghignazzo), [Fandarra](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Fandarra), [Ioramvol](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Ioramvol), [Mhar](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Mhar), [Murnath](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Murnath), [Nalmungder](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Nalmungder), [Nivi Rhombodazzle](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Nivi%20Rhombodazzle), [Orgesh](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Orgesh), [Soralyon](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Soralyon), [The Green Mother](https://www.aonprd.com/DeityDisplay.aspx?ItemName=The%20Green%20Mother), [Torag](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Torag), [Xoveron](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Xoveron), [Yamasoth](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Yamasoth), [Yamatsumi](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Yamatsumi), [Yuelral](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Yuelral)*
 
 ***Replacement Power**: The following granted power replaces the acid resistance power of the Earth domain.*
 
@@ -32,7 +30,6 @@
 
 ***Associated Domain(s)**: Earth*
 
-***Associated Deities**: [Abadar](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Abadar), [Anubis](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Anubis), [Ayrzul](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Ayrzul), [Benorus](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Benorus), [Brigh](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Brigh), [Cixyron](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Cixyron), [Eldas](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Eldas), [Imbrex](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Imbrex), [Kaikyton](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Kaikyton), [Mammon](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Mammon), [Minderhal](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Minderhal), [Murnath](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Murnath), [Omrataji](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Omrataji), [Onos](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Onos), [Orgesh](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Orgesh), [Ptah](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Ptah), [Quindiovatos](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Quindiovatos), [Torag](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Torag), [Ushitora](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Ushitora), [Varg](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Varg), [Wylgart](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Wylgart)*
 
 ***Replacement Power**: The following granted power replaces the acid dart power of the Earth domain.*
 
@@ -48,7 +45,6 @@
 
 ***Associated Domain(s)**: Earth*
 
-***Associated Deities**: [Ayrzul](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Ayrzul), [Minderhal](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Minderhal), [Soralyon](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Soralyon), [Xoveron](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Xoveron)*
 
 ***Replacement Power**: The following granted power replaces the acid dart power of the Earth domain.*
 
@@ -58,11 +54,9 @@
 
 ### *<span class="smallcaps">Radiation Subdomain</span>*
 
-***Source** [Kobolds of Golarion pg. 13](http://paizo.com/products/btpy8yw0?Pathfinder-Player-Companion-Kobolds-of-Golarion)*
 
 ***Associated Domain(s)**: Earth*
 
-***Associated Deities**: N/A*
 
 ***Replacement Power**: Note: Only creatures with the [Kobold Faith](https://www.aonprd.com/TraitDisplay.aspx?ItemName=Kobold%20Faith) trait can take this subdomain.*
 

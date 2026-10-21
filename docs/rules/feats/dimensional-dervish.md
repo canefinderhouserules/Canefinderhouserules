@@ -1,6 +1,6 @@
 # Dimensional Dervish
 
-You teleport with a mere thought, savaging your opponents as you f lash in and out of reality.
+You teleport with a mere thought, savaging your opponents as you flash in and out of reality.
 
 **Prerequisites**: Ability to use the abundant step class feature or cast dimension door, Dimensional Agility, Dimensional Assault, base attack bonus +6.
 

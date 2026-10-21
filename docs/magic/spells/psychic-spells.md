@@ -126,7 +126,7 @@ Psychics gain access to the following spells. Spells without a link come from ot
 - Recharge Innate Magic
 - **[Reduce Person](reduce-person.md)**: Humanoid creature halves in size.
 - **[Remove Fear](remove-fear.md)**: Suppresses fear or gives +4 on saves against fear for one subject + one per four levels.
-- **[Restore Corpse](restore-corpse.md)**: Skeletal corpse grows f lesh.
+- **[Restore Corpse](restore-corpse.md)**: Skeletal corpse grows flesh.
 - See Alignment
 - **[Shadow Weapon](shadow-weapon.md)**: Create a quasi-real masterwork weapon.
 - **[Share Language](share-language.md)**: Subject understands chosen language.
@@ -144,7 +144,7 @@ Psychics gain access to the following spells. Spells without a link come from ot
 - Touch of Combustion
 - **[True Strike](true-strike.md)**: +20 on your next attack roll.
 - Unerring Weapon
-- **[Unprepared Combatant](unprepared-combatant.md)**: Target takes –4 on initiative and Ref lex saves.
+- **[Unprepared Combatant](unprepared-combatant.md)**: Target takes –4 on initiative and Reflex saves.
 - **[Unseen Servant](unseen-servant.md)**: Invisible force obeys your commands.
 - **[Unwitting Ally](unwitting-ally.md)**: Subject is considered ally for 1 round.
 - **[Vanish](vanish.md)**: As invisibility for 1 round/level (5 max).
@@ -686,7 +686,7 @@ Psychics gain access to the following spells. Spells without a link come from ot
 - Village Veil
 - **[Wall of Ectoplasm](wall-of-ectoplasm.md)**: Wall of spirits blocks movement on the Material Plane and Ethereal Plane and causes fear.
 - **[Wall of Force](wall-of-force.md)**: Wall is immune to damage.
-- **[Wall of Sound](wall-of-sound.md)**: Sonic wall def lects and damages creatures.
+- **[Wall of Sound](wall-of-sound.md)**: Sonic wall deflects and damages creatures.
 - **[Waves of Fatigue](waves-of-fatigue.md)**: Several targets become fatigued.
 - Wreath of Blades
 
@@ -862,7 +862,7 @@ Psychics gain access to the following spells. Spells without a link come from ot
 - **[Maze](maze.md)**: Traps subject in extradimensional maze.
 - Mind Blank, Communal
 - **[Moment of Prescience](moment-of-prescience.md)**: You gain +1/level insight bonus on single attack roll, check, or save.
-- **[Orb of the Void](orb-of-the-void.md)**: Sphere inf licts negative levels.
+- **[Orb of the Void](orb-of-the-void.md)**: Sphere inflicts negative levels.
 - **[Planar Ally, Greater](planar-ally-greater.md)**: As *lesser planar ally,* but up to 18 HD.
 - **[Planar Binding, Greater](planar-binding-greater.md)**: As *lesser planar binding,* but up to 18 HD.
 - **[Possession, Greater](possession-greater.md)**: As possession, but your body vanishes.

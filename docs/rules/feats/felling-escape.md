@@ -2,7 +2,7 @@
 
 *(Combat)*
 
-Through the use of f luid contortions and manipulations of leverage, you can throw your opponent to the ground after escaping a grapple.
+Through the use of fluid contortions and manipulations of leverage, you can throw your opponent to the ground after escaping a grapple.
 
 **Prerequisites**: Int 13, Combat Expertise, Improved Trip.
 

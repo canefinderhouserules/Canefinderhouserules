@@ -199,7 +199,7 @@ typical masterwork cold iron scimitar worth the base price of 330 gp. Listed bel
 
 **Fine Artwork (100 gp or more)**: Although some artwork is composed of precious materials, the value of most paintings, sculptures, works of literature, fine clothing, and the like come from their skill and craftsmanship. Artwork is often bulky or cumbersome to move and fragile to boot, making salvage an adventure in and of itself.
 
-**Jewelry, Minor (50 gp)**: This category includes relatively small pieces of jewelry crafted from materials like brass, bronze, copper, ivory, or even exotic woods, sometimes set with tiny or f lawed low-quality gems. Minor jewelry includes rings, bracelets, and earrings.
+**Jewelry, Minor (50 gp)**: This category includes relatively small pieces of jewelry crafted from materials like brass, bronze, copper, ivory, or even exotic woods, sometimes set with tiny or flawed low-quality gems. Minor jewelry includes rings, bracelets, and earrings.
 
 **Jewelry, Normal (100–500 gp)**: Most jewelry is made of silver, gold, jade, or coral, often ornamented with semi-precious or even medium-quality gemstones. Normal jewelry includes all types of minor jewelry plus armbands, necklaces, and brooches.
 

@@ -1,6 +1,6 @@
 # Spiritual Balance
 
-You focus your ki in order to quell the inf luence of outside spirits on you.
+You focus your ki in order to quell the influence of outside spirits on you.
 
 **Prerequisites**: Ki pool class feature, still mind class feature.
 

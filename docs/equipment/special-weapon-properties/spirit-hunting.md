@@ -117,7 +117,6 @@ A *spirit-hunting* weapon excels against enemies with either the mystery or spir
 <thead>
 <tr class="header">
 <th><h1 id="training"><span class="smallcaps">Training</span></h1>
-<p><strong>Source</strong> <a href="http://paizo.com/products/btpy9l37/discuss&amp;page=5?Pathfinder-Campaign-Setting-Inner-Sea-Intrigue"><em>Inner Sea Intrigue pg. 52</em></a></p>
 <p><strong>Aura</strong> faint transmutation <strong>CL</strong> 3rd</p>
 <p><strong>Slot</strong> none; <strong>Price</strong> +1 bonus; <strong>Weight</strong> —</p>
 <h3 id="description-81"><span class="smallcaps">Description</span></h3>

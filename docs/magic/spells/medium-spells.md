@@ -76,7 +76,7 @@ Mediums gain access to the following spells. Spells without a link come from oth
 - **[Quintessence](quintessence.md)**: Mask any flaws of or damage to a creature or object.
 - **[Reduce Person](reduce-person.md)**: Humanoid creature halves in size.
 - **[Remove Fear](remove-fear.md)**: Suppresses fear or gives +4 on saves against fear for one subject + one per four levels.
-- **[Restore Corpse](restore-corpse.md)**: Skeletal corpse grows f lesh.
+- **[Restore Corpse](restore-corpse.md)**: Skeletal corpse grows flesh.
 - Share Glory
 - **[Rumormonger](rumormonger.md)**: Follow a rumor to see where it spreads.
 - **[Sense Fear](sense-fear.md)**: Perceive nearby creatures that are experiencing fear.
@@ -86,7 +86,7 @@ Mediums gain access to the following spells. Spells without a link come from oth
 - **[Summon Monster I](summon-monster-i.md)**: (Evil creatures only.) Summons extraplanar creature to fight for you.
 - **[True Strike](true-strike.md)**: +20 on your next attack roll.
 - Unerring Weapon
-- **[Unprepared Combatant](unprepared-combatant.md)**: Target takes –4 on initiative and Ref lex saves.
+- **[Unprepared Combatant](unprepared-combatant.md)**: Target takes –4 on initiative and Reflex saves.
 - **[Unseen Servant](unseen-servant.md)**: Invisible force obeys your commands.
 - **[Ventriloquism](ventriloquism.md)**: Throws voice for 1 min./level.
 - **[Vocal Alteration](vocal-alteration.md)**: Disguise target’s voice.

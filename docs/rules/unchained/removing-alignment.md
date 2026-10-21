@@ -14,7 +14,7 @@ Certain classes depend on alignment features. Below is a list of changes you’l
 
 **Barbarian**: Remove the alignment restriction. A barbarian may not have a loyalty to law, order, or any similar concepts.
 
-**Cleric**: Remove the alignment restriction. Clerics must have a loyalty to their deity, though not necessarily to a church hierarchy or other clergy. Remove the restriction against casting spells of certain alignments (since such spells no longer exist), but create a list of spells that each deity would ban based on his or her portfolio and personality. For instance, the neutral good deity Iomedae would not tolerate spells involving consorting with outsiders from the Lower Planes. Remove the Chaos, Good, Evil, and Law domains from all deities’ lists, and replace them with appropriate domains so each deity has the same number of domains.
+**Cleric**: Remove the alignment restriction. Clerics must have a loyalty to their deity, though not necessarily to a church hierarchy or other clergy. Remove the restriction against casting spells of certain alignments (since such spells no longer exist), but create a list of spells that each deity would ban based on his or her portfolio and personality. For instance, a neutral good deity would not tolerate spells involving consorting with outsiders from the Lower Planes. Remove the Chaos, Good, Evil, and Law domains from all deities’ lists, and replace them with appropriate domains so each deity has the same number of domains.
 
 **Druid**: Remove the alignment restriction. Druids must have a loyalty involving nature or the druidic code of conduct.
 

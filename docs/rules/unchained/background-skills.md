@@ -213,7 +213,7 @@ An understanding of the properties and quality of an object comes part and parce
 
 2. With a successful opposed Perception or Craft (jewelry) check, a character identifies the work as a fake.
 
-3. This DC is for items made from the hides of common animals, such as cattle, and increases by 5 for other types of creatures. The table below lists which craft skills to use for certain prominent items and adventuring tools. The list omits obvious items—outf its are made with Craft (clothing), keelboats with Craft (ships), and so on. More specific skills can also be used instead of the listed skill, such as using Craft (tattoos) instead of Craft (paintings) for a tattoo.
+3. This DC is for items made from the hides of common animals, such as cattle, and increases by 5 for other types of creatures. The table below lists which craft skills to use for certain prominent items and adventuring tools. The list omits obvious items—outfits are made with Craft (clothing), keelboats with Craft (ships), and so on. More specific skills can also be used instead of the listed skill, such as using Craft (tattoos) instead of Craft (paintings) for a tattoo.
 
 | Item | Craft Skill |
 |---|---|

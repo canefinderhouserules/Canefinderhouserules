@@ -2,7 +2,6 @@
 
 ***Source** [PRPG Core Rulebook pg. 47](http://paizo.com/pathfinderRPG/v5748btpy88yj)*
 
-***Deities**: [Benorus](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Benorus), [Bifrons](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Bifrons), [Braismois](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Braismois), [Gaap](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Gaap), [Hastur](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Hastur), [Imot](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Imot), [Irez](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Irez), [Irori](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Irori), [Lissala](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Lissala), [Lissala (pre-Earthfall)](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Lissala%20(pre-Earthfall)), [Magdh](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Magdh), [Magrim](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Magrim), [Mephistopheles](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Mephistopheles), [Mneoc](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Mneoc), [Nalinivati](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Nalinivati), [Narakaas](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Narakaas), [Nethys](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Nethys), [Onmyuza](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Onmyuza), [Sivanah](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Sivanah), [Stygidvod](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Stygidvod), [Thoth](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Thoth), [Valmallos](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Valmallos), [Ydajisk](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Ydajisk)*
 
 ***Granted Powers**: In strange and eldritch runes you find potent magic. You gain Scribe Scroll as a bonus feat.*
 
@@ -18,7 +17,6 @@
 
 ***Associated Domain(s)**: Rune*
 
-***Associated Deities**: [Bifrons](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Bifrons), [Braismois](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Braismois), [Hastur](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Hastur), [Irez](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Irez), [Irori](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Irori), [Lissala](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Lissala), [Lissala (pre-Earthfall)](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Lissala%20(pre-Earthfall)), [Mephistopheles](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Mephistopheles), [Onmyuza](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Onmyuza), [Pavnuri](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Pavnuri), [Stygidvod](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Stygidvod), [Thoth](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Thoth), [Titivilus](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Titivilus), [Vapula](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Vapula)*
 
 ***Replacement Power**: The following granted power replaces the spell rune power of the Rune domain.*
 
@@ -32,7 +30,6 @@
 
 ***Associated Domain(s)**: Law, Rune*
 
-***Associated Deities**: [Abadar](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Abadar), [Asmodeus](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Asmodeus), [Dispater](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Dispater), [Lissala](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Lissala), [Winlas](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Winlas)*
 
 ***Replacement Power**: The following granted power replaces the touch of law power of the Law domain or the blast rune power of the Rune domain.*
 
@@ -48,7 +45,6 @@
 
 ***Associated Domain(s)**: Rune*
 
-***Associated Deities**: [Acavna](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Acavna), [Benorus](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Benorus), [Bifrons](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Bifrons), [Gaap](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Gaap), [Hastur](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Hastur), [Irez](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Irez), [Lissala](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Lissala), [Lissala (pre-Earthfall)](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Lissala%20(pre-Earthfall)), [Magdh](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Magdh), [Magrim](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Magrim), [Nalinivati](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Nalinivati), [Nethys](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Nethys), [Onmyuza](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Onmyuza), [Sivanah](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Sivanah), [Thoth](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Thoth)*
 
 ***Replacement Power**: The following granted power replaces the spell rune power of the Rune domain.*
 

@@ -1,6 +1,6 @@
 # Intrusive Presence
 
-You can rif le through the thoughts and memories of your host.
+You can rifle through the thoughts and memories of your host.
 
 **Prerequisites**: Int or Cha 21, Hidden Presence, Manipulative Presence, ability to cast possession or greater possession.
 

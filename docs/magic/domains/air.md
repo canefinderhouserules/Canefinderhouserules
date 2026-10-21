@@ -2,7 +2,6 @@
 
 **Source** [*PRPG Core Rulebook pg. 41*](http://paizo.com/pathfinderRPG/v5748btpy88yj)
 
-**Deities**: [Apollyon](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Apollyon), [Areshkagal](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Areshkagal), [Baalzebul](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Baalzebul), [Chupurvagasti](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Chupurvagasti), [Eligos](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Eligos), [Findeladlara](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Findeladlara), [Geon](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Geon), [Ghlaunder](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Ghlaunder), [Gozreh](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Gozreh), [Green Faith](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Green%20Faith), [Hathor](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Hathor), [Hei Feng](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Hei%20Feng), [Horus](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Horus), [Hshurha](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Hshurha), [Isph-Aun-Vuln](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Isph-Aun-Vuln), [Ithaqua](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Ithaqua), [Libicocco](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Libicocco), [Llamolaek](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Llamolaek), [Nyarlathotep (Faceless Sphinx)](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Nyarlathotep%20(Faceless%20Sphinx)), [Onos](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Onos), [Pazuzu](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Pazuzu), [Pulura](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Pulura), [Rull](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Rull), [Seramaydiel](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Seramaydiel), [Shelyn](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Shelyn), [Shelyn (pre-Earthfall)](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Shelyn%20(pre-Earthfall)), [Sugroz](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Sugroz), [Tjasse](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Tjasse), [Uaransaph](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Uaransaph), [Xiquiripat](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Xiquiripat), [Ylimancha](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Ylimancha)
 
 **Granted Powers**: You can manipulate lightning, mist, and wind, traffic with air creatures, and are resistant to electricity damage.
 
@@ -18,7 +17,6 @@
 
 **Associated Domain(s)**: Air
 
-**Associated Deities**: [Chupurvagasti](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Chupurvagasti), [Findeladlara](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Findeladlara), [Ghlaunder](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Ghlaunder), [Gozreh](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Gozreh), [Hathor](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Hathor), [Hei Feng](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Hei%20Feng), [Ithaqua](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Ithaqua), [Nyarlathotep (Faceless Sphinx)](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Nyarlathotep%20(Faceless%20Sphinx)), [Pazuzu](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Pazuzu), [Pulura](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Pulura), [Rull](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Rull), [Shelyn](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Shelyn), [Shelyn (pre-Earthfall)](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Shelyn%20(pre-Earthfall)), [Tjasse](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Tjasse)
 
 **Replacement Power**: The following granted power replaces the electricity resistance power of the Air domain.
 
@@ -34,7 +32,6 @@
 
 **Associated Domain(s)**: Air
 
-**Associated Deities**: [Gozreh](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Gozreh), [Hei Feng](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Hei%20Feng), [Rovagug](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Rovagug), [Rull](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Rull)
 
 **Replacement Power**: The following granted power replaces the electricity resistance power of the Air domain.
 
@@ -48,7 +45,6 @@
 
 **Associated Domain(s)**: Air
 
-**Associated Deities**: [Areshkagal](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Areshkagal), [Baalzebul](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Baalzebul), [Chupurvagasti](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Chupurvagasti), [Eligos](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Eligos), [Geon](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Geon), [Ghlaunder](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Ghlaunder), [Gozreh](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Gozreh), [Hei Feng](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Hei%20Feng), [Horus](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Horus), [Hshurha](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Hshurha), [Isph-Aun-Vuln](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Isph-Aun-Vuln), [Ithaqua](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Ithaqua), [Libicocco](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Libicocco), [Llamolaek](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Llamolaek), [Nyarlathotep (Faceless Sphinx)](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Nyarlathotep%20(Faceless%20Sphinx)), [Onos](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Onos), [Pazuzu](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Pazuzu), [Rull](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Rull), [Seramaydiel](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Seramaydiel), [Sugroz](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Sugroz), [Tjasse](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Tjasse), [Uaransaph](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Uaransaph), [Xiquiripat](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Xiquiripat), [Ylimancha](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Ylimancha)
 
 **Replacement Power**: The following granted power replaces the lightning arc power of the Air domain.
 

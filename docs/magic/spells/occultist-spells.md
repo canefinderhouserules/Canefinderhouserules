@@ -132,7 +132,7 @@ Occultists gain access to the following spells, determined by their chosen imple
 - **[Decompose Corpse](decompose-corpse.md)**: Turn a corpse into a clean skeleton.
 - **[Grasping Corpse](grasping-corpse.md)**: Cause a corpse to grab or trip a foe.
 - **[Inflict Light Wounds](inflict-light-wounds.md)**: Touch deals 1d8 damage +1/level (max +5).
-- **[Restore Corpse](restore-corpse.md)**: Skeletal corpse grows f lesh.
+- **[Restore Corpse](restore-corpse.md)**: Skeletal corpse grows flesh.
 - **[Sculpt Corpse](sculpt-corpse.md)**: Makes corpse look like another creature.
 
 **Transmutation**:

@@ -2,7 +2,7 @@
 
 *(Combat)*
 
-Your guarding hand is almost magical in its skill at def lecting incoming blows.
+Your guarding hand is almost magical in its skill at deflecting incoming blows.
 
 **Prerequisites**: Snapping Turtle Clutch, Snapping Turtle Style, Improved Grapple, Improved Unarmed Strike, base attack bonus +5 or monk level 5th.
 

@@ -102,7 +102,7 @@ The following racial traits augment a race’s ability to use magic or grant spe
 
 **Pyromaniac (3 RP)**  
 *Prerequisites*: None  
-*Benefit*: Members of this race are treated as +1 level higher when casting spells with the fire descriptor, using granted powers of the Fire domain, using bloodline powers of the fire elemental bloodline, using the revelations of the oracle’s f lame mystery, and determining the damage of alchemist bombs that deal fire damage. This trait does not give members of this race early access to level-based powers; it only affects powers that they could already use without this trait. If a member of this race has a Charisma score of 11 or higher, it also gains the following spell-like abilities: 1/day—*dancing lights*, *flare*, *prestidigitation*, *produce flame*. The caster level for these spell-like abilities is equal to the user’s character level.
+*Benefit*: Members of this race are treated as +1 level higher when casting spells with the fire descriptor, using granted powers of the Fire domain, using bloodline powers of the fire elemental bloodline, using the revelations of the oracle’s flame mystery, and determining the damage of alchemist bombs that deal fire damage. This trait does not give members of this race early access to level-based powers; it only affects powers that they could already use without this trait. If a member of this race has a Charisma score of 11 or higher, it also gains the following spell-like abilities: 1/day—*dancing lights*, *flare*, *prestidigitation*, *produce flame*. The caster level for these spell-like abilities is equal to the user’s character level.
 
 **Samsaran Magic (2 RP)**  
 *Prerequisite*: Samsaran subtype  

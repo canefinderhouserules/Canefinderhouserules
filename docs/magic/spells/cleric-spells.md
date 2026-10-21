@@ -442,7 +442,7 @@ New spells from *Ultimate Magic*. An M or F after a name marks a material or foc
 - **[Murderous Command](murderous-command.md)**: Target is compelled to kill its ally.
 - **[Ray of Sickening](ray-of-sickening.md)**: Ray makes the subject sickened.
 - **[Remove Sickness](remove-sickness.md)**: Suppress disease, nausea, and the sickened condition.
-- **[Restore Corpse](restore-corpse.md)**: Skeletal corpse grows f lesh.
+- **[Restore Corpse](restore-corpse.md)**: Skeletal corpse grows flesh.
 - **[Sanctify Corpse](sanctify-corpse.md)**: Prevent a corpse from becoming an undead creature.
 - **[Summon Minor Monster](summon-minor-monster.md)**: Summon 1d3 Tiny animals.
 
@@ -524,7 +524,7 @@ New spells from *Ultimate Magic*. An M or F after a name marks a material or foc
 
 - **[Call Construct](call-construct.md)**: Summon your golem to you.
 - **[Create Demiplane](create-demiplane.md)**: As lesser create demiplane, but larger and with planar traits.
-- **[Orb of the Void](orb-of-the-void.md)**: Sphere inf licts negative levels.
+- **[Orb of the Void](orb-of-the-void.md)**: Sphere inflicts negative levels.
 
 ### 9th-Level Cleric Spells
 

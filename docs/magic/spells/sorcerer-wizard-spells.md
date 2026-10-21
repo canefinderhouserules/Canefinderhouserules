@@ -1045,11 +1045,11 @@ New spells from *Ultimate Magic*. An M or F after a name marks a material or foc
 - **[Ki Arrow](ki-arrow.md)**: Arrow deals damage as your unarmed strike.
 - **[Polypurpose Panacea](polypurpose-panacea.md)**: Gain a relaxing or entertaining effect.
 - **[Ray of Sickening](ray-of-sickening.md)**: Ray makes the subject sickened.
-- **[Restore Corpse](restore-corpse.md)**: Skeletal corpse grows f lesh.
+- **[Restore Corpse](restore-corpse.md)**: Skeletal corpse grows flesh.
 - **[Shadow Weapon](shadow-weapon.md)**: Create a quasi-real masterwork weapon.
 - **[Snapdragon Fireworks](snapdragon-fireworks.md)**: Create 1 dragon firework/level.
 - **[Summon Minor Monster](summon-minor-monster.md)**: Summon 1d3 Tiny animals.
-- **[Unprepared Combatant](unprepared-combatant.md)**: Target takes –4 on initiative and Ref lex saves.
+- **[Unprepared Combatant](unprepared-combatant.md)**: Target takes –4 on initiative and Reflex saves.
 - **[Vocal Alteration](vocal-alteration.md)**: Disguise target’s voice.
 - **[Youthful Appearance](youthful-appearance.md)**: Target appears younger.
 
@@ -1079,7 +1079,7 @@ New spells from *Ultimate Magic*. An M or F after a name marks a material or foc
 - **[Steal Voice](steal-voice.md)**: Target gains the croaking spellblight.
 - **[Symbol of Mirroring](symbol-of-mirroring.md)**: Triggered rune creates mirror images.
 - **[Unnatural Lust](unnatural-lust.md)**: Target is compelled to kiss or caress another creature.
-- **[Unshakable Chill](unshakable-chill.md)**: Target is aff licted with severe cold.
+- **[Unshakable Chill](unshakable-chill.md)**: Target is afflicted with severe cold.
 - **[Web Shelter](web-shelter.md)**: Create a comfortable shelter made of webbing.
 
 ### 3rd-Level Sorcerer/Wizard Spells
@@ -1156,7 +1156,7 @@ New spells from *Ultimate Magic*. An M or F after a name marks a material or foc
 - **[Unbreakable Construct](unbreakable-construct.md)**: Increase construct hardness or DR.
 - **[Undead Anatomy II](undead-anatomy-ii.md)**: Take the form and some of the powers of a Tiny or Large undead.
 - **[Vermin Shape II](vermin-shape-ii.md)**: As vermin shape, but Tiny or Large.
-- **[Wall of Sound](wall-of-sound.md)**: Sonic wall def lects and damages creatures.
+- **[Wall of Sound](wall-of-sound.md)**: Sonic wall deflects and damages creatures.
 
 ### 6th-Level Sorcerer/Wizard Spells
 
@@ -1197,7 +1197,7 @@ New spells from *Ultimate Magic*. An M or F after a name marks a material or foc
 
 - **[Call Construct](call-construct.md)**: Summon your construct to you.
 - **[Create Demiplane](create-demiplane.md)**: As lesser create demiplane, but larger and with planar traits.
-- **[Orb of the Void](orb-of-the-void.md)**: Sphere inf licts negative levels.
+- **[Orb of the Void](orb-of-the-void.md)**: Sphere inflicts negative levels.
 - **[Prediction of Failure](prediction-of-failure.md)**: Target is permanently shaken and sickened, and may gain a spellblight.
 - **[Undead Anatomy IV](undead-anatomy-iv.md)**: As undead anatomy III, but with more abilities.
 

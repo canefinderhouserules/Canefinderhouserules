@@ -58,7 +58,7 @@ Most magic armor and shields only have enhancement bonuses. Such items can also 
 
 *Moderate abjuration; CL 8th; Craft Magic Arms and Armor, entropic shield; Price +1 bonus.*
 
-**Arrow Deflection**: This shield protects the wielder as if he had the Deflect Arrows feat. Once per round when he would normally be struck by a ranged weapon, he can make a DC 20 Reflex save. If the ranged weapon (or piece of ammunition) has an enhancement bonus, the DC increases by that amount. If he succeeds, the shield deflects the weapon. He must be aware of the attack and not flat-footed. Attempting to deflect a ranged weapon doesn’t count as an action. Exceptional ranged weapons, such as boulders hurled by giants or acid arrows, can’t be def lected.
+**Arrow Deflection**: This shield protects the wielder as if he had the Deflect Arrows feat. Once per round when he would normally be struck by a ranged weapon, he can make a DC 20 Reflex save. If the ranged weapon (or piece of ammunition) has an enhancement bonus, the DC increases by that amount. If he succeeds, the shield deflects the weapon. He must be aware of the attack and not flat-footed. Attempting to deflect a ranged weapon doesn’t count as an action. Exceptional ranged weapons, such as boulders hurled by giants or acid arrows, can’t be deflected.
 
 *Faint abjuration; CL 5th; Craft Magic Arms and Armor, shield; Price +2 bonus.*
 
@@ -110,7 +110,7 @@ Most magic armor and shields only have enhancement bonuses. Such items can also 
 
 Strong abjuration and evocation (if miracle is used); CL 18th; Craft Magic Arms and Armor, stoneskin, wish or miracle; Price +3 bonus.
 
-**Ref lecting**: This shield seems like a highly polished mirror. Its surface is completely ref lective. Once per day, it can be called on to reflect a spell back at its caster exactly like the spell turning spell.
+**Reflecting**: This shield seems like a highly polished mirror. Its surface is completely reflective. Once per day, it can be called on to reflect a spell back at its caster exactly like the spell turning spell.
 
 *Strong abjuration; CL 14th; Craft Magic Arms and Armor, spell turning; Price +5 bonus.*
 

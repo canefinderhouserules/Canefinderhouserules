@@ -2,7 +2,6 @@
 
 ***Source** [PRPG Core Rulebook pg. 46](http://paizo.com/pathfinderRPG/v5748btpy88yj)*
 
-***Deities**: [Acavna](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Acavna), [Alazhra](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Alazhra), [Anubis](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Anubis), [Ashava](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Ashava), [Atropos](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Atropos), [Barzahk](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Barzahk), [Ceyannan](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Ceyannan), [Chamiaholom](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Chamiaholom), [Chavazvug](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Chavazvug), [Corosbel](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Corosbel), [Dalenydra](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Dalenydra), [Dammar](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Dammar), [Doloras](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Doloras), [Fharaas](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Fharaas), [Fumeiyoshi](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Fumeiyoshi), [Ghenshau](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Ghenshau), [Imot](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Imot), [Lorcan](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Lorcan), [Magrim](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Magrim), [Mother Vulture](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Mother%20Vulture), [Mrtyu](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Mrtyu), [Naderi](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Naderi), [Narakaas](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Narakaas), [Osiris](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Osiris), [Ozranvial](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Ozranvial), [Pharasma](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Pharasma), [Phlegyas](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Phlegyas), [Rhan-Tegoth](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Rhan-Tegoth), [Saloc](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Saloc), [Selket](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Selket), [Shizuru](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Shizuru), [Teshallas](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Teshallas), [The Lost Prince](https://www.aonprd.com/DeityDisplay.aspx?ItemName=The%20Lost%20Prince), [The Pale Horse](https://www.aonprd.com/DeityDisplay.aspx?ItemName=The%20Pale%20Horse), [Tsukiyo](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Tsukiyo), [Uskyeria](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Uskyeria), [Vale](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Vale), [Vavaalrav](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Vavaalrav), [Vonymos](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Vonymos), [Yhidothrus](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Yhidothrus)*
 
 ***Granted Powers**: You see death not as something to be feared, but as a final rest and reward for a life well spent. The taint of undeath is a mockery of what you hold dear.*
 
@@ -18,7 +17,6 @@
 
 ***Associated Domain(s)**: Repose*
 
-***Associated Deities**: [Acavna](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Acavna), [Anubis](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Anubis), [Ashava](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Ashava), [Bergelmir](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Bergelmir), [Fharaas](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Fharaas), [Ghenshau](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Ghenshau), [Magrim](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Magrim), [Myr](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Myr), [Osiris](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Osiris), [Pharasma](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Pharasma), [Ragadahn](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Ragadahn), [Rhan-Tegoth](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Rhan-Tegoth), [Selket](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Selket), [Shizuru](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Shizuru), [The Lost Prince](https://www.aonprd.com/DeityDisplay.aspx?ItemName=The%20Lost%20Prince), [Tsukiyo](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Tsukiyo), [Yhidothrus](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Yhidothrus)*
 
 ***Replacement Power**: The following granted power replaces the ward against death power of the Repose domain.*
 
@@ -32,7 +30,6 @@
 
 ***Associated Domain(s)**: Repose*
 
-***Associated Deities**: [Pharasma](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Pharasma)*
 
 ***Replacement Power**: The following granted power replaces the death’s embrace ability of the Death domain or the ward against death ability of the Repose domain. Psychopomps are a race of neutral outsiders (Pathfinder RPG Bestiary 4 217).*
 
@@ -46,7 +43,6 @@
 
 ***Associated Domain(s)**: Repose*
 
-***Associated Deities**: [Alazhra](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Alazhra), [Anubis](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Anubis), [Cagnazzo](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Cagnazzo), [Chamiaholom](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Chamiaholom), [Chavazvug](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Chavazvug), [Corosbel](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Corosbel), [Doloras](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Doloras), [Fharaas](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Fharaas), [Fumeiyoshi](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Fumeiyoshi), [Lorcan](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Lorcan), [Magrim](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Magrim), [Naderi](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Naderi), [Osiris](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Osiris), [Ozranvial](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Ozranvial), [Pharasma](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Pharasma), [Selket](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Selket), [Tsukiyo](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Tsukiyo)*
 
 ***Replacement Power**: The following granted power replaces the gentle rest power of the Repose domain.*
 
@@ -54,7 +50,7 @@
 
 ***Replacement Domain Spells**: 3rd—animate dead, 6th—antilife shield, 9th—trap the soul.*
 
-***Pharasma-Friendly Souls Subdomain** (Source: [Paizo Blog](http://paizo.com/paizo/blog/v5748dyo5lbvp), PFS-Legal) 3rd-level domain spell: Replace animate dead with speak with dead.*
+***Deity-Friendly Souls Subdomain** (Source: [Paizo Blog](http://paizo.com/paizo/blog/v5748dyo5lbvp), PFS-Legal) 3rd-level domain spell: Replace animate dead with speak with dead.*
 
 ## Variant Domain Powers
 
@@ -62,13 +58,13 @@
 
 *A cleric (or any other character capable of selecting a domain) who worships the deity in question can choose to gain the variant domain power upon first gaining the domain in question, but the choice to replace the domain power must be made immediately upon gaining access to that domain and cannot be changed thereafter.*
 
-###  *<span class="smallcaps">Pharasma</span>*
+### The Goddess of Graves
 
 ***Source** [Haunted Heroes Handbook pg. 9](http://paizo.com/products/btpy9nft?Pathfinder-Player-Companion-Haunted-Heroes-Handbook)*
 
 ***Associated Domain(s)**: Repose*
 
-*The Lady of Graves seeks the destruction of undead, be they corporeal or manifested spirits. Inquisitors of Pharasma scour the world for signs of the undead, destroying such abominations on sight by means both traditional and esoteric in nature. As a result, most people come first to the church of Pharasma when seeking assistance against foul spirits. One unusual facet of Pharasma’s faithful is their reluctance to excise non-undead spirits, such as demons or devils. Only the most altruistic of Pharasmin priests offer their services against possessing outsiders, as most faithful see battling such foes as being beyond their true calling.*
+*The goddess of graves seeks the destruction of undead, be they corporeal or manifested spirits. Inquisitors of the goddess scour the world for signs of the undead, destroying such abominations on sight by means both traditional and esoteric in nature. As a result, most people come first to the church of the goddess when seeking assistance against foul spirits. One unusual facet of the goddess’s faithful is their reluctance to excise non-undead spirits, such as demons or devils. Only the most altruistic of her priests offer their services against possessing outsiders, as most faithful see battling such foes as being beyond their true calling.*
 
 ***Exorcism of Undeath (Sp)**: Once per day as a full-round action, you can try to end any possession spells or effects, or effects that directly exercise mental control over a creature, as long as the effect was caused by an undead creature. You must touch the affected creature (this requires a melee touch attack if the target is neither willing nor helpless) and use a vial of holy water as a material component that is consumed as part of using this ability. The target must immediately attempt a new Will save against the original save DC of the controlling effect. If the save is successful, the possession effect immediately ends, as if the target had succeeded at its original saving throw. If the possessing force is a ghost or similar undead, it manifests adjacent to the target and is staggered for 1 round.*
 

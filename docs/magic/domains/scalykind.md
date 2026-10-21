@@ -1,8 +1,6 @@
 # Scalykind
 
-***Source** [Book of the Damned pg. 181](http://paizo.com/products/btpy9tok), [Inner Sea World Guide pg. 216](http://paizo.com/store/games/roleplayingGames/p/pathfinderRPG/paizo/pathfinderChronicles/v5748btpy8ief), [Pathfinder \#37: Souls for Smuggler's Shiv pg. 69](http://paizo.com/pathfinder/adventurePath/theSerpentsSkull/v5748btpy8b7v), [Gods and Magic pg. 51](http://paizo.com/store/downloads/pathfinder/pathfinderChronicles/35E/v5748btpy85eh)*
 
-***Deities**: [Apep](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Apep), [Apsu](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Apsu), [Ardad Lili](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Ardad%20Lili), [Dahak](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Dahak), [Jalaijatali](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Jalaijatali), [Nalinivati](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Nalinivati), [Ragadahn](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Ragadahn), [Rytara](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Rytara), [Sobek](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Sobek), [Teshallas](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Teshallas), [Vois](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Vois), [Vorasha](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Vorasha), [Ydersius](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Ydersius), [Yig](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Yig)*
 
 ***Granted Powers**: You are a true lord of reptiles, and your gaze can drive weak creatures into unconsciousness.*
 
@@ -14,11 +12,9 @@
 
 ###  *<span class="smallcaps">Dragon Subdomain</span>*
 
-***Source** [Book of the Damned pg. 180](http://paizo.com/products/btpy9tok), [Inner Sea Gods pg. 224](http://paizo.com/products/btpy94wj?Pathfinder-Campaign-Setting-Inner-Sea-Gods-Hardcover), [Paizo Blog - Golarion Day Subdomains pg. 1](http://paizo.com/paizo/blog/v5748dyo5lbvp), [Champions of Purity pg. 20](http://paizo.com/products/btpy8x1s?Pathfinder-Player-Companion-Champions-of-Purity)*
 
 ***Associated Domain(s)**: Scalykind*
 
-***Associated Deities**: [Apep](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Apep), [Apsu](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Apsu), [Ardad Lili](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Ardad%20Lili), [Dahak](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Dahak), [Draghignazzo](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Draghignazzo), [Ragadahn](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Ragadahn), [Yig](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Yig)*
 
 ***Replacement Power**: The following granted power replaces the serpent companion ability of the Scalykind domain.*
 
@@ -28,11 +24,9 @@
 
 ###  *<span class="smallcaps">Saurian Subdomain</span>*
 
-***Source** [Book of the Damned pg. 181](http://paizo.com/products/btpy9tok), [Paizo Blog - Golarion Day Subdomains pg. 1](http://paizo.com/paizo/blog/v5748dyo5lbvp), [Inner Sea Gods pg. 226](http://paizo.com/products/btpy94wj?Pathfinder-Campaign-Setting-Inner-Sea-Gods-Hardcover)*
 
 ***Associated Domain(s)**: Scalykind*
 
-***Associated Deities**: [Sobek](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Sobek), [Ydersius](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Ydersius), [Zevgavizeb](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Zevgavizeb)*
 
 ***Replacement Power**: The following granted power replaces the serpent companion ability of the Scalykind domain.*
 
@@ -42,11 +36,9 @@
 
 ###  *<span class="smallcaps">Venom Subdomain</span>*
 
-***Source** [Book of the Damned pg. 182](http://paizo.com/products/btpy9tok), [Inner Sea Gods pg. 227](http://paizo.com/products/btpy94wj?Pathfinder-Campaign-Setting-Inner-Sea-Gods-Hardcover)*
 
 ***Associated Domain(s)**: Scalykind*
 
-***Associated Deities**: [Isph-Aun-Vuln](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Isph-Aun-Vuln), [Mazmezz](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Mazmezz), [Nergal](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Nergal), [Ragadahn](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Ragadahn), [Rytara](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Rytara), [Scarmiglione](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Scarmiglione), [Vois](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Vois), [Vorasha](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Vorasha), [Yig](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Yig)*
 
 ***Replacement Power**: The following granted power replaces the venomous stare power of the Scalykind domain.*
 

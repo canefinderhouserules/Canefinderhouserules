@@ -2,7 +2,6 @@
 
 **Source** [*PRPG Core Rulebook pg. 41*](http://paizo.com/pathfinderRPG/v5748btpy88yj)
 
-**Deities**: [Aerekostes](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Aerekostes), [Aesocar](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Aesocar), [Amaznen](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Amaznen), [Apsu](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Apsu), [Atlach-Nacha](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Atlach-Nacha), [Bharnarol](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Bharnarol), [Bifrons](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Bifrons), [Brigh](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Brigh), [Chimon](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Chimon), [Cixyron](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Cixyron), [Daikitsu](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Daikitsu), [Droskar](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Droskar), [Eldas](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Eldas), [Findeladlara](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Findeladlara), [Haagenti](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Haagenti), [Il'surrish](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Il%27surrish), [Khepri](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Khepri), [Malthus](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Malthus), [Mammon](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Mammon), [Mazludeh](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Mazludeh), [Minderhal](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Minderhal), [Monad](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Monad), [Nameless](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Nameless), [Neith](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Neith), [Nocticula (Redeemed)](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Nocticula%20(Redeemed)), [Omrataji](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Omrataji), [Ose](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Ose), [Otolmens](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Otolmens), [Phlegyas](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Phlegyas), [Ptah](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Ptah), [Sabnach](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Sabnach), [Soralyon](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Soralyon), [Speakers of the Depths](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Speakers%20of%20the%20Depths), [Stygidvod](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Stygidvod), [Torag](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Torag), [Yaezhing](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Yaezhing), [Yamasoth](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Yamasoth), [Yuelral](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Yuelral)
 
 **Granted Powers**: You can repair damage to objects, animate objects with life, and create objects from nothing.
 
@@ -20,7 +19,6 @@
 
 **Associated Domain(s)**: Artifice, Magic
 
-**Associated Deities**: [Brigh](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Brigh), [Haagenti](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Haagenti), [Norgorber](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Norgorber), [Orgesh](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Orgesh), [Qi Zhong](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Qi%20Zhong)
 
 **Replacement Power**: The following granted power replaces the artificer’s touch power of the Artifice domain or the hand of the acolyte power of the Magic domain.
 
@@ -34,7 +32,6 @@
 
 **Associated Domain(s)**: Artifice
 
-**Associated Deities**: [Aerekostes](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Aerekostes), [Aesocar](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Aesocar), [Amaznen](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Amaznen), [Apsu](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Apsu), [Atlach-Nacha](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Atlach-Nacha), [Bharnarol](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Bharnarol), [Brigh](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Brigh), [Cixyron](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Cixyron), [Daikitsu](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Daikitsu), [Droskar](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Droskar), [Eldas](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Eldas), [Findeladlara](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Findeladlara), [Haagenti](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Haagenti), [Malthus](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Malthus), [Mammon](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Mammon), [Minderhal](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Minderhal), [Neith](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Neith), [Ptah](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Ptah), [Sabnach](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Sabnach), [Soralyon](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Soralyon), [Speakers of the Depths](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Speakers%20of%20the%20Depths), [Torag](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Torag), [Yaezhing](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Yaezhing), [Yamasoth](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Yamasoth), [Yuelral](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Yuelral)
 
 **Replacement Power**: The following granted power replaces the dancing weapon power of the Artifice domain.
 
@@ -48,7 +45,6 @@
 
 **Associated Domain(s)**: Artifice
 
-**Associated Deities**: [Brigh](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Brigh), [Daikitsu](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Daikitsu), [Torag](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Torag)
 
 **Replacement Power**: The following granted power replaces the dancing weapon power of the Artifice domain.
 
@@ -62,7 +58,6 @@
 
 **Associated Domain(s)**: Artifice
 
-**Associated Deities**: [Apsu](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Apsu), [Atlach-Nacha](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Atlach-Nacha), [Bifrons](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Bifrons), [Chimon](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Chimon), [Cixyron](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Cixyron), [Droskar](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Droskar), [Eldas](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Eldas), [Haagenti](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Haagenti), [Khepri](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Khepri), [Malthus](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Malthus), [Mammon](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Mammon), [Minderhal](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Minderhal), [Nameleses](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Nameleses), [Omrataji](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Omrataji), [Ose](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Ose), [Sabnach](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Sabnach), [Speakers of the Depths](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Speakers%20of%20the%20Depths), [Stygidvod](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Stygidvod), [Torag](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Torag), [Yaezhing](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Yaezhing), [Yamasoth](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Yamasoth)
 
 **Replacement Power**: The following granted power replaces the dancing weapon power of the Artifice domain.
 
@@ -72,11 +67,9 @@
 
 ### <span class="smallcaps">Trap Subdomain</span>
 
-**Source** [*Kobolds of Golarion pg. 13*](http://paizo.com/products/btpy8yw0?Pathfinder-Player-Companion-Kobolds-of-Golarion)
 
 **Associated Domain(s)**: Artifice
 
-**Associated Deities**: N/A
 
 **Replacement Power**: *Note: Only creatures with the [Kobold Faith](https://www.aonprd.com/TraitDisplay.aspx?ItemName=Kobold%20Faith) trait can take this subdomain.*
 

@@ -2,7 +2,7 @@
 
 *(Combat)*
 
-You turn knowledge of your enemy into a f lawless defense.
+You turn knowledge of your enemy into a flawless defense.
 
 **Prerequisites**: Int 13, Kirin Strike, Kirin Style, Improved Unarmed Strike, Knowledge (arcana) 12 ranks, Knowledge (dungeoneering, local, nature, planes, or religion) 5 ranks.
 

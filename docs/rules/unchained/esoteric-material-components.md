@@ -12,7 +12,7 @@ Use the following rules for esoteric material components with the variants prese
 
 ## Buying Esoteric Components
 
-Each common esoteric material component has the same price, and a spellcaster buys them based on their gp value. Though each type of component comes in different sizes and purities, it’s usually simplest to just track the total gp value of each type of component a spellcaster carries rather than the specific forms of those components. In a collection of geodes, some might be large and some small, some fine and some f lawed.
+Each common esoteric material component has the same price, and a spellcaster buys them based on their gp value. Though each type of component comes in different sizes and purities, it’s usually simplest to just track the total gp value of each type of component a spellcaster carries rather than the specific forms of those components. In a collection of geodes, some might be large and some small, some fine and some flawed.
 
 Each bit of esoteric component goes a long way, so 500 gp worth of components weighs 1 pound regardless of its type.
 
@@ -89,7 +89,7 @@ Over the course of an adventuring day, a spellcaster can scrounge for esoteric c
 
 ## Esoteric Component Types
 
-This system uses four common esoteric components— entropic resin, geodes, prismatic sand, and verdant salts—plus one rare component called yliaster. A GM can change the descriptions of these components to different substances that better f it her game if she so chooses. The rare component could be a catchall for a number of equally potent magical substances. The blood of a god, a sliver of stone from deep in the earth, or a piece of ethereal substance made solid could each be used as the rare component, even within the same campaign.
+This system uses four common esoteric components— entropic resin, geodes, prismatic sand, and verdant salts—plus one rare component called yliaster. A GM can change the descriptions of these components to different substances that better fit her game if she so chooses. The rare component could be a catchall for a number of equally potent magical substances. The blood of a god, a sliver of stone from deep in the earth, or a piece of ethereal substance made solid could each be used as the rare component, even within the same campaign.
 
 Each entry includes the associated schools, a description of the esoteric component type, the greater component effect, and the limited magic effect. The limited magic effect entry applies only if the campaign is also using the limited magic system.
 

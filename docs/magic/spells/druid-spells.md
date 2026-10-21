@@ -363,7 +363,7 @@ New spells from *Ultimate Magic*. An M or F after a name marks a material or foc
 - **[Frostbite](frostbite.md)**: Target takes cold damage and is fatigued.
 - **[Ray of Sickening](ray-of-sickening.md)**: Ray makes the subject sickened.
 - **[Remove Sickness](remove-sickness.md)**: Suppress disease, nausea, and the sickened condition.
-- **[Restore Corpse](restore-corpse.md)**: Skeletal corpse grows f lesh.
+- **[Restore Corpse](restore-corpse.md)**: Skeletal corpse grows flesh.
 - **[Summon Minor Ally](summon-minor-ally.md)**: Summon 1d3 Tiny animals.
 
 ### 2nd-Level Druid Spells
@@ -372,7 +372,7 @@ New spells from *Ultimate Magic*. An M or F after a name marks a material or foc
 - **[Masterwork Transformation](masterwork-transformation.md)**: Make a normal item into a masterwork one.
 - **[Pernicious Poison](pernicious-poison.md)**: Target takes a –4 penalty against poison.
 - **[Tar Ball](tar-ball.md)**: Burning tar harms target and penalizes its Dex.
-- **[Unshakable Chill](unshakable-chill.md)**: Target is aff licted with severe cold.
+- **[Unshakable Chill](unshakable-chill.md)**: Target is afflicted with severe cold.
 - **[Wartrain Mount](wartrain-mount.md)**: Animal gains the combat training general purpose.
 - **[Web Shelter](web-shelter.md)**: Create a comfortable shelter made of webbing.
 

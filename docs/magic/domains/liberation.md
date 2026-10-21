@@ -2,7 +2,6 @@
 
 ***Source** [PRPG Core Rulebook pg. 45](http://paizo.com/pathfinderRPG/v5748btpy88yj)*
 
-***Deities**: [Anogetz](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Anogetz), [Arshea](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Arshea), [Black Butterfly](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Black%20Butterfly), [Desna](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Desna), [Eaqueo](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Eaqueo), [Falayna](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Falayna), [Feronia](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Feronia), [Kazutal](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Kazutal), [Khepri](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Khepri), [Llamolaek](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Llamolaek), [Lorris](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Lorris), [Milani](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Milani), [Mneoc](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Mneoc), [Narriseminek](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Narriseminek), [Neshen](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Neshen), [Ondisso](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Ondisso), [Saloc](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Saloc), [Scal](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Scal), [Shei](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Shei), [Ssila'meshnik](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Ssila%27meshnik), [Sun Wukong](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Sun%20Wukong), [Taraksun](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Taraksun), [Vapula](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Vapula), [Vevelor](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Vevelor), [Xhasnaphar](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Xhasnaphar), [Zaigasnar](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Zaigasnar)*
 
 ***Granted Powers**: You are a spirit of freedom and a staunch foe against all who would enslave and oppress.*
 
@@ -18,7 +17,6 @@
 
 ***Associated Domain(s)**: Liberation*
 
-***Associated Deities**: [Arshea](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Arshea), [Black Butterfly](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Black%20Butterfly), [Desna](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Desna), [Eaqueo](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Eaqueo), [Falayna](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Falayna), [Feronia](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Feronia), [Khepri](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Khepri), [Llamolaek](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Llamolaek), [Lorris](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Lorris), [Milani](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Milani), [Neshen](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Neshen), [Scal](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Scal), [Shei](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Shei), [Sun Wukong](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Sun%20Wukong), [Taraksun](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Taraksun), [Vevelor](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Vevelor), [Xhasnaphar](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Xhasnaphar), [Zaigasnar](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Zaigasnar)*
 
 ***Replacement Power**: The following granted power replaces the liberation power of the Liberation domain.*
 
@@ -32,7 +30,6 @@
 
 ***Associated Domain(s)**: Liberation*
 
-***Associated Deities**: [Anogetz](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Anogetz), [Black Butterfly](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Black%20Butterfly), [Desna](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Desna), [Falayna](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Falayna), [Khepri](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Khepri), [Milani](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Milani), [Sun Wukong](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Sun%20Wukong), [Taraksun](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Taraksun), [Vevelor](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Vevelor), [Xhasnaphar](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Xhasnaphar)*
 
 ***Replacement Power**: The following granted power replaces the freedom’s call power of the Liberation domain.*
 
@@ -48,7 +45,6 @@
 
 ***Associated Domain(s)**: Liberation, Strength*
 
-***Associated Deities**: [Arshea](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Arshea), [Falayna](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Falayna), [Haagenti](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Haagenti), [Irori](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Irori), [Kurgess](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Kurgess), [Scal](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Scal), [Shei](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Shei), [Urgathoa](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Urgathoa)*
 
 ***Replacement Power**: The following granted power replaces the liberation power of the Liberation domain or the strength surge ability of the Strength domain.*
 

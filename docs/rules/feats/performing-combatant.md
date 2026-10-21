@@ -2,7 +2,7 @@
 
 *(Combat)*
 
-You treat every combat as a performance, bringing f lare and showmanship.
+You treat every combat as a performance, bringing flare and showmanship.
 
 **Prerequisites**: Dazzling Display, any one performance feat.
 

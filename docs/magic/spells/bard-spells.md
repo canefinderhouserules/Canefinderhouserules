@@ -357,7 +357,7 @@ New spells from *Ultimate Magic*. An M or F after a name marks a material or foc
 - **[Play Instrument](play-instrument.md)**: Play instrument as if you were skilled.
 - **[Summon Minor Monster](summon-minor-monster.md)**: Summon 1d3 Tiny animals.
 - **[Unnatural Lust](unnatural-lust.md)**: Target is compelled to kiss or caress another.
-- **[Unprepared Combatant](unprepared-combatant.md)**: Target takes –4 on initiative and Ref lex saves.
+- **[Unprepared Combatant](unprepared-combatant.md)**: Target takes –4 on initiative and Reflex saves.
 - **[Vocal Alteration](vocal-alteration.md)**: Disguise target’s voice.
 - **[Youthful Appearance](youthful-appearance.md)**: Target appears younger.
 
@@ -413,7 +413,7 @@ New spells from *Ultimate Magic*. An M or F after a name marks a material or foc
 - **[Sonic Thrust](sonic-thrust.md)**: Sound moves targets away from you.
 - **[Utter Contempt](utter-contempt.md)**: Target’s attitude worsens by two categories.
 - **[Virtuoso Performance](virtuoso-performance.md)**: Start a second bardic performance while maintaining the first.
-- **[Wall of Sound](wall-of-sound.md)**: Sonic wall def lects and damages creatures.
+- **[Wall of Sound](wall-of-sound.md)**: Sonic wall deflects and damages creatures.
 
 ### 5th-Level Bard Spells
 

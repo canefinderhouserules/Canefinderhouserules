@@ -1,6 +1,6 @@
 # Chakra Master
 
-You have mastered all seven chakras, and use your ki to pull more power from the kundalini f low.
+You have mastered all seven chakras, and use your ki to pull more power from the kundalini flow.
 
 **Prerequisites**: Chakra Adept, Chakra Initiate, ability to awaken the crown chakra.
 

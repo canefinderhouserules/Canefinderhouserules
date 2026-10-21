@@ -1,6 +1,6 @@
 # Splintering Weapon
 
-Your fragile weapon works to your advantage, breaking off fragments in wounds you inf lict.
+Your fragile weapon works to your advantage, breaking off fragments in wounds you inflict.
 
 **Prerequisites**: Base attack bonus +1, proficient with weapon, weapon made of primitive material.
 

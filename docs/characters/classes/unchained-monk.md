@@ -1,6 +1,6 @@
 # Unchained Monk
 
-Physical and mental perfection—that is the life goal of every monk. For these skilled warriors, martial prowess and mental clarity are one and the same. Capable of pummeling foes with both f ist and weapon, monks are among the more versatile combatants on the battlef ield. Monks are also able to harness their ki, a spiritual life force that resides within, allowing them to perform amazing acts of acrobatics and mystical skill. All of this depends on incredible discipline and focus, and monks spend their entire lives perfecting these arts.
+Physical and mental perfection—that is the life goal of every monk. For these skilled warriors, martial prowess and mental clarity are one and the same. Capable of pummeling foes with both fist and weapon, monks are among the more versatile combatants on the battlefield. Monks are also able to harness their ki, a spiritual life force that resides within, allowing them to perform amazing acts of acrobatics and mystical skill. All of this depends on incredible discipline and focus, and monks spend their entire lives perfecting these arts.
 
 **Unchained**: Much of the monk has been reworked, including its base attack bonus, Hit Die, saves, and many of its special abilities. The result is a version of the monk that not only is easier to play, but also possesses a great deal more versatility. Flurry of blows is now much simpler to use in play. Many of the higher-level abilities of the monk, such as abundant step and quivering palm, have been incorporated into the new system of ki powers. As a monk advances in level, he can select from a variety of ki powers, allowing the player to truly customize his character.
 
@@ -78,7 +78,7 @@ The damage dealt by a monk’s unarmed strike is determined by the unarmed damag
 
 The ki pool is replenished each morning after 8 hours of rest or meditation; these hours do not need to be consecutive.
 
-**Ki Powers (Su)**: At 4th level and every 2 levels thereafter, a monk can select one ki power. These powers allow the monk to perform amazing feats of mystical power and acrobatic prowess by expending points from his ki pool. Once a ki power is selected, it cannot be changed. Some ki powers require the monk to be of a specif ic level or higher before they can be chosen. Unless otherwise noted, a monk cannot select an individual ki power more than once.
+**Ki Powers (Su)**: At 4th level and every 2 levels thereafter, a monk can select one ki power. These powers allow the monk to perform amazing feats of mystical power and acrobatic prowess by expending points from his ki pool. Once a ki power is selected, it cannot be changed. Some ki powers require the monk to be of a specific level or higher before they can be chosen. Unless otherwise noted, a monk cannot select an individual ki power more than once.
 
 **Abundant Step (Su)**: A monk with this ki power can slip magically between spaces, as if using the spell dimension door. Using this ability is a move action that consumes 2 points from his ki pool. The monk’s caster level for this effect is equal to his monk level. He cannot take other creatures with him when he uses this ability. A monk must be at least 8th level before selecting this ki power.
 
@@ -92,7 +92,7 @@ The ki pool is replenished each morning after 8 hours of rest or meditation; the
 
 **Diamond Soul (Ex)**: A monk can spend 2 points from his ki pool as a swift action to gain spell resistance equal to his monk level + 10. This spell resistance lasts for a number of rounds equal to the monk’s level. A monk must be at least 12th level before selecting this ki power.
 
-**Elemental Fury (Su)**: A monk who selects this ki power must select one type of energy: acid, cold, electricity, or f ire. Once this choice is made, it cannot be changed. The monk can expend 1 point from his ki pool as a swift action to imbue his natural attacks with this energy, causing them to deal 1d6 points of damage of the chosen type for a number of rounds equal to 1/2 his monk level. A monk must be at least 6th level before selecting this ki power.
+**Elemental Fury (Su)**: A monk who selects this ki power must select one type of energy: acid, cold, electricity, or fire. Once this choice is made, it cannot be changed. The monk can expend 1 point from his ki pool as a swift action to imbue his natural attacks with this energy, causing them to deal 1d6 points of damage of the chosen type for a number of rounds equal to 1/2 his monk level. A monk must be at least 6th level before selecting this ki power.
 
 **Elemental Burst (Su)**: A monk with this ability can spend 4 ki points to unleash a gout of energy in a 30-foot cone. Creatures within the cone take 20d6 points of damage of the same type as the monk’s elemental fury ki power. A Reflex save (DC = 10 + 1/2 the monk’s level + his Wisdom modifier) halves the damage. A monk must be at least 18th level and must possess the elemental fury ki power before selecting this ki power.
 
@@ -124,11 +124,11 @@ The ki pool is replenished each morning after 8 hours of rest or meditation; the
 
 **Ki Volley (Su)**: When a targeted spell or spell-like ability fails to overcome the monk’s spell resistance from diamond soul, he can spend 2 ki points as an immediate action to send that spell back at its caster as spell turning. A monk must be 16th level or higher and possess the diamond soul ki power before selecting this ki power.
 
-**Light Steps (Ex)**: A monk with this ki power can move effortlessly across nearly any surface. Whenever the monk activates his feather balance ki power, he can also ignore all diff icult terrain. In addition, while active, he can cross any solid surface, even if it would normally not support his weight. This does not allow him to walk on liquids. A monk must be at least 8th level and have the feather balance ki power before selecting this ki power.
+**Light Steps (Ex)**: A monk with this ki power can move effortlessly across nearly any surface. Whenever the monk activates his feather balance ki power, he can also ignore all difficult terrain. In addition, while active, he can cross any solid surface, even if it would normally not support his weight. This does not allow him to walk on liquids. A monk must be at least 8th level and have the feather balance ki power before selecting this ki power.
 
 **One Touch (Ex)**: As long as he has at least 1 point remaining in his ki pool, as a standard action, a monk with this power can make an unarmed strike against a foe as a touch attack. He adds 1/2 his monk level as a bonus on the damage roll. He can spend 1 ki point to double this bonus for that attack. A monk must be at least 12th level before selecting this ki power.
 
-**Qinggong Power (Su)**: A monk with this power selects any of the qinggong monk ki powers for which he qualif ies based on his monk level. A monk can select this ability multiple times. Each time, he must select a different qinggong monk ki power.
+**Qinggong Power (Su)**: A monk with this power selects any of the qinggong monk ki powers for which he qualifies based on his monk level. A monk can select this ability multiple times. Each time, he must select a different qinggong monk ki power.
 
 **Quivering Palm (Su)**: A monk can set up vibrations within the body of another creature that can thereafter be fatal if the monk so desires. Using this ability is a standard action that costs 4 ki points, and the monk must announce his intent to use this ability (and spend the ki points) before making the attack roll. Creatures immune to critical hits cannot be affected. Otherwise, if the attack hits and the target takes damage from the blow, the quivering palm attack succeeds. Thereafter, the monk can try to slay the victim at any time within a number of days equal to his monk level. To make such an attempt, the monk merely wills the target to die (a free action); unless the target succeeds at a Fortitude saving throw (DC = 10 + 1/2 the monk’s level + the monk’s Wisdom modifier), it dies. If the saving throw is successful, the target is no longer in danger from that particular quivering palm attack, but it can still be affected by another one at a later time. A monk can have no more than one quivering palm in effect at one time. If a monk uses quivering palm while another is still in effect, the previous one is negated. A monk must be at least 16th level before selecting this ki power.
 
@@ -150,7 +150,7 @@ The ki pool is replenished each morning after 8 hours of rest or meditation; the
 
 **Defensive Spin**: The monk spins about, confounding his foe. If the attack hits, the monk gains a +4 dodge bonus to AC against any attacks made by the target of the style strike until the start of his next turn. This bonus does not stack with itself. The monk must attack with a fist to use this style strike.
 
-**Elbow Smash**: The monk follows up a punch with a strike from his elbow. If the attack hits, the monk can make an additional attack using the same attack bonus as the punch at a –5 penalty. If this second attack hits, it deals damage as normal, but all of the damage is nonlethal. The monk must attack with a f ist to use this style strike.
+**Elbow Smash**: The monk follows up a punch with a strike from his elbow. If the attack hits, the monk can make an additional attack using the same attack bonus as the punch at a –5 penalty. If this second attack hits, it deals damage as normal, but all of the damage is nonlethal. The monk must attack with a fist to use this style strike.
 
 **Flying Kick**: The monk leaps through the air to strike a foe with a kick. Before the attack, the monk can move a distance equal to his fast movement bonus. This movement is made as part of the monk’s flurry of blows attack and does not require an additional action. At the end of this movement, the monk must make an attack against an adjacent foe.
 
@@ -160,7 +160,7 @@ This movement may be between attacks. This movement provokes an attack of opport
 
 **Hammerblow**: The monk links his hands together, swinging both arms like a club and dealing tremendous damage. If the attack hits, the monk rolls his unarmed strike damage twice, adding both rolls together before applying Strength and other modifiers to the damage.
 
-This bonus damage is not multiplied on a critical hit. The monk must attack with a f ist to use this style strike, but must have both hands free.
+This bonus damage is not multiplied on a critical hit. The monk must attack with a fist to use this style strike, but must have both hands free.
 
 **Head-Butt**: The monk slams his head into his enemy’s head, leaving his foe reeling. If the attack hits and the foe is of the same size or one size smaller than the monk, the monk can make a free combat maneuver check against the target of this strike (using the base attack bonus of the attack used to hit the foe). If the foe is not of the same creature type as the monk, the monk takes a –8 penalty on this check. If the check is successful, the target is staggered for 1 round. Creatures without a discernible head are not affected by this style strike (subject to GM discretion). The monk must attack with a head-butt to use this style strike.
 
@@ -168,7 +168,7 @@ This bonus damage is not multiplied on a critical hit. The monk must attack with
 
 **Leg Sweep**: The monk attempts to sweep his foe’s leg, knocking the opponent down. If the attack hits, the monk can make a free trip attempt against the target of this strike (using the base attack bonus of the attack used to hit the foe). This trip attempt does not provoke an attack of opportunity. The monk must attack with a kick to use this style strike.
 
-**Shattering Punch**: The monk delivers a brutal punch that can penetrate defenses. If the attack hits, it bypasses any damage reduction or hardness possessed by the target of that attack. The monk must attack with a f ist to use this style strike.
+**Shattering Punch**: The monk delivers a brutal punch that can penetrate defenses. If the attack hits, it bypasses any damage reduction or hardness possessed by the target of that attack. The monk must attack with a fist to use this style strike.
 
 **Spin Kick**: The monk spins about, delivering a kick his foe did not expect. The monk makes his attack against the foe’s flat-footed AC. Creatures with the uncanny dodge class feature or a similar effect cannot be caught flat-footed by this style strike. The monk must attack with a kick to use this style strike.
 

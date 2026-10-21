@@ -43,7 +43,6 @@ In combat, the weapon’s critical threat range is doubled abilities against und
 <thead>
 <tr class="header">
 <th><h1 id="obliviating"> <span class="smallcaps">Obliviating</span></h1>
-<p><strong>Source</strong> <a href="http://paizo.com/products/btpy9l37/discuss&amp;page=5?Pathfinder-Campaign-Setting-Inner-Sea-Intrigue"><em>Inner Sea Intrigue pg. 52</em></a></p>
 <p><strong>Aura</strong> moderate enchantment <strong>CL</strong> 10th</p>
 <p><strong>Slot</strong> none; <strong>Price</strong> +2 bonus; <strong>Weight</strong> —</p>
 <h3 id="description-125"><span class="smallcaps">Description</span></h3>

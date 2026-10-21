@@ -66,7 +66,6 @@ A warpriest can select any two blessings. Each blessing is named after the domai
 
 ## Fire Blessing
 
-**Deity**: Asmodeus, Sarenrae.
 
 **Fire Strike (minor)**: At 1st level, you can touch one weapon and enhance it with the grandeur of fire. For 1 minute, this weapon glows red-hot and deals an additional 1d4 points of fire damage with each hit. This additional damage doesn't stack with the additional damage from the7amin3 or flaming3 burst weapon special abilities.
 
@@ -178,7 +177,6 @@ A warpriest can select any two blessings. Each blessing is named after the domai
 
 ## War Blessing
 
-**Deity**: Gorum, Iomedae, Rovagug, Urgathoa.
 
 **War Mind (minor)**: At 1st level, you can touch an ally and grant it a tactical advantage for 1 minute. At the start of its turn each round, it can select one of the following bonuses: +10 feet to base land speed, +1 dodge bonus to AC, +1 insight bonus on attack rolls, or a +1 luck bonus on saving throws. Each bonus selected lasts for 1 round.
 
