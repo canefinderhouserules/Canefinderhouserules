@@ -50,9 +50,9 @@ This chapter introduces the following new rules to help enhance the sense of won
 
 **Innate Item Bonuses**: What if you like magic items to grant bonuses but are frustrated because that makes bonus-granting items the obvious choice, narrowing your options? This system eliminates items that only grant bonuses and instead adds bonuses to all items in most slots, ensuring that the items in those slots are both flavorful and highly functional.
 
-**Scaling Items**: Sometimes an inherited weapon turns out to be more powerful than it had seemed at f irst, and the hero refuses to give it up even when given the option of f lashier blades or when facing overwhelming foes. Scaling items are magic items that grow with your character and unlock new special abilities as she levels up. This section presents numerous examples of scaling items to add to your games.
+**Scaling Items**: Sometimes an inherited weapon turns out to be more powerful than it had seemed at first, and the hero refuses to give it up even when given the option of flashier blades or when facing overwhelming foes. Scaling items are magic items that grow with your character and unlock new special abilities as she levels up. This section presents numerous examples of scaling items to add to your games.
 
-**Dynamic Magic Item Creation**: In legends and stories, the process of creating a magic item requires much more than a simple roll of the dice. This system turns magic item creation into dynamic events that include the whole adventuring party and add unique f lavors and attributes to the items the characters create.
+**Dynamic Magic Item Creation**: In legends and stories, the process of creating a magic item requires much more than a simple roll of the dice. This system turns magic item creation into dynamic events that include the whole adventuring party and add unique flavors and attributes to the items the characters create.
 
 - [Simplified Spellcasting](simplified-spellcasting.md)
 - [Spell Alterations](spell-alterations.md)
@@ -61,3 +61,14 @@ This chapter introduces the following new rules to help enhance the sense of won
 - [Innate Item Bonuses](innate-item-bonuses.md)
 - [Scaling Items](scaling-items.md)
 - [Dynamic Magic Item Creation](dynamic-magic-item-creation.md)
+
+## Monsters
+
+Simple Monster Creation is a nine-step system for building a monster from broad arrays and grafts instead of long lists of calculations. It is meant to let a GM create new creatures, templates and NPCs quickly.
+
+- [Simple Monster Creation](monsters/simple-monster-creation.md)
+- [Monster Grafts](monsters/monster-grafts.md)
+- [Monster Spells](monsters/monster-spells.md)
+- [Monster Options](monsters/monster-options.md)
+- [Monster Skills and Damage](monsters/monster-skills-and-damage.md)
+- [Monster Examples](monsters/monster-examples.md)
