@@ -99,6 +99,8 @@ uses of his resolve to avoid death. If he has at least two uses of his resolve r
 
 The following orders can be chosen by both samurai and cavaliers, although the former are far more likely to do so. Samurai can also select any of the cavalier orders presented in the Pathfinder RPG Advanced Player’s Guide. ### Order of the Warrior
 
+### Order of the Warrior
+
 Most samurai swear themselves to the code of the warrior, which emphasizes duty, honor, loyalty, and obedience.
 
 This code extends not only to the samurai’s lord and master, but also to his comrades and family. Samurai who follow the order of the warrior are among the most trusted and feared warriors in the land.
