@@ -315,3 +315,63 @@ At 15th level, a warsighted can use this ability to gain the benefit of one comb
 This ability replaces the revelations gained at 1st, 7th, 11th, and 15th levels.
 
 **Recommended Mysteries**: Battle, bones, nature, metal.
+
+## Elementalist Oracle
+
+An elementalist oracle shares an affinity with the elements and elemental creatures. She can communicate with elemental creatures and can eventually become an elemental herself. She sees perfection in manifestations of elemental fury in the natural world, be they the thunderous wrath of the storm, the churning waters of the ocean’s tides or a flooding river, the terrain-shaping power of a landslide or earthquake, or the apocalyptic fury of a volcanic eruption.
+
+**Recommended Mysteries**: Flame, stone, waves, wind.
+
+**Bonus Spells**: Elemental touch (4th), protection from energy (6th), elemental body (8th), summon monster V (elementals only; 10th), elemental body III (12th), elemental swarm (18th). These bonus spells replace the oracle’s mystery bonus spells at these levels.
+
+**Revelations**: An elementalist oracle must take the following revelations at the listed levels.
+
+**Elemental Linguist (Su)**: At 1st level, you gain a bonus language of your choice from the following list: Aquan, Auran, Ignan, or Terran. At 5th, 10th, and 15th levels, you gain another language chosen from this list.
+
+**Elemental Form (Su)**: At 11th level, you gain the air, earth, fire, or water subtype and an associated ability: • Air: Fly speed of 30 feet with perfect maneuverability. • Earth: Tremorsense with a range of 30 feet. • Fire: Immunity to fire and vulnerability to cold. • Water: Swim speed of 30 feet and the ability to breathe underwater.
+
+**Elemental Revelation (Su)**: At 20th level, you fully harness the power of the elements. You can apply the Elemental Spell metamagic feat to spells you cast without increasing the level or casting time. You can choose acid, cold, electricity, or fire each time you use this ability. Whenever you score a critical hit with an attack that deals energy damage, you ignore the target’s energy resistance (if any). If you score such a critical hit against a creature that has immunity to the energy type you are attacking with, the creature takes half damage from the attack. This replaces final revelation.
+
+## River Soul
+
+River soul oracles derive their powers from their bonds with rivers, whether these waterways are rapid cascades or lazy channels plied by boats. The powerful bond formed with a river is also the river soul oracle’s curse, as he must always carry water from the river with him, and his fate is bound to it. River soul oracles can be gentle and still when calm, but they’re raging torrents when angered.
+
+**Class Skills**: A river soul oracle adds Escape Artist, Knowledge (nature), Survival, and Swim to his list of class skills. This replaces the class skills granted by the oracle’s mystery and alters the oracle’s class skills.
+
+**Recommended Mysteries**: Life, nature, stone, waves.
+
+**Bonus Spells**: Hydraulic push (2nd), hydraulic torrent (6th), control water (8th), cone of cold (10th), world wave (18th). These bonus spells replace the oracle’s mystery bonus spells at these levels.
+
+**River Bound Curse (Su)**: You bind your power to one particular river, which is the source of your spells and class abilities. You must carry a small vessel containing water from the river you are bound to at all times. If the vessel is destroyed or travels more than 10 feet away from you, you are unable to cast oracle spells or use your supernatural or spell-like class abilities until you recover the vessel or fill a new one with water from the river to which you are bound. Once per month, you can bond with a different river in a ceremony at that river that takes 12 hours to complete. You lose your bond with the previous river in the process. This replaces oracle’s curse.
+
+**Revelations**: A river soul oracle must take the following revelations at the listed levels.
+
+**River Flow (Su)**: At 1st level, as a free action while you are underwater, you can negate the penalties you take for making bludgeoning, piercing, and slashing melee attacks underwater. You can use this ability a number of rounds per day equal to 1 + your Charisma modifier (minimum 1). The rounds do not have to be used consecutively.
+
+**River Form (Su)**: At 11th level, you can become one with a river. Once a day as a standard action, while immersed in a river, you can completely merge with it. Your body and all your gear meld into the water, as per meld into stone, except abilities that control or shape water expel you and deal you 5d6 damage rather than abilities that control or shape stone. You travel along with the river at the rate it is currently moving. You can remain in this form a number of hours equal to 3 + your Charisma modifier (minimum 1). Transforming back to your normal form is a swift action.
+
+**River Soul Revelation (Su)**: At 20th level, you strengthen your ties to the river with which you bonded. While traveling on or immersed in the river, you gain fast healing 10 and immunity to bleed, death attacks, exhaustion, fatigue, nausea effects, negative levels, and sickened effects. Additionally, if you are slain and your body or some part of your body (including your ashes, if applicable) is floated down the river in a specially prepared vessel costing 5,000 gp, you return to life as per resurrection once you reach the mouth of the river, as long as the trip has taken 24 hours or longer. This replaces final revelation.
+
+## Tree Soul
+
+Tree souls develop an affinity not just with trees but also with objects carved from them, feeling the essence of the tree’s spirit living within. By bonding to trees, they learn to manipulate the trees’ power to produce divine energy. The type of tree a tree soul oracle bonds to often seems to influence the oracle’s personality. A tree soul who is bound to a towering redwood may value traditions and be slow to anger, while a tree soul bound to a smaller pine tree might be quick to react and have a somewhat prickly personality. Regardless of the trees they form their metaphysical attachment to, tree soul oracles tend to be steadfast and stubborn, having an aura of timelessness even as the world changes around them.
+
+**Class Skills**: A tree soul adds Acrobatics, Climb, Knowledge (nature), and Survival to her list of class skills. This replaces the class skills granted by the oracle’s mystery and class skills.
+
+**Weapon and Armor Proficiency**: Tree souls are proficient with light and medium armor but are prohibited from wearing metal armor. A tree soul can also wear wooden armor that has been altered by the ironwood spell so that it functions as though it were steel. Tree souls are proficient with shields (except tower shields) but can use only those crafted from wood.
+
+A tree soul who wears prohibited armor or uses a prohibited shield is unable to cast oracle spells or use any of her supernatural or spell-like class abilities while doing so and for 24 hours thereafter.
+
+**Recommended Mysteries**: Ancestor, lore, nature, wood.
+
+**Bonus Spells**: Warp wood (2nd), tree stride (10th), ironwood (12th), changestaff (14th), repel metal or stone (16th), greater siege of trees (18th). These bonus spells replace the oracle’s mystery bonus spells at these levels.
+
+**Tree Bound Curse (Su)**: You bind your power to a specific tree. Any damage to the tree deals the same amount of damage to you, overcoming DR, energy resistance, and immunities. Damage you take in this way cannot be healed by normal or magical means until your bonded tree is healed or destroyed. The damage can reduce you to 0 hit points but not below. If the tree is destroyed, you are considered to be staggered and are unable to cast oracle spells or use supernatural or spell-like class abilities until you bond with a new tree in a ceremony that takes 12 hours to complete. Once per month, you can create a new bond with a different tree in a ceremony at that tree that takes 12 hours to complete. You lose your bond with your previous tree in the process. This replaces oracle’s curse.
+
+**Revelations**: A tree soul oracle must take the following revelations at the listed levels.
+
+**Transform Wood (Su)**: At 1st level, as a standard action you can temporarily transform a number of 5-foot cubes of wood each day equal to 1 + your Charisma modifier. The wood takes on the quality of darkwood for 1 minute per oracle level. At 11th level, you can have it instead take on the quality of living steel for the same duration.
+
+**Living Steel Dolls (Ex)**: At 11th level, you add animate objects to your list of spells known. When you cast this spell on wooden objects, the objects’ wooden parts immediately transform into living steel. If the objects are destroyed or the duration ends, the wooden parts revert back to their original material.
+
+**Tree Soul Revelation (Su)**: At 20th level, your skin takes on the appearance and properties of a tree trunk. This bark-like skin grants you a +4 natural armor bonus to your Armor Class and DR 10/slashing. You also regrow any severed limbs except your head within 24 hours as per regenerate. Finally, once a day as a standard action, you can assume the form of a treant, as per plant shape III, for a number of minutes equal to 3 + your Charisma modifier (minimum 1). This replaces final revelation.

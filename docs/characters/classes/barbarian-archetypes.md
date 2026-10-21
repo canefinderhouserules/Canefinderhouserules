@@ -439,3 +439,89 @@ Rages are barely controlled, but there are those who wholly give in to their mor
 **Rage Conversion (Ex)**: At 5th level, a wild rager who fails a saving throw against any mind-affecting effect can attempt a new saving throw at the beginning of her next turn. If the save succeeds, that effect ends and she instead rages and becomes confused as noted above. This ability replaces improved uncanny dodge.
 
 **Rage Powers**: The following rage powers complement the wild rager archetype: animal fury, bloody blow, body bludgeon, brawler, crippling blow, greater brawler, intimidating glare, mighty swing, no escape, powerful blow, and quick reflexes.
+
+## Brutish Swamper
+
+The hardy and insular denizens of the swamp produce warriors of narrow focus and great strength. The prejudice and misunderstanding with which civilized folk often regard barbarians is often even more pronounced in the case of these belligerent outcasts from society, in large part due to the fact that brutish swampers deliberately mock and antagonize the so-called “city folk.” To a brutish swamper, an urban lifestyle is one that breeds weakness and lassitude in the body. The brutish swamper has little interest or patience in maintaining alliances or friendship with those who live such soft lifestyles, and this aggression only further encourages feelings of prejudice on both sides of the cultural divide. When a brutish swamper joins an adventuring party, they usually come to value the skills and talents of their more urbanized companions, but never fully understand the desire to live lives surrounded by creature comforts.
+
+**Swamp Skills**: A brutish swamper adds Knowledge (geography) and Knowledge (local) to her list of class skills. This alters the barbarian’s skills.
+
+**Marsh March (Ex)**: A brutish swamper can move through the underbrush and muddy terrain of bogs and swamps at her normal speed without taking damage or suffering other impairments. Briars, mud, thorns, and overgrown areas that have been magically manipulated to impede motion, however, still affect her. This replaces fast movement.
+
+**Home (Ex)**: At 2nd level, a brutish swamper gains a +2 bonus on initiative checks and Knowledge (geography), Perception, Stealth, and Survival checks when in swamps. This bonus increases by +1 at 5th level and again every 3 levels after 5th (up to a maximum bonus of +8 at 20th level). This replaces uncanny dodge and improved uncanny dodge.
+
+**Stubborn (Ex)**: At 3rd level, a brutish swamper resists any attempts to change her attitude or compel her to action. Diplomacy and Intimidate checks against her take a –2 penalty, and no result can shift her attitude more than one step in a 24-hour period. These penalties increase by 2 for every 3 levels the brutish swamper has beyond 3rd. This replaces trap sense.
+
+**Wrastlin’ (Ex)**: At 6th level, while raging, a brutish swamper gains a +2 bonus to her CMD against grapple combat maneuvers and a +2 bonus on damage rolls made as part of successful grapple combat maneuver checks. This replaces the rage power normally gained at 6th level.
+
+**Rage Powers**: The following rage powers complement the brutish swamper archetype: brawler, greater brawler, greater tyrant totem†, lesser tyrant totem†, lizard stride†, low-light vision, superstition, and tyrant totem†.
+
+## Cave Dweller
+
+Unused to the light of the sun, cave dwellers use their subterranean expertise to protect their clans from the manifold dangers of deep caverns and tunnels. The typical cave dweller is perfectly content to live his entire life underground, and he may even view the light of the sun as particularly abhorrent or taboo. While this lifestyle doesn’t in and of itself imply evil or sinister intent, many outlanders ignorantly assume that cave dwellers avoid the light of the sun for malicious reasons. In truth, cave dwellers are as capable of goodness and kindness as any other— they just see little reason to venture out of their preferred homelands. When a cave dweller joins an adventuring party, she may retain an inherent nervousness about sleeping under the open sky and may long for the familiar confines of a comforting cavern, but this rarely translates directly into a notable disadvantage. Indeed, many adventuring groups come to value the specialized talents and skills the cave dweller brings to the party.
+
+**Skills**: A cave dweller gains Stealth as a class skill in place of Ride. This alters the barbarian’s skills.
+
+**Tight Tunnels (Ex)**: Cave dwellers pursue prey through the winding tunnels of the deep, which rarely accommodate open sprints. A cave dweller can make a single turn up to 90 degrees while running (though not while charging). Additionally, a cave dweller takes no penalties to movement speed while squeezing. This replaces fast movement.
+
+**Tunnel Vision (Ex)**: At 3rd level, a cave dweller’s senses become sharp in the dark. She gains darkvision to a range of 60 feet and a +1 bonus on Perception checks to detect ambushes, movement, and sound while in darkness. This bonus increases by 1 at 6th level and every 3 levels thereafter. This replaces trap sense.
+
+**Sun Walker (Ex)**: At 7th level, a cave dweller gains a +1 dodge bonus to AC and on saving throws against effects with the light descriptor or that produce bright or sudden light. Any penalties on attack rolls, saving throws, or skill checks because of bright light are reduced by 1. At 10th level and every 3 levels after 10th, the bonus to AC and saving throws, as well as the reduction of light-based penalties, increases by 1. This replaces damage reduction.
+
+**Rage Powers**: The following rage powers complement the cave dweller archetype: animal fury, bestial climber, eclipsing rage†, greater eclipsing rage†, greater ground breaker, ground breaker, night vision, raging climber, primal scent, and sprint.
+
+## Pack Hunter
+
+Pack hunter barbarians team up to hunt dangerous prey to feed, to protect their camps, and as a rite of passage. Often, a tribe of pack hunters looks to a specific species of animal (such as wolves) who themselves hunt in packs, and view these animals as sacred manifestations of their people’s traditions and values.
+
+**Bonus Feats**: Whenever a pack hunter would gain a new rage power, she can instead select a teamwork feat. She must still meet the prerequisites for the teamwork feat. This alters rage power.
+
+**In and Out (Ex)**: At 3rd level, a pack hunter gains a +1 dodge bonus to AC against attacks of opportunity. This bonus increases by 1 for every 3 barbarian levels after 3rd (to a maximum bonus of +6 at 18th level). This replaces trap sense.
+
+**Sympathetic Rage (Ex)**: At 6th level, if an ally within 30 feet is bloodraging or raging, a pack hunter counts as raging even if knocked unconscious. She has to have been raging when incapacitated to maintain her rage, and she ceases raging normally if she depletes her maximum number of rounds of rage in a day. This replaces the rage power normally gained at 6th level.
+
+**Rage Powers**: The following rage powers complement the pack hunter archetype: contagious rage†, increased damage reduction, no escape, pack rage†, quick reflexes, and unexpected strike.
+
+## Raging Cannibal
+
+While savagery is not inherently evil, some barbaric cultures thrive on depravity and welcome the act of feeding on their own kind. The raging cannibal is a barbarian who feasts upon her fallen opponents not out of hunger, or even a taste for flesh, but rather because she believes consuming her foes and defiling their lost lives demonstrates her strength. This penchant for feasting on the flesh of her kin makes the raging cannibal an awkward companion to travel with for many groups, with rumors revolving around the raging cannibal’s culinary exploits often causing tense situations that other party members might be called upon to resolve via diplomacy before the raging cannibal grows frustrated and decides to take matters into her own hands!
+
+**Animal Fury**: At 2nd level, a raging cannibal must select animal fury as her first rage power. This alters the barbarian’s 2nd-level rage power.
+
+**Consume Vigor (Ex)**: At 2nd level, when a raging cannibal reduces a creature of the same creature type as herself to 0 or fewer hit points with her bite attack during combat while raging, she can consume a chunk of its body to gain a portion of its power. If the creature’s CR equals or exceeds her barbarian level, the raging cannibal gains 1 additional round of rage. She can never consume the same creature’s vigor more than once. At 5th level and every 3 levels thereafter, the raging cannibal gains 1 additional round of rage each time she uses this ability. This replaces uncanny dodge.
+
+**Intimidating Gouge (Ex)**: At 3rd level, when a raging cannibal confirms a critical hit against a creature of the same creature type as herself with her bite attack while raging, she gains a bonus on Intimidate checks equal to half her barbarian level for the duration of the rage. This replaces trap sense.
+
+**Feed from Fury (Ex)**: At 5th level, a raging cannibal is empowered by eating her enemies during combat. When a raging cannibal confirms a critical hit against a creature of the same creature type as herself with her bite attack while raging, she gains a number of temporary hit points equal to her barbarian level. These temporary hit points stack with other temporary hit points gained from this ability but not with those from other sources. These temporary hit points fade after a period of time equal to 10 minutes per barbarian level. This replaces improved uncanny dodge.
+
+**Razor-Toothed Fury (Ex)**: At 6th level, a raging cannibal’s bite becomes even more fearsome. When using her bite attack, the raging cannibal can take a –1 penalty on her attack roll to add 2 points of bleed damage to the damage dealt. At 10th level and every 4 levels thereafter, the attack penalty increases by 1 and the bleed damage increases by 2 points. This replaces damage reduction.
+
+**Rage Powers**: The following rage powers complement the raging cannibal archetype: internal fortitude, intimidating glare, primal scent, scent, and terrifying howl.
+
+## Sharptooth
+
+Coastal hunters and agents of the ocean’s rage, sharptooth barbarians emulate the greatest predators of the sea. Sharks, in particular, are respected and admired by many such tribes, if not as manifestations of divine power, then merely as scions of the power and fury of the natural world.
+
+**Swim Like a Fish (Ex)**: A sharptooth gains a swim speed of 10 feet. At 5th level and every 5 levels thereafter, her swim speed increases by 5 feet. This replaces fast movement.
+
+**Scent of Blood (Ex)**: At 2nd level, a sharptooth gains scent as per the universal monster rule. At 5th level, she also gains keen scent as per universal monster rule. This replaces both uncanny dodge and improved uncanny dodge.
+
+**Ocean Breath (Ex)**: At 3rd level, a sharptooth counts her Constitution score as 1 higher for the purposes of holding her breath. She also gains a +1 bonus on Constitution checks to continue holding her breath. This bonus and the addition to her effective Constitution score both increase by 1 at 6th level and every 3 levels thereafter, to a maximum bonus of +6 at 18th level. This replaces trap sense.
+
+**Blood in the Water (Ex)**: At 6th level, a sharptooth can tear the flesh from living creatures. Her attacks add 3 points of bleed damage while she is raging. At 12th level, this bleed damage increases to equal her Constitution modifier if it’s higher. This replaces the rage powers normally gained at 6th and 12th levels.
+
+**Rage Powers**: The following rage powers complement the sharptooth archetype: animal fury, bleeding blow, contagious rage†, pack rage†, powerful blow, primal scent, raging swimmer, and scent.
+
+## Wildborn
+
+Some barbarians are born or bred outside the reach of civilization. These wildborn fight and survive without ever seeing a forge or worked stone, and only dare a trip into the city when no other option is available.
+
+**Weapon and Armor Proficiencies**: A wildborn is proficient with leather and hide armors (but not shields) and all simple weapons that can be crafted from bone, stone, or wood. In addition, a wildborn gains Improved Unarmed Strike and Catch Off Guard as bonus feats at 1st level. If she uses any other kind of weapon or armor, she loses her abilities from this archetype (except illiteracy) for the next 24 hours. This alters the barbarian’s normal weapon and armor proficiencies.
+
+**Illiteracy**: A wildborn cannot read or write. She can learn to read or write a language only if she takes a level in another class, and even then only by taking 1 or more ranks in Linguistics. Live Off the Land (Ex): At 3rd level, a wildborn can survive capably in the wilderness without any sort of manufactured equipment or gear. She adds half her barbarian level as a bonus on Survival checks to hunt or gather food and gains a +1 bonus on Fortitude saves to resist the effects of extreme temperatures or other environmental effects; the Fortitude save bonus increases by 1 at 6th level and every 3 levels thereafter. This replaces trap sense.
+
+**Bonus Feats**: At 4th level, 10th level and 16th level, a wildborn can choose a bonus feat from the following rather than select a rage power: Alertness, Animal Affinity, Athletic, Great Fortitude, Improvised Weapon Mastery, Iron Will, Lightning Reflexes, Self-Sufficient, Stealthy, or Throw Anything. This alters rage powers.
+
+**Inexhaustible (Ex)**: Wildborn live ruggedly and sleep lightly. At 7th level, a wildborn recovers nonlethal damage for each minute of rest as if an hour had passed. She applies twice her damage reduction gained from barbarian levels against nonlethal damage. This alters damage reduction.
+
+**Rage Powers**: The following rage powers complement the wildborn archetype: animal fury, beast totem, bestial climber, bestial swimmer, greater beast totem, lesser beast totem, low-light vision, raging climber, raging leaper, raging swimmer, and swift foot.

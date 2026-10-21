@@ -119,3 +119,37 @@ While some swashbucklers take pride in their ability to wear down an opponent wi
 **Lightning Reload (Ex)**: At 11th level, once per round the picaroon can spend 1 panache point to reload a single barrel of a one-handed firearm as a swift action. If she has the Rapid Reload feat or is using an alchemical cartridge, she can instead reload a single barrel of the weapon as a free action each round. Using this deed doesn't provoke attacks of opportunity. This deed replaces bleeding wound.
 
 **Two-Weapon Finesse (Ex)**: At 2nd level, a picaroon gains the benefits of the Weapon Finesse feat with light or onehanded piercing melee weapons. She also gains the effects of the Two-Weapon Fighting feat as long as she is wielding a light or one-handed piercing melee weapon in one hand and one-handed firearm in the other hand. This ability counts as having both the Weapon Finesse and Two-Weapon Fighting feats for the purposes of meeting feat requirements. This ability replaces swashbuckler finesse.
+
+## Arrow Champion
+
+While the swashbuckler’s agile style of combat is equally suited to urban settings and wilderness, the bow and arrow is an indispensable asset in open areas and harsh terrain where fancy footwork isn’t enough to close the distance or dodge the enemy’s arrows.
+
+**Arrow Champion’s Panache (Ex)**: An arrow champion regains panache when she makes a killing blow with a light or one-handed piercing melee weapon or a bow (a longbow, shortbow, composite longbow, or composite shortbow). This alters panache.
+
+**Deeds**: An arrow champion gains the following deeds, each of which replaces an existing deed.
+
+**Retaliation (Ex)**: When a foe hits the arrow champion with an attack, she can spend 1 panache point to make a retaliatory attack of opportunity against that foe. If the triggering attack is a melee attack, she can retaliate with a melee attack using a light or one-handed piercing melee weapon, provided the creature is within her reach. If the triggering attack is a ranged attack, she can retaliate with a ranged attack using a bow, provided that the creature is within 30 feet of her. This deed’s cost cannot be reduced by any ability or effect that reduces the number of panache points a deed costs. This deed replaces opportune parry and riposte.
+
+**Precise Aim (Ex)**: At 3rd level, when attacking with a light or one-handed piercing melee weapon, an arrow champion can add her swashbuckler level to the damage she deals, as the swashbuckler’s precise strike deed. She can also add one-quarter of her swashbuckler level to the damage dealt when attacking with a bow, but the target must be within 30 feet of her. As a swift action, an arrow champion can spend 1 panache point to increase the range of the effect to her bow’s first range increment. Unlike a normal swashbuckler, an arrow champion cannot spend panache to double the extra damage. This deed alters precise strike.
+
+**Swift Switch (Ex)**: At 3rd level, while the arrow champion has at least 1 panache point, she can sheathe or draw an unhidden light or one-handed piercing melee weapon or a bow as a swift action without provoking attacks of opportunity. If the arrow champion spends 1 panache point, she can perform either action as an immediate action. In addition, if she has the Quick Draw feat and one of her hands is free, she can sheathe a weapon and draw an unhidden weapon as part of the same swift action, provided that one of the weapons is a bow and the other is a light or one-handed piercing melee weapon. If she spends 1 panache point, she can perform the switch as an immediate action. This deed replaces swashbuckler’s initiative.
+
+**Archer’s Feint (Ex)**: At 7th level, when the arrow champion hits a foe within 30 feet with a bow attack, she can forgo the damage and instead attempt a Bluff check to feint against that foe as a swift action. If successful, in addition to the normal benefits of feinting, she doubles the extra damage from precise aim on her next melee attack before the end of her next turn. This deed replaces superior feint.
+
+**Weapon Versatility (Ex)**: At 5th level, an arrow champion learns to use precision-based tricks just as accurately with her bow as with her melee weapons. Provided that her swashbuckler level is high enough, she can use the bleeding wound, deadly stab, menacing swordplay, perfect thrust, stunning stab, and targeted strike deeds when attacking with a bow, so long as her target is within 30 feet. If she spends a panache point to increase the range of her precise aim ability, the increased range applies to this ability as well. This replaces swashbuckler weapon training.
+
+**Versatile Weapon Mastery (Ex)**: At 20th level, an arrow champion gains the benefits of swashbuckler weapon mastery when using a light or one-handed piercing melee weapon or a bow. This alters swashbuckler weapon mastery.
+
+## Wildstrider
+
+Most swashbucklers call cities their home, but some prefer deserts, marshlands, mountains, or woods, where the rough terrain grants them an advantage, and have little interest in the comforts of an urban lifestyle.
+
+**Class Skills**: A wildstrider gains Knowledge (nature), Stealth, and Survival as class skills, but does not gain Knowledge (nobility), Sense Motive, and Sleight of Hand as class skills. This alters the swashbuckler’s class skills.
+
+**Deeds**: A wildstrider gains the following deeds, each of which replaces an existing deed.
+
+**Subterfuge (Ex)**: A wildstrider adds Stealth to the list of skills to which the derring-do deed applies. At 15th level, she adds Stealth to the list of skills on which she can take 10 using the swashbuckler’s edge deed. This deed replaces dodging panache and alters derring-do and swashbuckler’s edge.
+
+**Adroit Step (Ex)**: At 3rd level, a wildstrider can use a swift action to treat a 5-foot square of difficult terrain as if it were normal terrain. If she also spends a panache point, she can treat all difficult terrain as though it were normal terrain until the end of her turn. This deed replaces kip-up.
+
+**Keen Gaze (Ex)**: At 11th level, while a wildstrider has at least 1 panache point, she can ignore the miss chance from concealment (but not total concealment) caused by normal and magical fog, smoke, and undergrowth, but not other sources of concealment or a miss chance, such as blur. This deed replaces subtle blade.

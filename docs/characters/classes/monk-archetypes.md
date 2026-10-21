@@ -471,3 +471,61 @@ The style of the tetori is that of the majestic wrestler—a warrior with a dizz
 **Form Lock (Su)**: At 13th level, a tetori can negate a polymorph effect by touch with a Wisdom check, adding a bonus equal to his monk level, against a DC of 11 + the caster level of the effect (or HD of the creature, for supernatural polymorph effects). This is a standard action requiring 2 points from the tetori’s ki pool, or an immediate action if a creature the tetori is grappling attempts to use a polymorph effect. This ability replaces diamond soul.
 
 **Iron Body (Su)**: At 19th level, as a move action, a tetori can make his tissues ultra-dense for 1 minute as the iron body spell by spending 3 points from his ki pool. This ability replaces empty body.
+
+## Menhir Guardian
+
+Menhir guardians are ascetic protectors of sacred druidic sites, less concerned with structure and maintaining internal order than they are with preserving the natural balance of the world.
+
+**Alignment**: A menhir guardian can be lawful neutral, neutral good, neutral evil, or neutral. While they can work with chaotic allies, they cannot themselves be chaotic. This alters the monk’s alignment requirement.
+
+**Weapon and Armor Proficiency**: A menhir guardian is proficient with the club, dagger, dart, quarterstaff, sickle, shortspear, sling, and spear. A menhir guardian can use these weapons in conjunction with his wild flurry ability. This replaces the monk’s weapon and armor proficiency.
+
+**Claws (Ex)**: A menhir guardian learns to draw upon natural forces to subtly change his body. He gains the shifter’s shifter claws class feature and treats his monk level as his shifter level for the purposes of this ability. The menhir guardian cannot use the ki strike aspect of ki pool. This replaces unarmed strike and alters ki pool.
+
+**Wild Flurry (Ex)**: A menhir guardian gains flurry of blows. He can use this ability with the natural attacks provided by his shifter claws ability or the weapons specified above under weapon and armor proficiency. This alters furry of blows.
+
+**Rebuking Strike (Ex)**: At 1st level, a menhir guardian can channel his ki into a devastating strike that repels his enemies. A menhir guardian must declare that he is using rebuking strike before making a natural attack with his claws. On a hit, a foe damaged by the menhir guardian’s claws must succeed at a Fortitude saving throw (DC = 10 + half the menhir guardian’s level + his Wisdom modifier) or be pushed back 5 feet directly away from the menhir guardian, plus an additional 5 feet for every 4 levels the menhir guardian has beyond 1st. If this movement would be blocked by a solid object, the target of rebuking strike takes 1d6 points of damage per 10 feet moved and falls prone at the end of the movement.
+
+At 5th level, a creature that fails its save against a menhir guardian’s rebuking strike also has its speed reduced by half for a number of rounds equal to the menhir guardian’s level.
+
+At 15th level, a creature that fails its save is also affected by aversion, making it avoid the menhir guardian’s current location for 1 round per level the menhir guardian has.
+
+The menhir guardian can attempt a rebuking strike a number of times per day equal to his monk level but only once per round. This replaces stunning fist, high jump, and quivering palm.
+
+## Wasteland Meditant
+
+Some monks journey to remote and isolated corners of the world to find serenity and a heightened sense of awareness.
+
+**Dehydrating Strike (Su)**: As a free action as part of a melee attack, a wasteland meditant can draw the moisture out of a living creature damaged by his unarmed strike. Unless the creature succeeds at a Will save (DC = 10 + half the monk’s level + his Wisdom modifier), the creature is fatigued for a number of rounds equal to half the wasteland meditant’s level (minimum 1). At 5th level, the creature struck is also staggered for 1 round if it fails its save. At 10th level, a creature that fails its save is exhausted instead of fatigued.
+
+When used against a plant creature or a creature with the water subtype, dehydrating strike inflicts the above conditions (as applicable) on a failed save and also deals 1d6 points of damage, plus 1d6 additional points of damage at 4th level and every 4 levels thereafter. This damage is in addition to the wasteland meditant’s normal unarmed strike damage. A wasteland meditant can use this ability a number of times per day equal to 3 + his Wisdom modifier but only once per round.
+
+Creatures immune to critical hits or precision damage are immune to this ability. This replaces stunning fist.
+
+**Vigor (Ex)**: At 2nd level, when a wasteland meditant succeeds at a Fortitude save against an effect with a partial effect on a successful save, he instead suffers no effect. This replaces evasion.
+
+**Desert Strider (Ex)**: At 4th level, a wasteland meditant ignores movement penalties for difficult terrain when in desert terrain. Additionally, he kicks up dust around his body whenever he performs a double move action in desert terrain. This dust grants the wasteland meditant concealment. The miss chance granted by this concealment starts at 10% at 4th level and increases by 10% at 6th level and every 2 levels thereafter, to a maximum of 80% at 18th level. This concealment lasts until the start of the meditant’s next turn and stacks with any concealment provided by movement, such as from the Wind Stance feat. This replaces slow fall.
+
+**Improved Vigor (Ex)**: At 9th level, a wasteland meditant’s vigor ability improves. He still takes no damage on a successful Fortitude saving throw against attacks, but henceforth he takes only half damage on a failed save. This replaces improved evasion.
+
+**Pillar of Salt (Su)**: At 15th level, a wasteland meditant can transform a creature’s body into a column of crumbling salt with a touch. He can use pillar of salt once per day as part of an unarmed strike, and he must announce his intent before making his attack roll. Creatures immune to critical hits or transmutation effects cannot be affected. A creature successfully damaged by the wasteland meditant’s unarmed strike must succeed at a Fortitude saving throw (DC = 10 + half the monk’s level + his Wisdom modifier) or begin to calcify. Each round thereafter, the target of pillar of salt takes 2 points of Strength and Dexterity drain and gains a +1 bonus to its natural armor as a crust of salt begins to cover its body and restrict movement. These effects take place every round at the start of the wasteland meditant’s turn and continue for 1 round per level the wasteland meditant has. If the target is reduced to 0 Strength or Dexterity at any time during this duration, the creature is instantly killed and its body is transformed into a pillar of salt. A creature killed in this way can’t be brought back to life except by miracle, true resurrection, or wish. Total immersion in water suppresses the ongoing effects of pillar of salt but resets the accumulated natural armor bonus to zero. As long as the target lives, the ongoing effect of pillar of salt can be ended via a heal spell. This replaces quivering palm.
+
+## Water Dancer
+
+Water dancers derive their martial training from ancient nereid traditions jealously guarded by these enigmatic fey.
+
+Elemental Focus (Su and Sp): A water dancer gains the elemental focus ability of the kineticist class, but must choose water as his element. He gains the basic hydrokinesis wild talent as normal, and gains the kinetic blast feature of the kineticist class for the water element, using his monk level as his effective kineticist level. He can’t use his kinetic blast when armored or encumbered. This replaces flurry of blows, stunning fist, and quivering palm.
+
+**Nereid’s Grace (Su)**: When unarmored and unencumbered, a water dancer adds 1 point of Charisma bonus per monk level to his Armor Class as a dodge bonus. If he is caught flat-footed or otherwise denied his Dexterity bonus, he also loses this bonus. He uses his Charisma score instead of his Wisdom score to determine the size of his ki pool and the DC and effects of monk class features. This replaces the bonus feat the monk normally gains at 1st level.
+
+**Unarmed Strike**: A water dancer gains the unarmed strike monk class feature but treats his unarmed strike damage as that of a monk 4 levels lower (minimum 1st level). This alters unarmed strike.
+
+**Burn (Ex)**: At 2nd level, a water dancer gains the burn class feature of the kineticist class. This replaces evasion.
+
+**Wild Talents**: At 2nd level and every 4 levels thereafter, a water dancer selects a new utility wild talent from the list of options available to the kineticist class, treating his monk level – 2 (minimum 1) as his kineticist level for the purpose of fulfilling prerequisites as well as for level-dependent effects of the utility talent. He can select only universal wild talents or those that match his element (see elemental focus above). At 6th, 10th, and 16th levels, he can replace one of his utility wild talents with another wild talent of the same level or lower. He can’t replace a wild talent that he used to qualify for another of his wild talents. This replaces the bonus feats at 2nd, 6th, 10th, 14th, and 18th levels.
+
+**Water Dance (Su)**: At 4th level, a water dancer can move across any liquid surface as though it were solid ground up to a maximum distance of 20 feet before falling through the liquid’s surface as normal. This distance increases by 10 feet at 6th level and every 2 levels thereafter, to a maximum of 90 feet at 18th level. Additionally, at 10th level the water dancer can even move vertically up water surfaces (such as a flowing waterfall) as though under the effects of spider climb. If he runs out of movement before reaching a solid surface when climbing a vertical water source, he immediately falls. This replaces slow fall.
+
+**Metakinesis (Su)**: At 9th level, a water dancer gains the ability to alter his kinetic blasts as the kineticist’s metakinesis (empower) class feature. This replaces improved evasion.
+
+**Water Stride (Sp)**: At 12th level, a water dancer can leap from one source of water to another as per dimension door as a move action by expending 1 point of ki from his ki pool. He must begin and end his movement in a space of water equal to his size. He cannot take other creatures with him when he uses this ability. This replaces abundant step.

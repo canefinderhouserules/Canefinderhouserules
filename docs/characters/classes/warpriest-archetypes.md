@@ -105,3 +105,13 @@ These bonuses to AC apply even against touch attacks or when the sacred fist is 
 **Miraculous Fortitude (Su)**: At 9th level, the sacred fist's blessed fortitude ability improves. He still takes no damage or negative effect when he succeeds at a Fortitude save, but now when he fails a Fortitude saving throw against a spell or effect that deals damage (including ability damage and drain), he takes only half the amount of damage. A helpless sacred fist does not gain the benefit of miraculous fortitude. This ability replaces the bonus feat gained at 9th level.
 
 )
+
+## Feral Champion
+
+When a warpriest devotes himself to a god of the natural world, he is sometimes blessed with supernatural powers that allow him to evoke animalistic power and fury.
+
+**Feral Blessing**: A feral champion must take the Animal blessing and does not gain a second blessing. This alters blessings.
+
+**Sacred Claws (Su)**: Rather than empowering a physical weapon, a feral champion grows claws as primary natural weapons on each hand. These claws deal damage as a warpriest’s sacred weapon and can be enhanced as such. This alters sacred weapon.
+
+**Wild Shape (Su)**: At 7th level, a feral champion gains wild shape, as the druid ability of the same name, and treats his warpriest level – 3 as his effective druid level for the purposes of this ability. However, a feral champion does not gain the ability to take on elemental or plant forms with wild shape. A feral champion can use wild shape once per day at 7th level and one additional time per day every 4 levels thereafter, for a total of four times per day at 19th level. This replaces sacred armor.

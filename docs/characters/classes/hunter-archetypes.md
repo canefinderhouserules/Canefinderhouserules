@@ -109,3 +109,139 @@ A verminous hunter calls on the ceaseless, single-minded dedication of vermin to
 **Worm**: The creature gains fast healing 1 and a 25% chance to treat any critical hit or sneak attack as a normal hit (as the fortification armor special ability). This increases to fast healing 2 and 50% at 8th level, and fast healing 3 and 75% at 15th level. This ability replaces animal focus.
 
 **Swarm Stride (Ex)**: At 5th level, a verminous hunter learns to move through vermin without danger. He can safely pass through swarms of vermin and does not take swarm damage while within a vermin swarm's space. In addition, he is immune to a swarm's distraction ability. If the hunter or his animal companion attacks a swarm, they lose this protection against only that swarm. This ability replaces woodland stride.
+
+## Chameleon Adept
+
+Some hunters are masters of blending into every situation, even making their companions appear humanoid for brief periods of time.
+
+**Skills**: A chameleon adept adds Diplomacy to her list of class skills. This alters the hunter’s class skills.
+
+**Shifting Companion (Su)**: At 3rd level as a standard action, a chameleon adept can cause her companion to assume a humanoid form of the same race as herself. This functions as alter self, except it is used on an adjacent animal companion to have it assume a humanoid form. The companion always assumes the same form, selected when the hunter reaches 3rd level. The hunter can change this form when she gains a new level, but the companion loses the old form and can’t resume it unless the chameleon adept chooses that form when she reaches a new level. The companion is no more intelligent or less savage than normal; the hunter still needs to control it as normal, and it still can’t activate magic items or wield manufactured weapons. The hunter can use this ability for 10 minutes per day per hunter level. This duration does not need to be consecutive, but it must be spent in 10-minute increments. This replaces teamwork feats and hunter’s tactics.
+
+**Terrain Chameleon (Su)**: Choose one type of terrain from the ranger’s list of favored terrains. When in the specified type of terrain, a chameleon adept gains a bonus equal to half her hunter level on Stealth checks. This replaces wild empathy.
+
+**Savage Diplomacy (Ex)**: At 2nd level, while in humanoid form, a chameleon adept’s animal companion grants its master a +2 circumstance bonus on Diplomacy and Intimidate checks. Savage diplomacy functions only as long as the creature being influenced can see both the companion and the master. This bonus increases by 1 at 5th level and every 4 levels thereafter, to a maximum of +6 at 17th level. This replaces precise companion.
+
+**Animal Shape (Su)**: At 5th level as a standard action, a chameleon adept can assume a form superficially identical to her animal companion’s animal form. She gains no bonuses or natural attacks while in this form, only forms of movement. Her size category does not change. This is a polymorph effect. She can assume this form for 1 minute per level per day, in 1-minute increments. She can dismiss this ability at any point as a standard action. This replaces woodland stride.
+
+**Improved Shifting Companion (Su)**: At 10th level, a chameleon adept’s animal companion improves its ability to change shape. It can use wild shape, as a druid of half the hunter’s level, to gain the effects of beast shape I. Unlike a druid’s wild shape, this ability does not improve to encompass larger or smaller animals or elementals. This replaces raise animal companion.
+
+**One with the Wild (Ex)**: At 17th level, when the companion is using wild shape to appear as a different type of animal, it counts as being in that animal focus for the purpose of one with the wild. This alters one with the wild.
+
+## Forester
+
+While all hunters have a bond with the natural world, a forester has a stronger tie to her environment than to the animals within it. While most foresters feel strong bonds with woodland regions, the archetype functions well in other terrains as well. In such cases, a forester might refer to herself by a different name that more accurately reflects her chosen terrain. For example, a forester who favors bogs and marshes might call herself a “swamper,” while one who favors frozen regions might call herself a “glacier guardian.” As foresters gain levels and take on new favored terrains, they often eschew such titles completely, viewing them as unnecessary, and merely refer to themselves as guardians of the wild or champions of nature’s will—but regardless of the name, their devotion remains.
+
+**Animal Focus (Su)**: As a forester has no animal companion, the aspects granted by this ability always apply to the forester herself, just as if a normal hunter’s companion were dead. This alters animal focus.
+
+**Favored Terrain (Ex)**: A forester gains the ranger’s favored terrain ability. She gains her first favored terrain at 5th level and a new favored terrain every 4 levels thereafter. In addition, at each such interval, the bonuses on initiative checks and skill checks in one favored terrain (including the one just selected, if so desired) increase by 2. Starting at 5th level, a forester adds half her favored terrain bonus on damage rolls while in her favored terrain and fighting a creature native to that terrain. This replaces animal companion.
+
+**Bonus Feat (Ex)**: At 2nd level, a forester gains one bonus combat feat. She must meet the prerequisites for this feat as normal. She gains an additional bonus combat feat at 7th, 13th, and 19th levels. This replaces precise companion.
+
+**Tactician (Ex)**: At 3rd level as a standard action, a forester can grant the benefits of one teamwork feat to all allies within 30 feet who can see and hear her. Allies retain the use of this bonus feat for 3 rounds plus 1 round for every 2 levels the forester has. Allies do not need to meet the prerequisites of these bonus feats. The forester can use this ability once per day at 3rd level, plus one additional time per day at 7th level and every 5 levels thereafter. This replaces hunter tactics.
+
+**Evasion (Ex)**: At 4th level, a forester can avoid even magical and unusual attacks with great agility. If she makes a successful Reflex saving throw against an attack that normally deals half damage on a successful save, she instead takes no damage. Evasion can be used only if the forester is wearing light armor, medium armor, or no armor. A helpless forester does not gain the benefit of evasion. This replaces improved empathic link.
+
+**Camouflage (Ex)**: At 7th level, a forester can use the Stealth skill to hide in any of her favored terrains, even if the terrain doesn’t grant cover or concealment. This replaces bonus tricks.
+
+**Breath of Life (Sp)**: At 10th level, a forester can cast breath of life once per day as a spell-like ability. This replaces raise animal companion.
+
+**Improved Evasion (Ex)**: At 11th level, a forester’s evasion improves. Improved evasion works like evasion, except while the forester still takes no damage on a successful Reflex saving throw against attacks, she takes only half damage on a failed save. A helpless forester does not gain the benefit of improved evasion. This replaces speak with master.
+
+**Hide in Plain Sight (Ex)**: At 14th level, while in any of her favored terrains, a forester can use the Stealth skill even while being observed. This replaces greater empathic link.
+
+## Patient Ambusher
+
+Wandering the wilds, some hunters eschew the bond of innate teamwork with their animal companions. Instead, these hunters master the creation and deployment of intricate ranger traps, often using themselves or their animal companions to lure foes into their snares.
+
+**Class Skills**: A patient ambusher adds Disable Device to her list of class skills. This alters the hunter’s class skills.
+
+**Trapfinding (Ex)**: A patient ambusher adds half her hunter level (minimum +1) on Perception checks to locate traps and on Disable Device skill checks. A patient ambusher can use Disable Device to disarm magic traps. This replaces nature training and wild empathy.
+
+**Snare Trap (Ex or Su)**: At 3rd level, a patient ambusher learns how to create a snare trap. The patient ambusher can use this and other learned traps a total number of times per day equal to half her hunter level + her Wisdom modifier. This snare trap otherwise functions the same as the ranger snare trap detailed in Pathfinder RPG Ultimate Magic. This replaces the hunter tactics class feature.
+
+**Additional Traps (Ex or Su)**: At 3rd level and every 3 hunter levels thereafter, a patient ambusher can learn a new type of trap, selected from the list of ranger traps presented on pages 64–65 of Ultimate Magic. Once a trap is learned, it can’t be unlearned and replaced with a different type of trap. The patient ambusher cannot learn an individual trap more than once. This replaces teamwork feats.
+
+**Launch Trap (Su)**: At 10th level, a patient ambusher can affix a magical ranger trap to an arrow, a crossbow bolt, or a thrown weapon, allowing her to set the trap remotely or use it as a direct attack. Attaching the trap to the projectile is part of the full-round action to create a new trap. The trapped projectile is fired or thrown in the normal manner. If fired at a square, the trap is treated as if the hunter had set the trap in that square, except the DC is 5 lower than normal. If the trap is fired at a creature, the target takes damage from the ranged weapon and is treated as if it had triggered the trap (attempting a saving throw, if any). The attack has a maximum range of 60 feet, and penalties from range increments apply on the attack roll. The duration of the trap starts when it is created, not when it is triggered. This replaces raise animal companion.
+
+## Plant Master
+
+Some hunters form a bond with plant life instead of an animal and take on those aspects instead. These hunters form potent bonds with plant creatures, and their leafy or fungal friends are more than capable of anything another hunter’s animal allies can accomplish.
+
+**Plant Companion (Ex)**: A plant master forms a mystic bond with a plant companion. A plant master can begin play with any plant companion. Except for the companion being a creature of the plant type, this ability otherwise works like the druid’s animal companion. This replaces animal companion.
+
+**Plant Focus (Su)**: A plant master can take on the aspect of a plant as a swift action. He must select one type of plant to emulate, gaining a bonus or special ability based on the type of plant emulated and his hunter level. The plant master can use this ability for a number of minutes per day equal to his level. This duration does not need to be consecutive but must be spent in 1-minute increments. He can emulate only one plant at a time. The plant master can also apply one of these aspects to his plant companion. An aspect applied in this way does not count against the hunter’s minutes of duration per day—it remains in effect until he changes it. The companion’s aspect can be the same aspect the hunter has taken on or a different one. A plant master can select or change the plant foci on both himself and his plant companion as part of the same swift action.
+
+**Assassin Vine**: The creature gains a +2 bonus on combat maneuver checks to grapple. This bonus increases to +3 at 8th level and +4 at 15th level.
+
+**Brambles**: When the creature is hit by an unarmed strike or natural attack, the attacker takes 1 point of piercing damage. This increases to 2 points at 8th level and 3 points at 15th level.
+
+**Creeping Vine**: The creature gains a +4 competence bonus on Climb checks. This bonus increases to +6 at 8th level and +8 at 15th level.
+
+**Giant Flytrap**: The creature gains a +4 competence bonus on Stealth checks. This bonus increases to +6 at 8th level and +8 at 15th level.
+
+**Mushroom**: The creature gains a +4 enhancement bonus on saves against poison. This bonus increases to +6 at 8th level and +8 at 15th level.
+
+**Oak**: The creature gains a +2 enhancement bonus to CMD. This bonus increases to +4 at 8th level and +6 at 15th level.
+
+**Shrieker**: The creature gains darkvision with a range of 60 feet. At 8th level, the range increases by 30 feet. At 15th level, the creature also gains blindsense with a range of 10 feet.
+
+**Spore**: The creature gains a +4 competence bonus on Fly checks. This bonus increases to +6 at 8th level and +8 at 15th level.
+
+**Water Lily**: The creature gains a +4 competence bonus on Swim checks. This bonus increases to +6 at 8th level and +8 at 15th level. This replaces animal focus.
+
+**Green Empathy (Ex)**: A plant master can improve the attitude of a plant creature. Green empathy functions like a Diplomacy check to improve the attitude of a person. The plant master rolls 1d20 and adds his hunter level and his Charisma modifier to determine the wild empathy check result. The typical wild plant creature has a starting attitude of indifferent.
+
+To use green empathy, the plant master and the plant creature must be within 30 feet of each other under normal conditions. Generally, influencing a plant creature in this way takes 1 minute, but as with influencing people, it might take more or less time. A plant master can also use this ability to influence an animal, but he takes a –4 penalty on the check. He has no ability to influence magical beasts. This replaces the wild empathy class feature.
+
+**Plant Shield (Ex)**: At 17th level, a plant master and his companion are distasteful to plant creatures. Creatures of the plant type with an Intelligence score of 2 or lower will not willingly attack either the plant master or his companion unless magically compelled to do so or the plant master or his companion attacks the creature first. This replaces one with the wild.
+
+**Master Hunter (Ex)**: At 20th level, when a plant master prepares spells for the day, he chooses one plant focus to be active for the entire day. This alters master hunter.
+
+## Scarab Stalker
+
+The forgotten ruins in the desert sands have given rise to a breed of hunters who call upon the powers of the pyramids to protect and explore the ancient sites of their people. These hunters form sacred bonds with desert-dwelling denizens.
+
+**Sacred Animal Focus (Su)**: A scarab stalker can select from the bull, falcon, and snake animal foci, as well as the following new animal foci.
+
+**Bee**: The creature gains a +4 competence bonus on Fly checks. This bonus increases to +6 at 8th level and +8 at 15th level.
+
+**Cat**: The creature gains a +4 competence bonus on Acrobatics checks. This bonus increases to +6 at 8th level and +8 at 15th level.
+
+**Cow**: The creature gains a +1 resistance bonus on Fortitude saving throws. This bonus increases to +2 at 8th level and +3 at 15th level.
+
+**Crocodile**: The creature gains a +4 competence bonus on Swim checks. This bonus increases to +6 at 8th level and +3 at 15th level.
+
+**Ibis**: The creature gains a +2 resistance bonus on saving throws against disease. This bonus increases to +4 at 8th level and +6 at 15th level.
+
+**Jackal**: The creature gains a +4 competence bonus on Survival checks. This bonus increases to +6 at 8th level and +8 at 15th level.
+
+**Kite**: The creature recovers 1 additional hit point whenever it receives magical healing. This increases to 2 additional hit points at 8th level and 3 additional hit points at 15th level.
+
+**Leopard**: The creature gains a +4 competence bonus on Escape Artist checks. This bonus increases to +6 at 8th level and +8 at 15th level.
+
+**Lion**: The creature gains a +4 competence bonus on Intimidate checks. This bonus increases to +6 at 8th level and +8 at 15th level.
+
+**Ram**: The creature gains a +1 bonus on damage rolls when making charge attacks. This bonus increases to +2 at 8th level and +3 at 15th level.
+
+**Scarab Beetle**: The creature gains a +1 enhancement bonus to its natural armor bonus. This bonus increases to +2 at 8th level and +3 at 15th level.
+
+**Scorpion**: The creature gains a +2 resistance bonus on saving throws against poison. This bonus increases to +4 at 8th level and +6 at 15th level.
+
+**Sha**: The creature ignores the Perception penalty from sandstorms and can see twice as far in sandstorms. This increases to three times as far at 8th level and four times as far at 15th level.
+
+**Uraeus**: The creature gains a +2 resistance bonus on saving throws against breath weapons. This bonus increases to +4 at 8th level and +6 at 15th level. This alters animal focus.
+
+**Desert Walker (Ex)**: At 5th level, a scarab stalker and her animal companion can move through desert terrain at normal speed without taking damage or suffering any other impairments unless that terrain has been enchanted or magically manipulated. This replaces woodland stride.
+
+## Treestrider
+
+Some hunters are masters of the wild. Whether raised by apes or having some other link with simian creatures, these hunters glide through the wilderness with ease.
+
+**Animal Companion**: As a free action, a treestrider must select an ape as her animal companion. This alters animal companion.
+
+**Brachiation (Ex)**: A treestrider can gain a climb speed equal to half her base speed as a free action for 1 minute per hunter level per day. This duration must be spent in 1-minute increments. In addition, she can use her climb speed to move through the canopies of forests or jungles, provided the limbs of the trees are strong enough to support her weight. The treestrider’s companion gains a +10-foot enhancement bonus to its climb speed. At 8th level, the treestrider’s climb speed increases to equal her base speed, the duration of her brachiation increases to 10 minutes per hunter level per day (usable in 10-minute increments), and the enhancement bonus to her companion’s climb speed increases to +20 feet. At 15th level, she can use brachiation with no limit on the duration. This replaces animal focus and second animal focus.
+
+**Improved Unarmed Strike (Ex)**: At 2nd level, a treestrider gains Improved Unarmed Strike as a bonus feat. This replaces precise companion.
+
+**Tree Stride (Sp)**: At 10th level, a treestrider can use a full-round action to move between two trees, as per the spell tree stride. Unlike the spell, this ability has a duration of instantaneous and the treestrider can make only a single transfer. She can bring her animal companion with her, but if she does, her companion can’t take any actions that round. Tree stride can be used a number of times per day equal to 3 + the hunter’s Wisdom modifier. This replaces raise animal companion.

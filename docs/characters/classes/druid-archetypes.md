@@ -473,3 +473,119 @@ Season sages wander as the seasons change, turning the leaves and transforming n
 **Winter Chill**: The area of effect is treated as if it were under the effects of extreme cold. At 8th level, as a swift action the season sage can have the area deal 1d6 points of cold damage each round to other creatures in the area.
 
 **Season Mastery (Sp)**: At 12th level, a season sage can cast control weather as a spell-like ability once per day; his choice of effects is not limited by the season.
+
+## Aerie Protector
+
+The aerie protector guards nature’s nests and lairs in the highest mountains, and she is only ever truly at ease when under vast expanses of open sky.
+
+**Weapon and Armor Proficiency**: Aerie protectors are proficient with javelins and shortbows but not with scimitars or scythes. Aerie protectors are not proficient with medium armor. This alters the druid’s weapon and armor proficiency.
+
+**Nature Bond**: If the aerie protector chooses an animal companion as her nature bond, she must choose an animal with a fly speed. She can use spells or other effects to alter her companion’s fly speed, but it must be able to fly on its own before it becomes her companion.
+
+If the aerie protector chooses a domain as her nature bond, she must choose the Air, Eagle, Earth, Mountain, or Weather domain. This alters nature bond.
+
+**Wild Empathy (Ex)**: An aerie protector gains a +4 bonus on wild empathy checks on flying animals, but she takes a –4 penalty on checks on other animals. This alters wild empathy.
+
+**Sky and Stone (Ex)**: At 2nd level, an aerie protector gains a bonus equal to half her level on Knowledge (geography) and Survival checks involving mountainous terrain or high altitudes, and she cannot be tracked in such an environment. This replaces woodland stride.
+
+**Wind at Her Back (Su)**: At 4th level, an aerie protector gains a +4 bonus to CMD and on saving throws against the effects of high altitude and effects that rely on air pressure or strong wind to move her or impede her flight. This bonus also applies on Reflex saves against effects that deal electricity damage. This replaces resist nature’s lure.
+
+**Wild Shape**: An aerie protector gains this ability at 6th level, except her effective druid level is her druid level – 2. If she takes on the form of a flying animal, she instead uses her druid level + 2.
+
+**In the Wind (Ex)**: At 9th level, the climb and fly speeds of forms the aerie protector assumes with her wild shape ability (if any) increase by 10 feet. The maneuverability of her flying forms improves by one category. This replaces venom immunity.
+
+## Dinosaur Druid
+
+A dinosaur druid speaks for the spirit of prehistoric nature, even taking the form of great beasts of legend.
+
+**Summon Dinosaur (Sp)**: A dinosaur druid can summon a wide range of dinosaurs and related prehistoric beasts using summon nature’s ally spells. She adds the following options to these spells when using spontaneous casting to cast such a spell.
+
+**Summon Nature’s Ally I**: Compsognathus.
+
+**Summon Nature’s Ally II**: Dimorphodon, troodon.
+
+**Summon Nature’s Ally III**: Plesiosaurus, velociraptor.
+
+**Summon Nature’s Ally IV**: Dimetrodon, pachycephalosaurus, parasaurolophus.
+
+**Summon Nature’s Ally V**: Amargasaurus, ceratosaurus, iguanodon, kentrosaurus, styracosaurus.
+
+**Summon Nature’s Ally VI**: Allosaurus, quetzalcoatlus, tylosaurus.
+
+**Summon Nature’s Ally VII**: Therizinosaurus.
+
+**Summon Nature’s Ally VIII**: Diplodocus, spinosaurus.
+
+**Summon Nature’s Ally IX**: Giganotosaurus. This alters spontaneous casting.
+
+**Dinosaur Bond (Ex)**: A dinosaur druid must choose an animal companion as her nature’s bond, and the animal companion must be a dinosaur (including those detailed in Pathfinder RPG Bestiary volumes). This alters nature’s bond.
+
+**Dinosaur Shape (Su)**: A dinosaur druid specializes in assuming the form of dinosaurs when using wild shape. When she assumes the form of a dinosaur via wild shape, she gains a +2 size bonus to her Constitution in addition to the other modifiers granted by beast shape. When she uses wild shape to assume the form of a creature other than a dinosaur, the wild shape effect lasts for only 1 minute per level, rather than 1 hour per level. This alters wild shape.
+
+**Primeval Voice (Su)**: At 4th level, a dinosaur druid gains the ability to speak with dinosaurs (as per speak with animals) at all times. This replaces resist nature’s lure.
+
+## Leshy Warden
+
+The natural world is full of bodiless nature spirits connected to the forces of glades, springs, and individual plants. Some druids hear their call keenly and are able to effortlessly incarnate them as the miniature creatures known as leshys. The leshy warden serves as these spirits’ ally, defender, and voice.
+
+**Leshy Familiar (Ex)**: A leshy warden forms an intimate bond with a nature spirit, incarnating the spirit as a leaf leshy. She gains a leaf leshy as a familiar and treats her druid level as her effective wizard level for the purpose of this ability. If the leshy dies, the leshy warden can incarnate the same spirit again by paying the normal cost to replace a familiar. So long as the leshy lives, the leshy warden gains access to the Plant domain as if through a druid’s nature bond class feature, but she can’t choose the Decay subdomain. This replaces nature bond.
+
+**Green Empathy (Ex)**: A leshy warden can improve the attitude of a plant creature as if using wild empathy. The typical wild plant creature has a starting attitude of indifferent. If the plant creature is mindless, the leshy warden imparts a modicum of intellect to the plant so that it can be interacted with as if it were an animal. A leshy warden can also use this ability to influence an animal, but she takes a –4 penalty on the check to do so. This replaces wild empathy.
+
+**Leshy Summoner (Ex)**: A leshy warden is an expert at summoning and growing leshys. She counts as a plant creature for the purpose of growing leshys. She adds leaf leshys, gourd leshys, fungus leshys, seaweed leshys, and lotus leshys to her list of creatures she can summon with summon nature’s ally I, II, III, IV, and V, respectively. This alters spontaneous casting.
+
+**Leshy Tender (Ex)**: At 4th level, a leshy warden can either grant her leaf leshy a +2 increase to Strength and Dexterity or transform it into a gourd leshy. At 8th level, the leshy warden can either grant her current leshy a +2 increase to Strength and Dexterity or transform it into a fungus leshy. At 12th level, she can either grant her current leshy a final +2 increase to Strength and Dexterity or transform it into a seaweed leshy. If the leshy is transformed, it gains the normal ability scores of its new form; ability score increases granted by this ability don’t carry over to its new form. This replaces resist nature’s lure.
+
+**Wild Shape (Su)**: A leshy warden gains this ability at 6th level, except her effective druid level for the ability is equal to her druid level – 2 for the purpose of determining the number of times per day she can use it. At 6th level, the leshy warden can assume the form of only Small or Medium plant creatures, as per plant shape I. At 8th level, she can take the form of a Large plant creature, as per plant shape II. At 10th level, she can take the form of a Huge plant creature, as per plant shape III. This alters wild shape.
+
+**Plant Whisperer (Su)**: At 13th level, a leshy warden’s connection to the spirits of nature becomes strong enough that she can always hear them whispering. She is treated as if constantly under the effects of speak with plants. Once per day, she can spend 10 minutes in communion with the spirits to learn the answers to her questions, as commune with nature. This replaces a thousand faces.
+
+## River Druid
+
+These druids are the guardians of rivers and the creatures that depend on them. Just as rivers pour from mountains to seas, river druids adapt to many environments and cultures. They can be found wherever water flows, even among underground rivers or sewer systems.
+
+**Ferrier (Ex)**: A river druid adds Diplomacy to her list of class skills and gains a +2 bonus on Diplomacy and Knowledge (nature) skill checks. This alters the druid’s class skills and replaces nature sense.
+
+**Read the Currents (Ex)**: At 2nd level, a river druid gains a bonus equal to half her druid level on initiative checks and Acrobatics, Knowledge (geography), Perception, Stealth, Survival, and Swim checks when she is in, on, or adjacent to flowing water. This replaces woodland stride.
+
+**Countercurrent (Ex)**: At 3rd level, a river druid takes no penalty to speed or on Acrobatics or Stealth checks in shallow water up to 2 feet deep (1 foot deep for Small characters) such as shallow bogs, shorelines, streams, and partially flooded areas. A river druid (and any vehicle she pilots) isn’t moved by flowing water unless she allows it. Water that has been magically manipulated to impede or boost motion still affects her. This replaces trackless step.
+
+**Deep Breath (Ex)**: At 4th level, a river druid can hold her breath for a number of minutes equal to her Constitution score (after this, she must begin attempting Constitution checks to avoid suffocation as normal). This replaces resist nature’s lure.
+
+**Wild Shape (Su)**: A river druid gains this ability at 6th level, except her effective druid level for the ability is equal to her druid level – 2. This alters wild shape.
+
+**Tongue of the Sun and Moon (Ex)**: At 15th level, a river druid can speak with any living creature. This replaces timeless body.
+
+## Road Keeper
+
+Guardians of the lonely paths between cities, road keepers protect the wild from travelers, and travelers from the wild.
+
+**One with the Road (Su)**: A road keeper casts the following spells as though her caster level were 1 higher: 1st—longstrider, 2nd—scent trail, 3rd—nature’s exile, 4th—freedom of movement, 5th—tree stride, 6th—find the path, 7th—wind walk, 8th—word of recall, 9th—world wave. At 9th level, the bonus to her caster level for these spells increases to +2. This replaces spontaneous casting.
+
+**Road Bond (Ex)**: If the road keeper chooses a cleric domain as her nature bond, she must choose from the Community, Liberation, Protection, Travel, or Weather domains. The road keeper can also choose any subdomain associated with these domains. This alters nature bond and replaces wild empathy.
+
+**Take the High Road (Ex)**: At 2nd level, a road keeper travels over roads and paths at an accelerated rate. She and her allies can hustle for 2 hours without taking nonlethal damage, instead of 1, provided they travel along a road or path. Additionally, as long as they travel on a road or path, the road keeper and her allies count as traveling along a highway regardless of the quality of the road or path on which they travel. Allies must remain within 30 feet of the road keeper to benefit from this ability. This replaces woodland stride.
+
+**Trodden Path (Ex)**: At 4th level, a road keeper gains a +4 bonus on Survival checks to follow or identify tracks. She also gains this bonus on saving throws against severe weather effects. This replaces resist nature’s lure.
+
+**Road Less Traveled (Su)**: At 4th level, a road keeper can discourage creatures from entering or exiting the wild. Once per day as a standard action, she can target a creature within 30 feet and curse it with clumsiness and disorientation. The road keeper chooses whether to punish her target for entering the wild from a road or building, or vice versa. If her target is entering the wild, it treats every square of wilderness not on a road or in a building as difficult terrain. If her target is exiting the wild, it treats every square on a road or inside a building as difficult terrain. In either case, the ground feels uneven and the target suffers extreme vertigo during movement. The victim of this curse can attempt a Will saving throw (DC = 10 + half the road keeper’s level + her Wisdom modifier) at the beginning of its turn each round to end the effect. The effect lasts until the target successfully saves or for a number of minutes equal to the road keeper’s level. A creature’s movement isn’t affected if it is burrowing, climbing, earth gliding, flying, or swimming. This is a mind-affecting curse effect.
+
+At 6th level and every 2 levels thereafter, the road keeper can target an additional creature per day with this ability (to a maximum number of nine targets per day at 20th level). She can target more than one creature with a single use of this ability or the same target more than once in the same day (though its effects do not stack), but her total number of targets per day cannot exceed this daily maximum. If she targets more than one creature at one time, each target must be within 30 feet of the road keeper. This replaces wild shape.
+
+## Rot Warden
+
+Harbingers of decay, rot wardens live in damp lands where insects and rot break down the dead to feed the living. They see in the process of rot the beauty of nature’s capacity to recycle and repurpose material into something wondrous and new.
+
+**Invoke Decay (Su)**: A rot warden can channel stored spell energy into specific spells he hasn’t prepared ahead of time. He can “lose” a prepared spell in order to cast the following spells at the indicated levels: 1st—decompose corpse, 2nd—warp wood, 3rd—fungal infestation, 4th—explosion of rot, 5th—insect plague, 6th—swarm skin, 7th—creeping doom, 8th—horrid wilting, 9th—massacreHA. This alters spontaneous casting.
+
+**Nature Bond**: A rot warden who chooses a cleric domain as his nature bond must choose from the Destruction, Erosion, Repose, or Vermin domains. This alters nature bond.
+
+**Vermin Empathy (Su)**: A rot warden can improve the attitude of vermin as a normal druid can with animals. Vermin have a starting attitude of unfriendly. The rot warden can also improve the attitude of vermin swarms, but he takes a –4 penalty on the check unless the swarm consists of the same kind of vermin as his vermin companion or his current wild shape. This replaces wild empathy.
+
+**Swarmcaller (Sp)**: At 3rd level, a rot warden can summon a swarm of vermin once per day as a standard action. This functions like summon swarm, except the swarm the rot warden summons must be a cockroach, locust, or spider swarm. If he uses this ability during the surprise round of combat, nearby animals and vermin become hushed until the first round of combat ends; during this surprise round and first round of combat, flat-footed creatures also gain the shaken condition (this doesn’t stack with other fear effects). At 9th level, he adds army ant, centipede, and wasp swarms to the list of swarms he can call with this ability. This replaces trackless step and venom immunity.
+
+**Enduring Druid (Su)**: At 4th level, a rot warden gains a +4 bonus on saving throws against attacks and special abilities of vermin and swarms with the vermin type. This bonus also applies on saving throws against effects that would age or decay the rot warden or his equipment. This replaces resist nature’s lure.
+
+**Wild Shape**: A rot warden gains this ability at 6th level, except his effective druid level is his druid level – 2. He cannot take the form of an elemental.
+
+At 8th level, a rot warden can assume the form of a Small or Medium vermin as if using vermin shape IUM. At 10th level, the rot warden can assume the shape of a Tiny or Large vermin as if using vermin shape IIUM. At 12th level, he can take the form of a Huge vermin as if using vermin shape III. This alters wild shape.

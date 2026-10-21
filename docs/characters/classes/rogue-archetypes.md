@@ -337,3 +337,69 @@ At 8th level, the fey prankster can also exchange the locations of the two targe
 **Plant Traps (Su)**: At 8th level, the fey prankster can modify a plant (but not plant creatures) into a trap as a full-round action up to three times per day. The Perception and Disable Device DCs for the trap are each equal to 15 + his rogue level. A Tiny or larger plant can be used to perform a trip or dirty trick combat maneuver using the fey prankster’s CMB and the plant’s size. A Large or larger plant can be used to create a snare as per the spell. The save DC is equal to 12 + the rogue’s Intelligence modifier. The fey prankster can trigger any plant trap he created as a standard action as long as he is within 60 feet of it. This replaces the rogue talent gained at 8th level.
 
 **Unseen Trickster**: At 12th level, the fey prankster can attempt Stealth checks in areas with plants even if he does not have cover or concealment. This replaces the rogue talent gained at 12th level.
+
+## Desert Raider
+
+Desert raiders constantly threaten caravans that cross vast, desolate expanses. Some desert raiders are tribespeople who raid to supplement their hardscrabble existence, while others are career thieves who take to the desert to avoid the noose. To survive, a desert raider must learn the secrets of the deserts and become inured to their dangers.
+
+Though most often associated with hot deserts, desert raiders can also operate in tundra, where sunlight on snow can blind as easily as on sand.
+
+**Class Skills**: A desert raider adds Knowledge (geography) and Survival to her list of class skills instead of Knowledge (dungeoneering) and Swim. This alters the rogue’s class skills.
+
+**Desert Tracker (Ex)**: A desert raider is immune to the dazzled condition. A desert raider adds half her level (minimum 1) as a bonus on Survival skill checks to follow or identify tracks in desert terrain. This replaces trapfinding.
+
+**Sun at Your Back (Ex)**: At 2nd level, a desert raider can use the reflected light of the blinding sun to conceal her presence. A desert raider in bright light can attempt Stealth checks without cover or concealment but takes a –5 penalty on her check. The desert raider cannot use this ability to hide from creatures immune to the blinded or dazzled conditions. This replaces the rogue talent gained at 2nd level.
+
+**Light Step (Ex)**: At 3rd level, the DC of Survival checks to track the desert raider increase by 3. In addition, she gains a +1 bonus on Perception checks to avoid being surprised by a foe. The DC increase and the bonus on Perception checks increase by 1 every 3 rogue levels thereafter (to a maximum increase of 8 and a maximum bonus of +6 at 18th level). This replaces trap sense.
+
+**Rogue Talents**: The following rogue talents complement the desert raider archetype: fast stealth, getaway artist, ledge walker, rogue crawl, stand up, surprise attack.
+
+**Advanced Talents**: The following advanced rogue talents complement the desert raider archetype: hide in plain sight, stealthy sniper.
+
+## River Rat
+
+What highway robbers are to roads, river rats are to waterways. Skilled at hiding amid reeds and roots, these rogues strike the unwary from the shallows as others would from the shadows. Despite their strong association with banditry, river rats make excellent guides and hunters.
+
+**Class Skills**: A river rat gains Knowledge (nature) as a class skill instead of Knowledge (dungeoneering). This alters the rogue’s class skills.
+
+**Swamper (Ex)**: At 1st level, a river rat gains a bonus equal to half her rogue level on Swim checks (minimum +1). A river rat ignores difficult terrain caused by light undergrowth and shallow bogs, and it costs her only 2 squares of movement to enter a square of deep bog or heavy undergrowth, rather than 4 squares of movement. She takes no penalty on Acrobatics or Stealth checks for being in bogs and undergrowth. All of these abilities apply only when she is wearing light or no armor and carrying no more than a light load. This replaces trapfinding.
+
+**Rat’s Resilience (Ex)**: A river rat is inured to dangers presented by disease-carrying parasites, poisonous fish, and other toxic river denizens. At 3rd level, a river rat gains a +1 bonus on saving throws against disease and poison effects. This bonus increases by 1 every 3 levels thereafter, to a maximum bonus of +6 at 18th level. This replaces trap sense.
+
+**Rogue Talents**: The following rogue talents complement the river rat archetype: camouflage, hold breath, rogue crawl, stand up, strong stroke, survivalist.
+
+**Advanced Talents**: The following advanced rogue talents complement the river rat archetype: hide in plain sight, opportunist, skill mastery, stealthy sniper.
+
+## Sly Saboteur
+
+Sly saboteurs are irregular soldiers who specialize in sabotage and surprise attacks. Though they often face enemies with greater numbers or resources (or both), sly saboteurs have the advantage of knowing the local people and terrain. They might be rebels fighting against a corrupt government, or they might be members of a militia opposing an invading force. Some are environmentalists who sabotage the tools of industry in order to protect unspoiled nature.
+
+**Class Skills**: A sly saboteur adds Survival to her list of class skills instead of Knowledge (dungeoneering). This alters the rogue’s class skills.
+
+**Scamper (Ex)**: At 3rd level, a sly saboteur can move through 5 feet of difficult terrain each round as if it were normal terrain. At 6th level and every 3 levels thereafter, this distance increases by 5 feet (to a maximum of 30 feet at 18th level). This ability allows the sly saboteur to take a 5-foot step into difficult terrain. This ability applies only when she is wearing light armor or no armor and carrying no more than a light load, and it stacks with the Acrobatic Steps and Nimble Moves feats. This replaces trap sense.
+
+**Catastrophic Failure (Ex)**: At 4th level, when a sly saboteur uses Disable Device to rig a device to fail, she can increase the DC of the check by 5. If she does so and succeeds at the check, when the device fails, users take damage equal to the sly saboteur’s sneak attack, or they take half that amount with a successful Reflex save (DC = 10 + half the sly saboteur’s level + her Dexterity modifier). The type of damage depends on the nature of the device but is typically bludgeoning, fire, piercing, or slashing. This replaces uncanny dodge.
+
+**Disable Magic Device (Su)**: At 8th level, a sly saboteur can use Disable Device to rig a magic item to fail as if it were an extremely complex device. If the item’s effect is instantaneous, the effect is countered the next time the item is activated, but the activation still consumes a charge or use. If the item’s effect is continuous or has a duration, the effect fails after 1d4 rounds or minutes of use (sly saboteur’s choice). This ends the duration or suppresses a continuous effect for 1d4 rounds (as the spell dispel magic). This ability cannot be used on artifacts. If this ability is combined with the catastrophic failure ability, the resulting damage is untyped magic and is not reduced by damage reduction or energy resistance. This replaces improved uncanny dodge.
+
+**Rogue Talents**: The following rogue talents complement the sly saboteur archetype: cunning trigger, fast stealth, getaway artist, quick disable, quick trapsmith, rogue crawl, trap spotter, wall scramble.
+
+**Advanced Talents**: The following advanced rogue talents complement the sly saboteur archetype: frugal trapsmith, hide in plain sight, knock-out blow, rumormonger, skill mastery, stealthy sniper.
+
+## Sylvan Trickster
+
+Sylvan tricksters are rogues who model themselves after the mischievous fey of legend. Though not spellcasters, sylvan tricksters learn minor magical abilities reminiscent of those favored by fey creatures. The journey for many sylvan tricksters began in childhood, learning at an elder’s knee the stories of the fey and the secrets of how to resist their tricks. Sylvan tricksters often live in areas where the boundary with the First World is thin, and a few have even been there— voluntarily or not.
+
+**Class Skills**: A sylvan trickster adds Knowledge (nature) to her list of class skills and learns Sylvan as a bonus language. She does not gain Knowledge (dungeoneering) as a class skill. This alters the rogue’s class skills.
+
+**Wild Empathy (Ex)**: A sylvan trickster can improve an animal’s attitude. This ability functions as the druid ability of the same name, using the sylvan trickster’s rogue level as her effective druid level. This replaces trapfinding.
+
+**Fey Tricks**: A sylvan trickster can select a witch hex in place of a rogue talent. At 10th level, the sylvan trickster can select a hex or major hex in place of a rogue talent. At 18th level, a sylvan trickster can select a hex, major hex, or grand hex in place of a rogue talent. She cannot select any hex more than once. This alters rogue talents.
+
+**Resist Nature’s Lure (Ex)**: At 4th level, a sylvan trickster gains resist nature’s lure as the druid ability of the same name. This replaces uncanny dodge.
+
+**Fey Resistance (Ex)**: At 8th level, a sylvan trickster gains DR 2/cold iron. At 11th level and every 3 levels thereafter, this damage reduction increases by 2 (to a maximum of DR 10/cold iron at 20th level). This replaces improved uncanny dodge.
+
+**Rogue Talents**: The following rogue talents complement the sylvan trickster archetype: camouflage, charmer, honeyed words, major magic, minor magic, survivalist, terrain mastery.
+
+**Advanced Talents**: The following advanced rogue talents complement the sylvan trickster archetype: familiar, hide in plain sight.

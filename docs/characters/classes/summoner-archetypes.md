@@ -325,3 +325,23 @@ This ability replaces summon monster.
 At 8th, 10th, and 16th levels, the summoner can select another hex.
 
 This ability replaces aspect, maker's call, merge forms, and transposition.
+
+## Leshy Caller
+
+A leshy caller summons creatures from the First World and forges a bond with a leshy eidolon.
+
+**Leshy Eidolon**: When a leshy caller summons her eidolon, the eidolon’s body is created from extraplanar plant material and imbued with the intelligence of a leshy spirit. Its statistics are changed from those of a standard eidolon as follows. An unchained summoner uses the plant eidolon subtype instead of one of the subtypes listed in Pathfinder RPG Pathfinder Unchained.
+
+**Type**: The eidolon is still an outsider, and its statistics don’t change, but it also counts as a plant. As it isn’t truly a plant, it doesn’t gain the plant immunities.
+
+**Base Form**: The leshy caller chooses one of the base forms listed below for her eidolon. When the eidolon is summoned in an environment matching one of these base forms, the leshy caller can change the eidolon’s base form to the matching form by sacrificing one daily use of her summon nature’s ally ability as a free action. Plant eidolon base forms are as follows. Cactus (Desert): Size Medium; Speed 30 ft.; AC +2 natural armor; Saves Fort (good), Ref (good), Will (bad); Attack sting (1d4); Ability Scores Str 14, Dex 14, Con 13, Int 7, Wis 10, Cha 11; Free Evolutions limbs (arms), limbs (legs), sting.
+
+Conifer (Forest, Mountain): Size Medium; Speed 30 ft.; AC +2 natural armor; Saves Fort (good), Ref (bad), Will (good); Attack 2 claws (1d4); Ability Scores Str 14, Dex 12, Con 15, Int 7, Wis 10, Cha 11; Free Evolutions claws, limbs (arms), limbs (legs).
+
+Fungus (Swamp, Underground): Size Medium; Speed 30 ft.; AC +2 natural armor; Saves Fort (good), Ref (good), Will (bad); Attack bite (1d6); Ability Scores Str 14, Dex 14, Con 13, Int 7, Wis 10, Cha 11; Free Evolutions bite, limbs (arms), limbs (legs).
+
+Leaf (Forest, Jungle, Swamp): Size Medium; Speed 30 ft.; AC +2 natural armor; Saves Fort (good), Ref (good), Will (bad); Attack slam (1d8); Ability Scores Str 16, Dex 12, Con 13, Int 7, Wis 10, Cha 11; Free Evolutions limbs (arms), limbs (legs), slam.
+
+Seaweed (Aquatic): Size Medium; Speed 20 ft., swim 40 ft.; AC +2 natural armor; Saves Fort (good), Ref (good), Will (bad); Attack slam (1d8); Ability Scores Str 12, Dex 14, Con 15, Int 7, Wis 10, Cha 11; Free Evolutions limbs (arms), slam, swim (2). This alters the summoner’s eidolon.
+
+**Summon Nature’s Ally (Sp)**: A leshy caller can cast summon nature’s ally as a spell-like ability a number of times per day equal to 3 + her Charisma modifier. At levels where a regular summoner would gain access to a new level of summon monster as a spell-like ability, the leshy caller instead gains the equivalent summon nature’s ally spell; at 19th level, she can cast summon nature’s ally IX or gate. When a leshy caller gains a summon nature’s ally spell as a spell-like ability, she adds it to her class spell list (though she must still select it as a spell known if she wants to gain the ability to cast it as a normal spell). She adds leaf leshys, gourd leshys, fungus leshys, seaweed leshys, and lotus leshys to her list of creatures for summon nature’s ally I, II, III, IV, and V, respectively. This alters summon monster.

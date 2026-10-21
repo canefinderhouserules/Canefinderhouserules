@@ -510,3 +510,55 @@ The unbreakable is a warrior of indomitable will, unstoppable and implacable onc
 **Miraculous Recovery (Ex)**: At 17th level, when an unbreakable makes a saving throw to recover from an ongoing effect, he may roll twice and choose the better roll. This ability replaces weapon training 4.
 
 **Unbreakable Mind (Ex)**: At 20th level, an unbreakable becomes nearly impossible to sway with honeyed words or magic. He gains immunity to mind-affecting effects. This ability replaces weapon mastery.
+
+## Skirmisher
+
+Not all battles are fought between armies; sometimes, a settlement or nation faces a threat too dire to fight in the open. In order to repel a much larger enemy force, some soldiers must abandon equipment and tactics designed for open-field warfare and instead rely on ambushes, hit-and-run tactics, and sabotage to whittle down their enemies’ strength and morale. Skirmishers use harsh weather and unforgiving terrain to their advantage, attacking isolated groups of enemies that cannot flee or fight back effectively. Many tribal warriors also employ small-unit tactics because it is part of their warrior culture, because they cannot field a large army, or simply because they refuse to fight on the enemy’s terms.
+
+**Weapon and Armor Proficiency**: A skirmisher is proficient with light armor and shields but not with medium armor, heavy armor, or tower shields. This replaces the fighter’s weapon and armor proficiency.
+
+**Wilderness Training (Ex)**: A skirmisher relies on his skills and the element of surprise rather than the heaviest shields and armor. He gains Acrobatics and Stealth as class skills. In addition, the skirmisher gains a number of skill ranks at each level equal to 4 + his Intelligence modifier, instead of 2 + his Intelligence modifier. This alters the fighter’s class skills and skill ranks per level.
+
+**Conditioning (Ex)**: At 2nd level, a skirmisher becomes more resistant to mental and physical threats that are commonly employed by his enemies or often encountered in the terrain in which he operates. The skirmisher must choose one of the specializations below, gaining a +1 bonus on saving throws of the appropriate type. This bonus increases by 1 for every 4 levels beyond 2nd.
+
+**Alpine Training (Ex)**: A skirmisher operating in mountainous terrain becomes resistant to cold climates and the rigors of long treks at high altitudes. He gains a bonus on Fortitude saving throws against altitude sickness, exposure to cold weather, and other effects that cause fatigue or exhaustion.
+
+**Counter-Interrogation Training (Ex)**: A skirmisher undertaking infiltration missions learns to resist interrogation and persuasion. The skirmisher gains a bonus on Will saving throws against charms and divinations.
+
+**Jungle Training (Ex)**: Through repeated exposure, a skirmisher operating in jungles and wetlands builds up a tolerance against pathogens and toxins. He gains a bonus on Fortitude saving throws against disease and poison.
+
+**Light Infantry Training (Ex)**: A skirmisher fighting in a light infantry unit learns to avoid fire from enemy artillery, siege weapons, and spellcasters. He gains a bonus on Reflex saving throws against attacks that deal half damage on a successful save (such as the fireball spell) but not against traps, natural hazards, or environmental effects. This replaces the bonus feat the fighter normally receives at 2nd level.
+
+**Reconnaissance Training (Ex)**: A skirmisher operating in heavily trapped or naturally hazardous areas learns to expertly avoid them. At 2nd level, he gains a +1 bonus on Reflex saving throws to avoid traps, natural hazards, and environmental effects. This bonus increases by 1 for every 4 levels beyond 2nd. This replaces bravery.
+
+**Mobility Training (Ex)**: At 3rd level, a skirmisher learns to be more maneuverable while wearing light or no armor. He gains a +1 dodge bonus to AC while wearing light or no armor and while carrying no more than a light load. Anything that causes the skirmisher to lose his Dexterity bonus to AC also causes the skirmisher to lose this dodge bonus. This bonus increases by 1 for every 4 levels beyond 3rd (to a maximum of +4 at 15th level).
+
+In addition, a skirmisher gains an enhancement bonus of +5 feet to his base speed. At 7th level, the bonus increases to +10 feet. This benefit applies only when he is wearing no armor or light armor, and when he is carrying no more than a light load. This replaces armor training.
+
+**Mobile Mastery (Ex)**: At 19th level, a skirmisher learns to position his body and conceal his body proportions with clothes so well that it is difficult to hit him. He gains a 20% miss chance on attacks against him. Mobile mastery functions even when the skirmisher is flat-footed, but not when he is immobilized or helpless, when he wears medium or heavy armor, or when he carries a medium or heavy load. This replaces armor mastery.
+
+## Tribal Fighter
+
+A tribal fighter knows that it is not the weapon that matters but the hand that wields it. Instead of encasing himself in metal armor like the soldiers fighting and dying for the so-called civilized lands do, he prefers to wear something he or his ancestors have killed. These relics and trophies help the tribal fighter attain a battle focus that allows him to perform incredible feats of violence with the simplest of weapons.
+
+**Forbidden Armor**: A tribal fighter favors traditional armor and shields, avoiding other types out of spiritual devotion, superstitious suspicion, or respect for tradition. He can attain his battle focus only while using armaments of the appropriate types. Like a druid, a tribal fighter is prohibited from wearing metal armor and using metal shields. A tribal fighter who wears prohibited armor or uses a prohibited shield loses the benefits of the battle focus and tribal weapon training abilities while doing so and for 24 hours after removing the prohibited armor or shield.
+
+**Battle Focus (Ex)**: A tribal fighter learns to fight with his bare hands and wield traditional tribal weapons so effortlessly that they are almost extensions of his arms. He gains Improved Unarmed Strike as a bonus feat. For the purpose of meeting the prerequisites of style feats and feats that have style feats as prerequisites, the tribal fighter counts as having a number of skill ranks equal to his fighter level in all skills in which he is trained. This replaces the fighter feat gained at 1st level.
+
+**Tribal Weapon Training (Ex)**: At 5th level, when a tribal fighter gains the weapon training ability, he must choose the tribal weapon group and doesn’t later gain additional weapon groups, though the weapon training bonus for tribal weapons still improves at 9th level and every 4 levels thereafter. Additionally, if the tribal fighter has combat feats that apply to a specific weapon type (such as Improved Critical or Weapon Focus) and he has selected a weapon that belongs to the tribal weapon group, he can apply the benefits of that feat to all weapons that belong to the tribal weapon group that would legally apply (for instance, a feat that applies only to throwing weapons wouldn’t apply to greatclubs). This benefit applies only to feats selected as fighter bonus feats. This alters weapon training.
+
+## Viking
+
+Vikings seek to raid “softer societies” and return with their longships filled with plunder. A viking strikes fear into the heart of her foes, and in battle she can fly into a terrible rage. Many vikings wear the pelts of bears or wolves, drawing on the strength and ferocity of these beasts in battle. Vikings do not wear heavy armor, but they are skilled at fighting with an axe or spear in conjunction with a shield.
+
+**Weapon and Armor Proficiency**: A viking is not proficient with heavy armor or tower shields. This alters the fighter’s weapon and armor proficiencies.
+
+**Fearsome (Ex)**: At 2nd level, a viking can attempt an Intimidate check to demoralize an opponent as a move action. At 10th level, she can do so as a swift action. At 18th level, she can attempt to demoralize a foe as a free action once per round. This replaces bravery.
+
+**Shield Defense (Ex)**: At 3rd level, a viking learns the art of fighting with a shield. Whenever she is wearing medium, light, or no armor and using a shield, the viking’s shield bonus to AC increases by 1. At 7th, 11th, and 15th levels, this bonus increases by 1. This replaces armor training.
+
+**Berserker (Ex)**: At 5th level, a viking gains the rage ability as per the barbarian class feature, and she uses Tribal Weapon Group The following new fighter weapon group consists of traditional melee weapons used by many indigenous peoples.
+
+**Tribal**: Club, dagger, greatclub, handaxe, heavy shield, light shield, shortspear, spear, throwing axe, and unarmed strike. her fighter level as her barbarian level for the purposes of determining her rounds of rage, qualifying for rage powers, and determining the effects of rage powers. This replaces weapon training.
+
+**Rage Powers (Ex)**: At 6th level, whenever a viking gains a fighter bonus feat, she can instead gain a single rage power, as the barbarian class feature, in place of the bonus feat. Once selected, these rage powers cannot be changed. This alters the fighter’s bonus feats.

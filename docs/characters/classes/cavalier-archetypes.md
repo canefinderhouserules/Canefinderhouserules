@@ -247,3 +247,51 @@ Some cavaliers make a lifelong mission out of their exceptional ability to direc
 This ability replaces greater banner.
 
 **Strategic Supremacy (Ex)**: At 18th level, a strategist gains the ability not only to improve his allies’ abilities, but also to disrupt the teamwork of his enemies. Whenever the strategist uses the tactician ability, he can choose to cancel out the effects of one teamwork feat employed by any of his opponents within 30 feet instead of granting the use of a teamwork feat to his allies. This ability replaces the cavalier’s 18th-level bonus feat.
+
+## Green Knight
+
+Some knights serve nature itself and can be found protecting unspoiled natural places or serving fey beings.
+
+**Beast Tongue (Ex)**: A green knight can use Diplomacy to improve an animal’s attitude. Beast tongue otherwise functions like the druid’s wild empathy ability, using the green knight’s Diplomacy modifier and using her cavalier level as her effective druid level, and it counts as that ability for the purpose of other effects (such as feat prerequisites or effects that alter or improve wild empathy). This replaces tactician.
+
+**Implacable Knight (Ex)**: A green knight gains Endurance and Diehard as bonus feats. This replaces mount.
+
+**Nature’s Servant (Ex)**: A green knight must select the order of the Green. This alters order.
+
+**Ferocious (Ex)**: At 3rd level, a green knight is not staggered when below 0 hit points. At 9th level, taking actions when below 0 hit points does not cause her to lose hit points. This replaces cavalier’s charge.
+
+**Woodland Stride (Ex)**: At 4th level, a green knight gains the druid’s woodland stride ability. This replaces expert trainer and banner.
+
+**Stalwart (Ex)**: At 9th level, whenever a green knight succeeds at a Fortitude or Will save against an effect that has a reduced effect on a successful save, she instead negates the effect. This replaces greater tactician.
+
+**Oaken Vitality (Su)**: At 11th level, nature protects a green knight from many afflictions. The green knight becomes immune to disease, infestations, and poison. This replaces mighty charge and greater banner.
+
+**Take Their Heads (Su)**: A green knight’s blade is blessed by mighty fey powers and unerringly seeks out foes’ necks. At 17th level, any slashing weapon a green knight wields gains the vorpal weapon special ability. This replaces master tactician.
+
+**Indestructible (Su)**: At 20th level, a green knight is virtually impervious to death. She gains a +6 bonus to her Constitution score. In addition, the green knight becomes immune to death effects and to effects that would kill her without reducing her to 0 hit points, unless the effect involves decapitation. If she is decapitated, the green knight can continue to act normally. Reattachment requires the head and body to be joined and the application of any effect that restores hit points. This replaces supreme charge.
+
+## Saurian Champion
+
+These primeval cavaliers idolize dinosaurs as apex predators and value them as powerful, oversized mounts.
+
+**Class Skills**: A saurian champion gains Acrobatics, Knowledge (nature), Perception, and Survival as class skills. This alters the cavalier’s class skills.
+
+**Weapon and Armor Proficiency**: A saurian champion does not gain proficiency with medium or heavy armor. This alters the cavalier’s weapon and armor proficiencies.
+
+**Savage Combatant (Ex)**: A saurian champion does not rely on lethal charges or firing from afar as more “civilized” cavaliers do, preferring to rampage among his foes instead. Saurian champions do not deal double damage when charging with a lance (or similar weapon) while mounted. While mounted, a saurian champion cannot attack with ranged weapons other than thrown weapons.
+
+**Titanic Challenge (Ex)**: A saurian champion considers only the largest creatures a true challenge. His titanic challenge adds only half his level on damage rolls against Medium or smaller creatures, but he adds a +1 bonus on attack rolls against a target of his challenge that is at least two size categories larger than himself (Huge for Medium saurian champions) and a +2 bonus on attack rolls against a Colossal target of his challenge. This alters challenge.
+
+**Wild Warrior (Ex)**: A saurian champion hails from primeval lands where the civilized orders hold little sway. He does not select an order or gain any order-related benefits. This replaces order.
+
+**Dinosaur Mount (Ex)**: A saurian champion bonds with a dinosaur companion that willingly serves as his mount. This mount functions as a cavalier’s normal mount with the following adjustments: The saurian champion’s mount must be a dinosaur (see the various Pathfinder RPG Bestiary volumes). The saurian champion can ride mounts of his size category and larger, rather than only those of a larger size. Increase the mount’s Strength score by 8 for the purpose of determining its carrying capacity. Whenever an ability or feat allows the saurian champion’s mount to make a hoof attack, the mount can make a claw or bite attack instead. This alters the cavalier’s mount and replaces tactician, greater tactician, and master tactician.
+
+**Nimble Rider (Ex)**: At 2nd level, a saurian champion gains a +1 dodge bonus to AC when mounted. Anything that causes the saurian champion to lose his Dexterity bonus to AC also causes him to lose this dodge bonus. This bonus increases by 1 for every 6 levels beyond 2nd (to a maximum of +4 at 20th level).
+
+**Fierce Devotion (Ex)**: At 5th level, a saurian champion’s mount gains the devotion ability, and its effects also apply against emotion and fear effects. The mount is immune to the effects of unnatural aura. This replaces banner.
+
+**Quick Rider (Ex)**: At 8th level, a saurian champion can attempt Ride checks to fast mount or fast dismount his mount even if it’s more than one size category larger than himself.
+
+**Titanic Mount (Ex)**: At 10th level, a saurian champion’s mount increases in size by one category (even if the base creature normally does not reach that size). The creature receives the appropriate size penalty on attack rolls and to AC (–1 if growing to Large or –2 if growing to Huge) and a –2 penalty to Dexterity (to a minimum Dexterity score of 1), its base damage increases by one size category, and its reach increases to 10 feet (if it wasn’t already). It also gains a +2 size bonus to its Strength and Constitution score. At 12th, 14th, 16th, and 18th levels, the bonus to Strength increases by 2 and the mount’s natural armor increases by 1. At 14th and 18th levels, the bonus to Constitution increases by 2. At 15th level, the mount’s reach increases to 15 feet.
+
+**Primeval Devotion (Ex)**: At 14th level, the bonus on saving throws provided by the mount’s devotion ability increases by 2. In addition, the mount adds half this bonus to other saving throws. This replaces greater banner.

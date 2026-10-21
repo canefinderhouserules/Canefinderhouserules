@@ -87,3 +87,71 @@ At 12th level, a tome eater can devour a book or scroll as a move action. Additi
 This ability replaces shift focus, the implement gained at 6th level, magic circles, outside contact, binding circles, and fast circles.
 
 **Word Sense (Sp, Su)**: At 5th level, a tome eater is constantly under the effect of read magic. Additionally, she can automatically detect the general topic of a piece of writing, and whether that writing is a magical scroll or tome, simply by looking at it. If she spends 1 round concentrating on a text within 30 feet per 100 pages of the text, she can gain a sense of a text’s contents as if she had skimmed the text. This ability replaces aura sight.
+
+## Geomancer
+
+A geomancer studies every type of land, deriving power from the differences between types of terrain.
+
+**Class Skills**: A geomancer adds Knowledge (geography), Knowledge (nature), and Survival to his list of class skills instead of Disable Device, Knowledge (engineering), and Knowledge (religion). This alters the occultist’s class skills.
+
+**Geomantic Focus (Su)**: When a geomancer invests mental focus into his implements for the day, he can store some of it in the surrounding terrain. As long as he remains in physical contact with the terrain, he gains the survivalist resonant power and the ability to use the terrain stride, dominion, and wall of terrain focus powers as appropriate for his level. This alters mental focus.
+
+**Geomancy (Su)**: A geomancer learns one fewer implement school at 1st level. Instead, the spells that he knows are partially determined by the type of terrain he is currently in (and the level of spells he can cast). When he leaves a type of terrain, he loses knowledge of the spells that terrain grants and instead knows the spells granted by the new type of terrain he has entered. If a specific terrain falls into more than one category, the geomancer chooses which list of spells he receives when he enters the terrain. The spells at each spell level for the various types of terrain are listed below.
+
+**Cold**: 1st—frostbite, 2nd—frigid touch, 3rd—sleet storm, 4th—creeping ice, 5th—icy prison, 6th—freezing sphere.
+
+**Desert**: 1st—sun metal, 2nd—shifting sand, 3rd—cup of dust, 4th—fire shield, 5th—flame strike, 6th—sirocco.
+
+**Forest**: 1st—entangle, 2nd—tree shape, 3rd—speak with plants, 4th—arboreal hammer, 5th—tree stride, 6th—liveoak.
+
+**Jungle**: 1st—nauseating dart, 2nd—sickening entanglement, 3rd—venomous bolt, 4th—poison, 5th—snake staff, 6th— swarm skin.
+
+**Mountain**: 1st—stone fist, 2nd—stone call, 3rd—stone shape, 4th—obsidian flow, 5th—cave fangs, 6th—move earth.
+
+**Plains**: 1st—mount, 2nd—gust of wind, 3rd—plant growth, 4th—aspect of the stag, 5th—control winds, 6th—whip of ants.
+
+Planes (Other Than the Material Plane): 1st—endure elements, 2nd—rope trick, 3rd—blink, 4th—dimensional anchor, 5th— planar adaptation, 6th—plane shift.
+
+**Swamp**: 1st—mudball, 2nd—burst of nettles, 3rd—lily pad stride, 4th—slowing mud, 5th—insect plague, 6th— mass fester.
+
+**Underground**: 1st—expeditious excavation, 2nd—darkvision, 3rd—meld into stone, 4th—echolocation, 5th—suffocation, 6th—conjure black pudding.
+
+**Urban**: 1st—urban grace, 2nd—share language, 3rd—urban step, 4th—zone of silence, 5th—telepathic bond, 6th—statue.
+
+**Water**: 1st—air bubble, 2nd—slipstream, 3rd—water breathing, 4th—fluid form, 5th—geyser, 6th—control water. This alters implements.
+
+**Survivalist (Su)**: At 2nd level, a geomancer gains a +1 bonus on Survival checks for every point of mental focus invested in the terrain (to a maximum equal to his occultist level). This replaces magic item skill.
+
+**Terrain Stride (Su)**: At 5th level, as a swift action, a geomancer can expend 1 point of mental focus invested in the terrain to increase all of his movement speeds by 10 feet. At 5th level, the geomancer can expend 2 points of mental focus invested in the terrain to instead increase all of his movement speeds by 20 feet. This affects only movement speeds he already has. This replaces aura sight.
+
+**Dominion (Su)**: At 7th level, as a standard action, a geomancer can expend 1 or more points of mental focus invested in the terrain to infuse himself and each of his allies within 30 feet of him with the might of the land. Affected creatures gain a +1 morale bonus on attack rolls, damage rolls, and Fortitude saves for every point of mental focus expended. These bonuses last for 1 minute and can’t exceed one-quarter the geomancer’s occultist level. This replaces the focus power gained at 7th level.
+
+**Wall of Terrain (Sp)**: At 13th level, as a standard action, a geomancer can expend 3 points of mental focus invested in the terrain to fashion a solid wall of the surrounding terrain, no matter its actual composition. This functions as per wall of stone, using the geomancer’s occultist level as his caster level. By expending an extra point of generic mental focus, he can increase the hardness of the wall to 10 and give it an extra 5 hit points per inch of thickness. This replaces the focus power gained at 13th level.
+
+## Naturalist
+
+A naturalist eschews the contact with outsiders that other occultists use as the core of their work. Instead, he attunes his mind to the natural spirits that exist everywhere, just out of sight for the unawakened mind.
+
+**Class Skills**: A naturalist adds Knowledge (nature) to his list of class skills instead of Knowledge (planes). This alters the occultist’s class skills.
+
+**Natural Focus (Su)**: A naturalist can always hear the spirits of nature whispering in his ears, and sometimes those whispers contain helpful advice. As a free action, a naturalist can expend 1 point of generic mental focus before rolling an ability check, saving throw, or skill check to add 1d6 to the result. The naturalist must be conscious and aware to use this ability, and he can use this ability at most once per round.
+
+At 8th level, the naturalist’s natural focus die increases to 1d8, and at 16th level it increases to 1d10. This ability doesn’t function while the naturalist is wearing metal armor or using a metal shield (although he can wear a suit of armor or use a shield altered by the ironwood spell). This restriction is similar to the druid’s armor restriction. This alters mental focus and replaces magic circles and fast circles.
+
+**Tree Talker (Sp)**: At 8th level, a naturalist can cast speak with plants three times per day as a spell-like ability with a caster level equal to his occultist level. In addition, when the naturalist uses this power, he can whisper a message of 25 or fewer words to the surrounding plant life and designate a creature with which he is familiar. The next time that creature is on the same plane of existence and in an area of similar vegetation, it receives the message. This replaces outside contact.
+
+**Reflect on the Land (Sp)**: At 12th level, a naturalist can cast commune with nature once per day as a spell-like ability with a caster level equal to his occultist level. This replaces binding circles.
+
+## Occult Historian
+
+Many wilderness areas contain the remnants of ancient civilizations, with some waiting to be discovered and some held by fierce monsters or devious cults. An occult historian seeks these ruins not only for their esoteric artifacts but also to learn the structures’ secrets.
+
+**Ruin Reading (Su)**: At 2nd level, an occult historian can glean secrets from ruined structures. She must spend 1 minute examining and touching part of the structure (such as a wall or a doorframe). At the end of the minute, the occult historian attempts a Knowledge (history) check. If the ruin has been claimed as a lair for a creature, the DC of this check is equal to 10 + the CR of the most powerful creature in the ruin. If the ruin holds a magic item (or multiple magic items), the DC of this check is equal to 11 + the highest caster level of all the magic items in the ruin. If the occult historian succeeds at the check, she learns the layout of the area of the ruin within 30 feet of her (including any secret doors), as well as a piece of information about the structure’s history (as determined by the GM).
+
+At 5th level, the occult historian can see into a ruin’s past. This reveals the same information that can be gathered with the spell retrocognition, except the occult historian can use it only in ruins. If the occult historian succeeds at the check outlined above, she sees the events that occurred in the ruin over the past hour; for each minute she concentrates, she can see 1 additional hour into the ruin’s past. If the result of her check exceeds the DC by 5 or more, she can see the events that occurred over the past week, plus for 1 additional week per minute she concentrates. If the result of her check exceeds the DC by 10 or more, she can see the events of the past year, plus for 1 additional year per minute she concentrates. If the result of her check exceeds the DC by 20 or more, she can see the events of the past century, plus for 1 additional century per minute she concentrates.
+
+An occult historian can use ruin reading once per day, plus an additional time every 4 levels thereafter, to a maximum of five times per day at 18th level. This replaces object reading and aura sight.
+
+**Trap Sense (Ex)**: At 3rd level, an occult historian gains trap sense +1, as per the rogue class feature of the same name. This bonus improves by 1 for every 3 occultist levels gained after 3rd, to a maximum of +6 at 18th level. This replaces the focus power gained at 3rd level.
+
+**Crumbling Strike (Su)**: At 12th level, an occult historian can channel the erosion of countless ages into a single melee strike. As a full-round action, the occult historian can make a melee attack against a single target at her highest base attack bonus. If she hits, she deals 2d6 points of damage per occultist level she has (maximum 40d6). If the target succeeds at a Fortitude save (the save DC is equal to 10 + half the occult historian’s occultist level + her Intelligence modifier), it takes only 5d6 points of damage. A creature slain by this attack crumbles to dust. The occult historian can use this ability once per day, plus an additional time per day at 16th and 20th levels. This replaces outside contact 2, 3, and 4.

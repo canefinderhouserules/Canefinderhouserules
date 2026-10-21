@@ -103,3 +103,59 @@ This ability replaces uncanny dodge and improved uncanny dodge.
 When in animal form, the skald is treated as able to speak normally for the purpose of using raging song, but not for using other abilities that require speech (such as spellcasting). The skald uses his class level as his druid level for the purpose of qualifying for feats that affect wild shape (such as Wild Speech). This ability replaces spell kenning.
 
 **Rage Powers**: The following rage powers complement the totemic skald archetype: animal fury, beast totem (lesser, normal, and greater), knockback, knockdown, low-light vision, primal scent, scent, sprint, and swift foot.
+
+## Bacchanal
+
+Bacchanals are skalds who use ecstatic dancing and ribald songs to influence the primal instincts of listeners. To these skalds, the passionate frenzy of a celebration or feast shares many features with the violence of combat, and several of their talents blur the line between festival and battle in dramatic ways.
+
+**Fermented Fruit (Sp)**: A bacchanal adds goodberry to his list of 1st-level skald spells known. In addition, he can cast it as a spell-like ability once per day. When he casts goodberry as a spell or spell-like ability, the targeted berries ferment; this causes each berry to act as a serving of an alcoholic beverage. A creature that eats a fermented berry does not gain a meal’s nourishment, but it is cured of 1 point of damage and becomes slightly foolhardy as if tipsy, gaining a +1 bonus on saves against fear effects for 1 minute after eating the berry. This replaces Scribe Scroll.
+
+**Drunken Dancer (Su)**: At 2nd level, while maintaining a raging song, a bacchanal can consume a berry affected by goodberry, a potion, or a serving of alcohol as a move action that does not provoke attacks of opportunity. A berry affected by goodberry or a potion has its normal effect, while an alcoholic drink or a berry affected by goodberry via fermented fruit (see above) allows the skald to maintain his raging song that round without expending a round of raging song for the day (instead of the normal effects of the alcohol or fermented berry). For each alcoholic drink or fermented berry consumed while raging, the skald is nauseated for 1 round after his raging song ends. The internal fortitude rage power prevents this nauseated condition from occurring.
+
+At 7th level, when the bacchanal consumes an alcoholic drink or fermented berry while maintaining his rage song, he can gain the benefits of cure light wounds or remove fear (for the duration of the raging song) at his caster level by spending 2 rounds of raging song. At 12th level, the bacchanal can gain the benefits of heroism (for the duration of the raging song) in this manner. At 17th level, he can gain the benefits of persistent vigor (for the duration of the raging song) in this manner. This replaces versatile performance.
+
+**Raging Song (Su)**: A bacchanal gains access to the following raging songs.
+
+**Song of Urging (Su)**: At 3rd level, the bacchanal’s raging song can wordlessly influence creatures of the wild. This raging song functions just like a Diplomacy check to make a simple request or an Intimidate check but can influence only animals. The bacchanal rolls 1d20 and adds his skald level and his Charisma modifier to determine the urging check’s result. Bonuses and penalties that apply to wild empathy checks apply to these urging checks. The typical domestic animal has a starting attitude of indifferent, while wild animals are usually unfriendly. The song can influence plants or magical beasts with Intelligence scores of 1 or 2 as well as drunken creatures of any Intelligence (even without sharing a language), but against these nonanimals, the bacchanal takes a –4 penalty on this check. The bacchanal must continue to perform the song for the entire time required for the check; otherwise, its effect is wasted, but only 1 round of raging song is expended regardless of how long the check takes. This raging song replaces song of marching.
+
+**Maddening Dance (Su)**: At 10th level, the bacchanal’s raging song can compel a creature within 30 feet to perform an ecstatic dance. Unless it succeeds at its Will save, the victim becomes confused, takes a –2 penalty to its AC and on Reflex saving throws, and loses the benefit of any shield it holds. The effect ends when the target can no longer hear the bacchanal from within 30 feet. As an immediate action, an ally of the bacchanal within 30 feet can dance along as a full-round action (taking all penalties except the confused condition for that round) to allow the bacchanal to target an additional creature. A creature that succeeds at the Will saving throw against this raging song is immune to this effect for 24 hours. This is a compulsion, emotion, enchantment, and mind-affecting effect. This raging song replaces dirge of doom.
+
+**Rage Powers**: The following rage powers complement the bacchanal archetype: animal fury, boasting taunt, fearless rage, fierce fortitude, increased damage reduction, internal fortitude, liquid courage, night vision, roaring drunk, and staggering drunk.
+
+## Boaster
+
+Boasters use incredible tales and claims to challenge themselves and their allies to accomplish remarkable feats. With a properly delivered boast, a boaster can inspire listeners to attempt, and more often than not, succeed at stunts or tasks they may not have realized they were capable of doing.
+
+**Endurance**: The boaster gains Endurance as a bonus feat. This replaces Scribe Scroll.
+
+**Raging Song (Su)**: A boaster gains access to the following raging songs.
+
+**Song of Endurance (Su)**: At 3rd level, the boaster’s raging song can inspire his allies to great feats of endurance. This raging song functions as song of marching except affected allies also gain the benefits of the Endurance feat in addition to the benefits of any of the following feats the boaster has (even if they don’t meet the prerequisites): Deathless Initiate, Deathless Master, Deathless Zealot, Diehard, Fast Healer, Heroic Defiance, and Heroic Recovery. This raging song replaces uncanny dodge and alters song of marching.
+
+**Song of Surmounting (Su)**: At 7th level, the boaster’s raging song can inspire allies to move quickly and easily. By spending 1 round of raging song, the boaster can affect all allies within 90 feet for 1 hour. Affected allies gain a benefit according to the surrounding terrain (the benefits don’t stack): a climb speed equal to half their base speed (forest, jungle, mountain, underground), a swim speed equal to their base speed (swamp, water), or a +10 foot enhancement bonus to their base speed (cold, desert, hill, plains, or urban). The skald must continue to perform the song for the remainder of the hour; otherwise, its effects end, but only 1 round of raging song is expended for that hour. At 13th level, the speed or bonus granted by this ability doubles. At 19th level, this ability grants triple the listed speed or bonus. This raging song replaces lore master.
+
+**Frightful Boast (Su)**: At 14th level, the boaster’s raging song can frighten foes, as per the frightening tune bardic performance. This replaces song of the fallen.
+
+**Rage Power (Ex)**: The boaster does not gain this ability until 4th level. This alters the skald’s rage powers.
+
+**Greater Endurance**: At 6th level, the boaster gains a bonus feat that he qualifies for. The feat must have Endurance as a prerequisite (such as Diehard or Fast Healer). This replaces the rage power gained at 6th level.
+
+**Rage Powers**: The following rage powers complement the boaster archetype: boasting taunt, come and get me, fearless rage, fierce fortitude, intimidating glare, raging climber, raging flier, raging leaper, raging swimmer, sprint, strength surge, and swift foot.
+
+## Hunt Caller
+
+Hunt callers are skalds whose songs draw their allies into the animal world. They can invoke the inner beasts of those who observe their supernatural performances—a talent that causes many to mistake the hunt caller and her allies for lycanthropes or other shapechanging creatures.
+
+**Raging Song (Su)**: A hunt caller gains access to the following raging songs.
+
+**Song of the Senses (Su)**: At 2nd level, the hunt caller’s raging song unlocks animalistic senses in her allies. By spending 1 round of raging song, the hunt caller can affect all allies within 60 feet for 1 hour. The allies gain low-light vision and a +2 competence bonus on Perception and Survival checks. If an ally already has low-light vision, the range doubles. The skald must continue to perform the song for the remainder of the hour; otherwise, its effects end, but only 1 round of raging song is expended for that hour. This raging song replaces well-versed.
+
+**Call of the Wild (Su)**: At 6th level, the hunt caller’s raging song can transform herself and her allies within 60 feet into animalistic shapes, as per beast shape I (Small animals only) at her caster level. The same transformation applies to all targets. By spending 1 round of raging song per target, the hunt caller can affect any number of allies within 60 feet for 1 hour. When in animal form, the hunt caller is treated as able to speak normally for the purpose of using raging song, but not for using other abilities that require speech (such as spellcasting). The skald must continue to perform the song for the remainder of the hour; otherwise, its effects end, but only 1 round of raging song per target is expended for that hour.
+
+At 10th level, the hunt caller can instead choose a Medium animal shape. At 14th level, the hunt caller can choose shapechanger’s gift or the effects of beast shape II. At 18th level, she can choose the effects of beast shape III. This raging song replaces song of strength, song of the fallen, and the rage power gained at 18th level.
+
+**Wilderness Magic (Su)**: At 5th level and again at 11th level and 17th level, the hunt caller adds two spells of any level she can cast from the druid spell list to her class spell list and list of skald spells known. This replaces spell kenning.
+
+**Inspire Scent (Ex)**: At 6th level, the hunt caller gains the scent rage power. Her song of the senses and inspired rage raging songs both grant affected allies this rage power. This replaces the rage power gained at 6th level.
+
+**Rage Powers**: The following rage powers complement the hunt caller archetype: animal fury, battle roar, beast totem (lesser, normal, and greater), intimidating glare, low-light vision, no escape, primal scent, quick reflexes, sprint, and swift foot.

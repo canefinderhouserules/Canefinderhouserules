@@ -97,3 +97,71 @@ The wild child uses his brawler level as his effective druid level for determini
 **Maneuver Training (Ex)**: Whenever the wild child chooses a new maneuver for this ability, his animal companion also learns a trick to make use of this combat maneuver. For example, if the wild child chooses maneuver training (dirty trick), his animal companion also learns a trick that allows it to use the dirty trick combat maneuver. He cannot choose any tricks that rely on ranged attacks. This bonus trick doesn't count against the animal companion's total tricks known and does not take any time or checks to train. Should the wild child gain a new animal companion (such as if the previous one dies), this new animal companion begins with the same number of bonus tricks. This ability alters maneuver training.
 
 **Wild Tricks (Ex)**: The wild child has learned a number of tricks to aid his allies and his animal companion, as well as to hinder his opponents. At 5th level and every 3 levels thereafter, the wild child learns one hunter's trick. He cannot choose any tricks that rely on ranged attacks. The wild child can use these tricks a number of times per day equal to 1/2 his brawler level + his Constitution modifier. This ability otherwise follows the rules of the hunter's tricks ability, including all action costs. This ability replaces the bonus combat feats gained at 5th, 8th, 11th, 14th, 17th, and 20th levels.
+
+## Feral Striker
+
+A feral striker taps into a reservoir of druidic power hidden inside herself, allowing her to take animalistic characteristics.
+
+**Feral Aspect (Su)**: This functions as the shifter aspect class feature of the shifter, except the feral striker can choose only from the bear, bull, falcon, snake, stag, tiger, and wolf aspects. She has access to only the minor versions all these aspects.
+
+At 6th level, the feral striker can take on two minor aspects simultaneously as a move action. Each aspect counts toward her total number of minutes (so if a feral striker who normally has 9 total minutes of aspects takes on two aspects simultaneously for 4 minutes, she still has 1 minute remaining). She can end one or both aspects as a free action on her turn.
+
+At 10th level, the feral shifter adds her Constitution modifier to the total number of minutes per day in which she can use feral aspect.
+
+At 12th level, the feral striker can take on three aspects simultaneously as a move action or one or two aspects as a swift action.
+
+At 20th level, the feral striker can take on as many aspects as she wishes at once as a swift action, and they count as only one aspect for the purpose of calculating duration. This replaces martial flexibility.
+
+## Living Avalanche
+
+When a living avalanche is on the move, no one can stand in her way.
+
+**Earth Discipline (Ex)**: At 2nd level, a living avalanche gains Improved Overrun as a bonus feat, even if she doesn’t meet the prerequisites. At 5th level, she gains Improved Bull Rush as a bonus feat, even if she doesn’t meet the prerequisites. This replaces the bonus feats gained at 2nd and 5th levels.
+
+**Landslide (Ex)**: At 3rd level, a living avalanche must choose overrun as her first combat maneuver for maneuver training. At 7th level, she must choose bull rush as her second combat maneuver for maneuver training. She doesn’t gain training in any new combat maneuvers at later levels, but her bonuses on combat maneuver checks and to CMD for bull rush and overrun combat maneuvers increase as normal. She gains the following benefits at the listed levels.
+
+At 11th level, if she succeeds at an overrun combat maneuver as part of a charge, she automatically knocks her target prone (no matter the result of her check). In addition, if the living avalanche succeeds at a bull rush combat maneuver as part of a charge, she reduces the penalty combat maneuver checks to bull rush each creature beyond the first by 2.
+
+At 15th level, the living avalanche can attempt bull rush and overrun combat maneuvers against creatures two sizes larger than herself, but only as part of a charge. At 19th level, if the living avalanche succeeds at a bull rush combat maneuver as part of a charge, she reduces the penalty on combat maneuver checks to bull rush each creature beyond the first by an additional 2. When attempting an overrun combat maneuver as part of a charge, she also ignores any increase to a creature’s CMD from having more than two legs. This alters maneuver training.
+
+**Unyielding (Ex)**: At 4th level, when a living avalanche wears light armor or no armor, she gains DR 1/adamantine. This damage reduction increases by 1 at 9th, 13th, and 18th levels. This replaces the brawler’s AC bonus.
+
+**Avalanche (Ex)**: At 16th level, a living avalanche can attempt to overrun multiple creatures as a full-round action. The living avalanche moves up to twice her speed in a straight line and attempts an overrun combat maneuver against each creature in her path, as long as that creature is no more than two size categories larger than herself. Each creature she succeeds against is knocked prone and takes damage as if the living avalanche hit it with a close weapon she is wielding or an unarmed strike. If she fails her combat maneuver check against a creature, she stops her movement in the space directly in front of the creature. This replaces awesome blow.
+
+**Improved Avalanche (Ex)**: At 20th level, if a living avalanche rolls a natural 20 on an overrun combat maneuver check as part of the avalanche ability, she can immediately attempt to confirm the critical hit by attempting another combat maneuver check with the same modifiers as the previous one; if the critical hit is confirmed, the attack deals double damage. This replaces improved awesome blow.
+
+## Turfer
+
+A turfer has a mastery over particular types of terrain.
+
+**Favored Turf (Ex)**: At 3rd level, a turfer chooses a type of terrain from the ranger’s favored terrain list. When in that type of terrain, she gains a +2 bonus on initiative checks and a +1 bonus on combat maneuver checks and to CMD.
+
+At 7th level and every 4 brawler levels thereafter, the turfer chooses an additional terrain in which to gain these bonuses. Each time, in one selected terrain (including the one just chosen), her bonus on initiative checks increases by 2, and her bonus on combat maneuver checks and to CMD increases by 1. This replaces maneuver training.
+
+**Terrain Mastery (Su)**: At 4th level, a turfer gains the benefits of endure elements and a +10-foot enhancement bonus to her base speed, but only in her favored terrains. In addition, she can move through difficult terrain in her favored terrains at her normal speed without taking damage or suffering any other impairment, but she can’t do so through difficult terrain that has been magically manipulated. At 10th and 16th levels, her enhancement bonus to her base speed increases by 10 feet within her favored terrains. The turfer loses this ability if she wears medium or heavy armor or carries a medium or heavy load. This replaces knockout.
+
+## Venomfist
+
+Thanks to alchemical experiments and rigorous study of venomous creatures, a venomfist has toxic unarmed strikes.
+
+**Venomous Strike (Ex)**: A venomfist’s unarmed strikes deal damage as a creature one size category smaller (1d4 at first level for Medium venomfists). If she hits with her first unarmed strike in a round, the target must succeed at a Fortitude saving throw (DC = 10 + half the venomfist’s brawler level + her Constitution modifier) or take an additional amount of damage equal to the venomfist’s Constitution modifier. The venomfist is immune to this toxin.
+
+At 4th level, a target that fails this save must succeed at a second saving throw 1 round later or take the same amount of damage again. This effect repeats as long as the target continues to fail its saving throws, to a maximum number of rounds equal to 1 plus 1 additional round for every 4 brawler levels the venomfist has. Unlike other poisons, multiple doses of a venomfist’s poison never stack; the more recent poison effect replaces the older one.
+
+At 5th level, after the venomfist gets 8 hours of rest, she can choose a secondary effect for her venom to impose. She can choose fatigued, shaken, or sickened. A creature that fails its saving throw against her venom also gains the chosen condition until it succeeds at a save against the venom or until the venom’s duration ends. Once a creature succeeds at its save against the poison, it becomes immune to the secondary condition for 24 hours, but the attack still deals the extra damage.
+
+At 10th level, when the venomfist chooses the condition her venom imposes, she can also cause her venom to deal ability score damage each round instead of hit point damage. She chooses Strength, Dexterity, or Constitution, and her venom deals 1d3 points of ability score damage each round. In addition, she adds blinded, exhausted, and staggered to the list of secondary effects she can choose for her venom.
+
+At 16th level, the venomfist’s venom is particularly potent. If it fails the initial save, the target must succeed at two consecutive saves before being cured of the venom, though if the first save is successful, the secondary effect ends and the creature is immune to the secondary effects of the venomfist’s poison for 24 hours. In addition, the venomfist adds dazed and stunned to the list of secondary effects she can choose for her venom.
+
+This is a poison effect. The venomfist can’t suppress it, but she affects only those she damages with her unarmed strikes (not those she merely touches). This alters unarmed strike and replaces knockout and close weapon mastery.
+
+## Verdant Grappler
+
+By accepting spirits of nature into her soul, a verdant grappler can entangle her foes with tangled undergrowth.
+
+**Green Grasp (Su)**: At 2nd level, a verdant grappler gains Improved Grapple as a bonus feat. At 3rd level, she must choose grapple as her first combat maneuver for maneuver training. When she pins a creature, she can cause roots and vines to burst from the ground (no matter the surrounding terrain), allowing the verdant grappler to attempt to tie up the creature without needing to retrieve rope or use a hand to hold the rope; as usual, a tied-up creature is pinned and not helpless. The verdant grappler must remain within 30 feet of the tied-up creature, or the vines automatically release it. She can tie up only one creature at a time with green grasp. This replaces the bonus feat gained at 2nd level and alters maneuver training.
+
+**Thorny Embrace (Su)**: At 5th level, when a verdant grappler uses green grasp to tie up a creature, she can have the roots and vines grow vicious thorns that automatically damage the tied-up creature each round at the start of the verdant grappler’s turn. The thorns deal damage equal to the base unarmed strike damage of a brawler 4 levels lower than the verdant grappler. This replaces close weapon mastery.
+
+**Phytological Anatomy (Su)**: At 11th level, the verdant grappler transforms partially into a plant. She gains a +2 bonus on saving throws against mind-affecting, paralysis, poison, polymorph, sleep, and stunning effects. This replaces the combat feat gained at 11th level.

@@ -121,3 +121,63 @@ A psychic detective need not prepare her spells in advance. She can cast any psy
 **Phrenic Dabbler (Su)**: At 3rd level, a psychic detective gains a small pool of phrenic points equal to 1/2 her psychic detective level, as well as one phrenic amplification, as the psychic class feature. This does not allow the psychic detective to qualify for the Extra Amplification feat. This ability replaces the investigator talent gained at 3rd level.
 
 **Investigator Talents**: A psychic detective selects investigator talents as normal, except she cannot select the alchemist discovery investigator talent. She can select the Expanded Phrenic Pool* feat as a discovery even though she doesn’t meet that feat’s prerequisites, and she can select an extra phrenic amplification once as a discovery. The following investigator talents, from the Advanced Class Guide, complement the psychic detective archetype: confusing strike, device talent, effortless aid, hidden agendas, inspired intelligence, item lore, and unconventional inspiration. This ability alters investigator talents.
+
+## Cartographer
+
+Cartographers are eager trailblazers who explore uncharted terrain, study landmarks, and find new paths through the wilderness. They record this information meticulously so that those who follow in their footsteps can travel swiftly and safely within the studied area. Rather than studying poisons like many investigators do, cartographers use their alchemical expertise to create better inks that allow them to draw maps with incredible level of detail.
+
+**Studied Terrain (Ex)**: At 2nd level, a cartographer can expend one use of inspiration to sketch a map and take notes of his surroundings. Drawing the map takes 10 minutes. While he is within the studied area, the cartographer can use inspiration on Acrobatics, Climb, Fly, Ride, Stealth, Survival, and Swim checks without expending a use of inspiration, provided he is trained in the skill. If he already has the ability to use inspiration on any of these skills without expending a use of inspiration, he gains an additional +1 bonus on checks with that skill while in the studied area.
+
+A cartographer can draw three types of maps. He cannot combine different map types in the same map, and areas within range that would belong in the other categories are excluded.
+
+**Dungeon Map**: While indoors, underground, or in any other type of environment where visibility is limited by walls, the radius is 100 feet per level, and only areas that the cartographer has explored within the past 24 hours count as studied terrain. Areas explored after drawing the map do not retroactively become part of the studied terrain.
+
+**Overland Map**: In natural terrain, the radius of the mapped area is equal to 1 mile per investigator level. If he is unable to see the whole area, he extrapolates and uses his knowledge of geography to fill in the blanks.
+
+**Town Map**: While in an urban area or ruins, the radius is 1,000 feet per level or the entirety of the urban or ruined area, whichever is smaller.
+
+Much like alchemy, cartography requires materials, but the cost of those materials is negligible. However, knowing an area so well as to gain these benefits requires more than just paper and ink—a great deal of memorization and a bit of inspiration are also required. For this reason, a cartographer can maintain these benefits in only one area at a time. The benefits remain in effect until the cartographer studies a new area or refreshes his inspiration pool. This replaces poison lore and poison resistance.
+
+**Geographic Lore (Ex)**: At 3rd level, a cartographer gains a deeper understanding of wilderness terrain. Whenever he is on the Material Plane, he can determine where true north is as a full-round action. Furthermore, he can create and sell maps to earn a number of gold pieces per week of dedicated work equal to half his Knowledge (geography) check result per week. This replaces keen recollection.
+
+**Swift Travels (Ex)**: At 4th level, while in studied terrain, a cartographer intuitively knows the easiest, shortest, and fastest way through the wilderness. For the purpose of determining overland speed, the cartographer treats any trackless terrain as though he were on a trail, and he treats any terrain with a road or trail as though it were a highway. He can extend the benefit to up to one creature per investigator level traveling with him. This replaces swift alchemy.
+
+## Natural Philosopher
+
+Natural philosophers are scholars, explorers, and survivalists who feel at home in nature, seldom longing for the comforts of the city. They eschew the fancy tools and weaponry of gentlefolk detectives and instead employ weapons that double as tools, materials available in nature, and methods better suited for untamed wilderness.
+
+**Weapon and Armor Proficiency**: A natural philosopher is proficient with simple weapons, plus the handaxe, kukri, shortbow, throwing axe, and whip. A natural philosopher is proficient with light armor but not with shields. This replaces the investigator’s weapon and armor proficiency.
+
+**Class Skills**: A natural philosopher gains Survival as a class skill, but doesn’t gain Perform as a class skill. This alters the investigator’s class skills.
+
+**Natural Philosopher’s Inspiration (Ex)**: Natural philosophers employ a skill set suited to studying the natural world. A natural philosopher can use inspiration on Heal and Survival checks without expending a use of inspiration, provided he is trained in the skill, but cannot do so for Linguistics or Spellcraft checks. He can later trade an investigator talent for the ability to use inspiration on Linguistics and Spellcraft checks without expending a use of inspiration, provided he is trained in the skill. This alters inspiration.
+
+**Track (Ex)**: A natural philosopher adds half his level (minimum 1) on Survival checks to follow tracks. This replaces trapfinding.
+
+**Herbalism (Su)**: At 3rd level, a natural philosopher augments his knowledge of alchemy with herbal lore. He gains the infusion discovery and can use Knowledge (nature) in place of Craft (alchemy) and Profession (herbalist) checks. He also gains a competence bonus equal to his class level on Craft (alchemy) checks to create alchemical items, and he gains half that bonus on Profession (herbalist) checks to find herbs. This alters alchemy and replaces trap sense and the investigator talent gained at 3rd level.
+
+## Star Watcher
+
+Star watchers study the movements and positions of the sun, the moon, and the stars, searching for secrets written in the sky. They use a combination of scientific study and esoteric arts to measure, record, and predict astronomical cycles and their effects on nature, such as the moon’s influence on tides and rivers. Some star watchers also use these observations to predict fate and significant events, such as natural disasters.
+
+**Weapon and Armor Proficiency**: A star watcher gains proficiency with the starknife, but not with the rapier. This alters the investigator’s weapon and armor proficiency.
+
+**Astrology (Su)**: A star watcher studies a symbolic language of the heavens known as astrology. Equal parts art form and science, astrology can be used to read the future and affect it in subtle ways. Much like an alchemist or investigator, a star watcher collects formulae in a formula book. However, the formulae resemble star charts, and unlike alchemists or normal investigators, he uses these formulae along with personal details and astronomical measurements to make horoscopes—magical calculations stored much like scrolls—in which he can store spells. In many ways, the star watcher’s horoscopes function like extracts, with the following exceptions.
+
+A star watcher’s horoscope is always keyed to a specific creature that must be willing and present when the star watcher prepares the horoscope. Only the creature to which a horoscope is keyed can activate it and be affected by it. A horoscope is “cast” by reading it as a standard action, though a star watcher can draw and read a horoscope as a single standard action.
+
+A star watcher doesn’t gain a competence bonus on Craft (alchemy) checks to create alchemical items, and he cannot identify potions with that skill. Furthermore, a star watcher cannot select alchemist discoveries as investigator talents. A star watcher can study a wizard’s spellbook or alchemist’s formula book to learn formulae, but a star watcher’s formula book is too esoteric for anyone except another star watcher to learn spells from. This alters alchemy.
+
+**Starfinding (Ex)**: A star watcher adds half his level (minimum 1) as a bonus on Knowledge (geography) checks. He can also use astrological methods to read people. By checking his star charts, he can use Knowledge (geography) in place of Sense Motive checks. This replaces trapfinding and trap sense.
+
+**Investigator Talents**: A star watcher can select the following talents, in addition to general investigator talents.
+
+**Horoscopic Scrolls (Su)**: The star watcher gains Scribe Scroll as a bonus feat. He can use the feat to create an arcane scroll of any formula he knows. Unlike horoscopes created with the astrology ability, anyone capable of using arcane scrolls can cast a spell from these scrolls. Additionally, the star watcher can use scrolls as if he were an arcane spellcaster. He can use Knowledge (geography) to identify scrolls as if using detect magic. He must hold the scroll for 1 round to attempt such a check.
+
+**Precognition (Su)**: A star watcher can glimpse into the mysterious possibilities of the future and prepare a horoscope he knows he’ll need later. Once per day as a swift action, a star watcher can treat an open extract slot as though he had prepared a horoscope keyed to himself in it, choosing one formula of the appropriate level from his formula book. A star watcher must be at least 4th level to select this talent.
+
+**Returning Star (Ex)**: Whenever the star watcher uses a starknife as a thrown weapon against a target of his studied combat, the starknife automatically returns as if it had the returning property. The star watcher must have the shooting star investigator talent to select this talent.
+
+**Shooting Star (Ex)**: A star watcher can calculate trajectories with terrifying accuracy. He can apply the benefits of studied combat, studied strike, and investigator talents that add effects to studied combat or studied strike while using a starknife as a thrown weapon.
+
+Access to these additional talents replaces swift alchemy.

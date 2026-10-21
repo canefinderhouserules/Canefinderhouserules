@@ -403,3 +403,65 @@ If a shield with a celestial spirit is destroyed, the sacred shield loses the us
 **Improved Bastion**: At 11th level, the radius of a sacred shield’s bastion of good ability increases to 20 feet. This ability replaces the paladin’s aura of justice.
 
 **Perfect Bastion**: At 20th level, a sacred shield and her allies within 20 feet gain regeneration 10 against the target of her bastion of good ability (essentially regeneration that is overcome by any damage not caused by the target). This ability replaces the sacred shield’s holy champion ability.
+
+## Forest Preserver
+
+Forest preservers are sacred defenders of the woodlands and of the wild creatures and natural beauty within them.
+
+**Class Skills**: A forest preserver adds Climb, Knowledge (nature), and Survival to her list of class skills. She does not gain Diplomacy, Knowledge (nobility), or Sense Motive as class skills. This alters the paladin’s class skills.
+
+**Favored Terrain (Ex)**: At 3rd level, a forest preserver gains the ranger’s favored terrain ability but must select either forest or jungle as her favored terrain. The bonuses granted by this ability increase by 2 for every 5 levels after 3rd, but she does not gain additional favored terrains. This replaces aura of courage.
+
+**Woodland Stride (Ex)**: At 3rd level, a forest preserver (as well as her divine bond creature, if she has one) gains woodland stride, as per the druid class feature. This replaces divine health.
+
+**Sacred Botany (Ex)**: At 4th level, a forest preserver adds the following spells to her spell list: 1st—detect animals or plants, entangle, goodberry, shillelagh; 2nd—barkskin, eagle eye, tree shape, warp wood, wood shape; 3rd—diminish plants, plant growth, snare, speak with plants, spike growth; 4th—antiplant shell, awaken (trees only), blight, command plants, commune with nature, thorn body, tree stride, wall of thorns. In addition, she treats her caster level as 1 higher when casting these spells in her favored terrain. This replaces channel positive energy.
+
+**Fireproof Aura (Su)**: At 8th level, a forest preserver and creatures within 10 feet of her gain a +2 bonus on saving throws against fire effects and gain fire resistance 5; these are doubled for plant allies, which also gain evasion against fire effects only. Whenever a fire spell would affect a creature within the fireproof aura, the forest preserver can expend three uses of her lay on hands ability as an immediate action to attempt to counter the effect, as if she had readied a dispel magic spell (caster level = her paladin level) to counterspell. This ability functions only if the forest preserver is conscious. This replaces aura of resolve.
+
+**Sacred Grove (Su)**: At 11th level, a forest preserver can expend two uses of her smite evil ability to consecrate a 20-foot-radius area that must contain a living tree. This fills the area with dense undergrowth, though it does not impede her allies’ movement. In addition, animals, fey, and plants allied with the forest preserver gain a +1 sacred bonus on attack rolls, damage rolls, and saving throws, and animals, fey, and plants called or summoned within this area gain 1 hit point per Hit Die as long as the calling or summoning effect lasts or until the sacred grove effect ends (whichever comes first). If the area contains a shrine or hallowed area dedicated to a good-aligned deity (or at the GM’s discretion, a place of natural magical power, such as a natural portal to the First World), these bonuses are doubled.
+
+When she uses this ability in her favored terrain, she can also imbue plants in the area with limited animation, allowing them to obscure vision and impede movement and attacks as if the area were affected by solid fog.
+
+A sacred grove remains enhanced in this way for a number of minutes equal to the paladin’s level. This replaces aura of justice.
+
+**Aura of Preservation (Su)**: At 14th level, a forest preserver grants animals and plants within 10 feet spell resistance equal to 11 + her paladin level. This spell resistance doesn’t apply against harmless effects created by the forest preserver or allies within 10 feet of her. This ability functions only if the forest preserver is conscious. This replaces aura of faith.
+
+## Hunting Paladin
+
+Hunting paladins are tenacious trackers and stealthy stalkers in pursuit of evildoers.
+
+**Class Skills**: A hunting paladin adds Knowledge (nature), Perception, Stealth, and Survival as class skills. She does not gain Diplomacy, Heal, Knowledge (nobility), or Spellcraft as class skills. This alters the paladin’s class skills.
+
+**Weapon and Armor Proficiency**: A hunting paladin is not proficient with heavy armor. This alters the paladin’s armor proficiencies.
+
+**Hunt Evil (Su)**: Once per day, a hunting paladin can designate a single evil creature within her sight or one that she has determined to be evil by declaring it the target of her hunt and following its tracks; this allows her to add her Charisma modifier as a bonus on Survival checks to follow that creature’s tracks and on Perception and Stealth checks opposed by the target of her hunt. She can sense her target’s presence and location, which lets her pinpoint her target’s location when within 10 feet; if the target has concealment, she can roll twice and use the better result on rolls to determine whether she misses due to the concealment. She gains uncanny dodge as per the barbarian class feature against her target.
+
+If the hunting paladin targets a nonevil creature with hunt evil, the ability fails and it is wasted. This ability ends after 24 hours (unless she spends the next day’s use of this ability to continue hunting the same target), after the hunting paladin or the target is killed or when she designates a new target for her hunt. This replaces the use of smite evil gained at 1st level.
+
+**Detect Evil (Su)**: A hunting paladin cannot use this ability as a move action. However, when a hunting paladin has successfully followed a creature’s tracks for at least 1 minute, she can discern whether the tracked creature’s alignment was evil, as if she had cast detect evil in its presence and concentrated for 3 rounds. This alters detect evil.
+
+**Smite Evil (Su)**: A hunting paladin gains this ability at 4th level, and it functions at her paladin level – 3. She can expend a daily use of smite evil to gain an additional daily use of hunt evil. She can use smite evil and hunt evil against the same target. This alters smite evil.
+
+**Spells**: For each level of spell she can cast, a hunting paladin can prepare and cast one spell per day from the ranger spell list rather than the paladin spell list. This alters spells.
+
+**Tireless Aura (Su)**: At 8th level, a hunting paladin becomes immune to fatigue and sleep effects, and allies within 10 feet gain a +4 bonus on saving throws to avoid becoming fatigued or falling asleep. This replaces aura of resolve.
+
+## Wilderness Warden
+
+Wilderness wardens are vigilant guardians of natural places of all kinds, from mountain peaks to tangled thickets.
+
+**Class Skills**: A wilderness warden gains Climb, Knowledge (geography), Knowledge (nature), Survival, and Swim as class skills. She does not gain Diplomacy, Heal, Knowledge (nobility), or Spellcraft as class skills. This alters the paladin’s class skills.
+
+**Natural Defense (Su)**: At 2nd level, once per day, a wilderness warden can grant herself energy resistance 10 to cold, electricity, or fire and a +2 insight bonus to her CMD for a number of minutes equal to her paladin level. The energy resistance increases by 5 and the CMD bonus increases by 1 at 5th level and every 5 levels thereafter. This replaces divine grace.
+
+**Smite Evil (Su)**: A wilderness warden gains this ability at 4th level, and it functions at her paladin level – 3. She can expend a daily use of smite evil to gain an additional daily use of natural defense. She deals additional damage on her first successful attack when the target of her smite evil is an evil fey, humanoid (giant), magical beast, or monstrous humanoid, rather than an evil dragon, outsider (evil), or undead. This alters smite evil.
+
+**Aura of Comfort (Ex)**: At 3rd level, a wilderness warden is comfortable in nearly any climate, as if she were affected by a constant endure elements spell, and she and allies within 10 feet of her gain a +4 bonus on Constitution checks and saving throws to resist fatigue; exhaustion; and the effects of hunger, thirst, and hot or cold climates (including from magical effects). This replaces aura of courage.
+
+**Favored Terrain (Ex)**: At 3rd level, a wilderness warden selects a favored terrain, as per the ranger class feature. Every 6 levels after 3rd, she selects an additional favored terrain; each time she does so, the bonuses she gains in her previous favored terrain or terrains increase by 2. This replaces the mercies gained at 3rd level , 9th level, and 15th level.
+
+**Spells**: For each level of spell she can cast, a wilderness warden can prepare and cast one spell per day from the druid spell list rather than the paladin spell list. This alters the paladin’s spells.
+
+**Aura of Purity (Su)**: At 8th level, a wilderness warden gains immunity to poison. Each ally within 10 feet gains a +2 bonus on saving throws against disease and poison. This replaces aura of resolve.
+
+**Natural Shield (Su)**: At 11th level, a wilderness warden can expend two daily uses of her natural defense ability to grant the benefits of that ability to all nonevil allies within 10 feet for 1 minute. This replaces aura of justice.

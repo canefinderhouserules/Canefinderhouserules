@@ -474,3 +474,129 @@ Civilization grows stronger and more decadent with each passing year. It tears i
 **Rage Powers**: At 5th level, a wild stalker ranger gains a single rage power, as the barbarian class feature. He gains another rage power each five levels after 5th (to a maximum of four rage powers at 20th level). This ability replaces the ranger’s second, third, fourth, and fifth favored enemy abilities.
 
 **Wild Talents (Ex)**: At 6th level, a wild stalker can either take a rage power, or gains a +2 insight bonus into any one of the following skills: Acrobatics, Climb, Perception, Stealth, Survival, or Swim. The wild stalker can gain one of these two benefits again every five levels after 6th (to a maximum of 4 times at 20th level). This ability replaces the ranger’s 6th-, 1oth-, 14th-, and 18th-level combat style feat abilities.
+
+## Flamewarden
+
+Emulating the blazing phoenix, flamewardens sweep through the world like a selective forest fire, burning away corruption, evil, and those who cling to decay.
+
+**Touch of Flame (Su)**: At 4th level, a flamewarden can cause his weapons to burst into flame. As a standard action, the ranger can grant a single weapon he holds the flaming special ability for 1 minute; while under this effect, the weapon counts as magic for the purpose of overcoming damage reduction. A flamewarden can use this ability a number of times per day equal to 3 + his Wisdom modifier. At 12th level, weapons affected by this ability gain the flaming burst special ability instead. This replaces hunter’s bond.
+
+**Spells**: A flamewarden can prepare spells from the druid list that have the fire descriptor. This alters the ranger’s spells.
+
+**Stoking the Embers (Sp)**: At 9th level, a flamewarden can fan the last spark of a recently slain creature’s life force back into a full flame. Once per day as a standard action, a flamewarden can touch the corpse of a creature that has died within 1 round to grant it the effects of breath of life. This replaces evasion.
+
+**Burning Renewal (Su)**: At 12th level, a flamewarden can use the cleansing power of fire to remove afflictions from his body, mind, and soul. When the flamewarden takes 5 or more points of fire damage, he can remove one of the following conditions: fatigued, shaken, or sickened. Alternatively, he can remove 1 point of ability damage or drain from an ability score of his choice.
+
+If the flamewarden takes 10 or more points of fire damage, he can remove one of the following conditions: exhausted, frightened, or nauseated. Alternatively, he can remove 1d6 points of ability damage or drain from an ability score of his choice.
+
+The ranger can use this ability only once each time he takes fire damage, regardless of how much damage it deals over the required amount. He can use this ability a number of times per day equal to 3 + her Wisdom modifier.
+
+If the flamewarden has fire resistance or immunity to fire, fire damage he would have otherwise taken still counts toward activating burning renewal. This replaces camouflage.
+
+**Phoenix Rising (Su)**: At 16th level, if a flamewarden dies, his body explodes in a conflagration in a 20-foot spread. Each hostile creature in the area takes 10d6 points of fire damage unless it succeeds at a Reflex save (DC = 10 + half the ranger’s level + his Constitution modifier) for half damage. The flames don’t harm the flamewarden’s allies, who instead are healed 5d6 points of damage, and any poisons they are currently suffering are neutralized as per neutralize poison. The flamewarden’s body is reduced to ashes by the explosion.
+
+At 20th level, the flamewarden gains immunity to fire, and once per week, the flamewarden rises from the ashes of his own destruction 1 round after dying. The flamewarden’s body re-forms with all his equipment, and he returns to life with half his maximum hit points. Any ability scores that were 0 become 1, and nonmagical diseases and poisons are cured. A limited wish, miracle, or wish spell cast before he rises from the ashes prevents him from doing so, as does the area of an unhallow effect. This replaces improved evasion and master hunter.
+
+## Stormwalker
+
+Rangers who walk in the tempest unafraid draw the power of the storm into themselves and become stormwalkers.
+
+**Combat Style Feat (Ex)**: At 2nd level, a stormwalker must choose archery style. This alters the ranger’s combat style.
+
+**Thundershot (Su)**: At 4th level, a stormwalker can wreathe his weapon in lightning. As a standard action, he can grant a single weapon he holds the shock special ability for 1 minute; while under this effect, the weapon counts as magic for the purpose of overcoming damage reduction. A stormwalker can use this ability a number of times per day equal to 3 + his Wisdom modifier. At 12th level, weapons affected by this ability gain the shocking burst special ability. This replaces hunter’s bond.
+
+**Wind Treader (Ex)**: At 8th level, a stormwalker becomes immune to the effects of strong wind. He can move without hindrance in windy conditions, and his ranged attacks take no penalties from nonmagical wind. This replaces swift tracker.
+
+**Flash Step (Su)**: At 11th level, a stormwalker can move across the battlefield like a bolt of lightning. As a full-round action, he can transform into lightning and move to any unoccupied square within 60 feet without provoking attacks of opportunity. He can make a single ranged attack before or after this movement. This replaces quarry.
+
+**Control Weather (Sp)**: At 16th level, a stormwalker can cast control weather as a spell-like ability once per day. This replaces improved evasion.
+
+**Flash Shot (Su)**: At 19th level, when a stormwalker uses flash step, he can make a ranged attack both before and after his movement. Both of these attacks are made at his highest base attack bonus. This replaces improved quarry.
+
+## Summit Sentinel
+
+Some rangers eschew the path of the swift skirmisher and embrace the implacable strength of the mountain.
+
+**Roots of the Mountain (Su)**: At 2nd level, a summit sentinel gains Toughness as a bonus feat.
+
+Additionally, as a move action, she can enter a defensive stance for 1 minute. While in this stance, the summit sentinel’s speed is reduced to 5 feet, she gains a +2 enhancement bonus to her natural armor, and she gains a +2 bonus to her CMD against maneuvers that would move her or knock her prone. If the ranger loses contact with the ground or other solid surface, the stance ends immediately. The ranger can enter this stance a number of times per day equal to 3 + her Constitution modifier.
+
+At 6th level and every 4 levels thereafter, the enhancement bonus to natural armor increases by 1, and the bonus to CMD increases by 2. This replaces the ranger’s combat style feats.
+
+**Mountain Mastery (Ex)**: At 3rd level, a summit sentinel must select mountains as her favored terrain, and she does not gain additional favored terrains at higher levels. Every 5 levels beyond 5th, the bonus from this favored terrain increases by 2.
+
+At 8th level, a summit sentinel draws strength from the earth. When she and her target are both in contact with the ground or an earthen floor, the summit sentinel gains a +1 bonus on attack and damage rolls against the target. At 18th level, the bonus on attack and damage rolls increases to +2. This alters favored terrain.
+
+**Spells**: A summit sentinel adds stoneskin to the ranger spell list as a 4th-level spell. This alters the ranger’s spells.
+
+**Rockslide (Su)**: At 8th level, once per day as a standard action, a summit sentinel can create a rushing wave of earth and stone. The summit sentinel chooses a point on the ground or floor within 30 feet. Rippling waves of earth and stone emanate from the chosen point in a 25-foot cone in a direction of the summit sentinel’s choice. Each creature in the area takes 4d6 points of bludgeoning damage and is pushed to the end of the cone. A target that succeeds at a Reflex save (DC = 10 + half the ranger’s level + the ranger’s Wisdom modifier) takes half damage and is not pushed. This replaces swift tracker.
+
+**Invincible (Su)**: At 17th level, a summit sentinel takes on the unyielding hardness of the mountains. While in her roots of the mountain defensive stance, she is immune to critical hits and precision damage. This replaces hide in plain sight.
+
+## Tidal Hunter
+
+The tidal hunter draws strength from the fish and other wildlife of the deep.
+
+**Waterborn (Su)**: A tidal hunter can breathe water for up to 10 minutes per ranger level each day. At 6th level, he can breathe underwater indefinitely. This replaces wild empathy and the 6th-level combat style feat.
+
+**Keen Scent (Ex)**: A tidal hunter gains scent, as per the universal monster rule. At 12th level, while in water, the tidal hunter can detect particularly strong or distinct odors (such as blood) up to 1 mile away. This replaces track and camouflage.
+
+**Aquatic Mastery (Ex)**: At 3rd level, a tidal hunter must select water as his favored terrain, and he doesn’t gain additional favored terrains. At 8th level and every 5 levels thereafter, the bonus from this favored terrain increases by 2. This alters favored terrain.
+
+**Wave Rush (Ex)**: At 7th level, a tidal hunter gains a swim speed equal to his base speed. If he already has a swim speed, it increases by 10 feet. This replaces woodland stride.
+
+**Tidal Surge (Sp)**: At 16th level, a tidal hunter gains control over water, and he can use the tides to attack his foes. Once per day, he can cast tidal surge as a spell-like ability. This replaces improved evasion.
+
+## Toxic Herbalist
+
+Saviors and destroyers in equal measure, toxic herbalists use nature’s bounty to craft remedies and poisons.
+
+**Toxic Touch (Ex)**: A toxic herbalist studies the safe handling of deadly substances. He cannot accidentally poison himself when he applies poison to a weapon. This replaces wild empathy. Nature’s Mercy (Ex and Su): At 3rd level, a toxic herbalist’s knowledge of the natural world offers respite from wounds and illness. Once per day, he can spend 1 hour in a wilderness area gathering herbs and other natural materials and combine them into a medicinal poultice—this hour can be integrated with the hour required for the ranger to prepare spells. Placing the poultice on a wound or ingesting it is a standard action; the creature receiving the poultice heals a number of hit points equal to 1d6 + the ranger’s Wisdom modifier.
+
+At 8th level and every 5 levels thereafter, the ranger creates one additional poultice when using this ability, to a maximum of four at 18th level. Poultices remain potent for 1 hour.
+
+Additionally, at 8th level, the poultice neutralizes one poison affecting the recipient, as per neutralize poison. At 13th level, it also attempts to cure one disease affecting the recipient, as per remove disease. The caster level of both of these effects is equal to the toxic herbalist’s level. These additional effects are supernatural effects. This replaces endurance.
+
+**Sudden Onset (Ex)**: At 4th level, a toxic herbalist can administer a poultice he created via nature’s mercy or poison a weapon as a swift action. Additionally, the toxic herbalist adds the following spells to the ranger spell list at the indicated spell levels: 1st—nauseating dart, ray of sickening; 2nd—pernicious poison, pox pustules; 3rd— poison, toxic gift; 4th—absorb toxicity, cloudkill. This replaces hunter’s bond.
+
+**Grim Harvest (Ex)**: At 8th level, a toxic herbalist can spend 1 hour foraging for poisonous substances to create a dose of poison (this hour can be integrated with the hour required to prepare spells or poultices). The toxic herbalist rolls 1d20 and adds his ranger level and his Intelligence modifier. The DC of this check is equal to the Craft DC of the poison he wishes to create. If he succeeds at this check, the ranger creates 1 dose of the chosen poison. The poison remains potent for a number of hours equal to the toxic herbalist’s level, regardless of the means used in attempts to preserve it, and it can’t be sold. This ability functions only while the toxic herbalist is within one of his favored terrains. This replaces swift tracker.
+
+**Potent Venom (Ex)**: At 11th level, a toxic herbalist’s poisons become even deadlier. When he poisons a favored enemy, the DC of the poison’s saving throw increases by half the toxic herbalist’s favored enemy bonus against that target. This replaces quarry.
+
+**Poisonous Reaper (Ex)**: At 19th level, a single dose of poison on a toxic herbalist’s weapon remains potent for the entirety of a full attack, instead of for a single strike. This replaces improved quarry.
+
+## Wilderness Explorer
+
+Wilderness explorers are adept at making peaceful contact with remote societies.
+
+**Class Skills (Ex)**: A wilderness explorer gains Diplomacy and Knowledge (local) as class skills, but he does not gain Intimidate or Knowledge (dungeoneering) as class skills. This alters the ranger’s class skills.
+
+**Cultural Contact (Ex)**: A wilderness explorer gains the ability to communicate with creatures with which he doesn’t share a common language. Only basic concepts can be conveyed or understood, such as “I need help,” “I come in peace,” “Come over here,” “Go over there,” and the like. This allows the wilderness explorer to ignore the common language requirement of social interaction and language-dependent spells and effects, but he can do so only when the information being shared is relatively simple. The creature with which the wilderness explorer communicates must understand at least one language for this ability to function.
+
+Additionally, a wilderness explorer can peacefully influence the initial attitude of humanoids that have Intelligence scores of 2 or lower. This ability functions just like wild empathy, but it works on humanoids instead of on animals. The wilderness explorer can also use this ability to influence a monstrous humanoid with 2 or lower Intelligence, but the wilderness explorer takes a –4 penalty on the check. This replaces wild empathy.
+
+**Hazard Sense (Ex)**: At 4th level, a wilderness explorer gains an intuitive understanding of natural hazards and traps fashioned from a natural environment. He gains a +1 bonus on Reflex saves against natural hazards and wilderness traps and a +1 dodge bonus to AC against attacks from wilderness traps. This bonus increases by 1 at 8th level and every 4 levels thereafter. This replaces hunter’s bond.
+
+**Indigenous Spirit (Su)**: At 8th level, a wilderness explorer attracts the aid of native spirits, which reward his appreciation of their home with whispered warnings. The wilderness explorer gains uncanny dodge as long as he remains within one of his chosen favored terrains. This works like the barbarian ability of the same name. This replaces swift tracker and alters favored terrain.
+
+**Guardian Spirit (Su)**: At 11th level, a wilderness explorer gains the aid of indigenous spirits, which favor him when he is defending himself against multiple foes that surround him. He gains improved uncanny dodge; this ability functions only while the ranger is within one of his favored terrains. This replaces quarry and alters favored terrain.
+
+**Manifest Spirit (Su)**: At 19th level, a wilderness explorer is shielded from magic by those guardian spirits that favor him. He gains spell resistance equal to 11 + his ranger level. This ability functions only while the wilderness explorer is within one of his favored terrains. This replaces improved quarry and alters favored terrain.
+
+## Wild Soul
+
+Hailing from primitive roots in the wild, some rangers venture to more civilized lands and learn their ways. Wild souls carry these more refined teachings back to the frontier lands of their birth, and they employ that knowledge in defense of their homes.
+
+**Unfettered Soul**: A wild soul swears to himself never to make use of advanced technology, alchemy, arcane magic, or firearms. He also must oppose their use on his person, refusing to be a willing target and attempting a saving throw if possible (even if the effect is harmless or beneficial). Violating this oath causes a wild soul to lose the abilities granted by this archetype until he atones.
+
+**Nemesis (Ex)**: A wild soul gains a +2 bonus on Intimidate, Knowledge, Perception, Sense Motive, Spellcraft, and Survival checks against creatures that wield advanced technology, alchemical weapons (including an alchemist’s bombs), or firearms and against those that cast arcane spells (this does not apply to creatures that use spell-like abilities). Likewise, he gains a +2 bonus on weapon attack and damage rolls against such opponents. The wild soul can attempt Craft (alchemy), Knowledge (arcana), and Spellcraft checks untrained when attempting to identify enemy magic or advanced technology.
+
+At 5th level and every 5 levels thereafter, these bonuses increase by 1 (to a maximum of +5 at 20th level). This replaces favored enemy.
+
+**Nemesis Defense (Ex)**: At 8th level, a wild soul adds his nemesis bonus on saving throws against advanced technology, alchemical items (including an alchemist’s bombs and extracts), and arcane spells. He also adds this bonus to his AC against advanced technological items, alchemical items (including alchemist bombs), arcane spells that require attack rolls, and firearms. This replaces swift tracker.
+
+**Break the Interloper (Su)**: At 11th level, when a wild soul hits an arcane spellcaster, a creature with extract slots, or a creature with grit (but not grit-like pools such as panache) with a weapon attack, the target either loses its highest-level available spell or extract slot or loses 1 point of grit, and the wild soul gains 5 temporary hit points. A target of this ability can negate this effect with a successful Fortitude save (DC = 10 + half the ranger’s level + his Wisdom modifier). Regardless of the outcome of the saving throw, the target is immune to this ability for 24 hours. This replaces quarry.
+
+**Dizzying Onslaught (Ex)**: At 19th level, a wild soul lands punishing blows that devastate his nemeses’ ability to focus. When he confirms a critical hit against a creature against whom his nemesis bonus applies, for 1 minute the target must succeed at a concentration check (DC = 20 + the wild soul’s Wisdom modifier + twice the spell’s level) to cast an arcane spell, create an extract, or use an alchemist’s bomb, and the target can’t spend or gain grit. This replaces improved quarry.
+
+**Nemesis Slayer (Ex)**: At 20th level, a wild soul becomes death incarnate to his nemeses. As a standard action, he can make a single attack against a nemesis at his full attack bonus. If the attack hits, the target takes damage normally and must succeed at a Fortitude save (DC = 10 + half the wild soul’s level + his Wisdom modifier) or die. The wild soul can instead deal an amount of nonlethal damage equal to the creature’s current hit points, which the target can negate with a successful save at the same DC. The ranger can use this ability up to five times per day, but he cannot use it against the same creature more than once in a 24-hour period. This replaces master hunter.

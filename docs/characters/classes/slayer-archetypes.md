@@ -125,3 +125,57 @@ Vanguards are battlefield commanders who focus on the brutality of combat and le
 **Ever Ready (Ex)**: At 7th level, a vanguard is never considered an unaware combatant (Core Core Rulebook) and is always able to act in the surprise round. The vanguard is still flat-footed in the surprise round until he acts. This ability replaces stalker. Slayer Talents: The following slayer talents complement the vanguard archetype: combat trick, finesse rogue, hard to fool, rogue crawl, surprise attack, terrain mastery, and weapon training.
 
 **Advanced Slayer Talents**: The following advanced slayer talents (and advanced rogue talents) complement the vanguard archetype: feat, opportunist, slayer camouflage*, and unwitting ally. (Those with asterisks [*] are detailed in the [slayer class](slayer.md).)
+
+## Avalancher
+
+Avalanchers attack from overhead cliffs and mesas like a landslide of arrows and blades.
+
+**Falling Strike (Ex)**: An avalancher excels at dropping onto opponents from higher ground. He gains a +1 bonus on Stealth checks and attack and damage rolls when he falls at least 10 feet before attacking an opponent. These bonuses stack with any bonuses the avalancher receives for charging or attacking from higher ground.
+
+At 5th, 10th, 15th, and 20th levels, the bonuses from falling strike increase by 1. This replaces studied target.
+
+**Cliff Jumper (Ex)**: An avalancher adds half his level on Acrobatics checks to jump or soften a fall. Whenever he attempts an Acrobatics check to soften an intentional fall, he reduces the falling damage he takes by an additional 1d6 for every increment of 10 by which his Acrobatics check result exceeds the DC (a 2d6 reduction at DC 25, 3d6 at DC 35, and so on). At 11th level, the avalancher reduces the DC of his Acrobatics checks to soften a fall by 5. This replaces track and swift tracker.
+
+**Falling Dodge (Ex)**: At 7th level, an avalancher gains his bonus to AC from the falling strike ability when a jump or fall carries him through threatened squares. This bonus applies only when he’s jumping, not when he’s using Acrobatics to try to avoid attacks of opportunity from moving through threatened squares. This replaces stalker.
+
+**Fall-By Attack (Ex)**: At 14th level, if the avalancher makes a single jump of at least 20 feet in any direction and lands at an elevation at least 10 feet lower than his starting elevation, he can make ranged or melee attacks during his fall as if he were making a full-round attack. He can make any number of attacks in any combination of squares along this single jump, up to his maximum number of attacks, but he can attack a given creature once at most. If the avalancher attempts a jump but fails the Acrobatics check, he makes no attacks and suffers the consequences of his failed jump normally. At 19th level, he can add his extra damage from sneak attack against each creature he hits while using this ability, even if the targets have acted in combat or retain their Dexterity bonuses to AC. This replaces quarry and improved quarry.
+
+**Death from Above (Ex)**: At 20th level, an avalancher can take down his foe with a single attack. During a round, if he falls at least 10 feet (the action type depends on how he comes to be falling), he can make a single attack at his full base attack bonus as a standard action, choosing one of the following effects: kill, knock unconscious for 1d4 hours, or paralyze for 2d6 rounds. If the attack hits, the target takes damage normally and must succeed at a Fortitude save or suffer the additional effect. The save DC is equal to 20 + 1 for every 10 feet the avalancher fell before making the attack (to a maximum of DC 30 for a fall of 100 feet or more). Whether or not the target succeeds, it can’t be targeted by this ability again (by any avalancher) for 24 hours. This replaces master slayer.
+
+## Dune Rider
+
+Mounted harriers, saboteurs, and skirmishers, dune riders can disrupt even the most organized opposition.
+
+**Sand Foot (Ex)**: The dune rider adds half his level as a bonus on Ride checks in warm deserts, hills, and mountains. At 11th level, the dune rider and his mount no longer treat sand or rocky ground as difficult terrain, and they gain a +10-foot enhancement bonus to their base speed in warm deserts, hills, and mountains. This replaces track and fast tracker.
+
+**Desert Skirmisher (Ex)**: The dune rider excels in combat in warm deserts, hills, and mountains. While in such terrain, he gains a +2 bonus on initiative, Perception, and Stealth checks, and a +1 bonus on attack and damage rolls. At 5th level and every 5 levels thereafter, the bonus on initiative, Perception, and Stealth checks increases by 2 (maximum +10) and the bonus on attack and damage rolls increases by 1 (maximum +5). This replaces studied target.
+
+**Galloping Fire (Ex)**: At 4th level, the penalties for the dune rider’s ranged attacks while mounted decrease by 2. These penalties decrease by an additional 2 at 7th level. This replaces stalker and the slayer talent normally gained at 4th level.
+
+**Dust Vision (Ex)**: At 8th level, the dune rider is at home in the desert. He exists comfortably in hot conditions up to 140º Fahrenheit without having to attempt Fortitude saves. His equipment is likewise protected. He takes no penalties on Perception checks from blowing sand, dust, or heat shimmers, nor do these effects grant concealment to the dune rider’s enemies within 30 feet. Effects that would grant total concealment work normally. This replaces the slayer talent normally gained at 8th level.
+
+**Dunes of Death (Su)**: At 20th level, a dune rider can use the desert’s heat to finish off his foes. As a standard action, he can make a single attack at his full base attack bonus while in warm desert, hills, or mountains, choosing one of the following effects: kill, knock unconscious for 1d4 hours, or paralyze for 2d6 rounds. If the attack hits, the target takes damage normally and must succeed at a Fortitude save or suffer the additional effect. The DC of this save is 20 + the dune rider’s Intelligence modifier. Whether or not the target succeeds, it can’t be targeted by this ability again for 24 hours. This replaces master slayer.
+
+## Guerrilla
+
+Slayers characterized by cunning and patience, guerrillas specialize in ambush and harassment of enemies.
+
+Strike First, Strike Last (Ex): A guerrilla adds half his level on Stealth checks when remaining motionless and reduces the penalty on Stealth checks when sniping by an equal amount. He also gains this bonus on his initiative checks in surprise rounds whenever he is aware of the surprise round and at least one enemy is unaware. This replaces track and swift tracker.
+
+**Quick Start (Ex)**: At 6th level, the guerrilla can take a normal charge action during the surprise round, rather than a charge with half the usual distance. This replaces the 6th-level slayer talent.
+
+**Astonishing Strike (Ex)**: At 14th level, when the guerrilla deals sneak attack damage to a target of his studied target ability during the surprise round, that target is denied its Dexterity bonus to AC against attacks from the same guerrilla until the end of the guerrilla’s next turn. When the guerrilla reaches 19th level, this ability works any time he deals sneak attack damage to a target of his studied target ability during the first round of combat, whether or not it’s a surprise round. This replaces quarry and improved quarry.
+
+## Woodland Sniper
+
+Woodland snipers are guardians of forest and grove, keeping vigil on their borders and hunting bounties and trespassers from the shelter of sturdy branches.
+
+**Tree Climber (Ex)**: A woodland sniper adds half his level to Acrobatics and Climb checks to move between, through, or up trees. With a successful DC 15 Acrobatics check, he can make ranged attacks with bows while balancing on branches. This replaces track.
+
+**Ranged Sneak Attack (Ex)**: At 3rd level, whenever a woodland sniper makes a ranged attack against a creature within 30 feet that is denied its Dexterity bonus to AC (whether the target actually has a Dexterity bonus or not), he deals an additional 1d6 points of damage. This damage increases by 1d6 every 3 levels thereafter. Should the woodland sniper score a critical hit with his ranged attack, this additional damage is not multiplied. A woodland sniper cannot use sneak attack with a melee attack.
+
+At 6th level and every 3rd level thereafter, the range at which he can make a sneak attack increases by 10 feet. This alters sneak attack.
+
+**Still Shot (Ex)**: At 7th level, when he has cover provided by one or more trees, the woodland sniper reduces the penalty on Stealth checks to remain hidden while sniping by half his slayer level. This replaces stalker.
+
+**Branchwalking (Ex)**: At 11th level, the woodland sniper gains a climb speed equal to his base speed. In addition, at 13th level, he can move from one tree to another via connecting branches by adding 5 to the DC of an Acrobatics or Climb check to move within the canopy. The woodland sniper cannot end his movement on a branch that cannot support his weight. This replaces swift tracker and slayer’s advance.

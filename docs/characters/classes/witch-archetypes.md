@@ -215,3 +215,65 @@ Eyes wide with terror, they scrambled backward down the temple corridor, staves 
 Oloch roared a laugh. “See, little man? Cowards can never stand before a true warrior.”
 
 “Yes.” Meligaster lowered
+
+## Flood Walker
+
+Witches who dwell in floodplains or along the banks of predictably dangerous rivers can tap into the underlying potential of surging waters in order to enhance their eerie powers.
+
+**Alignment**: Flood walkers exult in the final gasp for air of a drowning victim and must be evil in alignment. A flood walker who becomes nonevil loses access to all abilities granted by this archetype but does not regain any abilities this archetype replaced.
+
+**Class Skills**: A flood walker gains Survival and Swim as class skills but does not gain Fly and Heal as class skills. This alters the witch’s class skills.
+
+**Patron Spells**: Regardless of which patron a flood walker selects, he replaces some of his patron spells with the following: 4th—aboleth’s lung, 10th—suffocation, 16th— seamantle, 18th—mass suffocation. This alters the witch’s patron spells.
+
+**Gasping Breath Aura (Su)**: A creature attempting to hold its breath within 30 feet of a flood walker is treated as having taken a standard or full-round action when determining how long it can hold its breath, regardless of the number and type of actions it takes in a round. At 5th level, increase the DC of Swim checks attempted within 30 feet of the flood walker by 5, and creatures actively engaged in combat or a similarly strenuous activity use air twice as quickly within the aura. The flood walker can exempt creatures within this aura from these increased penalties. This replaces the hex gained at 1st level.
+
+**River Stride (Su)**: At 6th level, a flood walker and his familiar can walk on the surface of water and other liquids as if under the effects of a water walk spell. The flood walker chooses at the beginning of his turn each round whether this ability is active or suppressed (for himself and his familiar separately), allowing him to walk on water or swim. This replaces the hex gained at 6th level.
+
+**Breath Siphon (Su)**: At 10th level, a flood walker gains strength from his patron when creatures suffocate or drown. Whenever a creature with an Intelligence of 3 or higher asphyxiates or drowns within 30 feet of him, the flood walker gains the benefit of a death knell spell for 1 hour. If a flood walker drowns such a victim himself (such as by holding a grappled or helpless creature under water until it dies or by killing it with a suffocation spell), the duration is doubled, and the flood walker gains 4d8 temporary hit points and a +6 enhancement bonus to Strength instead of the usual temporary hit points and enhancement bonus to Strength from death knell. Like death knell itself, this is an evil act. This replaces the hex gained at 10th level.
+
+**Hexes**: The following witch hexes complement the flood walker archetype: blight, prehensile hair, swamp hag, water lung.
+
+**Major Hexes**: The following major hex complements the flood walker archetype: weather control.
+
+**Grand Hexes**: The following grand hex complements the flood walker archetype: natural disaster.
+
+## Herb Witch
+
+Some witches dedicate their lives to the mastery of herb lore. Herb witches brew foul-tasting medicines, sweet poisons, and other concoctions from the untamed plants of the wild.
+
+**Patron Spells**: An herb witch must choose a patron with a theme compatible with the needs of the natural world, selected from the following list: ancestors, animals, death, elements, healing, plague, strength, time, water, winter, wisdom, or woodlands. This alters the witch’s patron spells.
+
+**Herb Lore (Ex)**: Herb witches are masters of herbalism, and they can use what they gather from garden or grove to duplicate many of the effects of alchemy. An herb witch can attempt Profession (herbalist) checks in place of Craft (alchemy) checks, and she gains a bonus on Profession (herbalist) checks equal to half her class level.
+
+Herb witches are adept at brewing thick herbal cure-alls called remedies. An herb witch prepares these remedies while communing with her familiar, during which she can prepare a number of remedies equal to 3 + her Intelligence modifier (minimum 1 remedy). A remedy becomes inert if it leaves the herb witch’s possession, reactivating as soon as it returns to her keeping. A witch can never have more remedies than 3 + her Intelligence modifier.
+
+As a standard action, the herb witch can administer a remedy to herself or a creature within reach which consumes the remedy. The herb witch attempts a Profession (herbalist) check against the save DC of any one disease or poison currently afflicting the consumer. If she is successful, the affliction is suppressed for 1 minute. At 10th level, if she exceeds the DC of the check by 10 or more, the affliction immediately ends. If the disease or poison doesn’t allow saving throws, the remedy is ineffective.
+
+An herb witch can also use a remedy to attempt to remove the blinded, deafened, fatigued, nauseated, sickened, and staggered conditions. This requires a Profession (herbalist) check with a DC equal to the spell or effect that caused the condition, or a DC 25 check if the condition was caused by an effect that doesn’t allow a saving throw. If the herb witch succeeds, the condition is removed unless the condition is permanent; at 10th level, if the herb witch succeeds by 10 or more, her remedy can remove a permanent condition.
+
+Only a single condition, disease, or poison can be removed with each application of a remedy, and a creature can only benefit from one herbal remedy each day, whether or not the herb witch succeeds at her skill check. This replaces the hexes gained at 1st and 10th levels.
+
+**Hexes**: An herb witch must select cauldron as her hex at 2nd level. The following witch hexes complement the herb witch archetype: fortune, healing, poison steep, swamp hag.
+
+**Major Hexes**: The following major hexes complement the herb witch archetype: major healing, weather control, witch’s brew.
+
+**Grand Hexes**: The following grand hex complements the herb witch archetype: life giver.
+
+## Season Witch
+
+Season witches gain their power from the cyclical and mystical exchange of energy passed from one season of nature to another. Often, season witches carry bitter grudges against their fellow witches, with many believing that the season prior to their chosen focus is inferior and the season that replaces their favored time is an usurper of time, but at other times season witches work together, understanding that all are a part of the cycle of the natural world.
+
+**Season of the Witch (Su)**: A season witch observes the cycles of life through symbolic festivals and the very real passage of time. Their covens celebrate the seasons and their impact on magic. These seasonal cycles alter their magic and mind-set, focusing their spells and hexes on a predominant energy type and philosophy.
+
+A season witch makes a commitment to embody the sacred symbolism of a season year round, and learns her spells through communion with nature, divining secrets from shapes in the clouds or the play of leaves on the wind. At 1st level, a season witch chooses the season that defines her abilities as her patron; this choice also provides her certain benefits. A spring witch has dominion over the renewing spirit of life and youth. The save DCs of her spells that deal electricity damage increase by 1. At 1st level, she gains either the charm hex or disguise hex as a bonus hex.
+
+A summer witch has dominion over growth, the harvest, and toil. The save DCs of her spells that deal fire damage increase by 1. At 1st level, she gains either the fortune hex or misfortune hex as a bonus hex.
+
+An autumn witch has dominion over the provision of the land and the passing of life. The save DCs of her spells that deal acid damage increase by 1. At 1st level, she gains either the blight hex or slumber hex as a bonus hex. A winter witch has dominion over hearth and home. The save DCs of her spells that deal cold damage increase by 1. At 1st level, she gains either the healing hex or ward hex as a bonus hex. This alters patron and the hex gained at 1st level.
+
+**Hexes**: The following hexes complement the season witch archetype: flight (spring), summer’s heat (summer), poison steep (autumn), no place like home (winter).
+
+**Major Hexes**: The following major hexes complement the season witch archetype: speak in dreams (spring), agony (summer), hoarfrost (autumn), major healing (winter).
+
+**Grand Hexes**: The following grand hexes complement the season witch archetype: forced reincarnation (spring), natural disaster (summer), death curse (autumn), life giver (winter).
