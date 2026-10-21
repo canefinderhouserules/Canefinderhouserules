@@ -16,7 +16,11 @@ The cavalier can use this ability an additional time per day at 10th level and e
 
 At 15th level, the cavalier can use wild mount shape to change his mount into a Medium or Large dragon. When taking this form, the cavalier's wild mount shape now functions as form of the dragon I, except as above.
 
-**Ferocious Charge (Ex)**: At 15th level, the cavalier is the embodiment of nature's fury. When the cavalier charges a creature, he can attempt an Intimidate check to demoralize his enemy as a free action. If he succeeds, the target is frightened. Cavalier ARCHE TYPE The following is a new cavalier archetype. Cavaliers of any order can take this archetype, though it's not suited for orders that bolster the power of mounted combat.
+**Ferocious Charge (Ex)**: At 15th level, the cavalier is the embodiment of nature's fury. When the cavalier charges a creature, he can attempt an Intimidate check to demoralize his enemy as a free action. If he succeeds, the target is frightened.
+
+## New Cavalier Archetype
+
+The following is a new cavalier archetype. Cavaliers of any order can take this archetype, though it's not suited for orders that bolster the power of mounted combat.
 
 ## Daring Champion
 

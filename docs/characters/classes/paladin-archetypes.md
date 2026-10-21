@@ -366,8 +366,6 @@ At 4th level, and every three levels thereafter, the holy tactician may use weal
 
 ## Knight of the Sepulcher
 
-(ARCHETYPE)
-
 Not content with the antipaladin’s mere corruption of the soul, the knight of the sepulcher sacrifices mortality along with morality.
 
 The knight of the sepulcher archetype is available only to the antipaladin alternate class.
