@@ -191,7 +191,7 @@ This small opaque flask releases a thick stream of coarse white fur when opened.
 **Aura** moderate conjuration; **CL** 11th  
 **Slot** none; **Price** brazier of conjuring fire elementals; **Weight** 5 lbs.
 
-The surface of this stick of white chalk is covered with silvery runes. Drawing a line with the chalk creates a *wall of force* that is as long as the line and extends 10 feet perpendicular to the surface on which the line was drawn. Drawing a 5-foot line is a standard action that provokes acts of opportunity. Each wall lasts as a swift action by touching the stick of chalk to it. One stick of *boundary chalk* can draw 100 feet of line before it is used up, and it must be used in 5-foot increments.
+The surface of this stick of white chalk is covered with silvery runes. Drawing a line with the chalk creates a *wall of force* that is as long as the line and extends 10 feet perpendicular to the surface on which the line was drawn. Drawing a 5-foot line is a standard action that provokes acts of opportunity. Each wall lasts 10 minutes; the bearer of the chalk can dismiss a section of wall as a swift action by touching the stick of chalk to it. One stick of *boundary chalk* can draw 100 feet of line before it is used up, and it must be used in 5-foot increments.
 
 **Construction** Craft Wondrous Item, *wall of force* 90,000 GP This large container is usually fashioned from silver with a rippled pattern. It is about 1 foot in diameter and half that deep. The bowl must be filled with fresh or salt water to function. On command as a full-round action, the bearer may summon a water elemental. If the bowl is filled with salt water, it conjures a Huge water elemental as if using *summon monster VI*. If filled with fresh water, it conjures a Large water elemental as if using *summon monster V*. Conjuring an elemental empties the bowl. The bowl cannot summon another elemental until the previous one is dismissed, killed, or the duration of its summoning expires. Craft Wondrous Item, *summon monster V*, *summon monster VI* 90,000 GP This device appears to be a normal container for holding burning coals. The brazier must be filled with coals or wood and a fire lit within it to function. On command as a full-round action, the bearer may summon a fire elemental. If 1 pound of brimstone (sulfur) is burning in the brazier, it conjures a Huge fire elemental as if using *summon monster VI*. Otherwise, the brazier conjures a Large fire elemental as if using *summon monster V*. Conjuring an elemental extinguishes the fire in the brazier. The brazier cannot summon another elemental until the previous one is dismissed, killed, or the duration of its summoning expires. Craft Wondrous Item, *summon monster V*, *summon monster VI*; **Cost** 45,000 gp
 
@@ -417,7 +417,7 @@ This small talisman is comprised of teeth, fingers, ears, or other grotesque tro
 
 This 10-foot long rope ladder unrolls itself on command, extending upward into the air and magically holding itself in place. The ends of each rope have small loops for tying to another rope, a grappling hook, a piton, or similar fixtures. A second command word makes the ladder roll itself again, pulling itself toward whichever end the speaker is touching. Climbing the ladder is a DC 0 Climb check. The ladder can hold up to 300 pounds if holding itself in the air, or 600 pounds if attached to a sturdy surface.
 
-A third command word creates an extradimensional space at the top of the ladder that is identical to *rope trick*, except it only holds up to one Medium creature and has a very short duration. When a creature enters the extradimensional space, at the end of the creature’s turn the space collapses and the creature is transported as though by *dimension door* 1d6 × location. The ladder remains behind and falls to the ground when this power is used. The third command word may be used once per day.
+A third command word creates an extradimensional space at the top of the ladder that is identical to *rope trick*, except it only holds up to one Medium creature and has a very short duration. When a creature enters the extradimensional space, at the end of the creature’s turn the space collapses and the creature is transported as though by *dimension door* 1d6 × 100 feet away in a random direction to a safe, ground-level location. The ladder remains behind and falls to the ground when this power is used. The third command word may be used once per day.
 
 **Construction** Craft Wondrous Item, *animate rope, dimension door, rope trick*; **Cost** 2,000 gp
 
@@ -657,7 +657,7 @@ Regeneration from the *pearly white ioun stone* works like a *ring of regenerati
 **Aura** faint transmutation; **CL** 4th  
 **Slot** none; **Price** 750 gp; **Weight** 1 lb.
 
-When the end of this gray hemp rope is held and the command word is uttered, it is irrevocably transmuted into solid iron. The transmuted rope loses all magic and has the hardness and hit points of a normal inch-thick iron bar. When crafted, the rope is rope can be commanded to harden individually.
+When the end of this gray hemp rope is held and the command word is uttered, it is irrevocably transmuted into solid iron. The transmuted rope loses all magic and has the hardness and hit points of a normal inch-thick iron bar. When crafted, the rope is 25 feet long, but can be cut up to three times and each section of rope can be commanded to harden individually.
 
 **Construction** Craft Wondrous Item, *animate rope*; **Cost** 375 gp
 
@@ -752,7 +752,7 @@ Once per day, the bearer may spend a standard action to transfer 3d6 hit points 
 **Aura** strong abjuration; **CL** 15th  
 **Slot** none; **Price** 20,000 gp; **Weight** 10 lbs.
 
-This lustrous golden bell produces a deep and resonant ring which vibrates in perfect harmony with the Material Plane and destructively interferes with otherworldly beings. These vibrations reduce the damage reduction and spell resistance of all extraplanar creatures within 30 feet by 5 (for example, changing DR 10/magic to DR 5/magic). The bell has no clapper; to ring it, the bearer must attack it with an unarmed strike (this counts as an attack, with no attack roll needed, and does not damage the bell). The ringing lasts 1d6 rounds; stifling the ringing early is a standard action. It can ring for a maximum of
+This lustrous golden bell produces a deep and resonant ring which vibrates in perfect harmony with the Material Plane and destructively interferes with otherworldly beings. These vibrations reduce the damage reduction and spell resistance of all extraplanar creatures within 30 feet by 5 (for example, changing DR 10/magic to DR 5/magic). The bell has no clapper; to ring it, the bearer must attack it with an unarmed strike (this counts as an attack, with no attack roll needed, and does not damage the bell). The ringing lasts 1d6 rounds; stifling the ringing early is a standard action. It can ring for a maximum of 10 rounds per day.
 
 **Construction** Craft Wondrous Item, *banishment*; **Cost** 10,000 gp
 
@@ -783,7 +783,7 @@ Reflections visible in this palm-sized hand mirror always seem ghostly and insub
 **Aura** strong abjuration and divination; **CL** 17th  
 **Slot** none; **Price** 175,000 gp; **Weight** 40 lbs.
 
-This mirror resembles an ordinary looking glass 5 feet tall by cause it to perform as follows.
+This mirror resembles an ordinary looking glass 5 feet tall by 2 feet wide. A creature who knows the proper commands can cause it to perform as follows.
 
 - Read the thoughts of any creature reflected therein, as long as the creature controlling the mirror is within 25 feet of the mirror, even if those thoughts are in an unknown language.
 - View other places as if with *clairvoyance*, and the controller can even view locations on other planes if she is sufficiently familiar with them.
@@ -821,7 +821,7 @@ This shining, jewel-like scale is usually worn on the forehead between the eyebr
 **Aura** faint transmutation; **CL** 5th  
 **Slot** none; **Price** 8,000 gp; **Weight** 1 lb.
 
-These tattooing needles can grant a +5 competence bonus on Craft (tattoos) checks. Once per day they can be used to transform an object into a tattoo on a willing creature. This takes throw. The transformed object radiates faint transmutation magic and looks like a miniature depiction of itself. The bearer of the tattoo may peel it off as a standard action, transforming it back into its object form. The tattoo automatically reverts back to its object form after 7 days, if dispelled (using the caster level of the needles), or upon the death of the tattooed creature.
+These tattooing needles can grant a +5 competence bonus on Craft (tattoos) checks. Once per day they can be used to transform an object into a tattoo on a willing creature. This takes 10 minutes. The object may resist with a DC 17 Fortitude saving throw. The transformed object radiates faint transmutation magic and looks like a miniature depiction of itself. The bearer of the tattoo may peel it off as a standard action, transforming it back into its object form. The tattoo automatically reverts back to its object form after 7 days, if dispelled (using the caster level of the needles), or upon the death of the tattooed creature.
 
 **Construction** Craft Wondrous Item, *shrink item*, creator must have 5 ranks in Craft (tattoos); **Cost** 4,000 gp
 
@@ -1212,7 +1212,7 @@ This small lacquered box made from exotic and colorful woods contains five vials
 **Aura** moderate transmutation; **CL** 9th  
 **Slot** none; **Price** 8,000 gp; **Weight** —
 
-This whistle is shaped like a wolf’s head and is crafted out of silver. Once per day the bearer may blow the whistle to cause one lycanthrope within 30 feet to make a DC 17 Will save or be forced back into its humanoid form for the next
+This whistle is shaped like a wolf’s head and is crafted out of silver. Once per day the bearer may blow the whistle to cause one lycanthrope within 30 feet to make a DC 17 Will save or be forced back into its humanoid form for the next 24 hours.
 
 **Construction** Craft Wondrous Item, *baleful polymorph*; **Cost** 4,000 gp
 

@@ -76,7 +76,7 @@ Any effect that gives the wearer a luck bonus (such as a *divine favor* or *pray
 
 This band of raggedly stitched animal skins and teeth focuses a barbarian wearer’s bloodlust. When the wearer enters a rage, she selects one of her rage powers. For the duration of the rage, that power functions as if the wearer’s barbarian level were four levels higher.
 
-Once per day when the wearer is attacked or has to make a saving throw against a hostile effect, she may spend This rage becomes active prior to resolving the attack that triggered it and lasts until the start of her next turn (at which time she may continue to rage as if she had begun the rage in the normal manner).
+Once per day when the wearer is attacked or has to make a saving throw against a hostile effect, she may spend 2 rounds of rage to begin a rage as an immediate action. This rage becomes active prior to resolving the attack that triggered it and lasts until the start of her next turn (at which time she may continue to rage as if she had begun the rage in the normal manner).
 
 **Construction** Craft Wondrous Item, *rage*; **Cost** 4,000 gp
 
@@ -143,7 +143,7 @@ As a swift action three times per day, the wearer can call upon the headband to 
 **Aura** faint enchantment and transmutation; **CL** 5th  
 **Slot** headband; **Price** 40,000 gp; **Weight** 1 lb.
 
-This plain white band makes the wearer seem more attractive. The wearer gains a +2 competence bonus on Charisma-based checks with other members of his creature type. If the wearer is of the humanoid type, he gains a +5 competence bonus on creatures of his subtype instead. Once per day, the wearer can attempt to affect a creature as the spell *unnatural lust* but with a duration of
+This plain white band makes the wearer seem more attractive. The wearer gains a +2 competence bonus on Charisma-based checks with other members of his creature type. If the wearer is of the humanoid type, he gains a +5 competence bonus on creatures of his subtype instead. Once per day, the wearer can attempt to affect a creature as the spell *unnatural lust* but with a duration of 10 minutes.
 
 **Construction** Craft Wondrous Item, *unnatural lust*; **Cost** 20,000 gp
 
@@ -240,7 +240,7 @@ This banded agate attaches itself to its wearer’s forehead and then, blinking 
 **Aura** moderate transmutation; **CL** 7th  
 **Slot** headband; **Price** 32,000 gp; **Weight** 1 lb.
 
-Crafted of pale bone or silver, this headband features a snarling wolf’s head centered on the wearer’s forehead. The wearer gains cold resistance 10. Once per day, the wearer may transform into a Large white-furred wolf for 11 minutes. In addition, once per day the wearer may breathe a 30-foot cone of cold that deals 7d6 points of cold damage (Reflex DC when transformed.
+Crafted of pale bone or silver, this headband features a snarling wolf’s head centered on the wearer’s forehead. The wearer gains cold resistance 10. Once per day, the wearer may transform into a Large white-furred wolf for 11 minutes. In addition, once per day the wearer may breathe a 30-foot cone of cold that deals 7d6 points of cold damage (Reflex DC 16 for half). The wearer may use this breath weapon even when transformed.
 
 **Construction** Craft Wondrous Item, *beast shape II*, *dragon’s breath*, *resist energy*; **Cost** 16,000 gp
 

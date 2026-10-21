@@ -189,7 +189,7 @@ This emerald vest has four prominent and bulging pockets along its front. The we
 **Aura** faint divination; **CL** 5th  
 **Slot** chest; **Price** 6,000 gp; **Weight** 3 lbs.
 
-This green-and-brown vest has pockets sewn along its length, each with a tiny lodestone button. The wearer feels a surge of heroism when she tracks down prey. She gains a +1 morale bonus on the first attack and damage rolls made with weapons against creatures she has successfully tracked within the previous If her target is also her favored enemy, she gains a +4 bonus on critical hit confirmation rolls against the target.
+This green-and-brown vest has pockets sewn along its length, each with a tiny lodestone button. The wearer feels a surge of heroism when she tracks down prey. She gains a +1 morale bonus on the first attack and damage rolls made with weapons against creatures she has successfully tracked within the previous 24 hours. If her target is flat-footed, this bonus increases to +2. If her target is also her favored enemy, she gains a +4 bonus on critical hit confirmation rolls against the target.
 
 **Construction** Craft Wondrous Item, *commune with nature*; **Cost** 3,000 gp
 

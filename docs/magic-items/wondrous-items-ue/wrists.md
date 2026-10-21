@@ -165,7 +165,7 @@ The bracelet grants the wearer a +5 competence bonus on Sense Motive checks, and
 
 These battered iron manacles are typically found with a small spiked iron key in one of the locks. The shackles magically adjust themselves to fit around the wrists of any creature from Small to Large size and automatically lock. A creature wearing shackles of compliance becomes more susceptible to intimidation. Any creature attempting to intimidate or demoralize a target wearing shackles of compliance gains a +4 bonus on Intimidate checks. In addition, the holder of the manacles’ key can cast command (DC 25 Will) on the wearer of the shackles three times per day.
 
-*Shackles of compliance* have hardness 10 and 10 hit points, and a DC 30 Disable Device check is required to pick the shackles’ lock. A manacled creature can break free with a DC lock can be opened with a DC 30 Disable Device check.
+*Shackles of compliance* have hardness 10 and 10 hit points, and a DC 30 Disable Device check is required to pick the shackles’ lock. A manacled creature can break free with a DC 28 Strength check or DC 35 Escape Artist check. The manacles lock can be opened with a DC 30 Disable Device check.
 
 **Construction** Craft Wondrous Item, *command*; **Cost** 1,930 gp
 
