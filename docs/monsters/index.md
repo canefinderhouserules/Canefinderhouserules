@@ -6,4 +6,4 @@ This section collects creatures and monster rules. Each entry uses the standard 
 
 | Source | Page |
 |---|---|
-| Horror Adventures | [Hive](hive.md) |
+| Horror Adventures | [Hive](hive.md), [Horror Template Examples](horror-template-examples.md) |
