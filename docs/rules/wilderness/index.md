@@ -7,3 +7,5 @@ Rules for exploring, surviving in and mastering the wilds, from *Pathfinder Role
 - [Foraging and Salvaging](foraging-and-salvaging.md): gathering and recycling supplies in the wild.
 - [The Green Faith](green-faith.md): the druidic philosophy, its orders and archetypes.
 - [Harvesting Poisons](harvesting-poisons.md): gathering venom, antivenom and natural poisons.
+- [Hazards and Disasters](hazards-and-disasters.md): natural hazards, disasters and their damage tables.
+- [Herbalism](herbalism.md): gathering, preparing and using herbs.
