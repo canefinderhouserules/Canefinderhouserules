@@ -1113,3 +1113,144 @@ Feats from *Ultimate Combat*. Each name links to its full description.
 | Ranged siege engine, heavy | Siege Engine | 20 |
 | Ranged siege engine, medium | Siege Engine | 25 |
 | Ranged siege engine, light | Siege Engine | 30 |
+
+## Ultimate Wilderness Feats
+
+Feats from *Ultimate Wilderness*, including the racial feats for gathlains, ghorans, and vine leshys. Each name links to its full description.
+
+### Wilderness Style Feats
+
+The style feats presented in this book are suited for those who have learned to fight or grew up fighting in the wilderness. Each style is followed by its feat path.
+
+- **Beastmaster Style**: While in this style, you have greater control over your non-mount animal companion. Feat path: [Beastmaster Style](beastmaster-style.md), [Beastmaster Salvation](beastmaster-salvation.md), [Beastmaster Ire](beastmaster-ire.md).
+- **Crashing Wave Style**: Someone skilled in this style jostles and pulls her opponents about, inspired by the power of ocean waves churning upon the shore. Feat path: [Crashing Wave Style](crashing-wave-style.md), [Crashing Wave Buffet](crashing-wave-buffet.md), [Crashing Wave Fist](crashing-wave-fist.md).
+- **Indomitable Mountain Style**: A practitioner of this style stands like a mighty mountain, difficult to move and punishing those who try. Feat path: [Indomitable Mountain Style](indomitable-mountain-style.md), [Indomitable Mountain Peak](indomitable-mountain-peak.md), [Indomitable Mountain Avalanche](indomitable-mountain-avalanche.md).
+- **Wolf Style**: This style mimics the harrying tactics that wolves use when they hunt: slowing, tripping, and then savaging a foe. Feat path: [Wolf Style](wolf-style.md), [Wolf Trip](wolf-trip.md), [Wolf Savage](wolf-savage.md).
+
+### Feat List
+
+| Feat | Type | Prerequisites |
+|---|---|---|
+| [Advanced Gathlain Magic](advanced-gathlain-magic.md) | — | Cha 13, character level 3rd, gathlain |
+| [Ambush Awareness](ambush-awareness.md) | — | Alertness |
+| [Animal Call](animal-call.md) | — | Bluff 1 rank, Knowledge (nature) 1 rank |
+| [Animal Disguise](animal-disguise.md) | — | Disguise 6 ranks, Knowledge (nature) 6 ranks |
+| [Animal Ferocity](animal-ferocity.md) | Combat | Base attack bonus +3, ferocity racial ability |
+| [Aquatic Combatant](aquatic-combatant.md) | Combat | Swim 1 rank |
+| [Aquatic Spell](aquatic-spell.md) | Metamagic | — |
+| [Arctic Adaptation](arctic-adaptation.md) | — | Favored terrain (cold) class feature |
+| [Beast Hunter](beast-hunter.md) | Combat | Base attack bonus +1; Knowledge (nature) or Survival 1 rank |
+| [Beastmaster Ire](beastmaster-ire.md) | Combat | Cha 13, Alertness, Beastmaster Salvation, Beastmaster Style, Handle Animal 9 ranks, Sense Motive 5 ranks |
+| [Beastmaster Salvation](beastmaster-salvation.md) | Combat | Cha 13, Alertness, Beastmaster Style, Handle Animal 5 ranks, Sense Motive 5 ranks |
+| [Beastmaster Style](beastmaster-style.md) | Combat, Style | Cha 13, Handle Animal 1 rank, must have an animal companion |
+| [Branch Pounce](branch-pounce.md) | Combat | Climb 3 ranks, Stealth 3 ranks |
+| [Bristling Bull Rush](bristling-bull-rush.md) | Combat | Str 13, Improved Bull Rush, Power Attack, base attack bonus +3 |
+| [Bristling Drag](bristling-drag.md) | Combat | Str 13, Improved Drag, Power Attack, base attack bonus +3 |
+| [Camouflaged Trap](camouflaged-trap.md) | — | Craft (traps) 4 ranks, Survival 4 ranks |
+| [Climbing Vine](climbing-vine.md) | — | Str 13, vine leshy |
+| [Clinging Climber](clinging-climber.md) | Combat | Str 13, Climb 3 ranks |
+| [Command Animals](command-animals.md) | — | Animal domain, channel energy class feature |
+| [Command Plants](command-plants.md) | — | Channel energy class feature, Plant domain |
+| [Cover Tracks](cover-tracks.md) | — | Survival 3 ranks |
+| [Crashing Wave Buffet](crashing-wave-buffet.md) | Combat | Wis 15, Crashing Wave Style, Improved Drag, Improved Reposition, Improved Unarmed Strike, base attack bonus +6 |
+| [Crashing Wave Fist](crashing-wave-fist.md) | Combat | Wis 15, Crashing Wave Buffet, Crashing Wave Style, Improved Drag, Improved Reposition, Improved Unarmed Strike, base attack bonus +9 |
+| [Crashing Wave Style](crashing-wave-style.md) | Combat, Style | Wis 13, Improved Drag, Improved Reposition, Improved Unarmed Strike |
+| [Cultivate Magic Plants](cultivate-magic-plants.md) | Item Creation | Brew Potion, Craft Wondrous Item, Knowledge (nature) 1 rank |
+| [Deadly Trap](deadly-trap.md) | — | Craft (traps) 8 ranks, Survival 8 ranks |
+| [Deep Diver](deep-diver.md) | — | Endurance |
+| [Delectable Feint](delectable-feint.md) | — | Con 15, delicious racial trait, ghoran |
+| [Desert Dweller](desert-dweller.md) | — | Favored terrain (desert) class feature |
+| [Eagle-Eyed](eagle-eyed.md) | — | Perception 3 ranks |
+| [Earth Magic](earth-magic.md) | — | Ability to cast 1st-level spells, favored terrain class feature |
+| [Eidolon Mount](eidolon-mount.md) | Combat | Eidolon able to choose quadruped or serpentine as a base form |
+| [Energized Wild Shape](energized-wild-shape.md) | — | Wis 19, base attack bonus +6, wild shape class feature |
+| [Enhanced Gnome Magic](enhanced-gnome-magic.md) | — | Cha 13, Knowledge (nature) 3 ranks, gnome, gnome magic racial trait |
+| [Exotic Heritage](exotic-heritage.md) | — | — |
+| [Expert Cartographer](expert-cartographer.md) | — | Craft (maps) 3 ranks |
+| [Expert Explorer](expert-explorer.md) | — | Knowledge (nature) or Survival 5 ranks |
+| [Expert Salvager](expert-salvager.md) | — | Craft (any) 2 ranks, Spellcraft 2 ranks |
+| [Extended Aspects](extended-aspects.md) | — | Shifter aspect class feature |
+| [False Trail](false-trail.md) | — | Survival 3 ranks |
+| [Fey Insight](fey-insight.md) | — | Wis 13; Knowledge (nature) or Knowledge (planes) 2 ranks |
+| [Fey Performance](fey-performance.md) | — | Bardic performance class ability |
+| [Fey-Guarded](fey-guarded.md) | — | Knowledge (nature) or Knowledge (planes) 3 ranks |
+| [Flinging Charge](flinging-charge.md) | Combat | Quick Draw, base attack bonus +6 |
+| [Foebane Magic](foebane-magic.md) | — | Ability to cast 1st-level spells, favored enemy class feature |
+| [Forester](forester.md) | — | Favored terrain (forest) class feature |
+| [Frightful Shape](frightful-shape.md) | — | Wis 19, base attack bonus +9, wild shape class feature |
+| [Greater Beast Hunter](greater-beast-hunter.md) | Combat | Beast Hunter; Improved Beast Hunter; base attack bonus +6; Knowledge (nature) or Survival 6 ranks |
+| [Greater Gathlain Magic](greater-gathlain-magic.md) | — | Cha 15, Advanced Gathlain Magic, character level 9th, gathlain |
+| [Greater Hunter’s Bond](greater-hunters-bond.md) | Combat | Improved Hunter’s Bond, hunter’s bond (hunting companions) class feature, ranger level 12th |
+| [Greater Spring Attack](greater-spring-attack.md) | Combat | Dex 17, Acrobatic Steps, Dodge, Improved Spring Attack, Mobility, Nimble Moves, Spring Attack, base attack bonus +16 |
+| [Greater Wilding Strike](greater-wilding-strike.md) | Combat | Str 18, Improved Unarmed Strike, Improved Wilding Strike, Wilding, Wilding Strike, base attack bonus +16 |
+| [Green Tongue](green-tongue.md) | — | Cha 13, character level 5th, gathlain |
+| [Group Shared Spells](group-shared-spells.md) | Teamwork | Familiar with the share spells ability |
+| [Harder They Fall](harder-they-fall.md) | Combat, Teamwork | Str 13, Int 13, Combat Expertise, Power Attack |
+| [Hide Worker](hide-worker.md) | — | Craft (armor) 3 ranks, Knowledge (nature) 3 ranks |
+| [Ice Climber](ice-climber.md) | — | Arctic Adaptation or Mountaineer; Climb 2 ranks |
+| [Improved Beast Hunter](improved-beast-hunter.md) | Combat | Beast Hunter; base attack bonus +3; Knowledge (nature) or Survival 3 ranks |
+| [Improved Hunter’s Bond](improved-hunters-bond.md) | Combat | Hunter’s bond (hunting companions) class feature, ranger level 9th |
+| [Improved Natural Poison Harvester](improved-natural-poison-harvester.md) | — | Natural Poison Harvester, Craft (alchemy) 9 ranks, Survival 9 ranks |
+| [Improved Spring Attack](improved-spring-attack.md) | Combat | Dex 15, Dodge, Mobility, Nimble Moves, Spring Attack, base attack bonus +9 |
+| [Improved Wilding Strike](improved-wilding-strike.md) | Combat | Str 16, Improved Unarmed Strike, Wilding, Wilding Strike, base attack bonus +11 |
+| [Indomitable Mountain Avalanche](indomitable-mountain-avalanche.md) | Combat | Wis 15, Combat Reflexes, Improved Unarmed Strike, Indomitable Mountain Peak, Indomitable Mountain Style, base attack bonus +9 |
+| [Indomitable Mountain Peak](indomitable-mountain-peak.md) | Combat | Wis 15, Combat Reflexes, Improved Unarmed Strike, Indomitable Mountain Style, base attack bonus +6 |
+| [Indomitable Mountain Style](indomitable-mountain-style.md) | Combat, Style | Wis 13, Combat Reflexes, Improved Unarmed Strike, base attack bonus +4 |
+| [Inner Light](inner-light.md) | — | Wis 13, ghoran |
+| [Intimidate Animals](intimidate-animals.md) | Combat | Greater Wild Empathy, Intimidate 5 ranks, Knowledge (nature) 5 ranks, wild empathy class feature |
+| [Jaguar Pounce](jaguar-pounce.md) | Combat | Base attack bonus +4 |
+| [Jungle Survivalist](jungle-survivalist.md) | — | Favored terrain ( jungle) class feature |
+| [Kudzu Grappler](kudzu-grappler.md) | — | Dex 13, Improved Grapple, Improved Unarmed Strike, Greater Grapple, base attack bonus +6, vine leshy |
+| [Live Off the Land](live-off-the-land.md) | — | Favored terrain class feature |
+| [Moontouched](moontouched.md) | — | — |
+| [Mountaineer](mountaineer.md) | — | Favored terrain (mountains) class feature |
+| [Mutated Shape](mutated-shape.md) | — | Wis 19, base attack bonus +6, wild shape class feature |
+| [Natural Poison Antitoxin](natural-poison-antitoxin.md) | — | Natural Poison Harvester, Craft (alchemy) 8 ranks, Survival 8 ranks |
+| [Natural Poison Harvester](natural-poison-harvester.md) | — | Craft (alchemy) 6 ranks, Survival 6 ranks |
+| [Nature’s Freedom](natures-freedom.md) | — | Animal or Plant domain; channel energy class feature |
+| [Nature’s Weapons](natures-weapons.md) | Combat | Catch Off-Guard; base attack bonus +2; Knowledge (nature) or Survival 2 ranks |
+| [Night Sky Hex](night-sky-hex.md) | — | Hex class feature; moon, stars, or winter patron |
+| [One Eye Open](one-eye-open.md) | — | Wis 13, Alertness |
+| [One with the Land](one-with-the-land.md) | — | Favored terrain class feature |
+| [Out of the Sun](out-of-the-sun.md) | Teamwork | Bluff 3 ranks, Stealth 3 ranks |
+| [Photosynthetic Healing](photosynthetic-healing.md) | — | Con 15, change shape ability, leshy subtype |
+| [Plains Nomad](plains-nomad.md) | — | Favored terrain (plains) class feature |
+| [Reactive Reversion](reactive-reversion.md) | — | Dex 13, change shape ability, leshy subtype |
+| [River Raider](river-raider.md) | Combat | — |
+| [Rubble Skirmisher](rubble-skirmisher.md) | Combat | Dex 13, Nimble Moves, base attack bonus +2 |
+| [Scion of the Land](scion-of-the-land.md) | Teamwork | Survival 1 rank |
+| [Seasoned Flier](seasoned-flier.md) | — | Dex 15, Fly 5 ranks, fly speed, gathlain |
+| [Shifter’s Edge](shifters-edge.md) | — | Dex 13, Weapon Finesse, shifter claws class feature |
+| [Shifter’s Rush](shifters-rush.md) | — | Wild shape class feature, shifter level 4th |
+| [Sproutling](sproutling.md) | — | Cha 15, seed racial trait, ghoran |
+| [Storm Survivor](storm-survivor.md) | — | Knowledge (nature) 2 ranks, Survival 2 ranks |
+| [Superior Gathlain Magic](superior-gathlain-magic.md) | — | Cha 17, Advanced Gathlain Magic, Greater Gathlain Magic, character level 15th, gathlain |
+| [Swamper](swamper.md) | — | Favored terrain (swamp) class feature |
+| [Symbiotic Resilience](symbiotic-resilience.md) | — | Con 13, gathlain |
+| [Thrill of the Hunt](thrill-of-the-hunt.md) | Combat | Survival 1 rank; base attack bonus +4 or track class feature |
+| [Torrid Tolerance](torrid-tolerance.md) | — | Desert Dweller or Jungle Survivalist |
+| [Totemic Disciple](totemic-disciple.md) | — | Str 15; Dex 13; Athletic, Totemic Initiate; base attack bonus +9; no barbarian totem rage powers except those chosen with this feat or Totemic Initiate; nonlawful alignment |
+| [Totemic Initiate](totemic-initiate.md) | — | Str 13; Dex 13; Athletic; base attack bonus +5; no barbarian totem rage powers except the one you choose with this feat; nonlawful alignment |
+| [Totemic Master](totemic-master.md) | — | Str 17; Dex 13; Wis 13; Athletic; Totemic Disciple; Totemic Initiate; base attack bonus +13; no barbarian totem rage powers except those chosen with this feat, Totemic Disciple, or Totemic Initiate; nonlawful alignment |
+| [Tree Leaper](tree-leaper.md) | — | — |
+| [Tribal Hunter](tribal-hunter.md) | Combat, Teamwork | Animal Affinity |
+| [Verdant Spell](verdant-spell.md) | Metamagic | Spell Focus (enchantment), Knowledge (nature) 6 ranks |
+| [Vigilant Charger](vigilant-charger.md) | Combat | Str 13, Dex 13, Combat Reflexes |
+| [Voice of Beasts](voice-of-beasts.md) | — | Wild shape class feature |
+| [Wandering Mind](wandering-mind.md) | — | Character level 9th, gathlain |
+| [Waterway Caster](waterway-caster.md) | — | — |
+| [Wild Growth Channel](wild-growth-channel.md) | — | Channel positive energy class feature, Plant domain |
+| [Wild Growth Hex](wild-growth-hex.md) | — | Hex class feature; summer, thorns, or woodlands patron |
+| [Wild Vigor](wild-vigor.md) | — | Wild shape class feature |
+| [Wilding](wilding.md) | — | Any neutral alignment, must be taken at 1st level |
+| [Wilding Mind](wilding-mind.md) | — | Wis 13, Wilding |
+| [Wilding Senses](wilding-senses.md) | — | Wis 13, Wilding |
+| [Wilding Stride](wilding-stride.md) | — | Con 13, Wilding |
+| [Wilding Strike](wilding-strike.md) | Combat | Str 13, Improved Unarmed Strike, Wilding |
+| [Witchbreaker](witchbreaker.md) | Combat | Iron Will |
+| [Wolf Rider](wolf-rider.md) | — | Undersized Mount or effective level 7th in the class that grants the mount or divine bond (mount) class feature; Knowledge (nature) 1 rank; mount or divine bond (mount) class feature |
+| [Wolf Savage](wolf-savage.md) | Combat | Wis 17, Improved Unarmed Strike, Wolf Style, Wolf Trip, Knowledge (nature) 9 ranks |
+| [Wolf Style](wolf-style.md) | Combat, Style | Wis 13, Improved Unarmed Strike, Knowledge (nature) 3 ranks |
+| [Wolf Trip](wolf-trip.md) | Combat | Wis 15, Improved Unarmed Strike, Wolf Style, Knowledge (nature) 6 ranks |
+| [Wood Crafter](wood-crafter.md) | — | Craft (armor) 3 ranks, Knowledge (nature) 3 ranks |
+| [Woodland Wraith](woodland-wraith.md) | Combat | Dex 15, Dodge, base attack bonus +6 |

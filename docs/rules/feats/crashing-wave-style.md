@@ -1,0 +1,9 @@
+# Crashing Wave Style
+
+*(Combat, Style)*
+
+You relentlessly push your enemies around, as the sea moves those within and upon it against their will.
+
+**Prerequisites**: Wis 13, Improved Drag, Improved Reposition, Improved Unarmed Strike.
+
+**Benefit**: When you successfully drag or reposition an opponent while using this style, at any point during the dragging or repositioning of the opponent, you can move 5 feet as an immediate action, including moving into a square previously occupied by the opponent, even if you have already taken a move action this round. This movement does not provoke attacks of opportunity.
