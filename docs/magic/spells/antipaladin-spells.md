@@ -5,14 +5,21 @@ New antipaladin spells from *Ultimate Magic*. Spells from other books will be ad
 ## 1st-Level Antipaladin Spells
 
 - **[Blood Blaze](blood-blaze.md)**: School transmutation [fire]; Level alchemist 2, antipaladin 1, cleric 2, magus 2, sorcerer/wizard 2, witch 2.
+- **[Conditional Favor](conditional-favor.md)**: Provide another spell whose effects reverse if the target breaks a restriction.
+- **[Crime of Opportunity](crime-of-opportunity.md)**: Compel a target to take a criminal action.
+- **[Dark Whispers](dark-whispers.md)**: Whisper through the shadows.
 - **[Death Candle](death-candle.md)**: This spell functions like death knell, except instead of using the slain target’s life energy to enhance.
 - **[Demand Offering](demand-offering.md)**: Make a creature give you an object it’s holding.
+- **[Desperate Weapon](desperate-weapon.md)**: Create an improvised weapon.
+- **[Detect the Faithful](detect-the-faithful.md)**: Find others of the same faith.
+- **[Fabricate Disguise](fabricate-disguise.md)**: Create a disguise in an instant.
 - **[Ironbeard](ironbeard.md)**: School transmutation; Level antipaladin 1, cleric 1, magus 1, paladin 1, ranger 1 Casting Time 1 standard.
 - **[Linebreaker](linebreaker.md)**: You gain a +20 foot bonus to your base speed when charging and a +2 bonus on combat maneuver checks made to.
 - **[Litany of Sloth](litany-of-sloth.md)**: Single target cannot make attacks of opportunity for 1 round.
 - **[Litany of Weakness](litany-of-weakness.md)**: Single target is fatigued for 1 round.
 - **[Longshot](longshot.md)**: Grants a +10-foot bonus to the range increment for any ranged weapon fired.
 - **[Murderous Command](murderous-command.md)**: Target is compelled to kill its ally.
+- **[Obscure Poison](obscure-poison.md)**: Make it harder to detect a poison or a venomous creature.
 - **[Savage Maw](savage-maw.md)**: Your teeth extend and sharpen, transforming your mouth into a maw of razor-sharp fangs.
 - **[Sentry Skull](sentry-skull.md)**: You restore the senses to the severed head of a humanoid or monstrous humanoid killed within the past 24.
 - **[Summon Minor Monster](summon-minor-monster.md)**: Summon 1d3 Tiny animals.
@@ -25,6 +32,8 @@ New antipaladin spells from *Ultimate Magic*. Spells from other books will be ad
 - **[Bestow Weapon Proficiency](bestow-weapon-proficiency.md)**: Grants a creature proficiency in a single weapon for short period of time.
 - **[Bleed for Your Master](bleed-for-your-master.md)**: Compel a companion to take damage for you.
 - **[Blood Scent](blood-scent.md)**: School transmutation; Level alchemist 3, antipaladin 2, cleric 3, druid 3, inquisitor 3, ranger 2.
+- **[Detect Anxieties](detect-anxieties.md)**: Learn what makes creatures anxious.
+- **[Detect Desires](detect-desires.md)**: Learn what creatures desire.
 - **[Enemy’s Heart](enemy-s-heart.md)**: You cut out an enemy’s heart and consume it, absorbing that enemy’s power as your own.
 - **[Improve Trap](improve-trap.md)**: When this spell is cast upon a trap, it improves one specific element of the trap chosen at the time of.
 - **[Inflict Pain](inflict-pain.md)**: Target takes a –4 penalty on attack rolls, skill checks, and ability checks.
@@ -33,12 +42,15 @@ New antipaladin spells from *Ultimate Magic*. Spells from other books will be ad
 - **[Litany of Entanglement](litany-of-entanglement.md)**: Entangles a creature for 1 round.
 - **[Litany of Warding](litany-of-warding.md)**: You gain two additional attacks of opportunity for 1 round.
 - **[Magic Siege Engine](magic-siege-engine.md)**: Siege engine gains +1 on targeting and damage rolls.
+- **[Open Book](open-book.md)**: Make it permanently easier to learn more about a target.
 - **[Pernicious Poison](pernicious-poison.md)**: Target takes a –4 penalty against poison.
 - **[Protection from Good, Communal](protection-from-good-communal.md)**: As protection from good, but you may divide the duration among creatures touched.
 - **[Protection from Law, Communal](protection-from-law-communal.md)**: As protection from law, but you may divide the duration among creatures touched.
+- **[Shifted Steps](shifted-steps.md)**: Make a target sound as if elsewhere.
 - **[Sickening Strikes](sickening-strikes.md)**: You are imbued with disease, and any creature you strike with a melee attack must make a Fortitude save or be.
 - **[Toxic Gift](toxic-gift.md)**: Target suffers the effect of a poison in you.
 - **[Unadulterated Loathing](unadulterated-loathing.md)**: Target is compelled to avoid another creature.
+- **[Undetectable Trap](undetectable-trap.md)**: Make a trap extremely difficult to find.
 - **[Vestment of the Champion](vestment-of-the-champion.md)**: Armor or shield gains a +1 enhancement per four levels.
 - **[Vine Strike](vine-strike.md)**: Enhance one of your natural or unarmed attacks with thorny vine growth.
 - **[Widen Auras](widen-auras.md)**: Doubles the range of your antipaladin or paladin auras.
@@ -51,6 +63,8 @@ New antipaladin spells from *Ultimate Magic*. Spells from other books will be ad
 - **[Burst of Speed](burst-of-speed.md)**: You gain increased speed, and your movement ignores attacks of opportunity and allows you to move through the space of creatures larger than you are.
 - **[Darkvision, Communal](darkvision-communal.md)**: As darkvision, but you may divide the duration among creatures touched.
 - **[Deadly Juggernaut](deadly-juggernaut.md)**: Your might increases with every kill you make.
+- **[Deceitful Veneer](deceitful-veneer.md)**: Make someone seem like an obvious liar.
+- **[Illusion of Treachery](illusion-of-treachery.md)**: Make it seem like another is also responsible for your attacks.
 - **[Litany of Escape](litany-of-escape.md)**: Teleports a friend out of a grapple.
 - **[Litany of Sight](litany-of-sight.md)**: You can see invisible creatures and objects within 30 feet of you.
 - **[Utter Contempt](utter-contempt.md)**: Target’s attitude worsens by two categories.
@@ -60,14 +74,19 @@ New antipaladin spells from *Ultimate Magic*. Spells from other books will be ad
 ## 4th-Level Antipaladin Spells
 
 - **[Companion Transposition](companion-transposition.md)**: Swap places with your animal companion, familiar, or spirit animal via teleportation.
+- **[Conditional Curse](conditional-curse.md)**: Bestow a curse that is difficult to remove without fulfilling a condition.
+- **[Crime Wave](crime-wave.md)**: Compel targets to commit criminal actions.
 - **[Darkvision, Greater](darkvision-greater.md)**: See 120 ft. in total darkness.
 - **[Foster Hatred](foster-hatred.md)**: Cause creatures to hate one type of creature.
+- **[Illusion of Treachery, Greater](illusion-of-treachery-greater.md)**: Make it seem like another is responsible for your attacks while concealing your own actions.
 - **[Inflict Pain, Mass](inflict-pain-mass.md)**: As inflict pain, but affecting one creature per level.
+- **[Life of Crime](life-of-crime.md)**: Permanently turn someone into a crazed criminal.
 - **[Litany of Madness](litany-of-madness.md)**: A single target is confused for at least 1 round.
 - **[Litany of Thunder](litany-of-thunder.md)**: A single target is deafened until the condition is removed, and is confused for 1 round.
 - **[Litany of Vengeance](litany-of-vengeance.md)**: Allies attacking the target of the spell gain a +5 bonus on damage rolls for 1 round.
 - **[Magic Siege Engine, Greater](magic-siege-engine-greater.md)**: Siege engine gains +1 on targeting and damage rolls for every four caster levels.
 - **[Nondetection, Communal](nondetection-communal.md)**
+- **[Overwhelming Poison](overwhelming-poison.md)**: Make a poison more difficult to resist.
 - **[Unholy Sword](unholy-sword.md)**: Weapon becomes +5, deals +2d6 damage vs. good.
 
 ## Advanced Player's Guide Antipaladin Spell List

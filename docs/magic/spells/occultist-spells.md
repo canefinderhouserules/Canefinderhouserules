@@ -69,6 +69,7 @@ Occultists gain access to the following spells, determined by their chosen imple
 **Conjuration**:
 
 - **[Cure Light Wounds](cure-light-wounds.md)**: Cures 1d8 damage + 1/level (max +5).
+- **[Desperate Weapon](desperate-weapon.md)**: Create an improvised weapon.
 - **[Icicle Dagger](icicle-dagger.md)**: Masterwork ice dagger deals +1 cold damage.
 - **[Mage Armor](mage-armor.md)**: Gives subject +4 armor bonus.
 - **[Mount](mount.md)**: Summons riding horse for 2 hours/level.
@@ -79,6 +80,7 @@ Occultists gain access to the following spells, determined by their chosen imple
 
 - **[Anticipate Peril](anticipate-peril.md)**: Target gains a bonus on one initiative check.
 - **[Comprehend Languages](comprehend-languages.md)**: You understand all spoken and written languages.
+- **[Cultural Adaptation](cultural-adaptation.md)**: Adapt to fit the local culture.
 - **[Detect Secret Doors](detect-secret-doors.md)**: Reveals hidden doors within 60 ft.
 - **[Detect Snares and Pits](detect-snares-and-pits.md)**: Reveals natural or primitive traps.
 - **[Diagnose Disease](diagnose-disease.md)**: Detect and identify diseases.
@@ -109,6 +111,7 @@ Occultists gain access to the following spells, determined by their chosen imple
 **Illusion**:
 
 - **[Alter Musical Instrument](alter-musical-instrument.md)**
+- **[Auditory Hallucination](auditory-hallucination.md)**: Create a phantasm with auditory effects.
 - **[Blurred Movement](blurred-movement.md)**: As blur, but only while you are moving.
 - **[Decrepit Disguise](decrepit-disguise.md)**: Make an object seem worthless.
 - **[Disguise Self](disguise-self.md)**: Changes your appearance.
@@ -157,6 +160,7 @@ Occultists gain access to the following spells, determined by their chosen imple
 - Reinforce Armaments
 - **[Sundering Shards](sundering-shards.md)**: Sundered item explodes, dealing 1d6 damage to adjacent creatures.
 - **[Vocal Alteration](vocal-alteration.md)**: Disguise target’s voice.
+- **[Wizened Appearance](wizened-appearance.md)**: Make a target appear as an older version of itself.
 - **[Youthful Appearance](youthful-appearance.md)**: Target appears younger.
 
 ## 2nd-Level Occultist Spells
@@ -165,6 +169,7 @@ Occultists gain access to the following spells, determined by their chosen imple
 
 - **[Arcane Lock](arcane-lock.md)**: Magically locks a portal or chest.
 - Bullet Shield
+- **[Conditional Favor](conditional-favor.md)**: Provide another spell whose effects reverse if the target breaks a restriction.
 - **[Crimson Confession](crimson-confession.md)**
 - **[Node of Blasting](node-of-blasting.md)**: Place a trap on an object to mentally damage a creature that touches it.
 - **[Obscure Object](obscure-object.md)**: Masks object against scrying.
@@ -187,7 +192,9 @@ Occultists gain access to the following spells, determined by their chosen imple
 - **[Augury](augury.md)**: Learns whether an action will be good or bad.
 - **[Blood Biography](blood-biography.md)**: Learn about a creature with its blood.
 - **[Create Treasure Map](create-treasure-map.md)**
+- **[Detect Magic, Greater](detect-magic-greater.md)**: As *detect magic*, but learn more information.
 - **[Find Traps](find-traps.md)**: Notice traps as a rogue does.
+- **[Know Peerage](know-peerage.md)**: Target uses your Knowledge (nobility) ranks.
 - **[Locate Object](locate-object.md)**: Senses direction toward object (specific or type).
 - **[Residual Tracking](residual-tracking.md)**: Tell creature's appearance by footprint.
 - **[See Invisibility](see-invisibility.md)**: Reveals invisible creatures or objects.
@@ -195,6 +202,7 @@ Occultists gain access to the following spells, determined by their chosen imple
 - **[Share Language](share-language.md)**: Subject understands chosen language.
 - **[Share Memory](share-memory.md)**: Share one memory with the target.
 - **[Status](status.md)**: Monitors condition, position of allies.
+- **[Voluminous Vocabulary](voluminous-vocabulary.md)**: Grant ability to speak, read, and write one or more languages for 8 hours.
 
 **Enchantment**:
 
@@ -237,6 +245,7 @@ Occultists gain access to the following spells, determined by their chosen imple
 - **[Mirror Image](mirror-image.md)**: Creates decoy duplicates of you.
 - **[Misdirection](misdirection.md)**: Misleads divinations for 1 creature or object.
 - **[Phantom Trap](phantom-trap.md)**: Makes item seem trapped.
+- **[Shifted Steps](shifted-steps.md)**: Make a target sound as if elsewhere.
 - **[Symbol of Mirroring](symbol-of-mirroring.md)**: Triggered rune creates mirror images.
 
 **Necromancy**:
@@ -261,6 +270,7 @@ Occultists gain access to the following spells, determined by their chosen imple
 - Bowstaff
 - Certain Grip
 - **[Chill Metal](chill-metal.md)**: Cold metal damages those who touch it.
+- **[Codespeak](codespeak.md)**: Speak, read, and write a new code language.
 - **[Darkvision](darkvision.md)**: See 60 ft. in total darkness.
 - **[Disfiguring Touch](disfiguring-touch.md)**: Target becomes disfigured.
 - Effortless Armor
@@ -304,6 +314,7 @@ Occultists gain access to the following spells, determined by their chosen imple
 - **[Nondetection](nondetection.md)**: Hides subject from divination, scrying.
 - **[Protection from Energy](protection-from-energy.md)**: Absorbs 12 points/level of damage from one kind of energy.
 - Resist Energy, Communal
+- **[Selective Alarm](selective-alarm.md)**: As *alarm*, but only against selected creatures.
 - **[Thaumaturgic Circle](thaumaturgic-circle.md)**: As magic circle, but affecting a nonalignment subtype or outsider race.
 - **[Vigilant Rest](vigilant-rest.md)**: Cause a sleeping creature to retain some perception of its surroundings.
 
@@ -314,8 +325,10 @@ Occultists gain access to the following spells, determined by their chosen imple
 - **[Minor Creation](minor-creation.md)**: Creates one cloth or wood object.
 - Phantom Driver
 - **[Phantom Steed](phantom-steed.md)**: Magic horse appears for 1 hour/level.
+- **[Pocketful of Vipers](pocketful-of-vipers.md)**: Ward a container with summoned vipers.
 - **[Sepia Snake Sigil](sepia-snake-sigil.md)**: Creates text symbol that immobilizes reader.
 - **[Symbol of Healing](symbol-of-healing.md)**: Triggered rune heals living creatures.
+- **[Urban Step](urban-step.md)**: Step into one doorway and out another.
 
 **Divination**:
 
@@ -323,6 +336,7 @@ Occultists gain access to the following spells, determined by their chosen imple
 - **[Clairaudience/Clairvoyance](clairaudience-clairvoyance.md)**: Hear or see at a distance for 1 min./level.
 - **[Follow Aura](follow-aura.md)**: Gain ability to follow the trail of the aura of an alignment.
 - Locate Weakness
+- **[Meticulous Match](meticulous-match.md)**: Determine if two things are identical.
 - **[Pierce Disguise](pierce-disguise.md)**: See through low-level magical disguises.
 - **[Replay Tracks](replay-tracks.md)**: Reconstruct past events from a set of tracks.
 - **[Retrocognition](retrocognition.md)**: Gain psychic impressions from past events in a location.
@@ -357,12 +371,16 @@ Occultists gain access to the following spells, determined by their chosen imple
 **Illusion**:
 
 - **[Adjustable Disguise](adjustable-disguise.md)**
+- **[Audiovisual Hallucination](audiovisual-hallucination.md)**: Create a phantasm with auditory and visual effects.
 - **[Aura Alteration](aura-alteration.md)**: Masks a creature’s or an object’s alignment, emotion, health, and magic auras.
 - **[Displacement](displacement.md)**: Attacks miss subject 50% of the time.
 - **[Illusory Script](illusory-script.md)**: Only select creatures can read text.
+- **[Instant Fake](instant-fake.md)**: Provide a short-term replica of an object.
 - **[Invisibility Sphere](invisibility-sphere.md)**: Makes everyone within 10 ft. invisible.
+- **[Magic Aura, Greater](magic-aura-greater.md)**: As *magic aura*, but also affects creatures and allows more options.
 - **[Major Image](major-image.md)**: As *silent image*, plus sound, smell and thermal effects.
 - **[Mirage](mirage.md)**: Create illusory terrain.
+- **[Undetectable Trap](undetectable-trap.md)**: Make a trap extremely difficult to find.
 - **[Vision of Hell](vision-of-hell.md)**: Illusory hellscape makes creatures shaken.
 
 **Necromancy**:
@@ -387,6 +405,7 @@ Occultists gain access to the following spells, determined by their chosen imple
 - **[Flame Arrow](flame-arrow.md)**: Arrows deal +1d6 fire damage.
 - **[Fly](fly.md)**: Subject flies at speed of 60 ft.
 - **[Gaseous Form](gaseous-form.md)**: Subject becomes insubstantial and can fly slowly.
+- **[Ghost Brand](ghost-brand.md)**: Allow an item to transform into a brand and back.
 - **[Haste](haste.md)**: One creature/level moves faster, +1 on attack rolls, AC, and Reflex saves.
 - **[Heart of the Metal](heart-of-the-metal.md)**
 - Hostile Levitation
@@ -407,6 +426,7 @@ Occultists gain access to the following spells, determined by their chosen imple
 **Abjuration**:
 
 - **[Break Enchantment](break-enchantment.md)**: Frees subjects from enchantments, transmutations, and curses.
+- **[Conjuration Foil](conjuration-foil.md)**: Interfere with nearby teleportation effects.
 - **[Curse of Magic Negation](curse-of-magic-negation.md)**: Target gains the negated spellblight.
 - **[Dimensional Anchor](dimensional-anchor.md)**: Bars extradimensional movement.
 - **[Dismissal](dismissal.md)**: Forces a creature to return to its native plane.
@@ -416,6 +436,7 @@ Occultists gain access to the following spells, determined by their chosen imple
 - **[Globe of Invulnerability, Lesser](globe-of-invulnerability-lesser.md)**: Stops 1st- through 3rd- level spell effects.
 - **[Life Bubble](life-bubble.md)**: Protects creatures from sustained environmental effects.
 - Nondetection, Communal
+- **[Peacebond, Greater](peacebond-greater.md)**: As *peacebond*, but on multiple weapons, even if they aren’t sheathed.
 - **[Soothe Construct](soothe-construct.md)**: Reduce the berserk chance of a construct.
 - **[Spell Immunity](spell-immunity.md)**: Subject is immune to one spell per 4 levels.
 - **[Stoneskin](stoneskin.md)**: Grants DR 10/adamantine.
@@ -429,6 +450,7 @@ Occultists gain access to the following spells, determined by their chosen imple
 - **[Cure Critical Wounds](cure-critical-wounds.md)**: Cures 4d8 damage + 1/level (max +20).
 - **[Dimension Door](dimension-door.md)**: Teleports you a short distance.
 - **[Major Creation](major-creation.md)**: As *minor creation,* plus stone and metal.
+- **[Poisonous Balm](poisonous-balm.md)**: As *cure serious wounds*, but leave behind a latent venom.
 - Phantom Chariot
 - Phantom Steed, Communal
 
@@ -437,17 +459,22 @@ Occultists gain access to the following spells, determined by their chosen imple
 - **[Arcane Eye](arcane-eye.md)**: Invisible floating eye moves 30 ft./round.
 - **[Contact Other Plane](contact-other-plane.md)**: Lets you ask question of extraplanar entity.
 - **[Detect Scrying](detect-scrying.md)**: Alerts you to magical eavesdropping
+- **[Glimpse of Truth](glimpse-of-truth.md)**: Gain *true seeing* for 1 round.
 - **[Locate Creature](locate-creature.md)**: Indicates direction to familiar creature.
 - **[Mind Probe](mind-probe.md)**: Learn answers from a subject’s memories.
 - **[Scrying](scrying.md)**: Spies on subject from a distance.
 - **[Symbol of Scrying](symbol-of-scrying.md)**: Triggered rune activates scrying sensor.
+- **[Unerring Tracker](unerring-tracker.md)**: Follow an entire trail unerringly.
+- **[Vicarious View](vicarious-view.md)**: Plant a scrying sensor that you can use to spy on a creature, object, or location.
 
 **Enchantment**:
 
 - **[Charm Monster](charm-monster.md)**: Makes monster believe it is your ally.
+- **[Charm Person, Mass](charm-person-mass.md)**: As *charm person*, but affects multiple creatures within 30 ft.
 - **[Confusion](confusion.md)**: Subjects behave oddly for 1 round/level.
 - **[Curse of Disgust](curse-of-disgust.md)**: Target is sickened when viewing a trigger.
 - **[Daze, Mass](daze-mass.md)**: As daze, but affecting multiple creatures.
+- **[Demanding Message](demanding-message.md)**: Send messages as per *message* with a *suggestion* for one creature.
 - **[Hold Monster](hold-monster.md)**: As *hold person*, but any creature.
 - **[Mind Swap](mind-swap.md)**: Switch minds with another creature for 1 hour per level.
 - **[Mindwipe](mindwipe.md)**: Erase a portion of the target’s mind and experiences, inflicting negative levels.
@@ -459,6 +486,7 @@ Occultists gain access to the following spells, determined by their chosen imple
 
 - **[Ball Lightning](ball-lightning.md)**: Flying lightning spheres deal 3d6 electricity damage each.
 - **[Contingent Scroll](contingent-scroll.md)**
+- **[Controlled Fireball](controlled-fireball.md)**: As *fireball,* but secretly deals less damage to your allies.
 - **[Etheric Shards](etheric-shards.md)**: Fill an area with invisible shards that slow movement and damage creatures.
 - **[Fire Shield](fire-shield.md)**: Creatures attacking you take fire damage; you’re protected from heat or cold.
 - **[Flaming Sphere, Greater](flaming-sphere-greater.md)**: Rolling ball of fire deals 6d6 fire damage and ignites targets.
@@ -474,14 +502,18 @@ Occultists gain access to the following spells, determined by their chosen imple
 
 **Illusion**:
 
+- **[Complex Hallucination](complex-hallucination.md)**: Create a phantasm with effects for all senses.
+- **[Illusion of Treachery](illusion-of-treachery.md)**: Make it seem like another is also responsible for your attacks.
 - **[Illusory Wall](illusory-wall.md)**: Wall, floor, or ceiling looks real, but anything can pass through.
 - **[Invisibility, Greater](invisibility-greater.md)**: As invisibility, but subject can attack and stay invisible.
 - Shocking Image
 - Symbol of Striking
+- **[Quieting Weapons](quieting-weapons.md)**: Weapons make no sound and quiet their victims.
 - **[Wandering Star Motes](wandering-star-motes.md)**: Outlines subject and produces light as a sunrod.
 
 **Necromancy**:
 
+- **[Conditional Curse](conditional-curse.md)**: Bestow a curse that is difficult to remove without fulfilling a condition.
 - **[Death Ward](death-ward.md)**: Grants bonuses against death spells and negative energy.
 - **[False Life, Greater](false-life-greater.md)**: Gain 2d10 temporary hp + 1/level.
 - **[Fear](fear.md)**: Subjects within cone flee for 1 round/level.
@@ -490,6 +522,7 @@ Occultists gain access to the following spells, determined by their chosen imple
 - **[Poison](poison.md)**: Touch deals 1d3 Con damage 1/round for 6 rounds.
 - **[Possession](possession.md)**: Project your soul into a creature’s body.
 - Summoner Conduit
+- **[Red Hand of the Killer](red-hand-of-the-killer.md)**: Stain the hand of a creature’s killer red.
 - **[Symbol of Fear](symbol-of-fear.md)**: Triggered rune panics nearby creatures.
 - **[Symbol of Pain](symbol-of-pain.md)**: Triggered rune wracks creatures with pain.
 
@@ -500,6 +533,7 @@ Occultists gain access to the following spells, determined by their chosen imple
 - **[Darkvision, Greater](darkvision-greater.md)**: See 120 ft. in total darkness.
 - **[Echolocation](echolocation.md)**: Sonic sense gives you blindsight 40 ft.
 - Magic Siege Engine, Greater
+- **[Majestic Image](majestic-image.md)**: As *enter image*, but also gain bonuses on social skills while in the image.
 - **[Malfunction](malfunction.md)**: Construct behaves oddly for 1 round/level.
 - **[Mirror Transport](mirror-transport.md)**
 - **[Parchment Swarm](parchment-swarm.md)**
@@ -556,8 +590,10 @@ Occultists gain access to the following spells, determined by their chosen imple
 **Illusion**:
 
 - **[False Vision](false-vision.md)**: Fools scrying with an illusion.
+- **[Illusion of Treachery, Greater](illusion-of-treachery-greater.md)**: Make it seem like another is responsible for your attacks while concealing your own actions.
 - **[Mislead](mislead.md)**: Turns you invisible and creates illusory double.
 - **[Persistent Image](persistent-image.md)**: As *major image*, but with no concentration required.
+- **[Scripted Hallucination](scripted-hallucination.md)**: As *complex hallucination*, but without concentration.
 - **[Seeming](seeming.md)**: Changes appearance of 1 person per 2 levels.
 
 **Necromancy**:
@@ -603,6 +639,7 @@ Occultists gain access to the following spells, determined by their chosen imple
 - **[Getaway](getaway.md)**: Teleports you and select creatures to predetermined location.
 - **[Heal](heal.md)**: Cures 10 points/level damage, all diseases and mental conditions.
 - **[Planar Binding](planar-binding.md)**: As *lesser planar binding,* but up to 12 HD.
+- **[Treacherous Teleport](treacherous-teleport.md)**: As *teleport*, except you choose some creatures to suffer a mishap or go elsewhere.
 - **[Wall of Iron](wall-of-iron.md)**: 30 hp/four levels; can topple onto foes.
 
 **Divination**:
@@ -618,6 +655,7 @@ Occultists gain access to the following spells, determined by their chosen imple
 - **[Antipathy](antipathy.md)**: Object or location affected by spell repels certain creatures.
 - **[Charm Monster, Mass](charm-monster-mass.md)**: As *charm monster,* but all within 30 ft.
 - **[Cloak of Dreams](cloak-of-dreams.md)**: Creatures within 5 ft. fall asleep.
+- **[Demanding Message, Mass](demanding-message-mass.md)**: Send messages as per *message* with one *suggestion* for each creature.
 - **[Symbol of Insanity](symbol-of-insanity.md)**: Triggered rune renders nearby creatures insane.
 - **[Symbol of Strife](symbol-of-strife.md)**: Triggered rune makes creatures attack.
 - **[Sympathy](sympathy.md)**: Object or location attracts certain creatures.
@@ -637,6 +675,7 @@ Occultists gain access to the following spells, determined by their chosen imple
 
 - **[Permanent Image](permanent-image.md)**: Permanent illusion, includes sight, sound, smell, and thermal effects.
 - **[Project Image](project-image.md)**: Illusory double can talk and cast spells.
+- **[Triggered Hallucination](triggered-hallucination.md)**: As *scripted hallucination*, but it only appears when triggered.
 
 **Necromancy**:
 
@@ -649,6 +688,7 @@ Occultists gain access to the following spells, determined by their chosen imple
 **Transmutation**:
 
 - **[Animate Objects](animate-objects.md)**: Objects attack your foes.
+- **[Break, Greater](break-greater.md)**: Break all nearby objects.
 - **[Control Construct](control-construct.md)**: Take control of a construct.
 - **[Disintegrate](disintegrate.md)**: Reduces one creature or object to dust.
 - **[Enemy Hammer](enemy-hammer.md)**: Allows you to telekinetically use a creature as a weapon.

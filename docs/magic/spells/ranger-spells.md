@@ -14,12 +14,15 @@
 - **[Compel Hostility](compel-hostility.md)**: Compels opponents to attack you instead of your allies.
 - **[Deadeye’s Lore](deadeyes-lore.md)**: Gain a +4 bonus on Survival and move full speed while tracking.
 - **[Delay Poison](delay-poison.md)**: Stops poison from harming subject for 1 hour/level.
+- **[Desperate Weapon](desperate-weapon.md)**: Create an improvised weapon.
 - **[Detect Animals or Plants](detect-animals-or-plants.md)**: Detects kinds of animals or plants.
 - **[Detect Poison](detect-poison.md)**: Detects poison in one creature or object.
 - **[Detect Snares and Pits](detect-snares-and-pits.md)**: Reveals natural or primitive traps.
+- **[Detect the Faithful](detect-the-faithful.md)**: Find others of the same faith.
 - **[Echo](echo.md)**: Cause a sound to repeat itself.
 - **[Endure Elements](endure-elements.md)**: Exist comfortably in hot or cold regions.
 - **[Entangle](entangle.md)**: Plants entangle everyone in 40-ft. radius.
+- **[Handy Grapnel](handy-grapnel.md)**: Transform a ropelike object into a retracting grapple.
 - **[Hidden Spring](hidden-spring.md)**: Discover a temporary spring of fresh, flowing water.
 - **[Hide from Animals](hide-from-animals.md)**: Animals can’t perceive one subject/level.
 - **[Ironbeard](ironbeard.md)**: School transmutation; Level antipaladin 1, cleric 1, magus 1, paladin 1, ranger 1 Casting Time 1 standard.
@@ -40,6 +43,7 @@
 - **[Summon Nature’s Ally I](summon-natures-ally-i.md)**: Summons creature to fight for you.
 - **[Sun Metal](sun-metal.md)**: Weapon touched bursts into flames.
 - **[Tamer’s Lash](tamers-lash.md)**: Create a whip made of sound that damages foes and can frighten animals.
+- **[Underbrush Decoy](underbrush-decoy.md)**: Create a rustling distraction to hide.
 - **[Urban Grace](urban-grace.md)**: You become one with the city around you, allowing you to move more easily through its crowds and buildings.
 - **[Whispering Lore](whispering-lore.md)**: Upon casting this spell, you are able to gain knowledge from the land itself.
 - **[Winter Feathers](winter-feathers.md)**: School abjuration; Level cleric 1, druid 1, inquisitor 1, ranger 1, sorcerer/wizard 1 Casting Time 1 standard.
@@ -69,6 +73,7 @@
 - **[Iron Stake](iron-stake.md)**: Hurl a spike of cold iron at a foe.
 - **[Locate Weakness](locate-weakness.md)**: You roll damage twice when you roll damage for a critical hit and take the best damage.
 - **[Owl’s Wisdom](owls-wisdom.md)**: Subject gains +4 to Wis for 1 min./level.
+- **[Pack Empathy](pack-empathy.md)**: Create an empathic bond with allies.
 - **[Pouncing Fury](pouncing-fury.md)**: Make a full attack with your claws after a charge.
 - **[Protection from Energy](protection-from-energy.md)**: Absorbs 12 points/level of damage from one kind of energy.
 - **[Reloading Hands](reloading-hands.md)**: Loads a single shot into your weapon every round.
@@ -79,10 +84,12 @@
 - **[Scamper](scamper.md)**: Grant your animal companion astonishing agility.
 - **[Sea Steed](sea-steed.md)**: Your mount adapts to an aquatic environment.
 - **[Seed Spies](seed-spies.md)**: Wafting seeds act as spies, as insect spies.
+- **[Selective Alarm](selective-alarm.md)**: As *alarm*, but only against selected creatures.
 - **[Snare](snare.md)**: Creates a magic booby trap.
 - **[Speak with Plants](speak-with-plants.md)**: You can talk to plants and plant creatures.
 - **[Spike Growth](spike-growth.md)**: Creatures in area take 1d4 damage, may be slowed*.*
 - **[Summon Nature’s Ally II](summon-natures-ally-ii.md)**: Summons creature to fight for you.
+- **[Undetectable Trap](undetectable-trap.md)**: Make a trap extremely difficult to find.
 - **[Vine Strike](vine-strike.md)**: Enhance one of your natural or unarmed attacks with thorny vine growth.
 - **[Water Walk, Communal](water-walk-communal.md)**: As water walk, but you may divide the duration among creatures touched.
 - **[Wilderness Soldiers](wilderness-soldiers.md)**: Nearby plants aid you in combat.
@@ -91,6 +98,8 @@
 
 ## 3rd-Level Ranger Spells
 
+- **[Aerial Tracks](aerial-tracks.md)**: Track flying creatures through the air.
+- **[Animal Ambassador](animal-ambassador.md)**: Grant an animal messenger sentience to deliver your message.
 - **[Animal Aspect, Greater](animal-aspect-greater.md)**: As animal aspect, but you gain two animal qualities.
 - **[Apport Animal](apport-animal.md)**: Send or receive a Tiny or smaller animal via teleportation.
 - **[Bleed for Your Master](bleed-for-your-master.md)**: Compel a companion to take damage for you.
@@ -103,12 +112,17 @@
 - **[Diminish Plants](diminish-plants.md)**: Reduces size or blights growth of normal plants.
 - **[Enshroud Thoughts](enshroud-thoughts.md)**: Ward yourself against thought detection and memory alteration.
 - **[Forest’s Sense](forests-sense.md)**: Sense the location of a distant target that is near a plant or fungus.
+- **[Insect Spies](insect-spies.md)**: Use magic beetles as spies.
+- **[Instant Fake](instant-fake.md)**: Provide a short-term replica of an object.
 - **[Magic Fang, Greater](magic-fang-greater.md)**: One natural weapon gets + 1/four levels (max. +5).
+- **[Meticulous Match](meticulous-match.md)**: Determine if two things are identical.
 - **[Mirage](mirage.md)**: Create illusory terrain.
 - **[Named Bullet](named-bullet.md)**: Imbues ammunition with accuracy against a specific creature type.
 - **[Neutralize Poison](neutralize-poison.md)**: Immunizes subject against poison, detoxifies venom in or on subject.
 - **[Plant Growth](plant-growth.md)**: Grows vegetation, improves crops.
+- **[Pocketful of Vipers](pocketful-of-vipers.md)**: Ward a container with summoned vipers.
 - **[Protection from Energy, Communal](protection-from-energy-communal.md)**: As protection from energy, but you may divide the duration among creatures touched.
+- **[Quieting Weapons](quieting-weapons.md)**: Weapons make no sound and quiet their victims.
 - **[Reduce Animal](reduce-animal.md)**: Shrinks one willing animal.
 - **[Remove Disease](remove-disease.md)**: Cures all diseases affecting subject.
 - **[Repel Vermin](repel-vermin.md)**: Insects, spiders, and other vermin stay 10 ft. away.
@@ -131,16 +145,19 @@
 - **[Companion Transposition](companion-transposition.md)**: Swap places with your animal companion, familiar, or spirit animal via teleportation.
 - **[Cure Serious Wounds](cure-serious-wounds.md)**: Cures 3d8 damage + 1/level (max +15).
 - **[Darkvision, Communal](darkvision-communal.md)**: As darkvision, but you may divide the duration among creatures touched.
+- **[Entice Fey, Lesser](entice-fey-lesser.md)**: Entice service from a fey of 6 Hit Dice or fewer.
 - **[Find Quarry](find-quarry.md)**: You can sense whether a particular creature is within 20 miles of your location.
 - **[Freedom of Movement](freedom-of-movement.md)**: Subject moves normally despite impediments to movement.
 - **[Named Bullet, Greater](named-bullet-greater.md)**: As named bullet, but deals 2 points of damage per caster level.
 - **[Nondetection](nondetection.md)**: Hides subject from divination, scrying.
+- **[Overwhelming Poison](overwhelming-poison.md)**: Make a poison more difficult to resist.
 - **[Sea Stallion](sea-stallion.md)**: You and your mount adapt to an aquatic environment.
 - **[Sickening Strikes](sickening-strikes.md)**: You are imbued with disease, and any creature you strike with a melee attack must make a Fortitude save or be.
 - **[Sturdy Tree Fort](sturdy-tree-fort.md)**: Create a tree with a defensive fort within it.
 - **[Summon Nature’s Ally IV](summon-natures-ally-iv.md)**: Summons creature to fight for you.
 - **[Terrain Bond](terrain-bond.md)**: Treat the terrain you are in as a favored terrain for the spell’s duration.
 - **[Tree Stride](tree-stride.md)**: Step from one tree to another far away.
+- **[Unerring Tracker](unerring-tracker.md)**: Follow an entire trail unerringly.
 
 ## Ultimate Magic Spells
 

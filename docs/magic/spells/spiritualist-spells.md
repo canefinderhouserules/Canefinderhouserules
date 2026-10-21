@@ -79,6 +79,7 @@ Spiritualists gain access to the following spells. Spells without a link come fr
 - **[Catatonia](catatonia.md)**: Make a willing target appear to be dead.
 - **[Cure Moderate Wounds](cure-moderate-wounds.md)**: Cures 2d8 damage +1/level (max. +10).
 - **[Death Knell](death-knell.md)**: Kills dying creature; you gain 1d8 temporary hp, +2 to Str, and +1 caster level.
+- **[Detect Magic, Greater](detect-magic-greater.md)**: As *detect magic*, but learn more information.
 - **[Detect Thoughts](detect-thoughts.md)**: Allows “listening” to surface thoughts.
 - **[Disfiguring Touch](disfiguring-touch.md)**: Target becomes disfigured.
 - **[Emotive Block](emotive-block.md)**: Add an emotion component to all of the target’s spells.
@@ -106,6 +107,7 @@ Spiritualists gain access to the following spells. Spells without a link come fr
 - **[Restoration, Lesser](restoration-lesser.md)**: Dispels magical ability penalty or repairs 1d4 ability damage.
 - **[Scare](scare.md)**: Frightens creature of less than 6 HD.
 - **[See Invisibility](see-invisibility.md)**: Reveals invisible creatures or objects.
+- **[Shifted Steps](shifted-steps.md)**: Make a target sound as if elsewhere.
 - **[Spectral Hand](spectral-hand.md)**: Creates disembodied glowing hand to deliver touch attacks.
 - **[Spiritual Weapon](spiritual-weapon.md)**: Magic weapon attacks on its own.
 - **[Status](status.md)**: Monitors condition, position of allies.
@@ -128,6 +130,8 @@ Spiritualists gain access to the following spells. Spells without a link come fr
 - **[Condensed Ether](condensed-ether.md)**: Creates a planar conjunction that slows movement, penalizes AC and Reflex saves, and imposes a miss chance on ranged attacks.
 - **[Contagious Zeal](contagious-zeal.md)**: Grant bonuses and temporary hit points that spread from creature to creature.
 - **[Cure Serious Wounds](cure-serious-wounds.md)**: Cures 3d8 damage + 1/level (max +15).
+- **[Detect Anxieties](detect-anxieties.md)**: Learn what makes creatures anxious.
+- **[Detect Desires](detect-desires.md)**: Learn what creatures desire.
 - **[Dispel Magic](dispel-magic.md)**: Cancels one magical spell or effect.
 - **[Displacement](displacement.md)**: Attacks miss subject 50% of the time.
 - **[Ectoplasmic Snare](ectoplasmic-snare.md)**: Tendril of ectoplasm grapples a creature and tethers you to it.
@@ -153,6 +157,7 @@ Spiritualists gain access to the following spells. Spells without a link come fr
 - **[Nondetection](nondetection.md)**: Hides subject from divination, scrying.
 - **[Object Possession, Lesser](object-possession-lesser.md)**: Project your soul into an object, animating it.
 - **[Obscure Object](obscure-object.md)**: Masks object against scrying.
+- **[Pack Empathy](pack-empathy.md)**: Create an empathic bond with allies.
 - **[Pain Strike](pain-strike.md)**: Inflicts 1d6 nonlethal damage 1 round/level.
 - Phantom Driver
 - **[Phantom Steed](phantom-steed.md)**: Magic horse appears for 1 hour/level.
@@ -165,6 +170,7 @@ Spiritualists gain access to the following spells. Spells without a link come fr
 - **[Sands of Time](sands-of-time.md)**: Target temporarily ages.
 - **[Sealed Life](sealed-life.md)**: Prevent a creature from transferring life force to or from others.
 - **[Seek Thoughts](seek-thoughts.md)**: Detects thinking creatures’ thoughts.
+- **[Selective Alarm](selective-alarm.md)**: As *alarm*, but only against selected creatures.
 - **[Sessile Spirit](sessile-spirit.md)**: Cause a spirit inhabiting a creature or an object to go dormant.
 - **[Slow](slow.md)**: One subject/level takes only one action/round, –1 to AC, Reflex saves, and attack rolls.
 - **[Speak with Dead](speak-with-dead.md)**: Corpse answers one question/two levels.
@@ -177,6 +183,7 @@ Spiritualists gain access to the following spells. Spells without a link come fr
 - **[Undead Anatomy I](undead-anatomy-i.md)**: Take the form and some of the powers of a Small or Medium undead.
 - **[Unliving Rage](unliving-rage.md)**
 - **[Vampiric Touch](vampiric-touch.md)**: Touch deals 1d6 damage/2 levels; caster gains damage as temporary hp.
+- **[Voluminous Vocabulary](voluminous-vocabulary.md)**: Grant ability to speak, read, and write one or more languages for 8 hours.
 - **[Wind Wall](wind-wall.md)**: Deflects arrows, smaller creatures, and gases.
 
 ## 4th-Level Spiritualist Spells
@@ -187,6 +194,7 @@ Spiritualists gain access to the following spells. Spells without a link come fr
 - **[Bestow Curse](bestow-curse.md)**: –6 to an ability score; –4 on attack rolls, saves, and checks; or 50% chance of losing each action.
 - **[Black Tentacles](black-tentacles.md)**: Tentacles grapple all creatures within a 20-ft. spread.
 - **[Confusion](confusion.md)**: Subjects behave oddly for 1 round/level.
+- **[Conjuration Foil](conjuration-foil.md)**: Interfere with nearby teleportation effects.
 - **[Crushing Despair](crushing-despair.md)**: Subjects take –2 on attack rolls, damage rolls, saves, and checks.
 - **[Cure Critical Wounds](cure-critical-wounds.md)**: Cures 4d8 damage + 1/level (max +20).
 - **[Death Ward](death-ward.md)**: Grants bonuses against death spells and negative energy.
@@ -200,13 +208,17 @@ Spiritualists gain access to the following spells. Spells without a link come fr
 - **[Erase Impressions](erase-impressions.md)**: Erase psychic impressions from an object.
 - **[Ethereal Envelope](ethereal-envelope.md)**: Shroud your unconscious self in a cocoon on the Ethereal Plane.
 - **[Etheric Shards](etheric-shards.md)**: Fill an area with invisible shards that slow movement and damage creatures.
+- **[False Future](false-future.md)**: Cause divinations of the future to reveal the result you choose.
 - **[False Life, Greater](false-life-greater.md)**: Gain 2d10 temporary hp + 1/level.
 - **[Fear](fear.md)**: Subjects within cone flee for 1 round/level.
 - **[Freedom of Movement](freedom-of-movement.md)**: Subject moves normally despite impediments to movement.
+- **[Ghost Brand](ghost-brand.md)**: Allow an item to transform into a brand and back.
+- **[Hollow Heroism](hollow-heroism.md)**: Provide a *heroism* effect that you can reverse at any time.
 - **[Imbue with Spell Ability](imbue-with-spell-ability.md)**: Transfer spells to subject.
 - **[Inflict Critical Wounds](inflict-critical-wounds.md)**: Touch attack, 4d8 damage + 1/level (max +20).
 - **[Invisibility, Greater](invisibility-greater.md)**: As invisibility, but subject can attack and stay invisible.
 - **[Locate Creature](locate-creature.md)**: Indicates direction to familiar creature.
+- **[Majestic Image](majestic-image.md)**: As *enter image*, but also gain bonuses on social skills while in the image.
 - **[Mind Swap](mind-swap.md)**: Switch minds with another creature for 1 hour per level.
 - **[Mindwipe](mindwipe.md)**: Erase a portion of the target’s mind and experiences, inflicting negative levels.
 - **[Mirror Transport](mirror-transport.md)**
@@ -215,6 +227,8 @@ Spiritualists gain access to the following spells. Spells without a link come fr
 - Phantom Chariot
 - Phantom Steed, Communal
 - **[Possession](possession.md)**: Project your soul into a creature’s body.
+- **[Quieting Weapons](quieting-weapons.md)**: Weapons make no sound and quiet their victims.
+- **[Red Hand of the Killer](red-hand-of-the-killer.md)**: Stain the hand of a creature’s killer red.
 - **[Remove Curse](remove-curse.md)**: Frees object or person from curse.
 - **[Restoration](restoration.md)**: Restores level and ability score drains.
 - **[Shadow Conjuration](shadow-conjuration.md)**: Mimics conjuration below 4th level, but only 20% real.
@@ -228,6 +242,7 @@ Spiritualists gain access to the following spells. Spells without a link come fr
 - **[Telekinetic Maneuver](telekinetic-maneuver.md)**: Perform a telekinetic combat maneuver.
 - **[Terrible Remorse](terrible-remorse.md)**: Creature is compelled to harm itself.
 - **[Thoughtsense](thoughtsense.md)**: Automatically detect nearby conscious creatures.
+- **[Vicarious View](vicarious-view.md)**: Plant a scrying sensor that you can use to spy on a creature, object, or location.
 - **[Vigilant Rest](vigilant-rest.md)**: Cause a sleeping creature to retain some perception of its surroundings.
 
 ## 5th-Level Spiritualist Spells
@@ -236,6 +251,7 @@ Spiritualists gain access to the following spells. Spells without a link come fr
 - **[Breath of Life](breath-of-life.md)**: Cures 5d8 damage + 1/level and restores life to recently slain creatures.
 - **[Call Spirit](call-spirit.md)**: Make the spirit of one creature manifest.
 - **[Cloudkill](cloudkill.md)**: Kills 3 HD or less; 4–6 HD save or die, 6+ HD take Con damage.
+- **[Conditional Curse](conditional-curse.md)**: Bestow a curse that is difficult to remove without fulfilling a condition.
 - **[Contact Other Plane](contact-other-plane.md)**: Lets you ask question of extraplanar entity.
 - **[Curse, Major](curse-major.md)**: As bestow curse, but harder to remove.
 - **[Dismissal](dismissal.md)**: Forces a creature to return to its native plane.
@@ -248,6 +264,7 @@ Spiritualists gain access to the following spells. Spells without a link come fr
 - **[Feeblemind](feeblemind.md)**: Subject’s Int and Cha drop to 1.
 - **[Fickle Winds](fickle-winds.md)**: Wind walls selectively block attacks.
 - **[Foster Hatred](foster-hatred.md)**: Cause creatures to hate one type of creature.
+- **[Glimpse of Truth](glimpse-of-truth.md)**: Gain *true seeing* for 1 round.
 - **[Incorporeal Chains](incorporeal-chains.md)**: Grapple incorporeal creatures and deal damage equal to 1d8 + Int.
 - **[Inflict Pain, Mass](inflict-pain-mass.md)**: As inflict pain, but affecting one creature per level.
 - **[Mage’s Faithful Hound](mages-faithful-hound.md)**: Phantom dog can guard a location and attack intruders.
@@ -260,6 +277,7 @@ Spiritualists gain access to the following spells. Spells without a link come fr
 - **[Phantasmal Web](phantasmal-web.md)**: Catches subjects in illusory web.
 - **[Planar Adaptation](planar-adaptation.md)**: Resist harmful effects of other plane.
 - **[Plane Shift](plane-shift.md)**: As many as eight subjects travel to another plane.
+- **[Pox of Rumors](pox-of-rumors.md)**: Curse a creature to attract nasty rumors.
 - **[Prying Eyes](prying-eyes.md)**: 1d4 + 1/level floating eyes scout for you.
 - **[Raise Dead](raise-dead.md)**: Restores life to subject who died as long as one day/level ago.
 - **[Remote Viewing](remote-viewing.md)**: Gain psychic impressions from a distant location.
@@ -301,12 +319,14 @@ Spiritualists gain access to the following spells. Spells without a link come fr
 - **[Legend Lore](legend-lore.md)**: Lets you learn tales about a person, place, or thing.
 - **[Mislead](mislead.md)**: Turns you invisible and creates illusory double.
 - **[Object Possession, Greater](object-possession-greater.md)**: As possess object, but the object is more powerful and you can possess a construct.
+- **[Prognostication](prognostication.md)**: Gain cryptic information from further in the future than *divination*.
 - **[Repulsion](repulsion.md)**: Creatures can’t approach you.
 - **[Sealed Life, Greater](sealed-life-greater.md)**: As sealed life, plus death ward and immunity to soul transference.
 - **[Shadow Walk](shadow-walk.md)**: Step into shadow to travel rapidly.
 - **[Summon Monster VI](summon-monster-vi.md)**: Summons extraplanar creature to fight for you.
 - **[Telepathy](telepathy.md)**: Communicate mentally with creatures within 100 ft.
 - **[Transformation](transformation.md)**: You gain combat bonuses.
+- **[Treacherous Teleport](treacherous-teleport.md)**: As *teleport*, except you choose some creatures to suffer a mishap or go elsewhere.
 - **[True Seeing](true-seeing.md)**: Lets you see all things as they really are.
 - **[Undead Anatomy III](undead-anatomy-iii.md)**: Take the form and some of the powers of a Diminutive or Huge undead.
 - **[Undeath to Death](undeath-to-death.md)**: Destroys 1d4/level HD of undead (max. 20d4).

@@ -6,14 +6,18 @@
 - **[Bless Water](bless-water.md)**: Makes holy water.
 - **[Bless Weapon](bless-weapon.md)**: Weapon strikes true against evil foes.
 - **[Bowstaff](bowstaff.md)**: A shortbow may double as a club, or a longbow as a quarterstaff.
+- **[Build Trust](build-trust.md)**: Gain various bonuses when interacting with the target.
 - **[Compel Hostility](compel-hostility.md)**: Compels opponents to attack you instead of your allies.
+- **[Conditional Favor](conditional-favor.md)**: Provide another spell whose effects reverse if the target breaks a restriction.
 - **[Create Water](create-water.md)**: Creates 2 gallons/level of pure water.
 - **[Cure Light Wounds](cure-light-wounds.md)**: Cures 1d8 damage + 1/level (max +5).
 - **[Detect Poison](detect-poison.md)**: Detects poison in one creature or small object.
+- **[Detect the Faithful](detect-the-faithful.md)**: Find others of the same faith.
 - **[Detect Undead](detect-undead.md)**: Reveals undead within 60 ft.
 - **[Divine Favor](divine-favor.md)**: You gain +1 per three levels on attack and damage rolls.
 - **[Endure Elements](endure-elements.md)**: Exist comfortably in hot or cold regions.
 - **[Ironbeard](ironbeard.md)**: School transmutation; Level antipaladin 1, cleric 1, magus 1, paladin 1, ranger 1 Casting Time 1 standard.
+- **[Know Peerage](know-peerage.md)**: Target uses your Knowledge (nobility) ranks.
 - **[Liberating Command](liberating-command.md)**: Target makes an Escape Artist check as an immediate action and gains a bonus on it.
 - **[Linebreaker](linebreaker.md)**: You gain a +20 foot bonus to your base speed when charging and a +2 bonus on combat maneuver checks made to.
 - **[Litany of Sloth](litany-of-sloth.md)**: Single target cannot make attacks of opportunity for 1 round.
@@ -67,6 +71,8 @@
 - **[Daylight](daylight.md)**: 60-ft. radius of bright light.
 - **[Deadly Juggernaut](deadly-juggernaut.md)**: Your might increases with every kill you make.
 - **[Delay Poison, Communal](delay-poison-communal.md)**: As delay poison, but you may divide the duration among creatures touched.
+- **[Detect Anxieties](detect-anxieties.md)**: Learn what makes creatures anxious.
+- **[Detect Desires](detect-desires.md)**: Learn what creatures desire.
 - **[Discern Lies](discern-lies.md)**: Reveals deliberate falsehoods.
 - **[Dispel Magic](dispel-magic.md)**: Cancels one magical spell or effect.
 - **[Heal Mount](heal-mount.md)**: As *heal* on horse or other special mount.
@@ -80,10 +86,12 @@
 - **[Resilient Reservoir](resilient-reservoir.md)**: School transmutation; Level magus 3, paladin 3, sorcerer/wizard 4, witch 4 Casting Time 1 standard action.
 - **[Resist Energy, Communal](resist-energy-communal.md)**: As resist energy, but you may divide the duration among creatures touched.
 - **[Sky Steed](sky-steed.md)**: Grant your mount angelic wings.
+- **[They Know](they-know.md)**: Convince target that a nearby creature knows her greatest secret.
 - **[Vigilant Rest](vigilant-rest.md)**: Cause a sleeping creature to retain some perception of its surroundings.
 
 ## 4th-Level Paladin Spells
 
+- **[Absolution](absolution.md)**: Removes enchantments and forgives actions taken under their effects.
 - **[Break Enchantment](break-enchantment.md)**: Frees subjects from enchantments, transmutations, and curses.
 - **[Companion Transposition](companion-transposition.md)**: Swap places with your animal companion, familiar, or spirit animal via teleportation.
 - **[Cure Serious Wounds](cure-serious-wounds.md)**: Cures 3d8 damage + 1/level (max +15).
@@ -97,6 +105,7 @@
 - **[Mark of Justice](mark-of-justice.md)**: Designates action that triggers *curse* on subject.
 - **[Neutralize Poison](neutralize-poison.md)**: Immunizes subject against poison, detoxifies venom in or on subject.
 - **[Paragon Surge](paragon-surge.md)**: You surge with ancestral power, temporarily embodying all the strengths of both elvenkind and humankind.
+- **[Red Hand of the Killer](red-hand-of-the-killer.md)**: Stain the hand of a creature’s killer red.
 - **[Restoration](restoration.md)**: Restores level and ability score drains.
 - **[Sea Stallion](sea-stallion.md)**: You and your mount adapt to an aquatic environment.
 

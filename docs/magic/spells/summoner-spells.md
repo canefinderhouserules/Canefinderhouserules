@@ -20,6 +20,8 @@ New summoner spells from *Ultimate Magic*. Spells from other books will be added
 - **[Ant Haul, Communal](ant-haul-communal.md)**: As ant haul, but you may divide the duration among creatures touched.
 - **[Aquatic Cavalry](aquatic-cavalry.md)**: Summon hippocampi to serve as aquatic mounts.
 - **[Cushioning Bands](cushioning-bands.md)**: Force bands protect against crushing.
+- **[Dark Whispers](dark-whispers.md)**: Whisper through the shadows.
+- **[Detect Magic, Greater](detect-magic-greater.md)**: As *detect magic*, but learn more information.
 - **[Ghost Wolf](ghost-wolf.md)**: This spell conjures a Large, quasi-real, wolflike creature made of roiling black smoke.
 - **[Mount, Communal](mount-communal.md)**: As mount, but you may divide the duration among creatures touched.
 - **[Protection from Chaos, Communal](protection-from-chaos-communal.md)**: As protection from chaos, but you may divide the duration among creatures touched.
@@ -36,25 +38,33 @@ New summoner spells from *Ultimate Magic*. Spells from other books will be added
 
 - **[Agonize](agonize.md)**: Pain encourages an outsider to obey you.
 - **[Apport Animal](apport-animal.md)**: Send or receive a Tiny or smaller animal via teleportation.
+- **[Conjuration Foil](conjuration-foil.md)**: Interfere with nearby teleportation effects.
+- **[Conjure Carriage](conjure-carriage.md)**: Create a fine carriage.
 - **[Control Summoned Creature](control-summoned-creature.md)**: Direct a summoned monster as if you had summoned it.
+- **[Insect Spies](insect-spies.md)**: Use magic beetles as spies.
 - **[Leshy Swarm](leshy-swarm.md)**: Summon a swarm of Tiny leshys.
 - **[Life Conduit, Improved](life-conduit-improved.md)**: Transfers 2d6 hit points to your eidolon as a swift action.
 - **[Mad Monkeys](mad-monkeys.md)**: Summon a swarm of mischievous monkeys.
 - **[Marionette Possession](marionette-possession.md)**: As magic jar, but limited to line of sight.
 - **[Obsidian Flow](obsidian-flow.md)**: Converts the surface of the ground into molten glass. Spells 6 Protection from Energy, Communal: As protection from energy, but you may divide the duration among creatures touched.
+- **[Pack Empathy](pack-empathy.md)**: Create an empathic bond with allies.
 - **[Pellet Blast](pellet-blast.md)**
 - **[Phantom Chariot](phantom-chariot.md)**: Conjures a quasi-real heavy chariot pulled by four horses.
 - **[Protection from Arrows, Communal](protection-from-arrows-communal.md)**: As protection from arrows, but you may divide the duration among creatures touched.
 - **[Rain of Frogs](rain-of-frogs.md)**: Summon a swarm of poisonous frogs.
 - **[Resist Energy, Communal](resist-energy-communal.md)**: As resist energy, but you may divide the duration among creatures touched.
 - **[Restore Eidolon](restore-eidolon.md)**: Restoration for an eidolon.
+- **[Selective Alarm](selective-alarm.md)**: As *alarm*, but only against selected creatures.
 - **[Spider Climb, Communal](spider-climb-communal.md)**: As spider climb, but you may divide the duration among creatures touched.
+- **[Trade Items](trade-items.md)**: Swap a focus object with a target object.
+- **[Urban Step](urban-step.md)**: Step into one doorway and out another.
 - **[Vomit Twin](vomit-twin.md)**: Upon casting this spell, you vomit forth a disgusting ooze copy of yourself into a single adjacent square.
 
 ## 4th-Level Summoner Spells
 
 - **[Damnation Stride](damnation-stride.md)**: This spell functions like dimension door, except you leave behind a burst of fire.
 - **[Daze, Mass](daze-mass.md)**: As daze, but affecting multiple creatures.
+- **[Hollow Heroism](hollow-heroism.md)**: Provide a *heroism* effect that you can reverse at any time.
 - **[Hostile Juxtaposition](hostile-juxtaposition.md)**: You create a dimensional link with a targeted creature, and switch spots with it.
 - **[Nixie’s Lure](nixie-s-lure.md)**: This spell creates an unearthly and infectious song that seductively summons all who hear it.
 - **[Protection from Energy, Communal](protection-from-energy-communal.md)**: As protection from energy, but you may divide the duration among creatures touched.
@@ -73,6 +83,7 @@ New summoner spells from *Ultimate Magic*. Spells from other books will be added
 - **[Energy Siege Shot](energy-siege-shot.md)**: A Large siege engine deals energy damage that you designate with other effects depending on the type of energy you choose.
 - **[Ice Crystal Teleport](ice-crystal-teleport.md)**: Target is frozen, then teleported.
 - **[Life Conduit, Greater](life-conduit-greater.md)**: You transfer 3d6 hit points to your eidolon as a swift action.
+- **[Mage’s Decree](mages-decree.md)**: Send a message to creatures within miles.
 - **[Mind Swap](mind-swap.md)**: Switch minds with another creature for 1 hour per level.
 - **[Possession](possession.md)**: Project your soul into a creature’s body.
 - **[Tar Pool](tar-pool.md)**: Converts the top layer of the ground into hot tar.
@@ -86,6 +97,8 @@ New summoner spells from *Ultimate Magic*. Spells from other books will be added
 - **[Energy Siege Shot, Greater](energy-siege-shot-greater.md)**: As energy siege shot, but you can affect any size siege engine.
 - **[Fey Gate](fey-gate.md)**: Create a portal that allows travel to the First World.
 - **[Hostile Juxtaposition, Greater](hostile-juxtaposition-greater.md)**: You may target one creature for every four of your caster levels.
+- **[Insect Spies, Greater](insect-spies-greater.md)**: Use magic beetles as spies and also share their senses.
+- **[Treacherous Teleport](treacherous-teleport.md)**: As *teleport*, except you choose some creatures to suffer a mishap or go elsewhere.
 - **[Walk Through Space](walk-through-space.md)**: You can spend a move action to teleport 30 feet or to stand while prone without provoking attacks of opportunity.
 - **[Whip of Ants](whip-of-ants.md)**: As whip of spiders, but with army ants.
 

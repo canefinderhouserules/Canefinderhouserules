@@ -28,6 +28,7 @@
 - **[Deadeye’s Lore](deadeyes-lore.md)**: Gain a +4 bonus on Survival and move full speed while tracking.
 - **[Detect Animals or Plants](detect-animals-or-plants.md)**: Detects kinds of animals or plants.
 - **[Detect Snares and Pits](detect-snares-and-pits.md)**: Reveals natural or primitive traps.
+- **[Detect the Faithful](detect-the-faithful.md)**: Find others of the same faith.
 - **[Echo](echo.md)**: Cause a sound to repeat itself.
 - **[Endure Elements](endure-elements.md)**: Exist comfortably in hot or cold regions.
 - **[Entangle](entangle.md)**: Plants entangle everyone in 40-ft. radius.
@@ -44,6 +45,7 @@
 - **[Mighty Fist of the Earth](mighty-fist-of-the-earth.md)**: You create a fist-sized rock that flies toward one enemy.
 - **[Mudball](mudball.md)**: When you cast this spell, you conjure a single ball of sticky mud and launch it at an enemy’s face as a.
 - **[Nereid’s Grace](nereid-s-grace.md)**: You radiate the unearthly grace of a nereid.
+- **[Obscure Poison](obscure-poison.md)**: Make it harder to detect a poison or a venomous creature.
 - **[Obscuring Mist](obscuring-mist.md)**: Fog surrounds you.
 - **[Pass without Trace](pass-without-trace.md)**: One subject/level leaves no tracks.
 - **[Produce Flame](produce-flame.md)**: 1d6 damage + 1/level, touch or thrown.
@@ -55,6 +57,7 @@
 - **[Strong Wings](strong-wings.md)**: School transmutation; Level druid 1, ranger 1, sorcerer/wizard 1, witch 1 Casting Time 1 standard action.
 - **[Summon Nature’s Ally I](summon-natures-ally-i.md)**: Summons creature to fight.
 - **[Touch of Combustion](touch-of-combustion.md)**: Your successful melee touch attack causes the target to ignite in a violent burst of flame, dealing 1d6.
+- **[Underbrush Decoy](underbrush-decoy.md)**: Create a rustling distraction to hide.
 - **[Wave Shield](wave-shield.md)**: Water blunts one incoming attack or fire effect.
 - **[Weaken Powder](weaken-powder.md)**: Targeted firearm’s ammunition halves the firearm’s range and imposes a –2 penalty on damage rolls.
 - **[Whispering Lore](whispering-lore.md)**: Upon casting this spell, you are able to gain knowledge from the land itself.
@@ -79,6 +82,7 @@
 - **[Chill Metal](chill-metal.md)**: Cold metal damages those who touch it.
 - **[Delay Disease](delay-disease.md)**: The target becomes temporarily immune to disease.
 - **[Delay Poison](delay-poison.md)**: Stops poison from harming subject for 1 hour/level.
+- **[Detect Magic, Greater](detect-magic-greater.md)**: As *detect magic*, but learn more information.
 - **[Endure Elements, Communal](endure-elements-communal.md)**: As endure elements, but you may divide the duration among creatures touched.
 - **[Fire Trap](fire-trap.md)**: Opened object deals 1d4 + 1/level damage.
 - **[Flame Blade](flame-blade.md)**: Touch attack deals 1d8 + 1/two levels damage.
@@ -139,6 +143,7 @@
 - **[Fins to Feet](fins-to-feet.md)**: School transmutation (polymorph); Level druid 3, sorcerer/wizard 3, witch 3 Casting Time 1 standard action.
 - **[Flashfire](flashfire.md)**: Cause smoky fires to spring up to burn foes and set them alight.
 - **[Improve Trap](improve-trap.md)**: When this spell is cast upon a trap, it improves one specific element of the trap chosen at the time of.
+- **[Insect Spies](insect-spies.md)**: Use magic beetles as spies.
 - **[Iron Stake](iron-stake.md)**: Hurl a spike of cold iron at a foe.
 - **[Leshy Swarm](leshy-swarm.md)**: Summon a swarm of Tiny leshys.
 - **[Magic Fang, Greater](magic-fang-greater.md)**: One natural weapon gets + 1/four levels (max +5).
@@ -146,7 +151,9 @@
 - **[Mirage](mirage.md)**: Create illusory terrain.
 - **[Neutralize Poison](neutralize-poison.md)**: Immunizes subject against poison, detoxifies venom in or on subject.
 - **[Nixie’s Lure](nixie-s-lure.md)**: This spell creates an unearthly and infectious song that seductively summons all who hear it.
+- **[Pack Empathy](pack-empathy.md)**: Create an empathic bond with allies.
 - **[Plant Growth](plant-growth.md)**: Grows vegetation, improves crops.
+- **[Pocketful of Vipers](pocketful-of-vipers.md)**: Ward a container with summoned vipers.
 - **[Poison](poison.md)**: Touch deals 1d3 Con damage 1/round for 6 rounds.
 - **[Protection from Energy](protection-from-energy.md)**: Absorbs 12 points/level of damage from one kind of energy.
 - **[Pup Shape](pup-shape.md)**: Transforms a single animal or magical beast into a younger and cuter version of itself for a short time.
@@ -176,9 +183,12 @@
 
 - **[Absorb Toxicity](absorb-toxicity.md)**: You become immune to diseases and toxins, absorb one, and then spread it to others.
 - **[Absorbing Inhalation](absorbing-inhalation.md)**: You grant your lungs inhuman strength and capacity, allowing you to harmlessly and completely inhale one gas.
+- **[Aerial Tracks](aerial-tracks.md)**: Track flying creatures through the air.
 - **[Air Walk](air-walk.md)**: Subject treads on air as if solid (climb or descend at 45-degree angle).
+- **[Animal Ambassador](animal-ambassador.md)**: Grant an animal messenger sentience to deliver your message.
 - **[Antiplant Shell](antiplant-shell.md)**: Keeps animated plants at bay.
 - **[Blight](blight.md)**: Withers one plant or deals 1d6/level damage to plant creature.
+- **[Bountiful Banquet](bountiful-banquet.md)**: Create a luxurious feast for two creatures/level.
 - **[Cloud Shape](cloud-shape.md)**: This spell functions like gaseous form, except you assume the shape of a Colossal cloud with a space of 30.
 - **[Command Plants](command-plants.md)**: Sways the actions of plant creatures.
 - **[Control Water](control-water.md)**: Raises or lowers bodies of water.
@@ -216,15 +226,19 @@
 - **[Control Winds](control-winds.md)**: Changes wind direction and speed.
 - **[Cure Critical Wounds](cure-critical-wounds.md)**: Cures 4d8 damage + 1/level (max +20).
 - **[Death Ward](death-ward.md)**: Grants bonuses against death spells and negative energy.
+- **[Entice Fey, Lesser](entice-fey-lesser.md)**: Entice service from a fey of 6 Hit Dice or fewer.
 - **[Fey Form II](fey-form-ii.md)**: Assume the form of a Tiny or Large fey creature.
+- **[Glimpse of Truth](glimpse-of-truth.md)**: Gain *true seeing* for 1 round.
 - **[Half-blood Extraction](half-blood-extraction.md)**: You transform the target half-orc into a full-blooded orc.
 - **[Hallow](hallow.md)**: Designates location as holy.
 - **[Insect Plague](insect-plague.md)**: Wasp swarms attack creatures.
 - **[Old Salt’s Curse](old-salt-s-curse.md)**: You inflict a curse of the roiling sea upon the target, making it permanently sickened.
+- **[Poisonous Balm](poisonous-balm.md)**: As *cure serious wounds*, but leave behind a latent venom.
 - **[Replay Tracks](replay-tracks.md)**: Reconstruct past events from a set of tracks.
 - **[Stoneskin](stoneskin.md)**: Grants DR 10/adamantine.
 - **[Sturdy Tree Fort](sturdy-tree-fort.md)**: Create a tree with a defensive fort within it.
 - **[Summon Nature’s Ally V](summon-natures-ally-v.md)**: Summons creature to fight.
+- **[Swallow Poison](swallow-poison.md)**: Protect yourself from ingested poison, then spit it out in a cone.
 - **[Tidal Surge](tidal-surge.md)**: Create a surge of water to bludgeon foes and extinguish fires.
 - **[Transmute Mud to Rock](transmute-mud-to-rock.md)**: Transforms two 10-ft. cubes per level.
 - **[Transmute Rock to Mud](transmute-rock-to-mud.md)**: Transforms two 10-ft. cubes per level.
@@ -249,12 +263,15 @@
 - **[Fey Form III](fey-form-iii.md)**: Assume the form of a Diminutive or Huge fey creature.
 - **[Find the Path](find-the-path.md)**: Shows most direct way to a location.
 - **[Fire Seeds](fire-seeds.md)**: Acorns and berries become grenades and bombs.
+- **[Insect Spies, Greater](insect-spies-greater.md)**: Use magic beetles as spies and also share their senses.
 - **[Ironwood](ironwood.md)**: Magic wood is as strong as steel.
 - **[Liveoak](liveoak.md)**: Oak becomes treant guardian.
 - **[Move Earth](move-earth.md)**: Digs trenches and builds hills.
+- **[Overwhelming Poison](overwhelming-poison.md)**: Make a poison more difficult to resist.
 - **[Owl’s Wisdom, Mass](owls-wisdom-mass.md)**: As *owl’s wisdom*, affects 1 subject/level.
 - **[Path of the Winds](path-of-the-winds.md)**: With a sweeping gesture, you call forth mighty winds to clear a path ahead of you.
 - **[Primal Regression](primal-regression.md)**: Make a creature become bestial and unintelligent.
+- **[Reincarnate Spy](reincarnate-spy.md)**: As *reincarnate*, but creating a body similar to that of a chosen creature, and you secretly keep part of the body.
 - **[Repel Wood](repel-wood.md)**: Pushes away wooden objects.
 - **[Spellstaff](spellstaff.md)**: Stores one spell in wooden quarterstaff.
 - **[Stone Tell](stone-tell.md)**: Talk to natural or worked stone.
@@ -262,6 +279,7 @@
 - **[Summon Nature’s Ally VI](summon-natures-ally-vi.md)**: Summons creature to fight.
 - **[Tar Pool](tar-pool.md)**: Converts the top layer of the ground into hot tar.
 - **[Transport via Plants](transport-via-plants.md)**: Move instantly from one plant to another of the same kind.
+- **[Unerring Tracker](unerring-tracker.md)**: Follow an entire trail unerringly.
 - **[Wall of Stone](wall-of-stone.md)**: Creates a stone wall that can be shaped.
 - **[Whip of Ants](whip-of-ants.md)**: As whip of spiders, but with army ants.
 
@@ -274,6 +292,7 @@
 - **[Creeping Doom](creeping-doom.md)**: Swarms of centipedes attack at your command.
 - **[Cure Moderate Wounds, Mass](cure-moderate-wounds-mass.md)**: Cures 2d8 damage + 1/level, affects 1 subject/level.
 - **[Delectable Flesh](delectable-flesh.md)**: Creatures near the target become depraved and attack it to feast.
+- **[Entice Fey](entice-fey.md)**: Entice service from a fey of 12 Hit Dice or fewer.
 - **[Fire Storm](fire-storm.md)**: Deals 1d6/level fire damage.
 - **[Heal](heal.md)**: Cures 10 points/level damage, all diseases and mental conditions.
 - **[Scrying, Greater](scrying-greater.md)**: As *scrying*, but faster and longer.
@@ -307,6 +326,7 @@
 - **[Antipathy](antipathy.md)**: Object or location affected by spell repels certain creatures.
 - **[Cure Critical Wounds, Mass](cure-critical-wounds-mass.md)**: Cures 4d8 damage + 1/level for many creatures.
 - **[Elemental Swarm](elemental-swarm.md)**: Summons multiple elementals.
+- **[Entice Fey, Greater](entice-fey-greater.md)**: Entice service from a fey of 18 Hit Dice or fewer.
 - **[Foresight](foresight.md)**: “Sixth sense” warns of impending danger.
 - **[Regenerate](regenerate.md)**: Subject’s severed limbs grow back, cures 4d8 damage +1/level (max +35).
 - **[Sea of Dust](sea-of-dust.md)**: Permanently drive water out of a region to create a desert.

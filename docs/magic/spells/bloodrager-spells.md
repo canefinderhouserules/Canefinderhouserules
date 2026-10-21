@@ -12,6 +12,7 @@ Bloodragers gain access to the following spells. Spells in plain text come from 
 - **[Chill Touch](chill-touch.md)**: One touch/level deals 1d6 damage and possibly 1 Str damage.
 - **[Color Spray](color-spray.md)**: Knocks unconscious, blinds, and/or stuns weak creatures.
 - **[Corrosive Touch](corrosive-touch.md)**: Touch attack deals 1d4 acid/level.
+- **[Desperate Weapon](desperate-weapon.md)**: Create an improvised weapon.
 - **[Ear-Piercing Scream](ear-piercing-scream.md)**: Deal sonic damage and daze target.
 - **[Endure Elements](endure-elements.md)**: Exist comfortably in hot or cold regions.
 - **[Enlarge Person](enlarge-person.md)**: Humanoid creature doubles in size.
@@ -152,6 +153,7 @@ Bloodragers gain access to the following spells. Spells in plain text come from 
 - Locate Weakness
 - **[Magic Weapon, Greater](magic-weapon-greater.md)**: Weapon gains +1 bonus/four levels (max +5).
 - **[Monstrous Physique I](monstrous-physique-i.md)**: Take the form and some of the powers of a Small or Medium monstrous humanoid.
+- **[Pack Empathy](pack-empathy.md)**: Create an empathic bond with allies.
 - **[Pain Strike](pain-strike.md)**: Inflicts 1d6 nonlethal damage 1 round/level.
 - Paragon Surge
 - **[Phantom Steed](phantom-steed.md)**: Magic horse appears for 1 hour/level.
@@ -181,9 +183,11 @@ Bloodragers gain access to the following spells. Spells in plain text come from 
 - **[Beast Shape II](beast-shape-ii.md)**: You take the form and some of the powers of a Tiny or Large animal.
 - **[Bestow Curse](bestow-curse.md)**: –6 to an ability score; –4 on attack rolls, saves, and checks; or 50% chance of losing each action.
 - **[Black Tentacles](black-tentacles.md)**: Tentacles grapple all creatures within a 20-ft. spread.
+- **[Break, Greater](break-greater.md)**: Break all nearby objects.
 - **[Calcific Touch](calcific-touch.md)**: Touch attack slows target, 1d4 Dex damage.
 - **[Confusion](confusion.md)**: Subjects behave oddly for 1 round/level.
 - **[Contagion](contagion.md)**: Infects subject with chosen disease.
+- **[Controlled Fireball](controlled-fireball.md)**: As *fireball,* but secretly deals less damage to your allies.
 - **[Crushing Despair](crushing-despair.md)**: Subjects take –2 on attack rolls, damage rolls, saves, and checks.
 - **[Detonate](detonate.md)**: 1d8/level energy damage to nearby creatures.
 - **[Dragon’s Breath](dragons-breath.md)**: Gives you a dragon’s breath weapon.
@@ -198,6 +202,7 @@ Bloodragers gain access to the following spells. Spells in plain text come from 
 - **[Flaming Sphere, Greater](flaming-sphere-greater.md)**: Rolling ball of fire deals 6d6 fire damage and ignites targets.
 - Ghost Wolf
 - Hellmouth Lash
+- **[Hollow Heroism](hollow-heroism.md)**: Provide a *heroism* effect that you can reverse at any time.
 - **[Ice Storm](ice-storm.md)**: Hail deals 5d6 damage in cylinder 40 ft. across.
 - **[Monstrous Physique II](monstrous-physique-ii.md)**: Take the form and some of the powers of a Tiny or Large monstrous humanoid.
 - **[Moonstruck](moonstruck.md)**: Subject is enraged and confused.

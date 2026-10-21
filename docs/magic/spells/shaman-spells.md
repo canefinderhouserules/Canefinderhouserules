@@ -38,6 +38,7 @@ Shamans gain access to the following spells. Spells in plain text come from othe
 - **[Dancing Lantern](dancing-lantern.md)**: Animates a lantern that follows you.
 - **[Detect Animals or Plants](detect-animals-or-plants.md)**: Detects kinds of animals or plants.
 - Detect Chaos/evil/good/law
+- **[Detect the Faithful](detect-the-faithful.md)**: Find others of the same faith.
 - **[Detect Undead](detect-undead.md)**: Reveals undead within 60 ft.
 - **[Discern Next of Kin](discern-next-of-kin.md)**: Read the target’s mind to learn about its family.
 - **[Doom](doom.md)**: One subject takes –2 on attack rolls, damage rolls, saves, and checks.
@@ -57,6 +58,7 @@ Shamans gain access to the following spells. Spells in plain text come from othe
 - **[Magic Weapon](magic-weapon.md)**: Weapon gains +1 bonus.
 - **[Mindlink](mindlink.md)**: Communicate a great deal of information in an instant.
 - **[Monkey Fish](monkey-fish.md)**: Gain a climb speed and a swim speed of 10 ft. for a time.
+- **[Obscure Poison](obscure-poison.md)**: Make it harder to detect a poison or a venomous creature.
 - **[Obscuring Mist](obscuring-mist.md)**: Fog surrounds you.
 - **[Pass without Trace](pass-without-trace.md)**: One subject/level leaves no tracks.
 - **[Produce Flame](produce-flame.md)**: 1d6 damage + 1/level, touch or thrown.
@@ -66,6 +68,7 @@ Shamans gain access to the following spells. Spells in plain text come from othe
 - **[Sleep](sleep.md)**: Puts 4 HD of creatures into magical slumber.
 - Stone Shield
 - **[Thorn Javelin](thorn-javelin.md)**: Wield a javelin that sickens opponents when it strikes.
+- **[Underbrush Decoy](underbrush-decoy.md)**: Create a rustling distraction to hide.
 - **[Wave Shield](wave-shield.md)**: Water blunts one incoming attack or fire effect.
 
 ## 2nd-Level Shaman Spells
@@ -91,6 +94,7 @@ Shamans gain access to the following spells. Spells in plain text come from othe
 - **[Cure Moderate Wounds](cure-moderate-wounds.md)**: Cures 2d8 damage +1/level (max. +10).
 - **[Darkness](darkness.md)**: 20-ft. radius of supernatural shadow.
 - **[Delay Poison](delay-poison.md)**: Stops poison from harming subject for 1 hour/level.
+- **[Detect Magic, Greater](detect-magic-greater.md)**: As *detect magic*, but learn more information.
 - **[Eagle Eye](eagle-eye.md)**: Creates a magical sensor high above you.
 - **[Eagle’s Splendor](eagles-splendor.md)**: Subject gains +4 to Cha for 1 min./ level.
 - **[Enshroud Thoughts](enshroud-thoughts.md)**: Ward yourself against thought detection and memory alteration.
@@ -108,6 +112,7 @@ Shamans gain access to the following spells. Spells in plain text come from othe
 - **[Hold Person](hold-person.md)**: Paralyzes one humanoid for 1 round/level.
 - Imbue with Elemental Might
 - **[Inflict Moderate Wounds](inflict-moderate-wounds.md)**: Touch attack, 2d8 damage +1/ level (max +10).
+- **[Languid Venom](languid-venom.md)**: Delay a poison’s onset and hide its presence.
 - **[Levitate](levitate.md)**: Subject moves up and down at your direction.
 - **[Life Pact](life-pact.md)**: Affected creatures automatically donate hp to stabilize fallen ally.
 - **[Merge with Familiar](merge-with-familiar.md)**: Merge the body of your familiar or spirit animal into your own.
@@ -159,6 +164,7 @@ Shamans gain access to the following spells. Spells in plain text come from othe
 - **[Mindlocked Messenger](mindlocked-messenger.md)**: ‘Target gains a message that can be given only to its intended recipient.
 - **[Nauseating Trail](nauseating-trail.md)**: Creature leaves a trail of stinking
 - **[Pierce Disguise](pierce-disguise.md)**: See through low-level magical disguises.
+- **[Pocketful of Vipers](pocketful-of-vipers.md)**: Ward a container with summoned vipers.
 - **[Polymorph Familiar](polymorph-familiar.md)**: Give your familiar the shape of another animal.
 - **[Protection from Energy](protection-from-energy.md)**: Absorbs 12 points/level of damage from one kind of energy.
 - **[Remove Blindness/Deafness](remove-blindness-deafness.md)**: Cures normal or magical blindness or deafness.
@@ -185,10 +191,15 @@ Shamans gain access to the following spells. Spells in plain text come from othe
 ## 4th-Level Shaman Spells
 
 - **[Adjustable Polymorph](adjustable-polymorph.md)**: As alter self; but you can change the shape as a swift action.
+- **[Aerial Tracks](aerial-tracks.md)**: Track flying creatures through the air.
 - **[Air Geyser](air-geyser.md)**: Blast of air deals 2d6 bludgeoning damage and knocks opponent upward.
+- **[Animal Ambassador](animal-ambassador.md)**: Grant an animal messenger sentience to deliver your message.
 - **[Anti-incorporeal Shell](anti-incorporeal-shell.md)**: Incorporeal creatures stay 10 ft. away from you.
 - **[Ball Lightning](ball-lightning.md)**: Flying lightning spheres deal 3d6 electricity damage each.
+- **[Bountiful Banquet](bountiful-banquet.md)**: Create a luxurious feast for two creatures/level.
 - **[Command Plants](command-plants.md)**: Sway the actions of plant creatures.
+- **[Conditional Curse](conditional-curse.md)**: Bestow a curse that is difficult to remove without fulfilling a condition.
+- **[Contingent Venom](contingent-venom.md)**: As *languid venom*, but with a triggering condition.
 - **[Control Water](control-water.md)**: Raises or lowers bodies of water.
 - **[Cure Critical Wounds](cure-critical-wounds.md)**: Cures 4d8 damage + 1/level (max +20).
 - **[Curse of Burning Sleep](curse-of-burning-sleep.md)**: Creature catches fire the next time it sleeps for an hour.
@@ -197,11 +208,13 @@ Shamans gain access to the following spells. Spells in plain text come from othe
 - **[Divination](divination.md)**: Provides useful advice for specific proposed actions.
 - **[Divine Power](divine-power.md)**: You gain attack bonuses and 1 hp/level.
 - Earth Glide
+- **[False Future](false-future.md)**: Cause divinations of the future to reveal the result you choose.
 - **[False Life, Greater](false-life-greater.md)**: Gain 2d10 temporary hp + 1/level.
 - **[Familiar Melding](familiar-melding.md)**: Possess your familiar.
 - **[Fear](fear.md)**: Subjects within cone flee for 1 round/level.
 - **[Forest’s Sense](forests-sense.md)**: Sense the location of a distant target that is near a plant or fungus.
 - **[Giant Vermin](giant-vermin.md)**: Turns centipedes, scorpions, or spiders into giant vermin.
+- **[Glimpse of Truth](glimpse-of-truth.md)**: Gain *true seeing* for 1 round.
 - **[Ice Storm](ice-storm.md)**: Hail deals 5d6 damage in cylinder 40 ft. across.
 - **[Imbue with Spell Ability](imbue-with-spell-ability.md)**: Transfer spells to subject.
 - **[Inflict Critical Wounds](inflict-critical-wounds.md)**: Touch attack, 4d8 damage + 1/level (max +20).
@@ -210,6 +223,7 @@ Shamans gain access to the following spells. Spells in plain text come from othe
 - **[Persistent Vigor](persistent-vigor.md)**: Gain fast healing 2, immunity to bleed, and faster recovery from diseases and poisons.
 - **[Planar Ally, Lesser](planar-ally-lesser.md)**: Exchange services with a 6 HD extraplanar creature.
 - **[Poison](poison.md)**: Touch deals 1d3 Con damage 1/round for 6 rounds.
+- **[Poisonous Balm](poisonous-balm.md)**: As *cure serious wounds*, but leave behind a latent venom.
 - **[Rain of Frogs](rain-of-frogs.md)**: Summon a swarm of poisonous frogs.
 - **[Reincarnate](reincarnate.md)**: Brings dead subject back in a random body.
 - **[Repel Vermin](repel-vermin.md)**: Insects, spiders, and other vermin stay 10 ft. away.
@@ -224,9 +238,12 @@ Shamans gain access to the following spells. Spells in plain text come from othe
 - **[Spike Stones](spike-stones.md)**: Creatures in area take 1d8 damage, may also be slowed*.*
 - **[Spirit-Bound Blade](spirit-bound-blade.md)**: Give a weapon ghost touch and another ability tied to an emotion.
 - **[Spit Venom](spit-venom.md)**: Spit blinding black adder venom.
+- **[They Know](they-know.md)**: Convince target that a nearby creature knows her greatest secret.
 - **[Thorn Body](thorn-body.md)**: Your attackers take 1d6 +1 damage/level.
 - **[Tongues](tongues.md)**: Speak and understand any language.
+- **[Vicarious View](vicarious-view.md)**: Plant a scrying sensor that you can use to spy on a creature, object, or location.
 - **[Vigilant Rest](vigilant-rest.md)**: Cause a sleeping creature to retain some perception of its surroundings.
+- **[Voluminous Vocabulary](voluminous-vocabulary.md)**: Grant ability to speak, read, and write one or more languages for 8 hours.
 - **[Wandering Star Motes](wandering-star-motes.md)**: Outlines subject and produces light as a sunrod.
 - **[Wooden Wing Shield](wooden-wing-shield.md)**: Your wings become a barrier granting a +4 shield bonus to AC.
 
@@ -241,6 +258,7 @@ Shamans gain access to the following spells. Spells in plain text come from othe
 - **[Call Spirit](call-spirit.md)**: Make the spirit of one creature manifest.
 - **[Callback, Greater](callback-greater.md)**: Teleport a familiar or spirit animal from miles away to your side when it is injured.
 - **[Cave Fangs](cave-fangs.md)**: Create a trap from stalactites and stalagmites.
+- **[Charm Person, Mass](charm-person-mass.md)**: As *charm person*, but affects multiple creatures within 30 ft.
 - **[Commune](commune.md)**: Deity answers one yes-or-no question/level.
 - **[Commune with Nature](commune-with-nature.md)**: Learn about terrain for 1 mile/level.
 - **[Companion Transposition](companion-transposition.md)**: Swap places with your animal companion, familiar, or spirit animal via teleportation.
@@ -249,6 +267,7 @@ Shamans gain access to the following spells. Spells in plain text come from othe
 - **[Curse, Major](curse-major.md)**: As bestow curse, but harder to remove.
 - Dispel Chaos/evil/good/law
 - **[Dominate Person](dominate-person.md)**: Controls humanoid telepathically.
+- **[Entice Fey, Lesser](entice-fey-lesser.md)**: Entice service from a fey of 6 Hit Dice or fewer.
 - **[Feast on Fear](feast-on-fear.md)**: Targets are panicked, and you gain temporary hit points.
 - **[Fey Form II](fey-form-ii.md)**: Assume the form of a Tiny or Large fey creature.
 - **[Flame Strike](flame-strike.md)**: Smites foes with divine fire (1d6/level damage).
@@ -260,6 +279,7 @@ Shamans gain access to the following spells. Spells in plain text come from othe
 - **[Overland Flight](overland-flight.md)**: You fly at a speed of 40 ft. and can hustle over long distances.
 - **[Rest Eternal](rest-eternal.md)**
 - **[Stoneskin](stoneskin.md)**: Grants DR 10/adamantine.
+- **[Swallow Poison](swallow-poison.md)**: Protect yourself from ingested poison, then spit it out in a cone.
 - **[Tidal Surge](tidal-surge.md)**: Create a surge of water to bludgeon foes and extinguish fires.
 - **[True Seeing](true-seeing.md)**: Lets you see all things as they really are.
 - **[Waft](waft.md)**: Targets become light enough to be carried by the wind.
@@ -277,6 +297,7 @@ Shamans gain access to the following spells. Spells in plain text come from othe
 - **[Cone of Cold](cone-of-cold.md)**: 1d6/level cold damage.
 - **[Create Undead](create-undead.md)**: Raises ghouls, ghasts, mummies, or mohrgs from physical remains.
 - **[Cure Moderate Wounds, Mass](cure-moderate-wounds-mass.md)**: Cures 2d8 damage + 1/level, affects 1 subject/level.
+- **[Curse of the Outcast](curse-of-the-outcast.md)**: Curse someone to rub people the wrong way.
 - **[Dispel Magic, Greater](dispel-magic-greater.md)**: As *dispel magic*, but with multiple targets.
 - **[Eagle’s Splendor, Mass](eagles-splendor-mass.md)**: As *eagle’s splendor*, 1 subject/level.
 - **[Fey Form III](fey-form-iii.md)**: Assume the form of a Diminutive or Huge fey creature.
@@ -284,10 +305,13 @@ Shamans gain access to the following spells. Spells in plain text come from othe
 - **[Fire Seeds](fire-seeds.md)**: Acorns and berries become grenades and bombs.
 - **[Flesh to Stone](flesh-to-stone.md)**: Turns subject creature into statue.
 - **[Inflict Moderate Wounds, Mass](inflict-moderate-wounds-mass.md)**: Deals 2d8 damage + 1/level, affects 1 subject/level.
+- **[Overwhelming Poison](overwhelming-poison.md)**: Make a poison more difficult to resist.
 - **[Owl’s Wisdom, Mass](owls-wisdom-mass.md)**: As *owl’s wisdom*, affects 1 subject/level.
 - **[Planar Ally](planar-ally.md)**: As *lesser planar ally,* but up to 12 HD.
 - **[Primal Regression](primal-regression.md)**: Make a creature become bestial and unintelligent.
+- **[Prognostication](prognostication.md)**: Gain cryptic information from further in the future than *divination*.
 - **[Raise Dead](raise-dead.md)**: Restores life to subject who died as long as one day/level ago.
+- **[Reincarnate Spy](reincarnate-spy.md)**: As *reincarnate*, but creating a body similar to that of a chosen creature, and you secretly keep part of the body.
 - **[Slay Living](slay-living.md)**: Touch attack deals 12d6 +1 per level.
 - **[Snake Staff](snake-staff.md)**: Transforms wood into snakes to fight for you.
 - **[Stone to Flesh](stone-to-flesh.md)**: Restores petrified creature.
@@ -302,6 +326,7 @@ Shamans gain access to the following spells. Spells in plain text come from othe
 - **[Creeping Doom](creeping-doom.md)**: Swarms of centipedes attack at your command.
 - **[Cure Serious Wounds, Mass](cure-serious-wounds-mass.md)**: Cures 3d8 damage + 1/level, affects 1 subject/level.
 - **[Delectable Flesh](delectable-flesh.md)**: Creatures near the target become depraved and attack it to feast.
+- **[Entice Fey](entice-fey.md)**: Entice service from a fey of 12 Hit Dice or fewer.
 - **[Fairy Ring Retreat](fairy-ring-retreat.md)**: Toadstool circle leads to an extradimensional meadow.
 - **[Harm](harm.md)**: Deals 10 points/level damage to target.
 - **[Heal](heal.md)**: Cures 10 points/level damage, all diseases and mental conditions.
@@ -329,6 +354,7 @@ Shamans gain access to the following spells. Spells in plain text come from othe
 - **[Destruction](destruction.md)**: Kills subject and destroys remains.
 - **[Discern Location](discern-location.md)**: Reveals exact location of creature or object.
 - **[Earthquake](earthquake.md)**: Intense tremor shakes 80-ft.-radius.
+- **[False Resurrection](false-resurrection.md)**: Appear to resurrect someone but instead allow a shadow demon to possess the corpse.
 - **[Fey Form IV](fey-form-iv.md)**: Assume the form of a powerful fey creature.
 - **[Fire Storm](fire-storm.md)**: Deals 1d6/level fire damage.
 - **[Horrid Wilting](horrid-wilting.md)**: Deals 1d6/level damage within 30 ft.
@@ -338,6 +364,7 @@ Shamans gain access to the following spells. Spells in plain text come from othe
 - **[Resurrection](resurrection.md)**: Fully restore dead subject.
 - **[Stormbolts](stormbolts.md)**: 1d8 damage/level (max 20d8) to targets.
 - **[Sunburst](sunburst.md)**: Blinds all within 10 ft., deals 6d6 damage.
+- **[True Prognostication](true-prognostication.md)**: Gain incredibly cryptic information from the distant future.
 - **[Wandering Weather](wandering-weather.md)**: Control weather in a large area that moves with you.
 - **[Whirlwind](whirlwind.md)**: Cyclone deals damage and can pick up creatures.
 
@@ -345,6 +372,7 @@ Shamans gain access to the following spells. Spells in plain text come from othe
 
 - **[Elemental Swarm](elemental-swarm.md)**: Summons multiple elementals.
 - **[Energy Drain](energy-drain.md)**: Subject gains 2d4 negative levels.
+- **[Entice Fey, Greater](entice-fey-greater.md)**: Entice service from a fey of 18 Hit Dice or fewer.
 - **[Etherealness](etherealness.md)**: Travel to Ethereal Plane with companions.
 - **[Foresight](foresight.md)**: “Sixth sense” warns of impending danger.
 - **[Heal, Mass](heal-mass.md)**: As *heal*, but affects 1 subject/level.

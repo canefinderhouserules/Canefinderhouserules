@@ -132,13 +132,15 @@ If a polymorph spell is cast on a creature that is smaller than Small or larger 
 
 Appearing on the same line as the school and subschool, when applicable, is a descriptor that further categorizes the spell in some way. Some spells have more than one descriptor.
 
-The descriptors are acid, air, chaotic, cold, darkness, death, earth, electricity, evil, fear, fire, force, good, language-dependent, lawful, light, mind-affecting, sonic, and water.
+The descriptors are acid, air, chaotic, cold, darkness, death, earth, electricity, evil, fear, fire, force, good, language-dependent, lawful, light, mind-affecting, ruse, sonic, and water.
 
 Most of these descriptors have no game effect by themselves, but they govern how the spell interacts with other spells, with special abilities, with unusual creatures, with alignment, and so on.
 
 A language-dependent spell uses intelligible language as a medium for communication. If the target cannot understand or cannot hear what the caster of a language-dependant spell says, the spell fails.
 
 A mind-affecting spell works only against creatures with an Intelligence score of 1 or higher.
+
+A ruse spell is easily mistaken for another spell and is intended to confuse even onlookers trained in Spellcraft or Knowledge (arcana). Attempts to identify a ruse spell by its effects, its aura, its components, or other attributes with a skill check treat the spell as though it were a different spell, as indicated in the spell’s description. The one attempting the check can correctly identify the spell only by exceeding the DC by 10. The false spell is typically a level lower than the ruse spell, so skill checks use the DC for the lower-level spell. Even *detect magic* and most similar spells don’t prevent the caster from being fooled by a ruse spell. *Analyze dweomer*, *greater arcane sight*, and similar spells of the same or higher spell level that automatically identify spells reveal a ruse spell for what it is. Ruse spells that mimic harmless spells still list harmless on their saving throw or spell resistance lines; a creature that knows or suspects the true nature of the spell typically chooses to attempt the save.
 
 ## Level
 

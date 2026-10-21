@@ -7,9 +7,11 @@ New alchemist spells from *Ultimate Magic* and *Ultimate Combat*. Spells from ot
 - **[Abjuring Step](abjuring-step.md)**: You can move slowly and safely and still cast spells, until you move quickly, make an attack, or cast a harmful spell.
 - **[Anticipate Peril](anticipate-peril.md)**: Target gains a bonus on one initiative check.
 - **[Blend](blend.md)**: You draw upon your elven link to the wilderness to change the coloration of yourself and your equipment to.
+- **[Fabricate Disguise](fabricate-disguise.md)**: Create a disguise in an instant.
 - **[Illusion of Calm](illusion-of-calm.md)**: You appear to be standing still, even when you take some actions.
 - **[Linebreaker](linebreaker.md)**: You gain a +20 foot bonus to your base speed when charging and a +2 bonus on combat maneuver checks made to.
 - **[Longshot](longshot.md)**: Grants a +10-foot bonus to the range increment for any ranged weapon fired.
+- **[Obscure Poison](obscure-poison.md)**: Make it harder to detect a poison or a venomous creature.
 - **[Polypurpose Panacea](polypurpose-panacea.md)**: Gain a relaxing or entertaining effect.
 - **[Recharge Innate Magic](recharge-innate-magic.md)**: You channel magic energy into your own aura, recharging your innate magic abilities.
 - **[See Alignment](see-alignment.md)**: Pick an alignment; in your sight, creatures and items with that alignment emit a ghostly radiance.
@@ -17,6 +19,7 @@ New alchemist spells from *Ultimate Magic* and *Ultimate Combat*. Spells from ot
 - **[Targeted Bomb Admixture](targeted-bomb-admixture.md)**: Empowers bombs you throw to deal more damage to a single creature.
 - **[Urban Grace](urban-grace.md)**: You become one with the city around you, allowing you to move more easily through its crowds and buildings.
 - **[Vocal Alteration](vocal-alteration.md)**: Disguise target’s voice.
+- **[Wizened Appearance](wizened-appearance.md)**: Make a target appear as an older version of itself.
 - **[Youthful Appearance](youthful-appearance.md)**: Target appears younger.
 
 ## 2nd-Level Alchemist Spells
@@ -39,9 +42,11 @@ New alchemist spells from *Ultimate Magic* and *Ultimate Combat*. Spells from ot
 - **[Ghostly Disguise](ghostly-disguise.md)**: You look like a ghost of yourself.
 - **[Grasping Vine](grasping-vine.md)**: A vine from your body manipulates objects within 20 ft.
 - **[Kinetic Reverberation](kinetic-reverberation.md)**: Channels the force of an enemy’s attack back into its weapon.
+- **[Languid Venom](languid-venom.md)**: Delay a poison’s onset and hide its presence.
 - **[Minor Dream](minor-dream.md)**: School illusion (figment) [mind-affecting]; Level alchemist 2, bard 3, sorcerer/wizard 3, witch 2 Casting.
 - **[Pouncing Fury](pouncing-fury.md)**: Make a full attack with your claws after a charge.
 - **[Shadow Bomb Admixture](shadow-bomb-admixture.md)**: Empowers bombs you throw to cover the target with a shadowy substance that grants it concealment and limits its vision.
+- **[Shifted Steps](shifted-steps.md)**: Make a target sound as if elsewhere.
 - **[Sickening Strikes](sickening-strikes.md)**: You are imbued with disease, and any creature you strike with a melee attack must make a Fortitude save or be.
 - **[Skinsend](skinsend.md)**: Animate and possess your own skin as if it were a separate creature.
 - **[Squeeze](squeeze.md)**: School transmutation (polymorph); Level alchemist 2, sorcerer/wizard 2, witch 2 Casting Time 1 standard.
@@ -75,6 +80,7 @@ New alchemist spells from *Ultimate Magic* and *Ultimate Combat*. Spells from ot
 - **[Resist Energy, Communal](resist-energy-communal.md)**: As resist energy, but you may divide the duration among creatures touched.
 - **[Spider Climb, Communal](spider-climb-communal.md)**: As spider climb, but you may divide the duration among creatures touched.
 - **[Undead Anatomy I](undead-anatomy-i.md)**: Take the form and some of the powers of a Small or Medium undead.
+- **[Voluminous Vocabulary](voluminous-vocabulary.md)**: Grant ability to speak, read, and write one or more languages for 8 hours.
 - **[Vomit Twin](vomit-twin.md)**: Upon casting this spell, you vomit forth a disgusting ooze copy of yourself into a single adjacent square.
 - **[Wing Thorns](wing-thorns.md)**: Wings sprout poisonous thorns you can attack with.
 
@@ -103,13 +109,16 @@ New alchemist spells from *Ultimate Magic* and *Ultimate Combat*. Spells from ot
 - **[Air Walk, Communal](air-walk-communal.md)**: As air walk, but you may divide the duration among creatures touched.
 - **[Dust Form](dust-form.md)**: You become an incorporeal creature of dust for a short period of time.
 - **[Fey Form II](fey-form-ii.md)**: Assume the form of a Tiny or Large fey creature.
+- **[Glimpse of Truth](glimpse-of-truth.md)**: Gain *true seeing* for 1 round.
 - **[Half-blood Extraction](half-blood-extraction.md)**: You transform the target half-orc into a full-blooded orc.
 - **[Languid Bomb Admixture](languid-bomb-admixture.md)**: Empowers bombs you throw to cause fatigue in those directly hit or splashed by the bomb.
 - **[Monstrous Physique III](monstrous-physique-iii.md)**: Take the form and some of the powers of a Diminutive or Huge monstrous humanoid.
 - **[Ooze Form I](ooze-form-i.md)**: Assume the form of a Small or Medium ooze creature.
 - **[Shapechanger’s Gift](shapechangers-gift.md)**: Temporarily change a target into an animal, humanoid, or monstrous humanoid.
 - **[Stoneskin, Communal](stoneskin-communal.md)**
+- **[Swallow Poison](swallow-poison.md)**: Protect yourself from ingested poison, then spit it out in a cone.
 - **[Undead Anatomy II](undead-anatomy-ii.md)**: Take the form and some of the powers of a Tiny or Large undead.
+- **[Unerring Tracker](unerring-tracker.md)**: Follow an entire trail unerringly.
 - **[Vermin Shape II](vermin-shape-ii.md)**: As vermin shape, but Tiny or Large.
 
 ## 6th-Level Alchemist Spells
