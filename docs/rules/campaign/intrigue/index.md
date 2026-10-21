@@ -114,3 +114,6 @@ For instance, suppose that an evil duchess, eager to usurp the throne from her o
 - [Pursuit](pursuit.md)
 - [Research](research.md)
 - [Spells of Intrigue](spells-of-intrigue.md)
+- [Social Conflicts](social-conflicts.md)
+- [Verbal Duels](verbal-duels.md)
+- [Skills in Conflict](skills-in-conflict.md)
