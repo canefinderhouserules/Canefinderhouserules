@@ -1,0 +1,9 @@
+# Ferocious Feint
+
+*(Combat)*
+
+Through training or inborn ability, the animal is naturally skilled at feinting against its foes.
+
+**Prerequisites**: Bluff 1 rank, animal companion.
+
+**Benefit**: The animal companion uses half its master’s class level (minimum 1) in place of its Charisma bonus on Bluff checks to feint an opponent. In addition, the animal companion can use Bluff to feint an opponent as a move action.

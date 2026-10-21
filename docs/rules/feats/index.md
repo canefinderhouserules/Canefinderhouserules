@@ -1143,6 +1143,7 @@ The style feats presented in this book are suited for those who have learned to 
 | [Beastmaster Ire](beastmaster-ire.md) | Combat | Cha 13, Alertness, Beastmaster Salvation, Beastmaster Style, Handle Animal 9 ranks, Sense Motive 5 ranks |
 | [Beastmaster Salvation](beastmaster-salvation.md) | Combat | Cha 13, Alertness, Beastmaster Style, Handle Animal 5 ranks, Sense Motive 5 ranks |
 | [Beastmaster Style](beastmaster-style.md) | Combat, Style | Cha 13, Handle Animal 1 rank, must have an animal companion |
+| [Boon Companion](boon-companion.md) | — | Animal companion class feature or familiar class feature |
 | [Branch Pounce](branch-pounce.md) | Combat | Climb 3 ranks, Stealth 3 ranks |
 | [Bristling Bull Rush](bristling-bull-rush.md) | Combat | Str 13, Improved Bull Rush, Power Attack, base attack bonus +3 |
 | [Bristling Drag](bristling-drag.md) | Combat | Str 13, Improved Drag, Power Attack, base attack bonus +3 |
@@ -1160,6 +1161,8 @@ The style feats presented in this book are suited for those who have learned to 
 | [Deep Diver](deep-diver.md) | — | Endurance |
 | [Delectable Feint](delectable-feint.md) | — | Con 15, delicious racial trait, ghoran |
 | [Desert Dweller](desert-dweller.md) | — | Favored terrain (desert) class feature |
+| [Devotion against the Unnatural](devotion-against-the-unnatural.md) | — | Animal companion, devotion special ability |
+| [Disruptive Companion](disruptive-companion.md) | Combat | Animal companion |
 | [Eagle-Eyed](eagle-eyed.md) | — | Perception 3 ranks |
 | [Earth Magic](earth-magic.md) | — | Ability to cast 1st-level spells, favored terrain class feature |
 | [Eidolon Mount](eidolon-mount.md) | Combat | Eidolon able to choose quadruped or serpentine as a base form |
@@ -1171,6 +1174,9 @@ The style feats presented in this book are suited for those who have learned to 
 | [Expert Salvager](expert-salvager.md) | — | Craft (any) 2 ranks, Spellcraft 2 ranks |
 | [Extended Aspects](extended-aspects.md) | — | Shifter aspect class feature |
 | [False Trail](false-trail.md) | — | Survival 3 ranks |
+| [Feral Grace](feral-grace.md) | Combat | Weapon Finesse, base attack bonus +3, animal companion |
+| [Ferocious Beast](ferocious-beast.md) | Combat | Intimidate 1 rank, animal companion |
+| [Ferocious Feint](ferocious-feint.md) | Combat | Bluff 1 rank, animal companion |
 | [Fey Insight](fey-insight.md) | — | Wis 13; Knowledge (nature) or Knowledge (planes) 2 ranks |
 | [Fey Performance](fey-performance.md) | — | Bardic performance class ability |
 | [Fey-Guarded](fey-guarded.md) | — | Knowledge (nature) or Knowledge (planes) 3 ranks |
@@ -1182,6 +1188,7 @@ The style feats presented in this book are suited for those who have learned to 
 | [Greater Gathlain Magic](greater-gathlain-magic.md) | — | Cha 15, Advanced Gathlain Magic, character level 9th, gathlain |
 | [Greater Hunter’s Bond](greater-hunters-bond.md) | Combat | Improved Hunter’s Bond, hunter’s bond (hunting companions) class feature, ranger level 12th |
 | [Greater Spring Attack](greater-spring-attack.md) | Combat | Dex 17, Acrobatic Steps, Dodge, Improved Spring Attack, Mobility, Nimble Moves, Spring Attack, base attack bonus +16 |
+| [Greater Tenacious Hunter](greater-tenacious-hunter.md) | — | Combat Reflexes, Tenacious Hunter, Perception 3 ranks, Stealth 3 ranks, animal companion |
 | [Greater Wilding Strike](greater-wilding-strike.md) | Combat | Str 18, Improved Unarmed Strike, Improved Wilding Strike, Wilding, Wilding Strike, base attack bonus +16 |
 | [Green Tongue](green-tongue.md) | — | Cha 13, character level 5th, gathlain |
 | [Group Shared Spells](group-shared-spells.md) | Teamwork | Familiar with the share spells ability |
@@ -1190,6 +1197,7 @@ The style feats presented in this book are suited for those who have learned to 
 | [Ice Climber](ice-climber.md) | — | Arctic Adaptation or Mountaineer; Climb 2 ranks |
 | [Improved Beast Hunter](improved-beast-hunter.md) | Combat | Beast Hunter; base attack bonus +3; Knowledge (nature) or Survival 3 ranks |
 | [Improved Hunter’s Bond](improved-hunters-bond.md) | Combat | Hunter’s bond (hunting companions) class feature, ranger level 9th |
+| [Improved Intercept Blow](improved-intercept-blow.md) | Combat | Intercept Blow, base attack bonus +6, animal companion |
 | [Improved Natural Poison Harvester](improved-natural-poison-harvester.md) | — | Natural Poison Harvester, Craft (alchemy) 9 ranks, Survival 9 ranks |
 | [Improved Spring Attack](improved-spring-attack.md) | Combat | Dex 15, Dodge, Mobility, Nimble Moves, Spring Attack, base attack bonus +9 |
 | [Improved Wilding Strike](improved-wilding-strike.md) | Combat | Str 16, Improved Unarmed Strike, Wilding, Wilding Strike, base attack bonus +11 |
@@ -1197,6 +1205,7 @@ The style feats presented in this book are suited for those who have learned to 
 | [Indomitable Mountain Peak](indomitable-mountain-peak.md) | Combat | Wis 15, Combat Reflexes, Improved Unarmed Strike, Indomitable Mountain Style, base attack bonus +6 |
 | [Indomitable Mountain Style](indomitable-mountain-style.md) | Combat, Style | Wis 13, Combat Reflexes, Improved Unarmed Strike, base attack bonus +4 |
 | [Inner Light](inner-light.md) | — | Wis 13, ghoran |
+| [Intercept Blow](intercept-blow.md) | Combat | Base attack bonus +1, animal companion |
 | [Intimidate Animals](intimidate-animals.md) | Combat | Greater Wild Empathy, Intimidate 5 ranks, Knowledge (nature) 5 ranks, wild empathy class feature |
 | [Jaguar Pounce](jaguar-pounce.md) | Combat | Base attack bonus +4 |
 | [Jungle Survivalist](jungle-survivalist.md) | — | Favored terrain ( jungle) class feature |
@@ -1216,10 +1225,12 @@ The style feats presented in this book are suited for those who have learned to 
 | [Photosynthetic Healing](photosynthetic-healing.md) | — | Con 15, change shape ability, leshy subtype |
 | [Plains Nomad](plains-nomad.md) | — | Favored terrain (plains) class feature |
 | [Reactive Reversion](reactive-reversion.md) | — | Dex 13, change shape ability, leshy subtype |
+| [Reflexive Interception](reflexive-interception.md) | Combat | Intercept Blow, base attack bonus +3, animal companion, evasion |
 | [River Raider](river-raider.md) | Combat | — |
 | [Rubble Skirmisher](rubble-skirmisher.md) | Combat | Dex 13, Nimble Moves, base attack bonus +2 |
 | [Scion of the Land](scion-of-the-land.md) | Teamwork | Survival 1 rank |
 | [Seasoned Flier](seasoned-flier.md) | — | Dex 15, Fly 5 ranks, fly speed, gathlain |
+| [Share Feature](share-feature.md) | — | Animal companion, master must have the chosen class feature |
 | [Shifter’s Edge](shifters-edge.md) | — | Dex 13, Weapon Finesse, shifter claws class feature |
 | [Shifter’s Rush](shifters-rush.md) | — | Wild shape class feature, shifter level 4th |
 | [Sproutling](sproutling.md) | — | Cha 15, seed racial trait, ghoran |
@@ -1227,6 +1238,7 @@ The style feats presented in this book are suited for those who have learned to 
 | [Superior Gathlain Magic](superior-gathlain-magic.md) | — | Cha 17, Advanced Gathlain Magic, Greater Gathlain Magic, character level 15th, gathlain |
 | [Swamper](swamper.md) | — | Favored terrain (swamp) class feature |
 | [Symbiotic Resilience](symbiotic-resilience.md) | — | Con 13, gathlain |
+| [Tenacious Hunter](tenacious-hunter.md) | — | Perception 3 ranks, Stealth 3 ranks, animal companion |
 | [Thrill of the Hunt](thrill-of-the-hunt.md) | Combat | Survival 1 rank; base attack bonus +4 or track class feature |
 | [Torrid Tolerance](torrid-tolerance.md) | — | Desert Dweller or Jungle Survivalist |
 | [Totemic Disciple](totemic-disciple.md) | — | Str 15; Dex 13; Athletic, Totemic Initiate; base attack bonus +9; no barbarian totem rage powers except those chosen with this feat or Totemic Initiate; nonlawful alignment |
