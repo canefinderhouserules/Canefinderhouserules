@@ -243,3 +243,25 @@ The foul corruption of undeath is a part of you. Somewhere in the past, death be
 **Incorporeal Bloodrager (Su)**: At 16th level, once per day you can choose to become incorporeal. You take only half damage from magic corporeal sources, and you take no damage from non-magic weapons and objects. Your attacks deal damage as normal due to your ghost strike bloodrage power.
 
 **One Foot in the Grave (Ex)**: At 20th level, you gain immunity to cold, nonlethal damage, paralysis, and sleep. The DR from your damage reduction ability increases to 8. Unintelligent undead don't notice you unless you attack them. You gain a +4 morale bonus on saving throws made against spells and spell-like abilities cast by undead. You have these benefits constantly, even while not bloodraging.
+
+## Verdant
+
+Your body is suffused with raw plant life. When you bloodrage, your plantlike characteristics bolster your durability and grant you some control over vegetation.
+
+**Bonus Feats**: Bolstered Resilience, Diehard, Endurance, Great Fortitude, Power Attack, Raging Vitality, Toughness.
+
+**Bonus Spells**: entangle (7th), greensight (10th), burst of nettles (13th), command plants (16th).
+
+**Bloodline Powers**: While bloodraging, you gain plantlike abilities and immunities as you become overgrown with jagged branches, rugged bark, and thick vines.
+
+**Verdant Growth (Su)**: At 1st level, you gain fast healing 1 while bloodraging. Your fast healing increases by 1 at 4th level and every 3 levels thereafter, to a maximum of fast healing 6 at 19th level. If you have a bloodrager class feature that also grants you fast healing (such as the spelleater’s blood of life class feature), you can stack up to half of your fast healing from such abilities with the fast healing gained from this ability, but you cannot do so by an amount that exceeds your Charisma bonus (minimum 0).
+
+**Oaken Skin (Ex)**: At 4th level, when entering a bloodrage, your skin thickens like bark and you gain a +2 enhancement bonus to your natural armor. At 8th level and every 4 levels thereafter, this bonus increases by 1.
+
+**Botanical Plasticity (Su)**: At 8th level, as a swift action you can bend and twist the plant life within your body to elongate your limbs. Your reach increases by 5 feet until the end of your turn.
+
+**Verdant Call (Sp)**: At 12th level, when entering a bloodrage, as a swift action you can animate nearby plants to aid you in combat, functioning as wilderness soldiers, using your Charisma modifier instead of your Wisdom modifier. This effect lasts for as long as you continue bloodraging, regardless of the spell’s normal duration.
+
+**Nature’s Thorns (Su)**: At 16th level, creatures that hit you in melee (other than those using manufactured reach weapons) take 4d6 points of piercing damage. A creature takes this damage only on its first successful attack against you in a combat round, and not on subsequent attacks in that round.
+
+**Verdant Apotheosis (Su)**: At 20th level, verdant power surges throughout your being. While bloodraging, you gain tremorsense out to 30 feet. In addition, you gain immunity to paralysis, poison, sleep, and stunning effects, even while you are not bloodraging.

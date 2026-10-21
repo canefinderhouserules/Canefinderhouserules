@@ -360,3 +360,69 @@ In most cases these benefits are gained on a level-by-level basis, and unless ot
 **Witch**: Add one spell from the witch spell list to the witch’s familiar. This spell must be at least one level below the highest spell level she can cast. If the witch ever replaces her familiar, the new familiar knows these bonus spells.
 
 **Wizard**: Add one spell from the wizard spell list to the wizard’s spellbook. This spell must be at least one level below the highest spell level he can cast.
+
+## Ultimate Wilderness
+
+### Gathlains (Ultimate Wilderness)
+
+**Barbarian**: Add 1/4 to the barbarian’s damage reduction. If the barbarian would not otherwise have damage reduction, this damage reduction can be bypassed by cold iron.
+
+**Bard**: Add one spell from the druid spell list to the bard’s spell list and known spells. This spell must be at least 1 level lower than the highest-level spell the bard can cast.
+
+**Bloodrager**: Add 1 additional round of bloodrage per day.
+
+**Cavalier**: Add a +1/2 bonus to the cavalier’s Knowledge (nature) and Knowledge (nobility) checks relating to fey courts and fey courtiers.
+
+**Druid**: Add a +1/2 bonus to wild empathy checks.
+
+**Hunter**: The hunter’s animal companion gains DR 1/cold iron. Each time the hunter gains another level, this DR increases by 1/3 (maximum DR 5/cold iron). If the hunter replaces this animal companion, the new companion gains this damage reduction.
+
+**Ranger**: Add 1/4 to the damage dealt by the ranger’s animal companion’s natural attacks.
+
+**Rogue**: Add a +1/2 bonus to Bluff checks to pass secret messages or create a distraction to hide and on Sleight of Hands checks to pickpocket.
+
+**Shaman**: Add one spell from the druid spell list to the shaman’s spell list. This spell must be at least 1 level lower than the highest-level spell the shaman can cast.
+
+**Skald**: Add a +1/2 bonus to Acrobatics checks to avoid attacks of opportunity and to Perform checks while performing a raging song.
+
+**Summoner**: Add 1/4 evolution point to the eidolon’s evolution pool. These bonus evolution points must be spent on evolutions that grant spell-like abilities or protect the eidolon from spells.
+
+**Witch**: Add one spell from the druid spell list to the witch’s familiar. This spell must be at least one level below the highest spell level the witch can cast. If the familiar is ever replaced, the new familiar knows these bonus spells.
+
+### Ghorans (Ultimate Wilderness)
+
+**Druid**: When casting spells that target plants or plant creatures, add 1/3 to the effective caster level, but only for the purpose of determining duration.
+
+**Hunter**: Add 1 skill rank to the hunter’s plant companion. If the hunter replaces her plant companion, the new plant companion gains these bonus skill ranks.
+
+**Mesmerist**: Choose one mind-affecting mesmerist trick that the mesmerist knows. The mesmerist can affect intelligent plant creatures with that trick or spell as if they weren’t immune to mind-affecting effects.
+
+**Ranger**: Add a +1/4 bonus on initiative checks and Survival checks when the ranger is in a favored terrain.
+
+**Rogue**: Choose one type of ranger favored enemy (or one subtype in case of either humanoid or outsider). The rogue adds 1/2 to her sneak attack damage when using sneak attack against creatures of the chosen type (maximum +3).
+
+**Shaman**: Add one spell from the druid spell list that isn’t on the shaman spell list to the list of spells she knows. This spell must be at least 1 level lower than the highest-level spell the shaman can cast.
+
+**Shifter**: Add 1/5 to the shifter’s natural armor bonus when using wild shape to assume a major form.
+
+**Sorcerer**: When casting sorcerer/wizard spells that are also on the druid spell list, add 1/3 to the effective class level, but only for the purpose of determining durations.
+
+**Witch**: Add 1/4 to the witch’s caster level when attempting dispel checks using dispel magic, break enchantment, and similar effects.
+
+### Vine Leshys (Ultimate Wilderness)
+
+**Alchemist**: Add 1/4 to the alchemist’s natural armor bonus when using his mutagen.
+
+**Bard**: Add a +1/3 bonus to Perform (oratory) checks, including checks using versatile performance, as long as the bard first spends at least 10 minutes telling a story.
+
+**Druid**: Add a +1/2 bonus to the druid’s wild empathy or plant empathy checks.
+
+**Kineticist**: Gain 1/5 of the Extra Wild Talent feat. This feat must be spent on a wood-element talent.
+
+**Oracle**: An oracle with the nature or wood mystery adds one spell from the druid’s spell list that isn’t on the cleric spell list to the oracle’s spell list; she still must select this spell as one of her spells known in order to cast it. This spell must be at least 1 level lower than the highest spell level the oracle can cast.
+
+**Ranger**: Add a +1/2 bonus to Knowledge (nature) checks in the ranger’s favored terrain.
+
+**Rogue**: Add a +1/2 bonus to Climb checks and on Stealth checks in forests.
+
+**Shaman**: Shamans with the nature or wood spirit add one spell from the druid’s spell list that isn’t on the shaman spell list to the shaman’s spell list; she still must select this spell as one of her spells known in order to cast it. This spell must be at least 1 level lower than the highest spell level the shaman can cast.

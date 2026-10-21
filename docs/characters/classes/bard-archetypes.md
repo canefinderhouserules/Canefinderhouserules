@@ -691,3 +691,37 @@ Dervish dancers gain the inspire courage, inspire greatness, and inspire heroics
 **Battle Fury (Su)**: At 20th level, the dervish dancer can unleash a whirlwind of blows while performing a battle dance.
 
 As a full-round action, he can take a single move action and unleash a single attack at his highest bonus against each target within his reach during any point of his move, up to a maximum number of attacks equal to the dervish dancer’s character level. This movement provokes attacks of opportunity as normal, and replaces deadly performance.
+
+## Fey Courtier
+
+Fey who associate with courts often become bards skilled at navigating the inhuman societies of the trackless wilds.
+
+**Bardic Performance**: The fey courtier has access to the following bardic performances.
+
+**Scorn of the Wilds (Sp)**: At 8th level, the fey courtier can use bardic performance to permanently mark a creature with nature’s displeasure by spending 2 rounds performing while the target remains within 30 feet. The performance includes a litany of the target’s misdeeds against fey and nature. Unless the target succeeds at a Will saving throw (DC = 10 + half the bard’s level + his Charisma modifier), it is cursed as per nature’s exile or bestow curse. At 14th level, the fey courtier’s options expand to include baleful polymorph and green caressHA. As part of the performance, the fey courtier must define a condition under which the curse will be lifted, which must relate to making amends for the crime against fey or nature and cannot be suicidal to carry out. A creature that succeeds at its saving throw is immune to the fey courtier’s scorn of the wild for 24 hours. This is a curse effect. This replaces dirge of doom and frightening tune.
+
+**Stone Dance (Sp)**: At 15th level, the bard’s performance can move even the features of the natural world. This performance functions as animate plants (DC = 10 + half the bard’s level + his Charisma modifier) except it can also animate unworked stone and water from natural bodies of water (with statistics equivalent to an appropriate plant). This replaces inspire heroics.
+
+**Fey Contacts**: At 2nd level, thanks to his fey contacts and knowledge of the byzantine trade customs of the fey courts, a fey courtier can treat any wilderness area with fey residents as a settlement with a certain base value and purchase limit based on his bard level for the purpose of buying and selling magic items. The fey courtier can also use these contacts to gather information about the residents, geography, and nearby areas with Diplomacy. This replaces versatile performance.
+
+| Bard Level | Base Value | Purchase Limit |
+|---|---|---|
+| 2nd | 50 gp | 500 gp |
+| 6th | 500 gp | 2,500 gp |
+| 10th | 2,000 gp | 10,000 gp |
+| 14th | 8,000 gp | 50,000 gp |
+| 18th | 32,000 gp | 200,000 gp |
+
+**Summon Fey Allies**: At 3rd level, the fey courtier gains Augment Summoning as a bonus feat and can call upon natural allies who owe him favors. He adds summon nature’s ally I to his list of 1st-level bard spells known. Whenever he gains access to another spell level, he adds the next-higher summon nature’s ally spell to his list of bard spells known. The fey courtier adds the following creatures to the summon nature’s ally list: 1st—grimple (gremlin), mite, sprite; 2nd—atomie, fuath (gremlin), nixie; 3rd—leprechaun, nuglub (gremlin), pooka; 4th—kelpie, korred, twigjack; 5th—lampad, lurker in light, swan maiden; 6th—cold rider, oceanid, sangoi. This replaces inspire competence.
+
+## Plant Speaker
+
+Plant speakers build upon their racial plantspeech ability and their storytelling tendencies to create an art form full of deep metaphors and allegory rather than specific details and facts.
+
+**Bardic Performance**: Plant speakers gain the following bardic performance.
+
+**Leshy Speaker (Su)**: At 9th level, the plant speaker can speak to its disembodied brethren, the spirits of nature that become leshys. He performs for 10 minutes and spends 7 rounds of bardic performance to gain the effects of commune with nature. This replaces inspire greatness.
+
+**Plant Speech**: A plant speaker’s mind-affecting bard spells and class abilities also affect plants, ignoring plants’ immunity to mind-affecting effects. At 2nd level, a plant speaker’s racial plantspeech allows him to communicate with all plants, not just plants that match his alternate form. This replaces bardic knowledge and well-versed.
+
+**Mystical Allegory (Su)**: At 5th level, the plant speaker can tell a story that matches some of the themes of the current situation in order to gain insight, gaining the effects of augury by performing for 1 minute and spending 4 rounds of bardic performance. At 11th level, he can perform for 10 minutes and spend 7 rounds of bardic performance to gain the effects of divination. At 17th level, he can perform for 1 hour and spend 10 rounds of bardic performance to gain the effects of legend lore, but the information is always vague and incomplete. This replaces lore master.

@@ -11,3 +11,11 @@ Each of the seven races also has a suite of special abilities, bonuses, and othe
 Each race also has ability score modifiers that are applied after you’ve generated your ability scores, as described in the previous chapter. These modifiers can raise an ability score above 18 or reduce a score below 3—although having such a low score in any of your abilities is something you should avoid, as there’s no surer route to character death than a low Constitution, and no swifter route to frustration than a PC who can’t talk since his Intelligence is lower than 3. You should seek your GM’s approval before playing a character with any ability score of less than 3.
 
 The seven races presented in this chapter have wildly different abilities, personalities, and societies, but at the same time, all seven races are quite similar—none of the races here deviate too far from humanity, and all of their abilities are roughly equal and balanced. Other races, more powerful and more exotic, exist in the game world as well, but the Pathfinder RPG is built and balanced with the expectation that all players start on roughly equal footing. Rules and guidelines for playing more powerful or more unusual races can be found in Chapter 12.
+
+## Ultimate Wilderness Races
+
+Three additional plant and fey races are available, each with its own archetypes, feats, spells and magic items:
+
+- [Gathlains](gathlains.md): small winged fey grown from the seeds of an enormous magical tree.
+- [Ghorans](ghorans.md): intelligent plants who regrow from a single seed.
+- [Vine Leshys](vine-leshys.md): free-willed leshys born of nature spirits and twisted vines.

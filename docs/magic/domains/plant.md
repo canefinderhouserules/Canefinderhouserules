@@ -71,3 +71,19 @@
 *Cruel Thicket (Su): As a standard action, you can cause the ground in a 5-foot-radius burst centered on you to sprout twisting, thorny vines. Any creature moving through it must travel at half speed or take bleed damage equal to half your cleric level; if you activate this ability in an area with numerous plants (grass, weeds, trees, etc.), the area also becomes difficult terrain. These effects last for 1 minute, after which the vines crumble to dust. Creatures able to move through natural undergrowth unhindered ignore the effects of this ability. You can use this ability a number of times per day equal to 3 + your Wisdom modifier.*
 
 ***Replacement Domain Spells**: 1st—thorn javelin<sup>ACG</sup>, 3rd— thorny entanglement<sup>ACG</sup>, 4th—thorn body<sup>APG</sup>.*
+
+## Leshy Subdomain
+
+You have a strong connection to these little manifestations of nature spirits.
+
+**Associated Domain**: Plant.
+
+**Associated Religions**: Green Faith.
+
+**Replacement Power**: The following granted power replaces the wooden fist power of the Plant domain.
+
+**Leshy Caller (Sp)**: You can spontaneously swap out any of your domain spells for a summon nature’s ally spell of the same level or lower, to a maximum of summon nature’s ally VII. If you do, you must use the spell to summon one or more leshys. Add leaf leshy, gourd leshy, fungus leshy, seaweed leshy, and lotus leshy to your summon nature’s ally I, II, III, IV, and V lists, respectively. You count as a plant creature for the purpose of creating leshys.
+
+As a standard action, you can grant a single leshy within 30 feet a +4 sacred bonus on its next attack roll before the start of your next turn. You can use this ability a number of times per day equal to 3 + your Wisdom modifier.
+
+**Replacement Domain Spells**: 1st—tree shape, 5th—commune with nature.

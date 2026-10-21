@@ -77,3 +77,31 @@ Some kineticists have such a powerful personality that they can seize control of
 **Mental Prowess (Su)**: An overwhelming soul’s mind is strong enough to protect her body from the stress of channeling the elements. However, in exchange, she is unable to push her limits quite as far as other kineticists. She can’t choose to accept burn, though she can use wild talents with a burn cost if she can reduce that cost to 0 points with abilities such as gather power and infusion specialization. If she would be forced to accept burn against her will (for example, if she fails a concentration check), instead of taking burn she takes 1 temporary negative level, which never kills her and can’t be removed with restoration or greater restoration, but which disappears automatically after 24 hours. At 6th level, once per day, she can reduce the total burn cost of any wild talent by 1. She can use this ability an additional time per day at 10th level and every 4 levels thereafter. This ability alters burn and replaces internal buffer.
 
 **Overwhelming Power (Ex)**: At 3rd level, an overwhelming soul gains a +1 bonus on attack rolls and damage rolls with her kinetic blasts. The damage bonus doesn’t apply to kinetic blade, kinetic whip, or other infusions that don’t apply the damage bonus from elemental overflow. This bonus increases by 1 at 6th level and every 3 levels thereafter. This ability replaces elemental overflow.
+
+## Leshykineticist
+
+Of all those who pursue the path of a kineticist, only leshykineticists are both made of plant matter and born of nature spirits. These curious creatures wield ancient powers unknown to any other kineticists.
+
+**Leshy Element**: A leshykineticist must select the wood element as her primary element and for both her expanded elements. She must choose wood blast as her first simple blast and positive blast as her second simple blast. At 6th level, she gains green tongue as a bonus utility wild talent, ignoring its prerequisites. At 7th level, when she first gains positive blast, she gains kinetic healer and the photokinetic infusion instead of the extra wild talent of 3rd level or lower for expanding in the same element. Her kinetic healer wild talent restores 1 extra hit point per die when healing plant creatures. At 9th level, she gains an extra wild talent of 3rd level or lower of her choice. At 10th level, she gains greater green tongue as a bonus utility wild talent, ignoring its prerequisites. This alters element and expanded element, and replaces the 6th-and 10th-level utility wild talents and maximize metakinesis.
+
+**Basic Leshykinesis (Su)**: A vine leshy leshykineticist can use her basic phytokinesis to move while in her alternate vine form, with a base speed of 10 feet and a climb speed of 10 feet. The vine counts as a prehensile appendage for the purpose of aiming kinetic blasts and gathering power. At the GM’s discretion, this ability might apply to leshykineticists of other leshy varieties as long as their alternate forms aren’t rooted to the ground (and even then, they might be able to use something like a branch to aim kinetic blasts). This alters basic phytokinesis.
+
+**Photosynthetic Buffer**: A leshykineticist fills her buffer with energy photosynthesized from sunlight, rather than from internal energy. Once per day, she can spend 1 hour motionless in her alternate plant form soaking in sunlight to fill her internal buffer. However, she can’t fill her internal buffer by accepting burn, and her internal buffer becomes empty whenever her burn is removed. She can’t benefit from any abilities that increase the maximum burn her buffer can hold. This alters internal buffer.
+
+**Green Rebirth (Su)**: At 20th level, a leshykineticist taps into the ancient power of the First World. When her verdant burst ability activates, it heals all allies and plant creatures in the area as if by a maximized version of her kinetic healer ability, rather than only 1d8 hit points. After 24 hours, one of the plants that grew in the area serves as a vessel for the leshykineticist’s spirit again, allowing her to return to life without penalty. Killing all the new plants that grew from her verdant burst within 24 hours prevents her from reviving in this way. This replaces omnikinesis.
+
+### Photokinetic Infusion
+
+*(Kineticist infusion wild talent)* Leshykineticists learn the following infusion automatically, but phytokineticists of all races can select it as an infusion.
+
+**Photokinetic Infusion**
+
+**Element** wood; **Type** substance infusion; **Level** 1; **Burn** 1
+
+**Prerequisite** positive blast
+
+**Associated Blasts** positive
+
+**Saving Throw** none
+
+Your blast damages living creatures with light. This deals normal damage to undead creatures but also deals minimum damage (1 point of damage per d6, can’t be increased by the 9th-level improvement to metakinesis) to living creatures. Undead creatures that are particularly vulnerable to sunlight, such as vampires, take 1 extra point of damage per die from the infused blast.
