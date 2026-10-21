@@ -408,3 +408,45 @@ Reclusive alchemists who dwell in the highest mountains or on the frozen tundra 
 **Cold Sweat (Su)**: At 2nd level, an ice chemist channels her affinity for cold energy into her personal space, keeping herself and her gear cool. She gains cold resistance equal to her alchemist level and can survive comfortably in temperatures as low as –50º Fahrenheit. This replaces poison resistance and poison immunity.
 
 **Frost Bomb (Su)**: At 2nd level, an ice chemist gains the frost bomb discovery. This replaces the discovery that the alchemist normally gains at 2nd level.
+
+## Fire Bomber
+
+Fire bombers are exceptionally good at using bombs to burn creatures and blow things up, but are not quite as good at creating other types of bombs or extracts. A fire bomber has the following class features.
+
+**Weapon and Armor Proficiency**: A fire bomber treats torches as a simple weapon.
+
+**Fire Bombardier (Su or Ex)**: At 1st level, when a fire bomber throws a bomb that deals fire damage, all creatures in the splash radius take an additional point of damage per die of fire damage dealt. Fire bombers only add their Intelligence bonus to damage from bombs or alchemical substances that deal fire damage. This otherwise works like the alchemist’s bomb and throw anything abilities. This ability alters bomb and throw anything.
+
+**Bonus Feats**: A fire bomber can select the Burn! Burn! Burn!, Fire Tamer, or Flame Heart feat in place of a discovery.
+
+**Fiery Cocktail (Su)**: At 4th level, whenever a fire bomber uses a discovery that deals damage other than fire damage, he can split the damage dice evenly between the bomb’s primary damage type and 1d6 points of fire damage; when there is an odd number of damage dice, the odd die of damage comes from the primary damage type. For example, an 8th-level fire bomber could throw a concussive bomb that deals 2d6 points of fire damage and 3d4 points of sonic damage. Additional effects from the bomb still apply, but the save DC for admixture bombs is reduced by 2. This replaces the alchemist’s 4th-level discovery.
+
+**Fire Body (Ex)**: At 8th level, a fire bomber adds *elemental body I* to his extract list as a 3rd-level extract. *Elemental body* extracts prepared using fire body are limited to fire elementals only. This ability replaces poison resistance +6.
+
+**Improved Fire Body (Ex)**: At 10th level, fire bombers add *elemental body II* to their spell list as a 4th-level extract. *Elemental body* extracts prepared using improved fire body are limited to fire elementals only. This ability replaces poison immunity.
+
+**Greater Fire Body (Ex)**: At 14th level, fire bombers add *elemental body IV* to their spell list as a 5th-level extract. *Elemental body* extracts prepared using greater fire body are limited to fire elementals only. This ability replaces persistent mutagen.
+
+**Discoveries**: The following discoveries complement the fire bomber archetype: fire brand, rocket bomb (see sidebar); explosive bombs, fast bombs, inferno bomb, precise bombs (*Advanced Player’s Guide*); breath weapon bomb, explosive missile, immolation bomb (*Ultimate Combat*); bottled ooze, confusion bomb, strafe bomb (*Ultimate Magic)*.
+
+## Plague Bringer
+
+The plague bringer sees disease as the ultimate weapon, and has worked tirelessly to master new diseases and disease-delivery systems. A plague bringer feels no more remorse at unleashing his armaments on his enemies than an archer does when firing an arrow in the heat of battle. Disease is a tool, and the plague bringer is its master. A plague bringer has the following class features.
+
+**Plague Vial (Su)**: At 1st level, a plague bringer can create a plague vial, an alchemically grown and concentrated disease sample. It takes 1 hour to prepare a plague vial, and once prepared, the vial remains potent until used. A plague bringer can only maintain 1 plague vial at a time—if he prepares a second vial, any existing plague vial becomes inert. A plague vial that is not in a plague bringer’s possession becomes inert until a plague bringer picks it up again.
+
+It’s a standard action to drink a plague vial. Upon being imbibed, the plague vial infects the plague bringer’s blood, sweat, tears, and other bodily fluids for 10 minutes per class level. Any creature that harms him with melee attacks (except with reach weapons) must make a Fortitude save (DC 10 + 1/2 the plague bringer’s level + the plague bringer’s Intelligence modifier) or become sickened for 1 round per plague bringer level. The plague bringer is immune to the effect of his own plague vial, but not that of another’s plague vial. The effects of multiple plague vials do not stack.
+
+As a standard action, the plague bringer can infect a weapon with this sickness (typically by licking it or wiping his blood or pus on it). The disease on the weapon works like a poisoned weapon, except the source is a disease instead of a poison (so a dwarf’s resistance to poison does not apply).
+
+Anyone other than a plague bringer (including another alchemist) who drinks a plague vial must make a saving throw against the vial’s DC or become nauseated for 1 hour. Unless he learns how to brew a mutagen by taking the mutagen discovery, he can never benefit from a mutagen and reacts to it as if he were a non-alchemist. At any particular time, a plague bringer can only be under the effect of either a plague vial or a
+
+### Ratfolk Discoveries
+
+The following new discoveries can be taken by any alchemist who meets the prerequisites, but are more common among ratfolk. *Greater Plague Bomb*: The effects of the smoke created by an alchemist’s bomb duplicates the effects of *greater contagion* instead of *fog cloud*, filling an area equal to twice the bomb’s splash radius for 1 round per level. An alchemist must be at least 16th level and must possess the plague bomb and smoke bomb discoveries before selecting this discovery. *Lingering Plague*: Any creature that must make a save against a disease caused by the alchemist’s extract or other class ability must make a second save 1 round later to avoid doubling the duration of the disease effect. If the disease doesn’t have a duration, this discovery reduces its onset time and frequencies by half. An alchemist must be at least 8th level before selecting this discovery. mutagen (not both); drinking another immediately ends the effects of any ongoing plague vial or mutagen.
+
+All limitations to mutagens apply to plague vials as if they were the same substance. The infuse mutagen discovery and persistent mutagen class ability apply to plague vials. The sticky poison discovery applies to a weapon infected with a plague vial. The plague vial is a disease effect. This ability replaces mutagen.
+
+**Disease Resistance (Ex)**: At 2nd level, a plague bringer gains a +2 bonus on all saving throws against disease. This bonus increases to +4 at 5th level, and to +6 at 8th level. At 10th level, a plague bringer becomes completely immune to disease (including magical diseases). This ability replaces all increments of poison resistance and poison immunity.
+
+**Discoveries**: The following discoveries complement the plague bringer archetype: explosive bomb, precise bombs, smoke bomb (*Advanced Player’s Guide*); breath weapon bomb, fast bomb, nauseating bomb (*Ultimate Combat*); plague bomb (*Ultimate Magic*).

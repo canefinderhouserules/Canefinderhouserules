@@ -442,6 +442,32 @@ At 9th level, these bonuses increase to +4.
 
 **Shepherd of the Trees (Su)**: At 20th level, your verdant heritage fully manifests. You gain a +4 natural armor bonus. You gain immunity to paralysis, poison, polymorph, sleep, and stunning, and you gain tremorsense 30 feet even when not rooted.
 
+## Advanced Race Guide Bloodlines
+
+### Kobold
+
+While many kobold sorcerers tout their purely draconic bloodline, over generations of eldritch training, some such spellcasters have created a bloodline that, while tinged with some draconic magic, is the embodiment of the race’s virtue distilled into arcane form. Many practitioners of this bloodline go on to lead powerful kobold tribes.
+
+**Class Skill**: Disable Device.
+
+**Bonus Spells**: *alarm* (3rd), *create pit* (5th), *explosive runes* (7th), *dragon’s breath* (9th), *transmute rock to mud* (11th), *guards and wards* (13th), *delayed blast fireball* (15th), *form of the dragon III* (17th), *imprisonment* (19th).
+
+**Bonus Feats**: Alertness, Combat Casting, Defensive Combat Training, Dodge, Improved Initiative, Lightning Reflexes, Silent Spell.
+
+**Bloodline Arcana**: Whenever you cast a spell against a creature that is denied its Dexterity bonus to AC, increase that spell’s DC by +2.
+
+**Bloodline Powers**: Like all kobolds, you have a natural talent for ambushing, creating traps, and mining. As your power increases, you discover ever more useful ways to blend your magic with these instinctive talents.
+
+**Trap Rune (Sp)** At 1st level, as a standard action, you can sketch a single, nearly invisible magical rune on any 5-foot-square solid surface. When you create a rune, pick one of the following energy types: acid, cold, electricity, or fire. While the rune is active, the next creature other than you who steps on or touches the rune’s area causes the rune to explode. The rune’s explosion deals a number of points of energy damage equal to 1d8 + 1 per sorcerer level you possess to anything in its square. A Reflex saving throw halves the damage (DC 10 + 1/2 your sorcerer level + your Charisma modifier). The rune is considered a magical trap for the purpose of perceiving it or disabling it. The DC for both Perception and Disable Device checks is the same as the Reflex saving throw to halve the damage. You can use this ability a number of times per day equal to 3 + your Charisma modifier. Each rune lasts for 24 hours or until discharged.
+
+**Trap Sense (Ex)**: At 3rd level, you develop a sixth sense that helps you avoid traps. You gain a +2 bonus on Perception checks made to notice traps. You also gain a +1 bonus on Reflex saves to avoid traps and a +1 dodge bonus to AC against attacks made by traps. These bonuses increase by +1 at 7th level and for every four sorcerer levels you gain thereafter (to a maximum of +5 at 19th level). This bonus stacks with that provided by a rogue’s trap sense and similar abilities.
+
+**Arcane Ambush (Su)** At 9th level, as a swift action, you can expend a spell slot in order to grant you and your allies a bonus on attack and damage rolls. This bonus lasts 1 round, is equal to the level of the spell expended, and only applies to opponents your allies are flanking or opponents denied their Dexterity bonus against your allies. You grant this bonus to yourself plus up to one ally for every four sorcerer levels you possess (to a maximum of five allies at 20th level). The allies must be within 30 feet of you and you must have line of effect to each affected ally.
+
+**Earth Glide (Su)** At 15th level, you gain the earth glide universal monster ability with a speed equal to your base speed. This does not give you the ability to breathe while passing through earth, so you must hold your breath or use some alternate method to breathe while using this ability.
+
+**Nimble Walker (Su)** At 20th level, you gain a +5 racial bonus on Reflex saving throws and on Acrobatics checks made to move through a creature’s threatened area or through its space. You also gain the ability to breathe while passing through earth using your earth glide ability.
+
 ## Crossblooded
 
 A crossblooded bloodline combines the powers of two distinct heritages. In most cases, sorcerers with this bloodline are the offspring of two sorcerers from different ancestries, but occasionally a crossblooded sorcerer arises from the conjunction of other powers. A draconic sorcerer who is also the culmination of a great destiny, an abyssal sorcerer from a family that dealt with devils, and an arcane sorcerer raised from birth by fey are all possible sources for crossblooded bloodlines.
@@ -764,3 +790,17 @@ This ability alters the bloodline class feature, bloodline powers, and bloodline
 **Bloodline Spells**: At 7th level, each day when she selects her bloodline, a mongrel mage adds the 1st-, 2nd-, and 3rdlevel spells from her selected bloodline to her current list of spells known.
 
 At 13th level, each day when she selects her bloodline, a mongrel mage adds the 4th-, 5th-, and 6th-level spells from her selected bloodline to her current list of spells known. At 19th level, each day when she selects her bloodline, a mongrel mage adds the 7th-, 8th-, and 9th-level spells from her selected bloodline to her current list of spells known. This ability replaces the bloodline feats gained at 7th, 13th, and 19th level.
+
+## Wishcrafter
+
+Wishcrafters are born with a talent for manipulating reality inherited from their efreeti ancestors. However, like the genies they are descended from, wishcrafters can only draw upon this power to fulfill the desires of others. A wishcrafter has the following class features.
+
+**Wishbound Arcana (Su)**: At 1st level, the wishcrafter can use the wishes of non-genie creatures other than herself in place of the normal verbal components of her spells. A creature can make a wish as a free action at any time, even during the wishcrafter’s turn. The wishcrafter must be able to hear and understand a wish in order to use it as a spell component. A spell that doesn’t normally have a verbal component gains one when cast using this ability. A wish doesn’t need to mention the name of a specific spell, but must describe an outcome that can be accomplished by casting a spell the wishcrafter knows (for example, wishing to be bigger could supply the verbal component for *enlarge person*). A wishcrafter gains a +1 bonus to her caster level when using a creature’s wish as a verbal component in this manner, but cannot include herself as a target of such spells. She can be affected by such a spell if it affects an area rather than a target or targets. A wishcrafter is under no compulsion to grant a creature’s wish. Once the wishcrafter grants a creature’s wish using this ability, she cannot use this ability to grant that creature any further wishes for 24 hours. This ability replaces bloodline arcana.
+
+**Expanded Wishcraft**: At 3rd level and every 2 levels thereafter, the wishcrafter grows more adept at altering reality to fit the whims of others. She may add an additional spell selected from the sorcerer/wizard spell list to her list of spells known. This spell must be one level lower than the highest-level spell she can cast. A wishcrafter can only use these spells in conjunction with her wishbound arcana ability. For example, if she used this ability to learn *cat’s grace*, she can only cast it when another creature wishes for it, and can’t cast it on herself because it is a targeted spell. She cannot use these spells to craft or recharge magic items. These bonus spells replace the bloodline spells gained by the sorcerer’s bloodline.
+
+**Heart’s Desire (Su)**: At 7th level, as a swift action, a wishcrafter can force a single creature within 30 feet to confess its deepest desire. The target receives a Will save to negate this effect (DC 10 + 1/2 the wishcrafter’s level + the wishcrafter’s Charisma modifier). On a failed save, the creature must immediately wish aloud in a clear voice for something it truly desires, allowing the wishcrafter to activate her wishbound arcana ability if she knows a spell that can fulfill that wish. This is a mind-affecting effect. Regardless of whether the save is successful, a creature cannot be the target of the same wishcrafter’s heart’s desire ability again for 24 hours. The wishcrafter can use this ability a number of times per day equal to her Charisma bonus. This ability replaces the bloodline bonus feat gained at 7th level.
+
+**Twisted Wish (Su)**: At 13th level, a wishcrafter becomes adept at corrupting wishes to negatively affect the creature that wished them. When a wishcrafter affects a creature with a spell using its wish as a spell component, she may twist the wish, applying a –4 penalty to the creature’s saving throws against the spell. The effects of wishes twisted this way are difficult to remove; the DC of caster level checks to dispel them increases by 5. This ability replaces the bloodline bonus feat gained at 13th level.
+
+**Perfect Wishcraft (Su)**: At 19th level, the wishcrafter perfects her ability to manipulate reality. Once per day, she may cast any spell on the sorcerer/wizard spell list as if it were on her list of spells known. Using this ability otherwise has all of the benefits and limitations of the wishbound arcana ability. This ability replaces the bloodline bonus feat gained at 19th level.

@@ -375,3 +375,57 @@ A tree soul who wears prohibited armor or uses a prohibited shield is unable to 
 **Living Steel Dolls (Ex)**: At 11th level, you add animate objects to your list of spells known. When you cast this spell on wooden objects, the objects’ wooden parts immediately transform into living steel. If the objects are destroyed or the duration ends, the wooden parts revert back to their original material.
 
 **Tree Soul Revelation (Su)**: At 20th level, your skin takes on the appearance and properties of a tree trunk. This bark-like skin grants you a +4 natural armor bonus to your Armor Class and DR 10/slashing. You also regrow any severed limbs except your head within 24 hours as per regenerate. Finally, once a day as a standard action, you can assume the form of a treant, as per plant shape III, for a number of minutes equal to 3 + your Charisma modifier (minimum 1). This replaces final revelation.
+
+## Purifier
+
+The purifier seeks out signs of possession or mind control that manifest from unwilling (and often unwitting) servants for fiendish corruptors and their mortal minions. A purifier seeks liberation of mind, body, and spirit from the bondage of sin and the taint of the unholy. A purifier gains the following class features.
+
+**Recommended Mysteries**: ancestor, battle, heavens, lore.
+
+**Bonus Spells**: *veil of heaven* (2nd), *confess* (4th), *cast out* (6th), *denounce* (8th), *dispel evil* (10th), *banishment* (12th), *holy word* (14th), *mind blank* (16th), *freedom* (18th).
+
+**Diminished Spellcasting**: A purifier can use one fewer spell per day of each level and does not automatically learn cure or inflict spells. Her number of oracle spells known is unchanged.
+
+**Revelations**: A purifier must take the following revelations at the listed levels.
+
+**See Sin (Sp)**: At 3rd level, a purifier gains a bonus equal to 1/2 her oracle level on Sense Motive checks to sense enchantments, which she can make as a full-round action. She also gains a bonus equal to 1/2 her oracle level on Spellcraft checks to identify enchantment school spells and spells with the curse or emotion descriptor.
+
+**Celestial Armor (Su)**: At 7th level, a purifier’s armor takes on a golden or silvery sheen and becomes light as a feather. Her armor weighs half as much as long as she wears it, and she also gains armor training as a fighter 4 levels lower than her oracle level. At 11th level, a purifier gains heavy armor proficiency.
+
+**Sin Eater (Su)**: At 11th level, a purifier can consume a curse, enchantment, or emotion effect by touch as a full-round action. She can do this a number of times per day equal to her Charisma modifier, and must make a Charisma check with a bonus equal to her oracle level against a DC of 11 + the caster level of the effect (or the Hit Dice of the creator for a supernatural effect). If the check succeeds, the effect is negated; however, the purifier is sickened for 1d4 rounds.
+
+If the target is possessed (such as by a *magic jar* effect or a ghost’s malevolence ability), the possessor is forced out on a successful check. Whether the check succeeds or fails, the possessor is sickened for 2d4 rounds.
+
+**Sacred Scourge (Su)**: At 5th level, a purifier may channel holy power to harm evil outsiders as a cleric of her level using the Alignment Channel feat. She may use this ability a number of times per day equal to 1 + her Charisma modifier.
+
+**Holy Terror (Su)**: At 9th level, a purifier may use her sacred scourge to panic evil outsiders as if using the Turn Undead feat against undead.
+
+**Celestial Master (Su)**: At 13th level, a purifier may use her sacred scourge to compel good outsiders to serve her, as if using the Command Undead feat against undead.
+
+## Shigenjo
+
+The shigenjo walks the path of enlightenment and transcendence by seeking oneness with the celestial spirits. In doing so, she unlocks the martial potential of her own spiritual power. A shigenjo has the following class features.
+
+**Class Skills**: A shigenjo adds Knowledge (nature), Knowledge (religion), Knowledge (planes), and Survival to her list of class skills. These replace the additional class skills from her mystery.
+
+**Alignment**: Any neutral.
+
+**Recommended Mysteries**: ancestor, battle, fire, heavens, lore, metal, nature, stone, time, waves, wood.
+
+**Bonus Spells**: *true strike* (2nd), *alter self* (4th), *divine power* (8th), *magic jar* (12th), *ki shout* (14th, *Ultimate Magic*), *moment of prescience* (16th). These bonus spells replace the shigenjo’s mystery bonus spells at these levels.
+
+**Ki Pool (Su)**: At 7th level, a shigenjo gains a pool of *ki* points, supernatural energy she can use to accomplish amazing feats. The number of points in the shigenjo’s *ki* pool is equal to 1/3 her oracle level + her Charisma modifier. The *ki* pool is replenished each morning after 8 hours of rest or meditation; these hours do not need to be consecutive. If the shigenjo possesses levels in another class that grants points to a *ki* pool, *ki* points gained from the shigenjo class stack with those gained from the other class to determine the total number of *ki* points in the combined pool, but only one ability score modifier is added to the total. The choice of which score to use is made when the second class ability is gained, and once made, the choice is permanent. The shigenjo can use *ki* points from this pool to power the abilities of every class she possesses that grants a *ki* pool.
+
+As long as she has at least 1 point in her *ki* pool, a shigenjo can make a *ki* strike as a monk whose level is equal to her oracle level – 3. As a swift action, she may spend 1 point of *ki* to gain one of the following benefits.
+
+*Ki Magic*: Add +1 to the DC of the next spell she casts on her turn.
+
+*Ki Curse*: Treat her oracle level as 5 higher for the purpose of determining the effects of her curse for the next round.
+
+*Ki Insight*: Gain a +4 insight bonus on Spellcraft checks for 1 round.
+
+This ability replaces the shigenjo’s 7th-level revelation.
+
+**Quivering Palm (Su)**: At 15th level, a shigenjo may learn quivering palm as the monk ability of the same name in place of a revelation. She treats her oracle level as her monk level for this ability, and the DC is based on her Charisma bonus instead of her Wisdom bonus.
+
+**Final Revelation**: Upon reaching 20th level, you achieve true enlightenment and becomes one with the celestial spirits. You gain the ability to speak with any creature that uses a language. For a number of days equal to your Wisdom score, you can ignore the negative effects of extreme weather, starvation, thirst, and exhaustion. If you die, your powerful connection to the celestial realm allows you to be reborn 3 days later (as *reincarnate*). This replaces the final revelation of the shigenjo’s mystery.

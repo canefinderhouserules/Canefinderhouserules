@@ -241,3 +241,56 @@ The merciful healer is a master of battlefield revivification, sustaining and re
 **Merciful Healing (Su)**: At 3rd level, a merciful healer can channel positive energy to relieve one or more harmful conditions. The merciful healer chooses one of the following harmful conditions at 3rd level: fatigued, shaken, or sickened. When the merciful healer channels energy she can remove the chosen condition from one living creature that she heals within her channel energy burst. At 6th level, she can choose another condition. It can be one of those she didn’t choose at 3rd level, or one of the following conditions: dazed, diseased, or staggered. She can remove the selected condition or the one she chose at 3rd level from up to two creatures within her channel energy burst. She gains another condition at 9th level, and can choose an above condition or one of the following conditions: cursed, exhausted, frightened, nauseated, or poisoned. She can remove that condition, or a condition she previously chose, from one or two creatures within the burst. Finally, at 12th level, she can choose a lowerlevel condition or one of the following conditions: blinded, deafened, paralyzed, or stunned. She can remove that condition or one she previously chose from one, two, or three creatures within her channel energy burst. Feats and effects that affect a paladin’s mercy also affect this ability.
 
 **True Healer (Su)**: At 8th level, when a merciful healer uses channel energy, she can choose to apply the benefits of merciful healing or to reroll any 1s when determining how much damage she heals with channel energy. She must choose which benefit to take before she rolls to see how much damage she heals.
+
+## Demonic Apostle
+
+In order to survive, the drow threw in their lot with demon lords. Thus, demon worship is common among the drow, and so are ranks of demonic apostles, who gain magical insight from their dark lords and crush their chaotic masters’ enemies by channeling demonic energy. A demonic apostle has the following class features.
+
+**Demonic Magic**: A demonic apostle must choose to channel negative energy, and must select either the Chaos or Evil domain or the Demon subdomain as her sole domain.
+
+**Demonic Familiar**: At 1st level, a demonic apostle gains a familiar as a wizard equal to her cleric level, or if she already has a familiar, her cleric levels stack to determine the familiar’s abilities. At 3rd level, her familiar gains the fiendish template. At 7th level, the demonic apostle exchanges her familiar for a quasit without the need to take the Improved Familiar feat.
+
+**Demonic Channel (Su)**: At 1st level, a demonic apostle can channel demonic energy to damage creatures of lawful and good alignment, or, at higher levels, bolster the abilities of chaotic evil allies.
+
+Channeling this energy causes a 30-foot-radius burst centered on the cleric. Creatures within the burst that are lawful or good take 1d6 points of damage, plus 1d6 points of damage for every two levels the cleric possesses beyond 1st (2d6 at 3rd, 3d6 at 5th, and so on). Creatures that take damage from the channeled demonic energy receive a Fortitude save to halve the damage. The DC of this save is equal to 10 + 1/2 the demonic apostle’s level + the demonic apostle’s Charisma modifier. Lawful good creatures take a –2 penalty on this saving throw. At 5th level, chaotic evil allies within the burst are affected as if targeted by a *rage* spell with a duration of 1 round. At 9th level, lawful or good enemies are also sickened for 1d6 rounds if they fail their saving throw against the demonic channel. Channeling demonic energy is a standard action that does not provoke attacks of opportunity. This ability replaces channel energy.
+
+## Fiendish Vessel
+
+Many clerics pray to or make evil bargains with fiendish powers, devoting body and soul to the insane plans and wicked aims of their despicable patrons. But these mortal clerics are often just shallow beings searching for quick power or the caress of true and final oblivion—few truly grasp the full scope of the entities they worship. Fiendish vessels, through their fiendish heritage, share an innate connection with their patron, and that connection grants them understanding and power. A fiendish vessel has the following class features.
+
+**Alignment**: Unlike normal clerics, a fiendish vessel’s alignment must match her patron’s.
+
+**Domains**: A fiendish vessel must select the Daemon, Demon, or Devil subdomain (*Advanced Player’s Guide* 88– 90) as one of her domain choices, based on the fiendish patron she chooses to serve.
+
+**Channel Evil (Su)**: At 1st level, a fiendish vessel, rather than channeling positive or negative energy, instead channels the pure evil power of her fiendish patron. This ability is similar to channeling negative energy, but instead of healing undead and dealing damage to living creatures, this blast of evil energy automatically heals evil creatures and debilitates good creatures within its burst.
+
+Unlike most clerics, a fiendish vessel must pick as her patron an evil deity, an archdevil, a demon lord, or one of the four horsemen of the apocalypse. Her patron must be a specific named power of the GM's campaign; the table below lists the type of information needed for each choice. Typically, an archdevil is lawful evil, a demon lord is chaotic evil, and a horseman is neutral evil.
+
+**Table 2–4: Fiendish Patrons**
+
+| Patron Type | AL | Typical Domains | Familiar |
+|---|---|---|---|
+| Evil deity | Any evil | Evil plus three others chosen by the deity | Imp |
+| Archdevil | LE | Evil, Law, and two others | Imp |
+| Demon lord | CE | Chaos, Evil, and two others | Quasit |
+| Horseman | NE | Evil, plus Death, Destruction, or War | Cacodaemon |
+
+Channeling this evil causes a burst that affects all creatures in a 30-foot radius centered on the fiendish vessel. In the case of evil creatures, the amount of damage healed is equal to 1d4 points of damage and increases by 1d4 at every two levels beyond 1st (to a maximum of 10d4 at 19th level). Good creatures in the burst receive a Will saving throw to negate this damage. Good creatures that fail their saving throws are sickened for 1d4 rounds. Good creatures with a number of Hit Dice less than or equal to the fiendish vessel’s class level – 5 that fail their saving throws are nauseated for 1 round and then sickened for 1d4 rounds instead. The DC of this save is equal to 10 + 1/2 the fiendish vessel’s level + the fiendish vessel’s Charisma bonus. Neutral creatures are unaffected by this burst of evil energy.
+
+A fiendish vessel may channel this energy a number of times per day equal to 3 + her Charisma modifier. Doing so is a standard action that does not provoke attacks of opportunity. A fiendish vessel can choose whether or not to include herself in this effect. A fiendish vessel must present her unholy symbol or use her familiar as the divine focus for this ability.
+
+For the purposes of feats that affect channel energy, this ability counts as channeling negative energy. If the feat changes the way the fiendish vessel channels or deals damage with her channeling, use the amount of damage this ability heals evil creatures to determine the damage-dealing potential of the affected ability. For instance, if a 5th-level fiendish vessel takes the Channel Smite feat, her channeling deals an additional 3d4 points of damage to living creatures on a successful hit (though they may save to negate the damage).
+
+This ability replaces channel energy.
+
+**Fiendish Familiar**: At 3rd level, a fiendish vessel’s patron rewards her with a fiendish servant. The fiendish vessel gains an imp, quasit, or cacodaemon familiar based on the patron she worships. If she worships an evil deity or an archdevil, she gets an imp; if she worships a demon lord, she gets a quasit; and if she worships one of the Four Horsemen, she gains a cacodaemon. This ability is identical to the wizard’s arcane bond with a familiar and the Improved Familiar feat, using the fiendish vessel’s character level in place of the wizard level.
+
+This tiny fiend acts like a perverse, manifest moral compass. Furthermore, this familiar can act as a living divine focus and unholy symbol for her spellcasting if the fiendish vessel so desires, which means that when she uses her channel evil ability, its burst can be centered on the familiar instead, as long as that familiar is within 30 feet and line of sight. A fiendish vessel’s familiar tends to be fawning and subservient to the fiendish vessel. Should her familiar die, the fiendish vessel’s patron replaces the familiar with an identical one within 1 week, without the need for a special ritual. Furthermore, the fiendish familiar gains the following special abilities beyond the standard familiar special abilities.
+
+*Fiendish Augury (Sp)*: At 3rd level, the fiendish vessel can ask the familiar whether a particular course of action will bring good or bad results for her in the immediate future. This ability acts like the *augury* spell, with a caster level equal to the fiendish vessel’s level, with the familiar acting as the mouthpiece for the spell. This ability can be used once per day.
+
+*Fiendish Divination (Sp)*: At 9th level, the fiendish vessel can use a more powerful form of divination to gain intelligence from her patron through her fiendish familiar. This ability acts like the *divination* spell, with a caster level equal to the fiendish vessel’s level; the familiar acts as the mouthpiece for the spell. This ability can be used once per day.
+
+*Extra Divination (Sp)*: At 13th level, the fiendish vessel can gain intelligence from her patron more often each day. She can use fiendish divination up to 3 times per day.
+
+**Fiendish Summoning**: When casting *summon monster* spells, a fiendish vessel is limited to summoning fiendish creatures and evil outsiders of the same alignment as her patron.

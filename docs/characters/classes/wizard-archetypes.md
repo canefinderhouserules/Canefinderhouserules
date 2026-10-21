@@ -399,3 +399,45 @@ Conniving wench. When she’d asked him to be her champion, he’d thought she m
 Behind him, two heads screamed.
 
 Feats represent special tricks or abilities a character has acquired through training, luck, or as a quirk of his birth. They grant characters abilities that others lack, giving them an edge in the right situation. While some feats specifically interact with a PC’s race or class, most are available to anyone who meets the prerequisites. The feats in this book expand upon those in the Pathfinder RPG Core Rulebook, the Pathfinder RPG Advanced Player’s Guide, Pathfinder RPG Ultimate Magic, and other sources, introducing new combat feats, critical feats, metamagic feats, and teamwork feats. This book also introduces two new types of feats— grit feats and style feats. Grit feats expand a gunslinger’s ability to use grit and deeds, while style feats each grant a style of martial arts that can be used by monks and other characters who learn the style.
+
+## Cruoromancer
+
+To those who know how to manipulate it, the blood of a dhampir can be a powerful component to magic. A cruoromancer infuses his necromantic magic with the power of his unique mixture of living blood and undead ichor. As his power increases in this strange arcane art, a cruoromancer finds potent ways to infuse his unique blood with necromancy spells. A cruoromancer has the following class features.
+
+**Blood Infusion (Su)**: When a cruoromancer casts a spell of the necromancy school, he can opt to infuse that spell with his undead-tainted blood as a swift action. As he increases in level, the power and effects of such infusions become more potent. Each time a cruoromancer uses blood infusion, he drains a portion of his own blood either by cutting himself with a blade or by opening a scab from a previous wound. When he does this, he takes an amount of damage equal to 1d4 + the level of the spell being infused. A cruoromancer can only affect a spell with a single type of blood infusion. At 1st level, he can infuse his necromancy spells in either of the following ways.
+
+**Focused Infusion**: When the cruoromancer uses this infusion, he adds +1 to the DC of the infused necromancy spell.
+
+*Sickening Infusion*: When the cruoromancer uses this infusion, any creature damaged by the infused necromancy spell becomes sickened for 1 round.
+
+This ability replaces arcane bond.
+
+**Blood Command (Su)**: At 5th level, a cruoromancer can control up to 5 Hit Dice worth of undead creatures per caster level instead of the normal 4 Hit Dice of undead when casting the *animate dead* spell. He also gains the following blood infusion ability.
+
+*Commanding Infusion*: When using this infusion with *animate dead*, the cruoromancer can create a number of Hit Dice of undead equal to three times his caster level instead of twice his caster level.
+
+This ability replaces the 5th-level wizard bonus feat.
+
+**Blood Desecration (Su)**: At 10th level, a cruoromancer gains the following blood infusion.
+
+*Desecrating Infusion*: When the cruoromancer uses this infusion, he can choose to center a *desecrate* effect on himself or a single target of the spell modified by this infusion (he chooses upon casting). This effect is like the *desecrate* spell, but lasts for 1 minute per caster level of the cruoromancer, and does not interact with altars, shrines, or permanent fixtures that boost the *desecrate* effect. This ability replaces the 10th-level wizard bonus feat.
+
+**Blood Ability (Su)**: At 15th level, a cruoromancer can choose to scry through a single undead creature he created with a spell modified by a commanding infusion. The undead creature is treated as if imbued with an *arcane eye* spell (caster level equal to the cruoromancer’s wizard level). This ability replaces the 15th-level wizard bonus feat.
+
+**Perfect Infusion (Su)**: At 20th level, a cruoromancer can use his blood infusions without taking damage. This ability replaces the 20th-level wizard bonus spell.
+
+## Wind Listener
+
+The wind listener takes a sylph’s natural curiosity to the extreme, enhancing his natural skill at subterfuge and eavesdropping with potent arcane magic. A wind listener has the following class features.
+
+**Class Skills**: A wind listener adds Perception to his list of class skills.
+
+**Arcane School**: A wind listener cannot select divination or illusion as a prohibited school.
+
+**Spontaneous Divination (Su)**: At 1st level, a wind listener can reshape stored spell energy into divination spells he did not prepare ahead of time. The wind listener can “lose” any prepared spell that is not a cantrip in order to cast a divination spell of the same spell level or lower. The new spell must be one the wind listener knows and is capable of casting. Spells cast with this ability increase their casting time to a full-round action (if the spell’s normal casting time is longer than a full-round action, it remains unchanged). This ability replaces arcane bond.
+
+**Abjuration Sense (Ex)**: At 5th level, a wind listener develops a sixth sense for spotting spells designed to guard against his investigations. He gains a bonus on Perception checks equal to 1/2 his level to notice spells of the abjuration school and on Spellcraft checks to identify abjuration effects, spells, and magic items. This ability replaces the bonus feat gained at 5th level.
+
+**Wispy Form (Ex)**: At 10th level, the wind listener gains the ability to become airy and translucent as a standard action, gaining DR 10/magic and the effects of *improved invisibility* for a number of rounds per day equal to his level. These rounds need not be consecutive. Like the natural invisibility universal monster ability, this ability is not subject to *invisibility purge*. This ability replaces the bonus feat gained at 10th level.
+
+**Listening to the Wind (Sp)**: At 15th level, the wind listener can call upon spirits of the air to uncover lost lore about a legendary person, place, or thing. Invoking the spirits takes 10 minutes, during which time the wind listener must be free of distractions and able to concentrate. Once called, the spirits seek out information on the subject of the wind listener’s inquiries. This functions as the spell *legend lore* (caster level equal to the wind listener’s level), except that the wind listener is free to engage in other activities while spirits investigate on his behalf. The time required for the air spirits to return with this information is equal to what the casting time of the spell *legend lore* would have been if the wind listener had cast it. The wind listener can use this ability once per week, and only if he does not currently have air spirits searching for information. If the air spirits are currently searching for information, the wind listener can end their task early as a standard action, dismissing the magical effect and not returning any information. This ability replaces the bonus feat gained at 15th level.

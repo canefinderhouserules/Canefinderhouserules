@@ -603,3 +603,39 @@ Druids who are initiated into the magic of nature as strict students of the Gree
 **Secrets across Lifetimes (Sp)**: At 10th level, a Green Faith initiate can use legend lore once per week as a spell-like ability, drawing upon the knowledge of Green Faith archdruids recorded in secret across the generations in places where magic such as this can retrieve it. This ability does not require material components. This replaces the druid’s additional daily use of wild shape gained at 10th level.
 
 **A Thousand Voices (Su)**: At 13th level, a Green Faith initiate can communicate with any creature that has a language or with any stone, as if using tongues or stone tell, respectively, for up to 1 minute per druid level each day. This duration does not need to be consecutive, but it must be spent in 1-minute increments. This replaces a thousand faces.
+
+## Sky Druid
+
+Some druids develop ties not to a particular landscape, but instead to the endless blue expanse of the skies. Such are the sky druids, who are more at home soaring through air than standing on the ground. A sky druid has the following class features.
+
+**Weapon and Armor Proficiency**: A sky druid loses medium armor proficiency.
+
+**Nature Bond (Ex)**: At 1st level, a sky druid who chooses an animal companion must select one with a fly speed. If choosing a domain, the sky druid must choose from the Air, Animals, Liberation, and Weather domains, or subdomains appropriate to those domains.
+
+**Sky’s Embrace (Su)**: At 2nd level, a sky druid no longer takes falling damage, as though she were constantly under the effect of *feather fall*. Additionally, she may take ranks in the Fly skill regardless of whether she has a natural fly speed, and may use her Fly skill in place of Acrobatics when making jump checks. This ability replaces woodland stride.
+
+**Resist Storm (Ex)**: At 4th level, a sky druid gains a +4 bonus on saving throws against spells with the air or electricity descriptors and against effects that control or modify the weather (such as *sleet storm*). This ability replaces resist nature’s lure.
+
+**Skymaster (Su)**: At 5th level, a sky druid can use the *fly* spell (self only) for a number of minutes per day equal to her druid level. These minutes do not need to be consecutive. This ability replaces trackless step.
+
+**Wild Shape (Su)**: At 6th level, a sky druid gains the ability to use wild shape. When a sky druid takes the form of a creature with a fly speed, this ability functions at her class level + 1. For all other forms, her effective druid level for the ability is equal to her actual sky druid level. This ability otherwise functions as and replaces wild shape.
+
+**Soaring Form (Ex)**: At 9th level, a sky druid is no longer affected by altitude sickness or natural or magical wind. This ability replaces venom immunity.
+
+**Into the Wild Blue (Su)**: At 13th level, a sky druid gains a fly speed equal to twice her base land speed (good maneuverability). This ability replaces a thousand faces.
+
+## Undine Adept
+
+An undine adept dedicates herself to preserving the knowledge of the first undines and ensuring her people’s ancient connections to the natural world remain undisturbed. They serve as the keepers of the roots of the undine people and as their protectors. An undine adept has the following class features.
+
+**Domains**: An undine adept who chooses a domain must choose the Community or Water domain, or any subdomain of those domains.
+
+**Amphibious (Su)**: At 2nd level, the undine adept gains the aquatic subtype and the amphibious universal monster ability, allowing her to breathe water or air. This ability replaces woodland stride.
+
+**Augment Summoning (Su)**: At 3rd level, any creature with the water subtype the undine adept summons with either *summon monster* or *summon nature’s ally* gains the benefits of the Augment Summoning feat. This replaces trackless step.
+
+**Resist Water’s Call (Su)**: At 4th level, an undine adept gains a +4 bonus on saving throws against the spell-like and supernatural abilities of outsiders with the aquatic or water subtype, fey with the aquatic or water subtype, and spells and effects with the water descriptor. This ability replaces resist nature’s lure.
+
+**Wild Shape (Su)**: At 6th level, an undine adept gains the ability to use wild shape. When an undine takes the form of a creature with the aquatic or water subtype, this ability functions at her class level + 1. For all other forms, her effective druid level for the ability is equal to her actual undine adept level. This ability otherwise functions as and replaces wild shape.
+
+**Commune with Water Spirits**: At 9th level, an undine adept adds *commune* to her druid spell list. She may use this spell whether she worships a deity or elemental forces. This ability replaces venom immunity.

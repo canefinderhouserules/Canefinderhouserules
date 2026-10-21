@@ -12,15 +12,19 @@ The magus class spell list appears on the [Magus](../../characters/classes/magus
 - **[Lock Gaze](lock-gaze.md)**: Compels the target to look only at you for the duration of the spell.
 - **[Longshot](longshot.md)**: Grants a +10-foot bonus to the range increment for any ranged weapon fired.
 - **[Mirror Strike](mirror-strike.md)**: You may strike multiple opponents with a single attack.
+- **[Mudball](mudball.md)**: When you cast this spell, you conjure a single ball of sticky mud and launch it at an enemy’s face as a.
 - **[Negative Reaction](negative-reaction.md)**: Targeted creature may not positively influence anyone.
 - **[Reinforce Armaments](reinforce-armaments.md)**: Temporarily mitigates the fragile quality in targeted weapon or armor.
 - **[Returning Weapon](returning-weapon.md)**: Grants a weapon the returning special weapon quality.
 - **[Shock Shield](shock-shield.md)**: A shield of force protects you until you dismiss it in an explosion of electricity.
 - **[Snowball](snowball.md)**: Throw a conjured ball of snow at a target.
 - **[Tamer’s Lash](tamers-lash.md)**: Create a whip made of sound that damages foes and can frighten animals.
+- **[Touch of Combustion](touch-of-combustion.md)**: Your successful melee touch attack causes the target to ignite in a violent burst of flame, dealing 1d6.
 - **[Unerring Weapon](unerring-weapon.md)**: Grants a +2 bonus, +1 per four caster levels, on attack rolls to confirm a critical hit.
 - **[Warding Weapon](warding-weapon.md)**
 - **[Wave Shield](wave-shield.md)**: Water blunts one incoming attack or fire effect.
+- **[Web Bolt](web-bolt.md)**: School conjuration (creation); Level magus 1, sorcerer/wizard 1, witch 1 Casting Time 1 standard action.
+- **[Windy Escape](windy-escape.md)**: You respond to an attack by briefly becoming vaporous and insubstantial, allowing the attack to pass.
 
 ## 2nd-Level Magus Spells
 
@@ -28,18 +32,21 @@ The magus class spell list appears on the [Magus](../../characters/classes/magus
 - **[Animal Aspect](animal-aspect.md)**: You gain some of the beneficial qualities of an animal.
 - **[Anticipate Thoughts](anticipate-thoughts.md)**: Gain increasing bonuses to AC and on attack rolls and damage rolls against one creature.
 - **[Bestow Weapon Proficiency](bestow-weapon-proficiency.md)**: Grants a creature proficiency in a single weapon for short period of time.
+- **[Blood Blaze](blood-blaze.md)**: School transmutation [fire]; Level alchemist 2, antipaladin 1, cleric 2, magus 2, sorcerer/wizard 2, witch 2.
 - **[Blood Transcription](blood-transcription.md)**: Learn a spell from the target’s blood.
 - **[Brow Gasher](brow-gasher.md)**: Slashing weapon deals bleed damage to an opponent’s head.
 - **[Defensive Shock](defensive-shock.md)**: Electricity damages your attackers.
 - **[Effortless Armor](effortless-armor.md)**: Armor you wear no longer slows your speed.
 - **[Frigid Touch](frigid-touch.md)**: Target takes cold damage and is staggered.
 - **[Ghost Whip](ghost-whip.md)**: Create a ghost touch whip that passes through objects.
+- **[Gusting Sphere](gusting-sphere.md)**: School evocation [air]; Level druid 2, magus 2, sorcerer/wizard 2 Casting Time 1 standard action Components V.
 - **[Mount, Communal](mount-communal.md)**: As mount, but you may divide the duration among creatures touched.
 - **[Pilfering Hand](pilfering-hand.md)**: You may seize an object or manipulate it from afar.
 - **[Pouncing Fury](pouncing-fury.md)**: Make a full attack with your claws after a charge.
 - **[Reinforce Armaments, Communal](reinforce-armaments-communal.md)**: As reinforce armaments, but you may divide the duration among objects touched.
 - **[Reloading Hands](reloading-hands.md)**: Loads a single shot into your weapon every round.
 - **[Returning Weapon, Communal](returning-weapon-communal.md)**: As returning weapon, but you may divide the duration among weapons touched.
+- **[Stone Shield](stone-shield.md)**: A 1-inch-thick slab of stone springs up from the ground, interposing itself between you and an opponent of.
 - **[Tactical Acumen](tactical-acumen.md)**: You gain an additional +1 on attack rolls or to AC due to battlefield positioning.
 - **[Telekinetic Assembly](telekinetic-assembly.md)**
 - **[Twisted Space](twisted-space.md)**: Targeted creature’s attacks target a random square instead of the intended target.
@@ -51,11 +58,16 @@ The magus class spell list appears on the [Magus](../../characters/classes/magus
 - **[Burst of Speed](burst-of-speed.md)**: You gain increased speed, and your movement ignores attacks of opportunity and allows you to move through the space of creatures larger than you are.
 - **[Earth Tremor](earth-tremor.md)**: Unleash a tremor that creates difficult terrain and can knock foes down and damage them.
 - **[Ectoplasmic Snare](ectoplasmic-snare.md)**: Tendril of ectoplasm grapples a creature and tethers you to it.
+- **[Fire Trail](fire-trail.md)**: When you cast this spell, flammable liquid oozes from your pores, dripping onto the ground and spontaneously.
+- **[Firestream](firestream.md)**: A rushing stream of fire sprays from your outstretched hand, dealing 2d6 points of fire damage to every.
 - **[Force Hook Charge](force-hook-charge.md)**: Hook of force drags you to the target.
 - **[Force Punch](force-punch.md)**: Target takes 1d4 force damage per level and is pushed away.
+- **[Gloomblind Bolts](gloomblind-bolts.md)**: You create one or more bolts of negative energy infused with shadow pulled from the Shadow Plane.
 - **[Locate Weakness](locate-weakness.md)**: You roll damage twice when you roll damage for a critical hit and take the best damage.
 - **[Monstrous Physique I](monstrous-physique-i.md)**: Take the form and some of the powers of a Small or Medium monstrous humanoid.
+- **[Sickening Strikes](sickening-strikes.md)**: You are imbued with disease, and any creature you strike with a melee attack must make a Fortitude save or be.
 - **[Undead Anatomy I](undead-anatomy-i.md)**: Take the form and some of the powers of a Small or Medium undead.
+- **[Vomit Twin](vomit-twin.md)**: Upon casting this spell, you vomit forth a disgusting ooze copy of yourself into a single adjacent square.
 
 ## 4th-Level Magus Spells
 
@@ -84,10 +96,12 @@ The magus class spell list appears on the [Magus](../../characters/classes/magus
 - **[Undead Anatomy II](undead-anatomy-ii.md)**: Take the form and some of the powers of a Tiny or Large undead.
 - **[Vermin Shape II](vermin-shape-ii.md)**: As vermin shape, but Tiny or Large.
 - **[Waft](waft.md)**: Targets become light enough to be carried by the wind.
+- **[Wind Blades](wind-blades.md)**: You harden the air around the target into jagged invisible blades that deal damage based on how fast the.
 - **[Wooden Wing Shield](wooden-wing-shield.md)**: Your wings become a barrier granting a +4 shield bonus to AC.
 
 ## 6th-Level Magus Spells
 
+- **[Chains of Fire](chains-of-fire.md)**: This spell functions like chain lightning, except as noted above, and the spell deals fire damage instead of.
 - **[Explode Head](explode-head.md)**: Explode the head of a creature with 20 hp or fewer and deal damage in a 10-ft. radius around it.
 - **[Fey Form II](fey-form-ii.md)**: Assume the form of a Tiny or Large fey creature.
 - **[Monstrous Physique IV](monstrous-physique-iv.md)**: As monstrous physique III, with more abilities.

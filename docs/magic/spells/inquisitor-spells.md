@@ -23,9 +23,12 @@ New inquisitor spells from *Ultimate Magic*. Spells from other books will be add
 - **[Persuasive Goad](persuasive-goad.md)**: Target takes 1d6 nonlethal damage; you gain an Intimidate bonus.
 - **[Returning Weapon](returning-weapon.md)**: Grants a weapon the returning special weapon quality.
 - **[Sanctify Corpse](sanctify-corpse.md)**: Prevent a corpse from becoming an undead.
+- **[Theft Ward](theft-ward.md)**: You ward a single object in your possession against theft.
+- **[Touch of Combustion](touch-of-combustion.md)**: Your successful melee touch attack causes the target to ignite in a violent burst of flame, dealing 1d6.
 - **[Unerring Weapon](unerring-weapon.md)**: Grants a +2 bonus, +1 per four caster levels, on attack rolls to confirm a critical hit.
 - **[Vocal Alteration](vocal-alteration.md)**: Disguise target’s voice.
 - **[Wartrain Mount](wartrain-mount.md)**: Animal gains combat training.
+- **[Winter Feathers](winter-feathers.md)**: School abjuration; Level cleric 1, druid 1, inquisitor 1, ranger 1, sorcerer/wizard 1 Casting Time 1 standard.
 
 ## 2nd-Level Inquisitor Spells
 
@@ -34,6 +37,8 @@ New inquisitor spells from *Ultimate Magic*. Spells from other books will be add
 - **[Bestow Weapon Proficiency](bestow-weapon-proficiency.md)**: Grants a creature proficiency in a single weapon for short period of time.
 - **[Blistering Invective](blistering-invective.md)**: Make an Intimidate check against all foes within 30 feet; those demoralized also take fire damage.
 - **[Brow Gasher](brow-gasher.md)**: Slashing weapon deals bleed damage to an opponent’s head.
+- **[Death Candle](death-candle.md)**: This spell functions like death knell, except instead of using the slain target’s life energy to enhance.
+- **[Delay Disease](delay-disease.md)**: The target becomes temporarily immune to disease.
 - **[Delay Pain](delay-pain.md)**: Ignore pain for 1 hour/level.
 - **[Demand Offering](demand-offering.md)**: Make a creature give you an object it’s holding.
 - **[Discovery Torch](discovery-torch.md)**: Touched object emanates bright light, granting Perception and Sense Motive bonuses.
@@ -61,7 +66,10 @@ New inquisitor spells from *Ultimate Magic*. Spells from other books will be add
 
 ## 3rd-Level Inquisitor Spells
 
+- **[Agonizing Rebuke](agonizing-rebuke.md)**: Component V, S Range close (25 ft.
 - **[Blessing of the Mole](blessing-of-the-mole.md)**: 1 ally/level gains darkvision and a +2 Stealth bonus.
+- **[Blinding Ray](blinding-ray.md)**: School evocation [good, light]; Level cleric 2, inquisitor 3, paladin 2 Casting Time 1 standard action.
+- **[Blood Scent](blood-scent.md)**: School transmutation; Level alchemist 3, antipaladin 2, cleric 3, druid 3, inquisitor 3, ranger 2.
 - **[Burst of Speed](burst-of-speed.md)**: You gain increased speed, and your movement ignores attacks of opportunity and allows you to move through the space of creatures larger than you are.
 - **[Contagious Zeal](contagious-zeal.md)**: Grant bonuses and temporary hit points that spread from creature to creature.
 - **[Countless Eyes](countless-eyes.md)**: Extra eyes give all-around vision.
@@ -69,6 +77,7 @@ New inquisitor spells from *Ultimate Magic*. Spells from other books will be add
 - **[Deadly Juggernaut](deadly-juggernaut.md)**: Your might increases with every kill you make.
 - **[Delay Poison, Communal](delay-poison-communal.md)**: As delay poison, but you may divide the duration among creatures touched.
 - **[Eldritch Fever](eldritch-fever.md)**: Target gains the eldritch ague spellblight.
+- **[Improve Trap](improve-trap.md)**: When this spell is cast upon a trap, it improves one specific element of the trap chosen at the time of.
 - **[Litany of Eloquence](litany-of-eloquence.md)**: Fascinates a single creature for 1 round.
 - **[Litany of Entanglement](litany-of-entanglement.md)**: Entangles a creature for 1 round.
 - **[Litany of Righteousness](litany-of-righteousness.md)**: A single evil creature takes more damage from creatures with a good aura.
@@ -85,6 +94,7 @@ New inquisitor spells from *Ultimate Magic*. Spells from other books will be add
 - **[Daze, Mass](daze-mass.md)**: As daze, but affecting multiple creatures.
 - **[Find Quarry](find-quarry.md)**: You can sense whether a particular creature is within 20 miles of your location.
 - **[Fleshworm Infestation](fleshworm-infestation.md)**: Worms deal hp and Dex damage.
+- **[Healing Warmth](healing-warmth.md)**: This spell grants you temporary immunity to fire damage as protection from energy.
 - **[Interrogation, Greater](interrogation-greater.md)**: As interrogation, except with more pain and more questions. Leashed Shackles : Target is restricted to a specific location.
 - **[Judgment Light](judgment-light.md)**: You gain an additional effect while a judgment is active.
 - **[Litany of Escape](litany-of-escape.md)**: Teleports a friend out of a grapple.
@@ -105,6 +115,7 @@ New inquisitor spells from *Ultimate Magic*. Spells from other books will be add
 - **[Inflict Pain, Mass](inflict-pain-mass.md)**: As inflict pain, but affecting one creature per level.
 - **[Litany of Thunder](litany-of-thunder.md)**: A single target is deafened until the condition is removed, and is confused for 1 round.
 - **[Litany of Vengeance](litany-of-vengeance.md)**: Allies attacking the target of the spell gain a +5 bonus on damage rolls for 1 round.
+- **[Spawn Ward](spawn-ward.md)**: School necromancy; Level cleric 5, inquisitor 5 Casting Time 1 standard action Components V, S Range touch.
 - **[Spell Immunity, Communal](spell-immunity-communal.md)**: As spell immunity, but you may divide the duration among creatures touched.
 - **[Stoneskin, Communal](stoneskin-communal.md)**
 

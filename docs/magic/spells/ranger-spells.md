@@ -9,6 +9,7 @@
 - **[Bowstaff](bowstaff.md)**: A shortbow may double as a club, or a longbow as a quarterstaff.
 - **[Calm Animals](calm-animals.md)**: Calms 2d4 + level HD of animals.
 - **[Charm Animal](charm-animal.md)**: Makes one animal your friend.
+- **[Commune with Birds](commune-with-birds.md)**: You utter a question in the form of a low-pitched bird call that can be heard up to a mile away, and can.
 - **[Compel Hostility](compel-hostility.md)**: Compels opponents to attack you instead of your allies.
 - **[Deadeye’s Lore](deadeyes-lore.md)**: Gain a +4 bonus on Survival and move full speed while tracking.
 - **[Delay Poison](delay-poison.md)**: Stops poison from harming subject for 1 hour/level.
@@ -25,6 +26,7 @@
 - **[Longshot](longshot.md)**: Grants a +10-foot bonus to the range increment for any ranged weapon fired.
 - **[Longstrider](longstrider.md)**: Your base speed increases by 10 ft.
 - **[Magic Fang](magic-fang.md)**: One natural weapon of subject creature gets +1 on attack and damage rolls.
+- **[Marid’s Mastery](marid-s-mastery.md)**: School transmutation [water]; Level cleric 1, druid 1, ranger 1, sorcerer/wizard 1, witch 1 Casting Time 1.
 - **[Pass without Trace](pass-without-trace.md)**: One subject/level leaves no tracks.
 - **[Read Magic](read-magic.md)**: Read scrolls and spellbooks.
 - **[Resist Energy](resist-energy.md)**: Ignores 10 (or more) points of damage/attack from specified energy type.
@@ -33,6 +35,7 @@
 - **[Summon Nature’s Ally I](summon-natures-ally-i.md)**: Summons creature to fight for you.
 - **[Sun Metal](sun-metal.md)**: Weapon touched bursts into flames.
 - **[Tamer’s Lash](tamers-lash.md)**: Create a whip made of sound that damages foes and can frighten animals.
+- **[Winter Feathers](winter-feathers.md)**: School abjuration; Level cleric 1, druid 1, inquisitor 1, ranger 1, sorcerer/wizard 1 Casting Time 1 standard.
 
 ## 2nd-Level Ranger Spells
 
@@ -42,15 +45,18 @@
 - **[Aquatic Cavalry](aquatic-cavalry.md)**: Summon hippocampi to serve as aquatic mounts.
 - **[Barkskin](barkskin.md)**: Grants +2 (or higher) enhancement to natural armor.
 - **[Bear’s Endurance](bears-endurance.md)**: Subject gains +4 to Con for 1 min./level.
+- **[Blood Scent](blood-scent.md)**: School transmutation; Level alchemist 3, antipaladin 2, cleric 3, druid 3, inquisitor 3, ranger 2.
 - **[Brow Gasher](brow-gasher.md)**: Slashing weapon deals bleed damage to an opponent’s head.
 - **[Cat’s Grace](cats-grace.md)**: Subject gains +4 to Dex for 1 min./level.
 - **[Cure Light Wounds](cure-light-wounds.md)**: Cures 1d8 damage + 1/level (max +5).
+- **[Delay Disease](delay-disease.md)**: The target becomes temporarily immune to disease.
 - **[Effortless Armor](effortless-armor.md)**: Armor you wear no longer slows your speed.
 - **[Endure Elements, Communal](endure-elements-communal.md)**: As endure elements, but you may divide the duration among creatures touched.
 - **[Forest Friend](forest-friend.md)**: Plants in a forested area become helpful instead of hindering you and your allies.
 - **[Grasping Vine](grasping-vine.md)**: A vine from your body manipulates objects within 20 ft.
 - **[Greensight](greensight.md)**: Grant a target the ability to see through plant matter as if it were transparent.
 - **[Hold Animal](hold-animal.md)**: Paralyzes one animal for 1 round/level.
+- **[Improve Trap](improve-trap.md)**: When this spell is cast upon a trap, it improves one specific element of the trap chosen at the time of.
 - **[Iron Stake](iron-stake.md)**: Hurl a spike of cold iron at a foe.
 - **[Locate Weakness](locate-weakness.md)**: You roll damage twice when you roll damage for a critical hit and take the best damage.
 - **[Owl’s Wisdom](owls-wisdom.md)**: Subject gains +4 to Wis for 1 min./level.
@@ -110,6 +116,7 @@
 ## 4th-Level Ranger Spells
 
 - **[Animal Growth](animal-growth.md)**: One animal doubles in size.
+- **[Cloud Shape](cloud-shape.md)**: This spell functions like gaseous form, except you assume the shape of a Colossal cloud with a space of 30.
 - **[Commune with Nature](commune-with-nature.md)**: Learn about terrain for 1 mile/level.
 - **[Companion Transposition](companion-transposition.md)**: Swap places with your animal companion, familiar, or spirit animal via teleportation.
 - **[Cure Serious Wounds](cure-serious-wounds.md)**: Cures 3d8 damage + 1/level (max +15).
@@ -119,6 +126,7 @@
 - **[Named Bullet, Greater](named-bullet-greater.md)**: As named bullet, but deals 2 points of damage per caster level.
 - **[Nondetection](nondetection.md)**: Hides subject from divination, scrying.
 - **[Sea Stallion](sea-stallion.md)**: You and your mount adapt to an aquatic environment.
+- **[Sickening Strikes](sickening-strikes.md)**: You are imbued with disease, and any creature you strike with a melee attack must make a Fortitude save or be.
 - **[Sturdy Tree Fort](sturdy-tree-fort.md)**: Create a tree with a defensive fort within it.
 - **[Summon Nature’s Ally IV](summon-natures-ally-iv.md)**: Summons creature to fight for you.
 - **[Terrain Bond](terrain-bond.md)**: Treat the terrain you are in as a favored terrain for the spell’s duration.

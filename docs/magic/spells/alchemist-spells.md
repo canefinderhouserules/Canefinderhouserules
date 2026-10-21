@@ -19,21 +19,25 @@ New alchemist spells from *Ultimate Magic* and *Ultimate Combat*. Spells from ot
 
 - **[Ablative Barrier](ablative-barrier.md)**: Surrounds the target with layers of force.
 - **[Acute Senses](acute-senses.md)**: Subject gains a bonus on Perception checks.
+- **[Ancestral Regression](ancestral-regression.md)**: School transmutation (polymorph); Level alchemist 2, antipaladin 3, cleric 2, sorcerer/wizard 3, witch 2.
 - **[Animal Aspect](animal-aspect.md)**: You gain some of the beneficial qualities of an animal.
 - **[Ant Haul, Communal](ant-haul-communal.md)**: As ant haul, but you may divide the duration among creatures touched.
 - **[Bestow Weapon Proficiency](bestow-weapon-proficiency.md)**: Grants a creature proficiency in a single weapon for short period of time.
 - **[Blistering Invective](blistering-invective.md)**: Make an Intimidate check against all foes within 30 feet; those demoralized also take fire damage.
+- **[Blood Blaze](blood-blaze.md)**: School transmutation [fire]; Level alchemist 2, antipaladin 1, cleric 2, magus 2, sorcerer/wizard 2, witch 2.
 - **[Blood Transcription](blood-transcription.md)**: Learn a spell from the target’s blood.
 - **[Bullet Shield](bullet-shield.md)**: You gain a +4 deflection bonus to AC against firearm attacks.
 - **[Catatonia](catatonia.md)**: Make a willing target appear to be dead.
 - **[Certain Grip](certain-grip.md)**: You gain a +4 competence bonus on Acrobatics and Climb checks and to CMD.
 - **[Defensive Shock](defensive-shock.md)**: Electricity damages your attackers.
+- **[Delay Disease](delay-disease.md)**: The target becomes temporarily immune to disease.
 - **[Enshroud Thoughts](enshroud-thoughts.md)**: Ward yourself against thought detection and memory alteration.
 - **[Ghostly Disguise](ghostly-disguise.md)**: You look like a ghost of yourself.
 - **[Grasping Vine](grasping-vine.md)**: A vine from your body manipulates objects within 20 ft.
 - **[Kinetic Reverberation](kinetic-reverberation.md)**: Channels the force of an enemy’s attack back into its weapon.
 - **[Pouncing Fury](pouncing-fury.md)**: Make a full attack with your claws after a charge.
 - **[Shadow Bomb Admixture](shadow-bomb-admixture.md)**: Empowers bombs you throw to cover the target with a shadowy substance that grants it concealment and limits its vision.
+- **[Sickening Strikes](sickening-strikes.md)**: You are imbued with disease, and any creature you strike with a melee attack must make a Fortitude save or be.
 - **[Skinsend](skinsend.md)**: Animate and possess your own skin as if it were a separate creature.
 - **[Touch Injection](touch-injection.md)**: You can deliver an infusion, elixir, poison, or potion as a touch attack.
 - **[Vine Strike](vine-strike.md)**: Enhance one of your natural or unarmed attacks with thorny vine growth.
@@ -43,6 +47,7 @@ New alchemist spells from *Ultimate Magic* and *Ultimate Combat*. Spells from ot
 - **[Absorb Toxicity](absorb-toxicity.md)**: You become immune to diseases and toxins, absorb one, and then spread it to others.
 - **[Age Resistance, Lesser](age-resistance-lesser.md)**: Ignore penalties from middle age.
 - **[Animal Aspect, Greater](animal-aspect-greater.md)**: As animal aspect, but you gain two animal qualities.
+- **[Blood Scent](blood-scent.md)**: School transmutation; Level alchemist 3, antipaladin 2, cleric 3, druid 3, inquisitor 3, ranger 2.
 - **[Burrow](burrow.md)**: Target gains a burrow speed of 15.
 - **[Burst of Speed](burst-of-speed.md)**: You gain increased speed, and your movement ignores attacks of opportunity and allows you to move through the space of creatures larger than you are.
 - **[Countless Eyes](countless-eyes.md)**: Extra eyes give all-around vision.
@@ -51,6 +56,7 @@ New alchemist spells from *Ultimate Magic* and *Ultimate Combat*. Spells from ot
 - **[Endure Elements, Communal](endure-elements-communal.md)**: As endure elements, but you may divide the duration among creatures touched.
 - **[Eruptive Pustules](eruptive-pustules.md)**: Acid boils burst when you are attacked.
 - **[Fey Form I](fey-form-i.md)**: Assume the form of a Small or Medium fey creature.
+- **[Fire Trail](fire-trail.md)**: When you cast this spell, flammable liquid oozes from your pores, dripping onto the ground and spontaneously.
 - **[Hypercognition](hypercognition.md)**: Rapidly recall everything you know about a subject.
 - **[Lightning Lash Bomb Admixture](lightning-lash-bomb-admixture.md)**: Empowers bombs you throw with a ward that deals lightning damage each time those damaged by the bomb move more than 5 feet.
 - **[Marionette Possession](marionette-possession.md)**: As magic jar, but limited to line of sight.
@@ -60,16 +66,21 @@ New alchemist spells from *Ultimate Magic* and *Ultimate Combat*. Spells from ot
 - **[Resist Energy, Communal](resist-energy-communal.md)**: As resist energy, but you may divide the duration among creatures touched.
 - **[Spider Climb, Communal](spider-climb-communal.md)**: As spider climb, but you may divide the duration among creatures touched.
 - **[Undead Anatomy I](undead-anatomy-i.md)**: Take the form and some of the powers of a Small or Medium undead.
+- **[Vomit Twin](vomit-twin.md)**: Upon casting this spell, you vomit forth a disgusting ooze copy of yourself into a single adjacent square.
 - **[Wing Thorns](wing-thorns.md)**: Wings sprout poisonous thorns you can attack with.
 
 ## 4th-Level Alchemist Spells
 
+- **[Absorbing Inhalation](absorbing-inhalation.md)**: You grant your lungs inhuman strength and capacity, allowing you to harmlessly and completely inhale one gas.
 - **[Age Resistance](age-resistance.md)**: Ignore penalties from old age.
 - **[Darkvision, Greater](darkvision-greater.md)**: See 120 ft. in total darkness.
 - **[Echolocation](echolocation.md)**: Sonic sense gives you blindsight 40 ft.
 - **[False Life, Greater](false-life-greater.md)**: Gain 2d10 temporary hp + 1/level.
+- **[Healing Warmth](healing-warmth.md)**: This spell grants you temporary immunity to fire damage as protection from energy.
+- **[Miasmatic Form](miasmatic-form.md)**: This spell functions like gaseous form, except the target’s vaporous body is dangerous to creatures that.
 - **[Monstrous Physique II](monstrous-physique-ii.md)**: Take the form and some of the powers of a Tiny or Large monstrous humanoid.
 - **[Mutagenic Touch](mutagenic-touch.md)**: You can pass a weaker version of your mutagen to another creature.
+- **[Scorching Ash Form](scorching-ash-form.md)**: This spell functions like gaseous form, except the target becomes a visible swirl of hot ash and smoke.
 - **[Tongues, Communal](tongues-communal.md)**: As tongues, but you may divide the duration among creatures touched.
 - **[Touch of Slime](touch-of-slime.md)**: Touch infests a target with green slime.
 - **[Vermin Shape I](vermin-shape-i.md)**: Take the form and some of the powers of a Small or Medium vermin.

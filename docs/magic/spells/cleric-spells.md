@@ -42,6 +42,8 @@
 - **[Liberating Command](liberating-command.md)**: Target makes an Escape Artist check as an immediate action and gains a bonus on it.
 - **[Magic Stone](magic-stone.md)**: Three stones gain +1 on attack, deal 1d6 +1 damage.
 - **[Magic Weapon](magic-weapon.md)**: Weapon gains +1 bonus.
+- **[Marid’s Mastery](marid-s-mastery.md)**: School transmutation [water]; Level cleric 1, druid 1, ranger 1, sorcerer/wizard 1, witch 1 Casting Time 1.
+- **[Mighty Fist of the Earth](mighty-fist-of-the-earth.md)**: You create a fist-sized rock that flies toward one enemy.
 - **[Moment of Greatness](moment-of-greatness.md)**: Doubles a morale bonus.
 - **[Obscuring Mist](obscuring-mist.md)**: Fog surrounds you.
 - **[Protection from Chaos](protection-from-chaos.md)/[Protection from Evil](protection-from-evil.md)/[Protection from Good](protection-from-good.md)/[Protection from Law](protection-from-law.md)**: +2 to AC and saves, plus additional protection against selected alignment.
@@ -49,29 +51,39 @@
 - **[Remove Fear](remove-fear.md)**: Suppresses fear or gives +4 on saves against fear for one subject + one per four levels.
 - **[Sanctuary](sanctuary.md)**: Opponents can’t attack you, and you can’t attack.
 - **[Shield of Faith](shield-of-faith.md)**: Aura grants +2 or higher deflection bonus.
+- **[Stone Shield](stone-shield.md)**: A 1-inch-thick slab of stone springs up from the ground, interposing itself between you and an opponent of.
 - **[Summon Monster I](summon-monster-i.md)**: Summons extraplanar creature to fight for you.
 - **[Sun Metal](sun-metal.md)**: Weapon touched bursts into flames.
+- **[Theft Ward](theft-ward.md)**: You ward a single object in your possession against theft.
+- **[Winter Feathers](winter-feathers.md)**: School abjuration; Level cleric 1, druid 1, inquisitor 1, ranger 1, sorcerer/wizard 1 Casting Time 1 standard.
 
 ## 2nd-Level Cleric Spells
 
 - **[Aid](aid.md)**: +1 on attack rolls and saves against fear, 1d8 temporary hp +1/level (max +10).
+- **[Alchemical Tinkering](alchemical-tinkering.md)**: You transform one alchemical item or firearm into another alchemical item or firearm of the same or lesser.
 - **[Align Weapon](align-weapon.md)**: Weapon becomes good, evil, lawful, or chaotic.
+- **[Ancestral Regression](ancestral-regression.md)**: School transmutation (polymorph); Level alchemist 2, antipaladin 3, cleric 2, sorcerer/wizard 3, witch 2.
 - **[Ant Haul, Communal](ant-haul-communal.md)**: As ant haul, but you may divide the duration among creatures touched.
 - **[Augury](augury.md)**: Learns whether an action will be good or bad.
 - **[Bear’s Endurance](bears-endurance.md)**: Subject gains +4 to Con for 1 min./level.
 - **[Bestow Weapon Proficiency](bestow-weapon-proficiency.md)**: Grants a creature proficiency in a single weapon for short period of time.
+- **[Blinding Ray](blinding-ray.md)**: School evocation [good, light]; Level cleric 2, inquisitor 3, paladin 2 Casting Time 1 standard action.
+- **[Blood Blaze](blood-blaze.md)**: School transmutation [fire]; Level alchemist 2, antipaladin 1, cleric 2, magus 2, sorcerer/wizard 2, witch 2.
 - **[Bull’s Strength](bulls-strength.md)**: Subject gains +4 to Str for 1 min./level.
 - **[Calm Emotions](calm-emotions.md)**: Calms creatures, negating emotion effects.
 - **[Calm Spirit](calm-spirit.md)**: Postpone hostile action by a haunt or incorporeal undead.
 - **[Consecrate](consecrate.md)**: Fills area with positive energy, weakening undead.
 - **[Cure Moderate Wounds](cure-moderate-wounds.md)**: Cures 2d8 damage + 1/level (max +10).
 - **[Darkness](darkness.md)**: 20-ft. radius of supernatural shadow.
+- **[Death Candle](death-candle.md)**: This spell functions like death knell, except instead of using the slain target’s life energy to enhance.
 - **[Death Knell](death-knell.md)**: Kills dying creature; you gain 1d8 temporary hp, +2 to Str, and +1 caster level.
+- **[Delay Disease](delay-disease.md)**: The target becomes temporarily immune to disease.
 - **[Delay Poison](delay-poison.md)**: Stops poison from harming target for 1 hour/level.
 - **[Desecrate](desecrate.md)**: Fills area with negative energy, making undead stronger.
 - **[Eagle’s Splendor](eagles-splendor.md)**: Subject gains +4 to Cha for 1 min./level.
 - **[Effortless Armor](effortless-armor.md)**: Armor you wear no longer slows your speed.
 - **[Endure Elements, Communal](endure-elements-communal.md)**: As endure elements, but you may divide the duration among creatures touched.
+- **[Enemy’s Heart](enemy-s-heart.md)**: You cut out an enemy’s heart and consume it, absorbing that enemy’s power as your own.
 - **[Enthrall](enthrall.md)**: Captivates all within 100 ft. + 10 ft./level.
 - **[Find Traps](find-traps.md)**: Notice traps as a rogue does.
 - **[Gentle Repose](gentle-repose.md)**: Preserves one corpse.
@@ -79,6 +91,7 @@
 - **[Hold Person](hold-person.md)**: Paralyzes one humanoid for 1 round/level.
 - **[Inflict Moderate Wounds](inflict-moderate-wounds.md)**: Touch attack, 2d8 damage + 1/level (max +10).
 - **[Instrument of Agony](instrument-of-agony.md)**: Weapon exudes divine fury, granting a bonus on Intimidate checks.
+- **[Life Channel](life-channel.md)**: Component V, S Range touch Target one touched creature with negative energy affinity Duration 1 minute/level.
 - **[Magic Siege Engine](magic-siege-engine.md)**: Siege engine gains +1 on targeting and damage rolls.
 - **[Make Whole](make-whole.md)**: Repairs an object.
 - **[Owl’s Wisdom](owls-wisdom.md)**: Subject gains +4 to Wis for 1 min./level.
@@ -92,6 +105,8 @@
 - **[Resist Energy](resist-energy.md)**: Ignores 10 (or more) points of damage/attack from specified energy type.
 - **[Restoration, Lesser](restoration-lesser.md)**: Dispels magical ability penalty or repairs 1d4 ability damage.
 - **[Returning Weapon](returning-weapon.md)**: Grants a weapon the returning special weapon quality.
+- **[Sacred Space](sacred-space.md)**: This spell sanctifies an area with heavenly power.
+- **[Sentry Skull](sentry-skull.md)**: You restore the senses to the severed head of a humanoid or monstrous humanoid killed within the past 24.
 - **[Shatter](shatter.md)**: Sonic vibration damages objects or crystalline creatures.
 - **[Shield Other](shield-other.md)**: You take half of subject’s damage.
 - **[Silence](silence.md)**: Negates sound in 20-ft. radius.
@@ -105,9 +120,11 @@
 
 ## 3rd-Level Cleric Spells
 
+- **[Agonizing Rebuke](agonizing-rebuke.md)**: Component V, S Range close (25 ft.
 - **[Animate Dead](animate-dead.md)**: Creates undead skeletons and zombies.
 - **[Bestow Curse](bestow-curse.md)**: –6 to an ability score; –4 on attack rolls, saves, and checks; or 50% chance of losing each action.
 - **[Blindness/Deafness](blindness-deafness.md)**: Makes subject blinded or deafened.
+- **[Blood Scent](blood-scent.md)**: School transmutation; Level alchemist 3, antipaladin 2, cleric 3, druid 3, inquisitor 3, ranger 2.
 - **[Catatonia](catatonia.md)**: Make a willing target appear to be dead.
 - **[Chain of Perdition](chain-of-perdition.md)**: Creates a floating chain of force.
 - **[Contagion](contagion.md)**: Infects subject with chosen disease.
@@ -134,6 +151,7 @@
 - **[Obscure Object](obscure-object.md)**: Masks object against scrying.
 - **[Prayer](prayer.md)**: Allies get +1 bonus on most rolls, enemies –1 penalty.
 - **[Protection from Energy](protection-from-energy.md)**: Absorb 12 points/level of damage from one kind of energy.
+- **[Raging Rubble](raging-rubble.md)**: You animate an area of rubble, gravel, or other small stones, creating a dangerous, rolling area of debris.
 - **[Remove Blindness/Deafness](remove-blindness-deafness.md)**: Cures normal or magical blindness or deafness.
 - **[Remove Curse](remove-curse.md)**: Frees object or person from curse.
 - **[Remove Disease](remove-disease.md)**: Cures all diseases affecting subject.
@@ -163,6 +181,7 @@
 - **[Divine Power](divine-power.md)**: You gain attack bonuses and 1 hp/level.
 - **[Freedom of Movement](freedom-of-movement.md)**: Subject moves normally despite impediments to movement.
 - **[Giant Vermin](giant-vermin.md)**: Turns centipedes, scorpions, or spiders into giant vermin.
+- **[Healing Warmth](healing-warmth.md)**: This spell grants you temporary immunity to fire damage as protection from energy.
 - **[Holy Smite](holy-smite.md)**: Harms and possibly blinds evil creatures (1d8 damage/2 levels).
 - **[Imbue with Spell Ability](imbue-with-spell-ability.md)**: Transfer spells to subject.
 - **[Inflict Critical Wounds](inflict-critical-wounds.md)**: Touch attack, 4d8 damage + 1/level (max +20).
@@ -208,6 +227,7 @@
 - **[Scrying](scrying.md)**: Spies on subject from a distance.
 - **[Sessile Spirit](sessile-spirit.md)**: Cause a spirit inhabiting a creature or an object to go dormant.
 - **[Slay Living](slay-living.md)**: Touch attack deals 12d6 + 1 per level.
+- **[Spawn Ward](spawn-ward.md)**: School necromancy; Level cleric 5, inquisitor 5 Casting Time 1 standard action Components V, S Range touch.
 - **[Spell Immunity, Communal](spell-immunity-communal.md)**: As spell immunity, but you may divide the duration among creatures touched.
 - **[Spell Resistance](spell-resistance.md)**: Subject gains SR 12 + level.
 - **[Summon Monster V](summon-monster-v.md)**: Summons extraplanar creature to fight for you.
@@ -247,6 +267,7 @@
 - **[Summon Monster VI](summon-monster-vi.md)**: Summons extraplanar creature to fight for you.
 - **[Symbol of Fear](symbol-of-fear.md)**: Triggered rune panics nearby creatures.
 - **[Symbol of Persuasion](symbol-of-persuasion.md)**: Triggered rune charms nearby creatures.
+- **[Truespeak](truespeak.md)**: You can communicate with any creature that is not mindless.
 - **[Undeath to Death](undeath-to-death.md)**: Destroys 1d4 HD/level undead (max. 20d4).
 - **[Wind Walk](wind-walk.md)**: You and your allies turn vaporous and travel fast.
 - **[Word of Recall](word-of-recall.md)**: Teleports you back to designated place.
@@ -288,6 +309,7 @@
 - **[Frightful Aspect](frightful-aspect.md)**: You take on a terrifying, Large-sized form of yourself and emit an aura that causes creatures to become shaken or frightened.
 - **[Holy Aura](holy-aura.md)**: +4 to AC, +4 resistance, and SR 25 against evil spells.
 - **[Inflict Critical Wounds, Mass](inflict-critical-wounds-mass.md)**: Deals 4d8 damage + 1/level, affects 1 subject/level.
+- **[Nine Lives](nine-lives.md)**: School abjuration; Level cleric 8, witch 8 Casting Time 1 standard action Range touch Target one creature.
 - **[Planar Ally, Greater](planar-ally-greater.md)**: As *lesser planar ally,* but up to 18 HD.
 - **[Shield of Law](shield-of-law.md)**: +4 to AC, +4 resistance, and SR 25 against chaotic spells.
 - **[Spell Immunity, Greater](spell-immunity-greater.md)**: As *spell immunity,* but up to 8th-level spells.

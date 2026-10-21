@@ -416,3 +416,47 @@ The Green Faith marshal serves as a literal force of nature, hunting down and pu
 **Nature’s Ally (Sp)**: At 5th level, a Green Faith marshal gains the ability to cast commune with nature once per week. This replaces discern lies.
 
 **Wild Step (Ex)**: At 11th level, a Green Faith marshal can move through any sort of naturally occurring difficult terrain (such as natural thorns, briars, overgrown areas, and similar terrain) at her normal speed without taking damage or suffering any other impairment. Terrain that is enchanted or magically manipulated to impede motion still affects her. This replaces stalwart.
+
+## Kinslayer
+
+Appalled and guilt-ridden by the horrific circumstances of her birth, a kinslayer dedicates herself to eradicating the very creatures whose blood flows within her veins. She spends her life hunting and slaying those vampiric monsters for whom humans have become prey. A kinslayer has the following class features.
+
+**Judgment (Su)**: At 1st level, a kinslayer gains the following judgment.
+
+*Slayer’s Brand (Su)*: When using this judgment, the kinslayer gains the ability to brand undead creatures with positive energy. To do so, she must make a successful melee touch attack against the undead creature. This attack deals an amount of positive energy damage equal to 1d6 + the kinslayer’s Charisma score, and burns her personal symbol into the undead creature’s flesh, bone, or even its incorporeal form. From that point onward, the kinslayer can sense the existence of the branded creature as if it were the target of a *locate creature* spell (caster level equal to 1/2 the kinslayer’s inquisitor level). A slayer’s brand lasts until the undead creature is destroyed or until the kinslayer uses this ability on another creature. This ability replaces the destruction judgment.
+
+**Greater Brand (Su)**: A 1st level, a kinslayer learns to modify her slayer’s brand judgment as she gains levels. Whenever she gains the ability to learn a teamwork feat, she can instead opt to learn one of the following modifications to her slayer’s brand judgment.
+
+*Branding Ray*: The slayer’s brand judgment can be used as a ranged touch attack with a range of 20 feet. A kinslayer can take this modification more than once. Whenever she does, she increases the range of her brand by 20 feet.
+
+*Debilitating Brand*: A creature currently affected by the slayer’s brand judgment takes a –2 penalty on attack rolls against the kinslayer who placed the brand.
+
+*Devastating Brand*: When the kinslayer attacks a creature that she has branded with her slayer’s brand, she threatens a critical hit on a roll of 19–20. If the kinslayer is good, she also gains a +2 sacred bonus on all rolls to confirm critical hits on a branded creature.
+
+*Dual Brand*: The kinslayer can have up to two creatures branded at a time.
+
+*Holy Brand*: The kinslayer can use her brand on creatures with the evil subtype as well as undead.
+
+**Searing Brand**: The kinslayer’s slayer’s brand deals an additional 1d6 points of damage for every five inquisitor levels she has. If the creature hit with the slayer’s brand is particularly vulnerable to bright light, the damage dice of her slayer’s brand increases to d8s. A kinslayer must be at least 6th level to take this modification.
+
+*Silver Brand*: The kinslayer can use her brand on lycanthropes and creatures with vulnerability to silver as well as undead.
+
+Each time the kinslayer opts to take a greater brand, it replaces her ability to gain a teamwork feat at that level.
+
+**Undead Sense (Sp)**: At 2nd level, a kinslayer gains the ability to use *detect undead* as a spell-like ability (caster level equal to the kinslayer’s inquisitor level) at will. If she detects the presence of undead, she can use her monster lore ability to attempt to determine the type of undead detected as well as to reveal any strengths or weaknesses the undead might have. If any of the detected undead are vampires, she gains a bonus on the check equal to her inquisitor level to immediately identify them as such.
+
+This ability replaces *detect alignment*.
+
+## Immolator
+
+The immolator puts her pyromaniacal urges to work in the service of a deity. She brings burning retribution down upon the enemies of her faith, consigning their souls to the sacrificial flames. An immolator has the following class features.
+
+**Servant of the Flame**: An immolator must worship a deity whose portfolio includes the Fire domain. An immolator who selects the Fire domain (or one of its associated subdomains, if available) uses her domain powers at +1 caster level (this stacks with the ifrit’s fire affinity racial trait).
+
+**Judgment (Su)**: An immolator gains the following judgment instead of the smiting judgment.
+
+*Immolation*: The immolator channels purifying flame to consume her enemies. When dealing fire damage to an opponent, she treats the target’s fire resistance as 5 lower than normal (minimum 0). At 6th level, she treats the target’s resistance as 10 lower than normal, 15 lower than normal at 11th level, and 20 lower than normal at 16th level.
+
+**Burnt Offering (Su)**: At 5th level, as a swift action, an immolator can imbue one of her weapons with the *flaming* weapon special ability. Any creature slain by this weapon burns with magical flame; its body turns to ash, though its equipment is not harmed. This special ability only functions while the immolator wields the weapon. This ability lasts for a number of rounds per day equal to the immolator’s level. These rounds do not need to be consecutive. At 12th level, this ability gives the immolator’s weapon the *flaming burst* weapon special ability. This ability replaces bane and greater bane.
+
+**Judgment by Fire (Su)**: At 20th level, an immolator can call fiery judgment down upon a foe during combat. Whenever an immolator uses her judgment ability, she can invoke a judgment by fire on a foe as a swift action. Once declared, the immolator can make a single melee (or ranged attack, if the foe is within 30 feet) against the target. If the attack hits, the attack deals fire damage instead of weapon damage, and the target must make a successful Fortitude save or die (creatures immune to fire do not have to save). The DC of this save is equal to 10 + 1/2 the immolator’s level + the immolator’s Wisdom modifier. Regardless of whether the save is successful, the target creature is immune to the immolator’s judgment by fire ability for 24 hours. Creatures killed in this manner explode in a burst of fire, dealing 10d6 points of fire damage to every creature within 5 feet (Reflex save for half damage, DC 10 + 1/2 the immolator’s level + the immolator’s Wisdom modifier). Once this ability has been used, it cannot be used again for 1d4 rounds. This ability modifies and functions as true judgment.

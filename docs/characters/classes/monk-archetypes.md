@@ -529,3 +529,57 @@ Elemental Focus (Su and Sp): A water dancer gains the elemental focus ability of
 **Metakinesis (Su)**: At 9th level, a water dancer gains the ability to alter his kinetic blasts as the kineticist’s metakinesis (empower) class feature. This replaces improved evasion.
 
 **Water Stride (Sp)**: At 12th level, a water dancer can leap from one source of water to another as per dimension door as a move action by expending 1 point of ki from his ki pool. He must begin and end his movement in a space of water equal to his size. He cannot take other creatures with him when he uses this ability. This replaces abundant step.
+
+## Nimble Guardian
+
+Some catfolk monks dedicate their graceful prowess to the defense of others, especially those dedicated to a similar ethos or who prove themselves as stalwart allies of the monk’s cause. A nimble guardian has the following class features.
+
+**Defensive Aid (Ex)**: At 2nd level, a number of times per day equal to his Wisdom bonus, a nimble guardian can interpose herself between one adjacent ally and an attack or damage dealt in an area of effect. If an adjacent ally is the target of the attack or is required to make a Reflex saving throw against a damaging effect, as an immediate action the nimble guardian can grant that ally a +4 circumstance bonus to AC or on the saving throw against the effect. The nimble guardian must use this ability before the attack roll or saving throw is made. The nimble guardian can only use this ability if he is wearing light or no armor. This ability replaces evasion.
+
+**Nimble Reflexes (Ex)**: At 3rd level, a nimble guardian gains a +2 bonus on all Reflex saving throws. This ability replaces still mind.
+
+**Defensive Mastery (Ex)**: At 5th level, a nimble guardian gains 3 additional uses of her defensive aid ability per day. Furthermore, if an ally that gained the benefit of a use of defensive aid succeeds her Reflex saving throw, and the effect still deals damage on a successful saving throw, the nimble guardian can spend 1 *ki* point to negate that damage. Doing so is not an action. This ability replaces purity of body.
+
+**Guardian Feline (Su)**: At 7th level, a nimble guardian can transform himself into a feline creature by spending 2 *ki* points. The effect lasts for 1 hour or until the nimble guardian changes back. Changing form (to animal or back) is a standard action and does not provoke an attack of opportunity. The chosen form must be some form of feline (cheetah, lion, etc.). This ability is otherwise identical to *beast shape II*. At 9th level, this ability functions as *beast shape III*. This ability replaces wholeness of body.
+
+**Evasion (Ex)**: At 9th level, a nimble guardian gains evasion. This ability replaces improved evasion.
+
+## Ironskin Monk
+
+Through discipline and training, an ironskin monk hardens his body to withstand punishing blows. Though slow on his feet, his calloused hands and feet can shatter stone and stagger foes.
+
+**Iron Skin (Ex)**: At 1st level, an ironskin monk gains a +1 bonus to his natural armor. This bonus stacks with any existing natural armor the ironskin monk already has. At 4th level, and every 4 levels thereafter, this bonus increases by +1. This ability replaces the monk’s AC bonus ability and the ability to add his Wisdom bonus to his AC.
+
+**Bonus Feat**: At 1st level, an ironskin monk adds Power Attack to his list of bonus feats. At 6th level, he adds Improved Sunder to the list. At 10th level, he adds Greater Sunder to the list. These bonus feat choices replace Dodge, Mobility, and Spring Attack on his bonus feat list.
+
+**Resilience (Ex)**: At 2nd level, an ironskin monk can shake off the physical effects of certain attacks. If he makes a Fortitude saving throw against an attack that has a reduced effect on a successful save, he instead avoids the effect entirely. This ability can be used only if the monk is wearing light armor or no armor. A helpless monk does not gain the benefits of resilience. This ability replaces evasion.
+
+***Ki* Pool (Su)**: At 4th level, an ironskin monk can spend 1 point from his *ki* pool to gain a damage bonus equal to 1/2 his level against objects and constructs for 1 round. This replaces the ability to increase speed with *ki*.
+
+**Staggering Blow (Ex)**: At 5th level, an ironskin monk attacking with an unarmed strike can spend 1 point from his *ki* pool as a free action after a successful critical hit to stagger the creature struck for 1 round (Fort DC 10 + 1/2 the ironskin monk’s level + the ironskin monk’s Wisdom modifier negates). This ability replaces high jump.
+
+**Tough as Nails (Ex)**: At 6th level, an ironskin monk gains DR 1/—. Subtract 1 point from the damage the ironskin monk takes each time he is dealt damage from a weapon or a natural attack. This damage reduction increases by 1 point at 9th level and every 3 levels thereafter. Damage reduction can reduce damage to 0 but not below 0. This ability replaces fast movement and slow fall.
+
+**Evasion (Ex)**: At 9th level, an ironskin monk gains evasion. This ability replaces improved evasion.
+
+**Surefooted (Ex)**: At 17th level, an ironskin monk’s speed is not reduced by difficult terrain. This ability replaces tongue of the sun and moon.
+
+**Unbreakable (Ex)**: At 20th level, an ironskin monk sets aside many of the frailties of mortal flesh. He becomes immune to death effects and stunning. He is not subject to ability damage or ability drain, and has a 75% chance of ignoring the extra damage dealt by critical hits and sneak attacks. This ability replaces perfect self.
+
+## Student of Stone
+
+By following the path of the stone, students of stone give up much of monks’ mobility in favor of sheer resilience. A student of stone has the following class features.
+
+**Hard as Stone (Ex)**: At 2nd level, whenever an opponent rolls to confirm a critical hit against a student of stone, treat the student of stone’s AC as +4 higher than normal. This ability replaces evasion.
+
+**Strength of Stone (Ex)**: At 3rd level, a student of stone learns to draw strength from the earth. So long as both he and his opponent are touching the ground, the student of stone gains a +1 bonus on attack rolls, damage rolls, bull rush and trip combat maneuver rolls, and to his CMD when resisting a bull rush or trip attempt. This ability replaces fast movement.
+
+**Bonus Feat**: At 6th level, a student of stone adds Elemental Fist (*Advanced Player’s Guide*) to his list of available bonus feats. If the student of stone selects Elemental Fist as a bonus feat, he may only deal acid damage when using the feat. At 10th level, the student of stone adds Shaitan Style (*Ultimate Combat*) to his list of bonus feats, at 14th level, he adds Shaitan Skin (*Ultimate Combat*), and at 18th level, he adds Shaitan Earthblast (*Ultimate Combat*). This otherwise functions as and alters the bonus feat ability.
+
+**Bones of Stone (Su)**: At 7th level, as a swift action, a student of stone can spend 1 *ki* point to gain DR 2/magic until the beginning of his next turn. At 10th level, he can spend 1 *ki* point to gain DR 2/chaotic until his next turn. At 15th level, he can spend 1 *ki* point to gain DR 5/chaotic until his next turn. This ability replaces high jump.
+
+**Body of Stone (Ex)**: At 9th level, a student of stone gains the benefits of the *light fortification* armor property. This ability replaces improved evasion.
+
+**Soul of Stone (Su)**: At 12th level, as a swift action, a student of stone can spend 1 *ki* point to gain tremorsense 15 feet until his next turn. At 16th level, the range of this tremorsense increases to 30 feet. This ability replaces abundant step.
+
+**Stone Self**: At 20th level, a student of stone becomes an earth outsider. He gains the earth subtype, as well as DR 5/chaotic, burrow speed 20 feet, and tremorsense 20 feet.

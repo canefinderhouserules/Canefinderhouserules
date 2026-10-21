@@ -600,3 +600,15 @@ At 5th level and every 5 levels thereafter, these bonuses increase by 1 (to a ma
 **Dizzying Onslaught (Ex)**: At 19th level, a wild soul lands punishing blows that devastate his nemeses’ ability to focus. When he confirms a critical hit against a creature against whom his nemesis bonus applies, for 1 minute the target must succeed at a concentration check (DC = 20 + the wild soul’s Wisdom modifier + twice the spell’s level) to cast an arcane spell, create an extract, or use an alchemist’s bomb, and the target can’t spend or gain grit. This replaces improved quarry.
 
 **Nemesis Slayer (Ex)**: At 20th level, a wild soul becomes death incarnate to his nemeses. As a standard action, he can make a single attack against a nemesis at his full attack bonus. If the attack hits, the target takes damage normally and must succeed at a Fortitude save (DC = 10 + half the wild soul’s level + his Wisdom modifier) or die. The wild soul can instead deal an amount of nonlethal damage equal to the creature’s current hit points, which the target can negate with a successful save at the same DC. The ranger can use this ability up to five times per day, but he cannot use it against the same creature more than once in a 24-hour period. This replaces master hunter.
+
+## Dusk Stalker
+
+Hunters and guides through the Shadow Plane, dusk stalkers are rangers that thrive in shadow. Adept at hunting in dusk, darkness, and twilight, these rangers excel at manipulating shadows.
+
+**Class Skills**: The dusk stalker adds Knowledge (planes) to his list of class skills and removes Knowledge (nature) from his list of class skills.
+
+**Shadow Guide**: When a dusk stalker gains the favored terrain ability, that ability is modified in the following ways. At 3rd level, a dusk stalker picks his primary terrain normally, but only gains a +1 bonus on those checks while on a plane other than the Shadow Plane, and gains a +3 bonus on those checks while on the Shadow Plane. Each time he chooses to add a bonus in a favored terrain, he gains a +1 bonus on those checks while on a plane other than the Shadow Plane, and gains a +3 bonus on those checks while on the Shadow Plane. This ability modifies favored terrain.
+
+**Shadow Bond (Su)**: At 4th level, a dusk stalker creates a mystical bond with shadows. The shadows around a dusk stalker weave and swirl, confusing his enemies. When a dusk stalker is fighting in dim light or darkness (magical or otherwise), he gains a +4 insight bonus on Acrobatics checks made to move through an enemy’s threatened area or through its space. Furthermore, a number of times per day equal to his Wisdom modifier, the dusk stalker can manipulate shadows in a 5-foot square within 30 feet. That square must be in an area of dim light or darkness (magical or otherwise). Enemies with an Intelligence score within or adjacent to that 5-foot square take a –2 penalty to AC and on Reflex saving throws. The harassing shadows last for 1 round. This is a mind-affecting fear effect. This ability replaces hunter’s bond.
+
+**Dark Sight (Su)**: At 12th level, a dusk stalker gains the see in darkness ability. This ability replaces camouflage.

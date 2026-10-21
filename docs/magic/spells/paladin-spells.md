@@ -23,13 +23,16 @@
 - **[Restoration, Lesser](restoration-lesser.md)**: Dispels magical ability penalty or repairs 1d4 ability damage.
 - **[Sun Metal](sun-metal.md)**: Weapon touched bursts into flames.
 - **[Tactical Acumen](tactical-acumen.md)**: You gain an additional +1 on attack rolls or to AC due to battlefield positioning.
+- **[Veil of Heaven](veil-of-heaven.md)**: You surround yourself with a veil of positive energy, making it harder for evil outsiders to harm you.
 - **[Virtue](virtue.md)**: Subject gains 1 temporary hp.
 
 ## 2nd-Level Paladin Spells
 
 - **[Aquatic Cavalry](aquatic-cavalry.md)**: Summon hippocampi to serve as aquatic mounts.
 - **[Bestow Weapon Proficiency](bestow-weapon-proficiency.md)**: Grants a creature proficiency in a single weapon for short period of time.
+- **[Blinding Ray](blinding-ray.md)**: School evocation [good, light]; Level cleric 2, inquisitor 3, paladin 2 Casting Time 1 standard action.
 - **[Bull’s Strength](bulls-strength.md)**: Subject gains +4 to Str for 1 min./level.
+- **[Delay Disease](delay-disease.md)**: The target becomes temporarily immune to disease.
 - **[Delay Poison](delay-poison.md)**: Stops poison from harming subject for 1 hour/level.
 - **[Divine Arrow](divine-arrow.md)**: Imbues a projectile with holy energy.
 - **[Eagle’s Splendor](eagles-splendor.md)**: Subject gains +4 to Cha for 1 min./level.
@@ -46,6 +49,7 @@
 - **[Protection from Evil, Communal](protection-from-evil-communal.md)**: As protection from evil, but you may divide the duration among creatures touched.
 - **[Remove Paralysis](remove-paralysis.md)**: Frees one or more creatures from paralysis or slow effect.
 - **[Resist Energy](resist-energy.md)**: Ignores 10 or more points of damage per attack from specified energy type.
+- **[Sacred Space](sacred-space.md)**: This spell sanctifies an area with heavenly power.
 - **[Sea Steed](sea-steed.md)**: Your mount adapts to an aquatic environment.
 - **[Shield Other](shield-other.md)**: You take half of subject’s damage.
 - **[Undetectable Alignment](undetectable-alignment.md)**: Conceals alignment from magical detection for 24 hours.

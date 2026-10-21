@@ -295,3 +295,21 @@ These primeval cavaliers idolize dinosaurs as apex predators and value them as p
 **Titanic Mount (Ex)**: At 10th level, a saurian champion’s mount increases in size by one category (even if the base creature normally does not reach that size). The creature receives the appropriate size penalty on attack rolls and to AC (–1 if growing to Large or –2 if growing to Huge) and a –2 penalty to Dexterity (to a minimum Dexterity score of 1), its base damage increases by one size category, and its reach increases to 10 feet (if it wasn’t already). It also gains a +2 size bonus to its Strength and Constitution score. At 12th, 14th, 16th, and 18th levels, the bonus to Strength increases by 2 and the mount’s natural armor increases by 1. At 14th and 18th levels, the bonus to Constitution increases by 2. At 15th level, the mount’s reach increases to 15 feet.
 
 **Primeval Devotion (Ex)**: At 14th level, the bonus on saving throws provided by the mount’s devotion ability increases by 2. In addition, the mount adds half this bonus to other saving throws. This replaces greater banner.
+
+## Fell Rider
+
+The fell rider rides a bestial steed, a mount mastered by him alone. He tramples his enemies down, leaving twisted bodies in his wake, and fear rides with him.
+
+**Brute Steed (Ex)**: A fell rider’s mount is unusually large and fierce. It gains a +2 bonus to Strength, but takes a –2 penalty to Dexterity. This otherwise works like the cavalier’s mount ability and alters that ability.
+
+**Rampage (Ex)**: At 3rd level, a fell rider gains Trample as a bonus feat. The fell rider receives a +2 bonus on overrun attempts made while mounted. In addition, his mount gains a +2 bonus on damage rolls when making hoof attacks or using the trample monster ability, even when not overrunning. This ability replaces cavalier’s charge.
+
+**Dread Rider (Ex)**: At 4th level, a fell rider gains a bonus equal to 1/2 his level on Intimidate checks made while mounted. Once per round as a free action, he can make an Intimidate check to demoralize a foe he has trampled or charged while mounted. This ability replaces expert trainer.
+
+**Fell Presence (Ex)**: At 5th level, a fell rider inspires dread while mounted. As long as the fell rider is mounted, all enemies within 60 feet receive a –2 penalty on savings throws against fear. At 10th level and every 5 levels thereafter, this penalty increases by –1. This ability replaces banner.
+
+**Deadly Rampage (Ex)**: At 11th level, a mounted fell rider no longer provokes attacks of opportunity when he attempts to overrun a creature. He can make a single melee attack against the creature as a free action if the overrun attempt succeeds. This ability replaces mighty charge.
+
+**Terror (Ex)**: At 14th level, a fell rider can rear up his mount as a standard action, spreading terror among his enemies. Enemies within 60 feet who can see the fell rider must succeed at a Will save (DC 10 + 1/2 the fell rider’s level + the fell rider’s Charisma modifier) or be shaken for 1 round per level the fell rider possesses. Creatures with half or fewer Hit Dice than the fell rider become frightened instead. An opponent that succeeds at the saving throw is immune to that fell rider’s terror ability for 24 hours. This ability is a mind-affecting fear effect, and replaces greater banner.
+
+**Unstoppable Rampage (Ex)**: At 20th level, a mounted fell rider can overrun up to four creatures as part of a single overrun combat maneuver. Each attempt made against a creature after the first receives a cumulative –5 penalty (for example, the fourth overrun attempt would be at a –15 penalty). If any overrun attempt fails, the fell rider cannot make further overrun attempts that round. Attacks made by the fell rider or his mount as part of the overrun, such as those provided by the Trample feat or the deadly rampage ability, receive a +4 bonus to hit, and any critical threats from these attacks automatically confirm. This ability replaces supreme charge.

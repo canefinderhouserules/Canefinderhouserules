@@ -345,3 +345,65 @@ Leaf (Forest, Jungle, Swamp): Size Medium; Speed 30 ft.; AC +2 natural armor; Sa
 Seaweed (Aquatic): Size Medium; Speed 20 ft., swim 40 ft.; AC +2 natural armor; Saves Fort (good), Ref (good), Will (bad); Attack slam (1d8); Ability Scores Str 12, Dex 14, Con 15, Int 7, Wis 10, Cha 11; Free Evolutions limbs (arms), slam, swim (2). This alters the summoner’s eidolon.
 
 **Summon Nature’s Ally (Sp)**: A leshy caller can cast summon nature’s ally as a spell-like ability a number of times per day equal to 3 + her Charisma modifier. At levels where a regular summoner would gain access to a new level of summon monster as a spell-like ability, the leshy caller instead gains the equivalent summon nature’s ally spell; at 19th level, she can cast summon nature’s ally IX or gate. When a leshy caller gains a summon nature’s ally spell as a spell-like ability, she adds it to her class spell list (though she must still select it as a spell known if she wants to gain the ability to cast it as a normal spell). She adds leaf leshys, gourd leshys, fungus leshys, seaweed leshys, and lotus leshys to her list of creatures for summon nature’s ally I, II, III, IV, and V, respectively. This alters summon monster.
+
+## Shadow Caller
+
+While most summoners can call any manner of creature from across the planes to serve them in combat, supplementing the skills of their eidolon with a diverse range of creatures, others eschew this broad utility and instead concentrate upon calling forth entities from the Shadow Plane. A shadow caller has the following class features.
+
+**Class Skills**: The shadow caller adds Stealth to his list of class skills and removes Use Magic Device from his list of class skills.
+
+**Shadow Summoning (Sp)**: When a shadow caller uses his *summon monster* ability or casts the *summon monster* spell, he typically summons creatures from the Shadow Plane or creatures closely associated with shadow. When a creature on the *summon monster* spell list indicates that it is summoned with either the celestial or the fiendish template based on the alignment of the caster, the creature summoned by the shadow caller has the shadow creature template instead (see sidebar). Furthermore, the *summon monster* lists are modified in the following ways (these changes also apply to using a higher-level summon spell to summon multiple creatures from a lower-level list).
+
+*Summon Monster I*: No changes.
+
+*Summon Monster II*: A shadow caller cannot summon Small elementals or lemures, but instead can summon zoogs.
+
+*Summon Monster III*: A shadow caller cannot summon dretches or lantern archons, but can summon augur kytons.
+
+*Summon Monster IV*: A shadow caller cannot summon Medium elementals, hell hounds, hound archons, or mephits, but can summon allips, gloomwings, and shadows.
+
+*Summon Monster V*: A shadow caller cannot summon babau, bearded devils, bralani azatas, Large elementals, salamanders, or xills, but can summon shadow mastiffs and shae.
+
+*Summon Monster VI*: A shadow caller cannot summon Huge elementals, erinyes, lillend azatas, or succubi, but can summon cloakers.
+
+*Summon Monster VII*: A shadow caller cannot summon bebiliths, bone devils, greater elementals, or vrocks, but can summon greater shadows.
+
+*Summon Monster VIII*: A shadow caller can only summon derghodaemons and young umbral dragons.
+
+*Summon Monster IX*: A shadow caller can only summon interlocutor kytons and nightwings.
+
+This ability otherwise functions as and replaces the summoner’s normal *summon monster* spell-like abilities.
+
+**Shadow Eidolon**: A shadow caller’s eidolon is at once a thing of shadow called from the deep of the Shadow Plane and his own shadow; the two are inseparable. When his eidolon manifests, his shadow lengthens and finally detaches from him as a creature unto itself. For as long as the shadow caller’s eidolon is manifested, he and the eidolon do not have distinct shadows, regardless of the presence or absence of light. This lack of a shadow replaces the magical symbol that identifies the summoner and his eidolon.
+
+This ability alters the summoner’s eidolon ability.
+
+### New Evolutions
+
+The following evolutions are available to all summoners.
+
+#### 2-Point Evolutions
+
+**Shadow Blend (Su)**: In any condition of illumination other than bright light, the eidolon disappears into the shadows, giving it concealment (20% miss chance). If it has the shadow form evolution, it instead gains total concealment (50% miss chance). The eidolon can suspend or resume this ability as a free action.
+
+**Shadow Form (Su)**: The eidolon’s body becomes shadowy and more indistinct. This shadow form grants the eidolon constant concealment (20% miss chance), and its melee attacks affect incorporeal creatures as if it had the *ghost touch* weapon property. The eidolon’s melee attacks deal only half damage to corporeal creatures.
+
+## Shaitan Binder
+
+Shaitan binders call upon a reflection of their genie ancestors to serve as their eidolons. A shaitan binder has the following class features.
+
+**Base Form**: At 1st level, if a shaitan binder’s eidolon has the biped base form, it gains a +2 bonus to one ability score. The shaitan binder must make this choice at 1st level. If at any time the shaitan binder’s eidolon has another base form, it loses this bonus until it returns to biped form. A shaitan binder’s eidolon does not gain the share spells ability.
+
+**Shaitan Magic (Su)**: At 4th level, a shaitan binder’s eidolon gains the basic magic evolution (*Ultimate Magic*) as a free evolution. At 6th level, it gains the minor magic evolution (*Ultimate Magic*).
+
+At 8th level, it gains the major magic evolution (*Ultimate Magic*) as a free evolution, and adds the following to the list of available spells for that evolution: *glitterdust* and *soften earth and stone*.
+
+At 12th level, it gains the ultimate magic evolution (*Ultimate Magic*) as a free evolution, and adds the following to the list of available spells for that evolution: *meld into stone* and *stone shape*.
+
+Although the shaitan binder gains the standard versions of these evolutions for free, he must pay the normal cost to upgrade them to the improved versions. This ability replaces shield ally and greater shield ally.
+
+**Earth Glide (Su)**: At 10th level, if a shaitan binder’s eidolon has the burrow evolution, it gains the earth glide universal monster ability and can use this ability to travel at its full base speed. This ability replaces aspect.
+
+**Stone Curse (Su)**: At 18th level, a shaitan binder may select stone curse as a 4-point evolution. This allows the eidolon to trap creatures in stone like the shaitan stone curse ability. The DC to resist or break free of the stone curse is 10 + 1/2 the eidolon’s Hit Dice + the eidolon’s Strength score. This ability replaces greater aspect.
+
+**Noble Eidolon (Sp)**: At 20th level, a shaitan binder’s eidolon gains the ability to grant its summoner’s wishes. Once per day, the eidolon can cast *limited wish* as a spell-like ability. The eidolon’s caster level is equal to its level. The wish must be spoken aloud by the shaitan binder, beginning with the words “I wish,” and cannot duplicate a wish the eidolon has granted within the past 24 hours. If the eidolon uses this ability to duplicate a spell with a costly material component, the shaitan binder must provide that component. This ability replaces twin eidolon.

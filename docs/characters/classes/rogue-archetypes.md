@@ -403,3 +403,43 @@ Sylvan tricksters are rogues who model themselves after the mischievous fey of l
 **Rogue Talents**: The following rogue talents complement the sylvan trickster archetype: camouflage, charmer, honeyed words, major magic, minor magic, survivalist, terrain mastery.
 
 **Advanced Talents**: The following advanced rogue talents complement the sylvan trickster archetype: familiar, hide in plain sight.
+
+## Cat Burglar
+
+Gifted with finesse and stealth, catfolk make excellent burglars. Cat burglars are masters of breaking and entering, using their feline grace to make it seem as though no crime was ever committed in the first place. Few locks can withstand skilled cat burglars, and such nimble rogues are capable of bypassing traps without activating them and enabling associates to do the same. A cat burglar has the following class features.
+
+**Phantom Presence (Ex)**: At 4th level, a cat burglar masters stealthy movement and leaves no trace of her passing in dungeons and cities. While in dungeon and urban environments, she leaves no trail and cannot be tracked, though she can choose to leave behind a trail if she so desires. Furthermore, she can always choose to take 10 when making a Stealth check. This ability replaces uncanny dodge.
+
+**Trap Saboteur (Su)**: At 8th level, a cat burglar becomes a master of avoiding and manipulating traps and locks. She can attempt to open a lock as a standard action and takes 1/2 the normal amount of time to disable traps (minimum 1 round) . When she has bypassed a trap without disarming it, she can also choose to suppress its trigger for up to 1 minute. If she does, she can also choose to end this suppression prematurely as a free action. This ability replaces uncanny dodge.
+
+**Rogue Talents**: The following rogue talents complement the cat burglar archetype: fast stealth, quick disable (*Core Rulebook*); convincing fakes, dodge trap (*Advanced Race Guide*); fast picks (*Advanced Player’s Guide*); terrain mastery (*Ultimate Combat*).
+
+**Advanced Talents**: The following advanced rogue talents complement the cat burglar archetype: another day, fast tumble (*Advanced Player’s Guide*); hide in plain sight (*Ultimate Combat*).
+
+## Swordmaster
+
+A swordmaster meditates to strengthen her spiritual connection to her blade. She strives to perfect her skills by mastering six deadly trances. A swordmaster has the following class features.
+
+**Class Skills**: The swordmaster adds Knowledge (nature) and Survival to her list of class skills and removes Disguise and Knowledge (dungeoneering) from her list of class skills.
+
+**Trance (Ex)**: At 3rd level, a swordmaster learns to focus her martial prowess using an intense meditative trance. Under the influence of a trance, the swordmaster can perform fantastic martial feats. Entering a trance is a full-round action that provokes attacks of opportunity. The swordmaster can maintain the trance for a number of rounds per day equal to 4 + her Wisdom modifier. At each level beyond 3rd, she can remain in the trance for 1 additional round. She can end her trance as a free action. Following a trance, the swordmaster is fatigued for a number of rounds equal to 2 × the number of rounds she spent in the trance. A swordmaster cannot enter a new trance while fatigued but can otherwise enter a trance multiple times during a single encounter or combat. If a swordmaster falls unconscious, her trance immediately ends.
+
+At 3rd level, the swordmaster chooses one trance from the list below. She chooses another trance at 6th, 9th, 12th, 15th, and 18th level. She can only use one type of trance at a time.
+
+**Crane Trance (Ex)**: The swordmaster’s blade rises and falls with the graceful sweeping arcs of the mountain crane. When in this trance, a swordmaster gains the benefits of the Crane Style feat.
+
+**Dragon Trance (Ex)**: Like the dragon, the swordmaster has honed the steadiness of her mind and body. When in this trance, a swordmaster gains the benefits of the Dragon Style feat.
+
+**Leopard Trance (Ex)**: Using the swiftness of the leopard, a swordmaster’s evasive footwork confuses her opponents. When in this trance, a swordmaster gains the benefits of the Mobility feat.
+
+**Monkey Trance (Ex)**: As the monkey springs, the swordmaster leaps from the reach of her enemies. While in this trance, a swordmaster can make an Acrobatics check opposed by an opponent’s CMD. If she succeeds, she may move 5 feet as a swift action within the opponent’s threatened area; this movement does not provoke attacks of opportunity and does not count as a 5-foot step.
+
+**Serpent Trance (Ex)**: Like the serpent, the swordmaster’s quick movements allow her to catch her opponent unawares. While in this trance, a swordmaster receives a +4 bonus on Bluff checks made to feint during combat.
+
+**Tiger Trance (Ex)**: The swordmaster pounces upon her opponents, striking with the ferocity and brute force of a wild tiger. While in this trance, a swordmaster can make a combat maneuver check against an opponent within charge range. If she succeeds, she may charge that opponent and make a full attack against that opponent.
+
+This ability replaces all increments of trap sense.
+
+**Rogue Talents**: The following rogue talents complement the swordmaster archetype: combat trick, stand up, surprise attack, weapon training (*Core Rulebook*); befuddling strike, positioning strike (*Advanced Player’s Guide*).
+
+**Advanced Talents**: The following advanced rogue talents complement the swordmaster archetype: crippling strike, defensive roll (*Core Rulebook*); hunter’s surprise, redirect attack (*Advanced Player’s Guide*); confounding blade (*Ultimate Combat*).

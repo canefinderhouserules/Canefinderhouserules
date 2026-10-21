@@ -1,0 +1,9 @@
+# Expanded Fiendish Resistance
+
+You gain extra fiendish resistances.
+
+**Prerequisite**: Tiefling.
+
+**Benefit**: Pick one of the following energy types that you do not already have resistance to: acid, cold, electricity, or fire. You gain resistance 5 to that energy type.
+
+**Special**: You can take this feat multiple times. Each time you do, pick another energy type you do not have resistance to. You gain resistance 5 to that energy type.

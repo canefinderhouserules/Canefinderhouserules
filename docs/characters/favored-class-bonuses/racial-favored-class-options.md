@@ -426,3 +426,311 @@ In most cases these benefits are gained on a level-by-level basis, and unless ot
 **Rogue**: Add a +1/2 bonus to Climb checks and on Stealth checks in forests.
 
 **Shaman**: Shamans with the nature or wood spirit add one spell from the druid’s spell list that isn’t on the shaman spell list to the shaman’s spell list; she still must select this spell as one of her spells known in order to cast it. This spell must be at least 1 level lower than the highest spell level the shaman can cast.
+
+## Advanced Race Guide
+
+### Aasimars (Advanced Race Guide)
+
+**Bard**: Choose one bardic performance; treat the bard as +1/2 level higher when determining the effects of that performance.
+
+**Cavalier**: Add +1/4 to the cavalier’s bonus on damage against targets of his challenge.
+
+**Cleric**: Add +1/2 to damage when using positive energy against undead or using Alignment Channel to damage evil outsiders.
+
+**Inquisitor**: Add +1/2 on Intimidate, Knowledge, and Sense Motive checks made against outsiders.
+
+**Oracle**: Add +1/2 to the oracle’s level for the purpose of determining the effects of one revelation.
+
+**Paladin**: Add +1/6 to the morale bonus on saving throws provided by the paladin’s auras.
+
+**Sorcerer**: Add +1/4 to the sorcerer’s caster level when casting spells with the good descriptor.
+
+**Summoner**: Add DR 1/evil to the summoner’s eidolon. Each additional time the summoner selects this benefit, the DR/evil increases by +1/2 (maximum DR 10/evil).
+
+### Catfolk (Advanced Race Guide)
+
+**Bard**: Add +1/2 to the bard’s bardic knowledge bonus.
+
+**Cavalier**: Add +1/4 to the cavalier’s banner bonus.
+
+**Druid**: Add +1 hit points to the druid’s animal companion. If the druid ever replaces her animal companion, the new animal companion gains these bonus hit points.
+
+**Oracle**: Add one spell known from the oracle spell list. This spell must be at least one level below the highest spell level the oracle can cast.
+
+**Ranger**: Choose a weapon from the following list: claws, kukri, longbow, longsword, short spear, or shortbow. Add +1/2 on critical hit confirmation rolls made while using that weapon (maximum bonus of +4). This bonus does not stack with Critical Focus.
+
+**Rogue**: Add a +1/2 bonus on Bluff checks to feint and Sleight of Hands checks to pickpocket.
+
+**Sorcerer**: Select one bloodline power at 1st level that is normally usable a number of times equal to 3 + the sorcerer’s Charisma modifier. The sorcerer adds + 1/2 to the number of uses per day of that bloodline power.
+
+### Dhampirs (Advanced Race Guide)
+
+**Alchemist**: Add +10 minutes to the duration of the alchemist’s mutagens.
+
+**Cleric**: Add +1 to the caster level of any channeling feat used to affect undead.
+
+**Fighter**: Add a +2 bonus on rolls to stabilize when dying.
+
+**Inquisitor**: Add a +1/2 bonus on Intimidate checks to demoralize humanoids.
+
+**Rogue**: Add a +1/2 bonus on Stealth checks and Perception checks made in dim light or darkness.
+
+**Sorcerer**: Add +1/2 point of negative energy damage to spells that deal negative energy damage.
+
+**Wizard**: Add +1/4 to the wizard’s caster level when casting spells of the necromancy school.
+
+### Drow (Advanced Race Guide)
+
+**Alchemist**: Add +10 minutes to the duration of the alchemist’s mutagens.
+
+**Antipaladin**: The antipaladin adds +1/4 to the number of cruelties he can inflict.
+
+**Cleric**: Select one domain power granted at 1st level that is normally usable a number of times per day equal to 3 + the cleric’s Wisdom modifier. The cleric adds +1/2 to the number of uses per day of that domain power.
+
+**Fighter**: Choose the disarm or reposition combat maneuver. Add +1/3 to the fighter’s CMB when attempting this maneuver (maximum bonus of +4).
+
+**Rogue**: Add a +1/2 bonus on Bluff checks to feint and pass secret messages.
+
+**Sorcerer**: Add one spell known from the sorcerer spell list. This spell must have the curse, evil, or pain descriptor, and be at least one level below the highest spell level the sorcerer can cast.
+
+**Wizard**: Select one arcane school power at 1st level that is normally usable a number of times per day equal to 3 + the wizard’s Intelligence modifier. The wizard adds +1/2 to the number of uses per day of that arcane school power.
+
+### Fetchlings (Advanced Race Guide)
+
+**Oracle**: Treat the oracle’s level as +1/3 higher for the purposes of determining which of its racial spell-like abilities it can use.
+
+**Ranger**: Add a +1/2 bonus on Perception and Survival checks made on the Plane of Shadow.
+
+**Rogue**: Add a +1/2 bonus on Stealth and Sleight of Hand checks made while in dim light or darkness.
+
+**Sorcerer**: Add +1/2 to either cold or electricity resistance (maximum resistance 10 for either type).
+
+**Summoner**: The summoner’s eidolon gains resistance 1 against either cold or electricity. Each time the summoner selects this reward, he increases his eidolon’s resistance to one of those energy types by 1 (maximum 10 for any one energy type).
+
+**Wizard**: Add one spell from the wizard spell list to wizard’s spellbook. The spell must be at or below the highest level he can cast and be of the illusion (shadow) subschool or have the darkness descriptor.
+
+### Goblins (Advanced Race Guide)
+
+**Alchemist**: The alchemist gains fire resistance 1. Each time this reward is selected, increase fire resistance by +1. This fire resistance does not stack with fire resistance gained from other sources.
+
+**Barbarian**: Add +1/2 on critical hit confirmation rolls for attacks made with unarmed strikes or natural weapons (maximum bonus of +4). This bonus does not stack with Critical Focus.
+
+**Bard**: Add +1 to the bard’s total number of bardic performance rounds per day.
+
+**Cavalier**: Add +1 hit points to the cavalier’s mount companion. If the cavalier ever replaces his mount, the new mount gains these bonus hit points.
+
+**Druid**: Add +1 hit points to the druid’s animal companion. If the druid ever replaces her animal companion, the new animal companion gains these bonus hit points.
+
+**Gunslinger**: Add +1/3 on critical hit confirmation rolls made with firearms (maximum bonus of +5). This bonus does not stack with Critical Focus.
+
+**Oracle**: Add +1 on concentration checks made when casting spells with the fire descriptor.
+
+**Ranger**: Gain a +1/2 bonus on damage dealt to dogs (and doglike creatures) and horses (and horselike creatures).
+
+**Rogue**: Add a +1 bonus on the rogue’s sneak attack damage rolls during the surprise round or before the target has acted in combat.
+
+**Sorcerer**: Add +1 spell known from the sorcerer spell list. This spell must be at least one level below the highest spell level the sorcerer can cast, and must have the fire descriptor.
+
+**Summoner**: Add +1/4 evolution point to the eidolon’s evolution pool. These bonus evolution points must be spent on evolutions that deal fire damage or protect the eidolon from fire (for example, resistance, energy attacks, immunity, breath weapon, and so on).
+
+**Witch**: Add +1 spell from the witch spell list to the witch’s familiar. This spell must be at least one level below the highest spell level she can cast. If the witch ever replaces her familiar, the new familiar knows these bonus spells.
+
+### Hobgoblins (Advanced Race Guide)
+
+**Alchemist**: Add +1/2 to the number of bombs per day the alchemist can create.
+
+**Cavalier**: Add a +1/2 bonus on Intimidate checks and Ride checks.
+
+**Cleric**: Add +1/2 to negative energy spell damage, including inflict spells.
+
+**Fighter**: Add a +1/2 circumstance bonus on critical hit confirmation rolls with a weapon of the fighter’s choice (maximum bonus +4). This bonus does not stack with Critical Focus.
+
+**Gunslinger**: Add +1/4 to the gunslinger’s grit points.
+
+**Inquisitor**: Add a +1 bonus on concentration checks made to cast inquisitor spells.
+
+**Monk**: Add a +1/4 bonus on combat maneuver checks made to grapple or trip.
+
+**Ranger**: Add +1/4 to a single existing favored enemy bonus (maximum bonus +1 per favored enemy).
+
+**Rogue**: Reduce the penalty for not being proficient with one weapon by 1. When the nonproficiency penalty for a weapon becomes 0 because of this ability, the rogue is treated as having the appropriate Martial or Exotic Weapon Proficiency feat for that weapon.
+
+### Ifrits (Advanced Race Guide)
+
+**Alchemist**: Add +1/2 to the alchemist’s bomb damage.
+
+**Bard**: Add +1/6 to the number of people the bard can affect with the fascinate bardic performance.
+
+**Cleric**: Add a +1/2 bonus on Knowledge (planes) checks relating to the Plane of Fire and creatures with the fire subtype.
+
+**Gunslinger**: Add +1/2 to the bonus on initiative checks the gunslinger makes while using her gunslinger initiative deed.
+
+**Inquisitor**: Add a +1/2 bonus on Intimidate checks made against creatures with the fire subtype and a +1/2 bonus on Knowledge (planes) checks relating to the Plane of Fire.
+
+**Oracle**: Add +1/2 to the oracle’s level for the purpose of determining the effects of one revelation.
+
+**Rogue**: Add a +1/2 bonus on Acrobatics checks to jump and a +1/2 bonus on Intimidate checks to demoralize enemies.
+
+**Sorcerer**: Choose a bloodline power from the elemental (fire) bloodline or the efreeti bloodline that the sorcerer can use. The sorcerer treats her class level as though it were +1/2 higher (to a maximum of +4) when determining the effects of that power.
+
+### Kobolds (Advanced Race Guide)
+
+**Alchemist**: Add +1/2 to the number of bombs per day the alchemist can create.
+
+**Bard**: Treat the bard’s level as +1/2 level higher for the purpose of determining the effect of the fascinate bardic performance.
+
+**Cavalier**: Add 5 feet (up to 15 feet maximum) to the cavalier’s mount’s speed when it uses the charge or withdraw action.
+
+**Cleric**: Add +1 to channel energy damage dealt to creatures denied their Dexterity bonus to AC (whether or not the creature has a Dexterity bonus to AC).
+
+**Druid**: Add +1/2 to the druid’s wild empathy bonus.
+
+**Fighter**: Add +1/2 to damage rolls the fighter makes with weapon attacks against an opponent he is flanking or an opponent that is denied its Dexterity bonus to AC.
+
+**Gunslinger**: Add +1/4 to the dodge bonus to AC granted by the nimble class feature (maximum +4).
+
+**Magus**: Add a +1/2 bonus on concentration checks made to cast defensively.
+
+**Monk**: Add +1/3 to the monk’s AC bonus class ability.
+
+**Oracle**: Add +1/4 to the armor or natural armor bonus granted by oracle spells she casts on herself.
+
+**Ranger**: Add +1/4 to the number of opponents the ranger may select when using hunter’s bond to grant a bonus to allies. All selected creatures must be of the same type.
+
+**Rogue**: Add +1/2 to the rogue’s trap sense bonus to AC.
+
+**Sorcerer**: Choose acid, cold, electricity, or fire damage. Add +1/2 point of the chosen energy damage to spells that deal the chosen energy damage cast by the sorcerer.
+
+**Summoner**: Add +1/4 to the summoner’s shield ally bonus (maximum +2).
+
+**Witch**: Add +5 feet to the distance at which her familiar grants the Alertness feat (maximum +20 feet).
+
+### Orcs (Advanced Race Guide)
+
+**Alchemist**: Add +10 minutes to the duration of the alchemist’s mutagens.
+
+**Barbarian**: Add +1 to the barbarian’s total number of rage rounds per day.
+
+**Cavalier**: Add +1 to the cavalier’s CMB when making bull rush or overrun combat maneuvers against a challenged target.
+
+**Druid**: Add +1/2 to the damage dealt by the druid’s animal companion’s natural attacks.
+
+**Fighter**: Add +2 to the fighter’s Constitution score for the purpose of determining when he dies from negative hit points.
+
+**Ranger**: Add +1 hit point to the ranger’s animal companion. If the ranger ever replaces his animal companion, the new animal companion gains these bonus hit points.
+
+**Witch**: Add one spell from the witch spell list to the witch’s familiar. This spell must be at least one level below the highest spell level she can cast. If the witch ever replaces her familiar, the new familiar knows these bonus spells.
+
+### Oreads (Advanced Race Guide)
+
+**Bard**: Add +5 feet to the range of one of the bard’s bardic performances (max +30 feet to any one performance).
+
+**Cleric**: Add a +1/2 bonus on Knowledge (planes) checks relating to the Plane of Earth and creatures with the earth subtype.
+
+**Druid**: Add a +1/2 bonus on Knowledge (nature) checks relating to plants and burrowing animals.
+
+**Fighter**: Add +1 to the fighter’s CMD when resisting a bull rush or drag attempt.
+
+**Monk**: Add +1/3 on critical hit confirmation rolls made with unarmed strikes (maximum bonus of +5). This bonus does not stack with Critical Focus.
+
+**Paladin**: Add +1/4 to the bonus the paladin grants her allies with her aura of courage and aura of resolve special abilities.
+
+**Ranger**: Add +1/4 to the natural armor bonus of the ranger’s animal companion. If the ranger ever replaces his animal companion, the new animal companion gains this bonus.
+
+**Summoner**: Add a +1/4 natural armor bonus to the AC of the summoner’s eidolon.
+
+### Ratfolk (Advanced Race Guide)
+
+**Alchemist**: The alchemist gains +1/6 of a new discovery.
+
+**Barbarian**: When raging, add +1/4 to the barbarian’s swarming trait’s flanking bonus on attack rolls.
+
+**Druid**: Add a +1 bonus on wild empathy checks made to influence animals and magical beasts that live underground.
+
+**Fighter**: Add +1 to the fighter’s CMD when resisting a bull rush or grapple attempt.
+
+**Gunslinger**: Add a +1/2 bonus on initiative checks when the gunslinger has at least 1 grit point.
+
+**Monk**: Add +1 feet to the speed the monk can move while making a Stealth check without taking a penalty. This has no effect unless the monk has selected this reward five times (or another increment of five). This does not allow the monk to use Stealth while running or charging.
+
+**Ranger**: Add +1 to an animal companion’s CMD when adjacent to the ranger. If the ranger ever replaces his animal companion, the new animal companion gains this bonus.
+
+**Rogue**: Add a +1/2 bonus on Escape Artist checks.
+
+**Summoner**: Add a +1 bonus on saving throws against poison made by the summoner’s eidolon.
+
+**Witch**: Add +5 feet to the range of one hex with a range other than “touch.”
+
+### Sylphs (Advanced Race Guide)
+
+**Cleric**: Add a +1/2 bonus on Knowledge (planes) checks relating to the Plane of Air and creatures with the air subtype.
+
+**Druid**: Add a +1/2 bonus on Knowledge (nature) checks relating to weather and flying animals.
+
+**Inquisitor**: Add a +1/2 bonus on Stealth checks while motionless and on opposed Perception checks.
+
+**Oracle**: Add +1/2 to the oracle’s level for the purpose of determining the effects of one revelation.
+
+**Rogue**: Add a +1/2 bonus on Acrobatics checks to jump and a +1/2 bonus on Sense Motive checks.
+
+**Sorcerer**: Choose a bloodline power from the djinni or elemental (air) bloodline that the sorcerer can use. The sorcerer treats her class level as though it were +1/2 higher (to a maximum of +4) when determining the effects of that power.
+
+**Witch**: Add a +1/2 bonus on Stealth checks and Perception checks made by the witch’s familiar. If the sylph ever replaces her familiar, the new familiar gains these bonus skill ranks.
+
+**Wizard**: Select one arcane school power from the air or wood elemental schools that the wizard can currently use. The wizard treats her class level as though it were +1/2 higher (to a maximum of +4) when determining the effects of that power.
+
+### Tengus (Advanced Race Guide)
+
+**Barbarian**: Add +1/3 to the bonus from the superstitious rage power.
+
+**Fighter**: Add +1 to the fighter’s CMD when resisting a grapple or trip attempt.
+
+**Monk**: Add +1/4 point to the monk’s *ki* pool.
+
+**Oracle**: Add +1/2 to the oracle’s level for the purpose of determining the effects of the oracle’s curse ability.
+
+**Rogue**: Choose a weapon from those listed under the tengu’s swordtrained ability. Add a +1/2 bonus on critical hit confirmation rolls with that weapon (maximum bonus +4). This bonus does not stack with Critical Focus.
+
+**Sorcerer**: Select one bloodline power at 1st level that is normally usable a number of times per day equal to 3 + the sorcerer’s Charisma modifier. The sorcerer adds +1/2 to the number of uses per day of that bloodline power.
+
+**Witch**: Add one spell from the witch spell list to the witch’s familiar. This spell must be at least one level below the highest spell level she can cast. If the witch ever replaces her familiar, the new familiar knows these bonus spells.
+
+### Tieflings (Advanced Race Guide)
+
+**Alchemist**: Add +1/2 to the alchemist’s bomb damage.
+
+**Cleric**: Add a +1 bonus on caster level checks made to overcome the spell resistance of outsiders.
+
+**Druid**: Add a +1 bonus on wild empathy checks made to improve the attitude of fiendish animals.
+
+**Inquisitor**: Add a +1/2 bonus on Intimidate checks and Knowledge checks to identify creatures.
+
+**Magus**: Add +1/4 point to the magus’s arcane pool.
+
+**Paladin**: Add +1 to the amount of damage the paladin heals with lay on hands, but only when the paladin uses that ability on herself.
+
+**Rogue**: Add +1/2 to sneak attack damage dealt to creatures with the outsider type.
+
+**Sorcerer**: Add +1/2 to the number of times per day a sorcerer can use the corrupting touch infernal bloodline power, or +1 to the total number of rounds per day the sorcerer can use the claws abyssal bloodline power. The sorcerer must possess the applicable power to select these bonuses.
+
+**Summoner**: Add +1 hit point or +1 skill rank to the summoner’s eidolon.
+
+**Witch**: The witch’s familiar gains resistance 1 against cold, electricity, or fire. Each time the witch selects this reward, increase the familiar’s resistance to one of these energy types by 1 (maximum 5 for any one type). If the witch ever replaces her familiar, the new familiar has these resistances.
+
+**Wizard**: Select one arcane school power at 1st level that is normally usable a number of times per day equal to 3 + the wizard’s Intelligence modifier. The wizard adds +1/2 to the number of uses per day of that arcane school power.
+
+### Undines (Advanced Race Guide)
+
+**Bard**: Add a +1 bonus on Perform checks to use the countersong bardic performance against creatures with the aquatic or water subtypes.
+
+**Cleric**: Add a +1 bonus on caster level checks to overcome the spell resistance of creatures with the aquatic or water subtype.
+
+**Druid**: Add a +1 bonus on wild empathy checks to influence animals and magical beasts with the aquatic subtype.
+
+**Monk**: Add +1 to the monk’s CMD when resisting a grapple and +1/3 to the number of stunning attacks he can attempt per day.
+
+**Sorcerer**: Add a +1 bonus on caster level checks to cast spells underwater.
+
+**Summoner**: If the summoner’s eidolon has an aquatic base form, add +5 feet to the range of the summoner’s life link ability.
+
+**Wizard**: Add one spell from the cleric, druid, or wizard spell list with the water descriptor to the wizard’s spellbook. This spell must be at least one level below the highest spell level he can cast. This spell is treated as one level higher unless it also appears on the wizard spell list.

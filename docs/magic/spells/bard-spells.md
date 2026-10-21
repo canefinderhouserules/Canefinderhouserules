@@ -63,6 +63,7 @@
 - **[Undetectable Alignment](undetectable-alignment.md)**: Conceals alignment for 24 hours.
 - **[Unseen Servant](unseen-servant.md)**: Invisible force obeys your commands.
 - **[Ventriloquism](ventriloquism.md)**: Throws voice for 1 min./level.
+- **[Windy Escape](windy-escape.md)**: You respond to an attack by briefly becoming vaporous and insubstantial, allowing the attack to pass.
 
 ## 2nd-Level Bard Spells
 
@@ -79,6 +80,7 @@
 - **[Calm Emotions](calm-emotions.md)**: Calms creatures, negating emotion effects.
 - **[Catatonia](catatonia.md)**: Make a willing target appear to be dead.
 - **[Cat’s Grace](cats-grace.md)**: Subject gains +4 to Dex for 1 min./level.
+- **[Commune with Birds](commune-with-birds.md)**: You utter a question in the form of a low-pitched bird call that can be heard up to a mile away, and can.
 - **[Contagious Zeal](contagious-zeal.md)**: Grant bonuses and temporary hit points that spread from creature to creature.
 - **[Cure Moderate Wounds](cure-moderate-wounds.md)**: Cures 2d8 damage + 1/level (max +10).
 - **[Darkness](darkness.md)**: 20-ft. radius of supernatural shadow.
@@ -114,6 +116,7 @@
 - **[Shatter](shatter.md)**: Sonic vibration damages objects or crystalline creatures.
 - **[Silence](silence.md)**: Negates sound in 20-ft. radius.
 - **[Sound Burst](sound-burst.md)**: Deals 1d8 sonic damage and may stun subjects.
+- **[Steal Breath](steal-breath.md)**: You pull the breath from a creature’s lungs, dealing damage and leaving it unable to speak, use breath.
 - **[Suggestion](suggestion.md)**: Compels subject to follow stated course of action.
 - **[Summon Monster II](summon-monster-ii.md)**: Summons extraplanar creature to fight for you.
 - **[Summon Swarm](summon-swarm.md)**: Summons swarm of bats, rats, or spiders.
@@ -151,6 +154,7 @@
 - **[Mirage](mirage.md)**: Create illusory terrain.
 - **[Phantom Driver](phantom-driver.md)**: Conjures a phantom to drive vehicles.
 - **[Phantom Steed](phantom-steed.md)**: Magic horse appears for 1 hour/level.
+- **[Raging Rubble](raging-rubble.md)**: You animate an area of rubble, gravel, or other small stones, creating a dangerous, rolling area of debris.
 - **[Remove Curse](remove-curse.md)**: Frees object or person from curse.
 - **[Returning Weapon, Communal](returning-weapon-communal.md)**: As returning weapon, but you may divide the duration among weapons touched.
 - **[Scrying](scrying.md)**: Spies on subject from a distance.
@@ -180,6 +184,7 @@
 - **[Locate Creature](locate-creature.md)**: Indicates direction to known creature.
 - **[Modify Memory](modify-memory.md)**: Changes 5 minutes of subject’s memories.
 - **[Neutralize Poison](neutralize-poison.md)**: Immunizes subject against poison, detoxifies venom in or on subject.
+- **[Nixie’s Lure](nixie-s-lure.md)**: This spell creates an unearthly and infectious song that seductively summons all who hear it.
 - **[Oneiric Horror, Greater](oneiric-horror-greater.md)**: As oneiric horror, plus Str damage.
 - **[Phantom Steed, Communal](phantom-steed-communal.md)**: As phantom steed, but you may divide the duration among creatures touched.
 - **[Rainbow Pattern](rainbow-pattern.md)**: Lights fascinate 24 HD of creatures.
@@ -190,6 +195,7 @@
 - **[Shout](shout.md)**: Deafens all within cone and deals 5d6 sonic damage.
 - **[Speak with Plants](speak-with-plants.md)**: You can talk to plants and plant creatures.
 - **[Summon Monster IV](summon-monster-iv.md)**: Summons extraplanar creature to fight for you.
+- **[Truespeak](truespeak.md)**: You can communicate with any creature that is not mindless.
 - **[Vigilant Rest](vigilant-rest.md)**: Cause a sleeping creature to retain some perception of its surroundings.
 - **[Zone of Silence](zone-of-silence.md)**: Keeps eavesdroppers from overhearing you.
 

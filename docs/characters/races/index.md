@@ -19,3 +19,24 @@ Three additional plant and fey races are available, each with its own archetypes
 - [Gathlains](gathlains.md): small winged fey grown from the seeds of an enormous magical tree.
 - [Ghorans](ghorans.md): intelligent plants who regrow from a single seed.
 - [Vine Leshys](vine-leshys.md): free-willed leshys born of nature spirits and twisted vines.
+
+## Advanced Race Guide Featured Races
+
+Sixteen further races, each with alternate racial traits, favored class options, archetypes, equipment, feats, spells and magic items:
+
+- [Aasimars](aasimars.md)
+- [Catfolk](catfolk.md)
+- [Dhampirs](dhampirs.md)
+- [Drow](drow.md)
+- [Fetchlings](fetchlings.md)
+- [Goblins](goblins.md)
+- [Hobgoblins](hobgoblins.md)
+- [Ifrits](ifrits.md)
+- [Kobolds](kobolds.md)
+- [Orcs](orcs.md)
+- [Oreads](oreads.md)
+- [Ratfolk](ratfolk.md)
+- [Sylphs](sylphs.md)
+- [Tengus](tengus.md)
+- [Tieflings](tieflings.md)
+- [Undines](undines.md)

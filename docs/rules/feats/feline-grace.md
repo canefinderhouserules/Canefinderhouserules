@@ -1,0 +1,7 @@
+# Feline Grace
+
+Your innate grace allows you to get out of the stickiest situations.
+
+**Prerequisites**: Dexterity 13, catfolk.
+
+**Benefit**: You gain a +2 bonus to your CMD against bull rush, grapple, overrun, repositioning, and trip combat maneuvers.

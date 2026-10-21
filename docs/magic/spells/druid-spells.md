@@ -21,6 +21,7 @@
 - **[Air Bubble](air-bubble.md)**: Creates a small pocket of air around your head or an object.
 - **[Calm Animals](calm-animals.md)**: Calms 2d4 + level HD of animals.
 - **[Charm Animal](charm-animal.md)**: Makes one animal your friend.
+- **[Commune with Birds](commune-with-birds.md)**: You utter a question in the form of a low-pitched bird call that can be heard up to a mile away, and can.
 - **[Cure Light Wounds](cure-light-wounds.md)**: Cures 1d8 damage + 1/level (max +5).
 - **[Damp Powder](damp-powder.md)**: Ruins ammunition loaded in the targeted firearm.
 - **[Deadeye’s Lore](deadeyes-lore.md)**: Gain a +4 bonus on Survival and move full speed while tracking.
@@ -38,15 +39,23 @@
 - **[Longstrider](longstrider.md)**: Your speed increases by 10 ft.
 - **[Magic Fang](magic-fang.md)**: One natural weapon of subject creature gets +1 on attack and damage rolls.
 - **[Magic Stone](magic-stone.md)**: Three stones gain +1 on attack rolls, deal 1d6+1 damage.
+- **[Marid’s Mastery](marid-s-mastery.md)**: School transmutation [water]; Level cleric 1, druid 1, ranger 1, sorcerer/wizard 1, witch 1 Casting Time 1.
+- **[Mighty Fist of the Earth](mighty-fist-of-the-earth.md)**: You create a fist-sized rock that flies toward one enemy.
+- **[Mudball](mudball.md)**: When you cast this spell, you conjure a single ball of sticky mud and launch it at an enemy’s face as a.
+- **[Nereid’s Grace](nereid-s-grace.md)**: You radiate the unearthly grace of a nereid.
 - **[Obscuring Mist](obscuring-mist.md)**: Fog surrounds you.
 - **[Pass without Trace](pass-without-trace.md)**: One subject/level leaves no tracks.
 - **[Produce Flame](produce-flame.md)**: 1d6 damage + 1/level, touch or thrown.
 - **[Shillelagh](shillelagh.md)**: Cudgel or quarterstaff becomes +1 weapon (2d6 damage) for 1 min./level.
 - **[Snowball](snowball.md)**: Throw a conjured ball of snow at a target.
 - **[Speak with Animals](speak-with-animals.md)**: You can communicate with animals.
+- **[Stone Shield](stone-shield.md)**: A 1-inch-thick slab of stone springs up from the ground, interposing itself between you and an opponent of.
 - **[Summon Nature’s Ally I](summon-natures-ally-i.md)**: Summons creature to fight.
+- **[Touch of Combustion](touch-of-combustion.md)**: Your successful melee touch attack causes the target to ignite in a violent burst of flame, dealing 1d6.
 - **[Wave Shield](wave-shield.md)**: Water blunts one incoming attack or fire effect.
 - **[Weaken Powder](weaken-powder.md)**: Targeted firearm’s ammunition halves the firearm’s range and imposes a –2 penalty on damage rolls.
+- **[Windy Escape](windy-escape.md)**: You respond to an attack by briefly becoming vaporous and insubstantial, allowing the attack to pass.
+- **[Winter Feathers](winter-feathers.md)**: School abjuration; Level cleric 1, druid 1, inquisitor 1, ranger 1, sorcerer/wizard 1 Casting Time 1 standard.
 
 ## 2nd-Level Druid Spells
 
@@ -58,10 +67,12 @@
 - **[Aquatic Cavalry](aquatic-cavalry.md)**: Summon hippocampi to serve as aquatic mounts.
 - **[Barkskin](barkskin.md)**: Grants +2 (or higher) enhancement to natural armor.
 - **[Bear’s Endurance](bears-endurance.md)**: Subject gains +4 to Con for 1 min./level.
+- **[Binding Earth](binding-earth.md)**: If the target of this spell fails its Fortitude save, areas of earth and stone floor act as a snapping.
 - **[Bull’s Strength](bulls-strength.md)**: Subject gains +4 to Str for 1 min./level.
 - **[Cat’s Grace](cats-grace.md)**: Subject gains +4 to Dex for 1 min./level.
 - **[Certain Grip](certain-grip.md)**: You gain a +4 competence bonus on Acrobatics and Climb checks and to CMD.
 - **[Chill Metal](chill-metal.md)**: Cold metal damages those who touch it.
+- **[Delay Disease](delay-disease.md)**: The target becomes temporarily immune to disease.
 - **[Delay Poison](delay-poison.md)**: Stops poison from harming subject for 1 hour/level.
 - **[Endure Elements, Communal](endure-elements-communal.md)**: As endure elements, but you may divide the duration among creatures touched.
 - **[Fire Trap](fire-trap.md)**: Opened object deals 1d4 + 1/level damage.
@@ -70,9 +81,11 @@
 - **[Fog Cloud](fog-cloud.md)**: Fog obscures vision.
 - **[Forest Friend](forest-friend.md)**: Plants in a forested area become helpful instead of hindering you and your allies.
 - **[Frost Fall](frost-fall.md)**: The area is covered in a chilling frost.
+- **[Fury of the Sun](fury-of-the-sun.md)**: You curse the target to suffer unbearable heat.
 - **[Grasping Vine](grasping-vine.md)**: A vine from your body manipulates objects within 20 ft.
 - **[Greensight](greensight.md)**: Grant a target the ability to see through plant matter as if it were transparent.
 - **[Gust of Wind](gust-of-wind.md)**: Blows away or knocks down smaller creatures.
+- **[Gusting Sphere](gusting-sphere.md)**: School evocation [air]; Level druid 2, magus 2, sorcerer/wizard 2 Casting Time 1 standard action Components V.
 - **[Heat Metal](heat-metal.md)**: Makes metal so hot it damages those who touch it.
 - **[Hold Animal](hold-animal.md)**: Paralyzes one animal for 1 round/level.
 - **[Owl’s Wisdom](owls-wisdom.md)**: Subject gains +4 to Wis for 1 min./level.
@@ -83,8 +96,10 @@
 - **[Scamper](scamper.md)**: Grant your animal companion astonishing agility.
 - **[Sea Steed](sea-steed.md)**: Your mount adapts to an aquatic environment.
 - **[Seed Spies](seed-spies.md)**: Wafting seeds act as spies, as insect spies.
+- **[Sickening Strikes](sickening-strikes.md)**: You are imbued with disease, and any creature you strike with a melee attack must make a Fortitude save or be.
 - **[Soften Earth and Stone](soften-earth-and-stone.md)**: Turns stone to clay, or dirt to sand or mud.
 - **[Spider Climb](spider-climb.md)**: Grants ability to walk on walls and ceilings.
+- **[Steal Breath](steal-breath.md)**: You pull the breath from a creature’s lungs, dealing damage and leaving it unable to speak, use breath.
 - **[Summon Nature’s Ally II](summon-natures-ally-ii.md)**: Summons creature to fight.
 - **[Summon Swarm](summon-swarm.md)**: Summons swarm of bats, rats, or spiders.
 - **[Tree Shape](tree-shape.md)**: You look exactly like a tree for 1 hour/level.
@@ -103,6 +118,7 @@
 - **[Apport Animal](apport-animal.md)**: Send or receive a Tiny or smaller animal via teleportation.
 - **[Aversion](aversion.md)**: Cause the target to avoid an object or location.
 - **[Bleed for Your Master](bleed-for-your-master.md)**: Compel a companion to take damage for you.
+- **[Blood Scent](blood-scent.md)**: School transmutation; Level alchemist 3, antipaladin 2, cleric 3, druid 3, inquisitor 3, ranger 2.
 - **[Call Lightning](call-lightning.md)**: Calls down lightning bolts (3d6 per bolt) from sky.
 - **[Companion Mind Link](companion-mind-link.md)**: You can talk with your animal companion, and can handle it with supernatural ease.
 - **[Contagion](contagion.md)**: Infects subject with chosen disease.
@@ -114,17 +130,20 @@
 - **[Earth Tremor](earth-tremor.md)**: Unleash a tremor that creates difficult terrain and can knock foes down and damage them.
 - **[Fey Form I](fey-form-i.md)**: Assume the form of a Small or Medium fey creature.
 - **[Flashfire](flashfire.md)**: Cause smoky fires to spring up to burn foes and set them alight.
+- **[Improve Trap](improve-trap.md)**: When this spell is cast upon a trap, it improves one specific element of the trap chosen at the time of.
 - **[Iron Stake](iron-stake.md)**: Hurl a spike of cold iron at a foe.
 - **[Leshy Swarm](leshy-swarm.md)**: Summon a swarm of Tiny leshys.
 - **[Magic Fang, Greater](magic-fang-greater.md)**: One natural weapon gets + 1/four levels (max +5).
 - **[Meld into Stone](meld-into-stone.md)**: You and your gear merge with stone.
 - **[Mirage](mirage.md)**: Create illusory terrain.
 - **[Neutralize Poison](neutralize-poison.md)**: Immunizes subject against poison, detoxifies venom in or on subject.
+- **[Nixie’s Lure](nixie-s-lure.md)**: This spell creates an unearthly and infectious song that seductively summons all who hear it.
 - **[Plant Growth](plant-growth.md)**: Grows vegetation, improves crops.
 - **[Poison](poison.md)**: Touch deals 1d3 Con damage 1/round for 6 rounds.
 - **[Protection from Energy](protection-from-energy.md)**: Absorbs 12 points/level of damage from one kind of energy.
 - **[Pup Shape](pup-shape.md)**: Transforms a single animal or magical beast into a younger and cuter version of itself for a short time.
 - **[Quench](quench.md)**: Extinguishes fires.
+- **[Raging Rubble](raging-rubble.md)**: You animate an area of rubble, gravel, or other small stones, creating a dangerous, rolling area of debris.
 - **[Remove Disease](remove-disease.md)**: Cures all diseases affecting subject.
 - **[Resinous Skin](resinous-skin.md)**: You gain DR 5/piercing and +4 to CMD against disarm attempts.
 - **[Resist Energy, Communal](resist-energy-communal.md)**: As resist energy, but you may divide the duration among creatures touched.
@@ -147,9 +166,11 @@
 ## 4th-Level Druid Spells
 
 - **[Absorb Toxicity](absorb-toxicity.md)**: You become immune to diseases and toxins, absorb one, and then spread it to others.
+- **[Absorbing Inhalation](absorbing-inhalation.md)**: You grant your lungs inhuman strength and capacity, allowing you to harmlessly and completely inhale one gas.
 - **[Air Walk](air-walk.md)**: Subject treads on air as if solid (climb or descend at 45-degree angle).
 - **[Antiplant Shell](antiplant-shell.md)**: Keeps animated plants at bay.
 - **[Blight](blight.md)**: Withers one plant or deals 1d6/level damage to plant creature.
+- **[Cloud Shape](cloud-shape.md)**: This spell functions like gaseous form, except you assume the shape of a Colossal cloud with a space of 30.
 - **[Command Plants](command-plants.md)**: Sways the actions of plant creatures.
 - **[Control Water](control-water.md)**: Raises or lowers bodies of water.
 - **[Cure Serious Wounds](cure-serious-wounds.md)**: Cures 3d8 damage + 1/level (max +15).
@@ -159,6 +180,7 @@
 - **[Forest’s Sense](forests-sense.md)**: Sense the location of a distant target that is near a plant or fungus.
 - **[Freedom of Movement](freedom-of-movement.md)**: Subject moves normally despite impediments to movement.
 - **[Giant Vermin](giant-vermin.md)**: Turns centipedes, scorpions, or spiders into giant vermin.
+- **[Healing Warmth](healing-warmth.md)**: This spell grants you temporary immunity to fire damage as protection from energy.
 - **[Ice Storm](ice-storm.md)**: Hail deals 5d6 damage in cylinder 40 ft. across.
 - **[Obsidian Flow](obsidian-flow.md)**: Converts the surface of the ground into molten glass. Spells 6 Protection from Energy, Communal: As protection from energy, but you may divide the duration among creatures touched.
 - **[Reincarnate](reincarnate.md)**: Brings dead subject back in a random body.
@@ -200,11 +222,13 @@
 - **[Wall of Fire](wall-of-fire.md)**: Deals 2d4 fire damage out to 10 ft. and 1d4 out to 20 ft. Passing through wall deals 2d6 damage +1/level.
 - **[Wall of Thorns](wall-of-thorns.md)**: Thorns damage anyone who tries to pass.
 - **[Whip of Centipedes](whip-of-centipedes.md)**: As whip of spiders, but with centipedes.
+- **[Wind Blades](wind-blades.md)**: You harden the air around the target into jagged invisible blades that deal damage based on how fast the.
 
 ## 6th-Level Druid Spells
 
 - **[Antilife Shell](antilife-shell.md)**: 10-ft.-radius field hedges out living creatures.
 - **[Bear’s Endurance, Mass](bears-endurance-mass.md)**: As *bear’s endurance*, affects 1 subject/level.
+- **[Binding Earth, Mass](binding-earth-mass.md)**: School transmutation [earth]; Level druid 6, witch 6 Target one creature or object/level, no two of which can.
 - **[Bull’s Strength, Mass](bulls-strength-mass.md)**: As *bull’s strength*, affects 1 subject/level.
 - **[Cat’s Grace, Mass](cats-grace-mass.md)**: As *cat’s grace*, affects one subject/level.
 - **[Cure Light Wounds, Mass](cure-light-wounds-mass.md)**: Cures 1d8 damage + 1/level, affects 1 subject/level.
@@ -217,6 +241,7 @@
 - **[Liveoak](liveoak.md)**: Oak becomes treant guardian.
 - **[Move Earth](move-earth.md)**: Digs trenches and builds hills.
 - **[Owl’s Wisdom, Mass](owls-wisdom-mass.md)**: As *owl’s wisdom*, affects 1 subject/level.
+- **[Path of the Winds](path-of-the-winds.md)**: With a sweeping gesture, you call forth mighty winds to clear a path ahead of you.
 - **[Primal Regression](primal-regression.md)**: Make a creature become bestial and unintelligent.
 - **[Repel Wood](repel-wood.md)**: Pushes away wooden objects.
 - **[Spellstaff](spellstaff.md)**: Stores one spell in wooden quarterstaff.

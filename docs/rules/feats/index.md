@@ -1267,6 +1267,109 @@ The style feats presented in this book are suited for those who have learned to 
 | [Wood Crafter](wood-crafter.md) | — | Craft (armor) 3 ranks, Knowledge (nature) 3 ranks |
 | [Woodland Wraith](woodland-wraith.md) | Combat | Dex 15, Dodge, base attack bonus +6 |
 
+## Advanced Race Guide Feats
+
+Racial feats from the *Advanced Race Guide*. Each feat lists the race it requires; at the GM's discretion, other appropriate races may use some of them.
+
+| Feat | Type | Prerequisites |
+|---|---|---|
+| [Airy Step](airy-step.md) | — | Sylph |
+| [Angel Wings](angel-wings.md) | — | Angelic Blood, aasimar, character level 10th |
+| [Angelic Blood](angelic-blood.md) | — | Con 13, aasimar |
+| [Angelic Flesh](angelic-flesh.md) | — | Angelic Blood, aasimar |
+| [Aquatic Ancestry](aquatic-ancestry.md) | — | Undine |
+| [Armor of the Pit](armor-of-the-pit.md) | — | Tiefling |
+| [Black Cat](black-cat.md) | — | Catfolk |
+| [Blazing Aura](blazing-aura.md) | Combat | Inner Flame, Scorching Weapons, character level 13th, ifrit |
+| [Blistering Feint](blistering-feint.md) | Combat | Combat Expertise, Improved Feint, ifrit |
+| [Blood Beak](blood-beak.md) | Combat | Base attack bonus +5, natural weapon racial trait, tengu |
+| [Blood Drinker](blood-drinker.md) | — | Dhampir |
+| [Blood Feaster](blood-feaster.md) | — | Blood Drinker, base attack bonus +6, dhampir |
+| [Blood Salvage](blood-salvage.md) | — | Blood Drinker, dhampir |
+| [Born Alone](born-alone.md) | — | Orc |
+| [Bullying Blow](bullying-blow.md) | Combat | Intimidate 1 rank, orc |
+| [Burn! Burn! Burn!](burn-burn-burn.md) | — | Disable Device 1 rank, goblin |
+| [Burrowing Teeth](burrowing-teeth.md) | — | Sharpclaw, Tunnel Rat, ratfolk |
+| [Carrion Feeder](carrion-feeder.md) | — | Tengu |
+| [Catfolk Exemplar](catfolk-exemplar.md) | — | Catfolk |
+| [Celestial Servant](celestial-servant.md) | — | Aasimar, animal companion, familiar, or mount class feature |
+| [Channel Force](channel-force.md) | — | Aasimar, channel energy 2d6 |
+| [Claw Pounce](claw-pounce.md) | Combat | Str 13, Dex 15, Nimble Striker, base attack bonus +10, catfolk, cat’s claws racial trait or Aspect of the Beast (claws of the beast manifestation) |
+| [Cloud Gazer](cloud-gazer.md) | — | Sylph |
+| [Dark Sight](dark-sight.md) | — | Gloom Sight, fetchling |
+| [Deafening Explosion](deafening-explosion.md) | — | Bomb class feature, hobgoblin |
+| [Demoralizing Lash](demoralizing-lash.md) | Combat | Base attack bonus +1, Intimidate 1 rank, hobgoblin |
+| [Diverse Palate](diverse-palate.md) | — | Blood Drinker, dhampir |
+| [Draconic Aspect](draconic-aspect.md) | — | Kobold |
+| [Draconic Breath](draconic-breath.md) | — | Draconic Aspect, kobold |
+| [Draconic Glide](draconic-glide.md) | — | Draconic Aspect, kobold |
+| [Draconic Paragon](draconic-paragon.md) | — | Draconic Aspect, either Draconic Breath or Draconic Glide, character level 10th, kobold |
+| [Drow Nobility](drow-nobility.md) | — | Able to use drow spell-like abilities, drow |
+| [Dwarf Blooded](dwarf-blooded.md) | — | Oread |
+| [Echoes of Stone](echoes-of-stone.md) | — | Oread |
+| [Elemental Jaunt](elemental-jaunt.md) | — | Character level 15th, ifrit, oread, sylph, or undine |
+| [Expanded Fiendish Resistance](expanded-fiendish-resistance.md) | — | Tiefling |
+| [Feline Grace](feline-grace.md) | — | Dexterity 13, catfolk |
+| [Ferocious Action](ferocious-action.md) | — | Ferocity racial trait, orc |
+| [Fiend Sight](fiend-sight.md) | — | Darkvision 60 ft., tiefling |
+| [Fire Hand](fire-hand.md) | Combat | Goblin |
+| [Fire Tamer](fire-tamer.md) | — | Goblin |
+| [Firesight](firesight.md) | — | Ifrit |
+| [Flame Heart](flame-heart.md) | — | Fire Tamer, character level 5th, goblin |
+| [Focusing Blow](focusing-blow.md) | Teamwork | Hobgoblin Discipline, hobgoblin |
+| [Foment the Blood](foment-the-blood.md) | — | Channel energy class feature, orc |
+| [Gloom Sight](gloom-sight.md) | — | Fetchling |
+| [Gloom Strike](gloom-strike.md) | Combat | Blind-Fight, fetchling |
+| [Goblin Gunslinger](goblin-gunslinger.md) | Combat | Goblin |
+| [Grasping Tail](grasping-tail.md) | — | Tiefling |
+| [Greater Channel Force](greater-channel-force.md) | — | Channel Force, Improved Channel Force, aasimar, channel energy 6d6 |
+| [Greater Drow Nobility](greater-drow-nobility.md) | — | Cha 13, Drow Nobility, Improved Drow Nobility, able to use drow spell-like abilities, drow |
+| [Grudge Fighter](grudge-fighter.md) | Combat | Orc |
+| [Heavenly Radiance](heavenly-radiance.md) | — | Aasimar, *daylight* spell-like ability, sufficiently high level (see below) |
+| [Hobgoblin Discipline](hobgoblin-discipline.md) | — | Base attack bonus +1, hobgoblin |
+| [Hydraulic Maneuver](hydraulic-maneuver.md) | — | *Hydraulic push* spell-like ability, undine |
+| [Improved Channel Force](improved-channel-force.md) | — | Channel Force, aasimar, channel energy 4d6 |
+| [Improved Dark Sight](improved-dark-sight.md) | — | Dark Sight, Gloom Sight, fetchling |
+| [Improved Drow Nobility](improved-drow-nobility.md) | — | Cha 13, Drow Nobility, able to use drow spell-like abilities, drow |
+| [Improved Umbral Scion](improved-umbral-scion.md) | — | Cha 13, Wis 13, Drow Nobility, Greater Drow Nobility, Improved Drow Nobility, Umbral Scion, able to use drow spell-like abilities, drow |
+| [Inner Breath](inner-breath.md) | — | Character level 11th, sylph |
+| [Inner Flame](inner-flame.md) | Combat | Scorching Weapons, character level 7th, ifrit |
+| [Kobold Ambusher](kobold-ambusher.md) | Combat | Stealth 4 ranks, kobold |
+| [Kobold Sniper](kobold-sniper.md) | Combat | Stealth 1 rank, kobold |
+| [Long-Nose Form](long-nose-form.md) | — | Character level 3rd, tengu |
+| [Metallic Wings](metallic-wings.md) | — | Angelic Blood, Angelic Flesh, Angel Wings, aasimar, character level 11th |
+| [Murmurs of Earth](murmurs-of-earth.md) | — | Echoes of Stone, character level 9th, oread |
+| [Natural Charmer](natural-charmer.md) | — | Cha 17, dhampir |
+| [Nimble Striker](nimble-striker.md) | Combat | Dex 13, base attack bonus +1, catfolk, sprinter racial trait |
+| [Noble Spell Resistance](noble-spell-resistance.md) | — | Cha 13, Wis 13, Greater Drow Nobility, character level 13th, drow |
+| [Orc Weapon Expertise](orc-weapon-expertise.md) | Combat | Base attack bonus +1, orc |
+| [Oread Burrower](oread-burrower.md) | — | Stony Step, character level 9th, oread |
+| [Oread Earth Glider](oread-earth-glider.md) | — | Oread Burrower, Stony Step, character level 13th, oread |
+| [Resolute Rager](resolute-rager.md) | — | Orc, rage class feature |
+| [Reverse-Feint](reverse-feint.md) | Combat | Toughness, base attack bonus +1, orc |
+| [Scavenger’s Eye](scavenger-s-eye.md) | — | Tengu |
+| [Scorching Weapons](scorching-weapons.md) | Combat | Ifrit |
+| [Shadow Caster](shadow-caster.md) | — | Caster level 1st, drow |
+| [Shadow Ghost](shadow-ghost.md) | — | Fetchling, *shadow walk* spell-like ability |
+| [Shadow Walker](shadow-walker.md) | — | Fetchling, *shadow walk* spell-like ability |
+| [Sharpclaw](sharpclaw.md) | Combat | Ratfolk |
+| [Spider Step (Drow)](spider-step-drow.md) | — | Character level 3rd, drow |
+| [Spider Summoner](spider-summoner.md) | — | Ability to cast *summon monster* or *summon nature’s ally* spells, drow |
+| [Steam Caster](steam-caster.md) | — | Undine |
+| [Stony Step](stony-step.md) | — | Oread |
+| [Tail Terror](tail-terror.md) | Combat | Base attack bonus +1, kobold |
+| [Tangle Feet](tangle-feet.md) | Combat | Dodge, Mobility, Underfoot, goblin, Small size or smaller |
+| [Taskmaster](taskmaster.md) | Combat | Demoralizing Lash, Intimidate 5 ranks, hobgoblin |
+| [Tengu Raven Form](tengu-raven-form.md) | — | Tengu Wings, character level 7th, tengu |
+| [Tengu Wings](tengu-wings.md) | — | Character level 5th, tengu |
+| [Terrorizing Display](terrorizing-display.md) | Combat | Dazzling Display, Demoralizing Lash, Taskmaster, Weapon Focus, Intimidate 10 ranks, hobgoblin, proficiency with selected weapon |
+| [Trap Wrecker](trap-wrecker.md) | — | Power Attack, Disable Device 1 rank, orc |
+| [Triton Portal](triton-portal.md) | — | Character level 5th, *hydraulic push* spell-like ability, undine |
+| [Tunnel Rat](tunnel-rat.md) | — | Ratfolk, swarming racial trait |
+| [Umbral Scion](umbral-scion.md) | — | Cha 13, Wis 13, Drow Nobility, Greater Drow Nobility, Improved Drow Nobility, able to use drow spell-like abilities, drow |
+| [Water Skinned](water-skinned.md) | — | Undine |
+| [Wings of Air](wings-of-air.md) | — | Airy Step, character level 9th, sylph |
+
 ## Story Feats
 
 Story feats from *Ultimate Campaign* reflect a goal that shapes your character's life. They are collected on a single page: [Story Feats](story-feats.md).

@@ -11,6 +11,7 @@ New summoner spells from *Ultimate Magic*. Spells from other books will be added
 - **[Life Conduit](life-conduit.md)**: You are bound even tighter to your eidolon than normal, and may share hit points with it through your life link ability.
 - **[Ray of Sickening](ray-of-sickening.md)**: Ray makes the subject sickened.
 - **[Snowball](snowball.md)**: Throw a conjured ball of snow at a target.
+- **[Stone Shield](stone-shield.md)**: A 1-inch-thick slab of stone springs up from the ground, interposing itself between you and an opponent of.
 - **[Summon Minor Monster](summon-minor-monster.md)**: Summon 1d3 Tiny animals.
 
 ## 2nd-Level Summoner Spells
@@ -47,11 +48,14 @@ New summoner spells from *Ultimate Magic*. Spells from other books will be added
 - **[Resist Energy, Communal](resist-energy-communal.md)**: As resist energy, but you may divide the duration among creatures touched.
 - **[Restore Eidolon](restore-eidolon.md)**: Restoration for an eidolon.
 - **[Spider Climb, Communal](spider-climb-communal.md)**: As spider climb, but you may divide the duration among creatures touched.
+- **[Vomit Twin](vomit-twin.md)**: Upon casting this spell, you vomit forth a disgusting ooze copy of yourself into a single adjacent square.
 
 ## 4th-Level Summoner Spells
 
+- **[Damnation Stride](damnation-stride.md)**: This spell functions like dimension door, except you leave behind a burst of fire.
 - **[Daze, Mass](daze-mass.md)**: As daze, but affecting multiple creatures.
 - **[Hostile Juxtaposition](hostile-juxtaposition.md)**: You create a dimensional link with a targeted creature, and switch spots with it.
+- **[Nixie’s Lure](nixie-s-lure.md)**: This spell creates an unearthly and infectious song that seductively summons all who hear it.
 - **[Protection from Energy, Communal](protection-from-energy-communal.md)**: As protection from energy, but you may divide the duration among creatures touched.
 - **[Riding Possession](riding-possession.md)**: As possession, but you observe instead of control the subject.
 - **[Stoneskin, Communal](stoneskin-communal.md)**

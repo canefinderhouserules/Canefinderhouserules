@@ -465,3 +465,21 @@ Wilderness wardens are vigilant guardians of natural places of all kinds, from m
 **Aura of Purity (Su)**: At 8th level, a wilderness warden gains immunity to poison. Each ally within 10 feet gains a +2 bonus on saving throws against disease and poison. This replaces aura of resolve.
 
 **Natural Shield (Su)**: At 11th level, a wilderness warden can expend two daily uses of her natural defense ability to grant the benefits of that ability to all nonevil allies within 10 feet for 1 minute. This replaces aura of justice.
+
+## Tranquil Guardian
+
+A tranquil guardian is a missionary of peace and tranquility, a soothing voice of succor in a violent and dangerous world. A tranquil guardian gains the following class features.
+
+**Touch of Serenity (Su)**: At 1st level, a tranquil guardian gains Touch of Serenity as a bonus feat, even if she does not meet the prerequisites. At 6th level, and every six levels thereafter, the duration of a tranquil guardian’s Touch of Serenity increases by 1 round. Each round on its turn, the target may attempt a new Will save to end the effect. The duration does not stack; only the longest remaining duration applies. This ability replaces smite evil.
+
+**Serene Strike (Su)**: At 3rd level, when a tranquil guardian confirms a critical hit, she may convert all damage from her attack to nonlethal damage, and when she does, she can activate Touch of Serenity through her weapon or unarmed strike. Using serene strike is a free action. This ability replaces aura of courage.
+
+**Divine Bond (Su)**: A tranquil guardian who chooses a weapon as her divine bond may only increase her weapon’s enhancement bonus or add the following properties to her weapon: *conductive**, defending, disruptive, grayflame**,* or *merciful*.
+
+**Aura of Calm (Su)**: At 8th level, a tranquil guardian is immune to all spells and spell-like abilities with the emotion descriptor, as well as all fear effects. Each ally within 10 feet of her gains a +4 morale bonus on saving throws against these effects.
+
+This ability functions only while the tranquil guardian is conscious, not if she is unconscious or dead. This ability replaces aura of resolve.
+
+**Waves of Peace (Su)**: At 11th level, a tranquil guardian may expend 2 uses of her Touch of Serenity to affect each opponent within 5 feet of her with that effect. She does not need to touch the creature for the effect to take hold. This ability replaces aura of justice.
+
+**Apostle of Peace (Su)**: At 20th level, a tranquil guardian’s DR increases to 10/evil, and whenever she channels positive energy or uses lay on hands to heal, she heals the maximum possible amount. In addition, any creature struck by her Touch of Serenity, even if it saves, must make an additional Will save (DC 10 + 1/2 her tranquil guardian level + her Charisma modifier) the next time it tries to attack. If it fails this save, the attack (including spells or special abilities) automatically fails. This ability replaces holy champion.

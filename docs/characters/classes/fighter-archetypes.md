@@ -562,3 +562,33 @@ Vikings seek to raid “softer societies” and return with their longships fill
 **Tribal**: Club, dagger, greatclub, handaxe, heavy shield, light shield, shortspear, spear, throwing axe, and unarmed strike. her fighter level as her barbarian level for the purposes of determining her rounds of rage, qualifying for rage powers, and determining the effects of rage powers. This replaces weapon training.
 
 **Rage Powers (Ex)**: At 6th level, whenever a viking gains a fighter bonus feat, she can instead gain a single rage power, as the barbarian class feature, in place of the bonus feat. Once selected, these rage powers cannot be changed. This alters the fighter’s bonus feats.
+
+## Cavern Sniper
+
+Perfectly at home in the darkness, the cavern sniper capitalizes on stealth and ranged attacks imbued with his spell-like abilities to harass his opponents. The cavern sniper focuses on surprise, his innate magical abilities, and poison to take down unwary foes. The cavern sniper has the following class features.
+
+**Class Skills**: The cavern sniper adds Stealth to his list of class skills and removes Intimidate from his list of class skills.
+
+**Imbued Shot (Su)**: At 1st level, the cavern sniper gains the ability to imbue his arrows or bolts with the effect of one of his drow *faerie fire*, *darkness*, or *deeper darkness* spell-like abilities (provided he has access to the ability) as a swift action. When such an arrow or bolt is fired, the spell’s area is centered where the arrow or bolt lands. If the target of the attack has a space larger than 5 feet, the cavern sniper can choose which square of the creature’s space is the center of the spell-like ability’s effect, as long as that square is within line of sight of the cavern sniper. The cavern sniper can instead choose to target a single square within line of sight with an imbued arrow or bolt, and uses that square as the center of the spell-like ability’s area of effect on a hit (AC 5). The arrow must be fired during the round it was imbued, or the spell-like ability is wasted. If the arrow or bolt misses, the use of the spell-like ability is wasted. This ability replaces the 1st-level fighter bonus feat.
+
+**Silent Shooter (Ex)**: At 2nd level, a cavern sniper gains a +2 bonus on Stealth checks made when loading a bow or crossbow, poisoning ammunition, and making sniping attempts. This bonus increases by +2 for every four levels beyond 2nd. This ability replaces bravery.
+
+**Quick and Deadly (Ex)**: At 4th level, the cavern sniper can move at full speed while using Stealth at no penalty and can apply poison to a single arrow or crossbow bolt as a swift action. This ability replaces the 4th-level fighter bonus feat.
+
+**Sniper Training (Ex)**: At 5th level, the cavern sniper chooses the bow or crossbow weapon group and gains a +2 bonus on attack rolls and damage rolls. This bonus increases by +1 for every four levels beyond 5th. This ability replaces weapon training 1, 3, and 4.
+
+**Greater Imbued Shot (Su)**: At 9th level, the cavern sniper gains two extra uses of both his *faerie fire* and *darkness* spell-like abilities, but can only use these extra uses to imbue arrows and bolts with the imbued shot class feature. This ability replaces weapon training 2.
+
+**Weapon Mastery (Ex)**: At 20th level, when the cavern sniper gains weapon mastery, he must choose a weapon in either the bow or crossbow weapon group.
+
+## Dirty Fighter
+
+The dirty fighter laughs at concepts like honor and fair play. He cares only for victory, no matter how he achieves it, and spends as much time mastering sneaky combat maneuvers as he does drilling with weapons or learning how to wear armor. A dirty fighter has the following class features.
+
+**Sidestep (Ex)**: At 2nd level, a dirty fighter learns how to evade his enemies when they react to his combat maneuvers. He gains a +1 dodge bonus to his AC against attacks of opportunity provoked by him while attempting a combat maneuver. This bonus increases by +1 for every four levels beyond 2nd level. This ability replaces bravery.
+
+**Maneuver Training (Ex)**: At 5th level, a dirty fighter becomes a master of dirty tricks. He gains a +2 bonus on dirty trick combat maneuver checks and +2 to his CMD when he is the target of a dirty trick combat maneuver. This ability replaces weapon training 1.
+
+**Speedy Tricks (Ex)**: At 9th level, a dirty fighter has perfected how to quickly perform dirty tricks. He can make a dirty trick combat maneuver as an attack instead of a standard action. This ability replaces weapon training 2.
+
+**Double Tricks (Ex)**: At 13th level, when a dirty fighter performs a combat maneuver, he may apply two different conditions to his target instead of one. Each penalty condition requires a separate action to remove. At 17th level, he may apply three different conditions. This ability replaces weapon training 3 and 4.
