@@ -1585,3 +1585,102 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Unimpeachable Honor](unimpeachable-honor.md) | — | Iron Will |
 | [Walking Sleight](walking-sleight.md) | — | Deft Hands, Sleight of Hand 5 ranks |
 | [Willing Accomplice](willing-accomplice.md) | — | Cha 13, Bluff 3 ranks, Sense Motive 1 rank |
+
+## Horror Adventures Feats
+
+Feats from *Horror Adventures*, built around fear, madness, ritual and the undead. Each name links to its full description. A feat marked as a monster feat is normally meant for monsters, but with the GM’s permission a character who meets the prerequisites can take it.
+
+### Horror Style Feats
+
+The style feats presented in this book are fitting for creatures that delve into the depravities of horror. Each style is followed by its feat path.
+
+- **Brute Style**: This forceful style focuses on knocking opponents prone and then crushing them by treading heavily upon them. Adherents emulate the destructive and overwhelming power of brutish creatures. Feat path: [Brute Style](brute-style.md), [Brute Stomp](brute-stomp.md), [Brute Assault](brute-assault.md).
+- **Deadhand Style**: Adherents call to the restless and malevolent spirits of the dead to sow fear and bolster their own courage. Masters learn to drain the life essence of their enemies, reducing them to desiccated husks. Feat path: [Deadhand Style](deadhand-style.md), [Deadhand Initiate](deadhand-initiate.md), [Deadhand Master](deadhand-master.md).
+- **Kyton Style**: Adherents model themselves after kytons, and focus pain (and its inherent pleasures) into a strict, orderly discipline through which to channel their ki. They use a spiked chain as an instrument of control and defense. Feat path: [Kyton Style](kyton-style.md), [Kyton Shield](kyton-shield.md), [Kyton Cut](kyton-cut.md).
+- **Maddening Style**: Adherents channel the sanity-consuming power of the incomprehensible beings that dwell in the dark places between stars, and use these forces to defend against mental attacks and corrupt their opponents’ bodies and minds. Feat path: [Maddening Style](maddening-style.md), [Maddening Strike](maddening-strike.md), [Maddening Obliteration](maddening-obliteration.md).
+
+### Metamagic Spell-Like Abilities
+
+Some monster feats allow a creature to apply metamagic feat-like effects to its spell-like abilities. You can select a spell-like ability duplicating a spell with a level less than or equal to 1/2 the monster’s caster level (round down) – 1 or 2, depending on the ability. The table below summarizes these feats and what spell-like abilities they can affect by caster level.
+
+| Spell Level | Caster Level¹ | Caster Level² |
+|---|---|---|
+| 0 | 2nd | 4th |
+| 1st | 4th | 6th |
+| 2nd | 6th | 8th |
+| 3rd | 8th | 10th |
+| 4th | 10th | 12th |
+| 5th | 12th | 14th |
+| 6th | 14th | 16th |
+| 7th | 16th | 18th |
+| 8th | 18th | 20th |
+| 9th | 20th | — |
+
+¹ Bouncing, disruptive, intensified, lingering, or scarring ability.  
+² Fearsome, sickening, or traumatic ability.
+
+### Feat List
+
+| Feat | Type | Prerequisites |
+|---|---|---|
+| [Absorb Spirit](absorb-spirit.md) | — | Con 13, must have died at least once or been possessed by an undead creature |
+| [Aura Flare](aura-flare.md) | — | Cha 13; aura, aura of good, or aura of evil class feature; channel energy 4d6; strong or overwhelming good or evil aura |
+| [Blood Feast](blood-feast.md) | Combat, Monster | Bite attack |
+| [Blood Spurt](blood-spurt.md) | Combat | Base attack bonus +2, susceptibility to bleed damage |
+| [Bouncing Spell-Like Ability](bouncing-spell-like-ability.md) | Monster | Spell-like ability at caster level 4th or higher |
+| [Brutal Coup de Grace](brutal-coup-de-grace.md) | Combat | Dazzling Display, Weapon Focus, base attack bonus +5, proficiency with the selected weapon |
+| [Brute Assault](brute-assault.md) | Combat | Str 23, Int 13, Brute Stomp, Brute Style, Combat Reflexes, Improved Overrun, Improved Trip, Improved Unarmed Strike, Vicious Stomp, base attack bonus +10 |
+| [Brute Stomp](brute-stomp.md) | Combat | Str 19, Int 13, Brute Style, Combat Reflexes, Improved Overrun, Improved Trip, Improved Unarmed Strike, Vicious Stomp, base attack bonus +8 |
+| [Brute Style](brute-style.md) | Combat, Style | Str 15, Int 13, Combat Reflexes, Improved Overrun, Improved Trip, Improved Unarmed Strike, Vicious Stomp, base attack bonus +6 |
+| [Bully Breed](bully-breed.md) | — | Handle Animal 4 ranks, Intimidate 4 ranks, animal companion or mount class feature |
+| [Clarity of Pain](clarity-of-pain.md) | — | Con 13, Improved Iron Will, Iron Will |
+| [Consume Essence](consume-essence.md) | Combat, Monster | Base attack bonus +6; evil alignment; swallow whole universal monster ability; must be of the magical beast, outsider, or undead type |
+| [Contagious Spell](contagious-spell.md) | Metamagic | — |
+| [Deadhand Initiate](deadhand-initiate.md) | Combat | Wis 19, Deadhand Style, Improved Unarmed Strike, Knowledge (religion) 6 ranks, ki pool class feature, nongood alignment |
+| [Deadhand Master](deadhand-master.md) | Combat | Wis 23, Deadhand Initiate, Deadhand Style, Improved Unarmed Strike, Knowledge (religion) 14 ranks, ki pool class feature, nongood alignment |
+| [Deadhand Style](deadhand-style.md) | Combat, Style | Wis 15, Improved Unarmed Strike, Knowledge (religion) 4 ranks, ki pool class feature, nongood alignment |
+| [Disconcerting Knowledge](disconcerting-knowledge.md) | — | Bardic knowledge class ability or Knowledge domain, Knowledge (any two) 3 ranks each |
+| [Disrupting Fist](disrupting-fist.md) | Combat | Channel Smite, Improved Unarmed Strike, base attack bonus +9, channel positive energy 4d6 |
+| [Disruptive Spell-Like Ability](disruptive-spell-like-ability.md) | Monster | Spell-like ability at caster level 4th or higher |
+| [Enemy Cult](enemy-cult.md) | Story | See text |
+| [Engulf Horror](engulf-horror.md) | Combat, Monster | Engulf Revulsion; engulf or smother universal monster ability |
+| [Engulf Revulsion](engulf-revulsion.md) | Combat, Monster | Engulf or smother universal monster ability |
+| [Exorcising Mutilation](exorcising-mutilation.md) | — | Con 15, Clarity of Pain, Improved Iron Will, Iron Will |
+| [Exsanguinate](exsanguinate.md) | Combat, Monster | Blood drain universal monster ability, grab universal monster ability |
+| [Fear Eater](fear-eater.md) | — | Cha 13, Iron Will, have no immunity to fear effects |
+| [Fearsome Spell-Like Ability](fearsome-spell-like-ability.md) | Monster | Spell-like ability at caster level 6th or higher |
+| [Fleshwarper](fleshwarper.md) | Item Creation | Craft (alchemy) 5 ranks, Heal 5 ranks, evil alignment |
+| [Ghost Guide](ghost-guide.md) | Story | See text |
+| [Gruesome Shapechanger](gruesome-shapechanger.md) | Monster | Shapechanger subtype |
+| [Horrific Gorging](horrific-gorging.md) | Combat, Monster | Bite attack, Large or larger, swallow whole universal monster ability |
+| [Incorporeal Intuition](incorporeal-intuition.md) | — | Psychic Sensitivity or the ability to cast psychic spells, Spirit Sense |
+| [Intensified Spell-Like Ability](intensified-spell-like-ability.md) | Monster | Spell-like ability at caster level 4th or higher |
+| [Kyton Cut](kyton-cut.md) | Combat | Wis 17, Exotic Weapon Proficiency (spiked chain), Kyton Shield, Kyton Style, base attack bonus +8 or monk level 6th, Knowledge (planes) 3 ranks, ki pool class feature |
+| [Kyton Shield](kyton-shield.md) | Combat | Wis 15, Exotic Weapon Proficiency (spiked chain), Kyton Style, base attack bonus +5, Knowledge (planes) 3 ranks, ki pool class feature |
+| [Kyton Style](kyton-style.md) | Combat, Style | Wis 13, Exotic Weapon Proficiency (spiked chain), Knowledge (planes) 3 ranks, ki pool class feature |
+| [Latching Horror](latching-horror.md) | Combat, Monster | Attach universal monster ability |
+| [Lifeless Gaze](lifeless-gaze.md) | — | Iron Will, Bluff 5 ranks |
+| [Lingering Spell-Like Ability](lingering-spell-like-ability.md) | Monster | Spell-like ability at caster level 4th or higher |
+| [Maddening Obliteration](maddening-obliteration.md) | Combat | Wis 19, Cha 15, Improved Unarmed Strike, Maddening Strike, Maddening Style, Stunning Fist, Knowledge (arcana) 10 ranks, ki pool class feature, nongood alignment |
+| [Maddening Strike](maddening-strike.md) | Combat | Wis 17, Cha 13, Improved Unarmed Strike, Maddening Style, Stunning Fist, Knowledge (arcana) 8 ranks, ki pool class feature, nongood alignment |
+| [Maddening Style](maddening-style.md) | Combat, Style | Wis 15, Cha 11, Improved Unarmed Strike, Stunning Fist, Knowledge (arcana) 4 ranks, ki pool class feature, nongood alignment |
+| [Mutilating Ritualist](mutilating-ritualist.md) | — | Knowledge (arcana) 4 ranks, Knowledge (religion) 4 ranks, Spellcraft 4 ranks |
+| [Profane Studies](profane-studies.md) | — | Int 13, Knowledge (planes) 4 ranks, ability to cast a *summon monster* spell |
+| [Protector of the People](protector-of-the-people.md) | Story | See text |
+| [Purging Emesis](purging-emesis.md) | — | Great Fortitude |
+| [Putrid Summons](putrid-summons.md) | — | Spell Focus (conjuration); ability to cast *summon monster* or *summon nature’s ally* |
+| [Reach Spell-Like Ability](reach-spell-like-ability.md) | Monster | Spell-like ability at caster level 4th or higher |
+| [Sacrificial Adept](sacrificial-adept.md) | — | Knowledge (arcana) 4 ranks, Knowledge (planes) 4 ranks, Knowledge (religion) 4 ranks, Spellcraft 4 ranks, ability to cast 3rd-level spells, evil alignment |
+| [Sacrificial Ritualist](sacrificial-ritualist.md) | — | Mutilating Ritualist, Knowledge (arcana) 4 ranks, Knowledge (religion) 4 ranks, Spellcraft 4 ranks |
+| [Scarring Spell-Like Ability](scarring-spell-like-ability.md) | Monster | Spell-like ability at caster level 4th or higher |
+| [Shatter Control](shatter-control.md) | Combat | Channel positive energy 4d6 |
+| [Sickening Spell-Like Ability](sickening-spell-like-ability.md) | Monster | Spell-like ability at caster level 6th or higher |
+| [Skin Suit](skin-suit.md) | Monster | Int 7, undead creature that was originally humanoid |
+| [Spawnlink](spawnlink.md) | Monster | Int 13, create spawn monster ability |
+| [Spirit Speaker](spirit-speaker.md) | — | Cha 13, Con 13, Absorb Spirit, Diplomacy 5 ranks, must have died at least once or been possessed by an undead creature |
+| [Stubborn Curse](stubborn-curse.md) | — | Ability to cast a spell or spell-like ability with the curse descriptor, or a special ability with a curse effect |
+| [Touch of Evil](touch-of-evil.md) | — | Channel negative energy 6d6, evil alignment |
+| [Traumatic Spell-Like Ability](traumatic-spell-like-ability.md) | Monster | Spell-like ability at caster level 6th or higher |
+| [Twisted Love](twisted-love.md) | Story | See text |
+| [Unyielding Ferocity](unyielding-ferocity.md) | Combat | Con 19, ferocity |
+| [Zealous Mind](zealous-mind.md) | — | Iron Will, Unimpeachable Honor, lawful alignment |
