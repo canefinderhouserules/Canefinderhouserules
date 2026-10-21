@@ -70,9 +70,17 @@ Metamagic feats cannot be used with all spells. See the specific feat descriptio
 
 **Counterspelling Metamagic Spells**: Whether or not a spell has been enhanced by a metamagic feat does not affect its vulnerability to counterspelling or its ability to counterspell another spell (see Chapter 9).
 
+### Grit Feats
+
+Grit feats interact with the gunslinger’s grit class ability or the grit granted by the Amateur Gunslinger feat, usually by adding to her set of deeds. Sometimes these feats increase the number of grit points a character has or how that character regains grit points. Gunslingers can take grit feats as bonus feats.
+
 ### Panache Feats
 
 Panache feats interact with the swashbuckler’s panache class ability or the panache granted by the Amateur Swashbuckler feat. Swashbucklers can take panache feats as bonus feats.
+
+### Performance Feats
+
+Performance feats are used when you make a performance combat check, typically granting a special action that occurs when you make that check. Unless you have the Masterful Display feat, you can only apply the effect of one performance feat to each performance combat check you make.
 
 ### Stare Feats
 
@@ -85,6 +93,31 @@ Style feats are based on fighting styles suited to the brawler’s rough-and-tum
 - **Grabbing Style**: A wrestling and grappling style that favors powerful one-handed grabs, fast repositioning of those grabbed, and the ability to move and damage one or two opponents. Feat path: Grabbing Style, Grabbing Drag, Grabbing Master.
 - **Jabbing Style**: This style favors rapid punches and kicks, typically while the fighter circles her opponent. Many of these jabs land in the same general area or in debilitating areas of the body, delivering more pain and damage with each successive jab. Feat path: Jabbing Style, Jabbing Dancer, Jabbing Master.
 - **Pummeling Style**: Seemingly wild and powerful haymaker punches and extended kicks are the hallmark of this style. Deeply rooted in its martial philosophy is the concept that landing one powerful strike in the right area will send an opponent painfully sprawling. Feat path: Pummeling Style, Pummeling Bully, Pummeling Charge.
+
+### Unarmed Fighting Styles (Ultimate Combat)
+
+multiverse to find inspiration in battle. Countless monastic and contemplative orders have crafted intricate unarmed fighting styles based on the deadliness and grace of natural and supernatural creatures. Although many such fighting techniques were created by secretive orders, they have since spread to practitioners the world over.
+
+As a swift action, you can enter the stance employed by the fighting style a style feat embodies. Although you cannot use a style feat before combat begins, the style you are in persists until you spend a swift action to switch to a different combat style. You can use a feat that has a style feat as a prerequisite only while in the stance of the associated style. For example, if you have feats associated with Mantis Style and Tiger Style, you can use a swift action to adopt Tiger Style at the start of one turn, and then can use other feats that have Tiger Style as a prerequisite. By using another swift action at the start of your next turn, you could adopt Mantis Style and use other feats that have Mantis Style as a prerequisite.
+
+The styles that follow include specific feat paths — feats that complement each style.
+
+- **Boar Style**: A tribe of orcs who disdained the use of weapons originally developed this savage unarmed fighting style. They preferred to slaughter their enemies with their bare hands and teeth. Over the centuries, a variety of races have adopted the Boar Style, most notably goblinoids, ogres, and trolls. The objective of the Boar Style is to attack with as much viciousness and cruelty as possible in order to break enemy morale. Fanatical followers of the style use herbal and alchemical reagents to harden their nails and teeth, sometimes performing self-mutilating procedures that result in clawlike nails and sharpened teeth. *Feat path*: Boar Style, Boar Ferocity, Boar Shred.
+- **Crane Style**: Crane style focuses on defense and agile counterattacks. Practitioners are known for graceful, onelegged stances and folding arm techniques that mimic a crane’s enormous wings. *Feat path*: Crane Style, Crane Wing, Crane Riposte.
+- **Djinni Style**: Adherents to this style call on the spirits of storms to outmaneuver and outwit their opponents. Masters of the style can absorb and deflect electrical attacks while summoning peals of thunder to pummel their enemies. *Feat path*: Djinni Style, Djinni Spirit, Djinni Spin.
+- **Dragon Style**: Dragon style captures the overwhelming power, grace, and ferocity of dragons. Practitioners use acrobatic footwork and strong attacks to overwhelm foes. The deepest secrets of the style require imbibing alchemical tonics and deep meditations similar to the long sleeps of dragons. *Feat path*: Dragon Style, Dragon Ferocity, Dragon Roar.
+- **Earth Child Style**: A warrior cadre of dwarves and gnomes dedicated to fighting and slaying giants developed this style. Students of the style learn how to enhance their defensive training to become even more elusive when facing giants. They also spend long hours studying the anatomy of the various giant races to increase the effectiveness of their unarmed strikes. Eventually, masters of this fighting style learn how to bring down even the mightiest creatures by targeting feet, ankles, and knees. *Feat path*: Earth Child Style, Earth Child Topple, Earth Child Binder.
+- **Efreeti Style**: The efreeti style focuses on aggression and speed, taking inspiration from beings of living fire. Masters of the style can deflect and control fire, immolate their enemies, and summon forth gouts of elemental flame. *Feat path*: Efreeti Style, Efreeti Stance, Efreeti Touch.
+- **Janni Style**: This style, originating humbly from the folk traditions of disparate peoples, represents several similar unarmed fighting arts practiced around the world. Regardless of variations in technique, all practitioners have a f luid fighting stance that emphasizes rapid, powerful kicks. The style’s constant motion and graceful footwork lead many to mistakenly view practitioners as highly skilled dancers, a misconception that has allowed the technique to be taught in secret, the hidden weapon of the downtrodden and the oppressed. Openly martial versions of this style lose some of the dancelike qualities but retain the style’s extraordinary kicking techniques and agility. *Feat path*: Janni Style, Janni Tempest, Janni Rush.
+- **Kirin Style**: The school of the kirin employs critical observations as weapons against opponents. Practitioners catalogue a foe’s weaknesses and seek the perfect moment to strike, ensuring that no movement or effort is ever wasted. Popular among those rare orders that blend monastic training with arcane study, kirin style is sometimes practiced by wizards who seek to hone their bodies along with their minds. *Feat path*: Kirin Style, Kirin Strike, Kirin Path.
+- **Mantis Style**: Based on the hunting techniques of the praying mantis, practitioners of this style fight with their hands turned down to emulate the insect’s sharp grasping forelimbs. Mantis style uses precise, accurate strikes to pinpoint an opponent’s vital areas, such as eyes, throat, and pressure points. *Feat path*: Mantis Style, Mantis Wisdom, Mantis Torment.
+- **Marid Style**: Marid style emulates the f luid strength of f lowing rivers and the cold of the ocean depths. Masters of the style can withstand severe cold, manipulate water to lash at enemies from afar, and freeze their foes in place. *Feat path*: Marid Style, Marid Spirit, Marid Coldsnap.
+- **Monkey Style**: Renowned for its speed and agility, monkey style blends jumping strikes, rolling blows, and ground fighting into a continuous onslaught aimed at disorienting and damaging an opponent through superior mobility. *Feat path*: Monkey Style, Monkey Moves, Monkey Shine.
+- **Panther Style**: Students of the panther throw caution to the wind as they weave recklessly among their foes. Those who master the style turn their unrivaled mobility into a weapon, striking their enemies with a series of swift retaliatory strikes. *Feat path*: Panther Style, Panther Claws, Panther Parry.
+- **Shaitan Style**: Practitioners of this style imbue their fists with the mineral acids of the deep earth. Their forceful blows conjure forth caustic elements to dissolve and disable their enemies. *Feat path*: Shaitan Style, Shaitan Skin, Shaitan Earthblast.
+- **Snake Style**: Snake style emphasizes quick, shifting movements. Its practitioners normally hold their hands f lat with the fingers together to mimic the head of a snake. Able to strike when least expected, snake stylists are known for opportunism and blinding speed. *Feat path*: Snake Style, Snake Sidewinder, Snake Fang.
+- **Snapping Turtle Style**: The snapping turtle style emphasizes active defense with one hand. Students of the style utilize a variety of locks, grabs, and circular blocks to protect themselves, as well as employing a debilitating clutch. *Feat path*: Snapping Turtle Style, Snapping Turtle Clutch, Snapping Turtle Shell.
+- **Tiger Style**: This style seeks to emulate the power and fury of the great tiger. Practitioners use their hands like claws, perfecting overpowering double hand strikes and driving attack chains. *Feat path*: Tiger Style, Tiger Claws, Tiger Pounce. Teamwork Feats Teamwork feats first appeared in the Advanced Player’s Guide. They grant significant bonuses but only function under specific circumstances. In most cases, these feats require an ally with the same feat to have a specific position on the
 
 ### Teamwork Feats
 
@@ -801,3 +834,280 @@ Feats from *Occult Adventures*. Each name links to its full description.
 | [Traumatic Spell](traumatic-spell.md) | Metamagic | — |
 | [Vigilant Phantom](vigilant-phantom.md) | — | Phantom class feature |
 | [Xenoglossy](xenoglossy.md) | — | Int 13, Linguistics 3 ranks |
+
+## Ultimate Combat Feats
+
+Feats from *Ultimate Combat*. Each name links to its full description.
+
+| Feat | Type | Prerequisites |
+|---|---|---|
+| [Adder Strike](adder-strike.md) | Combat | Poison use class feature, Craft (alchemy) 1 rank, Improved Unarmed Strike |
+| [Adept Champion](adept-champion.md) | — | Smite evil class feature, base attack bonus +5 |
+| [Amateur Gunslinger](amateur-gunslinger.md) | Combat | You have no levels in a class that has the grit class feature |
+| [Arc Slinger](arc-slinger.md) | Combat | Point-Blank Shot, proficient with sling or half ling sling staff |
+| [Back to Back](back-to-back.md) | Teamwork | Perception 3 ranks |
+| [Betrayer](betrayer.md) | — | Quick Draw, Persuasive, base attack bonus +3 |
+| [Binding Throw](binding-throw.md) | Combat | Improved Grapple, Improved Trip, Improved Unarmed Strike, Ki Throw |
+| [Bludgeoner](bludgeoner.md) | Combat | — |
+| [Boar Ferocity](boar-ferocity.md) | Combat | Improved Unarmed Strike, Boar Style, Intimidate 6 ranks |
+| [Boar Shred](boar-shred.md) | Combat | Improved Unarmed Strike, Boar Ferocity, Boar Style, Intimidate 9 ranks |
+| [Boar Style](boar-style.md) | Combat, Style | Improved Unarmed Strike, Intimidate 3 ranks |
+| [Body Shield](body-shield.md) | Combat | Dex 13, Improved Grapple, Improved Unarmed Strike, base attack bonus +6 |
+| [Bolstered Resilience](bolstered-resilience.md) | — | Damage reduction |
+| [Bonebreaker](bonebreaker.md) | Combat | Dex 13, Improved Grapple, Improved Unarmed Strike, Jawbreaker, Stunning Fist, Heal 9 ranks |
+| [Branded for Retribution](branded-for-retribution.md) | — | Bane class feature |
+| [Break Guard](break-guard.md) | Combat | Dex 15, Int 13, Combat Expertise, Improved Disarm, Two-Weapon Fighting |
+| [Broken Wing Gambit](broken-wing-gambit.md) | Combat, Teamwork | Bluff 5 ranks |
+| [Cartwheel Dodge](cartwheel-dodge.md) | — | Evasion class feature, improved evasion class feature, acrobatics 12 ranks |
+| [Cavalry Formation](cavalry-formation.md) | Combat, Teamwork | Mounted Combat |
+| [Channeled Revival](channeled-revival.md) | — | Channel energy 6d6 (positive energy) |
+| [Channeling Scourge](channeling-scourge.md) | — | Channel energy class feature, inquisitor level 1st |
+| [Charging Hurler](charging-hurler.md) | Combat | Point-Blank Shot |
+| [Chokehold](chokehold.md) | Combat | Improved Grapple, Improved Unarmed Strike, base attack bonus +6 or monk level 5th |
+| [Cleaving Finish](cleaving-finish.md) | Combat | Str 13, Cleave, Power Attack |
+| [Close-Quarters Thrower](close-quarters-thrower.md) | Combat | Dex 13, Dodge, Weapon Focus with selected thrown weapon |
+| [Clustered Shots](clustered-shots.md) | Combat | Point-Blank Shot, Precise Shot, base attack bonus +6 |
+| [Combat Medic](combat-medic.md) | Teamwork | Heal 5 ranks |
+| [Combat Style Master](combat-style-master.md) | Combat | Improved Unarmed Strike, two or more style feats, base attack bonus +6 or monk level 5th |
+| [Contingent Channeling](contingent-channeling.md) | — | True healer class feature, Selective Channeling |
+| [Coordinated Charge](coordinated-charge.md) | Combat, Teamwork | You have at least two other teamwork feats, base attack bonus +10 |
+| [Crane Riposte](crane-riposte.md) | Combat | Crane Style, Crane Wing, Dodge, Improved Unarmed Strike, base attack bonus +8 or monk level 7th |
+| [Crane Style](crane-style.md) | Combat, Style | Dodge, Improved Unarmed Strike, base attack bonus +2 or monk level 1st |
+| [Crane Wing](crane-wing.md) | Combat | Crane Style, Dodge, Improved Unarmed Strike, base attack bonus +5 or monk level 5th |
+| [Crusader’s Fist](crusader-s-fist.md) | Combat | Lay on hands class feature or touch of corruption class feature, Improved Unarmed Strike, base attack bonus +6 |
+| [Crusader’s Flurry](crusader-s-flurry.md) | — | Channel energy class feature, f lurry of blows class feature, Weapon Focus with your deity’s favored melee weapon |
+| [Crushing Blow](crushing-blow.md) | Combat | Improved Unarmed Strike, Stunning Fist |
+| [Deadly Finish](deadly-finish.md) | Combat | Base attack bonus +11 |
+| [Death from Above](death-from-above.md) | Combat | — |
+| [Death or Glory](death-or-glory.md) | Combat | Str 13, Power Attack, base attack bonus +6 |
+| [Deathless Initiate](deathless-initiate.md) | Combat | Str 13, Con 13, orc or half-orc, Diehard, Endurance, base attack bonus +6 |
+| [Deathless Master](deathless-master.md) | Combat | Str 13, Con 15, orc or half-orc, Deathless Initiate, Diehard, Endurance, Ironhide, base attack bonus +9 |
+| [Deathless Zealot](deathless-zealot.md) | Combat | Str 13, Con 17, orc or half-orc, Deathless Initiate, Deathless Master, Diehard, Endurance, Ironhide, base attack bonus +12 |
+| [Deceptive Exchange](deceptive-exchange.md) | — | Int 13, Combat Expertise, Improved Feint |
+| [Defensive Weapon Training](defensive-weapon-training.md) | Combat | Int 13, base attack bonus +5 |
+| [Deft Shootist Deed](deft-shootist-deed.md) | Grit | Grit class feature or Amateur Gunslinger feat, Dodge, Mobility |
+| [Destructive Dispel](destructive-dispel.md) | — | Ability to cast dispel magic or greater dispel magic, caster level 11th |
+| [Devastating Strike](devastating-strike.md) | Combat | Vital Strike, base attack bonus +9 |
+| [Dimensional Agility](dimensional-agility.md) | — | Ability to use the abundant step class feature or cast dimension door |
+| [Dimensional Assault](dimensional-assault.md) | — | Ability to use the abundant step class feature or cast dimension door, Dimensional Agility |
+| [Dimensional Dervish](dimensional-dervish.md) | — | Ability to use the abundant step class feature or cast dimension door, Dimensional Agility, Dimensional Assault, base attack bonus +6 |
+| [Dimensional Maneuvers](dimensional-maneuvers.md) | — | Ability to use the abundant step class feature or cast dimension door, Dimensional Agility, Dimensional Assault, Dimensional Dervish, base attack bonus +9 |
+| [Dimensional Savant](dimensional-savant.md) | — | Dimensional Agility, Dimensional Assault, Dimensional Dervish, ability to use the abundant step class feature or cast dimension door, base attack bonus +9 |
+| [Discordant Voice](discordant-voice.md) | — | Bardic performance class feature, Perform (oratory or sing) 10 ranks |
+| [Disengaging Feint](disengaging-feint.md) | Combat | Int 13, Combat Expertise, Improved Feint |
+| [Disengaging Flourish](disengaging-flourish.md) | Combat | Int 13, Combat Expertise, Disengaging Feint, Improved Feint |
+| [Disengaging Shot](disengaging-shot.md) | Combat | Int 13, Combat Expertise, Disengaging Feint, Dodge, Improved Feint, Mobility |
+| [Disorienting Maneuver](disorienting-maneuver.md) | — | Dodge, Acrobatics 5 ranks |
+| [Dispel Synergy](dispel-synergy.md) | — | Spellcraft 5 ranks |
+| [Dispelling Critical](dispelling-critical.md) | Critical | Arcane Strike, base attack bonus +11, ability to cast dispel magic |
+| [Dispelling Fist](dispelling-fist.md) | — | Improved Unarmed Strike, base attack bonus +11, ability to cast dispel magic, caster level 7th |
+| [Disposable Weapon](disposable-weapon.md) | — | Base attack bonus +1, proficient with weapon |
+| [Disruptive Recall](disruptive-recall.md) | — | Spell recall class feature, Spellcraft 5 ranks |
+| [Distance Thrower](distance-thrower.md) | Combat | Str 13 |
+| [Djinni Spin](djinni-spin.md) | Combat | Con 15, Wis 17, Djinni Style, Djinni Spirit, Elemental Fist, Improved Unarmed Strike, base attack bonus +13 or monk level 11th |
+| [Djinni Spirit](djinni-spirit.md) | Combat | Con 15, Wis 15, Djinni Style, Elemental Fist, Improved Unarmed Strike, base attack bonus +11 or monk level 9th |
+| [Djinni Style](djinni-style.md) | Combat, Style | Con 13, Wis 15, Elemental Fist, Improved Unarmed Strike, base attack bonus +9 or monk level 5th |
+| [Domain Strike](domain-strike.md) | Combat | Domain class feature, Improved Unarmed Strike |
+| [Double Bane](double-bane.md) | — | Bane class feature, Two-Weapon Fighting |
+| [Drag Down](drag-down.md) | Combat | Int 13, Combat Expertise, Improved Trip |
+| [Dragon Ferocity](dragon-ferocity.md) | Combat | Str 15, Improved Unarmed Strike, Dragon Style, Stunning Fist, Acrobatics 5 ranks |
+| [Dragon Roar](dragon-roar.md) | Combat | Str 15, Improved Unarmed Strike, Dragon Style, Stunning Fist, Acrobatics 8 ranks |
+| [Dragon Style](dragon-style.md) | Combat, Style | Str 15, Improved Unarmed Strike, Acrobatics 3 ranks |
+| [Dramatic Display](dramatic-display.md) | Combat, Performance | Dazzling Display |
+| [Earth Child Binder](earth-child-binder.md) | Combat | Wis 13, dwarf or gnome, defensive training racial trait, Earth Child Style, Earth Child Topple, Greater Trip, Improved Trip, Improved Unarmed Strike, Stunning Fist, Acrobatics 9 ranks |
+| [Earth Child Style](earth-child-style.md) | Combat, Style | Wis 13, dwarf or gnome, defensive training racial trait, Improved Unarmed Strike, Acrobatics 3 ranks |
+| [Earth Child Topple](earth-child-topple.md) | Combat | Wis 13, dwarf or gnome, defensive training racial trait, Earth Child Style, Improved Trip, Improved Unarmed Strike, Acrobatics 6 ranks |
+| [Efreeti Stance](efreeti-stance.md) | Combat | Con 15, Wis 15, Efreeti Style, Elemental Fist, Improved Unarmed Strike, base attack bonus +11 or monk level 9th |
+| [Efreeti Style](efreeti-style.md) | Combat, Style | Con 13, Wis 15, Elemental Fist, Improved Unarmed Strike, base attack bonus +9 or monk level 5th |
+| [Efreeti Touch](efreeti-touch.md) | Combat | Con 15, Wis 17, Efreeti Style, Efreeti Stance, Elemental Fist, Improved Unarmed Strike, base attack bonus +13 or monk level 11th |
+| [Elusive Redirection](elusive-redirection.md) | — | Elusive target class feature, Combat Expertise, Improved Unarmed Strike, f lowing monk level 12th |
+| [Enfilading Fire](enfilading-fire.md) | Combat, Teamwork | Point-Blank Shot, Precise Shot, one other teamwork feat |
+| [Escape Route](escape-route.md) | Teamwork | — |
+| [Expert Driver](expert-driver.md) | — | Skilled Driver with the selected vehicle type |
+| [Extra Bane](extra-bane.md) | — | Bane class feature |
+| [Extra Grit](extra-grit.md) | Grit | Grit class feature or the Amateur Gunslinger feat |
+| [False Opening](false-opening.md) | Combat | Dex 13, Dodge, Close Quarters Thrower or Point-Blank Master, Weapon Focus with selected ranged weapon |
+| [Feint Partner](feint-partner.md) | Combat, Teamwork | Bluff 1 rank |
+| [Felling Escape](felling-escape.md) | Combat | Int 13, Combat Expertise, Improved Trip |
+| [Felling Smash](felling-smash.md) | Combat | Int 13, Str 13, Combat Expertise, Improved Trip, Power Attack, base attack bonus +6 |
+| [Feral Combat Training](feral-combat-training.md) | Combat | Improved Unarmed Strike, Weapon Focus with selected natural weapon |
+| [Field Repair](field-repair.md) | — | Craft 4 ranks |
+| [Final Embrace](final-embrace.md) | Combat | Str 13, Int 3; naga, serpentfolk, or creature that has the constrict special attack as a racial ability; base attack bonus +3 |
+| [Final Embrace Horror](final-embrace-horror.md) | Combat | Str 15, Int 3; naga, serpentfolk, or creature that has the constrict special attack; Final Embrace; base attack bonus +6 |
+| [Final Embrace Master](final-embrace-master.md) | Combat | Str 17, Int 3; naga, serpentfolk, or creature that has the constrict special attack; Final Embrace; Final Embrace Horror; base attack bonus +9 |
+| [Flanking Foil](flanking-foil.md) | Combat | — |
+| [Fortified Armor Training](fortified-armor-training.md) | Combat | Proficient with armor or shield |
+| [Furious Finish](furious-finish.md) | — | Rage class feature, Vital Strike, base attack bonus +6 |
+| [Gory Finish](gory-finish.md) | Combat | Dazzling Display, Weapon Focus |
+| [Greater Channel Smite](greater-channel-smite.md) | — | Channel energy class feature, Channel Smite, base attack bonus +8 |
+| [Greater Rending Fury](greater-rending-fury.md) | Combat | Improved Rending Fury, Rending Fury, base attack bonus +12, rend special attack |
+| [Greater Snap Shot](greater-snap-shot.md) | Combat | Dex 17, Improved Snap Shot, Point-Blank Shot, Rapid Shot, Snap Shot, base attack bonus +12 |
+| [Greater Whip Mastery](greater-whip-mastery.md) | Combat | Improved Whip Mastery, Weapon Focus (whip), Whip Mastery, base attack bonus +8 |
+| [Guided Hand](guided-hand.md) | — | Channel energy class feature, Channel Smite, proficiency with your deity’s favored weapon |
+| [Gunsmithing](gunsmithing.md) | — | — |
+| [Hammer the Gap](hammer-the-gap.md) | Combat | Base attack bonus +6 |
+| [Harmonic Sage](harmonic-sage.md) | — | Bardic performance class feature, Knowledge (engineering) 5 ranks |
+| [Haunted Gnome](haunted-gnome.md) | Combat | Cha 13, gnome magic racial trait, Knowledge (arcana) 1 rank |
+| [Haunted Gnome Assault](haunted-gnome-assault.md) | Combat | Cha 13, gnome magic racial trait, Haunted Gnome, Knowledge (arcana) 3 ranks |
+| [Haunted Gnome Shroud](haunted-gnome-shroud.md) | Combat | Cha 13, gnome magic racial trait, Haunted Gnome, Haunted Gnome Assault, Knowledge (arcana) 6 ranks |
+| [Hero’s Display](hero-s-display.md) | Combat, Performance | Dazzling Display, Weapon Focus, and proficiency with the selected weapon |
+| [Hex Strike](hex-strike.md) | Combat | Hex class feature, Improved Unarmed Strike |
+| [Horse Master](horse-master.md) | Combat | Expert trainer class feature, Ride 6 ranks |
+| [Impact Critical Shot](impact-critical-shot.md) | Combat, Critical | Dex 13, Point-Blank Shot, base attack bonus +9 |
+| [Impaling Critical](impaling-critical.md) | Combat, Critical | Critical Focus, Weapon Specialization with selected piercing melee weapon, base attack bonus +11 |
+| [Improved Back to Back](improved-back-to-back.md) | Teamwork | Back to Back, Perception 5 ranks |
+| [Improved Charging Hurler](improved-charging-hurler.md) | Combat | Charging Hurler, Point-Blank Shot |
+| [Improved Cleaving Finish](improved-cleaving-finish.md) | Combat | Str 13, Cleave, Cleaving Finish, Great Cleave, Power Attack, base attack bonus +6 |
+| [Improved Devastating Strike](improved-devastating-strike.md) | Combat | Devastating Strike, Vital Strike, base attack bonus +13 |
+| [Improved Feint Partner](improved-feint-partner.md) | Combat, Teamwork | Bluff 1 rank, Combat Reflexes, Feint Partner, base attack bonus +6 |
+| [Improved Impaling Critical](improved-impaling-critical.md) | Combat, Critical | Impaling Critical, Critical Focus, Weapon Specialization with selected piercing melee weapon, base attack bonus +13 |
+| [Improved Rending Fury](improved-rending-fury.md) | Combat | Rending Fury, base attack bonus +9, rend special attack |
+| [Improved Snap Shot](improved-snap-shot.md) | Combat | Dex 15, Point-Blank Shot, Rapid Shot, Snap Shot, Weapon Focus, base attack bonus +9 |
+| [Improved Stalwart](improved-stalwart.md) | — | Diehard, Endurance, Stalwart, base attack bonus +11 |
+| [Improved Two-Weapon Feint](improved-two-weapon-feint.md) | Combat | Dex 17, Int 13, Combat Expertise, Improved Two-Weapon Fighting, Two-Weapon Feint, Two-Weapon Fighting, base attack bonus +6 |
+| [Improved Whip Mastery](improved-whip-mastery.md) | Combat | Weapon Focus (whip), Whip Mastery, base attack bonus +5 |
+| [Instant Judgment](instant-judgment.md) | — | Second judgment class feature |
+| [Intimidating Bane](intimidating-bane.md) | — | Bane class feature, Dazzling Display, Weapon Focus, character level 8th |
+| [Janni Rush](janni-rush.md) | Combat | Improved Unarmed Strike, Janni Style, Janni Tempest, Acrobatics 8 ranks, Perform (dance) 8 ranks |
+| [Janni Style](janni-style.md) | Combat, Style | Improved Unarmed Strike, Acrobatics 3 ranks, Perform (dance) 3 ranks |
+| [Janni Tempest](janni-tempest.md) | Combat | Improved Unarmed Strike, Janni Style, Acrobatics 5 ranks, Perform (dance) 5 ranks |
+| [Jawbreaker](jawbreaker.md) | Combat | Improved Unarmed Strike, Stunning Fist, Heal 6 ranks |
+| [Kirin Path](kirin-path.md) | Combat | Int 13, Kirin Strike, Kirin Style, Improved Unarmed Strike, Knowledge (arcana) 12 ranks, Knowledge (dungeoneering, local, nature, planes, or religion) 5 ranks |
+| [Kirin Strike](kirin-strike.md) | Combat | Int 13, Kirin Style, Improved Unarmed Strike, Knowledge (arcana) 9 ranks, Knowledge (dungeoneering, local, nature, planes, or religion) 3 ranks |
+| [Kirin Style](kirin-style.md) | Combat, Style | Improved Unarmed Strike, Knowledge (arcana) 6 ranks, Knowledge (dungeoneering, local, nature, planes, or religion) 1 rank |
+| [Knockout Artist](knockout-artist.md) | — | Sneak attack class feature, Improved Unarmed Strike |
+| [Landing Roll](landing-roll.md) | Combat | Dex 13, Dodge, Mobility |
+| [Leaping Shot Deed](leaping-shot-deed.md) | Grit | Dex 13, grit class feature or Amateur Gunslinger feat, Dodge, Mobility, base attack bonus +4 |
+| [Mantis Style](mantis-style.md) | Combat, Style | Improved Unarmed Strike, Stunning Fist, Heal 3 ranks |
+| [Mantis Torment](mantis-torment.md) | Combat | Heal 9 ranks, Improved Unarmed Strike, Mantis Style, Mantis Wisdom, Stunning Fist |
+| [Mantis Wisdom](mantis-wisdom.md) | Combat | Improved Unarmed Strike, Mantis Style, Stunning Fist, Heal 6 ranks |
+| [Marid Coldsnap](marid-coldsnap.md) | Combat | Con 15, Wis 17, Elemental Fist, Marid Spirit, Marid Style, Improved Unarmed Strike, base attack bonus +13 or monk level 11th |
+| [Marid Spirit](marid-spirit.md) | Combat | Con 15, Wis 15, Elemental Fist, Marid Style, Improved Unarmed Strike, base attack bonus +11 or monk level 9th |
+| [Marid Style](marid-style.md) | Combat, Style | Con 13, Wis 15, Elemental Fist, Improved Unarmed Strike, base attack bonus +9 or monk level 5th |
+| [Master Combat Performer](master-combat-performer.md) | Combat | Performing Combatant or at least three performance feats, base attack bonus +6 |
+| [Master Siege Engineer](master-siege-engineer.md) | Combat | Siege Weapon Engineer, Knowledge (engineering) 10 ranks |
+| [Masterful Display](masterful-display.md) | Combat, Performance | Dazzling Display, any two performance feats |
+| [Maximized Spellstrike](maximized-spellstrike.md) | — | Maximized magic magus arcana, weapon expertise class feature or Quick Draw |
+| [Menacing Bane](menacing-bane.md) | — | Bane class feature |
+| [Merciful Bane](merciful-bane.md) | — | Bane class feature |
+| [Mocking Dance](mocking-dance.md) | Combat, Performance | Acrobatics 4 ranks or Perform (dance) 4 ranks |
+| [Monastic Legacy](monastic-legacy.md) | Combat | Still mind class feature, Improved Unarmed Strike |
+| [Monkey Moves](monkey-moves.md) | Combat | Wis 13, Improved Unarmed Strike, Monkey Style, Acrobatics 8 ranks, Climb 8 ranks |
+| [Monkey Shine](monkey-shine.md) | Combat | Wis 13, Improved Unarmed Strike, Monkey Moves, Monkey Style, Stunning Fist, Acrobatics 11 ranks, Climb 11 ranks |
+| [Monkey Style](monkey-style.md) | Combat, Style | Wis 13, Improved Unarmed Strike, Acrobatics 5 ranks, Climb 5 ranks |
+| [Moonlight Stalker](moonlight-stalker.md) | Combat | Int 13, Blind-Fight, Combat Expertise, Bluff 3 ranks, darkvision or low-light vision racial trait |
+| [Moonlight Stalker Feint](moonlight-stalker-feint.md) | Combat | Int 13, Blind-Fight, Combat Expertise, Improved Feint, Moonlight Stalker, Bluff 6 ranks, darkvision or low-light vision racial trait |
+| [Moonlight Stalker Master](moonlight-stalker-master.md) | Combat | Int 13, Blind-Fight, Combat Expertise, Improved Feint, Moonlight Stalker, Moonlight Stalker Feint, Bluff 9 ranks, darkvision or low-light vision racial trait |
+| [Murderer’s Circle](murderer-s-circle.md) | Combat, Performance | Dodge, Acrobatics 4 ranks |
+| [Neckbreaker](neckbreaker.md) | Combat | Bonebreaker, Greater Grapple, Improved Grapple, Improved Unarmed Strike, Jawbreaker, Stunning Fist, Heal 12 ranks |
+| [Net Adept](net-adept.md) | Combat | Exotic Weapon Proficiency (net), base attack bonus +1 |
+| [Net and Trident](net-and-trident.md) | Combat | Dex 15, Exotic Weapon Proficiency (net), Net Adept, Two-Weapon Fighting |
+| [Net Maneuvering](net-maneuvering.md) | Combat | Exotic Weapon Proficiency (net), Net Adept, base attack bonus +3 |
+| [Net Trickery](net-trickery.md) | Combat | Exotic Weapon Proficiency (net), Net Adept, Net Maneuvering, base attack bonus +6 |
+| [Nightmare Fist](nightmare-fist.md) | Combat | Improved Unarmed Strike, Intimidate 1 rank, ability to create magical darkness |
+| [Nightmare Striker](nightmare-striker.md) | Combat | Improved Unarmed Strike, Nightmare Fist, Nightmare Weaver, Stunning Fist, Heal 5 ranks, ability to cast faerie fire |
+| [Nightmare Weaver](nightmare-weaver.md) | Combat | Improved Unarmed Strike, Nightmare Fist, Intimidate 2 ranks, ability to cast darkness |
+| [No Name](no-name.md) | Grit | Grit class feature or Amateur Gunslinger feat, Bluff 4 ranks |
+| [Opening Volley](opening-volley.md) | Combat | — |
+| [Pack Attack](pack-attack.md) | Combat, Teamwork | Base attack bonus +1 |
+| [Panther Claw](panther-claw.md) | Combat | Wis 15, Combat Ref lexes, Improved Unarmed Strike, Panther Style |
+| [Panther Parry](panther-parry.md) | Combat | Wis 15, Combat Ref lexes, Improved Unarmed Strike, Panther Claw, Panther Style |
+| [Panther Style](panther-style.md) | Combat, Style | Wis 13, Combat Ref lexes, Improved Unarmed Strike |
+| [Passing Trick](passing-trick.md) | Combat | Int 13, Combat Expertise, Dodge, Improved Feint, Mobility, size Small or smaller |
+| [Performance Weapon Mastery](performance-weapon-mastery.md) | Combat | — |
+| [Performing Combatant](performing-combatant.md) | Combat | Dazzling Display, any one performance feat |
+| [Pin Down](pin-down.md) | Combat | Combat Ref lexes, fighter level 11th |
+| [Pinning Knockout](pinning-knockout.md) | Combat | Dex 13, Greater Grapple, Improved Grapple, Improved Unarmed Strike, base attack bonus +9 or monk level 9th |
+| [Pinning Rend](pinning-rend.md) | Combat | Dex 13, Greater Grapple, Improved Grapple, Improved Unarmed Strike, base attack bonus +9 or monk level 9th |
+| [Pinpoint Poisoner](pinpoint-poisoner.md) | Combat | Poison use class feature, Craft (alchemy) 6 ranks, Adder Strike, Improved Unarmed Strike, TwoWeapon Fighting or f lurry of blows class feature |
+| [Planar Wild Shape](planar-wild-shape.md) | — | Wild shape class feature, Knowledge (planes) 5 ranks |
+| [Prone Shooter](prone-shooter.md) | Combat | Base attack bonus +1 |
+| [Prone Slinger](prone-slinger.md) | Combat | — |
+| [Quick Bull Rush](quick-bull-rush.md) | Combat | Str 13, Improved Bull Rush, Power Attack, base attack bonus +6 |
+| [Quick Dirty Trick](quick-dirty-trick.md) | Combat | Int 13, Combat Expertise, Improved Dirty Trick, base attack bonus +6 |
+| [Quick Drag](quick-drag.md) | Combat | Str 13, Improved Drag, Power Attack, base attack bonus +6 |
+| [Quick Reposition](quick-reposition.md) | Combat | Int 13, Combat Expertise, Improved Reposition, base attack bonus +6 |
+| [Quick Steal](quick-steal.md) | Combat | Int 13, Combat Expertise, Improved Steal, base attack bonus +6 |
+| [Raging Brutality](raging-brutality.md) | — | Str 13, rage class feature, Power Attack, base attack bonus +12 |
+| [Raging Deathblow](raging-deathblow.md) | — | Greater rage class feature |
+| [Raging Hurler](raging-hurler.md) | — | Rage class feature, Throw Anything |
+| [Raging Throw](raging-throw.md) | — | Str 13, Con 13, rage class feature, Improved Bull Rush, Power Attack, base attack bonus +6 |
+| [Rapid Grappler](rapid-grappler.md) | Combat | Dex 13, Greater Grapple, Improved Grapple, Improved Unarmed Strike, base attack bonus +9 or monk level 9th |
+| [Rapid Reload](rapid-reload.md) | Combat | Weapon Proficiency (crossbow type chosen) or Exotic Weapon Proficiency (firearm) |
+| [Rebounding Leap](rebounding-leap.md) | Combat | Leaping lance class feature, Acrobatics 5 ranks, Ride 11 ranks |
+| [Rebuffing Reduction](rebuffing-reduction.md) | Combat | Str 13, damage reduction, Improved Bull Rush, Power Attack, base attack bonus +1 |
+| [Rending Fury](rending-fury.md) | Combat | Base attack bonus +6, rend special attack |
+| [Revelation Strike](revelation-strike.md) | Combat | Revelation class feature, Improved Unarmed Strike |
+| [Rhetorical Flourish](rhetorical-flourish.md) | — | Cha 13, Persuasive |
+| [Ricochet Shot Deed](ricochet-shot-deed.md) | Grit | Grit class feature or Amateur Gunslinger feat, Blind-Fight |
+| [Righteous Healing](righteous-healing.md) | — | Judgment class feature |
+| [Sap Adept](sap-adept.md) | Combat | Sneak attack +1d6 |
+| [Sap Master](sap-master.md) | Combat | Sneak attack +3d6, Sap Adept |
+| [Savage Display](savage-display.md) | Combat, Performance | Dazzling Display |
+| [School Strike](school-strike.md) | Combat | Wizard school class feature, Improved Unarmed Strike |
+| [Sea Legs](sea-legs.md) | — | Profession (sailor) 5 ranks |
+| [Secret Stash Deed](secret-stash-deed.md) | Grit | Grit class feature or Amateur Gunslinger feat, Sleight of Hand 1 rank |
+| [Seize the Moment](seize-the-moment.md) | Combat, Teamwork | Combat Reflexes, Improved Critical |
+| [Shaitan Earthblast](shaitan-earthblast.md) | Combat | Con 15, Wis 17, Elemental Fist, Improved Unarmed Strike, Shaitan Skin, Shaitan Style, base attack bonus +13 or monk level 11th |
+| [Shaitan Skin](shaitan-skin.md) | Combat | Con 15, Wis 15, Elemental Fist, Improved Unarmed Strike, Shaitan Style, base attack bonus +11 or monk level 9th |
+| [Shaitan Style](shaitan-style.md) | Combat, Style | Con 13, Wis 15, Elemental Fist, Improved Unarmed Strike, base attack bonus +9 or monk level 5th |
+| [Shake It Off](shake-it-off.md) | Teamwork | — |
+| [Shapeshifter Foil](shapeshifter-foil.md) | — | Knowledge (arcana) 5 ranks or Knowledge (nature) 5 ranks, ability to use any polymorph effect |
+| [Shapeshifting Hunter](shapeshifting-hunter.md) | — | Favored enemy class feature, wild shape class feature |
+| [Shared Judgment](shared-judgment.md) | — | Second judgment class feature |
+| [Siege Commander](siege-commander.md) | Combat | Craft (siege weapon) 5 ranks, Knowledge (engineering) 5 ranks or Profession (siege engineer) 1 rank |
+| [Siege Engineer](siege-engineer.md) | Combat | Knowledge (engineering) 5 ranks or Profession (siege engineer) 5 ranks, proficiency with one siege engine |
+| [Siege Gunner](siege-gunner.md) | Combat | Siege Engineer, Profession (siege engineer) 5 ranks |
+| [Signature Deed](signature-deed.md) | Grit | Grit class feature, gunslinger level 11th |
+| [Skilled Driver](skilled-driver.md) | — | — |
+| [Slayer’s Knack](slayer-s-knack.md) | — | Favored enemy class feature, base attack bonus +6 |
+| [Sling Flail](sling-flail.md) | Combat | Weapon Focus (sling), base attack bonus +1 |
+| [Snake Fang](snake-fang.md) | Combat | Combat Ref lexes, Improved Unarmed Strike, Snake Sidewind, Snake Style, Acrobatics 6 ranks, Sense Motive 9 ranks |
+| [Snake Sidewind](snake-sidewind.md) | Combat | Improved Unarmed Strike, Snake Style, Acrobatics 3 ranks, Sense Motive 6 ranks |
+| [Snake Style](snake-style.md) | Combat, Style | Improved Unarmed Strike, Acrobatics 1 rank, Sense Motive 3 ranks |
+| [Snap Shot](snap-shot.md) | Combat | Dex 13, Point-Blank Shot, Rapid Shot, Weapon Focus, base attack bonus +6 |
+| [Snapping Turtle Clutch](snapping-turtle-clutch.md) | Combat | Snapping Turtle Style, Improved Grapple, Improved Unarmed Strike, base attack bonus +3 or monk level 3rd |
+| [Snapping Turtle Shell](snapping-turtle-shell.md) | Combat | Snapping Turtle Clutch, Snapping Turtle Style, Improved Grapple, Improved Unarmed Strike, base attack bonus +5 or monk level 5th |
+| [Snapping Turtle Style](snapping-turtle-style.md) | Combat, Style | Improved Unarmed Strike, base attack bonus +1 or monk level 1st |
+| [Sneaking Precision](sneaking-precision.md) | — | Sneak attack +6d6, Critical Focus, any critical feat, base attack bonus +9 |
+| [Sorcerous Strike](sorcerous-strike.md) | Combat | Sorcerer bloodline class feature, Improved Unarmed Strike |
+| [Spell Bane](spell-bane.md) | — | Bane class feature |
+| [Spinning Throw](spinning-throw.md) | Combat | Combat Expertise, Improved Bull Rush, Improved Trip, Improved Unarmed Strike, Ki Throw |
+| [Splintering Weapon](splintering-weapon.md) | — | Base attack bonus +1, proficient with weapon, weapon made of primitive material |
+| [Stage Combatant](stage-combatant.md) | Combat | Weapon Focus, base attack bonus +5 |
+| [Stalwart](stalwart.md) | — | Diehard, Endurance, base attack bonus +4 |
+| [Stealth Synergy](stealth-synergy.md) | Teamwork | — |
+| [Strangler](strangler.md) | Combat | Dex 13, sneak attack +1d6, Improved Grapple, Improved Unarmed Strike |
+| [Strong Comeback](strong-comeback.md) | — | — |
+| [Stunning Pin](stunning-pin.md) | Combat | Improved Grapple, Improved Unarmed Strike, Stunning Fist |
+| [Sure Grasp](sure-grasp.md) | — | Climb 1 rank |
+| [Sword and Pistol](sword-and-pistol.md) | Combat | Dex 13, Point-Blank Shot, Rapid Shot, Snap Shot, Two-Weapon Fighting, base attack bonus +6 |
+| [Tandem Trip](tandem-trip.md) | Combat, Teamwork | — |
+| [Target of Opportunity](target-of-opportunity.md) | Combat, Teamwork | Point-Blank Shot, base attack bonus +6 |
+| [Team Pickpocketing](team-pickpocketing.md) | Teamwork | Bluff 1 rank, Sleight of Hand 1 rank |
+| [Tiger Claws](tiger-claws.md) | Combat | Improved Unarmed Strike, Tiger Style, base attack bonus +6 or monk level 5th |
+| [Tiger Pounce](tiger-pounce.md) | Combat | Improved Unarmed Strike, Power Attack, Tiger Claws, Tiger Style, base attack bonus +9 or monk level 8th |
+| [Tiger Style](tiger-style.md) | Combat, Style | Improved Unarmed Strike, base attack bonus +3 or monk level 3rd |
+| [Trapper’s Setup](trapper-s-setup.md) | — | Craft (traps) 5 ranks |
+| [Twin Thunders](twin-thunders.md) | Combat | Dwarf or gnome, defensive training racial trait, Two-Weapon Fighting or flurry of blows class feature, Weapon Focus with both wielded weapons |
+| [Twin Thunders Flurry](twin-thunders-flurry.md) | Combat | Dwarf or gnome; defensive training racial trait; Improved Two-Weapon Fighting and Two-Weapon Fighting, or f lurry of blows class feature; Twin Thunders; Weapon Focus with both wielded weapons; base attack bonus +6 |
+| [Twin Thunders Master](twin-thunders-master.md) | Combat | Dwarf or gnome; defensive training racial trait; Improved Two-Weapon Fighting and Two-Weapon Fighting, or f lurry of blows class feature; Twin Thunders; Twin Thunders Flurry; Weapon Focus with both wielded weapons; base attack bonus +9 |
+| [Two-Handed Thrower](two-handed-thrower.md) | Combat | Str 15 |
+| [Two-Weapon Feint](two-weapon-feint.md) | Combat | Dex 15, Int 13, Combat Expertise, TwoWeapon Fighting |
+| [Vicious Stomp](vicious-stomp.md) | Combat | Combat Ref lexes, Improved Unarmed Strike |
+| [Wave Strike](wave-strike.md) | Combat | Weapon expertise class feature or Quick Draw, Bluff 1 rank |
+| [Whip Mastery](whip-mastery.md) | Combat | Weapon Focus (whip), base attack bonus +2 |
+
+**Table: New Item Craft DCs**
+
+| Item | Craft Skill | Craft DC |
+|---|---|---|
+| A weapon with the fragile special quality | Weapon or Bow | Normal DC –5 |
+| One-handed firearm | Firearm | 20 |
+| Two-handed firearm | Firearm | 20 |
+| Siege firearm, heavy | Firearm | 25 |
+| Siege firearm, medium | Firearm | 30 |
+| Siege firearm, light | Firearm | 35 |
+| Ranged siege engine, heavy | Siege Engine | 20 |
+| Ranged siege engine, medium | Siege Engine | 25 |
+| Ranged siege engine, light | Siege Engine | 30 |
