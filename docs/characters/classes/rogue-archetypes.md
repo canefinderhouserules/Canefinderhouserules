@@ -543,3 +543,115 @@ As a swift action, a filcher can make an Appraise check in order to determine th
 **Rogue Talents**: The following rogue talents complement the filcher archetype: fast stealth, slow reactions (*Core Rulebook*); fast fingers, fast getaway (*Advanced Player’s Guide*); black market connections, deft palm (*Ultimate Combat*).
 
 **Advanced Talents**: The following advanced rogue talents complement the filcher archetype: skill mastery (*Core Rulebook*); fast tumble (*Advanced Player’s Guide*); weapon snatcher (*Ultimate Combat*).
+
+## Consigliere
+
+Consiglieres act as trusted mediators and administrators for crime families and various criminal organizations, and many serve as the right hand to the leaders of such groups. Other consiglieres prefer to work as independent operators and sell their advice and expertise to the highest bidder. Though some consiglieres insulate themselves from violence and criminal activities, many enjoy getting their hands dirty leading strike teams or gangs of hardened thugs.
+
+**Class Skills**: A consigliere adds Knowledge (nobility) to his list of class skills, instead of Knowledge (dungeoneering). This alters the rogue’s class skills.
+
+**Convincing Attitude (Ex)**: At 1st level, a consigliere gains Persuasive as a bonus feat. At 2nd level, he gains the charmer rogue talent (or the certainty [Diplomacy] rogue talent if he is an unchained rogue). At 3rd level, if a consigliere attempts a Diplomacy check and fails to influence a creature’s attitude by 5 or more, the creature’s attitude remains unchanged instead of decreasing by one step. This ability replaces trapfinding and evasion.
+
+**Combat Advisor (Ex)**: At 4th level, whenever a consigliere misses with a melee attack against an opponent, he can designate an ally within 30 feet of the target to receive a +1 insight bonus on her next attack roll against that opponent before the consigliere’s next turn. At 8th level, the insight bonus increases to +2. This ability replaces uncanny dodge and improved uncanny dodge.
+
+**Bonus Feats (Ex)**: Starting at 4th level, a consigliere can choose to gain a single teamwork feat instead of a single rogue talent. Starting at 12th level, the consigliere can choose to gain teamwork feats instead of rogue talents as many times as he chooses. This ability replaces all instances of trap sense.
+
+**Field Boss (Ex)**: At 10th level, as a standard action, a consigliere can grant a teamwork feat to all allies within 30 feet who can see and hear her. This teamwork feat must be one the consigliere knows. Allies retain the use of this feat for 3 rounds plus 1 round for every 2 rogue levels the consigliere has. Allies do not need to meet the prerequisites of this teamwork feat. The consigliere can use this ability once per day at 10th level, plus 1 additional time per day every 4 rogue levels thereafter. This ability replaces the rogue talent normally gained at 10th level.
+
+**Rogue Talents**: The following rogue talents complement the consigliere archetype: assault leader, black market connections, coax information, honeyed words (or certainty [Bluff ] for an unchained rogue), and shades of gray.
+
+**Advanced Talents**: The following advanced rogue talents complement the consigliere archetype: hard minded, opportunist, redirect attack, rumormonger, skill mastery, slippery mind, and unwitting ally.
+
+## Guild Agent
+
+Guild agents are members of a thieves’ guild or other shadowy organization. What they lose in independence, they more than make up for in benefits gained due to their association’s infrastructure. Guild agents come at all levels of the organization, from a lowly recruit all the way up to the guildmaster himself.
+
+**Honor Among Thieves (Ex)**: A guild agent must remain a member in good standing of a thieves’ guild (he starts at rank 1 with her guild when using the organizational influence system). If the guild agent leaves his guild, he loses all of the abilities granted by this archetype and does not gain their replacements. If he joins a new guild, the guild agent regains his abilities, though depending on how he joins the guild, he may regain his abilities all at once or gradually over time. Even if the guild in question operates in multiple locations, the guild agent chooses a settlement as a base of operations for his own activities.
+
+**Guild Connections (Ex)**: At 2nd level, a guild agent gains the black market connections rogue talent. Furthermore, he can ask his guild for tips about the local scene, granting him a bonus equal to half his rogue level on Knowledge (local) checks and Diplomacy checks to gather information, as long as the information in question pertains to the guild agent’s base of operations.
+
+At 4th level, the guild agent also gains the gossip collector vigilante social talent, and his base of operations counts as his area of renown for the purpose of determining the effects of gossip collector. This ability replaces evasion and uncanny dodge.
+
+**Pull Rank (Ex)**: At 8th level, a guild agent has attained sufficient rank to call in lesser guild members to assist him with a job. He can call lesser members of a number and level equal to the number of followers he would have if he had the Leadership feat (including the +2 bonus for his guildhouse), to a maximum of a number of lesser members equal to his rogue level. If the guild agent possesses the Leadership feat, he gains twice as many followers as normal. If he spends a favor, he can combine  this  with the  command  team organizational influence benefit to gain even more lesser members for a particularly difficult job. Each time the guild agent uses the lesser members recklessly and gets them killed, he loses at least 1 influence with his guild. This ability replaces improved evasion.
+
+**Criminal Mastermind (Ex)**: At 20th level, except in an unusually powerful guild, a guild agent has become the true power behind the guild. The guild agent has built up a nearly worldwide reputation under a particular criminal epithet (such as “The Silver Shadow”), known by criminals and law enforcement officers everywhere. This works like the renown vigilante social talent except as follows. It applies in all towns and cities on the same continent as the guild agent’s base of operations, without requiring him to select a particular settlement. He has only one identity, and only other criminals and members of the underworld treat their attitudes toward the guild agent as one step closer to helpful at all times (rather than while only in his social identity), while the bonus on Intimidate checks applies against everyone at all times (rather than while only in his vigilante identity). This ability replaces master strike.
+
+**Rogue Talents**: The following rogue talents complement the guild agent archetype: assault leader and getaway artist (as well as certainty for an unchained rogue).
+
+**Advanced Talents**: The following advanced rogue talents complement the guild agent archetype: getaway master, hunter’s surprise, opportunist, rumormonger, and skill mastery.
+
+## Heister
+
+Notorious for their stealth, imagination, and elaborately planned thefts and capers, heisters specialize in breaking into secure locations, stealing items of value, and escaping undetected. Heisters often work as members of or independent operatives contracted to criminal organizations, crime families, or wealthy individuals inclined to unlawful activity.
+
+**Rum Dubber (Ex)**: At 2nd level, whenever a heister attempts to open a lock without a set of thieves’ tools, the DC increases by 2, instead of 10. This ability replaces the rogue talent gained at 2nd level.
+
+**Ferret’s Grace (Ex)**: At 4th level, a heister gains Stealthy as a bonus feat.
+
+Additionally, a heister counts as a creature one size category smaller than she actually is when determining whether or not she is squeezing into an enclosed space. Finally,  when a heister uses the Escape Artist skill to move through a tight space where her head fits but her shoulders do not, the DC is 20, instead of 30. This ability replaces uncanny dodge and the rogue talent gained at 4th level.
+
+**Unseen (Ex)**: At 8th level, a heister masters hiding in underground and urban terrain. She can use the Stealth skill to hide in underground and urban terrain, even while being observed. She also gains the terrain mastery rogue talent twice, once each for underground and urban terrain. This ability replaces improved uncanny dodge and the rogue talent gained at 8th level.
+
+**Rogue Talents**: The following rogue talents complement the heister archetype: expert leaper, fast getaway, fast picks, fast stealth, getaway artist, ledge walker, and quick disable (as well as certainty for an unchained rogue).
+
+**Advanced Talents**: The following advanced rogue talents complement the heister archetype: fast tumble, getaway master, hidden mind, and skill mastery (as well as cutting edge for an unchained rogue).
+
+## Master of Disguise
+
+A master of disguise feels no need to advertise her skills to build a reputation. Instead, she believes that never letting her adversaries know her true identity protects her from bad luck or missteps on a job.
+
+**Consummate Actor (Ex)**: A master of disguise adds half her rogue level (minimum 1) on all Disguise checks and on Bluff checks to stay in character while using Disguise. At 2nd level, she gains the quick disguise rogue talent, and she can create a disguise twice as quickly as normal even for that rogue talent (she can create a disguise that encompasses only minor details as a standard action). This ability replaces trapfinding and the rogue talent gained at 2nd level.
+
+**Grandmaster of Disguise (Ex)**: At 10th level, a master of disguise gains the master of disguise advanced rogue talent and can use it an unlimited number of times per day. Because she must still don a physical disguise to gain this bonus, it doesn’t stack with the bonuses from spells like *alter self* and *disguise self*, but since it is completely nonmagical, it is more reliable when scrutinized under magical detection. This ability replaces the rogue talent gained at 10th level.
+
+**Rogue Talents**: The following rogue talents complement the master of disguise archetype: camouflage, false friend, major magic, minor magic, obfuscate story, shades of gray, and steal the story.
+
+**Advanced Talents**: The following advanced rogue talents complement the master of disguise archetype: hard minded, hidden mind, skill mastery, slippery mind, and unwitting ally.
+
+## Phantom Thief
+
+Also known as gentleman thieves or lady thieves, phantom thieves don’t know the desperation of a hard life like many rogues. Instead, they come from the ranks of the elite, having grown bored with their finery, and seek thrills from acts of daring, skill, and crime. Phantom thieves don’t need the money, so they often perform acts such as breaking into a secure vault for the thrill, leaving a calling card rather than robbing the place.
+
+**Refined Education (Ex)**: A phantom thief adds Handle Animal, Heal, Ride, Spellcraft, Survival, and all Knowledge skills to her list of class skills. Furthermore, she selects one of her rogue class skills and adds half her rogue level on all skill checks using that skill. At 3rd level and every 2 rogue levels thereafter, she selects an additional rogue class skill and adds half her rogue level on all skill checks using that skill as well. Starting at 4th level, if the phantom thief is an unchained rogue, she gains rogue’s edge skill unlocks with each of these skills rather than selecting one skill every 5 levels, and she adds half her rogue level to her number of ranks to determine when she receives a skill unlock (so a 7th level rogue (phantom thief) with 7 ranks in a chosen skill would count as having 10 ranks and receive the second skill unlock). This ability alters the rogue’s class skills and replaces sneak attack and trapfinding. For an unchained rogue, it also alters rogue’s edge and replaces debilitating injury.
+
+**Broad Education (Ex)**: A phantom thief’s broad studies with expensive tutors keep her up to speed in both martial and magical knowledge, as well as in her skills. She can select the combat trick, minor magic, and major magic rogue talents as many times as she likes, and she can select the Skill Focus feat as a rogue talent, also as many times as she likes. Finally, she can select a vigilante social talent instead of a rogue talent, except for social grace and vigilante social talents that would require her to be a craftsman or professional. For the purpose of vigilante social talents, a phantom thief does not have a vigilante identity and is always considered to be in her social identity. This ability alters rogue talent.
+
+**Social Sense (Ex)**: At 3rd level, a phantom thief’s social sixth sense allows her to avoid danger in social situations and to act first when it breaks out. She receives a +1 bonus on Sense Motive checks to avoid being surprised by a foe, on Bluff checks to surprise a foe, and on initiative checks for surprise rounds that involved Bluff and Sense Motive checks to determine surprise. This bonus increases by 1 at 3rd level and every 3 rogue levels thereafter. This ability replaces trap sense.
+
+**Master of All (Ex)**: At 20th level, a phantom thief can reroll any skill check as long as it is a class skill in which she is trained. She must take the second result, even if it is worse. She can use this ability no more than once per minute. This ability replaces master strike.
+
+**Rogue Talents**: The following rogue talents complement the phantom thief archetype: combat trick, major magic, minor magic (as well as certainty for an unchained rogue).
+
+**Advanced Talents**: The following advanced rogue talents complement the phantom thief archetype: feat, hidden mind, rumormonger, and skill mastery (as well as cutting edge for an unchained rogue).
+
+## Sharper
+
+Sharpers use trickery and deception to part an owner from his valuables. Pathological risk-takers, they distinguish themselves from con artists and burglars by virtue of the simplicity and boldness of their schemes, which are usually impromptu, rather than carefully orchestrated. Many sharpers consider themselves romantic figures and foster the image of a resourceful, dashing rogue living by wits and luck while subverting authority at every turn.
+
+**Scam Artist (Ex)**: A sharper gains a bonus equal to half her rogue level (minimum +1) on all Bluff and Sleight of Hand checks. This ability replaces trapfinding.
+
+**Sticky Fingers (Ex)**: At 2nd level, a sharper receives Improved Steal as a bonus feat. At 6th level, she receives Greater Steal as a bonus feat, and at 8th level, she receives Quick Steal as a bonus feat. The sharper gains these feats even if she doesn’t meet the prerequisites. This ability replaces the rogue talents gained at 2nd, 6th, and 8th levels.
+
+**Lucky Save (Su)**: At 3rd level, when a sharper’s wits aren’t enough to pull her out of a bad situation, her luck still just might save her. She gains a +1 luck bonus on all saving throws. This bonus increases to +2 at 9th level and to +3 at 15th level. This ability replaces trap sense.
+
+**Audacious Overconfidence (Ex)**: At 4th level, after failing an attack roll, skill check, or saving throw, a sharper can reduce her saving throw bonus from lucky save by 1 for 24 hours in order to reroll the failed roll. She can use this ability once per day at 4th level, plus an additional time per day at 10th level and again at 16th level. The decreases to her bonus from lucky save stack with each other. This ability replaces the rogue talents gained at 4th, 10th, and 16th levels.
+
+**Rogue Talents**: The following rogue talents complement the sharper archetype: charmer, convincing lie, deft palm, false friend, fast fingers, follow along, honeyed words, obfuscate story, shades of gray, and steal the story (as well as certainty for an unchained rogue).
+
+**Advanced Talents**: The following advanced talents complement the sharper archetype: another day, defensive roll, hidden mind, improved evasion, redirect attack, and skill mastery (as well as cutting edge for an unchained rogue).
+
+## Snoop
+
+Snoops are the underworld’s version of detectives. They often act as information peddlers, specializing in gathering secrets through investigation, subterfuge, and coercion, and selling or trading those secrets for personal gain.
+
+**Inspiration (Ex)**: At 1st level, a snoop gains an ability similar to the investigator’s inspiration class ability. The snoop begins with an inspiration pool equal to half her rogue level plus her Intelligence modifier (minimum of 1). Unlike an investigator, a snoop can only use inspiration on skill checks, not on attack rolls or saving throws. This ability is otherwise identical to the investigator class ability of the same name. This ability replaces trapfinding and evasion.
+
+**Investigator Talents (Ex)**: Beginning at 2nd level, and each time she selects a new rogue talent, a snoop can instead select one of the following investigator talents: eidetic recollection, empathy, hidden agendas, inspired alertness, inspired intimidator, item lore, or underworld inspiration. Her effective investigator level for the purpose of these talents is equal to her rogue level. She still can’t use inspiration on attack rolls or saving throws (so, for instance, she can’t use the second part of hidden agendas).
+
+**Uncanny Snoop (Ex)**: At 4th level, a snoop gains a +2 bonus on Intimidate checks when trying to force an opponent to give her information (or Bluff and Diplomacy checks for the same purpose if she has the coax information rogue talent). She also gains a +2 bonus on Sense Motive checks to tell if someone’s information is false. At 8th level, these bonuses increase to +4. This ability replaces uncanny dodge and improved uncanny dodge.
+
+**Master of Whispers (Ex)**: At 8th level, a snoop receives the rumormonger advanced rogue talent. This ability replaces the rogue talent gained at 8th level.
+
+**Rogue Talents**: The following rogue talents complement the snoop archetype: black market connections, coax information, fast stealth, follow clues, and strong impression (as well as certainty for an unchained rogue).
+
+**Advanced Talents**: The following advanced rogue talents complement the snoop archetype: hard minded, hidden mind, skill mastery, re-examining and thoughtful (as well as cutting edge for an unchained rogue).

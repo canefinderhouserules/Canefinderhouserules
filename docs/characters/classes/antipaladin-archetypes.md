@@ -17,3 +17,13 @@ Blighted myrmidons carry the seed of rot in their black hearts and sap life from
 **Enervating Touch (Su)**: At 15th level, when she damages a creature with her touch of corruption, a blighted myrmidon can suppress the vital force of her target for 1 round per level. While affected, when the target regains hit points, it regains only half the number of hit points it would otherwise receive, and it can’t gain temporary hit points. The target can attempt a Fortitude save (DC = half the blighted myrmidon’s level + her Charisma modifier) to negate this effect. This replaces the cruelty gained at 15th level.
 
 **Unnatural Champion (Ex)**: At 20th level, when a blighted myrmidon uses smite nature and strikes an elemental or fey creature with the extraplanar subtype, the target is also subject to the effects of a banishment spell, using her blighted myrmidon level as her caster level, and her weapon and unholy symbol automatically count as objects that the subject hates. This ability otherwise functions as unholy champion. This alters unholy champion.
+
+## Tyrant
+
+Evil arises in every form imaginable, not just in hearts full of destruction and chaos. Tyrants are manipulative and lawful antipaladins, chess masters who arrange things behind the scenes to ensure that whatever happens, evil always wins, and the tyrant along with it. Unlike other antipaladins, tyrants are all too happy to associate with good creatures, the better to manipulate them into performing evil acts.
+
+**Tyrant’s Code**: A tyrant must be of lawful evil alignment and loses all class features except proficiencies if he willingly and altruistically commits good acts. This does not mean the tyrant can’t take actions someone else might qualify as good, only that such actions must always be in service of his own dark ambitions. A tyrant’s code requires that he place his own sinister goals above all else, respect rightful authority even as he twists its loopholes to his own ends, impose tyranny, and punish all those who dare dissent. A tyrant can accept underlings of any alignment; he cares not who serves him, only that they are truly loyal to him. He can even work alongside good-aligned individuals, as long as he is secretly manipulating them. This alters the antipaladin’s code of conduct and associated abilities, as well as the section on ex-antipaladins.
+
+**Class Skills**: A tyrant adds Diplomacy to his list of class skills, instead of Ride. This alters the antipaladin’s class skills.
+
+**Diabolic Boon (Sp)**: At 5th level, if a tyrant chooses to gain the services of a fiendish servant with his fiendish boon ability, he must choose a fiendish animal or a creature with the lawful and evil subtypes. This ability alters fiendish boon.

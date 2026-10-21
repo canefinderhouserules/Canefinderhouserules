@@ -155,3 +155,37 @@ An occult historian can use ruin reading once per day, plus an additional time e
 **Trap Sense (Ex)**: At 3rd level, an occult historian gains trap sense +1, as per the rogue class feature of the same name. This bonus improves by 1 for every 3 occultist levels gained after 3rd, to a maximum of +6 at 18th level. This replaces the focus power gained at 3rd level.
 
 **Crumbling Strike (Su)**: At 12th level, an occult historian can channel the erosion of countless ages into a single melee strike. As a full-round action, the occult historian can make a melee attack against a single target at her highest base attack bonus. If she hits, she deals 2d6 points of damage per occultist level she has (maximum 40d6). If the target succeeds at a Fortitude save (the save DC is equal to 10 + half the occult historian’s occultist level + her Intelligence modifier), it takes only 5d6 points of damage. A creature slain by this attack crumbles to dust. The occult historian can use this ability once per day, plus an additional time per day at 16th and 20th levels. This replaces outside contact 2, 3, and 4.
+
+## Ancestral Aspirant
+
+It is common for a noble to possess a deep pride for his family’s past, but when such self-importance gives way to obsession, an ancestral aspirant is born. Ancestral aspirants perform all the typical social functions of a noble, but they fill their conversations with stories of the great deeds of their family forebears, and they spend their nights researching old histories and primary sources, hungry for more.
+
+**Class Skills**: An ancestral aspirant adds Bluff and Knowledge (nobility) to his list of class skills, instead of Knowledge (planes) and Profession. This alters the occultist’s class skills.
+
+**Family Jewels**: An ancestral aspirant’s implements are always objects connected to his family history. One  of his starting implements must be an implement from the enchantment school. This ability alters implements.
+
+**Emotional Reading (Su)**: An ancestral aspirant doesn’t care much about objects that didn’t belong to his ancestors, but he is keenly attuned to his relatives and fellow nobles, allowing him to read the emotions of others. If he spends 1 minute examining a creature, he learns one fact, chosen by the GM, about the creature’s current emotions. Since emotional auras are complex, this ability is unlikely to reveal the secret feelings of a professional spy; instead, it only touches upon surface emotions. This ability replaces object reading.
+
+**Courtly Contacts (Su)**: Ancestral aspirants have contacts among courtly circles rather than otherworldly circles. This works similarly to outside contact except for the following differences: First, he doesn’t need to use a magic circle or make a payment (though he still expends 1 point of mental focus from his enchantment implement). Second, he can use those contacts to gather information for him (as per the Diplomacy skill to gather information) without spending the time himself, rather than asking a question and receiving a result similar to a *divination*. He can ask more questions over the same time period at 12th level and every 4 levels thereafter, as normal with outside contact. At 16th level, instead of delivering messages and objects, the courtly contacts can spread vicious rumors and gossip about a target throughout a settlement, causing any creatures in the settlement whose attitude toward the target wasn’t helpful to have its attitude toward the target worsened by one step. These baseless rumors last 1 week or until the target spends 8 hours refuting them and succeeds at a Diplomacy check (DC = 10 + the ancestral aspirant’s occultist level + his Intelligence modifier). This ability replaces outside contact.
+
+## Secret Broker
+
+Whether as spymasters, extortionists, political fixers, or puppet masters, secret brokers use their talents with objects to gain information, then leverage that information for their own purposes.
+
+**Class Skills**: A secret broker adds Bluff and all remaining Knowledge skills to her list of class skills. This alters the occultist’s class skills.
+
+**Knowledge Is Power**: The secret broker starts play possessing a single divination implement, typically a ledger of secrets. She gains new implements as normal at 2nd level and every 4 levels thereafter, and they can be of any school. A secret broker’s third eye resonant power grants an insight bonus on Profession and Sense Motive checks equal to the bonus it grants on Perception checks, and an insight bonus on all Knowledge checks equal to half that bonus. She must select divination with implement mastery. This ability alters implements and implement mastery.
+
+**Broker Secrets (Su)**: At 2nd level, a secret broker can trade her secrets to another. For the purpose of this ability, an object’s secret is composed of pieces of information gained from a single object through object reading, object seer, psychometry, or *read object* that the occultist didn’t otherwise know and hasn’t shared with another, written somewhere, or otherwise recorded or found a way to recover should she forget them and lose possession of the object. The secret broker can willingly use this ability in tandem with handing the object over to another creature in order to transfer the object’s secret to that creature. The secret broker forgets the object’s secret and the creature instantly learns the object’s secret.
+
+The secret broker can also destroy an object to remove his memory of the object’s secret without transferring it to another. In either case, any onlookers who understand what the secret broker is doing, and the recipient in the case of a transfer, can intrinsically tell that the secret broker has used this ability rather than simply sharing the memory through other means or destroying the object but keeping its secret. This ability replaces magic item skill.
+
+**Share Memory (Sp)**: At 4th level, a secret broker learns to use her knowledge transference powers more flexibly, allowing her to use *share memory* at will, but only with willing targets. This ability replaces shift focus.
+
+**Steal Secret (Sp)**: At 8th level, a secret broker learns how to steal a secret from an unwilling target. This works as her share memory ability, except it allows her to access memories from unwilling targets.
+
+A target that succeeds at its saving throw against a secret broker’s steal secret ability is forever after immune to that secret broker’s steal secret ability. This ability replaces magic circles.
+
+**Erase Secret (Sp)**: At 12th level, a secret broker can expend 1 point of mental focus from her divination implement in order to erase a fact from someone’s mind by touch. This works similarly to *modify memory* to erase the memory of an event, except the effect is instantaneous and leaves no magical trace (it can still be removed by *break enchantment*, *psychic surgery*, *limited wish*, *miracle*, or *wish*) and the secret broker can remove only one fact, such as “The queen and the general are having an affair” rather than a 5-minute event. Erasing the memory of a fact does not prevent the target from learning the fact again, or even potentially from deducing the fact again from evidence, given time. This ability replaces binding circles.
+
+**Purge Secret (Sp)**: At 16th level, a secret broker can expend 3 points of mental focus from her divination implement to apply her erase secret ability to up to one creature per level within 30 feet of her. This ability replaces fast circles.

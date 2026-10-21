@@ -181,3 +181,99 @@ A star watcher doesn’t gain a competence bonus on Craft (alchemy) checks to cr
 **Shooting Star (Ex)**: A star watcher can calculate trajectories with terrifying accuracy. He can apply the benefits of studied combat, studied strike, and investigator talents that add effects to studied combat or studied strike while using a starknife as a thrown weapon.
 
 Access to these additional talents replaces swift alchemy.
+
+## Cipher
+
+A cipher is a student of nonexistence. He trains himself to remain undetected and ignored in order to conduct his investigations without opposition or bothersome questions. By staying unseen, a cipher can follow and observe his quarry; being overlooked in a crowd suits him just fine.
+
+**Unassuming (Ex)**: A cipher relies on subtlety, rather than skills that would draw attention to him. A cipher removes Bluff, Diplomacy, Intimidate, and Perform from his list of class skills, and he can never use them with inspiration, regardless of any talents or other abilities he might have. A cipher can use his inspiration on any Disguise, Escape Artist, Knowledge (local), Sleight of Hand, and Stealth check without expending a use of inspiration, provided he is trained in the skill, instead of the normal investigator ability to use inspiration on any Knowledge, Linguistics, or Spellcraft check without expending a use of inspiration. This alters the investigator’s class skills and inspiration.
+
+**Inattention Blindness (Su)**: At 1st level, a cipher can blind nearby creatures to his presence. A creature who would become aware of a cipher’s presence when the cipher is within 10 feet per cipher level must succeed at a Perception check against a DC equal to 10 + the cipher’s investigator level + his Intelligence modifier or the creature ignores the investigator as though it had not become aware of his presence. The cipher can spend a use of inspiration to raise the DC by 1d6. The affected creature continues to ignore the cipher until he attacks, moves out of range, directly interacts with the creature, interacts with another creature or object in a way the affected creature notices, or otherwise specifically draws attention to himself. If the cipher does none of these things, the affected creature can attempt another Perception check at the same DC for each minute the cipher remains in range.
+
+A creature that was aware of the cipher’s presence prior to being in range of his inattention blinding ability is unaffected. This is a mind-affecting compulsion effect.
+
+A cipher can affect only one creature with inattention blindness at any given time, plus one additional creature at 5th level and every 3 investigator levels thereafter, to a maximum of seven creatures at 19th level. Once a cipher reaches that maximum, he can’t affect an additional creature until he ends the effect for an already affected creature. If multiple creatures enter the range of inattention blindness simultaneously, they all must attempt Perception checks; the inattention blindness effect affects the creatures with the lowest Perception check results, in order, until it reaches the maximum number of creatures it can affect.
+
+The cipher can suppress or activate inattention blindness as a free action, and dismiss its effects on any affected creature within range as a move action. This ability replaces trapfinding, poison lore, poison resistance, poison immunity, and trap sense.
+
+**Null Aura (Su, Sp)**: At 4th level, a cipher becomes much harder to notice with divinations. He gains a +4 bonus on saving throws against divination spells, spell-like abilities, and effects.
+
+Attempts to locate the cipher with *scrying* and other spells that share the knowledge and connection rules with *scrying* function only if the caster has firsthand or familiar knowledge of the cipher, or has one of his body parts (not from secondhand knowledge, possession, or a likeness of the cipher).
+
+If the caster does not meet these conditions, or if the cipher succeeds at a saving throw to negate such an effect, the spell or effect reveals nothing but darkness as if the target was invalid or did not exist; unlike normal, even if she is using a spell with a single target, the caster of the divination effect does not discover that her target succeeded at a saving throw.
+
+At 9th level, a cipher benefits from constant *nondetection*, requiring those who wish to use divinations on him to succeed at a caster level check (DC = 15 + his investigator level). This ability replaces swift alchemy and the investigator talent gained at 9th level.
+
+**Evasive (Ex)**: At 3rd level, a cipher can avoid unusual attacks. He gains the evasion ability, and at 11th level, he gains the improved evasion ability. This ability replaces the investigator talents gained at 3rd and 11th levels.
+
+**Tenuous Threat (Su)**: At 5th level, a cipher’s opponents tend to forget that he is a threat. The first time each day that he successfully hits an opponent who is not the target of his studied combat with a melee attack, the opponent must succeed at a Will save (DC = 10 + 1/2 the cipher’s investigator level + his Intelligence modifier) or be affected by the cipher’s studied strike. This is a mind-affecting effect. This ability alters studied strike, and replaces the investigator talent gained at 5th level.
+
+**Hide in Plain Sight (Su)**: At 7th level, a cipher can use the Stealth skill to hide even while being observed; as long as his observer is within range of his inattention blindness ability (even if it is not affected by inattention blindness), he can hide without anything to actually hide behind. This ability replaces the investigator talent gained at 7th level.
+
+## Conspirator
+
+A conspirator uses his knowledge of investigations to make sure he avoids any investigations that his rivals perform, carefully plotting acts of intrigue behind closed doors. Paranoid to a fault, a conspirator always seems to know when someone else is watching him, and he takes numerous precautions to prevent anyone from observing his most illict actions.
+
+**Underhanded (Ex)**: Conspirators find their skill sets firmly aligned with the goals of the criminal underworld. At 1st level, a conspirator can use inspiration on any Bluff, Disable Device, Disguise, Intimidate, and Sleight of Hand check without expending a use of inspiration, provided he is trained in the skill, instead of on any Knowledge, Linguistics, and Spellcraft check. He can later choose to trade an investigator talent for the ability to use inspiration on any Knowledge, Linguistics, and Spellcraft check without expending a use of inspirtation, provided he is trained in the skill. A conspirator adds half his investigator level (minimum 1) on Bluff checks to appear innocent and on Disguise checks. This ability replaces trapfinding and alters inspiration.
+
+**Watcher Sense (Ex)**: At 3rd level, a conspirator is able to sense when someone else is watching him. He gains a +1 bonus on Perception checks to notice scrying sensors, *prying eyes*, and other magical effects used to watch him, as well as on Perception checks to act on the surprise round. This bonus increases by 1 at 6th level and every 3 investigator levels thereafter.
+
+Additionally, at 7th level, if a scrying sensor is invisible, the invisibility does not increase the DC of the conspirator’s Perception check to notice it, regardless of whether or not he is using an ability that allows him to see invisible things. The DC for his Perception check is equal to 20 + the spell’s level (with no +20 increase to the Perception DC for a moving invisible sensor or no +40 increase for an immobile invisible sensor). This ability replaces trap sense and the investigator talent gained at 7th level.
+
+## Forensic Physician
+
+A forensic physician specializes in analyzing medical details in order to solve crimes and uncover evidence. Whether it is a disease, blood work, a poison, or bones, the forensic physician’s medical expertise allows him great insight into his cases, much to the chagrin of criminals who seek to cover up the nature of their crimes, even those with magical methods at their disposal.
+
+**Medical Expertise (Ex)**: At 1st level, a forensic physician can use inspiration on any Heal checks without expending a use, if he is trained in the skill, but not on any Linguistics check. If he later takes the expanded inspiration investigator talent, he can use inspiration on Linguistic checks without expending a use, if he is trained in the skill. A forensic physician adds half his investigator level (minimum 1) on Heal checks. This bonus doubles on Heal checks to notice tampering with medical evidence, such as those used to defeat *dress corpse* (see page 212). This ability alters inspiration and replaces trapfinding.
+
+**Disease Lore (Ex)**: At 3rd level, a forensic physician can use Heal to identify a disease after only 1 minute of examining the symptoms (DC = the disease’s saving throw DC), and he can spend 1 minute and attempt a Heal check at the same DC to disinfect an infected object or corpse. At 3rd level, he receives a +2 bonus on saving throws against diseases. This bonus increases by 2 at 6th level and every 3 investigator levels thereafter. This ability replaces trap sense and the investigator talent gained at 3rd level.
+
+**Blood Lore (Ex)**: At 5th level, a forensic physician can study a sample of blood and learn about its origins by attempting a Heal check with a DC of 20 for a creature very familiar to the forensic physician (generally common PC races for a PC forensic physician), 25 if the creature is somewhat familiar to the forensic physician (typically a commonly known monster, but not the subject of many investigations), and 30 or more for rarer creatures. This allows the forensic physician to identify the race of creature that spilled the blood, and the creature’s age and gender (if any).
+
+If the forensic physician succeeds at the Heal check but might not have heard of the creature’s race before, he can attempt an automatic Knowledge check to see if he knows about the creature. If he succeeds, he identifies the blood (and gains all other benefits of the Knowledge check); otherwise, he knows that he succeeded at the Heal check but the blood is not from a creature he recognizes.
+
+If the blood is in its original setting, and the forensic physician exceeds the DC by 5 or more, he can study the blood to determine a rough estimate of when the blood was shed, and he can study the bloodstain patterns to get an approximate idea of how the creatures involved were positioned and moving. This ability replaces the investigator talent gained at 5th level.
+
+## Hallucinist
+
+A hallucinist imbibes magical drugs to expand his mind into the psychedelic world, extending his awareness to things he could not normally perceive. While a hallucinist’s body sways oddly under the effects of his hallucinogen, it grants him strange insights that reveal things to him that others can’t see. Hallucinists know that others can’t function with these expanded senses, and they use that fact to repurpose their hallucinations as distractions or assaults against their enemies.
+
+**Psychedelic Perception (Su)**: In addition to magical extracts, a hallucinist learns to swiftly mix various psychoactive substances, using a fraction of his own power to create a magical hallucinogen that he can imbibe to grant himself powers of psychedelic perception. A hallucinogen follows all the normal rules and restrictions for an alchemist’s mutagen as if they were the same substance, just as a cognatogen does.
+
+At 1st level, the effects of a hallucinogen last for 1 minute per investigator level, and the hallucinogen grants low-light vision and a +2 insight bonus on Perception checks, but imposes a –2 penalty to his Dexterity. At 3rd level, the duration increases to 10 minutes per the hallucinist’s investigator level and the insight bonus on Perception checks increases to +4. At 7th level, the hallucinogen also grants *see invisibility* and darkvision 60 feet (or if the hallucinist drinking it already has darkvision, it increases the range of the darkvision by 30 feet) and the Perception bonus increases to +6. At 11th level, the hallucinogen also grants *aura sight* and the Perception bonus increases to +8. At 15th level, the hallucinogen also grants blindsense 60 feet and the Perception bonus increases to +10. This ability replaces trapfinding, the trap sense gained at 3rd level, and the investigator talents gained at 3rd, 7th, 11th, and 15th levels.
+
+**Drug Lore (Ex)**: At 2nd level, a hallucinist has a deep understanding and appreciation of drugs. If the hallucinist spends 1 minute physically examining a drug, he can attempt a Knowledge (nature) check to identify any natural drug or a Knowledge (arcana) check to identify any magical drug (DC = the drug’s addiction saving throw DC). Once he identifies a drug, he can spend 1 minute and attempt a Craft (alchemy) check (DC = the drug’s addiction saving throw DC) to neutralize 1 dose of the drug. Success renders the dose harmless. The hallucinist has no chance of accidentally drugging herself when examining or attempting to neutralize a drug. This ability replaces poison lore.
+
+**Drug Resistance (Ex)**: At 2nd level, a hallucinist gains a +2 bonus on all saving throws against drug addiction. This bonus increases to +4 at 5th level, and to +6 at 8th level. At 11th level, a hallucinist becomes completely immune to drug addiction, but he can choose to lower this immunity for any particular drug. If he becomes addicted to a drug, he must fully recover from the addiction before he can resume his immunity to addiction to that drug. This ability replaces all instances of poison resistance and poison immunity.
+
+**Shared Hallucinations (Sp)**: At 3rd level, a hallucinist under the effects of his hallucinogen can share and manipulate his hallucinatory revelations. By expending 10 minutes of the duration of his hallucinogen or one use of inspiration, he can create an effect similar to *minor image* or *oneiric horror*. At 5th level, he can create an effect similar to *synesthesia*.
+
+Any of the effects remain only while the hallucinist concentrates upon it, for up to 1 round per hallucinist’s investigator level, but otherwise function as the spell. The DC of saving throws against these effects is equal to 10 + 1/2 the hallucinist’s investigator level + his modifier.
+
+At 9th level, a hallucinist can expend 10 minutes of the duration of the hallucinogen or one use of inspiration to use *aura alteration* on one creature or object (unlike the other three abilities, this does not require concentration). This ability replaces keen recollection, and the investigator talents gained at 5th and 9th levels.
+
+**Simultaneous Study (Su)**: At 6th level and every 3 investigator levels thereafter, the expanded mind of a hallucinist is able to maintain his studied combat bonuses against an additional target at the same time. In order to do so, the hallucinist must be using his psychedelic perception ability and must expend one use of inspiration in order to designate each target beyond the first target (this cost stacks with the use of inspiration required to designate a target more than once per 24 hours). He still needs to take a move action for each target, designating them one at a time. The hallucinist can discard this connection to a target of studied combat as a free action, allowing him to study another target in its place. This ability alters studied combat and replaces all remaining trap sense.
+
+## Majordomo
+
+A majordomo is a skilled individual able to keep the complex operations of a noble’s holdings running on a day-to-day basis. In a world of intrigue where the loyalties of staff can be bought and sold, sometimes it takes the skills of an investigator to follow the byzantine paper trails and prevent embezzling and espionage within the estates of the elite.
+
+**Paper Trail (Ex)**: A majordomo is trained to uncover forgeries and trace down discrepancies in paperwork in order to ferret out intrigue. She adds half her investigator level (minimum 1) to Linguistics and Profession checks to spot a forgery, deal with paperwork, and notice discrepancies in paperwork.
+
+A majordomo who analyzes the handwriting of a document and succeeds at a Linguistics check against a DC equal to 20 + the writer’s Bluff bonus gets a hunch about whether the document’s writer was lying or otherwise nervous. This ability doesn’t work if the document was dictated to someone who thought the contents were legitimate. This ability replaces trapfinding.
+
+**Delegate (Ex)**: In order to perform all the necessary tasks of her household, a majordomo quickly learns how to delegate. At 1st level and every 3 investigator levels thereafter, a majordomo gains a bonus teamwork feat. As a standard action, she can grant all allies within 30 feet who can see or hear her one of these teamwork feats (even if they don’t meet the prerequisites) for a number of rounds equal to 3 + her investigator level. She can use this ability once per day at 1st level, plus an additional time at 4th level and every 3 levels thereafter.
+
+At 4th level, a majordomo can use her delegate ability and designate a single noncombat task that could make use of the teamwork feat (for instance, designating the Cooperative Crafting feat and a session of crafting). As long as the allies pursue the task uninterrupted, instead of experiencing the benefits for a number of rounds equal to 3 + the majordomo’s investigator level, her allies retain the benefits until the task is complete, to a maximum of 8 hours. Additionally, the majordomo can use her delegate ability as a move action instead of a standard action.
+
+At 7th level, a majordomo can use her delegate ability to grant two teamwork feats to her allies, instead of one feat. At 10th level, she can also use her delegate ability as a swift action. At 13th level, she can grant up to three teamwork feats to her allies when she uses delegate.
+
+At 16th level, she can spend 1 minute and use her delegate ability to grant a single teamwork feat to all of her allies until the next time she recovers uses of her delegate ability. As usual for multiple uses of the same ability, if she later uses delegate to grant three teamwork feats, the two uses don’t stack to grant four bonus teamwork feats, but the longer-duration teamwork feat returns after the three shorter-duration feats expire. This ability replaces the alchemy and swift alchemy abilities. Additionally, a majordomo can’t take the alchemist discovery investigator talent or any discovery that affects or involves alchemy.
+
+**Inspired Manager (Ex)**: At 3rd level, a majordomo knows how to make just about any work task more efficient, from cleaning a great hall after a big party to crafting a magic item.
+
+Whenever an ally begins a workday task such as Craft, Profession, magic item creation, spell research, managing a kingdom, using the downtime rules, or other similar tasks, the majordomo can spend one use of inspiration and 1 minute of planning to create a plan for that ally. If the ally chooses to follow the majordomo’s plan and attempts the task on the same day, if the task would normally take at least 4 hours, it instead takes 30 minutes less time, and if the task would normally take at least 8 hours, it instead takes 1 hour less time.
+
+If using the kingdom-building rules from *Ultimate Campaign*, at 3rd level, the majordomo counts her Intelligence score as 2 higher when determining the bonus she provides in a kingdom leadership role.
+
+Her effective Intelligence score increases by an additional 2 at 6th level and every 3 investigator levels thereafter. This ability replaces all instances of trap sense.

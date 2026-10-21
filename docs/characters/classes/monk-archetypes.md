@@ -645,3 +645,33 @@ Some monks wander the world in humility to learn and to share wisdom and philoso
 **Disappear Unnoticed (Ex)**: At 12th level, the wanderer may use Stealth to hide even while being directly observed or when no cover or concealment is available, as long as he is adjacent to at least one creature of his size or larger, by spending 1 point from his *ki* pool. This effect lasts until the beginning of the wanderer’s next turn and may be continued in consecutive rounds by spending 1 *ki* point each round. This ability replaces abundant step.
 
 **Free Step (Su)**: At 13th level, the wanderer gains continuous *freedom of movement* as a continuous spell-like ability*.* This ability replaces diamond soul.
+
+## Black Asp
+
+The black asps are a sinister order of monks who train as assassins and infiltrators with no need for weapons to achieve their goals. Through meditation and study, they learn how to use poison, hide any magics they choose to employ, and even empty their minds of thought to protect themselves from divinations.
+
+**Black Asp’s Path (Ex)**: A black asp is trained in the use of poison and cannot accidentally poison himself when applying poison to a weapon or when rolling a natural 1 on an attack roll with a poisoned weapon. At 3rd level, the black asp’s ability to use poison improves. He gains Adder Strike as a bonus feat even if he does not meet the prerequisites. This ability replaces stunning fist and still mind.
+
+**Forbidden Powers (Su)**: A black asp can select a forbidden ki power in place of any of the following monk class abilities (or as a ki power if he is an unchained monk): slow fall (4th), high jump (5th), wholeness of body (7th), diamond body (11th), abundant step (12th), diamond soul (13th), quivering palm (15th), tongue of the sun and moon (17th), and empty body (19th). If he chooses to do so, he replaces the monk class ability the black asp gives up for the chosen forbidden ki power. The black asp can select any of the following forbidden ki powers.
+
+**Black Asp Venom (Su)**: As a swift action, a black asp with this ki power can poison his unarmed strike or a weapon in his hand. The poison lasts for 1 minute or until expended. A creature damaged by the poisoned weapon is affected as per the *poison* spell. The save DC is equal to 10 + 1/2 the black asp’s monk level + his Wisdom modifier. Each use of this ability costs 2 ki points. A black asp must be at least 12th level before selecting this ki power.
+
+**Empty Mind (Sp)**: A black asp with this ki power can choose to lower the number of ki points in his ki pool by 3 when he recovers his ki points for the day. If he does so, he gains the benefits of *mind blank* for 24 hours. A black asp must be at least 16th level and possess the greater hidden magic ki power before selecting this ki power.
+
+**Greater Hidden Magic (Sp)**: As long as he has at least 1 point in his ki pool, all of the black asp’s items are constantly under the effects of *magic aura*. As an immediate action, he can spend 2 ki points to cause himself and any magic items he is carrying to appear to be nonmagical (as if he had cast *greater magic aura*) for 1  hour per monk level. A black asp must be at least 8th level and possess the hidden magic ki power before selecting this ki power.
+
+**Hidden Magic (Sp)**: As an immediate action, the black asp can spend 1 ki point to hide the auras of all magic items he is carrying (as if they were all under *magic aura*) for 1 hour per monk level.
+
+**Shifting Form (Su)**: As an immediate action, a black asp can spend 1 ki point to make his outline shift and waver for 1 round. This ability otherwise functions as per the spell *blur*.
+
+## Sage Counselor
+
+Sage counselors are ascetics and mystics who leave the confines of the monastery walls to advise secular people about spiritual truths and to seek knowledge of the outside world. They often find work as mentors teaching religion and martial arts, and some of them even become counselors for people in high places. Sage counselors often speak in metaphors, knowing that indirect persuasion is more effective than speaking plainly, and they use indirect tactics in combat as well.
+
+**Class Skills**: A sage counselor adds Bluff, Diplomacy, and Knowledge (nobility) to his list of class skills, instead of Climb, Escape Artist, and Perception. This alters the monk’s class skills.
+
+**Cunning Fist (Ex)**: A sage counselor gains Combat Expertise as a bonus feat, even if he doesn’t meet the prerequisites, and he can ignore the Intelligence prerequisite on feats that have Combat Expertise as a prerequisite. At 2nd level, he gains Improved Feint, and at 6th level, he gains Greater Feint, even if he doesn’t meet the prerequisites. This ability replaces the bonus feats gained at 1st, 2nd, and 6th levels.
+
+**Feinting Flurry**: At 4th level, a sage counselor can spend 1 ki point while performing a flurry of blows to feint an opponent as a swift action, but he can’t spend 1 ki point to make an additional attack when making a flurry of blows. At 10th level, he can also choose to replace his first attack during a flurry of blows with a feint check. This ability alters flurry of blows and ki pool, and it replaces the bonus feat gained at 10th level.
+
+**Deceptive Ki (Su)**: At 4th level, the sage counselor can spend 1 point from his ki pool as a swift action to give himself a +4 insight bonus on his next Bluff check. The sage counselor does not gain the ability to spend ki to increase his speed by 20 feet for 1 round. This ability alters ki pool (and it replaces the ki power gained at 4th level for an unchained monk).

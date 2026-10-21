@@ -245,3 +245,49 @@ Some hunters are masters of the wild. Whether raised by apes or having some othe
 **Improved Unarmed Strike (Ex)**: At 2nd level, a treestrider gains Improved Unarmed Strike as a bonus feat. This replaces precise companion.
 
 **Tree Stride (Sp)**: At 10th level, a treestrider can use a full-round action to move between two trees, as per the spell tree stride. Unlike the spell, this ability has a duration of instantaneous and the treestrider can make only a single transfer. She can bring her animal companion with her, but if she does, her companion can’t take any actions that round. Tree stride can be used a number of times per day equal to 3 + the hunter’s Wisdom modifier. This replaces raise animal companion.
+
+## Courtly Hunter
+
+While most hunters find themselves at ease in the wildest parts of the world, courtly hunters instead make their homes in cultured urban environments. They and their animal companions are more refined than typical hunters, using their skills to navigate the winding paths of courtly intrigue as surely as other hunters find trails in the wilderness.
+
+**Class Skills**: A courtly hunter adds Bluff, Diplomacy, and Sense Motive to her list of class skills, instead of Knowledge (geography), Knowledge (nature), and Survival. This alters the hunter’s class skills.
+
+**Courtly Companion**: A courtly hunter’s animal companion was touched by either the fey or the nature spirits that form leshys and answer to *commune with nature*, granting it its own intelligence. The companion’s type changes to magical beast (augmented animal), but this doesn’t change any of its statistics and it counts as an animal, not as a magical beast, for the purposes of determining all effects, prerequisites, and so on. It does not learn tricks, but it does have an Intelligence score equal to that of a familiar belonging to a wizard of the courtly hunter’s hunter level. Levels in other classes that grant animal companions do not stack with levels of courtly hunter for the purpose of determining the abilities of her courtly companion. This ability alters animal companion.
+
+**Refined Focus (Su)**: A courtly hunter has access to a different set of animal aspects with her animal focus. She does not gain access to the bear, bull, frog, monkey, snake, stag, tiger, or wolf aspects. Instead, she gains access to the following aspects.
+
+**Beaver**: The creature gains a +4 competence bonus on Craft checks. This bonus increases to +6 at 8th level and +8 at 15th level.
+
+**Chameleon**: The creature gains a +4 competence bonus on Disguise checks. This bonus increases to +6 at 8th level and +8 at 15th level.
+
+**Eagle**: The creature gains a +2 enhancement bonus to Charisma. This bonus increases to +4 at 8th level and +6 at 15th level.
+
+**Fox**: The creature gains a +4 competence bonus on Bluff checks. This bonus increases to +6 at 8th level and +8 at 15th level.
+
+**Frilled Lizard**: The creature gains a +4 competence bonus on Intimidate checks. This bonus increases to +6 at 8th level and +8 at 15th level.
+
+**Octopus**: The creature gains a +4 competence bonus on Escape Artist checks. This bonus increases to +6 at 8th level and +8 at 15th level.
+
+**Raccoon**: The creature gains a +4 competence bonus on Sleight of Hand checks. This bonus increases to +6 at 8th level and +8 at 15th level.
+
+**Songbird**: The creature gains a +4 competence bonus on Perform checks. This bonus increases to +6 at 8th level and +8 at 15th level. This ability alters animal focus.
+
+**Subtle Companion (Su)**: At 2nd level, a courtly hunter can transform her animal companion into a similar Tiny animal to allow it hide easily or even blend in and act as a spy. For instance, a tiger could be transformed into a housecat, a wolf could be transformed into a Tiny dog, a dire bat could be transformed into a Tiny flying fox, and so on. This functions as a polymorph effect, and the animal companion gains a +2 size bonus to Dexterity and a –4 size penalty to Strength (use the polymorph table of the *Core Rulebook* to adjust its ability score if the animal companion is larger than Medium). As a standard action, the courtly hunter can touch her animal companion to transform it. This ability replaces precise companion.
+
+**Skill Bond (Ex)**: At 3rd level, a courtly hunter’s animal companion gains the courtly hunter’s class skills as class skills. Her animal companion can use the courtly hunter’s skill ranks in a skill in place of its own, but only to a maximum of the courtly hunter’s hunter level (for instance, if a character had 3 levels in courtly hunter and 5 ranks in Diplomacy, her animal companion could either share 3 ranks with skill bond or use its own ranks, whichever would result in a higher total skill bonus). This ability replaces hunter tactics and the hunter’s bonus teamwork feats.
+
+**Alternate Form (Su)**: At 7th level, the courtly hunter’s animal companion learns an additional subtle form. When the courtly hunter gains this ability, she chooses a Tiny animal. When under the effects of the subtle companion ability, the courtly hunter’s animal companion can change between a shrunken, more innocuous version of its original shape or the shape of the chosen animal as a standard action. When it transforms, it loses abilities dependent on its original shape and gains abilities from its new shape as *beast shape II*. At 13th and 19th levels, the courtly hunter can select an additional form to add to the animal companion’s list of choices while it is in its polymorphed form. This ability replaces bonus tricks.
+
+## Roof Runner
+
+Roof runners are skilled ambushers, skirmishers, and spies who eschew heavier types of armor in order to remain light on their feet. They lurk in the shadows of the rooftops to find people or houses to rob, though some use their specialized skills for nobler purposes.
+
+**Skilled (Ex)**: A roof runner adds Acrobatics, Escape Artist, and Sleight of Hand to her list of class skills. This alters the hunter’s class skills and replaces the hunter’s proficiency with medium armor and shields.
+
+**Natural Leaper (Ex)**: At 2nd level, a roof runner adds half her hunter level on Acrobatics checks to jump. This ability replaces track.
+
+**Shingle Stride (Ex)**: At 5th level, a roof runner and her animal companion can move at full speed without penalty when using Acrobatics to cross narrow or uneven surfaces, and climb at half speed (instead of one-quarter speed) without taking the –5 penalty. This ability replaces woodland stride.
+
+**Alley Ghost (Ex)**: At 8th level, a roof runner gains the benefits of the fast stealth rogue talent. This ability replaces swift tracker.
+
+**Master Climber (Ex)**: At 20th level, a roof runner gains a climb speed equal to her base land speed, instead of being able to move at full speed while tracking. This ability alters master hunter.

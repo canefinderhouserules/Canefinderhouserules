@@ -644,3 +644,105 @@ The isolation that some half-elves feel leads them to live a life of isolation a
 **Wild Stalker (Ex)**: At 14th level, a wild shadow learns to better use natural surroundings to obscure his position in combat. Whenever a wild shadow is within one of his favored terrains and a feature of that terrain grants him cover, the bonuses to AC and Reflex saves for that cover improve by 1. Additionally, while he is within one of his favored terrains, if he gains concealment or total concealment, the miss chance of either type of concealment improves by 10%. Furthermore, at 16th level and 19th level, the bonuses granted by cover increase by 1 and the miss chance increases by another 10% (maximum +3 and +30% respectively at 20th level). This ability replaces the camouflage class feature.
 
 **Master of Terrain (Ex)**: At 19th level, a wild shadow can use his harrying attack against creatures other than his favored enemy or he can spend a standard action to designate up to two of his favored enemies as his harried prey instead. This ability replaces the improved quarry class feature.
+
+## New Combat Styles
+
+Rangers and other characters who gain combat styles can also select from the following new options. Such characters can choose feats from their selected combat style even if they do not meet the normal prerequisites for the feat in question.
+
+**Deceptive**: If the ranger selects the deceptive combat style, he can choose from the following list whenever he gains a combat style feat: Disengaging Feint, Improved Feint, Ranged Feint, and Two-Weapon Feint. At 6th level, he adds Greater Feint and Misdirection Tactics to the list. At 10th level, he adds Disengaging Shot and Passing Trick to the list.
+
+**Menacing**: If the ranger selects the menacing combat style, he can choose from the following list whenever he gains a combat style feat: Dazzling Display, Enforcer, Gory Finish, and Intimidating Prowess. At 6th level, he adds Martial Dominance and Shatter Defenses to the list. At 10th level, he adds Dreadful Carnage and Improved Critical to the list.
+
+**Underhanded**: If the ranger selects the underhanded combat style, he can choose from the following list whenever he gains a combat style feat, and if he chooses Combat Expertise, he counts as having 13 Intelligence for the purpose of selecting that feat and others that have Combat Expertise as a prerequisite: Combat Expertise, Dodge, Improved Dirty Trick, and Improved Steal. At 6th level, he adds Greater Dirty Trick and Greater Steal to the list. At 10th level, he adds Quick Dirty Trick and Quick Steal to the list.
+
+## Code Runner
+
+A code runner specializes in the subtle and speedy transfer of secret messages. He performs long runs between distant lands, sometimes spanning continents and often traversing difficult terrain. He trains his mind both to memorize long messages and to resist any attempts to steal his covert communiques.
+
+**Class Skills**: A code runner adds Knowledge (local) and Linguistics to his list of class skills, instead of Handle Animal and Heal. This alters the ranger’s class skills.
+
+**Mnemonic Genius (Ex)**: A code runner learns to memorize and accurately recall information, even if he does not speak or understand the language in which the information was presented. The code runner can spend 1 hour and attempt a DC 15 Linguistics check to memorize a single passage of up to 150 words of information in a language he speaks.
+
+For every 5 by which he exceeds the DC, he can memorize 150 additional words. The DC is increased by 10 if the message is encoded or in a language he doesn’t understand. A code runner can memorize one such message at any given time. If he fails to memorize a message, he can retry as many times as he wants, as long as he spends 1 hour each time. Once a message has been memorized, he can recall it with perfect accuracy until he memorizes a different message. This ability replaces wild empathy.
+
+**Resist Interrogation (Ex)**: At 4th level, a code runner gains a bonus equal to half his ranger level on saving throws against divination effects. At 11th level, if he succeeds at a saving throw against a divination effect that would grant its caster knowledge or information, the caster is not aware that the saving throw was successful, and the code runner can attempt a Bluff check opposed by the caster’s Sense Motive check in order to send false information to the caster. This ability replaces hunter’s bond.
+
+## Dandy
+
+The antithesis of the gruff and wild woodsmen, a dandy takes effort to master the subtle etiquette of noble courts, the whispers of dark rumors, and the customs of the cultured world. Nonetheless, he is still a ranger at heart, and he hunts for rumors and gossip throughout the grand ballrooms of the wealthy and powerful just as most rangers hunt for enemies in the wilderness.
+
+**Class Skills**: A dandy adds Bluff, Diplomacy, Knowledge (local), Knowledge (nobility), and Sense Motive to his list of class skills, instead of Handle Animal, Knowledge (dungeoneering), Knowledge (geography), Knowledge (nature), and Survival. This alters the ranger’s class skills.
+
+**Favored Nation (Ex)**: Each time he would select a favored enemy, a dandy instead selects a country with whose courtly graces he is wholly versed and studied. He gains a +2 bonus on Bluff, Diplomacy, Knowledge, Perception, Sense Motive, and Survival checks against courtiers, officials, nobles, and gentry from that nation. Likewise, he gains a +2 bonus on weapon attack and damage rolls against them.
+
+A dandy can attempt the appropriate Knowledge checks untrained to identify such people from the selected country. A dandy gains additional favored nations, and can increase the bonuses of one of his current favored nations, in the same way he would with a normal ranger’s favored enemy. This ability replaces favored enemy.
+
+**Rumor Empathy (Ex)**: A dandy can alter the flow and spread of rumors in his favor. This functions similarly to wild empathy, except that it takes 1 day (8 hours of work), instead of 1 minute, and it affects the general tenor of a rumor instead of a wild animal.
+
+A successful rumor empathy check allows the dandy to increase or decrease the rumor’s tone by one step. For example, he could make an indifferent rumor friendly and thus positive toward its target, or an unfriendly rumor hostile and thus even more negative toward its target than it was originally.
+
+The difficulty of influencing a rumor depends on the size of the community in which it is spreading. The DC of the check is 15 in a village or smaller settlement. This DC increases by 5 and the number of days required to attempt the check increases by 2 for every settlement size category larger than a village—to a maximum of DC 40 and 11 days to affect a rumor spreading through an entire metropolis.
+
+If the rumor is only spreading through a smaller segment of the population, such as the elven district in a larger metropolis, use the population of that smaller segment to determine the DC and number of days of work required to use rumor empathy. The DC also increases by 10 if the rumor is about the dandy himself, since the dandy is obviously a biased source with respects to rumors about his own person. This ability replaces wild empathy.
+
+**Favored Terrain (Ex)**: At 3rd level, a dandy gains favored terrain (urban), and though the ability continues to increase at the same levels, he doesn’t add additional terrains. However, at 8th level, whenever he is at a courtly function or party, his favored terrain bonuses increase by an additional 2. This ability alters favored terrain.
+
+**Hobnob (Ex)**: At 4th level, a dandy must choose his allies as his hunter’s bond, not an animal companion. In addition to the usual hunter’s bond ability, the dandy can spend 10 minutes at a particular event or party hobnobbing and introducing his allies to the right people in order to provide them with half the skill bonuses of his favored nation (though not the bonuses on attack and damage rolls) for the duration of the event. This ability alters hunter’s bond.
+
+**Dandy Spells (Su)**: At 4th level, the dandy gains a different sort of spellcasting than most rangers. A dandy uses his Charisma instead of his Wisdom to determine spells per day, DCs, and other factors related to spellcasting. He casts spells spontaneously from the bard spell list (rather than the ranger spell list) with the same number of spells known and spells per day as a medium of his ranger level. This ability alters the ranger’s spellcasting.
+
+**Party Crasher (Ex)**: At 7th level, the dandy is able to finagle his way into fancy parties, kings’ balls, and other social events meant for the cream of society. To do so, he must attempt a DC 25 Diplomacy check, which takes 1d4 hours. If he succeeds, he finds himself an invitation, an invitee looking for a date, a staff member willing to look the other way, or some other way to enter the party. This does not allow him to break into restricted areas or to infiltrate strictly closed gatherings, such as secret meetings; it only allows him access to social events. This ability replaces woodland stride.
+
+## Guildbreaker
+
+Some rangers aren’t the type to put their steel and sweat behind fighting particular kinds of creatures. Instead, these shrewd warriors alter their focus and dedicate their efforts to dismantling enemy organizations. Guildbreakers stoke their enmity for their foes, and they train to track the movements of rival organizations, and even to infiltrate these groups to gather secret intelligence.
+
+**Class Skills**: A guildbreaker adds Bluff, Disguise, and Knowledge (local) to his list of class skills, instead of Handle Animal, Heal, and Knowledge (geography). This alters the ranger’s class skills.
+
+**Favored Organization (Ex)**: When a guildbreaker selects a favored enemy, he can opt to select a specific organization, such as a particular thieves’ guild, in lieu of a specific creature type. The guildbreaker must select this option for his first favored enemy, but he can choose either option for his later favored enemies. The guildbreaker’s bonuses from favored enemy apply against official members of this organization regardless of their creature type, but not against the organization’s allies, paid mercenaries, or forced labor. This ability only applies if the guildbreaker knows that the target is a member of the organization. This ability alters favored enemy.
+
+**Read the City (Ex)**: A guildbreaker spends most of his time in cities and large population centers. As a result, he gains an innate sense of comings and goings in the hustle around him. When in an urban environment, a guildbreaker can use the Survival skill to gather information, but only about the movements of creatures and what sort of people (races, social classes, predominant professions, and the like) occupy the community. Unlike with the normal way to gather information, the guildbreaker studies the signs of the city instead of asking around, so it doesn’t spread word about the nature of his questions to others. This ability replaces wild empathy.
+
+**Deep Cover (Ex, Su)**: Guildbreakers may work to dismantle their enemies’ power structures from within, and they know how to gather resources and the necessary trappings in order to masquerade as a member of those organizations. At 4th level, a guildbreaker adds a circumstance bonus equal to twice his favored organization bonus to all Bluff and Disguise checks to appear to be a member of the organization (this does not apply on Disguise checks to change his appearance and replace a specific member, but rather to checks related to appear to be a general member of the organization).
+
+The bonus on Bluff checks from deep cover stacks with the guildbreaker’s overall bonus from favored organization if the person he is attempting to deceive is also a member of that organization.
+
+A guildbreaker posing as a member of one of his favored enemy organizations automatically defeats truth-telling magic (as if under the effects of *glibness*), but only for the purpose of claiming to be a member of the organization. Truth-telling magic can still expose him with a more indirect question, such as a member of a non-religious evil organization asking the guildbreaker for the identity of his patron deity. This ability replaces hunter’s bond.
+
+**Crowd Stride (Ex)**: At 7th level, a guildbreaker can slip through crowded streets with ease. His movement speed is not reduced when moving through a crowd. This ability replaces woodland stride.
+
+## Sentinel
+
+A sentinel specializes in heightening all of her senses to expose spies and those who work for opposing factions, rooting out all who attempt to slip past her ever-vigilant watch. Her uncanny skills are in ready demand by city guards, business owners, and even criminal organizations that desire to keep the authorities out of their disreputable affairs.
+
+**Mugshot (Sp)**: A sentinel can spend 1 minute studying the appearance of a target or a likeness of the target in the form of a picture, carving, or visual illusion and memorize it with perfect recall. From that point on, the sentinel gains a +4 bonus on Perception checks to notice the target in disguise or pick him out of a crowd. The sentinel is automatically allowed a Perception check against the target’s Disguise check whenever she sees the target, even if the individual isn’t doing anything to draw attention to himself. A sentinel can memorize the appearance of a number of targets equal to her Wisdom modifier (minimum 1) at any given time. Once a sentinel has reached her maximum number of memorized appearances, she must forget one of the memorized faces before gaining a new one. This ability replaces wild empathy.
+
+**Uncanny Alertness (Ex)**: At 4th level, a sentinel is always ready to defend against incoming attacks. A sentinel is never flatfooted before acting in combat, even if she is surprised (she can still become flatfooted by any other effect or situation that would render her flat-footed).
+
+At 7th level, the sentinel also always acts on the surprise round. If she would have acted on the surprise round anyway, or if there is no surprise round, she gains a bonus on initiative checks equal to half her ranger level. This ability replaces a ranger’s hunter’s bond and woodland stride.
+
+**Sense Intruder (Su)**: At 6th level, a sentinel gains the ability to establish an incredibly effective watch by standing still and focusing on all of her senses as once. At any time, she can spend 1 minute setting up this ability. Once she has done so, she must stand still, taking no other actions except to keep track of her surroundings; she can’t even take free actions like talking. Her heightened senses grant her a supernatural awareness of her surroundings within 20 feet. If any Tiny or larger creature enters the area over which her awareness extends, she automatically knows that it did so (this part of the ability is a divination effect and can’t be deceived by spells that block sensory input, only by extreme effects like *mind blank*). Furthermore, unless that creature is simultaneously negating its visual, auditory, and scent stimuli (such as by being under *invisibility*, *silence*, and *negate aroma* all at once), the sentinel can attempt a Perception check as an immediate action to pinpoint the intruder’s location, ignoring any Stealth bonuses the intruder might gain from effects that obscure only one of those senses, such as *invisibility*, camouflage, or other spells or abilities.
+
+This sort of heightened analysis of sensory stimuli is taxing, as much so as hustling overland for an equivalent period of time, despite not moving from a single spot. The sentinel can use this ability for 1 hour without penalty. Using sense intruder for a second hour in between sleep cycles deals 1 point of nonlethal damage to the sentinel, and each additional hour deals twice the damage taken during the previous hour. A sentinel who takes any nonlethal damage from using this ability becomes fatigued. Each hour the sentinel uses sense intruder also counts as 1 hour of hustling overland for the purpose of determining how much nonlethal damage the sentinel takes in a single day.
+
+Starting at 10th level, whenever the sentinel gains a combat style feat, she can choose to trade it for a 10-foot increase in the radius of this ability. This ability replaces the combat style feat gained at 6th level and alters combat style feats.
+
+**Mugshot Quarry (Ex)**: At 11th level, the sentinel can activate her quarry ability (and her improved quarry ability at 19th level) against any of the targets she has memorized with the mugshot ability, even if the creature in question is not within her line of sight. This ability alters quarry and improved quarry.
+
+## Transporter
+
+Transporters specialize in smuggling people as efficiently as possible through harsh and difficult environments. Individuals such as escaped political exiles, refugees fleeing danger, and various criminals all seek the transporter’s services. While some transporters actively work to serve justice or a political cause, others are wily opportunists filling a need and profiting from the high price that desperate people are willing to pay for safe, discrete passage.
+
+**Trailbreaker (Ex)**: A transporter constantly works to obscure his trail. He increases the Survival DC to track him, or a group of which he is a part, by an amount equal to half his ranger level (minimum 1). This does not stack with similar abilities, such as a traceless operative’s trackless ability. This ability replaces wild empathy.
+
+**Plot Course (Ex)**: At 3rd level, a transporter can spend 1d4 hours and attempt a DC 15 Knowledge (geography) check to plot a subtle course of travel between his current location and another destination. The transporter’s course of travel is almost never direct, as it is optimized for smuggling. Thereafter, the transporter gains a +2 bonus on initiative, Knowledge (geography), Perception, Stealth, and Survival checks involving traveling along his plotted course.
+
+At 8th level, if the transporter’s Knowledge (geography) check exceeds the DC by 10, the bonuses increase to +4. At 13th level, if his Knowledge (geography) check exceeds the DC by 20, the bonuses increase to +6, and at 18th level, if the transporter’s check exceeds the DC by 30, the bonuses increase to +8.
+
+A transporter can gain the benefits of only a single plotted course at any given time. If the transporter ever strays from the course or attempts to plot a new course for any reason, he loses the benefits of his current course immediately. A transporter can retry his Knowledge (geography) check to plot a course as long as he spends 1d4 hours each time. This ability replaces favored terrain.
+
+**Smuggler’s Bond (Ex)**: At 4th level, a transporter must choose his allies as his hunter’s bond, not an animal companion. Instead of granting the transporter’s favored enemy bonus to his allies as a move action, he instead grants his plot course bonus to his allies constantly. This ability alters hunter’s bond.
+
+**Hideaway (Ex)**: A transporter can spend 1 hour and attempt a DC 20 Survival check to create a hidden shelter, useful for staying unseen by patrols of enemy creatures. The transporter’s shelter can hold the transporter and one additional creature for every 2 by which the transporter exceeds the DC. The created shelter incorporates scents from the local area, preventing creatures on the inside from being detected by the scent ability of creatures outside of the shelter, and vice versa. Additionally, its floor is either elevated or constructed of a different substance than the nearby ground, preventing creatures outside of the shelter from using tremorsense to detect creatures inside, and vice versa. Finally, the clever structure of the hideaway causes creatures outside of the shelter to take a –10 penalty on Perception checks to notice creatures inside, as if through a 1-foot-thick wall, while only causing creatures inside to take a –2 penalty on Perception checks to notice creatures outside.
+
+These bonuses do not apply if the enemy creatures are intimately familiar with the area in which the hideaway was built (such as an area right near their home). This ability replaces woodland stride.

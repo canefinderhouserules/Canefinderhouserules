@@ -765,3 +765,61 @@ Some youths, abandoned in the wilderness and then raised by animals, are so conn
 At 17th level, when the feral child uses *summon nature’s ally* spells to summon such animals, those animals gain a +2 bonus to both their Strength and Constitution ability scores. This stacks with the effects of the Augmented Summoning feat.
 
 This ability replaces venom immunity and timeless body.
+
+## Feyspeaker
+
+Some druids hear the whispers of the natural world like fey creatures do, and learn to mimic those tantalizing murmurs in order to influence the minds of both wild beasts and civilized people. These feyspeakers are often touched by the fey in some way, such as mortals who dared to eat the food and drink the wine while in the hidden halls of the fey.
+
+**Fey Magic**: At 1st level, a feyspeaker allows the strange idylls of the fey to guide her magic. The feyspeaker uses her Charisma score instead of her Wisdom score as her key spellcasting ability score (to determine her spell DCs, bonus spells per day, concentration checks, and so on).
+
+At 4th, 6th, 8th, 10th, 12th, 14th, 16th, and 18th levels, a feyspeaker adds one enchantment or illusion spell from the sorcerer/wizard spell list to her druid spell list as a spell of 1 level higher (for instance, at 4th level, she could add *color spray* as a 2nd-level druid spell). In order to select a spell, she must be of a level high enough (including the increased spell level) to cast it. Once selected, the spell cannot be changed.
+
+A feyspeaker loses the ability to spontaneously cast *summon nature’s ally* spells. She gains the wild shape ability at 6th level and gains all benefits related to wild shape 2  druid levels later than usual. She can never use wild shape to transform into an elemental. This ability alters wild shape and spellcasting.
+
+**Fey Speech (Ex)**: At 1st level, a feyspeaker’s words carry a tiny fragment of the otherworldly power of the fey’s voices. She gains Bluff, Diplomacy, Disguise, and Sense Motive as class skills. A feyspeaker also learns Sylvan as a bonus language. In addition, the feyspeaker gains a number of skill ranks at each level equal to 6 + her Intelligence modifier, instead of 4 + her Intelligence modifier. The feyspeaker’s base attack bonus from her druid levels is equal to half her druid level (much like a sorcerer’s base attack bonus is calculated), rather than the usual druid base attack bonus. This ability replaces nature sense and alters the druid’s base attack bonus, class skills, and skills ranks per level.
+
+**Wild Mischief (Ex)**: At 1st level, a feyspeaker can fool an animal into thinking there is food, a potential mate, or a predator nearby. This ability functions just like a Bluff check to deceive a character. To determine the result of the wild mischief check, the feyspeaker rolls 1d20 and adds her druid level and her Charisma modifier. As with Bluff checks, wild mischief checks are modified depending on the believability of the false information. A typical domestic animal is not particularly suspicious of the feyspeaker (no circumstance modifier), whereas wild animals are usually suspicious (–5 penalty on the check).
+
+To use wild mischief, the feyspeaker and the animal must be able to study each other, which means they must be within 30 feet of one another under normal conditions. Generally, influencing an animal in this way takes 1 minute, but as when influencing people, it could take more or less time. A feyspeaker can also use this ability to influence a magical beast with an Intelligence score of 1 or 2, but she takes a –4 penalty on the check. This ability replaces the druid’s proficiency with medium armor.
+
+## Skinshaper
+
+Using the same primal energy with which other druids assume animal forms, skinshapers can imitate some of the most dangerous beasts of all: humans and other humanoids. Rather than merely copying humanoids’ shapes and abilities, skinshapers unlock brutal energies that push their borrowed bodies far beyond the capabilities of normal humanoid creatures. Their connection to humanoids bring skinshapers into settlements more often than typical druids, and their penchant for disguise allows them to excel at intrigue.
+
+**Class Skills**: A skinshaper adds Disguise to her list of class skills, instead of Ride. This alters the druid’s class skills.
+
+**Skinshaping (Su)**: At 4th level, a skinshaper gains the ability to turn herself into any Small or Medium humanoid and back again once per day. This ability functions as per *alter self*, except as noted here. The effect lasts for 1 hour per druid level, or until the skinshaper changes back. Changing form is a standard action and doesn’t provoke an attack of opportunity. The skinshaper must be familiar with the form she has chosen. She can use this ability an additional time per day at 6th level and every 2 druid levels thereafter, up to a total of eight times at 18th level. At 20th level, she can use skinshaping at will.
+
+The skinshaper learns to intuitively use her body as a weapon. While skinshaping, she gains the benefit of the Improved Unarmed Strike feat, and her unarmed strike deals damage as if she were a monk with a monk level equal to her druid level – 3.
+
+At 6th level, a skinshaper gains the ability to channel the versatile nature of humanoids to enhance her body and mind. Whenever she uses skinshaping to assume a humanoid shape other than her own, she gains a +2 enhancement bonus to any one ability score. The bonus persists as long as she remains in that form. At 10th, 14th, and 18th levels, she gains an additional +2 enhancement bonus to one ability score. She can distribute these bonuses as she wishes in increments of +2, but the enhancement bonus on any single ability score cannot exceed +4.
+
+At 8th level, a skinshaper can imitate humanoid creatures even more accurately. She gains any of the following abilities that the form she assumes has: darkvision 90 feet, low-light vision, scent, climb 60 feet, fly 60 feet (good maneuverability), swim 60 feet, ferocity, orc ferocity, and hold breath. If the form she assumes has the aquatic subtype, she gains the aquatic subtype and the amphibious special quality.
+
+At 12th level, a skinshaper can access the racial memory of the humanoid she is imitating. If the form she assumes has any of the following racial abilities, she gains those abilities: defensive training, hatred, poison use, sneak attack +2d6, stability, and weapon familiarity. Additionally, she can speak any racial languages of the chosen form.
+
+At 16th level, a skinshaper gains the racial skill bonuses of the imitated humanoid, to a maximum of a +4 bonus on a given skill. The skinshaper cannot benefit from any variable racial skill bonuses associated with the chosen form (such as gnomes’ racial bonus on any one Craft or Profession skill). This ability replaces wild shape.
+
+**Flashmorph (Su)**: At 13th level, a skinshaper learns to change her shape extremely quickly. She can use skinshaping as a swift action. This ability replaces a thousand faces.
+
+## Urushiol
+
+When an urushiol druid forms a bond with nature, it takes a vastly different form than for most druids. His body becomes increasingly toxic, allowing him to secrete a deadly poison through his pores.
+
+**Toxic Secretions (Su)**: At 1st level, an urushiol’s body becomes capable of producing a single dose of poison per day. At 3rd level and every 2 druid levels thereafter, the number of daily doses increases by 1, to a maximum of 10 doses at 19th level. The urushiol’s daily doses are replenished when he regains his spells, but any of his weapons that are still poisoned with urushiol venom count against his daily limit. The urushiol is immune to his own poison and cannot accidentally poison himself when applying his own poison or attacking with a weapon coated with it. Regardless of the delivery method he chooses, his poison has the following base statistics.
+
+**Urushiol Venom**: *type* poison (varies); *save* Fortitude negates; *frequency* 1/round for 2 rounds; *effect* 1d3 Strength damage; *cure* 1 save. The save DC is equal to 10 + 1/2 the urushiol’s level + his Wisdom modifier.
+
+At 1st level, an urushiol can secrete this poison as a numbing injury poison on a natural weapon, unarmed strike, or manufactured weapon by spending 1 of his daily doses as a standard action. He must choose a natural weapon, unarmed strike, or manufactured weapon in his hand that deals piercing or slashing damage and that is not already poisoned or poisonous. The weapon remains poisoned until the urushiol scores a hit with it, the weapon leaves his possession for more than 1 round, or the poison is wiped away.
+
+At 4th level, an urushiol’s body becomes so saturated with poison that even his flesh is poisonous.
+
+Whenever a creature damages the urushiol with a bite or swallow whole attack, the urushiol can release ingested poison into the creature by spending 1 of his daily doses as an immediate action.
+
+At 7th level, an urushiol can spend 2  daily doses of his poison as a standard action to secrete a contact poison and coat one of his limbs with the secreted poison. The urushiol can deliver the poison by making a successful touch attack as a standard action, which can be part of the same standard action he used to secrete the poison. If the attack misses, the poison persists upon his limb throughout the subsequent rounds until he hits a target or touches something else with his poisoned limb.
+
+At 11th level, an urushiol can spend 3 daily doses of his poison as a standard action to release a 20-foot-radius cloud of inhaled poison centered around him that lasts for 1 round.
+
+At 14th level, an urushiol’s venom changes in frequency to 1/round for 4 rounds. In addition, when using his urushiol venom, an urushiol can spend an extra dose of his poison to change the damage type of the poison to Dexterity damage or Constitution damage. He can use this alteration in combination with any of the other abilities. For example, he could spend a total of 3 doses to create a cloud of inhaled poison that deals Constitution damage. This ability replaces nature bond and resist nature’s lure.
+
+**Venom Immunity (Ex)**: An urushiol gains venom immunity at 4th level instead of 9th level. This ability alters venom immunity.

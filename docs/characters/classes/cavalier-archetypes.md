@@ -331,3 +331,57 @@ Only dog- or wolf-riding halflings are eligible to join this order of cavaliers.
 *Canine Ferocity (Ex)*: At 8th level, when the cavalier uses his wolf or dog mount to perform a bull rush or overrun maneuver, the mount is considered to be one size category larger for the purposes of determining the size of creature it is maneuvering against and the mount’s CMB. He also receives a bonus feat, chosen from the following list: Mounted Combat, Ride-By Attack, Skill Focus (Ride), Spirited Charge, Trample, or Unseat. He must qualify for the feat selected.
 
 *Giant Slayer (Ex)*: At 15th level, when the cavalier hits the target of his challenge with a melee attack, and that target is at least two size categories larger than the cavalier, he gains a bonus on damage rolls equal to 1/2 his cavalier level. This damage is multiplied on a critical hit.
+
+## Courtly Knight
+
+Some cavaliers strive to be just as effective at the court of a local lord as on the field of battle. These courtly knights are equally at home in a duel with words or swords.
+
+**Social Presence (Ex)**: A courtly knight gains a +1 bonus on all Bluff, Diplomacy, Intimidate, and Sense Motive checks. At 4th level and every 4 cavalier levels thereafter, this bonus increases by 1 (to a maximum of +6 at 20th level). A courtly knight starts any verbal duel with an extra edge she can use for only the presence tactic unless she is at a significant or extreme disadvantage in the duel. This ability replaces tactician.
+
+**Imperious Attitude (Ex)**: At 9th level, a courtly knight develops a commanding demeanor, and the strength of her conviction is often enough to get others to do as she asks, merely because she expects it to be done. In a social setting, the courtly knight can attempt Diplomacy checks to make a request of a creature whose attitude toward her is unfriendly, provided that creature does not intend to harm or oppose the courtly knight or her allies in the immediate future. Further, whenever she attempts a Diplomacy check to make a request, a courtly knight can first attempt an Intimidate check (DC = 20 + the creature’s Charisma modifier). If she succeeds, she gains a +5 bonus on the subsequent Diplomacy check. Neither aspect of imperious attitude applies if the requested creature considers itself to be of an equal or higher social rank than the courtly knight, which includes creatures that don’t understand or value the concept of social ranks. This ability replaces greater tactician.
+
+**Grand Boast (Ex)**: At 17th level, whenever a courtly knight uses her challenge class feature against an opponent who is at full health and under no negative afflictions, conditions, spells, or other effects, she can make a grand boast, declaring that she can defeat her foe with ease. She does not gain the benefits of her challenge (including any additional benefits granted by her order) when making a grand boast. If she successfully defeats the target of her challenge within 1 minute, however, she is vindicated in her boast and gains the benefits of her challenge against all allies of the defeated enemy who witnessed her grand boast and who are of the same or lower CR as the defeated enemy. If any of the courtly knight’s allies attack the initial target of the challenge or assist the courtly knight after the boast, this ability has no effect. This ability replaces master tactician.
+
+## Daring General
+
+Most cavaliers are great tacticians, but some stand above the rest for their ability to lead troops under their command, and inspire them to great accomplishments. Those cavaliers most gifted at command often become daring generals.
+
+**Aides-de-Camp (Ex)**: A daring general gains a modified version of the Leadership feat at 6th level, even if he doesn’t meet the prerequisites. All followers that the daring general gains as a result of this version of the Leadership feat can only have levels in the warrior class. All cohorts that the daring general gains from this ability must have levels only in classes that grant a full base attack bonus (such as barbarian, fighter, paladin, or ranger), and must be at least 4 levels lower than the daring general himself. However, at 12th level and 18th level, the daring general gains an additional cohort (up to a maximum of three cohorts at 18th level) and a number of additional followers equal to the number of followers he gained from the Leadership feat (up to a maximum of triple his normal number of followers at 18th level). When determining the kinds of cohorts the daring general can attract, he treats his Leadership score as 3 lower for each subsequent cohort (effectively taking a –3 penalty for the second cohort and a –6 penalty for the third cohort).
+
+Additionally, the daring general can grant special roles to his cohorts, as outlined below.
+
+Unless otherwise stated, only one cohort can fill any given role at any given time. Designating a cohort as filling a special role requires a 24-hour ceremonial ritual.
+
+**Groom**: The groom cares for the daring general’s mount. She does not take an armor check penalty on Ride checks while riding the cavalier’s mount. Additionally, once per day, the groom can spend 10 minutes preparing the daring general’s mount for battle. If she does, the mount’s speed increases by 10 feet and its Dexterity score increases by 2. These benefits last for 1 hour.
+
+**Squire**: The squire’s main task is to care for the daring general’s arms and armor. If the squire aids the daring general in donning his armor, it takes half as much time to don as it would if someone else aided the daring general. Additionally, when the squire is adjacent to the daring general, as a standard action, she can grant a +2 bonus to the daring general’s AC against the first attack made against the daring general before the squire’s next turn. This counts as an application of the aid another action, but the squire does not need to threaten the attacker in question.
+
+**Standard Bearer**: The daring general’s standard bearer can carry his banner in his stead, granting the benefits of his banner ability (and later, his greater banner ability) to all allies within 60 feet of the standard bearer. If the standard bearer becomes unconscious or dead, she ceases to grant these benefits.
+
+Beyond the rules noted above, if the daring general uses his followers to create an army using the mass combat rules from *Ultimate Campaign*, that army starts with one extra tactic of the daring general’s choice and a +2 bonus to its morale score.
+
+The daring general can assign each of his followers individually to serve as either footmen or honor guards (described below). He does not need to assign either role to a given follower, if he prefers. He can change the role of a follower at any time, but it takes 1 day per level for the follower to change her tactics to suit her new role. Followers with a particular role must group together with other followers with the same role to form an army in mass combat.
+
+**Footman**: Each follower gains a +2 bonus on attack and damage rolls, but takes a –2 penalty to her AC and on saving throws. A footman unit gains a +2 bonus to its OM and takes a –2 penalty to its DV in mass combat.
+
+**Honor Guard**: The follower gains a +2 bonus to her AC and on saving throws, but takes a –2 penalty on attack and damage rolls. An honor guard unit gains a +2 bonus to its DV and takes a –2 penalty to its OM in mass combat. This ability replaces the bonus feats gained at 6th, 12th, and 18th levels.
+
+**Shared Challenge (Ex)**: At 12th level, when a daring general issues a challenge, his followers and cohorts take up that challenge alongside him. Whenever the daring general uses his challenge class feature, as long as the challenge remains in effect, each of the daring general’s followers and cohorts that are within 30 feet of him gain a +4 morale bonus on attack rolls made against the target of his challenge. This ability replaces demanding challenge.
+
+**Supreme Tactician (Ex)**: At 20th level, whenever the daring general uses his tactician ability, he can grant any number of teamwork feats that he knows to his allies, and when he uses his tactician ability as a standard action in combat, it does not count against his daily uses of tactician. This ability replaces supreme charge.
+
+## Hussar
+
+Agile and maneuverable cavalry, hussars make up for their relatively light armor with their speed and cunning. They are known for doggedly pursuing their foes even in tight spaces, across rooftops, and in other places that mounted cavalry could normally never reach.
+
+**Armor Proficiency**: A hussar is proficient with light armor, but not with medium or heavy armor or with shields. This replaces the cavalier’s normal armor proficiencies.
+
+**Agile Warrior (Ex)**: A hussar gains Acrobatics, Escape Artist, Stealth, and Survival as class skills. This alters the cavalier’s class skills.
+
+**Fast Mount (Ex)**: A hussar is able to spur on any mount that he rides to faster speeds than other riders. The base speed of any creature that the hussar is riding increases by 10 feet. This applies to all forms of movement that the mount possesses. At 5th level and every 5 cavalier levels thereafter, this bonus increases by an additional 5 feet (to a maximum increase of 30 feet at 20th level). This ability replaces tactician, banner, and greater banner.
+
+**Skillful Rider (Ex)**: At 6th level, a hussar and his mount work in tandem to achieve amazing accomplishments of dexterity while riding. As long as the hussar is mounted, whenever he or his mount is required to attempt an Acrobatics, Climb, Escape Artist, Fly, Stealth, or Swim check, he can use his own modifier or his mount’s, whichever is higher. Additionally, regardless of whose bonus is used, the hussar gains an additional +2 bonus on all skill checks to overcome obstacles as part of a chase. At 12th level, this bonus increases to +4, and at 18th level, it increases to +6. This ability replaces the bonus feats gained at 6th, 12th, and 18th levels.
+
+**Maneuverable Mount (Ex)**: At 9th level, a hussar is able to maneuver his mount with exceptional grace and poise, even in areas that would normally be a difficult fit for such a creature. Any creature that the hussar is riding can squeeze into a space that is at least half as wide as its normal space without taking the normal penalties on attack rolls and AC for doing so, though it still moves at half speed. If the mount attempts to squeeze into a space less than half its space’s width, it must use the Escape Artist skill to do so, and takes the normal penalties. This ability replaces greater tactician.
+
+**Sudden Swerve (Ex)**: At 17th level, a hussar’s control over his mount is advanced enough to allow the mount to turn on the spot, even when charging forward at full speed. Whenever the hussar makes the charge or run action while mounted, he can make a single turn of up to 90 degrees at any one point during this movement. This ability replaces master tactician.

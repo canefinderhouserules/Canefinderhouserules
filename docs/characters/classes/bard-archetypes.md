@@ -825,3 +825,103 @@ Telling a punchline does not count against a prankster’s daily use of bardic p
 *Mass Punchline (Sp)*: This ability functions just like punchline, but allows a prankster of 18th level or higher to use *hideous laughter* simultaneously against any number of creatures that he has mocked. This ability replaces the mass suggestion ability.
 
 **Swap (Ex)**: A prankster can steal an object from a creature and replace it with another object of the same size or smaller that the prankster has in his hand. This functions as the steal combat maneuver, but the prankster does not provoke an attack of opportunity, and may use his Sleight of Hand check in place of his combat maneuver check. If the prankster’s check exceeds the target’s CMD by 10 or more, the target is unaware the swap has been made until it tries to use the swapped object or the end of its next turn (whichever happens first). This ability replaces lore master.
+
+## Impervious Messenger
+
+The impervious messenger is capable of harnessing the unique qualities of bardic magic to keep, transport, and communicate the most precious of secrets and messages, even when subject to the most vigorous forms of observation, be they magical or mundane.
+
+**Bardic Performance (Su)**: An impervious messenger gains the following types of bardic performances.
+
+**Chant of Perfect Recall (Su)**: At 1st level, an impervious messenger can spend 1 round of his bardic performance to commit something to memory. This ability functions exactly as per *memorize page*, but the impervious messenger is the only recipient and he requires only 1 round to commit a single page to memory. An impervious messenger can commit additional pages worth of material to memory by using additional rounds of his bardic performance, but he can never memorize more than half his total bard level in pages (minimum 1). This ability replaces fascinate.
+
+**Song of Subterfuge (Su)**: At 6th level, an impervious messenger learns to use his performances to project various thoughts into his own mind to disrupt divination attempts. This acts similarly to distraction, except it only affects the impervious messenger and allows him to use the result of his Perform check in place of saving throws against attempts to read his mind, such as *detect thoughts*. At 18th level, if the impervious messenger succeeds on a saving throw while using song of subterfuge, the character who attempted the divination effect must succeed on a Will save (DC = 20 + the impervious messenger’s Charisma modifier) or else the impervious messenger instantly learns the nature of the effect and can allow the effect to continue, but provide whatever information he chooses to the divining character rather than the true results of the divination effect. This ability replaces suggestion and mass suggestion.
+
+**Unbroken Stride (Su)**: At 8th level, an impervious messenger draws upon his bardic abilities to imbue himself with grace and speed. While using this bardic performance, an impervious messenger gains an insight bonus equal to half his bard level on all Acrobatics, Climb, Fly, and Ride checks. In addition, while maintaining this performance, he gains the benefits of the ranger’s woodland stride ability and a +10-foot enhancement bonus to his base land speed. At 12th level, an impervious messenger using his unbroken stride bardic performance also acts as if under the effect of *freedom of movement*. In addition, the enhancement bonus to his base land speed increases to +30 feet. This ability replaces dirge of doom and frightening tune.
+
+**Cryptic Whisper (Ex)**: At 2nd level, the impervious messenger internalizes his understanding of language and ciphers, and filters them through his bardic abilities. He adds half his bard level to all Linguistics checks and Bluff checks to deliver secret messages, and he gains a +4 bonus on saving throws against *glyph* spells, *symbol* spells, and language-dependent effects. This ability replaces bardic knowledge and well-versed.
+
+## Masked Performer
+
+Not merely a entertainer in a disguise, the masked performer takes on the persona represented by the likeness she wears. Her alter ego might be a theatrical archetype, a legendary hero, or a revered spirit. Masked performers are often the stars of religious plays and festivals, and aficionados easily recognize them and associate them with their most famous role.
+
+**Dual Identity (Ex)**: This ability acts as the vigilante ability of the same name, except as follows. The masked performer’s identities are referred to as social and masked, rather than social and vigilante.
+
+Unlike a vigilante, most people who know of the masked performer actually know that the masked performer’s identities are one and the same. Nonetheless, the dual identity ability is valuable to the masked performer due to offering her two perspectives on any problem and two different alignments. This ability replaces bardic knowledge.
+
+**Bardic Performance**: A masked performer gains the following types of bardic performance.
+
+**Seamless Guise (Ex)**: At 1st level, a masked performer learns to behave in a way that appears perfectly proper and normal for her current role, on stage or off. She can maintain this performance for 1 hour for every 3 rounds of bardic performance she spends. While this performance is active, she receives a +10 bonus on Disguise and Perform (act) checks to remain in character after she has already established her character. For instance, this bonus does not apply against the initial Perception check when meeting a creature paying attention to her but does apply on the automatic additional Perception check each hour of interacting. This ability replaces countersong.
+
+**Exaggerated Pose (Su)**: At 3rd level, a masked performer can enhance her own physical and social abilities by simply altering her posture. When she starts this performance, the masked performer chooses a Strength-, Dexterity-, or Charisma-based skill and gains a +2 competence bonus on checks with that skill as long as she maintains this performance. This bonus increases by 1 for every 4 bard levels the masked performer has beyond 3rd (+3 at 7th level, +4 at 11th level, +5 at 15th level, and +6 at 19th level). The masked performer can change the chosen skill as a swift action. Exaggerated pose is an emotion effect and relies on visual components. This ability replaces inspire competence.
+
+**Stage Combat (Su)**: At 6th level, a masked performer gains the benefit of a combat feat she doesn’t have as long as she maintains this performance. The masked performer chooses the feat when she starts this performance. The masked performer must meet all the feat’s prerequisites. As usual when temporarily gaining a feat, if the feat she chooses has any limitations on uses, such as Stunning Fist’s daily uses, all uses of that combat feat while maintaining stage combat count toward that feat’s limit. In the case of Stunning Fist, if the masked performer gained that feat again later the same day, the expended uses would remain expended. Stage combat relies on visual components. This ability replaces suggestion.
+
+**Multiplicity of Masks (Su)**: At 18th level, a masked performer can cause any number of her allies to appear as herself or as another ally within 60 feet. To be affected, an ally must be within 60 feet of the masker performer and able to see her. As long as the masked performer maintains this performance, enemies perceive all affected allies as the chosen character. If an affected ally is a different size or creature type than the chosen character, enemies can attempt a Will save (DC = 10 + 1/2 the masked performer’s bard level + her Charisma modifier) to disbelieve. Otherwise, there is no saving throw, but a successful attack against a disguised ally automatically reveals the ally’s true form. If an ally moves out of range, that ally reverts to his original form, and the entire effect ends if the ally providing his appearance to the others moves out of range. Multiplicity of masks is an illusion (glamer) effect that relies on visual components. This ability replaces mass suggestion.
+
+**Social Grace (Ex)**: At 2nd level, a masked performer gains the social grace vigilante social talent. She gains an additional skill with social grace 1 level later than a vigilante (at 6th level, 10th level, and so on). This ability replaces versatile performance.
+
+**Masked Talents**: At 5th level, a masked performer gains a rogue talent from the following list: expert leaper, fast stealth, ledge walker, rogue crawl, rope master, stand up, and wall scramble. At 17th level, a masked performer can choose any of the above talents or an advanced talent from the following list: defensive roll, fast tumble, hide in plain sight, and skill mastery. This ability does not qualify her for the Extra Rogue Talent feat. This ability replaces lore master.
+
+## Ringleader
+
+Ringleaders are adept in getting the most out of their allies, and they excel at planning for unexpected complications in advance. Often the masterminds behind elaborate heists and infiltrations, ringleaders use their organizational abilities to make sure the plan goes without a hitch, even when the team is split up and unable to communicate with each other on the spot.
+
+**Bardic Performance**: A ringleader gains an altered version of inspire competence that grants greater effects at higher levels.
+
+**Inspire Competence (Su)**: At 3rd level, a ringleader can use his performance to help an ally succeed at a task. This ability acts as the inspire competence bardic performance with the following additions.
+
+At 8th level, the ringleader’s ally gains a competence bonus on an additional skill (for a total of two skills). In addition, he can end the effect to reroll a check with one of the affected skills (the reroll still applies the bonus from inspire competence). Each ally can only use this latter ability once per day, regardless of the number of skills affected and the number of times they are affected by inspire competence.
+
+At 14th level, the ringleader’s ally gains a competence bonus on an additional skill (for a total of three skills). In addition, he can take 10 on the affected skills when stressed or distracted. This ability alters inspire competence and replaces dirge of doom and frightening tune.
+
+**Inspired Plan (Su)**: At 2nd level, a ringleader can alter his performance so it affects a single ally at a later time. The ringleader must explain his plan to that ally for a number of minutes equal to the number of bardic performance rounds he expends on the effect, and use audible and/or visual components according to the performance altered. This costs the ringleader the chosen number of rounds of bardic performance.
+
+At any time before the ringleader recovers bardic performance rounds for the day, the inspired character can activate the performance as a standard action wherever she is. When activated, the altered performance affects only the inspired ally and has no audible or visible components. If the performance could normally affect any number of allies, its effects last 2 rounds for each round the ringleader spent on the performance. Otherwise, the effects last 1 round for each round the ringleader spent on the performance.
+
+A ringleader can alter only the countersong, distraction, inspire courage, inspire competence, inspire greatness, and inspire heroics performances in this way. The ringleader makes any necessary choices when establishing the performance, though in the case of countersong and distraction, the ringleader attempts Perform checks once his ally triggers the plan, ignoring any temporary bonuses or penalties, no matter whether they applied when he explained the plan or when the ally triggers it.
+
+A character can be subject to only one inspired plan at a time and cannot be subject to a ringleader’s inspired plan and any of the ringleader’s normal performances at the same time, but she can benefit from other bardic performances in the interim. The ringleader cannot use inspired plan on himself, but he can have dormant plans ready to trigger on as many different allies as he can afford to affect at once. This ability replaces versatile performance.
+
+**Hidden Plans (Ex)**: At 2nd level, a ringleader becomes a master of discretion. The ringleader gains a +4 bonus on saving throws against effects that would read his thoughts or compel him to tell the truth. This ability replaces well-versed.
+
+**Prepared (Ex)**: At 5th level, a ringleader expects the unexpected. When the ringleader is in a situation where he could use a particular piece of nonmagical gear, the ringleader can attempt a Knowledge check appropriate to his current situation to have purchased that item in advance. The DC of the check is equal to the item’s cost in gp. If he succeeds, he deducts the appropriate cost of the item from his current gp total and now has the item in question on his person. He cannot use this ability to retroactively gain an item that would change his encumbrance to a different load category, though in this case, he can attempt to retrieve such objects from a pack mule, extradimensional storage space, or other location that would not affect his encumbrance. He can use this ability once per day at 5th level, plus one additional time per day for every 5 bard levels beyond 5th. This ability replaces lore master.
+
+## Sorrowsoul
+
+It isn’t uncommon for a bard to, on occasion, sing mournful tunes or craft elegies that depict the deepest sadness or the most profound suffering. But while most bards who do so create such performances for fame or wealth, the sorrowsoul has known tragedy and loss on a level so intimate, he has bound it to his soul.
+
+**Lyric Sorrow (Su)**: A sorrowsoul draws upon grief, rage, and tragedy to fuel his bardic performances. When a sorrowsoul begins a bardic performance, he can choose to alter its effects with lyric sorrow. If he does so, he uses twice the number of rounds of his bardic performance ability as normal, and even if the sorrowsoul has the Lingering Performance feat, the performance’s effects do not last for any additional rounds.
+
+At 1st level, a sorrowsoul can use his lyric sorrow in conjunction with inspire courage. When he chooses to do so, he increases his bonuses on saving throws and on weapon attack and damage rolls from +1 to +2, but his other allies receive no benefit. His bonuses when using lyric sorrow with inspire courage increase by 2 at 5th level and every 6 bard levels thereafter, to a maximum of +8 at 17th level.
+
+At 12th level, a sorrowsoul can use his lyric sorrow ability in conjunction with inspire greatness to grant himself 3 bonus Hit Dice, a +3 competence bonus on attack rolls, and a +2 competence bonus on Fortitude saves; if he does so, inspire greatness only affects him, not any other allies.
+
+At 15th level, a sorrowsoul can use his lyric sorrow ability in conjunction with the inspire heroics bardic performance. When using the lyric sorrow version of this performance, a sorrowsoul gains fast healing 5 and benefits from a 50% miss chance, as if under the effects of *displacement*, in addition to the standard bonuses conferred by this bardic performance, but if he does so, inspire heroics only affects him, not any other allies. This ability alters bardic performance and replaces soothing performance and versatile performance.
+
+**Darkness Denied (Ex)**: At 2nd level, a sorrowsoul gains a +4 bonus on saving throws against negative energy and death effects. This ability replaces well-versed.
+
+**Spurn Harm (Su)**: A sorrowsoul can funnel his bardic powers to persevere in the face of seemingly certain death. At 5th level, a sorrowsoul can spend 3 rounds of his daily bardic performance as an immediate action to gain a +2 insight bonus on all saving throws for 1 round. At 11th level, a sorrowsoul also gains spell resistance equal to 11 + his bard level when using this ability. At 17th level, a sorrowsoul also gains DR 10/— when using this ability. This ability replaces lore master.
+
+## Wit
+
+The wit is a master of clever repartee and verbal dueling, moving through noble courts like a fish through water.
+
+**Way with Words (Ex)**: A wit gains a +1 bonus on Bluff, Diplomacy, Intimidate, Linguistics, and Sense Motive checks. At 4th level, and every 4 bard levels thereafter, this bonus increases by 1, to a maximum of +6 at 20th level. He also gains a number of edges at the beginning of any verbal duel equal to this bonus. This ability replaces bardic knowledge.
+
+**Counterargument**: A wit can use only Perform (act, comedy, or oratory) to perform a countersong. This ability alters countersong.
+
+**Bardic Performance**: A wit gains the following bardic performance.
+
+**Cutting Remark (Su)**: At 3rd level, a wit can wound with his words. The wit can spend 1 round of bardic performance as a standard action to deal 1d4 points of nonlethal damage + the wit’s bard level to a creature within 30 feet. Damage reduction applies to this damage.
+
+At 8th level, a target who takes damage from cutting remark is also sickened for as long as it remains within 30 feet of the wit and for 1 round thereafter. Additionally, the nonlethal damage counts as magic for purposes such as overcoming damage reduction.
+
+At 14th level, a target who takes damage from cutting remark must also succeed at a Will save (DC = 10 + 1/2 the wit’s bard level + his Charisma modifier) or be dazed for 1 round. A creature that makes a successful save is immune to the dazing effect of the wit’s cutting remark for 24 hours.
+
+Cutting remark is a mind-affecting, language-dependent effect, and relies on audible components. This ability replaces inspire competence, dirge of doom, and frightening tune.
+
+**Quick Witted (Ex)**: At 2nd level, a wit can always act in a surprise round (though he remains flat-footed until he acts). In addition, the wit adds half his bard level on initiative checks. This ability replaces versatile performance.
+
+**On the Ball (Ex)**: At 5th level, rather than roll for initiative, the wit can treat his roll as if it was a 10 (adding any modifiers as usual). The wit can use this ability once per day at 5th level, and an additional time per day for every 6 bard levels thereafter. At 20th level, when the wit uses this ability, he can instead treat his roll as if it was a 20. This ability replaces lore master.
+
+**Duel Master (Ex)**: At 10th level, the wit does not lose any edges for being at an extreme disadvantage in a verbal duel and can either ask about one additional bias when successfully using Sense Motive to determine an audience’s biases or automatically seed one of the biases that he discovered. Once during a verbal duel, he can reassign an appropriate skill from one tactic to another tactic in which he didn’t assign any skills. The original tactic is treated as being unprepared for the rest of the duel. This ability replaces jack-of-all-trades.

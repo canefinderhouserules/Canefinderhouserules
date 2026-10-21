@@ -341,3 +341,33 @@ You can use this ability once per day. You must be 11th level to select this rev
 **Wings of Air (Su)**: As a swift action, you can manifest a pair of translucent, cloud-like wings that grant you a fly speed of 60 feet with good maneuverability. At 10th level, your speed increases to 90 feet and your maneuverability increases to perfect. You can use these wings for 1 minute per day per oracle level. This duration does not need to be consecutive, but it must be spent in 1-minute increments. You must be at least 7th level to select this revelation.
 
 **Final Revelation**: Upon reaching 20th level, you become a master of air and electricity. You can apply any one of the following feats to any air or electricity spell without increasing the level or casting time: Enlarge Spell, Extend Spell, Silent Spell, or Still Spell.
+
+## Intrigue Mystery
+
+**Class Skills**: An oracle with the intrigue mystery adds Bluff, Disguise, Sleight of Hand, and Stealth to her list of class skills.
+
+**Bonus Spells**: *Charm person* (2nd), *false belief* (4th), *suggestion* (6th), *sending* (8th), *true seeing* (10th), *symbol of persuasion* (12th), *greater scrying* (14th), *mind blank* (16th), *overwhelming presence* (18th).
+
+**Revelations**: An oracle with the intrigue mystery can choose from any of the following revelations.
+
+**Assumed Form (Sp)**: You can change your appearance at will, as *disguise self* with a caster level equal to your oracle level. At 7th level, you can choose to actually transform, which works the same way but counts as a polymorph effect instead of an illusion and doesn’t allow a Will save to disbelieve. At 11th level, the ability lasts until you dismiss it or use it again, allowing you to even keep it active while you sleep. At 15th level, when you use this ability as a polymorph effect, you can gain the size bonus to your ability scores and additional racial abilities as if using *alter self*.
+
+**Desire Sight (Sp)**: As a standard action, you can learn the desires of any creature you can see within 100 feet, as if you had concentrated until the third round of *detect desires*. As usual for *detect desires*, the target can attempt a Will save to negate the effect. You can use this ability once per day at 1st level, plus one additional time per day at 5th level and for every 5 levels beyond 5th.
+
+**Forgotten Presence (Sp)**: Once per day as an immediate action, you can cause a creature to forget that you were present for the last minute per oracle level, including forgetting all actions you took during that time, unless it succeeds at a Will save (DC 10 + 1/2 your oracle level + your Charisma modifier). Effects such as *modify memory* can restore the lost memories. At 15th level, you can use this ability twice per day. You must be at least 7th level to select this revelation.
+
+**Gossip Guru (Sp)**: You sit in a web of intrigue like a spider, subtly tracing the course of rumors and gossip in order to understand the ties that bind those around you. You can use the *rumormonger* spell once per day as a spell-like ability, using your oracle level as your caster level. Each time you do so, it ends the duration of any previous activation. At 11th level, you can use this ability three times per day, and at 15th level, you can use it at will, but regardless, each use still ends the duration of any previous activation. You must be at least 7th level to select this revelation.
+
+**Hidden Magic (Su)**: You gain the Conceal Spell feat as a bonus feat without needing to meet the prerequisites. At 7th level, you can also hide your use of spell trigger items using the Conceal Spell feat, though onlookers receive a +2 bonus on their skill checks to pierce your subterfuge. At 11th level, you can even hide the use of spell completion items using the Conceal Spell feat, though in this case, onlookers receive a +5 bonus on their skill checks to pierce your subterfuge.
+
+**Mirrored Retreat (Su)**: Once per day as a full-round action, your form ripples and releases seven illusory duplicates, as *mirror image*, and then you can move up to your speed in any direction, while the duplicates move in seven other directions. The duplicates continue to retreat in their chosen direction, avoiding walls and other barriers but unable to open doors or interact with objects. The duplicates last for 1 minute per oracle level or until they take damage (they have the same AC as your touch AC and the same Reflex save as you, and they are immune to effects that allow a Fortitude or Will save). You can use this ability an additional time per day at 11th level and every 4 levels thereafter. This is a figment effect. You must be at least 7th level to select this revelation.
+
+**Poetic Vengeance (Su)**: You constantly plot and scheme to take your revenge against those who wrong you. Once per day as an immediate action, after an enemy successfully affects you with an attack (whether with a spell, a physical attack, or any other sort of attack), you can force the enemy to take half the effects of its own attack unless it succeeds on a Will save (DC 10 + 1/2 your oracle level + your Charisma modifier). Any damage from the attack is halved, and non-damaging effects have a 50% chance to apply. If the non-damaging effect has a DC, the enemy receives a saving throw against it, at either the DC of the original effect or the DC of this ability, whichever is lower. At 10th level, you can use this ability twice per day, and at 20th level you can use it three times per day.
+
+**Tracer Touch (Sp)**: Once per day, you can touch a creature or object and plant a scrying sensor on it, as if you had cast *vicarious view*. At 15th level, you can use this ability twice per day. You must be at least 11th level to select this revelation.
+
+**Veiled Venom (Sp)**: The powers of intrigue veil your poisons and magic items from magical scrutiny. As a standard action, you can touch an object, granting it the benefits of the spells *magic aura* and *obscure poison* (see page 220). You can use this ability at will, but each time you do, the effects of any previous use end.
+
+**Whispered Glimpses (Su)**: The whispers of intrigue sing to you with glimpses of insight into others’ presence and motives, granting you greater awareness than your own senses could manage. You can add your Charisma modifier instead of your Wisdom bonus on Perception and Sense Motive checks.
+
+**Final Revelation**: Upon reaching 20th level, you become a master of intrigue. You can apply Silent Spell or Still Spell to any spell you cast without increasing the level or casting time. You do not need to possess these feats to use this ability.

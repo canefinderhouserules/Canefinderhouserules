@@ -153,3 +153,73 @@ Most swashbucklers call cities their home, but some prefer deserts, marshlands, 
 **Adroit Step (Ex)**: At 3rd level, a wildstrider can use a swift action to treat a 5-foot square of difficult terrain as if it were normal terrain. If she also spends a panache point, she can treat all difficult terrain as though it were normal terrain until the end of her turn. This deed replaces kip-up.
 
 **Keen Gaze (Ex)**: At 11th level, while a wildstrider has at least 1 panache point, she can ignore the miss chance from concealment (but not total concealment) caused by normal and magical fog, smoke, and undergrowth, but not other sources of concealment or a miss chance, such as blur. This deed replaces subtle blade.
+
+## Guiding Blade
+
+While some swashbucklers are loners or glory hounds, always trying to take the credit for finishing off a foe with little regard for their allies, guiding blades focus their swordplay and panache on helping their allies. For a guiding blade, anything is possible when the right team comes together, and she learns how to protect and bolster her allies to ensure the team’s victory. Instead of parrying attacks against her, a guiding blade redirects her enemies’ ire away from her allies, interfering with enemies who attack her allies, whether that attack comes by blade or by spell.
+
+**Daring Teamwork (Ex)**: A guiding blade uses her panache to inspire her allies to heights of teamwork they could never reach alone. At 1st level, a guiding blade gains a bonus teamwork feat. She gains an additional teamwork feat at 4th level and every 4 swashbuckler levels thereafter.
+
+As a standard action, she can spend 1 panache point to grant a teamwork feat she gained from this ability to all allies within 30 feet who can see and hear her. They do not need to meet the feat’s prerequisites. She can use this ability multiple times to grant multiple teamwork feats. This ability lasts for 3 rounds + 1 round for every 2 swashbuckler levels she has, but if the guiding blade ever fails to have at least 1 panache point, all of these durations end immediately. At 7th level, the guiding blade can activate this ability as a swift action. At 15th level, she can grant two teamwork feats each time she activates this ability, and she can grant any teamwork feats she possesses, not just the teamwork feats she gained from this ability.
+
+A guiding blade regains panache whenever an ally reduces a creature to 0 or fewer hit points, instead of when she herself does so. She still doesn’t regain panache from unattended objects, helpless or unaware creatures, or opponents with low Hit Dice. This ability replaces bonus feats and the swashbuckler’s 1st-, 7th-, and 15th-level deeds, and it alters panache.
+
+**Charmed Guardian (Ex)**: At 2nd level, the fortunate nature of a guiding blade’s charmed life extends to protect her allies as well. She can use her charmed life ability on a saving throw attempted by any ally within 30 feet, including herself. This ability alters charmed life.
+
+**Interfering Blade (Ex)**: At 3rd level, a guiding blade learns how to use her weapon to interfere with enemies’ attacks, protecting her allies from peril. As long as the guiding blade is wearing light or no armor, whenever she is aware of an attack against an adjacent ally and would not herself be denied her Dexterity bonus against that attack, the guiding blade grants that ally a +1 bonus to AC against that attack.
+
+For example, if an invisible enemy attacks a guiding blade’s ally and the guiding blade can’t see that enemy, she would not grant the bonus from interfering blade unless she had the uncanny dodge ability. This bonus does not stack with any bonus to AC the guiding blade provides with the aid another action. The bonus increases by 1 for every 4 swashbuckler levels beyond 3rd, to a maximum of +5 at 19th level. This ability replaces nimble.
+
+**Deeds**: A guiding blade receives the following deed.
+
+**Opportune Redirection and Riposte (Ex)**: At 3rd level, when an opponent threatening both the guiding blade and an adjacent ally attacks that ally, the guiding blade can spend 1 point of panache and expend a use of an attack of opportunity to attempt to redirect the attack to herself.
+
+The guiding blade makes an attack roll as if she were making an attack of opportunity; for each size category the attacking creature is larger than the guiding blade, the guiding blade takes a –2 penalty on this roll. If her result is greater than the attacking creature’s attack result, the creature’s attack is redirected to the guiding blade instead of the guiding blade’s adjacent ally. The guiding blade must declare the use of this ability after the creature’s attack is announced but before its attack roll is made.
+
+Upon performing a successful redirection, if the guiding blade has at least 1 panache point, the guiding blade can, as an immediate action, make an attack against the creature whose attack she redirected, provided that creature is within reach. A guiding blade can’t select opportune redirection and riposte as a signature deed.
+
+This deed replaces the kip-up deed.
+
+## Noble Fencer
+
+The noble fencer is an aristocrat or other upper-class socialite who trained in dueling from a young age. Noble fencers fight with their own style, with distinct differences from those of alley bravos or gladiatorial duelists. They use their quick wits and panache in both physical and social confrontations, and they rely on their training and discipline to emerge victorious, rather than merely trusting to luck.
+
+**Deeds**: A noble fencer gains the following deeds.
+
+**Social Panache (Ex)**: At 1st level, a noble fencer can spend 1 panache point when he attempts a Bluff, Diplomacy, Intimidate, or Sense Motive check to roll 1d6 and add the result to the check. He can do this after he rolls the check but before the result is revealed. If the result of the d6 roll is a natural 6, he rolls another 1d6 and adds it to the check. He can continue to do this as long as he rolls natural 6s, up to a number of times equal to his Charisma modifier (minimum 1).
+
+Just before a verbal duel, a noble fencer can spend up to 4 panache points. For each point he spends, he selects a tactic for which he has chosen Bluff, Diplomacy, Intimidate, or Sense Motive as an associated skill and gains an edge he can only use with that tactic.
+
+This deed replaces the dodging panache deed.
+
+**Incredible Aspirations (Ex)**: At 7th level, a noble fencer strives for truly amazing results when he uses his derring-do and social panache deeds. As long as he has 1 panache point, the first time he rolls a natural 5 on the 1d6 for those deeds, he can roll another 1d6, subject to the other limitations of the respective deeds. He can still reroll as many rolls of 6 as normal.
+
+This deed replaces the superior feint deed.
+
+**Unshakable Presence (Ex)**: At 11th level, a noble fencer cloaks himself in the combined bravado of a swashbuckler and a noble, girding himself against anything that attempts to shake his impossible confidence. While he has at least 1 panache point, he cannot be demoralized by the Intimidate skill. This ability replaces the subtle blade deed.
+
+**Aristocratic Discipline (Ex)**: At 2nd level, a noble fencer relies on his extremely honed training and discipline to protect his mind, rather than luck. The noble fencer gains a +1 bonus on Will saves against mind-affecting effects. This bonus increases by 1 at 6th level and every 4 swashbuckler levels thereafter. This ability replaces charmed life.
+
+## Veiled Blade
+
+Veiled blades specialize in subtlety, not through clandestine sneaking but simply by appearing to be someone harmless and unarmed. When a fight breaks out, a veiled blade doffs that facade and pulls out her hidden trump cards. Those who have mastered the art of the veiled blade can even hide their weapons on their own bodies as brands.
+
+**Class Skills**: A veiled blade adds Disguise to her list of class skills, instead of Intimidate. This alters the swashbuckler’s class skills.
+
+**Deeds**: A veiled blade gains the following deeds.
+
+**Quick Draw (Ex)**: At 1st level, whenever she has at least 1 panache point, a veiled blade gains the benefits of the Quick Draw feat.
+
+This deed replaces the swashbuckler’s opportune parry and riposte deed.
+
+**Hidden Blade (Ex)**: At 3rd level, whenever she has at least 1 panache point, a veiled blade can hide any light or one-handed piercing melee weapon using Sleight of Hand, and she receives a +4 insight bonus on her check to hide the weapon.
+
+This deed replaces the menacing swordplay deed.
+
+**Instant Unveil (Ex)**: At 7th level, when she uses her swashbuckler’s initiative deed to draw a light or one-handed piercing weapon as part of an initiative check, she can draw that weapon even if it is hidden.
+
+This deed replaces the swashbuckler’s grace deed.
+
+**Soul Veil (Sp)**: At 15th level, a veiled blade can merge a light or one-handed piercing melee weapon with herself, as if using the spell *ghost brand*, except that it takes only a swift action to manifest or store the weapon. This ability lasts until it is dispelled or until the veiled blade merges with a different light or one-handed piercing melee weapon.
+
+This deed replaces the swashbuckler’s edge deed.

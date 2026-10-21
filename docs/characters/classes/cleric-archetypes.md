@@ -340,3 +340,11 @@ Forgemasters are priestly dwarves who are ritual casters and expert enchanters, 
 **Craft Magic Arms and Armor**: The forgemaster gains this as a bonus feat at 3rd level.
 
 **Master Smith (Ex)**: At 5th level, a forgemaster can craft mundane metal items quickly, using half their gp value to determine progress, and can craft magical metal items in half the normal amount of time.
+
+## Cardinal
+
+While a cleric’s faith is her highest priority, her church may wield significant political power in some regions. In these cases, cardinals arise from the ranks of the clergy, engaging in the game of intrigue on behalf of their churches. While some cardinals manage to join the world of politics and retain the purity of their faith, many cardinals find that they must compromise some part of their beliefs in pursuit of their church’s political power, and some cardinals even fall prey to the corrupting influence of their power.
+
+**Armor Proficiency**: A cardinal is proficient in light armor, but not shields. This ability replaces the cleric’s armor proficiencies.
+
+**Political Skill**: A cardinal adds Bluff, Intimidate, Knowledge (geography), and Knowledge (local) to her list of class skills. She gains a number of skill ranks equal to 6 + her Intelligence modifier at each level, instead of the normal 2 + her Intelligence modifier. However, she gains only one domain, and her base attack bonus from cleric levels is equal to half her class level (which is the same as for a sorcerer or wizard). This ability replaces the cleric’s spontaneous casting ability. It alters the cleric’s domains, as well as her class skills, skill ranks per level, and base attack bonus.

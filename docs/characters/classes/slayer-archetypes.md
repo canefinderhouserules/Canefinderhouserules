@@ -179,3 +179,19 @@ At 6th level and every 3rd level thereafter, the range at which he can make a sn
 **Still Shot (Ex)**: At 7th level, when he has cover provided by one or more trees, the woodland sniper reduces the penalty on Stealth checks to remain hidden while sniping by half his slayer level. This replaces stalker.
 
 **Branchwalking (Ex)**: At 11th level, the woodland sniper gains a climb speed equal to his base speed. In addition, at 13th level, he can move from one tree to another via connecting branches by adding 5 to the DC of an Acrobatics or Climb check to move within the canopy. The woodland sniper cannot end his movement on a branch that cannot support his weight. This replaces swift tracker and slayer’s advance.
+
+## Velvet Blade
+
+Velvet blades specialize in infiltrating the upper echelons of society, mingling with nobles and courtiers, and killing them. Velvet blades are often born into the aristocracy, with an intricate understanding of the inner workings of upper-class society. Though a few velvet blades are unhinged maniacs who enjoy preying on their peers, most of these well-heeled slayers assume a professional demeanor and hire themselves out to other nobles or well-connected criminal organizations.
+
+**Class Skills**: A velvet blade adds Diplomacy and Knowledge (nobility) to her list of class skills, instead of Knowledge (dungeoneering). This alters the slayer’s class skills.
+
+**Armor Proficiency**: A velvet blade is not proficient with medium armor or shields. This alters the slayer’s armor proficiency.
+
+**Studied Socialite (Ex)**: A velvet blade focuses her studies on social infiltration rather than brute force, believing it is easier to kill an opponent quietly and unprepared than in a loud battle. She adds her studied target bonus on Bluff, Diplomacy, Disguise, Intimidate, Knowledge, Perception, Sense Motive, Stealth, and Survival checks against studied opponents, as well as to the DCs of slayer class abilities she uses against such opponents. She never gains a bonus on weapon attack and damage rolls from her studied target ability. This ability alters studied target.
+
+**Courtly Graces (Ex)**: A velvet blade spends long hours memorizing etiquette and family lineages of royalty and other prominent families. She gains a bonus on Knowledge (nobility checks) equal to half her slayer level (minimum +1). This ability replaces track.
+
+**Treacherous Blade (Ex)**: At 7th level, a velvet blade can capitalize on how others underestimate her and allow her close to them, assuming she is harmless. She gains the Betrayer feat as a bonus feat, whether or not she meets the prerequisites. Additionally, when making her first attack against a studied target that believes her to be harmless or to be an ally, the attack counts as a sneak attack, even if the target isn’t flanked or denied its Dexterity bonus to AC, and the velvet blade gains +2d6 sneak attack damage, increasing by 1d6 at 10th level and every 5 levels thereafter. Even if she immediately attacks the target again (such as by continuing a full attack), only the first attack gains these benefits, since the target immediately realizes the velvet blade is something more than she seemed.
+
+**Silent Dispatch (Ex)**: At 11th level, a velvet blade becomes adept at taking out her targets quietly. She gains the silent dispatch vigilante talent without meeting the talent’s prerequisites. This ability replaces swift tracker.

@@ -34,6 +34,14 @@ Inquisitions are intended for inquisitors, not for other classes that give acces
 
 **Swaying Word (Sp)**: At 8th level, once per day you may speak a word of divinely inspired wisdom that causes a single creature to switch its alliance to you. The target must be within line of sight and able to hear you. If he fails his Will save, he is affected by dominate person, except the duration is only 1 minute.
 
+### Crime Inquisition
+
+**Granted Powers**: Your connections to the criminal underworld run deeper than the physical, and your spiritual criminality grants you underhanded powers.
+
+**Criminal Minds (Sp)**: You can touch a creature and fill its mind with criminal impulses. This otherwise functions as per *crime of opportunity*, though a target that fails its saving throw and acts on an impulse gets those desires out of its system and becomes immune to the effects of your criminal minds ability for 24 hours. You can use this ability a number of times per day equal to 3 + your Wisdom modifier (minimum 1).
+
+**Thief’s Soul (Ex)**: At 8th level, you gain Improved Steal, Greater Steal, and Quick Steal as bonus feats, even if you don’t meet the prerequisites.
+
 ### Fate Inquisition
 
 **Typical deities**: a god of magic; a god of greed, murder, poison, and secrets; a goddess of birth, death, fate, and prophecy.
@@ -75,6 +83,14 @@ Inquisitions are intended for inquisitors, not for other classes that give acces
 **Caging Strike (Su)**: With a devastating weapon strike, spectral chains wrap around your target for a short period of time. Whenever you confirm a critical hit with a melee or ranged weapon attack (including spells that require attack rolls), you can choose to also entangle that target for 1d4 rounds (Fortitude negates). You may use this ability a number of times per day equal to 3 + your Wisdom modifier.
 
 **Divine Prison**: At 8th level, once per day upon making a successful melee attack, you can affect your target with hold monster (Will negates).
+
+### Secrets Inquisition
+
+**Granted Powers**: You have learned to keep your own secrets close, and your enemies’ secrets closer.
+
+**Detect Secrets (Su)**: You have learned how to detect any of a creature’s secrets, not just its thoughts. Whenever you cast *detect anxieties*, *detect desires*, or *detect thoughts* or use any of those spells as a spell-like ability, you can choose to gain the effects of one of the other two spells instead. You are never overwhelmed by a target of these spells that has a high ability score.
+
+**Closed Book (Sp)**: At 8th level, it becomes difficult for your foes to unveil your secrets. You are constantly under the effect of *nondetection*, as if you cast the spell on yourself.
 
 **Table: Inquisitions by Deity Type**
 
@@ -478,3 +494,105 @@ The gruff traditionalism of most dwarves finds its apex in those who adhere to a
 **Double Jeopardy (Su)**: At 12th level, whenever an exarch uses her fearsome jurist ability, she may choose to affect two weapons, with one gaining the *jurist* weapon special ability and the other the *menacing* special ability as above. Both special abilities may be combined in a single weapon, whose critical threat range doubles. This does not stack with *keen edge*, Improved Critical, or similar effects. This ability replaces greater bane.
 
 **Aura of Reversion (Su)**: At 16th level, while using her judgment, an exarch can project a 30-foot-radius emanation for a number of rounds per day equal to her inquisitor level. Any creature other than the exarch that is using a transmutation effect within this aura at the beginning of its turn becomes sickened, or sickened and nauseated if using a polymorph effect, including the change shape ability (Fortitude negates; DC 10 + 1/2 the exarch’s level + her Wisdom modifier). Continuous effects from permanent magical items do not cause this effect. Within the aura, dispel checks against transmutation effects gain a +4 bonus. This ability cannot be used simultaneously with aura of repetition. This ability replaces her third judgment.
+
+## Cloaked Wolf
+
+Some inquisitors are adept at appearing harmless until they throw off their unassuming facades and take their enemies by surprise.
+
+**Class Skills**: A cloaked wolf adds Sleight of Hand to her list of class skills, instead of Intimidate. This alters the inquisitor’s class skills.
+
+**Lure Prey (Ex)**: Cloaked wolves are skilled at maintaining a harmless guise even while they silently prepare to strike against their enemies. Starting at 1st level, a cloaked wolf receives a morale bonus on all Disguise and Sleight of Hand checks equal to half her inquisitor level (minimum +1). When a cloaked wolf uses Sleight of Hand to draw a hidden weapon, this bonus doubles. This ability replaces stern gaze.
+
+**Always Wary (Ex)**: A cloaked wolf is always ready for betrayal and subterfuge. Whenever she attempts a Sense Motive check to avoid being surprised by a foe using Bluff to conceal the attack, the cloaked wolf can always act during the surprise round, regardless of the result of the check. At 2nd level, she adds her Wisdom modifier (in addition to her Dexterity modifier) to her initiative checks during any such encounter. This ability alters cunning initiative and replaces monster lore.
+
+**Unleashed Fury (Ex)**: At 3rd level, a cloaked wolf can transition between parley and combat in the blink of an eye. She gains Quick Draw as a bonus feat.
+
+Additionally, at 6th level and every 3 inquisitor levels thereafter, she gains a bonus feat from the following list: Alertness, Catch Off-Guard, Deceitful, Deft Hands, Dodge, Improved Initiative, Improved Unarmed Strike, Improvised Weapon Mastery, Lookout, Mobility, Spring Attack, Stunning Fist, and Throw Anything. She must meet the prerequisites of the selected bonus feat.
+
+As a standard action, a cloaked wolf can choose to learn a new bonus feat from the above list in place of the most recent bonus feat she has already learned. In effect, the cloaked wolf loses the bonus feat in exchange for the new one. She can only change the most recent bonus feat gained. Whenever she gains a new bonus feat, the previous bonus feat becomes set and cannot be changed again. A cloaked wolf can change her most recent bonus feat a number of times per day equal to her Wisdom modifier (minimum 1). This ability replaces solo tactics and teamwork feats.
+
+## Faith Hunter
+
+Certain relentless inquisitors burn with special hatred for an enemy of specific convictions, and they stop at nothing when obsessively hunting these foes down.
+
+**Sworn Enemy (Sp, Su)**: A faith hunter chooses a single alignment (such as chaotic evil, rather than simply chaotic or evil) that directly opposes her own along either the law/ chaos axis or the good/evil axis (so a lawful good faith hunter can choose chaotic good, chaotic neutral, chaotic evil, neutral evil, or lawful evil, whereas a neutral good faith hunter can only choose chaotic evil, neutral evil, or lawful evil). Creatures of this alignment are her sworn enemies. She can detect creatures of that specific alignment at will, functioning as *detect evil*, except this ability works only on creatures and detects the specific alignment.
+
+At 6th level, once per day as a swift action, a faith hunter can smite one foe she can see. If the foe is of the faith hunter’s sworn enemy alignment, the faith hunter gains a +4 sacred bonus on attack rolls against that foe and a sacred bonus equal to half her inquisitor level on damage rolls made against the foe. Smites against targets of the faith hunter’s sworn enemy alignment automatically bypass any DR the creature might possess. If the faith hunter targets a creature that is not of her sworn enemy alignment, the smite is wasted with no effect.
+
+The smite effect remains until the foe is dead or the next time the faith hunter rests and regains her uses of this ability. At 10th level and every 4 inquisitor levels thereafter, a faith hunter can smite her enemies one additional time per day, to a maximum of four times per day at 18th level.
+
+A faith hunter does not gain the justice or destruction judgments. This ability replaces domain and alters judgment.
+
+**Enemy Revealed (Su)**: At 2nd level, when a faith hunter uses her sworn enemy ability to identify a creature’s alignment (typically on the third round of concentrating on an area including the creature), she can reveal that creature’s alignment aura, causing it to glow for 1 round per inquisitor level so that even creatures with regular vision can see the aura. This not only allows others to recognize the creature’s alignment, potentially exposing its true nature, it also allows them to track its location easily by the glow. Even if such a creature is invisible, the telltale glow pinpoints the creature’s square or squares. The faith hunter can use this ability a number of times per day equal to her Wisdom modifier (minimum 1), and it doesn’t take any extra action on her part to do so; it is part of the same action as concentrating on her sworn enemy detect ability. This ability replaces detect alignment.
+
+**Hateful Bane (Su)**: At 5th level, a faith hunter’s bane ability functions only against creatures that are both the selected creature type and her sworn enemy alignment. This ability alters bane.
+
+## Secret Seeker
+
+Secret seekers are trained in the art of extracting answers from intransigent foes. Recognizing that torture is a poor method of securing truthful intelligence, secret seekers instead prefer magical means of inquiry.
+
+**Occult Lore (Su)**: A secret seeker gains access to the prognostication and read aura occult skill unlocks, but not the other occult skill unlocks. If she ever chooses to gain the Psychic Sensitivity feat or otherwise gains access to all occult skill unlocks, she receives Psychic Maestro as a bonus feat, with prognostication and read aura as the two occult skill unlocks selected. This ability replaces monster lore.
+
+**Detect Mind (Sp)**: At 5th level, a secret seeker can *detect anxieties*, *detect desires*, or *detect thoughts*, as per the spells, for a number of rounds per day equal to twice her inquisitor level. These rounds need not be consecutive. A creature that succeeds at a saving throw against this ability is immune to that secret seeker’s detect mind ability for 24 hours. If the secret seeker has the secrets inquisition, she doubles the number of rounds per day that she can use this ability.
+
+At 12th level, a secret seeker can use her detect mind ability for a number of minutes per day equal to twice her inquisitor level, rather than rounds. These minutes need not be consecutive but must be spent in 1-minute increments. If the secret seeker has the secrets inquisition, she doubles the number of minutes per day she can use this ability. This ability replaces bane and greater bane.
+
+**Seek Mind (Sp)**: At 14th level, a secret seeker can use her detect mind ability to seek out people with particular anxieties, desires, or thoughts. This functions as per *seek thoughts* except that it works with any of the three types of mental output the secret seeker can detect with detect mind. This ability replaces exploit weakness.
+
+## Tactical Leader
+
+Rather than pursuing their holy missions alone, some inquisitors see the inherent value of working with like-minded allies to accomplish mutual goals.
+
+**Leader’s Words (Ex)**: Tactical leaders are skilled at speaking soothing words that keep the peace and bolster allies’ resolve. A tactical leader receives a morale bonus on all Diplomacy checks equal to half his inquisitor level (minimum +1). This ability replaces stern gaze.
+
+**Tactician (Ex)**: At 3rd level, 9th level, and 18th level, a tactical leader gains a teamwork feat as a bonus feat. He must meet the prerequisites for this feat. As a standard action, the tactical leader can grant one of these feats to all allies within 30 feet who can see and hear him. Allies retain the use of this bonus feat for 3 rounds plus 1 round for every 2 inquisitor levels the tactical leader has. Allies do not need to meet the prerequisites of these bonus feats. The tactical leader can use this ability once per day at 3rd level, plus one additional time per day at 6th, 9th, 15th, and 18th level.
+
+At 12th level, a tactical leader can use the tactician ability as a swift action. At 18th level, whenever the tactical leader uses this ability, he grants any two teamwork feats that he knows. He can select from any of his teamwork feats, not just his bonus feats.
+
+If the tactical leader also has cavalier levels, these levels stack for determining the number of uses of this ability per day. This ability replaces solo tactics and teamwork feats.
+
+**Battle Acumen (Ex)**: At 14th level, a tactical leader can grant his judgment benefits to a single other ally within 30 feet who can see and hear the tactical leader as an immediate action. These benefits last until the beginning of the tactical leader’s next turn. A tactical leader must have a judgment active to use this ability and the benefits granted are the same as those selected by his judgment. A tactical leader can use this ability a number of times per day equal to his Wisdom modifier (minimum 1). This ability replaces exploit weakness.
+
+## Traceless Operative
+
+Traceless operatives practice subterfuge and careful preparation in order to accomplish their divine mandates.
+
+**Conceal Evidence (Ex)**: A traceless operative knows how to clean up and obscure the evidence of foul play. It takes her 1d3 × 10 minutes to conceal or alter evidence in a 10-foot-by-10-foot area. She uses Disguise to alter evidence or Stealth to conceal it, though bonuses and penalties based on her abilities or effects that disguise or hide her own body (such as from *disguise self*, a *cloak of elvenkind*, or the size modifier on Stealth checks) do not apply. A creature attempting to investigate the scene using Perception must succeed at the original Perception DC or a DC equal to the traceless operative’s check, whichever is higher, in order to discover the true evidence. A creature who fails against a traceless operative’s Disguise check potentially also derives the false evidence planted by the traceless operative. This ability replaces monster lore and stern gaze.
+
+**Trackless (Sp)**: At 2nd level, a traceless operative’s deity helps obscure her path from others. The DC to track the traceless operative (or a group including her) increases by half her inquisitor level. This does not stack with similar abilities, such as a transporter’s trailbreaker ability. This ability replaces track.
+
+**Uncanny Dodge (Ex)**: At 5th level, a traceless operative can react to danger before her senses would normally allow her to do so. She cannot be caught flat-footed, nor does she lose her Dexterity bonus to AC if the attacker is invisible. She still loses her Dexterity bonus to AC if immobilized. A traceless operative with this ability can still lose her Dexterity bonus to AC if an opponent successfully uses the feint action against her. If the traceless operative already possesses uncanny dodge from a different class, she automatically gains improved uncanny dodge instead. This ability replaces bane.
+
+**Improved Uncanny Dodge (Ex)**: At 12th level, a traceless operative can no longer be flanked. This defense denies rogues (or other classes with the sneak attack ability) the ability to sneak attack the traceless operative by flanking her, unless the attacker has at least 4 more rogue levels (or levels in a class that grants the sneak attack class ability) than the traceless operative has inquisitor levels. If the traceless operative already has improved uncanny dodge from another class, the levels from the classes that grant improved uncanny dodge stack when determining the minimum rogue level (or level in another class with the sneak attack ability) required to flank the character. This ability replaces greater bane.
+
+## Umbral Stalker
+
+As a consummate lurker in the shadows, an umbral stalker observes the enemies of her faith and strikes before the unfortunate victims even know she is skulking nearby.
+
+**Class Skills**: An umbral stalker adds Acrobatics to her list of class skills, instead of Diplomacy. This alters the inquisitor’s class skills.
+
+**Dark Descent (Su)**: An umbral stalker gains the Darkness domain with the Night subdomain, even if her deity normally doesn’t offer it. This ability alters domain.
+
+**Judgment**: Umbral stalkers are most effective when they get the drop on an opponent. An umbral stalker gains access to the following judgment.
+
+**Stalking**: The umbral stalker gains a +2 sacred bonus on attack rolls against creatures that are unaware of her presence (typically because she is invisible or using Stealth). This bonus increases by 2 for every 5 inquisitor levels she has. This ability replaces the justice judgment.
+
+**Swift and Silent (Ex)**: Umbral stalkers often descend upon their prey with deadly grace and efficiency. An umbral stalker gains a morale bonus on all Acrobatics and Stealth checks equal to half her inquisitor level (minimum +1). This ability replaces stern gaze.
+
+**Deadly Efficiency (Ex)**: At 14th level, an umbral stalker becomes even deadlier against enemies who haven’t yet noticed her in the shadows. Whenever she confirms a critical hit against a foe that is unaware of her presence, she ignores any damage reduction the target might have and adds her Wisdom bonus to her damage roll (this multiplies on the critical hit as normal); in addition, if the target has regeneration, the creature loses regeneration on the round following the critical hit and can die normally during that round. Creatures whose regeneration always functions are immune to this ability.
+
+Finally, if the umbral stalker deals energy damage to a creature unaware of her presence with vulnerability to that energy type, she deals 2 extra points of damage per die rolled. This ability alters exploit weakness.
+
+## Vigilant Defender
+
+Some inquisitors focus more on protecting those who share their faiths and their ideals than on actively hunting their enemies. These vigilant defenders often work alongside traveling clerics and paladins.
+
+**Shared Judgments (Su)**: As a swift action whenever a vigilant defender has pronounced judgment on her foes, she can grant all of her allies the bonus or special ability that the judgment bestows. If she has multiple active judgments, they all affect her allies. When she does this, the judgments no longer affect her, and their effects only last for 1 round, after which that daily use of judgment ends immediately, even if the combat is not over. The vigilant defender cannot change any of these judgments to another type during this round. This ability modifies judgment.
+
+**Protect the Faithful (Ex)**: A vigilant defender can spend 1 minute coaching and teaching a group of allies how best to avoid scrutiny from those who wish them harm. The vigilant defender and her allies cannot be in combat or threatened during this coaching, and allies must be able to see and hear the vigilant defender to benefit from this ability. This ability provides no benefits against enemies that have heard or seen the coaching.
+
+Affected allies receive a morale bonus equal to 1/4 the vigilant defender’s inquisitor level (minimum +1) on all Bluff, Disguise, Perception, and Stealth checks outside of combat made to avoid, deceive, or notice other creatures. This bonus lasts for 10 minutes, and the vigilant defender can affect herself and a number of allies equal to her Wisdom modifier (minimum 1). She can coach allies in this way once per day at 1st level, plus one additional time per day for every 4 inquisitor levels she has, to a maximum of six times per day at 20th level. This ability replaces stern gaze.
+
+**Bolster the Wounded (Ex)**: At 14th level, a vigilant defender can preternaturally sense when her allies are in grave peril and can form a mystical conduit to protect them from the full effects of grievous wounds. As an immediate action whenever an enemy confirms a critical hit against an ally within 30 feet, the vigilant defender can choose to accept half the damage. If she does so, similar to the *shield other* spell, any of her damage reduction, resistances, or immunities do not apply to the damage she takes. This ability replaces exploit weakness.
+
+**True Vengeance (Su)**: At 20th level, when a vigilant defender calls true judgment down upon a foe, if the foe has killed one of the vigilant defender’s allies (permanent sentient allies, such as fellow party members or cohorts, not summoned monsters, animal companions, pets, or the like), the DC of the target’s Fortitude save to avoid death is 2 higher. If the foe has not damaged any of the vigilant defender’s allies, the DC to avoid death is instead 2 lower. This ability alters true judgment.

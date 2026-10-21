@@ -530,3 +530,67 @@ A bramble brewer who selects the grand mutagen discovery can brew a dendrite mut
 **Grand Discovery (Su)**: At 20th level, a bramble brewer who selects the true mutagen grand discovery can create a dendrite mutagen that grants a +8 natural armor bonus and a +6 alchemical bonus to Strength, Dexterity, and Constitution. The bramble brewer takes a –2 penalty to his Intelligence, Wisdom, and Charisma scores as long as the mutagen persists. The bramble brewer’s gains fast healing 10, but instead of only gaining fast healing in bright light, this fast healing persists in areas of bright or normal light. A bramble brewer must possess the grand mutagen discovery before selecting this discovery.
 
 **Discoveries**: The following discoveries complement the bramble brewer archetype: precise bombs (*Advanced Player’s Guide*); defoliant bomb (*Advanced Race Guide*); lingering spirit, strafe bomb, sunlight bomb (*Ultimate Magic*).
+
+## Alchemical Sapper
+
+Alchemical sappers are trained to create explosives.
+
+**Diminished Alchemy**: An alchemical sapper can prepare one fewer extract of each level than normal. If this reduces the number to 0, he can prepare extracts of that level only if his Intelligence allows bonus extracts of that level.
+
+**Class Skills**: An alchemical sapper adds Knowledge (engineering) and Stealth to his list of class skills. This alters the alchemist’s class skills.
+
+**Demolition Bomb (Su)**: At 1st level, an alchemical sapper can create a demolition bomb. This bomb deals double his normal bomb damage, half of which is bludgeoning and piercing damage, the other half of which is fire damage. This bomb ignores a number of points of hardness up to 1/2 the alchemical sapper’s level (minimum 1). This counts as an ability that modifies the alchemical sapper’s bomb, so it doesn’t stack with other discoveries that modify bombs. The alchemical sapper can’t use his demolition bomb with the fast bombs discovery. An alchemical sapper can only expend one use of his bomb class feature to create a demolition bomb once per day. He can create one additional demolition bomb per day at 5th level and every 4 alchemist levels thereafter. This ability modifies bomb.
+
+**Delayed Bomb (Su)**: An alchemical sapper gains the delayed bomb discovery at 1st level. He does not qualify for the mutagen or cognatogen discoveries until 8th level. This ability replaces mutagen.
+
+**Master Engineer (Ex)**: At 2nd level, an alchemical sapper adds 1/2 his alchemist level to Knowledge (engineering) checks, Craft (stonemasonry) checks, and Craft (traps) checks. This ability replaces poison resistance.
+
+**Camouflage Bomb (Ex)**: At 3rd level, an alchemical sapper becomes skilled at hiding his bombs. When deploying a delayed bomb or trip mine (see below), the alchemical sapper can camouflage the bomb by taking an additional full-round action. Creatures searching for traps must succeed at a Perception check (DC = 10 + the alchemical sapper’s alchemist level + his Intelligence modifier) to notice a camouflaged bomb. This ability replaces swift alchemy.
+
+**Trip Mine (Su)**: At 6th level, an alchemical sapper can expend two uses of his bomb class feature to prepare a special kind of trap called a trip mine. This special bomb remains inert until 1 round after it leaves the alchemical sapper’s possession, after which time it becomes armed. When a creature enters a square containing an armed trip mine, it explodes, dealing normal bomb damage to all creatures in its square (DC = 10 + 1/2 the alchemical sapper’s alchemist level + his Intelligence modifier; Reflex half) and splash damage to every creature adjacent to that square. A trip mine can be disarmed with a successful Disable Device check (with a DC equal to the trip mine’s save DC); otherwise, it lasts until the next time the alchemical sapper refreshes his daily bombs.
+
+If the alchemical sapper expends four uses of his bomb class feature, his trip mine deals damage as per a demolition bomb; this does not count against his daily uses of the demolition bomb ability. Other than demolition bomb, discoveries that modify bombs cannot apply to trip mine. This ability replaces the discovery gained at 6th level.
+
+**Selective Detonation (Su)**: At 10th level, when an alchemical sapper plants a trip mine, he can designate a number of allies up to his Intelligence modifier, allowing the designated allies to pass safely through an armed trip mine’s square without causing it to detonate. If another creature triggers the trip mine while an ally is nearby, the ally still takes damage as normal. This ability replaces poison immunity.
+
+## Interrogator
+
+An interrogator extracts vital information from reluctant individuals using alchemical and traditional methods.
+
+**Class Skills**: An interrogator adds Intimidate and Sense Motive to his list of class skills. This alters the alchemist’s class skills.
+
+**Injections (Su)**: At 1st level, an interrogator uses his skill with alchemy to create injections. Each day, an interrogator can create a number of injections equal to his alchemist level + his Intelligence modifier. It takes 1 hour to create the injections. An injection is inert until the interrogator attempts to use it.
+
+Using an injection is a standard action that requires a melee touch attack. If the attack hits, the target of an injection takes a –2 penalty on its Will saving throws for a number of minutes equal to half the interrogator’s class level (minimum 1). If the interrogator is also using a serum with this injection, the penalty on Will saves applies to any save against the serum.
+
+If the melee touch attack fails, the injection isn’t delivered but can still be used again—once activated, it remains potent for 1 day. An injection that hasn’t been administered becomes inert if it leaves the interrogator’s possession, reactivating as soon as it returns to his possession. The penalties from multiple injections don’t stack, nor do the penalties from injections stack with penalties from a mesmerist’s stare or a witch’s evil eye hex. Injections are mind-affecting poison effects. This ability replaces bomb.
+
+**Serums (Su)**: At 1st level, an interrogator augments his ability to influence others through supplemental serums. An interrogator prepares his serums at the same time as his injections and he can apply them to any injection as a swift action before he makes the attack roll for the injection. An interrogator knows one serum at 1st level and can learn another serum in place of a discovery. The save DCs of serums are equal to 10 + 1/2 the interrogator’s alchemist level + his Intelligence modifier. A creature can be under the effect of only a single serum at a time—with the exception of memory modification serum—with any further serums on the same creature replacing the old serum. Unless otherwise noted, a creature that succeeds on its saving throw against a serum is immune to that serum’s effects for 24 hours. An interrogator can never gain any sort of mutagen or cognatogen, even from a discovery or another class. This ability replaces mutagen and persistent mutagen.
+
+**Charming**: The injected creature must succeed at a Will save or treat the interrogator favorably, as if affected by *charm person* with a caster level equal to the interrogator’s alchemist level. At 8th level, this serum acts as *charm monster*.
+
+**Compliance**: On a failed Will save, the subject of this injection is affected by a *suggestion* with a caster level equal to the interrogator’s alchemist level. An alchemist must be at least 8th level to learn this serum.
+
+**Confusion**: On a failed Will save, the injected creature is confused for 1 round per alchemist level the interrogator has. An alchemist must be at least 6th level to learn this serum.
+
+**Hypnosis**: The injected creature must succeed at a Will save or become fascinated for 1 round per alchemist level the interrogator has.
+
+**Memory Modification**: On a failed Will save, the target of this serum is affected by *modify memory* at a caster level equal to the interrogator’s alchemist level. An alchemist must be at least 12th level to learn this serum.
+
+**Paralytic**: On a failed Will save, the injected creature is affected by *hold person* with a caster level equal to the interrogator’s alchemist level. An alchemist must be at least 8th level to learn this serum.
+
+**Truth**: A creature injected with a truth serum must succeed at a Will save or be compelled to answer  the interrogator’s questions truthfully. The interrogator can ask one question per 2 alchemist levels (minimum 1). Answers might be brief, cryptic, or repetitive, especially if the injected creature is unfriendly, but they aren’t false. If a creature has been subjected to a truth serum within the past week, whether it succeeded at or failed its save, any new serum fails.
+
+## Metamorph
+
+Metamorphs eschew traditional alchemy, focusing on internal chemistry and the transfiguration of living forms.
+
+**Class Skills**: A metamorph adds Disguise to her list of class skills. This alters the alchemist’s class skills.
+
+**Shapechanger (Su)**: At 1st level, a metamorph gains the ability to transform herself into another form. This ability functions like *alter self*, except as noted here. The effect lasts for 1 hour per metamorph’s alchemist level, or until she changes back. Changing form (to another form or back) is a standard action that doesn’t provoke attacks of opportunity. The metamorph is fatigued for 1 round each time she changes shape.
+
+A metamorph can use this ability once per day at 1st level, and an additional time per day at 4th level, and every 2 alchemist levels thereafter, for a total of nine times at 18th level. At 20th level, a metamorph can use shapechanger as a free action once per round, either before or after all her other actions, with no daily limit. This ability can also function as *monstrous physique I* at 5th level, as *monstrous physique II* at 9th level, as *monstrous physique III* at 11th level, as *monstrous physique IV* or *giant form I* at 13th level, and as *giant form II* at 15th level. This ability replaces alchemy (which also includes bombs, extracts, and mutagen) and Throw Anything.
+
+**Mutagen (Ex)**: At 1st level, a metamorph gains mutagen as a normal alchemist. She can take mutagen and cognatogen discoveries despite not possessing the alchemy class feature that normally grants mutagen.
+
+**Adaptive Physiology (Ex)**: At 3rd level, a metamorph gains a 25% chance to negate critical hits and precision damage, similar to the preserve organs discovery. This chance increases to 50% at 6th level, and to 75% at 18th level. This ability replaces swift alchemy, swift poisoning, and instant alchemy.

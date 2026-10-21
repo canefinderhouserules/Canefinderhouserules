@@ -91,3 +91,57 @@ Though most spiritualists are chosen by their phantoms, others deliberately call
 **Divine Teachings (Su)**: An onmyoji gains the ability to call upon her phantom to help her cast spells she normally couldn’t. At 4th level and every 3 levels thereafter, an onmyoji can choose a single spell from the cleric spell list with a spell level she is currently able to cast, and add that spell to her list of spells known, at the same spell level as it appears on the cleric spell list. Because the onmyoji relies on her phantom’s influence in order to cast these spells, she can cast spells added in this way only while the phantom is confined within her consciousness (not stranded on the Ethereal Plane or fully manifested).
 
 This ability replaces spiritual interference and greater spiritual interference.
+
+## Shadow Caller
+
+While most spiritualists form a bond with the remnants of a creature’s soul, some explore ways to bind ephemeral shadows to their own souls in exchange for power.
+
+**Shadowcaster**: A shadow caller adds *darkness* and *deeper darkness* to their class spell list as 2nd- and 3rd-level spells, respectively. When her shade (see below) inhabits her shadow, the shadow caller’s effective caster level is one higher when she casts all spells with the shadow or darkness descriptor. This ability alters the spiritualist’s spellcasting.
+
+**Shade**: A shadow caller gains a special kind of phantom known as a shade. A shade functions as a phantom, except as noted below. A shade is from the Shadow Plane instead of the Ethereal Plane. A shade is not confined to the shadow caller’s consciousness, but instead inhabits her shadow. This ability alters phantom.
+
+**Emotionless (Su)**: A shadow caller’s shade lacks an emotional focus; it is cold and devoid of all emotions. The shade gains a number of ranks in Intimidate and Stealth equal to its Hit Dice. The shadow caller gains Skill Focus in each of these skills while the shade inhabits her shadow. The shade has good Reflex and Will saves, gains Lightning Reflexes as a bonus feat, and gains the following abilities.
+
+**Weakening Touch (Su)**: A shade’s slam attack causes its victim to take a –2 penalty to Strength for 1 round. As a standard action, a shade in incorporeal form can deliver the penalty as a touch attack. This penalty does not stack with itself. This is a negative energy effect.
+
+**Umbral Shroud (Su)**: When the shadow caller reaches 7th level, her shade can emit a 10-foot aura of swirling shadows that grants all allies 20% concealment against creatures without darkvision or the see in darkness ability, and a +4 bonus on Stealth checks.
+
+**Shadow Caster (Sp)**: When the shadow caller reaches 12th level, her shade gains the ability to cast either *shadow conjuration* or *shadow evocation* once per day. It uses its Hit Dice as its caster level, and the DC for these spells equals 10 + 1/2 the shade’s Hit Dice + its Charisma modifier. Instead of the normal spell level and percentage of reality for the two spells, the maximum spell level of the duplicated spell is 4th level, and the effects are 40% real. When the shadow caller reaches 18th level, the maximum spell level improves to 6th level and effects are 60% real.
+
+**Midnight Shroud (Su)**: When the shadow caller reaches 17th level, her shade’s umbral shroud also lowers the light level in its range to darkness, regardless of the prevailing conditions; this counts as a 7th-level *darkness* spell for the purpose of adjudicating light and darkness effects.
+
+**Inhabit Shadow (Su)**: A shade resides within a shadow caller’s own shadow. When the shade is summoned, the shadow caller does not cast a shadow under any circumstances. Creatures that don’t normally cast shadows (such as vampires) cannot be shadow callers. While the shade inhabits its master’s shadow, the shadow caller gains a +4 circumstance bonus on Stealth checks against creatures without darkvision or the see in darkness ability; at 12th level, this bonus increases to +8. Additionally, the shadow caller gains darkvision 60 feet while her shade inhabits her shadow. If the shadow caller already has darkvision, its range increases by 30 feet. This ability replaces shared consciousness.
+
+**Shadow Bound (Su)**: A shadow caller’s shade remains stable while adjacent to the shadow caller, or while up to 5 feet away from the shadow caller for every 5 levels the shadow caller possesses. If the shade moves beyond this distance, it is automatically dismissed back to the Shadow Plane (preventing the shade from being summoned back for 24 hours) unless the shadow caller concentrates as per the etheric tether ability. However, if both the shadow caller and shade are in areas of total darkness, the shade can move any distance from the shadow caller. If the shade is beyond its maximum distance and enters an area of dim or brighter illumination, it immediately returns to the Shadow Plane and cannot be summoned for 24 hours. This ability replaces etheric tether.
+
+**Shadow Jump (Su)**: At 6th level, when a shadow caller’s shade inhabits her shadow, she can travel between shadows as per the shadowdancer’s shadow jump ability. Each day, she can travel a total of 40 feet per spiritualist level in this way and, as with a shadowdancer, the distance is rounded to the nearest 10-foot increment. This ability replace phantom recall.
+
+**See in Darkness (Su)**: At 9th level, a shadow caller can gain the see in darkness universal monster ability as a standard action. She can use this ability for a number of rounds per day equal to her spiritualist level, though these rounds need not be consecutive. This ability replaces *see invisibility*.
+
+**Umbral Aura (Su, Sp)**: At 10th level, a shadow caller is wreathed in an aura of darkness while her shade inhabits her shadow, gaining 50% concealment against creatures without darkvision or the see in darkness ability. Additionally, the shadow caller’s square and all adjacent squares are treated as areas of dim illumination while she benefits from this ability; this second effect counts as a 4th-level *darkness* spell for the purpose of adjudicating light and darkness effects. While her shade inhabits her shadow, the shadow caller can hide in plain sight, even if an observing creature has darkvision or see in darkness. This ability replaces fused consciousness.
+
+**Living Darkness (Su)**: At 20th level, a shadow caller becomes a creature of absolute darkness. When using her incorporeal bonded manifestation, she is immune to cold and mind-affecting effects and gains an incorporeal touch attack that she can use as a standard action to deal 20d6 points of negative energy damage. When the shadow caller damages a creature with this ability, she gains 5d6 temporary hit points (Fortitude half; DC = 20 + her Wisdom modifier), so long as she doesn’t already have any temporary hit points gained via this ability). Temporary hit points gained this way disappear after 1 hour. This ability replaces empowered consciousness.
+
+## Zeitgeist Binder
+
+Not all spiritualists deal in the souls of creatures that refuse to pass into death. Zeitgeist binders channel the emotional connections of a group of people into a unique phantom that personifies a community.
+
+**Zeitgeist (Su)**: A zeitgeist binder’s phantom is called a zeitgeist. In addition to an emotion, a zeitgeist is tied to one aspect of its settlement: corruption, crime, economy, law, lore, or society. In order to select an aspect, that aspect of the settlement must have a positive modifier (for instance, a settlement with a negative lore modifier or a modifier of 0 could not manifest a lore zeitgeist). Although a zeitgeist personifies a single chosen settlement, a zeitgeist binder can call it anywhere, but outside the bounds of its settlement, it loses the benefits of its settlement aspect and settlement avatar abilities. This ability alters phantom.
+
+**Settlement Aspect (Sp)**: A zeitgeist binder gains a number of spell-like abilities tied to her zeitgeist’s settlement aspect. Other than being based on Wisdom instead of Charisma, these work the same way as the fractured mind’s emotional power ability. The *masterwork transformation* spell-like ability does not ignore the material component.
+
+**Corruption**: *Conditional favor** (5th), *false belief** (7th), *charm person* (9th), *mass suggestion** (16th).
+
+**Crime**: *Crime of opportunity** (5th), *pilfering hand* (7th), *demand offering* (9th), *crime wave** (16th).
+
+**Economy**: *Crafter’s fortune* (5th), *masterwork transformation* (7th), *beguiling gift* (9th), *major creation* (16th).
+
+**Law**: *Detect chaos* (5th), *arrow of law* (7th), *peacebond* (9th), *mark of justice* (16th).
+
+**Lore**: *Object reading* (5th), *hypercognition* (7th), *heightened awareness* (9th), *legend lore* (16th).
+
+**Society**: *Cultural adaptation** (5th), *rumormonger** (7th), *share language* (9th), *coordinated effort* (16th). This ability replaces *detect undead*, *calm spirit*, *see invisibility*, and *call spirit*.
+
+**Settlement Avatar (Su)**: When a zeitgeist binder reaches 2nd level, the zeitgeist becomes a living avatar of the settlement. As a standard action, it can project its senses out into the settlement, perceiving the general pulse of its chosen aspect throughout the whole settlement as well as anything involving its aspect that is occurring within 50 feet per spiritualist level. The sensing works like *enter image*, so the zeitgeist attempts a Perception check at a –10 penalty to notice any particular activity within range. The zeitgeist can use this ability for a number of rounds per day equal to the zeitgeist binder’s spiritualist level. These rounds need not be consecutive.
+
+When the zeitgeist binder reaches 10th level, the zeitgeist can project its senses to feel its settlement aspect at will. Additionally, the zeitgeist binder gains a bonus teamwork feat as long as she is in her zeitgeist’s settlement. The zeitgeist binder must meet the teamwork feat’s prerequisites, and she grants the feat as a bonus feat to her zeitgeist, even if it doesn’t meet the prerequisites. This ability replaces the spiritualist’s bonded senses and fused consciousness.

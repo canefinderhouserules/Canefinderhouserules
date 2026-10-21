@@ -521,3 +521,21 @@ As most half-orcs are outcasts, a half-orc paladin recognizes that often those w
 **Aura of Mercy (Su)**: At 11th level, a redeemer can expend two uses of her merciful smite ability to grant the merciful smite ability to all allies within 10 feet, using her bonuses. Allies must use this merciful smite ability by the start of the paladin’s next turn and the bonuses last for 1 minute. Using this ability is a free action. Evil creatures gain no benefit from this ability. This replaces aura of justice.
 
 **Associates**: A redeemer may ally with an evil creature as long as she feels the creature is capable of redemption. A redeemer may accept henchmen, followers, or cohorts who are not lawful good provided they demonstrate they are willing to follow her and seek betterment under her tutelage.
+
+## Gray Paladin
+
+Gray paladins have discovered that in a world of intrigue, a strict code of honor hinders their options. Their divergence from the paladin’s normal code still drains them, but somehow, they have found a way to avoid losing all of their powers.
+
+**Alignment**: A gray paladin can be lawful good, lawful neutral, or neutral good, though she must still follow a lawful good, neutral good, or lawful neutral deity. This alters the paladin’s alignment restrictions.
+
+**Class Skills**: A gray paladin adds Bluff, Disguise, and Intimidate to her list of class skills. This alters the paladin’s class skills.
+
+**Weakened Grace**: A gray paladin’s loosened code weakens her connection to the power that grants her paladin abilities. She gains her first use of smite evil at 2nd level, instead of 1st, though she still gains further uses of smite evil at the rate listed on Table 3–11 of the *Core Rulebook*. She never gains the aura of good or divine grace class features. Her aura of courage does not make her immune to fear, her aura of resolve does not make her immune to charms, and her aura of righteousness does not make her immune to compulsions. This ability alters smite evil, aura of courage, aura of resolve, and aura of righteousness, and it replaces aura of good and divine grace.
+
+**Code of Conduct**: A gray paladin must be of lawful good, lawful neutral, or neutral good alignment and loses all class features except proficiencies if she ever willingly commits an evil act (for example, casting a spell with the evil descriptor). She should strive to act with honor and uphold the tenets of her faith, but failing to do so is not a violation of her code, and other than evil actions, she can do whatever else she feels is necessary to uphold the causes of law and good. This ability replaces the paladin’s code of conduct and associated abilities and alters the section on ex-paladins.
+
+**Enhanced Health (Ex)**: At 3rd level, a gray paladin is far less a stranger to poisons than a normal paladin. She gains a +4 sacred bonus on all saving throws against poisons and diseases. This ability replaces divine health.
+
+**Smite Foe (Su)**: At 4th level, a gray paladin can spend two uses of smite evil in order to smite a nongood creature that is not evil and gain her full benefits. The gray paladin must truly believe that the creature she smites is an opponent to the cause of good. Even if this nonevil foe is an outsider, undead, or dragon, she doesn’t add increased damage to her first attack. This ability replaces channel positive energy and alters smite evil.
+
+**Aura of Subtlety (Sp, Su)**: At 11th level, a gray paladin learns how to protect herself from detection. She and her allies within 10 feet gain a +4 morale bonus on saving throws against divination effects. Furthermore, casters of divinations that target the gray paladin or her nearby allies must succeed at a caster level check as though the gray paladin and her nearby allies were under the effect of a *nondetection* spell cast by the gray paladin, with a caster level equal to the gray paladin’s paladin level. This ability functions while the gray paladin is conscious and while she is sleeping, but not if she is unconscious for any other reason, or dead. This ability replaces aura of justice.

@@ -159,3 +159,69 @@ At 10th level, the hunt caller can instead choose a Medium animal shape. At 14th
 **Inspire Scent (Ex)**: At 6th level, the hunt caller gains the scent rage power. Her song of the senses and inspired rage raging songs both grant affected allies this rage power. This replaces the rage power gained at 6th level.
 
 **Rage Powers**: The following rage powers complement the hunt caller archetype: animal fury, battle roar, beast totem (lesser, normal, and greater), intimidating glare, low-light vision, no escape, primal scent, quick reflexes, sprint, and swift foot.
+
+## Battle Scion
+
+The battle scion possesses a unique mixture of courtly grace alongside martial and magical prowess. She is a warrior-poet, as skilled with her words as she is with blades. Battle scions sometimes rule as queens over courts of brave knights who scour the world championing bold quests.
+
+**Courtly Presence (Ex)**: At 1st level, a battle scion’s bearing radiates command and presence, allowing her to tower over her opponents in social situations. The battle scion adds 1/2 her character level to Intimidate checks, and she starts any verbal duel with an extra edge that she can use for the presence tactic so long as she is not at a significant or extreme disadvantage in the duel. However, her bardic knowledge ability applies to only Knowledge (geography), Knowledge (history), Knowledge (local), and Knowledge (nobility). This ability alters bardic knowledge.
+
+**Battle Prowess (Ex)**: Whenever a battle scion would gain a rage power from the skald’s rage power ability (at 3rd level and every 3 skald levels thereafter), she can instead choose to gain a combat feat or teamwork feat for which she meets the prerequisites. Like rage powers she selects in this way, the battle scion can grant this feat to allies under the effect of inspired rage, as long as those allies also meet the prerequisites, but she must expend 2 rounds of raging song for each round in which she grants a combat feat or teamwork feat.
+
+If the battle scion gains multiple feats from battle prowess, allies can use these feats to meet the prerequisites for other feats while they’re affected by battle prowess (for example, a battle scion with Power Attack and Cleave from battle prowess could grant both, allowing allies with a +1 base attack bonus and a Strength score of 13 to gain both, since they can use Power Attack to qualify for Cleave). This alters the rage power ability.
+
+**Raging Song (Su)**: A battle scion gains the following raging song.
+
+**Song of Questing (Su)**: At 10th level, the battle scion can spend 4 rounds of raging song to draw upon a target’s honor, ambition, and sense of self in order to bind the target to an agreed-upon task, often a noble quest. This works like *geas/quest*, except it applies only if the target is truly willing (not magically compelled or tricked), and the target automatically understands the full terms of the agreement before deciding whether he is willing.
+
+The battle scion can offer a reward for the completion of the noble quest, but if she does so and fails to live up to her agreement, she becomes an ex-battle scion and loses all benefits gained from the archetype (she does not gain the abilities they replaced, either). At 14th level, she can offer the same quest to up to one willing creature per skald level. If she does so, the effect ends for all creatures as soon as anyone completes the quest, though only the creature who completes it earns any offered reward. This ability replaces dirge of doom and song of the fallen.
+
+**Once and Future Scion (Su)**: At 20th level, a battle scion becomes extremely difficult to kill. Whenever she is slain, as long as her body isn’t destroyed, she enters a deathlike sleep for 3 days, after which she returns to life as per *raise dead*, except that it can restore her even if she was slain by a death effect. Spells that would restore her to life function as if she were dead during this time, allowing her to recover sooner. This ability replaces master skald.
+
+## Bold Schemer
+
+The bold schemer combines wrath, wits, and daring to win battles and wars in unconventional ways, often through infiltration and deception. If raw force of arms is insufficient, she improvises ways to pull victory from the jaws of defeat.
+
+**Skills**: A bold schemer gains Disable Device, Sleight of Hand, and Stealth as class skills, instead of Knowledge (arcana), Knowledge (dungeoneering), and Knowledge (planes). Her bardic knowledge does not apply to those skills. This ability alters the skald’s class skills and bardic knowledge.
+
+**Skald of Twists and Turns (Su)**:
+
+At 4th level, a bold schemer becomes increasingly adept at infiltration and devising cunning strategies to overcome enemy fortifications.
+
+A bold schemer can spend 8 hours observing a physical location (such as a fortress, a walled city, or perhaps even a section of an underground dungeon or cavern complex), contemplating methods to infiltrate the location and engage its defenders in battle in ways that subvert their defensive advantages.
+
+At the end of the 8 hours, the bold schemer gains a +2 insight bonus on her Bluff, Disable Device, Disguise, Sleight of Hand, and Stealth checks while in that same physical location. This bonus increases by 2 at 8th level and every 4 skald levels thereafter, to a maximum of +10 at 20th level. The bonus lasts until the bold schemer observes a new location. While observing a location, the bold schemer must fully focus her attention; any distractions, such as engaging in combat, immediately ends the observation and the bold schemer must start a new period of observing a physical location to receive the bonus. This ability replaces uncanny dodge, improved uncanny dodge, and damage reduction.
+
+**Bold Strategy (Su)**: At 10th level, a bold schemer can tailor her plans and observations so they are able to assist her allies as well. As long as they can see or hear the bold schemer while inside the observed location, all of her allies gain half the insight bonus she gains from the skald of twists and turns ability. This ability replaces dirge of doom.
+
+## Instigator
+
+The instigator influences the will of the people, turning them toward his own purposes. Regardless of whether what the instigator says is true or not, he inflames emotions in others and suspends their reason. Instigators are often revolutionaries, political or otherwise, but they might also be warmongering firebrands or wicked souls who spread prejudice against others.
+
+**Raging Song (Su)**: An instigator gains the following raging songs.
+
+**Song of Rabble-Rousing (Sp)**: At 5th level, the instigator can perform for 1 full round and spend 4 rounds of raging song. This affects those who hear the song for up to 1 hour as per *enthrall*. This ability replaces spell kenning.
+
+**Song of Riot (Sp, Su)**: At 10th level, the instigator can fill the hearts of his listeners with hatred and rouse them into a frenzy. He can use this performance on all targets with fewer than 4 Hit Dice and a Wisdom score lower than 16 who are currently enthralled, without disrupting the *enthrall* effect (even if a creature succeeds at its saving throw). This ability requires a standard action to activate and costs 4 additional rounds of raging song.
+
+Enthralled creatures must each attempt a new saving throw against an effect that functions as the *foster hatred* spell, except that, unlike with the spell, the instigator is free to choose subgroups, organizations, religions, or the like regardless of the targets’ races. Creatures that fail the saving throw or choose to forego it also gain the effects of the instigator’s raging song whenever they attack the target of their hatred, for as long as the *foster hatred* effect lasts; however, they do not gain the effects of the instigator’s rage powers when they’re under the effects of raging song in this way. This ability replaces dirge of doom.
+
+**Revolutionary Heart (Su)**: At 7th level, an instigator’s tumultuous mastery of demagoguery and revolution makes it difficult for others’ compulsions to sway him. Once per day, when he fails a saving throw against a compulsion effect, he can attempt another saving throw after 1 time increment (1 round if the effect is measured in rounds, 1 minute if the effect is measured in minutes, 10 minutes if the spell is measured in 10-minute increments, and so on). Every 6 skald levels thereafter, he gains an additional daily use of this ability (to a maximum of 3 per day at 19th level). This ability replaces lore master.
+
+## Warlord
+
+The warlord wields his force of personality like a weapon, intimidating his allies and ensuring that his followers heed his commands. The warlord doesn’t inspire his followers so much as instill fear in them. Always watching his foes for moments of vulnerability, the warlord seeks to exploit his enemies’ weaknesses to gain victory.
+
+**Intimidating Prowess**: A warlord gains Intimidating Prowess as a bonus feat.
+
+This feat replaces the Scribe Scroll feat.
+
+**Unshakable (Ex)**: At 2nd level, a warlord develops an unshakable resolve, gaining a +2 bonus on saving throws against fear effects. This ability replaces well-versed.
+
+**Raging Song (Su)**: A warlord gains the following raging song.
+
+**Fear Me (Su)**: At 5th level, the warlord can remind his allies that failing him is far more frightening than the opposition. This raging song works like distraction, except that it applies to saving throws against fear effects instead of patterns and figments, and the warlord attempts an Intimidate check with a –10 penalty instead of a Perform check. Additionally, the warlord’s allies can use the warlord’s Intimidate check result (with the –10 penalty) as the DC for attempts to demoralize them using Intimidate. This ability replaces spell kenning.
+
+**Minions (Ex)**: At 7th level, a warlord attracts a group of followers through his fearsome reputation and gains the Leadership feat as a bonus feat. This replaces the lore master ability.
+
+**Intimidated Push (Ex)**: At 8th level, a warlord inspires fear in his cohort and followers, ensuring they do not fail and thus suffer his wrath. When he uses inspired rage, his cohort increases her morale bonus on Will saves from inspired rage by 1 and his followers increase their morale bonuses on Will saves from inspired rage by 2. This replaces improved uncanny dodge.
