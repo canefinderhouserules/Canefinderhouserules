@@ -453,3 +453,81 @@ Upon reaching 4th level, and every two levels thereafter, a spellbinder can choo
 This ability replaces arcane bond.
 
 **Discoveries**: The following discoveries complement the spellbinder archetype: Fast Study, Split Slot (*Ultimate Magic*).
+
+## Elder Mythos Scholar
+
+Elder Mythos scholars risk their sanity to seek knowledge of alien and awful entities from beyond the stars.
+
+**Arcane Bond**: An Elder Mythos scholar must choose to bond with an object, inscribing that object with eldritch runes.
+
+This alters arcane bond.
+
+**Eldritch Knowledge (Su)**: An Elder Mythos scholar gains two fewer daily uses of his 1st-level arcane school ability, which is normally used a number of times per day equal to 3 + his Intelligence modifier. If he has no such ability, he can’t take this archetype.
+
+When an Elder Mythos scholar attempts a Will save against confusion, fear, insanity, or madness, whether magical or mundane, he can spend 2 daily uses of that arcane school ability to apply his Intelligence modifier instead of his Wisdom modifier to the save. However, whenever he uses this ability, he is affected by a *nightmare* the next time he sleeps, with no saving throw. Until he sleeps and experiences the nightmare, he can’t recover the spent uses of the arcane school ability by any means.
+
+This ability alters the 1st-level arcane school ability.
+
+**Eldritch Grimoire**: An Elder Mythos scholar keeps copious notes on how to use magic against the servants of the Elder Mythos in his spellbook. Every spell he adds to his spellbook takes up an additional 1d6 pages and costs twice the normal amount to inscribe; however, when casting spells prepared from his grimoire, he gains a +2 bonus on caster level checks and increases the save DCs by 1 against the creatures listed in talisman of revealing below.
+
+This ability alters spellbook.
+
+**Talisman of Revealing**: While wearing or wielding his bonded item, an Elder Mythos scholar can spontaneously cast a special *detect aberration* spell by sacrificing a prepared 1st-level spell. Instead of detecting aberrations, this spell detects creatures associated with the Elder Mythos, such as the following (or similar creatures, at the GM’s discretion): bhole, colour out of space, deep one, deep one elder, denizen of Leng, elder thing, flying polyp, gug, hound of Tindalos, Leng ghoul, Leng spider, mi-go, nightgaunt, ratling, shantak, shoggoth, spawn of Yog-Sothoth, star-spawn of Cthulhu, voonith, wendigo, and yithian. He gains a +2 circumstance bonus on Knowledge checks to identify such creatures and Spellcraft checks to identify effects they create.
+
+At 5th level, an Elder Mythos scholar adds *invisibility purge* and *see invisibility* to his spellbook and can spontaneously cast either spell by sacrificing a prepared spell of the same or higher level while wearing or wielding his bonded item.
+
+At 10th level, he adds *banish seeming* and *true seeing* to his spellbook as 5th-level spells and can spontaneously cast them in the same fashion.
+
+This replaces Scribe Scroll and the 5th- and 10th-level bonus feats.
+
+**Eldritch Infusion (Su)**: At 8th level, once each day while preparing spells, an Elder Mythos scholar can spend 1 extra hour to brew a tincture of hallucinogens and alien trace minerals. Though it has no effect for others, if he drinks it, the elixir expands his mind and perceptions into transitive dimensions, granting him a +4 alchemical bonus to his Intelligence score and reducing his Wisdom and Constitution scores by 2 for 10 minutes per wizard level he has. While under the effects of this elixir, he adds 1/2 his class level to his Perception checks against aberrations and creatures listed in talisman of revealing, but subtracts the same amount from all other Perception checks. His spells have a 20% failure chance, unless they summon, call, or contact a creature listed in talisman of revealing or otherwise affect only such creatures (for instance, a *fireball* aimed at 3 gugs but not a *fireball* aimed at 3 gugs and a gnome). This ability replaces the school ability gained at 8th level.
+
+## Hallowed Necromancer
+
+Many wizards study necromancy to create undead, but some study the same arts to purge the stain of undeath.
+
+**Arcane School**: A hallowed necromancer must specialize in the school of necromancy and swear never to create undead.
+
+This alters arcane school and spells.
+
+**Turn Undead (Su)**: A hallowed necromancer must select Turn Undead as a bonus feat with her power over undead arcane school ability.
+
+This alters power over undead.
+
+**Positive Touch (Su)**: As a standard action, a hallowed necromancer can sacrifice a prepared spell of the necromancy school to spontaneously cast a cure spell of the same level or lower, counting the spell as a necromancy spell rather than a conjuration spell. This cure spell harms only undead; it doesn’t heal the living. If the spell requires an attack roll, it as has a critical threat range of 19–20. A number of times per day equal to 3 + her Intelligence modifier, when she spontaneously casts a cure spell, she can either turn the effect into a ray and increase the range to close or remove the Will save but deal half the normal amount of damage.
+
+This ability replaces grave touch and Scribe Scroll.
+
+**Deathbane (Su)**: At 5th level, a hallowed necromancer’s cure spells are maximized when used to damage undead and the save DCs of her spells cast on undead creatures are 1 higher. She can expend 2 uses of positive touch as a swift action to imbue any weapon she wields with the *undead*-*bane* or *ghost touch* weapon special ability for 1 round per 5 wizard levels she has. These effects apply only against undead, and only while the hallowed necromancer wields the weapon. If the weapon is her arcane bond item, this ability costs only 1 use of positive touch.
+
+This ability replaces the bonus feat gained at 5th level.
+
+**Ghostbane (Su)**: At 10th level, a hallowed necromancer can expend 3 uses of her positive touch as a swift action while casting a spell to affect undead as if the spell were prepared with the Ectoplasmic Spell, Thanatopic Spell, or Threnodic Spell feat.
+
+This ability replaces the bonus feat gained at 10th level.
+
+**Guarded Life (Su)**: At 15th level, when a hallowed necromancer fails a saving throw against a death effect, energy drain, a necromantic effect, or a negative energy effect, she can expend 2 uses of positive touch as an immediate action to reroll it. She must accept the result of the reroll even if it’s worse. If she would take hit point damage from such an effect, as an immediate action she can instead expend 1 use of positive touch and sacrifice a prepared necromancy spell of 4th level or higher to reduce the damage she takes by an amount equal to her wizard level + 10 times the spell level. This ability replaces the 15th level bonus feat.
+
+## Undead Master
+
+Undead masters have great power over undeath.
+
+**Necromantic Focus**: An undead master must be of an evil alignment. If he becomes nonevil, he can still use his powers but can’t progress any further as a wizard. Most undead masters specialize in the necromancy school, and an undead master can’t have necromancy as an opposition school.
+
+This alters arcane school and alignment.
+
+**Necropolitan (Ex)**: An undead master gains a bonus equal to half his wizard level (minimum +1) on Diplomacy and Knowledge checks regarding undead creatures. Because of his obsessive focus on the undead, he takes a –2 penalty when attempting such checks regarding living creatures.
+
+**Corpse Bond (Su)**: An undead master can forge an arcane bond with an object, but that object must be made at least partially of bone. Alternatively, he can animate a corpse companion, as per the undead lord cleric archetype. He can’t gain a familiar.
+
+This ability alters arcane bond.
+
+**Command Undead (Su)**: An undead master gains Command Undead as a bonus feat, treating his wizard level as his cleric level. If he lacks the ability to channel negative energy for the purpose of Command Undead, he can expend 3 uses of any 1st-level arcane school ability that normally has a number of uses per day equal to 3 + his Intelligence modifier, rather than a use of channel energy. If he’s a necromancer with the power over undead ability, he instead gains Improved Channel.
+
+This ability replaces Scribe Scroll.
+
+**Reanimator (Su)**: An undead master adds the following spells to his spellbook at the given wizard levels: 1st—*repair undead*; 3rd—*lesser animate dead*; 5th—*animate dead*; 7th—*undead anatomy I*; 9th—*create undead*; 11th—*undeath to death*; 13th—*create greater undead*; 15th—*undead anatomy IV*; 17th—*cursed earth*. He can spontaneously cast any of these spells by sacrificing a prepared spell of the same level or higher. The undead master can cast *lesser animate dead*, *animate dead*, *create undead*, and *create greater undead* as if they were 1 level lower than their normal wizard spell level; this does not alter their level for the purpose of item crafting and the like.
+
+This ability replaces the bonus feats gained at 5th, 10th, and 15th levels.
+
+**Lich-Loved (Su)**: At 20th level, an undead master gains the benefits of the undead sorcerer bloodline’s one of us ability. This ability replaces the bonus feat gained at 20th level.

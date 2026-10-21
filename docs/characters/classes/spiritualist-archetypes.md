@@ -145,3 +145,75 @@ Not all spiritualists deal in the souls of creatures that refuse to pass into de
 **Settlement Avatar (Su)**: When a zeitgeist binder reaches 2nd level, the zeitgeist becomes a living avatar of the settlement. As a standard action, it can project its senses out into the settlement, perceiving the general pulse of its chosen aspect throughout the whole settlement as well as anything involving its aspect that is occurring within 50 feet per spiritualist level. The sensing works like *enter image*, so the zeitgeist attempts a Perception check at a –10 penalty to notice any particular activity within range. The zeitgeist can use this ability for a number of rounds per day equal to the zeitgeist binder’s spiritualist level. These rounds need not be consecutive.
 
 When the zeitgeist binder reaches 10th level, the zeitgeist can project its senses to feel its settlement aspect at will. Additionally, the zeitgeist binder gains a bonus teamwork feat as long as she is in her zeitgeist’s settlement. The zeitgeist binder must meet the teamwork feat’s prerequisites, and she grants the feat as a bonus feat to her zeitgeist, even if it doesn’t meet the prerequisites. This ability replaces the spiritualist’s bonded senses and fused consciousness.
+
+## Exciter
+
+Psychic magic draws upon the twin and sometimes opposed powers of thought and emotion, but an exciter cares little for rationality. The phantom that accompanies him fills him with unbridled exultation, as he lets feeling and passion rule and sharpen his mind and body into a glorious fusion.
+
+**Merged Phantom**: An exciter internalizes his phantom and merges it completely within his mind. He cannot fully manifest his phantom outside of his own body in incorporeal or ectoplasmic form. Emotional focus abilities that affect or require a manifested phantom are lost, except for any aura gained by the phantom at 7th level; if the phantom gains an aura at 7th level, this aura functions despite the phantom not being manifested, and is centered on the exciter.
+
+This ability alters phantom and emotional focus and replaces the 6th-level phantom recall.
+
+**Rapture (Su)**: An exciter gains the ability to enter an ecstatic state in which he’s consumed and overwhelmed by his passions and driven into a fighting fury. This functions similarly to a bloodrager’s bloodrage (*Advanced Class Guide* 15), treating his spiritualist level as his bloodrager level, though he doesn’t qualify for feats or other elements that require rage or bloodrage. When entering a rapture, the exciter loses all other benefits from having his phantom confined in his consciousness (such as the Skill Focus feats and bonus against mind-affecting effects), but he can choose to exchange the normal +4 morale bonus to his Strength and Constitution scores normally gained from bloodrage for a +4 morale bonus to his Dexterity and Charisma scores or a +2 morale bonus to his Strength, Dexterity, Constitution, and Charisma scores. In addition to the fatigue for ending a bloodrage, an exciter can’t enter a rapture again for 1 minute after ending his last rapture.
+
+This ability replaces a spiritualist’s ability to manifest his phantom and use emotional focus abilities that require a manifested phantom.
+
+**Fast Movement (Ex)**: An exciter’s land speed is faster than normal for his race by 10 feet. This benefit applies only when he is wearing light armor, medium armor, or no armor and is not carrying a heavy load. This doesn’t stack with the barbarian ability of the same name. This ability replaces etheric tether.
+
+**Excitation (Su)**: At 2nd level, when an exciter is in a rapture, each round he can choose to intensify his emotional fury, expending 2 rounds of rapture instead of 1. When he uses excitation, he chooses one of the two abilities that his emotional focus would normally grant to a manifested phantom, such as strength focus and powerful strike for an anger phantom, or power from despair and miserable strike for a despair phantom. He gains these abilities until the beginning of his next turn. If the ability normally augments only a phantom’s slam attacks, it instead applies to the ectoplasmic tendrils that the spiritualist can sprout using his ectoplasmic bonded manifestation.
+
+This ability replaces bonded senses.
+
+**Rapturous Rage**: At 10th level and every 4 spiritualist levels thereafter, an exciter can select one rage power for which he qualifies, treating his spiritualist level as his barbarian level for all purposes relating to that particular rage power (he still doesn’t qualify for the Extra Rage Power feat or any similar abilities).
+
+This ability replaces the 10th-, 14th-, and 18th-level phantom recall and spiritual bond.
+
+**Perfect Passion (Su)**: At 4th level, an exciter can cast psychic spells with an emotion component (*Occult*
+
+*Adventures* 144) even while in his rapture. He can cast these spells defensively and attempt concentration checks for these spells without impairment, despite being in a rapture. He also can attempt Charisma- and Intelligence-based skill checks related to psychic spells with an emotion component while in his rapture. He cannot cast arcane or divine spells or psychic spells that have a thought component while in a rapture.
+
+This ability replaces spiritual interference.
+
+**Overwhelming Excitement (Su)**: At 10th level, an exciter can share the effects of his rapture with willing allies within 10 feet. He must expend 2 additional rounds of his rapture each round for each ally sharing its effects. The exciter’s allies share all effects of the rapture except the rage powers; each ally must end its turn within 10 feet of the exciter, or the effects of the rapture end for that ally and it becomes fatigued.
+
+Whenever he is not sharing the effects of his rapture with an ally, the exciter now retains the benefits of his phantom in his consciousness even during rapture.
+
+This ability replaces fused consciousness.
+
+**Greater Rapture (Su)**: At 12th level, an exciter increases the morale bonus his rapture grants to each applicable ability score by 2 and the morale bonus he gains on Will saves by 1. In addition, upon entering a rapture, he can apply the effects of a single spiritualist spell he knows with an emotion component to himself. The spell must have a range of touch or personal, and it must be a 1st- or 2nd-level spell. For every 3 spiritualist levels he has beyond 12th, the maximum spell level of this spell increases by 1. If he uses this ability to apply the effects of a spell again before the duration of the previous spell expires, the previous spell ends immediately. This replaces greater spiritual interference.
+
+## Necrologist
+
+All spiritualists call upon residual phantoms that cling to the living world through force of will and unresolved passion. The vile spiritualists known as necrologists reach farther toward the Negative Energy Plane, however, and for whatever evil purpose, they bring back malevolent spirits whose passions have turned to vengeance and hate for all life.
+
+**Alignment**: Only an evil character can contact a malevolent undead phantom and take the necrologist archetype. If a necrologist becomes nonevil, she can continue to take spiritualist levels, but her phantom ceases to give her benefits while in her consciousness, she can’t use bonded manifestation, and if she manifests the phantom, it is no longer loyal to her and likely attacks her and her allies.
+
+This alters the spiritualist’s alignment.
+
+**Spells**: A necrologist adds the following spells to her class list: 1st—*hide from undead*; 2nd—*ghostly disguise*, *haunting mists*; 3rd—*haunting choir*; 4th—*lesser age resistance*; 5th—*age resistance*; 6th—*greater age resistance* UM*, create greater undead*.
+
+**Shared Consciousness**: A necrologist gains a bonus on saving throws against death effects, energy drain, and negative energy rather than against mind-affecting effects (and can shunt such an effect onto the phantom) when her undead phantom is contained within her consciousness.
+
+This ability alters shared consciousness.
+
+**Undead Phantom**: A necrologist’s phantom is undead, rather than an outsider. It has normal undead immunities and no Constitution score; uses d8 Hit Dice, each of which is modified by the phantom’s Charisma modifier as normal; and gains the abilities below at the levels indicated. An undead phantom otherwise follows the standard phantom rules (for instance, its base attack bonus and skills don’t change to match undead).
+
+*Cling of the Grave (Su)*: An undead phantom can hold the charge on a touch spell of the necromancy school up to a maximum of 1 round per spiritualist level of the necrologist.
+
+This ability alters share spells. *Unnatural Aura (Su)*: At 5th level, animals do not willingly approach within 30 feet of a fully manifested undead phantom unless the necrologist succeeds at a Handle Animal, Ride, or wild empathy check (DC = 10 + 1/2 the necrologist’s spiritualist level + the phantom’s Charisma modifier).
+
+This replaces the slam damage increase gained at 5th level. *Channel Resistance (Su)*: At 6th level, a necrologist’s phantom gains a +4 bonus on saving throws to resist the effects of channel energy.
+
+This ability replaces devotion. *Lifedrinker (Su)*: At 13th level, when a necrologist’s phantom reduces a creature to fewer than 0 hit points with an attack or spell, the necrologist can expend one use of her channel energy ability as a swift action to affect the same target with *death knell*. If the target fails its save, the necrologist can choose either herself or her phantom to gain the benefit of the spell.
+
+This replaces the necrologist’s slam damage increase gained at 13th level.
+
+**Bonded Manifestation**: A necrologist cannot use ectoplasmic bonded manifestation.
+
+This ability alters bonded manifestation.
+
+**Channel Energy (Su)**: At 4th level, a necrologist gains the ability to channel negative energy, with an effective cleric level equal to her spiritualist level – 3. She can use this ability a number of times per day equal to 1 + her Charisma modifier.
+
+This ability replaces spiritual interference.
+
+**Necropsychic Conduit**: At 12th level, a necrologist can cast psychic spells as if she had the Thanatopic Spell and Threnodic Spell metamagic feats, using her undead phantom as a conduit to pierce the defenses of undead creatures. If her phantom has been banished or is not within 30 feet of her when she casts the spells, however, these feats have no effect. This ability replaces greater spiritual interference.

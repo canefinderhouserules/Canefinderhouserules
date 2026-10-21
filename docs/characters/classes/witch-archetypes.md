@@ -345,3 +345,75 @@ The following discovery is favored by bramble brewers.
 **Defoliant Bomb***: These poisonous bombs clear away foliage, dealing extra damage to plant creatures. When the alchemist creates a bomb, he can choose to have it deal extra damage against plant creatures but less damage against other creatures. Against creatures with the plant type, a defoliant bomb deals 1d8 points of damage, plus 1d8 points of damage for every odd-numbered level the alchemist possesses, instead of 1d6. Against all other creatures, the defoliant bomb only deals 1d4 points of damage, plus 1d4 points of damage for every odd-numbered level, instead of 1d6. This is a poison effect. A defoliant bomb kills all normal vegetation in the target’s square and its splash area; any plant-based difficult terrain in the affected area becomes normal terrain. 6th—*greater magic weapon*; 8th—*telekinetic charge*; 10th—*energy siege shot*; 12th—*blade barrier*; 14th—*arcane cannon*; 16th—*earthquake*; 18th—*ride the lightning*.
 
 This ability replaces the witch’s familiar class feature.
+
+## Gingerbread Witch
+
+A sweet tooth lures the gingerbread witch’s victims to doom.
+
+**Gingerbread Familiar (Ex)**: A gingerbread witch concocts her familiar out of gingerbread, sugar, and other confections. It has the shape of the original animal or vermin, but its type changes to construct. As a construct, it gains 60-foot darkvision and construct immunities, it loses any special abilities the animal or vermin has other than movement speed, and it doesn’t provide the usual familiar benefit (for instance, a gingerbread toad doesn’t provide 3 bonus hit points). With a supply of flour and sugar at hand, the gingerbread witch can spend 8 hours and use her cauldron to restore her familiar to full health at no cost, unless the familiar is destroyed, in which case she must follow the usual rules for replacing her familiar. A gingerbread witch can never gain an improved familiar.
+
+This ability alters familiar.
+
+**Cauldron Cook (Ex)**: A gingerbread witch gains the cauldron and child-scent hexes at 1st level. When brewing potions with her cauldron, she can create small candies, pastries, or similar edible items identical in effect and application to normal potions. At 10th level, she gains the cook people hex.
+
+This ability replaces the hexes gained at 1st and 10th levels.
+
+**Tricky Treats Hex (Sp)**: At 4th level, a gingerbread witch learns a unique hex that lets her create a piece of candy or a similar sweet as a full-round action. If eaten by the witch or a single creature she designates when she creates it, the sweet functions as *goodberry* or a *polypurpose panacea* (as determined at creation). Anyone else that eats the sweet becomes nauseated (Fortitude negates); a creature nauseated by the sweet can attempt a new saving throw each round at the end of its turn to end this effect. A creature that fails its initial save is also affected as per the scar hex for a number of days equal to the witch’s witch level, except that at extended range, the witch can use only harmful hexes on the creature.
+
+She can create a number of sweets each day equal to her Intelligence modifier + her level. These sweets retain their potency for 24 hours and then turn to crumbs.
+
+This ability replaces the hex gained at 4th level.
+
+**Confection Conjuring (Sp)**: At 8th level, a gingerbread witch can use *shadow conjuration* as a spell-like ability. Items and creatures she conjures appear to be made of fanciful foodstuffs, and because of this, sentient creatures gain a +2 bonus on Will saves to disbelieve the illusion. However, they otherwise function as described for the *shadow conjuration* spell. For every 3 witch levels beyond 8th, the gingerbread witch can duplicate conjuration (creation) and conjuration (summoning) spells of 1 level higher, up to a maximum of 7th-level spell effects at 20th level (though they are still only 20% real). The witch can use this ability once per day for every 4 witch levels she has. This ability replaces the hex gained at 8th level.
+
+**Gruesome Gobbler (Ex)**: At 12th level, a gingerbread witch gains a bite attack that deals 1d6 points of damage for a Medium witch. As a full-round action, she can make a single bite attack that deals double base damage (2d6 for a Medium witch) and functions as if she had the grab and swallow whole special attacks, allowing her to grab and swallow a creature of her size or smaller. Her stomach doesn’t deal damage to swallowed creatures, but a living creature she swallows must succeed at a Fortitude save (DC = 10 + 1/2 her witch level + Constitution modifier) at the beginning of each of its turns or become nauseated for 1 round.
+
+If a gingerbread witch successfully swallows a creature, her torso distends grotesquely and she is treated as if she were carrying a heavy load if the creature is the same size and a medium load if it’s one size smaller; regardless, she can swallow only one such creature at a time. Creatures two or more sizes smaller do not distend her belly, though every four creatures of a smaller size count as one creature one size category larger (she can swallow 4 Tiny, 16 Diminutive, or 64 Fine creatures). She can regurgitate a swallowed creature of her choice as a move action, leaving it prone in an adjacent open square. If she is struck with a confirmed critical hit while she has a creature swallowed, the swallowed creatures each take half as much damage as the witch does (this doesn’t reduce the damage the gingerbread witch takes).
+
+This ability replaces the hex gained at 12th level.
+
+**Horrible Hunger (Sp)**: At 16th level, a gingerbread witch can affect a target as if she had cast *feast of ashes* on it, but with her hex DC instead of the spell’s DC. This hunger is so intense that any creature can offer the target food as a standard action and the target is compelled to eat it, as if the creature offering it had cast *beguiling gift* (with a DC and caster level equal to that of the witch’s hexes). She can use this ability once per day for every 4 witch levels she has. This ability replaces the hex gained at 16th level.
+
+## Tatterdemalion
+
+Some witches can bend the warp and weft of fabric and thread.
+
+**Weapon Proficiency**: A tatterdemalion is proficient with bolas, nets, and whips.
+
+This alters the witch’s weapon proficiencies.
+
+**Cantrips**: A tatterdemalion must choose *mage hand, open/ close,* and *prestidigitation* as her prepared cantrips at 1st level, and they require a piece of cloth, string, rope, or other woven material (including clothing) as a focus. Any action she takes with these cantrips must involve the focus. Starting at 2nd level, she can choose any cantrip for her remaining cantrip.
+
+This alters the witch’s cantrips.
+
+**Dancing Strings (Su)**: A tatterdemalion adds *animate rope* to her class spell list and spells her familiar knows. She can control her clothing and cloth, rope, or woven fabric she wears in a manner otherwise identical to the prehensile hair hex.
+
+This alters spells and replaces the hex gained at 1st level.
+
+**Witchweaver**: A tatterdemalion gains the following unique hexes, with a caster level equal to her witch level.
+
+*Moth-Eaten (Sp)*: At 4th level, a tatterdemalion can make a touch attack that damages leather, rope, or cloth like *rusting grasp* damages metal, once per day per witch level.
+
+*Lace Weaver (Sp)*: At 8th level, a tatterdemalion can create cloth as per *minor creation* or create one 5-foot cube of tangled skeins of cloth per witch level, affecting the target areas as per *web*, once per day for every 4 witch levels she has.
+
+*Sinister Stitching (Su)*: At 12th level, once per day for every 4 witch levels she has, a tatterdemalion can conjure enchanted threads to hinder a creature she can see (Fortitude negates). The tatterdemalion can choose to either sew shut the target’s eyes (blinding it) or mouth (preventing speech, bite attacks, breath weapons, verbal components, command words, and the like). The target can end the effect with a successful Strength check (DC = 15 + 1/2 the tatterdemalion’s witch level) as a standard action, or by slashing the stitches with a magic slashing weapon as a full-round action that provokes attacks of opportunity. Either way, the victim takes 1d4 points of bleed damage and either is dazzled (for stitched eyes) or takes a –2 penalty on bite attack and damage rolls and a 20% chance of spell failure with verbal components (for a stitched mouth). Either residual effect lasts 1 minute per witch level. Any creature can safely remove the enchanted threads with a minute of work and a successful DC 25 Heal check.
+
+*Unravel (Su)*: At 16th level, once per day when a tatterdemalion is hit by a melee or ranged attack, she can unravel herself as an immediate action, causing her body and gear to appear to collapse into a bundle of tattered rags and strands while she teleports to any open square within 30 feet. She takes no damage from the triggering attack, but she must have line of effect to the target square. She can use this ability twice per day at 20th level.
+
+These replace the hexes gained at 4th, 8th, 12th, and 16th levels.
+
+## New Patron Spells
+
+Some witches have patron themes that are associated with the Elder Mythos.
+
+**Conspiracies**: 2nd—*lock gaze*; 4th—*disguise other*; 6th—*tongues*; 8th—*hypercognition*; 10th—*dominate person*; 12th—*symbol of persuasion*; 14th—*vision*; 16th—*frightful aspect*; 18th—*overwhelming presence*.
+
+**Decadence**: 2nd—*negative reaction*; 4th—*demand offering*; 6th—*sepia snake sigil*; 8th—*charm monster*; 10th—*dream*; 12th—*envious urge*; 14th—*waves of ecstasy*; 16th—*euphoric tranquility*; 18th—*symbol of strife*.
+
+**Entropy**: 2nd—*lesser confusion*; 4th—*plague carrier*; 6th— *babble*; 8th—*wandering star motes*; 10th—*feeblemind*; 12th—*antimagic field*; 14th—*insanity*; 16th—*symbol of insanity*; 18th—*interplanetary teleport*.
+
+**Nightmares**: 2nd—*sleep*; 4th—*detect thoughts*; 6th—*oneiric horror*; 8th—*phantasmal killer*; 10th—*nightmare*; 12th— *dream travel*; 14th—*symbol of weakness*; 16th—*demand*; 18th—*polar midnight*.
+
+**Revenge**: 2nd—*magic fang*; 4th—*slipstream*; 6th—*rage*; 8th—*moonstruck*; 10th—*beast shape III*; 12th—*vengeful outrage*; 14th—*phantasmal revenge*; 16th—*seamantle*; 18th—*storm of vengeance*.
+
+**Space**: 2nd—*mirror strike*; 4th—*twisted space*; 6th— *blink*; 8th—*dimension door*; 10th—*hostile juxtaposition*; 12th—*repulsion*; 14th—*walk through space*; 16th—*bilocation*; 18th—*teleportation circle*.

@@ -596,3 +596,63 @@ Affected allies receive a morale bonus equal to 1/4 the vigilant defender’s in
 **Bolster the Wounded (Ex)**: At 14th level, a vigilant defender can preternaturally sense when her allies are in grave peril and can form a mystical conduit to protect them from the full effects of grievous wounds. As an immediate action whenever an enemy confirms a critical hit against an ally within 30 feet, the vigilant defender can choose to accept half the damage. If she does so, similar to the *shield other* spell, any of her damage reduction, resistances, or immunities do not apply to the damage she takes. This ability replaces exploit weakness.
 
 **True Vengeance (Su)**: At 20th level, when a vigilant defender calls true judgment down upon a foe, if the foe has killed one of the vigilant defender’s allies (permanent sentient allies, such as fellow party members or cohorts, not summoned monsters, animal companions, pets, or the like), the DC of the target’s Fortitude save to avoid death is 2 higher. If the foe has not damaged any of the vigilant defender’s allies, the DC to avoid death is instead 2 lower. This ability alters true judgment.
+
+## Hexenhammer
+
+Some inquisitors embrace the dark powers of their traditional foes, turning such powers toward their own ends in order to pronounce judgment on those who oppose them. These inquisitors learn to use the hexes and some spells of witches, but must pay the price for dealing with supernatural powers, as they slip ever closer to the evil they seek to destroy.
+
+**Withering Gaze (Su)**: Hexenhammers study the effects of a witch’s evil eye, and can use this dark magic to steel their gaze in a similar manner. Beginning at 1st level, whenever a hexenhammer successfully demoralizes a creature as a standard action, instead of applying the shaken condition, she can apply the effects of the witch evil eye hex as if she were a 1st-level witch (save DC = 10 + 1/2 the hexenhammer’s inquisitor level + her Wisdom modifier).
+
+This ability replaces monster lore and stern gaze.
+
+**Pride and Penance (Ex)**: Hexenhammers are deeply conflicted about their dealings with dark powers. If a hexenhammer uses a hex or casts a spell gained from the witch class spell list, she temporarily loses access to her domain abilities and her cunning mind bonus until she undergoes a brief period of penance and atonement that takes 1 minute of quiet prayer and contemplation; this atonement doesn’t require any additional cost, and it automatically restores the lost abilities, regardless of how many times the hexenhammer uses her dark powers.
+
+If the hexenhammer uses her dark trade ability (see below) to trade uses of judgment for hexes, she loses access to her domain abilities and cunning mind bonus until the next time she regains her spell slots for the day. This ability alters domain.
+
+**Cunning Mind (Ex)**: At 2nd level, a hexenhammer gains a +2 bonus on saving throws against hexes, curses, spells of the necromancy school, and spells with the evil descriptor.
+
+This ability replaces cunning initiative.
+
+**Hexcrafter (Su)**: Beginning at 3rd level, a hexenhammer learns to turn some powers of witches to her own advantage. She learns either the blight, the misfortune, or the slumber hex from the witch’s hex list, and can use that hex once per day as a standard action, using her inquisitor level in place of a witch level. If the hex allows a saving throw, the save DC to resist the hex is equal to 10 + 1/2 the inquisitor’s level + the inquisitor’s Wisdom modifier.
+
+At 6th level, 12th, and 15th levels, the hexenhammer learns an additional hex from her available hexes. At 9th level and 18th level, the hexenhammer can use any one of her hexes one additional time per day. At 12th level, the hexenhammer adds the agony, nightmares, and retribution major hexes to her list of learnable hexes. This ability replaces teamwork feats.
+
+**Dark Trade (Su)**: At 3rd level, a hexenhammer can forgo the power of her judgments and succumb to the temptation of darker powers. She can trade a daily use of judgment to instead gain an additional use of one of her hexes. This ability replaces solo tactics.
+
+**Witchcraft (Ex)**: At 5th level and at every 3 inquisitor levels thereafter, a hexenhammer can learn a witch spell in place of a spell she already knows. In effect, she loses an old spell in exchange for a new one selected from the witch class spell list. The new spell’s level must be the same as that of the spell being exchanged, and it must be at least 1 level lower than the highest-level inquisitor spell she can cast. The hexenhammer can swap out only a single spell at any given level and must choose whether or not to swap the spell at the same time she gains new spells known for the level. This ability alters the inquisitor’s spellcasting.
+
+## Living Grimoire
+
+The living grimoire literally wields the sacred word of his deity, using his holy tome to smite the foes of his god with divine might. Unlike most inquisitors, a living grimoire focuses on careful study of divine scripture, valuing knowledge over intuition.
+
+**Holy Book (Su)**: At 1st level, a living grimoire forms a supernatural bond with a large ironbound tome containing the holy text of his deity and learns to use it as a weapon.
+
+When wielding the holy book as a weapon, he deals base damage as if it were a cold iron light mace (but see Sacred Word below), is considered proficient with the book, takes no improvised weapon penalty, and gains a +1 bonus on attack rolls with the book. The tome serves as his holy symbol and divine focus, and can be enchanted as a magic weapon.
+
+He can replace his bonded tome with another book at any time, though he must perform a 24-hour binding ritual to attune himself to the new book.
+
+This ability replaces monster lore.
+
+**Spells**: A living grimoire must prepare his spells ahead of time, and can know any number of inquisitor spells. He uses Intelligence instead of Wisdom as his key spellcasting ability score (to determine his spell DCs, bonus spells per day, modifier on concentration checks, and so on), and to determine the effects and number of uses of his domain powers.
+
+The living grimoire receives the same number of spell slots per day as a warpriest of his inquisitor level, and receives bonus spells per day if he has a high Intelligence score. He must choose and prepare his spells ahead of time by choosing a time each day for 1 hour of quiet contemplation while he studies his holy book.
+
+At 1st level, the living grimoire’s holy book contains all 0-level inquisitor spells plus three 1st-level inquisitor spells of his choice. He also selects a number of additional 1st-level inquisitor spells equal to his Intelligence modifier to add to his holy book. At each new inquisitor level, he gains two new inquisitor spells of any spell levels he can cast (based on his new inquisitor level) for his holy book. At any time, he can learn inquisitor spells from scrolls or other written sources and add inquisitor spells he finds to his holy book.
+
+This ability alters orisons and spellcasting and replaces cunning initiative.
+
+**Sacred Word (Su)**: At 1st level, a living grimoire learns to charge his holy book with the power of his faith. The inquisitor gains the benefits of the warpriest’s sacred weapon class ability, but the benefits apply only to his bonded holy book. Like a warpriest’s sacred weapon, the living grimoire’s book deals damage based on the inquisitor’s level, not the book’s base damage (unless the inquisitor chooses to use the book’s base damage).
+
+At 4th level, the living grimoire gains the ability to enhance his holy book with divine power as a swift action. This ability grants the holy book a +1 enhancement bonus. For every 4 inquisitor levels the living grimoire has beyond 4th, this bonus increases by 1 (to a maximum of +5 at 20th level). These bonuses stack with any existing bonuses the holy book might have, to a maximum of +5. The living grimoire can enhance his holy book to have any of the special abilities listed in the warpriest’s sacred weapon ability, subject to the same alignment restrictions, but adds *bane* to the general special ability list. Adding any of these special abilities to the holy book consumes an amount of enhancement bonus equal to the special ability’s base price modifier. The holy book must have at least a +1 enhancement bonus before the living grimoire can add any special abilities to it. The living grimoire can use this ability a number of rounds per day equal to his inquisitor level, but these rounds don’t need to be consecutive. As with the warpriest sacred weapon ability, he determines the enhancement bonus and special abilities the first time he uses the ability each day, and they cannot be changed until the next day.
+
+This ability replaces judgment.
+
+**Blessed Script (Su)**: At 5th level, a living grimoire can permanently tattoo one spell of 2nd level or lower from his holy book onto his body. The tattooed spell cannot have an expensive material component or focus. The living grimoire can prepare any tattooed spell without needing his holy book, and can cast his tattooed spells as a spell-like ability once per day.
+
+At 8th level, the living grimoire can tattoo one additional spell of 3rd level or lower upon himself. At 12th level, he can tattoo one additional spell of 4th level or lower upon himself, and at 16th level he can tattoo a final additional spell of any level upon himself.
+
+When the living grimoire uses these spell-like abilities, the tattooed holy script associated with the spell-like ability glows as per *light* for a number of rounds equal to the spell’s level.
+
+This ability replaces bane, greater bane, second judgment, and third judgment.
+
+**Word of God (Su)**: At 20th level, a living grimoire can smite his foes with the holy word of his deity. Up to seven times per day, the inquisitor can make a single melee attack with his holy book against a target. If the attack hits, it deals damage normally and the target must succeed at a Fortitude save or die (DC = 10 + 1/2 the living grimoire’s inquisitor level + his Intelligence modifier). Regardless of whether the save is successful, the target creature is immune to the living grimoire’s word of god ability for 24 hours. Once the living grimoire uses this ability, he can’t use it again for 1d4 rounds. This ability replaces true judgment.

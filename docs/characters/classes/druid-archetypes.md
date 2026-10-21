@@ -823,3 +823,61 @@ At 11th level, an urushiol can spend 3 daily doses of his poison as a standard a
 At 14th level, an urushiol’s venom changes in frequency to 1/round for 4 rounds. In addition, when using his urushiol venom, an urushiol can spend an extra dose of his poison to change the damage type of the poison to Dexterity damage or Constitution damage. He can use this alteration in combination with any of the other abilities. For example, he could spend a total of 3 doses to create a cloud of inhaled poison that deals Constitution damage. This ability replaces nature bond and resist nature’s lure.
 
 **Venom Immunity (Ex)**: An urushiol gains venom immunity at 4th level instead of 9th level. This ability alters venom immunity.
+
+## Death Druid
+
+Some druids believe that birth and death are the most important parts of the natural cycle. They focus on destroying undead and putting troubled souls to rest.
+
+**Phantom**: A death druid attracts phantoms like a spiritualist, though she focuses her efforts on putting those phantoms to rest. A death druid is continually attempting to figure out how to send her phantom to the afterlife (usually by completing the phantom’s unfinished business as determined by the GM). If she is able to do so, she gains a new phantom with no additional effort on her part, sometime during the next week. At 1st level, she gains the spiritualist’s phantom and etheric tether class features; at 4th level, she gains the bonded manifestation class feature; and at 14th level, she gains the spiritual bond class feature. She does not gain any of the other spiritualist abilities related to phantoms. The death druid treats her druid level as her spiritualist level for these abilities.
+
+This ability replaces nature bond and wild shape.
+
+**Soul Magic**: A death druid adds the following spells to her druid spell list at the given spell levels: 0—*grave words*; 1st—*sanctify corpse*; 2nd—*calm spirit*, *false life*, *ghostbane dirge*, *spiritual weapon*; 3rd—*speak with dead*; 4th—*speak with haunt*, *spiritual ally*; 5th—*breath of life*, *call spirit**, mass ghostbane dirge*; 6th—*circle of death*, *undeath to death*.
+
+This ability replaces nature sense and wild empathy.
+
+**Resist Death’s Call (Ex)**: At 4th level, a death druid gains a +4 bonus on saving throws against death effects, negative energy, and energy drain.
+
+This ability replaces resist nature’s lure.
+
+**Negative Immunity (Su)**: At 9th level, a death druid is immune to negative energy and energy drain. This ability replaces venom immunity.
+
+## Devolutionist
+
+Full of simmering hatred toward civilization and those who dwell within it, devolutionists believe that the world would be better off without any sentient life at all. They transform intelligent creatures and domesticated animals into throwbacks to their feral ancestors.
+
+**Devolved Companion (Ex)**: A devolutionist must choose a devolved humanoid as an animal companion for her nature bond. Use the stats for an ape animal companion, but at 4th level, the devolved humanoid doesn’t increase to size Large (it still gains all the other benefits at 4th level).
+
+This ability alters nature bond.
+
+**Undomesticate (Su)**: At 4th level, a devolutionist can spend 1 minute with a willing or restrained domesticated animal to undo the effects of domestication, transforming it into a wild animal and causing it to lose any tricks it knew. The animal no longer recognizes any humanoids as friends or allies and gladly tears former playmates apart for food. Handle Animal checks don’t work on an undomesticated creature, though wild empathy does. This ability doesn’t function on animal companions, special mounts, or the like, and other exceptional domesticated animals can attempt a Will save (DC = 10 + 1/2 the devolutionist’s druid level + her Wisdom modifier) to negate the effect and become immune to it for 24 hours. Though this ability is instantaneous, *break enchantment*, *limited wish*, *miracle*, or *wish* can reverse the effects.
+
+This ability replaces resist nature’s lure.
+
+**Devolution (Sp)**: At 9th level, a devolutionist can perform a 24-hour ritual to irrevocably transform a humanoid or animal into a devolved feral state. There is no saving throw, but the target must be present and stay relatively still for the entire ritual, which typically requires a willing or restrained target.
+
+An affected humanoid’s Intelligence score is instantly reduced to 2; its type changes to animal; it loses all spellcasting and abilities that require intelligence; it can’t wield manufactured weapons; it gains two claw attacks and a bite attack (all dealing 1d4 points of damage for a Medium humanoid or 1d3 for Small humanoids); and it can’t use skills other than Acrobatics, Climb, Escape Artist, Fly, Intimidate, Perception, Stealth, Survival, and Swim.
+
+An affected animal is undomesticated (see above) if applicable and then either gains the advanced template, except without any increases to mental ability scores, or becomes a dire version of the animal (if a dire version exists and at the GM’s discretion). The devolved creature starts out friendly toward the devolutionist, though it typically tries to kill and devour other sentient humanoids. The devolutionist has no special empathy or connection with a creature she devolves, and if it was her animal companion before, it ceases to be so. The druid can communicate her desires to a devolved creature using wild empathy. This ability counters and dispels *awaken*, and only *awaken*, *miracle*, or *wish* can reverse it. This ability replaces venom immunity.
+
+## Life Channeler
+
+Life channelers take the natural cycle to what they believe is its logical conclusion. By sacrificing the life of a sentient creature, they can generate energy that guarantees fertility and prosperity for lower creatures like plants and animals. These druids preach to flocks who become willing sacrifices, each serving as a “king” or “queen” for a short time after being chosen as the next sacrifice.
+
+**Alignment**: In addition to a druid’s usual alignment requirements, a life channeler must be of a nongood alignment. If she becomes good, she can no longer take levels in the druid class or fill her wicker talismans (see below), but she otherwise keeps all her abilities.
+
+This alters the druid’s alignment requirements.
+
+**Plant Preservation (Su)**: A life channeler must choose the Plant domain with her nature bond (she can select the Growth subdomain if she wishes). When she performs a coup de grace that kills a sentient humanoid creature (not a summoned creature), she can do so ritualistically in order to affect the area centered on the body with the enrichment version of *plant growth*. The sacrifice is a death effect.
+
+This ability alters nature bond.
+
+**Wicker Talismans (Su)**: At 4th level, a life channeler gains a selection of wicker talismans that can store and convert the life energy of sentient creatures into the growth, health, and fertility of plants around her. The life channeler gains one wicker talisman corresponding to each level of druid spells she can cast, starting with 1st-level spells. These talismans are initially empty, but can hold life energy. When the life channeler ritualistically kills a creature with a coup de grace, she can store life energy in a talisman instead of gaining the *plant growth* effect. The creature must be of a CR equal to at least twice the spell level of the corresponding talisman. For instance, a CR 8 creature’s life energy could provide energy for a talisman holding up to a 4th-level spell. A talisman is either full or empty; it can’t hold more than one creature’s life energy. A life channeler can expend the energy stored in a talisman to cast her domain spell of the talisman’s level without expending a spell slot.
+
+Starting at 6th level, a life channeler gathers a flock of willing sacrifices. This grants her the benefits of the Leadership feat, except that using a follower as a human sacrifice with this ability doesn’t cause the life channeler to take a penalty to her Leadership score.
+
+This ability replaces wild shape.
+
+**Rampant Growth**: At 4th level, a life channeler can enrich the land more than usual with her sacrifices. When ritually killing a creature with a coup de grace for the *plant growth* enrichment effect or casting *plant growth* for the enrichment effect from one of her talismans, the effect has a range of 1 mile instead of a range of half a mile. At 8th level, if the sacrificed creature was at least CR 8, the effect lasts for 3 years instead of 1 year. At 12th level, if the sacrificed creature was at least CR 12, the effect increases productivity to two-thirds above normal, instead of one-third above normal. These effects stack, assuming the creature is high enough CR.
+
+**Stored Life**: At 9th level, a life channeler gains a third option when using a coup de grace on a sentient humanoid. If the victim had a CR at least as high as the life channeler’s class level, the life channeler can store the creature’s life energy in her body. She can have the life energy from only 1 creature in her body at a time. While she is storing life energy, if she would take damage or die from a death effect or if she would gain negative levels or take energy drain, she can sacrifice the stored energy to negate the effect without spending an action. This ability replaces venom immunity.

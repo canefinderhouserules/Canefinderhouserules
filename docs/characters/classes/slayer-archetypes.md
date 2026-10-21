@@ -195,3 +195,77 @@ Velvet blades specialize in infiltrating the upper echelons of society, mingling
 **Treacherous Blade (Ex)**: At 7th level, a velvet blade can capitalize on how others underestimate her and allow her close to them, assuming she is harmless. She gains the Betrayer feat as a bonus feat, whether or not she meets the prerequisites. Additionally, when making her first attack against a studied target that believes her to be harmless or to be an ally, the attack counts as a sneak attack, even if the target isn’t flanked or denied its Dexterity bonus to AC, and the velvet blade gains +2d6 sneak attack damage, increasing by 1d6 at 10th level and every 5 levels thereafter. Even if she immediately attacks the target again (such as by continuing a full attack), only the first attack gains these benefits, since the target immediately realizes the velvet blade is something more than she seemed.
 
 **Silent Dispatch (Ex)**: At 11th level, a velvet blade becomes adept at taking out her targets quietly. She gains the silent dispatch vigilante talent without meeting the talent’s prerequisites. This ability replaces swift tracker.
+
+## Bloody Jake
+
+Bloody jakes are cruel backwoods folk who prey upon their country cousins while terrorizing civilized people who venture into their rural range.
+
+**Alignment**: A bloody jake must be of an evil alignment. A bloody jake who becomes nonevil cannot gain new levels as a slayer but retains all his class abilities.
+
+**Favored Terrain (Ex)**: At 1st level, a bloody jake can select a type of terrain from the favored terrain table for rangers, though he is restricted to cold, desert, forest, jungle, mountains, plains, and swamp. His bonuses when in this terrain increase by 2 at 5th level and every 5 slayer levels thereafter, though he does not gain the ability to select additional favored terrains unless he takes the terrain mastery rogue talent.
+
+This ability replaces the slayer’s proficiency in medium armor and shields.
+
+**Cruel Tricks**: Bloody jakes use backwoods folk magic to confuse, terrify, and weaken their prey. A bloody jake can use this ability a number of times per day equal to his slayer level + his Charisma modifier. He gains the cruel tricks below at the indicated slayer levels.
+
+*Distant Voices (Sp)*: At 1st level, a bloody jake can cause his voice to seem to emanate from somewhere else, as per ventriloquism. This ability doesn’t take any other action to activate and can be used as part of speaking (as a free action); it costs one use of cruel tricks to affect his speech for 1 round.
+
+*Lose Your Way (Sp)*: At 4th level, as a standard action, a bloody jake can spend one use of cruel tricks to cause a creature that is within 30 feet and within the bloody jake’s favored terrain to become disoriented, taking a penalty on Survival checks equal to the bloody jake’s slayer level and a –2 penalty on saving throws against fear and illusions. This effect lasts for 1 hour per slayer level of the bloody jake or for as long as the affected creature remains within the bloody jake’s favored terrain, whichever is shorter.
+
+*Something’s Not Right (Su)*: At 8th level, as a move action, a bloody jake can spend one use of cruel tricks to cause all foes within 30 feet to become shaken for 1 round. This is a fear effect that doesn’t increase in strength by applying other effects that cause creatures to become shaken. At 12th level, he can use this ability as a swift action. At 16th level, a bloody jake can make any number of the affected foes frightened for 1 round, though such foes receive a Will save (DC = 10 + 1/2 the bloody jake’s slayer level + his Charisma modifier) to negate the frightened condition; even so, such a foe is still shaken.
+
+*The Woods Have Eyes (Sp)*: At 12th level, a bloody jake in his favored terrain can spend one use of cruel tricks as a swift action to gain blindsense in a 30-foot radius for 1 round; this blindsense is sound-based.
+
+This replaces the 1st-level studied target and the slayer talents gained at 4th, 8th, 12th, and 16th level.
+
+**Poor Study (Ex)**: A bloody jake gains this ability at 5th level rather than 1st level, beginning with a bonus of +1 at 5th level and increasing by 1 for every 5 slayer levels thereafter. A bloody jake must be 11th level to study an opponent as a move or swift action.
+
+This ability alters studied target.
+
+**Sadistic Snare (Ex)**: At 6th level, a bloody jake gains Learn Ranger Trap as a bonus feat, benefiting from it as if he were a ranger. He can expend two uses of his traps ability to add his sneak attack damage to the trap’s damage; any slayer talents or rogue talents he has that modify sneak attack damage, such as bleeding attack, also apply to sneak attack damage dealt by his ranger traps.
+
+This replaces the slayer talent gained at 6th level.
+
+**Cruel Trick (Ex)**: At 11th level, a bloody jake can maim or humiliate his target with a sneak attack, substituting 1 point of Dexterity or Charisma damage per die of sneak attack damage forfeited. A successful Will save negates this ability damage (DC = 10 + 1/2 the bloody jake’s slayer level + his Charisma modifier).
+
+This ability replaces swift tracker.
+
+**Woodland Shortcut (Sp)**: At 13th level, a bloody jake can move with supernatural ease among the trees once per day, as if using *tree stride* with a caster level equal to his slayer level. This ability replaces slayer’s advance.
+
+## Family Hunter
+
+Most slayers focus their efforts on single targets, but family hunters try to root out every branch of a tainted tree of life.
+
+**Find Family (Sp)**: At 2nd level, a family hunter chooses a particular family line of mortal creatures to cleanse (she must choose an actual family line like “The Montrose family,” rather than something generic that would cover all creatures of a given kind like “All humans descended from the first human created by the gods”). She can target any creature from that family line with *discern next of kin* (with a caster level equal to her slayer level) at will as a spell-like ability. The save DC is Charisma-based and is modified by the slayer’s studied target bonus if the creature is also her studied target. A creature that successfully saves against this effect is immune to this ability for 24 hours. If the family hunter’s chosen family line is completely eradicated, she can choose a new one after 1 month of studying.
+
+This ability replaces the slayer talent gained at 2nd level.
+
+**Kinslayer (Su)**: At 3rd level, a family hunter’s sneak attack deals an additional 1d6 points of damage to any creature with a blood relation to the family line she seeks to cleanse.
+
+This ability alters sneak attack.
+
+**Studied Target (Ex)**: At 5th level and above, a slayer can maintain more than one studied target at a time only if all targets are closely related to one another (even if they aren’t part of the family line she seeks to cleanse). This includes blood relatives; undead spawn; constructs or undead and their creator; summoned creatures and their summoner; creatures that are charmed, dominated, or otherwise under direct magical control and their controller; and cohorts, followers, animal companions, familiars, and similar associates of one master.
+
+This ability alters studied target.
+
+**Disrupt Teamwork (Ex)**: At 6th level, a family hunter’s studied target never counts as an ally to its allies for the purpose of flanking the family hunter or using teamwork feats or the aid another action against the family hunter. This ability replaces the slayer talent gained at 6th level.
+
+## Witch Killer
+
+Born into cultures where magic users are hated and feared, witch killers devote their lives to purge the arcane taint from the world.
+
+**Class Skills**: A witch killer adds Knowledge (arcana) and Spellcraft to his list of class skills.
+
+This alters the slayer’s class skills.
+
+**Studied Witch (Ex)**: A witch killer’s studied combat bonus applies on Spellcraft checks and saving throws against arcane spells and spell-like abilities and hexes. This bonus is reduced by 1 (minimum 0) if the target is not an arcane spellcaster, or a being called or summoned by arcane magic. He does not gain the increases to the maximum number of studied targets he can have at a time normally attained at 5th, 10th, 15th, and 20th levels, but his bonuses still increase at those levels.
+
+This ability alters studied target.
+
+**Superstitious (Ex)**: Instead of being able to select ranger combat style feats as slayer talents, a witch killer can select any of the following barbarian rage powers as slayer talents, treating his slayer level as his barbarian level: clear mind, disruptive, eater of magic, spell sunder, spellbreaker, sunder enchantment, superstition, or witch hunter. If the witch killer selects a rage power that can normally be used only once per rage (eater of magic, spell sunder, or sunder enchantment), he can use it once per day per 5 slayer levels he possesses, though no more than once per round in any event. The other rage powers affect the slayer constantly, though the superstition and witch hunter rage powers apply only against arcane spells and spell-like abilities and the creatures that use them.
+
+**Lingering Thrust (Ex)**: At 4th level, when a witch killer’s attack against an arcane spellcaster in the midst of casting forces the spellcaster to attempt a concentration check, the witch killer adds half his slayer level to the check’s DC. When he makes a sneak attack against an arcane spellcaster, up to 1 point of sneak attack damage per slayer level counts as ongoing damage for the purpose of forcing the spellcaster to attempt concentration checks (the witch killer does not add half his slayer level to this DC). This ability replaces the slayer talent gained at 4th level.
+
+**Scent Magic (Su)**: At 5th level, a witch killer can detect arcane magic by scent. He can use *detect magic* at will (as per a paladin’s ability to detect evil), but only against arcane magic, and the ability is scent- based and thus defeated by effects like *negate aroma*. Even when he isn’t concentrating on using his magic scent, when a creature within scent range casts an arcane spell (including arcane spell-like abilities or magic item effects), the witch killer automatically pinpoints the caster’s location.
+
+**Burn the Witch (Sp)**: At 10th level, once per day when a witch killer observes a creature within 30 feet cast an arcane spell or use an arcane spell-like ability, he can use *foster hatred* on that character, or target one creature harmed by the arcane effect with *vengeful outrage*, identifying the caster as the enemy. He can use this ability twice per day at 15th level, and he can use this ability three times per day at 20th level. The save DC is Charisma-based and uses the witch killer’s slayer level as his caster level. This ability replaces the slayer talent normally gained at 10th level.

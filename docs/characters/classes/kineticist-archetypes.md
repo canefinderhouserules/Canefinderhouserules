@@ -137,3 +137,41 @@ When her element changes, she loses the benefits of all active wild talents from
 **Expanded Terrakinesis**: At 7th level, a terrakineticist gains both simple blasts for the element corresponding to her current terrain, if that element has two, and the composite blast associated with expanding in that element (force blast, thunderstorm blast, blue flame blast, metal blast, ice blast, and verdant blast). She also gains a universal infusion or utility talent for which she meets the prerequisites. At 15th level, she gains one infusion or utility wild talent for which she meets the prerequisites. This replaces expanded element.
 
 **Omniterrakinesis (Su)**: At 20th level, a terrakineticist can accept 1 point of burn as a free action at the start of her turn to change her element without regard to the surrounding terrain until the beginning of her next turn. This replaces omnikinesis.
+
+## Dark Elementalist
+
+Some kineticists who are loathe to suffer the consequences of channeling their power study the darkest esoteric energies of the planes and use souls to fuel their occult might. The spiritual tortures these dark elementalists inflict upon their victims’ souls are horrifically selfish acts on par with the actions of daemons.
+
+**Alignment**: Since harming souls is a wicked act, a dark elementalist must be of an evil alignment. If she becomes nonevil, she can’t use any of her dark elementalist abilities other than dark studies, though she can still use her other kineticist class features.
+
+**Dark Studies**: A dark elementalist’s base Will save bonus from the kineticist class is equal to 2 + 1/2 her kineticist level, and her base Reflex and Fortitude save bonuses are equal to 1/3 her kineticist level. She gains all Knowledge skills as class skills.
+
+A dark elementalist uses her Intelligence modifier instead of her Constitution modifier to determine her damage with wild talents, the DCs of Constitution-based wild talents, the durations of wild talents with Constitution-based durations, her bonus on concentration checks for wild talents, and any other Constitution-based effects of all her wild talents.
+
+This alters the kineticist’s class skills and base saving throws and the key ability score of wild talents.
+
+**Soul Power**: A dark elementalist uses the souls of others to protect herself from the dangers of burn. She can’t choose to accept burn if doing so would raise her total number of points of burn above 3. However, a number of times per day equal to her Intelligence modifier, as a full-round action she can gather up the soul of a sentient creature with a CR equal to or higher than her character level, as long as that creature died in the past minute. When she does, some of her existing burn is unloaded into the departing soul, racking it with unspeakable torment, but reducing her current burn total by 1 point. A soul used in this way cannot be brought back to life as if it died of a death effect. Using a soul like this doesn’t heal the nonlethal damage from that point of burn immediately, but does enable the dark elementalist to heal the nonlethal damage from that point of burn normally.
+
+At 6th level, racking a soul in this way forces anyone trying to bring the creature back to life to succeed at a caster level check (DC = 10 + the dark elementalist’s kineticist level) or the attempt fails. At 11th level, even if the creature returns from the dead, its soul is so damaged by the agony that it takes 2d6 points of Wisdom damage (or 3d10 points of sanity damage if using the sanity system). At 16th level, the soul is destroyed in the process, and the creature can be restored only by a *miracle* or *wish*.
+
+A dark elementalist gains attack and damage bonuses from elemental overflow based on how many times that day she has used soul power to rack a soul, rather than based on her current burn total. For instance, a 9th-level dark elementalist who used soul power to rack three or more souls during the course of the day would add a +3 bonus on attack rolls and a +6 bonus on damage rolls. A dark elementalist does not gain size bonuses to physical ability scores or a chance to ignore critical hits and sneak attacks from elemental overflow.
+
+This ability alters burn and elemental overflow and replaces internal buffer.
+
+## Psychokineticist
+
+While most kineticists channel elemental power through their bodies, rare kineticists, such as elemental ascetics, overwhelming souls, and psychokineticists channel such power through their minds. Psychokineticists lack an overwhelming soul’s strong spirit, and so this energy ravages their minds but unleashes power locked in their ruptured emotions. Sometimes a psychokineticist inadvertently unleashes his power when he experiences an outburst of strong emotion, potentially making a psychokineticist an outcast or even an accidental killer.
+
+**Emotional Intensity (Ex)**: A psychokineticist uses his Wisdom modifier instead of his Constitution modifier to determine his damage with wild talents, the DCs of Constitution-based wild talents, the durations of wild talents with Constitution-based durations, his bonus on concentration checks for wild talents, and other Constitution-based effects of all his wild talents.
+
+He can’t use any of his wild talents whenever he would be unable to use a spell with an emotion component (see the relevant section of *Occult Adventures*), and if he ever gains immunity to charm, compulsion, emotion effects (even if such immunity extends only to a subcategory of these effects like fear effects or compulsion effects from creatures of certain alignments), he loses all his kineticist abilities. This includes effects that he previously activated that normally last until the next time his burn is removed, like elemental defenses, though he still keeps all his penalties from burn. He can always choose to ignore such immunities when he would normally gain them, even if they are granted by another class feature (such as the paladin’s aura of courage), but once he decides whether or not to ignore an immunity he would have gained, the choice cannot be changed.
+
+A psychokineticist adds Sense Motive to his list of class skills and gains Psychic Sensitivity as a bonus feat.
+
+This ability alters the kineticist’s class skills and the key ability score of wild talents.
+
+**Mind Burn (Ex)**: A psychokineticist’s mind strains when he overtaxes himself. He takes a –2 penalty on Will saves, Wisdom checks, and Wisdom-based skill checks for each point of burn he has accepted, rather than taking nonlethal damage from burn. He can accept an amount of burn equal to his Wisdom modifier (rather than 3 + his Wisdom modifier). Otherwise, his burn works just like a normal kineticist’s.
+
+This ability alters burn.
+
+**Mental Overflow (Ex)**: A psychokineticist’s elemental energy sends strange elemental humors and planar echoes through his brain instead of reshaping his body with matter from his element. Instead of gaining size bonuses to physical ability scores from elemental overflow, he gains alchemical bonuses to his mental ability scores in equal amounts (a +2 alchemical bonus to two mental ability scores at 6th level if he has at least 3 points of burn; a +4 alchemical bonus to one mental ability score and a +2 alchemical bonus to the other two at 11th level if he has at least 5 points of burn; and a +6 alchemical bonus to one mental ability score, a +4 alchemical bonus to another, and a +2 alchemical bonus to the last at 16th level if he has at least 7 points of burn). A psychokineticist doesn’t gain a chance to negate critical hits and sneak attacks based on his burn. Otherwise, his elemental overflow works just like a normal kineticist’s. This ability alters elemental overflow.

@@ -231,3 +231,75 @@ Most mesmerists practice their mental manipulation through their entrancing gaze
 If the target of the vox’s wounding words is also the target of his compelling voice, that creature must succeed at a Will save (DC = 10 + 1/2 the vox’s mesmerist level + his Charisma modifier) or take a –2 penalty on attack rolls, saving throws, skill checks, and ability checks for 1 round. This penalty doesn’t stack with the effects of the Concussive Spell metamagic feat. This ability replaces touch treatment (minor) and touch treatment (moderate).
 
 **Subsonic Strike (Su)**: At 10th level, a vox is able to unleash a deadly flurry of his wounding words as a standard action. He can target a number of creatures or objects equal to his Charisma modifier (minimum 1) within 30 feet, requiring a ranged touch attack against each target. If the target of his compelling voice is within 30 feet, he can choose to instead target only that creature with a single ranged touch or melee touch attack, dealing double normal damage on a successful attack. Whatever choice he makes, the vox must expend one use of wounding words. This ability replaces touch treatment (major).
+
+## Dreamstalker
+
+Many mesmerists concentrate their studies on conscious, rational thought, but dreamstalkers instead delve into the unleashed unconscious mind that wanders free in dreams.
+
+**Dreams of Pain**: A dreamstalker’s painful stare deals nonlethal damage.
+
+This ability alters painful stare.
+
+**Somnomancer**: At 1st level, a dreamstalker gains the slumber hex. The dreamstalker’s effective witch level is equal to her mesmerist level, and she can activate them only by expending two daily uses of mesmerist tricks. The save DCs for her hexes are Charisma-based. She can take certain additional hexes in place of mesmerist tricks, selecting nightmares or vision at 10th level and higher, or eternal slumber at 18th level and higher.
+
+When she would normally gain a new mesmerist trick, she can learn additional spells instead. Each time she does so, she adds two of the following spells of a level she can currently cast to her list of spells known: 1st—*oneiric horror**, sleep*; 2nd—*detect mindscape**, greater oneiric horror**, instigate psychic duel*; 3rd—*deep slumber*, *minor dream*; 4th—*create mindscape**, dream, forgetful slumber*, *mindscape door**, sleepwalk*, *sleepwalking suggestion*; 5th—*cloak of dreams, dream council**, dream scan**, symbol of sleep, waves of fatigue*; 6th—*dream travel*, *greater create mindscape**, waves of exhaustion.*
+
+This alters mesmerist tricks and replaces the 1st-level mesmerist trick.
+
+**Sleepless (Ex)**: At 2nd level, a dreamstalker gains immunity to sleep effects and a bonus equal to her Charisma bonus on saving throws against fatigue and exhaustion. She loses both benefits when under an effect that would prevent her from providing an emotion component (*Occult Adventures* 144). This replaces towering ego.
+
+**Touch of Night (Su)**: A dreamstalker can’t remove shaken, frightened, sickened, cowering, nauseated, or panicked conditions using her touch treatment. However, she can remove fatigue or magical sleep (other than hard-to-remove magical sleep such as the eternal slumber hex) as a minor condition, staggered as a moderate condition, and exhausted as a greater condition. As normal, removing fatigue or exhaustion only removes the condition, not the underlying cause, such as lack of sleep.
+
+This ability alters touch treatment.
+
+**Dreamwalker (Su)**: At 5th level, a dreamstalker treats dreamscapes as a favored terrain, as per the ranger ability, gaining a +2 bonus that increases by 2 every 4 mesmerist levels after 5th. While in a dreamscape, she also treats any creature from the Dimension of Dreams (including dreamed figments) as her favored enemy, with a bonus equal to 1/2 her favored terrain bonus. This ability replaces manifold tricks.
+
+**Traumatic Spell**: At 11th level, a dreamstalker gains Traumatic Spell as a bonus feat. This ability replaces glib lie.
+
+## Gaslighter
+
+A gaslighter takes joy in others’ suffering, delighting in driving them to madness.
+
+**Alignment**: A gaslighter must be of an evil alignment. A gaslighter who becomes nonevil cannot gain new levels as a mesmerist but retains all his class abilities.
+
+**Consummate Cruelty**: A gaslighter gains a bonus equal to 1/2 his mesmerist level (minimum 1) on Intimidate checks. A gaslighter can take Improved Dirty Trick and Greater Dirty Trick without having Combat Expertise or an Intelligence score of 13. He can also ignore those two prerequisites for other feats that have Improved Dirty Trick or Greater Dirty Trick as a prerequisite. This ability replaces consummate liar.
+
+**Horrid Mask (Su)**: At 3rd level, as a standard action, a gaslighter can implant a maddening phantasm in the mind of the target of his hypnotic stare, causing the target to perceive its own reflection as corrupted in some disturbing way. This is a mind-affecting fear effect, and there is no saving throw. The target is simultaneously captivated and horrified by the sight of its own reflection, and in any round in which the target can see itself in a mirror within 30 feet, the gaslighter can trigger his painful stare against the target without dealing damage. This is a gaze attack, and the creature can avert its eyes to attempt to avoid it. Any creature holding a visible mirror that attempts to demoralize the target can choose to add the gaslighter’s Charisma modifier to its Intimidate check instead of its own. Horrid mask lasts until that particular hypnotic stare ends (often when the target moves away from a mirror). The gaslighter can use this ability a number of times per day equal to 3 + his Charisma modifier.
+
+This ability replaces touch treatment (minor) and alters painful stare.
+
+**Phantasmal Force (Su)**: At 6th level, a gaslighter can force the target of his horrid mask ability to recoil from its reflection. Whenever the gaslighter uses horrid mask, if an affected target begins its turn adjacent to a mirror, it must succeed at a Will save (DC = 10 + 1/2 the gaslighter’s mesmerist level + his Charisma modifier) or be compelled to either flee from the mirror (or the creature holding it) to beyond 30 feet or attempt to destroy the mirror (or the creature holding it). This is a gaze attack, and the target can attempt to avert its eyes.
+
+This ability replaces touch treatment (moderate).
+
+**Phantasmal Foes (Su)**: At 10th level, a gaslighter can spend one use of his horrid mask ability as a standard action to convince the target of his hypnotic stare that it is surrounded by foes only it can see. The target is treated as flanked for any melee attacks against it until the hypnotic stare ends. The gaslighter can use either this ability or horrid mask during a particular hypnotic stare, but not both at once. This is a mind-affecting fear effect.
+
+This ability replaces touch treatment (greater).
+
+**Corrosion of Sanity (Su)**: At 14th level, whenever a creature fails its initial saving throw against a gaslighter’s single-target mind-affecting effect, the target also takes 1 point of Wisdom damage. This has no effect on abilities that don’t allow a saving throw or affect multiple targets or an area. If using the sanity system, the target takes 2 points of sanity damage instead. This ability replaces touch treatment (*break enchantment*).
+
+## Hate-Monger
+
+Hate-mongers are xenophobic and judgmental rabble-rousers who whip up mobs against enemies real or imagined.
+
+**Alignment**: A hate-monger must be of a nongood alignment. A hate-monger who becomes good cannot gain new levels as a mesmerist but retains all his class abilities.
+
+**Mental Manipulator (Ex)**: A hate-monger masters a broad repertoire of emotional corruption. At 1st level, he adds one spell from the 1st-level spells below to his spells known. When he would gain a new mesmerist trick, he can learn additional spells instead, adding two of the following spells of a level he can currently cast to his spells known: 1st—*cause fear, compel*
+
+*hostility*, *delusional pride*, *demand offering*, *forbid action*, *lesser confusion*, *murderous command*, *scare, sow thought*; 2nd—*aversion*, *paranoia*, *rage*, *unadulterated loathing*; 3rd— *confusion, crushing despair, curse of disgust*, *fear, instant enemy*, *malicious spite*, *smug narcissism*, *spite*; 4th—*envious urge*, *feast on fear*, *greater forbid action*, *modify memory*, *utter contempt*; 5th—*foe to friend*, *foster hatred*, *song of discord, repress memory*, *unwilling shield*, *vengeful outrage*; 6th— *eyebite*, *insanity*, *overwhelming presence*, *symbol of persuasion*.
+
+When he casts a spell he learns in this way, he increases the duration as if his caster level were 1 higher. Starting at 5th level, the save DC is increased by 1 for creatures of his favored enemy type.
+
+This ability replaces consummate liar and alters mesmerist tricks.
+
+**Insidious Hatred (Su)**: At 3rd level, a hate-monger can sow hatred and strife under the pretense of assisting others. He can use his touch treatment only on others, but as part of the action of using touch treatment, he can cast any targeted spell from the mental manipulator list that does not have a range of “personal” and has a casting time of 1 standard action or less, targeting only the creature that receives his touch treatment. That creature doesn’t realize the hate-monger has cast a spell, and considers any manifestations to be part of the touch treatment. Other creatures notice as normal. The target creature takes a –2 penalty on its saving throw and to its spell resistance against the spell. 19 2 4 19 2 4 This ability alters touch treatment.
+
+**Xenophobe (Ex)**: At 5th level, a hate-monger can choose one favored enemy, as per the ranger class feature. His favored enemy bonus begins at +2 and increases by 2 for every 4 mesmerist levels after 5th, but he does not gain additional favored enemies. His favored enemy bonus also applies on Intimidate checks against his favored enemy.
+
+This ability replaces mental potency and manifold tricks.
+
+**Out for Blood (Ex)**: At 7th level, when a creature takes extra damage from the hate-monger’s painful stare, it also takes 1 point of bleed damage (or 1 point of bleed damage per 1d6 points of damage dealt by the painful stare if the hate-monger damages the target himself). This bleed damage does not stack with itself or other sources of bleed damage.
+
+This ability replaces the 7th-level bold stare.
+
+**Insidious Emotions (Su)**: At 11th level, the power of a hate-monger’s psychic hold becomes more difficult to detect or to break. The DC of Sense Motive checks to notice if a creature is under the effects of his enchantments with the emotion descriptor increases by 5 (if he also has the Subtle Enchantment feat, the effects stack), as does the DC to identify his emotion spells. Magical divinations can detect his emotion effects only if the caster succeeds at a caster level check (DC = 11 + the hate-monger’s mesmerist level) as if the affected creatures were the subject of *nondetection.* This ability replaces glib lie.

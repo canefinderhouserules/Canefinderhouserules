@@ -565,3 +565,75 @@ This ability replaces the barbarian’s rage power gained at 2nd level. At 8th, 
 **Amplified by Hate (Ex)**: At 9th level, a hateful rager adds half her favored enemy bonus to the DC of any rage power she uses against a favored enemy. This ability replaces trap sense +3.
 
 **Rage Powers**: The following rage powers complement the hateful rager archetype: intimidating glare, roused anger, terrifying howl (*Core Rulebook*); come and get me, inspire ferocity, overbearing advance, reckless abandon (*Advanced Player’s Guide*).
+
+## Dreadnought
+
+Unstoppable and fearless, the dreadnought turns the terror of her enemies into violent physical power.
+
+**Dead Calm (Ex)**: A dreadnought can enter a dispassionate killing spree as a free action, granting her additional combat prowess. The dreadnought gains only half the usual bonuses from her rage but takes no penalty to her AC, can use all her normal skills and effects that require concentration, and is not fatigued when her rage ends. The dreadnought cannot enter a rage for 1 minute after she ends her rage, and she cannot charge or run while under the effects of her rage.
+
+This ability alters rage.
+
+**Steady Gait (Ex)**: A dreadnought advances steadily, shrugging off attempts to slow her advance. The dreadnought gains a +1 bonus on saving throws and to her CMD against effects that would slow or immobilize her. This bonus increases to +2 when she gains greater rage and +3 when she gains mighty rage.
+
+This ability replaces fast movement.
+
+**Fearless Killer (Su)**: Starting at 14th level, a dreadnought becomes implacable in her pursuit of slaughter. While in rage, she is immune to fear effects.
+
+This ability replaces indomitable will.
+
+**Instant Dispassion (Ex)**: At 17th level, a dreadnought can quickly turn her compassion on and off. She can enter a rage as soon as she wants after ending a previous rage. This ability replaces tireless rage.
+
+## Fearsome Defender
+
+Dark overlords frequently recruit their most bloodthirsty followers to serve as brutal bodyguards. These savage slaves feel little pain and exist only to rain terror down on the enemies of their pitiless masters.
+
+**Intractable (Ex)**: A combination of brainwashing and loyalty helps a fearsome defender resist pain and torture, enduring grueling combat or questioning without betraying her dark lord. A fearsome defender gains a +2 bonus on saving throws against pain effects, and the DCs of checks to coerce her or demoralize her with Diplomacy or Intimidate increase by 2. Both the bonus and the increase to DCs increase by 2 when she gains greater rage and again by 2 when she gains mighty rage. This ability replaces fast movement.
+
+**Off the Leash (Ex)**: Beginning at 2nd level, a fearsome defender simmers on the edge of bloody combat. Whenever she begins a rage, she can also draw an unconcealed weapon as part of the free action to begin raging.
+
+This ability replaces uncanny dodge.
+
+**Silent Threat (Ex)**: At 3rd level, a fearsome defender exudes hostility, creating a threatening atmosphere in her presence. The fearsome defender gains a +1 bonus on Intimidate checks, and the DCs of Intimidate checks to demoralize her allies within 30 feet increase by 1. Both the bonus and the increase to DCs increase by 1 at 6th level and every 3 barbarian levels thereafter.
+
+This ability replaces trap sense.
+
+**Bloodlust (Ex)**: At 5th level, a fearsome defender’s eagerness for bloodshed makes her quicker to act in a fight. She adds her Charisma modifier to initiative checks and always acts during the surprise round. If the fearsome defender is surprised during the surprise round, she acts last in that round and then determines initiative order normally for the remainder of combat. This ability replaces improved uncanny dodge.
+
+## Mooncursed
+
+Some barbarians exhibit an unusual form of lycanthropy powered by their fury. Such a character transforms willfully but can maintain her animal or hybrid forms only while raging.
+
+**Race**: A mooncursed must either be a humanoid or monstrous humanoid.
+
+**Shifting Rage (Su)**: A mooncursed can call upon an animal totem or inner curse, transforming her into a savage beast. Starting at 1st level, she chooses bear, boar, crocodile, shark, tiger, or wolf. Once chosen, this animal can’t be changed. When using rounds of her shifting rage, instead of the usual bonuses and penalties from rage, the mooncursed transforms into a Medium version of this animal’s form as if under the influence of *beast shape I*, treating her class level as her caster level whenever relevant. Other aspects of rage aside from the bonuses and penalties, such as the skill restrictions on skills and effects that require concentration, still apply during a shifting rage.
+
+This ability alters rage.
+
+**Hybrid Rage (Su)**: Beginning at 5th level, a mooncursed can choose to assume a hybrid of her base type and alternate form instead of her usual alternate form during her shifting rage. If she does, the animal’s forelimbs (or pectoral fins for the shark) remain hands able to manipulate objects and wield weapons as well as human hands do, she can walk on two legs (the shark’s tail fins remain legs), and she can talk.
+
+This ability replaces improved uncanny dodge.
+
+**Greater Shifting Rage (Su)**: At 11th level, a mooncursed can assume larger alternate and hybrid forms. This functions like *beast shape II*, and it allows the mooncursed to take on a Medium or Large version of her animal’s form.
+
+This ability replaces greater rage.
+
+**Mighty Shifting Rage (Su)**: At 20th level, a mooncursed can assume even larger alternate and hybrid forms. This functions like *beast shape III*, and it allows the mooncursed to take on a Medium, Large, or Huge version of her animal’s form. This ability replaces mighty rage.
+
+## New Rage Powers
+
+Any barbarian (or other character that gains rage powers) who meets the prerequisites can take the following new rage powers. A character can select from only one group of totem rage powers.
+
+**Cult Totem (Ex)**: The barbarian can make an attack of opportunity against a creature within her reach who damages an ally of the barbarian with a melee attack. Only the enemy, not the barbarian’s ally, needs to be within the barbarian’s melee reach in order for the barbarian to make this attack of opportunity. Once the barbarian makes an attack of opportunity against a creature with this ability, she can’t use this ability to make an attack of opportunity against the same creature for 24 hours. A barbarian must be at least 6th level and have the lesser cult totem rage power to select this rage power.
+
+**Cult Totem, Greater (Su)**: While the barbarian is raging, when she takes hit point damage that would render her dying or dead, she remains conscious and raging until the end of her next turn after taking that damage, though she is disabled during that turn. She becomes dying or dead at the end of her next turn as normal for her current hit point total. This ability has no effect if the barbarian dies from a cause other than hit point damage, such as from a death effect or if her Constitution damage exceeds her Constitution score. A barbarian must be at least 10th level and have the lesser cult totem and cult totem rage powers to select this rage power.
+
+**Cult Totem, Lesser (Ex)**: While the barbarian is raging, any morale bonuses or bonuses for flanking she gains on attacks rolls are added to her damage rolls instead of her attack rolls. They are still morale bonuses, and they don’t stack with other morale bonuses on damage rolls.
+
+**Daemon Totem (Su)**: While the barbarian is raging, her melee attacks impose a temporary negative level on her opponent on a successful critical hit. After 1 hour, these temporary negative levels disappear automatically (without a saving throw). A barbarian must be at least 6th level and have the lesser daemon totem rage power to select this rage power.
+
+**Daemon Totem, Greater (Su)**: If the barbarian kills an intelligent creature with a CR equal to at least half her character level while raging, she heals 5 hit points. If she is already at her maximum number of hit points, she instead gains 5 temporary hit points, which don’t stack if she kills multiple creatures. A barbarian must be at least 10th level and have the lesser daemon totem and daemon totem rage powers to select this rage power.
+
+**Daemon Totem, Lesser (Su)**: While raging, the barbarian gains a +2 bonus on saving throws against acid damage, death effects, disease, and poison. This bonus increases by 1 for each daemon totem rage power the barbarian has, excluding this one.
+
+**Fight Response (Ex)**: When a barbarian with this rage power attempts a saving throw against a fear effect, she can enter a rage as an immediate action (as long as she would normally be able to enter rage). This consumes 3 rounds of the barbarian’s daily allotment of rage rounds, but the barbarian can maintain the rage each round on her turn normally. Any benefits from the barbarian’s rage apply immediately, so she gains her bonus on Will saves against the effect that required the initial saving throw. Unlike most rage powers, this rage power’s effects are useful only when the barbarian is not raging, so a skald can’t grant this rage power to allies with raging song.

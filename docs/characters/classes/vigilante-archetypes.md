@@ -285,3 +285,105 @@ This alter’s the vigilante’s skill ranks per level.
 As a swift action, the zealot chooses one target within sight to smite. If this target is of the proper alignment, the zealot adds his Charisma bonus on his attack rolls (to a maximum of half his vigilante level) and his vigilante level on all damage rolls against the target of his smite. If the target of smite is an outsider with an alignment subtype of the zealot’s smite, a similarly aligned dragon, or an undead creature (if the zealot’s smite is against evil creatures), a good-aligned cleric or paladin (if the zealot’s smite is against good creatures), a chaotic aberration (if the zealot’s smite is against chaotic creatures), or a lawful-aligned cleric or paladin (if the zealot’s smite is against lawful creatures), the bonus to damage on the first successful attack increases to 2 points of damage per vigilante level. Regardless of the target, the zealot’s smite attacks bypass the creature’s DR as if it were a weapon with a +5 enhancement bonus.
 
 At 5th level, and every 3 vigilante levels thereafter, a zealot can smite one additional time per day, to a maximum of seven times per day at 20th level.
+
+## Experimenter
+
+Some vigilantes adopt lives of secrecy to hide their strange experiments from public view.
+
+**Class Skills**: An experimenter adds all Knowledge skills to his list of class skills.
+
+This alters the vigilante’s class skills.
+
+**Weapon and Armor Proficiencies**: Experimenters aren’t proficient with martial weapons, medium armor, or shields.
+
+This alters the vigilante’s weapon and armor proficiencies.
+
+**Forbidden Science (Ex)**: An experimenter gains a bonus equal to 1/2 his vigilante level on Craft (alchemy) checks to create alchemical items and on Knowledge (engineering) checks (minimum +1). He also learns how to craft a mutagen as if he were an alchemist of his class level. He can take alchemical discoveries in place of vigilante talents, but only discoveries that affect his mutagen (including cognatogen discoveries).
+
+When an experimenter is confused, dazed, frightened, panicked, or stunned, he must attempt a Will save (DC = 20 + his vigilante level) each round at the start of his turn. If he fails, he transforms as if he had consumed his mutagen (determine which ability score gets the bonus randomly). This doesn’t consume his mutagen, and lasts a number of rounds equal to 3 + his vigilante level, after which the transformation ends and he becomes fatigued. While transformed in this way, he is confused, and he rerolls any result of “act normally.” Since the confusion is part of the mutagenic transformation, abilities that prevent or remove confusion don’t apply to this effect, though abilities that end the effect of a mutagen work normally. He forgets everything that happened while he was involuntarily transformed.
+
+This ability replaces vigilante specialization.
+
+**Mutagenic Change (Ex)**: As a full-round action, an experimenter can consume his mutagen (if he has one) and shift from his social identity to his vigilante identity, as if he had the quick change social talent.
+
+This ability replaces the 1st-level social talent.
+
+**Brew Potion**: At 3rd level, an experimenter gains Brew Potion as a bonus feat. He treats his vigilante level as his caster level and can use Craft (alchemy) instead of Spellcraft to brew potions. He can use another potion of the same spell as a sample to provide the necessary spell without consuming the potion, increasing the DC by 5.
+
+This ability replaces unshakable.
+
+**Lore Master (Ex)**: At 5th level, an experimenter gains the lore master bard class feature. This ability replaces startling appearance.
+
+**Craft Construct**: At 11th level, an experimenter gains Craft Construct as a bonus feat. He treats his vigilante level as his caster level and can use Knowledge (engineering) instead of Spellcraft to craft a construct.
+
+This ability replaces frightening appearance.
+
+**Mutable Mutagen (Su)**: At 17th level, the duration of an experimenter’s mutagen increases to 1 hour per level. This ability replaces stunning appearance.
+
+## Hangman
+
+Wherever the guilty walk free, the hangman brings judgment.
+
+**Weapon and Armor Proficiencies**: A hangman is proficient with nets and whips, but not shields.
+
+This alters the vigilante’s weapon and armor proficiencies.
+
+**Vigilante Specialization**: A hangman must choose the stalker specialization.
+
+This alters vigilante specialization.
+
+**Hangman’s Noose (Ex)**: At 2nd level, a hangman can wield a rope noose as a net or whip, and also can use it to grapple, gaining the benefits of Improved Grapple with it. He takes no penalty on combat maneuver checks with the noose for having the noose in his hand, but he still doesn’t add any bonuses he might have with a net or whip (such as weapon enhancement bonuses or benefits from Weapon Focus) on the check. He can spend 1 minute to weave a magical or masterwork net or whip into a noose, thereafter gaining these benefits with it.
+
+This ability replaces the 2nd-level vigilante talent.
+
+**Bound to Truth (Ex, Sp)**: At 3rd level, a hangman adds half his vigilante level to his Sense Motive checks to notice lies told by a creature entangled or grappled by his noose, by feeling the creature’s throat clench or changes in its breathing. In addition, he can prevent a creature entangled or grappled in his noose from lying by tightening the noose, as per a single-target *zone of truth* (the caster level equals his vigilante level; the save DC is Charisma-based). He can use the latter ability a number of rounds per day equal to half his vigilante level. These rounds don’t need to be consecutive.
+
+This ability replaces unshakable.
+
+**Twisted Rope (Su)**: At 4th level, a hangman can spend 1 hour preparing his noose, granting it temporary hit points equal to his vigilante level, giving it a hardness equal to 1/2 his vigilante level plus double the weapon’s enhancement bonus (or its current hardness, whichever is better), and changing its break DC to 23 + 1/2 his vigilante level (or its current break DC, whichever is better). These benefits last for 8 hours, but end immediately if the hangman prepares another noose. This ability replaces the 4th-level vigilante talent.
+
+**Chokehold**: At 5th level, a hangman gains Chokehold as a bonus feat.
+
+This ability replaces startling appearance.
+
+**Tighten the Noose (Ex)**: At 11th level, while a hangman is grappling a target with his noose, as a swift action he can deal increased hidden strike damage to the target.
+
+This ability replaces frightening appearance.
+
+**Suffocation (Ex)**: At 17th level, the first time the hangman succeeds at a check to maintain a grapple (on his next turn after establishing the grapple), in place of the other options, he can suffocate the target and cause her to fall unconscious. A successful Fortitude save (DC = 15 + the hangman’s Strength bonus) negates the suffocation. On subsequent rounds, the hangman can maintain the grapple to suffocate the target again. On the next failed save, the target drops to –1 hit points and starts dying. On the third failed save, she dies. Even if the hangman has the ability to maintain a grapple with less than a standard action, he can attempt to maintain a grapple to suffocate only once per round. This ability replaces stunning appearance.
+
+## Serial Killer
+
+Some vigilantes adopt an innocent guise to cloak their acts of brutal murder.
+
+**Alignment**: A serial killer’s vigilante identity must be evil. A serial killer whose vigilante identity becomes nonevil cannot gain new levels as a vigilante but retains all of her class abilities.
+
+**Vigilante Specialization**: A serial killer must choose the stalker specialization. Her hidden strike is considered equivalent to a sneak attack with the same number of dice for the purpose of meeting prerequisites or using abilities that depend on sneak attack.
+
+This alters vigilante specialization.
+
+**Thwart Pursuit (Ex)**: At 3rd level, a serial killer adds 1/2 her vigilante level as a bonus on all checks in a chase (*GameMastery Guide* 232) and to the DCs of Diplomacy checks to gather information about her and checks to track her or notice her tracks (though not to the DC of the profiler’s expert profiler ability; see the relevant section).
+
+This ability replaces unshakable.
+
+**Studied Target (Ex)**: At 4th level, a serial killer gains the studied target ability of a slayer 3 levels lower, including the ability to study multiple targets simultaneously at the appropriate levels. The serial killer does not provoke attacks of opportunity when attempting a coup de grace against a studied target.
+
+This ability replaces the 4th- and 14th-level vigilante talents and the 9th- and 19th-level social talents.
+
+**Charming (Ex)**: At 5th level, a serial killer gains the charm hex as if she were a witch of her vigilante level, but she can’t affect animals. The DC is based on her Charisma, and the ability is nonmagical.
+
+This ability replaces startling appearance.
+
+**Death Attack (Ex)**: At 6th level, a serial killer gains the ability to make a death attack as if she were an assassin (DC = 10 + 1/2 her vigilante level + her Charisma modifier).
+
+This ability replaces the 6th-level vigilante talent.
+
+**Calling Card (Ex)**: At 7th level, when a serial killer slays a humanoid with a coup de grace or death attack, she can leave a telltale token or clue behind identifying this death as her work. The serial killer chooses her calling card when she gains this ability, and the first time she uses it in an area where she has renown (as per the renown social talent), it becomes associated with her killings. After that, once citizens of a new settlement find this calling card, the serial killer immediately establishes the settlement as an area of renown for her vigilante identity without spending additional time to spread tales, and the Intimidate bonus from renown increases by 2. She still must spend time to establish her social identity’s renown.
+
+This replaces the 7th-level social talent.
+
+**Grisly Murder (Ex)**: At 11th level, a serial killer gains Dreadful Carnage as a bonus feat, and if she leaves a calling card, the murder is so horrifying that creatures examining the corpse are affected as per *nightmare* that night (DC = 10 + 1/2 the serial killer’s vigilante level + her Charisma modifier). The nightmare affects a number of creatures equal to the serial killer’s Charisma modifier, starting with the first creature to examine the corpse. This replaces frightening appearance.
+
+**Quiet Death (Ex)**: At 12th level, a serial killer gains the quiet death class feature as if she were an assassin. This ability replaces the 12th-level vigilante talent.
+
+**Swift Death (Ex)**: At 17th level, a serial killer gains the swift death class feature as an assassin. This ability replaces the vigilante’s stunning appearance.

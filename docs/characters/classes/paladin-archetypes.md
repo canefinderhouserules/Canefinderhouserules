@@ -539,3 +539,63 @@ Gray paladins have discovered that in a world of intrigue, a strict code of hono
 **Smite Foe (Su)**: At 4th level, a gray paladin can spend two uses of smite evil in order to smite a nongood creature that is not evil and gain her full benefits. The gray paladin must truly believe that the creature she smites is an opponent to the cause of good. Even if this nonevil foe is an outsider, undead, or dragon, she doesn’t add increased damage to her first attack. This ability replaces channel positive energy and alters smite evil.
 
 **Aura of Subtlety (Sp, Su)**: At 11th level, a gray paladin learns how to protect herself from detection. She and her allies within 10 feet gain a +4 morale bonus on saving throws against divination effects. Furthermore, casters of divinations that target the gray paladin or her nearby allies must succeed at a caster level check as though the gray paladin and her nearby allies were under the effect of a *nondetection* spell cast by the gray paladin, with a caster level equal to the gray paladin’s paladin level. This ability functions while the gray paladin is conscious and while she is sleeping, but not if she is unconscious for any other reason, or dead. This ability replaces aura of justice.
+
+## Martyr
+
+Every paladin’s code instructs him to put the welfare of others before his own, but some paladins take this farther than most, shouldering the blackest suffering of the world onto themselves in order to help others and inspiring their allies to achieve heights of valor rather than seeking the glory for themselves.
+
+**Stigmata**: As a standard action, the martyr can chant hymns of faith and cause bleeding stigmata to visibly appear on his body; at 7th level, he can manifest stigmata as a move action, and at 13th level, he can do so as a swift action. He can use this ability a number of rounds per day equal to 4 + his Charisma modifier at 1st level, plus 1 additional round per day for each level beyond 1st. While his stigmata are active, he takes 1 point of bleed damage, which automatically ceases when he ends this ability but otherwise does not relent, even in the face of magical healing or Heal checks. His stigmata assist his allies, duplicating the effect of the countersong, distraction, or inspire courage bardic performance of a bard of his paladin level, though both countersong and distraction use Heal skill checks instead of Perform skill checks. At 10th level, he can choose to duplicate the effects of inspire greatness. At 16th level, he can choose to duplicate the effects of inspire heroics.
+
+This ability replaces smite evil.
+
+**See No Evil, Hear No Evil (Su)**: At 2nd level, the martyr and all allies within 20 feet of him gain a +4 morale bonus on saving throws against bardic performance, sonic effects, language-dependent effects, and gaze attacks. This ability functions only when the martyr is conscious. This ability replaces divine grace.
+
+**Aura Mastery (Su)**: The martyr’s aura of courage, aura of resolve, and aura of righteousness have a radius of 20 feet instead of 10 feet, but the martyr does not gain immunity to fear, charms, or compulsions from those abilities.
+
+This ability alters aura of courage, aura of resolve, and aura of righteousness.
+
+**Aura of Health (Su)**: At 3rd level, the martyr and all allies within 20 feet of him gain a +4 morale bonus on saving throws against diseases. This ability functions only when the martyr is conscious.
+
+This ability replaces divine health.
+
+**Martyr’s Mercy (Su)**: At 3rd level, a martyr can apply any of the mercies for which he qualifies based on his paladin level to his lay on hands, even if he didn’t select that mercy (or its prerequisites). However, when he uses a mercy he didn’t select, he transfers the condition to himself for the remaining duration (ignoring any immunity he might have to the condition), and he can’t use this ability if he already has that condition. If he transfers a condition to himself in this way, he can’t remove it from himself with a personal-only ability. The martyr can use lay on hands on any ally within 30 feet, rather than needing to touch the ally, but using lay on hands on himself is a standard action, not a swift action. This ability alters lay on hands and mercy.
+
+## Soul Sentinel
+
+In a world of horrors, some holy warriors fight to safeguard the minds and spirits of those exposed to evil. Soul sentinels use the strength of their resolve to stem the tide of corruption and insanity, as they believe that the greatest tragedy is a soul lost to evil when it was within their power to save it.
+
+**Reprieve (Su)**: A soul sentinel relieves manic and tortured souls exposed to the harsh evil of the world. At 6th level, when the soul sentinel uses her lay on hands ability to heal a living creature, she can remove *confusion* effects in place of applying one of her other mercies. If used on a creature suffering from a permanent confusion effect, this removes the effect for only 1 minute.
+
+This replaces the mercy gained at 6th level.
+
+**Sacred Soul (Su)**: At 11th level, a sacred soul is immune to hexes and curse spells or abilities. Each ally within 10 feet of her gains a +4 morale bonus on saving throws against hexes or curses. This ability functions only while the paladin is conscious, not if she is unconscious or dead.
+
+This ability replaces aura of justice.
+
+**Greater Reprieve (Su)**: The soul sentinel suppresses the stain of corruption on the spirits of those she heals. At 12th level, whenever she uses her lay on hands ability to heal a living creature (other than herself ) or damage an undead creature, in place of applying one of her other mercies, she can suppress the stain from a corrupted creature’s most recent manifestation for 1 minute (for more information about corruption and manifestations, see the relevant section). Any gift from that manifestation is unaffected and remains available, unless the manifestation has a special note requiring the gift and stain be taken together, in which case greater reprieve also suppresses the gift. This replaces the mercy gained at 12th level.
+
+## Tortured Crusader
+
+Though tortured crusaders may be beaten and battered, body, mind, and soul, they still somehow continue through torment and hardship. Despite setbacks and impossible odds, they shine like candles even in the darkest times. Somewhere in their minds, they realize that they can’t win in the end, but this only strengthens their resolve to fight for what is right, rather than giving in to hopelessness.
+
+**Torment**: A tortured crusader’s great suffering in the face of inevitable horror strengthens her faith and resolve, even as it makes her introverted and far less personable than most paladins. A tortured crusader uses Wisdom instead of Charisma as her key spellcasting ability score (to determine her spell DCs, bonus spells per day, bonus on concentration checks, and so on), and to determine the effects of lay on hands.
+
+This ability alters the paladin’s spellcasting, smite evil, and lay on hands.
+
+**Self-Sufficient**: A tortured crusader adds Knowledge (arcana), Knowledge (dungeoneering), Knowledge (planes), Perception, Stealth, Survival, and Use Magic Device to her list of class skills, instead of Diplomacy and Handle Animal. She gains a number of skill ranks equal to 4 + her Intelligence modifier at each level, instead of gaining a number of skill ranks equal to 2 + her Intelligence modifier.
+
+This ability alters the paladin’s class skills and skill ranks per level.
+
+**All Is Darkness**: Everything around a tortured crusader is so bleak that detecting evil only reminds her that the odds are always against her. A tortured crusader doesn’t gain the detect evil or divine grace class features. At 1st level, a tortured crusader gains the smite evil ability, but she doesn’t add her Charisma bonus to attack rolls or a deflection bonus equal to her Charisma bonus to her AC against the target of her smite. At 2nd level, she adds a +4 bonus to attack rolls and a +4 deflection bonus to AC against the target of her smite.
+
+This ability replaces detect evil and divine grace and alters smite evil.
+
+**Alone in the Dark**: Faced with endless foes, a tortured crusader can’t ask others to confront the same horrors she does. She can’t use her lay on hands ability to heal others or to channel energy, though starting at 4th level, she can convert two uses of lay on hands into an additional use of smite evil. Her aura of courage, aura of resolve, aura of faith, and aura of righteousness affect only her, not her allies. When she selects a divine bond, it must be with a weapon, not a mount.
+
+This ability alters lay on hands, channel energy, divine bond, aura of courage, aura of resolve, aura of faith, and aura of righteousness.
+
+**Second Chance (Su)**: At 2nd level, once per day, a tortured crusader can spend two uses of lay on hands and choose an unambiguous trigger such as “when I am paralyzed” or “when I am about to fall unconscious from hit point damage,” as well as a mercy she knows starting at 3rd level. When the named trigger occurs, the tortured crusader gains the benefits of a lay on hands with the chosen mercy without spending an action. This healing can prevent her from falling unconscious or dying. If the effect doesn’t trigger, it expires the next time the tortured crusader recovers uses of lay on hands.
+
+This ability alters lay on hands and mercy.
+
+**Last Stand (Su)**: At 11th level, a tortured crusader can spend an additional use of smite evil when declaring a smite to make it a last stand. The duration of last stand’s benefits is only 1 minute (rather than 24 hours). However, the bonus damage from smite evil is doubled on every attack (this doesn’t stack with the doubling if the smite’s target is an evil outsider, undead, or evil dragon). This ability replaces aura of justice.

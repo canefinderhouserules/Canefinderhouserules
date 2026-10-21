@@ -277,3 +277,91 @@ Whenever an ally begins a workday task such as Craft, Profession, magic item cre
 If using the kingdom-building rules from *Ultimate Campaign*, at 3rd level, the majordomo counts her Intelligence score as 2 higher when determining the bonus she provides in a kingdom leadership role.
 
 Her effective Intelligence score increases by an additional 2 at 6th level and every 3 investigator levels thereafter. This ability replaces all instances of trap sense.
+
+## Cult Hunter
+
+Cult hunters seek out heretical secret societies, purging their ideological taint and banishing summoned servants.
+
+**Sense Madness (Ex)**: A cult hunter adds a bonus equal to 1/2 his class level (minimum +1) on Sense Motive checks, or double that bonus to determine whether a creature suffers from natural or magical insanity.
+
+This ability replaces trapfinding.
+
+**Purify Body and Mind (Ex)**: At 2nd level, a cult hunter gains a +1 bonus on saving throws against compulsions and poisons. This bonus increases to +2 at 5th level and +3 at 8th level. At 11th level, a cult hunter who fails a saving throw against a compulsion or poison can expend 1 use of his inspiration to reroll the saving throw (and his inspiration die, if added to the save). He must accept the result of this second roll, even if it is worse.
+
+This ability replaces poison resistance and poison immunity.
+
+**Student of the Beyond (Ex)**: At 2nd level, a cult hunter gains a bonus equal to 1/2 his class level on Knowledge and Spellcraft checks made to recognize any calling and summoning spells, portals, rifts, and planar travel.
+
+This ability replaces poison lore.
+
+**Ambush Defenses (Ex)**: At 3rd level, a cult hunter gains a +1 insight bonus during a surprise round triggered by his enemies on Reflex saves and to his AC. This bonus increases by 1 for every 3 investigator levels beyond 3rd.
+
+This ability replaces trap sense.
+
+**Cultic Study (Ex)**: A cult hunter can spend 8 hours studying a specific deity or religion to gain a +1 bonus on Bluff, Intimidate, Knowledge, Perception, and Sense Motive checks against followers of that deity or religion and against extraplanar creatures. These bonuses increase by 1 for every 4 investigator levels beyond 4th. If he studies a new deity or religion, the bonuses replace the former bonuses.
+
+This ability replaces swift alchemy.
+
+**Cult Combat (Ex)**: A cult hunter’s bonuses on attack and damage rolls when using studied combat increase by 1 against followers of the cult he chose with his cultic study ability and decrease by 1 against other targets.
+
+This ability alters studied combat.
+
+**Cult Strike (Ex)**: A cult hunter’s studied strike uses d8s for the bonus damage against targets that belong to the cult he’s studied. Against other targets, his studied strike uses d4s for the bonus damage.
+
+This ability alters studied strike.
+
+**Summoning Sense (Su)**: At 7th level, a cult hunter gains the benefits of uncanny dodge and improved uncanny dodge against summoned creatures. This ability replaces the 7th-level investigator talent.
+
+**Extraplanar Expulsion (Sp)**: At 13th level, a cult hunter can grant himself the ability to use *dispel chaos*, *dispel evil*, *dispel good*, or *dispel law* as a spell-like ability (using his investigator level as his caster level and his Intelligence to determine the DCs) by sacrificing an unused 5th- or 6th-level extract for the day. He is able to use this ability as many times as he likes, but only so long as he continues to have unused 5th- or 6th-level extract slots to expend. This replaces the 13th-level investigator talent.
+
+## Gravedigger
+
+Gravediggers pursue long-buried mysteries, figuratively and literally digging up the truth and finding answers to secrets only moldering corpses and dry bones can tell.
+
+**Weapon and Armor Proficiency**: A gravedigger is proficient with simple weapons and scythes, and can fight with gravediggers’ tools such as a shovel or lantern as if she had the Catch Off-Guard feat. A gravedigger is proficient with light armor, but not with shields. This replaces the investigator’s weapon and armor proficiencies.
+
+**Limited Alchemy**: A gravedigger prepares and uses extracts as an investigator but gains no other benefits of the alchemy ability. This also means that a gravedigger can’t take the alchemist discovery investigator talent or any discovery that affects or involves alchemy. This alters alchemy and investigator talents.
+
+**Grave Magic (Sp)**: A gravedigger can sacrifice unused extract slots of the level given below or higher to use the following spells as spell-like abilities, using her investigator level as her caster level and her Intelligence to determine DCs: 1st—*expeditious excavation*; 2nd—*calm spirit*; 3rd—*speak with dead*; 4th— *rest eternal*; 5th—*call spirit*; 6th—*undeath to death.*
+
+**Relic Focus (Su)**: A gravedigger can form a psychic bond with a skull or bone that she has personally exhumed or recovered from a burial site, using it as an occultist necromancy implement and gaining its base focus power. The gravedigger cannot invest mental focus into the implement and thus doesn’t receive any resonant powers. However, once per day she can expend one use of inspiration to use any focus power she knows that has a cost of 1 point of mental focus. She can do this an additional time each day at 3rd level and every 3 investigator levels thereafter. To activate a focus power that costs more than 1 point of mental focus, the gravedigger can expend that number of daily uses of this ability (as well as uses of inspiration) at the same time. In addition, any number of times per day, she can expend 1 use of inspiration to use *grave words* as spell-like ability.
+
+This ability replaces trapfinding and trap sense.
+
+**Deny Death (Ex)**: At 2nd level, a gravedigger gains a +2 bonus on all saving throws against death effects and energy drain. This increases to +4 at 5th level, to +6 at 8th level, and to +8 at 11th level.
+
+This ability replaces the investigator’s poison resistance and poison immunity.
+
+**Read the Bones (Su)**: At 2nd level, a gravedigger can perform object reading as an occultist, but only on corpses, bones, and other physical remains.
+
+This ability replaces poison lore.
+
+**Focus Talent (Su)**: A gravedigger can select a focus power for one of her implements as per an occultist of her investigator level in place of an investigator talent.
+
+This ability alters investigator talents.
+
+**Kill the Dead (Ex)**: A gravedigger focuses on battling the undead, and her studied combat and studied strike function as if she were 2 levels lower against creatures other than undead (this means she can’t use them at all against such creatures until 6th level).
+
+This ability alters the investigator’s studied combat and studied strike.
+
+**Grave Lamp (Su)**: At 4th level, a gravedigger can form a psychic bond with a lantern, using it as a conjuration implement in much the same way as she uses her relic focus as a necromancy implement. She can expend inspiration to fuel her grave lamp’s focus powers the same number of times each day as she can for her relic focus (for example, a 6th-level gravedigger with 6 points of inspiration could expend up to three uses of inspiration as mental focus for her relic focus and up to three uses of inspiration as mental focus for her grave lamp). This ability replaces swift alchemy.
+
+## Profiler
+
+Profilers understand the human psyche to an intense degree, allowing them to predict the criminals they hunt.
+
+**Expert Profiler (Ex)**: A profiler gains a bonus equal to 1/2 his class level (minimum +1) on Sense Motive checks. At 2nd level, he can use inspiration on any Sense Motive check without expending a use of inspiration, provided he is trained in the skill.
+
+At 3rd level, he can attempt to predict a creature’s movements using his knowledge of the creature’s psychology. He can use this ability only on a creature familiar to him (for example, a serial killer whose crimes the profiler has studied will suffice, even if the profiler hasn’t yet identified the serial killer’s true identity). To do so, he starts from a place where he knows that the creature has been and why (most often the scene of a crime) and attempts a Sense Motive check against a DC equal to 40 or to 20 + the creature’s Bluff modifier, whichever is higher, which the GM rolls in secret. On a failure, the profiler’s guess about the creatures movements is inaccurate. On a success, the profiler is able to track the creature’s general movements as if using Survival to track (though the usual modifiers on Survival checks to track don’t apply, and this ability allows her to track a creature using *pass without trace* or otherwise leaving no trail). After at most 1 hour (or sooner if there are many possible options for the creature to take, at the GM’s discretion), if the profiler has not yet found further evidence of the creature’s passing (such as footprints, fingerprints, or any other indication that the creature came this way), he loses track of the creature’s movements; if he does, he can try to guess where the creature went next by attempting another check.
+
+This ability replaces trapfinding, poison lore, and trap sense.
+
+**Divination Analysis (Su)**: At 2nd level, a profiler has analyzed the workings of the mind. His caster level to determine the duration of his divination extracts increases by 1, and he gains a +1 bonus on saving throws against divinations. The increases to caster level and bonus on saving throws increase by 1 at 5th level and by another 1 at 8th level. At 11th level, a profiler can expend one use of inspiration to add 1d6 to the result of a concentration check when using a divination extract or investigator spell-like ability.
+
+This ability replaces poison resistance and poison immunity.
+
+**Blood Sleuth (Sp)**: At 4th level, a profiler can expend one use of his inspiration to use *discern next of kin* as a spell-like ability. Alternatively, he can expend two uses of inspiration to use *blood biography* as a spell-like ability.
+
+This ability replaces swift alchemy.
+
+**Pack Psychology (Su)**: At 7th level, a profiler can understand the way that groups act together, allowing him to exploit the vulnerabilities in their attacks. A profiler can’t be flanked by creatures with an Intelligence score and he gains a +1 bonus to his AC against such creatures when they would otherwise flank him, as he plays their movements against each other. This ability replaces the investigator talent at 7th level.

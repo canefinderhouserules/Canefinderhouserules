@@ -107,3 +107,95 @@ This ability alters spirit surge.
 **Living Story (Sp)**: At 20th level, a storyteller gains the ability to sweep others away into a story of his own making. He must perform for 1 full round, telling a tale to set the snare for his living story and spending 1 round of his storyteller’s performance. At the end of that round, he can affect up to 30 Hit Dice of listeners within range with microcosm*. Unlike with a normal microcosm, this is also a sonic and language-dependent ability, and a creature with 16 or more Hit Dice that succeeds at its save is immune to the storyteller’s living story ability for 24 hours.
 
 This ability replaces astral beacon.
+
+## New Legendary Spirits
+
+Gaining the ability to channel one of the following legendary spirits involves performing a certain deed, swearing an oath, and succeeding at an ability check (DC = 10 + 1/2 the medium’s level). If the medium breaks the oath, the spirit will no longer answer when he calls. If the medium attempts to call another spirit of the legendary spirit’s legend, the legendary spirit similarly departs forever. A legendary spirit grants new abilities but otherwise uses the same rules as the original legend. For instance, the Butcher replaces the favored locations, taboos, lesser spirit power, and intermediate spirit power from the champion spirit but still uses the champion’s spirit bonus, seance boon, influence penalty, greater spirit power, and supreme spirit power.
+
+### Butcher (Champion)
+
+The Butcher is a spirit of blood, violence, murder, and pain.
+
+**Gaining Favor**: To gain the Butcher’s favor, you must deal a total number of hit points of bleed damage equal to twice your medium level to two dozen non-mindless living creatures, inflicting as much pain and suffering as possible. You must next vow to never use the Heal skill or magical healing to heal or treat another creature, then succeed at a Strength check.
+
+**Favored Locations**: Abattoirs, battlefields, execution sites.
+
+**Taboo**: If you accept a taboo while channeling the Butcher, you must not attack with bludgeoning weapons in combat and must never deal nonlethal damage. You must also kill all your defeated foes in combat, although you can accept surrender or take prisoners for the purpose of torturing and then killing those prisoners later (but before the Butcher departs).
+
+**Bladesharp (Lesser, Ex)**: You gain proficiency in all slashing martial weapons and the spiked chain. Any slashing weapon or spiked chain you wield gains the deadly weapon special quality (*Ultimate Equipment* 22) and on a critical hit deals an amount of bleed damage equal to the weapon’s critical multiplier – 1.
+
+**Bloodletter (Intermediate, Ex)**: The Butcher enhances a single slashing weapon or spiked chain, allowing you to add the *keen*, *mighty cleaving*, or *wounding* special abilities to the weapon when you wield it. As a swift action, you can allow the Butcher to gain 1 point of influence over you to make that weapon *vorpal* until the end of your turn, though the *vorpal* special ability doesn’t work with abilities that let you choose the result of your d20 roll. Each time you kill a creature whose CR is greater than your medium level with this *vorpal* special ability, the butcher gains an additional point of influence over you.
+
+### Deceiver (Trickster)
+
+The Deceiver is the prince of prevarication.
+
+**Gaining Favor**: To gain the Deceiver’s favor, you must successfully lie to 100 different sentient creatures, convincing each one of a different lie that somehow leads to its death or other great misfortune. You must then vow to never make a truthful statement, except to answer a question whose answer is clearly already known to the asker (such as the color of the sky), and succeed at a Charisma check.
+
+**Spirit Bonus**: When you channel the Deceiver, your spirit bonus applies to Charisma checks, Charisma-based skill checks, and Will saves against compulsions and divinations.
+
+**Favored Locations**: Bordellos, courtrooms, gambling dens, taverns.
+
+**Skilled Deceiver (Lesser, Ex)**: You add 1/2 your medium level (minimum 1) as a bonus on all Bluff checks.
+
+**Shift Blame (Greater, Ex)**: When you provoke an attack of opportunity from a given enemy, you can divert that attack of opportunity to another target of your choice within the attacker’s reach. Afterward, the foe whose attack you diverted becomes immune to this ability for 24 hours. When you target a creature with a spell, spell-like ability, or supernatural ability, or when you fail a Bluff, Diplomacy, or Intimidate check, you can allow the Deceiver to gain 1 point of influence over you to make the target believe another creature adjacent to you created the effect or attempted to lie to, convince, or bully the target.
+
+### Heretic (Hierophant)
+
+The Heretic warps the faith of a good deity.
+
+**Gaining Favor**: To gain the Heretic’s favor, you must first pervert the worship of a congregation of worshipers of a good deity to evil. You must then vow to corrupt, debase, and violate the worship of that deity and never perform a truly altruistic act, and finally succeed at a Charisma check.
+
+**Spirit Bonus**: When you channel the Heretic, your spirit bonus applies to Charisma checks, Charisma-based skill checks, and Will saves.
+
+**Seance Boon**: For the purpose of spells and effects that have an effect based on which deity you worship, you count as worshiping the deity chosen in your vow. For the purpose of divinations, your alignment is the same as the deity’s, and you have an aura corresponding to that deity’s alignment as if you were a cleric of that deity. This doesn’t alter other effects based on alignment, like smite evil.
+
+**Favored Locations**: Hidden shrines, repositories of dark knowledge, sacrificial altars, temples.
+
+**Heresy (Lesser, Su)**: This functions as the divine surge lesser spirit power but you gain the following inquisitor spells at the indicated spell levels, instead of selecting a set of cleric spells each day: 0—*guidance*; 1st—*divine favor*; 2nd— *castigate*; 3rd—*terrible remorse*; 4th—*reprobation*; 5th— *mass castigate*; 6th—*overwhelming presence*. Whenever you use your spirit surge on a skill check or ability check to convince or trick someone into perverting his faith in the good deity you chose with your vow, the Heretic is pleased and does not gain the usual point of influence over you.
+
+**False Font (Intermediate, Su)**: You gain the effects of the energy font intermediate spirit power, but you must match the faith you chose to pervert, meaning that you always channel positive energy and add cure spells.
+
+**Stolen Grace (Greater, Su)**: When a member of your chosen faith who believes that you are a member of that faith’s clergy requests you to cast a cleric spell of a spell level you can cast, you can allow the Heretic to gain 1 point of influence over you and expend a spell slot of the appropriate level to cast the spell.
+
+### Lich (Archmage)
+
+The Lich is a spirit of power over death and the undead.
+
+**Gaining Favor**: To gain the Lich’s favor, you must research fragments of how to create a personal phylactery and then outline a plan for lichdom. This requires spending 2 months visiting libraries and sites of necromantic power, followed by a successful Intelligence check. You must then vow to never destroy an intelligent undead creature, even if it attacks you first (though it is perfectly acceptable to control it with magic).
+
+**Seance Boon**: You gain a +4 bonus on damage rolls with your necromancy spells.
+
+**Favored Locations**: Battlefields, graveyards, tombs.
+
+**Taboos**: If you accept a taboo while channeling the Lich, you must not use beneficial spells on living creatures (except yourself if you are a living creature).
+
+**Necromantic Arcana (Lesser, Su)**: This functions as the archmage arcana lesser spirit power, except you gain the following spells at the indicated spell levels (even if they are not the usual spell levels for the sorcerer/wizard spell list), instead of selecting them each day: 0—*bleed*; 1st—*chill touch*; 2nd—*command undead*; 3rd—*animate dead*; 4th—*enervation*; 5th—*magic jar*; 6th—*create greater undead*.
+
+**Lesser Lichdom (Greater, Su)**: In order to benefit from this power, you must have a proto-phylactery that costs you 10,000 gp to create (if you continue with the process of lichdom, you can upgrade this to a true phylactery by paying the difference in cost). If you die while channeling the Lich, you return from the dead in 1d10 days, reforming around the proto-phylactery and gaining 1 permanent negative level (as if subject to the *resurrection* spell). This process consumes the proto-phylactery. If you are already a lich, you can instead create a backup phylactery for 10,000 gp, at which you reform if your normal phylactery is destroyed. This consumes the backup phylactery.
+
+### Terminator (Guardian)
+
+The Terminator is a stoic spirit of relentless death.
+
+**Gaining Favor**: To gain the Terminator’s favor, you must engage in over 1 hour (600 combat rounds) of actual life-or-death battle in the same day, refusing to cease because of either fatigue or mercy. In addition to the battles themselves, this requires a Constitution check. If you succeed, you must swear an oath to never retreat from combat and to eschew all mercy, always killing unconscious, captured, or surrendered foes, regardless of extenuating circumstances.
+
+**Favored Locations**: Arenas, fortifications under siege, places of violence.
+
+**Bloodless (Lesser, Su)**: You automatically stabilize when at negative hit points, and you are killed only if your negative hit point total exceeds double your Constitution score. In addition, you can allow the Terminator to gain 1 point of influence over you to automatically end any bleed or blood drain effect or effect with the pain descriptor. Doing so is not an action, so you can do this even if you are unconscious.
+
+**Emotionless Killer (Intermediate, Su)**: You are immune to emotion effects, including fear, but you can’t benefit from morale bonuses or bardic performances.
+
+### Warmonger (Marshal)
+
+The Warmonger is a spirit of unbridled strife, inspiring others to throw their lives away in pursuit of hatred and vengeance.
+
+**Gaining Favor**: To gain the Warmonger’s favor, you must intentionally incite a war or blood feud between two groups (which could be nations but don’t have to be) that results in at least 36 deaths. You must then swear an oath to never allow quarter or truce or to compromise with those who will not meet your demands, and succeed at a Charisma check.
+
+**Favored Locations**: Barracks, battlefields, fortresses, throne rooms.
+
+**No Mercy (Lesser, Su)**: You can use spirit surge on your own attack rolls or those of allies within 30 feet who participated in your seance, as long as you have line of sight and line of effect. You can also use your spirit surge when an enemy takes an action that would provoke an attack of opportunity from you or such an ally who threatens that enemy. If you do so, you or an ally of your choice who threatens that enemy can make an attack of opportunity and add your spirit surge, and that attack of opportunity does not count against your normal limit for the round or your ally’s. When you use a spirit surge on an attack roll and the attack hits, the spirit surge benefit also applies to the damage roll.
+
+**Warmonger’s Way (Intermediate, Su)**: Add the following spells of spell levels you can currently cast to your list of spells known of those levels: 1st—*command, murderous command*; 2nd—*rage, tactical acumen*; 3rd—*confusion, fear*; 4th—*battlemind link*, *song of discord*. You can also use your spirit surge on concentration and caster level checks when you cast these spells.
+
+**Inspiring Call (Greater, Su)**: You gain the marshal’s intermediate spirit power of the same name, but you can activate it as a move action. This improves to a swift action if you have the legendary marshal legendary spirit power.
