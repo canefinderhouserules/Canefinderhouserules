@@ -1,0 +1,8 @@
+nav:
+  - index.md
+  - Character Background: character-background.md
+  - Background Generator:
+      - background-generator.md
+      - Step 1—Homeland, Family, and Childhood: background-generator-step-1.md
+      - Step 2—Adolescence and Training: background-generator-step-2.md
+      - Step 3—Moral Conflicts, Relationships, and Drawbacks: background-generator-step-3.md

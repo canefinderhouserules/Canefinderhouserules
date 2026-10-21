@@ -1266,3 +1266,7 @@ The style feats presented in this book are suited for those who have learned to 
 | [Wolf Trip](wolf-trip.md) | Combat | Wis 15, Improved Unarmed Strike, Wolf Style, Knowledge (nature) 6 ranks |
 | [Wood Crafter](wood-crafter.md) | — | Craft (armor) 3 ranks, Knowledge (nature) 3 ranks |
 | [Woodland Wraith](woodland-wraith.md) | Combat | Dex 15, Dodge, base attack bonus +6 |
+
+## Story Feats
+
+Story feats from *Ultimate Campaign* reflect a goal that shapes your character's life. They are collected on a single page: [Story Feats](story-feats.md).
