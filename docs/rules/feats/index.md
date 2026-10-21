@@ -1684,3 +1684,176 @@ Some monster feats allow a creature to apply metamagic feat-like effects to its 
 | [Twisted Love](twisted-love.md) | Story | See text |
 | [Unyielding Ferocity](unyielding-ferocity.md) | Combat | Con 19, ferocity |
 | [Zealous Mind](zealous-mind.md) | — | Iron Will, Unimpeachable Honor, lawful alignment |
+
+## Mythic Adventures Feats
+
+Feats from *Mythic Adventures*. Mythic feats can be taken only by characters with mythic tiers or creatures with mythic ranks, as part of mythic advancement (see [Mythic Rules](../mythic/index.md)); they cannot be chosen as a normal feat or as a replacement for any other bonus feat. Most of them improve the non-mythic feat of the same name. A mythic feat also has no effect while its owner is not mythic, but it is not lost, and works again if the creature becomes mythic again.
+
+A value that depends on a fraction of your tier (for example, a +1 bonus for every 3 tiers) always has a minimum of 1.
+
+There are no mythic metamagic feats. Mythic versions of spells are, in a way, metamagic of their own, and many mythic abilities already empower spellcasting. If you want more potent spellcasting, take [Mythic Spell Lore](mythic-spell-lore-mythic.md) several times. There is also one non-mythic metamagic feat, [Ascendant Spell](ascendant-spell.md), that lets anyone cast a spell as its mythic version.
+
+| Feat | Type | Prerequisites |
+|---|---|---|
+| [Accursed Hex (Mythic)](accursed-hex-mythic.md) | Mythic | Accursed Hex |
+| [Acrobatic (Mythic)](acrobatic-mythic.md) | Mythic | Acrobatic |
+| [Alertness (Mythic)](alertness-mythic.md) | Mythic | Alertness |
+| [Alignment Channel (Mythic)](alignment-channel-mythic.md) | Mythic | Alignment Channel |
+| [Animal Affinity (Mythic)](animal-affinity-mythic.md) | Mythic | Animal Affinity |
+| [Arcane Armor Training (Mythic)](arcane-armor-training-mythic.md) | Mythic | Arcane Armor Training |
+| [Arcane Blast (Mythic)](arcane-blast-mythic.md) | Mythic | Arcane Blast |
+| [Arcane Shield (Mythic)](arcane-shield-mythic.md) | Mythic | Arcane Shield |
+| [Arcane Strike (Mythic)](arcane-strike-mythic.md) | Mythic | Arcane Strike |
+| [Ascendant Spell (Metamagic)](ascendant-spell.md) | Metamagic | — |
+| [Aspect of the Beast (Mythic)](aspect-of-the-beast-mythic.md) | Mythic | Aspect of the Beast |
+| [Athletic (Mythic)](athletic-mythic.md) | Mythic | Athletic |
+| [Augment Summoning (Mythic)](augment-summoning-mythic.md) | Mythic | Augment Summoning |
+| [Bleeding Critical (Mythic)](bleeding-critical-mythic.md) | Mythic | Bleeding Critical, Critical Focus (mythic) |
+| [Blind-Fight (Mythic)](blind-fight-mythic.md) | Mythic | Blind-Fight |
+| [Catch Off-Guard (Mythic)](catch-off-guard-mythic.md) | Mythic | Catch Off-Guard |
+| [Channel Smite (Mythic)](channel-smite-mythic.md) | Mythic | Channel Smite |
+| [Charge Through (Mythic)](charge-through-mythic.md) | Mythic | Charge Through |
+| [Cleave (Mythic)](cleave-mythic.md) | Mythic | Cleave |
+| [Combat Expertise (Mythic)](combat-expertise-mythic.md) | Mythic | Combat Expertise |
+| [Critical Mastery (Mythic)](critical-mastery-mythic.md) | Mythic | Critical Focus (mythic), Critical Mastery |
+| [Combat Reflexes (Mythic)](combat-reflexes-mythic.md) | Mythic | Combat Reflexes |
+| [Dastardly Finish (Mythic)](dastardly-finish-mythic.md) | Mythic | Dastardly Finish |
+| [Command Undead (Mythic)](command-undead-mythic.md) | Mythic | Command Undead |
+| [Dazzling Display (Mythic)](dazzling-display-mythic.md) | Mythic | Dazzling Display |
+| [Critical Focus (Mythic)](critical-focus-mythic.md) | Mythic | Critical Focus |
+| [Deadly Aim (Mythic)](deadly-aim-mythic.md) | Mythic | Deadly Aim |
+| [Deadly Stroke (Mythic)](deadly-stroke-mythic.md) | Mythic | Deadly Stroke |
+| [Death from Above (Mythic)](death-from-above-mythic.md) | Mythic | Death from Above |
+| [Deceitful (Mythic)](deceitful-mythic.md) | Mythic | Deceitful |
+| [Deepsight (Mythic)](deepsight-mythic.md) | Mythic | Deepsight |
+| [Defensive Combat Training (Mythic)](defensive-combat-training-mythic.md) | Mythic | Defensive Combat Training, 4th mythic tier |
+| [Deflect Arrows (Mythic)](deflect-arrows-mythic.md) | Mythic | Deflect Arrows |
+| [Deft Hands (Mythic)](deft-hands-mythic.md) | Mythic | Deft Hands |
+| [Detect Expertise (Mythic)](detect-expertise-mythic.md) | Mythic | Detect Expertise |
+| [Disruptive (Mythic)](disruptive-mythic.md) | Mythic | Disruptive |
+| [Distance Thrower (Mythic)](distance-thrower-mythic.md) | Mythic | Str 17, Distance Thrower |
+| [Divine Interference (Mythic)](divine-interference-mythic.md) | Mythic | Divine Interference |
+| [Dodge (Mythic)](dodge-mythic.md) | Mythic | Dodge |
+| [Dreadful Carnage (Mythic)](dreadful-carnage-mythic.md) | Mythic | Dreadful Carnage |
+| [Drink Is Life (Mythic)](drink-is-life-mythic.md) | Mythic | Con 19, 3rd mythic tier |
+| [Dual Path (Mythic)](dual-path-mythic.md) | Mythic | 1st mythic tier |
+| [Eagle Eyes (Mythic)](eagle-eyes-mythic.md) | Mythic | Eagle Eyes |
+| [Eldritch Heritage (Mythic)](eldritch-heritage-mythic.md) | Mythic | Eldritch Heritage |
+| [Elemental Channel (Mythic)](elemental-channel-mythic.md) | Mythic | Elemental Channel |
+| [Elemental Fist (Mythic)](elemental-fist-mythic.md) | Mythic | Elemental Fist |
+| [Elemental Focus (Mythic)](elemental-focus-mythic.md) | Mythic | Elemental Focus |
+| [Elven Accuracy (Mythic)](elven-accuracy-mythic.md) | Mythic | Elven Accuracy |
+| [Endurance (Mythic)](endurance-mythic.md) | Mythic | Endurance |
+| [Eschew Materials (Mythic)](eschew-materials-mythic.md) | Mythic | Eschew Materials |
+| [Extra Mythic Power (Mythic)](extra-mythic-power-mythic.md) | Mythic | — |
+| [Extra Path Ability (Mythic)](extra-path-ability-mythic.md) | Mythic | 3rd mythic tier |
+| [Fabulous Figments (Mythic)](fabulous-figments-mythic.md) | Mythic | Spell Focus (illusion) |
+| [Far Shot (Mythic)](far-shot-mythic.md) | Mythic | Far Shot |
+| [Fast Empathy (Mythic)](fast-empathy-mythic.md) | Mythic | Fast Empathy |
+| [Fire Music (Mythic)](fire-music-mythic.md) | Mythic | Fire Music |
+| [Fleet (Mythic)](fleet-mythic.md) | Mythic | Fleet |
+| [Furious Focus (Mythic)](furious-focus-mythic.md) | Mythic | Furious Focus |
+| [Gnome Trickster (Mythic)](gnome-trickster-mythic.md) | Mythic | Gnome Trickster |
+| [Gorgon’s Fist (Mythic)](gorgons-fist-mythic.md) | Mythic | Gorgon's Fist |
+| [Great Fortitude (Mythic)](great-fortitude-mythic.md) | Mythic | Great Fortitude |
+| [Guided Hand (Mythic)](guided-hand-mythic.md) | Mythic | Guided Hand |
+| [Heroic Defiance (Mythic)](heroic-defiance-mythic.md) | Mythic | Heroic Defiance |
+| [Heroic Recovery (Mythic)](heroic-recovery-mythic.md) | Mythic | Heroic Recovery |
+| [Improved Bull Rush (Mythic)](improved-bull-rush-mythic.md) | Mythic | Improved Bull Rush |
+| [Improved Channel (Mythic)](improved-channel-mythic.md) | Mythic | Improved Channel |
+| [Improved Counterspell (Mythic)](improved-counterspell-mythic.md) | Mythic | Improved Counterspell |
+| [Improved Critical (Mythic)](improved-critical-mythic.md) | Mythic | Improved Critical, base attack bonus +8 |
+| [Improved Dirty Trick (Mythic)](improved-dirty-trick-mythic.md) | Mythic | Improved Dirty Trick |
+| [Improved Disarm (Mythic)](improved-disarm-mythic.md) | Mythic | Improved Disarm |
+| [Improved Drag (Mythic)](improved-drag-mythic.md) | Mythic | Improved Drag |
+| [Improved Familiar (Mythic)](improved-familiar-mythic.md) | Mythic | Improved Familiar |
+| [Improved Grapple (Mythic)](improved-grapple-mythic.md) | Mythic | Improved Grapple |
+| [Improved Initiative (Mythic)](improved-initiative-mythic.md) | Mythic | Improved Initiative |
+| [Improved Overrun (Mythic)](improved-overrun-mythic.md) | Mythic | Improved Overrun |
+| [Improved Reposition (Mythic)](improved-reposition-mythic.md) | Mythic | Improved Reposition |
+| [Improved Steal (Mythic)](improved-steal-mythic.md) | Mythic | Improved Steal |
+| [Improved Stonecunning (Mythic)](improved-stonecunning-mythic.md) | Mythic | Improved Stonecunning |
+| [Improved Sunder (Mythic)](improved-sunder-mythic.md) | Mythic | Improved Sunder |
+| [Improved Trip (Mythic)](improved-trip-mythic.md) | Mythic | Improved Trip |
+| [Improved Unarmed Strike (Mythic)](improved-unarmed-strike-mythic.md) | Mythic | Improved Unarmed Strike |
+| [Intimidating Prowess (Mythic)](intimidating-prowess-mythic.md) | Mythic | Intimidating Prowess |
+| [Iron Will (Mythic)](iron-will-mythic.md) | Mythic | Iron Will |
+| [Knockout Artist (Mythic)](knockout-artist-mythic.md) | Mythic | Knockout Artist |
+| [Legendary Teamwork (Mythic)](legendary-teamwork-mythic.md) | Mythic | Any two teamwork feats |
+| [Lightning Reflexes (Mythic)](lightning-reflexes-mythic.md) | Mythic | Lightning Reflexes |
+| [Lucky Halfling (Mythic)](lucky-halfling-mythic.md) | Mythic | Lucky Halfling |
+| [Lucky Surge (Mythic)](lucky-surge-mythic.md) | Mythic | Potent Surge, 3rd mythic tier |
+| [Lunge (Mythic)](lunge-mythic.md) | Mythic | Lunge |
+| [Magical Aptitude (Mythic)](magical-aptitude-mythic.md) | Mythic | Magical Aptitude |
+| [Manyshot (Mythic)](manyshot-mythic.md) | Mythic | Manyshot |
+| [Marked for Glory](marked-for-glory.md) | — | Great Fortitude, Iron Will, or Lightning Reflexes |
+| [Maximize Surge (Mythic)](maximize-surge-mythic.md) | Mythic | 6th mythic tier |
+| [Medusa’s Wrath (Mythic)](medusas-wrath-mythic.md) | Mythic | Medusa's Wrath |
+| [Missile Shield (Mythic)](missile-shield-mythic.md) | Mythic | Missile Shield |
+| [Mobility (Mythic)](mobility-mythic.md) | Mythic | Mobility |
+| [Monastic Legacy (Mythic)](monastic-legacy-mythic.md) | Mythic | Monastic Legacy |
+| [Mounted Archery (Mythic)](mounted-archery-mythic.md) | Mythic | Mounted Archery |
+| [Mounted Combat (Mythic)](mounted-combat-mythic.md) | Mythic | Mounted Combat |
+| [Mythic Companion](mythic-companion.md) | — | You must be non-mythic |
+| [Mythic Crafter (Mythic)](mythic-crafter-mythic.md) | Mythic | Any item creation feat |
+| [Mythic Paragon (Mythic)](mythic-paragon-mythic.md) | Mythic | — |
+| [Mythic Spell Lore (Mythic)](mythic-spell-lore-mythic.md) | Mythic | Ability to cast spells |
+| [Natural Spell (Mythic)](natural-spell-mythic.md) | Mythic | Natural Spell |
+| [Nimble Moves (Mythic)](nimble-moves-mythic.md) | Mythic | Nimble Moves |
+| [Penetrating Strike (Mythic)](penetrating-strike-mythic.md) | Mythic | Penetrating Strike |
+| [Persuasive (Mythic)](persuasive-mythic.md) | Mythic | Persuasive |
+| [Pinpoint Targeting (Mythic)](pinpoint-targeting-mythic.md) | Mythic | Pinpoint Targeting |
+| [Point-Blank Shot (Mythic)](point-blank-shot-mythic.md) | Mythic | Point-Blank Shot |
+| [Potent Surge (Mythic)](potent-surge-mythic.md) | Mythic | — |
+| [Power Attack (Mythic)](power-attack-mythic.md) | Mythic | Power Attack |
+| [Powerful Shape (Mythic)](powerful-shape-mythic.md) | Mythic | Powerful Shape |
+| [Prophetic Visionary (Mythic)](prophetic-visionary-mythic.md) | Mythic | Prophetic Visionary |
+| [Quick Draw (Mythic)](quick-draw-mythic.md) | Mythic | Quick Draw |
+| [Racial Heritage (Mythic)](racial-heritage-mythic.md) | Mythic | Racial Heritage |
+| [Rapid Reload (Mythic)](rapid-reload-mythic.md) | Mythic | Rapid Reload |
+| [Rapid Shot (Mythic)](rapid-shot-mythic.md) | Mythic | Rapid Shot |
+| [Rhetorical Flourish (Mythic)](rhetorical-flourish-mythic.md) | Mythic | Rhetorical Flourish |
+| [Ride-By Attack (Mythic)](ride-by-attack-mythic.md) | Mythic | Ride-By Attack |
+| [Run (Mythic)](run-mythic.md) | Mythic | Run |
+| [Saving Shield (Mythic)](saving-shield-mythic.md) | Mythic | Saving Shield |
+| [Scorpion Style (Mythic)](scorpion-style-mythic.md) | Mythic | Scorpion Style |
+| [Selective Channeling (Mythic)](selective-channeling-mythic.md) | Mythic | Selective Channeling |
+| [Self-Sufficient (Mythic)](self-sufficient-mythic.md) | Mythic | Self-Sufficient |
+| [Shatter Defenses (Mythic)](shatter-defenses-mythic.md) | Mythic | Shatter Defenses |
+| [Shield Focus (Mythic)](shield-focus-mythic.md) | Mythic | Shield Focus |
+| [Shot on the Run (Mythic)](shot-on-the-run-mythic.md) | Mythic | Shot on the Run, base attack bonus +6 |
+| [Shield Slam (Mythic)](shield-slam-mythic.md) | Mythic | Shield Slam |
+| [Skill Focus (Mythic)](skill-focus-mythic.md) | Mythic | Skill Focus |
+| [Snatch Arrows (Mythic)](snatch-arrows-mythic.md) | Mythic | Snatch Arrows |
+| [Spellbreaker (Mythic)](spellbreaker-mythic.md) | Mythic | Spellbreaker |
+| [Sociable (Mythic)](sociable-mythic.md) | Mythic | Sociable |
+| [Spell Focus (Mythic)](spell-focus-mythic.md) | Mythic | Spell Focus |
+| [Spell Mastery (Mythic)](spell-mastery-mythic.md) | Mythic | Spell Mastery |
+| [Spell Penetration (Mythic)](spell-penetration-mythic.md) | Mythic | Spell Penetration |
+| [Spirited Charge (Mythic)](spirited-charge-mythic.md) | Mythic | Spirited Charge |
+| [Spontaneous Metafocus (Mythic)](spontaneous-metafocus-mythic.md) | Mythic | Spontaneous Metafocus |
+| [Spring Attack (Mythic)](spring-attack-mythic.md) | Mythic | Spring Attack, base attack bonus +6 |
+| [Stealthy (Mythic)](stealthy-mythic.md) | Mythic | Stealthy |
+| [Strike Back (Mythic)](strike-back-mythic.md) | Mythic | Strike Back |
+| [Strong Comeback (Mythic)](strong-comeback-mythic.md) | Mythic | Strong Comeback |
+| [Stunning Fist (Mythic)](stunning-fist-mythic.md) | Mythic | Stunning Fist |
+| [Throw Anything (Mythic)](throw-anything-mythic.md) | Mythic | Throw Anything |
+| [Titan Strike (Mythic)](titan-strike-mythic.md) | Mythic | Improved Unarmed Strike (mythic) |
+| [Toughness (Mythic)](toughness-mythic.md) | Mythic | Toughness |
+| [Trample (Mythic)](trample-mythic.md) | Mythic | Trample |
+| [Tripping Staff (Mythic)](tripping-staff-mythic.md) | Mythic | Tripping Staff |
+| [Turn Undead (Mythic)](turn-undead-mythic.md) | Mythic | Turn Undead |
+| [Two-Fisted Drinker (Mythic)](two-fisted-drinker-mythic.md) | Mythic | Quick Draw |
+| [Two-Weapon Defense (Mythic)](two-weapon-defense-mythic.md) | Mythic | Two-Weapon Defense |
+| [Two-Weapon Fighting (Mythic)](two-weapon-fighting-mythic.md) | Mythic | Two-Weapon Fighting |
+| [Two-Weapon Rend (Mythic)](two-weapon-rend-mythic.md) | Mythic | Two-Weapon Rend |
+| [Undead Master (Mythic)](undead-master-mythic.md) | Mythic | Undead Master |
+| [Unseat (Mythic)](unseat-mythic.md) | Mythic | Unseat |
+| [Valiant Vault (Mythic)](valiant-vault-mythic.md) | Mythic | Mounted Combat, Ride-By Attack, Ride 5 ranks |
+| [Vital Strike (Mythic)](vital-strike-mythic.md) | Mythic | Vital Strike |
+| [Voice of the Sibyl (Mythic)](voice-of-the-sibyl-mythic.md) | Mythic | Voice of the Sibyl |
+| [Warrior Priest (Mythic)](warrior-priest-mythic.md) | Mythic | Warrior Priest |
+| [Weapon Finesse (Mythic)](weapon-finesse-mythic.md) | Mythic | Weapon Finesse |
+| [Weapon Focus (Mythic)](weapon-focus-mythic.md) | Mythic | Weapon Focus |
+| [Weapon Specialization (Mythic)](weapon-specialization-mythic.md) | Mythic | Weapon Specialization |
+| [Witch Knife (Mythic)](witch-knife-mythic.md) | Mythic | Witch Knife |
