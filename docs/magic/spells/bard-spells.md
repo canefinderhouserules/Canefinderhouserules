@@ -82,6 +82,7 @@
 
 ## 2nd-Level Bard Spells
 
+- **[Absurdity](absurdity.md)**: Threats seem like a ridiculous farce.
 - **[Alter Self](alter-self.md)**: Assume form of a Small or Medium humanoid.
 - **[Animal Messenger](animal-messenger.md)**: Sends a Tiny animal to a specific place.
 - **[Animal Trance](animal-trance.md)**: Fascinates 2d6 HD of animals.
@@ -118,6 +119,7 @@
 - **[Enthrall](enthrall.md)**: Captivates all within 100 ft. + 10 ft./level.
 - **[Escaping Ward](escaping-ward.md)**: This ward grants you extra maneuverability when you avoid attacks against larger foes.
 - **[False Belief](false-belief.md)**: Temporarily plant a false memory.
+- **[Flickering Lights](flickering-lights.md)**: Create an area of inconsistent lighting.
 - **[Fox’s Cunning](foxs-cunning.md)**: Subject gains +4 to Int for 1 min./level.
 - **[Glitterdust](glitterdust.md)**: Blinds creatures, outlines invisible creatures.
 - **[Heroism](heroism.md)**: Gives +2 on attack rolls, saves, skill checks.
@@ -138,6 +140,7 @@
 - **[Psychic Reading](psychic-reading.md)**: Read surface thoughts to learn information about a subject.
 - **[Pyrotechnics](pyrotechnics.md)**: Turns fire into blinding light or choking smoke.
 - **[Qualm](qualm.md)**: Target gains penalties on ability checks, skill checks, and concentration checks until it spends an entire round doing nothing.
+- **[Quick Change](quick-change.md)**: Use change shape as a swift action and surprise foes.
 - **[Rage](rage.md)**: Gives +2 to Str and Con, +1 on Will saves, –2 to AC.
 - **[Returning Weapon](returning-weapon.md)**: Grants a weapon the returning special weapon quality.
 - **[Rumormonger](rumormonger.md)**: Follow a rumor to see where it spreads.
@@ -164,6 +167,7 @@
 ## 3rd-Level Bard Spells
 
 - **[Alpha Instinct](alpha-instinct.md)**: Gain bonuses when you’re interacting with animals.
+- **[Assume Appearance](assume-appearance.md)**: Use a creature’s corpse to adopt its form.
 - **[Audiovisual Hallucination](audiovisual-hallucination.md)**: Create a phantasm with auditory and visual effects.
 - **[Aura of the Unremarkable](aura-of-the-unremarkable.md)**: Make actions seem mundane to nearby creatures.
 - **[Blink](blink.md)**: You randomly vanish and reappear for 1 round/level.
@@ -181,6 +185,7 @@
 - **[Detect Anxieties](detect-anxieties.md)**: Learn what makes creatures anxious.
 - **[Dispel Magic](dispel-magic.md)**: Cancels one magical spell or effect.
 - **[Displacement](displacement.md)**: Attacks miss subject 50% of the time.
+- **[Dreadscape](dreadscape.md)**: Surroundings and unfamiliar creatures seem like something out of a nightmare.
 - **[False Future](false-future.md)**: Cause divinations of the future to reveal the result you choose.
 - **[Fear](fear.md)**: Subjects within cone flee for 1 round/level.
 - **[Fearsome Duplicate](fearsome-duplicate.md)**: School illusion (figment); Level bard 3, inquisitor 3, sorcerer/wizard 3, witch 3 Casting Time 1 standard.
@@ -195,6 +200,7 @@
 - **[Instant Fake](instant-fake.md)**: Provide a short-term replica of an object.
 - **[Invisibility Sphere](invisibility-sphere.md)**: Makes everyone within 10 feet invisible.
 - **[Leshy Swarm](leshy-swarm.md)**: Summon a swarm of Tiny leshys.
+- **[Mad Sultan’s Melody](mad-sultans-melody.md)**: Bizarre cacophony fascinates eldritch creatures.
 - **[Magic Aura, Greater](magic-aura-greater.md)**: As *magic aura*, but also affects creatures and allows more options.
 - **[Major Image](major-image.md)**: As *silent image*, plus sound, smell, and thermal effects.
 - **[Meticulous Match](meticulous-match.md)**: Determine if two things are identical.
@@ -224,6 +230,7 @@
 ## 4th-Level Bard Spells
 
 - **[Animal Ambassador](animal-ambassador.md)**: Grant an animal messenger sentience to deliver your message.
+- **[Assume Appearance, Greater](assume-appearance-greater.md)**: Use a likeness to adopt a dead creature’s form.
 - **[Bountiful Banquet](bountiful-banquet.md)**: Create a luxurious feast for two creatures/level.
 - **[Break Enchantment](break-enchantment.md)**: Frees subjects from enchantments, transmutations, and curses.
 - **[Charm Person, Mass](charm-person-mass.md)**: As *charm person*, but affects multiple creatures within 30 ft.
@@ -242,6 +249,7 @@
 - **[Ghost Brand](ghost-brand.md)**: Allow an item to transform into a brand and back.
 - **[Hallucinatory Terrain](hallucinatory-terrain.md)**: Makes one type of terrain appear like another (field as forest, or the like).
 - **[Hold Monster](hold-monster.md)**: As *hold person*, but any creature.
+- **[Horrific Doubles](horrific-doubles.md)**: Call forth disturbing *mirror images*.
 - **[Invisibility, Greater](invisibility-greater.md)**: As *invisibility,* but subject can attack and stay invisible.
 - **[Legend Lore](legend-lore.md)**: Lets you learn tales about a person, place, or thing.
 - **[Locate Creature](locate-creature.md)**: Indicates direction to known creature.
@@ -250,6 +258,7 @@
 - **[Neutralize Poison](neutralize-poison.md)**: Immunizes subject against poison, detoxifies venom in or on subject.
 - **[Nixie’s Lure](nixie-s-lure.md)**: This spell creates an unearthly and infectious song that seductively summons all who hear it.
 - **[Oneiric Horror, Greater](oneiric-horror-greater.md)**: As oneiric horror, plus Str damage.
+- **[Pessimism](pessimism.md)**: Force a creature to see the negative side of things.
 - **[Phantom Steed, Communal](phantom-steed-communal.md)**: As phantom steed, but you may divide the duration among creatures touched.
 - **[Quieting Weapons](quieting-weapons.md)**: Weapons make no sound and quiet their victims.
 - **[Rainbow Pattern](rainbow-pattern.md)**: Lights fascinate 24 HD of creatures.
@@ -259,6 +268,7 @@
 - **[Shadow Conjuration](shadow-conjuration.md)**: Mimics conjuration below 4th level, but only 20% real.
 - **[Shocking Image](shocking-image.md)**: As mirror image, but the duplicates emit electrical damage when destroyed.
 - **[Shout](shout.md)**: Deafens all within cone and deals 5d6 sonic damage.
+- **[Sleepwalking Suggestion](sleepwalking-suggestion.md)**: Cause a creature to perform a suggested action while asleep.
 - **[Speak with Plants](speak-with-plants.md)**: You can talk to plants and plant creatures.
 - **[Summon Monster IV](summon-monster-iv.md)**: Summons extraplanar creature to fight for you.
 - **[Truespeak](truespeak.md)**: You can communicate with any creature that is not mindless.
@@ -268,18 +278,21 @@
 
 ## 5th-Level Bard Spells
 
+- **[Compelling Rant](compelling-rant.md)**: People believe your ridiculous speech as long as you keep talking.
 - **[Crime Wave](crime-wave.md)**: Compel targets to commit criminal actions.
 - **[Cure Light Wounds, Mass](cure-light-wounds-mass.md)**: Cures 1d8 damage + 1/level, affects 1 subject/level.
 - **[Dispel Magic, Greater](dispel-magic-greater.md)**: Works as *dispel magic,* but can affect multiple targets.
 - **[Dream](dream.md)**: Sends message to anyone sleeping.
 - **[False Vision](false-vision.md)**: Fools scrying with an illusion.
 - **[Heroism, Greater](heroism-greater.md)**: Gives +4 bonus on attack rolls, saves, skill checks; immunity to fear; temporary hp.
+- **[Locate Gate](locate-gate.md)**: Find a nearby magical portal.
 - **[Mage’s Decree](mages-decree.md)**: Send a message to creatures within miles.
 - **[Mind Fog](mind-fog.md)**: Subjects in fog get –10 to Wis and Will checks.
 - **[Mirage Arcana](mirage-arcana.md)**: As *hallucinatory terrain,* plus structures.
 - **[Mislead](mislead.md)**: Turns you invisible and creates illusory double.
 - **[Nightmare](nightmare.md)**: Sends vision dealing 1d10 damage, fatigue.
 - **[Persistent Image](persistent-image.md)**: As *major image*, but no concentration required.
+- **[Phobia](phobia.md)**: Induce an irrational fear in a creature to the point of madness.
 - **[Pox of Rumors](pox-of-rumors.md)**: Curse a creature to attract nasty rumors.
 - **[Repress Memory](repress-memory.md)**: Remove a piece of knowledge from your mind.
 - **[Scripted Hallucination](scripted-hallucination.md)**: As *complex hallucination*, but without concentration.
@@ -315,6 +328,7 @@
 - **[Hollow Heroism, Greater](hollow-heroism-greater.md)**: Provide a *greater* *heroism* effect that you can reverse at any time.
 - **[Irresistible Dance](irresistible-dance.md)**: Forces subject to dance.
 - **[Life of Crime](life-of-crime.md)**: Permanently turn someone into a crazed criminal.
+- **[Night Terrors](night-terrors.md)**: Disturb a creature’s rest with dark dreams.
 - **[Permanent Image](permanent-image.md)**: Permanent illusion, includes sight, sound, smell, and thermal effects.
 - **[Programmed Image](programmed-image.md)**: As *major image*, plus triggered by event.
 - **[Project Image](project-image.md)**: Illusory double can talk and cast spells.

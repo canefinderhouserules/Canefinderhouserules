@@ -76,6 +76,7 @@
 - **[Pack Empathy](pack-empathy.md)**: Create an empathic bond with allies.
 - **[Pouncing Fury](pouncing-fury.md)**: Make a full attack with your claws after a charge.
 - **[Protection from Energy](protection-from-energy.md)**: Absorbs 12 points/level of damage from one kind of energy.
+- **[Quick Change](quick-change.md)**: Use change shape as a swift action and surprise foes.
 - **[Reloading Hands](reloading-hands.md)**: Loads a single shot into your weapon every round.
 - **[Replay Tracks](replay-tracks.md)**: Reconstruct past events from a set of tracks.
 - **[Returning Weapon, Communal](returning-weapon-communal.md)**: As returning weapon, but you may divide the duration among weapons touched.
@@ -85,6 +86,7 @@
 - **[Sea Steed](sea-steed.md)**: Your mount adapts to an aquatic environment.
 - **[Seed Spies](seed-spies.md)**: Wafting seeds act as spies, as insect spies.
 - **[Selective Alarm](selective-alarm.md)**: As *alarm*, but only against selected creatures.
+- **[Sense Fear](sense-fear.md)**: Perceive nearby creatures that are experiencing fear.
 - **[Snare](snare.md)**: Creates a magic booby trap.
 - **[Speak with Plants](speak-with-plants.md)**: You can talk to plants and plant creatures.
 - **[Spike Growth](spike-growth.md)**: Creatures in area take 1d4 damage, may be slowed*.*
@@ -114,6 +116,7 @@
 - **[Forest’s Sense](forests-sense.md)**: Sense the location of a distant target that is near a plant or fungus.
 - **[Insect Spies](insect-spies.md)**: Use magic beetles as spies.
 - **[Instant Fake](instant-fake.md)**: Provide a short-term replica of an object.
+- **[Life Blast](life-blast.md)**: Drain life from local vegetation to launch a blast of positive energy.
 - **[Magic Fang, Greater](magic-fang-greater.md)**: One natural weapon gets + 1/four levels (max. +5).
 - **[Meticulous Match](meticulous-match.md)**: Determine if two things are identical.
 - **[Mirage](mirage.md)**: Create illusory terrain.
@@ -148,6 +151,7 @@
 - **[Entice Fey, Lesser](entice-fey-lesser.md)**: Entice service from a fey of 6 Hit Dice or fewer.
 - **[Find Quarry](find-quarry.md)**: You can sense whether a particular creature is within 20 miles of your location.
 - **[Freedom of Movement](freedom-of-movement.md)**: Subject moves normally despite impediments to movement.
+- **[Green Caress](green-caress.md)**: Slowly transform a creature into an inanimate plant.
 - **[Named Bullet, Greater](named-bullet-greater.md)**: As named bullet, but deals 2 points of damage per caster level.
 - **[Nondetection](nondetection.md)**: Hides subject from divination, scrying.
 - **[Overwhelming Poison](overwhelming-poison.md)**: Make a poison more difficult to resist.

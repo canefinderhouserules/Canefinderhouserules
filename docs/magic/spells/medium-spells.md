@@ -31,6 +31,7 @@ Mediums gain access to the following spells. Spells without a link come from oth
 - **[Anticipate Peril](anticipate-peril.md)**: Target gains a bonus on one initiative check.
 - Bleed Glory
 - **[Auditory Hallucination](auditory-hallucination.md)**: Create a phantasm with auditory effects.
+- **[Bloodbath](bloodbath.md)**: Cause yourself and enemies to bleed.
 - **[Borrow Skill](borrow-skill.md)**: Make a skill check using another’s ranks.
 - **[Burst of Insight](burst-of-insight.md)**: Gain a +8 bonus to Int, Wis, or Cha for one roll, then be dazed for 1 round.
 - **[Calm Spirit](calm-spirit.md)**: Postpone hostile action by a haunt or incorporeal undead.
@@ -40,6 +41,7 @@ Mediums gain access to the following spells. Spells without a link come from oth
 - Compel Hostility
 - **[Comprehend Languages](comprehend-languages.md)**: You understand all spoken and written languages.
 - **[Confusion, Lesser](confusion-lesser.md)**: One creature is *confused* for 1 round.
+- **[Contact Entity I](contact-entity-i.md)**: Ask eldritch entities to find and converse with you.
 - **[Cultural Adaptation](cultural-adaptation.md)**: Adapt to fit the local culture.
 - **[Deathwatch](deathwatch.md)**: Reveals how near death subjects within 30 ft. are.
 - **[Decompose Corpse](decompose-corpse.md)**: Turn a corpse into a clean skeleton.
@@ -77,6 +79,7 @@ Mediums gain access to the following spells. Spells without a link come from oth
 - **[Restore Corpse](restore-corpse.md)**: Skeletal corpse grows f lesh.
 - Share Glory
 - **[Rumormonger](rumormonger.md)**: Follow a rumor to see where it spreads.
+- **[Sense Fear](sense-fear.md)**: Perceive nearby creatures that are experiencing fear.
 - **[Share Language](share-language.md)**: Subject understands chosen language.
 - **[Silent Image](silent-image.md)**: Creates minor illusion of your design.
 - **[Summon Minor Monster](summon-minor-monster.md)**: Summon 1d3 Tiny animals.
@@ -93,10 +96,12 @@ Mediums gain access to the following spells. Spells without a link come from oth
 
 ## 2nd-Level Medium Spells
 
+- **[Absurdity](absurdity.md)**: Threats seem like a ridiculous farce.
 - **[Aid](aid.md)**: +1 on attack rolls and saves against fear, 1d8 temporary hp +1/level (max +10).
 - **[Alpha Instinct](alpha-instinct.md)**: Gain bonuses when you’re interacting with animals.
 - **[Alter Self](alter-self.md)**: Assume form of a Small or Medium humanoid.
 - **[Analyze Aura](analyze-aura.md)**: Read a creature’s or an object’s alignment, emotion, health, and magic auras.
+- **[Appearance of Life](appearance-of-life.md)**: Undead appear to be alive.
 - **[Apport Object](apport-object.md)**: Send or receive a small object via teleportation.
 - **[Audiovisual Hallucination](audiovisual-hallucination.md)**: Create a phantasm with auditory and visual effects.
 - **[Augury](augury.md)**: Learns whether an action will be good or bad.
@@ -107,6 +112,7 @@ Mediums gain access to the following spells. Spells without a link come from oth
 - Bestow Weapon Proficiency
 - **[Blood Biography](blood-biography.md)**: Learn about a creature with its blood.
 - **[Blur](blur.md)**: Attacks miss subject 20% of the time.
+- **[Borrow Corruption](borrow-corruption.md)**: Temporarily gain the effects of a corrupted creature’s manifestations.
 - **[Bull’s Strength](bulls-strength.md)**: Subject gains +4 to Str for 1 min./level.
 - **[Cast Out](cast-out.md)**: Does 2d8 damage +1/level (max +15) to creature and dispels an effect.
 - **[Catatonia](catatonia.md)**: Make a willing target appear to be dead.
@@ -115,6 +121,7 @@ Mediums gain access to the following spells. Spells without a link come from oth
 - **[Codespeak](codespeak.md)**: Speak, read, and write a new code language.
 - **[Cognitive Block](cognitive-block.md)**: Add a thought component to all of the target’s spells.
 - **[Compassionate Ally](compassionate-ally.md)**: Target is compelled to help injured ally.
+- **[Contact Entity II](contact-entity-ii.md)**: Ask more powerful eldritch entities to find and converse with you.
 - **[Create Treasure Map](create-treasure-map.md)**
 - **[Darkvision](darkvision.md)**: See 60 ft. in total darkness.
 - **[Daze Monster](daze-monster.md)**: Living creature of 6 HD or less loses its next action.
@@ -166,11 +173,13 @@ Mediums gain access to the following spells. Spells without a link come from oth
 - **[Purge Spirit](purge-spirit.md)**: Deal 1d6 points of damage per level to one haunt or spirit creature and stagger it.
 - Qualm
 - Restore Mythic Power
+- **[Quick Change](quick-change.md)**: Use change shape as a swift action and surprise foes.
 - **[Riding Possession](riding-possession.md)**: As possession, but you observe instead of control the subject.
 - **[Rope Trick](rope-trick.md)**: As many as eight creatures hide in extradimensional space.
 - **[Scare](scare.md)**: Frightens creature of less than 6 HD.
 - **[Sealed Life](sealed-life.md)**: Prevent a creature from transferring life force to or from others.
 - **[Seek Thoughts](seek-thoughts.md)**: Detects thinking creatures’ thoughts.
+- **[Sense Madness](sense-madness.md)**: Determine mental disturbances in nearby creatures.
 - **[Sessile Spirit](sessile-spirit.md)**: Cause a spirit inhabiting a creature or an object to go dormant.
 - **[Share Memory](share-memory.md)**: Share one memory with the target.
 - **[Shifted Steps](shifted-steps.md)**: Make a target sound as if elsewhere.
@@ -196,12 +205,15 @@ Mediums gain access to the following spells. Spells without a link come from oth
 
 - **[Adjustable Disguise](adjustable-disguise.md)**
 - **[Apport Animal](apport-animal.md)**: Send or receive a Tiny or smaller animal via teleportation.
+- **[Assume Appearance](assume-appearance.md)**: Use a creature’s corpse to adopt its form.
 - **[Aura Alteration](aura-alteration.md)**: Masks a creature’s or an object’s alignment, emotion, health, and magic auras.
+- **[Ban Corruption](ban-corruption.md)**: Eliminate the gifts of nearby corrupted creatures.
 - **[Borrow Fortune](borrow-fortune.md)**: (Oracle only.) Retry attack or check, but do worse on next two.
 - Burst of Speed
 - **[Call Spirit](call-spirit.md)**: Make the spirit of one creature manifest.
 - **[Complex Hallucination](complex-hallucination.md)**: Create a phantasm with effects for all senses.
 - **[Conditional Curse](conditional-curse.md)**: Bestow a curse that is difficult to remove without fulfilling a condition.
+- **[Contact Entity III](contact-entity-iii.md)**: Ask very powerful eldritch entities to find and converse with you, or they may reply telepathically.
 - **[Daze, Mass](daze-mass.md)**: As daze, but affecting multiple creatures.
 - **[Deceitful Veneer](deceitful-veneer.md)**: Make someone seem like an obvious liar.
 - **[Demanding Message](demanding-message.md)**: Send messages as per *message* with a *suggestion* for one creature.
@@ -212,6 +224,7 @@ Mediums gain access to the following spells. Spells without a link come from oth
 - **[Dispel Magic](dispel-magic.md)**: Cancels one magical spell or effect.
 - **[Displacement](displacement.md)**: Attacks miss subject 50% of the time.
 - **[Divination](divination.md)**: Provides useful advice for specific proposed actions.
+- **[Dreadscape](dreadscape.md)**: Surroundings and unfamiliar creatures seem like something out of a nightmare.
 - **[Dream](dream.md)**: Sends message to anyone sleeping.
 - **[Enter Image](enter-image.md)**: Transfers your consciousness to an object bearing your likeness.
 - **[Entice Fey, Lesser](entice-fey-lesser.md)**: Entice service from a fey of 6 Hit Dice or fewer.
@@ -222,6 +235,8 @@ Mediums gain access to the following spells. Spells without a link come from oth
 - **[Gaseous Form](gaseous-form.md)**: Subject becomes insubstantial and can fly slowly.
 - **[Glimpse of Truth](glimpse-of-truth.md)**: Gain *true seeing* for 1 round.
 - **[Hollow Heroism](hollow-heroism.md)**: Provide a *heroism* effect that you can reverse at any time.
+- **[Horrific Doubles](horrific-doubles.md)**: Call forth disturbing *mirror images*.
+- **[Impossible Angles](impossible-angles.md)**: Distort geometry in an area.
 - **[Invisibility, Greater](invisibility-greater.md)**: As invisibility, but subject can attack and stay invisible.
 - **[Locate Creature](locate-creature.md)**: Indicates direction to familiar creature.
 - **[Magic Circle against Chaos](magic-circle-against-chaos.md)**
@@ -234,6 +249,7 @@ Mediums gain access to the following spells. Spells without a link come from oth
 - **[Mindscape Door](mindscape-door.md)**: Create a portal allowing entry to and exit from a mindscape.
 - **[Node of Blasting](node-of-blasting.md)**: Place a trap on an object to mentally damage a creature that touches it.
 - Paragon Surge
+- **[Phantasmal Asphyxiation](phantasmal-asphyxiation.md)**: Trick a creature into thinking it can’t breathe.
 - **[Phantasmal Killer](phantasmal-killer.md)**: Fearsome illusion kills subject or deals 3d6 damage.
 - **[Pierce Disguise](pierce-disguise.md)**: See through low-level magical disguises.
 - **[Planar Ally, Lesser](planar-ally-lesser.md)**: Exchange services with a 6 HD extraplanar creature.
@@ -245,6 +261,7 @@ Mediums gain access to the following spells. Spells without a link come from oth
 - **[Scrying](scrying.md)**: Spies on subject from a distance.
 - **[Sending](sending.md)**: Delivers short message anywhere, instantly.
 - **[Share Senses](share-senses.md)**: See/hear/smell what your familiar is.
+- **[Sleepwalking Suggestion](sleepwalking-suggestion.md)**: Cause a creature to perform a suggested action while asleep.
 - **[Summon Monster IV](summon-monster-iv.md)**: (Evil creatures only.) Summons extraplanar creature to fight for you.
 - **[Thaumaturgic Circle](thaumaturgic-circle.md)**: As magic circle, but affecting a nonalignment subtype or outsider race.
 - **[Vampiric Touch](vampiric-touch.md)**: Touch deals 1d6 damage/2 levels; caster gains damage as temporary hp.
@@ -255,10 +272,12 @@ Mediums gain access to the following spells. Spells without a link come from oth
 ## 4th-Level Medium Spells
 
 - **[Adjustable Polymorph](adjustable-polymorph.md)**: As alter self; but you can change the shape as a swift action.
+- **[Assume Appearance, Greater](assume-appearance-greater.md)**: Use a likeness to adopt a dead creature’s form.
 - **[Battlemind Link](battlemind-link.md)**: You and an ally gain attack and AC bonuses.
 - **[Break Enchantment](break-enchantment.md)**: Frees subjects from enchantments, transmutations, and curses.
 - **[Command, Greater](command-greater.md)**: As *command,* but affects one subject/level.
 - **[Conjuration Foil](conjuration-foil.md)**: Interfere with nearby teleportation effects.
+- **[Contact Entity IV](contact-entity-iv.md)**: Ask extraordinarily powerful eldritch entities to find and converse with you, or they may reply telepathically.
 - **[Create Mindscape](create-mindscape.md)**: Form an immersive mindscape.
 - **[Darkvision, Greater](darkvision-greater.md)**: See 120 ft. in total darkness.
 - **[Death Ward](death-ward.md)**: Grants bonuses against death spells and negative energy.
@@ -281,6 +300,8 @@ Mediums gain access to the following spells. Spells without a link come from oth
 - **[Nightmare](nightmare.md)**: Sends vision dealing 1d10 damage, fatigue.
 - **[Object Possession](object-possession.md)**: As lesser object possession, but with a larger object.
 - **[Persistent Image](persistent-image.md)**: As *major image*, but with no concentration required.
+- **[Pessimism](pessimism.md)**: Force a creature to see the negative side of things.
+- **[Phantasmal Putrefaction](phantasmal-putrefaction.md)**: Trick creatures into thinking their flesh is rotting.
 - **[Planar Adaptation](planar-adaptation.md)**: Resist harmful effects of other plane.
 - **[Planar Binding, Lesser](planar-binding-lesser.md)**: Traps extraplanar creature of 6 HD or less until it performs a task.
 - **[Plane Shift](plane-shift.md)**: As many as eight subjects travel to another plane.

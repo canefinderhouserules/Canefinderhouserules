@@ -4,7 +4,9 @@ Bloodragers gain access to the following spells. Spells in plain text come from 
 
 ## 1st-Level Bloodrager Spells
 
+- **[Barbed Chains](barbed-chains.md)**: Hellish chains attack and cause a target to become shaken.
 - **[Blade Lash](blade-lash.md)**: Use your weapon like a whip to trip an opponent.
+- **[Bloodbath](bloodbath.md)**: Cause yourself and enemies to bleed.
 - **[Blurred Movement](blurred-movement.md)**: As blur, but only while you are moving.
 - **[Break](break.md)**: Gives an object the broken condition.
 - **[Burning Hands](burning-hands.md)**: 1d4/level fire damage (max 5d4).
@@ -38,6 +40,7 @@ Bloodragers gain access to the following spells. Spells in plain text come from 
 - **[Ray of Sickening](ray-of-sickening.md)**: Ray makes the subject sickened.
 - **[Reduce Person](reduce-person.md)**: Humanoid creature halves in size.
 - Returning Weapon
+- **[Sense Fear](sense-fear.md)**: Perceive nearby creatures that are experiencing fear.
 - **[Shadow Weapon](shadow-weapon.md)**: Create a quasi-real masterwork weapon.
 - **[Shield](shield.md)**: Invisible disc gives +4 to AC, blocks *magic missiles.*
 - **[Shocking Grasp](shocking-grasp.md)**: Touch delivers 1d6/level electricity damage (max 5d6).
@@ -100,6 +103,7 @@ Bloodragers gain access to the following spells. Spells in plain text come from 
 - **[Pouncing Fury](pouncing-fury.md)**: Make a full attack with your claws after a charge.
 - **[Protection from Arrows](protection-from-arrows.md)**: Subject gains DR 10/magic against ranged attacks.
 - **[Pyrotechnics](pyrotechnics.md)**: Turns fire into blinding light or thick smoke.
+- **[Quick Change](quick-change.md)**: Use change shape as a swift action and surprise foes.
 - **[Resist Energy](resist-energy.md)**: Ignores 10 (or more) points of damage/attack from specified energy type.
 - **[Scorching Ray](scorching-ray.md)**: Ranged touch attack deals 4d6 fire damage, + 1 ray/four levels (max 3).
 - **[See Invisibility](see-invisibility.md)**: Reveals invisible creatures or objects.
@@ -110,6 +114,7 @@ Bloodragers gain access to the following spells. Spells in plain text come from 
 - Steal Breath
 - **[Stone Call](stone-call.md)**: 2d6 damage to all creatures in area.
 - **[Stone Discus](stone-discus.md)**: Flying discus deals bludgeoning or slashing damage.
+- **[Symbol of Exsanguination](symbol-of-exsanguination.md)**: Triggered rune causes nearby creatures to bleed.
 - **[Touch of Idiocy](touch-of-idiocy.md)**: Subject takes 1d6 penalty to Int, Wis, and Cha.
 - **[Unshakable Chill](unshakable-chill.md)**: Target is aff licted with severe cold.
 - **[Vine Strike](vine-strike.md)**: Enhance one of your natural or unarmed attacks with thorny vine growth.
@@ -158,6 +163,7 @@ Bloodragers gain access to the following spells. Spells in plain text come from 
 - Paragon Surge
 - **[Phantom Steed](phantom-steed.md)**: Magic horse appears for 1 hour/level.
 - **[Protection from Energy](protection-from-energy.md)**: Absorbs 12 points/level of damage from one kind of energy.
+- **[Pyrotechnic Eruption](pyrotechnic-eruption.md)**: Erupting flames burn a target several times.
 - **[Rage](rage.md)**: Gives +2 to Str and Con, +1 on Will saves, –2 to AC.
 - Raging Rubble
 - **[Ray of Exhaustion](ray-of-exhaustion.md)**: Ray makes subject exhausted.
@@ -166,6 +172,7 @@ Bloodragers gain access to the following spells. Spells in plain text come from 
 - **[Sleet Storm](sleet-storm.md)**: Hampers vision and movement.
 - **[Slow](slow.md)**: One subject/level takes only one action/round, –1 to AC, Reflex saves, and attack rolls.
 - **[Stinking Cloud](stinking-cloud.md)**: Nauseating vapors, 1 round/level.
+- **[Temporary Graft](temporary-graft.md)**: Graft a body part onto yourself to gain one of several benefits.
 - **[Thunderstomp, Greater](thunderstomp-greater.md)**: Trip multiple creatures within
 - **[Twilight Knife](twilight-knife.md)**: Floating knife attacks with you.
 - **[Undead Anatomy I](undead-anatomy-i.md)**: Take the form and some of the powers of a Small or Medium undead.
@@ -173,6 +180,7 @@ Bloodragers gain access to the following spells. Spells in plain text come from 
 - **[Versatile Weapon](versatile-weapon.md)**: Weapon bypasses some DR.
 - **[Vision of Hell](vision-of-hell.md)**: Illusory hellscape makes creatures shaken.
 - **[Water Breathing](water-breathing.md)**: Subjects can breathe underwater.
+- **[Waves of Blood](waves-of-blood.md)**: A cone of blood pushes creatures, sickens them, and makes the ground slick.
 - **[Wind Wall](wind-wall.md)**: Deflects arrows, smaller creatures, and gases.
 - **[Wing Thorns](wing-thorns.md)**: Wings sprout poisonous thorns you can attack with.
 
@@ -203,6 +211,7 @@ Bloodragers gain access to the following spells. Spells in plain text come from 
 - Ghost Wolf
 - Hellmouth Lash
 - **[Hollow Heroism](hollow-heroism.md)**: Provide a *heroism* effect that you can reverse at any time.
+- **[Horrific Doubles](horrific-doubles.md)**: Call forth disturbing *mirror images*.
 - **[Ice Storm](ice-storm.md)**: Hail deals 5d6 damage in cylinder 40 ft. across.
 - **[Monstrous Physique II](monstrous-physique-ii.md)**: Take the form and some of the powers of a Tiny or Large monstrous humanoid.
 - **[Moonstruck](moonstruck.md)**: Subject is enraged and confused.

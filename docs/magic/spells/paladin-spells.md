@@ -16,6 +16,7 @@
 - **[Detect Undead](detect-undead.md)**: Reveals undead within 60 ft.
 - **[Divine Favor](divine-favor.md)**: You gain +1 per three levels on attack and damage rolls.
 - **[Endure Elements](endure-elements.md)**: Exist comfortably in hot or cold regions.
+- **[Hedging Weapons](hedging-weapons.md)**: Floating weapons protect you and make ranged attacks.
 - **[Ironbeard](ironbeard.md)**: School transmutation; Level antipaladin 1, cleric 1, magus 1, paladin 1, ranger 1 Casting Time 1 standard.
 - **[Know Peerage](know-peerage.md)**: Target uses your Knowledge (nobility) ranks.
 - **[Liberating Command](liberating-command.md)**: Target makes an Escape Artist check as an immediate action and gains a bonus on it.
@@ -45,6 +46,7 @@
 - **[Eagle’s Splendor](eagles-splendor.md)**: Subject gains +4 to Cha for 1 min./level.
 - **[Effortless Armor](effortless-armor.md)**: Armor you wear no longer slows your speed.
 - **[Endure Elements, Communal](endure-elements-communal.md)**: As endure elements, but you may divide the duration among creatures touched.
+- **[Holy Javelin](holy-javelin.md)**: Deal ongoing damage to evil creatures and apply penalties.
 - **[Litany of Defense](litany-of-defense.md)**: Doubles armor’s enhancement bonus.
 - **[Litany of Eloquence](litany-of-eloquence.md)**: Fascinates a single creature for 1 round.
 - **[Litany of Entanglement](litany-of-entanglement.md)**: Entangles a creature for 1 round.
@@ -58,7 +60,9 @@
 - **[Resist Energy](resist-energy.md)**: Ignores 10 or more points of damage per attack from specified energy type.
 - **[Sacred Space](sacred-space.md)**: This spell sanctifies an area with heavenly power.
 - **[Sea Steed](sea-steed.md)**: Your mount adapts to an aquatic environment.
+- **[Sense Madness](sense-madness.md)**: Determine mental disturbances in nearby creatures.
 - **[Shield Other](shield-other.md)**: You take half of subject’s damage.
+- **[Stave Off Corruption](stave-off-corruption.md)**: Protect against a corruption’s progression.
 - **[Undetectable Alignment](undetectable-alignment.md)**: Conceals alignment from magical detection for 24 hours.
 - **[Widen Auras](widen-auras.md)**: Doubles the range of your antipaladin or paladin auras.
 - **[Zone of Truth](zone-of-truth.md)**: Subjects within range cannot lie.
@@ -67,6 +71,7 @@
 
 - **[Burst of Speed](burst-of-speed.md)**: You gain increased speed, and your movement ignores attacks of opportunity and allows you to move through the space of creatures larger than you are.
 - **[Cure Moderate Wounds](cure-moderate-wounds.md)**: Cures 2d8 damage +1/level (max. +10).
+- **[Damnation](damnation.md)**: Punish creatures for evil spells they know or that affect them.
 - **[Daybreak Arrow](daybreak-arrow.md)**: Targeted ammunition exudes radiant energy.
 - **[Daylight](daylight.md)**: 60-ft. radius of bright light.
 - **[Deadly Juggernaut](deadly-juggernaut.md)**: Your might increases with every kill you make.
@@ -92,6 +97,7 @@
 ## 4th-Level Paladin Spells
 
 - **[Absolution](absolution.md)**: Removes enchantments and forgives actions taken under their effects.
+- **[Ban Corruption](ban-corruption.md)**: Eliminate the gifts of nearby corrupted creatures.
 - **[Break Enchantment](break-enchantment.md)**: Frees subjects from enchantments, transmutations, and curses.
 - **[Companion Transposition](companion-transposition.md)**: Swap places with your animal companion, familiar, or spirit animal via teleportation.
 - **[Cure Serious Wounds](cure-serious-wounds.md)**: Cures 3d8 damage + 1/level (max +15).
@@ -107,6 +113,7 @@
 - **[Paragon Surge](paragon-surge.md)**: You surge with ancestral power, temporarily embodying all the strengths of both elvenkind and humankind.
 - **[Red Hand of the Killer](red-hand-of-the-killer.md)**: Stain the hand of a creature’s killer red.
 - **[Restoration](restoration.md)**: Restores level and ability score drains.
+- **[Sacred Nimbus](sacred-nimbus.md)**: Holy energy damages evil creatures that attack you and protects you from evil attacks.
 - **[Sea Stallion](sea-stallion.md)**: You and your mount adapt to an aquatic environment.
 
 ## Ultimate Magic Spells

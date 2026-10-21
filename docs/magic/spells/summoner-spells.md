@@ -4,6 +4,7 @@ New summoner spells from *Ultimate Magic*. Spells from other books will be added
 
 ## 1st-Level Summoner Spells
 
+- **[Barbed Chains](barbed-chains.md)**: Hellish chains attack and cause a target to become shaken.
 - **[Compel Hostility](compel-hostility.md)**: Compels opponents to attack you instead of your allies.
 - **[Corrosive Touch](corrosive-touch.md)**: Touch attack deals 1d4 acid/level.
 - **[Icicle Dagger](icicle-dagger.md)**: Masterwork ice dagger deals +1 cold damage.
@@ -19,6 +20,7 @@ New summoner spells from *Ultimate Magic*. Spells from other books will be added
 - **[Ablative Barrier](ablative-barrier.md)**: Surrounds the target with layers of force.
 - **[Ant Haul, Communal](ant-haul-communal.md)**: As ant haul, but you may divide the duration among creatures touched.
 - **[Aquatic Cavalry](aquatic-cavalry.md)**: Summon hippocampi to serve as aquatic mounts.
+- **[Contact Entity I](contact-entity-i.md)**: Ask eldritch entities to find and converse with you.
 - **[Cushioning Bands](cushioning-bands.md)**: Force bands protect against crushing.
 - **[Dark Whispers](dark-whispers.md)**: Whisper through the shadows.
 - **[Detect Magic, Greater](detect-magic-greater.md)**: As *detect magic*, but learn more information.
@@ -28,6 +30,7 @@ New summoner spells from *Ultimate Magic*. Spells from other books will be added
 - **[Protection from Evil, Communal](protection-from-evil-communal.md)**: As protection from evil, but you may divide the duration among creatures touched.
 - **[Protection from Good, Communal](protection-from-good-communal.md)**: As protection from good, but you may divide the duration among creatures touched.
 - **[Protection from Law, Communal](protection-from-law-communal.md)**: As protection from law, but you may divide the duration among creatures touched.
+- **[Quick Change](quick-change.md)**: Use change shape as a swift action and surprise foes.
 - **[Restore Eidolon, Lesser](restore-eidolon-lesser.md)**: Lesser restoration for an eidolon.
 - **[Twisted Space](twisted-space.md)**: Targeted creature’s attacks target a random square instead of the intended target.
 - **[Warding Weapon](warding-weapon.md)**
@@ -38,8 +41,10 @@ New summoner spells from *Ultimate Magic*. Spells from other books will be added
 
 - **[Agonize](agonize.md)**: Pain encourages an outsider to obey you.
 - **[Apport Animal](apport-animal.md)**: Send or receive a Tiny or smaller animal via teleportation.
+- **[Assume Appearance](assume-appearance.md)**: Use a creature’s corpse to adopt its form.
 - **[Conjuration Foil](conjuration-foil.md)**: Interfere with nearby teleportation effects.
 - **[Conjure Carriage](conjure-carriage.md)**: Create a fine carriage.
+- **[Contact Entity II](contact-entity-ii.md)**: Ask more powerful eldritch entities to find and converse with you.
 - **[Control Summoned Creature](control-summoned-creature.md)**: Direct a summoned monster as if you had summoned it.
 - **[Insect Spies](insect-spies.md)**: Use magic beetles as spies.
 - **[Leshy Swarm](leshy-swarm.md)**: Summon a swarm of Tiny leshys.
@@ -62,6 +67,8 @@ New summoner spells from *Ultimate Magic*. Spells from other books will be added
 
 ## 4th-Level Summoner Spells
 
+- **[Assume Appearance, Greater](assume-appearance-greater.md)**: Use a likeness to adopt a dead creature’s form.
+- **[Contact Entity III](contact-entity-iii.md)**: Ask very powerful eldritch entities to find and converse with you, or they may reply telepathically.
 - **[Damnation Stride](damnation-stride.md)**: This spell functions like dimension door, except you leave behind a burst of fire.
 - **[Daze, Mass](daze-mass.md)**: As daze, but affecting multiple creatures.
 - **[Hollow Heroism](hollow-heroism.md)**: Provide a *heroism* effect that you can reverse at any time.
@@ -81,23 +88,28 @@ New summoner spells from *Ultimate Magic*. Spells from other books will be added
 - **[Conjure Black Pudding](conjure-black-pudding.md)**: Summon a black pudding.
 - **[Create Demiplane, Lesser](create-demiplane-lesser.md)**: Create your own demiplane.
 - **[Energy Siege Shot](energy-siege-shot.md)**: A Large siege engine deals energy damage that you designate with other effects depending on the type of energy you choose.
+- **[Flesh Wall](flesh-wall.md)**: Create a wall of zombies.
 - **[Ice Crystal Teleport](ice-crystal-teleport.md)**: Target is frozen, then teleported.
 - **[Life Conduit, Greater](life-conduit-greater.md)**: You transfer 3d6 hit points to your eidolon as a swift action.
+- **[Locate Gate](locate-gate.md)**: Find a nearby magical portal.
 - **[Mage’s Decree](mages-decree.md)**: Send a message to creatures within miles.
 - **[Mind Swap](mind-swap.md)**: Switch minds with another creature for 1 hour per level.
 - **[Possession](possession.md)**: Project your soul into a creature’s body.
+- **[Straitjacket](straitjacket.md)**: Restrain a creature’s arms and grant it a second saving throw against certain magic.
 - **[Tar Pool](tar-pool.md)**: Converts the top layer of the ground into hot tar.
 - **[Whip of Centipedes](whip-of-centipedes.md)**: As whip of spiders, but with centipedes.
 - **[Wreath of Blades](wreath-of-blades.md)**
 
 ## 6th-Level Summoner Spells
 
+- **[Contact Entity IV](contact-entity-iv.md)**: Ask extraordinarily powerful eldritch entities to find and converse with you, or they may reply telepathically.
 - **[Create Demiplane](create-demiplane.md)**: As lesser create demiplane, but larger and with planar traits.
 - **[Eagle Aerie](eagle-aerie.md)**: Summon 1 giant eagle/3 levels.
 - **[Energy Siege Shot, Greater](energy-siege-shot-greater.md)**: As energy siege shot, but you can affect any size siege engine.
 - **[Fey Gate](fey-gate.md)**: Create a portal that allows travel to the First World.
 - **[Hostile Juxtaposition, Greater](hostile-juxtaposition-greater.md)**: You may target one creature for every four of your caster levels.
 - **[Insect Spies, Greater](insect-spies-greater.md)**: Use magic beetles as spies and also share their senses.
+- **[Plundered Power](plundered-power.md)**: Kill a creature and steal its strongest spell-like ability.
 - **[Treacherous Teleport](treacherous-teleport.md)**: As *teleport*, except you choose some creatures to suffer a mishap or go elsewhere.
 - **[Walk Through Space](walk-through-space.md)**: You can spend a move action to teleport 30 feet or to stand while prone without provoking attacks of opportunity.
 - **[Whip of Ants](whip-of-ants.md)**: As whip of spiders, but with army ants.

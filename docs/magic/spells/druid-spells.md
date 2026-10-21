@@ -80,6 +80,7 @@
 - **[Cat’s Grace](cats-grace.md)**: Subject gains +4 to Dex for 1 min./level.
 - **[Certain Grip](certain-grip.md)**: You gain a +4 competence bonus on Acrobatics and Climb checks and to CMD.
 - **[Chill Metal](chill-metal.md)**: Cold metal damages those who touch it.
+- **[Curse Terrain, Lesser](curse-terrain-lesser.md)**: Curse an area with three mild hazards.
 - **[Delay Disease](delay-disease.md)**: The target becomes temporarily immune to disease.
 - **[Delay Poison](delay-poison.md)**: Stops poison from harming subject for 1 hour/level.
 - **[Detect Magic, Greater](detect-magic-greater.md)**: As *detect magic*, but learn more information.
@@ -100,6 +101,7 @@
 - **[Hold Animal](hold-animal.md)**: Paralyzes one animal for 1 round/level.
 - **[Owl’s Wisdom](owls-wisdom.md)**: Subject gains +4 to Wis for 1 min./level.
 - **[Pouncing Fury](pouncing-fury.md)**: Make a full attack with your claws after a charge.
+- **[Quick Change](quick-change.md)**: Use change shape as a swift action and surprise foes.
 - **[Reduce Animal](reduce-animal.md)**: Shrinks one willing animal.
 - **[Resist Energy](resist-energy.md)**: Ignores 10 or more points of damage per attack from specified energy type.
 - **[Restoration, Lesser](restoration-lesser.md)**: Dispels magical ability penalty or repairs 1d4 ability damage.
@@ -107,6 +109,7 @@
 - **[Scamper](scamper.md)**: Grant your animal companion astonishing agility.
 - **[Sea Steed](sea-steed.md)**: Your mount adapts to an aquatic environment.
 - **[Seed Spies](seed-spies.md)**: Wafting seeds act as spies, as insect spies.
+- **[Sense Fear](sense-fear.md)**: Perceive nearby creatures that are experiencing fear.
 - **[Sickening Strikes](sickening-strikes.md)**: You are imbued with disease, and any creature you strike with a melee attack must make a Fortitude save or be.
 - **[Soften Earth and Stone](soften-earth-and-stone.md)**: Turns stone to clay, or dirt to sand or mud.
 - **[Spider Climb](spider-climb.md)**: Grants ability to walk on walls and ceilings.
@@ -188,11 +191,13 @@
 - **[Animal Ambassador](animal-ambassador.md)**: Grant an animal messenger sentience to deliver your message.
 - **[Antiplant Shell](antiplant-shell.md)**: Keeps animated plants at bay.
 - **[Blight](blight.md)**: Withers one plant or deals 1d6/level damage to plant creature.
+- **[Borrow Corruption](borrow-corruption.md)**: Temporarily gain the effects of a corrupted creature’s manifestations.
 - **[Bountiful Banquet](bountiful-banquet.md)**: Create a luxurious feast for two creatures/level.
 - **[Cloud Shape](cloud-shape.md)**: This spell functions like gaseous form, except you assume the shape of a Colossal cloud with a space of 30.
 - **[Command Plants](command-plants.md)**: Sways the actions of plant creatures.
 - **[Control Water](control-water.md)**: Raises or lowers bodies of water.
 - **[Cure Serious Wounds](cure-serious-wounds.md)**: Cures 3d8 damage + 1/level (max +15).
+- **[Curse Terrain](curse-terrain.md)**: Curse an area with four hazards.
 - **[Dispel Magic](dispel-magic.md)**: Cancels one magical spell or effect.
 - **[Earth Glide](earth-glide.md)**: School transmutation [earth]; Level alchemist 4, druid 4, sorcerer/wizard 4 Casting Time 1 standard action.
 - **[Explosion of Rot](explosion-of-rot.md)**: Call forth a burst of decay that damages and can stagger targets.
@@ -202,6 +207,7 @@
 - **[Giant Vermin](giant-vermin.md)**: Turns centipedes, scorpions, or spiders into giant vermin.
 - **[Healing Warmth](healing-warmth.md)**: This spell grants you temporary immunity to fire damage as protection from energy.
 - **[Ice Storm](ice-storm.md)**: Hail deals 5d6 damage in cylinder 40 ft. across.
+- **[Life Blast](life-blast.md)**: Drain life from local vegetation to launch a blast of positive energy.
 - **[Obsidian Flow](obsidian-flow.md)**: Converts the surface of the ground into molten glass. Spells 6 Protection from Energy, Communal: As protection from energy, but you may divide the duration among creatures touched.
 - **[Reincarnate](reincarnate.md)**: Brings dead subject back in a random body.
 - **[Repel Vermin](repel-vermin.md)**: Insects, spiders, and other vermin stay 10 ft. away.
@@ -219,6 +225,7 @@
 - **[Atonement](atonement.md)**: Removes burden of misdeeds from subject.
 - **[Awaken](awaken.md)**: Animal or tree gains human intellect.
 - **[Baleful Polymorph](baleful-polymorph.md)**: Transforms subject into harmless animal.
+- **[Blood Ties](blood-ties.md)**: When a target is harmed, so is the target’s relative.
 - **[Call Lightning Storm](call-lightning-storm.md)**: As *call lightning,* but 5d6 damage per bolt.
 - **[Cave Fangs](cave-fangs.md)**: Create a trap from stalactites and stalagmites.
 - **[Commune with Nature](commune-with-nature.md)**: Learn about terrain for 1 mile/level.
@@ -244,6 +251,7 @@
 - **[Transmute Rock to Mud](transmute-rock-to-mud.md)**: Transforms two 10-ft. cubes per level.
 - **[Tree Stride](tree-stride.md)**: Step from one tree to another far away.
 - **[Unhallow](unhallow.md)**: Designates location as unholy.
+- **[Vile Dog Transformation](vile-dog-transformation.md)**: Transform ordinary dogs into fiendish minions.
 - **[Waft](waft.md)**: Targets become light enough to be carried by the wind.
 - **[Wall of Fire](wall-of-fire.md)**: Deals 2d4 fire damage out to 10 ft. and 1d4 out to 20 ft. Passing through wall deals 2d6 damage +1/level.
 - **[Wall of Thorns](wall-of-thorns.md)**: Thorns damage anyone who tries to pass.
@@ -258,11 +266,13 @@
 - **[Bull’s Strength, Mass](bulls-strength-mass.md)**: As *bull’s strength*, affects 1 subject/level.
 - **[Cat’s Grace, Mass](cats-grace-mass.md)**: As *cat’s grace*, affects one subject/level.
 - **[Cure Light Wounds, Mass](cure-light-wounds-mass.md)**: Cures 1d8 damage + 1/level, affects 1 subject/level.
+- **[Curse Terrain, Greater](curse-terrain-greater.md)**: Curse an area with six dangerous hazards.
 - **[Dispel Magic, Greater](dispel-magic-greater.md)**: As *dispel magic*, but with multiple targets.
 - **[Dust Form](dust-form.md)**: You become an incorporeal creature of dust for a short period of time.
 - **[Fey Form III](fey-form-iii.md)**: Assume the form of a Diminutive or Huge fey creature.
 - **[Find the Path](find-the-path.md)**: Shows most direct way to a location.
 - **[Fire Seeds](fire-seeds.md)**: Acorns and berries become grenades and bombs.
+- **[Green Caress](green-caress.md)**: Slowly transform a creature into an inanimate plant.
 - **[Insect Spies, Greater](insect-spies-greater.md)**: Use magic beetles as spies and also share their senses.
 - **[Ironwood](ironwood.md)**: Magic wood is as strong as steel.
 - **[Liveoak](liveoak.md)**: Oak becomes treant guardian.
@@ -295,6 +305,7 @@
 - **[Entice Fey](entice-fey.md)**: Entice service from a fey of 12 Hit Dice or fewer.
 - **[Fire Storm](fire-storm.md)**: Deals 1d6/level fire damage.
 - **[Heal](heal.md)**: Cures 10 points/level damage, all diseases and mental conditions.
+- **[Plundered Power](plundered-power.md)**: Kill a creature and steal its strongest spell-like ability.
 - **[Scrying, Greater](scrying-greater.md)**: As *scrying*, but faster and longer.
 - **[Siege of Trees](siege-of-trees.md)**: Transforms Large trees into arboreal catapults of the same size.
 - **[Summon Nature’s Ally VII](summon-natures-ally-vii.md)**: Summons creature to fight.
@@ -308,6 +319,8 @@
 - **[Animal Shapes](animal-shapes.md)**: One ally/level polymorphs into chosen animal.
 - **[Control Plants](control-plants.md)**: Controls actions of one or more plant creatures.
 - **[Cure Serious Wounds, Mass](cure-serious-wounds-mass.md)**: Cures 3d8 damage + 1/level, affects 1 subject/level.
+- **[Curse of Night](curse-of-night.md)**: Curse an area with eternal night.
+- **[Curse Terrain, Supreme](curse-terrain-supreme.md)**: Curse an area with seven deadly hazards.
 - **[Earthquake](earthquake.md)**: Intense tremor shakes 80-ft.-radius.
 - **[Fey Form IV](fey-form-iv.md)**: Assume the form of a powerful fey creature.
 - **[Fey Gate](fey-gate.md)**: Create a portal that allows travel to the First World.
@@ -325,6 +338,8 @@
 
 - **[Antipathy](antipathy.md)**: Object or location affected by spell repels certain creatures.
 - **[Cure Critical Wounds, Mass](cure-critical-wounds-mass.md)**: Cures 4d8 damage + 1/level for many creatures.
+- **[Curse of Fell Seasons](curse-of-fell-seasons.md)**: Curse an area’s weather.
+- **[Death Clutch](death-clutch.md)**: Rip out someone’s heart.
 - **[Elemental Swarm](elemental-swarm.md)**: Summons multiple elementals.
 - **[Entice Fey, Greater](entice-fey-greater.md)**: Entice service from a fey of 18 Hit Dice or fewer.
 - **[Foresight](foresight.md)**: “Sixth sense” warns of impending danger.

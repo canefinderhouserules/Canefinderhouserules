@@ -68,6 +68,7 @@ Occultists gain access to the following spells, determined by their chosen imple
 
 **Conjuration**:
 
+- **[Barbed Chains](barbed-chains.md)**: Hellish chains attack and cause a target to become shaken.
 - **[Cure Light Wounds](cure-light-wounds.md)**: Cures 1d8 damage + 1/level (max +5).
 - **[Desperate Weapon](desperate-weapon.md)**: Create an improvised weapon.
 - **[Icicle Dagger](icicle-dagger.md)**: Masterwork ice dagger deals +1 cold damage.
@@ -129,6 +130,7 @@ Occultists gain access to the following spells, determined by their chosen imple
 
 - **[Cause Fear](cause-fear.md)**: A creature of 5 HD or less flees for 1d4 rounds.
 - **[Decompose Corpse](decompose-corpse.md)**: Turn a corpse into a clean skeleton.
+- **[Grasping Corpse](grasping-corpse.md)**: Cause a corpse to grab or trip a foe.
 - **[Inflict Light Wounds](inflict-light-wounds.md)**: Touch deals 1d8 damage +1/level (max +5).
 - **[Restore Corpse](restore-corpse.md)**: Skeletal corpse grows f lesh.
 - **[Sculpt Corpse](sculpt-corpse.md)**: Makes corpse look like another creature.
@@ -199,6 +201,8 @@ Occultists gain access to the following spells, determined by their chosen imple
 - **[Residual Tracking](residual-tracking.md)**: Tell creature's appearance by footprint.
 - **[See Invisibility](see-invisibility.md)**: Reveals invisible creatures or objects.
 - **[Seed Spies](seed-spies.md)**: Wafting seeds act as spies, as insect spies.
+- **[Sense Fear](sense-fear.md)**: Perceive nearby creatures that are experiencing fear.
+- **[Sense Madness](sense-madness.md)**: Determine mental disturbances in nearby creatures.
 - **[Share Language](share-language.md)**: Subject understands chosen language.
 - **[Share Memory](share-memory.md)**: Share one memory with the target.
 - **[Status](status.md)**: Monitors condition, position of allies.
@@ -219,11 +223,13 @@ Occultists gain access to the following spells, determined by their chosen imple
 
 - **[Burning Gaze](burning-gaze.md)**: Inflict 1d6 fire damage to creature.
 - **[Campfire Wall](campfire-wall.md)**: Creates a shelter around a campfire.
+- **[Contact Entity I](contact-entity-i.md)**: Ask eldritch entities to find and converse with you.
 - **[Continual Flame](continual-flame.md)**: Makes a permanent, heatless light.
 - **[Darkness](darkness.md)**: 20-ft. radius of supernatural shadow.
 - **[Defensive Shock](defensive-shock.md)**: Electricity damages your attackers.
 - **[Flaming Sphere](flaming-sphere.md)**: Rolling ball of fire deals 3d6 fire damage.
 - Frost Fall
+- **[Flickering Lights](flickering-lights.md)**: Create an area of inconsistent lighting.
 - **[Ghost Whip](ghost-whip.md)**: Create a ghost touch whip that passes through objects.
 - **[Gust of Wind](gust-of-wind.md)**: Blows away or knocks down smaller creatures.
 - Pilfering Hand
@@ -260,6 +266,7 @@ Occultists gain access to the following spells, determined by their chosen imple
 - **[Scare](scare.md)**: Frightens creature of less than 6 HD.
 - **[Skinsend](skinsend.md)**: Animate and possess your own skin as if it were a separate creature.
 - **[Spectral Hand](spectral-hand.md)**: Creates disembodied glowing hand to deliver touch attacks.
+- **[Symbol of Exsanguination](symbol-of-exsanguination.md)**: Triggered rune causes nearby creatures to bleed.
 
 **Transmutation**:
 
@@ -288,6 +295,7 @@ Occultists gain access to the following spells, determined by their chosen imple
 - **[Mirror Hideaway](mirror-hideaway.md)**
 - **[Perceive Cues](perceive-cues.md)**: +5 Perception and Sense Motive 10 min./level.
 - Reinforce Armaments, Communal
+- **[Quick Change](quick-change.md)**: Use change shape as a swift action and surprise foes.
 - **[Rope Trick](rope-trick.md)**: As many as eight creatures hide in extradimensional space.
 - **[Ropeweave](ropeweave.md)**: Create useful tools from a coil of rope.
 - **[Silk to Steel](silk-to-steel.md)**: Use a scarf as a shield or whip.
@@ -358,6 +366,7 @@ Occultists gain access to the following spells, determined by their chosen imple
 - **[Agonize](agonize.md)**: Pain encourages an outsider to obey you.
 - **[Call Lightning](call-lightning.md)**: Calls down lightning bolts (3d6 per bolt) from sky.
 - Daybreak Arrow
+- **[Contact Entity II](contact-entity-ii.md)**: Ask more powerful eldritch entities to find and converse with you.
 - **[Daylight](daylight.md)**: 60-ft. radius of bright light.
 - **[Deeper Darkness](deeper-darkness.md)**: Object sheds shadows in 60-ft. radius.
 - **[Fireball](fireball.md)**: 1d6 damage per level, 20-ft. radius.
@@ -387,6 +396,7 @@ Occultists gain access to the following spells, determined by their chosen imple
 
 - **[Animate Dead](animate-dead.md)**: Creates undead skeletons and zombies out of corpses.
 - **[Bestow Curse](bestow-curse.md)**: –6 to an ability score; –4 on attack rolls, saves, and checks; or 50% chance of losing each action.
+- **[Flesh Puppet](flesh-puppet.md)**: Control a zombie in human guise.
 - **[Gentle Repose](gentle-repose.md)**: Preserves one corpse.
 - Healing Thief
 - **[Inflict Serious Wounds](inflict-serious-wounds.md)**: Touch attack, 3d8 damage +1/ level (max +15).
@@ -398,7 +408,9 @@ Occultists gain access to the following spells, determined by their chosen imple
 **Transmutation**:
 
 - **[Age Resistance, Lesser](age-resistance-lesser.md)**: Ignore penalties from middle age.
+- **[Assume Appearance](assume-appearance.md)**: Use a creature’s corpse to adopt its form.
 - **[Bloodhound](bloodhound.md)**: Gives caster the scent special ability.
+- **[Borrow Corruption](borrow-corruption.md)**: Temporarily gain the effects of a corrupted creature’s manifestations.
 - **[Countless Eyes](countless-eyes.md)**: Extra eyes give all-around vision.
 - **[Cup of Dust](cup-of-dust.md)**: Causes a creature to become dehydrated.
 - Darkvision, Communal
@@ -420,11 +432,13 @@ Occultists gain access to the following spells, determined by their chosen imple
 - **[Symbol of Slowing](symbol-of-slowing.md)**: Triggered rune slows creatures.
 - **[Tail Current](tail-current.md)**: Create a current in water to enhance or impede swimming.
 - **[Tailwind](tailwind.md)**: Create a current of wind to enhance or impede flight.
+- **[Temporary Graft](temporary-graft.md)**: Graft a body part onto yourself to gain one of several benefits.
 
 ## 4th-Level Occultist Spells
 
 **Abjuration**:
 
+- **[Ban Corruption](ban-corruption.md)**: Eliminate the gifts of nearby corrupted creatures.
 - **[Break Enchantment](break-enchantment.md)**: Frees subjects from enchantments, transmutations, and curses.
 - **[Conjuration Foil](conjuration-foil.md)**: Interfere with nearby teleportation effects.
 - **[Curse of Magic Negation](curse-of-magic-negation.md)**: Target gains the negated spellblight.
@@ -451,6 +465,7 @@ Occultists gain access to the following spells, determined by their chosen imple
 - **[Dimension Door](dimension-door.md)**: Teleports you a short distance.
 - **[Major Creation](major-creation.md)**: As *minor creation,* plus stone and metal.
 - **[Poisonous Balm](poisonous-balm.md)**: As *cure serious wounds*, but leave behind a latent venom.
+- **[Straitjacket](straitjacket.md)**: Restrain a creature’s arms and grant it a second saving throw against certain magic.
 - Phantom Chariot
 - Phantom Steed, Communal
 
@@ -476,6 +491,7 @@ Occultists gain access to the following spells, determined by their chosen imple
 - **[Daze, Mass](daze-mass.md)**: As daze, but affecting multiple creatures.
 - **[Demanding Message](demanding-message.md)**: Send messages as per *message* with a *suggestion* for one creature.
 - **[Hold Monster](hold-monster.md)**: As *hold person*, but any creature.
+- **[Mad Sultan’s Melody](mad-sultans-melody.md)**: Bizarre cacophony fascinates eldritch creatures.
 - **[Mind Swap](mind-swap.md)**: Switch minds with another creature for 1 hour per level.
 - **[Mindwipe](mindwipe.md)**: Erase a portion of the target’s mind and experiences, inflicting negative levels.
 - **[Planeslayer’s Call](planeslayers-call.md)**
@@ -485,12 +501,14 @@ Occultists gain access to the following spells, determined by their chosen imple
 **Evocation**:
 
 - **[Ball Lightning](ball-lightning.md)**: Flying lightning spheres deal 3d6 electricity damage each.
+- **[Contact Entity III](contact-entity-iii.md)**: Ask very powerful eldritch entities to find and converse with you, or they may reply telepathically.
 - **[Contingent Scroll](contingent-scroll.md)**
 - **[Controlled Fireball](controlled-fireball.md)**: As *fireball,* but secretly deals less damage to your allies.
 - **[Etheric Shards](etheric-shards.md)**: Fill an area with invisible shards that slow movement and damage creatures.
 - **[Fire Shield](fire-shield.md)**: Creatures attacking you take fire damage; you’re protected from heat or cold.
 - **[Flaming Sphere, Greater](flaming-sphere-greater.md)**: Rolling ball of fire deals 6d6 fire damage and ignites targets.
 - **[Ice Storm](ice-storm.md)**: Hail deals 5d6 damage in cylinder 40 ft. across.
+- **[Pyrotechnic Eruption](pyrotechnic-eruption.md)**: Erupting flames burn a target several times.
 - **[Resilient Sphere](resilient-sphere.md)**: Force globe protects but traps one subject.
 - **[River of Wind](river-of-wind.md)**: Creates wind that causes nonlethal damage and can knock down or push creatures.
 - **[Sending](sending.md)**: Delivers short message anywhere, instantly.
@@ -505,6 +523,7 @@ Occultists gain access to the following spells, determined by their chosen imple
 - **[Complex Hallucination](complex-hallucination.md)**: Create a phantasm with effects for all senses.
 - **[Illusion of Treachery](illusion-of-treachery.md)**: Make it seem like another is also responsible for your attacks.
 - **[Illusory Wall](illusory-wall.md)**: Wall, floor, or ceiling looks real, but anything can pass through.
+- **[Impossible Angles](impossible-angles.md)**: Distort geometry in an area.
 - **[Invisibility, Greater](invisibility-greater.md)**: As invisibility, but subject can attack and stay invisible.
 - Shocking Image
 - Symbol of Striking
@@ -517,6 +536,7 @@ Occultists gain access to the following spells, determined by their chosen imple
 - **[Death Ward](death-ward.md)**: Grants bonuses against death spells and negative energy.
 - **[False Life, Greater](false-life-greater.md)**: Gain 2d10 temporary hp + 1/level.
 - **[Fear](fear.md)**: Subjects within cone flee for 1 round/level.
+- **[Flesh Puppet Horde](flesh-puppet-horde.md)**: Control multiple zombies in human guise.
 - **[Inflict Critical Wounds](inflict-critical-wounds.md)**: Touch attack, 4d8 damage + 1/level (max +20).
 - **[Object Possession](object-possession.md)**: As lesser object possession, but with a larger object.
 - **[Poison](poison.md)**: Touch deals 1d3 Con damage 1/round for 6 rounds.
@@ -525,11 +545,13 @@ Occultists gain access to the following spells, determined by their chosen imple
 - **[Red Hand of the Killer](red-hand-of-the-killer.md)**: Stain the hand of a creature’s killer red.
 - **[Symbol of Fear](symbol-of-fear.md)**: Triggered rune panics nearby creatures.
 - **[Symbol of Pain](symbol-of-pain.md)**: Triggered rune wracks creatures with pain.
+- **[Torpid Reanimation](torpid-reanimation.md)**: *Animate dead* when a specific trigger condition occurs.
 
 **Transmutation**:
 
 - **[Age Resistance](age-resistance.md)**: Ignore penalties from old age.
 - **[Air Walk](air-walk.md)**: Subject treads on air as if solid (climb or descend at 45-degree angle).
+- **[Assume Appearance, Greater](assume-appearance-greater.md)**: Use a likeness to adopt a dead creature’s form.
 - **[Darkvision, Greater](darkvision-greater.md)**: See 120 ft. in total darkness.
 - **[Echolocation](echolocation.md)**: Sonic sense gives you blindsight 40 ft.
 - Magic Siege Engine, Greater
@@ -539,7 +561,9 @@ Occultists gain access to the following spells, determined by their chosen imple
 - **[Parchment Swarm](parchment-swarm.md)**
 - **[Planar Adaptation](planar-adaptation.md)**: Resist harmful effects of other plane.
 - **[Rapid Repair](rapid-repair.md)**: Construct gains fast healing 5.
+- **[Rigor Mortis](rigor-mortis.md)**: Painfully swell a target’s joints.
 - **[Rusting Grasp](rusting-grasp.md)**: Your touch corrodes iron and alloys.
+- **[Slough](slough.md)**: Slough off a target’s skin.
 - **[Treasure Stitching](treasure-stitching.md)**
 
 ## 5th-Level Occultist Spells
@@ -565,6 +589,7 @@ Occultists gain access to the following spells, determined by their chosen imple
 - **[Battlemind Link](battlemind-link.md)**: You and an ally gain attack and AC bonuses.
 - **[Commune](commune.md)**: Deity answers one yes-or-no question/level.
 - Find Quarry
+- **[Locate Gate](locate-gate.md)**: Find a nearby magical portal.
 - **[Prying Eyes](prying-eyes.md)**: 1d4 + 1/level floating eyes scout for you.
 - **[Remote Viewing](remote-viewing.md)**: Gain psychic impressions from a distant location.
 - **[True Seeing](true-seeing.md)**: Lets you see all things as they really are.
@@ -665,6 +690,7 @@ Occultists gain access to the following spells, determined by their chosen imple
 - **[Blade Barrier](blade-barrier.md)**: Wall of blades deals 1d6/level damage.
 - **[Chain Lightning](chain-lightning.md)**: 1d6/level damage and 1 secondary bolt/level.
 - **[Cold Ice Strike](cold-ice-strike.md)**: Cone of ice slivers deals 1d6 cold/level.
+- **[Contact Entity IV](contact-entity-iv.md)**: Ask extraordinarily powerful eldritch entities to find and converse with you, or they may reply telepathically.
 - **[Contagious Flame](contagious-flame.md)**: Scorching rays cause 4d6 fire damage, then move on to new targets.
 - **[Contingency](contingency.md)**: Sets trigger condition for another spell.
 - **[Forceful Hand](forceful-hand.md)**: Hand pushes creatures away.
@@ -681,6 +707,7 @@ Occultists gain access to the following spells, determined by their chosen imple
 
 - **[Harm](harm.md)**: Deals 10 points/level damage to target.
 - **[Inflict Moderate Wounds, Mass](inflict-moderate-wounds-mass.md)**: Deals 2d8 damage + 1/level, affects 1 subject/level.
+- **[Plundered Power](plundered-power.md)**: Kill a creature and steal its strongest spell-like ability.
 - **[Possession, Greater](possession-greater.md)**: As possession, but your body vanishes.
 - **[Symbol of Death](symbol-of-death.md)**: Triggered rune kills nearby creatures.
 - **[Temporary Resurrection](temporary-resurrection.md)**: Bring a creature to life for 24 hours, after which it dies again.

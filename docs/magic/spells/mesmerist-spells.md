@@ -116,6 +116,7 @@ Mesmerists gain access to the following spells. Spells without a link come from 
 ## 2nd-Level Mesmerist Spells
 
 - Agonizing Rebuke
+- **[Absurdity](absurdity.md)**: Threats seem like a ridiculous farce.
 - **[Alter Self](alter-self.md)**: Assume form of a Small or Medium humanoid.
 - **[Animal Messenger](animal-messenger.md)**: Sends a Tiny animal to a specific place.
 - **[Animal Trance](animal-trance.md)**: Fascinates 2d6 HD of animals.
@@ -199,6 +200,7 @@ Mesmerists gain access to the following spells. Spells without a link come from 
 - **[Placebo Effect](placebo-effect.md)**: Temporarily suppress an affliction or condition.
 - **[Pyrotechnics](pyrotechnics.md)**: Turns fire into blinding light or thick smoke.
 - Qualm
+- **[Quick Change](quick-change.md)**: Use change shape as a swift action and surprise foes.
 - **[Rage](rage.md)**: Gives +2 to Str and Con, +1 on Will saves, –2 to AC.
 - **[Reckless Infatuation](reckless-infatuation.md)**: Target is compelled to stay near another.
 - **[Restoration, Lesser](restoration-lesser.md)**: Dispels magical ability penalty or repairs 1d4 ability damage.
@@ -206,6 +208,7 @@ Mesmerists gain access to the following spells. Spells without a link come from 
 - **[Scare](scare.md)**: Frightens creature of less than 6 HD.
 - Shadow Anchor
 - Share Language, Communal
+- **[Sense Fear](sense-fear.md)**: Perceive nearby creatures that are experiencing fear.
 - **[Shamefully Overdressed](shamefully-overdressed.md)**: Force target to remove equipment.
 - **[Share Memory](share-memory.md)**: Share one memory with the target.
 - **[Shifted Steps](shifted-steps.md)**: Make a target sound as if elsewhere.
@@ -231,7 +234,9 @@ Mesmerists gain access to the following spells. Spells without a link come from 
 - Agonizing Rebuke
 - **[Alpha Instinct](alpha-instinct.md)**: Gain bonuses when you’re interacting with animals.
 - **[Analyze Aura](analyze-aura.md)**: Read a creature’s or an object’s alignment, emotion, health, and magic auras.
+- **[Appearance of Life](appearance-of-life.md)**: Undead appear to be alive.
 - **[Apport Animal](apport-animal.md)**: Send or receive a Tiny or smaller animal via teleportation.
+- **[Assume Appearance](assume-appearance.md)**: Use a creature’s corpse to adopt its form.
 - **[Audiovisual Hallucination](audiovisual-hallucination.md)**: Create a phantasm with auditory and visual effects.
 - **[Aura Alteration](aura-alteration.md)**: Masks a creature’s or an object’s alignment, emotion, health, and magic auras.
 - **[Aura of the Unremarkable](aura-of-the-unremarkable.md)**: Make actions seem mundane to nearby creatures.
@@ -253,6 +258,7 @@ Mesmerists gain access to the following spells. Spells without a link come from 
 - **[Dispel Magic](dispel-magic.md)**: Cancels one magical spell or effect.
 - **[Displacement](displacement.md)**: Attacks miss subject 50% of the time.
 - **[Dominate Animal](dominate-animal.md)**: One animal obeys your silent mental commands and orders.
+- **[Dreadscape](dreadscape.md)**: Surroundings and unfamiliar creatures seem like something out of a nightmare.
 - **[Elemental Speech](elemental-speech.md)**: Enables you to speak to elementals and some creatures.
 - **[Enchantment Foil](enchantment-foil.md)**
 - **[False Future](false-future.md)**: Cause divinations of the future to reveal the result you choose.
@@ -312,6 +318,7 @@ Mesmerists gain access to the following spells. Spells without a link come from 
 ## 4th-Level Mesmerist Spells
 
 - **[Arcane Eye](arcane-eye.md)**: Invisible floating eye moves 30 ft./round.
+- **[Assume Appearance, Greater](assume-appearance-greater.md)**: Use a likeness to adopt a dead creature’s form.
 - **[Battlemind Link](battlemind-link.md)**: You and an ally gain attack and AC bonuses.
 - **[Break Enchantment](break-enchantment.md)**: Frees subjects from enchantments, transmutations, and curses.
 - **[Charm Person, Mass](charm-person-mass.md)**: As *charm person*, but affects multiple creatures within 30 ft.
@@ -337,10 +344,13 @@ Mesmerists gain access to the following spells. Spells without a link come from 
 - **[Hallucinatory Terrain](hallucinatory-terrain.md)**: Makes one type of terrain appear like another (field as forest, or the like).
 - **[Hold Monster](hold-monster.md)**: As *hold person*, but any creature.
 - Hostile Juxtaposition
+- **[Horrific Doubles](horrific-doubles.md)**: Call forth disturbing *mirror images*.
 - **[Illusion of Treachery, Greater](illusion-of-treachery-greater.md)**: Make it seem like another is responsible for your attacks while concealing your own actions.
 - **[Illusory Wall](illusory-wall.md)**: Wall, floor, or ceiling looks real, but anything can pass through.
+- **[Impossible Angles](impossible-angles.md)**: Distort geometry in an area.
 - **[Invisibility, Greater](invisibility-greater.md)**: As invisibility, but subject can attack and stay invisible.
 - **[Locate Creature](locate-creature.md)**: Indicates direction to familiar creature.
+- **[Mad Sultan’s Melody](mad-sultans-melody.md)**: Bizarre cacophony fascinates eldritch creatures.
 - **[Majestic Image](majestic-image.md)**: As *enter image*, but also gain bonuses on social skills while in the image.
 - **[Mind Probe](mind-probe.md)**: Learn answers from a subject’s memories.
 - **[Mindwipe](mindwipe.md)**: Erase a portion of the target’s mind and experiences, inflicting negative levels.
@@ -348,6 +358,8 @@ Mesmerists gain access to the following spells. Spells without a link come from 
 - **[Modify Memory](modify-memory.md)**: Changes 5 minutes of subject’s memories.
 - Nondetection, Communal
 - Old Salt’s Curse
+- **[Pessimism](pessimism.md)**: Force a creature to see the negative side of things.
+- **[Phantasmal Asphyxiation](phantasmal-asphyxiation.md)**: Trick a creature into thinking it can’t breathe.
 - **[Phantasmal Killer](phantasmal-killer.md)**: Fearsome illusion kills subject or deals 3d6 damage.
 - **[Poison](poison.md)**: Touch deals 1d3 Con damage 1/round for 6 rounds.
 - **[Primal Scream](primal-scream.md)**: Free yourself from enchantments and paralysis effects.
@@ -357,6 +369,7 @@ Mesmerists gain access to the following spells. Spells without a link come from 
 - **[Shadow Conjuration](shadow-conjuration.md)**: Mimics conjuration below 4th level, but only 20% real.
 - Shocking Image
 - **[Sleepwalk](sleepwalk.md)**
+- **[Sleepwalking Suggestion](sleepwalking-suggestion.md)**: Cause a creature to perform a suggested action while asleep.
 - **[Solid Fog](solid-fog.md)**: Blocks vision and slows movement.
 - Steal Power
 - **[Synapse Overload](synapse-overload.md)**: Deal 1d6 points of damage per level and stagger target for 1 minute.
@@ -373,7 +386,9 @@ Mesmerists gain access to the following spells. Spells without a link come from 
 ## 5th-Level Mesmerist Spells
 
 - **[Castigate, Mass](castigate-mass.md)**: As castigate, but affects multiple creatures.
+- **[Charnel House](charnel-house.md)**: Create an area of semi-real gore.
 - **[Cloak of Dreams](cloak-of-dreams.md)**: Creatures within 5 ft. fall asleep.
+- **[Compelling Rant](compelling-rant.md)**: People believe your ridiculous speech as long as you keep talking.
 - **[Crime Wave](crime-wave.md)**: Compel targets to commit criminal actions.
 - **[Dream Council](dream-council.md)**: Communicate with multiple sleeping creatures.
 - **[Dream Scan](dream-scan.md)**: Read a dreaming creature’s thoughts.
@@ -394,7 +409,9 @@ Mesmerists gain access to the following spells. Spells without a link come from 
 - **[Object Possession](object-possession.md)**: As lesser object possession, but with a larger object.
 - **[Passwall](passwall.md)**: Creates passage through wood or stone wall.
 - **[Persistent Image](persistent-image.md)**: As *major image*, but with no concentration required.
+- **[Phantasmal Putrefaction](phantasmal-putrefaction.md)**: Trick creatures into thinking their flesh is rotting.
 - **[Phantasmal Web](phantasmal-web.md)**: Catches subjects in illusory web.
+- **[Phobia](phobia.md)**: Induce an irrational fear in a creature to the point of madness.
 - **[Possession](possession.md)**: Project your soul into a creature’s body.
 - **[Pox of Rumors](pox-of-rumors.md)**: Curse a creature to attract nasty rumors.
 - **[Primal Regression](primal-regression.md)**: Make a creature become bestial and unintelligent.
@@ -434,6 +451,7 @@ Mesmerists gain access to the following spells. Spells without a link come from 
 - **[Invisibility, Mass](invisibility-mass.md)**: As *invisibility*, but affects all in range.
 - **[Irresistible Dance](irresistible-dance.md)**: Forces subject to dance.
 - **[Life of Crime](life-of-crime.md)**: Permanently turn someone into a crazed criminal.
+- **[Night Terrors](night-terrors.md)**: Disturb a creature’s rest with dark dreams.
 - **[Overwhelming Presence](overwhelming-presence.md)**: Creatures bow before you as if you were divine.
 - **[Permanent Image](permanent-image.md)**: Permanent illusion, includes sight, sound, smell, and thermal effects.
 - **[Phantasmal Revenge](phantasmal-revenge.md)**: Ghost from corpse hunts killer.

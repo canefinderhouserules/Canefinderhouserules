@@ -46,6 +46,7 @@ Spiritualists gain access to the following spells. Spells without a link come fr
 - **[Endure Elements](endure-elements.md)**: Exist comfortably in hot or cold regions.
 - **[Expeditious Retreat](expeditious-retreat.md)**: Your base speed increases by 30 ft.
 - **[Feather Fall](feather-fall.md)**: Objects or creatures fall slowly.
+- **[Grasping Corpse](grasping-corpse.md)**: Cause a corpse to grab or trip a foe.
 - **[Identify](identify.md)**: Gives +10 bonus to identify magic items.
 - **[Inflict Light Wounds](inflict-light-wounds.md)**: Touch deals 1d8 damage +1/level (max +5).
 - **[Mage Armor](mage-armor.md)**: Gives subject +4 armor bonus.
@@ -71,10 +72,13 @@ Spiritualists gain access to the following spells. Spells without a link come fr
 
 ## 2nd-Level Spiritualist Spells
 
+- **[Absurdity](absurdity.md)**: Threats seem like a ridiculous farce.
 - **[Aid](aid.md)**: +1 on attack rolls and saves against fear, 1d8 temporary hp +1/level (max +10).
 - **[Animate Dead, Lesser](animate-dead-lesser.md)**: Create one skeleton or zombie.
 - **[Augury](augury.md)**: Learns whether an action will be good or bad.
+- **[Bloodbath](bloodbath.md)**: Cause yourself and enemies to bleed.
 - **[Blur](blur.md)**: Attacks miss subject 20% of the time.
+- **[Boneshaker](boneshaker.md)**: Momentarily control a living or undead creature’s skeleton.
 - **[Calm Spirit](calm-spirit.md)**: Postpone hostile action by a haunt or incorporeal undead.
 - **[Catatonia](catatonia.md)**: Make a willing target appear to be dead.
 - **[Cure Moderate Wounds](cure-moderate-wounds.md)**: Cures 2d8 damage +1/level (max. +10).
@@ -102,11 +106,13 @@ Spiritualists gain access to the following spells. Spells without a link come fr
 - **[Protection from Arrows](protection-from-arrows.md)**: Subject gains DR 10/magic against ranged attacks.
 - **[Protective Penumbra](protective-penumbra.md)**: Shadow protects the target from light.
 - **[Purge Spirit](purge-spirit.md)**: Deal 1d6 points of damage per level to one haunt or spirit creature and stagger it.
+- **[Quick Change](quick-change.md)**: Use change shape as a swift action and surprise foes.
 - **[Remove Paralysis](remove-paralysis.md)**: Frees creatures from paralysis or *slow* effect.
 - **[Resist Energy](resist-energy.md)**: Ignores 10 (or more) points of damage/attack from specified energy type.
 - **[Restoration, Lesser](restoration-lesser.md)**: Dispels magical ability penalty or repairs 1d4 ability damage.
 - **[Scare](scare.md)**: Frightens creature of less than 6 HD.
 - **[See Invisibility](see-invisibility.md)**: Reveals invisible creatures or objects.
+- **[Sense Fear](sense-fear.md)**: Perceive nearby creatures that are experiencing fear.
 - **[Shifted Steps](shifted-steps.md)**: Make a target sound as if elsewhere.
 - **[Spectral Hand](spectral-hand.md)**: Creates disembodied glowing hand to deliver touch attacks.
 - **[Spiritual Weapon](spiritual-weapon.md)**: Magic weapon attacks on its own.
@@ -122,6 +128,8 @@ Spiritualists gain access to the following spells. Spells without a link come fr
 
 - **[Analyze Aura](analyze-aura.md)**: Read a creature’s or an object’s alignment, emotion, health, and magic auras.
 - **[Animate Dead](animate-dead.md)**: Creates undead skeletons and zombies out of corpses.
+- **[Appearance of Life](appearance-of-life.md)**: Undead appear to be alive.
+- **[Assume Appearance](assume-appearance.md)**: Use a creature’s corpse to adopt its form.
 - **[Aura Sight](aura-sight.md)**: Alignment auras become visible to you.
 - **[Bestow Curse](bestow-curse.md)**: –6 to an ability score; –4 on attack rolls, saves, and checks; or 50% chance of losing each action.
 - **[Blindness/Deafness](blindness-deafness.md)**: Makes subject blind or deaf.
@@ -136,6 +144,7 @@ Spiritualists gain access to the following spells. Spells without a link come fr
 - **[Displacement](displacement.md)**: Attacks miss subject 50% of the time.
 - **[Ectoplasmic Snare](ectoplasmic-snare.md)**: Tendril of ectoplasm grapples a creature and tethers you to it.
 - **[Ethereal Fists](ethereal-fists.md)**: Your claws, unarmed strikes, and touch spells affect ethereal creatures.
+- **[Flesh Puppet](flesh-puppet.md)**: Control a zombie in human guise.
 - **[Fly](fly.md)**: Subject flies at speed of 60 ft.
 - **[Force Punch](force-punch.md)**: Target takes 1d4 force damage per level and is pushed away.
 - **[Gaseous Form](gaseous-form.md)**: Subject becomes insubstantial and can fly slowly.
@@ -167,6 +176,7 @@ Spiritualists gain access to the following spells. Spells without a link come fr
 - **[Remove Curse](remove-curse.md)**: Frees object or person from curse.
 - **[Remove Disease](remove-disease.md)**: Cures all diseases affecting subject.
 - **[Riding Possession](riding-possession.md)**: As possession, but you observe instead of control the subject.
+- **[Rigor Mortis](rigor-mortis.md)**: Painfully swell a target’s joints.
 - **[Sands of Time](sands-of-time.md)**: Target temporarily ages.
 - **[Sealed Life](sealed-life.md)**: Prevent a creature from transferring life force to or from others.
 - **[Seek Thoughts](seek-thoughts.md)**: Detects thinking creatures’ thoughts.
@@ -184,11 +194,13 @@ Spiritualists gain access to the following spells. Spells without a link come fr
 - **[Unliving Rage](unliving-rage.md)**
 - **[Vampiric Touch](vampiric-touch.md)**: Touch deals 1d6 damage/2 levels; caster gains damage as temporary hp.
 - **[Voluminous Vocabulary](voluminous-vocabulary.md)**: Grant ability to speak, read, and write one or more languages for 8 hours.
+- **[Waves of Blood](waves-of-blood.md)**: A cone of blood pushes creatures, sickens them, and makes the ground slick.
 - **[Wind Wall](wind-wall.md)**: Deflects arrows, smaller creatures, and gases.
 
 ## 4th-Level Spiritualist Spells
 
 - **[Anti-Incorporeal Shell](anti-incorporeal-shell.md)**: Incorporeal creatures stay 10 ft. away from you.
+- **[Assume Appearance, Greater](assume-appearance-greater.md)**: Use a likeness to adopt a dead creature’s form.
 - **[Aura Alteration](aura-alteration.md)**: Masks a creature’s or an object’s alignment, emotion, health, and magic auras.
 - **[Aura of Doom](aura-of-doom.md)**: Creatures in your aura become shaken.
 - **[Bestow Curse](bestow-curse.md)**: –6 to an ability score; –4 on attack rolls, saves, and checks; or 50% chance of losing each action.
@@ -199,6 +211,7 @@ Spiritualists gain access to the following spells. Spells without a link come fr
 - **[Cure Critical Wounds](cure-critical-wounds.md)**: Cures 4d8 damage + 1/level (max +20).
 - **[Death Ward](death-ward.md)**: Grants bonuses against death spells and negative energy.
 - Debilitating Portent
+- **[Decollate](decollate.md)**: A target can safely remove its head.
 - **[Detect Scrying](detect-scrying.md)**: Alerts you to magical eavesdropping
 - **[Dimension Door](dimension-door.md)**: Teleports you a short distance.
 - **[Dimensional Anchor](dimensional-anchor.md)**: Bars extradimensional movement.
@@ -211,9 +224,11 @@ Spiritualists gain access to the following spells. Spells without a link come fr
 - **[False Future](false-future.md)**: Cause divinations of the future to reveal the result you choose.
 - **[False Life, Greater](false-life-greater.md)**: Gain 2d10 temporary hp + 1/level.
 - **[Fear](fear.md)**: Subjects within cone flee for 1 round/level.
+- **[Flesh Puppet Horde](flesh-puppet-horde.md)**: Control multiple zombies in human guise.
 - **[Freedom of Movement](freedom-of-movement.md)**: Subject moves normally despite impediments to movement.
 - **[Ghost Brand](ghost-brand.md)**: Allow an item to transform into a brand and back.
 - **[Hollow Heroism](hollow-heroism.md)**: Provide a *heroism* effect that you can reverse at any time.
+- **[Hunger for Flesh](hunger-for-flesh.md)**: Give a creature a bite attack and a hunger for its own kind’s flesh.
 - **[Imbue with Spell Ability](imbue-with-spell-ability.md)**: Transfer spells to subject.
 - **[Inflict Critical Wounds](inflict-critical-wounds.md)**: Touch attack, 4d8 damage + 1/level (max +20).
 - **[Invisibility, Greater](invisibility-greater.md)**: As invisibility, but subject can attack and stay invisible.
@@ -223,6 +238,7 @@ Spiritualists gain access to the following spells. Spells without a link come fr
 - **[Mindwipe](mindwipe.md)**: Erase a portion of the target’s mind and experiences, inflicting negative levels.
 - **[Mirror Transport](mirror-transport.md)**
 - **[Neutralize Poison](neutralize-poison.md)**: Immunizes subject against poison, detoxifies venom in or on subject.
+- **[Phantasmal Asphyxiation](phantasmal-asphyxiation.md)**: Trick a creature into thinking it can’t breathe.
 - **[Phantasmal Killer](phantasmal-killer.md)**: Fearsome illusion kills subject or deals 3d6 damage.
 - Phantom Chariot
 - Phantom Steed, Communal
@@ -233,6 +249,7 @@ Spiritualists gain access to the following spells. Spells without a link come fr
 - **[Restoration](restoration.md)**: Restores level and ability score drains.
 - **[Shadow Conjuration](shadow-conjuration.md)**: Mimics conjuration below 4th level, but only 20% real.
 - **[Shadow Step](shadow-step.md)**: Teleport from one shadow to another.
+- **[Slough](slough.md)**: Slough off a target’s skin.
 - **[Solid Fog](solid-fog.md)**: Blocks vision and slows movement.
 - **[Speak with Haunt](speak-with-haunt.md)**: Haunt answers one question/2 levels.
 - **[Spell Immunity](spell-immunity.md)**: Subject is immune to one spell per 4 levels.
@@ -242,6 +259,7 @@ Spiritualists gain access to the following spells. Spells without a link come fr
 - **[Telekinetic Maneuver](telekinetic-maneuver.md)**: Perform a telekinetic combat maneuver.
 - **[Terrible Remorse](terrible-remorse.md)**: Creature is compelled to harm itself.
 - **[Thoughtsense](thoughtsense.md)**: Automatically detect nearby conscious creatures.
+- **[Torpid Reanimation](torpid-reanimation.md)**: *Animate dead* when a specific trigger condition occurs.
 - **[Vicarious View](vicarious-view.md)**: Plant a scrying sensor that you can use to spy on a creature, object, or location.
 - **[Vigilant Rest](vigilant-rest.md)**: Cause a sleeping creature to retain some perception of its surroundings.
 
@@ -263,6 +281,7 @@ Spiritualists gain access to the following spells. Spells without a link come fr
 - **[Feast on Fear](feast-on-fear.md)**: Targets are panicked, and you gain temporary hit points.
 - **[Feeblemind](feeblemind.md)**: Subject’s Int and Cha drop to 1.
 - **[Fickle Winds](fickle-winds.md)**: Wind walls selectively block attacks.
+- **[Flesh Wall](flesh-wall.md)**: Create a wall of zombies.
 - **[Foster Hatred](foster-hatred.md)**: Cause creatures to hate one type of creature.
 - **[Glimpse of Truth](glimpse-of-truth.md)**: Gain *true seeing* for 1 round.
 - **[Incorporeal Chains](incorporeal-chains.md)**: Grapple incorporeal creatures and deal damage equal to 1d8 + Int.
@@ -297,9 +316,11 @@ Spiritualists gain access to the following spells. Spells without a link come fr
 - **[Wall of Sound](wall-of-sound.md)**: Sonic wall def lects and damages creatures.
 - **[Waves of Fatigue](waves-of-fatigue.md)**: Several targets become fatigued.
 - **[Withdraw Affliction](withdraw-affliction.md)**: Remove an affliction and inflict it on another creature.
+- **[Wither Limb](wither-limb.md)**: Make one of the target’s limbs useless.
 
 ## 6th-Level Spiritualist Spells
 
+- **[Alleviate Corruption](alleviate-corruption.md)**: Attempt to weaken a corruption’s effect at risk to yourself.
 - **[Analyze Dweomer](analyze-dweomer.md)**: Reveals magical aspects of subject.
 - **[Banishment](banishment.md)**: Banishes 2 HD/level of extraplanar creatures.
 - **[Banshee Blast](banshee-blast.md)**
@@ -315,6 +336,7 @@ Spiritualists gain access to the following spells. Spells without a link come fr
 - **[Harm](harm.md)**: Deals 10 points/level damage to target.
 - **[Heal](heal.md)**: Cures 10 points/level damage, all diseases and mental conditions.
 - **[Heroism, Greater](heroism-greater.md)**: Gives +4 bonus on attack rolls, saves, skill checks; immunity to fear; temporary hp.
+- **[Hunger for Flesh, Mass](hunger-for-flesh-mass.md)**: Give creatures bite attacks and a hunger for their own kind’s flesh.
 - **[Leashed Shackles](leashed-shackles.md)**
 - **[Legend Lore](legend-lore.md)**: Lets you learn tales about a person, place, or thing.
 - **[Mislead](mislead.md)**: Turns you invisible and creates illusory double.
