@@ -1,0 +1,13 @@
+nav:
+  - index.md
+  - Capital and Downtime Phases: capital-and-phases.md
+  - Downtime Activities: activities.md
+  - Managers: managers.md
+  - Rooms and Teams:
+      - rooms-and-teams.md
+      - Rooms: rooms.md
+      - Teams: teams.md
+  - Buildings: buildings.md
+  - Organizations: organizations.md
+  - Downtime Events: events.md
+  - Organization Events: organization-events.md

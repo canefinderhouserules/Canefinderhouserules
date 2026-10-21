@@ -29,10 +29,10 @@ When determining your conflict, you accumulate a number of Conflict Points (CP).
 
 | Track position | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 |
 |---|---|---|---|---|---|---|---|---|---|
-| Good–evil track | Good | Good | Good | Good | Neutral | Evil | Evil | Evil | Evil |
-| Law–chaos track | Lawful | Lawful | Lawful | Lawful | Neutral | Chaotic | Chaotic | Chaotic | Chaotic |
+| Good–evil track | Good | Good | Good | Neutral | Neutral | Neutral | Evil | Evil | Evil |
+| Law–chaos track | Lawful | Lawful | Lawful | Neutral | Neutral | Neutral | Chaotic | Chaotic | Chaotic |
 
-This determines how the conflict ultimately affected your alignment and to what extent. If you are using the rules for changing your alignment in Chapter 3, this also determines your starting place on the alignment track. If you start with 0 CP on either track, assume you start at 1 on the track for those rules.
+This determines how the conflict ultimately affected your alignment and to what extent. If you are using the rules for [changing your alignment](campaign-systems/alignment.md), this also determines your starting place on the alignment track. If you start with 0 CP on either track, assume you start at 1 on the track for those rules.
 
 ### Conflicts
 
@@ -129,7 +129,11 @@ Once you determine the nature and CP for the event, the next step is to determin
 
 ### Deity and Religious Philosophy
 
-Once you have determined your alignment, choose a deity or religious philosophy. Association with a specific deity gives you access to a related religion trait. Even if you are not interested in your character being associated with a deity, you can choose “No Deity” or “Undecided” granting you access to abilities outside the realm of faith. **Abadar**: Eyes and Ears **Asmodeus**: Asmodean Demon Hunter **Cayden Cailean**: Fortified Drinker **Calistria**: Calistrian Courtesan **Desna**: Starchild **Erastil**: Patient Optimist **Gorum**: Veteran of Battle **Gozreh**: Child of Nature **Iomedae**: Divine Warrior **Irori**: Wisdom in the Flesh **Lamashtu**: Voice of Monsters **Nethys**: Magic Is Life **Norgorber**: Shadow Whispers **Pharasma**: Undead Slayer **Rovagug**: Wrecking Wrath **Sarenrae**: Flame of the Dawnf lower **Shelyn**: Ear for Music **Torag**: Guardian of the Forge **Urgathoa**: Corpse Cannibal **Zon-Kuthon**: Pain Is Pleasure **No Deity**: Even in a world filled with the powers of the divine, you have decided to follow reason, put your faith in the potential of mortals, or otherwise invest in the ways of the material world instead of embracing the teachings of deities. You gain access to the Tireless Logic social trait. **Undecided**: You have remained undecided when it comes to your faith, but are accepting of others’ faiths and are at least somewhat open to the idea of joining an organized faith should you find one that strikes your fancy. You gain access to the Ease of Faith faith trait.
+Once you have determined your alignment, choose a deity from your campaign’s pantheon or a religious philosophy. Association with a specific deity gives you access to a related religion trait. Even if you are not interested in your character being associated with a deity, you can choose “No Deity” or “Undecided” granting you access to abilities outside the realm of faith. See the [religion traits](../../characters/traits/religion-traits.md) for the trait that matches your deity.
+
+**No Deity**: Even in a world filled with the powers of the divine, you have decided to follow reason, put your faith in the potential of mortals, or otherwise invest in the ways of the material world instead of embracing the teachings of deities. You gain access to the Tireless Logic social trait.
+
+**Undecided**: You have remained undecided when it comes to your faith, but are accepting of others’ faiths and are at least somewhat open to the idea of joining an organized faith should you find one that strikes your fancy. You gain access to the Ease of Faith faith trait.
 
 ### Romantic Relationships
 
