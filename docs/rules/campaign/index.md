@@ -8,3 +8,5 @@ This section collects the rules that help the GM and players build the story aro
 The [downtime rules](downtime/index.md) cover capital, downtime activities, managers, and building rooms, teams, buildings, organizations, and the random events that affect them.
 
 The [campaign systems](campaign-systems/index.md) are optional modules for alignment, bargaining, companions, contacts, exploration, honor, investment, lineage, magic item creation, relationships, reputation, retirement, retraining, taxation, and young characters.
+
+The [kingdoms and war rules](kingdoms-and-war/index.md) cover founding and running a kingdom (leadership roles, build points, the kingdom turn, edicts, terrain improvements, settlements, buildings and events), optional kingdom rules, mass combat, and sample armies.
