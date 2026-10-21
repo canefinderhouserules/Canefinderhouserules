@@ -156,7 +156,7 @@ With the smallest area to protect, arm armor pieces tend to have the lowest armo
 
 **Kikko Arm Armor Piece**: This arm armor piece consists of sleeves of leather reinforced by hexagonal plates made from iron.
 
-**Kusari Gusoku Arm Armor Piece**: This arm armor piece is constructed oflight lamellar shoulder guards and lacquered sleeves.
+**Kusari Gusoku Arm Armor Piece**: This arm armor piece is constructed of light lamellar shoulder guards and lacquered sleeves.
 
 **Leather Arm Armor Piece**: This arm armor piece consists of sleeves of hard-boiled leather that are carefully sewn together.
 
@@ -265,7 +265,7 @@ Iron Lamellar Leg Armor Piece: These leggings are constructed of a number of iro
 
 **Kikko Leg Armor Piece**: This leg armor piece is usually constructed of a leather skirt reinforced by hexagonal plates made from iron, and the legs are further protected by leather greaves reinforced with steel. Some versions of this leg armor piece consist of individual leather leggings reinforced by hexagonal plates.
 
-**Kusari Gusoku Leg Armor Piece**: This armor piece is constructed oflight lamellar thigh guards and quilted cloth or leather leggings.
+**Kusari Gusoku Leg Armor Piece**: This armor piece is constructed of light lamellar thigh guards and quilted cloth or leather leggings.
 
 **Leather Lamellar Leg Armor Piece**: This leg armor piece is constructed of a number of discrete hard-boiled leather plates laced together in parallel rows. They can take the form of a skirt or leggings.
 
@@ -291,7 +291,7 @@ When worn alone, or with only other quilted cloth pieces, you gain DR 3/— agai
 
 **Studded Leather Leg Armor Piece**: These leggings are constructed of hard-boiled leather carefully sewn together and reinforced with metal studs.
 
-**Tatami-Do Leg Armor Piece**: This armor piece is constructed oflight lamellar thigh guards and leggings.
+**Tatami-Do Leg Armor Piece**: This armor piece is constructed of light lamellar thigh guards and leggings.
 
 **Wooden Leg Armor Piece**: This armor piece consists of a pair of leggings or a skirt constructed of fire-treated wood sewn over leather.
 

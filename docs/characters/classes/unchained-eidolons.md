@@ -263,7 +263,7 @@ At 20th level, an air elemental eidolon gains the whirlwind ability, with a maxi
 
 ### Inevitable
 
-Implacable and ceaseless in their fight against chaos and those who break natural laws, inevitables make loyal, if literal-minded, companions for lawful summoners. Summoners ofinevitables generally get along well with axiomites, who share their understanding of the process of forging and modifying an inevitable. Inevitable eidolons appear as a mixture between clockwork constructs and idealized humanoid statues.
+Implacable and ceaseless in their fight against chaos and those who break natural laws, inevitables make loyal, if literal-minded, companions for lawful summoners. Summoners of inevitables generally get along well with axiomites, who share their understanding of the process of forging and modifying an inevitable. Inevitable eidolons appear as a mixture between clockwork constructs and idealized humanoid statues.
 
 **Alignment**: Lawful neutral.
 
