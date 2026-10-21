@@ -939,6 +939,7 @@ Feats from *Ultimate Combat*. Each name links to its full description.
 | [Fortified Armor Training](fortified-armor-training.md) | Combat | Proficient with armor or shield |
 | [Furious Finish](furious-finish.md) | — | Rage class feature, Vital Strike, base attack bonus +6 |
 | [Gory Finish](gory-finish.md) | Combat | Dazzling Display, Weapon Focus |
+| [Greater Called Shot](greater-called-shot.md) | Combat | Int 13, Combat Expertise, Improved Called Shot, base attack bonus +6 |
 | [Greater Channel Smite](greater-channel-smite.md) | — | Channel energy class feature, Channel Smite, base attack bonus +8 |
 | [Greater Rending Fury](greater-rending-fury.md) | Combat | Improved Rending Fury, Rending Fury, base attack bonus +12, rend special attack |
 | [Greater Snap Shot](greater-snap-shot.md) | Combat | Dex 17, Improved Snap Shot, Point-Blank Shot, Rapid Shot, Snap Shot, base attack bonus +12 |
@@ -956,6 +957,7 @@ Feats from *Ultimate Combat*. Each name links to its full description.
 | [Impact Critical Shot](impact-critical-shot.md) | Combat, Critical | Dex 13, Point-Blank Shot, base attack bonus +9 |
 | [Impaling Critical](impaling-critical.md) | Combat, Critical | Critical Focus, Weapon Specialization with selected piercing melee weapon, base attack bonus +11 |
 | [Improved Back to Back](improved-back-to-back.md) | Teamwork | Back to Back, Perception 5 ranks |
+| [Improved Called Shot](improved-called-shot.md) | Combat | Int 13, Combat Expertise |
 | [Improved Charging Hurler](improved-charging-hurler.md) | Combat | Charging Hurler, Point-Blank Shot |
 | [Improved Cleaving Finish](improved-cleaving-finish.md) | Combat | Str 13, Cleave, Cleaving Finish, Great Cleave, Power Attack, base attack bonus +6 |
 | [Improved Devastating Strike](improved-devastating-strike.md) | Combat | Devastating Strike, Vital Strike, base attack bonus +13 |
