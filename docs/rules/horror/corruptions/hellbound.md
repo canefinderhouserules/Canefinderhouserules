@@ -76,7 +76,7 @@ You learn secrets best kept from mortal minds.
 
 You can call upon Hell for clues about how to avoid your fate.
 
-**Gift**: Once per day, you can call upon the knowledge of Hell with 10 minutes of meditation. You gain the benefit of *guidance*, with a duration of 24 hours or until discharged. At higher manifestation levels, you can choose to gain the benefit of a different divination spell at the end of your meditation instead: *augury* at manifestation level 2nd, *divination* at manifestation level 4th, or *contact other plane* at manifestation level 6th (to consult Asmodeus or an intermediate deity).
+**Gift**: Once per day, you can call upon the knowledge of Hell with 10 minutes of meditation. You gain the benefit of *guidance*, with a duration of 24 hours or until discharged. At higher manifestation levels, you can choose to gain the benefit of a different divination spell at the end of your meditation instead: *augury* at manifestation level 2nd, *divination* at manifestation level 4th, or *contact other plane* at manifestation level 6th (to consult the ruler of Hell or an intermediate deity).
 
 **Stain**: Increase the DCs of Constitution checks you attempt to stabilize while dying, Heal checks targeting you, and caster level checks required for conjuration (healing) spells to benefit you by 2 (the DC increase applies on the caster level check required to raise you from the dead at corruption stage 1). At manifestation level 3rd, the DCs increase by 4 instead. Your soul flees immediately on death, so you can’t be revived by *breath of life*, the gift of life domain power, or any similar ability.
 
