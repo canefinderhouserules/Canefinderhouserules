@@ -96,7 +96,7 @@ Style feats are based on fighting styles suited to the brawler’s rough-and-tum
 
 ### Unarmed Fighting Styles (Ultimate Combat)
 
-multiverse to find inspiration in battle. Countless monastic and contemplative orders have crafted intricate unarmed fighting styles based on the deadliness and grace of natural and supernatural creatures. Although many such fighting techniques were created by secretive orders, they have since spread to practitioners the world over.
+For centuries, great warriors have looked to nature and the multiverse to find inspiration in battle. Countless monastic and contemplative orders have crafted intricate unarmed fighting styles based on the deadliness and grace of natural and supernatural creatures. Although many such fighting techniques were created by secretive orders, they have since spread to practitioners the world over.
 
 As a swift action, you can enter the stance employed by the fighting style a style feat embodies. Although you cannot use a style feat before combat begins, the style you are in persists until you spend a swift action to switch to a different combat style. You can use a feat that has a style feat as a prerequisite only while in the stance of the associated style. For example, if you have feats associated with Mantis Style and Tiger Style, you can use a swift action to adopt Tiger Style at the start of one turn, and then can use other feats that have Tiger Style as a prerequisite. By using another swift action at the start of your next turn, you could adopt Mantis Style and use other feats that have Mantis Style as a prerequisite.
 
