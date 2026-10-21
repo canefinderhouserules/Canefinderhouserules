@@ -193,3 +193,39 @@ A warpriest can select any two blessings. Each blessing is named after the domai
 **Storm Strike (minor)**: At 1st level, you can touch one weapon and grant it a blessing of stormy weather. For 1 minute, this weapon glows with blue or yellow sparks and deals an additional 1d4 points of electricity damage with each hit. This additional damage doesn't stack with the additional damage from the shock or shocking burst weapon special abilities.
 
 **Wind Barrier (major)**: At 10th level, you can create a barrier of fast winds around yourself for 1 minute. This acts as a wind wall on all sides of your square, protects you with feather fall, and doesn't interfere with your ranged attacks. ACIAL fAUOijED
+
+## Disaster Blessings
+
+Evil deities that offer the Air, Earth, Fire, and Water blessings or nonevil deities with disasters in their portfolios might also offer these disaster blessings as options for their warpriests.
+
+## Earthquake Blessing
+
+The fury of the quaking earth infuses your faith.
+
+**Stone’s Base (Minor)**: You can touch an ally to bless it with the stalwart resilience of stone. For 1 minute, the creature gains a +4 bonus to its CMD against maneuvers that would move the ally or knock it prone.
+
+**Earth Hammer (Major)**: At 10th level, you can touch a weapon to bless it with the force of a mighty earthquake for 1 minute. When the weapon hits a creature, the target must succeed at a Reflex save or fall prone; either way, the creature is immune to this ability for 24 hours.
+
+## Flood Blessing
+
+You see proof of your convictions in the churning waters of a flood.
+
+**Lasting Breath (Minor)**: You can touch an ally to bless it with an extra reserve of breath. For 1 minute, while the ally holds its breath, standard and full-round actions don’t decrease the number of rounds the ally can hold its breath.
+
+**Tsunami Burst (Major)**: At 10th level, when you are hit by a melee attack, you can invoke this blessing as an immediate action. A wave of water blasts out from you at your attacker, attempting a bull rush combat maneuver check using your CMB but adding your Wisdom modifier instead of your Strength modifier.
+
+## Tornado Blessing
+
+The howling wrath of a tornado inspires your religion.
+
+**Dust Devil (Minor)**: When you hit with a weapon attack, you can use a swift action to cause a sudden burst of wind and debris to swirl around your target. The target is dazzled for 1 minute.
+
+**Howling Gale (Major)**: At 10th level, you can invoke a howling windstorm around yourself as a standard action. For 1 minute, any Large or smaller creature takes twice as much movement to enter a space adjacent to you due to the winds, and thus can’t take a 5-foot step to move adjacent to you.
+
+## Wildfire Blessing
+
+In the flames of a wildfire you take inspiration.
+
+**Leaping Flames (Minor)**: You touch an ally to bless it with the speed of a wildfire for 1 minute. The ally gains a +10-foot enhancement bonus to its base speed, and the ally gains a +1 dodge bonus to its AC against attacks of opportunity.
+
+**Fiery Wake (Major)**: At 10th level, when you move, you can use a swift action to invoke a blazing blessing on yourself. For the rest of your turn, your movement leaves behind a 10-foot-tall wall of opaque fire in your path. The wall burns for 1 minute. A creature that touches the wall takes 2d6 points of fire damage.

@@ -92,19 +92,7 @@ Of all those who pursue the path of a kineticist, only leshykineticists are both
 
 ### Photokinetic Infusion
 
-*(Kineticist infusion wild talent)* Leshykineticists learn the following infusion automatically, but phytokineticists of all races can select it as an infusion.
-
-**Photokinetic Infusion**
-
-**Element** wood; **Type** substance infusion; **Level** 1; **Burn** 1
-
-**Prerequisite** positive blast
-
-**Associated Blasts** positive
-
-**Saving Throw** none
-
-Your blast damages living creatures with light. This deals normal damage to undead creatures but also deals minimum damage (1 point of damage per d6, can’t be increased by the 9th-level improvement to metakinesis) to living creatures. Undead creatures that are particularly vulnerable to sunlight, such as vampires, take 1 extra point of damage per die from the infused blast.
+Leshykineticists learn the photokinetic infusion automatically, but phytokineticists of all races can select it as an infusion. It is described with the [wood element](kineticist-wood.md#photokinetic-infusion) wild talents.
 
 ## Blighted Defiler
 

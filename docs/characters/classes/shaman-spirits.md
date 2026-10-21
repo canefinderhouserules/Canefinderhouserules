@@ -340,6 +340,44 @@ Wind S(ght (Su): The shaman ignores the penalties on Perception checks caused by
 
 **Manifestation**: Upon reaching 20th level, the shaman becomes a being of air and electricity. The shaman gains electricity resistance 30. She can also apply any one of the following feats to any air or electricity spell she casts without increasing the spell's level or casting time: Enlarge Spell, Extend Spell, Silent Spell, or Still Spell. She doesn't need to possess these feats to use this ability.
 
+## Wood
+
+A shaman who selects the wood spirit has a skin tone similar to the coloration of trees in her home region. Her vibrant hair is fragrant and resembles leaves and blossoms.
+
+**Spirit Magic Spells**: Shillelagh (1st), barkskin (2nd), minor creation (wood items only) (3rd), thorn body (4th), tree stride (5th), ironwood (6th), transmute metal to wood (7th), changestaff (8th), wooden phalanx (9th).
+
+**Hexes**: A shaman who chooses the wood spirit can select from the following hexes.
+
+**Hex of Lignification (Su)**: The shaman causes a creature within 30 feet to turn into a twisted, treelike shape for 2 rounds. The target gains hardness 5 but is staggered, and can negate the effect with a successful Fortitude saving throw. Whether or not the target succeeds at its save, it can’t be the target of this hex again for 24 hours.
+
+**Nature’s Gifts (Su)**: Once per day, the shaman can command trees and other plants to yield magical berries and fruit. This ability functions as goodberry, except the maximum number of hit points it can restore to a subject in a 24-hour period from this hex is equal to the shaman’s Charisma modifier (minimum 1 hit point per day).
+
+**Spines and Brambles (Su)**: With a beckoning gesture, the shaman conjures spiny shrubs in a number of squares equal to her Charisma modifier (minimum 1) within 30 feet. The squares become filled with light undergrowth. The shaman can pass through the affected squares without impediment. When the shaman uses this hex again, any previously conjured undergrowth withers away.
+
+**Verdant Path (Sp)**: Even the most tangled briars make way for the shaman, and suitable roots and branches appear to support her feet. The shaman gains woodland stride, as per the druid ability of the same name. At 8th level, she can use air walk at will whenever she is within 10 feet of a tree, though the effect ends instantly when she moves farther than 10 feet from a tree.
+
+**Whispering Leaves (Sp)**: Whenever the shaman is within 10 feet of a tree or undergrowth, she can cast whispering wind as a spell-like ability with a caster level equal to her shaman level. The targeted area must also contain trees or undergrowth, which relay the message in a gentle, rustling voice. At 8th level, the shaman can also listen to the targeted area as though she were using clairaudience/ clairvoyance for the 1 round during which the hex is delivering the message.
+
+**Spirit Animal**: The shaman’s spirit animal looks like a wooden figurine or a vaguely animal-shaped tree branch when it is motionless. The animal gains freeze as per the universal monster rule.
+
+**Spirit Ability**: A shaman who chooses the wood spirit as her spirit or wandering spirit gains the following ability.
+
+**Tree Limb (Su)**: As a swift action, the shaman can turn one of her arms into a heavy, branch-like limb. She must drop anything held in that hand, and she can’t use this ability if she is wearing a shield on that arm. Until the beginning of her next turn, she gains a slam attack that deals 1d8 points of damage (for a Medium shaman; 1d6 if Small, 2d6 if Large). A shaman can use this ability a number of times per day equal to 3 + her Charisma modifier.
+
+At 8th level, the reach of this slam attack increases by 5 feet. At 16th level, the shaman can transform both of her arms, gaining two slam attacks.
+
+**Greater Spirit Ability**: A shaman who chooses the wood spirit as her spirit or wandering spirit gains the following ability upon having access to the greater version of that spirit.
+
+**Bloody Roots (Sp)**: As a standard action, the shaman can cause a field of thick roots to burrow up from the ground. This ability functions as black tentacles with a caster level equal to the shaman’s level. The area is centered on the shaman when she activates the ability but remains stationary if she then moves. The shaman is unaffected by the roots. Her allies treat the area as difficult terrain, but the roots don’t attack them.
+
+The shaman can end the effect as a free action. She can use this ability a number of rounds per day equal to 3 + her Charisma modifier, but these rounds do not need to be consecutive.
+
+**True Spirit Ability**: A shaman who chooses the wood spirit as her spirit or wandering spirit gains the following ability upon having access to the true version of that spirit.
+
+**Tree Form (Sp)**: As a standard action, the shaman can assume the form of a plant creature as per plant shape III with a duration of 1 hour per level. She can use this ability once per day.
+
+**Manifestation**: Upon reaching 20th level, the shaman becomes a living creature of wood. She is forevermore treated as a plant creature rather than her original creature type for the purposes of spells and magical effects. Her skin takes on the appearance of polished wood grain, and she gains a +4 natural armor bonus to her Armor Class and damage reduction 10/— against wooden weapons and the natural attacks of wooden and wood-like creatures. She gains immunity to paralysis, poison, polymorph, sleep, and stun. At will, the shaman can meld with any tree or single block of wood (as per meld into stone, except she can meld only with wood and has no limit on how long she can remain in the wood).
+
 ## Spirit Animal
 
 By communing with the incredible powers of her spirit, the shaman forges a cherished bond with one specific servant of that spirit-known as a spirit animal. A spirit animal is a creature chosen by a shaman to serve as a conduit, allowing her to more fully access the magic of her spirit on a daily basis. The shaman's spirit animal also grants her special powers. This ability uses the same rules as the wizard's arcane bond class feature and is treated as a familiar (see pages 78 and 82 of the Core Rulebook), except as noted below.
