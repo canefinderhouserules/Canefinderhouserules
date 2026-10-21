@@ -2,10 +2,15 @@
 
 ## 1st-Level Ranger Spells
 
+- **[Abundant Ammunition](abundant-ammunition.md)**: Replaces nonmagical ammunition every round. Spells 6 Adoration: You gain a bonus on Diplomacy checks and performance combat checks.
+- **[Air Bubble](air-bubble.md)**: Creates a small pocket of air around your head or an object.
 - **[Alarm](alarm.md)**: Wards an area for 2 hours/level.
 - **[Animal Messenger](animal-messenger.md)**: Sends a Tiny animal to a specific place.
+- **[Bowstaff](bowstaff.md)**: A shortbow may double as a club, or a longbow as a quarterstaff.
 - **[Calm Animals](calm-animals.md)**: Calms 2d4 + level HD of animals.
 - **[Charm Animal](charm-animal.md)**: Makes one animal your friend.
+- **[Compel Hostility](compel-hostility.md)**: Compels opponents to attack you instead of your allies.
+- **[Deadeye’s Lore](deadeyes-lore.md)**: Gain a +4 bonus on Survival and move full speed while tracking.
 - **[Delay Poison](delay-poison.md)**: Stops poison from harming subject for 1 hour/level.
 - **[Detect Animals or Plants](detect-animals-or-plants.md)**: Detects kinds of animals or plants.
 - **[Detect Poison](detect-poison.md)**: Detects poison in one creature or object.
@@ -14,43 +19,66 @@
 - **[Entangle](entangle.md)**: Plants entangle everyone in 40-ft. radius.
 - **[Hide from Animals](hide-from-animals.md)**: Animals can’t perceive one subject/level.
 - **[Jump](jump.md)**: Subject gets bonus on Acrobatics checks.
+- **[Liberating Command](liberating-command.md)**: Target makes an Escape Artist check as an immediate action and gains a bonus on it.
+- **[Longshot](longshot.md)**: Grants a +10-foot bonus to the range increment for any ranged weapon fired.
 - **[Longstrider](longstrider.md)**: Your base speed increases by 10 ft.
 - **[Magic Fang](magic-fang.md)**: One natural weapon of subject creature gets +1 on attack and damage rolls.
 - **[Pass without Trace](pass-without-trace.md)**: One subject/level leaves no tracks.
 - **[Read Magic](read-magic.md)**: Read scrolls and spellbooks.
 - **[Resist Energy](resist-energy.md)**: Ignores 10 (or more) points of damage/attack from specified energy type.
+- **[Returning Weapon](returning-weapon.md)**: Grants a weapon the returning special weapon quality.
 - **[Speak with Animals](speak-with-animals.md)**: You can communicate with animals.
 - **[Summon Nature’s Ally I](summon-natures-ally-i.md)**: Summons creature to fight for you.
+- **[Sun Metal](sun-metal.md)**: Weapon touched bursts into flames.
 
 ## 2nd-Level Ranger Spells
 
+- **[Animal Aspect](animal-aspect.md)**: You gain some of the beneficial qualities of an animal.
+- **[Ant Haul, Communal](ant-haul-communal.md)**: As ant haul, but you may divide the duration among creatures touched.
 - **[Barkskin](barkskin.md)**: Grants +2 (or higher) enhancement to natural armor.
 - **[Bear’s Endurance](bears-endurance.md)**: Subject gains +4 to Con for 1 min./level.
+- **[Brow Gasher](brow-gasher.md)**: Slashing weapon deals bleed damage to an opponent’s head.
 - **[Cat’s Grace](cats-grace.md)**: Subject gains +4 to Dex for 1 min./level.
 - **[Cure Light Wounds](cure-light-wounds.md)**: Cures 1d8 damage + 1/level (max +5).
+- **[Effortless Armor](effortless-armor.md)**: Armor you wear no longer slows your speed.
+- **[Endure Elements, Communal](endure-elements-communal.md)**: As endure elements, but you may divide the duration among creatures touched.
+- **[Forest Friend](forest-friend.md)**: Plants in a forested area become helpful instead of hindering you and your allies.
 - **[Hold Animal](hold-animal.md)**: Paralyzes one animal for 1 round/level.
+- **[Locate Weakness](locate-weakness.md)**: You roll damage twice when you roll damage for a critical hit and take the best damage.
 - **[Owl’s Wisdom](owls-wisdom.md)**: Subject gains +4 to Wis for 1 min./level.
 - **[Protection from Energy](protection-from-energy.md)**: Absorbs 12 points/level of damage from one kind of energy.
+- **[Reloading Hands](reloading-hands.md)**: Loads a single shot into your weapon every round.
+- **[Returning Weapon, Communal](returning-weapon-communal.md)**: As returning weapon, but you may divide the duration among weapons touched.
+- **[Ricochet Shot](ricochet-shot.md)**: Imbues a projectile weapon to give its ammunition the ability to ricochet.
 - **[Snare](snare.md)**: Creates a magic booby trap.
 - **[Speak with Plants](speak-with-plants.md)**: You can talk to plants and plant creatures.
 - **[Spike Growth](spike-growth.md)**: Creatures in area take 1d4 damage, may be slowed*.*
 - **[Summon Nature’s Ally II](summon-natures-ally-ii.md)**: Summons creature to fight for you.
+- **[Water Walk, Communal](water-walk-communal.md)**: As water walk, but you may divide the duration among creatures touched.
+- **[Wilderness Soldiers](wilderness-soldiers.md)**: Nearby plants aid you in combat.
 - **[Wind Wall](wind-wall.md)**: Deflects arrows, smaller creatures, and gases.
 
 ## 3rd-Level Ranger Spells
 
+- **[Animal Aspect, Greater](animal-aspect-greater.md)**: As animal aspect, but you gain two animal qualities.
 - **[Apport Animal](apport-animal.md)**: Send or receive a Tiny or smaller animal via teleportation.
+- **[Burst of Speed](burst-of-speed.md)**: You gain increased speed, and your movement ignores attacks of opportunity and allows you to move through the space of creatures larger than you are.
 - **[Command Plants](command-plants.md)**: Sway the actions of plant creatures.
+- **[Companion Mind Link](companion-mind-link.md)**: You can talk with your animal companion, and can handle it with supernatural ease.
 - **[Cure Moderate Wounds](cure-moderate-wounds.md)**: Cures 2d8 damage +1/level (max. +10).
 - **[Darkvision](darkvision.md)**: See 60 ft. in total darkness.
+- **[Delay Poison, Communal](delay-poison-communal.md)**: As delay poison, but you may divide the duration among creatures touched.
 - **[Diminish Plants](diminish-plants.md)**: Reduces size or blights growth of normal plants.
 - **[Enshroud Thoughts](enshroud-thoughts.md)**: Ward yourself against thought detection and memory alteration.
 - **[Magic Fang, Greater](magic-fang-greater.md)**: One natural weapon gets + 1/four levels (max. +5).
+- **[Named Bullet](named-bullet.md)**: Imbues ammunition with accuracy against a specific creature type.
 - **[Neutralize Poison](neutralize-poison.md)**: Immunizes subject against poison, detoxifies venom in or on subject.
 - **[Plant Growth](plant-growth.md)**: Grows vegetation, improves crops.
+- **[Protection from Energy, Communal](protection-from-energy-communal.md)**: As protection from energy, but you may divide the duration among creatures touched.
 - **[Reduce Animal](reduce-animal.md)**: Shrinks one willing animal.
 - **[Remove Disease](remove-disease.md)**: Cures all diseases affecting subject.
 - **[Repel Vermin](repel-vermin.md)**: Insects, spiders, and other vermin stay 10 ft. away.
+- **[Resist Energy, Communal](resist-energy-communal.md)**: As resist energy, but you may divide the duration among creatures touched.
 - **[Summon Nature’s Ally III](summon-natures-ally-iii.md)**: Summons creature to fight for you.
 - **[Tree Shape](tree-shape.md)**: You look exactly like a tree for 1 hour/level.
 - **[Water Walk](water-walk.md)**: Subject treads on water as if solid.
@@ -60,9 +88,13 @@
 - **[Animal Growth](animal-growth.md)**: One animal doubles in size.
 - **[Commune with Nature](commune-with-nature.md)**: Learn about terrain for 1 mile/level.
 - **[Cure Serious Wounds](cure-serious-wounds.md)**: Cures 3d8 damage + 1/level (max +15).
+- **[Darkvision, Communal](darkvision-communal.md)**: As darkvision, but you may divide the duration among creatures touched.
+- **[Find Quarry](find-quarry.md)**: You can sense whether a particular creature is within 20 miles of your location.
 - **[Freedom of Movement](freedom-of-movement.md)**: Subject moves normally despite impediments to movement.
+- **[Named Bullet, Greater](named-bullet-greater.md)**: As named bullet, but deals 2 points of damage per caster level.
 - **[Nondetection](nondetection.md)**: Hides subject from divination, scrying.
 - **[Summon Nature’s Ally IV](summon-natures-ally-iv.md)**: Summons creature to fight for you.
+- **[Terrain Bond](terrain-bond.md)**: Treat the terrain you are in as a favored terrain for the spell’s duration.
 - **[Tree Stride](tree-stride.md)**: Step from one tree to another far away.
 
 ## Ultimate Magic Spells

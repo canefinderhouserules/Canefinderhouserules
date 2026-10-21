@@ -5,25 +5,44 @@
 - **[Bless](bless.md)**: Allies gain +1 on attack rolls and saves against fear.
 - **[Bless Water](bless-water.md)**: Makes holy water.
 - **[Bless Weapon](bless-weapon.md)**: Weapon strikes true against evil foes.
+- **[Bowstaff](bowstaff.md)**: A shortbow may double as a club, or a longbow as a quarterstaff.
+- **[Compel Hostility](compel-hostility.md)**: Compels opponents to attack you instead of your allies.
 - **[Create Water](create-water.md)**: Creates 2 gallons/level of pure water.
 - **[Cure Light Wounds](cure-light-wounds.md)**: Cures 1d8 damage + 1/level (max +5).
 - **[Detect Poison](detect-poison.md)**: Detects poison in one creature or small object.
 - **[Detect Undead](detect-undead.md)**: Reveals undead within 60 ft.
 - **[Divine Favor](divine-favor.md)**: You gain +1 per three levels on attack and damage rolls.
 - **[Endure Elements](endure-elements.md)**: Exist comfortably in hot or cold regions.
+- **[Liberating Command](liberating-command.md)**: Target makes an Escape Artist check as an immediate action and gains a bonus on it.
+- **[Litany of Sloth](litany-of-sloth.md)**: Single target cannot make attacks of opportunity for 1 round.
+- **[Longshot](longshot.md)**: Grants a +10-foot bonus to the range increment for any ranged weapon fired.
 - **[Magic Weapon](magic-weapon.md)**: Weapon gains +1 bonus.
 - **Protection from Chaos/Evil**: +2 to AC and saves, plus additional protection against selected alignment.
 - **[Read Magic](read-magic.md)**: Read scrolls and spellbooks.
 - **[Resistance](resistance.md)**: Subject gains +1 on saving throws.
 - **[Restoration, Lesser](restoration-lesser.md)**: Dispels magical ability penalty or repairs 1d4 ability damage.
+- **[Sun Metal](sun-metal.md)**: Weapon touched bursts into flames.
+- **[Tactical Acumen](tactical-acumen.md)**: You gain an additional +1 on attack rolls or to AC due to battlefield positioning.
 - **[Virtue](virtue.md)**: Subject gains 1 temporary hp.
 
 ## 2nd-Level Paladin Spells
 
+- **[Bestow Weapon Proficiency](bestow-weapon-proficiency.md)**: Grants a creature proficiency in a single weapon for short period of time.
 - **[Bull’s Strength](bulls-strength.md)**: Subject gains +4 to Str for 1 min./level.
 - **[Delay Poison](delay-poison.md)**: Stops poison from harming subject for 1 hour/level.
+- **[Divine Arrow](divine-arrow.md)**: Imbues a projectile with holy energy.
 - **[Eagle’s Splendor](eagles-splendor.md)**: Subject gains +4 to Cha for 1 min./level.
+- **[Effortless Armor](effortless-armor.md)**: Armor you wear no longer slows your speed.
+- **[Endure Elements, Communal](endure-elements-communal.md)**: As endure elements, but you may divide the duration among creatures touched.
+- **[Litany of Defense](litany-of-defense.md)**: Doubles armor’s enhancement bonus.
+- **[Litany of Eloquence](litany-of-eloquence.md)**: Fascinates a single creature for 1 round.
+- **[Litany of Entanglement](litany-of-entanglement.md)**: Entangles a creature for 1 round.
+- **[Litany of Righteousness](litany-of-righteousness.md)**: A single evil creature takes more damage from creatures with a good aura.
+- **[Litany of Warding](litany-of-warding.md)**: You gain two additional attacks of opportunity for 1 round.
+- **[Magic Siege Engine](magic-siege-engine.md)**: Siege engine gains +1 on targeting and damage rolls.
 - **[Owl’s Wisdom](owls-wisdom.md)**: Subject gains +4 to Wis for 1 min./level.
+- **[Protection from Chaos, Communal](protection-from-chaos-communal.md)**: As protection from chaos, but you may divide the duration among creatures touched.
+- **[Protection from Evil, Communal](protection-from-evil-communal.md)**: As protection from evil, but you may divide the duration among creatures touched.
 - **[Remove Paralysis](remove-paralysis.md)**: Frees one or more creatures from paralysis or slow effect.
 - **[Resist Energy](resist-energy.md)**: Ignores 10 or more points of damage per attack from specified energy type.
 - **[Shield Other](shield-other.md)**: You take half of subject’s damage.
@@ -33,16 +52,23 @@
 
 ## 3rd-Level Paladin Spells
 
+- **[Burst of Speed](burst-of-speed.md)**: You gain increased speed, and your movement ignores attacks of opportunity and allows you to move through the space of creatures larger than you are.
 - **[Cure Moderate Wounds](cure-moderate-wounds.md)**: Cures 2d8 damage +1/level (max. +10).
+- **[Daybreak Arrow](daybreak-arrow.md)**: Targeted ammunition exudes radiant energy.
 - **[Daylight](daylight.md)**: 60-ft. radius of bright light.
+- **[Deadly Juggernaut](deadly-juggernaut.md)**: Your might increases with every kill you make.
+- **[Delay Poison, Communal](delay-poison-communal.md)**: As delay poison, but you may divide the duration among creatures touched.
 - **[Discern Lies](discern-lies.md)**: Reveals deliberate falsehoods.
 - **[Dispel Magic](dispel-magic.md)**: Cancels one magical spell or effect.
 - **[Heal Mount](heal-mount.md)**: As *heal* on horse or other special mount.
+- **[Litany of Escape](litany-of-escape.md)**: Teleports a friend out of a grapple.
+- **[Litany of Sight](litany-of-sight.md)**: You can see invisible creatures and objects within 30 feet of you.
 - **Magic Circle against Chaos/Evil**: As *protection from chaos*, but 10-ft. radius and 10 min./level.
 - **[Magic Weapon, Greater](magic-weapon-greater.md)**: Weapon gains +1 bonus/four levels (max +5).
 - **[Prayer](prayer.md)**: Allies get +1 bonus on most rolls, enemies –1 penalty.
 - **[Remove Blindness/Deafness](remove-blindness-deafness.md)**: Cures normal or magical blindness or deafness.
 - **[Remove Curse](remove-curse.md)**: Frees object or person from curse.
+- **[Resist Energy, Communal](resist-energy-communal.md)**: As resist energy, but you may divide the duration among creatures touched.
 
 ## 4th-Level Paladin Spells
 
@@ -52,6 +78,9 @@
 - **[Dispel Chaos](dispel-chaos.md)**: +4 bonus against attacks by chaotic creatures.
 - **[Dispel Evil](dispel-evil.md)**: +4 bonus against attacks by evil creatures.
 - **[Holy Sword](holy-sword.md)**: Weapon becomes +5, deals +2d6 damage against evil.
+- **[Litany of Thunder](litany-of-thunder.md)**: A single target is deafened until the condition is removed, and is confused for 1 round.
+- **[Litany of Vengeance](litany-of-vengeance.md)**: Allies attacking the target of the spell gain a +5 bonus on damage rolls for 1 round.
+- **[Magic Siege Engine, Greater](magic-siege-engine-greater.md)**: Siege engine gains +1 on targeting and damage rolls for every four caster levels.
 - **[Mark of Justice](mark-of-justice.md)**: Designates action that triggers *curse* on subject.
 - **[Neutralize Poison](neutralize-poison.md)**: Immunizes subject against poison, detoxifies venom in or on subject.
 - **[Restoration](restoration.md)**: Restores level and ability score drains.

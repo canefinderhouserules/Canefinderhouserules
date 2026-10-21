@@ -7,6 +7,7 @@
 - **[Detect Magic](detect-magic.md)**: Detects spells and magic items within 60 ft.
 - **[Flare](flare.md)**: Dazzles one creature (–1 on attack rolls).
 - **[Ghost Sound](ghost-sound.md)**: Figment sounds.
+- **[Haunted Fey Aspect](haunted-fey-aspect.md)**: You surround yourself with disturbing illusions.
 - **[Know Direction](know-direction.md)**: You discern north.
 - **[Light](light.md)**: Object shines like a torch.
 - **[Lullaby](lullaby.md)**: Makes subject drowsy: –5 on Perception checks, –2 on Will saves against *sleep*.
@@ -21,13 +22,17 @@
 
 ## 1st-Level Bard Spells
 
+- **[Abjuring Step](abjuring-step.md)**: You can move slowly and safely and still cast spells, until you move quickly, make an attack, or cast a harmful spell.
+- **[Abundant Ammunition](abundant-ammunition.md)**: Replaces nonmagical ammunition every round. Spells 6 Adoration: You gain a bonus on Diplomacy checks and performance combat checks.
 - **[Alarm](alarm.md)**: Wards an area for 2 hours/level.
 - **[Animate Rope](animate-rope.md)**: Makes a rope move at your command.
 - **[Cause Fear](cause-fear.md)**: One creature of 5 HD or less flees for 1d4 rounds.
 - **[Charm Person](charm-person.md)**: Makes one person your friend.
+- **[Compel Hostility](compel-hostility.md)**: Compels opponents to attack you instead of your allies.
 - **[Comprehend Languages](comprehend-languages.md)**: You understand all languages.
 - **[Confusion, Lesser](confusion-lesser.md)**: One creature is *confused* for 1 round.
 - **[Cure Light Wounds](cure-light-wounds.md)**: Cures 1d8 damage + 1/level (max +5).
+- **[Deadeye’s Lore](deadeyes-lore.md)**: Gain a +4 bonus on Survival and move full speed while tracking.
 - **[Decrepit Disguise](decrepit-disguise.md)**: Make an object seem worthless.
 - **[Deja Vu](deja-vu.md)**: Make a creature repeat its actions.
 - **[Detect Secret Doors](detect-secret-doors.md)**: Reveals hidden doors within 60 ft.
@@ -39,11 +44,17 @@
 - **[Hideous Laughter](hideous-laughter.md)**: Subject loses actions for 1 round/ level.
 - **[Hypnotism](hypnotism.md)**: Fascinates 2d4 HD of creatures.
 - **[Identify](identify.md)**: Gives +10 bonus to identify magic items.
+- **[Jury-Rig](jury-rig.md)**: Removes the broken condition from the targeted object.
+- **[Liberating Command](liberating-command.md)**: Target makes an Escape Artist check as an immediate action and gains a bonus on it.
+- **[Lock Gaze](lock-gaze.md)**: Compels the target to look only at you for the duration of the spell.
 - **[Magic Aura](magic-aura.md)**: Alters object’s magic aura.
 - **[Magic Mouth](magic-mouth.md)**: Objects speaks once when triggered.
+- **[Moment of Greatness](moment-of-greatness.md)**: Doubles a morale bonus.
+- **[Negative Reaction](negative-reaction.md)**: Targeted creature may not positively influence anyone.
 - **[Obscure Object](obscure-object.md)**: Masks object against *scrying*.
 - **[Quintessence](quintessence.md)**: Mask any flaws of or damage to a creature or object.
 - **[Remove Fear](remove-fear.md)**: Suppresses fear or gives +4 on saves against fear for one subject + one per four levels.
+- **[See Alignment](see-alignment.md)**: Pick an alignment; in your sight, creatures and items with that alignment emit a ghostly radiance.
 - **[Silent Image](silent-image.md)**: Creates minor illusion of your design.
 - **[Sleep](sleep.md)**: Puts 4 HD of creatures into magical slumber.
 - **[Summon Monster I](summon-monster-i.md)**: Summons extraplanar creature to fight for you.
@@ -61,6 +72,7 @@
 - **[Aversion](aversion.md)**: Cause the target to avoid an object or location.
 - **[Babble](babble.md)**: Target becomes nauseated and nearby creatures become fascinated.
 - **[Blindness/Deafness](blindness-deafness.md)**: Makes subject blind or deaf.
+- **[Blistering Invective](blistering-invective.md)**: Make an Intimidate check against all foes within 30 feet; those demoralized also take fire damage.
 - **[Blur](blur.md)**: Attacks miss subject 20% of the time.
 - **[Calm Emotions](calm-emotions.md)**: Calms creatures, negating emotion effects.
 - **[Catatonia](catatonia.md)**: Make a willing target appear to be dead.
@@ -72,6 +84,7 @@
 - **[Delay Poison](delay-poison.md)**: Stops poison from harming target for 1 hour/level.
 - **[Demand Offering](demand-offering.md)**: Make a creature give you an object it’s holding.
 - **[Detect Thoughts](detect-thoughts.md)**: Allows “listening” to surface thoughts.
+- **[Discovery Torch](discovery-torch.md)**: Touched object emanates bright light, granting Perception and Sense Motive bonuses.
 - **[Eagle’s Splendor](eagles-splendor.md)**: Subject gains +4 to Cha for 1 min./level.
 - **[Enshroud Thoughts](enshroud-thoughts.md)**: Ward yourself against thought detection and memory alteration.
 - **[Enthrall](enthrall.md)**: Captivates all within 100 ft. + 10 ft./level.
@@ -88,16 +101,22 @@
 - **[Misdirection](misdirection.md)**: Misleads divinations for one creature or object.
 - **[Oneiric Horror](oneiric-horror.md)**: Distract and fatigue the target with a creature from its nightmares.
 - **[Paranoia](paranoia.md)**: Target becomes hostile to all creatures.
+- **[Pilfering Hand](pilfering-hand.md)**: You may seize an object or manipulate it from afar.
 - **[Psychic Reading](psychic-reading.md)**: Read surface thoughts to learn information about a subject.
 - **[Pyrotechnics](pyrotechnics.md)**: Turns fire into blinding light or choking smoke.
+- **[Qualm](qualm.md)**: Target gains penalties on ability checks, skill checks, and concentration checks until it spends an entire round doing nothing.
 - **[Rage](rage.md)**: Gives +2 to Str and Con, +1 on Will saves, –2 to AC.
+- **[Returning Weapon](returning-weapon.md)**: Grants a weapon the returning special weapon quality.
 - **[Scare](scare.md)**: Panics creatures of less than 6 HD.
+- **[Share Language, Communal](share-language-communal.md)**: As share language, but you may divide the duration among creatures touched.
 - **[Shatter](shatter.md)**: Sonic vibration damages objects or crystalline creatures.
 - **[Silence](silence.md)**: Negates sound in 20-ft. radius.
 - **[Sound Burst](sound-burst.md)**: Deals 1d8 sonic damage and may stun subjects.
 - **[Suggestion](suggestion.md)**: Compels subject to follow stated course of action.
 - **[Summon Monster II](summon-monster-ii.md)**: Summons extraplanar creature to fight for you.
 - **[Summon Swarm](summon-swarm.md)**: Summons swarm of bats, rats, or spiders.
+- **[Tactical Acumen](tactical-acumen.md)**: You gain an additional +1 on attack rolls or to AC due to battlefield positioning.
+- **[Thunder Fire](thunder-fire.md)**: Ammunition in the targeted firearm deafens opponents.
 - **[Tongues](tongues.md)**: Speak and understand any language.
 - **[Whip of Spiders](whip-of-spiders.md)**: Whiplike spider swarm deals swarm damage by touch.
 - **[Whispering Wind](whispering-wind.md)**: Sends a short message 1 mile/level.
@@ -112,6 +131,7 @@
 - **[Cure Serious Wounds](cure-serious-wounds.md)**: Cures 3d8 damage + 1/level (max +15).
 - **[Daylight](daylight.md)**: 60-ft. radius of bright light.
 - **[Deep Slumber](deep-slumber.md)**: Puts 10 HD of creatures to sleep.
+- **[Delay Poison, Communal](delay-poison-communal.md)**: As delay poison, but you may divide the duration among creatures touched.
 - **[Dispel Magic](dispel-magic.md)**: Cancels one magical spell or effect.
 - **[Displacement](displacement.md)**: Attacks miss subject 50% of the time.
 - **[Fear](fear.md)**: Subjects within cone flee for 1 round/level.
@@ -124,8 +144,10 @@
 - **[Illusory Script](illusory-script.md)**: Only select creatures can read text.
 - **[Invisibility Sphere](invisibility-sphere.md)**: Makes everyone within 10 feet invisible.
 - **[Major Image](major-image.md)**: As *silent image*, plus sound, smell, and thermal effects.
+- **[Phantom Driver](phantom-driver.md)**: Conjures a phantom to drive vehicles.
 - **[Phantom Steed](phantom-steed.md)**: Magic horse appears for 1 hour/level.
 - **[Remove Curse](remove-curse.md)**: Frees object or person from curse.
+- **[Returning Weapon, Communal](returning-weapon-communal.md)**: As returning weapon, but you may divide the duration among weapons touched.
 - **[Scrying](scrying.md)**: Spies on subject from a distance.
 - **[Sculpt Sound](sculpt-sound.md)**: Creates new sounds or changes existing ones into new sounds.
 - **[Secret Page](secret-page.md)**: Changes one page to hide its real content.
@@ -135,6 +157,7 @@
 - **[Speak with Animals](speak-with-animals.md)**: You can communicate with animals.
 - **[Summon Monster III](summon-monster-iii.md)**: Summons extraplanar creature to fight for you.
 - **[Tiny Hut](tiny-hut.md)**: Creates shelter for 10 creatures.
+- **[Tongues, Communal](tongues-communal.md)**: As tongues, but you may divide the duration among creatures touched.
 - **[Wall of Nausea](wall-of-nausea.md)**: Wall of distorted images nauseates creatures passing through.
 
 ## 4th-Level Bard Spells
@@ -153,10 +176,12 @@
 - **[Modify Memory](modify-memory.md)**: Changes 5 minutes of subject’s memories.
 - **[Neutralize Poison](neutralize-poison.md)**: Immunizes subject against poison, detoxifies venom in or on subject.
 - **[Oneiric Horror, Greater](oneiric-horror-greater.md)**: As oneiric horror, plus Str damage.
+- **[Phantom Steed, Communal](phantom-steed-communal.md)**: As phantom steed, but you may divide the duration among creatures touched.
 - **[Rainbow Pattern](rainbow-pattern.md)**: Lights fascinate 24 HD of creatures.
 - **[Repel Vermin](repel-vermin.md)**: Insects, spiders, and other vermin stay 10 ft. away.
 - **[Secure Shelter](secure-shelter.md)**: Creates sturdy cottage.
 - **[Shadow Conjuration](shadow-conjuration.md)**: Mimics conjuration below 4th level, but only 20% real.
+- **[Shocking Image](shocking-image.md)**: As mirror image, but the duplicates emit electrical damage when destroyed.
 - **[Shout](shout.md)**: Deafens all within cone and deals 5d6 sonic damage.
 - **[Speak with Plants](speak-with-plants.md)**: You can talk to plants and plant creatures.
 - **[Summon Monster IV](summon-monster-iv.md)**: Summons extraplanar creature to fight for you.

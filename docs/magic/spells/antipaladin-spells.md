@@ -5,14 +5,25 @@ New antipaladin spells from *Ultimate Magic*. Spells from other books will be ad
 ## 1st-Level Antipaladin Spells
 
 - **[Demand Offering](demand-offering.md)**: Make a creature give you an object it’s holding.
+- **[Litany of Sloth](litany-of-sloth.md)**: Single target cannot make attacks of opportunity for 1 round.
+- **[Litany of Weakness](litany-of-weakness.md)**: Single target is fatigued for 1 round.
+- **[Longshot](longshot.md)**: Grants a +10-foot bonus to the range increment for any ranged weapon fired.
 - **[Murderous Command](murderous-command.md)**: Target is compelled to kill its ally.
 - **[Summon Minor Monster](summon-minor-monster.md)**: Summon 1d3 Tiny animals.
 - **[Wartrain Mount](wartrain-mount.md)**: Animal gains the combat training general purpose.
 
 ## 2nd-Level Antipaladin Spells
 
+- **[Bestow Weapon Proficiency](bestow-weapon-proficiency.md)**: Grants a creature proficiency in a single weapon for short period of time.
 - **[Inflict Pain](inflict-pain.md)**: Target takes a –4 penalty on attack rolls, skill checks, and ability checks.
+- **[Litany of Defense](litany-of-defense.md)**: Doubles armor’s enhancement bonus.
+- **[Litany of Eloquence](litany-of-eloquence.md)**: Fascinates a single creature for 1 round.
+- **[Litany of Entanglement](litany-of-entanglement.md)**: Entangles a creature for 1 round.
+- **[Litany of Warding](litany-of-warding.md)**: You gain two additional attacks of opportunity for 1 round.
+- **[Magic Siege Engine](magic-siege-engine.md)**: Siege engine gains +1 on targeting and damage rolls.
 - **[Pernicious Poison](pernicious-poison.md)**: Target takes a –4 penalty against poison.
+- **[Protection from Good, Communal](protection-from-good-communal.md)**: As protection from good, but you may divide the duration among creatures touched.
+- **[Protection from Law, Communal](protection-from-law-communal.md)**: As protection from law, but you may divide the duration among creatures touched.
 - **[Toxic Gift](toxic-gift.md)**: Target suffers the effect of a poison in you.
 - **[Unadulterated Loathing](unadulterated-loathing.md)**: Target is compelled to avoid another creature.
 - **[Vestment of the Champion](vestment-of-the-champion.md)**: Armor or shield gains a +1 enhancement per four levels.
@@ -21,6 +32,11 @@ New antipaladin spells from *Ultimate Magic*. Spells from other books will be ad
 ## 3rd-Level Antipaladin Spells
 
 - **[Blade of Dark Triumph](blade-of-dark-triumph.md)**: Bonded weapon gains ghost touch.
+- **[Burst of Speed](burst-of-speed.md)**: You gain increased speed, and your movement ignores attacks of opportunity and allows you to move through the space of creatures larger than you are.
+- **[Darkvision, Communal](darkvision-communal.md)**: As darkvision, but you may divide the duration among creatures touched.
+- **[Deadly Juggernaut](deadly-juggernaut.md)**: Your might increases with every kill you make.
+- **[Litany of Escape](litany-of-escape.md)**: Teleports a friend out of a grapple.
+- **[Litany of Sight](litany-of-sight.md)**: You can see invisible creatures and objects within 30 feet of you.
 - **[Utter Contempt](utter-contempt.md)**: Target’s attitude worsens by two categories.
 
 ## 4th-Level Antipaladin Spells
@@ -28,6 +44,11 @@ New antipaladin spells from *Ultimate Magic*. Spells from other books will be ad
 - **[Darkvision, Greater](darkvision-greater.md)**: See 120 ft. in total darkness.
 - **[Foster Hatred](foster-hatred.md)**: Cause creatures to hate one type of creature.
 - **[Inflict Pain, Mass](inflict-pain-mass.md)**: As inflict pain, but affecting one creature per level.
+- **[Litany of Madness](litany-of-madness.md)**: A single target is confused for at least 1 round.
+- **[Litany of Thunder](litany-of-thunder.md)**: A single target is deafened until the condition is removed, and is confused for 1 round.
+- **[Litany of Vengeance](litany-of-vengeance.md)**: Allies attacking the target of the spell gain a +5 bonus on damage rolls for 1 round.
+- **[Magic Siege Engine, Greater](magic-siege-engine-greater.md)**: Siege engine gains +1 on targeting and damage rolls for every four caster levels.
+- **[Nondetection, Communal](nondetection-communal.md)**
 - **[Unholy Sword](unholy-sword.md)**: Weapon becomes +5, deals +2d6 damage vs. good.
 
 ## Advanced Player's Guide Antipaladin Spell List

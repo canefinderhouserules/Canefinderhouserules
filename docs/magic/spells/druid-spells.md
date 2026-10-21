@@ -18,9 +18,12 @@
 
 ## 1st-Level Druid Spells
 
+- **[Air Bubble](air-bubble.md)**: Creates a small pocket of air around your head or an object.
 - **[Calm Animals](calm-animals.md)**: Calms 2d4 + level HD of animals.
 - **[Charm Animal](charm-animal.md)**: Makes one animal your friend.
 - **[Cure Light Wounds](cure-light-wounds.md)**: Cures 1d8 damage + 1/level (max +5).
+- **[Damp Powder](damp-powder.md)**: Ruins ammunition loaded in the targeted firearm.
+- **[Deadeye’s Lore](deadeyes-lore.md)**: Gain a +4 bonus on Survival and move full speed while tracking.
 - **[Detect Animals or Plants](detect-animals-or-plants.md)**: Detects kinds of animals or plants.
 - **[Detect Snares and Pits](detect-snares-and-pits.md)**: Reveals natural or primitive traps.
 - **[Endure Elements](endure-elements.md)**: Exist comfortably in hot or cold regions.
@@ -29,6 +32,7 @@
 - **[Goodberry](goodberry.md)**: 2d4 berries each cure 1 hp (max 8 hp/24 hours).
 - **[Hide from Animals](hide-from-animals.md)**: Animals can’t perceive one subject/level.
 - **[Jump](jump.md)**: Subject gets bonus on Acrobatics checks.
+- **[Liberating Command](liberating-command.md)**: Target makes an Escape Artist check as an immediate action and gains a bonus on it.
 - **[Longstrider](longstrider.md)**: Your speed increases by 10 ft.
 - **[Magic Fang](magic-fang.md)**: One natural weapon of subject creature gets +1 on attack and damage rolls.
 - **[Magic Stone](magic-stone.md)**: Three stones gain +1 on attack rolls, deal 1d6+1 damage.
@@ -39,21 +43,28 @@
 - **[Speak with Animals](speak-with-animals.md)**: You can communicate with animals.
 - **[Summon Nature’s Ally I](summon-natures-ally-i.md)**: Summons creature to fight.
 - **[Wave Shield](wave-shield.md)**: Water blunts one incoming attack or fire effect.
+- **[Weaken Powder](weaken-powder.md)**: Targeted firearm’s ammunition halves the firearm’s range and imposes a –2 penalty on damage rolls.
 
 ## 2nd-Level Druid Spells
 
+- **[Animal Aspect](animal-aspect.md)**: You gain some of the beneficial qualities of an animal.
 - **[Animal Messenger](animal-messenger.md)**: Sends a Tiny animal to a specific place.
 - **[Animal Trance](animal-trance.md)**: Fascinates 2d6 HD of animals.
+- **[Ant Haul, Communal](ant-haul-communal.md)**: As ant haul, but you may divide the duration among creatures touched.
 - **[Barkskin](barkskin.md)**: Grants +2 (or higher) enhancement to natural armor.
 - **[Bear’s Endurance](bears-endurance.md)**: Subject gains +4 to Con for 1 min./level.
 - **[Bull’s Strength](bulls-strength.md)**: Subject gains +4 to Str for 1 min./level.
 - **[Cat’s Grace](cats-grace.md)**: Subject gains +4 to Dex for 1 min./level.
+- **[Certain Grip](certain-grip.md)**: You gain a +4 competence bonus on Acrobatics and Climb checks and to CMD.
 - **[Chill Metal](chill-metal.md)**: Cold metal damages those who touch it.
 - **[Delay Poison](delay-poison.md)**: Stops poison from harming subject for 1 hour/level.
+- **[Endure Elements, Communal](endure-elements-communal.md)**: As endure elements, but you may divide the duration among creatures touched.
 - **[Fire Trap](fire-trap.md)**: Opened object deals 1d4 + 1/level damage.
 - **[Flame Blade](flame-blade.md)**: Touch attack deals 1d8 + 1/two levels damage.
 - **[Flaming Sphere](flaming-sphere.md)**: Rolling ball of fire deals 3d6 fire damage.
 - **[Fog Cloud](fog-cloud.md)**: Fog obscures vision.
+- **[Forest Friend](forest-friend.md)**: Plants in a forested area become helpful instead of hindering you and your allies.
+- **[Frost Fall](frost-fall.md)**: The area is covered in a chilling frost.
 - **[Gust of Wind](gust-of-wind.md)**: Blows away or knocks down smaller creatures.
 - **[Heat Metal](heat-metal.md)**: Makes metal so hot it damages those who touch it.
 - **[Hold Animal](hold-animal.md)**: Paralyzes one animal for 1 round/level.
@@ -68,16 +79,20 @@
 - **[Tree Shape](tree-shape.md)**: You look exactly like a tree for 1 hour/level.
 - **[Warp Wood](warp-wood.md)**: Bends wood.
 - **[Whip of Spiders](whip-of-spiders.md)**: Whiplike spider swarm deals swarm damage by touch.
+- **[Wilderness Soldiers](wilderness-soldiers.md)**: Nearby plants aid you in combat.
 - **[Wood Shape](wood-shape.md)**: Reshapes wooden objects to suit you.
 
 ## 3rd-Level Druid Spells
 
+- **[Animal Aspect, Greater](animal-aspect-greater.md)**: As animal aspect, but you gain two animal qualities.
 - **[Apport Animal](apport-animal.md)**: Send or receive a Tiny or smaller animal via teleportation.
 - **[Aversion](aversion.md)**: Cause the target to avoid an object or location.
 - **[Call Lightning](call-lightning.md)**: Calls down lightning bolts (3d6 per bolt) from sky.
+- **[Companion Mind Link](companion-mind-link.md)**: You can talk with your animal companion, and can handle it with supernatural ease.
 - **[Contagion](contagion.md)**: Infects subject with chosen disease.
 - **[Cure Moderate Wounds](cure-moderate-wounds.md)**: Cures 2d8 damage + 1/level (max +10).
 - **[Daylight](daylight.md)**: 60-ft. radius of bright light.
+- **[Delay Poison, Communal](delay-poison-communal.md)**: As delay poison, but you may divide the duration among creatures touched.
 - **[Diminish Plants](diminish-plants.md)**: Reduces size or blights the growth of normal plants.
 - **[Dominate Animal](dominate-animal.md)**: One animal obeys your silent mental commands and orders.
 - **[Magic Fang, Greater](magic-fang-greater.md)**: One natural weapon gets + 1/four levels (max +5).
@@ -86,11 +101,16 @@
 - **[Plant Growth](plant-growth.md)**: Grows vegetation, improves crops.
 - **[Poison](poison.md)**: Touch deals 1d3 Con damage 1/round for 6 rounds.
 - **[Protection from Energy](protection-from-energy.md)**: Absorbs 12 points/level of damage from one kind of energy.
+- **[Pup Shape](pup-shape.md)**: Transforms a single animal or magical beast into a younger and cuter version of itself for a short time.
 - **[Quench](quench.md)**: Extinguishes fires.
 - **[Remove Disease](remove-disease.md)**: Cures all diseases affecting subject.
+- **[Resinous Skin](resinous-skin.md)**: You gain DR 5/piercing and +4 to CMD against disarm attempts.
+- **[Resist Energy, Communal](resist-energy-communal.md)**: As resist energy, but you may divide the duration among creatures touched.
+- **[Share Language, Communal](share-language-communal.md)**: As share language, but you may divide the duration among creatures touched.
 - **[Sleet Storm](sleet-storm.md)**: Hampers vision and movement.
 - **[Snare](snare.md)**: Creates a magic booby trap.
 - **[Speak with Plants](speak-with-plants.md)**: You can talk to plants and plant creatures.
+- **[Spider Climb, Communal](spider-climb-communal.md)**: As spider climb, but you may divide the duration among creatures touched.
 - **[Spike Growth](spike-growth.md)**: Creatures in area take 1d4 damage, may be slowed*.*
 - **[Stone Shape](stone-shape.md)**: Sculpts stone into any shape.
 - **[Summon Nature’s Ally III](summon-natures-ally-iii.md)**: Summons creature to fight.
@@ -99,6 +119,7 @@
 
 ## 4th-Level Druid Spells
 
+- **[Absorb Toxicity](absorb-toxicity.md)**: You become immune to diseases and toxins, absorb one, and then spread it to others.
 - **[Air Walk](air-walk.md)**: Subject treads on air as if solid (climb or descend at 45-degree angle).
 - **[Antiplant Shell](antiplant-shell.md)**: Keeps animated plants at bay.
 - **[Blight](blight.md)**: Withers one plant or deals 1d6/level damage to plant creature.
@@ -110,6 +131,7 @@
 - **[Freedom of Movement](freedom-of-movement.md)**: Subject moves normally despite impediments to movement.
 - **[Giant Vermin](giant-vermin.md)**: Turns centipedes, scorpions, or spiders into giant vermin.
 - **[Ice Storm](ice-storm.md)**: Hail deals 5d6 damage in cylinder 40 ft. across.
+- **[Obsidian Flow](obsidian-flow.md)**: Converts the surface of the ground into molten glass. Spells 6 Protection from Energy, Communal: As protection from energy, but you may divide the duration among creatures touched.
 - **[Reincarnate](reincarnate.md)**: Brings dead subject back in a random body.
 - **[Repel Vermin](repel-vermin.md)**: Insects, spiders, and other vermin stay 10 ft. away.
 - **[Rusting Grasp](rusting-grasp.md)**: Your touch corrodes iron and alloys.
@@ -119,6 +141,7 @@
 
 ## 5th-Level Druid Spells
 
+- **[Air Walk, Communal](air-walk-communal.md)**: As air walk, but you may divide the duration among creatures touched.
 - **[Animal Growth](animal-growth.md)**: One animal doubles in size.
 - **[Atonement](atonement.md)**: Removes burden of misdeeds from subject.
 - **[Awaken](awaken.md)**: Animal or tree gains human intellect.
@@ -148,6 +171,7 @@
 - **[Cat’s Grace, Mass](cats-grace-mass.md)**: As *cat’s grace*, affects one subject/level.
 - **[Cure Light Wounds, Mass](cure-light-wounds-mass.md)**: Cures 1d8 damage + 1/level, affects 1 subject/level.
 - **[Dispel Magic, Greater](dispel-magic-greater.md)**: As *dispel magic*, but with multiple targets.
+- **[Dust Form](dust-form.md)**: You become an incorporeal creature of dust for a short period of time.
 - **[Find the Path](find-the-path.md)**: Shows most direct way to a location.
 - **[Fire Seeds](fire-seeds.md)**: Acorns and berries become grenades and bombs.
 - **[Ironwood](ironwood.md)**: Magic wood is as strong as steel.
@@ -158,7 +182,9 @@
 - **[Repel Wood](repel-wood.md)**: Pushes away wooden objects.
 - **[Spellstaff](spellstaff.md)**: Stores one spell in wooden quarterstaff.
 - **[Stone Tell](stone-tell.md)**: Talk to natural or worked stone.
+- **[Stoneskin, Communal](stoneskin-communal.md)**
 - **[Summon Nature’s Ally VI](summon-natures-ally-vi.md)**: Summons creature to fight.
+- **[Tar Pool](tar-pool.md)**: Converts the top layer of the ground into hot tar.
 - **[Transport via Plants](transport-via-plants.md)**: Move instantly from one plant to another of the same kind.
 - **[Wall of Stone](wall-of-stone.md)**: Creates a stone wall that can be shaped.
 - **[Whip of Ants](whip-of-ants.md)**: As whip of spiders, but with army ants.
@@ -173,6 +199,7 @@
 - **[Fire Storm](fire-storm.md)**: Deals 1d6/level fire damage.
 - **[Heal](heal.md)**: Cures 10 points/level damage, all diseases and mental conditions.
 - **[Scrying, Greater](scrying-greater.md)**: As *scrying*, but faster and longer.
+- **[Siege of Trees](siege-of-trees.md)**: Transforms Large trees into arboreal catapults of the same size.
 - **[Summon Nature’s Ally VII](summon-natures-ally-vii.md)**: Summons creature to fight.
 - **[Sunbeam](sunbeam.md)**: Beam blinds and deals 4d6 damage.
 - **[Transmute Metal to Wood](transmute-metal-to-wood.md)**: Metal within 40 ft. becomes wood.
@@ -186,6 +213,7 @@
 - **[Cure Serious Wounds, Mass](cure-serious-wounds-mass.md)**: Cures 3d8 damage + 1/level, affects 1 subject/level.
 - **[Earthquake](earthquake.md)**: Intense tremor shakes 80-ft.-radius.
 - **[Finger of Death](finger-of-death.md)**: Deals 10 damage/level to one subject.
+- **[Frightful Aspect](frightful-aspect.md)**: You take on a terrifying, Large-sized form of yourself and emit an aura that causes creatures to become shaken or frightened.
 - **[Repel Metal or Stone](repel-metal-or-stone.md)**: Pushes away metal and stone.
 - **[Reverse Gravity](reverse-gravity.md)**: Objects and creatures fall upward.
 - **[Summon Nature’s Ally VIII](summon-natures-ally-viii.md)**: Summons creature to fight.
@@ -202,6 +230,7 @@
 - **[Regenerate](regenerate.md)**: Subject’s severed limbs grow back, cures 4d8 damage +1/level (max +35).
 - **[Shambler](shambler.md)**: Creates 1d4+2 shambling mounds to fight for you.
 - **[Shapechange](shapechange.md)**: Transforms you into certain creatures, and you can change forms once per round.
+- **[Siege of Trees, Greater](siege-of-trees-greater.md)**: As siege of trees, but can transform Huge and Gargantuan trees into arboreal catapults of the same size.
 - **[Storm of Vengeance](storm-of-vengeance.md)**: Storm rains acid, lightning, and hail.
 - **[Summon Nature’s Ally IX](summon-natures-ally-ix.md)**: Summons creature to fight.
 - **[Sympathy](sympathy.md)**: Object or location attracts certain creatures.

@@ -17,14 +17,18 @@
 
 ## 1st-Level Cleric Spells
 
+- **[Abundant Ammunition](abundant-ammunition.md)**: Replaces nonmagical ammunition every round. Spells 6 Adoration: You gain a bonus on Diplomacy checks and performance combat checks.
+- **[Air Bubble](air-bubble.md)**: Creates a small pocket of air around your head or an object.
 - **[Bane](bane.md)**: Enemies take –1 on attack rolls and saves against fear.
 - **[Bless](bless.md)**: Allies gain +1 on attack rolls and saves against fear.
 - **[Bless Water](bless-water.md)**: Makes holy water.
 - **[Cause Fear](cause-fear.md)**: One creature of 5 HD or less flees for 1d4 rounds.
 - **[Command](command.md)**: One subject obeys selected command for 1 round.
+- **[Compel Hostility](compel-hostility.md)**: Compels opponents to attack you instead of your allies.
 - **[Comprehend Languages](comprehend-languages.md)**: You understand all spoken and written languages.
 - **[Cure Light Wounds](cure-light-wounds.md)**: Cures 1d8 damage + 1/level (max +5).
 - **[Curse Water](curse-water.md)**: Makes unholy water.
+- **[Deadeye’s Lore](deadeyes-lore.md)**: Gain a +4 bonus on Survival and move full speed while tracking.
 - **[Deathwatch](deathwatch.md)**: Reveals how near death subjects within 30 ft. are.
 - **[Detect Chaos](detect-chaos.md)/[Detect Evil](detect-evil.md)/[Detect Good](detect-good.md)/[Detect Law](detect-law.md)**: Reveals creatures, spells, or objects of selected alignment.
 - **[Detect Undead](detect-undead.md)**: Reveals undead within 60 ft.
@@ -34,21 +38,27 @@
 - **[Entropic Shield](entropic-shield.md)**: Ranged attacks against you have 20% miss chance.
 - **[Hide from Undead](hide-from-undead.md)**: Undead can’t perceive one subject/level.
 - **[Inflict Light Wounds](inflict-light-wounds.md)**: Touch deals 1d8 damage +1/level (max +5).
+- **[Liberating Command](liberating-command.md)**: Target makes an Escape Artist check as an immediate action and gains a bonus on it.
 - **[Magic Stone](magic-stone.md)**: Three stones gain +1 on attack, deal 1d6 +1 damage.
 - **[Magic Weapon](magic-weapon.md)**: Weapon gains +1 bonus.
+- **[Moment of Greatness](moment-of-greatness.md)**: Doubles a morale bonus.
 - **[Obscuring Mist](obscuring-mist.md)**: Fog surrounds you.
 - **[Protection from Chaos](protection-from-chaos.md)/[Protection from Evil](protection-from-evil.md)/[Protection from Good](protection-from-good.md)/[Protection from Law](protection-from-law.md)**: +2 to AC and saves, plus additional protection against selected alignment.
+- **[Reinforce Armaments](reinforce-armaments.md)**: Temporarily mitigates the fragile quality in targeted weapon or armor.
 - **[Remove Fear](remove-fear.md)**: Suppresses fear or gives +4 on saves against fear for one subject + one per four levels.
 - **[Sanctuary](sanctuary.md)**: Opponents can’t attack you, and you can’t attack.
 - **[Shield of Faith](shield-of-faith.md)**: Aura grants +2 or higher deflection bonus.
 - **[Summon Monster I](summon-monster-i.md)**: Summons extraplanar creature to fight for you.
+- **[Sun Metal](sun-metal.md)**: Weapon touched bursts into flames.
 
 ## 2nd-Level Cleric Spells
 
 - **[Aid](aid.md)**: +1 on attack rolls and saves against fear, 1d8 temporary hp +1/level (max +10).
 - **[Align Weapon](align-weapon.md)**: Weapon becomes good, evil, lawful, or chaotic.
+- **[Ant Haul, Communal](ant-haul-communal.md)**: As ant haul, but you may divide the duration among creatures touched.
 - **[Augury](augury.md)**: Learns whether an action will be good or bad.
 - **[Bear’s Endurance](bears-endurance.md)**: Subject gains +4 to Con for 1 min./level.
+- **[Bestow Weapon Proficiency](bestow-weapon-proficiency.md)**: Grants a creature proficiency in a single weapon for short period of time.
 - **[Bull’s Strength](bulls-strength.md)**: Subject gains +4 to Str for 1 min./level.
 - **[Calm Emotions](calm-emotions.md)**: Calms creatures, negating emotion effects.
 - **[Calm Spirit](calm-spirit.md)**: Postpone hostile action by a haunt or incorporeal undead.
@@ -59,17 +69,28 @@
 - **[Delay Poison](delay-poison.md)**: Stops poison from harming target for 1 hour/level.
 - **[Desecrate](desecrate.md)**: Fills area with negative energy, making undead stronger.
 - **[Eagle’s Splendor](eagles-splendor.md)**: Subject gains +4 to Cha for 1 min./level.
+- **[Effortless Armor](effortless-armor.md)**: Armor you wear no longer slows your speed.
+- **[Endure Elements, Communal](endure-elements-communal.md)**: As endure elements, but you may divide the duration among creatures touched.
 - **[Enthrall](enthrall.md)**: Captivates all within 100 ft. + 10 ft./level.
 - **[Find Traps](find-traps.md)**: Notice traps as a rogue does.
 - **[Gentle Repose](gentle-repose.md)**: Preserves one corpse.
 - **[Ghost Whip](ghost-whip.md)**: Create a ghost touch whip that passes through objects.
 - **[Hold Person](hold-person.md)**: Paralyzes one humanoid for 1 round/level.
 - **[Inflict Moderate Wounds](inflict-moderate-wounds.md)**: Touch attack, 2d8 damage + 1/level (max +10).
+- **[Instrument of Agony](instrument-of-agony.md)**: Weapon exudes divine fury, granting a bonus on Intimidate checks.
+- **[Magic Siege Engine](magic-siege-engine.md)**: Siege engine gains +1 on targeting and damage rolls.
 - **[Make Whole](make-whole.md)**: Repairs an object.
 - **[Owl’s Wisdom](owls-wisdom.md)**: Subject gains +4 to Wis for 1 min./level.
+- **[Pilfering Hand](pilfering-hand.md)**: You may seize an object or manipulate it from afar.
+- **[Protection from Chaos, Communal](protection-from-chaos-communal.md)**: As protection from chaos, but you may divide the duration among creatures touched.
+- **[Protection from Evil, Communal](protection-from-evil-communal.md)**: As protection from evil, but you may divide the duration among creatures touched.
+- **[Protection from Good, Communal](protection-from-good-communal.md)**: As protection from good, but you may divide the duration among creatures touched.
+- **[Protection from Law, Communal](protection-from-law-communal.md)**: As protection from law, but you may divide the duration among creatures touched.
+- **[Reinforce Armaments, Communal](reinforce-armaments-communal.md)**: As reinforce armaments, but you may divide the duration among objects touched.
 - **[Remove Paralysis](remove-paralysis.md)**: Frees creatures from paralysis or *slow* effect.
 - **[Resist Energy](resist-energy.md)**: Ignores 10 (or more) points of damage/attack from specified energy type.
 - **[Restoration, Lesser](restoration-lesser.md)**: Dispels magical ability penalty or repairs 1d4 ability damage.
+- **[Returning Weapon](returning-weapon.md)**: Grants a weapon the returning special weapon quality.
 - **[Shatter](shatter.md)**: Sonic vibration damages objects or crystalline creatures.
 - **[Shield Other](shield-other.md)**: You take half of subject’s damage.
 - **[Silence](silence.md)**: Negates sound in 20-ft. radius.
@@ -78,6 +99,7 @@
 - **[Status](status.md)**: Monitors condition, position of allies.
 - **[Summon Monster II](summon-monster-ii.md)**: Summons extraplanar creature to fight for you.
 - **[Undetectable Alignment](undetectable-alignment.md)**: Conceals alignment for 24 hours.
+- **[Water Walk, Communal](water-walk-communal.md)**: As water walk, but you may divide the duration among creatures touched.
 - **[Zone of Truth](zone-of-truth.md)**: Subjects within range cannot lie.
 
 ## 3rd-Level Cleric Spells
@@ -86,13 +108,18 @@
 - **[Bestow Curse](bestow-curse.md)**: –6 to an ability score; –4 on attack rolls, saves, and checks; or 50% chance of losing each action.
 - **[Blindness/Deafness](blindness-deafness.md)**: Makes subject blinded or deafened.
 - **[Catatonia](catatonia.md)**: Make a willing target appear to be dead.
+- **[Chain of Perdition](chain-of-perdition.md)**: Creates a floating chain of force.
 - **[Contagion](contagion.md)**: Infects subject with chosen disease.
 - **[Contagious Zeal](contagious-zeal.md)**: Grant bonuses and temporary hit points that spread from creature to creature.
 - **[Continual Flame](continual-flame.md)**: Makes a permanent, heatless light.
 - **[Create Food and Water](create-food-and-water.md)**: Feeds three humans (or one horse)/level.
 - **[Cure Serious Wounds](cure-serious-wounds.md)**: Cures 3d8 damage + 1/level (max +15).
+- **[Daybreak Arrow](daybreak-arrow.md)**: Targeted ammunition exudes radiant energy.
 - **[Daylight](daylight.md)**: 60-ft. radius of bright light.
+- **[Deadly Juggernaut](deadly-juggernaut.md)**: Your might increases with every kill you make.
 - **[Deeper Darkness](deeper-darkness.md)**: Object sheds supernatural shadow in 60-ft. radius.
+- **[Delay Poison, Communal](delay-poison-communal.md)**: As delay poison, but you may divide the duration among creatures touched.
+- **[Discovery Torch](discovery-torch.md)**: Touched object emanates bright light, granting Perception and Sense Motive bonuses.
 - **[Dispel Magic](dispel-magic.md)**: Cancels one magical spell or effect.
 - **[Glyph of Warding](glyph-of-warding.md)**: Inscription harms those who pass it.
 - **[Helping Hand](helping-hand.md)**: Ghostly hand leads subject to you.
@@ -108,7 +135,10 @@
 - **[Remove Blindness/Deafness](remove-blindness-deafness.md)**: Cures normal or magical blindness or deafness.
 - **[Remove Curse](remove-curse.md)**: Frees object or person from curse.
 - **[Remove Disease](remove-disease.md)**: Cures all diseases affecting subject.
+- **[Resist Energy, Communal](resist-energy-communal.md)**: As resist energy, but you may divide the duration among creatures touched.
+- **[Returning Weapon, Communal](returning-weapon-communal.md)**: As returning weapon, but you may divide the duration among weapons touched.
 - **[Searing Light](searing-light.md)**: Ray deals 1d8/two levels damage (more against undead).
+- **[Share Language, Communal](share-language-communal.md)**: As share language, but you may divide the duration among creatures touched.
 - **[Speak with Dead](speak-with-dead.md)**: Corpse answers one question/two levels.
 - **[Stone Shape](stone-shape.md)**: Sculpts stone into any shape.
 - **[Summon Monster III](summon-monster-iii.md)**: Summons extraplanar creature to fight for you.
@@ -123,6 +153,7 @@
 - **[Control Water](control-water.md)**: Raises or lowers bodies of water.
 - **[Cure Critical Wounds](cure-critical-wounds.md)**: Cures 4d8 damage + 1/level (max +20).
 - **[Death Ward](death-ward.md)**: Grants bonuses against death spells and negative energy.
+- **[Debilitating Portent](debilitating-portent.md)**: Inflicts an ill fate on a creature, halving its damage when it attacks or casts a spell.
 - **[Dimensional Anchor](dimensional-anchor.md)**: Bars extradimensional movement.
 - **[Discern Lies](discern-lies.md)**: Reveals deliberate falsehoods.
 - **[Dismissal](dismissal.md)**: Forces a creature to return to native plane.
@@ -138,17 +169,20 @@
 - **[Order’s Wrath](orders-wrath.md)**: Harms and dazes chaotic creatures (1d8 damage/2 levels).
 - **[Planar Ally, Lesser](planar-ally-lesser.md)**: Exchange services with a 6 HD extraplanar creature.
 - **[Poison](poison.md)**: Touch deals 1d3 Con damage 1/round for 6 rounds.
+- **[Protection from Energy, Communal](protection-from-energy-communal.md)**: As protection from energy, but you may divide the duration among creatures touched.
 - **[Repel Vermin](repel-vermin.md)**: Insects, spiders, and other vermin stay 10 ft. away.
 - **[Restoration](restoration.md)**: Restores level and ability score drains.
 - **[Sending](sending.md)**: Delivers short message anywhere, instantly.
 - **[Spell Immunity](spell-immunity.md)**: Subject is immune to one spell per 4 levels.
 - **[Summon Monster IV](summon-monster-iv.md)**: Summons extraplanar creature to fight for you.
+- **[Summoner Conduit](summoner-conduit.md)**: The target takes damage whenever its summoned creature does.
 - **[Thaumaturgic Circle](thaumaturgic-circle.md)**: As magic circle, but affecting a nonalignment subtype or outsider race.
 - **[Tongues](tongues.md)**: Speak and understand any language.
 - **[Unholy Blight](unholy-blight.md)**: Harms and sickens good creatures (1d8 damage/2 levels).
 
 ## 5th-Level Cleric Spells
 
+- **[Air Walk, Communal](air-walk-communal.md)**: As air walk, but you may divide the duration among creatures touched.
 - **[Atonement](atonement.md)**: Removes burden of misdeeds from subject and reverses magical alignment change.
 - **[Break Enchantment](break-enchantment.md)**: Frees subjects from enchantments, transmutations, and curses.
 - **[Breath of Life](breath-of-life.md)**: Cures 5d8 damage + 1/level and restores life to recently slain creatures.
@@ -162,6 +196,7 @@
 - **[Hallow](hallow.md)**: Designates location as holy.
 - **[Inflict Light Wounds, Mass](inflict-light-wounds-mass.md)**: Deals 1d8 damage + 1/level, affects 1 subject/level.
 - **[Insect Plague](insect-plague.md)**: Wasp swarms attack creatures.
+- **[Magic Siege Engine, Greater](magic-siege-engine-greater.md)**: Siege engine gains +1 on targeting and damage rolls for every four caster levels.
 - **[Mark of Justice](mark-of-justice.md)**: Designates action that triggers *curse* on subject.
 - **[Plane Shift](plane-shift.md)**: As many as 8 subjects travel to another plane.
 - **[Raise Dead](raise-dead.md)**: Restores life to subject who died as long as one day/level ago.
@@ -169,10 +204,13 @@
 - **[Scrying](scrying.md)**: Spies on subject from a distance.
 - **[Sessile Spirit](sessile-spirit.md)**: Cause a spirit inhabiting a creature or an object to go dormant.
 - **[Slay Living](slay-living.md)**: Touch attack deals 12d6 + 1 per level.
+- **[Spell Immunity, Communal](spell-immunity-communal.md)**: As spell immunity, but you may divide the duration among creatures touched.
 - **[Spell Resistance](spell-resistance.md)**: Subject gains SR 12 + level.
 - **[Summon Monster V](summon-monster-v.md)**: Summons extraplanar creature to fight for you.
 - **[Symbol of Pain](symbol-of-pain.md)**: Triggered rune wracks nearby creatures with pain.
 - **[Symbol of Sleep](symbol-of-sleep.md)**: Triggered rune puts nearby creatures into catatonic slumber.
+- **[Symbol of Striking](symbol-of-striking.md)**
+- **[Tongues, Communal](tongues-communal.md)**: As tongues, but you may divide the duration among creatures touched.
 - **[True Seeing](true-seeing.md)**: Lets you see all things as they really are.
 - **[Unhallow](unhallow.md)**: Designates location as unholy.
 - **[Wall of Ectoplasm](wall-of-ectoplasm.md)**: Wall of spirits blocks movement on the Material Plane and Ethereal Plane and causes fear.
@@ -189,6 +227,7 @@
 - **[Create Undead](create-undead.md)**: Create ghasts, ghouls, mohrgs, or mummies.
 - **[Cure Moderate Wounds, Mass](cure-moderate-wounds-mass.md)**: Cures 2d8 damage + 1/level, affects 1 subject/level.
 - **[Dispel Magic, Greater](dispel-magic-greater.md)**: As *dispel magic*, but with multiple targets.
+- **[Dust Form](dust-form.md)**: You become an incorporeal creature of dust for a short period of time.
 - **[Eagle’s Splendor, Mass](eagles-splendor-mass.md)**: As *eagle’s splendor*, affects 1 subject/level.
 - **[Find the Path](find-the-path.md)**: Shows most direct way to a location.
 - **[Forbiddance](forbiddance.md)**: Blocks planar travel, damages creatures of different alignment.
@@ -218,6 +257,7 @@
 - **[Ethereal Jaunt](ethereal-jaunt.md)**: You become ethereal for 1 round/level.
 - **[Holy Word](holy-word.md)**: Kills, paralyzes, blinds, or deafens nongood subjects.
 - **[Inflict Serious Wounds, Mass](inflict-serious-wounds-mass.md)**: Deals 3d8 damage + 1/level, affects 1 subject/level.
+- **[Jolting Portent](jolting-portent.md)**: You inflict a vengeful fate on a creature, dealing electricity damage each time it attacks or casts a spell.
 - **[Refuge](refuge.md)**: Alters item to transport its possessor to you.
 - **[Regenerate](regenerate.md)**: Subject’s severed limbs grow back, cures 4d8 damage +1/level (max +35).
 - **[Repulsion](repulsion.md)**: Creatures can’t approach you.
@@ -239,6 +279,7 @@
 - **[Discern Location](discern-location.md)**: Reveals exact location of creature or object.
 - **[Earthquake](earthquake.md)**: Intense tremor shakes 80-ft. radius.
 - **[Fire Storm](fire-storm.md)**: Deals 1d6/level fire damage.
+- **[Frightful Aspect](frightful-aspect.md)**: You take on a terrifying, Large-sized form of yourself and emit an aura that causes creatures to become shaken or frightened.
 - **[Holy Aura](holy-aura.md)**: +4 to AC, +4 resistance, and SR 25 against evil spells.
 - **[Inflict Critical Wounds, Mass](inflict-critical-wounds-mass.md)**: Deals 4d8 damage + 1/level, affects 1 subject/level.
 - **[Planar Ally, Greater](planar-ally-greater.md)**: As *lesser planar ally,* but up to 18 HD.
@@ -259,6 +300,7 @@
 - **[Implosion](implosion.md)**: Inflict 10 damage/level to one creature/round.
 - **[Miracle](miracle.md)**: Requests a deity’s intercession.
 - **[Soul Bind](soul-bind.md)**: Traps newly dead soul to prevent *resurrection*.
+- **[Spell Immunity, Greater Communal](spell-immunity-greater-communal.md)**: As greater spell immunity, but you may divide the duration among creatures touched.
 - **[Storm of Vengeance](storm-of-vengeance.md)**: Storm rains acid, lightning, and hail.
 - **[Summon Monster IX](summon-monster-ix.md)**: Summons extraplanar creature to fight for you.
 - **[True Resurrection](true-resurrection.md)**: As *resurrection*, plus remains aren’t needed.

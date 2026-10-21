@@ -4,6 +4,7 @@
 
 **Abjuration**
 
+- **[Haunted Fey Aspect](haunted-fey-aspect.md)**: You surround yourself with disturbing illusions.
 - **[Resistance](resistance.md)**: Subject gains +1 on saving throws.
 
 **Conjuration**
@@ -53,14 +54,30 @@
 
 **Abjuration**
 
+- **[Abjuring Step](abjuring-step.md)**: You can move slowly and safely and still cast spells, until you move quickly, make an attack, or cast a harmful spell.
+- **[Abundant Ammunition](abundant-ammunition.md)**: Replaces nonmagical ammunition every round. Spells 6 Adoration: You gain a bonus on Diplomacy checks and performance combat checks.
+- **[Air Bubble](air-bubble.md)**: Creates a small pocket of air around your head or an object.
 - **[Alarm](alarm.md)**: Wards an area for 2 hours/level.
+- **[Damp Powder](damp-powder.md)**: Ruins ammunition loaded in the targeted firearm.
 - **[Decrepit Disguise](decrepit-disguise.md)**: Make an object seem worthless.
 - **[Deja Vu](deja-vu.md)**: Make a creature repeat its actions.
 - **[Endure Elements](endure-elements.md)**: Exist comfortably in hot or cold regions.
+- **[Fabricate Bullets](fabricate-bullets.md)**
 - **[Hold Portal](hold-portal.md)**: Holds door shut.
+- **[Illusion of Calm](illusion-of-calm.md)**: You appear to be standing still, even when you take some actions.
+- **[Jury-Rig](jury-rig.md)**: Removes the broken condition from the targeted object.
+- **[Liberating Command](liberating-command.md)**: Target makes an Escape Artist check as an immediate action and gains a bonus on it.
+- **[Lock Gaze](lock-gaze.md)**: Compels the target to look only at you for the duration of the spell.
+- **[Longshot](longshot.md)**: Grants a +10-foot bonus to the range increment for any ranged weapon fired.
 - **[Mindlink](mindlink.md)**: Communicate a great deal of information in an instant.
+- **[Mirror Strike](mirror-strike.md)**: You may strike multiple opponents with a single attack.
+- **[Moment of Greatness](moment-of-greatness.md)**: Doubles a morale bonus.
+- **[Negative Reaction](negative-reaction.md)**: Targeted creature may not positively influence anyone.
+- **[Peacebond](peacebond.md)**: Locks a weapon in place on the target’s body.
 - **[Protection from Chaos](protection-from-chaos.md)/[Protection from Evil](protection-from-evil.md)/[Protection from Good](protection-from-good.md)/[Protection from Law](protection-from-law.md)**: +2 to AC and saves, plus additional protection against selected alignment.
 - **[Quintessence](quintessence.md)**: Mask any flaws of or damage to a creature or object.
+- **[Reinforce Armaments](reinforce-armaments.md)**: Temporarily mitigates the fragile quality in targeted weapon or armor.
+- **[See Alignment](see-alignment.md)**: Pick an alignment; in your sight, creatures and items with that alignment emit a ghostly radiance.
 - **[Shield](shield.md)**: Invisible disc gives +4 to AC, blocks *magic missiles.*
 
 **Conjuration**
@@ -69,7 +86,9 @@
 - **[Mage Armor](mage-armor.md)**: Gives subject +4 armor bonus.
 - **[Mount](mount.md)**: Summons riding horse for 2 hours/level.
 - **[Obscuring Mist](obscuring-mist.md)**: Fog surrounds you.
+- **[Shock Shield](shock-shield.md)**: A shield of force protects you until you dismiss it in an explosion of electricity.
 - **[Summon Monster I](summon-monster-i.md)**: Summons extraplanar creature to fight for you.
+- **[Unerring Weapon](unerring-weapon.md)**: Grants a +2 bonus, +1 per four caster levels, on attack rolls to confirm a critical hit.
 - **[Unseen Servant](unseen-servant.md)**: Invisible force obeys your commands.
 
 **Divination**
@@ -118,20 +137,43 @@
 - **[Magic Weapon](magic-weapon.md)**: Weapon gains +1 bonus.
 - **[Reduce Person](reduce-person.md)**: Humanoid creature halves in size.
 - **[Wave Shield](wave-shield.md)**: Water blunts one incoming attack or fire effect.
+- **[Weaken Powder](weaken-powder.md)**: Targeted firearm’s ammunition halves the firearm’s range and imposes a –2 penalty on damage rolls.
 
 ## 2nd-Level Sorcerer/Wizard Spells
 
 **Abjuration**
 
+- **[Adoration](adoration.md)**: You gain a bonus on Diplomacy checks and performance combat checks.
+- **[Animal Aspect](animal-aspect.md)**: You gain some of the beneficial qualities of an animal.
 - **[Anticipate Thoughts](anticipate-thoughts.md)**: Gain increasing bonuses to AC and on attack rolls and damage rolls against one creature.
 - **[Apport Object](apport-object.md)**: Send or receive a small object via teleportation.
 - **[Arcane Lock](arcane-lock.md)**: Magically locks a portal or chest.
+- **[Bestow Weapon Proficiency](bestow-weapon-proficiency.md)**: Grants a creature proficiency in a single weapon for short period of time.
+- **[Brow Gasher](brow-gasher.md)**: Slashing weapon deals bleed damage to an opponent’s head.
+- **[Bullet Shield](bullet-shield.md)**: You gain a +4 deflection bonus to AC against firearm attacks.
+- **[Certain Grip](certain-grip.md)**: You gain a +4 competence bonus on Acrobatics and Climb checks and to CMD.
 - **[Demand Offering](demand-offering.md)**: Make a creature give you an object it’s holding.
+- **[Destabilize Powder](destabilize-powder.md)**: Ammunition in the targeted firearm is prone to misfire.
+- **[Endure Elements, Communal](endure-elements-communal.md)**: As endure elements, but you may divide the duration among creatures touched.
+- **[Fiery Shuriken](fiery-shuriken.md)**
+- **[Frost Fall](frost-fall.md)**: The area is covered in a chilling frost.
 - **[Ghost Whip](ghost-whip.md)**: Create a ghost touch whip that passes through objects.
+- **[Kinetic Reverberation](kinetic-reverberation.md)**: Channels the force of an enemy’s attack back into its weapon.
+- **[Magic Siege Engine](magic-siege-engine.md)**: Siege engine gains +1 on targeting and damage rolls.
+- **[Mount, Communal](mount-communal.md)**: As mount, but you may divide the duration among creatures touched.
 - **[Obscure Object](obscure-object.md)**: Masks object against scrying.
 - **[Paranoia](paranoia.md)**: Target becomes hostile to all creatures.
+- **[Pilfering Hand](pilfering-hand.md)**: You may seize an object or manipulate it from afar.
 - **[Protection from Arrows](protection-from-arrows.md)**: Subject gains DR 10/magic against ranged attacks.
+- **[Protection from Chaos, Communal](protection-from-chaos-communal.md)**: As protection from chaos, but you may divide the duration among creatures touched.
+- **[Protection from Evil, Communal](protection-from-evil-communal.md)**: As protection from evil, but you may divide the duration among creatures touched.
+- **[Protection from Good, Communal](protection-from-good-communal.md)**: As protection from good, but you may divide the duration among creatures touched.
+- **[Protection from Law, Communal](protection-from-law-communal.md)**: As protection from law, but you may divide the duration among creatures touched.
 - **[Psychic Reading](psychic-reading.md)**: Read surface thoughts to learn information about a subject.
+- **[Qualm](qualm.md)**: Target gains penalties on ability checks, skill checks, and concentration checks until it spends an entire round doing nothing.
+- **[Recoil Fire](recoil-fire.md)**: Ammunition in the targeted firearm generates excessive recoil.
+- **[Reinforce Armaments, Communal](reinforce-armaments-communal.md)**: As reinforce armaments, but you may divide the duration among objects touched.
+- **[Reloading Hands](reloading-hands.md)**: Loads a single shot into your weapon every round.
 - **[Resist Energy](resist-energy.md)**: Ignores first 10 (or more) points of damage per attack from specified energy type.
 
 **Conjuration**
@@ -139,8 +181,17 @@
 - **[Acid Arrow](acid-arrow.md)**: Ranged touch attack; 2d4 damage for 1 round + 1 round/three levels.
 - **[Fog Cloud](fog-cloud.md)**: Fog obscures vision.
 - **[Glitterdust](glitterdust.md)**: Blinds creatures, outlines invisible creatures.
+- **[Returning Weapon](returning-weapon.md)**: Grants a weapon the returning special weapon quality.
+- **[Ricochet Shot](ricochet-shot.md)**: Imbues a projectile weapon to give its ammunition the ability to ricochet.
+- **[Spontaneous Immolation](spontaneous-immolation.md)**: Target takes 3d6 points of fire damage and catches on fire.
+- **[Stabilize Powder](stabilize-powder.md)**: Ammunition in the targeted firearm is less likely to misfire.
 - **[Summon Monster II](summon-monster-ii.md)**: Summons extraplanar creature to fight for you.
 - **[Summon Swarm](summon-swarm.md)**: Summons swarm of bats, rats, or spiders.
+- **[Tactical Acumen](tactical-acumen.md)**: You gain an additional +1 on attack rolls or to AC due to battlefield positioning.
+- **[Telekinetic Assembly](telekinetic-assembly.md)**
+- **[Thunder Fire](thunder-fire.md)**: Ammunition in the targeted firearm deafens opponents.
+- **[Twisted Space](twisted-space.md)**: Targeted creature’s attacks target a random square instead of the intended target.
+- **[Warding Weapon](warding-weapon.md)**
 - **[Web](web.md)**: Fills 20-ft.-radius spread with sticky spiderwebs that can grapple foes and impair movement.
 
 **Divination**
@@ -207,26 +258,42 @@
 
 **Abjuration**
 
+- **[Ablative Barrier](ablative-barrier.md)**: Surrounds the target with layers of force.
 - **[Apport Animal](apport-animal.md)**: Send or receive a Tiny or smaller animal via teleportation.
 - **[Aversion](aversion.md)**: Cause the target to avoid an object or location.
 - **[Babble](babble.md)**: Target becomes nauseated and nearby creatures become fascinated.
 - **[Catatonia](catatonia.md)**: Make a willing target appear to be dead.
+- **[Chain of Perdition](chain-of-perdition.md)**: Creates a floating chain of force.
 - **[Contagious Zeal](contagious-zeal.md)**: Grant bonuses and temporary hit points that spread from creature to creature.
+- **[Darkvision, Communal](darkvision-communal.md)**: As darkvision, but you may divide the duration among creatures touched.
 - **[Detect Mindscape](detect-mindscape.md)**: Sense the presence and attributes of mindscapes.
 - **[Dispel Magic](dispel-magic.md)**: Cancels one magical spell or effect.
 - **[Ectoplasmic Snare](ectoplasmic-snare.md)**: Tendril of ectoplasm grapples a creature and tethers you to it.
 - **[Explosive Runes](explosive-runes.md)**: Deals 6d6 damage when read.
+- **[Flash Fire](flash-fire.md)**: Ammunition in the targeted firearm creates a tremendous flash capable of blinding the weapon’s bearer and those around him.
+- **[Healing Thief](healing-thief.md)**: You siphon half of all magical healing that the targeted creature receives.
+- **[Hostile Levitation](hostile-levitation.md)**: Levitates the targeted creature up off the ground.
 - **[Inflict Pain](inflict-pain.md)**: Target takes a –4 penalty on attack rolls, skill checks, and ability checks.
+- **[Locate Weakness](locate-weakness.md)**: You roll damage twice when you roll damage for a critical hit and take the best damage.
 - **[Magic Circle against Chaos](magic-circle-against-chaos.md)/[Magic Circle against Evil](magic-circle-against-evil.md)/[Magic Circle against Good](magic-circle-against-good.md)/[Magic Circle against Law](magic-circle-against-law.md)**: As *protection* spells, but 10-ft. radius and 10 min./level.
 - **[Nondetection](nondetection.md)**: Hides subject from divination, scrying.
 - **[Oneiric Horror](oneiric-horror.md)**: Distract and fatigue the target with a creature from its nightmares.
+- **[Pellet Blast](pellet-blast.md)**
+- **[Phantom Driver](phantom-driver.md)**: Conjures a phantom to drive vehicles.
+- **[Protection from Arrows, Communal](protection-from-arrows-communal.md)**: As protection from arrows, but you may divide the duration among creatures touched.
 - **[Protection from Energy](protection-from-energy.md)**: Absorbs 12 points/level of damage from one kind of energy.
 
 **Conjuration**
 
 - **[Phantom Steed](phantom-steed.md)**: Magic horse appears for 1 hour/level.
+- **[Pup Shape](pup-shape.md)**: Transforms a single animal or magical beast into a younger and cuter version of itself for a short time.
+- **[Resinous Skin](resinous-skin.md)**: You gain DR 5/piercing and +4 to CMD against disarm attempts.
+- **[Resist Energy, Communal](resist-energy-communal.md)**: As resist energy, but you may divide the duration among creatures touched.
+- **[Returning Weapon, Communal](returning-weapon-communal.md)**: As returning weapon, but you may divide the duration among weapons touched.
 - **[Sepia Snake Sigil](sepia-snake-sigil.md)**: Creates text symbol that immobilizes reader.
+- **[Share Language, Communal](share-language-communal.md)**: As share language, but you may divide the duration among creatures touched.
 - **[Sleet Storm](sleet-storm.md)**: Hampers vision and movement.
+- **[Spider Climb, Communal](spider-climb-communal.md)**: As spider climb, but you may divide the duration among creatures touched.
 - **[Stinking Cloud](stinking-cloud.md)**: Nauseating vapors, 1 round/level.
 - **[Summon Monster III](summon-monster-iii.md)**: Summons extraplanar creature to fight for you.
 
@@ -250,6 +317,7 @@
 - **[Fireball](fireball.md)**: 1d6 damage per level, 20-ft. radius.
 - **[Lightning Bolt](lightning-bolt.md)**: Electricity deals 1d6/level damage.
 - **[Tiny Hut](tiny-hut.md)**: Creates shelter for 10 creatures.
+- **[Touch Injection](touch-injection.md)**: You can deliver an infusion, elixir, poison, or potion as a touch attack.
 - **[Wall of Nausea](wall-of-nausea.md)**: Wall of distorted images nauseates creatures passing through.
 - **[Wind Wall](wind-wall.md)**: Deflects arrows, smaller creatures, and gases.
 
@@ -286,16 +354,25 @@
 
 **Abjuration**
 
+- **[Animal Aspect, Greater](animal-aspect-greater.md)**: As animal aspect, but you gain two animal qualities.
 - **[Dimensional Anchor](dimensional-anchor.md)**: Bars extradimensional movement.
 - **[Fire Trap](fire-trap.md)**: Opened object deals 1d4 damage + 1/level.
 - **[Globe of Invulnerability, Lesser](globe-of-invulnerability-lesser.md)**: Stops 1st- through 3rd- level spell effects.
 - **[Hypercognition](hypercognition.md)**: Rapidly recall everything you know about a subject.
+- **[Magic Siege Engine, Greater](magic-siege-engine-greater.md)**: Siege engine gains +1 on targeting and damage rolls for every four caster levels.
 - **[Mindscape Door](mindscape-door.md)**: Create a portal allowing entry to and exit from a mindscape.
 - **[Mindwipe](mindwipe.md)**: Erase a portion of the target’s mind and experiences, inflicting negative levels.
+- **[Named Bullet](named-bullet.md)**: Imbues ammunition with accuracy against a specific creature type.
+- **[Nondetection, Communal](nondetection-communal.md)**
 - **[Object Possession, Lesser](object-possession-lesser.md)**: Project your soul into an object, animating it.
+- **[Obsidian Flow](obsidian-flow.md)**: Converts the surface of the ground into molten glass. Spells 6 Protection from Energy, Communal: As protection from energy, but you may divide the duration among creatures touched.
+- **[Phantom Chariot](phantom-chariot.md)**: Conjures a quasi-real heavy chariot pulled by four horses.
+- **[Phantom Steed, Communal](phantom-steed-communal.md)**: As phantom steed, but you may divide the duration among creatures touched.
+- **[Protection from Energy, Communal](protection-from-energy-communal.md)**: As protection from energy, but you may divide the duration among creatures touched.
 - **[Purge Spirit](purge-spirit.md)**: Deal 1d6 points of damage per level to one haunt or spirit creature and stagger it.
 - **[Remove Curse](remove-curse.md)**: Frees object or person from curse.
 - **[Riding Possession](riding-possession.md)**: As possession, but you observe instead of control the subject.
+- **[Shocking Image](shocking-image.md)**: As mirror image, but the duplicates emit electrical damage when destroyed.
 - **[Stoneskin](stoneskin.md)**: Grants DR 10/adamantine.
 
 **Conjuration**
@@ -327,8 +404,10 @@
 - **[Ice Storm](ice-storm.md)**: Hail deals 5d6 damage in cylinder 40 ft. across.
 - **[Resilient Sphere](resilient-sphere.md)**: Force globe protects but traps one subject.
 - **[Shout](shout.md)**: Deafens all within cone and deals 5d6 sonic damage.
+- **[Telekinetic Charge](telekinetic-charge.md)**: Launches an ally through the air.
 - **[Telekinetic Maneuver](telekinetic-maneuver.md)**: Perform a telekinetic combat maneuver.
 - **[Thaumaturgic Circle](thaumaturgic-circle.md)**: As magic circle, but affecting a nonalignment subtype or outsider race.
+- **[Tongues, Communal](tongues-communal.md)**: As tongues, but you may divide the duration among creatures touched.
 - **[Wall of Fire](wall-of-fire.md)**: Deals 2d4 fire damage out to 10 ft. and 1d4 out to 20 ft. Passing through wall deals 2d6 damage + 1/level.
 - **[Wall of Ice](wall-of-ice.md)**: *Ice plane* creates wall or *hemisphere* creates dome.
 
@@ -362,10 +441,13 @@
 
 **Abjuration**
 
+- **[Absorb Toxicity](absorb-toxicity.md)**: You become immune to diseases and toxins, absorb one, and then spread it to others.
 - **[Break Enchantment](break-enchantment.md)**: Frees subjects from enchantments, transmutations, and curses.
 - **[Condensed Ether](condensed-ether.md)**: Creates a planar conjunction that slows movement, penalizes AC and Reflex saves, and imposes a miss chance on ranged attacks.
 - **[Create Mindscape](create-mindscape.md)**: Form an immersive mindscape.
 - **[Dismissal](dismissal.md)**: Forces a creature to return to its native plane.
+- **[Energy Siege Shot](energy-siege-shot.md)**: A Large siege engine deals energy damage that you designate with other effects depending on the type of energy you choose.
+- **[Hostile Juxtaposition](hostile-juxtaposition.md)**: You create a dimensional link with a targeted creature, and switch spots with it.
 - **[Mage’s Private Sanctum](mages-private-sanctum.md)**: Prevents anyone from viewing or scrying an area for 24 hours.
 
 **Conjuration**
@@ -380,7 +462,10 @@
 - **[Planar Binding, Lesser](planar-binding-lesser.md)**: Traps extraplanar creature of 6 HD or less until it performs a task.
 - **[Possession](possession.md)**: Project your soul into a creature’s body.
 - **[Secret Chest](secret-chest.md)**: Hides expensive chest on Ethereal Plane; you retrieve it at will.
+- **[Stoneskin, Communal](stoneskin-communal.md)**
 - **[Summon Monster V](summon-monster-v.md)**: Summons extraplanar creature to fight for you.
+- **[Summoner Conduit](summoner-conduit.md)**: The target takes damage whenever its summoned creature does.
+- **[Symbol of Striking](symbol-of-striking.md)**
 - **[Teleport](teleport.md)**: Instantly transports you as far as 100 miles per level.
 - **[Thoughtsense](thoughtsense.md)**: Automatically detect nearby conscious creatures.
 - **[Wall of Ectoplasm](wall-of-ectoplasm.md)**: Wall of spirits blocks movement on the Material Plane and Ethereal Plane and causes fear.
@@ -443,6 +528,7 @@
 
 - **[Permanency](permanency.md)**: Makes certain spells permanent.
 - **[Whip of Centipedes](whip-of-centipedes.md)**: As whip of spiders, but with centipedes.
+- **[Wreath of Blades](wreath-of-blades.md)**
 
 ## 6th-Level Sorcerer/Wizard Spells
 
@@ -451,10 +537,12 @@
 - **[Antimagic Field](antimagic-field.md)**: Negates magic within 10 ft.
 - **[Dispel Magic, Greater](dispel-magic-greater.md)**: As *dispel magic*, but with multiple targets.
 - **[Dream Scan](dream-scan.md)**: Read a dreaming creature’s thoughts.
+- **[Energy Siege Shot, Greater](energy-siege-shot-greater.md)**: As energy siege shot, but you can affect any size siege engine.
 - **[Explode Head](explode-head.md)**: Explode the head of a creature with 20 hp or fewer and deal damage in a 10-ft. radius around it.
 - **[Globe of Invulnerability](globe-of-invulnerability.md)**: As *lesser globe of invulnerability*, plus 4th-level spell effects.
 - **[Guards and Wards](guards-and-wards.md)**: Array of magic effects protect area.
 - **[Mind Swap](mind-swap.md)**: Switch minds with another creature for 1 hour per level.
+- **[Named Bullet, Greater](named-bullet-greater.md)**: As named bullet, but deals 2 points of damage per caster level.
 - **[Psychic Asylum](psychic-asylum.md)**: Perform a lengthy mental task in a private mindscape.
 - **[Repulsion](repulsion.md)**: Creatures can’t approach you.
 
@@ -463,6 +551,7 @@
 - **[Acid Fog](acid-fog.md)**: Fog deals acid damage.
 - **[Planar Binding](planar-binding.md)**: As *lesser planar binding,* but up to 12 HD.
 - **[Summon Monster VI](summon-monster-vi.md)**: Summons extraplanar creature to fight for you.
+- **[Tar Pool](tar-pool.md)**: Converts the top layer of the ground into hot tar.
 - **[Telepathy](telepathy.md)**: Communicate mentally with creatures within 100 ft.
 - **[Wall of Iron](wall-of-iron.md)**: 30 hp/four levels; can topple onto foes.
 
@@ -527,10 +616,12 @@
 
 **Abjuration**
 
+- **[Arcane Cannon](arcane-cannon.md)**
 - **[Awaken Construct](awaken-construct.md)**
 - **[Banishment](banishment.md)**: Banishes 2 HD/level of extraplanar creatures.
 - **[Create Mindscape, Greater](create-mindscape-greater.md)**: As create mindscape, but affecting more creatures, having a longer duration, and allowing magic alteration.
 - **[Dream Council](dream-council.md)**: Communicate with multiple sleeping creatures.
+- **[Hostile Juxtaposition, Greater](hostile-juxtaposition-greater.md)**: You may target one creature for every four of your caster levels.
 - **[Inflict Pain, Mass](inflict-pain-mass.md)**: As inflict pain, but affecting one creature per level.
 - **[Object Possession, Greater](object-possession-greater.md)**: As possess object, but the object is more powerful and you can possess a construct.
 - **[Retrocognition](retrocognition.md)**: Gain psychic impressions from past events in a location.
@@ -581,6 +672,7 @@
 - **[Control Undead](control-undead.md)**: Undead don’t attack you while under your command.
 - **[Finger of Death](finger-of-death.md)**: Deals 10 damage/level to one subject.
 - **[Symbol of Weakness](symbol-of-weakness.md)**: Triggered rune weakens creatures.
+- **[Walk Through Space](walk-through-space.md)**: You can spend a move action to teleport 30 feet or to stand while prone without provoking attacks of opportunity.
 - **[Waves of Exhaustion](waves-of-exhaustion.md)**: Several targets become exhausted.
 
 **Transmutation**
@@ -604,6 +696,7 @@
 **Abjuration**
 
 - **[Dimensional Lock](dimensional-lock.md)**: Teleportation and interplanar travel blocked for 1 day/level.
+- **[Frightful Aspect](frightful-aspect.md)**: You take on a terrifying, Large-sized form of yourself and emit an aura that causes creatures to become shaken or frightened.
 - **[Mind Blank](mind-blank.md)**: Subject is protected from mental/emotional magic and scrying.
 - **[Possession, Greater](possession-greater.md)**: As possession, but your body vanishes.
 - **[Prismatic Wall](prismatic-wall.md)**: Wall’s colors have array of effects.
@@ -669,8 +762,10 @@
 
 - **[Bilocation](bilocation.md)**: Exist in two places at once.
 - **[Freedom](freedom.md)**: Releases creature from *imprisonment.*
+- **[Heroic Invocation](heroic-invocation.md)**: Grants a number of creatures bonuses on attacks and damage, temporary hit points, and immunity to fear and charm effects.
 - **[Imprisonment](imprisonment.md)**: Entombs subject beneath the earth.
 - **[Mage’s Disjunction](mages-disjunction.md)**: Dispels magic, disenchants magic items.
+- **[Mind Blank, Communal](mind-blank-communal.md)**: As mind blank, but you may divide the duration among creatures touched.
 - **[Prismatic Sphere](prismatic-sphere.md)**: As *prismatic wall*, but surrounds on all sides.
 
 **Conjuration**
