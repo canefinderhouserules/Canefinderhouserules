@@ -679,3 +679,89 @@ This ability replaces spontaneous casting.
 *Venomous Bite (Ex)*: The naga form’s bite attack becomes poisonous. Bite—injury; *save* Fortitude DC 10 + 1/2 the druid’s class level + the druid’s Constitution modifier; *frequency* 1/ round for 6 rounds; *effect* 1 Constitution damage, *cure* 1 save.
 
 **True Naga (Su)**: At 20th level, a naga aspirant metamorphoses into a unique naga. Her wild shape form becomes her natural form, though she can transform into her original nagaji shape at will. Her creature type permanently changes to aberration. This ability replaces wildshape (at will).
+
+## Treesinger
+
+Elves live far longer than other common races, and a single elf may see whole empires rise and fall. Given the impermanence of the cultures around them, it’s small wonder that some elves turn to the timeless growth of nature for solace, finding allies among the great trees themselves, and even leading the forest’s plants into combat. A treesinger has the following class features.
+
+**Plant Bond (Ex)**: At 1st level, a treesinger forms a mystic bond with plant life. This bond can take one of two forms. The first grants the treesinger one of the following domains: Plant (*Core Rulebook*); Growth (*Advanced Player’s Guide*); Jungle, Swamp (*Ultimate Magic*). When determining the powers and bonus spells granted by this domain, the treesinger’s effective cleric level is equal to her druid level. A treesinger who selects this option also receives additional domain spell slots, just like a cleric. She must prepare the spell from her domain in this slot, and this spell cannot be used to cast a spell spontaneously.
+
+The second option is to form a close bond with a plant companion. A treesinger may begin play with any of the plants listed in Plant Companions. This plant is a loyal companion that accompanies the treesinger on her adventures. Except for the companion being a creature of the plant type, drawn from the list of plant companions, this ability otherwise works like the standard druid’s animal companion ability.
+
+Plant bond replaces the druid’s nature bond ability.
+
+**Green Empathy (Ex)**: At 1st level, a treesinger can improve the attitude of a plant creature. This ability functions just like a Diplomacy check made to improve the attitude of a person. The treesinger rolls 1d20 and adds her druid level and her Charisma modifier to determine the wild empathy check result. The typical wild plant creature has a starting attitude of indifferent.
+
+To use green empathy, the treesinger and the plant creature must be within 30 feet of one another under normal conditions. Generally, influencing a plant creature in this way takes 1 minute but, as with influencing people, it might take more or less time.
+
+A treesinger can also use this ability to influence an animal, but she takes a –4 penalty on the check. This ability replaces the wild empathy class feature.
+
+**Wild Shape (Su)**: At 4th level, a treesinger gains the ability to wild shape. This ability functions at her actual druid level. A treesinger cannot use wild shape to adopt an animal or elemental form. Instead, when she gains this ability at 4th level, she can assume the form of a Small or Medium plant. This functions as *plant shape I*, except the treesinger does not yet gain access to the constrict or poison abilities of the plant form assumed. At 8th level, the treesinger’s wild shape gains the full range of abilities available from *plant shape I*. At 10th level, a treesinger can assume the form of a Large or Tiny plant. Her wild shape ability now functions like *plant shape II*. At 12th level, a treesinger can assume the form of a Huge plant. Her wild shape ability now functions like *plant shape III*. This ability replaces, and otherwise functions like, the normal druid wild shape ability.
+
+### Plant Companions
+
+Each plant companion has different starting sizes, speed, attacks, ability scores, and special qualities. All plant attacks are made using the creature’s full base attack bonus unless otherwise noted. Plant attacks add the plant’s Strength modifier on the damage roll, unless it has only one attack, in which case it adds 1-1/2 times its Strength modifier. Some plant companions have special abilities, such as scent. Plant companions cannot gain armor or weapon proficiency feats, even as they advance in hit dice, and cannot use manufactured weapons at all unless their description says otherwise.
+
+As you gain levels, your plant companion grows in power as well. It gains the same bonuses that are gained by animal companions, noted on Table 3–8: Animal Companion Base Statistics of the *Core Rulebook*. Each plant companion gains an additional bonus, usually at 4th or 7th level, as listed with each plant choice. Instead of taking the listed benefit at 4th level, you can instead choose to increase the companion’s Strength and Constitution by 2.
+
+#### Carnivorous Flower
+
+**Starting Statistics**: **Size** Small; **Speed** 30 ft., climb 10 ft.;
+
+**AC** +2 natural armor; **Attack** bite (1d6); **Ability Scores** Str 10, Dex 17, Con 15, Int 2, Wis 12, Cha 10; **Special Qualities** low-light vision, scent.
+
+**4th-Level Advancement**: **Size** Medium; **Attack** bite (2d6);
+
+**Ability Scores** Str +4, Dex –2, Con +2; **Special Attacks** rage (1/day, as the barbarian class feature for 6 rounds).
+
+#### Crawling Vine
+
+**Starting Statistics**: **Size** Medium;
+
+**Speed** 20 ft., climb 20 ft.; **AC** +2 natural armor; **Attack** slam (1d4); **Ability Scores** Str 13, Dex 17, Con 13, Int 1, Wis 12, Cha 2; **Special Attacks** grab; **Special Qualities** low-light vision, scent.
+
+**4th-Level Advancement**: **Size** Large; **AC** +1 natural armor; **Attack** slam (1d6); **Ability Scores** Str +8, Dex –2, Con +4; **Special Attacks** constrict 1d6.
+
+#### Puffball (Floating Fungus)
+
+**Starting Statistics**: **Size** Small; **Speed** 20 ft., fly 60 ft. (average); **AC** +1 natural armor; **Attack** thorn (1d4 plus poison); **Ability Scores** Str 10, Dex 15, Con 12, Int 2, Wis 14, Cha 6; **Special Attacks** poison (*Frequency* 1 round [6], *Effect* 1 Con damage, *Cure* 1 save, Con-based DC); **Special Qualities** low-light vision.
+
+**4th-Level Advancement**: **Ability Scores** Str +2, Con +2.
+
+#### Sapling Treant
+
+**Starting Statistics**: **Size** Medium; **Speed** 30 ft., climb 30 ft.;
+
+**AC** +1 natural armor; **Attack** 2 slams (1d6); **Ability Scores** Str 15, Dex 10, Con 12, Int 2, Wis 12, Cha 7; **Special Qualities** double damage against objects, low-light vision.
+
+**4th-Level Advancement**: **Size** Large; **AC** +2 natural armor;
+
+**Attack** 2 slams (1d8); **Ability Scores** Str +8, Dex –2, Con +4.
+
+## Feral Child
+
+Some youths, abandoned in the wilderness and then raised by animals, are so connected with their adoptive home and family that they become feral. Suspicious of civilized society, these foundlings often choose allegiance to the wild over their human forebears. A feral child has the following class features.
+
+**Weapon and Armor Proficiency**: A feral child loses proficiency with the scimitar, scythe, and sickle and with shields.
+
+**Class Skills**: A feral child adds Acrobatics to her list of class skills and removes Fly and Profession from her list of class skills.
+
+**Illiteracy**: At 1st level, a feral child is unable to read and write, though she may learn by taking 1 rank of Linguistics. She does not gain Druidic as a free language and cannot select Sylvan as a bonus language.
+
+**Improved Unarmed Strike**: At 1st level, a feral child gains Improved Unarmed Strike as a bonus feat.
+
+**Beast Family (Ex)**: At 1st level, a feral child may choose one specific type of animal as the type that raised her. She gains a +2 circumstance bonus on Handle Animal and wild empathy checks with animals of that type, and she can communicate with them as if using a continual *speak with animals* spell-like ability, but this ability is nonmagical.
+
+**Nature Bond (Ex)**: At 1st level, a feral child must select an animal companion as her nature bond.
+
+**Favored Terrain (Ex)**: At 3rd level, a feral child gains the favored terrain ability as a ranger of her class level. A feral child may not choose urban as a favored terrain. This ability replaces trackless step and a thousand faces.
+
+**Native Cunning (Ex)**: At 3rd level, a feral child gains trap sense as a barbarian of equal level, and in her favored terrain, she immediately receives a Perception check to notice traps within 10 feet, as the trap spotter rogue talent. In addition, at 3rd level and every three levels thereafter, she may choose one combat maneuver, and gains a bonus equal to her trap sense bonus to her CMD against that maneuver. This ability replaces wild shape.
+
+**Native Fortitude (Ex)**: At 4th level, a feral child gains a +1 bonus on saving throws against disease, exhaustion, fatigue, fear, and poison. When she is in her favored terrain, she instead applies her favored terrain bonus on such saving throws. She also recovers from ability damage, exhaustion, and fatigue at twice the normal rate. This ability replaces resist nature’s lure.
+
+**Native Call (Su)**: At 9th level, when in her favored terrain, for any *summon nature’s ally* spells a feral child uses to summon animals that are native to that terrain, she treats the duration of the spell as if she were 2 levels higher.
+
+At 17th level, when the feral child uses *summon nature’s ally* spells to summon such animals, those animals gain a +2 bonus to both their Strength and Constitution ability scores. This stacks with the effects of the Augmented Summoning feat.
+
+This ability replaces venom immunity and timeless body.

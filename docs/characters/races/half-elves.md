@@ -55,3 +55,68 @@ The following racial traits might be selected instead of existing racial traits.
 **Sociable**: Half-elves are skilled at charming others and recovering from faux pas. If halfelves with this racial trait attempt to change a creature’s attitude with a Diplomacy check and fail by 5 or more, they can try to influence the creature a second time even if 24 hours have not passed. This racial trait replaces the adaptability racial trait.
 
 **Water Child**: Some half-elves are born of elves adapted to life on or near the water. These half-elves gain a +4 racial bonus on Swim checks, can always take 10 while swimming, and may choose Aquan as a bonus language. This racial trait replaces the halfelf’s adaptability and multitalented racial traits.
+
+### Additional Alternate Racial Traits (Advanced Race Guide)
+
+**Drow-Blooded**: Some half-elves born of drow parents exhibit more drow traits than others—particularly many of the physical features of the drow—and have darkvision 60 feet and light blindness. This racial trait replaces the low-light vision racial trait.
+
+**Drow Magic**: A few half-elves with drow ancestry exhibit the innate magic of that race. Half-elves with this trait have drow blood somewhere in their background, and can cast *dancing lights*, *darkness*, and *faerie fire* each once per day, using the half-elf’s character level as the caster level for these spell-like abilities. This racial trait replaces the adaptability and multitalented racial traits.
+
+**Wary**: Many half-elves have spent their long lives moving from place to place, often driven out by the hostility of others. Such experiences have made them wary of others’ motivations. Half-elves with this trait gain a +1 racial bonus on Sense Motive and Bluff checks. This racial trait replaces the keen senses racial trait.
+
+## Racial Subtypes
+
+You can combine various alternate racial traits to create half-elven subraces or variant races, such as the following.
+
+**Drow-Descended**: These half-elves clearly bear the features of their dark elf parents, branding them immediately as a potential threat in the eyes of others no matter what their intent or character. These half-elves have the drow-blooded and drow magic alternate racial traits.
+
+**Elf-Raised**: These half-elves represent those embraced by their elven relatives, and raised with all of the traditional cultural training and education typical of most full-blooded elves. These half-elves have the ancestral arms and arcane training alternate racial traits.
+
+**Human-Raised**: These half-elves were born and raised into accepting human communities, often raised by generations of a single family, or through the charity of churches and temples. These half-elves have the integrated and wary racial traits.
+
+## Archetypes and Class Options
+
+- [Bonded Witch](../classes/witch-archetypes.md#bonded-witch) (witch)
+- [Bramble Brewer](../classes/alchemist-archetypes.md#bramble-brewer) (alchemist)
+- [Wild Caller](../classes/summoner-archetypes.md#wild-caller) (summoner)
+- [Wild Shadow](../classes/ranger-archetypes.md#wild-shadow) (ranger)
+
+## Half-Elf Equipment (Advanced Race Guide)
+
+Half-elves have access to the following equipment.
+
+**Golden Maple Leaves**: These potent additives can only be culled from a rare maple tree known to grow exclusively in urban areas. These small, elaborately twisting trees are extremely slow to grow and mature—the leaves reach maturity only once every 3 years—and they are almost always grown and cultivated by half-elves. Additionally, half-elves are keenly aware of the effort put into the leaves’ growth and normally only sell the products of their labors to others of their kind. When the golden maple’s delicate, five-pointed leaves finally take on their namesake’s color, they can be cut, dried, and then ground into a fine powder, a process that requires a DC 15 Knowledge (nature) or Profession (herbalist) check. When used in conjunction with the Craft (alchemy) skill to create special substances and items like alchemical grease or tanglefoot bags, golden maple leaves reduce the Craft DC by 5 and add +1 to the DC of any save required by the alchemical item. A single dose of golden maple leaf powder is sufficient to augment the crafting of three alchemical items.
+
+**Star Charts**: Many half-elves live in large cities or communities where they find it difficult to commune with nature. While some go on long sojourns to the wilderness, others spend their evenings on high, lonely rooftops, gazing at the stars. These lonely souls use star charts to track the movement of the stars and other celestial bodies. Anyone referencing one of these charts on a clear night can attempt a DC 20 Knowledge (geography) check to determine her approximate location and the month. In addition, these charts grant a +2 circumstance bonus on Survival checks made to avoid getting lost at night with a clear sky.
+
+| Item | Cost | Weight |
+|---|---|---|
+| Golden maple leaves | 50 gp | 1/2 lb. |
+| Star charts | 200 gp | 1/2 lb. |
+
+## Advanced Race Guide Feats
+
+- [Discerning Eye](../../rules/feats/discerning-eye.md)
+- [Elven Spirit](../../rules/feats/elven-spirit.md)
+- [Exile’s Path](../../rules/feats/exile-s-path.md)
+- [Half-Drow Paragon](../../rules/feats/half-drow-paragon.md)
+- [Human Spirit](../../rules/feats/human-spirit.md)
+- [Multitalented Mastery](../../rules/feats/multitalented-mastery.md)
+- [Neither Elf nor Human](../../rules/feats/neither-elf-nor-human.md)
+- [Seen and Unseen](../../rules/feats/seen-and-unseen.md)
+- [Shared Manipulation](../../rules/feats/shared-manipulation.md)
+
+## Advanced Race Guide Magic Items
+
+- [Ancestral Clasp](../../magic-items/racial-items-arg.md#ancestral-clasp)
+- [Brooch of Blending](../../magic-items/racial-items-arg.md#brooch-of-blending)
+- [Cloak of the Diplomat](../../magic-items/racial-items-arg.md#cloak-of-the-diplomat)
+- [Purifying Pearl](../../magic-items/racial-items-arg.md#purifying-pearl)
+- [Ring of the Sophisticate](../../magic-items/racial-items-arg.md#ring-of-the-sophisticate)
+
+## Advanced Race Guide Spells
+
+- [Forgetful Slumber](../../magic/spells/forgetful-slumber.md)
+- [Paragon Surge](../../magic/spells/paragon-surge.md)
+- [Resilient Reservoir](../../magic/spells/resilient-reservoir.md)
+- [Urban Grace](../../magic/spells/urban-grace.md)

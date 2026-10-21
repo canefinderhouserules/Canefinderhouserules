@@ -445,3 +445,31 @@ A reincarnated oracle draws her knowledge and power from the experiences of her 
 *Location Memories (Su)*: As a swift action, you may search your past lives for memories of or insight about your current location. This grants you the scent ability, low-light vision, and a +2 insight bonus on Perception and Survival checks for 1 minute. You can use this ability a number of times per day equal to 3 + your Charisma modifier. You must take this revelation at 1st level or 3rd level.
 
 *Spirit Memories (Su)*: Once per day, you call upon the unfulfilled desires and goals of your past lives and project their frustration and despair through your eyes at a target. This is a gaze attack affecting one creature. The target must make a Will save (DC 10 + 1/2 your oracle level + your Charisma modifier) or be sickened and staggered for 1 round. This is a mind-affecting compulsion effect. You can use this ability a number of times per day equal to 3 + your Charisma modifier. You must take this revelation at 1st, 3rd, or 7th level.
+
+## Ancient Lorekeeper
+
+The ancient lorekeeper is a repository for all the beliefs and vast knowledge of an elven people. She shows a strong interest in and understanding of histories and creation legends at a young age, and as she matures her calling to serve as the memory of her long-lived people becomes clear to all who know her. An ancient lorekeeper has the following class features.
+
+**Class Skills**: An ancient lorekeeper adds Knowledge (arcane) and Knowledge (local) to her list of class skills. Whenever she makes a Knowledge check of any kind about a question regarding elves (creatures of the elf subtype), the ancient lorekeeper adds half her class level on her check. This replaces the bonus skills the ancient lorekeeper gains from her mystery.
+
+**Elven Arcana (Ex)**: At 2nd level, an ancient lorekeeper’s mastery of elven legends and philosophy has allowed her to master one spell used by elven wizards. She selects one spell from the sorcerer/wizard spell list that is at least one level lower than the highest-level oracle spell she can cast. The ancient lorekeeper gains this as a bonus spell known. The spell is treated as one level higher than its true level for all purposes. The ancient lorekeeper may choose an additional spell at 4th, 6th, 8th, 10th, 12th, 14th, 16th, and 18th levels. This ability replaces the bonus spells she would normally gain at these levels from her chosen mystery.
+
+**Mysteries**: The following oracle mysteries complement the ancient lorekeeper archetype: Lore, Nature, Waves, Wind (*Advanced Player’s Guide*); Ancestor, Time, Wood (*Ultimate Magic*).
+
+## Community Guardian
+
+The community guardian is chosen to protect and succor the weak and innocent within her community. Her calling also allows her to draw upon and focus the collective will in order to achieve those goals. A community guardian has the following class features.
+
+**Alignment**: Any good.
+
+**Recommended Mysteries**: ancestor, life, lore, nature.
+
+**Class Skills**: A community guardian adds Knowledge (local), Linguistics, Perception, and Survival to her list of class skills. These replace the additional class skills from her mystery.
+
+**Bonus Spells**: *bless water* (2nd), *consecrate* (4th), *remove disease* (6th), *hallow* (10th), *heroes’ feast* (12th). These bonus spells replace the oracle’s mystery bonus spells from these levels.
+
+**Revelations**: A community guardian must take the following revelations at the listed levels.
+
+*Spirit of Community (Ex)*: As a move action, you call upon the spirits of community. For the next round, you grant every ally within 30 feet a +1 competence bonus on a single skill check (of the ally’s choice) that it makes before the end of this revelation’s duration. Furthermore, allies within 30 feet can, as a free action, choose to forgo this bonus, and instead grant a single ally a +1 increase to its competence bonus granted by this ability (maximum +5). You can use this ability a number of times per day equal to 3 + your Charisma modifier. You must take this revelation at 1st level.
+
+*Renewing Radiance (Su)*: Once per day you can produce a burst of swirling white light that provides a measure of protection and renewal to allies within 30 feet for 1 round. On their turn, the allies can choose either to gain a +1 sacred bonus to AC for 1 round or to heal a number of hit points equal to 1d6 + your Charisma bonus (their choice). If an ally is dying, it is stabilized instead. At 7th level, the bonus to AC increases to +2, and the healing increases to 2d6 + your Charisma bonus hit points, and at 14th level the bonus to AC increases to +3, and the healing increases to 3d6 + your Charisma bonus hit points. You must take this revelation at 3rd level.

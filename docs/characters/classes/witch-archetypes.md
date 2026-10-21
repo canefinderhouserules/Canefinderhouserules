@@ -317,3 +317,31 @@ A changeling dreamweaver draws upon her hag heritage to ply the dream realms in 
 **Major Hexes**: The following major hexes complement the dreamweaver archetype: nightmare, vision (*Advanced Player’s Guide*).
 
 **Grand Hexes**: The following major hexes complement the dreamweaver archetype: eternal slumber (*Advanced Player’s Guide*); dire prophecy (*Ultimate Magic*).
+
+## Bonded Witch
+
+While all witches commune with the unknown, the blend of human ingenuity and adept learning mixed with elven blood gives some half-elves a unique conduit to channel the powers of the arcane. Bonded witches forsake familiars as vessels of power in favor of a specific object that grants them powers above and beyond those of their patron alone, as they tap into the powerful magic of the item itself. A bonded witch has the following class features.
+
+**Bonded Item (Sp)**: At 1st level, a bonded witch gains a bonded item instead of a familiar. This bonded item is similar to a wizard’s arcane bond bonded item, and follows all the rules of such an item with the following exceptions.
+
+A bonded witch’s bonded item serves as a vessel for her spells and a conduit for communication with her patron. A bonded witch must commune with her bonded item each day to prepare her spells. The bonded item stores all of the spells that the bonded witch knows, and the bonded witch cannot prepare spells that are not stored within it. A bonded witch starts with the same number of spells and gains new spells the same way as a witch, and can even add spells by learning them from scrolls in the same way, but a bonded witch cannot learn spells from another bonded item.
+
+Since a bonded witch does not have a spellbook, starting at 2nd level, a bonded witch’s bonded item can be used once per day to cast a spell dependent on the type of bonded object chosen by the bonded witch. The spell is treated like any other spell cast by the bonded witch, including its casting time, duration, and other effects dependent of the bonded witch’s level. This spell cannot be further modified by metamagic feats or any other ability. As the bonded witch gains levels, the bonded item gains new spells that the bonded witch can cast in this way. She can cast any one of these spells once per day using her bonded object, but gains greater flexibility in what spells she can cast, and gains more powerful spells as she gains new levels. The bonded item spells associated with each item type are as follows.
+
+*Amulet*: 2nd—*stonefist*; 4th— *bear’s endurance*; 6th—*burst of speed*; 8th—*mnemonic enhancer*; 10th—*stoneskin*; 12th—*monstrous physique IV*; 14th—*firebrand*; 16th—*iron body*; 18th—*overwhelming presence*.
+
+*Ring*: 2nd—*shield*; 4th—*ablative barrier*; 6th—*protection from energy*; 8th—*nondetection*; 10th— *life bubble*; 12th—*resinous skin*; 14th—*antimagic field*; 16th— *deflection*; 18th—*spell immunity*.
+
+*Staff*: 2nd—*shillelagh*; 4th—*warp wood*; 6th—*plant growth*; 8th—*arboreal hammer*; 10th—*passwall*; 12th—*move earth*; 14th—*change staff*; 16th—*control plants*; 18th—*wooden phalanx*.
+
+*Wand*: 2nd—*magic missile*; 4th—*knock*; 6th—*fireball*; 8th—*restoration*; 10th—maximized *scorching ray*; 12th— *bull’s strength* (mass); 14th—*greater restoration*; 16th— empowered and maximized *fireball*; 18th—empowered and maximized *fire shield*.
+
+*Weapon*: 2nd—*warding weapon*; 4th—*versatile weapon*;
+
+### New Alchemist Discovery
+
+The following discovery is favored by bramble brewers.
+
+**Defoliant Bomb***: These poisonous bombs clear away foliage, dealing extra damage to plant creatures. When the alchemist creates a bomb, he can choose to have it deal extra damage against plant creatures but less damage against other creatures. Against creatures with the plant type, a defoliant bomb deals 1d8 points of damage, plus 1d8 points of damage for every odd-numbered level the alchemist possesses, instead of 1d6. Against all other creatures, the defoliant bomb only deals 1d4 points of damage, plus 1d4 points of damage for every odd-numbered level, instead of 1d6. This is a poison effect. A defoliant bomb kills all normal vegetation in the target’s square and its splash area; any plant-based difficult terrain in the affected area becomes normal terrain. 6th—*greater magic weapon*; 8th—*telekinetic charge*; 10th—*energy siege shot*; 12th—*blade barrier*; 14th—*arcane cannon*; 16th—*earthquake*; 18th—*ride the lightning*.
+
+This ability replaces the witch’s familiar class feature.

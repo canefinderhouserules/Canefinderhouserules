@@ -407,3 +407,35 @@ Although the shaitan binder gains the standard versions of these evolutions for 
 **Stone Curse (Su)**: At 18th level, a shaitan binder may select stone curse as a 4-point evolution. This allows the eidolon to trap creatures in stone like the shaitan stone curse ability. The DC to resist or break free of the stone curse is 10 + 1/2 the eidolon’s Hit Dice + the eidolon’s Strength score. This ability replaces greater aspect.
 
 **Noble Eidolon (Sp)**: At 20th level, a shaitan binder’s eidolon gains the ability to grant its summoner’s wishes. Once per day, the eidolon can cast *limited wish* as a spell-like ability. The eidolon’s caster level is equal to its level. The wish must be spoken aloud by the shaitan binder, beginning with the words “I wish,” and cannot duplicate a wish the eidolon has granted within the past 24 hours. If the eidolon uses this ability to duplicate a spell with a costly material component, the shaitan binder must provide that component. This ability replaces twin eidolon.
+
+## Wild Caller
+
+Often a half-elf’s ties to nature and elven heritage are so strong that they can dramatically affect the nature of his summonings. The wild caller calls eidolons that take more natural and savage forms and summons from nature rather than the Great Beyond. A wild caller has the following class features.
+
+**Spells**: A wild caller does not have access to *summon monster* spells. Instead, he swaps out those spells on his spell list with *summon nature’s ally* spells of the same level. This ability alters the normal spell list of the summoner.
+
+**Eidolon**: The eidolon of a wild caller tends to take more natural and more savage forms than other summoners’ eidolons. A wild caller gains 1/4 his class level as bonus evolution points in his eidolon’s evolution pool, but his eidolon cannot take the following evolutions:
+
+*Advanced Player’s Guide*—*1-point evolutions*: magic attacks, skilled (while the eidolon can select this evolution, it can only do so with the following skills: Acrobatics, Climb, Escape Artist, Fly, Intimidate, Perception, Survival, and Swim); *2-point evolutions*: energy attacks, immunity, weapon training; *3-point evolutions*: damage reduction, frightful presence; *4-point evolutions*: breath weapon, spell resistance.
+
+*Ultimate Magic*—*1-point evolutions*: basic magic, unnatural aura; *2-point evolutions*: channel resistance, head, minor magic, undead appearance; *3-point evolutions*: major magic; *4-point evolutions*: dimension door, incorporeal form, lifesense, no breath, ultimate magic.
+
+This ability alters the normal summoner’s eidolon class feature, but is otherwise identical to that class feature.
+
+***Summon Nature’s Ally I* (Sp)**: Starting at 1st level, a wild caller can cast *summon nature’s ally* a number of times per day equal to 3 + his Charisma modifier. At 3rd level and every 2 levels thereafter, the power of this ability increases by one spell level, allowing him to summon more powerful creatures (to a maximum of *summon nature’s ally IX* at 17th level). Furthermore, at 19th level, the wild caller cannot use *gate* as a spell-like ability, but can use either *summon elder worm* or *summon froghemoth* instead. This ability otherwise functions like the standard summoner’s *summon monster I* ability and replaces that ability.
+
+## Blood God Disciple
+
+A half-orc summoner who devotes himself to one of the bloody orc gods may believe his eidolon is an avatar of that god rather than a mere supernatural creature. A blood god disciple generally fights by the avatar’s side and offers it blood sacrifices in exchange for martial prowess. A blood god disciple has the following class features.
+
+**Blood Feast (Su)**: At 1st level, a blood god disciple can feed a recently fallen foe to his eidolon, allowing the outsider to channel some of its power into the summoner. The eidolon must spend a standard action to eat some of the opponent, which must be a living, corporeal creature killed or knocked unconscious by the eidolon or summoner in the past minute. This eating deals damage to the target as if the eidolon had attacked it with one natural attack (typically a bite). The fallen creature must have at least half as many Hit Dice as the summoner. Once the feeding is complete, the summoner may manifest one 1-point evolution. This lasts for 1 minute. The evolution’s effects use the summoner’s Hit Dice and ability scores rather than the eidolon’s. The blood god disciple can use this ability a number of times per day equal to 3 + his Charisma modifier. He may only apply one use of this ability at a time (using it a second time replaces any evolution manifested with this ability), and can only manifest evolutions his eidolon has.
+
+At 5th level, when the blood god disciple uses blood feast, he may manifest one 2-point evolution instead of a 1-point evolution. At 9th level, he may manifest up to two evolutions worth a total of 3 evolution points or fewer. At 13th level, he may manifest up to two evolutions worth a total of 4 evolution points or fewer. At 17th level, he may manifest up to three evolutions worth a total of 5 evolution points or fewer.
+
+This ability replaces the *summon monster I*, *III*, *V*, *VII*, and *IX* spell-like abilities.
+
+**Bloody Gift (Su)**: At 3rd level, when a blood god disciple uses blood feast to manifest an evolution, he may touch one ally and grant it that evolution as well. Each affected ally counts as one use per day of the blood feast ability. At 7th, 11th, 15th, and 19th level, the blood god disciple can affect an additional creature with this ability (each one counting as a use per day of blood feast). If the blood god disciple can manifest multiple evolutions per use of blood feast, his selected allies manifest these multiple evolutions as well. This ability replaces the *summon monster II* spell-like ability.
+
+**Avatar Gambit (Ex)**: At 7th level, when a blood god disciple dismisses his eidolon, he rages like a barbarian for a number of rounds equal to half his summoner level (he may end this rage early just like a barbarian, but if he does so, any remaining rounds of rage from this ability are lost). This replaces the *summon monster IV* spell-like ability.
+
+**Rage Power (Ex)**: At 11th level and 15th level, a blood god disciple selects a barbarian rage power, which he may use when raging (whether from the avatar gambit ability or actual barbarian rage). This replaces the *summon monster VI* and *VIII* spell-like abilities.

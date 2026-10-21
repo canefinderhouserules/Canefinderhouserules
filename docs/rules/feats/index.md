@@ -1273,6 +1273,7 @@ Racial feats from the *Advanced Race Guide*. Each feat lists the race it require
 
 | Feat | Type | Prerequisites |
 |---|---|---|
+| [Adaptive Fortune](adaptive-fortune.md) | — | Fortunate One, adaptable luck racial trait, character level 10th, halfling |
 | [Agile Tongue](agile-tongue.md) | — | Grippli |
 | [Airy Step](airy-step.md) | — | Sylph |
 | [Angel Wings](angel-wings.md) | — | Angelic Blood, aasimar, character level 10th |
@@ -1280,6 +1281,9 @@ Racial feats from the *Advanced Race Guide*. Each feat lists the race it require
 | [Angelic Flesh](angelic-flesh.md) | — | Angelic Blood, aasimar |
 | [Aquatic Ancestry](aquatic-ancestry.md) | — | Undine |
 | [Armor of the Pit](armor-of-the-pit.md) | — | Tiefling |
+| [Attuned to the Wild](attuned-to-the-wild.md) | — | Elf |
+| [Beast Rider](beast-rider.md) | — | Animal companion or mount class feature, character level 7th, half-orc or orc |
+| [Bestow Luck](bestow-luck.md) | — | Defiant Luck, Inexplicable Luck, human |
 | [Black Cat](black-cat.md) | — | Catfolk |
 | [Blazing Aura](blazing-aura.md) | Combat | Inner Flame, Scorching Weapons, character level 13th, ifrit |
 | [Blistering Feint](blistering-feint.md) | Combat | Combat Expertise, Improved Feint, ifrit |
@@ -1287,19 +1291,34 @@ Racial feats from the *Advanced Race Guide*. Each feat lists the race it require
 | [Blood Drinker](blood-drinker.md) | — | Dhampir |
 | [Blood Feaster](blood-feaster.md) | — | Blood Drinker, base attack bonus +6, dhampir |
 | [Blood Salvage](blood-salvage.md) | — | Blood Drinker, dhampir |
+| [Blood Vengeance](blood-vengeance.md) | — | Half-orc or orc, nonlawful |
+| [Blundering Defense](blundering-defense.md) | Combat | Cautious Fighter, halfling |
 | [Born Alone](born-alone.md) | — | Orc |
+| [Brewmaster](brewmaster.md) | — | Craft (alchemy) 1 rank, Profession (brewer) 1 rank, dwarf |
 | [Bullying Blow](bullying-blow.md) | Combat | Intimidate 1 rank, orc |
 | [Burn! Burn! Burn!](burn-burn-burn.md) | — | Disable Device 1 rank, goblin |
 | [Burrowing Teeth](burrowing-teeth.md) | — | Sharpclaw, Tunnel Rat, ratfolk |
 | [Carrion Feeder](carrion-feeder.md) | — | Tengu |
+| [Casual Illusionist](casual-illusionist.md) | — | Gnome, gnome magic racial trait |
 | [Catfolk Exemplar](catfolk-exemplar.md) | — | Catfolk |
+| [Cautious Fighter](cautious-fighter.md) | Combat | Halfling |
 | [Celestial Servant](celestial-servant.md) | — | Aasimar, animal companion, familiar, or mount class feature |
 | [Channel Force](channel-force.md) | — | Aasimar, channel energy 2d6 |
 | [Claw Pounce](claw-pounce.md) | Combat | Str 13, Dex 15, Nimble Striker, base attack bonus +10, catfolk, cat’s claws racial trait or Aspect of the Beast (claws of the beast manifestation) |
+| [Cleave Through](cleave-through.md) | Combat | Str 13, Cleave, Power Attack, base attack bonus +11, dwarf |
 | [Cloud Gazer](cloud-gazer.md) | — | Sylph |
+| [Cloven Helm](cloven-helm.md) | Combat | Dented Helm, Hard-Headed, base attack bonus +11, dwarf |
+| [Courageous Resolve](courageous-resolve.md) | — | Craven racial trait or fearless racial trait, half ling |
+| [Critical Versatility](critical-versatility.md) | Combat | Fighter level 11th, human |
 | [Dark Sight](dark-sight.md) | — | Gloom Sight, fetchling |
+| [Dauntless Destiny](dauntless-destiny.md) | — | Cha 13, Fearless Curiosity, Intimidate 10 ranks, human |
 | [Deafening Explosion](deafening-explosion.md) | — | Bomb class feature, hobgoblin |
+| [Defiant Luck](defiant-luck.md) | — | Human |
 | [Demoralizing Lash](demoralizing-lash.md) | Combat | Base attack bonus +1, Intimidate 1 rank, hobgoblin |
+| [Dented Helm](dented-helm.md) | Combat | Hard-Headed, base attack bonus +6, dwarf |
+| [Desperate Swing](desperate-swing.md) | Combat | Cautious Fighter, base attack bonus +1, halfling |
+| [Destroyer’s Blessing](destroyer-s-blessing.md) | Combat | Half-orc or orc, rage class feature |
+| [Discerning Eye](discerning-eye.md) | — | Elf or half-elf, keen senses racial trait |
 | [Diverse Palate](diverse-palate.md) | — | Blood Drinker, dhampir |
 | [Draconic Aspect](draconic-aspect.md) | — | Kobold |
 | [Draconic Breath](draconic-breath.md) | — | Draconic Aspect, kobold |
@@ -1309,10 +1328,19 @@ Racial feats from the *Advanced Race Guide*. Each feat lists the race it require
 | [Dwarf Blooded](dwarf-blooded.md) | — | Oread |
 | [Echoes of Stone](echoes-of-stone.md) | — | Oread |
 | [Elemental Jaunt](elemental-jaunt.md) | — | Character level 15th, ifrit, oread, sylph, or undine |
+| [Elven Battle Training](elven-battle-training.md) | Combat | Base attack bonus +1, elf |
+| [Elven Spirit](elven-spirit.md) | — | Half-elf |
+| [Exile’s Path](exile-s-path.md) | — | Half-elf |
 | [Expanded Fiendish Resistance](expanded-fiendish-resistance.md) | — | Tiefling |
+| [Expanded Resistance](expanded-resistance.md) | — | Gnome, illusion resistance racial trait |
 | [Extra Elemental Assault](extra-elemental-assault.md) | — | Suli |
+| [Fast Learner](fast-learner.md) | — | Int 13, human |
+| [Fearless Curiosity](fearless-curiosity.md) | — | Cha 13, human |
 | [Feline Grace](feline-grace.md) | — | Dexterity 13, catfolk |
 | [Ferocious Action](ferocious-action.md) | — | Ferocity racial trait, orc |
+| [Ferocious Resolve](ferocious-resolve.md) | — | Con 13, half-orc, orc ferocity racial trait |
+| [Ferocious Summons](ferocious-summons.md) | — | Augment Summoning, Spell Focus (conjuration), half-orc or orc |
+| [Ferocious Tenacity](ferocious-tenacity.md) | Combat | Ferocity racial trait, half-orc or orc, rage class feature |
 | [Fiend Sight](fiend-sight.md) | — | Darkvision 60 ft., tiefling |
 | [Fire Hand](fire-hand.md) | Combat | Goblin |
 | [Fire Tamer](fire-tamer.md) | — | Goblin |
@@ -1320,69 +1348,113 @@ Racial feats from the *Advanced Race Guide*. Each feat lists the race it require
 | [Flame Heart](flame-heart.md) | — | Fire Tamer, character level 5th, goblin |
 | [Focusing Blow](focusing-blow.md) | Teamwork | Hobgoblin Discipline, hobgoblin |
 | [Foment the Blood](foment-the-blood.md) | — | Channel energy class feature, orc |
+| [Fortunate One](fortunate-one.md) | — | Adaptable luck racial trait, halfling |
+| [Giant Killer](giant-killer.md) | Combat | Str 13, Cleave, Goblin Cleaver, Orc Hewer, Power Attack, Strike Back, base attack bonus +11, dwarf |
 | [Giant Steps](giant-steps.md) | — | Duergar, slow and steady racial trait |
 | [Gloom Sight](gloom-sight.md) | — | Fetchling |
 | [Gloom Strike](gloom-strike.md) | Combat | Blind-Fight, fetchling |
+| [Gnome Weapon Focus](gnome-weapon-focus.md) | Combat | Base attack bonus +1, gnome, proficient with all martial weapons |
+| [Goblin Cleaver](goblin-cleaver.md) | Combat | Str 13, Cleave, Power Attack, dwarf |
 | [Goblin Gunslinger](goblin-gunslinger.md) | Combat | Goblin |
+| [Gore Fiend](gore-fiend.md) | — | Half-orc or orc, rage class feature |
 | [Grasping Tail](grasping-tail.md) | — | Tiefling |
+| [Great Hatred](great-hatred.md) | Combat | Gnome, hatred racial trait |
 | [Greater Channel Force](greater-channel-force.md) | — | Channel Force, Improved Channel Force, aasimar, channel energy 6d6 |
 | [Greater Drow Nobility](greater-drow-nobility.md) | — | Cha 13, Drow Nobility, Improved Drow Nobility, able to use drow spell-like abilities, drow |
 | [Grudge Fighter](grudge-fighter.md) | Combat | Orc |
+| [Guardian of the Wild](guardian-of-the-wild.md) | — | Attuned to the Wild, elf |
+| [Half-Drow Paragon](half-drow-paragon.md) | — | Drow-blooded and drow magic racial traits, half-elf |
+| [Hard-Headed](hard-headed.md) | Combat | Base attack bonus +1, dwarf |
 | [Heavenly Radiance](heavenly-radiance.md) | — | Aasimar, *daylight* spell-like ability, sufficiently high level (see below) |
+| [Heroic Will](heroic-will.md) | — | Iron Will, base Will save +4, human |
 | [Hobgoblin Discipline](hobgoblin-discipline.md) | — | Base attack bonus +1, hobgoblin |
+| [Horde Charge](horde-charge.md) | Teamwork | Base attack bonus +1, half-orc or orc |
+| [Human Spirit](human-spirit.md) | — | Half-elf |
+| [Huntmaster](huntmaster.md) | — | Handle Animal 1 rank; either the animal companion, divine bond (mount), or mount class feature; human |
 | [Hydraulic Maneuver](hydraulic-maneuver.md) | — | *Hydraulic push* spell-like ability, undine |
 | [Improved Channel Force](improved-channel-force.md) | — | Channel Force, aasimar, channel energy 4d6 |
 | [Improved Dark Sight](improved-dark-sight.md) | — | Dark Sight, Gloom Sight, fetchling |
 | [Improved Drow Nobility](improved-drow-nobility.md) | — | Cha 13, Drow Nobility, able to use drow spell-like abilities, drow |
+| [Improved Improvisation](improved-improvisation.md) | — | Int 13, Fast Learner, Improvisation, human |
+| [Improved Low Blow](improved-low-blow.md) | Combat | Base attack bonus +4, halfling, low-blow racial trait |
+| [Improved Surprise Follow-Through](improved-surprise-follow-through.md) | Combat | Str 13, Cleave, Great Cleave, Power Attack, Surprise Follow Through, base attack bonus +8 |
 | [Improved Umbral Scion](improved-umbral-scion.md) | — | Cha 13, Wis 13, Drow Nobility, Greater Drow Nobility, Improved Drow Nobility, Umbral Scion, able to use drow spell-like abilities, drow |
+| [Improvisation](improvisation.md) | — | Int 13, Fast Learner, human |
 | [Incremental Elemental Assault](incremental-elemental-assault.md) | — | Suli |
+| [Inexplicable Luck](inexplicable-luck.md) | — | Defiant Luck, human |
 | [Inner Breath](inner-breath.md) | — | Character level 11th, sylph |
 | [Inner Flame](inner-flame.md) | Combat | Scorching Weapons, character level 7th, ifrit |
+| [Intimidating Confidence](intimidating-confidence.md) | — | Cha 13, Fearless Curiosity, Intimidate 5 ranks, human |
 | [Kobold Ambusher](kobold-ambusher.md) | Combat | Stealth 4 ranks, kobold |
 | [Kobold Sniper](kobold-sniper.md) | Combat | Stealth 1 rank, kobold |
+| [Ledge Walker](ledge-walker.md) | — | Dex 13, dwarf, mountaineer or stability racial trait |
 | [Life’s Blood](life-s-blood.md) | — | Samsaran |
 | [Lingering Invisibility](lingering-invisibility.md) | — | Duergar |
 | [Long-Nose Form](long-nose-form.md) | — | Character level 3rd, tengu |
+| [Lucky Healer](lucky-healer.md) | — | Adaptive luck racial trait, halfling |
+| [Lucky Strike](lucky-strike.md) | Combat | Base attack bonus +5, adaptive luck racial trait, halfling |
+| [Mage of the Wild](mage-of-the-wild.md) | — | Attuned to the Wild, elf |
 | [Magical Tail](magical-tail.md) | — | Kitsune |
+| [Martial Mastery](martial-mastery.md) | Combat | Martial Versatility, fighter level 16th, human |
+| [Martial Versatility](martial-versatility.md) | Combat | Fighter level 4th, human |
 | [Metallic Wings](metallic-wings.md) | — | Angelic Blood, Angelic Flesh, Angel Wings, aasimar, character level 11th |
 | [Mother’s Gift](mother-s-gift.md) | — | Changeling |
+| [Multitalented Mastery](multitalented-mastery.md) | — | Character level 5th, half-elf, multitalented racial trait |
 | [Murmurs of Earth](murmurs-of-earth.md) | — | Echoes of Stone, character level 9th, oread |
 | [Natural Charmer](natural-charmer.md) | — | Cha 17, dhampir |
+| [Neither Elf nor Human](neither-elf-nor-human.md) | — | Exile’s Path, Seen and Unseen, character level 11th, half-elf |
 | [Nimble Striker](nimble-striker.md) | Combat | Dex 13, base attack bonus +1, catfolk, sprinter racial trait |
 | [Noble Spell Resistance](noble-spell-resistance.md) | — | Cha 13, Wis 13, Greater Drow Nobility, character level 13th, drow |
+| [Orc Hewer](orc-hewer.md) | Combat | Str 13, Cleave, Goblin Cleaver, Power Attack, dwarf |
 | [Orc Weapon Expertise](orc-weapon-expertise.md) | Combat | Base attack bonus +1, orc |
 | [Oread Burrower](oread-burrower.md) | — | Stony Step, character level 9th, oread |
 | [Oread Earth Glider](oread-earth-glider.md) | — | Oread Burrower, Stony Step, character level 13th, oread |
 | [Realistic Likeness](realistic-likeness.md) | — | — |
+| [Resilient Brute](resilient-brute.md) | — | Half-orc or orc |
 | [Resolute Rager](resolute-rager.md) | — | Orc, rage class feature |
 | [Reverse-Feint](reverse-feint.md) | Combat | Toughness, base attack bonus +1, orc |
+| [Risky Striker](risky-striker.md) | Combat | Base attack bonus +1, halfling |
 | [Scavenger’s Eye](scavenger-s-eye.md) | — | Tengu |
 | [Scorching Weapons](scorching-weapons.md) | Combat | Ifrit |
 | [Sea Hunter](sea-hunter.md) | Combat | Combat Expertise, merfolk |
+| [Seen and Unseen](seen-and-unseen.md) | — | Exile’s Path, character level 5th, half-elf |
 | [Shadow Caster](shadow-caster.md) | — | Caster level 1st, drow |
 | [Shadow Ghost](shadow-ghost.md) | — | Fetchling, *shadow walk* spell-like ability |
 | [Shadow Walker](shadow-walker.md) | — | Fetchling, *shadow walk* spell-like ability |
 | [Shadowy Dash](shadowy-dash.md) | — | Wayang |
+| [Shared Manipulation](shared-manipulation.md) | — | Cha 13, half-elf |
 | [Sharpclaw](sharpclaw.md) | Combat | Ratfolk |
+| [Shatterspell](shatterspell.md) | Combat | Disruptive, Spellbreaker, dwarf, 10th-level fighter |
 | [Sleep Venom](sleep-venom.md) | — | Vishkanya |
 | [Spider Step (Drow)](spider-step-drow.md) | — | Character level 3rd, drow |
 | [Spider Summoner](spider-summoner.md) | — | Ability to cast *summon monster* or *summon nature’s ally* spells, drow |
+| [Spirit of the Wild](spirit-of-the-wild.md) | — | Attuned to the Wild, Guardian of the Wild, elf |
 | [Spit Venom](spit-venom.md) | Combat | Nagaji |
 | [Steam Caster](steam-caster.md) | — | Undine |
 | [Stoic Pose](stoic-pose.md) | — | Svirfneblin |
 | [Stony Step](stony-step.md) | — | Oread |
 | [Stretched Wings](stretched-wings.md) | — | Str 13, Skill Focus (Fly), strix, wing-clipped racial trait |
+| [Sure and Fleet](sure-and-fleet.md) | — | Fleet of foot racial trait, halfling |
+| [Surge of Success](surge-of-success.md) | — | Human |
+| [Surprise Follow-Through](surprise-follow-through.md) | Combat | Str 13, Cleave, Power Attack, base attack bonus +1 |
+| [Surprise Strike](surprise-strike.md) | Combat | Cautious Fighter, Desperate Swing, base attack bonus +6, halfling |
+| [Sympathetic Rage](sympathetic-rage.md) | Combat | Half-orc or orc, nonlawful |
 | [Tail Terror](tail-terror.md) | Combat | Base attack bonus +1, kobold |
 | [Tangle Feet](tangle-feet.md) | Combat | Dodge, Mobility, Underfoot, goblin, Small size or smaller |
 | [Taskmaster](taskmaster.md) | Combat | Demoralizing Lash, Intimidate 5 ranks, hobgoblin |
+| [Tenacious Survivor](tenacious-survivor.md) | — | Con 13, Diehard, Endurance, half-orc or orc |
 | [Tengu Raven Form](tengu-raven-form.md) | — | Tengu Wings, character level 7th, tengu |
 | [Tengu Wings](tengu-wings.md) | — | Character level 5th, tengu |
 | [Terrorizing Display](terrorizing-display.md) | Combat | Dazzling Display, Demoralizing Lash, Taskmaster, Weapon Focus, Intimidate 10 ranks, hobgoblin, proficiency with selected weapon |
+| [Thrill of the Kill](thrill-of-the-kill.md) | — | Half-orc or orc, rage class feature |
+| [Toxic Recovery](toxic-recovery.md) | — | Dwarf, hardy racial trait |
 | [Trap Wrecker](trap-wrecker.md) | — | Power Attack, Disable Device 1 rank, orc |
 | [Tree Hanger](tree-hanger.md) | Combat | Acrobatics 1 rank, vanara |
 | [Triton Portal](triton-portal.md) | — | Character level 5th, *hydraulic push* spell-like ability, undine |
 | [Tunnel Rat](tunnel-rat.md) | — | Ratfolk, swarming racial trait |
 | [Umbral Scion](umbral-scion.md) | — | Cha 13, Wis 13, Drow Nobility, Greater Drow Nobility, Improved Drow Nobility, able to use drow spell-like abilities, drow |
+| [Uncanny Defense](uncanny-defense.md) | Combat | Cautious Fighter, base attack bonus +3, halfling |
+| [Vast Hatred](vast-hatred.md) | Combat | Gnome, hatred racial trait |
 | [Water Skinned](water-skinned.md) | — | Undine |
 | [Wings of Air](wings-of-air.md) | — | Airy Step, character level 9th, sylph |
 

@@ -608,3 +608,27 @@ Driven by suspicion and hatred, strix doggedly guard their territories, making d
 **Flying Dodger (Ex)**: At 9th level, when an airborne ambusher flies at least half its fly speed on its turn, it gains a +1 dodge bonus to AC for 1 round. This bonus increases to +2 at 11th level and +4 at 17th level. This ability replaces weapon training 2.
 
 **Plummeting Charge (Ex)**: At 13th level, if an airborne ambusher flies at least half its fly speed as part of a charge, it gains a +2 racial bonus on the attack roll (in addition to the normal charge bonus) and a +4 bonus on its critical confirmation roll. These bonuses improve to +4 and +6 at 17th level. This replaces weapon training 3 and 4.
+
+## Foehammer
+
+While the axe is the most famous dwarven weapon, the hammer is at the heart of dwarves’ heritage as forgemasters and warriors alike.
+
+**Sledgehammer (Ex)**: At 3rd level, a foehammer wielding a hammer gains a +2 circumstance bonus on combat maneuver checks made to bull rush, overrun, sunder, or trip. This ability replaces armor training 1.
+
+**Weapon Training (Ex)**: At 5th level, a foehammer must select hammers and does not gain weapon training with other groups, though his weapon training bonus improves by +1 every four levels after 5th.
+
+**Hammer to the Ground (Ex)**: At 7th level, when a foehammer succeeds at a bull rush combat maneuver, he can make a trip combat maneuver at the end of the bull rush. If he does not move with the target, the force of his blow may still trip his foe, but he takes a –5 penalty on the combat maneuver check to trip.
+
+At 15th level, any creature a foehammer successfully bull rushes is automatically knocked prone at the end of the bull rush. This ability replaces armor training 2 and 4.
+
+**Rhythmic Blows (Ex)**: At 9th level, each time that a foehammer hits a target, he gains a +1 bonus on attack rolls against that target. This bonus stacks with each hit against that target, but lasts only until the end of the foehammer’s turn. This ability replaces weapon training 2.
+
+**Piledriver (Ex)**: At 11th level, as a standard action, a foehammer may make a single melee attack with a weapon from the hammer weapon training group. If the attack hits, he may make a bull rush or trip combat maneuver against the target of his attack as a free action that does not provoke an attack of opportunity. This ability replaces armor training 3.
+
+**Ground Breaker (Ex)**: At 13th level, as a full-round action, a foehammer may strike the ground with his hammer. If the attack deals more damage than the floor’s hardness, the space he occupies and all adjacent squares become difficult terrain. Creatures in those squares, except for the foehammer, are knocked prone (DC 15 Reflex negates). This ability replaces weapon training 3.
+
+**Hammer Master (Ex)**: At 17th level, any combat feats a foehammer has learned with any weapon from the hammer weapon training group (e.g., Improved Critical, Weapon Focus) apply to all weapons from that group. This ability replaces weapon training 4.
+
+**Devastating Blow (Ex)**: At 19th level, as a standard action, a foehammer may make a single melee attack with a weapon from the hammer weapon training group at a –5 penalty. If the attack hits, it is treated as a critical threat. Weapon special abilities that only activate on a critical hit do not activate if this critical hit is confirmed. This ability replaces armor mastery.
+
+**Weapon Mastery (Ex)**: A foehammer must choose a weapon from the hammer group.

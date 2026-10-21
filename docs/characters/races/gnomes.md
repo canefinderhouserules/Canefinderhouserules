@@ -24,7 +24,7 @@ Gnomes trace their lineage back to the mysterious realm of the fey, a place wher
 
 **Defensive Training**: Gnomes get a +4 dodge bonus to AC against monsters of the giant subtype.
 
-**Gnome Magic**: Gnomes add +1 to the DC of any saving throws against illusion spells that they cast. Gnomes with a Charisma of 11 or higher also gain the following spell-like abilities: 1/day—*dancing lights, ghost sound*, *prestidigitation,* and *speak with animals.* The caster level for these effects is equal to the gnome’s level. The DC for these spells is equal to 10 + the spell’s level + the gnome’s Charisma modifier.
+**Gnome Magic**: Gnomes add +1 to the DC of any saving throws against illusion spells that they cast. Gnomes with a Charisma of 11 or higher also gain the following spell-like abilities: 1/day—*dancing lights, ghost sound*, *prestidigitation*, and *speak with animals*. The caster level for these effects is equal to the gnome’s level. The DC for these spells is equal to 10 + the spell’s level + the gnome’s Charisma modifier.
 
 **Hatred**: Gnomes receive a +1 bonus on attack rolls against humanoid creatures of the reptilian and goblinoid subtypes due to special training against these hated foes.
 
@@ -55,3 +55,86 @@ The following racial traits might be selected instead of existing racial traits.
 **Pyromaniac**: Gnomes with this racial trait are treated as one level higher when casting spells with the fire descriptor, using granted powers of the Fire domain, using the bloodline powers of the fire elemental bloodline or the revelations of the oracle’s flame mystery, and when determining the damage of alchemist bombs that deal fire damage (this ability does not give gnomes early access to level-based powers, only affecting the powers they could use without this ability). Gnomes with Charisma of 11 or higher also gain the following spell-like abilities: 1/day—dancing lights, flare, prestidigitation, produce flame. The caster level for these effects is equal to the gnome’s level; the DCs are Charisma-based. This racial trait replaces the gnome magic and illusion resistance racial traits.
 
 **Warden of Nature**: Gnomes must often protect their homes against unnatural or pestilential infestations. Gnomes with this racial trait get a +2 dodge bonus to AC against aberrations, oozes, and vermin, and a +1 bonus on attack rolls against them because of their special training. This racial trait replaces the defensive training and hatred racial traits.
+
+### Additional Alternate Racial Traits (Advanced Race Guide)
+
+**Bond to the Land**: Some gnomes have strong ties to specific kinds of terrain, as a holdover from their fey origins. These gnomes gain a +2 dodge bonus to AC when in a specific terrain type selected from the ranger list of favored terrains. This choice is made at character creation, and cannot be changed. This racial trait replaces defensive training and hatred.
+
+**Darkvision**: Some gnome strains have lived in the underground depths for so long they have given up on light entirely and gained darkvision with a range of 60 feet. This racial trait replaces low-light vision and keen senses.
+
+**Explorer**: Many gnomes are obsessed with seeing as much of the world as possible, rather than perfecting some specific talent or vocation. These gnomes gain a +2 racial bonus on Climb checks and checks for one Knowledge skill of their choice. This racial trait replaces hatred and obsessive.
+
+**Fell Magic**: Gnomes add +1 to the DC of any saving throws against necromancy spells that they cast. Gnomes with Wisdom scores of 11 or higher also gain the following spell-like abilities: 1/day—*bleed*, *chill touch*, *detect poison*, and *touch of fatigue*. The caster level for these effects is equal to the gnome’s level. The DC for these spells is equal to 10 + the spell’s level + the gnome’s Wisdom modifier. This racial trait replaces gnome magic.
+
+**Knack with Poison**: Some gnomes have an instinctive understanding of poisons and their uses. Gnomes gain a +2 racial bonus on Fortitude saves against poison and a +2 bonus on Craft (alchemy) checks to make poison. The bonus on Fortitude saving throws against poisons increases to +4 if the gnome accidentally poisons himself when applying or readying the substance. This racial trait replaces illusion resistance and obsessive.
+
+## Racial Subtypes
+
+You can combine various alternate racial traits to create gnome subraces or variant races, such as the following.
+
+**Dread Gnomes**: Moodier, less forgiving, and often crueler than other gnomes, dread gnomes trace their heritage to the darker, more bloodthirsty lines of fey. Though not all dread gnomes are evil, they all find humor in watching others suffer, and have little use for the bright colors and joyful pursuits of their more cheerful cousins. Dread gnomes have the fell magic and knack for poison alternate racial traits.
+
+**Gear Gnomes**: Sometimes rather than a single gnome becoming obsessed with a project, whole families of gnomes undertake a project so massive it requires generations of artisans to complete. Such projects often involve complex clockwork devices (or entire clockwork buildings), and those born into families dedicated to lifetimes of work on them are known as gear gnomes. Gear gnomes have the academician and master tinker alternate racial traits.
+
+**Lava Gnomes**: Fascinated by the power of magma and living in vast caverns beneath active volcanoes, lava gnomes are considered hot-tempered and dangerously unstable even by other gnomes. Lava gnomes have the darkvision and pyromaniac alternate racial traits.
+
+**Traveler Gnomes**: These gnomes were born on the move, their families living on a ship or in a caravan wagon. These gnomes have the magical linguist and either the explorer or the gift of tongues alternate racial traits.
+
+## Archetypes and Class Options
+
+- [Experimental Gunsmith](../classes/gunslinger-archetypes.md#experimental-gunsmith) (gunslinger)
+- [Prankster](../classes/bard-archetypes.md#prankster) (bard)
+- [Saboteur](../classes/alchemist-archetypes.md#saboteur) (alchemist)
+
+## Gnome Equipment (Advanced Race Guide)
+
+Gnomes have access to the following equipment.
+
+**Dilettante’s Outfit**: These clothes are favored by gnome inventors and wanderers, and consist of sturdy boots, a pair of stout linen pants or skirt, a cloth shirt, leather gloves, a hat and cloak, and numerous belts, straps, and accessories (such as scarves, a vest, bits of rope or twine, and bandoleers). These items are generally mismatched, each having been selected as “superior” from some other set of clothing, and are rife with pockets and small hidey-holes. It the wearer a +2 circumstance bonus on Sleight of Hand checks made to conceal a small object on her body.
+
+**Hound’s Blood**: If you apply the thick, red paste known as hound’s blood to your nostrils or upper lip, it greatly enhances your sense of smell. For most creatures, this grants a +2 circumstance bonus on Perception checks for 1 hour. For gnomes, it brief ly grants a super-heightened sense of smell, granting the scent ability for 5 minutes, before the potency is reduced to a +2 circumstance bonus on Perception checks for an additional 1 hour.
+
+**Moonrod**: This 1-foot-long, silver-tipped tin rod glows dimly when struck as a standard action. It sheds dim light in a 30-foot radius. However, the light given off by a moonrod is particularly easily to perceive for creatures with low-light vision. For such creatures, a moonrod increases the light level by one step (to a maximum of normal) for a 60-foot radius. It glows for 6 hours, after which the silver tip is burned out and worthless.
+
+**Obsession Log**: Gnomes use these small books to record information about their obsessions. When a gnome consults her obsession log (taking 1 minute), she gains a +2 circumstance bonus on the next Craft or Profession check she makes, as long as that skill was the one chosen for her obsessive racial trait.
+
+**Scentbane Incense**: Scentbane incense is a form of smokestick that also blocks most scents. As long as the smoke lasts, creatures with the scent special ability must make Perception checks, opposed by the Stealth checks of any creatures within the smoke, to use scent to locate creatures within the smoke. If a creature remains in scentbane incense for 5 rounds or more, the smoke clings to it for 1 round after it leaves, making it similarly difficult to find by scent during that time.
+
+**Sheriff’s Whistle**: Used most often by gnome sheriffs and rangers, a sheriff’s whistle gives off a piercing shriek that can easily be heard up to 1,000 feet away under ordinary circumstances. However, the frequency of the shriek is such that it can only be heard by badgers, dogs, and gnomes.
+
+| Item | Cost | Weight | Craft DC |
+|---|---|---|---|
+| Dilettante’s outfit | 20 gp | 8 lbs.* | — |
+| Hound’s blood (vial) | 110 gp | — | 20 |
+| Moonrod | 10 gp | 1 lb. | 25 |
+| Obsession log | 25 gp | 1 lb. | — |
+| Scentbane incense | 80 gp | — | 20 |
+| Sheriff’s whistle | 1 gp | — | — |
+
+\* This items weighs 1/4 of this amount when made for
+
+Small characters.
+
+## Advanced Race Guide Feats
+
+- [Casual Illusionist](../../rules/feats/casual-illusionist.md)
+- [Expanded Resistance](../../rules/feats/expanded-resistance.md)
+- [Gnome Weapon Focus](../../rules/feats/gnome-weapon-focus.md)
+- [Great Hatred](../../rules/feats/great-hatred.md)
+- [Vast Hatred](../../rules/feats/vast-hatred.md)
+
+## Advanced Race Guide Magic Items
+
+- [Amazing Tools of Manufacture](../../magic-items/racial-items-arg.md#amazing-tools-of-manufacture)
+- [Boots of Escape](../../magic-items/racial-items-arg.md#boots-of-escape)
+- [Phantasmal Gem](../../magic-items/racial-items-arg.md#phantasmal-gem)
+- [Ring of Craft Magic](../../magic-items/racial-items-arg.md#ring-of-craft-magic)
+
+## Advanced Race Guide Spells
+
+- [Death From Below](../../magic/spells/death-from-below.md)
+- [Jitterbugs](../../magic/spells/jitterbugs.md)
+- [Major Phantom Object](../../magic/spells/major-phantom-object.md)
+- [Minor Dream](../../magic/spells/minor-dream.md)
+- [Minor Phantom Object](../../magic/spells/minor-phantom-object.md)
+- [Recharge Innate Magic](../../magic/spells/recharge-innate-magic.md)

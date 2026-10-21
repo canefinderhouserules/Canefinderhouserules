@@ -483,3 +483,41 @@ This ability functions only while the tranquil guardian is conscious, not if she
 **Waves of Peace (Su)**: At 11th level, a tranquil guardian may expend 2 uses of her Touch of Serenity to affect each opponent within 5 feet of her with that effect. She does not need to touch the creature for the effect to take hold. This ability replaces aura of justice.
 
 **Apostle of Peace (Su)**: At 20th level, a tranquil guardian’s DR increases to 10/evil, and whenever she channels positive energy or uses lay on hands to heal, she heals the maximum possible amount. In addition, any creature struck by her Touch of Serenity, even if it saves, must make an additional Will save (DC 10 + 1/2 her tranquil guardian level + her Charisma modifier) the next time it tries to attack. If it fails this save, the attack (including spells or special abilities) automatically fails. This ability replaces holy champion.
+
+## Stonelord
+
+A stonelord is a devoted sentinel of dwarven enclaves, drawing the power of the earth and ancient stone to protect her people.
+
+**Stonestrike (Su)**: Once per day per paladin level, a stonelord can draw upon the power of the living rock. As a swift action, she treats her melee attacks until the beginning of her next turn (whether armed or unarmed) as magical and adamantine, including ignoring hardness up to twice her paladin level, with a +1 bonus on attack and damage rolls, as well as on combat maneuver checks. This bonus also applies to her CMD if she or her target is touching the ground or a stone structure. This bonus increases by +1 at 5th level and every 5 levels thereafter. This ability replaces smite evil.
+
+**Heartstone (Ex)**: At 2nd level, a stonelord’s flesh becomes progressively rockier. She gains a +1 natural armor bonus to AC and DR/adamantine equal to 1/2 her paladin level. The natural armor bonus increases by +1 at 6th level, and every four levels thereafter, to a maximum of +5 at 18th level. These benefits are halved when not touching the ground or a stone structure. This ability replaces divine grace.
+
+**Stoneblood (Ex)**: At 3rd level, a stonelord’s vitals begin to calcify and her blood transforms into liquid stone. She adds her paladin level on checks to stabilize at negative hit points and gains a 25% chance to ignore a critical hit or precision damage. This does not stack with *fortification* armor or similar effects. At 9th level, this chance increases to 50% and she becomes immune to petrification. At 15th level, this chance increases to 75% and she becomes immune to bleed and blood drain effects. This ability replaces divine health and her mercies gained at 3rd, 9th, and 15th level.
+
+**Defensive Stance (Ex)**: At 4th level, a stonelord gains the defensive stance ability, as a stalwart defender, and may select one defensive power at 8th level and every four levels thereafter. Levels of stalwart defender stack with her paladin levels when determining the total number of rounds that she can maintain her defensive stance per day. A stonelord does not gain any spells or spellcasting abilities, does not have a caster level, and cannot use spell trigger or spell completion magic items.
+
+**Earth Channel (Su)**: At 4th level, a stonelord gains Elemental Channel (earth) as a bonus feat, which she may activate by spending two uses of her lay on hands ability, using her paladin level as her effective cleric level. This ability replaces channel positive energy.
+
+**Stone Servant (Su)**: At 5th level, a stonelord may call a Small earth elemental to her side, as a paladin calls her mount. This earth elemental is Lawful Good in alignment and possesses the celestial template, and it increases in size as the stonelord gains levels, becoming Medium at 8th level, Large at 11th level, Huge at 14th level, Greater at 17th level, and Elder at 20th level. This ability replaces divine bond.
+
+**Stonebane (Su)**: At 11th level, when using stonestrike, a stonelord’s attack gains the *bane* weapon special ability against creatures with the earth subtype and constructs or objects made of earth or stone. This ability replaces aura of justice.
+
+**Phase Strike (Su)**: At 12th level, a stonelord’s stonestrike may pass through stone and metal as if they weren’t there. By spending 2 uses of her stonestrike ability, she may ignore any cover less than total cover provided by stone or metal, and she ignores any AC bonus from stone or metal armor or shields as if wielding a *brilliant energy* weapon. A phase strike cannot damage constructs, objects, or creatures with the earth subtype, but unlike a *brilliant energy* weapon, it can harm undead. This ability replaces her 12th-level mercy.
+
+**Mobile Defense (Ex)**: At 18th level, a stonelord can make one 5-foot step per round while maintaining her defensive stance. This ability replaces her 18th-level mercy.
+
+**Stone Body (Ex)**: At 20th level, a stonelord’s body transforms into living stone. She no longer needs to eat, drink, breathe, or sleep, and she becomes immune to paralysis, poison, and stunning. She is also no longer subject to critical hits or precision-based damage. This ability replaces holy champion.
+
+## Redeemer
+
+As most half-orcs are outcasts, a half-orc paladin recognizes that often those who are monstrous are not necessarily evil and that sometimes even those who are evil became that way because of circumstances and misfortune. Some half-orc paladins take up these misunderstood creatures as their cause, standing up for the monstrous creatures and, when possible, leading them to the light. These paladins are called redeemers. A redeemer has the following class features.
+
+**Merciful Smite (Su)**: At 1st level, when a redeemer chooses to smite a creature, she can have all of her attacks against the target deal nonlethal damage. She does not take the normal –4 attack roll penalty for using a lethal weapon to deal nonlethal damage. She cannot use this ability to deal nonlethal damage to outsiders with the evil subtype, evil-aligned dragons, or undead creatures (these creatures take lethal damage from her smite). This otherwise works like and replaces the standard paladin’s smite evil.
+
+**Monstrous Rapport (Ex)**: At 1st level, redeemers gain a +2 bonus on Diplomacy checks to influence creatures who are commonly considered monstrous. This includes but is not limited to “monstrous” races such as goblins and orcs, monstrous humanoids, and other intelligent non-humanoid monsters. This ability replaces *detect evil*.
+
+**Pact of Peace (Sp)**: At 8th level, a redeemer can force a defeated creature to accept a binding pact of peace as a condition of its surrender, as if using *lesser geas*. Her caster level for this ability is equal to her paladin level. Rather than assigning a mission or task, the redeemer gives the creature a simple set of prohibitions to protect others. Example geas include “Leave this city and do not return” or “Do not attack caravans.” The prohibition must be against an area no larger than 300 square miles or one specific group of people (such as a tribe or citizens of a particular city). This ability lasts 1 month per paladin level. This replaces aura of resolve.
+
+**Aura of Mercy (Su)**: At 11th level, a redeemer can expend two uses of her merciful smite ability to grant the merciful smite ability to all allies within 10 feet, using her bonuses. Allies must use this merciful smite ability by the start of the paladin’s next turn and the bonuses last for 1 minute. Using this ability is a free action. Evil creatures gain no benefit from this ability. This replaces aura of justice.
+
+**Associates**: A redeemer may ally with an evil creature as long as she feels the creature is capable of redemption. A redeemer may accept henchmen, followers, or cohorts who are not lawful good provided they demonstrate they are willing to follow her and seek betterment under her tutelage.

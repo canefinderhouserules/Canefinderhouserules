@@ -400,3 +400,23 @@ Elemental knights are born with elemental energies surging through their blood a
 **Elemental Matrix (Su)**: At 4th level, an elemental knight gains Incremental Elemental Assault (see below) as a bonus feat. In addition, at 4th level, as a swift action, an elemental knight may expend rounds of duration from her elemental assault ability. For every 4 rounds expended, he gains 1 arcane pool point. This ability replaces spell recall.
 
 **Magus Arcana**: The following magus arcana complement the elemental knight archetype: empowered magic, pool strike, spell shield.
+
+## Spell Dancer
+
+The strong emphasis on wizards within elven culture influences how even non-wizard elves see themselves. Many elven magi do not consider themselves masters of a blend of martial and magical talents, but rather a sub-category of wizards who study the effect of physical movement and techniques upon spellcasting ability. They believe their ability to cast spells while fighting is an outgrowth of the concept of the “spell dance,” which itself is just another kind of wizardry. A spell dancer has the following class features.
+
+**Class Skills**: A spell dancer adds Acrobatics and Perform (dance) to his list of class skills and removes Intimidate and Ride from his list of class skills.
+
+**Spell Dance (Su)**: At 1st level, a spell dancer gains the ability to expend 1 point from his arcane pool as a swift action to gain a +10 enhancement bonus to his movement rate and a +2 dodge bonus to Armor Class against attacks of opportunity provoked by moving through threatened spaces for 1 minute. For every four levels beyond 1st, the spell dancer gains another +10 enhancement bonus to movement and +2 to AC against attacks of opportunity provoked from movement.
+
+At 5th level, once per spell dance as a swift action, the spell dancer may use one of the following on himself as a swift action: *blur, fly*, or *haste*. These abilities last for 1 round. At 9th level, the spell dancer may instead take a swift action to use *dimension door* as a spell-like ability once during a spelldance. At 13th level, the spell dancer may instead choose to take a swift action to gain *freedom of movement* for 1d4 rounds.
+
+This ability replaces the magus’s ability to expend points from his arcane pool as a swift action to grant any weapon he is holding magic bonuses for 1 minute.
+
+**Arcane Movement (Su)**: At 5th level, whenever a spell dancer casts a magus spell, he gains a competence bonus on Acrobatics, Climb, Escape Artist, and Stealth checks equal to the spell’s level until the beginning of his next turn. This ability replaces the bonus feat a magus receives at 5th level.
+
+**Dance of Avoidance (Su)**: At 7th level, while wearing light armor or no armor, a spell dancer gains a +2 insight bonus to Armor Class. This ability replaces the medium armor class feature.
+
+**Greater Dance of Avoidance (Su)**: At 13th level, while wearing light armor or no armor, a spell dancer’s insight bonus to Armor Class increases to +4. This ability replaces the heavy armor class feature.
+
+**Magus Arcana**: The following magus arcana complement the spell dancer archetype: arcane cloak, prescient defense (*Ultimate Combat*); close range, concentrate, hasted assault, spell shield (*Ultimate Magic*).

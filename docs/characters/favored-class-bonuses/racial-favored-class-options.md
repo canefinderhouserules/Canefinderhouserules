@@ -9,27 +9,43 @@ In most cases these benefits are gained on a level-by-level basis, and unless ot
 
 ## Dwarves
 
+**Alchemist**: Add +1/4 to the alchemist’s natural armor bonus when using his mutagen.
+
 **Arcanist**: Add 1/4 to the arcanist's effective class level when determining the effects of the arcane barrier and arcane weapon arcanist exploits.
 
 **Barbarian**: Add 1 to the dwarf’s total number of rage rounds per day.
+
+**Bard**: Reduce arcane spell failure chance for casting bard spells when wearing medium armor by +1%. Once the total reaches 10%, the bard also receives Medium Armor Proficiency, if he does not already possess it.
 
 **Bloodrager**: Increase the bloodrager's total number of bloodrage rounds per day by 1.
 
 **Brawler**: Reduce the hardness of any object made from clay, stone, or metal by 1 whenever the object is struck by the brawler's unarmed strike (minimum 0).
 
+**Cavalier**: Add +1/2 to the cavalier’s bonus to damage against targets of his challenge.
+
 **Cleric**: Select one domain power granted at 1st level that is normally usable for a number of times per day equal to 3 + the cleric’s Wisdom modifier. The cleric adds 1/2 to the number of uses per day of that domain power.
+
+**Druid**: Select one domain power granted at 1st level that is normally usable a number of times per day equal to 3 + the druid’s Wisdom modifier. The druid adds +1/2 to the number of uses per day of that domain power.
 
 **Fighter**: Add +1 to the fighter’s CMD when resisting a bull rush or trip.
 
+**Gunslinger**: Reduce the misfire chance for one type of firearm by 1/4. You cannot reduce the misfire chance of a firearm below 1.
+
 **Hunter**: Gain a +1/2 bonus on wild empathy checks the hunter makes to influence animals and magical beasts that live underground.
+
+**Inquisitor**: Add +1/2 to the inquisitor’s level for the purpose of determining the effects of one type of judgment.
 
 **Investigator**: Gain a +1/4 bonus on Perception checks when underground and +1/2 bonus to the investigator's trap sense ability regarding stone traps.
 
 **Kineticist**: Add 1/3 point of damage to earth element blasts that deal damage.
 
+**Magus**: Select one known magus arcana usable only once per day. The magus adds +1/6 to the number of times it can be used per day. Once that magus arcana is usable twice per day, the magus must select a different magus arcana.
+
 **Medium**: Gain a +1/2 bonus on saving throws against possession and a +1/2 bonus on saving throws to end haunt channeler, location channel, and spacious soul.
 
 **Mesmerist**: Increase painful stare’s damage by 1/4 point.
+
+**Monk**: Reduce the Hardness of any object made of clay, stone, or metal by 1 whenever the object is struck by the monk’s unarmed strike (minimum of 0).
 
 **Occultist**: Gain a +1/3 bonus on Appraise and Use Magic Device checks involving stone and metal objects.
 
@@ -49,13 +65,23 @@ In most cases these benefits are gained on a level-by-level basis, and unless ot
 
 **Slayer**: Gain a +1/3 bonus on Knowledge (dungeoneering) checks and on Survival checks when underground. If the slayer has a +1 bonus on Knowledge (dungeoneering) checks from this ability, he is also considered trained in that skill.
 
+**Sorcerer**: Add +1/2 to acid and earth spell or spell-like ability damage.
+
 **Spiritualist**: Add 1/6 to the shield bonus granted by the 3rd-level ectoplasmic bonded manifestation ability.
+
+**Summoner**: Add a +1/4 natural armor bonus to the AC of the summoner’s eidolon.
 
 **Swashbuckler**: Add 1/4 to the swashbuckler's effective class level to determine the extra damage she deals because of the precise strike deed when wielding a light pick or a heavy pick. If the swashbuckler has the Slashing Grace feat or another similar effect, she can treat the battleaxe or handaxe as a one-handed piercing melee weapon, and she gains this benefit when wielding the appropriate weapon for the feat as well.
 
 **Warpriest**: Add 1/3 to the number of times per day the warpriest can use blessings, but he can only use these additional uses on blessings that affect weapons or armor.
 
+**Witch**: Add +1/4 natural armor bonus to the AC of the witch’s familiar.
+
+**Wizard**: Select one item creation feat known by the wizard. Whenever he crafts an item using that feat, the amount of progress he makes in an 8-hour period increases by 200 gp (50 gp if crafting while adventuring). This does not reduce the cost of the item; it just increases the rate at which the item is crafted.
+
 ## Elves
+
+**Alchemist**: Add one extract formula from the alchemist’s list to his formula book. This formula must be at least one level lower than the highest-level formula the alchemist can create.
 
 **Arcanist**: Increase total number of points in the arcanist's arcane reservoir by 1.
 
@@ -69,23 +95,41 @@ In most cases these benefits are gained on a level-by-level basis, and unless ot
 
 **Cavalier**: Add +1 hit point to the cavalier’s mount. If the elf ever replaces his mount, the new mount gains these bonus hit points. These bonuses only apply to a single mount gained as part of the cavalier’s class.
 
+**Cleric**: Select one domain power granted at 1st level that is normally usable a number of times per day equal to 3 + the cleric’s Wisdom modifier. The cleric adds +1/2 to the number of uses per day of that domain power.
+
+**Druid**: Add +1/3 to the druid’s natural armor bonus when using wild shape.
+
 **Fighter**: Add +1 to the elf’s CMD when resisting a disarm or sunder attempt.
 
+**Gunslinger**: Add +1/3 on critical hit confirmation rolls made with firearms (maximum bonus of +5). This bonus does not stack with Critical Focus.
+
 **Hunter**: Choose a weapon from the following list: longbow, longsword, rapier, short sword, shortbow, or any weapon with "elven" in its name. Gain a +1/2 bonus on critical hit confirmation rolls made while using that type of weapon (maximum bonus +4)· This bonus does not stack with those gained through Critical Focus and similar effects.
+
+**Inquisitor**: Add one spell known from the inquisitor’s spell list. This spell must be at least one level below the highest-level spell the inquisitor can cast.
 
 **Investigator**: Increase the total number of points in the investigator's inspiration pool by 1/3.
 
 **Kineticist**: Gain a +1/4 bonus on damage rolls that apply the kineticist’s elemental overflow bonus.
 
+**Magus**: The magus gains 1/6 of a new magus arcana.
+
 **Medium**: Gain a +1/3 bonus on all skill checks using occult skill unlocks.
 
 **Mesmerist**: Gain a +1/2 bonus on Acrobatics checks to move through a threatened area and a +1/2 bonus on Bluff checks to feint.
 
+**Monk**: Add +1 to the monk’s base speed. In combat this option has no effect unless the monk has selected it five times (or another increment of five). This bonus stacks with the monk’s fast movement class feature and applies under the same conditions as that feature.
+
 **Occultist**: Increase the occultist’s total number of points of mental focus by 1/2 point.
+
+**Oracle**: Add +1/2 to the oracle’s level for the purpose of determining the effects of one revelation.
+
+**Paladin**: Add +1/2 hit point to the paladin’s lay on hands ability (whether using it to heal or harm).
 
 **Psychic**: Increase the total number of points in the psychic’s phrenic pool by 1/3 point.
 
 **Ranger**: Choose a weapon from the following list: longbow, longsword, rapier, shortbow, short sword, or any weapon with “elven” in its name. Add a +1/2 circumstance bonus on critical hit confirmation rolls with that weapon (maximum bonus of +4). This bonus does not stack with Critical Focus.
+
+**Rogue**: Add +1 to the number of times per day the rogue can cast a cantrip or 1st-level spell gained from the minor magic or major magic talent. The number of times this bonus is selected for the major magic talent cannot exceed the number of times it is selected for the minor magic talent. The rogue must possess the associated rogue talent to select these options.
 
 **Shaman**: Add 5 feet to the range of a chosen shaman hex. Multiple bonuses from this ability can apply to the same hex, to a maximum of an additional 30 feet for any single hex.
 
@@ -97,9 +141,13 @@ In most cases these benefits are gained on a level-by-level basis, and unless ot
 
 **Spiritualist**: Add 1/6 to the shield bonus granted by the 3rd-level ectoplasmic bonded manifestation ability.
 
+**Summoner**: The amount of time the summoner must spend to summon his eidolon is reduced by 1 round, to a minimum of 1 round.
+
 **Swashbuckler**: Increase the total number of points in the swashbuckler's panache pool by 1/4.
 
 **Warpriest**: Add 1/2 to the number of times per day the warpriest can use blessings, but he can use these additional blessings on only those from the Air, Animal, Charm, Magic, Plant, or Sun domains.
+
+**Witch**: Add one spell from the witch spell list to the witch’s familiar. This spell must be at least one level lower than the highest-level spell she can cast. If the witch ever replaces her familiar, the new familiar knows these bonus spells.
 
 **Wizard**: Select one arcane school power at 1st level that is normally usable a number of times per day equal to 3 + the wizard’s Intelligence modifier. The wizard adds +1/2 to the number of uses per day of that arcane school power.
 
@@ -107,27 +155,45 @@ In most cases these benefits are gained on a level-by-level basis, and unless ot
 
 **Alchemist**: Add +1/2 to the number of bombs per day the alchemist can create.
 
+**Barbarian**: Add a +1/2 bonus to the barbarian’s trap sense.
+
 **Bard**: Add 1 to the gnome’s total number of bardic performance rounds per day.
 
 **Bloodrager**: Add 1/4 to the bloodrager's effective class level when determining the power of her bloodrager bloodline powers.
 
 **Brawler**: Increase the number of times per day the brawler can use martial flexibility by 1/4.
 
+**Cavalier**: Add +1 to the cavalier’s mounted base speed. In combat this has no effect unless the cavalier has selected this reward five times (or another increment of five). If the cavalier ever replaces his mount, the new mount gains this bonus to its speed.
+
+**Cleric**: Add +1/2 to the cleric’s channeled energy total when healing creatures of the animal, fey, and plant types.
+
 **Druid**: Gain energy resistance 1 against acid, cold, electricity, or fire. Each time the druid selects this reward, increase her resistance to one of these energy types by 1 (maximum 10 for any one type).
 
+**Fighter**: Add +1 to the fighter’s CMD when resisting a dirty trick or steal attempt.
+
+**Gunslinger**: The gunslinger reduces the amount of time needed to restore a broken firearm using the Gunsmithing feat by 5 minutes (maximum reduction of 50 minutes).
+
 **Hunter**: Add DR 1/magic to the hunter's animal companion. Each time the hunter gains another level, the DR increases by 1/2 (maximum DR 10/magic). If the hunter replaces her animal companion, the new companion gains this damage reduction.
+
+**Inquisitor**: Add a +1 bonus on concentration checks when casting inquisitor spells.
 
 **Investigator**: Add one extract formula from the investigator's list to his formula book. This formula must be at least 1 formula level below the highest level the investigator can create.
 
 **Kineticist**: Gain a +1/2 bonus on Bluff, Diplomacy, Intimidate, and Sense Motive skill checks against creatures with the elemental subtype matching the kineticist’s primary element.
 
+**Magus**: Add one of the following weapon special abilities to the list of weapon special abilities the magus may add to his weapon using his arcane pool: *defending, ghost touch, merciful, mighty cleaving, vicious* (*Core Rulebook*); *allying, conductive, corrosive, corrosive burst, menacing* (*Advanced Player’s Guide*). Once an ability has been selected with this reward, it cannot be changed.
+
 **Medium**: Gain a +1/2 bonus on Bluff, Diplomacy, Intimidate, and Sense Motive skill checks against spirits, undead, phantoms, and creatures native to the Astral Plane.
 
 **Mesmerist**: Increase the number of mesmerist tricks the mesmerist can use per day by 1/3.
 
+**Monk**: Add +1 to the monk’s Acrobatics check bonus gained by spending a point from his *ki* pool. A monk must be at least 5th level to select this benefit.
+
 **Occultist**: Increase the duration of the occultist’s minor figment by 1 minute, and increase the total concealment miss chance from the occultist’s distortion resonant power by 2%. This doesn’t increase the maximum miss chance.
 
 **Oracle**: Treat the gnome’s level as +1/2 higher for the purpose of determining the effects of the oracle’s curse ability.
+
+**Paladin**: Add +1/2 hit point to the paladin’s lay on hands ability (whether using it to heal or harm).
 
 **Psychic**: Increase the total number of points in the psychic’s phrenic pool by 1/3 point.
 
@@ -141,6 +207,8 @@ In most cases these benefits are gained on a level-by-level basis, and unless ot
 
 **Slayer**: The slayer gains 1/6 of a new slayer talent.
 
+**Sorcerer**: Select one bloodline power at 1st level that is normally usable a number of times per day equal to 3 + the sorcerer’s Charisma modifier. The sorcerer adds +1/2 to the number of uses per day of that bloodline power.
+
 **Spiritualist**: Add 1/6 to the shield bonus granted to the spiritualist while under the effects of either spiritual interference or greater spiritual interference.
 
 **Summoner**: Add +1 hit point to the summoner’s eidolon.
@@ -149,9 +217,15 @@ In most cases these benefits are gained on a level-by-level basis, and unless ot
 
 **Warpriest**: Add 1/2 to the result of the warpriest's channeled energy when healing creatures of the animal, fey, and plant types.
 
+**Witch**: The witch gains 1/6 of a new witch hex.
+
 **Wizard**: Add +1/2 to the number of uses per day of arcane school powers. This increase only applies to arcane school powers available at 1st level and normally usable a number of times per day equal to 3 + the wizard’s Intelligence modifier.
 
 ## Half-Elves
+
+**Alchemist**: Add +1 foot to the range increment of the alchemist’s thrown splash weapons (including the alchemist’s bombs). This option has no effect unless the alchemist has selected it 5 times (or another increment of 5); a range increment of 24 feet is effectively the same as a range increment of 20 feet, for example.
+
+**Barbarian**: Add +1/4 to the bonus on Reflex saves and dodge bonus to AC against attacks made by traps granted by trap sense.
 
 **Bard**: Add 1 to the half-elf’s total number of bardic performance rounds per day.
 
@@ -159,21 +233,37 @@ In most cases these benefits are gained on a level-by-level basis, and unless ot
 
 **Brawler**: Add 1 to the brawler's CMD when she's resisting a trip or overrun combat maneuver.
 
+**Cavalier**: Add +1 foot to the cavalier’s mount’s base speed. This option has no effect unless the cavalier has selected it 5 times (or another increment of 5); a speed of 54 feet is effectively a speed of 50 feet, for example. If the cavalier ever replaces his mount, the new companion gains this base speed bonus.
+
+**Cleric**: Add +1/3 to the amount of damage dealt or damage healed when the cleric uses channel energy.
+
 **Druid**: Select one cleric domain power at 1st level that is normally usable a number of times per day equal to 3 + the druid’s Wisdom modifier. The druid adds 1/2 to the number of uses per day of that domain power. For half-elf druids whose nature bond gives them an animal companion, add +1 skill rank to the animal companion. If the half-elf ever replaces her animal companion, the new companion gains these bonus skill ranks.
 
 **Fighter**: Add +1 to the fighter’s CMD when resisting a disarm or overrun.
 
+**Gunslinger**: Add +1/4 to the number of grit points in the gunslinger’s grit pool.
+
 **Hunter**: Add 1 foot to the hunter's companion's base speed. In combat, this has an effect only for every five increases in base speed.
+
+**Inquisitor**: Add +1/4 to the number of times per day the inquisitor can change her most recent teamwork feat.
 
 **Investigator**: Gain a +1/4 bonus on all inspiration rolls.
 
 **Kineticist**: Gain a +1/4 bonus on damage rolls that apply the kineticist’s elemental overflow bonus.
 
+**Magus**: Add +1/4 to the magus’s arcane pool.
+
 **Medium**: Gain a +1/3 bonus on all skill checks using occult skill unlocks.
 
 **Mesmerist**: When casting mesmerist enchantment spells, add 1/2 to the effective caster level of the spell, but only to determine the spell’s duration.
 
+**Monk**: Add +1/2 on Escape Artist checks and on Acrobatics checks to cross narrow surfaces.
+
 **Occultist**: Gain a +1/2 bonus on Spellcraft checks to identify the properties of magic items and a +1/2 bonus on Use Magic Device checks to emulate a race.
+
+**Oracle**: Add one spell known from the oracle spell list. This spell must be at least one level below the highest spell level the oracle can cast.
+
+**Paladin**: Add +1 foot to the size of all the paladin’s aura class features. This option has no effect unless the paladin has selected it 5 times (or another increment of 5); an aura of 14 feet is effectively the same as a 10-foot aura, for example.
 
 **Psychic**: Gain 1/6 of a new phrenic amplification.
 
@@ -187,6 +277,8 @@ In most cases these benefits are gained on a level-by-level basis, and unless ot
 
 **Slayer**: Gain a +1/2 bonus on Bluff checks to feint and Diplomacy checks to gain information.
 
+**Sorcerer**: Select one bloodline power at 1st level that is normally usable a number of times per day equal to 3 + the sorcerer’s Charisma modifier. The sorcerer adds +1/2 to the number of uses per day of that bloodline power.
+
 **Spiritualist**: Add 1 skill rank to the spiritualist’s phantom.
 
 **Summoner**: Add +1/4 to the eidolon’s evolution pool.
@@ -197,6 +289,8 @@ In most cases these benefits are gained on a level-by-level basis, and unless ot
 
 **Witch**: Add one spell from the witch spell list to the witch’s familiar. This spell must be at least one level below the highest spell level she can cast. If the witch ever replaces her familiar, the new familiar knows these bonus spells.
 
+**Wizard**: When casting wizard enchantment spells, add +1/3 to the effective caster level of the spell, but only to determine the spell’s duration.
+
 ## Half-Orcs
 
 **Alchemist**: Add +1/2 to bomb damage.
@@ -205,11 +299,21 @@ In most cases these benefits are gained on a level-by-level basis, and unless ot
 
 **Barbarian**: Add 1 to the half-orc’s total number of rage rounds per day.
 
+**Bard**: Add +1 to the bard’s total number of bardic performance rounds per day.
+
 **Bloodrager**: Increase the bloodrager's total number of bloodrage rounds per day by 1.
 
 **Brawler**: Add 1/4 to the brawler's effective level to determine her unarmed strike damage.
 
+**Cavalier**: Add +1 hit point to the cavalier’s mount companion. If the cavalier ever replaces his mount, the new mount gains these bonus hit points.
+
+**Cleric**: Select one domain power granted at 1st level that is normally usable a number of times per day equal to 3 + the cleric’s Wisdom modifier. The cleric adds +1/2 to the number of uses per day of that domain power.
+
+**Druid**: Add +1/3 to the druid’s natural armor bonus when using wild shape.
+
 **Fighter**: Add +2 on rolls to stabilize when dying.
+
+**Gunslinger**: Add a +1/3 bonus on attack rolls when using the pistol whip deed.
 
 **Hunter**: Add 1 hit point to the hunter's animal companion. If the hunter replaces his animal companion, the new animal companion gains these bonus hit points.
 
@@ -219,15 +323,25 @@ In most cases these benefits are gained on a level-by-level basis, and unless ot
 
 **Kineticist**: Add 1/3 point of fire damage to fire-element blasts that deal fire damage.
 
+**Magus**: Add +1/2 point of fire damage to spells that deal fire damage cast by the magus.
+
 **Medium**: When gaining a taboo, the medium can use spirit surge without incurring influence an additional 1/4 time per day.
 
 **Mesmerist**: Increase the mesmerist’s bonus damage from painful stare by 1/2 point.
 
+**Monk**: Add +1 to the monk’s CMD when resisting a grapple and +1/2 to the number of stunning attacks he can attempt per day.
+
 **Occultist**: Deal an additional 1/2 point of damage with focus powers.
+
+**Oracle**: Add one spell known from the oracle spell list. This spell must be at least one level below the highest spell level the oracle can cast.
+
+**Paladin**: Add +1/3 on critical hit confirmation rolls made while using smite evil (maximum bonus of +5). This bonus does not stack with Critical Focus.
 
 **Psychic**: Gain a +1 bonus on concentration checks required because of taking damage while casting spells from the psychic class.
 
 **Ranger**: Add +1 hit point to the ranger’s animal companion. If the half-orc ever replaces his animal companion, the new animal companion gains these bonus hit points.
+
+**Rogue**: Add +1/3 on critical hit confirmation rolls made while using sneak attack (maximum bonus of +5). This bonus does not stack with Critical Focus.
 
 **Shaman**: Add one spell from the cleric spell list that isn't on the shaman spell list to the list of spells the shaman knows. This spell must be at least 1 level below the highest spell level the shaman can cast.
 
@@ -239,13 +353,21 @@ In most cases these benefits are gained on a level-by-level basis, and unless ot
 
 **Spiritualist**: Add 1 hit point to the spiritualist’s phantom.
 
+**Summoner**: Add +1 hit point to the summoner’s eidolon.
+
 **Swashbuckler**: Gain a +1/3 bonus on all critical hit confirmation rolls made while using the precise strike deed (maximum bonus of +5). This bonus doesn't stack with those gained through Critical Focus and similar effects.
 
 **Warpriest**: Gain a +2 bonus on rolls to stabilize when dying.
 
 **Witch**: Add 1 skill rank to the witch’s familiar. If the half-orc ever replaces her familiar, the new familiar gains these bonus skill ranks.
 
+**Wizard**: Add a +1 bonus on concentration checks made due to taking damage while casting wizard spells.
+
 ## Halflings
+
+**Alchemist**: Add one extract formula from the alchemist’s list to the alchemist’s formula book. This formula must be at least one level below the highest formula level the alchemist can create.
+
+**Barbarian**: Add a +1/2 bonus to trap sense or +1/3 to the bonus from the surprise accuracy rage power.
 
 **Bard**: Add +1/2 on Bluff checks to pass secret messages, +1/2 on Diplomacy checks to gather information, and +1/2 on Disguise checks to appear as an elven, half-elven, or human child.
 
@@ -253,15 +375,25 @@ In most cases these benefits are gained on a level-by-level basis, and unless ot
 
 **Brawler**: Gain a +1 bonus to the brawler's CMD when resisting a grapple or overrun combat maneuver.
 
+**Cavalier**: Add +1/2 to the cavalier’s effective class level for the purposes of determining the damage he deals when making an attack of opportunity against a challenged foe.
+
 **Cleric**: Select one domain power granted at 1st level that is normally usable for a number of times per day equal to 3 + the cleric’s Wisdom modifier. The cleric adds 1/2 to the number of uses per day of that domain power.
+
+**Druid**: Add a +1/4 luck bonus on the saving throws of the druid’s animal companion.
 
 **Fighter**: Add +1 to the fighter’s CMD when resisting a grapple or trip.
 
+**Gunslinger**: Add +1/4 to the dodge bonus to AC granted by the nimble class feature (maximum +2) or +1/4 to the AC bonus gained when using the gunslinger’s dodge deed.
+
 **Hunter**: The hunter's animal companion gains a +1/4 luck bonus on saving throws. If the hunter replaces her animal companion, the new animal companion gains this bonus.
+
+**Inquisitor**: Add +1/4 to the number of times per day that an inquisitor can change her most recent teamwork feat.
 
 **Investigator**: Add one extract formula from the investigator's list to his formula book. This formula must be at least 1 formula level below the highest level the investigator can create.
 
 **Kineticist**: Increase the capacity of the kineticist’s internal buffer by 1/6 point.
+
+**Magus**: The magus gains 1/6 of a new magus arcana.
 
 **Medium**: Increase the bonus the medium gains from its seance boon by 1/3 point. This doesn’t increase the bonus allies gain from shared seance.
 
@@ -270,6 +402,8 @@ In most cases these benefits are gained on a level-by-level basis, and unless ot
 **Monk**: Add +1 to the monk’s CMD when resisting a grapple and +1/2 to the number of stunning attacks he can attempt per day.
 
 **Occultist**: Add 1/2 point of mental focus per day.
+
+**Oracle**: Add +1/2 to the oracle’s level for the purpose of determining the effects of the oracle’s curse ability.
 
 **Paladin**: Add +1/2 hp to the paladin’s lay on hands ability (whether using it to heal or harm).
 
@@ -285,6 +419,8 @@ In most cases these benefits are gained on a level-by-level basis, and unless ot
 
 **Slayer**: Add a +1/4 dodge bonus to Armor Class against the slayer's studied target.
 
+**Sorcerer**: Select one bloodline power at 1st level that is normally usable a number of times per day equal to 3 + the sorcerer’s Charisma modifier. The sorcerer adds +1/2 to the number of uses per day of that bloodline power.
+
 **Spiritualist**: Add 1/4 to the number of rounds that the spiritualist’s incorporeal phantom can be out of sight and line of effect before being sent back to the Ethereal Plane.
 
 **Summoner**: Add +1 skill rank to the summoner’s eidolon.
@@ -292,6 +428,10 @@ In most cases these benefits are gained on a level-by-level basis, and unless ot
 **Swashbuckler**: Increase the number of times the swashbuckler can use charmed life by 1/4.
 
 **Warpriest**: Add 1/4 to the warpriest's effective level when determining the damage of his sacred weapon.
+
+**Witch**: Add +1/4 to the witch’s caster level when determining the effects of the spells granted to her by her patron.
+
+**Wizard**: Add +1/2 to the wizard’s effective class level for the purposes of determining his familiar’s natural armor adjustment, Intelligence, and special abilities.
 
 ## Humans
 
@@ -315,6 +455,8 @@ In most cases these benefits are gained on a level-by-level basis, and unless ot
 
 **Fighter**: Add +1 to the fighter’s CMD when resisting two combat maneuvers of the character’s choice.
 
+**Gunslinger**: Add +1/4 point to the gunslinger’s grit points.
+
 **Hunter**: Add 1 skill rank to the hunter's animal companion. If the hunter replaces his animal companion, the new animal companion gains these bonus skill ranks.
 
 **Inquisitor**: Add one spell known from the inquisitor spell list. This spell must be at least one level below the highest spell level the inquisitor can cast.
@@ -322,6 +464,8 @@ In most cases these benefits are gained on a level-by-level basis, and unless ot
 **Investigator**: Add one extract formula from the investigator's formula list to his formula book. This formula must be at least 1 formula level below the highest level the investigator can create.
 
 **Kineticist**: Gain 1/6 of an Extra Wild Talent feat.
+
+**Magus**: Add +1/4 point to the magus’ arcane pool.
 
 **Medium**: When gaining a taboo, the medium can use spirit surge without incurring influence an additional 1/4 time per day.
 

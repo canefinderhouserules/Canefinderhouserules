@@ -55,3 +55,83 @@ The following racial traits might be selected instead of existing racial traits.
 **Wanderlust**: Halflings love travel and maps. Halflings with this racial trait receive a +2 bonus on Knowledge (geography) and Survival checks. When casting spells or using abilities that provide or enhance movement, halflings treat their caster level as +1 higher than normal. This racial trait replaces the fearless and halfling luck racial traits.
 
 **Warslinger**: Halflings are experts at the use of the sling. Halflings with this racial trait can reload a sling as a free action. Reloading a sling still requires two hands and provokes attacks of opportunity. This racial trait replaces the sure-footed racial trait.
+
+### Additional Alternate Racial Traits (Advanced Race Guide)
+
+**Adaptable Luck**: Some halflings have greater control over their innate luck. This ability gives them more options for how they can apply their good fortune from day to day, but also narrows its scope. Three times per day, a halfling can gain a +2 luck bonus on an ability check, attack roll, saving throw, or skill check. If halflings choose to use the ability before they make the roll or check, they gain the full +2 bonus; if they choose to do so afterward, they only gain a +1 bonus. Using adaptive luck in this way is not an action. This racial trait replaces halfling luck.
+
+**Fleet of Foot**: Some halflings are quicker than their kin but less cautious. Halflings with this racial trait move at normal speed and have a base speed of 30 feet. This racial trait replaces slow speed and sure-footed.
+
+**Ingratiating**: Halflings often survive at the whims of larger, more aggressive races. Because of this, they go out of their way to make themselves more useful, or at least entertaining, to larger folk. Halflings with this racial trait gain a +2 bonus on skill checks for a single Perform skill of their choice, and Perform is always a class skill for them. They also gain a +2 bonus on Craft and Profession checks. This racial trait replaces keen senses and sure-footed.
+
+**Polyglot**: Some halflings, especially those who spend a lot of time traveling, develop a talent for learning new languages. These halflings gain a +2 racial bonus on Linguistics checks, and it is always a class skill for them. Halflings with this racial trait also begin play with the ability to speak Common, Halfling, and any one other language of their choice (except for secret languages, such as Druidic) in addition to bonus languages due to high Intelligence. They still gain the normal list of halfling bonus languages. This racial trait replaces keen senses and alters the halfling language racial trait.
+
+**Shiftless**: Halflings have a reputation for larceny and guile—and sometimes it’s well deserved. Halflings with this racial trait gain a +2 racial bonus on Bluff and Sleight of Hand checks, and Sleight of Hand is always a class skill for them. This racial trait replaces sure-footed.
+
+## Racial Subtypes
+
+You can combine various alternate racial traits to create halfling subraces or variant races, such as the following.
+
+**Avenging**: Unlike most halflings, members of this subtype actively look for trouble in their quest to avenge slights and wrongdoings. Whether resisting a local bully, monster, or troops of an oppressive ruler, halfling warriors of this secret subculture don masks and strike back on behalf of their community. These halflings have the low blow, underfoot, and warslinger alternate racial traits.
+
+**Nomadic**: These halflings were born on the road and most follow it until the end of their days. They travel fast and light and never miss a chance for either profit or adventure. These halflings have the fleet-footed, polyglot, and wanderlust alternate racial traits.
+
+**Slave Born**: These halflings come from lineages that have spent countless generations as property. Though usually free themselves, the weight of slavery still bears down on their souls, making them eager to please and prone to sudden fits of fear. These halflings have the craven and ingratiating alternate racial traits.
+
+## Archetypes and Class Options
+
+- [Community Guardian](../classes/oracle-archetypes.md#community-guardian) (oracle)
+- [Filcher](../classes/rogue-archetypes.md#filcher) (rogue)
+- [Order of the Paw](../classes/cavalier-archetypes.md#order-of-the-paw) (cavalier)
+- [Underfoot Adept](../classes/monk-archetypes.md#underfoot-adept) (monk)
+
+## Halfling Equipment (Advanced Race Guide)
+
+Halflings have access to the following equipment.
+
+**Alchemical Preserves**: Each small tin of this specially treated jam contains just enough of the gooey stuff to provide a halfling with a single serving of revitalizing nourishment. While any creature can eat these preserves as a standard action, it only affects halflings in a beneficial way. Halflings who eat the preserves recover from fatigue. Non-halflings who eat alchemical preserves become sickened for 1 round.
+
+**Billow Cape**: This silk cape is constructed of many carefully arranged overlapping layers that are loosely stitched together. When exposed to a sudden influx of air, like that caused by falling, the cloak unfolds like a crude parachute. When falling, a creature wearing a billow cape is treated as if he had deliberately jumped from the height. When worn in areas of strong wind or greater, a billow cape hampers movement. In such wind conditions, the wearer treats all terrain as difficult terrain and takes a –4 penalty on Fly checks. Because of the strange and somewhat fragile construction of this cape, only Small or smaller billow capes function properly. Larger billow capes take all the penalties resulting from high winds, but grant none of the benefits when the wearer falls.
+
+**Halfling Jugglesticks**: This group of four brightly colored sticks is adorned with colorful streamers that can be juggled and manipulated to create displays and patterns. Halflings use them to even greater effect, gaining a +2 circumstance bonus on Perform (comedy) checks.
+
+**Roar Cord**: This thin length of rope has many oddly shaped bits of hollow metal fixed along its length. As a standard action, a creature can swing a roar cord over its head to generate a variety of eerie noises. For the next round, any creature within 60 feet of the roar cord takes a –2 penalty on Perception checks that rely on sound and a –1 penalty on saving throws against fear effects. The roar cord can be used as a bardic instrument (string instrument) that grants the bard a +2 bonus on Perform checks when using the countersong bardic performance.
+
+| Item | Cost | Weight | Craft DC |
+|---|---|---|---|
+| Alchemical preserves | 50 gp | — | 20 |
+| Billow cape | 100 gp | 4 lbs. | — |
+| Halfling jugglesticks | 25 gp | 1 lb. | — |
+| Roar cord | 15 gp | 1 lb. | — |
+
+## Advanced Race Guide Feats
+
+- [Adaptive Fortune](../../rules/feats/adaptive-fortune.md)
+- [Blundering Defense](../../rules/feats/blundering-defense.md)
+- [Cautious Fighter](../../rules/feats/cautious-fighter.md)
+- [Courageous Resolve](../../rules/feats/courageous-resolve.md)
+- [Desperate Swing](../../rules/feats/desperate-swing.md)
+- [Fortunate One](../../rules/feats/fortunate-one.md)
+- [Improved Low Blow](../../rules/feats/improved-low-blow.md)
+- [Lucky Healer](../../rules/feats/lucky-healer.md)
+- [Lucky Strike](../../rules/feats/lucky-strike.md)
+- [Risky Striker](../../rules/feats/risky-striker.md)
+- [Sure and Fleet](../../rules/feats/sure-and-fleet.md)
+- [Surprise Strike](../../rules/feats/surprise-strike.md)
+- [Uncanny Defense](../../rules/feats/uncanny-defense.md)
+
+## Advanced Race Guide Magic Items
+
+- [Book of Marvelous Recipes](../../magic-items/racial-items-arg.md#book-of-marvelous-recipes)
+- [Escape Dust](../../magic-items/racial-items-arg.md#escape-dust)
+- [Quickfingers Gloves](../../magic-items/racial-items-arg.md#quickfingers-gloves)
+- [Solidsmoke Pipeweed](../../magic-items/racial-items-arg.md#solidsmoke-pipeweed)
+- [Symbol of Luck](../../magic-items/racial-items-arg.md#symbol-of-luck)
+
+## Advanced Race Guide Spells
+
+- [Blessing of Luck and Resolve](../../magic/spells/blessing-of-luck-and-resolve.md)
+- [Blessing of Luck and Resolve, Mass](../../magic/spells/blessing-of-luck-and-resolve-mass.md)
+- [Escaping Ward](../../magic/spells/escaping-ward.md)
+- [Fearsome Duplicate](../../magic/spells/fearsome-duplicate.md)
+- [Village Veil](../../magic/spells/village-veil.md)

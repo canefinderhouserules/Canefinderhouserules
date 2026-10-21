@@ -499,3 +499,47 @@ Skilled at manipulation and diversion, the deadly courtesan builds up those arou
 **Rogue Talents**: The following rogue talents complement the deadly courtesan archetype: finesse rogue, stand up (*Core Rulebook*); charmer, coax information, fast fingers, honeyed words (*Advanced Player’s Guide*); convincing lie, deft palm (*Ultimate Combat*).
 
 **Advanced Talents**: The following advanced rogue talents complement the deadly courtesan archetype: slippery mind (*Core Rulebook*); master of disguise (*Advanced Player’s Guide*); rumormonger, unwitting ally (*Ultimate Combat*).
+
+## Skulking Slayer
+
+Pushed into a life of crime by the society around them, half-orcs gravitate toward criminal activities that suit them best. Half-orc rogues leave subtle tactics and finesse to halflings and elves, and rely on brute strength and thuggery when they go about making mischief. Skulking slayers have turned the use of raw strength and surprise into an art form. A skulking slayer has the following class features.
+
+**Weapon and Armor Proficiency**: The skulking slayer gains proficiency with greatclubs and whips, but loses proficiency with rapiers and hand crossbows.
+
+**Class Skills**: The skulking slayer does not gain Disable Device, Linguistics, and Sleight of Hand as class skills.
+
+**Skill Ranks per Level**: 6 + Int modifier.
+
+**Pass for Human (Ex)**: At 1st level, when trying to conceal her half-orc heritage, a skulking slayer gains a bonus on Disguise checks equal to half her level. When using disguise to appear as a specific individual, skulking stalkers ignore the normal –2 penalty to appear as another race.
+
+**Underhanded Maneuvers (Ex)**: At 1st level, when she could normally make a sneak attack, a slayer may instead make a dirty trick or steal combat maneuver with a bonus on her roll. This bonus is equal to her number of sneak attack dice for a dirty trick combat maneuver, or 1-1/2 × her number of sneak attack dice for a steal combat maneuver. This ability replaces trapfinding.
+
+**Bonus Feats**: At 2nd level, a skulking slayer can select the Surprise Follow-Through feat (see below) in place of a rogue talent. At 10th level, she can select the Improved Surprise Follow-Through feat in place of an advanced rogue talent.
+
+**Bold Strike (Ex)**: At 3rd level, when a skulking slayer charges and makes a sneak attack with a two-handed weapon, she rolls d8s instead of d6s for her sneak attack damage. This ability replaces trap sense +1 and +4.
+
+**Shifty (Ex)**: At 6th level, a skulking slayer gains a bonus on Bluff checks to feint equal to half her level. This ability replaces trap sense +2.
+
+**Unexpected Charge (Ex)**: At 9th level, a skulking slayer can make a Bluff check to feint as a swift action before a charge. This ability replaces trap sense +3.
+
+**Rogue Talents**: The following rogue talents complement the skulking slayer archetype: combat trick, surprise attack (*Core Rulebook*); combat swipe, powerful sneak (*Advanced Player’s Guide*); terrain mastery (*Ultimate Combat*).
+
+**Advanced Talents**: The following advanced rogue talents complement the skulking slayer archetype: crippling strike (*Core Rulebook*); deadly sneak (*Advanced Player’s Guide*); unwitting ally (*Ultimate Combat*).
+
+## Filcher
+
+A filcher steals valuables without their owners even realizing it. Whether cutting purses in the midst of combat or replacing prized items with fakes under the noses of their owners, the filcher is the master of the quick and quiet steal. A filcher has the following class features.
+
+**Quicker than the Eye (Ex)**: At 2nd level, a filcher develops an amazingly swift and delicate touch. When she uses Sleight of Hand, creatures take a penalty on their Perception checks to notice the attempt equal to half the filcher’s class level. The filcher also subtracts her class level from the normal –20 penalty when attempting to make a Sleight of Hand check as a move action instead of as a standard action. Lastly, the filcher can withdraw an object hidden on her person, including a weapon, as a move action instead of the usual standard action. This ability replaces evasion.
+
+**Rummage (Ex)**: At 3rd level, a filcher learns how to assess the value of items at the quickest glance. She can even make startlingly accurate guesses about particular items merely by observing the bulges they make in pouches, backpacks, or similar containers. She gains a +1 bonus on Appraise checks and an additional +1 bonus every three levels thereafter.
+
+As a swift action, a filcher can make an Appraise check in order to determine the relative value of each object carried by her target (DC = 10 + 1 for every object the filcher is trying to ascertain the relative value of). Though she never learns the actual prices of items when using rummage, she does gain enough information to list these items in order, from the most valuable to the least valuable. She can, by taking a –20 penalty on the check, add to this assessment any items carried by her target that she cannot see. This ability replaces trap sense +1, +2, +3, +4, +5, and +6.
+
+**Filch (Ex)**: At 4th level, a filcher learns how pluck items off her opponents even in combat. She gains Improved Steal as a bonus feat and can use her Sleight of Hand bonus instead of her CMB when performing a steal combat maneuver. If the filcher gains bonuses on combat maneuver checks from any feats, spells, magic items, or similar effects, they are added to the Sleight of Hand bonus when using the steal maneuver. This ability replaces uncanny dodge.
+
+**Superior Filching (Ex)**: At 8th level, a filcher becomes a master at separating owners from their property. She gains Greater Steal as a bonus feat, and opponents do not gain a +5 bonus to their CMD when she tries to remove items fastened to them. This ability replaces improved uncanny dodge.
+
+**Rogue Talents**: The following rogue talents complement the filcher archetype: fast stealth, slow reactions (*Core Rulebook*); fast fingers, fast getaway (*Advanced Player’s Guide*); black market connections, deft palm (*Ultimate Combat*).
+
+**Advanced Talents**: The following advanced rogue talents complement the filcher archetype: skill mastery (*Core Rulebook*); fast tumble (*Advanced Player’s Guide*); weapon snatcher (*Ultimate Combat*).

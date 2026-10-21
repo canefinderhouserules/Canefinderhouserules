@@ -55,3 +55,80 @@ The following racial traits might be selected instead of existing racial traits.
 **Scavenger**: Some half-orcs eke out a leaving picking over the garbage heaps of society, and must learn to separate rare finds from the inevitable dross. Half-orcs with this racial trait receive a +2 racial bonus on Appraise checks and on Perception checks to find hidden objects (including traps and secret doors), determine if food is spoiled, or identify a potion by taste. This racial trait replaces the intimidating racial trait.
 
 **Toothy**: Some half-orcs’ vestigial tusks are massive and sharp, granting a bite attack. This is a primary natural attack that deals 1d4 points of piercing damage. This racial trait replaces the orc ferocity racial trait.
+
+### Additional Alternate Racial Traits (Advanced Race Guide)
+
+**Acute Darkvision**: Some half-orcs have exceptionally sharp darkvision, gaining darkvision 90 feet. This racial trait replaces orc ferocity.
+
+**City-Raised**: Half-orcs with this trait know little of their orc ancestry and were raised among humans and other half-orcs in a large city. City-raised half-orcs are proficient with whips and longswords, and receive a +2 racial bonus on Knowledge (local) checks. This racial trait replaces weapon familiarity.
+
+**Forest Walker**: More at home in the forests and jungles of the world, these half-orcs are well adapted to their surroundings. Half-orcs with this trait have low-light vision and gain a +2 racial bonus on Climb checks. This racial trait replaces darkvision.
+
+**Shaman’s Apprentice**: Only the most stalwart survive the years of harsh treatment that an apprenticeship to an orc shaman entails. Half-orcs with this trait gain Endurance as a bonus feat. This racial trait replaces the intimidating trait.
+
+**Skilled**: Second- and third-generation half-orcs often favor their human heritage more than their orc heritage. Half-orcs with this trait gain 1 additional skill rank per level. This racial trait replaces darkvision.
+
+## Racial Subtypes
+
+You can combine various alternate racial traits to create half-orc subraces or variant races, such as the following.
+
+**Arena-Bred**: Many half-orcs are born and raised to fight in the arena, and in many cases have two half-orc parents or even a half-orc and a human parent. These arena-bred half-orcs lose the brutal physical appearance of their orc ancestors and look more human. They have the city-raised and skilled alternate racial traits.
+
+**Deep Kin**: Some half-orcs are descended from clans that remained in the eternal darkness below the surface. Half-orcs from these clans tend to be smaller and more at home underground than those descended from surface-dwelling orcs. These half-orcs have the acute darkvision and cavewight alternate racial traits.
+
+**Feral**: Half-orc children who are abandoned as infants or small children rarely survive in the wild, but a few manage to scrape out a meager existence as “wild children,” tough enough to live but completely uncivilized. Feral half-orcs have the forest walker and toothy alternate racial traits.
+
+**Mountain Clan**: Half-orcs from the more mountainous regions tend to be more agile and alert to the echoing sounds of their homeland. Mountain clan half-orcs have the bestial and rock climber racial traits.
+
+**Mystic**: Orc shamans are brutal teachers who sometimes kill or maim their most promising students in order to eliminate what could be a potential rival. Half-orcs who survive years of abuse by an orc shaman master are deeply scarred and altered by the experience. Shaman trainees learn early that cunning and luck are often the only things that offer a chance of survival. They have the shaman’s apprentice and tribal tattoo alternate racial traits.
+
+## Archetypes and Class Options
+
+- [Blood God Disciple](../classes/summoner-archetypes.md#blood-god-disciple) (summoner)
+- [Hateful Rager](../classes/barbarian-archetypes.md#hateful-rager) (barbarian)
+- [Redeemer](../classes/paladin-archetypes.md#redeemer) (paladin)
+- [Skulking Slayer](../classes/rogue-archetypes.md#skulking-slayer) (rogue)
+
+## Half-Orc Equipment (Advanced Race Guide)
+
+Half-orcs have access to the following equipment.
+
+**Black Fester**: This black paste is often applied on orc weapons before going on raids to stymie an enemy’s healing magic. Like a poison, black fester stays on a weapon until the first time it strikes an opponent. It remains in the target’s body for 1 hour. A creature exposed to black fester resists magical healing; a creature trying to magically heal the target must make a DC 10 caster level check to restore any hit points to the target.
+
+**Half-Orc Disguise Kit**: This specifically designed kit was put together by half-orcs to help them appear more human. It includes skin cream to disguise green-gray skin color and other items designed to conceal or draw attention away from typical half-orc physical characteristics. Using this kit on a half-orc grants a +3 bonus on Disguise checks to appear human. Used on an orc, it only grants a +1 bonus on these checks.
+
+| Item | Cost | Weight | Craft DC |
+|---|---|---|---|
+| Black fester (vial) | 30 gp | — | 25 |
+| Half-orc disguise kit | 75 gp | 1 lb. | — |
+
+## Advanced Race Guide Feats
+
+- [Beast Rider](../../rules/feats/beast-rider.md)
+- [Blood Vengeance](../../rules/feats/blood-vengeance.md)
+- [Destroyer’s Blessing](../../rules/feats/destroyer-s-blessing.md)
+- [Ferocious Resolve](../../rules/feats/ferocious-resolve.md)
+- [Ferocious Summons](../../rules/feats/ferocious-summons.md)
+- [Ferocious Tenacity](../../rules/feats/ferocious-tenacity.md)
+- [Gore Fiend](../../rules/feats/gore-fiend.md)
+- [Horde Charge](../../rules/feats/horde-charge.md)
+- [Improved Surprise Follow-Through](../../rules/feats/improved-surprise-follow-through.md)
+- [Resilient Brute](../../rules/feats/resilient-brute.md)
+- [Surprise Follow-Through](../../rules/feats/surprise-follow-through.md)
+- [Sympathetic Rage](../../rules/feats/sympathetic-rage.md)
+- [Tenacious Survivor](../../rules/feats/tenacious-survivor.md)
+- [Thrill of the Kill](../../rules/feats/thrill-of-the-kill.md)
+
+## Advanced Race Guide Magic Items
+
+- [Cloak of Human Guise](../../magic-items/racial-items-arg.md#cloak-of-human-guise)
+- [Ring of Ferocious Action](../../magic-items/racial-items-arg.md#ring-of-ferocious-action)
+- [Swift Obsidian Greataxe](../../magic-items/racial-items-arg.md#swift-obsidian-greataxe)
+
+## Advanced Race Guide Spells
+
+- [Battle Trance](../../magic/spells/battle-trance.md)
+- [Ghost Wolf](../../magic/spells/ghost-wolf.md)
+- [Half-blood Extraction](../../magic/spells/half-blood-extraction.md)
+- [Linebreaker](../../magic/spells/linebreaker.md)
+- [Savage Maw](../../magic/spells/savage-maw.md)

@@ -615,3 +615,33 @@ While many vanaras follow traditional monastic training and traditions, others l
 **Wood Affinity (Su)**: At 5th level, a treetop monk may expend 1 point from his *ki* pool as a free action to treat a wooden object as if it were not broken for 1 minute (this includes a weapon with a wooden haft such as an axe or spear). At 8th level, as a free action, a treetop monk can expend 1 point from his *ki* pool to use the Lunge feat with any wooden or wood-hafted melee weapon. This ability replaces purity of body.
 
 ***Freedom of Movement* (Su)**: At 12th level, a treetop may expend 1 point from his *ki* pool as a swift action to gain the effects of *freedom of movement* for 1 round. This ability replaces abundant step.
+
+## Underfoot Adept
+
+An underfoot adept turns his diminutive stature and unorthodox footwork into a powerful weapon. Effortlessly moving across the battlefield, he ducks under the legs of larger creatures and then topples them with surprising attacks. An underfoot adept has the following class features.
+
+**Underfoot Grace (Ex)**: At 1st level, an underfoot adept uses his size and grace to avoid the attacks of those he passes. When using the Acrobatics skill to avoid attacks of opportunity by moving through a threatened area or an enemy’s space, he only takes a –5 penalty when doing so at full speed, instead of the normal –10 penalty. This ability replaces the bonus feat gained at 1st level.
+
+**Underfoot Trip (Ex)**: At 1st level, an underfoot adept learns a number of maneuvers and grabs that can cause even the largest opponents to stumble and fall. He gains Improved Trip as a bonus feat, even if he does not meet the requirements. At 4th level, and every four levels thereafter, he acts as if he is one size larger for the purposes of determining the maximum size of creatures he can trip and when determining his CMB and CMD for purposes of a trip combat maneuver. This ability replaces stunning fist.
+
+**Improved Underfoot Grace (Ex)**: At 5th level, an underfoot adept’s ability to avoid attacks of opportunity against those he passes improves. When using the Acrobatics skill to avoid attacks of opportunity, while moving through a threatened area or through an enemy’s space, he takes no penalty when doing so at full speed. This ability replaces high jump.
+
+## Wanderer
+
+Some monks wander the world in humility to learn and to share wisdom and philosophy from their teachers with those they meet, often aiding those who are in need. A wanderer has the following class features.
+
+**Class Skills**: The wanderer adds Diplomacy, Knowledge (geography), Knowledge (local), Linguistics, and Survival to his list of class skills.
+
+**Far Traveler (Ex)**: At 1st level, the wanderer gains either one additional language known or proficiency in one exotic or martial weapon. At 4th level and every four levels thereafter, the wanderer may gain an additional language known or may retrain her weapon proficiency from this ability to a different exotic or martial weapon. This ability replaces the bonus feat gained at 1st level.
+
+**Long Walk (Ex)**: At 3rd level, the wanderer gains Endurance as a bonus feat, and the feat bonus doubles when he makes Constitution checks because of a forced march. In addition, a wanderer gains a +2 bonus on saving throws against spells and effects that cause exhaustion and fatigue. This ability replaces still mind.
+
+**Light Step (Su)**: At 5th level, a wanderer leaves no trail and cannot be tracked, though he can leave a trail if desired. By spending 1 point from his *ki* pool, he can use *ant haul*, *feather step*, *longstrider*, *pass without trace*, or *tireless pursuit* as a spell-like ability (with a caster level equal to his monk level). This ability replaces slow fall.
+
+**Inscrutable (Su)**: At 5th level, the wanderer gains a supernatural air of mystery. The DC to gain information or insight into the wanderer with Diplomacy, Knowledge skills, or Sense Motive increases by 5. In addition, by spending 1 point from his *ki* pool, the wanderer gains *nondetection* for 24 hours with a caster level equal to his monk level. This ability replaces high jump.
+
+**Wanderer’s Wisdom (Ex)**: At 7th level, the wanderer can dispense excellent advice in the form of philosophical proverbs and parables. As a swift action, the wanderer can inspire courage or inspire competence as a bard of his monk level by spending 2 points from his *ki* pool. This affects one creature within 30 feet and lasts a number of rounds equal to the wanderer’s Wisdom modifier (minimum 1 round). This ability is language-dependent. This ability replaces wholeness of body.
+
+**Disappear Unnoticed (Ex)**: At 12th level, the wanderer may use Stealth to hide even while being directly observed or when no cover or concealment is available, as long as he is adjacent to at least one creature of his size or larger, by spending 1 point from his *ki* pool. This effect lasts until the beginning of the wanderer’s next turn and may be continued in consecutive rounds by spending 1 *ki* point each round. This ability replaces abundant step.
+
+**Free Step (Su)**: At 13th level, the wanderer gains continuous *freedom of movement* as a continuous spell-like ability*.* This ability replaces diamond soul.

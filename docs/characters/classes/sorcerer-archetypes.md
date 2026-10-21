@@ -804,3 +804,29 @@ Wishcrafters are born with a talent for manipulating reality inherited from thei
 **Twisted Wish (Su)**: At 13th level, a wishcrafter becomes adept at corrupting wishes to negatively affect the creature that wished them. When a wishcrafter affects a creature with a spell using its wish as a spell component, she may twist the wish, applying a –4 penalty to the creature’s saving throws against the spell. The effects of wishes twisted this way are difficult to remove; the DC of caster level checks to dispel them increases by 5. This ability replaces the bloodline bonus feat gained at 13th level.
 
 **Perfect Wishcraft (Su)**: At 19th level, the wishcrafter perfects her ability to manipulate reality. Once per day, she may cast any spell on the sorcerer/wizard spell list as if it were on her list of spells known. Using this ability otherwise has all of the benefits and limitations of the wishbound arcana ability. This ability replaces the bloodline bonus feat gained at 19th level.
+
+## Imperious Bloodline
+
+A scion of forgotten kings, with a lineage rich with the dust of ancient empires spanning every golden age of humanity’s history, an imperious embodies the apex of human potential, as well as human temerity and uninhibited hubris.
+
+**Class Skill**: Perform (oratory).
+
+**Bonus Spells**: *moment of greatness* (3rd), *eagle’s splendor* (5th), *heroism* (7th), *threefold aspect* (9th), *greater command* (11th), *pure strain* (13th), *greater age resistance* (15th), *prediction of failure* (17th), *overwhelming presence* (19th).
+
+**Bonus Feats**: Diehard, Endurance, Heroic Defiance, Heroic Recovery, Improved Initiative, Lingering Spell, Magical Aptitude, Persuasive.
+
+**Bloodline Arcana**: Whenever you cast a harmful spell, you gain a bonus equal to the spell’s level on Intimidate checks made against any creature adversely effected by that spell until the end of your next turn. Adversely effected typically means damage, but it can also mean debilitating effects or conditions.
+
+**Bloodline Powers**: You draw upon ancestors both legendary and forgotten.
+
+*Student of Humanity (Ex)*: At 1st level, you gain Diplomacy, Knowledge (history), Knowledge (local), Knowledge (nobility), and Linguistics as class skills. In addition, when using these skills to learn, study, or gather information about humans, you add an insight bonus equal to your Charisma bonus on such checks.
+
+*Heroic Echo (Su)*: At 3rd level, when you receive a morale bonus from any spell, spell-like ability, or magic item, including those you cast on yourself, that bonus increases by +1. At 9th level, this ability also applies to competence bonuses. If you receive a morale effect (or a competence effect at 9th level) that affects an area or multiple targets, as an immediate action you can share your increased bonus with all other recipients. This increase to other participants lasts a number of rounds equal to your Charisma bonus. You can use this ability once per day, plus one time per three levels after 3rd.
+
+*Take Your Best Shot (Su)*: At 9th level, if you are targeted by a harmful spell, spell-like ability, or supernatural ability and suffer no harm from it, whether because of a successful saving throw, spell resistance, the attack missing, or some other protection, as an immediate action you can make an Intimidate check to demoralize the creature that produced the effect, but only if the creature that used the harmful effect is within 30 feet and can clearly see and hear you.
+
+At 13th level, you can use this ability after succeeding at a saving throw to reduce the effects of an attack (if no save is allowed, you cannot use this ability).
+
+*Heroic Legends (Su)*: At 15th level, you may inspire greatness or inspire heroics as a bard of your sorcerer level by sacrificing a spell slot as a swift or move action. The effect lasts a number of rounds equal to the sacrificed spell’s level; this duration is doubled for human recipients.
+
+*Immortal Legend (Ex)*: At 20th level, you cease aging; no longer need to eat, drink, or sleep; and gain immunity to death effects and energy drain.
