@@ -1273,6 +1273,7 @@ Racial feats from the *Advanced Race Guide*. Each feat lists the race it require
 
 | Feat | Type | Prerequisites |
 |---|---|---|
+| [Agile Tongue](agile-tongue.md) | — | Grippli |
 | [Airy Step](airy-step.md) | — | Sylph |
 | [Angel Wings](angel-wings.md) | — | Angelic Blood, aasimar, character level 10th |
 | [Angelic Blood](angelic-blood.md) | — | Con 13, aasimar |
@@ -1309,6 +1310,7 @@ Racial feats from the *Advanced Race Guide*. Each feat lists the race it require
 | [Echoes of Stone](echoes-of-stone.md) | — | Oread |
 | [Elemental Jaunt](elemental-jaunt.md) | — | Character level 15th, ifrit, oread, sylph, or undine |
 | [Expanded Fiendish Resistance](expanded-fiendish-resistance.md) | — | Tiefling |
+| [Extra Elemental Assault](extra-elemental-assault.md) | — | Suli |
 | [Feline Grace](feline-grace.md) | — | Dexterity 13, catfolk |
 | [Ferocious Action](ferocious-action.md) | — | Ferocity racial trait, orc |
 | [Fiend Sight](fiend-sight.md) | — | Darkvision 60 ft., tiefling |
@@ -1318,6 +1320,7 @@ Racial feats from the *Advanced Race Guide*. Each feat lists the race it require
 | [Flame Heart](flame-heart.md) | — | Fire Tamer, character level 5th, goblin |
 | [Focusing Blow](focusing-blow.md) | Teamwork | Hobgoblin Discipline, hobgoblin |
 | [Foment the Blood](foment-the-blood.md) | — | Channel energy class feature, orc |
+| [Giant Steps](giant-steps.md) | — | Duergar, slow and steady racial trait |
 | [Gloom Sight](gloom-sight.md) | — | Fetchling |
 | [Gloom Strike](gloom-strike.md) | Combat | Blind-Fight, fetchling |
 | [Goblin Gunslinger](goblin-gunslinger.md) | Combat | Goblin |
@@ -1332,12 +1335,17 @@ Racial feats from the *Advanced Race Guide*. Each feat lists the race it require
 | [Improved Dark Sight](improved-dark-sight.md) | — | Dark Sight, Gloom Sight, fetchling |
 | [Improved Drow Nobility](improved-drow-nobility.md) | — | Cha 13, Drow Nobility, able to use drow spell-like abilities, drow |
 | [Improved Umbral Scion](improved-umbral-scion.md) | — | Cha 13, Wis 13, Drow Nobility, Greater Drow Nobility, Improved Drow Nobility, Umbral Scion, able to use drow spell-like abilities, drow |
+| [Incremental Elemental Assault](incremental-elemental-assault.md) | — | Suli |
 | [Inner Breath](inner-breath.md) | — | Character level 11th, sylph |
 | [Inner Flame](inner-flame.md) | Combat | Scorching Weapons, character level 7th, ifrit |
 | [Kobold Ambusher](kobold-ambusher.md) | Combat | Stealth 4 ranks, kobold |
 | [Kobold Sniper](kobold-sniper.md) | Combat | Stealth 1 rank, kobold |
+| [Life’s Blood](life-s-blood.md) | — | Samsaran |
+| [Lingering Invisibility](lingering-invisibility.md) | — | Duergar |
 | [Long-Nose Form](long-nose-form.md) | — | Character level 3rd, tengu |
+| [Magical Tail](magical-tail.md) | — | Kitsune |
 | [Metallic Wings](metallic-wings.md) | — | Angelic Blood, Angelic Flesh, Angel Wings, aasimar, character level 11th |
+| [Mother’s Gift](mother-s-gift.md) | — | Changeling |
 | [Murmurs of Earth](murmurs-of-earth.md) | — | Echoes of Stone, character level 9th, oread |
 | [Natural Charmer](natural-charmer.md) | — | Cha 17, dhampir |
 | [Nimble Striker](nimble-striker.md) | Combat | Dex 13, base attack bonus +1, catfolk, sprinter racial trait |
@@ -1345,18 +1353,25 @@ Racial feats from the *Advanced Race Guide*. Each feat lists the race it require
 | [Orc Weapon Expertise](orc-weapon-expertise.md) | Combat | Base attack bonus +1, orc |
 | [Oread Burrower](oread-burrower.md) | — | Stony Step, character level 9th, oread |
 | [Oread Earth Glider](oread-earth-glider.md) | — | Oread Burrower, Stony Step, character level 13th, oread |
+| [Realistic Likeness](realistic-likeness.md) | — | — |
 | [Resolute Rager](resolute-rager.md) | — | Orc, rage class feature |
 | [Reverse-Feint](reverse-feint.md) | Combat | Toughness, base attack bonus +1, orc |
 | [Scavenger’s Eye](scavenger-s-eye.md) | — | Tengu |
 | [Scorching Weapons](scorching-weapons.md) | Combat | Ifrit |
+| [Sea Hunter](sea-hunter.md) | Combat | Combat Expertise, merfolk |
 | [Shadow Caster](shadow-caster.md) | — | Caster level 1st, drow |
 | [Shadow Ghost](shadow-ghost.md) | — | Fetchling, *shadow walk* spell-like ability |
 | [Shadow Walker](shadow-walker.md) | — | Fetchling, *shadow walk* spell-like ability |
+| [Shadowy Dash](shadowy-dash.md) | — | Wayang |
 | [Sharpclaw](sharpclaw.md) | Combat | Ratfolk |
+| [Sleep Venom](sleep-venom.md) | — | Vishkanya |
 | [Spider Step (Drow)](spider-step-drow.md) | — | Character level 3rd, drow |
 | [Spider Summoner](spider-summoner.md) | — | Ability to cast *summon monster* or *summon nature’s ally* spells, drow |
+| [Spit Venom](spit-venom.md) | Combat | Nagaji |
 | [Steam Caster](steam-caster.md) | — | Undine |
+| [Stoic Pose](stoic-pose.md) | — | Svirfneblin |
 | [Stony Step](stony-step.md) | — | Oread |
+| [Stretched Wings](stretched-wings.md) | — | Str 13, Skill Focus (Fly), strix, wing-clipped racial trait |
 | [Tail Terror](tail-terror.md) | Combat | Base attack bonus +1, kobold |
 | [Tangle Feet](tangle-feet.md) | Combat | Dodge, Mobility, Underfoot, goblin, Small size or smaller |
 | [Taskmaster](taskmaster.md) | Combat | Demoralizing Lash, Intimidate 5 ranks, hobgoblin |
@@ -1364,6 +1379,7 @@ Racial feats from the *Advanced Race Guide*. Each feat lists the race it require
 | [Tengu Wings](tengu-wings.md) | — | Character level 5th, tengu |
 | [Terrorizing Display](terrorizing-display.md) | Combat | Dazzling Display, Demoralizing Lash, Taskmaster, Weapon Focus, Intimidate 10 ranks, hobgoblin, proficiency with selected weapon |
 | [Trap Wrecker](trap-wrecker.md) | — | Power Attack, Disable Device 1 rank, orc |
+| [Tree Hanger](tree-hanger.md) | Combat | Acrobatics 1 rank, vanara |
 | [Triton Portal](triton-portal.md) | — | Character level 5th, *hydraulic push* spell-like ability, undine |
 | [Tunnel Rat](tunnel-rat.md) | — | Ratfolk, swarming racial trait |
 | [Umbral Scion](umbral-scion.md) | — | Cha 13, Wis 13, Drow Nobility, Greater Drow Nobility, Improved Drow Nobility, able to use drow spell-like abilities, drow |

@@ -40,6 +40,7 @@ The magus class spell list appears on the [Magus](../../characters/classes/magus
 - **[Frigid Touch](frigid-touch.md)**: Target takes cold damage and is staggered.
 - **[Ghost Whip](ghost-whip.md)**: Create a ghost touch whip that passes through objects.
 - **[Gusting Sphere](gusting-sphere.md)**: School evocation [air]; Level druid 2, magus 2, sorcerer/wizard 2 Casting Time 1 standard action Components V.
+- **[Imbue with Elemental Might](imbue-with-elemental-might.md)**: School evocation [see text]; Level cleric 2, magus 2, sorcerer/wizard 2 Components V, S Duration 24 hours or.
 - **[Mount, Communal](mount-communal.md)**: As mount, but you may divide the duration among creatures touched.
 - **[Pilfering Hand](pilfering-hand.md)**: You may seize an object or manipulate it from afar.
 - **[Pouncing Fury](pouncing-fury.md)**: Make a full attack with your claws after a charge.
@@ -65,6 +66,7 @@ The magus class spell list appears on the [Magus](../../characters/classes/magus
 - **[Gloomblind Bolts](gloomblind-bolts.md)**: You create one or more bolts of negative energy infused with shadow pulled from the Shadow Plane.
 - **[Locate Weakness](locate-weakness.md)**: You roll damage twice when you roll damage for a critical hit and take the best damage.
 - **[Monstrous Physique I](monstrous-physique-i.md)**: Take the form and some of the powers of a Small or Medium monstrous humanoid.
+- **[Prehensile Pilfer](prehensile-pilfer.md)**: School transmutation; Level alchemist 3, bard 3, magus 3, sorcerer/wizard 3 Casting Time 1 standard action.
 - **[Sickening Strikes](sickening-strikes.md)**: You are imbued with disease, and any creature you strike with a melee attack must make a Fortitude save or be.
 - **[Undead Anatomy I](undead-anatomy-i.md)**: Take the form and some of the powers of a Small or Medium undead.
 - **[Vomit Twin](vomit-twin.md)**: Upon casting this spell, you vomit forth a disgusting ooze copy of yourself into a single adjacent square.

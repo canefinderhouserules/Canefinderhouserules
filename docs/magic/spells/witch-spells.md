@@ -23,6 +23,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Icicle Dagger](icicle-dagger.md)**: Masterwork ice dagger deals +1 cold damage.
 - **[Interrogation](interrogation.md)**: Target answers questions or suffers pain.
 - **[Jury-Rig](jury-rig.md)**: Removes the broken condition from the targeted object.
+- **[Karmic Blessing](karmic-blessing.md)**: School divination [good]; Level cleric 1, witch 1 Casting Time 1 standard action Components V, S Range touch.
 - **[Ki Arrow](ki-arrow.md)**: Arrow deals damage as your unarmed strike.
 - **[Lock Gaze](lock-gaze.md)**: Compels the target to look only at you for the duration of the spell.
 - **[Marid’s Mastery](marid-s-mastery.md)**: School transmutation [water]; Level cleric 1, druid 1, ranger 1, sorcerer/wizard 1, witch 1 Casting Time 1.
@@ -37,6 +38,8 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Sanctify Corpse](sanctify-corpse.md)**: Prevent a corpse from becoming an undead.
 - **[Shadow Weapon](shadow-weapon.md)**: Create a quasi-real masterwork weapon.
 - **[Snowball](snowball.md)**: Throw a conjured ball of snow at a target.
+- **[Sow Thought](sow-thought.md)**: School enchantment (compulsion) [mind-affecting]; Level bard 1, sorcerer/wizard 1, witch 1 Casting Time 1.
+- **[Strong Wings](strong-wings.md)**: School transmutation; Level druid 1, ranger 1, sorcerer/wizard 1, witch 1 Casting Time 1 standard action.
 - **[Summon Minor Monster](summon-minor-monster.md)**: Summon 1d3 Tiny animals.
 - **[Theft Ward](theft-ward.md)**: You ward a single object in your possession against theft.
 - **[Touch of Combustion](touch-of-combustion.md)**: Your successful melee touch attack causes the target to ignite in a violent burst of flame, dealing 1d6.
@@ -51,6 +54,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 
 ## 2nd-Level Witch Spells
 
+- **[Aboleth’s Lung](aboleth-s-lung.md)**: The targets are able to breathe water, freely.
 - **[Adoration](adoration.md)**: You gain a bonus on Diplomacy checks and performance combat checks.
 - **[Ancestral Regression](ancestral-regression.md)**: School transmutation (polymorph); Level alchemist 2, antipaladin 3, cleric 2, sorcerer/wizard 3, witch 2.
 - **[Anticipate Thoughts](anticipate-thoughts.md)**: Gain increasing bonuses to AC and on attack rolls and damage rolls against one creature.
@@ -89,10 +93,12 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Reinforce Armaments, Communal](reinforce-armaments-communal.md)**: As reinforce armaments, but you may divide the duration among objects touched.
 - **[Returning Weapon](returning-weapon.md)**: Grants a weapon the returning special weapon quality.
 - **[Sentry Skull](sentry-skull.md)**: You restore the senses to the severed head of a humanoid or monstrous humanoid killed within the past 24.
+- **[Shadow Anchor](shadow-anchor.md)**: School illusion (shadow) [shadow]; Level bard 2, sorcerer/wizard 2, witch 2 Casting Time 1 standard action.
 - **[Share Memory](share-memory.md)**: Share one memory with the target.
 - **[Sickening Strikes](sickening-strikes.md)**: You are imbued with disease, and any creature you strike with a melee attack must make a Fortitude save or be.
 - **[Silk to Steel](silk-to-steel.md)**: Use a scarf as a shield or whip.
 - **[Skinsend](skinsend.md)**: Animate and possess your own skin as if it were a separate creature.
+- **[Squeeze](squeeze.md)**: School transmutation (polymorph); Level alchemist 2, sorcerer/wizard 2, witch 2 Casting Time 1 standard.
 - **[Stabilize Powder](stabilize-powder.md)**: Ammunition in the targeted firearm is less likely to misfire.
 - **[Steal Breath](steal-breath.md)**: You pull the breath from a creature’s lungs, dealing damage and leaving it unable to speak, use breath.
 - **[Steal Voice](steal-voice.md)**: Target gains the croaking spellblight.
@@ -122,6 +128,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Eldritch Fever](eldritch-fever.md)**: Target gains the eldritch ague spellblight.
 - **[Eruptive Pustules](eruptive-pustules.md)**: Acid boils burst when you are attacked.
 - **[Excruciating Deformation](excruciating-deformation.md)**: Target takes Dex and Con damage.
+- **[Fins to Feet](fins-to-feet.md)**: School transmutation (polymorph); Level druid 3, sorcerer/wizard 3, witch 3 Casting Time 1 standard action.
 - **[Flash Fire](flash-fire.md)**: Ammunition in the targeted firearm creates a tremendous flash capable of blinding the weapon’s bearer and those around him.
 - **[Gloomblind Bolts](gloomblind-bolts.md)**: You create one or more bolts of negative energy infused with shadow pulled from the Shadow Plane.
 - **[Healing Thief](healing-thief.md)**: You siphon half of all magical healing that the targeted creature receives.

@@ -429,3 +429,19 @@ This ability replaces the shigenjo’s 7th-level revelation.
 **Quivering Palm (Su)**: At 15th level, a shigenjo may learn quivering palm as the monk ability of the same name in place of a revelation. She treats her oracle level as her monk level for this ability, and the DC is based on her Charisma bonus instead of her Wisdom bonus.
 
 **Final Revelation**: Upon reaching 20th level, you achieve true enlightenment and becomes one with the celestial spirits. You gain the ability to speak with any creature that uses a language. For a number of days equal to your Wisdom score, you can ignore the negative effects of extreme weather, starvation, thirst, and exhaustion. If you die, your powerful connection to the celestial realm allows you to be reborn 3 days later (as *reincarnate*). This replaces the final revelation of the shigenjo’s mystery.
+
+## Reincarnated Oracle
+
+A reincarnated oracle draws her knowledge and power from the experiences of her previous lives. Her memories guide her through a spiritual ascension leading the way to her ultimate incarnation. A reincarnated oracle has the following class features.
+
+**Recommended Mysteries**: ancestor, lore, time.
+
+**Oracle’s Curse**: A reincarnated oracle must choose the haunted or tongues curse at 1st level.
+
+**Bonus Spells**: *see alignment* (*Ultimate Combat*, 2nd), *detect thoughts* (4th), *contact other plane* (10th), *moment of prescience* (16th), *overwhelming presence* (*Ultimate Magic*, 18th). These spells replace the oracle’s mystery bonus spells at these levels.
+
+**Revelations**: A reincarnated oracle must take the following revelations at one of the listed levels.
+
+*Location Memories (Su)*: As a swift action, you may search your past lives for memories of or insight about your current location. This grants you the scent ability, low-light vision, and a +2 insight bonus on Perception and Survival checks for 1 minute. You can use this ability a number of times per day equal to 3 + your Charisma modifier. You must take this revelation at 1st level or 3rd level.
+
+*Spirit Memories (Su)*: Once per day, you call upon the unfulfilled desires and goals of your past lives and project their frustration and despair through your eyes at a target. This is a gaze attack affecting one creature. The target must make a Will save (DC 10 + 1/2 your oracle level + your Charisma modifier) or be sickened and staggered for 1 round. This is a mind-affecting compulsion effect. You can use this ability a number of times per day equal to 3 + your Charisma modifier. You must take this revelation at 1st, 3rd, or 7th level.

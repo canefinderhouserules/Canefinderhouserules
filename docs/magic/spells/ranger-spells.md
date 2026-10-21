@@ -32,6 +32,7 @@
 - **[Resist Energy](resist-energy.md)**: Ignores 10 (or more) points of damage/attack from specified energy type.
 - **[Returning Weapon](returning-weapon.md)**: Grants a weapon the returning special weapon quality.
 - **[Speak with Animals](speak-with-animals.md)**: You can communicate with animals.
+- **[Strong Wings](strong-wings.md)**: School transmutation; Level druid 1, ranger 1, sorcerer/wizard 1, witch 1 Casting Time 1 standard action.
 - **[Summon Nature’s Ally I](summon-natures-ally-i.md)**: Summons creature to fight for you.
 - **[Sun Metal](sun-metal.md)**: Weapon touched bursts into flames.
 - **[Tamer’s Lash](tamers-lash.md)**: Create a whip made of sound that damages foes and can frighten animals.

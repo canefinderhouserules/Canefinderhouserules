@@ -50,6 +50,7 @@
 - **[Snowball](snowball.md)**: Throw a conjured ball of snow at a target.
 - **[Speak with Animals](speak-with-animals.md)**: You can communicate with animals.
 - **[Stone Shield](stone-shield.md)**: A 1-inch-thick slab of stone springs up from the ground, interposing itself between you and an opponent of.
+- **[Strong Wings](strong-wings.md)**: School transmutation; Level druid 1, ranger 1, sorcerer/wizard 1, witch 1 Casting Time 1 standard action.
 - **[Summon Nature’s Ally I](summon-natures-ally-i.md)**: Summons creature to fight.
 - **[Touch of Combustion](touch-of-combustion.md)**: Your successful melee touch attack causes the target to ignite in a violent burst of flame, dealing 1d6.
 - **[Wave Shield](wave-shield.md)**: Water blunts one incoming attack or fire effect.
@@ -59,6 +60,7 @@
 
 ## 2nd-Level Druid Spells
 
+- **[Aboleth’s Lung](aboleth-s-lung.md)**: The targets are able to breathe water, freely.
 - **[Alpha Instinct](alpha-instinct.md)**: Gain bonuses when you’re interacting with animals.
 - **[Animal Aspect](animal-aspect.md)**: You gain some of the beneficial qualities of an animal.
 - **[Animal Messenger](animal-messenger.md)**: Sends a Tiny animal to a specific place.
@@ -129,6 +131,7 @@
 - **[Dominate Animal](dominate-animal.md)**: One animal obeys your silent mental commands and orders.
 - **[Earth Tremor](earth-tremor.md)**: Unleash a tremor that creates difficult terrain and can knock foes down and damage them.
 - **[Fey Form I](fey-form-i.md)**: Assume the form of a Small or Medium fey creature.
+- **[Fins to Feet](fins-to-feet.md)**: School transmutation (polymorph); Level druid 3, sorcerer/wizard 3, witch 3 Casting Time 1 standard action.
 - **[Flashfire](flashfire.md)**: Cause smoky fires to spring up to burn foes and set them alight.
 - **[Improve Trap](improve-trap.md)**: When this spell is cast upon a trap, it improves one specific element of the trap chosen at the time of.
 - **[Iron Stake](iron-stake.md)**: Hurl a spike of cold iron at a foe.
@@ -175,6 +178,7 @@
 - **[Control Water](control-water.md)**: Raises or lowers bodies of water.
 - **[Cure Serious Wounds](cure-serious-wounds.md)**: Cures 3d8 damage + 1/level (max +15).
 - **[Dispel Magic](dispel-magic.md)**: Cancels one magical spell or effect.
+- **[Earth Glide](earth-glide.md)**: School transmutation [earth]; Level alchemist 4, druid 4, sorcerer/wizard 4 Casting Time 1 standard action.
 - **[Explosion of Rot](explosion-of-rot.md)**: Call forth a burst of decay that damages and can stagger targets.
 - **[Flame Strike](flame-strike.md)**: Smites foes with divine fire (1d6/level damage).
 - **[Forest’s Sense](forests-sense.md)**: Sense the location of a distant target that is near a plant or fungus.

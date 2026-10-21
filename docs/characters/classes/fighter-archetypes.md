@@ -592,3 +592,19 @@ The dirty fighter laughs at concepts like honor and fair play. He cares only for
 **Speedy Tricks (Ex)**: At 9th level, a dirty fighter has perfected how to quickly perform dirty tricks. He can make a dirty trick combat maneuver as an attack instead of a standard action. This ability replaces weapon training 2.
 
 **Double Tricks (Ex)**: At 13th level, when a dirty fighter performs a combat maneuver, he may apply two different conditions to his target instead of one. Each penalty condition requires a separate action to remove. At 17th level, he may apply three different conditions. This ability replaces weapon training 3 and 4.
+
+## Airborne Ambusher
+
+Driven by suspicion and hatred, strix doggedly guard their territories, making deadly use of their flight. Using swift strikes from above, strix plummet onto their foes with lethal force.
+
+**Weapon and Armor Proficiency**: An airborne ambusher is not proficient with heavy armor or tower shields.
+
+**Class Skills**: An airborne ambusher adds Fly to his list of class skills and removes Climb from his list of class skills.
+
+**Combat Flyer (Ex)**: At 2nd level, an airborne ambusher may use his fighter bonus feats to select Flyby Attack and Hover. This replaces bravery.
+
+**Aerobatics (Ex)**: At 5th level, an airborne ambusher may make a Fly check instead of an Acrobatics check to move through a threatened area or an enemy’s space. This replaces weapon training 1.
+
+**Flying Dodger (Ex)**: At 9th level, when an airborne ambusher flies at least half its fly speed on its turn, it gains a +1 dodge bonus to AC for 1 round. This bonus increases to +2 at 11th level and +4 at 17th level. This ability replaces weapon training 2.
+
+**Plummeting Charge (Ex)**: At 13th level, if an airborne ambusher flies at least half its fly speed as part of a charge, it gains a +2 racial bonus on the attack roll (in addition to the normal charge bonus) and a +4 bonus on its critical confirmation roll. These bonuses improve to +4 and +6 at 17th level. This replaces weapon training 3 and 4.

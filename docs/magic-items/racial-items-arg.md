@@ -410,3 +410,103 @@ This magical shawl is woven from silken, diaphanous material. Once per day, the 
 Once they are slipped on, these web-toed slippers allow the wearer to breathe water and grant extra maneuverability while within such environments. If the wearer has no swim speed, it gains a 30 foot swim speed. If the wearer has a swim speed, it gains a +10 foot enhancement bonus to its swim speed.
 
 **Construction** Craft Wondrous Item, *ride the waves* (*Ultimate Magic*); **Cost** 28,000 gp
+
+## Grippli Items
+
+### Bubble Vault
+
+**Aura** faint transmutation; **CL** 5th  
+**Slot** none; **Price** 1,500 gp; **Weight** —
+
+This tiny pearl swells to form a 1-foot-diameter soap-like bubble when placed in water. Up to 5 cubic feet of goods can be placed inside the *bubble vault*. On command, the bubble sinks to the bottom of the water, automatically burying itself 1 foot deep in the bottom ground if there is mud or other loose material present. If the command word is spoken three times within 30 feet of the bubble, it rises to the surface of the water, at which time it can be opened and the items within it retrieved. Once opened, the bubble reverts to its pearl form for 24 hours. The bubble is watertight but does not otherwise magically protect or preserve its contents. If forced open, it has hardness 1 and 5 hit points.
+
+**Construction** Craft Wondrous Item, *shrink item*, *unseen servant*; **Cost** 750 gp
+
+## Kitsune Items
+
+### Kitsune Star Gem
+
+**Aura** faint transmutation; **CL** 1st (1st), 3rd (2nd), or 5th (3rd)  
+**Slot** none; **Price** 750 gp (1st), 3,000 gp (2nd), 6,750 gp (3rd);  
+**Weight** —
+
+This magical jewel glows like *faerie fire*, shedding light as a candle. It acts as *pearl of power*, except it only allows a kitsune to recover a spent use of a spell-like ability of the appropriate spell level.
+
+**Construction** Craft Wondrous Item, creator must be a kitsune; **Cost** 365 gp (1st), 1,500 gp (2nd), or 3,375 gp (3rd)
+
+## Merfolk Items
+
+### Seafoam Shawl
+
+**Aura** faint transmutation; **CL** 5th  
+**Slot** shoulders; **Price** 6,000 gp; **Weight** 1 lb.
+
+This shawl of delicate lace grants the benefits of the *fins to feet* spell (see below) once per day.
+
+**Construction** Craft Wondrous Item, *fins to feet*; **Cost** 3,000 gp
+
+## Nagaji Items
+
+### Nagaji Scale Polish
+
+**Aura** moderate evocation; **CL** 7th  
+**Slot** none; **Price** 1,400 gp; **Weight** 1/2 lb.
+
+This small clay urn contains a scintillating paste which works like *imbue with spell ability*, except the spell effect is not limited to cleric spells. Any caster may casts spells into the jar. The creature that applies the paste to its scales (a standard action) gains the ability to cast the imbued spells (assuming it has enough Hit Dice and the requisite ability scores). Only a reptilian creature (such as a dragon or a humanoid with the reptilian subtype) can use the polish to cast spells.
+
+**Construction** Craft Wondrous Item, *imbue with spell ability* or *mnemonic enhancer*; **Cost** 700 gp
+
+## Samsaran Items
+
+### Incense of Many Fates
+
+**Aura** moderate divination; **CL** 11th  
+**Slot** none; **Price** 3,300 gp; **Weight** 1 lb.
+
+When used during meditation, this incense allows a samsaran’s consciousness to pass through past or future lives to learn more about an important person, place, or thing. This functions like *legend lore*, but only works if the subject is at hand. The transcendental state lasts 1 hour, during which she can take no other actions. If she is disrupted during the meditation, the incense’s effect is lost. Creatures other than samsarans can use this incense, but the connections to other lives are weaker and require a deeper meditation that takes 24 hours. Each block of incense lasts for 1 use.
+
+**Construction** Craft Wondrous Item, *legend lore*; **Cost** 1,650 gp
+
+## Strix Items
+
+### Stonemist Cloak
+
+**Aura** faint conjuration (creation) and illusion; **CL** 3rd  
+**Slot** shoulders; **Price** 3,500 gp; **Weight** 1 lb.
+
+In rocky or mountainous areas, when this stone-gray cloak is worn with the hood drawn up around the head, the wearer gains a +5 competence bonus on Stealth checks. Once per day, the wearer can create an area of fog equivalent to *obscuring mist*.
+
+**Construction** Craft Wondrous Item, *invisibility*, *obscuring mist*; **Cost** 1,750 gp
+
+## Vanara Items
+
+### Meridian Belt
+
+**Aura** moderate transmutation; **CL** 9th  
+**Slot** belt; **Price** 1,000 gp; **Weight** 1 lb.
+
+This narrow cloth belt has a silver buckle in the shape of four rings. The belt allows a creature to wear a magic ring on each foot in addition to the ring on each hand, though only two rings function at any given time. As a swift action, the wearer can change which of his rings are active (both hands, both feet, left hand and right foot, and so on). For example, a creature could wear a *ring of protection*, *ring of energy resistance*, *ring of swimming*, and *ring of counterspells*, switching between any two of them as a swift action each round as it desires. The belt does not change the type of action required to activate a ring (for example, activating a *ring of invisibility* is still a standard action), but allows the wearer to easily switch between the constant powers of several worn rings. While the belt is worn, wearing a ring on a foot counts toward the attunement process of certain rings (such as a *ring of sustenance*) even if the belt isn’t used to make that ring active during that attunement period.
+
+**Construction** Craft Wondrous Item, *polymorph*; **Cost** 500 gp
+
+## Vishkanya Items
+
+### Corset of the Vishkanya
+
+**Aura** faint transmutation; **CL** 3rd  
+**Slot** chest; **Price** 3,000 gp; **Weight** 1 lb.
+
+This black corset fits neatly beneath armor. As a free action, the wearer can compress herself to fit through tight spaces as though affected by a *squeeze* spell for up to 10 rounds per day. While using the corset’s magic, she gains a +5 bonus on Escape Artist checks.
+
+**Construction** Craft Wondrous Item, *grease*, *squeeze* (see below); **Cost** 1,500 gp
+
+## Wayang Items
+
+### Bag of Shadow Clouds
+
+**Aura** moderate illusion; **CL** 7th  
+**Slot** none; **Price** 30,240 gp; **Weight** 1 lb.
+
+Anyone peering into this bag of deep gray cloth sees nothing but empty blackness. Within the bag exists an extradimensional space linked to the Plane of Shadow. Three times per day, as a move action, the bearer can reach within the bag and pull out 1d4 semisolid shards of shadow. The bag’s bearer can use each shard of shadow as a thrown weapon targeting a single 5-foot square. When it hits, it acts as a *darkness* spell, but only affecting one 5-foot square. As a move action, the bearer of the bag can move a shadow cloud up to 10 feet in any direction. Whether or not they are thrown, the shards of shadow and shadow clouds last 10 minutes before dissipating.
+
+**Construction** Craft Wondrous Item, *darkness*, *shadow conjuration*; **Cost** 15,120 gp

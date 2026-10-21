@@ -58,6 +58,7 @@
 - **[See Alignment](see-alignment.md)**: Pick an alignment; in your sight, creatures and items with that alignment emit a ghostly radiance.
 - **[Silent Image](silent-image.md)**: Creates minor illusion of your design.
 - **[Sleep](sleep.md)**: Puts 4 HD of creatures into magical slumber.
+- **[Sow Thought](sow-thought.md)**: School enchantment (compulsion) [mind-affecting]; Level bard 1, sorcerer/wizard 1, witch 1 Casting Time 1.
 - **[Summon Monster I](summon-monster-i.md)**: Summons extraplanar creature to fight for you.
 - **[Tamer’s Lash](tamers-lash.md)**: Create a whip made of sound that damages foes and can frighten animals.
 - **[Undetectable Alignment](undetectable-alignment.md)**: Conceals alignment for 24 hours.
@@ -112,6 +113,7 @@
 - **[Rage](rage.md)**: Gives +2 to Str and Con, +1 on Will saves, –2 to AC.
 - **[Returning Weapon](returning-weapon.md)**: Grants a weapon the returning special weapon quality.
 - **[Scare](scare.md)**: Panics creatures of less than 6 HD.
+- **[Shadow Anchor](shadow-anchor.md)**: School illusion (shadow) [shadow]; Level bard 2, sorcerer/wizard 2, witch 2 Casting Time 1 standard action.
 - **[Share Language, Communal](share-language-communal.md)**: As share language, but you may divide the duration among creatures touched.
 - **[Shatter](shatter.md)**: Sonic vibration damages objects or crystalline creatures.
 - **[Silence](silence.md)**: Negates sound in 20-ft. radius.
@@ -154,6 +156,7 @@
 - **[Mirage](mirage.md)**: Create illusory terrain.
 - **[Phantom Driver](phantom-driver.md)**: Conjures a phantom to drive vehicles.
 - **[Phantom Steed](phantom-steed.md)**: Magic horse appears for 1 hour/level.
+- **[Prehensile Pilfer](prehensile-pilfer.md)**: School transmutation; Level alchemist 3, bard 3, magus 3, sorcerer/wizard 3 Casting Time 1 standard action.
 - **[Raging Rubble](raging-rubble.md)**: You animate an area of rubble, gravel, or other small stones, creating a dangerous, rolling area of debris.
 - **[Remove Curse](remove-curse.md)**: Frees object or person from curse.
 - **[Returning Weapon, Communal](returning-weapon-communal.md)**: As returning weapon, but you may divide the duration among weapons touched.

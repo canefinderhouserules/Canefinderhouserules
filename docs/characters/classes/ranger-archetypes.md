@@ -612,3 +612,17 @@ Hunters and guides through the Shadow Plane, dusk stalkers are rangers that thri
 **Shadow Bond (Su)**: At 4th level, a dusk stalker creates a mystical bond with shadows. The shadows around a dusk stalker weave and swirl, confusing his enemies. When a dusk stalker is fighting in dim light or darkness (magical or otherwise), he gains a +4 insight bonus on Acrobatics checks made to move through an enemy’s threatened area or through its space. Furthermore, a number of times per day equal to his Wisdom modifier, the dusk stalker can manipulate shadows in a 5-foot square within 30 feet. That square must be in an area of dim light or darkness (magical or otherwise). Enemies with an Intelligence score within or adjacent to that 5-foot square take a –2 penalty to AC and on Reflex saving throws. The harassing shadows last for 1 round. This is a mind-affecting fear effect. This ability replaces hunter’s bond.
 
 **Dark Sight (Su)**: At 12th level, a dusk stalker gains the see in darkness ability. This ability replaces camouflage.
+
+## Wave Warden
+
+The wave warden patrols beneath the sea, preserving the safety and secrets of merfolk communities. Though he fares best beneath the water, dry land is no haven to his quarry.
+
+**Deep Sentinel (Ex)**: A wave warden adds half his level (minimum +1) on Perception checks made to notice creatures underwater. This ability replaces track.
+
+**Aquatic Prowess Feat (Ex)**: At 2nd level and every four levels thereafter, a wave warden selects a bonus feat that improves his prowess in aquatic environments. He can choose these feats even if he does not meet the prerequisites. Initially, he may choose from the following feats: Dodge, Mobility, Net Adept (*Ultimate Combat*), Net and Trident (*Ultimate Combat*), Net Maneuvering (*Ultimate Combat*), Precise Shot, Rapid Reload, Sea Hunter, and Two-Weapon Fighting. At 6th level, he adds Improved Two-Weapon Fighting, Net Trickery (*Ultimate Combat*), and Spring Attack to the list. At 10th level, he adds Greater Two-Weapon Fighting and Improved Precise Shot to the list. This ability otherwise functions like and replaces the standard ranger’s combat style bonus feats, including the limitations on armor worn.
+
+**Favored Terrain (Ex)**: At 3rd level, a wave warden gains water as a favored terrain. At 8th level and every five levels thereafter, his bonus in aquatic terrain increases by +2. He does not gain additional favored terrains. This otherwise functions like the standard ranger’s favored terrain ability and replaces that ability.
+
+**Seaborn (Ex)**: At 7th level, a wave warden may move through any sort of aquatic growth (such as coral or seaweed) or across a wet surface at his normal speed and without taking damage or suffering any other impairment. Obstacles that are enchanted or magically manipulated to impede motion still affect him. This ability replaces woodland stride.
+
+**Watery Summons (Sp)**: At 8th level, a wave warden can summon allies once per day as a full-round action. This functions as *summon nature’s ally III*, except it can only be used to summon creatures with the aquatic or water subtypes. At 11th level, this ability improves to *summon nature’s ally IV*, with this progression continuing every three levels thereafter. The warden’s caster level is equal to his ranger level. This ability replaces swift tracker.

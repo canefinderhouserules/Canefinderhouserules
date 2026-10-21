@@ -295,3 +295,25 @@ The scarred witch doctor draws power from her ability to endure pain and sufferi
 **Major Hexes**: The following major hexes complement the scarred witch doctor archetype: agony, nightmare (*Advanced Player’s Guide*); cook people, infected wounds (*Ultimate Magic*).
 
 **Grand Hexes**: The following grand hexes complement the scarred witch doctor archetype: death curse, natural disaster (*Advanced Player’s Guide*); dire prophecy (*Ultimate Magic*).
+
+## Dreamweaver
+
+A changeling dreamweaver draws upon her hag heritage to ply the dream realms in order to touch mortal minds and souls, for good or ill. A dreamweaver witch has the following class features.
+
+**Class Skills**: The dreamweaver adds Sense Motive to her list of class skills and removes Healing from her list of class skills.
+
+**Patron**: A dreamweaver’s patron is normally portents or stars.
+
+**Spells**: A dreamweaver replaces some of her patron’s spells with the following: 2nd—*sow thoughts* (see below), 4th—*dust of twilight* (*Pathfinder RPG Advanced Player’s Guide*), 6th—*deep slumber*, 8th—*modify memory*, 10th—*dream*, 12th— *cloak of dreams* (*Advanced Player’s Guide*), 14th—*ethereal jaunt*, 16th—*moment of prescience*, 18th—*astral projection*.
+
+**Dream Spinner (Su)**: At 2nd level, when a dreamweaver casts a mind-affecting spell on a target that is sleeping because of her slumber hex or a spell she cast, she adds +1 to the mind-affecting spell’s DC. If the target succeeds at the saving throw against the spell, it does not wake up, nor does it have any recollection of having resisted a spell. If appropriate, the dreamweaver may incorporate elements of a mind-affecting spell (i.e., *sow thought*, *suggestion*, and so on) into the target’s subconscious so it believes the spell’s effects originated in its dreams (the details of how these elements fit into the dream is up to the GM). This ability replaces the witch’s hex gained at 2nd level.
+
+**Dream Thief (Su)**: At 6th level, a dreamweaver can alter the sleeping mind of any creature that is sleeping because of her slumber hex or a spell she cast. She can reshape one of the target’s memories as if using *modify memory*. Alternatively, she may insert herself into the dreaming memories of the target, prompting the target’s mind to show her some specific information; the dreamer’s subconscious may resist, or try to deceive her with out-of-context memories, similar to the way a corpse can resist when questioned with *speak with dead*. A Will save negates either effect (DC equal to that of the witch’s hex). Whether or not the save is successful, a creature cannot be the target of this hex again for 1 day. This ability replaces the witch’s hex gained at 6th level.
+
+**Dream Possession (Su)**: At 10th level, a dreamweaver can take control of any creature that is sleeping because of her slumber hex or a spell she cast. This effect functions as *magic jar*, using the witch’s familiar acting as the soul receptacle. A Will save negates either effect (DC equal to that of the witch’s hex). Whether or not the save is successful, a creature cannot be the target of this hex again for 1 day. This ability replaces the witch’s hex gained at 10th level.
+
+**Hexes**: The following hexes complement the dreamweaver archetype: charm, slumber (*Advanced Player’s Guide*); beast of ill-omen (*Ultimate Magic*).
+
+**Major Hexes**: The following major hexes complement the dreamweaver archetype: nightmare, vision (*Advanced Player’s Guide*).
+
+**Grand Hexes**: The following major hexes complement the dreamweaver archetype: eternal slumber (*Advanced Player’s Guide*); dire prophecy (*Ultimate Magic*).

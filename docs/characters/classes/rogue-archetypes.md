@@ -443,3 +443,59 @@ This ability replaces all increments of trap sense.
 **Rogue Talents**: The following rogue talents complement the swordmaster archetype: combat trick, stand up, surprise attack, weapon training (*Core Rulebook*); befuddling strike, positioning strike (*Advanced Player’s Guide*).
 
 **Advanced Talents**: The following advanced rogue talents complement the swordmaster archetype: crippling strike, defensive roll (*Core Rulebook*); hunter’s surprise, redirect attack (*Advanced Player’s Guide*); confounding blade (*Ultimate Combat*).
+
+## Eldritch Raider
+
+An eldritch raider is a rogue who seeks to unravel the mysteries of the destruction of the gillmen’s homeland. They explore old ruins that date back to the days of the old human empire and track down relics and lore from its glory days. An eldritch raider has the following class features.
+
+**Class Skills**: An eldritch raider adds Knowledge (arcana), Knowledge (history), and Spellcraft to her list of class skills and removes Disguise, Perform, and Sleight of Hand from her list of class skills.
+
+**Skill Ranks per Level**: 6 + Int modifier.
+
+**Detect Magic (Sp)**: At 2nd level, an eldritch raider gains the ability to use *detect magic* at will. The eldritch raider treats her rogue level as her caster level for this ability. This ability counts as the minor magic rogue talent for purposes of qualifying for other rogue talents. This ability replaces the rogue talent rogues gained at 2nd level.
+
+**Eldritch Intuition (Ex)**: At 3rd level, an eldritch raider gains an intuitive sense that allows her to more easily activate sorcerer and wizard spell completion and spell trigger items. She gains a +1 bonus on Use Magic Device checks for this purpose. This bonus increases to +2 at 6th level, +3 at 9th level, +4 at 12th level, +5 at 15th level, and +6 at 18th level. This ability replaces the trap sense class feature.
+
+**New Talents**: An eldritch raider has access to the following new advanced talents when selecting rogue advanced talents.
+
+*Major Eldritch Magic (Sp)*: The eldritch raider gains the ability to cast a 3rd-level spell from the sorcerer/wizard spell list two times per day as a spell-like ability. The caster level for this ability is equal to her rogue level. The save DC for this spell is 13 + her Intelligence modifier. The eldritch raider must have an Intelligence of at least 13 to select this talent. The eldritch raider must have the major magic, minor eldritch magic, and minor magic rogue talents before choosing this talent.
+
+*Minor Eldritch Magic (Sp)*: The eldritch raider gains the ability to cast a 2nd-level spell from the sorcerer/wizard spell list two times per day as a spell-like ability. The caster level for this ability is equal to her rogue level. The save DC for this spell is 12 + her Intelligence modifier. The eldritch raider must have an Intelligence of at least 12 to select this talent. The eldritch raider must have the major magic and minor magic rogue talents before choosing this talent.
+
+**Rogue Talents**: The following rogue talents complement the eldritch raider archetype: major magic, minor magic, quick disable, trap spotter (*Core Rulebook*); fast picks (*Advanced Player’s Guide*); black market connections, esoteric scholar, ninja trick (slow metabolism, wall climber) (*Ultimate Combat*).
+
+**Table 3–2: Gillman Weapon**
+
+| Martial Weapons | Cost | Dmg (S) | Dmg (M) | Critical | Range | Weight | Type | Special |
+|---|---|---|---|---|---|---|---|---|
+| Sea-knife | 8 gp | 1d3 | 1d4 | 19–20/×2 | — | 1 lb. | S | — |
+
+**Advanced Talents**: The following advanced rogue talents complement the eldritch raider archetype: dispelling attack, improved evasion, slippery mind (*Core Rulebook*); major eldritch magic, minor eldritch magic (*Advanced Race Guide*); thoughtful reexamination (*Advanced Player’s Guide*); familiar, hard to fool (*Ultimate Combat*).
+
+## Kitsune Trickster
+
+The kitsune trickster combines her sharpened wit with minor arcane powers of charm and persuasion. She uses her talents to spin convincing lies, riddles, and stories. A trickster has the following class features.
+
+**Kitsune’s Guile (Ex)**: At 1st level, a trickster relies on her intellect as much as her personality. She adds her Intelligence modifier on Bluff, Diplomacy, Disguise, and Sense Motive checks. This ability replaces trapfinding.
+
+**Kitsune’s Charm (Sp)**: At 3rd level, a kitsune trickster can use *charm person* once per day as a spell-like ability (caster level equal to her rogue level – 2). At 6th level, and every three levels thereafter, the kitsune trickster gains an additional daily use of this ability. This ability replaces trap sense.
+
+**Rogue Talents**: The following rogue talents complement the kitsune trickster archetype: major magic, minor magic (*Core Rulebook*); false friend, obfuscate story, steal the story (see below); charmer, coax information, honeyed words (*Advanced Player’s Guide*); convincing lie (*Ultimate Combat*).
+
+**Advanced Talents**: The following advanced rogue talents complement the kitsune trickster archetype: skill mastery, slippery mind (*Core Rulebook*); master of disguise (*Advanced Player’s Guide*); rumormonger (*Ultimate Combat*).
+
+## Deadly Courtesan
+
+Skilled at manipulation and diversion, the deadly courtesan builds up those around her and periodically takes them down. She can be a spy, entertainer, assassin, bodyguard, or just an intimate to someone who needs it most. A deadly courtesan has the following class features.
+
+**Class Skills**: At 1st level, a deadly courtesan adds Knowledge (history) and Knowledge (nobility) to her list of class skills and removes Knowledge (dungeoneering) from her list of class skills.
+
+**Bardic Performance (Su)**: At 2nd level, a deadly courtesan gains the bardic performance ability and the fascinate bardic performance. Her fascinate DC is 10 + 1/2 her rogue level + her Charisma modifier. She can use this bardic performance for a number of rounds per day equal to 1 + her Charisma modifier. At each level after 2nd, she can use bardic performance for 1 additional round per day. If the courtesan also has bard levels, she may use these rounds for either class’s fascinate bardic performance, and her bard and rogue levels stack for determining her fascinate DC. This ability replaces the rogue trick gained at 2nd level.
+
+**Inspire Competence (Su)**: At 3rd level, a deadly courtesan can use her bardic performance to inspire competence. The bonus begins at +2 and increases by +1 for every six levels the courtesan has attained beyond 3rd (+3 at 9th and +4 at 15th). This ability replaces all levels of trap sense.
+
+**Performance Strike (Sp)**: At 8th level, as a swift action, a deadly courtesan may expend rounds of bardic performance to gain a morale bonus on one attack roll. The amount of the bonus is equal to the number of bardic performance rounds expended (maximum bonus equal to 1/2 her deadly courtesan level). This ability replaces improved uncanny dodge.
+
+**Rogue Talents**: The following rogue talents complement the deadly courtesan archetype: finesse rogue, stand up (*Core Rulebook*); charmer, coax information, fast fingers, honeyed words (*Advanced Player’s Guide*); convincing lie, deft palm (*Ultimate Combat*).
+
+**Advanced Talents**: The following advanced rogue talents complement the deadly courtesan archetype: slippery mind (*Core Rulebook*); master of disguise (*Advanced Player’s Guide*); rumormonger, unwitting ally (*Ultimate Combat*).

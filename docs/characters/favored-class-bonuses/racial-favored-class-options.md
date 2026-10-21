@@ -734,3 +734,139 @@ In most cases these benefits are gained on a level-by-level basis, and unless ot
 **Summoner**: If the summoner’s eidolon has an aquatic base form, add +5 feet to the range of the summoner’s life link ability.
 
 **Wizard**: Add one spell from the cleric, druid, or wizard spell list with the water descriptor to the wizard’s spellbook. This spell must be at least one level below the highest spell level he can cast. This spell is treated as one level higher unless it also appears on the wizard spell list.
+
+### Changelings (Advanced Race Guide)
+
+**Oracle**: Add +1/2 to the oracle’s level for the purpose of determining the effects of the oracle’s curse ability.
+
+**Rogue**: The rogue gains 1/6 of a new rogue talent.
+
+**Witch**: Add one spell from the witch spell list to the witch’s familiar. This spell must be at least one level below the highest spell level she can cast. If the witch ever replaces her familiar, the new familiar knows these bonus spells.
+
+### Duergar (Advanced Race Guide)
+
+**Cleric**: Add a +1/2 bonus on checks made to craft magic items.
+
+**Fighter**: Add +1 to the fighter’s CMD when resisting a bull rush or trip attempt.
+
+**Inquisitor**: Add +1/6 to the number of times per day the inquisitor can use the judgment class feature.
+
+### Gillmen (Advanced Race Guide)
+
+**Fighter**: Add +1 to the fighter’s CMD when resisting two combat maneuvers of the character’s choice.
+
+**Rogue**: The rogue gains 1/6 of a new rogue talent.
+
+**Sorcerer**: Add one spell known from the sorcerer spell list. This spell must be at least one level below the highest spell level the sorcerer can cast.
+
+**Wizard**: Add one spell from the wizard spell list to the wizard’s spellbook. This spell must be at least one level below the highest spell level he can cast.
+
+### Gripplis (Advanced Race Guide)
+
+**Alchemist**: Add +1/4 to the number of toxic skin uses per day.
+
+**Druid**: Add a +1/2 bonus on concentration checks. This bonus doubles in a forest or swamp terrain.
+
+**Gunslinger**: Add a +1/4 bonus on attack rolls when making a utility shot or a dead shot.
+
+**Rogue**: Add a +1/2 bonus on Perception checks while in a forest or swamp.
+
+**Ranger**: Add a +1 racial bonus on Swim skill checks. When this bonus reaches +8, the ranger gains a swim speed of 15 feet (this does not grant the ranger another +8 racial bonus on Swim checks).
+
+### Kitsune (Advanced Race Guide)
+
+**Bard**: Add a +1/2 bonus on Bluff checks to lie and a +1/2 bonus on Diplomacy checks to gather information.
+
+**Druid**: Add a +1/2 bonus on Diplomacy and Intimidate checks to change a creature’s attitude.
+
+**Oracle**: Reduce the penalty for not being proficient for one weapon by 1. When the nonproficiency penalty for a weapon becomes 0 because of this ability, the oracle is treated as having the appropriate Martial or Exotic Weapon Proficiency feat for that weapon.
+
+**Rogue**: The rogue gains 1/6 of a new rogue talent.
+
+**Sorcerer**: Add +1/4 to the DC of enchantment spells.
+
+### Merfolk (Advanced Race Guide)
+
+**Druid**: Add +1 hit point to the druid’s animal companion. If the merfolk ever replaces her animal companion, the new animal companion gains these bonus hit points.
+
+**Ranger**: Add +1 hit point to the ranger’s animal companion. If the ranger ever replaces his animal companion, the new animal companion gains these bonus hit points.
+
+**Sorcerer**: Add +1/2 to the sorcerer’s caster level when determining the range of any spells with the water descriptor.
+
+### Nagaji (Advanced Race Guide)
+
+**Alchemist**: Add +1 on Craft (alchemy) checks to craft poison and +1/3 on the DCs of poisons the alchemist creates.
+
+**Fighter**: Add +1 to the fighter’s CMD when resisting a grapple or trip attempt.
+
+**Monk**: Add +1/4 point to the monk’s *ki* pool.
+
+**Summoner**: Add +1 hit point to the summoner’s eidolon.
+
+### Samsarans (Advanced Race Guide)
+
+**Monk**: Add a +1/2 bonus on the monk’s saving throws to resist death attacks.
+
+**Oracle**: Add one spell known from the oracle spell list. This spell must be at least one level below the highest spell level the oracle can cast.
+
+**Rogue**: The rogue gains 1/6 of a new rogue talent.
+
+**Wizard**: Add one spell from the wizard spell list to the wizard’s spellbook. This spell must be at least one level below the highest spell level the wizard can cast.
+
+### Strix (Advanced Race Guide)
+
+**Barbarian**: Add +1 to the barbarian’s total number of rage rounds per day.
+
+**Fighter**: Add +1/4 to the attack roll bonus from the strix’s hatred racial trait.
+
+**Monk**: Add +1/4 point to the monk’s *ki* pool.
+
+**Ranger**: Add +1/2 round to the duration of the bonus granted to the companions of the ranger using his hunter’s bond ability.
+
+### Sulis (Advanced Race Guide)
+
+**Magus**: Add +1/4 point to the magus’s arcane pool.
+
+**Monk**: Add +1/2 point of damage to elemental assault.
+
+**Ranger**: Add +1 to acid resistance, cold resistance, electricity resistance, or fire resistance.
+
+### Svirfneblin (Advanced Race Guide)
+
+**Alchemist**: Add one extract formula from the alchemist’s list to the alchemist’s formula book. This formula must be at least one level below the highest formula level the alchemist can create.
+
+**Oracle**: Add one spell known from the oracle spell list. This spell must be at least one level below the highest spell level the oracle can cast.
+
+**Ranger**: Add DR 1/magic to the ranger’s animal companion. Each additional time the ranger selects this benefit, the DR/magic increases +1/2 (maximum DR 10/ magic). If the ranger ever replaces his animal companion, the new companion gains this DR.
+
+### Vanaras (Advanced Race Guide)
+
+**Alchemist**: Add +1/2 to the alchemist’s bomb damage.
+
+**Druid**: Add a +1/2 bonus on wild empathy checks and a +1/2 bonus on Handle Animal skill checks.
+
+**Fighter**: Add +1 to the fighter’s CMD when resisting a reposition or trip attempt.
+
+**Monk**: Add a +1 bonus on Acrobatics checks made to jump.
+
+**Ranger**: Add +1/4 dodge bonus to Armor Class against the ranger’s favored enemies.
+
+**Rogue**: The rogue gains 1/6 of a new rogue talent.
+
+### Vishkanyas (Advanced Race Guide)
+
+**Bard**: Add +1 to the bard’s total number of bardic performance rounds per day.
+
+**Rogue**: Add +1 to the rogue’s CMD when resisting a grapple or reposition attempt.
+
+**Sorcerer**: Select one bloodline power at 1st level that is normally usable a number of times per day equal to 3 + the sorcerer’s Charisma modifier. The sorcerer adds +1/2 to the number of uses per day of that bloodline power.
+
+### Wayangs (Advanced Race Guide)
+
+**Bard**: Add one spell known from the wizard’s illusion school spell list. This spell must be at least one level below the highest spell level the bard can cast. The spell is treated as being one level higher, unless it is also on the bard spell list.
+
+**Oracle**: Add one spell known from the wizard’s illusion school spell list. This spell must be at least one level below the highest spell level the oracle can cast. That spell is treated as one level higher unless it is also on the oracle spell list.
+
+**Sorcerer**: Add +1/2 point of damage to any illusion spells of the shadow subschool cast by the sorcerer.
+
+**Summoner**: Add +1 skill rank to the summoner’s eidolon.

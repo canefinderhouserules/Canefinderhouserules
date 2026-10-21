@@ -450,3 +450,41 @@ All limitations to mutagens apply to plague vials as if they were the same subst
 **Disease Resistance (Ex)**: At 2nd level, a plague bringer gains a +2 bonus on all saving throws against disease. This bonus increases to +4 at 5th level, and to +6 at 8th level. At 10th level, a plague bringer becomes completely immune to disease (including magical diseases). This ability replaces all increments of poison resistance and poison immunity.
 
 **Discoveries**: The following discoveries complement the plague bringer archetype: explosive bomb, precise bombs, smoke bomb (*Advanced Player’s Guide*); breath weapon bomb, fast bomb, nauseating bomb (*Ultimate Combat*); plague bomb (*Ultimate Magic*).
+
+## Bogborn Alchemist
+
+Some grippli alchemists are particularly attuned to the swamps and the dangerous creatures that inhabit them; these serve as their laboratories and research subjects, respectively. These bogborn alchemists have the following class features.
+
+**Class Skills**: A bogborn alchemist adds Swim to his list of class skills.
+
+**Amphibious Mutagen (Ex)**: At 1st level, when a bogborn alchemist uses a mutagen, he may choose to have his mutagen form enhanced for aquatic movement. This gives him the amphibious special quality, his feet elongate, and the webbing between his fingers and toes expands, granting a swim speed of 15 feet. This replaces throw anything.
+
+**Discovery Options**: A bogborn alchemist can select the toxic skin grippli racial trait in place of an alchemical discovery.
+
+**Discoveries**: The following discoveries complement the bogborn alchemist archetype: chameleon (*Advanced Race Guide*); concentrate poison, sticky poison (*Advanced Player’s Guide*); nauseating flesh, poison conversion (*Ultimate Combat*); bottled ooze, tanglefoot bomb, tentacle (*Ultimate Magic*).
+
+## Deep Bomber
+
+Consumed with keeping hidden from the horrors below the surface, svirfneblin use their racial proclivity for alchemy and their inherent talent for obfuscation to strike their enemies from the darkness and retreat unseen. A deep bomber has the following class features.
+
+**Silent Bomb**: At 2nd level, when the deep bomber creates a bomb, he can choose to have it explode without making any noise, although those damaged by it may cry out. This ability replaces poison use.
+
+**Targeting Bomb***: At 3rd level, when the deep bomber creates a bomb, he can choose to have its detonation include a *faerie fire* effect that applies to all creatures within the splash radius (including the target, if any). This ability replaces swift alchemy (the deep bomber gains swift alchemy at 18th level and never gains instant alchemy).
+
+**Stonekin**: At 6th level, the deep bomber automatically learns *tree shape* as a 2nd-level extract, except instead of a tree, he takes the form of a stalagmite that is the same size as his current size. At 7th level, he automatically learns *meld into stone* as a 3rd-level extract. This ability replaces swift poisoning.
+
+**Discoveries**: The following discoveries complement the deep bomber archetype: delayed bomb, dispelling bomb, fast bombs, infusion, madness bomb, poison bomb.
+
+## Advanced Race Guide Discoveries
+
+The following discoveries can be taken by any alchemist who meets the prerequisites, but are more common among gripplis and svirfneblin. Discoveries marked with an asterisk (\*) modify a bomb; only one such discovery can be applied to any single bomb.
+
+**Chameleon (Su)**: An alchemist with this discovery can shift the colors of his skin and equipment to blend in with the surrounding terrain. He gains a +4 enhancement bonus on Stealth checks. At 10th level, the bonus on Stealth checks increases to +8.
+
+**Darkness Bomb\***: When the alchemist creates a bomb, he can choose to have it suppress light sources on the target. This extinguishes nonmagical light sources carried by the target and dispels magical light sources for 1 round/level as *deeper darkness*.
+
+**Deadly Excretions (Ex)**: When using his toxic skin ability, the alchemist can choose to excrete a Constitution poison instead of a Dexterity poison. This poison works the same as the normal grippli toxic skin poison except that a failed save deals 1 point of Constitution damage. The alchemist must be at least 8th level and must have the toxic skin racial trait before selecting this discovery.
+
+**Glassfoot Bomb\***: When the alchemist creates a bomb, he can choose to have it cover the ground in volatile jagged crystals in addition to its normal effects. These crystals act like caltrops, evaporating into a smelly but harmless gas in 2d6 rounds.
+
+**Underwater Demolition (Ex)**: The alchemist gains the ability to throw bombs underwater (normally, thrown weapons cannot be used underwater), including throwing from the air into the water. If the bomb travels through water, the range increment is reduced to 5 feet.

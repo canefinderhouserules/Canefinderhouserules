@@ -40,3 +40,22 @@ Sixteen further races, each with alternate racial traits, favored class options,
 - [Tengus](tengus.md)
 - [Tieflings](tieflings.md)
 - [Undines](undines.md)
+
+## Advanced Race Guide Uncommon Races
+
+Fourteen uncommon races, each with alternate racial traits, favored class options, archetypes, feats and more:
+
+- [Changelings](changelings.md)
+- [Duergar](duergar.md)
+- [Gillmen](gillmen.md)
+- [Gripplis](gripplis.md)
+- [Kitsune](kitsune.md)
+- [Merfolk](merfolk.md)
+- [Nagaji](nagaji.md)
+- [Samsarans](samsarans.md)
+- [Strix](strix.md)
+- [Sulis](sulis.md)
+- [Svirfneblin](svirfneblin.md)
+- [Vanaras](vanaras.md)
+- [Vishkanyas](vishkanyas.md)
+- [Wayangs](wayangs.md)

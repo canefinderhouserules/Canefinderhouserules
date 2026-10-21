@@ -583,3 +583,35 @@ By following the path of the stone, students of stone give up much of monks’ m
 **Soul of Stone (Su)**: At 12th level, as a swift action, a student of stone can spend 1 *ki* point to gain tremorsense 15 feet until his next turn. At 16th level, the range of this tremorsense increases to 30 feet. This ability replaces abundant step.
 
 **Stone Self**: At 20th level, a student of stone becomes an earth outsider. He gains the earth subtype, as well as DR 5/chaotic, burrow speed 20 feet, and tremorsense 20 feet.
+
+## Gray Disciple
+
+The gray disciple contemplates the inner voice of duergar magic and the silent eternity of stone, mastering these dual mysteries and combining them to deadly effect.
+
+**Fade from Sight (Sp)**: At 4th level, as a swift action, the gray disciple can become invisible (as the *invisibility* spell) for 1 round by spending 1 *ki* point. To use this ability, the gray disciple must already have *invisibility* as a spell-like ability. This ability replaces slow fall and still mind.
+
+**Gray Heart (Sp)**: At 6th level, as a swift action, the gray disciple can enlarge himself (as the *enlarge person* spell) for 1 minute by spending 1 *ki* point. To use this ability, the gray disciple must already have *enlarge person* available as a spell-like ability. This ability replaces high jump and the bonus feat gained at 6th level.
+
+**Born in Darkness (Sp)**: At 7th level, as a standard action, the gray disciple can radiate *darkness* (as the spell, except originating from the disciple’s person) for 1 round per level by spending 1 *ki* point. This ability replaces wholeness of body.
+
+**Earth Glide (Su)**: At 12th level, as a swift action, the gray disciple can spend a *ki* point to walk through solid stone for 1 round. This functions as the earth glide universal monster ability. The gray disciple may continue earth gliding as long as he spends 1 *ki* point every round as a swift action. If he ceases earth gliding within a solid object, he is violently ejected and takes 5d6 points of damage. The gray disciple is not harmed by damage caused to material he is earth gliding through, but a *stone to flesh* spell cast upon it causes violent ejection as described above. This ability replaces abundant step.
+
+**Entomb (Su)**: At 15th level, a gray disciple can phase a foe into solid rock, killing it instantly. To use this ability, he expends 1 ki point as part of a bull rush or reposition combat maneuver against a creature adjacent to unworked earth or stone. If the attempt succeeds, the gray disciple pushes his foe inside the rock using his earth glide ability. If the creature succeeds at a Reflex save (DC 10 + 1/2 the gray disciple’s monk level + the gray disciple’s Wisdom modifier), it is ejected in the nearest open space and takes 5d6 points of damage. If it fails, it dies instantly as its body merges with the surrounding stone. Entomb is usable once per day, but a failed bull rush or reposition attempt does not count as a use of the ability. Entomb has no effect on creatures that can earth glide, are incorporeal, or can otherwise can survive merging with a solid object. This ability replaces quivering palm.
+
+**Earthen Thrall (Sp)**: At 17th level, a gray disciple can attempt to control a creature with the earth subtype once per day. This ability is treated as *dominate monster* (DC 10 + 1/2 the gray disciple’s monk level + the gray disciple’s Wisdom modifier), but is only effective against creatures with the earth subtype, and the gray disciple can keep only a single creature enthralled. If he attempts to control a second creature with this ability, the first creature is automatically released from domination whether or not the second attempt succeeds. This ability replaces tongue of the sun and moon and empty body.
+
+**Table 3–1: Duergar Poison**
+
+| Name | Type | Fort DC | Onset | Frequency | Effect | Cure | Cost |
+|---|---|---|---|---|---|---|---|
+| Spellscorch | injury | 14 | — | 1/rd. for 4 rds. | see text | 1 save | 200 gp |
+
+## Treetop Monk
+
+While many vanaras follow traditional monastic training and traditions, others learn to blend exotic combat and the mysterious forces of *ki* with the natural world, allowing them to move through trees and overgrowth to deliver devastating attacks. A treetop monk has the following class features.
+
+**Branch Runner (Ex)**: At 3rd level, a treetop monk adds half the base speed bonus from his fast movement ability to his racial climb speed. This ability replaces still mind.
+
+**Wood Affinity (Su)**: At 5th level, a treetop monk may expend 1 point from his *ki* pool as a free action to treat a wooden object as if it were not broken for 1 minute (this includes a weapon with a wooden haft such as an axe or spear). At 8th level, as a free action, a treetop monk can expend 1 point from his *ki* pool to use the Lunge feat with any wooden or wood-hafted melee weapon. This ability replaces purity of body.
+
+***Freedom of Movement* (Su)**: At 12th level, a treetop may expend 1 point from his *ki* pool as a swift action to gain the effects of *freedom of movement* for 1 round. This ability replaces abundant step.

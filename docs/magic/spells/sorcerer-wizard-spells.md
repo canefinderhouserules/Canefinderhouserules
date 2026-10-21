@@ -91,7 +91,9 @@
 - **[Obscuring Mist](obscuring-mist.md)**: Fog surrounds you.
 - **[Shock Shield](shock-shield.md)**: A shield of force protects you until you dismiss it in an explosion of electricity.
 - **[Snowball](snowball.md)**: Throw a conjured ball of snow at a target.
+- **[Sow Thought](sow-thought.md)**: School enchantment (compulsion) [mind-affecting]; Level bard 1, sorcerer/wizard 1, witch 1 Casting Time 1.
 - **[Stone Shield](stone-shield.md)**: A 1-inch-thick slab of stone springs up from the ground, interposing itself between you and an opponent of.
+- **[Strong Wings](strong-wings.md)**: School transmutation; Level druid 1, ranger 1, sorcerer/wizard 1, witch 1 Casting Time 1 standard action.
 - **[Summon Monster I](summon-monster-i.md)**: Summons extraplanar creature to fight for you.
 - **[Theft Ward](theft-ward.md)**: You ward a single object in your possession against theft.
 - **[Touch of Combustion](touch-of-combustion.md)**: Your successful melee touch attack causes the target to ignite in a violent burst of flame, dealing 1d6.
@@ -154,6 +156,7 @@
 
 **Abjuration**
 
+- **[Aboleth’s Lung](aboleth-s-lung.md)**: The targets are able to breathe water, freely.
 - **[Adoration](adoration.md)**: You gain a bonus on Diplomacy checks and performance combat checks.
 - **[Animal Aspect](animal-aspect.md)**: You gain some of the beneficial qualities of an animal.
 - **[Anticipate Thoughts](anticipate-thoughts.md)**: Gain increasing bonuses to AC and on attack rolls and damage rolls against one creature.
@@ -175,6 +178,7 @@
 - **[Grasping Vine](grasping-vine.md)**: A vine from your body manipulates objects within 20 ft.
 - **[Greensight](greensight.md)**: Grant a target the ability to see through plant matter as if it were transparent.
 - **[Gusting Sphere](gusting-sphere.md)**: School evocation [air]; Level druid 2, magus 2, sorcerer/wizard 2 Casting Time 1 standard action Components V.
+- **[Imbue with Elemental Might](imbue-with-elemental-might.md)**: School evocation [see text]; Level cleric 2, magus 2, sorcerer/wizard 2 Components V, S Duration 24 hours or.
 - **[Kinetic Reverberation](kinetic-reverberation.md)**: Channels the force of an enemy’s attack back into its weapon.
 - **[Magic Siege Engine](magic-siege-engine.md)**: Siege engine gains +1 on targeting and damage rolls.
 - **[Merge with Familiar](merge-with-familiar.md)**: Merge the body of your familiar or spirit animal into your own.
@@ -203,7 +207,9 @@
 - **[Returning Weapon](returning-weapon.md)**: Grants a weapon the returning special weapon quality.
 - **[Ricochet Shot](ricochet-shot.md)**: Imbues a projectile weapon to give its ammunition the ability to ricochet.
 - **[Sentry Skull](sentry-skull.md)**: You restore the senses to the severed head of a humanoid or monstrous humanoid killed within the past 24.
+- **[Shadow Anchor](shadow-anchor.md)**: School illusion (shadow) [shadow]; Level bard 2, sorcerer/wizard 2, witch 2 Casting Time 1 standard action.
 - **[Spontaneous Immolation](spontaneous-immolation.md)**: Target takes 3d6 points of fire damage and catches on fire.
+- **[Squeeze](squeeze.md)**: School transmutation (polymorph); Level alchemist 2, sorcerer/wizard 2, witch 2 Casting Time 1 standard.
 - **[Stabilize Powder](stabilize-powder.md)**: Ammunition in the targeted firearm is less likely to misfire.
 - **[Steal Breath](steal-breath.md)**: You pull the breath from a creature’s lungs, dealing damage and leaving it unable to speak, use breath.
 - **[Summon Monster II](summon-monster-ii.md)**: Summons extraplanar creature to fight for you.
@@ -297,6 +303,7 @@
 - **[Earth Tremor](earth-tremor.md)**: Unleash a tremor that creates difficult terrain and can knock foes down and damage them.
 - **[Ectoplasmic Snare](ectoplasmic-snare.md)**: Tendril of ectoplasm grapples a creature and tethers you to it.
 - **[Explosive Runes](explosive-runes.md)**: Deals 6d6 damage when read.
+- **[Fins to Feet](fins-to-feet.md)**: School transmutation (polymorph); Level druid 3, sorcerer/wizard 3, witch 3 Casting Time 1 standard action.
 - **[Fire Trail](fire-trail.md)**: When you cast this spell, flammable liquid oozes from your pores, dripping onto the ground and spontaneously.
 - **[Firestream](firestream.md)**: A rushing stream of fire sprays from your outstretched hand, dealing 2d6 points of fire damage to every.
 - **[Flash Fire](flash-fire.md)**: Ammunition in the targeted firearm creates a tremendous flash capable of blinding the weapon’s bearer and those around him.
@@ -314,6 +321,7 @@
 - **[Oneiric Horror](oneiric-horror.md)**: Distract and fatigue the target with a creature from its nightmares.
 - **[Pellet Blast](pellet-blast.md)**
 - **[Phantom Driver](phantom-driver.md)**: Conjures a phantom to drive vehicles.
+- **[Prehensile Pilfer](prehensile-pilfer.md)**: School transmutation; Level alchemist 3, bard 3, magus 3, sorcerer/wizard 3 Casting Time 1 standard action.
 - **[Protection from Arrows, Communal](protection-from-arrows-communal.md)**: As protection from arrows, but you may divide the duration among creatures touched.
 - **[Protection from Energy](protection-from-energy.md)**: Absorbs 12 points/level of damage from one kind of energy.
 
@@ -394,6 +402,7 @@
 - **[Animal Aspect, Greater](animal-aspect-greater.md)**: As animal aspect, but you gain two animal qualities.
 - **[Cloud Shape](cloud-shape.md)**: This spell functions like gaseous form, except you assume the shape of a Colossal cloud with a space of 30.
 - **[Dimensional Anchor](dimensional-anchor.md)**: Bars extradimensional movement.
+- **[Earth Glide](earth-glide.md)**: School transmutation [earth]; Level alchemist 4, druid 4, sorcerer/wizard 4 Casting Time 1 standard action.
 - **[Fey Form I](fey-form-i.md)**: Assume the form of a Small or Medium fey creature.
 - **[Fire Trap](fire-trap.md)**: Opened object deals 1d4 damage + 1/level.
 - **[Globe of Invulnerability, Lesser](globe-of-invulnerability-lesser.md)**: Stops 1st- through 3rd- level spell effects.

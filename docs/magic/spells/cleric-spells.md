@@ -39,6 +39,7 @@
 - **[Hidden Spring](hidden-spring.md)**: Discover a temporary spring of fresh, flowing water.
 - **[Hide from Undead](hide-from-undead.md)**: Undead can’t perceive one subject/level.
 - **[Inflict Light Wounds](inflict-light-wounds.md)**: Touch deals 1d8 damage +1/level (max +5).
+- **[Karmic Blessing](karmic-blessing.md)**: School divination [good]; Level cleric 1, witch 1 Casting Time 1 standard action Components V, S Range touch.
 - **[Liberating Command](liberating-command.md)**: Target makes an Escape Artist check as an immediate action and gains a bonus on it.
 - **[Magic Stone](magic-stone.md)**: Three stones gain +1 on attack, deal 1d6 +1 damage.
 - **[Magic Weapon](magic-weapon.md)**: Weapon gains +1 bonus.
@@ -59,6 +60,7 @@
 
 ## 2nd-Level Cleric Spells
 
+- **[Aboleth’s Lung](aboleth-s-lung.md)**: The targets are able to breathe water, freely.
 - **[Aid](aid.md)**: +1 on attack rolls and saves against fear, 1d8 temporary hp +1/level (max +10).
 - **[Alchemical Tinkering](alchemical-tinkering.md)**: You transform one alchemical item or firearm into another alchemical item or firearm of the same or lesser.
 - **[Align Weapon](align-weapon.md)**: Weapon becomes good, evil, lawful, or chaotic.
@@ -89,6 +91,7 @@
 - **[Gentle Repose](gentle-repose.md)**: Preserves one corpse.
 - **[Ghost Whip](ghost-whip.md)**: Create a ghost touch whip that passes through objects.
 - **[Hold Person](hold-person.md)**: Paralyzes one humanoid for 1 round/level.
+- **[Imbue with Elemental Might](imbue-with-elemental-might.md)**: School evocation [see text]; Level cleric 2, magus 2, sorcerer/wizard 2 Components V, S Duration 24 hours or.
 - **[Inflict Moderate Wounds](inflict-moderate-wounds.md)**: Touch attack, 2d8 damage + 1/level (max +10).
 - **[Instrument of Agony](instrument-of-agony.md)**: Weapon exudes divine fury, granting a bonus on Intimidate checks.
 - **[Life Channel](life-channel.md)**: Component V, S Range touch Target one touched creature with negative energy affinity Duration 1 minute/level.

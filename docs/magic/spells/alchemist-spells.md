@@ -39,6 +39,7 @@ New alchemist spells from *Ultimate Magic* and *Ultimate Combat*. Spells from ot
 - **[Shadow Bomb Admixture](shadow-bomb-admixture.md)**: Empowers bombs you throw to cover the target with a shadowy substance that grants it concealment and limits its vision.
 - **[Sickening Strikes](sickening-strikes.md)**: You are imbued with disease, and any creature you strike with a melee attack must make a Fortitude save or be.
 - **[Skinsend](skinsend.md)**: Animate and possess your own skin as if it were a separate creature.
+- **[Squeeze](squeeze.md)**: School transmutation (polymorph); Level alchemist 2, sorcerer/wizard 2, witch 2 Casting Time 1 standard.
 - **[Touch Injection](touch-injection.md)**: You can deliver an infusion, elixir, poison, or potion as a touch attack.
 - **[Vine Strike](vine-strike.md)**: Enhance one of your natural or unarmed attacks with thorny vine growth.
 
@@ -61,6 +62,7 @@ New alchemist spells from *Ultimate Magic* and *Ultimate Combat*. Spells from ot
 - **[Lightning Lash Bomb Admixture](lightning-lash-bomb-admixture.md)**: Empowers bombs you throw with a ward that deals lightning damage each time those damaged by the bomb move more than 5 feet.
 - **[Marionette Possession](marionette-possession.md)**: As magic jar, but limited to line of sight.
 - **[Monstrous Physique I](monstrous-physique-i.md)**: Take the form and some of the powers of a Small or Medium monstrous humanoid.
+- **[Prehensile Pilfer](prehensile-pilfer.md)**: School transmutation; Level alchemist 3, bard 3, magus 3, sorcerer/wizard 3 Casting Time 1 standard action.
 - **[Protection from Arrows, Communal](protection-from-arrows-communal.md)**: As protection from arrows, but you may divide the duration among creatures touched.
 - **[Resinous Skin](resinous-skin.md)**: You gain DR 5/piercing and +4 to CMD against disarm attempts.
 - **[Resist Energy, Communal](resist-energy-communal.md)**: As resist energy, but you may divide the duration among creatures touched.
@@ -74,6 +76,7 @@ New alchemist spells from *Ultimate Magic* and *Ultimate Combat*. Spells from ot
 - **[Absorbing Inhalation](absorbing-inhalation.md)**: You grant your lungs inhuman strength and capacity, allowing you to harmlessly and completely inhale one gas.
 - **[Age Resistance](age-resistance.md)**: Ignore penalties from old age.
 - **[Darkvision, Greater](darkvision-greater.md)**: See 120 ft. in total darkness.
+- **[Earth Glide](earth-glide.md)**: School transmutation [earth]; Level alchemist 4, druid 4, sorcerer/wizard 4 Casting Time 1 standard action.
 - **[Echolocation](echolocation.md)**: Sonic sense gives you blindsight 40 ft.
 - **[False Life, Greater](false-life-greater.md)**: Gain 2d10 temporary hp + 1/level.
 - **[Healing Warmth](healing-warmth.md)**: This spell grants you temporary immunity to fire damage as protection from energy.

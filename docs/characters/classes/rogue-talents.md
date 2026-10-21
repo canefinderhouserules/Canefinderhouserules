@@ -89,7 +89,7 @@
 | Extra Magic (Sp) | Int 12 | You can cast every spell like you have, an extra time. |
 | Nimble Climber | — | You gain Advantage on Climb Skill checks, and Skill Focus: Climb. |
 | Ninja Trick | — | Gain a ninja trick |
-| Obfuscate Story | — | (Description to be defined.) |
+| Obfuscate Story (Ex) | — | Muddle another’s account with opposed Diplomacy checks (see Advanced Race Guide Rogue Talents below). |
 | Obscuring Blow* (Ex) | — | Once per day for every 5 rogue levels, the rogue can sacrifice a sneak attack die to attempt to cloud an opponent’s vision. She must declare the use of obscuring blow before she makes the attack. If the attack hits, it does normal damage but, instead reduces one die of sneak attack damage, the target treats all other creatures as if they had concealment , suffering a 20% miss chance on all attack rolls for a number of rounds equal to the rogue’s level. You can chose to forgo more than one sneak attack die, to improve the duration by 1 turn or the miss chance by 5% (up to a maximum of 50% wich counts as blinded). A successful Fortitude saving throw reduces this effect to 1 round. The DC of this saving throw is equal to 10 + 1/2 the rogue’s level + the rogue’s Intelligence modifier. |
 | Occult Dungeoneer (Su) | — | You can use spell-trigger and spell-completion items as if the following spells were on a spell list to which you have access: detect secret doors , detect traps , knock , locate object , and obscure object . If the spell-trigger device allows a wielder to apply his own caster level (such as with a staff), you may use your class level as your caster level . You may also use knock as a supernatural ability once per day, using your rogue level as your caster level . |
 | Occult Mysticism (Ex) | — | The rogue has been trained in a minor occult technique. The rogue gains Psychic Sensitivity as a bonus feat. Those you choose from your Rogue’s Edge Class Feature, count as 5 levels higher, allowing you to unlock higher level powers. |
@@ -155,3 +155,13 @@
 | Weapon Training | — | Gain Weapon Focus as a bonus feat |
 | Wild Magic (Sp) | Wis 10 | Gain the ability to cast a 0-level spell from the druid spell list 3x/day as a spell-like ability . |
 | Without a Trace (Ex) | — | When you successfully use evasion or improved evasion to avoid taking damage, you can attempt to hide as an immediate action . |
+
+## Advanced Race Guide Rogue Talents
+
+The following rogue talents can be taken by any rogue who meets the prerequisites, but they are more common among kitsune. Where a talent with the same name appears in the table above, the table entry is the house-rule version.
+
+**False Friend (Ex)**: A rogue with this talent gains a +4 bonus when making Bluff checks to convince someone she has never met or who doesn’t know her well that they are previously acquainted or know each other well.
+
+**Obfuscate Story (Ex)**: While another individual attempts to give an account of an event, the rogue makes an opposed Diplomacy check to deftly interject comments or statements over the course of the storytelling that cause the individual to muddle his ability to recall accurate or specific details. If the rogue succeeds, her target remains unaware that the rogue’s interjections caused the confusion. However, if she fails, the target is allowed a Sense Motive check (DC equal to the rogue’s failed Diplomacy check) to figure out that she made deliberate attempts to confuse the story.
+
+**Steal the Story (Ex)**: After muddling another’s account using obfuscate story, the rogue may make another opposed Diplomacy check to alter the details further in order to discredit, insult, or humiliate the target. If the check succeeds, the target takes a penalty on Diplomacy and Intimidate checks against anyone who heard the altered story. This penalty is equal to the rogue’s Intelligence, Wisdom, or Charisma bonus (whichever is highest), and lasts until the target is able to repair his reputation or discredit the rogue. The rogue must have the obfuscate story talent to select this talent.
