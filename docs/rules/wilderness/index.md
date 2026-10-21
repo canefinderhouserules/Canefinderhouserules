@@ -9,3 +9,7 @@ Rules for exploring, surviving in and mastering the wilds, from *Pathfinder Role
 - [Harvesting Poisons](harvesting-poisons.md): gathering venom, antivenom and natural poisons.
 - [Hazards and Disasters](hazards-and-disasters.md): natural hazards, disasters and their damage tables.
 - [Herbalism](herbalism.md): gathering, preparing and using herbs.
+- [Spells of the Wild](spells-of-the-wild.md): advice on spells for wilderness play.
+- [Trophies and Treasures](trophies-and-treasures.md): harvesting, valuing and using creature trophies.
+- [Weather](weather.md): baselines, temperature, precipitation, wind and severe events.
+- [Wilderness Traps](wilderness-traps.md): ten simple traps built from natural materials.
