@@ -25,7 +25,7 @@ If you’re using the corruptions from the [corruption rules](corruption.md) in 
 - **Deep One**: Deep ones, deep one hybrids, and deep one elders.
 - **Ghoul**: Ghouls, ghasts, and possibly Leng ghouls.
 - **Hellbound**: Devils, especially those focused on seduction and corruption over combat.
-- **Hive**: Hive swarms, hive warriors, and hive queens, all described on this page.
+- **Hive**: Hive swarms, hive warriors, and hive queens, all described on the [Hive](../../monsters/hive.md) page.
 - **Lich**: Liches and demiliches, though spellcasters can be susceptible even if they have no contact with liches.
 - **Lycanthropy**: Lycanthropes and some magical beasts.
 - **Possessed**: Shadow demons, ghosts, haunts, and other creatures with possession abilities.
