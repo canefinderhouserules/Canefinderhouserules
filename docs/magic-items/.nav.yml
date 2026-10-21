@@ -5,12 +5,14 @@ nav:
   - Armor and Shields (ACG): armor-acg.md
   - Armor and Shields (UW): armor-uw.md
   - Armor and Shields (UE): armor-ue.md
+  - Armor and Shields (UI): armor-ui.md
   - Specific Armors and Shields: armor-specific.md
   - Weapons: weapons.md
   - Weapons (APG): weapons-apg.md
   - Weapons (ACG): weapons-acg.md
   - Weapons (UW): weapons-uw.md
   - Weapons (UE): weapons-ue.md
+  - Weapons (UI): weapons-ui.md
   - Firearm Magic Items (UC): firearm-items.md
   - Specific Weapons: weapons-specific.md
   - Racial Items (ARG): racial-items-arg.md
@@ -20,6 +22,7 @@ nav:
   - Rings (ACG): rings-acg.md
   - Rings (OA): rings-oa.md
   - Rings (UE): rings-ue.md
+  - Rings (UI): rings-ui.md
   - Rods: rods.md
   - Rods (APG): rods-apg.md
   - Rods (ACG): rods-acg.md
@@ -38,6 +41,7 @@ nav:
   - Wondrous Items (ACG): wondrous-items-acg.md
   - Wondrous Items (OA): wondrous-items-oa.md
   - Wondrous Items (UW): wondrous-items-uw.md
+  - Wondrous Items (UI): wondrous-items-ui.md
   - Wondrous Items (UE): wondrous-items-ue
   - Magic Plants (UW): magic-plants.md
   - Intelligent Items: intelligent-items.md
