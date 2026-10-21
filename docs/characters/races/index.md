@@ -59,3 +59,7 @@ Fourteen uncommon races, each with alternate racial traits, favored class option
 - [Vanaras](vanaras.md)
 - [Vishkanyas](vishkanyas.md)
 - [Wayangs](wayangs.md)
+
+## Building New Races
+
+To create a new race of your own, see the [Race Builder](../../rules/race-builder/index.md).
