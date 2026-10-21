@@ -42,6 +42,7 @@ Spiritualists gain access to the following spells. Spells without a link come fr
 - **[Detect Undead](detect-undead.md)**: Reveals undead within 60 ft.
 - **[Discern Next of Kin](discern-next-of-kin.md)**: Read the target’s mind to learn about its family.
 - **[Doom](doom.md)**: One subject takes –2 on attack rolls, damage rolls, saves, and checks.
+- **[Echo](echo.md)**: Cause a sound to repeat itself.
 - **[Endure Elements](endure-elements.md)**: Exist comfortably in hot or cold regions.
 - **[Expeditious Retreat](expeditious-retreat.md)**: Your base speed increases by 30 ft.
 - **[Feather Fall](feather-fall.md)**: Objects or creatures fall slowly.
@@ -113,6 +114,7 @@ Spiritualists gain access to the following spells. Spells without a link come fr
 - **[Surmount Affliction](surmount-affliction.md)**: Temporarily suppress one condition.
 - **[Touch of Idiocy](touch-of-idiocy.md)**: Subject takes 1d6 penalty to Int, Wis, and Cha.
 - **[Twilight Haze](twilight-haze.md)**
+- **[With the Wind](with-the-wind.md)**: Protect a target from being blown away by wind of less than windstorm force.
 
 ## 3rd-Level Spiritualist Spells
 
@@ -168,6 +170,8 @@ Spiritualists gain access to the following spells. Spells without a link come fr
 - **[Speak with Dead](speak-with-dead.md)**: Corpse answers one question/two levels.
 - **[Spirit-Bound Blade](spirit-bound-blade.md)**: Give a weapon ghost touch and another ability tied to an emotion.
 - **[Summon Monster III](summon-monster-iii.md)**: (Evil creatures only.) Summons extraplanar creature to fight for you.
+- **[Tail Current](tail-current.md)**: Create a current in water to enhance or impede swimming.
+- **[Tailwind](tailwind.md)**: Create a current of wind to enhance or impede flight.
 - **[Tongues](tongues.md)**: Speak and understand any language.
 - **[Twilight Knife](twilight-knife.md)**: Floating knife attacks with you.
 - **[Undead Anatomy I](undead-anatomy-i.md)**: Take the form and some of the powers of a Small or Medium undead.
@@ -224,6 +228,7 @@ Spiritualists gain access to the following spells. Spells without a link come fr
 - **[Telekinetic Maneuver](telekinetic-maneuver.md)**: Perform a telekinetic combat maneuver.
 - **[Terrible Remorse](terrible-remorse.md)**: Creature is compelled to harm itself.
 - **[Thoughtsense](thoughtsense.md)**: Automatically detect nearby conscious creatures.
+- **[Vigilant Rest](vigilant-rest.md)**: Cause a sleeping creature to retain some perception of its surroundings.
 
 ## 5th-Level Spiritualist Spells
 
@@ -269,6 +274,7 @@ Spiritualists gain access to the following spells. Spells without a link come fr
 - **[Teleport](teleport.md)**: Instantly transports you as far as 100 miles per level.
 - **[Undead Anatomy II](undead-anatomy-ii.md)**: Take the form and some of the powers of a Tiny or Large undead.
 - **[Vampiric Shadow Shield](vampiric-shadow-shield.md)**
+- **[Waft](waft.md)**: Targets become light enough to be carried by the wind.
 - **[Wall of Ectoplasm](wall-of-ectoplasm.md)**: Wall of spirits blocks movement on the Material Plane and Ethereal Plane and causes fear.
 - **[Wall of Sound](wall-of-sound.md)**: Sonic wall def lects and damages creatures.
 - **[Waves of Fatigue](waves-of-fatigue.md)**: Several targets become fatigued.

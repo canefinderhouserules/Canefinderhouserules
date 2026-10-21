@@ -46,6 +46,7 @@ New inquisitor spells from *Ultimate Magic*. Spells from other books will be add
 - **[Howling Agony](howling-agony.md)**: Screaming pain limits the target’s actions.
 - **[Inflict Pain](inflict-pain.md)**: Target takes a –4 penalty on attack rolls, skill checks, and ability checks.
 - **[Instrument of Agony](instrument-of-agony.md)**: Weapon exudes divine fury, granting a bonus on Intimidate checks.
+- **[Iron Stake](iron-stake.md)**: Hurl a spike of cold iron at a foe.
 - **[Litany of Defense](litany-of-defense.md)**: Doubles armor’s enhancement bonus.
 - **[Magic Siege Engine](magic-siege-engine.md)**: Siege engine gains +1 on targeting and damage rolls.
 - **[Protection from Chaos, Communal](protection-from-chaos-communal.md)**: As protection from chaos, but you may divide the duration among creatures touched.
@@ -91,6 +92,7 @@ New inquisitor spells from *Ultimate Magic*. Spells from other books will be add
 - **[Magic Siege Engine, Greater](magic-siege-engine-greater.md)**: Siege engine gains +1 on targeting and damage rolls for every four caster levels.
 - **[Named Bullet](named-bullet.md)**: Imbues ammunition with accuracy against a specific creature type.
 - **[Protection from Energy, Communal](protection-from-energy-communal.md)**: As protection from energy, but you may divide the duration among creatures touched.
+- **[Replay Tracks](replay-tracks.md)**: Reconstruct past events from a set of tracks.
 - **[Reprobation](reprobation.md)**: Marked target is shunned by your religion.
 - **[Sessile Spirit](sessile-spirit.md)**: Cause a spirit inhabiting a creature or an object to go dormant.
 - **[Thaumaturgic Circle](thaumaturgic-circle.md)**: As magic circle, but affecting a nonalignment subtype or outsider race.
@@ -180,4 +182,3 @@ New spells from the *Advanced Player's Guide*. An M or F after a name marks a ma
 
 - **[Cleanse](cleanse.md)**: As heal, but only cures 4d8 damage +1/level (max +25).
 - **[Fester, Mass](fester-mass.md)**: As fester, but affecting multiple targets.
-

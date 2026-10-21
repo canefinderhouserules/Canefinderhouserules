@@ -114,6 +114,7 @@ Occultists gain access to the following spells, determined by their chosen imple
 - **[Disguise Self](disguise-self.md)**: Changes your appearance.
 - **[Disguise Weapon](disguise-weapon.md)**
 - Illusion of Calm
+- **[Echo](echo.md)**: Cause a sound to repeat itself.
 - **[Magic Aura](magic-aura.md)**: Alters object’s magic aura.
 - **[Mask Dweomer](mask-dweomer.md)**: Hides presence of a spell from detect magic.
 - **[Quintessence](quintessence.md)**: Mask any flaws of or damage to a creature or object.
@@ -168,6 +169,7 @@ Occultists gain access to the following spells, determined by their chosen imple
 - **[Node of Blasting](node-of-blasting.md)**: Place a trap on an object to mentally damage a creature that touches it.
 - **[Obscure Object](obscure-object.md)**: Masks object against scrying.
 - **[Resist Energy](resist-energy.md)**: Ignores 10 (or more) points of damage/attack from specified energy type.
+- **[With the Wind](with-the-wind.md)**: Protect a target from being blown away by wind of less than windstorm force.
 
 **Conjuration**:
 
@@ -189,6 +191,7 @@ Occultists gain access to the following spells, determined by their chosen imple
 - **[Locate Object](locate-object.md)**: Senses direction toward object (specific or type).
 - **[Residual Tracking](residual-tracking.md)**: Tell creature's appearance by footprint.
 - **[See Invisibility](see-invisibility.md)**: Reveals invisible creatures or objects.
+- **[Seed Spies](seed-spies.md)**: Wafting seeds act as spies, as insect spies.
 - **[Share Language](share-language.md)**: Subject understands chosen language.
 - **[Share Memory](share-memory.md)**: Share one memory with the target.
 - **[Status](status.md)**: Monitors condition, position of allies.
@@ -265,6 +268,7 @@ Occultists gain access to the following spells, determined by their chosen imple
 - **[Feast of Ashes](feast-of-ashes.md)**: A target starves with an insatiable hunger.
 - **[Ghostbane Dirge](ghostbane-dirge.md)**: Incorporeal creature takes half damage from nonmagical weapons.
 - **[Glide](glide.md)**: No fall damage, move 60 ft./round while falling.
+- **[Grasping Vine](grasping-vine.md)**: A vine from your body manipulates objects within 20 ft.
 - **[Heat Metal](heat-metal.md)**: Makes metal so hot it damages those who touch it.
 - **[Knock](knock.md)**: Opens locked or magically sealed door.
 - **[Levitate](levitate.md)**: Subject moves up and down at your direction.
@@ -275,6 +279,7 @@ Occultists gain access to the following spells, determined by their chosen imple
 - **[Perceive Cues](perceive-cues.md)**: +5 Perception and Sense Motive 10 min./level.
 - Reinforce Armaments, Communal
 - **[Rope Trick](rope-trick.md)**: As many as eight creatures hide in extradimensional space.
+- **[Ropeweave](ropeweave.md)**: Create useful tools from a coil of rope.
 - **[Silk to Steel](silk-to-steel.md)**: Use a scarf as a shield or whip.
 - **[Spider Climb](spider-climb.md)**: Grants ability to walk on walls and ceilings.
 - Telekinetic Assembly
@@ -300,6 +305,7 @@ Occultists gain access to the following spells, determined by their chosen imple
 - **[Protection from Energy](protection-from-energy.md)**: Absorbs 12 points/level of damage from one kind of energy.
 - Resist Energy, Communal
 - **[Thaumaturgic Circle](thaumaturgic-circle.md)**: As magic circle, but affecting a nonalignment subtype or outsider race.
+- **[Vigilant Rest](vigilant-rest.md)**: Cause a sleeping creature to retain some perception of its surroundings.
 
 **Conjuration**:
 
@@ -318,6 +324,7 @@ Occultists gain access to the following spells, determined by their chosen imple
 - **[Follow Aura](follow-aura.md)**: Gain ability to follow the trail of the aura of an alignment.
 - Locate Weakness
 - **[Pierce Disguise](pierce-disguise.md)**: See through low-level magical disguises.
+- **[Replay Tracks](replay-tracks.md)**: Reconstruct past events from a set of tracks.
 - **[Retrocognition](retrocognition.md)**: Gain psychic impressions from past events in a location.
 - **[Seek Thoughts](seek-thoughts.md)**: Detects thinking creatures’ thoughts.
 - Share Language, Communal
@@ -355,6 +362,7 @@ Occultists gain access to the following spells, determined by their chosen imple
 - **[Illusory Script](illusory-script.md)**: Only select creatures can read text.
 - **[Invisibility Sphere](invisibility-sphere.md)**: Makes everyone within 10 ft. invisible.
 - **[Major Image](major-image.md)**: As *silent image*, plus sound, smell and thermal effects.
+- **[Mirage](mirage.md)**: Create illusory terrain.
 - **[Vision of Hell](vision-of-hell.md)**: Illusory hellscape makes creatures shaken.
 
 **Necromancy**:
@@ -391,6 +399,8 @@ Occultists gain access to the following spells, determined by their chosen imple
 - Spider Climb, Communal
 - **[Stone Shape](stone-shape.md)**: Sculpts stone into any shape.
 - **[Symbol of Slowing](symbol-of-slowing.md)**: Triggered rune slows creatures.
+- **[Tail Current](tail-current.md)**: Create a current in water to enhance or impede swimming.
+- **[Tailwind](tailwind.md)**: Create a current of wind to enhance or impede flight.
 
 ## 4th-Level Occultist Spells
 
@@ -573,6 +583,7 @@ Occultists gain access to the following spells, determined by their chosen imple
 - **[Telekinesis](telekinesis.md)**: Moves object, attacks creature, or hurls object or creature.
 - **[Transmute Mud to Rock](transmute-mud-to-rock.md)**: Transforms two 10-ft. cubes per level.
 - **[Transmute Rock to Mud](transmute-rock-to-mud.md)**: Transforms two 10-ft. cubes per level.
+- **[Waft](waft.md)**: Targets become light enough to be carried by the wind.
 
 ## 6th-Level Occultist Spells
 

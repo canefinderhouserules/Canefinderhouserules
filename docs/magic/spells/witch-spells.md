@@ -12,10 +12,12 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Delusional Pride](delusional-pride.md)**: Target is penalized on attacks and checks but gains bonus against charms and compulsions.
 - **[Diagnose Disease](diagnose-disease.md)**: Detect and identify diseases.
 - **[Ear-Piercing Scream](ear-piercing-scream.md)**: Deal sonic damage and daze target.
+- **[Echo](echo.md)**: Cause a sound to repeat itself.
 - **[Forced Quiet](forced-quiet.md)**: Target cannot make loud noises.
 - **[Frostbite](frostbite.md)**: Target takes cold damage and is fatigued.
 - **[Fumbletongue](fumbletongue.md)**: Target cannot speak intelligently.
 - **[Hex Ward](hex-ward.md)**: Target gains +4 on saves against witch hexes.
+- **[Hidden Spring](hidden-spring.md)**: Discover a temporary spring of fresh, flowing water.
 - **[Icicle Dagger](icicle-dagger.md)**: Masterwork ice dagger deals +1 cold damage.
 - **[Interrogation](interrogation.md)**: Target answers questions or suffers pain.
 - **[Jury-Rig](jury-rig.md)**: Removes the broken condition from the targeted object.
@@ -29,6 +31,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Restore Corpse](restore-corpse.md)**: Skeletal corpse grows f lesh.
 - **[Sanctify Corpse](sanctify-corpse.md)**: Prevent a corpse from becoming an undead.
 - **[Shadow Weapon](shadow-weapon.md)**: Create a quasi-real masterwork weapon.
+- **[Snowball](snowball.md)**: Throw a conjured ball of snow at a target.
 - **[Summon Minor Monster](summon-minor-monster.md)**: Summon 1d3 Tiny animals.
 - **[Unerring Weapon](unerring-weapon.md)**: Grants a +2 bonus, +1 per four caster levels, on attack rolls to confirm a critical hit.
 - **[Unprepared Combatant](unprepared-combatant.md)**: Target takes –4 on initiative and Ref lex saves.
@@ -45,6 +48,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Bestow Weapon Proficiency](bestow-weapon-proficiency.md)**: Grants a creature proficiency in a single weapon for short period of time.
 - **[Blood Transcription](blood-transcription.md)**: Learn a spell from the target’s blood.
 - **[Boiling Blood](boiling-blood.md)**: Targets take fire damage; orcs get +2 Strength.
+- **[Callback](callback.md)**: Teleport a familiar or spirit animal to your side when it is injured.
 - **[Delay Pain](delay-pain.md)**: Ignore pain for 1 hour/level. Disfiguring Touch : Target becomes disfigured.
 - **[Demand Offering](demand-offering.md)**: Make a creature give you an object it’s holding.
 - **[Destabilize Powder](destabilize-powder.md)**: Ammunition in the targeted firearm is prone to misfire.
@@ -52,14 +56,17 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Frost Fall](frost-fall.md)**: The area is covered in a chilling frost.
 - **[Ghost Whip](ghost-whip.md)**: Create a ghost touch whip that passes through objects.
 - **[Ghostly Disguise](ghostly-disguise.md)**: You look like a ghost of yourself.
+- **[Grasping Vine](grasping-vine.md)**: A vine from your body manipulates objects within 20 ft.
 - **[Haunting Mists](haunting-mists.md)**: Creatures are shaken and take Wis damage.
 - **[Mad Hallucination](mad-hallucination.md)**: Target takes penalties to mental actions.
 - **[Mask Dweomer, Communal](mask-dweomer-communal.md)**: As mask dweomer, but you may divide the duration among creatures touched.
 - **[Masterwork Transformation](masterwork-transformation.md)**: Make a normal item into a masterwork one.
+- **[Merge with Familiar](merge-with-familiar.md)**: Merge the body of your familiar or spirit animal into your own.
 - **[Miserable Pity](miserable-pity.md)**: Opponents cannot attack a pathetic creature.
 - **[Mount, Communal](mount-communal.md)**: As mount, but you may divide the duration among creatures touched.
 - **[Paranoia](paranoia.md)**: Target becomes hostile to all creatures.
 - **[Pernicious Poison](pernicious-poison.md)**: Target takes a –4 penalty against poison.
+- **[Pouncing Fury](pouncing-fury.md)**: Make a full attack with your claws after a charge.
 - **[Protective Penumbra](protective-penumbra.md)**: Shadow protects the target from light.
 - **[Qualm](qualm.md)**: Target gains penalties on ability checks, skill checks, and concentration checks until it spends an entire round doing nothing.
 - **[Recoil Fire](recoil-fire.md)**: Ammunition in the targeted firearm generates excessive recoil.
@@ -76,6 +83,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Unshakable Chill](unshakable-chill.md)**: Target is aff licted with severe cold.
 - **[Web Shelter](web-shelter.md)**: Create a comfortable shelter made of webbing.
 - **[Whip of Spiders](whip-of-spiders.md)**: Whiplike spider swarm deals swarm damage by touch.
+- **[Winter Grasp](winter-grasp.md)**: Create a slippery sheet of ice on the ground.
 
 ## 3rd-Level Witch Spells
 
@@ -84,10 +92,12 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Ash Storm](ash-storm.md)**: Hamper vision and movement.
 - **[Aversion](aversion.md)**: Cause the target to avoid an object or location.
 - **[Babble](babble.md)**: Target becomes nauseated and nearby creatures become fascinated.
+- **[Bleed for Your Master](bleed-for-your-master.md)**: Compel a companion to take damage for you.
 - **[Cackling Skull](cackling-skull.md)**: Skull acts as magic mouth, listeners are shaken.
 - **[Catatonia](catatonia.md)**: Make a willing target appear to be dead.
 - **[Countless Eyes](countless-eyes.md)**: Extra eyes give all-around vision.
 - **[Delay Poison, Communal](delay-poison-communal.md)**: As delay poison, but you may divide the duration among creatures touched.
+- **[Earth Tremor](earth-tremor.md)**: Unleash a tremor that creates difficult terrain and can knock foes down and damage them.
 - **[Eldritch Fever](eldritch-fever.md)**: Target gains the eldritch ague spellblight.
 - **[Eruptive Pustules](eruptive-pustules.md)**: Acid boils burst when you are attacked.
 - **[Excruciating Deformation](excruciating-deformation.md)**: Target takes Dex and Con damage.
@@ -96,6 +106,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Hostile Levitation](hostile-levitation.md)**: Levitates the targeted creature up off the ground.
 - **[Howling Agony](howling-agony.md)**: Screaming pain limits the target’s actions.
 - **[Inflict Pain](inflict-pain.md)**: Target takes a –4 penalty on attack rolls, skill checks, and ability checks.
+- **[Iron Stake](iron-stake.md)**: Hurl a spike of cold iron at a foe.
 - **[Ki Leech](ki-leech.md)**: Add to your ki pool when you critically hit.
 - **[Loathsome Veil](loathsome-veil.md)**: Nauseates and/or sickens weak creatures.
 - **[Locate Weakness](locate-weakness.md)**: You roll damage twice when you roll damage for a critical hit and take the best damage.
@@ -105,11 +116,13 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Reckless Infatuation](reckless-infatuation.md)**: Target is compelled to stay near another.
 - **[Returning Weapon, Communal](returning-weapon-communal.md)**: As returning weapon, but you may divide the duration among weapons touched.
 - **[Sands of Time](sands-of-time.md)**: Target temporarily ages.
+- **[Seed Spies](seed-spies.md)**: Wafting seeds act as spies, as insect spies.
 - **[Spit Venom](spit-venom.md)**: Spit blinding black adder venom.
 - **[Strangling Hair](strangling-hair.md)**: Your hair animates and grapples.
 - **[Unadulterated Loathing](unadulterated-loathing.md)**: Target is compelled to avoid another creature.
 - **[Vermin Shape I](vermin-shape-i.md)**: Take the form and some of the powers of a Small or Medium vermin.
 - **[Vision of Hell](vision-of-hell.md)**: Illusory hellscape makes creatures shaken.
+- **[Wing Thorns](wing-thorns.md)**: Wings sprout poisonous thorns you can attack with.
 - **[Witness](witness.md)**: See through the target’s eyes and ears.
 
 ## 4th-Level Witch Spells
@@ -122,6 +135,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Debilitating Portent](debilitating-portent.md)**: Inflicts an ill fate on a creature, halving its damage when it attacks or casts a spell.
 - **[False Life, Greater](false-life-greater.md)**: Gain 2d10 temporary hp + 1/level.
 - **[Familiar Melding](familiar-melding.md)**: Possess your familiar.
+- **[Fey Form I](fey-form-i.md)**: Assume the form of a Small or Medium fey creature.
 - **[Fleshworm Infestation](fleshworm-infestation.md)**: Worms deal hp and Dex damage.
 - **[Object Possession, Lesser](object-possession-lesser.md)**: Project your soul into an object, animating it.
 - **[Purge Spirit](purge-spirit.md)**: Deal 1d6 points of damage per level to one haunt or spirit creature and stagger it.
@@ -134,10 +148,14 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Tongues, Communal](tongues-communal.md)**: As tongues, but you may divide the duration among creatures touched.
 - **[Touch of Slime](touch-of-slime.md)**: Touch infests a target with green slime.
 - **[Vermin Shape II](vermin-shape-ii.md)**: As vermin shape, but Tiny or Large.
+- **[Vigilant Rest](vigilant-rest.md)**: Cause a sleeping creature to retain some perception of its surroundings.
 - **[Volcanic Storm](volcanic-storm.md)**: Hot rocks deal 5d6 damage.
 
 ## 5th-Level Witch Spells
 
+- **[Callback, Greater](callback-greater.md)**: Teleport a familiar or spirit animal from miles away to your side when it is injured.
+- **[Cave Fangs](cave-fangs.md)**: Create a trap from stalactites and stalagmites.
+- **[Companion Transposition](companion-transposition.md)**: Swap places with your animal companion, familiar, or spirit animal via teleportation.
 - **[Contagion, Greater](contagion-greater.md)**: Infect a subject with a magical disease.
 - **[Curse of Disgust](curse-of-disgust.md)**: Target is sickened while viewing trigger.
 - **[Curse, Major](curse-major.md)**: As bestow curse, but harder to remove.
@@ -157,8 +175,10 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 ## 6th-Level Witch Spells
 
 - **[Age Resistance](age-resistance.md)**: Ignore penalties from old age.
+- **[Delectable Flesh](delectable-flesh.md)**: Creatures near the target become depraved and attack it to feast.
 - **[Dust Form](dust-form.md)**: You become an incorporeal creature of dust for a short period of time.
 - **[Epidemic](epidemic.md)**: Infect a subject with a highly contagious disease.
+- **[Fey Form II](fey-form-ii.md)**: Assume the form of a Tiny or Large fey creature.
 - **[Ice Crystal Teleport](ice-crystal-teleport.md)**: Target is frozen, then teleported.
 - **[Mind Swap](mind-swap.md)**: Switch minds with another creature for 1 hour per level.
 - **[Named Bullet, Greater](named-bullet-greater.md)**: As named bullet, but deals 2 points of damage per caster level.
@@ -171,6 +191,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 
 - **[Age Resistance, Greater](age-resistance-greater.md)**: Ignore penalties from venerable age.
 - **[Create Demiplane, Lesser](create-demiplane-lesser.md)**: Create your own demiplane.
+- **[Fey Form III](fey-form-iii.md)**: Assume the form of a Diminutive or Huge fey creature.
 - **[Hostile Juxtaposition, Greater](hostile-juxtaposition-greater.md)**: You may target one creature for every four of your caster levels.
 - **[Ice Body](ice-body.md)**: Your body becomes living ice.
 - **[Inflict Pain, Mass](inflict-pain-mass.md)**: As inflict pain, but affecting one creature per level.
@@ -187,14 +208,17 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 ## 8th-Level Witch Spells
 
 - **[Create Demiplane](create-demiplane.md)**: As lesser create demiplane, but larger and with planar traits.
+- **[Fey Gate](fey-gate.md)**: Create a portal that allows travel to the First World.
 - **[Frightful Aspect](frightful-aspect.md)**: You take on a terrifying, Large-sized form of yourself and emit an aura that causes creatures to become shaken or frightened.
 - **[Possession, Greater](possession-greater.md)**: As possession, but your body vanishes.
 - **[Prediction of Failure](prediction-of-failure.md)**: Target is permanently shaken and sickened, and may gain a spellblight.
+- **[Wandering Weather](wandering-weather.md)**: Control weather in a large area that moves with you.
 
 ## 9th-Level Witch Spells
 
 - **[Create Demiplane, Greater](create-demiplane-greater.md)**: As create demiplane, but larger and with more planar traits.
 - **[Cursed Earth](cursed-earth.md)**: Plants die, living creatures catch diseases, or dead creatures rise as zombies.
+- **[Fey Form IV](fey-form-iv.md)**: Assume the form of a powerful fey creature.
 - **[Heroic Invocation](heroic-invocation.md)**: Grants a number of creatures bonuses on attacks and damage, temporary hit points, and immunity to fear and charm effects.
 - **[Mind Blank, Communal](mind-blank-communal.md)**: As mind blank, but you may divide the duration among creatures touched.
 - **[Polar Midnight](polar-midnight.md)**: Cold darkness paralyzes and deals damage. The following spells are presented in alphabetical order, with the exception of those whose names begin with “greater,” “lesser,” or “mass.” These spells are alphabetized
@@ -271,4 +295,3 @@ New spells from the *Advanced Player's Guide*. An M or F after a name marks a ma
 ### 9th-Level Witch Spells
 
 - **[Suffocation, Mass](suffocation-mass.md)**: One creature/level suffocates to death.
-

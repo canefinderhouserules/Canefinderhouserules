@@ -10,12 +10,14 @@ New summoner spells from *Ultimate Magic*. Spells from other books will be added
 - **[Jury-Rig](jury-rig.md)**: Removes the broken condition from the targeted object.
 - **[Life Conduit](life-conduit.md)**: You are bound even tighter to your eidolon than normal, and may share hit points with it through your life link ability.
 - **[Ray of Sickening](ray-of-sickening.md)**: Ray makes the subject sickened.
+- **[Snowball](snowball.md)**: Throw a conjured ball of snow at a target.
 - **[Summon Minor Monster](summon-minor-monster.md)**: Summon 1d3 Tiny animals.
 
 ## 2nd-Level Summoner Spells
 
 - **[Ablative Barrier](ablative-barrier.md)**: Surrounds the target with layers of force.
 - **[Ant Haul, Communal](ant-haul-communal.md)**: As ant haul, but you may divide the duration among creatures touched.
+- **[Aquatic Cavalry](aquatic-cavalry.md)**: Summon hippocampi to serve as aquatic mounts.
 - **[Cushioning Bands](cushioning-bands.md)**: Force bands protect against crushing.
 - **[Mount, Communal](mount-communal.md)**: As mount, but you may divide the duration among creatures touched.
 - **[Protection from Chaos, Communal](protection-from-chaos-communal.md)**: As protection from chaos, but you may divide the duration among creatures touched.
@@ -33,6 +35,7 @@ New summoner spells from *Ultimate Magic*. Spells from other books will be added
 - **[Agonize](agonize.md)**: Pain encourages an outsider to obey you.
 - **[Apport Animal](apport-animal.md)**: Send or receive a Tiny or smaller animal via teleportation.
 - **[Control Summoned Creature](control-summoned-creature.md)**: Direct a summoned monster as if you had summoned it.
+- **[Leshy Swarm](leshy-swarm.md)**: Summon a swarm of Tiny leshys.
 - **[Life Conduit, Improved](life-conduit-improved.md)**: Transfers 2d6 hit points to your eidolon as a swift action.
 - **[Mad Monkeys](mad-monkeys.md)**: Summon a swarm of mischievous monkeys.
 - **[Marionette Possession](marionette-possession.md)**: As magic jar, but limited to line of sight.
@@ -56,6 +59,7 @@ New summoner spells from *Ultimate Magic*. Spells from other books will be added
 - **[Thaumaturgic Circle](thaumaturgic-circle.md)**: As magic circle, but affecting a nonalignment subtype or outsider race.
 - **[Tongues, Communal](tongues-communal.md)**: As tongues, but you may divide the duration among creatures touched.
 - **[Vitriolic Mist](vitriolic-mist.md)**: As fire shield, except acid damage.
+- **[Wooden Wing Shield](wooden-wing-shield.md)**: Your wings become a barrier granting a +4 shield bonus to AC.
 
 ## 5th-Level Summoner Spells
 
@@ -75,6 +79,7 @@ New summoner spells from *Ultimate Magic*. Spells from other books will be added
 - **[Create Demiplane](create-demiplane.md)**: As lesser create demiplane, but larger and with planar traits.
 - **[Eagle Aerie](eagle-aerie.md)**: Summon 1 giant eagle/3 levels.
 - **[Energy Siege Shot, Greater](energy-siege-shot-greater.md)**: As energy siege shot, but you can affect any size siege engine.
+- **[Fey Gate](fey-gate.md)**: Create a portal that allows travel to the First World.
 - **[Hostile Juxtaposition, Greater](hostile-juxtaposition-greater.md)**: You may target one creature for every four of your caster levels.
 - **[Walk Through Space](walk-through-space.md)**: You can spend a move action to teleport 30 feet or to stand while prone without provoking attacks of opportunity.
 - **[Whip of Ants](whip-of-ants.md)**: As whip of spiders, but with army ants.
@@ -121,4 +126,3 @@ New spells from the *Advanced Player's Guide*. An M or F after a name marks a ma
 ### 6th-Level Summoner Spells
 
 - **[Planar Adaptation, Mass](planar-adaptation-mass.md)**: As planar adaptation, but affects multiple creatures.
-

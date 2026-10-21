@@ -37,6 +37,7 @@
 - **[Deja Vu](deja-vu.md)**: Make a creature repeat its actions.
 - **[Detect Secret Doors](detect-secret-doors.md)**: Reveals hidden doors within 60 ft.
 - **[Disguise Self](disguise-self.md)**: Changes your appearance.
+- **[Echo](echo.md)**: Cause a sound to repeat itself.
 - **[Erase](erase.md)**: Mundane or magical writing vanishes.
 - **[Expeditious Retreat](expeditious-retreat.md)**: Your base land speed increases by 30 ft.
 - **[Feather Fall](feather-fall.md)**: Objects or creatures fall slowly.
@@ -58,6 +59,7 @@
 - **[Silent Image](silent-image.md)**: Creates minor illusion of your design.
 - **[Sleep](sleep.md)**: Puts 4 HD of creatures into magical slumber.
 - **[Summon Monster I](summon-monster-i.md)**: Summons extraplanar creature to fight for you.
+- **[Tamer’s Lash](tamers-lash.md)**: Create a whip made of sound that damages foes and can frighten animals.
 - **[Undetectable Alignment](undetectable-alignment.md)**: Conceals alignment for 24 hours.
 - **[Unseen Servant](unseen-servant.md)**: Invisible force obeys your commands.
 - **[Ventriloquism](ventriloquism.md)**: Throws voice for 1 min./level.
@@ -123,6 +125,7 @@
 
 ## 3rd-Level Bard Spells
 
+- **[Alpha Instinct](alpha-instinct.md)**: Gain bonuses when you’re interacting with animals.
 - **[Blink](blink.md)**: You randomly vanish and reappear for 1 round/level.
 - **[Charm Monster](charm-monster.md)**: Makes monster believe it is your ally.
 - **[Clairaudience/Clairvoyance](clairaudience-clairvoyance.md)**: Hear or see at a distance for 1 min./level.
@@ -143,7 +146,9 @@
 - **[Hypercognition](hypercognition.md)**: Rapidly recall everything you know about a subject.
 - **[Illusory Script](illusory-script.md)**: Only select creatures can read text.
 - **[Invisibility Sphere](invisibility-sphere.md)**: Makes everyone within 10 feet invisible.
+- **[Leshy Swarm](leshy-swarm.md)**: Summon a swarm of Tiny leshys.
 - **[Major Image](major-image.md)**: As *silent image*, plus sound, smell, and thermal effects.
+- **[Mirage](mirage.md)**: Create illusory terrain.
 - **[Phantom Driver](phantom-driver.md)**: Conjures a phantom to drive vehicles.
 - **[Phantom Steed](phantom-steed.md)**: Magic horse appears for 1 hour/level.
 - **[Remove Curse](remove-curse.md)**: Frees object or person from curse.
@@ -185,6 +190,7 @@
 - **[Shout](shout.md)**: Deafens all within cone and deals 5d6 sonic damage.
 - **[Speak with Plants](speak-with-plants.md)**: You can talk to plants and plant creatures.
 - **[Summon Monster IV](summon-monster-iv.md)**: Summons extraplanar creature to fight for you.
+- **[Vigilant Rest](vigilant-rest.md)**: Cause a sleeping creature to retain some perception of its surroundings.
 - **[Zone of Silence](zone-of-silence.md)**: Keeps eavesdroppers from overhearing you.
 
 ## 5th-Level Bard Spells
@@ -220,6 +226,7 @@
 - **[Dream Scan](dream-scan.md)**: Read a dreaming creature’s thoughts.
 - **[Eagle’s Splendor, Mass](eagles-splendor-mass.md)**: As *eagle’s splendor*, affects 1 subject/level.
 - **[Eyebite](eyebite.md)**: Target becomes panicked, sickened, and/or comatose.
+- **[Fey Gate](fey-gate.md)**: Create a portal that allows travel to the First World.
 - **[Find the Path](find-the-path.md)**: Shows most direct way to a location.
 - **[Fox’s Cunning, Mass](foxs-cunning-mass.md)**: As *fox’s cunning*, affects 1 subject/level.
 - **[Geas/Quest](geas-quest.md)**: As *lesser geas,* but affects any creature.
@@ -410,4 +417,3 @@ New spells from the *Advanced Player's Guide*. An M or F after a name marks a ma
 - **[Fool's Forbiddance](fools-forbiddance.md)**: Confuses enemies who come within a magical emanation centered on you.
 - **[Getaway](getaway.md)**: Teleports a group of predetermined allies and creatures to a predetermined location.
 - **[Pied Piping](pied-piping.md)**: Compel similar creatures to follow you.
-

@@ -41,10 +41,12 @@ Bloodragers gain access to the following spells. Spells in plain text come from 
 - **[Shield](shield.md)**: Invisible disc gives +4 to AC, blocks *magic missiles.*
 - **[Shocking Grasp](shocking-grasp.md)**: Touch delivers 1d6/level electricity damage (max 5d6).
 - Shock Shield
+- **[Snowball](snowball.md)**: Throw a conjured ball of snow at a target.
 - **[Stone Fist](stone-fist.md)**: Your unarmed strikes are lethal.
 - Stone Shield
 - Strong Wings
 - **[Sundering Shards](sundering-shards.md)**: Sundered item explodes, dealing 1d6 damage to adjacent creatures.
+- **[Tamer’s Lash](tamers-lash.md)**: Create a whip made of sound that damages foes and can frighten animals.
 - **[Thunderstomp](thunderstomp.md)**: Trip one creature within range.
 - Touch of Combustion
 - **[Touch of Gracelessness](touch-of-gracelessness.md)**: Subject loses 1d6 + 1 Dex/two levels and is prone to falling down.
@@ -94,6 +96,7 @@ Bloodragers gain access to the following spells. Spells in plain text come from 
 - Imbue with Elemental Might
 - **[Mirror Image](mirror-image.md)**: Creates decoy duplicates of you.
 - **[Molten Orb](molten-orb.md)**: Molten metal splash weapon deals 2d6 fire damage plus ongoing damage.
+- **[Pouncing Fury](pouncing-fury.md)**: Make a full attack with your claws after a charge.
 - **[Protection from Arrows](protection-from-arrows.md)**: Subject gains DR 10/magic against ranged attacks.
 - **[Pyrotechnics](pyrotechnics.md)**: Turns fire into blinding light or thick smoke.
 - **[Resist Energy](resist-energy.md)**: Ignores 10 (or more) points of damage/attack from specified energy type.
@@ -108,6 +111,8 @@ Bloodragers gain access to the following spells. Spells in plain text come from 
 - **[Stone Discus](stone-discus.md)**: Flying discus deals bludgeoning or slashing damage.
 - **[Touch of Idiocy](touch-of-idiocy.md)**: Subject takes 1d6 penalty to Int, Wis, and Cha.
 - **[Unshakable Chill](unshakable-chill.md)**: Target is aff licted with severe cold.
+- **[Vine Strike](vine-strike.md)**: Enhance one of your natural or unarmed attacks with thorny vine growth.
+- **[With the Wind](with-the-wind.md)**: Protect a target from being blown away by wind of less than windstorm force.
 
 ## 3rd-Level Bloodrager Spells
 
@@ -123,9 +128,11 @@ Bloodragers gain access to the following spells. Spells in plain text come from 
 - **[Cloak of Winds](cloak-of-winds.md)**: Creates a whirling screen of strong wind around you.
 - **[Countless Eyes](countless-eyes.md)**: Extra eyes give all-around vision.
 - **[Draconic Reservoir](draconic-reservoir.md)**: Subject can absorb energy damage and enhance melee attacks with it.
+- **[Earth Tremor](earth-tremor.md)**: Unleash a tremor that creates difficult terrain and can knock foes down and damage them.
 - **[Elemental Aura](elemental-aura.md)**: Creates an aura of energy around you.
 - **[Eruptive Pustules](eruptive-pustules.md)**: Acid boils burst when you are attacked.
 - **[Excruciating Deformation](excruciating-deformation.md)**: Target takes Dex and Con damage.
+- **[Fey Form I](fey-form-i.md)**: Assume the form of a Small or Medium fey creature.
 - **[Fireball](fireball.md)**: 1d6 damage per level, 20-ft. radius.
 - Firestream
 - Fire Trail
@@ -165,6 +172,7 @@ Bloodragers gain access to the following spells. Spells in plain text come from 
 - **[Vision of Hell](vision-of-hell.md)**: Illusory hellscape makes creatures shaken.
 - **[Water Breathing](water-breathing.md)**: Subjects can breathe underwater.
 - **[Wind Wall](wind-wall.md)**: Deflects arrows, smaller creatures, and gases.
+- **[Wing Thorns](wing-thorns.md)**: Wings sprout poisonous thorns you can attack with.
 
 ## 4th-Level Bloodrager Spells
 
@@ -203,6 +211,8 @@ Bloodragers gain access to the following spells. Spells in plain text come from 
 - **[Slow](slow.md)**: One subject/level takes only one action/round, –1 to AC, Reflex saves, and attack rolls.
 - **[Stoneskin](stoneskin.md)**: Grants DR 10/adamantine.
 - Telekinetic Charge
+- **[Tail Current](tail-current.md)**: Create a current in water to enhance or impede swimming.
+- **[Tailwind](tailwind.md)**: Create a current of wind to enhance or impede flight.
 - **[Touch of Slime](touch-of-slime.md)**: Touch infests a target with green slime.
 - **[Vermin Shape I](vermin-shape-i.md)**: Take the form and some of the powers of a Small or Medium vermin.
 - **[Vitriolic Mist](vitriolic-mist.md)**: As fire shield, except acid damage.
@@ -210,4 +220,5 @@ Bloodragers gain access to the following spells. Spells in plain text come from 
 - **[Wall of Fire](wall-of-fire.md)**: Deals 2d4 fire damage out to 10 ft. and 1d4 out to 20 ft. Passing through wall deals 2d6 damage +1/level.
 - **[Wall of Ice](wall-of-ice.md)**: *Ice plane* creates wall or *hemisphere* creates dome.
 - **[Wall of Sound](wall-of-sound.md)**: Sonic wall def lects and damages creatures.
+- **[Wooden Wing Shield](wooden-wing-shield.md)**: Your wings become a barrier granting a +4 shield bonus to AC.
 - Wreath of Blades

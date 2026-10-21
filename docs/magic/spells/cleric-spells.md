@@ -36,6 +36,7 @@
 - **[Doom](doom.md)**: One subject takes –2 on attack rolls, damage rolls, saves, and checks.
 - **[Endure Elements](endure-elements.md)**: Exist comfortably in hot or cold regions.
 - **[Entropic Shield](entropic-shield.md)**: Ranged attacks against you have 20% miss chance.
+- **[Hidden Spring](hidden-spring.md)**: Discover a temporary spring of fresh, flowing water.
 - **[Hide from Undead](hide-from-undead.md)**: Undead can’t perceive one subject/level.
 - **[Inflict Light Wounds](inflict-light-wounds.md)**: Touch deals 1d8 damage +1/level (max +5).
 - **[Liberating Command](liberating-command.md)**: Target makes an Escape Artist check as an immediate action and gains a bonus on it.
@@ -125,6 +126,7 @@
 - **[Helping Hand](helping-hand.md)**: Ghostly hand leads subject to you.
 - **[Inflict Serious Wounds](inflict-serious-wounds.md)**: Touch attack, 3d8 damage + 1/level (max +15).
 - **[Invisibility Purge](invisibility-purge.md)**: Dispels invisibility within 5 ft./level.
+- **[Iron Stake](iron-stake.md)**: Hurl a spike of cold iron at a foe.
 - **[Locate Object](locate-object.md)**: Senses direction toward object (specific or type).
 - **[Magic Circle against Chaos](magic-circle-against-chaos.md)/[Magic Circle against Evil](magic-circle-against-evil.md)/[Magic Circle against Good](magic-circle-against-good.md)/[Magic Circle against Law](magic-circle-against-law.md)**: As *protection* spells, but 10-ft. radius and 10 min./level.
 - **[Magic Vestment](magic-vestment.md)**: Armor or shield gains +1 enhancement per four levels.
@@ -176,6 +178,8 @@
 - **[Spell Immunity](spell-immunity.md)**: Subject is immune to one spell per 4 levels.
 - **[Summon Monster IV](summon-monster-iv.md)**: Summons extraplanar creature to fight for you.
 - **[Summoner Conduit](summoner-conduit.md)**: The target takes damage whenever its summoned creature does.
+- **[Tail Current](tail-current.md)**: Create a current in water to enhance or impede swimming.
+- **[Tailwind](tailwind.md)**: Create a current of wind to enhance or impede flight.
 - **[Thaumaturgic Circle](thaumaturgic-circle.md)**: As magic circle, but affecting a nonalignment subtype or outsider race.
 - **[Tongues](tongues.md)**: Speak and understand any language.
 - **[Unholy Blight](unholy-blight.md)**: Harms and sickens good creatures (1d8 damage/2 levels).
@@ -213,6 +217,7 @@
 - **[Tongues, Communal](tongues-communal.md)**: As tongues, but you may divide the duration among creatures touched.
 - **[True Seeing](true-seeing.md)**: Lets you see all things as they really are.
 - **[Unhallow](unhallow.md)**: Designates location as unholy.
+- **[Waft](waft.md)**: Targets become light enough to be carried by the wind.
 - **[Wall of Ectoplasm](wall-of-ectoplasm.md)**: Wall of spirits blocks movement on the Material Plane and Ethereal Plane and causes fear.
 - **[Wall of Stone](wall-of-stone.md)**: Creates a stone wall that can be shaped.
 
@@ -278,6 +283,7 @@
 - **[Dimensional Lock](dimensional-lock.md)**: Teleportation and interplanar travel blocked for 1 day/level.
 - **[Discern Location](discern-location.md)**: Reveals exact location of creature or object.
 - **[Earthquake](earthquake.md)**: Intense tremor shakes 80-ft. radius.
+- **[Fey Gate](fey-gate.md)**: Create a portal that allows travel to the First World.
 - **[Fire Storm](fire-storm.md)**: Deals 1d6/level fire damage.
 - **[Frightful Aspect](frightful-aspect.md)**: You take on a terrifying, Large-sized form of yourself and emit an aura that causes creatures to become shaken or frightened.
 - **[Holy Aura](holy-aura.md)**: +4 to AC, +4 resistance, and SR 25 against evil spells.
@@ -289,6 +295,7 @@
 - **[Symbol of Death](symbol-of-death.md)**: Triggered rune kills nearby creatures.
 - **[Symbol of Insanity](symbol-of-insanity.md)**: Triggered rune renders nearby creatures insane.
 - **[Unholy Aura](unholy-aura.md)**: +4 to AC, +4 resistance, and SR 25 against good spells.
+- **[Wandering Weather](wandering-weather.md)**: Control weather in a large area that moves with you.
 
 ## 9th-Level Cleric Spells
 
@@ -480,4 +487,3 @@ New spells from the *Advanced Player's Guide*. An M or F after a name marks a ma
 ### 9th-Level Cleric Spells
 
 - **[Winds of Vengeance](winds-of-vengeance.md)**: Grants flight; attack with wind.
-

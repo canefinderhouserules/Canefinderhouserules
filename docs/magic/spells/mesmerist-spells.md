@@ -55,6 +55,7 @@ Mesmerists gain access to the following spells. Spells without a link come from 
 - **[Disguise Self](disguise-self.md)**: Changes your appearance.
 - **[Disguise Weapon](disguise-weapon.md)**
 - **[Doom](doom.md)**: One subject takes –2 on attack rolls, damage rolls, saves, and checks.
+- **[Echo](echo.md)**: Cause a sound to repeat itself.
 - **[Expeditious Retreat](expeditious-retreat.md)**: Your base speed increases by 30 ft.
 - **[Faerie Fire](faerie-fire.md)**: Outlines subjects with light, canceling *blur*, concealment, and the like.
 - **[Forbid Action](forbid-action.md)**: Target obeys your command to not do something.
@@ -206,6 +207,7 @@ Mesmerists gain access to the following spells. Spells without a link come from 
 
 - **[Adjustable Disguise](adjustable-disguise.md)**
 - Agonizing Rebuke
+- **[Alpha Instinct](alpha-instinct.md)**: Gain bonuses when you’re interacting with animals.
 - **[Analyze Aura](analyze-aura.md)**: Read a creature’s or an object’s alignment, emotion, health, and magic auras.
 - **[Apport Animal](apport-animal.md)**: Send or receive a Tiny or smaller animal via teleportation.
 - **[Aura Alteration](aura-alteration.md)**: Masks a creature’s or an object’s alignment, emotion, health, and magic auras.
@@ -246,6 +248,7 @@ Mesmerists gain access to the following spells. Spells without a link come from 
 - Minor Dream
 - Mythic Severance
 - Nixie’s Lure
+- **[Mirage](mirage.md)**: Create illusory terrain.
 - **[Node of Blasting](node-of-blasting.md)**: Place a trap on an object to mentally damage a creature that touches it.
 - **[Nondetection](nondetection.md)**: Hides subject from divination, scrying.
 - **[Object Possession, Lesser](object-possession-lesser.md)**: Project your soul into an object, animating it.
@@ -324,6 +327,7 @@ Mesmerists gain access to the following spells. Spells without a link come from 
 - **[Thoughtsense](thoughtsense.md)**: Automatically detect nearby conscious creatures.
 - Truespeak
 - **[Utter Contempt](utter-contempt.md)**: Target’s attitude worsens by two categories.
+- **[Vigilant Rest](vigilant-rest.md)**: Cause a sleeping creature to retain some perception of its surroundings.
 - **[Zone of Silence](zone-of-silence.md)**: Keeps eavesdroppers from overhearing you.
 
 ## 5th-Level Mesmerist Spells

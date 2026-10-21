@@ -30,10 +30,13 @@ New alchemist spells from *Ultimate Magic* and *Ultimate Combat*. Spells from ot
 - **[Defensive Shock](defensive-shock.md)**: Electricity damages your attackers.
 - **[Enshroud Thoughts](enshroud-thoughts.md)**: Ward yourself against thought detection and memory alteration.
 - **[Ghostly Disguise](ghostly-disguise.md)**: You look like a ghost of yourself.
+- **[Grasping Vine](grasping-vine.md)**: A vine from your body manipulates objects within 20 ft.
 - **[Kinetic Reverberation](kinetic-reverberation.md)**: Channels the force of an enemy’s attack back into its weapon.
+- **[Pouncing Fury](pouncing-fury.md)**: Make a full attack with your claws after a charge.
 - **[Shadow Bomb Admixture](shadow-bomb-admixture.md)**: Empowers bombs you throw to cover the target with a shadowy substance that grants it concealment and limits its vision.
 - **[Skinsend](skinsend.md)**: Animate and possess your own skin as if it were a separate creature.
 - **[Touch Injection](touch-injection.md)**: You can deliver an infusion, elixir, poison, or potion as a touch attack.
+- **[Vine Strike](vine-strike.md)**: Enhance one of your natural or unarmed attacks with thorny vine growth.
 
 ## 3rd-Level Alchemist Spells
 
@@ -47,6 +50,7 @@ New alchemist spells from *Ultimate Magic* and *Ultimate Combat*. Spells from ot
 - **[Delay Poison, Communal](delay-poison-communal.md)**: As delay poison, but you may divide the duration among creatures touched.
 - **[Endure Elements, Communal](endure-elements-communal.md)**: As endure elements, but you may divide the duration among creatures touched.
 - **[Eruptive Pustules](eruptive-pustules.md)**: Acid boils burst when you are attacked.
+- **[Fey Form I](fey-form-i.md)**: Assume the form of a Small or Medium fey creature.
 - **[Hypercognition](hypercognition.md)**: Rapidly recall everything you know about a subject.
 - **[Lightning Lash Bomb Admixture](lightning-lash-bomb-admixture.md)**: Empowers bombs you throw with a ward that deals lightning damage each time those damaged by the bomb move more than 5 feet.
 - **[Marionette Possession](marionette-possession.md)**: As magic jar, but limited to line of sight.
@@ -56,6 +60,7 @@ New alchemist spells from *Ultimate Magic* and *Ultimate Combat*. Spells from ot
 - **[Resist Energy, Communal](resist-energy-communal.md)**: As resist energy, but you may divide the duration among creatures touched.
 - **[Spider Climb, Communal](spider-climb-communal.md)**: As spider climb, but you may divide the duration among creatures touched.
 - **[Undead Anatomy I](undead-anatomy-i.md)**: Take the form and some of the powers of a Small or Medium undead.
+- **[Wing Thorns](wing-thorns.md)**: Wings sprout poisonous thorns you can attack with.
 
 ## 4th-Level Alchemist Spells
 
@@ -76,8 +81,11 @@ New alchemist spells from *Ultimate Magic* and *Ultimate Combat*. Spells from ot
 - **[Age Resistance, Greater](age-resistance-greater.md)**: Ignore any penalties from venerable age.
 - **[Air Walk, Communal](air-walk-communal.md)**: As air walk, but you may divide the duration among creatures touched.
 - **[Dust Form](dust-form.md)**: You become an incorporeal creature of dust for a short period of time.
+- **[Fey Form II](fey-form-ii.md)**: Assume the form of a Tiny or Large fey creature.
 - **[Languid Bomb Admixture](languid-bomb-admixture.md)**: Empowers bombs you throw to cause fatigue in those directly hit or splashed by the bomb.
 - **[Monstrous Physique III](monstrous-physique-iii.md)**: Take the form and some of the powers of a Diminutive or Huge monstrous humanoid.
+- **[Ooze Form I](ooze-form-i.md)**: Assume the form of a Small or Medium ooze creature.
+- **[Shapechanger’s Gift](shapechangers-gift.md)**: Temporarily change a target into an animal, humanoid, or monstrous humanoid.
 - **[Stoneskin, Communal](stoneskin-communal.md)**
 - **[Undead Anatomy II](undead-anatomy-ii.md)**: Take the form and some of the powers of a Tiny or Large undead.
 - **[Vermin Shape II](vermin-shape-ii.md)**: As vermin shape, but Tiny or Large.
@@ -85,7 +93,9 @@ New alchemist spells from *Ultimate Magic* and *Ultimate Combat*. Spells from ot
 ## 6th-Level Alchemist Spells
 
 - **[Caging Bomb Admixture](caging-bomb-admixture.md)**: Your bombs create a cage of force that traps creatures inside the bomb’s splash radius.
+- **[Fey Form III](fey-form-iii.md)**: Assume the form of a Diminutive or Huge fey creature.
 - **[Monstrous Physique IV](monstrous-physique-iv.md)**: As monstrous physique III, with more abilities.
+- **[Ooze Form II](ooze-form-ii.md)**: Assume the form of a Large ooze creature.
 - **[Undead Anatomy III](undead-anatomy-iii.md)**: Take the form and some of the powers of a Diminutive or Huge undead.
 - **[Walk Through Space](walk-through-space.md)**: You can spend a move action to teleport 30 feet or to stand while prone without provoking attacks of opportunity.
 
@@ -140,4 +150,3 @@ New spells from the *Advanced Player's Guide*. An M or F after a name marks a ma
 ### 6th-Level Alchemist Spells
 
 - **[Twin Form](twin-form.md)**: Creates controllable duplicate of you.
-

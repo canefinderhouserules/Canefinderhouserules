@@ -14,7 +14,9 @@ New antipaladin spells from *Ultimate Magic*. Spells from other books will be ad
 
 ## 2nd-Level Antipaladin Spells
 
+- **[Aquatic Cavalry](aquatic-cavalry.md)**: Summon hippocampi to serve as aquatic mounts.
 - **[Bestow Weapon Proficiency](bestow-weapon-proficiency.md)**: Grants a creature proficiency in a single weapon for short period of time.
+- **[Bleed for Your Master](bleed-for-your-master.md)**: Compel a companion to take damage for you.
 - **[Inflict Pain](inflict-pain.md)**: Target takes a –4 penalty on attack rolls, skill checks, and ability checks.
 - **[Litany of Defense](litany-of-defense.md)**: Doubles armor’s enhancement bonus.
 - **[Litany of Eloquence](litany-of-eloquence.md)**: Fascinates a single creature for 1 round.
@@ -27,6 +29,7 @@ New antipaladin spells from *Ultimate Magic*. Spells from other books will be ad
 - **[Toxic Gift](toxic-gift.md)**: Target suffers the effect of a poison in you.
 - **[Unadulterated Loathing](unadulterated-loathing.md)**: Target is compelled to avoid another creature.
 - **[Vestment of the Champion](vestment-of-the-champion.md)**: Armor or shield gains a +1 enhancement per four levels.
+- **[Vine Strike](vine-strike.md)**: Enhance one of your natural or unarmed attacks with thorny vine growth.
 - **[Widen Auras](widen-auras.md)**: Doubles the range of your antipaladin or paladin auras.
 
 ## 3rd-Level Antipaladin Spells
@@ -38,9 +41,12 @@ New antipaladin spells from *Ultimate Magic*. Spells from other books will be ad
 - **[Litany of Escape](litany-of-escape.md)**: Teleports a friend out of a grapple.
 - **[Litany of Sight](litany-of-sight.md)**: You can see invisible creatures and objects within 30 feet of you.
 - **[Utter Contempt](utter-contempt.md)**: Target’s attitude worsens by two categories.
+- **[Vigilant Rest](vigilant-rest.md)**: Cause a sleeping creature to retain some perception of its surroundings.
+- **[Wing Thorns](wing-thorns.md)**: Wings sprout poisonous thorns you can attack with.
 
 ## 4th-Level Antipaladin Spells
 
+- **[Companion Transposition](companion-transposition.md)**: Swap places with your animal companion, familiar, or spirit animal via teleportation.
 - **[Darkvision, Greater](darkvision-greater.md)**: See 120 ft. in total darkness.
 - **[Foster Hatred](foster-hatred.md)**: Cause creatures to hate one type of creature.
 - **[Inflict Pain, Mass](inflict-pain-mass.md)**: As inflict pain, but affecting one creature per level.
@@ -113,4 +119,3 @@ The complete antipaladin spell list from the *Advanced Player's Guide*, includin
 - **[Resounding Blow](resounding-blow.md)**: Melee attack deals 1d6 more damage.
 - **[Slay Living](slay-living.md)**: Touch attack deals 12d6 +1 per level.
 - **[Summon Monster IV](summon-monster-iv.md)**: (Evil creatures only.) Summons extraplanar creature to fight for you.
-

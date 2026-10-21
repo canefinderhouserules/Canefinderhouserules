@@ -27,6 +27,7 @@
 
 ## 2nd-Level Paladin Spells
 
+- **[Aquatic Cavalry](aquatic-cavalry.md)**: Summon hippocampi to serve as aquatic mounts.
 - **[Bestow Weapon Proficiency](bestow-weapon-proficiency.md)**: Grants a creature proficiency in a single weapon for short period of time.
 - **[Bull’s Strength](bulls-strength.md)**: Subject gains +4 to Str for 1 min./level.
 - **[Delay Poison](delay-poison.md)**: Stops poison from harming subject for 1 hour/level.
@@ -45,6 +46,7 @@
 - **[Protection from Evil, Communal](protection-from-evil-communal.md)**: As protection from evil, but you may divide the duration among creatures touched.
 - **[Remove Paralysis](remove-paralysis.md)**: Frees one or more creatures from paralysis or slow effect.
 - **[Resist Energy](resist-energy.md)**: Ignores 10 or more points of damage per attack from specified energy type.
+- **[Sea Steed](sea-steed.md)**: Your mount adapts to an aquatic environment.
 - **[Shield Other](shield-other.md)**: You take half of subject’s damage.
 - **[Undetectable Alignment](undetectable-alignment.md)**: Conceals alignment from magical detection for 24 hours.
 - **[Widen Auras](widen-auras.md)**: Doubles the range of your antipaladin or paladin auras.
@@ -69,10 +71,13 @@
 - **[Remove Blindness/Deafness](remove-blindness-deafness.md)**: Cures normal or magical blindness or deafness.
 - **[Remove Curse](remove-curse.md)**: Frees object or person from curse.
 - **[Resist Energy, Communal](resist-energy-communal.md)**: As resist energy, but you may divide the duration among creatures touched.
+- **[Sky Steed](sky-steed.md)**: Grant your mount angelic wings.
+- **[Vigilant Rest](vigilant-rest.md)**: Cause a sleeping creature to retain some perception of its surroundings.
 
 ## 4th-Level Paladin Spells
 
 - **[Break Enchantment](break-enchantment.md)**: Frees subjects from enchantments, transmutations, and curses.
+- **[Companion Transposition](companion-transposition.md)**: Swap places with your animal companion, familiar, or spirit animal via teleportation.
 - **[Cure Serious Wounds](cure-serious-wounds.md)**: Cures 3d8 damage + 1/level (max +15).
 - **[Death Ward](death-ward.md)**: Grants bonuses against death spells and negative energy.
 - **[Dispel Chaos](dispel-chaos.md)**: +4 bonus against attacks by chaotic creatures.
@@ -84,6 +89,7 @@
 - **[Mark of Justice](mark-of-justice.md)**: Designates action that triggers *curse* on subject.
 - **[Neutralize Poison](neutralize-poison.md)**: Immunizes subject against poison, detoxifies venom in or on subject.
 - **[Restoration](restoration.md)**: Restores level and ability score drains.
+- **[Sea Stallion](sea-stallion.md)**: You and your mount adapt to an aquatic environment.
 
 ## Ultimate Magic Spells
 
@@ -169,4 +175,3 @@ New spells from the *Advanced Player's Guide*. An M or F after a name marks a ma
 - **[Resounding Blow](resounding-blow.md)**: Melee attack deals 1d6 more damage.
 - **[Sacrificial Oath](sacrificial-oath.md)**: Take damage for an ally for many rounds.
 - **[Stay the Hand](stay-the-hand.md)**: Subject cannot attack with melee weapon.
-

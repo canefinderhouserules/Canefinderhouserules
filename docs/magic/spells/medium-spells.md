@@ -48,6 +48,7 @@ Mediums gain access to the following spells. Spells without a link come from oth
 - **[Disguise Self](disguise-self.md)**: Changes your appearance.
 - **[Disguise Weapon](disguise-weapon.md)**
 - **[Ear-Piercing Scream](ear-piercing-scream.md)**: Deal sonic damage and daze target.
+- **[Echo](echo.md)**: Cause a sound to repeat itself.
 - **[Enlarge Person](enlarge-person.md)**: Humanoid creature doubles in size.
 - **[Expeditious Retreat](expeditious-retreat.md)**: Your base speed increases by 30 ft.
 - **[Heightened Awareness](heightened-awareness.md)**: Your recall and ability to process information improve.
@@ -88,6 +89,7 @@ Mediums gain access to the following spells. Spells without a link come from oth
 ## 2nd-Level Medium Spells
 
 - **[Aid](aid.md)**: +1 on attack rolls and saves against fear, 1d8 temporary hp +1/level (max +10).
+- **[Alpha Instinct](alpha-instinct.md)**: Gain bonuses when you’re interacting with animals.
 - **[Alter Self](alter-self.md)**: Assume form of a Small or Medium humanoid.
 - **[Analyze Aura](analyze-aura.md)**: Read a creature’s or an object’s alignment, emotion, health, and magic auras.
 - **[Apport Object](apport-object.md)**: Send or receive a small object via teleportation.
@@ -215,6 +217,7 @@ Mediums gain access to the following spells. Spells without a link come from oth
 - **[Planar Ally, Lesser](planar-ally-lesser.md)**: Exchange services with a 6 HD extraplanar creature.
 - **[Possession](possession.md)**: Project your soul into a creature’s body.
 - **[Remove Curse](remove-curse.md)**: Frees object or person from curse.
+- **[Replay Tracks](replay-tracks.md)**: Reconstruct past events from a set of tracks.
 - **[Retrocognition](retrocognition.md)**: Gain psychic impressions from past events in a location.
 - **[Scrying](scrying.md)**: Spies on subject from a distance.
 - **[Sending](sending.md)**: Delivers short message anywhere, instantly.
@@ -222,6 +225,7 @@ Mediums gain access to the following spells. Spells without a link come from oth
 - **[Summon Monster IV](summon-monster-iv.md)**: (Evil creatures only.) Summons extraplanar creature to fight for you.
 - **[Thaumaturgic Circle](thaumaturgic-circle.md)**: As magic circle, but affecting a nonalignment subtype or outsider race.
 - **[Vampiric Touch](vampiric-touch.md)**: Touch deals 1d6 damage/2 levels; caster gains damage as temporary hp.
+- **[Vigilant Rest](vigilant-rest.md)**: Cause a sleeping creature to retain some perception of its surroundings.
 - **[Witness](witness.md)**: See through the target’s eyes and ears.
 
 ## 4th-Level Medium Spells

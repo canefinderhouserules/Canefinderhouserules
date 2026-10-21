@@ -73,6 +73,7 @@ Psychics gain access to the following spells. Spells without a link come from ot
 - **[Disguise Self](disguise-self.md)**: Changes your appearance.
 - **[Disguise Weapon](disguise-weapon.md)**
 - **[Ear-Piercing Scream](ear-piercing-scream.md)**: Deal sonic damage and daze target.
+- **[Echo](echo.md)**: Cause a sound to repeat itself.
 - **[Endure Elements](endure-elements.md)**: Exist comfortably in hot or cold regions.
 - **[Enlarge Person](enlarge-person.md)**: Humanoid creature doubles in size.
 - **[Entropic Shield](entropic-shield.md)**: Ranged attacks against you have 20% miss chance.
@@ -372,6 +373,7 @@ Psychics gain access to the following spells. Spells without a link come from ot
 - **[Mindscape Door](mindscape-door.md)**: Create a portal allowing entry to and exit from a mindscape.
 - Minor Dream
 - Nixie’s Lure
+- **[Mirage](mirage.md)**: Create illusory terrain.
 - **[Node of Blasting](node-of-blasting.md)**: Place a trap on an object to mentally damage a creature that touches it.
 - **[Nondetection](nondetection.md)**: Hides subject from divination, scrying.
 - **[Object Possession, Lesser](object-possession-lesser.md)**: Project your soul into an object, animating it.
@@ -523,6 +525,7 @@ Psychics gain access to the following spells. Spells without a link come from ot
 - **[True Form](true-form.md)**: Removes polymorph effects.
 - **[Unbearable Brightness](unbearable-brightness.md)**
 - Vomit Twin
+- **[Vigilant Rest](vigilant-rest.md)**: Cause a sleeping creature to retain some perception of its surroundings.
 - **[Wall of Blindness/Deafness](wall-of-blindness-deafness.md)**
 - **[Wandering Star Motes](wandering-star-motes.md)**: Outlines subject and produces light as a sunrod.
 - Water Walk, Communal
@@ -583,6 +586,7 @@ Psychics gain access to the following spells. Spells without a link come from ot
 - **[Psychic Asylum](psychic-asylum.md)**: Perform a lengthy mental task in a private mindscape.
 - **[Psychic Crush I](psychic-crush-i.md)**: Sicken a target and cause it to start dying, or deal 3d6 + 1 points of damage per level on a save.
 - **[Remote Viewing](remote-viewing.md)**: Gain psychic impressions from a distant location.
+- **[Replay Tracks](replay-tracks.md)**: Reconstruct past events from a set of tracks.
 - **[Retrocognition](retrocognition.md)**: Gain psychic impressions from past events in a location.
 - **[Secret Chest](secret-chest.md)**: Hides expensive chest on Ethereal Plane; you retrieve it at will.
 - **[Seeming](seeming.md)**: Changes appearance of 1 person per 2 levels.
