@@ -16,7 +16,7 @@ Occult rituals allow any character to attempt magic at great risk. As with the o
 **Duration** instantaneous; see text  
 **Saving Throw** Will negates; SR yes  
 **Backlash** The primary caster can’t form short-term memories for the next 24 hours.  
-**Failure** The primary caster must succeed at a Will save or suffer the effects of the amnesia greater madness. The amnesia lasts until removed, but can’t be removed, even by magic, until 2d6 days have passed.  
+**Failure** The primary caster must succeed at a Will save or suffer the effects of the amnesia [greater madness](../horror/madness.md). The amnesia lasts until removed, but can’t be removed, even by magic, until 2d6 days have passed.  
 
 **Effect**: The casters weave the target’s name into a chant of nonsense rhyming stories for 6 hours, as they slowly extract the target’s memories into the urn as a purple mist. The target loses all but the first class level she ever gained (if any; this ritual doesn’t affect racial hit dice), immediately reducing or removing all level-dependent abilities as if the target were a 1st-level character. In addition to the loss of her class levels, the target suffers from total amnesia of the time in which she accrued those levels. The target can gain experience and accrue new levels, though she must adhere to all the same decisions she made previously with her missing levels (class, archetype, skills, feats, and so on), even if she can’t explain why she now makes such decisions. In some cases, she might do so without meeting the requirements, such as if her amnesia blocked an alignment change and she gained levels in a class with an alignment restriction she no longer met; in this case, she would gain the abilities but retain only those she would have as an ex-member of the class. The rule that she must adhere to all previous decisions has one exception: if the target is a psychic, she can gain the amnesiac archetype (*Occult* *Adventures* 104), as long as she could otherwise take it.
 
@@ -88,7 +88,7 @@ When the primary caster’s eyes are closed, she sees through the eyes of the ta
 
 **Effect**: The casters grind the organs into paste and use it to paint their lips and tongue. Anointed by madness, they chant profane blasphemies into the focus brain, causing it to throb and glow. The primary caster releases this energy as a foul sludge, which trickles onto the other focus before seeping into the paper or paint. A successful ritual corrupts the targeted piece of art, planting a metaphysical seed into it, which propagates itself into any copies of the work later created based on the corrupted original; this includes book copies or matched painting duplicates, but not art, literature, or music that is merely derivative. A living creature subjected to the seeded piece of art, typically by hearing or seeing it, must succeed at a Will save or be afflicted by the seed (SR applies).
 
-By default, the seed causes *insanity* or a madness, but numerous types of seeds exist, from different variants on this ritual with slightly different components, foci, and ritual DC. A few examples include becoming blind or deaf, contracting a disease, or rising as a zombie after death.
+By default, the seed causes *insanity* or a [madness](../horror/madness.md), but numerous types of seeds exist, from different variants on this ritual with slightly different components, foci, and ritual DC. A few examples include becoming blind or deaf, contracting a disease, or rising as a zombie after death.
 
 ## Horror and Ritual Failures
 
