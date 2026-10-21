@@ -589,3 +589,17 @@ Harbingers of decay, rot wardens live in damp lands where insects and rot break 
 **Wild Shape**: A rot warden gains this ability at 6th level, except his effective druid level is his druid level – 2. He cannot take the form of an elemental.
 
 At 8th level, a rot warden can assume the form of a Small or Medium vermin as if using vermin shape IUM. At 10th level, the rot warden can assume the shape of a Tiny or Large vermin as if using vermin shape IIUM. At 12th level, he can take the form of a Huge vermin as if using vermin shape III. This alters wild shape.
+
+## Green Faith Initiate
+
+Druids who are initiated into the magic of nature as strict students of the Green Faith’s traditions sometimes demonstrate abilities unique to their organization.
+
+**Mediator’s Ear (Ex)**: By 3rd level, a Green Faith initiate is respected for her neutrality and even-handed attitude toward all people as well as other living things. She quickly develops a sense of other peoples’ attitudes, much as she does with animals. A Green Faith initiate gains a bonus on Diplomacy and Sense Motive checks equal to half her druid level. This replaces trackless step.
+
+**Zephyr Message (Sp)**: At 6th level, once per day, a Green Faith initiate can cast whispering wind as a spell-like ability, treating her druid level as her caster level. This replaces the druid’s additional daily use of wild shape gained at 6th level.
+
+**Path to Refuge (Sp)**: At 9th level, once per day, a Green Faith initiate can travel as if with transport via plants to any major Green Faith druid circle or important holy site. Each of these sites is marked with special standing stones that allow all Green Faith followers within range using transport via plants or tree stride to sense their distance from it and the direction to it. At 14th level and again at 19th level, she can use this ability one additional time per day. This replaces venom immunity.
+
+**Secrets across Lifetimes (Sp)**: At 10th level, a Green Faith initiate can use legend lore once per week as a spell-like ability, drawing upon the knowledge of Green Faith archdruids recorded in secret across the generations in places where magic such as this can retrieve it. This ability does not require material components. This replaces the druid’s additional daily use of wild shape gained at 10th level.
+
+**A Thousand Voices (Su)**: At 13th level, a Green Faith initiate can communicate with any creature that has a language or with any stone, as if using tongues or stone tell, respectively, for up to 1 minute per druid level each day. This duration does not need to be consecutive, but it must be spent in 1-minute increments. This replaces a thousand faces.

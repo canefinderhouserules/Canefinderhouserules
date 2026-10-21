@@ -404,3 +404,15 @@ When pursuing justice for their faith, inquisitors sometimes hunt sorcerers, wit
 **Witch’s Bane Judgment (Ex)**: At 14th level, a witch hunter gains the following judgment.
 
 **Witch’s Bane**: Any creature that casts an arcane spell within 30 feet of the witch hunter takes a –2 penalty to AC against her attacks and a –2 penalty on saving throws against her spells while this judgment remains in effect. This ability replaces exploit weakness.
+
+## Green Faith Marshal
+
+The Green Faith marshal serves as a literal force of nature, hunting down and punishing those who have committed sins against nature through enslavement and mistreatment of animals or destruction of wild places.
+
+**Power of Nature**: A Green Faith marshal gains one domain selected from the animal and terrain domains. The 1st-though 6th-level bonus spells from this domain are added to the Green Faith marshal’s spell list. This alters the inquisitor’s domain ability and replaces stern gaze.
+
+**Wild Lore (Ex)**: A Green Faith marshal adds her Wisdom modifier to her Knowledge (nature) skill checks, in addition to her Intelligence modifier. This replaces monster lore.
+
+**Nature’s Ally (Sp)**: At 5th level, a Green Faith marshal gains the ability to cast commune with nature once per week. This replaces discern lies.
+
+**Wild Step (Ex)**: At 11th level, a Green Faith marshal can move through any sort of naturally occurring difficult terrain (such as natural thorns, briars, overgrown areas, and similar terrain) at her normal speed without taking damage or suffering any other impairment. Terrain that is enchanted or magically manipulated to impede motion still affects her. This replaces stalwart.
