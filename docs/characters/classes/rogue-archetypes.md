@@ -761,3 +761,41 @@ Dark lurkers use darkness as an ally. They are widely feared in many major metro
 **Instinctual Sense (Ex)**: At 20th level, a dark lurker gains blindsight with a range of 30 feet. This ability replaces the rogue talent gained at 20th level.
 
 **Rogue Talents**: The following rogue talents complement the dark lurker archetype: befuddling strike, fast getaway, fast stealth, opportunist, sniper's eye, and surprise attack, as well as the new talents eerie disappearance, false attacker, and pierce the darkness.
+
+## Kidnapper
+
+Some peoples are slavers and demon worshipers who hide in thick jungles and quickly subdue their prey. A kidnapper is not only adept at hiding herself and tying up captives, but also at spreading rumors of hidden ruins, buried treasure, and other such valuables that might lure an unwary foreigner into her traps.
+
+**Clean Capture (Ex)**: At 1st level, a kidnapper reduces the penalty to her combat maneuver check to tie up a pinned or otherwise restrained target by an amount equal to 1/2 her rogue level. In addition, she can take the feats Improved Grapple and Greater Grapple as rogue talents. She can ignore the Improved Unarmed Strike requirement when selecting these feats as rogue talents, but must meet all other prerequisites. This ability replaces trapfinding.
+
+**Abductor (Ex)**: At 3rd level, a kidnapper gains a +1 bonus on combat maneuver checks to grapple a foe. In addition, the kidnapper treats her combat maneuver bonus as 1 higher when a foe tries to grapple her or when a grappled target attempts to break free of her grapple. These bonuses increase by 1 for every 3 levels beyond 3rd. This ability replaces trap sense.
+
+**Rogue Talents**: The following rogue talents complement the kidnapper archetype: black market connections, camouflage, combat trick, rope master, survivalist, and terrain mastery.
+
+**Advanced Talents**: The following advanced rogue talents complement the kidnapper archetype: crippling strike, hide in plain sight, knock-out blow, rumormonger, and weapon snatcher.
+
+## Port Rebel
+
+In a thriving international port far from the seat of a rigid and bureaucratic empire, rebellion against the law comes easily. This rebellion is hardly malicious in intent; business is simply easier without the imposing bureaucracy. Whenever the imperial navy sails into port, these rebels are quick to appear agreeably subservient in order to conceal their noncompliance and avoid retribution.
+
+**Sophisticated Stealth (Ex)**: At 3rd level, a port rebel gains a +1 bonus on Knowledge (nobility) checks. In addition, she gains a +1 bonus on Bluff checks to convey a secret message and on Sense Motive checks to discern secret messages. These bonuses increase by 1 every 3 rogue levels thereafter. This ability replaces trap sense.
+
+**Misdirection (Sp)**: At 4th level, a port rebel gains the ability to cast *misdirection* on herself once per day, though instead of choosing an object for the second target, she must choose a creature in range. The caster level for this ability is equal to her class level, and the save DC for this spell is 12 + the port rebel's Intelligence modifier. The save DC of this ability increases by 1 if the secondary target is lawful or evil. This ability replaces uncanny dodge.
+
+**Rogue Talents**: The following rogue talents complement the port rebel archetype: canny observer, charmer, false friend, fast getaway, honeyed words, obfuscate story, and quick disguise.
+
+**Advanced Talents**: The following advanced rogue talents complement the port rebel archetype: hard to fool, master of disguise, skill mastery, slippery mind, and thoughtful reexamining.
+
+## Slave Liberator
+
+The sight of slaving ships approaching a coast signals terror for most. Some freedom fighters actually endeavor to be captured, knowing that being taken in manacles to the slavers' stronghold is the easiest way to infiltrate it, liberate other slaves, and lead them to freedom.
+
+**Bond Breaker (Ex)**: A slave liberator adds 1/2 her class level to Escape Artist checks, and never takes a penalty on Disable Device checks when using improvised tools to open locks. This ability replaces trapfinding.
+
+**Covert Commander (Ex)**: A slave liberator grants all allies within 30 feet who are in her line of sight (but not herself) a +1 competence bonus on Disguise and Stealth checks. This bonus increases by 1 for every 3 levels beyond 3rd. This ability replaces trap sense.
+
+**Catch Off-Guard (Ex)**: At 4th level, the slave liberator is adept at improvising weapons. She gains Catch Off-Guard as a bonus feat. This ability replaces uncanny dodge.
+
+**Rogue Talents**: The following rogue talents complement the slave liberator archetype: deft palm, fast picks, fast stealth, quick disguise, slow reactions, and underhanded.
+
+**Advanced Talents**: The following advanced rogue talents complement the slave liberator archetype: defensive roll, fast tumble, knock-out blow, skill mastery, and weapon snatcher.

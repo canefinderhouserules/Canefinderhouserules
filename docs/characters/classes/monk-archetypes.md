@@ -755,3 +755,47 @@ This ability replaces the diamond body ability, and it replaces the ki power gai
 **Hone Soul (Su)**: At 13th level, a disciple of wholeness can dispel a spell affecting a living creature by touching it as a standard action and spending 1 point from her ki pool. This power functions like the targeted dispel option of *greater dispel magic*, with the caster level equal to the disciple of wholeness’s monk level.
 
 This ability replaces the diamond soul ability, and it replaces the ki power gained at 14th level for an unchained monk (and an unchained monk cannot gain the diamond soul ki power).
+
+## Barbed Fist Master
+
+An order of monks dedicated to emulating the painful strikes of the barbed devil leaves targets alive but permanently scarred and broken by pain. The monks train equally hard to resist their own techniques, and nearly all revere a god of tyranny.
+
+**Alignment**: A barbed fist master must be lawful neutral or lawful evil.
+
+**Bonus Feats**: A barbed fist master replaces the normal monk bonus feats with the following: Deflect Arrows, Dodge, Exotic Weapon Proficiency, Improved Grapple, Intimidating Prowess, Scorpion Style, or Weapon Focus. At 6th level, the following feats are added to the list: Gorgon's Fist, Improved Sunder, Mobility, Power Attack. At 10th level, the following feats are added to the list: Critical Focus, Impaling Critical (unarmed strike), Improved Critical, Medusa's Wrath, Snatch Arrows. At 14th level, the following feat is added to the list: Improved Impaling Critical. Anytime a barbed fist master would gain a bonus feat, she can instead choose to gain two additional uses of stunning fist per day.
+
+**Stunning Fist (Ex)**: A barbed fist master expands the conditions that she can apply to the target of her stunning fist beyond merely stunning her target. At 4th level, she can choose to make the target shaken for 1 minute. At 8th level, she can choose to deal 1d10 points of nonlethal bleed damage. At 12th level, she can choose to make the target frightened for 1d3 rounds. At 16th level, she can deal 2d12 points of nonlethal bleed damage. The shaken and frightened conditions allow the target to attempt a Will save to negate the effect instead of a Fortitude save. This ability otherwise functions as normal for a monk of her level.
+
+**Ki Pool (Su)**: By spending 1 point from her ki pool as a swift action, a barbed fist master can make one additional attack at her highest attack bonus when making a flurry of blows attack. Alternatively, she can spend 1 ki point as a swift action to gain one additional use of her stunning fist ability that round, though this does not grant her an additional attack. Finally, as an immediate action, a barbed fist master can spend 1 ki point to make a single melee attack with a +2 bonus against a creature that has damaged her with a natural melee attack, unarmed strike, or weapon without the reach property. This ability otherwise functions as normal for a monk of her level.
+
+**Infernal Resilience (Ex)**: At 5th level, a barbed fist master gains immunity to all spells, spell-like abilities, and effects with the pain descriptor, as well as a +2 bonus on saving throws against effects that would sicken, nauseate, stagger, or stun her. This ability replaces purity of body.
+
+## Monk of the Desert Wind
+
+Monasteries founded as a challenge to prospective students to travel great distances and prove their devotion before training within their walls often change hands, and original forms of training are lost to history. In their place, the monks of an isolated sanctuary may teach a style featuring lightning-fast strikes that mimic both dervish dances and the searing winds of the arid desert, favoring mobility and endurance.
+
+**Bonus Feats**: A monk of the desert wind loses the ability to take Improved Disarm, Improved Feint, Improved Grapple, and Improved Trip as bonus feats. He adds Nimble Moves to his list of bonus feats. At 6th level, he also adds Acrobatic Steps and Wind Stance to his list of bonus feats. At 10th level, he adds Lightning Stance to his list of bonus feats.
+
+**Lightning Finish (Ex)**: At 1st level, as an immediate action, a monk of the desert wind can make a single attack with a manufactured light or one-handed slashing weapon he is currently wielding against any target he has successfully hit at least twice with his unarmed strike during his turn. This attack deals normal damage but without the normal Strength bonus to damage.
+
+At 4th level, he can take a 5-foot step before or after performing a lightning finish so long as he ends adjacent to his target, though if he takes this step, he cannot perform a 5-foot step during his next turn. At 8th level, he applies his full Strength bonus to his damage roll for the extra attack, even if he made the attack with an off-hand weapon or with a weapon wielded in two hands. At 12th level, if he hit the target at least three times with his unarmed strike during his turn, taking the 5-foot step granted by lightning finish does not prevent him from taking a 5-foot step during his next turn.
+
+A monk of the desert wind can use this ability a number of times per day equal to his monk level, but no more than once per round. This ability replaces stunning fist.
+
+**Endurance (Ex)**: At 3rd level, a monk of the desert wind gains Endurance as a bonus feat. This ability replaces maneuver training.
+
+**Sirocco Fury (Su)**: At 12th level, a monk of the desert wind can spend 2 ki points as a full-round action to enter a meditative trance that replicates the spell *dance of a hundred cuts*, using his monk level as his caster level. Unlike the spell, a monk of the desert wind must both move 10 feet and make a melee attack each round after he begins this trance to prevent the effect from ending. At 15th level, he can instead spend 3 ki points when using this ability to make his trance replicate *dance of a thousand cuts* with the same limitations. This ability replaces abundant step and quivering palm.
+
+## Wandering Ascetic (Dwarf)
+
+Ascetic, desert-dwelling dwarves eschew dwarven traditions, whose unchanging rigidity, they believe, shackles their people to the past and inhibits self-improvement. Shaving their heads, living under the open sky, and practicing arts unfamiliar to the typical dwarf, they aspire to awaken the divine essence that lives within each creature.
+
+**Awaken Divinity (Su)**: At 1st level, as a standard action, a wandering ascetic can touch a creature to grant it a temporary ki point until the beginning of the ascetic's next turn. In addition to any other ways in which the target can use ki, it can expend the ki point as a swift action in order to either gain a +2 dodge bonus to AC for 1 round or increase its base speed by 20 feet for 1 round. The ascetic can target himself with this ability as a swift action, but doing so costs 2 uses of the ability.
+
+At 4th level, the dodge bonus to AC increases to +4. At 8th level, an affected creature can spend the ki point to ignore all Strength, Dexterity, and Constitution penalties it would otherwise take for 1 round. At 12th level, an ascetic can target two adjacent creatures with this ability as a standard action, but must expend one use of the ability for each target affected. At 16th level, an affected creature can spend this ki point to roll all saving throws twice and take the higher result for 1 round. At 20th level, an affected creature can spend the ki point to benefit from the ascetic's perfect self class ability for 1 round. If the creature already has the perfect self class feature, its damage reduction and any spell resistance it has increases by 2 for 1 round.
+
+A wandering ascetic can use this ability a number of times per day equal to his class level, but no more than once per round. This ability replaces the stunning fist monk class feature and the greed and hatred racial traits.
+
+**Spurn Tradition (Ex)**: Wandering ascetics strive to separate themselves from the rest of their race and the traditions that bind them. The bonuses for nonmagical effects that target or specifically affect dwarf subtype creatures (such as a ranger's favored enemy class feature) are all reduced by half. In addition, a wandering ascetic becomes proficient in one martial weapon with the monk property. This ability replaces the dwarf's defensive training, stonecunning, and weapon familiarity racial traits.
+
+**Know the Unseen Disciples (Su)**: At 7th level, a wandering ascetic can spot hidden creatures, as if using the spell *see invisibility*. Using this ability is a standard action that consumes 2 points from his ki pool. His caster level for this effect is equal to his class level. This ability replaces wholeness of body.

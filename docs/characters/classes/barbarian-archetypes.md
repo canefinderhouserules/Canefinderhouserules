@@ -701,3 +701,33 @@ Though named for the wild savages who fight alongside rabid dogs, mad dogs emplo
 **Throat Cutter (Ex)**: At 14th level, whenever her war beast succeeds at a bull rush, drag, grapple, overrun or trip combat maneuver against an opponent threatened by the mad dog, a mad dog can take an attack of opportunity against that opponent. This ability replaces indomitable will.
 
 **Rage Powers**: The following rage powers complement the mad dog archetype: animal fury, beast totem, bestial leaper, primal scent, raging leaper, reckless abandon, scent, sprint, swift foot and terrifying howl, as well as ferocious beast and greater ferocious beast (see New Rage Powers).
+
+## Burn Rider
+
+Tribes who live in lands plagued by deadly firestorms may turn those storms into a rite of passage. A few who survive the experience begin to embrace the adrenaline and surge of joy that comes from dancing along the edge of a whirling firestorm. These thrill-seekers are known as burn riders. Burn riders learn early on that speed and lightning-quick reactions are essential to avoid becoming trapped by the fickle whims of a raging firestorm. They have an uncanny understanding of fire and can read the currents in the smoke.
+
+**Flame Runner (Ex)**: At 1st level, once per rage, a burn rider can goad her mount into a burst of incredible speed. The mount's speed increases by 10 feet until the end of the burn rider's turn. This bonus to speed increases by 10 feet at 9th level and again at 15th level. This ability replaces fast movement.
+
+**Cinder Sight (Ex)**: At 2nd level, a burn rider can see through fire, fog, and smoke without penalty as long as the light is sufficient to allow her to see normally. This ability replaces uncanny dodge.
+
+**Cinder Dance (Ex)**: At 3rd level, when a burn rider succeeds at a Reflex save to avoid fire damage, she can spend an immediate action to move up to half her speed. If the burn rider ends this movement outside the area of effect, she takes no damage from the effect. After this sudden movement, the burn rider is staggered until the end of her next turn. If the burn rider is mounted, her mount makes the movement instead, and both the mount and the burn rider are staggered until the end of the burn rider's next turn. This ability replaces trap sense.
+
+**Mount**: At 4th level, a burn rider gains a loyal mount. This ability functions like the druid's animal companion ability (as described in the nature bond class feature), except that the burn rider always gains a horse or pony (though she can gain additional options at the GM's discretion) and her effective druid level is equal to her burn rider level – 3. This ability replaces the rage powers gained at 4th, 8th, 12th, and 16th level.
+
+**Give Me Fire (Ex)**: At 5th level, if a burn rider takes fire damage while raging, she regains 1 round of rage. The burn rider regains the round of rage only if the fire damage bypasses or exceeds any energy resistance or other protections in effect. The burn rider can only regain 1 round of rage per round. This ability replaces improved uncanny dodge.
+
+**Rage Powers**: The following rage powers complement the burn rider archetype: elemental rage, energy resistance, ferocious mount, ferocious trample, increased damage reduction, low-light vision, night vision, renewed vigor, scent, spirit steed, sprint, and swift foot.
+
+## Jungle Rager
+
+More "civilized" folk sometimes scoff at the people of dense jungles, dismissing them as primitives with inferior technology. Although some tribes do rely on wood and bone over metal, their greatest advantage comes from mastery of the terrain. A jungle rager can disappear from sight, strike from hiding, and use the environment to shield herself from harm.
+
+**Home Ground Advantage (Ex)**: At 2nd level, a jungle rager learns how to make optimal use of natural cover. She chooses a specific terrain type from the ranger list of favored terrains. When in this terrain, she increases her bonus to AC and on Reflex saving throws gained from cover, partial cover, and improved cover (but not soft cover) by 1. In this terrain, she also increases the miss chance caused by concealment for attacks against her by 5%. This ability replaces uncanny dodge.
+
+**Jungle Endurance (Ex)**: At 3rd level, a jungle rager gains a +1 bonus on Fortitude saves to resist the effects of hot weather and diseases. This bonus increases by 1 every 3 barbarian levels after 3rd. This ability replaces trap sense.
+
+**Home Ground Supremacy (Ex)**: At 5th level, a jungle rager becomes even more capable when navigating and fighting in her preferred terrain. She gains the woodland stride ranger ability, though this ability works only in the terrain she selected for the home ground advantage ability. In this terrain, she gains an additional +1 bonus to AC when benefiting from cover or improved cover (but not soft cover). This ability replaces improved uncanny dodge.
+
+**Damage Reduction (Ex)**: A jungle rager gains this ability at 8th level, except her effective barbarian level for the ability is equal to her barbarian level – 1. In addition, this damage reduction is doubled against damage dealt by creatures with the swarm subtype. This ability otherwise functions as the barbarian ability of the same name.
+
+**Rage Powers**: The following rage powers complement the jungle rager archetype: animal fury, bestial climber, hive totem, internal fortitude, low-light vision, night vision, raging climber, scent, sharpened accuracy, and surprise accuracy.

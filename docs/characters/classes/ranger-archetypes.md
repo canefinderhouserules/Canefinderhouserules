@@ -860,3 +860,27 @@ Veteran archers maintain a strong tradition of archery developed by soldiers in 
 **Pinpoint Targeting (Ex)**: At 11th level, a veteran archer gains Pinpoint Targeting as a bonus feat, even if he does not meet its prerequisites. This replaces quarry.
 
 **Quarry (Ex)**: At 19th level, a veteran archer gains the quarry class feature. This ability replaces improved quarry.
+
+## Demonslayer
+
+Where a demon lord has taken residence in a great forest, nearby elves may drive the fiend into a corrupted corner of the wood and spend generations battling to keep the corruption from spreading. Though they are sworn foes of the demon lord and his kin, demonslayers are known to venture forth to broaden their expertise in the destruction of demons.
+
+**Skills**: Demonslayers gain Knowledge (planes) as a class skill.
+
+**Favored Enemy (Ex)**: At 1st level, a demonslayer must choose favored enemy (evil outsider). At 5th level and every time he advances his favored enemy bonus, the demonslayer must advance his bonus against evil outsiders. In addition to the normal benefits of favored enemy, a demonslayer gains a bonus equal to 1/2 his favored enemy bonus on saving throws against spells, spell-like abilities, and supernatural abilities of evil outsiders. This ability is otherwise identical to and replaces the favored enemy ranger class ability.
+
+**Demonologist (Ex)**: At 3rd level, a demonslayer gains insight into his Abyssal enemies. The demonslayer gains a bonus equal to 1/2 his class level on Knowledge (planes) checks that relate to demons, Perception checks to pierce a demon's disguise, and Survival checks while tracking demons. This bonus stacks with any bonuses from favored enemy. This ability replaces endurance.
+
+**Expanded Spell List**: A demonslayer adds the following spells to his spell list: 1st—*protection from evil*; 2nd—*align weapon*, *magic circle against evil*; 4th—*dimensional anchor*, *dismissal*.
+
+**Fiendish Quarry (Su)**: At 11th level, when a demonslayer chooses an evil outsider as his quarry, he can forgo the normal +2 attack bonus and instead treat his weapon as if it were good-aligned versus his quarry. This ability is otherwise identical to quarry and replaces that ability.
+
+**Improved Fiendish Quarry (Su)**: At 19th level, when a demonslayer chooses an evil outsider as his quarry, he can forgo the normal +4 attack bonus and instead treat his weapon as if it had the *holy* weapon special ability while attacking his quarry. This ability is otherwise identical to improved quarry and replaces that ability.
+
+## Hippogriff Marine
+
+Elite military academies may teach their students the handling and riding of hippogriffs, the iconic mounts of the company's marines.
+
+**Hippogriff Companion**: At 2nd level, a hippogriff marine adds Monstrous Mount (see [Monstrous Mounts](../../rules/combat/monstrous-mounts.md)) to the list of bonus feats made available to him by his chosen combat style, regardless of the style chosen. He can only use this feat to select a hippogriff mount. If he does so, he treats his ranger level – 1 as his effective druid level. A marine who takes this option does not gain the hunter's bond class feature at 4th level.
+
+At 6th level, a hippogriff marine adds Monstrous Mount Mastery to the list of available bonus feats granted by his chosen combat style. If he takes this feat as his 6th-level combat style bonus feat, note that he must wait until 8th level before he meets the effective druid level prerequisite to utilize his mount's mastery abilities.

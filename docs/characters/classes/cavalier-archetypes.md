@@ -501,3 +501,53 @@ Constables keep order in the narrow streets and dark alleys of settlements.
 **Instant Order (Ex)**: At 11th level, a constable can bark an order to an ally within 30 feet as a standard action. That ally can instantly take a single move or standard action to comply with the order. Taking the action dazes the ally for 1 round afterward. At 20th level, the constable can use this ability as a move action, but no more than once per round. This ability replaces mighty charge and supreme charge.
 
 **Greater Badge (Ex)**: At 14th level, a constable can hold his badge aloft as a standard action to inspire his allies to be steadfast. All allies within 30 feet gain a number of temporary hit points equal to twice the constable's cavalier level for 10 minutes. A given ally can benefit from this ability only once per day. This ability replaces greater banner.
+
+## Desert Horselord
+
+Much like the breed of horses they ride, desert horselords pride themselves on their mobility and endurance. While horselords don't command the same presence as a host of heavy cavalry, they can get to the battle in half the time and on a third of the rations. In battle, horselords are skirmishers, ducking in and out of combat with brutal, precise slashes of their scimitars.
+
+**Weapon and Armor Proficiency**: A desert horselord is proficient with all simple and martial weapons, with light and medium armor, and with shields (except tower shields). This replaces the cavalier's normal weapon and armor proficiencies.
+
+**Mount (Ex)**: When selecting a mount, a desert horselord must select a horse or pony as her mount. At the GM's discretion, other mounts can be selected. Otherwise, this functions as the cavalier mount class feature.
+
+**Desert Wind (Ex)**: At 1st level, the desert horselord's mount's speed increases by 5 feet. This speed increases by an additional 5 feet at 5th level and for every 5 levels thereafter. This ability replaces tactician.
+
+**Desert Mastery (Ex)**: At 3rd level, a desert horselord gains favored terrain (desert) as the ranger ability of the same name. At 8th level and for every 5 levels thereafter, the horselord's bonus on skill checks and initiative increases by 2, but the horselord never selects additional favored terrains. Additionally, the horselord's mount gains all the benefits of her favored terrain ability. This ability replaces cavalier's charge.
+
+**Sand Storm (Ex)**: At 6th level, a desert horselord gains the benefits of the Mobility feat so long as she is mounted. Additionally, the horselord deals double damage while using a one-handed slashing weapon from the back of a charging mount, as though using a lance. This replaces the bonus feat gained at 6th level.
+
+**As One (Ex)**: At 9th level, a desert horselord gains the benefits of the Spring Attack feat so long as she remains mounted. The horselord uses her mount's movement for this action and neither the horselord nor her mount provoke attacks of opportunity from the target. When making a single attack with a one-handed slashing weapon while using the Spring Attack feat, the desert horselord treats her mount as charging. This ability can be used to qualify for other feats that treat Spring Attack as a prerequisite; however, the cavalier can benefit from those feats only while mounted. This ability replaces greater tactician.
+
+**Sand Scourge (Ex)**: At 17th level, the desert horselord and her mount can as a full-round action make a tactical rush through enemy ranks. The horselord's mount can move up to twice its normal speed in a straight line. The horselord can make a single attack against each creature she threatens during her mount's movement, up to her normal number of attacks per round. These attacks are made using her full base attack bonus and take a –2 penalty; this is not a charge, and these attacks deal normal damage. The horselord provokes attacks of opportunity during this movement but her mount does not. This ability replaces master tactician.
+
+## Spellscar Drifter
+
+Dangerous wastelands where magic is warped or dead are places few venture without a guide. Drifters have made themselves at home in these badlands. When not scouring the desert for forgotten treasures or magic hidden by the region's shifting magic-dead zones, a drifter might hire himself out as a guide, bodyguard, or assassin. Drifters are self-reliant and always keep their firearms loaded—in the wastes, a rider with a slow draw doesn't live long.
+
+**Weapon and Armor Proficiency**: Spellscar drifters are proficient with all simple and martial weapons, the whip, and with all firearms. They are proficient with all light armor. This replaces the cavalier's normal weapon and armor proficiencies.
+
+**Have Gun**: At 1st level, the drifter gains Amateur Gunslinger and Gunsmithing as bonus feats. The drifter uses his Charisma modifier (minimum 1) in place of his Wisdom modifier when determining his maximum grit points and for any other abilities which use grit. Additionally, he also gains a battered gun identical to the one gained by the gunslinger. This ability replaces tactician.
+
+**Daring Deeds (Ex)**: At 3rd level, a drifter gains Rapid Reload as a bonus feat. The drifter must choose a firearm to associate with this feat. Additionally, the drifter can select one additional 1st-level gunslinger deed which he can use with his Amateur Gunslinger feat. This ability replaces cavalier's charge.
+
+**Worn Banner (Ex)**: At 5th level, a drifter can choose to use his hat as his banner. If the drifter does not wear a hat, another iconic accessory—such as an eye mask, bandana, or distinguishing coat—can instead serve as his banner. In all other ways, this ability functions as and replaces the banner cavalier ability.
+
+**Bonus Feats**: At 6th level, and at every 6 levels thereafter, a drifter gains a bonus feat in addition to those gained from normal advancement. These bonus feats must be either combat or grit feats, and the drifter must meet the prerequisites as normal. This replaces the cavalier's normal bonus feats.
+
+**Notorious Deeds (Ex)**: At 9th level, a drifter can select two additional gunslinger deeds which he can use with his Amateur Gunslinger feat. The drifter can choose one deed from the list of deeds available to 3rd-level gunslingers and one from the list available to 7th-level gunslingers. This ability replaces greater tactician.
+
+**Old Reliable (Ex)**: At 11th level, whenever a drifter declares a challenge, the threat range of the drifter's firearm is doubled against the target of his challenge. This increase only affects one weapon and does not stack with other effects that increase the threat range of the weapon. In addition, if the drifter rolls a misfire during his challenge, the drifter can spend 1 grit point to reroll the attack roll. The drifter must accept the results of the second roll, even if it is worse. This ability replaces mighty charge.
+
+**Spell Severed (Ex)**: At 12th level, a drifter becomes permanently marked by long exposure to the wastes. The drifter gains spell resistance equal to 10 + his character level. The drifter can drop this spell resistance for 1 round as a standard action, or he can spend 1 grit point to drop it as a swift action. This ability replaces demanding challenge.
+
+**Infamous Deeds (Ex)**: At 17th level, a drifter can select two additional gunslinger deeds which he can use with his Amateur Gunslinger feat. The drifter can choose one deed from the list of deeds available to 7th-level gunslingers and one from the list available to 11th-level gunslingers. This ability replaces master tactician.
+
+**Tough as Nails (Ex)**: At 20th level, a drifter is able to select three additional deeds for use with his Amateur Gunslinger feat—two from the list of deeds available to 15th-level gunslingers, and one from the list available to 19th-level gunslingers. In addition, if the drifter confirms a critical hit on an attack made with a firearm, the target is stunned for 1d4 rounds. A successful Will saving throw (DC = 10 + the drifter's base attack bonus) reduces this effect to staggered instead of stunned. This ability replaces supreme charge.
+
+## Wave Rider
+
+Wave riders patrol harbors, keeping them safe from dangerous sea creatures and watching for smugglers, often mounted on hippocampi.
+
+**Weapon and Armor Proficiency**: Wave riders are proficient with all simple and martial weapons and with light and medium armor, but not with shields. This replaces the cavalier's weapon and armor proficiencies.
+
+**Seafaring Companion**: At 1st level, a wave rider gains Monstrous Mount (see [Monstrous Mounts](../../rules/combat/monstrous-mounts.md)) as a bonus feat. The wave rider can use this feat only to select a hippocampus mount. Otherwise, this ability functions identically to the cavalier's mount class feature, and replaces it.

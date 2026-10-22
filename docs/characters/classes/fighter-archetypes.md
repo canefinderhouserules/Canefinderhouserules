@@ -708,3 +708,55 @@ The siegebreaker is trained to break through lines of enemy soldiers.
 **Disorienting Blow (Ex)**: At 8th level, as an immediate action, a siegebreaker can distract a foe he just hit with an attack or combat maneuver, imposing a –2 penalty on the foe's attack rolls, caster level checks, or skill checks for 1 round. The foe can negate this penalty with a successful Fortitude save (DC = 10 + 1/2 the siegebreaker's fighter level + his Strength modifier). At 14th level, the penalty increases to –4. This ability replaces the bonus feat gained at 8th level.
 
 **Masterful Distraction (Ex)**: At 20th level, a siegebreaker can nauseate a foe he targets with his disorienting blow instead of inflicting a penalty. This ability replaces weapon mastery.
+
+## Contract Soldier
+
+Elite mercenary soldiers are never a standing army, but gold buys loyalty, and the wealthy pay best of all. As a result, these soldiers are well equipped and dedicate themselves to training in small-unit tactics, quickly communicating strategies and tricks to handle any threat to their charges.
+
+**Bonus Feats**: In addition to combat feats, a contract soldier can choose Improved Iron Will, Iron Will, or any teamwork feat as bonus feats.
+
+**Well-Paid Loyalty (Ex)**: At 2nd level, a contract soldier gains a +1 bonus on Will saves against compulsion spells, spell-like abilities, and effects. This bonus increases by 1 for every 4 levels the contract soldier possesses beyond 2nd. This ability replaces bravery.
+
+**Contract Tactics (Ex)**: At 4th level, two or more contract soldiers can spend 1 minute discussing strategy, then choose a single teamwork feat possessed by at least one of them. For a number of hours equal to the class level of the highest-level contract soldier, the participants each gain the benefits of the selected feat even if they do not meet the feat's prerequisites. If a creature benefiting from this ability moves more than 30 feet away from any other participant, it loses all benefits of this ability until it is again within 30 feet. Creatures that do not have levels in this archetype can't benefit from this ability, and no creature can benefit from this ability more than once at any given time. This ability replaces the bonus feat gained at 4th level.
+
+**Amateurs! (Ex)**: At 8th level, when using the contract tactics ability, a contract soldier can include one or more creatures without levels in this archetype, but doing so reduces the duration of the effect to a number of minutes equal to the class level of the highest-level contract soldier instead of a number of hours per level. If only contract soldiers are included in the effect, all contract soldiers affected gain a +1 morale bonus on skill checks and saving throws for the duration of the effect. This ability replaces the bonus feat gained at 8th level.
+
+**Superior Tactics (Ex)**: At 12th level, a contract soldier who uses the contract tactics ability can allow all affected contract soldiers to gain a second bonus teamwork feat possessed by at least one of the participants. This ability replaces the bonus feat gained at 12th level.
+
+**Esprit de Corps (Ex)**: At 16th level, a contract soldier grants all contract soldiers with whom he is sharing one or more teamwork feats through the contract tactics ability a +2 morale bonus on attack rolls, ability checks, skill checks, and saving throws. Each affected contract soldier increases this bonus by 1 if another affected contract soldier has been reduced to 0 or fewer hit points since the beginning of his last turn. This ability replaces the bonus feat gained at 16th level.
+
+## Vengeful Hunter
+
+Not every zealot of a goddess of revenge can channel divine magic to track down those who deserve punishment. Like a bounty hunter following his own rules, a vengeful hunter tracks down elusive prey using his wits and delivers long-overdue retribution while easily ignoring his own injuries thanks to the joy he receives from a job well done.
+
+**Weapon and Armor Proficiency**: A vengeful hunter is proficient with all simple and martial weapons, plus the whip. In addition, the hunter is proficient with light and medium armor as well as shields (except tower shields). This replaces the normal fighter armor and weapon proficiencies.
+
+**Class Skills**: A vengeful hunter gains Diplomacy, Knowledge (local), and Perception as class skills and loses Knowledge (dungeoneering) and Knowledge (engineering) as class skills.
+
+**Tenacious Tracker (Ex)**: At 2nd level, a vengeful hunter gains a +1 bonus on Diplomacy checks to gather information and on Survival checks made to identify or follow tracks. This bonus increases by 1 for every 4 levels the vengeful hunter possesses beyond 2nd. This ability replaces bravery.
+
+**Vengeance (Ex)**: At 5th level, a vengeful hunter deals 1d4 points of bleed damage when he damages a creature that has damaged him since the beginning of his last turn. Whenever a creature takes bleed damage from this effect, it also takes a –1 penalty on attack rolls, weapon damage rolls, saving throws, skill checks, and ability checks for 1 round. This penalty is a pain effect and does not stack with the effects of the sickened condition. This bleed damage increases to 1d6 at 9th level, 1d8 at 13th level, and 2d6 at 17th level. This ability replaces weapon training 1.
+
+**Savor the Sting (Ex)**: At 9th level, whenever a target takes bleed damage from a vengeful hunter's vengeance ability, the vengeful hunter gains an equal number of temporary hit points. These temporary hit points last for 1 minute and do not stack with each other. This ability replaces weapon training 2.
+
+**Swift Revenge (Ex)**: At 13th level, a vengeful hunter gains the quarry class feature; this functions like the ranger ability of the same name, but the target must be one that has damaged the vengeful hunter in the past hour. This ability replaces weapon training 3.
+
+**Perceived Wrongs (Ex)**: At 17th level, a vengeful hunter can, once per day, use his vengeance ability against any creature—even one that has not harmed him. If the target is also one that has damaged him since the beginning of his last turn, the bleed damage increases to 3d6 and the target is sickened for as long as the bleed effect continues. This ability replaces weapon training 4.
+
+**Certain Revenge (Ex)**: At 20th level, a vengeful hunter gains the improved quarry class feature; this functions like the ranger ability of the same name, but the target must have attacked him in the past day. Whenever he uses his vengeance ability against his quarry, the bleed damage increases by 2 per bleed damage die. This ability replaces weapon mastery.
+
+## Academy Duelist
+
+Some academies develop a reputation for churning out fearsome duelists. At the end of each academic year, the students all gather together and duel one another with light blades. Each student duels one opponent after another until he is marked on the cheek by an adversary's blade. These dueling scars are recognized as marks of prowess. The style is one of fluid motion and precise thrusts.
+
+**Weapon and Armor Proficiency**: An academy duelist is proficient with all simple and martial weapons and with all light and medium armor and shields (except tower shields). This replaces the fighter's normal weapon and armor proficiencies.
+
+**Duelist Stance (Ex)**: At 1st level, a academy duelist gains a +1 dodge bonus to AC as long as he is wearing no armor or light armor, wields a melee weapon in one hand, and his other hand is empty. This bonus increases by 1 for every 5 levels the duelist possesses to a maximum of +5 at 20th level. This ability replaces the fighter's 1st-level bonus feat.
+
+**Duelist Training (Ex)**: At 5th level, a academy duelist must select the light blades group for the weapon training class feature. The duelist's weapon training bonus with light blades increases by 1 on attack and damage rolls for every 4 levels he possesses beyond 5th (to a maximum of +4 on attack and damage rolls at 17th level). If he is using his duelist stance, this damage bonus increases by 2. The duelist does not gain weapon training in any other groups as he increases in level. This ability replaces weapon training 1.
+
+**Academy Thrust (Ex)**: At 9th level, when using Vital Strike, Improved Vital Strike, or Greater Vital Strike, a academy duelist adds his Intelligence modifier to damage rolls (this bonus to damage is not multiplied on a critical hit). If the duelist confirms a critical hit while using one of these feats, he automatically deals maximum damage. This ability replaces weapon training 2.
+
+**Science of the Blade (Ex)**: At 13th level, a academy duelist is able to apply his specialized knowledge of anatomy and physiology to his bladework. The duelist can make dirty trick, disarm, and trip combat maneuvers using any one-handed piercing or slashing weapon. This ability replaces weapon training 3.
+
+**Surgical Strike (Ex)**: At 17th level, when a academy duelist confirms a critical hit with a light or one-handed piercing or slashing weapon, he deals ability damage in addition to the normal bonus damage from the critical hit. The duelist chooses which ability is damaged, and deals an amount of damage equal to the critical multiplier of the wielded weapon. This ability replaces weapon training 4.

@@ -28,6 +28,8 @@ The prestige classes presented in this chapter are summarized below.
 
 **[Battle Herald](battle-herald.md)**: A veteran whose masterful tactics and air of command inspire allies to greater feats of heroism.
 
+**[Faithless Enforcer](faithless-enforcer.md)**: A lawful investigator who hunts hidden cults and purges divine influence from lands that outlaw religion.
+
 **[Genie Binder](genie-binder.md)**: A conjurer who seals and commands genies, either as an eidolon-like minion or as a source of spellcasting power.
 
 **[Holy Vindicator](holy-vindicator.md)**: A pious warrior who spreads religion at the edge of a sword.
@@ -43,6 +45,8 @@ The prestige classes presented in this chapter are summarized below.
 **[Rage Prophet](rage-prophet.md)**: A bold and barbaric champion who embraces otherworldly powers in order to perfect the art of combat.
 
 **[Stalwart Defender](stalwart-defender.md)**: A master of defending territory and holding the line at all costs.
+
+**[Sworn Guard](sworn-guard.md)**: A barbarian bodyguard whose rage and fierce loyalty protect a chosen ally.
 
 ### Definitions of Terms
 

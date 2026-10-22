@@ -253,3 +253,35 @@ This ability replaces the gunslinger’s bonus feats gained at 4th, 8th, 12th, 1
 **Bombs (Su)**: At 5th level, the firebrand gains the bombs ability as an alchemist of her gunslinger level – 4, using her Charisma modifier in place of her Intelligence modifier to determine her number of bombs per day and the DC to avoid splash damage. The firebrand adds her Charisma modifier to her bombs’ damage instead of her Intelligence modifier, even if she has the throw anything class feature. In addition, the firebrand’s bombs are always under the effect of the explosive bombs discovery. Firebrand levels do not stack with levels in other classes with the bombs class feature.
 
 This ability replaces gun training.
+
+## Gun Scavenger
+
+Where firearms are made, the crack of flint and tang of gun smoke is enough to inspire enthusiasts elsewhere to try their hand at making their own guns using intuition instead of blueprints. A gun scavenger collects scraps, spare parts, and other components that might—if modified properly—give her firearm an extra edge.
+
+**Gunsmith**: The gun scavenger's starting weapon is a mishmash of pieces that even other gunpowder enthusiasts fail to comprehend. Anyone other than the gun scavenger treats her starting weapon as broken, even if she uses the Gunsmithing feat to repair it. This ability works in all other ways like the gunslinger's gunsmith class feature.
+
+**Go By Feel (Ex)**: A gun scavenger's intuitive and unique style leaves her firearms prone to misfire, whether as a result of using too much powder, using imperfectly milled parts, or any number of other minor inconsistencies. When using a firearm, a gun scavenger cannot reduce that firearm's misfire chance to 0; it can always misfire on a natural 1.
+
+**Deeds**: A gun scavenger gains the following deeds at the listed level.
+
+**Change Out (Ex)**: At 1st level, as a full-round action, a gun scavenger can remove the broken condition from a single firearm she is currently wielding, as long as that condition was gained by a firearm misfire. When she does, she can replace the broken part with a specialized, short-lived component that does one of the following: gives the firearm the scatter weapon quality; increases the damage dealt by the pistol-whip deed by one die size; or increases the firearm's range increment by 10 feet. A firearm with such a modification increases its misfire chance cumulatively by 1 each time it is fired until it misfires. When it does misfire, the effects of the temporary component are lost. A gun scavenger must have at least 1 grit point to perform this deed. Alternatively, if the gun scavenger spends 1 grit point to perform a change out, she can either perform the change out as a standard action instead of a full-round action, or perform the change out on a firearm that isn't broken. This deed replaces the quick clear deed.
+
+**Jury-Rig (Ex)**: At 7th level, as a standard action, a gun scavenger can adjust a firearm she is currently wielding to fire in an unconventional way. She can spend 1 grit point to grant her firearm one of the following magic weapon enhancements for 1 round per gunslinger level: *distance*, *flaming*, *glamered*, or *thundering*. If she spends 2 grit points, she can instead grant the firearm *flaming burst* or *stalking*. Multiple uses of this ability don't stack with themselves. This deed replaces the targeting deed.
+
+**Arbitrary Aim (Ex)**: Starting at 2nd level, a gun scavenger's attacks with firearms are difficult to predict. When shooting a firearm at a creature that has a dodge or insight bonus to its Armor Class, the gun scavenger treats the combined bonus as if it were 1 lower. This value increases by 1 for every 4 levels beyond 2nd level (to a maximum of 5 at 20th level). This ability replaces nimble.
+
+## Siege Gunner
+
+Some firearm specialists wield small and large firearms alike. Siege gunners specialize in the very largest—cannons, bombards, and firedrakes. They rarely operate outside of the lands that produce such weapons, but a few make a living renting out their services and the use of their personal collection of siege weaponry to causes in which they believe or to the highest bidder.
+
+**Grit (Ex)**: A siege gunner relies less on luck and intuition and more on cold calculation and wit. The number of grit points a siege gunner gains each day and her maximum grit are based on the siege gunner's Intelligence modifier rather than her Wisdom modifier.
+
+**Engineer Training (Ex)**: A siege gunner is trained in all aspects of siegecraft, including the workings of siege engines and knowledge of the structures that are often the target of their assaults. Starting at 2nd level, a siege gunner gains a bonus on Knowledge (engineering) checks equal to 1/2 her gunslinger level. This ability replaces nimble.
+
+**Deeds**: A siege gunner swaps a pair of deeds of her choosing for the following.
+
+**Targeted Blast (Ex)**: At 1st level, when using a firearm or siege engine that targets an area rather than a specific creature, the siege gunner can spend 1 grit point to focus the brunt of the blast on a single creature within the target area. The target creature takes 1 additional point of damage for each level the siege gunner possesses. This is precision damage and is not multiplied on a critical hit. At 5th level and for every 5 levels the siege gunner possesses beyond that, she can select an additional creature to target with this bonus damage. Targets must be selected before any attack rolls or saving throws are made. This ability replaces deadeye.
+
+**Scattershot (Ex)**: At 3rd level, if the siege gunner has at least 1 grit point, she can increase the effectiveness of scattering shots from hand-held firearms and blast shots from siege engines. The cone radius of scattering shots or blast shots increases by 5 feet for every three levels the siege gunner possesses (to a maximum of 30 feet at 18th level). This ability replaces gunslinger initiative.
+
+**Bonus Feats**: At 4th level, a siege gunner gains Siege Engineer as a bonus feat. At 8th level, she gains Master Siege Engineer as a bonus feat. She does not need to meet the prerequisites for these feats. At 12th level and for every 4 levels thereafter, the siege gunner gains a bonus feat in addition to those gained by normal advancement. These additional bonus feats must be combat or grit feats, and she must meet the prerequisites as normal. This replaces the gunslinger's normal bonus feats.

@@ -1500,6 +1500,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Ascetic Form](ascetic-form.md) | Combat | Ascetic Style, Weapon Focus with the chosen melee weapon, base attack bonus +5 or monk level 5th |
 | [Ascetic Strike](ascetic-strike.md) | Combat | Ascetic Form, Ascetic Style, Weapon Focus with the chosen weapon, base attack bonus +7 or monk level 7th |
 | [Ascetic Style](ascetic-style.md) | Combat, Style | Weapon Focus with the chosen melee weapon, base attack bonus +1 or monk level 1st |
+| [Awe-Inspiring Smash](awe-inspiring-smash.md) | Combat, Performance | Str 15, Power Attack, base attack bonus +3 |
 | [Baneful Judgment](baneful-judgment.md) | Combat | Bane class feature, judgment class feature, monster lore class feature |
 | [Bastion Stance](bastion-stance.md) | Combat | Con 13, proficiency with heavy armor and shields |
 | [Bat Shape](bat-shape.md) | — | Cha 13, werebat-kin |
@@ -1509,6 +1510,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Befuddling Initiative](befuddling-initiative.md) | Combat | Improved Initiative |
 | [Betrayal Sense](betrayal-sense.md) | Combat | Wis 13, rogue level 3rd, trap sense class feature |
 | [Bilge Rat](bilge-rat.md) | — | — |
+| [Black Powder Spectacle](black-powder-spectacle.md) | Combat, Grit, Performance | Amateur Gunslinger or the grit class feature, base attack bonus +4 |
 | [Bloodmarked Flight](bloodmarked-flight.md) | — | Base attack bonus +5, werebat-kin |
 | [Blustering Bluff](blustering-bluff.md) | — | Cha 13, Bluff 1 rank, Intimidate 1 rank |
 | [Brilliant Planner](brilliant-planner.md) | — | Int 13, character level 5th |
@@ -1522,12 +1524,16 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Burrowing Shot](burrowing-shot.md) | Weapon Mastery | Dex 13, Deadly Aim, base attack bonus +9, weapon training class feature with a ranged weapon |
 | [But a Scratch](but-a-scratch.md) | Combat | Cha 13, Bluff 4 ranks |
 | [Call Truce](call-truce.md) | — | Cha 15, Persuasive, Diplomacy 5 ranks |
+| [Cannon Master](cannon-master.md) | Combat | Siege Engineer, Knowledge (engineering) or Profession (siege engineer) 7 ranks, proficiency with at least one firearm siege engine |
 | [Careful Flyer](careful-flyer.md) | — | Acrobatic, Fly 5 ranks |
 | [Careful Sneak](careful-sneak.md) | — | Dex 13, Stealth 3 ranks |
 | [Cartogramancer](cartogramancer.md) | — | Knowledge (geography) 10 ranks, ability to cast *greater teleport* |
+| [Cascade Gambit](cascade-gambit.md) | Combat | Swordlord Dueling Disciple, Sweeping Duelist, Circuitous Duelist, Weapon Finesse, Weapon Focus (dueling blade), base attack bonus +8 |
+| [Casterbane Shot](casterbane-shot.md) | Combat, Grit | Amateur Gunslinger or the grit class feature, Point-Blank Shot, Precise Shot, base attack bonus +4 |
 | [Cat and Mouse](cat-and-mouse.md) | Combat | Bluff 5 ranks, Sense Motive 5 ranks, opportune parry and riposte deed |
 | [Cat’s Fall](cat-s-fall.md) | — | Dex 13, Acrobatics 1 rank |
 | [Chairbreaker](chairbreaker.md) | Combat | Catch Off-Guard, base attack bonus +1 |
+| [Circuitous Duelist](circuitous-duelist.md) | Combat | Swordlord Dueling Disciple, Weapon Finesse, Weapon Focus (dueling blade), base attack bonus +5 |
 | [Circuitous Shot](circuitous-shot.md) | Combat | Dex 19, Blind-Fight, Improved Precise Shot, Point-Blank Shot, Precise Shot, base attack bonus +11 |
 | [City Sprinter](city-sprinter.md) | — | Street Smarts |
 | [Clambering Escape](clambering-escape.md) | Combat | Int 13, Combat Expertise, Improved Reposition, evasion class feature |
@@ -1582,6 +1588,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Dwarven Seething](dwarven-seething.md) | Combat | Dwarven Hatred Style, base attack bonus +5, defensive training and hatred racial traits, Medium size |
 | [Edge Runner](edge-runner.md) | — | Dex 13 |
 | [Eldritch Aid](eldritch-aid.md) | — | Caster level 1st |
+| [Elemental Discipline Style](elemental-discipline-style.md) | Combat, Style | Wis 13, base attack bonus +5 or monk level 5th |
 | [Elven Battle Focus](elven-battle-focus.md) | Combat | Int 13, Elven Battle Style, Elven Battle Training, Weapon Finesse, base attack bonus +4, weapon familiarity racial trait |
 | [Elven Battle Style](elven-battle-style.md) | Combat, Style | Elven Battle Training, Weapon Finesse, base attack bonus +1, weapon familiarity racial trait |
 | [Elven Battle Torrent](elven-battle-torrent.md) | Combat | Int 13, Elven Battle Focus, Elven Battle Style, Elven Battle Training, Weapon Finesse, base attack bonus +10, weapon familiarity racial trait |
@@ -1621,6 +1628,9 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Filth Forager](filth-forager.md) | — | — |
 | [Filthy Weapons](filthy-weapons.md) | Combat | Knowledge (dungeoneering) 1 rank, Knowledge (nature) 1 rank |
 | [Finesse Shot](finesse-shot.md) | Weapon Mastery | Marksman’s Utility, base attack bonus +7, weapon training class feature with a ranged weapon |
+| [Firearm Familiarity](firearm-familiarity.md) | Combat | Base attack bonus +3, proficiency with at least one firearm |
+| [Flame Feint](flame-feint.md) | Combat, Style | Int 13, Wis 13, Combat Expertise, Elemental Discipline Style (flame), base attack bonus +9 or monk level 9th |
+| [Flame Fist](flame-fist.md) | Combat, Style | Int 13, Wis 13, Combat Expertise, Elemental Discipline Style (flame), Stunning Fist, Flame Feint, base attack bonus +13 or monk level 13th |
 | [Fleeting Spell](fleeting-spell.md) | Metamagic | — |
 | [Flexible Foe](flexible-foe.md) | Combat | Base attack bonus +5, favored enemy (any humanoid or any outsider), favored enemy class feature |
 | [Flight Mastery](flight-mastery.md) | Item Mastery | Use Magic Device 3 ranks, base Fortitude save bonus +6 |
@@ -1688,6 +1698,8 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Inspiring Mentor](inspiring-mentor.md) | — | Cha 13, inspire competence bardic performance |
 | [Intense Blows](intense-blows.md) | Armor Mastery | Str 13, Power Attack, base attack bonus +6 or fighter level 4th, armor training class feature, proficiency with heavy armor |
 | [Intoxicating Flattery](intoxicating-flattery.md) | — | Deceitful, Bluff 5 ranks |
+| [Iron Skin](iron-skin.md) | Combat, Style | Str 15, Wis 13, Elemental Discipline Style (iron), Toughness, Iron Strength, base attack bonus +13 or monk level 13th |
+| [Iron Strength](iron-strength.md) | Combat, Style | Str 15, Wis 13, Elemental Discipline Style (iron), base attack bonus +9 or monk level 9th |
 | [Ironclad Logic](ironclad-logic.md) | — | Int 19, Diplomacy 3 ranks |
 | [Ironclad Reactions](ironclad-reactions.md) | Armor Mastery | Base attack bonus +6 or fighter level 4th, armor training class feature, proficiency with medium armor |
 | [Joyless Toil](joyless-toil.md) | Combat | Dex 13, Wis 13, Improved Unarmed Strike, base attack bonus +8 |
@@ -1715,6 +1727,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Mask of Virtue](mask-of-virtue.md) | Damnation | Patronage of an evil outsider |
 | [Master of Your Kind](master-of-your-kind.md) | — | Familiar, speak with animals of its kind ability |
 | [Master Sniper](master-sniper.md) | Combat | Expert Sniper, Rapid Shot, Stealth 6 ranks |
+| [Masterful Flourish](masterful-flourish.md) | Combat, Performance | Weapon training class feature |
 | [Mauler’s Endurance](maulers-endurance.md) | Familiar | Must have a familiar with the mauler archetype |
 | [Maze Expert](maze-expert.md) | — | Skill Focus (Survival), Survival 5 ranks |
 | [Measure Foe](measure-foe.md) | Combat | Street Smarts, base attack bonus +1 |
@@ -1732,6 +1745,8 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Monstrous Crafter](monstrous-crafter.md) | — | Craft Wondrous Item, Grisly Ornament, Harvest Parts |
 | [Monstrous Disguise](monstrous-disguise.md) | — | Disguise 5 ranks, Knowledge (nature) 5 ranks |
 | [Monstrous Masquerade](monstrous-masquerade.md) | — | Monstrous Disguise, Disguise 9 ranks, Knowledge (nature) 9 ranks |
+| [Monstrous Mount](monstrous-mount.md) | — | Handle Animal 4 ranks, Ride 4 ranks, divine bond (mount), hunter’s bond (animal companion), or mount class feature with an effective druid level of 4 |
+| [Monstrous Mount Mastery](monstrous-mount-mastery.md) | — | Monstrous Mount, character level equal to or higher than that listed in your mount’s Mastery entry |
 | [Motivating Display](motivating-display.md) | Combat | Cha 13, Dazzling Display, Weapon Focus |
 | [Mountain Eyes](mountain-eyes.md) | — | Blind-Fight, Perception 5 ranks |
 | [Mud in Your Eye](mud-in-your-eye.md) | Combat | Throw Anything |
@@ -1748,6 +1763,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Orc Snarl](orc-snarl.md) | Combat | Bullying Blow, Intimidating Prowess, Orc Fury Style, Orc Rampage, Intimidate 7 ranks, weapon familiarity racial trait |
 | [Ostentatious Display](ostentatious-display.md) | — | — |
 | [Ostentatious Rager](ostentatious-rager.md) | Combat | Intimidate 5 ranks, rage class feature |
+| [Ostentatious Weakness](ostentatious-weakness.md) | Combat, Performance | Base attack bonus +5, favored enemy class feature |
 | [Outslug Sprint](outslug-sprint.md) | Combat | Int 13, Combat Expertise or brawler’s cunning class feature, Lunge, Outslug Style, Outslug Weave, Weapon Focus with the chosen weapon |
 | [Outslug Style](outslug-style.md) | Combat, Style | Int 13, Combat Expertise or brawler’s cunning class feature, Weapon Focus with the chosen weapon |
 | [Outslug Weave](outslug-weave.md) | Combat | Int 13, Combat Expertise or brawler’s cunning class feature, Lunge, Outslug Style, Weapon Focus with the chosen weapon |
@@ -1780,6 +1796,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Rat Catcher](rat-catcher.md) | Combat | Knowledge (dungeoneering) 1 rank, base attack bonus +1 |
 | [Read Spell Traces](read-spell-traces.md) | — | — |
 | [Ready for Anything](ready-for-anything.md) | Combat | Alertness, Improved Initiative, Lightning Reflexes, Quick Draw, base attack bonus +6 or uncanny dodge class feature |
+| [Redirected Shot](redirected-shot.md) | Combat, Grit | Amateur Gunslinger or the grit class feature, Deadly Aim, Point-Blank Shot, Precise Shot |
 | [Reflexive Caster](reflexive-caster.md) | — | Combat Reflexes, caster level 5th |
 | [Resisting Grappler](resisting-grappler.md) | Combat | Dex 13 |
 | [Restorative Vigor](restorative-vigor.md) | Combat | Con 15, Combat Vigor, character level 8th |
@@ -1791,6 +1808,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Sabotage Specialist](sabotage-specialist.md) | — | Deft Hands, Disable Device 5 ranks |
 | [Sabotaging Sunder](sabotaging-sunder.md) | Combat | Str 13, Improved Sunder, Power Attack, Disable Device 7 ranks |
 | [Sage’s Guidance](sages-guidance.md) | Familiar | Must have a familiar with the sage archetype |
+| [Savage Surge](savage-surge.md) | Combat, Performance | Intimidating Prowess, rage class feature |
 | [School Familiar](school-familiar.md) | — | Familiar effective level 5th, specialized arcane school class feature |
 | [Scurrying Swarmer](scurrying-swarmer.md) | Combat | Ratfolk, swarming racial trait |
 | [Secured Armor](secured-armor.md) | Armor Mastery | Base attack bonus +11 or fighter level 8th, armor training class feature, proficiency with medium or heavy armor |
@@ -1824,6 +1842,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Spear Dancing Reach](spear-dancing-reach.md) | Combat | Dex 17, Spear Dancing Spiral, Spear Dancing Style, Two-Weapon Fighting, Weapon Finesse, Weapon Focus with the chosen weapon |
 | [Spear Dancing Spiral](spear-dancing-spiral.md) | Combat | Dex 15, Spear Dancing Style, Two-Weapon Fighting, Weapon Finesse, Weapon Focus with the chosen weapon |
 | [Spear Dancing Style](spear-dancing-style.md) | Combat, Style | Dex 13, Two-Weapon Fighting, Weapon Focus with the chosen weapon |
+| [Spectacular Exit](spectacular-exit.md) | Combat, Performance | Dex 15, Dodge, Acrobatics 7 ranks |
 | [Spell Sponge](spell-sponge.md) | — | Animal companion or familiar, share spells ability |
 | [Spellcut](spellcut.md) | Weapon Mastery | Str 13, Cut from the Air, Power Attack, base attack bonus +9, Spellcraft 1 rank, weapon training class feature with a melee weapon |
 | [Splash Weapon Mastery](splash-weapon-mastery.md) | Combat | — |
@@ -1862,10 +1881,12 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Surprising Combatant](surprising-combatant.md) | Combat | Improved Initiative, Bluff 3 ranks |
 | [Swarm Scatter](swarm-scatter.md) | Teamwork | — |
 | [Swarm Strike](swarm-strike.md) | Teamwork | — |
+| [Sweeping Duelist](sweeping-duelist.md) | Combat | Swordlord Dueling Disciple, Weapon Finesse, Weapon Focus (dueling blade), base attack bonus +5 |
 | [Swift Iron Style](swift-iron-style.md) | Combat, Style | Str 13, Dex 13, proficiency with medium armor |
 | [Swift Refuge](swift-refuge.md) | Combat | Str 13, Dex 13, Swift Iron Style, proficiency with medium armor |
 | [Swift Sprint](swift-sprint.md) | Combat | Str 13, Dex 13, Swift Iron Style, Swift Refuge, proficiency with medium armor |
 | [Swipe and Stash](swipe-and-stash.md) | Combat | Sleight of Hand 5 ranks |
+| [Swordlord Dueling Disciple](swordlord-dueling-disciple.md) | Combat | Weapon Finesse, Weapon Focus (a light or one-handed slashing or piercing melee weapon that can be used with Weapon Finesse) |
 | [Swordplay Deflection](swordplay-deflection.md) | Combat | Combat Expertise, Improved Feint, Swordplay Style, Swordplay Upset, Weapon Focus with the chosen weapon, base attack bonus +7 |
 | [Swordplay Style](swordplay-style.md) | Combat, Style | Combat Expertise, Weapon Focus with the chosen weapon, base attack bonus +3 |
 | [Swordplay Upset](swordplay-upset.md) | Combat | Combat Expertise, Improved Feint, Swordplay Style, Weapon Focus with the chosen weapon, base attack bonus +5 |
@@ -1880,6 +1901,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Tenacious Spell](tenacious-spell.md) | Metamagic | — |
 | [Terrifying Assault](terrifying-assault.md) | Combat | Frightening Ambush, Intimidate 5 ranks |
 | [Threatening Negotiator](threatening-negotiator.md) | — | Nerve-Racking Negotiator, Persuasive, Skill Focus (Intimidate) |
+| [Thrilling Vengeance](thrilling-vengeance.md) | Combat, Performance | Base attack bonus +3, rage class feature |
 | [Throat Slicer](throat-slicer.md) | Combat | Base attack bonus +1 |
 | [Timely Coordination](timely-coordination.md) | Teamwork | — |
 | [Tool Optimizer](tool-optimizer.md) | — | Craft (any) 1 rank, Disable Device 1 rank, or Profession (any) 1 rank |
@@ -1919,7 +1941,9 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Weapon Trick](weapon-trick.md) | Combat | Base attack bonus +1 |
 | [Willing Accomplice](willing-accomplice.md) | — | Cha 13, Bluff 3 ranks, Sense Motive 1 rank |
 | [Wily Warrior](wily-warrior.md) | Story | See text |
+| [Wind Rush](wind-rush.md) | Combat, Style | Dex 13, Wis 13, Mobility, Elemental Discipline Style (wind), Quick Draw, Wind Strike, base attack bonus +13 or monk level 13th |
 | [Wind Song](wind-song.md) | — | Perform (wind instruments) 5 ranks; bardic performance or raging song class feature |
+| [Wind Strike](wind-strike.md) | Combat, Style | Dex 13, Wis 13, Elemental Discipline Style (wind), Quick Draw, base attack bonus +9 or monk level 9th |
 
 ## Horror Adventures Feats
 

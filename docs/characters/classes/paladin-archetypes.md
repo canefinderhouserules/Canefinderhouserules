@@ -26,6 +26,22 @@ If an oathbound paladin has more than one oath, she may prepare any one of her o
 
 The following are a selection of oaths for the oathbound paladin archetype. Other oaths may exist, particularly in regard to specific campaign enemies or events (such as elimination of an assassin’s guild or the destruction of an evil temple).
 
+### Oath against Chaos
+
+**Typical deities**: a god of law, trade, and justice; a god of family, farming, and hunting; a goddess of honor, justice, and valor; a god of the forge, protection, and strategy.
+
+Militant orders of lawful crusaders count a number of paladins among their ranks. Typically these paladins reconcile their allegiance to such orders by dedication to the rule of law above all other things.
+
+**Detect Chaos (Su)**: This ability works like the standard paladin ability to detect evil, except as detect chaos instead of detect evil. This ability replaces detect evil.
+
+**Smite Chaos (Su)**: This ability works like the standard paladin ability to smite evil, except the paladin gains bonuses against targets with chaotic alignments instead of evil. The paladin deals additional damage against outsiders with the chaotic subtype, chaotic-aligned dragons, and aberrations, instead of against evil outsiders, evil dragons, and undead. This ability replaces smite evil.
+
+**Order of Good (Su)**: When an oathbound paladin reaches 4th level, she gains the ability to spend one use of her lay on hands ability when using her smite chaos ability to instead smite evil, as the paladin ability of the same name. This ability replaces channel positive energy.
+
+**Code of Conduct**: Spread the order of law wherever you go, so long as the law is just; do not serve as a tool of tyranny. Fight vigilantly the servants of chaos.
+
+**Oath Spells**: 1st—*command*; 2nd—*calm emotions*; 3rd—*suggestion*; 4th—*order's wrath*.
+
 ### Oath against Corruption
 
 **Typical deities**: a god of cities, law, merchants, and wealth; a goddess of healing, honesty, redemption, and the sun; a goddess of art, beauty, love, and music; a god of the forge, protection, and strategy.
@@ -113,6 +129,20 @@ Her DR increases to 10/evil. Whenever she uses smite evil and successfully strik
 **Code of Conduct**: Slay evil dragons, as well as other dangerous dragons whether or not they are evil. Prevent the bloodlines of other creatures from being corrupted with draconic power. Protect the innocent against the predation of dragons.
 
 **Oath Spells**: 1st—enlarge person; 2nd—bear’s endurance; 3rd—fly; 4th—stoneskin.
+
+### Oath of Beauty
+
+**Typical deities**: a goddess of art, beauty, and love.
+
+For these paladins, beauty is synonymous with virtue, and it is the lens through which all goodness is filtered. Aware that aesthetics is subjective, they hold beauty to be the form inviolate.
+
+**Beauty Unyielding (Su)**: At 3rd level, a paladin gains spell resistance equal to 11 + her paladin level, but only against non-harmless transmutation effects. This spell resistance can be lowered as a standard action. Additionally, whenever the paladin would take Charisma damage or suffer Charisma drain, she reduces the amount of damage or drain by 1 (minimum 0). This ability replaces divine health.
+
+**Restore True Beauty (Su)**: At 14th level, a paladin can expend two uses of her lay on hands ability to attempt to dispel any non-harmless transmutation effect on a target, as *break enchantment*. Additionally, the paladin can expend two uses of her lay on hands ability to remove all of the target's temporary Charisma damage and restore all points drained from its Charisma score, as *restoration*. This ability replaces aura of faith.
+
+**Code of Conduct**: Respect the innate beauty in all things, and strive to preserve it from corruption and perversion. Never willfully cause damage to crafted objects or works of art, nor cause a creature or object to be deformed in any way.
+
+**Oath Spells**: 1st—*sanctuary*; 2nd—*make whole*; 3rd—*banish seeming*; 4th—*true form*.
 
 ### Oath of Charity
 
@@ -710,3 +740,27 @@ In addition, the 4th-level tempered champion gains the increased base weapon dam
 Legates present themselves not as armed crusaders, but as peaceful envoys and advisors, bringing wisdom garnered from a long, stable history of service. Though they hold to the same strict paladin code, they often serve as diplomats (and sometimes spies) for good organizations. Yet woe to those who believe them defenseless, for a legate can call upon her divine patron to provide her with armor and weapons.
 
 **Celestial Armor (Sp)**: At 3rd level, a legate can conjure armor as a standard action. This ability acts as the spell *instant armor*, using her paladin level as her caster level, except as follows. At 6th level and every 3 paladin levels thereafter, the armor gains an additional +1 enhancement bonus. These bonuses can be used to add any of the following armor special abilities: champion, fortification (heavy, light, or medium), invulnerability, or spell resistance (13, 15, 17, or 19). In addition, the legate can grant her armor the energy resistance special ability at the cost of a +3 bonus, the improved energy resistance special ability at the cost of a +5 bonus, or the righteous special ability at a cost of a +4 bonus. The armor must have at least a +1 enhancement bonus before any special abilities can be added. The bonus and special abilities granted are determined when this ability is used and cannot be changed until this ability is used again. If the legate has a steed bond and is riding her steed, she can include her steed when summoning celestial armor, granting the steed barding with the same bonuses and special abilities as her own. The legate can use this ability a number of times per day equal to her Wisdom bonus plus half her paladin level. This ability replaces mercy.
+
+## Paladin of Perfection
+
+Paladins of a god of self-perfection meditate on mastery and train relentlessly, knowing that their example can inspire others to excel. Such a god offers no universal paladin code—each paladin in his service creates his own code as part of his spiritual journey, seeing the adherence to such a self-formulated creed as one of the many tests one must face to reach perfection.
+
+**Skills**: A paladin of perfection gains Acrobatics, Climb, and Swim as class skills.
+
+**Confident Defense (Ex)**: At 1st level, when wearing light or no armor and not using a shield, a paladin of perfection adds 1 point of his Charisma bonus (if any) per class level to his Dexterity bonus to his Armor Class. If he is caught flat-footed or otherwise denied his Dexterity bonus, he also loses this bonus. This ability replaces his proficiency with medium armor, heavy armor, and shields.
+
+**Unarmed Strike**: At 1st level, a paladin of perfection gains Improved Unarmed Strike as a bonus feat. In addition, he gains the unarmed strike monk ability, treating his monk level as half his paladin level (minimum 1) for calculating his unarmed strike damage.
+
+**Aura of Law (Su)**: The power of a paladin of perfection's aura of law is equal to his class level. This ability replaces aura of good.
+
+**Sense Perfection (Su)**: At 1st level, at will, a paladin of perfection can detect life forces as if he were using a paladin's detect evil class ability; however, instead of sensing evil creatures, he senses creatures that have a ki pool. Each such creature has an aura like a cleric of an aligned deity, and treats its current number of ki points as its Hit Dice for the purposes of this ability. This ability replaces detect evil.
+
+**Personal Trial (Su)**: Once per day, a paladin of perfection can as a swift action declare one target within line of sight as his personal trial. The paladin gains a +1 insight bonus on attack rolls and damage rolls against that creature, to his AC against attacks made by the target, and on saving throws against the target's spells and special abilities. This bonus increases by 1 at 4th level and every 4 levels thereafter, to a maximum bonus of +6 at 20th level. The personal trial effect remains until the target of the trial is dead or the next time the paladin rests and regains daily uses of this ability. At 4th level and every three levels thereafter, the paladin can use personal trial one additional time per day. This ability replaces smite evil.
+
+**Aura of Excellence (Su)**: At 3rd level, a paladin of perfection is immune to any effect that would force him to reroll a die against his will or roll twice and take the lower result. Whenever an ally within 10 feet of him would reroll a die against her will, she can roll twice and take the higher result. Whenever an ally within 10 feet would be forced to roll twice and take the lower result, she can instead roll three times and take the second-lowest result. This ability functions only while the paladin is conscious, and replaces aura of courage.
+
+**Ki Pool (Su)**: At 4th level, a paladin of perfection gains a ki pool with an effective monk level equal to his class level. The number of points in his ki pool is equal to 1/2 his class level + his Charisma modifier. By spending 1 point from his ki pool, he can ignore any damage reduction possessed by the target of his personal trial ability for 1 round. This ability otherwise functions as the monk ability of the same name and replaces channel positive energy.
+
+**Divine Body (Su)**: Upon reaching 5th level, a paladin of perfection must form a bond with a weapon, except he can only choose to enhance his unarmed strike. This ability otherwise functions as and replaces divine bond.
+
+**Aura of Perfection (Su)**: At 11th level, whenever a paladin of perfection or ally within 10 feet would reroll a die and take the second result even if it is lower (via the good fortune ability of the Luck domain, for example), he can roll an additional die as part of the reroll and use the higher of the two as the result of the reroll. This ability functions only while the paladin is conscious, and replaces aura of justice.
