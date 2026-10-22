@@ -319,6 +319,7 @@ Mesmerists gain access to the following spells. Spells without a link come from 
 - **[Seeds of Influence](seeds-of-influence.md)**: Leave a trace in a creature’s mind that weakens it against your divinations and enchantments.
 - **[Seek Thoughts](seek-thoughts.md)**: Detects thinking creatures’ thoughts.
 - **[Sending](sending.md)**: Delivers short message anywhere, instantly.
+- **[Shadow Enchantment](shadow-enchantment.md)**: Quasi-real enchantment of 2nd level or lower.
 - **[Smug Narcissism](smug-narcissism.md)**: Target is distracted by its sense of self.
 - **[Spite](spite.md)**
 - **[Symbol of Laughter](symbol-of-laughter.md)**
@@ -488,6 +489,7 @@ Mesmerists gain access to the following spells. Spells without a link come from 
 - **[Programmed Image](programmed-image.md)**: As *major image*, but triggered by event.
 - **[Project Image](project-image.md)**: Illusory double can talk and cast spells.
 - **[Scrying, Greater](scrying-greater.md)**: As *scrying*, but faster and longer.
+- **[Shadow Enchantment, Greater](shadow-enchantment-greater.md)**: Quasi-real enchantment of 5th level or lower.
 - **[Symbol of Persuasion](symbol-of-persuasion.md)**: Triggered rune charms creatures.
 - **[Triggered Hallucination](triggered-hallucination.md)**: As *scripted hallucination*, but it only appears when triggered.
 - **[True Seeing](true-seeing.md)**: Lets you see all things as they really are.

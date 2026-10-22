@@ -240,6 +240,22 @@ You can attempt to sequester a written magical trap (such as explosive runes or 
 
 **Memory Palace (Su)**: At 13th level, you mentally construct an extradimensional library to house mental constructs representing the volumes of lore you’ve studied. This ability functions as mage’s magnificent mansion, with the following adjustments: the memory palace is limited in size to a number of 10-foot cubes equal to your psychic level; your memory palace doesn’t contain any furniture other than bookcases and a few desks and sofas where you and your visitors can study; and there is no food within, though the memory palace does contain a number of unseen servants equal to 1/2 your psychic level, which function solely as librarians. The library keeps the same layout each time you summon it, though you can alter its appearance each time you gain a level or by spending 15 minutes concentrating. You can reshape the memory palace in your mind, so it doesn’t need to currently be in effect for you to alter it. You can create your memory palace once per day. Choose one type of Knowledge skill when you gain this ability. Consulting your memory palace gives anyone who studies within—including you—a +4 circumstance bonus on Knowledge checks of that type, and the memory palace counts as an extensive library for people attempting Knowledge checks of that type untrained. You gain a +2 circumstance bonus on checks with the chosen skill when you’re not consulting the palace (including when the palace isn’t in effect). At 14th level and at each additional level thereafter, choose another Knowledge skill to which your memory palace’s library bonuses apply.
 
+### Mindtech
+
+You are innately tied to and can communicate with electronic machinery and similar technological objects, through which you can funnel your psychic power like flowing water. You can amplify and focus your psychic energies using the technology that surrounds you, even certain kinds of technology that might not be obvious to others. See also [psi-tech discoveries](psychic-psi-tech.md).
+
+**Phrenic Pool Ability**: Wisdom.
+
+**Bonus Spells**: *technomancy* (1st), *protection from technology* (4th), *irradiate* (6th), *malfunction* (8th), *lightning arc* (10th), *destroy robot* (12th), *memory of function* (14th), *prismatic wall* (16th), *time stop* (18th).
+
+**Discipline Powers**: Your powers relate to uniting technology with psychic energy.
+
+**Synergized Energy (Su)**: Whenever you use a battery, a generator, or the ability described in the psychic battery psi-tech discovery to restore charges to any piece of technological equipment, you regain 1 point in your phrenic pool. The maximum number of points you can regain in your phrenic pool in this way per day is equal to your Wisdom modifier.
+
+**Attune Implants (Su)**: Starting at 5th level, you can spend a full-round action once per day to harness and channel the power of your cybernetic implants into your psychic spellcasting. This increases the saving throw DCs of your psychic spells by 1, and the increase lasts a number of minutes equal to your psychic level. You must have at least one piece of cybertech implanted in you to use this ability. Additional implants do not increase the duration or the number of uses of this discipline ability.
+
+**Dominate Technology (Sp)**: At 13th level, you can meld your mind with a piece of technology and temporarily control it, even if you had no hand in creating it or anything like it. Once per day, you can target one construct with *control construct* (as per the spell), except the DC of the Spellcraft check each round to maintain control of the construct is equal to 15 + the construct's HD. If you must attempt opposed Spellcraft checks against the construct's creator, you take a –5 penalty on your Spellcraft checks while you concentrate on this ability.
+
 ### Pain
 
 Mental blocks prevent your immense inborn psychic energies from flowing freely. They are unleashed only when you suffer pain.

@@ -443,6 +443,7 @@ Psychics gain access to the following spells. Spells without a link come from ot
 - **[Sands of Time](sands-of-time.md)**: Target temporarily ages.
 - Share Glory
 - **[Selective Alarm](selective-alarm.md)**: As *alarm*, but only against selected creatures.
+- **[Shadow Enchantment](shadow-enchantment.md)**: Quasi-real enchantment of 2nd level or lower.
 - **[Shamefully Overdressed](shamefully-overdressed.md)**: Force target to remove equipment.
 - **[Share Senses](share-senses.md)**: See/hear/smell what your familiar is.
 - **[Shrink Item](shrink-item.md)**: Object shrinks to one-sixteenth size.
@@ -793,6 +794,7 @@ Psychics gain access to the following spells. Spells without a link come from ot
 - **[Psychic Crush II](psychic-crush-ii.md)**: As psychic crush I, but deal 5d6 + 1 points of damage per level on a save and harder to resist.
 - **[Psychic Surgery](psychic-surgery.md)**
 - **[Repress Memory](repress-memory.md)**: Remove a piece of knowledge from your mind.
+- **[Shadow Enchantment, Greater](shadow-enchantment-greater.md)**: Quasi-real enchantment of 5th level or lower.
 - **[Shadow Memory](shadow-memory.md)**: Learn a target’s secrets to aid an assassination.
 - **[Sonic Form](sonic-form.md)**
 - **[Spellcrash](spellcrash.md)**
