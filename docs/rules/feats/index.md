@@ -1480,6 +1480,8 @@ The style feats presented in this book are suited to urban settings. Each style 
 |---|---|---|
 | [Acrobatic Spellcaster](acrobatic-spellcaster.md) | Combat | Combat Casting, Skill Focus (Acrobatics) |
 | [Agent of Fear](agent-of-fear.md) | — | Persuasive, frightening appearance class feature |
+| [Ambush Sense](ambush-sense.md) | Combat | Int 13, trap sense class feature |
+| [Amplified Hex](amplified-hex.md) | — | Hex class feature |
 | [Betrayal Sense](betrayal-sense.md) | Combat | Wis 13, rogue level 3rd, trap sense class feature |
 | [Blustering Bluff](blustering-bluff.md) | — | Cha 13, Bluff 1 rank, Intimidate 1 rank |
 | [Brilliant Planner](brilliant-planner.md) | — | Int 13, character level 5th |
@@ -1503,8 +1505,11 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Darkness Trick](darkness-trick.md) | — | Use Magic Device 5 ranks, ability to cast *darkness* |
 | [Deft Catcher](deft-catcher.md) | — | Skill Focus (Sleight of Hand) |
 | [Drunkard’s Recovery](drunkard-s-recovery.md) | — | Con 13 |
+| [Eldritch Aid](eldritch-aid.md) | — | Caster level 1st |
 | [Enrage Opponent](enrage-opponent.md) | Combat, Panache | Cha 13, Amateur Swashbuckler or panache class feature, Persuasive |
 | [Entreating Critical](entreating-critical.md) | Combat, Critical | Cha 15, Call Truce, Critical Focus, Persuasive, base attack bonus +11, Diplomacy 5 ranks |
+| [Expanded Spell Kenning](expanded-spell-kenning.md) | — | Spell kenning class feature |
+| [Expanded Studies](expanded-studies.md) | — | Wis 17, hunter or warpriest level 16th |
 | [Expeditious Sleuth](expeditious-sleuth.md) | — | Perception 3 ranks, inspiration or lore master class feature |
 | [Exquisite Sneak](exquisite-sneak.md) | — | Dex 15, Careful Sneak, Stealth 6 ranks |
 | [Extra Contingency](extra-contingency.md) | — | Character level 19th |
@@ -1513,6 +1518,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Fencing Grace](fencing-grace.md) | Combat | Dex 13, Weapon Finesse, Weapon Focus (rapier) |
 | [Fey Spell Lore](fey-spell-lore.md) | — | Cha 13, Spellcraft 1 rank, ability to cast druid spells |
 | [Fey Spell Versatility](fey-spell-versatility.md) | — | Cha 13, Spellcraft 1 rank, ability to cast ranger spells |
+| [Fighting Frenzy](fighting-frenzy.md) | Combat, Teamwork | Cha 13, rage class feature |
 | [Fleeting Spell](fleeting-spell.md) | Metamagic | — |
 | [Fool Magic](fool-magic.md) | — | Deceitful, Disguise 1 rank, Use Magic Device 1 rank |
 | [Fox Insight](fox-insight.md) | Combat | Int 13, Fox Style |
@@ -1530,8 +1536,10 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Inspiring Mentor](inspiring-mentor.md) | — | Cha 13, inspire competence bardic performance |
 | [Intoxicating Flattery](intoxicating-flattery.md) | — | Deceitful, Bluff 5 ranks |
 | [Ironclad Logic](ironclad-logic.md) | — | Int 19, Diplomacy 3 ranks |
+| [Know Weakness](know-weakness.md) | Combat | Bardic knowledge class feature |
 | [Legendary Influence](legendary-influence.md) | — | Lesser spirit power class feature |
 | [Lightning Draw](lightning-draw.md) | Combat, Panache | Quick Draw, swashbuckler initiative deed, swashbuckler level 7th |
+| [Mad Magic](mad-magic.md) | Combat | Bloodrage class feature or perfect clarity rage power |
 | [Manipulative Agility](manipulative-agility.md) | — | Bluff 1 rank, Sleight of Hand 1 rank |
 | [Martial Dominance](martial-dominance.md) | Combat | Base attack bonus +5, Intimidate 1 rank |
 | [Measure Foe](measure-foe.md) | Combat | Street Smarts, base attack bonus +1 |
@@ -1542,10 +1550,12 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Nerve-Racking Negotiator](nerve-racking-negotiator.md) | — | Persuasive |
 | [Notorious Vigilante](notorious-vigilante.md) | Combat | Dazzling Display, Weapon Focus, any nongood alignment, great renown social talent, proficiency with chosen weapon |
 | [Omnipresent Mentor](omnipresent-mentor.md) | — | Cha 17, Inspiring Mentor, inspire competence bardic performance |
+| [Onslaught](onslaught.md) | Combat | Str 13, Power Attack, base attack bonus +1, sneak attack class feature |
 | [Ostentatious Rager](ostentatious-rager.md) | Combat | Intimidate 5 ranks, rage class feature |
 | [Owl Dive](owl-dive.md) | Combat | Dex 17, Owl Style, Owl Swoop, Skill Focus (Stealth), base attack bonus +7 or monk level 5th, Acrobatics 1 rank, Fly 1 rank, Stealth 1 rank |
 | [Owl Style](owl-style.md) | Combat, Style | Dex 13, Skill Focus (Stealth), Stealth 1 rank |
 | [Owl Swoop](owl-swoop.md) | Combat | Dex 15, Owl Style, Skill Focus (Stealth), Acrobatics 1 rank, Stealth 1 rank |
+| [Pack Tactics](pack-tactics.md) | — | Int 13, animal companion class feature |
 | [Persuasive Bribery](persuasive-bribery.md) | — | Persuasive |
 | [Piercing Grapple](piercing-grapple.md) | Combat | Dex 13, Improved Grapple, Improved Unarmed Strike, Quick Draw, Intimidate 7 ranks |
 | [Planar Wanderer](planar-wanderer.md) | — | Cartogramancer, Knowledge (geography) 10 ranks, Knowledge (planes) 10 ranks, ability to cast *greater teleport* and *plane shift* |
@@ -1581,7 +1591,9 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Tenacious Spell](tenacious-spell.md) | Metamagic | — |
 | [Threatening Negotiator](threatening-negotiator.md) | — | Nerve-Racking Negotiator, Persuasive, Skill Focus (Intimidate) |
 | [Timely Coordination](timely-coordination.md) | Teamwork | — |
+| [Totem Beast](totem-beast.md) | — | Wis 13, animal companion class feature |
 | [True Deception](true-deception.md) | — | Cha 17, Disguise 17 ranks, master disguise master ninja trick or master of disguise advanced rogue talent, ninja level 10th or rogue level 10th |
+| [Unfair Grip](unfair-grip.md) | Combat | Str 13, Dex 13, Improved Grapple, Improved Unarmed Strike, Power Attack, base attack bonus +1 |
 | [Unimpeachable Honor](unimpeachable-honor.md) | — | Iron Will |
 | [Walking Sleight](walking-sleight.md) | — | Deft Hands, Sleight of Hand 5 ranks |
 | [Willing Accomplice](willing-accomplice.md) | — | Cha 13, Bluff 3 ranks, Sense Motive 1 rank |

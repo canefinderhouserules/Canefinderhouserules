@@ -2,6 +2,18 @@
 
 The following options and archetypes are available to the swashbuckler.
 
+## Corsair
+
+While it doesn't take much more than a ship and a crew to become a pirate, corsairs are a finer breed of freebooter. A corsair's debonair charm and style make her a paradoxical celebrity even among the nations whose ships she plunders.
+
+**Swagger (Ex)**: At 3rd level, a corsair's confident swagger unnerves her foes and inspires her crew. She gains a +1 bonus on Intimidate checks, and the DC of Intimidate checks made against her increases by 1. She and her allies gain a +1 morale bonus on Profession (sailor) checks. These bonuses and her Intimidate DC increase by 1 for every 4 levels beyond 3rd. At 7th level, a corsair's swagger gives her an additional benefit when she uses charmed life. If she succeeds at a saving throw against an opponent's attack or ability while using charmed life on that save, she can attempt an Intimidate check to demoralize that opponent without using an action. This ability replaces nimble.
+
+**Deeds**: A corsair gains the following deeds.
+
+**Fogseer (Ex)**: At 3rd level, whenever she has at least 1 panache point, a corsair can see three times as far as normal in nonmagical fog. In magical fog, she can see normally for 10 feet; after that, creatures and objects have partial concealment for the next 10 feet and total concealment thereafter. This deed replaces swashbuckler initiative.
+
+**Plunder (Ex)**: A corsair knows she doesn't always need to win the fight; she just needs to get what she came for. At 7th level, as a full-round action she can make a single attack with a light or one-handed piercing melee weapon against a foe that is either shaken or denied its Dexterity bonus to AC. If the attack hits, the corsair also pilfers a small, loose item from her target as if she had succeeded at a Sleight of Hand or steal combat maneuver check. She doesn't need to attempt a Sleight of Hand check, but if she does so and surpasses the target's opposed Perception check, the target is unaware that the item is stolen. This deed replaces targeted strike.
+
 ## Daring Infiltrator
 
 Not known for their flashy entrances or for standing out in a crowd, a daring infiltrator uses stealth, disguise, and ruthless guile to pursue her goals. Some of these swashbucklers work to undermine evil organizations, while others are master thieves or mysterious assassins.
@@ -17,6 +29,24 @@ Not known for their flashy entrances or for standing out in a crowd, a daring in
 **Silence Is Golden (Ex)**: At 3rd level, when a daring infiltrator with at least 1 panache point succeeds at a trip or grapple combat maneuver check, the target is rendered mute for 1 round. For every 5 by which the result of the combat maneuver check exceeds the opponent's CMD, the target remains mute for an additional round. A mute creature cannot speak, use language-dependent effects or verbal components, or use command words. This deed replaces menacing swordplay.
 
 **Authoritative Bluff (Ex)**: At 11th level, a daring infiltrator can spend 1 panache point to reroll a Bluff check after the roll is made but before the results are revealed. She must take the result of the second roll, even if it is lower. Additionally, a daring infiltrator with at least 1 panache point gains a +5 bonus on Bluff checks to pretend to be someone's superior (socially or in the military). If she succeeds at the check, the target obeys any reasonable orders she gives as it would those of an actual superior in the situation. This deed replaces bleeding wound.
+
+## Whirling Dervish
+
+Followers of a sun god of redemption praise their deity through dance. The more warlike among them adapted these dances into graceful martial forms, and their swashbuckling style is feared for its ability to devastate foes with a scimitar through motion and agility regardless of strength of arms.
+
+**Dervish Finesse (Ex)**: A whirling dervish can treat a scimitar as a one-handed piercing melee weapon for the purposes of the swashbuckler's finesse and all feats and class abilities that refer to such a weapon. She must not be carrying a weapon or shield in her off hand to gain this benefit. This ability alters swashbuckler finesse.
+
+**Merciful Panache (Ex)**: While violence is sometimes necessary to cleanse evil, a dervish's desire for redemption prevents her from reveling in a foe's defeat. A whirling dervish does not gain any panache for dropping a foe below 0 hit points unless that foe is an evil outsider or undead, or if the damage she dealt was nonlethal. Additionally, she gains 1 panache point if she causes an evildoer with a number of Hit Dice equal to at least 1/2 her character level to surrender to her. She can gain this benefit no more than once per round, even if multiple enemies surrender. This ability alters panache.
+
+**Dervish Dance (Ex)**: At 4th level, a whirling dervish can use her Dexterity modifier instead of her Strength modifier on melee damage rolls when using her swashbuckler finesse.
+
+**Deeds**: A whirling dervish gains the following deeds.
+
+**Whirlwind Dance (Ex)**: At 7th level, a whirling dervish can sweep through her opponents' lines like a cyclone. As a full-round action, she can spend 1 panache point to move up to her speed. She can make attacks against creatures with her reach during this movement, up to the number of attacks she's entitled to with a full attack. Each attack is made at her highest attack bonus, and must target a different creature. This movement provokes attacks of opportunity as normal. This deed replaces superior feint and targeted strike.
+
+**Dance of Dawn (Ex)**: At 11th level, whenever a whirling dervish is in conditions of dim light or brighter and hits with a melee attack, she can spend 1 panache point to reflect the light off her blade into the eyes of her target. That opponent is blinded for 1 round. A successful Fortitude save (DC = 10 + 1/2 the dervish's class level + her Dexterity modifier) negates this effect. This deed replaces bleeding wound.
+
+**Dance of Mercy (Ex)**: At 19th level, when a whirling dervish confirms a critical hit with a light or one-handed piercing melee weapon, in addition to the normal damage, she can spend 1 panache point to inflict a deadly stab. The target must succeed at a Fortitude saving throw (DC = 10 + 1/2 the dervish's class level + her Dexterity modifier) or take an amount of nonlethal damage equal to its current hit points + 1, as well as become paralyzed for 1 hour. Performing this deed doesn't grant the swashbuckler a panache point. This deed replaces deadly stab.
 
 ## Flying Blade
 

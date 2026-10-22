@@ -2,6 +2,16 @@
 
 The following options and archetypes are available to the hunter.
 
+## Blight Scout
+
+Blight scouts are an elite band of hunters skilled and brave enough to foray into demon-tainted lands and take the offensive against the corruption there. They rely on their close bonds with their animal companions to survive such raids.
+
+**Lore of the Blight (Ex)**: At 6th level, a blight scout and her animal companion gain a +2 bonus on initiative checks and on Knowledge (geography), Perception, Stealth, and Survival skill checks when she's in the Abyss or in Abyss-tainted terrain. When she travels through this terrain, she leaves no trail and can't be tracked (though she can leave a trail if she so chooses). This bonus increases to +4 at 11th level and +6 at 16th level. This ability replaces improved empathic link, speak with master, and greater empathic link.
+
+**Unnatural Stride (Ex)**: At 10th level, the blight scout and her animal companion learn how to move through undergrowth (as woodland stride) that has been enchanted, corrupted, or magically manipulated. This ability replaces raise animal companion.
+
+**Demon's End (Ex)**: At 17th level, lesser demons quake before a blight scout. The blight scout and her companion can attempt to demoralize a demon as a swift action, rolling 1d20 and adding the scout's level and her Charisma modifier to determine the Intimidate check result. This ability replaces one with the wild.
+
 ## Divine Hunter
 
 While most hunters heed the call of nature and fight to protect its bounty, some are inspired to serve a higher power. These divine hunters use faith to aid them in their struggles, and their faith infuses their animal companions, making these companions champions of their deities.

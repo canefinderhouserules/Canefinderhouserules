@@ -61,6 +61,8 @@ At 7th level, a slayer can study an opponent as a move or swift action.
 
 Talents marked with an asterisk add effects to a slayer's sneak attack. Only one of these talents can be applied to an individual attack, and the decision of which to use must be made before the attack roll is made.
 
+**Blood Reader (Ex)**: While able to see a studied target, a slayer with this talent knows exactly how many hit points his opponent has remaining. This only works against living targets.
+
 **Deadly Range (Ex)**: A slayer with this talent increases the range at which he can deal sneak attack damage by 10 feet. A slayer can select this talent more than once; its effects stack. A slayer must be at least 4th level before selecting this talent.
 
 **Foil Scrutiny**: A slayer with this talent is able to obscure his thoughts and intentions. He gains a +2 bonus on all Bluff and Disguise checks, as well as on Will saving throws to resist mind-reading spells and effects (such as detect thoughts and discern lies).
@@ -72,6 +74,8 @@ Talents marked with an asterisk add effects to a slayer's sneak attack. Only one
 **Rogue Talent**: A slayer can select one of the following rogue talents in place of a slayer talent: bleeding attack*, camouflage, combat trick, fast stealth, finesse rogue, firearm training, grit, hard to fool, lasting poison, powerful sneak, rogue crawl, slow reactions*, snap shot, sniper's eye, surprise attack, swift poison, terrain mastery, trap spotter, unwitting ally, or weapon training. Any talent effects based on rogue level use the slayer's class level. A slayer can select this talent multiple times. If the rogue talent has a prerequisite (such as the major magic rogue talent requiring the minor magic talent), the slayer must fulfill the prerequisite before taking that rogue talent. This talent can be selected multiple times; each time, it grants the slayer a new rogue talent.
 
 **Slowing Strike\* (Ex)**: An opponent damaged by the slayer's sneak attack has its speed halved for 1d4 rounds. A successful Fortitude saving throw negates this effect (DC = 10 + 1/2 of the slayer's level + the slayer's Intelligence modifier). Against creatures with multiple types of movement, the slayer must choose which movement type to affect. If the slayer affects a creature's flight movement, its maneuverability is reduced by one step; if it's airborne at the time, it falls unless it succeeds at a DC 10 Fly check. If the slayer targets a creature already affected by this ability, its speed and maneuverability are not further reduced; the slayer may either extend the duration of that effect by 1d4 rounds or choose another movement type to affect (keeping track of the duration of each affected movement separately).
+
+**Studied Ally (Ex)**: The slayer can study an ally or friendly creature he can see as a move action. The slayer gains a +1 bonus on checks and attack rolls to use the aid another action to help with that ally's skill checks, attacks, or AC. This bonus increases at the same rate as a slayer's studied target bonus. At 7th level, a slayer can study an ally as a move or swift action. A slayer's studied ally counts against the number of studied targets he can have active at once.
 
 **Trapfinding**: The slayer gains Disable Device as a class skill. The slayer also gains the trapfinding and trap sense rogue abilities, using his slayer level as his effective rogue level.
 

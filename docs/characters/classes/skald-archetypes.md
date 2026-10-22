@@ -28,6 +28,34 @@ The following new rage powers can be taken by any barbarian or skald who meets t
 
 **Ultimate Clarity (Su)**: Once per rage, the character can refine her senses, seeing through normal and magical darkness (including from magical effects such as blur and displacement), invisibility, and illusions; she can also discern the exact locations of creatures with concealment. This lasts for 1 round. A character must be at least 6th level and have the moment of clarity and perfect clarity rage powers to select this rage power. The character does not need to be using moment of clarity to use this rage power.
 
+## Demon Dancer
+
+While the twisted power of demon-worshiping skalds is great, it comes at a terrible price.
+
+**Skills**: A demon dancer gains Perform (dance) as a class skill.
+
+**Versatile Performance (Ex)**: A demon dancer can choose Perform (dance) for the versatile performance class feature. Its associated skills are Acrobatics and Fly. This ability alters versatile performance.
+
+**Fiendish Maw (Su)**: At 3rd level, whenever a demon dancer inspires rage, all who accept his rage gain a bite attack dealing 1d6 points of damage (for Medium allies; 1d4 points of damage if Small). This damage increases to 1d8 (1d6 if Small) at 7th level, to 2d6 (1d8 if Small) at 12th level, and to 3d6 (2d6 if Small) at 17th level. These increases effectively treat the affected creatures as though their sizes had increased by one size category, and so don't stack with any similar damage increases (such as the increase from the *strong jaw* spell) other than those due to an actual increase in size. If used as part of a full attack action, the bite attack is made at the creature's full base attack bonus – 5. This ability replaces the rage power gained at 3rd level.
+
+**Abyssal Wrath (Su)**: At 6th level, the demon dancer gains the fiend totem rage power, even if he doesn't qualify for it. At 9th level, he gains the greater fiend totem rage power, ignoring the prerequisites. This ability alters the rage powers gained at 6th and 9th levels.
+
+**Demonic Conquest (Su)**: At 7th level, the demon dancer's dances warp the minds of those who accept them even further. Whenever anyone affected by his inspired rage makes an attack against a creature, the urge to dominate this foe rises within the affected ally. The ally can attempt to resist this urge with a Will save (DC = 10 + 1/2 the skald's class level + his Charisma modifier). If she fails the save or chooses not to attempt one, the Strength and Constitution bonuses of the demon dancer's inspired rage increase by 2, and she must continue to attack the same target each round. Once the target is defeated, she must burn or cut the symbol of a demon the demon dancer worships into the target's flesh, which is a full-round action. The need to conquer and brand foes ends after this action or after the demon dancer stops performing, whichever comes first.
+
+## Dragon Skald
+
+Dragon skald performances involve song, whistling, or blowing mighty horns, and sailors often talk about having a skald along to whistle up a wind or sing away the mists on the morning of a momentous raid.
+
+**Wind Whistler (Su)**: At 1st level, a dragon skald adds *alter winds*, *fog cloud*, and *obscuring mist* to his class spell list, at the same levels the wizard gains them. He still must add these spells to his spells known as normal. This ability replaces Scribe Scroll.
+
+**Sea Legs (Ex)**: A dragon skald adds 1/2 his class level (minimum 1) on all Profession (sailor) checks, Survival checks while at sea, Acrobatics and Climb checks made while aboard a boat, and Swim checks. This ability replaces bardic knowledge.
+
+**Fearless Raider (Ex)**: At 2nd level, the dragon skald becomes resistant to fear effects. The dragon skald gains a +4 bonus on saving throws against fear effects, and DCs to affect the dragon skald with the Intimidate skill increase by 4. This ability replaces well-versed.
+
+**Raging Song (Su)**: A dragon skald gains access to the following raging song.
+
+**Glorious Epic (Su)**: At 3rd level, a dragon skald learns how to truly extol the virtues and prowess of the heroic figures in his epic tales. By performing for 10 minutes and expending 1 round of raging song, the dragon skald can influence opinions positively towards a heroic subject of the dragon skald's choice. If the subject of the epic attempts a Diplomacy or Intimidate check against anyone who listened to the full performance, he receives a circumstance bonus on that check equal to the Will save bonus granted by the dragon skald's inspired rage. This ability replaces song of marching.
+
 ## Fated Champion
 
 Many cultures see fate as a limit that is both stifling and unwanted, regardless of the destiny that lurks in the days and years ahead. Among cultures where skalds are the keepers of lore and wisdom, there are those who learn to read the winds of fate and take up the mantle of the fated champion, knowing and embracing their destined paths with strength borne of conviction.
@@ -103,6 +131,22 @@ This ability replaces uncanny dodge and improved uncanny dodge.
 When in animal form, the skald is treated as able to speak normally for the purpose of using raging song, but not for using other abilities that require speech (such as spellcasting). The skald uses his class level as his druid level for the purpose of qualifying for feats that affect wild shape (such as Wild Speech). This ability replaces spell kenning.
 
 **Rage Powers**: The following rage powers complement the totemic skald archetype: animal fury, beast totem (lesser, normal, and greater), knockback, knockdown, low-light vision, primal scent, scent, sprint, and swift foot.
+
+## War Drummer
+
+These fierce drummers are equally adept at tapping out a driving rhythm and rapping enemies upside the head with the same massive clubs they use to beat the crude hide-covered drums they carry into battle.
+
+**Weapon Proficiency**: A war drummer is proficient with all simple weapons and the greatclub.
+
+**Fearsome Mien (Ex)**: A war drummer adds 1/2 his class level (minimum 1) to all Intimidate and Bluff skill checks. This ability replaces bardic knowledge.
+
+**Deadly Rhythm (Ex)**: At 1st level, during his raging song, a war drummer can draw clubs and greatclubs as a free action as if he had the Quick Draw feat. At 3rd level, the war drummer gains a +1 bonus on damage rolls for attacks made with clubs or greatclubs. At 7th level and every 4 levels thereafter, this bonus increases by 1 (to a maximum of +5). At 6th level, the war drummer gains Improved Critical with the club or the greatclub as a bonus feat. This ability replaces Scribe Scroll.
+
+**Weapon Master (Ex)**: At 7th level, a war drummer gains Craft Magic Arms and Armor as a bonus feat. This ability replaces lore master.
+
+**Raging Song (Su)**: A war drummer gains access to the following raging song.
+
+**Siege Drums (Su)**: At 7th level, the war drummer can shatter massive walls, doors, and other inanimate obstacles using his war drums. This ability works as the *shatter* spell, except the drummer can increase the amount of damage and size of the object damaged by playing for longer periods. The siege drummer can affect objects weighing up to 10 pounds per level, plus an additional 5 pounds per level for each additional round he plays. The damage dealt increases by 2d6 per round (to a maximum of 20d6 after 10 rounds). The damage is dealt only after the drummer ceases playing. This ability replaces the versatile performance gained benefit at 7th level.
 
 ## Bacchanal
 

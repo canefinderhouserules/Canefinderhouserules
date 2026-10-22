@@ -263,6 +263,7 @@
 - **[Torpid Reanimation](torpid-reanimation.md)**: *Animate dead* when a specific trigger condition occurs.
 - **[Unholy Blight](unholy-blight.md)**: Harms and sickens good creatures (1d8 damage/2 levels).
 - **[Ward of the Season](ward-of-the-season.md)**: This spell harnesses the power of the seasons to protect the target and grant a number of bonuses.
+- **[Wrathful Weapon](wrathful-weapon.md)**: Weapon gains anarchic, axiomatic, holy, or unholy.
 
 ## 5th-Level Cleric Spells
 

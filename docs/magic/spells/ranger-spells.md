@@ -3,6 +3,7 @@
 ## 1st-Level Ranger Spells
 
 - **[Abundant Ammunition](abundant-ammunition.md)**: Replaces nonmagical ammunition every round. Spells 6 Adoration: You gain a bonus on Diplomacy checks and performance combat checks.
+- **[Acid Maw](acid-maw.md)**: Companion's bite deals extra acid damage.
 - **[Air Bubble](air-bubble.md)**: Creates a small pocket of air around your head or an object.
 - **[Alarm](alarm.md)**: Wards an area for 2 hours/level.
 - **[Animal Messenger](animal-messenger.md)**: Sends a Tiny animal to a specific place.
@@ -155,6 +156,7 @@
 - **[Named Bullet, Greater](named-bullet-greater.md)**: As named bullet, but deals 2 points of damage per caster level.
 - **[Nondetection](nondetection.md)**: Hides subject from divination, scrying.
 - **[Overwhelming Poison](overwhelming-poison.md)**: Make a poison more difficult to resist.
+- **[Phantom Hunt](phantom-hunt.md)**: You and your companion gain senses, speed, and fast tracking.
 - **[Sea Stallion](sea-stallion.md)**: You and your mount adapt to an aquatic environment.
 - **[Sickening Strikes](sickening-strikes.md)**: You are imbued with disease, and any creature you strike with a melee attack must make a Fortitude save or be.
 - **[Sturdy Tree Fort](sturdy-tree-fort.md)**: Create a tree with a defensive fort within it.

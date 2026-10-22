@@ -31,6 +31,8 @@ These traits are associated with combat, battle, and physical prowess. They give
 
 **Evasive Sting**: Larger enemies have a hard time striking you. You gain a +1 dodge bonus to AC against enemies that are both your favored enemy and at least two size categories larger than you.
 
+**Failed Aspirant**: You've failed the trials to gain entry to a prestigious martial school. Though you are disappointed, you were able to pick up one trick from the monks. Choose a single combat maneuver. Once per day, you can perform that combat maneuver without provoking an attack of opportunity, and you gain a +2 bonus on that attempt.
+
 **Faith’s Hunter**: Divine powers smile upon you each time you grievously wound a favored enemy. When you confirm a critical hit against a favored enemy, you may extend the duration of any divine spell affecting you by 1 round. The benefits from multiple critical hits stack. Divine spells with an instantaneous duration can’t be extended in this manner.
 
 **Hidden Hand**: Your concealed weapons strike fast and true. You gain a +1 trait bonus on Sleight of Hand checks made to conceal light weapons and a +1 trait bonus on attack rolls when making an attack with a light weapon during a surprise round.
@@ -51,6 +53,8 @@ These traits are associated with combat, battle, and physical prowess. They give
 
 **Never Stop Shooting**: Even when the chips are down, you keep on shooting. If your hit point total drops to 0 or lower but you are not dead, you may act as if disabled rather than dying (as if you possessed the Diehard feat). However, you can use your actions only to draw a firearm, reload a firearm, or attack with a firearm. If you have the Diehard feat, this trait also allows you to substitute your Wisdom score for your Constitution score for the purpose of determining the negative hit point total at which you die.
 
+**Order Devotion**: Your family has strong ties to a knightly order of law, and you harness this belief as a weapon. Once per day as a swift action, you can empower the next single melee attack you make to be treated as lawful-aligned for the purpose of overcoming damage reduction.
+
 **Reckless**: You have a tendency for rash behavior, often disregarding your own safety as you move across the battlefield. You gain a +1 bonus on Acrobatics checks, and Acrobatics is always a class skill for you.
 
 **Reckless Contempt**: You do not fear the threat of lesser weapons. Whenever you provoke an attack of opportunity by firing a firearm, you gain a +1 trait bonus on the attack roll that provoked the attack of opportunity.
@@ -65,7 +69,11 @@ These traits are associated with combat, battle, and physical prowess. They give
 
 **Tactician**: You know how to take advantage of enemies who are unprepared for your assault. You gain a +1 trait bonus on initiative checks. In addition, once per day when you make an attack of opportunity, you gain a +2 trait bonus on the attack roll.
 
+**Tavern Bouncer**: You learned to fight while serving as a bodyguard in rough taverns, where keeping the patrons alive through bloody bar brawls was just part of your job. When you make an attack that deals nonlethal damage with an unarmed strike, you gain a +1 bonus on your damage roll.
+
 **Unblemished Barrel**: Your skill with firearms speeds your repair of such weapons. You gain a +1 trait bonus on Craft (alchemy) and Craft (weapons) checks, and it takes you only 30 minutes to remove the broken condition from a firearm.
+
+**Undead Watcher**: Your military service on a border against the undead taught you how to identify undead creatures, changing them in your mind from mysterious terrors to concrete foes you know how to deal with. You gain a +1 trait bonus on attack and damage rolls against undead creatures that you have personally identified using the Knowledge (religion) skill.
 
 **Vigilant Battler**: You are hard to fool and harder to trick with a feint. You gain a +1 trait bonus on all Sense Motive checks. This trait bonus increases to +2 when used to counter a feint in combat.
 

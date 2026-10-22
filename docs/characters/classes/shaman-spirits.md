@@ -204,6 +204,40 @@ A shaman who selects the lore spirit appears far wiser and knowing that her age 
 
 **Manifestation**: Upon reaching 20th level, the shaman becomes an unending font of knowledge and lore. She can take 20 on all Knowledge skill checks, including those she isn't trained in. Her understanding of the fundamental underpinnings of reality has also become so advanced that she can cast wish once per day. This doesn't require a material component, but the wish cannot be used to grant ability score bonuses or replicate spells with expensive material components.
 
+## Mammoth
+
+A shaman who selects the mammoth spirit is abnormally tall and stocky, with thick shaggy hair. When she uses a special ability of this spirit, her muscles ripple and flex, and her stature seems greater than before.
+
+**Spirit Magic Spells**: Enlarge person (1st), bull's strength (2nd), rage (3rd), stoneskin (4th), beast shape III (5th), tar pool (6th), summon nature's ally VII (7th), frightful aspect (8th), polar midnight (9th).
+
+**Hexes**: A shaman who chooses the mammoth spirit can select from the following hexes.
+
+**Burden of the Beast (Su)**: This ability works as the lodestone ability of the stone spirit.
+
+**Mammoth's Hide (Su)**: The shaman can touch a willing ally and cause its skin to thicken and sprout thick, shaggy fur. The creature gains a +2 enhancement bonus to natural armor and resistance 5 to cold for 10 minutes. At 9th level, the enhancement bonus increases to +3 and the cold resistance to 10. At 15th level, this enhancement bonus increases to +4 and this resistance to 15. The shaman can use this ability a number of times per day equal to 3 + her Charisma bonus.
+
+**Phantom Stampede (Su)**: The shaman summons a host of ghostly herd beasts to trample a single creature. These phantom beasts affect only the target creature, which is buffeted and pummeled by their passing. The creature takes no damage from the ability, but takes a –4 penalty to its CMD versus bull rush, overrun, and trip attempts. Additionally, spellcasters under the effect of this ability take a –4 penalty on concentration checks. The target receives no saving throw to negate this effect. This effect lasts a number of rounds equal to the shaman's level. The creature can't be the target of this hex again for 24 hours.
+
+**Primal Speaker (Ex)**: The shaman can speak with mammoths and any other megafauna or elephant creatures as if she were under the effects of *speak with animals*. At 5th level, the shaman gains a bonus on Handle Animal checks when dealing with those animals equal to 1/2 her shaman level. At 10th level, the shaman can affect one such animal within 30 feet as if she'd cast *charm animal*. A successful Will saving throw negates this effect. Whether or not the save is successful, the creature can't be the target of this hex again for 24 hours.
+
+**Thunder Foot (Ex)**: The shaman's body thickens and becomes more muscular. For the purpose of the overrun combat maneuver, she treats her shaman level as her base attack bonus when calculating her CMB and CMD. At 7th level, the shaman gains Improved Overrun as a bonus feat. At 11th level, the shaman gains Greater Overrun as a bonus feat. The shaman doesn't need to meet the prerequisites of these feats.
+
+**Spirit Animal**: The shaman's spirit animal appears more primal and prehistoric than an ordinary animal of its kind. It gains a +2 inherent bonus to its Strength score. The spirit animal loses this bonus when it manifests as a megafauna companion.
+
+**Spirit Ability**: A shaman who chooses the mammoth spirit as her spirit or wandering spirit gains the following ability.
+
+**Powerful Smash (Ex)**: As a standard action, the shaman can attack with unarmed strikes as if she had the Improved Unarmed Strike feat. If the shaman hits a creature in this way, that creature must succeed at a Fortitude save (DC = 10 + 1/2 the shaman's class level + her Charisma modifier) or be dazed for 1 round. The shaman can use this ability a number of times per day equal to 3 + her Charisma modifier.
+
+**Greater Spirit Ability**: A shaman who selects the mammoth spirit using her greater spirit or greater wandering spirit class feature gains the following special ability.
+
+**Strength of the Beast (Ex)**: The shaman gains a +2 enhancement bonus to her Strength score. This bonus increases by 2 every 4 shaman levels thereafter (at 12th, 16th, and 20th levels for her spirit, and at 16th and 20th levels for her wandering spirit).
+
+**True Spirit Ability**: A shaman who selects the mammoth spirit using her true spirit class feature or true wandering spirit class feature gains the following special ability.
+
+**Megafauna Companion (Su)**: The shaman's spirit animal transforms into a megafauna animal companion, using the shaman's shaman level as her effective druid level. The shaman must choose an arsinoitherium, a mastodon, a megaloceros, or another mammalian megafauna that has animal companion statistics. It retains its Intelligence score and the special abilities it gains from the spirit animal class feature, but it also has the statistics and abilities of an animal companion. If the animal companion is dismissed, lost, or dies, it can be replaced in the same way as a normal spirit animal.
+
+**Manifestation**: At 20th level, the shaman can transform into any animal listed under the megafauna or elephant heading. This ability works as *beast shape IV*, but the shaman can activate and dismiss the ability as often as she likes and the duration is permanent.
+
 ## Nature
 
 A shaman who selects the nature spirit takes on an appearance that reflects the aspect of the natural world she has the closest connection to. A nature shaman from the forest has a green tinge to her skin and hair, with eyes of sparkling emerald and the scent of green leaves and flowers about her. A nature shaman from the tundra is typically alabaster pale, with platinum hair and crystal blue eyes, and her skin always seems strangely cold.

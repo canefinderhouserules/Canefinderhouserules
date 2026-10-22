@@ -68,6 +68,28 @@ While others of your kin may be powerful wizards and sorcerers, the eldritch nat
 
 **Caster's Bane (Ex)**: At 20th level, spellcasters with a caster level lower than your bloodrager level always provoke attacks of opportunity within your threatened area, even when casting defensively. You have this ability constantly, even while not bloodraging.
 
+## Black Blood
+
+Contact with a tainted, necromantic blood (by you or one of your ancestors) transformed your bloodline, mutating you into something peculiar.
+
+**Bonus Feats**: Combat Reflexes, Diehard, Endurance, Great Fortitude, Improved Initiative, Iron Will, Toughness.
+
+**Bonus Spells**: Chill touch (7th), unshakable chill (10th), elemental aura (cold only) (13th), black tentacles (16th).
+
+**Bloodline Powers**: The insidious magic of black blood grants you profane powers and hideous resistances.
+
+**Black Blood (Su)**: At 1st level, your blood runs black. You are immune to the effects (both beneficial and destructive) of black blood. You have this benefit constantly, even while not bloodraging. When you take damage from a slashing or piercing attack while bloodraging, as an immediate action you can grant your melee attacks the frost weapon special ability for 2 rounds. You can use this ability three times per day.
+
+**Abnormal Reach (Su)**: At 4th level, the black blood pumping within you twists and elongates your limbs. Your reach increases by 5 feet.
+
+**Black Blood Resistance (Su)**: At 8th level, you gain resistance 5 to cold and a +2 bonus on saving throws against ability drain, death effects, disease, energy drain, paralysis, and poison. At 16th level, this resistance increases to 10 and the saving throw bonus increases to +4.
+
+**Retributive Spray (Su)**: At 12th level, whenever you're hit by an attack or spell that deals slashing or piercing damage, your black blood sprays up to 10 feet toward the opponent who attacked you, striking the first creature along its path. That creature takes 1d8 points of cold damage + 1 point of cold damage for every 2 bloodrager levels you possess. A successful Reflex save (DC = 10 + 1/2 your bloodrager level + your Constitution modifier) halves the damage.
+
+**Black Blood Transfusion (Su)**: At 16th level, when you confirm a critical hit, some of your black blood seeps into the target's wounds. The next time the target would be healed by positive energy, the healing burns away the black blood and ends this effect, providing no other benefit. This ability is not effective against creatures that have no blood. The black blood transfusion persists until it negates one positive energy healing effect, but it can be removed sooner with a successful DC 25 Heal check.
+
+**Black Blood Immunity (Su)**: At 20th level, you gain immunity to cold, nonlethal damage, critical hits, and sneak attacks. You have this benefit constantly, even when not bloodraging.
+
 ## Celestial
 
 By way of a celestial ancestor or divine intervention, the blood of angels fills your body with a holy potency, granting you a majestic visage and angelic powers when you enter your bloodrage.
@@ -221,6 +243,28 @@ The Pit lives in your blood. Maybe one of your ancestors was seduced by the powe
 **Hellfire Charge (Su)**: At 16th level, when you charge the attack you make at the end of the charge gains the benefit of your hellfire strike without expending a use of it. If you already have hellfire strike active, the fire damage ignores fire resistance of 10 or lower.
 
 **Fiend of the Pit (Su)**: At 20th level, you gain immunity to fire and poison. You also gain resistance 10 to acid and cold, and gain the see in darkness ability. You have these benefits constantly, even while not bloodraging.
+
+## Kyton
+
+The influence of the chain-wielding devils of pain, the kytons, taints your blood. Just as an eclipse drives animals wild, so too does the darkness unleash a madness from deep within you.
+
+**Bonus Feats**: Alertness, Blind-Fight, Exotic Weapon Proficiency (spiked chain), Great Fortitude, Improved Dirty Trick, Iron Will, Toughness.
+
+**Bonus Spells**: Persuasive goad (7th), pain strike (10th), deeper darkness (13th), fear (16th).
+
+**Bloodline Powers**: The sadistic power of the kytons flows through you, twisting you into a creature of pain and darkness when you bloodrage.
+
+**Painful Strike (Su)**: At 1st level, when you confirm a critical hit, the target is sickened for a number of rounds equal to 1/2 your bloodrager level (minimum 1). During this time, the creature must succeed at a concentration check (DC = 15 + the spell's level) in order to cast a spell.
+
+**Grasping Chains (Su)**: At 4th level, chains cover your body and extend from your arms, grasping at the air around you and granting you a +4 bonus on Climb skill checks. At 9th level, this bonus increases to +8 and you gain a Climb speed equal to 1/2 your base speed.
+
+**Armor of Chains (Su)**: At 8th level, you gain resistance 5 to cold and the chains covering your body provide a +4 armor bonus to AC with no armor check penalty, maximum Dexterity bonus, or additional weight. At 16th level, the resistance increases to 10 and the armor bonus increases to +8.
+
+**Agony's Embrace (Su)**: At 12th level, whenever you're hit by a critical hit, your morale bonus to Strength from your bloodrage increases by 2 for 1d6 rounds or until your rage ends. The bonus to Strength instead increases by 4 at 16th level and by 6 at 20th level.
+
+**Unnerving Gaze (Su)**: At 16th level, your foes begin to see flashes of the faces of dead loved ones when they look at your face. You gain a gaze attack with a range of 30 feet. All foes who fail a Will save (DC = 10 + 1/2 your bloodrager level + your Charisma modifier) become shaken for 1d3 rounds.
+
+**Kyton Immunities (Su)**: At 20th level, you gain immunity to cold and DR 10/good and silver. You have this benefit constantly, even when not bloodraging.
 
 ## Undead
 

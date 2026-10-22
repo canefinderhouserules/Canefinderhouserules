@@ -69,6 +69,7 @@ Shamans gain access to the following spells. Spells in plain text come from othe
 - **[Sense Spirit Magic](sense-spirit-magic.md)**: Gain bonuses on identifying and resisting spells associated with your spirits.
 - **[Sleep](sleep.md)**: Puts 4 HD of creatures into magical slumber.
 - Stone Shield
+- **[Spirit Call](spirit-call.md)**: Spirit and domain spells in the area are stronger.
 - **[Thorn Javelin](thorn-javelin.md)**: Wield a javelin that sickens opponents when it strikes.
 - **[Underbrush Decoy](underbrush-decoy.md)**: Create a rustling distraction to hide.
 - **[Wave Shield](wave-shield.md)**: Water blunts one incoming attack or fire effect.
@@ -295,6 +296,7 @@ Shamans gain access to the following spells. Spells in plain text come from othe
 - **[Ghostbane Dirge, Mass](ghostbane-dirge-mass.md)**: As ghostbane dirge, but affecting multiple creatures.
 - **[Grove of Respite](grove-of-respite.md)**: Creates trees and a small spring.
 - **[Hex Glyph, Greater](hex-glyph-greater.md)**
+- **[Imbue Hex](imbue-hex.md)**: Give another creature one use of a hex you know.
 - **[Inflict Light Wounds, Mass](inflict-light-wounds-mass.md)**: Deals 1d8 damage + 1/level, affects 1 subject/level.
 - **[Insect Plague](insect-plague.md)**: Wasp swarms attack creatures.
 - **[Overland Flight](overland-flight.md)**: You fly at a speed of 40 ft. and can hustle over long distances.

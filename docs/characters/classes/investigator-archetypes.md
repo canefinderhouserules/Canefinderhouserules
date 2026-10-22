@@ -8,6 +8,30 @@ Investigators trust in knowledge above all things. Often this is not solely the 
 
 While most investigators use a mix of empirical science and alchemy to achieve these goals, there are other types of investigators as well. Some rely on different skills and information-such as the whispers of the dead, intuition, and luck-to uncover that which is hidden. The following is just a small sample of the myriad kinds of investigators.
 
+Investigator talents marked with an asterisk (*) add effects to an investigator's studied combat or studied strike. Only one of these talents can be applied to an individual attack, but the decision can be made when the damage is dealt.
+
+**Applied Engineering (Ex)**: The investigator can leverage his knowledge of engineering to solve tasks that normally require brute strength or keen eyes. He can expend one use of inspiration as a full-round action to study an object or area and attempt a Knowledge (engineering) check. On his next turn, he can use the result of that Knowledge (engineering) check in place of a Strength check to break the object or in place of a Perception check to locate hidden doors or compartments in that area.
+
+**Domino Effect\* (Ex)**: When the investigator uses studied strike, he uses his opponents against each other and sets himself up for his next move. Whenever he successfully deals damage to an opponent with studied strike, as a free action the investigator can apply the effects of studied combat to an opponent adjacent to the first. An investigator must be at least 5th level to select this talent.
+
+**Prolonged Study\* (Ex)**: The investigator can study his opponents for long periods of time. The effects of his studied combat ability last for a number of rounds equal to twice his Intelligence modifier (minimum 2) or until he deals damage with a studied strike, whichever comes first. The investigator must be at least 13th level to select this talent.
+
+**Slowing Strike\* (Ex)**: When the investigator deals damage with studied strike, the opponent must succeed at a Fortitude save (DC = 10 + 1/2 the investigator's class level + his Intelligence modifier) or be slowed by the crippling blow. A slowed opponent's movement speeds are each reduced by 5 feet (to a minimum of 5 feet) until the creature is healed through the application of any spell that cures hit point damage or with a successful DC 15 Heal check. Multiple slowing strikes stack, to a minimum of 5 feet. An investigator must be at least 7th level to select this talent.
+
+**Timed Strike\* (Ex)**: The longer the investigator studies his opponent, the greater the damage he ultimately deals with his studied strike. When the investigator makes a studied strike, he deals a number of points of additional damage equal to the number of consecutive rounds he studied the target with studied combat.
+
+## Inspector
+
+Formally trained inspectors are tasked with assuming nothing and asking difficult and unpopular questions as necessary to get to the truth behind a problem. Inspectors are well-prepared to deal with mystical threats, but they are also mindful that what some claim are supernatural problems may well be just the result of more mundane threats such as bandits, wild beasts, or public hysteria.
+
+**Interrogation (Ex)**: An inspector is a master of harrying others until they cooperate with his investigations, and knows instinctively when the answers he receives are falsehoods. He adds 1/2 his class level (minimum 1) to Intimidate checks made to influence a creature's attitude and to Sense Motive checks. This ability replaces trapfinding.
+
+**Keen Mind (Ex)**: At 3rd level, an inspector's strong, analytical mind resists attacks and hazards that would muddy his clear thoughts. He gains a +1 bonus on Perception checks and Will saves. These bonuses increase to +2 at 9th level and +3 at 15th level. This ability replaces trap sense, poison resistance, and poison immunity.
+
+**Perceptive Tracking (Ex)**: At 3rd level, an inspector must take the perceptive tracking talent as his investigator talent. He doesn't need to be trained in Perception to do so.
+
+**Relentless Pursuit (Ex)**: At 5th level, an inspector can learn enough about a suspect through observation that he can deduce the most effective way to deal with the subject. Once per day, if an inspector finds a creature's tracks using perceptive tracking, he gains a +2 bonus on Bluff, Knowledge, Perception, Sense Motive, and Survival checks against or about that creature, as well as on weapon attack and damage rolls against that creature. These bonuses last until the inspector selects a new subject for relentless pursuit. This ability replaces swift alchemy and the investigator talent gained at 5th level.
+
 ## Empiricist
 
 Champions of deductive reasoning and logical insight, empiricists put their faith in facts, data, confirmed observations, and consistently repeatable experimentsthese things are their currency of truth.

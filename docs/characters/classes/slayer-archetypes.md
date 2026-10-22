@@ -6,6 +6,20 @@ The following options and archetypes are available to the slayer.
 
 The following combat style is available to rangers, slayers, and other character classes that can use ranger combat styles. Thrown Weapon: If the character selects thrown weapon, he can choose from the following list whenever he gains a combat style feat: Distance Thrower, Precise Shot, Quick Draw, Two-Weapon Fighting. At 6th level, he adds Close-Quarters Thrower and False Opening to the list. At ioth level, he adds Pinpoint Targeting and Shot on the Run to the list.
 
+## Aberration Purger
+
+Aberration purgers are skilled at slaying naturally arising aberrations and any creatures that have been mutated by exposure to strange, alien energies.
+
+**Aberration Hunter (Ex)**: If an aberration purger deals damage to an aberration, as an immediate action he can apply his studied target bonus against that target even if he didn't sneak attack it. In addition, an aberration purger can attempt Knowledge (dungeoneering) skill checks untrained when trying to identify aberrations. This ability replaces track.
+
+**Alien Prescience (Sp)**: At 2nd level, as a standard action an aberration purger can detect aberrations. This works like *detect undead*, except it detects aberrations instead of undead. This ability replaces the slayer talent received at 2nd level.
+
+**Discern Weakness (Ex)**: At 7th level, an aberration purger becomes an expert at locating an aberration's weak points. He rolls twice to confirm critical hits against aberrations and keeps the higher roll. This ability replaces stalker.
+
+**Steely Mind (Ex)**: At 8th level, an aberration purger gains a +2 resistance bonus on saving throws against mind-affecting spells and effects. This bonus increases to +4 at 12th level and +6 at 16th level. In addition, once per day as a standard action, he can shed a magical effect placed on him by an aberration as *break enchantment*, using his slayer level as his caster level. He can use this ability twice per day at 12th level and three times per day at 16th level. This ability replaces the slayer talent received at 8th level.
+
+**Aberration Slayer (Ex)**: At 20th level, an aberration purger can use his master slayer ability on any aberration, even if it's not his studied target. This ability alters master slayer.
+
 ## Bounty Hunter
 
 Whether tasked with bringing in wanted criminals or paid to drag debtors back to their loan sharks, bounty hunters are valued for their ability to capture targets alive.
@@ -111,6 +125,24 @@ A stygian slayer crawls out of the darkest shadows to strike fear into the heart
 **Slayer Talents**: The following slayer talents (and rogue talents) complement the stygian slayer archetype: bleeding attack, lasting poison, poison use*, powerful sneak, rogue crawl, slow reactions, surprise attack, and swift poisonAPG_ (Those with asterisks [*] are detailed in the [slayer class](slayer.md).)
 
 **Advanced Slayer Talents**: The following advanced slayer talents (and advanced rogue talents) complement the stygian slayer archetype: assassinate*, hunter's surprise, and slayer camouflage*.
+
+## Syndicate Executioner
+
+These professional killers are trained and used almost exclusively by criminal families. Streetwise and ruthless, they operate independently, often making their talents available to the highest bidder. Though a few unscrupulous executioners exploit this arrangement and force their employers to pay higher rates, most follow a strict personal code and maintain absolute transparency with their clients.
+
+Talents marked with an asterisk (*) add effects to a slayer's sneak attack. Only one of these talents can be applied to an individual attack, and the decision of which to use must be made before the attack roll is made.
+
+**Class Skills**: A syndicate executioner doesn't receive Knowledge (dungeoneering), Knowledge (geography), Ride, or Survival as class skills. Instead, he receives Appraise, Diplomacy, and Escape Artist in addition to the other standard slayer class skills.
+
+**Bloodstained Hands (Ex)**: A syndicate executioner must be evil. If he ever becomes nonevil, he loses this archetype and becomes a regular slayer.
+
+**Focused Killer (Ex)**: At 1st level, a syndicate executioner's studied target bonuses and the DCs of his slayer abilities increase by 1 against humanoid opponents, but decrease by 1 against non-humanoid targets. This ability alters studied target.
+
+**Painful Strike\* (Ex)**: At 4th level, a syndicate executioner automatically gains this talent. Executioners are trained to cause excruciating pain when striking targets, often leaving them reeling in agony or completely incapacitated as they slowly bleed out. A creature that takes sneak attack damage from a syndicate executioner must make a successful Fortitude save (DC = 10 + 1/2 the executioner's class level + his Intelligence modifier) or become sickened for 1d4 rounds. This ability alters the slayer talent received at 4th level and replaces swift tracker.
+
+**Assassinate (Ex)**: At 10th level, a syndicate executioner must select the assassinate advanced slayer talent.
+
+**Swift Death (Ex)**: At 14th level, once per day a syndicate executioner can attempt to assassinate a foe without studying his foe beforehand. He must still succeed at a sneak attack against the target. At 19th level, he can make two such attacks per day. This ability replaces quarry and improved quarry.
 
 ## Vanguard
 

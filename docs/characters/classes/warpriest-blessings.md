@@ -151,6 +151,14 @@ A warpriest can select any two blessings. Each blessing is named after the domai
 
 **Spell-Storing Weapon (major)**: At 10th level, you can cast a spell into a magic weapon as if it had the spell storing weapon special ability. If the stored spell is not used within 10 minutes, it dissipates.
 
+## Scalykind Blessing
+
+**Scaly Touch (minor)**: At 1st level, you can touch an ally as a standard action to grant it reptilian scales. For 1 minute, the ally gains a +1 enhancement bonus to its natural armor. At 5th level and every 5 levels thereafter, this bonus increases by 1 (to a maximum of +5 at 20th level).
+
+**Serpent Fang (major)**: At 10th level, as a standard action you can manifest venomous fangs for 1 minute. These fangs grant a bite attack that deals 1d4 points of damage (for a Medium warpriest, 1d3 if Small). A successful bite also afflicts the opponent with a debilitating venom. The poison's save DC is equal to 10 + 1/2 your warpriest level + your Constitution modifier.
+
+**Serpent Venom (Ex)**: Bite—injury; *save* Fort negates; *frequency* 1/round for 4 rounds; *effect* 1d2 Con; *cure* 1 save.
+
 ## Strength Blessing
 
 **Strength Surge (minor)**: At 1st level, as a swift action you can focus your own strength. You gain an enhancement bonus equal to 1/2 your warpriest level (minimum +1) on melee attack rolls, combat maneuver checks that rely on Strength, Strength-based skills, and Strength checks for 1 round.
@@ -174,6 +182,12 @@ A warpriest can select any two blessings. Each blessing is named after the domai
 **Double (minor)**: At 1st level, as a move action you can create an illusory double of yours el( This double functions as a single mirror image, and lasts for a number of rounds equal to your warpriest level, or until the illusory duplicate is dispelled or destroyed. You can have no more than one double at a time. This ability doesn't stack with the additional damage from the mirror image spell.
 
 **Greater Invisibility (major)**: At 10th level, as a swift action you can become invisible for 1 round (as weater invisibility).
+
+## Void Blessing
+
+**Airless Touch (minor)**: At 1st level, with a successful melee touch attack you can steal the breath from an opponent's lungs, leaving it unable to speak, use breath weapons, cast spells with verbal components, or do anything else requiring breath for 1 round. If the target fails at a Fortitude saving throw, it's also staggered for 1 round as it catches its breath. If the target was attempting to hold its breath, it can no longer do so: it must breathe on its turn or risk suffocation and unconsciousness. Creatures that don't need to breathe are unaffected. Regardless of whether it succeeds at its saving throw, the target is immune to further uses of your airless touch for 24 hours.
+
+**Deny Gravity (major)**: At 10th level, as a standard action you can touch an ally to allow her to ignore the effects of gravity for 1 minute (as *fly*). The ally gains a fly speed of 40 feet with average maneuverability. The ally is also immune to dangerous environmental conditions (as *life bubble*) for 1 minute.
 
 ## War Blessing
 

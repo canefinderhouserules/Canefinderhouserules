@@ -2,6 +2,20 @@
 
 The following options and archetypes are available to the warpriest.
 
+## Assassin Zealot
+
+Some worshipers of a god of assassination hold such strong faith that they gain divine power. They forge themselves into perfect killers in honor of their patron.
+
+**Assassin Sworn (Ex)**: An assassin zealot must choose a deity whose portfolio includes assassination or murder. If he ever changes his deity, he loses this archetype and becomes a normal warpriest.
+
+**Weapon and Armor Proficiency**: Assassin zealots are proficient with all simple and martial weapons and with light armor. They are not proficient with shields. This replaces the warpriest's weapon and armor proficiencies.
+
+**Sneak Attack (Ex)**: At 4th level, an assassin zealot can make a sneak attack. This ability functions as the rogue ability of the same name. At 4th level, his sneak attack damage is +1d6. This damage increases by 1d6 at 8th level and every 4 levels thereafter. If the zealot gets a sneak attack bonus from another source, the bonuses on damage stack. This ability replaces sacred weapon.
+
+**Sacred Reflexes (Su)**: At 7th level, an assassin zealot can emulate his patron's grace. As long as he is wearing light or no armor, as a swift action he can gain uncanny dodge. He can use this ability for a number of minutes per day equal to his warpriest level, but it must be spent in 1-minute increments. If he already has the uncanny dodge ability from another source, he instead gains improved uncanny dodge while this ability is active. At 10th level, when he uses this ability, he gains evasion (or improved evasion if he already has evasion from another source). At 13th level, he gains improved uncanny dodge instead of uncanny dodge. At 16th level, he can activate this ability as part of making an initiative check, before rolling the die. At 19th level, he gains improved evasion instead of evasion. This ability replaces sacred armor.
+
+**Bleeding Aspect (Su)**: When using aspect of war, instead of moving at full speed regardless of his armor or encumbrance, an assassin zealot deals a number of points of bleed damage equal to his Dexterity modifier on each attack. This ability alters aspect of war.
+
 ## Champion of the Faith
 
 Champions of the faith are crusaders who use the power of their divine patron to annihilate the faith's enemies. Chosen Alignment: At 1st level, a champion of the faith must select one of the following as his chosen alignment: chaos, evil, good, or law. This choice must be one of the alignments shared by the champion of the faith and his deity. Champions of the faith who are neutral with no other alignment components (or whose deity is) can choose any of the above alignments for this purpose. Additionally, a champion of the faith must select the blessing corresponding to his chosen alignment, even if it's not on his deity's list of domains. His chosen alignment's opposite is referred to as his opposed alignment. Good and evil oppose one another, just as law and chaos oppose one another.
@@ -79,6 +93,18 @@ Craft Magic Arms and Armor At 3rd level, a forgepriest gains Craft Magic Arms an
 **Creator's Bond (Su)**: At 4th level, when a forgepriest uses his sacred weapon ability with an item he created personally, he can expend two uses of his fervor ability to increase the bonus granted by 1 Once the forgepriest has the sacred armor ability, he can also use this ability in conjunction with that. This ability replaces channel energy.
 
 **Heat of the Forge (Su)**: At 6th level, a forgepriest gains fire resistance 5. At 13th level, this resistance increases to 10. This ability replaces the bonus feat gained at 6th level.
+
+## Liberty's Blade
+
+There are some who find in the call to freedom something primal and spiritual. These liberty's blades become warpriests of deities who spread freedom, and they head to lives of adventure championing liberty wherever they go.
+
+**Freedom's Focus (Su)**: A liberty's blade must worship a good deity who grants the Liberation blessing, and he must select the Liberation blessing. He does not gain a second blessing. This ability alters blessings.
+
+**Devilslayer (Su)**: At 4th level, a liberty's blade adds devil-bane to the list of enhancements he can add to his sacred weapon. This ability alters sacred weapon.
+
+**Channel Liberty (Su)**: At 4th level, when a liberty's blade channels energy to heal, the effects of his healing are halved, but all creatures affected by his healing instantly benefit as if from a *liberating command* spell at the liberty's blade's caster level. When channeling to harm, the liberty's blade harms devils as if using Alignment Channel instead of harming undead, and he deals double the normal amount of damage. This ability alters channel energy.
+
+**Shield Against Hellspawn (Su)**: At 7th level, a liberty's blade adds devil-defiant to the list of enhancements that he can add to his sacred armor. This ability alters sacred armor.
 
 ## Sacred Fist
 

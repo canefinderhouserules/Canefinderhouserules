@@ -1,0 +1,9 @@
+# Mad Magic
+
+*(Combat)*
+
+Magic is in your blood, allowing you to cast spells no matter how furious you become.
+
+**Prerequisites**: Bloodrage class feature or perfect clarity rage power.
+
+**Benefit**: You can cast spells from any class that grants you spells while in a bloodrage, and you keep your rage benefits when using moment of clarity during a rage. If you have the greater bloodrage class feature, you also gain a +1 bonus to the save DCs of spells you cast while in a bloodrage.

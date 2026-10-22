@@ -2,6 +2,14 @@
 
 The following options and archetypes are available to the brawler.
 
+## Beast-Wrestler
+
+For these mighty grapplers, wrestling normal opponents has lost its challenge; they seek greater targets for glory. Beast-wrestlers challenge trolls to unarmed combat, and the greatest seek out primeval dragons and wrestle them into submission.
+
+**Beast Training (Ex)**: At 3rd level, a beast-wrestler selects a creature type from the ranger favored enemy list. The only humanoid subtype the beast-wrestler can select is giant. She gains a +2 bonus on combat maneuver checks and to her CMD against creatures of the type she selected. At 7th, 11th, 15th, and 19th levels, the beast-wrestler can select an additional type of creature. In addition, at each such interval the bonuses against any one type of creature she's chosen (including the one just selected, if so desired) increase by 2. If a specific creature falls into more than one category, the beast-wrestler's bonuses don't stack; she simply uses whichever bonus is higher. This ability replaces maneuver training.
+
+**Beast Defenses (Ex)**: At 4th level, when facing enemies she selected with beast training, the beast-wrestler gains a bonus to AC equal to 1/2 her beast training bonus against that creature. This ability replaces AC bonus.
+
 ## Exemplar
 
 A versatile soldier who inspires her companions with her fighting prowess, an exemplar is at home on the front lines ofbattles anywhere.
@@ -11,6 +19,28 @@ A versatile soldier who inspires her companions with her fighting prowess, an ex
 **Inspiring Prowess (Ex)**: At 3rd level, an exemplar gains the ability to use certain bardic performances. She can use this ability for a number of rounds per day equal to 3 + her Charisma modifier; this increases by 1 round per brawler level thereafter. The exemplar's effective bard level for this ability is equal to her brawler level - 2. At 3rd level, the exemplar can use inspire courage. At 11th level, the exemplar can use inspire greatness. At 15th level, the exemplar can use inspire heroics. Instead of the Perform skill, she activates this ability with impressive flourishes and displays of martial talent (this uses visual components). This ability otherwise functions as bardic performance; feats and other effects that affect bardic performance (such as the Extra Performance feat) apply to it. This ability replaces maneuver training and AC bonus.
 
 **Field Instruction (Ex)**: At 5th level, as a standard action an exemplar can grant a teamwork feat to all allies within 30 feet who can see and hear her. This teamwork feat must be one the exemplar knows or has gained with the martial flexibility ability. Allies retain the use of this teamwork feat for 3 rounds + 1 round for every 2 brawler levels. If the granted teamwork feat is one gained from martial flexibility, this duration ends immediately if the exemplar loses access to that feat. Allies don't need to meet the prerequisites of this teamwork feat. The exemplar can use this ability once per day at 5th level, plus one additional time per day at 9th, 12th, and 17th level. This ability otherwise counts as the cavalier's tactician class feature; feats and other effects which affect tactician (such as Practiced Tactician) apply to it. This ability replaces brawler's strike.
+
+## Lapsed Disciple
+
+Lapsed disciples studied at a great monastic school, but while they grasped the mechanical aspects of the forms, they lacked the mental discipline required by the masters. Thus, they withdrew from the monastery (some peacefully, some not) to find their own paths.
+
+**School Focus (Ex)**: At 2nd level, a lapsed disciple continues the training she left behind, gaining the benefits of the mystery taught at her old monastery. As the lapsed disciple progresses in her self-guided training, she gains deeper understanding of her chosen mystery, which grants her new powers. This ability replaces bonus feats gained at 2nd, 8th, and 14th levels.
+
+**Mystery of Iron (Su)**: At 2nd level, metal weapons and armor in the lapsed disciple's possession are treated as masterwork unless they have the broken condition. At 8th level, the lapsed disciple gains a bonus equal to 1/2 her level on Craft checks involving metal, and she gains the benefits of the Master Craftsman and Craft Arms and Armor feats when crafting items made of metal. At 14th level, any weapon the lapsed disciple wields is treated as adamantine.
+
+**Mystery of Wind (Su)**: At 2nd level, the lapsed disciple adds 10 feet to the range increment of ranged weapons she wields and gains Deflect Arrows as a bonus feat. At 8th level, she can harness the power of the wind to make enormous leaps. As a move action, she can leap without attempting an Acrobatics check, jumping any distance up to her move speed (upward movement counts as double, as when flying). She can leap in this way once per day per brawler level. At 14th level, when using the Deflect Arrows feat, the lapsed disciple can send one projectile back at her attacker, with the same attack and damage roll the attacker rolled against her. Even if the deflected attack had more than one projectile (as with Manyshot), she sends only one projectile back at the attacker. The others are deflected as normal.
+
+**Mystery of Flame (Su)**: At 2nd level, the lapsed disciple increases her land speed by 10 feet (this is treated as an enhancement bonus). If she uses her monk moves class ability to gain fast movement, the abilities stack with each other. At 8th level, if the lapsed disciple begins the round with the grappled condition, she can deal 2d6 points of fire damage to all other creatures in the grapple as a free action. At 14th level, the lapsed disciple becomes as difficult to contain as a flame. Once per day as a full-round action, she can transform into liquid flame, instantly escaping all bonds as if under the effect of *freedom of movement* and moving up to her speed. When moving as part of this ability, she can move through creatures' squares freely and doesn't provoke attacks of opportunity. She deals 10d6 points of fire damage to any creature whose square she enters during this movement. A successful Reflex saving throw (DC = 10 + 1/2 her brawler level + her Dexterity bonus) halves this damage.
+
+**Monk Moves (Ex)**: At 4th level, a lapsed disciple can use her martial flexibility ability to gain the benefits of certain monk abilities as well as combat feats. Each ability counts as one combat feat for this purpose, and the lapsed disciple is treated as a monk of a level equal to her brawler level for determining the effects of these abilities. She gains access to these abilities at the levels listed on the Monk Moves table below. She does not gain a ki pool, and can't use powers that require ki. The lapsed disciple must be wearing light or no armor to benefit from this ability. This ability replaces AC bonus.
+
+| Monk Ability | Level Gained |
+|---|---|
+| Evasion | 4th |
+| Fast movement | 4th |
+| Slow fall | 4th |
+| High jump | 5th |
+| Improved evasion | 9th |
 
 ## Mutagenic Mauler
 

@@ -18,6 +18,7 @@
 
 ## 1st-Level Druid Spells
 
+- **[Acid Maw](acid-maw.md)**: Companion's bite deals extra acid damage.
 - **[Air Bubble](air-bubble.md)**: Creates a small pocket of air around your head or an object.
 - **[Blend](blend.md)**: You draw upon your elven link to the wilderness to change the coloration of yourself and your equipment to.
 - **[Calm Animals](calm-animals.md)**: Calms 2d4 + level HD of animals.
@@ -53,6 +54,7 @@
 - **[Shillelagh](shillelagh.md)**: Cudgel or quarterstaff becomes +1 weapon (2d6 damage) for 1 min./level.
 - **[Snowball](snowball.md)**: Throw a conjured ball of snow at a target.
 - **[Speak with Animals](speak-with-animals.md)**: You can communicate with animals.
+- **[Spirit Call](spirit-call.md)**: Spirit and domain spells in the area are stronger.
 - **[Stone Shield](stone-shield.md)**: A 1-inch-thick slab of stone springs up from the ground, interposing itself between you and an opponent of.
 - **[Strong Wings](strong-wings.md)**: School transmutation; Level druid 1, ranger 1, sorcerer/wizard 1, witch 1 Casting Time 1 standard action.
 - **[Summon Nature’s Ally I](summon-natures-ally-i.md)**: Summons creature to fight.
@@ -209,6 +211,7 @@
 - **[Ice Storm](ice-storm.md)**: Hail deals 5d6 damage in cylinder 40 ft. across.
 - **[Life Blast](life-blast.md)**: Drain life from local vegetation to launch a blast of positive energy.
 - **[Obsidian Flow](obsidian-flow.md)**: Converts the surface of the ground into molten glass. Spells 6 Protection from Energy, Communal: As protection from energy, but you may divide the duration among creatures touched.
+- **[Phantom Hunt](phantom-hunt.md)**: You and your companion gain senses, speed, and fast tracking.
 - **[Reincarnate](reincarnate.md)**: Brings dead subject back in a random body.
 - **[Repel Vermin](repel-vermin.md)**: Insects, spiders, and other vermin stay 10 ft. away.
 - **[Rusting Grasp](rusting-grasp.md)**: Your touch corrodes iron and alloys.

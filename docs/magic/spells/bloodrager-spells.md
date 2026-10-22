@@ -69,6 +69,7 @@ Bloodragers gain access to the following spells. Spells in plain text come from 
 - **[Acid Arrow](acid-arrow.md)**: Ranged touch attack; 2d4 damage for 1 round + 1 round/three levels.
 - **[Adhesive Blood](adhesive-blood.md)**: Attackers’ weapons stick to your gluey blood.
 - Animal Aspect
+- **[Arcane Disruption](arcane-disruption.md)**: Subject must make concentration checks to use arcane magic.
 - **[Bear’s Endurance](bears-endurance.md)**: Subject gains +4 to Con for 1 min./level.
 - **[Blindness/Deafness](blindness-deafness.md)**: Makes subject blind or deaf.
 - **[Blood Armor](blood-armor.md)**: Your blood hardens when you are wounded, increasing your AC.
@@ -128,6 +129,7 @@ Bloodragers gain access to the following spells. Spells in plain text come from 
 - **[Beast Shape I](beast-shape-i.md)**: You take the form and some of the powers of a Small or Medium animal.
 - **[Blood Biography](blood-biography.md)**: Learn about a creature with its blood.
 - Blood Scent
+- **[Blood Salvation](blood-salvation.md)**: Immunity to your own damaging area spells.
 - **[Burrow](burrow.md)**: Target gains a burrow speed of 15.
 - Burst of Speed
 - Chain of Perdition
