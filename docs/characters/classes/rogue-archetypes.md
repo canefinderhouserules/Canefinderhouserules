@@ -655,3 +655,21 @@ Snoops are the underworld’s version of detectives. They often act as informati
 **Rogue Talents**: The following rogue talents complement the snoop archetype: black market connections, coax information, fast stealth, follow clues, and strong impression (as well as certainty for an unchained rogue).
 
 **Advanced Talents**: The following advanced rogue talents complement the snoop archetype: hard minded, hidden mind, skill mastery, re-examining and thoughtful (as well as cutting edge for an unchained rogue).
+
+## Waylayer
+
+A clever rogue knows the easiest battle to win is the one that's over before your foe knows it has begun. Some rogues thus specialize in setting up ambushes to catch their opponents off guard.
+
+**Staggering Reflexes (Ex)**: At 1st level, a waylayer gains a bonus on initiative checks equal to 1/2 her level (minimum +1) if she acts in a surprise round, and is never flat-footed at the start of combat (even if she fails to act during the surprise round). This ability replaces trapfinding.
+
+**Ambuscading Sneak Attack (Ex)**: At 4th level, a waylayer becomes especially skilled at attacking unaware foes. When she makes a sneak attack during a surprise round, she uses d8s to roll sneak attack damage instead of d6s. This ability replaces uncanny dodge.
+
+**Danger Awareness (Ex)**: At 8th level, a waylayer is never considered an unaware combatant and is always able to act in the surprise round. This replaces improved uncanny dodge.
+
+**Exceptional Reflexes (Ex)**: At 12th level, a waylayer can move up to her speed before taking her action in a surprise round. This replaces the rogue talent gained at 12th level.
+
+**Masterful Reflexes (Ex)**: At 20th level, a waylayer's initiative roll is automatically a natural 20. This ability replaces the rogue talent gained at 20th level.
+
+**Rogue Talents**: The following rogue talents complement the waylayer archetype: camouflage, cunning trigger, quick trapsmith, slow reactions, surprise attack, and underhanded.
+
+**Advanced Talents**: The following advanced talents complement the waylayer archetype: entanglement of blades, hide in plain sight, knock-out blow, and weapon snatcher.

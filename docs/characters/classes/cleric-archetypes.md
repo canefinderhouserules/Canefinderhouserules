@@ -376,3 +376,15 @@ At 11th level, the target takes 1d6+1 points of Wisdom damage and is confused an
 At 19th level, the target takes 2d6 points of Wisdom damage and is rendered permanently confused and sickened. Only *greater restoration*, *heal*, *limited wish*, *miracle*, or *wish* can remove the confused and sickened conditions. A successful Will save halves the Wisdom damage, and the target is instead sickened for 2d6 rounds.
 
 This ability replaces the increases to channel energy gained at 5th, 11th, and 19th levels.
+
+## Infernal Advocate
+
+For the faithful of a lawful evil ruler of devils, the words used in a negotiation or contract matter more than their intent. The word of the law is to be respected, but loopholes and vague wording are part of every law. Infernal advocates are master wordsmiths who ally themselves with creatures that, much like their words, seem insignificant but are treacherous.
+
+**Pact-Bound (Ex)**: An infernal advocate must choose a lawful evil deity of devils and contracts and select the Trickery domain. She does not gain a second domain. If she ever changes her deity, she loses this archetype and becomes a normal ex-cleric. This ability alters domains.
+
+**Serpent (Su)**: At 1st level, an infernal advocate gains a familiar as the arcane bond class feature, using her cleric level as her wizard level. She must choose a viper familiar. The viper speaks one language of the infernal advocate's choice as a supernatural ability.
+
+**Devil in the Details (Ex)**: At 1st level, an infernal advocate learns to choose her words so carefully that even when she says something designed to deceive listeners, the words are phrased to be technically true. She can use her Profession (barrister) skill for Bluff and Diplomacy checks. This benefit also extends to her familiar. The infernal advocate gains an insight bonus equal to 1/2 her cleric level (minimum +1) on Linguistics checks related to forgeries and on all Profession (barrister) checks.
+
+**Shoulder Devil (Su)**: At 8th level, an infernal advocate can choose an imp familiar as though she had the Improved Familiar feat.

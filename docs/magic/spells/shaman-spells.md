@@ -27,6 +27,7 @@ Shamans gain access to the following spells. Spells in plain text come from othe
 - **[Bane](bane.md)**: Enemies take –1 on attack rolls and saves vs. fear.
 - Blend
 - **[Barbed Chains](barbed-chains.md)**: Hellish chains attack and cause a target to become shaken.
+- **[Blend with Surroundings](blend-with-surroundings.md)**: Target looks like an object and hides easily while still.
 - **[Bless](bless.md)**: Allies gain +1 on attack rolls and saves against fear.
 - **[Burning Hands](burning-hands.md)**: 1d4/level fire damage (max 5d4).
 - **[Calm Animals](calm-animals.md)**: Calms 2d4 + level HD of animals.
@@ -118,6 +119,7 @@ Shamans gain access to the following spells. Spells in plain text come from othe
 - **[Hold Person](hold-person.md)**: Paralyzes one humanoid for 1 round/level.
 - Imbue with Elemental Might
 - **[Inflict Moderate Wounds](inflict-moderate-wounds.md)**: Touch attack, 2d8 damage +1/ level (max +10).
+- **[Invigorating Poison](invigorating-poison.md)**: Poison ability damage becomes a bonus instead.
 - **[Languid Venom](languid-venom.md)**: Delay a poison’s onset and hide its presence.
 - **[Levitate](levitate.md)**: Subject moves up and down at your direction.
 - **[Life Pact](life-pact.md)**: Affected creatures automatically donate hp to stabilize fallen ally.
@@ -134,6 +136,7 @@ Shamans gain access to the following spells. Spells in plain text come from othe
 - **[Spiritual Weapon](spiritual-weapon.md)**: Magic weapon attacks on its own.
 - **[Summon Swarm](summon-swarm.md)**: Summons swarm of bats, rats, or spiders.
 - **[Tree Shape](tree-shape.md)**: You look exactly like a tree for 1 hour/level.
+- **[Venomous Bite](venomous-bite.md)**: Target's bite delivers a stored poison.
 - **[Vine Strike](vine-strike.md)**: Enhance one of your natural or unarmed attacks with thorny vine growth.
 - **[Warp Wood](warp-wood.md)**: Bends wood.
 - **[Web Shelter](web-shelter.md)**: Create a comfortable shelter made of webbing.
@@ -194,6 +197,7 @@ Shamans gain access to the following spells. Spells in plain text come from othe
 - **[Tailwind](tailwind.md)**: Create a current of wind to enhance or impede flight.
 - **[Thorny Entanglement](thorny-entanglement.md)**: As entangle, plus plants make ranged attacks.
 - Ward of the Season
+- **[Toxic Rupture](toxic-rupture.md)**: A poisonous creature is poisoned by its own venom.
 - **[Water Breathing](water-breathing.md)**: Subjects can breathe underwater.
 - **[Water Walk](water-walk.md)**: Subject treads on water as if solid.
 - **[Wind Wall](wind-wall.md)**: Deflects arrows, smaller creatures, and gases.
@@ -256,6 +260,7 @@ Shamans gain access to the following spells. Spells in plain text come from othe
 - **[Spike Stones](spike-stones.md)**: Creatures in area take 1d8 damage, may also be slowed*.*
 - **[Spirit-Bound Blade](spirit-bound-blade.md)**: Give a weapon ghost touch and another ability tied to an emotion.
 - **[Spit Venom](spit-venom.md)**: Spit blinding black adder venom.
+- **[Sword to Snake](sword-to-snake.md)**: An item bites whoever handles it.
 - **[They Know](they-know.md)**: Convince target that a nearby creature knows her greatest secret.
 - **[Thorn Body](thorn-body.md)**: Your attackers take 1d6 +1 damage/level.
 - **[Tongues](tongues.md)**: Speak and understand any language.

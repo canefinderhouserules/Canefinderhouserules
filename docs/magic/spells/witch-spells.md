@@ -8,6 +8,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Alchemical Tinkering](alchemical-tinkering.md)**: You transform one alchemical item or firearm into another alchemical item or firearm of the same or lesser.
 - **[Aphasia](aphasia.md)**: Prevent a target from understanding language.
 - **[Blend](blend.md)**: You draw upon your elven link to the wilderness to change the coloration of yourself and your equipment to.
+- **[Blend with Surroundings](blend-with-surroundings.md)**: Target looks like an object and hides easily while still.
 - **[Bungle](bungle.md)**: Target takes a –20 penalty on its next attack roll or check.
 - **[Compel Hostility](compel-hostility.md)**: Compels opponents to attack you instead of your allies.
 - **[Damp Powder](damp-powder.md)**: Ruins ammunition loaded in the targeted firearm.
@@ -95,6 +96,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Enshroud Thoughts](enshroud-thoughts.md)**: Ward yourself against thought detection and memory alteration.
 - **[Frost Fall](frost-fall.md)**: The area is covered in a chilling frost.
 - **[Fury of the Sun](fury-of-the-sun.md)**: You curse the target to suffer unbearable heat.
+- **[Garden of Peril](garden-of-peril.md)**: Poisonous mushrooms sicken nearby creatures.
 - **[Ghost Whip](ghost-whip.md)**: Create a ghost touch whip that passes through objects.
 - **[Ghostly Disguise](ghostly-disguise.md)**: You look like a ghost of yourself.
 - **[Grasping Vine](grasping-vine.md)**: A vine from your body manipulates objects within 20 ft.
@@ -131,6 +133,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Thunder Fire](thunder-fire.md)**: Ammunition in the targeted firearm deafens opponents.
 - **[Unnatural Lust](unnatural-lust.md)**: Target is compelled to kiss or caress another.
 - **[Unshakable Chill](unshakable-chill.md)**: Target is afflicted with severe cold.
+- **[Venomous Bite](venomous-bite.md)**: Target's bite delivers a stored poison.
 - **[Web Shelter](web-shelter.md)**: Create a comfortable shelter made of webbing.
 - **[Whip of Spiders](whip-of-spiders.md)**: Whiplike spider swarm deals swarm damage by touch.
 - **[Winter Grasp](winter-grasp.md)**: Create a slippery sheet of ice on the ground.
@@ -155,6 +158,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Delay Poison, Communal](delay-poison-communal.md)**: As delay poison, but you may divide the duration among creatures touched.
 - **[Detect Anxieties](detect-anxieties.md)**: Learn what makes creatures anxious.
 - **[Detect Desires](detect-desires.md)**: Learn what creatures desire.
+- **[Drain Poison](drain-poison.md)**: Drain a creature's poison onto your weapon.
 - **[Earth Tremor](earth-tremor.md)**: Unleash a tremor that creates difficult terrain and can knock foes down and damage them.
 - **[Eldritch Fever](eldritch-fever.md)**: Target gains the eldritch ague spellblight.
 - **[Eruptive Pustules](eruptive-pustules.md)**: Acid boils burst when you are attacked.
@@ -163,6 +167,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Fins to Feet](fins-to-feet.md)**: School transmutation (polymorph); Level druid 3, sorcerer/wizard 3, witch 3 Casting Time 1 standard action.
 - **[Flash Fire](flash-fire.md)**: Ammunition in the targeted firearm creates a tremendous flash capable of blinding the weapon’s bearer and those around him.
 - **[Gloomblind Bolts](gloomblind-bolts.md)**: You create one or more bolts of negative energy infused with shadow pulled from the Shadow Plane.
+- **[Grasping Tentacles](grasping-tentacles.md)**: As black tentacles, but they perform dirty tricks.
 - **[Healing Thief](healing-thief.md)**: You siphon half of all magical healing that the targeted creature receives.
 - **[Hostile Levitation](hostile-levitation.md)**: Levitates the targeted creature up off the ground.
 - **[Howling Agony](howling-agony.md)**: Screaming pain limits the target’s actions.
@@ -187,9 +192,11 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Returning Weapon, Communal](returning-weapon-communal.md)**: As returning weapon, but you may divide the duration among weapons touched.
 - **[Sands of Time](sands-of-time.md)**: Target temporarily ages.
 - **[Seed Spies](seed-spies.md)**: Wafting seeds act as spies, as insect spies.
+- **[Shifting Shadows](shifting-shadows.md)**: Shadows make flanking and attacks of opportunity unreliable.
 - **[Spit Venom](spit-venom.md)**: Spit blinding black adder venom.
 - **[Strangling Hair](strangling-hair.md)**: Your hair animates and grapples.
 - **[Symbol of Exsanguination](symbol-of-exsanguination.md)**: Triggered rune causes nearby creatures to bleed.
+- **[Toxic Rupture](toxic-rupture.md)**: A poisonous creature is poisoned by its own venom.
 - **[Unadulterated Loathing](unadulterated-loathing.md)**: Target is compelled to avoid another creature.
 - **[Vermin Shape I](vermin-shape-i.md)**: Take the form and some of the powers of a Small or Medium vermin.
 - **[Vision of Hell](vision-of-hell.md)**: Illusory hellscape makes creatures shaken.
@@ -311,6 +318,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Mage’s Decree](mages-decree.md)**: Send a message to creatures within miles.
 - **[Mind Swap](mind-swap.md)**: Switch minds with another creature for 1 hour per level.
 - **[Named Bullet, Greater](named-bullet-greater.md)**: As named bullet, but deals 2 points of damage per caster level.
+- **[Neutralize Poison, Greater](neutralize-poison-greater.md)**: As neutralize poison, but it also reverses poison damage.
 - **[Night Terrors](night-terrors.md)**: Disturb a creature’s rest with dark dreams.
 - **[Overwhelming Poison](overwhelming-poison.md)**: Make a poison more difficult to resist.
 - **[Phantasmal Putrefaction](phantasmal-putrefaction.md)**: Trick creatures into thinking their flesh is rotting.
@@ -340,6 +348,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Lunar Veil](lunar-veil.md)**: Dispel light and revert lycanthropes.
 - **[Object Possession, Greater](object-possession-greater.md)**: As possess object, but the object is more powerful and you can possess a construct.
 - **[Plundered Power](plundered-power.md)**: Kill a creature and steal its strongest spell-like ability.
+- **[Poison Breath](poison-breath.md)**: Cone of toxic mist, as poison.
 - **[Pox of Rumors](pox-of-rumors.md)**: Curse a creature to attract nasty rumors.
 - **[Primal Regression](primal-regression.md)**: Make a creature become bestial and unintelligent.
 - **[Reincarnate Spy](reincarnate-spy.md)**: As *reincarnate*, but creating a body similar to that of a chosen creature, and you secretly keep part of the body.

@@ -1478,10 +1478,14 @@ The style feats presented in this book are suited to urban settings. Each style 
 
 | Feat | Type | Prerequisites |
 |---|---|---|
+| [Accomplished Sneak Attacker](accomplished-sneak-attacker.md) | — | Sneak attack class feature |
 | [Acrobatic Spellcaster](acrobatic-spellcaster.md) | Combat | Combat Casting, Skill Focus (Acrobatics) |
 | [Agent of Fear](agent-of-fear.md) | — | Persuasive, frightening appearance class feature |
+| [Ambuscading Spell](ambuscading-spell.md) | — | — |
 | [Ambush Sense](ambush-sense.md) | Combat | Int 13, trap sense class feature |
 | [Amplified Hex](amplified-hex.md) | — | Hex class feature |
+| [Battle Cry (Surprise Round)](battle-cry-surprise-round.md) | — | Bardic performance class feature |
+| [Befuddling Initiative](befuddling-initiative.md) | Combat | Improved Initiative |
 | [Betrayal Sense](betrayal-sense.md) | Combat | Wis 13, rogue level 3rd, trap sense class feature |
 | [Blustering Bluff](blustering-bluff.md) | — | Cha 13, Bluff 1 rank, Intimidate 1 rank |
 | [Brilliant Planner](brilliant-planner.md) | — | Int 13, character level 5th |
@@ -1503,16 +1507,26 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Cunning Intuition](cunning-intuition.md) | Combat | Alertness, Improved Initiative, Lightning Reflexes, Quick Draw, Ready for Anything, base attack bonus +13 or rogue level 13th, Sense Motive 13 ranks |
 | [Cutting Humiliation](cutting-humiliation.md) | — | Persuasive, Intimidate 5 ranks |
 | [Darkness Trick](darkness-trick.md) | — | Use Magic Device 5 ranks, ability to cast *darkness* |
+| [Dastardly Trick](dastardly-trick.md) | Combat, Panache | Int 13; Amateur Swashbuckler or panache class feature; Combat Expertise; Improved Dirty Trick |
+| [Dedicated Adversary](dedicated-adversary.md) | Combat | No levels in a class that has the favored enemy class feature |
+| [Deep Toxin](deep-toxin.md) | — | Vital Strike; base attack bonus +6; Craft (poison) 6 ranks or poison use class feature |
 | [Deft Catcher](deft-catcher.md) | — | Skill Focus (Sleight of Hand) |
+| [Dirty Critical Hit](dirty-critical-hit.md) | Combat, Critical | Int 13, Combat Expertise, Critical Focus, Improved Dirty Trick, base attack bonus +11 |
+| [Dirty Disarm](dirty-disarm.md) | Combat | Int 13, Combat Expertise, Improved Dirty Trick, Improved Disarm, base attack bonus +6 |
+| [Dirty Fighting](dirty-fighting.md) | Combat | — |
+| [Dirty Grapple](dirty-grapple.md) | Combat | Dex 13, Int 13, Combat Expertise, Improved Dirty Trick, Improved Grapple, Improved Unarmed Strike, base attack bonus +6 |
 | [Drunkard’s Recovery](drunkard-s-recovery.md) | — | Con 13 |
 | [Eldritch Aid](eldritch-aid.md) | — | Caster level 1st |
 | [Enrage Opponent](enrage-opponent.md) | Combat, Panache | Cha 13, Amateur Swashbuckler or panache class feature, Persuasive |
 | [Entreating Critical](entreating-critical.md) | Combat, Critical | Cha 15, Call Truce, Critical Focus, Persuasive, base attack bonus +11, Diplomacy 5 ranks |
+| [Equipment Trick](equipment-trick.md) | Combat | Base attack bonus +1 |
 | [Expanded Spell Kenning](expanded-spell-kenning.md) | — | Spell kenning class feature |
 | [Expanded Studies](expanded-studies.md) | — | Wis 17, hunter or warpriest level 16th |
 | [Expeditious Sleuth](expeditious-sleuth.md) | — | Perception 3 ranks, inspiration or lore master class feature |
+| [Expert Sniper](expert-sniper.md) | Combat | Stealth 3 ranks |
 | [Exquisite Sneak](exquisite-sneak.md) | — | Dex 15, Careful Sneak, Stealth 6 ranks |
 | [Extra Contingency](extra-contingency.md) | — | Character level 19th |
+| [Extra Impromptu Sneak Attack](extra-impromptu-sneak-attack.md) | Combat | Impromptu sneak attack class feature |
 | [Eye for Ingredients](eye-for-ingredients.md) | — | Eschew Materials, Appraise 6 ranks, Spellcraft 6 ranks |
 | [Feign Curse](feign-curse.md) | — | Deceitful, Bluff 5 ranks, Spellcraft 1 rank |
 | [Fencing Grace](fencing-grace.md) | Combat | Dex 13, Weapon Finesse, Weapon Focus (rapier) |
@@ -1520,28 +1534,39 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Fey Spell Versatility](fey-spell-versatility.md) | — | Cha 13, Spellcraft 1 rank, ability to cast ranger spells |
 | [Fighting Frenzy](fighting-frenzy.md) | Combat, Teamwork | Cha 13, rage class feature |
 | [Fleeting Spell](fleeting-spell.md) | Metamagic | — |
+| [Flexible Foe](flexible-foe.md) | Combat | Base attack bonus +5, favored enemy (any humanoid or any outsider), favored enemy class feature |
+| [Flying Tackle](flying-tackle.md) | — | Improved Overrun |
 | [Fool Magic](fool-magic.md) | — | Deceitful, Disguise 1 rank, Use Magic Device 1 rank |
 | [Fox Insight](fox-insight.md) | Combat | Int 13, Fox Style |
 | [Fox Style](fox-style.md) | Combat, Style | Int 13 |
 | [Fox Trickery](fox-trickery.md) | Combat | Int 13, Combat Expertise, Fox Insight, Fox Style, Improved Dirty Trick |
+| [Friendly Shroud](friendly-shroud.md) | — | Stealth 1 rank |
+| [Frightening Ambush](frightening-ambush.md) | Combat | Intimidate 1 rank |
 | [Gaze Reflection](gaze-reflection.md) | — | Spellcraft  10 stare and ranks, bold mesmerist tricks class features |
 | [Graceful Steal](graceful-steal.md) | Combat | Dex 13, Agile Maneuvers, Improved Steal, Sleight of Hand 3 ranks |
 | [Improved Bravery](improved-bravery.md) | Combat | Cha 13, bravery class feature |
 | [Improved Conceal Spell](improved-conceal-spell.md) | — | Conceal Spell, Deceitful, Bluff 5 ranks, Disguise 5 ranks, Sleight of Hand 10 ranks, ability to cast 3rd-level spells or use a 3rd-level spell-like ability |
 | [Improved Legendary Influence](improved-legendary-influence.md) | — | Legendary Influence, lesser spirit power and propitiation class features |
+| [Improved Lookout](improved-lookout.md) | — | Lookout |
 | [Improved Sabotaging Sunder](improved-sabotaging-sunder.md) | Combat | Str 13, Improved Sunder, Power Attack, Sabotaging Sunder, Disable Device 9 ranks |
 | [Incite Paranoia](incite-paranoia.md) | Combat | Int 13, Combat Expertise, Deceitful, Greater Feint, Improved Feint, base attack bonus +6 |
 | [Insightful Advice](insightful-advice.md) | — | Perform (oratory) 3 ranks |
+| [Inspired Sneak Attack](inspired-sneak-attack.md) | Combat | Inspiration pool; sneak attack or studied strike class feature |
 | [Inspiring Bravery](inspiring-bravery.md) | Combat | Cha 13, bravery class feature |
 | [Inspiring Mentor](inspiring-mentor.md) | — | Cha 13, inspire competence bardic performance |
 | [Intoxicating Flattery](intoxicating-flattery.md) | — | Deceitful, Bluff 5 ranks |
 | [Ironclad Logic](ironclad-logic.md) | — | Int 19, Diplomacy 3 ranks |
+| [Kitsune Style](kitsune-style.md) | Combat, Style | Int 13, Combat Expertise, Improved Dirty Trick |
+| [Kitsune Tricks](kitsune-tricks.md) | Combat, Style | Int 13; Combat Expertise; Improved Dirty Trick; Kitsune Style; base attack bonus +3 or monk level 3rd |
+| [Kitsune Vengeance](kitsune-vengeance.md) | Combat, Style | Int 13; Combat Expertise; Improved Dirty Trick; Kitsune Style; Kitsune Tricks; base attack bonus +6 or monk level 6th |
 | [Know Weakness](know-weakness.md) | Combat | Bardic knowledge class feature |
 | [Legendary Influence](legendary-influence.md) | — | Lesser spirit power class feature |
 | [Lightning Draw](lightning-draw.md) | Combat, Panache | Quick Draw, swashbuckler initiative deed, swashbuckler level 7th |
+| [Lightning Rager](lightning-rager.md) | — | Rage class feature |
 | [Mad Magic](mad-magic.md) | Combat | Bloodrage class feature or perfect clarity rage power |
 | [Manipulative Agility](manipulative-agility.md) | — | Bluff 1 rank, Sleight of Hand 1 rank |
 | [Martial Dominance](martial-dominance.md) | Combat | Base attack bonus +5, Intimidate 1 rank |
+| [Master Sniper](master-sniper.md) | Combat | Expert Sniper, Rapid Shot, Stealth 6 ranks |
 | [Measure Foe](measure-foe.md) | Combat | Street Smarts, base attack bonus +1 |
 | [Misdirection Attack](misdirection-attack.md) | Combat | Int 13, Combat Expertise, Deceitful, Misdirection Redirection, Misdirection Tactics, Bluff 10 ranks |
 | [Misdirection Redirection](misdirection-redirection.md) | Combat | Int 13, Combat Expertise, Misdirection Tactics, Deceitful, Bluff 10 ranks |
@@ -1560,6 +1585,8 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Piercing Grapple](piercing-grapple.md) | Combat | Dex 13, Improved Grapple, Improved Unarmed Strike, Quick Draw, Intimidate 7 ranks |
 | [Planar Wanderer](planar-wanderer.md) | — | Cartogramancer, Knowledge (geography) 10 ranks, Knowledge (planes) 10 ranks, ability to cast *greater teleport* and *plane shift* |
 | [Play to the Crowd](play-to-the-crowd.md) | — | Int 19, Ironclad Logic, Diplomacy 5 ranks, Sense Motive 5 ranks |
+| [Poison Shot Deed](poison-shot-deed.md) | Grit | Amateur Gunslinger or grit class feature |
+| [Powerful Poisoning](powerful-poisoning.md) | — | Power Attack; Craft (poison) 3 ranks or poison use class feature |
 | [Quick Favor](quick-favor.md) | — | Persuasive |
 | [Quick Study](quick-study.md) | Combat | Int 13, bravery +3 class feature, fighter level 10th |
 | [Quiet Death](quiet-death.md) | Combat | Dex 19, Stealth 10 ranks, rogue level 10th |
@@ -1567,13 +1594,16 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Ranged Feint](ranged-feint.md) | Combat | Base attack bonus +2, Bluff 3 ranks |
 | [Read Spell Traces](read-spell-traces.md) | — | — |
 | [Ready for Anything](ready-for-anything.md) | Combat | Alertness, Improved Initiative, Lightning Reflexes, Quick Draw, base attack bonus +6 or uncanny dodge class feature |
+| [Reflexive Caster](reflexive-caster.md) | — | Combat Reflexes, caster level 5th |
 | [Sabotage Magic Item](sabotage-magic-item.md) | — | Magical Aptitude, Disable Device 5 ranks, Use Magic Device 5 ranks |
 | [Sabotage Specialist](sabotage-specialist.md) | — | Deft Hands, Disable Device 5 ranks |
 | [Sabotaging Sunder](sabotaging-sunder.md) | Combat | Str 13, Improved Sunder, Power Attack, Disable Device 7 ranks |
+| [Scurrying Swarmer](scurrying-swarmer.md) | Combat | Ratfolk, swarming racial trait |
 | [Sense Assumptions](sense-assumptions.md) | — | Sense Motive 3 ranks |
 | [Sense Relationships](sense-relationships.md) | — | Street Smarts |
 | [Shadows of Fear](shadows-of-fear.md) | Combat | Hidden strike +2d8 or sneak attack +2d6 |
 | [Sliding Dash](sliding-dash.md) | Combat | Dex 15, Acrobatics 10 ranks or acrobatic charge class feature, Bluff 3 ranks |
+| [Sneaking Critical](sneaking-critical.md) | Combat, Critical | Critical Focus, base attack bonus +9, sneak attack class feature |
 | [Social Bravery](social-bravery.md) | Combat | Cha 13, bravery class feature |
 | [Starry Grace](starry-grace.md) | Combat | Dex 13, Weapon Finesse, Weapon Focus (starknife) |
 | [Startling Getaway](startling-getaway.md) | Combat | Startling appearance class feature |
@@ -1585,17 +1615,23 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Studied Spell](studied-spell.md) | Metamagic | — |
 | [Stylized Spell](stylized-spell.md) | Metamagic | Bluff 5 ranks, Spellcraft 5 ranks |
 | [Subtle Enchantments](subtle-enchantments.md) | — | Deceitful, Spell Focus (enchantment) |
+| [Superior Dirty Trick](superior-dirty-trick.md) | Combat | Int 13, Combat Expertise, Greater Dirty Trick, Improved Dirty Trick, base attack bonus +8 |
 | [Superior Scryer](superior-scryer.md) | — | Spell Focus (divination), the ability to cast at least one spell of the scrying subschool |
 | [Swipe and Stash](swipe-and-stash.md) | Combat | Sleight of Hand 5 ranks |
 | [Telepathy Tap](telepathy-tap.md) | — | Sense Motive 10 ranks, ability to cast *detect thoughts* or *telepathy* as a spell or spell-like ability or telepathy supernatural ability |
 | [Tenacious Spell](tenacious-spell.md) | Metamagic | — |
+| [Terrifying Assault](terrifying-assault.md) | Combat | Frightening Ambush, Intimidate 5 ranks |
 | [Threatening Negotiator](threatening-negotiator.md) | — | Nerve-Racking Negotiator, Persuasive, Skill Focus (Intimidate) |
 | [Timely Coordination](timely-coordination.md) | Teamwork | — |
 | [Totem Beast](totem-beast.md) | — | Wis 13, animal companion class feature |
+| [Treacherous Toxin](treacherous-toxin.md) | — | Base attack bonus +5, sneak attack class feature |
 | [True Deception](true-deception.md) | — | Cha 17, Disguise 17 ranks, master disguise master ninja trick or master of disguise advanced rogue talent, ninja level 10th or rogue level 10th |
 | [Unfair Grip](unfair-grip.md) | Combat | Str 13, Dex 13, Improved Grapple, Improved Unarmed Strike, Power Attack, base attack bonus +1 |
 | [Unimpeachable Honor](unimpeachable-honor.md) | — | Iron Will |
+| [Unseen Poison](unseen-poison.md) | — | Bluff 5 ranks, Craft (poison) 5 ranks, ability to cast *nondetection* |
+| [Verify](verify.md) | — | Ability to cast 1st-level spells, lawful evil alignment, worshiper of a lawful evil deity of devils and contracts |
 | [Walking Sleight](walking-sleight.md) | — | Deft Hands, Sleight of Hand 5 ranks |
+| [Wasp Familiar](wasp-familiar.md) | — | Chaotic neutral alignment, worshiper of a chaotic neutral deity of lust, revenge, and trickery |
 | [Willing Accomplice](willing-accomplice.md) | — | Cha 13, Bluff 3 ranks, Sense Motive 1 rank |
 
 ## Horror Adventures Feats

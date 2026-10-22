@@ -21,6 +21,7 @@
 - **[Acid Maw](acid-maw.md)**: Companion's bite deals extra acid damage.
 - **[Air Bubble](air-bubble.md)**: Creates a small pocket of air around your head or an object.
 - **[Blend](blend.md)**: You draw upon your elven link to the wilderness to change the coloration of yourself and your equipment to.
+- **[Blend with Surroundings](blend-with-surroundings.md)**: Target looks like an object and hides easily while still.
 - **[Calm Animals](calm-animals.md)**: Calms 2d4 + level HD of animals.
 - **[Charm Animal](charm-animal.md)**: Makes one animal your friend.
 - **[Commune with Birds](commune-with-birds.md)**: You utter a question in the form of a low-pitched bird call that can be heard up to a mile away, and can.
@@ -94,6 +95,7 @@
 - **[Forest Friend](forest-friend.md)**: Plants in a forested area become helpful instead of hindering you and your allies.
 - **[Frost Fall](frost-fall.md)**: The area is covered in a chilling frost.
 - **[Fury of the Sun](fury-of-the-sun.md)**: You curse the target to suffer unbearable heat.
+- **[Garden of Peril](garden-of-peril.md)**: Poisonous mushrooms sicken nearby creatures.
 - **[Grasping Vine](grasping-vine.md)**: A vine from your body manipulates objects within 20 ft.
 - **[Greensight](greensight.md)**: Grant a target the ability to see through plant matter as if it were transparent.
 - **[Groundswell](groundswell.md)**: School transmutation [earth]; Level cleric 2, druid 2, magus 2, ranger 2 Casting Time 1 standard action.
@@ -101,6 +103,7 @@
 - **[Gusting Sphere](gusting-sphere.md)**: School evocation [air]; Level druid 2, magus 2, sorcerer/wizard 2 Casting Time 1 standard action Components V.
 - **[Heat Metal](heat-metal.md)**: Makes metal so hot it damages those who touch it.
 - **[Hold Animal](hold-animal.md)**: Paralyzes one animal for 1 round/level.
+- **[Invigorating Poison](invigorating-poison.md)**: Poison ability damage becomes a bonus instead.
 - **[Owl’s Wisdom](owls-wisdom.md)**: Subject gains +4 to Wis for 1 min./level.
 - **[Pouncing Fury](pouncing-fury.md)**: Make a full attack with your claws after a charge.
 - **[Quick Change](quick-change.md)**: Use change shape as a swift action and surprise foes.
@@ -119,6 +122,7 @@
 - **[Summon Nature’s Ally II](summon-natures-ally-ii.md)**: Summons creature to fight.
 - **[Summon Swarm](summon-swarm.md)**: Summons swarm of bats, rats, or spiders.
 - **[Tree Shape](tree-shape.md)**: You look exactly like a tree for 1 hour/level.
+- **[Venomous Bite](venomous-bite.md)**: Target's bite delivers a stored poison.
 - **[Vine Strike](vine-strike.md)**: Enhance one of your natural or unarmed attacks with thorny vine growth.
 - **[Warp Wood](warp-wood.md)**: Bends wood.
 - **[Whip of Spiders](whip-of-spiders.md)**: Whiplike spider swarm deals swarm damage by touch.
@@ -143,6 +147,7 @@
 - **[Delay Poison, Communal](delay-poison-communal.md)**: As delay poison, but you may divide the duration among creatures touched.
 - **[Diminish Plants](diminish-plants.md)**: Reduces size or blights the growth of normal plants.
 - **[Dominate Animal](dominate-animal.md)**: One animal obeys your silent mental commands and orders.
+- **[Drain Poison](drain-poison.md)**: Drain a creature's poison onto your weapon.
 - **[Earth Tremor](earth-tremor.md)**: Unleash a tremor that creates difficult terrain and can knock foes down and damage them.
 - **[Fey Form I](fey-form-i.md)**: Assume the form of a Small or Medium fey creature.
 - **[Fins to Feet](fins-to-feet.md)**: School transmutation (polymorph); Level druid 3, sorcerer/wizard 3, witch 3 Casting Time 1 standard action.
@@ -179,6 +184,7 @@
 - **[Summon Nature’s Ally III](summon-natures-ally-iii.md)**: Summons creature to fight.
 - **[Tail Current](tail-current.md)**: Create a current in water to enhance or impede swimming.
 - **[Tailwind](tailwind.md)**: Create a current of wind to enhance or impede flight.
+- **[Toxic Rupture](toxic-rupture.md)**: A poisonous creature is poisoned by its own venom.
 - **[Ward of the Season](ward-of-the-season.md)**: This spell harnesses the power of the seasons to protect the target and grant a number of bonuses.
 - **[Water Breathing](water-breathing.md)**: Subjects can breathe underwater.
 - **[Wind Wall](wind-wall.md)**: Deflects arrows, smaller creatures, and gases.
@@ -219,6 +225,7 @@
 - **[Sea Stallion](sea-stallion.md)**: You and your mount adapt to an aquatic environment.
 - **[Spike Stones](spike-stones.md)**: Creatures in area take 1d8 damage, may also be slowed*.*
 - **[Summon Nature’s Ally IV](summon-natures-ally-iv.md)**: Summons creature to fight.
+- **[Sword to Snake](sword-to-snake.md)**: An item bites whoever handles it.
 - **[Wooden Wing Shield](wooden-wing-shield.md)**: Your wings become a barrier granting a +4 shield bonus to AC.
 
 ## 5th-Level Druid Spells
@@ -242,6 +249,7 @@
 - **[Half-blood Extraction](half-blood-extraction.md)**: You transform the target half-orc into a full-blooded orc.
 - **[Hallow](hallow.md)**: Designates location as holy.
 - **[Insect Plague](insect-plague.md)**: Wasp swarms attack creatures.
+- **[Neutralize Poison, Greater](neutralize-poison-greater.md)**: As neutralize poison, but it also reverses poison damage.
 - **[Old Salt’s Curse](old-salt-s-curse.md)**: You inflict a curse of the roiling sea upon the target, making it permanently sickened.
 - **[Poisonous Balm](poisonous-balm.md)**: As *cure serious wounds*, but leave behind a latent venom.
 - **[Replay Tracks](replay-tracks.md)**: Reconstruct past events from a set of tracks.
@@ -283,6 +291,7 @@
 - **[Overwhelming Poison](overwhelming-poison.md)**: Make a poison more difficult to resist.
 - **[Owl’s Wisdom, Mass](owls-wisdom-mass.md)**: As *owl’s wisdom*, affects 1 subject/level.
 - **[Path of the Winds](path-of-the-winds.md)**: With a sweeping gesture, you call forth mighty winds to clear a path ahead of you.
+- **[Poison Breath](poison-breath.md)**: Cone of toxic mist, as poison.
 - **[Primal Regression](primal-regression.md)**: Make a creature become bestial and unintelligent.
 - **[Reincarnate Spy](reincarnate-spy.md)**: As *reincarnate*, but creating a body similar to that of a chosen creature, and you secretly keep part of the body.
 - **[Repel Wood](repel-wood.md)**: Pushes away wooden objects.

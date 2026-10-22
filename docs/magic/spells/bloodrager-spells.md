@@ -22,6 +22,7 @@ Bloodragers gain access to the following spells. Spells in plain text come from 
 - **[Feather Fall](feather-fall.md)**: Objects or creatures fall slowly.
 - **[Flare Burst](flare-burst.md)**: As flare, but all creatures within 10 ft.
 - **[Frostbite](frostbite.md)**: Target takes cold damage and is fatigued.
+- **[Hide Weapon](hide-weapon.md)**: Meld a weapon into your arm.
 - **[Hydraulic Push](hydraulic-push.md)**: Wave of water bull rushes an enemy.
 - **[Icicle Dagger](icicle-dagger.md)**: Masterwork ice dagger deals +1 cold damage.
 - **[Jump](jump.md)**: Subject gets bonus on Acrobatics checks.
@@ -74,6 +75,7 @@ Bloodragers gain access to the following spells. Spells in plain text come from 
 - **[Blindness/Deafness](blindness-deafness.md)**: Makes subject blind or deaf.
 - **[Blood Armor](blood-armor.md)**: Your blood hardens when you are wounded, increasing your AC.
 - Blood Blaze
+- **[Body Double](body-double.md)**: Two creatures look alike; attacks may hit the wrong one.
 - **[Boiling Blood](boiling-blood.md)**: Targets take fire damage; orcs get +2 Strength.
 - Brow Gasher
 - Bullet Shield
@@ -149,6 +151,7 @@ Bloodragers gain access to the following spells. Spells in plain text come from 
 - **[Force Hook Charge](force-hook-charge.md)**: Hook of force drags you to the target.
 - **[Force Punch](force-punch.md)**: Target takes 1d4 force damage per level and is pushed away.
 - Gloomblind Bolts
+- **[Grasping Tentacles](grasping-tentacles.md)**: As black tentacles, but they perform dirty tricks.
 - **[Haste](haste.md)**: One creature/level moves faster, +1 on attack rolls, AC, and Reflex saves.
 - **[Heroism](heroism.md)**: Gives +2 bonus on attack rolls, saves, skill checks.
 - **[Hold Person](hold-person.md)**: Paralyzes one humanoid for 1 round/level.

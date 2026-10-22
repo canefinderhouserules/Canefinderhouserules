@@ -656,3 +656,19 @@ When the living grimoire uses these spell-like abilities, the tattooed holy scri
 This ability replaces bane, greater bane, second judgment, and third judgment.
 
 **Word of God (Su)**: At 20th level, a living grimoire can smite his foes with the holy word of his deity. Up to seven times per day, the inquisitor can make a single melee attack with his holy book against a target. If the attack hits, it deals damage normally and the target must succeed at a Fortitude save or die (DC = 10 + 1/2 the living grimoire’s inquisitor level + his Intelligence modifier). Regardless of whether the save is successful, the target creature is immune to the living grimoire’s word of god ability for 24 hours. Once the living grimoire uses this ability, he can’t use it again for 1d4 rounds. This ability replaces true judgment.
+
+## Reaper of Secrets
+
+Masters of mind tricks and deception, these divine assassins track down and kill anyone who has forbidden knowledge about their faiths.
+
+**Bound by Secrecy (Ex)**: A reaper of secrets must choose a deity of secrets and murder. If she ever changes her deity, she loses this archetype and becomes a normal inquisitor.
+
+**Deceitful Lore (Ex)**: At 1st level, a reaper of secrets adds her Wisdom modifier on Bluff and Disguise skill checks in addition to her Charisma modifier. This ability replaces monster lore.
+
+**Soul-Piercing Gaze (Su)**: At 1st level, as a swift action, a reaper of secrets can focus on a single creature she can see. She then gains an insight bonus on Perception and Sense Motive checks against that creature equal to 1/2 her level (minimum +1). The effect ends if she focuses on a new target. This ability replaces stern gaze.
+
+**Mind-Game Tactics (Su)**: At 3rd level, a reaper of secrets can read other creatures so well she can use their reactions to gain a tactical advantage. She treats any creature targeted by her soul-piercing gaze as if it were her ally and possessed the same teamwork feats as she does for the purposes of positioning and threatening when she determines whether she receives a benefit from her teamwork feats. She cannot use this ability to benefit from any teamwork feats that require particular actions from allies, such as Swap Places.
+
+For example, a reaper of secrets with the Precise Strike feat gains the bonus from that feat if she and the target of her soul-piercing gaze occupy flanking positions relative to the creature she attacks.
+
+This ability replaces solo tactics.

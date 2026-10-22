@@ -62,6 +62,7 @@
 - **[Aphasia](aphasia.md)**: Prevent a target from understanding language.
 - **[Auditory Hallucination](auditory-hallucination.md)**: Create a phantasm with auditory effects.
 - **[Blend](blend.md)**: You draw upon your elven link to the wilderness to change the coloration of yourself and your equipment to.
+- **[Blend with Surroundings](blend-with-surroundings.md)**: Target looks like an object and hides easily while still.
 - **[Cultural Adaptation](cultural-adaptation.md)**: Adapt to fit the local culture.
 - **[Damp Powder](damp-powder.md)**: Ruins ammunition loaded in the targeted firearm.
 - **[Decrepit Disguise](decrepit-disguise.md)**: Make an object seem worthless.
@@ -72,6 +73,7 @@
 - **[Fabricate Disguise](fabricate-disguise.md)**: Create a disguise in an instant.
 - **[Grasping Corpse](grasping-corpse.md)**: Cause a corpse to grab or trip a foe.
 - **[Handy Grapnel](handy-grapnel.md)**: Transform a ropelike object into a retracting grapple.
+- **[Hide Weapon](hide-weapon.md)**: Meld a weapon into your arm.
 - **[Hold Portal](hold-portal.md)**: Holds door shut.
 - **[Illusion of Calm](illusion-of-calm.md)**: You appear to be standing still, even when you take some actions.
 - **[Jury-Rig](jury-rig.md)**: Removes the broken condition from the targeted object.
@@ -180,6 +182,7 @@
 - **[Bestow Weapon Proficiency](bestow-weapon-proficiency.md)**: Grants a creature proficiency in a single weapon for short period of time.
 - **[Blood Blaze](blood-blaze.md)**: School transmutation [fire]; Level alchemist 2, antipaladin 1, cleric 2, magus 2, sorcerer/wizard 2, witch 2.
 - **[Bloodbath](bloodbath.md)**: Cause yourself and enemies to bleed.
+- **[Body Double](body-double.md)**: Two creatures look alike; attacks may hit the wrong one.
 - **[Boneshaker](boneshaker.md)**: Momentarily control a living or undead creature’s skeleton.
 - **[Brow Gasher](brow-gasher.md)**: Slashing weapon deals bleed damage to an opponent’s head.
 - **[Bullet Shield](bullet-shield.md)**: You gain a +4 deflection bonus to AC against firearm attacks.
@@ -201,6 +204,7 @@
 - **[Fiery Shuriken](fiery-shuriken.md)**
 - **[Flickering Lights](flickering-lights.md)**: Create an area of inconsistent lighting.
 - **[Frost Fall](frost-fall.md)**: The area is covered in a chilling frost.
+- **[Garden of Peril](garden-of-peril.md)**: Poisonous mushrooms sicken nearby creatures.
 - **[Ghost Whip](ghost-whip.md)**: Create a ghost touch whip that passes through objects.
 - **[Grasping Vine](grasping-vine.md)**: A vine from your body manipulates objects within 20 ft.
 - **[Greensight](greensight.md)**: Grant a target the ability to see through plant matter as if it were transparent.
@@ -238,6 +242,7 @@
 - **[Glitterdust](glitterdust.md)**: Blinds creatures, outlines invisible creatures.
 - **[Returning Weapon](returning-weapon.md)**: Grants a weapon the returning special weapon quality.
 - **[Ricochet Shot](ricochet-shot.md)**: Imbues a projectile weapon to give its ammunition the ability to ricochet.
+- **[Sense Vitals](sense-vitals.md)**: Gain sneak attack with any manufactured weapon.
 - **[Sentry Skull](sentry-skull.md)**: You restore the senses to the severed head of a humanoid or monstrous humanoid killed within the past 24.
 - **[Shadow Anchor](shadow-anchor.md)**: School illusion (shadow) [shadow]; Level bard 2, sorcerer/wizard 2, witch 2 Casting Time 1 standard action.
 - **[Shifted Steps](shifted-steps.md)**: Make a target sound as if elsewhere.
@@ -350,6 +355,7 @@
 - **[Firestream](firestream.md)**: A rushing stream of fire sprays from your outstretched hand, dealing 2d6 points of fire damage to every.
 - **[Flash Fire](flash-fire.md)**: Ammunition in the targeted firearm creates a tremendous flash capable of blinding the weapon’s bearer and those around him.
 - **[Gloomblind Bolts](gloomblind-bolts.md)**: You create one or more bolts of negative energy infused with shadow pulled from the Shadow Plane.
+- **[Grasping Tentacles](grasping-tentacles.md)**: As black tentacles, but they perform dirty tricks.
 - **[Healing Thief](healing-thief.md)**: You siphon half of all magical healing that the targeted creature receives.
 - **[Hostile Levitation](hostile-levitation.md)**: Levitates the targeted creature up off the ground.
 - **[Improve Trap](improve-trap.md)**: When this spell is cast upon a trap, it improves one specific element of the trap chosen at the time of.
@@ -383,8 +389,10 @@
 - **[Returning Weapon, Communal](returning-weapon-communal.md)**: As returning weapon, but you may divide the duration among weapons touched.
 - **[Seed Spies](seed-spies.md)**: Wafting seeds act as spies, as insect spies.
 - **[Selective Alarm](selective-alarm.md)**: As *alarm*, but only against selected creatures.
+- **[Selective Invisibility](selective-invisibility.md)**: Invisible, except to one chosen creature you may attack.
 - **[Sepia Snake Sigil](sepia-snake-sigil.md)**: Creates text symbol that immobilizes reader.
 - **[Share Language, Communal](share-language-communal.md)**: As share language, but you may divide the duration among creatures touched.
+- **[Shifting Shadows](shifting-shadows.md)**: Shadows make flanking and attacks of opportunity unreliable.
 - **[Sleet Storm](sleet-storm.md)**: Hampers vision and movement.
 - **[Spider Climb, Communal](spider-climb-communal.md)**: As spider climb, but you may divide the duration among creatures touched.
 - **[Stinking Cloud](stinking-cloud.md)**: Nauseating vapors, 1 round/level.
@@ -412,6 +420,7 @@
 - **[Lightning Bolt](lightning-bolt.md)**: Electricity deals 1d6/level damage.
 - **[Tiny Hut](tiny-hut.md)**: Creates shelter for 10 creatures.
 - **[Touch Injection](touch-injection.md)**: You can deliver an infusion, elixir, poison, or potion as a touch attack.
+- **[Toxic Rupture](toxic-rupture.md)**: A poisonous creature is poisoned by its own venom.
 - **[Urban Step](urban-step.md)**: Step into one doorway and out another.
 - **[Voluminous Vocabulary](voluminous-vocabulary.md)**: Grant ability to speak, read, and write one or more languages for 8 hours.
 - **[Wall of Nausea](wall-of-nausea.md)**: Wall of distorted images nauseates creatures passing through.
@@ -538,6 +547,7 @@
 - **[Ice Storm](ice-storm.md)**: Hail deals 5d6 damage in cylinder 40 ft. across.
 - **[Resilient Sphere](resilient-sphere.md)**: Force globe protects but traps one subject.
 - **[Shout](shout.md)**: Deafens all within cone and deals 5d6 sonic damage.
+- **[Sword to Snake](sword-to-snake.md)**: An item bites whoever handles it.
 - **[Tail Current](tail-current.md)**: Create a current in water to enhance or impede swimming.
 - **[Tailwind](tailwind.md)**: Create a current of wind to enhance or impede flight.
 - **[Telekinetic Charge](telekinetic-charge.md)**: Launches an ally through the air.
@@ -600,6 +610,7 @@
 - **[False Future](false-future.md)**: Cause divinations of the future to reveal the result you choose.
 - **[Flesh Puppet Horde](flesh-puppet-horde.md)**: Control multiple zombies in human guise.
 - **[Glimpse of Truth](glimpse-of-truth.md)**: Gain *true seeing* for 1 round.
+- **[Grease, Greater](grease-greater.md)**: As grease, but covers much more.
 - **[Half-blood Extraction](half-blood-extraction.md)**: You transform the target half-orc into a full-blooded orc.
 - **[Hostile Juxtaposition](hostile-juxtaposition.md)**: You create a dimensional link with a targeted creature, and switch spots with it.
 - **[Impossible Angles](impossible-angles.md)**: Distort geometry in an area.

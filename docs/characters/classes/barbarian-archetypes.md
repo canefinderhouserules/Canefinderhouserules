@@ -234,6 +234,8 @@ Furthermore, the barbarian deals an additional 1d6 points of damage when she dam
 
 **Elemental Blood, Lesser (Su)**: Choose an energy type: acid, cold, fire, or electricity. While raging, as a swift action up to three times a day, the barbarian can imbue her melee attacks with elemental energy, dealing an additional 1d6 points of damage of the chosen energy type for 1 round.
 
+**Enhance Venom (Ex)**: The barbarian adds her Constitution modifier to the DC of any poison she delivers using viper's kiss or viper's breath. A barbarian must have viper's breath and viper's kiss to select this rage power.
+
 **Fey Blood (Su)**: While raging, when the barbarian charges, she ignores difficult terrain (including magical terrain, but not other creatures).
 
 **Fey Blood, Greater (Su)**: While raging, as long as the barbarian moves at least 10 feet, she gain the effects of blur for 1 round.
@@ -251,6 +253,10 @@ Furthermore, the barbarian deals an additional 1d6 points of damage when she dam
 **Undead Blood, Greater (Su)**: While raging, the barbarian gains cold resistance 10, as well as DR 10/- against nonlethal damage.
 
 **Undead Blood, Lesser (Su)**: While raging, when the barbarian hits a creature with a charge attack, the creature she hit becomes shaken for a number of rounds equal to 1/2 her barbarian level (minimum 1). This effect does not stack with other fear effects to cause a stronger condition.
+
+**Viper's Breath (Ex)**: While holding a dose of poison in her mouth, the barbarian can exhale a 15-foot cone of inhaled poison. Anyone caught in the spray must succeed at a saving throw against the poison with a DC equal to the poison's DC – 4 or suffer the poison's effects with an immediate onset. A barbarian must have viper's kiss to select this rage power.
+
+**Viper's Kiss (Ex)**: The barbarian can drink 1 dose of an ingested poison as a move action (instead of a standard action) as long as she starts the turn with the poison in her hand. She can hold this dose within her mouth for a number of rounds equal to her Constitution modifier (minimum 1 round) without suffering harmful effects. If the barbarian still holds the poison in her mouth after this time, she consumes the poison. While the dose is held within her mouth, the barbarian's next successful bite attack applies the effect of the poison with an immediate onset; this consumes the dose. A barbarian must have a bite attack (at least when raging, such as that granted by animal fury) to select this rage power.
 
 ## Flesheater
 
@@ -637,3 +643,15 @@ Any barbarian (or other character that gains rage powers) who meets the prerequi
 **Daemon Totem, Lesser (Su)**: While raging, the barbarian gains a +2 bonus on saving throws against acid damage, death effects, disease, and poison. This bonus increases by 1 for each daemon totem rage power the barbarian has, excluding this one.
 
 **Fight Response (Ex)**: When a barbarian with this rage power attempts a saving throw against a fear effect, she can enter a rage as an immediate action (as long as she would normally be able to enter rage). This consumes 3 rounds of the barbarian’s daily allotment of rage rounds, but the barbarian can maintain the rage each round on her turn normally. Any benefits from the barbarian’s rage apply immediately, so she gains her bonus on Will saves against the effect that required the initial saving throw. Unlike most rage powers, this rage power’s effects are useful only when the barbarian is not raging, so a skald can’t grant this rage power to allies with raging song.
+
+## Untamed Rager
+
+There are no rules in the wild. Some barbarians enter combat with only victory in mind and do anything in their power to achieve it.
+
+**Despicable Tactics**: At 2nd level, the untamed rager gains Improved Dirty Trick as a bonus feat. This ability replaces uncanny dodge.
+
+**Feral Appearance (Ex)**: At 3rd level, the untamed rager gains a +1 bonus on Intimidate checks. This bonus increases by 1 every 3 barbarian levels thereafter. This ability replaces trap sense.
+
+**Deplorable Tactics**: At 5th level, the untamed rager gains Greater Dirty Trick as a bonus feat. This ability replaces improved uncanny dodge.
+
+**Dishonorable (Ex)**: At 7th level and every 3 barbarian levels thereafter, the untamed rager gains a +1 bonus on combat maneuver checks when performing dirty tricks and to her CMD to resist others' dirty tricks. This ability replaces damage reduction.

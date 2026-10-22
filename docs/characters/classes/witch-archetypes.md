@@ -48,6 +48,8 @@ Starting at 10th level, a witch can select one of the following major hexes when
 
 **Witch’s Brew (Ex)**: When the witch uses her cauldron to brew a potion, she may spend double the cost to create 2 identical potions that day instead of just 1. At 15th level, she may spend triple the cost to create 3 identical potions that day. The witch must have the cauldron hex to select this hex.
 
+**Steal Voice (Su)**: Available only to tiefling witches. The witch can steal the voice of one creature within 30 feet, causing it to lose, for a number of rounds equal to the witch's Intelligence bonus, all abilities that rely on speech, including talking, casting spells with verbal components, and using auditory bardic performances. A successful Will saving throw negates this effect. If this hex is used upon a willing target, the duration lasts for a number of hours equal to the witch's Intelligence bonus. Additionally, the witch can change her voice to match that of any creature whose voice she has stolen with this hex, as per *vocal alteration*.
+
 ## Grand Hexes
 
 Starting at 18th level, a witch can select one of the following grand hexes whenever she could select a new hex.

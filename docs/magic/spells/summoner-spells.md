@@ -5,6 +5,7 @@ New summoner spells from *Ultimate Magic*. Spells from other books will be added
 ## 1st-Level Summoner Spells
 
 - **[Barbed Chains](barbed-chains.md)**: Hellish chains attack and cause a target to become shaken.
+- **[Blend with Surroundings](blend-with-surroundings.md)**: Target looks like an object and hides easily while still.
 - **[Compel Hostility](compel-hostility.md)**: Compels opponents to attack you instead of your allies.
 - **[Corrosive Touch](corrosive-touch.md)**: Touch attack deals 1d4 acid/level.
 - **[Icicle Dagger](icicle-dagger.md)**: Masterwork ice dagger deals +1 cold damage.
@@ -24,6 +25,7 @@ New summoner spells from *Ultimate Magic*. Spells from other books will be added
 - **[Cushioning Bands](cushioning-bands.md)**: Force bands protect against crushing.
 - **[Dark Whispers](dark-whispers.md)**: Whisper through the shadows.
 - **[Detect Magic, Greater](detect-magic-greater.md)**: As *detect magic*, but learn more information.
+- **[Garden of Peril](garden-of-peril.md)**: Poisonous mushrooms sicken nearby creatures.
 - **[Ghost Wolf](ghost-wolf.md)**: This spell conjures a Large, quasi-real, wolflike creature made of roiling black smoke.
 - **[Mount, Communal](mount-communal.md)**: As mount, but you may divide the duration among creatures touched.
 - **[Protection from Chaos, Communal](protection-from-chaos-communal.md)**: As protection from chaos, but you may divide the duration among creatures touched.
@@ -33,6 +35,7 @@ New summoner spells from *Ultimate Magic*. Spells from other books will be added
 - **[Quick Change](quick-change.md)**: Use change shape as a swift action and surprise foes.
 - **[Restore Eidolon, Lesser](restore-eidolon-lesser.md)**: Lesser restoration for an eidolon.
 - **[Twisted Space](twisted-space.md)**: Targeted creature’s attacks target a random square instead of the intended target.
+- **[Venomous Bite](venomous-bite.md)**: Target's bite delivers a stored poison.
 - **[Warding Weapon](warding-weapon.md)**
 - **[Web Shelter](web-shelter.md)**: Create a comfortable shelter made of webbing.
 - **[Whip of Spiders](whip-of-spiders.md)**: Whiplike spider swarm deals swarm damage by touch.
@@ -46,6 +49,7 @@ New summoner spells from *Ultimate Magic*. Spells from other books will be added
 - **[Conjure Carriage](conjure-carriage.md)**: Create a fine carriage.
 - **[Contact Entity II](contact-entity-ii.md)**: Ask more powerful eldritch entities to find and converse with you.
 - **[Control Summoned Creature](control-summoned-creature.md)**: Direct a summoned monster as if you had summoned it.
+- **[Grasping Tentacles](grasping-tentacles.md)**: As black tentacles, but they perform dirty tricks.
 - **[Insect Spies](insect-spies.md)**: Use magic beetles as spies.
 - **[Leshy Swarm](leshy-swarm.md)**: Summon a swarm of Tiny leshys.
 - **[Life Conduit, Improved](life-conduit-improved.md)**: Transfers 2d6 hit points to your eidolon as a swift action.
@@ -60,6 +64,7 @@ New summoner spells from *Ultimate Magic*. Spells from other books will be added
 - **[Resist Energy, Communal](resist-energy-communal.md)**: As resist energy, but you may divide the duration among creatures touched.
 - **[Restore Eidolon](restore-eidolon.md)**: Restoration for an eidolon.
 - **[Selective Alarm](selective-alarm.md)**: As *alarm*, but only against selected creatures.
+- **[Selective Invisibility](selective-invisibility.md)**: Invisible, except to one chosen creature you may attack.
 - **[Spider Climb, Communal](spider-climb-communal.md)**: As spider climb, but you may divide the duration among creatures touched.
 - **[Trade Items](trade-items.md)**: Swap a focus object with a target object.
 - **[Urban Step](urban-step.md)**: Step into one doorway and out another.
@@ -78,6 +83,7 @@ New summoner spells from *Ultimate Magic*. Spells from other books will be added
 - **[Riding Possession](riding-possession.md)**: As possession, but you observe instead of control the subject.
 - **[Stoneskin, Communal](stoneskin-communal.md)**
 - **[Summoner Conduit](summoner-conduit.md)**: The target takes damage whenever its summoned creature does.
+- **[Sword to Snake](sword-to-snake.md)**: An item bites whoever handles it.
 - **[Thaumaturgic Circle](thaumaturgic-circle.md)**: As magic circle, but affecting a nonalignment subtype or outsider race.
 - **[Tongues, Communal](tongues-communal.md)**: As tongues, but you may divide the duration among creatures touched.
 - **[Vitriolic Mist](vitriolic-mist.md)**: As fire shield, except acid damage.
@@ -89,6 +95,7 @@ New summoner spells from *Ultimate Magic*. Spells from other books will be added
 - **[Create Demiplane, Lesser](create-demiplane-lesser.md)**: Create your own demiplane.
 - **[Energy Siege Shot](energy-siege-shot.md)**: A Large siege engine deals energy damage that you designate with other effects depending on the type of energy you choose.
 - **[Flesh Wall](flesh-wall.md)**: Create a wall of zombies.
+- **[Grease, Greater](grease-greater.md)**: As grease, but covers much more.
 - **[Ice Crystal Teleport](ice-crystal-teleport.md)**: Target is frozen, then teleported.
 - **[Life Conduit, Greater](life-conduit-greater.md)**: You transfer 3d6 hit points to your eidolon as a swift action.
 - **[Locate Gate](locate-gate.md)**: Find a nearby magical portal.

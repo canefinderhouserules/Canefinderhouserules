@@ -21,6 +21,7 @@
 - **[Air Bubble](air-bubble.md)**: Creates a small pocket of air around your head or an object.
 - **[Bane](bane.md)**: Enemies take –1 on attack rolls and saves against fear.
 - **[Barbed Chains](barbed-chains.md)**: Hellish chains attack and cause a target to become shaken.
+- **[Blend with Surroundings](blend-with-surroundings.md)**: Target looks like an object and hides easily while still.
 - **[Bless](bless.md)**: Allies gain +1 on attack rolls and saves against fear.
 - **[Bless Water](bless-water.md)**: Makes holy water.
 - **[Cause Fear](cause-fear.md)**: One creature of 5 HD or less flees for 1d4 rounds.
@@ -115,6 +116,7 @@
 - **[Imbue with Elemental Might](imbue-with-elemental-might.md)**: School evocation [see text]; Level cleric 2, magus 2, sorcerer/wizard 2 Components V, S Duration 24 hours or.
 - **[Inflict Moderate Wounds](inflict-moderate-wounds.md)**: Touch attack, 2d8 damage + 1/level (max +10).
 - **[Instrument of Agony](instrument-of-agony.md)**: Weapon exudes divine fury, granting a bonus on Intimidate checks.
+- **[Invigorating Poison](invigorating-poison.md)**: Poison ability damage becomes a bonus instead.
 - **[Know Peerage](know-peerage.md)**: Target uses your Knowledge (nobility) ranks.
 - **[Life Channel](life-channel.md)**: Component V, S Range touch Target one touched creature with negative energy affinity Duration 1 minute/level.
 - **[Magic Siege Engine](magic-siege-engine.md)**: Siege engine gains +1 on targeting and damage rolls.
@@ -176,6 +178,7 @@
 - **[Discovery Torch](discovery-torch.md)**: Touched object emanates bright light, granting Perception and Sense Motive bonuses.
 - **[Dispel Magic](dispel-magic.md)**: Cancels one magical spell or effect.
 - **[Disrupt Silence](disrupt-silence.md)**: Disrupt all silence effects in an area.
+- **[Drain Poison](drain-poison.md)**: Drain a creature's poison onto your weapon.
 - **[Flesh Puppet](flesh-puppet.md)**: Control a zombie in human guise.
 - **[Glyph of Warding](glyph-of-warding.md)**: Inscription harms those who pass it.
 - **[Helping Hand](helping-hand.md)**: Ghostly hand leads subject to you.
@@ -256,6 +259,7 @@
 - **[Spell Immunity](spell-immunity.md)**: Subject is immune to one spell per 4 levels.
 - **[Summon Monster IV](summon-monster-iv.md)**: Summons extraplanar creature to fight for you.
 - **[Summoner Conduit](summoner-conduit.md)**: The target takes damage whenever its summoned creature does.
+- **[Sword to Snake](sword-to-snake.md)**: An item bites whoever handles it.
 - **[Tail Current](tail-current.md)**: Create a current in water to enhance or impede swimming.
 - **[Tailwind](tailwind.md)**: Create a current of wind to enhance or impede flight.
 - **[Thaumaturgic Circle](thaumaturgic-circle.md)**: As magic circle, but affecting a nonalignment subtype or outsider race.
@@ -343,6 +347,7 @@
 - **[Heroes’ Feast](heroes-feast.md)**: Food for one creature/level cures and grants combat bonuses*.*
 - **[Inflict Moderate Wounds, Mass](inflict-moderate-wounds-mass.md)**: Deals 2d8 damage + 1/level, affects 1 subject/level.
 - **[Mage’s Decree](mages-decree.md)**: Send a message to creatures within miles.
+- **[Neutralize Poison, Greater](neutralize-poison-greater.md)**: As neutralize poison, but it also reverses poison damage.
 - **[Overwhelming Poison](overwhelming-poison.md)**: Make a poison more difficult to resist.
 - **[Owl’s Wisdom, Mass](owls-wisdom-mass.md)**: As *owl’s wisdom*, affects 1 subject/level.
 - **[Planar Ally](planar-ally.md)**: As *lesser planar ally,* but up to 12 HD.
@@ -372,6 +377,7 @@
 - **[Inflict Serious Wounds, Mass](inflict-serious-wounds-mass.md)**: Deals 3d8 damage + 1/level, affects 1 subject/level.
 - **[Jolting Portent](jolting-portent.md)**: You inflict a vengeful fate on a creature, dealing electricity damage each time it attacks or casts a spell.
 - **[Plundered Power](plundered-power.md)**: Kill a creature and steal its strongest spell-like ability.
+- **[Poison Breath](poison-breath.md)**: Cone of toxic mist, as poison.
 - **[Pox of Rumors](pox-of-rumors.md)**: Curse a creature to attract nasty rumors.
 - **[Refuge](refuge.md)**: Alters item to transport its possessor to you.
 - **[Regenerate](regenerate.md)**: Subject’s severed limbs grow back, cures 4d8 damage +1/level (max +35).

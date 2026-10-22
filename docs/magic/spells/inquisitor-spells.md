@@ -17,6 +17,7 @@ New inquisitor spells from *Ultimate Magic*. Spells from other books will be add
 - **[Handy Grapnel](handy-grapnel.md)**: Transform a ropelike object into a retracting grapple.
 - **[Hedging Weapons](hedging-weapons.md)**: Floating weapons protect you and make ranged attacks.
 - **[Hex Ward](hex-ward.md)**: Target gains +4 on saves against witch hexes.
+- **[Hide Weapon](hide-weapon.md)**: Meld a weapon into your arm.
 - **[Horn of Pursuit](horn-of-pursuit.md)**: Create three notes heard miles away.
 - **[Interrogation](interrogation.md)**: Target answers questions or suffers pain.
 - **[Know the Enemy](know-the-enemy.md)**: Gain +10 on a monster Knowledge check.
@@ -124,6 +125,7 @@ New inquisitor spells from *Ultimate Magic*. Spells from other books will be add
 - **[Pack Empathy](pack-empathy.md)**: Create an empathic bond with allies.
 - **[Resist Energy, Communal](resist-energy-communal.md)**: As resist energy, but you may divide the duration among creatures touched.
 - **[Selective Alarm](selective-alarm.md)**: As *alarm*, but only against selected creatures.
+- **[Selective Invisibility](selective-invisibility.md)**: Invisible, except to one chosen creature you may attack.
 - **[Terrible Remorse](terrible-remorse.md)**: Creature is compelled to harm itself.
 - **[They Know](they-know.md)**: Convince target that a nearby creature knows her greatest secret.
 - **[Witness](witness.md)**: See through the target’s eyes and ears.
@@ -182,6 +184,7 @@ New inquisitor spells from *Ultimate Magic*. Spells from other books will be add
 - **[Cruel Jaunt](cruel-jaunt.md)**: Sense creatures suffering from fear, then teleport close to them.
 - **[Litany of Madness](litany-of-madness.md)**: A single target is confused for at least 1 round.
 - **[Named Bullet, Greater](named-bullet-greater.md)**: As named bullet, but deals 2 points of damage per caster level.
+- **[Neutralize Poison, Greater](neutralize-poison-greater.md)**: As neutralize poison, but it also reverses poison damage.
 - **[Overwhelming Presence](overwhelming-presence.md)**: Creatures bow before you as if you were divine.
 - **[Prognostication](prognostication.md)**: Gain cryptic information from further in the future than *divination*.
 - **[Unshakable Zeal](unshakable-zeal.md)**: Grant benefits on future attempts after failed checks, and protect against fear and emotion effects.

@@ -28,6 +28,7 @@
 - **[Animate Rope](animate-rope.md)**: Makes a rope move at your command.
 - **[Aphasia](aphasia.md)**: Prevent a target from understanding language.
 - **[Auditory Hallucination](auditory-hallucination.md)**: Create a phantasm with auditory effects.
+- **[Blend with Surroundings](blend-with-surroundings.md)**: Target looks like an object and hides easily while still.
 - **[Cause Fear](cause-fear.md)**: One creature of 5 HD or less flees for 1d4 rounds.
 - **[Charm Person](charm-person.md)**: Makes one person your friend.
 - **[Compel Hostility](compel-hostility.md)**: Compels opponents to attack you instead of your allies.
@@ -95,6 +96,7 @@
 - **[Blindness/Deafness](blindness-deafness.md)**: Makes subject blind or deaf.
 - **[Blistering Invective](blistering-invective.md)**: Make an Intimidate check against all foes within 30 feet; those demoralized also take fire damage.
 - **[Blur](blur.md)**: Attacks miss subject 20% of the time.
+- **[Body Double](body-double.md)**: Two creatures look alike; attacks may hit the wrong one.
 - **[Build Trust](build-trust.md)**: Gain various bonuses when interacting with the target.
 - **[Calm Emotions](calm-emotions.md)**: Calms creatures, negating emotion effects.
 - **[Catatonia](catatonia.md)**: Make a willing target appear to be dead.
@@ -146,6 +148,7 @@
 - **[Returning Weapon](returning-weapon.md)**: Grants a weapon the returning special weapon quality.
 - **[Rumormonger](rumormonger.md)**: Follow a rumor to see where it spreads.
 - **[Scare](scare.md)**: Panics creatures of less than 6 HD.
+- **[Sense Vitals](sense-vitals.md)**: Gain sneak attack with any manufactured weapon.
 - **[Shadow Anchor](shadow-anchor.md)**: School illusion (shadow) [shadow]; Level bard 2, sorcerer/wizard 2, witch 2 Casting Time 1 standard action.
 - **[Shamefully Overdressed](shamefully-overdressed.md)**: Force target to remove equipment.
 - **[Share Language, Communal](share-language-communal.md)**: As share language, but you may divide the duration among creatures touched.
@@ -218,7 +221,9 @@
 - **[Secret Page](secret-page.md)**: Changes one page to hide its real content.
 - **[See Invisibility](see-invisibility.md)**: Reveals invisible creatures or objects.
 - **[Selective Alarm](selective-alarm.md)**: As *alarm*, but only against selected creatures.
+- **[Selective Invisibility](selective-invisibility.md)**: Invisible, except to one chosen creature you may attack.
 - **[Sepia Snake Sigil](sepia-snake-sigil.md)**: Creates a snake-shaped text symbol that immobilizes reader.
+- **[Shifting Shadows](shifting-shadows.md)**: Shadows make flanking and attacks of opportunity unreliable.
 - **[Slow](slow.md)**: One subject/level takes only one action/round, –1 to AC, Reflex saves, and attack rolls.
 - **[Speak with Animals](speak-with-animals.md)**: You can communicate with animals.
 - **[Summon Monster III](summon-monster-iii.md)**: Summons extraplanar creature to fight for you.
@@ -285,6 +290,7 @@
 - **[Dispel Magic, Greater](dispel-magic-greater.md)**: Works as *dispel magic,* but can affect multiple targets.
 - **[Dream](dream.md)**: Sends message to anyone sleeping.
 - **[False Vision](false-vision.md)**: Fools scrying with an illusion.
+- **[Grease, Greater](grease-greater.md)**: As grease, but covers much more.
 - **[Heroism, Greater](heroism-greater.md)**: Gives +4 bonus on attack rolls, saves, skill checks; immunity to fear; temporary hp.
 - **[Locate Gate](locate-gate.md)**: Find a nearby magical portal.
 - **[Mage’s Decree](mages-decree.md)**: Send a message to creatures within miles.
@@ -329,6 +335,7 @@
 - **[Hollow Heroism, Greater](hollow-heroism-greater.md)**: Provide a *greater* *heroism* effect that you can reverse at any time.
 - **[Irresistible Dance](irresistible-dance.md)**: Forces subject to dance.
 - **[Life of Crime](life-of-crime.md)**: Permanently turn someone into a crazed criminal.
+- **[Neutralize Poison, Greater](neutralize-poison-greater.md)**: As neutralize poison, but it also reverses poison damage.
 - **[Night Terrors](night-terrors.md)**: Disturb a creature’s rest with dark dreams.
 - **[Permanent Image](permanent-image.md)**: Permanent illusion, includes sight, sound, smell, and thermal effects.
 - **[Programmed Image](programmed-image.md)**: As *major image*, plus triggered by event.

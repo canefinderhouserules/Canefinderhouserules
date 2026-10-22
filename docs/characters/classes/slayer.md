@@ -63,6 +63,8 @@ Talents marked with an asterisk add effects to a slayer's sneak attack. Only one
 
 **Blood Reader (Ex)**: While able to see a studied target, a slayer with this talent knows exactly how many hit points his opponent has remaining. This only works against living targets.
 
+**Catfolk Rogue Talents**: A catfolk slayer can select one of the following catfolk rogue talents in place of a slayer talent: deadly scratch, graceful faller, nimble climber, or vicious claws. Any talent effects based on rogue level use the slayer's class level. The slayer must fulfill any prerequisites.
+
 **Deadly Range (Ex)**: A slayer with this talent increases the range at which he can deal sneak attack damage by 10 feet. A slayer can select this talent more than once; its effects stack. A slayer must be at least 4th level before selecting this talent.
 
 **Foil Scrutiny**: A slayer with this talent is able to obscure his thoughts and intentions. He gains a +2 bonus on all Bluff and Disguise checks, as well as on Will saving throws to resist mind-reading spells and effects (such as detect thoughts and discern lies).

@@ -10,6 +10,7 @@ The magus class spell list appears on the [Magus](../../characters/classes/magus
 - **[Corrosive Touch](corrosive-touch.md)**: Touch attack deals 1d4 acid/level.
 - **[Desperate Weapon](desperate-weapon.md)**: Create an improvised weapon.
 - **[Frostbite](frostbite.md)**: Target takes cold damage and is fatigued.
+- **[Hide Weapon](hide-weapon.md)**: Meld a weapon into your arm.
 - **[Illusion of Calm](illusion-of-calm.md)**: You appear to be standing still, even when you take some actions.
 - **[Ironbeard](ironbeard.md)**: School transmutation; Level antipaladin 1, cleric 1, magus 1, paladin 1, ranger 1 Casting Time 1 standard.
 - **[Jury-Rig](jury-rig.md)**: Removes the broken condition from the targeted object.
@@ -41,6 +42,7 @@ The magus class spell list appears on the [Magus](../../characters/classes/magus
 - **[Bestow Weapon Proficiency](bestow-weapon-proficiency.md)**: Grants a creature proficiency in a single weapon for short period of time.
 - **[Blood Blaze](blood-blaze.md)**: School transmutation [fire]; Level alchemist 2, antipaladin 1, cleric 2, magus 2, sorcerer/wizard 2, witch 2.
 - **[Blood Transcription](blood-transcription.md)**: Learn a spell from the target’s blood.
+- **[Body Double](body-double.md)**: Two creatures look alike; attacks may hit the wrong one.
 - **[Brow Gasher](brow-gasher.md)**: Slashing weapon deals bleed damage to an opponent’s head.
 - **[Defensive Shock](defensive-shock.md)**: Electricity damages your attackers.
 - **[Detect Magic, Greater](detect-magic-greater.md)**: As *detect magic*, but learn more information.
@@ -81,10 +83,12 @@ The magus class spell list appears on the [Magus](../../characters/classes/magus
 - **[Force Hook Charge](force-hook-charge.md)**: Hook of force drags you to the target.
 - **[Force Punch](force-punch.md)**: Target takes 1d4 force damage per level and is pushed away.
 - **[Gloomblind Bolts](gloomblind-bolts.md)**: You create one or more bolts of negative energy infused with shadow pulled from the Shadow Plane.
+- **[Grasping Tentacles](grasping-tentacles.md)**: As black tentacles, but they perform dirty tricks.
 - **[Locate Weakness](locate-weakness.md)**: You roll damage twice when you roll damage for a critical hit and take the best damage.
 - **[Monstrous Physique I](monstrous-physique-i.md)**: Take the form and some of the powers of a Small or Medium monstrous humanoid.
 - **[Prehensile Pilfer](prehensile-pilfer.md)**: School transmutation; Level alchemist 3, bard 3, magus 3, sorcerer/wizard 3 Casting Time 1 standard action.
 - **[Resilient Reservoir](resilient-reservoir.md)**: School transmutation; Level magus 3, paladin 3, sorcerer/wizard 4, witch 4 Casting Time 1 standard action.
+- **[Selective Invisibility](selective-invisibility.md)**: Invisible, except to one chosen creature you may attack.
 - **[Sickening Strikes](sickening-strikes.md)**: You are imbued with disease, and any creature you strike with a melee attack must make a Fortitude save or be.
 - **[Undead Anatomy I](undead-anatomy-i.md)**: Take the form and some of the powers of a Small or Medium undead.
 - **[Urban Step](urban-step.md)**: Step into one doorway and out another.
@@ -120,6 +124,7 @@ The magus class spell list appears on the [Magus](../../characters/classes/magus
 - **[Acidic Spray](acidic-spray.md)**: 1d6/level acid damage plus 1 round of acid.
 - **[Corrosive Consumption](corrosive-consumption.md)**: Acidic patch damages an opponent.
 - **[Glimpse of Truth](glimpse-of-truth.md)**: Gain *true seeing* for 1 round.
+- **[Grease, Greater](grease-greater.md)**: As grease, but covers much more.
 - **[Monstrous Physique III](monstrous-physique-iii.md)**: Take the form and some of the powers of a Diminutive or Huge monstrous humanoid.
 - **[Ooze Form I](ooze-form-i.md)**: Assume the form of a Small or Medium ooze creature.
 - **[Parchment Swarm](parchment-swarm.md)**

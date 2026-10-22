@@ -141,6 +141,8 @@ An alchemist must be at least 12th level before selecting this discovery.
 
 Poison bomb*: The effects of the smoke created by an alchemist’s bomb duplicates the effects of cloudkill instead of fog cloud, filling an area equal to twice the bomb’s splash radius for 1 round per level. An alchemist must be at least 12th level and must possess the smoke bomb discovery before selecting this discovery.
 
+**Poisoned Explosive\***: When an alchemist creates a bomb, he can apply a dose of contact or injury poison to it, as if applying poison to a weapon. If the poisoned bomb hits its target, the bomb deals damage as normal, but the target must also succeed at a saving throw against the poison or be affected by that poison. No other creatures are affected by the poison. An alchemist must be at least 4th level and have the poison use class feature before selecting this discovery. (Poisoned explosive doesn't stack with other discoveries that modify bombs.)
+
 **Precise bombs**: Whenever the alchemist throws a bomb, he can select a number of squares equal to his Intelligence modifier that are not affected by the splash damage from his bombs. If the bomb misses, this discovery has no effect.
 
 Shock bomb*: When the alchemist creates a bomb, he can choose to have it inflict electricity damage. Creatures that take a direct hit from a shock bomb are dazzled for 1d4 rounds.
