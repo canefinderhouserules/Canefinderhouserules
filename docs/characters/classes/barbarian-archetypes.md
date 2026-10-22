@@ -731,3 +731,39 @@ More "civilized" folk sometimes scoff at the people of dense jungles, dismissing
 **Damage Reduction (Ex)**: A jungle rager gains this ability at 8th level, except her effective barbarian level for the ability is equal to her barbarian level – 1. In addition, this damage reduction is doubled against damage dealt by creatures with the swarm subtype. This ability otherwise functions as the barbarian ability of the same name.
 
 **Rage Powers**: The following rage powers complement the jungle rager archetype: animal fury, bestial climber, hive totem, internal fortitude, low-light vision, night vision, raging climber, scent, sharpened accuracy, and surprise accuracy.
+
+## Giant Stalker
+
+Of the dangerous creatures that roam grim peaks and icy steppes, giants are among the most feared. Elders select the children of a tribe’s fiercest barbarians for the honor of becoming giant stalkers. Through intense training, these children learn to spot and track giants using telltale signs along with more subtle clues (such as giants’ unique scents). They learn the giants’ speech and culture, study their traditions and brutality, and foster their hatred of these oversized foes.
+
+**Harangue Giant (Ex)**: While raging, a giant stalker can speak Giant. If the giant stalker already knows Giant, she gains a +2 bonus on Intimidate checks when speaking Giant while raging. This ability alters rage.
+
+**Smell Giants (Ex)**: At 2nd level, a giant stalker gains the scent special ability, but with regard only to humanoids with the giant subtype. This ability replaces uncanny dodge.
+
+**Giant Baiter (Su)**: At 3rd level, a raging giant stalker can take a move action to erupt into a violent or vulgar display directed at a single giant within 60 feet. This display is infused with secret magical traditions that draw upon ancestral enmities toward giants. A targeted giant must succeed at a Will save (DC = 10 + half the giant stalker’s barbarian level + the giant stalker’s Constitution modifier) or be compelled to focus its attacks on the giant stalker; this ability can also affect non-giant creatures that are Large or larger, though such creatures gain a +4 bonus on the Will save to resist the effect. This compulsion ends if the giant stalker is out of sight or inaccessible to the giant’s attacks. While baited, a giant is distracted and enraged by the insults—a giant stalker gains a +1 dodge bonus to her AC against any giant she has successfully baited. Once baited, a giant remains baited for a number of rounds equal to the giant stalker’s Constitution modifier, or until the giant stalker’s rage ends (whichever comes first). If the giant stalker baits a different giant, any previously baited giant is no longer baited. A giant that successfully saves against baiting is immune to that giant stalker’s giant baiter ability for 24 hours. This is a language-dependent mind-affecting effect.
+
+At 6th level, a giant stalker can bait two giants at once, and her AC bonus against baited giants increases to +2. At 9th level, baiting giants becomes a swift action, and her AC bonus against baited giants increases to +3. At 12th level, she can bait up to three giants at once, and her AC bonus against baited giants increases to +4. At 15th level, baiting giants becomes a free action, and her AC bonus against baited giants increases to +5. At 18th level, a giant stalker can bait a number of giants equal to 3 + her Constitution modifier, and her AC bonus against baited giants increases to +6. This ability replaces trap sense.
+
+**Giant Stalker Rage Powers**: A giant stalker gains access to the following rage powers.
+
+*Giant Stalker Defense (Ex)*: When raging, a giant stalker does not take a penalty to Armor Class against attacks from giants.
+
+*Topple Giant (Ex)*: When raging, the giant stalker does not provoke attacks of opportunity when she attempts to trip a giant, and can attempt to trip a giant that is up to two size categories larger than she is.
+
+*Underfoot (Ex)*: When raging, the giant stalker can attempt to enter a giant’s space, provided she is at least one size category smaller than the giant. This does not provoke an attack of opportunity. Doing so takes a move action and requires a successful combat maneuver check against the giant’s CMD. If she succeeds, she enters a square in the giant’s space. If she makes an attack against the giant while sharing its space, the giant is treated as being flat-footed against her. At the end of her turn, she exits the giant’s space into any square adjacent to the giant’s space.
+
+## Geminate Invoker
+
+Geminate invokers are barbarians who use introspective traditions to invite spirits into their bodies. The spirits’ aid enables them to overcome the distractions of the flesh—they can ignore pain, and even defy death. These ascetics make up much of the martial forces of introspective orders.
+
+**Contemplative (Ex)**: A geminate invoker adds Knowledge (history), Knowledge (religion), and Linguistics to his list of class skills. Unlike most barbarians, a geminate invoker can be lawful, but must maintain a neutral element to his alignment. A geminate invoker who ceases to be neutral-aligned cannot activate his trance ability. This alters the barbarian’s class skills and alignment.
+
+**Trance (Ex)**: As a free action, a geminate invoker can enter a self-imposed trance, ignoring the physical limits of his body. This ability functions similarly to a barbarian’s rage, except where noted below, and feats, spells, and abilities that affect a barbarian’s rage (such as the Extra Rage feat) apply to a geminate invoker’s trance. A geminate invoker gains rage powers as per a normal barbarian, but he can never gain totem rage powers via this ability.
+
+Instead of the normal rage bonuses and penalties, a geminate invoker in a trance gains a +4 morale bonus to his Constitution; gains a +2 morale bonus on Reflex and Will saving throws; takes no penalties to AC; can still use Dexterity-, Intelligence-, and Charisma-based skills; and gains Diehard as a bonus feat. The Constitution bonus increases to +6 and the save bonus increases to +3 when he gains greater rage, and they increase to a +8 Constitution bonus and a +4 bonus on saves when he gains mighty rage. This ability alters rage.
+
+**Haunt Channeler (Su)**: At 3rd level, a geminate invoker gains the power to sense and absorb lingering spiritual energy. This functions identically to the medium class ability of the same name, except the geminate invoker deals 1d6 points of damage to haunts for every 3 barbarian levels he has. This ability replaces trap sense.
+
+**Spirit Conduit (Su)**: At 4th level, a geminate invoker can invite a spirit into his body each time he enters a trance, gaining a lesser totem rage power for the duration of his trance. He can select a new totem each time he enters his trance, though the GM might rule that certain totem spirits are simply not available in certain locations (such as channeling a celestial totem in an evil god’s temple). Invoking a totem counter to his alignment (such as a neutral good character invoking a fiend totem) requires the geminate invoker to succeed at a DC 12 Charisma check each round to dominate the spirit. Failure indicates the spirit escapes, immediately ending the trance.
+
+At 8th level, the geminate invoker gains a second totem rage power, though it must use the previously granted lesser totem rage power as a prerequisite. At 12th level, he also gains the greater totem rage power that uses the previously granted powers as prerequisites. This ability replaces the rage powers gained at 4th, 8th, and 12th levels.

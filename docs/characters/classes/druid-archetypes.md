@@ -1040,7 +1040,7 @@ Some druids come to worship the storm as an aspect of pure elemental fury in the
 
 **Nature Bond (Ex)**: A tempest druid may not choose an animal companion, and must instead select a domain when she gains the Nature Bond ability. A tempest druid must choose the Air or Weather domain, the Cloud, Storm, or Wind subdomain, or the Aquatic or Swamp domain.
 
-**Sodden Shore Sense (Ex)**: A tempest druid gains a +4 bonus on Knowledge (nature) and Survival checks in coastal and marshy lands. This ability replaces nature sense.
+**Shore Sense (Ex)**: A tempest druid gains a +4 bonus on Knowledge (nature) and Survival checks in coastal and marshy lands. This ability replaces nature sense.
 
 **Electrical Resistance (Ex)**: At 3rd level, a tempest druid gains electricity resistance 5. As a standard action, she can transfer this resistance to another creature for 1 hour, after which time it reverts to her. This ability replaces trackless step.
 
@@ -1049,3 +1049,39 @@ Some druids come to worship the storm as an aspect of pure elemental fury in the
 **Bend Bolt (Su)**: At 9th level, a tempest druid can redirect nearby electrical attacks. As an immediate action, the druid can shift the area or target of an electricity attack by 5 feet in any direction. If the electricity affects an area, the druid selects one square to be unaffected and an adjacent square to be affected (if this square is already in the area, this has no additional effect in that area). If the electricity affects a target, the druid selects an adjacent target. She cannot redirect electricity damage conducted to her by physical contact with an object or creature (such as a *shocking grasp* or a shock weapon). She can use this ability a number of times per day equal to her Charisma bonus.
 
 For example, if she were in the line of a wizard's *lightning bolt*, she could have the spell skip her square and instead affect an adjacent square, even if this meant the spell did not form a continuous line. If another druid attacked her with *call lightning*, she could shift the targeted bolt to an adjacent square, hitting a creature in that square (if any). This ability replaces venom immunity.
+
+## Sunrider
+
+Sunriders help their allies, be they fellow tribe members or fellow adventurers, to survive in harsh desert terrain, while simultaneously making it even harsher for their foes. They seem to share a single mind with their loyal steeds, and companions who ride with them become an eerily well-coordinated cavalry unit that traverses the treacherous desert sands with ease to wreak havoc upon invaders.
+
+**Class Skills**: A sunrider gains Knowledge (local) as a class skill, but does not gain Profession as a class skill. This alters the druid’s class skills.
+
+**Weapon and Armor Proficiencies**: A sunrider gains proficiency with the shortbow, but not with the scythe, sickle, or quarterstaff. This alters the druid’s weapon and armor proficiencies.
+
+**Nature Bond (Ex)**: A sunrider must use this ability to bond with a horse or a pony as an animal companion; she cannot choose a different animal or choose a domain instead of an animal companion. This alters nature bond.
+
+**Born to the Saddle (Ex)**: At 2nd level, while wearing light or no armor, a sunrider does not need to attempt Ride checks for any task listed in the Ride skill with a DC of 15 or lower. She does not take an armor check penalty on Ride checks while riding her mount. This ability replaces woodland stride.
+
+**Mounted Advantage (Su)**: At 3rd level, any allied mount within 30 feet of a sunrider can ignore the effects of rocky or sandy difficult terrain. This ability replaces trackless step.
+
+**Desert Born (Ex)**: A sunrider is at home in the desert. At 4th level, she gains a +2 bonus on initiative checks and on Knowledge (geography), Perception, Stealth, and Survival checks while she is in desert terrain. Mounted allies traveling with her likewise gain a +1 bonus on initiative checks and Perception and Survival checks while in desert terrain, as long as they are within 30 feet of the sunrider. This ability replaces resist nature’s lure.
+
+**Concerted Effort (Ex)**: At 4th level, a sunrider can extend the bond she shares with her horse to other nearby mounted companions, forming them into a fighting force that seems to share a single mind. Allied mounts within 60 feet of the sunrider gain evasion as per the animal companion special ability. At 6th level, the range expands to 90 feet and allied mounts gain a +10-foot enhancement bonus to their speed. At 8th level, the range expands to 120 feet and allied mounts gain devotion as per the animal companion special ability. At 10th level, allied mounts gain multiattack as per the animal companion special ability. At 12th level, allied mounts gain a +2 bonus on saving throws. At 14th level, allied mounts gain a +20-foot enhancement bonus to their speed. At 16th level, allied mounts gain improved evasion as per the animal companion special ability. At 18th level, allied mounts gain a +2 dodge bonus to their Armor Class and a +2 bonus on attack rolls. At 20th level, allied mounts gain DR 5/— and energy resistance 10 to acid, cold, electricity, fire, and sonic damage. These abilities function only while allied mounts are within range of the sunrider (her own mount always counts as an ally). This ability replaces wild shape.
+
+## Halcyon Druid
+
+Halcyon druids combine the teachings of an arcane tradition with traditional druidic practices. Though they revere the natural world, they are less focused on emulating its inhabitants; instead they treat with beings from the Outer Sphere. As a sign of their allegiance, these druids wear fantastical masks depicting celestials, fiends, and—most often—the bestial agathions. They are peacekeepers, mediating between people and nature, people and the spirit world, and different groups of people. When necessary, they use their magic to fight enemies of peace, especially demons and demon cultists.
+
+**Bonded Mask (Su)**: A halcyon druid forms a powerful bond with a mask, which functions identically to a wizard’s bonded object except that it can be used to cast druid spells (including those gained from class abilities) instead of wizard spells. A bonded mask must be worn to have an effect, and it occupies the head slot. A halcyon druid can enhance her mask with abilities appropriate for a head slot item, and can designate an existing head slot item as her bonded mask (but only if it covers her face). This ability replaces nature bond.
+
+**First Magic–Trained (Ex)**: A halcyon druid adds Diplomacy and all Knowledge skills to her list of class skills. This ability replaces nature sense and alters the druid’s class skills.
+
+**Peacekeeper (Ex)**: A halcyon druid adds half her class level (minimum 1) to Diplomacy and Knowledge (local) checks. This ability replaces wild empathy.
+
+**Spontaneous Casting**: A halcyon druid adds all spells from the Good cleric domain to her druid spell list, and she can focus stored spell energy into spells from the Good domain that she hasn’t prepared ahead of time. She can lose a prepared spell to cast any spell of the same level or lower from the Good domain. This ability replaces spontaneous casting.
+
+**Natural Arcana (Su)**: At 4th level and every 2 levels thereafter, a halcyon druid chooses two spells from the wizard/sorcerer spell list and adds them to her druid spell list. The chosen spells must be at least 1 level lower than the highest level spell she can currently cast. At 20th level, the halcyon druid can choose wizard/sorcerer spells of any level. This ability replaces wild shape.
+
+**Resist Fiendish Influence (Ex)**: At 4th level, a halcyon druid gains a +4 bonus on saving throws against the spell-like and supernatural abilities of outsiders with the evil subtype and spells with the evil descriptor. This ability replaces resist nature’s lure.
+
+**Embody Mask (Sp)**: At 13th level, a halcyon druid wearing her bonded mask can embody the spirit it represents, which can be any Tiny to Large agathion, angel, archon, or azata. This ability requires a standard action to activate and functions as per *beast shape IV* (using the adjustments for magical beasts), but adds the following abilities if the assumed form has them: aura of menace, protective aura, speak with animals, telepathy, and truespeech. If the assumed form has immunity to a condition, the druid gains a +4 bonus on saving throws against effects that cause that condition. A halcyon druid can use this ability for a number of minutes per day equal to her druid level. The duration does not need to be consecutive, but must be used in 1-minute increments. This ability replaces a thousand faces.

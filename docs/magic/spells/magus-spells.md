@@ -11,6 +11,7 @@ The magus class spell list appears on the [Magus](../../characters/classes/magus
 - **[Coin Shot](coin-shot.md)**: Turns coins into bullets.
 - **[Corrosive Touch](corrosive-touch.md)**: Touch attack deals 1d4 acid/level.
 - **[Desperate Weapon](desperate-weapon.md)**: Create an improvised weapon.
+- **[Duelist’s Parry](duelists-parry.md)**: Parry a melee attack as an immediate action.
 - **[Fallback Strategy](fallback-strategy.md)**: Reroll one attack, maneuver, or skill check.
 - **[Frostbite](frostbite.md)**: Target takes cold damage and is fatigued.
 - **[Guardian Armor](guardian-armor.md)**: Teleports your armor onto an ally.
@@ -55,10 +56,12 @@ The magus class spell list appears on the [Magus](../../characters/classes/magus
 - **[Blood Transcription](blood-transcription.md)**: Learn a spell from the target’s blood.
 - **[Body Double](body-double.md)**: Two creatures look alike; attacks may hit the wrong one.
 - **[Brow Gasher](brow-gasher.md)**: Slashing weapon deals bleed damage to an opponent’s head.
+- **[Contest of Skill](contest-of-skill.md)**: Target’s critical threats fail to confirm.
 - **[Defending Bone](defending-bone.md)**: Floating bone grants DR 5/bludgeoning.
 - **[Defensive Shock](defensive-shock.md)**: Electricity damages your attackers.
 - **[Detect Magic, Greater](detect-magic-greater.md)**: As *detect magic*, but learn more information.
 - **[Diminish Resistance](diminish-resistance.md)**: Weaken a creature’s resistance to one energy type.
+- **[Duelist’s Alacrity](duelists-alacrity.md)**: Faster, with fancy footwork.
 - **[Effortless Armor](effortless-armor.md)**: Armor you wear no longer slows your speed.
 - **[Escaping Ward](escaping-ward.md)**: This ward grants you extra maneuverability when you avoid attacks against larger foes.
 - **[Flickering Lights](flickering-lights.md)**: Create an area of inconsistent lighting.
@@ -92,6 +95,7 @@ The magus class spell list appears on the [Magus](../../characters/classes/magus
 - **[Animal Aspect, Greater](animal-aspect-greater.md)**: As animal aspect, but you gain two animal qualities.
 - **[Audiovisual Hallucination](audiovisual-hallucination.md)**: Create a phantasm with auditory and visual effects.
 - **[Blade Snare](blade-snare.md)**: Snare a weapon or limb that strikes you.
+- **[Bone Flense](bone-flense.md)**: Barbed bone spurs flense a struck creature.
 - **[Burst of Speed](burst-of-speed.md)**: You gain increased speed, and your movement ignores attacks of opportunity and allows you to move through the space of creatures larger than you are.
 - **[Channel Vigor](channel-vigor.md)**: Focus on limbs, mind, spirit, or torso for bonuses.
 - **[Conjuration Foil](conjuration-foil.md)**: Interfere with nearby teleportation effects.
@@ -112,6 +116,7 @@ The magus class spell list appears on the [Magus](../../characters/classes/magus
 - **[Selective Invisibility](selective-invisibility.md)**: Invisible, except to one chosen creature you may attack.
 - **[Shining Cord](shining-cord.md)**: Silver cord links you and a foe; blasts the one who moves away.
 - **[Sickening Strikes](sickening-strikes.md)**: You are imbued with disease, and any creature you strike with a melee attack must make a Fortitude save or be.
+- **[Tactical Adaptation](tactical-adaptation.md)**: Gain a combat feat temporarily.
 - **[Twisted Innards](twisted-innards.md)**: Crits and sneak attacks may fail.
 - **[Undead Anatomy I](undead-anatomy-i.md)**: Take the form and some of the powers of a Small or Medium undead.
 - **[Urban Step](urban-step.md)**: Step into one doorway and out another.
@@ -121,7 +126,9 @@ The magus class spell list appears on the [Magus](../../characters/classes/magus
 
 ## 4th-Level Magus Spells
 
+- **[Absorb Rune I](absorb-rune-i.md)**: Absorb a magical rune and move it elsewhere.
 - **[Arcana Theft](arcana-theft.md)**: Targeted dispel transfers an effect to you.
+- **[Brightest Light](brightest-light.md)**: Longer-lasting daylight that can dispel darkness.
 - **[Caustic Blood](caustic-blood.md)**: Wounds spray acid at attackers.
 - **[Complex Hallucination](complex-hallucination.md)**: Create a phantasm with effects for all senses.
 - **[Controlled Fireball](controlled-fireball.md)**: As *fireball,* but secretly deals less damage to your allies.
@@ -158,6 +165,7 @@ The magus class spell list appears on the [Magus](../../characters/classes/magus
 - **[Grease, Greater](grease-greater.md)**: As grease, but covers much more.
 - **[Impart Mind](impart-mind.md)**: Grant a magic item temporary intelligence and powers.
 - **[Lighten Object, Mass](lighten-object-mass.md)**: Halve the weight of several objects.
+- **[Mask from Divination](mask-from-divination.md)**: Adhere a mask that foils divination.
 - **[Monstrous Physique III](monstrous-physique-iii.md)**: Take the form and some of the powers of a Diminutive or Huge monstrous humanoid.
 - **[Ooze Form I](ooze-form-i.md)**: Assume the form of a Small or Medium ooze creature.
 - **[Parchment Swarm](parchment-swarm.md)**
@@ -174,6 +182,7 @@ The magus class spell list appears on the [Magus](../../characters/classes/magus
 
 ## 6th-Level Magus Spells
 
+- **[Absorb Rune II](absorb-rune-ii.md)**: Absorb a rune of 5th level or lower.
 - **[Chains of Fire](chains-of-fire.md)**: This spell functions like chain lightning, except as noted above, and the spell deals fire damage instead of.
 - **[Cruel Jaunt](cruel-jaunt.md)**: Sense creatures suffering from fear, then teleport close to them.
 - **[Decapitate](decapitate.md)**: Turn a critical hit into a decapitation.

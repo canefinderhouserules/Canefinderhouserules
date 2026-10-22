@@ -760,3 +760,53 @@ Some academies develop a reputation for churning out fearsome duelists. At the e
 **Science of the Blade (Ex)**: At 13th level, a academy duelist is able to apply his specialized knowledge of anatomy and physiology to his bladework. The duelist can make dirty trick, disarm, and trip combat maneuvers using any one-handed piercing or slashing weapon. This ability replaces weapon training 3.
 
 **Surgical Strike (Ex)**: At 17th level, when a academy duelist confirms a critical hit with a light or one-handed piercing or slashing weapon, he deals ability damage in addition to the normal bonus damage from the critical hit. The duelist chooses which ability is damaged, and deals an amount of damage equal to the critical multiplier of the wielded weapon. This ability replaces weapon training 4.
+
+## Sword Duelist Defender
+
+Sword duelists are among the deadliest and most feared fighters. They have spent long years mastering the dueling sword, pitting themselves against other dueling swords and all manner of weaponry besides. Their speed and reflexes weave a net of impenetrable steel around them, from which they strike and harry their unfortunate opponents. The most common form of dueling (and arguably the easiest of the techniques to master) focuses on avoiding damage and disarming foes; these fighters prefer to wear light or no armor, trusting their skill for protection. Characters seeking a more offensive method of focusing training on the dueling sword should consider the [Sword Duelist](../prestige-classes/sword-duelist.md) prestige class. However, this archetype also synergizes well with the powers and skills the prestige class offers.
+
+The following benefits apply only when a sword duelist defender is wielding a dueling sword and carrying nothing in his other hand. A sword duelist defender fights with his sword wielded with both hands only in moments of desperation.
+
+**Suggested Feats**: Although this archetype replaces some of the bonus feats that a fighter would normally have access to, sword duelist defenders still have several opportunities to gain feats. The following feats are the most thematically appropriate, but the archetype does not require any of them: Combat Expertise, Dazzling Display, Duelist Mastery, Exotic Weapon Proficiency (dueling sword), Improved Disarm, Improved Feint, Improved Initiative, Lunge, Quick Draw, Weapon Finesse, Weapon Focus (dueling sword), Weapon Specialization (dueling sword).
+
+**Defensive Parry (Ex)**: At 3rd level, when a sword duelist defender makes a full attack with a dueling sword, he gains a +1 shield bonus to his AC against melee attacks until the beginning of his next turn. This bonus increases to +2 at 7th level, +3 at 11th level, and +4 at 15th level. This ability replaces armor training.
+
+**Disarming Strike (Ex)**: At 6th level, when a sword duelist defender successfully disarms an opponent using a dueling sword, he also deals normal damage to the target, but without the normal Strength bonus to damage. This ability replaces the bonus feat the fighter would normally gain at 6th level.
+
+**Steel Net (Ex)**: At 8th level, a sword duelist defender can create a blazing wall of steel to defend himself. When fighting defensively as a full-round action with a dueling sword, his penalties on all attacks in a round are reduced by 2, and his dodge bonus to AC increases by 2 for the same round. This ability replaces the bonus feat the fighter would normally gain at 8th level.
+
+**Counterattack (Ex)**: At 10th level, once per round, a sword duelist defender can make an attack of opportunity against an opponent who hits him with a melee attack (regardless of how many attacks of opportunity he can otherwise make), so long as the attacking creature is within his reach. This ability replaces the bonus feat the fighter would normally gain at 10th level.
+
+## Armiger
+
+Until would-be infernal knights take the Test—in which they enter single combat with a conjured devil and either emerge victorious or die—they are known as armigers. The term applies to all infernal knights-in-training, but also specifically to fighters who focus their training to become infernal knights. Armigers live and train at their order’s citadel, following a brutally strict routine of combat practice and study. Roaming armigers perform frequent reckonings—painful acts of mortification—to keep themselves disciplined and focused on the order’s strictures.
+
+**Bonus Feats**: When selecting fighter bonus feats, the armiger can select any feats whose names include the words “infernal knight,” or that require membership in an infernal knight order, as though they were combat feats. This alters the fighter’s bonus feats.
+
+**Infernal Knight Order**: At 1st level, an armiger must select which knightly order she intends to join. If the armiger later gains levels in an infernal knight prestige class, she must select that same order.
+
+**Studious Squire**: An armiger gains 2 additional skill ranks at each level. These ranks must be put into Intimidate and Knowledge (planes). In addition, the armiger treats Knowledge (local) and Knowledge (planes) as class skills. This alters the fighter’s class skills and skill points per level, and replaces the fighter’s bonus feats gained at 1st and 10th levels.
+
+**Ardent (Su)**: At 2nd level, an armiger gains a +1 bonus on Will saves against charm effects. This bonus increases by 1 for every 4 fighter levels beyond 2nd. Once per day, if an armiger is forced to take an action that is diametrically opposed to her order’s beliefs and values while under the influence of a charm or compulsion effect, she can immediately attempt a Will save against the effect’s DC to resist acting out that order. Success does not remove the existing charm or compulsion effect, but does allow the armiger to resist betraying her beliefs. This replaces bravery.
+
+## Lore Warden (Swords Secret Version)
+
+A lore warden of this version is the consummate warrior-scholar, outsmarting her competition even when locking blades with powerful foes. Outside of combat, a lore warden’s extensive education also helps her document the past and survive great danger.
+
+**Scholastic (Ex)**: A lore warden gains 2 additional skill ranks each level. These ranks must be spent on Intelligence-based skills. All Craft and Knowledge skills are class skills for lore wardens, as are Linguistics and Spellcraft. This ability replaces the fighter’s proficiency with medium armor, heavy armor, and shields.
+
+**Skill Over Strength (Ex)**: At 2nd level, a lore warden qualifies for feats and other abilities as though she had the Combat Expertise feat. At 6th level, she gains Combat Expertise as a bonus feat, even if she would not normally qualify for the feat. If she already has Combat Expertise, she instead gains any one combat feat that includes Combat Expertise as a prerequisite (and for which she otherwise qualifies). At 10th level, she can treat her base attack bonus as though it were 2 higher for the purpose of calculating the effects of Combat Expertise. This ability replaces bravery and the fighter bonus feat gained at 2nd level.
+
+**Swords Secret (Ex)**: A lore warden learns specialized techniques that help her to quickly analyze and defeat her foes. At 3rd level, a lore warden gains one swords secret, and she gains an additional swords secret for every 4 fighter levels gained after 3rd. Except where noted, a lore warden cannot select the same swords secret more than once.
+
+*Exploit Weakness (Ex)*: The lore warden adds one-third her class level on attack rolls to confirm critical hits. At 11th level, whenever she confirms a critical hit, her weapon attacks ignore the first 5 points of damage reduction or hardness the target has until the end of her next turn. At 19th level, the lore warden can automatically confirm a critical hit once per round when she threatens a critical hit.
+
+*Hair’s Breadth (Ex)*: Once per day when subject to a critical hit, the lore warden can attempt an Acrobatics check to reduce the damage as an immediate action. If the result of this Acrobatics check is greater than the opponent’s confirmation roll, she negates the critical hit; the attack still hits and deals normal damage. The lore warden must be at least 11th level to select this swords secret. At 15th level she can use this secret one additional time per day.
+
+*Know Thy Enemy (Ex)*: When the lore warden succeeds at a Knowledge check to identify a creature’s abilities and weaknesses, she can also use a standard action to grant herself a +2 insight bonus on all attack and weapon damage rolls made against that enemy. This bonus lasts for a number of rounds equal to half her class level (minimum 2 rounds), or until the lore warden uses this ability against a different creature. At 11th level, she also gains a +2 bonus to her AC against the creature when using this ability. At 19th level, the insight bonus increases to +3.
+
+*Maneuver Training (Ex)*: The lore warden gains a brawler’s maneuver training class feature, treating her fighter level as her brawler level.
+
+*Swift Assessment (Ex)*: The lore warden can now use her know thy enemy swords secret as a move action. At 15th level, she can use this ability as a swift action. She must have the know thy enemy swords secret before choosing this swords secret.
+
+This replaces armor training and armor mastery.

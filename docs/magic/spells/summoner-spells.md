@@ -9,6 +9,7 @@ New summoner spells from *Ultimate Magic*. Spells from other books will be added
 - **[Compel Hostility](compel-hostility.md)**: Compels opponents to attack you instead of your allies.
 - **[Corrosive Touch](corrosive-touch.md)**: Touch attack deals 1d4 acid/level.
 - **[Icicle Dagger](icicle-dagger.md)**: Masterwork ice dagger deals +1 cold damage.
+- **[Instant Portrait](instant-portrait.md)**: Paint a quick monochrome portrait.
 - **[Jury-Rig](jury-rig.md)**: Removes the broken condition from the targeted object.
 - **[Life Conduit](life-conduit.md)**: You are bound even tighter to your eidolon than normal, and may share hit points with it through your life link ability.
 - **[Lighten Object](lighten-object.md)**: Halve an object’s weight.
@@ -35,6 +36,7 @@ New summoner spells from *Ultimate Magic*. Spells from other books will be added
 - **[Protection from Law, Communal](protection-from-law-communal.md)**: As protection from law, but you may divide the duration among creatures touched.
 - **[Quick Change](quick-change.md)**: Use change shape as a swift action and surprise foes.
 - **[Restore Eidolon, Lesser](restore-eidolon-lesser.md)**: Lesser restoration for an eidolon.
+- **[Shackle](shackle.md)**: Conjure manacles or fetters.
 - **[Slick Walls](slick-walls.md)**: Walls and ceilings become much harder to climb.
 - **[Twisted Space](twisted-space.md)**: Targeted creature’s attacks target a random square instead of the intended target.
 - **[Venomous Bite](venomous-bite.md)**: Target's bite delivers a stored poison.
@@ -54,6 +56,7 @@ New summoner spells from *Ultimate Magic*. Spells from other books will be added
 - **[Contact Entity II](contact-entity-ii.md)**: Ask more powerful eldritch entities to find and converse with you.
 - **[Control Summoned Creature](control-summoned-creature.md)**: Direct a summoned monster as if you had summoned it.
 - **[Grasping Tentacles](grasping-tentacles.md)**: As black tentacles, but they perform dirty tricks.
+- **[Infernal Challenger](infernal-challenger.md)**: Call a bearded devil to duel one challenger.
 - **[Insect Scouts](insect-scouts.md)**: Vermin investigate a location and grant rerolls on related skill checks.
 - **[Insect Spies](insect-spies.md)**: Use magic beetles as spies.
 - **[Leshy Swarm](leshy-swarm.md)**: Summon a swarm of Tiny leshys.
@@ -65,6 +68,7 @@ New summoner spells from *Ultimate Magic*. Spells from other books will be added
 - **[Pack Empathy](pack-empathy.md)**: Create an empathic bond with allies.
 - **[Pellet Blast](pellet-blast.md)**
 - **[Phantom Chariot](phantom-chariot.md)**: Conjures a quasi-real heavy chariot pulled by four horses.
+- **[Planar Inquiry](planar-inquiry.md)**: Call an outsider to answer questions.
 - **[Protection from Arrows, Communal](protection-from-arrows-communal.md)**: As protection from arrows, but you may divide the duration among creatures touched.
 - **[Protection from Natural Attacks](protection-from-natural-attacks.md)**: Target gains DR 5/— against one type of natural attack.
 - **[Rain of Frogs](rain-of-frogs.md)**: Summon a swarm of poisonous frogs.
@@ -132,9 +136,11 @@ New summoner spells from *Ultimate Magic*. Spells from other books will be added
 - **[Energy Siege Shot, Greater](energy-siege-shot-greater.md)**: As energy siege shot, but you can affect any size siege engine.
 - **[Expel Blood](expel-blood.md)**: Forces a foe’s blood into a hostile fiendish water elemental.
 - **[Fey Gate](fey-gate.md)**: Create a portal that allows travel to the First World.
+- **[Frost Mammoth](frost-mammoth.md)**: Conjure a rideable snow mammoth.
 - **[Hostile Juxtaposition, Greater](hostile-juxtaposition-greater.md)**: You may target one creature for every four of your caster levels.
 - **[Insect Spies, Greater](insect-spies-greater.md)**: Use magic beetles as spies and also share their senses.
 - **[Plundered Power](plundered-power.md)**: Kill a creature and steal its strongest spell-like ability.
+- **[Summon Flight of Eagles](summon-flight-of-eagles.md)**: Summon giant eagles to fight or serve as mounts.
 - **[Treacherous Teleport](treacherous-teleport.md)**: As *teleport*, except you choose some creatures to suffer a mishap or go elsewhere.
 - **[Walk Through Space](walk-through-space.md)**: You can spend a move action to teleport 30 feet or to stand while prone without provoking attacks of opportunity.
 - **[Whip of Ants](whip-of-ants.md)**: As whip of spiders, but with army ants.

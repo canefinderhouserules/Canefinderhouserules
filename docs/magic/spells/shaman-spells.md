@@ -30,6 +30,7 @@ Shamans gain access to the following spells. Spells in plain text come from othe
 - **[Blend with Surroundings](blend-with-surroundings.md)**: Target looks like an object and hides easily while still.
 - **[Bless](bless.md)**: Allies gain +1 on attack rolls and saves against fear.
 - **[Burning Hands](burning-hands.md)**: 1d4/level fire damage (max 5d4).
+- **[Burning Sands](burning-sands.md)**: Burning sand slows and damages creatures.
 - **[Calm Animals](calm-animals.md)**: Calms 2d4 + level HD of animals.
 - **[Cause Fear](cause-fear.md)**: A creature of 5 HD or less flees for 1d4 rounds.
 - **[Charm Animal](charm-animal.md)**: Makes one animal your friend.
@@ -40,6 +41,7 @@ Shamans gain access to the following spells. Spells in plain text come from othe
 - **[Dancing Lantern](dancing-lantern.md)**: Animates a lantern that follows you.
 - **[Detect Animals or Plants](detect-animals-or-plants.md)**: Detects kinds of animals or plants.
 - Detect Chaos/evil/good/law
+- **[Detect Charm](detect-charm.md)**: Detect charm, compulsion, and possession effects.
 - **[Detect the Faithful](detect-the-faithful.md)**: Find others of the same faith.
 - **[Detect Undead](detect-undead.md)**: Reveals undead within 60 ft.
 - **[Discern Next of Kin](discern-next-of-kin.md)**: Read the target’s mind to learn about its family.
@@ -153,7 +155,10 @@ Shamans gain access to the following spells. Spells in plain text come from othe
 - **[Spindrift Spritz](spindrift-spritz.md)**: Ally rerolls a save against fatigue, shaken, sickened, or staggered.
 - **[Spiritual Squire](spiritual-squire.md)**: A force servant helps carry, aid, and armor allies.
 - **[Spiritual Weapon](spiritual-weapon.md)**: Magic weapon attacks on its own.
+- **[Storm Sight](storm-sight.md)**: Sense creatures caught in a storm.
 - **[Summon Swarm](summon-swarm.md)**: Summons swarm of bats, rats, or spiders.
+- **[Sun’s Disdain](suns-disdain.md)**: Target is hurt by sunlight.
+- **[Suppress Charms and Compulsions](suppress-charms-and-compulsions.md)**: Bolster or suppress charm and compulsion effects.
 - **[Surefoot Boots](surefoot-boots.md)**: Footwear grants perfect balance.
 - **[Tree Shape](tree-shape.md)**: You look exactly like a tree for 1 hour/level.
 - **[Venomous Bite](venomous-bite.md)**: Target's bite delivers a stored poison.
@@ -181,6 +186,7 @@ Shamans gain access to the following spells. Spells in plain text come from othe
 - **[Daylight](daylight.md)**: 60-ft. radius of bright light.
 - **[Deeper Darkness](deeper-darkness.md)**: Object sheds shadows in 60-ft. radius.
 - **[Deep Slumber](deep-slumber.md)**: Puts 10 HD of creatures to sleep.
+- **[Detoxify](detoxify.md)**: Neutralize a creature’s poison attacks.
 - **[Dispel Magic](dispel-magic.md)**: Cancels one magical spell or effect.
 - **[Dominate Animal](dominate-animal.md)**: One animal obeys your silent mental commands and orders.
 - **[Earth Tremor](earth-tremor.md)**: Unleash a tremor that creates difficult terrain and can knock foes down and damage them.
@@ -199,6 +205,7 @@ Shamans gain access to the following spells. Spells in plain text come from othe
 - **[Mindlocked Messenger](mindlocked-messenger.md)**: ‘Target gains a message that can be given only to its intended recipient.
 - **[Nauseating Trail](nauseating-trail.md)**: Creature leaves a trail of stinking
 - **[Pierce Disguise](pierce-disguise.md)**: See through low-level magical disguises.
+- **[Planar Inquiry](planar-inquiry.md)**: Call an outsider to answer questions.
 - **[Pocketful of Vipers](pocketful-of-vipers.md)**: Ward a container with summoned vipers.
 - **[Polymorph Familiar](polymorph-familiar.md)**: Give your familiar the shape of another animal.
 - **[Protection from Energy](protection-from-energy.md)**: Absorbs 12 points/level of damage from one kind of energy.
@@ -237,6 +244,7 @@ Shamans gain access to the following spells. Spells in plain text come from othe
 - **[Ball Lightning](ball-lightning.md)**: Flying lightning spheres deal 3d6 electricity damage each.
 - **[Borrow Corruption](borrow-corruption.md)**: Temporarily gain the effects of a corrupted creature’s manifestations.
 - **[Bountiful Banquet](bountiful-banquet.md)**: Create a luxurious feast for two creatures/level.
+- **[Brightest Light](brightest-light.md)**: Longer-lasting daylight that can dispel darkness.
 - **[Claim Identity](claim-identity.md)**: Steal a touched humanoid’s face and identity.
 - **[Command Plants](command-plants.md)**: Sway the actions of plant creatures.
 - **[Conditional Curse](conditional-curse.md)**: Bestow a curse that is difficult to remove without fulfilling a condition.
@@ -335,10 +343,12 @@ Shamans gain access to the following spells. Spells in plain text come from othe
 - **[Imbue Hex](imbue-hex.md)**: Give another creature one use of a hex you know.
 - **[Inflict Light Wounds, Mass](inflict-light-wounds-mass.md)**: Deals 1d8 damage + 1/level, affects 1 subject/level.
 - **[Insect Plague](insect-plague.md)**: Wasp swarms attack creatures.
+- **[Mask from Divination](mask-from-divination.md)**: Adhere a mask that foils divination.
 - **[Overland Flight](overland-flight.md)**: You fly at a speed of 40 ft. and can hustle over long distances.
 - **[Rest Eternal](rest-eternal.md)**
 - **[Soulswitch](soulswitch.md)**: Swap souls with your familiar.
 - **[Stoneskin](stoneskin.md)**: Grants DR 10/adamantine.
+- **[Sun’s Disdain, Mass](suns-disdain-mass.md)**: As *sun’s disdain*, on multiple creatures.
 - **[Swallow Poison](swallow-poison.md)**: Protect yourself from ingested poison, then spit it out in a cone.
 - **[Tidal Surge](tidal-surge.md)**: Create a surge of water to bludgeon foes and extinguish fires.
 - **[True Seeing](true-seeing.md)**: Lets you see all things as they really are.
@@ -383,6 +393,7 @@ Shamans gain access to the following spells. Spells in plain text come from othe
 - **[Slay Living](slay-living.md)**: Touch attack deals 12d6 +1 per level.
 - **[Snake Staff](snake-staff.md)**: Transforms wood into snakes to fight for you.
 - **[Stone to Flesh](stone-to-flesh.md)**: Restores petrified creature.
+- **[Summon Flight of Eagles](summon-flight-of-eagles.md)**: Summon giant eagles to fight or serve as mounts.
 - **[Wall of Stone](wall-of-stone.md)**: Creates a stone wall that can be shaped.
 - **[Withdraw Affliction](withdraw-affliction.md)**: Remove an affliction and inflict it on another creature.
 - **[Wither Limb](wither-limb.md)**: Make one of the target’s limbs useless.
@@ -398,6 +409,7 @@ Shamans gain access to the following spells. Spells in plain text come from othe
 - **[Delectable Flesh](delectable-flesh.md)**: Creatures near the target become depraved and attack it to feast.
 - **[Entice Fey](entice-fey.md)**: Entice service from a fey of 12 Hit Dice or fewer.
 - **[Fairy Ring Retreat](fairy-ring-retreat.md)**: Toadstool circle leads to an extradimensional meadow.
+- **[Frost Mammoth](frost-mammoth.md)**: Conjure a rideable snow mammoth.
 - **[Harm](harm.md)**: Deals 10 points/level damage to target.
 - **[Heal](heal.md)**: Cures 10 points/level damage, all diseases and mental conditions.
 - **[Hunger for Flesh, Mass](hunger-for-flesh-mass.md)**: Give creatures bite attacks and a hunger for their own kind’s flesh.

@@ -24,6 +24,7 @@
 - **[Aspect of the Nightingale](aspect-of-the-nightingale.md)**: Clear voice, bonus on Diplomacy and Perform.
 - **[Blend](blend.md)**: You draw upon your elven link to the wilderness to change the coloration of yourself and your equipment to.
 - **[Blend with Surroundings](blend-with-surroundings.md)**: Target looks like an object and hides easily while still.
+- **[Burning Sands](burning-sands.md)**: Burning sand slows and damages creatures.
 - **[Calm Animals](calm-animals.md)**: Calms 2d4 + level HD of animals.
 - **[Charm Animal](charm-animal.md)**: Makes one animal your friend.
 - **[Commune with Birds](commune-with-birds.md)**: You utter a question in the form of a low-pitched bird call that can be heard up to a mile away, and can.
@@ -144,6 +145,7 @@
 - **[Spider Climb](spider-climb.md)**: Grants ability to walk on walls and ceilings.
 - **[Spindrift Spritz](spindrift-spritz.md)**: Ally rerolls a save against fatigue, shaken, sickened, or staggered.
 - **[Steal Breath](steal-breath.md)**: You pull the breath from a creature’s lungs, dealing damage and leaving it unable to speak, use breath.
+- **[Storm Sight](storm-sight.md)**: Sense creatures caught in a storm.
 - **[Storm Trident](storm-trident.md)**: Wield a trident of electricity.
 - **[Summon Nature’s Ally II](summon-natures-ally-ii.md)**: Summons creature to fight.
 - **[Summon Swarm](summon-swarm.md)**: Summons swarm of bats, rats, or spiders.
@@ -169,6 +171,7 @@
 - **[Blade Snare](blade-snare.md)**: Snare a weapon or limb that strikes you.
 - **[Bleed for Your Master](bleed-for-your-master.md)**: Compel a companion to take damage for you.
 - **[Blood Scent](blood-scent.md)**: School transmutation; Level alchemist 3, antipaladin 2, cleric 3, druid 3, inquisitor 3, ranger 2.
+- **[Bone Flense](bone-flense.md)**: Barbed bone spurs flense a struck creature.
 - **[Call Lightning](call-lightning.md)**: Calls down lightning bolts (3d6 per bolt) from sky.
 - **[Carrying Wind](carrying-wind.md)**: Wind spirit boosts your speed and grants a fly speed.
 - **[Channel the Gift](channel-the-gift.md)**: Your spell slot powers an ally’s spell.
@@ -177,6 +180,7 @@
 - **[Cure Moderate Wounds](cure-moderate-wounds.md)**: Cures 2d8 damage + 1/level (max +10).
 - **[Daylight](daylight.md)**: 60-ft. radius of bright light.
 - **[Delay Poison, Communal](delay-poison-communal.md)**: As delay poison, but you may divide the duration among creatures touched.
+- **[Detoxify](detoxify.md)**: Neutralize a creature’s poison attacks.
 - **[Diminish Plants](diminish-plants.md)**: Reduces size or blights the growth of normal plants.
 - **[Dominate Animal](dominate-animal.md)**: One animal obeys your silent mental commands and orders.
 - **[Drain Poison](drain-poison.md)**: Drain a creature's poison onto your weapon.
@@ -197,6 +201,7 @@
 - **[Neutralize Poison](neutralize-poison.md)**: Immunizes subject against poison, detoxifies venom in or on subject.
 - **[Nixie’s Lure](nixie-s-lure.md)**: This spell creates an unearthly and infectious song that seductively summons all who hear it.
 - **[Pack Empathy](pack-empathy.md)**: Create an empathic bond with allies.
+- **[Planar Inquiry](planar-inquiry.md)**: Call an outsider to answer questions.
 - **[Plant Growth](plant-growth.md)**: Grows vegetation, improves crops.
 - **[Pocketful of Vipers](pocketful-of-vipers.md)**: Ward a container with summoned vipers.
 - **[Poison](poison.md)**: Touch deals 1d3 Con damage 1/round for 6 rounds.
@@ -240,12 +245,14 @@
 - **[Blight](blight.md)**: Withers one plant or deals 1d6/level damage to plant creature.
 - **[Borrow Corruption](borrow-corruption.md)**: Temporarily gain the effects of a corrupted creature’s manifestations.
 - **[Bountiful Banquet](bountiful-banquet.md)**: Create a luxurious feast for two creatures/level.
+- **[Brightest Light](brightest-light.md)**: Longer-lasting daylight that can dispel darkness.
 - **[Caustic Blood](caustic-blood.md)**: Wounds spray acid at attackers.
 - **[Claim Identity](claim-identity.md)**: Steal a touched humanoid’s face and identity.
 - **[Cloud Shape](cloud-shape.md)**: This spell functions like gaseous form, except you assume the shape of a Colossal cloud with a space of 30.
 - **[Command Plants](command-plants.md)**: Sways the actions of plant creatures.
 - **[Control Water](control-water.md)**: Raises or lowers bodies of water.
 - **[Create Holds](create-holds.md)**: Creates a path of climbing handholds on a wall.
+- **[Crimson Breath](crimson-breath.md)**: Spit a dose of breath of the assassin poison.
 - **[Cure Serious Wounds](cure-serious-wounds.md)**: Cures 3d8 damage + 1/level (max +15).
 - **[Curse Terrain](curse-terrain.md)**: Curse an area with four hazards.
 - **[Dispel Magic](dispel-magic.md)**: Cancels one magical spell or effect.
@@ -303,10 +310,12 @@
 - **[Hallow](hallow.md)**: Designates location as holy.
 - **[Hunter’s Blessing](hunters-blessing.md)**: Group gains favored enemy and favored terrain bonuses.
 - **[Insect Plague](insect-plague.md)**: Wasp swarms attack creatures.
+- **[Invoke Primal Power](invoke-primal-power.md)**: Enhance a Large-or-larger wild shape with primal traits.
 - **[Neutralize Poison, Greater](neutralize-poison-greater.md)**: As neutralize poison, but it also reverses poison damage.
 - **[Old Salt’s Curse](old-salt-s-curse.md)**: You inflict a curse of the roiling sea upon the target, making it permanently sickened.
 - **[Poisonous Balm](poisonous-balm.md)**: As *cure serious wounds*, but leave behind a latent venom.
 - **[Replay Tracks](replay-tracks.md)**: Reconstruct past events from a set of tracks.
+- **[Sawtooth Terrain](sawtooth-terrain.md)**: Serrated blades erupt from a surface.
 - **[Soulswitch](soulswitch.md)**: Swap souls with your familiar.
 - **[Stoneskin](stoneskin.md)**: Grants DR 10/adamantine.
 - **[Sturdy Tree Fort](sturdy-tree-fort.md)**: Create a tree with a defensive fort within it.
@@ -358,6 +367,7 @@
 - **[Spellstaff](spellstaff.md)**: Stores one spell in wooden quarterstaff.
 - **[Stone Tell](stone-tell.md)**: Talk to natural or worked stone.
 - **[Stoneskin, Communal](stoneskin-communal.md)**
+- **[Summon Flight of Eagles](summon-flight-of-eagles.md)**: Summon giant eagles to fight or serve as mounts.
 - **[Summon Nature’s Ally VI](summon-natures-ally-vi.md)**: Summons creature to fight.
 - **[Tar Pool](tar-pool.md)**: Converts the top layer of the ground into hot tar.
 - **[Transport via Plants](transport-via-plants.md)**: Move instantly from one plant to another of the same kind.
@@ -376,6 +386,7 @@
 - **[Delectable Flesh](delectable-flesh.md)**: Creatures near the target become depraved and attack it to feast.
 - **[Entice Fey](entice-fey.md)**: Entice service from a fey of 12 Hit Dice or fewer.
 - **[Fire Storm](fire-storm.md)**: Deals 1d6/level fire damage.
+- **[Frost Mammoth](frost-mammoth.md)**: Conjure a rideable snow mammoth.
 - **[Heal](heal.md)**: Cures 10 points/level damage, all diseases and mental conditions.
 - **[Plundered Power](plundered-power.md)**: Kill a creature and steal its strongest spell-like ability.
 - **[Scrying, Greater](scrying-greater.md)**: As *scrying*, but faster and longer.

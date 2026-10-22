@@ -217,3 +217,32 @@ This ability alters bonded manifestation.
 This ability replaces spiritual interference.
 
 **Necropsychic Conduit**: At 12th level, a necrologist can cast psychic spells as if she had the Thanatopic Spell and Threnodic Spell metamagic feats, using her undead phantom as a conduit to pierce the defenses of undead creatures. If her phantom has been banished or is not within 30 feet of her when she casts the spells, however, these feats have no effect. This ability replaces greater spiritual interference.
+
+## Involutionist
+
+The introspective traditions teach their followers to cultivate a well of inner power and to open themselves to the spiritual world, but on occasion—especially among neophytes who join later in life—these processes overlap, and the acolyte invests her spiritual reservoir into some aspect of the world around her. Rather than bond with an existing spirit as most adherents eventually do, the involutionist creates a spirit from a piece of her own soul. The bond is deep, and it creates a powerful minion utterly loyal to her creator, but it also cuts off the involutionist’s access to the wider spiritual world.
+
+**Divine Spellcasting**: An involutionist is a divine spellcaster. Her spells use verbal components instead of thought components and somatic components instead of emotional components. An involutionist’s spirit phantom is her conduit to the divine, and it serves as her divine focus; the involutionist must either be within 5 feet of her spirit phantom or absorb her phantom into her consciousness to cast spells that require a divine focus. This ability alters spellcasting.
+
+**Spirit Phantom**: An involutionist’s phantom is manifested from her own psyche and invested into the spirit-stuff of the world around her. Rather than an emotional focus, the involutionist selects a spirit from those available to the shaman. A spirit phantom always has good Fortitude and Reflex saves, and it gains a number of ranks equal to the phantom’s Hit Dice in two skills depending on the spirit it represents, as summarized on the table below.
+
+| Spirit | Associated Skills |
+|---|---|
+| Battle | Intimidate and Sense Motive |
+| Bones | Heal and Stealth |
+| Flame | Acrobatics and Intimidate |
+| Heavens | Acrobatics and Fly |
+| Life | Diplomacy and Heal |
+| Lore | Knowledge (arcana) and Linguistics |
+| Nature | Knowledge (nature) and Survival |
+| Stone | Appraise and Knowledge (engineering) |
+| Waves | Diplomacy and Swim |
+| Wind | Bluff and Sense Motive |
+
+When fully manifested, the involutionist’s spirit phantom gains the special ability normally applied to a shaman’s spirit animal. The spirit phantom also gains a single hex from the list of those provided by that spirit. At 7th, 12th, and 17th levels, the spirit phantom gains one additional hex from this list. This ability alters phantom and replaces its emotional focus abilities.
+
+**Spirit Manifestation (Su)**: At 3rd level, when an involutionist uses her bonded manifestation ability, she can instead manifest her spirit phantom’s spirit animal special ability and use her spirit phantom’s hexes as if they were her own. Hexes used during this manifestation count toward any limited number of uses per day. This ability alters bonded manifestation.
+
+**Spirit Awareness (Sp)**: At 5th level, an involutionist gains great insight into the spiritual influence people invest into the world around them. She can cast *detect psychic significance* as a spell-like ability at will and *analyze aura* once per day as a spell-like ability (CL = her character level). This ability replaces detect undead.
+
+**Involuate (Sp)**: At 11th level, an involutionist gains the ability to awaken the latent spiritual energy in inanimate objects. She gains the ability to cast *animate objects* as a spell-like ability once per day (CL = her character level). At 15th and 19th levels, she can use this ability one additional time per day. This ability replaces the additional uses of calm spirit available at 11th, 15th, and 17th levels.

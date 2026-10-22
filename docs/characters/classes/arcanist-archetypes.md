@@ -123,3 +123,19 @@ A white mage is an arcanist touched by a divine power and gifted with the abilit
 **Greater Exploit**: At 11th level, a white mage can select the following greater exploit.
 
 **Fast Healing (Su)**: A white mage can spend 1 point from her arcane reservoir and expend a spell slot of at least 2nd level to grant her allies the fast healing ability. Allies within 30 feet gain fast healing equal to 1/2 the level of the spell slot sacrificed. This effect lasts for a number of rounds equal to the arcanist's Charisma modifier (minimum 1).
+
+## First Magic Initiate
+
+Aspiring students of an ancient arcane academy often spend decades researching arcane magic. Many initiates find themselves overwhelmed by the extensive training and leave before completing their studies. These spellcasters retain many of the academy’s techniques and philosophical bents, but are not considered graduates. They often serve as strong supporters beyond the normal reach of the school and can act immediately against the forces of evil without waiting to be officially sent out into the world.
+
+**Alignment**: A first magic initiate must be of a good alignment. This alters the arcanist’s alignment.
+
+**Aura of Good (Ex)**: A first magic initiate radiates an aura of good as if she were a cleric of a level equal to her class level (see the *detect good* spell).
+
+**Halcyon Spell Lore (Su)**: A first magic initiate can cast a limited number of spells per day beyond those she could normally prepare ahead of time. At each class level, she chooses one spell from the druid spell list or one spell with the good descriptor from the cleric spell list. The spell must be of a spell level that she can cast, and cannot be a spell that already appears on her arcanist spell list. She can cast a spell that she has chosen with this ability as if it were on her spell list and prepared by expending a number of points from her arcane reservoir equal to half the spell’s level (minimum 1) and expending a spell slot of the spell’s level. At 4th level and every 2 levels thereafter, she can choose to lose a spell that she has chosen with this ability in exchange for a new spell of the same spell level that meets the same requirements. This ability replaces the arcanist exploits gained at 1st, 9th, and 17th levels.
+
+**Spell Mastery**: At 5th level, a first magic initiate gains Spell Mastery as a bonus feat. Her arcanist levels count as wizard levels for the purpose of satisfying feat prerequisites, both when selecting this bonus feat and when selecting feats gained from character advancement. If she uses her arcanist level to satisfy the prerequisites for Spell Mastery, she can prepare spells selected with this feat as arcanist spells without referring to a spellbook, but not as wizard spells. She can also select Spell Mastery as a feat gained from character advancement, allowing her to select the feat multiple times.
+
+In addition, if the first magic initiate gains levels in the [first magic arcanist](../prestige-classes/first-magic-arcanist.md) prestige class, her prestige class levels stack with her arcanist levels when determining the number of points in her arcane reservoir (though not the effectiveness of arcane exploits based on class level). A first magic initiate who takes levels in first magic arcanist and gains the spontaneous spell mastery class feature can use that ability to instantly lose one of her prepared spells and immediately prepare a different arcanist spell of the same level or lower that she has mastered with Spell Mastery, rather than spontaneous spell mastery’s normal effect. She is still limited to the same number of times per day she can use spontaneous spell mastery.
+
+This ability replaces the arcanist exploit gained at 5th level.

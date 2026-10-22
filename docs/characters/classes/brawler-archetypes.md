@@ -195,3 +195,27 @@ By accepting spirits of nature into her soul, a verdant grappler can entangle he
 **Thorny Embrace (Su)**: At 5th level, when a verdant grappler uses green grasp to tie up a creature, she can have the roots and vines grow vicious thorns that automatically damage the tied-up creature each round at the start of the verdant grappler’s turn. The thorns deal damage equal to the base unarmed strike damage of a brawler 4 levels lower than the verdant grappler. This replaces close weapon mastery.
 
 **Phytological Anatomy (Su)**: At 11th level, the verdant grappler transforms partially into a plant. She gains a +2 bonus on saving throws against mind-affecting, paralysis, poison, polymorph, sleep, and stunning effects. This replaces the combat feat gained at 11th level.
+
+## Ki Renegade
+
+Ki renegades are brawlers who initially studied at a monastic school, but while they grasped the mechanical aspects of the forms, they lacked the mental discipline required by the masters. They have withdrawn from their monasteries—some peacefully, some not—to find their own paths to self-perfection.
+
+**School Focus (Ex)**: At 2nd level, a ki renegade continues the training she left behind, gaining the benefits of the mystery taught at her old school (flame, wind, or iron). As she progresses in her self-guided training, she gains a deeper understanding of her chosen school’s mystery, which grants her new powers.
+
+*Mystery of the Flame (Su)*: At 2nd level, the ki renegade increases her speed by 10 feet (this is treated as an enhancement bonus). If she uses her monk moves class ability to gain fast movement, the abilities stack with each other. At 8th level, if the ki renegade begins her turn with the grappled condition, she can deal 2d6 points of fire damage to all other creatures in the grapple as a free action. At 14th level, the ki renegade becomes as difficult to contain as a flame. Once per day as a full-round action, she can transform into liquid flame, instantly escaping all bonds as if under the effect of *freedom of movement* and moving up to her speed. When moving as part of this ability, she can move through creatures’ squares freely and doesn’t provoke attacks of opportunity. She deals 10d6 points of fire damage to any creature whose square she enters during this movement. A successful Reflex saving throw (DC = 10 + half her brawler level + her Dexterity bonus) halves this damage.
+
+*Mystery of the Wind (Su)*: At 2nd level, the ki renegade adds 10 to the range increments of ranged weapons she wields and gains Deflect Arrows as a bonus feat. At 8th level, she can harness the power of the wind to make enormous leaps. As a move action, she can leap without attempting an Acrobatics check, jumping any distance up to her speed (upward movement counts as double, as when flying). She can leap in this way a number of times per day equal to her class level. At 14th level, when using the Deflect Arrows feat, the ki renegade can send one projectile back at her attacker, using the same attack roll and damage roll the attacker rolled against her. Even if the deflected attack had more than one projectile (as with Manyshot), she sends only one projectile back at the attacker. The others are deflected as normal.
+
+*Mystery of the Iron (Su)*: At 2nd level, metal weapons and armor in the ki renegade’s possession are treated as masterwork unless they have the broken condition. At 8th level, the ki renegade gains a bonus equal to half her level on Craft checks involving metal, and she gains the benefits of the Master Craftsman and Craft Arms and Armor feats when crafting items made of metal. At 14th level, any weapon the ki renegade wields is treated as adamantine.
+
+This ability replaces the bonus feats gained at 2nd, 8th, and 14th levels.
+
+**Monk Moves (Ex)**: At 4th level, a ki renegade can use her martial flexibility ability to gain the benefits of certain monk abilities as well as combat feats. Each ability counts as one combat feat for this purpose, and the ki renegade is treated as a monk of a level equal to her brawler level for the purpose of determining the effects of these abilities. She gains access to these abilities at the levels listed on the table below. She does not gain a ki pool, and she can’t use powers that require ki. The ki renegade must be wearing light or no armor to benefit from this ability. This ability replaces AC bonus.
+
+| Monk Ability | Level Gained |
+|---|---|
+| Evasion | 4th |
+| Fast movement | 4th |
+| Slow fall | 4th |
+| High jump | 5th |
+| Improved evasion | 9th |

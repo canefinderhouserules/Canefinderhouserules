@@ -551,3 +551,35 @@ Wave riders patrol harbors, keeping them safe from dangerous sea creatures and w
 **Weapon and Armor Proficiency**: Wave riders are proficient with all simple and martial weapons and with light and medium armor, but not with shields. This replaces the cavalier's weapon and armor proficiencies.
 
 **Seafaring Companion**: At 1st level, a wave rider gains Monstrous Mount (see [Monstrous Mounts](../../rules/combat/monstrous-mounts.md)) as a bonus feat. The wave rider can use this feat only to select a hippocampus mount. Otherwise, this ability functions identically to the cavalier's mount class feature, and replaces it.
+
+## Dune Horselord
+
+Dune horselords are mounted-combat specialists who pride themselves on their mobility and endurance, qualities also found in the breed of horses they ride. They can get to a battleground in half the time and on a third of the rations. In battle, they are skirmishers, ducking in and out of combat with brutal, precise slashes of their scimitars.
+
+**Weapon and Armor Proficiency**: A dune horselord is proficient with all simple and martial weapons, with light and medium armor, and with shields (except tower shields). This replaces the cavalier’s normal weapon and armor proficiencies.
+
+**Mount (Ex)**: A dune horselord must select a horse or pony as his mount. At the GM’s discretion, a different mount can be selected. This ability alters the cavalier mount class feature.
+
+**Desert Wind (Ex)**: The speed of a dune horselord’s mount increases by 5 feet. Its speed increases by an additional 5 feet at 5th level and every 5 cavalier levels thereafter. This ability replaces tactician.
+
+**Desert Mastery (Ex)**: At 3rd level, a dune horselord gains favored terrain (desert) as per the ranger ability of the same name. At 8th level and every 5 levels thereafter, the granted bonus on initiative and skill checks increases by 2, but the dune horselord never selects additional favored terrains. Additionally, his mount gains all the benefits of the favored terrain ability. This ability replaces cavalier’s charge.
+
+**Sand Storm (Ex)**: At 6th level, a dune horselord gains the benefits of the Mobility feat so long as he is mounted. Additionally, he deals double damage while using a one-handed slashing weapon from the back of a charging mount, as though using a lance. This ability replaces the bonus feat gained at 6th level.
+
+**As One (Ex)**: At 9th level, a dune horselord gains the benefits of the Spring Attack feat so long as he is mounted. He uses his mount’s movement for this action, and neither he nor his mount provokes attacks of opportunity from the target. When he makes a single attack with a one-handed slashing weapon in this way, the attack deals 1d6 additional points of damage. This bonus damage increases to 3d6 at 17th level. This ability counts as the Spring Attack feat for the purpose of meeting feat prerequisites, but only while the dune horselord is mounted. This replaces greater tactician.
+
+**Sand Scourge (Ex)**: At 17th level, a dune horselord and his mount can make a tactical rush through enemy ranks as a full-round action. His mount can move up to twice its normal speed in a straight line. The dune horselord can make a single attack against each creature he threatens during his mount’s movement, up to his normal number of attacks per round. These attacks use his full base attack bonus and take a –2 penalty; this is not a charge, and these attacks deal normal damage. The dune horselord provokes attacks of opportunity during this movement, but his mount does not. This ability replaces master tactician.
+
+## Sister-in-Arms
+
+Sisters-in-arms are the most charismatic scarred soldiers, combining devotion to their comrades with intense tactical training to direct their companions and inspire them to survive and emerge victorious.
+
+**Halfhearted Challenge (Ex)**: A sister-in-arms vigilantly protects her allies, weakening her focus on her challenged foe. She adds only half her cavalier level (minimum 1) to damage rolls against her challenge target. This ability alters challenge.
+
+**Maiden’s Order (Ex)**: A sister-in-arms does not choose an order. Instead, she is considered to belong to both the order of the dragon and the order of the lion, and she gains all of the benefits of both orders (including additional class skills and conditional skill bonuses, additional challenge benefits, and order abilities) at the appropriate levels. At 1st level, a sister-in-arms chooses which order’s edicts she must follow. This ability alters order and replaces mount.
+
+**Devoted Defender (Ex)**: At 3rd level, a sister-in-arms gains Bodyguard as a bonus feat (she does not need to meet the feat’s prerequisite). This ability replaces cavalier’s charge.
+
+**Maiden’s Loyalty (Ex)**: At 4th level, a sister-in-arms gains a +2 bonus on Will saves against any effect that would compel her to attack or betray her allies. This bonus increases by 1 for every 4 levels beyond 4th. This ability replaces expert trainer.
+
+**Dedicated Commander (Ex)**: At 11th level, the sister-in-arms can use lion’s call or strategy order as a move action, rather than as a standard action. At 20th level, she can use act as one, lion’s call, or strategy order as a swift or move action. This ability replaces mighty charge and supreme charge.

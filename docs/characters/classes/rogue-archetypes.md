@@ -799,3 +799,29 @@ The sight of slaving ships approaching a coast signals terror for most. Some fre
 **Rogue Talents**: The following rogue talents complement the slave liberator archetype: deft palm, fast picks, fast stealth, quick disguise, slow reactions, and underhanded.
 
 **Advanced Talents**: The following advanced rogue talents complement the slave liberator archetype: defensive roll, fast tumble, knock-out blow, skill mastery, and weapon snatcher.
+
+## Freedom Irrigator
+
+Freedom irrigators take on tasks that many other agents of a liberation network find distasteful. Rather than focusing on saving slaves, freedom irrigators seek to defeat slavery by aiming to eliminate the source. They gauge the precise moment to strike from the shadows and annihilate slave traders and masters alike. They realize that for every slave released today, another will be shackled tomorrow—until all the masters are dead. They employ combat methods that many find questionable, such as the use of poison and calculated strikes meant to kill rather than incapacitate.
+
+**Crop (Ex)**: As a standard action, a freedom irrigator can designate a number of allies equal to 3 + his Charisma modifier as part of his crop. Members of a crop must remain within 30 feet of the irrigator to gain any benefits from abilities that affect a crop, regardless of the ability’s source (whether it’s a freedom harvester, irrigator, or tiller). If the allies leave this range, the irrigator must designate them again to include them in his crop.
+
+**Poison Use (Ex)**: A freedom irrigator is trained in the use of poison and cannot accidentally poison himself when applying poison to a weapon. This ability replaces trapfinding.
+
+**Grafting (Ex)**: At 4th level, a freedom irrigator is considered to be flanking an opponent if at least two members of his crop are threatening that opponent, regardless of the irrigator’s actual positioning. This ability replaces uncanny dodge and the rogue talent gained at 4th level.
+
+**Irrigation (Ex)**: At 8th level, if a freedom irrigator studies his target for 3 rounds (spending a standard action each round to do so) and then makes a sneak attack with a melee weapon that successfully deals damage, the attack has the additional effect of possibly either paralyzing or killing the target (irrigator’s choice). The death attack fails if the target detects the irrigator or recognizes him as an enemy. If the victim of the attack fails a Fortitude save (DC = 10 + 1/2 the irrigator’s class level + the irrigator’s Intelligence modifier) against the kill effect, she dies. If the saving throw fails against the paralysis effect, the victim is rendered helpless and unable to act for 1d6 rounds plus 1 round per 2 rogue levels that the irrigator has. If the victim’s saving throw succeeds, the attack is just a normal sneak attack. Once the irrigator has completed the 3 rounds of study, he must make the irrigation attempt within the next 3 rounds. A freedom irrigator can attempt to kill or paralyze a creature in this way once per day, plus one additional time per day for every 4 additional rogue levels he has after 8th. This ability replaces improved uncanny dodge.
+
+## Toxic Talon
+
+A toxic talon is trained and deployed for one very specific purpose: to defeat foes with unusual and potent poisons. After adopting a profession to serve as a cover for his activities, a toxic talon spends resources and time combining easy-to-obtain materials into dangerous toxins. A toxic talon can use rare, complex, slow-release poisons to make a death look like it happened naturally, or use specific poisons to cast suspicion on rival organizations.
+
+**Forceful Breath (Ex)**: A toxic talon is proficient with blowguns instead of hand crossbows. He can use a blowgun without penalty while prone. This alters the rogue’s weapon proficiencies.
+
+**Poison Adept (Ex)**: A toxic talon is trained in the use of poison and cannot accidentally poison himself when applying poison to a projectile weapon. He can apply poison to a projectile as a move action. This counts as the poison use ability for the purposes of qualifying for feats, prestige classes, and other options. This ability replaces trapfinding.
+
+**Toxin Resistance (Ex)**: At 3rd level, a toxic talon gains a +1 bonus on saving throws against diseases and poisons, and he gains a +1 bonus on Heal checks to treat diseases and poisons. He also gains a +1 bonus on caster level checks (including when he activates a magic item) to treat or remove poisons and diseases, such as when using *remove disease* or *neutralize poison*. Finally, he gains a +1 bonus on Perception checks to identify traps that utilize diseases or poisons. These bonuses increase to +2 at 6th level, to +3 at 9th level, to +4 at 12th level, to +5 at 15th level, and to +6 at 18th level. This replaces trap sense.
+
+**Catalyst (Su)**: At 4th level, a toxic talon can use secret alchemical techniques to enhance a poison as he applies it to a weapon, increasing the save DC of the poison by 1 (this bonus increases to +2 at 12th level). This increase to the save DC lasts for 1 minute or until the poison is used up, whichever comes first. A toxic talon can use catalyst once per hour. This ability replaces uncanny dodge.
+
+**Split Toxin (Su)**: At 8th level, when a toxic talon uses catalyst to enhance poison as he applies it, he can envenom two ranged weapons or units of ammunition simultaneously with the same dose. This ability replaces improved uncanny dodge.

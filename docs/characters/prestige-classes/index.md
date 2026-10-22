@@ -28,11 +28,25 @@ The prestige classes presented in this chapter are summarized below.
 
 **[Shadowdancer](shadowdancer.md)**: A mysterious adventurer who walks the boundaries between the real world and the realm of shadows, and who can command shadows to do her bidding.
 
+**[Adventuring Delver](adventuring-delver.md)**: A dungeon-delving explorer with trap expertise and death-cheating luck.
+
+**[Adventuring Savant](adventuring-savant.md)**: A magic-item and glyph specialist who extends his spell list with esoteric spells.
+
+**[Argent Dramaturge](argent-dramaturge.md)**: A bard-like performer whose songs hinder fiends and shield allies.
+
 **[Battle Herald](battle-herald.md)**: A veteran whose masterful tactics and air of command inspire allies to greater feats of heroism.
+
+**[Consortium Agent](consortium-agent.md)**: A mercantile operative who evades traps, masks her alignment, and cows foes with a pleasant face.
 
 **[Cyphermage](cyphermage.md)**: An arcane scholar of runes and written magic who masters scrolls, glyphs, and ancient lore.
 
+**[Death Slayer](death-slayer.md)**: A divine assassin who hunts undead with channeled positive energy.
+
+**[Devil Thief](devil-thief.md)**: A premier agent of a thieves’ guild who draws on the favor of a city’s patrons.
+
 **[Divine Scion](divine-scion.md)**: A spellcaster chosen by her deity, whose domain and alignment-opposed foes shape her power.
+
+**[Elven Sentinel](elven-sentinel.md)**: An elven-style redeemer-soldier with spell-like light magic who fights Underworld and demonic threats.
 
 **[Evangelist](evangelist.md)**: A devout follower of any background who gains boons, languages, and versatility from her deity.
 
@@ -40,11 +54,27 @@ The prestige classes presented in this chapter are summarized below.
 
 **[Faithless Enforcer](faithless-enforcer.md)**: A lawful investigator who hunts hidden cults and purges divine influence from lands that outlaw religion.
 
+**[First Magic Arcanist](first-magic-arcanist.md)**: An arcane caster who adapts druid magic and fights evil with good-descriptor spells.
+
+**[Freedom Tiller](freedom-tiller.md)**: A liberator who escorts a crop of allies to safety, empowering them with teamwork and local contacts.
+
 **[Genie Binder](genie-binder.md)**: A conjurer who seals and commands genies, either as an eidolon-like minion or as a source of spellcasting power.
+
+**[Golden Knight](golden-knight.md)**: A field commander who protects allies and punishes those who attack them.
+
+**[Gray Knight](gray-knight.md)**: A privateer who fights slavers at sea with borrowed class powers.
 
 **[Holy Vindicator](holy-vindicator.md)**: A pious warrior who spreads religion at the edge of a sword.
 
 **[Horizon Walker](horizon-walker.md)**: A scout and wanderer comfortable in even the strangest terrain.
+
+**[Infernal Knight](infernal-knight.md)**: A lawful devil-slayer who smites chaos and wears specialized armor.
+
+**[Infernal Knight Signifer](infernal-knight-signifer.md)**: The spellcasting arm of a knightly order: masked, lawful casters with devil-resistant gifts and armor training.
+
+**[Introspective Emissary](introspective-emissary.md)**: A shaman-like spirit bonder who summons an animus hybrid through her spirit animal.
+
+**[Mammoth Rider](mammoth-rider.md)**: A tribal warrior mounted on a gigantic arctic beast.
 
 **[Master Chymist](master-chymist.md)**: An alchemist whose mutagens create an alternate, brutish personality.
 
@@ -52,11 +82,29 @@ The prestige classes presented in this chapter are summarized below.
 
 **[Nature Warden](nature-warden.md)**: A master of the wilderness bonded spiritually to a fearsome animal companion.
 
+**[Nomad Horse Rider](nomad-horse-rider.md)**: A tribal cavalry leader with a genie-blessed mount who strengthens allies and tramples foes.
+
 **[Rage Prophet](rage-prophet.md)**: A bold and barbaric champion who embraces otherworldly powers in order to perfect the art of combat.
+
+**[Scar Soldier](scar-soldier.md)**: An elite, scarred shield-and-sword soldier whose tyrant’s disciplines and infernal gifts grow with level.
+
+**[Scarlet Assassin](scarlet-assassin.md)**: An arcane assassin with prayer attacks, red mist, and a praying-mantis form.
 
 **[Stalwart Defender](stalwart-defender.md)**: A master of defending territory and holding the line at all costs.
 
+**[Steel Knight](steel-knight.md)**: A diplomat-warrior who spreads liberty, fights slavers, and inspires allies.
+
+**[Storm Worker](storm-worker.md)**: A storm-wielding spellcaster who turns into a whirlwind or vortex.
+
+**[Student of Perfection](student-of-perfection.md)**: A monastic master who gains school-specific ki powers and elemental style feats.
+
+**[Student of War](student-of-war.md)**: A martial scholar who studies foes to gain stance-based insight bonuses.
+
+**[Sword Duelist](sword-duelist.md)**: A master of the dueling sword who intimidates foes, deflects critical hits, and adapts to every opponent.
+
 **[Sworn Guard](sworn-guard.md)**: A barbarian bodyguard whose rage and fierce loyalty protect a chosen ally.
+
+**[Twilight Knight](twilight-knight.md)**: A deep-cover spy with disguise magic, improvised weapons, and a dead-drop network.
 
 ### Definitions of Terms
 

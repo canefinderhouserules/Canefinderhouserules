@@ -27,7 +27,7 @@
 - If you spend double the rounds, you can add Song of Silver to any other song you want to use, letting you have 2 at once.
 - Starting songs as a swift action is, naturally, a level 7 ability.
 
-## Asavir
+## Nomad Horse Rider
 
 - Handle Animal and Ride requirements are 3 instead of 5; the BAB requirement also drops to 3.
 - Efreeti Blessing is gained at level 5.
@@ -83,7 +83,7 @@
 - Heavenly Fire: the save halves instead of negating.
 - Immolate is optional, so you do not harm an ally who uses pieces of enemies.
 
-## Cyphermage
+## Script Mage
 
 - Skill requirements drop to 2.
 - Gains the Evangelist's Aligned Class.
@@ -177,13 +177,13 @@
 - The spell requirement drops to "being able to cast *summon monster II*", whether as a spell or a spell-like ability.
 - No longer requires Persuasive; it is granted at level 1.
 
-## Golden Legionnaire
+## Golden Knight
 
 - BAB requirement drops to 2.
 - Both skill requirements drop to 2.
 - Authoritative Command starts as a swift action and improves to a free action at level 8.
 
-## Gray Corsair
+## Gray Knight
 
 - Skill requirements drop to 3.
 - No longer requires Sea Legs; it is granted at level 1.
@@ -226,15 +226,15 @@
 - Scarecrow gives +1 to attack and damage against anyone threatening an ally (or rather, a crop).
 - At level 6 they gain tactician as a cavalier of their level +5, counting the teamwork feats the class already gives as part of this class feature (and adding 1 extra for the normal tactician effects).
 
-## Hell Knight
+## Infernal Knight
 
 - Requirements drop to BAB +3 and Intimidate 2; the rest stays the same.
 - Force of Will changes to directly give Iron Will at level 3, Improved Iron Will at level 6 and Mythic Iron Will at level 9.
 - Smite Chaos is not ×2 to EVERYTHING against chaotic outsiders; it is only an explanation of which creature types the normal ×2 of smite evil works against (chaotic subtype, chaotic aberrations and fey). The damage added per level is still ×2, or stacks with other smite classes you have, up to a maximum of your Hit Dice.
 - Gains Aligned Class at half rate (as the Mortal Usher).
-- If you have Hell Knight Obedience, you may choose to gain the boons at levels 3, 6 and 9 instead of gaining a discipline.
+- If you have Infernal Knight Obedience, you may choose to gain the boons at levels 3, 6 and 9 instead of gaining a discipline.
 
-## Hell Knight Signifer
+## Infernal Knight Signifer
 
 - The spell level requirement drops to 1. Skill requirements drop to 3.
 - No longer requires Warrior Priest or Arcane Armor Training. It directly gives you them at level 1, depending on whether you are a divine or arcane caster, respectively.
@@ -245,7 +245,7 @@
 
 - Skill requirements drop to 3, and the caster level requirement drops to 1.
 
-## Swordlord
+## Sword Duelist
 
 - Instead of Quick Draw, it simply grants an extra feat.
 - Deft Strike gives 1.5× Dexterity damage and level to damage.

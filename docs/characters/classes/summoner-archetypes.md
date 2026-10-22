@@ -541,3 +541,17 @@ Most summoners have a close connection to creatures from the farthest reaches of
 **Damage Reduction**: If the first worlder chooses this evolution, he may select DR/cold iron instead of one of the alignment-based types of damage reduction.
 
 This otherwise works like and replaces the eidolon ability of a normal summoner.
+
+## Devil Binder (Unchained Summoner)
+
+Most infernal knights see Hell and its native devils as a challenge to be conquered. If one can dominate these beings of pure (albeit cruel) law, then the power of that law is theirs by right. The devil binder takes this philosophy a step further, forcing a devil into service. A devil binder’s eidolon does not willingly serve its master, and the nature of the magical bond is irrevocably altered by the invocation. A devil binder borrows extraplanar quintessence from her eidolon, gaining strange abilities for herself and evolving her eidolon’s magical powers.
+
+**Alignment**: A devil binder must be lawful evil or lawful neutral in alignment.
+
+**Infernal Binding (Ex)**: A devil binder must select an eidolon of the devil subtype. The devil binder’s eidolon never increases its maximum number of attacks, and its base attack bonus is equal to half its Hit Dice. At 4th level and every 4 levels thereafter, the eidolon’s Charisma score increases by 2. This alters the summoner’s eidolon.
+
+**Infernal Arcana (Sp)**: At 1st level and every 2 levels thereafter, the devil binder’s eidolon gains the following spell-like abilities: *protection from chaos* (1st), *scorching ray* (3rd), *suggestion* (5th), *charm monster* (7th), *dominate person* (9th), *planar binding* (devils only) (11th), *greater teleport* (13th), *power word stun* (15th), *meteor swarm* (17th). Each of these spell-like abilities is usable once per day, and the eidolon’s caster level is equal to the devil binder’s summoner level. When the eidolon casts *planar binding* this way, the devil binder is considered to be the spell’s caster instead. At 19th level, the devil binder’s eidolon can use each of its infernal arcana spell-like abilities three times per day. This replaces the *summon monster I* summoner class feature.
+
+**Infernal Affinity (Ex, Su, or Sp)**: A devil binder wrenches Hell’s power from her eidolon. This grants the devil binder the bloodline powers of the infernal sorcerer bloodline (gained at the following levels): corrupting touch (4th), infernal resistances (8th), hellfire (12th), on dark wings (16th), and power of the Pit (20th). The devil binder treats her summoner level as her sorcerer level for the purpose of determining their effects. This replaces bond senses, shield ally, transposition, greater shield ally, merge forms, and twin eidolon.
+
+**Smite Chaos (Su)**: At 6th level, the summoner’s eidolon gains the ability to smite chaos as an infernal knight of its Hit Dice. This ability can be used once per day and an additional time for every 4 levels beyond 6th. This ability replaces maker’s call and the eidolon’s devotion ability.

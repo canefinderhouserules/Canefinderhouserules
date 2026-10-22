@@ -140,6 +140,18 @@ The Deceiver is the prince of prevarication.
 
 **Shift Blame (Greater, Ex)**: When you provoke an attack of opportunity from a given enemy, you can divert that attack of opportunity to another target of your choice within the attacker’s reach. Afterward, the foe whose attack you diverted becomes immune to this ability for 24 hours. When you target a creature with a spell, spell-like ability, or supernatural ability, or when you fail a Bluff, Diplomacy, or Intimidate check, you can allow the Deceiver to gain 1 point of influence over you to make the target believe another creature adjacent to you created the effect or attempted to lie to, convince, or bully the target.
 
+### Devilborn Scion (Trickster)
+
+The Devilborn Scion is the spirit of a would-be ruler of a great city, slain atop its towering monument in a failed coup. He channels guile and ambition.
+
+**Gaining Favor**: To gain the scion’s favor, you must climb atop the towering monument in a great city. There, you must pour oil down the statue’s cheeks, then set the oil afire. You must vow to seek political influence, and then succeed at a Charisma check (DC = 10 + half your medium level). Tieflings gain a +5 bonus on this check.
+
+**Favored Locations**: Monuments, noble homes, thieves’ dens, anywhere in the spirit’s home city.
+
+**Taboo**: The scion’s pride demanded that his victims know whose hand they died by. If you accept a taboo while channeling the scion, you must not attack any foe who is completely unaware of your presence.
+
+**Master Duelist (Greater, Su)**: While wielding a light or one-handed piercing weapon, you gain a +3 dodge bonus to your AC against melee attacks. Your surprise strike damage also applies to attacks against creatures you are flanking.
+
 ### Heretic (Hierophant)
 
 The Heretic warps the faith of a good deity.
@@ -199,3 +211,17 @@ The Warmonger is a spirit of unbridled strife, inspiring others to throw their l
 **Warmonger’s Way (Intermediate, Su)**: Add the following spells of spell levels you can currently cast to your list of spells known of those levels: 1st—*command, murderous command*; 2nd—*rage, tactical acumen*; 3rd—*confusion, fear*; 4th—*battlemind link*, *song of discord*. You can also use your spirit surge on concentration and caster level checks when you cast these spells.
 
 **Inspiring Call (Greater, Su)**: You gain the marshal’s intermediate spirit power of the same name, but you can activate it as a move action. This improves to a swift action if you have the legendary marshal legendary spirit power.
+
+## Storm Dreamer
+
+Storm dreamers serve storm-worshiping orders by communing with their mystical predecessors. They serve as spiritual advisors, and are valued for the lore and wisdom they gain during their trances. During such a trance, a single storm dreamer can easily protect and defend a temple—or at the very least, provide suitably threatening defensive displays. Mediums who become storm dreamers select their spirits normally, but the spirits with which they bond are supernatural remnants of the first storm-worshipers—reckless explorers who established the tradition but succumbed to their own arrogance and were consumed by the great storm.
+
+Some storm dreamers become incapable of retaining their own personality and values, and transform into unpredictable forces of nature. Storm dreamers refer to this condition as being “stormcursed” and view these lost brothers and sisters with a mix of pity and horror.
+
+**Storm Domain (Su)**: All storm dreamers are deeply religious and select one of the following domains: Air, Animal, Plant, Water, or Weather. The storm dreamer gains the 1st-level granted power from her chosen domain, but never gains the second power at higher level. When determining the effect of the granted power, the storm dreamer’s effective cleric level is equal to her storm dreamer level. The 1st- through 6th-level bonus spells from this domain are added to her spell list. Despite her faith, these spells are cast normally, as psychic spells, by the medium. This ability replaces spirit surge.
+
+**Storm Trance (Su)**: A 3rd-level storm dreamer can enter a meditative trance during which she fuses her mind to the great storm, mentally becoming one with it. Entering the trance is a full-round action that doesn’t provoke attacks of opportunity, but once in a storm trance, the storm dreamer can maintain the trance as a free action for a number of minutes per day equal to her storm dreamer class level + her Charisma modifier. These minutes need not be consecutive, but they must be spent in 1-minute increments. While in a storm trance, the storm dreamer gains energy resistance 5 against cold and electricity, treats wind as one step less severe, and gains a bonus equal to her Charisma modifier on all saving throws against wind effects, spells with the air or electricity descriptors, and effects that deal electricity damage. This ability replaces haunt channeler.
+
+**Dream Storm (Sp)**: At 5th level, a storm dreamer’s thoughts can cause magical weather effects to manifest. While in a storm trance, she can cast *call lightning*, *sleet storm*, and *wind wall* as spell-like abilities (CL = her character level). Each time she casts one of these spell-like abilities, she reduces the number of remaining minutes for her storm trance by 1 minute; she can’t use these spell-like abilities if she has less than 1 minute remaining for the day to use her storm trance. This ability replaces location channel.
+
+**Storm Seer (Su)**: At 7th level, a storm dreamer gains a supernatural link to the weather and can sense her surroundings more clearly. While in her storm trance, she gains blindsense 10 feet and cannot be flanked. If the weather conditions are stormy, these senses become blindsight with a range of 30 feet. This ability replaces connection channel.

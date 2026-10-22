@@ -68,6 +68,7 @@ Psychics gain access to the following spells. Spells without a link come from ot
 - **[Delusional Pride](delusional-pride.md)**: Target is penalized on attacks and checks but gains bonus against charms and compulsions.
 - **[Detect Aberration](detect-aberration.md)**: Detect presence of aberrations.
 - **[Detect Animals or Plants](detect-animals-or-plants.md)**: Detects kinds of animals or plants.
+- **[Detect Charm](detect-charm.md)**: Detect charm, compulsion, and possession effects.
 - **[Detect Secret Doors](detect-secret-doors.md)**: Reveals hidden doors within 60 ft.
 - **[Detect Thoughts](detect-thoughts.md)**: Allows “listening” to surface thoughts.
 - **[Detect Undead](detect-undead.md)**: Reveals undead within 60 ft.
@@ -97,6 +98,7 @@ Psychics gain access to the following spells. Spells without a link come from ot
 - **[Identify](identify.md)**: Gives +10 bonus to identify magic items.
 - **[Ill Omen](ill-omen.md)**: Target rolls twice for checks and attacks and uses worst roll.
 - Illusion of Calm
+- **[Instant Portrait](instant-portrait.md)**: Paint a quick monochrome portrait.
 - **[Interrogation](interrogation.md)**: Target answers questions or suffers pain.
 - **[Invigorate](invigorate.md)**: Temporarily relieves fatigue or exhaustion.
 - **[Invisibility Alarm](invisibility-alarm.md)**
@@ -116,6 +118,7 @@ Psychics gain access to the following spells. Spells without a link come from ot
 - **[Mindlink](mindlink.md)**: Communicate a great deal of information in an instant.
 - Mirror Strike
 - Moment of Greatness
+- **[Mirror Mantis](mirror-mantis.md)**: A target sees a menacing assassin in every mirror.
 - **[Monkey Fish](monkey-fish.md)**: Gain a climb speed and a swim speed of 10 ft. for a time.
 - **[Murderous Command](murderous-command.md)**: Target is compelled to kill its ally.
 - Negative Reaction
@@ -128,6 +131,7 @@ Psychics gain access to the following spells. Spells without a link come from ot
 - **[Remove Fear](remove-fear.md)**: Suppresses fear or gives +4 on saves against fear for one subject + one per four levels.
 - **[Restore Corpse](restore-corpse.md)**: Skeletal corpse grows flesh.
 - See Alignment
+- **[Rune Trace](rune-trace.md)**: Learn a rune’s age, language, and purpose.
 - **[Shadow Weapon](shadow-weapon.md)**: Create a quasi-real masterwork weapon.
 - **[Share Language](share-language.md)**: Subject understands chosen language.
 - **[Shield](shield.md)**: Invisible disc gives +4 to AC, blocks *magic missiles.*
@@ -232,7 +236,9 @@ Psychics gain access to the following spells. Spells without a link come from ot
 - **[Ghostly Disguise](ghostly-disguise.md)**: You look like a ghost of yourself.
 - **[Glide](glide.md)**: No fall damage, move 60 ft./round while falling.
 - **[Haunting Mists](haunting-mists.md)**: Creatures are shaken and take Wis damage.
+- **[Haunting Reminder](haunting-reminder.md)**: Coerced target becomes shaken if it betrays you.
 - **[Heat Metal](heat-metal.md)**: Makes metal so hot it damages those who touch it.
+- **[Hidden Knowledge](hidden-knowledge.md)**: Store knowledge in a tattoo, forgetting it temporarily.
 - **[Hidden Presence](hidden-presence.md)**: Prevent creatures from noticing your presence.
 - **[Hidden Speech](hidden-speech.md)**: Gain +10 on Bluff to send secret messages.
 - **[Hideous Laughter](hideous-laughter.md)**: Subject loses actions for 1 round/level.
@@ -271,6 +277,7 @@ Psychics gain access to the following spells. Spells without a link come from ot
 - **[Muffle Sound](muffle-sound.md)**
 - **[Object Reading](object-reading.md)**: Read psychic impressions left on an object.
 - **[Obscure Object](obscure-object.md)**: Masks object against scrying.
+- **[Obscured Script](obscured-script.md)**: Text becomes hard to read and deciphers falsely.
 - **[Oneiric Horror](oneiric-horror.md)**: Distract and fatigue the target with a creature from its nightmares.
 - **[Open Book](open-book.md)**: Make it permanently easier to learn more about a target.
 - **[Oppressive Boredom](oppressive-boredom.md)**: Target loses its next action.
@@ -321,6 +328,8 @@ Psychics gain access to the following spells. Spells without a link come from ot
 - **[Summon Monster II](summon-monster-ii.md)**: (Evil creatures only.) Summons extraplanar creature to fight for you.
 - Tactical Acumen
 - Telekinetic Assembly
+- **[Suppress Charms and Compulsions](suppress-charms-and-compulsions.md)**: Bolster or suppress charm and compulsion effects.
+- **[Sympathetic Aura](sympathetic-aura.md)**: Magic aura that also covers similar nearby items.
 - **[Thought Shield I](thought-shield-i.md)**: As an immediate action, gain a +4 bonus on Will saves against mind-affecting effects.
 - **[Time Shudder](time-shudder.md)**
 - **[Touch of Idiocy](touch-of-idiocy.md)**: Subject takes 1d6 penalty to Int, Wis, and Cha.
@@ -612,6 +621,7 @@ Psychics gain access to the following spells. Spells without a link come from ot
 - **[Conditional Curse](conditional-curse.md)**: Bestow a curse that is difficult to remove without fulfilling a condition.
 - **[Contact Entity III](contact-entity-iii.md)**: Ask very powerful eldritch entities to find and converse with you, or they may reply telepathically.
 - **[Contact Other Plane](contact-other-plane.md)**: Lets you ask question of extraplanar entity.
+- **[Deceptive Redundancy](deceptive-redundancy.md)**: Fool dispellers and hide a spell’s aura.
 - **[Denounce](denounce.md)**: Worsens attitudes toward target creature.
 - **[Dismissal](dismissal.md)**: Forces a creature to return to its native plane.
 - **[Dominate Person](dominate-person.md)**: Controls humanoid telepathically.
@@ -771,6 +781,7 @@ Psychics gain access to the following spells. Spells without a link come from ot
 - **[Psychic Crush II](psychic-crush-ii.md)**: As psychic crush I, but deal 5d6 + 1 points of damage per level on a save and harder to resist.
 - **[Psychic Surgery](psychic-surgery.md)**
 - **[Repress Memory](repress-memory.md)**: Remove a piece of knowledge from your mind.
+- **[Shadow Memory](shadow-memory.md)**: Learn a target’s secrets to aid an assassination.
 - **[Sonic Form](sonic-form.md)**
 - **[Spellcrash](spellcrash.md)**
 - **[Stone Tell](stone-tell.md)**: Talk to natural or worked stone.

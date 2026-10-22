@@ -514,3 +514,25 @@ While most clerics are associated with a particular temple, adventuring clerics 
 **Fortunate Road**: At 1st level, a wayfaring pilgrim must select the Chaos, Community, Liberation, Luck, Travel, or Weather domain (or the Exploration, Fate, Freedom, Trade, or Seasons subdomains, if available in the campaign) as one of her domains. If the cleric worships a deity that doesn't normally grant one of these domains, she gains access to this domain but can only pick this one domain—she effectively loses the option to pick a second domain. As a result, very few clerics who worship deities who don't grant access to one of the domains or subdomains listed above opt to become wayfaring pilgrims. In all other respects, this works like and replaces the standard cleric's domain ability.
 
 **Caravan Bond (Su)**: At 1st level, by leading a group prayer for 1 minute, a wayfaring pilgrim can select a number of traveling companions equal to her cleric level + her Wisdom bonus. She may use her domain-granted powers on any of these traveling companions as if they were her. She can use these abilities on her traveling companions at a range of up to 30 feet, even if the ability normally requires her touch. This ability replaces the cleric's proficiency with medium armor and shields—she retains proficiency with light armor only.
+
+## Blossoming Light
+
+Some clerics take their pursuit of purity and light to extremes. Blossoming lights forsake armor and weaponry in favor of opening their hearts to pure goodness. Many are peace-loving or even pacifistic, and nearly every blossoming light favors redemption over righteous wrath.
+
+**Promise of Faith**: A blossoming light vows to trust in her deity’s protection over arms and armor. She is not proficient with any armor or shields. The blossoming light cannot use or benefit from any of her class features (including spellcasting) while wearing armor or using a shield, or for 1 minute thereafter. This ability alters the cleric’s armor proficiencies.
+
+**Promise of Purity**: A blossoming light must be truly pure of heart. She must be good-aligned and worship a nonevil deity. If the blossoming light willfully commits an evil act, she loses all class features (including spellcasting) until she atones. This alters the cleric’s alignment.
+
+**Luminous Font (Su)**: A blossoming light forsakes her deity’s deeper mysteries to focus on benevolence, healing, and bringing light to darkness. A blossoming light still selects domains and retains access to domain powers, but does not gain domain spell slots.
+
+Blossoming lights are beacons of goodness, guiding others to follow their own best natures. A blossoming light adds half her level on Diplomacy checks against good creatures or to convince an evil creature to take an action against its evil nature.
+
+A blossoming light’s channel energy is usable a number of times per day equal to 5 + her Charisma modifier. At 2nd level and every 2 levels thereafter, the blossoming light gains an additional use per day of channel energy.
+
+At 3rd level, when a blossoming light channels energy to harm undead, her channeled energy also harms chaotic evil outsiders, worshipers of chaotic evil deities, and evil creatures with light sensitivity or light blindness as if they were undead.
+
+At 7th level, when a blossoming light channels energy, she can expend an additional use to fill the affected area with bright light (as per *daylight*) for a number of rounds equal to her cleric level.
+
+At 10th level, a blossoming light can use *atonement* once per day as a spell-like ability, but only to offer redemption to others (as per the spell). Using the spell in this way does not require a focus or material component.
+
+This ability alters channel energy and the cleric’s domains.

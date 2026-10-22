@@ -234,6 +234,18 @@ If that spell summoned more than one creature, only the creature that failed its
 
 **Creator’s Will (Sp)**: At 8th level, you can cast minor creation as a spell-like ability. You can have no more than one minor creation active at a time. If you cast the spell again, the previous casting immediately ends. At 12th level, this ability improves to major creation. You can use this ability a number of times per day equal to 1/2 your wizard level.
 
+### Deception School
+
+Some illusionists rely more on their natural talents and less on flashy figments.
+
+**Associated School**: Illusion.
+
+**Replacement Powers**: The following school powers replace the blinding ray and extended illusions powers of the illusion school.
+
+**Deceptive Flourish (Su)**: You gain a +2 enhancement bonus on Bluff and Disguise skill checks. This bonus increases by 1 for every 5 wizard levels you have, up to a maximum of +6 at 20th level. At 20th level, you gain the benefits of *misdirection* (Will DC = 20 + your Intelligence modifier) or *nondetection* permanently. At will as a standard action, you can change which of the two spells is active, and each time you activate *misdirection*, you can choose a new creature or object as the secondary object.
+
+**Subtle Misdirection (Sp)**: As a standard action, you can touch a creature or an object that weighs no more than 25 pounds per caster level to impart an illusory ward that lasts for 1 minute. Attacks against a warded creature suffer a 20% miss chance, and the ward ends once it negates an attack. The DC of any caster level check, skill check, or saving throw to detect or determine the properties of a warded item increases by 1, plus 1 for every 5 wizard levels you have. You can use this ability a number of times per day equal to 3 + your Intelligence modifier.
+
 ### Enhancement School
 
 **Associated School**: Transmutation.
@@ -683,3 +695,17 @@ Trained in dark mysteries of shadow, a shadowcaster harnesses the power of shado
 **Shadowsight (Ex)**: At 5th level, a shadowcaster gains darkvision 60 feet. This ability replaces the shadowcaster's 5th-level wizard bonus feat.
 
 **Shadowy Specialization (Ex)**: At 10th level, when a shadowcaster casts *shades*, *shadow conjuration*, *shadow evocation*, and similar illusion spells that have a listed fraction of the strength of real effects, he increases the percentage of damage caused by the spell's effect or summoned creatures by one-fifth (+20%) against creatures that make their saving throw against the effect, up to a maximum of 100% of the strength. For example, *shadow evocation* and *shadow conjuration* deal 40% normal damage on a successful save instead of 20%. This ability replaces the shadowcaster's 10th-level wizard bonus feat.
+
+## Runesage
+
+Runesages draw upon the mystic energies of an ancient empire of rune-wielding sorcerers. While they sometimes experiment with the same heinous techniques exploited by that empire’s rulers, runesages temper their explorations of its mysteries with moderation and empathy, maintaining balance by using small gemstones as the foci for their spellcasting. Runesages are experts at identifying spell effects associated with [sin magic](../../magic/variant-magic.md).
+
+**Runic Focus (Su)**: A runesage can use her knowledge of runes to create a runic focus, a small, semiprecious stone engraved with ancient runes that she manipulates to alter her spellcasting abilities. In function, a runic focus behaves like an ioun stone. To activate a runic focus, the runesage must meditate on it as she prepares her spells. Following spell preparation, she tosses the gemstone into the air, after which it orbits around her head. A runic focus remains in orbit until the next time the runesage prepares her spells. A runic focus automatically functions as a runesage’s bonded object.
+
+A runesage does not have the option to specialize in an arcane school—all runesages must be universalists. However, when a runesage creates a runic focus, she must choose one sin school of magic. When she prepares her spells, she is treated as a sin specialist of her runic focus’s school for the purposes of determining what spells she can prepare (including gaining two additional spell slots per spell level of her school, and being unable to prepare spells from her runic focus’s two opposition schools). She does not gain the corresponding powers of that school, however, and always functions as a universalist wizard in this regard.
+
+A runic focus allows the runesage to augment spells of a single arcane school to which the runic focus is aligned. As long as a runic focus remains activated, the runesage doesn’t require material components for any spell she casts from the runic focus’s aligned arcane school, provided the component’s cost never exceeds 10 gp × the runesage’s caster level. If the spell requires a material component that surpasses the cost limit, the runesage must have the material component on hand to cast the spell, as normal.
+
+A runic focus has an AC of 24, 10 hit points, and hardness 5, as per an ioun stone. While the first runic focus a runesage creates is free, replacement runic foci can be created using the standard rules for replacing a bonded object for a wizard’s arcane bond. When a runesage creates a new runic focus, she can focus it on a different sin school than her previous focus as long as the new school is not one that was an oppositional school from her previous focus. For example, a runesage with a runic focus on necromancy could abandon that focus and replace it with a new focus on any school other than abjuration and enchantment (as these two schools are opposition schools to the sin school of necromancy).
+
+This ability alters arcane bond and replaces arcane school.

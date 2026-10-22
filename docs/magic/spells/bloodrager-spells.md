@@ -83,6 +83,7 @@ Bloodragers gain access to the following spells. Spells in plain text come from 
 - **[Boiling Blood](boiling-blood.md)**: Targets take fire damage; orcs get +2 Strength.
 - Brow Gasher
 - Bullet Shield
+- **[Bone Flense](bone-flense.md)**: Barbed bone spurs flense a struck creature.
 - **[Bull’s Strength](bulls-strength.md)**: Subject gains +4 to Str for 1 min./level.
 - **[Burning Gaze](burning-gaze.md)**: Inflict 1d6 fire damage to creature.
 - **[Cat’s Grace](cats-grace.md)**: Subject gains +4 to Dex for 1 min./level.
@@ -107,6 +108,7 @@ Bloodragers gain access to the following spells. Spells in plain text come from 
 - Imbue with Elemental Might
 - **[Huntmaster’s Spear](huntmasters-spear.md)**: Spear becomes a +1 weapon against a chosen favored-enemy type and can be discharged for a powerful attack.
 - **[Lightning Conductor](lightning-conductor.md)**: Absorb electricity damage and discharge it as a touch or ray.
+- **[Mark of Blood](mark-of-blood.md)**: Mark a creature struck by a bloodied weapon.
 - **[Mirror Image](mirror-image.md)**: Creates decoy duplicates of you.
 - **[Molten Orb](molten-orb.md)**: Molten metal splash weapon deals 2d6 fire damage plus ongoing damage.
 - **[Pouncing Fury](pouncing-fury.md)**: Make a full attack with your claws after a charge.
@@ -123,6 +125,7 @@ Bloodragers gain access to the following spells. Spells in plain text come from 
 - Steal Breath
 - **[Stone Call](stone-call.md)**: 2d6 damage to all creatures in area.
 - **[Stone Discus](stone-discus.md)**: Flying discus deals bludgeoning or slashing damage.
+- **[Sun’s Disdain](suns-disdain.md)**: Target is hurt by sunlight.
 - **[Symbol of Exsanguination](symbol-of-exsanguination.md)**: Triggered rune causes nearby creatures to bleed.
 - **[Touch of Idiocy](touch-of-idiocy.md)**: Subject takes 1d6 penalty to Int, Wis, and Cha.
 - **[Unshakable Chill](unshakable-chill.md)**: Target is afflicted with severe cold.
@@ -226,6 +229,7 @@ Bloodragers gain access to the following spells. Spells in plain text come from 
 - **[Hollow Heroism](hollow-heroism.md)**: Provide a *heroism* effect that you can reverse at any time.
 - **[Horrific Doubles](horrific-doubles.md)**: Call forth disturbing *mirror images*.
 - **[Ice Storm](ice-storm.md)**: Hail deals 5d6 damage in cylinder 40 ft. across.
+- **[Mask from Divination](mask-from-divination.md)**: Adhere a mask that foils divination.
 - **[Monstrous Physique II](monstrous-physique-ii.md)**: Take the form and some of the powers of a Tiny or Large monstrous humanoid.
 - **[Moonstruck](moonstruck.md)**: Subject is enraged and confused.
 - Pellet Blast
@@ -238,6 +242,7 @@ Bloodragers gain access to the following spells. Spells in plain text come from 
 - **[Slow](slow.md)**: One subject/level takes only one action/round, –1 to AC, Reflex saves, and attack rolls.
 - **[Stoneskin](stoneskin.md)**: Grants DR 10/adamantine.
 - Telekinetic Charge
+- **[Summon Flight of Eagles](summon-flight-of-eagles.md)**: Summon giant eagles to fight or serve as mounts.
 - **[Tail Current](tail-current.md)**: Create a current in water to enhance or impede swimming.
 - **[Tailwind](tailwind.md)**: Create a current of wind to enhance or impede flight.
 - **[Touch of Slime](touch-of-slime.md)**: Touch infests a target with green slime.

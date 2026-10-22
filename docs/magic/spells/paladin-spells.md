@@ -13,6 +13,7 @@
 - **[Conditional Favor](conditional-favor.md)**: Provide another spell whose effects reverse if the target breaks a restriction.
 - **[Create Water](create-water.md)**: Creates 2 gallons/level of pure water.
 - **[Cure Light Wounds](cure-light-wounds.md)**: Cures 1d8 damage + 1/level (max +5).
+- **[Detect Charm](detect-charm.md)**: Detect charm, compulsion, and possession effects.
 - **[Detect Poison](detect-poison.md)**: Detects poison in one creature or small object.
 - **[Detect the Faithful](detect-the-faithful.md)**: Find others of the same faith.
 - **[Detect Undead](detect-undead.md)**: Reveals undead within 60 ft.
@@ -34,6 +35,7 @@
 - **[Magic Weapon](magic-weapon.md)**: Weapon gains +1 bonus.
 - **Protection from Chaos/Evil**: +2 to AC and saves, plus additional protection against selected alignment.
 - **[Peace Bond](peace-bond.md)**: Your low-level area spells ignore protected cubes.
+- **[Preserve Grace](preserve-grace.md)**: Grant a phylactery of faithfulness effect.
 - **[Read Magic](read-magic.md)**: Read scrolls and spellbooks.
 - **[Resistance](resistance.md)**: Subject gains +1 on saving throws.
 - **[Restoration, Lesser](restoration-lesser.md)**: Dispels magical ability penalty or repairs 1d4 ability damage.
@@ -57,6 +59,7 @@
 - **[Blessing of Luck and Resolve](blessing-of-luck-and-resolve.md)**: A favored blessing of halfling clerics, this spell grants its target a +2 morale bonus on saving throws.
 - **[Blinding Ray](blinding-ray.md)**: School evocation [good, light]; Level cleric 2, inquisitor 3, paladin 2 Casting Time 1 standard action.
 - **[Bull’s Strength](bulls-strength.md)**: Subject gains +4 to Str for 1 min./level.
+- **[Contest of Skill](contest-of-skill.md)**: Target’s critical threats fail to confirm.
 - **[Delay Disease](delay-disease.md)**: The target becomes temporarily immune to disease.
 - **[Delay Poison](delay-poison.md)**: Stops poison from harming subject for 1 hour/level.
 - **[Divine Arrow](divine-arrow.md)**: Imbues a projectile with holy energy.
@@ -85,8 +88,10 @@
 - **[Sea Steed](sea-steed.md)**: Your mount adapts to an aquatic environment.
 - **[Sense Madness](sense-madness.md)**: Determine mental disturbances in nearby creatures.
 - **[Shield Other](shield-other.md)**: You take half of subject’s damage.
+- **[Slave to Sin](slave-to-sin.md)**: Exploit a creature’s sin to sicken and stagger it.
 - **[Spiritual Squire](spiritual-squire.md)**: A force servant helps carry, aid, and armor allies.
 - **[Stave Off Corruption](stave-off-corruption.md)**: Protect against a corruption’s progression.
+- **[Suppress Charms and Compulsions](suppress-charms-and-compulsions.md)**: Bolster or suppress charm and compulsion effects.
 - **[Undetectable Alignment](undetectable-alignment.md)**: Conceals alignment from magical detection for 24 hours.
 - **[Widen Auras](widen-auras.md)**: Doubles the range of your antipaladin or paladin auras.
 - **[Zone of Truth](zone-of-truth.md)**: Subjects within range cannot lie.
@@ -104,6 +109,7 @@
 - **[Delay Poison, Communal](delay-poison-communal.md)**: As delay poison, but you may divide the duration among creatures touched.
 - **[Detect Anxieties](detect-anxieties.md)**: Learn what makes creatures anxious.
 - **[Detect Desires](detect-desires.md)**: Learn what creatures desire.
+- **[Detoxify](detoxify.md)**: Neutralize a creature’s poison attacks.
 - **[Discern Lies](discern-lies.md)**: Reveals deliberate falsehoods.
 - **[Dispel Magic](dispel-magic.md)**: Cancels one magical spell or effect.
 - **[Heal Mount](heal-mount.md)**: As *heal* on horse or other special mount.
@@ -131,9 +137,12 @@
 - **[Archon’s Trumpet](archons-trumpet.md)**: Paralyze creatures in a cone with a booming report.
 - **[Ban Corruption](ban-corruption.md)**: Eliminate the gifts of nearby corrupted creatures.
 - **[Beacon of Luck](beacon-of-luck.md)**: Allies may roll saves twice.
+- **[Blade of Light](blade-of-light.md)**: Weapon shines with sunlight, harming undead.
 - **[Break Enchantment](break-enchantment.md)**: Frees subjects from enchantments, transmutations, and curses.
+- **[Brightest Light](brightest-light.md)**: Longer-lasting daylight that can dispel darkness.
 - **[Burst of Glory](burst-of-glory.md)**: Allies gain attack and fear-save bonuses and temporary hit points.
 - **[Chains of Light](chains-of-light.md)**: Hold a creature in chains of light and block extradimensional travel.
+- **[Cleansing Fire](cleansing-fire.md)**: Ring of fire harms undead and dispels evil magic.
 - **[Companion Transposition](companion-transposition.md)**: Swap places with your animal companion, familiar, or spirit animal via teleportation.
 - **[Crusader’s Edge](crusaders-edge.md)**: Weapon gains evil outsider bane and nauseates on crits.
 - **[Cure Serious Wounds](cure-serious-wounds.md)**: Cures 3d8 damage + 1/level (max +15).

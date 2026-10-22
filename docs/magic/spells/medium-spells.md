@@ -47,6 +47,7 @@ Mediums gain access to the following spells. Spells without a link come from oth
 - **[Decompose Corpse](decompose-corpse.md)**: Turn a corpse into a clean skeleton.
 - **[Decrepit Disguise](decrepit-disguise.md)**: Make an object seem worthless.
 - **[Delusional Pride](delusional-pride.md)**: Target is penalized on attacks and checks but gains bonus against charms and compulsions.
+- **[Detect Charm](detect-charm.md)**: Detect charm, compulsion, and possession effects.
 - **[Detect Undead](detect-undead.md)**: Reveals undead within 60 ft.
 - **[Discern Next of Kin](discern-next-of-kin.md)**: Read the target’s mind to learn about its family.
 - **[Disguise Self](disguise-self.md)**: Changes your appearance.
@@ -144,6 +145,7 @@ Mediums gain access to the following spells. Spells without a link come from oth
 - **[Haste](haste.md)**: One creature/level moves faster, +1 on attack rolls, AC, and Reflex saves.
 - **[Helping Hand](helping-hand.md)**: Ghostly hand leads subject to you.
 - **[Heroism](heroism.md)**: Gives +2 bonus on attack rolls, saves, skill checks.
+- **[Hidden Knowledge](hidden-knowledge.md)**: Store knowledge in a tattoo, forgetting it temporarily.
 - **[Hidden Speech](hidden-speech.md)**: Gain +10 on Bluff to send secret messages.
 - **[Hideous Laughter](hideous-laughter.md)**: Subject loses actions for 1 round/level.
 - **[Hold Person](hold-person.md)**: Paralyzes one humanoid for 1 round/level.

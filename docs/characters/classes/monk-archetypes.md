@@ -799,3 +799,19 @@ A wandering ascetic can use this ability a number of times per day equal to his 
 **Spurn Tradition (Ex)**: Wandering ascetics strive to separate themselves from the rest of their race and the traditions that bind them. The bonuses for nonmagical effects that target or specifically affect dwarf subtype creatures (such as a ranger's favored enemy class feature) are all reduced by half. In addition, a wandering ascetic becomes proficient in one martial weapon with the monk property. This ability replaces the dwarf's defensive training, stonecunning, and weapon familiarity racial traits.
 
 **Know the Unseen Disciples (Su)**: At 7th level, a wandering ascetic can spot hidden creatures, as if using the spell *see invisibility*. Using this ability is a standard action that consumes 2 points from his ki pool. His caster level for this effect is equal to his class level. This ability replaces wholeness of body.
+
+## Brazen Disciple
+
+Of the three monastic schools, the flame school has been the most successful in developing a specific and unique fighting style. To be admitted, a supplicant must prove his worth by outwitting an efreeti. Those who succeed often become monks known as brazen disciples. Brazen disciples emulate the efreeti’s own duplicitous ways: by studying genie contracts they learn how to take advantage of loopholes, and by pondering riddles they learn how to obfuscate truth. They use deception in their fighting style, and many go a step further, incorporating fire and smoke both mundane and magical.
+
+**Class Skills**: A brazen disciple gains Bluff (Cha), Disguise (Cha), and Knowledge (planes) (Int) as class skills but loses Knowledge (religion), Ride, and Swim. This alters the monk’s class skills.
+
+**Feinting Flurry (Ex)**: When using flurry of blows to make melee attacks, a brazen disciple can forgo his first attack to attempt a Bluff check to feint. At 6th level, when a brazen disciple successfully feints, his opponent is denied its Dexterity bonus to AC until the end of the monk’s turn. This ability replaces the monk’s bonus feats at 1st level and at 6th level.
+
+**Bonus Feat**: At 2nd, 10th, 14th, and 18th levels, a brazen disciple can select a bonus feat. These feats must be chosen from the following list: Catch Off-Guard, Combat Reflexes, Deceitful, Dodge, Elemental Fist, and Improved Initiative. At 6th level, the brazen disciple can also choose from the following feats: Efreeti Style, Improved Dirty Trick, Improved Disarm, Improved Steal, Improved Trip, and Mobility. At 10th level, the brazen disciple can also choose from the following feats: Efreeti Stance, Efreeti Touch, Improved Critical, and Spring Attack. He need not meet the prerequisites normally required for these feats to select them. This ability alters the monk’s bonus feats.
+
+**Efreeti’s Guile (Ex)**: At 3rd level, a brazen disciple can add his Wisdom modifier on Bluff and Disguise checks instead of his Charisma modifier. This ability replaces still mind.
+
+**Confounding Koan (Sp)**: At 12th level, a brazen disciple can spend 2 ki points as a standard action to confuse a target within 30 feet with a riddle or paradox. This ability functions as per *confusion*, except that it is language-dependent. The DC is equal to 10 + half the monk’s class level + his Wisdom modifier, and the caster level is equal to his class level. This ability replaces abundant step. (For the unchained monk, this ability replaces the monk’s ki ability gained at 12th level.)
+
+**Genie Apotheosis**: At 20th level, a brazen disciple is treated as a native outsider with the fire subtype rather than as a humanoid (or whatever the monk’s creature type was) for the purpose of spells and magical effects. He has immunity to fire and vulnerability to cold. Once per day, the brazen disciple can grant a *limited wish* to a non-outsider as a spell-like ability (CL 20th). This ability replaces perfect self.

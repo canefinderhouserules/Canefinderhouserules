@@ -196,6 +196,24 @@ Your belief in a higher power fuels your psychic abilities. Whether your mental 
 
 **Prayer Aura (Su)**: At 13th level, as a free action, you can extend an aura around you to bolster your allies and make your enemies less effective. You can use this aura for a number of rounds per day equal to your psychic level. These rounds don’t need to be consecutive. This functions as the prayer spell, granting your allies a +1 luck bonus on attack rolls, weapon damage rolls, saves, and skill checks and imposing a –1 penalty on your enemies’ rolls of those types. If you are chaotic, lawful, good, or evil, the penalty from your aura changes to –2 against creatures of an opposing alignment. The penalty doesn’t change further for a creature that opposes you on two alignment axes (such as a chaotic evil creature fighting a lawful good psychic).
 
+### Introspection
+
+You have embraced those aspects of your body that cause you agony, respecting the perspective they grant you if not necessarily the roles they’ve condemned you to in life.
+
+**Phrenic Pool Ability**: Charisma.
+
+**Bonus Spells**: Heightened awareness (1st), bear’s endurance (4th), aura sight (6th), persistent vigor (8th), true seeing (10th), thought shield (12th), mind blank (14th), iron body (16th), akashic form (18th).
+
+**Discipline Powers**: Your powers relate to your discipline and mastery of mind over matter.
+
+**Agitating Cognizance (Su)**: Whenever you are not maintaining an altered form via metamorphosis (including the 24 hours normally required to assume a new form), your maximum number of points in your phrenic pool increases by 1.
+
+**Metamorphosis (Su)**: By meditating for 1 hour, you can trigger a slow, physical metamorphosis that takes 24 hours to complete (during which you do not gain the benefits of this new form). This ability cannot change your type or subtype, grant new abilities or natural weapons, or change your size category, but otherwise allows you to transform your appearance into anything possible for creatures of your type and subtype. You gain a +1 enhancement bonus to one physical ability score of your choice (Strength, Dexterity, or Constitution) while in this altered form. This bonus increases by 1 for every 5 psychic levels you have. Your shape and ability score bonus persist until you assume a new form or your current altered form ends. When meditating to begin your metamorphosis, you can spend 1 point from your phrenic pool either to change your size category to Small or Medium, or to gain a new ability from those provided by the *alter self* spell. If you do so, your altered form lasts only 1 hour per level.
+
+**Spirit Channeling (Su)**: As your self-awareness expands, you become increasingly attuned to the spirit world around you. At 5th level, as part of your meditation to initiate metamorphosis, you can invite a wandering spirit to share your body as if you were a shaman. You gain the associated 1st-level spirit ability as long as you maintain your altered form, but your metamorphosis form also exhibits some aspect of the spirit you host, such as vivid red hair for a flame spirit or gauntness for a bone spirit.
+
+**Greater Spirit Channeling (Su)**: At 13th level, when you open your body to a wandering spirit, you also gain that wandering spirit’s greater spirit ability as long as you are in a metamorphosed form.
+
 ### Lore
 
 By collecting expert information and reading all sorts of treatises and chapbooks on occult subjects, you learn proper techniques and rituals to empower your mental abilities. Your abilities become stronger through study and science, not instinct.

@@ -115,3 +115,25 @@ This ability alters hexes.
 **Expanded Boon (Su)**: When a benefactor gains this hex, she chooses one of the following: ability checks, attack rolls, or skill checks. Instead of gaining an insight bonus on saving throws, any creature with a boon reservoir granted by the benefactor can spend 1 point as an immediate action to gain a +2 insight bonus on rolls or checks of the chosen kind until the start of its next turn. This hex can be chosen multiple times. Each time, it applies to a different roll or check. A benefactor must have the boon reservoir hex before choosing this hex.
 
 **Suppress Curse (Sp)**: As a standard action, a benefactor can attempt to suppress one curse effect that is affecting a creature or object with a touch. This functions as per *remove curse*, except the curse’s effects are suppressed for 1 hour, even if it is a cursed shield, weapon, or suit of armor. This allows a creature afflicted with any such cursed item to remove or get rid of it. The benefactor uses her shaman level as her caster level for the purpose of this hex.
+
+## Name-Keeper
+
+Adventurers who perish in the pursuit of greater knowledge are commemorated on a memorial wall at their society’s lodge. Delving into the storied histories etched into the wall, some agents discovered how to commune with the departed spirits of those whose names are memorialized there. These mystical agents are known as name-keepers, and they pride themselves on helping their predecessors find peace while preventing others’ names from being added to the wall.
+
+**Class Skills**: A name-keeper gains Knowledge (engineering), Knowledge (history), and Linguistics as class skills, instead of Knowledge (nature), Knowledge (planes), and Survival. This alters the shaman’s class skills.
+
+**Inherited Compass (Su)**: A name-keeper forms a powerful bond with a damaged [magic compass](../../magic-items/adventurers-guide-items.md) inherited from another adventurer. It functions for her alone. This functions as a wizard’s bonded object except it can be used to cast shaman spells (instead of wizard spells). This ability replaces spirit animal.
+
+**Keeper Spirit Magic**: The name-keeper adds the following spells to the list of spells she can cast using spirit magic: *stone shield* (1st), *object reading* (2nd), *speak with dead* (3rd), *wall of stone* (4th), *breath of life* (5th), *stone tell* (6th), *vision* (7th), *word of recall* (8th), and *true resurrection* (9th). This ability replaces the spirit magic spells gained from the shaman’s spirit.
+
+**Adventurers Past (Su)**: At 4th level, a name-keeper can form a temporary bond with a deceased adventurer who is commemorated on the memorial wall. The name-keeper must make this selection each day when preparing her spells. While this feature is active, she gains one or more benefits tied to the adventurer’s former focus: Scrolls, Spells, or Swords. Each allows her to select one or more options (such as a weapon or shaman spirit), and she can choose different options each time she forms this bond.
+
+*Scrolls*: The name-keeper selects an oracle mystery. She can use any of the mystery’s associated skills untrained, and she treats them as class skills. For any of those skills that were already class skills, she instead gains a +2 sacred bonus on those checks. At 12th level, she gains Skill Focus for one of the associated skills as a bonus feat. At 20th level, she gains Skill Focus a second time as a bonus feat, and she always counts as having at least 10 ranks in those skills for calculating these temporary feats’ benefits.
+
+*Spells*: The name-keeper selects a second shaman spirit and adds the spells granted by that spirit to her list of spells that she can cast using spirit magic. She gains one additional spirit magic spell slot of her highest spell level. At 12th level, she selects two shaman spirits and adds both their granted spells to the list of spells she can cast using spirit magic. At 20th level, her number of spirit magic spell slots at each spell level increases to two.
+
+*Swords*: The name-keeper gains proficiency in all martial weapons and one exotic weapon of her choice. At 12th level, whenever she makes a full attack, she gains one additional attack at her highest base attack bonus; this ability stacks with the extra attack from *haste*, but it doesn’t stack with other abilities that grant extra attacks. At 20th level, she gains two combat feats for which she qualifies.
+
+This ability replaces wandering spirit.
+
+**Versatile Hex (Su)**: At 6th level, a name-keeper can temporarily gain a shaman hex or one of the hexes that her spirit has when she prepares her spells, lasting until the next time she prepares spells. At 14th level, she can select two such hexes each day. This ability replaces wandering hex.

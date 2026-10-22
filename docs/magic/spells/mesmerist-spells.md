@@ -52,6 +52,7 @@ Mesmerists gain access to the following spells. Spells without a link come from 
 - **[Deja Vu](deja-vu.md)**: Make a creature repeat its actions.
 - **[Delusional Pride](delusional-pride.md)**: Target is penalized on attacks and checks but gains bonus against charms and compulsions.
 - **[Demand Offering](demand-offering.md)**: Make a creature give you an object it’s holding.
+- **[Detect Charm](detect-charm.md)**: Detect charm, compulsion, and possession effects.
 - **[Detect Secret Doors](detect-secret-doors.md)**: Reveals hidden doors within 60 ft.
 - **[Detect Undead](detect-undead.md)**: Reveals undead within 60 ft.
 - **[Diagnose Disease](diagnose-disease.md)**: Detect and identify diseases.
@@ -73,6 +74,7 @@ Mesmerists gain access to the following spells. Spells without a link come from 
 - **[Ill Omen](ill-omen.md)**: Target rolls twice for checks and attacks and uses worst roll.
 - Illusion of Calm
 - **[Innocence](innocence.md)**: Gain +10 on Bluff checks to seem innocent.
+- **[Instant Portrait](instant-portrait.md)**: Paint a quick monochrome portrait.
 - **[Interrogation](interrogation.md)**: Target answers questions or suffers pain.
 - **[Invigorate](invigorate.md)**: Temporarily relieves fatigue or exhaustion.
 - Jitterbugs
@@ -83,6 +85,7 @@ Mesmerists gain access to the following spells. Spells without a link come from 
 - **[Memory Lapse](memory-lapse.md)**: Subject forgets events back to last turn.
 - **[Mental Block](mental-block.md)**: Prevent the target from using its skill ranks, spells, feats, and abilities.
 - **[Mindlink](mindlink.md)**: Communicate a great deal of information in an instant.
+- **[Mirror Mantis](mirror-mantis.md)**: A target sees a menacing assassin in every mirror.
 - **[Murderous Command](murderous-command.md)**: Target is compelled to kill its ally.
 - **[Obscure Object](obscure-object.md)**: Masks object against scrying.
 - **[Obscure Poison](obscure-poison.md)**: Make it harder to detect a poison or a venomous creature.
@@ -167,6 +170,8 @@ Mesmerists gain access to the following spells. Spells without a link come from 
 - **[Ghostly Disguise](ghostly-disguise.md)**: You look like a ghost of yourself.
 - **[Glitterdust](glitterdust.md)**: Blinds creatures, outlines invisible creatures.
 - **[Haunting Mists](haunting-mists.md)**: Creatures are shaken and take Wis damage.
+- **[Haunting Reminder](haunting-reminder.md)**: Coerced target becomes shaken if it betrays you.
+- **[Hidden Knowledge](hidden-knowledge.md)**: Store knowledge in a tattoo, forgetting it temporarily.
 - **[Hidden Presence](hidden-presence.md)**: Prevent creatures from noticing your presence.
 - **[Hidden Speech](hidden-speech.md)**: Gain +10 on Bluff to send secret messages.
 - **[Hold Animal](hold-animal.md)**: Paralyzes one animal for 1 round/level.
@@ -193,6 +198,7 @@ Mesmerists gain access to the following spells. Spells without a link come from 
 - **[Miserable Pity](miserable-pity.md)**: Opponents cannot attack a pathetic creature.
 - **[Muffle Sound](muffle-sound.md)**
 - **[Object Reading](object-reading.md)**: Read psychic impressions left on an object.
+- **[Obscured Script](obscured-script.md)**: Text becomes hard to read and deciphers falsely.
 - **[Oneiric Horror](oneiric-horror.md)**: Distract and fatigue the target with a creature from its nightmares.
 - **[Open Book](open-book.md)**: Make it permanently easier to learn more about a target.
 - **[Oppressive Boredom](oppressive-boredom.md)**: Target loses its next action.
@@ -219,10 +225,13 @@ Mesmerists gain access to the following spells. Spells without a link come from 
 - **[Silence](silence.md)**: Negates sound in 20-ft. radius.
 - **[Silent Table](silent-table.md)**
 - Steal Breath
+- **[Slave to Sin](slave-to-sin.md)**: Exploit a creature’s sin to sicken and stagger it.
 - **[Steal Voice](steal-voice.md)**: Target gains the croaking spellblight.
 - **[Stricken Heart](stricken-heart.md)**: Touch attack deals 346 damage and staggers target.
 - **[Suggestion](suggestion.md)**: Compels a subject to follow stated course of action.
+- **[Suppress Charms and Compulsions](suppress-charms-and-compulsions.md)**: Bolster or suppress charm and compulsion effects.
 - **[Symbol of Mirroring](symbol-of-mirroring.md)**: Triggered rune creates mirror images.
+- **[Sympathetic Aura](sympathetic-aura.md)**: Magic aura that also covers similar nearby items.
 - **[Tongues](tongues.md)**: Speak and understand any language.
 - **[Touch of Idiocy](touch-of-idiocy.md)**: Subject takes 1d6 penalty to Int, Wis, and Cha.
 - **[Twilight Haze](twilight-haze.md)**
@@ -398,6 +407,7 @@ Mesmerists gain access to the following spells. Spells without a link come from 
 - **[Cloak of Dreams](cloak-of-dreams.md)**: Creatures within 5 ft. fall asleep.
 - **[Compelling Rant](compelling-rant.md)**: People believe your ridiculous speech as long as you keep talking.
 - **[Crime Wave](crime-wave.md)**: Compel targets to commit criminal actions.
+- **[Deceptive Redundancy](deceptive-redundancy.md)**: Fool dispellers and hide a spell’s aura.
 - **[Dream Council](dream-council.md)**: Communicate with multiple sleeping creatures.
 - **[Dream Scan](dream-scan.md)**: Read a dreaming creature’s thoughts.
 - **[False Vision](false-vision.md)**: Fools scrying with an illusion.

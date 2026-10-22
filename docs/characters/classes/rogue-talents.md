@@ -95,7 +95,7 @@
 | Occult Mysticism (Ex) | — | The rogue has been trained in a minor occult technique. The rogue gains Psychic Sensitivity as a bonus feat. Those you choose from your Rogue’s Edge Class Feature, count as 5 levels higher, allowing you to unlock higher level powers. |
 | Offensive Defense* | — | When a rogue with this talent hits a creature with a melee attack that deals sneak attack damage, the rogue gains a +1 dodge bonus to AC for each sneak attack die rolled for one round. The dodge bonus only applies against the creature you sneak attacked, and the dodge bonus does not stack with itself. |
 | One of those Faces (Sp) | — | You can use disguise self as a spell-like ability for up to 10 minutes per character level each day. |
-| Papercraft Tools (Ex) | — | So long as the rogue has access to a deck of cards, she can destroy one card to attempt a single Disable Device check as if she had a set of thieves tools. If she uses a harrow card for this purpose, she can treat the card as a set of masterwork thieves’ tools (granting her a +2 circumstance bonus on the Disable Device check) and gains advantage, though the card is still destroyed after use. |
+| Papercraft Tools (Ex) | — | So long as the rogue has access to a deck of cards, she can destroy one card to attempt a single Disable Device check as if she had a set of thieves tools. If she uses a card from a fortune-telling deck for this purpose, she can treat the card as a set of masterwork thieves’ tools (granting her a +2 circumstance bonus on the Disable Device check) and gains advantage, though the card is still destroyed after use. |
 | Peerless Maneuver | — | Roll two dice when making a Acrobatics check and take the better result. |
 | Philologist | — | May reroll a failed Linguistics check to decipher writing. |
 | Pierce the Darkness (Ex) | — | She gains blinds ight out to a range of 5 feet, but only against creatures concealed by darkness or her own blindness. |
@@ -195,6 +195,28 @@ These talents especially suit the dark lurker archetype, but can also be taken b
 **False Attacker (Ex)**: Whenever the rogue strikes a foe from hiding, she can attempt a Bluff check as an immediate action (opposed by the target's Sense Motive or Perception check, whichever has a higher bonus) before rolling damage to convince the foe that another creature was the attacker. This Bluff check applies the normal modifiers for convincing a creature of a falsehood, but can be accomplished with just physical trickery (a shared language is not required). If the Bluff is successful, and the rogue maintains concealment or cover, the rogue's stealth does not end.
 
 **Pierce the Darkness (Ex)**: The rogue can extend her senses of hearing and smell in darkness or when blinded. She gains blindsense out to a range of 5 feet, but only against creatures concealed by darkness or her own blindness. She still suffers the normal miss chance for attacking creatures with concealment.
+
+## Thieves’ Guild Rogue Talents
+
+These rogue talents are designed specifically for rogues working for a thieves’ guild, either as full members or merely as affiliates. The talent marked with an asterisk (*) adds an effect to a rogue’s sneak attack. Only one such talent can be applied to an individual attack, and the decision must be made before the attack roll.
+
+**Careful Stab (Ex)**: When a rogue with this talent reduces a creature to fewer than 0 hp with precision damage, she can choose to leave that creature at –1 hp and stable.
+
+**Hairpin Trick (Ex)**: The rogue is skilled at making do with anything she can find. She takes no penalty on Disable Device checks for using improvised tools, and can attempt such checks without any tools at a –4 penalty. She treats all non-improvised thieves’ tools as masterwork and doubles the bonus she gets from masterwork thieves’ tools from +2 to +4.
+
+**Knockout Poison Maker (Ex)**: Once per day, the rogue can create 1 or more doses of drow poison by spending 25 gp per dose; this process takes 30 minutes of work, regardless of the number of doses she creates. She can create no more than 1 dose for every 3 rogue levels she has (minimum 1 dose). Creating drow poison in this way does not require a skill check, but the created poison spoils if not used within 24 hours.
+
+**Occult Aptitude (Ex)**: The rogue has been trained in a minor occult technique. The rogue gains Psychic Sensitivity as a bonus feat.
+
+**Silencing Strike* (Su)**: Using stolen magic, guild agents can render foes silent. When a creature is damaged by the rogue’s sneak attack, the rogue magically renders the creature mute for 1 round unless it succeeds at a Will save (DC = 10 + half the rogue’s level + the rogue’s Charisma modifier). Silencing strike can be used a number of times per day equal to half the rogue’s level.
+
+### Advanced Thieves’ Guild Rogue Talents
+
+These talents can be selected only once the rogue reaches 10th level.
+
+**Patrons’ Blessing (Su)**: The rogue can call upon the mystical legacies of the guild. Once per day, she can choose a skill in which she has no ranks. After she spends 10 minutes communing with these mystical spirits, they grant her a luck bonus equal to her rogue level with that skill, and she can attempt checks with that skill as if she were trained in its use. The effects of patrons’ blessing last for 8 hours.
+
+**Shrinewalk (Sp)**: Guild agents can walk the mystic paths between a city’s shrines. A rogue with shrinewalk can create her own shrine simply by designating an area in any urban region by placing a unique marking or rune on a wall or the ground. This marking is not magical, and if it is defaced or erased, it can no longer be used by the rogue (the marking can be hidden from view without removing its usability, including painting over the marking in question). Once placed, the rogue can use *word of recall* once per day to return to the shrine. A rogue can maintain one shrine at a time; if a new marking is created in a new location, the previous shrine becomes inactive.
 
 ## Skill Stunts
 

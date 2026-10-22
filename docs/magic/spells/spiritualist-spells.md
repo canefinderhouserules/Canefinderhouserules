@@ -36,6 +36,7 @@ Spiritualists gain access to the following spells. Spells without a link come fr
 - **[Deathwatch](deathwatch.md)**: Reveals how near death subjects within 30 ft. are.
 - **[Decompose Corpse](decompose-corpse.md)**: Turn a corpse into a clean skeleton.
 - **[Detect Chaos](detect-chaos.md)**
+- **[Detect Charm](detect-charm.md)**: Detect charm, compulsion, and possession effects.
 - **[Detect Evil](detect-evil.md)**
 - **[Detect Good](detect-good.md)**
 - **[Detect Law](detect-law.md)**

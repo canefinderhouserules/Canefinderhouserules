@@ -900,3 +900,45 @@ Forested lands are often known for their rangers—skilled trackers, marksmen, a
 **Spells**: At 4th level, a forest irregular increases his number of spells per day by +1 for every spell level. This means the irregular gets at least 1 spell per day as soon as he gains access to a level of spells, even if the ranger table lists 0 for spells per day.
 
 A forest irregular also learns to draw upon druidic magic, perhaps from association with druids or a natural connection to the magic of the forest. Each day when the ranger prepares spells, he may choose one druid spell and prepare it as if it were on the ranger spell list as a ranger spell of its druid spell level.
+
+## Lantern Lighter
+
+Lantern lighters help rescue those imprisoned by the drow and help individual drow who seek to escape the cruelties of their society for a chance at redemption on the surface. They often serve as sponsors for escapees and work to create pockets of civilization where redeemed drow can live in relative peace and safety.
+
+**Daylight**: A lantern lighter treats *daylight* as a 3rd-level ranger spell. This ability alters the ranger’s spells.
+
+**Enhanced Vision (Ex)**: A lantern lighter hones his senses to better combat subterranean enemies. He gains low-light vision. If the lantern lighter already has low-light vision, he can instead see three times as far as humans in areas of dim light. This ability replaces wild empathy.
+
+**Poison Resistance (Ex)**: At 3rd level, a lantern lighter gains a +4 bonus on saving throws against poison. This ability replaces endurance.
+
+**Favored Terrain (Ex)**: At 3rd level, a lantern lighter selects a favored terrain as normal. The skill bonus and initiative bonus granted in this favored terrain increase by 2 at 8th level and every 5 ranger levels thereafter. This ability alters favored terrain.
+
+**Cavern Stride (Ex)**: At 7th level, a lantern lighter’s movement is unimpeded by nonmagical difficult terrain underground and nonmagical webs. This ability replaces woodland stride.
+
+**Darkvision (Ex)**: At 8th level, a lantern lighter’s senses fully attune to the darkness, granting him darkvision to a distance of 60 feet. If the lantern lighter already has darkvision, its range increases by 30 feet. This replaces the favored terrain gained at 8th level.
+
+**Poison Immunity (Ex)**: At 12th level, a lantern lighter gains immunity to poison. This ability replaces camouflage.
+
+**Stunning Light (Su)**: At 13th level, a lantern lighter learns to increase the effectiveness of bright light on creatures with light blindness. *Daylight* spells cast by the lantern lighter or other sources of bright light he wields cause creatures with light blindness within the area of bright light to become stunned for 1 round in addition to being blinded. This ability replaces the favored terrain gained at 13th level.
+
+**Camouflage (Ex)**: At 17th level, a lantern lighter gains camouflage, as the ranger class feature. This ability replaces hide in plain sight.
+
+**Paralyzing Light (Su)**: At 18th level, a lantern lighter can stop light-blind enemies in their tracks. *Daylight* spells cast by the lantern lighter or sources of bright light wielded by him cause creatures with light blindness within the area of bright light to become paralyzed for 1 round in addition to being blinded and stunned. This ability replaces the favored terrain gained at 18th level.
+
+## Raven Master
+
+Some freedom fighters have gone beyond adopting a bird as a symbol, breeding and training actual ravens to serve both as living symbols of the organization and as fearsome weapons against tyrants and their diabolic servants. These rangers, known as raven masters, eschew a ranger’s usual connection to the natural world to form a mystic bond with their birds and to grant both animal and master a number of specialized abilities. Over time, the feathers of these raven companions take on a silvery sheen, causing them to resemble the birds produced by the figurines of wondrous power. Raven masters serve as messengers and spies, using their ravens to scout borders and report any suspicious troop movements, or to alight on the rooftops and window ledges of palaces and keeps to eavesdrop on tyrants and dictators.
+
+**Class Skills**: A raven master adds Bluff, Disguise, and Sleight of Hand to her list of class skills. She does not gain Climb, Heal, Intimidate, Ride, or Swim as class skills. This alters the ranger’s class skills.
+
+**Avian Empathy (Ex)**: A raven master’s wild empathy affects only birds. This alters wild empathy.
+
+**Raven Companion (Ex)**: At 4th level, a raven master earns the trust and companionship of a particularly large, powerful, and intelligent raven. This ability functions like the druid animal companion ability, except that the raven master’s effective druid level is equal to her ranger level – 3. The raven master must select a bird as her animal companion. The raven companion starts with an Intelligence score of 3 and can speak one language known by the raven master. In addition to the normal abilities an animal companion gains as the raven master increases in level, the raven companion gains the following abilities. This ability alters hunter’s bond and replaces specific ranger abilities as indicated below.
+
+*Silver Champion (Ex)*: At 7th level, the raven companion takes on a silvery, metallic appearance. It treats all of its natural attacks as though they were magic and silver for the purpose of bypassing damage reduction. This ability replaces woodland stride.
+
+*Mimic Figurine (Su)*: At 8th level, once per day as a standard action, the raven master can transform her raven companion into a token similar to a figurine of wondrous power. Any gear worn by the raven melds into its body as part of this transformation, but held items do not. The raven can remain in this form indefinitely, or until the raven master spends a standard action to activate the statuette as though it were a figurine of wondrous power. This ability replaces swift tracker.
+
+*Cheat Death (Sp)*: At 12th level, once per week, when a raven companion would otherwise be slain by an attack, spell, or effect, it can turn into a figurine of wondrous power as per its mimic figurine ability as an immediate action. Once transformed this way, the raven companion cannot transform back into a raven until the raven master next prepares spells. This ability replaces camouflage.
+
+**Argent Magic**: A raven master casts spells as do most rangers, but her spell list is somewhat expanded from the normal options most rangers can choose from, for her association with bards and other talented performers allows her to add a limited number of bard spells to her spell list. These spells function as divine spells, and are cast and prepared in the same manner as her other ranger spells. At 6th level, the raven master selects one 1st-level bard spell of her choice and adds it to her spell list as a 1st-level ranger spell. At 9th level she does the same but for a 2nd-level bard spell. She adds a 3rd-level bard spell at 12th level, and adds a 4th-level bard spell at 15th level. This ability alters the ranger’s spellcasting.
