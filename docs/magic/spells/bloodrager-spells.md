@@ -168,6 +168,7 @@ Bloodragers gain access to the following spells. Spells in plain text come from 
 - Hostile Levitation
 - **[Howling Agony](howling-agony.md)**: Screaming pain limits the target’s actions.
 - **[Hydraulic Torrent](hydraulic-torrent.md)**: Creates torrent of water that bull rushes any creature in its path.
+- **[Infuse Self](infuse-self.md)**: Assume the form of a native outsider
 - **[Keen Edge](keen-edge.md)**: Doubles normal weapon’s threat range.
 - **[Lightning Bolt](lightning-bolt.md)**: Electricity deals 1d6/level damage.
 - Locate Weakness

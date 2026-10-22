@@ -546,3 +546,40 @@ Iron priests preach of the messengers from beyond the stars, envoys of the divin
 **Channel Energy (Su)**: When an iron priest channels energy to heal or harm living creatures, she heals or harms constructs with the clockwork or robot subtypes as well. Constructs without those subtypes are also affected, but gain only half the normal amount of healing or take only half the normal amount of damage, as appropriate. This ability alters channel energy.
 
 **Spontaneous Casting**: An iron priest can spontaneously cast *make whole* and *greater make whole* in place of *cure/inflict moderate wounds* and *cure/inflict critical wounds*, regardless of whether she channels positive or negative energy. This ability alters casting.
+
+## Idealist
+
+In the Great Beyond, belief is power. Idealist clerics are personifications of this power, each embracing the purest ideal of his deity's realm. In doing so an idealist becomes a powerful conduit, gaining the power to channel the essence of his deity's plane.
+
+**Planar Bond (Su)**: At 1st level, an idealist must choose one plane as his planar bond. This plane must be his deity's home plane. An idealist can spontaneously cast the 1st-, 4th-, and 7th-level spells listed below for his chosen plane (provided he can cast spells of that level), in addition to cure or inflict spells.
+
+- **Abaddon**: *protection from good*, *unholy blight*, and *blasphemy*.
+- **Abyss**: *doom*, *unholy blight*, and *blasphemy*.
+- **Astral**: *summon monster I*, *dismissal*, and *lesser create demiplane*.
+- **Axis**: *protection from chaos*, *order's wrath*, and *dictum*.
+- **Boneyard**: *deathwatch*, *death ward*, and *arbitrament*.
+- **Elysium**: *remove fear*, *freedom of movement*, and *word of chaos*.
+- **Ethereal**: *obscuring mist*, *sending*, and *ethereal jaunt*.
+- **First World**: *entropic shield*, *giant vermin*, and *regenerate*.
+- **Heaven**: *sanctuary*, *discern lies*, and *holy word*.
+- **Hell**: *command*, *tongues*, and *dictum*.
+- **Maelstrom**: *protection from law*, *chaos hammer*, and *word of chaos*.
+- **Nirvana**: *protection from evil*, *holy smite*, and *holy word*.
+- **Plane of Air**: *alter winds*, *air walk*, and *control weather*.
+- **Plane of Earth**: *magic stone*, *stoneskin*, and *statue*.
+- **Plane of Fire**: *produce flame*†, *wall of fire*, and *delayed blast fireball*.
+- **Plane of Water**: *hydraulic push*, *control water*, and *vortex*.
+- **Shadow Plane**: *cause fear*, *shadow conjuration*†, and *destruction*.
+- **Other (including the Positive and Negative Energy Planes, Material Plane, or a demiplane)**: Work with your GM to select three spells that match the themes of the deity you worship.
+
+† This spell is not added to your cleric list; you can cast it spontaneously only using planar bond.
+
+This alters spontaneous casting.
+
+**Invoke Realm (Su)**: When an idealist channels energy, she channels raw essence rather than positive or negative energy, superimposing a portion of her deity's planar realm over her location. This effect extends out to a radius of 10 feet, plus 5 feet for every 2 cleric levels she has beyond 1st, to a maximum radius of 55 feet at 19th level. This effect lasts for 1 round plus 1 round per point of the idealist's Charisma bonus. While this effect is active, the idealist gains a +1 bonus on Diplomacy checks against creatures who worship her deity and a +1 bonus on Intimidate checks against creatures who do not. This bonus increases by 1 at 5th level and every 5 levels thereafter.
+
+This channeled energy imposes itself over the current terrain, changing its visual appearance to more thematically suit the energy's associated planar realm, but cannot hide obvious hazards or otherwise allow for a creature to hide any more effectively than the normal terrain would. This is an illusion (glamer) effect with a caster level equal to the idealist's level.
+
+Within the radius of the idealist's channeling, all alignment and magic planar traits are suppressed and replaced with the traits of the plane that matches the idealist's planar bond. This includes alignment, gravity, and magic traits. In the case of the Astral Plane, since the time trait remains unaltered, your spellcasting only feels fast; you gain a +4 bonus on all concentration checks rather than the ability to apply Quickened Spell effects.
+
+This ability is considered channel energy for purposes of feats that grant additional uses of channel energy or allow the cleric to exclude creatures from channel energy's effects. This alters channel energy.

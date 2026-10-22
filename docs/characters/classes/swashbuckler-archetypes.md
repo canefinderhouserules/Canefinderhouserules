@@ -303,3 +303,25 @@ The dashing thief relies on swift swordplay, dazzling charm, and spirited courag
 **Dazing Charm Deed (Ex)**: A dashing thief takes foes aback with her forwardness, shocking them into submission long enough to rush past or stage a getaway. At 3rd level, as a free action when she successfully feints against a foe, she can spend 1 panache point to pull the enemy into a quick kiss (or similar gesture). The target is dazed for 1 round unless it succeeds at a Will save (DC = 10 + half the dashing thief’s class level + her Charisma modifier). A creature dazed this way is immune to that dashing thief’s dazing charm deed for 24 hours. Whether or not a creature could potentially be affected by a dazing charm deed is ultimately subject to GM adjudication. As a general rule, however, it works on creatures of the dashing thief’s creature type, or on those of a different type but who share significant thematic similarities (for example, a human dashing thief could use her dazing charm deed on any humanoid, but also potentially on creatures as diverse as dryads, tieflings, or even centaurs or sphinxes). This ability replaces the menacing swordplay deed.
 
 **Swaying Charm Deed (Su)**: A dashing thief eventually becomes truly irresistible. At 15th level, when a dashing thief successfully dazes a creature using her dazing charm deed, she can instead charm the target for 1 day (as per *charm monster*). Only one creature can be charmed this way at a time; if the dashing thief charms another creature this way, the first charm effect immediately ends. This ability replaces the dizzying defense deed.
+
+## Azatariel
+
+Azatariels are the champions of Elysium, dedicated to spreading its unpredictable whimsy and capricious goodness across the planes. Irrepressible and happy-go-lucky even in the face of the most tyrannical devil, azatariels take their name from the azatas that they emulate. In battle, azatariels exult in darting among their foes, heedless of danger. Mastery of combat's chaos allows azatariels to turn enemies' strikes against each other, while supernatural good fortune protects them from dire afflictions.
+
+**Alignment**: An azatariel must be chaotic good. If an azatariel changes alignment, she loses all abilities granted by this archetype until her alignment returns to chaotic good.
+
+**Deeds**: An azatariel gains the following deeds.
+
+*Bralani's Swiftness (Ex)*: At 3rd level, while the azatariel has at least 1 point of panache, she ignores movement penalties from difficult terrain. This replaces the menacing swordplay deed.
+
+*Whimsical Riposte (Ex)*: At 3rd level, the azatariel adds her Charisma modifier to attack and damage rolls made with light or one-handed piercing weapons as part of her opportune parry and riposte deed (including when riposting). In addition, whenever the azatariel successfully parries an opponent's attack, instead of riposting she can redirect that attack to another target as an immediate action. The new target must be within the attacker's reach, and the attacker uses the original attack roll to determine the attack's success. This replaces the precise strike deed.
+
+*Lillend's Misdirection (Ex)*: At 7th level, when a foe flanking the azatariel misses her with a melee attack, the azatariel can spend 2 panache points as an immediate action to attempt a reposition combat maneuver check against the attacking foe. If she succeeds at the combat maneuver check, she and the attacking foe switch positions, and the melee attack roll that missed the azatariel instead targets the flanking opponent that did not make the attack, using the same attack roll result (including the bonus gained from flanking). This replaces the targeted strike deed.
+
+*Ghaele's Assault (Ex)*: At 11th level, the azatariel can spend 2 panache points when charging. If she does, the AC penalty for charging changes to –4 and she can make a full attack at the end of her charge. This replaces the bleeding wound deed.
+
+**Elysian Conviction (Su)**: At 2nd level, while she has at least 1 panache point, an azatariel adds her Charisma bonus to her saving throws against mind-affecting effects. This replaces charmed life.
+
+**Battle Dance (Ex)**: At 3rd level and every 4 levels thereafter, an azatariel's base speed increases by 10 feet. This is an enhancement bonus. An azatariel in medium or heavy armor or carrying a medium or heavy load loses this extra speed. This replaces nimble.
+
+**Affection of Elysium (Su)**: An azatariel's affection relieves harmful afflictions. At 4th level and every 4 levels thereafter, an azatariel selects a mercy from those available to a paladin whose class level is equal to her swashbuckler level. She can show her affection to a willing, adjacent creature as a standard action to apply the effects of these mercies to the targeted creature, treating her swashbuckler level as her paladin level. An azatariel can use this ability a number of times per day equal to half her swashbuckler level plus her Charisma modifier. This replaces the swashbuckler's bonus feats.

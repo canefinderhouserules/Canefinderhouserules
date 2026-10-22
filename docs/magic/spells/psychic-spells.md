@@ -45,6 +45,7 @@ Psychics gain access to the following spells. Spells without a link come from ot
 - **[Auditory Hallucination](auditory-hallucination.md)**: Create a phantasm with auditory effects.
 - **[Beguiling Gift](beguiling-gift.md)**: Subject immediately accepts an offered item and uses it.
 - Blend
+- **[Bestow Planar Infusion I](bestow-planar-infusion-i.md)**: Grant a target the effects of a planar infusion
 - **[Blurred Movement](blurred-movement.md)**: As blur, but only while you are moving.
 - **[Borrow Skill](borrow-skill.md)**: Make a skill check using another’s ranks.
 - **[Break](break.md)**: Gives an object the broken condition.
@@ -138,6 +139,7 @@ Psychics gain access to the following spells. Spells without a link come from ot
 - **[Silent Image](silent-image.md)**: Creates minor illusion of your design.
 - **[Sleep](sleep.md)**: Puts 4 HD of creatures into magical slumber.
 - Sow Thought
+- **[Songbird](songbird.md)**: Conjure music from a good-aligned plane
 - **[Stunning Barrier](stunning-barrier.md)**
 - **[Summon Minor Monster](summon-minor-monster.md)**: Summon 1d3 Tiny animals.
 - **[Summon Monster I](summon-monster-i.md)**: (Evil creatures only.) Summons extraplanar creature to fight for you.
@@ -480,10 +482,12 @@ Psychics gain access to the following spells. Spells without a link come from ot
 - **[Agonize](agonize.md)**: Pain encourages an outsider to obey you.
 - Animal Aspect, Greater
 - **[Anti-Incorporeal Shell](anti-incorporeal-shell.md)**: Incorporeal creatures stay 10 ft. away from you.
+- **[Anywhere But Here](anywhere-but-here.md)**: Transport yourself and willing creatures to a random planar destination
 - **[Arcane Eye](arcane-eye.md)**: Invisible floating eye moves 30 ft./round.
 - **[Assume Appearance, Greater](assume-appearance-greater.md)**: Use a likeness to adopt a dead creature’s form.
 - **[Aura Alteration](aura-alteration.md)**: Masks a creature’s or an object’s alignment, emotion, health, and magic auras.
 - **[Aura of Doom](aura-of-doom.md)**: Creatures in your aura become shaken.
+- **[Bestow Planar Infusion II](bestow-planar-infusion-ii.md)**: Grant a target the effects of an improved planar infusion
 - **[Black Tentacles](black-tentacles.md)**: Tentacles grapple all creatures within a 20-ft. spread.
 - **[Borrow Corruption](borrow-corruption.md)**: Temporarily gain the effects of a corrupted creature’s manifestations.
 - **[Break Enchantment](break-enchantment.md)**: Frees subjects from enchantments, transmutations, and curses.
@@ -625,6 +629,7 @@ Psychics gain access to the following spells. Spells without a link come from ot
 - **[Charnel House](charnel-house.md)**: Create an area of semi-real gore.
 - **[Command, Greater](command-greater.md)**: As *command,* but affects one subject/level.
 - **[Commune with Nature](commune-with-nature.md)**: Learn about terrain for 1 mile/level.
+- **[Commune with Plane](commune-with-plane.md)**: Learn about local planar terrain
 - **[Compelling Rant](compelling-rant.md)**: People believe your ridiculous speech as long as you keep talking.
 - **[Conditional Curse](conditional-curse.md)**: Bestow a curse that is difficult to remove without fulfilling a condition.
 - **[Contact Entity III](contact-entity-iii.md)**: Ask very powerful eldritch entities to find and converse with you, or they may reply telepathically.
@@ -816,6 +821,7 @@ Psychics gain access to the following spells. Spells without a link come from ot
 - **[Antimagic Field](antimagic-field.md)**: Negates magic within 10 ft.
 - **[Arcane Sight, Greater](arcane-sight-greater.md)**: As *arcane sight*, but also reveals magic effects on creatures and objects.
 - **[Banishment](banishment.md)**: Banishes 2 HD/level of extraplanar creatures.
+- **[Bestow Planar Infusion III](bestow-planar-infusion-iii.md)**: Grant a target the effects of a greater planar infusion
 - **[Circle of Clarity](circle-of-clarity.md)**: Emanation hampers illusions and stealth.
 - **[Contact Entity IV](contact-entity-iv.md)**: Ask extraordinarily powerful eldritch entities to find and converse with you, or they may reply telepathically.
 - **[Create Demiplane, Lesser](create-demiplane-lesser.md)**: Create your own demiplane.
@@ -941,6 +947,7 @@ Psychics gain access to the following spells. Spells without a link come from ot
 - **[Implosion](implosion.md)**: Inflict 10 damage/level to one creature/round.
 - **[Imprisonment](imprisonment.md)**: Entombs subject beneath the earth.
 - **[Interplanetary Teleport](interplanetary-teleport.md)**: Teleport to another planet.
+- **[Judgment Undone](judgment-undone.md)**: Restores a petitioner to its mortal life
 - **[Mage’s Disjunction](mages-disjunction.md)**: Dispels magic, disenchants magic items.
 - **[Massacre](massacre.md)**: Slaughter creatures in a line.
 - **[Maze of Madness and Suffering](maze-of-madness-and-suffering.md)**: Send a target into a dangerous extradimensional maze.

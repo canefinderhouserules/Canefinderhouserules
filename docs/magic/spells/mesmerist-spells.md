@@ -105,6 +105,7 @@ Mesmerists gain access to the following spells. Spells without a link come from 
 - **[Silent Image](silent-image.md)**: Creates minor illusion of your design.
 - **[Sleep](sleep.md)**: Puts 4 HD of creatures into magical slumber.
 - Sow Thought
+- **[Songbird](songbird.md)**: Conjure music from a good-aligned plane
 - **[Telempathic Projection](telempathic-projection.md)**: Alter the target’s attitude or give bonuses to those interacting with the target.
 - Theft Ward
 - **[Thought Echo](thought-echo.md)**: Replace surface thoughts with a mental echo.

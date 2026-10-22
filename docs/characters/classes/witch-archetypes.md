@@ -535,3 +535,39 @@ Among highly competitive arcane communities, spellspies are witches who use thei
 **Major Hexes**: The following major hexes complement the spellspy archetype: beast eye, hag's eye, and vision.
 
 **Grand Hex**: The following grand hex complements the spellspy archetype: dire prophecy.
+
+## Pact Witch
+
+Though all witches forge bonds with mysterious powers known as patrons, a pact witch takes this bond to an extreme by forging an inexorable pact with the Outer Planes.
+
+**Alignment**: A pact witch's alignment must match that of his chosen plane (see the table below). A pact witch whose alignment no longer matches his bonded plane becomes an ex-pact witch and loses all the benefits of this archetype until he atones for his transgressions. In time, likely after benefitting from an *atonement* spell, an ex-pact witch can forge a bond with another plane that matches his new alignment.
+
+**Table: Planar Pacts**
+
+| Plane | Alignment | Familiar |
+|---|---|---|
+| Abaddon | Neutral evil | Cacodaemon or doru |
+| Abyss | Chaotic evil | Cythnigot or quasit |
+| Axis | Lawful neutral | Arbiter |
+| Boneyard | Neutral | Nosoi |
+| Elysium | Chaotic good | CG cassisian or lyrakien |
+| Heaven | Lawful good | LG cassisian or harbinger archon |
+| Hell | Lawful evil | Imp or tripurasura |
+| Maelstrom | Chaotic neutral | Voidworm |
+| Nirvana | Neutral good | NG cassisian or silvanshee |
+
+**Planar Pact (Su)**: A pact witch chooses one Outer Plane with which to forge a pact. This plane determines the alignment a pact witch must maintain and the type of improved familiar he gains at 6th level. Many pact witches worship specific deities or demigods native to the planes with which they forged their pacts. When a pact witch chooses his plane, his body transforms in minor, cosmetic ways associated with that plane. A pact with Hell might give a pact witch small devil horns, while a pact with Heaven might cause a pact witch to have a softly glowing golden halo, and a pact with Axis might give a pact witch's skin strange rune patterns. The nature of this cosmetic change varies from witch to witch, but has no mechanical effect. Instead of learning new spells from a patron, a pact witch learns new spells from his planar pact, starting at 2nd level and again every 2 levels thereafter.
+
+- 2nd Level: *protection from chaos/evil/good/law* (choose one appropriate to your plane)
+- 4th Level: *time shudder*
+- 6th Level: *infuse self*
+- 8th Level: *lesser planar ally*
+- 10th Level: *plane shift* (as a 5th-level spell)
+- 12th Level: *planar ally*
+- 14th Level: *banishment*
+- 16th Level: *greater planar ally*
+- 18th Level: *gate*
+
+This replaces patron.
+
+**Planar Familiar**: When a pact witch reaches 6th level, his familiar turns into an outsider native to his chosen plane. The familiar retains its spells known; its memories; and its Intelligence, Wisdom, and Charisma scores, but is treated as a member of its new race in all other respects. The type of creature the familiar becomes is indicated on the table above; if more than one type of familiar is listed, a pact witch can choose which type his familiar becomes. This alters the witch's familiar and replaces the hex normally gained at 6th level.

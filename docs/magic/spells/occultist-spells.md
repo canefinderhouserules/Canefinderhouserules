@@ -59,6 +59,7 @@ Occultists gain access to the following spells, determined by their chosen imple
 
 - Abjuring Step
 - **[Alarm](alarm.md)**: Wards an area for 2 hours/level.
+- **[Bestow Planar Infusion I](bestow-planar-infusion-i.md)**: Grant a target the effects of a planar infusion
 - **[Detect Charm](detect-charm.md)**: Detect charm, compulsion, and possession effects.
 - **[Grappling Scarf](grappling-scarf.md)**: Your scarf becomes a grappling hook and rope.
 - **[Guardian Armor](guardian-armor.md)**: Teleports your armor onto an ally.
@@ -461,6 +462,7 @@ Occultists gain access to the following spells, determined by their chosen imple
 
 - **[Absorb Rune I](absorb-rune-i.md)**: Absorb a magical rune and move it elsewhere.
 - **[Ban Corruption](ban-corruption.md)**: Eliminate the gifts of nearby corrupted creatures.
+- **[Bestow Planar Infusion II](bestow-planar-infusion-ii.md)**: Grant a target the effects of an improved planar infusion
 - **[Break Enchantment](break-enchantment.md)**: Frees subjects from enchantments, transmutations, and curses.
 - **[Brightest Light](brightest-light.md)**: Longer-lasting daylight that can dispel darkness.
 - **[Commune with Texts](commune-with-texts.md)**: Absorb knowledge from a collection of texts.
@@ -684,9 +686,11 @@ Occultists gain access to the following spells, determined by their chosen imple
 - **[Balance of Suffering](balance-of-suffering.md)**: Drain one creature to heal another.
 - **[Forbiddance](forbiddance.md)**: Blocks planar travel, damages creatures of different alignment.
 - **[Globe of Invulnerability](globe-of-invulnerability.md)**: As *lesser globe of invulnerability*, plus 4th-level spell effects.
+- **[Invoke Deity](invoke-deity.md)**: Infuse yourself with the powers of your deity's planar realm
 - **[Repulsion](repulsion.md)**: Creatures can’t approach you.
 - **[Rotting Alliance](rotting-alliance.md)**: Curse several creatures to waste away when near one another.
 - **[Scribe’s Binding](scribes-binding.md)**: Bind a creature and its memories into a book.
+- **[Soulseeker](soulseeker.md)**: Determine a soul's location
 - **[Symbol of Vulnerability](symbol-of-vulnerability.md)**: Triggered rune gives penalties.
 
 **Conjuration**:

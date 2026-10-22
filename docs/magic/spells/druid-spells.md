@@ -316,6 +316,7 @@
 - **[Glimpse of Truth](glimpse-of-truth.md)**: Gain *true seeing* for 1 round.
 - **[Half-blood Extraction](half-blood-extraction.md)**: You transform the target half-orc into a full-blooded orc.
 - **[Hallow](hallow.md)**: Designates location as holy.
+- **[Hasten Judgment](hasten-judgment.md)**: Quicken a soul's journey to judgment, hampering resurrection or weakening undead foes
 - **[Hunter’s Blessing](hunters-blessing.md)**: Group gains favored enemy and favored terrain bonuses.
 - **[Insect Plague](insect-plague.md)**: Wasp swarms attack creatures.
 - **[Invoke Primal Power](invoke-primal-power.md)**: Enhance a Large-or-larger wild shape with primal traits.

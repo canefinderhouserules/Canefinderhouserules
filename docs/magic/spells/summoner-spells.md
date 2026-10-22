@@ -5,6 +5,7 @@ New summoner spells from *Ultimate Magic*. Spells from other books will be added
 ## 1st-Level Summoner Spells
 
 - **[Barbed Chains](barbed-chains.md)**: Hellish chains attack and cause a target to become shaken.
+- **[Bestow Planar Infusion I](bestow-planar-infusion-i.md)**: Grant a target the effects of a planar infusion
 - **[Blend with Surroundings](blend-with-surroundings.md)**: Target looks like an object and hides easily while still.
 - **[Compel Hostility](compel-hostility.md)**: Compels opponents to attack you instead of your allies.
 - **[Corrosive Touch](corrosive-touch.md)**: Touch attack deals 1d4 acid/level.
@@ -13,6 +14,7 @@ New summoner spells from *Ultimate Magic*. Spells from other books will be added
 - **[Jury-Rig](jury-rig.md)**: Removes the broken condition from the targeted object.
 - **[Life Conduit](life-conduit.md)**: You are bound even tighter to your eidolon than normal, and may share hit points with it through your life link ability.
 - **[Lighten Object](lighten-object.md)**: Halve an object’s weight.
+- **[Positive Pulse](positive-pulse.md)**: Energy harms undead or bolsters the living
 - **[Ray of Sickening](ray-of-sickening.md)**: Ray makes the subject sickened.
 - **[Snowball](snowball.md)**: Throw a conjured ball of snow at a target.
 - **[Stone Shield](stone-shield.md)**: A 1-inch-thick slab of stone springs up from the ground, interposing itself between you and an opponent of.
@@ -70,6 +72,7 @@ New summoner spells from *Ultimate Magic*. Spells from other books will be added
 - **[Pellet Blast](pellet-blast.md)**
 - **[Phantom Chariot](phantom-chariot.md)**: Conjures a quasi-real heavy chariot pulled by four horses.
 - **[Planar Inquiry](planar-inquiry.md)**: Call an outsider to answer questions.
+- **[Positive Pulse, Greater](positive-pulse-greater.md)**: A large pulse of positive energy damages undead and bolsters living creatures
 - **[Protection from Arrows, Communal](protection-from-arrows-communal.md)**: As protection from arrows, but you may divide the duration among creatures touched.
 - **[Protection from Natural Attacks](protection-from-natural-attacks.md)**: Target gains DR 5/— against one type of natural attack.
 - **[Rain of Frogs](rain-of-frogs.md)**: Summon a swarm of poisonous frogs.
@@ -85,7 +88,9 @@ New summoner spells from *Ultimate Magic*. Spells from other books will be added
 
 ## 4th-Level Summoner Spells
 
+- **[Anywhere But Here](anywhere-but-here.md)**: Transport yourself and willing creatures to a random planar destination
 - **[Assume Appearance, Greater](assume-appearance-greater.md)**: Use a likeness to adopt a dead creature’s form.
+- **[Bestow Planar Infusion II](bestow-planar-infusion-ii.md)**: Grant a target the effects of an improved planar infusion
 - **[Caustic Blood](caustic-blood.md)**: Wounds spray acid at attackers.
 - **[Contact Entity III](contact-entity-iii.md)**: Ask very powerful eldritch entities to find and converse with you, or they may reply telepathically.
 - **[Damnation Stride](damnation-stride.md)**: This spell functions like dimension door, except you leave behind a burst of fire.
@@ -98,6 +103,7 @@ New summoner spells from *Ultimate Magic*. Spells from other books will be added
 - **[Riding Possession](riding-possession.md)**: As possession, but you observe instead of control the subject.
 - **[Rising Water](rising-water.md)**: Conjures a cylinder of calm, swimmable water.
 - **[Seek Shelter](seek-shelter.md)**: Weak creatures flee to safety in an orderly fashion.
+- **[Shadow Invasion](shadow-invasion.md)**: Create an area of darkness that strengthens shadow spells and attracts kytons
 - **[Stoneskin, Communal](stoneskin-communal.md)**
 - **[Summoner Conduit](summoner-conduit.md)**: The target takes damage whenever its summoned creature does.
 - **[Sword to Snake](sword-to-snake.md)**: An item bites whoever handles it.
@@ -108,10 +114,12 @@ New summoner spells from *Ultimate Magic*. Spells from other books will be added
 
 ## 5th-Level Summoner Spells
 
+- **[Commune with Plane](commune-with-plane.md)**: Learn about local planar terrain
 - **[Conjure Black Pudding](conjure-black-pudding.md)**: Summon a black pudding.
 - **[Create Demiplane, Lesser](create-demiplane-lesser.md)**: Create your own demiplane.
 - **[Eaglesoul](eaglesoul.md)**: Combat bonuses against evil creatures, especially evil outsiders.
 - **[Energy Siege Shot](energy-siege-shot.md)**: A Large siege engine deals energy damage that you designate with other effects depending on the type of energy you choose.
+- **[Ether Step](ether-step.md)**: Step briefly into the Ethereal Plane to avoid attacks and dangers
 - **[Flesh Wall](flesh-wall.md)**: Create a wall of zombies.
 - **[Geniekind](geniekind.md)**: Gain genie-themed appearance and powers.
 - **[Grease, Greater](grease-greater.md)**: As grease, but covers much more.

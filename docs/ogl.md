@@ -135,3 +135,5 @@ The following text is the property of Wizards of the Coast, Inc. and is Copyrigh
     Pathfinder Campaign Setting: Horror Realms © 2016, Paizo Inc.; Authors: Thurston Hillman, Tim Hitchcock, James Jacobs, Patrick Renie, David N. Ross, and Linda Zayas-Palmer.
 
     Pathfinder Campaign Setting: Occult Realms © 2016, Paizo Inc.; Authors: Robert Brookes, Thurston Hillman, Brandon Hodge, Thomas M. Reed, and Mark Seifter.
+
+    Pathfinder Roleplaying Game Planar Adventures © 2018, Paizo Inc.; Authors: Robert Brookes, John Compton, Paris Crenshaw, Eleanor Ferron, Thurston Hillman, James Jacobs, Isabelle Lee, Lyz Liddell, Ron Lundeen, Joe Pasini, Lacy Pellazar, Jessica Price, Mark Seifter, F. Wesley Schneider, Todd Stewart, James L. Sutter, and Linda Zayas-Palmer.

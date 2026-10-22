@@ -942,3 +942,29 @@ Some freedom fighters have gone beyond adopting a bird as a symbol, breeding and
 *Cheat Death (Sp)*: At 12th level, once per week, when a raven companion would otherwise be slain by an attack, spell, or effect, it can turn into a figurine of wondrous power as per its mimic figurine ability as an immediate action. Once transformed this way, the raven companion cannot transform back into a raven until the raven master next prepares spells. This ability replaces camouflage.
 
 **Argent Magic**: A raven master casts spells as do most rangers, but her spell list is somewhat expanded from the normal options most rangers can choose from, for her association with bards and other talented performers allows her to add a limited number of bard spells to her spell list. These spells function as divine spells, and are cast and prepared in the same manner as her other ranger spells. At 6th level, the raven master selects one 1st-level bard spell of her choice and adds it to her spell list as a 1st-level ranger spell. At 9th level she does the same but for a 2nd-level bard spell. She adds a 3rd-level bard spell at 12th level, and adds a 4th-level bard spell at 15th level. This ability alters the ranger’s spellcasting.
+
+## Planar Scout
+
+Planar scouts are rangers specializing in traversing the planes, and surviving their journeys.
+
+**Class Skills**: A planar scout gains Knowledge (planes) as a class skill but does not gain Knowledge (dungeoneering) as a class skill. This alters the ranger's skills.
+
+**Planar Empathy (Ex)**: A planar scout can use wild empathy only on animals with the extraplanar subtype. He can use this ability to influence outsiders with an Intelligence score of 1 or 2, but he takes a –4 penalty on the check. This alters wild empathy.
+
+**Planar Terrains (Ex)**: At 3rd level, a planar scout gains a planar terrain. Planar terrains function in all ways like a ranger's favored terrain; he must select a new plane each time he gains a favored terrain. This alters favored terrain.
+
+**Planar Bond (Su)**: At 4th level, rather than forge a bond with an animal or his allies, a planar scout forms a bond with a specific plane. The planar scout becomes infused with the essence of his plane of choice, taking on physical characteristics of denizens native to his chosen plane as well as the abilities listed below.
+
+- *Aligned Plane*: If the planar scout selects a plane with an alignment trait, he gains a +1 bonus on attack and damage rolls against outsiders and creatures with the extraplanar subtype whose alignments oppose this alignment trait. This bonus increases by 1 at 8th level and every 4 levels thereafter.
+- *Astral Plane*: Each day, the planar scout can teleport up to 5 feet per ranger level as a move action. This must be used in 5-foot increments. At 10th level, he can do so as a swift action.
+- *Ethereal Plane*: The planar scout can damage incorporeal creatures with mundane weapons as if they were ghost touch weapons, and at 10th level, he can inflict critical hits and deal precision damage to incorporeal creatures.
+- *First World*: As a swift action a number of times per day equal to his Wisdom modifier, a planar scout can gain fast healing 2 for a number of rounds equal to his ranger level.
+- *Plane of Air*: As a swift action, the planar scout can gain a fly speed (average) equal to his base speed for a number of minutes equal to his ranger level (minimum 1 minute). This duration need not be used consecutively.
+- *Plane of Earth*: The planar scout gains a +1 bonus to his natural armor. This bonus increases by 1 for every 4 levels he gains beyond 4th level.
+- *Plane of Fire*: As a swift action, the planar scout can wreathe his body in flames. This grants the planar scout fire resistance 5 and causes his melee attacks to each deal 1d4 additional points of fire damage. The scout's fire resistance increases to 10 at 9th level, and 15 at 14th level. He can use this ability for a number of rounds per day equal to his level. These rounds need not be used consecutively.
+- *Plane of Shadow*: The planar scout gains darkvision 60 feet and a +4 bonus on Stealth checks. The bonus on Stealth checks increases by 2 at 8th level and every 4 levels thereafter.
+- *Plane of Water*: The planar scout gains the amphibious subtype and a swim speed equal to base speed.
+
+This replaces hunter's bond.
+
+**Planar Adaptation (Su)**: At 9th level a planar scout gains *planar adaptation* when on his bonded plane. At 16th level he confers this protection to all allies within a 30-foot spread. This replaces evasion and improved evasion.

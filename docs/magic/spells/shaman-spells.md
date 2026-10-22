@@ -69,6 +69,7 @@ Shamans gain access to the following spells. Spells in plain text come from othe
 - **[Obscuring Mist](obscuring-mist.md)**: Fog surrounds you.
 - **[Pass without Trace](pass-without-trace.md)**: One subject/level leaves no tracks.
 - **[Peace Bond](peace-bond.md)**: Your low-level area spells ignore protected cubes.
+- **[Positive Pulse](positive-pulse.md)**: Energy harms undead or bolsters the living
 - **[Produce Flame](produce-flame.md)**: 1d6 damage + 1/level, touch or thrown.
 - Protection from Chaos/evil/good/law
 - **[Remove Fear](remove-fear.md)**: Suppresses fear or gives +4 on saves against fear for one subject + one per four levels.
@@ -277,6 +278,7 @@ Shamans gain access to the following spells. Spells in plain text come from othe
 - **[Planar Ally, Lesser](planar-ally-lesser.md)**: Exchange services with a 6 HD extraplanar creature.
 - **[Poison](poison.md)**: Touch deals 1d3 Con damage 1/round for 6 rounds.
 - **[Poisonous Balm](poisonous-balm.md)**: As *cure serious wounds*, but leave behind a latent venom.
+- **[Positive Pulse, Greater](positive-pulse-greater.md)**: A large pulse of positive energy damages undead and bolsters living creatures
 - **[Protection from Natural Attacks](protection-from-natural-attacks.md)**: Target gains DR 5/— against one type of natural attack.
 - **[Rain of Frogs](rain-of-frogs.md)**: Summon a swarm of poisonous frogs.
 - **[Reincarnate](reincarnate.md)**: Brings dead subject back in a random body.
@@ -392,6 +394,7 @@ Shamans gain access to the following spells. Spells in plain text come from othe
 - **[Reincarnate Spy](reincarnate-spy.md)**: As *reincarnate*, but creating a body similar to that of a chosen creature, and you secretly keep part of the body.
 - **[Slay Living](slay-living.md)**: Touch attack deals 12d6 +1 per level.
 - **[Snake Staff](snake-staff.md)**: Transforms wood into snakes to fight for you.
+- **[Speak with Soul](speak-with-soul.md)**: Hold an extended conversation with a soul
 - **[Stone to Flesh](stone-to-flesh.md)**: Restores petrified creature.
 - **[Summon Flight of Eagles](summon-flight-of-eagles.md)**: Summon giant eagles to fight or serve as mounts.
 - **[Wall of Stone](wall-of-stone.md)**: Creates a stone wall that can be shaped.
@@ -449,6 +452,7 @@ Shamans gain access to the following spells. Spells in plain text come from othe
 - **[Irresistible Dance](irresistible-dance.md)**: Forces subject to dance.
 - **[Planar Ally, Greater](planar-ally-greater.md)**: As *lesser planar ally,* but up to 18 HD.
 - **[Resurrection](resurrection.md)**: Fully restore dead subject.
+- **[Soulseeker](soulseeker.md)**: Determine a soul's location
 - **[Stormbolts](stormbolts.md)**: 1d8 damage/level (max 20d8) to targets.
 - **[Sunburst](sunburst.md)**: Blinds all within 10 ft., deals 6d6 damage.
 - **[True Prognostication](true-prognostication.md)**: Gain incredibly cryptic information from the distant future.
@@ -464,6 +468,7 @@ Shamans gain access to the following spells. Spells in plain text come from othe
 - **[Etherealness](etherealness.md)**: Travel to Ethereal Plane with companions.
 - **[Foresight](foresight.md)**: “Sixth sense” warns of impending danger.
 - **[Heal, Mass](heal-mass.md)**: As *heal*, but affects 1 subject/level.
+- **[Judgment Undone](judgment-undone.md)**: Restores a petitioner to its mortal life
 - **[Massacre](massacre.md)**: Slaughter creatures in a line.
 - **[Polar Midnight](polar-midnight.md)**: Cold darkness paralyzes and deals damage.
 - Shamble

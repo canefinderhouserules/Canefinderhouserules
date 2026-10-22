@@ -33,6 +33,7 @@ Mediums gain access to the following spells. Spells without a link come from oth
 - Bleed Glory
 - **[Assumed Likeness](assumed-likeness.md)**: You appear as someone each target feels strongly about.
 - **[Auditory Hallucination](auditory-hallucination.md)**: Create a phantasm with auditory effects.
+- **[Bestow Planar Infusion I](bestow-planar-infusion-i.md)**: Grant a target the effects of a planar infusion
 - **[Bloodbath](bloodbath.md)**: Cause yourself and enemies to bleed.
 - **[Borrow Skill](borrow-skill.md)**: Make a skill check using another’s ranks.
 - **[Burst of Insight](burst-of-insight.md)**: Gain a +8 bonus to Int, Wis, or Cha for one roll, then be dazed for 1 round.
@@ -283,6 +284,7 @@ Mediums gain access to the following spells. Spells without a link come from oth
 - **[Adjustable Polymorph](adjustable-polymorph.md)**: As alter self; but you can change the shape as a swift action.
 - **[Assume Appearance, Greater](assume-appearance-greater.md)**: Use a likeness to adopt a dead creature’s form.
 - **[Battlemind Link](battlemind-link.md)**: You and an ally gain attack and AC bonuses.
+- **[Bestow Planar Infusion II](bestow-planar-infusion-ii.md)**: Grant a target the effects of an improved planar infusion
 - **[Break Enchantment](break-enchantment.md)**: Frees subjects from enchantments, transmutations, and curses.
 - **[Command, Greater](command-greater.md)**: As *command,* but affects one subject/level.
 - **[Commune with Texts](commune-with-texts.md)**: Absorb knowledge from a collection of texts.
@@ -302,6 +304,7 @@ Mediums gain access to the following spells. Spells without a link come from oth
 - **[Freedom of Movement](freedom-of-movement.md)**: Subject moves normally despite impediments to movement.
 - **[Hold Monster](hold-monster.md)**: As *hold person*, but any creature.
 - **[Inflict Pain, Mass](inflict-pain-mass.md)**: As inflict pain, but affecting one creature per level.
+- **[Invoke Deity](invoke-deity.md)**: Infuse yourself with the powers of your deity's planar realm
 - **[Legend Lore](legend-lore.md)**: Lets you learn tales about a person, place, or thing.
 - **[Mage’s Private Sanctum](mages-private-sanctum.md)**: Prevents anyone from viewing or scrying an area for 24 hours.
 - **[Majestic Image](majestic-image.md)**: As *enter image*, but also gain bonuses on social skills while in the image.
@@ -323,6 +326,8 @@ Mediums gain access to the following spells. Spells without a link come from oth
 - **[Scripted Hallucination](scripted-hallucination.md)**: As *complex hallucination*, but without concentration.
 - **[Secret Workshop](secret-workshop.md)**: As nondetection, but protects many creatures and objects.
 - **[Seeming](seeming.md)**: Changes appearance of 1 person per 2 levels.
+- **[Soulseeker](soulseeker.md)**: Determine a soul's location
+- **[Speak with Soul](speak-with-soul.md)**: Hold an extended conversation with a soul
 - **[Spirit-Bound Blade](spirit-bound-blade.md)**: Give a weapon ghost touch and another ability tied to an emotion.
 - **[Spiritual Ally](spiritual-ally.md)**: Creates a divine ally to aid you.
 - **[Summon Monster V](summon-monster-v.md)**: Summons extraplanar creature to fight for you.

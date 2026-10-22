@@ -56,6 +56,7 @@ Spiritualists gain access to the following spells. Spells without a link come fr
 - **[Mindlink](mindlink.md)**: Communicate a great deal of information in an instant.
 - **[Obscuring Mist](obscuring-mist.md)**: Fog surrounds you.
 - **[Phantom Blood](phantom-blood.md)**: Gain temporary hp if Con loss would knock you out or kill you.
+- **[Positive Pulse](positive-pulse.md)**: Energy harms undead or bolsters the living
 - **[Protection from Chaos](protection-from-chaos.md)**
 - **[Protection from Evil](protection-from-evil.md)**
 - **[Protection from Good](protection-from-good.md)**
@@ -234,6 +235,7 @@ Spiritualists gain access to the following spells. Spells without a link come fr
 - **[Flesh Puppet Horde](flesh-puppet-horde.md)**: Control multiple zombies in human guise.
 - **[Freedom of Movement](freedom-of-movement.md)**: Subject moves normally despite impediments to movement.
 - **[Ghost Brand](ghost-brand.md)**: Allow an item to transform into a brand and back.
+- **[Hasten Judgment](hasten-judgment.md)**: Quicken a soul's journey to judgment, hampering resurrection or weakening undead foes
 - **[Hollow Heroism](hollow-heroism.md)**: Provide a *heroism* effect that you can reverse at any time.
 - **[Hunger for Flesh](hunger-for-flesh.md)**: Give a creature a bite attack and a hunger for its own kind’s flesh.
 - **[Imbue with Spell Ability](imbue-with-spell-ability.md)**: Transfer spells to subject.
@@ -249,6 +251,7 @@ Spiritualists gain access to the following spells. Spells without a link come fr
 - **[Phantasmal Killer](phantasmal-killer.md)**: Fearsome illusion kills subject or deals 3d6 damage.
 - Phantom Chariot
 - Phantom Steed, Communal
+- **[Positive Pulse, Greater](positive-pulse-greater.md)**: A large pulse of positive energy damages undead and bolsters living creatures
 - **[Possession](possession.md)**: Project your soul into a creature’s body.
 - **[Quieting Weapons](quieting-weapons.md)**: Weapons make no sound and quiet their victims.
 - **[Red Hand of the Killer](red-hand-of-the-killer.md)**: Stain the hand of a creature’s killer red.
@@ -357,6 +360,8 @@ Spiritualists gain access to the following spells. Spells without a link come fr
 - **[Repulsion](repulsion.md)**: Creatures can’t approach you.
 - **[Sealed Life, Greater](sealed-life-greater.md)**: As sealed life, plus death ward and immunity to soul transference.
 - **[Shadow Walk](shadow-walk.md)**: Step into shadow to travel rapidly.
+- **[Soulseeker](soulseeker.md)**: Determine a soul's location
+- **[Speak with Soul](speak-with-soul.md)**: Hold an extended conversation with a soul
 - **[Summon Monster VI](summon-monster-vi.md)**: Summons extraplanar creature to fight for you.
 - **[Telepathy](telepathy.md)**: Communicate mentally with creatures within 100 ft.
 - **[Transformation](transformation.md)**: You gain combat bonuses.
