@@ -84,6 +84,20 @@ Abilities that extend the duration of a bardic performance (such as Lingering Pe
 
 **Action**: 1 free action.
 
+### Dance of Captivating Desire (Dance)
+
+A creation of a hedonistic priesthood, this swaying, sensuous dance fans the fires of lust.
+
+**Prerequisite**: Perform (dance) 5 ranks.
+
+**Cost**: Feat or 2nd-level bard spell known.
+
+**Effect**: When you begin this performance, select one creature within 30 feet to become overwhelmed by lustful feelings toward you. Each round, the target must attempt a Will save. If the target would not normally be attracted to you, it receives a +4 bonus on its saving throws. For each failure, the DCs of your Bluff and Diplomacy checks against that creature are reduced by 2 (to a maximum reduction of 10) and the target takes a –1 penalty on Will saving throws against enchantment effects that you create (to a maximum of –5). These penalties last for 1 minute after the performance ends.
+
+**Use**: 1 round of bardic performance per round.
+
+**Action**: 1 standard action.
+
 ### The Depths of the Mountain (Percussion, Wind)
 
 Your drumming skills can break solid rock.
@@ -259,6 +273,20 @@ As with hide from undead, one creature breaking the effect ends the benefit of t
 **Use**: 1 bardic performance round per round of the performance, +1 round per ally affected, +1 round per dedicated refrain.
 
 **Action**: 1 minute.
+
+### Thundering Rhythms (Oratory, Percussion)
+
+Thundering rhythms quicken your allies’ movements, but the effort of keeping up with the beat is wearying.
+
+**Prerequisite**: Perform (oratory) 7 ranks or Perform (percussion) 7 ranks.
+
+**Cost**: Feat or 3rd-level bard spell known.
+
+**Effect**: Up to one ally per bard level gains the benefits of *haste* while you maintain this masterpiece, except the bonus to AC and on attack rolls and Reflex saves is one-fifth of your bard level. These allies must be within 60 feet of you to receive this benefit. When you cease performing this masterpiece, any creature that received this benefit for at least 3 rounds must succeed at a Fortitude save at this masterpiece’s DC or be fatigued for twice as many rounds as they were affected.
+
+**Use**: 1 round of bardic performance per round.
+
+**Action**: 1 standard action.
 
 ### Triple Time (Percussion, String, Wind)
 
@@ -1003,3 +1031,21 @@ This performance replaces soothing performance.
 **Piper’s Attention (Ex)**: Starting at 2nd level, whenever a luring piper is actively using Perform (wind instruments) as part of a bardic performance, he gains a +4 bonus on saving throws against language-dependent, mind-affecting, and sonic effects. If this effect is caused by a fey creature, the luring piper can also roll the saving throw twice and take the better result.
 
 This ability replaces well-versed.
+
+## Flamesinger
+
+The flamesinger finds inspiration in the mesmerizing beauty of fire.
+
+**Fire Music**: A flamesinger gains Fire Music as a bonus feat at 1st level (without needing to meet the normal prerequisites). At 4th level (when she gains access to 2nd-level spells), she adds *summon monster I* and *summon monster II* to her bard spells known; every 3 levels thereafter she gains the next level of *summon monster*, until she adds *summon monster VI* to her spells known at 16th level. The flamesinger must apply the Fire Music feat’s effect when casting these spells.
+
+This ability replaces bardic knowledge and lore master.
+
+**Bardic Performance**: A flamesinger gains the following bardic performance.
+
+*Blazing Blades (Su)*: The flamesinger’s song causes allies’ weapons to burst into flames. To be affected, an ally must be able to hear the bard perform and be within 30 feet. An affected creature’s successful attacks with manufactured or natural weapons deal 1d4 additional points of fire damage. These flames do not harm the weapon or its wielder. This damage stacks with other sources of fire damage, such as the *flaming* special weapon ability. At 5th level and every 6 bard levels thereafter, this bonus fire damage increases by 1d4 (to a maximum of 4d4 at 17th level). This is a fire effect that relies on audible components.
+
+This ability replaces inspire courage.
+
+**Wildfire (Ex)**: Like a raging wildfire, a flamesinger moves with blistering speed. At 2nd level and every 4 levels thereafter, the flamesinger gains a +5-foot enhancement bonus to her base speed (to a maximum of +25 feet at 18th level).
+
+This ability replaces versatile performance.

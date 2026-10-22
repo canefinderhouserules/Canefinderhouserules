@@ -35,6 +35,8 @@ These traits are associated with combat, battle, and physical prowess. They give
 
 **Easy Way or the Hard Way**: You are skilled at subduing your enemies. Whenever you attack one of your favored enemies with a weapon that deals lethal damage and choose to deal nonlethal damage, you take only a –2 penalty on the attack roll instead of the normal –4.
 
+**Elemental Apprentice**: You spent your childhood in a region where the use of elemental magic is commonplace or the environment is heavily infused with elemental energies, such as the slope of an active volcano or a hurricane-lashed coast. Your time near raw elemental energies has inured you to taking damage from them. At character creation, select acid, cold, electricity, or fire (once chosen, this damage type can’t be changed). Once per day as a free action, when you hit a creature with a melee weapon, you can convert an amount of damage dealt by your attack equal to your character level into the selected energy type. You cannot convert this damage if any damage from the attack would normally deal a different type of energy damage (such as that of a *flaming* weapon).
+
 **Evasive Sting**: Larger enemies have a hard time striking you. You gain a +1 dodge bonus to AC against enemies that are both your favored enemy and at least two size categories larger than you.
 
 **Failed Aspirant**: You've failed the trials to gain entry to a prestigious martial school. Though you are disappointed, you were able to pick up one trick from the monks. Choose a single combat maneuver. Once per day, you can perform that combat maneuver without provoking an attack of opportunity, and you gain a +2 bonus on that attempt.
@@ -191,6 +193,8 @@ These traits are associated with magic and focus on spellcasting and manipulatin
 
 **Eldritch Delver**: You have an unquenchable thirst for knowledge about the world and desire to obtain it firsthand. You gain a +1 trait bonus on all Knowledge (dungeoneering) and Knowledge (history) checks, and you may treat your caster level as 1 level higher for all conjuration spells of the teleportation subschool.
 
+**Elemental Accident**: A traumatic experience in your childhood, such as surviving a violent earthquake, fleeing a shipwreck, escaping a devastating fire, or getting struck by lightning, caused you to develop a fear of the corresponding element. You can instinctively shield yourself against elemental dangers of that type. Select acid, cold, electricity, or fire at character creation (once chosen, this damage type can’t be changed). Once per day when you are subjected to an attack or effect that deals energy damage of that type, you can gain resistance 10 against that damage type for 1 round as an immediate action. This resistance does not stack with any existing resistance you might have against that energy type.
+
 **Enduring Mutagen**: Because of special training, your unique body chemistry, or the uncovering of an alchemical secret, your mutagens last longer. The bonuses and penalties granted by your mutagens last for 1 additional minute per alchemist level.
 
 **Flame-Touched**: You share an affinity with elemental fire. You gain DR 1/— against creatures and attacks with the fire type.
@@ -222,6 +226,8 @@ These traits are associated with magic and focus on spellcasting and manipulatin
 **Partial Protege**: You are adept at disguising your true talents. You gain a +1 trait bonus on Bluff checks and on Use Magic Device checks made to emulate a class feature.
 
 **Perfectionist’s Brew**: You know that potion recipes should be followed with exact precision. You gain a +2 trait bonus on all Craft (alchemy) checks and on Spellcraft checks made to brew potions.
+
+**Planar Escapee**: You were a prisoner or slave in a city on the Elemental Planes. When you escaped that city, you had to use your captors’ weapons and magic against them in addition to your sheer wits, and you learned how to find weaknesses in their natural resistances. At character creation, select acid, cold, electricity, or fire (once chosen, this selection can’t be changed). Once per day as a swift action, you can choose a single creature that is within 30 feet of you and within your line of sight; treat that creature’s resistance against your chosen energy as 5 lower than its normal energy resistance for 1 round. This ability has no effect if the creature has no resistance to the chosen energy or if the creature has immunity to the chosen energy.
 
 **Possessed**: You were, or are, possessed in some way by another entity that grants you occasional access to its knowledge. Once per day, you can attempt a Knowledge check of your choice even if you are not trained in that skill and it is not usually possible to use that skill untrained. If you can normally use that skill untrained, you gain a +2 trait bonus on the check.
 
@@ -292,6 +298,8 @@ Social traits reflect your upbringing; your background in high society or lack t
 **Destined Diplomat**: Your relationship with your eidolon gives you some clout with other outsiders. You gain a +2 trait bonus on Diplomacy checks toward outsiders, and Diplomacy is always a class skill for you.
 
 **Detect Disobedience**: You have an uncanny ability to spot a mutiny brewing. You gain a +2 trait bonus on Sense Motive checks to detect when an underling is trying to hide something from you, and can attempt such checks instead of Perception checks to notice and react to a subordinate’s surprise attack against you.
+
+**Elemental Negotiator**: You have traveled to the Elemental Planes under the protection of a powerful group of merchants or spellcasters. At character creation, you learn one of the following languages as a bonus language: Aquan, Auran, Ignan, or Terran. Additionally, your options for bonus languages from having a high Intelligence score include the other three elemental languages, in addition to those language options allowed by your race and class. You gain a +2 trait bonus on Diplomacy and Bluff checks when using one of these languages to communicate with a creature originating from the language’s corresponding Elemental Plane.
 
 **Fast Talker**: You had a knack for getting yourself into trouble as a child, and as a result developed a silver tongue at an early age. You gain a +1 trait bonus on Bluff checks, and Bluffis always a class skill for you.
 

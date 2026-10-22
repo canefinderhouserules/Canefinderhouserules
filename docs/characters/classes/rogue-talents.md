@@ -173,3 +173,15 @@ The following talents complement rogues seeking to ambush animals. A talent mark
 **Ambuscading Grapple (Ex)**: When a rogue with this talent succeeds at a combat maneuver check to grapple an unaware opponent, she can immediately deal her sneak attack damage to the target. This counts as having hit with a sneak attack for the purpose of other abilities and talents.
 
 **Armor Piercer\* (Ex)**: A rogue with this talent can cause her sneak attacks to pierce through natural armor. When she hits with an attack that deals sneak attack damage, she can forgo one or more of her sneak attack dice to reduce the target’s natural armor bonus by that amount (minimum natural armor bonus of +0) until the end of her next turn. A creature cannot be affected by this ability again for 1 minute.
+
+## Elemental Master’s Handbook Rogue Talents
+
+The following advanced talents draw upon the power of earth. Earthshadow rogues commonly use them, but any character who can take advanced rogue talents (including rogues, shadowdancers, and unchained rogues) and who meets a talent’s prerequisites can select any of these talents. Investigators and slayers can also take these talents as if they were investigator talents and slayer talents, respectively. Talents marked with an asterisk (*) add effects to a character’s sneak attack; only one of these talents can be applied to an individual attack, and the decision must be made before the attack roll is made. The castling, extra earthcraft, fortified position, and unbalancing trick talents appear in the table above.
+
+**Against the Wall (Ex)**: A rogue with this talent is considered to be flanking any opponent adjacent to a stone wall (whether the stone is worked or unworked).
+
+**Petrifying Strike\* (Su)**: Whenever the rogue damages a creature with one of her sneak attacks, she also deals 2 points of Dexterity damage to that creature as its body petrifies.
+
+**Resonating Rumbles\* (Su)**: When a rogue with this talent makes a successful sneak attack against a creature with tremorsense, the rogue can subtract 3 dice from her sneak attack damage to prevent the target from using tremorsense for a number of rounds equal to half her rogue level.
+
+**Stony Skin (Ex)**: A rogue with this talent gains DR 2/adamantine. A rogue can select this talent up to three times; each additional time the rogue selects this talent, the DR granted by this talent increases by 1.

@@ -59,6 +59,7 @@ Bloodragers gain access to the following spells. Spells in plain text come from 
 - **[True Strike](true-strike.md)**: +20 on your next attack roll.
 - Unerring Weapon
 - Warding Weapon
+- **[Waterproof](waterproof.md)**: Renders an object or creature’s gear waterproof.
 - **[Wave Shield](wave-shield.md)**: Water blunts one incoming attack or fire effect.
 - Web Bolt
 - Windy Escape
@@ -102,6 +103,7 @@ Bloodragers gain access to the following spells. Spells in plain text come from 
 - **[Gust of Wind](gust-of-wind.md)**: Blows away or knocks down smaller creatures.
 - Imbue with Elemental Might
 - **[Huntmaster’s Spear](huntmasters-spear.md)**: Spear becomes a +1 weapon against a chosen favored-enemy type and can be discharged for a powerful attack.
+- **[Lightning Conductor](lightning-conductor.md)**: Absorb electricity damage and discharge it as a touch or ray.
 - **[Mirror Image](mirror-image.md)**: Creates decoy duplicates of you.
 - **[Molten Orb](molten-orb.md)**: Molten metal splash weapon deals 2d6 fire damage plus ongoing damage.
 - **[Pouncing Fury](pouncing-fury.md)**: Make a full attack with your claws after a charge.
@@ -175,6 +177,7 @@ Bloodragers gain access to the following spells. Spells in plain text come from 
 - Raging Rubble
 - **[Ray of Exhaustion](ray-of-exhaustion.md)**: Ray makes subject exhausted.
 - Resinous Skin
+- **[Rising Water](rising-water.md)**: Conjures a cylinder of calm, swimmable water.
 - **[Silver Darts](silver-darts.md)**: Cone of silver darts deals 1d6 piercing damage/level, less against armored targets.
 - **[Sleet Storm](sleet-storm.md)**: Hampers vision and movement.
 - **[Slow](slow.md)**: One subject/level takes only one action/round, –1 to AC, Reflex saves, and attack rolls.

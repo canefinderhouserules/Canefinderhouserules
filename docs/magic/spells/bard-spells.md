@@ -82,6 +82,7 @@
 - **[Urban Grace](urban-grace.md)**: You become one with the city around you, allowing you to move more easily through its crowds and buildings.
 - **[Velvet Diplomacy](velvet-diplomacy.md)**: Intimidate a target into friendliness and cloud its memory of the threats.
 - **[Ventriloquism](ventriloquism.md)**: Throws voice for 1 min./level.
+- **[Waterproof](waterproof.md)**: Renders an object or creature’s gear waterproof.
 - **[Windy Escape](windy-escape.md)**: You respond to an attack by briefly becoming vaporous and insubstantial, allowing the attack to pass.
 - **[Wizened Appearance](wizened-appearance.md)**: Make a target appear as an older version of itself.
 

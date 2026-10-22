@@ -112,6 +112,22 @@ If a scroll contains a spell with a metamagic feat, this ability uses the origin
 
 Instead of specializing in one of the standard eight schools of magic, a wizard can choose to specialize in one of the four elemental schools of magic. Like a normal arcane school, an elemental school grants a number of school powers and one bonus spell slot of each level the wizard can cast, from 1st on up. This bonus spell slot must be used to prepare a spell from the elemental school’s spell list (see Chapter 5). Unlike a normal arcane school, each elemental school requires the wizard to select his opposed element as his opposition school (air opposes earth, fire opposes water). He does not need to select a second opposition school. He must expend two spell slots to prepare a spell from his opposed elemental school as normal.
 
+### Aether School
+
+Aether is a strange and complex substance that occurs where the Elemental Planes touch the Ethereal Plane. Wizards who study aether use it to manipulate objects on the Material Plane. The aether elemental school is an elemental arcane school a wizard can specialize in instead of one of the standard schools of magic.
+
+Like a normal arcane school, the aether elemental school grants a number of school powers, as well as one bonus spell slot of each level the wizard can cast, from 1st on up. This bonus spell slot must be used to prepare a spell from the aether elemental school’s spell list (see below). Unlike a normal arcane school, the aether elemental school requires the wizard to select a single element as his opposition school (air, earth, fire, or water). The wizard does not need to select a second opposition school. He must expend two spell slots to prepare a spell from his opposed elemental school as normal.
+
+**Aether Magic**: Add the following spells to your wizard spell list at the listed spell level: 0—*telekinetic projectile*, 2nd—*spiritual weapon*, 4th—*spiritual ally*, 5th—*ethereal envelope*, 6th—*animate objects*, 7th—*ectoplasmic eruption*, 9th—*telekinetic storm*.
+
+**Aether Supremacy (Su)**: You gain a +2 enhancement bonus on Sleight of Hand checks. This bonus increases by 1 for every 5 wizard levels you have. In addition, you can cast *mage hand* at will as a spell-like ability that uses your caster level. At 5th level, you can attempt Sleight of Hand checks against a target within 30 feet, though the skill check DC increases by 5, and any creature within line of sight of either you or the target can attempt an opposed Perception check to notice the attempt. At 10th level, you can attempt a Sleight of Hand check as a move action with only a –10 penalty. At 20th level, whenever you attempt a Sleight of Hand check, assume the roll resulted in a natural 20.
+
+**Telekinetic Protection (Su)**: As a swift action, you can grant yourself protection against nonmagical attacks by forming a field to telekinetically deflect them. You gain DR 5/magic for 1 round. You can use this ability a number of times per day equal to 3 + your Intelligence modifier.
+
+**Receptive Vibrations (Su)**: At 8th level, you are constantly surrounded by ephemeral and invisible strands of aether, increasing your awareness of your surroundings. You are never denied your Dexterity bonus to AC against attacks made within 30 feet of you because you are flat-footed or because your assailant is unseen. In addition, you gain a bonus on Perception checks to avoid being surprised equal to half your wizard level.
+
+**Aether Elementalist Wizard Spells**: 0—*telekinetic projectile*; 1st—*floating disk*, *magic missile*, *unseen servant*; 2nd—*blur*, *pilfering hand*, *spiritual weapon*; 3rd—*ablative barrier*, *blink*, *ectoplasmic snare*, *force punch*, *tiny hut*; 4th—*resilient sphere*, *spiritual ally*, *telekinetic charge*, *telekinetic maneuver*; 5th—*condensed ether*, *ethereal envelope*, *interposing hand*, *mage’s faithful hound*, *secret chest*, *telekinesis*, *wall of ectoplasm*; 6th—*animate objects*, *enemy hammer*, *forceful hand*, *leashed shackles*; 7th—*ectoplasmic eruption*, *ethereal jaunt*, *grasping hand*, *phase door*; 8th—*clenched fist*, *telekinetic sphere*; 9th—*etherealness*, *telekinetic storm*.
+
 ### Air School
 
 The air elementalist uses the forces of the wind, sky, clouds, and lightning to confuse and destroy his foes, all while flying through the air with ease.
@@ -248,6 +264,16 @@ If that spell summoned more than one creature, only the creature that failed its
 
 **Wind Servant (Sp)**: As a standard action, you can generate a blast of air that hurls an unattended object (or objects) or an object in your possession up to 30 feet in a straight line. If you have a free hand, you can catch an object hurled toward yourself. You can move objects weighing up to 1 pound per wizard level. Objects are not thrown with enough force to cause damage, although fragile objects like alchemical weapons shatter on contact with a creature or hard surface. To hit a creature with an object, you must succeed at a ranged touch attack. You can use this ability a number of times per day equal to 3 + your Intelligence modifier.
 
+### Ice School
+
+**Associated Schools**: Air, water.
+
+**Replacement Powers**: The following school powers replace the lightning flash and cyclone powers of the air school and the cold blast and wave powers of the water school.
+
+**Freezing Shards (Su)**: As a standard action, you can cause shards of ice to burst forth from the ground around you. The shards deal 1d4 points of piercing damage and 1d6 points of cold damage + 1 point for every 2 wizard levels you have to all creatures within 5 feet of you. A successful Reflex save (DC = 10 + half your wizard level + your Intelligence modifier) negates the piercing damage and halves the cold damage. The shards remain until the beginning of your next turn; during this time, the area is difficult terrain. You are not affected by your own freezing shards and can move through the area normally. You can use this ability a number of times per day equal to 3 + your Intelligence modifier.
+
+**Icy Shackles (Su)**: At 8th level, as a standard action, you can make a melee touch attack against a foe to conjure icy restraints around its ankles, reducing its base speed to 5 feet and dealing it an amount of cold damage at the beginning of its turn equal to your Intelligence modifier. The manacles have AC 10, hardness 0, and 30 hit points, and a creature can destroy them with a successful Strength check (DC = 10 + half your wizard level + your Intelligence modifier) as a standard action. The icy shackles melt away after 1 minute. You can use this ability a number of times per day equal to your Intelligence modifier.
+
 ### Life School
 
 **Associated School**: Necromancy.
@@ -260,6 +286,16 @@ If that spell summoned more than one creature, only the creature that failed its
 
 These temporary hit points disappear 1 hour later. You may not use this ability to grant yourself temporary hit points. You can use this ability a number of times per day equal to 3 + your Intelligence modifier. This ability has no effect if you are immune to nonlethal damage.
 
+### Magma School
+
+**Associated Schools**: Earth, fire.
+
+**Replacement Powers**: The following school powers replace the acid cloud and earth glide powers of the earth school and the fire jet and dancing flame powers of the fire school.
+
+**Magma Furrow (Su)**: As a standard action, you can send forth a 20-foot line of magma. Any creature in this line takes 1d6 points of fire damage + 1 point for every 2 wizard levels you have. A successful Reflex save (DC = 10 + half your wizard level + your Intelligence modifier) halves this damage. In addition, the ground in this area remains molten for another 1d4 rounds. Creatures that begin their turns in the area can move out that turn without penalty, but those that enter the area each take 1d6 points of fire damage. You can use this ability a number of times per day equal to 3 + your Intelligence modifier.
+
+**Lava Shield (Su)**: At 8th level, you can create a barrier of lava to protect you for 1 round as a standard action. Choose one edge of your space. That edge is treated as a solid wall for attacks targeting you only. You gain total cover from attacks that pass through this edge, and you gain the benefits of *fire shield* (warm shield) while adjacent to the lava shield. You can dismiss the lava shield as a free action, and it disappears immediately if you leave your space. You can use this ability a number of rounds per day equal to half your wizard level.
+
 ### Manipulator School
 
 **Associated School**: Enchantment.
@@ -269,6 +305,16 @@ These temporary hit points disappear 1 hour later. You may not use this ability 
 **Beguiling Touch (Sp)**: You can charm a living creature by touching it. Creatures with more Hit Dice than your wizard level are unaffected, as are creatures in combat and those with an attitude of hostile toward you. Creatures receive a Will saving throw to negate the effect. The DC of this save is equal to 10 + 1/2 your wizard level + your Intelligence modifier. Creatures that fail their save are affected by charm monster for a number of rounds equal to 1/2 your wizard level (minimum 1). This is a mind-affecting effect. You can use this ability a number of times per day equal to 3 + your Intelligence modifier.
 
 **Shape Emotions (Su)**: At 8th level, you can emit a 30-foot aura to either ward off or welcome emotional influence for a number of rounds per day equal to your wizard level. If you choose to ward, you and your allies within this aura receive a +4 morale bonus on saves against mind-affecting spells and effects, and any fear effects targeting you or your allies are reduced by one step (shaken has no effect, frightened becomes shaken, and panicked becomes frightened). If you chose to enhance emotional influence, enemies within the aura receive a –2 penalty on saves against mind-affecting spells and effects. These rounds do not need to be consecutive.
+
+### Mud School
+
+**Associated Schools**: Earth, water.
+
+**Replacement Powers**: The following school powers replace the acid cloud and earth glide powers of the earth school and the cold blast and wave powers of the water school.
+
+**Hindering Muck (Su)**: As a standard action, you can create a 15-foot cone of sticky mud. Any creature in the cone must succeed at a Reflex save (DC = 10 + half your wizard level + your Intelligence modifier) or become entangled for 1 round for every wizard level you have. An affected creature can take a standard action that provokes attacks of opportunity to wipe off enough of the mud to remove the entangled condition. Jumping into a large body of water or being subject to an effect that creates a substantial amount of water (such as a casting of *create water*) removes all the mud on a creature. You can use this ability a number of times per day equal to 3 + your Intelligence modifier.
+
+**Mud Missile (Su)**: At 8th level, you can fling a ball of hardened mud at a foe within 30 feet as a standard action. If you succeed at a ranged touch attack, the mud slams into the target’s face, dealing 1d6 points of bludgeoning damage for every 2 wizard levels you have and blinding the target for 1d4 rounds. A creature can remove the blinding mud from itself or another creature with a successful Strength check (DC = 10 + half your wizard level) as a standard action. You can use this ability a number of times per day equal to half your wizard level.
 
 ### Phantasm School
 
@@ -305,6 +351,16 @@ These temporary hit points disappear 1 hour later. You may not use this ability 
 **Replacement Power**: The following school power replaces the telekinetic fist power of the transmutation school.
 
 **Battleshaping (Su)**: As a swift action, you grow a single natural weapon. The natural weapon lasts for 1 round and has a +1 enhancement bonus on attack and damage rolls for every four wizard levels you possess. You can grow a claw, a bite, or a gore attack. These attacks deal the normal damage for a creature of your size. At 11th level, you can shape two natural weapons. You may not grow additional limbs or a tail with this ability. You can use this ability a number of times per day equal to 3 + your Intelligence modifier.
+
+### Smoke School
+
+**Associated Schools**: Air, fire.
+
+**Replacement Powers**: The following school powers replace the lightning flash and cyclone powers of the air school and the fire jet and dancing flame powers of the fire school.
+
+**Smokesight (Su)**: You can see normally through natural fog and smoke, as well as any fog and smoke that you (but not others) magically create. A number of times per day equal to 3 + your Intelligence bonus, you can touch another creature as a standard action to grant it this vision for 1 hour.
+
+**Body of Smoke (Sp)**: At 8th level, you can assume a gaseous form (as per the spell of that name) as a swift action for a number of minutes per day equal to your wizard level. This duration does not need to be consecutive, but it must be used in 1-minute increments.
 
 ### Teleportation School
 

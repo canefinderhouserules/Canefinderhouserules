@@ -746,3 +746,35 @@ A transporter can gain the benefits of only a single plotted course at any given
 **Hideaway (Ex)**: A transporter can spend 1 hour and attempt a DC 20 Survival check to create a hidden shelter, useful for staying unseen by patrols of enemy creatures. The transporter’s shelter can hold the transporter and one additional creature for every 2 by which the transporter exceeds the DC. The created shelter incorporates scents from the local area, preventing creatures on the inside from being detected by the scent ability of creatures outside of the shelter, and vice versa. Additionally, its floor is either elevated or constructed of a different substance than the nearby ground, preventing creatures outside of the shelter from using tremorsense to detect creatures inside, and vice versa. Finally, the clever structure of the hideaway causes creatures outside of the shelter to take a –10 penalty on Perception checks to notice creatures inside, as if through a 1-foot-thick wall, while only causing creatures inside to take a –2 penalty on Perception checks to notice creatures outside.
 
 These bonuses do not apply if the enemy creatures are intimately familiar with the area in which the hideaway was built (such as an area right near their home). This ability replaces woodland stride.
+
+## Tidal Diver
+
+Named for the vicious and unending storms of the open ocean, tidal divers have pushed their bodies to their limits, holding their breath to expand their lung capacity and swimming until ocean travel is second nature to them.
+
+**Weapon and Armor Proficiency**: A tidal diver is not proficient with shields but is proficient with harpoons and nets.
+
+This alters the ranger’s weapon and armor proficiencies.
+
+**Ocean’s Blessing**: A tidal diver adds *buoyancy*, *control water*, *elemental speech* (water only), *hydraulic push*, *hydraulic torrent*, *ride the waves*, *river whip*, *water breathing*, and *wave shield* to his ranger spell list at the same spell level as they appear on the cleric spell list or sorcerer/wizard spell list, whichever is lower. He still must select them as spells known, as normal.
+
+This ability replaces track.
+
+**Deep Diver (Ex)**: At 1st level, a tidal diver can hold his breath for twice as long as usual (4 rounds times his Constitution score instead of the normal 2).
+
+This ability replaces wild empathy.
+
+**Aquatic Terrain (Ex)**: At 3rd level, a tidal diver gains a +2 bonus on initiative checks and Knowledge (geography), Perception, Stealth, and Survival skill checks while underwater. Every 5 levels thereafter, the bonus on each of those checks increases by 2 while the tidal diver is underwater (to a maximum of +8 at 18th level).
+
+This replaces favored terrain.
+
+**Aquatic Adaptation (Ex)**: At 7th level, a tidal diver gains a swim speed equal to his unmodified base speed. Because he has a swim speed, he gains the standard +8 bonus on Swim checks to perform a special action or evade a hazard, the ability to take 10 on a Swim check even if distracted or threatened, and the ability to use the run action while swimming if he swims in a straight line. If he already has a swim speed, his swim speed increases by 10 feet.
+
+This replaces woodland stride.
+
+**Shark Sense (Ex)**: At 8th level, a tidal diver gains the scent ability while underwater.
+
+This ability replaces swift tracker.
+
+**Killer of the Deep (Ex)**: At 20th level, a tidal diver is peerless at detecting prey underwater and delivering killing blows. He can notice other creatures by scent in a 180-foot radius underwater and can detect blood in the water up to a mile away. As a standard action, he can make a single attack against a favored enemy at his full attack bonus while underwater. If the attack hits, the target takes damage normally and must succeed at a Fortitude save or die. The DC of this save is equal to 10 + half the ranger’s level + the ranger’s Wisdom modifier. A tidal diver can instead deal an additional amount of nonlethal damage equal to the creature’s current hit points. A successful save negates this damage. A tidal diver can use this ability once per day against each of his favored enemy types but not against the same creature more than once in a 24-hour period.
+
+This ability replaces master hunter.

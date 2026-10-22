@@ -560,6 +560,7 @@ Psychics gain access to the following spells. Spells without a link come from ot
 - **[Resilient Sphere](resilient-sphere.md)**: Force globe protects but traps one subject.
 - **[Riding Possession](riding-possession.md)**: As possession, but you observe instead of control the subject.
 - **[Rigor Mortis](rigor-mortis.md)**: Painfully swell a target’s joints.
+- **[Rising Water](rising-water.md)**: Conjures a cylinder of calm, swimmable water.
 - **[Scrying](scrying.md)**: Spies on subject from a distance.
 - **[Sending](sending.md)**: Delivers short message anywhere, instantly.
 - **[Shadow Step](shadow-step.md)**: Teleport from one shadow to another.

@@ -266,6 +266,28 @@ The influence of the chain-wielding devils of pain, the kytons, taints your bloo
 
 **Kyton Immunities (Su)**: At 20th level, you gain immunity to cold and DR 10/good and silver. You have this benefit constantly, even when not bloodraging.
 
+## Salamander
+
+Salamanders are fierce warriors and master smiths, and you wield their might and mastery of metal by birthright. The bloodlines of the serpentine natives of the Plane of Fire known as salamanders occasionally mingle with those of mortals.
+
+**Bonus Feats**: Cleave, Improved Grapple, Improved Iron Will, Iron Will, Power Attack, Skill Focus (Perception), Toughness.
+
+**Bonus Spells**: *Lead blades* (7th), *make whole* (10th), *versatile weapon* (13th), *fire shield* (warm only) (16th).
+
+**Bloodline Powers**: When you bloodrage, you gain the form and flame of the salamander and the following powers.
+
+**Serpent’s Tail (Su)**: At 1st level, your legs twist together into a slithering serpentine tail. Your speed is reduced by 10 feet (to a minimum of 5 feet), and you can’t be tripped. Your footwear melds into your body and is nonfunctional unless it provides a constant bonus and does not need to be activated. You also gain a tail slap natural attack that deals 1d6 points of damage (1d4 if you are Small) + your Strength modifier. At 4th level, your speed is no longer reduced by 10 feet. At 8th level, your tail slap’s damage increases to 1d8 (1d6 if you are Small) + your Strength modifier. At 12th level, your reach with your tail slap increases by 5 feet.
+
+**Salamander Scales (Ex)**: At 4th level, you gain fire resistance 5 and a +1 natural armor bonus to AC. At 8th level, your fire resistance increases to 10 and your natural armor bonus increases to +2. At 16th level, your fire resistance increases to 20 and your natural armor bonus increases to +3.
+
+**Bloodsmith (Su)**: At 8th level, when entering a bloodrage, you can choose one manufactured weapon you wield, shield you wield, or piece of armor you wear to gain the benefit of *greater magic weapon* (weapon) or *magic vestment* (shield or armor). The caster level of this effect is equal to your bloodrager level, and its effects end when your bloodrage ends or when you no longer wear or wield the weapon, shield, or armor.
+
+**Scorching Heat (Su)**: At 12th level, your weapons conduct heat. You deal 1d6 additional points of fire damage with natural weapons and melee attacks made with metal weapons. You also deal 2d6 points of fire damage per round to any creature you grapple. This does not damage your equipment.
+
+**Master Bloodsmith (Su)**: At 16th level, you can affect up to two items simultaneously with your bloodsmith bloodline power. At 20th level, you can affect up to three items.
+
+**Essence of Fire (Ex)**: At 20th level, you become immune to fire damage. In addition, your bloodrager damage reduction increases by 5. If you don’t have bloodrager damage reduction, you gain DR 10/magic instead. You have these benefits constantly, even while you are not bloodraging.
+
 ## Undead
 
 The foul corruption of undeath is a part of you. Somewhere in the past, death became infused with your lineage. Your connection to the attributes of the undead bestows frightening power when your bloodrage.

@@ -99,3 +99,5 @@ The following text is the property of Wizards of the Coast, Inc. and is Copyrigh
     Pathfinder Player Companion: Monster Hunter’s Handbook © 2017, Paizo Inc.; Authors: Eric Hindley, Mikko Kallio, Luis Loza, and Christopher Wasko.
 
     Pathfinder Player Companion: Spymaster’s Handbook © 2016, Paizo Inc.; Authors: Alexander Augunas, David N. Ross, and Owen K.C. Stephens.
+
+    Pathfinder Player Companion: Elemental Master’s Handbook © 2017, Paizo Inc.; Authors: John Compton, Eleanor Ferron, Mikko Kallio, Jason Keeley, Isabelle Lee, and Christopher Wasko.

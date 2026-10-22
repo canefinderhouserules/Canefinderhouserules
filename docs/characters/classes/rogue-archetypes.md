@@ -691,3 +691,27 @@ The pet performance ability otherwise functions identically to bardic performanc
 **Sneak Attack (Ex)**: A carnivalist gains this ability starting at 2nd level. The sneak attack damage dealt is 1d6 at 2nd level, and increases by 1d6 every 4 carnivalist levels thereafter. A carnivalist's familiar can also deal sneak attack damage as appropriate to foes as long as it is within 30 feet of her (though only Small and larger creatures may flank enemies, as usual). This ability alters sneak attack.
 
 **Animal Trainer (Ex)**: Starting at 3rd level, a carnivalist receives a bonus equal to 1/2 her rogue level whenever she uses Handle Animal on a Tiny or Small animal. In addition, she can increase the DC by 5 to reduce the time needed to teach an animal a new trick or train an animal for a general purpose to 1 day for every week normally required. She can also train more than one animal at once, although each animal after the first adds 2 to the DC. This ability replaces trap sense.
+
+## Earthshadow
+
+Dwarves have long practiced a mystic lore they call earthcraft. It has been passed down through the generations, and its practitioners are called earthshadows. While many earthshadows are dwarves, their secrets have been shared with a worthy few members of other races over the ages.
+
+**Earthlink (Su)**: The earth grants an earthshadow swiftness and hones her senses. When an earthshadow is in direct contact with an expanse of natural earth or unworked stone that is at least as large as she is, she adds half her rogue level (minimum 1) to Acrobatics and Perception checks.
+
+This replaces trapfinding.
+
+**Earthcraft (Su)**: At 2nd level, an earthshadow can draw upon the power of earth to perform mystical tricks. At the start of each day, an earthshadow gains a pool of earthcraft points equal to half her rogue level plus her Wisdom modifier, and she can spend earthcraft points to use certain spell-like abilities. The caster level of these spell-like abilities is equal to the earthshadow’s rogue level. Earthcraft effects affect only the earthshadow, even if the spell could normally affect others. She can spend 1 earthcraft point to cast *blend*, even if she is not an elf, but this ability works only in areas of natural earth or unworked stone.
+
+At 4th level, an earthshadow can spend 2 earthcraft points to cast *meld into stone*.
+
+At 8th level, an earthshadow can spend 3 earthcraft points to cast *dimension door*. She must be able to see her destination (or she must be able to otherwise sense its surface, such as with tremorsense), and her current location must be connected to her destination by continuous natural earth or unworked stone.
+
+At 12th level, an earthshadow can spend 5 earthcraft points to cast the spell *stone tell* but can communicate only with unworked stone.
+
+At 16th level, an earthshadow can spend 6 earthcraft points to cast *statue*.
+
+This ability replaces evasion and the rogue talents gained at 4th, 8th, 12th, and 16th levels.
+
+**Rogue Talents**: The following rogue talents complement the earthshadow archetype: extra earthcraft, favored terrain, fortified position, major magic, minor magic, resiliency, and trap spotter.
+
+**Advanced Talents**: The following advanced rogue talents complement the earthshadow archetype: against the wall, dispelling attack, hide in plain sight, slippery mind, and stony skin.

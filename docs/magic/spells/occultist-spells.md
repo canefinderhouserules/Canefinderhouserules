@@ -459,6 +459,7 @@ Occultists gain access to the following spells, determined by their chosen imple
 - **[Life Bubble](life-bubble.md)**: Protects creatures from sustained environmental effects.
 - Nondetection, Communal
 - **[Peacebond, Greater](peacebond-greater.md)**: As *peacebond*, but on multiple weapons, even if they aren’t sheathed.
+- **[Rising Water](rising-water.md)**: Conjures a cylinder of calm, swimmable water.
 - **[Soothe Construct](soothe-construct.md)**: Reduce the berserk chance of a construct.
 - **[Spell Immunity](spell-immunity.md)**: Subject is immune to one spell per 4 levels.
 - **[Stoneskin](stoneskin.md)**: Grants DR 10/adamantine.

@@ -320,6 +320,26 @@ You release your power in a diffuse cloud. You can center this 20-foot-radius sp
 
 You create a circular rush of wind. All creatures and objects within a 20-foot-radius burst centered on you take half your blast’s normal amount of damage. The saving throw DC is Dexterity-based.
 
+### Dampening Infusion
+
+**Element** void; **Type** substance infusion; **Level** 1; **Burn** 1
+
+**Associated Blasts** negative, void
+
+**Saving Throw** Will negates
+
+Your kinetic blast swirls with darkness, making it harder for your foes to see. This otherwise functions as dazzling infusion.
+
+### Dazzling Infusion
+
+**Element** fire or wood; **Type** substance infusion; **Level** 1; **Burn** 1
+
+**Associated Blasts** blue flame, fire, plasma, positive, verdant
+
+**Saving Throw** Will negates
+
+Your kinetic blast shines brightly, making it harder for your foes to see. If your blast hits a foe (and penetrates spell resistance if applicable), that foe must succeed at a Will save or be dazzled for 1 minute, whether or not it takes damage from the blast. You can reduce the blast’s damage by half to increase the DC of this save by 2.
+
 ### Deadly Earth
 
 **Element** earth; **Type** form infusion; **Level** 6; **Burn** 4
@@ -351,6 +371,16 @@ You can use force to rip your targets apart. Against creatures, your kinetic bla
 **Saving Throw** Fortitude partial; see text
 
 You can drain elemental energy and matter from your foes to strengthen your next attack. When you use this infusion, your kinetic blast affects only creatures with a subtype matching your kinetic blast’s element (for instance, a fire blast would damage only creatures of the fire subtype). Against such creatures, your blast targets touch AC (if it requires an attack roll) and always allows spell resistance. Because you are draining energy from the target, your blast doesn’t apply your elemental overflow bonuses or Constitution modifier. The target can attempt a Fortitude save to take 1/4 the normal amount of damage. Draining infusion ignores any damage reduction, resistances, and immunities the creature might possess. If at least one creature fails its saving throw against your draining infusion, you can reduce the total burn cost of any one blast wild talent used before the end of your next turn by 1, or by 2 if you have the supercharge ability. If you use draining infusion again before applying this reduction, you still deal the damage from that draining infusion, but the burn reductions don’t stack.
+
+### Energize Weapon
+
+**Element** air, fire, void, or water; **Type** form infusion; **Level** 1; **Burn** 1
+
+**Associated Blasts** blue flame, cold, electric, fire, negative
+
+**Saving Throw** none
+
+Choose a manufactured weapon in your hand (not an unarmed strike or natural attack); if the weapon is a double weapon, you must choose one of its ends to receive this benefit. You imbue the chosen weapon with your elemental energy as part of an attack action, charge action, or full-attack action to add extra damage to each of your attacks with that weapon until the beginning of your next turn. Your attacks with the chosen weapon during that action deal 1d6 additional points of damage. At 7th level and every 6 levels thereafter, this bonus damage increases by 1d6 points. Blue flame blasts deal double this additional damage. The additional damage is of the same type as the infused blast’s damage. This additional damage ignores spell resistance and doesn’t apply any modifiers to your kinetic blast’s damage (such as your Constitution modifier).
 
 ### Entangling Infusion
 
@@ -566,6 +596,16 @@ You send an elemental mass, energy ball, or object into a particular square with
 
 You can have only a single mobile blast in existence at a time. If the mobile blast’s total burn cost before applying any reduction for gather power is 0, it has no maximum duration. Otherwise, it lasts for a maximum number of rounds equal to your Constitution modifier, and afterward you can’t create another mobile blast for a number of minutes equal to the number of rounds it existed. A mobile blast is always extremely loud and visible. The saving throw DC is Dexterity-based.
 
+### Penetrating Infusion
+
+**Element** air, fire, or water; **Type** substance infusion; **Level** 2; **Burn** 2
+
+**Associated Blasts** blue flame, cold, electric, fire
+
+**Saving Throw** none
+
+The intensity of your blasts allows you to break through your foes’ resistances. Treat your foe’s cold, electricity, or fire resistance as if it were 5 lower for the purpose of determining the infused blast’s damage; this doesn’t stack with the reduction from searing flame. You can increase the burn cost of this infusion to further reduce the foe’s resistance against the infused blast by 5 per additional point of burn accepted. This has no effect on creatures with immunity.
+
 ### Pure-flame Infusion
 
 **Element** fire; **Type** substance infusion; **Level** 7; **Burn** 4
@@ -618,6 +658,16 @@ You can control the properties of metal, allowing your metal blast to bypass dam
 
 You have fine control over your kinetic blast, allowing you to alter its path to avoid obstacles. You can trace out any path no more than 120 feet long for your blast, potentially allowing you to avoid cover (even total cover). You can choose a path that leads into squares you cannot see.
 
+### Spindle
+
+**Element** universal; **Type** form infusion; **Level** 2; **Burn** 2
+
+**Associated Blasts** any
+
+**Saving Throw** Reflex negates (see text)
+
+You throw a long, roughly 5-foot-by-10-foot spindle of elemental matter or energy (or nearby unattended objects in the case of telekineticists) up to 30 feet away, damaging all creatures and objects within any two adjacent 5-foot squares unless they succeed at a Reflex save. An energy blast infused with spindle deals its normal damage to each target, while a physical blast infused with spindle deals half its normal damage to each target. The saving throw DC is Dexterity-based.
+
 ### Spray
 
 **Element** water; **Type** form infusion; **Level** 4; **Burn** 3
@@ -648,6 +698,16 @@ Your lightning brings with it a peal of thunder. Whenever your infused blast hit
 
 A torrent of energy buffets or burns all foes in a 30-foot line, dealing half your normal amount of blast damage (or full damage for energy blasts). The saving throw DC is Dexterity-based.
 
+### Unnerving Infusion
+
+**Element** void; **Type** substance infusion; **Level** 3; **Burn** 2
+
+**Associated Blasts** negative, void
+
+**Saving Throw** Will negates
+
+Your kinetic blast sends the fear of oblivion into your foes. Whenever an infused blast deals negative energy damage to a living foe, it is shaken for 1 round. This shaken condition doesn’t stack with itself.
+
 ### Unraveling Infusion
 
 **Element** fire; **Type** substance infusion; **Level** 5; **Burn** 3
@@ -657,6 +717,18 @@ A torrent of energy buffets or burns all foes in a 30-foot line, dealing half yo
 **Saving Throw** none
 
 Your kinetic blast burns so hot that it melts away your foe’s magical effects. Whenever your infused blast hits a foe and penetrates its spell resistance, you can attempt a caster level check as if using a targeted dispel magic before determining whether the foe takes damage from the blast. You can choose to reduce the blast’s damage by half to increase your bonus on the caster level check by 2. If you don’t choose a specific spell effect to attempt to dispel, you automatically attempt to dispel effects that would protect the target from fire damage before other spells.
+
+### Vampiric Infusion
+
+**Element** void; **Type** substance infusion; **Level** 5; **Burn** 3
+
+**Prerequisite** void healer
+
+**Associated Blasts** negative, void
+
+**Saving Throw** none
+
+Your kinetic blast can drain your foes’ vitality to replenish your own. If your blast hits (or the enemy fails its saving throw against a blast without an attack roll), you can activate the void healer utility wild talent on yourself by accepting its burn cost; you don’t need to take an action to do so. The void healer utility wild talent heals you when used in this way even if you are a living creature.
 
 ### Wall
 
@@ -927,6 +999,38 @@ You are able to suspend your body in a large mass of elemental matter. Until the
 **Saving Throw** none; **Spell Resistance** yes
 
 With a touch, you can heal a willing living creature of an amount of damage equal to your kinetic blast’s damage. Instead of paying the burn cost yourself, you can cause the recipient to take 1 point of burn. If you do so, the recipient takes 1 point of nonlethal damage per Hit Die he possesses, as usual for burn; this damage can’t be healed by any means until the recipient takes a full night’s rest.
+
+### Magnetism
+
+**Element** air or earth; **Type** utility (Sp); **Level** 3; **Burn** 0
+
+**Prerequisite** magnetic infusion
+
+**Saving Throw** none; **Spell Resistance** yes
+
+You can push and pull metal objects using magnetism. This functions as telekinetic maneuver but you can make only bull rush and drag combat maneuvers, and can do so only against metal objects or creatures. If you use this ability on an attended metal object, you must exceed the creature’s CMD as normal, and if it’s holding the object, it must drop it or this ability pushes or pulls the creature.
+
+### Magnetism, Greater
+
+**Element** air or earth; **Type** utility (Sp); **Level** 9; **Burn** 0
+
+**Prerequisites** magnetic infusion, magnetism
+
+**Saving Throw** none; **Spell Resistance** no
+
+You can repel or attract metal objects in a vast line with a magnetism so strong that there is no hope of escaping. This functions as *repel metal or stone*, except only for metal objects, and you can also pull the objects toward you instead of pushing them away. The effect lasts for 1 round, and the pulling version of the effect can’t pull objects into the air unless they are already airborne. You can accept 1 point of burn to increase the duration to 1 round per kineticist level you have.
+
+### Pillar
+
+**Element** earth, water, or wood; **Type** utility (Sp); **Level** 3; **Burn** 0
+
+**Prerequisite** kinetic cover
+
+You create a 5-foot-by-5-foot pillar of ice, packed dirt, or tangled roots with a height of up to 15 feet. This takes 1 full round, during which time the ground within the affected area rumbles conspicuously, but it rises only at the end of the round. You can’t create a pillar in an area occupied by or adjacent to any creatures unless all such creatures are willing, and if an unwilling creature moves into the area before the pillar finishes rising, it can disrupt and foil the pillar. As the pillar springs into existence, willing creatures and objects within the affected area are lifted with it.
+
+The pillar can’t be used to crush creatures or objects against the ceiling; if insufficient room is available for the pillar and any creatures or objects on it, the pillar reaches only the maximum possible height. You can’t create a pillar under a Large or larger creature.
+
+The pillar has AC 4, hardness 0, and 3 hit points per kineticist level. Scaling the pillar’s rough edges requires a successful DC 15 Climb check. When destroyed, when you create a new pillar, or when a number of rounds equal to your Constitution bonus (minimum 1) have elapsed, the pillar crumbles, melts, or withers away, gently lowering anything on it back to the ground.
 
 ### Reverse Shift
 

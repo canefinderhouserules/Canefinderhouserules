@@ -116,6 +116,7 @@ Spiritualists gain access to the following spells. Spells without a link come fr
 - **[Sense Fear](sense-fear.md)**: Perceive nearby creatures that are experiencing fear.
 - **[Shifted Steps](shifted-steps.md)**: Make a target sound as if elsewhere.
 - **[Spectral Hand](spectral-hand.md)**: Creates disembodied glowing hand to deliver touch attacks.
+- **[Spindrift Spritz](spindrift-spritz.md)**: Ally rerolls a save against fatigue, shaken, sickened, or staggered.
 - **[Spiritual Weapon](spiritual-weapon.md)**: Magic weapon attacks on its own.
 - **[Status](status.md)**: Monitors condition, position of allies.
 - **[Stricken Heart](stricken-heart.md)**: Touch attack deals 346 damage and staggers target.
@@ -255,6 +256,7 @@ Spiritualists gain access to the following spells. Spells without a link come fr
 - **[Solid Fog](solid-fog.md)**: Blocks vision and slows movement.
 - **[Speak with Haunt](speak-with-haunt.md)**: Haunt answers one question/2 levels.
 - **[Spell Immunity](spell-immunity.md)**: Subject is immune to one spell per 4 levels.
+- **[Spindrift Spritz, Mass](spindrift-spritz-mass.md)**: As spindrift spritz, affecting multiple creatures.
 - **[Spiritual Ally](spiritual-ally.md)**: Creates a divine ally to aid you.
 - **[Summon Monster IV](summon-monster-iv.md)**: (Evil creatures only.) Summons extraplanar creature to fight for you.
 - Telekinetic Charge

@@ -238,6 +238,8 @@ The two copies act independently and each one has a full set of actions. At the 
 
 **Glimmering Infusion (Sp)**: The alchemist can expend any prepared extract to produce a cube of glowing motes that act as per *glitterdust*. The area must be adjacent to the alchemist and covers one 5-foot square per level of extract sacrificed, and the effect’s save DC is calculated using the level of the sacrificed extract. The alchemist must have the infusion discovery to choose this discovery.
 
+**Elemental Destabilizers (Su)**: The alchemist is able to concoct reactive chemical compounds that affect elementals like poisons. The alchemist can craft poisons that affect only outsiders with the elemental subtype, bypassing their inherent immunity. Magical effects that negate poisons still apply. If a creature fails its saving throw, the poison acts as normal, but it may have no effect on the creature depending on the effect of the poison (such as dealing fire damage to a fire elemental). An alchemist must be at least 8th level before selecting this discovery.
+
 ## Inspired Chemist
 
 Akin to a mindchemist, inspired chemists use a type of cognatogen that instead of increasing their mental ability scores grants them inspiration like an investigator. This inspiration also grants an inspired chemist amazing powers to avoid danger, but takes a toll on both physical power and health.
@@ -708,3 +710,29 @@ This ability replaces Brew Potion, though an oozemaster can still select Brew Po
 This replaces poison resistance and poison immunity.
 
 **Discoveries**: The following discoveries complement the oozemaster archetype: bottled ooze, ooze blight, and splitting mutagen.
+
+## Energy Scientist
+
+Energy scientists fervently prepare themselves to overcome exposure to specific elemental hazards so that they can traverse the Elemental Planes in search of novel discoveries and reagents.
+
+**Class Skills**: An energy scientist adds Knowledge (planes) and Swim to his class skills.
+
+This alters the alchemist’s class skills.
+
+**Energy Bombs (Su)**: Whenever an energy scientist regains his daily uses of bombs, he must attune to one element and its corresponding energy type: air (electricity), earth (acid), fire (fire), or water (cold). The energy scientist’s bombs deal the type of energy damage that corresponds to his attuned element until he regains his daily uses of bombs, at which point he must attune to one element again. If the energy scientist uses a discovery that changes his bomb’s damage type to one that is different from that of his attuned element (such as using the acid bomb discovery when the alchemist is attuned to fire), instead of its normal amount of damage, the bomb deals 1d4 points of damage, plus 1d4 for every odd-numbered alchemist level.
+
+This ability causes the explosive bomb and inferno bomb discoveries to change the bomb’s damage type to fire if the alchemist is not attuned to fire.
+
+This ability alters bombs and replaces brew potion.
+
+**Limited Extracts (Ex)**: An energy scientist reduces his extracts per day by 1 for each extract level he can create, and he cannot prepare extracts with an elemental or energy descriptor that doesn’t match his attuned element.
+
+This ability alters alchemy.
+
+**Attuned Resistance (Ex)**: At 2nd level, an energy scientist gains a +2 bonus on all saving throws against effects with descriptors that match his currently attuned element or its corresponding energy type, or that deal his currently attuned element’s corresponding energy damage. This bonus increases to +3 at 5th level and to +4 at 8th level. At 10th level, an energy scientist gains the effect of *planar adaptation* for the Elemental Plane tied to his currently attuned element.
+
+This ability replaces poison resistance and poison immunity.
+
+**Salvage Energy (Ex)**: At 2nd level, an energy scientist can siphon power from slain elementals into temporary alchemical weapons. While studying the remains of an elemental that has been dead for no longer than 1 minute per alchemist level, he can attempt a Craft (alchemy) check (DC = 20 + the elemental’s CR) as a standard action. Success means the alchemist produces a number of canisters of alchemist’s fire (from fire and magma elementals), bottled lightning (from air and lightning elementals), deadground dust (from earth and mud elementals; see [Elemental Alchemical Items](../../equipment/gear-emh.md)), or liquid ice (from water and ice elementals) equal to half the elemental’s CR, rounded down. These items cannot be sold and become inert after 24 hours. At 6th level, the save DCs of the items produced increase by 2.
+
+This ability replaces poison use and swift poisoning.

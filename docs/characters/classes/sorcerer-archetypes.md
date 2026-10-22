@@ -168,6 +168,30 @@ Activating this ability is a swift action. You gain a +5 bonus on one Bluff chec
 
 **Outsider (Su)**: At 20th level, your natural form becomes an animal-headed humanoid, like a true rakshasa. This does not affect your ability to speak or cast spells. You can use your alter self or other disguise and polymorph abilities to assume your original form or other forms when it suits you. You are forevermore treated as a native outsider rather than as a humanoid (or whatever your original type was) for the purpose of spells and other magical effects. Unlike other outsiders, you can still be brought back from the dead as if you were a member of your previous creature type. You gain DR 10/piercing.
 
+### Salamander
+
+You are descended from the elemental outsiders known as salamanders. You wield flame as a weapon and a tool, and your smithing skills are unrivaled.
+
+**Class Skill**: Acrobatics.
+
+**Bonus Spells**: *Magic weapon* (3rd), *molten orb* (5th), *magic vestment* (7th), *fire shield* (warm shield) (9th), *fire snake* (11th), *tar pool* (13th), *firebrand* (15th), *wall of lava* (17th), *meteor swarm* (19th).
+
+**Bonus Feats**: Cleave, Craft Wondrous Item, Iron Will, Power Attack, Prodigy, Skill Focus (Acrobatics), Skill Focus (Perception), Toughness.
+
+**Bloodline Arcana**: The DCs of your sorcerer spells increase by 2 against creatures that are suffering ongoing fire damage.
+
+**Bloodline Powers**: Your salamander blood gives you great skill at crafting, even as it reshapes your form.
+
+**Ember (Su)**: At 1st level, when making a Craft check involving metal, you can expend any number of uses of this ability (up to half your sorcerer level, minimum one use) to gain a circumstance bonus on the check equal to twice the number of uses expended. You can use this ability a number of times per day equal to 3 + your Charisma modifier.
+
+**Forge and Fire (Su)**: At 3rd level, you gain Craft Magic Arms and Armor as a bonus feat. In addition, whenever you cast a nonpermanent, noninstantaneous spell that improves or enhances a manufactured weapon, you can also give that weapon the *flaming* special ability for the spell’s duration. (This has no effect if the weapon already has the *flaming* special ability.)
+
+**Serpent’s Tail (Su)**: At 9th level, you can transform your legs into a slithering serpentine tail as a free action. Your speed is reduced by 10 feet (to a minimum of 5 feet), and you can’t be tripped. Your footwear melds into your body and is nonfunctional unless it provides a constant bonus and does not need to be activated. You also gain a tail slap natural attack that deals 1d8 points of damage (1d6 if you are Small) + your Strength modifier. At 15th level, your reach with your tail slap increases by 5 feet. These effects last a number of minutes per day equal to your sorcerer level; the duration does not need to be consecutive, but it must be used in 1-minute increments.
+
+**Searing Heat (Su)**: At 15th level, your body becomes as hot as a salamander’s. You deal 1d6 additional points of fire damage with natural weapons and melee attacks made with metal weapons. In addition, you deal 2d6 points of fire damage per round to any creature you grapple. This heat does not damage your equipment. You can activate or deactivate this effect as a free action.
+
+**Reforged Flesh (Ex)**: At 20th level, you become immune to fire damage and gain DR 10/adamantine and magic.
+
 ### Shaitan
 
 You were born with the power of earth genies, and the magic of the shaitans is strong in you.

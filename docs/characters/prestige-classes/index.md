@@ -28,6 +28,8 @@ The prestige classes presented in this chapter are summarized below.
 
 **[Battle Herald](battle-herald.md)**: A veteran whose masterful tactics and air of command inspire allies to greater feats of heroism.
 
+**[Genie Binder](genie-binder.md)**: A conjurer who seals and commands genies, either as an eidolon-like minion or as a source of spellcasting power.
+
 **[Holy Vindicator](holy-vindicator.md)**: A pious warrior who spreads religion at the edge of a sword.
 
 **[Horizon Walker](horizon-walker.md)**: A scout and wanderer comfortable in even the strangest terrain.

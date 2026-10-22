@@ -685,3 +685,23 @@ A body contains many points where the flesh, mind, and spirit coincide. A monk o
 **Debilitating Blows (Ex)**: A monk of the mantis's knowledge of anatomy allows her to deal blows that both deal damage and impose debilitating conditions. At 7th level, if a monk of the mantis stuns a target with Stunning Fist, the target is also entangled for 1 round after the Stunning Fist effect ends. At 11th level, if the monk of the mantis stuns a target with Stunning Fist, the target is also exhausted for 1 round after the Stunning Fist effect ends. At 13th level, the monk can spend 1 point from her ki pool as part of her Stunning Fist attack to increase the duration of these additional effects to a number of rounds equal to her Wisdom bonus (minimum 2 rounds). This ability replaces wholeness of body, diamond body, and diamond soul. (For the unchained monk, this ability is gained at 6th level, improves at 10th and 12th levels, and replaces the ki powers gained at those levels.)
 
 **Disabling Palm (Su)**: At 15th level, a monk of the mantis can render the target of her quivering palm unconscious instead of killing the creature. Upon failing its Fortitude saving throw, the target either is knocked unconscious for a number of minutes equal to the monk of the mantis's monk level or dies (the monk of the mantis's choice). This alters quivering palm. (For the unchained monk, this ability applies only if the monk selects the quivering palm ki power.)
+
+## Windstep Master
+
+Most monks are agile and fleet of foot, but few can rival a windstep master’s lightness of step. Windstep masters train in mountaintop monasteries and other holy houses dedicated to the wind. Unchained monks can also take this archetype.
+
+**Hurricane Punch (Ex)**: At 1st level, a windstep master gains [Hurricane Punch](../../rules/feats/hurricane-punch.md) as a bonus feat, even if he does not meet the prerequisites. While using this feat, he doesn’t provoke an attack of opportunity, even if he doesn’t have the Improved Bull Rush feat.
+
+At 4th level, while using the Hurricane Punch feat, the windstep master can bull rush a target up to two size categories larger. At 12th level, the windstep master’s target can be up to three size categories larger. At 20th level, the target can be of any size category.
+
+At 8th level, when the windstep master uses the Hurricane Punch feat to successfully bull rush a creature, he can push the creature back an additional 5 feet. At 16th level, he can push the creature back an additional 10 feet.
+
+This ability replaces stunning fist.
+
+**Wind Step (Su)**: At 4th level, the windstep master’s steps become supernaturally light. As a move action, he can use *air walk* (as per the spell) up to a distance equal to his fast movement bonus. He must reach a solid, level surface able to support his weight by the end of his turn or he falls.
+
+This ability replaces slow fall or the ki power gained at 4th level for an unchained monk.
+
+**Swift Ki (Su)**: At 4th level, the windstep master can spend 1 point from his ki pool as a swift action to sustain his wind step for 1 minute. During this time, the windstep master can remain airborne even if he doesn’t reach a solid surface. He can also spend 1 point from his ki pool as a swift action to increase his wind step distance by 20 feet for 1 round. The windstep master does not gain the ability to spend ki to increase his base speed by 20 feet for 1 round.
+
+This ability alters ki pool.

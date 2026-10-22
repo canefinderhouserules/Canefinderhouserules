@@ -45,6 +45,10 @@ A blissful spell gains the good descriptor, and the additional effect is a mind-
 
 Whenever a bouncing spell targeting a single creature has no effect on its intended target (whether due to spell resistance or a successful saving throw) you may, as a swift action, redirect it to target another eligible creature within range. The redirected spell behaves in all ways as if its new target were the original target for the spell. Spells that affect a target in any way (including a lesser effect from a successful saving throw) may not be redirected in this manner.
 
+**Brackish Spell +0 \[Trait\]**
+
+You can conjure a seawater orb to protect yourself. This feat can be applied only to spells with the water descriptor. You can modify the spell to surround you with a thin sheath of brackish salt water in addition to the spell’s normal effect. You gain DR/piercing equal to the spell’s level for 1 round after you finish casting the spell. After this round, the water collapses into a briny puddle and the effect ends.
+
 **Brisk Spell +0 \[Trait\]**
 
 You can alter spells that grant a creature a movement type it doesn’t normally have to increase the speed for that movement type by 10 feet.
