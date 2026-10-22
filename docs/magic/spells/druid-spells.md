@@ -535,3 +535,23 @@ New spells from the *Advanced Player's Guide*. An M or F after a name marks a ma
 - **[Tsunami](tsunami.md)**: Huge wave damages and sweeps up all in its path.
 - **[Winds of Vengeance](winds-of-vengeance.md)**: You can fly and attack with wind.
 - **[World Wave](world-wave.md)**: Earth or water moves you across distances and damages things not of the natural world.
+
+## Mythic Adventures Spells
+
+New spells from *Mythic Adventures*. These spells affect the mythic rules or mythic creatures. See [Mythic Spells](../mythic-spells/index.md).
+
+### 3rd-Level Druid Spells
+
+- **[Share Glory](share-glory.md)**: Targets count as mythic creatures.
+
+### 5th-Level Druid Spells
+
+- **[Lend Path](lend-path.md)**: Transfer a mythic path ability to another creature.
+
+### 6th-Level Druid Spells
+
+- **[Terraform](terraform.md)**: Alters terrain and climate of an area.
+
+### 9th-Level Druid Spells
+
+- **[Ascension](ascension.md)**: Grants 1st tier in a mythic path to creatures.

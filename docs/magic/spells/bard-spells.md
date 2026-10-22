@@ -515,3 +515,19 @@ New spells from the *Advanced Player's Guide*. An M or F after a name marks a ma
 - **[Fool's Forbiddance](fools-forbiddance.md)**: Confuses enemies who come within a magical emanation centered on you.
 - **[Getaway](getaway.md)**: Teleports a group of predetermined allies and creatures to a predetermined location.
 - **[Pied Piping](pied-piping.md)**: Compel similar creatures to follow you.
+
+## Mythic Adventures Spells
+
+New spells from *Mythic Adventures*. These spells affect the mythic rules or mythic creatures. See [Mythic Spells](../mythic-spells/index.md).
+
+### 2nd-Level Bard Spells
+
+- **[Share Glory](share-glory.md)**: Targets count as mythic creatures.
+
+### 3rd-Level Bard Spells
+
+- **[Restore Mythic Power](restore-mythic-power.md)**: Spend 3 mythic power to restore 1 use to a mythic creature.
+
+### 4th-Level Bard Spells
+
+- **[Lend Path](lend-path.md)**: Transfer a mythic path ability to another creature.

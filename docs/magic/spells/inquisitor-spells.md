@@ -254,3 +254,15 @@ New spells from the *Advanced Player's Guide*. An M or F after a name marks a ma
 
 - **[Cleanse](cleanse.md)**: As heal, but only cures 4d8 damage +1/level (max +25).
 - **[Fester, Mass](fester-mass.md)**: As fester, but affecting multiple targets.
+
+## Mythic Adventures Spells
+
+New spells from *Mythic Adventures*. These spells affect the mythic rules or mythic creatures. See [Mythic Spells](../mythic-spells/index.md).
+
+### 3rd-Level Inquisitor Spells
+
+- **[Mythic Severance](mythic-severance.md)**: Target must save to use mythic power.
+
+### 4th-Level Inquisitor Spells
+
+- **[Deathless](deathless.md)**: Target cannot die from hit point damage.

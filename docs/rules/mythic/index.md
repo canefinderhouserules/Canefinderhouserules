@@ -18,7 +18,7 @@ If mythic power will instead be a central theme of the entire campaign, each PC 
 
 The moment a character gains her first mythic tier is called the moment of ascension (or simply ascension) and is usually concurrent with an extraordinary event. Generally speaking, the GM determines this event, which has many implications on the story of the character. Ascension determines the source of a mythic character's power, and though this doesn't affect the types of abilities she gains, it can influence future choices and roleplaying decisions.
 
-The GM is free to invent any sort of event to serve as the moment of ascension, as required by the needs of the campaign. Chapter 4 includes more information for GMs to consider when designing the moment of ascension. The following ideas represent some of the most common means of ascension.
+The GM is free to invent any sort of event to serve as the moment of ascension, as required by the needs of the campaign. [Running a Mythic Game](running-a-mythic-game.md) includes more information for GMs to consider when designing the moment of ascension. The following ideas represent some of the most common means of ascension.
 
 **Artifact**: The character comes into contact with an unstable artifact that unleashes some of its power into her, granting her mythic power. The mythic character might need to protect the artifact, as it is the source of her power.
 

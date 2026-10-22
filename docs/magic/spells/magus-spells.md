@@ -145,3 +145,11 @@ The magus class spell list appears on the [Magus](../../characters/classes/magus
 - **[Triggered Hallucination](triggered-hallucination.md)**: As *scripted hallucination*, but it only appears when triggered.
 - **[Undead Anatomy III](undead-anatomy-iii.md)**: Take the form and some of the powers of a Diminutive or Huge undead.
 - **[Walk Through Space](walk-through-space.md)**: You can spend a move action to teleport 30 feet or to stand while prone without provoking attacks of opportunity.
+
+## Mythic Adventures Spells
+
+New spells from *Mythic Adventures*. These spells affect the mythic rules or mythic creatures. See [Mythic Spells](../mythic-spells/index.md).
+
+### 4th-Level Magus Spells
+
+- **[Lend Path](lend-path.md)**: Transfer a mythic path ability to another creature.

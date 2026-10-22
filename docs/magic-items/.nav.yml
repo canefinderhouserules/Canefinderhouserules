@@ -7,6 +7,7 @@ nav:
   - Armor and Shields (UE): armor-ue.md
   - Armor and Shields (UI): armor-ui.md
   - Armor and Shields (HA): armor-ha.md
+  - Armor and Shields (MA): armor-ma.md
   - Specific Armors and Shields: armor-specific.md
   - Weapons: weapons.md
   - Weapons (APG): weapons-apg.md
@@ -15,6 +16,7 @@ nav:
   - Weapons (UE): weapons-ue.md
   - Weapons (UI): weapons-ui.md
   - Weapons (HA): weapons-ha.md
+  - Weapons (MA): weapons-ma.md
   - Firearm Magic Items (UC): firearm-items.md
   - Specific Weapons: weapons-specific.md
   - Racial Items (ARG): racial-items-arg.md
@@ -26,11 +28,13 @@ nav:
   - Rings (UE): rings-ue.md
   - Rings (UI): rings-ui.md
   - Rings (HA): rings-ha.md
+  - Rings (MA): rings-ma.md
   - Rods: rods.md
   - Rods (APG): rods-apg.md
   - Rods (ACG): rods-acg.md
   - Rods (OA): rods-oa.md
   - Rods (UE): rods-ue.md
+  - Rods (MA): rods-ma.md
   - Scrolls: scrolls.md
   - Scrolls (OA): scrolls-oa.md
   - Staves: staves.md
@@ -47,6 +51,7 @@ nav:
   - Wondrous Items (UW): wondrous-items-uw.md
   - Wondrous Items (UI): wondrous-items-ui.md
   - Wondrous Items (HA): wondrous-items-ha.md
+  - Wondrous Items (MA): wondrous-items-ma.md
   - Wondrous Items (UE): wondrous-items-ue
   - Magic Plants (UW): magic-plants.md
   - Intelligent Items: intelligent-items.md
@@ -61,4 +66,5 @@ nav:
   - Artifacts (OA): artifacts-oa.md
   - Artifacts (UE): artifacts-ue.md
   - Artifacts (HA): artifacts-ha.md
+  - Artifacts (MA): artifacts-ma.md
   - Creating Magic Items: creating-magic-items.md

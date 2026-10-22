@@ -156,3 +156,15 @@ New spells from the *Advanced Player's Guide*. An M or F after a name marks a ma
 ### 6th-Level Summoner Spells
 
 - **[Planar Adaptation, Mass](planar-adaptation-mass.md)**: As planar adaptation, but affects multiple creatures.
+
+## Mythic Adventures Spells
+
+New spells from *Mythic Adventures*. These spells affect the mythic rules or mythic creatures. See [Mythic Spells](../mythic-spells/index.md).
+
+### 2nd-Level Summoner Spells
+
+- **[Share Glory](share-glory.md)**: Targets count as mythic creatures.
+
+### 4th-Level Summoner Spells
+
+- **[Lend Path](lend-path.md)**: Transfer a mythic path ability to another creature.

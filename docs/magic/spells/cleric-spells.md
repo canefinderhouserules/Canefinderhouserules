@@ -604,3 +604,31 @@ New spells from the *Advanced Player's Guide*. An M or F after a name marks a ma
 ### 9th-Level Cleric Spells
 
 - **[Winds of Vengeance](winds-of-vengeance.md)**: Grants flight; attack with wind.
+
+## Mythic Adventures Spells
+
+New spells from *Mythic Adventures*. These spells affect the mythic rules or mythic creatures. See [Mythic Spells](../mythic-spells/index.md).
+
+### 3rd-Level Cleric Spells
+
+- **[Bleed Glory](bleed-glory.md)**: Mythic target pays 1 more mythic power for everything.
+- **[Restore Mythic Power](restore-mythic-power.md)**: Spend 3 mythic power to restore 1 use to a mythic creature.
+- **[Share Glory](share-glory.md)**: Targets count as mythic creatures.
+
+### 4th-Level Cleric Spells
+
+- **[Deathless](deathless.md)**: Target cannot die from hit point damage.
+- **[Mythic Severance](mythic-severance.md)**: Target must save to use mythic power.
+
+### 5th-Level Cleric Spells
+
+- **[Lend Path](lend-path.md)**: Transfer a mythic path ability to another creature.
+- **[Steal Power](steal-power.md)**: Mythic target loses 1d4 uses of mythic power.
+
+### 7th-Level Cleric Spells
+
+- **[Terraform](terraform.md)**: Alters terrain and climate of an area.
+
+### 9th-Level Cleric Spells
+
+- **[Ascension](ascension.md)**: Grants 1st tier in a mythic path to creatures.

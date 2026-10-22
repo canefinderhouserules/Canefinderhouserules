@@ -187,3 +187,11 @@ New spells from the *Advanced Player's Guide*. An M or F after a name marks a ma
 ### 6th-Level Alchemist Spells
 
 - **[Twin Form](twin-form.md)**: Creates controllable duplicate of you.
+
+## Mythic Adventures Spells
+
+New spells from *Mythic Adventures*. These spells affect the mythic rules or mythic creatures. See [Mythic Spells](../mythic-spells/index.md).
+
+### 4th-Level Alchemist Spells
+
+- **[Deathless](deathless.md)**: Target cannot die from hit point damage.
