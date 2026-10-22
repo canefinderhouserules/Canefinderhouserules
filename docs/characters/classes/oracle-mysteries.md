@@ -308,6 +308,40 @@ The pebble has a range increment of 20 feet and has a +1 enhancement bonus to at
 
 **Final Revelation**: Upon reaching 20th level, you become a master of acid and earth. You can apply any one of the following feats to any acid or earth spell without increasing the level or casting time: Enlarge Spell, Extend Spell, Silent Spell, or Still Spell.
 
+## Succor Mystery
+
+**Class Skills**: An oracle with the succor mystery adds Handle Animal, Knowledge (nature), and Survival to her list of class skills.
+
+**Bonus Spells**: *Ray of enfeeblement* (2nd), *shield of fortification* (4th), *coordinated effort* (6th), *greater shield of fortification* (8th), *stoneskin* (10th), *greater heroism* (12th), *expend* (14th), *greater spellcrash* (16th), *wall of suppression* (18th).
+
+**Revelations**: An oracle with the succor mystery can choose from any of the following revelations.
+
+**Combat Healer (Su)**: As per the battle mystery revelation of the same name.
+
+**Curse of Dampening (Su)**: You diminish one target within 30 feet as a standard action, making its attacks weaker. Whenever the target would roll to deal damage with an attack or spell, it deals the minimum amount of damage. This curse lasts for 1 round per 2 oracle levels you have (minimum 1). A successful Will saving throw negates this effect. This is a mind-affecting curse effect. You can use this revelation once per day, plus one additional time at 11th level and 15th level. You must be at least 7th level before selecting this revelation.
+
+**Enhanced Cures (Su)**: As per the life oracle mystery revelation of the same name.
+
+**Enhanced Inflictions (Su)**: You recognize that harming your enemies is sometimes the only way to help your allies, and so your wrath is particularly fierce. Whenever you cast an inflict spell (a spell with the word “inflict” in the name), the maximum amount of damage dealt by the spell is based on your oracle level, not the limit based on the spell. For example, an 11th-level oracle of succor with this revelation can cast *inflict light wounds* to deal 1d8+11 points of damage instead of the normal 1d8+5 maximum.
+
+**Perfect Aid (Ex)**: You can effortlessly give aid to your allies, whether that means providing them with help attacking or defending them in the heat of combat. You gain Bodyguard as a bonus feat, and whenever you use the aid another action to provide a bonus on attack rolls or to AC to one of your allies, the bonus you provide increases by 1. This bonus increases by 1 at 4th level and every 5 oracle levels thereafter (to a maximum of +5 at 19th level). It doesn’t stack with other feats or class features that improve the bonus you provide when using the aid another action. This revelation also counts as the Combat Expertise feat, but only for the purpose of meeting the prerequisites of the Swift Aid feat and any feat that lists Swift Aid as a prerequisite.
+
+**Pitiful Foe (Su)**: You can temporarily curse one target within 30 feet as a standard action, making it pitiful and ineffective in battle. While this ability is in effect, the target is never considered to be threatening you or your allies, even if it is armed and you or your allies are standing in a square into which it can make a melee attack. If the target rolls a natural 20 on an attack roll or saving throw, the attack or saving throw is not an automatic success (as would be normal) and whether it is successful is instead determined normally. Additionally, the target automatically fails all rolls to confirm critical hits. This curse lasts for 1 round per 2 oracle levels you have (minimum 1). A successful Will saving throw negates this effect. This is a mind-affecting curse effect. You can use this revelation once per day, plus one additional time at 7th and 15th levels.
+
+**Shell of Succor (Su)**: You can surround an ally with bolstering energies that supplement its health and grant it extra vigor. With a touch from you (a standard action), one creature gains a ward of restorative energy, granting it a number of temporary hit points equal to your Charisma bonus + 1d6 per 2 oracle levels you have (maximum 10d6). These temporary hit points last 1 minute per oracle level you have.
+
+The target always loses these temporary hit points first, even before other temporary hit points (including those from, for example, the *purify body* spell or a kineticist’s force ward defense wild talent). If an attack deals fewer points of damage than the target has as temporary hit points from shell of succor, it still reduces those temporary hit points but otherwise counts as a miss for the purpose of abilities that trigger on a hit or a miss.
+
+You can use this revelation once per day, plus one additional time at 11th and 19th levels. You must be at least 3rd level before selecting this revelation.
+
+**Soul Siphon (Su)**: As per the bones oracle mystery revelation of the same name.
+
+**Spirit Boost (Su)**: As per the life oracle mystery revelation of the same name.
+
+**Teamwork Mastery (Ex, Sp)**: You are an immaculate team player and can distribute your team-based insights to your allies with a touch. This revelation grants you a bonus teamwork feat. You must meet the teamwork feat’s prerequisites, if any. Additionally, you can touch an ally as a standard action to confer upon it the benefits of any one teamwork feat that you have. This effect persists for a number of rounds equal to 1/2 your oracle level (minimum 1). You can confer the benefits of a teamwork feat you have a number of times per day equal to 3 + your Charisma modifier.
+
+**Final Revelation**: You become a beacon of aid and assistance to your allies and those you deem worthy of receiving your succoring magical benefits. You can apply any one of the following metamagic feats to any spell you cast that targets one or more of your allies without increasing the level or casting time: Enlarge Spell, Extend Spell, Silent Spell, or Still Spell. You do not need to have these feats to use this ability, and you can use this ability any number of times per day on any spell that can be affected by the listed metamagic feats.
+
 ## Waves Mystery
 
 **Typical deities**: a god of nature, the sea, and weather; a goddess of birth, death, fate, and prophecy.

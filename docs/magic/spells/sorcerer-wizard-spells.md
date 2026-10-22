@@ -73,9 +73,11 @@
 - **[Fabricate Disguise](fabricate-disguise.md)**: Create a disguise in an instant.
 - **[Grappling Scarf](grappling-scarf.md)**: Your scarf becomes a grappling hook and rope.
 - **[Grasping Corpse](grasping-corpse.md)**: Cause a corpse to grab or trip a foe.
+- **[Guardian Armor](guardian-armor.md)**: Teleports your armor onto an ally.
 - **[Handy Grapnel](handy-grapnel.md)**: Transform a ropelike object into a retracting grapple.
 - **[Hide Weapon](hide-weapon.md)**: Meld a weapon into your arm.
 - **[Hold Portal](hold-portal.md)**: Holds door shut.
+- **[Identity Validation](identity-validation.md)**: Confirm a creature’s identity from a sample.
 - **[Illusion of Calm](illusion-of-calm.md)**: You appear to be standing still, even when you take some actions.
 - **[Jury-Rig](jury-rig.md)**: Removes the broken condition from the targeted object.
 - **[Liberating Command](liberating-command.md)**: Target makes an Escape Artist check as an immediate action and gains a bonus on it.
@@ -198,12 +200,14 @@
 - **[Commune with Birds](commune-with-birds.md)**: You utter a question in the form of a low-pitched bird call that can be heard up to a mile away, and can.
 - **[Compulsive Liar](compulsive-liar.md)**: Prevent target from speaking the truth.
 - **[Contact Entity I](contact-entity-i.md)**: Ask eldritch entities to find and converse with you.
+- **[Corpse Lanterns](corpse-lanterns.md)**: Dancing lights that hinder Stealth.
 - **[Curse Terrain, Lesser](curse-terrain-lesser.md)**: Curse an area with three mild hazards.
 - **[Dark Whispers](dark-whispers.md)**: Whisper through the shadows.
 - **[Death From Below](death-from-below.md)**: School abjuration; Level bard 3, sorcerer/wizard 2 Casting Time 1 standard action Components V, S Range touch.
 - **[Demand Offering](demand-offering.md)**: Make a creature give you an object it’s holding.
 - **[Destabilize Powder](destabilize-powder.md)**: Ammunition in the targeted firearm is prone to misfire.
 - **[Detect Magic, Greater](detect-magic-greater.md)**: As *detect magic*, but learn more information.
+- **[Determine Depth](determine-depth.md)**: Learn the exact thickness of a wall or barrier.
 - **[Diminish Resistance](diminish-resistance.md)**: Weaken a creature’s resistance to one energy type.
 - **[Disrupt Link](disrupt-link.md)**: Sever the link between a creature and her companion or familiar.
 - **[Dress Corpse](dress-corpse.md)**: Doctor the evidence on a corpse.
@@ -224,6 +228,7 @@
 - **[Kinetic Reverberation](kinetic-reverberation.md)**: Channels the force of an enemy’s attack back into its weapon.
 - **[Know Peerage](know-peerage.md)**: Target uses your Knowledge (nobility) ranks.
 - **[Languid Venom](languid-venom.md)**: Delay a poison’s onset and hide its presence.
+- **[Lipstitch](lipstitch.md)**: Sew the target’s lips shut.
 - **[Magic Siege Engine](magic-siege-engine.md)**: Siege engine gains +1 on targeting and damage rolls.
 - **[Merge with Familiar](merge-with-familiar.md)**: Merge the body of your familiar or spirit animal into your own.
 - **[Mount, Communal](mount-communal.md)**: As mount, but you may divide the duration among creatures touched.
@@ -270,6 +275,7 @@
 - **[Telekinetic Assembly](telekinetic-assembly.md)**
 - **[Thunder Fire](thunder-fire.md)**: Ammunition in the targeted firearm deafens opponents.
 - **[Touch of Mercy](touch-of-mercy.md)**: Target deals only nonlethal damage with weapon attacks.
+- **[Trapfinder’s Focus](trapfinders-focus.md)**: Gain trapfinding or +5 on Disable Device.
 - **[Twisted Space](twisted-space.md)**: Targeted creature’s attacks target a random square instead of the intended target.
 - **[Vine Strike](vine-strike.md)**: Enhance one of your natural or unarmed attacks with thorny vine growth.
 - **[Warding Weapon](warding-weapon.md)**
@@ -362,6 +368,7 @@
 - **[Detect Anxieties](detect-anxieties.md)**: Learn what makes creatures anxious.
 - **[Detect Desires](detect-desires.md)**: Learn what creatures desire.
 - **[Detect Mindscape](detect-mindscape.md)**: Sense the presence and attributes of mindscapes.
+- **[Discern Value](discern-value.md)**: Reveals which objects in a cone are most valuable.
 - **[Dispel Magic](dispel-magic.md)**: Cancels one magical spell or effect.
 - **[Earth Tremor](earth-tremor.md)**: Unleash a tremor that creates difficult terrain and can knock foes down and damage them.
 - **[Ectoplasmic Snare](ectoplasmic-snare.md)**: Tendril of ectoplasm grapples a creature and tethers you to it.
@@ -371,6 +378,7 @@
 - **[Fire Trail](fire-trail.md)**: When you cast this spell, flammable liquid oozes from your pores, dripping onto the ground and spontaneously.
 - **[Firestream](firestream.md)**: A rushing stream of fire sprays from your outstretched hand, dealing 2d6 points of fire damage to every.
 - **[Flash Fire](flash-fire.md)**: Ammunition in the targeted firearm creates a tremendous flash capable of blinding the weapon’s bearer and those around him.
+- **[Gilded Whispers](gilded-whispers.md)**: Use a coin as a scrying target.
 - **[Gloomblind Bolts](gloomblind-bolts.md)**: You create one or more bolts of negative energy infused with shadow pulled from the Shadow Plane.
 - **[Grasping Tentacles](grasping-tentacles.md)**: As black tentacles, but they perform dirty tricks.
 - **[Guarding Knowledge](guarding-knowledge.md)**: +4 insight bonus on saves against one identified monster special attack.
@@ -416,6 +424,7 @@
 - **[Sleet Storm](sleet-storm.md)**: Hampers vision and movement.
 - **[Spider Climb, Communal](spider-climb-communal.md)**: As spider climb, but you may divide the duration among creatures touched.
 - **[Stinking Cloud](stinking-cloud.md)**: Nauseating vapors, 1 round/level.
+- **[Stolen Light](stolen-light.md)**: Store an image within a gem.
 - **[Summon Monster III](summon-monster-iii.md)**: Summons extraplanar creature to fight for you.
 
 **Divination**
@@ -441,6 +450,7 @@
 - **[Tiny Hut](tiny-hut.md)**: Creates shelter for 10 creatures.
 - **[Touch Injection](touch-injection.md)**: You can deliver an infusion, elixir, poison, or potion as a touch attack.
 - **[Toxic Rupture](toxic-rupture.md)**: A poisonous creature is poisoned by its own venom.
+- **[Twisted Innards](twisted-innards.md)**: Crits and sneak attacks may fail.
 - **[Urban Step](urban-step.md)**: Step into one doorway and out another.
 - **[Voluminous Vocabulary](voluminous-vocabulary.md)**: Grant ability to speak, read, and write one or more languages for 8 hours.
 - **[Wall of Mist](wall-of-mist.md)**: Wall of fog granting concealment and hindering movement.
@@ -485,13 +495,16 @@
 - **[Animal Aspect, Greater](animal-aspect-greater.md)**: As animal aspect, but you gain two animal qualities.
 - **[Assume Appearance, Greater](assume-appearance-greater.md)**: Use a likeness to adopt a dead creature’s form.
 - **[Aura of the Unremarkable](aura-of-the-unremarkable.md)**: Make actions seem mundane to nearby creatures.
+- **[Bite the Hand](bite-the-hand.md)**: Summoned creature attacks its summoner.
 - **[Blast of Wind](blast-of-wind.md)**: Gust of wind that treats creatures as one size smaller.
 - **[Claim Identity](claim-identity.md)**: Steal a touched humanoid’s face and identity.
 - **[Cloud Shape](cloud-shape.md)**: This spell functions like gaseous form, except you assume the shape of a Colossal cloud with a space of 30.
 - **[Complex Hallucination](complex-hallucination.md)**: Create a phantasm with effects for all senses.
 - **[Conjuration Foil](conjuration-foil.md)**: Interfere with nearby teleportation effects.
+- **[Conjure Deadfall](conjure-deadfall.md)**: Drop a spiked metal block on creatures below.
 - **[Contingent Venom](contingent-venom.md)**: As *languid venom*, but with a triggering condition.
 - **[Controlled Fireball](controlled-fireball.md)**: As *fireball,* but secretly deals less damage to your allies.
+- **[Create Holds](create-holds.md)**: Creates a path of climbing handholds on a wall.
 - **[Curse Terrain](curse-terrain.md)**: Curse an area with four hazards.
 - **[Deadman’s Contingency](deadmans-contingency.md)**: Set one of a list of contingencies for your demise.
 - **[Demanding Message](demanding-message.md)**: Send messages as per *message* with a *suggestion* for one creature.
@@ -535,6 +548,7 @@
 - **[Quieting Weapons](quieting-weapons.md)**: Weapons make no sound and quiet their victims.
 - **[Remove Curse](remove-curse.md)**: Frees object or person from curse.
 - **[Resilient Reservoir](resilient-reservoir.md)**: School transmutation; Level magus 3, paladin 3, sorcerer/wizard 4, witch 4 Casting Time 1 standard action.
+- **[Revenant Armor](revenant-armor.md)**: Armor animates around its fallen wearer.
 - **[Riding Possession](riding-possession.md)**: As possession, but you observe instead of control the subject.
 - **[Rigor Mortis](rigor-mortis.md)**: Painfully swell a target’s joints.
 - **[Rising Water](rising-water.md)**: Conjures a cylinder of calm, swimmable water.
@@ -581,6 +595,7 @@
 - **[Thaumaturgic Circle](thaumaturgic-circle.md)**: As magic circle, but affecting a nonalignment subtype or outsider race.
 - **[Tongues, Communal](tongues-communal.md)**: As tongues, but you may divide the duration among creatures touched.
 - **[Trade Items](trade-items.md)**: Swap a focus object with a target object.
+- **[Trap Ward](trap-ward.md)**: Counter the next magical trap that affects you.
 - **[Vicarious View](vicarious-view.md)**: Plant a scrying sensor that you can use to spy on a creature, object, or location.
 - **[Vomit Twin](vomit-twin.md)**: Upon casting this spell, you vomit forth a disgusting ooze copy of yourself into a single adjacent square.
 - **[Wall of Fire](wall-of-fire.md)**: Deals 2d4 fire damage out to 10 ft. and 1d4 out to 20 ft. Passing through wall deals 2d6 damage + 1/level.
@@ -620,6 +635,7 @@
 
 - **[Absorb Toxicity](absorb-toxicity.md)**: You become immune to diseases and toxins, absorb one, and then spread it to others.
 - **[Angelic Aspect](angelic-aspect.md)**: Gain wings, resistances and DR 5/evil.
+- **[Befuddled Combatant](befuddled-combatant.md)**: Reduces a target’s ability DCs by 4 and its damage to minimum.
 - **[Break Enchantment](break-enchantment.md)**: Frees subjects from enchantments, transmutations, and curses.
 - **[Callback, Greater](callback-greater.md)**: Teleport a familiar or spirit animal from miles away to your side when it is injured.
 - **[Charm Person, Mass](charm-person-mass.md)**: As *charm person*, but affects multiple creatures within 30 ft.
@@ -666,6 +682,7 @@
 - **[Red Hand of the Killer](red-hand-of-the-killer.md)**: Stain the hand of a creature’s killer red.
 - **[Scripted Hallucination](scripted-hallucination.md)**: As *complex hallucination*, but without concentration.
 - **[Secret Chest](secret-chest.md)**: Hides expensive chest on Ethereal Plane; you retrieve it at will.
+- **[Sequester Thoughts](sequester-thoughts.md)**: Store a creature’s memories in a gem.
 - **[Shapechanger’s Gift](shapechangers-gift.md)**: Temporarily change a target into an animal, humanoid, or monstrous humanoid.
 - **[Sleepwalking Suggestion](sleepwalking-suggestion.md)**: Cause a creature to perform a suggested action while asleep.
 - **[Slough](slough.md)**: Slough off a target’s skin.
@@ -858,6 +875,7 @@
 - **[Archon’s Trumpet](archons-trumpet.md)**: Paralyze creatures in a cone with a booming report.
 - **[Awaken Construct](awaken-construct.md)**
 - **[Banishment](banishment.md)**: Banishes 2 HD/level of extraplanar creatures.
+- **[Bite the Hand, Mass](bite-the-hand-mass.md)**: As bite the hand, multiple targets.
 - **[Contact Entity IV](contact-entity-iv.md)**: Ask extraordinarily powerful eldritch entities to find and converse with you, or they may reply telepathically.
 - **[Create Mindscape, Greater](create-mindscape-greater.md)**: As create mindscape, but affecting more creatures, having a longer duration, and allowing magic alteration.
 - **[Crime Wave](crime-wave.md)**: Compel targets to commit criminal actions.

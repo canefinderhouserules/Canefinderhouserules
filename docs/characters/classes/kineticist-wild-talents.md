@@ -1000,6 +1000,24 @@ You are able to suspend your body in a large mass of elemental matter. Until the
 
 With a touch, you can heal a willing living creature of an amount of damage equal to your kinetic blast’s damage. Instead of paying the burn cost yourself, you can cause the recipient to take 1 point of burn. If you do so, the recipient takes 1 point of nonlethal damage per Hit Die he possesses, as usual for burn; this damage can’t be healed by any means until the recipient takes a full night’s rest.
 
+### Kinetic Restoration
+
+**Element** universal; **Type** utility (Su); **Level** 3; **Burn** 1
+
+You recover from 1d4 points of ability score damage to one of your physical ability scores (Strength, Dexterity, or Constitution). This also eliminates any fatigue that you suffer, and improves an exhaustion condition to fatigued.
+
+If you have the kinetic healer utility wild talent, you can use both kinetic restoration and kinetic healer on the same target with one standard action.
+
+### Kinetic Revivification
+
+**Element** aether or water; **Type** utility (Su); **Level** 6; **Burn** —
+
+**Prerequisite** kinetic healer
+
+You can bring an ally who died within 1 round back from the dead with your kinetic healer wild talent similarly to the *breath of life* spell, except the ally regains the normal number of hit points from the kinetic healer utility wild talent instead of the amount healed by *breath of life*. An ally revived in this way takes 1 point of burn + any points of burn from the kinetic healer utility wild talent (if you choose to have the ally take points of burn instead of taking it yourself).
+
+If you have the metahealer ability (such as from the kinetic chirurgeon kineticist archetype), this talent instead allows you to bring an ally back who died within a number of rounds equal to 3 + the ally’s Constitution modifier (minimum 0) – the number of points of burn the ally had taken before it died. For each round that the ally was dead, when it is brought back to life in this way, it takes 1 additional point of burn + any points of burn from the kinetic healer talent.
+
 ### Magnetism
 
 **Element** air or earth; **Type** utility (Sp); **Level** 3; **Burn** 0

@@ -15,11 +15,13 @@ New inquisitor spells from *Ultimate Magic*. Spells from other books will be add
 - **[Forbid Action](forbid-action.md)**: Target obeys command to not do something.
 - **[Forced Quiet](forced-quiet.md)**: Target cannot make loud noises.
 - **[Grappling Scarf](grappling-scarf.md)**: Your scarf becomes a grappling hook and rope.
+- **[Guardian Armor](guardian-armor.md)**: Teleports your armor onto an ally.
 - **[Handy Grapnel](handy-grapnel.md)**: Transform a ropelike object into a retracting grapple.
 - **[Hedging Weapons](hedging-weapons.md)**: Floating weapons protect you and make ranged attacks.
 - **[Hex Ward](hex-ward.md)**: Target gains +4 on saves against witch hexes.
 - **[Hide Weapon](hide-weapon.md)**: Meld a weapon into your arm.
 - **[Horn of Pursuit](horn-of-pursuit.md)**: Create three notes heard miles away.
+- **[Identity Validation](identity-validation.md)**: Confirm a creature’s identity from a sample.
 - **[Interrogation](interrogation.md)**: Target answers questions or suffers pain.
 - **[Know the Enemy](know-the-enemy.md)**: Gain +10 on a monster Knowledge check.
 - **[Lend Judgment](lend-judgment.md)**: Ally gains the benefit of one judgment.
@@ -34,6 +36,7 @@ New inquisitor spells from *Ultimate Magic*. Spells from other books will be add
 - **[Recharge Innate Magic](recharge-innate-magic.md)**: You channel magic energy into your own aura, recharging your innate magic abilities.
 - **[Returning Weapon](returning-weapon.md)**: Grants a weapon the returning special weapon quality.
 - **[Sanctify Corpse](sanctify-corpse.md)**: Prevent a corpse from becoming an undead.
+- **[Stalwart Resolve](stalwart-resolve.md)**: Ignore ability damage to one score.
 - **[Theft Ward](theft-ward.md)**: You ward a single object in your possession against theft.
 - **[Touch of Combustion](touch-of-combustion.md)**: Your successful melee touch attack causes the target to ignite in a violent burst of flame, dealing 1d6.
 - **[Unerring Weapon](unerring-weapon.md)**: Grants a +2 bonus, +1 per four caster levels, on attack rolls to confirm a critical hit.
@@ -73,6 +76,7 @@ New inquisitor spells from *Ultimate Magic*. Spells from other books will be add
 - **[Ghost Whip](ghost-whip.md)**: Create a ghost touch whip that passes through objects.
 - **[Ghostly Disguise](ghostly-disguise.md)**: You look like a ghost of yourself.
 - **[Guarding Knowledge](guarding-knowledge.md)**: +4 insight bonus on saves against one identified monster special attack.
+- **[Healing Token](healing-token.md)**: Holy symbols let allies request healing at a distance.
 - **[Hidden Presence](hidden-presence.md)**: Prevent creatures from noticing your presence.
 - **[Howling Agony](howling-agony.md)**: Screaming pain limits the target’s actions.
 - **[Huntmaster’s Spear](huntmasters-spear.md)**: Spear becomes a +1 weapon against a chosen favored-enemy type and can be discharged for a powerful attack.
@@ -98,8 +102,10 @@ New inquisitor spells from *Ultimate Magic*. Spells from other books will be add
 - **[Sense Madness](sense-madness.md)**: Determine mental disturbances in nearby creatures.
 - **[Shamefully Overdressed](shamefully-overdressed.md)**: Force target to remove equipment.
 - **[Shared Suffering](shared-suffering.md)**: Take damage to deal the same damage to a distant target.
+- **[Shield of Shards](shield-of-shards.md)**: Your shield breaks into orbiting shards that attack.
 - **[Shifted Steps](shifted-steps.md)**: Make a target sound as if elsewhere.
 - **[Spindrift Spritz](spindrift-spritz.md)**: Ally rerolls a save against fatigue, shaken, sickened, or staggered.
+- **[Spiritual Squire](spiritual-squire.md)**: A force servant helps carry, aid, and armor allies.
 - **[Surmount Affliction](surmount-affliction.md)**: Temporarily suppress one condition.
 - **[Tactical Acumen](tactical-acumen.md)**: You gain an additional +1 on attack rolls or to AC due to battlefield positioning.
 - **[Voluminous Vocabulary](voluminous-vocabulary.md)**: Grant ability to speak, read, and write one or more languages for 8 hours.
@@ -108,6 +114,7 @@ New inquisitor spells from *Ultimate Magic*. Spells from other books will be add
 
 - **[Agonizing Rebuke](agonizing-rebuke.md)**: Component V, S Range close (25 ft.
 - **[Battle Trance](battle-trance.md)**: 3, witch 4 Casting Time 1 standard action Components V, S Range personal Target you Duration 1 minute/level.
+- **[Bite the Hand](bite-the-hand.md)**: Summoned creature attacks its summoner.
 - **[Blessing of the Mole](blessing-of-the-mole.md)**: 1 ally/level gains darkvision and a +2 Stealth bonus.
 - **[Blinding Ray](blinding-ray.md)**: School evocation [good, light]; Level cleric 2, inquisitor 3, paladin 2 Casting Time 1 standard action.
 - **[Blood Scent](blood-scent.md)**: School transmutation; Level alchemist 3, antipaladin 2, cleric 3, druid 3, inquisitor 3, ranger 2.
@@ -158,6 +165,7 @@ New inquisitor spells from *Ultimate Magic*. Spells from other books will be add
 - **[Find Quarry](find-quarry.md)**: You can sense whether a particular creature is within 20 miles of your location.
 - **[Fleshworm Infestation](fleshworm-infestation.md)**: Worms deal hp and Dex damage.
 - **[Glimpse of Truth](glimpse-of-truth.md)**: Gain *true seeing* for 1 round.
+- **[Healing Flames](healing-flames.md)**: Holy flames heal good creatures and burn evil ones.
 - **[Healing Warmth](healing-warmth.md)**: This spell grants you temporary immunity to fire damage as protection from energy.
 - **[Hollow Heroism](hollow-heroism.md)**: Provide a *heroism* effect that you can reverse at any time.
 - **[Interrogation, Greater](interrogation-greater.md)**: As interrogation, except with more pain and more questions. Leashed Shackles : Target is restricted to a specific location.
@@ -200,7 +208,10 @@ New inquisitor spells from *Ultimate Magic*. Spells from other books will be add
 
 ## 6th-Level Inquisitor Spells
 
+- **[Balance of Suffering](balance-of-suffering.md)**: Drain one creature to heal another.
+- **[Bite the Hand, Mass](bite-the-hand-mass.md)**: As bite the hand, multiple targets.
 - **[Cruel Jaunt](cruel-jaunt.md)**: Sense creatures suffering from fear, then teleport close to them.
+- **[Inspiring Recovery](inspiring-recovery.md)**: Heals and can revive a creature dead for 1 round, rallying its allies.
 - **[Litany of Madness](litany-of-madness.md)**: A single target is confused for at least 1 round.
 - **[Named Bullet, Greater](named-bullet-greater.md)**: As named bullet, but deals 2 points of damage per caster level.
 - **[Neutralize Poison, Greater](neutralize-poison-greater.md)**: As neutralize poison, but it also reverses poison damage.

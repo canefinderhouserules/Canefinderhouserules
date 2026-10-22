@@ -42,6 +42,7 @@
 - **[Endure Elements](endure-elements.md)**: Exist comfortably in hot or cold regions.
 - **[Entropic Shield](entropic-shield.md)**: Ranged attacks against you have 20% miss chance.
 - **[Grasping Corpse](grasping-corpse.md)**: Cause a corpse to grab or trip a foe.
+- **[Guardian Armor](guardian-armor.md)**: Teleports your armor onto an ally.
 - **[Hedging Weapons](hedging-weapons.md)**: Floating weapons protect you and make ranged attacks.
 - **[Hidden Spring](hidden-spring.md)**: Discover a temporary spring of fresh, flowing water.
 - **[Hide from Undead](hide-from-undead.md)**: Undead can’t perceive one subject/level.
@@ -117,6 +118,7 @@
 - **[Gentle Repose](gentle-repose.md)**: Preserves one corpse.
 - **[Ghost Whip](ghost-whip.md)**: Create a ghost touch whip that passes through objects.
 - **[Groundswell](groundswell.md)**: School transmutation [earth]; Level cleric 2, druid 2, magus 2, ranger 2 Casting Time 1 standard action.
+- **[Healing Token](healing-token.md)**: Holy symbols let allies request healing at a distance.
 - **[Hold Person](hold-person.md)**: Paralyzes one humanoid for 1 round/level.
 - **[Imbue with Elemental Might](imbue-with-elemental-might.md)**: School evocation [see text]; Level cleric 2, magus 2, sorcerer/wizard 2 Components V, S Duration 24 hours or.
 - **[Inflict Moderate Wounds](inflict-moderate-wounds.md)**: Touch attack, 2d8 damage + 1/level (max +10).
@@ -145,12 +147,15 @@
 - **[Sense Madness](sense-madness.md)**: Determine mental disturbances in nearby creatures.
 - **[Sentry Skull](sentry-skull.md)**: You restore the senses to the severed head of a humanoid or monstrous humanoid killed within the past 24.
 - **[Shatter](shatter.md)**: Sonic vibration damages objects or crystalline creatures.
+- **[Shield of Shards](shield-of-shards.md)**: Your shield breaks into orbiting shards that attack.
 - **[Shield Other](shield-other.md)**: You take half of subject’s damage.
 - **[Silence](silence.md)**: Negates sound in 20-ft. radius.
 - **[Solidify Earth](solidify-earth.md)**: Packs earth tight, hindering burrowing creatures.
 - **[Sound Burst](sound-burst.md)**: Deals 1d8 sonic damage to subjects; may stun them.
 - **[Spindrift Spritz](spindrift-spritz.md)**: Ally rerolls a save against fatigue, shaken, sickened, or staggered.
+- **[Spiritual Squire](spiritual-squire.md)**: A force servant helps carry, aid, and armor allies.
 - **[Spiritual Weapon](spiritual-weapon.md)**: Magic weapon attacks on its own.
+- **[Stalwart Resolve](stalwart-resolve.md)**: Ignore ability damage to one score.
 - **[Status](status.md)**: Monitors condition, position of allies.
 - **[Stave Off Corruption](stave-off-corruption.md)**: Protect against a corruption’s progression.
 - **[Summon Monster II](summon-monster-ii.md)**: Summons extraplanar creature to fight for you.
@@ -177,6 +182,7 @@
 - **[Contagious Zeal](contagious-zeal.md)**: Grant bonuses and temporary hit points that spread from creature to creature.
 - **[Continual Flame](continual-flame.md)**: Makes a permanent, heatless light.
 - **[Create Food and Water](create-food-and-water.md)**: Feeds three humans (or one horse)/level.
+- **[Curative Distillation](curative-distillation.md)**: Heals and grants the benefits of a consumed healing item.
 - **[Cure Serious Wounds](cure-serious-wounds.md)**: Cures 3d8 damage + 1/level (max +15).
 - **[Damnation](damnation.md)**: Punish creatures for evil spells they know or that affect them.
 - **[Daybreak Arrow](daybreak-arrow.md)**: Targeted ammunition exudes radiant energy.
@@ -216,6 +222,7 @@
 - **[Searing Light](searing-light.md)**: Ray deals 1d8/two levels damage (more against undead).
 - **[Second Wind](second-wind.md)**: Heal 2d8 + 1/level when below one-quarter hit points.
 - **[Share Language, Communal](share-language-communal.md)**: As share language, but you may divide the duration among creatures touched.
+- **[Sharesister](sharesister.md)**: Take a negative level to boost an ally’s casting.
 - **[Speak with Dead](speak-with-dead.md)**: Corpse answers one question/two levels.
 - **[Stone Shape](stone-shape.md)**: Sculpts stone into any shape.
 - **[Summon Monster III](summon-monster-iii.md)**: Summons extraplanar creature to fight for you.
@@ -250,7 +257,9 @@
 - **[Flesh Puppet Horde](flesh-puppet-horde.md)**: Control multiple zombies in human guise.
 - **[Freedom of Movement](freedom-of-movement.md)**: Subject moves normally despite impediments to movement.
 - **[Giant Vermin](giant-vermin.md)**: Turns centipedes, scorpions, or spiders into giant vermin.
+- **[Gilded Whispers](gilded-whispers.md)**: Use a coin as a scrying target.
 - **[Glimpse of Truth](glimpse-of-truth.md)**: Gain *true seeing* for 1 round.
+- **[Healing Flames](healing-flames.md)**: Holy flames heal good creatures and burn evil ones.
 - **[Healing Warmth](healing-warmth.md)**: This spell grants you temporary immunity to fire damage as protection from energy.
 - **[Holy Smite](holy-smite.md)**: Harms and possibly blinds evil creatures (1d8 damage/2 levels).
 - **[Hunger for Flesh](hunger-for-flesh.md)**: Give a creature a bite attack and a hunger for its own kind’s flesh.
@@ -258,16 +267,19 @@
 - **[Inflict Critical Wounds](inflict-critical-wounds.md)**: Touch attack, 4d8 damage + 1/level (max +20).
 - **[Magic Weapon, Greater](magic-weapon-greater.md)**: Weapon gains +1 bonus/four levels (max +5).
 - **[Majestic Image](majestic-image.md)**: As *enter image*, but also gain bonuses on social skills while in the image.
+- **[Nature’s Ravages](natures-ravages.md)**: Rapidly decomposes a corpse.
 - **[Neutralize Poison](neutralize-poison.md)**: Immunizes subject against poison, detoxifies venom in or on subject.
 - **[Order’s Wrath](orders-wrath.md)**: Harms and dazes chaotic creatures (1d8 damage/2 levels).
 - **[Planar Ally, Lesser](planar-ally-lesser.md)**: Exchange services with a 6 HD extraplanar creature.
 - **[Poison](poison.md)**: Touch deals 1d3 Con damage 1/round for 6 rounds.
 - **[Poisonous Balm](poisonous-balm.md)**: As *cure serious wounds*, but leave behind a latent venom.
 - **[Protection from Energy, Communal](protection-from-energy-communal.md)**: As protection from energy, but you may divide the duration among creatures touched.
+- **[Purify Body](purify-body.md)**: Heals, grants temporary hit points, and removes pain, ability damage, and conditions.
 - **[Quieting Weapons](quieting-weapons.md)**: Weapons make no sound and quiet their victims.
 - **[Red Hand of the Killer](red-hand-of-the-killer.md)**: Stain the hand of a creature’s killer red.
 - **[Repel Vermin](repel-vermin.md)**: Insects, spiders, and other vermin stay 10 ft. away.
 - **[Restoration](restoration.md)**: Restores level and ability score drains.
+- **[Revenant Armor](revenant-armor.md)**: Armor animates around its fallen wearer.
 - **[Rigor Mortis](rigor-mortis.md)**: Painfully swell a target’s joints.
 - **[Sending](sending.md)**: Delivers short message anywhere, instantly.
 - **[Spell Immunity](spell-immunity.md)**: Subject is immune to one spell per 4 levels.
@@ -343,6 +355,7 @@
 - **[Alleviate Corruption](alleviate-corruption.md)**: Attempt to weaken a corruption’s effect at risk to yourself.
 - **[Animate Objects](animate-objects.md)**: Objects attack your foes.
 - **[Antilife Shell](antilife-shell.md)**: 10-ft.-radius field hedges out living creatures.
+- **[Balance of Suffering](balance-of-suffering.md)**: Drain one creature to heal another.
 - **[Banishment](banishment.md)**: Banishes 2 HD/level of extraplanar creatures.
 - **[Bear’s Endurance, Mass](bears-endurance-mass.md)**: As *bear’s endurance*, affects 1 subject/level.
 - **[Blade Barrier](blade-barrier.md)**: Wall of blades deals 1d6/level damage.
@@ -365,6 +378,7 @@
 - **[Heal](heal.md)**: Cures 10 points/level damage, all diseases and mental conditions.
 - **[Heroes’ Feast](heroes-feast.md)**: Food for one creature/level cures and grants combat bonuses*.*
 - **[Inflict Moderate Wounds, Mass](inflict-moderate-wounds-mass.md)**: Deals 2d8 damage + 1/level, affects 1 subject/level.
+- **[Inspiring Recovery](inspiring-recovery.md)**: Heals and can revive a creature dead for 1 round, rallying its allies.
 - **[Mage’s Decree](mages-decree.md)**: Send a message to creatures within miles.
 - **[Neutralize Poison, Greater](neutralize-poison-greater.md)**: As neutralize poison, but it also reverses poison damage.
 - **[Overwhelming Poison](overwhelming-poison.md)**: Make a poison more difficult to resist.
@@ -429,6 +443,7 @@
 - **[Frightful Aspect](frightful-aspect.md)**: You take on a terrifying, Large-sized form of yourself and emit an aura that causes creatures to become shaken or frightened.
 - **[Holy Aura](holy-aura.md)**: +4 to AC, +4 resistance, and SR 25 against evil spells.
 - **[Inflict Critical Wounds, Mass](inflict-critical-wounds-mass.md)**: Deals 4d8 damage + 1/level, affects 1 subject/level.
+- **[Nature’s Ravages, Greater](natures-ravages-greater.md)**: As nature’s ravages, aging a corpse by years.
 - **[Nine Lives](nine-lives.md)**: School abjuration; Level cleric 8, witch 8 Casting Time 1 standard action Range touch Target one creature.
 - **[Planar Ally, Greater](planar-ally-greater.md)**: As *lesser planar ally,* but up to 18 HD.
 - **[Sacramental Seal](sacramental-seal.md)**: Seal a creature away inside the spell’s focus.

@@ -9,6 +9,14 @@ These traits come from *Ultimate Campaign* and supplement the lists on the other
 
 These traits are associated with combat, battle, and physical prowess. They give minor bonuses in battle and represent conflicts and physical struggles in your backstory.
 
+**Armed Grit**: You make an impression during a standoff. As long as you have a firearm drawn, you gain a +2 trait bonus on saving throws against fear and the DCs of Intimidate checks to demoralize you increase by 2.
+
+**Armored Rider**: You gain a +1 trait bonus on Ride checks, and Ride is a class skill for you. You don’t take an armor check penalty on Ride checks while wearing light or medium armor.
+
+**Armored Soul**: When wearing armor or using a shield, you gain a +1 trait bonus on saving throws against divine spells that deal damage.
+
+**Assassin’s Bleeding**: You witnessed the training of a guild of assassins, either as a child or as an aspirant, and learned to leave bleeding wounds. Whenever you confirm a critical hit with a slashing weapon, you also deal 1 point of bleed damage.
+
 **Axe to Grind**: There is a fire in your heart that can’t be quenched. You gain a +1 trait bonus on damage against foes who are threatened by only you.
 
 **Battlefield Disciple**: You are skilled at supporting your allies in the heat of battle. You gain a +2 trait bonus on Heal checks made to stabilize a dying creature. In addition, when you successfully use the aid another action in combat to grant an ally a bonus on her next attack roll, the bonus you grant increases by 1.
@@ -27,11 +35,19 @@ These traits are associated with combat, battle, and physical prowess. They give
 
 **Cold and Calculating**: You are adept at tricking favored enemies of your race or those related to your race. You gain a +1 trait bonus on all Bluff checks against favored enemies that share one of your subtypes. You also gain a +1 trait bonus on attack rolls made against such favored enemies during the surprise round.
 
+**Crimson Carapace**: A combination of armor and agility protects you from deadly attacks. When wearing light armor and fighting defensively or using Combat Expertise, you receive a +2 trait bonus to your AC against attack rolls to confirm a critical threat.
+
 **Dedicated Defender**: When a companion is down, you fight harder. You gain a +1 trait bonus on attack rolls and on checks made to overcome spell resistance while you are adjacent to a dying or disabled ally, animal companion, eidolon, familiar, or mount.
 
 **Demon Smiter**: You grew up around those who fight demons, and from their stories you learned about the demons’ weaknesses. Once per day when fighting demons, you gain a +4 trait bonus on a single attack roll.
 
+**Devil Fighter**: Learning how devils think helps you resist their trickery. You gain a +1 trait bonus to your AC against attacks made by lawful outsiders.
+
 **Dispelled Battler**: When deprived of magic, you fight harder. You gain a +1 trait bonus on weapon attack and damage rolls while within an area of antimagic such as that created by an *antimagic field*. You also gain this bonus for 1 round after you are subject to an area or targeted *dispel magic* spell, regardless of the effect’s success or failure in dispelling your spells and magical effects.
+
+**Dragon Armor**: Elite warriors in your homeland are trained to deflect energy attacks. Choose an energy type (acid, cold, electricity, fire, or sonic) when you acquire this trait. When you are wearing medium or heavy armor, you gain a +2 trait bonus on Reflex saves against spells and effects of the chosen energy type.
+
+**Dueling Caution**: You learned defensive moves from duelists. You gain an additional +1 dodge bonus to Armor Class while you fight defensively or use the total defense action.
 
 **Easy Way or the Hard Way**: You are skilled at subduing your enemies. Whenever you attack one of your favored enemies with a weapon that deals lethal damage and choose to deal nonlethal damage, you take only a –2 penalty on the attack roll instead of the normal –4.
 
@@ -45,13 +61,19 @@ These traits are associated with combat, battle, and physical prowess. They give
 
 **Hard to Kill**: Your strong will to live and spread good combined with your pure physicality makes you a tough opponent to take down. When you are attempting a Constitution check to stabilize when dying, the penalty on the check is only half your negative hit point total instead of your full negative hit point total.
 
+**Heavy Weapon Performer**: You learned from tribal champions to take advantage of the dramatic swings required by heavy weapons like the earth breaker. You gain a +2 trait bonus on Intimidate checks while wielding a two-handed melee weapon.
+
 **Helpful**: You always know the best way to assist your companions, be it assisting them with a task, defending them in battle, or helping them place a well-aimed strike. When using the aid another action, you grant your ally a +3 bonus instead of a +2 bonus.
 
 **Hidden Hand**: Your concealed weapons strike fast and true. You gain a +1 trait bonus on Sleight of Hand checks made to conceal light weapons and a +1 trait bonus on attack rolls when making an attack with a light weapon during a surprise round.
 
+**Honor-Code Champion**: You draw strength from adhering to a strict honor code in combat. Once per day, if an effect would compel you to harm an ally, abandon an ally, or break your word, you can attempt a Will save at the usual DC to end the effect. If the effect normally allows a Will save at this point, you can roll twice and take the better result.
+
 **Hunter’s Knack**: When you watch and wait before attacking, your strike is true. You gain a +1 trait bonus on attack rolls against your favored enemies when you make such attacks as part of a readied action.
 
 **Indelible Ire**: When you are gravely wounded, you’re stirred to greater combat focus. Each time a critical hit is confirmed against you, you gain a +1 trait bonus on attack rolls for 1 round.
+
+**Jacket Training**: You can treat an armored coat as light armor. This choice must be made when you don the armor, and can’t be changed until you remove and redon the armor. You must still be proficient in wearing medium armor to avoid adding the armor’s check penalty on all attack rolls and skill checks that involve moving.
 
 **Just Like New**: Broken firearms are not problems—they are challenges. Your first attempt to remove the broken condition from your starting firearm and to upgrade it to a masterwork weapon costs 150 gp instead of 300 gp. In addition, when wielding a firearm that has the broken condition or is treated as if it had the broken condition, you take a –1 penalty on attack rolls made with it instead of the normal –2.
 
@@ -59,13 +81,27 @@ These traits are associated with combat, battle, and physical prowess. They give
 
 **Larger Than Life**: You wield firearms with truly terrifying menace. When you use the Intimidate skill on a creature while wielding a firearm, you are considered one size category larger than your actual size.
 
+**Lone Stand**: Choose one type of medium or heavy armor (such as chainmail or half-plate). If you have no allies within 60 feet when you are wearing that type of armor, you gain DR 1/—. This stacks with any one other source of damage resistance you have.
+
 **Martial Performer**: Your training has made you a martial performer. When you gain a monk bonus feat, you may instead take a performance feat for which you meet the prerequisites.
+
+**Mercenary Weapon Flair**: You trained with mercenaries to make optimal use of magic weapons. Whenever you roll a natural 20 (the die shows a “20”) on a combat maneuver check with a magic weapon, you gain a +5 trait bonus on the check.
+
+**Merciful Scimitar**: You learned from redemptive warriors to cut foes with a scimitar without killing them. You can deal nonlethal damage with a scimitar without taking a penalty on your attack rolls.
+
+**Monk Weapon Skill**: Your exposure to teaching from a martial monastic school makes your attacks with monk weapons even more deadly. Select one monk weapon with which you are proficient (unarmed attacks do not qualify for this purpose). You gain a +1 trait bonus on damage rolls with this weapon.
 
 **Nature’s Mimic**: Your knowledge of nature informs your fighting style, and that style gives you insight into related aspects of the natural world. You gain a +1 trait bonus on all Knowledge (nature) checks, and Knowledge (nature) is always a class skill for you. You can make Knowledge (nature) checks pertaining to animals that correspond to your style feats untrained.
 
 **Never Stop Shooting**: Even when the chips are down, you keep on shooting. If your hit point total drops to 0 or lower but you are not dead, you may act as if disabled rather than dying (as if you possessed the Diehard feat). However, you can use your actions only to draw a firearm, reload a firearm, or attack with a firearm. If you have the Diehard feat, this trait also allows you to substitute your Wisdom score for your Constitution score for the purpose of determining the negative hit point total at which you die.
 
 **Order Devotion**: Your family has strong ties to a knightly order of law, and you harness this belief as a weapon. Once per day as a swift action, you can empower the next single melee attack you make to be treated as lawful-aligned for the purpose of overcoming damage reduction.
+
+**Performer’s Surprise**: You are practiced at the surprising combat tricks of wandering performers. Against foes denied their Dexterity bonus to AC, you gain a +1 trait bonus on damage rolls with improvised weapons, exotic weapons, and thrown weapons.
+
+**Permanent Scars**: You carry the physical and emotional scars of a brutal initiation as mental armor. You receive a +2 trait bonus on saving throws against emotion and pain spells and effects.
+
+**Promising**: Your superiors have identified you as an elite-knight candidate, and their praise encourages you to strive to meet their expectations. Each day after getting a full night’s sleep, you gain a +1 trait bonus to your AC when wearing armor or carrying a shield. This bonus lasts until you are first hit by an attack within the next 24 hours.
 
 **Punish Insurrection**: You relish reminding people who’s in charge. Against members of the same organization or hierarchy who formally answer to you, you gain a +1 trait bonus on attack and damage rolls. You also gain this bonus against members who have openly defied the authority or rules of that body, provided the infraction is serious enough that their standing is now less than yours.
 
@@ -74,6 +110,8 @@ These traits are associated with combat, battle, and physical prowess. They give
 **Reckless Contempt**: You do not fear the threat of lesser weapons. Whenever you provoke an attack of opportunity by firing a firearm, you gain a +1 trait bonus on the attack roll that provoked the attack of opportunity.
 
 **Resolve of the Rejected**: Some disagree with your choice to wield a firearm, and their scorn has only hardened your resolve in battle. You gain a +1 trait bonus on all saving throws against charm and compulsion effects. Also, once per day when you succeed at a saving throw against such an effect, you regain 1 grit point.
+
+**Roving Range**: You learned from pirates to make the most of ranged attacks as you close with targets. Increase the range increment of ranged weapons (but not thrown weapons) you wield by 5 feet.
 
 **Scarred Descendant**: Your own people are your favored enemy. You gain a +1 trait bonus on rolls to confirm critical hits against favored enemies of your own subtype and on Survival checks made to track such creatures.
 
@@ -88,6 +126,8 @@ These traits are associated with combat, battle, and physical prowess. They give
 **Unblemished Barrel**: Your skill with firearms speeds your repair of such weapons. You gain a +1 trait bonus on Craft (alchemy) and Craft (weapons) checks, and it takes you only 30 minutes to remove the broken condition from a firearm.
 
 **Undead Watcher**: Your military service on a border against the undead taught you how to identify undead creatures, changing them in your mind from mysterious terrors to concrete foes you know how to deal with. You gain a +1 trait bonus on attack and damage rolls against undead creatures that you have personally identified using the Knowledge (religion) skill.
+
+**Undead-Hunter’s Inspiration**: Tales of undead-hunting knights have inspired you since childhood to lash out reflexively against the undead. You gain a +1 trait bonus on attack rolls and damage rolls when making attacks of opportunity against undead. While you wield a shield, your shield bonus to AC improves by 1 against attacks of opportunity made by undead.
 
 **Vigilant Battler**: You are hard to fool and harder to trick with a feint. You gain a +1 trait bonus on all Sense Motive checks. This trait bonus increases to +2 when used to counter a feint in combat.
 
@@ -111,9 +151,13 @@ These traits rely upon conviction of spirit, perception, and religion, but are n
 
 **Blessed Touch**: You have focused yourself into being the perfect vessel for your deity. Divine power flows through you like a mountain stream, making your healing touch more potent than that of others. You heal 1 additional point of damage when using lay on hands, channeling energy, or casting a cure spell.
 
+**Bloody Vengeance**: You were slain by evil forces as a child, but a servant of your faith restored you to life. Now you live on in service to your deity, battling the forces of evil so no other child will know the icy grip of death. You gain a +2 trait bonus on attack rolls to confirm critical hits against any creature that has at least a faint evil aura (see *detect evil*).
+
 **Disdainful Defender**: You are resistant to the magic of other faiths. You gain a +2 trait bonus on all Will saves you attempt against divine spells. This bonus does not apply against divine spells cast by a caster who worships the same deity you do.
 
 **Divine Confidante**: You were inspired with the reverence offered by worshipers to priests and other spiritual leaders, so you assisted them. You gain a +3 trait bonus on Sense Motive checks to get hunches about those who discuss matters of faith, mythology, morality, religion, or the Outer Planes with you. Sense Motive is a class skill for you.
+
+**Envoy of Healing**: You strive to spread your faith’s message of kindness and compassion throughout the land, no matter how dangerous the road may be. Whenever you use channel energy, fervor, or lay on hands to heal a living creature, you can reroll any healing die roll that results in a natural 1 (you must use the new result).
 
 **Fate’s Favored**: The fates watch over you. Whenever you are under the effect of a luck bonus of any kind, that bonus increases by 1.
 
@@ -149,7 +193,11 @@ These traits rely upon conviction of spirit, perception, and religion, but are n
 
 **Reincarnated**: You lived a previous life as someone—or something— else. For you, life and death are a cycle, and you have no fear of death. You gain a +2 trait bonus on saving throws against fear and death effects.
 
+**Scarred by War**: You have experienced firsthand the horrors of war, which have left you physically or mentally scarred. Now you have committed yourself to a faith of mercy, seeking to heal those wounded in combat and to prevent battles from occurring whenever you can. You gain a +1 trait bonus on Diplomacy checks outside of combat. In addition, when you heal creatures other than yourself using class abilities, feats, spells, and spell-completion or spell-trigger magic items, you restore 1 additional hit point.
+
 **Schooled Inquisitor**: Your additional training aids in identifying the wiles of your faith’s enemies. You gain a +2 trait bonus on all Knowledge (planes) and Knowledge (religion) checks made to identify the abilities and weaknesses of creatures.
+
+**Soul-Searcher’s Strength**: Your introspections have taught you to understand your own flaws and proclivities and how to work with them. Choose one saving throw. You gain a +1 trait bonus on saving throws of the chosen kind.
 
 **Spirit Sense**: You are so attuned to the spiritual world that it is hard to get the jump on you. You gain a +2 trait bonus on Perception checks to avoid being surprised and to detect invisible or incorporeal creatures.
 
@@ -412,6 +460,44 @@ Equipment traits are keyed to specific types of equipment. They represent an unu
 **Thrown-Together Fashion**: With a basic sewing kit or disguise kit, you can make a Disguise check to change one outfit into another outfit. The DC of this check is equal to 10 + the gp difference between costs of the outfits. The alteration takes 10 minutes per 1-gp difference in the cost of the outfits.
 
 **Well-Provisioned Adventurer**: You always knew you’d leave your humble beginnings behind and become an adventurer, so you scrimped and saved, buying the necessary equipment one piece at a time until you had everything you needed. Select one of the [equipment packages](../../equipment/equipment-packages.md). If you select this trait during character creation, you do not receive any starting gold.
+
+## Dungeon Traits
+
+Not all who dare the perilous depths of dungeons grew up in safe lands, dreaming of exploits in distant regions. Some have grown up in cities whose proximity to famed dungeons has resulted in a thriving explorer economy that revolves around the treasure hunters and tomb raiders who frequent the settlement while preparing for their expeditions, while others may even have been born in a dungeon themselves. The following traits are designed for characters such as these.
+
+**Dungeon Dweller**: Not only are you competent while deep underground, you thrive in these perilous environs. Whether you were born in a labyrinthine tunnel network or your mysterious parental figures brought you up in the sand-ridden corridors of some forgotten pyramid, your origins are somehow tied to a subterranean dungeon. You start with one additional language chosen from the following list: Aklo, Draconic, Goblin, Necril, Orc, or Undercommon. In addition, whenever you must attempt a Survival check to avoid getting lost in a dungeon, you may roll the check twice and take the better result.
+
+**Lost Role Model**: As a youth, you marveled at the crusaders, spelunkers, and lore seekers who came through your town on their way to the nearby dungeon, tomb, or ruins. One such intrepid role model in particular was of great import to you. On the last day you ever saw your hero, the adventurer gave you a unique [dungeon guide](../../rules/additional-rules/dungeon-guides.md) worth no more than 750 gp and with an accuracy modifier of no greater than +2. Work with your GM to construct a dungeon guide tied to the dungeon near where you grew up.
+
+**Seasoned Planner**: Ever since you were a child growing up beside a legendary dungeon, you’ve been obsessed with the explorers who set out for it and the preparations they made. Your fascination has granted you no small measure of savvy when it comes to preparing to explore dungeons. You start with an equipment kit (such as those found in the [dungeoneering gear](../../equipment/gear-dhh.md) or *Ultimate Equipment*) worth no more than 300 gp, and the expendable contents of the kit are automatically restored to their original capacity at no cost to you whenever you enter a settlement with a population of at least 2,500.
+
+**Strange Origins**: You are in some way tied to a mysterious, alien monument or ruin, but you have forgotten an important piece of your past. Perhaps you were a metallurgist’s experiment gone awry, a rediscovered automaton that escaped its confines, or the result of some equally enigmatic phenomenon. Regardless, your unusual origins mark you as somehow different from others, and you know the gaps in your memory hold the key to your past. You start play with a unique compass that doesn’t point north and is riddled with indecipherable alien markings—the only object you have that you know to be tied to your home. In addition, your inscrutable mannerisms give you a +2 trait bonus on opposed Bluff checks.
+
+## Healer Traits
+
+**Animal-Spirit Vitality**: A druidic healer taught you to commune with the natural healing powers of animals. Once per day when you cast a spell that restores hit points, you restore 1 additional hit point for every die rolled as long as a creature of the animal type is within 50 feet. You must decide to use this ability before rolling to determine the number of hit points that your spell restores.
+
+**Debt to a Witch**: Your life was spared in youth by the magic of a witch healer who was using your survival to perpetuate her agenda. Her magic was painful, but it made your body stronger. You gain a +2 trait bonus on saving throws against spells with the cold descriptor and against the dangers of cold weather.
+
+**Educated Druggist**: Any alchemical remedies you administer that provide an alchemical bonus have that bonus increased by 1. These remedies also restore 1 hit point to the target in addition to their usual effects.
+
+**Godless Resolve**: Some brilliant and earnest speech or other performance inspired you to take charge of your own health rather than begging indifferent or outlawed deities for deliverance. Heal is a class skill for you, and you gain a +2 trait bonus on Heal checks to stabilize dying creatures and stop bleeding.
+
+**Guerrilla Mender**: With the help of a druidic healer, you narrowly escaped death by disease or poisoning while on the run from militias, whether contracting the ailment was an accident or you were the victim of more sinister forces. Whenever you successfully use the Heal skill to treat an ally’s poison or disease, you grant the ally an additional +1 trait bonus on the saving throw against the disease or poison. Heal is a class skill for you.
+
+**Herbal Tradition**: You are trained in an ancient tradition of herbalism and therefore have great insight into how to use the natural ingredients at your disposal to nurse an ailing body. You gain a +4 trait bonus on Heal checks when providing long-term care, and Heal is a class skill for you.
+
+**Near-Death Experience**: You had a close brush with death that you survived only thanks to a witch doctor, and your body has learned to cling to life in dire situations. You gain a +1 trait bonus on Constitution checks to stabilize, and you don’t die until your hit points drop to a negative amount equal to 2 + your Constitution score.
+
+**Patron’s Boon**: In your youth, a witch granted you a boon promoting your continued health and long life. The DCs of any Heal checks to stop bleed damage you are suffering are reduced by 4.
+
+**Servitor of Spirits**: For as long as you can remember, the spirits have always whispered into your ears and guided you—provided that you appease them. At the start of each day, you can choose one medium spirit and accept one of its taboos for 24 hours. As long as you don’t break that taboo, once during the next 24 hours, you can add a +1 trait bonus to any one roll, check, or saving throw (but not to AC) listed under your chosen spirit’s spirit bonus. Using this ability is a free action that you can use even if it isn’t your turn. If you are a medium, the spirit you choose with this trait must be the same as the spirit you are channeling and vice versa.
+
+**Skilled Surgeon**: Whenever you perform surgery or otherwise must deal damage to remove a condition or affliction, you roll the damage but use the minimum result unless you rolled the maximum result. The amount of hit points or points of ability damage restored each day when you provide long-term care is increased by 1.
+
+**Sustaining Performance**: Abandoned by a traditional healer at a critical time, you improvised a tale or jokes to keep up the spirits of someone in dire health. Once per day as a standard action, you can attempt a DC 15 Perform check with an audible component (such as comedy, oratory, sing, or with any instrument) to stabilize a dying creature that can hear you within 30 feet. You can also attempt Perform checks instead of Heal checks to provide long-term care.
+
+**Wasteland Medic**: After witnessing a terrible disaster result from an attempt at magical healing in a place where magic is unstable, you are careful and methodical when crafting your own healing tinctures. The amount of hit points restored by your Heal checks to treat deadly wounds and your extracts of the healing subschool is increased by 1.
 
 ## Race Traits
 

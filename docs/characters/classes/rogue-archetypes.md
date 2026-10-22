@@ -715,3 +715,33 @@ This ability replaces evasion and the rogue talents gained at 4th, 8th, 12th, an
 **Rogue Talents**: The following rogue talents complement the earthshadow archetype: extra earthcraft, favored terrain, fortified position, major magic, minor magic, resiliency, and trap spotter.
 
 **Advanced Talents**: The following advanced rogue talents complement the earthshadow archetype: against the wall, dispelling attack, hide in plain sight, slippery mind, and stony skin.
+
+## Sapper
+
+The sapper is a trained siege engineer and can deal with traps and other obstacles given plenty of time.
+
+**Destructive Dismantle (Ex)**: A sapper is able to quickly breach obstacles. Using a combination of engineering, explosives, alchemical reagents, and sheer bloody-mindedness, she can deal up to 10 points of damage per sapper level upon an object once per day, ignoring the object’s hardness. She might crack open a stone wall with an explosive charge, or collapse a ceiling by tunneling through its supports. This ability requires 1d4+1 hours of preparation, so it can be used only on immobile and unresisting objects.
+
+This ability replaces trapfinding.
+
+**Sapping (Ex)**: At 2nd level, a sapper gains a +4 bonus on Perception or Disable Device checks to find or disable traps. She also grants a +4 bonus when using the aid another action to assist with Strength checks to lift gates, bend bars, or force open doors. However, the sapper is focused, so it takes her a full-round action to complete any aid another action.
+
+This ability replaces her 2nd-level rogue talent.
+
+**Fence (Ex)**: At 4th level, a sapper loots a dungeon or other adventuring complex of its mundane goods and sells them to her various contacts. These mundane goods include things like brass fittings, stewpots, scrap metal, and so on. The sapper automatically loots this junk while in the dungeon, and must spend 24 uninterrupted hours selling the objects in town. She shares a portion of the proceeds with the adventurers; the amount typically equals 1d10 gp per sapper level per dungeon.
+
+This ability replaces her 4th-level rogue talent.
+
+## Scroll Scoundrel
+
+The scroll scoundrel is a rogue archetype that relies on cunning and quick wits to stay alive. He excels in exploiting overconfidence and predictability, using knowledge he’s gained from his extensive research and field experience combined with hearsay and recent observations to react to problems as soon as they arise with swift but unnaturally accurate guesswork.
+
+**Fast Talker (Ex)**: At 2nd level, a scroll scoundrel’s penalty on Bluff checks that are unlikely, far-fetched, or impossible to achieve is reduced by 5. When he makes a Diplomacy check to adjust a creature’s starting attitude, he gains a +3 competence bonus on the skill check. This ability replaces the rogue’s 2nd-level rogue talent.
+
+**Adaptive Learning (Ex)**: At 3rd level, a scroll scoundrel gains a +1 bonus on saving throws against abilities and spells he has already successfully saved against within the past minute (even if the spells or abilities in question were used by different creatures). This bonus increases by +1 when the scroll scoundrel reaches 6th level, and by an additional +1 for every three levels thereafter, to a maximum of +6 at 18th level. This ability replaces trap sense.
+
+**Pay It Back (Ex)**: At 4th level, a scroll scoundrel receives a +1 bonus on attack rolls and weapon damage rolls against foes who made melee attacks against him in the previous round. This bonus increases to +2 at 10th level. This ability replaces uncanny dodge.
+
+**Elusive Gambit (Ex)**: At 6th level, a scroll scoundrel’s movement can leave a foe off-balance. If a scroll scoundrel provokes an attack of opportunity by moving past an opponent and that opponent then misses with the attack, that foe is considered to be flat-footed against the scroll scoundrel’s next melee attack, provided that melee attack comes within 1 round of the missed attack of opportunity. This ability replaces improved uncanny dodge.
+
+**Spot Weakness (Ex)**: At 10th level, a scroll scoundrel can discover a weakness in his enemy’s defenses as a swift action. His next successful hit in the same round ignores 5 points of the foe’s damage reduction or hardness. At 15th level, he ignores the first 10 points, and at 20th level, the first 15 points. If the attack deals any sneak attack damage, he ignores all of the foe’s damage reduction or hardness for that attack. He cannot use this ability on foes that are immune to critical hits. This ability replaces the scroll scoundrel’s 10th-level rogue talent.

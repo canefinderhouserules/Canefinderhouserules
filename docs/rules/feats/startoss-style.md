@@ -1,0 +1,11 @@
+# Startoss Style
+
+*(Combat, Style)*
+
+Your thrown weapons become more deadly.
+
+**Prerequisites**: Dex 13, Point-Blank Shot, Weapon Focus with the chosen weapon.
+
+**Benefit**: Choose one weapon from the thrown fighter weapon group. While using this style and the chosen weapon, you gain a bonus on damage rolls made with the weapon equal to 2 + 2 per style feat you possess that lists Startoss Style as a prerequisite (maximum +6 damage). You cannot use this ability if you are carrying a weapon or a shield in your off hand (except for a buckler).
+
+**Special**: In addition to the chosen weapon, a character with this feat and the weapon training (thrown) class feature can use Startoss Style with any thrown weapons that she wields in one hand.

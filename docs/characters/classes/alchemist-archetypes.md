@@ -240,6 +240,12 @@ The two copies act independently and each one has a full set of actions. At the 
 
 **Elemental Destabilizers (Su)**: The alchemist is able to concoct reactive chemical compounds that affect elementals like poisons. The alchemist can craft poisons that affect only outsiders with the elemental subtype, bypassing their inherent immunity. Magical effects that negate poisons still apply. If a creature fails its saving throw, the poison acts as normal, but it may have no effect on the creature depending on the effect of the poison (such as dealing fire damage to a fire elemental). An alchemist must be at least 8th level before selecting this discovery.
 
+**Neutralizing Bomb**: When the alchemist creates a bomb, he can choose to give it the potential to end certain ongoing effects instead of dealing damage. Each creature in the splash radius can attempt a new saving throw against any poison afflicting it and any ongoing conditions or ongoing acid, cold, electricity, fire, or sonic damage. (If an effect did not allow a saving throw, this bomb doesn’t allow affected creatures to attempt one.) Success counts as one successful save toward ending poison and immediately ends other conditions. Exposed poison in the splash radius is also rendered harmless. A creature with poison abilities that is directly struck by the bomb finds those abilities useless for 1d4 rounds unless it succeeds at a Fortitude saving throw. This discovery doesn’t stack with any other that modifies bombs.
+
+**Purging Mutagen**: The alchemist’s mutagen combines ipecac and other purgative components. A non-alchemist who consumes the mutagen is nauseated for only 1 round, during which time her body rapidly metabolizes or expels all extant toxins, granting her an immediate second saving throw against each ongoing disease and poison currently affecting her. Each successful save counts as two consecutive successful saving throws for the purpose of curing the affliction. Any failed saving throws do not result in additional damage or other effects. A non-alchemist who consumes a second purging mutagen in a 24-hour period is instead nauseated for 1 hour. When an alchemist drinks the mutagen, he can choose whether or not to also be affected by this discovery in addition to the mutagen’s other effects.
+
+**Remedy Extract**: When the alchemist creates an extract, he can add one nonmagical alchemical remedy (such as an antitoxin) to it. When the extract is consumed, both the formula and the alchemical remedy take effect. The extract has a level 1 higher than normal. This discovery cannot be combined with other methods of combining multiple consumed items or extracts into one. An alchemist must be at least 4th level before selecting this discovery.
+
 ## Inspired Chemist
 
 Akin to a mindchemist, inspired chemists use a type of cognatogen that instead of increasing their mental ability scores grants them inspiration like an investigator. This inspiration also grants an inspired chemist amazing powers to avoid danger, but takes a toll on both physical power and health.
@@ -736,3 +742,93 @@ This ability replaces poison resistance and poison immunity.
 **Salvage Energy (Ex)**: At 2nd level, an energy scientist can siphon power from slain elementals into temporary alchemical weapons. While studying the remains of an elemental that has been dead for no longer than 1 minute per alchemist level, he can attempt a Craft (alchemy) check (DC = 20 + the elemental’s CR) as a standard action. Success means the alchemist produces a number of canisters of alchemist’s fire (from fire and magma elementals), bottled lightning (from air and lightning elementals), deadground dust (from earth and mud elementals; see [Elemental Alchemical Items](../../equipment/gear-emh.md)), or liquid ice (from water and ice elementals) equal to half the elemental’s CR, rounded down. These items cannot be sold and become inert after 24 hours. At 6th level, the save DCs of the items produced increase by 2.
 
 This ability replaces poison use and swift poisoning.
+
+## Blazing Torchbearer
+
+The blazing torchbearer is especially adept at manipulating flames of all kinds.
+
+**Everburning Flame (Ex)**: Any torch held by a blazing torchbearer is considered to be an everburning torch, although it still sheds heat and can be used as a weapon. In addition, a blazing torchbearer can cast *spark* as a spell-like ability at will.
+
+This ability replaces Brew Potion.
+
+**Intense Light (Ex)**: At 2nd level, a blazing torchbearer has mastered lighting and holding a torch to the point that it sheds more light than those carried by his peers. The radius of normal and increased illumination of any torch held by a blazing torchbearer increases by 10 feet. Once per day as a standard action, the blazing torchbearer can create a brilliant flash of light that blinds everyone within 10 feet (including the torchbearer) for 1 round.
+
+This ability replaces poison use.
+
+**Explosive Torch (Ex)**: At 4th level, as a standard action, a blazing torchbearer can drop a special blend of explosive powders onto his torch before using it as a weapon. His next successful melee attack with the torch deals an additional 2d6 points of fire damage and sets the target on fire. This attack must be made within 1d4 rounds or the torch prematurely explodes at the end of the blazing torchbearer’s turn, dealing damage to the blazing torchbearer and setting him on fire.
+
+This ability replaces the alchemist’s 4th-level discovery.
+
+## Trap Breaker
+
+Trap breakers forgo the study of poison to instead master the construction and deployment of traps, using their nimble fingers to disable dangerous devices and their alchemical knowledge to create devastating land mines.
+
+**Trapfinding (Ex)**: Starting at 2nd level, a trap breaker adds 1/2 his alchemist level on Perception checks made to locate traps and on Disable Device checks. A trap breaker can use Disable Device to disarm magic traps.
+
+This ability replaces poison use and poison resistance +2.
+
+**Explosive Disarm (Ex)**: At 5th level, a trap breaker can attempt to disarm a mechanical trap by detonating it rather than disarming it with a Disable Device check. As a full-round action, a trap breaker may expend one of his bombs to make a ranged touch attack against a trap, using the trap’s Disable Device DC as its AC. If the attack misses, the bomb’s splash damage activates the trap. If the attack hits, the bomb deactivates the trap without setting it off. The trap breaker must both know the location of the trap and be able to reach the trap’s trigger with a ranged touch attack in order to use this ability. At 8th level, a trap breaker can disarm magic traps with this ability.
+
+This ability replaces poison resistance +4 and poison resistance +6.
+
+**Land Mine (Ex)**: At 6th level, a trap breaker can turn his bombs into land mines. Setting a land mine is a full-round action that provokes attacks of opportunity. The land mine fills a single 5-foot square, and can’t be placed in the same space as another trap, land mine, or magic trap. The trap breaker can arm the land mine with any bomb he is eligible to use, and the effects of this bomb are immediately transferred to the land mine. Creating a land mine uses up two of the alchemist’s bombs per day. The DCs for Perception checks to notice the land mine, Disable Device checks to disable it, and saving throws to avoid its effects are equal to 10 + 1/2 the alchemist’s level + his Intelligence modifier. All alchemist land mines are mechanical traps with the qualities Trigger: location and Reset: none. Land mines last for 1 day per alchemist level or until they are triggered, whichever comes first.
+
+This ability replaces swift poisoning.
+
+**Mine Engineering (Ex)**: At 10th level, a trap breaker’s expertise in improving explosives allows him to create land mines with minimal expense. Creating a land mine uses up only one of the alchemist’s bombs per day.
+
+This ability replaces poison immunity.
+
+## Wasteland Blightbreaker
+
+The deleterious effects of the weird hazards of wild-magic wastelands require special skill to remedy. Many wasteland blightbreakers are also chirurgeons.
+
+**Healing Infusion (Sp, Su)**: At 2nd level, the blightbreaker can prepare extracts of the healing subschool as if he had the infusion discovery and can choose to render any such extracts inert and prepare other extracts to replace them (unlike infusions, which continue to occupy the alchemist’s daily extract slots until consumed or used). If the blightbreaker has the infusion discovery, or if he is also a chirurgeon, he can use *touch injection* as a spell-like ability once per day as a standard action, but only to absorb an infusion of the healing subschool.
+
+This ability replaces poison resistance +2.
+
+**Swift Healing Infusions (Sp)**: At 6th level, the blightbreaker can absorb an infusion of the healing subschool as if with *touch injection* as a standard action an unlimited number of times per day. While he has a healing extract absorbed in this fashion, he can deliver it as a swift action.
+
+This ability replaces swift poisoning.
+
+**Banish Blights (Su)**: At 8th level, a blightbreaker can end any effect affecting a creature that could be reversed by *break enchantment*. To do so, the affected creature must imbibe one of the blightbreaker’s infused extracts of the healing subschool of at least 3rd level. The blightbreaker must then attempt a caster level check as described in *break enchantment*. If the blightbreaker succeeds at the check, the creature is free of the spell, curse, or effect.
+
+The blightbreaker can also use this ability to attempt to dispel lingering magical disasters or wild-magic events (as defined by the GM) affecting a creature or an area. To do so, the affected creature must imbibe an infused extract as described above, and the blightbreaker must attempt a caster level check against a DC equal to 11 + the event’s CR. If he succeeds at the check, the event ends as if the blightbreaker had successfully used *dispel magic*. If the blightbreaker attempts to dispel an event affecting an area, as a standard action, he must dump an infused extract of the healing subschool of at least 3rd level onto an affected square, and then attempt the same caster level check.
+
+This ability replaces poison resistance +6 and the discovery gained at 8th level.
+
+**Discoveries**: The following discoveries complement the wasteland blightbreaker archetype: dispelling bomb, elixir of life, healing bomb, healing touch, infusion, spontaneous healing.
+
+## Sacrament Alchemist
+
+Sacrament alchemists serve in a great variety of priestly roles for their deities. A sacrament alchemist is often invaluable even to like-minded allies who are not adherents of the alchemist’s religion but who nonetheless rely on his divine abilities.
+
+**Faithful**: Like a cleric, a sacrament alchemist must worship a deity, and must be within one step of his deity’s alignment.
+
+**Sacramental Cognatogen (Su)**: A sacrament alchemist can anoint himself as his deity’s servant using his own special version of a mutagen called a sacramental cognatogen. This is brewed, imbibed, maintained, and can nauseate non-alchemists in the same way as a mutagen. While a sacramental cognatogen is in effect, the sacrament alchemist takes a –2 penalty to Dexterity.
+
+Instead of providing physical benefits, the sacramental cognatogen grants the sacrament alchemist access to the domain powers of one domain or subdomain belonging to his deity as if he were a cleric of his alchemist level. The sacrament alchemist must choose the domain or subdomain when he brews the sacramental cognatogen. A sacrament alchemist can select an alignment domain only if his alignment matches that domain. He treats his alchemist level as his cleric level for purposes of using these domain powers, and treats his Intelligence modifier as his Wisdom modifier for purposes of variable effects. The effects of the sacramental cognatogen last for 10 minutes per alchemist level.
+
+A sacrament alchemist doesn’t gain the bonus spells listed for each domain, nor does he gain any bonus spell slots. Levels of classes that normally provide access to domains stack with the sacrament alchemist’s alchemist level for purposes of determining domain powers and abilities, but not for purposes of determining bonus spells. Discoveries, feats, and effects that interact with the mutagen class feature do not affect sacramental cognatogen. A sacrament alchemist cannot take the cognatogen or mutagen discoveries.
+
+This ability replaces mutagen.
+
+**Divinely Inspired Alchemy (Su)**: At 3rd level, a sacrament alchemist’s faith inspires him with ideas for novel alchemical achievements, although the mental strain means that he can’t reliably repeat them. Once per day while preparing extracts, for a period of 24 hours, a sacrament alchemist can gain an alchemist discovery for which he qualifies. He treats his alchemist level as 2 lower for the purpose of this discovery.
+
+This ability replaces swift alchemy.
+
+**Discoveries**: The following discoveries complement the sacrament alchemist archetype: combine extracts, dilution, infusion, and ranged baptism.
+
+## Grenadier
+
+Grenadiers train to exercise their talents in the thick of battle, even when not under the influence of their mutagens. They learn methods of combining weapon attacks with their alchemical magic, and sacrifice skill with poisons in order to become more adept at using alchemical bombs or using alchemical items in conjunction with their martial skills. As an unusual side effect of their skill at handling bombs and alchemical items with increased speed, grenadiers master the ability to drink potions, elixirs, and mutagens quickly and safely, without exposing themselves to peril while doing so.
+
+**Martial Weapon Proficiency**: At 1st level, a grenadier picks one martial weapon to become proficient in the use of. This ability replaces Brew Potion.
+
+**Alchemical Weapon (Su)**: At 2nd level, a grenadier can infuse a weapon or piece of ammunition with a single harmful alchemical liquid or powder, such as alchemist’s fire or sneezing powder, as a move action. This action consumes the alchemical item, but transfers its effect to the weapon in question. The alchemical item takes full effect on the next creature struck by the weapon, but does not splash, spread, or otherwise affect additional targets. Any extra damage added is treated like bonus dice of damage, and is not doubled on a critical hit. The alchemical treatment causes no harm to the weapon treated, and wears off 1 minute after application if no blow is struck. At 6th level, a grenadier can use her alchemical weapon ability as a swift action. At 15th level, this ability becomes a free action. This ability replaces poison resistance.
+
+**Precise Bombs (Ex)**: At 2nd level, a grenadier gains the precise bombs alchemist discovery as a bonus discovery. This ability replaces poison use.
+
+**Directed Blast (Su)**: At 6th level, a grenadier can detonate a bomb so that it splashes in a 20-foot cone rather than affecting a radius. The cone starts at the alchemist and extends away from her in the direction she chooses. The alchemist designates one creature in the squares affected by the cone to be the target of the bomb and makes her attack roll against that creature; all other squares in the cone take splash damage. If the alchemist has the explosive bomb discovery and throws an explosive directed blast, the cone of splash damage is 30 feet long instead of 20 feet. This ability replaces swift poisoning.
+
+**Staggering Blast (Su)**: At 10th level, a grenadier’s bombs become particularly overwhelming when they explode. Whenever a grenadier scores a successful critical hit with a bomb, the creature directly struck by that bomb is staggered for 1d4+1 rounds. A successful Fortitude save (DC equals the bomb’s Reflex save DC to avoid splash damage) reduces the duration to 1 round. The effects of this ability stack with a frost bomb’s staggering effect, but not with the effects of the Staggering Critical feat. Additional hits from a staggering blast add to the effect’s overall duration. This ability replaces poison immunity.

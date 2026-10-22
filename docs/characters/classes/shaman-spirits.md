@@ -412,6 +412,36 @@ The shaman can end the effect as a free action. She can use this ability a numbe
 
 **Manifestation**: Upon reaching 20th level, the shaman becomes a living creature of wood. She is forevermore treated as a plant creature rather than her original creature type for the purposes of spells and magical effects. Her skin takes on the appearance of polished wood grain, and she gains a +4 natural armor bonus to her Armor Class and damage reduction 10/— against wooden weapons and the natural attacks of wooden and wood-like creatures. She gains immunity to paralysis, poison, polymorph, sleep, and stun. At will, the shaman can meld with any tree or single block of wood (as per meld into stone, except she can meld only with wood and has no limit on how long she can remain in the wood).
 
+## Spirit Specializations
+
+Spirit specializations are more specific focuses for shaman spirits that allow shamans greater flexibility in customizing their characters and building character backstories. One such specialization is presented below, but it is far from the only spirit specialization that exists.
+
+Each spirit specialization replaces one or more hexes that the shaman can gain, as well as one or more of the spirit’s abilities and a number of the spells in the spirit’s spirit magic spell list. A spirit specialization never replaces all of the spirit’s hexes or all of the spirit’s abilities.
+
+A spirit specialization is always treated as equivalent to its associated spirit for any effect or prerequisite that is based on spirits. A shaman cannot select a spirit specialization as a wandering spirit, nor can she form a bond with a spirit and a spirit specialization that is associated with it simultaneously—for instance, a shaman with the life spirit cannot form a temporary bond with the restoration spirit specialization.
+
+If a spirit specialization hex or ability calls for a saving throw, the DC of the save is equal to 10 + 1/2 the shaman’s level + her Wisdom modifier.
+
+### Restoration
+
+**Associated Spirit**: Life.
+
+**Spirit Magic Spell**: *Remove sickness* replaces the life spirit’s 1st-level spirit magic spell.
+
+**Replacement Hexes**: The following life spirit hexes replace the curse of suffering and deny succor hexes that a shaman can select from the life spirit.
+
+**Shell of Succor (Su)**: The shaman surrounds one touched creature with a ward of succoring energy, granting the target a number of temporary hit points equal to her Wisdom bonus + an additional 1d6 temporary hit points per 2 shaman levels she has (maximum 10d6). These temporary hit points last a number of minutes equal to the shaman’s level.
+
+The target always loses these temporary hit points first, even before other temporary hit points (including those from a kineticist’s force ward defense wild talent). If an attack deals fewer points of damage than the target’s temporary hit points from this shell of succor ability, it still reduces those temporary hit points but otherwise counts as a miss for the purpose of abilities that trigger on a hit or a miss. The shaman can use this hex a number of times per day equal to 1 + her Charisma bonus.
+
+**Spirit Boost (Su)**: Whenever the shaman casts a healing spell that heals a target up to its maximum hit points, any excess hit points persist for 1 round per shaman level as temporary hit points (up to a maximum number of temporary hit points equal to the shaman’s level).
+
+**True Spirit Ability**: The following true spirit ability replaces the quick healing ability of the life spirit.
+
+**Spirit of Life (Su)**: The shaman’s spirit animal transforms into a conduit of life energy able to store succoring magic that can keep the shaman’s allies safe. This allows the spirit animal to cast *stabilize* as a spell-like ability at will using the shaman’s level as the spell’s caster level. In addition, the shaman can transfer any cure spell (a spell with “cure” in its name) she casts to her spirit animal as a swift action, provided that the spirit animal is within 30 feet of her. This functions like *imbue with spell ability*, except a spirit animal can be imbued with a cure spell of any spell level that its master can cast regardless of the spirit animal’s Intelligence or Wisdom score. The spirit animal can hold the spell indefinitely, but the shaman cannot prepare a new spell in the imbued spell’s spell slot until her spirit animal uses the spell or it is slain, or until she dismisses the *imbue with spell ability* effect (a free action).
+
+A spirit animal can be imbued with only one spell at a time in this manner. If the spirit animal is slain while it is imbued with a cure spell, that spell is lost.
+
 ## Spirit Animal
 
 By communing with the incredible powers of her spirit, the shaman forges a cherished bond with one specific servant of that spirit-known as a spirit animal. A spirit animal is a creature chosen by a shaman to serve as a conduit, allowing her to more fully access the magic of her spirit on a daily basis. The shaman's spirit animal also grants her special powers. This ability uses the same rules as the wizard's arcane bond class feature and is treated as a familiar (see pages 78 and 82 of the Core Rulebook), except as noted below.

@@ -961,3 +961,71 @@ This ability replaces venom immunity.
 **First World Deceiver (Su)**: At 13th level, a defender of the true world gains the ability to change her appearance as per *alter self*, except she can take the form of a humanoid or fey creature. Her base land speed from this ability cannot exceed 60 feet.
 
 This ability replaces a thousand faces.
+
+## Restorer
+
+Restorers carefully tend to the health of both the environment and creatures in it. Restorers in the most remote places often choose druidic herbalism as their nature bond option (see below).
+
+**Healing Touch (Ex)**: A restorer gains a +2 bonus on Heal checks. When a restorer uses Heal to provide first aid, the bonus increases to +3.
+
+This ability replaces nature sense.
+
+**Natural Medic**: A restorer can channel stored spell energy into healing spells that she did not prepare ahead of time. The restorer can “lose” any prepared spell in order to cast any cure spell she can cast of the same spell level or lower (a cure spell is any spell with “cure” in its name).
+
+This ability replaces spontaneous casting.
+
+**Enemy of Blight (Ex)**: At 4th level, a restorer can ignore the effects of an overgrown area that has been magically manipulated to impede motion. She can ignore these effects for a number of rounds per day equal to double her Wisdom bonus. These rounds don’t have to be used consecutively.
+
+This ability replaces resist nature’s lure.
+
+**Guide across Lifetimes (Sp)**: At 13th level, once per day as a full-round action, a restorer can cast *reincarnate* without a material component.
+
+This ability replaces a thousand faces.
+
+## Nature Priest
+
+Nature priests serve two masters: their deities and nature itself, and can call upon the power of both to fuel their divine abilities.
+
+**Faithful**: Like a cleric, a nature priest must worship a deity and her alignment must be within one step of her deity’s.
+
+**Class Skills**: A nature priest adds Knowledge (religion) to her list of class skills instead of Knowledge (geography).
+
+This alters the druid’s class skills.
+
+**Weapon Proficiencies**: A nature priest is proficient with her deity’s favored weapon in addition to a druid’s typical weapon proficiencies.
+
+This alters the druid’s weapon proficiencies.
+
+**Studious Piety (Ex)**: A nature priest gains a +1 bonus on Knowledge (religion) checks. This bonus increases to +2 when attempting checks that involve knowledge of her deity or her faith.
+
+This ability replaces nature sense.
+
+**Chosen Druid (Ex)**: If a nature priest chooses a domain for her nature bond, she must choose one of her deity’s domains (or subdomains) in place of those typically available to a druid.
+
+This ability alters nature bond.
+
+**Shepherd of the Faithful (Su)**: At 4th level, a nature priest and all allies within 60 feet that can see or hear her gain a +2 insight bonus on skill checks to notice or avoid natural hazards, difficult terrain, and rough winds or water, as well as on saving throws against natural hazards. This ability offers no protection against the abilities of creatures or the effects of spells or items.
+
+This ability replaces resist nature’s lure.
+
+**Divine Servants (Su)**: At 9th level, a nature priest adds the spells *lesser planar ally*, *planar ally*, and *greater planar ally* to her druid spell list at their cleric spell levels. When she casts these spells, the planar allies summoned require half the payment described in those spells.
+
+This ability replaces the venom immunity ability.
+
+## Druidic Herbalism
+
+Druids can use their intimate connection to nature to gain a mastery over the beneficial powers of natural ingredients. Druidic herbalism is a nature bond option that can be taken by any druid at 1st level except those with archetypes or alternate class features that alter or replace nature bond or mandate a specific nature bond choice.
+
+**Nature Bond (Ex)**: Instead of granting access to a domain or an animal companion, a druid’s bond with nature can take a third form: access to druidic herbalism.
+
+A druid who chooses to learn druidic herbalism can use combinations of nuts, berries, dried herbs, and other natural ingredients along with appropriate containers to create herbal concoctions or magic consumables that function like potions. This acts like the Brew Potion feat, but only for spells on the druid spell list. Herbal concoctions are typically thick and sludgy, and their creation time, caster level, spell duplication capabilities, and all other variables and properties are identical to those of potions created using Brew Potion. Herbal concoctions created with herbs that cause special effects when ingested retain those effects as well as the appropriate spell effect.
+
+A druid can create a number of free herbal concoctions per day equal to her Wisdom modifier. Additional concoctions cost the same as creating an equivalent potion using Brew Potion. Druids can sell their herbal concoctions just as if they were potions (though NPCs unfamiliar with druidic herbalism may need some convincing before purchasing these wares).
+
+At 4th level, a druid’s increasing skill with herbalism means that she can disguise the effects of her herbal concoctions. When a creature attempts a Perception or Spellcraft check to identify one of the druid’s concoctions, the concoction appears to be a different herbal concoction of the druid’s choice unless the creature exceeds the identification DC by 5 or more. The druid must designate this false result when creating the concoction. If a creature exceeds the identification DC by 5 or more, it correctly identifies the concoction, though not that the druid tried to fool it.
+
+Additionally, at 4th level, when the druid creates additional concoctions, she need pay only half the normal cost to create them. It takes her only half the normal time to create her concoctions, and she can create concoctions of spells from any spell list, as long as she can cast the spell.
+
+At 7th level, when the druid creates concoctions with potential false identification results, a creature attempting to identify the concoction must exceed the identification DC by 10 or more to determine the concoction’s true identity.
+
+Additionally, at 7th level, a druid can create any herbal concoction in 1 minute. She can also create a special concoction of any spell higher than 3rd level that she can cast, but to do so, she must expend a spell slot of the same level. These special concoctions do not cost her anything to create and function like extracts created by an alchemist with the infusion discovery.

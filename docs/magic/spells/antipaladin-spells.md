@@ -17,6 +17,7 @@ New antipaladin spells from *Ultimate Magic*. Spells from other books will be ad
 - **[Detect the Faithful](detect-the-faithful.md)**: Find others of the same faith.
 - **[Fabricate Disguise](fabricate-disguise.md)**: Create a disguise in an instant.
 - **[Grasping Corpse](grasping-corpse.md)**: Cause a corpse to grab or trip a foe.
+- **[Guardian Armor](guardian-armor.md)**: Teleports your armor onto an ally.
 - **[Hedging Weapons](hedging-weapons.md)**: Floating weapons protect you and make ranged attacks.
 - **[Hide Weapon](hide-weapon.md)**: Meld a weapon into your arm.
 - **[Huntmaster’s Spear](huntmasters-spear.md)**: Spear becomes a +1 weapon against a chosen favored-enemy type and can be discharged for a powerful attack.
@@ -62,6 +63,7 @@ New antipaladin spells from *Ultimate Magic*. Spells from other books will be ad
 - **[Shared Suffering](shared-suffering.md)**: Take damage to deal the same damage to a distant target.
 - **[Shifted Steps](shifted-steps.md)**: Make a target sound as if elsewhere.
 - **[Sickening Strikes](sickening-strikes.md)**: You are imbued with disease, and any creature you strike with a melee attack must make a Fortitude save or be.
+- **[Spiritual Squire](spiritual-squire.md)**: A force servant helps carry, aid, and armor allies.
 - **[Toxic Gift](toxic-gift.md)**: Target suffers the effect of a poison in you.
 - **[Unadulterated Loathing](unadulterated-loathing.md)**: Target is compelled to avoid another creature.
 - **[Undetectable Trap](undetectable-trap.md)**: Make a trap extremely difficult to find.
@@ -87,6 +89,7 @@ New antipaladin spells from *Ultimate Magic*. Spells from other books will be ad
 - **[Illusion of Treachery](illusion-of-treachery.md)**: Make it seem like another is also responsible for your attacks.
 - **[Litany of Escape](litany-of-escape.md)**: Teleports a friend out of a grapple.
 - **[Litany of Sight](litany-of-sight.md)**: You can see invisible creatures and objects within 30 feet of you.
+- **[Revenant Armor](revenant-armor.md)**: Armor animates around its fallen wearer.
 - **[Screaming Flames](screaming-flames.md)**: Send forth a wave of flames screaming with the agony of the damned.
 - **[Second Wind](second-wind.md)**: Heal 2d8 + 1/level when below one-quarter hit points.
 - **[Selective Invisibility](selective-invisibility.md)**: Invisible, except to one chosen creature you may attack.

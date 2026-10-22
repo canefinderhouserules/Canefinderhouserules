@@ -16,6 +16,7 @@
 - **[Detect Undead](detect-undead.md)**: Reveals undead within 60 ft.
 - **[Divine Favor](divine-favor.md)**: You gain +1 per three levels on attack and damage rolls.
 - **[Endure Elements](endure-elements.md)**: Exist comfortably in hot or cold regions.
+- **[Guardian Armor](guardian-armor.md)**: Teleports your armor onto an ally.
 - **[Hedging Weapons](hedging-weapons.md)**: Floating weapons protect you and make ranged attacks.
 - **[Huntmaster’s Spear](huntmasters-spear.md)**: Spear becomes a +1 weapon against a chosen favored-enemy type and can be discharged for a powerful attack.
 - **[Ironbeard](ironbeard.md)**: School transmutation; Level antipaladin 1, cleric 1, magus 1, paladin 1, ranger 1 Casting Time 1 standard.
@@ -29,7 +30,9 @@
 - **[Read Magic](read-magic.md)**: Read scrolls and spellbooks.
 - **[Resistance](resistance.md)**: Subject gains +1 on saving throws.
 - **[Restoration, Lesser](restoration-lesser.md)**: Dispels magical ability penalty or repairs 1d4 ability damage.
+- **[Shield of Shards](shield-of-shards.md)**: Your shield breaks into orbiting shards that attack.
 - **[Spindrift Spritz](spindrift-spritz.md)**: Ally rerolls a save against fatigue, shaken, sickened, or staggered.
+- **[Stalwart Resolve](stalwart-resolve.md)**: Ignore ability damage to one score.
 - **[Sun Metal](sun-metal.md)**: Weapon touched bursts into flames.
 - **[Tactical Acumen](tactical-acumen.md)**: You gain an additional +1 on attack rolls or to AC due to battlefield positioning.
 - **[Veil of Heaven](veil-of-heaven.md)**: You surround yourself with a veil of positive energy, making it harder for evil outsiders to harm you.
@@ -49,6 +52,7 @@
 - **[Eagle’s Splendor](eagles-splendor.md)**: Subject gains +4 to Cha for 1 min./level.
 - **[Effortless Armor](effortless-armor.md)**: Armor you wear no longer slows your speed.
 - **[Endure Elements, Communal](endure-elements-communal.md)**: As endure elements, but you may divide the duration among creatures touched.
+- **[Healing Token](healing-token.md)**: Holy symbols let allies request healing at a distance.
 - **[Holy Javelin](holy-javelin.md)**: Deal ongoing damage to evil creatures and apply penalties.
 - **[Litany of Defense](litany-of-defense.md)**: Doubles armor’s enhancement bonus.
 - **[Litany of Eloquence](litany-of-eloquence.md)**: Fascinates a single creature for 1 round.
@@ -66,6 +70,7 @@
 - **[Sea Steed](sea-steed.md)**: Your mount adapts to an aquatic environment.
 - **[Sense Madness](sense-madness.md)**: Determine mental disturbances in nearby creatures.
 - **[Shield Other](shield-other.md)**: You take half of subject’s damage.
+- **[Spiritual Squire](spiritual-squire.md)**: A force servant helps carry, aid, and armor allies.
 - **[Stave Off Corruption](stave-off-corruption.md)**: Protect against a corruption’s progression.
 - **[Undetectable Alignment](undetectable-alignment.md)**: Conceals alignment from magical detection for 24 hours.
 - **[Widen Auras](widen-auras.md)**: Doubles the range of your antipaladin or paladin auras.
@@ -96,6 +101,7 @@
 - **[Remove Curse](remove-curse.md)**: Frees object or person from curse.
 - **[Resilient Reservoir](resilient-reservoir.md)**: School transmutation; Level magus 3, paladin 3, sorcerer/wizard 4, witch 4 Casting Time 1 standard action.
 - **[Resist Energy, Communal](resist-energy-communal.md)**: As resist energy, but you may divide the duration among creatures touched.
+- **[Revenant Armor](revenant-armor.md)**: Armor animates around its fallen wearer.
 - **[Second Wind](second-wind.md)**: Heal 2d8 + 1/level when below one-quarter hit points.
 - **[Sky Steed](sky-steed.md)**: Grant your mount angelic wings.
 - **[Spindrift Spritz, Mass](spindrift-spritz-mass.md)**: As spindrift spritz, affecting multiple creatures.
@@ -116,13 +122,16 @@
 - **[Death Ward](death-ward.md)**: Grants bonuses against death spells and negative energy.
 - **[Dispel Chaos](dispel-chaos.md)**: +4 bonus against attacks by chaotic creatures.
 - **[Dispel Evil](dispel-evil.md)**: +4 bonus against attacks by evil creatures.
+- **[Healing Flames](healing-flames.md)**: Holy flames heal good creatures and burn evil ones.
 - **[Holy Sword](holy-sword.md)**: Weapon becomes +5, deals +2d6 damage against evil.
+- **[Inspiring Recovery](inspiring-recovery.md)**: Heals and can revive a creature dead for 1 round, rallying its allies.
 - **[Litany of Thunder](litany-of-thunder.md)**: A single target is deafened until the condition is removed, and is confused for 1 round.
 - **[Litany of Vengeance](litany-of-vengeance.md)**: Allies attacking the target of the spell gain a +5 bonus on damage rolls for 1 round.
 - **[Magic Siege Engine, Greater](magic-siege-engine-greater.md)**: Siege engine gains +1 on targeting and damage rolls for every four caster levels.
 - **[Mark of Justice](mark-of-justice.md)**: Designates action that triggers *curse* on subject.
 - **[Neutralize Poison](neutralize-poison.md)**: Immunizes subject against poison, detoxifies venom in or on subject.
 - **[Paragon Surge](paragon-surge.md)**: You surge with ancestral power, temporarily embodying all the strengths of both elvenkind and humankind.
+- **[Purify Body](purify-body.md)**: Heals, grants temporary hit points, and removes pain, ability damage, and conditions.
 - **[Red Hand of the Killer](red-hand-of-the-killer.md)**: Stain the hand of a creature’s killer red.
 - **[Restoration](restoration.md)**: Restores level and ability score drains.
 - **[Sacred Nimbus](sacred-nimbus.md)**: Holy energy damages evil creatures that attack you and protects you from evil attacks.

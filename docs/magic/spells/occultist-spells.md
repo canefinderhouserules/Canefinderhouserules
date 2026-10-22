@@ -60,6 +60,7 @@ Occultists gain access to the following spells, determined by their chosen imple
 - Abjuring Step
 - **[Alarm](alarm.md)**: Wards an area for 2 hours/level.
 - **[Grappling Scarf](grappling-scarf.md)**: Your scarf becomes a grappling hook and rope.
+- **[Guardian Armor](guardian-armor.md)**: Teleports your armor onto an ally.
 - **[Hex Ward](hex-ward.md)**: Target gains +4 on saves against witch hexes.
 - **[Hold Portal](hold-portal.md)**: Holds door shut.
 - Peacebond
@@ -459,6 +460,7 @@ Occultists gain access to the following spells, determined by their chosen imple
 - **[Life Bubble](life-bubble.md)**: Protects creatures from sustained environmental effects.
 - Nondetection, Communal
 - **[Peacebond, Greater](peacebond-greater.md)**: As *peacebond*, but on multiple weapons, even if they aren’t sheathed.
+- **[Revenant Armor](revenant-armor.md)**: Armor animates around its fallen wearer.
 - **[Rising Water](rising-water.md)**: Conjures a cylinder of calm, swimmable water.
 - **[Soothe Construct](soothe-construct.md)**: Reduce the berserk chance of a construct.
 - **[Spell Immunity](spell-immunity.md)**: Subject is immune to one spell per 4 levels.
@@ -661,6 +663,7 @@ Occultists gain access to the following spells, determined by their chosen imple
 **Abjuration**:
 
 - **[Antimagic Field](antimagic-field.md)**: Negates magic within 10 ft.
+- **[Balance of Suffering](balance-of-suffering.md)**: Drain one creature to heal another.
 - **[Forbiddance](forbiddance.md)**: Blocks planar travel, damages creatures of different alignment.
 - **[Globe of Invulnerability](globe-of-invulnerability.md)**: As *lesser globe of invulnerability*, plus 4th-level spell effects.
 - **[Repulsion](repulsion.md)**: Creatures can’t approach you.

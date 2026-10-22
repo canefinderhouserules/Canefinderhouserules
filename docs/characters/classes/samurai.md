@@ -140,3 +140,14 @@ While most samurai belong to the order of the warrior, dedicating their consider
 The ronin can summon up this willpower as an immediate action, and can use it in one of three ways. He can use his willpower whenever an attack would reduce him to fewer than 0 hit points but wouldn’t kill him, to instead be at 1 hit point and conscious. He can use his willpower after making an attack roll to confirm a critical hit in order to reroll the confirmation roll. Finally, he can use his willpower to take 10 on a skill check during combat, even if the situation or the skill would not normally allow him to take 10. A ronin can use this ability once during a combat.
 
 **Chosen Destiny (Ex)**: At 15th level, the ronin is the master of his own destiny. Whenever the ronin makes a saving throw against a charm or compulsion effect, he may roll twice and take the better result. In addition, once per day, the ronin can treat any one d20 roll as if the result were a natural 20. He must declare the use of this ability before the roll is made.
+
+
+## Yojimbo (Archetype)
+
+Yojimbo are highly trained bodyguards favored by nobles and warlords. Yojimbo who follow the order of the warrior loyally guard a single master, while ronin serve whoever can pay for their protection.
+
+**Resolute Defense (Ex)**: At 1st level, whenever a yojimbo issues a challenge, he can select one ally as his ward for the duration of the challenge. Whenever the yojimbo is adjacent to his ward, he can use resolve, greater resolve, and true resolve on his ward rather than targeting himself. This ability replaces mount.
+
+**Armor Expertise (Ex)**: At 3rd level, a yojimbo selects one type of armor, such as chain shirt or scale mail. The yojimbo gains armor training, treating his samurai level as his fighter level, when wearing the selected armor. This ability replaces weapon expertise.
+
+**Intercept (Ex)**: At 4th level, a yojimbo learns to better disrupt the attacks of his enemies. He gains Bodyguard as a bonus feat, even if he does not meet the prerequisite. In addition, whenever the yojimbo uses the aid another action to increase an ally's Armor Class, the bonus to Armor Class from the aid another action increases by 1. This ability replaces mounted archer.

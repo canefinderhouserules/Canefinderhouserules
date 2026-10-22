@@ -392,6 +392,7 @@ Mesmerists gain access to the following spells. Spells without a link come from 
 
 ## 5th-Level Mesmerist Spells
 
+- **[Befuddled Combatant](befuddled-combatant.md)**: Reduces a target’s ability DCs by 4 and its damage to minimum.
 - **[Castigate, Mass](castigate-mass.md)**: As castigate, but affects multiple creatures.
 - **[Charnel House](charnel-house.md)**: Create an area of semi-real gore.
 - **[Cloak of Dreams](cloak-of-dreams.md)**: Creatures within 5 ft. fall asleep.

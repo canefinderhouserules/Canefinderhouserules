@@ -854,3 +854,13 @@ At 13th level, you can use this ability after succeeding at a saving throw to re
 *Heroic Legends (Su)*: At 15th level, you may inspire greatness or inspire heroics as a bard of your sorcerer level by sacrificing a spell slot as a swift or move action. The effect lasts a number of rounds equal to the sacrificed spell’s level; this duration is doubled for human recipients.
 
 *Immortal Legend (Ex)*: At 20th level, you cease aging; no longer need to eat, drink, or sleep; and gain immunity to death effects and energy drain.
+
+## Seeker
+
+Oracles and sorcerers gain their magical powers through strange and mysterious ways, be they chosen by fate or blood. Some join explorers’ societies specifically to find out more about their mysteries and bloodlines and determine the genesis and history of their eldritch talents. These spellcasters are known as seekers, after their obsession with researching ancient texts and obscure ruins for any clues they can find about their heritage and histories.
+
+**Tinkering (Ex)**: A seeker gains Disable Device as a class skill. In addition, at 1st level, a seeker adds half his sorcerer level on Perception checks made to locate traps and on all Disable Device skill checks (minimum +1). A seeker can use Disable Device to disarm magical traps. If the seeker also possesses levels in rogue or another class that provides the trapfinding ability, those levels stack with his sorcerer levels for determining his overall bonus on these skill checks. This ability replaces his bonus Eschew Materials feat.
+
+**Seeker Lore (Ex)**: By 3rd level, a seeker has already learned much about his bloodline, and is more comfortable using the bonus spells gained by that bloodline. He gains a +4 bonus on all concentration checks, on caster level checks made to overcome spell resistance, and on all Knowledge (arcana) and Spellcraft checks made on topics associated with his bonus spells. This ability replaces the bloodline power gained at 3rd level.
+
+**Seeker Magic (Su)**: At 15th level, a seeker becomes skilled at modifying his bloodline spells with metamagic. When a seeker applies a metamagic feat to any bonus spells granted by his bloodline, he reduces the metamagic feat’s spell level adjustment by 1. Thus, applying a metamagic feat like Still Spell to a spell does not change its effective spell level at all, while applying Quicken Spell only increases the spell’s effective spell level by 3 instead of by 4. This reduction to the spell level adjustment for metamagic feats does not stack with similar reductions from other abilities. This ability replaces the bloodline power gained at 15th level.

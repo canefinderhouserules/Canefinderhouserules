@@ -406,3 +406,75 @@ Instead of gaining this fast healing herself, a foundation of faith can expend a
 This ability is usable once per day at 5th level, plus an additional time per day for every 5 levels beyond 5th.
 
 This ability replaces channel energy.
+
+## Sacred Attendant
+
+Sacred attendants bring out the varied beauty in everyone they help, and they typically worship deities of beauty, love, and sex.
+
+**Channel Beauty (Su)**: Whenever a sacred attendant channels energy to heal, she can opt to reduce the number of dice she rolls by 1 or more. For every die the sacred attendant subtracts, each of the targets of the channeled energy is healed of 1 point of Charisma damage.
+
+This ability alters channel energy.
+
+**Domains**: The sacred attendant can choose only one domain from those belonging to her deity.
+
+This ability alters domains.
+
+**Nimble (Ex)**: The sacred attendant gains a +1 dodge bonus to AC and CMD when unarmored, unencumbered, and not denied her Dexterity bonus to AC (regardless of whether she has a Dexterity bonus). At 2nd level and every 4 cleric levels thereafter, the dodge bonus increases by 1 (to a maximum of +6 at 18th level).
+
+This ability replaces the cleric’s proficiency with light and medium armor.
+
+**Nurture Grace (Su)**: The sacred attendant can coax forth the charm and beauty within a willing, touched creature as a standard action. For 1 round, the subject gains an enhancement bonus equal to 1/2 the sacred attendant’s cleric level (minimum +1) on Charisma checks and Charisma-based skill checks. The sacred attendant can spend two uses of this ability to instead counsel a subject for 10 minutes; in this case, the ability’s duration lasts for 1 day. The sacred attendant can use this ability a number of times per day equal to 3 + her Wisdom modifier.
+
+**Inspiring Camaraderie (Sp)**: At 8th level, as a swift action whenever a sacred attendant casts a cure spell (a spell with “cure” in its name) that targets a single ally, the sacred attendant can infuse that ally with inspired vigor. For a number of rounds equal to 1/2 the sacred attendant’s cleric level, the ally’s attack rolls gain a competence bonus equal to the sacred attendant’s cleric level. These rounds begin as soon as the sacred attendant uses this ability and elapse consecutively. The sacred attendant can use this ability once per day at 8th level, and an additional time per day for every 4 cleric levels beyond 8th.
+
+## Stoic Caregiver
+
+Stoic caregivers are champions of life in defiance of untimely death as well as undeath. Stoic caregivers are sent to protect and help those who find themselves in dangerous situations, especially children and expectant mothers, and they provide aid and comfort to individuals acting to fulfill prophecy.
+
+**Positive Channeler (Su)**: A stoic caregiver must choose to channel positive energy, even if she worships a deity who is neutral or if she is not devoted to a particular deity. A stoic caregiver cannot worship a deity who is evil.
+
+This ability alters channel energy.
+
+**Domains**: A stoic caregiver chooses only one domain.
+
+This ability alters domains.
+
+**Midwife Training (Su)**: A stoic caregiver is an expert at caring for lives that are in the process of being formed as well as the bodies of those who expect to usher new life into the world. The stoic caregiver gains a +2 bonus on Heal checks to treat expectant mothers and children. Any Heal check by the stoic caregiver that deals damage to the patient always deals the minimum amount of damage.
+
+Whenever a stoic caregiver stops bleeding with the Heal skill or magical healing, or restores hit points with a healing spell or channeled positive energy, the healed creature gains partial resistance to bleed damage and negative energy for a number of minutes equal to 1/2 the stoic caregiver’s cleric level. Any bleed damage a target takes during that time is halved. Additionally, when protected creatures take negative energy damage (such as from an evil cleric’s or an antipaladin’s negative channeled energy, or spells such as *inflict light wounds*), the amount of that damage is reduced by 5.
+
+**Fated Cures (Su)**: Creatures must roll twice and take the lower result when they make any saving throws against a stoic caregiver’s spells of the healing subschool.
+
+**Three-Aspect Channel (Su)**: At 6th level, a stoic caregiver can channel positive energy to heal and harm simultaneously. When she does so, she restores only 1/2 the usual amount of hit points and deals only 1/2 the usual number of points of damage (or 1/4 on a successful saving throw).
+
+## Angelfire Apostle
+
+Angelfire apostles use the powers of good to avoid violence when possible and cleanse both maladies and evil creatures with blinding flames. Angelfire apostles typically follow deities of mercy, light, and redemption.
+
+**Armor Proficiency**: Angelfire apostles are not proficient with medium armor.
+
+This ability alters the cleric’s armor proficiency.
+
+**Diminished Spellcasting**: An angelfire apostle is less concerned with the traditional divine magic that many religious adherents receive. The angelfire apostle receives one fewer spell slot at each spell level. When an angelfire apostle gets no spells per day at a spell level, he can cast domain spells of that level normally, but can only cast non-domain spells of that level if he gets them as bonus spells.
+
+This ability alters the cleric’s spellcasting.
+
+**Extra Channel**: At 1st level, the angelfire apostle gains Extra Channel as a bonus feat.
+
+**Channel Angelfire (Su)**: An angelfire apostle must be of good or neutral alignment and must choose to channel positive energy, even if his deity is neutral or if he is not devoted to a particular deity. When an angelfire apostle channels positive energy, affected nongood creatures are dazzled for 1 round, with no saving throw for this effect, in addition to experiencing the normal effects of channel energy.
+
+This ability alters channel energy.
+
+**Versatile Healing Channel (Sp)**: At 5th level, the angelfire apostle can spend two uses of his channel energy ability to cast *remove blindness/deafness* or *lesser restoration* as a spell-like ability. At 7th level, he can choose *remove disease* or *remove paralysis*. At 9th level, he can choose *neutralize poison*. At 11th level, he can choose *breath of life*. At 13th level, he can choose *heal*. At 15th level, he can choose *regenerate*. At 17th level, he can choose *restoration* but cannot affect permanent negative levels. At 19th level, he can choose *resurrection* but can affect only a target that has been dead no more than 1 round per his cleric level.
+
+**Cleansing Flames (Su)**: At 9th level, the angelfire apostle becomes a direct conduit for the righteous power of his deity. Whenever the angelfire apostle casts a spell that belongs to the healing subschool that is a lower spell level than the highest spell he can cast, he can unleash a blast of flames as a swift action by expending one use of his channel energy ability. The flames last for 1 round and fill a contiguous area equal to one 10-foot cube per level of the healing spell cast (at least one side of the cube must be adjacent to the angelfire apostle’s space). The flames deal 1d4 points of damage per spell level. Half of the damage is fire damage, and half is raw divine power not subject to fire resistance or immunity. Any creature in the area can halve the damage with a successful Reflex saving throw against the spell’s DC. The angelfire apostle can use this ability a number of times per day equal to his Charisma modifier.
+
+## Scroll Scholar
+
+A scroll scholar values knowledge and learning as much as her other abilities, trading a portion of her potential in her chosen class for greater breadth of skill at deciphering old texts, piecing together strange fragments of esoteric lore, and deciphering the hidden qualities of strange and unusual magical items. A wizard must either be a universalist wizard or a diviner wizard in order to take this archetype.
+
+**Diligent Student (Ex)**: At 1st level, a scroll scholar chooses one Knowledge skill. This becomes a class skill if it is not already one. The scroll scholar adds half her class level to all Knowledge checks of this type (minimum 1). At 5th level and every five levels thereafter, a scroll scholar chooses 1 additional Knowledge skill to receive this bonus. This ability replaces one of the 1st-level granted powers from her domains—the character gets to choose which of her two 1st-level granted powers it replaces.
+
+**Secrets Revealed (Sp)**: At 5th level, a scroll scholar gains the ability to cast *comprehend languages* and *identify* as spell-like abilities. Her caster level is equal to her cleric level. She can cast these spells once per day each at 5th level, twice per day each at 7th level, and three times per day each at 9th level. At 11th level, one of these spell-like abilities (scholar’s choice) becomes a constant spell-like ability, and at 13th level, the second one becomes a constant spell-like ability. This ability replaces the increase to her channel energy damage normally gained at 5th level—her channel energy damage increases to 3d6 at 7th level instead, and for the rest of her career as a cleric lags 1d6 behind normal.
+
+**Flash of Insight (Su)**: At 10th level, once per day, a scroll scholar can gain a +5 bonus on a single attack roll, caster level check, or saving throw as an immediate action. This decision must be made before the results of the roll are known, but can be made after the die is rolled. This ability can be used twice per day at 15th level, and 3 times per day at 20th level. This ability replaces the normal addition of a new 4th-level spell slot to the character’s spells per day—from this point on, the cleric has one fewer 4th-level spell slot than other clerics.

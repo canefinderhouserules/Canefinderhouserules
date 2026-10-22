@@ -87,6 +87,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Compulsive Liar](compulsive-liar.md)**: Prevent target from speaking the truth.
 - **[Conditional Favor](conditional-favor.md)**: Provide another spell whose effects reverse if the target breaks a restriction.
 - **[Contact Entity I](contact-entity-i.md)**: Ask eldritch entities to find and converse with you.
+- **[Corpse Lanterns](corpse-lanterns.md)**: Dancing lights that hinder Stealth.
 - **[Curse Terrain, Lesser](curse-terrain-lesser.md)**: Curse an area with three mild hazards.
 - **[Dark Whispers](dark-whispers.md)**: Whisper through the shadows.
 - **[Death Candle](death-candle.md)**: This spell functions like death knell, except instead of using the slain target’s life energy to enhance.
@@ -108,6 +109,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Grasping Vine](grasping-vine.md)**: A vine from your body manipulates objects within 20 ft.
 - **[Haunting Mists](haunting-mists.md)**: Creatures are shaken and take Wis damage.
 - **[Hidden Presence](hidden-presence.md)**: Prevent creatures from noticing your presence.
+- **[Lipstitch](lipstitch.md)**: Sew the target’s lips shut.
 - **[Mad Hallucination](mad-hallucination.md)**: Target takes penalties to mental actions.
 - **[Mask Dweomer, Communal](mask-dweomer-communal.md)**: As mask dweomer, but you may divide the duration among creatures touched.
 - **[Masterwork Transformation](masterwork-transformation.md)**: Make a normal item into a masterwork one.
@@ -135,6 +137,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Skinsend](skinsend.md)**: Animate and possess your own skin as if it were a separate creature.
 - **[Squeeze](squeeze.md)**: School transmutation (polymorph); Level alchemist 2, sorcerer/wizard 2, witch 2 Casting Time 1 standard.
 - **[Stabilize Powder](stabilize-powder.md)**: Ammunition in the targeted firearm is less likely to misfire.
+- **[Stalwart Resolve](stalwart-resolve.md)**: Ignore ability damage to one score.
 - **[Steal Breath](steal-breath.md)**: You pull the breath from a creature’s lungs, dealing damage and leaving it unable to speak, use breath.
 - **[Steal Voice](steal-voice.md)**: Target gains the croaking spellblight.
 - **[Symbol of Mirroring](symbol-of-mirroring.md)**: Triggered rune creates mirror images.
@@ -192,6 +195,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Locate Weakness](locate-weakness.md)**: You roll damage twice when you roll damage for a critical hit and take the best damage.
 - **[Marionette Possession](marionette-possession.md)**: As magic jar, but limited to line of sight.
 - **[Matchmaker](matchmaker.md)**: Cause two creatures to fall in love.
+- **[Nature’s Ravages](natures-ravages.md)**: Rapidly decomposes a corpse.
 - **[Nixie’s Lure](nixie-s-lure.md)**: This spell creates an unearthly and infectious song that seductively summons all who hear it.
 - **[Open Book](open-book.md)**: Make it permanently easier to learn more about a target.
 - **[Pack Empathy](pack-empathy.md)**: Create an empathic bond with allies.
@@ -203,13 +207,16 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Rain of Frogs](rain-of-frogs.md)**: Summon a swarm of poisonous frogs.
 - **[Reckless Infatuation](reckless-infatuation.md)**: Target is compelled to stay near another.
 - **[Returning Weapon, Communal](returning-weapon-communal.md)**: As returning weapon, but you may divide the duration among weapons touched.
+- **[Revenant Armor](revenant-armor.md)**: Armor animates around its fallen wearer.
 - **[Sands of Time](sands-of-time.md)**: Target temporarily ages.
 - **[Seed Spies](seed-spies.md)**: Wafting seeds act as spies, as insect spies.
+- **[Sharesister](sharesister.md)**: Take a negative level to boost an ally’s casting.
 - **[Shifting Shadows](shifting-shadows.md)**: Shadows make flanking and attacks of opportunity unreliable.
 - **[Spit Venom](spit-venom.md)**: Spit blinding black adder venom.
 - **[Strangling Hair](strangling-hair.md)**: Your hair animates and grapples.
 - **[Symbol of Exsanguination](symbol-of-exsanguination.md)**: Triggered rune causes nearby creatures to bleed.
 - **[Toxic Rupture](toxic-rupture.md)**: A poisonous creature is poisoned by its own venom.
+- **[Twisted Innards](twisted-innards.md)**: Crits and sneak attacks may fail.
 - **[Unadulterated Loathing](unadulterated-loathing.md)**: Target is compelled to avoid another creature.
 - **[Vermin Shape I](vermin-shape-i.md)**: Take the form and some of the powers of a Small or Medium vermin.
 - **[Vision of Hell](vision-of-hell.md)**: Illusory hellscape makes creatures shaken.
@@ -224,6 +231,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Absorb Toxicity](absorb-toxicity.md)**: You become immune to diseases and toxins, absorb one, and then spread it to others.
 - **[Age Resistance, Lesser](age-resistance-lesser.md)**: Ignore penalties from middle age.
 - **[Assume Appearance, Greater](assume-appearance-greater.md)**: Use a likeness to adopt a dead creature’s form.
+- **[Bite the Hand](bite-the-hand.md)**: Summoned creature attacks its summoner.
 - **[Borrow Corruption](borrow-corruption.md)**: Temporarily gain the effects of a corrupted creature’s manifestations.
 - **[Cape of Wasps](cape-of-wasps.md)**: Wasp swarm defends or carries you.
 - **[Complex Hallucination](complex-hallucination.md)**: Create a phantasm with effects for all senses.
@@ -274,6 +282,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 
 ## 5th-Level Witch Spells
 
+- **[Befuddled Combatant](befuddled-combatant.md)**: Reduces a target’s ability DCs by 4 and its damage to minimum.
 - **[Blood Ties](blood-ties.md)**: When a target is harmed, so is the target’s relative.
 - **[Callback, Greater](callback-greater.md)**: Teleport a familiar or spirit animal from miles away to your side when it is injured.
 - **[Cave Fangs](cave-fangs.md)**: Create a trap from stalactites and stalagmites.
@@ -327,6 +336,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 
 - **[Age Resistance](age-resistance.md)**: Ignore penalties from old age.
 - **[Alleviate Corruption](alleviate-corruption.md)**: Attempt to weaken a corruption’s effect at risk to yourself.
+- **[Balance of Suffering](balance-of-suffering.md)**: Drain one creature to heal another.
 - **[Binding Earth, Mass](binding-earth-mass.md)**: School transmutation [earth]; Level druid 6, witch 6 Target one creature or object/level, no two of which can.
 - **[Cruel Jaunt](cruel-jaunt.md)**: Sense creatures suffering from fear, then teleport near them.
 - **[Curse of the Outcast](curse-of-the-outcast.md)**: Curse someone to rub people the wrong way.
@@ -359,6 +369,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 ## 7th-Level Witch Spells
 
 - **[Age Resistance, Greater](age-resistance-greater.md)**: Ignore penalties from venerable age.
+- **[Bite the Hand, Mass](bite-the-hand-mass.md)**: As bite the hand, multiple targets.
 - **[Black Mark](black-mark.md)**: You mark the target with a black marking on its skin; the mark’s exact appearance determined by you, but can.
 - **[Contact Entity IV](contact-entity-iv.md)**: Ask extraordinarily powerful eldritch entities to find and converse with you, or they may reply telepathically.
 - **[Create Demiplane, Lesser](create-demiplane-lesser.md)**: Create your own demiplane.
@@ -372,6 +383,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Inflict Pain, Mass](inflict-pain-mass.md)**: As inflict pain, but affecting one creature per level.
 - **[Insect Spies, Greater](insect-spies-greater.md)**: Use magic beetles as spies and also share their senses.
 - **[Lunar Veil](lunar-veil.md)**: Dispel light and revert lycanthropes.
+- **[Nature’s Ravages, Greater](natures-ravages-greater.md)**: As nature’s ravages, aging a corpse by years.
 - **[Object Possession, Greater](object-possession-greater.md)**: As possess object, but the object is more powerful and you can possess a construct.
 - **[Plundered Power](plundered-power.md)**: Kill a creature and steal its strongest spell-like ability.
 - **[Poison Breath](poison-breath.md)**: Cone of toxic mist, as poison.

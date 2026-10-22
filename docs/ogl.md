@@ -101,3 +101,15 @@ The following text is the property of Wizards of the Coast, Inc. and is Copyrigh
     Pathfinder Player Companion: Spymaster’s Handbook © 2016, Paizo Inc.; Authors: Alexander Augunas, David N. Ross, and Owen K.C. Stephens.
 
     Pathfinder Player Companion: Elemental Master’s Handbook © 2017, Paizo Inc.; Authors: John Compton, Eleanor Ferron, Mikko Kallio, Jason Keeley, Isabelle Lee, and Christopher Wasko.
+
+    Pathfinder Player Companion: Dungeoneer’s Handbook © 2013, Paizo Publishing, LLC; Authors: Amanda Hamon, Gareth Hanrahan, David Ross, and Jerome Virnich.
+
+    Pathfinder Player Companion: Healer’s Handbook © 2016, Paizo Inc.; Authors: Alexander Augunas, David N. Ross, and Stephen Rowe.
+
+    Pathfinder Campaign Setting: Pathfinder Society Field Guide © 2011, Paizo Publishing, LLC; Authors: Erik Mona, Mark Moreland, Russ Taylor, and Larry Wilhelm.
+
+    Pathfinder Campaign Setting: Mythic Realms © 2013, Paizo Publishing, LLC; Authors: Benjamin Bruck, Jason Bulmahn, Amanda Hamon, Nicolas Logue, Jason Nelson, F. Wesley Schneider, and Russ Taylor.
+
+    Pathfinder Player Companion: Weapon Master’s Handbook © 2015, Paizo Inc.; Authors: Alexander Augunas and David N. Ross.
+
+    Pathfinder Player Companion: Armor Master's Handbook © 2016, Paizo Inc.; Authors: Alexander Augunas, Robert Brookes, Anthony Li, Luis Loza, and David Schwartz.

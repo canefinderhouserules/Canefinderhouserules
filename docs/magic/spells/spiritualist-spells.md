@@ -117,6 +117,7 @@ Spiritualists gain access to the following spells. Spells without a link come fr
 - **[Shifted Steps](shifted-steps.md)**: Make a target sound as if elsewhere.
 - **[Spectral Hand](spectral-hand.md)**: Creates disembodied glowing hand to deliver touch attacks.
 - **[Spindrift Spritz](spindrift-spritz.md)**: Ally rerolls a save against fatigue, shaken, sickened, or staggered.
+- **[Spiritual Squire](spiritual-squire.md)**: A force servant helps carry, aid, and armor allies.
 - **[Spiritual Weapon](spiritual-weapon.md)**: Magic weapon attacks on its own.
 - **[Status](status.md)**: Monitors condition, position of allies.
 - **[Stricken Heart](stricken-heart.md)**: Touch attack deals 346 damage and staggers target.
@@ -178,6 +179,7 @@ Spiritualists gain access to the following spells. Spells without a link come fr
 - **[Remove Blindness/Deafness](remove-blindness-deafness.md)**: Cures normal or magical blindness or deafness.
 - **[Remove Curse](remove-curse.md)**: Frees object or person from curse.
 - **[Remove Disease](remove-disease.md)**: Cures all diseases affecting subject.
+- **[Revenant Armor](revenant-armor.md)**: Armor animates around its fallen wearer.
 - **[Riding Possession](riding-possession.md)**: As possession, but you observe instead of control the subject.
 - **[Rigor Mortis](rigor-mortis.md)**: Painfully swell a target’s joints.
 - **[Sands of Time](sands-of-time.md)**: Target temporarily ages.
@@ -327,6 +329,7 @@ Spiritualists gain access to the following spells. Spells without a link come fr
 
 - **[Alleviate Corruption](alleviate-corruption.md)**: Attempt to weaken a corruption’s effect at risk to yourself.
 - **[Analyze Dweomer](analyze-dweomer.md)**: Reveals magical aspects of subject.
+- **[Balance of Suffering](balance-of-suffering.md)**: Drain one creature to heal another.
 - **[Banishment](banishment.md)**: Banishes 2 HD/level of extraplanar creatures.
 - **[Banshee Blast](banshee-blast.md)**
 - **[Circle of Death](circle-of-death.md)**: Kills 1d4/level HD of creatures.

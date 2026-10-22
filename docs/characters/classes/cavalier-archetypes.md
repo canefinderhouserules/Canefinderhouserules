@@ -467,3 +467,19 @@ A cavalier belonging to this order specializes in hunting down large monsters an
 *Resist Energy (Su)*: At 8th level, the cavalier can steel himself against harmful energies. Once per day as a move action, he chooses one of the following: acid, cold, electricity, or fire. He gains energy resistance 5 against the chosen type for 1 minute. At 12th, 16th, and 20th levels, the resistance increases by 5, and the cavalier gains an additional daily use of this ability.
 
 *Counterstriking Challenge (Ex)*: At 15th level, once per day when he challenges a Large or larger creature, the cavalier can also prepare to interrupt the creature’s special attacks. The challenged target provokes an attack of opportunity from the cavalier whenever it activates an extraordinary or a supernatural attack (such as a breath weapon or gaze attack). If the cavalier deals damage with this attack, the creature must succeed at a Will save (DC = 10 + half the cavalier’s level + his Charisma modifier) or it fails to activate the special attack and loses the action it took to do so. The cavalier can perform three such attacks of opportunity over the course of a counterstriking challenge.
+
+## Shield Knight
+
+Shield knights revere a legendary general who was crucial in the defeat of a powerful wizard-king, calling upon the general’s memory to grant them protection from evil magic, just as the general’s enchanted shield protected him. Many of these cavaliers further emulate him by joining the order of the shield.
+
+**Shield Expertise**: At 1st level, a shield knight gains the Shield Focus feat as a bonus feat. His cavalier levels count as fighter levels for the purpose of qualifying for all feats that list the Shield Focus feat as a prerequisite. This ability replaces tactician.
+
+**Deflective Shield (Ex)**: At 4th level, a shield knight specializes in using his shield to deflect attacks. He adds a bonus equal to his shield bonus to AC to his touch AC and his CMD, up to a maximum of half his cavalier level. He does not include any enhancement bonus he has from a magic shield in this calculation. This ability replaces expert trainer.
+
+**Heraldic Banner (Ex)**: At 5th level, a shield knight uses his shield as a banner, though its benefits apply only to allies within 30 feet. This ability alters banner.
+
+**Soul Shield (Su)**: At 9th level, when carrying a shield, a shield knight adds a bonus equal to his shield bonus to AC on all saving throws against curse spells and effects, up to a maximum of half his cavalier level. He does not include any enhancement bonus from a magic shield in this calculation. This ability replaces greater tactician.
+
+**Defensive Challenge (Ex)**: At 12th level, whenever a shield knight declares a challenge, his target must pay particular attention to him. As long as the target is within the threatened area of the cavalier, it takes a –2 penalty on attack rolls against anyone other than the shield knight. This ability replaces demanding challenge.
+
+**Heart Shield (Su)**: At 17th level, when carrying a shield, a shield knight adds a bonus equal to his shield bonus to AC on saving throws against death spells and magical death effects, up to a maximum of half his cavalier level. He does not include any enhancement bonus from a magic shield in this calculation. This ability replaces a second use of greater tactician.

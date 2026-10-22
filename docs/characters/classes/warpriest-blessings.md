@@ -241,3 +241,53 @@ In the flames of a wildfire you take inspiration.
 **Leaping Flames (Minor)**: You touch an ally to bless it with the speed of a wildfire for 1 minute. The ally gains a +10-foot enhancement bonus to its base speed, and the ally gains a +1 dodge bonus to its AC against attacks of opportunity.
 
 **Fiery Wake (Major)**: At 10th level, when you move, you can use a swift action to invoke a blazing blessing on yourself. For the rest of your turn, your movement leaves behind a 10-foot-tall wall of opaque fire in your path. The wall burns for 1 minute. A creature that touches the wall takes 2d6 points of fire damage.
+
+## Focused Blessings
+
+Focused blessings are more specific blessings bestowed upon a warpriest by his deity that allow players greater flexibility for customization. Focused blessings are to blessings what subdomains are to domains; each focused blessing corresponds to a specific subdomain, and a warpriest can select a focused blessing only if his deity could grant the corresponding subdomain (and associated domain) to a cleric. For instance, a warpriest can select the Resurrection focused blessing only if his deity’s list of subdomains includes the Resurrection subdomain.
+
+Each focused blessing grants either a minor blessing or a major blessing that replaces the associated blessing’s respective minor blessing or major blessing. If a warpriest selects a focused blessing, he cannot select its associated blessing as his other blessing choice (in effect, the focused blessing replaces its associated blessing). A focused blessing is treated as equivalent to its associated blessing for any effect or prerequisite based on blessings. A focused blessing can be selected by a character of any class that grants the warpriest’s blessing class feature, provided his deity allows the focused blessing (subject to the GM’s discretion).
+
+If a warpriest with a focused blessing or blessings also has levels in a class that grants cleric domains, the associated blessing or blessings must match the domain selected by that class. Subject to the GM’s discretion, the warpriest can change his previously selected associated blessings or domains to make all of them conform.
+
+If a focused blessing ability calls for a saving throw, the DC of the save is equal to 10 + 1/2 the character’s warpriest level + his Wisdom modifier.
+
+### Cooperation Blessing
+
+**Associated Blessing**: Community.
+
+**Replacement Blessing**: The following minor blessing replaces the communal aid ability of the Community blessing.
+
+**Team Effort (minor)**: At 1st level, you can touch an ally and grant it the blessing of cooperation. Choose one teamwork feat that you have. The touched ally gains the benefit of the chosen teamwork feat for a number of rounds equal to 1/2 your warpriest level (minimum 1). Alternatively, you can choose one teamwork feat that a touched ally has and gain the benefit of the chosen feat for a number of rounds equal to 1/2 your warpriest level (minimum 1).
+
+### Freedom Blessing
+
+**Associated Blessing**: Liberation.
+
+**Replacement Blessing**: The following major blessing replaces the freedom’s shout ability of the Liberation blessing.
+
+**Greater Liberation (major)**: At 10th level, when you use the liberation ability of the Liberation blessing, its effects last for 1 minute.
+
+### Martyr Blessing
+
+**Associated Blessing**: Nobility.
+
+**Replacement Blessing**: The following major blessing replaces the lead by example ability of the Nobility blessing.
+
+**Martyr’s Sacrifice (major)**: At 10th level, your body can accept wounds meant for others you deem worthy. You can shoulder the wounds of an ally within 50 feet for 1 minute, and during this time, the ally is affected as if you had cast *shield other* on her (except with a range of 50 feet). You can have only one use of this ability active at a time; if you use this major blessing again, the previous use immediately expires.
+
+### Restoration Blessing
+
+**Associated Blessing**: Healing.
+
+**Replacement Blessing**: The following minor blessing replaces the powerful healer ability of the Healing blessing.
+
+**Ameliorating Touch (minor)**: At 1st level, your touch is a balm to your suffering allies. You can touch an ally as a swift action to temporarily relieve that ally of the fatigued, shaken, or sickened condition. This blessing suppresses those conditions for 1 minute. At 2nd level, you can spend two uses of your blessing ability whenever you heal yourself or an ally with your fervor class ability to use this minor blessing as a free action instead of a swift action.
+
+### Resurrection Blessing
+
+**Associated Blessing**: Healing.
+
+**Replacement Blessing**: The following major blessing replaces the fast healing ability of the Healing blessing.
+
+**Return of the Fallen (major)**: At 10th level, your touch can defy the cold claws of death itself. You can temporarily revive a touched ally to continue fighting, as if you had cast *raise dead* on her. The revived ally is also staggered for a number of rounds equal to 1/2 your warpriest level, after which she immediately dies. The ally is free to act as she sees fit during this time, and you are granted no control over her.

@@ -642,3 +642,53 @@ Eldritch guardians are trained to detect and give warning about magic threats to
 **Share Training (Ex)**: At 2nd level, when the familiar can see and hear its master, it can use any combat feat possessed by the eldritch guardian. The familiar doesn’t have to meet the feat’s prerequisites, but at the GM’s discretion may be precluded from using certain combat feats due to its physical form. For example, an eldritch guardian’s pig familiar with access to Exotic Weapon Proficiency (spiked chain) would not gain the ability to use spiked chains, since it doesn’t have any limbs capable of properly handling them. This ability replaces the bonus feat gained at 2nd level.
 
 **Steel Will (Ex)**: At 2nd level, the eldritch guardian gains a +1 bonus on Will saves against fear and mind-affecting effects. This bonus increases by 1 for every 4 levels beyond 2nd. This ability replaces bravery.
+
+## Lore Warden
+
+Quick thinking and deception can often carry the day where raw force might not. Lore wardens are the bodyguards, guardians, and soldiers who protect and watch over important repositories of lore, and they themselves are impressive keepers of all manner of knowledge. Lore wardens are fighters who benefit from learning to outsmart and outmaneuver their foes rather than just overpower them. Even out of combat, lore wardens have a quick wit and a surprising breadth of knowledge that can often grant them significant advantages over enemies even before a battle begins.
+
+**Scholastic (Ex)**: Lore wardens gain 2 additional skill ranks each level. These ranks must be spent on Intelligence-based skills. All Intelligence-based skills are class skills for lore wardens. This ability replaces the lore warden’s proficiency with medium armor, heavy armor, and shields.
+
+**Expertise (Ex)**: At 2nd level, a lore warden gains Combat Expertise as a bonus feat, even if he would not normally qualify for this feat. This ability replaces bravery 1.
+
+**Maneuver Mastery (Ex)**: At 3rd level, a lore warden gains a +2 bonus on all CMB checks and to his CMD. This bonus increases to +4 at 7th level, +6 at 11th level, and +8 at 15th level. This ability replaces armor training 1.
+
+**Know Thy Enemy (Ex)**: At 7th level, a lore warden can take a standard action to study a specific target in sight. He must make a Knowledge check to determine the target’s abilities and weaknesses as part of this standard action. If successful, the lore warden not only notes the appropriate abilities and weaknesses, as detailed under the Knowledge skill, but also gains a +2 competence bonus on all attack rolls and weapon damage rolls made against that enemy. Note that this bonus on attack and damage rolls applies only to that specific creature. This bonus lasts for the duration of an encounter, or until the lore warden attempts a new Knowledge check to use this ability on a different target. This ability replaces armor training 2.
+
+**Hair’s Breadth (Ex)**: At 11th level, a lore warden can attempt an Acrobatics check as an immediate action to negate a confirmation roll for a critical hit. The critical hit confirmation is negated (though the attack still hits and deals normal damage) if the Acrobatics check is greater than the opponent’s confirmation roll. This ability replaces armor training 3.
+
+**Swift Lore (Ex)**: At 14th level, a lore warden can use his Know Thy Enemy ability as a swift action. This ability replaces armor training 4.
+
+**Know Weakness (Ex)**: At 19th level, a lore warden can automatically confirm a critical hit once per round when he threatens a critical hit. This ability replaces armor mastery.
+
+## Free-Style Fighter
+
+Free-style fighters are most common in regions where students travel and study with multiple teachers, or learn in anything-goes fighting schools, allowing them to blend fighting styles into a greater whole.
+
+**Class Skills**: A free-style fighter receives Escape Artist and Knowledge (local) as class skills, but does not receive Knowledge (dungeoneering) or Ride as class skills. This alters the fighter’s class skills.
+
+**Martial Flexibility (Ex)**: A free-style fighter gains martial flexibility as per the brawler class feature, treating his fighter level as his brawler level for the purposes of this ability. This ability replaces the bonus feats gained at 1st level, 6th level, 10th level, and 12th level, as well as weapon training and weapon mastery.
+
+**Free Fighting Style (Ex)**: At 3rd level, a free-style fighter can freely mix two of the styles he knows into a more flexible style. A free-style fighter can have an additional style feat stance active simultaneously with his first style feat stance. He can enter all of his allowed stances as a move action or one stance as a swift action. At 11th level, a free-style fighter can have the stances of up to two additional style feats active at the same time. At 15th level, a free-style fighter can have the stances of up to three additional style feats active at the same time. This ability replaces armor training.
+
+## Relic Master
+
+Commonly trained in the well-funded temples of ancient lands, the relic master is skilled in magic item mastery.
+
+**Class Skills**: The relic master receives Knowledge (arcana) and Use Magic Device as class skills, but doesn’t receive Handle Animal or Ride as class skills. This alters the fighter’s class skills.
+
+**Improved Item Mastery (Su)**: At 3rd level, once per day, a relic master can use an item mastery feat she knows with a magic item that doesn’t have an appropriate spell in its construction requirements. The magic item must meet all other requirements of the item mastery feat. Alternatively, if she is using a magic item with an appropriate spell in its construction requirements, she can use an item mastery feat without it counting against the feat’s total uses per day. She can use this ability one additional time per day at 7th, 11th, and 15th levels. This ability replaces armor training.
+
+**Relic Channeler (Su)**: At 5th level, a relic master can increase the potency of a magic item she wields by investing it with a bit of her vitality as a swift action. If the item is armor, a shield, or a weapon, its enhancement bonus increases by 1 to a maximum of +5. If the magic item creates a spell or has a save DC, its effective caster level increases by 1. A relic master can use this ability for a number of minutes per day equal to 1 + her Constitution modifier (minimum 1 minute). This duration doesn’t need to be consecutive, but it must be used in 1-minute increments. This ability replaces weapon training.
+
+**Improvised Item Mastery (Su)**: At 19th level as a full-round action, the relic master can select one item mastery feat whose prerequisites she meets but that she doesn’t already have. She gains access to this feat, though she can’t use it as a prerequisite for other feats or options. If she selects a different item mastery feat, she loses access to her previous use of improvised item mastery and any magic effect created with it ends immediately. Any daily uses of a selected improvised item mastery feat count against all improvised mastery feats selected in the same day. This ability replaces armor mastery.
+
+## Armored Defender
+
+Armored defenders occupy and protect contested territory. These heavily armored soldiers don’t train for maneuverability, but rather for immovability. Taking advantage of their weighty armor, armored defenders can hold back an onslaught of enemies intent on breaking through their line.
+
+**Armored Defense (Ex)**: At 3rd level, an armored defender gains a bonus to his CMD against bull rush, dirty trick, drag, grapple, overrun, reposition, and trip combat maneuver checks. This bonus also applies to the DC of foes’ Acrobatics checks to move through squares he threatens. This bonus is +1 when the armored defender is wearing medium armor, and +3 when he is wearing heavy armor. At 7th, 11th, and 15th levels, these bonuses increase by 1.
+
+In addition to this, the armored defender is able to choose one of the following combat maneuvers: bull rush, dirty trick, drag, grapple, overrun, reposition, or trip. When he is wearing medium or heavy armor, the armored defender adds half his armor training bonus on combat maneuver checks for the selected maneuver. He can choose an additional combat maneuver at 7th, 11th, and 15th levels.
+
+This ability replaces armor training 1 through 4, but counts as armor training for the purposes of qualifying for feats and prestige classes. It does not count as advanced armor training.

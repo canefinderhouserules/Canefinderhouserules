@@ -8,6 +8,7 @@ New alchemist spells from *Ultimate Magic* and *Ultimate Combat*. Spells from ot
 - **[Anticipate Peril](anticipate-peril.md)**: Target gains a bonus on one initiative check.
 - **[Blend](blend.md)**: You draw upon your elven link to the wilderness to change the coloration of yourself and your equipment to.
 - **[Fabricate Disguise](fabricate-disguise.md)**: Create a disguise in an instant.
+- **[Identity Validation](identity-validation.md)**: Confirm a creature’s identity from a sample.
 - **[Illusion of Calm](illusion-of-calm.md)**: You appear to be standing still, even when you take some actions.
 - **[Linebreaker](linebreaker.md)**: You gain a +20 foot bonus to your base speed when charging and a +2 bonus on combat maneuver checks made to.
 - **[Longshot](longshot.md)**: Grants a +10-foot bonus to the range increment for any ranged weapon fired.
@@ -37,6 +38,7 @@ New alchemist spells from *Ultimate Magic* and *Ultimate Combat*. Spells from ot
 - **[Bullet Shield](bullet-shield.md)**: You gain a +4 deflection bonus to AC against firearm attacks.
 - **[Catatonia](catatonia.md)**: Make a willing target appear to be dead.
 - **[Certain Grip](certain-grip.md)**: You gain a +4 competence bonus on Acrobatics and Climb checks and to CMD.
+- **[Curative Distillation](curative-distillation.md)**: Heals and grants the benefits of a consumed healing item.
 - **[Defensive Shock](defensive-shock.md)**: Electricity damages your attackers.
 - **[Delay Disease](delay-disease.md)**: The target becomes temporarily immune to disease.
 - **[Enshroud Thoughts](enshroud-thoughts.md)**: Ward yourself against thought detection and memory alteration.
@@ -54,7 +56,10 @@ New alchemist spells from *Ultimate Magic* and *Ultimate Combat*. Spells from ot
 - **[Sickening Strikes](sickening-strikes.md)**: You are imbued with disease, and any creature you strike with a melee attack must make a Fortitude save or be.
 - **[Skinsend](skinsend.md)**: Animate and possess your own skin as if it were a separate creature.
 - **[Squeeze](squeeze.md)**: School transmutation (polymorph); Level alchemist 2, sorcerer/wizard 2, witch 2 Casting Time 1 standard.
+- **[Stalwart Resolve](stalwart-resolve.md)**: Ignore ability damage to one score.
 - **[Touch Injection](touch-injection.md)**: You can deliver an infusion, elixir, poison, or potion as a touch attack.
+- **[Trapfinder’s Focus](trapfinders-focus.md)**: Gain trapfinding or +5 on Disable Device.
+- **[Twisted Innards](twisted-innards.md)**: Crits and sneak attacks may fail.
 - **[Venomous Bite](venomous-bite.md)**: Target's bite delivers a stored poison.
 - **[Vine Strike](vine-strike.md)**: Enhance one of your natural or unarmed attacks with thorny vine growth.
 
@@ -112,6 +117,7 @@ New alchemist spells from *Ultimate Magic* and *Ultimate Combat*. Spells from ot
 - **[Miasmatic Form](miasmatic-form.md)**: This spell functions like gaseous form, except the target’s vaporous body is dangerous to creatures that.
 - **[Monstrous Physique II](monstrous-physique-ii.md)**: Take the form and some of the powers of a Tiny or Large monstrous humanoid.
 - **[Mutagenic Touch](mutagenic-touch.md)**: You can pass a weaker version of your mutagen to another creature.
+- **[Purify Body](purify-body.md)**: Heals, grants temporary hit points, and removes pain, ability damage, and conditions.
 - **[Scorching Ash Form](scorching-ash-form.md)**: This spell functions like gaseous form, except the target becomes a visible swirl of hot ash and smoke.
 - **[Tongues, Communal](tongues-communal.md)**: As tongues, but you may divide the duration among creatures touched.
 - **[Touch of Slime](touch-of-slime.md)**: Touch infests a target with green slime.

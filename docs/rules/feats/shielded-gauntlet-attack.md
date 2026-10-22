@@ -1,0 +1,9 @@
+# Shielded Gauntlet Attack
+
+*(Combat)*
+
+Your gauntlet helps you take advantage of weakness.
+
+**Prerequisites**: Shield Gauntlet Style, Weapon Focus (gauntlet or spiked gauntlet), proficiency with bucklers and light shields.
+
+**Benefit**: While using Shield Gauntlet Style, you can calculate the damage of your gauntlet or spiked gauntlet using the sacred weapon damage value of a warpriest with a level 4 less than your base attack bonus. The style also allows you to take one attack of opportunity each round that does not count toward your maximum number of attacks of opportunity. This must be used to make an attack with your gauntlet (or spiked gauntlet), or a disarm or steal combat maneuver. You do not provoke an attack of opportunity for performing either combat maneuver, and you are able to attempt a steal combat maneuver with this attack of opportunity despite the maneuver normally requiring a standard action.

@@ -122,6 +122,7 @@
 - **[Detect Desires](detect-desires.md)**: Learn what creatures desire.
 - **[Detect Magic, Greater](detect-magic-greater.md)**: As *detect magic*, but learn more information.
 - **[Detect Thoughts](detect-thoughts.md)**: Allows “listening” to surface thoughts.
+- **[Determine Depth](determine-depth.md)**: Learn the exact thickness of a wall or barrier.
 - **[Diminish Resistance](diminish-resistance.md)**: Weaken a creature’s resistance to one energy type.
 - **[Discovery Torch](discovery-torch.md)**: Touched object emanates bright light, granting Perception and Sense Motive bonuses.
 - **[Disrupt Silence](disrupt-silence.md)**: Disrupt all silence effects in an area.
@@ -175,6 +176,7 @@
 - **[Thunder Fire](thunder-fire.md)**: Ammunition in the targeted firearm deafens opponents.
 - **[Tongues](tongues.md)**: Speak and understand any language.
 - **[Touch of Mercy](touch-of-mercy.md)**: Target deals only nonlethal damage with weapon attacks.
+- **[Trapfinder’s Focus](trapfinders-focus.md)**: Gain trapfinding or +5 on Disable Device.
 - **[Urban Step](urban-step.md)**: Step into one doorway and out another.
 - **[Voluminous Vocabulary](voluminous-vocabulary.md)**: Grant ability to speak, read, and write one or more languages for 8 hours.
 - **[Whip of Spiders](whip-of-spiders.md)**: Whiplike spider swarm deals swarm damage by touch.
@@ -202,6 +204,7 @@
 - **[Delay Poison, Communal](delay-poison-communal.md)**: As delay poison, but you may divide the duration among creatures touched.
 - **[Demanding Message](demanding-message.md)**: Send messages as per *message* with a *suggestion* for one creature.
 - **[Detect Anxieties](detect-anxieties.md)**: Learn what makes creatures anxious.
+- **[Discern Value](discern-value.md)**: Reveals which objects in a cone are most valuable.
 - **[Dispel Magic](dispel-magic.md)**: Cancels one magical spell or effect.
 - **[Displacement](displacement.md)**: Attacks miss subject 50% of the time.
 - **[Disrupt Link](disrupt-link.md)**: Sever the link between a creature and her companion or familiar.
@@ -241,9 +244,11 @@
 - **[Selective Alarm](selective-alarm.md)**: As *alarm*, but only against selected creatures.
 - **[Selective Invisibility](selective-invisibility.md)**: Invisible, except to one chosen creature you may attack.
 - **[Sepia Snake Sigil](sepia-snake-sigil.md)**: Creates a snake-shaped text symbol that immobilizes reader.
+- **[Sequester Thoughts](sequester-thoughts.md)**: Store a creature’s memories in a gem.
 - **[Shifting Shadows](shifting-shadows.md)**: Shadows make flanking and attacks of opportunity unreliable.
 - **[Slow](slow.md)**: One subject/level takes only one action/round, –1 to AC, Reflex saves, and attack rolls.
 - **[Speak with Animals](speak-with-animals.md)**: You can communicate with animals.
+- **[Stolen Light](stolen-light.md)**: Store an image within a gem.
 - **[Summon Monster III](summon-monster-iii.md)**: Summons extraplanar creature to fight for you.
 - **[They Know](they-know.md)**: Convince target that a nearby creature knows her greatest secret.
 - **[Tiny Hut](tiny-hut.md)**: Creates shelter for 10 creatures.
@@ -305,6 +310,7 @@
 ## 5th-Level Bard Spells
 
 - **[Archon’s Trumpet](archons-trumpet.md)**: Paralyze creatures in a cone with a booming report.
+- **[Befuddled Combatant](befuddled-combatant.md)**: Reduces a target’s ability DCs by 4 and its damage to minimum.
 - **[Callback, Greater](callback-greater.md)**: Teleport a familiar or spirit animal from miles away to your side when it is injured.
 - **[Claim Identity, Greater](claim-identity-greater.md)**: As claim identity, but the target becomes a mask others can wear.
 - **[Compelling Rant](compelling-rant.md)**: People believe your ridiculous speech as long as you keep talking.

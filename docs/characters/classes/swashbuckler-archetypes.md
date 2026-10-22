@@ -253,3 +253,23 @@ This deed replaces the swashbuckler’s grace deed.
 **Soul Veil (Sp)**: At 15th level, a veiled blade can merge a light or one-handed piercing melee weapon with herself, as if using the spell *ghost brand*, except that it takes only a swift action to manifest or store the weapon. This ability lasts until it is dispelled or until the veiled blade merges with a different light or one-handed piercing melee weapon.
 
 This deed replaces the swashbuckler’s edge deed.
+
+## Buckler Duelist
+
+Buckler duelists are specialists in an aggressive, lightly armored fighting style that utilizes the falcata and buckler.
+
+**Falcata Emphasis (Ex)**: At 1st level, a buckler duelist is proficient with falcatas and can treat a falcata as a one-handed piercing melee weapon for the purposes of the swashbuckler’s finesse as well as all feats and class abilities that refer to such a weapon. This ability replaces the derring-do deed.
+
+**Buckler Deeds (Ex)**: A buckler duelist gains the following deeds at the appropriate levels.
+
+*Shield Catch (Ex)*: At 3rd level, while he has at least 1 panache point, the buckler duelist gains a +4 bonus on all combat maneuver checks to disarm that he attempts with his buckler. This deed replaces kip-up.
+
+*Chopping Strike (Ex)*: At 11th level, when the buckler duelist hits with a melee attack using a light or one-handed slashing melee weapon, he can spend 1 panache point to attempt a sunder combat maneuver check against the target of his attack as an immediate action without provoking attacks of opportunity. This deed replaces bleeding wound.
+
+*Shattering Chop (Ex)*: At 15th level, while the buckler duelist has at least 1 panache point, he can attempt a shattering chop as a full-round action, pooling all of his attack potential into a single melee sunder combat maneuver with a light or one-handed slashing weapon. When he does, he gains a +4 bonus on his combat maneuver check and ignores half of the hardness of the item he sunders. This deed replaces perfect thrust.
+
+**Buckler Bash (Ex)**: At 2nd level, a buckler duelist can perform a shield bash with a buckler (use the same damage and critical multiplier as for a light shield). He can treat a buckler as a one-handed piercing melee weapon for the purposes of the swashbuckler’s finesse and all feats and class abilities that refer to such a weapon.
+
+**Buckler Flexibility (Ex)**: At 6th level, as a full-attack action, a buckler duelist wielding a falcata in one hand and a buckler in the other can alternate between using his falcata and his buckler for each attack. This does not grant additional attacks or incur penalties as two-weapon fighting does, and does not cause him to lose his Armor Class bonus from his buckler.
+
+**Charmed Life (Ex)**: A buckler duelist does not gain charmed life until 10th level, at which point he can use the ability only once per day. At 14th level and again at 18th level, he can use the ability an additional time per day. This ability alters charmed life.

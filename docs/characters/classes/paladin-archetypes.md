@@ -633,3 +633,80 @@ This ability replaces the mercy gained at 3rd level. A banishing warden still re
 **Smiting Aura (Su)**: At 11th level, when an ally of the banishing warden is affected by her aura of justice, that ally can use banishing smite. This counts toward the banishing warden’s number of uses per day and cannot be activated if the banishing warden has no uses of banishing smite remaining.
 
 This ability modifies aura of justice.
+
+## Invigorator
+
+Invigorators devote themselves to keeping their allies bodily whole. These selfless paladins believe the best way to combat evil is by bolstering the health and spirits of those who fight alongside them. They play vital roles and often command troops among martial faiths.
+
+**Bestow Hope (Su)**: Beginning at 1st level, an invigorator is a champion of her faith who can call upon her deity’s holy power to bathe battling allies in protective energy. As a swift action during combat, the invigorator can choose a number of nonevil allies within sight equal to her Charisma modifier upon whom to bestow hope. Once activated, bestow hope grants the invigorator and these allies DR 1/— until the combat ends, at which point the damage reduction immediately ends.
+
+During a battle, the invigorator can change the allies this ability affects as a swift action. Ending it is a free action, but each time it is activated during a single combat, another use of the ability is expended. The invigorator can use this ability a number of times per day equal to 3 + her Charisma modifier.
+
+The invigorator must participate in the combat to use this ability. If she is frightened, panicked, paralyzed, stunned, unconscious, or otherwise prevented from participating in the combat, any DR this ability bestows is temporarily suspended until she can participate in the combat again; this doesn’t count as ending the ability.
+
+At 4th level, and at every 3 paladin levels thereafter, the DR this ability grants increases by 1, to a maximum of DR 7/— at 19th level.
+
+The DR this ability grants does not stack with the DR the invigorator receives from aura of righteousness or holy champion. However, at both 7th level and 20th level, an invigorator can choose to bestow hope upon an additional ally, for a total number of allies equal to 2 + the invigorator’s Charisma modifier at 20th level.
+
+This ability replaces smite evil.
+
+**Holy Fount (Su)**: At 11th level, an invigorator can expend two uses of bestow hope to radiate healing energies to bolster her nearby allies. For a number of rounds equal to 1/2 the invigorator’s paladin level, the invigorator and all nonevil allies within a 10-foot radius of her gain fast healing 10. This ability is an aura centered on the invigorator; allies must be within the aura at the beginning of their turns to benefit from the fast healing. Using this ability is a free action.
+
+This ability replaces aura of justice.
+
+**Champion of Life (Sp)**: An invigorator’s holy resolve can sometimes overcome death—or smite the horror that is undeath. At 20th level, three times per day as a standard action, an invigorator can use *breath of life* as a spell-like ability, using her paladin level as her caster level. Creatures brought back to life with this ability do not suffer the normal temporary negative level the spell imposes.
+
+This ability replaces holy champion.
+
+## New Mercies
+
+Add the following new mercies to the list that paladins (and other characters who can select mercies) can choose from whenever they gain a new mercy. A paladin must meet a mercy’s prerequisites, if any.
+
+### 3rd-Level Mercies
+
+- *Deceived*: The target can immediately attempt a new saving throw to disbelieve any ongoing illusions that it failed to disbelieve within the last minute.
+- *Riled*: The paladin’s lay on hands also acts as *calm emotions*, but only for the purpose of suppressing morale bonuses (such as from the *rage* spell) and emotion effects that aren’t fear effects. Use the paladin’s level as the caster level.
+
+### 6th-Level Mercies
+
+- *Enfeebled*: The paladin dispels any magical effects that are reducing one of the target’s ability scores (paladin’s choice).
+- *Haunted*: The paladin’s lay on hands also acts as *protection from evil*, but only for the purpose of allowing a new saving throw against enchantment (charm) and enchantment (compulsion) effects, making the target immune to any attempts to possess or exercise mental control over the target, or preventing a life force from controlling the target (all as described in the second effect of *protection from evil*). Use the paladin’s level as the caster level.
+- *Targeted*: The paladin’s lay on hands also acts as *sanctuary*, using the paladin’s level as the caster level. The saving throw DC to negate this effect is equal to 10 + 1/2 the paladin’s level + the paladin’s Charisma modifier.
+
+### 9th-Level Mercies
+
+- *Confused*: The target is no longer confused.
+- *Injured*: The target gains fast healing 3 for a number of rounds equal to 1/2 the paladin’s level.
+- *Restorative*: The target heals 1d4 points of ability damage from a single ability score of the paladin’s choosing. The paladin must have the enfeebled mercy before selecting this mercy.
+
+### 12th-Level Mercies
+
+- *Amputated*: The paladin’s lay on hands also acts as *regenerate*, but only for the purposes of regrowing severed body members, broken bones, and ruined organs. The paladin must have the injured mercy before she can select this mercy.
+- *Ensorcelled*: The paladin’s lay on hands also acts as *dispel magic*, using the paladin’s level as her caster level (maximum 20).
+- *Petrified*: The paladin’s lay on hands ability also acts as *stone to flesh*, but only for the purpose of removing the petrified condition from a creature.
+
+## Variant Divine Bonds
+
+Although all paladins commune with divine forces and celestial spirits, some are able to do so in ways that transcend the typical martial blessing or celestial servitor. When a paladin gains the divine bond class feature, she can choose one of the following variant divine bonds instead of those outlined by her class. All variant divine bonds are supernatural abilities, and a paladin cannot choose a variant divine bond if she has an archetype that alters or replaces divine bond.
+
+**Agathion Bond**: As a standard action, the paladin can call forth an agathion spirit that bonds to her healing hands for 1 minute per paladin level, causing her to manifest physical traits evocative of one kind of agathion. This bond allows the paladin to add her Charisma bonus to the amount of hit points that she restores with her spells, her lay on hands ability, and her channel energy ability. For every 3 levels beyond 5th, she restores 1 additional hit point with those abilities, up to a maximum of 5 + her Charisma modifier at 20th level. The paladin can use this ability once per day at 5th level, and one additional time per day for every 4 levels beyond 5th, up to a total of four times per day at 17th level.
+
+**Angelic Bond**: As a standard action, the paladin can call forth an angel spirit that bonds to her, causing her to manifest a resplendent halo. This bond allows the paladin to shine light as per *continual flame* for 1 minute per paladin level. Additionally, while the halo shines, all allies within 20 feet gain the benefits of *protection from evil*, except the deflection and resistance bonuses are +3. For every 3 levels she has beyond 5th, the deflection bonus and resistance bonus provided by this effect increases by 1, up to a maximum of +8 at 20th level. The paladin can use this ability once per day at 5th level, and one additional time per day for every 4 levels beyond 5th, up to a total of four times per day at 17th level.
+
+**Archon Bond**: As a standard action, the paladin can call forth an archon spirit that bonds to her brow, causing her eyes to glow with righteous fury for 1 minute per paladin level. While this bond is active, any hostile creature within a 10-foot radius of the paladin that looks at her must succeed at a Will saving throw (DC = 10 + 1/2 her paladin level + her Charisma modifier) or take a –2 penalty on attack rolls and saving throws and to AC for 24 hours. Whether or not the saving throw is successful, a creature cannot be affected by the same paladin’s archon bond again for 24 hours, and the penalties from multiple archon bonds don’t stack. Creatures that don’t have eyesight are not affected by this ability. For every 3 levels beyond 5th, the radius of the paladin’s archon bond increases by 5 feet, up to a 35-foot radius at 20th level. The paladin can use this ability once per day at 5th level, and one additional time per day for every 4 levels beyond 5th, up to a total of four times per day at 17th level.
+
+## Tempered Champion
+
+Tempered champions are trained in a martial hall to master their deities’ favored weapons.
+
+**Divine Weapon Specialization (Ex)**: At 4th level and every 4 levels thereafter, a tempered champion gains a bonus feat from the following list: Disruptive, Divine Fighting Technique, Greater Penetrating Strike, Greater Weapon Focus, Greater Weapon Specialization, Penetrating Strike, Weapon Focus, Weapon Specialization, and Weapon Trick. If a feat requires choosing a weapon or weapon group, the tempered champion must choose her deity’s favored weapon, or its group. The tempered champion must meet the feat’s prerequisites, but treats her tempered champion levels as fighter levels for this purpose.
+
+In addition, the 4th-level tempered champion gains the increased base weapon damage of the warpriest’s sacred weapon ability at her tempered champion level. This ability replaces spellcasting.
+
+**Divine Bond (Su)**: At 5th level, a tempered champion must select a weapon for her divine bond. If she is out of daily uses, she can expend a use of lay on hands to activate this ability.
+
+## Legate
+
+Legates present themselves not as armed crusaders, but as peaceful envoys and advisors, bringing wisdom garnered from a long, stable history of service. Though they hold to the same strict paladin code, they often serve as diplomats (and sometimes spies) for good organizations. Yet woe to those who believe them defenseless, for a legate can call upon her divine patron to provide her with armor and weapons.
+
+**Celestial Armor (Sp)**: At 3rd level, a legate can conjure armor as a standard action. This ability acts as the spell *instant armor*, using her paladin level as her caster level, except as follows. At 6th level and every 3 paladin levels thereafter, the armor gains an additional +1 enhancement bonus. These bonuses can be used to add any of the following armor special abilities: champion, fortification (heavy, light, or medium), invulnerability, or spell resistance (13, 15, 17, or 19). In addition, the legate can grant her armor the energy resistance special ability at the cost of a +3 bonus, the improved energy resistance special ability at the cost of a +5 bonus, or the righteous special ability at a cost of a +4 bonus. The armor must have at least a +1 enhancement bonus before any special abilities can be added. The bonus and special abilities granted are determined when this ability is used and cannot be changed until this ability is used again. If the legate has a steed bond and is riding her steed, she can include her steed when summoning celestial armor, granting the steed barding with the same bonuses and special abilities as her own. The legate can use this ability a number of times per day equal to her Wisdom bonus plus half her paladin level. This ability replaces mercy.

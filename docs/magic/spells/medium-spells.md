@@ -183,6 +183,7 @@ Mediums gain access to the following spells. Spells without a link come from oth
 - **[Sense Madness](sense-madness.md)**: Determine mental disturbances in nearby creatures.
 - **[Sessile Spirit](sessile-spirit.md)**: Cause a spirit inhabiting a creature or an object to go dormant.
 - **[Share Memory](share-memory.md)**: Share one memory with the target.
+- **[Shield of Shards](shield-of-shards.md)**: Your shield breaks into orbiting shards that attack.
 - **[Shifted Steps](shifted-steps.md)**: Make a target sound as if elsewhere.
 - **[Slow](slow.md)**: One subject/level takes only one action/round, –1 to AC, Reflex saves, and attack rolls.
 - **[Speak with Dead](speak-with-dead.md)**: Corpse answers one question/two levels.
@@ -307,8 +308,10 @@ Mediums gain access to the following spells. Spells without a link come from oth
 - **[Planar Binding, Lesser](planar-binding-lesser.md)**: Traps extraplanar creature of 6 HD or less until it performs a task.
 - **[Plane Shift](plane-shift.md)**: As many as eight subjects travel to another plane.
 - **[Prognostication](prognostication.md)**: Gain cryptic information from further in the future than *divination*.
+- **[Purify Body](purify-body.md)**: Heals, grants temporary hit points, and removes pain, ability damage, and conditions.
 - **[Reincarnate](reincarnate.md)**: Brings dead subject back in a random body.
 - **[Remote Viewing](remote-viewing.md)**: Gain psychic impressions from a distant location.
+- **[Revenant Armor](revenant-armor.md)**: Armor animates around its fallen wearer.
 - **[Scripted Hallucination](scripted-hallucination.md)**: As *complex hallucination*, but without concentration.
 - **[Seeming](seeming.md)**: Changes appearance of 1 person per 2 levels.
 - **[Spirit-Bound Blade](spirit-bound-blade.md)**: Give a weapon ghost touch and another ability tied to an emotion.

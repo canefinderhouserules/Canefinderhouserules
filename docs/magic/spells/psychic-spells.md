@@ -602,6 +602,7 @@ Psychics gain access to the following spells. Spells without a link come from ot
 - **[Arcana Theft](arcana-theft.md)**: Targeted dispel transfers an effect to you.
 - **[Astral Projection, Lesser](astral-projection-lesser.md)**: Limited astral travel.
 - **[Banish Seeming](banish-seeming.md)**: Dispels touched illusion or a creature's change in form.
+- **[Befuddled Combatant](befuddled-combatant.md)**: Reduces a target’s ability DCs by 4 and its damage to minimum.
 - **[Blood Ties](blood-ties.md)**: When a target is harmed, so is the target’s relative.
 - **[Charm Person, Mass](charm-person-mass.md)**: As *charm person*, but affects multiple creatures within 30 ft.
 - **[Charnel House](charnel-house.md)**: Create an area of semi-real gore.
@@ -663,6 +664,7 @@ Psychics gain access to the following spells. Spells without a link come from ot
 - **[Prying Eyes](prying-eyes.md)**: 1d4 + 1/level floating eyes scout for you.
 - **[Psychic Asylum](psychic-asylum.md)**: Perform a lengthy mental task in a private mindscape.
 - **[Psychic Crush I](psychic-crush-i.md)**: Sicken a target and cause it to start dying, or deal 3d6 + 1 points of damage per level on a save.
+- **[Purify Body](purify-body.md)**: Heals, grants temporary hit points, and removes pain, ability damage, and conditions.
 - **[Red Hand of the Killer](red-hand-of-the-killer.md)**: Stain the hand of a creature’s killer red.
 - **[Remote Viewing](remote-viewing.md)**: Gain psychic impressions from a distant location.
 - **[Replay Tracks](replay-tracks.md)**: Reconstruct past events from a set of tracks.

@@ -75,6 +75,7 @@
 - **[Grasping Vine](grasping-vine.md)**: A vine from your body manipulates objects within 20 ft.
 - **[Greensight](greensight.md)**: Grant a target the ability to see through plant matter as if it were transparent.
 - **[Groundswell](groundswell.md)**: School transmutation [earth]; Level cleric 2, druid 2, magus 2, ranger 2 Casting Time 1 standard action.
+- **[Healing Token](healing-token.md)**: Holy symbols let allies request healing at a distance.
 - **[Hold Animal](hold-animal.md)**: Paralyzes one animal for 1 round/level.
 - **[Hunter's Friend](hunters-friend.md)**: Share ranger class abilities with your companion.
 - **[Improve Trap](improve-trap.md)**: When this spell is cast upon a trap, it improves one specific element of the trap chosen at the time of.
@@ -122,6 +123,7 @@
 - **[Burst of Speed](burst-of-speed.md)**: You gain increased speed, and your movement ignores attacks of opportunity and allows you to move through the space of creatures larger than you are.
 - **[Command Plants](command-plants.md)**: Sway the actions of plant creatures.
 - **[Companion Mind Link](companion-mind-link.md)**: You can talk with your animal companion, and can handle it with supernatural ease.
+- **[Create Holds](create-holds.md)**: Creates a path of climbing handholds on a wall.
 - **[Cure Moderate Wounds](cure-moderate-wounds.md)**: Cures 2d8 damage +1/level (max. +10).
 - **[Darkvision](darkvision.md)**: See 60 ft. in total darkness.
 - **[Delay Poison, Communal](delay-poison-communal.md)**: As delay poison, but you may divide the duration among creatures touched.
@@ -172,6 +174,7 @@
 - **[Find Quarry](find-quarry.md)**: You can sense whether a particular creature is within 20 miles of your location.
 - **[Freedom of Movement](freedom-of-movement.md)**: Subject moves normally despite impediments to movement.
 - **[Green Caress](green-caress.md)**: Slowly transform a creature into an inanimate plant.
+- **[Inspiring Recovery](inspiring-recovery.md)**: Heals and can revive a creature dead for 1 round, rallying its allies.
 - **[Named Bullet, Greater](named-bullet-greater.md)**: As named bullet, but deals 2 points of damage per caster level.
 - **[Nondetection](nondetection.md)**: Hides subject from divination, scrying.
 - **[Overwhelming Poison](overwhelming-poison.md)**: Make a poison more difficult to resist.

@@ -473,3 +473,38 @@ The community guardian is chosen to protect and succor the weak and innocent wit
 *Spirit of Community (Ex)*: As a move action, you call upon the spirits of community. For the next round, you grant every ally within 30 feet a +1 competence bonus on a single skill check (of the ally’s choice) that it makes before the end of this revelation’s duration. Furthermore, allies within 30 feet can, as a free action, choose to forgo this bonus, and instead grant a single ally a +1 increase to its competence bonus granted by this ability (maximum +5). You can use this ability a number of times per day equal to 3 + your Charisma modifier. You must take this revelation at 1st level.
 
 *Renewing Radiance (Su)*: Once per day you can produce a burst of swirling white light that provides a measure of protection and renewal to allies within 30 feet for 1 round. On their turn, the allies can choose either to gain a +1 sacred bonus to AC for 1 round or to heal a number of hit points equal to 1d6 + your Charisma bonus (their choice). If an ally is dying, it is stabilized instead. At 7th level, the bonus to AC increases to +2, and the healing increases to 2d6 + your Charisma bonus hit points, and at 14th level the bonus to AC increases to +3, and the healing increases to 3d6 + your Charisma bonus hit points. You must take this revelation at 3rd level.
+
+## Herbal Practitioner
+
+Many lands have herbalists who practice an obscure alchemical art involving medicinal and restorative techniques. A few practitioners develop a talent for herbalism that transcends ordinary alchemy, allowing them to blur the line between applying alchemical medicine and coaxing divine miracles.
+
+Like other masters of the art, herbal practitioners can use the Profession (herbalist) skill in place of Craft (alchemy) to create alchemical remedies with recipes that include certain plant-derived reagents.
+
+**Master Herbalist (Su)**: An herbal practitioner has mastered countless alchemical techniques that supplement her divine powers and greatly aid her when she heals the sick and wounded. She gains a competence bonus on Profession (herbalist) checks equal to 1/2 her oracle level (minimum 1), and uses her Charisma modifier in place of her Wisdom modifier when attempting Profession (herbalist) checks. Additionally, an herbal practitioner can identify potions as if via *detect magic* using Profession (herbalist) instead of Spellcraft, and she can attempt such a check after holding a potion for 1 round.
+
+This ability replaces the additional class skills the oracle gains from her mystery.
+
+**Healer’s Way (Su)**: An herbal practitioner combines alchemy, acupuncture, and divine magic to heal wounds by touch. She can use this ability a number of times per day equal to 1 + her Charisma modifier. With one use of this ability, she uses positive energy to heal the target of 1d6 hit points for every 2 oracle levels she has. Using this ability is a standard action unless the oracle targets herself, in which case it is a swift action. Using this ability requires only one free hand. This ability counts as a paladin’s lay on hands ability for the purposes of feats, spells, and effects that work with that class feature when it is used for healing purposes. Unlike lay on hands, this ability cannot be used to harm undead.
+
+This ability replaces the revelation gained at 1st level.
+
+**Master Healing Technique (Su)**: At 7th level, whenever an herbal practitioner heals a living creature with her healer’s way ability, as a free action she can attempt a Profession (herbalist) check to remove a condition from the target, with each condition having an accompanying Profession (herbalist) DC (see the list below). She cannot take 10 or 20 on this check, nor can she receive aid from any creature except another herbal practitioner. Failure by 5 or more causes the target to become sickened for 1 round (if the herbal practitioner is attempting to remove the sickened condition, this extends it by 1 round). Similarly, failure by 10 or more instead causes the target to become nauseated for 1 round or to have its existing nauseated condition extended by 1 round. A creature that cannot be sickened or nauseated cannot have conditions removed by this ability.
+
+- **Minor Conditions (DC 20)**: Fatigued, shaken, and sickened.
+- **Major Conditions (DC 25)**: Dazed and staggered.
+- **Severe Conditions (DC 30)**: Confused, exhausted, frightened, and nauseated.
+- **Dire Conditions (DC 35)**: Blinded, deafened, paralyzed, and stunned.
+
+This ability replaces the revelation gained at 7th level.
+
+**Recommended Mysteries**: Life, nature, succor.
+
+## Seeker
+
+Oracles and sorcerers gain their magical powers through strange and mysterious ways, be they chosen by fate or blood. Some join explorers’ societies specifically to find out more about their mysteries and bloodlines and determine the genesis and history of their eldritch talents. These spellcasters are known as seekers, after their obsession with researching ancient texts and obscure ruins for any clues they can find about their heritage and histories.
+
+**Tinkering (Ex)**: A seeker gains Disable Device as a class skill. In addition, at 1st level, a seeker adds half his oracle level on Perception checks made to locate traps and on all Disable Device skill checks (minimum +1). A seeker can use Disable Device to disarm magical traps. If the seeker also possesses levels in rogue or another class that provides the trapfinding ability, those levels stack with his oracle levels for determining his overall bonus on these skill checks. This ability replaces all of the bonus class skills he would otherwise normally gain from his mystery.
+
+**Seeker Lore (Ex)**: By 3rd level, a seeker has already learned much about his mystery, and is more comfortable using the bonus spells gained by that mystery. He gains a +4 bonus on all concentration checks, on caster level checks made to overcome spell resistance, and on all Knowledge (arcana) and Spellcraft checks made on topics associated with his bonus spells. This ability replaces the revelation gained at 3rd level.
+
+**Seeker Magic (Su)**: At 15th level, a seeker becomes skilled at modifying his mystery spells with metamagic. When a seeker applies a metamagic feat to any bonus spells granted by his mystery, he reduces the metamagic feat’s spell level adjustment by 1. Thus, applying a metamagic feat like Still Spell to a spell does not change its effective spell level at all, while applying Quicken Spell only increases the spell’s effective spell level by 3 instead of by 4. This reduction to the spell level adjustment for metamagic feats does not stack with similar reductions from other abilities. This ability replaces the revelation gained at 15th level.

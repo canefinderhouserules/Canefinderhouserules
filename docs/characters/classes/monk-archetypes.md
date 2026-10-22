@@ -705,3 +705,53 @@ This ability replaces slow fall or the ki power gained at 4th level for an uncha
 **Swift Ki (Su)**: At 4th level, the windstep master can spend 1 point from his ki pool as a swift action to sustain his wind step for 1 minute. During this time, the windstep master can remain airborne even if he doesn’t reach a solid surface. He can also spend 1 point from his ki pool as a swift action to increase his wind step distance by 20 feet for 1 round. The windstep master does not gain the ability to spend ki to increase his base speed by 20 feet for 1 round.
 
 This ability alters ki pool.
+
+## Terra-Cotta Monk
+
+Possessing a natural affinity for all things earthen, terra-cotta monks are experts at turning the stone around them against their enemies.
+
+**Class Skills**: A terra-cotta monk adds Knowledge (dungeoneering), Knowledge (engineering), and Disable Device to his list of class skills and removes Knowledge (history), Perform, and Ride.
+
+**Trap Intuition (Ex)**: At 2nd level, whenever a terra-cotta monk comes within 10 feet of a trap, he receives an immediate Perception check to notice the trap. The GM should make this check in secret. A terra-cotta monk gains a +2 bonus on Perception checks to notice traps. This bonus increases to +4 if the trap is located in a stone wall or floor.
+
+This ability replaces evasion.
+
+**Stone Grip (Su)**: At 5th level, a terra-cotta monk adds a bonus equal to his class level on all Climb checks. He can move at his full movement rate while climbing with no increase to the check’s DC. By spending 1 point from his ki pool as a swift action, a monk gains the benefits of *spider climb* for 1 round.
+
+This ability replaces high jump.
+
+**Trap Dodge (Ex)**: At 10th level, a terra-cotta monk gains a bonus equal to his Wisdom modifier on all saving throws made against effects produced by mechanical traps.
+
+This ability replaces improved evasion.
+
+**Sudden Adit (Su)**: At 12th level, a terra-cotta monk can create passages through stone or dirt as if using the spell *passwall* with a caster level equal to his monk level. Using this ability is a move action that consumes 2 points of the monk’s ki pool.
+
+This ability replaces abundant step.
+
+**Petrifying Strike (Su)**: At 15th level, a terra-cotta monk can turn an opponent to stone with a single strike. He can use this ability once per day, and must announce the attempt before making his attack roll. If the terra-cotta monk’s strike is successful, the creature must succeed at a Fortitude save (DC = 10 + 1/2 the monk’s level + the monk’s Wis modifier) or be petrified for 1 hour per monk level. Incorporeal creatures and creatures immune to petrification are unaffected by this ability.
+
+This ability replaces quivering palm.
+
+**Rainmaker (Su)**: At 19th level, anytime a terra-cotta monk is underground, he may cause a section of the roof to come down on his enemies per the spell *earthquake*, with a caster level equal to his monk level. The terra-cotta monk may use this ability only while in a cave, cavern, or tunnel. Using this ability is a standard action that consumes 3 points from his ki pool.
+
+This ability replaces empty body.
+
+## Disciple of Wholeness
+
+Disciples of wholeness train to bring themselves and others closer to physical and spiritual perfection.
+
+**Healing Ki (Su)**: At 4th level, a disciple of wholeness can touch a creature as a swift action and spend 1 point from her ki pool to restore a number of hit points equal to 1d4 + 1/2 her monk level to that creature. If she has the wholeness of body class feature or ki power (as in the case of the unchained monk), she can spend 2 points to restore a number of hit points equal to 1d8 + her monk level to a touched creature. She does not gain the ability to spend ki to gain an extra attack during a flurry of blows.
+
+This ability alters ki pool, and it replaces the ki power gained at 4th level for an unchained monk.
+
+**Hone Body (Su)**: At 5th level, a disciple of wholeness has immunity to supernatural and magical diseases as long as she is undamaged (she loses this immunity when she has hit point or ability score damage). In addition, she can always touch a creature as a swift action and spend 1 point from her ki pool to render it immune to all diseases for 1 day. She cannot grant this immunity if the target is already afflicted with a disease.
+
+This ability replaces purity of body.
+
+**Greater Hone Body (Su)**: At 11th level, a disciple of wholeness is immune to poison while undamaged and can grant immunity to poison (lasting for 1 day). This ability otherwise functions as per hone body.
+
+This ability replaces the diamond body ability, and it replaces the ki power gained at 12th level for an unchained monk (and an unchained monk cannot gain the diamond body ki power).
+
+**Hone Soul (Su)**: At 13th level, a disciple of wholeness can dispel a spell affecting a living creature by touching it as a standard action and spending 1 point from her ki pool. This power functions like the targeted dispel option of *greater dispel magic*, with the caster level equal to the disciple of wholeness’s monk level.
+
+This ability replaces the diamond soul ability, and it replaces the ki power gained at 14th level for an unchained monk (and an unchained monk cannot gain the diamond soul ki power).

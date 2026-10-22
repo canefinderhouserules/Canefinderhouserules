@@ -150,3 +150,39 @@ You must have the Equipment Trick (thunderstone) feat to use these tricks.
 
 **Thunderclap (Weapon Focus [any hammer])**: Your thunderstones enhance the concussive force of hammers you wield. This trick only works with hammers to which your Weapon Focus feat applies. As a move action, you can wedge a thunderstone in place on your hammer’s striking surface. When you hit a foe with that hammer, the thunderstone detonates. You gain a +4 bonus on your saving throw against the thunderstone’s effect (if necessary), and your foe takes a –4 penalty on its saving throw against the thunderstone’s effect.
 
+## Rope Tricks
+
+You must have the Equipment Trick (rope) feat to use these tricks. Rope tricks can be performed with hemp rope or silk rope, or with similar ropelike items at the GM’s discretion.
+
+**Coil (Sleight of Hand 5 ranks)**: You can coil rope rapidly, requiring only 1 round to coil 20 feet of rope. (Coiling 20 feet of rope normally takes 1d6 rounds.)
+
+**Hogtie (Improved Grapple)**: When you attempt to tie up an opponent you are grappling, your penalty is only –5 instead of the normal –10.
+
+**Knotted Weapon (Weapon Proficiency [spiked chain])**: You can use a knotted length of rope as a spiked chain that inflicts bludgeoning damage instead of piercing damage.
+
+**Lash (Weapon Proficiency [whip])**: You can use a length of rope as a whip at no penalty. The piece of rope that is used as a whip must be 10 feet long—length in excess of this must remain coiled or otherwise unused at your feet or side.
+
+**Lifeline (Climb 5 ranks)**: When you or a nearby creature is falling (from a failed Climb check or otherwise), you can throw a held rope as an immediate action, maintaining a grip on one end. If you are falling, this is treated as an attempt to catch yourself while falling made with a +10 bonus, but there must be some sort of solid anchor available for your rope to loop around. When attempting this check on another creature, treat it as if you yourself were falling. If the weight of the creature exceeds twice your heavy load limit (your own equipment does not count against this maximum), you are pulled after it.
+
+**Quick Release (no additional prerequisites)**: You can secure a rope such that you can loose it from either end by making a quick series of tugs (a move action) at any point along the rope’s length.
+
+**Slip Away (Escape Artist 5 ranks)**: You gain a +10 bonus on Escape Artist checks to escape from ropes and ropelike restraints (such as vines).
+
+**Tangle (Throw Anything)**: You can throw a coiled length of rope as a ranged weapon. If you hit with a ranged touch attack, the target becomes entangled. It can cut or burst the rope, or escape with a DC 15 Escape Artist check. The rope must be unsecured to use this trick.
+
+## Sunrod Tricks
+
+You must have the Equipment Trick (sunrod) feat to use these tricks.
+
+**Flare (Craft [alchemy] 5 ranks or alchemist bomb class feature)**: As a standard action, you can expend the remaining life of a sunrod (lit or unlit) in an instant. Sighted creatures within a 20-foot-radius burst of the sunrod must succeed at a DC 15 Fortitude save or be dazzled for 2d4 rounds. Creatures with light sensitivity or light blindness receive a –2 penalty on their saving throws. Alternatively, as a full-round action, you can strike a creature with the sunrod or throw the sunrod as a ranged attack with a range increment of 10 feet. When it strikes a hard surface, it flares as described above. Since you don’t have to hit a specific target, you can simply aim at the corner of a particular 5-foot square. Treat the target corner as AC 5. If a creature is struck by the sunrod and fails its Fortitude save, it is blinded for the first round of its dazzled condition.
+
+**Fast Sunrod (Quick Draw)**: You can draw and light an easily accessible sunrod from a pack as a swift action.
+
+**Like the Sun (ability to cast any spell with the light descriptor)**: You can use a sunrod as an additional material component for any spell that bears the light descriptor. The spell is treated as one spell level higher (to a maximum of 9th level) for all purposes, including the calculation of saving throw DCs and its ability to overcome sources of magical darkness.
+
+**Lodge Sunrod (Throw Anything)**: You can throw your sunrod as a ranged improvised weapon. If you hit with a ranged touch attack, the sunrod does no damage, but stays lodged on the target until the target or another creature spends a move action to remove it.
+
+**Lure (Handle Animal 5 ranks)**: As a move action while holding a lit sunrod in your hand, you can attempt to move an animal in any direction you desire. Make a Handle Animal check against a DC of 15 + the target animal’s CR. If you are successful, the animal moves 5 feet in the desired direction on its next turn. For every 5 points by which your check exceeds the DC, the animal moves another 5 feet, up to the animal’s maximum speed. This movement provokes attacks of opportunity as normal, though if one is taken, the animal immediately stops moving (whether or not the attack hits). You cannot move an animal into an obvious hazard with this trick, but you can (for example) lure it into an open cage.
+
+**Twice as Brightly (Craft [alchemy] 5 ranks)**: As a full-round action, you can tamper with an unused sunrod such that it burns out in a single hour, but shines much more brightly. It sheds bright light in a 30-foot radius and increases the light level by two steps for an additional 30 feet beyond that area (darkness becomes normal light, and dim light or normal light becomes bright light). It does not increase the light level in bright light.
+

@@ -120,6 +120,7 @@ Shamans gain access to the following spells. Spells in plain text come from othe
 - **[Grasping Vine](grasping-vine.md)**: A vine from your body manipulates objects within 20 ft.
 - **[Greensight](greensight.md)**: Grant a target the ability to see through plant matter as if it were transparent.
 - **[Guiding Star](guiding-star.md)**: Know approximate distance from where you cast this spell.
+- **[Healing Token](healing-token.md)**: Holy symbols let allies request healing at a distance.
 - **[Hold Person](hold-person.md)**: Paralyzes one humanoid for 1 round/level.
 - Imbue with Elemental Might
 - **[Huntmaster’s Spear](huntmasters-spear.md)**: Spear becomes a +1 weapon against a chosen favored-enemy type and can be discharged for a powerful attack.
@@ -139,9 +140,11 @@ Shamans gain access to the following spells. Spells in plain text come from othe
 - **[Scare](scare.md)**: Frightens creature of less than 6 HD.
 - **[Sense Fear](sense-fear.md)**: Perceive nearby creatures that are experiencing fear.
 - **[Shield Companion](shield-companion.md)**: As shield other, but affecting your companion creature.
+- **[Shield of Shards](shield-of-shards.md)**: Your shield breaks into orbiting shards that attack.
 - **[Sickening Entanglement](sickening-entanglement.md)**: As entangle, but plants have sickening sap.
 - **[Solidify Earth](solidify-earth.md)**: Packs earth tight, hindering burrowing creatures.
 - **[Spindrift Spritz](spindrift-spritz.md)**: Ally rerolls a save against fatigue, shaken, sickened, or staggered.
+- **[Spiritual Squire](spiritual-squire.md)**: A force servant helps carry, aid, and armor allies.
 - **[Spiritual Weapon](spiritual-weapon.md)**: Magic weapon attacks on its own.
 - **[Summon Swarm](summon-swarm.md)**: Summons swarm of bats, rats, or spiders.
 - **[Surefoot Boots](surefoot-boots.md)**: Footwear grants perfect balance.
@@ -194,6 +197,7 @@ Shamans gain access to the following spells. Spells in plain text come from othe
 - **[Protection from Energy](protection-from-energy.md)**: Absorbs 12 points/level of damage from one kind of energy.
 - **[Remove Blindness/Deafness](remove-blindness-deafness.md)**: Cures normal or magical blindness or deafness.
 - **[Remove Curse](remove-curse.md)**: Frees object or person from curse.
+- **[Revenant Armor](revenant-armor.md)**: Armor animates around its fallen wearer.
 - **[Seed Spies](seed-spies.md)**: Wafting seeds act as spies, as insect spies.
 - **[Signs of the Land](signs-of-the-land.md)**: Learn up to three details about the surrounding territory.
 - **[Sleet Storm](sleet-storm.md)**: Hampers vision and movement.
@@ -294,6 +298,7 @@ Shamans gain access to the following spells. Spells in plain text come from othe
 - **[Animal Growth](animal-growth.md)**: One animal doubles in size.
 - **[Baleful Polymorph](baleful-polymorph.md)**: Transforms subject into harmless animal.
 - **[Ban Corruption](ban-corruption.md)**: Eliminate the gifts of nearby corrupted creatures.
+- **[Befuddled Combatant](befuddled-combatant.md)**: Reduces a target’s ability DCs by 4 and its damage to minimum.
 - **[Blight](blight.md)**: Withers one plant or deals 1d6/level damage to plant creature.
 - **[Blood Ties](blood-ties.md)**: When a target is harmed, so is the target’s relative.
 - **[Break Enchantment](break-enchantment.md)**: Frees subjects from enchantments, transmutations, and curses.
@@ -341,6 +346,7 @@ Shamans gain access to the following spells. Spells in plain text come from othe
 - **[Antilife Shell](antilife-shell.md)**: 10-ft.-radius field hedges out living creatures.
 - **[Awaken](awaken.md)**: Animal or tree gains human intellect.
 - **[Awaken Construct](awaken-construct.md)**
+- **[Balance of Suffering](balance-of-suffering.md)**: Drain one creature to heal another.
 - **[Banishment](banishment.md)**: Banishes 2 HD/level of extraplanar creatures.
 - **[Bear’s Endurance, Mass](bears-endurance-mass.md)**: As *bear’s endurance*, affects 1 subject/level.
 - **[Bull’s Strength, Mass](bulls-strength-mass.md)**: As *bull’s strength*, affects 1 subject/level.

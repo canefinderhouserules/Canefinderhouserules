@@ -778,3 +778,85 @@ This ability replaces swift tracker.
 **Killer of the Deep (Ex)**: At 20th level, a tidal diver is peerless at detecting prey underwater and delivering killing blows. He can notice other creatures by scent in a 180-foot radius underwater and can detect blood in the water up to a mile away. As a standard action, he can make a single attack against a favored enemy at his full attack bonus while underwater. If the attack hits, the target takes damage normally and must succeed at a Fortitude save or die. The DC of this save is equal to 10 + half the ranger’s level + the ranger’s Wisdom modifier. A tidal diver can instead deal an additional amount of nonlethal damage equal to the creature’s current hit points. A successful save negates this damage. A tidal diver can use this ability once per day against each of his favored enemy types but not against the same creature more than once in a 24-hour period.
 
 This ability replaces master hunter.
+
+## Groom
+
+The groom attends to the needs of the party’s mounts and beasts of burden during their adventures, and guards these animals while the party goes underground.
+
+**Hide the Horses (Ex)**: A groom finds the best place to stable and conceal a party’s mounts while the group explores a dungeon. A groom adds half her level (minimum 1) on Stealth skill checks for both herself and the mounts she’s hiding while she is concealing a party’s mounts.
+
+This ability replaces track.
+
+**Horse Whisperer (Su)**: At 3rd level, a groom can use *speak with animals* at will, but can use this power only on horses, riding dogs, and other mounts of the animal type.
+
+This ability replaces Endurance.
+
+**Scout the Area (Ex)**: At 3rd level, a groom gains a +4 bonus on Knowledge (local) checks. In addition, she always knows where to find the nearest expert or spellcaster who can provide a particular service, such as the nearest source of *raise dead*.
+
+This ability replaces the ranger’s 1st favored terrain.
+
+## Dungeon Rover
+
+These rangers specialize in surviving hostile subterranean environs. They are well equipped to avoid traps, spot secret passages, and deal with inimical dungeon tenants.
+
+**Class Skills**: A dungeon rover gains Disable Device and Knowledge (engineering) as class skills and loses Ride as a class skill.
+
+**Stone Scouting (Ex)**: A dungeon rover gains a +2 bonus on Perception checks to notice underground environmental hazards, including traps, potential cave-ins, and dangerous flora. A dungeon rover receives a check to notice these hazards whenever he passes within 10 feet of them, whether or not he is actively looking.
+
+This ability replaces track.
+
+**Vermin Affinity (Ex)**: A dungeon rover gains the ability to improve the attitude of mindless subterranean creatures. This ability functions as the wild empathy class feature, except a dungeon rover can influence any vermin (even those without Intelligence scores) instead of animals. Additionally, a dungeon rover can influence oozes with a –4 penalty on his vermin affinity check.
+
+This ability replaces wild empathy.
+
+**Dungeon Ally (Ex)**: At 4th level, a dungeon rover may select a giant slug, a giant centipede, a goblin dog, a giant scorpion, or any poisonous snake as his animal companion, in addition to the usual animal companion options available to rangers with the hunter’s bond class feature.
+
+This ability modifies hunter’s bond.
+
+**Subterranean Stride (Ex)**: At 7th level, a dungeon rover is never slowed by difficult terrain while underground. However, areas that are enchanted or magically manipulated to impede motion still affect him.
+
+This ability replaces woodland stride.
+
+**Improved Stone Scouting (Ex)**: At 8th level, a dungeon rover’s bonus on Perception checks to notice underground environmental hazards increases to +4. Additionally, the rover receives a check to notice these irregularities whenever he passes within 15 feet of them.
+
+This ability replaces swift tracker.
+
+## Wilderness Medic
+
+Wilderness medics know a variety of ways they can supply and preserve a rebellion or similar movement without requiring any resources that might make them easier to track down.
+
+**Herbalist Training (Ex)**: At 1st level, a wilderness medic can attempt Profession (herbalism) checks untrained and the wilderness medic gains a bonus equal to 1/2 his ranger level (minimum +1) on Heal checks and Profession (herbalism) checks. When he successfully forages for herbs, he finds twice as many doses of any herb he would normally.
+
+This ability replaces wild empathy.
+
+**Herbal Medicine (Ex)**: At 3rd level, a wilderness medic can mimic the effects of *stabilize* at will in any wilderness area by spending one use of a healer’s kit as long as he can see the target.
+
+Additionally, as a standard action a number of times per day equal to 3 + his Wisdom modifier, the wilderness medic can use encouraging words and herbs to lessen the severity of certain conditions affecting a touched target. If the target is exhausted, it becomes fatigued instead. If the target is frightened, it becomes shaken instead. If the target is nauseated, it becomes sickened instead. The duration of the effect is unchanged; the effect is simply reduced to the lesser version.
+
+At 9th level, the wilderness medic can lessen the severity of additional conditions for the target and cure other conditions that the target suffers. If the target creature is blinded, it becomes dazzled instead. If the target is panicked, it becomes shaken instead. If it has any of the following conditions, they are cured: deafened, fatigued, shaken, and sickened.
+
+The wilderness medic is able to use this ability on a given touched target once every 24 hours.
+
+This ability replaces the endurance and evasion abilities.
+
+**Rallying Bond (Sp)**: At 4th level, a wilderness medic must choose his companions for his hunter’s bond. At 9th level, the wilderness medic can encourage all of his companions when he uses his hunter’s bond to benefit his companions. As a free action when the wilderness medic uses a move action to grant affected allies half his favored enemy bonus, he can also grant affected allies the benefits of *remove fear*. The wilderness medic can use this ability a number of times per day equal to his Wisdom modifier.
+
+At 14th level, when the wilderness medic uses this ability, he can instead affect all allies that benefit from his hunter’s bond with *blessing of fervor*, using his ranger level as his caster level.
+
+This ability alters hunter’s bond and replaces improved evasion.
+
+## Veteran Archer
+
+Veteran archers maintain a strong tradition of archery developed by soldiers in service to a rebel lord. Though their training teaches only the basics of these techniques, a few dedicated students strive toward true mastery in each generation.
+
+**Bullseye Shot (Ex)**: At 1st level, a veteran archer gains the Bullseye Shot feat as a bonus feat. He need not meet its prerequisites. This ability replaces track and wild empathy.
+
+**Archery Style (Ex)**: At 2nd level, a veteran archer must select the archery combat style. This modifies the ranger’s combat style feat class feature.
+
+**Vicious Aim (Ex)**: At 4th level, a veteran archer adds half his highest favored enemy bonus to all attack rolls and damage rolls for attacks made with ranged weapons. This does not stack with his normal favored enemy bonus when targeting a creature that qualifies as a favored enemy. This ability replaces all spellcasting, and the veteran archer is not considered to have a caster level.
+
+**Sword Training (Ex)**: At 8th level, a veteran archer gains Weapon Focus with the longsword as a bonus feat. This ability replaces swift tracking.
+
+**Pinpoint Targeting (Ex)**: At 11th level, a veteran archer gains Pinpoint Targeting as a bonus feat, even if he does not meet its prerequisites. This replaces quarry.
+
+**Quarry (Ex)**: At 19th level, a veteran archer gains the quarry class feature. This ability replaces improved quarry.

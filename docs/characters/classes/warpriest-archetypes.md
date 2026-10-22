@@ -141,3 +141,35 @@ When a warpriest devotes himself to a god of the natural world, he is sometimes 
 **Sacred Claws (Su)**: Rather than empowering a physical weapon, a feral champion grows claws as primary natural weapons on each hand. These claws deal damage as a warpriest’s sacred weapon and can be enhanced as such. This alters sacred weapon.
 
 **Wild Shape (Su)**: At 7th level, a feral champion gains wild shape, as the druid ability of the same name, and treats his warpriest level – 3 as his effective druid level for the purposes of this ability. However, a feral champion does not gain the ability to take on elemental or plant forms with wild shape. A feral champion can use wild shape once per day at 7th level and one additional time per day every 4 levels thereafter, for a total of four times per day at 19th level. This replaces sacred armor.
+
+## Arsenal Chaplain
+
+Arsenal chaplains are warpriests trained in a military arsenal. They bolster their nation’s military by focusing on the militant aspects of their gods.
+
+**War Blessing (Su)**: An arsenal chaplain must choose War as his blessing, and can do so even if it is a domain not normally granted by his deity. He does not receive a second blessing.
+
+At 7th level, an arsenal chaplain gains Quicken Blessing (War) as a bonus feat even if he does not meet the prerequisites, but cannot grant a War blessing to himself as a swift action with Quicken Blessing until he is at least 10th level.
+
+At 13th level, an arsenal chaplain can use the War blessing on an ally at a range of up to 30 feet by spending an additional use of the blessing ability.
+
+At 16th level, an arsenal chaplain can use the War blessing on a second target with a single use of the blessing ability.
+
+At 19th level, an arsenal chaplain can use the War blessing on any number of targets at once with a single use of the blessing ability.
+
+This ability alters blessing and replaces sacred armor.
+
+**Sacred Weapon (Su)**: The base damage of an arsenal chaplain’s sacred weapon does not increase above 1d6. This alters sacred weapon.
+
+**Weapon Training (Ex)**: At 5th level, an arsenal chaplain gains weapon training as per the fighter class feature, but the benefits of this weapon training apply only to his sacred weapons (weapons with which the warpriest has taken Weapon Focus). This ability replaces channel energy.
+
+## Shieldbearer
+
+Shieldbearers are divine warriors who stand on the front lines of battle, shoulder to shoulder with the soldiers of their people.
+
+**Shield Adept (Ex)**: At 1st level, a shieldbearer receives Improved Shield Bash as a bonus feat. When carrying a shield, the shieldbearer adds his shield bonus on concentration checks to cast defensively. This ability replaces focus weapon.
+
+**Sacred Weapon (Su)**: A shieldbearer treats shields as sacred weapons (instead of his god’s favored weapon), though the shieldbearer can still designate additional weapons as sacred weapons by selecting them with the Weapon Focus feat. The shieldbearer’s sacred weapon damage applies only to attacks made with shields. The shieldbearer does not gain the ability to enhance sacred weapons until 7th level. For every 3 warpriest levels beyond 7th, this bonus increases by 1 (to a maximum of +5 at 19th level). This ability alters sacred weapon and also replaces sacred armor.
+
+**Sacred Shield (Su)**: At 4th level, a shieldbearer gains the ability to enhance his shield with divine power as a swift action. This ability functions as the sacred armor ability, except as follows. This power grants the shield a +1 enhancement bonus (this bonus does not act as an attack or damage bonus when the shield is used in a shield bash). For every 4 warpriest levels beyond 4th, this bonus increases by 1 (to a maximum of +5 at 20th level). The shieldbearer can enhance a shield with any of the following armor special abilities (instead of those listed for sacred armor): arrow deflection, blinding, fortification (heavy, light, or moderate), reflecting, and spell resistance (13, 15, 17, and 19).
+
+**Channel Energy (Su)**: The shieldbearer can channel energy only when carrying a shield, and the ability manifests as a 30-foot-cone burst, rather than as a radius. This ability modifies channel energy.

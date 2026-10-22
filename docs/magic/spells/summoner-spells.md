@@ -47,6 +47,7 @@ New summoner spells from *Ultimate Magic*. Spells from other books will be added
 - **[Allied Cloak](allied-cloak.md)**: Animate your cloak to shield you and aid your actions.
 - **[Apport Animal](apport-animal.md)**: Send or receive a Tiny or smaller animal via teleportation.
 - **[Assume Appearance](assume-appearance.md)**: Use a creature’s corpse to adopt its form.
+- **[Bite the Hand](bite-the-hand.md)**: Summoned creature attacks its summoner.
 - **[Conjuration Foil](conjuration-foil.md)**: Interfere with nearby teleportation effects.
 - **[Conjure Carriage](conjure-carriage.md)**: Create a fine carriage.
 - **[Contact Entity II](contact-entity-ii.md)**: Ask more powerful eldritch entities to find and converse with you.
@@ -114,6 +115,7 @@ New summoner spells from *Ultimate Magic*. Spells from other books will be added
 
 ## 6th-Level Summoner Spells
 
+- **[Bite the Hand, Mass](bite-the-hand-mass.md)**: As bite the hand, multiple targets.
 - **[Contact Entity IV](contact-entity-iv.md)**: Ask extraordinarily powerful eldritch entities to find and converse with you, or they may reply telepathically.
 - **[Create Demiplane](create-demiplane.md)**: As lesser create demiplane, but larger and with planar traits.
 - **[Eagle Aerie](eagle-aerie.md)**: Summon 1 giant eagle/3 levels.

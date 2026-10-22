@@ -635,3 +635,29 @@ A soulbound familiar’s personality is that of the lost loved one, rather than 
 **Arcane School**: A spirit binder can’t choose necromancy as an opposition school. This ability alters arcane school.
 
 **Lost Talents (Ex)**: A spirit binder’s soulbound familiar possesses some of the ability of the lost loved one, and it is capable of learning more. At 1st level, 5th level, and every 5 levels thereafter, the spirit binder’s familiar gains a new feat for which it meets the prerequisites. This ability replaces Scribe Scroll and the wizard’s bonus feats.
+
+## Arcane Physician
+
+Arcane physicians use their scholarly knowledge and arcane mastery to achieve incredible feats of medicine. Most worship patrons of knowledge and of magic.
+
+**Medicinal Alchemy**: The arcane physician treats all spells of the healing subschool on the alchemist extract list as if they were on the wizard spell list for the purpose of activating magic items.
+
+Additionally, he can expend a spell slot of the appropriate level to meet the spell requirements for magic item construction (including potions) as if the expended spell slot contained any alchemist spell that belongs to the healing subschool. If the spell is on both the wizard and alchemist lists, the arcane physician may expend a slot equal to the spell’s alchemist level instead of the spell’s wizard level.
+
+At 8th level, the arcane physician can expend a spell slot of 1st level or higher as a standard action to alter a potion or alchemical remedy held in hand. An alchemical remedy can become any other alchemical remedy of the same or lower price of the arcane physician’s choice. A potion can change to contain any alchemist extract of the arcane physician’s choice that belongs to the healing subschool and is of the same level as or lower than the expended spell slot. The extract must have no material component costing more than 1 gp, and it must be one that it is possible to make into a potion.
+
+This ability replaces arcane school.
+
+**Brew Potion**: At 1st level, an arcane physician gains Brew Potion as a bonus feat.
+
+This replaces scribe scroll.
+
+## Scroll Scholar
+
+A scroll scholar values knowledge and learning as much as her other abilities, trading a portion of her potential in her chosen class for greater breadth of skill at deciphering old texts, piecing together strange fragments of esoteric lore, and deciphering the hidden qualities of strange and unusual magical items. A wizard must either be a universalist wizard or a diviner wizard in order to take this archetype.
+
+**Diligent Student (Ex)**: At 1st level, a scroll scholar chooses one Knowledge skill. This becomes a class skill if it is not already one. The scroll scholar adds half her class level to all Knowledge checks of this type (minimum 1). At 5th level and every five levels thereafter, a scroll scholar chooses 1 additional Knowledge skill to receive this bonus. This ability replaces diviner’s fortune (if a diviner) or hand of the apprentice (if a universalist).
+
+**Secrets Revealed (Sp)**: At 5th level, a scroll scholar gains the ability to cast *comprehend languages* and *identify* as spell-like abilities. Her caster level is equal to her wizard level. She can cast these spells once per day each at 5th level, twice per day each at 7th level, and three times per day each at 9th level. At 11th level, one of these spell-like abilities (scholar’s choice) becomes a constant spell-like ability, and at 13th level, the second one becomes a constant spell-like ability. This ability replaces her bonus feat for 5th level.
+
+**Flash of Insight (Su)**: At 10th level, once per day, a scroll scholar can gain a +5 bonus on a single attack roll, caster level check, or saving throw as an immediate action. This decision must be made before the results of the roll are known, but can be made after the die is rolled. This ability can be used twice per day at 15th level, and 3 times per day at 20th level. This ability replaces the normal addition of a new 4th-level spell slot to the character’s spells per day—from this point on, the wizard has one fewer 4th-level spell slot than other wizards.

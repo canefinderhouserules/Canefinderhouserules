@@ -10,6 +10,7 @@ The magus class spell list appears on the [Magus](../../characters/classes/magus
 - **[Corrosive Touch](corrosive-touch.md)**: Touch attack deals 1d4 acid/level.
 - **[Desperate Weapon](desperate-weapon.md)**: Create an improvised weapon.
 - **[Frostbite](frostbite.md)**: Target takes cold damage and is fatigued.
+- **[Guardian Armor](guardian-armor.md)**: Teleports your armor onto an ally.
 - **[Hide Weapon](hide-weapon.md)**: Meld a weapon into your arm.
 - **[Illusion of Calm](illusion-of-calm.md)**: You appear to be standing still, even when you take some actions.
 - **[Ironbeard](ironbeard.md)**: School transmutation; Level antipaladin 1, cleric 1, magus 1, paladin 1, ranger 1 Casting Time 1 standard.
@@ -66,6 +67,7 @@ The magus class spell list appears on the [Magus](../../characters/classes/magus
 - **[Reloading Hands](reloading-hands.md)**: Loads a single shot into your weapon every round.
 - **[Returning Weapon, Communal](returning-weapon-communal.md)**: As returning weapon, but you may divide the duration among weapons touched.
 - **[Savage Maw](savage-maw.md)**: Your teeth extend and sharpen, transforming your mouth into a maw of razor-sharp fangs.
+- **[Shield of Shards](shield-of-shards.md)**: Your shield breaks into orbiting shards that attack.
 - **[Shifted Steps](shifted-steps.md)**: Make a target sound as if elsewhere.
 - **[Slick Walls](slick-walls.md)**: Walls and ceilings become much harder to climb.
 - **[Stone Shield](stone-shield.md)**: A 1-inch-thick slab of stone springs up from the ground, interposing itself between you and an opponent of.
@@ -97,6 +99,7 @@ The magus class spell list appears on the [Magus](../../characters/classes/magus
 - **[Resilient Reservoir](resilient-reservoir.md)**: School transmutation; Level magus 3, paladin 3, sorcerer/wizard 4, witch 4 Casting Time 1 standard action.
 - **[Selective Invisibility](selective-invisibility.md)**: Invisible, except to one chosen creature you may attack.
 - **[Sickening Strikes](sickening-strikes.md)**: You are imbued with disease, and any creature you strike with a melee attack must make a Fortitude save or be.
+- **[Twisted Innards](twisted-innards.md)**: Crits and sneak attacks may fail.
 - **[Undead Anatomy I](undead-anatomy-i.md)**: Take the form and some of the powers of a Small or Medium undead.
 - **[Urban Step](urban-step.md)**: Step into one doorway and out another.
 - **[Vomit Twin](vomit-twin.md)**: Upon casting this spell, you vomit forth a disgusting ooze copy of yourself into a single adjacent square.
@@ -117,6 +120,7 @@ The magus class spell list appears on the [Magus](../../characters/classes/magus
 - **[Pellet Blast](pellet-blast.md)**
 - **[Pyrotechnic Eruption](pyrotechnic-eruption.md)**: Erupting flames burn a target several times.
 - **[Quieting Weapons](quieting-weapons.md)**: Weapons make no sound and quiet their victims.
+- **[Revenant Armor](revenant-armor.md)**: Armor animates around its fallen wearer.
 - **[Rigor Mortis](rigor-mortis.md)**: Painfully swell a target’s joints.
 - **[Rising Water](rising-water.md)**: Conjures a cylinder of calm, swimmable water.
 - **[Tail Current](tail-current.md)**: Create a current in water to enhance or impede swimming.
@@ -131,6 +135,7 @@ The magus class spell list appears on the [Magus](../../characters/classes/magus
 ## 5th-Level Magus Spells
 
 - **[Acidic Spray](acidic-spray.md)**: 1d6/level acid damage plus 1 round of acid.
+- **[Conjure Deadfall](conjure-deadfall.md)**: Drop a spiked metal block on creatures below.
 - **[Corrosive Consumption](corrosive-consumption.md)**: Acidic patch damages an opponent.
 - **[Glimpse of Truth](glimpse-of-truth.md)**: Gain *true seeing* for 1 round.
 - **[Grease, Greater](grease-greater.md)**: As grease, but covers much more.

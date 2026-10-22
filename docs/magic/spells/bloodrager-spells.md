@@ -22,6 +22,7 @@ Bloodragers gain access to the following spells. Spells in plain text come from 
 - **[Feather Fall](feather-fall.md)**: Objects or creatures fall slowly.
 - **[Flare Burst](flare-burst.md)**: As flare, but all creatures within 10 ft.
 - **[Frostbite](frostbite.md)**: Target takes cold damage and is fatigued.
+- **[Guardian Armor](guardian-armor.md)**: Teleports your armor onto an ally.
 - **[Hide Weapon](hide-weapon.md)**: Meld a weapon into your arm.
 - **[Hydraulic Push](hydraulic-push.md)**: Wave of water bull rushes an enemy.
 - **[Icicle Dagger](icicle-dagger.md)**: Masterwork ice dagger deals +1 cold damage.
@@ -44,6 +45,7 @@ Bloodragers gain access to the following spells. Spells in plain text come from 
 - **[Sense Fear](sense-fear.md)**: Perceive nearby creatures that are experiencing fear.
 - **[Shadow Weapon](shadow-weapon.md)**: Create a quasi-real masterwork weapon.
 - **[Shield](shield.md)**: Invisible disc gives +4 to AC, blocks *magic missiles.*
+- **[Shield of Shards](shield-of-shards.md)**: Your shield breaks into orbiting shards that attack.
 - **[Shocking Grasp](shocking-grasp.md)**: Touch delivers 1d6/level electricity damage (max 5d6).
 - Shock Shield
 - **[Snowball](snowball.md)**: Throw a conjured ball of snow at a target.
