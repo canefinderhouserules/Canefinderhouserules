@@ -165,3 +165,11 @@ The following rogue talents can be taken by any rogue who meets the prerequisite
 **Obfuscate Story (Ex)**: While another individual attempts to give an account of an event, the rogue makes an opposed Diplomacy check to deftly interject comments or statements over the course of the storytelling that cause the individual to muddle his ability to recall accurate or specific details. If the rogue succeeds, her target remains unaware that the rogue’s interjections caused the confusion. However, if she fails, the target is allowed a Sense Motive check (DC equal to the rogue’s failed Diplomacy check) to figure out that she made deliberate attempts to confuse the story.
 
 **Steal the Story (Ex)**: After muddling another’s account using obfuscate story, the rogue may make another opposed Diplomacy check to alter the details further in order to discredit, insult, or humiliate the target. If the check succeeds, the target takes a penalty on Diplomacy and Intimidate checks against anyone who heard the altered story. This penalty is equal to the rogue’s Intelligence, Wisdom, or Charisma bonus (whichever is highest), and lasts until the target is able to repair his reputation or discredit the rogue. The rogue must have the obfuscate story talent to select this talent.
+
+## Monster Hunter’s Handbook Rogue Talents
+
+The following talents complement rogues seeking to ambush animals. A talent marked with an asterisk (*) adds effects to a rogue’s sneak attack. Only one of these talents can be applied to an individual attack, and the decision must be made before the attack roll.
+
+**Ambuscading Grapple (Ex)**: When a rogue with this talent succeeds at a combat maneuver check to grapple an unaware opponent, she can immediately deal her sneak attack damage to the target. This counts as having hit with a sneak attack for the purpose of other abilities and talents.
+
+**Armor Piercer\* (Ex)**: A rogue with this talent can cause her sneak attacks to pierce through natural armor. When she hits with an attack that deals sneak attack damage, she can forgo one or more of her sneak attack dice to reduce the target’s natural armor bonus by that amount (minimum natural armor bonus of +0) until the end of her next turn. A creature cannot be affected by this ability again for 1 minute.

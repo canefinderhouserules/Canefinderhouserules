@@ -93,6 +93,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Demand Offering](demand-offering.md)**: Make a creature give you an object it’s holding.
 - **[Destabilize Powder](destabilize-powder.md)**: Ammunition in the targeted firearm is prone to misfire.
 - **[Detect Magic, Greater](detect-magic-greater.md)**: As *detect magic*, but learn more information.
+- **[Diminish Resistance](diminish-resistance.md)**: Weaken a creature’s resistance to one energy type.
 - **[Disrupt Link](disrupt-link.md)**: Sever the link between a creature and her companion or familiar.
 - **[Dress Corpse](dress-corpse.md)**: Doctor the evidence on a corpse.
 - **[Enemy’s Heart](enemy-s-heart.md)**: You cut out an enemy’s heart and consume it, absorbing that enemy’s power as your own.
@@ -246,6 +247,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Object Possession, Lesser](object-possession-lesser.md)**: Project your soul into an object, animating it.
 - **[Phantasmal Asphyxiation](phantasmal-asphyxiation.md)**: Trick a creature into thinking it can’t breathe.
 - **[Purge Spirit](purge-spirit.md)**: Deal 1d6 points of damage per level to one haunt or spirit creature and stagger it.
+- **[Repugnant Taste](repugnant-taste.md)**: Creatures that bite or swallow the target become nauseated.
 - **[Resilient Reservoir](resilient-reservoir.md)**: School transmutation; Level magus 3, paladin 3, sorcerer/wizard 4, witch 4 Casting Time 1 standard action.
 - **[Ride the Waves](ride-the-waves.md)**: Target can breathe water and swim.
 - **[Riding Possession](riding-possession.md)**: As possession, but you observe instead of control the subject.

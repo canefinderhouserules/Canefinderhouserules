@@ -151,6 +151,7 @@ Mesmerists gain access to the following spells. Spells without a link come from 
 - **[Detect Magic, Greater](detect-magic-greater.md)**: As *detect magic*, but learn more information.
 - **[Detect Mindscape](detect-mindscape.md)**: Sense the presence and attributes of mindscapes.
 - **[Detect Thoughts](detect-thoughts.md)**: Allows “listening” to surface thoughts.
+- **[Diminish Resistance](diminish-resistance.md)**: Weaken a creature’s resistance to one energy type.
 - **[Disfiguring Touch](disfiguring-touch.md)**: Target becomes disfigured.
 - **[Eagle’s Splendor](eagles-splendor.md)**: Subject gains +4 to Cha for 1 min./ level.
 - **[Emotive Block](emotive-block.md)**: Add an emotion component to all of the target’s spells.
@@ -295,6 +296,7 @@ Mesmerists gain access to the following spells. Spells without a link come from 
 - **[Remove Blindness/Deafness](remove-blindness-deafness.md)**: Cures normal or magical blindness or deafness.
 - **[Remove Curse](remove-curse.md)**: Frees object or person from curse.
 - Resilient Reservoir
+- **[Repugnant Taste](repugnant-taste.md)**: Creatures that bite or swallow the target become nauseated.
 - **[Scrying](scrying.md)**: Spies on subject from a distance.
 - **[Secret Page](secret-page.md)**: Changes one page to hide its real content.
 - **[See Invisibility](see-invisibility.md)**: Reveals invisible creatures or objects.
@@ -375,6 +377,7 @@ Mesmerists gain access to the following spells. Spells without a link come from 
 - **[Synapse Overload](synapse-overload.md)**: Deal 1d6 points of damage per level and stagger target for 1 minute.
 - **[Synaptic Pulse, Greater](synaptic-pulse-greater.md)**: As synaptic pulse, but for 1d4 rounds.
 - **[Telepathic Bond](telepathic-bond.md)**: Link lets allies communicate.
+- **[Telepathic Silence](telepathic-silence.md)**: Blocks telepathy and thought reading in an area.
 - **[Telepathy](telepathy.md)**: Communicate mentally with creatures within 100 ft.
 - **[Thoughtsense](thoughtsense.md)**: Automatically detect nearby conscious creatures.
 - Truespeak

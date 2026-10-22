@@ -905,3 +905,59 @@ At each of 6th, 8th, 10th, and 12th levels, a kraken caller can grow an addition
 While in this form, a kraken caller can expel a 10-foot-radius cloud of ink once per minute as a standard action. This cloud provides total concealment in water and persists for 1 round per level. The ink has no effect out of water. This ability alters wild shape.
 
 **Beast of the Depths (Su)**: At 13th level, a kraken caller gains a swim speed equal to her base land speed and can breathe water as though affected by the spell *water breathing*. This ability replaces a thousand faces.
+
+## Green Scourge
+
+Green scourges are militant druids sworn to restore natural order. They’re less concerned with nurturing the natural world than most druids, instead focusing their efforts on slaying corrupted creatures.
+
+**Nature’s Armaments**: A green scourge can lose a prepared 1st- or 2nd-level spell in order to cast *shillelagh* or *flame blade*, respectively. She can instead choose to lose a higher-level spell in order to increase the enhancement bonus of her *shillelagh*, or to add any of the following weapon special abilities to her *shillelagh* or *flame blade*: bane (aberrations only), frost, mighty cleaving, returning, shock, throwing, or vicious. If the target weapon is a quarterstaff, these bonuses apply to only one of its ends. If a *flame blade* gains the frost or shock special ability, the base damage of the spell changes to match the energy type; neither a *flame blade* nor *shillelagh* can gain both of these special abilities. A green scourge cannot add the throwing property to a *flame blade* unless she also adds the returning property.
+
+When adding weapon special abilities or increasing the enhancement bonus, the final level of the spell expended is 1 higher than the base spell level (2nd for *shillelagh* and 3rd for *flame blade*), increased by the additional special abilities’ total base price modifier. For example, creating an aberration-bane vicious *flame blade* requires spending a 5th-level spell slot, which also counts as a 5th-level spell for purposes of dispelling.
+
+This ability alters spontaneous casting.
+
+**Aberration Sense (Ex)**: At 1st level, a green scourge adds Knowledge (dungeoneering) to her class skills and gains a +2 bonus on Knowledge (dungeoneering) checks.
+
+This replaces nature sense.
+
+**Scentless (Ex)**: At 3rd level, a green scourge cannot be detected or tracked with the scent ability or any other special senses that rely on acute smell. She can choose to exude a scent if desired.
+
+This ability replaces trackless step.
+
+**Resist Unnatural Influence (Ex)**: At 4th level, a green scourge gains a +4 bonus on saving throws against aberrations’ spell-like abilities, supernatural abilities, and poisons.
+
+This replaces resist nature’s lure.
+
+## Defender of the True World
+
+Some druids specialize in protecting the Material Plane from the threat of First World inhabitants. They are devoted to tracking down, diverting, and slaying fey threats.
+
+**Class Skills**: A defender of the true world gains Diplomacy as a class skill.
+
+This alters the druid’s class skills.
+
+**Bonus Languages**: A defender of the true world can select Aklo, Sylvan, or Undercommon as bonus languages, in addition to the normal list of bonus languages available.
+
+**Enemy of the First World**: A defender of the true world cannot use *summon nature’s ally* to summon fey creatures.
+
+This modifies spontaneous casting.
+
+**Fey Empathy (Ex)**: A defender of the true world gains a +2 competence bonus on Bluff, Diplomacy, and Intimidate checks when interacting with fey creatures. This bonus increases by 1 for every 4 druid levels she has (maximum +7 at 20th level).
+
+This replaces wild empathy.
+
+**Fey Stalker (Ex)**: At 3rd level, the defender of the true world’s animal companion and any creatures she summons with *summon nature’s ally* gain a +1 morale bonus on attack and damage rolls against fey creatures. This bonus increases to +2 at 8th level, +3 at 13th level, and +4 at 18th level.
+
+This ability replaces trackless step.
+
+**Feybane (Ex)**: At 4th level, a defender of the true world doesn’t gain a bonus on saving throws against spells and effects that utilize or target plants. She instead treats her natural attacks as cold iron for the purpose of overcoming damage reduction, and she gains a +2 bonus on caster level checks to overcome the spell resistance of fey creatures.
+
+This ability alters resist nature’s lure.
+
+**Beguiling Immunity (Ex)**: At 9th level, a defender of the true world becomes immune to the mind-affecting effects of fey.
+
+This ability replaces venom immunity.
+
+**First World Deceiver (Su)**: At 13th level, a defender of the true world gains the ability to change her appearance as per *alter self*, except she can take the form of a humanoid or fey creature. Her base land speed from this ability cannot exceed 60 feet.
+
+This ability replaces a thousand faces.

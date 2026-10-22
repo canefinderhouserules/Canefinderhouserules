@@ -103,6 +103,7 @@
 - **[Delay Poison](delay-poison.md)**: Stops poison from harming target for 1 hour/level.
 - **[Desecrate](desecrate.md)**: Fills area with negative energy, making undead stronger.
 - **[Detect Magic, Greater](detect-magic-greater.md)**: As *detect magic*, but learn more information.
+- **[Diminish Resistance](diminish-resistance.md)**: Weaken a creature’s resistance to one energy type.
 - **[Dress Corpse](dress-corpse.md)**: Doctor the evidence on a corpse.
 - **[Eagle’s Splendor](eagles-splendor.md)**: Subject gains +4 to Cha for 1 min./level.
 - **[Effortless Armor](effortless-armor.md)**: Armor you wear no longer slows your speed.
@@ -135,6 +136,7 @@
 - **[Restful Cloak](restful-cloak.md)**: Turn your cloak into a healing tent.
 - **[Restoration, Lesser](restoration-lesser.md)**: Dispels magical ability penalty or repairs 1d4 ability damage.
 - **[Returning Weapon](returning-weapon.md)**: Grants a weapon the returning special weapon quality.
+- **[Revealing Light](revealing-light.md)**: Object sheds shifting light that foils Stealth bonuses.
 - **[Sacred Space](sacred-space.md)**: This spell sanctifies an area with heavenly power.
 - **[Savage Maw](savage-maw.md)**: Your teeth extend and sharpen, transforming your mouth into a maw of razor-sharp fangs.
 - **[Sense Fear](sense-fear.md)**: Perceive nearby creatures that are experiencing fear.
@@ -143,6 +145,7 @@
 - **[Shatter](shatter.md)**: Sonic vibration damages objects or crystalline creatures.
 - **[Shield Other](shield-other.md)**: You take half of subject’s damage.
 - **[Silence](silence.md)**: Negates sound in 20-ft. radius.
+- **[Solidify Earth](solidify-earth.md)**: Packs earth tight, hindering burrowing creatures.
 - **[Sound Burst](sound-burst.md)**: Deals 1d8 sonic damage to subjects; may stun them.
 - **[Spiritual Weapon](spiritual-weapon.md)**: Magic weapon attacks on its own.
 - **[Status](status.md)**: Monitors condition, position of allies.
@@ -186,6 +189,7 @@
 - **[Drain Poison](drain-poison.md)**: Drain a creature's poison onto your weapon.
 - **[Flesh Puppet](flesh-puppet.md)**: Control a zombie in human guise.
 - **[Glyph of Warding](glyph-of-warding.md)**: Inscription harms those who pass it.
+- **[Guarding Knowledge](guarding-knowledge.md)**: +4 insight bonus on saves against one identified monster special attack.
 - **[Helping Hand](helping-hand.md)**: Ghostly hand leads subject to you.
 - **[Holy Javelin](holy-javelin.md)**: Deal ongoing damage to evil creatures and apply penalties.
 - **[Inflict Serious Wounds](inflict-serious-wounds.md)**: Touch attack, 3d8 damage + 1/level (max +15).

@@ -27,6 +27,7 @@
 - **[Hidden Spring](hidden-spring.md)**: Discover a temporary spring of fresh, flowing water.
 - **[Hide from Animals](hide-from-animals.md)**: Animals can’t perceive one subject/level.
 - **[Hide Weapon](hide-weapon.md)**: Meld a weapon into your arm.
+- **[Huntmaster’s Spear](huntmasters-spear.md)**: Spear becomes a +1 weapon against a chosen favored-enemy type and can be discharged for a powerful attack.
 - **[Ironbeard](ironbeard.md)**: School transmutation; Level antipaladin 1, cleric 1, magus 1, paladin 1, ranger 1 Casting Time 1 standard.
 - **[Jump](jump.md)**: Subject gets bonus on Acrobatics checks.
 - **[Liberating Command](liberating-command.md)**: Target makes an Escape Artist check as an immediate action and gains a bonus on it.
@@ -81,6 +82,7 @@
 - **[Pack Empathy](pack-empathy.md)**: Create an empathic bond with allies.
 - **[Pouncing Fury](pouncing-fury.md)**: Make a full attack with your claws after a charge.
 - **[Protection from Energy](protection-from-energy.md)**: Absorbs 12 points/level of damage from one kind of energy.
+- **[Protection from Natural Attacks](protection-from-natural-attacks.md)**: Target gains DR 5/— against one type of natural attack.
 - **[Quick Change](quick-change.md)**: Use change shape as a swift action and surprise foes.
 - **[Reloading Hands](reloading-hands.md)**: Loads a single shot into your weapon every round.
 - **[Replay Tracks](replay-tracks.md)**: Reconstruct past events from a set of tracks.
@@ -139,6 +141,7 @@
 - **[Reduce Animal](reduce-animal.md)**: Shrinks one willing animal.
 - **[Remove Disease](remove-disease.md)**: Cures all diseases affecting subject.
 - **[Repel Vermin](repel-vermin.md)**: Insects, spiders, and other vermin stay 10 ft. away.
+- **[Repugnant Taste](repugnant-taste.md)**: Creatures that bite or swallow the target become nauseated.
 - **[Resist Energy, Communal](resist-energy-communal.md)**: As resist energy, but you may divide the duration among creatures touched.
 - **[Share Shape](share-shape.md)**: Beast shape II, limited to your companion's or familiar's kind.
 - **[Signs of the Land](signs-of-the-land.md)**: Learn up to three details about the surrounding territory.

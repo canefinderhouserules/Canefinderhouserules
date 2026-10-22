@@ -105,6 +105,7 @@
 - **[Gusting Sphere](gusting-sphere.md)**: School evocation [air]; Level druid 2, magus 2, sorcerer/wizard 2 Casting Time 1 standard action Components V.
 - **[Heat Metal](heat-metal.md)**: Makes metal so hot it damages those who touch it.
 - **[Hold Animal](hold-animal.md)**: Paralyzes one animal for 1 round/level.
+- **[Huntmaster’s Spear](huntmasters-spear.md)**: Spear becomes a +1 weapon against a chosen favored-enemy type and can be discharged for a powerful attack.
 - **[Invigorating Poison](invigorating-poison.md)**: Poison ability damage becomes a bonus instead.
 - **[Owl’s Wisdom](owls-wisdom.md)**: Subject gains +4 to Wis for 1 min./level.
 - **[Pouncing Fury](pouncing-fury.md)**: Make a full attack with your claws after a charge.
@@ -120,6 +121,7 @@
 - **[Sense Fear](sense-fear.md)**: Perceive nearby creatures that are experiencing fear.
 - **[Sickening Strikes](sickening-strikes.md)**: You are imbued with disease, and any creature you strike with a melee attack must make a Fortitude save or be.
 - **[Soften Earth and Stone](soften-earth-and-stone.md)**: Turns stone to clay, or dirt to sand or mud.
+- **[Solidify Earth](solidify-earth.md)**: Packs earth tight, hindering burrowing creatures.
 - **[Spider Climb](spider-climb.md)**: Grants ability to walk on walls and ceilings.
 - **[Steal Breath](steal-breath.md)**: You pull the breath from a creature’s lungs, dealing damage and leaving it unable to speak, use breath.
 - **[Summon Nature’s Ally II](summon-natures-ally-ii.md)**: Summons creature to fight.
@@ -224,8 +226,10 @@
 - **[Life Blast](life-blast.md)**: Drain life from local vegetation to launch a blast of positive energy.
 - **[Obsidian Flow](obsidian-flow.md)**: Converts the surface of the ground into molten glass. Spells 6 Protection from Energy, Communal: As protection from energy, but you may divide the duration among creatures touched.
 - **[Phantom Hunt](phantom-hunt.md)**: You and your companion gain senses, speed, and fast tracking.
+- **[Protection from Natural Attacks](protection-from-natural-attacks.md)**: Target gains DR 5/— against one type of natural attack.
 - **[Reincarnate](reincarnate.md)**: Brings dead subject back in a random body.
 - **[Repel Vermin](repel-vermin.md)**: Insects, spiders, and other vermin stay 10 ft. away.
+- **[Repugnant Taste](repugnant-taste.md)**: Creatures that bite or swallow the target become nauseated.
 - **[Rusting Grasp](rusting-grasp.md)**: Your touch corrodes iron and alloys.
 - **[Scrying](scrying.md)**: Spies on subject from a distance.
 - **[Sea Stallion](sea-stallion.md)**: You and your mount adapt to an aquatic environment.

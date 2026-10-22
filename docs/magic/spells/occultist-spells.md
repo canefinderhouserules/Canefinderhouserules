@@ -177,6 +177,7 @@ Occultists gain access to the following spells, determined by their chosen imple
 - **[Billowing Skirt](billowing-skirt.md)**: A skirt or gown slows your fall.
 - **[Conditional Favor](conditional-favor.md)**: Provide another spell whose effects reverse if the target breaks a restriction.
 - **[Crimson Confession](crimson-confession.md)**
+- **[Huntmaster’s Spear](huntmasters-spear.md)**: Spear becomes a +1 weapon against a chosen favored-enemy type and can be discharged for a powerful attack.
 - **[Node of Blasting](node-of-blasting.md)**: Place a trap on an object to mentally damage a creature that touches it.
 - **[Obscure Object](obscure-object.md)**: Masks object against scrying.
 - **[Resist Energy](resist-energy.md)**: Ignores 10 (or more) points of damage/attack from specified energy type.
@@ -321,6 +322,7 @@ Occultists gain access to the following spells, determined by their chosen imple
 - **[Dispel Magic](dispel-magic.md)**: Cancels one magical spell or effect.
 - **[Erase Impressions](erase-impressions.md)**: Erase psychic impressions from an object.
 - **[Explosive Runes](explosive-runes.md)**: Deals 6d6 damage when read.
+- **[Guarding Knowledge](guarding-knowledge.md)**: +4 insight bonus on saves against one identified monster special attack.
 - **[Magic Circle against Chaos](magic-circle-against-chaos.md)**
 - **[Magic Circle against Evil](magic-circle-against-evil.md)**
 - **[Magic Circle against Good](magic-circle-against-good.md)**
@@ -461,6 +463,7 @@ Occultists gain access to the following spells, determined by their chosen imple
 - **[Spell Immunity](spell-immunity.md)**: Subject is immune to one spell per 4 levels.
 - **[Stoneskin](stoneskin.md)**: Grants DR 10/adamantine.
 - **[Symbol of Sealing](symbol-of-sealing.md)**: Create triggered wall of force.
+- **[Telepathic Silence](telepathic-silence.md)**: Blocks telepathy and thought reading in an area.
 - **[True Form](true-form.md)**: Removes polymorph effects.
 - **[Unbreakable Construct](unbreakable-construct.md)**: Increase construct hardness or DR.
 - Wreath of Blades

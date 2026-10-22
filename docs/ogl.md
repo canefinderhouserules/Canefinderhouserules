@@ -95,3 +95,5 @@ The following text is the property of Wizards of the Coast, Inc. and is Copyrigh
     Pathfinder Companion: Adventurer’s Armory. Copyright 2010, Paizo Publishing, LLC; Authors: Jonathan Keith, Hal Maclean, Jeff Quick, Christopher Self, JD Wiker, and Keri Wiker.
 
     Pathfinder Player Companion: Adventurer’s Armory 2 © 2017, Paizo Inc.; Authors: Jenny Jarzabski, Mikko Kallio, Isabelle Lee, Luis Loza, Joe Pasini, David N. Ross, and Linda Zayas-Palmer.
+
+    Pathfinder Player Companion: Monster Hunter’s Handbook © 2017, Paizo Inc.; Authors: Eric Hindley, Mikko Kallio, Luis Loza, and Christopher Wasko.

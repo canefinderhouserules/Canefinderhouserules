@@ -171,6 +171,7 @@ Spiritualists gain access to the following spells. Spells without a link come fr
 - Phantom Driver
 - **[Phantom Steed](phantom-steed.md)**: Magic horse appears for 1 hour/level.
 - **[Protection from Energy](protection-from-energy.md)**: Absorbs 12 points/level of damage from one kind of energy.
+- **[Protection from Natural Attacks](protection-from-natural-attacks.md)**: Target gains DR 5/— against one type of natural attack.
 - **[Ray of Exhaustion](ray-of-exhaustion.md)**: Ray makes subject exhausted.
 - **[Remove Blindness/Deafness](remove-blindness-deafness.md)**: Cures normal or magical blindness or deafness.
 - **[Remove Curse](remove-curse.md)**: Frees object or person from curse.
@@ -257,6 +258,7 @@ Spiritualists gain access to the following spells. Spells without a link come fr
 - **[Summon Monster IV](summon-monster-iv.md)**: (Evil creatures only.) Summons extraplanar creature to fight for you.
 - Telekinetic Charge
 - **[Telekinetic Maneuver](telekinetic-maneuver.md)**: Perform a telekinetic combat maneuver.
+- **[Telepathic Silence](telepathic-silence.md)**: Blocks telepathy and thought reading in an area.
 - **[Terrible Remorse](terrible-remorse.md)**: Creature is compelled to harm itself.
 - **[Thoughtsense](thoughtsense.md)**: Automatically detect nearby conscious creatures.
 - **[Torpid Reanimation](torpid-reanimation.md)**: *Animate dead* when a specific trigger condition occurs.

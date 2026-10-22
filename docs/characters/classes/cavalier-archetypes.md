@@ -421,3 +421,49 @@ A huntmaster's animal companions gain a bonus on Survival checks to follow track
 **Quarry (Ex)**: At 14th level, a huntmaster gains quarry, as the ranger ability of the same name. The benefits of this ability also apply to his hunting pack. This ability replaces greater banner.
 
 **Improved Quarry (Ex)**: At 20th level, a huntmaster gains improved quarry, as the ranger ability of the same name. The benefits of this ability also apply to his hunting pack. This ability replaces supreme charge.
+
+## Disciple of the Pike
+
+Renowned monster hunters take on large game using ancient weapon arts combined with modern equipment.
+
+**Bigger They Are (Ex)**: A disciple of the pike gains a +1 dodge bonus to AC against creatures larger than he is. This bonus increases by 1 if the creature is two size categories larger. At 6th level, the bonus increases to +3 against a creature three size categories larger, and at 12th level, the bonus increases to +4 against creatures four size categories larger.
+
+This ability replaces mount.
+
+**Pike Charge (Ex)**: At 3rd level, a disciple of the pike learns to make more accurate charge attacks with weapons from the polearms or spears fighter weapon group. He receives a +4 bonus on melee attacks when charging with a polearm or spear (instead of the normal +2). In addition, the disciple of the pike takes no penalty to his AC after making a charge attack with a polearm or spear.
+
+This ability replaces cavalier’s charge.
+
+**Monster Hunter (Ex)**: At 4th level, a disciple of the pike has an uncanny ability to identify monsters. He can attempt Knowledge checks untrained to identify monsters and their weaknesses, and gains a bonus equal to half of his cavalier level on Knowledge checks to identify monsters.
+
+This ability replaces expert trainer.
+
+**Weapon Training (Ex)**: At 5th level, a disciple of the pike gains weapon training, just like a fighter. He must select polearms or spears as his weapon group, and never gains another weapon group. His bonuses with the selected group otherwise progress as though his fighter level were equal to his cavalier level.
+
+This ability replaces banner and greater banner.
+
+**Agile Charger (Ex)**: At 11th level, a disciple of the pike takes no penalties caused by difficult terrain while charging. His movement is still hampered by obstacles, poor visibility, and other conditions. This ability doesn’t allow him to move through impassable terrain.
+
+This ability replaces mighty charge.
+
+**Deadly Charge (Ex)**: At 20th level, whenever a disciple of the pike makes a charge attack with a polearm or spear, he deals double the normal amount of damage. In addition, if he confirms a critical hit on a deadly charge, the target is stunned for 1d4 rounds. If the target succeeds at a Will save (DC = 10 + the cavalier’s base attack bonus), it is instead staggered for 1d4 rounds.
+
+This ability replaces supreme charge.
+
+## Order of the Hero
+
+A cavalier belonging to this order specializes in hunting down large monsters and protecting communities from them. Cavaliers of this order tend to value bravery, dedication, and single-minded determination.
+
+**Edicts**: The cavalier must choose an area, whether it’s a settlement or nation, and vows to slay any monster threatening that area. He must fulfill any pledge he makes to slay a beast, tracking it to its lair if necessary, and forsaking any new quarry until his current target is slain. The cavalier must attempt to ensure that no lasting damage is dealt to his domain in the pursuit of his prey.
+
+**Challenge**: Whenever an order of the hero cavalier issues a challenge, he receives a +1 morale bonus on melee damage rolls against the target of his challenge if it is at least one size category larger than he is. This bonus increases by 1 for every 4 cavalier levels he has.
+
+**Skills**: An order of the hero cavalier adds Knowledge (arcana) (Int) and Knowledge (nature) (Int) to his list of class skills. In addition, whenever an order of the hero cavalier uses a Knowledge check to identify a monster, he gains a bonus on this check equal to half his cavalier level (minimum +1).
+
+**Order Abilities**: A cavalier who belongs to the order of the hero gains the following abilities as he increases in level.
+
+*Monster Expert (Ex)*: At 2nd level, the cavalier learns how to dodge the attacks of his monstrous foes and the traps in their lairs. He gains a bonus equal to his Charisma bonus on Fortitude and Reflex saves against abilities and spells that have an area of effect.
+
+*Resist Energy (Su)*: At 8th level, the cavalier can steel himself against harmful energies. Once per day as a move action, he chooses one of the following: acid, cold, electricity, or fire. He gains energy resistance 5 against the chosen type for 1 minute. At 12th, 16th, and 20th levels, the resistance increases by 5, and the cavalier gains an additional daily use of this ability.
+
+*Counterstriking Challenge (Ex)*: At 15th level, once per day when he challenges a Large or larger creature, the cavalier can also prepare to interrupt the creature’s special attacks. The challenged target provokes an attack of opportunity from the cavalier whenever it activates an extraordinary or a supernatural attack (such as a breath weapon or gaze attack). If the cavalier deals damage with this attack, the creature must succeed at a Will save (DC = 10 + half the cavalier’s level + his Charisma modifier) or it fails to activate the special attack and loses the action it took to do so. The cavalier can perform three such attacks of opportunity over the course of a counterstriking challenge.

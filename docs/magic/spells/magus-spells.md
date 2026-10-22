@@ -46,6 +46,7 @@ The magus class spell list appears on the [Magus](../../characters/classes/magus
 - **[Brow Gasher](brow-gasher.md)**: Slashing weapon deals bleed damage to an opponent’s head.
 - **[Defensive Shock](defensive-shock.md)**: Electricity damages your attackers.
 - **[Detect Magic, Greater](detect-magic-greater.md)**: As *detect magic*, but learn more information.
+- **[Diminish Resistance](diminish-resistance.md)**: Weaken a creature’s resistance to one energy type.
 - **[Effortless Armor](effortless-armor.md)**: Armor you wear no longer slows your speed.
 - **[Escaping Ward](escaping-ward.md)**: This ward grants you extra maneuverability when you avoid attacks against larger foes.
 - **[Flickering Lights](flickering-lights.md)**: Create an area of inconsistent lighting.
@@ -53,6 +54,7 @@ The magus class spell list appears on the [Magus](../../characters/classes/magus
 - **[Ghost Whip](ghost-whip.md)**: Create a ghost touch whip that passes through objects.
 - **[Groundswell](groundswell.md)**: School transmutation [earth]; Level cleric 2, druid 2, magus 2, ranger 2 Casting Time 1 standard action.
 - **[Gusting Sphere](gusting-sphere.md)**: School evocation [air]; Level druid 2, magus 2, sorcerer/wizard 2 Casting Time 1 standard action Components V.
+- **[Huntmaster’s Spear](huntmasters-spear.md)**: Spear becomes a +1 weapon against a chosen favored-enemy type and can be discharged for a powerful attack.
 - **[Imbue with Elemental Might](imbue-with-elemental-might.md)**: School evocation [see text]; Level cleric 2, magus 2, sorcerer/wizard 2 Components V, S Duration 24 hours or.
 - **[Mount, Communal](mount-communal.md)**: As mount, but you may divide the duration among creatures touched.
 - **[Pilfering Hand](pilfering-hand.md)**: You may seize an object or manipulate it from afar.
@@ -63,6 +65,7 @@ The magus class spell list appears on the [Magus](../../characters/classes/magus
 - **[Returning Weapon, Communal](returning-weapon-communal.md)**: As returning weapon, but you may divide the duration among weapons touched.
 - **[Savage Maw](savage-maw.md)**: Your teeth extend and sharpen, transforming your mouth into a maw of razor-sharp fangs.
 - **[Shifted Steps](shifted-steps.md)**: Make a target sound as if elsewhere.
+- **[Slick Walls](slick-walls.md)**: Walls and ceilings become much harder to climb.
 - **[Stone Shield](stone-shield.md)**: A 1-inch-thick slab of stone springs up from the ground, interposing itself between you and an opponent of.
 - **[Tactical Acumen](tactical-acumen.md)**: You gain an additional +1 on attack rolls or to AC due to battlefield positioning.
 - **[Telekinetic Assembly](telekinetic-assembly.md)**

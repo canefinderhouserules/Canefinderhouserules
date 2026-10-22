@@ -208,6 +208,7 @@ Psychics gain access to the following spells. Spells without a link come from ot
 - **[Detect Desires](detect-desires.md)**: Learn what creatures desire.
 - **[Detect Magic, Greater](detect-magic-greater.md)**: As *detect magic*, but learn more information.
 - **[Detect Mindscape](detect-mindscape.md)**: Sense the presence and attributes of mindscapes.
+- **[Diminish Resistance](diminish-resistance.md)**: Weaken a creature’s resistance to one energy type.
 - **[Disfiguring Touch](disfiguring-touch.md)**: Target becomes disfigured.
 - **[Disguise Other](disguise-other.md)**: As disguise self, but affects you or another.
 - **[Eagle Eye](eagle-eye.md)**: Creates a magical sensor high above you.
@@ -285,6 +286,7 @@ Psychics gain access to the following spells. Spells without a link come from ot
 - Qualm
 - **[Resist Energy](resist-energy.md)**: Ignores 10 (or more) points of damage/attack from specified energy type.
 - Returning Weapon
+- **[Revealing Light](revealing-light.md)**: Object sheds shifting light that foils Stealth bonuses.
 - **[Rope Trick](rope-trick.md)**: As many as eight creatures hide in extradimensional space.
 - Savage Maw
 - **[Scare](scare.md)**: Frightens creature of less than 6 HD.
@@ -379,6 +381,7 @@ Psychics gain access to the following spells. Spells without a link come from ot
 - **[Fly](fly.md)**: Subject flies at speed of 60 ft.
 - **[Force Punch](force-punch.md)**: Target takes 1d4 force damage per level and is pushed away.
 - **[Gaseous Form](gaseous-form.md)**: Subject becomes insubstantial and can fly slowly.
+- **[Guarding Knowledge](guarding-knowledge.md)**: +4 insight bonus on saves against one identified monster special attack.
 - **[Guiding Star](guiding-star.md)**: Know approximate distance from where you cast this spell.
 - **[Haste](haste.md)**: One creature/level moves faster, +1 on attack rolls, AC, and Reflex saves.
 - Healing Thief
@@ -545,6 +548,7 @@ Psychics gain access to the following spells. Spells without a link come from ot
 - **[Planar Adaptation](planar-adaptation.md)**: Resist harmful effects of other plane.
 - **[Planar Ally, Lesser](planar-ally-lesser.md)**: Exchange services with a 6 HD extraplanar creature.
 - Protection from Energy, Communal
+- **[Protection from Natural Attacks](protection-from-natural-attacks.md)**: Target gains DR 5/— against one type of natural attack.
 - **[Quieting Weapons](quieting-weapons.md)**: Weapons make no sound and quiet their victims.
 - **[Rainbow Pattern](rainbow-pattern.md)**: Lights fascinate 24 HD of creatures.
 - **[Reduce Person, Mass](reduce-person-mass.md)**: As *reduce person*, but affects 1 humanoid creature/level.
@@ -569,6 +573,7 @@ Psychics gain access to the following spells. Spells without a link come from ot
 - **[Telekinesis](telekinesis.md)**: Moves object, attacks creature, or hurls object or creature.
 - Telekinetic Charge
 - **[Telepathic Bond](telepathic-bond.md)**: Link lets allies communicate.
+- **[Telepathic Silence](telepathic-silence.md)**: Blocks telepathy and thought reading in an area.
 - **[Terrible Remorse](terrible-remorse.md)**: Creature is compelled to harm itself.
 - **[They Know](they-know.md)**: Convince target that a nearby creature knows her greatest secret.
 - **[Thought Shield III](thought-shield-iii.md)**: As thought shield I, but +8 on Will saves and stun creatures that read your thoughts for 1 round.

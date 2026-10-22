@@ -17,6 +17,7 @@
 - **[Divine Favor](divine-favor.md)**: You gain +1 per three levels on attack and damage rolls.
 - **[Endure Elements](endure-elements.md)**: Exist comfortably in hot or cold regions.
 - **[Hedging Weapons](hedging-weapons.md)**: Floating weapons protect you and make ranged attacks.
+- **[Huntmaster’s Spear](huntmasters-spear.md)**: Spear becomes a +1 weapon against a chosen favored-enemy type and can be discharged for a powerful attack.
 - **[Ironbeard](ironbeard.md)**: School transmutation; Level antipaladin 1, cleric 1, magus 1, paladin 1, ranger 1 Casting Time 1 standard.
 - **[Know Peerage](know-peerage.md)**: Target uses your Knowledge (nobility) ranks.
 - **[Liberating Command](liberating-command.md)**: Target makes an Escape Artist check as an immediate action and gains a bonus on it.

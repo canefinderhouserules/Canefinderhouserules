@@ -68,6 +68,7 @@
 - **[Quintessence](quintessence.md)**: Mask any flaws of or damage to a creature or object.
 - **[Recharge Innate Magic](recharge-innate-magic.md)**: You channel magic energy into your own aura, recharging your innate magic abilities.
 - **[Remove Fear](remove-fear.md)**: Suppresses fear or gives +4 on saves against fear for one subject + one per four levels.
+- **[Revealing Light](revealing-light.md)**: Object sheds shifting light that foils Stealth bonuses.
 - **[Sculpted Cape](sculpted-cape.md)**: Your cape stiffens and holds its shape.
 - **[See Alignment](see-alignment.md)**: Pick an alignment; in your sight, creatures and items with that alignment emit a ghostly radiance.
 - **[Silent Image](silent-image.md)**: Creates minor illusion of your design.
@@ -119,6 +120,7 @@
 - **[Detect Desires](detect-desires.md)**: Learn what creatures desire.
 - **[Detect Magic, Greater](detect-magic-greater.md)**: As *detect magic*, but learn more information.
 - **[Detect Thoughts](detect-thoughts.md)**: Allows “listening” to surface thoughts.
+- **[Diminish Resistance](diminish-resistance.md)**: Weaken a creature’s resistance to one energy type.
 - **[Discovery Torch](discovery-torch.md)**: Touched object emanates bright light, granting Perception and Sense Motive bonuses.
 - **[Disrupt Silence](disrupt-silence.md)**: Disrupt all silence effects in an area.
 - **[Eagle’s Splendor](eagles-splendor.md)**: Subject gains +4 to Cha for 1 min./level.
@@ -159,6 +161,7 @@
 - **[Shatter](shatter.md)**: Sonic vibration damages objects or crystalline creatures.
 - **[Shifted Steps](shifted-steps.md)**: Make a target sound as if elsewhere.
 - **[Silence](silence.md)**: Negates sound in 20-ft. radius.
+- **[Slick Walls](slick-walls.md)**: Walls and ceilings become much harder to climb.
 - **[Sound Burst](sound-burst.md)**: Deals 1d8 sonic damage and may stun subjects.
 - **[Steal Breath](steal-breath.md)**: You pull the breath from a creature’s lungs, dealing damage and leaving it unable to speak, use breath.
 - **[Suggestion](suggestion.md)**: Compels subject to follow stated course of action.
@@ -205,6 +208,7 @@
 - **[Geas, Lesser](geas-lesser.md)**: Commands subject of 7 HD or less.
 - **[Glibness](glibness.md)**: You gain +20 bonus on Bluff checks, and your lies can escape magical discernment.
 - **[Good Hope](good-hope.md)**: Subjects gain +2 on attack rolls, damage rolls, saves, and checks.
+- **[Guarding Knowledge](guarding-knowledge.md)**: +4 insight bonus on saves against one identified monster special attack.
 - **[Haste](haste.md)**: One creature/level moves faster, receives +1 on attack rolls, AC, and Reflex saves.
 - **[Hollow Heroism](hollow-heroism.md)**: Provide a *heroism* effect that you can reverse at any time.
 - **[Hypercognition](hypercognition.md)**: Rapidly recall everything you know about a subject.
@@ -223,6 +227,7 @@
 - **[Prehensile Pilfer](prehensile-pilfer.md)**: School transmutation; Level alchemist 3, bard 3, magus 3, sorcerer/wizard 3 Casting Time 1 standard action.
 - **[Raging Rubble](raging-rubble.md)**: You animate an area of rubble, gravel, or other small stones, creating a dangerous, rolling area of debris.
 - **[Remove Curse](remove-curse.md)**: Frees object or person from curse.
+- **[Repugnant Taste](repugnant-taste.md)**: Creatures that bite or swallow the target become nauseated.
 - **[Returning Weapon, Communal](returning-weapon-communal.md)**: As returning weapon, but you may divide the duration among weapons touched.
 - **[Scrying](scrying.md)**: Spies on subject from a distance.
 - **[Sculpt Sound](sculpt-sound.md)**: Creates new sounds or changes existing ones into new sounds.

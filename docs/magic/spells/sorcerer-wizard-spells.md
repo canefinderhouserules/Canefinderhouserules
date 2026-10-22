@@ -203,6 +203,7 @@
 - **[Demand Offering](demand-offering.md)**: Make a creature give you an object it’s holding.
 - **[Destabilize Powder](destabilize-powder.md)**: Ammunition in the targeted firearm is prone to misfire.
 - **[Detect Magic, Greater](detect-magic-greater.md)**: As *detect magic*, but learn more information.
+- **[Diminish Resistance](diminish-resistance.md)**: Weaken a creature’s resistance to one energy type.
 - **[Disrupt Link](disrupt-link.md)**: Sever the link between a creature and her companion or familiar.
 - **[Dress Corpse](dress-corpse.md)**: Doctor the evidence on a corpse.
 - **[Endure Elements, Communal](endure-elements-communal.md)**: As endure elements, but you may divide the duration among creatures touched.
@@ -248,12 +249,15 @@
 - **[Fog Cloud](fog-cloud.md)**: Fog obscures vision.
 - **[Glitterdust](glitterdust.md)**: Blinds creatures, outlines invisible creatures.
 - **[Returning Weapon](returning-weapon.md)**: Grants a weapon the returning special weapon quality.
+- **[Revealing Light](revealing-light.md)**: Object sheds shifting light that foils Stealth bonuses.
 - **[Ricochet Shot](ricochet-shot.md)**: Imbues a projectile weapon to give its ammunition the ability to ricochet.
 - **[Sense Vitals](sense-vitals.md)**: Gain sneak attack with any manufactured weapon.
 - **[Sentry Skull](sentry-skull.md)**: You restore the senses to the severed head of a humanoid or monstrous humanoid killed within the past 24.
 - **[Shadow Anchor](shadow-anchor.md)**: School illusion (shadow) [shadow]; Level bard 2, sorcerer/wizard 2, witch 2 Casting Time 1 standard action.
 - **[Shared Suffering](shared-suffering.md)**: Take damage to deal the same damage to a distant target.
 - **[Shifted Steps](shifted-steps.md)**: Make a target sound as if elsewhere.
+- **[Slick Walls](slick-walls.md)**: Walls and ceilings become much harder to climb.
+- **[Solidify Earth](solidify-earth.md)**: Packs earth tight, hindering burrowing creatures.
 - **[Spontaneous Immolation](spontaneous-immolation.md)**: Target takes 3d6 points of fire damage and catches on fire.
 - **[Squeeze](squeeze.md)**: School transmutation (polymorph); Level alchemist 2, sorcerer/wizard 2, witch 2 Casting Time 1 standard.
 - **[Stabilize Powder](stabilize-powder.md)**: Ammunition in the targeted firearm is less likely to misfire.
@@ -367,6 +371,7 @@
 - **[Flash Fire](flash-fire.md)**: Ammunition in the targeted firearm creates a tremendous flash capable of blinding the weapon’s bearer and those around him.
 - **[Gloomblind Bolts](gloomblind-bolts.md)**: You create one or more bolts of negative energy infused with shadow pulled from the Shadow Plane.
 - **[Grasping Tentacles](grasping-tentacles.md)**: As black tentacles, but they perform dirty tricks.
+- **[Guarding Knowledge](guarding-knowledge.md)**: +4 insight bonus on saves against one identified monster special attack.
 - **[Healing Thief](healing-thief.md)**: You siphon half of all magical healing that the targeted creature receives.
 - **[Hostile Levitation](hostile-levitation.md)**: Levitates the targeted creature up off the ground.
 - **[Improve Trap](improve-trap.md)**: When this spell is cast upon a trap, it improves one specific element of the trap chosen at the time of.

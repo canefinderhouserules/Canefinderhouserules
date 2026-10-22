@@ -969,3 +969,37 @@ Whether singing a delicate duo with a nightingale or slipping coins from purses 
 **Harmonizing Familiar (Su)**: At 8th level, the duettist and his familiar have learned how to perform together in harmony. When a duettist and his familiar perform the same bardic performance simultaneously, its effects are enhanced. If the performance has a DC, the DC increases by 2. If the performance provides a competence bonus, the competence bonus increases by 1. Because both the duettist and the familiar are performing, each round performed consumes 3 rounds of bardic performance. This ability replaces dirge of doom.
 
 **Symphonic Familiar (Su)**: At 14th level, the duettist and his familiar have learned how to create a symphony of complementary performances that meld together to produce two different effects. They can each perform a different bardic performance simultaneously, and each has its full effect. Because both the duettist and the familiar are performing, each round performed consumes 3 rounds of bardic performance. This ability replaces frightening tune.
+
+## Luring Piper
+
+Some bards have an exceptional ability to use their musical performances to entrance the world’s wilder creatures. These performers are so focused that they create melodies capable of leading animals and fey to their unwilling death.
+
+**Class Skills**: A luring piper gains Survival as a class skill.
+
+This alters the bard’s class skills.
+
+**Fey Secrets**: A luring piper adds half his class level (minimum 1) on Bluff, Knowledge (nature), Perception, Sense Motive, and Survival checks when interacting with fey.
+
+This ability replaces bardic knowledge.
+
+**Luring Presentation (Ex)**: Creatures that have the animal or fey type take a –2 penalty on saving throws imposed by a luring piper’s bardic performances. Creatures with any other type gain a +2 bonus on saving throws against a luring piper’s bardic performances.
+
+This ability modifies bardic performance.
+
+**Bardic Performance**: The luring piper gains the following types of bardic performances, which can only be made when using Perform (wind instruments) and employing a wind instrument.
+
+*Charming Melody (Su)*: While using the fascinate bardic performance, the luring piper can play a song that compels animals and fey to follow him wherever he goes. Instead of sitting peacefully and merely observing the luring piper, creatures with the animal or fey type instead quietly and calmly walk toward the luring piper, stopping once they are adjacent to the luring piper and following him if he moves.
+
+This performance modifies fascinate.
+
+*Deadly Lure (Sp)*: At 8th level, the luring piper can use his suggestion bardic performance on targeted animals and fey to make them take actions that result in their own injury or death, such as leaping off a cliff or into a river. The targeted creature is allowed a second saving throw to shake off the effect before completing any self-harming actions.
+
+This performance replaces the bard’s dirge of doom.
+
+*Fey-Wounding Song (Sp)*: At 12th level as a full-round action, the luring piper can expend 3 rounds of bardic performance to play a song that causes fey tremendous pain. Treat this as equivalent to *mass inflict serious wounds*, but affecting only fey targets and using the luring piper’s bard level as his caster level.
+
+This performance replaces soothing performance.
+
+**Piper’s Attention (Ex)**: Starting at 2nd level, whenever a luring piper is actively using Perform (wind instruments) as part of a bardic performance, he gains a +4 bonus on saving throws against language-dependent, mind-affecting, and sonic effects. If this effect is caused by a fey creature, the luring piper can also roll the saving throw twice and take the better result.
+
+This ability replaces well-versed.

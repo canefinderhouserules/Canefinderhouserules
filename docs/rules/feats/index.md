@@ -1484,7 +1484,9 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Ambuscading Spell](ambuscading-spell.md) | — | — |
 | [Ambush Sense](ambush-sense.md) | Combat | Int 13, trap sense class feature |
 | [Amplified Hex](amplified-hex.md) | — | Hex class feature |
+| [Anatomical Savant](anatomical-savant.md) | Combat | Weapon Focus, base attack bonus +12 |
 | [Armor Adept](armor-adept.md) | Combat | — |
+| [Baneful Judgment](baneful-judgment.md) | Combat | Bane class feature, judgment class feature, monster lore class feature |
 | [Bat Shape](bat-shape.md) | — | Cha 13, werebat-kin |
 | [Battle Cry (Surprise Round)](battle-cry-surprise-round.md) | — | Bardic performance class feature |
 | [Bear Hug](bear-hug.md) | Combat | Str 17, Beartrap Bite, Weapon Focus (bite), base attack bonus +8 |
@@ -1495,6 +1497,9 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Blustering Bluff](blustering-bluff.md) | — | Cha 13, Bluff 1 rank, Intimidate 1 rank |
 | [Brilliant Planner](brilliant-planner.md) | — | Int 13, character level 5th |
 | [Brilliant Spell Preparation](brilliant-spell-preparation.md) | — | Int 13, ability to prepare 3rd-level spells |
+| [Bull-Catcher Style](bull-catcher-style.md) | Combat, Style | Dex 13, Improved Grapple, Improved Unarmed Strike |
+| [Bull-Catcher Toss](bull-catcher-toss.md) | Combat | Dex 13, Bull-Catcher Style, Improved Grapple, Improved Unarmed Strike; base attack bonus +8, brawler level 4th, or monk level 4th |
+| [Bull-Catcher Wrangle](bull-catcher-wrangle.md) | Combat | Dex 13, Bull-Catcher Style, Bull-Catcher Toss, Improved Grapple, Improved Unarmed Strike; base attack bonus +12, brawler level 8th, or monk level 8th |
 | [But a Scratch](but-a-scratch.md) | Combat | Cha 13, Bluff 4 ranks |
 | [Call Truce](call-truce.md) | — | Cha 15, Persuasive, Diplomacy 5 ranks |
 | [Careful Flyer](careful-flyer.md) | — | Acrobatic, Fly 5 ranks |
@@ -1506,6 +1511,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Circuitous Shot](circuitous-shot.md) | Combat | Dex 19, Blind-Fight, Improved Precise Shot, Point-Blank Shot, Precise Shot, base attack bonus +11 |
 | [City Sprinter](city-sprinter.md) | — | Street Smarts |
 | [Clambering Escape](clambering-escape.md) | Combat | Int 13, Combat Expertise, Improved Reposition, evasion class feature |
+| [Claw Wrench](claw-wrench.md) | Combat | Dex 13, Improved Grapple, Improved Unarmed Strike |
 | [Conceal Spell](conceal-spell.md) | — | Deceitful, Bluff 1 rank, Disguise 1 rank, Sleight of Hand 1 rank |
 | [Confabulist](confabulist.md) | — | Bluff 9 ranks, Sense Motive 9 ranks |
 | [Cooperative Disabling](cooperative-disabling.md) | Teamwork | Disable Device 1 rank, trapfinding class feature |
@@ -1513,6 +1519,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Craft Shadow Piercing](craft-shadow-piercing.md) | Item Creation | Craft (jewelry) 5 ranks, caster level 5th |
 | [Creative Armorsmith](creative-armorsmith.md) | Combat | Craft (armor) 3 ranks, Knowledge (engineering) 3 ranks |
 | [Creative Weaponsmith](creative-weaponsmith.md) | Combat | Craft (weapons) 3 ranks, Knowledge (engineering) 3 ranks |
+| [Creature Focus](creature-focus.md) | — | No levels in a class that grants the favored enemy class feature |
 | [Criminal Reputation](criminal-reputation.md) | — | Diplomacy 5 ranks, Intimidate 5 ranks |
 | [Critical Conduit](critical-conduit.md) | — | Deliver touch spells ability, familiar |
 | [Cunning Intuition](cunning-intuition.md) | Combat | Alertness, Improved Initiative, Lightning Reflexes, Quick Draw, Ready for Anything, base attack bonus +13 or rogue level 13th, Sense Motive 13 ranks |
@@ -1525,6 +1532,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Deep Toxin](deep-toxin.md) | — | Vital Strike; base attack bonus +6; Craft (poison) 6 ranks or poison use class feature |
 | [Deft Catcher](deft-catcher.md) | — | Skill Focus (Sleight of Hand) |
 | [Destructive Persuasion](destructive-persuasion.md) | Combat | Str 13, Power Attack, Intimidate 1 rank |
+| [Dimensional Step Up](dimensional-step-up.md) | — | Dimensional Agility, Step Up, base attack bonus +12, abundant step class feature or ability to cast *dimension door* |
 | [Dire Bat Shape](dire-bat-shape.md) | — | Cha 13, Bat Shape, base attack bonus +3, werebat-kin |
 | [Dirty Critical Hit](dirty-critical-hit.md) | Combat, Critical | Int 13, Combat Expertise, Critical Focus, Improved Dirty Trick, base attack bonus +11 |
 | [Dirty Disarm](dirty-disarm.md) | Combat | Int 13, Combat Expertise, Improved Dirty Trick, Improved Disarm, base attack bonus +6 |
@@ -1537,6 +1545,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Enrage Opponent](enrage-opponent.md) | Combat, Panache | Cha 13, Amateur Swashbuckler or panache class feature, Persuasive |
 | [Entreating Critical](entreating-critical.md) | Combat, Critical | Cha 15, Call Truce, Critical Focus, Persuasive, base attack bonus +11, Diplomacy 5 ranks |
 | [Equipment Trick](equipment-trick.md) | Combat | Base attack bonus +1 |
+| [Expanded Hunter Tactics](expanded-hunter-tactics.md) | Combat | Hunter tactics class feature |
 | [Expanded Spell Kenning](expanded-spell-kenning.md) | — | Spell kenning class feature |
 | [Expanded Studies](expanded-studies.md) | — | Wis 17, hunter or warpriest level 16th |
 | [Expeditious Sleuth](expeditious-sleuth.md) | — | Perception 3 ranks, inspiration or lore master class feature |
@@ -1563,6 +1572,18 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Fleeting Spell](fleeting-spell.md) | Metamagic | — |
 | [Flexible Foe](flexible-foe.md) | Combat | Base attack bonus +5, favored enemy (any humanoid or any outsider), favored enemy class feature |
 | [Flying Tackle](flying-tackle.md) | — | Improved Overrun |
+| [Focused Aberration Expertise](focused-aberration-expertise.md) | Combat | Favored enemy (aberration) class feature |
+| [Focused Animal Expertise](focused-animal-expertise.md) | Combat | Favored enemy (animal) class feature |
+| [Focused Construct Expertise](focused-construct-expertise.md) | Combat | Favored enemy (construct) class feature |
+| [Focused Dragon Expertise](focused-dragon-expertise.md) | Combat | Favored enemy (dragon) class feature |
+| [Focused Fey Expertise](focused-fey-expertise.md) | Combat | Favored enemy (fey) class feature |
+| [Focused Magical Beast Expertise](focused-magical-beast-expertise.md) | Combat | Favored enemy (magical beast) class feature |
+| [Focused Ooze Expertise](focused-ooze-expertise.md) | Combat | Favored enemy (ooze) class feature |
+| [Focused Outsider Expertise](focused-outsider-expertise.md) | Combat | Favored enemy (outsider) class feature |
+| [Focused Plant Expertise](focused-plant-expertise.md) | Combat | Favored enemy (plant) class feature |
+| [Focused Target](focused-target.md) | Combat | Studied target class feature (second studied target) |
+| [Focused Undead Expertise](focused-undead-expertise.md) | Combat | Favored enemy (undead) class feature |
+| [Focused Vermin Expertise](focused-vermin-expertise.md) | Combat | Favored enemy (vermin) class feature |
 | [Fool Magic](fool-magic.md) | — | Deceitful, Disguise 1 rank, Use Magic Device 1 rank |
 | [Fox Insight](fox-insight.md) | Combat | Int 13, Fox Style |
 | [Fox Style](fox-style.md) | Combat, Style | Int 13 |
@@ -1572,8 +1593,10 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Gaze Reflection](gaze-reflection.md) | — | Spellcraft  10 stare and ranks, bold mesmerist tricks class features |
 | [Graceful Steal](graceful-steal.md) | Combat | Dex 13, Agile Maneuvers, Improved Steal, Sleight of Hand 3 ranks |
 | [Greater School Familiar](greater-school-familiar.md) | — | School Familiar, wizard level 10th, specialized arcane school class feature |
+| [Grisly Ornament](grisly-ornament.md) | — | Harvest Parts |
 | [Group Deliver Touch Spells](group-deliver-touch-spells.md) | Teamwork | Group Shared Spells, must have a familiar with the share spells and deliver touch spells abilities |
 | [Guardian’s Return](guardians-return.md) | Familiar | Must have a familiar with the protector archetype |
+| [Harvest Parts](harvest-parts.md) | — | Craft (any) 1 rank or Heal 1 rank |
 | [Heroic Legacy](heroic-legacy.md) | — | Base attack bonus +5, good alignment |
 | [Hook Fighter](hook-fighter.md) | Combat | Base attack bonus +1 |
 | [Improved Bravery](improved-bravery.md) | Combat | Cha 13, bravery class feature |
@@ -1581,6 +1604,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Improved Familiar Bond](improved-familiar-bond.md) | — | Familiar Bond, Iron Will |
 | [Improved Legendary Influence](improved-legendary-influence.md) | — | Legendary Influence, lesser spirit power and propitiation class features |
 | [Improved Lookout](improved-lookout.md) | — | Lookout |
+| [Improved Punishing Step](improved-punishing-step.md) | Combat | Dex 13, Dodge, Punishing Step, base attack bonus +8 |
 | [Improved Sabotaging Sunder](improved-sabotaging-sunder.md) | Combat | Str 13, Improved Sunder, Power Attack, Sabotaging Sunder, Disable Device 9 ranks |
 | [Improvisational Healer](improvisational-healer.md) | — | Heal 1 rank |
 | [Incite Paranoia](incite-paranoia.md) | Combat | Int 13, Combat Expertise, Deceitful, Greater Feint, Improved Feint, base attack bonus +6 |
@@ -1595,6 +1619,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Kitsune Tricks](kitsune-tricks.md) | Combat, Style | Int 13; Combat Expertise; Improved Dirty Trick; Kitsune Style; base attack bonus +3 or monk level 3rd |
 | [Kitsune Vengeance](kitsune-vengeance.md) | Combat, Style | Int 13; Combat Expertise; Improved Dirty Trick; Kitsune Style; Kitsune Tricks; base attack bonus +6 or monk level 6th |
 | [Know Weakness](know-weakness.md) | Combat | Bardic knowledge class feature |
+| [Knowledgeable Spellcaster](knowledgeable-spellcaster.md) | — | Knowledge (arcana, dungeoneering, local, nature, planes, or religion) 5 ranks, caster level 7th |
 | [Legendary Influence](legendary-influence.md) | — | Lesser spirit power class feature |
 | [Lightning Draw](lightning-draw.md) | Combat, Panache | Quick Draw, swashbuckler initiative deed, swashbuckler level 7th |
 | [Lightning Rager](lightning-rager.md) | — | Rage class feature |
@@ -1608,6 +1633,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Master of Your Kind](master-of-your-kind.md) | — | Familiar, speak with animals of its kind ability |
 | [Master Sniper](master-sniper.md) | Combat | Expert Sniper, Rapid Shot, Stealth 6 ranks |
 | [Mauler’s Endurance](maulers-endurance.md) | Familiar | Must have a familiar with the mauler archetype |
+| [Maze Expert](maze-expert.md) | — | Skill Focus (Survival), Survival 5 ranks |
 | [Measure Foe](measure-foe.md) | Combat | Street Smarts, base attack bonus +1 |
 | [Misdirection Attack](misdirection-attack.md) | Combat | Int 13, Combat Expertise, Deceitful, Misdirection Redirection, Misdirection Tactics, Bluff 10 ranks |
 | [Misdirection Redirection](misdirection-redirection.md) | Combat | Int 13, Combat Expertise, Misdirection Tactics, Deceitful, Bluff 10 ranks |
@@ -1615,9 +1641,14 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Modification Mastery](modification-mastery.md) | Combat | Creative Armorsmith, Armor Adept, and Craft (armor) 7 ranks, or Creative Weaponsmith, Weapon Adept, and Craft (weapons) 7 ranks; Knowledge (engineering) 7 ranks |
 | [Modification Trainer](modification-trainer.md) | Combat | Cha 13, Armor Adept or Weapon Adept, fighter level 4th |
 | [Modified Weapon Proficiency](modified-weapon-proficiency.md) | Combat | Proficiency with the selected weapon |
+| [Monster Spotter](monster-spotter.md) | — | Skill Focus (Knowledge [any]), Knowledge (any) 3 ranks |
+| [Monstrous Crafter](monstrous-crafter.md) | — | Craft Wondrous Item, Grisly Ornament, Harvest Parts |
+| [Monstrous Disguise](monstrous-disguise.md) | — | Disguise 5 ranks, Knowledge (nature) 5 ranks |
+| [Monstrous Masquerade](monstrous-masquerade.md) | — | Monstrous Disguise, Disguise 9 ranks, Knowledge (nature) 9 ranks |
 | [Motivating Display](motivating-display.md) | Combat | Cha 13, Dazzling Display, Weapon Focus |
 | [My Blade Is Yours](my-blade-is-yours.md) | Combat, Teamwork | Int 13, Combat Expertise, Sense Motive 3 ranks |
 | [Narrow Frame](narrow-frame.md) | — | Escape Artist 1 rank, animal or magical beast |
+| [Needle in a Haystack](needle-in-a-haystack.md) | — | Skill Focus (Perception), Perception 3 ranks |
 | [Nerve-Racking Negotiator](nerve-racking-negotiator.md) | — | Persuasive |
 | [Notorious Vigilante](notorious-vigilante.md) | Combat | Dazzling Display, Weapon Focus, any nongood alignment, great renown social talent, proficiency with chosen weapon |
 | [Omnipresent Mentor](omnipresent-mentor.md) | — | Cha 17, Inspiring Mentor, inspire competence bardic performance |
@@ -1626,6 +1657,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Owl Dive](owl-dive.md) | Combat | Dex 17, Owl Style, Owl Swoop, Skill Focus (Stealth), base attack bonus +7 or monk level 5th, Acrobatics 1 rank, Fly 1 rank, Stealth 1 rank |
 | [Owl Style](owl-style.md) | Combat, Style | Dex 13, Skill Focus (Stealth), Stealth 1 rank |
 | [Owl Swoop](owl-swoop.md) | Combat | Dex 15, Owl Style, Skill Focus (Stealth), Acrobatics 1 rank, Stealth 1 rank |
+| [Pacify Animal](pacify-animal.md) | — | Wild empathy class feature |
 | [Pack Tactics](pack-tactics.md) | — | Int 13, animal companion class feature |
 | [Peacemaker](peacemaker.md) | — | Charisma 13, good alignment |
 | [Persuasive Bribery](persuasive-bribery.md) | — | Persuasive |
@@ -1636,6 +1668,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Polyglot Familiar](polyglot-familiar.md) | Familiar | Must have a familiar |
 | [Poppet Familiar](poppet-familiar.md) | — | Ability to acquire a new familiar, caster level 3rd |
 | [Powerful Poisoning](powerful-poisoning.md) | — | Power Attack; Craft (poison) 3 ranks or poison use class feature |
+| [Punishing Step](punishing-step.md) | Combat | Dex 13, Dodge |
 | [Quick Favor](quick-favor.md) | — | Persuasive |
 | [Quick Study](quick-study.md) | Combat | Int 13, bravery +3 class feature, fighter level 10th |
 | [Quiet Death](quiet-death.md) | Combat | Dex 19, Stealth 10 ranks, rogue level 10th |
@@ -1644,6 +1677,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Read Spell Traces](read-spell-traces.md) | — | — |
 | [Ready for Anything](ready-for-anything.md) | Combat | Alertness, Improved Initiative, Lightning Reflexes, Quick Draw, base attack bonus +6 or uncanny dodge class feature |
 | [Reflexive Caster](reflexive-caster.md) | — | Combat Reflexes, caster level 5th |
+| [Resisting Grappler](resisting-grappler.md) | Combat | Dex 13 |
 | [Righteous Phalanx](righteous-phalanx.md) | Teamwork | Base attack bonus +3, good alignment |
 | [Sabotage Magic Item](sabotage-magic-item.md) | — | Magical Aptitude, Disable Device 5 ranks, Use Magic Device 5 ranks |
 | [Sabotage Specialist](sabotage-specialist.md) | — | Deft Hands, Disable Device 5 ranks |
@@ -1654,6 +1688,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Sense Assumptions](sense-assumptions.md) | — | Sense Motive 3 ranks |
 | [Sense Relationships](sense-relationships.md) | — | Street Smarts |
 | [Shadows of Fear](shadows-of-fear.md) | Combat | Hidden strike +2d8 or sneak attack +2d6 |
+| [Shared Quarry](shared-quarry.md) | Combat | Hunter’s bond class feature, quarry class feature |
 | [Shrapnel Strike](shrapnel-strike.md) | Combat | Str 15, Improved Sunder, Power Attack |
 | [Siphon Poison](siphon-poison.md) | — | — |
 | [Sliding Dash](sliding-dash.md) | Combat | Dex 15, Acrobatics 10 ranks or acrobatic charge class feature, Bluff 3 ranks |
@@ -1667,6 +1702,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Starry Grace](starry-grace.md) | Combat | Dex 13, Weapon Finesse, Weapon Focus (starknife) |
 | [Startling Getaway](startling-getaway.md) | Combat | Startling appearance class feature |
 | [Stayed Blade](stayed-blade.md) | — | Base attack bonus +3 |
+| [Stone to Flesh Savant](stone-to-flesh-savant.md) | — | Paladin level 12th, lay on hands class feature, mercy class feature |
 | [Street Carnage](street-carnage.md) | Combat | Str 15, Improved Bull Rush, Improved Unarmed Strike, Power Attack, Street Style, Street Sweep, base attack bonus +8 or monk level 7th |
 | [Street Smarts](street-smarts.md) | — | — |
 | [Street Style](street-style.md) | Combat, Style | Str 15, Improved Bull Rush, Improved Unarmed Strike, Power Attack, base attack bonus +4 or monk level 3rd |

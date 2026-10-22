@@ -60,6 +60,7 @@ New inquisitor spells from *Ultimate Magic*. Spells from other books will be add
 - **[Delay Pain](delay-pain.md)**: Ignore pain for 1 hour/level.
 - **[Demand Offering](demand-offering.md)**: Make a creature give you an object it’s holding.
 - **[Detect Magic, Greater](detect-magic-greater.md)**: As *detect magic*, but learn more information.
+- **[Diminish Resistance](diminish-resistance.md)**: Weaken a creature’s resistance to one energy type.
 - **[Discovery Torch](discovery-torch.md)**: Touched object emanates bright light, granting Perception and Sense Motive bonuses.
 - **[Disguise Other](disguise-other.md)**: As disguise self, but affects you or another.
 - **[Distressing Tone](distressing-tone.md)**: Sound sickens 1d4 creatures.
@@ -69,8 +70,10 @@ New inquisitor spells from *Ultimate Magic*. Spells from other books will be add
 - **[Flickering Lights](flickering-lights.md)**: Create an area of inconsistent lighting.
 - **[Ghost Whip](ghost-whip.md)**: Create a ghost touch whip that passes through objects.
 - **[Ghostly Disguise](ghostly-disguise.md)**: You look like a ghost of yourself.
+- **[Guarding Knowledge](guarding-knowledge.md)**: +4 insight bonus on saves against one identified monster special attack.
 - **[Hidden Presence](hidden-presence.md)**: Prevent creatures from noticing your presence.
 - **[Howling Agony](howling-agony.md)**: Screaming pain limits the target’s actions.
+- **[Huntmaster’s Spear](huntmasters-spear.md)**: Spear becomes a +1 weapon against a chosen favored-enemy type and can be discharged for a powerful attack.
 - **[Inflict Pain](inflict-pain.md)**: Target takes a –4 penalty on attack rolls, skill checks, and ability checks.
 - **[Instrument of Agony](instrument-of-agony.md)**: Weapon exudes divine fury, granting a bonus on Intimidate checks.
 - **[Iron Stake](iron-stake.md)**: Hurl a spike of cold iron at a foe.
@@ -86,6 +89,7 @@ New inquisitor spells from *Ultimate Magic*. Spells from other books will be add
 - **[Qualm](qualm.md)**: Target gains penalties on ability checks, skill checks, and concentration checks until it spends an entire round doing nothing.
 - **[Quick Change](quick-change.md)**: Use change shape as a swift action and surprise foes.
 - **[Returning Weapon, Communal](returning-weapon-communal.md)**: As returning weapon, but you may divide the duration among weapons touched.
+- **[Revealing Light](revealing-light.md)**: Object sheds shifting light that foils Stealth bonuses.
 - **[Rumormonger](rumormonger.md)**: Follow a rumor to see where it spreads.
 - **[Savage Maw](savage-maw.md)**: Your teeth extend and sharpen, transforming your mouth into a maw of razor-sharp fangs.
 - **[Sense Fear](sense-fear.md)**: Perceive nearby creatures that are experiencing fear.

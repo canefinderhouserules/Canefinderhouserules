@@ -91,6 +91,10 @@ These traits are associated with combat, battle, and physical prowess. They give
 
 **Weapon of Peace**: Even though you are a trained combatant, you don’t relish killing your enemies; disabling a foe is superior to killing someone capable of admitting defeat. When using a melee weapon that deals lethal damage to instead deal nonlethal damage, you take only a –2 penalty instead of –4.
 
+**Monster Challenger**: You have made it your mission to bring down a fearsome beast. Choose two of the following: aberrations, animals, dragons, fey, magical beasts, oozes, and vermin. You can move at full speed without penalty while using Survival to follow tracks left by your chosen creature types.
+
+**Monster Survivor**: You’ve escaped with your life after a terrible monster attack. You gain a +4 dodge bonus to AC against attacks of opportunity made against you by Large or larger opponents when you’re making a withdraw action.
+
 ## Faith Traits
 
 These traits rely upon conviction of spirit, perception, and religion, but are not directly tied to the worship of a specific deity. You do not need a patron deity to gain a faith trait, as these traits can represent conviction in yourself or your philosophy just as easily as they can represent dedication to a deity.
@@ -340,6 +344,10 @@ Social traits reflect your upbringing; your background in high society or lack t
 **Gifted Smuggler**: You have a knack for hiding goods on your person. Any small object you attempt to hide on your body is treated as an extraordinarily small object for the purpose of Sleight of Hand checks.
 
 **Master Messenger**: Your secret messages are rarely misunderstood. If you fail your Bluff check to pass a simple message by 5 or more, you deliver no message instead of delivering the wrong message.
+
+**Monster Scholar**: Your study of monsters keeps you well informed. Choose either Knowledge (arcana), Knowledge (dungeoneering), or Knowledge (nature). Whenever you succeed at a Knowledge check to identify a creature and its special powers—or vulnerabilities—with the chosen skill, you gain one additional piece of useful information (as if your skill check result had been 5 higher).
+
+**Monster Stalker**: You’ve been raised to hunt certain beasts. Choose either aberrations, animals, dragons, fey, magical beasts, oozes, or vermin. You gain a limited version of the scent ability (15 feet normal, 30 feet upwind, 5 feet downwind) that detects only your chosen creature type.
 
 ## Equipment Traits
 

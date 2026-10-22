@@ -34,6 +34,7 @@ New summoner spells from *Ultimate Magic*. Spells from other books will be added
 - **[Protection from Law, Communal](protection-from-law-communal.md)**: As protection from law, but you may divide the duration among creatures touched.
 - **[Quick Change](quick-change.md)**: Use change shape as a swift action and surprise foes.
 - **[Restore Eidolon, Lesser](restore-eidolon-lesser.md)**: Lesser restoration for an eidolon.
+- **[Slick Walls](slick-walls.md)**: Walls and ceilings become much harder to climb.
 - **[Twisted Space](twisted-space.md)**: Targeted creature’s attacks target a random square instead of the intended target.
 - **[Venomous Bite](venomous-bite.md)**: Target's bite delivers a stored poison.
 - **[Warding Weapon](warding-weapon.md)**
@@ -61,6 +62,7 @@ New summoner spells from *Ultimate Magic*. Spells from other books will be added
 - **[Pellet Blast](pellet-blast.md)**
 - **[Phantom Chariot](phantom-chariot.md)**: Conjures a quasi-real heavy chariot pulled by four horses.
 - **[Protection from Arrows, Communal](protection-from-arrows-communal.md)**: As protection from arrows, but you may divide the duration among creatures touched.
+- **[Protection from Natural Attacks](protection-from-natural-attacks.md)**: Target gains DR 5/— against one type of natural attack.
 - **[Rain of Frogs](rain-of-frogs.md)**: Summon a swarm of poisonous frogs.
 - **[Resist Energy, Communal](resist-energy-communal.md)**: As resist energy, but you may divide the duration among creatures touched.
 - **[Restore Eidolon](restore-eidolon.md)**: Restoration for an eidolon.

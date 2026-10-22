@@ -120,6 +120,7 @@ Shamans gain access to the following spells. Spells in plain text come from othe
 - **[Guiding Star](guiding-star.md)**: Know approximate distance from where you cast this spell.
 - **[Hold Person](hold-person.md)**: Paralyzes one humanoid for 1 round/level.
 - Imbue with Elemental Might
+- **[Huntmaster’s Spear](huntmasters-spear.md)**: Spear becomes a +1 weapon against a chosen favored-enemy type and can be discharged for a powerful attack.
 - **[Inflict Moderate Wounds](inflict-moderate-wounds.md)**: Touch attack, 2d8 damage +1/ level (max +10).
 - **[Invigorating Poison](invigorating-poison.md)**: Poison ability damage becomes a bonus instead.
 - **[Languid Venom](languid-venom.md)**: Delay a poison’s onset and hide its presence.
@@ -136,6 +137,7 @@ Shamans gain access to the following spells. Spells in plain text come from othe
 - **[Sense Fear](sense-fear.md)**: Perceive nearby creatures that are experiencing fear.
 - **[Shield Companion](shield-companion.md)**: As shield other, but affecting your companion creature.
 - **[Sickening Entanglement](sickening-entanglement.md)**: As entangle, but plants have sickening sap.
+- **[Solidify Earth](solidify-earth.md)**: Packs earth tight, hindering burrowing creatures.
 - **[Spiritual Weapon](spiritual-weapon.md)**: Magic weapon attacks on its own.
 - **[Summon Swarm](summon-swarm.md)**: Summons swarm of bats, rats, or spiders.
 - **[Surefoot Boots](surefoot-boots.md)**: Footwear grants perfect balance.
@@ -249,9 +251,11 @@ Shamans gain access to the following spells. Spells in plain text come from othe
 - **[Planar Ally, Lesser](planar-ally-lesser.md)**: Exchange services with a 6 HD extraplanar creature.
 - **[Poison](poison.md)**: Touch deals 1d3 Con damage 1/round for 6 rounds.
 - **[Poisonous Balm](poisonous-balm.md)**: As *cure serious wounds*, but leave behind a latent venom.
+- **[Protection from Natural Attacks](protection-from-natural-attacks.md)**: Target gains DR 5/— against one type of natural attack.
 - **[Rain of Frogs](rain-of-frogs.md)**: Summon a swarm of poisonous frogs.
 - **[Reincarnate](reincarnate.md)**: Brings dead subject back in a random body.
 - **[Repel Vermin](repel-vermin.md)**: Insects, spiders, and other vermin stay 10 ft. away.
+- **[Repugnant Taste](repugnant-taste.md)**: Creatures that bite or swallow the target become nauseated.
 - **[Restoration](restoration.md)**: Restores level and ability score drains.
 - **[Ride the Waves](ride-the-waves.md)**: Target can breathe water and swim.
 - **[Rigor Mortis](rigor-mortis.md)**: Painfully swell a target’s joints.

@@ -101,6 +101,7 @@ Bloodragers gain access to the following spells. Spells in plain text come from 
 - Gusting Sphere
 - **[Gust of Wind](gust-of-wind.md)**: Blows away or knocks down smaller creatures.
 - Imbue with Elemental Might
+- **[Huntmaster’s Spear](huntmasters-spear.md)**: Spear becomes a +1 weapon against a chosen favored-enemy type and can be discharged for a powerful attack.
 - **[Mirror Image](mirror-image.md)**: Creates decoy duplicates of you.
 - **[Molten Orb](molten-orb.md)**: Molten metal splash weapon deals 2d6 fire damage plus ongoing damage.
 - **[Pouncing Fury](pouncing-fury.md)**: Make a full attack with your claws after a charge.

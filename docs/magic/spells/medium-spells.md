@@ -78,6 +78,7 @@ Mediums gain access to the following spells. Spells without a link come from oth
 - **[Remove Fear](remove-fear.md)**: Suppresses fear or gives +4 on saves against fear for one subject + one per four levels.
 - **[Restore Corpse](restore-corpse.md)**: Skeletal corpse grows flesh.
 - Share Glory
+- **[Revealing Light](revealing-light.md)**: Object sheds shifting light that foils Stealth bonuses.
 - **[Rumormonger](rumormonger.md)**: Follow a rumor to see where it spreads.
 - **[Sense Fear](sense-fear.md)**: Perceive nearby creatures that are experiencing fear.
 - **[Share Language](share-language.md)**: Subject understands chosen language.
@@ -314,6 +315,7 @@ Mediums gain access to the following spells. Spells without a link come from oth
 - **[Spiritual Ally](spiritual-ally.md)**: Creates a divine ally to aid you.
 - **[Summon Monster V](summon-monster-v.md)**: Summons extraplanar creature to fight for you.
 - **[Telepathic Bond](telepathic-bond.md)**: Link lets allies communicate.
+- **[Telepathic Silence](telepathic-silence.md)**: Blocks telepathy and thought reading in an area.
 - **[Telepathy](telepathy.md)**: Communicate mentally with creatures within 100 ft.
 - **[Teleport](teleport.md)**: Instantly transports you as far as 100 miles per level.
 - **[Thoughtsense](thoughtsense.md)**: Automatically detect nearby conscious creatures.
