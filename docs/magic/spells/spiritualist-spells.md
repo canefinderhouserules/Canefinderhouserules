@@ -88,6 +88,7 @@ Spiritualists gain access to the following spells. Spells without a link come fr
 - **[Disfiguring Touch](disfiguring-touch.md)**: Target becomes disfigured.
 - **[Emotive Block](emotive-block.md)**: Add an emotion component to all of the target’s spells.
 - **[False Life](false-life.md)**: Gain 1d10 temporary hp + 1/level (max +10).
+- **[Garrulous Grin](garrulous-grin.md)**: Target seems guilty and takes –4 on Bluff and Diplomacy.
 - **[Gentle Repose](gentle-repose.md)**: Preserves one corpse.
 - **[Ghost Whip](ghost-whip.md)**: Create a ghost touch whip that passes through objects.
 - **[Ghoul Touch](ghoul-touch.md)**: Paralyzes one subject, which exudes stench that makes those nearby sickened.

@@ -66,6 +66,7 @@
 - **[Summon Monster I](summon-monster-i.md)**: Summons extraplanar creature to fight for you.
 - **[Sun Metal](sun-metal.md)**: Weapon touched bursts into flames.
 - **[Theft Ward](theft-ward.md)**: You ward a single object in your possession against theft.
+- **[Velvet Diplomacy](velvet-diplomacy.md)**: Intimidate a target into friendliness and cloud its memory of the threats.
 - **[Winter Feathers](winter-feathers.md)**: School abjuration; Level cleric 1, druid 1, inquisitor 1, ranger 1, sorcerer/wizard 1 Casting Time 1 standard.
 
 ## 2nd-Level Cleric Spells
@@ -216,6 +217,7 @@
 - **[Stone Shape](stone-shape.md)**: Sculpts stone into any shape.
 - **[Summon Monster III](summon-monster-iii.md)**: Summons extraplanar creature to fight for you.
 - **[Symbol of Exsanguination](symbol-of-exsanguination.md)**: Triggered rune causes nearby creatures to bleed.
+- **[Trial by Fire](trial-by-fire.md)**: Divine fire punishes targets whose alignment differs from your deity’s.
 - **[Voluminous Vocabulary](voluminous-vocabulary.md)**: Grant ability to speak, read, and write one or more languages for 8 hours.
 - **[Water Breathing](water-breathing.md)**: Subjects can breathe underwater.
 - **[Water Walk](water-walk.md)**: Subject treads on water as if solid.

@@ -115,6 +115,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Miserable Pity](miserable-pity.md)**: Opponents cannot attack a pathetic creature.
 - **[Mount, Communal](mount-communal.md)**: As mount, but you may divide the duration among creatures touched.
 - **[Paranoia](paranoia.md)**: Target becomes hostile to all creatures.
+- **[Passing Fancy](passing-fancy.md)**: Target becomes obsessed with a topic you choose.
 - **[Pernicious Poison](pernicious-poison.md)**: Target takes a –4 penalty against poison.
 - **[Pouncing Fury](pouncing-fury.md)**: Make a full attack with your claws after a charge.
 - **[Protective Penumbra](protective-penumbra.md)**: Shadow protects the target from light.
@@ -160,6 +161,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Blood Scent](blood-scent.md)**: School transmutation; Level alchemist 3, antipaladin 2, cleric 3, druid 3, inquisitor 3, ranger 2.
 - **[Cackling Skull](cackling-skull.md)**: Skull acts as magic mouth, listeners are shaken.
 - **[Catatonia](catatonia.md)**: Make a willing target appear to be dead.
+- **[Claim Identity](claim-identity.md)**: Steal a touched humanoid’s face and identity.
 - **[Conjure Carriage](conjure-carriage.md)**: Create a fine carriage.
 - **[Contact Entity II](contact-entity-ii.md)**: Ask more powerful eldritch entities to find and converse with you.
 - **[Countless Eyes](countless-eyes.md)**: Extra eyes give all-around vision.
@@ -174,6 +176,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Fearsome Duplicate](fearsome-duplicate.md)**: School illusion (figment); Level bard 3, inquisitor 3, sorcerer/wizard 3, witch 3 Casting Time 1 standard.
 - **[Fins to Feet](fins-to-feet.md)**: School transmutation (polymorph); Level druid 3, sorcerer/wizard 3, witch 3 Casting Time 1 standard action.
 - **[Flash Fire](flash-fire.md)**: Ammunition in the targeted firearm creates a tremendous flash capable of blinding the weapon’s bearer and those around him.
+- **[Garrulous Grin](garrulous-grin.md)**: Target seems guilty and takes –4 on Bluff and Diplomacy.
 - **[Gloomblind Bolts](gloomblind-bolts.md)**: You create one or more bolts of negative energy infused with shadow pulled from the Shadow Plane.
 - **[Grasping Tentacles](grasping-tentacles.md)**: As black tentacles, but they perform dirty tricks.
 - **[Healing Thief](healing-thief.md)**: You siphon half of all magical healing that the targeted creature receives.
@@ -181,6 +184,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Howling Agony](howling-agony.md)**: Screaming pain limits the target’s actions.
 - **[Improve Trap](improve-trap.md)**: When this spell is cast upon a trap, it improves one specific element of the trap chosen at the time of.
 - **[Inflict Pain](inflict-pain.md)**: Target takes a –4 penalty on attack rolls, skill checks, and ability checks.
+- **[Insect Scouts](insect-scouts.md)**: Vermin investigate a location and grant rerolls on related skill checks.
 - **[Iron Stake](iron-stake.md)**: Hurl a spike of cold iron at a foe.
 - **[Ki Leech](ki-leech.md)**: Add to your ki pool when you critically hit.
 - **[Loathsome Veil](loathsome-veil.md)**: Nauseates and/or sickens weak creatures.
@@ -264,6 +268,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Vicarious View](vicarious-view.md)**: Plant a scrying sensor that you can use to spy on a creature, object, or location.
 - **[Vigilant Rest](vigilant-rest.md)**: Cause a sleeping creature to retain some perception of its surroundings.
 - **[Volcanic Storm](volcanic-storm.md)**: Hot rocks deal 5d6 damage.
+- **[Watchful Animal](watchful-animal.md)**: Your animal companion or familiar becomes a scrying sensor.
 - **[Web Cloud](web-cloud.md)**: Component V, S Range medium (100 ft.
 
 ## 5th-Level Witch Spells
@@ -273,6 +278,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Cave Fangs](cave-fangs.md)**: Create a trap from stalactites and stalagmites.
 - **[Charm Person, Mass](charm-person-mass.md)**: As *charm person*, but affects multiple creatures within 30 ft.
 - **[Charnel House](charnel-house.md)**: Create an area of semi-real gore.
+- **[Claim Identity, Greater](claim-identity-greater.md)**: As claim identity, but the target becomes a mask others can wear.
 - **[Companion Transposition](companion-transposition.md)**: Swap places with your animal companion, familiar, or spirit animal via teleportation.
 - **[Contact Entity III](contact-entity-iii.md)**: Ask very powerful eldritch entities to find and converse with you, or they may reply telepathically.
 - **[Contagion, Greater](contagion-greater.md)**: Infect a subject with a magical disease.
@@ -291,6 +297,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Imbue Hex](imbue-hex.md)**: Give another creature one use of a hex you know.
 - **[Object Possession](object-possession.md)**: As lesser object possession, but with a larger object.
 - **[Old Salt’s Curse](old-salt-s-curse.md)**: You inflict a curse of the roiling sea upon the target, making it permanently sickened.
+- **[Passing Fancy, Mass](passing-fancy-mass.md)**: As passing fancy, affecting multiple creatures.
 - **[Peacebond, Greater](peacebond-greater.md)**: As *peacebond*, but on multiple weapons, even if they aren’t sheathed.
 - **[Pessimism](pessimism.md)**: Force a creature to see the negative side of things.
 - **[Plague Carrier](plague-carrier.md)**: Target’s attacks carry filth fever.
@@ -405,6 +412,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Maze of Madness and Suffering](maze-of-madness-and-suffering.md)**: Send a target into a dangerous extradimensional maze.
 - **[Mind Blank, Communal](mind-blank-communal.md)**: As mind blank, but you may divide the duration among creatures touched.
 - **[Polar Midnight](polar-midnight.md)**: Cold darkness paralyzes and deals damage. The following spells are presented in alphabetical order, with the exception of those whose names begin with “greater,” “lesser,” or “mass.” These spells are alphabetized
+- **[Scribe’s Binding](scribes-binding.md)**: Bind a creature and its memories into a book.
 - **[Symbol of Strife](symbol-of-strife.md)**: Triggered rune makes creatures attack.
 - **[Symbol of Vulnerability](symbol-of-vulnerability.md)**: Triggered rune gives penalties.
 

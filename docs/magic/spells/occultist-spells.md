@@ -663,6 +663,7 @@ Occultists gain access to the following spells, determined by their chosen imple
 - **[Forbiddance](forbiddance.md)**: Blocks planar travel, damages creatures of different alignment.
 - **[Globe of Invulnerability](globe-of-invulnerability.md)**: As *lesser globe of invulnerability*, plus 4th-level spell effects.
 - **[Repulsion](repulsion.md)**: Creatures can’t approach you.
+- **[Scribe’s Binding](scribes-binding.md)**: Bind a creature and its memories into a book.
 - **[Symbol of Vulnerability](symbol-of-vulnerability.md)**: Triggered rune gives penalties.
 
 **Conjuration**:

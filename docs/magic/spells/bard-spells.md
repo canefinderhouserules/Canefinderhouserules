@@ -80,6 +80,7 @@
 - **[Undetectable Alignment](undetectable-alignment.md)**: Conceals alignment for 24 hours.
 - **[Unseen Servant](unseen-servant.md)**: Invisible force obeys your commands.
 - **[Urban Grace](urban-grace.md)**: You become one with the city around you, allowing you to move more easily through its crowds and buildings.
+- **[Velvet Diplomacy](velvet-diplomacy.md)**: Intimidate a target into friendliness and cloud its memory of the threats.
 - **[Ventriloquism](ventriloquism.md)**: Throws voice for 1 min./level.
 - **[Windy Escape](windy-escape.md)**: You respond to an attack by briefly becoming vaporous and insubstantial, allowing the attack to pass.
 - **[Wizened Appearance](wizened-appearance.md)**: Make a target appear as an older version of itself.
@@ -130,6 +131,7 @@
 - **[False Belief](false-belief.md)**: Temporarily plant a false memory.
 - **[Flickering Lights](flickering-lights.md)**: Create an area of inconsistent lighting.
 - **[Fox’s Cunning](foxs-cunning.md)**: Subject gains +4 to Int for 1 min./level.
+- **[Garrulous Grin](garrulous-grin.md)**: Target seems guilty and takes –4 on Bluff and Diplomacy.
 - **[Glitterdust](glitterdust.md)**: Blinds creatures, outlines invisible creatures.
 - **[Heroism](heroism.md)**: Gives +2 on attack rolls, saves, skill checks.
 - **[Hidden Presence](hidden-presence.md)**: Prevent creatures from noticing your presence.
@@ -145,6 +147,7 @@
 - **[Oneiric Horror](oneiric-horror.md)**: Distract and fatigue the target with a creature from its nightmares.
 - **[Open Book](open-book.md)**: Make it permanently easier to learn more about a target.
 - **[Paranoia](paranoia.md)**: Target becomes hostile to all creatures.
+- **[Passing Fancy](passing-fancy.md)**: Target becomes obsessed with a topic you choose.
 - **[Pilfering Hand](pilfering-hand.md)**: You may seize an object or manipulate it from afar.
 - **[Psychic Reading](psychic-reading.md)**: Read surface thoughts to learn information about a subject.
 - **[Pyrotechnics](pyrotechnics.md)**: Turns fire into blinding light or choking smoke.
@@ -186,6 +189,7 @@
 - **[Aura of the Unremarkable](aura-of-the-unremarkable.md)**: Make actions seem mundane to nearby creatures.
 - **[Blink](blink.md)**: You randomly vanish and reappear for 1 round/level.
 - **[Charm Monster](charm-monster.md)**: Makes monster believe it is your ally.
+- **[Claim Identity](claim-identity.md)**: Steal a touched humanoid’s face and identity.
 - **[Clairaudience/Clairvoyance](clairaudience-clairvoyance.md)**: Hear or see at a distance for 1 min./level.
 - **[Confusion](confusion.md)**: Subjects behave oddly for 1 round/level.
 - **[Conjure Carriage](conjure-carriage.md)**: Create a fine carriage.
@@ -269,6 +273,7 @@
 - **[Hallucinatory Terrain](hallucinatory-terrain.md)**: Makes one type of terrain appear like another (field as forest, or the like).
 - **[Hold Monster](hold-monster.md)**: As *hold person*, but any creature.
 - **[Horrific Doubles](horrific-doubles.md)**: Call forth disturbing *mirror images*.
+- **[Insect Scouts](insect-scouts.md)**: Vermin investigate a location and grant rerolls on related skill checks.
 - **[Invisibility, Greater](invisibility-greater.md)**: As *invisibility,* but subject can attack and stay invisible.
 - **[Legend Lore](legend-lore.md)**: Lets you learn tales about a person, place, or thing.
 - **[Locate Creature](locate-creature.md)**: Indicates direction to known creature.
@@ -277,6 +282,7 @@
 - **[Neutralize Poison](neutralize-poison.md)**: Immunizes subject against poison, detoxifies venom in or on subject.
 - **[Nixie’s Lure](nixie-s-lure.md)**: This spell creates an unearthly and infectious song that seductively summons all who hear it.
 - **[Oneiric Horror, Greater](oneiric-horror-greater.md)**: As oneiric horror, plus Str damage.
+- **[Passing Fancy, Mass](passing-fancy-mass.md)**: As passing fancy, affecting multiple creatures.
 - **[Pessimism](pessimism.md)**: Force a creature to see the negative side of things.
 - **[Phantom Steed, Communal](phantom-steed-communal.md)**: As phantom steed, but you may divide the duration among creatures touched.
 - **[Quieting Weapons](quieting-weapons.md)**: Weapons make no sound and quiet their victims.
@@ -299,6 +305,7 @@
 
 - **[Archon’s Trumpet](archons-trumpet.md)**: Paralyze creatures in a cone with a booming report.
 - **[Callback, Greater](callback-greater.md)**: Teleport a familiar or spirit animal from miles away to your side when it is injured.
+- **[Claim Identity, Greater](claim-identity-greater.md)**: As claim identity, but the target becomes a mask others can wear.
 - **[Compelling Rant](compelling-rant.md)**: People believe your ridiculous speech as long as you keep talking.
 - **[Crime Wave](crime-wave.md)**: Compel targets to commit criminal actions.
 - **[Cure Light Wounds, Mass](cure-light-wounds-mass.md)**: Cures 1d8 damage + 1/level, affects 1 subject/level.

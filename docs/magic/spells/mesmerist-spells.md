@@ -109,6 +109,7 @@ Mesmerists gain access to the following spells. Spells without a link come from 
 - **[Unprepared Combatant](unprepared-combatant.md)**: Target takes –4 on initiative and Reflex saves.
 - **[Unseen Servant](unseen-servant.md)**: Invisible force obeys your commands.
 - **[Vanish](vanish.md)**: As invisibility for 1 round/level (5 max).
+- **[Velvet Diplomacy](velvet-diplomacy.md)**: Intimidate a target into friendliness and cloud its memory of the threats.
 - **[Ventriloquism](ventriloquism.md)**: Throws voice for 1 min./level.
 - **[Vocal Alteration](vocal-alteration.md)**: Disguise target’s voice.
 - **[Wizened Appearance](wizened-appearance.md)**: Make a target appear as an older version of itself.
@@ -162,6 +163,7 @@ Mesmerists gain access to the following spells. Spells without a link come from 
 - **[False Belief](false-belief.md)**: Temporarily plant a false memory.
 - **[False Life](false-life.md)**: Gain 1d10 temporary hp + 1/level (max +10).
 - **[Focused Scrutiny](focused-scrutiny.md)**: Gain skill bonuses when interacting with the target.
+- **[Garrulous Grin](garrulous-grin.md)**: Target seems guilty and takes –4 on Bluff and Diplomacy.
 - **[Ghostly Disguise](ghostly-disguise.md)**: You look like a ghost of yourself.
 - **[Glitterdust](glitterdust.md)**: Blinds creatures, outlines invisible creatures.
 - **[Haunting Mists](haunting-mists.md)**: Creatures are shaken and take Wis damage.
@@ -194,6 +196,7 @@ Mesmerists gain access to the following spells. Spells without a link come from 
 - **[Oneiric Horror](oneiric-horror.md)**: Distract and fatigue the target with a creature from its nightmares.
 - **[Open Book](open-book.md)**: Make it permanently easier to learn more about a target.
 - **[Oppressive Boredom](oppressive-boredom.md)**: Target loses its next action.
+- **[Passing Fancy](passing-fancy.md)**: Target becomes obsessed with a topic you choose.
 - **[Perceive Cues](perceive-cues.md)**: +5 Perception and Sense Motive 10 min./level.
 - **[Phantasmal Affliction](phantasmal-affliction.md)**: Convince a target that it contracted an affliction.
 - **[Phantom Trap](phantom-trap.md)**: Makes item seem trapped.
@@ -360,6 +363,7 @@ Mesmerists gain access to the following spells. Spells without a link come from 
 - **[Modify Memory](modify-memory.md)**: Changes 5 minutes of subject’s memories.
 - Nondetection, Communal
 - Old Salt’s Curse
+- **[Passing Fancy, Mass](passing-fancy-mass.md)**: As passing fancy, affecting multiple creatures.
 - **[Pessimism](pessimism.md)**: Force a creature to see the negative side of things.
 - **[Phantasmal Asphyxiation](phantasmal-asphyxiation.md)**: Trick a creature into thinking it can’t breathe.
 - **[Phantasmal Killer](phantasmal-killer.md)**: Fearsome illusion kills subject or deals 3d6 damage.

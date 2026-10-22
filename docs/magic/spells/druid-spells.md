@@ -106,6 +106,7 @@
 - **[Heat Metal](heat-metal.md)**: Makes metal so hot it damages those who touch it.
 - **[Hold Animal](hold-animal.md)**: Paralyzes one animal for 1 round/level.
 - **[Huntmaster’s Spear](huntmasters-spear.md)**: Spear becomes a +1 weapon against a chosen favored-enemy type and can be discharged for a powerful attack.
+- **[Insect Scouts](insect-scouts.md)**: Vermin investigate a location and grant rerolls on related skill checks.
 - **[Invigorating Poison](invigorating-poison.md)**: Poison ability damage becomes a bonus instead.
 - **[Owl’s Wisdom](owls-wisdom.md)**: Subject gains +4 to Wis for 1 min./level.
 - **[Pouncing Fury](pouncing-fury.md)**: Make a full attack with your claws after a charge.
@@ -209,6 +210,7 @@
 - **[Blight](blight.md)**: Withers one plant or deals 1d6/level damage to plant creature.
 - **[Borrow Corruption](borrow-corruption.md)**: Temporarily gain the effects of a corrupted creature’s manifestations.
 - **[Bountiful Banquet](bountiful-banquet.md)**: Create a luxurious feast for two creatures/level.
+- **[Claim Identity](claim-identity.md)**: Steal a touched humanoid’s face and identity.
 - **[Cloud Shape](cloud-shape.md)**: This spell functions like gaseous form, except you assume the shape of a Colossal cloud with a space of 30.
 - **[Command Plants](command-plants.md)**: Sways the actions of plant creatures.
 - **[Control Water](control-water.md)**: Raises or lowers bodies of water.
@@ -236,6 +238,7 @@
 - **[Spike Stones](spike-stones.md)**: Creatures in area take 1d8 damage, may also be slowed*.*
 - **[Summon Nature’s Ally IV](summon-natures-ally-iv.md)**: Summons creature to fight.
 - **[Sword to Snake](sword-to-snake.md)**: An item bites whoever handles it.
+- **[Watchful Animal](watchful-animal.md)**: Your animal companion or familiar becomes a scrying sensor.
 - **[Wooden Wing Shield](wooden-wing-shield.md)**: Your wings become a barrier granting a +4 shield bonus to AC.
 
 ## 5th-Level Druid Spells
@@ -289,6 +292,7 @@
 - **[Binding Earth, Mass](binding-earth-mass.md)**: School transmutation [earth]; Level druid 6, witch 6 Target one creature or object/level, no two of which can.
 - **[Bull’s Strength, Mass](bulls-strength-mass.md)**: As *bull’s strength*, affects 1 subject/level.
 - **[Cat’s Grace, Mass](cats-grace-mass.md)**: As *cat’s grace*, affects one subject/level.
+- **[Claim Identity, Greater](claim-identity-greater.md)**: As claim identity, but the target becomes a mask others can wear.
 - **[Cure Light Wounds, Mass](cure-light-wounds-mass.md)**: Cures 1d8 damage + 1/level, affects 1 subject/level.
 - **[Curse Terrain, Greater](curse-terrain-greater.md)**: Curse an area with six dangerous hazards.
 - **[Dispel Magic, Greater](dispel-magic-greater.md)**: As *dispel magic*, but with multiple targets.

@@ -387,3 +387,71 @@ This replaces the 7th-level social talent.
 **Quiet Death (Ex)**: At 12th level, a serial killer gains the quiet death class feature as if she were an assassin. This ability replaces the 12th-level vigilante talent.
 
 **Swift Death (Ex)**: At 17th level, a serial killer gains the swift death class feature as an assassin. This ability replaces the vigilante’s stunning appearance.
+
+## Agathiel
+
+The tales of many lands teem with intelligent beasts who emerge from the wild to right wrongs perpetrated by a nation, aid a virtuous family, or extract long-overdue vengeance. Many of these trace back to the agathiel tradition, first stolen from agathion celestials by wandering scholars. Agathiels surrender a portion of their immortal souls to Nirvana in exchange for a measure of animalistic might to aid them in their righteous crusades. This exchange is permanent, and each agathiel commits the rest of his mortal life to service of others and the constant thrum of wild instincts.
+
+**Immortal Commitment (Su)**: Becoming an agathiel commits a portion of the vigilante’s soul to Nirvana, and in turn invests him with a portion of the plane’s power. An agathiel’s social and vigilante identity alignments must both be within one step of neutral good. If either of the agathiel’s alignments moves outside this range (because of his own actions or magical manipulation), he gains 1 permanent negative level and loses the ability to assume his vigilante identity until both of his alignments are within one step of neutral good. This negative level cannot be overcome in any way (including by *restoration* spells) until the agathiel’s alignment reverts.
+
+**Bestial Identity (Su)**: At 1st level, an agathiel’s vigilante identity must invoke the appearance and behavior of a single Small or Medium creature of the animal type. The vigilante can attempt to appear to be a normal member of this animal type, but doing so imposes a –10 penalty on his Disguise check. The bonus provided by seamless guise still applies to the vigilante’s attempts to appear to be an ordinary animal. Once the vigilante’s animal form is selected, it cannot be changed.
+
+Beginning at 4th level, when an agathiel assumes his vigilante identity, he physically transforms into an animal, though he always retains unusual traits that set him apart from ordinary animals, as if using *beast shape I*, except the vigilante gains no ability adjustments and can select only a single animal ability from those listed in the spell’s description. His social identity remains his true form, and unlike with *beast shape I*, an agathiel can remain in his animal form indefinitely. The agathiel’s vigilante identity is considered a polymorph effect, and while in his vigilante identity, the agathiel is immune to other polymorph effects. Unlike with normal polymorph effects, the agathiel’s equipment does not meld into his form, and instead changes shape to fit his animal form and provides the same function, though any equipment requiring hands cannot be used until he returns to his social identity.
+
+At 8th level, when assuming his vigilante identity, the vigilante can select two abilities provided by *beast shape I*, or select a single ability provided by *beast shape II*. At 12th level, he can instead select two abilities provided by *beast shape II*, or a single ability provided by *beast shape III*. At 16th level, he can instead select three abilities provided by *beast shape III*, or a single ability provided by *beast shape IV*.
+
+This ability alters dual identity and replaces the vigilante talents gained at 4th, 8th, 12th, and 16th levels.
+
+**Agathion Blessing (Su)**: Beginning at 2nd level, an agathiel gains Aspect of the Beast as a bonus feat while in his vigilante identity. If he selects the claws of the beast option, he can select a bite attack (1d8), a gore attack (1d8), or 2 slam attacks (1d4 each), as appropriate to his animal identity.
+
+This ability replaces the vigilante talent gained at 2nd level.
+
+## Servile Infiltrator
+
+Servile infiltrators are the front-line operatives of secretive networks that smuggle slaves to freedom. They infiltrate the estates of cruel masters in the guise of servants and slaves, and tolerate a harsh life as they uncover secrets, gauge security, and send slaves on the first steps towards freedom. While others wander the countryside escorting the crop of escapees to safety, the servile infiltrator remains in seeming bondage to direct others to the road to freedom, undermine efforts to recapture slaves, and end the threat of especially vile masters. The role suits anyone with the patience or humility to withstand months or years of cruel abuse without risking being caught raising a hand in his own defense.
+
+**Rebellious Identity (Ex)**: A servile infiltrator’s vigilante identity must be within one step of chaotic good, and his social identity must appear to be a slave, servant, or other menial laborer.
+
+This alters dual identity.
+
+**The Crop (Ex)**: A servile infiltrator can designate a number of allies equal to 3 + his Charisma modifier as part of his crop. Members of a crop must remain within 30 feet of the servile infiltrator in order to gain the benefits granted by his other class abilities as detailed below; if they leave this range, the servile infiltrator must designate these allies again for them to be included in his crop.
+
+When the servile infiltrator uses the aid another action to grant a member of his crop a bonus on an attack roll against an opponent, on a skill check, or to AC against an opponent’s next attack, the bonus increases to +3. This doesn’t stack with the benefits of other feats or class features that improve the bonus he grants to an ally with aid another. At 5th level and every 6 vigilante levels thereafter, the bonus that the servile infiltrator provides when using aid another to assist a member of his crop increases by 1, to a maximum of +6 at 17th level.
+
+This ability replaces vigilante specialization.
+
+**Obsequious (Ex)**: A servile infiltrator works hard to cultivate a social identity that plays off others’ prejudiced assumptions to deflect blame and excuse suspicious behavior, making him seem harmless or even a model servant. He can use the Bluff skill to deflect suspicion about his vigilante identity and activities (including use of vigilante talents when in his social identity) rather than Disguise, and gains a +2 bonus on Bluff checks to do so. This bonus increases by 1 for every 4 vigilante levels he has beyond 1st, to a maximum of +6 at 17th level.
+
+This ability replaces the social talent gained at 1st level.
+
+**Tend the Crop (Ex)**: Beginning at 2nd level, a servile infiltrator gains the ability to coordinate his crop to improve their performance in battle. He gains Stealth Synergy as a bonus feat. As a standard action, a servile infiltrator can grant any one teamwork feat he has to all members of his crop who can see and hear him. Members of his crop retain this feat for 1 round, plus 1 round for every 5 vigilante levels the servile infiltrator has beyond 2nd, to a maximum of 4 rounds at 17th level. A servile infiltrator can share only one teamwork feat at a time in this manner.
+
+This ability replaces the vigilante talent gained at 6th level.
+
+**Social Talents**: The following social talents complement the servile infiltrator: case the joint, feign innocence, gossip collector, loyal aid, and subjective truth.
+
+**Vigilante Talents**: The following vigilante talents complement the servile infiltrator: blind spot, environment weapon, shadow’s sight, and team player.
+
+## Teisatsu
+
+Teisatsu are specialized vigilantes who focus on infiltrating social scenes and high-society gatherings on behalf of feuding lords. Trained as assassins and spies, they cultivate a suite of personalities and study secret arts that hone their bodies into deadly weapons.
+
+**Weapon and Armor Proficiency**: Teisatsu are proficient with all simple weapons, plus the kama, katana, kusarigama, nunchaku, sai, short sword, shortbow, shuriken, siangham, and wakizashi. They are proficient with light and medium armor, but not with shields.
+
+This replaces the vigilante’s normal weapon and armor proficiencies.
+
+**Infiltrator (Ex)**: A teisatsu is required to choose stalker as his specialization.
+
+This alters vigilante specialization.
+
+**Ki Pool (Su)**: At 2nd level, a teisatsu gains a ki pool, identical to the ninja class feature, using his vigilante level as his effective ninja level.
+
+This ability replaces the vigilante talent gained at 2nd level.
+
+**Teisatsu Talents**: A teisatsu selects vigilante talents as normal. He can’t select the rogue talent vigilante talent. He can, however, select either of the talents below, which are unique to the teisatsu.
+
+This ability alters vigilante talents.
+
+**Ki Power (Su)**: The teisatsu gains a single ki power of his choice from the list available to the unchained monk class.
+
+**Shadow Tricks (Ex)**: The teisatsu gains a single ninja trick (but not a master trick) of his choice. He cannot select a rogue talent in place of a ninja trick in this manner. If he selects a ninja trick marked with an asterisk (*), that talent applies to his hidden strikes instead of to sneak attacks, and the talent counts as a stalker vigilante talent with an asterisk (*) for the limitation of applying only one effect to a single hidden strike.

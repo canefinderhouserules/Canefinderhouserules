@@ -89,11 +89,15 @@ These traits are associated with combat, battle, and physical prowess. They give
 
 **Vigilant Battler**: You are hard to fool and harder to trick with a feint. You gain a +1 trait bonus on all Sense Motive checks. This trait bonus increases to +2 when used to counter a feint in combat.
 
+**Wary Eye**: You know that you could be exposed at any time. Even your closest friends could someday become enemies, and so you have trained yourself to never be surprised by a betrayal. At the beginning of combat, before initiative checks are revealed, you can select one opponent you are aware of to be the subject of this trait. If you succeed at a Wisdom check opposed by the subject’s initiative check, you are not considered flat-footed against this subject for this combat, even if you normally would be. You can use this trait in a surprise round, even if you cannot otherwise act that round.
+
 **Weapon of Peace**: Even though you are a trained combatant, you don’t relish killing your enemies; disabling a foe is superior to killing someone capable of admitting defeat. When using a melee weapon that deals lethal damage to instead deal nonlethal damage, you take only a –2 penalty instead of –4.
 
 **Monster Challenger**: You have made it your mission to bring down a fearsome beast. Choose two of the following: aberrations, animals, dragons, fey, magical beasts, oozes, and vermin. You can move at full speed without penalty while using Survival to follow tracks left by your chosen creature types.
 
 **Monster Survivor**: You’ve escaped with your life after a terrible monster attack. You gain a +4 dodge bonus to AC against attacks of opportunity made against you by Large or larger opponents when you’re making a withdraw action.
+
+**Youthful Infiltrator**: You were trained from a young age to ambush the enemies of your order or organization, which makes you hard to trust for most outside your organization if they learn your affiliation. You gain a +1 trait bonus on attack rolls against flat-footed foes, as long as they have not seen you make an attack with this bonus before.
 
 ## Faith Traits
 
@@ -107,11 +111,15 @@ These traits rely upon conviction of spirit, perception, and religion, but are n
 
 **Disdainful Defender**: You are resistant to the magic of other faiths. You gain a +2 trait bonus on all Will saves you attempt against divine spells. This bonus does not apply against divine spells cast by a caster who worships the same deity you do.
 
+**Divine Confidante**: You were inspired with the reverence offered by worshipers to priests and other spiritual leaders, so you assisted them. You gain a +3 trait bonus on Sense Motive checks to get hunches about those who discuss matters of faith, mythology, morality, religion, or the Outer Planes with you. Sense Motive is a class skill for you.
+
 **Fate’s Favored**: The fates watch over you. Whenever you are under the effect of a luck bonus of any kind, that bonus increases by 1.
 
 **Fearless Defiance**: Upon overcoming your fear, you become a scourge to your enemies. You gain a +1 trait bonus on all saving throws against fear effects. In addition, if you successfully save against such an effect, you receive a +1 trait bonus on attack rolls against your favored enemies for 1 round.
 
 **Focused Disciple**: When weaker wills falter, you keep a clear mind. You gain a +2 trait bonus on saving throws against charm and compulsion effects.
+
+**Hidden Faith**: You were raised in a religion forbidden by your government, and draw strength from your hidden faith. You gain a +1 trait bonus on saving throws against the divine spells of creatures that worship a god other than your own.
 
 **Inspired**: A positive force, philosophy, or divine presence fills you with hope, and is a guiding force of inspiration. Once per day as a free action, roll twice and take the better result on a skill check or ability check.
 
@@ -119,11 +127,15 @@ These traits rely upon conviction of spirit, perception, and religion, but are n
 
 **Martial Manuscript**: You either carry or have memorized a sacred text from your school, temple, or monastery, and its wisdom gives you insight that makes your attacks more devastating. You gain a +2 trait bonus on rolls to confirm critical hits when you’re using an unarmed strike or monk weapon.
 
+**Mercantile Prophecy**: You were raised under a merchant creed of prophetic business maxims, and were inspired to seize upon an untapped business opportunity. Up to once per week, when you work to advance this opportunity with at least 1 day of effort, you can attempt an appropriate Profession check to earn money or gain capital using the downtime rules with a +2 trait bonus. In the event of a failed check, your opportunity is discovered by rivals and you cannot employ this trait for 1 month while you look for a new opportunity.
+
 **Oathbound**: You have made a solemn oath, and you pursue that oath with headstrong determination. Once per day, you may reroll a saving throw against a charm or compulsion effect. You must take the second result even if it is worse.
 
 **Omen**: You are the harbinger of some future event. Whether this event bodes good or ill, you exude an ominous presence. You gain a +1 trait bonus on Intimidate checks, and Intimidate is always a class skill for you. Once per day, you may attempt to demoralize an opponent as a swift action.
 
 **Perpetual Companion**: You are bolstered against fear when your eidolon is near. You gain a +2 trait bonus on all saving throws against fear effects whenever your eidolon is within 30 feet.
+
+**Persuasive Insight**: You were converted to your faith or taught to bargain with spirits for magic by a figure of inspiring insight who taught you to use keen observation in all dealings. You can use your Wisdom modifier in place of your Charisma modifier on Diplomacy checks to ask favors or gain influence. During a verbal duel, you can use your Wisdom modifier in place of your Charisma modifier when using tactics you assigned to Diplomacy or Wisdom-based skills.
 
 **Planar Savant**: You have always had an innate sense of the workings of the planes and their denizens. You may use your Charisma modifier when making Knowledge (planes) checks instead of your Intelligence modifier.
 
@@ -221,6 +233,8 @@ These traits are associated with magic and focus on spellcasting and manipulatin
 
 **Resilient Caster**: Your great force of will makes your magic harder to dispel. Your caster level is treated as 1 level higher whenever someone attempts to dispel one of your spells.
 
+**Secret Scrolls**: You were inducted into a secret magical tradition. You can cast *read magic* once per day as a spell-like ability, and gain a +1 trait bonus on Use Magic Device checks to activate scrolls you cannot normally use.
+
 **Self-Taught Scholar**: Being self-taught has made it necessary for you to scour all documentation you can get your hands on. You gain a +1 trait bonus on Linguistics checks to decipher unfamiliar languages, and Linguistics is always a class skill for you. In addition, you gain a +1 trait bonus on Spellcraft checks made to decipher the writing on a scroll.
 
 **Shrouded Casting**: You have learned the secret to casting some spells without lesser material components. Choose one school of magic when you pick this trait. You can cast spells from that school as if you had the Eschew Materials feat.
@@ -271,6 +285,10 @@ Social traits reflect your upbringing; your background in high society or lack t
 
 **Criminal**: You spent your early life robbing and stealing to get by. Select one of the following skills: Disable Device, Intimidate, or Sleight of Hand. You gain a +1 trait bonus on that skill, and it is always a class skill for you.
 
+**Criminal Roots**: Your family has long operated outside the law. You gain a +2 trait bonus on Diplomacy checks to influence criminals and on Intimidate checks to influence law-abiding citizens, but take a –2 penalty on Diplomacy checks to influence law-abiding citizens. Diplomacy or Intimidate (your choice) is a class skill for you.
+
+**Deep Cover**: You have lived a double life since your youth, perhaps to avoid persecution for your true identity or in service to an enemy of the people or group associated with your cover identity. You can always take 10 on Bluff and Disguise checks to assume and maintain your cover identity. Bluff or Disguise (your choice) is a class skill for you.
+
 **Destined Diplomat**: Your relationship with your eidolon gives you some clout with other outsiders. You gain a +2 trait bonus on Diplomacy checks toward outsiders, and Diplomacy is always a class skill for you.
 
 **Detect Disobedience**: You have an uncanny ability to spot a mutiny brewing. You gain a +2 trait bonus on Sense Motive checks to detect when an underling is trying to hide something from you, and can attempt such checks instead of Perception checks to notice and react to a subordinate’s surprise attack against you.
@@ -301,6 +319,8 @@ Social traits reflect your upbringing; your background in high society or lack t
 
 **Merchant**: You lived your life as a merchant, buying and selling goods. You gain a +1 trait bonus on any Appraise and Sense Motive checks you attempt while bargaining for the price of goods. Appraise is always a class skill for you.
 
+**Official Ties**: You maintain a friendship with one or more figures of authority. You have minor sway with one of these figures if your game uses individual influence. You gain a +2 trait bonus on Diplomacy checks to influence people in positions of authority aware of your contact and who have an attitude of no worse than indifferent toward the government the contact represents. You also take a –2 penalty on Diplomacy checks to influence criminals and agents of opposing governments, if those characters are aware of your association with authorities. If you lose your contact, you lose the benefits of this trait for 1 month, after which you can make a new contact.
+
 **Ordinary**: The only thing extraordinary about your appearance is its ordinariness. You carry yourself in an understated way, and many people who see your face soon forget it. You gain a +4 trait bonus on Stealth checks whenever you attempt to hide in a crowd.
 
 **Orphaned**: You grew up separated from your birth parents, and had to learn to watch out for yourself. You gain a +1 trait bonus on Survival checks, and Survival is always a class skill for you.
@@ -313,6 +333,8 @@ Social traits reflect your upbringing; your background in high society or lack t
 
 **Simple Disciple**: You picked up skill in a craft or a profession during your time at a monastery. You gain a +1 trait bonus on checks with a Profession or Craft skill of your choice.
 
+**Slave Runner**: You witnessed or were party to the rescue of a slave by an underground network. Once per day when attempting to directly free a slave, you gain a +2 trait bonus on your choice of an Acrobatics check, an Escape Artist check, a Stealth check, or a skill check attempted as part of a heist or pursuit.
+
 **Style Sage**: You have a passion for history and news concerning monastic disciplines. You gain a +1 trait bonus on checks with your choice of either Knowledge (local) or Knowledge (history), and the one you choose is always a class skill for you. In addition, you gain a +1 trait bonus on Diplomacy checks made to gather information about any person with levels in monk.
 
 **Subjective Truth**: You are able to divorce your knowledge of the facts from your beliefs about the truth, and thus from your facial expressions and body language. You gain a +2 trait bonus on Bluff checks to lie, provided the person you’re lying to has never known you to lie to him. Failing this check counts as being caught in a lie by the target, negating any future use of this bonus against that person.
@@ -324,6 +346,8 @@ Social traits reflect your upbringing; your background in high society or lack t
 **Trustworthy**: People find it easy to put their faith in you. You gain a +1 trait bonus on Bluff checks made to fool someone. You also gain a +1 trait bonus on Diplomacy checks, and Diplomacy is always a class skill for you.
 
 **Truth’s Agent**: You are skilled at weeding out information. You gain a +1 trait bonus on all Diplomacy checks made to gather information and all Knowledge (local) checks. Knowledge (local) is always a class skill for you.
+
+**Tyrant’s Sympathizer**: You feed intelligence to a ruthless infernal regime for your own gain or ideological reasons and are given valuable clues gathered by that regime’s other spies in exchange. Once per month while in a settlement of at least 2,000 people, you can call upon these connections to gain an edge in a verbal duel or gain a +2 bonus on one Bluff, Diplomacy, or Intimidate check.
 
 **Unintentional Linguist**: You can speak with outsiders. You gain a +1 trait bonus on all Linguistics checks, and you begin play knowing one of the following languages (in addition to those granted by your race and Intelligence modifier): Abyssal, Aquan, Celestial, Ignan, Infernal, Protean, or Terran.
 

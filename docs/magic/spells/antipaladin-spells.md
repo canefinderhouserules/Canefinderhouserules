@@ -46,6 +46,7 @@ New antipaladin spells from *Ultimate Magic*. Spells from other books will be ad
 - **[Disrupt Link](disrupt-link.md)**: Sever the link between a creature and her companion or familiar.
 - **[Enemy’s Heart](enemy-s-heart.md)**: You cut out an enemy’s heart and consume it, absorbing that enemy’s power as your own.
 - **[Flesh Puppet](flesh-puppet.md)**: Control a zombie in human guise.
+- **[Garrulous Grin](garrulous-grin.md)**: Target seems guilty and takes –4 on Bluff and Diplomacy.
 - **[Improve Trap](improve-trap.md)**: When this spell is cast upon a trap, it improves one specific element of the trap chosen at the time of.
 - **[Inflict Pain](inflict-pain.md)**: Target takes a –4 penalty on attack rolls, skill checks, and ability checks.
 - **[Litany of Defense](litany-of-defense.md)**: Doubles armor’s enhancement bonus.
@@ -76,6 +77,7 @@ New antipaladin spells from *Ultimate Magic*. Spells from other books will be ad
 - **[Blade of Dark Triumph](blade-of-dark-triumph.md)**: Bonded weapon gains ghost touch.
 - **[Burst of Speed](burst-of-speed.md)**: You gain increased speed, and your movement ignores attacks of opportunity and allows you to move through the space of creatures larger than you are.
 - **[Charnel House](charnel-house.md)**: Create an area of semi-real gore.
+- **[Claim Identity](claim-identity.md)**: Steal a touched humanoid’s face and identity.
 - **[Darkvision, Communal](darkvision-communal.md)**: As darkvision, but you may divide the duration among creatures touched.
 - **[Deadly Juggernaut](deadly-juggernaut.md)**: Your might increases with every kill you make.
 - **[Deceitful Veneer](deceitful-veneer.md)**: Make someone seem like an obvious liar.
@@ -87,6 +89,7 @@ New antipaladin spells from *Ultimate Magic*. Spells from other books will be ad
 - **[Litany of Sight](litany-of-sight.md)**: You can see invisible creatures and objects within 30 feet of you.
 - **[Screaming Flames](screaming-flames.md)**: Send forth a wave of flames screaming with the agony of the damned.
 - **[Selective Invisibility](selective-invisibility.md)**: Invisible, except to one chosen creature you may attack.
+- **[Trial by Fire](trial-by-fire.md)**: Divine fire punishes targets whose alignment differs from your deity’s.
 - **[Utter Contempt](utter-contempt.md)**: Target’s attitude worsens by two categories.
 - **[Vigilant Rest](vigilant-rest.md)**: Cause a sleeping creature to retain some perception of its surroundings.
 - **[Vile Dog Transformation](vile-dog-transformation.md)**: Transform ordinary dogs into fiendish minions.
@@ -95,6 +98,7 @@ New antipaladin spells from *Ultimate Magic*. Spells from other books will be ad
 ## 4th-Level Antipaladin Spells
 
 - **[Blood Ties](blood-ties.md)**: When a target is harmed, so is the target’s relative.
+- **[Claim Identity, Greater](claim-identity-greater.md)**: As claim identity, but the target becomes a mask others can wear.
 - **[Companion Transposition](companion-transposition.md)**: Swap places with your animal companion, familiar, or spirit animal via teleportation.
 - **[Conditional Curse](conditional-curse.md)**: Bestow a curse that is difficult to remove without fulfilling a condition.
 - **[Crime Wave](crime-wave.md)**: Compel targets to commit criminal actions.
@@ -105,6 +109,7 @@ New antipaladin spells from *Ultimate Magic*. Spells from other books will be ad
 - **[Foster Hatred](foster-hatred.md)**: Cause creatures to hate one type of creature.
 - **[Illusion of Treachery, Greater](illusion-of-treachery-greater.md)**: Make it seem like another is responsible for your attacks while concealing your own actions.
 - **[Inflict Pain, Mass](inflict-pain-mass.md)**: As inflict pain, but affecting one creature per level.
+- **[Insect Scouts](insect-scouts.md)**: Vermin investigate a location and grant rerolls on related skill checks.
 - **[Life of Crime](life-of-crime.md)**: Permanently turn someone into a crazed criminal.
 - **[Litany of Madness](litany-of-madness.md)**: A single target is confused for at least 1 round.
 - **[Litany of Thunder](litany-of-thunder.md)**: A single target is deafened until the condition is removed, and is confused for 1 round.

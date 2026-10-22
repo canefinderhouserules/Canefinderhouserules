@@ -97,6 +97,7 @@
 - **[Resist Energy, Communal](resist-energy-communal.md)**: As resist energy, but you may divide the duration among creatures touched.
 - **[Sky Steed](sky-steed.md)**: Grant your mount angelic wings.
 - **[They Know](they-know.md)**: Convince target that a nearby creature knows her greatest secret.
+- **[Trial by Fire](trial-by-fire.md)**: Divine fire punishes targets whose alignment differs from your deity’s.
 - **[Vigilant Rest](vigilant-rest.md)**: Cause a sleeping creature to retain some perception of its surroundings.
 
 ## 4th-Level Paladin Spells

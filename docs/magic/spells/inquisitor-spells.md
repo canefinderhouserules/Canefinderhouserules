@@ -37,6 +37,7 @@ New inquisitor spells from *Ultimate Magic*. Spells from other books will be add
 - **[Theft Ward](theft-ward.md)**: You ward a single object in your possession against theft.
 - **[Touch of Combustion](touch-of-combustion.md)**: Your successful melee touch attack causes the target to ignite in a violent burst of flame, dealing 1d6.
 - **[Unerring Weapon](unerring-weapon.md)**: Grants a +2 bonus, +1 per four caster levels, on attack rolls to confirm a critical hit.
+- **[Velvet Diplomacy](velvet-diplomacy.md)**: Intimidate a target into friendliness and cloud its memory of the threats.
 - **[Vocal Alteration](vocal-alteration.md)**: Disguise target’s voice.
 - **[Wartrain Mount](wartrain-mount.md)**: Animal gains combat training.
 - **[Winter Feathers](winter-feathers.md)**: School abjuration; Level cleric 1, druid 1, inquisitor 1, ranger 1, sorcerer/wizard 1 Casting Time 1 standard.
@@ -68,6 +69,7 @@ New inquisitor spells from *Ultimate Magic*. Spells from other books will be add
 - **[Enshroud Thoughts](enshroud-thoughts.md)**: Ward yourself against thought detection and memory alteration.
 - **[Escaping Ward](escaping-ward.md)**: This ward grants you extra maneuverability when you avoid attacks against larger foes.
 - **[Flickering Lights](flickering-lights.md)**: Create an area of inconsistent lighting.
+- **[Garrulous Grin](garrulous-grin.md)**: Target seems guilty and takes –4 on Bluff and Diplomacy.
 - **[Ghost Whip](ghost-whip.md)**: Create a ghost touch whip that passes through objects.
 - **[Ghostly Disguise](ghostly-disguise.md)**: You look like a ghost of yourself.
 - **[Guarding Knowledge](guarding-knowledge.md)**: +4 insight bonus on saves against one identified monster special attack.
@@ -109,6 +111,7 @@ New inquisitor spells from *Ultimate Magic*. Spells from other books will be add
 - **[Blinding Ray](blinding-ray.md)**: School evocation [good, light]; Level cleric 2, inquisitor 3, paladin 2 Casting Time 1 standard action.
 - **[Blood Scent](blood-scent.md)**: School transmutation; Level alchemist 3, antipaladin 2, cleric 3, druid 3, inquisitor 3, ranger 2.
 - **[Burst of Speed](burst-of-speed.md)**: You gain increased speed, and your movement ignores attacks of opportunity and allows you to move through the space of creatures larger than you are.
+- **[Claim Identity](claim-identity.md)**: Steal a touched humanoid’s face and identity.
 - **[Contagious Zeal](contagious-zeal.md)**: Grant bonuses and temporary hit points that spread from creature to creature.
 - **[Countless Eyes](countless-eyes.md)**: Extra eyes give all-around vision.
 - **[Damnation](damnation.md)**: Punish creatures for evil spells they know or that affect them.
@@ -123,6 +126,7 @@ New inquisitor spells from *Ultimate Magic*. Spells from other books will be add
 - **[Fearsome Duplicate](fearsome-duplicate.md)**: School illusion (figment); Level bard 3, inquisitor 3, sorcerer/wizard 3, witch 3 Casting Time 1 standard.
 - **[Holy Javelin](holy-javelin.md)**: Deal ongoing damage to evil creatures and apply penalties.
 - **[Improve Trap](improve-trap.md)**: When this spell is cast upon a trap, it improves one specific element of the trap chosen at the time of.
+- **[Insect Scouts](insect-scouts.md)**: Vermin investigate a location and grant rerolls on related skill checks.
 - **[Instant Fake](instant-fake.md)**: Provide a short-term replica of an object.
 - **[Litany of Eloquence](litany-of-eloquence.md)**: Fascinates a single creature for 1 round.
 - **[Litany of Entanglement](litany-of-entanglement.md)**: Entangles a creature for 1 round.
@@ -136,6 +140,7 @@ New inquisitor spells from *Ultimate Magic*. Spells from other books will be add
 - **[Selective Invisibility](selective-invisibility.md)**: Invisible, except to one chosen creature you may attack.
 - **[Terrible Remorse](terrible-remorse.md)**: Creature is compelled to harm itself.
 - **[They Know](they-know.md)**: Convince target that a nearby creature knows her greatest secret.
+- **[Trial by Fire](trial-by-fire.md)**: Divine fire punishes targets whose alignment differs from your deity’s.
 - **[Witness](witness.md)**: See through the target’s eyes and ears.
 
 ## 4th-Level Inquisitor Spells
@@ -173,6 +178,7 @@ New inquisitor spells from *Ultimate Magic*. Spells from other books will be add
 
 - **[Blood Ties](blood-ties.md)**: When a target is harmed, so is the target’s relative.
 - **[Chains of Light](chains-of-light.md)**: Hold a creature in chains of light and block extradimensional travel.
+- **[Claim Identity, Greater](claim-identity-greater.md)**: As claim identity, but the target becomes a mask others can wear.
 - **[Compelling Rant](compelling-rant.md)**: People believe your ridiculous speech as long as you keep talking.
 - **[Decapitate](decapitate.md)**: Turn a critical hit into a decapitation.
 - **[Divine Pursuit](divine-pursuit.md)**: Gain a movement type of your prey.

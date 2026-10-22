@@ -236,6 +236,8 @@ The two copies act independently and each one has a full set of actions. At the 
 
 **Tainted Infusion**: The alchemist can mask murder behind beneficence. When preparing an extract with the infusion discovery, he can lace the extract with one of his bombs as long as the extract has a duration greater than instantaneous. If he chooses, the alchemist can reduce the duration of the extract to 1 round. As soon as the extract’s duration expires, it detonates, dealing 150% of the alchemist’s bomb damage to the drinker. This effect does not produce a splash radius. Producing a tainted extract consumes both an infusion slot and a daily bomb use. An alchemist must know both the delayed bomb and infusion discoveries to select this discovery.
 
+**Glimmering Infusion (Sp)**: The alchemist can expend any prepared extract to produce a cube of glowing motes that act as per *glitterdust*. The area must be adjacent to the alchemist and covers one 5-foot square per level of extract sacrificed, and the effect’s save DC is calculated using the level of the sacrificed extract. The alchemist must have the infusion discovery to choose this discovery.
+
 ## Inspired Chemist
 
 Akin to a mindchemist, inspired chemists use a type of cognatogen that instead of increasing their mental ability scores grants them inspiration like an investigator. This inspiration also grants an inspired chemist amazing powers to avoid danger, but takes a toll on both physical power and health.

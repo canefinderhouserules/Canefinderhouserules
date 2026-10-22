@@ -148,6 +148,7 @@ Psychics gain access to the following spells. Spells without a link come from ot
 - **[Unseen Servant](unseen-servant.md)**: Invisible force obeys your commands.
 - **[Unwitting Ally](unwitting-ally.md)**: Subject is considered ally for 1 round.
 - **[Vanish](vanish.md)**: As invisibility for 1 round/level (5 max).
+- **[Velvet Diplomacy](velvet-diplomacy.md)**: Intimidate a target into friendliness and cloud its memory of the threats.
 - **[Ventriloquism](ventriloquism.md)**: Throws voice for 1 min./level.
 - **[Vocal Alteration](vocal-alteration.md)**: Disguise target’s voice.
 - Whispering Lore
@@ -226,6 +227,7 @@ Psychics gain access to the following spells. Spells without a link come from ot
 - Fleshy Facade
 - **[Focused Scrutiny](focused-scrutiny.md)**: Gain skill bonuses when interacting with the target.
 - **[Fox’s Cunning](foxs-cunning.md)**: Subject gains +4 to Int for 1 min./level.
+- **[Garrulous Grin](garrulous-grin.md)**: Target seems guilty and takes –4 on Bluff and Diplomacy.
 - **[Ghost Whip](ghost-whip.md)**: Create a ghost touch whip that passes through objects.
 - **[Ghostly Disguise](ghostly-disguise.md)**: You look like a ghost of yourself.
 - **[Glide](glide.md)**: No fall damage, move 60 ft./round while falling.
@@ -275,6 +277,7 @@ Psychics gain access to the following spells. Spells without a link come from ot
 - **[Owl’s Wisdom](owls-wisdom.md)**: Subject gains +4 to Wis for 1 min./level.
 - **[Pain Strike](pain-strike.md)**: Inflicts 1d6 nonlethal damage 1 round/level.
 - **[Paranoia](paranoia.md)**: Target becomes hostile to all creatures.
+- **[Passing Fancy](passing-fancy.md)**: Target becomes obsessed with a topic you choose.
 - **[Perceive Cues](perceive-cues.md)**: +5 Perception and Sense Motive 10 min./level.
 - **[Phantom Trap](phantom-trap.md)**: Makes item seem trapped.
 - **[Piercing Shriek](piercing-shriek.md)**: Target is staggered by a painful sound.
@@ -519,6 +522,7 @@ Psychics gain access to the following spells. Spells without a link come from ot
 - **[Id Insinuation III](id-insinuation-iii.md)**: As id insinuation I, but affects three creatures and has a stronger confusion effect.
 - **[Illusion of Treachery](illusion-of-treachery.md)**: Make it seem like another is also responsible for your attacks.
 - **[Illusory Wall](illusory-wall.md)**: Wall, floor, or ceiling looks real, but anything can pass through.
+- **[Insect Scouts](insect-scouts.md)**: Vermin investigate a location and grant rerolls on related skill checks.
 - **[Intellect Fortress I](intellect-fortress-i.md)**: Suppress emotion and fear effects in a 20-ft. radius as an immediate action.
 - **[Interrogation, Greater](interrogation-greater.md)**: As interrogation, except with more pain and more questions. Leashed Shackles : Target is restricted to a specific location.
 - **[Invigorate, Mass](invigorate-mass.md)**: As invigorate, but multiple creatures.
@@ -645,6 +649,7 @@ Psychics gain access to the following spells. Spells without a link come from ot
 - **[Nightmare](nightmare.md)**: Sends vision dealing 1d10 damage, fatigue.
 - **[Object Possession](object-possession.md)**: As lesser object possession, but with a larger object.
 - **[Overland Flight](overland-flight.md)**: You fly at a speed of 40 ft. and can hustle over long distances.
+- **[Passing Fancy, Mass](passing-fancy-mass.md)**: As passing fancy, affecting multiple creatures.
 - **[Passwall](passwall.md)**: Creates passage through wood or stone wall.
 - **[Peacebond, Greater](peacebond-greater.md)**: As *peacebond*, but on multiple weapons, even if they aren’t sheathed.
 - **[Permanency](permanency.md)**: Makes certain spells permanent.

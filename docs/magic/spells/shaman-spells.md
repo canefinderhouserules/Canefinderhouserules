@@ -112,6 +112,7 @@ Shamans gain access to the following spells. Spells in plain text come from othe
 - **[Flickering Lights](flickering-lights.md)**: Create an area of inconsistent lighting.
 - **[Focused Scrutiny](focused-scrutiny.md)**: Gain skill bonuses when interacting with the target.
 - **[Fog Cloud](fog-cloud.md)**: Fog obscures vision.
+- **[Garrulous Grin](garrulous-grin.md)**: Target seems guilty and takes –4 on Bluff and Diplomacy.
 - **[Gentle Repose](gentle-repose.md)**: Preserves one corpse.
 - **[Ghostbane Dirge](ghostbane-dirge.md)**: Incorporeal creature takes half damage from nonmagical weapons.
 - **[Glide](glide.md)**: No fall damage, move 60 ft./round while falling.
@@ -122,6 +123,7 @@ Shamans gain access to the following spells. Spells in plain text come from othe
 - Imbue with Elemental Might
 - **[Huntmaster’s Spear](huntmasters-spear.md)**: Spear becomes a +1 weapon against a chosen favored-enemy type and can be discharged for a powerful attack.
 - **[Inflict Moderate Wounds](inflict-moderate-wounds.md)**: Touch attack, 2d8 damage +1/ level (max +10).
+- **[Insect Scouts](insect-scouts.md)**: Vermin investigate a location and grant rerolls on related skill checks.
 - **[Invigorating Poison](invigorating-poison.md)**: Poison ability damage becomes a bonus instead.
 - **[Languid Venom](languid-venom.md)**: Delay a poison’s onset and hide its presence.
 - **[Levitate](levitate.md)**: Subject moves up and down at your direction.
@@ -220,6 +222,7 @@ Shamans gain access to the following spells. Spells in plain text come from othe
 - **[Ball Lightning](ball-lightning.md)**: Flying lightning spheres deal 3d6 electricity damage each.
 - **[Borrow Corruption](borrow-corruption.md)**: Temporarily gain the effects of a corrupted creature’s manifestations.
 - **[Bountiful Banquet](bountiful-banquet.md)**: Create a luxurious feast for two creatures/level.
+- **[Claim Identity](claim-identity.md)**: Steal a touched humanoid’s face and identity.
 - **[Command Plants](command-plants.md)**: Sway the actions of plant creatures.
 - **[Conditional Curse](conditional-curse.md)**: Bestow a curse that is difficult to remove without fulfilling a condition.
 - **[Contingent Venom](contingent-venom.md)**: As *languid venom*, but with a triggering condition.
@@ -277,6 +280,7 @@ Shamans gain access to the following spells. Spells in plain text come from othe
 - **[Vigilant Rest](vigilant-rest.md)**: Cause a sleeping creature to retain some perception of its surroundings.
 - **[Voluminous Vocabulary](voluminous-vocabulary.md)**: Grant ability to speak, read, and write one or more languages for 8 hours.
 - **[Wandering Star Motes](wandering-star-motes.md)**: Outlines subject and produces light as a sunrod.
+- **[Watchful Animal](watchful-animal.md)**: Your animal companion or familiar becomes a scrying sensor.
 - **[Wooden Wing Shield](wooden-wing-shield.md)**: Your wings become a barrier granting a +4 shield bonus to AC.
 
 ## 5th-Level Shaman Spells
@@ -334,6 +338,7 @@ Shamans gain access to the following spells. Spells in plain text come from othe
 - **[Banishment](banishment.md)**: Banishes 2 HD/level of extraplanar creatures.
 - **[Bear’s Endurance, Mass](bears-endurance-mass.md)**: As *bear’s endurance*, affects 1 subject/level.
 - **[Bull’s Strength, Mass](bulls-strength-mass.md)**: As *bull’s strength*, affects 1 subject/level.
+- **[Claim Identity, Greater](claim-identity-greater.md)**: As claim identity, but the target becomes a mask others can wear.
 - **[Cone of Cold](cone-of-cold.md)**: 1d6/level cold damage.
 - **[Create Undead](create-undead.md)**: Raises ghouls, ghasts, mummies, or mohrgs from physical remains.
 - **[Cruel Jaunt](cruel-jaunt.md)**: Sense creatures suffering from fear, then teleport close to them.

@@ -97,3 +97,5 @@ The following text is the property of Wizards of the Coast, Inc. and is Copyrigh
     Pathfinder Player Companion: Adventurer’s Armory 2 © 2017, Paizo Inc.; Authors: Jenny Jarzabski, Mikko Kallio, Isabelle Lee, Luis Loza, Joe Pasini, David N. Ross, and Linda Zayas-Palmer.
 
     Pathfinder Player Companion: Monster Hunter’s Handbook © 2017, Paizo Inc.; Authors: Eric Hindley, Mikko Kallio, Luis Loza, and Christopher Wasko.
+
+    Pathfinder Player Companion: Spymaster’s Handbook © 2016, Paizo Inc.; Authors: Alexander Augunas, David N. Ross, and Owen K.C. Stephens.

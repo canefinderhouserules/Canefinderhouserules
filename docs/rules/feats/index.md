@@ -1485,7 +1485,9 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Ambush Sense](ambush-sense.md) | Combat | Int 13, trap sense class feature |
 | [Amplified Hex](amplified-hex.md) | — | Hex class feature |
 | [Anatomical Savant](anatomical-savant.md) | Combat | Weapon Focus, base attack bonus +12 |
+| [Anti-Divine Assault](anti-divine-assault.md) | Combat | Bluff 1 rank, Knowledge (religion) 1 rank, must have been trained to oppose divine servitors |
 | [Armor Adept](armor-adept.md) | Combat | — |
+| [Ascendant](ascendant.md) | Story | See text |
 | [Baneful Judgment](baneful-judgment.md) | Combat | Bane class feature, judgment class feature, monster lore class feature |
 | [Bat Shape](bat-shape.md) | — | Cha 13, werebat-kin |
 | [Battle Cry (Surprise Round)](battle-cry-surprise-round.md) | — | Bardic performance class feature |
@@ -1513,6 +1515,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Clambering Escape](clambering-escape.md) | Combat | Int 13, Combat Expertise, Improved Reposition, evasion class feature |
 | [Claw Wrench](claw-wrench.md) | Combat | Dex 13, Improved Grapple, Improved Unarmed Strike |
 | [Conceal Spell](conceal-spell.md) | — | Deceitful, Bluff 1 rank, Disguise 1 rank, Sleight of Hand 1 rank |
+| [Conciliator](conciliator.md) | Story | See text |
 | [Confabulist](confabulist.md) | — | Bluff 9 ranks, Sense Motive 9 ranks |
 | [Cooperative Disabling](cooperative-disabling.md) | Teamwork | Disable Device 1 rank, trapfinding class feature |
 | [Craft Poppet](craft-poppet.md) | Item Creation | Caster level 1st |
@@ -1608,6 +1611,8 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Improved Sabotaging Sunder](improved-sabotaging-sunder.md) | Combat | Str 13, Improved Sunder, Power Attack, Sabotaging Sunder, Disable Device 9 ranks |
 | [Improvisational Healer](improvisational-healer.md) | — | Heal 1 rank |
 | [Incite Paranoia](incite-paranoia.md) | Combat | Int 13, Combat Expertise, Deceitful, Greater Feint, Improved Feint, base attack bonus +6 |
+| [Inerrant Justice](inerrant-justice.md) | Story | See text |
+| [Infiltrator](infiltrator.md) | Story | See text |
 | [Insightful Advice](insightful-advice.md) | — | Perform (oratory) 3 ranks |
 | [Inspired Sneak Attack](inspired-sneak-attack.md) | Combat | Inspiration pool; sneak attack or studied strike class feature |
 | [Inspiring Bravery](inspiring-bravery.md) | Combat | Cha 13, bravery class feature |
@@ -1625,6 +1630,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Lightning Rager](lightning-rager.md) | — | Rage class feature |
 | [Lithe Attacker](lithe-attacker.md) | — | Narrow Frame, Escape Artist 5 ranks, animal or magical beast |
 | [Mad Magic](mad-magic.md) | Combat | Bloodrage class feature or perfect clarity rage power |
+| [Magical Enigma](magical-enigma.md) | Story | See text |
 | [Maleficium](maleficium.md) | Damnation | Patronage of an evil outsider |
 | [Manipulative Agility](manipulative-agility.md) | — | Bluff 1 rank, Sleight of Hand 1 rank |
 | [Martial Dominance](martial-dominance.md) | Combat | Base attack bonus +5, Intimidate 1 rank |
@@ -1651,6 +1657,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Needle in a Haystack](needle-in-a-haystack.md) | — | Skill Focus (Perception), Perception 3 ranks |
 | [Nerve-Racking Negotiator](nerve-racking-negotiator.md) | — | Persuasive |
 | [Notorious Vigilante](notorious-vigilante.md) | Combat | Dazzling Display, Weapon Focus, any nongood alignment, great renown social talent, proficiency with chosen weapon |
+| [Obliviating Stare](obliviating-stare.md) | Stare | Allure bold stare improvement, hypnotic stare class feature, mesmerist level 5th |
 | [Omnipresent Mentor](omnipresent-mentor.md) | — | Cha 17, Inspiring Mentor, inspire competence bardic performance |
 | [Onslaught](onslaught.md) | Combat | Str 13, Power Attack, base attack bonus +1, sneak attack class feature |
 | [Ostentatious Rager](ostentatious-rager.md) | Combat | Intimidate 5 ranks, rage class feature |
@@ -1669,6 +1676,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Poppet Familiar](poppet-familiar.md) | — | Ability to acquire a new familiar, caster level 3rd |
 | [Powerful Poisoning](powerful-poisoning.md) | — | Power Attack; Craft (poison) 3 ranks or poison use class feature |
 | [Punishing Step](punishing-step.md) | Combat | Dex 13, Dodge |
+| [Puppet Master](puppet-master.md) | Story | See text |
 | [Quick Favor](quick-favor.md) | — | Persuasive |
 | [Quick Study](quick-study.md) | Combat | Int 13, bravery +3 class feature, fighter level 10th |
 | [Quiet Death](quiet-death.md) | Combat | Dex 19, Stealth 10 ranks, rogue level 10th |
@@ -1679,6 +1687,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Reflexive Caster](reflexive-caster.md) | — | Combat Reflexes, caster level 5th |
 | [Resisting Grappler](resisting-grappler.md) | Combat | Dex 13 |
 | [Righteous Phalanx](righteous-phalanx.md) | Teamwork | Base attack bonus +3, good alignment |
+| [Rival](rival.md) | Story | See text |
 | [Sabotage Magic Item](sabotage-magic-item.md) | — | Magical Aptitude, Disable Device 5 ranks, Use Magic Device 5 ranks |
 | [Sabotage Specialist](sabotage-specialist.md) | — | Deft Hands, Disable Device 5 ranks |
 | [Sabotaging Sunder](sabotaging-sunder.md) | Combat | Str 13, Improved Sunder, Power Attack, Disable Device 7 ranks |
@@ -1686,6 +1695,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [School Familiar](school-familiar.md) | — | Familiar effective level 5th, specialized arcane school class feature |
 | [Scurrying Swarmer](scurrying-swarmer.md) | Combat | Ratfolk, swarming racial trait |
 | [Sense Assumptions](sense-assumptions.md) | — | Sense Motive 3 ranks |
+| [Sense Loyalties](sense-loyalties.md) | — | Knowledge (nobility) 1 rank, Knowledge (religion) 1 rank |
 | [Sense Relationships](sense-relationships.md) | — | Street Smarts |
 | [Shadows of Fear](shadows-of-fear.md) | Combat | Hidden strike +2d8 or sneak attack +2d6 |
 | [Shared Quarry](shared-quarry.md) | Combat | Hunter’s bond class feature, quarry class feature |
@@ -1716,11 +1726,13 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Summon Good Monster](summon-good-monster.md) | — | Good alignment |
 | [Superior Dirty Trick](superior-dirty-trick.md) | Combat | Int 13, Combat Expertise, Greater Dirty Trick, Improved Dirty Trick, base attack bonus +8 |
 | [Superior Scryer](superior-scryer.md) | — | Spell Focus (divination), the ability to cast at least one spell of the scrying subschool |
+| [Supernatural Spy](supernatural-spy.md) | Story | See text |
 | [Sure-Footed](sure-footed.md) | — | Quadruped animal or magical beast |
 | [Surprising Combatant](surprising-combatant.md) | Combat | Improved Initiative, Bluff 3 ranks |
 | [Swarm Scatter](swarm-scatter.md) | Teamwork | — |
 | [Swarm Strike](swarm-strike.md) | Teamwork | — |
 | [Swipe and Stash](swipe-and-stash.md) | Combat | Sleight of Hand 5 ranks |
+| [Syndicate Tattoos](syndicate-tattoos.md) | — | Member of a criminal organization that marks its ranks with tattoos |
 | [Telepathic Link](telepathic-link.md) | — | Must have a familiar with the speak with master ability |
 | [Telepathy Tap](telepathy-tap.md) | — | Sense Motive 10 ranks, ability to cast *detect thoughts* or *telepathy* as a spell or spell-like ability or telepathy supernatural ability |
 | [Tenacious Spell](tenacious-spell.md) | Metamagic | — |
@@ -1744,6 +1756,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Wasp Familiar](wasp-familiar.md) | — | Chaotic neutral alignment, worshiper of a chaotic neutral deity of lust, revenge, and trickery |
 | [Weapon Adept](weapon-adept.md) | Combat | — |
 | [Willing Accomplice](willing-accomplice.md) | — | Cha 13, Bluff 3 ranks, Sense Motive 1 rank |
+| [Wily Warrior](wily-warrior.md) | Story | See text |
 
 ## Horror Adventures Feats
 

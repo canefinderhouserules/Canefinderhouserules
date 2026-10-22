@@ -228,6 +228,7 @@
 - **[Mount, Communal](mount-communal.md)**: As mount, but you may divide the duration among creatures touched.
 - **[Obscure Object](obscure-object.md)**: Masks object against scrying.
 - **[Paranoia](paranoia.md)**: Target becomes hostile to all creatures.
+- **[Passing Fancy](passing-fancy.md)**: Target becomes obsessed with a topic you choose.
 - **[Pilfering Hand](pilfering-hand.md)**: You may seize an object or manipulate it from afar.
 - **[Pouncing Fury](pouncing-fury.md)**: Make a full attack with your claws after a charge.
 - **[Protection from Arrows](protection-from-arrows.md)**: Subject gains DR 10/magic against ranged attacks.
@@ -376,6 +377,7 @@
 - **[Hostile Levitation](hostile-levitation.md)**: Levitates the targeted creature up off the ground.
 - **[Improve Trap](improve-trap.md)**: When this spell is cast upon a trap, it improves one specific element of the trap chosen at the time of.
 - **[Inflict Pain](inflict-pain.md)**: Target takes a –4 penalty on attack rolls, skill checks, and ability checks.
+- **[Insect Scouts](insect-scouts.md)**: Vermin investigate a location and grant rerolls on related skill checks.
 - **[Iron Stake](iron-stake.md)**: Hurl a spike of cold iron at a foe.
 - **[Leshy Swarm](leshy-swarm.md)**: Summon a swarm of Tiny leshys.
 - **[Locate Weakness](locate-weakness.md)**: You roll damage twice when you roll damage for a critical hit and take the best damage.
@@ -480,6 +482,7 @@
 - **[Animal Aspect, Greater](animal-aspect-greater.md)**: As animal aspect, but you gain two animal qualities.
 - **[Assume Appearance, Greater](assume-appearance-greater.md)**: Use a likeness to adopt a dead creature’s form.
 - **[Aura of the Unremarkable](aura-of-the-unremarkable.md)**: Make actions seem mundane to nearby creatures.
+- **[Claim Identity](claim-identity.md)**: Steal a touched humanoid’s face and identity.
 - **[Cloud Shape](cloud-shape.md)**: This spell functions like gaseous form, except you assume the shape of a Colossal cloud with a space of 30.
 - **[Complex Hallucination](complex-hallucination.md)**: Create a phantasm with effects for all senses.
 - **[Conjuration Foil](conjuration-foil.md)**: Interfere with nearby teleportation effects.
@@ -603,6 +606,7 @@
 - **[Mnemonic Enhancer](mnemonic-enhancer.md)**: *Wizard only.* Prepare extra spells or retain one just cast.
 - **[Reduce Person, Mass](reduce-person-mass.md)**: As *reduce person*, but affects 1 humanoid creature/level.
 - **[Stone Shape](stone-shape.md)**: Sculpts stone into any shape.
+- **[Watchful Animal](watchful-animal.md)**: Your animal companion or familiar becomes a scrying sensor.
 - **[Web Cloud](web-cloud.md)**: Component V, S Range medium (100 ft.
 
 ## 5th-Level Sorcerer/Wizard Spells
@@ -649,6 +653,7 @@
 - **[Oneiric Horror, Greater](oneiric-horror-greater.md)**: As oneiric horror, plus Str damage.
 - **[Ooze Form I](ooze-form-i.md)**: Assume the form of a Small or Medium ooze creature.
 - **[Parchment Swarm](parchment-swarm.md)**
+- **[Passing Fancy, Mass](passing-fancy-mass.md)**: As passing fancy, affecting multiple creatures.
 - **[Peacebond, Greater](peacebond-greater.md)**: As *peacebond*, but on multiple weapons, even if they aren’t sheathed.
 - **[Pessimism](pessimism.md)**: Force a creature to see the negative side of things.
 - **[Planar Binding, Lesser](planar-binding-lesser.md)**: Traps extraplanar creature of 6 HD or less until it performs a task.
@@ -745,6 +750,7 @@
 - **[Break, Greater](break-greater.md)**: Break all nearby objects.
 - **[Chains of Fire](chains-of-fire.md)**: This spell functions like chain lightning, except as noted above, and the spell deals fire damage instead of.
 - **[Chains of Light](chains-of-light.md)**: Hold a creature in chains of light and block extradimensional travel.
+- **[Claim Identity, Greater](claim-identity-greater.md)**: As claim identity, but the target becomes a mask others can wear.
 - **[Cruel Jaunt](cruel-jaunt.md)**: Sense creatures suffering from fear, then teleport close to them.
 - **[Curse Terrain, Greater](curse-terrain-greater.md)**: Curse an area with six dangerous hazards.
 - **[Decapitate](decapitate.md)**: Turn a critical hit into a decapitation.
@@ -1027,6 +1033,7 @@
 - **[Gate](gate.md)**: Connects two planes for travel or summoning.
 - **[Refuge](refuge.md)**: Alters item to transport its possessor to your abode.
 - **[Resplendent Mansion](resplendent-mansion.md)**: Conjure an opulent mansion several stories tall.
+- **[Scribe’s Binding](scribes-binding.md)**: Bind a creature and its memories into a book.
 - **[Summon Monster IX](summon-monster-ix.md)**: Summons extraplanar creature to fight for you.
 - **[Teleportation Circle](teleportation-circle.md)**: Teleports creatures inside circle.
 

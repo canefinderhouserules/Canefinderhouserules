@@ -76,6 +76,7 @@
 - **[Hold Animal](hold-animal.md)**: Paralyzes one animal for 1 round/level.
 - **[Hunter's Friend](hunters-friend.md)**: Share ranger class abilities with your companion.
 - **[Improve Trap](improve-trap.md)**: When this spell is cast upon a trap, it improves one specific element of the trap chosen at the time of.
+- **[Insect Scouts](insect-scouts.md)**: Vermin investigate a location and grant rerolls on related skill checks.
 - **[Iron Stake](iron-stake.md)**: Hurl a spike of cold iron at a foe.
 - **[Locate Weakness](locate-weakness.md)**: You roll damage twice when you roll damage for a critical hit and take the best damage.
 - **[Owl’s Wisdom](owls-wisdom.md)**: Subject gains +4 to Wis for 1 min./level.
@@ -177,6 +178,7 @@
 - **[Terrain Bond](terrain-bond.md)**: Treat the terrain you are in as a favored terrain for the spell’s duration.
 - **[Tree Stride](tree-stride.md)**: Step from one tree to another far away.
 - **[Unerring Tracker](unerring-tracker.md)**: Follow an entire trail unerringly.
+- **[Watchful Animal](watchful-animal.md)**: Your animal companion or familiar becomes a scrying sensor.
 
 ## Ultimate Magic Spells
 
