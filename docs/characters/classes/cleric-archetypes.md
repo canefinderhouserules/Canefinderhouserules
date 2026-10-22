@@ -536,3 +536,13 @@ At 7th level, when a blossoming light channels energy, she can expend an additio
 At 10th level, a blossoming light can use *atonement* once per day as a spell-like ability, but only to offer redemption to others (as per the spell). Using the spell in this way does not require a focus or material component.
 
 This ability alters channel energy and the cleric’s domains.
+
+## Iron Priest
+
+Iron priests preach of the messengers from beyond the stars, envoys of the divine brought to the world in a falling star. Iron priests can affect robots and other unliving constructs with channeled energy, but lack power over the undead.
+
+**Class Skills**: The iron priest’s class skills are Appraise (Int), Craft (Int), Diplomacy (Cha), Disable Device (Dex), Heal (Wis), Knowledge (engineering) (Int), Knowledge (history) (Int), Knowledge (local) (Int), Knowledge (religion) (Int), Linguistics (Int), Profession (Wis), Spellcraft (Int), and Survival (Wis).
+
+**Channel Energy (Su)**: When an iron priest channels energy to heal or harm living creatures, she heals or harms constructs with the clockwork or robot subtypes as well. Constructs without those subtypes are also affected, but gain only half the normal amount of healing or take only half the normal amount of damage, as appropriate. This ability alters channel energy.
+
+**Spontaneous Casting**: An iron priest can spontaneously cast *make whole* and *greater make whole* in place of *cure/inflict moderate wounds* and *cure/inflict critical wounds*, regardless of whether she channels positive or negative energy. This ability alters casting.

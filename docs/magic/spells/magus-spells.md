@@ -100,6 +100,7 @@ The magus class spell list appears on the [Magus](../../characters/classes/magus
 - **[Channel Vigor](channel-vigor.md)**: Focus on limbs, mind, spirit, or torso for bonuses.
 - **[Conjuration Foil](conjuration-foil.md)**: Interfere with nearby teleportation effects.
 - **[Conjure Carriage](conjure-carriage.md)**: Create a fine carriage.
+- **[Discharge](discharge.md)**: Drain charges from a technological object.
 - **[Earth Tremor](earth-tremor.md)**: Unleash a tremor that creates difficult terrain and can knock foes down and damage them.
 - **[Ectoplasmic Snare](ectoplasmic-snare.md)**: Tendril of ectoplasm grapples a creature and tethers you to it.
 - **[Fire Trail](fire-trail.md)**: When you cast this spell, flammable liquid oozes from your pores, dripping onto the ground and spontaneously.
@@ -108,10 +109,12 @@ The magus class spell list appears on the [Magus](../../characters/classes/magus
 - **[Force Punch](force-punch.md)**: Target takes 1d4 force damage per level and is pushed away.
 - **[Gloomblind Bolts](gloomblind-bolts.md)**: You create one or more bolts of negative energy infused with shadow pulled from the Shadow Plane.
 - **[Grasping Tentacles](grasping-tentacles.md)**: As black tentacles, but they perform dirty tricks.
+- **[Irradiate](irradiate.md)**: Flood an area with radiation.
 - **[Lightning Conductor](lightning-conductor.md)**: Absorb electricity damage and discharge it as a touch or ray.
 - **[Locate Weakness](locate-weakness.md)**: You roll damage twice when you roll damage for a critical hit and take the best damage.
 - **[Monstrous Physique I](monstrous-physique-i.md)**: Take the form and some of the powers of a Small or Medium monstrous humanoid.
 - **[Prehensile Pilfer](prehensile-pilfer.md)**: School transmutation; Level alchemist 3, bard 3, magus 3, sorcerer/wizard 3 Casting Time 1 standard action.
+- **[Recharge](recharge.md)**: Restore charges to a technological item.
 - **[Resilient Reservoir](resilient-reservoir.md)**: School transmutation; Level magus 3, paladin 3, sorcerer/wizard 4, witch 4 Casting Time 1 standard action.
 - **[Selective Invisibility](selective-invisibility.md)**: Invisible, except to one chosen creature you may attack.
 - **[Shining Cord](shining-cord.md)**: Silver cord links you and a foe; blasts the one who moves away.
@@ -186,6 +189,7 @@ The magus class spell list appears on the [Magus](../../characters/classes/magus
 - **[Chains of Fire](chains-of-fire.md)**: This spell functions like chain lightning, except as noted above, and the spell deals fire damage instead of.
 - **[Cruel Jaunt](cruel-jaunt.md)**: Sense creatures suffering from fear, then teleport close to them.
 - **[Decapitate](decapitate.md)**: Turn a critical hit into a decapitation.
+- **[Discharge, Greater](discharge-greater.md)**: Discharge many objects or an area.
 - **[Explode Head](explode-head.md)**: Explode the head of a creature with 20 hp or fewer and deal damage in a 10-ft. radius around it.
 - **[Fey Form II](fey-form-ii.md)**: Assume the form of a Tiny or Large fey creature.
 - **[Illusion of Treachery, Greater](illusion-of-treachery-greater.md)**: Make it seem like another is responsible for your attacks while concealing your own actions.

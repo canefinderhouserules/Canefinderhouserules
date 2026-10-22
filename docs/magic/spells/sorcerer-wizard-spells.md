@@ -72,6 +72,7 @@
 - **[Deja Vu](deja-vu.md)**: Make a creature repeat its actions.
 - **[Desperate Weapon](desperate-weapon.md)**: Create an improvised weapon.
 - **[Detect Charm](detect-charm.md)**: Detect charm, compulsion, and possession effects.
+- **[Detect Radiation](detect-radiation.md)**: See radioactive auras.
 - **[Devouring Visage](devouring-visage.md)**: Hideous face grants Intimidate bonus and a bite.
 - **[Ears of the City](ears-of-the-city.md)**: Gather information from echoes of local talk.
 - **[Endure Elements](endure-elements.md)**: Exist comfortably in hot or cold regions.
@@ -127,6 +128,7 @@
 - **[Stone Shield](stone-shield.md)**: A 1-inch-thick slab of stone springs up from the ground, interposing itself between you and an opponent of.
 - **[Strong Wings](strong-wings.md)**: School transmutation; Level druid 1, ranger 1, sorcerer/wizard 1, witch 1 Casting Time 1 standard action.
 - **[Summon Monster I](summon-monster-i.md)**: Summons extraplanar creature to fight for you.
+- **[Technomancy](technomancy.md)**: Detect technological objects.
 - **[Theft Ward](theft-ward.md)**: You ward a single object in your possession against theft.
 - **[Touch of Combustion](touch-of-combustion.md)**: Your successful melee touch attack causes the target to ignite in a violent burst of flame, dealing 1d6.
 - **[Transfer Tattoo](transfer-tattoo.md)**: Move a magic tattoo between creatures.
@@ -270,6 +272,7 @@
 - **[Protection from Evil, Communal](protection-from-evil-communal.md)**: As protection from evil, but you may divide the duration among creatures touched.
 - **[Protection from Good, Communal](protection-from-good-communal.md)**: As protection from good, but you may divide the duration among creatures touched.
 - **[Protection from Law, Communal](protection-from-law-communal.md)**: As protection from law, but you may divide the duration among creatures touched.
+- **[Protection from Technology](protection-from-technology.md)**: Ward against technology and robots.
 - **[Psychic Reading](psychic-reading.md)**: Read surface thoughts to learn information about a subject.
 - **[Quaking Fury](quaking-fury.md)**: Minor earthquake trips creatures in a cone.
 - **[Qualm](qualm.md)**: Target gains penalties on ability checks, skill checks, and concentration checks until it spends an entire round doing nothing.
@@ -414,6 +417,7 @@
 - **[Detect Desires](detect-desires.md)**: Learn what creatures desire.
 - **[Detect Mindscape](detect-mindscape.md)**: Sense the presence and attributes of mindscapes.
 - **[Discern Value](discern-value.md)**: Reveals which objects in a cone are most valuable.
+- **[Discharge](discharge.md)**: Drain charges from a technological object.
 - **[Dispel Magic](dispel-magic.md)**: Cancels one magical spell or effect.
 - **[Earth Tremor](earth-tremor.md)**: Unleash a tremor that creates difficult terrain and can knock foes down and damage them.
 - **[Ectoplasmic Snare](ectoplasmic-snare.md)**: Tendril of ectoplasm grapples a creature and tethers you to it.
@@ -436,6 +440,7 @@
 - **[Inflict Pain](inflict-pain.md)**: Target takes a –4 penalty on attack rolls, skill checks, and ability checks.
 - **[Insect Scouts](insect-scouts.md)**: Vermin investigate a location and grant rerolls on related skill checks.
 - **[Iron Stake](iron-stake.md)**: Hurl a spike of cold iron at a foe.
+- **[Irradiate](irradiate.md)**: Flood an area with radiation.
 - **[Leshy Swarm](leshy-swarm.md)**: Summon a swarm of Tiny leshys.
 - **[Lightning Conductor](lightning-conductor.md)**: Absorb electricity damage and discharge it as a touch or ray.
 - **[Locate Weakness](locate-weakness.md)**: You roll damage twice when you roll damage for a critical hit and take the best damage.
@@ -464,6 +469,7 @@
 - **[Pugwampi’s Grace](pugwampis-grace.md)**: Target rolls 2d20 and takes the lower result.
 - **[Pup Shape](pup-shape.md)**: Transforms a single animal or magical beast into a younger and cuter version of itself for a short time.
 - **[Raging Rubble](raging-rubble.md)**: You animate an area of rubble, gravel, or other small stones, creating a dangerous, rolling area of debris.
+- **[Recharge](recharge.md)**: Restore charges to a technological item.
 - **[Resinous Skin](resinous-skin.md)**: You gain DR 5/piercing and +4 to CMD against disarm attempts.
 - **[Resist Energy, Communal](resist-energy-communal.md)**: As resist energy, but you may divide the duration among creatures touched.
 - **[Returning Weapon, Communal](returning-weapon-communal.md)**: As returning weapon, but you may divide the duration among weapons touched.
@@ -587,8 +593,10 @@
 - **[Instant Fake](instant-fake.md)**: Provide a short-term replica of an object.
 - **[Mad Sultan’s Melody](mad-sultans-melody.md)**: Bizarre cacophony fascinates eldritch creatures.
 - **[Magic Aura, Greater](magic-aura-greater.md)**: As *magic aura*, but also affects creatures and allows more options.
+- **[Magic Circle against Technology](magic-circle-against-technology.md)**: Protection from technology in an area.
 - **[Magic Siege Engine, Greater](magic-siege-engine-greater.md)**: Siege engine gains +1 on targeting and damage rolls for every four caster levels.
 - **[Majestic Image](majestic-image.md)**: As *enter image*, but also gain bonuses on social skills while in the image.
+- **[Make Whole, Greater](make-whole-greater.md)**: Repair destroyed items and constructs.
 - **[Meticulous Match](meticulous-match.md)**: Determine if two things are identical.
 - **[Miasmatic Form](miasmatic-form.md)**: This spell functions like gaseous form, except the target’s vaporous body is dangerous to creatures that.
 - **[Mindscape Door](mindscape-door.md)**: Create a portal allowing entry to and exit from a mindscape.
@@ -606,6 +614,7 @@
 - **[Purge Spirit](purge-spirit.md)**: Deal 1d6 points of damage per level to one haunt or spirit creature and stagger it.
 - **[Pyrotechnic Eruption](pyrotechnic-eruption.md)**: Erupting flames burn a target several times.
 - **[Quieting Weapons](quieting-weapons.md)**: Weapons make no sound and quiet their victims.
+- **[Rebuke Technology](rebuke-technology.md)**: Render a technological target inert.
 - **[Remove Curse](remove-curse.md)**: Frees object or person from curse.
 - **[Resilient Reservoir](resilient-reservoir.md)**: School transmutation; Level magus 3, paladin 3, sorcerer/wizard 4, witch 4 Casting Time 1 standard action.
 - **[Revenant Armor](revenant-armor.md)**: Armor animates around its fallen wearer.
@@ -856,6 +865,8 @@
 - **[Curse Terrain, Greater](curse-terrain-greater.md)**: Curse an area with six dangerous hazards.
 - **[Decapitate](decapitate.md)**: Turn a critical hit into a decapitation.
 - **[Delectable Flesh](delectable-flesh.md)**: Creatures near the target become depraved and attack it to feast.
+- **[Destroy Robot](destroy-robot.md)**: Deals 12d6 + 1/level damage to a robot.
+- **[Discharge, Greater](discharge-greater.md)**: Discharge many objects or an area.
 - **[Dispel Magic, Greater](dispel-magic-greater.md)**: As *dispel magic*, but with multiple targets.
 - **[Dream Scan](dream-scan.md)**: Read a dreaming creature’s thoughts.
 - **[Eldritch Conduit, Greater](eldritch-conduit-greater.md)**: Use multiple enemies as origin points for area spells.
@@ -955,6 +966,7 @@
 
 **Abjuration**
 
+- **[Antitech Field](antitech-field.md)**: Mobile field that suppresses technology and robots.
 - **[Arcane Cannon](arcane-cannon.md)**
 - **[Archon’s Trumpet](archons-trumpet.md)**: Paralyze creatures in a cone with a booming report.
 - **[Awaken Construct](awaken-construct.md)**
@@ -974,9 +986,11 @@
 - **[Hunger for Flesh, Mass](hunger-for-flesh-mass.md)**: Give creatures bite attacks and a hunger for their own kind’s flesh.
 - **[Hungry Darkness](hungry-darkness.md)**: Deeper darkness that gnaws for force and Con damage.
 - **[Inflict Pain, Mass](inflict-pain-mass.md)**: As inflict pain, but affecting one creature per level.
+- **[Infuse Robot](infuse-robot.md)**: Turn a robot into a magical construct you command.
 - **[Insect Spies, Greater](insect-spies-greater.md)**: Use magic beetles as spies and also share their senses.
 - **[Maddening Oubliette](maddening-oubliette.md)**: Send a creature to a maddening demiplane prison.
 - **[Magical Beast Shape](magical-beast-shape.md)**: Assume the form of a magical beast.
+- **[Memory of Function](memory-of-function.md)**: Restore broken objects and timeworn tech.
 - **[Object Possession, Greater](object-possession-greater.md)**: As possess object, but the object is more powerful and you can possess a construct.
 - **[Ooze Form III](ooze-form-iii.md)**: Assume the form of a Huge ooze creature.
 - **[Permanent Hallucination](permanent-hallucination.md)**: As *scripted hallucination*, but permanent.

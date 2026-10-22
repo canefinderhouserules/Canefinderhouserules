@@ -1568,8 +1568,12 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Conversion Channel](conversion-channel.md) | — | Channel energy 7d6, worshiper of a deity of tyranny and contracts |
 | [Cooperative Disabling](cooperative-disabling.md) | Teamwork | Disable Device 1 rank, trapfinding class feature |
 | [Courage in a Bottle](courage-in-a-bottle.md) | — | Bravery class feature, worshiper of a deity of freedom and ale |
+| [Craft Cybernetics](craft-cybernetics.md) | — | Technologist, Heal 9 ranks, Knowledge (engineering) 9 ranks |
+| [Craft Pharmaceutical](craft-pharmaceutical.md) | — | Technologist, Heal 9 ranks, Knowledge (nature) 9 ranks |
 | [Craft Poppet](craft-poppet.md) | Item Creation | Caster level 1st |
 | [Craft Shadow Piercing](craft-shadow-piercing.md) | Item Creation | Craft (jewelry) 5 ranks, caster level 5th |
+| [Craft Technological Arms and Armor](craft-technological-arms-and-armor.md) | — | Technologist, Craft (mechanical) 7 ranks, Knowledge (engineering) 7 ranks |
+| [Craft Technological Item](craft-technological-item.md) | — | Technologist, Craft (mechanical) 5 ranks, Knowledge (engineering) 5 ranks |
 | [Creative Armorsmith](creative-armorsmith.md) | Combat | Craft (armor) 3 ranks, Knowledge (engineering) 3 ranks |
 | [Creative Weaponsmith](creative-weaponsmith.md) | Combat | Craft (weapons) 3 ranks, Knowledge (engineering) 3 ranks |
 | [Creature Focus](creature-focus.md) | — | No levels in a class that grants the favored enemy class feature |
@@ -1910,6 +1914,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Riptide Attack](riptide-attack.md) | Combat | Improved Drag, Improved Trip, worshiper of a deity of the sea and storms |
 | [Ritual Mask](ritual-mask.md) | — | Nameless One, occult rituals |
 | [Rival](rival.md) | Story | See text |
+| [Robot’s Bane](robots-bane.md) | — | Knowledge (engineering) 5 ranks |
 | [Rugged Northerner](rugged-northerner.md) | — | Con 13, Survival 1 rank |
 | [Sabotage Magic Item](sabotage-magic-item.md) | — | Magical Aptitude, Disable Device 5 ranks, Use Magic Device 5 ranks |
 | [Sabotage Specialist](sabotage-specialist.md) | — | Deft Hands, Disable Device 5 ranks |
@@ -1919,6 +1924,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Savior’s Arrow](savior-s-arrow.md) | — | Ability to cast cure spells, proficient with longbow, worshiper of a deity of the hunt and farming |
 | [Scar Soldier Devotion](scar-soldier-devotion.md) | — | Bodyguard, Combat Reflexes, Perform (oratory) 3 ranks, good |
 | [Scar Soldier Initiate](scar-soldier-initiate.md) | — | Female, 1st level only |
+| [Scavenger’s Luck](scavengers-luck.md) | — | Knowledge (engineering) 1 rank |
 | [Scholar](scholar.md) | — | — |
 | [School Familiar](school-familiar.md) | — | Familiar effective level 5th, specialized arcane school class feature |
 | [Scurrying Swarmer](scurrying-swarmer.md) | Combat | Ratfolk, swarming racial trait |
@@ -2027,6 +2033,9 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Tag-Team Interrogation](tag-team-interrogation.md) | Teamwork | Intimidating Prowess or Persuasive, Diplomacy 1 rank, Intimidate 1 rank |
 | [Take a Breather](take-a-breather.md) | Combat | Con 13, Combat Vigor, character level 4th |
 | [Targeted Blow](targeted-blow.md) | Weapon Mastery | Str 13, Power Attack, base attack bonus +9, weapon training class feature with a melee weapon |
+| [Technologist](technologist.md) | — | — |
+| [Technology Adept](technology-adept.md) | Combat | Dex 13, Exotic Weapon Proficiency (firearms), Point-Blank Shot |
+| [Technophobe](technophobe.md) | — | Improved Sunder |
 | [Telekinetic Mastery](telekinetic-mastery.md) | Combat, Item Mastery | Use Magic Device 5 ranks, base Fortitude save bonus +7 |
 | [Telepathic Link](telepathic-link.md) | — | Must have a familiar with the speak with master ability |
 | [Telepathy Tap](telepathy-tap.md) | — | Sense Motive 10 ranks, ability to cast *detect thoughts* or *telepathy* as a spell or spell-like ability or telepathy supernatural ability |
@@ -2085,6 +2094,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Wind Rush](wind-rush.md) | Combat, Style | Dex 13, Wis 13, Mobility, Elemental Discipline Style (wind), Quick Draw, Wind Strike, base attack bonus +13 or monk level 13th |
 | [Wind Song](wind-song.md) | — | Perform (wind instruments) 5 ranks; bardic performance or raging song class feature |
 | [Wind Strike](wind-strike.md) | Combat, Style | Dex 13, Wis 13, Elemental Discipline Style (wind), Quick Draw, base attack bonus +9 or monk level 9th |
+| [Wrest Charge](wrest-charge.md) | — | Disable Device 5 ranks, Knowledge (engineering) 5 ranks |
 
 ## Horror Adventures Feats
 

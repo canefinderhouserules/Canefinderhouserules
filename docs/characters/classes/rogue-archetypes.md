@@ -825,3 +825,13 @@ A toxic talon is trained and deployed for one very specific purpose: to defeat f
 **Catalyst (Su)**: At 4th level, a toxic talon can use secret alchemical techniques to enhance a poison as he applies it to a weapon, increasing the save DC of the poison by 1 (this bonus increases to +2 at 12th level). This increase to the save DC lasts for 1 minute or until the poison is used up, whichever comes first. A toxic talon can use catalyst once per hour. This ability replaces uncanny dodge.
 
 **Split Toxin (Su)**: At 8th level, when a toxic talon uses catalyst to enhance poison as he applies it, he can envenom two ranged weapons or units of ammunition simultaneously with the same dose. This ability replaces improved uncanny dodge.
+
+## Scavenger
+
+A scavenger lives for the discovery of new technological wonders scraped from the depths of strange ruins, metal caverns, and outlandish junkyards. She is well-versed in all the ways that technology can be used to protect sites, as well as the ways in which it can malfunction.
+
+**Technic Training (Ex)**: A scavenger adds 1/2 her rogue level to Perception skill checks to locate mechanical or high-tech traps and to Disable Device skill checks against these traps (minimum +1). She gains [Technologist](../../rules/feats/technologist.md) as a bonus feat. She cannot use Disable Device to disarm magical traps. This ability replaces trapfinding.
+
+**Lucky Glitch (Ex)**: Starting at 4th level, whenever a scavenger triggers a glitch when using a timeworn technological item, she rolls twice and can choose which of the two glitch effects actually occurs. A scavenger always adds her level to rolls to determine what kind of glitch occurs, and treats rolls of over 100 as 100. This ability replaces uncanny dodge.
+
+**Robot Slayer (Ex)**: At 8th level, a scavenger knows just where to strike robots to incapacitate and disable them. When she deals sneak attack damage to a robot, she ignores all hardness that robot possesses. This ability replaces improved uncanny dodge.

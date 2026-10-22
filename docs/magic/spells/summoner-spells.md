@@ -59,6 +59,7 @@ New summoner spells from *Ultimate Magic*. Spells from other books will be added
 - **[Infernal Challenger](infernal-challenger.md)**: Call a bearded devil to duel one challenger.
 - **[Insect Scouts](insect-scouts.md)**: Vermin investigate a location and grant rerolls on related skill checks.
 - **[Insect Spies](insect-spies.md)**: Use magic beetles as spies.
+- **[Irradiate](irradiate.md)**: Flood an area with radiation.
 - **[Leshy Swarm](leshy-swarm.md)**: Summon a swarm of Tiny leshys.
 - **[Life Conduit, Improved](life-conduit-improved.md)**: Transfers 2d6 hit points to your eidolon as a swift action.
 - **[Mad Monkeys](mad-monkeys.md)**: Summon a swarm of mischievous monkeys.

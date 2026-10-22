@@ -40,6 +40,7 @@
 - **[Desperate Weapon](desperate-weapon.md)**: Create an improvised weapon.
 - **[Detect Chaos](detect-chaos.md)/[Detect Evil](detect-evil.md)/[Detect Good](detect-good.md)/[Detect Law](detect-law.md)**: Reveals creatures, spells, or objects of selected alignment.
 - **[Detect Charm](detect-charm.md)**: Detect charm, compulsion, and possession effects.
+- **[Detect Radiation](detect-radiation.md)**: See radioactive auras.
 - **[Detect the Faithful](detect-the-faithful.md)**: Find others of the same faith.
 - **[Detect Undead](detect-undead.md)**: Reveals undead within 60 ft.
 - **[Devouring Visage](devouring-visage.md)**: Hideous face grants Intimidate bonus and a bite.
@@ -172,6 +173,7 @@
 - **[Protection from Evil, Communal](protection-from-evil-communal.md)**: As protection from evil, but you may divide the duration among creatures touched.
 - **[Protection from Good, Communal](protection-from-good-communal.md)**: As protection from good, but you may divide the duration among creatures touched.
 - **[Protection from Law, Communal](protection-from-law-communal.md)**: As protection from law, but you may divide the duration among creatures touched.
+- **[Protection from Technology](protection-from-technology.md)**: Ward against technology and robots.
 - **[Quaking Fury](quaking-fury.md)**: Minor earthquake trips creatures in a cone.
 - **[Reinforce Armaments, Communal](reinforce-armaments-communal.md)**: As reinforce armaments, but you may divide the duration among objects touched.
 - **[Remove Paralysis](remove-paralysis.md)**: Frees creatures from paralysis or *slow* effect.
@@ -248,6 +250,7 @@
 - **[Detect Anxieties](detect-anxieties.md)**: Learn what makes creatures anxious.
 - **[Detect Desires](detect-desires.md)**: Learn what creatures desire.
 - **[Detoxify](detoxify.md)**: Neutralize a creature’s poison attacks.
+- **[Discharge](discharge.md)**: Drain charges from a technological object.
 - **[Discovery Torch](discovery-torch.md)**: Touched object emanates bright light, granting Perception and Sense Motive bonuses.
 - **[Dispel Magic](dispel-magic.md)**: Cancels one magical spell or effect.
 - **[Disrupt Silence](disrupt-silence.md)**: Disrupt all silence effects in an area.
@@ -263,6 +266,7 @@
 - **[Inflict Serious Wounds](inflict-serious-wounds.md)**: Touch attack, 3d8 damage + 1/level (max +15).
 - **[Invisibility Purge](invisibility-purge.md)**: Dispels invisibility within 5 ft./level.
 - **[Iron Stake](iron-stake.md)**: Hurl a spike of cold iron at a foe.
+- **[Irradiate](irradiate.md)**: Flood an area with radiation.
 - **[Light of Purity](light-of-purity.md)**: Illuminate undead and weaken their channel resistance.
 - **[Locate Object](locate-object.md)**: Senses direction toward object (specific or type).
 - **[Magic Circle against Chaos](magic-circle-against-chaos.md)/[Magic Circle against Evil](magic-circle-against-evil.md)/[Magic Circle against Good](magic-circle-against-good.md)/[Magic Circle against Law](magic-circle-against-law.md)**: As *protection* spells, but 10-ft. radius and 10 min./level.
@@ -275,6 +279,7 @@
 - **[Prayer](prayer.md)**: Allies get +1 bonus on most rolls, enemies –1 penalty.
 - **[Protection from Energy](protection-from-energy.md)**: Absorb 12 points/level of damage from one kind of energy.
 - **[Raging Rubble](raging-rubble.md)**: You animate an area of rubble, gravel, or other small stones, creating a dangerous, rolling area of debris.
+- **[Recharge](recharge.md)**: Restore charges to a technological item.
 - **[Remove Blindness/Deafness](remove-blindness-deafness.md)**: Cures normal or magical blindness or deafness.
 - **[Remove Curse](remove-curse.md)**: Frees object or person from curse.
 - **[Remove Disease](remove-disease.md)**: Cures all diseases affecting subject.
@@ -336,8 +341,10 @@
 - **[Hunger for Flesh](hunger-for-flesh.md)**: Give a creature a bite attack and a hunger for its own kind’s flesh.
 - **[Imbue with Spell Ability](imbue-with-spell-ability.md)**: Transfer spells to subject.
 - **[Inflict Critical Wounds](inflict-critical-wounds.md)**: Touch attack, 4d8 damage + 1/level (max +20).
+- **[Magic Circle against Technology](magic-circle-against-technology.md)**: Protection from technology in an area.
 - **[Magic Weapon, Greater](magic-weapon-greater.md)**: Weapon gains +1 bonus/four levels (max +5).
 - **[Majestic Image](majestic-image.md)**: As *enter image*, but also gain bonuses on social skills while in the image.
+- **[Make Whole, Greater](make-whole-greater.md)**: Repair destroyed items and constructs.
 - **[Minotaur’s Blessing](minotaurs-blessing.md)**: Turn a creature’s head into a bull’s.
 - **[Nature’s Ravages](natures-ravages.md)**: Rapidly decomposes a corpse.
 - **[Neutralize Poison](neutralize-poison.md)**: Immunizes subject against poison, detoxifies venom in or on subject.
@@ -349,6 +356,7 @@
 - **[Purify Body](purify-body.md)**: Heals, grants temporary hit points, and removes pain, ability damage, and conditions.
 - **[Quieting Weapons](quieting-weapons.md)**: Weapons make no sound and quiet their victims.
 - **[Red Hand of the Killer](red-hand-of-the-killer.md)**: Stain the hand of a creature’s killer red.
+- **[Remove Radioactivity](remove-radioactivity.md)**: Cure radiation effects.
 - **[Repel Vermin](repel-vermin.md)**: Insects, spiders, and other vermin stay 10 ft. away.
 - **[Replenish Ki](replenish-ki.md)**: Regain ki points.
 - **[Restoration](restoration.md)**: Restores level and ability score drains.
@@ -456,6 +464,7 @@
 - **[Cure Moderate Wounds, Mass](cure-moderate-wounds-mass.md)**: Cures 2d8 damage + 1/level, affects 1 subject/level.
 - **[Curse of the Outcast](curse-of-the-outcast.md)**: Curse someone to rub people the wrong way.
 - **[Curse Terrain, Greater](curse-terrain-greater.md)**: Curse an area with six dangerous hazards.
+- **[Discharge, Greater](discharge-greater.md)**: Discharge many objects or an area.
 - **[Dispel Magic, Greater](dispel-magic-greater.md)**: As *dispel magic*, but with multiple targets.
 - **[Dust Form](dust-form.md)**: You become an incorporeal creature of dust for a short period of time.
 - **[Eaglesoul](eaglesoul.md)**: Combat bonuses against evil creatures, especially evil outsiders.
@@ -510,8 +519,10 @@
 - **[Hunger for Flesh, Mass](hunger-for-flesh-mass.md)**: Give creatures bite attacks and a hunger for their own kind’s flesh.
 - **[Hymn of Peace](hymn-of-peace.md)**: Creatures must save to follow through with violent actions.
 - **[Inflict Serious Wounds, Mass](inflict-serious-wounds-mass.md)**: Deals 3d8 damage + 1/level, affects 1 subject/level.
+- **[Infuse Robot](infuse-robot.md)**: Turn a robot into a magical construct you command.
 - **[Jolting Portent](jolting-portent.md)**: You inflict a vengeful fate on a creature, dealing electricity damage each time it attacks or casts a spell.
 - **[Maddening Oubliette](maddening-oubliette.md)**: Send a creature to a maddening demiplane prison.
+- **[Memory of Function](memory-of-function.md)**: Restore broken objects and timeworn tech.
 - **[Plundered Power](plundered-power.md)**: Kill a creature and steal its strongest spell-like ability.
 - **[Poison Breath](poison-breath.md)**: Cone of toxic mist, as poison.
 - **[Pox of Rumors](pox-of-rumors.md)**: Curse a creature to attract nasty rumors.
@@ -549,6 +560,7 @@
 - **[Nine Lives](nine-lives.md)**: School abjuration; Level cleric 8, witch 8 Casting Time 1 standard action Range touch Target one creature.
 - **[Planar Ally, Greater](planar-ally-greater.md)**: As *lesser planar ally,* but up to 18 HD.
 - **[Primal Scar](primal-scar.md)**: Infuse an area with primal magic.
+- **[Remove Radioactivity, Greater](remove-radioactivity-greater.md)**: Cure all radiation damage; deplete radioactive objects.
 - **[Sacramental Seal](sacramental-seal.md)**: Seal a creature away inside the spell’s focus.
 - **[Shield of Law](shield-of-law.md)**: +4 to AC, +4 resistance, and SR 25 against chaotic spells.
 - **[Spell Immunity, Greater](spell-immunity-greater.md)**: As *spell immunity,* but up to 8th-level spells.

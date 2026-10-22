@@ -767,3 +767,19 @@ Instead of the normal rage bonuses and penalties, a geminate invoker in a trance
 **Spirit Conduit (Su)**: At 4th level, a geminate invoker can invite a spirit into his body each time he enters a trance, gaining a lesser totem rage power for the duration of his trance. He can select a new totem each time he enters his trance, though the GM might rule that certain totem spirits are simply not available in certain locations (such as channeling a celestial totem in an evil god’s temple). Invoking a totem counter to his alignment (such as a neutral good character invoking a fiend totem) requires the geminate invoker to succeed at a DC 12 Charisma check each round to dominate the spirit. Failure indicates the spirit escapes, immediately ending the trance.
 
 At 8th level, the geminate invoker gains a second totem rage power, though it must use the previously granted lesser totem rage power as a prerequisite. At 12th level, he also gains the greater totem rage power that uses the previously granted powers as prerequisites. This ability replaces the rage powers gained at 4th, 8th, and 12th levels.
+
+## Savage Technologist
+
+Savage technologists exhort tribal peoples to rise up against the depredations of technocratic overlords. But rather than rejecting technology, they wield their oppressors’ own weapons against them.
+
+**Class Skills**: A savage technologist’s class skills are Acrobatics (Dex), Climb (Str), Craft (Int), Diplomacy (Cha), Intimidate (Cha), Knowledge (local) (Int), Perception (Wis), Ride (Dex), Sense Motive (Wis), Survival (Wis), and Swim (Str).
+
+**Weapon and Armor Proficiency**: A savage technologist is proficient with all simple and martial weapons, all firearms, light armor, and shields (except tower shields).
+
+**Rage (Ex)**: A savage technologist can enter rage as a barbarian, except she gains a morale bonus to Strength and Dexterity instead of Strength and Constitution, and she does not take a penalty to Armor Class. She retains the bonus on Will saving throws. When a barbarian ability would increase the savage technologist’s Strength while raging, it increases her Dexterity instead. This ability alters rage.
+
+**Sword and Gun (Ex)**: At 2nd level, when a raging savage technologist wields a one-handed firearm in one hand and a light or one-handed melee weapon in the other, she can make ranged attacks with the firearm without provoking attacks of opportunity. She also gains the benefits of the Two-Weapon Fighting feat, but only if all attacks are made with those weapons. This ability replaces uncanny dodge.
+
+**Primal Magnetism (Ex)**: At 3rd level, a savage technologist adds her Strength modifier on Diplomacy checks when interacting with tribal cultures. She can expend 2 rounds of rage (even if not raging) to add a bonus equal to 1/2 her barbarian level on a Diplomacy check. This ability replaces trap sense.
+
+**Crack Shot (Ex)**: At 5th level, a savage technologist adds her Dexterity modifier to her damage rolls when making ranged attacks with a firearm while raging. This ability replaces improved uncanny dodge.

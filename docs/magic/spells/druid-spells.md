@@ -32,6 +32,7 @@
 - **[Damp Powder](damp-powder.md)**: Ruins ammunition loaded in the targeted firearm.
 - **[Deadeye’s Lore](deadeyes-lore.md)**: Gain a +4 bonus on Survival and move full speed while tracking.
 - **[Detect Animals or Plants](detect-animals-or-plants.md)**: Detects kinds of animals or plants.
+- **[Detect Radiation](detect-radiation.md)**: See radioactive auras.
 - **[Detect Snares and Pits](detect-snares-and-pits.md)**: Reveals natural or primitive traps.
 - **[Detect the Faithful](detect-the-faithful.md)**: Find others of the same faith.
 - **[Devouring Visage](devouring-visage.md)**: Hideous face grants Intimidate bonus and a bite.
@@ -264,13 +265,16 @@
 - **[Giant Vermin](giant-vermin.md)**: Turns centipedes, scorpions, or spiders into giant vermin.
 - **[Healing Warmth](healing-warmth.md)**: This spell grants you temporary immunity to fire damage as protection from energy.
 - **[Ice Storm](ice-storm.md)**: Hail deals 5d6 damage in cylinder 40 ft. across.
+- **[Irradiate](irradiate.md)**: Flood an area with radiation.
 - **[Kiss of the First World](kiss-of-the-first-world.md)**: Fast healing for the living; debilitates undead.
 - **[Life Blast](life-blast.md)**: Drain life from local vegetation to launch a blast of positive energy.
 - **[Minotaur’s Blessing](minotaurs-blessing.md)**: Turn a creature’s head into a bull’s.
 - **[Obsidian Flow](obsidian-flow.md)**: Converts the surface of the ground into molten glass. Spells 6 Protection from Energy, Communal: As protection from energy, but you may divide the duration among creatures touched.
 - **[Phantom Hunt](phantom-hunt.md)**: You and your companion gain senses, speed, and fast tracking.
 - **[Protection from Natural Attacks](protection-from-natural-attacks.md)**: Target gains DR 5/— against one type of natural attack.
+- **[Rebuke Technology](rebuke-technology.md)**: Render a technological target inert.
 - **[Reincarnate](reincarnate.md)**: Brings dead subject back in a random body.
+- **[Remove Radioactivity](remove-radioactivity.md)**: Cure radiation effects.
 - **[Repel Vermin](repel-vermin.md)**: Insects, spiders, and other vermin stay 10 ft. away.
 - **[Repugnant Taste](repugnant-taste.md)**: Creatures that bite or swallow the target become nauseated.
 - **[Rising Water](rising-water.md)**: Conjures a cylinder of calm, swimmable water.
@@ -301,6 +305,7 @@
 - **[Control Winds](control-winds.md)**: Changes wind direction and speed.
 - **[Cure Critical Wounds](cure-critical-wounds.md)**: Cures 4d8 damage + 1/level (max +20).
 - **[Death Ward](death-ward.md)**: Grants bonuses against death spells and negative energy.
+- **[Destroy Robot](destroy-robot.md)**: Deals 12d6 + 1/level damage to a robot.
 - **[Die for Your Master](die-for-your-master.md)**: Companion intercepts any attack against you.
 - **[Entice Fey, Lesser](entice-fey-lesser.md)**: Entice service from a fey of 6 Hit Dice or fewer.
 - **[Fey Form II](fey-form-ii.md)**: Assume the form of a Tiny or Large fey creature.
@@ -336,6 +341,7 @@
 ## 6th-Level Druid Spells
 
 - **[Antilife Shell](antilife-shell.md)**: 10-ft.-radius field hedges out living creatures.
+- **[Antitech Field](antitech-field.md)**: Mobile field that suppresses technology and robots.
 - **[Bear’s Endurance, Mass](bears-endurance-mass.md)**: As *bear’s endurance*, affects 1 subject/level.
 - **[Binding Earth, Mass](binding-earth-mass.md)**: School transmutation [earth]; Level druid 6, witch 6 Target one creature or object/level, no two of which can.
 - **[Bite the Hand, Mass](bite-the-hand-mass.md)**: As bite the hand, multiple targets.
@@ -388,6 +394,7 @@
 - **[Fire Storm](fire-storm.md)**: Deals 1d6/level fire damage.
 - **[Frost Mammoth](frost-mammoth.md)**: Conjure a rideable snow mammoth.
 - **[Heal](heal.md)**: Cures 10 points/level damage, all diseases and mental conditions.
+- **[Infuse Robot](infuse-robot.md)**: Turn a robot into a magical construct you command.
 - **[Plundered Power](plundered-power.md)**: Kill a creature and steal its strongest spell-like ability.
 - **[Scrying, Greater](scrying-greater.md)**: As *scrying*, but faster and longer.
 - **[Siege of Trees](siege-of-trees.md)**: Transforms Large trees into arboreal catapults of the same size.
@@ -409,6 +416,7 @@
 - **[Fey Gate](fey-gate.md)**: Create a portal that allows travel to the First World.
 - **[Finger of Death](finger-of-death.md)**: Deals 10 damage/level to one subject.
 - **[Frightful Aspect](frightful-aspect.md)**: You take on a terrifying, Large-sized form of yourself and emit an aura that causes creatures to become shaken or frightened.
+- **[Remove Radioactivity, Greater](remove-radioactivity-greater.md)**: Cure all radiation damage; deplete radioactive objects.
 - **[Repel Metal or Stone](repel-metal-or-stone.md)**: Pushes away metal and stone.
 - **[Reverse Gravity](reverse-gravity.md)**: Objects and creatures fall upward.
 - **[Summon Nature’s Ally VIII](summon-natures-ally-viii.md)**: Summons creature to fight.

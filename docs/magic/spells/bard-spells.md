@@ -47,6 +47,7 @@
 - **[Deja Vu](deja-vu.md)**: Make a creature repeat its actions.
 - **[Desperate Weapon](desperate-weapon.md)**: Create an improvised weapon.
 - **[Detect Charm](detect-charm.md)**: Detect charm, compulsion, and possession effects.
+- **[Detect Radiation](detect-radiation.md)**: See radioactive auras.
 - **[Detect Secret Doors](detect-secret-doors.md)**: Reveals hidden doors within 60 ft.
 - **[Disguise Self](disguise-self.md)**: Changes your appearance.
 - **[Duelist’s Parry](duelists-parry.md)**: Parry a melee attack as an immediate action.
@@ -99,6 +100,7 @@
 - **[Summon Monster I](summon-monster-i.md)**: Summons extraplanar creature to fight for you.
 - **[Tamer’s Lash](tamers-lash.md)**: Create a whip made of sound that damages foes and can frighten animals.
 - **[Tap Inner Beauty](tap-inner-beauty.md)**: +2 insight bonus on Charisma checks.
+- **[Technomancy](technomancy.md)**: Detect technological objects.
 - **[Toilsome Chant](toilsome-chant.md)**: School enchantment (compulsion)[mind-affecting]; Level bard 1 Casting Time see text Components V, S Range.
 - **[Transfer Tattoo](transfer-tattoo.md)**: Move a magic tattoo between creatures.
 - **[Undetectable Alignment](undetectable-alignment.md)**: Conceals alignment for 24 hours.
@@ -192,6 +194,7 @@
 - **[Qualm](qualm.md)**: Target gains penalties on ability checks, skill checks, and concentration checks until it spends an entire round doing nothing.
 - **[Quick Change](quick-change.md)**: Use change shape as a swift action and surprise foes.
 - **[Rage](rage.md)**: Gives +2 to Str and Con, +1 on Will saves, –2 to AC.
+- **[Recharge](recharge.md)**: Restore charges to a technological item.
 - **[Returning Weapon](returning-weapon.md)**: Grants a weapon the returning special weapon quality.
 - **[Rumormonger](rumormonger.md)**: Follow a rumor to see where it spreads.
 - **[Rune of Rule](rune-of-rule.md)**: Paint a rune on an ally that grants a one-time boost.
@@ -250,6 +253,7 @@
 - **[Demanding Message](demanding-message.md)**: Send messages as per *message* with a *suggestion* for one creature.
 - **[Detect Anxieties](detect-anxieties.md)**: Learn what makes creatures anxious.
 - **[Discern Value](discern-value.md)**: Reveals which objects in a cone are most valuable.
+- **[Discharge](discharge.md)**: Drain charges from a technological object.
 - **[Dispel Magic](dispel-magic.md)**: Cancels one magical spell or effect.
 - **[Displacement](displacement.md)**: Attacks miss subject 50% of the time.
 - **[Disrupt Link](disrupt-link.md)**: Sever the link between a creature and her companion or familiar.
@@ -346,6 +350,7 @@
 - **[Quieting Weapons](quieting-weapons.md)**: Weapons make no sound and quiet their victims.
 - **[Rainbow Pattern](rainbow-pattern.md)**: Lights fascinate 24 HD of creatures.
 - **[Red Hand of the Killer](red-hand-of-the-killer.md)**: Stain the hand of a creature’s killer red.
+- **[Remove Radioactivity](remove-radioactivity.md)**: Cure radiation effects.
 - **[Repel Vermin](repel-vermin.md)**: Insects, spiders, and other vermin stay 10 ft. away.
 - **[Secure Shelter](secure-shelter.md)**: Creates sturdy cottage.
 - **[Shadow Conjuration](shadow-conjuration.md)**: Mimics conjuration below 4th level, but only 20% real.
@@ -412,6 +417,7 @@
 - **[Cure Moderate Wounds, Mass](cure-moderate-wounds-mass.md)**: Cures 2d8 damage + 1/level, affects 1 subject/level.
 - **[Demanding Message, Mass](demanding-message-mass.md)**: Send messages as per *message* with one *suggestion* for each creature.
 - **[Dirge of the Victorious Knights](dirge-of-the-victorious-knights.md)**: Spectral mounted knights trample foes in a line.
+- **[Discharge, Greater](discharge-greater.md)**: Discharge many objects or an area.
 - **[Dream Council](dream-council.md)**: Communicate with multiple sleeping creatures.
 - **[Dream Scan](dream-scan.md)**: Read a dreaming creature’s thoughts.
 - **[Eagle’s Splendor, Mass](eagles-splendor-mass.md)**: As *eagle’s splendor*, affects 1 subject/level.

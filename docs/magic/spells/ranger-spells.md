@@ -21,6 +21,7 @@
 - **[Desperate Weapon](desperate-weapon.md)**: Create an improvised weapon.
 - **[Detect Animals or Plants](detect-animals-or-plants.md)**: Detects kinds of animals or plants.
 - **[Detect Poison](detect-poison.md)**: Detects poison in one creature or object.
+- **[Detect Radiation](detect-radiation.md)**: See radioactive auras.
 - **[Detect Snares and Pits](detect-snares-and-pits.md)**: Reveals natural or primitive traps.
 - **[Detect the Faithful](detect-the-faithful.md)**: Find others of the same faith.
 - **[Dream Feast](dream-feast.md)**: A dream feast sates the sleeper.
@@ -199,6 +200,7 @@
 - **[Nondetection](nondetection.md)**: Hides subject from divination, scrying.
 - **[Overwhelming Poison](overwhelming-poison.md)**: Make a poison more difficult to resist.
 - **[Phantom Hunt](phantom-hunt.md)**: You and your companion gain senses, speed, and fast tracking.
+- **[Remove Radioactivity](remove-radioactivity.md)**: Cure radiation effects.
 - **[Sea Stallion](sea-stallion.md)**: You and your mount adapt to an aquatic environment.
 - **[Sickening Strikes](sickening-strikes.md)**: You are imbued with disease, and any creature you strike with a melee attack must make a Fortitude save or be.
 - **[Sturdy Tree Fort](sturdy-tree-fort.md)**: Create a tree with a defensive fort within it.

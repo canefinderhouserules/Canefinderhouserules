@@ -210,6 +210,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Detect Anxieties](detect-anxieties.md)**: Learn what makes creatures anxious.
 - **[Detect Desires](detect-desires.md)**: Learn what creatures desire.
 - **[Detoxify](detoxify.md)**: Neutralize a creature’s poison attacks.
+- **[Discharge](discharge.md)**: Drain charges from a technological object.
 - **[Drain Poison](drain-poison.md)**: Drain a creature's poison onto your weapon.
 - **[Earth Tremor](earth-tremor.md)**: Unleash a tremor that creates difficult terrain and can knock foes down and damage them.
 - **[Eldritch Fever](eldritch-fever.md)**: Target gains the eldritch ague spellblight.
@@ -229,6 +230,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Inflict Pain](inflict-pain.md)**: Target takes a –4 penalty on attack rolls, skill checks, and ability checks.
 - **[Insect Scouts](insect-scouts.md)**: Vermin investigate a location and grant rerolls on related skill checks.
 - **[Iron Stake](iron-stake.md)**: Hurl a spike of cold iron at a foe.
+- **[Irradiate](irradiate.md)**: Flood an area with radiation.
 - **[Ki Leech](ki-leech.md)**: Add to your ki pool when you critically hit.
 - **[Loathsome Veil](loathsome-veil.md)**: Nauseates and/or sickens weak creatures.
 - **[Locate Weakness](locate-weakness.md)**: You roll damage twice when you roll damage for a critical hit and take the best damage.
@@ -308,6 +310,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Object Possession, Lesser](object-possession-lesser.md)**: Project your soul into an object, animating it.
 - **[Phantasmal Asphyxiation](phantasmal-asphyxiation.md)**: Trick a creature into thinking it can’t breathe.
 - **[Purge Spirit](purge-spirit.md)**: Deal 1d6 points of damage per level to one haunt or spirit creature and stagger it.
+- **[Remove Radioactivity](remove-radioactivity.md)**: Cure radiation effects.
 - **[Repugnant Taste](repugnant-taste.md)**: Creatures that bite or swallow the target become nauseated.
 - **[Resilient Reservoir](resilient-reservoir.md)**: School transmutation; Level magus 3, paladin 3, sorcerer/wizard 4, witch 4 Casting Time 1 standard action.
 - **[Ride the Waves](ride-the-waves.md)**: Target can breathe water and swim.
@@ -398,6 +401,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Curse of the Outcast](curse-of-the-outcast.md)**: Curse someone to rub people the wrong way.
 - **[Curse Terrain, Greater](curse-terrain-greater.md)**: Curse an area with six dangerous hazards.
 - **[Delectable Flesh](delectable-flesh.md)**: Creatures near the target become depraved and attack it to feast.
+- **[Discharge, Greater](discharge-greater.md)**: Discharge many objects or an area.
 - **[Dust Form](dust-form.md)**: You become an incorporeal creature of dust for a short period of time.
 - **[Eldritch Conduit, Greater](eldritch-conduit-greater.md)**: Use multiple enemies as origin points for area spells.
 - **[Epidemic](epidemic.md)**: Infect a subject with a highly contagious disease.
@@ -441,6 +445,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Hunger for Flesh, Mass](hunger-for-flesh-mass.md)**: Give creatures bite attacks and a hunger for their own kind’s flesh.
 - **[Ice Body](ice-body.md)**: Your body becomes living ice.
 - **[Inflict Pain, Mass](inflict-pain-mass.md)**: As inflict pain, but affecting one creature per level.
+- **[Infuse Robot](infuse-robot.md)**: Turn a robot into a magical construct you command.
 - **[Insect Spies, Greater](insect-spies-greater.md)**: Use magic beetles as spies and also share their senses.
 - **[Lunar Veil](lunar-veil.md)**: Dispel light and revert lycanthropes.
 - **[Maddening Oubliette](maddening-oubliette.md)**: Send a creature to a maddening demiplane prison.
@@ -473,6 +478,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Nine Lives](nine-lives.md)**: School abjuration; Level cleric 8, witch 8 Casting Time 1 standard action Range touch Target one creature.
 - **[Possession, Greater](possession-greater.md)**: As possession, but your body vanishes.
 - **[Prediction of Failure](prediction-of-failure.md)**: Target is permanently shaken and sickened, and may gain a spellblight.
+- **[Remove Radioactivity, Greater](remove-radioactivity-greater.md)**: Cure all radiation damage; deplete radioactive objects.
 - **[Share Skin, Greater](share-skin-greater.md)**: Possess any creature as with magic jar.
 - **[Symbol of Debauchery](symbol-of-debauchery.md)**: Symbol that fills creatures with lust.
 - **[Symbol of Dispelling](symbol-of-dispelling.md)**: Symbol that dispels magic in an area.

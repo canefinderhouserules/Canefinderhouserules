@@ -229,6 +229,7 @@ New inquisitor spells from *Ultimate Magic*. Spells from other books will be add
 - **[Protection from Energy, Communal](protection-from-energy-communal.md)**: As protection from energy, but you may divide the duration among creatures touched.
 - **[Quieting Weapons](quieting-weapons.md)**: Weapons make no sound and quiet their victims.
 - **[Red Hand of the Killer](red-hand-of-the-killer.md)**: Stain the hand of a creature’s killer red.
+- **[Remove Radioactivity](remove-radioactivity.md)**: Cure radiation effects.
 - **[Replay Tracks](replay-tracks.md)**: Reconstruct past events from a set of tracks.
 - **[Reprobation](reprobation.md)**: Marked target is shunned by your religion.
 - **[Sessile Spirit](sessile-spirit.md)**: Cause a spirit inhabiting a creature or an object to go dormant.

@@ -162,6 +162,7 @@
 - **[Paragon Surge](paragon-surge.md)**: You surge with ancestral power, temporarily embodying all the strengths of both elvenkind and humankind.
 - **[Purify Body](purify-body.md)**: Heals, grants temporary hit points, and removes pain, ability damage, and conditions.
 - **[Red Hand of the Killer](red-hand-of-the-killer.md)**: Stain the hand of a creature’s killer red.
+- **[Remove Radioactivity](remove-radioactivity.md)**: Cure radiation effects.
 - **[Restoration](restoration.md)**: Restores level and ability score drains.
 - **[Sacred Nimbus](sacred-nimbus.md)**: Holy energy damages evil creatures that attack you and protects you from evil attacks.
 - **[Sea Stallion](sea-stallion.md)**: You and your mount adapt to an aquatic environment.

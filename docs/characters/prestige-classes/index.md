@@ -142,6 +142,8 @@ The prestige classes presented in this chapter are summarized below.
 
 **[Sworn Guard](sworn-guard.md)**: A barbarian bodyguard whose rage and fierce loyalty protect a chosen ally.
 
+**[Technomancer](technomancer.md)**: An arcane caster who blends magic and super-science.
+
 **[Twilight Knight](twilight-knight.md)**: A deep-cover spy with disguise magic, improvised weapons, and a dead-drop network.
 
 **[Veiled Illusionist](veiled-illusionist.md)**: An illusionist who masters glamers and shifts between racial veils.
