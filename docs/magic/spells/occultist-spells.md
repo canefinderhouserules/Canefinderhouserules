@@ -59,9 +59,11 @@ Occultists gain access to the following spells, determined by their chosen imple
 
 - Abjuring Step
 - **[Alarm](alarm.md)**: Wards an area for 2 hours/level.
+- **[Grappling Scarf](grappling-scarf.md)**: Your scarf becomes a grappling hook and rope.
 - **[Hex Ward](hex-ward.md)**: Target gains +4 on saves against witch hexes.
 - **[Hold Portal](hold-portal.md)**: Holds door shut.
 - Peacebond
+- **[Sculpted Cape](sculpted-cape.md)**: Your cape stiffens and holds its shape.
 - **[Shield](shield.md)**: Invisible disc gives +4 to AC, blocks *magic missiles.*
 - Shock Shield
 - Warding Weapon
@@ -169,13 +171,17 @@ Occultists gain access to the following spells, determined by their chosen imple
 
 **Abjuration**:
 
+- **[Allied Cloak](allied-cloak.md)**: Animate your cloak to shield you and aid your actions.
 - **[Arcane Lock](arcane-lock.md)**: Magically locks a portal or chest.
 - Bullet Shield
+- **[Billowing Skirt](billowing-skirt.md)**: A skirt or gown slows your fall.
 - **[Conditional Favor](conditional-favor.md)**: Provide another spell whose effects reverse if the target breaks a restriction.
 - **[Crimson Confession](crimson-confession.md)**
 - **[Node of Blasting](node-of-blasting.md)**: Place a trap on an object to mentally damage a creature that touches it.
 - **[Obscure Object](obscure-object.md)**: Masks object against scrying.
 - **[Resist Energy](resist-energy.md)**: Ignores 10 (or more) points of damage/attack from specified energy type.
+- **[Restful Cloak](restful-cloak.md)**: Turn your cloak into a healing tent.
+- **[Surefoot Boots](surefoot-boots.md)**: Footwear grants perfect balance.
 - **[With the Wind](with-the-wind.md)**: Protect a target from being blown away by wind of less than windstorm force.
 
 **Conjuration**:

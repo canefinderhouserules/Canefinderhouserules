@@ -51,3 +51,102 @@ You can use these tricks with any wondrous item that can be worn in a specific m
 **Counter Dispelling (Spellcraft 3 ranks)**: When a foe attempts a dispel check, such as via *dispel magic*, against either a wondrous item that you are currently wearing or wielding or a spell effect created by such an item, you can use your ranks in Use Magic Device as the item's caster level instead of its actual caster level when calculating the dispel check DC. You must be aware of the spell that is being cast and identify it with a successful Spellcraft check in order to receive this benefit.
 
 **Favored Item (Magical Aptitude)**: Once per day, you can spend 1 hour practicing with a wondrous item to designate it as your favored item for that day. If the favored item functions for a specific number of rounds or minutes per day greater than 1 round or 1 minute, you increase the maximum number of rounds or minutes it can function that day by an amount equal to half your ranks in Use Magic Device (minimum 1 round).
+
+## Ladder Tricks
+
+Ladders are not a common adventuring staple due to their cumbersome size. Yet some adventurers who take ladders with them into the field use them to great effect. You must have the Equipment Trick (ladder) feat to use these tricks.
+
+**Guarding Ladder (Combat Expertise, Combat Reflexes)**: You can hold a ladder in one hand and treat it as a heavy wooden shield with the fragile special feature. While holding a ladder, you can use the aid another action (or related abilities, such as the Bodyguard feat) to improve the AC of an ally up to 10 feet away.
+
+**Ladder Fighter (Catch Off-Guard)**: You treat a ladder as a quarterstaff with the fragile and trip special features, and you can apply feats and abilities as if it were a quarterstaff (for example, a monk can use a ladder to perform a flurry of blows).
+
+**Ladder Lock (Improved Dirty Trick)**: When you successfully perform a dirty trick combat maneuver against an adjacent opponent while you are holding a ladder, you can trap your target’s limbs between the rungs of the ladder. Your target gains the entangled condition in addition to the normal condition imposed by your dirty trick, and for the same duration. If the target removes the other condition, it also removes the entangled condition, and vice versa.
+
+**Vaulting Ladder (Acrobatics 3 ranks, Climb 3 ranks, or Acrobatic)**: You can climb the length of a ladder as part of a running jump, gaining a +4 circumstance bonus on your Acrobatics check and adding the ladder’s length to the total distance you travel with your jump. You must let go of the ladder when you jump.
+
+## Lantern Tricks
+
+Lanterns come in a variety of shapes and sizes. Each of these tricks can be performed with any sort of lantern or lamp, except when a specific kind of lamp is indicated in the description. You must have the Equipment Trick (lantern) feat to use these tricks.
+
+**Intensified Oil (Craft [alchemy] 3 ranks)**: You can combine three flasks of oil into a single use of improved oil as you add it to a lamp or lantern. This improved oil causes the lamp or lantern to which it is added to burn more brightly than usual, increasing its light range by 50%. This improved oil can only be used in the lamp or lantern it’s mixed in and has no additional special effects.
+
+**Lantern Bash (Shield Focus)**: If you carry a lamp or lantern in the hand you use to wield a light shield, your shield bash attacks with that shield deal an additional 1 point of fire damage.
+
+**Lantern Bomb (Quick Draw)**: You can throw a lamp or lantern with at least 4 hours of oil remaining in it as a splash weapon, using the rules for alchemist’s fire.
+
+**Lesser Light (no additional prerequisites)**: When lighting a lamp or lantern, you reduce the size of its flame to provide only dim light in the area in which the lantern usually provides normal light. The lamp or lantern uses oil at half the usual rate. The lamp or lantern must be extinguished and re-lit to shed light normally.
+
+**Oil Splash (Improved Dirty Trick)**: You can attempt a dirty trick combat maneuver against an opponent while either you or the opponent is holding a lamp or lantern. If you succeed at this combat maneuver check, you can knock some oil from the lamp or lantern into your target’s face. Your target is blinded as normal by the dirty trick and takes 1 point of fire damage each round the blindness lasts.
+
+## Mirror Tricks
+
+Adventurers carry mirrors for many unconventional uses. You may perform the following tricks with a mirror or, at the GM’s discretion, with a similarly reflective handheld item, such as a highly polished piece of metal. You must have the Equipment Trick (mirror) feat to use these tricks.
+
+**Blinding Light (Sleight of Hand 3 ranks)**: When in an area of normal or bright light, you can use a mirror held in your hand to shine light into the eyes of a creature within 10 feet as a move action. The target must succeed at a Fortitude save (DC = 10 + your ranks in Sleight of Hand) or be dazzled for 1 round.
+
+**Bold Presentation (Knowledge [religion] 5 ranks)**: You can use a move action (rather than a standard action) to use a mirror to hold at bay a creature susceptible to mirrors (such as a vampire).
+
+**Reflect Gaze (Combat Reflexes)**: As an immediate or swift action, you can use a mirror to reflect a gaze attack. You must either be looking at the creature with the gaze attack or averting your eyes to use this ability, and you must succeed at your saving throw to resist the creature’s gaze attack (if you don’t avoid the need to attempt a saving throw by averting your eyes). If you reflect the creature’s gaze back at it, the creature must succeed at a saving throw to resist its own gaze or lose access to its gaze attack for 1 round. If the creature attempts to gaze at you with its attack action, you may attempt to reflect its gaze back at it, as above, or redirect its gaze to a new target within 30 feet of you. In this case, the new creature is treated as the target of the original gaze (unless it is blindfolded or otherwise unable to see), although it is automatically treated as if it is averting its eyes.
+
+**Telltale Reflection (Spellcraft 3 ranks or racial bonus on saving throws against illusion spells and effects)**: You are familiar with the ways illusions don’t precisely mimic natural objects when reflected. If you see an illusion within 10 feet reflected in a mirror, you count as having studied it carefully for the purposes of attempting a saving throw to disbelieve it.
+
+**Trickster’s Mirror (Spell Focus [illusion])**: You can use a mirror worth at least 10 gp as an additional material component for an illusion (figment) spell. The spell is treated as 1 spell level higher (to a maximum of 9th level) for all purposes, including the calculation of saving throw DCs.
+
+## Pole Tricks
+
+Each of these tricks can be done with a pole or balancing pole, but specific poles have further abilities. You must have the Equipment Trick (pole) feat to use these tricks.
+
+**Pole Trip (Catch Off-Guard or Improved Trip)**: You can treat a pole as an improvised weapon with the reach and trip special features. You can treat an unhinged folding pole as an improvised weapon with the disarm and trip special features. A pole or folding pole used as an improvised weapon deals 1d6 points of bludgeoning damage.
+
+**Seek the Unseen (Perception 1 rank)**: When you attempt to find a creature you cannot see (either because it is invisible, or because you are blind), you can sweep a pole through any two adjacent squares within 10 feet of you as a standard action. Make a melee attack against an AC of 10. If you hit, and if a creature you cannot see is in the designated area, you deal no damage but have successfully pinpointed the creature’s current location.
+
+**Wall Climb (Climb 3 ranks)**: You can climb narrow passageways if your pole can reach a wall or other solid surface on both sides, bracing yourself and scooting the pole further along the surface as you climb. This method is reliable but laborious; you gain a +10 circumstance bonus on your Climb checks to climb in this manner, but you climb at half the usual speed.
+
+## Instrument Tricks
+
+Bards and other musicians must sometimes improvise more than their music. These instrument tricks expand any musical instrument’s uses. Some tricks might be unusable for certain instruments at the GM’s discretion; for example, an organ is too unwieldy to use as an improvised weapon. You must have the Equipment Trick (instrument) feat to use these tricks.
+
+**Attention Grabber (Perform 5 ranks, Bluff 5 ranks or bardic performance or raging song class feature)**: Your loud or discordant performance covers your allies’ movements. Creatures within 30 feet of you that can hear you play an instrument take a –2 penalty on Perception checks, other than Perception checks made in response to your actions, for as long as you play.
+
+**Goad Animal (Handle Animal 5 ranks or Animal Affinity)**: You can use your soothing performance to handle an animal that is friendly toward you, such as a mount or pet. When playing your instrument, commanding the animal to perform a trick it knows is a free action, and pushing it to perform a trick it does not know is a standard action. If you already can make an animal respond more quickly, such as with the link ability of an animal companion, this trick provides no benefit.
+
+**Jaw-Dropping Distraction (Perform 7 ranks, Bluff 7 ranks or bardic performance or raging song class feature)**: When using your instrument, you can attempt a Perform check instead of a Bluff check to feint an opponent. If you succeed, the creature is denied its Dexterity bonus to AC against one target of your choosing (other than you) until the beginning of your next turn. Once you have used this trick against a creature, whether or not you succeeded at the check, you cannot use this trick to feint the creature for 24 hours. Creatures with uncanny dodge are immune to this trick.
+
+**Play to the Crowd (Perform 3 ranks, Diplomacy 3 ranks or bardic performance or raging song class feature)**: You can use Perform, rather than Diplomacy, to improve an NPC’s initial attitude toward you as long as you are able to perform for at least 1 minute. You cannot use this trick to increase the NPC’s attitude beyond friendly.
+
+**Ruffian’s Riff (Catch Off-Guard)**: You can treat a musical instrument as an improvised weapon with the performance special feature. When you use a masterwork musical instrument as an improvised weapon, you treat it as a masterwork weapon (adding a +1 enhancement bonus on your attack rolls). Your attacks with a magical musical instrument are treated as magic for the purpose of overcoming damage reduction.
+
+## Smokestick Tricks
+
+You must have the Equipment Trick (smokestick) feat to use these tricks.
+
+**Choking Smoke (Improved Dirty Trick)**: When you perform a successful dirty trick combat maneuver while holding a lit smokestick, you can shove the smokestick into your opponent’s mouth (or other breathing apparatus) to impair its breathing. The affected creature begins choking and sputtering, gaining the sickened condition. Unlike a normal dirty trick, the foe must succeed at a Fortitude save to remove this condition, in addition to spending an action. The DC of this Fortitude save is equal to 10 + half your base attack bonus + any bonus you add to dirty trick combat maneuvers (such as that granted by Improved Dirty Trick). This condition ends after 1 minute, if not removed sooner. Creatures that do not breathe are immune to this effect.
+
+**Slow Burn (Craft [alchemy] 1 rank)**: You can burn a smokestick just slowly enough to not consume it immediately. You must choose to use this trick when you light a smokestick. A slow-burning smokestick is not consumed after 1 round, and the smoke produced only lasts for 1 round. For the next hour, as a swift action when you are holding a slow-burning smokestick, you can use the smokestick to produce a cloud of smoke that lasts for only 1 round. The slow-burning smokestick lasts for 1 hour or until you have created a total of 10 clouds, at which point it is consumed.
+
+**Smoke Shadow (Craft [alchemy] 1 rank; Skill Focus [Stealth] or Stealthy)**: You can use a slow-burning smokestick (using the slow burn trick) to conceal your motions while sneaking. While your smokestick is slow-burning, whenever a creature would succeed at an opposed Perception check against your Stealth check, you can emit a puff of smoke as an immediate action to hide your presence. When you do, the creature must reroll its Perception check and take the second result, even if it is worse. Even if the creature fails this Perception check, it is aware of your general location because of the sudden smoke (unless the location is already filled with smoke—like that emitted by the normal use of a smokestick—or fog).
+
+**Smoke Strike (Craft [alchemy] 1 rank, Improved Feint)**: You can use a slow-burning smokestick (using the slow burn trick) to distract foes from your strikes. As a swift action when you are holding a slow-burning smokestick, instead of producing a cloud with the slow burn trick, you can create a small, dense burst of smoke in an adjacent foe’s face. This allows you to feint as part of that swift action.
+
+## Tanglefoot Bag Tricks
+
+You must have the Equipment Trick (tanglefoot bag) feat to use these tricks. At your GM’s discretion, you may be able to use some of these tricks with a tangleburn bag, but at the risk of dealing fire damage to connected items or creatures.
+
+**Captivating Embrace (Improved Grapple)**: When you successfully grapple a creature, you burst a tanglefoot bag to stick yourself to your target. You must have the tanglefoot bag in hand to use this ability unless you have the Quick Draw feat (in which case the tanglefoot bag must be easily accessible on your person). While the tanglefoot bag’s effect lasts, you do not take a penalty to grapple checks for not having two hands free, and your opponent takes a –4 penalty on combat maneuver checks and Escape Artist checks to break the grapple.
+
+**Sticky Bombs (Quick Draw, Throw Anything)**: When you throw an alchemical item, you can attach a tanglefoot bag to it as you throw it; this does not require an additional action. On a hit, the target is affected by the tanglefoot bag, with the alchemical item firmly stuck in the goo. The item stays in the target’s square as long the tanglefoot bag’s effect lasts, making this most useful with items that don’t immediately take effect, such as darkflares or fuse grenades.
+
+**Thieving Shield (Shield Focus or armor training class feature)**: As an immediate action, you can splatter a tanglefoot bag on your shield, making it sticky. Your shield gains the grapple weapon quality when used as a weapon with a shield bash attack. In addition, the first time each round an attack with a manufactured weapon misses you by 4 or less, you can make a free disarm attempt against that weapon. This disarm attempt does not provoke an attack of opportunity. Your shield remains sticky for 2d4 rounds, after which it must be cleaned (a full-round action) before you can use this trick again.
+
+## Thunderstone Tricks
+
+You must have the Equipment Trick (thunderstone) feat to use these tricks.
+
+**Deafening Component (ability to create bombs or cast any spell with the electricity, fire, or sonic descriptor)**: You can add a thunderstone as an additional material component to any spell you cast with the electricity, fire, or sonic descriptor, or to any bomb you throw. Any creature damaged by that spell or bomb must also succeed at a DC 15 Fortitude save or be deafened for 1 hour.
+
+**Evolve Resilience (Knowledge [arcana] 1 rank, eidolon class feature)**: Your eidolon can consume a thunderstone as a standard action to bolster its resilience against certain effects. For 1 hour, your eidolon gains the resistance evolution (electricity or sonic only). Your eidolon cannot gain both resistances from this trick at the same time. During this time, the eidolon is immune to the effects of thunderstones.
+
+**Startling Noise (Stealth 3 ranks or stalker vigilante specialization)**: Any creature that is completely unaware of your presence takes a –4 penalty on saving throws against thunderstones you use and, if deafened, takes an amount of nonlethal damage equal to your number of sneak attack or hidden strike dice (if any).
+
+**Thunderclap (Weapon Focus [any hammer])**: Your thunderstones enhance the concussive force of hammers you wield. This trick only works with hammers to which your Weapon Focus feat applies. As a move action, you can wedge a thunderstone in place on your hammer’s striking surface. When you hit a foe with that hammer, the thunderstone detonates. You gain a +4 bonus on your saving throw against the thunderstone’s effect (if necessary), and your foe takes a –4 penalty on its saving throw against the thunderstone’s effect.
+

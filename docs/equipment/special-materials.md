@@ -64,3 +64,29 @@ Alchemical silver has 10 hit points per inch of thickness and hardness 8.
 | double weapon |  |
 | Two-handed weapon, or both heads of a | +180 gp |
 | double weapon |  |
+
+## Singing Steel
+
+This lustrous golden metal emits beautiful bell-like tones when struck. An alloy of gold and mithral, singing steel is especially popular among bards and other performers for instruments.
+
+A weapon made of singing steel counts as alchemical silver for all purposes, including the –1 penalty on damage rolls with singing steel weapons. Most armor made of singing steel is treated as one category lighter (heavy armors are treated as medium, and medium armors are treated as light, but light armors are still treated as light). The armor or shield’s arcane spell failure chance is reduced by 5%, its maximum Dexterity bonus is increased by 1, and its armor check penalty is reduced by 1 (to a minimum of 0).
+
+When wielding a singing steel weapon, shield, or item weighing at least 5 pounds, or wearing medium or heavy singing steel armor, the wielder or wearer can strike the singing steel as part of beginning a bardic performance. If the wielder can normally start a bardic performance as a standard action, he can do so as a move action instead. If the wielder can normally start a bardic performance as a move action, he can do so as a swift action instead. This ability does not function in the area of a *silence* spell or similar effect. After using the singing steel in this fashion, the steel must be carefully brushed to remove any lingering vibrations, a process that takes 10 minutes.
+
+Singing steel items are always masterwork; this cost is included in the price. Singing steel has 20 hp per inch of thickness and hardness 10. Although formed partially from mithral, singing steel items weigh as much as their normal counterparts.
+
+| Type of Singing-Steel Item | Item Price Modifier |
+|---|---|
+| Light armor | +750 gp |
+| Medium armor | +9,000 gp |
+| Heavy armor | +12,000 gp |
+| Shield | +7,000 gp |
+| Weapon | +6,000 gp |
+| Other items | +600 gp/lb. |
+
+## Sunsilver
+
+An advanced form of alchemical silver, sunsilver is a favorite of desert war smiths. A weapon made of sunsilver counts as alchemical silver for all purposes. Items not primarily made of metal are not meaningfully affected by being partially made of sunsilver. (For example, a scimitar or breastplate can be made of sunsilver, while a quarterstaff or hide armor cannot.) In addition, items made of sunsilver are immune to rust effects (such as *rusting grasp*). While in an area of bright light, a shield or suit of armor made of sunsilver shines brightly, allowing the wearer to reflect light at nearby foes as a move action. When she does so, creatures adjacent to the wearer must succeed at a DC 12 Fortitude save or be dazzled for 1 round.
+
+Armor and weapons made of sunsilver are always masterwork. To determine the price of a sunsilver item, add 25 gp per pound to the price of a masterwork version of that item. Sunsilver has 10 hit points per inch of thickness and hardness 8.
+

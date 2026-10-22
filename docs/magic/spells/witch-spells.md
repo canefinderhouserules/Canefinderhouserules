@@ -44,6 +44,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Remove Sickness](remove-sickness.md)**: Suppress disease, nausea, and the sickened condition.
 - **[Restore Corpse](restore-corpse.md)**: Skeletal corpse grows flesh.
 - **[Sanctify Corpse](sanctify-corpse.md)**: Prevent a corpse from becoming an undead.
+- **[Sculpted Cape](sculpted-cape.md)**: Your cape stiffens and holds its shape.
 - **[Shadow Weapon](shadow-weapon.md)**: Create a quasi-real masterwork weapon.
 - **[Snowball](snowball.md)**: Throw a conjured ball of snow at a target.
 - **[Sow Thought](sow-thought.md)**: School enchantment (compulsion) [mind-affecting]; Level bard 1, sorcerer/wizard 1, witch 1 Casting Time 1.
@@ -73,6 +74,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Arcane Disruption](arcane-disruption.md)**: Subject must make concentration checks to use arcane magic.
 - **[Bestow Insight](bestow-insight.md)**: Component V, S Range touch Target one creature touched Duration 1 minute/level When casting this spell.
 - **[Bestow Weapon Proficiency](bestow-weapon-proficiency.md)**: Grants a creature proficiency in a single weapon for short period of time.
+- **[Billowing Skirt](billowing-skirt.md)**: A skirt or gown slows your fall.
 - **[Binding Earth](binding-earth.md)**: If the target of this spell fails its Fortitude save, areas of earth and stone floor act as a snapping.
 - **[Blood Blaze](blood-blaze.md)**: School transmutation [fire]; Level alchemist 2, antipaladin 1, cleric 2, magus 2, sorcerer/wizard 2, witch 2.
 - **[Blood Transcription](blood-transcription.md)**: Learn a spell from the target’s blood.

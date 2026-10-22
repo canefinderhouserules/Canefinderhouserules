@@ -43,6 +43,7 @@ New summoner spells from *Ultimate Magic*. Spells from other books will be added
 ## 3rd-Level Summoner Spells
 
 - **[Agonize](agonize.md)**: Pain encourages an outsider to obey you.
+- **[Allied Cloak](allied-cloak.md)**: Animate your cloak to shield you and aid your actions.
 - **[Apport Animal](apport-animal.md)**: Send or receive a Tiny or smaller animal via teleportation.
 - **[Assume Appearance](assume-appearance.md)**: Use a creature’s corpse to adopt its form.
 - **[Conjuration Foil](conjuration-foil.md)**: Interfere with nearby teleportation effects.

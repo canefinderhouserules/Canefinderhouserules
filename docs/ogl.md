@@ -93,3 +93,5 @@ The following text is the property of Wizards of the Coast, Inc. and is Copyrigh
     Pathfinder Player Companion: Champions of Corruption © 2014, Paizo Inc.; Authors: Paris Crenshaw, Jim Groves, Sean McGowen, and Philip Minchin.
 
     Pathfinder Companion: Adventurer’s Armory. Copyright 2010, Paizo Publishing, LLC; Authors: Jonathan Keith, Hal Maclean, Jeff Quick, Christopher Self, JD Wiker, and Keri Wiker.
+
+    Pathfinder Player Companion: Adventurer’s Armory 2 © 2017, Paizo Inc.; Authors: Jenny Jarzabski, Mikko Kallio, Isabelle Lee, Luis Loza, Joe Pasini, David N. Ross, and Linda Zayas-Palmer.

@@ -48,6 +48,7 @@
 - **[Expeditious Retreat](expeditious-retreat.md)**: Your base land speed increases by 30 ft.
 - **[Fabricate Disguise](fabricate-disguise.md)**: Create a disguise in an instant.
 - **[Feather Fall](feather-fall.md)**: Objects or creatures fall slowly.
+- **[Grappling Scarf](grappling-scarf.md)**: Your scarf becomes a grappling hook and rope.
 - **[Grease](grease.md)**: Makes 10-ft. square or one object slippery.
 - **[Hideous Laughter](hideous-laughter.md)**: Subject loses actions for 1 round/ level.
 - **[Hypnotism](hypnotism.md)**: Fascinates 2d4 HD of creatures.
@@ -67,6 +68,7 @@
 - **[Quintessence](quintessence.md)**: Mask any flaws of or damage to a creature or object.
 - **[Recharge Innate Magic](recharge-innate-magic.md)**: You channel magic energy into your own aura, recharging your innate magic abilities.
 - **[Remove Fear](remove-fear.md)**: Suppresses fear or gives +4 on saves against fear for one subject + one per four levels.
+- **[Sculpted Cape](sculpted-cape.md)**: Your cape stiffens and holds its shape.
 - **[See Alignment](see-alignment.md)**: Pick an alignment; in your sight, creatures and items with that alignment emit a ghostly radiance.
 - **[Silent Image](silent-image.md)**: Creates minor illusion of your design.
 - **[Sleep](sleep.md)**: Puts 4 HD of creatures into magical slumber.
@@ -93,6 +95,7 @@
 - **[Aversion](aversion.md)**: Cause the target to avoid an object or location.
 - **[Babble](babble.md)**: Target becomes nauseated and nearby creatures become fascinated.
 - **[Bestow Insight](bestow-insight.md)**: Component V, S Range touch Target one creature touched Duration 1 minute/level When casting this spell.
+- **[Billowing Skirt](billowing-skirt.md)**: A skirt or gown slows your fall.
 - **[Blindness/Deafness](blindness-deafness.md)**: Makes subject blind or deaf.
 - **[Blistering Invective](blistering-invective.md)**: Make an Intimidate check against all foes within 30 feet; those demoralized also take fire damage.
 - **[Blur](blur.md)**: Attacks miss subject 20% of the time.
@@ -173,6 +176,7 @@
 ## 3rd-Level Bard Spells
 
 - **[Accept Affliction](accept-affliction.md)**: Transfer an affliction or condition from a creature to yourself.
+- **[Allied Cloak](allied-cloak.md)**: Animate your cloak to shield you and aid your actions.
 - **[Alpha Instinct](alpha-instinct.md)**: Gain bonuses when you’re interacting with animals.
 - **[Assume Appearance](assume-appearance.md)**: Use a creature’s corpse to adopt its form.
 - **[Audiovisual Hallucination](audiovisual-hallucination.md)**: Create a phantasm with auditory and visual effects.

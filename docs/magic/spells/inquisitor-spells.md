@@ -14,6 +14,7 @@ New inquisitor spells from *Ultimate Magic*. Spells from other books will be add
 - **[Fabricate Disguise](fabricate-disguise.md)**: Create a disguise in an instant.
 - **[Forbid Action](forbid-action.md)**: Target obeys command to not do something.
 - **[Forced Quiet](forced-quiet.md)**: Target cannot make loud noises.
+- **[Grappling Scarf](grappling-scarf.md)**: Your scarf becomes a grappling hook and rope.
 - **[Handy Grapnel](handy-grapnel.md)**: Transform a ropelike object into a retracting grapple.
 - **[Hedging Weapons](hedging-weapons.md)**: Floating weapons protect you and make ranged attacks.
 - **[Hex Ward](hex-ward.md)**: Target gains +4 on saves against witch hexes.
@@ -46,6 +47,7 @@ New inquisitor spells from *Ultimate Magic*. Spells from other books will be add
 - **[Anticipate Thoughts](anticipate-thoughts.md)**: Gain increasing bonuses to AC and on attack rolls and damage rolls against one creature.
 - **[Bestow Insight](bestow-insight.md)**: Component V, S Range touch Target one creature touched Duration 1 minute/level When casting this spell.
 - **[Bestow Weapon Proficiency](bestow-weapon-proficiency.md)**: Grants a creature proficiency in a single weapon for short period of time.
+- **[Billowing Skirt](billowing-skirt.md)**: A skirt or gown slows your fall.
 - **[Blessing of Luck and Resolve](blessing-of-luck-and-resolve.md)**: A favored blessing of halfling clerics, this spell grants its target a +2 morale bonus on saving throws.
 - **[Blistering Invective](blistering-invective.md)**: Make an Intimidate check against all foes within 30 feet; those demoralized also take fire damage.
 - **[Bloodbath](bloodbath.md)**: Cause yourself and enemies to bleed.

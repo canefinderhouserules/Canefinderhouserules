@@ -241,6 +241,10 @@ These traits are associated with magic and focus on spellcasting and manipulatin
 
 **Water-Touched**: You share an affinity with elemental water. You gain DR 1/— against creatures and attacks with the water type.
 
+**Bountiful Herb-Lore**: Once per day after 10 minutes of foraging, you can sprinkle nutritious herbs into a magical consumable item (such as a *potion of cure light wounds*). If the item is consumed within 1 minute, it provides nourishment as if it were a normal meal to the creature that partakes of it.
+
+**Eye for the Wondrous**: Your experience with magic items clues you in to their properties more quickly than others. You can identify the properties of a magic item using *detect magic* in 1 round.
+
 ## Social Traits
 
 Social traits reflect your upbringing; your background in high society or lack thereof; and your history with respect to your parents, siblings, friends, competitors, and enemies.
@@ -331,6 +335,12 @@ Social traits reflect your upbringing; your background in high society or lack t
 
 **Worldly**: You have acquired an unusual breadth of life experience—more than others of your age, race, or culture. Once per day when attempting a skill check for a skill you’re untrained in, you can roll twice and take the better result.
 
+**Amiable Briber**: Your attempts to bribe others usually come off as playful or as a gag. The first time someone refuses a bribe you offer, that person’s attitude toward you doesn’t worsen, even if the offer would normally offend the person (as though you had failed a Diplomacy check by 5 or more).
+
+**Gifted Smuggler**: You have a knack for hiding goods on your person. Any small object you attempt to hide on your body is treated as an extraordinarily small object for the purpose of Sleight of Hand checks.
+
+**Master Messenger**: Your secret messages are rarely misunderstood. If you fail your Bluff check to pass a simple message by 5 or more, you deliver no message instead of delivering the wrong message.
+
 ## Equipment Traits
 
 Equipment traits are keyed to specific types of equipment. They represent an unusual knack for a particular kind of equipment (such as splash weapons) or for a specific item (such as a family heirloom sword).
@@ -360,6 +370,8 @@ Equipment traits are keyed to specific types of equipment. They represent an unu
 **Stealthy Escape**: When trying to escape manacles, rope, or other similar restraints (but not grapples or similar attacks), you may make a Sleight of Hand check instead of your Escape Artist modifier. If you free yourself, you gain a +2 trait bonus on Bluff checks to pretend that you are still bound.
 
 **Thrown-Together Fashion**: With a basic sewing kit or disguise kit, you can make a Disguise check to change one outfit into another outfit. The DC of this check is equal to 10 + the gp difference between costs of the outfits. The alteration takes 10 minutes per 1-gp difference in the cost of the outfits.
+
+**Well-Provisioned Adventurer**: You always knew you’d leave your humble beginnings behind and become an adventurer, so you scrimped and saved, buying the necessary equipment one piece at a time until you had everything you needed. Select one of the [equipment packages](../../equipment/equipment-packages.md). If you select this trait during character creation, you do not receive any starting gold.
 
 ## Race Traits
 

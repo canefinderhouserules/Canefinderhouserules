@@ -132,6 +132,7 @@
 - **[Reinforce Armaments, Communal](reinforce-armaments-communal.md)**: As reinforce armaments, but you may divide the duration among objects touched.
 - **[Remove Paralysis](remove-paralysis.md)**: Frees creatures from paralysis or *slow* effect.
 - **[Resist Energy](resist-energy.md)**: Ignores 10 (or more) points of damage/attack from specified energy type.
+- **[Restful Cloak](restful-cloak.md)**: Turn your cloak into a healing tent.
 - **[Restoration, Lesser](restoration-lesser.md)**: Dispels magical ability penalty or repairs 1d4 ability damage.
 - **[Returning Weapon](returning-weapon.md)**: Grants a weapon the returning special weapon quality.
 - **[Sacred Space](sacred-space.md)**: This spell sanctifies an area with heavenly power.

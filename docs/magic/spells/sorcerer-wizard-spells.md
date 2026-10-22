@@ -71,6 +71,7 @@
 - **[Endure Elements](endure-elements.md)**: Exist comfortably in hot or cold regions.
 - **[Fabricate Bullets](fabricate-bullets.md)**
 - **[Fabricate Disguise](fabricate-disguise.md)**: Create a disguise in an instant.
+- **[Grappling Scarf](grappling-scarf.md)**: Your scarf becomes a grappling hook and rope.
 - **[Grasping Corpse](grasping-corpse.md)**: Cause a corpse to grab or trip a foe.
 - **[Handy Grapnel](handy-grapnel.md)**: Transform a ropelike object into a retracting grapple.
 - **[Hide Weapon](hide-weapon.md)**: Meld a weapon into your arm.
@@ -93,6 +94,7 @@
 - **[Quintessence](quintessence.md)**: Mask any flaws of or damage to a creature or object.
 - **[Recharge Innate Magic](recharge-innate-magic.md)**: You channel magic energy into your own aura, recharging your innate magic abilities.
 - **[Reinforce Armaments](reinforce-armaments.md)**: Temporarily mitigates the fragile quality in targeted weapon or armor.
+- **[Sculpted Cape](sculpted-cape.md)**: Your cape stiffens and holds its shape.
 - **[See Alignment](see-alignment.md)**: Pick an alignment; in your sight, creatures and items with that alignment emit a ghostly radiance.
 - **[Shield](shield.md)**: Invisible disc gives +4 to AC, blocks *magic missiles.*
 
@@ -181,6 +183,7 @@
 - **[Arcane Lock](arcane-lock.md)**: Magically locks a portal or chest.
 - **[Bestow Insight](bestow-insight.md)**: Component V, S Range touch Target one creature touched Duration 1 minute/level When casting this spell.
 - **[Bestow Weapon Proficiency](bestow-weapon-proficiency.md)**: Grants a creature proficiency in a single weapon for short period of time.
+- **[Billowing Skirt](billowing-skirt.md)**: A skirt or gown slows your fall.
 - **[Blood Blaze](blood-blaze.md)**: School transmutation [fire]; Level alchemist 2, antipaladin 1, cleric 2, magus 2, sorcerer/wizard 2, witch 2.
 - **[Bloodbath](bloodbath.md)**: Cause yourself and enemies to bleed.
 - **[Body Double](body-double.md)**: Two creatures look alike; attacks may hit the wrong one.
@@ -333,6 +336,7 @@
 
 - **[Ablative Barrier](ablative-barrier.md)**: Surrounds the target with layers of force.
 - **[Accursed Glare](accursed-glare.md)**: Target rolls attacks and saves twice and takes the lower result.
+- **[Allied Cloak](allied-cloak.md)**: Animate your cloak to shield you and aid your actions.
 - **[Ancestral Regression](ancestral-regression.md)**: School transmutation (polymorph); Level alchemist 2, antipaladin 3, cleric 2, sorcerer/wizard 3, witch 2.
 - **[Appearance of Life](appearance-of-life.md)**: Undead appear to be alive.
 - **[Apport Animal](apport-animal.md)**: Send or receive a Tiny or smaller animal via teleportation.

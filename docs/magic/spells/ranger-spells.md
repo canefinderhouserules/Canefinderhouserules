@@ -40,6 +40,7 @@
 - **[Resist Energy](resist-energy.md)**: Ignores 10 (or more) points of damage/attack from specified energy type.
 - **[Returning Weapon](returning-weapon.md)**: Grants a weapon the returning special weapon quality.
 - **[Savage Maw](savage-maw.md)**: Your teeth extend and sharpen, transforming your mouth into a maw of razor-sharp fangs.
+- **[Sculpted Cape](sculpted-cape.md)**: Your cape stiffens and holds its shape.
 - **[Speak with Animals](speak-with-animals.md)**: You can communicate with animals.
 - **[Strong Wings](strong-wings.md)**: School transmutation; Level druid 1, ranger 1, sorcerer/wizard 1, witch 1 Casting Time 1 standard action.
 - **[Summon Nature’s Ally I](summon-natures-ally-i.md)**: Summons creature to fight for you.
@@ -83,6 +84,7 @@
 - **[Quick Change](quick-change.md)**: Use change shape as a swift action and surprise foes.
 - **[Reloading Hands](reloading-hands.md)**: Loads a single shot into your weapon every round.
 - **[Replay Tracks](replay-tracks.md)**: Reconstruct past events from a set of tracks.
+- **[Restful Cloak](restful-cloak.md)**: Turn your cloak into a healing tent.
 - **[Returning Weapon, Communal](returning-weapon-communal.md)**: As returning weapon, but you may divide the duration among weapons touched.
 - **[Ricochet Shot](ricochet-shot.md)**: Imbues a projectile weapon to give its ammunition the ability to ricochet.
 - **[Ropeweave](ropeweave.md)**: Create useful tools from a coil of rope.
@@ -96,6 +98,7 @@
 - **[Speak with Plants](speak-with-plants.md)**: You can talk to plants and plant creatures.
 - **[Spike Growth](spike-growth.md)**: Creatures in area take 1d4 damage, may be slowed*.*
 - **[Summon Nature’s Ally II](summon-natures-ally-ii.md)**: Summons creature to fight for you.
+- **[Surefoot Boots](surefoot-boots.md)**: Footwear grants perfect balance.
 - **[Undetectable Trap](undetectable-trap.md)**: Make a trap extremely difficult to find.
 - **[Venomous Bite](venomous-bite.md)**: Target's bite delivers a stored poison.
 - **[Vine Strike](vine-strike.md)**: Enhance one of your natural or unarmed attacks with thorny vine growth.

@@ -1484,6 +1484,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Ambuscading Spell](ambuscading-spell.md) | — | — |
 | [Ambush Sense](ambush-sense.md) | Combat | Int 13, trap sense class feature |
 | [Amplified Hex](amplified-hex.md) | — | Hex class feature |
+| [Armor Adept](armor-adept.md) | Combat | — |
 | [Bat Shape](bat-shape.md) | — | Cha 13, werebat-kin |
 | [Battle Cry (Surprise Round)](battle-cry-surprise-round.md) | — | Bardic performance class feature |
 | [Bear Hug](bear-hug.md) | Combat | Str 17, Beartrap Bite, Weapon Focus (bite), base attack bonus +8 |
@@ -1508,12 +1509,16 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Conceal Spell](conceal-spell.md) | — | Deceitful, Bluff 1 rank, Disguise 1 rank, Sleight of Hand 1 rank |
 | [Confabulist](confabulist.md) | — | Bluff 9 ranks, Sense Motive 9 ranks |
 | [Cooperative Disabling](cooperative-disabling.md) | Teamwork | Disable Device 1 rank, trapfinding class feature |
+| [Craft Poppet](craft-poppet.md) | Item Creation | Caster level 1st |
 | [Craft Shadow Piercing](craft-shadow-piercing.md) | Item Creation | Craft (jewelry) 5 ranks, caster level 5th |
+| [Creative Armorsmith](creative-armorsmith.md) | Combat | Craft (armor) 3 ranks, Knowledge (engineering) 3 ranks |
+| [Creative Weaponsmith](creative-weaponsmith.md) | Combat | Craft (weapons) 3 ranks, Knowledge (engineering) 3 ranks |
 | [Criminal Reputation](criminal-reputation.md) | — | Diplomacy 5 ranks, Intimidate 5 ranks |
 | [Critical Conduit](critical-conduit.md) | — | Deliver touch spells ability, familiar |
 | [Cunning Intuition](cunning-intuition.md) | Combat | Alertness, Improved Initiative, Lightning Reflexes, Quick Draw, Ready for Anything, base attack bonus +13 or rogue level 13th, Sense Motive 13 ranks |
 | [Cutting Humiliation](cutting-humiliation.md) | — | Persuasive, Intimidate 5 ranks |
 | [Darkness Trick](darkness-trick.md) | — | Use Magic Device 5 ranks, ability to cast *darkness* |
+| [Darting Viper](darting-viper.md) | Combat | Base attack bonus +4, proficiency with the dwarven dorn-dergar |
 | [Dastardly Trick](dastardly-trick.md) | Combat, Panache | Int 13; Amateur Swashbuckler or panache class feature; Combat Expertise; Improved Dirty Trick |
 | [Decoy’s Misdirection](decoys-misdirection.md) | Familiar | Must have a familiar with the decoy archetype |
 | [Dedicated Adversary](dedicated-adversary.md) | Combat | No levels in a class that has the favored enemy class feature |
@@ -1525,6 +1530,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Dirty Disarm](dirty-disarm.md) | Combat | Int 13, Combat Expertise, Improved Dirty Trick, Improved Disarm, base attack bonus +6 |
 | [Dirty Fighting](dirty-fighting.md) | Combat | — |
 | [Dirty Grapple](dirty-grapple.md) | Combat | Dex 13, Int 13, Combat Expertise, Improved Dirty Trick, Improved Grapple, Improved Unarmed Strike, base attack bonus +6 |
+| [Dorn-Dergar Master](dorn-dergar-master.md) | Combat | Two-Weapon Fighting, base attack bonus +4, proficiency with the dwarven dorn-dergar |
 | [Drunkard’s Recovery](drunkard-s-recovery.md) | — | Con 13 |
 | [Eldritch Aid](eldritch-aid.md) | — | Caster level 1st |
 | [Emissary’s Emboldening](emissarys-emboldening.md) | Familiar | Must have a familiar with the emissary archetype |
@@ -1569,12 +1575,14 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Group Deliver Touch Spells](group-deliver-touch-spells.md) | Teamwork | Group Shared Spells, must have a familiar with the share spells and deliver touch spells abilities |
 | [Guardian’s Return](guardians-return.md) | Familiar | Must have a familiar with the protector archetype |
 | [Heroic Legacy](heroic-legacy.md) | — | Base attack bonus +5, good alignment |
+| [Hook Fighter](hook-fighter.md) | Combat | Base attack bonus +1 |
 | [Improved Bravery](improved-bravery.md) | Combat | Cha 13, bravery class feature |
 | [Improved Conceal Spell](improved-conceal-spell.md) | — | Conceal Spell, Deceitful, Bluff 5 ranks, Disguise 5 ranks, Sleight of Hand 10 ranks, ability to cast 3rd-level spells or use a 3rd-level spell-like ability |
 | [Improved Familiar Bond](improved-familiar-bond.md) | — | Familiar Bond, Iron Will |
 | [Improved Legendary Influence](improved-legendary-influence.md) | — | Legendary Influence, lesser spirit power and propitiation class features |
 | [Improved Lookout](improved-lookout.md) | — | Lookout |
 | [Improved Sabotaging Sunder](improved-sabotaging-sunder.md) | Combat | Str 13, Improved Sunder, Power Attack, Sabotaging Sunder, Disable Device 9 ranks |
+| [Improvisational Healer](improvisational-healer.md) | — | Heal 1 rank |
 | [Incite Paranoia](incite-paranoia.md) | Combat | Int 13, Combat Expertise, Deceitful, Greater Feint, Improved Feint, base attack bonus +6 |
 | [Insightful Advice](insightful-advice.md) | — | Perform (oratory) 3 ranks |
 | [Inspired Sneak Attack](inspired-sneak-attack.md) | Combat | Inspiration pool; sneak attack or studied strike class feature |
@@ -1604,6 +1612,9 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Misdirection Attack](misdirection-attack.md) | Combat | Int 13, Combat Expertise, Deceitful, Misdirection Redirection, Misdirection Tactics, Bluff 10 ranks |
 | [Misdirection Redirection](misdirection-redirection.md) | Combat | Int 13, Combat Expertise, Misdirection Tactics, Deceitful, Bluff 10 ranks |
 | [Misdirection Tactics](misdirection-tactics.md) | Combat | Int 13, Combat Expertise, Deceitful, Bluff 4 ranks |
+| [Modification Mastery](modification-mastery.md) | Combat | Creative Armorsmith, Armor Adept, and Craft (armor) 7 ranks, or Creative Weaponsmith, Weapon Adept, and Craft (weapons) 7 ranks; Knowledge (engineering) 7 ranks |
+| [Modification Trainer](modification-trainer.md) | Combat | Cha 13, Armor Adept or Weapon Adept, fighter level 4th |
+| [Modified Weapon Proficiency](modified-weapon-proficiency.md) | Combat | Proficiency with the selected weapon |
 | [Motivating Display](motivating-display.md) | Combat | Cha 13, Dazzling Display, Weapon Focus |
 | [My Blade Is Yours](my-blade-is-yours.md) | Combat, Teamwork | Int 13, Combat Expertise, Sense Motive 3 ranks |
 | [Narrow Frame](narrow-frame.md) | — | Escape Artist 1 rank, animal or magical beast |
@@ -1623,6 +1634,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Play to the Crowd](play-to-the-crowd.md) | — | Int 19, Ironclad Logic, Diplomacy 5 ranks, Sense Motive 5 ranks |
 | [Poison Shot Deed](poison-shot-deed.md) | Grit | Amateur Gunslinger or grit class feature |
 | [Polyglot Familiar](polyglot-familiar.md) | Familiar | Must have a familiar |
+| [Poppet Familiar](poppet-familiar.md) | — | Ability to acquire a new familiar, caster level 3rd |
 | [Powerful Poisoning](powerful-poisoning.md) | — | Power Attack; Craft (poison) 3 ranks or poison use class feature |
 | [Quick Favor](quick-favor.md) | — | Persuasive |
 | [Quick Study](quick-study.md) | Combat | Int 13, bravery +3 class feature, fighter level 10th |
@@ -1679,6 +1691,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Terrifying Assault](terrifying-assault.md) | Combat | Frightening Ambush, Intimidate 5 ranks |
 | [Threatening Negotiator](threatening-negotiator.md) | — | Nerve-Racking Negotiator, Persuasive, Skill Focus (Intimidate) |
 | [Timely Coordination](timely-coordination.md) | Teamwork | — |
+| [Tool Optimizer](tool-optimizer.md) | — | Craft (any) 1 rank, Disable Device 1 rank, or Profession (any) 1 rank |
 | [Totem Beast](totem-beast.md) | — | Wis 13, animal companion class feature |
 | [Treacherous Toxin](treacherous-toxin.md) | — | Base attack bonus +5, sneak attack class feature |
 | [True Deception](true-deception.md) | — | Cha 17, Disguise 17 ranks, master disguise master ninja trick or master of disguise advanced rogue talent, ninja level 10th or rogue level 10th |
@@ -1693,6 +1706,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Virtuous Creed](virtuous-creed.md) | — | Good alignment |
 | [Walking Sleight](walking-sleight.md) | — | Deft Hands, Sleight of Hand 5 ranks |
 | [Wasp Familiar](wasp-familiar.md) | — | Chaotic neutral alignment, worshiper of a chaotic neutral deity of lust, revenge, and trickery |
+| [Weapon Adept](weapon-adept.md) | Combat | — |
 | [Willing Accomplice](willing-accomplice.md) | — | Cha 13, Bluff 3 ranks, Sense Motive 1 rank |
 
 ## Horror Adventures Feats

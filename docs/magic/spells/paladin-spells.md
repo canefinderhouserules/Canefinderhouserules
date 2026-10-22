@@ -59,6 +59,7 @@
 - **[Protection from Evil, Communal](protection-from-evil-communal.md)**: As protection from evil, but you may divide the duration among creatures touched.
 - **[Remove Paralysis](remove-paralysis.md)**: Frees one or more creatures from paralysis or slow effect.
 - **[Resist Energy](resist-energy.md)**: Ignores 10 or more points of damage per attack from specified energy type.
+- **[Restful Cloak](restful-cloak.md)**: Turn your cloak into a healing tent.
 - **[Sacred Space](sacred-space.md)**: This spell sanctifies an area with heavenly power.
 - **[Sea Steed](sea-steed.md)**: Your mount adapts to an aquatic environment.
 - **[Sense Madness](sense-madness.md)**: Determine mental disturbances in nearby creatures.

@@ -127,6 +127,7 @@ Bloodragers gain access to the following spells. Spells in plain text come from 
 
 - **[Air Geyser](air-geyser.md)**: Blast of air deals 2d6 bludgeoning damage and knocks opponent upward.
 - Animal Aspect, Greater
+- **[Allied Cloak](allied-cloak.md)**: Animate your cloak to shield you and aid your actions.
 - **[Aqueous Orb](aqueous-orb.md)**: Creates rolling sphere of water.
 - **[Beast Shape I](beast-shape-i.md)**: You take the form and some of the powers of a Small or Medium animal.
 - **[Blood Biography](blood-biography.md)**: Learn about a creature with its blood.

@@ -111,6 +111,7 @@
 - **[Quick Change](quick-change.md)**: Use change shape as a swift action and surprise foes.
 - **[Reduce Animal](reduce-animal.md)**: Shrinks one willing animal.
 - **[Resist Energy](resist-energy.md)**: Ignores 10 or more points of damage per attack from specified energy type.
+- **[Restful Cloak](restful-cloak.md)**: Turn your cloak into a healing tent.
 - **[Restoration, Lesser](restoration-lesser.md)**: Dispels magical ability penalty or repairs 1d4 ability damage.
 - **[Savage Maw](savage-maw.md)**: Your teeth extend and sharpen, transforming your mouth into a maw of razor-sharp fangs.
 - **[Scamper](scamper.md)**: Grant your animal companion astonishing agility.
@@ -123,6 +124,7 @@
 - **[Steal Breath](steal-breath.md)**: You pull the breath from a creature’s lungs, dealing damage and leaving it unable to speak, use breath.
 - **[Summon Nature’s Ally II](summon-natures-ally-ii.md)**: Summons creature to fight.
 - **[Summon Swarm](summon-swarm.md)**: Summons swarm of bats, rats, or spiders.
+- **[Surefoot Boots](surefoot-boots.md)**: Footwear grants perfect balance.
 - **[Tree Shape](tree-shape.md)**: You look exactly like a tree for 1 hour/level.
 - **[Venomous Bite](venomous-bite.md)**: Target's bite delivers a stored poison.
 - **[Vine Strike](vine-strike.md)**: Enhance one of your natural or unarmed attacks with thorny vine growth.

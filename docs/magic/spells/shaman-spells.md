@@ -67,6 +67,7 @@ Shamans gain access to the following spells. Spells in plain text come from othe
 - **[Produce Flame](produce-flame.md)**: 1d6 damage + 1/level, touch or thrown.
 - Protection from Chaos/evil/good/law
 - **[Remove Fear](remove-fear.md)**: Suppresses fear or gives +4 on saves against fear for one subject + one per four levels.
+- **[Sculpted Cape](sculpted-cape.md)**: Your cape stiffens and holds its shape.
 - **[Sense Spirit Magic](sense-spirit-magic.md)**: Gain bonuses on identifying and resisting spells associated with your spirits.
 - **[Sleep](sleep.md)**: Puts 4 HD of creatures into magical slumber.
 - Stone Shield
@@ -88,6 +89,7 @@ Shamans gain access to the following spells. Spells in plain text come from othe
 - **[Barkskin](barkskin.md)**: Grants +2 (or higher) enhancement to natural armor.
 - **[Bear’s Endurance](bears-endurance.md)**: Subject gains +4 to Con for 1 min./level.
 - **[Beastspeak](beastspeak.md)**: Speak normally while in animal form.
+- **[Billowing Skirt](billowing-skirt.md)**: A skirt or gown slows your fall.
 - **[Bull’s Strength](bulls-strength.md)**: Subject gains +4 to Str for 1 min./level.
 - **[Buoyancy](buoyancy.md)**: Targets easily float on water.
 - **[Burning Gaze](burning-gaze.md)**: Inflict 1d6 fire damage to creature.
@@ -128,6 +130,7 @@ Shamans gain access to the following spells. Spells in plain text come from othe
 - **[Quick Change](quick-change.md)**: Use change shape as a swift action and surprise foes.
 - **[Remove Paralysis](remove-paralysis.md)**: Frees creatures from paralysis or *slow* effect.
 - **[Resist Energy](resist-energy.md)**: Ignores 10 (or more) points of damage/attack from specified energy type.
+- **[Restful Cloak](restful-cloak.md)**: Turn your cloak into a healing tent.
 - **[Restoration, Lesser](restoration-lesser.md)**: Dispels magical ability penalty or repairs 1d4 ability damage.
 - **[Scare](scare.md)**: Frightens creature of less than 6 HD.
 - **[Sense Fear](sense-fear.md)**: Perceive nearby creatures that are experiencing fear.
@@ -135,6 +138,7 @@ Shamans gain access to the following spells. Spells in plain text come from othe
 - **[Sickening Entanglement](sickening-entanglement.md)**: As entangle, but plants have sickening sap.
 - **[Spiritual Weapon](spiritual-weapon.md)**: Magic weapon attacks on its own.
 - **[Summon Swarm](summon-swarm.md)**: Summons swarm of bats, rats, or spiders.
+- **[Surefoot Boots](surefoot-boots.md)**: Footwear grants perfect balance.
 - **[Tree Shape](tree-shape.md)**: You look exactly like a tree for 1 hour/level.
 - **[Venomous Bite](venomous-bite.md)**: Target's bite delivers a stored poison.
 - **[Vine Strike](vine-strike.md)**: Enhance one of your natural or unarmed attacks with thorny vine growth.
