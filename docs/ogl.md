@@ -123,3 +123,5 @@ The following text is the property of Wizards of the Coast, Inc. and is Copyrigh
     Pathfinder Campaign Setting: Inner Sea Gods © 2014, Paizo Publishing, LLC; Author: Sean K Reynolds, with Amanda Hamon, James Jacobs, John Ling, Mark Moreland, David N. Ross, F. Wesley Schneider, Amber E. Scott, Tork Shaw, James L. Sutter, and Jerome Virnich.
 
     Pathfinder Roleplaying Game Adventurer’s Guide © 2017, Paizo Inc.; Authors: Benjamin Bruck, John Compton, Crystal Frasier, Tim Hitchcock, Jenny Jarzabski, Isabelle Lee, Joe Pasini, Jessica Price, David Schwartz, and Josh Vogt.
+
+    Pathfinder Campaign Setting: Paths of Prestige © 2012, Paizo Publishing, LLC; Authors: Benjamin Bruck, Jason Bulmahn, Matt Goodall, and Jason Nelson.

@@ -1,0 +1,64 @@
+# Skyseeker
+
+Perhaps no event so shaped dwarven history or culture as the legendary Quest for Sky. Spurred by the words of their prophets, the ancient dwarves abandoned their homes deep within the subterranean realm and began the perilous search for the sky over five millennia ago. For 300 years, the dwarves fought their way upward, driving their hated enemies—the orcs—before them. When they finally breached the surface, these legendary heroes built ten grand fortresses, the magnificent Sky Citadels. In many ways, dwarven culture has been in decline since their fateful emergence. Four of the fabled citadels were lost to history or destroyed, and a fifth is now held by orc hordes. Those dwarves who commit themselves to returning to those days of glory are known as skyseekers. They unearth every scrap of dwarven history and lore they can find, form expeditions to explore the dwarven ruins left behind during the migration, and hope to rediscover or retake one of the lost citadels.
+
+**Hit Die**: d10.
+
+**Table: Skyseeker**
+
+| Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special |
+|---|---|---|---|---|---|
+| 1st | +1 | +1 | +0 | +1 | Ancestral weapon +1d6, citadel keeper |
+| 2nd | +2 | +1 | +1 | +1 | Rune-carved armor; +1 level of divine spellcasting class |
+| 3rd | +3 | +2 | +1 | +2 | Commune 1/week; +1 level of divine spellcasting class |
+| 4th | +4 | +2 | +1 | +2 | Ancestral weapon +2d6, dwarven armor training; +1 level of divine spellcasting class |
+| 5th | +5 | +3 | +2 | +3 | Darkvision |
+| 6th | +6 | +3 | +2 | +3 | Runes of resistance; +1 level of divine spellcasting class |
+| 7th | +7 | +4 | +2 | +4 | Ancestral weapon +3d6, darkvision +30 ft.; +1 level of divine spellcasting class |
+| 8th | +8 | +4 | +3 | +4 | Paths of the ancients; +1 level of divine spellcasting class |
+| 9th | +9 | +5 | +3 | +5 | Stalwart |
+| 10th | +10 | +5 | +3 | +5 | Ancestral weapon +4d6, call to arms; +1 level of divine spellcasting class |
+
+### Requirements
+
+To qualify to become a skyseeker, a character must fulfill all of the following criteria.
+
+**Skills**: Knowledge (dungeoneering) 5 ranks, Knowledge (history) 5 ranks.
+
+**Special**: Favored enemy (giant, goblin, or orc) class feature.
+
+**Spellcasting**: Able to cast 2nd-level divine spells.
+
+**Traits**: Any dwarf racial trait or the adopted social trait.
+
+### Class Skills
+
+The skyseeker's class skills (and the key ability for each skill) are Climb (Str), Intimidate (Cha), Knowledge (dungeoneering) (Int), Knowledge (geography) (Int), Perception (Wis), Stealth (Dex), Survival (Wis), and Swim (Str).
+
+**Skill Ranks at Each Level**: 4 + Int modifier.
+
+### Class Features
+
+The following are class features of the skyseeker prestige class.
+
+**Weapon and Armor Proficiency**: A skyseeker is proficient with all simple and martial weapons, light armor, medium armor, and shields (including tower shields).
+
+**Ancestral Weapon (Su)**: By inscribing ancient dwarven runes upon his weapon, a skyseeker forges it into a reflection of the legendary weapons his ancestors bore during the Quest for Sky. When wielded by the skyseeker against a creature with the giant, goblin, or orc subtype, the weapon deals an additional 1d6 points of damage on a successful hit. As a free action, the skyseeker may also identify the weapon by name when making an Intimidate check against such creatures, granting him a competence bonus on his Intimidate check equal to 1/2 his class level (minimum +1). At 4th level and every three levels thereafter, the extra damage dealt by the ancestral weapon increases by 1d6, to a maximum of 4d6 at 10th level. Forging a link between a weapon and the legendary weapons of old requires a 24-hour-long ritual, and only one weapon can be designated as an ancestral weapon at a time.
+
+**Citadel Keeper (Sp)**: A skyseeker has spent so much time studying the known citadels that he has memorized their locations by heart. He can determine the direction to the nearest known ancestral citadel at will, as though using the spell *know direction*.
+
+**Rune-Carved Armor (Su)**: At 2nd level, a skyseeker learns how to imbue his armor with a small semblance of the magical resistance his dwarven ancestors were renowned for. Against spells and spell-like abilities, he gains a deflection bonus to touch AC equal to his armor bonus. This bonus can’t exceed his skyseeker level. This ability functions only while the skyseeker wears armor.
+
+**Commune (Sp)**: At 3rd level, a skyseeker’s bond with the spirits of his ancestors grows stronger, allowing him to use the spell *commune* once per week as a spell-like ability (caster level equal to the skyseeker’s class level).
+
+**Dwarven Armor Training (Ex)**: By studying the arts of his ancestors, the skyseeker learns the secret techniques of his forebears’ forges and fighting styles. At 4th level, the skyseeker gains heavy armor proficiency, and he still benefits from his ranger combat style (if he has one) while wearing heavy armor.
+
+**Darkvision (Ex)**: At 5th level, a skyseeker grows more comfortable operating in the lightless depths of the dwarven ancestral homelands. He gains darkvision out to a range of 60 feet. If he already has darkvision, the range increases by 30 feet. At 7th level, the range of the skyseeker’s darkvision increases by an additional 30 feet.
+
+**Runes of Resistance (Su)**: At 6th level, a skyseeker can use his armor to shrug off all manner of magical attacks for a short period of time. As a move action, the skyseeker can gain spell resistance equal to 5 + his Hit Dice if wearing light armor or 10 + his Hit Dice if wearing medium or heavy armor. Dismissing this ability is a swift action. A skyseeker can use this ability for a number of rounds per day equal to his class level. These rounds need not be consecutive.
+
+**Paths of the Ancients (Ex)**: Other labyrinths pale in comparison to the tangled maze of tunnels left behind by the ancient sky-seeking dwarves. At 8th level, a skyseeker gains immunity to the *maze* spell and cannot become lost while exploring subterranean environments.
+
+**Stalwart (Ex)**: At 9th level, a skyseeker has honed his mental resiliency to avoid certain attacks. If he succeeds at a Fortitude or Will saving throw against an attack that has a reduced effect on a successful save, he instead avoids the effect entirely. This ability can be used only if the skyseeker is wearing light armor, medium armor, or no armor. A helpless skyseeker does not gain the benefit of the stalwart ability.
+
+**Call to Arms (Sp)**: At 10th level, a skyseeker grows so attuned with the spirits of his ancestors that he can channel them into the physical world to battle his enemies. Once per day as a full-round action, he can summon up to 1d4+1 ghostly dwarven allies, who must appear within 60 feet of the skyseeker. These dwarves function exactly as an ally produced by the spell *spiritual ally* (caster level equal to the skyseeker’s class level), except that they always appear as dwarves wielding warhammers and they share the skyseeker’s favored enemy and favored terrain bonuses (if any). On subsequent turns the skyseeker can direct a single dwarven ally to move as a swift action, or he can direct multiple allies to move simultaneously as a move action.
