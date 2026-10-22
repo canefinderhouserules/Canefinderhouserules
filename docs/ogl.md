@@ -119,3 +119,5 @@ The following text is the property of Wizards of the Coast, Inc. and is Copyrigh
     Pathfinder Campaign Setting: Inner Sea Combat © 2014, Paizo Inc.; Authors: Dennis Baker, Jesse Benner, John Compton, and Thurston Hillman.
 
     Pathfinder Campaign Setting: Inner Sea Magic © 2011, Paizo Publishing, LLC; Authors: Jesse Benner, Jason Nelson, Sean K Reynolds, Owen K.C. Stephens, Russ Taylor.
+
+    Pathfinder Campaign Setting: Inner Sea Gods © 2014, Paizo Publishing, LLC; Author: Sean K Reynolds, with Amanda Hamon, James Jacobs, John Ling, Mark Moreland, David N. Ross, F. Wesley Schneider, Amber E. Scott, Tork Shaw, James L. Sutter, and Jerome Virnich.

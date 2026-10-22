@@ -11,6 +11,7 @@ New summoner spells from *Ultimate Magic*. Spells from other books will be added
 - **[Icicle Dagger](icicle-dagger.md)**: Masterwork ice dagger deals +1 cold damage.
 - **[Jury-Rig](jury-rig.md)**: Removes the broken condition from the targeted object.
 - **[Life Conduit](life-conduit.md)**: You are bound even tighter to your eidolon than normal, and may share hit points with it through your life link ability.
+- **[Lighten Object](lighten-object.md)**: Halve an object’s weight.
 - **[Ray of Sickening](ray-of-sickening.md)**: Ray makes the subject sickened.
 - **[Snowball](snowball.md)**: Throw a conjured ball of snow at a target.
 - **[Stone Shield](stone-shield.md)**: A 1-inch-thick slab of stone springs up from the ground, interposing itself between you and an opponent of.
@@ -59,6 +60,7 @@ New summoner spells from *Ultimate Magic*. Spells from other books will be added
 - **[Life Conduit, Improved](life-conduit-improved.md)**: Transfers 2d6 hit points to your eidolon as a swift action.
 - **[Mad Monkeys](mad-monkeys.md)**: Summon a swarm of mischievous monkeys.
 - **[Marionette Possession](marionette-possession.md)**: As magic jar, but limited to line of sight.
+- **[Night of Blades](night-of-blades.md)**: Wall of whirling blades.
 - **[Obsidian Flow](obsidian-flow.md)**: Converts the surface of the ground into molten glass. Spells 6 Protection from Energy, Communal: As protection from energy, but you may divide the duration among creatures touched.
 - **[Pack Empathy](pack-empathy.md)**: Create an empathic bond with allies.
 - **[Pellet Blast](pellet-blast.md)**
@@ -70,6 +72,7 @@ New summoner spells from *Ultimate Magic*. Spells from other books will be added
 - **[Restore Eidolon](restore-eidolon.md)**: Restoration for an eidolon.
 - **[Selective Alarm](selective-alarm.md)**: As *alarm*, but only against selected creatures.
 - **[Selective Invisibility](selective-invisibility.md)**: Invisible, except to one chosen creature you may attack.
+- **[Shared Sacrifice](shared-sacrifice.md)**: Redirect half your damage to a target.
 - **[Spider Climb, Communal](spider-climb-communal.md)**: As spider climb, but you may divide the duration among creatures touched.
 - **[Trade Items](trade-items.md)**: Swap a focus object with a target object.
 - **[Urban Step](urban-step.md)**: Step into one doorway and out another.
@@ -78,11 +81,13 @@ New summoner spells from *Ultimate Magic*. Spells from other books will be added
 ## 4th-Level Summoner Spells
 
 - **[Assume Appearance, Greater](assume-appearance-greater.md)**: Use a likeness to adopt a dead creature’s form.
+- **[Caustic Blood](caustic-blood.md)**: Wounds spray acid at attackers.
 - **[Contact Entity III](contact-entity-iii.md)**: Ask very powerful eldritch entities to find and converse with you, or they may reply telepathically.
 - **[Damnation Stride](damnation-stride.md)**: This spell functions like dimension door, except you leave behind a burst of fire.
 - **[Daze, Mass](daze-mass.md)**: As daze, but affecting multiple creatures.
 - **[Hollow Heroism](hollow-heroism.md)**: Provide a *heroism* effect that you can reverse at any time.
 - **[Hostile Juxtaposition](hostile-juxtaposition.md)**: You create a dimensional link with a targeted creature, and switch spots with it.
+- **[Minotaur’s Blessing](minotaurs-blessing.md)**: Turn a creature’s head into a bull’s.
 - **[Nixie’s Lure](nixie-s-lure.md)**: This spell creates an unearthly and infectious song that seductively summons all who hear it.
 - **[Protection from Energy, Communal](protection-from-energy-communal.md)**: As protection from energy, but you may divide the duration among creatures touched.
 - **[Riding Possession](riding-possession.md)**: As possession, but you observe instead of control the subject.
@@ -104,14 +109,17 @@ New summoner spells from *Ultimate Magic*. Spells from other books will be added
 - **[Flesh Wall](flesh-wall.md)**: Create a wall of zombies.
 - **[Geniekind](geniekind.md)**: Gain genie-themed appearance and powers.
 - **[Grease, Greater](grease-greater.md)**: As grease, but covers much more.
+- **[Hammer of Mending](hammer-of-mending.md)**: Repair objects and constructs in a burst.
 - **[Ice Crystal Teleport](ice-crystal-teleport.md)**: Target is frozen, then teleported.
 - **[Life Conduit, Greater](life-conduit-greater.md)**: You transfer 3d6 hit points to your eidolon as a swift action.
+- **[Lighten Object, Mass](lighten-object-mass.md)**: Halve the weight of several objects.
 - **[Locate Gate](locate-gate.md)**: Find a nearby magical portal.
 - **[Mage’s Decree](mages-decree.md)**: Send a message to creatures within miles.
 - **[Mind Swap](mind-swap.md)**: Switch minds with another creature for 1 hour per level.
 - **[Possession](possession.md)**: Project your soul into a creature’s body.
 - **[Straitjacket](straitjacket.md)**: Restrain a creature’s arms and grant it a second saving throw against certain magic.
 - **[Tar Pool](tar-pool.md)**: Converts the top layer of the ground into hot tar.
+- **[Vengeful Stinger](vengeful-stinger.md)**: Stinging tail retaliates against melee attackers.
 - **[Whip of Centipedes](whip-of-centipedes.md)**: As whip of spiders, but with centipedes.
 - **[Wreath of Blades](wreath-of-blades.md)**
 

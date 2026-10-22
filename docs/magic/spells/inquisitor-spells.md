@@ -4,7 +4,9 @@ New inquisitor spells from *Ultimate Magic*. Spells from other books will be add
 
 ## 1st-Level Inquisitor Spells
 
+- **[Aspect of the Nightingale](aspect-of-the-nightingale.md)**: Clear voice, bonus on Diplomacy and Perform.
 - **[Barbed Chains](barbed-chains.md)**: Hellish chains attack and cause a target to become shaken.
+- **[Blessing of the Watch](blessing-of-the-watch.md)**: *Bless* that works only in the caster’s home city.
 - **[Bowstaff](bowstaff.md)**: A shortbow may double as a club, or a longbow as a quarterstaff.
 - **[Cloak of Secrets](cloak-of-secrets.md)**: Bubble disguises speech and spell components.
 - **[Compel Hostility](compel-hostility.md)**: Compels opponents to attack you instead of your allies.
@@ -14,11 +16,13 @@ New inquisitor spells from *Ultimate Magic*. Spells from other books will be add
 - **[Ear-Piercing Scream](ear-piercing-scream.md)**: Deal sonic damage and daze target.
 - **[Ears of the City](ears-of-the-city.md)**: Gather information from echoes of local talk.
 - **[Fabricate Disguise](fabricate-disguise.md)**: Create a disguise in an instant.
+- **[Fallback Strategy](fallback-strategy.md)**: Reroll one attack, maneuver, or skill check.
 - **[Forbid Action](forbid-action.md)**: Target obeys command to not do something.
 - **[Forced Quiet](forced-quiet.md)**: Target cannot make loud noises.
 - **[Grappling Scarf](grappling-scarf.md)**: Your scarf becomes a grappling hook and rope.
 - **[Guardian Armor](guardian-armor.md)**: Teleports your armor onto an ally.
 - **[Handy Grapnel](handy-grapnel.md)**: Transform a ropelike object into a retracting grapple.
+- **[Haze of Dreams](haze-of-dreams.md)**: Halve a creature’s speed with waking dreams.
 - **[Hedging Weapons](hedging-weapons.md)**: Floating weapons protect you and make ranged attacks.
 - **[Hex Ward](hex-ward.md)**: Target gains +4 on saves against witch hexes.
 - **[Hide Weapon](hide-weapon.md)**: Meld a weapon into your arm.
@@ -37,17 +41,22 @@ New inquisitor spells from *Ultimate Magic*. Spells from other books will be add
 - **[Peace Bond](peace-bond.md)**: Your low-level area spells ignore protected cubes.
 - **[Peacebond](peacebond.md)**: Locks a weapon in place on the target’s body.
 - **[Persuasive Goad](persuasive-goad.md)**: Target takes 1d6 nonlethal damage; you gain an Intimidate bonus.
+- **[Pick Your Poison](pick-your-poison.md)**: Poison becomes mere intoxication for a time.
+- **[Poisoned Egg](poisoned-egg.md)**: Turn an egg into a dose of poison.
 - **[Recharge Innate Magic](recharge-innate-magic.md)**: You channel magic energy into your own aura, recharging your innate magic abilities.
 - **[Returning Weapon](returning-weapon.md)**: Grants a weapon the returning special weapon quality.
 - **[Sanctify Corpse](sanctify-corpse.md)**: Prevent a corpse from becoming an undead.
+- **[Secret Speech](secret-speech.md)**: Send hidden messages within normal speech.
 - **[Speak Local Language](speak-local-language.md)**: Speak and understand one known regional human language.
 - **[Stalwart Resolve](stalwart-resolve.md)**: Ignore ability damage to one score.
 - **[Theft Ward](theft-ward.md)**: You ward a single object in your possession against theft.
+- **[Thunder Arrow](thunder-arrow.md)**: Electric arrow that attacks or signals.
 - **[Touch of Combustion](touch-of-combustion.md)**: Your successful melee touch attack causes the target to ignite in a violent burst of flame, dealing 1d6.
 - **[Unerring Weapon](unerring-weapon.md)**: Grants a +2 bonus, +1 per four caster levels, on attack rolls to confirm a critical hit.
 - **[Velvet Diplomacy](velvet-diplomacy.md)**: Intimidate a target into friendliness and cloud its memory of the threats.
 - **[Vocal Alteration](vocal-alteration.md)**: Disguise target’s voice.
 - **[Wartrain Mount](wartrain-mount.md)**: Animal gains combat training.
+- **[Weapons against Evil](weapons-against-evil.md)**: Weapons ignore low DR of evil creatures.
 - **[Weaponwand](weaponwand.md)**: Merge a wand with a weapon to wield both.
 - **[Winter Feathers](winter-feathers.md)**: School abjuration; Level cleric 1, druid 1, inquisitor 1, ranger 1, sorcerer/wizard 1 Casting Time 1 standard.
 
@@ -62,10 +71,12 @@ New inquisitor spells from *Ultimate Magic*. Spells from other books will be add
 - **[Blistering Invective](blistering-invective.md)**: Make an Intimidate check against all foes within 30 feet; those demoralized also take fire damage.
 - **[Bloodbath](bloodbath.md)**: Cause yourself and enemies to bleed.
 - **[Boneshaker](boneshaker.md)**: Momentarily control a living or undead creature’s skeleton.
+- **[Brittle Portal](brittle-portal.md)**: Reduce the hardness of a surface.
 - **[Brow Gasher](brow-gasher.md)**: Slashing weapon deals bleed damage to an opponent’s head.
 - **[Build Trust](build-trust.md)**: Gain various bonuses when interacting with the target.
 - **[Conditional Favor](conditional-favor.md)**: Provide another spell whose effects reverse if the target breaks a restriction.
 - **[Death Candle](death-candle.md)**: This spell functions like death knell, except instead of using the slain target’s life energy to enhance.
+- **[Defending Bone](defending-bone.md)**: Floating bone grants DR 5/bludgeoning.
 - **[Delay Disease](delay-disease.md)**: The target becomes temporarily immune to disease.
 - **[Delay Pain](delay-pain.md)**: Ignore pain for 1 hour/level.
 - **[Demand Offering](demand-offering.md)**: Make a creature give you an object it’s holding.
@@ -74,9 +85,11 @@ New inquisitor spells from *Ultimate Magic*. Spells from other books will be add
 - **[Discovery Torch](discovery-torch.md)**: Touched object emanates bright light, granting Perception and Sense Motive bonuses.
 - **[Disguise Other](disguise-other.md)**: As disguise self, but affects you or another.
 - **[Distressing Tone](distressing-tone.md)**: Sound sickens 1d4 creatures.
+- **[Early Judgment](early-judgment.md)**: Show a creature its fate: fascinated, confused, or shaken.
 - **[Effortless Armor](effortless-armor.md)**: Armor you wear no longer slows your speed.
 - **[Enshroud Thoughts](enshroud-thoughts.md)**: Ward yourself against thought detection and memory alteration.
 - **[Escaping Ward](escaping-ward.md)**: This ward grants you extra maneuverability when you avoid attacks against larger foes.
+- **[Fairness](fairness.md)**: Affected creatures must trade fairly.
 - **[Flickering Lights](flickering-lights.md)**: Create an area of inconsistent lighting.
 - **[Garrulous Grin](garrulous-grin.md)**: Target seems guilty and takes –4 on Bluff and Diplomacy.
 - **[Ghost Whip](ghost-whip.md)**: Create a ghost touch whip that passes through objects.
@@ -91,6 +104,7 @@ New inquisitor spells from *Ultimate Magic*. Spells from other books will be add
 - **[Instrument of Agony](instrument-of-agony.md)**: Weapon exudes divine fury, granting a bonus on Intimidate checks.
 - **[Iron Stake](iron-stake.md)**: Hurl a spike of cold iron at a foe.
 - **[Know Peerage](know-peerage.md)**: Target uses your Knowledge (nobility) ranks.
+- **[Light Prison](light-prison.md)**: Cage of light damages and blinds those who leave it.
 - **[Litany of Defense](litany-of-defense.md)**: Doubles armor’s enhancement bonus.
 - **[Magic Siege Engine](magic-siege-engine.md)**: Siege engine gains +1 on targeting and damage rolls.
 - **[Open Book](open-book.md)**: Make it permanently easier to learn more about a target.
@@ -99,10 +113,12 @@ New inquisitor spells from *Ultimate Magic*. Spells from other books will be add
 - **[Protection from Good, Communal](protection-from-good-communal.md)**: As protection from good, but you may divide the duration among creatures touched.
 - **[Protection from Law, Communal](protection-from-law-communal.md)**: As protection from law, but you may divide the duration among creatures touched.
 - **[Psychic Reading](psychic-reading.md)**: Read surface thoughts to learn information about a subject.
+- **[Quaking Fury](quaking-fury.md)**: Minor earthquake trips creatures in a cone.
 - **[Qualm](qualm.md)**: Target gains penalties on ability checks, skill checks, and concentration checks until it spends an entire round doing nothing.
 - **[Quick Change](quick-change.md)**: Use change shape as a swift action and surprise foes.
 - **[Returning Weapon, Communal](returning-weapon-communal.md)**: As returning weapon, but you may divide the duration among weapons touched.
 - **[Revealing Light](revealing-light.md)**: Object sheds shifting light that foils Stealth bonuses.
+- **[Righteous Smite](righteous-smite.md)**: Next melee attack gets +5 and a free bull rush.
 - **[Rumormonger](rumormonger.md)**: Follow a rumor to see where it spreads.
 - **[Savage Maw](savage-maw.md)**: Your teeth extend and sharpen, transforming your mouth into a maw of razor-sharp fangs.
 - **[Sense Fear](sense-fear.md)**: Perceive nearby creatures that are experiencing fear.
@@ -111,10 +127,12 @@ New inquisitor spells from *Ultimate Magic*. Spells from other books will be add
 - **[Shared Suffering](shared-suffering.md)**: Take damage to deal the same damage to a distant target.
 - **[Shield of Shards](shield-of-shards.md)**: Your shield breaks into orbiting shards that attack.
 - **[Shifted Steps](shifted-steps.md)**: Make a target sound as if elsewhere.
+- **[Spell Gauge](spell-gauge.md)**: Reveal some of a target’s spells.
 - **[Spindrift Spritz](spindrift-spritz.md)**: Ally rerolls a save against fatigue, shaken, sickened, or staggered.
 - **[Spiritual Squire](spiritual-squire.md)**: A force servant helps carry, aid, and armor allies.
 - **[Surmount Affliction](surmount-affliction.md)**: Temporarily suppress one condition.
 - **[Tactical Acumen](tactical-acumen.md)**: You gain an additional +1 on attack rolls or to AC due to battlefield positioning.
+- **[Vexing Miscalculation](vexing-miscalculation.md)**: Target cannot score critical threats.
 - **[Voluminous Vocabulary](voluminous-vocabulary.md)**: Grant ability to speak, read, and write one or more languages for 8 hours.
 
 ## 3rd-Level Inquisitor Spells
@@ -126,6 +144,7 @@ New inquisitor spells from *Ultimate Magic*. Spells from other books will be add
 - **[Blinding Ray](blinding-ray.md)**: School evocation [good, light]; Level cleric 2, inquisitor 3, paladin 2 Casting Time 1 standard action.
 - **[Blood Scent](blood-scent.md)**: School transmutation; Level alchemist 3, antipaladin 2, cleric 3, druid 3, inquisitor 3, ranger 2.
 - **[Burst of Speed](burst-of-speed.md)**: You gain increased speed, and your movement ignores attacks of opportunity and allows you to move through the space of creatures larger than you are.
+- **[Channel Vigor](channel-vigor.md)**: Focus on limbs, mind, spirit, or torso for bonuses.
 - **[Claim Identity](claim-identity.md)**: Steal a touched humanoid’s face and identity.
 - **[Contagious Zeal](contagious-zeal.md)**: Grant bonuses and temporary hit points that spread from creature to creature.
 - **[Countless Eyes](countless-eyes.md)**: Extra eyes give all-around vision.
@@ -138,6 +157,7 @@ New inquisitor spells from *Ultimate Magic*. Spells from other books will be add
 - **[Disrupt Link](disrupt-link.md)**: Sever the link between a creature and her companion or familiar.
 - **[Disrupt Silence](disrupt-silence.md)**: Disrupt all silence effects in an area.
 - **[Eldritch Fever](eldritch-fever.md)**: Target gains the eldritch ague spellblight.
+- **[False Alibi](false-alibi.md)**: Replace a memory when a trigger occurs.
 - **[Fearsome Duplicate](fearsome-duplicate.md)**: School illusion (figment); Level bard 3, inquisitor 3, sorcerer/wizard 3, witch 3 Casting Time 1 standard.
 - **[Holy Javelin](holy-javelin.md)**: Deal ongoing damage to evil creatures and apply penalties.
 - **[Improve Trap](improve-trap.md)**: When this spell is cast upon a trap, it improves one specific element of the trap chosen at the time of.
@@ -150,8 +170,10 @@ New inquisitor spells from *Ultimate Magic*. Spells from other books will be add
 - **[Litany of Warding](litany-of-warding.md)**: You gain two additional attacks of opportunity for 1 round.
 - **[Locate Weakness](locate-weakness.md)**: You roll damage twice when you roll damage for a critical hit and take the best damage.
 - **[Meticulous Match](meticulous-match.md)**: Determine if two things are identical.
+- **[Night of Blades](night-of-blades.md)**: Wall of whirling blades.
 - **[Pack Empathy](pack-empathy.md)**: Create an empathic bond with allies.
 - **[Resist Energy, Communal](resist-energy-communal.md)**: As resist energy, but you may divide the duration among creatures touched.
+- **[Sadomasochism](sadomasochism.md)**: Pain empowers your attacks and demoralizes attackers.
 - **[Second Wind](second-wind.md)**: Heal 2d8 + 1/level when below one-quarter hit points.
 - **[Selective Alarm](selective-alarm.md)**: As *alarm*, but only against selected creatures.
 - **[Selective Invisibility](selective-invisibility.md)**: Invisible, except to one chosen creature you may attack.
@@ -165,6 +187,8 @@ New inquisitor spells from *Ultimate Magic*. Spells from other books will be add
 - **[Aerial Tracks](aerial-tracks.md)**: Track flying creatures through the air.
 - **[Ban Corruption](ban-corruption.md)**: Eliminate the gifts of nearby corrupted creatures.
 - **[Battlemind Link](battlemind-link.md)**: You and an ally gain attack and AC bonuses.
+- **[Beacon of Luck](beacon-of-luck.md)**: Allies may roll saves twice.
+- **[Burst of Glory](burst-of-glory.md)**: Allies gain attack and fear-save bonuses and temporary hit points.
 - **[Conditional Curse](conditional-curse.md)**: Bestow a curse that is difficult to remove without fulfilling a condition.
 - **[Crusader’s Edge](crusaders-edge.md)**: Weapon gains evil outsider bane and nauseates on crits.
 - **[Curse of Magic Negation](curse-of-magic-negation.md)**: Target gains the negated spellblight.
@@ -192,9 +216,11 @@ New inquisitor spells from *Ultimate Magic*. Spells from other books will be add
 - **[Reprobation](reprobation.md)**: Marked target is shunned by your religion.
 - **[Sessile Spirit](sessile-spirit.md)**: Cause a spirit inhabiting a creature or an object to go dormant.
 - **[Shadow Barbs](shadow-barbs.md)**: Shadowy vicious spiked chain that radiates darkness.
+- **[Smite Abomination](smite-abomination.md)**: Smite an undead creature like a paladin.
 - **[Spindrift Spritz, Mass](spindrift-spritz-mass.md)**: As spindrift spritz, affecting multiple creatures.
 - **[Straitjacket](straitjacket.md)**: Restrain a creature’s arms and grant it a second saving throw against certain magic.
 - **[Thaumaturgic Circle](thaumaturgic-circle.md)**: As magic circle, but affecting a nonalignment subtype or outsider race.
+- **[Transplant Visage](transplant-visage.md)**: Wear a stolen face for +10 on Disguise.
 
 ## 5th-Level Inquisitor Spells
 
@@ -206,6 +232,7 @@ New inquisitor spells from *Ultimate Magic*. Spells from other books will be add
 - **[Divine Pursuit](divine-pursuit.md)**: Gain a movement type of your prey.
 - **[Forbid Action, Greater](forbid-action-greater.md)**: As forbid action, but 1 creature/level. Lend Greater Judgment: Ally receives all your judgments.
 - **[Foster Hatred](foster-hatred.md)**: Cause creatures to hate one type of creature.
+- **[Hunter’s Blessing](hunters-blessing.md)**: Group gains favored enemy and favored terrain bonuses.
 - **[Inflict Pain, Mass](inflict-pain-mass.md)**: As inflict pain, but affecting one creature per level.
 - **[Litany of Thunder](litany-of-thunder.md)**: A single target is deafened until the condition is removed, and is confused for 1 round.
 - **[Litany of Vengeance](litany-of-vengeance.md)**: Allies attacking the target of the spell gain a +5 bonus on damage rolls for 1 round.
@@ -216,6 +243,7 @@ New inquisitor spells from *Ultimate Magic*. Spells from other books will be add
 - **[Spawn Ward](spawn-ward.md)**: School necromancy; Level cleric 5, inquisitor 5 Casting Time 1 standard action Components V, S Range touch.
 - **[Spell Immunity, Communal](spell-immunity-communal.md)**: As spell immunity, but you may divide the duration among creatures touched.
 - **[Stoneskin, Communal](stoneskin-communal.md)**
+- **[Toast to Freedom](toast-to-freedom.md)**: Teleport a creature 15 feet, freeing it from bonds.
 
 ## 6th-Level Inquisitor Spells
 
@@ -227,6 +255,7 @@ New inquisitor spells from *Ultimate Magic*. Spells from other books will be add
 - **[Named Bullet, Greater](named-bullet-greater.md)**: As named bullet, but deals 2 points of damage per caster level.
 - **[Neutralize Poison, Greater](neutralize-poison-greater.md)**: As neutralize poison, but it also reverses poison damage.
 - **[Overwhelming Presence](overwhelming-presence.md)**: Creatures bow before you as if you were divine.
+- **[Plague Bearer](plague-bearer.md)**: Target spreads contagion to adjacent creatures.
 - **[Prognostication](prognostication.md)**: Gain cryptic information from further in the future than *divination*.
 - **[Unshakable Zeal](unshakable-zeal.md)**: Grant benefits on future attempts after failed checks, and protect against fear and emotion effects.
 - **[Wither Limb](wither-limb.md)**: Make one of the target’s limbs useless.

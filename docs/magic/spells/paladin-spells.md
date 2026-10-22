@@ -2,9 +2,11 @@
 
 ## 1st-Level Paladin Spells
 
+- **[Aspect of the Nightingale](aspect-of-the-nightingale.md)**: Clear voice, bonus on Diplomacy and Perform.
 - **[Bless](bless.md)**: Allies gain +1 on attack rolls and saves against fear.
 - **[Bless Water](bless-water.md)**: Makes holy water.
 - **[Bless Weapon](bless-weapon.md)**: Weapon strikes true against evil foes.
+- **[Blessing of the Watch](blessing-of-the-watch.md)**: *Bless* that works only in the caster’s home city.
 - **[Bowstaff](bowstaff.md)**: A shortbow may double as a club, or a longbow as a quarterstaff.
 - **[Build Trust](build-trust.md)**: Gain various bonuses when interacting with the target.
 - **[Compel Hostility](compel-hostility.md)**: Compels opponents to attack you instead of your allies.
@@ -16,7 +18,11 @@
 - **[Detect Undead](detect-undead.md)**: Reveals undead within 60 ft.
 - **[Divine Favor](divine-favor.md)**: You gain +1 per three levels on attack and damage rolls.
 - **[Endure Elements](endure-elements.md)**: Exist comfortably in hot or cold regions.
+- **[Enhance Water](enhance-water.md)**: Turn water into ale or wine.
+- **[Fallback Strategy](fallback-strategy.md)**: Reroll one attack, maneuver, or skill check.
+- **[Firebelly](firebelly.md)**: Fire resistance 5 and a small fire breath.
 - **[Guardian Armor](guardian-armor.md)**: Teleports your armor onto an ally.
+- **[Haze of Dreams](haze-of-dreams.md)**: Halve a creature’s speed with waking dreams.
 - **[Hedging Weapons](hedging-weapons.md)**: Floating weapons protect you and make ranged attacks.
 - **[Huntmaster’s Spear](huntmasters-spear.md)**: Spear becomes a +1 weapon against a chosen favored-enemy type and can be discharged for a powerful attack.
 - **[Ironbeard](ironbeard.md)**: School transmutation; Level antipaladin 1, cleric 1, magus 1, paladin 1, ranger 1 Casting Time 1 standard.
@@ -36,8 +42,12 @@
 - **[Stalwart Resolve](stalwart-resolve.md)**: Ignore ability damage to one score.
 - **[Sun Metal](sun-metal.md)**: Weapon touched bursts into flames.
 - **[Tactical Acumen](tactical-acumen.md)**: You gain an additional +1 on attack rolls or to AC due to battlefield positioning.
+- **[Thunder Arrow](thunder-arrow.md)**: Electric arrow that attacks or signals.
+- **[Tracking Mark](tracking-mark.md)**: Easier to track a target.
+- **[Unwelcome Halo](unwelcome-halo.md)**: Target glows, losing concealment.
 - **[Veil of Heaven](veil-of-heaven.md)**: You surround yourself with a veil of positive energy, making it harder for evil outsiders to harm you.
 - **[Virtue](virtue.md)**: Subject gains 1 temporary hp.
+- **[Weapons against Evil](weapons-against-evil.md)**: Weapons ignore low DR of evil creatures.
 
 ## 2nd-Level Paladin Spells
 
@@ -53,6 +63,7 @@
 - **[Eagle’s Splendor](eagles-splendor.md)**: Subject gains +4 to Cha for 1 min./level.
 - **[Effortless Armor](effortless-armor.md)**: Armor you wear no longer slows your speed.
 - **[Endure Elements, Communal](endure-elements-communal.md)**: As endure elements, but you may divide the duration among creatures touched.
+- **[Fairness](fairness.md)**: Affected creatures must trade fairly.
 - **[Healing Token](healing-token.md)**: Holy symbols let allies request healing at a distance.
 - **[Holy Javelin](holy-javelin.md)**: Deal ongoing damage to evil creatures and apply penalties.
 - **[Light of Purity](light-of-purity.md)**: Illuminate undead and weaken their channel resistance.
@@ -69,6 +80,7 @@
 - **[Remove Paralysis](remove-paralysis.md)**: Frees one or more creatures from paralysis or slow effect.
 - **[Resist Energy](resist-energy.md)**: Ignores 10 or more points of damage per attack from specified energy type.
 - **[Restful Cloak](restful-cloak.md)**: Turn your cloak into a healing tent.
+- **[Righteous Smite](righteous-smite.md)**: Next melee attack gets +5 and a free bull rush.
 - **[Sacred Space](sacred-space.md)**: This spell sanctifies an area with heavenly power.
 - **[Sea Steed](sea-steed.md)**: Your mount adapts to an aquatic environment.
 - **[Sense Madness](sense-madness.md)**: Determine mental disturbances in nearby creatures.
@@ -118,7 +130,9 @@
 - **[Angelic Aspect, Greater](angelic-aspect-greater.md)**: Gain greater angelic powers, including a protective aura.
 - **[Archon’s Trumpet](archons-trumpet.md)**: Paralyze creatures in a cone with a booming report.
 - **[Ban Corruption](ban-corruption.md)**: Eliminate the gifts of nearby corrupted creatures.
+- **[Beacon of Luck](beacon-of-luck.md)**: Allies may roll saves twice.
 - **[Break Enchantment](break-enchantment.md)**: Frees subjects from enchantments, transmutations, and curses.
+- **[Burst of Glory](burst-of-glory.md)**: Allies gain attack and fear-save bonuses and temporary hit points.
 - **[Chains of Light](chains-of-light.md)**: Hold a creature in chains of light and block extradimensional travel.
 - **[Companion Transposition](companion-transposition.md)**: Swap places with your animal companion, familiar, or spirit animal via teleportation.
 - **[Crusader’s Edge](crusaders-edge.md)**: Weapon gains evil outsider bane and nauseates on crits.

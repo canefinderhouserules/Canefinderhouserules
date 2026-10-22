@@ -23,10 +23,12 @@
 ## 1st-Level Bard Spells
 
 - **[Abjuring Step](abjuring-step.md)**: You can move slowly and safely and still cast spells, until you move quickly, make an attack, or cast a harmful spell.
+- **[Abstemiousness](abstemiousness.md)**: Food sates a creature for a full day.
 - **[Abundant Ammunition](abundant-ammunition.md)**: Replaces nonmagical ammunition every round. Spells 6 Adoration: You gain a bonus on Diplomacy checks and performance combat checks.
 - **[Alarm](alarm.md)**: Wards an area for 2 hours/level.
 - **[Animate Rope](animate-rope.md)**: Makes a rope move at your command.
 - **[Aphasia](aphasia.md)**: Prevent a target from understanding language.
+- **[Aspect of the Nightingale](aspect-of-the-nightingale.md)**: Clear voice, bonus on Diplomacy and Perform.
 - **[Auditory Hallucination](auditory-hallucination.md)**: Create a phantasm with auditory effects.
 - **[Blend with Surroundings](blend-with-surroundings.md)**: Target looks like an object and hides easily while still.
 - **[Call Weapon](call-weapon.md)**: Pull an ally’s weapon into your hand.
@@ -48,12 +50,14 @@
 - **[Disguise Self](disguise-self.md)**: Changes your appearance.
 - **[Ears of the City](ears-of-the-city.md)**: Gather information from echoes of local talk.
 - **[Echo](echo.md)**: Cause a sound to repeat itself.
+- **[Enhance Water](enhance-water.md)**: Turn water into ale or wine.
 - **[Erase](erase.md)**: Mundane or magical writing vanishes.
 - **[Expeditious Retreat](expeditious-retreat.md)**: Your base land speed increases by 30 ft.
 - **[Fabricate Disguise](fabricate-disguise.md)**: Create a disguise in an instant.
 - **[Feather Fall](feather-fall.md)**: Objects or creatures fall slowly.
 - **[Grappling Scarf](grappling-scarf.md)**: Your scarf becomes a grappling hook and rope.
 - **[Grease](grease.md)**: Makes 10-ft. square or one object slippery.
+- **[Haze of Dreams](haze-of-dreams.md)**: Halve a creature’s speed with waking dreams.
 - **[Hideous Laughter](hideous-laughter.md)**: Subject loses actions for 1 round/ level.
 - **[Hypnotism](hypnotism.md)**: Fascinates 2d4 HD of creatures.
 - **[Identify](identify.md)**: Gives +10 bonus to identify magic items.
@@ -62,6 +66,7 @@
 - **[Jury-Rig](jury-rig.md)**: Removes the broken condition from the targeted object.
 - **[Know Peerage](know-peerage.md)**: Target uses your Knowledge (nobility) ranks.
 - **[Liberating Command](liberating-command.md)**: Target makes an Escape Artist check as an immediate action and gains a bonus on it.
+- **[Lighten Object](lighten-object.md)**: Halve an object’s weight.
 - **[Lock Gaze](lock-gaze.md)**: Compels the target to look only at you for the duration of the spell.
 - **[Locksight](locksight.md)**: Sense a lock’s state and quality.
 - **[Magic Aura](magic-aura.md)**: Alters object’s magic aura.
@@ -72,11 +77,15 @@
 - **[Obscure Poison](obscure-poison.md)**: Make it harder to detect a poison or a venomous creature.
 - **[Open and Shut](open-and-shut.md)**: Obfuscate whether a door is open or closed.
 - **[Peace Bond](peace-bond.md)**: Your low-level area spells ignore protected cubes.
+- **[Pick Your Poison](pick-your-poison.md)**: Poison becomes mere intoxication for a time.
+- **[Poisoned Egg](poisoned-egg.md)**: Turn an egg into a dose of poison.
 - **[Quintessence](quintessence.md)**: Mask any flaws of or damage to a creature or object.
+- **[Read Weather](read-weather.md)**: Forecast the weather for 48 hours.
 - **[Recharge Innate Magic](recharge-innate-magic.md)**: You channel magic energy into your own aura, recharging your innate magic abilities.
 - **[Remove Fear](remove-fear.md)**: Suppresses fear or gives +4 on saves against fear for one subject + one per four levels.
 - **[Revealing Light](revealing-light.md)**: Object sheds shifting light that foils Stealth bonuses.
 - **[Sculpted Cape](sculpted-cape.md)**: Your cape stiffens and holds its shape.
+- **[Secret Speech](secret-speech.md)**: Send hidden messages within normal speech.
 - **[See Alignment](see-alignment.md)**: Pick an alignment; in your sight, creatures and items with that alignment emit a ghostly radiance.
 - **[Silent Image](silent-image.md)**: Creates minor illusion of your design.
 - **[Sleep](sleep.md)**: Puts 4 HD of creatures into magical slumber.
@@ -84,6 +93,7 @@
 - **[Speak Local Language](speak-local-language.md)**: Speak and understand one known regional human language.
 - **[Summon Monster I](summon-monster-i.md)**: Summons extraplanar creature to fight for you.
 - **[Tamer’s Lash](tamers-lash.md)**: Create a whip made of sound that damages foes and can frighten animals.
+- **[Tap Inner Beauty](tap-inner-beauty.md)**: +2 insight bonus on Charisma checks.
 - **[Toilsome Chant](toilsome-chant.md)**: School enchantment (compulsion)[mind-affecting]; Level bard 1 Casting Time see text Components V, S Range.
 - **[Transfer Tattoo](transfer-tattoo.md)**: Move a magic tattoo between creatures.
 - **[Undetectable Alignment](undetectable-alignment.md)**: Conceals alignment for 24 hours.
@@ -153,6 +163,7 @@
 - **[Hold Person](hold-person.md)**: Paralyzes one humanoid for 1 round/level.
 - **[Hypnotic Pattern](hypnotic-pattern.md)**: Fascinates (2d4 + level) HD of creatures.
 - **[Invisibility](invisibility.md)**: Subject is invisible for 1 min./level or until it attacks.
+- **[Light Prison](light-prison.md)**: Cage of light damages and blinds those who leave it.
 - **[Locate Object](locate-object.md)**: Senses direction toward object (specific or type).
 - **[Matchmaker](matchmaker.md)**: Cause two creatures to fall in love.
 - **[Mental Block](mental-block.md)**: Prevent the target from using its skill ranks, spells, feats, and abilities.
@@ -173,6 +184,7 @@
 - **[Returning Weapon](returning-weapon.md)**: Grants a weapon the returning special weapon quality.
 - **[Rumormonger](rumormonger.md)**: Follow a rumor to see where it spreads.
 - **[Scare](scare.md)**: Panics creatures of less than 6 HD.
+- **[Seducer’s Eyes](seducers-eyes.md)**: Charisma skill bonus against those who find you attractive.
 - **[Sense Vitals](sense-vitals.md)**: Gain sneak attack with any manufactured weapon.
 - **[Shadow Anchor](shadow-anchor.md)**: School illusion (shadow) [shadow]; Level bard 2, sorcerer/wizard 2, witch 2 Casting Time 1 standard action.
 - **[Shamefully Overdressed](shamefully-overdressed.md)**: Force target to remove equipment.
@@ -182,6 +194,7 @@
 - **[Silence](silence.md)**: Negates sound in 20-ft. radius.
 - **[Slick Walls](slick-walls.md)**: Walls and ceilings become much harder to climb.
 - **[Sound Burst](sound-burst.md)**: Deals 1d8 sonic damage and may stun subjects.
+- **[Spell Gauge](spell-gauge.md)**: Reveal some of a target’s spells.
 - **[Steal Breath](steal-breath.md)**: You pull the breath from a creature’s lungs, dealing damage and leaving it unable to speak, use breath.
 - **[Suggestion](suggestion.md)**: Compels subject to follow stated course of action.
 - **[Summon Monster II](summon-monster-ii.md)**: Summons extraplanar creature to fight for you.
@@ -205,7 +218,9 @@
 - **[Assume Appearance](assume-appearance.md)**: Use a creature’s corpse to adopt its form.
 - **[Audiovisual Hallucination](audiovisual-hallucination.md)**: Create a phantasm with auditory and visual effects.
 - **[Aura of the Unremarkable](aura-of-the-unremarkable.md)**: Make actions seem mundane to nearby creatures.
+- **[Beacon of Luck](beacon-of-luck.md)**: Allies may roll saves twice.
 - **[Blink](blink.md)**: You randomly vanish and reappear for 1 round/level.
+- **[Channel the Gift](channel-the-gift.md)**: Your spell slot powers an ally’s spell.
 - **[Charm Monster](charm-monster.md)**: Makes monster believe it is your ally.
 - **[Claim Identity](claim-identity.md)**: Steal a touched humanoid’s face and identity.
 - **[Clairaudience/Clairvoyance](clairaudience-clairvoyance.md)**: Hear or see at a distance for 1 min./level.
@@ -224,9 +239,11 @@
 - **[Displacement](displacement.md)**: Attacks miss subject 50% of the time.
 - **[Disrupt Link](disrupt-link.md)**: Sever the link between a creature and her companion or familiar.
 - **[Dreadscape](dreadscape.md)**: Surroundings and unfamiliar creatures seem like something out of a nightmare.
+- **[False Alibi](false-alibi.md)**: Replace a memory when a trigger occurs.
 - **[False Future](false-future.md)**: Cause divinations of the future to reveal the result you choose.
 - **[Fear](fear.md)**: Subjects within cone flee for 1 round/level.
 - **[Fearsome Duplicate](fearsome-duplicate.md)**: School illusion (figment); Level bard 3, inquisitor 3, sorcerer/wizard 3, witch 3 Casting Time 1 standard.
+- **[Fractions of Heal and Harm](fractions-of-heal-and-harm.md)**: Convert 25% of your next area damage spell into healing.
 - **[Gaseous Form](gaseous-form.md)**: Subject becomes insubstantial and can fly slowly.
 - **[Geas, Lesser](geas-lesser.md)**: Commands subject of 7 HD or less.
 - **[Glibness](glibness.md)**: You gain +20 bonus on Bluff checks, and your lies can escape magical discernment.
@@ -360,6 +377,7 @@
 - **[Soulswitch](soulswitch.md)**: Swap souls with your familiar.
 - **[Suggestion, Mass](suggestion-mass.md)**: As *suggestion,* affects subject/level.
 - **[Summon Monster V](summon-monster-v.md)**: Summons extraplanar creature to fight for you.
+- **[Toast to Freedom](toast-to-freedom.md)**: Teleport a creature 15 feet, freeing it from bonds.
 - **[Unshakable Zeal](unshakable-zeal.md)**: Grant benefits on future attempts after failed checks, and protect against fear and emotion effects.
 - **[Village Veil](village-veil.md)**: You throw an illusion over an area to make creatures that view or interact with it believe it has suffered.
 - **[Whip of Centipedes](whip-of-centipedes.md)**: As whip of spiders, but with centipedes.
@@ -393,8 +411,10 @@
 - **[Programmed Image](programmed-image.md)**: As *major image*, plus triggered by event.
 - **[Project Image](project-image.md)**: Illusory double can talk and cast spells.
 - **[Scrying, Greater](scrying-greater.md)**: As *scrying*, but faster and longer.
+- **[Shield of Dawn, Greater](shield-of-dawn-greater.md)**: Sun shield damages melee attackers.
 - **[Shout, Greater](shout-greater.md)**: Devastating yell deals 10d6 sonic damage; stuns creatures.
 - **[Summon Monster VI](summon-monster-vi.md)**: Summons extraplanar creature to fight for you.
+- **[Symbol of Debauchery](symbol-of-debauchery.md)**: Symbol that fills creatures with lust.
 - **[Sympathetic Vibration](sympathetic-vibration.md)**: Deals 2d10 damage/round to freestanding structure.
 - **[Triggered Hallucination](triggered-hallucination.md)**: As *scripted hallucination*, but it only appears when triggered.
 - **[Veil](veil.md)**: Changes appearance of group of creatures.

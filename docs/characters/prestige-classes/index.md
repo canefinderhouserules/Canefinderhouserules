@@ -24,6 +24,8 @@ The prestige classes presented in this chapter are summarized below.
 
 **[Pathfinder Chronicler](pathfinder-chronicler.md)**: An explorer at heart, the Pathfinder chronicler travels to distant, exotic lands to expand her knowledge of the world.
 
+**[Sentinel](sentinel.md)**: A divine warrior who wields his deity's favored weapon and serves as a champion of the faith.
+
 **[Shadowdancer](shadowdancer.md)**: A mysterious adventurer who walks the boundaries between the real world and the realm of shadows, and who can command shadows to do her bidding.
 
 **[Battle Herald](battle-herald.md)**: A veteran whose masterful tactics and air of command inspire allies to greater feats of heroism.
@@ -31,6 +33,10 @@ The prestige classes presented in this chapter are summarized below.
 **[Cyphermage](cyphermage.md)**: An arcane scholar of runes and written magic who masters scrolls, glyphs, and ancient lore.
 
 **[Divine Scion](divine-scion.md)**: A spellcaster chosen by her deity, whose domain and alignment-opposed foes shape her power.
+
+**[Evangelist](evangelist.md)**: A devout follower of any background who gains boons, languages, and versatility from her deity.
+
+**[Exalted](exalted.md)**: A divine spellcaster who embodies her faith and inspires others, culminating in miraculous power.
 
 **[Faithless Enforcer](faithless-enforcer.md)**: A lawful investigator who hunts hidden cults and purges divine influence from lands that outlaw religion.
 
