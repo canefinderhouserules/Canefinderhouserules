@@ -81,3 +81,5 @@ The following text is the property of Wizards of the Coast, Inc. and is Copyrigh
     Pathfinder Player Companion: Advanced Class Origins © 2014, Paizo Inc.; Authors: Dennis Baker, Ross Byers, Tom Phillips, Stephen Radney-MacFarland, and Owen K.C. Stephens.
 
     Pathfinder Player Companion: Dirty Tactics Toolbox © 2015, Paizo Inc.; Authors: Alexander Augunas, Mikko Kallio, Anthony Li, Luis Loza, and Andrew Marlowe.
+
+    Pathfinder Player Companion: Blood of the Moon © 2013, Paizo Publishing, LLC; Authors: Tim Akers, Neal Litherland, David N. Ross, and Tork Shaw.

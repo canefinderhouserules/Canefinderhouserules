@@ -222,6 +222,8 @@ Akin to a mindchemist, inspired chemists use a type of cognatogen that instead o
 
 **Discoveries**: The following discoveries complement the inspired chemist archetype: grand inspiring cognatogen, greater inspiring cognatogen, and inspired bomb.
 
+**Psychoactive Bomb\* (Su)**: Psychoactive bombs are mixed with neurotoxic extracts that heighten certain sensations. A creature struck by a psychoactive bomb takes a –1 penalty on saving throws against charm, emotion, fear and pain effects, and the DC for Intimidate checks against the victim decreases by 2. This effect lasts for 1 hour per alchemist level. These penalties do not stack, and a creature can only be affected by a single psychoactive bomb at a time. A psychoactive bomb deals 1d6 fewer points of damage than normal. An alchemist must be at least 6th level before selecting this discovery.
+
 ## Promethean Disciple (Discovery)
 
 Some alchemists dabble in the art of construct creation.

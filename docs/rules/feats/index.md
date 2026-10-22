@@ -1484,9 +1484,13 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Ambuscading Spell](ambuscading-spell.md) | — | — |
 | [Ambush Sense](ambush-sense.md) | Combat | Int 13, trap sense class feature |
 | [Amplified Hex](amplified-hex.md) | — | Hex class feature |
+| [Bat Shape](bat-shape.md) | — | Cha 13, werebat-kin |
 | [Battle Cry (Surprise Round)](battle-cry-surprise-round.md) | — | Bardic performance class feature |
+| [Bear Hug](bear-hug.md) | Combat | Str 17, Beartrap Bite, Weapon Focus (bite), base attack bonus +8 |
+| [Beartrap Bite](beartrap-bite.md) | Combat | Weapon Focus (bite), base attack bonus +6 |
 | [Befuddling Initiative](befuddling-initiative.md) | Combat | Improved Initiative |
 | [Betrayal Sense](betrayal-sense.md) | Combat | Wis 13, rogue level 3rd, trap sense class feature |
+| [Bloodmarked Flight](bloodmarked-flight.md) | — | Base attack bonus +5, werebat-kin |
 | [Blustering Bluff](blustering-bluff.md) | — | Cha 13, Bluff 1 rank, Intimidate 1 rank |
 | [Brilliant Planner](brilliant-planner.md) | — | Int 13, character level 5th |
 | [Brilliant Spell Preparation](brilliant-spell-preparation.md) | — | Int 13, ability to prepare 3rd-level spells |
@@ -1511,6 +1515,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Dedicated Adversary](dedicated-adversary.md) | Combat | No levels in a class that has the favored enemy class feature |
 | [Deep Toxin](deep-toxin.md) | — | Vital Strike; base attack bonus +6; Craft (poison) 6 ranks or poison use class feature |
 | [Deft Catcher](deft-catcher.md) | — | Skill Focus (Sleight of Hand) |
+| [Dire Bat Shape](dire-bat-shape.md) | — | Cha 13, Bat Shape, base attack bonus +3, werebat-kin |
 | [Dirty Critical Hit](dirty-critical-hit.md) | Combat, Critical | Int 13, Combat Expertise, Critical Focus, Improved Dirty Trick, base attack bonus +11 |
 | [Dirty Disarm](dirty-disarm.md) | Combat | Int 13, Combat Expertise, Improved Dirty Trick, Improved Disarm, base attack bonus +6 |
 | [Dirty Fighting](dirty-fighting.md) | Combat | — |
@@ -1526,10 +1531,13 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Expert Sniper](expert-sniper.md) | Combat | Stealth 3 ranks |
 | [Exquisite Sneak](exquisite-sneak.md) | — | Dex 15, Careful Sneak, Stealth 6 ranks |
 | [Extra Contingency](extra-contingency.md) | — | Character level 19th |
+| [Extra Feature](extra-feature.md) | — | Con 13, skinwalker |
 | [Extra Impromptu Sneak Attack](extra-impromptu-sneak-attack.md) | Combat | Impromptu sneak attack class feature |
 | [Eye for Ingredients](eye-for-ingredients.md) | — | Eschew Materials, Appraise 6 ranks, Spellcraft 6 ranks |
+| [Fast Change](fast-change.md) | — | Dex 13, base attack bonus +6, skinwalker |
 | [Feign Curse](feign-curse.md) | — | Deceitful, Bluff 5 ranks, Spellcraft 1 rank |
 | [Fencing Grace](fencing-grace.md) | Combat | Dex 13, Weapon Finesse, Weapon Focus (rapier) |
+| [Ferocious Loyalty](ferocious-loyalty.md) | Teamwork | — |
 | [Fey Spell Lore](fey-spell-lore.md) | — | Cha 13, Spellcraft 1 rank, ability to cast druid spells |
 | [Fey Spell Versatility](fey-spell-versatility.md) | — | Cha 13, Spellcraft 1 rank, ability to cast ranger spells |
 | [Fighting Frenzy](fighting-frenzy.md) | Combat, Teamwork | Cha 13, rage class feature |
@@ -1571,6 +1579,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Misdirection Attack](misdirection-attack.md) | Combat | Int 13, Combat Expertise, Deceitful, Misdirection Redirection, Misdirection Tactics, Bluff 10 ranks |
 | [Misdirection Redirection](misdirection-redirection.md) | Combat | Int 13, Combat Expertise, Misdirection Tactics, Deceitful, Bluff 10 ranks |
 | [Misdirection Tactics](misdirection-tactics.md) | Combat | Int 13, Combat Expertise, Deceitful, Bluff 4 ranks |
+| [Motivating Display](motivating-display.md) | Combat | Cha 13, Dazzling Display, Weapon Focus |
 | [My Blade Is Yours](my-blade-is-yours.md) | Combat, Teamwork | Int 13, Combat Expertise, Sense Motive 3 ranks |
 | [Nerve-Racking Negotiator](nerve-racking-negotiator.md) | — | Persuasive |
 | [Notorious Vigilante](notorious-vigilante.md) | Combat | Dazzling Display, Weapon Focus, any nongood alignment, great renown social talent, proficiency with chosen weapon |
@@ -1617,6 +1626,9 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Subtle Enchantments](subtle-enchantments.md) | — | Deceitful, Spell Focus (enchantment) |
 | [Superior Dirty Trick](superior-dirty-trick.md) | Combat | Int 13, Combat Expertise, Greater Dirty Trick, Improved Dirty Trick, base attack bonus +8 |
 | [Superior Scryer](superior-scryer.md) | — | Spell Focus (divination), the ability to cast at least one spell of the scrying subschool |
+| [Surprising Combatant](surprising-combatant.md) | Combat | Improved Initiative, Bluff 3 ranks |
+| [Swarm Scatter](swarm-scatter.md) | Teamwork | — |
+| [Swarm Strike](swarm-strike.md) | Teamwork | — |
 | [Swipe and Stash](swipe-and-stash.md) | Combat | Sleight of Hand 5 ranks |
 | [Telepathy Tap](telepathy-tap.md) | — | Sense Motive 10 ranks, ability to cast *detect thoughts* or *telepathy* as a spell or spell-like ability or telepathy supernatural ability |
 | [Tenacious Spell](tenacious-spell.md) | Metamagic | — |
@@ -1630,6 +1642,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Unimpeachable Honor](unimpeachable-honor.md) | — | Iron Will |
 | [Unseen Poison](unseen-poison.md) | — | Bluff 5 ranks, Craft (poison) 5 ranks, ability to cast *nondetection* |
 | [Verify](verify.md) | — | Ability to cast 1st-level spells, lawful evil alignment, worshiper of a lawful evil deity of devils and contracts |
+| [Violent Display](violent-display.md) | Combat | Dazzling Display, Weapon Focus, base attack bonus +6 |
 | [Walking Sleight](walking-sleight.md) | — | Deft Hands, Sleight of Hand 5 ranks |
 | [Wasp Familiar](wasp-familiar.md) | — | Chaotic neutral alignment, worshiper of a chaotic neutral deity of lust, revenge, and trickery |
 | [Willing Accomplice](willing-accomplice.md) | — | Cha 13, Bluff 3 ranks, Sense Motive 1 rank |

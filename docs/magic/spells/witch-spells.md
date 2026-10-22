@@ -140,6 +140,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 
 ## 3rd-Level Witch Spells
 
+- **[Accursed Glare](accursed-glare.md)**: Target rolls attacks and saves twice and takes the lower result.
 - **[Agonizing Rebuke](agonizing-rebuke.md)**: Component V, S Range close (25 ft.
 - **[Anthropomorphic Animal](anthropomorphic-animal.md)**: Animal becomes bipedal.
 - **[Appearance of Life](appearance-of-life.md)**: Undead appear to be alive.
@@ -325,6 +326,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Phobia](phobia.md)**: Induce an irrational fear in a creature to the point of madness.
 - **[Plague Storm](plague-storm.md)**: Cloud infects creatures like contagion.
 - **[Prognostication](prognostication.md)**: Gain cryptic information from further in the future than *divination*.
+- **[Share Skin](share-skin.md)**: Possess an animal as with magic jar.
 - **[Symbol of Sealing](symbol-of-sealing.md)**: Create triggered wall of force.
 - **[Treacherous Teleport](treacherous-teleport.md)**: As *teleport*, except you choose some creatures to suffer a mishap or go elsewhere.
 - **[Vengeful Outrage](vengeful-outrage.md)**: Target is compelled to destroy one enemy.
@@ -373,6 +375,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Nine Lives](nine-lives.md)**: School abjuration; Level cleric 8, witch 8 Casting Time 1 standard action Range touch Target one creature.
 - **[Possession, Greater](possession-greater.md)**: As possession, but your body vanishes.
 - **[Prediction of Failure](prediction-of-failure.md)**: Target is permanently shaken and sickened, and may gain a spellblight.
+- **[Share Skin, Greater](share-skin-greater.md)**: Possess any creature as with magic jar.
 - **[True Prognostication](true-prognostication.md)**: Gain incredibly cryptic information from the distant future.
 - **[Wandering Weather](wandering-weather.md)**: Control weather in a large area that moves with you.
 

@@ -326,6 +326,7 @@
 **Abjuration**
 
 - **[Ablative Barrier](ablative-barrier.md)**: Surrounds the target with layers of force.
+- **[Accursed Glare](accursed-glare.md)**: Target rolls attacks and saves twice and takes the lower result.
 - **[Ancestral Regression](ancestral-regression.md)**: School transmutation (polymorph); Level alchemist 2, antipaladin 3, cleric 2, sorcerer/wizard 3, witch 2.
 - **[Appearance of Life](appearance-of-life.md)**: Undead appear to be alive.
 - **[Apport Animal](apport-animal.md)**: Send or receive a Tiny or smaller animal via teleportation.

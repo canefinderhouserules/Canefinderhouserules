@@ -214,6 +214,10 @@ Any barbarian meeting the prerequisites can take the following new rage powers. 
 
 **Abyssal Blood, Lesser (Su)**: While raging, the barbarian gains two claw attacks. These attacks are considered primary attacks and are made at the barbarian's full base attack bonus. They deal 1d6 points of slashing damage for Medium creatures (1d4 if Small) plus her Strength modifier.
 
+**Armor Ripper (Ex)**: While raging, you gain a +2 bonus on combat maneuver checks made to sunder with any of your natural attacks.
+
+**Boar's Charge (Ex)**: While raging, when you hit with a gore attack as part of a charge, you automatically score a critical threat. You must still confirm the critical hit as normal. You must be at least 12th level to select this rage power.
+
 **Celestial Blood (Su)**: While raging, the barbarian gains resistance 5 to acid and cold.
 
 **Celestial Blood, Greater (Su)**: Once per rage, the barbarian can reroll one ability check, skill check, or saving throw she just made. She must take the second result, even if it's lower. She must decide to use this ability after the die is rolled but before results are revealed.
@@ -221,6 +225,10 @@ Any barbarian meeting the prerequisites can take the following new rage powers. 
 **Celestial Blood, Lesser (Su)**: While raging, the barbarian's melee attacks are considered good-aligned weapons for the purpose of bypassing damage reduction.
 
 Furthermore, the barbarian deals an additional 1d6 points of damage when she damages an evil outsider with a melee attack.
+
+**Deathless Frenzy (Ex)**: While raging, you ignore the effects of being at 0 or fewer hit points until you have been at 0 or fewer hit points for 1 round, at which point the appropriate consequences for your current hit point total take effect. Even death can be postponed this way, potentially allowing you to survive if you receive sufficient healing before the round is up. You must be at least 12th level to select this rage power.
+
+**Disemboweling Tusks (Ex)**: While raging, when you confirm a critical hit with your gore attack, you deal 1d4 points of Constitution damage in addition to the normal damage for the gore attack. You must be at least 10th level to select this rage power.
 
 **Draconic Blood (Su)**: Choose an energy type from the following: acid, cold, fire, or electricity. While raging, the barbarian gains resistance 5 against the chosen energy type and a +1 natural armor bonus.
 
@@ -242,11 +250,15 @@ Furthermore, the barbarian deals an additional 1d6 points of damage when she dam
 
 **Fey Blood, Lesser (Su)**: While raging, each time the barbarian confirms a critical hit, the target must succeed at a Will saving throw (DC = 10 + 1/2 the barbarian's level + her Constitution modifier) or be confused for one round. This is a mind-affecting compulsion effect.
 
+**Fueled by Vengeance (Ex)**: While raging, whenever you deal weapon damage to a creature that dealt damage to you since the end of your last turn, add 1 round to your remaining number of rounds of rage for the current day. You can gain no more than 1 extra round of rage each round. You must be at least 6th level to select this rage power.
+
 **Infernal Blood (Su)**: While raging, the barbarian gains fire resistance 5, as well as a +2 bonus on saving throws against poison.
 
 **Infernal Blood, Greater (Su)**: While raging, the barbarian gains a +4 bonus against enchantment and fear effects.
 
 **Infernal Blood, Lesser (Su)**: While raging, up to three times a day as a swift action, the barbarian can infuse her attacks with hellfire for 1 round. During this time, all of her melee attacks gain the flaming magic weapon special ability.
+
+**Savage Intuition (Ex)**: Your bestial senses allow you to sense danger and become enraged before you even have time to consciously react. When combat begins, if you have rounds of rage remaining, you may automatically enter a rage without using an action at the start of the first round of combat (or at the start of the surprise round, if there is one), even if you are not otherwise aware that combat has begun.
 
 **Undead Blood (Su)**: While raging, all of the barbarian's melee attacks are treated as if they were made with a weapon with the ghost touch weapon special ability.
 

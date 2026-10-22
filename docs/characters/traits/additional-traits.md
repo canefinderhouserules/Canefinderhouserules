@@ -141,6 +141,8 @@ These traits are associated with magic and focus on spellcasting and manipulatin
 
 **Bladed Magic**: You have an innate talent for using magical weaponry and those weapons capable of becoming magical. You gain a +1 trait bonus on Craft checks made to craft magic or masterwork weapons. In addition, when you use your arcane pool class ability to grant a weapon an enhancement bonus, that bonus lasts for 2 minutes instead of 1.
 
+**Child of the Moon**: Your lunar gift becomes much more powerful when the moon is full. Choose either Climb, Stealth or Swim. You gain a +1 trait bonus on checks made with the chosen skill. On nights from the first quarter of the lunar cycle until the end of the last quarter (the half of the cycle where the moon is fuller), this bonus increases to +2. During the full moon, this bonus increases to +4.
+
 **Cross-Disciplined**: Your dabbling has granted you greater insight into the proper casting of certain spells. Once per day, you may cast a spell you have prepared that appears on both the magus and wizard spell lists as if your caster level were 1 level higher.
 
 **Cross-Knowledge**: Once per day, you may treat an extract you drink as if your caster level were 1 level higher as long as that extract appears on the wizard spell list and the alchemist list of formulae.

@@ -62,6 +62,8 @@ At 20th level, whenever you cast a spell on a creature made of metal or wearing 
 
 Wood represents flexibility, warmth, wind, generosity, cooperation, and idealism. Practitioners of this elemental magic often resemble druids in character and in the use of their magic.
 
+**Werewolf Shape**: When you cast *beast shape IV* or *shapechange*, you can choose to take the shape of a werewolf in addition to the other shapes available. While in werewolf shape, you gain all the effects of the werewolf template instead of the spell's normal benefits. You act in all respects as a natural lycanthrope for the duration of the spell, including the ability to inflict the curse of lycanthropy using the spell's save DC. You must be at least a 15th-level wizard to select this arcane discovery.
+
 **Wood Magic**: At 1st level, add the following spells to your wizard spell list at the listed spell level: 2nd—entangle, 3rd—tree shape, 4th—plant growth, 5th—command plants, 6th—tree stride, 7th—liveoak, 8th—transmute metal to wood, 9th—control plants.
 
 **Flexible Enhancement (Su)**: A master of the wood element is able to bend like bamboo when stressed and snap back into place. You gain a +1 enhancement bonus to your Dexterity, Constitution, or Wisdom ability score. This bonus increases by +1 for every five wizard levels you possess to a maximum of +5 at 20th level. You can change this bonus to a new ability score when you prepare spells. At 20th level, this bonus applies to two of these ability scores of your choice.

@@ -67,6 +67,7 @@ New antipaladin spells from *Ultimate Magic*. Spells from other books will be ad
 
 ## 3rd-Level Antipaladin Spells
 
+- **[Accursed Glare](accursed-glare.md)**: Target rolls attacks and saves twice and takes the lower result.
 - **[Ancestral Regression](ancestral-regression.md)**: School transmutation (polymorph); Level alchemist 2, antipaladin 3, cleric 2, sorcerer/wizard 3, witch 2.
 - **[Battle Trance](battle-trance.md)**: 3, witch 4 Casting Time 1 standard action Components V, S Range personal Target you Duration 1 minute/level.
 - **[Blade of Dark Triumph](blade-of-dark-triumph.md)**: Bonded weapon gains ghost touch.

@@ -371,3 +371,33 @@ You can use this ability once per day. You must be 11th level to select this rev
 **Whispered Glimpses (Su)**: The whispers of intrigue sing to you with glimpses of insight into others’ presence and motives, granting you greater awareness than your own senses could manage. You can add your Charisma modifier instead of your Wisdom bonus on Perception and Sense Motive checks.
 
 **Final Revelation**: Upon reaching 20th level, you become a master of intrigue. You can apply Silent Spell or Still Spell to any spell you cast without increasing the level or casting time. You do not need to possess these feats to use this ability.
+
+## Lunar Mystery
+
+**Class Skills**: An oracle with the lunar mystery adds Acrobatics, Knowledge (nature), Perception and Survival to her list of class skills.
+
+**Bonus Spells**: *Fumbletongue* (2nd), *dust of twilight* (4th), *rage* (6th), *moonstruck* (8th), *aspect of the wolf* (10th), *litany of madness* (12th), *lunar veil* (14th), *blood mist* (16th), *polar midnight* (18th).
+
+**Revelations**: An oracle with the lunar mystery can choose from any of the following revelations.
+
+**Eye of the Moon (Su)**: Your connection to the moon makes you supernaturally perceptive. You gain darkvision to a range of 60 feet. At 11th level, as a standard action, you can focus on a specific object or area (the size of which can be no greater than a 10-foot-by-10-foot square) and see it as though with *true seeing* as long as the moon is shining on it. Moonless nights, cloudy skies and shadows interfere with this ability.
+
+**Form of the Beast (Su)**: As a standard action, you can assume the form of a Small or Medium animal, as *beast shape I*. At 9th level, you can assume the form of a Tiny or Large animal, as *beast shape II*. At 11th level, you can assume the form of a Diminutive or Huge animal or a Small or Medium magical beast, as *beast shape III*. At 13th level, you can assume the form of a Tiny or Large magical beast, as *beast shape IV*. You can use this ability once per day, but the duration is 1 hour/level. You must be at least 7th level to select this revelation.
+
+**Gift of Claw and Horn (Su)**: As a swift action, you gain a natural weapon. The natural weapon lasts for a number of rounds equal to half your oracle level (minimum 1). You must choose a bite, claw or gore attack. These attacks deal the normal damage for a creature of your size. At 5th level, your natural weapon gains a +1 enhancement bonus. This bonus increases by +1 at 10th, 15th and 20th level. At 11th level, you gain two natural weapons at a time. You can use this ability a number of times per day equal to 3 + your Charisma modifier.
+
+**Mantle of Moonlight (Su)**: Your innate understanding of the moon renders you immune to the curse of lycanthropy. Additionally, you may disrupt a lycanthrope's connection to the moon with a successful touch attack. This action automatically forces the lycanthrope into its humanoid form, in which it must remain for a number of rounds equal to your oracle level. Upon reaching 5th level, you can use this ability to force others into a rage, as the spell. Using this ability is a melee touch attack. You can use this ability once per day at 5th level plus one additional time per day for every 5 levels above 5th.
+
+**Moonbeam (Su)**: You can fire a ray of moonlight as a ranged touch attack at any creature within 30 feet. This ray deals 1d6 points of damage + 1 for every 2 oracle levels you possess. In addition, the target must succeed at a Fortitude save or become blinded for 1 round. You can use this ability a number of times per day equal to your Charisma modifier (minimum 1).
+
+**Moonlight Bridge (Su)**: You summon a bridge of moonlight. The 10-foot-wide span touches the ground at a point adjacent to you. It can extend from this point in any direction for 10 feet per oracle level. The path persists until you have crossed over the bridge or for 24 hours, whichever is shorter. You may summon a moonlight bridge a number of times per day equal to your Charisma bonus. Should the bridge be attacked, treat it as a *wall of force*.
+
+**Moonlit Script (Su)**: Once per night while you sleep, your hands produce mysterious writing that pertains to the future. At 1st level, the prophetic writing manifests as an *augury* spell with 90% effectiveness. At 5th level, the writing takes the form of a *divination* with 90% effectiveness. At 8th level, the writing manifests as a casting of *commune* with no material component required.
+
+**Primal Companion (Ex)**: You gain the service of a faithful animal of the night. You can select from a bear, boar, crocodile, shark, tiger or wolf. This animal functions as a druid's animal companion, using your oracle level as your effective druid level.
+
+**Prophetic Armor (Ex)**: You are so in tune with your primal nature that your instincts often act to save you from danger that your civilized mind isn't even aware of. You may use your Charisma modifier (instead of your Dexterity modifier) as part of your Armor Class and all Reflex saving throws. Your armor's maximum Dexterity bonus applies to your Charisma, instead.
+
+**Touch of the Moon (Su)**: The exact effects of this revelation depend on whether you cast inflict or cure spells. If you cast inflict spells, these spells carry with them the taint of madness. Subjects who take damage from your inflict spells are also subject to *confusion*, as the spell, except the duration of this effect is a number of rounds equal to the level of the inflict spell. The save DC against this effect is 10 + 1/2 your oracle level + your Charisma modifier. Alternatively, if you cast cure spells, these spells are potentially more effective but entirely in the target's mind. Whenever you cast a cure spell, you can cast it as though it were enhanced with the Empower Spell metamagic feat by expending two spell slots, except these hit points are temporary. This does not increase the level of the spell. Hit points healed this way expire after a number of minutes equal to half your oracle level. You must be at least 7th level to select this revelation.
+
+**Final Revelation**: Upon reaching 20th level, you become an avatar of the primal world, part humanoid, part beast. Once per day, you can transform into a lycanthrope of your choice for a number of hours equal to your Charisma modifier, gaining all the powers of a natural lycanthrope of that type, including the ability to change shape between human, animal and hybrid form. In addition, you become immune to mind-affecting and language-dependent effects, as well as effects that specifically target only humanoids.

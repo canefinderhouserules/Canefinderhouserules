@@ -295,6 +295,7 @@
 - **[Primal Regression](primal-regression.md)**: Make a creature become bestial and unintelligent.
 - **[Reincarnate Spy](reincarnate-spy.md)**: As *reincarnate*, but creating a body similar to that of a chosen creature, and you secretly keep part of the body.
 - **[Repel Wood](repel-wood.md)**: Pushes away wooden objects.
+- **[Share Skin](share-skin.md)**: Possess an animal as with magic jar.
 - **[Spellstaff](spellstaff.md)**: Stores one spell in wooden quarterstaff.
 - **[Stone Tell](stone-tell.md)**: Talk to natural or worked stone.
 - **[Stoneskin, Communal](stoneskin-communal.md)**

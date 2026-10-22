@@ -91,3 +91,59 @@ Only ratfolk may select one of these traits.
 Only tieflings may select one of these traits.
 
 **Fiendish Sniper**: You instinctively hide after you shoot your opponents, waiting for an opportune moment to strike again. You gain a +5 trait bonus on Stealth checks following a sniping attack.
+
+## Skinwalker Traits
+
+Only skinwalkers may select the traits in this section (the heritage sections are open to skinwalkers of that heritage).
+
+**Mastery of Form**: You've never had trouble changing shape between beast and humanoid, and your ability to control your form is unparalleled. You gain a +2 trait bonus on saving throws against polymorph effects.
+
+**Traumatic Shift**: Your first transformation was in a public place, observed by loved ones who later shunned you or townsfolk who chased you away. You have become good at hiding your nature. You gain a +1 trait bonus on Bluff checks, and Bluff becomes a class skill for you.
+
+### Werebat-Kin Traits
+
+**Fight with the Flock**: You have always been most comfortable in a group. Since awakening to your werebat powers, this feeling has only grown. As long as you are within 10 feet of at least two allies, you gain a +1 trait bonus on Intimidate checks and attack rolls to make attacks of opportunity.
+
+**Precision Hearing**: You have long relied on your enhanced hearing to warn you of those who would persecute you for your nature. Whenever you succeed at a Perception check to hear a creature you can't see and your check exceeds the DC by 10 or more, you can pinpoint the exact square where the sound originated.
+
+### Werebear-Kin Traits
+
+**Durable Change**: When you use your change shape ability, you can choose to gain the benefits of the Endurance feat rather than gaining a special ability.
+
+**Reviving Rest**: When you first demonstrated your werebear ancestry, you slept for a week and awoke feeling more refreshed than ever before. Whenever you undergo complete bed rest for 24 hours, you recover an amount of hit points equal to three times your character level.
+
+### Wereboar-Kin Traits
+
+**Boar Resilience**: You were victimized by bullies or even abusive adults. Although the harassment got worse when your wereboar features became more obvious, those features also gave you fortitude that helped you resist it. You are unimpaired by being at exactly 0 hit points. In addition, you can ignore the Endurance prerequisite for the Diehard feat.
+
+**Strength of Body**: You took longer than most to learn control over your transforming abilities, but in that time you learned a trick to make the most of your strength. Once per day, you can use your Strength modifier in place of your Constitution modifier on a single Fortitude saving throw. You must announce that you are using this ability before you roll the saving throw.
+
+### Werecrocodile-Kin Traits
+
+**Crocodile Swim**: You grew up near crocodiles, learning to move as they do. You gain a +2 trait bonus on Swim and Stealth checks while moving at half speed or less and mostly or completely underwater. One of these skills (your choice) becomes a class skill for you.
+
+**Terrifying Lunge**: Once badly bitten by a stronger werecrocodile-kin, you learned the importance of showing your strength. Once per day, when you hit a flat-footed foe with a melee attack, you can make an Intimidate check to demoralize that foe as a swift action. Intimidate becomes a class skill for you.
+
+### Wererat-Kin Traits
+
+**Inured to Disease**: The first sign of your wererat heritage was your seeming imperviousness to disease. You gain a +2 trait bonus on Fortitude saving throws against diseases.
+
+**Rat Squeeze**: You first discovered your wererat-related abilities while escaping someone, whether the authorities or a rival, and ever since you have honed your ability to squeeze out of tight situations. Whenever you use your skinwalker ability to change shape into your bestial form, you can squeeze through narrow spaces at least half as wide as your normal space without slowing your movement; each move into or through a narrow space counts as 1 square, though you still take all the normal penalties associated with squeezing.
+
+### Wereshark-Kin Traits
+
+**Sharkchild**: In your youth, you swam into the ocean as deep as you could, and had it not been for your wereshark ancestry you would have surely drowned. You gain a +1 trait bonus on Swim checks. As long as you have a swim speed (such as that granted by your bestial form), you can use the run action to move up to five times your swim speed while swimming straight down from or straight up toward the surface of the water.
+
+**Shoreline Skirmisher**: You were raised without many toys or possessions, but you made do exploring every detail of the nearby seashore, and know how to spot potential tools or obstacles. You gain a +2 trait bonus on combat maneuver checks as long as you or your opponent is on sand or in water at least 6 inches deep.
+
+### Weretiger-Kin Traits
+
+**Feline Instinct**: When your weretiger heritage first manifested, you spent a period of time living off what you could catch, developing a sharp instinct to act when your foes were most vulnerable. In any combat in which you act during the surprise round, you gain a +3 trait bonus on your initiative check.
+
+**Tiger's Claw**: Your feline agility helps you inflict a devastating blow at the end of a charge. Whenever you use the charge action, you gain a +1 trait bonus on your weapon damage roll.
+
+### Werewolf-Kin Traits
+
+**Lycanthropic Bloodlust**: When your lycanthropic heritage awakened, you thrilled at any excuse for violence. Although you might have learned to focus or suppress this urge, it still gives you energy in a fight. Once per day, when you deal damage to a foe with a natural attack, you may gain 1d6 temporary hit points as an immediate action. These temporary hit points last for 1 minute.
+
+**Shared Curse**: A portion of your ancestor's fell curse still courses through your blood. Once per day as a standard action, you can share a portion of your accursed heritage with a willing ally by dealing 1 point of damage to that ally with a natural weapon. The ally gains a natural bite attack, as if from your skinwalker ability, for 2 rounds.
