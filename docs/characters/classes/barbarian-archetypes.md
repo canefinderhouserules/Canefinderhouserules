@@ -226,6 +226,12 @@ Any barbarian meeting the prerequisites can take the following new rage powers. 
 
 Furthermore, the barbarian deals an additional 1d6 points of damage when she damages an evil outsider with a melee attack.
 
+**Celestial Totem (Su)**: While raging, the barbarian shines with a righteous light. This effect bestows upon the barbarian a halo of gleaming light that shines as if it were daylight and triggers an *invisibility purge* effect in the barbarian’s square and each adjacent square. The *invisibility purge* only affects nongood creatures. A barbarian must be at least 8th level to select this rage power.
+
+**Celestial Totem, Greater (Su)**: While raging, the barbarian gains spell resistance equal to 11 + the barbarian’s class level against spells with the evil descriptor. She also gains a +2 bonus on all saving throws against spells and effects from evil creatures. A barbarian must have the celestial totem rage power and be at least 12th level to select this rage power.
+
+**Celestial Totem, Lesser (Su)**: While raging, the barbarian benefits from increased magical healing. Whenever she is subject to a spell that cures hit point damage, she heals 1 additional point of damage per caster level. In the case of non-spell healing effects (such as channeled energy or lay on hands), she heals a number of additional points equal to the class level of the character performing the magical healing. This does not affect fast healing or regeneration.
+
 **Deathless Frenzy (Ex)**: While raging, you ignore the effects of being at 0 or fewer hit points until you have been at 0 or fewer hit points for 1 round, at which point the appropriate consequences for your current hit point total take effect. Even death can be postponed this way, potentially allowing you to survive if you receive sufficient healing before the round is up. You must be at least 12th level to select this rage power.
 
 **Disemboweling Tusks (Ex)**: While raging, when you confirm a critical hit with your gore attack, you deal 1d4 points of Constitution damage in addition to the normal damage for the gore attack. You must be at least 10th level to select this rage power.

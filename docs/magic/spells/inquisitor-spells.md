@@ -165,6 +165,7 @@ New inquisitor spells from *Ultimate Magic*. Spells from other books will be add
 ## 5th-Level Inquisitor Spells
 
 - **[Blood Ties](blood-ties.md)**: When a target is harmed, so is the target’s relative.
+- **[Chains of Light](chains-of-light.md)**: Hold a creature in chains of light and block extradimensional travel.
 - **[Compelling Rant](compelling-rant.md)**: People believe your ridiculous speech as long as you keep talking.
 - **[Decapitate](decapitate.md)**: Turn a critical hit into a decapitation.
 - **[Divine Pursuit](divine-pursuit.md)**: Gain a movement type of your prey.

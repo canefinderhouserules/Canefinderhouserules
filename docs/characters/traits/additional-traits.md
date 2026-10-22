@@ -21,9 +21,13 @@ These traits are associated with combat, battle, and physical prowess. They give
 
 **Bloodthirsty**: You have a vicious streak, and nothing satisfies you more than warm blood on your hands and blade. Whenever you make an attack that reduces a foe to 0 hit points or fewer or you confirm a critical hit, your attack deals 1 additional point of damage. The additional damage is a trait bonus, and is multiplied by your weapon’s critical hit multiplier.
 
+**Careful Combatant**: You have a strong sense of self-preservation, believing it is more important to safely extract yourself from a fight that has turned hopeless than to stubbornly stand your ground and risk death. When using the withdraw action, both the first and second squares of your movement are not considered threatened by any opponents you can see, rather than just the first square.
+
 **Cold and Calculating**: You are adept at tricking favored enemies of your race or those related to your race. You gain a +1 trait bonus on all Bluff checks against favored enemies that share one of your subtypes. You also gain a +1 trait bonus on attack rolls made against such favored enemies during the surprise round.
 
 **Dedicated Defender**: When a companion is down, you fight harder. You gain a +1 trait bonus on attack rolls and on checks made to overcome spell resistance while you are adjacent to a dying or disabled ally, animal companion, eidolon, familiar, or mount.
+
+**Demon Smiter**: You grew up around those who fight demons, and from their stories you learned about the demons’ weaknesses. Once per day when fighting demons, you gain a +4 trait bonus on a single attack roll.
 
 **Dispelled Battler**: When deprived of magic, you fight harder. You gain a +1 trait bonus on weapon attack and damage rolls while within an area of antimagic such as that created by an *antimagic field*. You also gain this bonus for 1 round after you are subject to an area or targeted *dispel magic* spell, regardless of the effect’s success or failure in dispelling your spells and magical effects.
 
@@ -34,6 +38,10 @@ These traits are associated with combat, battle, and physical prowess. They give
 **Failed Aspirant**: You've failed the trials to gain entry to a prestigious martial school. Though you are disappointed, you were able to pick up one trick from the monks. Choose a single combat maneuver. Once per day, you can perform that combat maneuver without provoking an attack of opportunity, and you gain a +2 bonus on that attempt.
 
 **Faith’s Hunter**: Divine powers smile upon you each time you grievously wound a favored enemy. When you confirm a critical hit against a favored enemy, you may extend the duration of any divine spell affecting you by 1 round. The benefits from multiple critical hits stack. Divine spells with an instantaneous duration can’t be extended in this manner.
+
+**Hard to Kill**: Your strong will to live and spread good combined with your pure physicality makes you a tough opponent to take down. When you are attempting a Constitution check to stabilize when dying, the penalty on the check is only half your negative hit point total instead of your full negative hit point total.
+
+**Helpful**: You always know the best way to assist your companions, be it assisting them with a task, defending them in battle, or helping them place a well-aimed strike. When using the aid another action, you grant your ally a +3 bonus instead of a +2 bonus.
 
 **Hidden Hand**: Your concealed weapons strike fast and true. You gain a +1 trait bonus on Sleight of Hand checks made to conceal light weapons and a +1 trait bonus on attack rolls when making an attack with a light weapon during a surprise round.
 
@@ -77,6 +85,8 @@ These traits are associated with combat, battle, and physical prowess. They give
 
 **Vigilant Battler**: You are hard to fool and harder to trick with a feint. You gain a +1 trait bonus on all Sense Motive checks. This trait bonus increases to +2 when used to counter a feint in combat.
 
+**Weapon of Peace**: Even though you are a trained combatant, you don’t relish killing your enemies; disabling a foe is superior to killing someone capable of admitting defeat. When using a melee weapon that deals lethal damage to instead deal nonlethal damage, you take only a –2 penalty instead of –4.
+
 ## Faith Traits
 
 These traits rely upon conviction of spirit, perception, and religion, but are not directly tied to the worship of a specific deity. You do not need a patron deity to gain a faith trait, as these traits can represent conviction in yourself or your philosophy just as easily as they can represent dedication to a deity.
@@ -84,6 +94,8 @@ These traits rely upon conviction of spirit, perception, and religion, but are n
 **Beacon of Faith**: You wield the might of your faith with power and clarity. Once per day as a free action, you may treat your caster level as if it were 2 levels higher when using one of the granted powers of your domain or inquisition, or when casting one of your domain spells.
 
 **Blessed**: Some divine agent watches over you and heeds your call. Once per day as a swift action, you gain a +1 trait bonus on all saving throws for 1 round.
+
+**Blessed Touch**: You have focused yourself into being the perfect vessel for your deity. Divine power flows through you like a mountain stream, making your healing touch more potent than that of others. You heal 1 additional point of damage when using lay on hands, channeling energy, or casting a cure spell.
 
 **Disdainful Defender**: You are resistant to the magic of other faiths. You gain a +2 trait bonus on all Will saves you attempt against divine spells. This bonus does not apply against divine spells cast by a caster who worships the same deity you do.
 
@@ -110,6 +122,8 @@ These traits rely upon conviction of spirit, perception, and religion, but are n
 **Principled**: You hold yourself to a strict code of behavior that guides all of your decisions and actions. You take a –2 penalty on Bluff checks and gain a +2 trait bonus on saving throws against charm, compulsion, and emotion effects.
 
 **Prophesied**: Your coming was foretold in prophecy, and people familiar with your legend regard you with awe and fear. You gain a +1 trait bonus on Diplomacy checks and Intimidate checks when interacting with anyone familiar with you or your reputation.
+
+**Redeemer**: You’ve always held the strong belief that morality is everyone’s choice, and that those who act in wicked ways have simply never been shown how their actions truly affect others. When acting as a sponsor for an evil creature seeking [redemption](../../rules/additional-rules/redemption.md), your patience and kindness grant the creature a +3 bonus on its save rather than a +1 bonus.
 
 **Reincarnated**: You lived a previous life as someone—or something— else. For you, life and death are a cycle, and you have no fear of death. You gain a +2 trait bonus on saving throws against fear and death effects.
 
@@ -140,6 +154,8 @@ These traits are associated with magic and focus on spellcasting and manipulatin
 **Ascendant Recollection**: Your first bloodline power is particularly strong. Your sorcerer level is considered to be 1 level higher when determining the effects of your 1st-level bloodline power.
 
 **Bladed Magic**: You have an innate talent for using magical weaponry and those weapons capable of becoming magical. You gain a +1 trait bonus on Craft checks made to craft magic or masterwork weapons. In addition, when you use your arcane pool class ability to grant a weapon an enhancement bonus, that bonus lasts for 2 minutes instead of 1.
+
+**Celestial Transmuter**: You learned the secrets of transmutation from a celestial mentor. Whenever you cast a spell from the transmutation school, its effects manifest at +1 caster level. Additionally, select one of the following transmutation spells: *bear’s endurance*, *bull’s strength*, *cat’s grace*, *eagle’s splendor*, *fox’s cunning*, or *owl’s wisdom*. Once per day when you cast that spell, its duration is doubled. A spell affected by this trait cannot be modified further by the Extend Spell metamagic feat or similar abilities.
 
 **Child of the Moon**: Your lunar gift becomes much more powerful when the moon is full. Choose either Climb, Stealth or Swim. You gain a +1 trait bonus on checks made with the chosen skill. On nights from the first quarter of the lunar cycle until the end of the last quarter (the half of the cycle where the moon is fuller), this bonus increases to +2. During the full moon, this bonus increases to +4.
 
@@ -199,6 +215,8 @@ These traits are associated with magic and focus on spellcasting and manipulatin
 
 **Shrouded Casting**: You have learned the secret to casting some spells without lesser material components. Choose one school of magic when you pick this trait. You can cast spells from that school as if you had the Eschew Materials feat.
 
+**Spark of Creation**: You have always had a knack for making useful things, and your talent as an artisan was evident even at an early age. You gain a +1 trait bonus on Craft checks, and the cost of creating magic items is reduced by 5%.
+
 **Storm-Touched**: You share an affinity with elemental lightning. You gain DR 1/— against creatures and attacks with the electricity type.
 
 **Strength Foretold**: You can channel extra power into one of your bloodline spells. Once per day as a free action, you gain a +1 trait bonus to the DC of the saving throw of one of your bonus bloodline spells.
@@ -223,6 +241,8 @@ Social traits reflect your upbringing; your background in high society or lack t
 
 **Acrobat**: Having trained from a young age, you’re capable of amazing feats of daring. You gain a +1 bonus on Acrobatics checks, and you take only a –2 penalty instead of the normal –5 penalty when using the Climb skill to attempt an accelerated climb.
 
+**Affable**: You have a genial personality and make it a point to befriend and help people wherever you go. People find you trustworthy, and they are willing to share information with you. You gain a +2 trait bonus on Diplomacy checks to gather information, and can do so in half the normal time. In addition, Diplomacy and Knowledge (local) are always class skills for you.
+
 **Ambitious**: You exude confidence in the presence of those more powerful than you—sometimes unreasonably so. You gain a +4 trait bonus on Diplomacy checks made to influence creatures with at least 5 Hit Dice more than you possess.
 
 **Artisan**: You spent time working under artisans, or your parents were artisans who were particularly skilled at their trade. You gain a +2 trait bonus on a single Craft skill (your choice).
@@ -245,6 +265,8 @@ Social traits reflect your upbringing; your background in high society or lack t
 
 **Grief-Filled**: You are no stranger to loss and intense emotions. You gain a +2 trait bonus on all saving throws against emotion spells and effects.
 
+**Hardly a Fool**: You have always been able to ferret out lies and deception. You gain a +1 trait bonus on Sense Motive checks and a +1 trait bonus on saving throws against illusion effects.
+
 **Harvester**: You were trained to harvest all parts of an animal with care and precision. You gain a +1 trait bonus on Profession (tanner) or Profession (trapper) checks, and you may make these checks as if you were trained in the skill even if you have no ranks. Additionally, you do not risk poisoning yourself whenever you handle or apply poison taken from a venomous creature.
 
 **Imposing Scion**: The reputation of your bloodline grants you a degree of fearful respect. You gain a +1 trait bonus on Intimidate checks. If your bloodline is keyed to a specific creature type, your trait bonus increases to +2 when interacting with creatures of that type.
@@ -254,6 +276,8 @@ Social traits reflect your upbringing; your background in high society or lack t
 **Knowing the Enemy**: You know a good deal about your most dire enemies. You gain a +1 trait bonus on checks with the Knowledge skill corresponding to your first favored enemy choice, and that Knowledge skill is always a class skill for you.
 
 **Life of Toil**: You have lived a physically taxing life, working long hours for a master or to support a trade. Hard physical labor has toughened your body and mind. You gain a +1 trait bonus on Fortitude saves.
+
+**Mediator**: You have a way with calming tempers, using cool logic to soothe heated disagreements. You receive a +1 trait bonus on Diplomacy checks. In addition, you receive a +1 trait bonus to the DC of any charm or compulsion effect that does not provide ongoing control and results in peaceful acts, such as *calm emotions*, *sleep*, or a *suggestion* to lay down arms.
 
 **Mentored**: A tutor or private instructor guided you in learning your art, profession, or trade, and through your education, you became capable of teaching and guiding others. Choose a single Craft, Perform, or Profession skill. You gain a +1 trait bonus on checks with that skill. You also gain a +1 trait bonus when you aid another’s skill check with any skill.
 

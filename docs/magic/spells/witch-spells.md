@@ -142,6 +142,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 
 ## 3rd-Level Witch Spells
 
+- **[Accept Affliction](accept-affliction.md)**: Transfer an affliction or condition from a creature to yourself.
 - **[Accursed Glare](accursed-glare.md)**: Target rolls attacks and saves twice and takes the lower result.
 - **[Agonizing Rebuke](agonizing-rebuke.md)**: Component V, S Range close (25 ft.
 - **[Anthropomorphic Animal](anthropomorphic-animal.md)**: Animal becomes bipedal.

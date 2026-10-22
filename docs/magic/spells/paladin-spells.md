@@ -35,6 +35,7 @@
 
 ## 2nd-Level Paladin Spells
 
+- **[Angelic Aspect, Lesser](angelic-aspect-lesser.md)**: Gain some physical characteristics of an angelic being.
 - **[Aquatic Cavalry](aquatic-cavalry.md)**: Summon hippocampi to serve as aquatic mounts.
 - **[Bestow Weapon Proficiency](bestow-weapon-proficiency.md)**: Grants a creature proficiency in a single weapon for short period of time.
 - **[Blessing of Luck and Resolve](blessing-of-luck-and-resolve.md)**: A favored blessing of halfling clerics, this spell grants its target a +2 morale bonus on saving throws.
@@ -69,6 +70,8 @@
 
 ## 3rd-Level Paladin Spells
 
+- **[Accept Affliction](accept-affliction.md)**: Transfer an affliction or condition from a creature to yourself.
+- **[Angelic Aspect](angelic-aspect.md)**: Gain wings, resistances and DR 5/evil.
 - **[Burst of Speed](burst-of-speed.md)**: You gain increased speed, and your movement ignores attacks of opportunity and allows you to move through the space of creatures larger than you are.
 - **[Cure Moderate Wounds](cure-moderate-wounds.md)**: Cures 2d8 damage +1/level (max. +10).
 - **[Damnation](damnation.md)**: Punish creatures for evil spells they know or that affect them.
@@ -97,8 +100,11 @@
 ## 4th-Level Paladin Spells
 
 - **[Absolution](absolution.md)**: Removes enchantments and forgives actions taken under their effects.
+- **[Angelic Aspect, Greater](angelic-aspect-greater.md)**: Gain greater angelic powers, including a protective aura.
+- **[Archon’s Trumpet](archons-trumpet.md)**: Paralyze creatures in a cone with a booming report.
 - **[Ban Corruption](ban-corruption.md)**: Eliminate the gifts of nearby corrupted creatures.
 - **[Break Enchantment](break-enchantment.md)**: Frees subjects from enchantments, transmutations, and curses.
+- **[Chains of Light](chains-of-light.md)**: Hold a creature in chains of light and block extradimensional travel.
 - **[Companion Transposition](companion-transposition.md)**: Swap places with your animal companion, familiar, or spirit animal via teleportation.
 - **[Cure Serious Wounds](cure-serious-wounds.md)**: Cures 3d8 damage + 1/level (max +15).
 - **[Death Ward](death-ward.md)**: Grants bonuses against death spells and negative energy.

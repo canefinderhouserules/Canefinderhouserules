@@ -75,6 +75,7 @@
 - **[Alchemical Tinkering](alchemical-tinkering.md)**: You transform one alchemical item or firearm into another alchemical item or firearm of the same or lesser.
 - **[Align Weapon](align-weapon.md)**: Weapon becomes good, evil, lawful, or chaotic.
 - **[Ancestral Regression](ancestral-regression.md)**: School transmutation (polymorph); Level alchemist 2, antipaladin 3, cleric 2, sorcerer/wizard 3, witch 2.
+- **[Angelic Aspect, Lesser](angelic-aspect-lesser.md)**: Gain some physical characteristics of an angelic being.
 - **[Ant Haul, Communal](ant-haul-communal.md)**: As ant haul, but you may divide the duration among creatures touched.
 - **[Augury](augury.md)**: Learns whether an action will be good or bad.
 - **[Bear’s Endurance](bears-endurance.md)**: Subject gains +4 to Con for 1 min./level.
@@ -86,6 +87,7 @@
 - **[Boneshaker](boneshaker.md)**: Momentarily control a living or undead creature’s skeleton.
 - **[Build Trust](build-trust.md)**: Gain various bonuses when interacting with the target.
 - **[Bull’s Strength](bulls-strength.md)**: Subject gains +4 to Str for 1 min./level.
+- **[Burst of Radiance](burst-of-radiance.md)**: Blind creatures and damage evil creatures with a flash of light.
 - **[Calm Emotions](calm-emotions.md)**: Calms creatures, negating emotion effects.
 - **[Calm Spirit](calm-spirit.md)**: Postpone hostile action by a haunt or incorporeal undead.
 - **[Conditional Favor](conditional-favor.md)**: Provide another spell whose effects reverse if the target breaks a restriction.
@@ -145,6 +147,7 @@
 - **[Status](status.md)**: Monitors condition, position of allies.
 - **[Stave Off Corruption](stave-off-corruption.md)**: Protect against a corruption’s progression.
 - **[Summon Monster II](summon-monster-ii.md)**: Summons extraplanar creature to fight for you.
+- **[Touch of Mercy](touch-of-mercy.md)**: Target deals only nonlethal damage with weapon attacks.
 - **[Undetectable Alignment](undetectable-alignment.md)**: Conceals alignment for 24 hours.
 - **[Water Walk, Communal](water-walk-communal.md)**: As water walk, but you may divide the duration among creatures touched.
 - **[Whispering Lore](whispering-lore.md)**: Upon casting this spell, you are able to gain knowledge from the land itself.
@@ -152,6 +155,7 @@
 
 ## 3rd-Level Cleric Spells
 
+- **[Accept Affliction](accept-affliction.md)**: Transfer an affliction or condition from a creature to yourself.
 - **[Agonizing Rebuke](agonizing-rebuke.md)**: Component V, S Range close (25 ft.
 - **[Animate Dead](animate-dead.md)**: Creates undead skeletons and zombies.
 - **[Appearance of Life](appearance-of-life.md)**: Undead appear to be alive.
@@ -272,6 +276,7 @@
 ## 5th-Level Cleric Spells
 
 - **[Air Walk, Communal](air-walk-communal.md)**: As air walk, but you may divide the duration among creatures touched.
+- **[Angelic Aspect](angelic-aspect.md)**: Gain wings, resistances and DR 5/evil.
 - **[Atonement](atonement.md)**: Removes burden of misdeeds from subject and reverses magical alignment change.
 - **[Ban Corruption](ban-corruption.md)**: Eliminate the gifts of nearby corrupted creatures.
 - **[Blood Ties](blood-ties.md)**: When a target is harmed, so is the target’s relative.
@@ -290,6 +295,7 @@
 - **[Flame Strike](flame-strike.md)**: Smites foes with divine fire (1d6/level damage).
 - **[Half-blood Extraction](half-blood-extraction.md)**: You transform the target half-orc into a full-blooded orc.
 - **[Hallow](hallow.md)**: Designates location as holy.
+- **[Hymn of Mercy](hymn-of-mercy.md)**: Touch of mercy in a burst around you.
 - **[Inflict Light Wounds, Mass](inflict-light-wounds-mass.md)**: Deals 1d8 damage + 1/level, affects 1 subject/level.
 - **[Insect Plague](insect-plague.md)**: Wasp swarms attack creatures.
 - **[Locate Gate](locate-gate.md)**: Find a nearby magical portal.
@@ -330,6 +336,7 @@
 - **[Bear’s Endurance, Mass](bears-endurance-mass.md)**: As *bear’s endurance*, affects 1 subject/level.
 - **[Blade Barrier](blade-barrier.md)**: Wall of blades deals 1d6/level damage.
 - **[Bull’s Strength, Mass](bulls-strength-mass.md)**: As *bull’s strength*, affects 1 subject/level.
+- **[Chains of Light](chains-of-light.md)**: Hold a creature in chains of light and block extradimensional travel.
 - **[Create Undead](create-undead.md)**: Create ghasts, ghouls, mohrgs, or mummies.
 - **[Cruel Jaunt](cruel-jaunt.md)**: Sense creatures suffering from fear, then teleport close to them.
 - **[Cure Moderate Wounds, Mass](cure-moderate-wounds-mass.md)**: Cures 2d8 damage + 1/level, affects 1 subject/level.
@@ -364,6 +371,7 @@
 
 ## 7th-Level Cleric Spells
 
+- **[Archon’s Trumpet](archons-trumpet.md)**: Paralyze creatures in a cone with a booming report.
 - **[Awaken Construct](awaken-construct.md)**
 - **[Blasphemy](blasphemy.md)**: Kills, paralyzes, weakens, or dazes nonevil subjects.
 - **[Contact Entity IV](contact-entity-iv.md)**: Ask extraordinarily powerful eldritch entities to find and converse with you, or they may reply telepathically.
@@ -375,6 +383,7 @@
 - **[False Resurrection](false-resurrection.md)**: Appear to resurrect someone but instead allow a shadow demon to possess the corpse.
 - **[Holy Word](holy-word.md)**: Kills, paralyzes, blinds, or deafens nongood subjects.
 - **[Hunger for Flesh, Mass](hunger-for-flesh-mass.md)**: Give creatures bite attacks and a hunger for their own kind’s flesh.
+- **[Hymn of Peace](hymn-of-peace.md)**: Creatures must save to follow through with violent actions.
 - **[Inflict Serious Wounds, Mass](inflict-serious-wounds-mass.md)**: Deals 3d8 damage + 1/level, affects 1 subject/level.
 - **[Jolting Portent](jolting-portent.md)**: You inflict a vengeful fate on a creature, dealing electricity damage each time it attacks or casts a spell.
 - **[Plundered Power](plundered-power.md)**: Kill a creature and steal its strongest spell-like ability.
@@ -393,6 +402,7 @@
 
 ## 8th-Level Cleric Spells
 
+- **[Angelic Aspect, Greater](angelic-aspect-greater.md)**: Gain greater angelic powers, including a protective aura.
 - **[Antimagic Field](antimagic-field.md)**: Negates magic within 10 ft.
 - **[Cloak of Chaos](cloak-of-chaos.md)**: +4 to AC, +4 resistance, and SR 25 against lawful spells.
 - **[Create Greater Undead](create-greater-undead.md)**: Create shadows, wraiths, spectres, or devourers.

@@ -1564,6 +1564,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Greater School Familiar](greater-school-familiar.md) | — | School Familiar, wizard level 10th, specialized arcane school class feature |
 | [Group Deliver Touch Spells](group-deliver-touch-spells.md) | Teamwork | Group Shared Spells, must have a familiar with the share spells and deliver touch spells abilities |
 | [Guardian’s Return](guardians-return.md) | Familiar | Must have a familiar with the protector archetype |
+| [Heroic Legacy](heroic-legacy.md) | — | Base attack bonus +5, good alignment |
 | [Improved Bravery](improved-bravery.md) | Combat | Cha 13, bravery class feature |
 | [Improved Conceal Spell](improved-conceal-spell.md) | — | Conceal Spell, Deceitful, Bluff 5 ranks, Disguise 5 ranks, Sleight of Hand 10 ranks, ability to cast 3rd-level spells or use a 3rd-level spell-like ability |
 | [Improved Familiar Bond](improved-familiar-bond.md) | — | Familiar Bond, Iron Will |
@@ -1609,6 +1610,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Owl Style](owl-style.md) | Combat, Style | Dex 13, Skill Focus (Stealth), Stealth 1 rank |
 | [Owl Swoop](owl-swoop.md) | Combat | Dex 15, Owl Style, Skill Focus (Stealth), Acrobatics 1 rank, Stealth 1 rank |
 | [Pack Tactics](pack-tactics.md) | — | Int 13, animal companion class feature |
+| [Peacemaker](peacemaker.md) | — | Charisma 13, good alignment |
 | [Persuasive Bribery](persuasive-bribery.md) | — | Persuasive |
 | [Piercing Grapple](piercing-grapple.md) | Combat | Dex 13, Improved Grapple, Improved Unarmed Strike, Quick Draw, Intimidate 7 ranks |
 | [Planar Wanderer](planar-wanderer.md) | — | Cartogramancer, Knowledge (geography) 10 ranks, Knowledge (planes) 10 ranks, ability to cast *greater teleport* and *plane shift* |
@@ -1624,6 +1626,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Read Spell Traces](read-spell-traces.md) | — | — |
 | [Ready for Anything](ready-for-anything.md) | Combat | Alertness, Improved Initiative, Lightning Reflexes, Quick Draw, base attack bonus +6 or uncanny dodge class feature |
 | [Reflexive Caster](reflexive-caster.md) | — | Combat Reflexes, caster level 5th |
+| [Righteous Phalanx](righteous-phalanx.md) | Teamwork | Base attack bonus +3, good alignment |
 | [Sabotage Magic Item](sabotage-magic-item.md) | — | Magical Aptitude, Disable Device 5 ranks, Use Magic Device 5 ranks |
 | [Sabotage Specialist](sabotage-specialist.md) | — | Deft Hands, Disable Device 5 ranks |
 | [Sabotaging Sunder](sabotaging-sunder.md) | Combat | Str 13, Improved Sunder, Power Attack, Disable Device 7 ranks |
@@ -1633,6 +1636,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Sense Assumptions](sense-assumptions.md) | — | Sense Motive 3 ranks |
 | [Sense Relationships](sense-relationships.md) | — | Street Smarts |
 | [Shadows of Fear](shadows-of-fear.md) | Combat | Hidden strike +2d8 or sneak attack +2d6 |
+| [Siphon Poison](siphon-poison.md) | — | — |
 | [Sliding Dash](sliding-dash.md) | Combat | Dex 15, Acrobatics 10 ranks or acrobatic charge class feature, Bluff 3 ranks |
 | [Sneaking Critical](sneaking-critical.md) | Combat, Critical | Critical Focus, base attack bonus +9, sneak attack class feature |
 | [Social Bravery](social-bravery.md) | Combat | Cha 13, bravery class feature |
@@ -1640,6 +1644,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Stable Gallop](stable-gallop.md) | — | Animal or magical beast |
 | [Starry Grace](starry-grace.md) | Combat | Dex 13, Weapon Finesse, Weapon Focus (starknife) |
 | [Startling Getaway](startling-getaway.md) | Combat | Startling appearance class feature |
+| [Stayed Blade](stayed-blade.md) | — | Base attack bonus +3 |
 | [Street Carnage](street-carnage.md) | Combat | Str 15, Improved Bull Rush, Improved Unarmed Strike, Power Attack, Street Style, Street Sweep, base attack bonus +8 or monk level 7th |
 | [Street Smarts](street-smarts.md) | — | — |
 | [Street Style](street-style.md) | Combat, Style | Str 15, Improved Bull Rush, Improved Unarmed Strike, Power Attack, base attack bonus +4 or monk level 3rd |
@@ -1648,6 +1653,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Studied Spell](studied-spell.md) | Metamagic | — |
 | [Stylized Spell](stylized-spell.md) | Metamagic | Bluff 5 ranks, Spellcraft 5 ranks |
 | [Subtle Enchantments](subtle-enchantments.md) | — | Deceitful, Spell Focus (enchantment) |
+| [Summon Good Monster](summon-good-monster.md) | — | Good alignment |
 | [Superior Dirty Trick](superior-dirty-trick.md) | Combat | Int 13, Combat Expertise, Greater Dirty Trick, Improved Dirty Trick, base attack bonus +8 |
 | [Superior Scryer](superior-scryer.md) | — | Spell Focus (divination), the ability to cast at least one spell of the scrying subschool |
 | [Sure-Footed](sure-footed.md) | — | Quadruped animal or magical beast |
@@ -1668,8 +1674,10 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Unimpeachable Honor](unimpeachable-honor.md) | — | Iron Will |
 | [Unseen Poison](unseen-poison.md) | — | Bluff 5 ranks, Craft (poison) 5 ranks, ability to cast *nondetection* |
 | [Valiant Steed](valiant-steed.md) | — | Animal or magical beast |
+| [Veiled Purity](veiled-purity.md) | — | 5 or more Hit Dice, good alignment |
 | [Verify](verify.md) | — | Ability to cast 1st-level spells, lawful evil alignment, worshiper of a lawful evil deity of devils and contracts |
 | [Violent Display](violent-display.md) | Combat | Dazzling Display, Weapon Focus, base attack bonus +6 |
+| [Virtuous Creed](virtuous-creed.md) | — | Good alignment |
 | [Walking Sleight](walking-sleight.md) | — | Deft Hands, Sleight of Hand 5 ranks |
 | [Wasp Familiar](wasp-familiar.md) | — | Chaotic neutral alignment, worshiper of a chaotic neutral deity of lust, revenge, and trickery |
 | [Willing Accomplice](willing-accomplice.md) | — | Cha 13, Bluff 3 ranks, Sense Motive 1 rank |

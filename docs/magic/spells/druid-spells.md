@@ -80,6 +80,7 @@
 - **[Bear’s Endurance](bears-endurance.md)**: Subject gains +4 to Con for 1 min./level.
 - **[Binding Earth](binding-earth.md)**: If the target of this spell fails its Fortitude save, areas of earth and stone floor act as a snapping.
 - **[Bull’s Strength](bulls-strength.md)**: Subject gains +4 to Str for 1 min./level.
+- **[Burst of Radiance](burst-of-radiance.md)**: Blind creatures and damage evil creatures with a flash of light.
 - **[Callback](callback.md)**: Teleport a familiar or spirit animal to your side when it is injured.
 - **[Cat’s Grace](cats-grace.md)**: Subject gains +4 to Dex for 1 min./level.
 - **[Certain Grip](certain-grip.md)**: You gain a +4 competence bonus on Acrobatics and Climb checks and to CMD.
@@ -135,6 +136,7 @@
 
 ## 3rd-Level Druid Spells
 
+- **[Accept Affliction](accept-affliction.md)**: Transfer an affliction or condition from a creature to yourself.
 - **[Animal Aspect, Greater](animal-aspect-greater.md)**: As animal aspect, but you gain two animal qualities.
 - **[Apport Animal](apport-animal.md)**: Send or receive a Tiny or smaller animal via teleportation.
 - **[Aversion](aversion.md)**: Cause the target to avoid an object or location.

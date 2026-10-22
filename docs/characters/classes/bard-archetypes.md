@@ -54,6 +54,20 @@ Your agile dancing allows you and others to fall safely and land gracefully.
 
 **Action**: 4 full rounds.
 
+### Clamor of the Heavens (Percussion, Sing)
+
+This confusing dirge of melody and counter-melody was composed for choirs celebrating martyrs of the heavens. It is intended to praise and magnify the glory of celestial beings, but to the uninitiated it sounds like a battle hymn.
+
+**Prerequisite**: Perform (percussion or sing) 10 ranks.
+
+**Cost**: 5th-level bard spell known.
+
+**Effect**: Evil creatures that hear the performance and fail a Will save against the effect are blinded and deafened for the duration. On a successful save, they are shaken instead. Undead or creatures with the evil subtype that fail their saves are stunned for the duration, while those that succeed are staggered.
+
+**Use**: 3 bardic performance rounds, +1 round per additional round of duration.
+
+**Action**: 3 full rounds.
+
 ### The Dance of 23 Steps (Dance)
 
 This complex dance makes you difficult to strike.
@@ -143,6 +157,20 @@ Though the best-known version of this masterpiece refers to an infernal bargain,
 **Use**: 10 bardic performance rounds.
 
 **Action**: 10 minutes.
+
+### Life Budding in Salted Earth (Sing, String, Wind)
+
+This delicate tune suggests the determined sprouting of seedlings through barren, rocky soil.
+
+**Prerequisite**: Perform (sing), Perform (string), or Perform (wind) 4 ranks.
+
+**Cost**: Feat or 3rd-level bard spell known.
+
+**Effect**: This masterpiece grants all allies within 30 feet fast healing 1 for as long as the bard maintains the performance. He may increase the cost per round of the performance up to a total number equal to half his bard level to increase the fast healing by 1 for each additional round expended.
+
+**Use**: 1 bardic performance round per round, plus 1 or more additional uses per round to increase the duration of this effect.
+
+**Action**: 1 standard action.
 
 ### The Lullaby of Ember the Ancient (Sing)
 

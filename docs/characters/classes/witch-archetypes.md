@@ -8,6 +8,8 @@ This section includes new witch hexes, new witch patron themes, and several witc
 
 The following hexes are available to all witches and use the standard rules for hexes found in the Advanced Player’s Guide. The save to resist a hex is equal to 10 + 1/2 the witch’s level + the witch’s Intelligence modifier.
 
+**Aura of Purity (Su)**: The witch’s aura purifies the air around her. Diseases, inhaled poisons, and noxious gaseous effects (such as *stinking cloud*) are negated in a 10-foot aura around the witch for a number of minutes equal to her level. This duration does not need to be consecutive, but it must be spent in 1-minute increments. Effects caused by spells whose level is more than half the witch’s class level are unaffected.
+
 **Beast of Ill-Omen (Su)**: The witch imbues her familiar with strange magic, putting a minor curse upon the next enemy to see it. The enemy must make a Will save or be affected by bane (caster level equal to the witch’s level). The witch can use this hex on her familiar at a range of up to 60 feet. The affected enemy must be no more than 60 feet from the familiar to trigger the effect; seeing the familiar from a greater distance has no effect (though if the enemy and familiar approach to within 60 feet of each other, the hex takes effect). The bane affects the closest creature to the familiar (ties affect the creature with the highest initiative score). Whether or not the target’s save is successful, the creature cannot be the target of the bane effect for 1 day (later uses of this hex ignore that creature when determining who is affected).
 
 **Child-Scent (Ex)**: The witch gains the scent ability, but only with respect to humanoid children and immature animals. Thus, she could sniff out a child’s hiding place or a den of wolf pups, but not the child’s parents or the den mother.
@@ -17,6 +19,8 @@ The following hexes are available to all witches and use the standard rules for 
 **Feral Speech (Su)**: This hex grants the witch the ability to speak with and understand the response of any animal as if using speak with animals, though each time she uses the hex, she must decide to communicate with either amphibians, birds, fish, mammals, or reptiles, and can only speak to and understand animals of that type. The witch can make herself understood as far as her voice carries. This hex does not predispose any animal so addressed toward the witch in any way. At 12th level, the witch can use this hex to communicate with vermin.
 
 **Nails (Ex)**: The witch’s nails are long and sharp, and count as natural weapons that deal 1d3 points of damage (1d2 for a Small witch). These attacks are secondary attacks. If trimmed, the witch’s nails regrow to their normal size in 1d4 days.
+
+**Peacebond (Su)**: A witch can use this hex on a creature to prevent it from drawing a weapon for a number of rounds equal to the witch’s level. This hex has no effect on natural weapons or weapons already in a creature’s hands, but does prevent an archer from drawing arrows. A Will save negates this effect, and whether or not the save is successful, a creature cannot be the target of this hex again for 1 day.
 
 **Poison Steep (Sp)**: The witch can use her cauldron to brew a foul toxin in which she can steep fruits and other delicious edibles, transforming them so that when eaten, they have the same effect as a poison spell. Brewing the toxin and then steeping the food takes 1 hour in total; steeping can affect up to 1 pound of food. The food is poisoned for 24 hours, and the poison cannot be transferred to other objects. The food tastes normal, but magic detects it as poisonous. The witch must have the cauldron hex to select this hex.
 
@@ -54,17 +58,25 @@ Starting at 10th level, a witch can select one of the following major hexes when
 
 **Speak in Dreams (Sp)**: The witch can contact a creature as if using dream. The witch can use this ability on a number of creatures per day equal to her Intelligence bonus, but can dream-speak to those creatures as often as desired throughout that time period.
 
+**Witch’s Bounty (Su)**: The witch may bless a bush, plant, or tree that is planted in the ground, so that it creates a plentiful harvest. Each day at dawn, this blessed bush grows a number of *goodberries* equal to twice her witch level. Berries on the tree remain until they are picked, but the tree can never manifest a number of berries greater than twice her level at one time. The witch may only have one witch’s bounty active at a time, but can shift her blessing to a new plant with a ritual requiring 1 hour.
+
 **Witch’s Brew (Ex)**: When the witch uses her cauldron to brew a potion, she may spend double the cost to create 2 identical potions that day instead of just 1. At 15th level, she may spend triple the cost to create 3 identical potions that day. The witch must have the cauldron hex to select this hex.
 
 **Steal Voice (Su)**: Available only to tiefling witches. The witch can steal the voice of one creature within 30 feet, causing it to lose, for a number of rounds equal to the witch's Intelligence bonus, all abilities that rely on speech, including talking, casting spells with verbal components, and using auditory bardic performances. A successful Will saving throw negates this effect. If this hex is used upon a willing target, the duration lasts for a number of hours equal to the witch's Intelligence bonus. Additionally, the witch can change her voice to match that of any creature whose voice she has stolen with this hex, as per *vocal alteration*.
+
+**Witch’s Charge (Su)**: Once per day when preparing spells, a witch can designate a willing creature as her charge. She gains a constant *status* effect on this creature and can target it with beneficial touch spells from a range of 30 feet. The creature remains her charge until she designates a new one.
 
 ## Grand Hexes
 
 Starting at 18th level, a witch can select one of the following grand hexes whenever she could select a new hex.
 
+**Curse of Nonviolence (Su)**: The witch can curse a creature to prevent it from attacking innocents. If the target fails its Will save, it cannot take violent actions or do anything destructive against any creature with fewer Hit Dice than itself. If another creature takes hostile action against the cursed creature, the cursed creature can act normally in regard to that creature only. This is an abjuration effect. The curse is permanent but can be removed with a *break enchantment*, *miracle*, or *wish* spell. Whether or not the save is successful, a creature cannot be the target of this hex again for 1 day.
+
 **Dire Prophecy (Su)**: The witch curses the target so he is doomed to die (Will negates). As long as the curse persists, the target takes a –4 penalty to his Armor Class and on attack rolls, saves, ability checks, and skill checks. While the curse persists, the witch may end it by bringing its full force upon her victim all at once.
 
 Doing so gives the victim a penalty equal to the witch’s caster level to his Armor Class or on any single attack roll, combat maneuver check, opposed ability or skill check, or saving throw. The witch must decide to apply this penalty before the roll to be modified is made. If the witch does not have line of sight to the target, the full force of the curse occurs when the GM considers it most appropriate, such as when the target is in mortal danger. A target can only have one dire prophecy upon him at a time. Whether or not the target’s save against the hex is successful, a creature cannot be the target of this hex for 1 day. This is a curse effect.
+
+**Lay to Rest (Sp)**: The witch may target a single undead creature with this hex as if with an *undeath to death* spell. A Will save negates this effect. Whether or not the save is successful, a creature cannot be the target of this hex again for 1 day.
 
 **Summon Spirit (Sp)**: The witch calls forth the ghost of a humanoid creature with no more than 18 Hit Dice. The ghost has its own personality and desires, but is willing to bargain with the witch, as if she had cast greater planar ally. To seal an agreement with the witch, the ghost requires life energy equal to 1 temporary negative level (this is in addition to the standard payment for the ghost’s service). This negative level persists as long as the ghost remains in the service of the witch; the witch can end the agreement as a standard action, immediately removing the negative level.
 
@@ -76,7 +88,11 @@ The following are alternative patrons themes that a witch can choose.
 
 **Ancestors**: 2nd—bless, 4th—aid, 6th—prayer, 8th— blessing of fervor\*\*, 10th—commune, 12th—heroism, 14th— refuge, 16th—euphoric tranquility\*\*, 18th—choose fate\*.
 
+**Boundaries**: 2nd—*protection from evil*, 4th—*see invisibility*, 6th—*magic circle against evil*, 8th—*dimensional anchor*, 10th—*control summoned creature*\*\*, 12th—*banishment*, 14th—*ethereal jaunt*, 16th—*dimensional lock*, 18th—*gate*.
+
 **Death**: 2nd—deathwatch, 4th—blessing of courage and life\*\*, 6th—speak with dead, 8th—rest eternal\*\*, 10th— suffocation\*\*, 12th—circle of death, 14th—finger of death, 16th—symbol of death, 18th—power word kill.
+
+**Devotion**: 2nd—*divine favor*, 4th—*martyr’s bargain*\*\*, 6th—*magic vestment*, 8th—*greater magic weapon*, 10th—*flame strike*, 12th—*mass bull’s strength*, 14th—*bestow grace of the champion*\*\*, 16th—*holy aura*, 18th—*mass heal*.
 
 **Enchantment**: 2nd—unnatural lust\*, 4th—calm emotions, 6th—unadulterated loathing\*, 8th—overwhelming grief \*, 10th—dominate person, 12th—geas, 14th—euphoric tranquility\*\*, 16th—demand, 18th—dominate monster.
 
@@ -89,6 +105,8 @@ The following are alternative patrons themes that a witch can choose.
 **Moon**: 2nd—darkness, 4th—darkvision, 6th—owl’s wisdom, 8th—moonstruck\*\*, 10th—aspect of the wolf \*\*, 12th—control water, 14th—lunar veil\*, 16th—horrid wilting, 18th—meteor swarm.
 
 **Occult**: 2nd—detect undead, 4th—command undead, 6th—twilight knife\*\*, 8th—black tentacles, 10th—snake staff \*\*, 12th—create undead, 14th—waves of exhaustion, 16th—trap the soul, 18th—gate.
+
+**Peace**: 2nd—*sanctuary*, 4th—*calm emotions*, 6th—*wind wall*, 8th—*dismissal*, 10th—*serenity*\*\*, 12th—*word of recall*, 14th—*forcecage*, 16th—*euphoric tranquility*\*\*, 18th—*antipathy*.
 
 **Portents**: 2nd—ill-omen\*\*, 4th—locate object, 6th—blood biography\*\*, 8th—divination, 10th—contact other plane, 12th—legend lore, 14th—vision, 16th—moment of prescience, 18th—foresight.
 

@@ -233,6 +233,26 @@ Effects that kill you or do not reduce you to negative hit points (such as abili
 
 **Scourge of the Enemy (Ex)**: At 8th level, select one religion that is a rival or opponent of your religion. You treat members of this religion as if they were your favored enemy (as the ranger class ability), gaining a +2 bonus on the appropriate rolls. At 13th level, these bonuses increase to +4, and at 18th level, the bonuses increase to +6. These bonuses do not stack with other favored enemy bonuses (use the highest bonus that applies).
 
+### Final Rest Inquisition
+
+**Deities**: Any good deity of death, the dead, or the sun.
+
+**Granted Powers**: The dead have paid their dues; there is no need, and no excuse, for them to walk. You protect their rest personally.
+
+**Disrupt Animation (Sp)**: You can use *disrupt undead* as a spell-like ability, adding your Wisdom modifier to the damage. You can use this ability a number of times per day equal to 3 + your Wisdom modifier.
+
+**Unravel Animation (Su)**: At 8th level, when you activate your bane ability with undead as the creature type, you can choose for your weapon to instead gain the *disruption* weapon special ability. The DC to resist this effect is equal to 10 + 1/2 your inquisitor level + your Wisdom modifier.
+
+### Recovery Inquisition
+
+**Deities**: Any deity of trade, secrets, or craftsmanship.
+
+**Granted Powers**: Some hunt down secrets, but you focus on the search for more tangible items.
+
+**Focused Search (Ex)**: Once per day, you may designate a person or object as your focus. This takes 1 minute of concentration, during which time you must either picture this item or person if familiar to you, or meditate on the item’s or person’s description if not. Until you choose a new focus, you gain a bonus equal to half your inquisitor level on Perception checks to see or hear your focus, or when using Survival to track your focus or a creature with your focus in its possession. This bonus stacks with that gained from the track special ability.
+
+**Locate Focus (Sp)**: At 8th level, once per day you may use either *locate creature* or *locate object* as a spell-like ability using your current focus as the target. The range of this effect is 1 mile per level.
+
 ## Exorcist
 
 Some inquisitors, as they learn more about the threat of possession and the machinations of the planes, task themselves to expel possessing spirits and conniving outsiders from the world whenever possible. Eventually they learn the secret of the verdicts of exorcism, exile, and anathema.

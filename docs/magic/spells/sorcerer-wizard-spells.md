@@ -173,6 +173,7 @@
 
 - **[Aboleth’s Lung](aboleth-s-lung.md)**: The targets are able to breathe water, freely.
 - **[Adoration](adoration.md)**: You gain a bonus on Diplomacy checks and performance combat checks.
+- **[Angelic Aspect, Lesser](angelic-aspect-lesser.md)**: Gain some physical characteristics of an angelic being.
 - **[Animal Aspect](animal-aspect.md)**: You gain some of the beneficial qualities of an animal.
 - **[Anticipate Thoughts](anticipate-thoughts.md)**: Gain increasing bonuses to AC and on attack rolls and damage rolls against one creature.
 - **[Apport Object](apport-object.md)**: Send or receive a small object via teleportation.
@@ -186,6 +187,7 @@
 - **[Boneshaker](boneshaker.md)**: Momentarily control a living or undead creature’s skeleton.
 - **[Brow Gasher](brow-gasher.md)**: Slashing weapon deals bleed damage to an opponent’s head.
 - **[Bullet Shield](bullet-shield.md)**: You gain a +4 deflection bonus to AC against firearm attacks.
+- **[Burst of Radiance](burst-of-radiance.md)**: Blind creatures and damage evil creatures with a flash of light.
 - **[Callback](callback.md)**: Teleport a familiar or spirit animal to your side when it is injured.
 - **[Certain Grip](certain-grip.md)**: You gain a +4 competence bonus on Acrobatics and Climb checks and to CMD.
 - **[Codespeak](codespeak.md)**: Speak, read, and write a new code language.
@@ -257,6 +259,7 @@
 - **[Tactical Acumen](tactical-acumen.md)**: You gain an additional +1 on attack rolls or to AC due to battlefield positioning.
 - **[Telekinetic Assembly](telekinetic-assembly.md)**
 - **[Thunder Fire](thunder-fire.md)**: Ammunition in the targeted firearm deafens opponents.
+- **[Touch of Mercy](touch-of-mercy.md)**: Target deals only nonlethal damage with weapon attacks.
 - **[Twisted Space](twisted-space.md)**: Targeted creature’s attacks target a random square instead of the intended target.
 - **[Vine Strike](vine-strike.md)**: Enhance one of your natural or unarmed attacks with thorny vine growth.
 - **[Warding Weapon](warding-weapon.md)**
@@ -597,6 +600,7 @@
 **Abjuration**
 
 - **[Absorb Toxicity](absorb-toxicity.md)**: You become immune to diseases and toxins, absorb one, and then spread it to others.
+- **[Angelic Aspect](angelic-aspect.md)**: Gain wings, resistances and DR 5/evil.
 - **[Break Enchantment](break-enchantment.md)**: Frees subjects from enchantments, transmutations, and curses.
 - **[Callback, Greater](callback-greater.md)**: Teleport a familiar or spirit animal from miles away to your side when it is injured.
 - **[Charm Person, Mass](charm-person-mass.md)**: As *charm person*, but affects multiple creatures within 30 ft.
@@ -729,6 +733,7 @@
 - **[Antimagic Field](antimagic-field.md)**: Negates magic within 10 ft.
 - **[Break, Greater](break-greater.md)**: Break all nearby objects.
 - **[Chains of Fire](chains-of-fire.md)**: This spell functions like chain lightning, except as noted above, and the spell deals fire damage instead of.
+- **[Chains of Light](chains-of-light.md)**: Hold a creature in chains of light and block extradimensional travel.
 - **[Cruel Jaunt](cruel-jaunt.md)**: Sense creatures suffering from fear, then teleport close to them.
 - **[Curse Terrain, Greater](curse-terrain-greater.md)**: Curse an area with six dangerous hazards.
 - **[Decapitate](decapitate.md)**: Turn a critical hit into a decapitation.
@@ -828,6 +833,7 @@
 **Abjuration**
 
 - **[Arcane Cannon](arcane-cannon.md)**
+- **[Archon’s Trumpet](archons-trumpet.md)**: Paralyze creatures in a cone with a booming report.
 - **[Awaken Construct](awaken-construct.md)**
 - **[Banishment](banishment.md)**: Banishes 2 HD/level of extraplanar creatures.
 - **[Contact Entity IV](contact-entity-iv.md)**: Ask extraordinarily powerful eldritch entities to find and converse with you, or they may reply telepathically.
@@ -920,6 +926,7 @@
 
 **Abjuration**
 
+- **[Angelic Aspect, Greater](angelic-aspect-greater.md)**: Gain greater angelic powers, including a protective aura.
 - **[Curse of Night](curse-of-night.md)**: Curse an area with eternal night.
 - **[Curse Terrain, Supreme](curse-terrain-supreme.md)**: Curse an area with seven deadly hazards.
 - **[Death Clutch](death-clutch.md)**: Rip out someone’s heart.

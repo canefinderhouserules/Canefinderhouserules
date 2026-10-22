@@ -164,6 +164,7 @@
 - **[Tactical Acumen](tactical-acumen.md)**: You gain an additional +1 on attack rolls or to AC due to battlefield positioning.
 - **[Thunder Fire](thunder-fire.md)**: Ammunition in the targeted firearm deafens opponents.
 - **[Tongues](tongues.md)**: Speak and understand any language.
+- **[Touch of Mercy](touch-of-mercy.md)**: Target deals only nonlethal damage with weapon attacks.
 - **[Urban Step](urban-step.md)**: Step into one doorway and out another.
 - **[Voluminous Vocabulary](voluminous-vocabulary.md)**: Grant ability to speak, read, and write one or more languages for 8 hours.
 - **[Whip of Spiders](whip-of-spiders.md)**: Whiplike spider swarm deals swarm damage by touch.
@@ -171,6 +172,7 @@
 
 ## 3rd-Level Bard Spells
 
+- **[Accept Affliction](accept-affliction.md)**: Transfer an affliction or condition from a creature to yourself.
 - **[Alpha Instinct](alpha-instinct.md)**: Gain bonuses when you’re interacting with animals.
 - **[Assume Appearance](assume-appearance.md)**: Use a creature’s corpse to adopt its form.
 - **[Audiovisual Hallucination](audiovisual-hallucination.md)**: Create a phantasm with auditory and visual effects.
@@ -286,6 +288,7 @@
 
 ## 5th-Level Bard Spells
 
+- **[Archon’s Trumpet](archons-trumpet.md)**: Paralyze creatures in a cone with a booming report.
 - **[Callback, Greater](callback-greater.md)**: Teleport a familiar or spirit animal from miles away to your side when it is injured.
 - **[Compelling Rant](compelling-rant.md)**: People believe your ridiculous speech as long as you keep talking.
 - **[Crime Wave](crime-wave.md)**: Compel targets to commit criminal actions.
@@ -295,6 +298,7 @@
 - **[False Vision](false-vision.md)**: Fools scrying with an illusion.
 - **[Grease, Greater](grease-greater.md)**: As grease, but covers much more.
 - **[Heroism, Greater](heroism-greater.md)**: Gives +4 bonus on attack rolls, saves, skill checks; immunity to fear; temporary hp.
+- **[Hymn of Mercy](hymn-of-mercy.md)**: Touch of mercy in a burst around you.
 - **[Locate Gate](locate-gate.md)**: Find a nearby magical portal.
 - **[Mage’s Decree](mages-decree.md)**: Send a message to creatures within miles.
 - **[Mind Fog](mind-fog.md)**: Subjects in fog get –10 to Wis and Will checks.
@@ -337,6 +341,7 @@
 - **[Geas/Quest](geas-quest.md)**: As *lesser geas,* but affects any creature.
 - **[Heroes’ Feast](heroes-feast.md)**: Food for one creature/level cures and grants combat bonuses*.*
 - **[Hollow Heroism, Greater](hollow-heroism-greater.md)**: Provide a *greater* *heroism* effect that you can reverse at any time.
+- **[Hymn of Peace](hymn-of-peace.md)**: Creatures must save to follow through with violent actions.
 - **[Irresistible Dance](irresistible-dance.md)**: Forces subject to dance.
 - **[Life of Crime](life-of-crime.md)**: Permanently turn someone into a crazed criminal.
 - **[Neutralize Poison, Greater](neutralize-poison-greater.md)**: As neutralize poison, but it also reverses poison damage.
