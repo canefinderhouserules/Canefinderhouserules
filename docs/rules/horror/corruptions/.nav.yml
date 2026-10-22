@@ -1,11 +1,14 @@
 nav:
+  - Aboleth: aboleth.md
   - Accursed: accursed.md
+  - Demonic: demonic.md
   - Deep One: deep-one.md
   - Ghoul: ghoul.md
   - Hellbound: hellbound.md
   - Hive: hive.md
   - Lich: lich.md
   - Lycanthropy: lycanthropy.md
+  - Plagued: plagued.md
   - Possessed: possessed.md
   - Promethean: promethean.md
   - Shadowbound: shadowbound.md

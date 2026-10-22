@@ -131,3 +131,5 @@ The following text is the property of Wizards of the Coast, Inc. and is Copyrigh
     Pathfinder Campaign Setting: Inner Sea Intrigue © 2016, Paizo Inc.; Authors: David N. Ross, with Ross Byers.
 
     Pathfinder Campaign Setting: Inner Sea Races © 2015, Paizo Inc.; Authors: Benjamin Bruck, Ross Byers, John Compton, Adam Daigle, Crystal Frasier, Matthew Goodall, Alex Greenshields, James Jacobs, Amanda Hamon Kunz, Ron Lundeen, Rob McCreary, Jessica Price, David N. Ross, Owen K.C. Stephens, James L. Sutter, Russ Taylor, and Jerome Virnich.
+
+    Pathfinder Campaign Setting: Horror Realms © 2016, Paizo Inc.; Authors: Thurston Hillman, Tim Hitchcock, James Jacobs, Patrick Renie, David N. Ross, and Linda Zayas-Palmer.

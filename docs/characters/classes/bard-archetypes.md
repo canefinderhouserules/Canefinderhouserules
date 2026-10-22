@@ -344,6 +344,48 @@ You control the wind by telling a tale demonstrating the hubris of mortals.
 
 **Action**: 3 full rounds.
 
+### Banshee's Requiem (Sing)
+
+By filling your performance with the mournful angst of a lost love, your song evokes the inexorable pull of the grave upon every living thing.
+
+**Prerequisite**: Perform (sing) 17 ranks.
+
+**Cost**: Feat or 6th-level bard spell known.
+
+**Effect**: All living creatures you select within 30 feet at the start of your turn each round gain 2 negative levels unless they succeed at a Fortitude saving throw (DC = 10 + 1/2 your bard level + your Charisma bonus). This is a death effect and a sonic effect. This performance has audible components.
+
+**Use**: 3 rounds of bardic performance per round.
+
+**Action**: 1 full-round action.
+
+### Music Beyond the Spheres (Dance, Sing, String)
+
+You use your own life force to create a phantasmagorical impression of eldritch vibrations with your wild, flailing dance and erratic tones. The performance unravels and remakes the fabric of reality around you according to your designs.
+
+**Prerequisite**: Perform (dance, sing, or string) 13 ranks.
+
+**Cost**: Feat or 5th-level bard spell known.
+
+**Effect**: When you enact this unnerving bardic performance, you take 2 points of Constitution drain or 2 points of Wisdom drain (your choice) to create an effect similar to *limited wish*, except that the effect is interpreted by an alien entity from beyond the stars. If you have at least 17 ranks in Perform (dance, sing, or string), and you destroy a magic or technological item worth at least 25,000 gp as a material component and take 4 points of Constitution drain or Wisdom drain, you can instead produce the effects of a *wish* with this performance. The GM interprets how precisely the effects of this bardic performance are granted by the entity that you contact. This performance has audible and visual components.
+
+**Use**: 1 round of bardic performance.
+
+**Action**: 1 full-round action.
+
+### Relentless Reprise (Keyboard, Sing, String, Wind)
+
+Your song replays endlessly in your target's mind, sapping resolve and sanity.
+
+**Prerequisite**: Perform (keyboard, sing, string, or wind) 4 ranks.
+
+**Cost**: Feat or 2nd-level bard spell known.
+
+**Effect**: Whenever you end a bardic performance, you can add a quick reprise that makes it unnaturally catchy. Any creature within 30 feet of you when you finish your performance will run the risk of having your tune replaying endlessly in its mind. Unless the creature succeeds on a Will saving throw (DC = 10 + 1/2 your bard level + your Charisma modifier), the tune distracts it for 1 day per bard level. The creature takes a –4 penalty on concentration checks, initiative checks, and Perception checks as long as it remains distracted. The creature's sleep also becomes fitful, requiring half again as long for the usual benefit and entirely negating the benefits of full bed rest beyond a normal rest. Once per day upon waking after rest, the creature can attempt a new Will saving throw to shake off the relentless reprise. If it fails, the creature takes 1d2 points of Wisdom damage (or 1d4 points of sanity damage if using the sanity rules). This is a curse effect with audible components.
+
+**Use**: 1 round of bardic performance.
+
+**Action**: 1 immediate action.
+
 ## Animal Speaker
 
 An animal speaker focuses not on the ears and minds of humans, but on the creatures of the wild and those in the underbellies of cities.
@@ -1241,3 +1283,29 @@ Studious librarians are bards who have studied long in great libraries of the wo
 **Perfect Recollection (Ex)**: At 19th level, the studious librarian can always take 10 on Knowledge checks. This ability replaces mass suggestion.
 
 **One with the Library (Ex)**: At 20th level, the studious librarian can replace one of his spells known with any bard spell from a scroll once per day by studying the scroll for 1 hour. Doing so erases the spell from the scroll. This ability replaces deadly performance.
+
+## Mute Musician
+
+A mute musician forswears speech for the unnatural songs and thunderous silences of the depths of space. She learns to blend light and sound in seemingly impossible ways.
+
+**Mute (Ex)**: A mute musician has a disability or injury (possibly self-inflicted or even psychological) that prevents her from speaking or vocalizing. Language-dependent effects (including Perform [oratory]) require the bard to be able to use telepathy, nonverbal languages, or writing to communicate. She cannot use Perform (sing) or speak languages, though she can still create audible bardic performances by means of a musical instrument. A mute musician can provide verbal and somatic components for spells she casts via any musical instrument in which she has ranks in the appropriate Perform skill.
+
+**Eschew Materials (Ex)**: A mute musician gains Eschew Materials as a bonus feat at 1st level. This ability replaces bardic knowledge.
+
+**Bardic Performance**: A mute musician gains the following bardic performances.
+
+*Symphony of Silence (Su)*: At 3rd level, the mute musician's music muffles all other sounds within a 30-foot radius. All creatures in the area of effect gain a +2 bonus on all saving throws made against sonic attacks or language-dependent effects. This bonus increases to +3 at 7th level, +4 at 11th level, +5 at 15th level, and +6 at 19th level. Symphony of silence relies on audible components. This bardic performance replaces inspire competence.
+
+*Maddening Harmonics (Su)*: At 14th level, the mute musician can create a performance so baffling and discordant that it usurps all thought within a 30-foot radius with chaos and entropy. The mute musician can select which creatures in this area are affected by the maddening harmonics and which are not. All targeted creatures within this area must succeed at a Will saving throw (DC = 10 + 1/2 the bard's level + the bard's Charisma modifier) or be confused for as long as they can hear the performance. If the creature succeeds at its saving throw, it is immune to this ability for 24 hours. This performance relies on audible components. This bardic performance replaces frightening tune.
+
+*Ceaseless Performance (Su)*: At 15th level, the mute musician can continue taking the free action to maintain a bardic performance even while confused, cowering in fear, dazed, nauseated, panicked, paralyzed, petrified, silenced, staggered, stunned, or unconscious. Even if the mute musician is killed, she can continue to take the free action to maintain her performance as long as she has rounds remaining. Only the utter destruction of the mute musician's body (such as via *destruction* or *disintegrate*, or by reducing the bard to a negative hit point total equal to 10 × her Constitution score) causes the performance to end. This ability replaces inspire heroics.
+
+*Song of the Conjunction (Su)*: At 18th level, the mute musician can harmonize with the alien chorus beyond the music of the spheres, creating a portentous cosmic alignment. This effect duplicates a *gate* used to travel, save that the destination point must be on the same plane as the bard, but it is not otherwise limited by distance. This bardic performance replaces mass suggestion.
+
+**Insights from Beyond (Ex)**: At 2nd level, a mute musician adds two abjuration, conjuration (calling), conjuration (summoning), or conjuration (teleportation) spells from the sorcerer/wizard spell list to her list of bard spells known. At 6th level and every 4 bard levels thereafter, she can choose two more spells to add to her spells known. This class feature replaces versatile performance.
+
+**Dulled Horror (Ex)**: At 2nd level, a mute musician gains a +4 bonus on saves against confusion, fear, insanity effects, and the supernatural abilities of aberrations. This class feature replaces well-versed.
+
+**Eldritch Caesura (Su)**: At 10th level, a mute musician can insert unsettling silences into her otherworldly music by spending an additional 1 round of bardic performance per round. This supernatural technique impossibly blurs the line between music and light, transmitting audible performances and sonic bard spells through most barriers save lead. This allows the music and sonic spells to affect creatures across planar boundaries (including on the Ethereal or Shadow Planes), vacuums, and areas of magical silence. This class feature replaces jack-of-all-trades.
+
+**Ex-Mute Musicians**: A mute musician who regains the ability to speak or chooses to speak aloud loses all abilities granted by this archetype. She can regain the archetype's abilities by spending 24 hours without speaking.

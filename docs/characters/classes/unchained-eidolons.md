@@ -520,3 +520,58 @@ The ability increase evolution costs twice as much (4 evolution points) when add
 ## Eidolons and Alignment
 
 Generally, the summoner controls the actions of his eidolon, even during combat, either through verbal commands or through the link ability, but this does not mean that the eidolon is a puppet that follows every command without question. Eidolons have been known to refuse actions that are against their ethoses or alignments (subject to the GM’s discretion) and are quick to chide the summoner about such requests. In addition, should the action of the summoner cause a shift in alignment such that the summoner’s alignment is more than one step away from the eidolon’s, the eidolon refuses the call of the summoner (although the summoner can still use his summon monster class feature). If the summoner manages to restore his alignment, the eidolon returns to his service. If the summoner is 10th level or higher, all of the eidolon’s natural attacks are treated as the alignment of the eidolon for the purpose of overcoming damage reduction.
+
+## Aberrant Eidolons
+
+!!! note "Horror Realms"
+    Optional eidolon subtype for the unchained summoner.
+
+Alien entities from the farthest stars, the lightless depths of the Underworld, the sea itself, or even a lunatic's nightmares have long intrigued summoners who become obsessed with the monstrous form. While most summoners call upon outsiders from the Great Beyond, some discover the secret to summoning alien entities from strange corners of the Material Plane. These summoned minions are known as aberrant eidolons. Aberrant eidolons share many abilities and physical features with the nonoutsider aberrations that dwell in forgotten or nameless reaches of reality, but these malformed entities are still outsiders like any other eidolon for the purposes of determining which spells affect them.
+
+**Alignment**: Chaotic evil, chaotic neutral, neutral, or neutral evil.
+
+**Base Form**: Aberrant (bite, grab [tentacle mass], tentacle mass), biped (limbs [arms], limbs [legs], slam), quadruped (bite, limbs [legs, 2]), or serpentine (bite, grab [bite], reach [bite], tail, tail slap).
+
+**Base Evolutions**: Starting at 1st level, aberrant eidolons gain the following class skills in place of those normally gained by eidolons: Escape Artist, Intimidate, Knowledge (pick one), Perception, Stealth, and Climb, Fly, or Swim (pick one). The summoner can choose four additional skills to be class skills for his eidolon. Aberrant eidolons count as both aberrations and outsiders for spells and effects. They gain a +4 racial bonus on saving throws against mind-affecting effects.
+
+- At 4th level, aberrant eidolons add 1 point to their evolution pools.
+- At 8th level, aberrant eidolons gain immunity to mind-affecting effects (including morale bonuses).
+- At 12th level, aberrant eidolons gain DR 5/slashing. They also gain the blindsense evolution as a bonus evolution.
+- At 16th level, aberrant eidolons gain the blindsight evolution. They also gain telepathy with a range of up to 100 feet.
+- At 20th level, aberrant eidolons gain the ability to use *transmogrify* as a quickened spell-like ability once per day. These eidolons can gain the benefit of a *transmogrify* spell any number of times per day.
+
+### Aberrant Base Form
+
+The following base form is used by aberration eidolons as well as equally strange entities; this form is available to the following eidolon subtypes: aberrant, daemon, demon, and elemental.
+
+**Starting Statistics**: Size Medium; Speed 20 ft., swim 20 ft.; AC +2 natural armor; Saves Fort (good), Ref (poor), Will (good); Attack bite (1d6), tentacles (1d6); Ability Scores Str 12, Dex 13, Con 16, Int 7, Wis 10, Cha 11.
+
+### Aberrant Evolutions
+
+The following evolutions are used by aberrant eidolons and other strange eidolons.
+
+#### 1-Point Evolutions
+
+**Basic Psychic Magic**: Select one spell from the following list: *dancing lights*, *detect magic*, *ghost sound*, *grave words*, *know direction*, *lullaby*, *mage hand*, *open/close*, or *telekinetic projectile*. The eidolon can cast that spell as a psychic spell at will. The spell requires thought and emotion components as normal for psychic magic. The eidolon's caster level is equal to the eidolon's Hit Dice – 2 (minimum CL 1st). The save DC equals 10 + 1/2 the eidolon's HD + the eidolon's Charisma modifier. This evolution can be selected more than once, selecting a different spell each time. *Requirements*: Aberrant subtype, Charisma 10.
+
+**Tentacle Mass (Ex)**: The eidolon grows a thick mass of tentacles that can be used as a primary natural weapon. The tentacles deal 1d8 points of damage if the eidolon is Medium. Eidolons with the grab evolution that is linked to a tentacle mass can use that ability to grapple foes of up to the eidolon's size, and they can also use this evolution in place of the serpentine base form to qualify for the constrict evolution. *Requirements*: Aberrant subtype.
+
+#### 2-Point Evolutions
+
+**Blood Frenzy (Ex)**: When the eidolon is dealt damage, it enters a blood frenzy. It gains a +2 morale bonus on attack rolls and weapon damage rolls and attacks the nearest creature each round, friend or foe, although it ceases attacking its summoner after hitting once. The frenzy lasts for 5 rounds or until the eidolon can perceive no creatures. At the end of that time, the eidolon is fatigued for 1 minute. It cannot enter a blood frenzy while fatigued. *Requirements*: Aberrant, daemon, or demon subtype; summoner level 7th.
+
+**Intermediate Psychic Magic**: The eidolon gains 2 points of psychic energy that it can spend each day. Select one spell from the following list: *compel hostility*, *lesser confusion*, *hypnotism*, *mind thrust I*, or *vanish*. The eidolon can use that spell thereafter as a psychic spell by spending 1 point of psychic energy. The caster level and save DC are the same as for basic psychic magic. This evolution can be selected more than once, selecting a different spell each time. The eidolon's amount of psychic energy available to spend each day does not stack; it uses only the highest number of points granted by its most powerful psychic magic evolution. *Requirements*: Aberrant subtype; basic psychic magic evolution; Charisma 11; summoner level 5th.
+
+#### 3-Point Evolutions
+
+**Advanced Psychic Magic**: The eidolon gains 5 points of psychic energy that it can spend each day. Select one spell from the following list: *darkness*, *detect thoughts*, *disfiguring touch*, *id insinuation I*, *mind thrust II*, or *touch of idiocy*. The eidolon can cast that spell as a psychic spell by spending 2 points of psychic energy. The caster level and save DC are the same as for basic psychic magic. This evolution can be selected more than once, selecting a different spell each time. The eidolon's amount of psychic energy available to spend each day does not stack; it uses only the highest number of points granted by its most powerful psychic magic evolution. *Requirements*: Aberrant subtype; intermediate psychic magic evolution; Charisma 12; summoner level 7th.
+
+**Alien Consciousness (Ex)**: The eidolon's mind is dangerously incomprehensible to mortals who contact it. Nonaberrations that read the eidolon's mind or make mental contact with it take 1d4 points of Wisdom damage (or 1d8 points of sanity damage, if you use the sanity rules). This contact also includes communication via telepathy; an eidolon that has telepathic capability must initiate this particular contact as a swift action against a single target in order to force its alien consciousness on another creature. A successful Will saving throw (DC = 10 + 1/2 the eidolon's HD + the eidolon's Charisma modifier) halves the damage. Once a creature has been subjected to the eidolon's alien consciousness, it is immune to further damage from that eidolon's alien consciousness for 24 hours. The eidolon's summoner is immune to his own eidolon's alien consciousness, but he can still be affected by other eidolons' alien consciousnesses. This is a mind-affecting effect. *Requirements*: Aberrant or protean subtype; summoner level 9th.
+
+#### 4-Point Evolutions
+
+**Amorphous (Ex)**: The eidolon's biology lacks discernible weak points. It is not subject to critical hits and sneak attacks. *Requirements*: Aberrant or elemental subtype; summoner level 9th.
+
+**Disease (Ex)**: One of the eidolon's natural weapons carries a disease chosen from the following list: bubonic plague, filth fever, leprosy, red ache, or shakes. Each hit forces a saving throw against the disease's normal effects. The disease has no onset, however. The save DC equals 10 + 1/2 the eidolon's Hit Dice + the eidolon's Constitution modifier. The eidolon can expose a creature to its disease no more than once per round. By spending 2 additional evolution points, you can instead choose the following additional diseases: demon fever (only if the eidolon has the demon subtype), devil chills (only if the eidolon has the devil subtype), or slimy doom. *Requirements*: Aberrant, daemon, demon, or devil subtype or the undead appearance evolution; summoner level 7th.
+
+**Superior Psychic Magic**: The eidolon has 7 points of psychic magic to spend each day. Select one spell from the following list: *confusion*, *deeper darkness*, *displacement*, *jester's jaunt*, *id insinuation II*, or *mind thrust III*. The eidolon can cast that spell as a psychic spell by spending 3 points of psychic energy. The caster level and save DC are the same as for basic psychic magic. This evolution can be selected more than once, selecting a different spell each time. The eidolon's amount of psychic energy available to spend each day does not stack; it uses only the highest number of points granted by its most powerful psychic magic evolution. *Requirements*: Aberrant subtype; advanced psychic magic evolution; summoner level 11th; Charisma 13.
