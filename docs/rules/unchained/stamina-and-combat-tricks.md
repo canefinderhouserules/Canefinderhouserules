@@ -64,15 +64,27 @@ Nearly every combat feat has a combat trick associated with it. Some very basic 
 
 **Amateur Swashbuckler (Combat)**: Choose a second 1st-level swashbuckler deed. You can spend panache to use this deed, or you can spend 5 stamina points to use either of your deeds in place of panache. If you gain levels in a class that grants the panache class feature, you retain the ability to spend 5 stamina points in place of panache when using any of your 1st-level deeds, and this becomes a combat trick of the Extra Panache feat (even though that feat is not a combat feat).
 
-**Anticipate Dodge (Combat)**: You can spend 1 stamina point to increase the maximum bonus from Anticipate Dodge by 2 (this is still limited by the creature’s dodge bonus, however).
+**Ambush Awareness (Combat)**: You can spend 3 stamina points to grant the benefit of this feat to an adjacent ally.
 
-**Arc Slinger (Combat)**: You can spend 1 stamina point when making a sling or sling staff attack to gain the benefits of Point-Blank Shot within the first two range increments of the sling or staff.
+**Anticipate Dodge (Combat)**: You can spend 1 stamina point to increase the maximum bonus from Anticipate Dodge by 2 (this is still limited by the creature’s dodge bonus, however).
 
 **Arcane Armor Mastery (Combat)**: When casting a spell while wearing armor, you can spend 1 stamina point to activate Arcane Armor Mastery as a free action, or spend a number of stamina points equal to the spell’s level (minimum 1) to ignore your armor’s arcane spell failure chance entirely for that casting.
 
 **Arcane Armor Training (Combat)**: When casting a spell while wearing armor, you can spend 1 stamina point to activate Arcane Armor Training as a free action.
 
 **Arcane Strike (Combat)**: You can spend any number of stamina points to increase the duration of this feat’s effects by 1 round for each stamina point spent.
+
+**Arc Slinger (Combat)**: You can spend 1 stamina point when making a sling or sling staff attack to gain the benefits of Point-Blank Shot within the first two range increments of the sling or staff.
+
+**Armor Focus (Combat)**: You can spend 2 stamina points to increase the additional armor bonus granted by this feat to +2 for 1 round.
+
+**Armor Material Expertise (Armor Mastery)**: You can spend 5 stamina points to use an ability for a material, even though your armor isn’t made of it. This still counts against your daily limit of armor material abilities.
+
+**Armor Material Mastery (Armor Mastery)**: You can spend 5 stamina points to use an armor material ability without it counting against your daily limit.
+
+**Armor Trick (Combat)**: You can spend 5 stamina points to use an armor trick while wearing armor with which you are not proficient, or without meeting the trick’s additional prerequisites.
+
+**Awe-Inspiring Smash (Combat, Performance)**: After successfully performing a bull rush or sunder combat maneuver, you can spend up to 5 stamina points to increase the bonus on performance combat checks that you gain from Awe-Inspiring Smash by 1 per stamina point spent.
 
 **Barroom Brawler (Combat)**: You can spend 5 stamina points to use this feat as a swift action instead of a move action. If you have the martial flexibility class feature, you can spend 5 stamina points to use that class feature as a swift action instead of a move action, or as a free action instead of a swift action.
 
@@ -83,6 +95,8 @@ Nearly every combat feat has a combat trick associated with it. Some very basic 
 **Befuddling Strike (Combat)**: You can spend 5 stamina points to declare that you are using Befuddling Strike after you’ve hit with an unarmed strike attack roll.
 
 **Binding Throw (Combat)**: You can spend 1 stamina point to gain a +2 bonus on a grapple check made as a swift action with this feat.
+
+**Black Powder Spectacle (Combat, Grit, Performance)**: You can spend 2 stamina points when using Black Powder Spectacle to gain a +4 bonus on Intimidate checks and Perform checks for 1 round.
 
 **Blazing Aura (Combat)**: When you create an aura of heat with this feat, you can spend 5 stamina points to increase the fire damage dealt to any creature that begins its turn in the aura to 2d6 points of fire damage.
 
@@ -98,6 +112,8 @@ Nearly every combat feat has a combat trick associated with it. Some very basic 
 
 **Blooded Arcane Strike (Combat)**: When you imbue your weapon with Arcane Strike, you can spend 5 stamina points to increase its damage by 1 for the duration of the Arcane Strike effect.
 
+**Bloodletting (Combat)**: When you confirm a critical hit with a piercing or slashing weapon, you can spend up to 2 stamina points to increase the bleed damage dealt by Bloodletting by 1 per stamina point spent.
+
 **Bloody Assault (Combat)**: Each round you use this feat, you can spend up to 5 stamina points. If you do, until the end of your next turn, you reduce the penalty on all your attack rolls by an amount equal to the number of stamina points you spent.
 
 **Bludgeoner (Combat)**: When you make an attack with a lethal bludgeoning weapon to deal nonlethal damage, you can spend 2 stamina points to treat the weapon’s damage as if the weapon were one size category larger. This does not stack with any other effects that treat the weapon’s damage as if the weapon were a larger size.
@@ -110,9 +126,9 @@ Nearly every combat feat has a combat trick associated with it. Some very basic 
 
 **Boar Style (Combat, Style)**: While using this style, you can spend 3 stamina points when you hit a target with only one unarmed strike during a round to tear flesh and deal 2d6 points of damage with the attack. You can still only tear flesh once per round.
 
-**Body Shield (Combat)**: You can spend 5 stamina points to use this feat against a creature grappling you.
-
 **Bodyguard (Combat)**: When you use an attack of opportunity to use an aid another action to improve an adjacent ally’s Armor Class, you can spend 1 or 2 stamina points. Increase the bonus to the ally’s AC by an amount equal to the number of stamina points you spent.
+
+**Body Shield (Combat)**: You can spend 5 stamina points to use this feat against a creature grappling you.
 
 **Bonebreaker (Combat)**: When you make a successful Stunning Fist attempt against a creature that is dazed or staggered, you can spend 5 stamina points to forgo any other Stunning Fist effects and deal 1d6 points of Strength or Dexterity damage to that opponent instead.
 
@@ -122,9 +138,15 @@ Nearly every combat feat has a combat trick associated with it. Some very basic 
 
 **Bull Rush Strike (Combat)**: When you fail to confirm a critical hit with a melee attack, you can spend 2 stamina points to attempt to bull rush the target anyway. If you do, reroll the confirmation roll to determine if the bull rush attempt exceeds the opponent’s CMD. This reroll is only for the bull rush combat maneuver; it can’t cause the critical hit to be confirmed. You still can’t make the attempt if the target is immune to critical hits.
 
+**Bullseye Shot (Combat)**: You can spend 5 stamina points to use Bullseye Shot as a swift action.
+
 **Bullying Blow (Combat)**: You can spend 2 stamina points to gain the effects of this feat on a single attack made as part of a full attack.
 
+**Cannon Master (Combat)**: While acting as the leader of a firearm siege engine crew, you can spend 5 stamina points as an immediate action when the siege engine rolls a misfire to negate the misfire.
+
 **Canny Tumble (Combat)**: Just before you make an attack roll with the +2 circumstance bonus granted by this feat, you can spend up to 5 stamina points. When you do, if your attack hits, you gain a bonus on the damage roll equal to double the number of stamina points spent.
+
+**Casterbane Shot (Combat, Grit)**: When using Casterbane Shot, you can spend up to 5 stamina points to increase the DC of the concentration check imposed by the feat by an amount equal to the number of stamina points spent.
 
 **Catch Off-Guard (Combat)**: When making an attack with an improvised weapon against an armed opponent, you can spend 5 stamina points. If you do, the target is considered flat-footed during that attack. An opponent who recognizes you and has seen you use Catch Off-Guard in this way is immune to this effect.
 
@@ -132,9 +154,11 @@ Nearly every combat feat has a combat trick associated with it. Some very basic 
 
 **Cavalry Formation (Combat, Teamwork)**: At the start of your turn, you can spend 2 stamina points to gain the ability to overlap with allied riders who do not have this feat. This ability lasts until the start of your next turn.
 
+**Channeling Force (Combat)**: When you hit with an attack while using this feat, you can spend 5 stamina points to not have that attack count as one of the three attacks you can make with the force-imbued weapon.
+
 **Channel Smite (Combat)**: When making an attack using this feat, you can spend a number of stamina points up to the number of dice in your channel energy. For each stamina point you spend in this way, add an additional 1d6 points of positive or negative energy damage to your Channel Smite attack. This damage is also halved if the target succeeds at its Will save against the Channel Smite attack.
 
-**Channeling Force (Combat)**: When you hit with an attack while using this feat, you can spend 5 stamina points to not have that attack count as one of the three attacks you can make with the force-imbued weapon.
+**Charge of the Righteous (Combat)**: When charging any creature with an evil alignment, you can spend 2 stamina points to ignore the –2 penalty to AC imposed by charging.
 
 **Charge Through (Combat)**: When you attempt and fail to overrun a creature in the path of your charge, you can spend 5 stamina points to finish your charge against that creature instead of losing your charge.
 
@@ -174,9 +198,9 @@ Nearly every combat feat has a combat trick associated with it. Some very basic 
 
 **Coordinated Shot (Combat, Teamwork)**: When making an attack roll, you can spend 2 stamina points to ignore any cover provided by an ally who also has this feat.
 
-**Counter Reflexes (Combat)**: When an opponent with the Mobility feat moves out of or within your threatened area, you can spend 2 stamina points to gain a +4 bonus on your attack of opportunity.
-
 **Counterpunch (Combat)**: You can spend 5 stamina points to use this feat a second time during the same round.
+
+**Counter Reflexes (Combat)**: When an opponent with the Mobility feat moves out of or within your threatened area, you can spend 2 stamina points to gain a +4 bonus on your attack of opportunity.
 
 **Covering Defense (Combat)**: When using the total defense action, you can spend 5 stamina points. If you do, your shield also provides a cover bonus on your ally’s Reflex saves.
 
@@ -200,6 +224,10 @@ Nearly every combat feat has a combat trick associated with it. Some very basic 
 
 **Crushing Blow (Combat)**: When using this feat, you can spend either 2 or 4 stamina points. If you do, the Crushing Blow attack reduces the target’s AC by an additional 1 for every 2 stamina points you spent.
 
+**Cushioning Armor (Armor Mastery)**: You can spend 5 stamina points to use your armor’s hardness when directing falling damage to it.
+
+**Cushioning Shield (Shield Mastery)**: You can spend 5 stamina points to use your shield’s hardness when directing falling damage to it.
+
 **Dastardly Finish (Combat)**: You can spend 10 stamina points to deliver a coup de grace against two helpless, cowering, or stunned targets within your reach as a full- round action. This provokes attacks of opportunity twice— one for each coup de grace.
 
 **Dazing Assault (Combat)**: After hitting an opponent with a melee attack, you can spend 5 stamina points to attempt to daze that opponent as if using this feat.
@@ -218,13 +246,15 @@ Nearly every combat feat has a combat trick associated with it. Some very basic 
 
 **Death from Above (Combat)**: When charging an opponent from higher ground or from above while flying, you can spend 4 stamina points to gain a +5 bonus on the damage roll, and also retain the bonuses from charging and being on higher ground.
 
-**Death or Glory (Combat)**: When you make a Death or Glory attack, you can spend 5 stamina points to automatically negate the opponent’s immediate-action attack against you after it takes the action but before it rolls the attack.
-
 **Deathless Initiate (Combat)**: When you are at 0 or fewer hit points, you can spend 2 stamina points to avoid taking damage when you take both a move and a standard action or a full-round action.
 
 **Deathless Master (Combat)**: When you are at 0 or fewer hit points, you can spend 2 stamina points as a standard action at the start of your turn to gain 2 temporary hit points. These hit points last for 1 minute.
 
 **Deathless Zealot (Combat)**: Whenever a creature threatens a critical hit against you and neither of its confirmation rolls would succeed, you can spend 5 stamina points to make an attack of opportunity against that creature.
+
+**Death or Glory (Combat)**: When you make a Death or Glory attack, you can spend 5 stamina points to automatically negate the opponent’s immediate-action attack against you after it takes the action but before it rolls the attack.
+
+**Defended Movement (Shield Mastery)**: You can spend 3 stamina points as an immediate action to increase the bonus to your AC to +4 against a single attack.
 
 **Defensive Combat Training (Combat)**: When targeted with a combat maneuver, you can spend any number of stamina points to gain a bonus to your CMD equal to the number of stamina points you spent.
 
@@ -239,6 +269,8 @@ Nearly every combat feat has a combat trick associated with it. Some very basic 
 **Desperate Swing (Combat)**: You can spend 5 stamina points to use this feat an additional time per day. Each time you use this combat trick, you must spend 5 stamina points.
 
 **Destroyer’s Blessing (Combat)**: You can spend 2 stamina points to regain 1 round of rage after reducing a foe whose CR is at least half your character level to below 0 hit points, rather than upon successfully sundering a target.
+
+**Destroy Identity (Combat, Critical)**: When you confirm a critical hit against an opponent, you can spend 4 stamina points to increase the Charisma damage that opponent takes from Destroy Identity to 1d3+1 points.
 
 **Devastating Strike (Combat)**: Whenever you use Vital Strike, Improved Vital Strike, or Greater Vital Strike, you can spend 5 stamina points to increase the bonus damage to +4 on each extra weapon damage die. For weapons with more than one damage die, count all of the weapon’s base damage dice together as one set.
 
@@ -322,6 +354,8 @@ Nearly every combat feat has a combat trick associated with it. Some very basic 
 
 **Far Shot (Combat)**: When making a single ranged attack as a standard action, you can spend 5 stamina points to ignore all range penalties on that attack.
 
+**Feint Defender (Shield Mastery)**: You can spend 5 stamina points to force a foe to attempt two Bluff checks when trying to feint against you in combat, and use the lower of the two results.
+
 **Feint Partner (Combat, Teamwork)**: When feinting an opponent, you can spend 5 stamina points to have that opponent lose its Dexterity bonus to AC against the next attack made by any of your allies. If the next ally to attack that opponent also has this feat, that ally’s attacks do not count as the next attack for the purpose of this combat trick, allowing another ally to gain this benefit.
 
 **Felling Escape (Combat)**: You can select this feat even if you don’t meet the ability score prerequisite (Intelligence 13). You gain the benefit of this feat only as long as you have at least 1 stamina point in your stamina pool. You can spend 5 stamina points to make the trip attempt from this feat as a free action instead of a swift action.
@@ -376,8 +410,6 @@ Nearly every combat feat has a combat trick associated with it. Some very basic 
 
 **Great Cleave (Combat)**: Once per round when you miss a foe with an attack gained from Cleave, you can spend 5 stamina points to make another Cleave attack anyway.
 
-**Great Hatred (Combat)**: When you hit an opponent of a subtype subject to your hatred racial trait, you can spend up to 5 stamina points to deal an amount of extra damage equal to double the number of stamina points you spent.
-
 **Greater Blind-Fight (Combat)**: When you attack a creature subject to the blink spell, you can spend 5 stamina points. If you do, your Greater Blind-Fight feat works against that creature until the beginning of your next turn, either treating the blink miss chance as 20% and allowing a reroll or ignoring the blink miss chance if you have a way to see or strike ethereal creatures.
 
 **Greater Bull Rush (Combat)**: When you bull rush an opponent, you can spend 5 stamina points to have the opponent’s movement from the bull rush provoke an attack of opportunity from you as well.
@@ -392,9 +424,13 @@ Nearly every combat feat has a combat trick associated with it. Some very basic 
 
 **Greater Grapple (Combat)**: After you take a move action to successfully maintain a grapple, you can spend 5 stamina points before the end of your turn to maintain that grapple as a swift action. This allows you to make up to three grapple checks to maintain a grapple during a round, but you still can’t maintain a grapple until the round after you initiate it.
 
+**Greater Ironclad Reactions (Armor Mastery)**: You can spend 5 stamina points to use this feat without it counting against your maximum number of attacks of opportunity for that round.
+
 **Greater Overrun (Combat)**: If you succeed at a combat maneuver check to overrun an opponent, but do not exceed your opponent’s CMD by 5 or more, you can spend 2 stamina points to knock the target prone anyway.
 
 **Greater Penetrating Strike (Combat)**: When you use a weapon with which you have Weapon Focus to damage a creature that has damage reduction, you can spend 5 stamina points to allow all your allies within 30 feet to ignore 10 points of that creature’s damage reduction for 1 round. This amount is reduced to 5 points for damage reduction without a type (such as DR 10/—). This effect does not stack with Greater Penetrating Strike’s normal effect, but it does allow you to apply the effect to all your other weapons for the duration.
+
+**Greater Ray Shield (Shield Mastery)**: When you successfully deflect a ranged touch attack, you can spend 10 stamina points as a swift or immediate action to reflect the attack toward another target, which must be within 60 feet of you. The total distance from the original attacker, to you, and then to the new target cannot exceed the original attack’s maximum range. You take a –5 penalty on the ranged touch attack to hit the new target.
 
 **Greater Rending Fury (Combat)**: When you rend an opponent, you can spend 2 stamina points to deal 1d6+2 points of bleed damage to your opponent instead of 1d6 points of bleed damage.
 
@@ -424,6 +460,8 @@ Nearly every combat feat has a combat trick associated with it. Some very basic 
 
 **Greater Whip Mastery (Combat)**: When you initiate a grapple with a whip, you can spend 5 stamina points to attempt a second grapple check as a swift action to either move or damage the creature you are grappling. This is not a check to maintain the grapple.
 
+**Great Hatred (Combat)**: When you hit an opponent of a subtype subject to your hatred racial trait, you can spend up to 5 stamina points to deal an amount of extra damage equal to double the number of stamina points you spent.
+
 **Grudge Fighter (Combat)**: When you hit a creature that attacked you in the current combat, you can spend up to 2 stamina points to deal an amount of extra damage to it equal to double the number of stamina points you spent.
 
 **Gruesome Slaughter (Combat)**: When using this feat, you can spend up to 5 stamina points to increase the DC of the effect by an amount equal to the number of stamina points you spent.
@@ -438,6 +476,8 @@ Nearly every combat feat has a combat trick associated with it. Some very basic 
 
 **Haunted Gnome Shroud (Combat)**: When an opponent misses you due to the miss chance from Haunted Gnome Shroud, you can spend 5 stamina points to impose a –2 penalty on all that opponent’s attack rolls against you until that opponent deals damage to you. This ability doesn’t stack with itself.
 
+**Heroic Interposition (Combat)**: By spending 4 stamina points, you can use this feat an additional time per day.
+
 **Hero’s Display (Combat, Performance)**: When using this feat, you can spend up to 6 stamina points to increase the radius of the demoralizing effect by 5 feet per stamina point you spent (to a maximum of 60 feet).
 
 **Hex Strike (Combat)**: You can spend 5 stamina points to apply the effects of your chosen hex as a free action instead of a swift action.
@@ -447,6 +487,10 @@ Nearly every combat feat has a combat trick associated with it. Some very basic 
 **Impact Critical Shot (Combat, Critical)**: When you confirm a critical hit and use this feat to either bull rush or trip the target, you can spend 5 stamina points to perform the other combat maneuver as well. Use the confirmation roll for the combat maneuver check of both maneuvers.
 
 **Impaling Critical (Combat, Critical)**: When you impale a foe with this feat, you can spend 5 stamina points to make the weapon require a standard action to remove (rather than a move action).
+
+**Imposing Bearing (Armor Mastery)**: You can spend 5 stamina points as a swift action to add half your armor bonus to your next combat maneuver check this turn. Alternatively, you can spend 5 stamina points as an immediate action to add half your armor bonus to your CMD against a single combat maneuver this turn.
+
+**Improved Armor Focus (Combat)**: You can spend 5 stamina points to negate your armor’s armor check penalty for 1 skill check.
 
 **Improved Awesome Blow (Combat)**: When a creature attempts an awesome blow combat maneuver against you, you can spend up to 3 stamina points to increase your Combat Maneuver Defense against that combat maneuver by an amount equal to the number of stamina points you spent. This bonus stacks with the bonus granted by Improved Awesome Blow.
 
@@ -494,6 +538,8 @@ Nearly every combat feat has a combat trick associated with it. Some very basic 
 
 **Improved Shield Bash (Combat)**: When attempting a shield bash attack, you can spend 5 stamina points to either wield a heavy shield as if it were a light weapon or gain a +2 bonus on the shield bash attack roll with a light shield. Whichever option you choose, the effect lasts until the start of your next turn.
 
+**Improved Shield Focus (Combat)**: You can spend 3 stamina points to negate your shield’s armor check penalty for one skill check.
+
 **Improved Sidestep (Combat)**: As long as you have at least 1 stamina point in your stamina pool, you can use the Improved Sidestep feat as a free action that you can take during your opponent’s turn.
 
 **Improved Snap Shot (Combat)**: At the end of your turn, you can spend 5 stamina points to threaten an additional 15 feet with Snap Shot (instead of an additional 10 feet) until you take an attack of opportunity against an opponent in the expanded threat range or the beginning of your next turn, whichever comes first.
@@ -516,19 +562,25 @@ Nearly every combat feat has a combat trick associated with it. Some very basic 
 
 **Improved Vital Strike (Combat)**: When using the Vital Strike combat trick, you can spend 3 stamina points instead of 2 to reroll three damage dice.
 
-**Improvised Weapon Mastery (Combat)**: When making an improvised weapon attack, you can spend 2 stamina points to increase the damage of the attack by an additional step (to a maximum of 1d10, or 2d8 if the improvised weapon is two-handed).
-
 **Improved Weapon of the Chosen (Combat)**: When using this feat, at the end of its normal duration you can spend 2 stamina points to extend the duration until the end of your next turn.
 
 **Improved Whip Mastery (Combat)**: At the start of your turn, you can spend 5 stamina points to increase the radius of the area you threaten while wielding a whip by an additional 5 feet until you make an attack against an opponent in the expanded reach or the beginning of your next turn, whichever comes first.
+
+**Improvised Weapon Mastery (Combat)**: When making an improvised weapon attack, you can spend 2 stamina points to increase the damage of the attack by an additional step (to a maximum of 1d10, or 2d8 if the improvised weapon is two-handed).
 
 **In Harm’s Way (Combat)**: When using this feat’s benefit, you can spend up to 5 stamina points to reduce the damage from the intercepted attack by an amount equal to double the number of stamina points you spent this way. This does not alter other effects from that attack (such as bleed, poison, etc.), even if the damage is reduced to 0.
 
 **Inner Flame (Combat)**: When you fail a saving throw against an effect that has the fire or light descriptor, you can spend 5 stamina points to reroll the saving throw. You must take the second result, even if it is worse.
 
+**Intense Blows (Armor Mastery)**: You can spend 5 stamina points to double this feat’s bonus to your CMD for one combat maneuver check.
+
 **Intercept Charge (Combat, Teamwork)**: When using this feat, you can spend 5 stamina points to not have your movement count toward your movement on your next turn.
 
 **Intimidating Prowess (Combat)**: When attempting an Intimidate check, you can spend 2 stamina points for each size category smaller you are than a given target to ignore the size difference penalty against that target.
+
+**Intrepid Rescuer (Combat)**: When an opponent provokes an attack of opportunity from you as a result of the Intrepid Rescuer feat, if your attack of opportunity hits, you can spend 5 stamina points to cause the opponent’s attack to automatically miss your ally.
+
+**Ironclad Reactions (Armor Mastery)**: You can spend 3 stamina points to use this feat even if an attack of opportunity against you misses.
 
 **Jabbing Dancer (Combat)**: After you use Jabbing Style to move 5 feet without provoking attacks of opportunity, if you have at least 1 stamina point in your stamina pool, you can still take a 5-foot step on your next turn.
 
@@ -544,8 +596,6 @@ Nearly every combat feat has a combat trick associated with it. Some very basic 
 
 **Jawbreaker (Combat)**: When you hit with a Jawbreaker attack, you can spend 5 stamina points to increase the bleed damage to 1d6 points, increase the DC of the Heal check to end the bleed to 20, and require the user of a spell or ability that cures hit point damage to succeed at a DC 15 caster level check to end the bleed effect.
 
-**Ki Throw (Combat)**: You can spend 5 stamina points to throw a creature one size category larger than you.
-
 **Kick Up (Combat)**: You can spend 2 stamina points to kick up an unattended object in an adjacent space occupied by an enemy.
 
 **Killing Flourish (Combat)**: When you confirm a critical hit, you can spend 5 stamina points and take a swift action to attempt an Intimidate check to demoralize all foes within 30 feet who can see your attack.
@@ -555,6 +605,10 @@ Nearly every combat feat has a combat trick associated with it. Some very basic 
 **Kirin Strike (Combat)**: As long as you have at least 1 stamina point in your stamina pool, when you hit a creature you have identified with Kirin Style, you add your Intelligence modifier to melee and ranged attack damage rolls against that creature for the next 24 hours. You still can take a swift action to add twice your Intelligence modifier to damage rolls, but that damage doesn’t stack with the damage from this combat trick.
 
 **Kirin Style (Combat, Style)**: When you attempt a Knowledge check to identify a creature, you can spend up to 2 stamina points to gain a bonus on that check equal to double the number of stamina points you spent.
+
+**Ki Throw (Combat)**: You can spend 5 stamina points to throw a creature one size category larger than you.
+
+**Knocking Blows (Armor Mastery)**: You can spend 5 stamina points when using this feat to change the target’s penalty to CMD to –6.
 
 **Kobold Ambusher (Combat)**: When you use the run or charge action and wish to remain hidden, you can spend 2 stamina points to decrease the penalty for doing so to –5.
 
@@ -592,9 +646,11 @@ Nearly every combat feat has a combat trick associated with it. Some very basic 
 
 **Master Combat Performer (Combat)**: When you attempt a performance combat check, you can spend up to 5 stamina points to gain a bonus on the check equal to the number of stamina points you spent.
 
+**Masterful Display (Combat, Performance)**: When choosing the effects of any two performance feats you possess, you can spend 2 stamina points to gain the bonus from both feats on your performance combat check.
+
 **Master Siege Engineer (Combat)**: You can spend 5 stamina points to reduce the number of actions it takes to aim and load a siege engine by one for 1 round (minimum one action). You must be the crew lead of that siege engine.
 
-**Masterful Display (Combat, Performance)**: When choosing the effects of any two performance feats you possess, you can spend 2 stamina points to gain the bonus from both feats on your performance combat check.
+**Measured Response (Combat)**: You can spend 5 stamina points before making a melee or ranged attack with Measured Response to treat the attack roll’s result as a 10.
 
 **Medusa’s Wrath (Combat)**: While using this feat, you can spend 10 stamina points to make the bonus attacks against a foe that you are flanking, instead of only a dazed, flat- footed, paralyzed, staggered, stunned, or unconscious foe.
 
@@ -654,6 +710,8 @@ Nearly every combat feat has a combat trick associated with it. Some very basic 
 
 **Orc Weapon Expertise (Combat)**: When wielding a weapon with “orc” in its name that you are proficient with, you can spend 5 stamina points to gain one of the benefits for this feat that you don’t already have for 1 minute.
 
+**Ostentatious Weakness (Combat, Performance)**: You can spend 2 stamina points to select another type of favored enemy (and subtype if humanoid or outsider is chosen). For the purposes of Ostentatious Weakness, that type counts as having been chosen with the favored enemy class feature, with a bonus equal to your highest favored enemy bonus.
+
 **Outflank (Combat, Teamwork)**: When you threaten but fail to confirm a critical hit against a creature you are flanking, you can spend 5 stamina points. If you do, that creature provokes an attack of opportunity from each ally with this feat who is flanking the creature, even though you didn’t confirm the critical hit. You still can’t use this ability against targets immune to critical hits.
 
 **Pack Attack (Combat, Teamwork)**: When you are adjacent to an ally that also has this feat, you can spend 2 stamina points to take a 5-foot step as a free action instead of an immediate action. You can still use this feat’s ability only once per round.
@@ -693,6 +751,8 @@ Nearly every combat feat has a combat trick associated with it. Some very basic 
 **Point-Blank Master (Combat)**: When firing any type of ranged weapon, throwing a weapon, or making a ranged touch attack, you can spend 2 stamina points to avoid provoking an attack of opportunity.
 
 **Point-Blank Shot (Combat)**: You can spend up to 6 stamina points to increase this feat’s range by 5 feet for each stamina point you spent.
+
+**Poised Bearing (Armor Mastery)**: You can spend 3 stamina points as a swift action to have this feat’s effect on your size for the purposes of specific combat maneuvers also determine what size a creature must be to perform the combat maneuvers against you.
 
 **Power Attack (Combat)**: When using this feat, you can spend 2 stamina points to gain the benefits and the hindrances of that feat until the end of your turn, instead of until your next turn.
 
@@ -740,6 +800,8 @@ Nearly every combat feat has a combat trick associated with it. Some very basic 
 
 **Rebuffing Reduction (Combat)**: When you succeed at a bull rush combat maneuver check with this feat, you can spend 2 stamina points to move up to 5 feet with the target.
 
+**Redirected Shot (Combat, Grit)**: By spending 4 stamina points, you can use this feat an additional time per round.
+
 **Rending Claws (Combat)**: When you make two claw attacks but hit with only one, you can spend 5 stamina points to deal the precision damage granted by this feat anyway.
 
 **Rending Fury (Combat)**: When you make a rend attack, you can spend up to 5 stamina points to deal an amount of additional damage equal to double the number of stamina points you spent.
@@ -752,6 +814,8 @@ Nearly every combat feat has a combat trick associated with it. Some very basic 
 
 **Ride-By Attack (Combat)**: After making a mounted charge attack using this feat, you can spend 5 stamina points to change the direction of your movement instead of continuing to move in a straight line.
 
+**Riptide Attack (Combat)**: By spending 4 stamina points, you can attempt a drag combat maneuver check against any opponent that you successfully trip using Riptide Attack as a free action instead of a swift action.
+
 **Risky Striker (Combat)**: When using this feat, you can spend 5 stamina points to gain the bonus on damage rolls against creatures one or more size categories larger than you. This benefit ends when you stop using this feat or after 1 minute, whichever comes first.
 
 **Riving Strike (Combat)**: When you use this feat, you can spend up to 3 stamina points to increase the duration of the effect by 1 round for each stamina point spent.
@@ -761,6 +825,8 @@ Nearly every combat feat has a combat trick associated with it. Some very basic 
 **Sap Master (Combat)**: You can spend 10 stamina points to use this feat on one attack against an opponent you are flanking, instead of one that is flat-footed.
 
 **Savage Display (Combat, Performance)**: When using this feat, you can spend 2 stamina points to gain a +2d6 bonus on damage rolls (instead of +1d6).
+
+**Savage Surge (Combat, Performance)**: You can spend stamina points instead of rounds of rage when using Savage Surge.
 
 **Saving Shield (Combat)**: When you use this feat, you can spend 2 stamina points to increase the shield bonus granted to your ally by an amount equal to the enhancement bonus of the shield you are using.
 
@@ -773,6 +839,8 @@ Nearly every combat feat has a combat trick associated with it. Some very basic 
 **Sea Hunter (Combat)**: When you successfully knock a target off balance while using this feat, you can spend up to 5 stamina points to apply a penalty on the target’s Swim checks to recover its balance from the effect equal to the number of stamina points you spent.
 
 **Second Chance (Combat)**: You can select this feat even if you don’t meet the ability score prerequisite (Intelligence 13). You gain the benefits of this feat only as long as you have at least 1 stamina point in your stamina pool. After you use Second Chance, you can spend 5 stamina points to still make an attack at your second-highest attack bonus after rerolling your first attack.
+
+**Secured Armor (Armor Mastery)**: If you fail to negate a critical hit against you, you can spend 5 stamina points to cause the attack to deal half damage.
 
 **Seething Hatred (Combat)**: You can spend 5 stamina points to change your favored enemy type to any other favored enemy on the Ranger Favored Enemies table. This change lasts until the start of your next turn.
 
@@ -793,6 +861,8 @@ Nearly every combat feat has a combat trick associated with it. Some very basic 
 **Shatter Defenses (Combat)**: When you hit an opponent that has been made flat-footed to your attacks by this feat, you can spend 5 stamina points to make that opponent flat-footed to the attacks of one ally who is within 30 feet of that creature until the start of your next turn.
 
 **Shatterspell (Combat)**: When you have depleted all uses of this feat for a day, you can spend 5 stamina points to use this feat one additional time that day.
+
+**Shield Brace (Shield Mastery)**: You can spend 1 stamina point to negate the penalty on attacks for using this feat for a single round.
 
 **Shield Focus (Combat)**: When an attack is made against you while you are using a shield, you can spend up to 2 stamina points. If you do, the shield’s bonus to AC against that attack increases by an amount equal to the number of stamina points you spent.
 
@@ -834,19 +904,25 @@ Nearly every combat feat has a combat trick associated with it. Some very basic 
 
 **Snake Style (Combat, Style)**: When targeted by a melee or ranged attack, you can spend 5 stamina points to attempt the Sense Motive check by using one of your attacks of opportunity for the round instead of taking an immediate action.
 
-**Snap Shot (Combat)**: At the end of your turn, you can spend 2 stamina points to increase the range at which you threaten squares with ranged weapons to 10 feet until you take an attack of opportunity against an opponent in the expanded threat range or the beginning of your next turn, whichever comes first.
-
 **Snapping Turtle Clutch (Combat)**: When you attempt a grapple combat maneuver as an immediate action as a result of this feat, you can spend 2 stamina points to negate the –2 penalty on that combat maneuver check.
 
 **Snapping Turtle Shell (Combat)**: While using Snapping Turtle Style, you can spend up to 5 stamina points to cause an enemy to take an additional penalty on one critical confirmation roll against you equal to the number of stamina points you spent.
 
 **Snapping Turtle Style (Combat, Style)**: When using this style, as long as you have at least 1 stamina point in your stamina pool, your shield bonus to AC increases by 1.
 
+**Snap Shot (Combat)**: At the end of your turn, you can spend 2 stamina points to increase the range at which you threaten squares with ranged weapons to 10 feet until you take an attack of opportunity against an opponent in the expanded threat range or the beginning of your next turn, whichever comes first.
+
 **Snatch Arrows (Combat)**: When you snatch a thrown weapon, as long as you have at least 1 stamina point in your stamina pool, you can make a thrown ranged attack with it against any target, not just the original attacker.
 
 **Sorcerous Strike (Combat)**: After hitting with an unarmed strike, you can spend 2 stamina points to apply the effects of your chosen bloodline power as a free action instead of a swift action.
 
+**Spear Dancer (Combat)**: When you inflict the dazzled condition on an opponent using the Spear Dancer feat, you can spend up to 5 stamina points to increase the duration of the effect by 1 round per stamina point spent.
+
+**Spectacular Exit (Combat, Performance)**: When you use Spectacular Exit to withdraw without taking the –5 penalty on performance combat checks and you spend 5 stamina points, you don’t need to succeed at an Acrobatics check in order to avoid the penalty.
+
 **Spellbreaker (Combat)**: When you hit a caster with an attack of opportunity it provoked by failing to cast defensively, you can spend 5 stamina points to daze the caster until the end of its next turn. If the caster succeeds at a Fortitude save with a DC equal to 10 + your base attack bonus, it is staggered instead.
+
+**Spiked Destroyer (Combat)**: You can spend 4 stamina points after succeeding at a bull rush or overrun combat maneuver check to use Spiked Destroyer against that target as a free action.
 
 **Spinning Throw (Combat)**: If you succeed at the bull rush check, you can spend 2 stamina points to push the opponent 5 additional feet, or 4 stamina points to push the target 10 additional feet.
 
@@ -854,7 +930,11 @@ Nearly every combat feat has a combat trick associated with it. Some very basic 
 
 **Spit Venom (Combat)**: When you spit poison, you can spend up to 5 stamina points. For each stamina point spent, you can increase the range of the attack by 5 feet.
 
+**Sprightly Armor (Armor Mastery)**: You can spend 5 stamina points as an immediate action to gain a circumstance bonus on your Reflex saves equal to your armor’s enhancement bonus for 1 turn.
+
 **Spring Attack (Combat)**: You can spend 5 stamina points to use this feat as a standard action instead of a full-round action.
+
+**Squash Flat (Combat)**: After succeeding at a bull rush combat maneuver check, you can spend 4 stamina points to attempt to trip the target with Squash Flat regardless of your bull rush combat maneuver check’s result.
 
 **Stabbing Shot (Combat)**: When using this feat, you can spend 2 stamina points to negate the –2 penalty on all attacks for 1 round.
 
@@ -865,6 +945,8 @@ Nearly every combat feat has a combat trick associated with it. Some very basic 
 **Staggering Fist (Combat)**: You can spend 5 stamina points to declare that you are using this feat after you’ve hit with an unarmed strike.
 
 **Stand Still (Combat)**: When you succeed at a combat maneuver check to stop a creature’s movement with this feat, you can spend 5 stamina points. If you do, on that creature’s next turn, its movement speed is halved and it can’t take a 5-foot step.
+
+**Steady Engagement (Combat)**: You can spend up to 4 stamina points to gain a +1 bonus per stamina point spent on any combat maneuver check that you attempt as part of Steady Engagement.
 
 **Step Up (Combat)**: As long as you have at least 1 stamina point in your stamina pool, on the turn after you use this feat, you can still take a 5-foot step, and you don’t reduce your speed if you take an action to move due to this feat.
 
@@ -884,6 +966,8 @@ Nearly every combat feat has a combat trick associated with it. Some very basic 
 
 **Sundering Strike (Combat)**: When you fail to confirm a critical hit with a melee attack, you can spend 2 stamina points to attempt to sunder the target’s weapon anyway. When you do, reroll the confirmation roll and use it to determine if the sunder attempt exceeds the opponent’s CMD. This reroll is used only for the sunder combat maneuver; it can’t cause the critical hit to be confirmed. You still can’t make the attempt if the target is immune to critical hits.
 
+**Sun Striker (Combat, Critical)**: Whenever you threaten a critical hit against an undead creature, you can spend up to 4 stamina points to gain a +1 bonus per stamina point spent to confirm the critical hit.
+
 **Surprise Follow-Through (Combat)**: When you hit a foe that has been denied its Dexterity bonus by this feat, you can spend 2 stamina points to deal an extra 1d6 points of damage. This damage is precision damage and is not multiplied on a critical hit.
 
 **Surprise Strike (Combat)**: After you have used this feat once, you can spend 5 stamina points to use it additional times per day, at a cost of 5 stamina points per use.
@@ -893,6 +977,8 @@ Nearly every combat feat has a combat trick associated with it. Some very basic 
 **Swift Aid (Combat)**: As long as you have at least 1 stamina point in your stamina pool, you can use this feat to aid another as a move action.
 
 **Sword and Pistol (Combat)**: When you use the Two-Weapon Fighting feat while wielding a melee weapon and a crossbow or firearm, as long as you have 1 stamina point in your stamina pool, you gain a +1 bonus on all attack rolls made with the crossbow or firearm.
+
+**Swordlord Dueling Disciple (Combat)**: During any combat that is not a duel, you can spend 1 stamina point at the start of your turn to treat the combat as a duel until the start of your next turn for the purpose of gaining the benefits of the Swordlord Dueling Disciple feat.
 
 **Sympathetic Rage (Combat)**: When an ally within 30 feet is raging, you can spend 5 stamina points to enter a sympathetic rage even if you aren’t adjacent to that ally. Until the rage ends, you only need to stay within 30 feet of a raging ally to maintain your sympathetic rage.
 
@@ -912,6 +998,8 @@ Nearly every combat feat has a combat trick associated with it. Some very basic 
 
 **Terrorizing Display (Combat)**: When you use this feat, you can spend 5 stamina points to affect allies within 60 feet instead of 30 feet.
 
+**Thrilling Vengeance (Combat, Performance)**: You can spend 3 stamina points to increase the bonus on performance combat checks that you gain from Thrilling Vengeance by 2.
+
 **Throw Anything (Combat)**: As long as you have at least 1 stamina point in your stamina pool, when you use a melee weapon that is not a thrown weapon for a ranged improvised weapon attack, you use the weapon’s melee critical threat range and multiplier instead of the normal 20/×2 for improvised weapons. You can spend 2 stamina points to increase your range increment for thrown weapon attacks (including ranged improvised weapons) by 10 feet until the beginning of your next turn.
 
 **Tiger Claws (Combat)**: If your bull rush attempt from this feat succeeds, you can spend 2 stamina points to move with your opponent normally.
@@ -921,6 +1009,12 @@ Nearly every combat feat has a combat trick associated with it. Some very basic 
 **Tiger Style (Combat, Style)**: When you score a critical hit with your slashing unarmed strike, you can spend 2 stamina points to make the bleed damage last until the target is healed either with a Heal check or magical healing (instead of lasting only 2 turns).
 
 **Tiring Critical (Combat, Critical)**: When you threaten a critical hit against a fatigued foe, you can spend 5 stamina points before attempting the confirmation roll. If you confirm the critical hit, the foe becomes exhausted.
+
+**Toppling Bash (Shield Mastery)**: You can spend 5 stamina points to negate the penalty on your combat maneuver check to knock a creature prone.
+
+**Torchbearer (Combat)**: By spending 2 stamina points when you hit an opponent with a torch, you can increase the amount of fire damage dealt by the torch to 1d4.
+
+**To the Last (Combat)**: You can spend 1 stamina point when disabled to take a standard action without losing a hit point.
 
 **Touch of Serenity (Combat)**: You can spend 5 stamina points to declare you are using this feat after you hit with an attack roll. The target can still attempt the saving throw to resist Touch of Serenity’s effects.
 
@@ -936,13 +1030,13 @@ Nearly every combat feat has a combat trick associated with it. Some very basic 
 
 **Tripping Twirl (Combat)**: You can select this feat even if you don’t meet the ability score prerequisite (Intelligence 13). You gain the benefits of this feat only as long as you have at least 1 stamina point in your stamina pool.
 
+**Twinned Feint (Combat)**: After succeeding at the first feint while using this feat, you can spend 2 stamina points to attempt a second feint against any foe within your reach, even if it’s not adjacent to the first foe.
+
 **Twin Thunders (Combat)**: You can spend 2 stamina points to gain the benefits of this feat against a creature at least one size category larger than you that does not have the giant subtype. You gain this benefit until the start of your next turn.
 
 **Twin Thunders Flurry (Combat)**: You can spend 2 stamina points to attempt a trip combat maneuver against a Huge creature that does not have the giant subtype.
 
 **Twin Thunders Master (Combat)**: When you use the Twin Thunders feat to deal extra damage to an opponent, you can spend 2 stamina points to make that opponent shaken for 1d4 rounds.
-
-**Twinned Feint (Combat)**: After succeeding at the first feint while using this feat, you can spend 2 stamina points to attempt a second feint against any foe within your reach, even if it’s not adjacent to the first foe.
 
 **Two-Handed Thrower (Combat)**: When you throw a one-handed thrown weapon with two hands or throw a two-handed thrown weapon, you can spend 2 stamina points to add twice your Strength bonus to that attack’s damage instead of 1-1/2 times your Strength bonus.
 
