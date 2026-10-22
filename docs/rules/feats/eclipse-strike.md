@@ -1,0 +1,9 @@
+# Eclipse Strike
+
+*(Teamwork)*
+
+A sudden darkness disorients your foe, leaving it unprotected against your blinding attack.
+
+**Prerequisites**: Tiefling, darkness racial spell-like ability.
+
+**Benefit**: You can attack with an eclipse strike as a standard action if you and an ally who also has this feat are both flanking the target. You and your ally must both have at least one use of your darkness racial spell-like ability available to make this attack. If your eclipse strike hits, your target is blinded for 1 round. Creatures that have the see in darkness ability are immune to the blindness that is caused by an eclipse strike.
