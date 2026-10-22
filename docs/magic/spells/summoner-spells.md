@@ -97,6 +97,7 @@ New summoner spells from *Ultimate Magic*. Spells from other books will be added
 - **[Protection from Energy, Communal](protection-from-energy-communal.md)**: As protection from energy, but you may divide the duration among creatures touched.
 - **[Riding Possession](riding-possession.md)**: As possession, but you observe instead of control the subject.
 - **[Rising Water](rising-water.md)**: Conjures a cylinder of calm, swimmable water.
+- **[Seek Shelter](seek-shelter.md)**: Weak creatures flee to safety in an orderly fashion.
 - **[Stoneskin, Communal](stoneskin-communal.md)**
 - **[Summoner Conduit](summoner-conduit.md)**: The target takes damage whenever its summoned creature does.
 - **[Sword to Snake](sword-to-snake.md)**: An item bites whoever handles it.
@@ -122,6 +123,7 @@ New summoner spells from *Ultimate Magic*. Spells from other books will be added
 - **[Mage’s Decree](mages-decree.md)**: Send a message to creatures within miles.
 - **[Mind Swap](mind-swap.md)**: Switch minds with another creature for 1 hour per level.
 - **[Possession](possession.md)**: Project your soul into a creature’s body.
+- **[Secret Workshop](secret-workshop.md)**: As nondetection, but protects many creatures and objects.
 - **[Straitjacket](straitjacket.md)**: Restrain a creature’s arms and grant it a second saving throw against certain magic.
 - **[Tar Pool](tar-pool.md)**: Converts the top layer of the ground into hot tar.
 - **[Vengeful Stinger](vengeful-stinger.md)**: Stinging tail retaliates against melee attackers.

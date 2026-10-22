@@ -526,3 +526,27 @@ The black-blooded oracle has been infused with the eerie influence of strange fl
 ### Black Blood
 
 Black blood wells from the walls of a singular vault deep in the Underworld. This noxious fluid repulses and freezes all natural life, although certain creatures like aberrations, undead, and black-blooded oracles possess an uncanny immunity to its effects. Any other creature that comes into contact with black blood takes 1d6 points of cold damage—10d6 points of cold damage per round if fully immersed. Although black blood isn't itself inherently evil, a pint of black blood can be used as *unholy water*. A spellcaster who consumes a dose of black blood casts all necromantic spells at +1 caster level for the next 10 minutes, but takes 3d6 points of cold damage and 1 point of Constitution damage by drinking the stuff. Normally, a dose of black blood becomes inert an hour after being harvested from the source, losing all mystical properties. *Gentle repose* can preserve up to 1 gallon of black blood's magical properties for increased lengths of time, but no other method of stabilizing the stuff has yet been developed. The blood of a black-blooded oracle is diluted and does not have the properties of full-strength black blood.
+
+## Desert Prophet
+
+Desert prophets help guide and serve a vast desert empire and its interests across the world.
+
+**Recommended Mysteries**: Any.
+
+**Class Skills**: A desert prophet adds Perception, Perform (dance), and all Knowledge skills to her list of class skills. These replace the additional skills gained from the oracle's mystery.
+
+**Bonus Spells**: A desert prophet gains the following bonus spells: *clairaudience/clairvoyance* (6th), *prying eyes* (10th), *true seeing* (12th), *prediction of failure* (16th), *foresight* (18th). These replace the bonus spells at those levels gained from the oracle's mystery.
+
+**Revelations**: A desert prophet must take the following revelation at 1st level.
+
+*Divining Dance (Su)*: Once per day, you can perform a sacred meditative dance that gives you great clarity of mind and prepares you for what lies ahead. This dance must last for at least 1 minute, uninterrupted, and you can take no other actions during the dance. When you dance, attempt a Perform (dance) check; the results of the check determine the benefits you gain for the next 24 hours, as listed below. You can always choose the benefit from a lower result, if you wish (for example, if your Perform [dance] result is 15, you can choose to gain a +1 bonus on your divinations' saving throws instead of choosing to use *augury* once as a spell-like ability).
+
+**Table: Divining Dance**
+
+| Perform (dance) result | Benefit |
+|---|---|
+| 0–9 | Increase the saving throw DC of any divination spells you cast by 1. |
+| 10–19 | Once in the next 24 hours, as an immediate action, you can use *augury* as a spell-like ability, using your oracle level as your caster level. |
+| 20–29 | Once in the next 24 hours, you can use *divination* as a spell-like ability, using your oracle level as your caster level. If you are at least 8th level, you can cast it in 1 minute instead of 10 minutes. |
+| 30–39 | Once in the next 24 hours, you can use *commune* as a spell-like ability, using your oracle level as your caster level. If you are at least 10th level, its casting time is 1 minute instead of 10 minutes. |
+| 40+ | Once in the next 24 hours, you can use *contact other plane* as a spell-like ability, using your oracle level as your caster level. |

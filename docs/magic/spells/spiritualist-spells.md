@@ -49,6 +49,7 @@ Spiritualists gain access to the following spells. Spells without a link come fr
 - **[Feather Fall](feather-fall.md)**: Objects or creatures fall slowly.
 - **[Grasping Corpse](grasping-corpse.md)**: Cause a corpse to grab or trip a foe.
 - **[Identify](identify.md)**: Gives +10 bonus to identify magic items.
+- **[Implant Urge](implant-urge.md)**: A target unconsciously desires a goal you choose.
 - **[Inflict Light Wounds](inflict-light-wounds.md)**: Touch deals 1d8 damage +1/level (max +5).
 - **[Mage Armor](mage-armor.md)**: Gives subject +4 armor bonus.
 - **[Magic Fang](magic-fang.md)**: One natural weapon of subject creature gets +1 on attack and damage rolls.
@@ -311,6 +312,7 @@ Spiritualists gain access to the following spells. Spells without a link come fr
 - **[Repair Undead, Mass](repair-undead-mass.md)**
 - **[Scrying](scrying.md)**: Spies on subject from a distance.
 - **[Secret Chest](secret-chest.md)**: Hides expensive chest on Ethereal Plane; you retrieve it at will.
+- **[Secret Workshop](secret-workshop.md)**: As nondetection, but protects many creatures and objects.
 - **[Sending](sending.md)**: Delivers short message anywhere, instantly.
 - **[Shadow Body](shadow-body.md)**: Turn your body into a living shadow.
 - **[Shadow Evocation](shadow-evocation.md)**: Mimics evocation below 5th level, but only 20% real.
@@ -334,6 +336,7 @@ Spiritualists gain access to the following spells. Spells without a link come fr
 - **[Banishment](banishment.md)**: Banishes 2 HD/level of extraplanar creatures.
 - **[Banshee Blast](banshee-blast.md)**
 - **[Circle of Death](circle-of-death.md)**: Kills 1d4/level HD of creatures.
+- **[Commune with Texts](commune-with-texts.md)**: Absorb knowledge from a collection of texts.
 - **[Create Undead](create-undead.md)**: Raises ghouls, ghasts, mummies, or mohrgs from physical remains.
 - **[Disintegrate](disintegrate.md)**: Reduces one creature or object to dust.
 - **[Dispel Magic, Greater](dispel-magic-greater.md)**: As *dispel magic*, but with multiple targets.

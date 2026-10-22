@@ -127,3 +127,5 @@ The following text is the property of Wizards of the Coast, Inc. and is Copyrigh
     Pathfinder Campaign Setting: Paths of Prestige © 2012, Paizo Publishing, LLC; Authors: Benjamin Bruck, Jason Bulmahn, Matt Goodall, and Jason Nelson.
 
     Pathfinder Campaign Setting: Technology Guide © 2014, Paizo Inc.; Authors: James Jacobs and Russ Taylor.
+
+    Pathfinder Campaign Setting: Inner Sea Intrigue © 2016, Paizo Inc.; Authors: David N. Ross, with Ross Byers.

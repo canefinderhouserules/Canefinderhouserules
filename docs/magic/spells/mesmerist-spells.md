@@ -29,6 +29,7 @@ Mesmerists gain access to the following spells. Spells without a link come from 
 - **[Animate Rope](animate-rope.md)**: Makes a rope move at your command.
 - **[Anticipate Peril](anticipate-peril.md)**: Target gains a bonus on one initiative check.
 - **[Aphasia](aphasia.md)**: Prevent a target from understanding language.
+- **[Assumed Likeness](assumed-likeness.md)**: You appear as someone each target feels strongly about.
 - **[Auditory Hallucination](auditory-hallucination.md)**: Create a phantasm with auditory effects.
 - **[Bane](bane.md)**: Enemies take –1 on attack rolls and saves vs. fear.
 - **[Beguiling Gift](beguiling-gift.md)**: Subject immediately accepts an offered item and uses it.
@@ -73,6 +74,7 @@ Mesmerists gain access to the following spells. Spells without a link come from 
 - **[Hypnotism](hypnotism.md)**: Fascinates 2d4 HD of creatures.
 - **[Ill Omen](ill-omen.md)**: Target rolls twice for checks and attacks and uses worst roll.
 - Illusion of Calm
+- **[Implant Urge](implant-urge.md)**: A target unconsciously desires a goal you choose.
 - **[Innocence](innocence.md)**: Gain +10 on Bluff checks to seem innocent.
 - **[Instant Portrait](instant-portrait.md)**: Paint a quick monochrome portrait.
 - **[Interrogation](interrogation.md)**: Target answers questions or suffers pain.
@@ -237,6 +239,7 @@ Mesmerists gain access to the following spells. Spells without a link come from 
 - **[Twilight Haze](twilight-haze.md)**
 - **[Unadulterated Loathing](unadulterated-loathing.md)**: Target is compelled to avoid another creature.
 - **[Unliving Rage](unliving-rage.md)**
+- **[Violent Accident](violent-accident.md)**: Curse a creature to suffer a damaging accident within 24 hours.
 - **[Voluminous Vocabulary](voluminous-vocabulary.md)**: Grant ability to speak, read, and write one or more languages for 8 hours.
 - **[Wartrain Mount](wartrain-mount.md)**: Animal gains combat training.
 - **[Whispering Wind](whispering-wind.md)**: Sends a short message 1 mile/level.
@@ -285,6 +288,7 @@ Mesmerists gain access to the following spells. Spells without a link come from 
 - **[Illusion of Treachery](illusion-of-treachery.md)**: Make it seem like another is also responsible for your attacks.
 - **[Illusory Script](illusory-script.md)**: Only select creatures can read text.
 - **[Instant Fake](instant-fake.md)**: Provide a short-term replica of an object.
+- **[Inveigle Person](inveigle-person.md)**: The target treats all creatures as friendly.
 - **[Invigorate, Mass](invigorate-mass.md)**: As invigorate, but multiple creatures.
 - **[Invisibility Sphere](invisibility-sphere.md)**: Makes everyone within 10 ft. invisible.
 - Isolate
@@ -312,6 +316,7 @@ Mesmerists gain access to the following spells. Spells without a link come from 
 - **[Scrying](scrying.md)**: Spies on subject from a distance.
 - **[Secret Page](secret-page.md)**: Changes one page to hide its real content.
 - **[See Invisibility](see-invisibility.md)**: Reveals invisible creatures or objects.
+- **[Seeds of Influence](seeds-of-influence.md)**: Leave a trace in a creature’s mind that weakens it against your divinations and enchantments.
 - **[Seek Thoughts](seek-thoughts.md)**: Detects thinking creatures’ thoughts.
 - **[Sending](sending.md)**: Delivers short message anywhere, instantly.
 - **[Smug Narcissism](smug-narcissism.md)**: Target is distracted by its sense of self.
@@ -331,6 +336,7 @@ Mesmerists gain access to the following spells. Spells without a link come from 
 
 ## 4th-Level Mesmerist Spells
 
+- **[Apathy](apathy.md)**: A target loses interest in a chosen pursuit.
 - **[Arcane Eye](arcane-eye.md)**: Invisible floating eye moves 30 ft./round.
 - **[Assume Appearance, Greater](assume-appearance-greater.md)**: Use a likeness to adopt a dead creature’s form.
 - **[Battlemind Link](battlemind-link.md)**: You and an ally gain attack and AC bonuses.
@@ -380,6 +386,7 @@ Mesmerists gain access to the following spells. Spells without a link come from 
 - **[Primal Scream](primal-scream.md)**: Free yourself from enchantments and paralysis effects.
 - **[Restoration](restoration.md)**: Restores level and ability score drains.
 - **[Riding Possession](riding-possession.md)**: As possession, but you observe instead of control the subject.
+- **[Seek Shelter](seek-shelter.md)**: Weak creatures flee to safety in an orderly fashion.
 - **[Serenity](serenity.md)**: Peaceful feelings harm those attempting violence.
 - **[Shadow Conjuration](shadow-conjuration.md)**: Mimics conjuration below 4th level, but only 20% real.
 - Shocking Image
@@ -409,12 +416,14 @@ Mesmerists gain access to the following spells. Spells without a link come from 
 - **[Crime Wave](crime-wave.md)**: Compel targets to commit criminal actions.
 - **[Deceptive Redundancy](deceptive-redundancy.md)**: Fool dispellers and hide a spell’s aura.
 - **[Dream Council](dream-council.md)**: Communicate with multiple sleeping creatures.
+- **[Dream Reality](dream-reality.md)**: The target perceives the world as a dream and forgets it.
 - **[Dream Scan](dream-scan.md)**: Read a dreaming creature’s thoughts.
 - **[False Vision](false-vision.md)**: Fools scrying with an illusion.
 - **[Feeblemind](feeblemind.md)**: Subject’s Int and Cha drop to 1.
 - **[Foe to Friend](foe-to-friend.md)**: Redirect an enemy creature's attack.
 - **[Foster Hatred](foster-hatred.md)**: Cause creatures to hate one type of creature.
 - **[Inflict Pain, Mass](inflict-pain-mass.md)**: As inflict pain, but affecting one creature per level.
+- **[Inveigle Monster](inveigle-monster.md)**: As inveigle person, but affects any living creature for 1 day/level.
 - **[Joyful Rapture](joyful-rapture.md)**: Negate harmful emotions.
 - **[Mage’s Decree](mages-decree.md)**: Send a message to creatures within miles.
 - **[Mage’s Private Sanctum](mages-private-sanctum.md)**: Prevents anyone from viewing or scrying an area for 24 hours.
@@ -439,6 +448,8 @@ Mesmerists gain access to the following spells. Spells without a link come from 
 - **[Repress Memory](repress-memory.md)**: Remove a piece of knowledge from your mind.
 - **[Scripted Hallucination](scripted-hallucination.md)**: As *complex hallucination*, but without concentration.
 - **[Secret Chest](secret-chest.md)**: Hides expensive chest on Ethereal Plane; you retrieve it at will.
+- **[Secret Workshop](secret-workshop.md)**: As nondetection, but protects many creatures and objects.
+- **[Seeds of Influence, Greater](seeds-of-influence-greater.md)**: As seeds of influence, but can dispel protections against your spells.
 - **[Seeming](seeming.md)**: Changes appearance of 1 person per 2 levels.
 - **[Shadow Evocation](shadow-evocation.md)**: Mimics evocation below 5th level, but only 20% real.
 - **[Shadow Walk](shadow-walk.md)**: Step into shadow to travel rapidly.

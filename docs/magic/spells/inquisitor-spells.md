@@ -232,6 +232,7 @@ New inquisitor spells from *Ultimate Magic*. Spells from other books will be add
 - **[Remove Radioactivity](remove-radioactivity.md)**: Cure radiation effects.
 - **[Replay Tracks](replay-tracks.md)**: Reconstruct past events from a set of tracks.
 - **[Reprobation](reprobation.md)**: Marked target is shunned by your religion.
+- **[Seek Shelter](seek-shelter.md)**: Weak creatures flee to safety in an orderly fashion.
 - **[Sessile Spirit](sessile-spirit.md)**: Cause a spirit inhabiting a creature or an object to go dormant.
 - **[Shadow Barbs](shadow-barbs.md)**: Shadowy vicious spiked chain that radiates darkness.
 - **[Smite Abomination](smite-abomination.md)**: Smite an undead creature like a paladin.
@@ -269,6 +270,7 @@ New inquisitor spells from *Ultimate Magic*. Spells from other books will be add
 
 - **[Balance of Suffering](balance-of-suffering.md)**: Drain one creature to heal another.
 - **[Bite the Hand, Mass](bite-the-hand-mass.md)**: As bite the hand, multiple targets.
+- **[Commune with Texts](commune-with-texts.md)**: Absorb knowledge from a collection of texts.
 - **[Cruel Jaunt](cruel-jaunt.md)**: Sense creatures suffering from fear, then teleport close to them.
 - **[Inspiring Recovery](inspiring-recovery.md)**: Heals and can revive a creature dead for 1 round, rallying its allies.
 - **[Litany of Madness](litany-of-madness.md)**: A single target is confused for at least 1 round.
@@ -277,6 +279,7 @@ New inquisitor spells from *Ultimate Magic*. Spells from other books will be add
 - **[Overwhelming Presence](overwhelming-presence.md)**: Creatures bow before you as if you were divine.
 - **[Plague Bearer](plague-bearer.md)**: Target spreads contagion to adjacent creatures.
 - **[Prognostication](prognostication.md)**: Gain cryptic information from further in the future than *divination*.
+- **[Rotting Alliance](rotting-alliance.md)**: Curse several creatures to waste away when near one another.
 - **[Shadow Memory](shadow-memory.md)**: Learn a target’s secrets to aid an assassination.
 - **[Unshakable Zeal](unshakable-zeal.md)**: Grant benefits on future attempts after failed checks, and protect against fear and emotion effects.
 - **[Wither Limb](wither-limb.md)**: Make one of the target’s limbs useless.

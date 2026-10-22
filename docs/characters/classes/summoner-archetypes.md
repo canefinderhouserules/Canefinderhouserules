@@ -555,3 +555,19 @@ Most infernal knights see Hell and its native devils as a challenge to be conque
 **Infernal Affinity (Ex, Su, or Sp)**: A devil binder wrenches Hell’s power from her eidolon. This grants the devil binder the bloodline powers of the infernal sorcerer bloodline (gained at the following levels): corrupting touch (4th), infernal resistances (8th), hellfire (12th), on dark wings (16th), and power of the Pit (20th). The devil binder treats her summoner level as her sorcerer level for the purpose of determining their effects. This replaces bond senses, shield ally, transposition, greater shield ally, merge forms, and twin eidolon.
 
 **Smite Chaos (Su)**: At 6th level, the summoner’s eidolon gains the ability to smite chaos as an infernal knight of its Hit Dice. This ability can be used once per day and an additional time for every 4 levels beyond 6th. This ability replaces maker’s call and the eidolon’s devotion ability.
+
+## God Caller
+
+God callers follow a fractured tradition of speaking to an assortment of ancient divine powers to lead their communities and sometimes stir up reformations in faiths with ideals similar to their personal convictions. Any summoner (including the summoner from *Pathfinder Unchained*) can select the god caller archetype.
+
+**Class Skills**: A god caller adds Diplomacy and Intimidate to his list of class skills, instead of Knowledge (dungeoneering, engineering, geography, and nature) and Use Magic Device. This ability alters the summoner's class skills.
+
+**Guidance (Sp)**: A god caller's eidolon has a tiny spark of divinity. It can use *guidance* as a spell-like ability at will. However, the eidolon and the god caller must remain within 50 feet of one another for the eidolon to remain at full strength. If the eidolon is beyond 50 feet but closer than 1,000 feet, its current and maximum hit point totals are reduced by half. This ability alters life link.
+
+**Divine Word (Ex)**: At 8th level, if a god caller's eidolon would grant him a bonus with the aid another action on a Diplomacy or Intimidate check, the god caller can instead choose to roll twice and take the better result. He makes the choice before rolling. Once per day while his eidolon uses the aid another action to assist him in such a check, if the god caller would improve a target's attitude toward him, or gain a success if using the individual influence rules, he instead improves that target's attitude by 2 steps or it counts as 2 successes. This ability replaces transposition.
+
+**Divine Awareness (Sp)**: At 10th level, after 10 minutes of concentration, a god caller's eidolon can see from afar as per *clairaudience/clairvoyance*. The eidolon can do this once per day at 10th level, and an additional time per day every 4 summoner levels thereafter (maximum of 3 times per day at 18th level). This ability replaces aspect.
+
+**Divine Might (Ex)**: At 18th level, a god caller's eidolon's attacks are treated as epic for the purpose of overcoming damage reduction and harming mythic creatures. This ability replaces greater aspect.
+
+**Overwhelming Presence (Sp)**: At 20th level, a god caller's eidolon can use *overwhelming presence* three times per day. The save DC is equal to 19 + the eidolon's Charisma modifier. This ability replaces twin eidolon.

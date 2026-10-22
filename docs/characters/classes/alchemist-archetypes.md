@@ -872,3 +872,47 @@ Scarlet assassins are easily identifiable by their iconic equipment. Yet some as
 *Improved Arms of the Assassin*: The claws granted by the arms of the assassin discovery now function as primary weapons when the crimson chymist makes no attacks with manufactured weapons (the claws function as secondary weapons if the chymist attacks with a manufactured weapon). The damage die of the claws increases by one size category (to 1d6 for Medium crimson chymists), and attacks deal 1d4 points of bleed damage on a hit. A crimson chymist must be at least 10th level and have the arms of the assassin discovery before selecting this discovery.
 
 *Ingest Venom*: Once per day as a standard action, the crimson chymist can ingest one dose of any poison without harming herself. The next time she imbibes her mutagen and uses her arms of the assassin discovery, both claws are envenomed with a dose of the poison she ingested. An ingested venom remains latent in the alchemist’s system until she activates her arms of the assassin discovery or until 24 hours have passed, whichever comes first. Additional doses of venom ingested during that time affect the alchemist normally. A crimson chymist must have the arms of the assassin discovery before selecting this discovery.
+
+## Tinkerer
+
+Tinkerers constantly dabble in clockworking, creating special familiars that they regularly upgrade and with which they form bizarre bonds. Many worship a god of invention and can be found throughout dwarven and gnome communities.
+
+**Clockwork Bond (Ex)**: At 1st level, a tinkerer forms a bond with one of her creations, and begins play with it at no cost. This functions as the familiar option of the wizard's arcane bond class feature, with the tinkerer's effective wizard level equal to her alchemist level. If a tinkerer would gain a familiar through another class, those levels stack for purposes of determining the familiar's abilities.
+
+A tinkerer's familiar can take any shape the tinkerer wishes, but its statistics and abilities are identical to a clockwork spy with the normal adjustments and abilities for a familiar applied, and it is a construct with the clockwork subtype. At 3rd level, if the tinkerer has the infusion discovery, a clockwork spy familiar can deliver the tinkerer's extracts with a range of touch for her. At 7th level, a clockwork spy can communicate with constructs with the clockwork subtype. Unlike most familiars, a clockwork spy does not grant special abilities to its master.
+
+With 1 minute of work and a successful DC 15 Heal check, a tinkerer can restore 1d4 hit points to her clockwork spy familiar. At 4th level, a tinkerer can restore 1d6 hit points to her familiar in this same way. This amount increases by an additional 1d6 hit points every 4 levels thereafter (2d6 at 8th level, 3d6 at 12th level, 4d6 at 16th level, and 5d6 at 20th level). A tinkerer cannot choose the cognatogen or mutagen discoveries.
+
+This ability replaces mutagen.
+
+**Tinkering (Ex)**: At 2nd level, a tinkerer can spend 1 hour working on her clockwork spy familiar to enhance it with one of the options from the following list. At 5th level, the tinkerer can choose a second option from the list. The same option cannot be chosen twice. A tinkerer can change the enhancements applied to her familiar, but doing so takes 1 hour of work per enhancement she wishes to change.
+
+- The clockwork spy familiar gains DR 2/adamantine.
+- The clockwork spy familiar gains resist cold 5.
+- The clockwork spy familiar gains resist fire 5.
+- The clockwork spy's slam attack deals 1d3 points of damage.
+- The clockwork spy gains a +5 alchemical bonus on Stealth checks.
+- The clockwork spy gains darkvision 120 feet.
+- The clockwork spy gains a +2 resistance bonus on Reflex saving throws.
+- The clockwork spy gains a +2 resistance bonus on Will saving throws.
+- The clockwork spy gains a +2 natural armor bonus.
+- The clockwork familiar's maneuverability is average.
+
+This ability replaces poison resistance +2, poison use, and poison resistance +4.
+
+**Clockwork Familiar (Ex)**: At 6th level, the tinkerer turns her familiar into a clockwork familiar that takes any form she wishes. She must choose which type of item is installed in the clockwork familiar. She gains the clockwork familiar at no cost, as if she were a 7th-level spellcaster with the Improved Familiar feat. This ability replaces swift poisoning.
+
+**Greater Tinkering (Ex)**: At 8th level, a tinkerer can spend 1 hour working on her familiar to enhance it with one of the options from the following list. A tinkerer can change the enhancement applied to her familiar, but doing so takes 1 hour.
+
+- The clockwork familiar's bite attack deals 1d4 points of damage.
+- The clockwork familiar gains DR 10/adamantine.
+- The clockwork familiar gains any feat for which it qualifies as a bonus feat.
+- The clockwork familiar gains a +10 alchemical bonus on Stealth checks.
+
+This ability replaces poison resistance +6.
+
+**Clockwork Upgrade (Ex)**: At 10th level, a tinkerer has learned how to change the type of magic item her clockwork familiar can carry. This requires 1 hour of uninterrupted work. A tinkerer can change the type of item her clockwork familiar carries only once every 24 hours. Additionally, a tinkerer can remove a spent item and install a new one as a move action. This ability replaces poison immunity.
+
+**Clockwork Mimicries (Ex)**: At 14th level, a tinkerer can use her mechanical mastery to create clockwork mimicries of powerful magic items. Doing so takes 1 hour of uninterrupted work, and allows the tinkerer to create a wondrous item that functions for a number of hours per day equal to her alchemist level. When creating such a clockwork item, the tinkerer must use materials worth an amount equal to the wondrous item's construction cost. She need not meet any of the item's other creation requirements. A tinkerer cannot create a mimicry of a consumable wondrous item or a wondrous item with finite charges, and she can have only one mimicry at a time. The clockwork item never functions as a wondrous item for any other creature. The tinkerer can spend 1 hour disassembling a clockwork mimicry and reassembling it into a mimicry of a different wondrous item. When she disassembles a clockwork mimicry, she can salvage parts worth half of the mimicry's creation cost. She still must pay the full creation cost for the new mimicry. This resets the duration the mimicry functions per day. This replaces persistent mutagen.
+
+**Discoveries**: The following discoveries complement the tinkerer archetype: combine extract, dilution, elixir of life, enhance potion, eternal potion, extend potion, infusion, and promethean disciple.

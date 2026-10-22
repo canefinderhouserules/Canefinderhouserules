@@ -286,3 +286,25 @@ Being a renowned hero can be dangerous to your health and prosperity. Fighting a
 Game Masters should consider carefully whether or not a vigilante will make for a good fit with their campaign. The class is one that requires a degree of social aptitude and roleplaying to make full use of its potential. Campaigns that focus more on wilderness exploration, travel, or dungeon delving and that are lighter on politics, negotiation, and manipulation might require a vigilante player to put in additional effort to make full use of his class features. Alternatively, a vigilante is uniquely suited to make for a powerful villain, hidden by day behind a mask of civility and a terror at night, free to commit terrible acts without risking discovery.
 
 For players, the vigilante offers a unique opportunity to take on the role of a character with a hidden side, and whose life is committed to a secret agenda that he must struggle to advance in a complex world. Not every problem can be solved with a dagger in the dark, and even the most stubborn foe might be become an ally with the proper bribe. For the vigilante, these tasks are both within reach as long as you learn to properly use your dual nature and hidden skills to your fullest advantage.
+
+## Intrigue Vigilante Talents
+
+The following social and vigilante talents can be chosen by any vigilante, but are particularly suited to characters whose backgrounds align with their themes.
+
+### Vigilante Talents
+
+**Harsh Judgment (Su)**: A vigilante with this talent can pronounce judgment upon his foes as per the inquisitor class feature. He can choose from among the following inquisitor judgments: destruction, piercing, purity, and smiting. For the purpose of determining the bonuses provided by this ability, the vigilante’s level stacks with levels in any other classes that grant judgment or harsh judgment. The vigilante can use this ability once per day plus an additional time per day at 4th level and every 3 levels thereafter (up to a maximum of seven times per day at 19th level). Only a vigilante with the zealot archetype can select this talent.
+
+**Instant Plan (Ex)**: The vigilante can quickly manage a situation that seems to be spiraling out of control. Once per day, the vigilante can state a plan of action. All allies within 30 feet that can hear him gain a +2 morale bonus on saving throws against fear effects and are immune to being demoralized. They also gain a +1 morale bonus on skill checks or combat maneuver checks of the vigilante’s choice. The benefits last for 1 round per vigilante level.
+
+**Shackle Smash (Ex)**: A vigilante with this talent, perhaps trained to remove or destroy restraints from slaves and prisoners, can choose to make no more noise than people talking when he attempts a sunder combat maneuver check or attempts a Strength check to break an object. He ignores half an object’s hardness when attempting sunder combat maneuver checks and when attacking nonmagical objects.
+
+**Turnabout (Ex)**: A vigilante with this talent can capitalize on any opportunities in combat. Whenever a foe provokes an attack of opportunity from the vigilante by attacking or casting a spell, the vigilante can attempt a dirty trick combat maneuver check in place of the attack of opportunity. If he succeeds at the check, in addition to the usual options, the vigilante can redirect the attack or spell to a new target or area the foe could have chosen.
+
+**Whip of Vengeance (Ex)**: The vigilante gains Whip Mastery as a bonus feat. If he already has the Whip Mastery feat, he can immediately swap it for another feat he qualified for at the level when he chose Whip Mastery. In addition, if he is at least 6th level, he also gains the Improved Whip Mastery feat. He treats his vigilante level as his vigilante base attack bonus for the purpose of meeting prerequisites of feats and abilities that have Whip Mastery as a prerequisite.
+
+### Social Talents
+
+**Coded Innuendo (Ex)**: A vigilante with this talent has learned to pass secret messages more efficiently by observing the coded messages of a secret organization. He can pass a secret message with Bluff in the same amount of time it would normally take to convey the message without encryption. The words and meaning of his secret messages cannot be gleaned from him or those he directly delivered the message to by divinations unless the caster succeeds at a caster level check (DC = 15 + the vigilante’s level).
+
+**Discreet Inquiries (Ex)**: The vigilante can attempt Diplomacy checks to gather information without being obvious he is seeking any, whether by buying the silence of informants or by talking foes into revealing information without realizing they are doing so. While the vigilante is in his area of renown, gathering information in this way takes 2d4 hours and costs 2d4 gp. Anyone who might take notice of the information gathering does not notice unless she succeeds at a Sense Motive check opposed by the vigilante’s Bluff check. The vigilante gains a +4 bonus on this Bluff check.

@@ -213,6 +213,7 @@
 - **[Touch of Mercy](touch-of-mercy.md)**: Target deals only nonlethal damage with weapon attacks.
 - **[Undetectable Alignment](undetectable-alignment.md)**: Conceals alignment for 24 hours.
 - **[Vexing Miscalculation](vexing-miscalculation.md)**: Target cannot score critical threats.
+- **[Violent Accident](violent-accident.md)**: Curse a creature to suffer a damaging accident within 24 hours.
 - **[Water Walk, Communal](water-walk-communal.md)**: As water walk, but you may divide the duration among creatures touched.
 - **[Whispering Lore](whispering-lore.md)**: Upon casting this spell, you are able to gain knowledge from the land itself.
 - **[Zone of Truth](zone-of-truth.md)**: Subjects within range cannot lie.
@@ -276,6 +277,7 @@
 - **[Obscure Object](obscure-object.md)**: Masks object against scrying.
 - **[Paragon Surge](paragon-surge.md)**: You surge with ancestral power, temporarily embodying all the strengths of both elvenkind and humankind.
 - **[Planar Inquiry](planar-inquiry.md)**: Call an outsider to answer questions.
+- **[Poison Exchange](poison-exchange.md)**: Swallow one poison and regurgitate another.
 - **[Prayer](prayer.md)**: Allies get +1 bonus on most rolls, enemies –1 penalty.
 - **[Protection from Energy](protection-from-energy.md)**: Absorb 12 points/level of damage from one kind of energy.
 - **[Raging Rubble](raging-rubble.md)**: You animate an area of rubble, gravel, or other small stones, creating a dangerous, rolling area of debris.
@@ -362,6 +364,7 @@
 - **[Restoration](restoration.md)**: Restores level and ability score drains.
 - **[Revenant Armor](revenant-armor.md)**: Armor animates around its fallen wearer.
 - **[Rigor Mortis](rigor-mortis.md)**: Painfully swell a target’s joints.
+- **[Seek Shelter](seek-shelter.md)**: Weak creatures flee to safety in an orderly fashion.
 - **[Sending](sending.md)**: Delivers short message anywhere, instantly.
 - **[Shadow Barbs](shadow-barbs.md)**: Shadowy vicious spiked chain that radiates darkness.
 - **[Spell Immunity](spell-immunity.md)**: Subject is immune to one spell per 4 levels.
@@ -459,6 +462,7 @@
 - **[Blade Barrier](blade-barrier.md)**: Wall of blades deals 1d6/level damage.
 - **[Bull’s Strength, Mass](bulls-strength-mass.md)**: As *bull’s strength*, affects 1 subject/level.
 - **[Chains of Light](chains-of-light.md)**: Hold a creature in chains of light and block extradimensional travel.
+- **[Commune with Texts](commune-with-texts.md)**: Absorb knowledge from a collection of texts.
 - **[Create Undead](create-undead.md)**: Create ghasts, ghouls, mohrgs, or mummies.
 - **[Cruel Jaunt](cruel-jaunt.md)**: Sense creatures suffering from fear, then teleport close to them.
 - **[Cure Moderate Wounds, Mass](cure-moderate-wounds-mass.md)**: Cures 2d8 damage + 1/level, affects 1 subject/level.
@@ -466,6 +470,7 @@
 - **[Curse Terrain, Greater](curse-terrain-greater.md)**: Curse an area with six dangerous hazards.
 - **[Discharge, Greater](discharge-greater.md)**: Discharge many objects or an area.
 - **[Dispel Magic, Greater](dispel-magic-greater.md)**: As *dispel magic*, but with multiple targets.
+- **[Dream Reality](dream-reality.md)**: The target perceives the world as a dream and forgets it.
 - **[Dust Form](dust-form.md)**: You become an incorporeal creature of dust for a short period of time.
 - **[Eaglesoul](eaglesoul.md)**: Combat bonuses against evil creatures, especially evil outsiders.
 - **[Eagle’s Splendor, Mass](eagles-splendor-mass.md)**: As *eagle’s splendor*, affects 1 subject/level.
@@ -561,6 +566,7 @@
 - **[Planar Ally, Greater](planar-ally-greater.md)**: As *lesser planar ally,* but up to 18 HD.
 - **[Primal Scar](primal-scar.md)**: Infuse an area with primal magic.
 - **[Remove Radioactivity, Greater](remove-radioactivity-greater.md)**: Cure all radiation damage; deplete radioactive objects.
+- **[Rotting Alliance](rotting-alliance.md)**: Curse several creatures to waste away when near one another.
 - **[Sacramental Seal](sacramental-seal.md)**: Seal a creature away inside the spell’s focus.
 - **[Shield of Law](shield-of-law.md)**: +4 to AC, +4 resistance, and SR 25 against chaotic spells.
 - **[Spell Immunity, Greater](spell-immunity-greater.md)**: As *spell immunity,* but up to 8th-level spells.

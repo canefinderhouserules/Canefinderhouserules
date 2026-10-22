@@ -148,6 +148,7 @@
 - **[Drain Poison](drain-poison.md)**: Drain a creature's poison onto your weapon.
 - **[Enshroud Thoughts](enshroud-thoughts.md)**: Ward yourself against thought detection and memory alteration.
 - **[Forest’s Sense](forests-sense.md)**: Sense the location of a distant target that is near a plant or fungus.
+- **[Guardian Wasps](guardian-wasps.md)**: A wasp swarm builds a nest that guards an area.
 - **[Insect Spies](insect-spies.md)**: Use magic beetles as spies.
 - **[Instant Fake](instant-fake.md)**: Provide a short-term replica of an object.
 - **[Life Blast](life-blast.md)**: Drain life from local vegetation to launch a blast of positive energy.
@@ -204,6 +205,7 @@
 - **[Sea Stallion](sea-stallion.md)**: You and your mount adapt to an aquatic environment.
 - **[Sickening Strikes](sickening-strikes.md)**: You are imbued with disease, and any creature you strike with a melee attack must make a Fortitude save or be.
 - **[Sturdy Tree Fort](sturdy-tree-fort.md)**: Create a tree with a defensive fort within it.
+- **[Substitute Trail](substitute-trail.md)**: Make the targets’ trails look like another creature’s.
 - **[Summon Flight of Eagles](summon-flight-of-eagles.md)**: Summon giant eagles to fight or serve as mounts.
 - **[Summon Nature’s Ally IV](summon-natures-ally-iv.md)**: Summons creature to fight for you.
 - **[Terrain Bond](terrain-bond.md)**: Treat the terrain you are in as a favored terrain for the spell’s duration.

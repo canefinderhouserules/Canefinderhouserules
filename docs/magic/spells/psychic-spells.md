@@ -146,6 +146,7 @@ Psychics gain access to the following spells. Spells without a link come from ot
 - **[Telempathic Projection](telempathic-projection.md)**: Alter the target’s attitude or give bonuses to those interacting with the target.
 - **[Thought Echo](thought-echo.md)**: Replace surface thoughts with a mental echo.
 - Touch of Combustion
+- **[True Skill](true-skill.md)**: Gain an insight bonus on your next check with a chosen skill.
 - **[True Strike](true-strike.md)**: +20 on your next attack roll.
 - Unerring Weapon
 - **[Unprepared Combatant](unprepared-combatant.md)**: Target takes –4 on initiative and Reflex saves.
@@ -175,6 +176,7 @@ Psychics gain access to the following spells. Spells without a link come from ot
 - Ant Haul, Communal
 - **[Anticipate Thoughts](anticipate-thoughts.md)**: Gain increasing bonuses to AC and on attack rolls and damage rolls against one creature.
 - **[Apport Object](apport-object.md)**: Send or receive a small object via teleportation.
+- **[Assumed Likeness](assumed-likeness.md)**: You appear as someone each target feels strongly about.
 - **[Augury](augury.md)**: Learns whether an action will be good or bad.
 - **[Aversion](aversion.md)**: Cause the target to avoid an object or location.
 - **[Bear’s Endurance](bears-endurance.md)**: Subject gains +4 to Con for 1 min./level.
@@ -393,6 +395,7 @@ Psychics gain access to the following spells. Spells without a link come from ot
 - **[Fly](fly.md)**: Subject flies at speed of 60 ft.
 - **[Force Punch](force-punch.md)**: Target takes 1d4 force damage per level and is pushed away.
 - **[Gaseous Form](gaseous-form.md)**: Subject becomes insubstantial and can fly slowly.
+- **[Guardian Wasps](guardian-wasps.md)**: A wasp swarm builds a nest that guards an area.
 - **[Guarding Knowledge](guarding-knowledge.md)**: +4 insight bonus on saves against one identified monster special attack.
 - **[Guiding Star](guiding-star.md)**: Know approximate distance from where you cast this spell.
 - **[Haste](haste.md)**: One creature/level moves faster, +1 on attack rolls, AC, and Reflex saves.
@@ -402,6 +405,7 @@ Psychics gain access to the following spells. Spells without a link come from ot
 - Hostile Levitation
 - **[Id Insinuation II](id-insinuation-ii.md)**: As id insinuation I, but affects two creatures and has a stronger confusion effect.
 - **[Illusory Script](illusory-script.md)**: Only select creatures can read text.
+- **[Inveigle Person](inveigle-person.md)**: The target treats all creatures as friendly.
 - **[Invisibility Sphere](invisibility-sphere.md)**: Makes everyone within 10 ft. invisible.
 - Isolate
 - **[Ki Leech](ki-leech.md)**: Add to your ki pool when you critically hit.
@@ -425,6 +429,7 @@ Psychics gain access to the following spells. Spells without a link come from ot
 - **[Phantasmal Affliction](phantasmal-affliction.md)**: Convince a target that it contracted an affliction.
 - **[Pierce Disguise](pierce-disguise.md)**: See through low-level magical disguises.
 - Protection from Arrows, Communal
+- **[Poison Exchange](poison-exchange.md)**: Swallow one poison and regurgitate another.
 - **[Protection from Energy](protection-from-energy.md)**: Absorbs 12 points/level of damage from one kind of energy.
 - **[Purge Spirit](purge-spirit.md)**: Deal 1d6 points of damage per level to one haunt or spirit creature and stagger it.
 - **[Rage](rage.md)**: Gives +2 to Str and Con, +1 on Will saves, –2 to AC.
@@ -571,6 +576,7 @@ Psychics gain access to the following spells. Spells without a link come from ot
 - **[Rigor Mortis](rigor-mortis.md)**: Painfully swell a target’s joints.
 - **[Rising Water](rising-water.md)**: Conjures a cylinder of calm, swimmable water.
 - **[Scrying](scrying.md)**: Spies on subject from a distance.
+- **[Seeds of Influence](seeds-of-influence.md)**: Leave a trace in a creature’s mind that weakens it against your divinations and enchantments.
 - **[Sending](sending.md)**: Delivers short message anywhere, instantly.
 - **[Shadow Step](shadow-step.md)**: Teleport from one shadow to another.
 - Shadowy Haven
@@ -608,6 +614,7 @@ Psychics gain access to the following spells. Spells without a link come from ot
 ## 5th-Level Psychic Spells
 
 - Absorb Toxicity
+- **[Apathy](apathy.md)**: A target loses interest in a chosen pursuit.
 - **[Arcana Theft](arcana-theft.md)**: Targeted dispel transfers an effect to you.
 - **[Astral Projection, Lesser](astral-projection-lesser.md)**: Limited astral travel.
 - **[Banish Seeming](banish-seeming.md)**: Dispels touched illusion or a creature's change in form.
@@ -681,6 +688,8 @@ Psychics gain access to the following spells. Spells without a link come from ot
 - **[Retrocognition](retrocognition.md)**: Gain psychic impressions from past events in a location.
 - **[Scripted Hallucination](scripted-hallucination.md)**: As *complex hallucination*, but without concentration.
 - **[Secret Chest](secret-chest.md)**: Hides expensive chest on Ethereal Plane; you retrieve it at will.
+- **[Secret Workshop](secret-workshop.md)**: As nondetection, but protects many creatures and objects.
+- **[Seek Shelter](seek-shelter.md)**: Weak creatures flee to safety in an orderly fashion.
 - **[Seeming](seeming.md)**: Changes appearance of 1 person per 2 levels.
 - **[Serenity](serenity.md)**: Peaceful feelings harm those attempting violence.
 - **[Sleepwalking Suggestion](sleepwalking-suggestion.md)**: Cause a creature to perform a suggested action while asleep.
@@ -728,6 +737,7 @@ Psychics gain access to the following spells. Spells without a link come from ot
 - **[Bull’s Strength, Mass](bulls-strength-mass.md)**: As *bull’s strength*, affects 1 subject/level.
 - **[Cat’s Grace, Mass](cats-grace-mass.md)**: As *cat’s grace*, affects one subject/level.
 - **[Cloak of Dreams](cloak-of-dreams.md)**: Creatures within 5 ft. fall asleep.
+- **[Commune with Texts](commune-with-texts.md)**: Absorb knowledge from a collection of texts.
 - **[Conjure Black Pudding](conjure-black-pudding.md)**: Summon a black pudding.
 - **[Contingency](contingency.md)**: Sets trigger condition for another spell.
 - **[Create Mindscape, Greater](create-mindscape-greater.md)**: As create mindscape, but affecting more creatures, having a longer duration, and allowing magic alteration.
@@ -740,6 +750,7 @@ Psychics gain access to the following spells. Spells without a link come from ot
 - **[Disintegrate](disintegrate.md)**: Reduces one creature or object to dust.
 - **[Dispel Magic, Greater](dispel-magic-greater.md)**: As *dispel magic*, but with multiple targets.
 - **[Dream Council](dream-council.md)**: Communicate with multiple sleeping creatures.
+- **[Dream Reality](dream-reality.md)**: The target perceives the world as a dream and forgets it.
 - **[Dream Travel](dream-travel.md)**: Venture into the Dimension of Dreams to enter the dreams of a designated creature, then exit near that creature’s body on the plane where it lies sleeping.
 - Dust Form
 - **[Eagle’s Splendor, Mass](eagles-splendor-mass.md)**: As *eagle’s splendor*, 1 subject/level.
@@ -759,6 +770,7 @@ Psychics gain access to the following spells. Spells without a link come from ot
 - **[Incorporeal Chains](incorporeal-chains.md)**: Grapple incorporeal creatures and deal damage equal to 1d8 + Int.
 - **[Inflict Pain, Mass](inflict-pain-mass.md)**: As inflict pain, but affecting one creature per level.
 - **[Intellect Fortress III](intellect-fortress-iii.md)**: As intellect fortress II, plus remove partial effects of fear and emotion effects.
+- **[Inveigle Monster](inveigle-monster.md)**: As inveigle person, but affects any living creature for 1 day/level.
 - **[Joyful Rapture](joyful-rapture.md)**: Negate harmful emotions.
 - **[Leashed Shackles](leashed-shackles.md)**
 - **[Legend Lore](legend-lore.md)**: Lets you learn tales about a person, place, or thing.
@@ -842,6 +854,7 @@ Psychics gain access to the following spells. Spells without a link come from ot
 - **[Resonating Word](resonating-word.md)**: Target is damaged, staggered, and stunned.
 - **[Reverse Gravity](reverse-gravity.md)**: Objects and creatures fall upward.
 - **[Scrying, Greater](scrying-greater.md)**: As *scrying*, but faster and longer.
+- **[Seeds of Influence, Greater](seeds-of-influence-greater.md)**: As seeds of influence, but can dispel protections against your spells.
 - **[Sequester](sequester.md)**: Subject is invisible to sight and scrying; renders creature comatose.
 - **[Simulacrum](simulacrum.md)**: Creates partially real double of a creature.
 - **[Spell Turning](spell-turning.md)**: Reflect 1d4+6 spell levels back at caster.

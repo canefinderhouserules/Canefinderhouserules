@@ -1085,3 +1085,17 @@ Halcyon druids combine the teachings of an arcane tradition with traditional dru
 **Resist Fiendish Influence (Ex)**: At 4th level, a halcyon druid gains a +4 bonus on saving throws against the spell-like and supernatural abilities of outsiders with the evil subtype and spells with the evil descriptor. This ability replaces resist nature’s lure.
 
 **Embody Mask (Sp)**: At 13th level, a halcyon druid wearing her bonded mask can embody the spirit it represents, which can be any Tiny to Large agathion, angel, archon, or azata. This ability requires a standard action to activate and functions as per *beast shape IV* (using the adjustments for magical beasts), but adds the following abilities if the assumed form has them: aura of menace, protective aura, speak with animals, telepathy, and truespeech. If the assumed form has immunity to a condition, the druid gains a +4 bonus on saving throws against effects that cause that condition. A halcyon druid can use this ability for a number of minutes per day equal to her druid level. The duration does not need to be consecutive, but must be used in 1-minute increments. This ability replaces a thousand faces.
+
+## Fey-Court Adept
+
+Fey-court adepts learn the secret magic of the First World fey in a moving, reality-phasing fey city that appears on the new moon at seemingly random locations in a remote forest. They often venerate the fey patrons of intrigue and trickery.
+
+**Fey-Court Skills**: A fey-court adept adds Bluff, Diplomacy, Disguise, Sense Motive, Perform (any), and Stealth to her list of class skills. This ability replaces nature sense.
+
+**Nature Bond (Su)**: A fey-court adept cannot select an animal companion, and can take only a domain. If she worships a fey power, she can choose any of the domains or subdomains granted by that power in addition to those normally available to druids. This ability alters nature bond.
+
+**Animal Speech (Su)**: A fey-court adept can imbue normal animals with the ability to speak for a brief period. Once per day as a standard action, she can touch an animal to grant it the ability to speak any language the druid knows for 1 minute per druid level. This does not increase the animal's Intelligence or improve its attitude, and the animal behaves as though communicating with someone under the effects of a *speak with animals* spell, save that it can speak with anyone who understands the language the adept grants it. The fey-court adept gains one additional use of this ability at 4th level and every 4 levels thereafter. This ability replaces spontaneous casting.
+
+**Resist Fey Influence (Ex)**: At 4th level, a fey-court adept gains a +4 bonus on saving throws against the spell-like and supernatural abilities of fey. Once per day before attempting such a saving throw, she can choose to roll two dice and take the better result, applying the +4 bonus as normal. This ability replaces resist nature's lure.
+
+**Locate Fey City (Sp)**: At 9th level, a fey-court adept can cast *find the path* as a spell-like ability, but only to locate the fey city. The spell's duration is extended until the druid reaches her destination or until the city recedes from the Material Plane at the end of the new moon. This ability can be used only once per month, during the new moon.

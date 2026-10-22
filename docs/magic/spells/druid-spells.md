@@ -129,6 +129,7 @@
 - **[Insect Scouts](insect-scouts.md)**: Vermin investigate a location and grant rerolls on related skill checks.
 - **[Invigorating Poison](invigorating-poison.md)**: Poison ability damage becomes a bonus instead.
 - **[Owl’s Wisdom](owls-wisdom.md)**: Subject gains +4 to Wis for 1 min./level.
+- **[Poison Exchange](poison-exchange.md)**: Swallow one poison and regurgitate another.
 - **[Pouncing Fury](pouncing-fury.md)**: Make a full attack with your claws after a charge.
 - **[Quick Change](quick-change.md)**: Use change shape as a swift action and surprise foes.
 - **[Reduce Animal](reduce-animal.md)**: Shrinks one willing animal.
@@ -189,6 +190,7 @@
 - **[Fey Form I](fey-form-i.md)**: Assume the form of a Small or Medium fey creature.
 - **[Fins to Feet](fins-to-feet.md)**: School transmutation (polymorph); Level druid 3, sorcerer/wizard 3, witch 3 Casting Time 1 standard action.
 - **[Flashfire](flashfire.md)**: Cause smoky fires to spring up to burn foes and set them alight.
+- **[Guardian Wasps](guardian-wasps.md)**: A wasp swarm builds a nest that guards an area.
 - **[Hunter's Friend](hunters-friend.md)**: Share ranger class abilities with your companion.
 - **[Ice Spears](ice-spears.md)**: Icy spears deal piercing and cold damage and trip foes.
 - **[Improve Trap](improve-trap.md)**: When this spell is cast upon a trap, it improves one specific element of the trap chosen at the time of.
@@ -283,6 +285,7 @@
 - **[Sea Stallion](sea-stallion.md)**: You and your mount adapt to an aquatic environment.
 - **[Spike Stones](spike-stones.md)**: Creatures in area take 1d8 damage, may also be slowed*.*
 - **[Spindrift Spritz, Mass](spindrift-spritz-mass.md)**: As spindrift spritz, affecting multiple creatures.
+- **[Substitute Trail](substitute-trail.md)**: Make the targets’ trails look like another creature’s.
 - **[Summon Nature’s Ally IV](summon-natures-ally-iv.md)**: Summons creature to fight.
 - **[Sword to Snake](sword-to-snake.md)**: An item bites whoever handles it.
 - **[Watchful Animal](watchful-animal.md)**: Your animal companion or familiar becomes a scrying sensor.
@@ -379,6 +382,7 @@
 - **[Transport via Plants](transport-via-plants.md)**: Move instantly from one plant to another of the same kind.
 - **[Unerring Tracker](unerring-tracker.md)**: Follow an entire trail unerringly.
 - **[Wall of Stone](wall-of-stone.md)**: Creates a stone wall that can be shaped.
+- **[Wandering Trail](wandering-trail.md)**: Reroute the trails left by the targets.
 - **[Whip of Ants](whip-of-ants.md)**: As whip of spiders, but with army ants.
 
 ## 7th-Level Druid Spells
@@ -419,6 +423,7 @@
 - **[Remove Radioactivity, Greater](remove-radioactivity-greater.md)**: Cure all radiation damage; deplete radioactive objects.
 - **[Repel Metal or Stone](repel-metal-or-stone.md)**: Pushes away metal and stone.
 - **[Reverse Gravity](reverse-gravity.md)**: Objects and creatures fall upward.
+- **[Rotting Alliance](rotting-alliance.md)**: Curse several creatures to waste away when near one another.
 - **[Summon Nature’s Ally VIII](summon-natures-ally-viii.md)**: Summons creature to fight.
 - **[Sunburst](sunburst.md)**: Blinds all within 10 ft., deals 6d6 damage.
 - **[Wandering Weather](wandering-weather.md)**: Control weather in a large area that moves with you.

@@ -519,3 +519,19 @@ A winter witch can select the following hexes:
 **Frostfoot (Su)**: This ability works like the *spider climb* spell, but the surfaces the witch climbs must be icy. The witch can move across icy surfaces without penalty and does not need to make Acrobatics checks to run or charge on ice. She can move across regular snow without penalty, and heavy snow only costs her 2 squares of movement instead of 4.
 
 **Frozen Caress (Su)**: Whenever the winter witch casts a touch spell, she can infuse the magic with cold as a swift action. This grants the spell the cold descriptor, and adds 1d4 points of cold damage to the spell's effect. If the touch spell allows a saving throw, a successful save negates this additional cold damage.
+
+## Spellspy
+
+Among highly competitive arcane communities, spellspies are witches who use their familiars and divining talents to spy on their rivals and protect themselves from similar intrusions.
+
+**Nondetection**: A spellspy treats *nondetection* as a 4th-level witch spell.
+
+**Infiltrating Vessel (Su)**: At 3rd level, a spellspy cannot use her familiar to deliver touch spells for her. Instead, the spellspy can cast divination spells through her familiar. When the spellspy does this, she casts the spell as normal, but she treats her familiar's location as hers for purpose of determining the spell's area of effect or range. The spellspy receives the spell's results as normal. This ability does not allow her to see through her familiar's eyes; for example, the spellspy would know about a powerful magic item detected through her familiar, but she would not know its exact location or exactly what the item looked like. Whenever a familiar would be able to deliver a hex, the spellspy can use the familiar as a vessel for her divinations in this way. This alters the witch's familiar.
+
+**Prepare Results (Su)**: At 4th level, a spellspy's familiar can store the results of divinations for the purposes of providing false results to a rival diviner who has targeted the spellspy. As a standard action, the spellspy can store the results of one or more divinations she has cast within the past 24 hours. She can store results from any number of spells with a total spell level equal to the highest spell she can cast. The next time a rival spellcaster would receive results from any of the specific divinations whose results are stored in her familiar in this manner, the stored results are transmitted to the rival caster (and are removed from the familiar) in place of any real results. The rival spellcaster receives a Will saving throw (DC = 10 + 1/2 the spellspy's witch level + her Intelligence modifier) to recognize that the results are falsified. Depending on the spell, the stored results from the familiar might make this falsification obvious (and thus no Will saving throw is necessary to determine the falsification). This ability replaces the witch's 4th-level hex.
+
+**Hexes**: The following witch hexes complement the spellspy archetype: beast of ill-omen, evil eye, and tongues.
+
+**Major Hexes**: The following major hexes complement the spellspy archetype: beast eye, hag's eye, and vision.
+
+**Grand Hex**: The following grand hex complements the spellspy archetype: dire prophecy.

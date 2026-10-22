@@ -835,3 +835,39 @@ A scavenger lives for the discovery of new technological wonders scraped from th
 **Lucky Glitch (Ex)**: Starting at 4th level, whenever a scavenger triggers a glitch when using a timeworn technological item, she rolls twice and can choose which of the two glitch effects actually occurs. A scavenger always adds her level to rolls to determine what kind of glitch occurs, and treats rolls of over 100 as 100. This ability replaces uncanny dodge.
 
 **Robot Slayer (Ex)**: At 8th level, a scavenger knows just where to strike robots to incapacitate and disable them. When she deals sneak attack damage to a robot, she ignores all hardness that robot possesses. This ability replaces improved uncanny dodge.
+
+## Agitator
+
+Agitators fight mightily to cast down the enemies of their ideals within the shambles of a tumultuous nation. Any rogue (including the rogue from *Pathfinder Unchained*) can select the agitator archetype.
+
+**Reputation (Ex)**: This ability functions as the renown vigilante social talent. In addition to improving attitudes, it also improves the agitator's starting influence and reputation with contacts in the area by one level or step. For the purpose of vigilante social talents, the agitator does not have a vigilante identity and is always considered to be in her social identity, unless she has another identity (such as from the vigilante class). If the agitator has another identity, she does not gain any benefits from renown while in that identity unless she has the renown social talent or a similar ability. This ability replaces trapfinding.
+
+**Ready for Betrayal (Ex)**: At 3rd level, an agitator gains a +1 bonus on Perception checks to recognize disguises and notice hiding creatures and on Sense Motive checks to disbelieve lies. These bonuses increase by 1 every 3 rogue levels thereafter (to a maximum of +6 at 18th level). This ability replaces trap sense.
+
+**Enthralling Agitation (Su)**: At 4th level, an agitator can captivate a crowd once per day, as per the spell *enthrall* (DC = 10 + 1/2 the agitator's rogue level + her Charisma modifier). During the spell's effect, the agitator can attempt a DC 15 Charisma check to increase her individual or organizational influence with the members of the crowd by 1 rank or step. Or, if the crowd members' attitudes toward the agitator are indifferent or worse, this check can improve their attitudes by 1 step. The agitator can never use this ability to increase her individual or organizational influence or improve the crowd's attitude by more than 2 ranks or steps. This replaces the rogue talent gained at 4th level.
+
+**Revolutionary's Cause (Su)**: At 8th level, the agitator can lift an enthralled crowd's emotions and turn them toward a common purpose. As a standard action after she has used her enthralling agitation, but before the enthrall effect wears off, she can target the affected creatures with a *suggestion* (DC = 10 + 1/2 her rogue level + her Charisma modifier) that has a duration of up to 1 day. This ability replaces the rogue talent gained at 8th level.
+
+**Leadership (Ex)**: At 12th level, an agitator gains Leadership as a bonus feat. If the agitator already has the Leadership feat, she doubles her Charisma modifier when calculating her base Leadership score. This replaces the rogue talent gained at 12th level.
+
+**Rogue Talents**: The following rogue talents complement the agitator archetype: canny observer, coax information, follow clues, hard to fool, and strong impression.
+
+**Advanced Rogue Talents**: The following advanced rogue talents complement the agitator archetype: feat, thoughtful reexamining, and skill mastery.
+
+## Guerrilla
+
+Guerrillas fight against oppressive leadership and governments, often under cover of night. Any rogue (including the rogue from *Pathfinder Unchained*) can select the guerrilla archetype.
+
+**Skilled Liar (Ex)**: Whenever a guerrilla uses Bluff to attempt to deceive someone, she gains a bonus on the opposed roll equal to 1/2 her rogue level (minimum +1). A guerrilla can still use Disable Device to disarm magic traps. This ability replaces trapfinding.
+
+**Cover of Night (Ex)**: At 2nd level, a guerrilla learns to use darkness to her advantage. She gains a +5 bonus on Disguise, Sleight of Hand, and Stealth checks while she is in areas of dim light or darkness, and can create mundane disguises in dim light or darkness with a full-round action (instead of the normal 1d3 × 10 minutes). Additionally, while in dim light or darkness, if a guerrilla would have concealment, she instead has total concealment. This ability replaces evasion.
+
+**Secret Messenger (Ex)**: At 3rd level, a guerrilla gains a +1 bonus on Bluff checks to convey secret messages and on Sense Motive checks to discern secret messages. These bonuses increase by 1 every 3 rogue levels thereafter (to a maximum of +6 at 18th level). This ability replaces trap sense.
+
+**Guerrilla Sniping (Ex)**: At 4th level, when a guerrilla is in an area of dim light or darkness, she takes only a –10 penalty on her Stealth check to maintain her obscured location while sniping. This ability replaces uncanny dodge.
+
+**Uncanny Dodge (Ex)**: At 8th level, a guerrilla gains uncanny dodge. This ability replaces improved uncanny dodge.
+
+**Rogue Talents**: The following rogue talents complement the guerrilla archetype: camouflage, fast stealth, powerful sneak, rogue crawl, stand up, and surprise attack.
+
+**Advanced Rogue Talents**: The following advanced rogue talents complement the guerrilla archetype: deadly sneak, master of disguise, stealthy sniper, and opportunist.

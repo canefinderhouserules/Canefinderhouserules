@@ -14,6 +14,7 @@
 - **[Mage Hand](mage-hand.md)**: 5-pound telekinesis.
 - **[Mending](mending.md)**: Makes minor repairs on an object.
 - **[Message](message.md)**: Whisper conversation at distance.
+- **[Oath of Anonymity](oath-of-anonymity.md)**: Magically conceal your identity behind an alternate persona.
 - **[Open/Close](open-close.md)**: Opens or closes small or light things.
 - **[Prestidigitation](prestidigitation.md)**: Performs minor tricks.
 - **[Read Magic](read-magic.md)**: Read scrolls and spellbooks.
@@ -29,6 +30,7 @@
 - **[Animate Rope](animate-rope.md)**: Makes a rope move at your command.
 - **[Aphasia](aphasia.md)**: Prevent a target from understanding language.
 - **[Aspect of the Nightingale](aspect-of-the-nightingale.md)**: Clear voice, bonus on Diplomacy and Perform.
+- **[Assumed Likeness](assumed-likeness.md)**: You appear as someone each target feels strongly about.
 - **[Auditory Hallucination](auditory-hallucination.md)**: Create a phantasm with auditory effects.
 - **[Blend with Surroundings](blend-with-surroundings.md)**: Target looks like an object and hides easily while still.
 - **[Call Weapon](call-weapon.md)**: Pull an ally’s weapon into your hand.
@@ -65,6 +67,7 @@
 - **[Hypnotism](hypnotism.md)**: Fascinates 2d4 HD of creatures.
 - **[Identify](identify.md)**: Gives +10 bonus to identify magic items.
 - **[Illusory Crowd](illusory-crowd.md)**: Illusory stationary crowd.
+- **[Implant Urge](implant-urge.md)**: A target unconsciously desires a goal you choose.
 - **[Instant Portrait](instant-portrait.md)**: Paint a quick monochrome portrait.
 - **[Jitterbugs](jitterbugs.md)**: School illusion (figment) [mind-affecting]; Level bard 1, sorcerer/wizard 2 Casting Time 1 standard action.
 - **[Jury-Rig](jury-rig.md)**: Removes the broken condition from the targeted object.
@@ -103,6 +106,7 @@
 - **[Technomancy](technomancy.md)**: Detect technological objects.
 - **[Toilsome Chant](toilsome-chant.md)**: School enchantment (compulsion)[mind-affecting]; Level bard 1 Casting Time see text Components V, S Range.
 - **[Transfer Tattoo](transfer-tattoo.md)**: Move a magic tattoo between creatures.
+- **[True Skill](true-skill.md)**: Gain an insight bonus on your next check with a chosen skill.
 - **[Undetectable Alignment](undetectable-alignment.md)**: Conceals alignment for 24 hours.
 - **[Unseen Servant](unseen-servant.md)**: Invisible force obeys your commands.
 - **[Urban Grace](urban-grace.md)**: You become one with the city around you, allowing you to move more easily through its crowds and buildings.
@@ -155,6 +159,7 @@
 - **[Detect Thoughts](detect-thoughts.md)**: Allows “listening” to surface thoughts.
 - **[Determine Depth](determine-depth.md)**: Learn the exact thickness of a wall or barrier.
 - **[Diminish Resistance](diminish-resistance.md)**: Weaken a creature’s resistance to one energy type.
+- **[Diminished Detection](diminished-detection.md)**: Detection spells have half their normal range against you.
 - **[Discovery Torch](discovery-torch.md)**: Touched object emanates bright light, granting Perception and Sense Motive bonuses.
 - **[Disrupt Silence](disrupt-silence.md)**: Disrupt all silence effects in an area.
 - **[Duelist’s Alacrity](duelists-alacrity.md)**: Faster, with fancy footwork.
@@ -199,6 +204,7 @@
 - **[Rumormonger](rumormonger.md)**: Follow a rumor to see where it spreads.
 - **[Rune of Rule](rune-of-rule.md)**: Paint a rune on an ally that grants a one-time boost.
 - **[Scare](scare.md)**: Panics creatures of less than 6 HD.
+- **[Searching Shadows](searching-shadows.md)**: Shadows search an area for a specified creature or object.
 - **[Seducer’s Eyes](seducers-eyes.md)**: Charisma skill bonus against those who find you attractive.
 - **[Sense Vitals](sense-vitals.md)**: Gain sneak attack with any manufactured weapon.
 - **[Shadow Anchor](shadow-anchor.md)**: School illusion (shadow) [shadow]; Level bard 2, sorcerer/wizard 2, witch 2 Casting Time 1 standard action.
@@ -273,6 +279,7 @@
 - **[Hypercognition](hypercognition.md)**: Rapidly recall everything you know about a subject.
 - **[Illusory Script](illusory-script.md)**: Only select creatures can read text.
 - **[Instant Fake](instant-fake.md)**: Provide a short-term replica of an object.
+- **[Inveigle Person](inveigle-person.md)**: The target treats all creatures as friendly.
 - **[Invisibility Sphere](invisibility-sphere.md)**: Makes everyone within 10 feet invisible.
 - **[Leshy Swarm](leshy-swarm.md)**: Summon a swarm of Tiny leshys.
 - **[Mad Sultan’s Melody](mad-sultans-melody.md)**: Bizarre cacophony fascinates eldritch creatures.
@@ -293,6 +300,7 @@
 - **[Sculpt Sound](sculpt-sound.md)**: Creates new sounds or changes existing ones into new sounds.
 - **[Secret Page](secret-page.md)**: Changes one page to hide its real content.
 - **[See Invisibility](see-invisibility.md)**: Reveals invisible creatures or objects.
+- **[Seeds of Influence](seeds-of-influence.md)**: Leave a trace in a creature’s mind that weakens it against your divinations and enchantments.
 - **[Selective Alarm](selective-alarm.md)**: As *alarm*, but only against selected creatures.
 - **[Selective Invisibility](selective-invisibility.md)**: Invisible, except to one chosen creature you may attack.
 - **[Sepia Snake Sigil](sepia-snake-sigil.md)**: Creates a snake-shaped text symbol that immobilizes reader.
@@ -313,6 +321,7 @@
 
 - **[Absorb Rune I](absorb-rune-i.md)**: Absorb a magical rune and move it elsewhere.
 - **[Animal Ambassador](animal-ambassador.md)**: Grant an animal messenger sentience to deliver your message.
+- **[Apathy](apathy.md)**: A target loses interest in a chosen pursuit.
 - **[Assume Appearance, Greater](assume-appearance-greater.md)**: Use a likeness to adopt a dead creature’s form.
 - **[Bountiful Banquet](bountiful-banquet.md)**: Create a luxurious feast for two creatures/level.
 - **[Break Enchantment](break-enchantment.md)**: Frees subjects from enchantments, transmutations, and curses.
@@ -353,6 +362,7 @@
 - **[Remove Radioactivity](remove-radioactivity.md)**: Cure radiation effects.
 - **[Repel Vermin](repel-vermin.md)**: Insects, spiders, and other vermin stay 10 ft. away.
 - **[Secure Shelter](secure-shelter.md)**: Creates sturdy cottage.
+- **[Seek Shelter](seek-shelter.md)**: Weak creatures flee to safety in an orderly fashion.
 - **[Shadow Conjuration](shadow-conjuration.md)**: Mimics conjuration below 4th level, but only 20% real.
 - **[Shocking Image](shocking-image.md)**: As mirror image, but the duplicates emit electrical damage when destroyed.
 - **[Shout](shout.md)**: Deafens all within cone and deals 5d6 sonic damage.
@@ -372,16 +382,19 @@
 - **[Bladed Dash, Greater](bladed-dash-greater.md)**: Dash 30 feet and attack all foes along the way.
 - **[Callback, Greater](callback-greater.md)**: Teleport a familiar or spirit animal from miles away to your side when it is injured.
 - **[Claim Identity, Greater](claim-identity-greater.md)**: As claim identity, but the target becomes a mask others can wear.
+- **[Commune with Texts](commune-with-texts.md)**: Absorb knowledge from a collection of texts.
 - **[Compelling Rant](compelling-rant.md)**: People believe your ridiculous speech as long as you keep talking.
 - **[Crime Wave](crime-wave.md)**: Compel targets to commit criminal actions.
 - **[Cure Light Wounds, Mass](cure-light-wounds-mass.md)**: Cures 1d8 damage + 1/level, affects 1 subject/level.
 - **[Deceptive Redundancy](deceptive-redundancy.md)**: Fool dispellers and hide a spell’s aura.
 - **[Dispel Magic, Greater](dispel-magic-greater.md)**: Works as *dispel magic,* but can affect multiple targets.
 - **[Dream](dream.md)**: Sends message to anyone sleeping.
+- **[Dream Reality](dream-reality.md)**: The target perceives the world as a dream and forgets it.
 - **[False Vision](false-vision.md)**: Fools scrying with an illusion.
 - **[Grease, Greater](grease-greater.md)**: As grease, but covers much more.
 - **[Heroism, Greater](heroism-greater.md)**: Gives +4 bonus on attack rolls, saves, skill checks; immunity to fear; temporary hp.
 - **[Hymn of Mercy](hymn-of-mercy.md)**: Touch of mercy in a burst around you.
+- **[Inveigle Monster](inveigle-monster.md)**: As inveigle person, but affects any living creature for 1 day/level.
 - **[Locate Gate](locate-gate.md)**: Find a nearby magical portal.
 - **[Mage’s Decree](mages-decree.md)**: Send a message to creatures within miles.
 - **[Mind Fog](mind-fog.md)**: Subjects in fog get –10 to Wis and Will checks.
@@ -394,6 +407,7 @@
 - **[Pox of Rumors](pox-of-rumors.md)**: Curse a creature to attract nasty rumors.
 - **[Repress Memory](repress-memory.md)**: Remove a piece of knowledge from your mind.
 - **[Scripted Hallucination](scripted-hallucination.md)**: As *complex hallucination*, but without concentration.
+- **[Seeds of Influence, Greater](seeds-of-influence-greater.md)**: As seeds of influence, but can dispel protections against your spells.
 - **[Seeming](seeming.md)**: Changes appearance of one person per two levels.
 - **[Shadow Evocation](shadow-evocation.md)**: Mimics evocation of lower than 5th level, but only 20% real.
 - **[Shadow Walk](shadow-walk.md)**: Step into shadow to travel rapidly.

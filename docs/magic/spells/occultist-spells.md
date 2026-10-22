@@ -179,6 +179,7 @@ Occultists gain access to the following spells, determined by their chosen imple
 - **[Allied Cloak](allied-cloak.md)**: Animate your cloak to shield you and aid your actions.
 - **[Arcane Lock](arcane-lock.md)**: Magically locks a portal or chest.
 - Bullet Shield
+- **[Assumed Likeness](assumed-likeness.md)**: You appear as someone each target feels strongly about.
 - **[Billowing Skirt](billowing-skirt.md)**: A skirt or gown slows your fall.
 - **[Conditional Favor](conditional-favor.md)**: Provide another spell whose effects reverse if the target breaks a restriction.
 - **[Crimson Confession](crimson-confession.md)**
@@ -192,6 +193,7 @@ Occultists gain access to the following spells, determined by their chosen imple
 - **[Rune of Rule](rune-of-rule.md)**: Paint a rune on an ally that grants a one-time boost.
 - **[Surefoot Boots](surefoot-boots.md)**: Footwear grants perfect balance.
 - **[Sympathetic Aura](sympathetic-aura.md)**: Magic aura that also covers similar nearby items.
+- **[Violent Accident](violent-accident.md)**: Curse a creature to suffer a damaging accident within 24 hours.
 - **[With the Wind](with-the-wind.md)**: Protect a target from being blown away by wind of less than windstorm force.
 
 **Conjuration**:
@@ -337,9 +339,11 @@ Occultists gain access to the following spells, determined by their chosen imple
 - **[Magic Circle against Good](magic-circle-against-good.md)**
 - **[Magic Circle against Law](magic-circle-against-law.md)**
 - **[Nondetection](nondetection.md)**: Hides subject from divination, scrying.
+- **[Poison Exchange](poison-exchange.md)**: Swallow one poison and regurgitate another.
 - **[Protection from Energy](protection-from-energy.md)**: Absorbs 12 points/level of damage from one kind of energy.
 - Resist Energy, Communal
 - **[Selective Alarm](selective-alarm.md)**: As *alarm*, but only against selected creatures.
+- **[Shaper’s Touch](shapers-touch.md)**: Reshape an object as though it were clay.
 - **[Thaumaturgic Circle](thaumaturgic-circle.md)**: As magic circle, but affecting a nonalignment subtype or outsider race.
 - **[Vigilant Rest](vigilant-rest.md)**: Cause a sleeping creature to retain some perception of its surroundings.
 
@@ -459,6 +463,7 @@ Occultists gain access to the following spells, determined by their chosen imple
 - **[Ban Corruption](ban-corruption.md)**: Eliminate the gifts of nearby corrupted creatures.
 - **[Break Enchantment](break-enchantment.md)**: Frees subjects from enchantments, transmutations, and curses.
 - **[Brightest Light](brightest-light.md)**: Longer-lasting daylight that can dispel darkness.
+- **[Commune with Texts](commune-with-texts.md)**: Absorb knowledge from a collection of texts.
 - **[Conjuration Foil](conjuration-foil.md)**: Interfere with nearby teleportation effects.
 - **[Curse of Magic Negation](curse-of-magic-negation.md)**: Target gains the negated spellblight.
 - **[Dimensional Anchor](dimensional-anchor.md)**: Bars extradimensional movement.
@@ -594,6 +599,8 @@ Occultists gain access to the following spells, determined by their chosen imple
 
 - **[Dispel Magic, Greater](dispel-magic-greater.md)**: As *dispel magic*, but with multiple targets.
 - Spell Immunity, Communal
+- **[Dream Reality](dream-reality.md)**: The target perceives the world as a dream and forgets it.
+- **[Secret Workshop](secret-workshop.md)**: As nondetection, but protects many creatures and objects.
 - **[Spell Resistance](spell-resistance.md)**: Subject gains SR 12 + level.
 - Stoneskin, Communal
 
@@ -678,6 +685,7 @@ Occultists gain access to the following spells, determined by their chosen imple
 - **[Forbiddance](forbiddance.md)**: Blocks planar travel, damages creatures of different alignment.
 - **[Globe of Invulnerability](globe-of-invulnerability.md)**: As *lesser globe of invulnerability*, plus 4th-level spell effects.
 - **[Repulsion](repulsion.md)**: Creatures can’t approach you.
+- **[Rotting Alliance](rotting-alliance.md)**: Curse several creatures to waste away when near one another.
 - **[Scribe’s Binding](scribes-binding.md)**: Bind a creature and its memories into a book.
 - **[Symbol of Vulnerability](symbol-of-vulnerability.md)**: Triggered rune gives penalties.
 
@@ -689,6 +697,7 @@ Occultists gain access to the following spells, determined by their chosen imple
 - **[Getaway](getaway.md)**: Teleports you and select creatures to predetermined location.
 - **[Heal](heal.md)**: Cures 10 points/level damage, all diseases and mental conditions.
 - **[Planar Binding](planar-binding.md)**: As *lesser planar binding,* but up to 12 HD.
+- **[Transfiguring Touch](transfiguring-touch.md)**: Convert an object into iron, paper, or wood.
 - **[Treacherous Teleport](treacherous-teleport.md)**: As *teleport*, except you choose some creatures to suffer a mishap or go elsewhere.
 - **[Wall of Iron](wall-of-iron.md)**: 30 hp/four levels; can topple onto foes.
 

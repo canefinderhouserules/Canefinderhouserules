@@ -815,3 +815,17 @@ Of the three monastic schools, the flame school has been the most successful in 
 **Confounding Koan (Sp)**: At 12th level, a brazen disciple can spend 2 ki points as a standard action to confuse a target within 30 feet with a riddle or paradox. This ability functions as per *confusion*, except that it is language-dependent. The DC is equal to 10 + half the monk’s class level + his Wisdom modifier, and the caster level is equal to his class level. This ability replaces abundant step. (For the unchained monk, this ability replaces the monk’s ki ability gained at 12th level.)
 
 **Genie Apotheosis**: At 20th level, a brazen disciple is treated as a native outsider with the fire subtype rather than as a humanoid (or whatever the monk’s creature type was) for the purpose of spells and magical effects. He has immunity to fire and vulnerability to cold. Once per day, the brazen disciple can grant a *limited wish* to a non-outsider as a spell-like ability (CL 20th). This ability replaces perfect self.
+
+## Perfect Scholar
+
+Perfect scholars, often worshipers of a god of perfection, hone their minds and bodies through the accumulation of knowledge. They study and annotate holy texts and other philosophies as well as collect lore on anatomy, medicine, philosophy, martial arts, and history, among other topics of erudition.
+
+**Class Skills**: A perfect scholar adds Knowledge (all) and Linguistics to his list of class skills, instead of Intimidate and Perform. This ability alters the monk's class skills.
+
+**Lore (Ex)**: At 3rd level, the perfect scholar gains a bonus equal to 1/2 his monk level on Knowledge checks and can attempt Knowledge checks untrained. This ability replaces still mind. For the monk from *Pathfinder Unchained*, this ability is gained at 4th level.
+
+**Learn from Failure (Ex)**: At 4th level, when the perfect scholar misses with an attack roll or fails a Research check, he gains a +1 insight bonus on his next attack roll or Research check against the same target attempted in the next 24 hours. An individual target cannot be affected by this ability more than once in a 24-hour period. At 6th level, and every 2 monk levels thereafter, this bonus increases by 1. This ability replaces slow fall. For the monk from *Pathfinder Unchained*, this ability replaces the ki power gained at 4th level.
+
+**Eye of the Sun and Moon (Ex)**: At 17th level, a perfect scholar can read all languages and write all languages he has read or heard. This ability replaces tongue of the sun and moon. For the monk from *Pathfinder Unchained*, this ability is gained at 13th level.
+
+**Walk with the Master (Su)**: At 20th level, the perfect scholar has mastered his spiritual resonance, allowing him to travel as if using *etherealness*, *plane shift*, or *shadow walk* at his monk level by spending only 1 point from his ki pool. He cannot bring other creatures with him. He is treated as an outsider rather than his original type, although he can be brought back to life as if he were still of his former type. This ability alters perfect self.

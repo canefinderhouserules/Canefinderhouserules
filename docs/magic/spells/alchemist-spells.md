@@ -21,6 +21,7 @@ New alchemist spells from *Ultimate Magic* and *Ultimate Combat*. Spells from ot
 - **[See Alignment](see-alignment.md)**: Pick an alignment; in your sight, creatures and items with that alignment emit a ghostly radiance.
 - **[Shock Shield](shock-shield.md)**: A shield of force protects you until you dismiss it in an explosion of electricity.
 - **[Targeted Bomb Admixture](targeted-bomb-admixture.md)**: Empowers bombs you throw to deal more damage to a single creature.
+- **[True Skill](true-skill.md)**: Gain an insight bonus on your next check with a chosen skill.
 - **[Urban Grace](urban-grace.md)**: You become one with the city around you, allowing you to move more easily through its crowds and buildings.
 - **[Vocal Alteration](vocal-alteration.md)**: Disguise target’s voice.
 - **[Waterproof](waterproof.md)**: Renders an object or creature’s gear waterproof.
@@ -45,6 +46,7 @@ New alchemist spells from *Ultimate Magic* and *Ultimate Combat*. Spells from ot
 - **[Curative Distillation](curative-distillation.md)**: Heals and grants the benefits of a consumed healing item.
 - **[Defensive Shock](defensive-shock.md)**: Electricity damages your attackers.
 - **[Delay Disease](delay-disease.md)**: The target becomes temporarily immune to disease.
+- **[Diminished Detection](diminished-detection.md)**: Detection spells have half their normal range against you.
 - **[Duelist’s Alacrity](duelists-alacrity.md)**: Faster, with fancy footwork.
 - **[Enshroud Thoughts](enshroud-thoughts.md)**: Ward yourself against thought detection and memory alteration.
 - **[Ghostly Disguise](ghostly-disguise.md)**: You look like a ghost of yourself.
@@ -54,9 +56,11 @@ New alchemist spells from *Ultimate Magic* and *Ultimate Combat*. Spells from ot
 - **[Languid Venom](languid-venom.md)**: Delay a poison’s onset and hide its presence.
 - **[Merge with Familiar](merge-with-familiar.md)**: Merge the body of your familiar or spirit animal into your own.
 - **[Minor Dream](minor-dream.md)**: School illusion (figment) [mind-affecting]; Level alchemist 2, bard 3, sorcerer/wizard 3, witch 2 Casting.
+- **[Poison Exchange](poison-exchange.md)**: Swallow one poison and regurgitate another.
 - **[Pouncing Fury](pouncing-fury.md)**: Make a full attack with your claws after a charge.
 - **[Quick Change](quick-change.md)**: Use change shape as a swift action and surprise foes.
 - **[Shadow Bomb Admixture](shadow-bomb-admixture.md)**: Empowers bombs you throw to cover the target with a shadowy substance that grants it concealment and limits its vision.
+- **[Shaper’s Touch](shapers-touch.md)**: Reshape an object as though it were clay.
 - **[Shifted Steps](shifted-steps.md)**: Make a target sound as if elsewhere.
 - **[Sickening Strikes](sickening-strikes.md)**: You are imbued with disease, and any creature you strike with a melee attack must make a Fortitude save or be.
 - **[Skinsend](skinsend.md)**: Animate and possess your own skin as if it were a separate creature.
@@ -140,6 +144,7 @@ New alchemist spells from *Ultimate Magic* and *Ultimate Combat*. Spells from ot
 - **[Age Resistance, Greater](age-resistance-greater.md)**: Ignore any penalties from venerable age.
 - **[Air Walk, Communal](air-walk-communal.md)**: As air walk, but you may divide the duration among creatures touched.
 - **[Claim Identity, Greater](claim-identity-greater.md)**: As claim identity, but the target becomes a mask others can wear.
+- **[Dream Reality](dream-reality.md)**: The target perceives the world as a dream and forgets it.
 - **[Dust Form](dust-form.md)**: You become an incorporeal creature of dust for a short period of time.
 - **[Fey Form II](fey-form-ii.md)**: Assume the form of a Tiny or Large fey creature.
 - **[Glimpse of Truth](glimpse-of-truth.md)**: Gain *true seeing* for 1 round.
@@ -151,6 +156,7 @@ New alchemist spells from *Ultimate Magic* and *Ultimate Combat*. Spells from ot
 - **[Shapechanger’s Gift](shapechangers-gift.md)**: Temporarily change a target into an animal, humanoid, or monstrous humanoid.
 - **[Stoneskin, Communal](stoneskin-communal.md)**
 - **[Swallow Poison](swallow-poison.md)**: Protect yourself from ingested poison, then spit it out in a cone.
+- **[Transfiguring Touch](transfiguring-touch.md)**: Convert an object into iron, paper, or wood.
 - **[Transplant Visage](transplant-visage.md)**: Wear a stolen face for +10 on Disguise.
 - **[Undead Anatomy II](undead-anatomy-ii.md)**: Take the form and some of the powers of a Tiny or Large undead.
 - **[Unerring Tracker](unerring-tracker.md)**: Follow an entire trail unerringly.

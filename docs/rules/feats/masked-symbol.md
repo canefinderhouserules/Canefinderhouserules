@@ -1,0 +1,15 @@
+# Masked Symbol
+
+Your alternate identity exists as a nearly inhuman avatar of a mood or cause.
+
+**Prerequisites**: Disguise 1 rank or dual identity class feature.
+
+**Benefit**: Your masked persona represents a particular concept, granting you a benefit while in your masked persona or vigilante identity. Each time you gain a new character level, you can choose to embody a different symbol, forgoing your previous bonus and gaining a new one.
+
+- **Faith**: +2 circumstance bonus on Diplomacy checks against creatures of your faith; +2 circumstance bonus on Intimidate checks against enemies of your faith.
+- **Fear**: +3 circumstance bonus on Intimidate checks.
+- **Hope**: +3 circumstance bonus on Diplomacy checks.
+- **Leadership**: +2 bonus to your Leadership score.
+- **Mystery**: +2 circumstance bonus on Disguise checks to conceal your true identity; +2 circumstance bonus on Stealth checks to enter or escape unseen.
+- **The People**: +2 circumstance bonus on checks to influence crowds.
+- **Trust**: +2 circumstance bonus on Bluff checks to lie and Diplomacy checks to make requests.

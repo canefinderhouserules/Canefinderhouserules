@@ -1566,6 +1566,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Confabulist](confabulist.md) | — | Bluff 9 ranks, Sense Motive 9 ranks |
 | [Consortium Partner](consortium-partner.md) | — | — |
 | [Conversion Channel](conversion-channel.md) | — | Channel energy 7d6, worshiper of a deity of tyranny and contracts |
+| [Convincing Persona](convincing-persona.md) | — | Bluff 5 ranks, Perform (act) 5 ranks, or dual identity |
 | [Cooperative Disabling](cooperative-disabling.md) | Teamwork | Disable Device 1 rank, trapfinding class feature |
 | [Courage in a Bottle](courage-in-a-bottle.md) | — | Bravery class feature, worshiper of a deity of freedom and ale |
 | [Craft Cybernetics](craft-cybernetics.md) | — | Technologist, Heal 9 ranks, Knowledge (engineering) 9 ranks |
@@ -1728,6 +1729,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Greater Ironclad Reactions](greater-ironclad-reactions.md) | Armor Mastery | Combat Reflexes, Ironclad Reactions, base attack bonus +11 or fighter level 8th, armor training class feature, proficiency with medium armor |
 | [Greater Ray Shield](greater-ray-shield.md) | Shield Mastery | Dex 17, Missile Shield, Ray Shield, Spellbreaker |
 | [Greater School Familiar](greater-school-familiar.md) | — | School Familiar, wizard level 10th, specialized arcane school class feature |
+| [Greater Stylized Spell](greater-stylized-spell.md) | Metamagic | Stylized Spell, Bluff 10 ranks, Spellcraft 10 ranks |
 | [Grisly Ornament](grisly-ornament.md) | — | Harvest Parts |
 | [Group Deliver Touch Spells](group-deliver-touch-spells.md) | Teamwork | Group Shared Spells, must have a familiar with the share spells and deliver touch spells abilities |
 | [Growth in Ash](growth-in-ash.md) | — | — |
@@ -1811,6 +1813,8 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Mask of Virtue](mask-of-virtue.md) | Damnation | Patronage of an evil outsider |
 | [Masked by Fear](masked-by-fear.md) | — | Nameless One; Will save +6 or bravery |
 | [Masked Intent](masked-intent.md) | — | Nameless One |
+| [Masked Renown](masked-renown.md) | — | Cha 13, Disguise 2 ranks |
+| [Masked Symbol](masked-symbol.md) | — | Disguise 1 rank or dual identity |
 | [Master of Knowledge](master-of-knowledge.md) | — | Int 17, Skill Focus (Knowledge [any]), worshiper of a deity of knowledge |
 | [Master of Your Kind](master-of-your-kind.md) | — | Familiar, speak with animals of its kind ability |
 | [Master Sniper](master-sniper.md) | Combat | Expert Sniper, Rapid Shot, Stealth 6 ranks |
@@ -2006,6 +2010,8 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Stumbling Bash](stumbling-bash.md) | Shield Mastery | Improved Shield Bash, Shield Focus, base attack bonus +6 or fighter level 4th |
 | [Stunning Irruption](stunning-irruption.md) | Combat | Str 15, Power Attack, base attack bonus +5 |
 | [Stylized Spell](stylized-spell.md) | Metamagic | Bluff 5 ranks, Spellcraft 5 ranks |
+| [Stylized Spell Mastery](stylized-spell-mastery.md) | — | Spell Mastery, Stylized Spell, Bluff 5 ranks, Spellcraft 5 ranks |
+| [Stylized Spontaneity](stylized-spontaneity.md) | — | Bluff 5 ranks, Spellcraft 5 ranks |
 | [Subtle Devices](subtle-devices.md) | — | Stealthy |
 | [Subtle Enchantments](subtle-enchantments.md) | — | Deceitful, Spell Focus (enchantment) |
 | [Summon Evil Monster](summon-evil-monster.md) | — | Evil alignment |

@@ -5,6 +5,7 @@
 **Abjuration**
 
 - **[Haunted Fey Aspect](haunted-fey-aspect.md)**: You surround yourself with disturbing illusions.
+- **[Oath of Anonymity](oath-of-anonymity.md)**: Magically conceal your identity behind an alternate persona.
 - **[Resistance](resistance.md)**: Subject gains +1 on saving throws.
 
 **Conjuration**
@@ -86,6 +87,7 @@
 - **[Hold Portal](hold-portal.md)**: Holds door shut.
 - **[Identity Validation](identity-validation.md)**: Confirm a creature’s identity from a sample.
 - **[Illusion of Calm](illusion-of-calm.md)**: You appear to be standing still, even when you take some actions.
+- **[Implant Urge](implant-urge.md)**: A target unconsciously desires a goal you choose.
 - **[Instant Portrait](instant-portrait.md)**: Paint a quick monochrome portrait.
 - **[Jury-Rig](jury-rig.md)**: Removes the broken condition from the targeted object.
 - **[Liberating Command](liberating-command.md)**: Target makes an Escape Artist check as an immediate action and gains a bonus on it.
@@ -132,6 +134,7 @@
 - **[Theft Ward](theft-ward.md)**: You ward a single object in your possession against theft.
 - **[Touch of Combustion](touch-of-combustion.md)**: Your successful melee touch attack causes the target to ignite in a violent burst of flame, dealing 1d6.
 - **[Transfer Tattoo](transfer-tattoo.md)**: Move a magic tattoo between creatures.
+- **[True Skill](true-skill.md)**: Gain an insight bonus on your next check with a chosen skill.
 - **[Undine’s Curse](undine-s-curse.md)**: The target loses its body’s natural ability to breathe automatically.
 - **[Unerring Weapon](unerring-weapon.md)**: Grants a +2 bonus, +1 per four caster levels, on attack rolls to confirm a critical hit.
 - **[Unseen Servant](unseen-servant.md)**: Invisible force obeys your commands.
@@ -203,6 +206,7 @@
 - **[Apport Object](apport-object.md)**: Send or receive a small object via teleportation.
 - **[Arcane Disruption](arcane-disruption.md)**: Subject must make concentration checks to use arcane magic.
 - **[Arcane Lock](arcane-lock.md)**: Magically locks a portal or chest.
+- **[Assumed Likeness](assumed-likeness.md)**: You appear as someone each target feels strongly about.
 - **[Bestow Insight](bestow-insight.md)**: Component V, S Range touch Target one creature touched Duration 1 minute/level When casting this spell.
 - **[Bestow Weapon Proficiency](bestow-weapon-proficiency.md)**: Grants a creature proficiency in a single weapon for short period of time.
 - **[Billowing Skirt](billowing-skirt.md)**: A skirt or gown slows your fall.
@@ -230,6 +234,7 @@
 - **[Detect Magic, Greater](detect-magic-greater.md)**: As *detect magic*, but learn more information.
 - **[Determine Depth](determine-depth.md)**: Learn the exact thickness of a wall or barrier.
 - **[Diminish Resistance](diminish-resistance.md)**: Weaken a creature’s resistance to one energy type.
+- **[Diminished Detection](diminished-detection.md)**: Detection spells have half their normal range against you.
 - **[Disrupt Link](disrupt-link.md)**: Sever the link between a creature and her companion or familiar.
 - **[Dress Corpse](dress-corpse.md)**: Doctor the evidence on a corpse.
 - **[Eldritch Conduit](eldritch-conduit.md)**: Use an enemy as the origin point of an area spell.
@@ -291,6 +296,7 @@
 - **[Revealing Light](revealing-light.md)**: Object sheds shifting light that foils Stealth bonuses.
 - **[Ricochet Shot](ricochet-shot.md)**: Imbues a projectile weapon to give its ammunition the ability to ricochet.
 - **[Rune of Rule](rune-of-rule.md)**: Paint a rune on an ally that grants a one-time boost.
+- **[Searching Shadows](searching-shadows.md)**: Shadows search an area for a specified creature or object.
 - **[Secret Coffer](secret-coffer.md)**: Small secret chest.
 - **[Secret Speech](secret-speech.md)**: Send hidden messages within normal speech.
 - **[Seducer’s Eyes](seducers-eyes.md)**: Charisma skill bonus against those who find you attractive.
@@ -431,6 +437,7 @@
 - **[Gilded Whispers](gilded-whispers.md)**: Use a coin as a scrying target.
 - **[Gloomblind Bolts](gloomblind-bolts.md)**: You create one or more bolts of negative energy infused with shadow pulled from the Shadow Plane.
 - **[Grasping Tentacles](grasping-tentacles.md)**: As black tentacles, but they perform dirty tricks.
+- **[Guardian Wasps](guardian-wasps.md)**: A wasp swarm builds a nest that guards an area.
 - **[Guarding Knowledge](guarding-knowledge.md)**: +4 insight bonus on saves against one identified monster special attack.
 - **[Healing Thief](healing-thief.md)**: You siphon half of all magical healing that the targeted creature receives.
 - **[Hostile Levitation](hostile-levitation.md)**: Levitates the targeted creature up off the ground.
@@ -459,6 +466,7 @@
 - **[Phantasmal Affliction](phantasmal-affliction.md)**: Convince a target that it contracted an affliction.
 - **[Phantom Driver](phantom-driver.md)**: Conjures a phantom to drive vehicles.
 - **[Planar Inquiry](planar-inquiry.md)**: Call an outsider to answer questions.
+- **[Poison Exchange](poison-exchange.md)**: Swallow one poison and regurgitate another.
 - **[Prehensile Pilfer](prehensile-pilfer.md)**: School transmutation; Level alchemist 3, bard 3, magus 3, sorcerer/wizard 3 Casting Time 1 standard action.
 - **[Protection from Arrows, Communal](protection-from-arrows-communal.md)**: As protection from arrows, but you may divide the duration among creatures touched.
 - **[Protection from Energy](protection-from-energy.md)**: Absorbs 12 points/level of damage from one kind of energy.
@@ -477,6 +485,7 @@
 - **[Selective Alarm](selective-alarm.md)**: As *alarm*, but only against selected creatures.
 - **[Selective Invisibility](selective-invisibility.md)**: Invisible, except to one chosen creature you may attack.
 - **[Sepia Snake Sigil](sepia-snake-sigil.md)**: Creates text symbol that immobilizes reader.
+- **[Shaper’s Touch](shapers-touch.md)**: Reshape an object as though it were clay.
 - **[Share Language, Communal](share-language-communal.md)**: As share language, but you may divide the duration among creatures touched.
 - **[Shifting Shadows](shifting-shadows.md)**: Shadows make flanking and attacks of opportunity unreliable.
 - **[Slave to Sin](slave-to-sin.md)**: Exploit a creature’s sin to sicken and stagger it.
@@ -591,6 +600,7 @@
 - **[Illusion of Treachery](illusion-of-treachery.md)**: Make it seem like another is also responsible for your attacks.
 - **[Insect Spies](insect-spies.md)**: Use magic beetles as spies.
 - **[Instant Fake](instant-fake.md)**: Provide a short-term replica of an object.
+- **[Inveigle Person](inveigle-person.md)**: The target treats all creatures as friendly.
 - **[Mad Sultan’s Melody](mad-sultans-melody.md)**: Bizarre cacophony fascinates eldritch creatures.
 - **[Magic Aura, Greater](magic-aura-greater.md)**: As *magic aura*, but also affects creatures and allows more options.
 - **[Magic Circle against Technology](magic-circle-against-technology.md)**: Protection from technology in an area.
@@ -622,6 +632,7 @@
 - **[Rigor Mortis](rigor-mortis.md)**: Painfully swell a target’s joints.
 - **[Rising Water](rising-water.md)**: Conjures a cylinder of calm, swimmable water.
 - **[Sadomasochism](sadomasochism.md)**: Pain empowers your attacks and demoralizes attackers.
+- **[Seeds of Influence](seeds-of-influence.md)**: Leave a trace in a creature’s mind that weakens it against your divinations and enchantments.
 - **[Shadow Barbs](shadow-barbs.md)**: Shadowy vicious spiked chain that radiates darkness.
 - **[Shadowy Haven](shadowy-haven.md)**: This spell functions like rope trick, except the point of entry is through a 5-foot-square instead of a rope.
 - **[Share Shape](share-shape.md)**: Beast shape II, limited to your companion's or familiar's kind.
@@ -708,12 +719,14 @@
 
 - **[Absorb Toxicity](absorb-toxicity.md)**: You become immune to diseases and toxins, absorb one, and then spread it to others.
 - **[Angelic Aspect](angelic-aspect.md)**: Gain wings, resistances and DR 5/evil.
+- **[Apathy](apathy.md)**: A target loses interest in a chosen pursuit.
 - **[Befuddled Combatant](befuddled-combatant.md)**: Reduces a target’s ability DCs by 4 and its damage to minimum.
 - **[Break Enchantment](break-enchantment.md)**: Frees subjects from enchantments, transmutations, and curses.
 - **[Callback, Greater](callback-greater.md)**: Teleport a familiar or spirit animal from miles away to your side when it is injured.
 - **[Caustic Blood](caustic-blood.md)**: Wounds spray acid at attackers.
 - **[Charm Person, Mass](charm-person-mass.md)**: As *charm person*, but affects multiple creatures within 30 ft.
 - **[Charnel House](charnel-house.md)**: Create an area of semi-real gore.
+- **[Commune with Texts](commune-with-texts.md)**: Absorb knowledge from a collection of texts.
 - **[Companion Transposition](companion-transposition.md)**: Swap places with your animal companion, familiar, or spirit animal via teleportation.
 - **[Compelling Rant](compelling-rant.md)**: People believe your ridiculous speech as long as you keep talking.
 - **[Condensed Ether](condensed-ether.md)**: Creates a planar conjunction that slows movement, penalizes AC and Reflex saves, and imposes a miss chance on ranged attacks.
@@ -762,7 +775,10 @@
 - **[Red Hand of the Killer](red-hand-of-the-killer.md)**: Stain the hand of a creature’s killer red.
 - **[Sawtooth Terrain](sawtooth-terrain.md)**: Serrated blades erupt from a surface.
 - **[Scripted Hallucination](scripted-hallucination.md)**: As *complex hallucination*, but without concentration.
+- **[Sealed Sending](sealed-sending.md)**: A scroll with a short message appears anywhere you have seen.
 - **[Secret Chest](secret-chest.md)**: Hides expensive chest on Ethereal Plane; you retrieve it at will.
+- **[Secret Workshop](secret-workshop.md)**: As nondetection, but protects many creatures and objects.
+- **[Seek Shelter](seek-shelter.md)**: Weak creatures flee to safety in an orderly fashion.
 - **[Sequester Thoughts](sequester-thoughts.md)**: Store a creature’s memories in a gem.
 - **[Shapechanger’s Gift](shapechangers-gift.md)**: Temporarily change a target into an animal, humanoid, or monstrous humanoid.
 - **[Siphon Magic](siphon-magic.md)**: Transfer a spell effect from a touched creature to you.
@@ -868,6 +884,7 @@
 - **[Destroy Robot](destroy-robot.md)**: Deals 12d6 + 1/level damage to a robot.
 - **[Discharge, Greater](discharge-greater.md)**: Discharge many objects or an area.
 - **[Dispel Magic, Greater](dispel-magic-greater.md)**: As *dispel magic*, but with multiple targets.
+- **[Dream Reality](dream-reality.md)**: The target perceives the world as a dream and forgets it.
 - **[Dream Scan](dream-scan.md)**: Read a dreaming creature’s thoughts.
 - **[Eldritch Conduit, Greater](eldritch-conduit-greater.md)**: Use multiple enemies as origin points for area spells.
 - **[Energy Siege Shot, Greater](energy-siege-shot-greater.md)**: As energy siege shot, but you can affect any size siege engine.
@@ -899,6 +916,7 @@
 - **[Tar Pool](tar-pool.md)**: Converts the top layer of the ground into hot tar.
 - **[Telepathy](telepathy.md)**: Communicate mentally with creatures within 100 ft.
 - **[Transfer Familiar](transfer-familiar.md)**: Temporarily give control of your familiar to another creature.
+- **[Transfiguring Touch](transfiguring-touch.md)**: Convert an object into iron, paper, or wood.
 - **[Treacherous Teleport](treacherous-teleport.md)**: As *teleport*, except you choose some creatures to suffer a mishap or go elsewhere.
 - **[Triggered Hallucination](triggered-hallucination.md)**: As *scripted hallucination*, but it only appears when triggered.
 - **[Wall of Iron](wall-of-iron.md)**: 30 hp/four levels; can topple onto foes.
@@ -988,6 +1006,7 @@
 - **[Inflict Pain, Mass](inflict-pain-mass.md)**: As inflict pain, but affecting one creature per level.
 - **[Infuse Robot](infuse-robot.md)**: Turn a robot into a magical construct you command.
 - **[Insect Spies, Greater](insect-spies-greater.md)**: Use magic beetles as spies and also share their senses.
+- **[Inveigle Monster](inveigle-monster.md)**: As inveigle person, but affects any living creature for 1 day/level.
 - **[Maddening Oubliette](maddening-oubliette.md)**: Send a creature to a maddening demiplane prison.
 - **[Magical Beast Shape](magical-beast-shape.md)**: Assume the form of a magical beast.
 - **[Memory of Function](memory-of-function.md)**: Restore broken objects and timeworn tech.
@@ -997,7 +1016,9 @@
 - **[Plague Bearer](plague-bearer.md)**: Target spreads contagion to adjacent creatures.
 - **[Plundered Power](plundered-power.md)**: Kill a creature and steal its strongest spell-like ability.
 - **[Pox of Rumors](pox-of-rumors.md)**: Curse a creature to attract nasty rumors.
+- **[Recorporeal Incarnation](recorporeal-incarnation.md)**: Wear a corpse’s flesh to gain its appearance.
 - **[Retrocognition](retrocognition.md)**: Gain psychic impressions from past events in a location.
+- **[Seeds of Influence, Greater](seeds-of-influence-greater.md)**: As seeds of influence, but can dispel protections against your spells.
 - **[Sequester](sequester.md)**: Subject is invisible to sight and scrying; renders creature comatose.
 - **[Shadow Body](shadow-body.md)**: Turn your body into a living shadow.
 - **[Shapechanger’s Gift, Greater](shapechangers-gift-greater.md)**: Temporarily change a target into an animal, elemental, fey, humanoid, monstrous humanoid, or vermin.

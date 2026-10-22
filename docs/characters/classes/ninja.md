@@ -176,3 +176,19 @@ Whenever the ninja uses the sudden disguise ninja trick, the duration increases 
 **Unbound Steps (Su)**: This trick allows a ninja to use her ki to walk through the air. Whenever the ninja uses the light steps class feature, she can walk on air, rising or descending as she desires. She must end her move on a solid surface. Each use of this ability uses up 1 ki point.
 
 **Hidden Master (Su)**: At 20th level, a ninja becomes a true master of her art. She can, as a standard action, cast greater invisibility on herself. While invisible in this way, she cannot be detected by any means, and not even invisibility purge, see invisibility, and true seeing can reveal her. She uses her ninja level as her caster level for this ability. Using this ability consumes 3 ki points from her ki pool. In addition, whenever the ninja deals sneak attack damage, she can sacrifice additional damage dice to apply a penalty to one ability score of the target equal to the number of dice sacrificed for 1 minute. This penalty does not stack with itself and cannot reduce an ability score below 1.
+
+## Frozen Shadow Archetype
+
+Frozen shadows belong to a rare ninja clan operating in the frozen north, working as thieves, power brokers, and spies loosely guided by secretive masters with unknown agendas.
+
+**Class Skills**: A frozen shadow adds Survival to his list of class skills, instead of Diplomacy. This ability alters the ninja's class skills.
+
+**Hardy Killer (Ex)**: At 2nd level, a frozen shadow has become incredibly inured to his surrounding climate. At the beginning of any day, the frozen shadow can spend 1 point from his ki pool to benefit from the effects of an *endure elements* spell. This ability alters ki pool.
+
+**Track Victim (Ex)**: Starting at 4th level, a frozen shadow adds half his ninja level on Survival checks to follow tracks and on Perception checks to see through disguises. Additionally, if the frozen shadow sees a creature that has changed its appearance using the Disguise skill, he can always attempt a Perception check to see through the disguise, even if the disguised creature did nothing to draw attention to itself. The frozen shadow also gains a +2 bonus on Will saving throws when attempting to disbelieve an illusion affecting a creature or creatures. This ability replaces uncanny dodge.
+
+**Swift Tracker (Ex)**: At 8th level, a frozen shadow can move at his normal speed while using Survival to follow tracks without taking the normal –5 penalty. He takes only a –10 penalty (instead of the normal –20) when moving up to twice his normal speed while tracking. Additionally, his bonus on Will saving throws to disbelieve illusions affecting a creature or creatures increases to +4. This replaces improved uncanny dodge.
+
+**Ninja Tricks**: The following ninja tricks complement the frozen shadow archetype: bleeding attack, darkvision, deadly range, fast stealth, hidden weapons, sudden disguise, vanishing trick, and wall climber.
+
+**Advanced Ninja Tricks**: The following advanced ninja tricks complement the frozen shadow archetype: assassinate, ghost step, invisible blade, master disguise, and see the unseen.

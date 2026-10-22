@@ -44,6 +44,8 @@ The prestige classes presented in this chapter are summarized below.
 
 **[Consortium Agent](consortium-agent.md)**: A mercantile operative who evades traps, masks her alignment, and cows foes with a pleasant face.
 
+**[Crowd Blade](crowd-blade.md)**: Bardic spies and fighters of crowded cities who slow foes, vanish into crowds, and become masters of disguise.
+
 **[Cyphermage](cyphermage.md)**: An arcane scholar of runes and written magic who masters scrolls, glyphs, and ancient lore.
 
 **[Darkfire Adept](darkfire-adept.md)**: An evil summoner who unmakes reality with darkfire.
@@ -57,6 +59,8 @@ The prestige classes presented in this chapter are summarized below.
 **[Divine Scion](divine-scion.md)**: A spellcaster chosen by her deity, whose domain and alignment-opposed foes shape her power.
 
 **[Elven Sentinel](elven-sentinel.md)**: An elven-style redeemer-soldier with spell-like light magic who fights Underworld and demonic threats.
+
+**[Enchanting Courtesan](enchanting-courtesan.md)**: Elite information brokers who use illusion and enchantment, poison, and a network of informants to steer events from the shadows.
 
 **[Evangelist](evangelist.md)**: A devout follower of any background who gains boons, languages, and versatility from her deity.
 

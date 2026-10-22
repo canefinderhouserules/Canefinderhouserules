@@ -401,3 +401,33 @@ Lamplighters are investigators tasked with keeping the night streets safe and li
 **Alchemical Illumination (Sp)**: At 2nd level, as a standard action, a lamplighter can cast certain light spells by burning a magic extract, infusion, or potion of a spell of the same or greater level than the light spell in a lit lantern or torch. If the spell has a range of touch, the lantern or torch counts as the object touched. The spell's DC, if any, equals 10 + spell level + the lamplighter's Intelligence modifier. At 2nd level, the lamplighter can cast *light* and *continual flame* (24 hour duration). At 5th level, the lamplighter can cast *daylight* and *discovery torch*. At 8th level, the lamplighter can cast *searing light*. At 11th level, the lamplighter can cast *judgment light*. The lamplighter need not have an active judgment to cast this spell, can choose what color of judgment light is created, can use his alignment for golden light, and can select any element for copper light. This ability replaces poison lore, poison resistance, and poison immunity.
 
 **Ready for the Revelation (Ex)**: At 3rd level, a lamplighter can use inspiration on initiative checks without spending a use of inspiration. He can use his Intelligence modifier in place of his Dexterity modifier on initiative checks. At 6th level, if the lamplighter has Quick Draw, he can draw a weapon as part of his initiative check. At 9th level, the lamplighter isn't flat-footed before he acts in the first round of combat. At 12th level, the lamplighter adds his Intelligence bonus as well as his Dexterity bonus to initiative checks. At 15th level, the lamplighter can act last during the surprise round even if he is otherwise unaware combat has started. At 18th level, the lamplighter is not limited to just a move or standard action during the surprise round—he can act normally. This ability replaces keen recollection and trap sense.
+
+## Bonded Investigator
+
+Bonded investigators use intelligent familiars to assist them in their investigations. They are common in bustling cities, where a rat, cat, raven, or another small animal can go largely unnoticed.
+
+**Familiar (Ex)**: At 2nd level, a bonded investigator gains a familiar to aid him. This familiar functions as the wizard arcane bond class feature, using the bonded investigator's class level to determine the familiar's special abilities. The bonded investigator's extracts are considered spells for the purposes of familiar abilities like share spells and deliver touch spells. This ability replaces poison lore, poison resistance, and poison immunity.
+
+**Inspired Familiar (Ex)**: At 4th level, a bonded investigator's familiar becomes a cunning assistant to the investigator. The familiar can access the investigator's inspiration pool to augment its own actions; the use of inspiration is deducted from the investigator's number of daily uses as normal. The familiar can use the inspiration ability (and gains the increased benefits of investigator talents that affect the bonus dice used in this ability) but cannot expend uses of inspiration for other purposes. This ability replaces the studied strike damage gained at 4th level.
+
+**Studied Strike (Ex)**: At 6th level, a bonded investigator gains studied strike +1d6. At 10th level and every 4 investigator levels thereafter, this damage increases by +1d6. This ability alters studied strike.
+
+**Improved Familiar (Ex)**: At 7th level, a bonded investigator gains the Improved Familiar feat as a bonus feat, treating his investigator level as his arcane caster level for the purposes of determining what familiars are available to him. This replaces the investigator talent gained at 7th level.
+
+**Investigator Talents**: The following investigator talents complement the bonded investigator archetype: effortless aid, perceptive tracking, tenacious inspiration, and unconventional inspiration.
+
+## Elixir Guardian
+
+Elixir guardians are investigators charged with hunting down those who would attempt to steal or learn for themselves the secret to creating a legendary elixir of immortality.
+
+**Guardian's Gaze (Ex)**: At 2nd level, an elixir guardian adds 1/2 his investigator level as a bonus on Sense Motive checks. This ability replaces poison lore.
+
+**Desert Survivor (Ex)**: At 2nd level, an elixir guardian is trained by druids to survive the hazards of the desert. He gains Endurance as a bonus feat and does not treat sand as difficult terrain. At 5th level, he gains resist fire 10. At 8th level, he can see twice as far in sandstorms, clouds, and fog, and whenever he gains an advantage in a desert tile during a pursuit, he gains an additional advantage. This ability replaces poison resistance.
+
+**Liar's Familiarity (Ex)**: At 7th level, an elixir guardian learns the decoy and forgery techniques of his foes to better defeat them. His inspiration applies automatically without using an action or a use of inspiration on saving throws to disbelieve illusions, Disguise skill checks, Perception checks to see through disguises, and Linguistics checks to create or detect forgeries. This replaces the investigator talent gained at 7th level.
+
+**Elixir Drop (Ex)**: At 11th level, an elixir guardian is entrusted with a secret solution designed by alchemists to emulate certain aspects of the legendary elixir, granting him a +1 alchemical bonus on all saving throws. This ability replaces immunity to poison.
+
+**Teleportation Warden (Su)**: At 13th level, an elixir guardian is trained by mages to sense the impending arrival or departure of creatures using teleportation. This ability constantly functions like *trace teleport*. In addition, the elixir guardian can use *conjuration foil* once per day as an immediate action. This replaces the investigator talent gained at 13th level.
+
+**Investigator Talents**: The following investigator talents complement the elixir guardian archetype: alchemist discovery, combat inspiration, greater combat inspiration, inspired alertness, stealing strike, and toppling strike.

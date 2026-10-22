@@ -92,6 +92,40 @@ Inquisitions are intended for inquisitors, not for other classes that give acces
 
 **Closed Book (Sp)**: At 8th level, it becomes difficult for your foes to unveil your secrets. You are constantly under the effect of *nondetection*, as if you cast the spell on yourself.
 
+### Clandestine Inquisition
+
+**Granted Powers**: Secrecy is required of the faithful in lands where your deity’s worshipers are hunted. Sleight of Hand is a class skill for you.
+
+**Disappear (Sp)**: You can become invisible as per the spell as a standard action. The invisibility lasts for 1 round per inquisitor level or until you attack. You can use this ability a number of times per day equal to 3 + your Wisdom modifier.
+
+**Blessed Secrecy (Su)**: At 4th level, when you attempt a Bluff, Disguise, Sleight of Hand, or Stealth skill check, you can roll twice and take the more favorable result. You can use this ability a number of times per day equal to your Wisdom bonus.
+
+**Delayed Spells (Su)**: At 8th level, you can delay the effects of a spell you cast by up to 1 round per inquisitor level. You choose the duration of the delay when you cast the spell and can cause the spell to take effect immediately during the period of delay by concentrating as a standard action. You can use this ability once per day plus an additional time per day for every 4 inquisitor levels you have beyond 8th.
+
+### Execution Inquisition
+
+**Granted Powers**: Your deity guides you when you deliver death to your chosen targets.
+
+**Chosen Victim (Sp)**: Once per day, you can designate a creature as your chosen victim. You gain a +2 bonus on Diplomacy checks to gather information about your target, on Bluff and Intimidate checks against your target, and on Survival checks to track your target. The benefits of your destruction, piercing, purity, and smiting judgments against your chosen victim increase as if your inquisitor level were 3 higher.
+
+**Executioner’s Strike (Su)**: At 8th level, your precision in combat has become incredible, and you can strike a lethal blow if your target cannot defend itself properly. Once per day, you can make an attack as a standard action against your chosen victim. If the attack hits and the victim is denied its Dexterity bonus to AC against you, any critical threats are automatically confirmed.
+
+### Politics Inquisition
+
+**Granted Powers**: Your divine guidance twists agreements, laws, and policies to suit the interests of the faith.
+
+**Labyrinthine Words (Ex)**: You add your Wisdom modifier in addition to your Charisma modifier on Bluff checks to lie and Diplomacy checks to influence other creatures.
+
+**Heart’s Desire (Sp)**: At 8th level, you receive divine guidance on the goals of your political allies and rivals. Once per day, you can use *commune* as a spell-like ability using your inquisitor level as your caster level, but only to ask questions about others’ goals.
+
+### Sedition Inquisition
+
+**Granted Powers**: Your deity calls you to cast down a hostile government. Stealth is a class skill for you.
+
+**Undermine Authority (Sp)**: A number of times per day equal to your Wisdom bonus, you can worsen the attitude of a character toward any governmental officer or leader acting against your religion. This likewise reduces that officer’s or leader’s influence with that character. The persuasion requires enough conversation to attempt a Diplomacy check (usually 1 minute) and you attempt a Diplomacy check as normal to influence the target’s attitude. However, if you fail the check, the target is subject to a mind-affecting compulsion that alters its attitude for a number of days equal to your inquisitor level. The target can resist the compulsion with a successful Will saving throw (DC = 10 + 1/2 your inquisitor level + your Wisdom modifier). If the target is under a mind-affecting effect from that officer or leader, the effect is automatically suppressed for 1 minute.
+
+**Rebel Leader (Ex)**: At 8th level, you gain Leadership as a bonus feat.
+
 **Table: Inquisitions by Deity Type**
 
 | Deity type | Alignment | Inquisitions |
@@ -730,3 +764,27 @@ Vampire hunters use their skills and magic to track and slay the hungry dead, wa
 **Bane (Su)**: A vampire hunter can only imbue her weapons with the undead-bane ability, but it persists even when she isn't holding the weapon.
 
 **Sun Strike (Su)**: At 5th level, a vampire hunter can infuse a single weapon she wields with the purifying light of the sun as a swift action for a number of rounds per day equal to her inquisitor level. These rounds do not need to be consecutive. While a weapon is infused with the sun, it deals +1d6 points of damage to any creature that is susceptible or vulnerable to sunlight, including many types of undead (particularly spectres, vampires, and wraiths). This additional damage also applies to oozes and fungus-based monsters. A weapon infused with sun strike sheds illumination as if it were a sunrod.
+
+## Crown Accuser
+
+Crown accusers serve a ruler, cutting through the nation's baroque politics and quietly facing its many threats.
+
+**Class Skills**: A crown accuser adds Knowledge (local) to his list of class skills, instead of Knowledge (nature). This alters the inquisitor's class skills.
+
+**Meticulous Inspection (Ex)**: A crown accuser gains a morale bonus equal to 1/2 his inquisitor level on all Perception checks (minimum +1). This ability replaces stern gaze.
+
+**Detect Monsters and Secrets (Sp)**: At 2nd level, a crown accuser can use *detect aberration*, *detect secret doors*, and *detect undead* at will. He can only use one of these at any given time. This ability replaces detect alignment.
+
+**Favored Enemy (Ex)**: At 3rd level, a crown accuser gains favored enemy, as the ranger class feature. He must choose his favored enemy from the following list: aberration, dragon, humanoid (orc), humanoid (shapechanger), and undead. He gains another favored enemy at 9th and 15th levels. This replaces solo tactics and the teamwork feats gained at 3rd, 9th, and 15th levels.
+
+**Informed Hunch (Su)**: At 6th level, once per day, a crown accuser can contemplate an ongoing investigation he is involved in and potentially know whether his hunches are on the right track. This functions as *augury*, except if it succeeds, the crown accuser gets one of the following results in place of weal, woe, or weal and woe. The crown accuser treats his inquisitor level as his caster level.
+
+- **Correct**: the hunch is the exact truth, such as if a particular individual is responsible for a crime, or if a particular organization is behind a series of events.
+- **Incorrect**: the hunch is entirely off base, such as if a suspected individual had nothing to do with a crime, or a suspected organization had no interest or hand in a series of events.
+- **On the Right Track**: the hunch is partially correct, such as if a suspected individual participated in a criminal conspiracy or had foreknowledge of the crime in question, or if a suspected organization profited from and knew about but did not entirely orchestrate a series of events.
+
+This replaces the teamwork feat granted at 6th level.
+
+**Greater Detect Magic (Sp)**: At 12th level, a crown accuser can use *greater detect magic* at will. This ability replaces the teamwork feat granted at 12th level.
+
+**Final Sway (Ex)**: At 18th level, a crown accuser's word and intuition are greatly trusted and valued. Once per day, when using the influence system and interacting with an individual or organization with whom he has at least minor sway or is respected (rank 2), the crown accuser can treat his influence as two steps higher for the purposes of making a single request of that individual or organization. Alternatively, he can treat an individual's attitude toward him as up to two steps higher for the purpose of such a request. This replaces the teamwork feat granted at 18th level.

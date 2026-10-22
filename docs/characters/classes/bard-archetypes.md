@@ -1217,3 +1217,27 @@ Freedom fighters are often patrons of the arts. Many are particularly active in 
 *Devilbane Refrain (Su)*: At 8th level, the argent voice learns how to mimic aspects of the magical “Song of Silver” with his performance, enhancing his allies’ ability to combat devils and similar fiends. To be affected, a creature must be able to hear the argent voice’s singing and be within 30 feet of him. Natural and manufactured weapons wielded by affected allies are treated as though they were silver for the purpose of bypassing damage reduction. At 14th level, allies’ natural and manufactured weapons also gain the benefit of the evil outsider *bane* weapon special ability. This replaces dirge of doom and frightening tune.
 
 **Dedicated Performance (Ex)**: An argent voice can call upon the training of the grand opera to influence and scrutinize his foes. At 2nd level, an argent voice must choose Perform (sing) as his versatile performance skill. At 6th level, the argent voice gains a bonus on Perform (sing) checks made as part of a versatile performance equal to the number of additional Perform skills in which he has the maximum number of ranks possible at his level. This bonus increases by 1 per maximized Perform skill at 10th level and every four levels thereafter, to a maximum of a +4 bonus per fully ranked Perform skill other than Perform (sing) at 18th level. This alters versatile performance.
+
+## Provocateur
+
+Provocateurs are bards who use their art to make controversial political statements, undermine enemies' reputations, and upset the status quo on a large scale. They can be found most often in areas of political unrest and among the backstabbing upper classes of great cities.
+
+**Provocateur (Ex)**: A provocateur adds 1/2 his bard level on skill checks to reduce a target's influence and on skill checks to reduce a target's attitude toward another creature or organization. This replaces bardic knowledge.
+
+**Calumny (Ex)**: At 2nd level, a provocateur can use his Perform (comedy, oratory, or sing) modifier in place of his Bluff and Diplomacy modifier on checks to spread a rumor and in place of his Intimidate modifier on checks to demoralize foes. This ability replaces the versatile performance gained at 2nd level.
+
+**Damning Performance (Su)**: At 4th level, a provocateur can cause all observers fascinated by her fascinate performance to become less friendly to a target creature or group of her choice for 10 minutes per bard level. Affected observers' attitudes toward the target, the target's influence with affected observers, and affected observers' trust level as contacts for the target are all reduced by one step. If she reveals information during the performance that would reduce those creatures' attitudes anyway, those attitudes worsen by an additional step for the duration. If the provocateur engages in a verbal duel against the target with an audience affected by damning performance, she automatically gains two edges. At 18th level, the duration increases to 1 day per bard level. This ability replaces suggestion and mass suggestion.
+
+## Studious Librarian
+
+Studious librarians are bards who have studied long in great libraries of the world.
+
+**Scribe Scroll**: A studious librarian gains Scribe Scroll as a bonus feat. This ability replaces distraction.
+
+**Comparative Arcane Studies (Su)**: At 6th level, the studious librarian is exposed to a wide variety of magical writing, and can use his own magic to duplicate spells from other classes' spell lists. Once per day, a studious librarian can cast any spell from the bard, sorcerer/wizard, or witch spell lists from a scroll or spellbook in hand as if it were one of his bard spells known, expending a bard spell slot of the same spell level to cast the desired spell. Casting a spell from a scroll this way does not cause the spell to vanish from the scroll. A spell cast in this way cannot be modified by metamagic. The studious librarian gains one additional daily use of this ability at 10th level and again every 4 bard levels thereafter, to a maximum of four times per day at 18th level. This ability replaces suggestion and jack-of-all-trades.
+
+**Critical Research Focus (Ex)**: At 8th level, the studious librarian threatens a critical hit on a Research check with a roll of 18, 19, or 20. He gains a +4 bonus on Research checks to confirm a critical hit. This ability replaces dirge of doom.
+
+**Perfect Recollection (Ex)**: At 19th level, the studious librarian can always take 10 on Knowledge checks. This ability replaces mass suggestion.
+
+**One with the Library (Ex)**: At 20th level, the studious librarian can replace one of his spells known with any bard spell from a scroll once per day by studying the scroll for 1 hour. Doing so erases the spell from the scroll. This ability replaces deadly performance.

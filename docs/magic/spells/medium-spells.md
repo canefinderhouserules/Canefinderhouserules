@@ -17,6 +17,7 @@ Mediums gain access to the following spells. Spells without a link come from oth
 - **[Light](light.md)**: Object shines like a torch.
 - **[Mage Hand](mage-hand.md)**: 5-pound telekinesis.
 - **[Message](message.md)**: Whisper conversation at distance.
+- **[Oath of Anonymity](oath-of-anonymity.md)**: Magically conceal your identity behind an alternate persona.
 - **[Open/Close](open-close.md)**: Opens or closes small or light things.
 - **[Prestidigitation](prestidigitation.md)**: Performs minor tricks.
 - **[Read Magic](read-magic.md)**: Read scrolls and spellbooks.
@@ -30,6 +31,7 @@ Mediums gain access to the following spells. Spells without a link come from oth
 - **[Ant Haul](ant-haul.md)**: Triples carrying capacity of a creature.
 - **[Anticipate Peril](anticipate-peril.md)**: Target gains a bonus on one initiative check.
 - Bleed Glory
+- **[Assumed Likeness](assumed-likeness.md)**: You appear as someone each target feels strongly about.
 - **[Auditory Hallucination](auditory-hallucination.md)**: Create a phantasm with auditory effects.
 - **[Bloodbath](bloodbath.md)**: Cause yourself and enemies to bleed.
 - **[Borrow Skill](borrow-skill.md)**: Make a skill check using another’s ranks.
@@ -59,6 +61,7 @@ Mediums gain access to the following spells. Spells without a link come from oth
 - **[Heightened Awareness](heightened-awareness.md)**: Your recall and ability to process information improve.
 - **[Identify](identify.md)**: Gives +10 bonus to identify magic items.
 - **[Ill Omen](ill-omen.md)**: Target rolls twice for checks and attacks and uses worst roll.
+- **[Implant Urge](implant-urge.md)**: A target unconsciously desires a goal you choose.
 - **[Invigorate](invigorate.md)**: Temporarily relieves fatigue or exhaustion.
 - Liberating Command
 - **[Know Peerage](know-peerage.md)**: Target uses your Knowledge (nobility) ranks.
@@ -86,6 +89,7 @@ Mediums gain access to the following spells. Spells without a link come from oth
 - **[Silent Image](silent-image.md)**: Creates minor illusion of your design.
 - **[Summon Minor Monster](summon-minor-monster.md)**: Summon 1d3 Tiny animals.
 - **[Summon Monster I](summon-monster-i.md)**: (Evil creatures only.) Summons extraplanar creature to fight for you.
+- **[True Skill](true-skill.md)**: Gain an insight bonus on your next check with a chosen skill.
 - **[True Strike](true-strike.md)**: +20 on your next attack roll.
 - Unerring Weapon
 - **[Unprepared Combatant](unprepared-combatant.md)**: Target takes –4 on initiative and Reflex saves.
@@ -263,6 +267,7 @@ Mediums gain access to the following spells. Spells without a link come from oth
 - **[Replay Tracks](replay-tracks.md)**: Reconstruct past events from a set of tracks.
 - **[Retrocognition](retrocognition.md)**: Gain psychic impressions from past events in a location.
 - **[Scrying](scrying.md)**: Spies on subject from a distance.
+- **[Seeds of Influence](seeds-of-influence.md)**: Leave a trace in a creature’s mind that weakens it against your divinations and enchantments.
 - **[Sending](sending.md)**: Delivers short message anywhere, instantly.
 - **[Share Senses](share-senses.md)**: See/hear/smell what your familiar is.
 - **[Sleepwalking Suggestion](sleepwalking-suggestion.md)**: Cause a creature to perform a suggested action while asleep.
@@ -280,6 +285,7 @@ Mediums gain access to the following spells. Spells without a link come from oth
 - **[Battlemind Link](battlemind-link.md)**: You and an ally gain attack and AC bonuses.
 - **[Break Enchantment](break-enchantment.md)**: Frees subjects from enchantments, transmutations, and curses.
 - **[Command, Greater](command-greater.md)**: As *command,* but affects one subject/level.
+- **[Commune with Texts](commune-with-texts.md)**: Absorb knowledge from a collection of texts.
 - **[Conjuration Foil](conjuration-foil.md)**: Interfere with nearby teleportation effects.
 - **[Contact Entity IV](contact-entity-iv.md)**: Ask extraordinarily powerful eldritch entities to find and converse with you, or they may reply telepathically.
 - **[Create Mindscape](create-mindscape.md)**: Form an immersive mindscape.
@@ -315,6 +321,7 @@ Mediums gain access to the following spells. Spells without a link come from oth
 - **[Remote Viewing](remote-viewing.md)**: Gain psychic impressions from a distant location.
 - **[Revenant Armor](revenant-armor.md)**: Armor animates around its fallen wearer.
 - **[Scripted Hallucination](scripted-hallucination.md)**: As *complex hallucination*, but without concentration.
+- **[Secret Workshop](secret-workshop.md)**: As nondetection, but protects many creatures and objects.
 - **[Seeming](seeming.md)**: Changes appearance of 1 person per 2 levels.
 - **[Spirit-Bound Blade](spirit-bound-blade.md)**: Give a weapon ghost touch and another ability tied to an emotion.
 - **[Spiritual Ally](spiritual-ally.md)**: Creates a divine ally to aid you.

@@ -35,6 +35,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Hidden Spring](hidden-spring.md)**: Discover a temporary spring of fresh, flowing water.
 - **[Icicle Dagger](icicle-dagger.md)**: Masterwork ice dagger deals +1 cold damage.
 - **[Illusory Crowd](illusory-crowd.md)**: Illusory stationary crowd.
+- **[Implant Urge](implant-urge.md)**: A target unconsciously desires a goal you choose.
 - **[Instant Portrait](instant-portrait.md)**: Paint a quick monochrome portrait.
 - **[Interrogation](interrogation.md)**: Target answers questions or suffers pain.
 - **[Jury-Rig](jury-rig.md)**: Removes the broken condition from the targeted object.
@@ -115,6 +116,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Destabilize Powder](destabilize-powder.md)**: Ammunition in the targeted firearm is prone to misfire.
 - **[Detect Magic, Greater](detect-magic-greater.md)**: As *detect magic*, but learn more information.
 - **[Diminish Resistance](diminish-resistance.md)**: Weaken a creature’s resistance to one energy type.
+- **[Diminished Detection](diminished-detection.md)**: Detection spells have half their normal range against you.
 - **[Disrupt Link](disrupt-link.md)**: Sever the link between a creature and her companion or familiar.
 - **[Dress Corpse](dress-corpse.md)**: Doctor the evidence on a corpse.
 - **[Eldritch Conduit](eldritch-conduit.md)**: Use an enemy as the origin point of an area spell.
@@ -180,6 +182,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Unshakable Chill](unshakable-chill.md)**: Target is afflicted with severe cold.
 - **[Venomous Bite](venomous-bite.md)**: Target's bite delivers a stored poison.
 - **[Vexing Miscalculation](vexing-miscalculation.md)**: Target cannot score critical threats.
+- **[Violent Accident](violent-accident.md)**: Curse a creature to suffer a damaging accident within 24 hours.
 - **[Web Shelter](web-shelter.md)**: Create a comfortable shelter made of webbing.
 - **[Whip of Spiders](whip-of-spiders.md)**: Whiplike spider swarm deals swarm damage by touch.
 - **[Winter Grasp](winter-grasp.md)**: Create a slippery sheet of ice on the ground.
@@ -303,6 +306,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Hollow Heroism](hollow-heroism.md)**: Provide a *heroism* effect that you can reverse at any time.
 - **[Hunger for Flesh](hunger-for-flesh.md)**: Give a creature a bite attack and a hunger for its own kind’s flesh.
 - **[Insect Spies](insect-spies.md)**: Use magic beetles as spies.
+- **[Inveigle Person](inveigle-person.md)**: The target treats all creatures as friendly.
 - **[Mad Sultan’s Melody](mad-sultans-melody.md)**: Bizarre cacophony fascinates eldritch creatures.
 - **[Meticulous Match](meticulous-match.md)**: Determine if two things are identical.
 - **[Minotaur’s Blessing](minotaurs-blessing.md)**: Turn a creature’s head into a bull’s.
@@ -317,6 +321,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Riding Possession](riding-possession.md)**: As possession, but you observe instead of control the subject.
 - **[Rigor Mortis](rigor-mortis.md)**: Painfully swell a target’s joints.
 - **[Sadomasochism](sadomasochism.md)**: Pain empowers your attacks and demoralizes attackers.
+- **[Seeds of Influence](seeds-of-influence.md)**: Leave a trace in a creature’s mind that weakens it against your divinations and enchantments.
 - **[Shadow Step](shadow-step.md)**: Teleport from one shadow to another.
 - **[Share Shape](share-shape.md)**: Beast shape II, limited to your companion's or familiar's kind.
 - **[Symbol of Healing](symbol-of-healing.md)**: Triggered rune heals living creatures.
@@ -334,6 +339,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 
 ## 5th-Level Witch Spells
 
+- **[Apathy](apathy.md)**: A target loses interest in a chosen pursuit.
 - **[Befuddled Combatant](befuddled-combatant.md)**: Reduces a target’s ability DCs by 4 and its damage to minimum.
 - **[Blood Ties](blood-ties.md)**: When a target is harmed, so is the target’s relative.
 - **[Callback, Greater](callback-greater.md)**: Teleport a familiar or spirit animal from miles away to your side when it is injured.
@@ -370,6 +376,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Possession](possession.md)**: Project your soul into a creature’s body.
 - **[Red Hand of the Killer](red-hand-of-the-killer.md)**: Stain the hand of a creature’s killer red.
 - **[Sawtooth Terrain](sawtooth-terrain.md)**: Serrated blades erupt from a surface.
+- **[Seek Shelter](seek-shelter.md)**: Weak creatures flee to safety in an orderly fashion.
 - **[Sessile Spirit](sessile-spirit.md)**: Cause a spirit inhabiting a creature or an object to go dormant.
 - **[Siphon Magic](siphon-magic.md)**: Transfer a spell effect from a touched creature to you.
 - **[Sleepwalking Suggestion](sleepwalking-suggestion.md)**: Cause a creature to perform a suggested action while asleep.
@@ -447,6 +454,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Inflict Pain, Mass](inflict-pain-mass.md)**: As inflict pain, but affecting one creature per level.
 - **[Infuse Robot](infuse-robot.md)**: Turn a robot into a magical construct you command.
 - **[Insect Spies, Greater](insect-spies-greater.md)**: Use magic beetles as spies and also share their senses.
+- **[Inveigle Monster](inveigle-monster.md)**: As inveigle person, but affects any living creature for 1 day/level.
 - **[Lunar Veil](lunar-veil.md)**: Dispel light and revert lycanthropes.
 - **[Maddening Oubliette](maddening-oubliette.md)**: Send a creature to a maddening demiplane prison.
 - **[Nature’s Ravages, Greater](natures-ravages-greater.md)**: As nature’s ravages, aging a corpse by years.
@@ -455,8 +463,10 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Poison Breath](poison-breath.md)**: Cone of toxic mist, as poison.
 - **[Pox of Rumors](pox-of-rumors.md)**: Curse a creature to attract nasty rumors.
 - **[Primal Regression](primal-regression.md)**: Make a creature become bestial and unintelligent.
+- **[Recorporeal Incarnation](recorporeal-incarnation.md)**: Wear a corpse’s flesh to gain its appearance.
 - **[Reincarnate Spy](reincarnate-spy.md)**: As *reincarnate*, but creating a body similar to that of a chosen creature, and you secretly keep part of the body.
 - **[Scouring Winds](scouring-winds.md)**: Winds block vision and deal 3d6 damage per round.
+- **[Seeds of Influence, Greater](seeds-of-influence-greater.md)**: As seeds of influence, but can dispel protections against your spells.
 - **[Shadow Body](shadow-body.md)**: Turn your body into a living shadow.
 - **[Spell Scourge](spell-scourge.md)**: Strip harmless spells from a creature or confuse it.
 - **[Temporary Resurrection](temporary-resurrection.md)**: Bring a creature to life for 24 hours.
@@ -479,6 +489,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Possession, Greater](possession-greater.md)**: As possession, but your body vanishes.
 - **[Prediction of Failure](prediction-of-failure.md)**: Target is permanently shaken and sickened, and may gain a spellblight.
 - **[Remove Radioactivity, Greater](remove-radioactivity-greater.md)**: Cure all radiation damage; deplete radioactive objects.
+- **[Rotting Alliance](rotting-alliance.md)**: Curse several creatures to waste away when near one another.
 - **[Share Skin, Greater](share-skin-greater.md)**: Possess any creature as with magic jar.
 - **[Symbol of Debauchery](symbol-of-debauchery.md)**: Symbol that fills creatures with lust.
 - **[Symbol of Dispelling](symbol-of-dispelling.md)**: Symbol that dispels magic in an area.
