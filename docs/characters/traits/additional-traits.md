@@ -331,6 +331,36 @@ Social traits reflect your upbringing; your background in high society or lack t
 
 **Worldly**: You have acquired an unusual breadth of life experience—more than others of your age, race, or culture. Once per day when attempting a skill check for a skill you’re untrained in, you can roll twice and take the better result.
 
+## Equipment Traits
+
+Equipment traits are keyed to specific types of equipment. They represent an unusual knack for a particular kind of equipment (such as splash weapons) or for a specific item (such as a family heirloom sword).
+
+**Augmented Disguise**: You are especially good at disguising yourself when you have props available. You gain a +2 trait bonus on Disguise checks when wearing a wig, false beard, or similar large prop, or if you are wearing a special costume or eye-catching bauble that reinforces your disguise.
+
+**Dealmaker**: You have the air of a person with money, allowing you to buy and sell valuables that otherwise are too rich for the local community. Once per week, when looking for an item with a price greater than the local community’s base value, make a DC 10 Diplomacy check; add 10 to the DC for each community size category between the current community and the community size with a base value sufficient for that item. Success means (with GM approval) you’re able to sell or purchase that item as if the local community were of sufficient size. Each additional attempt (successful or otherwise) in that community increases the DC by an additional +10. For example, to find a +1 *cloak of resistance* (1,000 gp) you would normally need to be in a small town (base value 1,000 gp) or larger; in a hamlet, two community sizes away, the Diplomacy DC is 30, while in a village it is 20.
+
+**Extremely Fashionable**: Whenever you are wearing clothing and/or jewelry worth at least 150 gp (and not otherwise covered in gore, sewage, or other things that mar your overall look), you gain a +1 trait bonus on Bluff, Diplomacy, and Intimidate checks. One of these skills (your choice) is a class skill for you.
+
+**Heirloom Weapon**: You carry a weapon that has been passed down from generation to generation in your family. This heirloom weapon is of masterwork quality (but you pay only the standard cost at character creation). You gain a +1 trait bonus on attack rolls with this specific weapon and are considered proficient with that specific weapon (but not other weapons of that type) even if you do not have the required proficiencies.
+
+**Improvisational Equipment**: When using an item for anything other than its intended purpose—such as using a crowbar as a grappling hook or an old shirt to bandage a deadly wound—reduce the improvisation penalty by 2. This does not apply to improvised weapon penalties. Your GM may rule that some things are just not suitable for use in certain ways.
+
+**Iron Liver**: Due to a lucky constitution or frequent exposure, your body is resistant to poison, including alcohol and drugs. You gain a +2 trait bonus on Fortitude saves against poison and drugs, and a +4 trait bonus on Fortitude saves to avoid the effects of alcohol.
+
+**Power of Suggestion**: People trust your words over their own eyes. You may make a Bluff check to make observers believe that an object in your possession is actually a different object entirely. The DC for the check is 20 for items of a similar size, shape, and color (such as a glaive and a quarterstaff). Items of a different shape, size, or color raise the DC by 5 for each dissimilar aspect, or more if the dissimilarity is extreme. This deception lasts 1 minute; if the item is still in view, the observers may recognize their error unless you make another Bluff check.
+
+**Prehensile Whip**: In your hand a whip has a life of its own, wrapping around pillars and beams with ease. You can use a whip as if it were a rope with a grappling hook at the end. Attaching your whip is a standard action, but detaching it is a full-round action.
+
+**Quick Learner**: After your first attack with a weapon in which you are not proficient, the non-proficiency penalty decreases by 2 (to a –2 penalty). This effect lasts only while you have the weapon in hand; you must “relearn” the weapon each time you pick it up.
+
+**Rough and Ready**: When you use a tool of your trade (requiring at least 1 rank in the appropriate Craft or Profession skill) as a weapon, you do not take the improvised weapon penalty and instead receive a +1 trait bonus on your attack. This trait is commonly used with shovels, picks, blacksmith hammers, and other sturdy tools—lutes and brooms make terribly fragile weapons.
+
+**Stage Magic**: When you use an attention-getting alchemical item such as a flask of alchemist’s fire, smokestick, thunderstone, or another appropriate alchemical item (GM’s discretion) as part of a performance, you gain a +2 trait bonus on your Perform check for the duration of that performance. The item is expended without its normal effects and only serves to make your performance more impressive; you would not actually take fire damage or gain concealment from smoke.
+
+**Stealthy Escape**: When trying to escape manacles, rope, or other similar restraints (but not grapples or similar attacks), you may make a Sleight of Hand check instead of your Escape Artist modifier. If you free yourself, you gain a +2 trait bonus on Bluff checks to pretend that you are still bound.
+
+**Thrown-Together Fashion**: With a basic sewing kit or disguise kit, you can make a Disguise check to change one outfit into another outfit. The DC of this check is equal to 10 + the gp difference between costs of the outfits. The alteration takes 10 minutes per 1-gp difference in the cost of the outfits.
+
 ## Race Traits
 
 Race traits are tied to specific races. Your character must be of the specified race to select a race trait. However, the background generator draws from all lists, letting you ignore these restrictions. If using the background generator, you can take any trait you gain access to through it.

@@ -1,0 +1,7 @@
+# Splash Weapon Mastery
+
+*(Combat)*
+
+You are adept at increasing the range, area, and accuracy of splash weapons.
+
+**Benefit**: When throwing a splash weapon, you act as if you had the [Far Shot](far-shot.md) feat. When you hit with a splash weapon, select one additional square adjacent to the splash area; creatures in this area also take splash damage. When you miss with a splash weapon, you may adjust the miss direction on the grid by +1 or –1. This feat counts as Far Shot for the purpose of qualifying for other feats, but only in regard to splash weapons.

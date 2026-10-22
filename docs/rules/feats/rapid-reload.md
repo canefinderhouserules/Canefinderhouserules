@@ -11,3 +11,5 @@ Choose a type of crossbow (hand, light, heavy) or a single type of one-handed or
 **Normal**: A character without this feat needs a move action to reload a hand or light crossbow, a standard action to reload a one-handed firearm, or a full-round action to load a heavy crossbow or a two-handed firearm.
 
 **Special**: You can gain Rapid Reload multiple times. Each time you take the feat, it applies to a new type of crossbow or a new type of firearm.
+
+You can also select Rapid Reload (spear-thrower), which reduces the time to set a weapon into a spear-thrower from a move action to a free action.
