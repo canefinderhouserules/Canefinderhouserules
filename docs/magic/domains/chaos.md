@@ -129,3 +129,13 @@ The god of freedom stands opposed to any force that denies free will. Servants o
 **Drunken Autonomy (Su)**: As a swift action, whenever under the effects of mind-affecting magic, possession, or similar external control, you can channel the unrestricted nature of your god. Instead of acting under the compulsion, you instead act as though you had the confused condition for 1 round. Producing the “act normally” result allows you to act free of mental compulsion for that round. You can use this ability a number of times per day equal to 3 + your Wisdom modifier.
 
 This replaces the touch of chaos domain power of the Chaos domain.
+
+###  *<span class="smallcaps">Riot Subdomain</span>*
+
+***Associated Domain(s)**: Chaos*
+
+***Replacement Power**: The following granted power replaces the chaos blade power of the Chaos domain.*
+
+*Aura of Bedlam (Su)*: At 8th level, you can emit a 30-foot-radius aura of chaos and strife for 1 round per cleric level. Enemies in the aura take a –4 penalty on concentration checks and are treated as experiencing vigorous motion (concentration DC = 10 + spell level) when attempting to cast spells. This penalty increases by 1 for every 2 cleric levels you have beyond 8th. This is a mind-affecting effect. These rounds need not be consecutive.
+
+***Replacement Domain Spells**: 4th—confusion, 7th—song of discord, 9th—symbol of strife.*

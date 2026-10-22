@@ -68,6 +68,10 @@ The following racial traits might be selected instead of existing racial traits.
 
 **Shiftless**: Halflings have a reputation for larceny and guile—and sometimes it’s well deserved. Halflings with this racial trait gain a +2 racial bonus on Bluff and Sleight of Hand checks, and Sleight of Hand is always a class skill for them. This racial trait replaces sure-footed.
 
+### Urban Alternate Racial Traits
+
+**Underfoot Dodger**: City-dwelling halflings do not treat crowd squares as difficult terrain and they gain a +5 bonus on Acrobatics checks to move through the spaces of larger foes. This racial trait replaces fearless and weapon familiarity.
+
 ## Racial Subtypes
 
 You can combine various alternate racial traits to create halfling subraces or variant races, such as the following.

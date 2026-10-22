@@ -1546,6 +1546,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Creature Focus](creature-focus.md) | — | No levels in a class that grants the favored enemy class feature |
 | [Criminal Reputation](criminal-reputation.md) | — | Diplomacy 5 ranks, Intimidate 5 ranks |
 | [Critical Conduit](critical-conduit.md) | — | Deliver touch spells ability, familiar |
+| [Cunning Caster](cunning-caster.md) | — | Deceitful, ability to cast 1st-level spells |
 | [Cunning Intuition](cunning-intuition.md) | Combat | Alertness, Improved Initiative, Lightning Reflexes, Quick Draw, Ready for Anything, base attack bonus +13 or rogue level 13th, Sense Motive 13 ranks |
 | [Curative Mastery](curative-mastery.md) | Item Mastery | Use Magic Device 1 rank, base Fortitude bonus +2 |
 | [Curse Mastery](curse-mastery.md) | Item Mastery | Use Magic Device 3 ranks, base Fortitude save bonus +6 |
@@ -1579,6 +1580,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Dwarven Fury](dwarven-fury.md) | Combat | Dwarven Hatred Style, Dwarven Seething, base attack bonus +7, defensive training and hatred racial traits, Medium size |
 | [Dwarven Hatred Style](dwarven-hatred-style.md) | Combat, Style | Base attack bonus +1, defensive training and hatred racial traits, Medium size |
 | [Dwarven Seething](dwarven-seething.md) | Combat | Dwarven Hatred Style, base attack bonus +5, defensive training and hatred racial traits, Medium size |
+| [Edge Runner](edge-runner.md) | — | Dex 13 |
 | [Eldritch Aid](eldritch-aid.md) | — | Caster level 1st |
 | [Elven Battle Focus](elven-battle-focus.md) | Combat | Int 13, Elven Battle Style, Elven Battle Training, Weapon Finesse, base attack bonus +4, weapon familiarity racial trait |
 | [Elven Battle Style](elven-battle-style.md) | Combat, Style | Elven Battle Training, Weapon Finesse, base attack bonus +1, weapon familiarity racial trait |
@@ -1616,6 +1618,8 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Fiendskin](fiendskin.md) | Damnation | Patronage of an evil outsider |
 | [Fighting Frenzy](fighting-frenzy.md) | Combat, Teamwork | Cha 13, rage class feature |
 | [Figment’s Fluidity](figments-fluidity.md) | Familiar | Must have a familiar with the figment archetype |
+| [Filth Forager](filth-forager.md) | — | — |
+| [Filthy Weapons](filthy-weapons.md) | Combat | Knowledge (dungeoneering) 1 rank, Knowledge (nature) 1 rank |
 | [Finesse Shot](finesse-shot.md) | Weapon Mastery | Marksman’s Utility, base attack bonus +7, weapon training class feature with a ranged weapon |
 | [Fleeting Spell](fleeting-spell.md) | Metamagic | — |
 | [Flexible Foe](flexible-foe.md) | Combat | Base attack bonus +5, favored enemy (any humanoid or any outsider), favored enemy class feature |
@@ -1651,6 +1655,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Growth in Ash](growth-in-ash.md) | — | — |
 | [Guarded Charge](guarded-charge.md) | Shield Mastery | Shield Focus, base attack bonus +6 or fighter level 4th |
 | [Guardian’s Return](guardians-return.md) | Familiar | Must have a familiar with the protector archetype |
+| [Guild Emissary](guild-emissary.md) | — | Leadership or Underworld Connections |
 | [Hammer Guards the Anvil](hammer-guards-the-anvil.md) | Teamwork | — |
 | [Harvest Parts](harvest-parts.md) | — | Craft (any) 1 rank or Heal 1 rank |
 | [Heroic Legacy](heroic-legacy.md) | — | Base attack bonus +5, good alignment |
@@ -1729,6 +1734,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Monstrous Masquerade](monstrous-masquerade.md) | — | Monstrous Disguise, Disguise 9 ranks, Knowledge (nature) 9 ranks |
 | [Motivating Display](motivating-display.md) | Combat | Cha 13, Dazzling Display, Weapon Focus |
 | [Mountain Eyes](mountain-eyes.md) | — | Blind-Fight, Perception 5 ranks |
+| [Mud in Your Eye](mud-in-your-eye.md) | Combat | Throw Anything |
 | [My Blade Is Yours](my-blade-is-yours.md) | Combat, Teamwork | Int 13, Combat Expertise, Sense Motive 3 ranks |
 | [Narrow Frame](narrow-frame.md) | — | Escape Artist 1 rank, animal or magical beast |
 | [Needle in a Haystack](needle-in-a-haystack.md) | — | Skill Focus (Perception), Perception 3 ranks |
@@ -1771,6 +1777,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Quiet Death](quiet-death.md) | Combat | Dex 19, Stealth 10 ranks, rogue level 10th |
 | [Ranged Disable](ranged-disable.md) | — | Far Shot, Point-Blank Shot, Weapon Focus, Disable Device 9 ranks |
 | [Ranged Feint](ranged-feint.md) | Combat | Base attack bonus +2, Bluff 3 ranks |
+| [Rat Catcher](rat-catcher.md) | Combat | Knowledge (dungeoneering) 1 rank, base attack bonus +1 |
 | [Read Spell Traces](read-spell-traces.md) | — | — |
 | [Ready for Anything](ready-for-anything.md) | Combat | Alertness, Improved Initiative, Lightning Reflexes, Quick Draw, base attack bonus +6 or uncanny dodge class feature |
 | [Reflexive Caster](reflexive-caster.md) | — | Combat Reflexes, caster level 5th |
@@ -1843,6 +1850,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Stumbling Bash](stumbling-bash.md) | Shield Mastery | Improved Shield Bash, Shield Focus, base attack bonus +6 or fighter level 4th |
 | [Stunning Irruption](stunning-irruption.md) | Combat | Str 15, Power Attack, base attack bonus +5 |
 | [Stylized Spell](stylized-spell.md) | Metamagic | Bluff 5 ranks, Spellcraft 5 ranks |
+| [Subtle Devices](subtle-devices.md) | — | Stealthy |
 | [Subtle Enchantments](subtle-enchantments.md) | — | Deceitful, Spell Focus (enchantment) |
 | [Summon Evil Monster](summon-evil-monster.md) | — | Evil alignment |
 | [Summon Good Monster](summon-good-monster.md) | — | Good alignment |
@@ -1872,6 +1880,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Tenacious Spell](tenacious-spell.md) | Metamagic | — |
 | [Terrifying Assault](terrifying-assault.md) | Combat | Frightening Ambush, Intimidate 5 ranks |
 | [Threatening Negotiator](threatening-negotiator.md) | — | Nerve-Racking Negotiator, Persuasive, Skill Focus (Intimidate) |
+| [Throat Slicer](throat-slicer.md) | Combat | Base attack bonus +1 |
 | [Timely Coordination](timely-coordination.md) | Teamwork | — |
 | [Tool Optimizer](tool-optimizer.md) | — | Craft (any) 1 rank, Disable Device 1 rank, or Profession (any) 1 rank |
 | [Toppling Bash](toppling-bash.md) | Shield Mastery | Improved Shield Bash, Shield Focus, Stumbling Bash, base attack bonus +11 or fighter level 8th |
@@ -1883,6 +1892,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [True Deception](true-deception.md) | — | Cha 17, Disguise 17 ranks, master disguise master ninja trick or master of disguise advanced rogue talent, ninja level 10th or rogue level 10th |
 | [Tundra Stride](tundra-stride.md) | — | Acrobatics 5 ranks |
 | [Unconquerable Resolve](unconquerable-resolve.md) | Combat | Resolve class feature, samurai level 1st |
+| [Underworld Connections](underworld-connections.md) | — | — |
 | [Unfair Grip](unfair-grip.md) | Combat | Str 13, Dex 13, Improved Grapple, Improved Unarmed Strike, Power Attack, base attack bonus +1 |
 | [Unhindering Shield](unhindering-shield.md) | Shield Mastery | Shield Focus, base attack bonus +6 or fighter level 4th, proficiency with bucklers |
 | [Unimpeachable Honor](unimpeachable-honor.md) | — | Iron Will |

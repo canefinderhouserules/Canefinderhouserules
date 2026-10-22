@@ -245,9 +245,13 @@ Pool Strike, Clinging (Su): The magus can expend 1 additional point from his arc
 
 Pool Strike, Thunderous (Su): The magus can expend 1 additional point from his arcane pool when making a pool strike. His pool strike deals sonic damage and deafens a single target for 1 round (DC 10 + 1/2 magus level + Intelligence modifier). The magus must be at least 6th level and must have the pool strike magus arcana before selecting this magus arcana.
 
+**Distant Spellstrike (Su)**: The range of any spell the magus delivers through a ranged weapon attack increases to the maximum range of the weapon if that is greater than the spell's range. The magus must be at least 12th level and must have ranged spellstrike to select this arcana.
+
 **Prescient Attack (Su)**: The magus can expend 1 point from his arcane pool as an immediate action after hitting a target with a weapon attack, allowing him to anticipate his opponent’s defenses. The target is denied its Dexterity bonus against the magus’s attacks until the end of the magus’s next turn. The magus must be at least 6th level before selecting this arcana.
 
 **Prescient Defense (Su)**: The magus can expend 1 point from his arcane pool as an immediate action after hitting a target with a weapon attack, granting him a premonition of his enemy’s intentions. The magus gains a bonus to his AC and on Reflex saves equal to his Intelligence modifier (minimum 0) against attacks by that opponent until the beginning of his next turn. The magus must be at least 9th level before selecting this arcana.
+
+**Reach Spellstrike (Su)**: The magus can deliver spells with a range of touch with ranged spellstrike up to a maximum range of close (25 feet + 5 feet per 2 caster levels). The magus must be at least 9th level and must have ranged spellstrike to select this arcana.
 
 **Rod Mastery (Su)**: Whenever the magus uses a rod, he calculates the DC for any spell it contains using his Intelligence modifier (minimum 0) instead of the minimum modifier needed to cast a spell of that level.
 
@@ -460,3 +464,21 @@ An armored battlemage can enhance only one suit of armor in this way at one time
 **Heavy Armor (Ex)**: An armored battlemage gains this ability at 7th level instead of 13th. This ability alters heavy armor.
 
 **Expanded Arcane Pool (Su)**: At 14th level, the armored battlemage can grant his armor the glamered special ability at the cost of a +2 bonus, the slick or shadow special ability at the cost of a +3 bonus, and the greater slick or greater shadow special ability at the cost of a +5 bonus when using his arcane pool. This ability replaces greater spell combat.
+
+## Eldritch Archer
+
+The eldritch archer rains magical attacks down on her foes from a distance.
+
+**Class Skills**: An eldritch archer gains Perception as a class skill, but does not gain Use Magic Device as a class skill. This ability modifies the magus's class skills.
+
+**Arcane Pool (Su)**: An eldritch archer's choices of weapon special abilities to apply with arcane pool at 5th level include distance, nimble shot, and returning but not dancing, keen, or vorpal. This ability modifies the magus's arcane pool.
+
+**Ranged Weapon Bond (Ex)**: At 1st level, an eldritch archer gains a bonded object as per the wizard's arcane bonded object; it must be a ranged weapon, and it can't be used to cast a spell once per day. Holding her bonded item does not prevent the eldritch archer from providing somatic components for her spells.
+
+**Ranged Spell Combat (Ex)**: Instead of a light or one-handed melee weapon, an eldritch archer must use a ranged weapon for spell combat. She doesn't need a free hand for ranged spell combat. The eldritch archer cannot accept an attack penalty to gain a bonus on concentration checks to cast a spell defensively. This ability modifies spell combat.
+
+**Ranged Spellstrike (Su)**: At 2nd level, whenever an eldritch archer casts a spell that calls for a ranged attack, she can deliver the spell through a ranged weapon she wields as part of a ranged attack. Instead of the free ranged attack normally allowed to deliver the spell, an eldritch archer can make one free ranged attack with a ranged weapon (at her highest base attack bonus) as part of casting this spell. The attack does not increase the spell's range.
+
+If the spell can normally affect multiple targets, only a single missile, ray, or effect accompanies each attack; if the spell allows multiple attacks and the eldritch archer can make additional ranged attacks as part of a full-round action with spell combat, one additional ray, missile, or effect from the spell accompanies each subsequent ranged attack the eldritch archer makes in the same round until all attacks allowed by the spell are made. Unused missiles, rays, or effects remaining at the end of the eldritch archer's turn are wasted. This ability alters spellstrike.
+
+**Focusing Spellstrike (Su)**: At 16th level, an eldritch archer can use ranged spellstrike to deliver a cone- or line-shaped spell as a ray, affecting only the creature or object struck. This ability replaces counterstrike.

@@ -118,6 +118,10 @@ The following racial traits might be selected instead of existing racial traits.
 
 **Silver Tongued**: Human are often adept at subtle manipulation and putting even sworn foes at ease. Humans with this trait gain a +2 bonus on Diplomacy and Bluff checks. In addition, when they use Diplomacy to shift a creature’s attitude, they can shift up to three steps up rather than just two. This racial trait replaces skilled.
 
+### Urban Alternate Racial Traits
+
+**One of the Multitude**: City-dwelling humans are skilled at blending in with the busy multitudes of the city. They gain a +1 racial bonus on Bluff, Diplomacy, Disguise, Sleight of Hand, and Stealth checks when within 10 feet of at least two other humanoids. They gain a +1 racial bonus on attacks of opportunity made while flanking. This racial trait replaces skilled.
+
 ## Racial Subtypes
 
 You can combine various alternate racial traits to create human subraces or variant races, such as the following.

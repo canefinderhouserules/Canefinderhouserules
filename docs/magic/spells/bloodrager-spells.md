@@ -12,6 +12,7 @@ Bloodragers gain access to the following spells. Spells in plain text come from 
 - **[Burning Hands](burning-hands.md)**: 1d4/level fire damage (max 5d4).
 - **[Cause Fear](cause-fear.md)**: A creature of 5 HD or less flees for 1d4 rounds.
 - **[Chill Touch](chill-touch.md)**: One touch/level deals 1d6 damage and possibly 1 Str damage.
+- **[Coin Shot](coin-shot.md)**: Turns coins into bullets.
 - **[Color Spray](color-spray.md)**: Knocks unconscious, blinds, and/or stuns weak creatures.
 - **[Corrosive Touch](corrosive-touch.md)**: Touch attack deals 1d4 acid/level.
 - **[Desperate Weapon](desperate-weapon.md)**: Create an improvised weapon.

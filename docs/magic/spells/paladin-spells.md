@@ -27,6 +27,7 @@
 - **[Longshot](longshot.md)**: Grants a +10-foot bonus to the range increment for any ranged weapon fired.
 - **[Magic Weapon](magic-weapon.md)**: Weapon gains +1 bonus.
 - **Protection from Chaos/Evil**: +2 to AC and saves, plus additional protection against selected alignment.
+- **[Peace Bond](peace-bond.md)**: Your low-level area spells ignore protected cubes.
 - **[Read Magic](read-magic.md)**: Read scrolls and spellbooks.
 - **[Resistance](resistance.md)**: Subject gains +1 on saving throws.
 - **[Restoration, Lesser](restoration-lesser.md)**: Dispels magical ability penalty or repairs 1d4 ability damage.

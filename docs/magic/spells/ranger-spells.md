@@ -42,6 +42,7 @@
 - **[Returning Weapon](returning-weapon.md)**: Grants a weapon the returning special weapon quality.
 - **[Savage Maw](savage-maw.md)**: Your teeth extend and sharpen, transforming your mouth into a maw of razor-sharp fangs.
 - **[Sculpted Cape](sculpted-cape.md)**: Your cape stiffens and holds its shape.
+- **[Speak Local Language](speak-local-language.md)**: Speak and understand one known regional human language.
 - **[Speak with Animals](speak-with-animals.md)**: You can communicate with animals.
 - **[Spindrift Spritz](spindrift-spritz.md)**: Ally rerolls a save against fatigue, shaken, sickened, or staggered.
 - **[Strong Wings](strong-wings.md)**: School transmutation; Level druid 1, ranger 1, sorcerer/wizard 1, witch 1 Casting Time 1 standard action.
@@ -75,6 +76,7 @@
 - **[Grasping Vine](grasping-vine.md)**: A vine from your body manipulates objects within 20 ft.
 - **[Greensight](greensight.md)**: Grant a target the ability to see through plant matter as if it were transparent.
 - **[Groundswell](groundswell.md)**: School transmutation [earth]; Level cleric 2, druid 2, magus 2, ranger 2 Casting Time 1 standard action.
+- **[Harmless Form](harmless-form.md)**: Turns a companion into an unobtrusive animal.
 - **[Healing Token](healing-token.md)**: Holy symbols let allies request healing at a distance.
 - **[Hold Animal](hold-animal.md)**: Paralyzes one animal for 1 round/level.
 - **[Hunter's Friend](hunters-friend.md)**: Share ranger class abilities with your companion.

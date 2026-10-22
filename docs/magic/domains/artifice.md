@@ -78,3 +78,13 @@ The following granted power replaces the dancing weapons power of the Artifice d
 *Supernatural Trap (Su)*: At 8th level, select a supernatural ranger trap (*Pathfinder RPG Ultimate Magic* 64). You can use this trap a number of times per day equal to your Wisdom bonus. The DCs for Perception checks, Disable Device checks, and saving throws against the trap are equal to 10 + 1/2 your character level + your Wisdom bonus. The trap lasts for 1 hour or until triggered.
 
 **Replacement Domain Spells**: 2nd—*snare*, 3rd—*improve trap*, 7th—*teleport trap*.
+
+###  *<span class="smallcaps">Industry Subdomain</span>*
+
+***Associated Domain(s)**: Artifice*
+
+***Replacement Power**: The following granted power replaces the dancing weapon power of the Artifice domain.*
+
+*Aura of Efficiency (Su)*: At 8th level, you can emit a 30-foot-radius aura that grants your allies a +4 bonus on all saving throws against effects that inflict the fatigued or exhausted condition. Any equipment wielded by your allies within this area gets a bonus to hardness equal to 1/2 your cleric level, and your allies’ attacks against targets within this area ignore an equal amount of hardness. You can use this aura for a number of rounds per day equal to your cleric level. These rounds do not need to be consecutive.
+
+***Replacement Domain Spells**: 1st—crafter’s fortune, 7th—mage’s magnificent mansion, 9th—wooden phalanx.*

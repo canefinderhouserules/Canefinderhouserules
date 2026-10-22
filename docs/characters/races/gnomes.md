@@ -68,6 +68,10 @@ The following racial traits might be selected instead of existing racial traits.
 
 **Knack with Poison**: Some gnomes have an instinctive understanding of poisons and their uses. Gnomes gain a +2 racial bonus on Fortitude saves against poison and a +2 bonus on Craft (alchemy) checks to make poison. The bonus on Fortitude saving throws against poisons increases to +4 if the gnome accidentally poisons himself when applying or readying the substance. This racial trait replaces illusion resistance and obsessive.
 
+### Urban Alternate Racial Traits
+
+**Student of the City**: Gnomes of the city learn all they can from newcomers and tend to make contacts in all quarters. They gain a +2 racial bonus on Knowledge (local) checks, and can use that skill to gather information in place of Diplomacy. This racial trait replaces obsessive.
+
 ## Racial Subtypes
 
 You can combine various alternate racial traits to create gnome subraces or variant races, such as the following.

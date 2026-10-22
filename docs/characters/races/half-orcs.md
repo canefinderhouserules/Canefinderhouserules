@@ -68,6 +68,10 @@ The following racial traits might be selected instead of existing racial traits.
 
 **Skilled**: Second- and third-generation half-orcs often favor their human heritage more than their orc heritage. Half-orcs with this trait gain 1 additional skill rank per level. This racial trait replaces darkvision.
 
+### Urban Alternate Racial Traits
+
+**Tenacious**: City-dwelling half-orcs must often be tenacious to get by. Once per day if a half-orc fails a Fortitude save, Will save, or Constitution check, he can reroll the save or check. The half-orc must take the second result, even if it is worse. This racial trait replaces orc ferocity.
+
 ## Racial Subtypes
 
 You can combine various alternate racial traits to create half-orc subraces or variant races, such as the following.

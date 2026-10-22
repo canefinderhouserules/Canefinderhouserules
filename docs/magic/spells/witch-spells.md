@@ -10,6 +10,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Blend](blend.md)**: You draw upon your elven link to the wilderness to change the coloration of yourself and your equipment to.
 - **[Blend with Surroundings](blend-with-surroundings.md)**: Target looks like an object and hides easily while still.
 - **[Bungle](bungle.md)**: Target takes a –20 penalty on its next attack roll or check.
+- **[Cloak of Secrets](cloak-of-secrets.md)**: Bubble disguises speech and spell components.
 - **[Compel Hostility](compel-hostility.md)**: Compels opponents to attack you instead of your allies.
 - **[Damp Powder](damp-powder.md)**: Ruins ammunition loaded in the targeted firearm.
 - **[Decompose Corpse](decompose-corpse.md)**: Turn a corpse into a clean skeleton.
@@ -17,6 +18,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Delusional Pride](delusional-pride.md)**: Target is penalized on attacks and checks but gains bonus against charms and compulsions.
 - **[Diagnose Disease](diagnose-disease.md)**: Detect and identify diseases.
 - **[Ear-Piercing Scream](ear-piercing-scream.md)**: Deal sonic damage and daze target.
+- **[Ears of the City](ears-of-the-city.md)**: Gather information from echoes of local talk.
 - **[Echo](echo.md)**: Cause a sound to repeat itself.
 - **[Fabricate Disguise](fabricate-disguise.md)**: Create a disguise in an instant.
 - **[Forced Quiet](forced-quiet.md)**: Target cannot make loud noises.
@@ -26,6 +28,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Hex Ward](hex-ward.md)**: Target gains +4 on saves against witch hexes.
 - **[Hidden Spring](hidden-spring.md)**: Discover a temporary spring of fresh, flowing water.
 - **[Icicle Dagger](icicle-dagger.md)**: Masterwork ice dagger deals +1 cold damage.
+- **[Illusory Crowd](illusory-crowd.md)**: Illusory stationary crowd.
 - **[Interrogation](interrogation.md)**: Target answers questions or suffers pain.
 - **[Jury-Rig](jury-rig.md)**: Removes the broken condition from the targeted object.
 - **[Karmic Blessing](karmic-blessing.md)**: School divination [good]; Level cleric 1, witch 1 Casting Time 1 standard action Components V, S Range touch.
@@ -37,6 +40,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Nereid’s Grace](nereid-s-grace.md)**: You radiate the unearthly grace of a nereid.
 - **[Obscure Poison](obscure-poison.md)**: Make it harder to detect a poison or a venomous creature.
 - **[Open and Shut](open-and-shut.md)**: Obfuscate whether a door is open or closed.
+- **[Peace Bond](peace-bond.md)**: Your low-level area spells ignore protected cubes.
 - **[Peacebond](peacebond.md)**: Locks a weapon in place on the target’s body.
 - **[Ray of Sickening](ray-of-sickening.md)**: Ray makes subject sickened.
 - **[Recharge Innate Magic](recharge-innate-magic.md)**: You channel magic energy into your own aura, recharging your innate magic abilities.
@@ -48,6 +52,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Shadow Weapon](shadow-weapon.md)**: Create a quasi-real masterwork weapon.
 - **[Snowball](snowball.md)**: Throw a conjured ball of snow at a target.
 - **[Sow Thought](sow-thought.md)**: School enchantment (compulsion) [mind-affecting]; Level bard 1, sorcerer/wizard 1, witch 1 Casting Time 1.
+- **[Speak Local Language](speak-local-language.md)**: Speak and understand one known regional human language.
 - **[Strong Wings](strong-wings.md)**: School transmutation; Level druid 1, ranger 1, sorcerer/wizard 1, witch 1 Casting Time 1 standard action.
 - **[Summon Minor Monster](summon-minor-monster.md)**: Summon 1d3 Tiny animals.
 - **[Theft Ward](theft-ward.md)**: You ward a single object in your possession against theft.
@@ -107,6 +112,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Ghost Whip](ghost-whip.md)**: Create a ghost touch whip that passes through objects.
 - **[Ghostly Disguise](ghostly-disguise.md)**: You look like a ghost of yourself.
 - **[Grasping Vine](grasping-vine.md)**: A vine from your body manipulates objects within 20 ft.
+- **[Harmless Form](harmless-form.md)**: Turns a companion into an unobtrusive animal.
 - **[Haunting Mists](haunting-mists.md)**: Creatures are shaken and take Wis damage.
 - **[Hidden Presence](hidden-presence.md)**: Prevent creatures from noticing your presence.
 - **[Lipstitch](lipstitch.md)**: Sew the target’s lips shut.
@@ -127,6 +133,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Recoil Fire](recoil-fire.md)**: Ammunition in the targeted firearm generates excessive recoil.
 - **[Reinforce Armaments, Communal](reinforce-armaments-communal.md)**: As reinforce armaments, but you may divide the duration among objects touched.
 - **[Returning Weapon](returning-weapon.md)**: Grants a weapon the returning special weapon quality.
+- **[Secret Coffer](secret-coffer.md)**: Small secret chest.
 - **[Sense Fear](sense-fear.md)**: Perceive nearby creatures that are experiencing fear.
 - **[Sentry Skull](sentry-skull.md)**: You restore the senses to the severed head of a humanoid or monstrous humanoid killed within the past 24.
 - **[Shadow Anchor](shadow-anchor.md)**: School illusion (shadow) [shadow]; Level bard 2, sorcerer/wizard 2, witch 2 Casting Time 1 standard action.

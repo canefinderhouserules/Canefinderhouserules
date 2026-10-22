@@ -72,6 +72,10 @@ The following racial traits might be selected instead of existing racial traits.
 
 **Urbanite**: Elves who live in cities for more than a century can grow to know the ebb and flow of social situations just as their forest-dwelling cousins know the rules of the wild. Elves with this racial trait gain a +2 racial bonus on Diplomacy checks made to gather information and Sense Motive checks made to get a hunch about a social situation. This racial trait replaces keen senses.
 
+### Urban Alternate Racial Traits
+
+**Illustrious Urbanite**: City elves have a remarkable ability to combine magic harmoniously with their surroundings. They gain Spell Focus with conjuration, illusion, or transmutation spells as a bonus feat. When casting spells of this school, the elves can choose to have the spell leave undamaged any building or structure that would normally be affected. This racial trait replaces keen senses.
+
 ## Racial Subtypes
 
 You can combine various alternate racial traits to create elven subraces or variant races, such as the following.

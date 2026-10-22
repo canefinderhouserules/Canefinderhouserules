@@ -203,6 +203,8 @@ These traits rely upon conviction of spirit, perception, and religion, but are n
 
 **Tireless Avenger**: You restlessly pursue your enemies. When you’re in pursuit of one of your favored enemies, the DC for the Constitution check to avoid taking lethal damage during a forced march is 10 + 1 per extra hour, instead of 10 + 2 per extra hour.
 
+**Urban Acolyte**: Growing up in a city has broadened your philosophy, and helped you interpret your patron’s divine will in a novel way. You gain Knowledge (local) as a class skill. Additionally, you can select one of the following subdomains using the normal rules for subdomains so long as your deity grants access to its associated domain: Competition, Duels, Education, Espionage, Fortifications, Industry, Legislation, Plague, or Riot.
+
 **Wanderer’s Shroud**: Your wanderings often go unnoticed. Efforts to use the Diplomacy skill to gather information about you take a –1 penalty, and you gain a +1 trait bonus on all saving throws against scrying and mind-reading effects that allow saving throws.
 
 **Zealous Striker**: Your zeal is a danger to those of “lesser” faiths. While you have the destruction judgment active, you gain a +1 trait bonus on damage rolls when attacking a foe who can cast divine spells and worships a different deity than you.
@@ -325,6 +327,8 @@ Social traits reflect your upbringing; your background in high society or lack t
 
 **Affable**: You have a genial personality and make it a point to befriend and help people wherever you go. People find you trustworthy, and they are willing to share information with you. You gain a +2 trait bonus on Diplomacy checks to gather information, and can do so in half the normal time. In addition, Diplomacy and Knowledge (local) are always class skills for you.
 
+**Alert Ear**: You have a keen ear for the movements of thieves and monsters. You can always take 10 on Perception checks, even when stress and distractions would normally prevent you from doing so.
+
 **Ambitious**: You exude confidence in the presence of those more powerful than you—sometimes unreasonably so. You gain a +4 trait bonus on Diplomacy checks made to influence creatures with at least 5 Hit Dice more than you possess.
 
 **Artisan**: You spent time working under artisans, or your parents were artisans who were particularly skilled at their trade. You gain a +2 trait bonus on a single Craft skill (your choice).
@@ -340,6 +344,8 @@ Social traits reflect your upbringing; your background in high society or lack t
 **Criminal**: You spent your early life robbing and stealing to get by. Select one of the following skills: Disable Device, Intimidate, or Sleight of Hand. You gain a +1 trait bonus on that skill, and it is always a class skill for you.
 
 **Criminal Roots**: Your family has long operated outside the law. You gain a +2 trait bonus on Diplomacy checks to influence criminals and on Intimidate checks to influence law-abiding citizens, but take a –2 penalty on Diplomacy checks to influence law-abiding citizens. Diplomacy or Intimidate (your choice) is a class skill for you.
+
+**Cutting Condescension**: You have learned to quickly get compliance from those in your way. You gain a +2 trait bonus on Intimidate checks to force a creature to act friendly towards you, and can attempt such checks in half the normal time.
 
 **Deep Cover**: You have lived a double life since your youth, perhaps to avoid persecution for your true identity or in service to an enemy of the people or group associated with your cover identity. You can always take 10 on Bluff and Disguise checks to assume and maintain your cover identity. Bluff or Disguise (your choice) is a class skill for you.
 
@@ -375,6 +381,8 @@ Social traits reflect your upbringing; your background in high society or lack t
 
 **Merchant**: You lived your life as a merchant, buying and selling goods. You gain a +1 trait bonus on any Appraise and Sense Motive checks you attempt while bargaining for the price of goods. Appraise is always a class skill for you.
 
+**Mock Gladiator**: You have learned how to work a crowd in mock-gladiator fights. Choose one weapon. You take no penalty on attack rolls when dealing nonlethal damage with that weapon, and once per day if you score a critical hit with the weapon, you can immediately attempt an Intimidate check to demoralize your target.
+
 **Official Ties**: You maintain a friendship with one or more figures of authority. You have minor sway with one of these figures if your game uses individual influence. You gain a +2 trait bonus on Diplomacy checks to influence people in positions of authority aware of your contact and who have an attitude of no worse than indifferent toward the government the contact represents. You also take a –2 penalty on Diplomacy checks to influence criminals and agents of opposing governments, if those characters are aware of your association with authorities. If you lose your contact, you lose the benefits of this trait for 1 month, after which you can make a new contact.
 
 **Ordinary**: The only thing extraordinary about your appearance is its ordinariness. You carry yourself in an understated way, and many people who see your face soon forget it. You gain a +4 trait bonus on Stealth checks whenever you attempt to hide in a crowd.
@@ -383,7 +391,11 @@ Social traits reflect your upbringing; your background in high society or lack t
 
 **Passionate Inertia**: Your passions drive your thinking so irresistibly that even magic struggles to change your mind. You gain a +2 trait bonus on Will saves to resist having your mind changed about something, but you take a –1 penalty on Will saves to resist temptation and compulsions you might reasonably be already inclined toward.
 
+**Practiced Disruptor**: You are experienced at facing off against spellcasters. You can attempt Knowledge (arcana) checks untrained; if you have ranks in that skill, you instead gain a +1 trait bonus on those checks. The concentration DC to cast a spell defensively in your threatened area increases by 1.
+
 **Savage**: You were born and raised in untamed lands far from civilization. You learned to survive in the elements among brutal humanoids and beasts. You gain a +1 trait bonus on Knowledge (nature) checks and a +1 trait bonus on Survival checks to get along in the wild. Knowledge (nature) is always a class skill for you.
+
+**Seafaring Reputation**: Your fame helps you convince seafarers to cooperate. You gain a +1 trait bonus on Diplomacy and Intimidate checks against sailors and residents of port cities.
 
 **Seeker**: You are always on the lookout for reward and danger. You gain a +1 trait bonus on Perception checks, and Perception is always a class skill for you.
 
@@ -412,6 +424,8 @@ Social traits reflect your upbringing; your background in high society or lack t
 **Unpredictable**: Your actions often seem random and chaotic to others, but there is a method to your madness. You gain a +1 trait bonus on Bluff checks, and Bluffis always a class skill for you.
 
 **Veiled Disciple**: Trained in espionage, you’re skilled at passing messages and staying on task. You gain a +1 trait bonus on Bluff checks made to pass secret messages and a +1 trait bonus on saving throws against charm and compulsion effects.
+
+**Vigilant Spycatcher**: Paranoid parents or a military trainer taught you to keep vigilant for spies. If you roll less than 10 on Perception checks to see through disguises, determine your result as if you had rolled 10.
 
 **Weathered Emissary**: Your travels in the wildlands gave you insight into how to survive their dangers and communicate with their inhabitants. You gain a +1 trait bonus on all Linguistics and Survival checks, and Linguistics is always a class skill for you.
 
@@ -558,3 +572,19 @@ Regional traits are tied to particular regions, often specific nations, territor
 **Surface Stranger (Underground)**: You were born and raised in a subterranean home with little or no bright light. Your miss chance for concealment or total concealment due to either mundane or magical darkness decreases by 10%. You are dazzled for 1 round when you are suddenly exposed to bright light.
 
 **Tundra Child (Tundra or Cold Regions)**: You were born and raised in the cold wastes of the far north or far south, and are accustomed to low temperatures. You gain a +4 trait bonus on saving throws made to resist the effects of being in cold conditions and a +1 trait bonus on saving throws against cold effects.
+
+**Charmed Innocent (Any City)**: Your apparent good nature or playful charm makes nonevil creatures want to like you. Once per day, before you roll any Charisma check or Charisma-based skill check against a nonevil creature, you can roll twice and take the better result.
+
+**Cloistered Upbringing (Any City)**: Growing up among acolytes or monks, you were exposed to their supernatural power. You gain a +1 trait bonus on saving throws against the supernatural effects of channeled energy or abilities powered by ki, and regain 1 additional hit point when healed by supernatural effects.
+
+**Cultivated (Any City)**: You grew up speaking multiple languages. You learn one additional language. Additionally, when attempting a Diplomacy check to gather information using this language, you can do so in 1d6 × 10 minutes, rather than the normal 1d4 hours.
+
+**Cunning Liar (Any City)**: You were forced into hiding or willingly went on the run at a young age, and learned to read others’ interests to inform your lies. You can use your Intelligence or Wisdom modifier in place of your Charisma modifier on Bluff checks.
+
+**Diligence (Any City)**: You grew up helping with a family business or were mentored by an expert in some craft or profession, who taught you diligence. Select one specific Craft or Profession skill. You can take 20 with that skill in half the amount of time normally required to take 20.
+
+**Good Folk (Any City)**: People’s faith in you tends to run deeper than their trust of others. You gain a +2 bonus on Charisma checks and Charisma-based skill checks with creatures that have a friendly or helpful attitude towards you.
+
+**Lost Origins (Any City)**: You are disconnected from your heritage and do what you can to learn more about where your family is or where your people came from. Knowledge (local) is always a class skill for you, and you can always take 10 on Knowledge (local) checks, even when stress or distractions would normally prevent you from doing so.
+
+**Street Wary (Any City)**: You learned to take care of yourself on the streets and know the warning signs of hostile intent. Sense Motive is always a class skill for you, and you gain a +2 trait bonus on Sense Motive checks to get a hunch.

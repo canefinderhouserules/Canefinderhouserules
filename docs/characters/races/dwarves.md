@@ -78,6 +78,10 @@ The following racial traits might be selected instead of existing racial traits.
 
 **Wyrmscourged**: Dwarves with this racial trait gain a +1 bonus on attack rolls and a +2 dodge bonus to AC and on saving throws against the exceptional, supernatural, and spell-like abilities of dragons. They also gain a +2 racial bonus on Knowledge (arcana) checks to identify dragons and can make such checks untrained. This racial trait replaces defensive training, hatred, and stonecunning.
 
+### Urban Alternate Racial Traits
+
+**Industrious Urbanite**: Dwarves who have adapted to the expectations of their host cities make double the normal progress on Craft checks to create nonmagical items and gain a +4 bonus on Profession checks to earn money. This racial trait replaces hatred.
+
 ## Racial Subtypes
 
 You can combine various alternate racial traits to create dwarven subraces or variant races, such as the following.

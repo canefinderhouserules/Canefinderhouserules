@@ -272,6 +272,38 @@ A shaman who selects the nature spirit takes on an appearance that reflects the 
 
 **Manifestation**: Upon reaching 20th level, the shaman becomes a spirit of nature. Once per day, she can surround herself with an organic cocoon of silk as a full-round action. While enclosed in the cocoon, she's considered helpless. Eight hours later, she emerges, having changed her type to plant, animal, or humanoid, and having gained superficial physical characteristics of the chosen type as appropriate (see Pathfinder RPG Bestiary). She must choose a type that is different from her current type. This effect change doesn't alter her Hit Dice, hit points, saving throws, skill ranks, class skills, or proficiencies. The effect is permanent, until the shaman chooses to transform again. Each time the transformation is made, the shaman is cleansed of all poisons or diseases, restored to full hit points, and healed of all ability damage.
 
+## Slums
+
+A shaman who selects the slums spirit gains the city's alleys and avenues as steadfast allies. The rats in the gutter, the torches along the walls, the coins that flow through the market are all a part of her and serve her whim.
+
+**Spirit Magic Spells**: Charm person (1st), summon swarm (2nd), hold person (3rd), confusion (4th), wall of stone (5th), mislead (6th), mass hold person (7th), maze (8th), imprisonment (9th).
+
+**Hexes**: A shaman who chooses the slums spirit can select from the following hexes.
+
+**Accident (Su)**: The shaman causes a target within 30 feet to stumble and fall. The shaman attempts a caster level check with a DC equal to the target's CMD against trip attempts. On a successful check, the target falls prone and takes 1d6 points of damage. If the target is adjacent to a pit or similar drop-off, he must also succeed at a Reflex save (with a DC equal to the shaman's caster level check) or fall into the pit. Observers must succeed at a Perception or Sense Motive check with a DC equal to the shaman's caster level check to identify her as the source of the accident.
+
+**Bad Penny (Su)**: As a standard action, the shaman can curse a coin. The next bearer of the cursed coin takes a –2 penalty on all saving throws and skill checks as long as he has the coin on his person. Once the coin leaves his person, the curse ends and the coin becomes a mundane piece of tender again. At 8th level, the penalty becomes –4. If the shaman curses a new coin, the previous curse ends. This is a curse effect.
+
+**City Spirit (Su)**: As a swift action, the shaman channels the city's spirit through herself, gaining a +4 bonus on all Dexterity- and Wisdom-based skill checks. She can use this ability for a number of rounds per day equal to 3 + her Charisma modifier. These rounds need not be consecutive.
+
+**Ward of the City (Su)**: The spirit of the city shrouds one creature the shaman touches from the hazards of the slums. The warded creature gains a +5 bonus on saves against disease and poison, and a +25% bonus on percentage chances to negate critical hits and sneak attacks. (This stacks with effects such as fortification, or abilities that grant a creature with no chance to negate critical hits a flat 25% chance.) Each time the ward is used (whether the roll is successful or not), the bonuses are reduced by 1 and 5%, respectively. The ward ends when the bonuses are reduced to 0, when the shaman wards a new creature, or after 24 hours, whichever comes first. At 8th level and 16th level, the ward's starting bonuses increase by 2 and 10%, respectively. A creature affected by this hex cannot be affected by it again for 24 hours.
+
+**Spirit Animal**: The shaman's spirit animal looks like a leaner version of its species, with hungry eyes and a wiry frame. It gains a +4 bonus on initiative checks.
+
+**Spirit Ability**: A shaman who chooses the slums spirit as her spirit or wandering spirit gains the following ability.
+
+**Doors to Everywhere (Ex)**: As a standard action, the shaman can step through any door and instantly exit through another distant doorway. Regardless of what spell this functions as, it can transport only you, and both your departure and arrival spaces must be adjacent to a door or similar opening. Initially, this functions as per *jester's jaunt*. At 9th level, the shaman can use this ability as per *dimension door*. At 14th level, the shaman can use this ability as per *tree stride* (treating all doors as generic coniferous trees). You can use this ability three times per day, plus one additional time per day at 12th level and at 20th level.
+
+**Greater Spirit Ability**: A shaman who chooses the slums spirit as her spirit or wandering spirit gains the following ability upon having access to the greater version of that spirit.
+
+**City's Shroud (Su)**: When in an urban environment, the shaman blends into the streets around her, making her difficult to pin down. She gains the evasion and improved uncanny dodge class features.
+
+**True Spirit Ability**: A shaman who chooses the slums spirit as her spirit or wandering spirit gains the following ability upon having access to the true version of that spirit.
+
+**Paragon of the City (Su)**: As a standard action, the shaman assumes a spirit-infused paragon form that makes her a lethal stalker of the alleys and shadows. She gains the ability to make sneak attacks as a rogue of her shaman level for 1 minute or until dismissed. She can use this ability a number of times per day equal to 3 + her Charisma modifier.
+
+**Manifestation**: Upon reaching 20th level, the shaman becomes a spirit of the slums. She is immune to all diseases and poisons. When in an urban environment, she gains a +4 insight bonus to her AC and on Reflex saves.
+
 ## Stone
 
 The skin of a shaman who selects the stone spirit takes on a rough, stony appearance. When the shaman calls upon one of this spirit's abilities, tiny gemstones underneath her flesh pulse with a bright glow, like phosphorescent geodes glittering in a dark cave.

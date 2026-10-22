@@ -113,3 +113,5 @@ The following text is the property of Wizards of the Coast, Inc. and is Copyrigh
     Pathfinder Player Companion: Weapon Master’s Handbook © 2015, Paizo Inc.; Authors: Alexander Augunas and David N. Ross.
 
     Pathfinder Player Companion: Armor Master's Handbook © 2016, Paizo Inc.; Authors: Alexander Augunas, Robert Brookes, Anthony Li, Luis Loza, and David Schwartz.
+
+    Pathfinder Player Companion: Heroes of the Street © 2015, Paizo Inc.; Authors: John Compton, Mikko Kallio, Nicolas Logue, Michael McCarthy, Mike Myler, and David N. Ross.

@@ -50,6 +50,7 @@
 - **[Obscure Poison](obscure-poison.md)**: Make it harder to detect a poison or a venomous creature.
 - **[Obscuring Mist](obscuring-mist.md)**: Fog surrounds you.
 - **[Pass without Trace](pass-without-trace.md)**: One subject/level leaves no tracks.
+- **[Peace Bond](peace-bond.md)**: Your low-level area spells ignore protected cubes.
 - **[Produce Flame](produce-flame.md)**: 1d6 damage + 1/level, touch or thrown.
 - **[Recharge Innate Magic](recharge-innate-magic.md)**: You channel magic energy into your own aura, recharging your innate magic abilities.
 - **[Shillelagh](shillelagh.md)**: Cudgel or quarterstaff becomes +1 weapon (2d6 damage) for 1 min./level.
@@ -105,6 +106,8 @@
 - **[Groundswell](groundswell.md)**: School transmutation [earth]; Level cleric 2, druid 2, magus 2, ranger 2 Casting Time 1 standard action.
 - **[Gust of Wind](gust-of-wind.md)**: Blows away or knocks down smaller creatures.
 - **[Gusting Sphere](gusting-sphere.md)**: School evocation [air]; Level druid 2, magus 2, sorcerer/wizard 2 Casting Time 1 standard action Components V.
+- **[Harmless Form](harmless-form.md)**: Turns a companion into an unobtrusive animal.
+- **[Harvest Season](harvest-season.md)**: Plant yields food for one creature per level.
 - **[Healing Token](healing-token.md)**: Holy symbols let allies request healing at a distance.
 - **[Heat Metal](heat-metal.md)**: Makes metal so hot it damages those who touch it.
 - **[Hold Animal](hold-animal.md)**: Paralyzes one animal for 1 round/level.

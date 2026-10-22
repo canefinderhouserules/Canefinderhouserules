@@ -44,6 +44,7 @@ Shamans gain access to the following spells. Spells in plain text come from othe
 - **[Detect Undead](detect-undead.md)**: Reveals undead within 60 ft.
 - **[Discern Next of Kin](discern-next-of-kin.md)**: Read the target’s mind to learn about its family.
 - **[Doom](doom.md)**: One subject takes –2 on attack rolls, damage rolls, saves, and checks.
+- **[Ears of the City](ears-of-the-city.md)**: Gather information from echoes of local talk.
 - **[Endure Elements](endure-elements.md)**: Exist comfortably in hot or cold regions.
 - **[Entangle](entangle.md)**: Plants entangle everyone in 40-ft. radius.
 - **[Frostbite](frostbite.md)**: Target takes cold damage and is fatigued.
@@ -56,6 +57,7 @@ Shamans gain access to the following spells. Spells in plain text come from othe
 - **[Hidden Spring](hidden-spring.md)**: Discover a temporary spring of fresh, flowing water.
 - **[Hide from Animals](hide-from-animals.md)**: Animals can’t perceive one subject/level.
 - **[Hydraulic Push](hydraulic-push.md)**: Wave of water bull rushes an enemy.
+- **[Illusory Crowd](illusory-crowd.md)**: Illusory stationary crowd.
 - **[Inflict Light Wounds](inflict-light-wounds.md)**: Touch deals 1d8 damage +1/level (max +5).
 - **[Magic Stone](magic-stone.md)**: Three stones gain +1 on attack rolls, deal 1d6+1 damage.
 - **[Magic Weapon](magic-weapon.md)**: Weapon gains +1 bonus.
@@ -64,6 +66,7 @@ Shamans gain access to the following spells. Spells in plain text come from othe
 - **[Obscure Poison](obscure-poison.md)**: Make it harder to detect a poison or a venomous creature.
 - **[Obscuring Mist](obscuring-mist.md)**: Fog surrounds you.
 - **[Pass without Trace](pass-without-trace.md)**: One subject/level leaves no tracks.
+- **[Peace Bond](peace-bond.md)**: Your low-level area spells ignore protected cubes.
 - **[Produce Flame](produce-flame.md)**: 1d6 damage + 1/level, touch or thrown.
 - Protection from Chaos/evil/good/law
 - **[Remove Fear](remove-fear.md)**: Suppresses fear or gives +4 on saves against fear for one subject + one per four levels.
@@ -90,7 +93,9 @@ Shamans gain access to the following spells. Spells in plain text come from othe
 - **[Barkskin](barkskin.md)**: Grants +2 (or higher) enhancement to natural armor.
 - **[Bear’s Endurance](bears-endurance.md)**: Subject gains +4 to Con for 1 min./level.
 - **[Beastspeak](beastspeak.md)**: Speak normally while in animal form.
+- **[Beloved of the Forge](beloved-of-the-forge.md)**: Sense of direction home; luck on Craft.
 - **[Billowing Skirt](billowing-skirt.md)**: A skirt or gown slows your fall.
+- **[Blessing of Liberty](blessing-of-liberty.md)**: Luck against movement impairment.
 - **[Bull’s Strength](bulls-strength.md)**: Subject gains +4 to Str for 1 min./level.
 - **[Buoyancy](buoyancy.md)**: Targets easily float on water.
 - **[Burning Gaze](burning-gaze.md)**: Inflict 1d6 fire damage to creature.
@@ -120,6 +125,8 @@ Shamans gain access to the following spells. Spells in plain text come from othe
 - **[Grasping Vine](grasping-vine.md)**: A vine from your body manipulates objects within 20 ft.
 - **[Greensight](greensight.md)**: Grant a target the ability to see through plant matter as if it were transparent.
 - **[Guiding Star](guiding-star.md)**: Know approximate distance from where you cast this spell.
+- **[Harmless Form](harmless-form.md)**: Turns a companion into an unobtrusive animal.
+- **[Harvest Season](harvest-season.md)**: Plant yields food for one creature per level.
 - **[Healing Token](healing-token.md)**: Holy symbols let allies request healing at a distance.
 - **[Hold Person](hold-person.md)**: Paralyzes one humanoid for 1 round/level.
 - Imbue with Elemental Might

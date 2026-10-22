@@ -61,3 +61,13 @@
 *Guarded Hearth (Su)*: At 6th level, you can create a ward that protects a specified area. Creating this ward takes 10 minutes of uninterrupted work. This ward has a maximum radius of 5 feet per 2 cleric levels you possess. When the ward is completed, you designate any number of creatures inside its area. Should any other creature enter the warded area, all of the selected creatures are immediately alerted (and awoken if they were asleep). The designated creatures also receive a sacred bonus equal to your Wisdom modifier on all saving throws and attack rolls while inside the warded area. This ward immediately ends if you leave the area. The ward lasts for 1 hour per cleric level. You can use this ability once per day.
 
 **Replacement Domain Spells**: 1st—*alarm*, 3rd—*glyph of warding*, 7th—*guards and wards*.
+
+###  *<span class="smallcaps">Education Subdomain</span>*
+
+***Associated Domain(s)**: Community, Knowledge*
+
+***Replacement Power**: The following granted power replaces the unity power of the Community domain or the remote viewing power of the Knowledge domain.*
+
+*Teaching Moment (Su)*: At 8th level, when you or an ally within 30 feet rolls a natural 1 or a natural 20 on an attack roll, an ability check, a skill check, or a saving throw, as an immediate action you can grant all allies within 30 feet special insights that help them overcome similar challenges. Once during the next minute, each affected creature can choose to roll twice and take the better result before attempting an attack roll, ability check, skill check, or saving throw. You can use this ability once per day at 8th level, and one additional time per day for every 4 cleric levels beyond 8th.
+
+***Replacement Domain Spells**: 1st—know the enemy, 2nd—fox’s cunning, 6th—battlemind link, 8th—circle of clarity.*

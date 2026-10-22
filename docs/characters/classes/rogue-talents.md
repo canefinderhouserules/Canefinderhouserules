@@ -185,3 +185,13 @@ The following advanced talents draw upon the power of earth. Earthshadow rogues 
 **Resonating Rumbles\* (Su)**: When a rogue with this talent makes a successful sneak attack against a creature with tremorsense, the rogue can subtract 3 dice from her sneak attack damage to prevent the target from using tremorsense for a number of rounds equal to half her rogue level.
 
 **Stony Skin (Ex)**: A rogue with this talent gains DR 2/adamantine. A rogue can select this talent up to three times; each additional time the rogue selects this talent, the DR granted by this talent increases by 1.
+
+## Heroes of the Streets Rogue Talents
+
+These talents especially suit the dark lurker archetype, but can also be taken by any rogue that meets their prerequisites (including unchained rogues).
+
+**Eerie Disappearance (Ex)**: As a full-round action, the rogue can move up to her speed. If she successfully reaches a location that offers her cover or concealment, any creature observing her must attempt a Perception check opposed by the rogue's Stealth check. On a failed check, the observer loses track of the rogue and fails to note where she moved to. The rogue does not take a penalty on this Stealth check for moving up to her speed. At the end of her movement, the rogue can attempt an Intimidate check to demoralize all foes within 60 feet who were aware of her at any point during her movement and are unaware of her current location. She rolls the Intimidate check only once and compares her result to the DC for each opponent. The rogue must be at least 6th level to select this talent.
+
+**False Attacker (Ex)**: Whenever the rogue strikes a foe from hiding, she can attempt a Bluff check as an immediate action (opposed by the target's Sense Motive or Perception check, whichever has a higher bonus) before rolling damage to convince the foe that another creature was the attacker. This Bluff check applies the normal modifiers for convincing a creature of a falsehood, but can be accomplished with just physical trickery (a shared language is not required). If the Bluff is successful, and the rogue maintains concealment or cover, the rogue's stealth does not end.
+
+**Pierce the Darkness (Ex)**: The rogue can extend her senses of hearing and smell in darkness or when blinded. She gains blindsense out to a range of 5 feet, but only against creatures concealed by darkness or her own blindness. She still suffers the normal miss chance for attacking creatures with concealment.

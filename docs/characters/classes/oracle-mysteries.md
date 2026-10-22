@@ -469,3 +469,31 @@ You can use this ability once per day. You must be 11th level to select this rev
 **Touch of the Moon (Su)**: The exact effects of this revelation depend on whether you cast inflict or cure spells. If you cast inflict spells, these spells carry with them the taint of madness. Subjects who take damage from your inflict spells are also subject to *confusion*, as the spell, except the duration of this effect is a number of rounds equal to the level of the inflict spell. The save DC against this effect is 10 + 1/2 your oracle level + your Charisma modifier. Alternatively, if you cast cure spells, these spells are potentially more effective but entirely in the target's mind. Whenever you cast a cure spell, you can cast it as though it were enhanced with the Empower Spell metamagic feat by expending two spell slots, except these hit points are temporary. This does not increase the level of the spell. Hit points healed this way expire after a number of minutes equal to half your oracle level. You must be at least 7th level to select this revelation.
 
 **Final Revelation**: Upon reaching 20th level, you become an avatar of the primal world, part humanoid, part beast. Once per day, you can transform into a lycanthrope of your choice for a number of hours equal to your Charisma modifier, gaining all the powers of a natural lycanthrope of that type, including the ability to change shape between human, animal and hybrid form. In addition, you become immune to mind-affecting and language-dependent effects, as well as effects that specifically target only humanoids.
+
+## Streets Mystery
+
+**Class Skills**: An oracle with the streets mystery adds Bluff, Knowledge (local), Perception, and Stealth to her list of class skills.
+
+**Bonus Spells**: *Disguise self* (2nd), *detect thoughts* (4th), *glyph of warding* (6th), *illusory wall* (8th), *false vision* (10th), *getaway* (12th), *screen* (14th), *mage's magnificent mansion* (16th), *clone* (18th).
+
+**Revelations**: An oracle with the streets mystery can choose from any of the following revelations.
+
+**The City Provides (Ex)**: Once per day as a full-round action when in an urban environment, you can scrounge up any nonmagical item of your choosing with a value of up to 10 gp per oracle level. You cannot obtain coins or trade goods, and the item is too tattered to resell (though fully functional). If you scrounge a new item, any item previously obtained in this way becomes useless.
+
+**Eyes of the Streets (Su)**: Once per day as a full-round action, you can summon a spirit rat, pigeon, or similar tiny creature to serve as your eyes on, above, and beneath the streets—this spirit serves as an *arcane eye*. At 10th level, you can summon multiple such spirits; this ability functions as *prying eyes*. At 15th level, this ability functions as *greater prying eyes*.
+
+**Face in the Crowd (Ex)**: You gain a +4 bonus on Stealth checks, and can attempt a Stealth check in a crowd even while being observed.
+
+**Keep to the Corners (Su)**: Once per day when you fail a Reflex saving throw, you can reroll the saving throw with a +4 insight bonus. You must take the second result, even if it is worse. At 7th level and 15th level, you can use this ability one additional time per day.
+
+**Knife in the Dark (Ex)**: As a standard action, you can make a sneak attack as if you were a rogue of your oracle level. You can use this ability once per day, plus one additional time per day at 5th level and for every 5 levels thereafter.
+
+**Nooks and Crannies (Ex)**: You can move through any sort of obstacle or difficult terrain in an urban environment (including crowds) at your normal speed and without taking damage or suffering any other impairment. Areas that are enchanted or magically manipulated to impede motion still affect you.
+
+**Secrets of the City (Su)**: Once per day when you cast a divination spell affecting creatures or areas in urban environments, you can double the spell's range. At 7th level and 15th level, you can use this ability one additional time per day.
+
+**Shroud of the City (Sp)**: You can melt into the streets and alleys. You can cast *veil* once per day, but can affect only yourself and one willing ally per oracle level within 30 feet. You can make the targets appear only as typical members of a settlement with which you are familiar, and can't match the appearance of specific creatures. At 7th level and 15th level, you can use this ability one additional time per day.
+
+**The Streets Are Your Friend (Ex)**: As long as you are in an urban environment, you can call upon the city to help an ally within 30 feet succeed at a task. The ally gets a +2 competence bonus on skill checks with a particular skill as long as you concentrate. This bonus increases to +3 at 9th level, and to +4 at 15th level.
+
+**Final Revelation**: Upon reaching 20th level, you become an avatar of the city. When you speak the name of a creature and a city out loud, you know whether that creature is in that city. You can also learn about any settlement you are in at will; this functions as *commune with nature*, operating only in towns and settlements rather than natural terrain.

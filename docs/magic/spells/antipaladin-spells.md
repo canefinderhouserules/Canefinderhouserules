@@ -8,6 +8,8 @@ New antipaladin spells from *Ultimate Magic*. Spells from other books will be ad
 - **[Blood Blaze](blood-blaze.md)**: School transmutation [fire]; Level alchemist 2, antipaladin 1, cleric 2, magus 2, sorcerer/wizard 2, witch 2.
 - **[Bloodbath](bloodbath.md)**: Cause yourself and enemies to bleed.
 - **[Boneshaker](boneshaker.md)**: Momentarily control a living or undead creature’s skeleton.
+- **[Cloak of Secrets](cloak-of-secrets.md)**: Bubble disguises speech and spell components.
+- **[Coin Shot](coin-shot.md)**: Turns coins into bullets.
 - **[Conditional Favor](conditional-favor.md)**: Provide another spell whose effects reverse if the target breaks a restriction.
 - **[Crime of Opportunity](crime-of-opportunity.md)**: Compel a target to take a criminal action.
 - **[Dark Whispers](dark-whispers.md)**: Whisper through the shadows.
@@ -25,6 +27,7 @@ New antipaladin spells from *Ultimate Magic*. Spells from other books will be ad
 - **[Linebreaker](linebreaker.md)**: You gain a +20 foot bonus to your base speed when charging and a +2 bonus on combat maneuver checks made to.
 - **[Litany of Sloth](litany-of-sloth.md)**: Single target cannot make attacks of opportunity for 1 round.
 - **[Litany of Weakness](litany-of-weakness.md)**: Single target is fatigued for 1 round.
+- **[Locksight](locksight.md)**: Sense a lock’s state and quality.
 - **[Longshot](longshot.md)**: Grants a +10-foot bonus to the range increment for any ranged weapon fired.
 - **[Murderous Command](murderous-command.md)**: Target is compelled to kill its ally.
 - **[Obscure Poison](obscure-poison.md)**: Make it harder to detect a poison or a venomous creature.

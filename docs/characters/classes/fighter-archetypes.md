@@ -692,3 +692,19 @@ Armored defenders occupy and protect contested territory. These heavily armored 
 In addition to this, the armored defender is able to choose one of the following combat maneuvers: bull rush, dirty trick, drag, grapple, overrun, reposition, or trip. When he is wearing medium or heavy armor, the armored defender adds half his armor training bonus on combat maneuver checks for the selected maneuver. He can choose an additional combat maneuver at 7th, 11th, and 15th levels.
 
 This ability replaces armor training 1 through 4, but counts as armor training for the purposes of qualifying for feats and prestige classes. It does not count as advanced armor training.
+
+## Siegebreaker
+
+The siegebreaker is trained to break through lines of enemy soldiers.
+
+**Breaker Rush (Ex)**: At 1st level, a siegebreaker can attempt bull rush or overrun combat maneuvers without provoking attacks of opportunity. When he performs either combat maneuver, he deals an amount of bludgeoning damage equal to his Strength bonus (minimum 1). If he has Improved Bull Rush or Improved Overrun, the damage dealt by the appropriate maneuver increases by 2 and he adds any enhancement bonus from his armor or shield (though such enhancement bonuses do not stack, if both armor and shield are magic). This ability replaces the feat gained at 1st level.
+
+**Armored Vigor (Ex)**: At 2nd level as a swift action, a siegebreaker can gain 2 temporary hit points that last for 1 minute. He can use this ability a number of times per day equal to 3 + his Constitution modifier (minimum 1 per day), but only while wearing armor. At 6th level and every 4 levels thereafter, the number of temporary hit points the siegebreaker gains increases by 2, to a maximum of 10 at 18th level. This ability replaces bravery.
+
+**Breaker Momentum (Ex)**: At 2nd level, when a siegebreaker successfully bull rushes a foe, he can attempt an overrun combat maneuver check against that foe as a free action. This ability replaces the feat gained at 2nd level.
+
+**Persistent Menace (Ex)**: At 4th level, a siegebreaker must choose either Step Up or Disruptive as his bonus feat, but need not meet the prerequisites.
+
+**Disorienting Blow (Ex)**: At 8th level, as an immediate action, a siegebreaker can distract a foe he just hit with an attack or combat maneuver, imposing a –2 penalty on the foe's attack rolls, caster level checks, or skill checks for 1 round. The foe can negate this penalty with a successful Fortitude save (DC = 10 + 1/2 the siegebreaker's fighter level + his Strength modifier). At 14th level, the penalty increases to –4. This ability replaces the bonus feat gained at 8th level.
+
+**Masterful Distraction (Ex)**: At 20th level, a siegebreaker can nauseate a foe he targets with his disorienting blow instead of inflicting a penalty. This ability replaces weapon mastery.

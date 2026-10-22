@@ -745,3 +745,19 @@ The scroll scoundrel is a rogue archetype that relies on cunning and quick wits 
 **Elusive Gambit (Ex)**: At 6th level, a scroll scoundrel’s movement can leave a foe off-balance. If a scroll scoundrel provokes an attack of opportunity by moving past an opponent and that opponent then misses with the attack, that foe is considered to be flat-footed against the scroll scoundrel’s next melee attack, provided that melee attack comes within 1 round of the missed attack of opportunity. This ability replaces improved uncanny dodge.
 
 **Spot Weakness (Ex)**: At 10th level, a scroll scoundrel can discover a weakness in his enemy’s defenses as a swift action. His next successful hit in the same round ignores 5 points of the foe’s damage reduction or hardness. At 15th level, he ignores the first 10 points, and at 20th level, the first 15 points. If the attack deals any sneak attack damage, he ignores all of the foe’s damage reduction or hardness for that attack. He cannot use this ability on foes that are immune to critical hits. This ability replaces the scroll scoundrel’s 10th-level rogue talent.
+
+## Dark Lurker
+
+Dark lurkers use darkness as an ally. They are widely feared in many major metropolises, spoken of as "living shadows" by guards who patrol under great bridges and called "the hungry night" by citizens who mistake them for shadowy assassins.
+
+**Blades from the Shadows (Ex)**: At 2nd level, a dark lurker gains shadow strike as a bonus rogue talent. (A character using the unchained rogue class instead gains the ability to make attacks of opportunity against foes with cover, though not foes with improved cover or total cover). At 6th level, the dark lurker can deal precision damage to targets with total concealment (though any miss chance applies normally, and may prevent an attack from hitting in the first place). This ability replaces evasion; the dark lurker can take evasion as a rogue talent.
+
+**Blind-Fight (Ex)**: At 2nd level, a dark lurker gains Blind-Fight as a bonus feat. This ability replaces the rogue talent gained at 2nd level.
+
+**Improved Blind-Fight (Ex)**: At 8th level, a dark lurker gains Improved Blind-Fight as a bonus feat. This ability replaces the rogue talent gained at 8th level.
+
+**Greater Blind-Fight (Ex)**: At 14th level, a dark lurker gains Greater Blind-Fight as a bonus feat. This ability replaces the rogue talent gained at 14th level.
+
+**Instinctual Sense (Ex)**: At 20th level, a dark lurker gains blindsight with a range of 30 feet. This ability replaces the rogue talent gained at 20th level.
+
+**Rogue Talents**: The following rogue talents complement the dark lurker archetype: befuddling strike, fast getaway, fast stealth, opportunist, sniper's eye, and surprise attack, as well as the new talents eerie disappearance, false attacker, and pierce the darkness.

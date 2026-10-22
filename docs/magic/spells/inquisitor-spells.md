@@ -6,11 +6,13 @@ New inquisitor spells from *Ultimate Magic*. Spells from other books will be add
 
 - **[Barbed Chains](barbed-chains.md)**: Hellish chains attack and cause a target to become shaken.
 - **[Bowstaff](bowstaff.md)**: A shortbow may double as a club, or a longbow as a quarterstaff.
+- **[Cloak of Secrets](cloak-of-secrets.md)**: Bubble disguises speech and spell components.
 - **[Compel Hostility](compel-hostility.md)**: Compels opponents to attack you instead of your allies.
 - **[Deadeye’s Lore](deadeyes-lore.md)**: Gain a +4 bonus on Survival and move full speed while tracking.
 - **[Desperate Weapon](desperate-weapon.md)**: Create an improvised weapon.
 - **[Detect the Faithful](detect-the-faithful.md)**: Find others of the same faith.
 - **[Ear-Piercing Scream](ear-piercing-scream.md)**: Deal sonic damage and daze target.
+- **[Ears of the City](ears-of-the-city.md)**: Gather information from echoes of local talk.
 - **[Fabricate Disguise](fabricate-disguise.md)**: Create a disguise in an instant.
 - **[Forbid Action](forbid-action.md)**: Target obeys command to not do something.
 - **[Forced Quiet](forced-quiet.md)**: Target cannot make loud noises.
@@ -29,13 +31,16 @@ New inquisitor spells from *Ultimate Magic*. Spells from other books will be add
 - **[Litany of Sloth](litany-of-sloth.md)**: Single target cannot make attacks of opportunity for 1 round.
 - **[Litany of Weakness](litany-of-weakness.md)**: Single target is fatigued for 1 round.
 - **[Lock Gaze](lock-gaze.md)**: Compels the target to look only at you for the duration of the spell.
+- **[Locksight](locksight.md)**: Sense a lock’s state and quality.
 - **[Longshot](longshot.md)**: Grants a +10-foot bonus to the range increment for any ranged weapon fired.
 - **[Open and Shut](open-and-shut.md)**: Obfuscate whether a door is open or closed.
+- **[Peace Bond](peace-bond.md)**: Your low-level area spells ignore protected cubes.
 - **[Peacebond](peacebond.md)**: Locks a weapon in place on the target’s body.
 - **[Persuasive Goad](persuasive-goad.md)**: Target takes 1d6 nonlethal damage; you gain an Intimidate bonus.
 - **[Recharge Innate Magic](recharge-innate-magic.md)**: You channel magic energy into your own aura, recharging your innate magic abilities.
 - **[Returning Weapon](returning-weapon.md)**: Grants a weapon the returning special weapon quality.
 - **[Sanctify Corpse](sanctify-corpse.md)**: Prevent a corpse from becoming an undead.
+- **[Speak Local Language](speak-local-language.md)**: Speak and understand one known regional human language.
 - **[Stalwart Resolve](stalwart-resolve.md)**: Ignore ability damage to one score.
 - **[Theft Ward](theft-ward.md)**: You ward a single object in your possession against theft.
 - **[Touch of Combustion](touch-of-combustion.md)**: Your successful melee touch attack causes the target to ignite in a violent burst of flame, dealing 1d6.

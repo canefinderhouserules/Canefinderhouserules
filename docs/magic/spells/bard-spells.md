@@ -31,6 +31,8 @@
 - **[Blend with Surroundings](blend-with-surroundings.md)**: Target looks like an object and hides easily while still.
 - **[Cause Fear](cause-fear.md)**: One creature of 5 HD or less flees for 1d4 rounds.
 - **[Charm Person](charm-person.md)**: Makes one person your friend.
+- **[Cloak of Secrets](cloak-of-secrets.md)**: Bubble disguises speech and spell components.
+- **[Coin Shot](coin-shot.md)**: Turns coins into bullets.
 - **[Compel Hostility](compel-hostility.md)**: Compels opponents to attack you instead of your allies.
 - **[Comprehend Languages](comprehend-languages.md)**: You understand all languages.
 - **[Compulsive Liar](compulsive-liar.md)**: Prevent target from speaking the truth.
@@ -43,6 +45,7 @@
 - **[Desperate Weapon](desperate-weapon.md)**: Create an improvised weapon.
 - **[Detect Secret Doors](detect-secret-doors.md)**: Reveals hidden doors within 60 ft.
 - **[Disguise Self](disguise-self.md)**: Changes your appearance.
+- **[Ears of the City](ears-of-the-city.md)**: Gather information from echoes of local talk.
 - **[Echo](echo.md)**: Cause a sound to repeat itself.
 - **[Erase](erase.md)**: Mundane or magical writing vanishes.
 - **[Expeditious Retreat](expeditious-retreat.md)**: Your base land speed increases by 30 ft.
@@ -53,11 +56,13 @@
 - **[Hideous Laughter](hideous-laughter.md)**: Subject loses actions for 1 round/ level.
 - **[Hypnotism](hypnotism.md)**: Fascinates 2d4 HD of creatures.
 - **[Identify](identify.md)**: Gives +10 bonus to identify magic items.
+- **[Illusory Crowd](illusory-crowd.md)**: Illusory stationary crowd.
 - **[Jitterbugs](jitterbugs.md)**: School illusion (figment) [mind-affecting]; Level bard 1, sorcerer/wizard 2 Casting Time 1 standard action.
 - **[Jury-Rig](jury-rig.md)**: Removes the broken condition from the targeted object.
 - **[Know Peerage](know-peerage.md)**: Target uses your Knowledge (nobility) ranks.
 - **[Liberating Command](liberating-command.md)**: Target makes an Escape Artist check as an immediate action and gains a bonus on it.
 - **[Lock Gaze](lock-gaze.md)**: Compels the target to look only at you for the duration of the spell.
+- **[Locksight](locksight.md)**: Sense a lock’s state and quality.
 - **[Magic Aura](magic-aura.md)**: Alters object’s magic aura.
 - **[Magic Mouth](magic-mouth.md)**: Objects speaks once when triggered.
 - **[Moment of Greatness](moment-of-greatness.md)**: Doubles a morale bonus.
@@ -65,6 +70,7 @@
 - **[Obscure Object](obscure-object.md)**: Masks object against *scrying*.
 - **[Obscure Poison](obscure-poison.md)**: Make it harder to detect a poison or a venomous creature.
 - **[Open and Shut](open-and-shut.md)**: Obfuscate whether a door is open or closed.
+- **[Peace Bond](peace-bond.md)**: Your low-level area spells ignore protected cubes.
 - **[Quintessence](quintessence.md)**: Mask any flaws of or damage to a creature or object.
 - **[Recharge Innate Magic](recharge-innate-magic.md)**: You channel magic energy into your own aura, recharging your innate magic abilities.
 - **[Remove Fear](remove-fear.md)**: Suppresses fear or gives +4 on saves against fear for one subject + one per four levels.
@@ -74,6 +80,7 @@
 - **[Silent Image](silent-image.md)**: Creates minor illusion of your design.
 - **[Sleep](sleep.md)**: Puts 4 HD of creatures into magical slumber.
 - **[Sow Thought](sow-thought.md)**: School enchantment (compulsion) [mind-affecting]; Level bard 1, sorcerer/wizard 1, witch 1 Casting Time 1.
+- **[Speak Local Language](speak-local-language.md)**: Speak and understand one known regional human language.
 - **[Summon Monster I](summon-monster-i.md)**: Summons extraplanar creature to fight for you.
 - **[Tamer’s Lash](tamers-lash.md)**: Create a whip made of sound that damages foes and can frighten animals.
 - **[Toilsome Chant](toilsome-chant.md)**: School enchantment (compulsion)[mind-affecting]; Level bard 1 Casting Time see text Components V, S Range.
@@ -97,8 +104,10 @@
 - **[Arcane Disruption](arcane-disruption.md)**: Subject must make concentration checks to use arcane magic.
 - **[Aversion](aversion.md)**: Cause the target to avoid an object or location.
 - **[Babble](babble.md)**: Target becomes nauseated and nearby creatures become fascinated.
+- **[Beloved of the Forge](beloved-of-the-forge.md)**: Sense of direction home; luck on Craft.
 - **[Bestow Insight](bestow-insight.md)**: Component V, S Range touch Target one creature touched Duration 1 minute/level When casting this spell.
 - **[Billowing Skirt](billowing-skirt.md)**: A skirt or gown slows your fall.
+- **[Blessing of Liberty](blessing-of-liberty.md)**: Luck against movement impairment.
 - **[Blindness/Deafness](blindness-deafness.md)**: Makes subject blind or deaf.
 - **[Blistering Invective](blistering-invective.md)**: Make an Intimidate check against all foes within 30 feet; those demoralized also take fire damage.
 - **[Blur](blur.md)**: Attacks miss subject 20% of the time.

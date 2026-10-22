@@ -49,3 +49,13 @@
 *Seize the Initiative (Su): Whenever you and your allies roll for initiative, you can grant one ally within 30 feet the ability to roll twice and take either result. This decision is made before results are revealed. You can use this ability a number of times per day equal to 3 + your Wisdom modifier.*
 
 ***Replacement Domain Spells**: 2nd—aid, 5th—command (greater), 8th—planar ally (greater).*
+
+###  *<span class="smallcaps">Duels Subdomain</span>*
+
+***Associated Domain(s)**: War*
+
+***Replacement Power**: The following granted power replaces the battle rage power of the War domain.*
+
+*Divine Challenge (Su)*: As a swift action, you can challenge a visible foe within 30 feet, gaining a +1 sacred bonus to your AC against that creature’s attacks and a bonus equal to 1/2 your cleric level on Bluff skill checks to feint against it. These bonuses last for a number of rounds equal to 1/2 your cleric level. You can use this ability a number of times per day equal to 3 + your Wisdom modifier.
+
+***Replacement Domain Spells**: 2nd—warding weapon, 5th—dance of a hundred cuts, 8th—dance of a thousand cuts.*

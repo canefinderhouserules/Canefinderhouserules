@@ -62,3 +62,13 @@
 *Taboo (Su): When a creature touches you or strikes you with a melee attack, you can activate this power as an immediate action. That creature takes a –1 penalty on saving throws for 1 minute. This penalty increases by 1 for every 5 levels you possess. When you use this ability, you lose your resistance bonus granted by the Protection domain for 1 minute. You can use this ability a number of times per day equal to 3 + your Wisdom modifier.*
 
 ***Replacement Domain Spells**: 2nd—silence, 4th—detect scrying, 5th—mirage arcana, 9th—greater create demiplane<sup>UM</sup>.*
+
+###  *<span class="smallcaps">Fortifications Subdomain</span>*
+
+***Associated Domain(s)**: Protection*
+
+***Replacement Power**: The following granted power replaces the resistant touch power of the Protection domain.*
+
+*Sheltering Walls (Sp)*: As a standard action, you can touch an ally to summon a floating blockade of stone, granting the ally the benefits of partial cover for 1 round plus 1 round for every 6 cleric levels you possess. This ability does not grant the ally enough cover to attempt a Stealth check or avoid provoking attacks of opportunity. If the ally benefits from any other form of cover against an attack, the bonuses to AC and on Reflex saving throws increase by 1. You can use this power a number of times per day equal to 3 + your Wisdom modifier.
+
+***Replacement Domain Spells**: 1st—hold portal, 5th—wall of stone, 9th—prismatic wall.*

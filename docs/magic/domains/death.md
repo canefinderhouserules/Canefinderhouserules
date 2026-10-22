@@ -95,3 +95,13 @@
 ***Necrotic Tending (Sp)**: You can touch an undead creature or area affected by a haunt as a move action, restoring 1d8 hit points for every 2 cleric levels you have. This ability has no effect on other creatures. You can use this ability a number of times per day equal to 3 + your Wisdom modifier.*
 
 *This replaces the bleeding touch domain power of the Death domain.*
+
+###  *<span class="smallcaps">Plague Subdomain</span>*
+
+***Associated Domain(s)**: Death, Evil*
+
+***Replacement Power**: The following granted power replaces the death’s embrace power of the Death domain or the touch of evil power of the Evil domain.*
+
+*Touch of Virulence (Su)*: As a standard action, you can touch a diseased creature and exacerbate its condition. If it fails a Fortitude save (DC = 10 + 1/2 your cleric level + your Wisdom modifier), the creature takes damage as though it had failed its Fortitude save against the disease and any remaining onset time for the disease ends. You can use this ability once per day at 8th level, plus one additional time per day at 14th level and 20th level.
+
+***Replacement Domain Spells**: 1st—ray of sickening, 3rd—contagion, 6th—plague storm, 8th—horrid wilting.*

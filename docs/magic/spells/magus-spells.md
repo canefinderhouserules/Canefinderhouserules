@@ -7,6 +7,7 @@ The magus class spell list appears on the [Magus](../../characters/classes/magus
 - **[Abjuring Step](abjuring-step.md)**: You can move slowly and safely and still cast spells, until you move quickly, make an attack, or cast a harmful spell.
 - **[Auditory Hallucination](auditory-hallucination.md)**: Create a phantasm with auditory effects.
 - **[Blend](blend.md)**: You draw upon your elven link to the wilderness to change the coloration of yourself and your equipment to.
+- **[Coin Shot](coin-shot.md)**: Turns coins into bullets.
 - **[Corrosive Touch](corrosive-touch.md)**: Touch attack deals 1d4 acid/level.
 - **[Desperate Weapon](desperate-weapon.md)**: Create an improvised weapon.
 - **[Frostbite](frostbite.md)**: Target takes cold damage and is fatigued.

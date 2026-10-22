@@ -75,3 +75,13 @@
 *Read Minds (Su): At 4th level, you can broaden your mental spectrum to encompass those around you. Doing so allows you to read the mind of every creature within 30 feet as if you had cast detect thoughts. This ability allows you to read the surface thoughts of any creature after only 1 round of concentration. Creatures in this area are allowed a Will save to negate the effect. The DC of this Will save is 10 + 1/2 your cleric level + your Wisdom modifier. You can use this ability for a number of rounds per day equal to your cleric level. These rounds do not need to be consecutive.*
 
 ***Replacement Domain Spells**: 3rd—seek thoughts, 5th—telepathic bond, 8th—mind blank.*
+
+###  *<span class="smallcaps">Espionage Subdomain</span>*
+
+***Associated Domain(s)**: Knowledge, Trickery*
+
+***Replacement Power**: The following granted power replaces the lore keeper power of the Knowledge domain or the copycat power of the Trickery domain.*
+
+*Deep Cover (Su)*: When you prepare your spells, you can also choose one cover identity—whether that of a real person or a fictitious one. You can assume the disguise of your cover identity in half the normal amount of time. When targeted by a spell or effect that would compromise your chosen disguise (such as *detect evil*, *detect thoughts*, or *zone of truth*), as an immediate action you can force the creature using the ability to attempt a Will save (DC = 10 + 1/2 your cleric level + your Wisdom modifier). If the creature fails, it gains false information in keeping with your cover identity. You can use this false information ability a number of times per day equal to 3 + your Wisdom modifier.
+
+***Replacement Domain Spells**: 2nd—anonymous interaction, 4th—zone of silence, 8th—mind blank.*
