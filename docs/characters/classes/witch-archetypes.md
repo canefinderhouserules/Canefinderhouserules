@@ -427,3 +427,21 @@ Some witches have patron themes that are associated with the Elder Mythos.
 **Revenge**: 2nd—*magic fang*; 4th—*slipstream*; 6th—*rage*; 8th—*moonstruck*; 10th—*beast shape III*; 12th—*vengeful outrage*; 14th—*phantasmal revenge*; 16th—*seamantle*; 18th—*storm of vengeance*.
 
 **Space**: 2nd—*mirror strike*; 4th—*twisted space*; 6th— *blink*; 8th—*dimension door*; 10th—*hostile juxtaposition*; 12th—*repulsion*; 14th—*walk through space*; 16th—*bilocation*; 18th—*teleportation circle*.
+
+## Synergist
+
+Synergists gain the ability to combine their forms with their familiars’ in order to create something more powerful than either alone.
+
+**Symbiosis (Su)**: At 1st level, a synergist gains the ability to meld or unmeld with her familiar as a standard action. While the familiar is melded, its body becomes part of the synergist’s and can’t be targeted or affected by any means (including ongoing effects), though the familiar can still communicate its feelings empathically. The symbiosis causes the synergist to adopt some basic physical features of the familiar and grants additional abilities based on the synergist’s level.
+
+At 1st level, during symbiosis the synergist gains darkvision or low-light vision if the familiar possesses it.
+
+At 5th level, during symbiosis the synergist gains any abilities the familiar possesses that are listed under *beast shape I*, except flight.
+
+At 8th level, during symbiosis the synergist gains any abilities the familiar possesses that are listed under *beast shape II*. If the familiar can fly, the synergist can fly for a total of 1 minute per witch level she possesses per day while in symbiosis. This duration need not be consecutive, but it must be spent in 1-minute intervals. Additionally, during symbiosis the synergist gains a single natural attack of a type possessed by its familiar. The attack deals 1d6 points of damage if a primary attack (1d4 for Small synergists) and 1d4 points of damage if a secondary attack (1d3 for Small synergists).
+
+At 11th level, during symbiosis the synergist gains any abilities the familiar possesses that are listed under *beast shape III*. If the familiar can fly, the synergist can fly for an unlimited amount of time each day while in symbiosis.
+
+At 14th level, during symbiosis the synergist gains any abilities the familiar possesses that are listed under *beast shape IV*. If the familiar has multiple natural attacks, the synergist gains them all, rather than just one.
+
+This ability replaces the hexes gained at 1st, 8th, and 14th level.

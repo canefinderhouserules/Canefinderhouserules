@@ -294,6 +294,7 @@ Shamans gain access to the following spells. Spells in plain text come from othe
 - **[Curse, Major](curse-major.md)**: As bestow curse, but harder to remove.
 - Dispel Chaos/evil/good/law
 - **[Dominate Person](dominate-person.md)**: Controls humanoid telepathically.
+- **[Empathy Conduit](empathy-conduit.md)**: Affect a bonded creature by targeting its master, or vice versa.
 - **[Entice Fey, Lesser](entice-fey-lesser.md)**: Entice service from a fey of 6 Hit Dice or fewer.
 - **[Feast on Fear](feast-on-fear.md)**: Targets are panicked, and you gain temporary hit points.
 - **[Fey Form II](fey-form-ii.md)**: Assume the form of a Tiny or Large fey creature.
@@ -306,6 +307,7 @@ Shamans gain access to the following spells. Spells in plain text come from othe
 - **[Insect Plague](insect-plague.md)**: Wasp swarms attack creatures.
 - **[Overland Flight](overland-flight.md)**: You fly at a speed of 40 ft. and can hustle over long distances.
 - **[Rest Eternal](rest-eternal.md)**
+- **[Soulswitch](soulswitch.md)**: Swap souls with your familiar.
 - **[Stoneskin](stoneskin.md)**: Grants DR 10/adamantine.
 - **[Swallow Poison](swallow-poison.md)**: Protect yourself from ingested poison, then spit it out in a cone.
 - **[Tidal Surge](tidal-surge.md)**: Create a surge of water to bludgeon foes and extinguish fires.

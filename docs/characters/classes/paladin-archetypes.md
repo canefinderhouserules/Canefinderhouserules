@@ -597,3 +597,21 @@ This ability alters lay on hands, channel energy, divine bond, aura of courage, 
 This ability alters lay on hands and mercy.
 
 **Last Stand (Su)**: At 11th level, a tortured crusader can spend an additional use of smite evil when declaring a smite to make it a last stand. The duration of last stand’s benefits is only 1 minute (rather than 24 hours). However, the bonus damage from smite evil is doubled on every attack (this doesn’t stack with the doubling if the smite’s target is an evil outsider, undead, or evil dragon). This ability replaces aura of justice.
+
+## Chosen One
+
+Most paladins train for years at a temple to attain a holy status, but rarely, an emissary of the divine appears to one of humble origins and calls her directly to the charge. These chosen ones may lack experience, but their teamwork with their emissaries allows them to defeat any evil.
+
+**Bondless**: A chosen one does not gain the divine bond class feature.
+
+**Divine Emissary (Ex)**: At 1st level, a chosen one gains an [emissary](../companions/familiar-archetypes.md#emissary) familiar, treating her paladin level as her wizard level for the purpose of this ability.
+
+**Religious Mentor (Ex)**: The familiar’s sworn duty is to help train the chosen one for her future glory. The familiar is treated as having a number of ranks in Knowledge (religion) equal to the chosen one’s paladin level. The chosen one doesn’t gain Knowledge (religion) as a class skill.
+
+**Delayed Grace (Su)**: A chosen one begins her adventuring career without fully understanding her true potential. The chosen one uses the barbarian, rogue, sorcerer column of the starting-age table to calculate her typical starting age. She receives the smite evil ability at 2nd level and the divine grace ability at 4th level. This does not affect the rate at which she gains additional uses per day of smite evil, so she still gains her second use at 4th level, her third at 7th level, and so on. This ability alters divine grace and smite evil.
+
+**Lay on Paws (Su)**: At 2nd level, a chosen one’s familiar is able to borrow some of her divine energy to heal itself and others. The familiar can use the chosen one’s lay on hands ability, including all of her mercies, but each such use consumes two uses of the paladin’s lay on hands ability. Starting at 4th level, the familiar can also channel positive energy, but each such use consumes four uses of the paladin’s lay on hands ability. This ability alters lay on hands and channel positive energy.
+
+**True Form (Ex)**: At 7th level, a chosen one’s familiar reveals its true form, transforming into an outsider improved familiar that matches the chosen one’s patron’s alignment (typically an arbiter, a cassisian, a harbinger, or a silvanshee, but potentially any lawful neutral, lawful good, or neutral good outsider familiar depending on the patron). The familiar gains the change shape universal monster ability if it doesn’t already have it, which it can use at will to transform into its original form or back to its true form.
+
+**Emissary’s Smite (Su)**: At 11th level, a chosen one’s familiar also benefits from the paladin’s smite evil ability whenever the chosen one uses smite evil.

@@ -644,3 +644,13 @@ At 3rd level and every 3 levels thereafter, the toxicant can choose a condition 
 As a swift action, the toxicant can collect and concentrate this secretion into a poison she can deliver as a touch attack or apply to a weapon. Targets of such attacks must attempt saving throws as if they had touched the toxicant's toxic secretion. The toxicant can do this a number of times per day equal to her alchemist level + her Intelligence modifier. This ability replaces mutagen.
 
 **Toxic Digestion (Ex)**: At 14th level, a toxicant can drink a poison as a standard action and suspend it within her own body. She is not affected by the poison, and doesn't need to attempt saving throws against it. When the toxicant next uses her toxic secretion on a creature that attacks her with a natural or unarmed attack, she can expose the attacker to the digested poison (with that poison's normal duration, effects, and save DC) rather than her normal toxic secretion, even if the digested poison isn't normally a contact poison. The alchemist can maintain only a single digested poison at a time. If she digests a new poison, any older digested poison is lost. This ability replaces persistent mutagen.
+
+## Homunculist
+
+One of the grand goals of alchemy is the ability to create new life. A homunculist has made this dream a reality, growing and modifying a familiar in his own laboratory.
+
+**Diminished Poisoning**: A homunculist doesn’t gain the poison use, poison resistance, poison immunity, or swift poisoning class features.
+
+**Homunculus Familiar (Ex)**: The homunculist has created a living homunculus in the shape of an animal or vermin. It functions in all ways as a familiar, treating the homunculist’s alchemist level as his effective wizard level. This ability replaces mutagen.
+
+**Experimentation (Ex)**: A homunculist is constantly experimenting on his familiar to give it new and unusual features and abilities. At 4th level, the homunculist can grant his familiar 1 evolution point worth of eidolon evolutions for every 4 alchemist levels he possesses, though he can’t select any evolutions that require a particular base form. Each time the homunculist gains a level, he can change his familiar’s evolutions. These evolutions stack with those from the [Evolved Familiar](../../rules/feats/evolved-familiar.md) feat. The homunculist can select the Evolved Familiar feat as an alchemist discovery if he meets its prerequisites.

@@ -1,6 +1,6 @@
 # Merge with Familiar
 
-**School** transmutation; **Level** shaman 2, sorcerer/wizard 2, witch 2  
+**School** transmutation; **Level** alchemist 2, shaman 2, sorcerer/wizard 2, witch 2  
 **Casting Time** 1 standard action  
 **Components** V, S  
 **Range** touch  

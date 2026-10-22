@@ -430,3 +430,15 @@ This ability replaces the magus’s ability to expend points from his arcane poo
 **Greater Dance of Avoidance (Su)**: At 13th level, while wearing light armor or no armor, a spell dancer’s insight bonus to Armor Class increases to +4. This ability replaces the heavy armor class feature.
 
 **Magus Arcana**: The following magus arcana complement the spell dancer archetype: arcane cloak, prescient defense (*Ultimate Combat*); close range, concentrate, hasted assault, spell shield (*Ultimate Magic*).
+
+## Beastblade
+
+Beastblade magi work in tandem with their familiars, using spell, steel, and claw to clear the battlefield of foes.
+
+**Familiar (Ex)**: At 3rd level, the beastblade gains the familiar magus arcana. This ability replaces the magus arcana gained at 3rd level.
+
+**Tandem Touch (Su)**: At 4th level, while the beastblade’s familiar is holding the charge for a touch spell, the beastblade can cast another spell without discharging the familiar’s held charge. This ability replaces spell recall.
+
+**Familiar Pool (Su)**: At 7th level, when a beastblade prepares his magus spells, he can expend points from his arcane pool (up to a maximum number of points equal to his Intelligence modifier) to empower his familiar. For each point expended in this way, the familiar can cast one magus spell as a spell-like ability once that day. Each spell selected must be 3 spell levels lower than the highest spell level the beastblade can cast, and can’t require a material component that costs more than 1 gp. This ability replaces knowledge pool.
+
+**Familiar Spellstrike (Su)**: At 11th level, whenever a beastblade’s familiar successfully delivers a touch spell against a creature the magus threatens, the target provokes an attack of opportunity from the magus. This ability replaces improved spell recall.

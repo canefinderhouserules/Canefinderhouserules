@@ -533,3 +533,43 @@ This ability replaces Scribe Scroll.
 This ability replaces the bonus feats gained at 5th, 10th, and 15th levels.
 
 **Lich-Loved (Su)**: At 20th level, an undead master gains the benefits of the undead sorcerer bloodline’s one of us ability. This ability replaces the bonus feat gained at 20th level.
+
+## Familiar Adept
+
+Many wizards employ familiars to assist them, but only a few have unlocked the true power of their school of magic through the familiar itself.
+
+**Diminished Expertise**: A familiar adept doesn’t gain Scribe Scroll at 1st level or the wizard’s bonus feats at 5th and 10th levels. He must also choose one additional opposition school, even if he is a universalist.
+
+**School Familiar (Ex)**: At 1st level, a familiar adept must select a familiar for his arcane bond. His familiar automatically gains the [school familiar archetype](../companions/familiar-archetypes.md#school-familiar), but it cannot use its lesser school power until 4th level. At 8th level, it gains access to its greater school power. This ability alters arcane bond.
+
+**Familiar Spells (Ex)**: A familiar adept stores his spells in his familiar rather than in a spellbook, exactly as a witch does. His familiar can freely trade spells known with a witch’s familiar, provided the spells traded are on both casters’ class spell lists. The familiar adept’s familiar uses the witch rules for familiars, including the increased cost of replacing the familiar. This ability alters spellbooks.
+
+**Focused School (Ex)**: A familiar adept’s training is focused more deeply on his familiar and his school of magic. At 1st level, 5th level, and every 5 levels thereafter, his familiar gains the ability to use the wizard’s 1st-level school ability one time per day without it counting against the wizard’s daily uses.
+
+## Pact Wizard
+
+Some wizards make bargains with beings from other realms in order to gain arcane power. These pact wizards have unparalleled access to extraplanar allies, but these bonds never come without strings attached.
+
+**Familiar (Ex)**: A pact wizard must select a familiar for his arcane bond. The familiar’s loyalty ultimately lies with the pact wizard’s patron, and it reports back to the patron on the wizard’s activities. This ability alters arcane bond.
+
+**Pact Focus (Ex)**: At 1st level, a pact wizard must choose one additional opposition school, even if he is a universalist. A pact wizard can’t pick conjuration as an opposition school. This ability alters arcane school.
+
+**Pact (Ex)**: A pact wizard enters into a bargain with an extraplanar being in order to gain increased wizardly powers. At 1st level, he selects a patron belonging to one specific subtype of outsider for which there exists an improved familiar option (such as devil or azata). The pact wizard can select a subtype of outsider even with a diametrically opposed alignment; in this case, the patron being offers the pact in an attempt to tempt or redeem the pact wizard. A pact wizard whose alignment shifts away from the chosen outsider subtype, who grossly abuses his familiar or any outsider of the chosen subtype, or who commits egregious acts against the alignment of the patron loses all the benefits of this archetype (but keeps the additional opposition school) until he receives an *atonement*.
+
+**Aura (Ex)**: A pact wizard has an aura corresponding to the alignment of his chosen subtype as a cleric of his wizard level.
+
+**Pact Summons (Ex)**: A pact wizard can select [Sacred Summons](../../rules/feats/sacred-summons.md) as a wizard bonus feat. He can use this feat only to summon outsiders of his chosen subtype.
+
+**True Form (Ex)**: At 7th level, a pact wizard’s familiar reveals its true form, automatically transforming into an outsider improved familiar of the chosen subtype.
+
+## Spirit Binder
+
+While most wizards learn their arts through gradual study, spirit binders have made a sudden arcane breakthrough due to the traumatic experience of losing a loved one.
+
+**Soulbound Familiar (Ex)**: A spirit binder must select a familiar for his arcane bond. Unlike in a normal familiar-summoning ritual, a spirit binder created his special familiar through a dangerous ritual catalyzed by the death of a loved one. Before the loved one’s spirit passed on to the afterlife, the spirit binder was able to bind the spirit to an animal or vermin, which then became his familiar.
+
+A soulbound familiar’s personality is that of the lost loved one, rather than a servant of the spirit binder. It can have any alignment, even one that is diametrically opposed to the spirit binder’s. A soulbound familiar has the base attack bonus and base saving throws of the loved one’s favored class (using the spirit binder’s level as its level). If the loved one died before the beginning of the campaign, the spirit binder selects the familiar’s favored class at 1st level and it cannot be changed. This ability alters arcane bond.
+
+**Arcane School**: A spirit binder can’t choose necromancy as an opposition school. This ability alters arcane school.
+
+**Lost Talents (Ex)**: A spirit binder’s soulbound familiar possesses some of the ability of the lost loved one, and it is capable of learning more. At 1st level, 5th level, and every 5 levels thereafter, the spirit binder’s familiar gains a new feat for which it meets the prerequisites. This ability replaces Scribe Scroll and the wizard’s bonus feats.

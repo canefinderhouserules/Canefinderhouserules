@@ -925,3 +925,19 @@ Cutting remark is a mind-affecting, language-dependent effect, and relies on aud
 **On the Ball (Ex)**: At 5th level, rather than roll for initiative, the wit can treat his roll as if it was a 10 (adding any modifiers as usual). The wit can use this ability once per day at 5th level, and an additional time per day for every 6 bard levels thereafter. At 20th level, when the wit uses this ability, he can instead treat his roll as if it was a 20. This ability replaces lore master.
 
 **Duel Master (Ex)**: At 10th level, the wit does not lose any edges for being at an extreme disadvantage in a verbal duel and can either ask about one additional bias when successfully using Sense Motive to determine an audience’s biases or automatically seed one of the biases that he discovered. Once during a verbal duel, he can reassign an appropriate skill from one tactic to another tactic in which he didn’t assign any skills. The original tactic is treated as being unprepared for the rest of the duel. This ability replaces jack-of-all-trades.
+
+## Duettist
+
+Whether singing a delicate duo with a nightingale or slipping coins from purses while a trained monkey distracts the crowd, the duettist blends his bond to his familiar with his natural talent for performance to create amazing effects.
+
+**Diminished Competency**: A duettist does not gain the well-versed or jack-of-all-trades class features.
+
+**Familiar (Ex)**: At 1st level, a duettist gains a familiar, treating his bard level as his effective wizard level for the purpose of this ability. This ability replaces bardic knowledge.
+
+**Versatile Familiar (Ex)**: At 2nd level, a duettist’s familiar learns to use performance to supplement its skills. A duettist’s familiar benefits from its master’s versatile performance class feature. This ability alters versatile performance.
+
+**Performing Familiar (Su)**: At 4th level, a duettist’s familiar learns how to create supernatural effects with its performances, just like its master. The familiar can use any of its master’s bardic performances, but only the familiar or the duettist can have a performance active at any given time, not both. If one is performing and the other starts a performance, the previous performance immediately ends. Each round that the familiar performs consumes 2 rounds of the duettist’s bardic performance. This ability replaces lore master.
+
+**Harmonizing Familiar (Su)**: At 8th level, the duettist and his familiar have learned how to perform together in harmony. When a duettist and his familiar perform the same bardic performance simultaneously, its effects are enhanced. If the performance has a DC, the DC increases by 2. If the performance provides a competence bonus, the competence bonus increases by 1. Because both the duettist and the familiar are performing, each round performed consumes 3 rounds of bardic performance. This ability replaces dirge of doom.
+
+**Symphonic Familiar (Su)**: At 14th level, the duettist and his familiar have learned how to create a symphony of complementary performances that meld together to produce two different effects. They can each perform a different bardic performance simultaneously, and each has its full effect. Because both the duettist and the familiar are performing, each round performed consumes 3 rounds of bardic performance. This ability replaces frightening tune.

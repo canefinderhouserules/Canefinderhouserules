@@ -1,0 +1,9 @@
+# Familiar Bond
+
+You have learned a ritual that allows you to gain a familiar.
+
+**Prerequisites**: Iron Will.
+
+**Benefit**: You gain a familiar, as the wizard arcane bond class feature. You do not gain the special ability the familiar normally grants its master, and the familiar does not gain the deliver touch spells, scry on familiar, share spells, speak with animals of its kind, or spell resistance special abilities. Otherwise, your total Hit Dice are used as your wizard level for determining the familiar’s abilities.
+
+**Special**: If you have (or later gain) levels in a class that grants a familiar, whenever you select a familiar, you can either base your familiar’s abilities on your total Hit Dice per this feat (including the restrictions on its special abilities), or choose to apply only your levels in classes that grant a familiar (and thus gain all the special abilities that familiar would grant based on those class levels). You can never have more than one familiar.

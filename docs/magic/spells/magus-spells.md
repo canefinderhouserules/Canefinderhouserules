@@ -130,6 +130,7 @@ The magus class spell list appears on the [Magus](../../characters/classes/magus
 - **[Parchment Swarm](parchment-swarm.md)**
 - **[Scripted Hallucination](scripted-hallucination.md)**: As *complex hallucination*, but without concentration.
 - **[Shapechanger’s Gift](shapechangers-gift.md)**: Temporarily change a target into an animal, humanoid, or monstrous humanoid.
+- **[Soulswitch](soulswitch.md)**: Swap souls with your familiar.
 - **[Symbol of Striking](symbol-of-striking.md)**
 - **[Undead Anatomy II](undead-anatomy-ii.md)**: Take the form and some of the powers of a Tiny or Large undead.
 - **[Vermin Shape II](vermin-shape-ii.md)**: As vermin shape, but Tiny or Large.
