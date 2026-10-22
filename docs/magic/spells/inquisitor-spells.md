@@ -89,6 +89,7 @@ New inquisitor spells from *Ultimate Magic*. Spells from other books will be add
 - **[Sense Fear](sense-fear.md)**: Perceive nearby creatures that are experiencing fear.
 - **[Sense Madness](sense-madness.md)**: Determine mental disturbances in nearby creatures.
 - **[Shamefully Overdressed](shamefully-overdressed.md)**: Force target to remove equipment.
+- **[Shared Suffering](shared-suffering.md)**: Take damage to deal the same damage to a distant target.
 - **[Shifted Steps](shifted-steps.md)**: Make a target sound as if elsewhere.
 - **[Surmount Affliction](surmount-affliction.md)**: Temporarily suppress one condition.
 - **[Tactical Acumen](tactical-acumen.md)**: You gain an additional +1 on attack rolls or to AC due to battlefield positioning.

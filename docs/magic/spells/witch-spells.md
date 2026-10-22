@@ -124,6 +124,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Sentry Skull](sentry-skull.md)**: You restore the senses to the severed head of a humanoid or monstrous humanoid killed within the past 24.
 - **[Shadow Anchor](shadow-anchor.md)**: School illusion (shadow) [shadow]; Level bard 2, sorcerer/wizard 2, witch 2 Casting Time 1 standard action.
 - **[Share Memory](share-memory.md)**: Share one memory with the target.
+- **[Shared Suffering](shared-suffering.md)**: Take damage to deal the same damage to a distant target.
 - **[Sickening Strikes](sickening-strikes.md)**: You are imbued with disease, and any creature you strike with a melee attack must make a Fortitude save or be.
 - **[Silk to Steel](silk-to-steel.md)**: Use a scarf as a shield or whip.
 - **[Skinsend](skinsend.md)**: Animate and possess your own skin as if it were a separate creature.
@@ -307,6 +308,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Village Veil](village-veil.md)**: You throw an illusion over an area to make creatures that view or interact with it believe it has suffered.
 - **[Whip of Centipedes](whip-of-centipedes.md)**: As whip of spiders, but with centipedes.
 - **[Wind Blades](wind-blades.md)**: You harden the air around the target into jagged invisible blades that deal damage based on how fast the.
+- **[Wracking Ray](wracking-ray.md)**: Ray that deals Strength and Dexterity damage.
 - **[Wreath of Blades](wreath-of-blades.md)**
 
 ## 6th-Level Witch Spells

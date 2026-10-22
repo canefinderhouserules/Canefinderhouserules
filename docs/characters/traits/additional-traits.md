@@ -21,6 +21,8 @@ These traits are associated with combat, battle, and physical prowess. They give
 
 **Bloodthirsty**: You have a vicious streak, and nothing satisfies you more than warm blood on your hands and blade. Whenever you make an attack that reduces a foe to 0 hit points or fewer or you confirm a critical hit, your attack deals 1 additional point of damage. The additional damage is a trait bonus, and is multiplied by your weapon’s critical hit multiplier.
 
+**Bloody-Minded**: You are always ready for bloodshed. You gain a +1 trait bonus on initiative and Intimidate checks.
+
 **Careful Combatant**: You have a strong sense of self-preservation, believing it is more important to safely extract yourself from a fight that has turned hopeless than to stubbornly stand your ground and risk death. When using the withdraw action, both the first and second squares of your movement are not considered threatened by any opponents you can see, rather than just the first square.
 
 **Cold and Calculating**: You are adept at tricking favored enemies of your race or those related to your race. You gain a +1 trait bonus on all Bluff checks against favored enemies that share one of your subtypes. You also gain a +1 trait bonus on attack rolls made against such favored enemies during the surprise round.
@@ -62,6 +64,8 @@ These traits are associated with combat, battle, and physical prowess. They give
 **Never Stop Shooting**: Even when the chips are down, you keep on shooting. If your hit point total drops to 0 or lower but you are not dead, you may act as if disabled rather than dying (as if you possessed the Diehard feat). However, you can use your actions only to draw a firearm, reload a firearm, or attack with a firearm. If you have the Diehard feat, this trait also allows you to substitute your Wisdom score for your Constitution score for the purpose of determining the negative hit point total at which you die.
 
 **Order Devotion**: Your family has strong ties to a knightly order of law, and you harness this belief as a weapon. Once per day as a swift action, you can empower the next single melee attack you make to be treated as lawful-aligned for the purpose of overcoming damage reduction.
+
+**Punish Insurrection**: You relish reminding people who’s in charge. Against members of the same organization or hierarchy who formally answer to you, you gain a +1 trait bonus on attack and damage rolls. You also gain this bonus against members who have openly defied the authority or rules of that body, provided the infraction is serious enough that their standing is now less than yours.
 
 **Reckless**: You have a tendency for rash behavior, often disregarding your own safety as you move across the battlefield. You gain a +1 bonus on Acrobatics checks, and Acrobatics is always a class skill for you.
 
@@ -181,6 +185,8 @@ These traits are associated with magic and focus on spellcasting and manipulatin
 
 **Greater Purpose**: You are convinced you’re alive to achieve a great purpose. You gain a +1 trait bonus on all saving throws to resist death effects and a +1 trait bonus on Constitution checks made to stabilize while dying.
 
+**Horrifying Mind**: When a nonevil humanoid attempts to read your mind via a magical effect, the reader must attempt a Will save opposed by your Wisdom or Charisma check (your choice). If the reader fails this save, she is shaken for 1 round. If she fails by 10 or more, she is instead frightened for 1 round, then shaken for 1 round.
+
 **Kin Bond**: The bond between you and a close sibling is nearly mystical. Choose a single sibling with whom to share this bond. Once per day when you fail a saving throw while your sibling is within 30 feet, you may reroll that saving throw using your sibling’s saving throw modifier. If you and the sibling are twins or otherwise part of a multiple birth, you gain a +2 trait bonus on the rerolled saving throw. Your sibling must be willing to grant you the reroll. If you fail the saving throw, you and your sibling are dazed for 1 round.
 
 **Knowledgeable Caster**: Once per day when you cast a divination spell, you can cast that spell as if your caster level were 1 level higher in the appropriate class. You also gain a +1 trait bonus on any Knowledge checks associated with your sorcerer bloodline, if any.
@@ -259,6 +265,8 @@ Social traits reflect your upbringing; your background in high society or lack t
 
 **Destined Diplomat**: Your relationship with your eidolon gives you some clout with other outsiders. You gain a +2 trait bonus on Diplomacy checks toward outsiders, and Diplomacy is always a class skill for you.
 
+**Detect Disobedience**: You have an uncanny ability to spot a mutiny brewing. You gain a +2 trait bonus on Sense Motive checks to detect when an underling is trying to hide something from you, and can attempt such checks instead of Perception checks to notice and react to a subordinate’s surprise attack against you.
+
 **Fast Talker**: You had a knack for getting yourself into trouble as a child, and as a result developed a silver tongue at an early age. You gain a +1 trait bonus on Bluff checks, and Bluffis always a class skill for you.
 
 **Friend in Every Town**: You have no problem making friends and learning information from them wherever you go. You gain a +1 trait bonus on all Knowledge (local) checks and Diplomacy checks. One of these skills (your choice) is always a class skill for you.
@@ -289,6 +297,8 @@ Social traits reflect your upbringing; your background in high society or lack t
 
 **Orphaned**: You grew up separated from your birth parents, and had to learn to watch out for yourself. You gain a +1 trait bonus on Survival checks, and Survival is always a class skill for you.
 
+**Passionate Inertia**: Your passions drive your thinking so irresistibly that even magic struggles to change your mind. You gain a +2 trait bonus on Will saves to resist having your mind changed about something, but you take a –1 penalty on Will saves to resist temptation and compulsions you might reasonably be already inclined toward.
+
 **Savage**: You were born and raised in untamed lands far from civilization. You learned to survive in the elements among brutal humanoids and beasts. You gain a +1 trait bonus on Knowledge (nature) checks and a +1 trait bonus on Survival checks to get along in the wild. Knowledge (nature) is always a class skill for you.
 
 **Seeker**: You are always on the lookout for reward and danger. You gain a +1 trait bonus on Perception checks, and Perception is always a class skill for you.
@@ -296,6 +306,8 @@ Social traits reflect your upbringing; your background in high society or lack t
 **Simple Disciple**: You picked up skill in a craft or a profession during your time at a monastery. You gain a +1 trait bonus on checks with a Profession or Craft skill of your choice.
 
 **Style Sage**: You have a passion for history and news concerning monastic disciplines. You gain a +1 trait bonus on checks with your choice of either Knowledge (local) or Knowledge (history), and the one you choose is always a class skill for you. In addition, you gain a +1 trait bonus on Diplomacy checks made to gather information about any person with levels in monk.
+
+**Subjective Truth**: You are able to divorce your knowledge of the facts from your beliefs about the truth, and thus from your facial expressions and body language. You gain a +2 trait bonus on Bluff checks to lie, provided the person you’re lying to has never known you to lie to him. Failing this check counts as being caught in a lie by the target, negating any future use of this bonus against that person.
 
 **Talented**: You are a virtuoso musician, actor, or storyteller. You gain a +1 trait bonus on checks with a single Perform skill (your choice), and all Perform skills are always class skills for you.
 
@@ -314,6 +326,8 @@ Social traits reflect your upbringing; your background in high society or lack t
 **Veiled Disciple**: Trained in espionage, you’re skilled at passing messages and staying on task. You gain a +1 trait bonus on Bluff checks made to pass secret messages and a +1 trait bonus on saving throws against charm and compulsion effects.
 
 **Weathered Emissary**: Your travels in the wildlands gave you insight into how to survive their dangers and communicate with their inhabitants. You gain a +1 trait bonus on all Linguistics and Survival checks, and Linguistics is always a class skill for you.
+
+**Wicked Leader**: You gain a +1 trait bonus on Charisma checks against evil creatures. If you select the Leadership feat or the [Vile Leadership](../../rules/feats/vile-leadership.md) feat at any point when you meet the prerequisites for that feat, you can recruit a cohort who is up to 1 level lower than you (instead of the normal requirement that your cohort must be 2 or more levels lower than you are) as long as your cohort is evil.
 
 **Worldly**: You have acquired an unusual breadth of life experience—more than others of your age, race, or culture. Once per day when attempting a skill check for a skill you’re untrained in, you can roll twice and take the better result.
 

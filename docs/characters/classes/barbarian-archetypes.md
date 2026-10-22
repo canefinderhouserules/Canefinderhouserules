@@ -262,13 +262,19 @@ Furthermore, the barbarian deals an additional 1d6 points of damage when she dam
 
 **Fueled by Vengeance (Ex)**: While raging, whenever you deal weapon damage to a creature that dealt damage to you since the end of your last turn, add 1 round to your remaining number of rounds of rage for the current day. You can gain no more than 1 extra round of rage each round. You must be at least 6th level to select this rage power.
 
+**Greater Animal Fury (Ex)**: This power works as animal fury, but the barbarian’s bite attack deals damage as if she were one size larger. A barbarian must have the animal fury rage power to select this rage power.
+
 **Infernal Blood (Su)**: While raging, the barbarian gains fire resistance 5, as well as a +2 bonus on saving throws against poison.
 
 **Infernal Blood, Greater (Su)**: While raging, the barbarian gains a +4 bonus against enchantment and fear effects.
 
 **Infernal Blood, Lesser (Su)**: While raging, up to three times a day as a swift action, the barbarian can infuse her attacks with hellfire for 1 round. During this time, all of her melee attacks gain the flaming magic weapon special ability.
 
+**Penetrating Bite (Ex)**: When using the animal fury rage power while raging, the barbarian’s bite is able to pierce most resistances. At 4th level, her bite is treated as a magic weapon for the purpose of overcoming damage reduction. At 7th level, her bite is also treated as cold iron and silver for the purpose of overcoming damage reduction. At 10th level, her bite is also treated as a chaotic weapon for the purpose of overcoming damage reduction. At 16th level, her bite is treated as an adamantine weapon for the purpose of overcoming damage reduction and bypassing hardness. A barbarian must have the animal fury rage power and be at least 4th level to select this rage power.
+
 **Savage Intuition (Ex)**: Your bestial senses allow you to sense danger and become enraged before you even have time to consciously react. When combat begins, if you have rounds of rage remaining, you may automatically enter a rage without using an action at the start of the first round of combat (or at the start of the surprise round, if there is one), even if you are not otherwise aware that combat has begun.
+
+**Savage Jaw (Ex)**: While raging, the barbarian can open her jaw wide and latch her teeth firmly onto her opponent. While using the animal fury power, the barbarian can activate this power as a free action and gain the grab ability with her bite attack until the start of her next turn. This power can be used only once per rage. A barbarian must have the animal fury rage power to select this rage power.
 
 **Undead Blood (Su)**: While raging, all of the barbarian's melee attacks are treated as if they were made with a weapon with the ghost touch weapon special ability.
 

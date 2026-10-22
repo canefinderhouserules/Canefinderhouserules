@@ -17,6 +17,8 @@ Drawbacks are gained either by choosing them or through the [background generato
 
 **Family Ties**: Your family is extremely important to you, and you feel disheartened when you can’t do what they ask. When a family member makes a request of you, you must fulfill that request or take a –2 penalty on all Wisdom- and Charisma-based ability checks and skill checks until you either do what was requested or succeed at a DC 20 Will saving throw, which you can attempt once per day at the start of each day. You can’t take this drawback if you have no family. If you ever lose your family or lose contact with your family, exchange this drawback for the Doubt drawback.
 
+**Foul Brand**: You have the symbol of an evil deity burned into your flesh. If the symbol is on your hand, you take a –1 penalty on Disable Device, Disguise, and Sleight of Hand checks. If the symbol is on your face, you take a –2 penalty on Bluff, Diplomacy, and Disguise checks. This does not count as a holy symbol for the purposes of a divine focus for spellcasting.
+
 **Headstrong**: You feel compelled to correct every action and argument that contradicts your worldview. Whenever you witness an action or hear an argument that contradicts your alignment, you must attempt to stop or correct that action or argument. If you either don’t try to stop it or fail in your attempt to stop it (as adjudicated by the GM), you are shaken for 1 hour.
 
 **Hedonistic**: You are a creature of pleasure and comfort. Whenever you spend a day without gaining reward or treasure (at least 10 or more gold pieces) or spending an hour on entertainment or pleasure, attempt a DC 20 Fortitude save at the end of that day. If you fail, you begin the next day fatigued. This fatigue lasts 4 hours, or until you receive a reward or sufficient entertainment or pleasure.
@@ -35,7 +37,11 @@ Drawbacks are gained either by choosing them or through the [background generato
 
 **Sentimental**: You are sentimental, and your thoughts often stray to the past at inappropriate times. You take a –2 penalty on Perception checks to avoid being surprised and on Reflex saving throws to avoid traps or hazards.
 
+**Umbral Unmasking**: You cast no shadow whatsoever, or the shadow you do have is monstrous. Under normal lighted conditions, this is not hard to observe—but uncommon to notice. Creatures that succeed at a DC 15 Wisdom check notice it plainly (an additional Perception check may be required based on environmental conditions). This telltale sign of wickedness cannot be concealed by misdirection, *nondetection*, or illusions, except those that also affect shadows (such as *invisibility*).
+
 **Vain**: You are sensitive about the way others perceive you. Whenever you fail an opposed Charisma-based check, you take a –2 penalty on all Charisma-based checks for the next 24 hours.
+
+**Warded Against Nature**: Animals do not willingly approach within 30 feet of you, unless you or the animal’s master succeeds at a DC 20 Handle Animal, Ride, or wild empathy check. Animal companions, familiars, and mounts granted by your class abilities are immune to this effect.
 
 **Xenophobic**: You have a hard time understanding and trusting those with unfamiliar ways and appearances. You take a –2 penalty on Diplomacy and Sense Motive checks made against creatures of a different race or from a different culture.
 

@@ -10,6 +10,8 @@ The following evolutions cost 1 point from the eidolon’s evolution pool.
 
 **Bite (Ex)**: An eidolon’s maw is full of razor-sharp teeth, giving it a bite attack. This attack is a primary attack. The bite deals 1d6 points of damage (1d8 if Large, 2d6 if Huge). If the eidolon already has a bite attack, this evolution allows it to deal 1-1/2 times its Strength modifier on damage rolls made with its bite.
 
+**Bleed (Ex)**: An eidolon gains the ability to inflict bleeding wounds. Select one type of attack. Attacks of that type deal 1d6 points of bleed damage. This evolution can be selected more than once. Each time an eidolon selects this evolution, it applies to a different attack. The bleed effect doesn’t stack.
+
 **Claws (Ex)**: An eidolon has a pair of vicious claws at the end of its limbs, giving it two claw attacks. These attacks are primary attacks. The claws deal 1d4 points of damage (1d6 if Large, 1d8 if Huge). The eidolon must have the limbs evolution to take this evolution. This evolution can only be applied to the limbs (legs) evolution once This evolution can be selected more than once, but the eidolon must possess an equal number of the limbs evolution.
 
 **Climb (Ex)**: An eidolon becomes a skilled climber, gaining a climb speed equal to its base speed. This evolution can be selected more than once. Each additional time it is selected, increase the eidolon’s climb speed by 20 feet.
@@ -43,6 +45,10 @@ This evolution can be selected more than once. Its effects do not stack. Each ti
 **Skilled (Ex)**: An eidolon becomes especially adept at a specific skill, gaining a +8 racial bonus on that skill. This evolution can be selected more than once. Its effects do not stack. Each time an eidolon selects this evolution, it applies to a different skill.
 
 **Slam (Ex)**: An eidolon can deliver a devastating slam attack. This attack is a primary attack. The slam deals 1d8 points of damage (2d6 if Large, 2d8 if Huge). The eidolon must have the limbs (arms) evolution to take this evolution. Alternatively, the eidolon can replace the claws from its base form with this slam attack (this still costs 1 evolution point). This evolution can be selected more than once, but the eidolon must possess an equal number of the limbs evolution.
+
+**Slippery (Ex)**: Due to its slimy hide or a slick exoskeleton, the eidolon is especially slippery. The eidolon gains a +4 bonus to CMD to escape a grapple and on Escape Artist checks.
+
+**Sticky (Ex)**: The eidolon is especially sticky, whether from a coating of adhesive slime, partially congealed blood, or tiny barbed spines. The eidolon gains a +4 bonus on combat maneuver checks to initiate or maintain a grapple.
 
 **Sting (Ex)**: An eidolon possesses a long, barbed stinger at the end of its tail, granting it a sting attack. This attack is a primary attack. The sting deals 1d4 points of damage (1d6 if Large, 1d8 if Huge). The eidolon must possess the tail evolution to take this evolution. This evolution can be selected more than once, but the eidolon must possess an equal number of the tail evolution.
 
@@ -88,6 +94,8 @@ Arms that have hands can be used to wield weapons, if the eidolon is proficient.
 
 **Rend (Ex)**: An eidolon learns to rip and tear the flesh of those it attacks with its claws, gaining the rend ability. Whenever the eidolon makes two successful claw attacks against the same target in 1 round, its claws latch onto the flesh and deal extra damage. This damage is equal to the damage dealt by one claw attack plus 1-1/2 times the eidolon’s Strength modifier. The eidolon must possess the claws evolution to select this evolution. The summoner must be at least 6th level before selecting this evolution.
 
+**Sickening (Ex)**: The eidolon’s smell or appearance is so offensive it sickens nearby creatures. Any living creature except its summoner that approaches within 20 feet or begins its turn in that area is sickened for 1 round unless it succeeds at a Fortitude save (DC = 10 + 1/2 the eidolon’s HD + its Con modifier). Creatures that successfully save cannot be affected by the same eidolon’s sickening effect for 24 hours.
+
 **Trample (Ex)**: An eidolon gains the ability to crush its foes underfoot, gaining the trample ability. As a full-round action, the eidolon can overrun any creature that is at least one size smaller than itself. This works like the overrun combat maneuver, but the eidolon does not need to make a check, it merely has to move over opponents in its path. The creatures take 1d6 points of damage (1d8 if Large, 2d6 if Huge), plus 1-1/2 times the eidolon’s Strength modifier. Targets of the trample can make attacks of opportunity at a –4 penalty. If a target forgoes the attack of opportunity, it can make a Reflex save for half damage. The DC of this save is 10 + 1/2 the eidolon’s HD + the eidolon’s Strength modifier. A trampling eidolon can only deal trampling damage to a creature once per round. This evolution is only available to eidolons of the biped or quadruped base forms.
 
 **Tremorsense (Ex)**: An eidolon becomes attuned to vibrations in the ground, gaining tremorsense out to a range of 30 feet. This works like the blindsense evolution, but only if both the eidolon and the creature to be pinpointed are in contact with the ground. The summoner must be at least 7th level before selecting this evolution.
@@ -113,6 +121,12 @@ At 7th level, by spending 2 additional evolution points, this bonus on saves is 
 At 12th level, by spending 2 additional evolution points, this protection is increased to immunity against these attacks and the spell resistance is increased to 11 + its HD (the summoner must pay for the 7th-level upgrade before paying for this 12th-level upgrade). The summoner must be good-aligned to select this evolution.
 
 **Damage Reduction (Su)**: An eidolon’s body becomes resistant to harm, granting it damage reduction. Choose one alignment: chaotic, evil, good, or lawful. The eidolon gains DR 5 that can be bypassed by weapons that possess the chosen alignment. The alignment must be opposite to one of the alignments possessed by the eidolon. At 12th level, this protection can be increased to DR 10 by spending 2 additional evolution points. The summoner must be at least 9th level before selecting this evolution.
+
+**Fiendish Appearance (Ex)**: The eidolon appears as a fiendish creature and manifests some of the abilities of a fiend. Spells and effects that target creatures with the evil subtype or have specific effects against such creatures affect the eidolon as if it had that subtype. The eidolon gains a +2 bonus on saving throws against acid, disease, fire, and poison spells and effects. It also gains an amount of spell resistance equal to 5 + its HD against spells with the good descriptor. The summoner must be evil-aligned to select this evolution.
+
+At 7th level, by spending 2 additional evolution points, the summoner increases the bonus on saving throws to +4 and extends the spell resistance to affect any spells and spell-like abilities cast by good creatures.
+
+At 12th level, by spending 2 additional evolution points, the eidolon gains immunity to acid, disease, fire, and poison. Its spell resistance increases to an amount equal to 11 + its HD. (The summoner must pay for the 7th-level upgrade before paying for this 12th-level upgrade.)
 
 **Frightful Presence (Ex)**: An eidolon becomes unsettling to its foes, gaining the frightful presence ability. The eidolon can activate this ability as part of an offensive action, such as a charge or attack. Opponents within 30 feet of the eidolon must make a Will save or become shaken for 3d6 rounds. The DC of this save is equal to 10 + 1/2 the eidolon’s HD + the eidolon’s Charisma modifier. If the eidolon has at least 4 more Hit Dice than an opponent, that opponent becomes frightened instead. Foes with more HD than the eidolon are immune to this effect.
 

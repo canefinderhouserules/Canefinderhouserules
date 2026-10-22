@@ -57,6 +57,7 @@ New antipaladin spells from *Ultimate Magic*. Spells from other books will be ad
 - **[Protection from Good, Communal](protection-from-good-communal.md)**: As protection from good, but you may divide the duration among creatures touched.
 - **[Protection from Law, Communal](protection-from-law-communal.md)**: As protection from law, but you may divide the duration among creatures touched.
 - **[Sense Vitals](sense-vitals.md)**: Gain sneak attack with any manufactured weapon.
+- **[Shared Suffering](shared-suffering.md)**: Take damage to deal the same damage to a distant target.
 - **[Shifted Steps](shifted-steps.md)**: Make a target sound as if elsewhere.
 - **[Sickening Strikes](sickening-strikes.md)**: You are imbued with disease, and any creature you strike with a melee attack must make a Fortitude save or be.
 - **[Toxic Gift](toxic-gift.md)**: Target suffers the effect of a poison in you.

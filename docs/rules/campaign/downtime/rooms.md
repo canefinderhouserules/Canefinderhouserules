@@ -116,6 +116,15 @@ A Bedroom provides comfort and privacy for one to two people, and typically feat
 
 This two-story room contains one or more bells suitable for warnings or music, along with bell pulls for operating the instruments from below. The bells can be heard up to 1 mile away.
 
+### Blood Spa
+
+**Benefit**: temporary age penalty reduction  
+**Create**: 10 Goods, 4 Influence, 7 Labor, 6 Magic (1,060 gp); **Time**: 28 days  
+**Size**: 4–8 squares  
+**Upgrades From**: Bath
+
+This room houses a sumptuous tub and alchemical piping that allow a villain to alleviate some of the effects of aging by bathing in the blood of a freshly killed humanoid of less than middle age. The corpse is suspended over the tub via ceiling clamps that can be recessed out of sight in the ceiling. Bathing for an hour in this room reduces any ability score penalties from advanced age by 1 for a duration of 1 week and makes the bather appear younger. Multiple treatments stack. Each corpse provides enough blood for only 1 treatment.
+
 ### Book Repository
 
 **Earnings**: gp or Influence +8  
@@ -260,6 +269,16 @@ This retractable bridge spans a pit, moat, or similar danger, allowing you to co
 **Upgrades From**: Secret Room
 
 This is a hallway or tunnel leading to a hidden exit from the building. The exit door is typically a simple wooden door with an average lock (Disable Device DC 20 to open). Either or both ends of the hallway can be secret doors (Perception DC 20 to notice).
+
+### Execution Yard
+
+**Earnings**: Influence +10  
+**Benefit**: bonus on Intimidate checks  
+**Create**: 8 Goods, 2 Influence, 10 Labor (420 gp); **Time**: 24 days  
+**Size**: 20–40 squares  
+**Upgrades From**: Courtyard
+
+This open area is used to host public executions. The execution device, such as a headsman’s block or gallows, occupies a dais in the yard’s center. Surrounding it are viewing galleries for guests of assorted status and plenty of standing room for lower-class rabble. Gibbets or pikes around the yard display the condemned, granting a +3 bonus on Intimidate checks within the settlement to whoever publicly ordered the execution.
 
 ### False Front
 
