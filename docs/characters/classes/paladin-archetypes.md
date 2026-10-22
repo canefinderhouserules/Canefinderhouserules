@@ -764,3 +764,15 @@ Paladins of a god of self-perfection meditate on mastery and train relentlessly,
 **Divine Body (Su)**: Upon reaching 5th level, a paladin of perfection must form a bond with a weapon, except he can only choose to enhance his unarmed strike. This ability otherwise functions as and replaces divine bond.
 
 **Aura of Perfection (Su)**: At 11th level, whenever a paladin of perfection or ally within 10 feet would reroll a die and take the second result even if it is lower (via the good fortune ability of the Luck domain, for example), he can roll an additional die as part of the reroll and use the higher of the two as the result of the reroll. This ability functions only while the paladin is conscious, and replaces aura of justice.
+
+## Sword of Valor
+
+Some paladins revere a deity of valor who was once a mortal paladin herself, and those holy champions who follow her path seek to uphold her specific code of conduct in the hopes of honoring her name and destroying evil. Valor, justice, and honor are their lifeblood, and they would sooner cut out their own hearts than betray their comrades and faith.
+
+**Deity of Valor**: A sword of valor must have a deity of valor, honor, and justice as a patron deity.
+
+**First Into Battle (Su)**: At 2nd level, a sword of valor can spend 1 use of smite evil or lay on hands to act in the surprise round, even if she is surprised. When the paladin makes an Initiative check, she gains a bonus to the check equal to her Charisma bonus. This ability replaces divine grace.
+
+**Prayer of Valor (Su)**: At 6th level, by spending 1 minute leading a prayer to her deity, the sword of valor can spend one use of channel energy to give living creatures in the channel burst temporary hit points equal to the amount that ability normally heals. These temporary hit points last for no more than 1 hour. This replaces the paladin's mercy gained at 6th level.
+
+**Worthy Enemy (Su)**: At 11th level, when a sword of valor critically hits an enemy with a smite, the target must make a Will saving throw (DC = 10 + 1/2 the paladin's level + the paladin's Charisma bonus) or be compelled to surrender to the paladin, as if affected by a *suggestion* spell (CL = the paladin's level) to lay down arms and give up the fight. An enemy that succumbs to this ability remains docile until it is injured by the paladin or one of her obvious allies, at which point the compulsion to surrender immediately ends and the enemy is free to make his own choices again. If the enemy makes the save, it is not subject to this ability for 24 hours. Worthy enemy is a mind-affecting effect. This ability replaces aura of justice.

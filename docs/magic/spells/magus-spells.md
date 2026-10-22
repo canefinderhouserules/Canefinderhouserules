@@ -7,6 +7,7 @@ The magus class spell list appears on the [Magus](../../characters/classes/magus
 - **[Abjuring Step](abjuring-step.md)**: You can move slowly and safely and still cast spells, until you move quickly, make an attack, or cast a harmful spell.
 - **[Auditory Hallucination](auditory-hallucination.md)**: Create a phantasm with auditory effects.
 - **[Blend](blend.md)**: You draw upon your elven link to the wilderness to change the coloration of yourself and your equipment to.
+- **[Call Weapon](call-weapon.md)**: Pull an ally’s weapon into your hand.
 - **[Coin Shot](coin-shot.md)**: Turns coins into bullets.
 - **[Corrosive Touch](corrosive-touch.md)**: Touch attack deals 1d4 acid/level.
 - **[Desperate Weapon](desperate-weapon.md)**: Create an improvised weapon.
@@ -34,6 +35,7 @@ The magus class spell list appears on the [Magus](../../characters/classes/magus
 - **[Warding Weapon](warding-weapon.md)**
 - **[Waterproof](waterproof.md)**: Renders an object or creature’s gear waterproof.
 - **[Wave Shield](wave-shield.md)**: Water blunts one incoming attack or fire effect.
+- **[Weaponwand](weaponwand.md)**: Merge a wand with a weapon to wield both.
 - **[Web Bolt](web-bolt.md)**: School conjuration (creation); Level magus 1, sorcerer/wizard 1, witch 1 Casting Time 1 standard action.
 - **[Windy Escape](windy-escape.md)**: You respond to an attack by briefly becoming vaporous and insubstantial, allowing the attack to pass.
 
@@ -44,6 +46,7 @@ The magus class spell list appears on the [Magus](../../characters/classes/magus
 - **[Anticipate Thoughts](anticipate-thoughts.md)**: Gain increasing bonuses to AC and on attack rolls and damage rolls against one creature.
 - **[Arcane Disruption](arcane-disruption.md)**: Subject must make concentration checks to use arcane magic.
 - **[Bestow Weapon Proficiency](bestow-weapon-proficiency.md)**: Grants a creature proficiency in a single weapon for short period of time.
+- **[Bladed Dash](bladed-dash.md)**: Dash 30 feet and attack one foe along the way.
 - **[Blood Blaze](blood-blaze.md)**: School transmutation [fire]; Level alchemist 2, antipaladin 1, cleric 2, magus 2, sorcerer/wizard 2, witch 2.
 - **[Blood Transcription](blood-transcription.md)**: Learn a spell from the target’s blood.
 - **[Body Double](body-double.md)**: Two creatures look alike; attacks may hit the wrong one.
@@ -99,6 +102,7 @@ The magus class spell list appears on the [Magus](../../characters/classes/magus
 - **[Prehensile Pilfer](prehensile-pilfer.md)**: School transmutation; Level alchemist 3, bard 3, magus 3, sorcerer/wizard 3 Casting Time 1 standard action.
 - **[Resilient Reservoir](resilient-reservoir.md)**: School transmutation; Level magus 3, paladin 3, sorcerer/wizard 4, witch 4 Casting Time 1 standard action.
 - **[Selective Invisibility](selective-invisibility.md)**: Invisible, except to one chosen creature you may attack.
+- **[Shining Cord](shining-cord.md)**: Silver cord links you and a foe; blasts the one who moves away.
 - **[Sickening Strikes](sickening-strikes.md)**: You are imbued with disease, and any creature you strike with a melee attack must make a Fortitude save or be.
 - **[Twisted Innards](twisted-innards.md)**: Crits and sneak attacks may fail.
 - **[Undead Anatomy I](undead-anatomy-i.md)**: Take the form and some of the powers of a Small or Medium undead.
@@ -114,6 +118,7 @@ The magus class spell list appears on the [Magus](../../characters/classes/magus
 - **[Controlled Fireball](controlled-fireball.md)**: As *fireball,* but secretly deals less damage to your allies.
 - **[Ethereal Fists](ethereal-fists.md)**: Your claws, unarmed strikes, and touch spells affect ethereal creatures.
 - **[Fey Form I](fey-form-i.md)**: Assume the form of a Small or Medium fey creature.
+- **[Forceful Strike](forceful-strike.md)**: Melee hit deals extra force damage and bull rush.
 - **[Illusion of Treachery](illusion-of-treachery.md)**: Make it seem like another is also responsible for your attacks.
 - **[Instant Fake](instant-fake.md)**: Provide a short-term replica of an object.
 - **[Monstrous Physique II](monstrous-physique-ii.md)**: Take the form and some of the powers of a Tiny or Large monstrous humanoid.
@@ -136,10 +141,12 @@ The magus class spell list appears on the [Magus](../../characters/classes/magus
 ## 5th-Level Magus Spells
 
 - **[Acidic Spray](acidic-spray.md)**: 1d6/level acid damage plus 1 round of acid.
+- **[Bladed Dash, Greater](bladed-dash-greater.md)**: Dash 30 feet and attack all foes along the way.
 - **[Conjure Deadfall](conjure-deadfall.md)**: Drop a spiked metal block on creatures below.
 - **[Corrosive Consumption](corrosive-consumption.md)**: Acidic patch damages an opponent.
 - **[Glimpse of Truth](glimpse-of-truth.md)**: Gain *true seeing* for 1 round.
 - **[Grease, Greater](grease-greater.md)**: As grease, but covers much more.
+- **[Impart Mind](impart-mind.md)**: Grant a magic item temporary intelligence and powers.
 - **[Monstrous Physique III](monstrous-physique-iii.md)**: Take the form and some of the powers of a Diminutive or Huge monstrous humanoid.
 - **[Ooze Form I](ooze-form-i.md)**: Assume the form of a Small or Medium ooze creature.
 - **[Parchment Swarm](parchment-swarm.md)**

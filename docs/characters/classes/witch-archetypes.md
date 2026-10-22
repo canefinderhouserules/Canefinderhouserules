@@ -497,3 +497,25 @@ Some witches find their spark of magic in the long, dark shadows and forgotten p
 **Speak to the City**: An alley witch builds a special rapport with a single city. At 1st level, she can select one settlement whose type is large town size or larger. Within this settlement, she gains a +2 bonus on initiative checks, as well as Knowledge (local), Perception, Stealth, and Sense Motive checks. At 6th level and every 5 witch levels thereafter, this bonus increases by 2. The alley witch can build a rapport with a new city after 30 days of remaining there; this severs her bond to her previous settlement. This ability replaces the witch's 1st-level hex.
 
 **Hex Trader**: At 6th level, once per day as a full-round action, an alley witch can bind a hex she knows into a feather, bead, or other small token. Any creature holding this token can use that hex once as if using a potion, targeting itself or a creature it touches. While a hex is sealed into a token, the alley witch loses her ability to use that hex until the token is used or she can recover the token. If a hex can be used in increments (like the disguise hex), the alley witch decides how many increments the token contains when making it. If a hex has no set duration, it lasts for 1 minute once activated. This ability replaces the witch's 6th-level hex.
+
+## Winter Witch
+
+Some witches are bound to a realm of perpetual winter and possess a unique power stemming from their otherworldly origin and ties to cold magic. This power is partly magical, partly political, and partly cultural. Known as winter witches, these practitioners have not coveted or hidden their secrets, for they understand that those who see winter witches work their frozen magic will simply assume the witch works for the frozen realm. By opening their traditions to those who have no blood connection, they spread the notoriety and infamy of their magic far beyond what they could accomplish on their own.
+
+**Familiar**: Winter witches must choose a familiar that is native to the frozen north, even when they themselves operate in other regions. Traditionally, this limits winter witch familiar choices to bat, cat, fox, hawk, owl, rat, raven, or weasel. A winter witch who gains the Improved Familiar feat can select any familiar she desires, save for familiars with the fire subtype.
+
+**Cantrips**: A winter witch adds *ray of frost* to her spell list, but does not automatically learn this cantrip.
+
+**Patron**: A winter witch must choose her patron from one of the following patron themes: ancestors, deception, enchantment, endurance, moon, occult, portents, stars, transformation, trickery, vengeance, water, winter, or wisdom.
+
+**Ice Magic**: When a winter witch casts a spell with the cold descriptor, the save DC of the spell increases by +1. A winter witch cannot learn or cast spells with the fire descriptor at all.
+
+**Cold Flesh (Ex)**: At 1st level, a winter witch gains *endure elements* as a constant spell-like ability, but only against cold temperatures. At 4th level, she gains cold resistance 5, making her comfortable in near-freezing temperatures. At 9th level, this increases to cold resistance 10, and at 14th level, it becomes immunity to cold. This replaces the witch's 4th-level hex.
+
+**Hexes**: The following hexes complement the winter witch archetype: beast eye, blight, cook people, evil eye, feral speech, hag's eye, hoarfrost, ice tomb, witch's hut.
+
+A winter witch can select the following hexes:
+
+**Frostfoot (Su)**: This ability works like the *spider climb* spell, but the surfaces the witch climbs must be icy. The witch can move across icy surfaces without penalty and does not need to make Acrobatics checks to run or charge on ice. She can move across regular snow without penalty, and heavy snow only costs her 2 squares of movement instead of 4.
+
+**Frozen Caress (Su)**: Whenever the winter witch casts a touch spell, she can infuse the magic with cold as a swift action. This grants the spell the cold descriptor, and adds 1d4 points of cold damage to the spell's effect. If the touch spell allows a saving throw, a successful save negates this additional cold damage.

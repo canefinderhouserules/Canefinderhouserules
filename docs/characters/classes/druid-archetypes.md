@@ -1029,3 +1029,23 @@ Additionally, at 4th level, when the druid creates additional concoctions, she n
 At 7th level, when the druid creates concoctions with potential false identification results, a creature attempting to identify the concoction must exceed the identification DC by 10 or more to determine the concoction’s true identity.
 
 Additionally, at 7th level, a druid can create any herbal concoction in 1 minute. She can also create a special concoction of any spell higher than 3rd level that she can cast, but to do so, she must expend a spell slot of the same level. These special concoctions do not cost her anything to create and function like extracts created by an alchemist with the infusion discovery.
+
+## Tempest Druid
+
+Some druids come to worship the storm as an aspect of pure elemental fury in the world. Tempest druids seek not to venerate it, but to study and learn its mysteries so they can survive it, and use this knowledge to protect themselves and others in storm-wracked wilderness.
+
+**Armor and Weapon Proficiencies**: A tempest druid is proficient with the trident. This is in addition to the armor and weapon proficiencies of a normal druid.
+
+**Spontaneous Domain Casting**: A tempest druid can channel stored spell energy into domain spells that she has not prepared ahead of time. She can "lose" a prepared spell in order to cast any domain spell of the same level or lower. This replaces the druid's normal ability to spontaneously cast summon spells.
+
+**Nature Bond (Ex)**: A tempest druid may not choose an animal companion, and must instead select a domain when she gains the Nature Bond ability. A tempest druid must choose the Air or Weather domain, the Cloud, Storm, or Wind subdomain, or the Aquatic or Swamp domain.
+
+**Sodden Shore Sense (Ex)**: A tempest druid gains a +4 bonus on Knowledge (nature) and Survival checks in coastal and marshy lands. This ability replaces nature sense.
+
+**Electrical Resistance (Ex)**: At 3rd level, a tempest druid gains electricity resistance 5. As a standard action, she can transfer this resistance to another creature for 1 hour, after which time it reverts to her. This ability replaces trackless step.
+
+**Eyes of the Storm (Ex)**: At 4th level, a tempest druid can see through 10 feet of magical fog, mist, gas, wind, rain, or similar inclement weather conditions, ignoring any concealment it might grant. This distance increases by 5 feet for every 4 levels beyond 4th. This ability replaces resist nature's lure.
+
+**Bend Bolt (Su)**: At 9th level, a tempest druid can redirect nearby electrical attacks. As an immediate action, the druid can shift the area or target of an electricity attack by 5 feet in any direction. If the electricity affects an area, the druid selects one square to be unaffected and an adjacent square to be affected (if this square is already in the area, this has no additional effect in that area). If the electricity affects a target, the druid selects an adjacent target. She cannot redirect electricity damage conducted to her by physical contact with an object or creature (such as a *shocking grasp* or a shock weapon). She can use this ability a number of times per day equal to her Charisma bonus.
+
+For example, if she were in the line of a wizard's *lightning bolt*, she could have the spell skip her square and instead affect an adjacent square, even if this meant the spell did not form a continuous line. If another druid attacked her with *call lightning*, she could shift the targeted bolt to an adjacent square, hitting a creature in that square (if any). This ability replaces venom immunity.

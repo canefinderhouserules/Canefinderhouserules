@@ -170,6 +170,7 @@
 - **[Fins to Feet](fins-to-feet.md)**: School transmutation (polymorph); Level druid 3, sorcerer/wizard 3, witch 3 Casting Time 1 standard action.
 - **[Flashfire](flashfire.md)**: Cause smoky fires to spring up to burn foes and set them alight.
 - **[Hunter's Friend](hunters-friend.md)**: Share ranger class abilities with your companion.
+- **[Ice Spears](ice-spears.md)**: Icy spears deal piercing and cold damage and trip foes.
 - **[Improve Trap](improve-trap.md)**: When this spell is cast upon a trap, it improves one specific element of the trap chosen at the time of.
 - **[Insect Spies](insect-spies.md)**: Use magic beetles as spies.
 - **[Iron Stake](iron-stake.md)**: Hurl a spike of cold iron at a foe.
@@ -204,6 +205,7 @@
 - **[Tail Current](tail-current.md)**: Create a current in water to enhance or impede swimming.
 - **[Tailwind](tailwind.md)**: Create a current of wind to enhance or impede flight.
 - **[Toxic Rupture](toxic-rupture.md)**: A poisonous creature is poisoned by its own venom.
+- **[Vengeful Comets](vengeful-comets.md)**: Orbiting comets protect from fire and retaliate against casters.
 - **[Ward of the Season](ward-of-the-season.md)**: This spell harnesses the power of the seasons to protect the target and grant a number of bonuses.
 - **[Water Breathing](water-breathing.md)**: Subjects can breathe underwater.
 - **[Wind Wall](wind-wall.md)**: Deflects arrows, smaller creatures, and gases.
@@ -217,6 +219,7 @@
 - **[Air Walk](air-walk.md)**: Subject treads on air as if solid (climb or descend at 45-degree angle).
 - **[Animal Ambassador](animal-ambassador.md)**: Grant an animal messenger sentience to deliver your message.
 - **[Antiplant Shell](antiplant-shell.md)**: Keeps animated plants at bay.
+- **[Blast Barrier](blast-barrier.md)**: Unstable wall that explodes for damage.
 - **[Blast of Wind](blast-of-wind.md)**: Gust of wind that treats creatures as one size smaller.
 - **[Blight](blight.md)**: Withers one plant or deals 1d6/level damage to plant creature.
 - **[Borrow Corruption](borrow-corruption.md)**: Temporarily gain the effects of a corrupted creature’s manifestations.
@@ -237,6 +240,7 @@
 - **[Giant Vermin](giant-vermin.md)**: Turns centipedes, scorpions, or spiders into giant vermin.
 - **[Healing Warmth](healing-warmth.md)**: This spell grants you temporary immunity to fire damage as protection from energy.
 - **[Ice Storm](ice-storm.md)**: Hail deals 5d6 damage in cylinder 40 ft. across.
+- **[Kiss of the First World](kiss-of-the-first-world.md)**: Fast healing for the living; debilitates undead.
 - **[Life Blast](life-blast.md)**: Drain life from local vegetation to launch a blast of positive energy.
 - **[Obsidian Flow](obsidian-flow.md)**: Converts the surface of the ground into molten glass. Spells 6 Protection from Energy, Communal: As protection from energy, but you may divide the duration among creatures touched.
 - **[Phantom Hunt](phantom-hunt.md)**: You and your companion gain senses, speed, and fast tracking.
@@ -254,6 +258,7 @@
 - **[Sword to Snake](sword-to-snake.md)**: An item bites whoever handles it.
 - **[Watchful Animal](watchful-animal.md)**: Your animal companion or familiar becomes a scrying sensor.
 - **[Wooden Wing Shield](wooden-wing-shield.md)**: Your wings become a barrier granting a +4 shield bonus to AC.
+- **[Zone of Foul Flames](zone-of-foul-flames.md)**: Casters take full damage from their own fire effects.
 
 ## 5th-Level Druid Spells
 
@@ -274,6 +279,7 @@
 - **[Die for Your Master](die-for-your-master.md)**: Companion intercepts any attack against you.
 - **[Entice Fey, Lesser](entice-fey-lesser.md)**: Entice service from a fey of 6 Hit Dice or fewer.
 - **[Fey Form II](fey-form-ii.md)**: Assume the form of a Tiny or Large fey creature.
+- **[Geniekind](geniekind.md)**: Gain genie-themed appearance and powers.
 - **[Glimpse of Truth](glimpse-of-truth.md)**: Gain *true seeing* for 1 round.
 - **[Half-blood Extraction](half-blood-extraction.md)**: You transform the target half-orc into a full-blooded orc.
 - **[Hallow](hallow.md)**: Designates location as holy.

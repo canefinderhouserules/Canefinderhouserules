@@ -28,6 +28,10 @@ The prestige classes presented in this chapter are summarized below.
 
 **[Battle Herald](battle-herald.md)**: A veteran whose masterful tactics and air of command inspire allies to greater feats of heroism.
 
+**[Cyphermage](cyphermage.md)**: An arcane scholar of runes and written magic who masters scrolls, glyphs, and ancient lore.
+
+**[Divine Scion](divine-scion.md)**: A spellcaster chosen by her deity, whose domain and alignment-opposed foes shape her power.
+
 **[Faithless Enforcer](faithless-enforcer.md)**: A lawful investigator who hunts hidden cults and purges divine influence from lands that outlaw religion.
 
 **[Genie Binder](genie-binder.md)**: A conjurer who seals and commands genies, either as an eidolon-like minion or as a source of spellcasting power.

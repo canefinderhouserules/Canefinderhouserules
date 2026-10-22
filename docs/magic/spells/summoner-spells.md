@@ -99,8 +99,10 @@ New summoner spells from *Ultimate Magic*. Spells from other books will be added
 
 - **[Conjure Black Pudding](conjure-black-pudding.md)**: Summon a black pudding.
 - **[Create Demiplane, Lesser](create-demiplane-lesser.md)**: Create your own demiplane.
+- **[Eaglesoul](eaglesoul.md)**: Combat bonuses against evil creatures, especially evil outsiders.
 - **[Energy Siege Shot](energy-siege-shot.md)**: A Large siege engine deals energy damage that you designate with other effects depending on the type of energy you choose.
 - **[Flesh Wall](flesh-wall.md)**: Create a wall of zombies.
+- **[Geniekind](geniekind.md)**: Gain genie-themed appearance and powers.
 - **[Grease, Greater](grease-greater.md)**: As grease, but covers much more.
 - **[Ice Crystal Teleport](ice-crystal-teleport.md)**: Target is frozen, then teleported.
 - **[Life Conduit, Greater](life-conduit-greater.md)**: You transfer 3d6 hit points to your eidolon as a swift action.

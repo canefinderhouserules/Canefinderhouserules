@@ -117,3 +117,5 @@ The following text is the property of Wizards of the Coast, Inc. and is Copyrigh
     Pathfinder Player Companion: Heroes of the Street © 2015, Paizo Inc.; Authors: John Compton, Mikko Kallio, Nicolas Logue, Michael McCarthy, Mike Myler, and David N. Ross.
 
     Pathfinder Campaign Setting: Inner Sea Combat © 2014, Paizo Inc.; Authors: Dennis Baker, Jesse Benner, John Compton, and Thurston Hillman.
+
+    Pathfinder Campaign Setting: Inner Sea Magic © 2011, Paizo Publishing, LLC; Authors: Jesse Benner, Jason Nelson, Sean K Reynolds, Owen K.C. Stephens, Russ Taylor.

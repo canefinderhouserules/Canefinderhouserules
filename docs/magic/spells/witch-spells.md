@@ -57,6 +57,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Summon Minor Monster](summon-minor-monster.md)**: Summon 1d3 Tiny animals.
 - **[Theft Ward](theft-ward.md)**: You ward a single object in your possession against theft.
 - **[Touch of Combustion](touch-of-combustion.md)**: Your successful melee touch attack causes the target to ignite in a violent burst of flame, dealing 1d6.
+- **[Transfer Tattoo](transfer-tattoo.md)**: Move a magic tattoo between creatures.
 - **[Undine’s Curse](undine-s-curse.md)**: The target loses its body’s natural ability to breathe automatically.
 - **[Unerring Weapon](unerring-weapon.md)**: Grants a +2 bonus, +1 per four caster levels, on attack rolls to confirm a critical hit.
 - **[Unprepared Combatant](unprepared-combatant.md)**: Target takes –4 on initiative and Reflex saves.
@@ -103,6 +104,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Diminish Resistance](diminish-resistance.md)**: Weaken a creature’s resistance to one energy type.
 - **[Disrupt Link](disrupt-link.md)**: Sever the link between a creature and her companion or familiar.
 - **[Dress Corpse](dress-corpse.md)**: Doctor the evidence on a corpse.
+- **[Eldritch Conduit](eldritch-conduit.md)**: Use an enemy as the origin point of an area spell.
 - **[Enemy’s Heart](enemy-s-heart.md)**: You cut out an enemy’s heart and consume it, absorbing that enemy’s power as your own.
 - **[Enshroud Thoughts](enshroud-thoughts.md)**: Ward yourself against thought detection and memory alteration.
 - **[Familiar Figment](familiar-figment.md)**: Illusory duplicate of your familiar gives a 50% miss chance.
@@ -148,6 +150,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Steal Breath](steal-breath.md)**: You pull the breath from a creature’s lungs, dealing damage and leaving it unable to speak, use breath.
 - **[Steal Voice](steal-voice.md)**: Target gains the croaking spellblight.
 - **[Symbol of Mirroring](symbol-of-mirroring.md)**: Triggered rune creates mirror images.
+- **[Tattoo Potion](tattoo-potion.md)**: Turn a potion into a spell tattoo.
 - **[Thunder Fire](thunder-fire.md)**: Ammunition in the targeted firearm deafens opponents.
 - **[Unnatural Lust](unnatural-lust.md)**: Target is compelled to kiss or caress another.
 - **[Unshakable Chill](unshakable-chill.md)**: Target is afflicted with severe cold.
@@ -193,6 +196,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Healing Thief](healing-thief.md)**: You siphon half of all magical healing that the targeted creature receives.
 - **[Hostile Levitation](hostile-levitation.md)**: Levitates the targeted creature up off the ground.
 - **[Howling Agony](howling-agony.md)**: Screaming pain limits the target’s actions.
+- **[Ice Spears](ice-spears.md)**: Icy spears deal piercing and cold damage and trip foes.
 - **[Improve Trap](improve-trap.md)**: When this spell is cast upon a trap, it improves one specific element of the trap chosen at the time of.
 - **[Inflict Pain](inflict-pain.md)**: Target takes a –4 penalty on attack rolls, skill checks, and ability checks.
 - **[Insect Scouts](insect-scouts.md)**: Vermin investigate a location and grant rerolls on related skill checks.
@@ -209,6 +213,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Paragon Surge](paragon-surge.md)**: You surge with ancestral power, temporarily embodying all the strengths of both elvenkind and humankind.
 - **[Phantasmal Affliction](phantasmal-affliction.md)**: Convince a target that it contracted an affliction.
 - **[Pocketful of Vipers](pocketful-of-vipers.md)**: Ward a container with summoned vipers.
+- **[Pugwampi’s Grace](pugwampis-grace.md)**: Target rolls 2d20 and takes the lower result.
 - **[Pup Shape](pup-shape.md)**: Transforms a single animal or magical beast into a younger and cuter version of itself for a short time.
 - **[Raging Rubble](raging-rubble.md)**: You animate an area of rubble, gravel, or other small stones, creating a dangerous, rolling area of debris.
 - **[Rain of Frogs](rain-of-frogs.md)**: Summon a swarm of poisonous frogs.
@@ -239,11 +244,13 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Age Resistance, Lesser](age-resistance-lesser.md)**: Ignore penalties from middle age.
 - **[Assume Appearance, Greater](assume-appearance-greater.md)**: Use a likeness to adopt a dead creature’s form.
 - **[Bite the Hand](bite-the-hand.md)**: Summoned creature attacks its summoner.
+- **[Blast Barrier](blast-barrier.md)**: Unstable wall that explodes for damage.
 - **[Borrow Corruption](borrow-corruption.md)**: Temporarily gain the effects of a corrupted creature’s manifestations.
 - **[Cape of Wasps](cape-of-wasps.md)**: Wasp swarm defends or carries you.
 - **[Complex Hallucination](complex-hallucination.md)**: Create a phantasm with effects for all senses.
 - **[Conditional Curse](conditional-curse.md)**: Bestow a curse that is difficult to remove without fulfilling a condition.
 - **[Conjuration Foil](conjuration-foil.md)**: Interfere with nearby teleportation effects.
+- **[Corpse Hammer](corpse-hammer.md)**: Hurl a mass of destroyed undead at foes.
 - **[Curse of Magic Negation](curse-of-magic-negation.md)**: Target gains the negated spellblight.
 - **[Curse Terrain](curse-terrain.md)**: Curse an area with four hazards.
 - **[Daze, Mass](daze-mass.md)**: As daze, but affecting multiple creatures.
@@ -308,6 +315,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Duplicate Familiar](duplicate-familiar.md)**: Create a temporary duplicate of a familiar.
 - **[Empathy Conduit](empathy-conduit.md)**: Affect a bonded creature by targeting its master, or vice versa.
 - **[Flesh Puppet Horde](flesh-puppet-horde.md)**: Control multiple zombies in human guise.
+- **[Ghoul Army](ghoul-army.md)**: Ghouls and a ghast rise to fight for you and explode.
 - **[Glimpse of Truth](glimpse-of-truth.md)**: Gain *true seeing* for 1 round.
 - **[Half-blood Extraction](half-blood-extraction.md)**: You transform the target half-orc into a full-blooded orc.
 - **[Hostile Juxtaposition](hostile-juxtaposition.md)**: You create a dimensional link with a targeted creature, and switch spots with it.
@@ -323,6 +331,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Possession](possession.md)**: Project your soul into a creature’s body.
 - **[Red Hand of the Killer](red-hand-of-the-killer.md)**: Stain the hand of a creature’s killer red.
 - **[Sessile Spirit](sessile-spirit.md)**: Cause a spirit inhabiting a creature or an object to go dormant.
+- **[Siphon Magic](siphon-magic.md)**: Transfer a spell effect from a touched creature to you.
 - **[Sleepwalking Suggestion](sleepwalking-suggestion.md)**: Cause a creature to perform a suggested action while asleep.
 - **[Slough](slough.md)**: Slough off a target’s skin.
 - **[Smug Narcissism](smug-narcissism.md)**: Target is distracted by its sense of self.
@@ -350,6 +359,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Curse Terrain, Greater](curse-terrain-greater.md)**: Curse an area with six dangerous hazards.
 - **[Delectable Flesh](delectable-flesh.md)**: Creatures near the target become depraved and attack it to feast.
 - **[Dust Form](dust-form.md)**: You become an incorporeal creature of dust for a short period of time.
+- **[Eldritch Conduit, Greater](eldritch-conduit-greater.md)**: Use multiple enemies as origin points for area spells.
 - **[Epidemic](epidemic.md)**: Infect a subject with a highly contagious disease.
 - **[Fey Form II](fey-form-ii.md)**: Assume the form of a Tiny or Large fey creature.
 - **[Flesh Wall](flesh-wall.md)**: Create a wall of zombies.

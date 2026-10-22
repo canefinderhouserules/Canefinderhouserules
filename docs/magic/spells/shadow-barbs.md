@@ -1,0 +1,15 @@
+# Shadow Barbs
+
+**School** illusion (shadow) [darkness]; **Level** cleric 4, inquisitor 4, sorcerer/wizard 4  
+**Casting Time** 1 standard action  
+**Components** V, S, M (a single link from a spiked chain)  
+**Range** 0 ft.  
+**Effect** spiked chain-like shadowy weapon  
+**Duration** 1 round/level  
+**Saving Throw** Will negates (see text); **Spell Resistance** no
+
+When you cast this spell, you create a shadowy spiked chain that shimmers and pulses with darkness. The chain exists as long as you carry it; if you ever drop the chain, give it to another, or are disarmed, it immediately vanishes and the spell’s duration ends.
+
+The chain radiates darkness in a 10-foot-radius spread around you, reducing the illumination level in this area by one step, but not below the level of dim light.
+
+You can wield the shadow barbs as a spiked chain as if you were fully proficient with spiked chains. Any additional abilities or feats that you possess that apply to spiked chains apply to the shadow barbs as well. The weapon functions as a +2 vicious spiked chain. Its enhancement bonus increases to +3 at caster level 11th, to +4 at caster level 15th, and finally to +5 at caster level 19th. When the spell effect ends, you can make a Will save against the spell—if successful, all of the damage caused to you by the shadow barbs’ vicious weapon quality vanishes, unless you are dead or unconscious at the time the spell ends, in which case you automatically fail this Will save and the vicious weapon damage remains.

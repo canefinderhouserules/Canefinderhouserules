@@ -1611,6 +1611,8 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Extra Impromptu Sneak Attack](extra-impromptu-sneak-attack.md) | Combat | Impromptu sneak attack class feature |
 | [Extra Item Slot](extra-item-slot.md) | — | Non-humanoid body shape |
 | [Eye for Ingredients](eye-for-ingredients.md) | — | Eschew Materials, Appraise 6 ranks, Spellcraft 6 ranks |
+| [False Casting](false-casting.md) | — | Magical Aptitude, Bluff 1 rank, Sleight of Hand 1 rank |
+| [False Focus](false-focus.md) | — | Knowledge (religion) 1 rank, ability to cast arcane spells |
 | [Familiar Bond](familiar-bond.md) | — | Iron Will |
 | [Familiar Focus](familiar-focus.md) | — | Familiar |
 | [Familiar Spell](familiar-spell.md) | Metamagic | Spellcaster with familiar class feature |
@@ -1691,6 +1693,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Incite Paranoia](incite-paranoia.md) | Combat | Int 13, Combat Expertise, Deceitful, Greater Feint, Improved Feint, base attack bonus +6 |
 | [Inerrant Justice](inerrant-justice.md) | Story | See text |
 | [Infiltrator](infiltrator.md) | Story | See text |
+| [Inscribe Magical Tattoo](inscribe-magical-tattoo.md) | Item Creation | Craft (calligraphy, paintings, or tattoos) 5 ranks, caster level 5th |
 | [Insidious Healing](insidious-healing.md) | — | — |
 | [Insightful Advice](insightful-advice.md) | — | Perform (oratory) 3 ranks |
 | [Inspired Sneak Attack](inspired-sneak-attack.md) | Combat | Inspiration pool; sneak attack or studied strike class feature |
@@ -1815,6 +1818,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Sense Assumptions](sense-assumptions.md) | — | Sense Motive 3 ranks |
 | [Sense Loyalties](sense-loyalties.md) | — | Knowledge (nobility) 1 rank, Knowledge (religion) 1 rank |
 | [Sense Relationships](sense-relationships.md) | — | Street Smarts |
+| [Shadow Gambit](shadow-gambit.md) | — | Spell Focus (illusion), caster level 5th |
 | [Shadows of Fear](shadows-of-fear.md) | Combat | Hidden strike +2d8 or sneak attack +2d6 |
 | [Shared Quarry](shared-quarry.md) | Combat | Hunter’s bond class feature, quarry class feature |
 | [Shield Brace](shield-brace.md) | Shield Mastery | Shield Focus; base attack bonus +3 or fighter level 1st; proficiency with light shields, heavy shields, or tower shields |

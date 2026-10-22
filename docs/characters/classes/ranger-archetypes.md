@@ -884,3 +884,19 @@ Elite military academies may teach their students the handling and riding of hip
 **Hippogriff Companion**: At 2nd level, a hippogriff marine adds Monstrous Mount (see [Monstrous Mounts](../../rules/combat/monstrous-mounts.md)) to the list of bonus feats made available to him by his chosen combat style, regardless of the style chosen. He can only use this feat to select a hippogriff mount. If he does so, he treats his ranger level – 1 as his effective druid level. A marine who takes this option does not gain the hunter's bond class feature at 4th level.
 
 At 6th level, a hippogriff marine adds Monstrous Mount Mastery to the list of available bonus feats granted by his chosen combat style. If he takes this feat as his 6th-level combat style bonus feat, note that he must wait until 8th level before he meets the effective druid level prerequisite to utilize his mount's mastery abilities.
+
+## Forest Irregular
+
+Forested lands are often known for their rangers—skilled trackers, marksmen, and silent stalkers under the leafy canopy. Where there is no formal military, defense falls to individual scouts and small groups of allied commandos. Many such rangers take the guide or skirmisher archetypes, but some focus on the magic of stealth. These irregular troops fight against frequent invasions, striking quickly and melting into the green shadows as soon as their opponents rally themselves for a counterattack.
+
+**Weapon and Armor Proficiency**: A forest irregular is proficient with all simple and martial weapons and with light armor. This replaces the normal ranger armor and weapon proficiency.
+
+**Focused Enemy (Ex)**: At 1st level, a forest irregular selects one favored enemy (usually "humanoid [human]"). He does not gain additional favored enemies at higher levels. He does get to increase his favored enemy bonus by +2 at 5th, 10th, 15th, and 20th level. This otherwise acts as and replaces the standard favored enemy ability.
+
+**Forest Ghost (Ex)**: At 1st level, a forest irregular adds a bonus equal to 1/2 his level on all Perception and Survival skill checks he makes while located in forest terrain. This ability replaces wild empathy.
+
+**Focused Terrain (Ex)**: At 3rd level, a forest irregular selects one favored terrain (usually "forest"). He does not gain additional favored terrains at higher levels. He does get to increase his favored terrain bonus by +2 at 8th, 13th, and 18th level. This otherwise acts as and replaces the standard favored terrain ability.
+
+**Spells**: At 4th level, a forest irregular increases his number of spells per day by +1 for every spell level. This means the irregular gets at least 1 spell per day as soon as he gains access to a level of spells, even if the ranger table lists 0 for spells per day.
+
+A forest irregular also learns to draw upon druidic magic, perhaps from association with druids or a natural connection to the magic of the forest. Each day when the ranger prepares spells, he may choose one druid spell and prepare it as if it were on the ranger spell list as a ranger spell of its druid spell level.

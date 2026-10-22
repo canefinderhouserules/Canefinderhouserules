@@ -517,3 +517,27 @@ At 8th level, the storm caller’s eidolon can have the flight evolution even if
 At 10th level, the storm caller automatically gains the flight evolution without reducing the number of evolution points available to the eidolon. He can use the aspect ability (and at 18th level, the greater aspect ability) to gain additional evolutions.
 
 This ability replaces maker’s call and transposition.
+
+## First Worlder
+
+Most summoners have a close connection to creatures from the farthest reaches of the planes. A few have a primal connection to nature, and their power is tied to the First World. It is not unusual for these summoners to associate with druids, for like druids, first worlders have a powerful tie to the natural world. Some first worlders are driven half-mad by the strange energies and intelligences that seep into their minds and bodies, though, and these poor souls are prone to lash out at loggers, druids, or innocent passersby without considering whether or not they are threats. A first worlder's eidolon usually resembles a fey creature or a plant monster, though some are fantastic otherworldly animals with exaggerated features.
+
+**Summon Nature's Ally (Sp)**: Starting at 1st level, a first worlder can cast *summon nature's ally* a number of times per day equal to 3 + his Charisma modifier. At levels where a summoner would gain a more powerful *summon monster* spell as a spell-like ability, he instead gains the equivalent *summon nature's ally* spell (at 19th level, he can use *summon nature's ally IX* or *gate*). When a first worlder gains a *summon nature's ally* spell as a spell-like ability, he adds it to his class spell list (he must still select it as a spell known if he wants to cast it as an actual spell). This ability otherwise replaces the summon monster ability of a normal summoner.
+
+**Fey Summons (Su)**: At 3rd level, a first worlder adds the following creatures to the lists of what he can summon with his *summon nature's ally* spell-like ability: *summon nature's ally II*: gremlin (jinkin, pugwampi, or vexgit); *summon nature's ally III*: gremlin (nuglub); *summon nature's ally IV*: unicorn; *summon nature's ally V*: pixie, satyr; *summon nature's ally VII*: nymph.
+
+**Eidolon**: Instead of an outsider, a first worlder's eidolon has the fey creature type and the extraplanar subtype. Its statistics are changed from a standard eidolon as follows.
+
+**Hit Dice**: d6 Hit Die (instead of d10).
+
+**BAB**: Equal to 1/2 the eidolon's Hit Dice.
+
+**Good/Bad Saves**: The eidolon's good saves are always Reflex and Will.
+
+**Skills**: The eidolon's class skills are Acrobatics, Bluff, Climb, Craft, Diplomacy, Disguise, Escape Artist, Fly, Knowledge (geography), Knowledge (nature), Perception, Perform, Sense Motive, Sleight of Hand, Stealth, Swim, and Use Magic Device.
+
+**Senses**: The eidolon gains low-light vision instead of darkvision. The summoner can grant the eidolon darkvision 60 ft. as a 1-point evolution.
+
+**Damage Reduction**: If the first worlder chooses this evolution, he may select DR/cold iron instead of one of the alignment-based types of damage reduction.
+
+This otherwise works like and replaces the eidolon ability of a normal summoner.

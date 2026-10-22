@@ -864,3 +864,29 @@ Oracles and sorcerers gain their magical powers through strange and mysterious w
 **Seeker Lore (Ex)**: By 3rd level, a seeker has already learned much about his bloodline, and is more comfortable using the bonus spells gained by that bloodline. He gains a +4 bonus on all concentration checks, on caster level checks made to overcome spell resistance, and on all Knowledge (arcana) and Spellcraft checks made on topics associated with his bonus spells. This ability replaces the bloodline power gained at 3rd level.
 
 **Seeker Magic (Su)**: At 15th level, a seeker becomes skilled at modifying his bloodline spells with metamagic. When a seeker applies a metamagic feat to any bonus spells granted by his bloodline, he reduces the metamagic feat’s spell level adjustment by 1. Thus, applying a metamagic feat like Still Spell to a spell does not change its effective spell level at all, while applying Quicken Spell only increases the spell’s effective spell level by 3 instead of by 4. This reduction to the spell level adjustment for metamagic feats does not stack with similar reductions from other abilities. This ability replaces the bloodline power gained at 15th level.
+
+## Sham Priest
+
+The so-called "priests" of certain self-proclaimed living gods are magical charlatans—missionary servants who spread their master's fervent devotion wherever they travel. Altered by their patron's magic, they can perform feats impossible for other sorcerers.
+
+**False Piety (Ex)**: At 1st level, a sham priest gains Knowledge (religion) and Perform as class skills, but loses Appraise and Fly as class skills. He adds half his sorcerer level to Use Magic Device checks to activate spell trigger and spell completion items that use divine spells. He gains [False Focus](../../rules/feats/false-focus.md) as a bonus feat. In addition to replacing Appraise and Fly as class skills, this ability replaces the sorcerer's Eschew Materials bonus feat.
+
+**Lay Healer (Su)**: At 3rd level, the sham priest adds *aid* to his list of spells known as a 2nd-level spell. At 5th level, he adds *remove disease* to his list of spells known as a 3rd-level spell. This ability replaces the bloodline spells gained at 3rd level and 5th level respectively.
+
+**False Channel (Su)**: At 9th level, the sham priest can use his own magic to power spell completion and spell trigger items that use divine spells. He expends a sorcerer spell slot that is at least 1 level higher than the level of the spell he's trying to activate, then makes a Use Magic Device check. If he succeeds, the item's spell occurs and the item or charge is not expended. If he fails, nothing happens. Whether he succeeds or fails, his spell slot is expended. This ability replaces the bloodline power gained at 9th level.
+
+## Tattooed Sorcerer
+
+The tattooed sorcerer has embraced an ancient tradition of spellcasting that uses colorful and intricate tattoos to enhance her magical powers.
+
+**Familiar Tattoo (Su)**: A tattooed sorcerer gains a familiar as an arcane bond, as a wizard equal to her sorcerer level. Her sorcerer levels stack with any wizard or witch levels she possesses when determining the powers of her familiar—this ability does not allow her to have both a familiar and a bonded item.
+
+Unlike most familiars, her familiar can transform itself into a tattoo that she carries in her flesh. Transforming into a tattoo or back to normal familiar form is a move action for her familiar. In tattoo form, the familiar looks like a stylized version of itself, but does not count as a creature separate from the tattooed sorcerer. In tattoo form it continues to grant its special familiar ability, but otherwise has no abilities and can take no actions except to transform from tattoo into creature. A familiar tattoo cannot be erased or dispelled. This ability replaces her 1st-level bloodline power.
+
+**Tattoo Focus (Ex)**: At 1st level, the tattooed sorcerer gains Spell Focus as a bonus feat, choosing the school of magic it enhances (the tattoo that represents it is visible on her body). This ability replaces her Eschew Materials bonus feat.
+
+**Bloodline Tattoos (Ex)**: Whenever a tattooed sorcerer gains a bloodline spell, a new tattoo manifests on her body to represent this spell. Her bloodline spells are always enhanced by her Tattoo Focus, even if they don't match the school to which her Tattoo Focus belongs.
+
+**Create Spell Tattoo (Su)**: At 7th level, a tattooed sorcerer can create a spell tattoo (see [Inscribe Magical Tattoo](../../rules/feats/inscribe-magical-tattoo.md)) once per day with a single touch as a standard action. The recipient of the spell tattoo must be willing to receive it. If she gives the spell tattoo to herself, it does not count against the regular limit of magic tattoos she can have. The spell tattoo must be of a spell that she knows that has no material or focus component. She can maintain one spell tattoo created by this ability at a time—if she uses this ability again, the previous spell tattoo she created fades away. Spell tattoos she creates with Inscribe Magical Tattoo do not count against this limit. She can use this ability twice per day at 11th level, and three times per day at 15th level. This ability replaces the bloodline feat gained at 7th level.
+
+**Enhanced Tattoo (Su)**: At 9th level, the tattooed sorcerer can pick any one spell she knows that belongs to the school of her Tattoo Focus. This spell must be one that lacks focus components and costly material components. She can now use that spell as a spell-like ability once per day. This spell-like ability functions at +2 caster levels above her sorcerer caster level. Whenever she gains a bloodline power at a later date, she may change this spell-like ability to another qualifying spell. This ability replaces the 9th-level bloodline power.

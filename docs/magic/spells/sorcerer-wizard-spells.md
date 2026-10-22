@@ -120,6 +120,7 @@
 - **[Summon Monster I](summon-monster-i.md)**: Summons extraplanar creature to fight for you.
 - **[Theft Ward](theft-ward.md)**: You ward a single object in your possession against theft.
 - **[Touch of Combustion](touch-of-combustion.md)**: Your successful melee touch attack causes the target to ignite in a violent burst of flame, dealing 1d6.
+- **[Transfer Tattoo](transfer-tattoo.md)**: Move a magic tattoo between creatures.
 - **[Undine’s Curse](undine-s-curse.md)**: The target loses its body’s natural ability to breathe automatically.
 - **[Unerring Weapon](unerring-weapon.md)**: Grants a +2 bonus, +1 per four caster levels, on attack rolls to confirm a critical hit.
 - **[Unseen Servant](unseen-servant.md)**: Invisible force obeys your commands.
@@ -217,10 +218,12 @@
 - **[Diminish Resistance](diminish-resistance.md)**: Weaken a creature’s resistance to one energy type.
 - **[Disrupt Link](disrupt-link.md)**: Sever the link between a creature and her companion or familiar.
 - **[Dress Corpse](dress-corpse.md)**: Doctor the evidence on a corpse.
+- **[Eldritch Conduit](eldritch-conduit.md)**: Use an enemy as the origin point of an area spell.
 - **[Endure Elements, Communal](endure-elements-communal.md)**: As endure elements, but you may divide the duration among creatures touched.
 - **[Escaping Ward](escaping-ward.md)**: This ward grants you extra maneuverability when you avoid attacks against larger foes.
 - **[Familiar Figment](familiar-figment.md)**: Illusory duplicate of your familiar gives a 50% miss chance.
 - **[Fiery Shuriken](fiery-shuriken.md)**
+- **[Fleshcurdle](fleshcurdle.md)**: Mutate limbs to hamper attacks, defense, or movement.
 - **[Flickering Lights](flickering-lights.md)**: Create an area of inconsistent lighting.
 - **[Frost Fall](frost-fall.md)**: The area is covered in a chilling frost.
 - **[Garden of Peril](garden-of-peril.md)**: Poisonous mushrooms sicken nearby creatures.
@@ -280,6 +283,7 @@
 - **[Summon Monster II](summon-monster-ii.md)**: Summons extraplanar creature to fight for you.
 - **[Summon Swarm](summon-swarm.md)**: Summons swarm of bats, rats, or spiders.
 - **[Tactical Acumen](tactical-acumen.md)**: You gain an additional +1 on attack rolls or to AC due to battlefield positioning.
+- **[Tattoo Potion](tattoo-potion.md)**: Turn a potion into a spell tattoo.
 - **[Telekinetic Assembly](telekinetic-assembly.md)**
 - **[Thunder Fire](thunder-fire.md)**: Ammunition in the targeted firearm deafens opponents.
 - **[Touch of Mercy](touch-of-mercy.md)**: Target deals only nonlethal damage with weapon attacks.
@@ -364,6 +368,7 @@
 - **[Audiovisual Hallucination](audiovisual-hallucination.md)**: Create a phantasm with auditory and visual effects.
 - **[Aversion](aversion.md)**: Cause the target to avoid an object or location.
 - **[Babble](babble.md)**: Target becomes nauseated and nearby creatures become fascinated.
+- **[Blast Barrier](blast-barrier.md)**: Unstable wall that explodes for damage.
 - **[Bleed for Your Master](bleed-for-your-master.md)**: Compel a companion to take damage for you.
 - **[Blood Scent](blood-scent.md)**: School transmutation; Level alchemist 3, antipaladin 2, cleric 3, druid 3, inquisitor 3, ranger 2.
 - **[Catatonia](catatonia.md)**: Make a willing target appear to be dead.
@@ -392,6 +397,7 @@
 - **[Guarding Knowledge](guarding-knowledge.md)**: +4 insight bonus on saves against one identified monster special attack.
 - **[Healing Thief](healing-thief.md)**: You siphon half of all magical healing that the targeted creature receives.
 - **[Hostile Levitation](hostile-levitation.md)**: Levitates the targeted creature up off the ground.
+- **[Ice Spears](ice-spears.md)**: Icy spears deal piercing and cold damage and trip foes.
 - **[Improve Trap](improve-trap.md)**: When this spell is cast upon a trap, it improves one specific element of the trap chosen at the time of.
 - **[Inflict Pain](inflict-pain.md)**: Target takes a –4 penalty on attack rolls, skill checks, and ability checks.
 - **[Insect Scouts](insect-scouts.md)**: Vermin investigate a location and grant rerolls on related skill checks.
@@ -418,6 +424,7 @@
 **Conjuration**
 
 - **[Phantom Steed](phantom-steed.md)**: Magic horse appears for 1 hour/level.
+- **[Pugwampi’s Grace](pugwampis-grace.md)**: Target rolls 2d20 and takes the lower result.
 - **[Pup Shape](pup-shape.md)**: Transforms a single animal or magical beast into a younger and cuter version of itself for a short time.
 - **[Raging Rubble](raging-rubble.md)**: You animate an area of rubble, gravel, or other small stones, creating a dangerous, rolling area of debris.
 - **[Resinous Skin](resinous-skin.md)**: You gain DR 5/piercing and +4 to CMD against disarm attempts.
@@ -460,6 +467,7 @@
 - **[Toxic Rupture](toxic-rupture.md)**: A poisonous creature is poisoned by its own venom.
 - **[Twisted Innards](twisted-innards.md)**: Crits and sneak attacks may fail.
 - **[Urban Step](urban-step.md)**: Step into one doorway and out another.
+- **[Vengeful Comets](vengeful-comets.md)**: Orbiting comets protect from fire and retaliate against casters.
 - **[Voluminous Vocabulary](voluminous-vocabulary.md)**: Grant ability to speak, read, and write one or more languages for 8 hours.
 - **[Wall of Mist](wall-of-mist.md)**: Wall of fog granting concealment and hindering movement.
 - **[Wall of Nausea](wall-of-nausea.md)**: Wall of distorted images nauseates creatures passing through.
@@ -512,6 +520,7 @@
 - **[Conjure Deadfall](conjure-deadfall.md)**: Drop a spiked metal block on creatures below.
 - **[Contingent Venom](contingent-venom.md)**: As *languid venom*, but with a triggering condition.
 - **[Controlled Fireball](controlled-fireball.md)**: As *fireball,* but secretly deals less damage to your allies.
+- **[Corpse Hammer](corpse-hammer.md)**: Hurl a mass of destroyed undead at foes.
 - **[Create Holds](create-holds.md)**: Creates a path of climbing handholds on a wall.
 - **[Curse Terrain](curse-terrain.md)**: Curse an area with four hazards.
 - **[Deadman’s Contingency](deadmans-contingency.md)**: Set one of a list of contingencies for your demise.
@@ -560,6 +569,7 @@
 - **[Riding Possession](riding-possession.md)**: As possession, but you observe instead of control the subject.
 - **[Rigor Mortis](rigor-mortis.md)**: Painfully swell a target’s joints.
 - **[Rising Water](rising-water.md)**: Conjures a cylinder of calm, swimmable water.
+- **[Shadow Barbs](shadow-barbs.md)**: Shadowy vicious spiked chain that radiates darkness.
 - **[Shadowy Haven](shadowy-haven.md)**: This spell functions like rope trick, except the point of entry is through a 5-foot-square instead of a rope.
 - **[Share Shape](share-shape.md)**: Beast shape II, limited to your companion's or familiar's kind.
 - **[Shocking Image](shocking-image.md)**: As mirror image, but the duplicates emit electrical damage when destroyed.
@@ -594,6 +604,7 @@
 - **[Ice Storm](ice-storm.md)**: Hail deals 5d6 damage in cylinder 40 ft. across.
 - **[Resilient Sphere](resilient-sphere.md)**: Force globe protects but traps one subject.
 - **[Shout](shout.md)**: Deafens all within cone and deals 5d6 sonic damage.
+- **[Suppress Primal Magic](suppress-primal-magic.md)**: Prevent primal magic events in a small area.
 - **[Sword to Snake](sword-to-snake.md)**: An item bites whoever handles it.
 - **[Tail Current](tail-current.md)**: Create a current in water to enhance or impede swimming.
 - **[Tailwind](tailwind.md)**: Create a current of wind to enhance or impede flight.
@@ -663,6 +674,8 @@
 - **[Energy Siege Shot](energy-siege-shot.md)**: A Large siege engine deals energy damage that you designate with other effects depending on the type of energy you choose.
 - **[False Future](false-future.md)**: Cause divinations of the future to reveal the result you choose.
 - **[Flesh Puppet Horde](flesh-puppet-horde.md)**: Control multiple zombies in human guise.
+- **[Geniekind](geniekind.md)**: Gain genie-themed appearance and powers.
+- **[Ghoul Army](ghoul-army.md)**: Ghouls and a ghast rise to fight for you and explode.
 - **[Glimpse of Truth](glimpse-of-truth.md)**: Gain *true seeing* for 1 round.
 - **[Grease, Greater](grease-greater.md)**: As grease, but covers much more.
 - **[Half-blood Extraction](half-blood-extraction.md)**: You transform the target half-orc into a full-blooded orc.
@@ -692,9 +705,11 @@
 - **[Secret Chest](secret-chest.md)**: Hides expensive chest on Ethereal Plane; you retrieve it at will.
 - **[Sequester Thoughts](sequester-thoughts.md)**: Store a creature’s memories in a gem.
 - **[Shapechanger’s Gift](shapechangers-gift.md)**: Temporarily change a target into an animal, humanoid, or monstrous humanoid.
+- **[Siphon Magic](siphon-magic.md)**: Transfer a spell effect from a touched creature to you.
 - **[Sleepwalking Suggestion](sleepwalking-suggestion.md)**: Cause a creature to perform a suggested action while asleep.
 - **[Slough](slough.md)**: Slough off a target’s skin.
 - **[Soulswitch](soulswitch.md)**: Swap souls with your familiar.
+- **[Spell Absorption](spell-absorption.md)**: Counterspell a low-level spell to regain a spell.
 - **[Stoneskin, Communal](stoneskin-communal.md)**
 - **[Straitjacket](straitjacket.md)**: Restrain a creature’s arms and grant it a second saving throw against certain magic.
 - **[Summon Monster V](summon-monster-v.md)**: Summons extraplanar creature to fight for you.
@@ -788,6 +803,7 @@
 - **[Delectable Flesh](delectable-flesh.md)**: Creatures near the target become depraved and attack it to feast.
 - **[Dispel Magic, Greater](dispel-magic-greater.md)**: As *dispel magic*, but with multiple targets.
 - **[Dream Scan](dream-scan.md)**: Read a dreaming creature’s thoughts.
+- **[Eldritch Conduit, Greater](eldritch-conduit-greater.md)**: Use multiple enemies as origin points for area spells.
 - **[Energy Siege Shot, Greater](energy-siege-shot-greater.md)**: As energy siege shot, but you can affect any size siege engine.
 - **[Explode Head](explode-head.md)**: Explode the head of a creature with 20 hp or fewer and deal damage in a 10-ft. radius around it.
 - **[Fey Form II](fey-form-ii.md)**: Assume the form of a Tiny or Large fey creature.
@@ -795,6 +811,7 @@
 - **[Globe of Invulnerability](globe-of-invulnerability.md)**: As *lesser globe of invulnerability*, plus 4th-level spell effects.
 - **[Guards and Wards](guards-and-wards.md)**: Array of magic effects protect area.
 - **[Illusion of Treachery, Greater](illusion-of-treachery-greater.md)**: Make it seem like another is responsible for your attacks while concealing your own actions.
+- **[Impart Mind](impart-mind.md)**: Grant a magic item temporary intelligence and powers.
 - **[Mage’s Decree](mages-decree.md)**: Send a message to creatures within miles.
 - **[Mind Swap](mind-swap.md)**: Switch minds with another creature for 1 hour per level.
 - **[Named Bullet, Greater](named-bullet-greater.md)**: As named bullet, but deals 2 points of damage per caster level.
@@ -896,6 +913,7 @@
 - **[Hollow Heroism, Greater](hollow-heroism-greater.md)**: Provide a *greater* *heroism* effect that you can reverse at any time.
 - **[Hostile Juxtaposition, Greater](hostile-juxtaposition-greater.md)**: You may target one creature for every four of your caster levels.
 - **[Hunger for Flesh, Mass](hunger-for-flesh-mass.md)**: Give creatures bite attacks and a hunger for their own kind’s flesh.
+- **[Hungry Darkness](hungry-darkness.md)**: Deeper darkness that gnaws for force and Con damage.
 - **[Inflict Pain, Mass](inflict-pain-mass.md)**: As inflict pain, but affecting one creature per level.
 - **[Insect Spies, Greater](insect-spies-greater.md)**: Use magic beetles as spies and also share their senses.
 - **[Magical Beast Shape](magical-beast-shape.md)**: Assume the form of a magical beast.
@@ -987,6 +1005,7 @@
 - **[Life of Crime](life-of-crime.md)**: Permanently turn someone into a crazed criminal.
 - **[Mind Blank](mind-blank.md)**: Subject is protected from mental/emotional magic and scrying.
 - **[Possession, Greater](possession-greater.md)**: As possession, but your body vanishes.
+- **[Primal Scar](primal-scar.md)**: Infuse an area with primal magic.
 - **[Prismatic Wall](prismatic-wall.md)**: Wall’s colors have array of effects.
 - **[Protection from Spells](protection-from-spells.md)**: Confers +8 resistance bonus.
 
@@ -995,6 +1014,7 @@
 - **[Incendiary Cloud](incendiary-cloud.md)**: Cloud deals 6d6 fire damage/round.
 - **[Maze](maze.md)**: Traps subject in extradimensional maze.
 - **[Planar Binding, Greater](planar-binding-greater.md)**: As *lesser planar binding,* but up to 18 HD.
+- **[Spell Absorption, Greater](spell-absorption-greater.md)**: Counterspell a 6th-level or lower spell to regain a spell.
 - **[Summon Monster VIII](summon-monster-viii.md)**: Summons extraplanar creature to fight for you.
 - **[Trap the Soul](trap-the-soul.md)**: Imprisons subject within gem.
 
@@ -1067,6 +1087,7 @@
 - **[Refuge](refuge.md)**: Alters item to transport its possessor to your abode.
 - **[Resplendent Mansion](resplendent-mansion.md)**: Conjure an opulent mansion several stories tall.
 - **[Scribe’s Binding](scribes-binding.md)**: Bind a creature and its memories into a book.
+- **[Spellbane](spellbane.md)**: Block selected spells within an emanation.
 - **[Summon Monster IX](summon-monster-ix.md)**: Summons extraplanar creature to fight for you.
 - **[Teleportation Circle](teleportation-circle.md)**: Teleports creatures inside circle.
 

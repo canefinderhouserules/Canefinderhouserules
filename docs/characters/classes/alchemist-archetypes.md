@@ -832,3 +832,27 @@ Grenadiers train to exercise their talents in the thick of battle, even when not
 **Directed Blast (Su)**: At 6th level, a grenadier can detonate a bomb so that it splashes in a 20-foot cone rather than affecting a radius. The cone starts at the alchemist and extends away from her in the direction she chooses. The alchemist designates one creature in the squares affected by the cone to be the target of the bomb and makes her attack roll against that creature; all other squares in the cone take splash damage. If the alchemist has the explosive bomb discovery and throws an explosive directed blast, the cone of splash damage is 30 feet long instead of 20 feet. This ability replaces swift poisoning.
 
 **Staggering Blast (Su)**: At 10th level, a grenadier’s bombs become particularly overwhelming when they explode. Whenever a grenadier scores a successful critical hit with a bomb, the creature directly struck by that bomb is staggered for 1d4+1 rounds. A successful Fortitude save (DC equals the bomb’s Reflex save DC to avoid splash damage) reduces the duration to 1 round. The effects of this ability stack with a frost bomb’s staggering effect, but not with the effects of the Staggering Critical feat. Additional hits from a staggering blast add to the effect’s overall duration. This ability replaces poison immunity.
+
+## Crypt Breaker
+
+Crypt breakers use their powers of perception and alchemical adaptation to safely investigate the mysteries of ancient lands. They are often involved in expeditions into dangerous tombs and catacombs, where their ability to create alchemical devices designed to neutralize constructs and undead are often crucial to survival.
+
+**Alkahest Bombs (Su)**: A crypt breaker's bombs are specially designed to work best against constructs and corporeal undead—two foes commonly encountered in ancient tombs. Known as alkahest bombs, these bombs deal acid damage instead of fire damage. Alkahest is an alchemical fluid that eats away unliving flesh and animated constructs, but it doesn't work as well against other targets. Against constructs and corporeal undead, alkahest bombs deal 1d8 points of damage, plus 1d8 points of damage for every odd-numbered level instead of 1d6. Against all other creatures, alkahest bombs deal 1d4 points of damage, plus 1d4 points of force damage for every odd-numbered level. This ability otherwise functions as and replaces the standard alchemist bomb class feature.
+
+**Crypt Breaker's Draught (Su)**: Rather than develop mutagens that increase their natural armor and physical abilities at the expense of their minds, crypt breakers focus on the creation of special draughts that can enhance their senses. When a crypt breaker drinks one of these draughts, he gains a +4 bonus on all Perception checks and gains one of the following special senses: darkvision 60 feet, low-light vision, or scent. While under the effects of a crypt breaker's draught, the alchemist also gains light blindness. This ability replaces the mutagen class ability (a crypt breaker cannot create mutagens unless he selects the mutagen discovery).
+
+**Trapfinding**: A crypt breaker adds 1/2 his level on Perception checks made to locate traps and to Disable Device checks (minimum +1). A crypt breaker can use Disable Device to disarm magic traps. When determining the ability of a crypt breaker to deal with locks or traps, treat his alchemist levels as rogue levels. This ability replaces the Brew Potion bonus feat.
+
+**Discoveries**: A crypt breaker may take the following rogue talents as discoveries: quick disable, trap sense, and trap spotter. Treat the crypt breaker's alchemist level as his rogue level for these talents.
+
+**Enhanced Alkahest (Su)**: At 14th level, a crypt breaker's alkahest grows more potent. Against constructs and corporeal undead, the crypt breaker's alkahest bombs deal +1 points of damage per die, and the bomb threatens a critical hit on a 19–20. This does not stack with other effects that improve critical hit threat ranges. This ability replaces persistent mutagen.
+
+## Fleshforge Researcher
+
+Centers of advanced magical lore produce alchemists incredibly skilled at making potions, elixirs, and other materials crucial to the local economy and its monster-creating fleshforges.
+
+**Discoveries**: The following discoveries complement the fleshforge researcher archetype: acid bomb, bottled ooze, feral mutagen, infuse mutagen, infusion, sunlight bomb.
+
+**Experimental Mutagen (Su)**: At 2nd level, a fleshforge researcher learns how to create an experimental mutagen that benefits others, though not as well as his normal mutagen. The experimental mutagen works just like a standard mutagen, except the natural armor bonus and the alchemical bonus to the ability score are half normal (+1 natural armor bonus and +2 to one ability score). The experimental mutagen has no risk of nauseating a creature who drinks it. The researcher decides when he creates the mutagen if it is a standard mutagen (which gives no benefit if another creature drinks it) or an experimental mutagen (which does); there is no difference in the cost, time to create, or any other aspect of the mutagen. If the researcher has discoveries or other abilities that alter or increase the benefits of the mutagen, these apply to the experimental mutagen (though the drinker only gets half the numerical bonus of the mutagen). This ability replaces poison use.
+
+**Acid Resistance (Ex)**: At 3rd level, a fleshforge researcher gains acid resistance 5. This ability replaces swift alchemy.

@@ -29,6 +29,7 @@
 - **[Aphasia](aphasia.md)**: Prevent a target from understanding language.
 - **[Auditory Hallucination](auditory-hallucination.md)**: Create a phantasm with auditory effects.
 - **[Blend with Surroundings](blend-with-surroundings.md)**: Target looks like an object and hides easily while still.
+- **[Call Weapon](call-weapon.md)**: Pull an ally’s weapon into your hand.
 - **[Cause Fear](cause-fear.md)**: One creature of 5 HD or less flees for 1d4 rounds.
 - **[Charm Person](charm-person.md)**: Makes one person your friend.
 - **[Cloak of Secrets](cloak-of-secrets.md)**: Bubble disguises speech and spell components.
@@ -84,12 +85,14 @@
 - **[Summon Monster I](summon-monster-i.md)**: Summons extraplanar creature to fight for you.
 - **[Tamer’s Lash](tamers-lash.md)**: Create a whip made of sound that damages foes and can frighten animals.
 - **[Toilsome Chant](toilsome-chant.md)**: School enchantment (compulsion)[mind-affecting]; Level bard 1 Casting Time see text Components V, S Range.
+- **[Transfer Tattoo](transfer-tattoo.md)**: Move a magic tattoo between creatures.
 - **[Undetectable Alignment](undetectable-alignment.md)**: Conceals alignment for 24 hours.
 - **[Unseen Servant](unseen-servant.md)**: Invisible force obeys your commands.
 - **[Urban Grace](urban-grace.md)**: You become one with the city around you, allowing you to move more easily through its crowds and buildings.
 - **[Velvet Diplomacy](velvet-diplomacy.md)**: Intimidate a target into friendliness and cloud its memory of the threats.
 - **[Ventriloquism](ventriloquism.md)**: Throws voice for 1 min./level.
 - **[Waterproof](waterproof.md)**: Renders an object or creature’s gear waterproof.
+- **[Weaponwand](weaponwand.md)**: Merge a wand with a weapon to wield both.
 - **[Windy Escape](windy-escape.md)**: You respond to an attack by briefly becoming vaporous and insubstantial, allowing the attack to pass.
 - **[Wizened Appearance](wizened-appearance.md)**: Make a target appear as an older version of itself.
 
@@ -107,6 +110,7 @@
 - **[Beloved of the Forge](beloved-of-the-forge.md)**: Sense of direction home; luck on Craft.
 - **[Bestow Insight](bestow-insight.md)**: Component V, S Range touch Target one creature touched Duration 1 minute/level When casting this spell.
 - **[Billowing Skirt](billowing-skirt.md)**: A skirt or gown slows your fall.
+- **[Bladed Dash](bladed-dash.md)**: Dash 30 feet and attack one foe along the way.
 - **[Blessing of Liberty](blessing-of-liberty.md)**: Luck against movement impairment.
 - **[Blindness/Deafness](blindness-deafness.md)**: Makes subject blind or deaf.
 - **[Blistering Invective](blistering-invective.md)**: Make an Intimidate check against all foes within 30 feet; those demoralized also take fire damage.
@@ -161,6 +165,7 @@
 - **[Passing Fancy](passing-fancy.md)**: Target becomes obsessed with a topic you choose.
 - **[Pilfering Hand](pilfering-hand.md)**: You may seize an object or manipulate it from afar.
 - **[Psychic Reading](psychic-reading.md)**: Read surface thoughts to learn information about a subject.
+- **[Pugwampi’s Grace](pugwampis-grace.md)**: Target rolls 2d20 and takes the lower result.
 - **[Pyrotechnics](pyrotechnics.md)**: Turns fire into blinding light or choking smoke.
 - **[Qualm](qualm.md)**: Target gains penalties on ability checks, skill checks, and concentration checks until it spends an entire round doing nothing.
 - **[Quick Change](quick-change.md)**: Use change shape as a swift action and surprise foes.
@@ -182,6 +187,7 @@
 - **[Summon Monster II](summon-monster-ii.md)**: Summons extraplanar creature to fight for you.
 - **[Summon Swarm](summon-swarm.md)**: Summons swarm of bats, rats, or spiders.
 - **[Tactical Acumen](tactical-acumen.md)**: You gain an additional +1 on attack rolls or to AC due to battlefield positioning.
+- **[Tattoo Potion](tattoo-potion.md)**: Turn a potion into a spell tattoo.
 - **[Thunder Fire](thunder-fire.md)**: Ammunition in the targeted firearm deafens opponents.
 - **[Tongues](tongues.md)**: Speak and understand any language.
 - **[Touch of Mercy](touch-of-mercy.md)**: Target deals only nonlethal damage with weapon attacks.
@@ -236,6 +242,7 @@
 - **[Mad Sultan’s Melody](mad-sultans-melody.md)**: Bizarre cacophony fascinates eldritch creatures.
 - **[Magic Aura, Greater](magic-aura-greater.md)**: As *magic aura*, but also affects creatures and allows more options.
 - **[Major Image](major-image.md)**: As *silent image*, plus sound, smell, and thermal effects.
+- **[Martial Marionette](martial-marionette.md)**: Control a foe’s limbs to hamper its attacks.
 - **[Meticulous Match](meticulous-match.md)**: Determine if two things are identical.
 - **[Minor Dream](minor-dream.md)**: School illusion (figment) [mind-affecting]; Level alchemist 2, bard 3, sorcerer/wizard 3, witch 2 Casting.
 - **[Mirage](mirage.md)**: Create illusory terrain.
@@ -290,6 +297,7 @@
 - **[Horrific Doubles](horrific-doubles.md)**: Call forth disturbing *mirror images*.
 - **[Insect Scouts](insect-scouts.md)**: Vermin investigate a location and grant rerolls on related skill checks.
 - **[Invisibility, Greater](invisibility-greater.md)**: As *invisibility,* but subject can attack and stay invisible.
+- **[Kiss of the First World](kiss-of-the-first-world.md)**: Fast healing for the living; debilitates undead.
 - **[Legend Lore](legend-lore.md)**: Lets you learn tales about a person, place, or thing.
 - **[Locate Creature](locate-creature.md)**: Indicates direction to known creature.
 - **[Majestic Image](majestic-image.md)**: As *enter image*, but also gain bonuses on social skills while in the image.
@@ -312,6 +320,7 @@
 - **[Speak with Plants](speak-with-plants.md)**: You can talk to plants and plant creatures.
 - **[Summon Monster IV](summon-monster-iv.md)**: Summons extraplanar creature to fight for you.
 - **[Truespeak](truespeak.md)**: You can communicate with any creature that is not mindless.
+- **[Verdant Song](verdant-song.md)**: Your bardic performance heals allies.
 - **[Vicarious View](vicarious-view.md)**: Plant a scrying sensor that you can use to spy on a creature, object, or location.
 - **[Vigilant Rest](vigilant-rest.md)**: Cause a sleeping creature to retain some perception of its surroundings.
 - **[Zone of Silence](zone-of-silence.md)**: Keeps eavesdroppers from overhearing you.
@@ -320,6 +329,7 @@
 
 - **[Archon’s Trumpet](archons-trumpet.md)**: Paralyze creatures in a cone with a booming report.
 - **[Befuddled Combatant](befuddled-combatant.md)**: Reduces a target’s ability DCs by 4 and its damage to minimum.
+- **[Bladed Dash, Greater](bladed-dash-greater.md)**: Dash 30 feet and attack all foes along the way.
 - **[Callback, Greater](callback-greater.md)**: Teleport a familiar or spirit animal from miles away to your side when it is injured.
 - **[Claim Identity, Greater](claim-identity-greater.md)**: As claim identity, but the target becomes a mask others can wear.
 - **[Compelling Rant](compelling-rant.md)**: People believe your ridiculous speech as long as you keep talking.
@@ -336,6 +346,7 @@
 - **[Mind Fog](mind-fog.md)**: Subjects in fog get –10 to Wis and Will checks.
 - **[Mirage Arcana](mirage-arcana.md)**: As *hallucinatory terrain,* plus structures.
 - **[Mislead](mislead.md)**: Turns you invisible and creates illusory double.
+- **[Music of the Spheres](music-of-the-spheres.md)**: Fast healing, resistance, and save bonuses for all in the area.
 - **[Nightmare](nightmare.md)**: Sends vision dealing 1d10 damage, fatigue.
 - **[Persistent Image](persistent-image.md)**: As *major image*, but no concentration required.
 - **[Phobia](phobia.md)**: Induce an irrational fear in a creature to the point of madness.

@@ -497,3 +497,67 @@ You can use this ability once per day. You must be 11th level to select this rev
 **The Streets Are Your Friend (Ex)**: As long as you are in an urban environment, you can call upon the city to help an ally within 30 feet succeed at a task. The ally gets a +2 competence bonus on skill checks with a particular skill as long as you concentrate. This bonus increases to +3 at 9th level, and to +4 at 15th level.
 
 **Final Revelation**: Upon reaching 20th level, you become an avatar of the city. When you speak the name of a creature and a city out loud, you know whether that creature is in that city. You can also learn about any settlement you are in at will; this functions as *commune with nature*, operating only in towns and settlements rather than natural terrain.
+
+## Primal Mystery
+
+Oracles of the primal mystery have been touched in some way by primal magic, likely due to exposure to the strange effects that run rampant in a region where magic flows in unpredictable tides. Alternatively, a primal oracle might simply be a person who was affected in her past by a [primal magic](../../magic/variant-magic.md) event.
+
+**Class Skills**: An oracle with the primal mystery adds Knowledge (arcana), Knowledge (nature), Survival, and Use Magic Device to her list of class skills.
+
+**Bonus Spells**: *Ray of enfeeblement* (2nd), *obscure object* (4th), *dispel magic* (6th), *lesser globe of invulnerability* (8th), *break enchantment* (10th), *antimagic field* (12th), *spell turning* (14th), *primal scar* (16th), *mage's disjunction* (18th).
+
+**Revelations**: An oracle with the primal mystery can choose from any of the following revelations.
+
+**Animate Primal Forces (Su)**: As a standard action, you can summon a single Small air, earth, fire, or water elemental to serve you. It remains for a number of rounds equal to your Charisma modifier. At 7th level, you can summon a Medium elemental. At 9th level, you can summon a Large elemental. You can use this ability once per day plus one additional time per day at 10th level. You must be at least 3rd level to select this revelation.
+
+**Eldritch Bolt (Su)**: You can damage foes with a bolt of raw magical energy. Make a ranged touch attack against any foe within 30 feet. On a hit, you deal 1d8 points of force damage, +1 point of damage per two oracle levels. At 10th level, the bolt's range increases to 60 feet. You may use this revelation a number of times per day equal to 3 + your Charisma modifier.
+
+**Eldritch Resistance (Su)**: You gain resistance 2 to acid, cold, electricity, fire, and sonic. This resistance increases to 5 at 5th level, 10 at 11th level, and 20 at 17th level.
+
+**Eldritch Scar (Su)**: Once per day when you damage a creature with a spell you cast, you may, as a swift action, cause your magic to leave an eldritch scar upon that creature. An eldritch scar appears as a normal scar, save that it flickers with faint radiance of a color of your choice. The next time that creature casts a spell, uses a spell-like ability, or activates a magic item, it triggers a primal magic event of a CR equal to your caster level. This causes the eldritch scar to vanish. A creature can be marked by only one eldritch scar at a time (a more powerful one replaces a weaker one). An eldritch scar fades automatically after 24 hours. It can be removed before that point via any effect capable of removing a curse (the curse's level equals your caster level), but if an attempt to remove an eldritch scar fails, that attempt triggers a primal magic event—an event triggered this way does not cause the eldritch scar to fade. You must be at least 7th level to select this revelation.
+
+**Magic Penetration (Ex)**: You gain a +2 bonus on any caster level check made to dispel or remove a magic effect (such as when using the *dispel magic* or *remove curse* spell). If you are 9th level or higher, the bonus increases to +4.
+
+**Mystic Null (Ex)**: You gain a +2 insight bonus on saves against spells and spell-like abilities. At 7th level, this bonus also applies on saves against supernatural abilities. At 11th level, the bonus increases to +4.
+
+**Primal Manipulation (Su)**: Whenever you cast a spell that deals acid, cold, electricity, or fire damage, you may change it to deal one of the other listed damage types. You may use this ability once per day, plus one additional time for every 5 levels. At 15th level, you can change a spell to deal sonic damage, though the damage is halved. At 20th level, you can change a spell to deal force damage, though the damage is halved. You must be at least 7th level to select this revelation.
+
+**Primal Mastery (Su)**: Whenever a spell you cast triggers a primal magic event, or whenever you use a *rod of wonder*, roll d% twice when generating the result. You may pick which of the two results actually occurs. You gain a +2 bonus on all saving throws made to resist primal magic events or magical effects caused by a *rod of wonder*.
+
+**Trigger Primal Magic Event (Su)**: Once per day as an immediate action, you can cause a spellcaster (including yourself) within 30 feet to trigger a primal magic event as the spell is being cast. At 13th level, you can cause any creature in the act of activating a magic item to trigger a primal magic event. At 17th level, you can use this ability twice per day. A spellcaster can make a concentration check (DC = 15 + twice the spell's level) to focus the magic and avoid triggering a primal magic effect, but non-spellcasters activating magic items have no such option. You must be at least 9th level before selecting this revelation.
+
+**Spell Resistance (Ex)**: You gain SR equal to your oracle level + 5. You must be at least 11th level before selecting this revelation.
+
+**Final Revelation**: At 20th level, you become a master of primal magic. Whenever you cast a spell, you can choose to trigger a primal magic event in addition to casting the spell itself—you can use this ability once per minute. If your spellcasting causes a primal magic event to occur, your spell effect is not replaced by the primal magic event—it takes place normally, along with the event itself.
+
+## Rifts Mystery
+
+Oracles of the rifts mystery have become marked in some way by an incursion into the Material Plane by the Abyss. While most oracles of the rifts are chaotic, evil, or both, some manage to retain a hold on other alignments despite being infused with this otherworldly energy. These oracles are often distrusted even though many of their abilities are quite useful in combating demonic influences.
+
+**Class Skills**: An oracle with the rifts mystery adds Fly, Intimidate, Knowledge (arcana), and Survival to her list of class skills.
+
+**Bonus Spells**: *Endure elements* (2nd), *resist energy* (4th), *vermin shape I* (6th), *confusion* (8th), *lesser planar binding* (10th), *planar binding* (12th), *insanity* (14th), *greater planar binding* (16th), *imprisonment* (18th).
+
+**Revelations**: An oracle with the rifts mystery can choose from any of the following revelations.
+
+**Balefire (Su)**: You call upon the cleansing or searing fires of the rifts to burn your foes. As a standard action, one target within 30 feet is wreathed in screaming flames and takes 1d6 points of fire damage per level. A successful Reflex save halves this damage. At 10th level, the fire's howls cause any creatures damaged by it to be staggered for 1 round. At 15th level, creatures who fail their saves against the balefire are staggered for 1d4 rounds and stunned for 1 round. You can use this ability once per day plus one additional time per day at 10th level.
+
+**Demonhide (Su)**: You alter your flesh to be as tough as a demon's hide, granting you a +4 armor bonus. At 7th level, and every four levels thereafter, this bonus increases by +2. At 13th level, this armor also grants you DR 5/cold iron. You can use this revelation for 1 hour per day per oracle level. The duration does not need to be consecutive, but it must be spent in 1-hour increments.
+
+**Dread Resilience (Ex)**: You have been hardened by exposure to the otherworldly energies of the rifts, and you just keep getting tougher. You gain a +1 inherent bonus to Constitution upon taking this revelation and another for every four oracle levels gained thereafter. You must be at least 9th level to select this revelation.
+
+**Planar Haze (Su)**: You can fill an area with the smoky miasma of the rifts. Once per day when you cast a spell that has an area, as a swift action you may also fill that area with a thick haze that acts as *obscuring mist*, except it originates at the center of your spell effect and cannot expand beyond the spell's area. At 10th level, the haze functions as *fog cloud*. You may use this ability one additional time per day at 7th level, and one additional time per day at 14th level.
+
+**Planar Infusion (Su)**: As a standard action once per day, you can cause a 20-foot-spread to gain either the mildly chaotic-aligned or mildly evil-aligned planar trait for a number of rounds equal to your oracle level. Lawful creatures in a chaotic-aligned area take a –2 circumstance penalty on all Charisma-based checks, as do good creatures in an evil-aligned area. At 11th level, the infusion makes the area strongly aligned, which causes the –2 circumstance penalty to apply on all Intelligence-, Wisdom-, and Charisma-based checks made by any creature that lacks the matching alignment component (these penalties stack with those from the lower-level effect). You must be chaotic or evil to select this revelation, and you can only infuse an area with an alignment that matches a component of your own alignment.
+
+**Rift Magic (Su)**: Your spells gain a +4 bonus on caster level checks made to overcome the spell resistance of chaotic outsiders and evil outsiders.
+
+**Rift Weapon (Su)**: Your understanding of the powers that move through the rifts allows you to imbue weapons with the ability to penetrate the defenses of creatures native to other planes. Once per day as a standard action, you can touch one weapon (or a group of up to 20 similar pieces of ammunition) and give it the ability to penetrate DR/cold iron for 1 minute per caster level. At 9th level, you can also grant the additional ability to bypass either DR/good and DR/law. You can use this ability an additional time per day for every 5 oracle levels you possess.
+
+**Telepathy (Su)**: You can mentally communicate with any other creature within 100 feet that has a language, as per the telepathy power of demons and angels. You must be at least 11th level before selecting this revelation.
+
+**Unearthly Terrain (Su)**: You can twist the material world into the harsh, jagged edges and uneven angles of the outer planes. As a standard action, you can turn one 20-foot square into difficult terrain for 1 round per level. You may use this ability a number of times per day equal to 3 + your Charisma bonus.
+
+**Wings of Terror (Su)**: You can manifest a pair of enormous, batlike demon wings that grant you a fly speed of 60 feet with average maneuverability and a +4 bonus on Intimidate checks. At 10th level, your speed increases to 90 feet, your maneuverability increases to good, and the bonus increases to +8 on Intimidate checks. You can use these wings for 1 minute per day per oracle level. This duration does not need to be consecutive, but it must be spent in 1-minute increments. You must be at least 7th level to select this revelation.
+
+**Final Revelation**: At 20th level, you gain the ability to open rifts between planes. This allows you to use *gate* as a spell-like ability once per day. If you use this ability to call creatures, you still need to provide 10,000 gp in offerings to secure the creature's aid.

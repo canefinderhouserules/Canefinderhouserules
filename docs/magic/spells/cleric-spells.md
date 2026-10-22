@@ -73,6 +73,7 @@
 - **[Theft Ward](theft-ward.md)**: You ward a single object in your possession against theft.
 - **[Velvet Diplomacy](velvet-diplomacy.md)**: Intimidate a target into friendliness and cloud its memory of the threats.
 - **[Waterproof](waterproof.md)**: Renders an object or creature’s gear waterproof.
+- **[Weaponwand](weaponwand.md)**: Merge a wand with a weapon to wield both.
 - **[Winter Feathers](winter-feathers.md)**: School abjuration; Level cleric 1, druid 1, inquisitor 1, ranger 1, sorcerer/wizard 1 Casting Time 1 standard.
 
 ## 2nd-Level Cleric Spells
@@ -133,6 +134,7 @@
 - **[Life Channel](life-channel.md)**: Component V, S Range touch Target one touched creature with negative energy affinity Duration 1 minute/level.
 - **[Magic Siege Engine](magic-siege-engine.md)**: Siege engine gains +1 on targeting and damage rolls.
 - **[Make Whole](make-whole.md)**: Repairs an object.
+- **[Martyr’s Bargain](martyrs-bargain.md)**: Delay spell damage, then take it maximized.
 - **[Owl’s Wisdom](owls-wisdom.md)**: Subject gains +4 to Wis for 1 min./level.
 - **[Pilfering Hand](pilfering-hand.md)**: You may seize an object or manipulate it from afar.
 - **[Protection from Chaos, Communal](protection-from-chaos-communal.md)**: As protection from chaos, but you may divide the duration among creatures touched.
@@ -209,6 +211,7 @@
 - **[Inflict Serious Wounds](inflict-serious-wounds.md)**: Touch attack, 3d8 damage + 1/level (max +15).
 - **[Invisibility Purge](invisibility-purge.md)**: Dispels invisibility within 5 ft./level.
 - **[Iron Stake](iron-stake.md)**: Hurl a spike of cold iron at a foe.
+- **[Light of Purity](light-of-purity.md)**: Illuminate undead and weaken their channel resistance.
 - **[Locate Object](locate-object.md)**: Senses direction toward object (specific or type).
 - **[Magic Circle against Chaos](magic-circle-against-chaos.md)/[Magic Circle against Evil](magic-circle-against-evil.md)/[Magic Circle against Good](magic-circle-against-good.md)/[Magic Circle against Law](magic-circle-against-law.md)**: As *protection* spells, but 10-ft. radius and 10 min./level.
 - **[Magic Vestment](magic-vestment.md)**: Armor or shield gains +1 enhancement per four levels.
@@ -248,6 +251,7 @@
 - **[Chaos Hammer](chaos-hammer.md)**: Harms and slows lawful creatures (1d8 damage/2 levels).
 - **[Conditional Curse](conditional-curse.md)**: Bestow a curse that is difficult to remove without fulfilling a condition.
 - **[Control Water](control-water.md)**: Raises or lowers bodies of water.
+- **[Crusader’s Edge](crusaders-edge.md)**: Weapon gains evil outsider bane and nauseates on crits.
 - **[Cure Critical Wounds](cure-critical-wounds.md)**: Cures 4d8 damage + 1/level (max +20).
 - **[Curse Terrain](curse-terrain.md)**: Curse an area with four hazards.
 - **[Deadman’s Contingency](deadmans-contingency.md)**: Set one of a list of contingencies for your demise.
@@ -260,6 +264,7 @@
 - **[Divine Power](divine-power.md)**: You gain attack bonuses and 1 hp/level.
 - **[False Future](false-future.md)**: Cause divinations of the future to reveal the result you choose.
 - **[Flesh Puppet Horde](flesh-puppet-horde.md)**: Control multiple zombies in human guise.
+- **[Forceful Strike](forceful-strike.md)**: Melee hit deals extra force damage and bull rush.
 - **[Freedom of Movement](freedom-of-movement.md)**: Subject moves normally despite impediments to movement.
 - **[Giant Vermin](giant-vermin.md)**: Turns centipedes, scorpions, or spiders into giant vermin.
 - **[Gilded Whispers](gilded-whispers.md)**: Use a coin as a scrying target.
@@ -287,10 +292,12 @@
 - **[Revenant Armor](revenant-armor.md)**: Armor animates around its fallen wearer.
 - **[Rigor Mortis](rigor-mortis.md)**: Painfully swell a target’s joints.
 - **[Sending](sending.md)**: Delivers short message anywhere, instantly.
+- **[Shadow Barbs](shadow-barbs.md)**: Shadowy vicious spiked chain that radiates darkness.
 - **[Spell Immunity](spell-immunity.md)**: Subject is immune to one spell per 4 levels.
 - **[Spindrift Spritz, Mass](spindrift-spritz-mass.md)**: As spindrift spritz, affecting multiple creatures.
 - **[Summon Monster IV](summon-monster-iv.md)**: Summons extraplanar creature to fight for you.
 - **[Summoner Conduit](summoner-conduit.md)**: The target takes damage whenever its summoned creature does.
+- **[Suppress Primal Magic](suppress-primal-magic.md)**: Prevent primal magic events in a small area.
 - **[Sword to Snake](sword-to-snake.md)**: An item bites whoever handles it.
 - **[Tail Current](tail-current.md)**: Create a current in water to enhance or impede swimming.
 - **[Tailwind](tailwind.md)**: Create a current of wind to enhance or impede flight.
@@ -321,6 +328,8 @@
 - **[Dispel Chaos](dispel-chaos.md)/[Dispel Evil](dispel-evil.md)/[Dispel Good](dispel-good.md)/[Dispel Law](dispel-law.md)**: +4 bonus against attacks.
 - **[Disrupting Weapon](disrupting-weapon.md)**: Melee weapon destroys undead.
 - **[Flame Strike](flame-strike.md)**: Smites foes with divine fire (1d6/level damage).
+- **[Geniekind](geniekind.md)**: Gain genie-themed appearance and powers.
+- **[Ghoul Army](ghoul-army.md)**: Ghouls and a ghast rise to fight for you and explode.
 - **[Half-blood Extraction](half-blood-extraction.md)**: You transform the target half-orc into a full-blooded orc.
 - **[Hallow](hallow.md)**: Designates location as holy.
 - **[Hymn of Mercy](hymn-of-mercy.md)**: Touch of mercy in a burst around you.
@@ -336,6 +345,7 @@
 - **[Sacred Nimbus](sacred-nimbus.md)**: Holy energy damages evil creatures that attack you and protects you from evil attacks.
 - **[Scrying](scrying.md)**: Spies on subject from a distance.
 - **[Sessile Spirit](sessile-spirit.md)**: Cause a spirit inhabiting a creature or an object to go dormant.
+- **[Siphon Magic](siphon-magic.md)**: Transfer a spell effect from a touched creature to you.
 - **[Slay Living](slay-living.md)**: Touch attack deals 12d6 + 1 per level.
 - **[Slough](slough.md)**: Slough off a target’s skin.
 - **[Soulswitch](soulswitch.md)**: Swap souls with your familiar.
@@ -374,6 +384,7 @@
 - **[Curse Terrain, Greater](curse-terrain-greater.md)**: Curse an area with six dangerous hazards.
 - **[Dispel Magic, Greater](dispel-magic-greater.md)**: As *dispel magic*, but with multiple targets.
 - **[Dust Form](dust-form.md)**: You become an incorporeal creature of dust for a short period of time.
+- **[Eaglesoul](eaglesoul.md)**: Combat bonuses against evil creatures, especially evil outsiders.
 - **[Eagle’s Splendor, Mass](eagles-splendor-mass.md)**: As *eagle’s splendor*, affects 1 subject/level.
 - **[Find the Path](find-the-path.md)**: Shows most direct way to a location.
 - **[Flesh Wall](flesh-wall.md)**: Create a wall of zombies.
@@ -383,9 +394,11 @@
 - **[Harm](harm.md)**: Deals 10 points/level damage to target.
 - **[Heal](heal.md)**: Cures 10 points/level damage, all diseases and mental conditions.
 - **[Heroes’ Feast](heroes-feast.md)**: Food for one creature/level cures and grants combat bonuses*.*
+- **[Impart Mind](impart-mind.md)**: Grant a magic item temporary intelligence and powers.
 - **[Inflict Moderate Wounds, Mass](inflict-moderate-wounds-mass.md)**: Deals 2d8 damage + 1/level, affects 1 subject/level.
 - **[Inspiring Recovery](inspiring-recovery.md)**: Heals and can revive a creature dead for 1 round, rallying its allies.
 - **[Mage’s Decree](mages-decree.md)**: Send a message to creatures within miles.
+- **[Music of the Spheres](music-of-the-spheres.md)**: Fast healing, resistance, and save bonuses for all in the area.
 - **[Neutralize Poison, Greater](neutralize-poison-greater.md)**: As neutralize poison, but it also reverses poison damage.
 - **[Overwhelming Poison](overwhelming-poison.md)**: Make a poison more difficult to resist.
 - **[Owl’s Wisdom, Mass](owls-wisdom-mass.md)**: As *owl’s wisdom*, affects 1 subject/level.
@@ -452,6 +465,7 @@
 - **[Nature’s Ravages, Greater](natures-ravages-greater.md)**: As nature’s ravages, aging a corpse by years.
 - **[Nine Lives](nine-lives.md)**: School abjuration; Level cleric 8, witch 8 Casting Time 1 standard action Range touch Target one creature.
 - **[Planar Ally, Greater](planar-ally-greater.md)**: As *lesser planar ally,* but up to 18 HD.
+- **[Primal Scar](primal-scar.md)**: Infuse an area with primal magic.
 - **[Sacramental Seal](sacramental-seal.md)**: Seal a creature away inside the spell’s focus.
 - **[Shield of Law](shield-of-law.md)**: +4 to AC, +4 resistance, and SR 25 against chaotic spells.
 - **[Spell Immunity, Greater](spell-immunity-greater.md)**: As *spell immunity,* but up to 8th-level spells.
