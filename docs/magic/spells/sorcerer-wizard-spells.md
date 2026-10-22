@@ -201,6 +201,7 @@
 - **[Dress Corpse](dress-corpse.md)**: Doctor the evidence on a corpse.
 - **[Endure Elements, Communal](endure-elements-communal.md)**: As endure elements, but you may divide the duration among creatures touched.
 - **[Escaping Ward](escaping-ward.md)**: This ward grants you extra maneuverability when you avoid attacks against larger foes.
+- **[Familiar Figment](familiar-figment.md)**: Illusory duplicate of your familiar gives a 50% miss chance.
 - **[Fiery Shuriken](fiery-shuriken.md)**
 - **[Flickering Lights](flickering-lights.md)**: Create an area of inconsistent lighting.
 - **[Frost Fall](frost-fall.md)**: The area is covered in a chilling frost.
@@ -516,6 +517,7 @@
 - **[Riding Possession](riding-possession.md)**: As possession, but you observe instead of control the subject.
 - **[Rigor Mortis](rigor-mortis.md)**: Painfully swell a target’s joints.
 - **[Shadowy Haven](shadowy-haven.md)**: This spell functions like rope trick, except the point of entry is through a 5-foot-square instead of a rope.
+- **[Share Shape](share-shape.md)**: Beast shape II, limited to your companion's or familiar's kind.
 - **[Shocking Image](shocking-image.md)**: As mirror image, but the duplicates emit electrical damage when destroyed.
 - **[Stoneskin](stoneskin.md)**: Grants DR 10/adamantine.
 
@@ -606,6 +608,7 @@
 - **[Create Mindscape](create-mindscape.md)**: Form an immersive mindscape.
 - **[Damnation Stride](damnation-stride.md)**: This spell functions like dimension door, except you leave behind a burst of fire.
 - **[Decollate](decollate.md)**: A target can safely remove its head.
+- **[Die for Your Master](die-for-your-master.md)**: Familiar intercepts any attack against you.
 - **[Dismissal](dismissal.md)**: Forces a creature to return to its native plane.
 - **[Energy Siege Shot](energy-siege-shot.md)**: A Large siege engine deals energy damage that you designate with other effects depending on the type of energy you choose.
 - **[False Future](false-future.md)**: Cause divinations of the future to reveal the result you choose.

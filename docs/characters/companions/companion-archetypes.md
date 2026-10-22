@@ -69,6 +69,22 @@ Bigger than others of its kind, a bully is used to winning fights and displays o
 
 **Bullying Thrill (Ex)**: At 9th level, whenever a bully succeeds at a bull rush, overrun, reposition, or trip combat maneuver check, after fully resolving the combat maneuver, it gains a +2 morale bonus on attack and damage rolls until the end of its next turn. This replaces Multiattack.
 
+## Charger
+
+The mighty charger is a boon to heavily armored and armed champions, bearing them and their ironmongery into battle without hesitation.
+
+**Animal Feats**: In addition to the standard feats available to animal companions, a charger can select Charge Through, Greater Overrun, Improved Great Fortitude and Improved Iron Will.
+
+**Animal Skills**: Chargers treat Intimidate as a class skill.
+
+**Mounted Challenge (Ex)**: When ridden by a cavalier, a charger gains half of the bonuses and penalties granted by the cavalier's challenge class feature. This ability replaces share spells.
+
+**Barding Training (Ex)**: At 3rd level, a charger's armor check penalty for wearing barding or for carrying a medium load is reduced by 1 and the maximum Dexterity bonus for its armor and load increases by 1. Reduce the armor check and medium load penalties by an additional 1 for every 6 levels after 3rd; increase the maximum Dexterity bonus for the charger's armor by an additional 1 for every 6 levels after 3rd. In addition, the charger's speed does not decrease when wearing medium armor or carrying a medium load. At 9th level, a charger can move at normal speed in heavy armor or while carrying a heavy load. This ability replaces evasion and Multiattack.
+
+**Indefatigable (Ex)**: At 6th level, a charger becomes immune to fatigue. This ability replaces devotion.
+
+**Stalwart Steed (Ex)**: At 15th level, the charger gains the ability to withstand great punishment and stress. Whenever the charger succeeds at a Fortitude or Will save that would normally result in a reduced or partial effect, the charger is unaffected. This ability replaces improved evasion.
+
 ## Daredevil
 
 Daredevil companions join the fray with graceful leaps or swooping dives, heedless of the danger.

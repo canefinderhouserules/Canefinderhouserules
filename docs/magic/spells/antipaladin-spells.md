@@ -98,6 +98,7 @@ New antipaladin spells from *Ultimate Magic*. Spells from other books will be ad
 - **[Cruel Jaunt](cruel-jaunt.md)**: Sense creatures suffering from fear, then teleport close to them.
 - **[Darkvision, Greater](darkvision-greater.md)**: See 120 ft. in total darkness.
 - **[Decollate](decollate.md)**: A target can safely remove its head.
+- **[Die for Your Master](die-for-your-master.md)**: Companion intercepts any attack against you.
 - **[Foster Hatred](foster-hatred.md)**: Cause creatures to hate one type of creature.
 - **[Illusion of Treachery, Greater](illusion-of-treachery-greater.md)**: Make it seem like another is responsible for your attacks while concealing your own actions.
 - **[Inflict Pain, Mass](inflict-pain-mass.md)**: As inflict pain, but affecting one creature per level.

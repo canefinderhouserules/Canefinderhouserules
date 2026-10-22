@@ -243,6 +243,14 @@ Although this creature isn’t nearly the size of a true giant squid, it remains
 
 **7th-Level Advancement**: Size Large; AC +2 natural armor; Attack bite (1d8), tentacles (1d6 plus grab); Ability Scores Str +8, Dex –2, Con +4; Special Attacks constrict (1d6); Special Qualities ink cloud (20-ft. radius)
 
+### Walrus
+
+This bulky, thick-skinned, flippered creature has on its face two enormous tusks and what looks like a coarse mustache.
+
+**Starting Statistics**: Size Medium; Speed 20 ft., swim 40 ft.; AC +3 natural armor; Attack gore (1d6); Ability Scores Str 14, Dex 13, Con 14, Int 2, Wis 13, Cha 9; Special Qualities hold breath, low-light vision.
+
+**7th-Level Advancement**: Size Large; AC +4 natural armor; Attack gore (1d8); Ability Scores Str +8, Dex –2, Con +4; Special Qualities fatal gore (a walrus threatens a critical hit with its gore attack on a roll of 19–20).
+
 ### Wolfdog
 
 This creature is a dependable hybrid of wolf and dog.

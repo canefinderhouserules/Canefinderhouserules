@@ -1508,6 +1508,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Confabulist](confabulist.md) | — | Bluff 9 ranks, Sense Motive 9 ranks |
 | [Cooperative Disabling](cooperative-disabling.md) | Teamwork | Disable Device 1 rank, trapfinding class feature |
 | [Criminal Reputation](criminal-reputation.md) | — | Diplomacy 5 ranks, Intimidate 5 ranks |
+| [Critical Conduit](critical-conduit.md) | — | Deliver touch spells ability, familiar |
 | [Cunning Intuition](cunning-intuition.md) | Combat | Alertness, Improved Initiative, Lightning Reflexes, Quick Draw, Ready for Anything, base attack bonus +13 or rogue level 13th, Sense Motive 13 ranks |
 | [Cutting Humiliation](cutting-humiliation.md) | — | Persuasive, Intimidate 5 ranks |
 | [Darkness Trick](darkness-trick.md) | — | Use Magic Device 5 ranks, ability to cast *darkness* |
@@ -1533,7 +1534,10 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Extra Contingency](extra-contingency.md) | — | Character level 19th |
 | [Extra Feature](extra-feature.md) | — | Con 13, skinwalker |
 | [Extra Impromptu Sneak Attack](extra-impromptu-sneak-attack.md) | Combat | Impromptu sneak attack class feature |
+| [Extra Item Slot](extra-item-slot.md) | — | Non-humanoid body shape |
 | [Eye for Ingredients](eye-for-ingredients.md) | — | Eschew Materials, Appraise 6 ranks, Spellcraft 6 ranks |
+| [Familiar Focus](familiar-focus.md) | — | Familiar |
+| [Familiar Spell](familiar-spell.md) | Metamagic | Spellcaster with familiar class feature |
 | [Fast Change](fast-change.md) | — | Dex 13, base attack bonus +6, skinwalker |
 | [Feign Curse](feign-curse.md) | — | Deceitful, Bluff 5 ranks, Spellcraft 1 rank |
 | [Fencing Grace](fencing-grace.md) | Combat | Dex 13, Weapon Finesse, Weapon Focus (rapier) |
@@ -1564,6 +1568,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Inspiring Mentor](inspiring-mentor.md) | — | Cha 13, inspire competence bardic performance |
 | [Intoxicating Flattery](intoxicating-flattery.md) | — | Deceitful, Bluff 5 ranks |
 | [Ironclad Logic](ironclad-logic.md) | — | Int 19, Diplomacy 3 ranks |
+| [Jumper](jumper.md) | — | Acrobatics 1 rank, creature type other than humanoid or outsider |
 | [Kitsune Style](kitsune-style.md) | Combat, Style | Int 13, Combat Expertise, Improved Dirty Trick |
 | [Kitsune Tricks](kitsune-tricks.md) | Combat, Style | Int 13; Combat Expertise; Improved Dirty Trick; Kitsune Style; base attack bonus +3 or monk level 3rd |
 | [Kitsune Vengeance](kitsune-vengeance.md) | Combat, Style | Int 13; Combat Expertise; Improved Dirty Trick; Kitsune Style; Kitsune Tricks; base attack bonus +6 or monk level 6th |
@@ -1571,9 +1576,11 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Legendary Influence](legendary-influence.md) | — | Lesser spirit power class feature |
 | [Lightning Draw](lightning-draw.md) | Combat, Panache | Quick Draw, swashbuckler initiative deed, swashbuckler level 7th |
 | [Lightning Rager](lightning-rager.md) | — | Rage class feature |
+| [Lithe Attacker](lithe-attacker.md) | — | Narrow Frame, Escape Artist 5 ranks, animal or magical beast |
 | [Mad Magic](mad-magic.md) | Combat | Bloodrage class feature or perfect clarity rage power |
 | [Manipulative Agility](manipulative-agility.md) | — | Bluff 1 rank, Sleight of Hand 1 rank |
 | [Martial Dominance](martial-dominance.md) | Combat | Base attack bonus +5, Intimidate 1 rank |
+| [Master of Your Kind](master-of-your-kind.md) | — | Familiar, speak with animals of its kind ability |
 | [Master Sniper](master-sniper.md) | Combat | Expert Sniper, Rapid Shot, Stealth 6 ranks |
 | [Measure Foe](measure-foe.md) | Combat | Street Smarts, base attack bonus +1 |
 | [Misdirection Attack](misdirection-attack.md) | Combat | Int 13, Combat Expertise, Deceitful, Misdirection Redirection, Misdirection Tactics, Bluff 10 ranks |
@@ -1581,6 +1588,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Misdirection Tactics](misdirection-tactics.md) | Combat | Int 13, Combat Expertise, Deceitful, Bluff 4 ranks |
 | [Motivating Display](motivating-display.md) | Combat | Cha 13, Dazzling Display, Weapon Focus |
 | [My Blade Is Yours](my-blade-is-yours.md) | Combat, Teamwork | Int 13, Combat Expertise, Sense Motive 3 ranks |
+| [Narrow Frame](narrow-frame.md) | — | Escape Artist 1 rank, animal or magical beast |
 | [Nerve-Racking Negotiator](nerve-racking-negotiator.md) | — | Persuasive |
 | [Notorious Vigilante](notorious-vigilante.md) | Combat | Dazzling Display, Weapon Focus, any nongood alignment, great renown social talent, proficiency with chosen weapon |
 | [Omnipresent Mentor](omnipresent-mentor.md) | — | Cha 17, Inspiring Mentor, inspire competence bardic performance |
@@ -1614,6 +1622,8 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Sliding Dash](sliding-dash.md) | Combat | Dex 15, Acrobatics 10 ranks or acrobatic charge class feature, Bluff 3 ranks |
 | [Sneaking Critical](sneaking-critical.md) | Combat, Critical | Critical Focus, base attack bonus +9, sneak attack class feature |
 | [Social Bravery](social-bravery.md) | Combat | Cha 13, bravery class feature |
+| [Spell Sponge](spell-sponge.md) | — | Animal companion or familiar, share spells ability |
+| [Stable Gallop](stable-gallop.md) | — | Animal or magical beast |
 | [Starry Grace](starry-grace.md) | Combat | Dex 13, Weapon Finesse, Weapon Focus (starknife) |
 | [Startling Getaway](startling-getaway.md) | Combat | Startling appearance class feature |
 | [Street Carnage](street-carnage.md) | Combat | Str 15, Improved Bull Rush, Improved Unarmed Strike, Power Attack, Street Style, Street Sweep, base attack bonus +8 or monk level 7th |
@@ -1626,6 +1636,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Subtle Enchantments](subtle-enchantments.md) | — | Deceitful, Spell Focus (enchantment) |
 | [Superior Dirty Trick](superior-dirty-trick.md) | Combat | Int 13, Combat Expertise, Greater Dirty Trick, Improved Dirty Trick, base attack bonus +8 |
 | [Superior Scryer](superior-scryer.md) | — | Spell Focus (divination), the ability to cast at least one spell of the scrying subschool |
+| [Sure-Footed](sure-footed.md) | — | Quadruped animal or magical beast |
 | [Surprising Combatant](surprising-combatant.md) | Combat | Improved Initiative, Bluff 3 ranks |
 | [Swarm Scatter](swarm-scatter.md) | Teamwork | — |
 | [Swarm Strike](swarm-strike.md) | Teamwork | — |
@@ -1641,6 +1652,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Unfair Grip](unfair-grip.md) | Combat | Str 13, Dex 13, Improved Grapple, Improved Unarmed Strike, Power Attack, base attack bonus +1 |
 | [Unimpeachable Honor](unimpeachable-honor.md) | — | Iron Will |
 | [Unseen Poison](unseen-poison.md) | — | Bluff 5 ranks, Craft (poison) 5 ranks, ability to cast *nondetection* |
+| [Valiant Steed](valiant-steed.md) | — | Animal or magical beast |
 | [Verify](verify.md) | — | Ability to cast 1st-level spells, lawful evil alignment, worshiper of a lawful evil deity of devils and contracts |
 | [Violent Display](violent-display.md) | Combat | Dazzling Display, Weapon Focus, base attack bonus +6 |
 | [Walking Sleight](walking-sleight.md) | — | Deft Hands, Sleight of Hand 5 ranks |

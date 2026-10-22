@@ -83,3 +83,5 @@ The following text is the property of Wizards of the Coast, Inc. and is Copyrigh
     Pathfinder Player Companion: Dirty Tactics Toolbox © 2015, Paizo Inc.; Authors: Alexander Augunas, Mikko Kallio, Anthony Li, Luis Loza, and Andrew Marlowe.
 
     Pathfinder Player Companion: Blood of the Moon © 2013, Paizo Publishing, LLC; Authors: Tim Akers, Neal Litherland, David N. Ross, and Tork Shaw.
+
+    Pathfinder Player Companion: Animal Archive © 2013, Paizo Publishing, LLC; Authors: Amanda Hamon, Philip Minchin, Jason Nelson, Patrick Renie, Owen K.C. Stephens, and Christina Stiles.
