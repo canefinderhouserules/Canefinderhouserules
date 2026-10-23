@@ -61,6 +61,7 @@ Shamans gain access to the following spells. Spells in plain text come from othe
 - **[Hide from Animals](hide-from-animals.md)**: Animals can’t perceive one subject/level.
 - **[Hydraulic Push](hydraulic-push.md)**: Wave of water bull rushes an enemy.
 - **[Illusory Crowd](illusory-crowd.md)**: Illusory stationary crowd.
+- **[Incessant Buzzing](incessant-buzzing.md)**: Illusory wasp swarm disrupts concentration
 - **[Inflict Light Wounds](inflict-light-wounds.md)**: Touch deals 1d8 damage +1/level (max +5).
 - **[Magic Stone](magic-stone.md)**: Three stones gain +1 on attack rolls, deal 1d6+1 damage.
 - **[Magic Weapon](magic-weapon.md)**: Weapon gains +1 bonus.
@@ -72,15 +73,18 @@ Shamans gain access to the following spells. Spells in plain text come from othe
 - **[Pass without Trace](pass-without-trace.md)**: One subject/level leaves no tracks.
 - **[Peace Bond](peace-bond.md)**: Your low-level area spells ignore protected cubes.
 - **[Positive Pulse](positive-pulse.md)**: Energy harms undead or bolsters the living
+- **[Preserve](preserve.md)**: Stop spoilage of objects for a week
 - **[Produce Flame](produce-flame.md)**: 1d6 damage + 1/level, touch or thrown.
 - Protection from Chaos/evil/good/law
 - **[Remove Fear](remove-fear.md)**: Suppresses fear or gives +4 on saves against fear for one subject + one per four levels.
 - **[Resist Starvation](resist-starvation.md)**: Delay the effects of starvation
+- **[Scarify](scarify.md)**: Convert lethal damage to nonlethal, leaving scars
 - **[Sculpted Cape](sculpted-cape.md)**: Your cape stiffens and holds its shape.
 - **[Sense Spirit Magic](sense-spirit-magic.md)**: Gain bonuses on identifying and resisting spells associated with your spirits.
 - **[Sleep](sleep.md)**: Puts 4 HD of creatures into magical slumber.
 - Stone Shield
 - **[Spirit Call](spirit-call.md)**: Spirit and domain spells in the area are stronger.
+- **[Spirit Share](spirit-share.md)**: Deliver a drink or potion by touch
 - **[Thorn Javelin](thorn-javelin.md)**: Wield a javelin that sickens opponents when it strikes.
 - **[Underbrush Decoy](underbrush-decoy.md)**: Create a rustling distraction to hide.
 - **[Waterproof](waterproof.md)**: Renders an object or creature’s gear waterproof.
@@ -146,6 +150,8 @@ Shamans gain access to the following spells. Spells in plain text come from othe
 - **[Levitate](levitate.md)**: Subject moves up and down at your direction.
 - **[Life Pact](life-pact.md)**: Affected creatures automatically donate hp to stabilize fallen ally.
 - **[Merge with Familiar](merge-with-familiar.md)**: Merge the body of your familiar or spirit animal into your own.
+- **[Necrostasis](necrostasis.md)**: Stagger an undead creature
+- **[Overstimulate](overstimulate.md)**: Grant ferocity to keep a creature conscious
 - **[Owl’s Wisdom](owls-wisdom.md)**: Subject gains +4 to Wis for 1 min./level.
 - **[Quick Change](quick-change.md)**: Use change shape as a swift action and surprise foes.
 - **[Reinvigorating Wind](reinvigorating-wind.md)**: Wake and invigorate allies with a magical wind
@@ -209,6 +215,7 @@ Shamans gain access to the following spells. Spells in plain text come from othe
 - **[Flesh Puppet](flesh-puppet.md)**: Control a zombie in human guise.
 - **[Fly](fly.md)**: Subject flies at speed of 60 ft.
 - **[Font of Spirit Magic](font-of-spirit-magic.md)**
+- **[Free Spirit](free-spirit.md)**: Gain freedom of movement and fear resistance, but be drunk
 - **[Hex Glyph](hex-glyph.md)**
 - **[Inflict Serious Wounds](inflict-serious-wounds.md)**: Touch attack, 3d8 damage +1/ level (max +15).
 - Magic Circle Against Chaos/evil/good/law
@@ -229,6 +236,7 @@ Shamans gain access to the following spells. Spells in plain text come from othe
 - **[Signs of the Land](signs-of-the-land.md)**: Learn up to three details about the surrounding territory.
 - **[Sleet Storm](sleet-storm.md)**: Hampers vision and movement.
 - **[Soothing Mud](soothing-mud.md)**: Create restorative mud that heals hit point and ability damage.
+- **[Soul Vault](soul-vault.md)**: Protect a soul from being trapped
 - **[Speak with Dead](speak-with-dead.md)**: Corpse answers one question/two levels.
 - **[Speak with Haunt](speak-with-haunt.md)**: Haunt answers one question/2 levels.
 - **[Stench of Prey](stench-of-prey.md)**: Predatory animals must successfully save or attack the target.
@@ -361,6 +369,7 @@ Shamans gain access to the following spells. Spells in plain text come from othe
 - **[Mask from Divination](mask-from-divination.md)**: Adhere a mask that foils divination.
 - **[Overland Flight](overland-flight.md)**: You fly at a speed of 40 ft. and can hustle over long distances.
 - **[Rest Eternal](rest-eternal.md)**
+- **[Shroud of Darkness](shroud-of-darkness.md)**: Plunge targets into supernatural darkness
 - **[Soulswitch](soulswitch.md)**: Swap souls with your familiar.
 - **[Stoneskin](stoneskin.md)**: Grants DR 10/adamantine.
 - **[Sun’s Disdain, Mass](suns-disdain-mass.md)**: As *sun’s disdain*, on multiple creatures.
@@ -381,6 +390,7 @@ Shamans gain access to the following spells. Spells in plain text come from othe
 - **[Balance of Suffering](balance-of-suffering.md)**: Drain one creature to heal another.
 - **[Banishment](banishment.md)**: Banishes 2 HD/level of extraplanar creatures.
 - **[Bear’s Endurance, Mass](bears-endurance-mass.md)**: As *bear’s endurance*, affects 1 subject/level.
+- **[Betraying Sting](betraying-sting.md)**: Smite those who trusted you
 - **[Bull’s Strength, Mass](bulls-strength-mass.md)**: As *bull’s strength*, affects 1 subject/level.
 - **[Claim Identity, Greater](claim-identity-greater.md)**: As claim identity, but the target becomes a mask others can wear.
 - **[Cone of Cold](cone-of-cold.md)**: 1d6/level cold damage.

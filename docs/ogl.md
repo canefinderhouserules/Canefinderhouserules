@@ -143,3 +143,5 @@ The following text is the property of Wizards of the Coast, Inc. and is Copyrigh
     Pathfinder Roleplaying Game Villain Codex © 2016, Paizo Inc.; Authors: Alexander Augunas, Logan Bonner, Paris Crenshaw, Dan Dillon, Crystal Frasier, Amanda Hamon Kunz, Eric Hindley, Mikko Kallio, Dale C. McCoy, Jr., Stephen Radney-MacFarland, Thomas M. Reid, Alistair Rigg, Alex Riggs, Mark Seifter, and Linda Zayas-Palmer.
 
     Pathfinder Campaign Setting: Inner Sea Monster Codex © 2015, Paizo Inc.; Authors: John Compton, Paris Crenshaw, Mike Myler, Tork Shaw, and Larry Wilhelm.
+
+    Pathfinder Campaign Setting: Inner Sea Temples © 2016, Paizo Inc.; Authors: Robert Brookes, Liz Courts, Mikko Kallio, Jeffrey Swank, and Larry Wilhelm.

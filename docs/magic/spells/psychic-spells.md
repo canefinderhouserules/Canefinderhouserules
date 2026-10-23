@@ -101,6 +101,7 @@ Psychics gain access to the following spells. Spells without a link come from ot
 - **[Identify](identify.md)**: Gives +10 bonus to identify magic items.
 - **[Ill Omen](ill-omen.md)**: Target rolls twice for checks and attacks and uses worst roll.
 - Illusion of Calm
+- **[Incessant Buzzing](incessant-buzzing.md)**: Illusory wasp swarm disrupts concentration
 - **[Instant Portrait](instant-portrait.md)**: Paint a quick monochrome portrait.
 - **[Interrogation](interrogation.md)**: Target answers questions or suffers pain.
 - **[Invigorate](invigorate.md)**: Temporarily relieves fatigue or exhaustion.
@@ -134,6 +135,7 @@ Psychics gain access to the following spells. Spells without a link come from ot
 - **[Remove Fear](remove-fear.md)**: Suppresses fear or gives +4 on saves against fear for one subject + one per four levels.
 - **[Restore Corpse](restore-corpse.md)**: Skeletal corpse grows flesh.
 - See Alignment
+- **[Reveal Secrets](reveal-secrets.md)**: Learn whether a target has a secret
 - **[Rune Trace](rune-trace.md)**: Learn a rune’s age, language, and purpose.
 - **[Shadow Weapon](shadow-weapon.md)**: Create a quasi-real masterwork weapon.
 - **[Share Language](share-language.md)**: Subject understands chosen language.
@@ -289,8 +291,10 @@ Psychics gain access to the following spells. Spells without a link come from ot
 - **[Oneiric Horror](oneiric-horror.md)**: Distract and fatigue the target with a creature from its nightmares.
 - **[Open Book](open-book.md)**: Make it permanently easier to learn more about a target.
 - **[Oppressive Boredom](oppressive-boredom.md)**: Target loses its next action.
+- **[Overstimulate](overstimulate.md)**: Grant ferocity to keep a creature conscious
 - **[Owl’s Wisdom](owls-wisdom.md)**: Subject gains +4 to Wis for 1 min./level.
 - **[Pain Strike](pain-strike.md)**: Inflicts 1d6 nonlethal damage 1 round/level.
+- **[Painful Revelation](painful-revelation.md)**: Illusion hurts those who disbelieve it
 - **[Paranoia](paranoia.md)**: Target becomes hostile to all creatures.
 - **[Passing Fancy](passing-fancy.md)**: Target becomes obsessed with a topic you choose.
 - **[Perceive Cues](perceive-cues.md)**: +5 Perception and Sense Motive 10 min./level.
@@ -435,6 +439,7 @@ Psychics gain access to the following spells. Spells without a link come from ot
 - **[Phantasmal Affliction](phantasmal-affliction.md)**: Convince a target that it contracted an affliction.
 - **[Pierce Disguise](pierce-disguise.md)**: See through low-level magical disguises.
 - Protection from Arrows, Communal
+- **[Pillow Talk](pillow-talk.md)**: Question a sleeping creature
 - **[Poison Exchange](poison-exchange.md)**: Swallow one poison and regurgitate another.
 - **[Protection from Energy](protection-from-energy.md)**: Absorbs 12 points/level of damage from one kind of energy.
 - **[Purge Spirit](purge-spirit.md)**: Deal 1d6 points of damage per level to one haunt or spirit creature and stagger it.
@@ -492,6 +497,7 @@ Psychics gain access to the following spells. Spells without a link come from ot
 - **[Assume Appearance, Greater](assume-appearance-greater.md)**: Use a likeness to adopt a dead creature’s form.
 - **[Aura Alteration](aura-alteration.md)**: Masks a creature’s or an object’s alignment, emotion, health, and magic auras.
 - **[Aura of Doom](aura-of-doom.md)**: Creatures in your aura become shaken.
+- **[Bereave](bereave.md)**: Make targets count as enemies to their own allies
 - **[Bestow Planar Infusion II](bestow-planar-infusion-ii.md)**: Grant a target the effects of an improved planar infusion
 - **[Black Tentacles](black-tentacles.md)**: Tentacles grapple all creatures within a 20-ft. spread.
 - **[Borrow Corruption](borrow-corruption.md)**: Temporarily gain the effects of a corrupted creature’s manifestations.
@@ -540,6 +546,7 @@ Psychics gain access to the following spells. Spells without a link come from ot
 - **[Globe of Invulnerability, Lesser](globe-of-invulnerability-lesser.md)**: Stops 1st- through 3rd- level spell effects.
 - **[Hallucinatory Terrain](hallucinatory-terrain.md)**: Makes one type of terrain appear like another (field as forest, or the like).
 - Healing Warmth
+- **[Harvest Knowledge](harvest-knowledge.md)**: Absorb a creature's knowledge
 - **[Hollow Heroism](hollow-heroism.md)**: Provide a *heroism* effect that you can reverse at any time.
 - **[Horrific Doubles](horrific-doubles.md)**: Call forth disturbing *mirror images*.
 - **[Hunger for Flesh](hunger-for-flesh.md)**: Give a creature a bite attack and a hunger for its own kind’s flesh.
@@ -710,6 +717,7 @@ Psychics gain access to the following spells. Spells without a link come from ot
 - **[Song of Discord](song-of-discord.md)**: Forces targets to attack each other.
 - **[Sonic Thrust](sonic-thrust.md)**: Sound moves targets away from you.
 - Spell Immunity, Communal
+- **[Soul Vault](soul-vault.md)**: Protect a soul from being trapped
 - **[Spell Resistance](spell-resistance.md)**: Subject gains SR 12 + level.
 - Spellsteal
 - Steal Power
@@ -744,6 +752,7 @@ Psychics gain access to the following spells. Spells without a link come from ot
 - **[Awaken Construct](awaken-construct.md)**
 - **[Battlemind Link](battlemind-link.md)**: You and an ally gain attack and AC bonuses.
 - **[Bear’s Endurance, Mass](bears-endurance-mass.md)**: As *bear’s endurance*, affects 1 subject/level.
+- **[Betraying Sting](betraying-sting.md)**: Smite those who trusted you
 - **[Blade Barrier](blade-barrier.md)**: Wall of blades deals 1d6/level damage.
 - **[Break, Greater](break-greater.md)**: Break all nearby objects.
 - **[Bull’s Strength, Mass](bulls-strength-mass.md)**: As *bull’s strength*, affects 1 subject/level.
@@ -784,6 +793,7 @@ Psychics gain access to the following spells. Spells without a link come from ot
 - **[Intellect Fortress III](intellect-fortress-iii.md)**: As intellect fortress II, plus remove partial effects of fear and emotion effects.
 - **[Inveigle Monster](inveigle-monster.md)**: As inveigle person, but affects any living creature for 1 day/level.
 - **[Joyful Rapture](joyful-rapture.md)**: Negate harmful emotions.
+- **[Knock, Mass](knock-mass.md)**: Open many locks or closures at once
 - **[Leashed Shackles](leashed-shackles.md)**
 - **[Legend Lore](legend-lore.md)**: Lets you learn tales about a person, place, or thing.
 - **[Mage’s Decree](mages-decree.md)**: Send a message to creatures within miles.

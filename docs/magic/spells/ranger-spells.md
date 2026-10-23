@@ -45,6 +45,7 @@
 - **[Marid’s Mastery](marid-s-mastery.md)**: School transmutation [water]; Level cleric 1, druid 1, ranger 1, sorcerer/wizard 1, witch 1 Casting Time 1.
 - **[Nature's Paths](natures-paths.md)**: Find the fastest way through the wilderness
 - **[Pass without Trace](pass-without-trace.md)**: One subject/level leaves no tracks.
+- **[Preserve](preserve.md)**: Stop spoilage of objects for a week
 - **[Read Magic](read-magic.md)**: Read scrolls and spellbooks.
 - **[Read Weather](read-weather.md)**: Forecast the weather for 48 hours.
 - **[Resist Energy](resist-energy.md)**: Ignores 10 (or more) points of damage/attack from specified energy type.
@@ -101,6 +102,7 @@
 - **[Iron Stake](iron-stake.md)**: Hurl a spike of cold iron at a foe.
 - **[Ironskin](ironskin.md)**: Harden your skin to iron
 - **[Locate Weakness](locate-weakness.md)**: You roll damage twice when you roll damage for a critical hit and take the best damage.
+- **[Overstimulate](overstimulate.md)**: Grant ferocity to keep a creature conscious
 - **[Owl’s Wisdom](owls-wisdom.md)**: Subject gains +4 to Wis for 1 min./level.
 - **[Pack Empathy](pack-empathy.md)**: Create an empathic bond with allies.
 - **[Pouncing Fury](pouncing-fury.md)**: Make a full attack with your claws after a charge.
@@ -208,6 +210,7 @@
 - **[Find Quarry](find-quarry.md)**: You can sense whether a particular creature is within 20 miles of your location.
 - **[Freedom of Movement](freedom-of-movement.md)**: Subject moves normally despite impediments to movement.
 - **[Green Caress](green-caress.md)**: Slowly transform a creature into an inanimate plant.
+- **[Harvest Knowledge](harvest-knowledge.md)**: Absorb a creature's knowledge
 - **[Inspiring Recovery](inspiring-recovery.md)**: Heals and can revive a creature dead for 1 round, rallying its allies.
 - **[Invoke Deity](invoke-deity.md)**: Infuse yourself with the powers of your deity's planar realm
 - **[Named Bullet, Greater](named-bullet-greater.md)**: As named bullet, but deals 2 points of damage per caster level.

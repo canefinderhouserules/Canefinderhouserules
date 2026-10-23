@@ -22,6 +22,7 @@ New inquisitor spells from *Ultimate Magic*. Spells from other books will be add
 - **[Fallback Strategy](fallback-strategy.md)**: Reroll one attack, maneuver, or skill check.
 - **[Forbid Action](forbid-action.md)**: Target obeys command to not do something.
 - **[Forced Quiet](forced-quiet.md)**: Target cannot make loud noises.
+- **[Funereal Weapon](funereal-weapon.md)**: Weapon ignores 5 points of undead DR
 - **[Grappling Scarf](grappling-scarf.md)**: Your scarf becomes a grappling hook and rope.
 - **[Guardian Armor](guardian-armor.md)**: Teleports your armor onto an ally.
 - **[Handy Grapnel](handy-grapnel.md)**: Transform a ropelike object into a retracting grapple.
@@ -54,13 +55,16 @@ New inquisitor spells from *Ultimate Magic*. Spells from other books will be add
 - **[Preserve Grace](preserve-grace.md)**: Grant a phylactery of faithfulness effect.
 - **[Recharge Innate Magic](recharge-innate-magic.md)**: You channel magic energy into your own aura, recharging your innate magic abilities.
 - **[Returning Weapon](returning-weapon.md)**: Grants a weapon the returning special weapon quality.
+- **[Reveal Secrets](reveal-secrets.md)**: Learn whether a target has a secret
 - **[Sanctify Corpse](sanctify-corpse.md)**: Prevent a corpse from becoming an undead.
+- **[Scarify](scarify.md)**: Convert lethal damage to nonlethal, leaving scars
 - **[Secret Speech](secret-speech.md)**: Send hidden messages within normal speech.
 - **[Speak Local Language](speak-local-language.md)**: Speak and understand one known regional human language.
 - **[Stalwart Resolve](stalwart-resolve.md)**: Ignore ability damage to one score.
 - **[Theft Ward](theft-ward.md)**: You ward a single object in your possession against theft.
 - **[Thunder Arrow](thunder-arrow.md)**: Electric arrow that attacks or signals.
 - **[Touch of Combustion](touch-of-combustion.md)**: Your successful melee touch attack causes the target to ignite in a violent burst of flame, dealing 1d6.
+- **[True Appraisal](true-appraisal.md)**: Gain insight into the value of objects
 - **[Unerring Weapon](unerring-weapon.md)**: Grants a +2 bonus, +1 per four caster levels, on attack rolls to confirm a critical hit.
 - **[Velvet Diplomacy](velvet-diplomacy.md)**: Intimidate a target into friendliness and cloud its memory of the threats.
 - **[Vocal Alteration](vocal-alteration.md)**: Disguise target’s voice.
@@ -122,6 +126,7 @@ New inquisitor spells from *Ultimate Magic*. Spells from other books will be add
 - **[Litany of Defense](litany-of-defense.md)**: Doubles armor’s enhancement bonus.
 - **[Magic Siege Engine](magic-siege-engine.md)**: Siege engine gains +1 on targeting and damage rolls.
 - **[Mark of Blood](mark-of-blood.md)**: Mark a creature struck by a bloodied weapon.
+- **[Necrostasis](necrostasis.md)**: Stagger an undead creature
 - **[Open Book](open-book.md)**: Make it permanently easier to learn more about a target.
 - **[Protection from Chaos, Communal](protection-from-chaos-communal.md)**: As protection from chaos, but you may divide the duration among creatures touched.
 - **[Protection from Evil, Communal](protection-from-evil-communal.md)**: As protection from evil, but you may divide the duration among creatures touched.
@@ -146,6 +151,7 @@ New inquisitor spells from *Ultimate Magic*. Spells from other books will be add
 - **[Shifted Steps](shifted-steps.md)**: Make a target sound as if elsewhere.
 - **[Spell Gauge](spell-gauge.md)**: Reveal some of a target’s spells.
 - **[Spindrift Spritz](spindrift-spritz.md)**: Ally rerolls a save against fatigue, shaken, sickened, or staggered.
+- **[Spiral Descent](spiral-descent.md)**: Teleport downward as a helical beam
 - **[Spiritual Squire](spiritual-squire.md)**: A force servant helps carry, aid, and armor allies.
 - **[Sun’s Disdain](suns-disdain.md)**: Target is hurt by sunlight.
 - **[Surmount Affliction](surmount-affliction.md)**: Temporarily suppress one condition.
@@ -193,6 +199,7 @@ New inquisitor spells from *Ultimate Magic*. Spells from other books will be add
 - **[Meticulous Match](meticulous-match.md)**: Determine if two things are identical.
 - **[Night of Blades](night-of-blades.md)**: Wall of whirling blades.
 - **[Pack Empathy](pack-empathy.md)**: Create an empathic bond with allies.
+- **[Pillow Talk](pillow-talk.md)**: Question a sleeping creature
 - **[Planar Inquiry](planar-inquiry.md)**: Call an outsider to answer questions.
 - **[Resist Energy, Communal](resist-energy-communal.md)**: As resist energy, but you may divide the duration among creatures touched.
 - **[Sadomasochism](sadomasochism.md)**: Pain empowers your attacks and demoralizes attackers.
@@ -200,6 +207,8 @@ New inquisitor spells from *Ultimate Magic*. Spells from other books will be add
 - **[Selective Alarm](selective-alarm.md)**: As *alarm*, but only against selected creatures.
 - **[Selective Invisibility](selective-invisibility.md)**: Invisible, except to one chosen creature you may attack.
 - **[Slave to Sin](slave-to-sin.md)**: Exploit a creature’s sin to sicken and stagger it.
+- **[Soul Vault](soul-vault.md)**: Protect a soul from being trapped
+- **[Spiral Ascent](spiral-ascent.md)**: Teleport upward as a helical beam
 - **[Terrible Remorse](terrible-remorse.md)**: Creature is compelled to harm itself.
 - **[They Know](they-know.md)**: Convince target that a nearby creature knows her greatest secret.
 - **[Trial by Fire](trial-by-fire.md)**: Divine fire punishes targets whose alignment differs from your deity’s.
@@ -228,6 +237,7 @@ New inquisitor spells from *Ultimate Magic*. Spells from other books will be add
 - **[Fleshworm Infestation](fleshworm-infestation.md)**: Worms deal hp and Dex damage.
 - **[Forceful Strike](forceful-strike.md)**: Melee hit deals extra force damage and bull rush.
 - **[Glimpse of Truth](glimpse-of-truth.md)**: Gain *true seeing* for 1 round.
+- **[Harvest Knowledge](harvest-knowledge.md)**: Absorb a creature's knowledge
 - **[Hasten Judgment](hasten-judgment.md)**: Quicken a soul's journey to judgment, hampering resurrection or weakening undead foes
 - **[Healing Flames](healing-flames.md)**: Holy flames heal good creatures and burn evil ones.
 - **[Healing Warmth](healing-warmth.md)**: This spell grants you temporary immunity to fire damage as protection from energy.
@@ -274,6 +284,7 @@ New inquisitor spells from *Ultimate Magic*. Spells from other books will be add
 - **[Mage’s Decree](mages-decree.md)**: Send a message to creatures within miles.
 - **[Profane Nimbus](profane-nimbus.md)**: Unholy energy damages good creatures that attack you and protects you from good attacks.
 - **[Sacred Nimbus](sacred-nimbus.md)**: Holy energy damages evil creatures that attack you and protects you from evil attacks.
+- **[Shroud of Darkness](shroud-of-darkness.md)**: Plunge targets into supernatural darkness
 - **[Soulswitch](soulswitch.md)**: Swap souls with your familiar.
 - **[Spawn Ward](spawn-ward.md)**: School necromancy; Level cleric 5, inquisitor 5 Casting Time 1 standard action Components V, S Range touch.
 - **[Spell Immunity, Communal](spell-immunity-communal.md)**: As spell immunity, but you may divide the duration among creatures touched.
@@ -291,6 +302,7 @@ New inquisitor spells from *Ultimate Magic*. Spells from other books will be add
 - **[Cruel Jaunt](cruel-jaunt.md)**: Sense creatures suffering from fear, then teleport close to them.
 - **[Inspiring Recovery](inspiring-recovery.md)**: Heals and can revive a creature dead for 1 round, rallying its allies.
 - **[Invoke Deity](invoke-deity.md)**: Infuse yourself with the powers of your deity's planar realm
+- **[Knock, Mass](knock-mass.md)**: Open many locks or closures at once
 - **[Litany of Madness](litany-of-madness.md)**: A single target is confused for at least 1 round.
 - **[Named Bullet, Greater](named-bullet-greater.md)**: As named bullet, but deals 2 points of damage per caster level.
 - **[Neutralize Poison, Greater](neutralize-poison-greater.md)**: As neutralize poison, but it also reverses poison damage.

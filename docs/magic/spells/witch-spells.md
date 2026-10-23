@@ -28,6 +28,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Echo](echo.md)**: Cause a sound to repeat itself.
 - **[Endothermic Touch](endothermic-touch.md)**: Slow a reptile or dragon, staggering it
 - **[Fabricate Disguise](fabricate-disguise.md)**: Create a disguise in an instant.
+- **[Ferment](ferment.md)**: Imbue a drink with an intoxicant
 - **[Forced Quiet](forced-quiet.md)**: Target cannot make loud noises.
 - **[Frostbite](frostbite.md)**: Target takes cold damage and is fatigued.
 - **[Fumbletongue](fumbletongue.md)**: Target cannot speak intelligently.
@@ -40,6 +41,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Icicle Dagger](icicle-dagger.md)**: Masterwork ice dagger deals +1 cold damage.
 - **[Illusory Crowd](illusory-crowd.md)**: Illusory stationary crowd.
 - **[Implant Urge](implant-urge.md)**: A target unconsciously desires a goal you choose.
+- **[Incessant Buzzing](incessant-buzzing.md)**: Illusory wasp swarm disrupts concentration
 - **[Instant Portrait](instant-portrait.md)**: Paint a quick monochrome portrait.
 - **[Interrogation](interrogation.md)**: Target answers questions or suffers pain.
 - **[Jury-Rig](jury-rig.md)**: Removes the broken condition from the targeted object.
@@ -58,24 +60,29 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Pick Your Poison](pick-your-poison.md)**: Poison becomes mere intoxication for a time.
 - **[Poisoned Egg](poisoned-egg.md)**: Turn an egg into a dose of poison.
 - **[Positive Pulse](positive-pulse.md)**: Energy harms undead or bolsters the living
+- **[Preserve](preserve.md)**: Stop spoilage of objects for a week
 - **[Ray of Sickening](ray-of-sickening.md)**: Ray makes subject sickened.
 - **[Read Weather](read-weather.md)**: Forecast the weather for 48 hours.
 - **[Recharge Innate Magic](recharge-innate-magic.md)**: You channel magic energy into your own aura, recharging your innate magic abilities.
 - **[Reinforce Armaments](reinforce-armaments.md)**: Temporarily mitigates the fragile quality in targeted weapon or armor.
 - **[Remove Sickness](remove-sickness.md)**: Suppress disease, nausea, and the sickened condition.
 - **[Restore Corpse](restore-corpse.md)**: Skeletal corpse grows flesh.
+- **[Reveal Secrets](reveal-secrets.md)**: Learn whether a target has a secret
 - **[Sanctify Corpse](sanctify-corpse.md)**: Prevent a corpse from becoming an undead.
+- **[Scarify](scarify.md)**: Convert lethal damage to nonlethal, leaving scars
 - **[Sculpted Cape](sculpted-cape.md)**: Your cape stiffens and holds its shape.
 - **[Shadow Weapon](shadow-weapon.md)**: Create a quasi-real masterwork weapon.
 - **[Snowball](snowball.md)**: Throw a conjured ball of snow at a target.
 - **[Sow Thought](sow-thought.md)**: School enchantment (compulsion) [mind-affecting]; Level bard 1, sorcerer/wizard 1, witch 1 Casting Time 1.
 - **[Speak Local Language](speak-local-language.md)**: Speak and understand one known regional human language.
+- **[Spirit Share](spirit-share.md)**: Deliver a drink or potion by touch
 - **[Strong Wings](strong-wings.md)**: School transmutation; Level druid 1, ranger 1, sorcerer/wizard 1, witch 1 Casting Time 1 standard action.
 - **[Summon Minor Monster](summon-minor-monster.md)**: Summon 1d3 Tiny animals.
 - **[Tap Inner Beauty](tap-inner-beauty.md)**: +2 insight bonus on Charisma checks.
 - **[Theft Ward](theft-ward.md)**: You ward a single object in your possession against theft.
 - **[Touch of Combustion](touch-of-combustion.md)**: Your successful melee touch attack causes the target to ignite in a violent burst of flame, dealing 1d6.
 - **[Transfer Tattoo](transfer-tattoo.md)**: Move a magic tattoo between creatures.
+- **[True Appraisal](true-appraisal.md)**: Gain insight into the value of objects
 - **[Undine’s Curse](undine-s-curse.md)**: The target loses its body’s natural ability to breathe automatically.
 - **[Unerring Weapon](unerring-weapon.md)**: Grants a +2 bonus, +1 per four caster levels, on attack rolls to confirm a critical hit.
 - **[Unprepared Combatant](unprepared-combatant.md)**: Target takes –4 on initiative and Reflex saves.
@@ -155,6 +162,9 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Miserable Pity](miserable-pity.md)**: Opponents cannot attack a pathetic creature.
 - **[Mount, Communal](mount-communal.md)**: As mount, but you may divide the duration among creatures touched.
 - **[Mud Buddy](mud-buddy.md)**: Create a small mud servant that can trip foes
+- **[Necrostasis](necrostasis.md)**: Stagger an undead creature
+- **[Overstimulate](overstimulate.md)**: Grant ferocity to keep a creature conscious
+- **[Painful Revelation](painful-revelation.md)**: Illusion hurts those who disbelieve it
 - **[Paranoia](paranoia.md)**: Target becomes hostile to all creatures.
 - **[Passing Fancy](passing-fancy.md)**: Target becomes obsessed with a topic you choose.
 - **[Pernicious Poison](pernicious-poison.md)**: Target takes a –4 penalty against poison.
@@ -240,6 +250,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Fearsome Duplicate](fearsome-duplicate.md)**: School illusion (figment); Level bard 3, inquisitor 3, sorcerer/wizard 3, witch 3 Casting Time 1 standard.
 - **[Fins to Feet](fins-to-feet.md)**: School transmutation (polymorph); Level druid 3, sorcerer/wizard 3, witch 3 Casting Time 1 standard action.
 - **[Flash Fire](flash-fire.md)**: Ammunition in the targeted firearm creates a tremendous flash capable of blinding the weapon’s bearer and those around him.
+- **[Free Spirit](free-spirit.md)**: Gain freedom of movement and fear resistance, but be drunk
 - **[Garrulous Grin](garrulous-grin.md)**: Target seems guilty and takes –4 on Bluff and Diplomacy.
 - **[Gloomblind Bolts](gloomblind-bolts.md)**: You create one or more bolts of negative energy infused with shadow pulled from the Shadow Plane.
 - **[Grasping Tentacles](grasping-tentacles.md)**: As black tentacles, but they perform dirty tricks.
@@ -264,6 +275,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Pack Empathy](pack-empathy.md)**: Create an empathic bond with allies.
 - **[Paragon Surge](paragon-surge.md)**: You surge with ancestral power, temporarily embodying all the strengths of both elvenkind and humankind.
 - **[Phantasmal Affliction](phantasmal-affliction.md)**: Convince a target that it contracted an affliction.
+- **[Pillow Talk](pillow-talk.md)**: Question a sleeping creature
 - **[Planar Inquiry](planar-inquiry.md)**: Call an outsider to answer questions.
 - **[Pocketful of Vipers](pocketful-of-vipers.md)**: Ward a container with summoned vipers.
 - **[Pugwampi’s Grace](pugwampis-grace.md)**: Target rolls 2d20 and takes the lower result.
@@ -305,6 +317,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Age Resistance, Lesser](age-resistance-lesser.md)**: Ignore penalties from middle age.
 - **[Anywhere But Here](anywhere-but-here.md)**: Transport yourself and willing creatures to a random planar destination
 - **[Assume Appearance, Greater](assume-appearance-greater.md)**: Use a likeness to adopt a dead creature’s form.
+- **[Bereave](bereave.md)**: Make targets count as enemies to their own allies
 - **[Bestow Planar Infusion II](bestow-planar-infusion-ii.md)**: Grant a target the effects of an improved planar infusion
 - **[Bite the Hand](bite-the-hand.md)**: Summoned creature attacks its summoner.
 - **[Blast Barrier](blast-barrier.md)**: Unstable wall that explodes for damage.
@@ -329,6 +342,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Fleshworm Infestation](fleshworm-infestation.md)**: Worms deal hp and Dex damage.
 - **[Forgetful Slumber](forgetful-slumber.md)**: This spell acts as the deeper slumber spell, but only affects one creature of 10 Hit Dice or fewer.
 - **[Ghost Brand](ghost-brand.md)**: Allow an item to transform into a brand and back.
+- **[Harvest Knowledge](harvest-knowledge.md)**: Absorb a creature's knowledge
 - **[Hellmouth Lash](hellmouth-lash.md)**: Upon casting this spell, your tongue transforms into an energy whip weapon that can deal acid, electricity.
 - **[Hollow Heroism](hollow-heroism.md)**: Provide a *heroism* effect that you can reverse at any time.
 - **[Hunger for Flesh](hunger-for-flesh.md)**: Give a creature a bite attack and a hunger for its own kind’s flesh.
@@ -352,6 +366,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Seeds of Influence](seeds-of-influence.md)**: Leave a trace in a creature’s mind that weakens it against your divinations and enchantments.
 - **[Shadow Step](shadow-step.md)**: Teleport from one shadow to another.
 - **[Share Shape](share-shape.md)**: Beast shape II, limited to your companion's or familiar's kind.
+- **[Soul Vault](soul-vault.md)**: Protect a soul from being trapped
 - **[Symbol of Healing](symbol-of-healing.md)**: Triggered rune heals living creatures.
 - **[Symbol of Revelation](symbol-of-revelation.md)**: Triggered symbol reveals illusions.
 - **[Symbol of Slowing](symbol-of-slowing.md)**: Triggered rune slows creatures.
@@ -435,6 +450,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Age Resistance](age-resistance.md)**: Ignore penalties from old age.
 - **[Alleviate Corruption](alleviate-corruption.md)**: Attempt to weaken a corruption’s effect at risk to yourself.
 - **[Balance of Suffering](balance-of-suffering.md)**: Drain one creature to heal another.
+- **[Betraying Sting](betraying-sting.md)**: Smite those who trusted you
 - **[Binding Earth, Mass](binding-earth-mass.md)**: School transmutation [earth]; Level druid 6, witch 6 Target one creature or object/level, no two of which can.
 - **[Cruel Jaunt](cruel-jaunt.md)**: Sense creatures suffering from fear, then teleport near them.
 - **[Curse of the Outcast](curse-of-the-outcast.md)**: Curse someone to rub people the wrong way.

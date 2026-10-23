@@ -61,6 +61,7 @@ Occultists gain access to the following spells, determined by their chosen imple
 - **[Alarm](alarm.md)**: Wards an area for 2 hours/level.
 - **[Bestow Planar Infusion I](bestow-planar-infusion-i.md)**: Grant a target the effects of a planar infusion
 - **[Detect Charm](detect-charm.md)**: Detect charm, compulsion, and possession effects.
+- **[Funereal Weapon](funereal-weapon.md)**: Weapon ignores 5 points of undead DR
 - **[Grappling Scarf](grappling-scarf.md)**: Your scarf becomes a grappling hook and rope.
 - **[Guardian Armor](guardian-armor.md)**: Teleports your armor onto an ally.
 - **[Hex Ward](hex-ward.md)**: Target gains +4 on saves against witch hexes.
@@ -69,6 +70,7 @@ Occultists gain access to the following spells, determined by their chosen imple
 - Peacebond
 - **[Instant Portrait](instant-portrait.md)**: Paint a quick monochrome portrait.
 - **[Mirror Mantis](mirror-mantis.md)**: A target sees a menacing assassin in every mirror.
+- **[Preserve](preserve.md)**: Stop spoilage of objects for a week
 - **[Rune Trace](rune-trace.md)**: Learn a rune’s age, language, and purpose.
 - **[Sculpted Cape](sculpted-cape.md)**: Your cape stiffens and holds its shape.
 - **[Shield](shield.md)**: Invisible disc gives +4 to AC, blocks *magic missiles.*
@@ -84,6 +86,8 @@ Occultists gain access to the following spells, determined by their chosen imple
 - **[Mage Armor](mage-armor.md)**: Gives subject +4 armor bonus.
 - **[Mount](mount.md)**: Summons riding horse for 2 hours/level.
 - Returning Weapon
+- **[Spirit Share](spirit-share.md)**: Deliver a drink or potion by touch
+- **[True Appraisal](true-appraisal.md)**: Gain insight into the value of objects
 - **[Unseen Servant](unseen-servant.md)**: Invisible force obeys your commands.
 
 **Divination**:
@@ -691,9 +695,11 @@ Occultists gain access to the following spells, determined by their chosen imple
 - **[Absorb Rune II](absorb-rune-ii.md)**: Absorb a rune of 5th level or lower.
 - **[Antimagic Field](antimagic-field.md)**: Negates magic within 10 ft.
 - **[Balance of Suffering](balance-of-suffering.md)**: Drain one creature to heal another.
+- **[Betraying Sting](betraying-sting.md)**: Smite those who trusted you
 - **[Forbiddance](forbiddance.md)**: Blocks planar travel, damages creatures of different alignment.
 - **[Globe of Invulnerability](globe-of-invulnerability.md)**: As *lesser globe of invulnerability*, plus 4th-level spell effects.
 - **[Invoke Deity](invoke-deity.md)**: Infuse yourself with the powers of your deity's planar realm
+- **[Knock, Mass](knock-mass.md)**: Open many locks or closures at once
 - **[Repulsion](repulsion.md)**: Creatures can’t approach you.
 - **[Rotting Alliance](rotting-alliance.md)**: Curse several creatures to waste away when near one another.
 - **[Scribe’s Binding](scribes-binding.md)**: Bind a creature and its memories into a book.

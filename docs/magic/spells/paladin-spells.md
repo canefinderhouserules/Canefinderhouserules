@@ -22,6 +22,7 @@
 - **[Enhance Water](enhance-water.md)**: Turn water into ale or wine.
 - **[Fallback Strategy](fallback-strategy.md)**: Reroll one attack, maneuver, or skill check.
 - **[Firebelly](firebelly.md)**: Fire resistance 5 and a small fire breath.
+- **[Funereal Weapon](funereal-weapon.md)**: Weapon ignores 5 points of undead DR
 - **[Guardian Armor](guardian-armor.md)**: Teleports your armor onto an ally.
 - **[Haze of Dreams](haze-of-dreams.md)**: Halve a creature’s speed with waking dreams.
 - **[Hedging Weapons](hedging-weapons.md)**: Floating weapons protect you and make ranged attacks.

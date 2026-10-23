@@ -82,6 +82,7 @@
 - **[Endure Elements](endure-elements.md)**: Exist comfortably in hot or cold regions.
 - **[Fabricate Bullets](fabricate-bullets.md)**
 - **[Fabricate Disguise](fabricate-disguise.md)**: Create a disguise in an instant.
+- **[Ferment](ferment.md)**: Imbue a drink with an intoxicant
 - **[Fool's Gold](fools-gold.md)**: Make copper or silver appear to be gold
 - **[Grappling Scarf](grappling-scarf.md)**: Your scarf becomes a grappling hook and rope.
 - **[Grasping Corpse](grasping-corpse.md)**: Cause a corpse to grab or trip a foe.
@@ -94,6 +95,7 @@
 - **[Identity Validation](identity-validation.md)**: Confirm a creature’s identity from a sample.
 - **[Illusion of Calm](illusion-of-calm.md)**: You appear to be standing still, even when you take some actions.
 - **[Implant Urge](implant-urge.md)**: A target unconsciously desires a goal you choose.
+- **[Incessant Buzzing](incessant-buzzing.md)**: Illusory wasp swarm disrupts concentration
 - **[Instant Portrait](instant-portrait.md)**: Paint a quick monochrome portrait.
 - **[Jury-Rig](jury-rig.md)**: Removes the broken condition from the targeted object.
 - **[Liberating Command](liberating-command.md)**: Target makes an Escape Artist check as an immediate action and gains a bonus on it.
@@ -115,10 +117,12 @@
 - **[Peacebond](peacebond.md)**: Locks a weapon in place on the target’s body.
 - **[Poisoned Egg](poisoned-egg.md)**: Turn an egg into a dose of poison.
 - **[Positive Pulse](positive-pulse.md)**: Energy harms undead or bolsters the living
+- **[Preserve](preserve.md)**: Stop spoilage of objects for a week
 - **[Protection from Chaos](protection-from-chaos.md)/[Protection from Evil](protection-from-evil.md)/[Protection from Good](protection-from-good.md)/[Protection from Law](protection-from-law.md)**: +2 to AC and saves, plus additional protection against selected alignment.
 - **[Quintessence](quintessence.md)**: Mask any flaws of or damage to a creature or object.
 - **[Recharge Innate Magic](recharge-innate-magic.md)**: You channel magic energy into your own aura, recharging your innate magic abilities.
 - **[Reinforce Armaments](reinforce-armaments.md)**: Temporarily mitigates the fragile quality in targeted weapon or armor.
+- **[Reveal Secrets](reveal-secrets.md)**: Learn whether a target has a secret
 - **[Rune Trace](rune-trace.md)**: Learn a rune’s age, language, and purpose.
 - **[Sculpted Cape](sculpted-cape.md)**: Your cape stiffens and holds its shape.
 - **[See Alignment](see-alignment.md)**: Pick an alignment; in your sight, creatures and items with that alignment emit a ghostly radiance.
@@ -135,6 +139,7 @@
 - **[Songbird](songbird.md)**: Conjure music from a good-aligned plane
 - **[Sow Thought](sow-thought.md)**: School enchantment (compulsion) [mind-affecting]; Level bard 1, sorcerer/wizard 1, witch 1 Casting Time 1.
 - **[Speak Local Language](speak-local-language.md)**: Speak and understand one known regional human language.
+- **[Spirit Share](spirit-share.md)**: Deliver a drink or potion by touch
 - **[Stone Shield](stone-shield.md)**: A 1-inch-thick slab of stone springs up from the ground, interposing itself between you and an opponent of.
 - **[Strong Wings](strong-wings.md)**: School transmutation; Level druid 1, ranger 1, sorcerer/wizard 1, witch 1 Casting Time 1 standard action.
 - **[Summon Monster I](summon-monster-i.md)**: Summons extraplanar creature to fight for you.
@@ -285,6 +290,7 @@
 - **[Mud Buddy](mud-buddy.md)**: Create a small mud servant that can trip foes
 - **[Obscure Object](obscure-object.md)**: Masks object against scrying.
 - **[Obscured Script](obscured-script.md)**: Text becomes hard to read and deciphers falsely.
+- **[Painful Revelation](painful-revelation.md)**: Illusion hurts those who disbelieve it
 - **[Paranoia](paranoia.md)**: Target becomes hostile to all creatures.
 - **[Passing Fancy](passing-fancy.md)**: Target becomes obsessed with a topic you choose.
 - **[Pilfering Hand](pilfering-hand.md)**: You may seize an object or manipulate it from afar.
@@ -479,6 +485,7 @@
 - **[Matchmaker](matchmaker.md)**: Cause two creatures to fall in love.
 - **[Minor Dream](minor-dream.md)**: School illusion (figment) [mind-affecting]; Level alchemist 2, bard 3, sorcerer/wizard 3, witch 2 Casting.
 - **[Monstrous Extremities](monstrous-extremities.md)**: Change limbs into tentacles, hooves, or wings.
+- **[Necrostasis](necrostasis.md)**: Stagger an undead creature
 - **[Night of Blades](night-of-blades.md)**: Wall of whirling blades.
 - **[Nixie’s Lure](nixie-s-lure.md)**: This spell creates an unearthly and infectious song that seductively summons all who hear it.
 - **[Nondetection](nondetection.md)**: Hides subject from divination, scrying.
@@ -490,6 +497,7 @@
 - **[Pellet Blast](pellet-blast.md)**
 - **[Phantasmal Affliction](phantasmal-affliction.md)**: Convince a target that it contracted an affliction.
 - **[Phantom Driver](phantom-driver.md)**: Conjures a phantom to drive vehicles.
+- **[Pillow Talk](pillow-talk.md)**: Question a sleeping creature
 - **[Planar Inquiry](planar-inquiry.md)**: Call an outsider to answer questions.
 - **[Poison Exchange](poison-exchange.md)**: Swallow one poison and regurgitate another.
 - **[Prehensile Pilfer](prehensile-pilfer.md)**: School transmutation; Level alchemist 3, bard 3, magus 3, sorcerer/wizard 3 Casting Time 1 standard action.
@@ -628,6 +636,7 @@
 - **[Geomessage](geomessage.md)**: Leave an invisible message on a surface
 - **[Ghost Wolf](ghost-wolf.md)**: This spell conjures a Large, quasi-real, wolflike creature made of roiling black smoke.
 - **[Globe of Invulnerability, Lesser](globe-of-invulnerability-lesser.md)**: Stops 1st- through 3rd- level spell effects.
+- **[Harvest Knowledge](harvest-knowledge.md)**: Absorb a creature's knowledge
 - **[Hellmouth Lash](hellmouth-lash.md)**: Upon casting this spell, your tongue transforms into an energy whip weapon that can deal acid, electricity.
 - **[Hollow Heroism](hollow-heroism.md)**: Provide a *heroism* effect that you can reverse at any time.
 - **[Homeward Bound](homeward-bound.md)**: Return a creature to its home plane
@@ -678,6 +687,7 @@
 - **[Shadowy Haven](shadowy-haven.md)**: This spell functions like rope trick, except the point of entry is through a 5-foot-square instead of a rope.
 - **[Share Shape](share-shape.md)**: Beast shape II, limited to your companion's or familiar's kind.
 - **[Shocking Image](shocking-image.md)**: As mirror image, but the duplicates emit electrical damage when destroyed.
+- **[Soul Vault](soul-vault.md)**: Protect a soul from being trapped
 - **[Stoneskin](stoneskin.md)**: Grants DR 10/adamantine.
 
 **Conjuration**
@@ -826,6 +836,7 @@
 - **[Seek Shelter](seek-shelter.md)**: Weak creatures flee to safety in an orderly fashion.
 - **[Sequester Thoughts](sequester-thoughts.md)**: Store a creature’s memories in a gem.
 - **[Shapechanger’s Gift](shapechangers-gift.md)**: Temporarily change a target into an animal, humanoid, or monstrous humanoid.
+- **[Shroud of Darkness](shroud-of-darkness.md)**: Plunge targets into supernatural darkness
 - **[Siphon Magic](siphon-magic.md)**: Transfer a spell effect from a touched creature to you.
 - **[Sleepwalking Suggestion](sleepwalking-suggestion.md)**: Cause a creature to perform a suggested action while asleep.
 - **[Slough](slough.md)**: Slough off a target’s skin.
@@ -945,6 +956,7 @@
 - **[Hasten Judgment](hasten-judgment.md)**: Quicken a soul's journey to judgment, hampering resurrection or weakening undead foes
 - **[Illusion of Treachery, Greater](illusion-of-treachery-greater.md)**: Make it seem like another is responsible for your attacks while concealing your own actions.
 - **[Impart Mind](impart-mind.md)**: Grant a magic item temporary intelligence and powers.
+- **[Knock, Mass](knock-mass.md)**: Open many locks or closures at once
 - **[Mage’s Decree](mages-decree.md)**: Send a message to creatures within miles.
 - **[Mind Swap](mind-swap.md)**: Switch minds with another creature for 1 hour per level.
 - **[Named Bullet, Greater](named-bullet-greater.md)**: As named bullet, but deals 2 points of damage per caster level.

@@ -42,6 +42,7 @@
 - **[Endure Elements](endure-elements.md)**: Exist comfortably in hot or cold regions.
 - **[Entangle](entangle.md)**: Plants entangle everyone in 40-ft. radius.
 - **[Faerie Fire](faerie-fire.md)**: Outlines subjects with light, canceling *blur*, concealment, and the like.
+- **[Ferment](ferment.md)**: Imbue a drink with an intoxicant
 - **[Firebelly](firebelly.md)**: Fire resistance 5 and a small fire breath.
 - **[Goodberry](goodberry.md)**: 2d4 berries each cure 1 hp (max 8 hp/24 hours).
 - **[Hairline Fractures](hairline-fractures.md)**: Weaken stone or earth creatures.
@@ -65,10 +66,12 @@
 - **[Produce Flame](produce-flame.md)**: 1d6 damage + 1/level, touch or thrown.
 - **[Read Weather](read-weather.md)**: Forecast the weather for 48 hours.
 - **[Recharge Innate Magic](recharge-innate-magic.md)**: You channel magic energy into your own aura, recharging your innate magic abilities.
+- **[Scarify](scarify.md)**: Convert lethal damage to nonlethal, leaving scars
 - **[Shillelagh](shillelagh.md)**: Cudgel or quarterstaff becomes +1 weapon (2d6 damage) for 1 min./level.
 - **[Snowball](snowball.md)**: Throw a conjured ball of snow at a target.
 - **[Speak with Animals](speak-with-animals.md)**: You can communicate with animals.
 - **[Spirit Call](spirit-call.md)**: Spirit and domain spells in the area are stronger.
+- **[Spirit Share](spirit-share.md)**: Deliver a drink or potion by touch
 - **[Steady Saddle](steady-saddle.md)**: Steady a saddle for mounted ranged attacks
 - **[Stone Shield](stone-shield.md)**: A 1-inch-thick slab of stone springs up from the ground, interposing itself between you and an opponent of.
 - **[Strong Wings](strong-wings.md)**: School transmutation; Level druid 1, ranger 1, sorcerer/wizard 1, witch 1 Casting Time 1 standard action.
@@ -139,6 +142,7 @@
 - **[Magic Boulder](magic-boulder.md)**: Enchant boulders for throwing
 - **[Mud Buddy](mud-buddy.md)**: Create a small mud servant that can trip foes
 - **[Outbreak](outbreak.md)**: Make diseased creatures contagious
+- **[Overstimulate](overstimulate.md)**: Grant ferocity to keep a creature conscious
 - **[Owl’s Wisdom](owls-wisdom.md)**: Subject gains +4 to Wis for 1 min./level.
 - **[Poison Exchange](poison-exchange.md)**: Swallow one poison and regurgitate another.
 - **[Pouncing Fury](pouncing-fury.md)**: Make a full attack with your claws after a charge.
@@ -204,6 +208,7 @@
 - **[Fey Form I](fey-form-i.md)**: Assume the form of a Small or Medium fey creature.
 - **[Fins to Feet](fins-to-feet.md)**: School transmutation (polymorph); Level druid 3, sorcerer/wizard 3, witch 3 Casting Time 1 standard action.
 - **[Flashfire](flashfire.md)**: Cause smoky fires to spring up to burn foes and set them alight.
+- **[Free Spirit](free-spirit.md)**: Gain freedom of movement and fear resistance, but be drunk
 - **[Guardian Wasps](guardian-wasps.md)**: A wasp swarm builds a nest that guards an area.
 - **[Hunter's Friend](hunters-friend.md)**: Share ranger class abilities with your companion.
 - **[Ice Spears](ice-spears.md)**: Icy spears deal piercing and cold damage and trip foes.
@@ -302,6 +307,7 @@
 - **[Rusting Grasp](rusting-grasp.md)**: Your touch corrodes iron and alloys.
 - **[Scrying](scrying.md)**: Spies on subject from a distance.
 - **[Sea Stallion](sea-stallion.md)**: You and your mount adapt to an aquatic environment.
+- **[Soul Vault](soul-vault.md)**: Protect a soul from being trapped
 - **[Spike Stones](spike-stones.md)**: Creatures in area take 1d8 damage, may also be slowed*.*
 - **[Spindrift Spritz, Mass](spindrift-spritz-mass.md)**: As spindrift spritz, affecting multiple creatures.
 - **[Substitute Trail](substitute-trail.md)**: Make the targets’ trails look like another creature’s.

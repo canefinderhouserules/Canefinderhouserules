@@ -114,6 +114,7 @@ Bloodragers gain access to the following spells. Spells in plain text come from 
 - **[Mark of Blood](mark-of-blood.md)**: Mark a creature struck by a bloodied weapon.
 - **[Mirror Image](mirror-image.md)**: Creates decoy duplicates of you.
 - **[Molten Orb](molten-orb.md)**: Molten metal splash weapon deals 2d6 fire damage plus ongoing damage.
+- **[Overstimulate](overstimulate.md)**: Grant ferocity to keep a creature conscious
 - **[Pouncing Fury](pouncing-fury.md)**: Make a full attack with your claws after a charge.
 - **[Protection from Arrows](protection-from-arrows.md)**: Subject gains DR 10/magic against ranged attacks.
 - **[Pyrotechnics](pyrotechnics.md)**: Turns fire into blinding light or thick smoke.

@@ -34,6 +34,7 @@ New summoner spells from *Ultimate Magic*. Spells from other books will be added
 - **[Garden of Peril](garden-of-peril.md)**: Poisonous mushrooms sicken nearby creatures.
 - **[Ghost Wolf](ghost-wolf.md)**: This spell conjures a Large, quasi-real, wolflike creature made of roiling black smoke.
 - **[Mount, Communal](mount-communal.md)**: As mount, but you may divide the duration among creatures touched.
+- **[Overstimulate](overstimulate.md)**: Grant ferocity to keep a creature conscious
 - **[Protection from Chaos, Communal](protection-from-chaos-communal.md)**: As protection from chaos, but you may divide the duration among creatures touched.
 - **[Protection from Evil, Communal](protection-from-evil-communal.md)**: As protection from evil, but you may divide the duration among creatures touched.
 - **[Protection from Good, Communal](protection-from-good-communal.md)**: As protection from good, but you may divide the duration among creatures touched.

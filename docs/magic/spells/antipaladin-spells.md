@@ -26,6 +26,7 @@ New antipaladin spells from *Ultimate Magic*. Spells from other books will be ad
 - **[Hide Bruises](hide-bruises.md)**: Make wounds appear to vanish
 - **[Hide Weapon](hide-weapon.md)**: Meld a weapon into your arm.
 - **[Huntmaster’s Spear](huntmasters-spear.md)**: Spear becomes a +1 weapon against a chosen favored-enemy type and can be discharged for a powerful attack.
+- **[Incessant Buzzing](incessant-buzzing.md)**: Illusory wasp swarm disrupts concentration
 - **[Ironbeard](ironbeard.md)**: School transmutation; Level antipaladin 1, cleric 1, magus 1, paladin 1, ranger 1 Casting Time 1 standard.
 - **[Linebreaker](linebreaker.md)**: You gain a +20 foot bonus to your base speed when charging and a +2 bonus on combat maneuver checks made to.
 - **[Litany of Sloth](litany-of-sloth.md)**: Single target cannot make attacks of opportunity for 1 round.
@@ -35,7 +36,9 @@ New antipaladin spells from *Ultimate Magic*. Spells from other books will be ad
 - **[Murderous Command](murderous-command.md)**: Target is compelled to kill its ally.
 - **[Obscure Poison](obscure-poison.md)**: Make it harder to detect a poison or a venomous creature.
 - **[Resist Starvation](resist-starvation.md)**: Delay the effects of starvation
+- **[Reveal Secrets](reveal-secrets.md)**: Learn whether a target has a secret
 - **[Savage Maw](savage-maw.md)**: Your teeth extend and sharpen, transforming your mouth into a maw of razor-sharp fangs.
+- **[Scarify](scarify.md)**: Convert lethal damage to nonlethal, leaving scars
 - **[Sense Fear](sense-fear.md)**: Perceive nearby creatures that are experiencing fear.
 - **[Sentry Skull](sentry-skull.md)**: You restore the senses to the severed head of a humanoid or monstrous humanoid killed within the past 24.
 - **[Shadow Claws](shadow-claws.md)**: Gain shadow claws that damage Strength
@@ -70,6 +73,7 @@ New antipaladin spells from *Ultimate Magic*. Spells from other books will be ad
 - **[Magic Siege Engine](magic-siege-engine.md)**: Siege engine gains +1 on targeting and damage rolls.
 - **[Open Book](open-book.md)**: Make it permanently easier to learn more about a target.
 - **[Outbreak](outbreak.md)**: Make diseased creatures contagious
+- **[Painful Revelation](painful-revelation.md)**: Illusion hurts those who disbelieve it
 - **[Pernicious Poison](pernicious-poison.md)**: Target takes a –4 penalty against poison.
 - **[Protection from Good, Communal](protection-from-good-communal.md)**: As protection from good, but you may divide the duration among creatures touched.
 - **[Protection from Law, Communal](protection-from-law-communal.md)**: As protection from law, but you may divide the duration among creatures touched.
@@ -108,6 +112,7 @@ New antipaladin spells from *Ultimate Magic*. Spells from other books will be ad
 - **[Isolate](isolate.md)**: Separate your prey from support
 - **[Litany of Escape](litany-of-escape.md)**: Teleports a friend out of a grapple.
 - **[Litany of Sight](litany-of-sight.md)**: You can see invisible creatures and objects within 30 feet of you.
+- **[Pillow Talk](pillow-talk.md)**: Question a sleeping creature
 - **[Revenant Armor](revenant-armor.md)**: Armor animates around its fallen wearer.
 - **[Sadomasochism](sadomasochism.md)**: Pain empowers your attacks and demoralizes attackers.
 - **[Screaming Flames](screaming-flames.md)**: Send forth a wave of flames screaming with the agony of the damned.
@@ -134,6 +139,7 @@ New antipaladin spells from *Ultimate Magic*. Spells from other books will be ad
 - **[Decollate](decollate.md)**: A target can safely remove its head.
 - **[Die for Your Master](die-for-your-master.md)**: Companion intercepts any attack against you.
 - **[Foster Hatred](foster-hatred.md)**: Cause creatures to hate one type of creature.
+- **[Harvest Knowledge](harvest-knowledge.md)**: Absorb a creature's knowledge
 - **[Hasten Judgment](hasten-judgment.md)**: Quicken a soul's journey to judgment, hampering resurrection or weakening undead foes
 - **[Illusion of Treachery, Greater](illusion-of-treachery-greater.md)**: Make it seem like another is responsible for your attacks while concealing your own actions.
 - **[Inflict Pain, Mass](inflict-pain-mass.md)**: As inflict pain, but affecting one creature per level.
@@ -149,6 +155,7 @@ New antipaladin spells from *Ultimate Magic*. Spells from other books will be ad
 - **[Overwhelming Poison](overwhelming-poison.md)**: Make a poison more difficult to resist.
 - **[Profane Nimbus](profane-nimbus.md)**: Unholy energy damages good creatures that attack you and protects you from good attacks.
 - **[Reptilian Mark](reptilian-mark.md)**: Curse a creature with a glowing mark that slowly turns it into a lizard
+- **[Shroud of Darkness](shroud-of-darkness.md)**: Plunge targets into supernatural darkness
 - **[Speak with Soul](speak-with-soul.md)**: Hold an extended conversation with a soul
 - **[Torpid Reanimation](torpid-reanimation.md)**: *Animate dead* when a specific trigger condition occurs.
 - **[Transplant Visage](transplant-visage.md)**: Wear a stolen face for +10 on Disguise.

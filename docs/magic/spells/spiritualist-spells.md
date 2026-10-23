@@ -57,6 +57,7 @@ Spiritualists gain access to the following spells. Spells without a link come fr
 - **[Obscuring Mist](obscuring-mist.md)**: Fog surrounds you.
 - **[Phantom Blood](phantom-blood.md)**: Gain temporary hp if Con loss would knock you out or kill you.
 - **[Positive Pulse](positive-pulse.md)**: Energy harms undead or bolsters the living
+- **[Preserve](preserve.md)**: Stop spoilage of objects for a week
 - **[Protection from Chaos](protection-from-chaos.md)**
 - **[Protection from Evil](protection-from-evil.md)**
 - **[Protection from Good](protection-from-good.md)**
@@ -66,6 +67,7 @@ Spiritualists gain access to the following spells. Spells without a link come fr
 - **[Remove Sickness](remove-sickness.md)**: Suppress disease, nausea, and the sickened condition.
 - **[Sanctify Corpse](sanctify-corpse.md)**: Prevent a corpse from becoming an undead creature.
 - **[Sanctuary](sanctuary.md)**: Opponents can’t attack you, and you can’t attack.
+- **[Scarify](scarify.md)**: Convert lethal damage to nonlethal, leaving scars
 - **[Shield](shield.md)**: Invisible disc gives +4 to AC, blocks *magic missiles.*
 - **[Summon Monster I](summon-monster-i.md)**: (Evil creatures only.) Summons extraplanar creature to fight for you.
 - **[Telempathic Projection](telempathic-projection.md)**: Alter the target’s attitude or give bonuses to those interacting with the target.
@@ -104,6 +106,7 @@ Spiritualists gain access to the following spells. Spells without a link come fr
 - **[Life Pact](life-pact.md)**: Affected creatures automatically donate hp to stabilize fallen ally.
 - **[Locate Object](locate-object.md)**: Senses direction toward object (specific or type).
 - **[Misdirection](misdirection.md)**: Misleads divinations for 1 creature or object.
+- **[Necrostasis](necrostasis.md)**: Stagger an undead creature
 - **[Object Reading](object-reading.md)**: Read psychic impressions left on an object.
 - **[Phantom Steed](phantom-steed.md)**: Magic horse appears for 1 hour/level.
 - **[Phantom Trap](phantom-trap.md)**: Makes item seem trapped.
@@ -120,6 +123,7 @@ Spiritualists gain access to the following spells. Spells without a link come fr
 - **[Sense Fear](sense-fear.md)**: Perceive nearby creatures that are experiencing fear.
 - **[Shadow Claws](shadow-claws.md)**: Gain shadow claws that damage Strength
 - **[Shifted Steps](shifted-steps.md)**: Make a target sound as if elsewhere.
+- **[Soul Vault](soul-vault.md)**: Protect a soul from being trapped
 - **[Spectral Hand](spectral-hand.md)**: Creates disembodied glowing hand to deliver touch attacks.
 - **[Spindrift Spritz](spindrift-spritz.md)**: Ally rerolls a save against fatigue, shaken, sickened, or staggered.
 - **[Spiritual Squire](spiritual-squire.md)**: A force servant helps carry, aid, and armor allies.
@@ -156,6 +160,7 @@ Spiritualists gain access to the following spells. Spells without a link come fr
 - **[Flesh Puppet](flesh-puppet.md)**: Control a zombie in human guise.
 - **[Fly](fly.md)**: Subject flies at speed of 60 ft.
 - **[Force Punch](force-punch.md)**: Target takes 1d4 force damage per level and is pushed away.
+- **[Free Spirit](free-spirit.md)**: Gain freedom of movement and fear resistance, but be drunk
 - **[Gaseous Form](gaseous-form.md)**: Subject becomes insubstantial and can fly slowly.
 - **[Haste](haste.md)**: One creature/level moves faster, +1 on attack rolls, AC, and Reflex saves.
 - **[Helping Hand](helping-hand.md)**: Ghostly hand leads subject to you.

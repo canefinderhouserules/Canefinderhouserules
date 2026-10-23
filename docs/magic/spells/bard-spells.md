@@ -60,6 +60,7 @@
 - **[Expeditious Retreat](expeditious-retreat.md)**: Your base land speed increases by 30 ft.
 - **[Fabricate Disguise](fabricate-disguise.md)**: Create a disguise in an instant.
 - **[Feather Fall](feather-fall.md)**: Objects or creatures fall slowly.
+- **[Ferment](ferment.md)**: Imbue a drink with an intoxicant
 - **[Fool's Gold](fools-gold.md)**: Make copper or silver appear to be gold
 - **[Grappling Scarf](grappling-scarf.md)**: Your scarf becomes a grappling hook and rope.
 - **[Grease](grease.md)**: Makes 10-ft. square or one object slippery.
@@ -71,6 +72,7 @@
 - **[Identify](identify.md)**: Gives +10 bonus to identify magic items.
 - **[Illusory Crowd](illusory-crowd.md)**: Illusory stationary crowd.
 - **[Implant Urge](implant-urge.md)**: A target unconsciously desires a goal you choose.
+- **[Incessant Buzzing](incessant-buzzing.md)**: Illusory wasp swarm disrupts concentration
 - **[Instant Portrait](instant-portrait.md)**: Paint a quick monochrome portrait.
 - **[Jitterbugs](jitterbugs.md)**: School illusion (figment) [mind-affecting]; Level bard 1, sorcerer/wizard 2 Casting Time 1 standard action.
 - **[Jury-Rig](jury-rig.md)**: Removes the broken condition from the targeted object.
@@ -95,6 +97,7 @@
 - **[Read Weather](read-weather.md)**: Forecast the weather for 48 hours.
 - **[Recharge Innate Magic](recharge-innate-magic.md)**: You channel magic energy into your own aura, recharging your innate magic abilities.
 - **[Remove Fear](remove-fear.md)**: Suppresses fear or gives +4 on saves against fear for one subject + one per four levels.
+- **[Reveal Secrets](reveal-secrets.md)**: Learn whether a target has a secret
 - **[Revealing Light](revealing-light.md)**: Object sheds shifting light that foils Stealth bonuses.
 - **[Rune Trace](rune-trace.md)**: Learn a rune’s age, language, and purpose.
 - **[Sculpted Cape](sculpted-cape.md)**: Your cape stiffens and holds its shape.
@@ -105,12 +108,14 @@
 - **[Songbird](songbird.md)**: Conjure music from a good-aligned plane
 - **[Sow Thought](sow-thought.md)**: School enchantment (compulsion) [mind-affecting]; Level bard 1, sorcerer/wizard 1, witch 1 Casting Time 1.
 - **[Speak Local Language](speak-local-language.md)**: Speak and understand one known regional human language.
+- **[Spirit Share](spirit-share.md)**: Deliver a drink or potion by touch
 - **[Summon Monster I](summon-monster-i.md)**: Summons extraplanar creature to fight for you.
 - **[Tamer’s Lash](tamers-lash.md)**: Create a whip made of sound that damages foes and can frighten animals.
 - **[Tap Inner Beauty](tap-inner-beauty.md)**: +2 insight bonus on Charisma checks.
 - **[Technomancy](technomancy.md)**: Detect technological objects.
 - **[Toilsome Chant](toilsome-chant.md)**: School enchantment (compulsion)[mind-affecting]; Level bard 1 Casting Time see text Components V, S Range.
 - **[Transfer Tattoo](transfer-tattoo.md)**: Move a magic tattoo between creatures.
+- **[True Appraisal](true-appraisal.md)**: Gain insight into the value of objects
 - **[True Skill](true-skill.md)**: Gain an insight bonus on your next check with a chosen skill.
 - **[Undetectable Alignment](undetectable-alignment.md)**: Conceals alignment for 24 hours.
 - **[Unseen Servant](unseen-servant.md)**: Invisible force obeys your commands.
@@ -201,6 +206,8 @@
 - **[Obscured Script](obscured-script.md)**: Text becomes hard to read and deciphers falsely.
 - **[Oneiric Horror](oneiric-horror.md)**: Distract and fatigue the target with a creature from its nightmares.
 - **[Open Book](open-book.md)**: Make it permanently easier to learn more about a target.
+- **[Overstimulate](overstimulate.md)**: Grant ferocity to keep a creature conscious
+- **[Painful Revelation](painful-revelation.md)**: Illusion hurts those who disbelieve it
 - **[Paranoia](paranoia.md)**: Target becomes hostile to all creatures.
 - **[Passing Fancy](passing-fancy.md)**: Target becomes obsessed with a topic you choose.
 - **[Pilfering Hand](pilfering-hand.md)**: You may seize an object or manipulate it from afar.
@@ -257,6 +264,7 @@
 - **[Audiovisual Hallucination](audiovisual-hallucination.md)**: Create a phantasm with auditory and visual effects.
 - **[Aura of the Unremarkable](aura-of-the-unremarkable.md)**: Make actions seem mundane to nearby creatures.
 - **[Beacon of Luck](beacon-of-luck.md)**: Allies may roll saves twice.
+- **[Bereave](bereave.md)**: Make targets count as enemies to their own allies
 - **[Blink](blink.md)**: You randomly vanish and reappear for 1 round/level.
 - **[Channel the Gift](channel-the-gift.md)**: Your spell slot powers an ally’s spell.
 - **[Charm Monster](charm-monster.md)**: Makes monster believe it is your ally.
@@ -283,6 +291,7 @@
 - **[Fear](fear.md)**: Subjects within cone flee for 1 round/level.
 - **[Fearsome Duplicate](fearsome-duplicate.md)**: School illusion (figment); Level bard 3, inquisitor 3, sorcerer/wizard 3, witch 3 Casting Time 1 standard.
 - **[Fractions of Heal and Harm](fractions-of-heal-and-harm.md)**: Convert 25% of your next area damage spell into healing.
+- **[Free Spirit](free-spirit.md)**: Gain freedom of movement and fear resistance, but be drunk
 - **[Gaseous Form](gaseous-form.md)**: Subject becomes insubstantial and can fly slowly.
 - **[Geas, Lesser](geas-lesser.md)**: Commands subject of 7 HD or less.
 - **[Geomessage](geomessage.md)**: Leave an invisible message on a surface
@@ -308,6 +317,7 @@
 - **[Mirage](mirage.md)**: Create illusory terrain.
 - **[Phantom Driver](phantom-driver.md)**: Conjures a phantom to drive vehicles.
 - **[Phantom Steed](phantom-steed.md)**: Magic horse appears for 1 hour/level.
+- **[Pillow Talk](pillow-talk.md)**: Question a sleeping creature
 - **[Prehensile Pilfer](prehensile-pilfer.md)**: School transmutation; Level alchemist 3, bard 3, magus 3, sorcerer/wizard 3 Casting Time 1 standard action.
 - **[Raging Rubble](raging-rubble.md)**: You animate an area of rubble, gravel, or other small stones, creating a dangerous, rolling area of debris.
 - **[Remove Curse](remove-curse.md)**: Frees object or person from curse.
@@ -361,6 +371,7 @@
 - **[Freedom of Movement](freedom-of-movement.md)**: Subject moves normally despite impediments to restrict movement.
 - **[Ghost Brand](ghost-brand.md)**: Allow an item to transform into a brand and back.
 - **[Hallucinatory Terrain](hallucinatory-terrain.md)**: Makes one type of terrain appear like another (field as forest, or the like).
+- **[Harvest Knowledge](harvest-knowledge.md)**: Absorb a creature's knowledge
 - **[Hold Monster](hold-monster.md)**: As *hold person*, but any creature.
 - **[Horrific Doubles](horrific-doubles.md)**: Call forth disturbing *mirror images*.
 - **[Insect Scouts](insect-scouts.md)**: Vermin investigate a location and grant rerolls on related skill checks.
@@ -433,6 +444,7 @@
 - **[Seeming](seeming.md)**: Changes appearance of one person per two levels.
 - **[Shadow Evocation](shadow-evocation.md)**: Mimics evocation of lower than 5th level, but only 20% real.
 - **[Shadow Walk](shadow-walk.md)**: Step into shadow to travel rapidly.
+- **[Shroud of Darkness](shroud-of-darkness.md)**: Plunge targets into supernatural darkness
 - **[Song of Discord](song-of-discord.md)**: Forces targets to attack each other.
 - **[Soulswitch](soulswitch.md)**: Swap souls with your familiar.
 - **[Suggestion, Mass](suggestion-mass.md)**: As *suggestion,* affects subject/level.
@@ -448,6 +460,7 @@
 - **[Absorb Rune II](absorb-rune-ii.md)**: Absorb a rune of 5th level or lower.
 - **[Analyze Dweomer](analyze-dweomer.md)**: Reveals magical aspects of subject.
 - **[Animate Objects](animate-objects.md)**: Objects attack your foes.
+- **[Betraying Sting](betraying-sting.md)**: Smite those who trusted you
 - **[Cat’s Grace, Mass](cats-grace-mass.md)**: As *cat’s grace*, affects 1 subject/level.
 - **[Charm Monster, Mass](charm-monster-mass.md)**: As *charm monster,* but all within 30 ft.
 - **[Cure Moderate Wounds, Mass](cure-moderate-wounds-mass.md)**: Cures 2d8 damage + 1/level, affects 1 subject/level.

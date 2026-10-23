@@ -74,6 +74,7 @@ Mediums gain access to the following spells. Spells without a link come from oth
 - **[Object Reading](object-reading.md)**: Read psychic impressions left on an object.
 - **[Oneiric Horror](oneiric-horror.md)**: Distract and fatigue the target with a creature from its nightmares.
 - **[Paranoia](paranoia.md)**: Target becomes hostile to all creatures.
+- **[Preserve](preserve.md)**: Stop spoilage of objects for a week
 - **[Protection from Chaos](protection-from-chaos.md)**
 - **[Protection from Evil](protection-from-evil.md)**
 - **[Protection from Good](protection-from-good.md)**
@@ -244,6 +245,7 @@ Mediums gain access to the following spells. Spells without a link come from oth
 - **[False Future](false-future.md)**: Cause divinations of the future to reveal the result you choose.
 - **[False Life, Greater](false-life-greater.md)**: Gain 2d10 temporary hp + 1/level.
 - **[Fly](fly.md)**: Subject flies at speed of 60 ft.
+- **[Free Spirit](free-spirit.md)**: Gain freedom of movement and fear resistance, but be drunk
 - **[Gaseous Form](gaseous-form.md)**: Subject becomes insubstantial and can fly slowly.
 - **[Geomessage](geomessage.md)**: Leave an invisible message on a surface
 - **[Glimpse of Truth](glimpse-of-truth.md)**: Gain *true seeing* for 1 round.

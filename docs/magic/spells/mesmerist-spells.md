@@ -104,6 +104,7 @@ Mesmerists gain access to the following spells. Spells without a link come from 
 - Recharge Innate Magic
 - **[Remove Fear](remove-fear.md)**: Suppresses fear or gives +4 on saves against fear for one subject + one per four levels.
 - **[Remove Sickness](remove-sickness.md)**: Suppress disease, nausea, and the sickened condition.
+- **[Reveal Secrets](reveal-secrets.md)**: Learn whether a target has a secret
 - **[Share Language](share-language.md)**: Subject understands chosen language.
 - **[Silent Image](silent-image.md)**: Creates minor illusion of your design.
 - **[Sleep](sleep.md)**: Puts 4 HD of creatures into magical slumber.
@@ -209,6 +210,7 @@ Mesmerists gain access to the following spells. Spells without a link come from 
 - **[Oneiric Horror](oneiric-horror.md)**: Distract and fatigue the target with a creature from its nightmares.
 - **[Open Book](open-book.md)**: Make it permanently easier to learn more about a target.
 - **[Oppressive Boredom](oppressive-boredom.md)**: Target loses its next action.
+- **[Painful Revelation](painful-revelation.md)**: Illusion hurts those who disbelieve it
 - **[Passing Fancy](passing-fancy.md)**: Target becomes obsessed with a topic you choose.
 - **[Perceive Cues](perceive-cues.md)**: +5 Perception and Sense Motive 10 min./level.
 - **[Phantasmal Affliction](phantasmal-affliction.md)**: Convince a target that it contracted an affliction.
@@ -262,6 +264,7 @@ Mesmerists gain access to the following spells. Spells without a link come from 
 - **[Aura Alteration](aura-alteration.md)**: Masks a creature’s or an object’s alignment, emotion, health, and magic auras.
 - **[Aura of the Unremarkable](aura-of-the-unremarkable.md)**: Make actions seem mundane to nearby creatures.
 - **[Aura Sight](aura-sight.md)**: Alignment auras become visible to you.
+- **[Bereave](bereave.md)**: Make targets count as enemies to their own allies
 - **[Bestow Curse](bestow-curse.md)**: –6 to an ability score; –4 on attack rolls, saves, and checks; or 50% chance of losing each action.
 - Bleed Glory
 - **[Charm Monster](charm-monster.md)**: Makes monster believe it is your ally.
@@ -313,6 +316,7 @@ Mesmerists gain access to the following spells. Spells without a link come from 
 - **[Object Possession, Lesser](object-possession-lesser.md)**: Project your soul into an object, animating it.
 - **[Oneiric Horror, Greater](oneiric-horror-greater.md)**: As oneiric horror, plus Str damage.
 - **[Overwhelming Grief](overwhelming-grief.md)**: Grieving target can take no actions and is denied its Dex bonus.
+- **[Pillow Talk](pillow-talk.md)**: Question a sleeping creature
 - **[Ray of Exhaustion](ray-of-exhaustion.md)**: Ray makes subject exhausted.
 - **[Remove Blindness/Deafness](remove-blindness-deafness.md)**: Cures normal or magical blindness or deafness.
 - **[Remove Curse](remove-curse.md)**: Frees object or person from curse.
@@ -369,6 +373,7 @@ Mesmerists gain access to the following spells. Spells without a link come from 
 - Forgetful Slumber
 - **[Freedom of Movement](freedom-of-movement.md)**: Subject moves normally despite impediments to movement.
 - **[Hallucinatory Terrain](hallucinatory-terrain.md)**: Makes one type of terrain appear like another (field as forest, or the like).
+- **[Harvest Knowledge](harvest-knowledge.md)**: Absorb a creature's knowledge
 - **[Hold Monster](hold-monster.md)**: As *hold person*, but any creature.
 - Hostile Juxtaposition
 - **[Horrific Doubles](horrific-doubles.md)**: Call forth disturbing *mirror images*.
@@ -397,6 +402,7 @@ Mesmerists gain access to the following spells. Spells without a link come from 
 - **[Serenity](serenity.md)**: Peaceful feelings harm those attempting violence.
 - **[Shadow Conjuration](shadow-conjuration.md)**: Mimics conjuration below 4th level, but only 20% real.
 - Shocking Image
+- **[Shroud of Darkness](shroud-of-darkness.md)**: Plunge targets into supernatural darkness
 - **[Sleepwalk](sleepwalk.md)**
 - **[Sleepwalking Suggestion](sleepwalking-suggestion.md)**: Cause a creature to perform a suggested action while asleep.
 - **[Solid Fog](solid-fog.md)**: Blocks vision and slows movement.
@@ -488,6 +494,7 @@ Mesmerists gain access to the following spells. Spells without a link come from 
 - **[Insanity](insanity.md)**: Subject suffers continuous *confusion*.
 - **[Invisibility, Mass](invisibility-mass.md)**: As *invisibility*, but affects all in range.
 - **[Irresistible Dance](irresistible-dance.md)**: Forces subject to dance.
+- **[Knock, Mass](knock-mass.md)**: Open many locks or closures at once
 - **[Life of Crime](life-of-crime.md)**: Permanently turn someone into a crazed criminal.
 - **[Night Terrors](night-terrors.md)**: Disturb a creature’s rest with dark dreams.
 - **[Overwhelming Presence](overwhelming-presence.md)**: Creatures bow before you as if you were divine.
