@@ -23,6 +23,7 @@ New antipaladin spells from *Ultimate Magic*. Spells from other books will be ad
 - **[Guardian Armor](guardian-armor.md)**: Teleports your armor onto an ally.
 - **[Haunting Reminder](haunting-reminder.md)**: Coerced target becomes shaken if it betrays you.
 - **[Hedging Weapons](hedging-weapons.md)**: Floating weapons protect you and make ranged attacks.
+- **[Hide Bruises](hide-bruises.md)**: Make wounds appear to vanish
 - **[Hide Weapon](hide-weapon.md)**: Meld a weapon into your arm.
 - **[Huntmaster’s Spear](huntmasters-spear.md)**: Spear becomes a +1 weapon against a chosen favored-enemy type and can be discharged for a powerful attack.
 - **[Ironbeard](ironbeard.md)**: School transmutation; Level antipaladin 1, cleric 1, magus 1, paladin 1, ranger 1 Casting Time 1 standard.
@@ -33,9 +34,12 @@ New antipaladin spells from *Ultimate Magic*. Spells from other books will be ad
 - **[Longshot](longshot.md)**: Grants a +10-foot bonus to the range increment for any ranged weapon fired.
 - **[Murderous Command](murderous-command.md)**: Target is compelled to kill its ally.
 - **[Obscure Poison](obscure-poison.md)**: Make it harder to detect a poison or a venomous creature.
+- **[Resist Starvation](resist-starvation.md)**: Delay the effects of starvation
 - **[Savage Maw](savage-maw.md)**: Your teeth extend and sharpen, transforming your mouth into a maw of razor-sharp fangs.
 - **[Sense Fear](sense-fear.md)**: Perceive nearby creatures that are experiencing fear.
 - **[Sentry Skull](sentry-skull.md)**: You restore the senses to the severed head of a humanoid or monstrous humanoid killed within the past 24.
+- **[Shadow Claws](shadow-claws.md)**: Gain shadow claws that damage Strength
+- **[Steady Saddle](steady-saddle.md)**: Steady a saddle for mounted ranged attacks
 - **[Summon Minor Monster](summon-minor-monster.md)**: Summon 1d3 Tiny animals.
 - **[Wartrain Mount](wartrain-mount.md)**: Animal gains the combat training general purpose.
 
@@ -65,9 +69,11 @@ New antipaladin spells from *Ultimate Magic*. Spells from other books will be ad
 - **[Lose the Trail](lose-the-trail.md)**: Harder to track.
 - **[Magic Siege Engine](magic-siege-engine.md)**: Siege engine gains +1 on targeting and damage rolls.
 - **[Open Book](open-book.md)**: Make it permanently easier to learn more about a target.
+- **[Outbreak](outbreak.md)**: Make diseased creatures contagious
 - **[Pernicious Poison](pernicious-poison.md)**: Target takes a –4 penalty against poison.
 - **[Protection from Good, Communal](protection-from-good-communal.md)**: As protection from good, but you may divide the duration among creatures touched.
 - **[Protection from Law, Communal](protection-from-law-communal.md)**: As protection from law, but you may divide the duration among creatures touched.
+- **[Rotgut](rotgut.md)**: Turn water into cheap alcohol
 - **[Sense Vitals](sense-vitals.md)**: Gain sneak attack with any manufactured weapon.
 - **[Shared Suffering](shared-suffering.md)**: Take damage to deal the same damage to a distant target.
 - **[Shifted Steps](shifted-steps.md)**: Make a target sound as if elsewhere.
@@ -79,6 +85,7 @@ New antipaladin spells from *Ultimate Magic*. Spells from other books will be ad
 - **[Undetectable Trap](undetectable-trap.md)**: Make a trap extremely difficult to find.
 - **[Vestment of the Champion](vestment-of-the-champion.md)**: Armor or shield gains a +1 enhancement per four levels.
 - **[Vine Strike](vine-strike.md)**: Enhance one of your natural or unarmed attacks with thorny vine growth.
+- **[Virulent Miasma](virulent-miasma.md)**: Create a fog that weakens resistance to disease
 - **[Widen Auras](widen-auras.md)**: Doubles the range of your antipaladin or paladin auras.
 
 ## 3rd-Level Antipaladin Spells
@@ -90,6 +97,7 @@ New antipaladin spells from *Ultimate Magic*. Spells from other books will be ad
 - **[Burst of Speed](burst-of-speed.md)**: You gain increased speed, and your movement ignores attacks of opportunity and allows you to move through the space of creatures larger than you are.
 - **[Charnel House](charnel-house.md)**: Create an area of semi-real gore.
 - **[Claim Identity](claim-identity.md)**: Steal a touched humanoid’s face and identity.
+- **[Cursed Treasure](cursed-treasure.md)**: Curse treasure so the next thief is afflicted
 - **[Darkvision, Communal](darkvision-communal.md)**: As darkvision, but you may divide the duration among creatures touched.
 - **[Deadly Juggernaut](deadly-juggernaut.md)**: Your might increases with every kill you make.
 - **[Deceitful Veneer](deceitful-veneer.md)**: Make someone seem like an obvious liar.
@@ -105,6 +113,7 @@ New antipaladin spells from *Ultimate Magic*. Spells from other books will be ad
 - **[Screaming Flames](screaming-flames.md)**: Send forth a wave of flames screaming with the agony of the damned.
 - **[Second Wind](second-wind.md)**: Heal 2d8 + 1/level when below one-quarter hit points.
 - **[Selective Invisibility](selective-invisibility.md)**: Invisible, except to one chosen creature you may attack.
+- **[Shadow Jaunt](shadow-jaunt.md)**: Teleport between shadows, leaving an image behind
 - **[Shared Sacrifice](shared-sacrifice.md)**: Redirect half your damage to a target.
 - **[Trial by Fire](trial-by-fire.md)**: Divine fire punishes targets whose alignment differs from your deity’s.
 - **[Utter Contempt](utter-contempt.md)**: Target’s attitude worsens by two categories.
@@ -116,6 +125,7 @@ New antipaladin spells from *Ultimate Magic*. Spells from other books will be ad
 
 - **[Blood Ties](blood-ties.md)**: When a target is harmed, so is the target’s relative.
 - **[Claim Identity, Greater](claim-identity-greater.md)**: As claim identity, but the target becomes a mask others can wear.
+- **[Cloak of Shadows](cloak-of-shadows.md)**: Wrap yourself in a shadow mantle for concealment and DR
 - **[Companion Transposition](companion-transposition.md)**: Swap places with your animal companion, familiar, or spirit animal via teleportation.
 - **[Conditional Curse](conditional-curse.md)**: Bestow a curse that is difficult to remove without fulfilling a condition.
 - **[Crime Wave](crime-wave.md)**: Compel targets to commit criminal actions.

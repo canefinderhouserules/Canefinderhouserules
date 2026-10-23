@@ -26,6 +26,7 @@ Bloodragers gain access to the following spells. Spells in plain text come from 
 - **[Frostbite](frostbite.md)**: Target takes cold damage and is fatigued.
 - **[Guardian Armor](guardian-armor.md)**: Teleports your armor onto an ally.
 - **[Hide Weapon](hide-weapon.md)**: Meld a weapon into your arm.
+- **[Hobble](hobble.md)**: Halve the movement speed of several creatures
 - **[Hydraulic Push](hydraulic-push.md)**: Wave of water bull rushes an enemy.
 - **[Icicle Dagger](icicle-dagger.md)**: Masterwork ice dagger deals +1 cold damage.
 - **[Jump](jump.md)**: Subject gets bonus on Acrobatics checks.
@@ -121,6 +122,7 @@ Bloodragers gain access to the following spells. Spells in plain text come from 
 - **[Scale Spikes](scale-spikes.md)**: Grow armor spikes from scales
 - **[Scorching Ray](scorching-ray.md)**: Ranged touch attack deals 4d6 fire damage, + 1 ray/four levels (max 3).
 - **[See Invisibility](see-invisibility.md)**: Reveals invisible creatures or objects.
+- **[Shadow Claws](shadow-claws.md)**: Gain shadow claws that damage Strength
 - **[Shatter](shatter.md)**: Sonic energy damages objects or crystalline creatures.
 - **[Slipstream](slipstream.md)**: Wave boosts creature’s speed.
 - **[Sonic Scream](sonic-scream.md)**: Create a cone of damaging sound at will.
@@ -178,6 +180,7 @@ Bloodragers gain access to the following spells. Spells in plain text come from 
 - Locate Weakness
 - **[Magic Weapon, Greater](magic-weapon-greater.md)**: Weapon gains +1 bonus/four levels (max +5).
 - **[Monstrous Physique I](monstrous-physique-i.md)**: Take the form and some of the powers of a Small or Medium monstrous humanoid.
+- **[Outbreak](outbreak.md)**: Make diseased creatures contagious
 - **[Pack Empathy](pack-empathy.md)**: Create an empathic bond with allies.
 - **[Pain Strike](pain-strike.md)**: Inflicts 1d6 nonlethal damage 1 round/level.
 - Paragon Surge
@@ -200,6 +203,7 @@ Bloodragers gain access to the following spells. Spells in plain text come from 
 - **[Undead Anatomy I](undead-anatomy-i.md)**: Take the form and some of the powers of a Small or Medium undead.
 - **[Vampiric Touch](vampiric-touch.md)**: Touch deals 1d6 damage/2 levels; caster gains damage as temporary hp.
 - **[Versatile Weapon](versatile-weapon.md)**: Weapon bypasses some DR.
+- **[Virulent Miasma](virulent-miasma.md)**: Create a fog that weakens resistance to disease
 - **[Vision of Hell](vision-of-hell.md)**: Illusory hellscape makes creatures shaken.
 - **[Water Breathing](water-breathing.md)**: Subjects can breathe underwater.
 - **[Waves of Blood](waves-of-blood.md)**: A cone of blood pushes creatures, sickens them, and makes the ground slick.
@@ -219,6 +223,7 @@ Bloodragers gain access to the following spells. Spells in plain text come from 
 - **[Contagion](contagion.md)**: Infects subject with chosen disease.
 - **[Controlled Fireball](controlled-fireball.md)**: As *fireball,* but secretly deals less damage to your allies.
 - **[Crushing Despair](crushing-despair.md)**: Subjects take –2 on attack rolls, damage rolls, saves, and checks.
+- **[Cursed Treasure](cursed-treasure.md)**: Curse treasure so the next thief is afflicted
 - **[Detonate](detonate.md)**: 1d8/level energy damage to nearby creatures.
 - **[Dragon’s Breath](dragons-breath.md)**: Gives you a dragon’s breath weapon.
 - Earth Glide

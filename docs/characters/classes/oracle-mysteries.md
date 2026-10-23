@@ -591,3 +591,27 @@ Oracles of the rifts mystery have become marked in some way by an incursion into
 **Unstoppable Overrun (Ex)**: You can attempt overrun combat maneuvers against opponents that are up to two size categories larger than you. At 5th level, you gain Improved Overrun as a bonus feat. At 10th level, you gain Greater Overrun as a bonus feat. You don't need to meet the prerequisites to gain these feats.
 
 **Final Revelation**: Upon reaching 20th level, you become a herald of the apocalypse and wield the awesome power to fulfill such prophecy. Anytime you successfully cast a spell that bestows 1 or more negative levels on a target, the effect bestows 1d4 additional negative levels. Whenever you confirm a critical hit against a creature (including with a melee, ranged, or spell attack), as a swift action you can cause the target of your attack to be affected as by the *bestow curse* spell, except the target doesn't receive a Will save to negate the effects and spell resistance does not apply to this ability.
+
+## Ascetic Mystery
+
+**Class Skills**: An oracle with the ascetic mystery adds Acrobatics (Dex), Climb (Str), Escape Artist (Dex), and Swim (Str) to her list of class skills.
+
+**Bonus Spells**: *Stone fist* (2nd), *glide* (4th), *force punch* (6th), *ethereal fists* (8th), *contact other plane* (10th), *legend lore* (12th), *vision* (14th), *frightful aspect* (16th), *iron body* (18th).
+
+**Revelations**: An oracle with the ascetic mystery can choose from any of the following revelations.
+
+**Absence of Body (Su)**: You require half as much food and water to survive as a normal member of your race. Additionally, each time you hold your breath, you can do so for an additional number of rounds equal to your oracle level. At 15th level, you no longer need to eat or drink and can hold your breath for 10 times as long (2 minutes per point of Constitution, plus 1 additional minute per oracle level).
+
+**Absence of Form (Sp)**: You gain *feather fall* as a spell-like ability, which you can use a number of rounds per day equal to your oracle level. The rounds do not need to be used consecutively. If you are in mid fall when this ability's duration expires, you take falling damage as if you fell from the altitude you were at when the spell ended. At 10th level, you can also apply your daily rounds of this ability to use *air walk*.
+
+**Ascetic Armor (Su)**: You can use meditative techniques that temporarily cause attacks to bounce off your skin, as long as you aren't wearing armor or carrying a medium or heavy load. These techniques grant you a +4 armor bonus to AC. At 7th level, and every 4 levels thereafter, this bonus increases by 2. At 13th level, the techniques also grant DR 5/unarmed strikes or natural attacks. You can gain the benefits of ascetic armor for 1 hour per day per oracle level. The hours do not need to be consecutive, but you must spend them in 1-hour increments.
+
+**Fleet (Ex)**: You gain a +10-foot enhancement bonus to your base land speed. You lose this extra speed if you wear any armor or carry a medium or heavy load. At 7th level, and every 6 levels thereafter, this bonus increases by 10 feet. Oracles with the lame oracle curse can't select this revelation.
+
+**Martial Disciple (Su)**: Through meditation and study of monastic forms of combat, you have learned a lethal form of unarmed combat. You gain Improved Unarmed Strike as a bonus feat, even if you do not meet the prerequisites. You gain the unarmed strike damage of a monk of your oracle level. If you also have monk levels, those levels stack for the purpose of determining your unarmed strike damage.
+
+**Oracular Spellstrike (Su)**: By harnessing a synergy of unarmed combat and spellcasting, you have uncovered a means of channeling spell energy quickly through your unarmed strikes. This resembles the magus spellstrike ability, except it works with unarmed strikes only, no matter what other abilities you have. Additionally, it uses spells from the cleric spell list, not the magus spell list. You must be at least 7th level before selecting this revelation.
+
+**Rapid Convalescence (Su)**: You reduce the number of consecutive successful saves needed to recover from a disease or poison by 1 (to a minimum of 1). Additionally, you can sacrifice one of your unused spell slots for the day to gain an enhancement bonus equal to that spell slot's level on your next save to resist the effects of poison or disease, provided the save is attempted within 1 minute per level of spell expended.
+
+**Spell Deflection (Su)**: You can use a readied action to counterspell any spell being cast on you or an adjacent ally that requires a ranged touch attack (such as a ray). In order to successfully counter the spell, you must make an unarmed attack roll. If the result of this attack roll is higher than 20 + the spell's caster level, the spell is negated with no effect. At 17th level, any spell you successfully negate is reflected back at the caster with the same ranged touch attack result. You must be at least 11th level before selecting this revelation.

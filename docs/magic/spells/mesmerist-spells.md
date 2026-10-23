@@ -64,13 +64,16 @@ Mesmerists gain access to the following spells. Spells without a link come from 
 - **[Echo](echo.md)**: Cause a sound to repeat itself.
 - **[Expeditious Retreat](expeditious-retreat.md)**: Your base speed increases by 30 ft.
 - **[Faerie Fire](faerie-fire.md)**: Outlines subjects with light, canceling *blur*, concealment, and the like.
+- **[Fool's Gold](fools-gold.md)**: Make copper or silver appear to be gold
 - **[Forbid Action](forbid-action.md)**: Target obeys your command to not do something.
 - **[Forced Quiet](forced-quiet.md)**: Target cannot make loud noises.
 - **[Fumbletongue](fumbletongue.md)**: Target cannot speak intelligently.
 - **[Grease](grease.md)**: Makes 10-ft. square or one object slippery.
 - Healing Thief
 - **[Heightened Awareness](heightened-awareness.md)**: Your recall and ability to process information improve.
+- **[Hide Bruises](hide-bruises.md)**: Make wounds appear to vanish
 - **[Hideous Laughter](hideous-laughter.md)**: Subject loses actions for 1 round/level.
+- **[Hobble](hobble.md)**: Halve the movement speed of several creatures
 - **[Hypnotism](hypnotism.md)**: Fascinates 2d4 HD of creatures.
 - **[Ill Omen](ill-omen.md)**: Target rolls twice for checks and attacks and uses worst roll.
 - Illusion of Calm
@@ -180,6 +183,7 @@ Mesmerists gain access to the following spells. Spells without a link come from 
 - **[Hold Animal](hold-animal.md)**: Paralyzes one animal for 1 round/level.
 - **[Hold Person](hold-person.md)**: Paralyzes one humanoid for 1 round/level.
 - **[Honeyed Tongue](honeyed-tongue.md)**: Roll 2 dice when using Diplomacy, take higher roll.
+- **[Hoodwink](hoodwink.md)**: Befuddle targets so they can be led away
 - **[Howling Agony](howling-agony.md)**: Screaming pain limits the target’s actions.
 - **[Hypnotic Pattern](hypnotic-pattern.md)**: Fascinates 2d4 + level HD of creatures.
 - **[Implant False Reading](implant-false-reading.md)**: Instill false psychic impressions into an object.
@@ -338,6 +342,7 @@ Mesmerists gain access to the following spells. Spells without a link come from 
 
 ## 4th-Level Mesmerist Spells
 
+- **[Amnesia](amnesia.md)**: Strip a target of its memories, skills and class abilities
 - **[Apathy](apathy.md)**: A target loses interest in a chosen pursuit.
 - **[Arcane Eye](arcane-eye.md)**: Invisible floating eye moves 30 ft./round.
 - **[Assume Appearance, Greater](assume-appearance-greater.md)**: Use a likeness to adopt a dead creature’s form.
@@ -410,10 +415,12 @@ Mesmerists gain access to the following spells. Spells without a link come from 
 
 ## 5th-Level Mesmerist Spells
 
+- **[Appearance of Life, Greater](appearance-of-life-greater.md)**: Perfectly disguise any undead creature as a living one
 - **[Befuddled Combatant](befuddled-combatant.md)**: Reduces a target’s ability DCs by 4 and its damage to minimum.
 - **[Castigate, Mass](castigate-mass.md)**: As castigate, but affects multiple creatures.
 - **[Charnel House](charnel-house.md)**: Create an area of semi-real gore.
 - **[Cloak of Dreams](cloak-of-dreams.md)**: Creatures within 5 ft. fall asleep.
+- **[Cloak of Shadows](cloak-of-shadows.md)**: Wrap yourself in a shadow mantle for concealment and DR
 - **[Compelling Rant](compelling-rant.md)**: People believe your ridiculous speech as long as you keep talking.
 - **[Crime Wave](crime-wave.md)**: Compel targets to commit criminal actions.
 - **[Deceptive Redundancy](deceptive-redundancy.md)**: Fool dispellers and hide a spell’s aura.

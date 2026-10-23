@@ -60,10 +60,13 @@
 - **[Expeditious Retreat](expeditious-retreat.md)**: Your base land speed increases by 30 ft.
 - **[Fabricate Disguise](fabricate-disguise.md)**: Create a disguise in an instant.
 - **[Feather Fall](feather-fall.md)**: Objects or creatures fall slowly.
+- **[Fool's Gold](fools-gold.md)**: Make copper or silver appear to be gold
 - **[Grappling Scarf](grappling-scarf.md)**: Your scarf becomes a grappling hook and rope.
 - **[Grease](grease.md)**: Makes 10-ft. square or one object slippery.
 - **[Haze of Dreams](haze-of-dreams.md)**: Halve a creature’s speed with waking dreams.
+- **[Hide Bruises](hide-bruises.md)**: Make wounds appear to vanish
 - **[Hideous Laughter](hideous-laughter.md)**: Subject loses actions for 1 round/ level.
+- **[Hobble](hobble.md)**: Halve the movement speed of several creatures
 - **[Hypnotism](hypnotism.md)**: Fascinates 2d4 HD of creatures.
 - **[Identify](identify.md)**: Gives +10 bonus to identify magic items.
 - **[Illusory Crowd](illusory-crowd.md)**: Illusory stationary crowd.
@@ -80,6 +83,7 @@
 - **[Magic Mouth](magic-mouth.md)**: Objects speaks once when triggered.
 - **[Mirror Mantis](mirror-mantis.md)**: A target sees a menacing assassin in every mirror.
 - **[Moment of Greatness](moment-of-greatness.md)**: Doubles a morale bonus.
+- **[Nature's Paths](natures-paths.md)**: Find the fastest way through the wilderness
 - **[Negative Reaction](negative-reaction.md)**: Targeted creature may not positively influence anyone.
 - **[Obscure Object](obscure-object.md)**: Masks object against *scrying*.
 - **[Obscure Poison](obscure-poison.md)**: Make it harder to detect a poison or a venomous creature.
@@ -129,6 +133,7 @@
 - **[Arcane Disruption](arcane-disruption.md)**: Subject must make concentration checks to use arcane magic.
 - **[Aversion](aversion.md)**: Cause the target to avoid an object or location.
 - **[Babble](babble.md)**: Target becomes nauseated and nearby creatures become fascinated.
+- **[Beacon of Guilt](beacon-of-guilt.md)**: Curse a thief to glow with red light
 - **[Beloved of the Forge](beloved-of-the-forge.md)**: Sense of direction home; luck on Craft.
 - **[Bestow Insight](bestow-insight.md)**: Component V, S Range touch Target one creature touched Duration 1 minute/level When casting this spell.
 - **[Billowing Skirt](billowing-skirt.md)**: A skirt or gown slows your fall.
@@ -148,6 +153,7 @@
 - **[Conditional Favor](conditional-favor.md)**: Provide another spell whose effects reverse if the target breaks a restriction.
 - **[Contagious Zeal](contagious-zeal.md)**: Grant bonuses and temporary hit points that spread from creature to creature.
 - **[Contest of Skill](contest-of-skill.md)**: Target’s critical threats fail to confirm.
+- **[Covetous Urge](covetous-urge.md)**: Curse a creature to steal valuables
 - **[Cure Moderate Wounds](cure-moderate-wounds.md)**: Cures 2d8 damage + 1/level (max +10).
 - **[Dark Whispers](dark-whispers.md)**: Whisper through the shadows.
 - **[Darkness](darkness.md)**: 20-ft. radius of supernatural shadow.
@@ -163,11 +169,13 @@
 - **[Diminished Detection](diminished-detection.md)**: Detection spells have half their normal range against you.
 - **[Discovery Torch](discovery-torch.md)**: Touched object emanates bright light, granting Perception and Sense Motive bonuses.
 - **[Disrupt Silence](disrupt-silence.md)**: Disrupt all silence effects in an area.
+- **[Dousing Rain](dousing-rain.md)**: Call a downpour that douses fire
 - **[Duelist’s Alacrity](duelists-alacrity.md)**: Faster, with fancy footwork.
 - **[Duelist’s Feint](duelists-feint.md)**: Distract a foe so it is vulnerable to your attacks.
 - **[Eagle’s Splendor](eagles-splendor.md)**: Subject gains +4 to Cha for 1 min./level.
 - **[Enshroud Thoughts](enshroud-thoughts.md)**: Ward yourself against thought detection and memory alteration.
 - **[Enthrall](enthrall.md)**: Captivates all within 100 ft. + 10 ft./level.
+- **[Escape Alarm](escape-alarm.md)**: Ward an area to alert you when someone leaves
 - **[Escaping Ward](escaping-ward.md)**: This ward grants you extra maneuverability when you avoid attacks against larger foes.
 - **[False Belief](false-belief.md)**: Temporarily plant a false memory.
 - **[Flesh Facade](flesh-facade.md)**: Make an undead look alive
@@ -180,6 +188,7 @@
 - **[Hidden Knowledge](hidden-knowledge.md)**: Store knowledge in a tattoo, forgetting it temporarily.
 - **[Hidden Presence](hidden-presence.md)**: Prevent creatures from noticing your presence.
 - **[Hold Person](hold-person.md)**: Paralyzes one humanoid for 1 round/level.
+- **[Hoodwink](hoodwink.md)**: Befuddle targets so they can be led away
 - **[Hypnotic Pattern](hypnotic-pattern.md)**: Fascinates (2d4 + level) HD of creatures.
 - **[Invisibility](invisibility.md)**: Subject is invisible for 1 min./level or until it attacks.
 - **[Light Prison](light-prison.md)**: Cage of light damages and blinds those who leave it.
@@ -202,7 +211,9 @@
 - **[Quick Change](quick-change.md)**: Use change shape as a swift action and surprise foes.
 - **[Rage](rage.md)**: Gives +2 to Str and Con, +1 on Will saves, –2 to AC.
 - **[Recharge](recharge.md)**: Restore charges to a technological item.
+- **[Reinvigorating Wind](reinvigorating-wind.md)**: Wake and invigorate allies with a magical wind
 - **[Returning Weapon](returning-weapon.md)**: Grants a weapon the returning special weapon quality.
+- **[Rotgut](rotgut.md)**: Turn water into cheap alcohol
 - **[Rumormonger](rumormonger.md)**: Follow a rumor to see where it spreads.
 - **[Rune of Rule](rune-of-rule.md)**: Paint a rune on an ally that grants a one-time boost.
 - **[Scare](scare.md)**: Panics creatures of less than 6 HD.
@@ -210,6 +221,7 @@
 - **[Seducer’s Eyes](seducers-eyes.md)**: Charisma skill bonus against those who find you attractive.
 - **[Sense Vitals](sense-vitals.md)**: Gain sneak attack with any manufactured weapon.
 - **[Shadow Anchor](shadow-anchor.md)**: School illusion (shadow) [shadow]; Level bard 2, sorcerer/wizard 2, witch 2 Casting Time 1 standard action.
+- **[Shadow Claws](shadow-claws.md)**: Gain shadow claws that damage Strength
 - **[Shamefully Overdressed](shamefully-overdressed.md)**: Force target to remove equipment.
 - **[Share Language, Communal](share-language-communal.md)**: As share language, but you may divide the duration among creatures touched.
 - **[Shatter](shatter.md)**: Sonic vibration damages objects or crystalline creatures.
@@ -273,6 +285,7 @@
 - **[Fractions of Heal and Harm](fractions-of-heal-and-harm.md)**: Convert 25% of your next area damage spell into healing.
 - **[Gaseous Form](gaseous-form.md)**: Subject becomes insubstantial and can fly slowly.
 - **[Geas, Lesser](geas-lesser.md)**: Commands subject of 7 HD or less.
+- **[Geomessage](geomessage.md)**: Leave an invisible message on a surface
 - **[Glibness](glibness.md)**: You gain +20 bonus on Bluff checks, and your lies can escape magical discernment.
 - **[Good Hope](good-hope.md)**: Subjects gain +2 on attack rolls, damage rolls, saves, and checks.
 - **[Guarding Knowledge](guarding-knowledge.md)**: +4 insight bonus on saves against one identified monster special attack.
@@ -300,6 +313,7 @@
 - **[Remove Curse](remove-curse.md)**: Frees object or person from curse.
 - **[Repugnant Taste](repugnant-taste.md)**: Creatures that bite or swallow the target become nauseated.
 - **[Returning Weapon, Communal](returning-weapon-communal.md)**: As returning weapon, but you may divide the duration among weapons touched.
+- **[Sand Table](sand-table.md)**: Create a scale model of the surrounding battlefield
 - **[Scrying](scrying.md)**: Spies on subject from a distance.
 - **[Sculpt Sound](sculpt-sound.md)**: Creates new sounds or changes existing ones into new sounds.
 - **[Secret Page](secret-page.md)**: Changes one page to hide its real content.
@@ -325,6 +339,7 @@
 ## 4th-Level Bard Spells
 
 - **[Absorb Rune I](absorb-rune-i.md)**: Absorb a magical rune and move it elsewhere.
+- **[Amnesia](amnesia.md)**: Strip a target of its memories, skills and class abilities
 - **[Animal Ambassador](animal-ambassador.md)**: Grant an animal messenger sentience to deliver your message.
 - **[Apathy](apathy.md)**: A target loses interest in a chosen pursuit.
 - **[Assume Appearance, Greater](assume-appearance-greater.md)**: Use a likeness to adopt a dead creature’s form.
@@ -369,6 +384,7 @@
 - **[Secure Shelter](secure-shelter.md)**: Creates sturdy cottage.
 - **[Seek Shelter](seek-shelter.md)**: Weak creatures flee to safety in an orderly fashion.
 - **[Shadow Conjuration](shadow-conjuration.md)**: Mimics conjuration below 4th level, but only 20% real.
+- **[Shadow Jaunt](shadow-jaunt.md)**: Teleport between shadows, leaving an image behind
 - **[Shocking Image](shocking-image.md)**: As mirror image, but the duplicates emit electrical damage when destroyed.
 - **[Shout](shout.md)**: Deafens all within cone and deals 5d6 sonic damage.
 - **[Sleepwalking Suggestion](sleepwalking-suggestion.md)**: Cause a creature to perform a suggested action while asleep.
@@ -387,6 +403,7 @@
 - **[Bladed Dash, Greater](bladed-dash-greater.md)**: Dash 30 feet and attack all foes along the way.
 - **[Callback, Greater](callback-greater.md)**: Teleport a familiar or spirit animal from miles away to your side when it is injured.
 - **[Claim Identity, Greater](claim-identity-greater.md)**: As claim identity, but the target becomes a mask others can wear.
+- **[Cloak of Shadows](cloak-of-shadows.md)**: Wrap yourself in a shadow mantle for concealment and DR
 - **[Commune with Texts](commune-with-texts.md)**: Absorb knowledge from a collection of texts.
 - **[Compelling Rant](compelling-rant.md)**: People believe your ridiculous speech as long as you keep talking.
 - **[Crime Wave](crime-wave.md)**: Compel targets to commit criminal actions.

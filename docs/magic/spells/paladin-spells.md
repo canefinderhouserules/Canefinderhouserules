@@ -44,6 +44,7 @@
 - **[Songbird](songbird.md)**: Conjure music from a good-aligned plane
 - **[Spindrift Spritz](spindrift-spritz.md)**: Ally rerolls a save against fatigue, shaken, sickened, or staggered.
 - **[Stalwart Resolve](stalwart-resolve.md)**: Ignore ability damage to one score.
+- **[Steady Saddle](steady-saddle.md)**: Steady a saddle for mounted ranged attacks
 - **[Sun Metal](sun-metal.md)**: Weapon touched bursts into flames.
 - **[Tactical Acumen](tactical-acumen.md)**: You gain an additional +1 on attack rolls or to AC due to battlefield positioning.
 - **[Thunder Arrow](thunder-arrow.md)**: Electric arrow that attacks or signals.

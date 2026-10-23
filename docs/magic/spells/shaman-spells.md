@@ -66,6 +66,7 @@ Shamans gain access to the following spells. Spells in plain text come from othe
 - **[Magic Weapon](magic-weapon.md)**: Weapon gains +1 bonus.
 - **[Mindlink](mindlink.md)**: Communicate a great deal of information in an instant.
 - **[Monkey Fish](monkey-fish.md)**: Gain a climb speed and a swim speed of 10 ft. for a time.
+- **[Nature's Paths](natures-paths.md)**: Find the fastest way through the wilderness
 - **[Obscure Poison](obscure-poison.md)**: Make it harder to detect a poison or a venomous creature.
 - **[Obscuring Mist](obscuring-mist.md)**: Fog surrounds you.
 - **[Pass without Trace](pass-without-trace.md)**: One subject/level leaves no tracks.
@@ -74,6 +75,7 @@ Shamans gain access to the following spells. Spells in plain text come from othe
 - **[Produce Flame](produce-flame.md)**: 1d6 damage + 1/level, touch or thrown.
 - Protection from Chaos/evil/good/law
 - **[Remove Fear](remove-fear.md)**: Suppresses fear or gives +4 on saves against fear for one subject + one per four levels.
+- **[Resist Starvation](resist-starvation.md)**: Delay the effects of starvation
 - **[Sculpted Cape](sculpted-cape.md)**: Your cape stiffens and holds its shape.
 - **[Sense Spirit Magic](sense-spirit-magic.md)**: Gain bonuses on identifying and resisting spells associated with your spirits.
 - **[Sleep](sleep.md)**: Puts 4 HD of creatures into magical slumber.
@@ -114,6 +116,7 @@ Shamans gain access to the following spells. Spells in plain text come from othe
 - **[Darkness](darkness.md)**: 20-ft. radius of supernatural shadow.
 - **[Delay Poison](delay-poison.md)**: Stops poison from harming subject for 1 hour/level.
 - **[Detect Magic, Greater](detect-magic-greater.md)**: As *detect magic*, but learn more information.
+- **[Dousing Rain](dousing-rain.md)**: Call a downpour that douses fire
 - **[Eagle Eye](eagle-eye.md)**: Creates a magical sensor high above you.
 - **[Eagle’s Splendor](eagles-splendor.md)**: Subject gains +4 to Cha for 1 min./ level.
 - **[Enshroud Thoughts](enshroud-thoughts.md)**: Ward yourself against thought detection and memory alteration.
@@ -145,6 +148,7 @@ Shamans gain access to the following spells. Spells in plain text come from othe
 - **[Merge with Familiar](merge-with-familiar.md)**: Merge the body of your familiar or spirit animal into your own.
 - **[Owl’s Wisdom](owls-wisdom.md)**: Subject gains +4 to Wis for 1 min./level.
 - **[Quick Change](quick-change.md)**: Use change shape as a swift action and surprise foes.
+- **[Reinvigorating Wind](reinvigorating-wind.md)**: Wake and invigorate allies with a magical wind
 - **[Remove Paralysis](remove-paralysis.md)**: Frees creatures from paralysis or *slow* effect.
 - **[Resist Energy](resist-energy.md)**: Ignores 10 (or more) points of damage/attack from specified energy type.
 - **[Restful Cloak](restful-cloak.md)**: Turn your cloak into a healing tent.
@@ -169,6 +173,7 @@ Shamans gain access to the following spells. Spells in plain text come from othe
 - **[Vine Strike](vine-strike.md)**: Enhance one of your natural or unarmed attacks with thorny vine growth.
 - **[Warp Wood](warp-wood.md)**: Bends wood.
 - **[Web Shelter](web-shelter.md)**: Create a comfortable shelter made of webbing.
+- **[Wicker Horse](wicker-horse.md)**: Animate plants into a riding horse
 - **[Wing Bounty](wing-bounty.md)**: Your wings sprout goodberries.
 - **[Winter Grasp](winter-grasp.md)**: Create a slippery sheet of ice on the ground.
 - **[Wood Shape](wood-shape.md)**: Reshapes wooden objects to suit you.
@@ -182,12 +187,14 @@ Shamans gain access to the following spells. Spells in plain text come from othe
 - **[Aura Sight](aura-sight.md)**: Alignment auras become visible to you.
 - **[Bestow Curse](bestow-curse.md)**: –6 to an ability score; –4 on attack rolls, saves, and checks; or 50% chance of losing each action.
 - **[Blindness/Deafness](blindness-deafness.md)**: Makes subject blind or deaf.
+- **[Burning Entanglement](burning-entanglement.md)**: Entangling plants burst into flame
 - **[Call Lightning](call-lightning.md)**: Calls down lightning bolts (3d6 per bolt) from sky.
 - Clairvoyance/clairaudience
 - **[Carrying Wind](carrying-wind.md)**: Wind spirit boosts your speed and grants a fly speed.
 - **[Contact Entity II](contact-entity-ii.md)**: Ask more powerful eldritch entities to find and converse with you.
 - **[Create Food and Water](create-food-and-water.md)**: Feeds three humans (or one horse)/level.
 - **[Cure Serious Wounds](cure-serious-wounds.md)**: Cures 3d8 damage + 1/level (max +15).
+- **[Cursed Treasure](cursed-treasure.md)**: Curse treasure so the next thief is afflicted
 - **[Daylight](daylight.md)**: 60-ft. radius of bright light.
 - **[Deeper Darkness](deeper-darkness.md)**: Object sheds shadows in 60-ft. radius.
 - **[Deep Slumber](deep-slumber.md)**: Puts 10 HD of creatures to sleep.

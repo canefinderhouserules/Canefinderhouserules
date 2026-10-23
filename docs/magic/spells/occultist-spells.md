@@ -64,6 +64,7 @@ Occultists gain access to the following spells, determined by their chosen imple
 - **[Grappling Scarf](grappling-scarf.md)**: Your scarf becomes a grappling hook and rope.
 - **[Guardian Armor](guardian-armor.md)**: Teleports your armor onto an ally.
 - **[Hex Ward](hex-ward.md)**: Target gains +4 on saves against witch hexes.
+- **[Hide Bruises](hide-bruises.md)**: Make wounds appear to vanish
 - **[Hold Portal](hold-portal.md)**: Holds door shut.
 - Peacebond
 - **[Instant Portrait](instant-portrait.md)**: Paint a quick monochrome portrait.
@@ -181,20 +182,25 @@ Occultists gain access to the following spells, determined by their chosen imple
 - **[Arcane Lock](arcane-lock.md)**: Magically locks a portal or chest.
 - Bullet Shield
 - **[Assumed Likeness](assumed-likeness.md)**: You appear as someone each target feels strongly about.
+- **[Beacon of Guilt](beacon-of-guilt.md)**: Curse a thief to glow with red light
 - **[Billowing Skirt](billowing-skirt.md)**: A skirt or gown slows your fall.
 - **[Conditional Favor](conditional-favor.md)**: Provide another spell whose effects reverse if the target breaks a restriction.
 - **[Crimson Confession](crimson-confession.md)**
+- **[Escape Alarm](escape-alarm.md)**: Ward an area to alert you when someone leaves
 - **[Hidden Knowledge](hidden-knowledge.md)**: Store knowledge in a tattoo, forgetting it temporarily.
+- **[Hoodwink](hoodwink.md)**: Befuddle targets so they can be led away
 - **[Huntmaster’s Spear](huntmasters-spear.md)**: Spear becomes a +1 weapon against a chosen favored-enemy type and can be discharged for a powerful attack.
 - **[Node of Blasting](node-of-blasting.md)**: Place a trap on an object to mentally damage a creature that touches it.
 - **[Obscure Object](obscure-object.md)**: Masks object against scrying.
 - **[Obscured Script](obscured-script.md)**: Text becomes hard to read and deciphers falsely.
 - **[Resist Energy](resist-energy.md)**: Ignores 10 (or more) points of damage/attack from specified energy type.
 - **[Restful Cloak](restful-cloak.md)**: Turn your cloak into a healing tent.
+- **[Rotgut](rotgut.md)**: Turn water into cheap alcohol
 - **[Rune of Rule](rune-of-rule.md)**: Paint a rune on an ally that grants a one-time boost.
 - **[Surefoot Boots](surefoot-boots.md)**: Footwear grants perfect balance.
 - **[Sympathetic Aura](sympathetic-aura.md)**: Magic aura that also covers similar nearby items.
 - **[Violent Accident](violent-accident.md)**: Curse a creature to suffer a damaging accident within 24 hours.
+- **[Wicker Horse](wicker-horse.md)**: Animate plants into a riding horse
 - **[With the Wind](with-the-wind.md)**: Protect a target from being blown away by wind of less than windstorm force.
 
 **Conjuration**:
@@ -334,6 +340,7 @@ Occultists gain access to the following spells, determined by their chosen imple
 - **[Dispel Magic](dispel-magic.md)**: Cancels one magical spell or effect.
 - **[Erase Impressions](erase-impressions.md)**: Erase psychic impressions from an object.
 - **[Explosive Runes](explosive-runes.md)**: Deals 6d6 damage when read.
+- **[Geomessage](geomessage.md)**: Leave an invisible message on a surface
 - **[Guarding Knowledge](guarding-knowledge.md)**: +4 insight bonus on saves against one identified monster special attack.
 - **[Magic Circle against Chaos](magic-circle-against-chaos.md)**
 - **[Magic Circle against Evil](magic-circle-against-evil.md)**

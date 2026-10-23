@@ -110,6 +110,24 @@ A barbarian must have the ferocious mount rage power to select this rage power. 
 
 **Witch Hunter (Ex)**: While raging, the barbarian gains a +1 bonus on damage rolls against creatures possessing spells or spell-like abilities. This damage bonus increases by +1 for every four levels the barbarian has obtained. A barbarian must have the superstition* rage power to select this rage power.
 
+**Atavism Totem (Su)**: The atavism totem regresses back to a primal ancestor. The barbarian gains ferocity. A barbarian must be at least 6th level to select this rage power.
+
+**Atavism Totem, Lesser (Su)**: The barbarian gains a bite attack; if she already has a bite attack, it deals damage as if the barbarian were one size larger.
+
+**Atavism Totem, Greater (Su)**: The barbarian gains trample. She must be at least 10th level to select this rage power.
+
+**Erratic Charge (Ex)**: As part of the full-round action to perform a charge attack against a creature at least 20 feet away, the barbarian can move 5 feet in any direction before making the charge. This movement is not a 5-foot step and provokes attacks of opportunity as normal, and using this option reduces the maximum distance of the charge by 10 feet.
+
+**Erratic Charge, Greater (Ex)**: The barbarian can move 10 feet when using erratic charge. If she does so, the creature she is charging must be at least 20 feet away and the movement reduces the maximum distance of her charge by 20 feet. A barbarian must be at least 8th level and must have the erratic charge rage power before selecting this power.
+
+**Furious Barrage (Ex)**: The barbarian is treated as having the Rapid Shot feat, but only for the purpose of attacking with thrown weapons. She need not meet the feat's prerequisites. A barbarian must be at least 4th level and must have the furious draw rage power before selecting this power.
+
+**Furious Draw (Ex)**: The barbarian is treated as having the Quick Draw feat.
+
+**Savage Hurl (Ex)**: The barbarian gains a +1 bonus on ranged attack rolls with thrown weapons that add her Dexterity bonus to the attack roll. This bonus increases to +2 at 4th level if the barbarian's Strength modifier is at least +4, to +3 at 8th level if her Strength modifier is at least +6, and to +4 at 12th level if her Strength modifier is at least +8.
+
+**Two-Fanged Pounce (Ex)**: If the barbarian is wielding a pair of daggers, kukris, or punching daggers, she can attack once with each of the two weapons when she charges. If she does, she loses the bonus on attack rolls for charging and takes an additional –2 penalty to her AC, and she applies precision damage or effects that occur on a hit only once, even if she hits with both attacks.
+
 ## Breaker
 
 While most barbarians are skilled at breaking things, some find the need to destroy their surroundings an almost uncontrollable urge when in the middle of a rage. These barbarians are a danger not only to their foes, but also to the very environment around them. A breaker barbarian has the following class features.

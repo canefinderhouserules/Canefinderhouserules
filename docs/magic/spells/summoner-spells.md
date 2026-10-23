@@ -26,9 +26,11 @@ New summoner spells from *Ultimate Magic*. Spells from other books will be added
 - **[Ant Haul, Communal](ant-haul-communal.md)**: As ant haul, but you may divide the duration among creatures touched.
 - **[Aquatic Cavalry](aquatic-cavalry.md)**: Summon hippocampi to serve as aquatic mounts.
 - **[Contact Entity I](contact-entity-i.md)**: Ask eldritch entities to find and converse with you.
+- **[Covetous Urge](covetous-urge.md)**: Curse a creature to steal valuables
 - **[Cushioning Bands](cushioning-bands.md)**: Force bands protect against crushing.
 - **[Dark Whispers](dark-whispers.md)**: Whisper through the shadows.
 - **[Detect Magic, Greater](detect-magic-greater.md)**: As *detect magic*, but learn more information.
+- **[Escape Alarm](escape-alarm.md)**: Ward an area to alert you when someone leaves
 - **[Garden of Peril](garden-of-peril.md)**: Poisonous mushrooms sicken nearby creatures.
 - **[Ghost Wolf](ghost-wolf.md)**: This spell conjures a Large, quasi-real, wolflike creature made of roiling black smoke.
 - **[Mount, Communal](mount-communal.md)**: As mount, but you may divide the duration among creatures touched.
@@ -45,6 +47,7 @@ New summoner spells from *Ultimate Magic*. Spells from other books will be added
 - **[Warding Weapon](warding-weapon.md)**
 - **[Web Shelter](web-shelter.md)**: Create a comfortable shelter made of webbing.
 - **[Whip of Spiders](whip-of-spiders.md)**: Whiplike spider swarm deals swarm damage by touch.
+- **[Wicker Horse](wicker-horse.md)**: Animate plants into a riding horse
 
 ## 3rd-Level Summoner Spells
 
@@ -107,6 +110,7 @@ New summoner spells from *Ultimate Magic*. Spells from other books will be added
 - **[Rising Water](rising-water.md)**: Conjures a cylinder of calm, swimmable water.
 - **[Seek Shelter](seek-shelter.md)**: Weak creatures flee to safety in an orderly fashion.
 - **[Shadow Invasion](shadow-invasion.md)**: Create an area of darkness that strengthens shadow spells and attracts kytons
+- **[Shadow Jaunt](shadow-jaunt.md)**: Teleport between shadows, leaving an image behind
 - **[Stoneskin, Communal](stoneskin-communal.md)**
 - **[Summoner Conduit](summoner-conduit.md)**: The target takes damage whenever its summoned creature does.
 - **[Sword to Snake](sword-to-snake.md)**: An item bites whoever handles it.
@@ -138,6 +142,7 @@ New summoner spells from *Ultimate Magic*. Spells from other books will be added
 - **[Straitjacket](straitjacket.md)**: Restrain a creature’s arms and grant it a second saving throw against certain magic.
 - **[Tar Pool](tar-pool.md)**: Converts the top layer of the ground into hot tar.
 - **[Vengeful Stinger](vengeful-stinger.md)**: Stinging tail retaliates against melee attackers.
+- **[Walk the Plank](walk-the-plank.md)**: Open a shark-filled pit in the ground
 - **[Whip of Centipedes](whip-of-centipedes.md)**: As whip of spiders, but with centipedes.
 - **[Wreath of Blades](wreath-of-blades.md)**
 

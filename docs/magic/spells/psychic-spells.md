@@ -89,11 +89,13 @@ Psychics gain access to the following spells. Spells without a link come from ot
 - **[Feather Step](feather-step.md)**: Subject ignores adverse movement effects in difficult terrain.
 - **[Flare Burst](flare-burst.md)**: As flare, but all creatures within 10 ft.
 - **[Floating Disk](floating-disk.md)**: Creates 3-ft.-diameter horizontal disk that holds 100 lbs./level.
+- **[Fool's Gold](fools-gold.md)**: Make copper or silver appear to be gold
 - **[Forbid Action](forbid-action.md)**: Target obeys your command to not do something.
 - **[Forced Quiet](forced-quiet.md)**: Target cannot make loud noises.
 - **[Fumbletongue](fumbletongue.md)**: Target cannot speak intelligently.
 - **[Glue Seal](glue-seal.md)**
 - **[Heightened Awareness](heightened-awareness.md)**: Your recall and ability to process information improve.
+- **[Hide Bruises](hide-bruises.md)**: Make wounds appear to vanish
 - **[Hold Portal](hold-portal.md)**: Holds door shut.
 - **[Hypnotism](hypnotism.md)**: Fascinates 2d4 HD of creatures.
 - **[Identify](identify.md)**: Gives +10 bonus to identify magic items.
@@ -226,6 +228,7 @@ Psychics gain access to the following spells. Spells without a link come from ot
 - Endure Elements, Communal
 - **[Enshroud Thoughts](enshroud-thoughts.md)**: Ward yourself against thought detection and memory alteration.
 - **[Enthrall](enthrall.md)**: Captivates all within 100 ft. + 10 ft./level.
+- **[Escape Alarm](escape-alarm.md)**: Ward an area to alert you when someone leaves
 - **[Euphoric Cloud](euphoric-cloud.md)**
 - **[Extreme Flexibility](extreme-flexibility.md)**: Gain a bonus to AC, on Escape Artist checks, and when grappling.
 - **[False Belief](false-belief.md)**: Temporarily plant a false memory.
@@ -248,6 +251,7 @@ Psychics gain access to the following spells. Spells without a link come from ot
 - **[Hideous Laughter](hideous-laughter.md)**: Subject loses actions for 1 round/level.
 - **[Hold Animal](hold-animal.md)**: Paralyzes one animal for 1 round/level.
 - **[Hold Person](hold-person.md)**: Paralyzes one humanoid for 1 round/level.
+- **[Hoodwink](hoodwink.md)**: Befuddle targets so they can be led away
 - **[Howling Agony](howling-agony.md)**: Screaming pain limits the target’s actions.
 - **[Hypercognition](hypercognition.md)**: Rapidly recall everything you know about a subject.
 - **[Hypnotic Pattern](hypnotic-pattern.md)**: Fascinates 2d4 + level HD of creatures.
@@ -481,6 +485,7 @@ Psychics gain access to the following spells. Spells without a link come from ot
 - **[Age Resistance, Lesser](age-resistance-lesser.md)**: Ignore penalties from middle age.
 - **[Agonize](agonize.md)**: Pain encourages an outsider to obey you.
 - Animal Aspect, Greater
+- **[Amnesia](amnesia.md)**: Strip a target of its memories, skills and class abilities
 - **[Anti-Incorporeal Shell](anti-incorporeal-shell.md)**: Incorporeal creatures stay 10 ft. away from you.
 - **[Anywhere But Here](anywhere-but-here.md)**: Transport yourself and willing creatures to a random planar destination
 - **[Arcane Eye](arcane-eye.md)**: Invisible floating eye moves 30 ft./round.
@@ -620,6 +625,7 @@ Psychics gain access to the following spells. Spells without a link come from ot
 
 - Absorb Toxicity
 - **[Apathy](apathy.md)**: A target loses interest in a chosen pursuit.
+- **[Appearance of Life, Greater](appearance-of-life-greater.md)**: Perfectly disguise any undead creature as a living one
 - **[Arcana Theft](arcana-theft.md)**: Targeted dispel transfers an effect to you.
 - **[Astral Projection, Lesser](astral-projection-lesser.md)**: Limited astral travel.
 - **[Banish Seeming](banish-seeming.md)**: Dispels touched illusion or a creature's change in form.

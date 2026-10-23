@@ -583,3 +583,21 @@ Sisters-in-arms are the most charismatic scarred soldiers, combining devotion to
 **Maiden’s Loyalty (Ex)**: At 4th level, a sister-in-arms gains a +2 bonus on Will saves against any effect that would compel her to attack or betray her allies. This bonus increases by 1 for every 4 levels beyond 4th. This ability replaces expert trainer.
 
 **Dedicated Commander (Ex)**: At 11th level, the sister-in-arms can use lion’s call or strategy order as a move action, rather than as a standard action. At 20th level, she can use act as one, lion’s call, or strategy order as a swift or move action. This ability replaces mighty charge and supreme charge.
+
+## Order of the Whip
+
+A cavalier who belongs to this order has pledged himself to cruelty and malice, serving only those who grant him free rein to cause suffering. Cavaliers of this order inflict pain upon those they engage and capture those who submit.
+
+**Edicts**: The cavalier must seek out those weaker than himself to punish and torture. He must force others to obey his commands without question. He must strive to cause pain and suffering wherever possible. Since these edicts are evil, he must be of an evil alignment.
+
+**Challenge**: Whenever an order of the whip cavalier issues a challenge, he receives a +1 morale bonus on all melee damage rolls against the target of his challenge as long as he damaged the creature in the previous round. This bonus increases by +1 for every 4 levels the cavalier has (to a maximum of +5 at 17th level).
+
+**Skills**: An order of the whip cavalier adds Knowledge (local) and Knowledge (nobility) to his list of class skills. Whenever an order of the whip cavalier uses Intimidate to force another creature to do what he says, he receives a bonus on the check equal to 1/2 his cavalier level (minimum +1).
+
+**Order Abilities**: A cavalier who belongs to the order of the whip gains the following abilities as he increases in level.
+
+*Whip Crack (Ex)*: At 2nd level, the cavalier becomes proficient with a whip and gains Whip Mastery as a bonus feat. When a creature whose number of Hit Dice is less than or equal to 1/2 the cavalier's level takes nonlethal damage from the cavalier's whip, it is shaken for 1 round. This does not stack with other fear effects.
+
+*Inspiring Pain (Ex)*: At 8th level, the cavalier can inspire brutal malice among his allies. As a swift action, the cavalier can allow allies within 30 feet to deal nonlethal damage with their weapons without taking the usual –4 penalty (the weapon must still be capable of dealing nonlethal damage). Affected allies gain a +2 bonus on nonlethal weapon damage rolls. This effect lasts for 1 round and can be used once every 5 minutes.
+
+*Assert Authority (Ex)*: At 15th level, the cavalier demonstrates his ruthlessness against those who strike the cavalier or his slaves. Whenever an enemy makes a melee attack against the cavalier or one of his adjacent slaves or servants, that enemy provokes an attack of opportunity from the cavalier, and the cavalier gains a +2 morale bonus on this attack of opportunity. If the enemy's attack was a confirmed critical hit, the cavalier counts the enemy as if it were the target of his challenge for this attack of opportunity.

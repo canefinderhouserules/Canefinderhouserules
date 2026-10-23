@@ -90,6 +90,7 @@ Spiritualists gain access to the following spells. Spells without a link come fr
 - **[Detect Thoughts](detect-thoughts.md)**: Allows “listening” to surface thoughts.
 - **[Disfiguring Touch](disfiguring-touch.md)**: Target becomes disfigured.
 - **[Emotive Block](emotive-block.md)**: Add an emotion component to all of the target’s spells.
+- **[Escape Alarm](escape-alarm.md)**: Ward an area to alert you when someone leaves
 - **[False Life](false-life.md)**: Gain 1d10 temporary hp + 1/level (max +10).
 - **[Garrulous Grin](garrulous-grin.md)**: Target seems guilty and takes –4 on Bluff and Diplomacy.
 - **[Gentle Repose](gentle-repose.md)**: Preserves one corpse.
@@ -117,6 +118,7 @@ Spiritualists gain access to the following spells. Spells without a link come fr
 - **[Scare](scare.md)**: Frightens creature of less than 6 HD.
 - **[See Invisibility](see-invisibility.md)**: Reveals invisible creatures or objects.
 - **[Sense Fear](sense-fear.md)**: Perceive nearby creatures that are experiencing fear.
+- **[Shadow Claws](shadow-claws.md)**: Gain shadow claws that damage Strength
 - **[Shifted Steps](shifted-steps.md)**: Make a target sound as if elsewhere.
 - **[Spectral Hand](spectral-hand.md)**: Creates disembodied glowing hand to deliver touch attacks.
 - **[Spindrift Spritz](spindrift-spritz.md)**: Ally rerolls a save against fatigue, shaken, sickened, or staggered.
@@ -144,6 +146,7 @@ Spiritualists gain access to the following spells. Spells without a link come fr
 - **[Condensed Ether](condensed-ether.md)**: Creates a planar conjunction that slows movement, penalizes AC and Reflex saves, and imposes a miss chance on ranged attacks.
 - **[Contagious Zeal](contagious-zeal.md)**: Grant bonuses and temporary hit points that spread from creature to creature.
 - **[Cure Serious Wounds](cure-serious-wounds.md)**: Cures 3d8 damage + 1/level (max +15).
+- **[Cursed Treasure](cursed-treasure.md)**: Curse treasure so the next thief is afflicted
 - **[Detect Anxieties](detect-anxieties.md)**: Learn what makes creatures anxious.
 - **[Detect Desires](detect-desires.md)**: Learn what creatures desire.
 - **[Dispel Magic](dispel-magic.md)**: Cancels one magical spell or effect.
@@ -208,6 +211,7 @@ Spiritualists gain access to the following spells. Spells without a link come fr
 ## 4th-Level Spiritualist Spells
 
 - **[Anti-Incorporeal Shell](anti-incorporeal-shell.md)**: Incorporeal creatures stay 10 ft. away from you.
+- **[Appearance of Life, Greater](appearance-of-life-greater.md)**: Perfectly disguise any undead creature as a living one
 - **[Assume Appearance, Greater](assume-appearance-greater.md)**: Use a likeness to adopt a dead creature’s form.
 - **[Aura Alteration](aura-alteration.md)**: Masks a creature’s or an object’s alignment, emotion, health, and magic auras.
 - **[Aura of Doom](aura-of-doom.md)**: Creatures in your aura become shaken.
@@ -258,6 +262,7 @@ Spiritualists gain access to the following spells. Spells without a link come fr
 - **[Remove Curse](remove-curse.md)**: Frees object or person from curse.
 - **[Restoration](restoration.md)**: Restores level and ability score drains.
 - **[Shadow Conjuration](shadow-conjuration.md)**: Mimics conjuration below 4th level, but only 20% real.
+- **[Shadow Jaunt](shadow-jaunt.md)**: Teleport between shadows, leaving an image behind
 - **[Shadow Step](shadow-step.md)**: Teleport from one shadow to another.
 - **[Slough](slough.md)**: Slough off a target’s skin.
 - **[Solid Fog](solid-fog.md)**: Blocks vision and slows movement.
@@ -280,6 +285,7 @@ Spiritualists gain access to the following spells. Spells without a link come fr
 - **[Break Enchantment](break-enchantment.md)**: Frees subjects from enchantments, transmutations, and curses.
 - **[Breath of Life](breath-of-life.md)**: Cures 5d8 damage + 1/level and restores life to recently slain creatures.
 - **[Call Spirit](call-spirit.md)**: Make the spirit of one creature manifest.
+- **[Cloak of Shadows](cloak-of-shadows.md)**: Wrap yourself in a shadow mantle for concealment and DR
 - **[Cloudkill](cloudkill.md)**: Kills 3 HD or less; 4–6 HD save or die, 6+ HD take Con damage.
 - **[Conditional Curse](conditional-curse.md)**: Bestow a curse that is difficult to remove without fulfilling a condition.
 - **[Contact Other Plane](contact-other-plane.md)**: Lets you ask question of extraplanar entity.

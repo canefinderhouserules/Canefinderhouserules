@@ -847,3 +847,21 @@ At 9th level, whenever a gloomblade creates one or more shadow weapons, he can a
 - Attacks made with the weapon ignore hardness equal to or less than the gloomblade's fighter level.
 
 For every 4 levels he has beyond 9th, a gloomblade can apply an additional effect to his shadow weapons, to a maximum of three effects at 17th level; these effects can be split between multiple shadow weapons as a gloomblade desires, but they don't stack with themselves. This alters weapon training.
+
+## Seasoned Commander
+
+The seasoned commander excels at leading troops through inspiration and the use of unit tactics.
+
+**Strategic Training (Ex)**: A seasoned commander gains 4 skill ranks + a number of skill ranks equal to his Intelligence modifier at each level instead of the normal 2 skill ranks + Intelligence modifier at each level. A seasoned commander adds Diplomacy, Knowledge (geography), Knowledge (nobility), Linguistics, and Sense Motive to his list of class skills. This alters the fighter's skill ranks per level and class skills, and replaces the bonus fighter combat feat gained at 1st level and proficiency with heavy armor and tower shields.
+
+**Tactician (Ex)**: At 3rd level, a seasoned commander gains the cavalier's tactician class feature, treating his fighter level as his cavalier level for the purposes of this ability. This ability replaces armor training 1.
+
+**Inspiring Speech (Ex)**: At 5th level, a seasoned commander can give an inspiring speech as a standard action once per day. If he does, all allies who can hear his speech gain the benefits of inspire courage, granting bonuses 1 lower than those granted by a bard of the seasoned commander's fighter level, lasting 1 round per fighter level + his Charisma modifier (abilities that affect a bardic performance, such as Lingering Performance, have no effect on this ability). At 7th level, he can perform the speech as a move action, and at 13th level, he can perform the speech as a swift action. This ability replaces weapon training 1 and 3.
+
+**Inspire Greatness (Ex)**: At 9th level, a seasoned commander gains an additional daily use of his inspiring speech ability, and he can also choose to use his inspiring speech to grant the effects of inspire greatness to one ally (instead of inspire courage). For every 2 levels a seasoned commander attains beyond 9th, he can target one additional ally while using this ability (up to a maximum of six at 19th level). This ability functions in all other respects like the seasoned commander's inspire courage ability. Whichever inspiring speech he chooses to use, if the seasoned commander uses an inspiring speech before the duration of his previous inspiring speech ends, the new inspiring speech replaces the old speech. This ability replaces weapon training 2.
+
+**Greater Tactician (Ex)**: At 11th level, the seasoned commander gains the cavalier's greater tactician class feature, treating his fighter level as his cavalier level for the purposes of this ability. This ability replaces armor training 3.
+
+**Inspire Heroics (Ex)**: At 15th level, a seasoned commander gains an additional daily use of his inspiring speech, and he can also choose to use his inspiring speech to grant the effects of inspire heroics to one ally (instead of inspire courage or inspire greatness). For every 2 levels a seasoned commander attains beyond 15th, he can target one additional ally while using this ability. This ability functions in all other respects like the seasoned commander's inspire courage ability. This ability replaces armor training 4.
+
+**Master Tactician (Ex)**: At 17th level, the seasoned commander gains the cavalier's master tactician class feature, treating his fighter level as his cavalier level for the purposes of this ability. This ability replaces weapon training 4.

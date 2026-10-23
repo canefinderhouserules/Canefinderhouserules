@@ -192,3 +192,15 @@ Frozen shadows belong to a rare ninja clan operating in the frozen north, workin
 **Ninja Tricks**: The following ninja tricks complement the frozen shadow archetype: bleeding attack, darkvision, deadly range, fast stealth, hidden weapons, sudden disguise, vanishing trick, and wall climber.
 
 **Advanced Ninja Tricks**: The following advanced ninja tricks complement the frozen shadow archetype: assassinate, ghost step, invisible blade, master disguise, and see the unseen.
+
+## Hunting Serpent Archetype
+
+The order dispatches specially trained killers to hunt relentlessly and fight from the shadows.
+
+**Class Skills**: A hunting serpent gains Survival as a class skill but loses Knowledge (nobility). This ability alters the ninja's class skills.
+
+**Relentless Pursuit (Ex)**: At 3rd level, a hunting serpent gains a +1 bonus on Diplomacy checks to gather information and on Survival checks to identify or follow tracks. The bonus increases by 1 for every 3 ninja levels beyond 3rd. This ability replaces no trace.
+
+**Death Mark (Ex)**: At 4th level, as a swift action once per day, a hunting serpent can mark an opponent damaged by her sneak attack for death. A hunting serpent gains a +1 competence bonus on attack and damage rolls against an opponent affected by death mark as well as on Survival checks to track the marked creature. The bonuses from death mark and its number of uses per day increase by 1 at 8th, 12th, and 16th levels. The effects of death mark last for 24 hours, until the marked creature is slain, or until the hunting serpent chooses to mark another creature, whichever comes first. This ability replaces uncanny dodge, improved uncanny dodge, and the ninja tricks gained at 12th and 16th levels.
+
+**Certain Demise (Ex)**: At 10th level, the hunting serpent's sneak attack damage applies on the first attack she makes each round against the target of her death mark ability, even if it normally wouldn't. Other effects that trigger on a sneak attack do not apply with this ability. This ability replaces the ninja trick gained at 10th level.

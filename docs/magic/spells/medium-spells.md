@@ -59,6 +59,7 @@ Mediums gain access to the following spells. Spells without a link come from oth
 - **[Echo](echo.md)**: Cause a sound to repeat itself.
 - **[Enlarge Person](enlarge-person.md)**: Humanoid creature doubles in size.
 - **[Expeditious Retreat](expeditious-retreat.md)**: Your base speed increases by 30 ft.
+- **[Fool's Gold](fools-gold.md)**: Make copper or silver appear to be gold
 - **[Heightened Awareness](heightened-awareness.md)**: Your recall and ability to process information improve.
 - **[Identify](identify.md)**: Gives +10 bonus to identify magic items.
 - **[Ill Omen](ill-omen.md)**: Target rolls twice for checks and attacks and uses worst roll.
@@ -155,6 +156,7 @@ Mediums gain access to the following spells. Spells without a link come from oth
 - **[Hideous Laughter](hideous-laughter.md)**: Subject loses actions for 1 round/level.
 - **[Hold Person](hold-person.md)**: Paralyzes one humanoid for 1 round/level.
 - Hostile Levitation
+- **[Hoodwink](hoodwink.md)**: Befuddle targets so they can be led away
 - **[Hypercognition](hypercognition.md)**: Rapidly recall everything you know about a subject.
 - **[Inflict Pain](inflict-pain.md)**: Target takes a –4 penalty on attack rolls, skill checks, and ability checks.
 - **[Instigate Psychic Duel](instigate-psychic-duel.md)**: Start a psychic duel between yourself and another creature.
@@ -213,6 +215,7 @@ Mediums gain access to the following spells. Spells without a link come from oth
 ## 3rd-Level Medium Spells
 
 - **[Adjustable Disguise](adjustable-disguise.md)**
+- **[Amnesia](amnesia.md)**: Strip a target of its memories, skills and class abilities
 - **[Apport Animal](apport-animal.md)**: Send or receive a Tiny or smaller animal via teleportation.
 - **[Assume Appearance](assume-appearance.md)**: Use a creature’s corpse to adopt its form.
 - **[Aura Alteration](aura-alteration.md)**: Masks a creature’s or an object’s alignment, emotion, health, and magic auras.
@@ -242,6 +245,7 @@ Mediums gain access to the following spells. Spells without a link come from oth
 - **[False Life, Greater](false-life-greater.md)**: Gain 2d10 temporary hp + 1/level.
 - **[Fly](fly.md)**: Subject flies at speed of 60 ft.
 - **[Gaseous Form](gaseous-form.md)**: Subject becomes insubstantial and can fly slowly.
+- **[Geomessage](geomessage.md)**: Leave an invisible message on a surface
 - **[Glimpse of Truth](glimpse-of-truth.md)**: Gain *true seeing* for 1 round.
 - **[Hollow Heroism](hollow-heroism.md)**: Provide a *heroism* effect that you can reverse at any time.
 - **[Horrific Doubles](horrific-doubles.md)**: Call forth disturbing *mirror images*.
@@ -267,6 +271,7 @@ Mediums gain access to the following spells. Spells without a link come from oth
 - **[Remove Curse](remove-curse.md)**: Frees object or person from curse.
 - **[Replay Tracks](replay-tracks.md)**: Reconstruct past events from a set of tracks.
 - **[Retrocognition](retrocognition.md)**: Gain psychic impressions from past events in a location.
+- **[Sand Table](sand-table.md)**: Create a scale model of the surrounding battlefield
 - **[Scrying](scrying.md)**: Spies on subject from a distance.
 - **[Seeds of Influence](seeds-of-influence.md)**: Leave a trace in a creature’s mind that weakens it against your divinations and enchantments.
 - **[Sending](sending.md)**: Delivers short message anywhere, instantly.
@@ -282,6 +287,7 @@ Mediums gain access to the following spells. Spells without a link come from oth
 ## 4th-Level Medium Spells
 
 - **[Adjustable Polymorph](adjustable-polymorph.md)**: As alter self; but you can change the shape as a swift action.
+- **[Appearance of Life, Greater](appearance-of-life-greater.md)**: Perfectly disguise any undead creature as a living one
 - **[Assume Appearance, Greater](assume-appearance-greater.md)**: Use a likeness to adopt a dead creature’s form.
 - **[Battlemind Link](battlemind-link.md)**: You and an ally gain attack and AC bonuses.
 - **[Bestow Planar Infusion II](bestow-planar-infusion-ii.md)**: Grant a target the effects of an improved planar infusion

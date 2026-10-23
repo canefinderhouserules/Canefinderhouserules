@@ -865,3 +865,29 @@ Mortifications alter the ki pool and replace high jump, wholeness of body, abund
 *Tongueless Master (Su)*: The monk assumes a vow of silence and slices out her own tongue. Thereafter, she wears the preserved appendage on a cord about her neck. She can no longer speak or cast spells with verbal components. Whenever she hits a creature with an unarmed strike, she can spend 1 point from her ki pool to steal the voice from her target. The target can resist this effect with a successful Will save (DC = 10 + 1/2 the scarred monk's level + her Wisdom modifier), otherwise the victim loses the ability to speak or cast spells with verbal components for a number of minutes equal to the total number of mortifications known by the scarred monk. During this time, the scarred monk can speak in the victim's voice.
 
 *Torturous Vision (Su)*: As a move action, the scarred monk can spend 1 ki point to cause a creature that recently wounded her to suffer, in one sudden blast of agony, the pain of all the wounds the scarred monk has endured. The monk can target any living creature within 60 feet who has been affected by share pain in the last 24 hours. The creature becomes stunned with pain for 1 round and then staggered for 1d3 rounds unless it succeeds at a Will save (DC = 10 + 1/2 the monk's level + the monk's Wisdom modifier). The scarred monk must be at least 13th level and have the share pain mortification in order to take this mortification.
+
+## Hellcat
+
+Monks of the hellcat sect follow the teachings of an infernal power. Their brutal training strips away their physical weaknesses, and their vicious fighting style is inspired by the predatory techniques of the hellcat.
+
+**Alignment**: A hellcat must be lawful evil or lawful neutral. A hellcat who becomes lawful good or nonlawful cannot gain new levels as a monk but retains all monk abilities. This alters the monk's alignment requirements.
+
+**Class Skills**: A hellcat gains Knowledge (planes) and Survival as class skills, instead of Craft, Knowledge (history), Perform, and Profession. This alters the monk's class skills.
+
+**Weapon Proficiency**: A hellcat is proficient with the club, crossbow (light or heavy), dagger, kama, light mace, nunchaku, quarterstaff, repeating crossbow (light or heavy), sai, shuriken, and siangham. In addition to monk weapons and unarmed strikes, a hellcat can use a light mace to perform a flurry of blows. This replaces the monk's weapon proficiencies.
+
+**Bonus Feat**: A hellcat selects bonus feats from the following list: Aspect of the Beast, Blind-Fight, Combat Reflexes, Dodge, Diehard, Improved Grapple, and Power Attack. At 6th level, the following feats are added to the list: Critical Focus, Greater Grapple, Improved Blind-Fight, Mobility, and Stalwart. At 10th level, the following feats are added to the list: Bleeding Critical, Greater Blind-Fight, Improved Critical, Improved Stalwart, and Spring Attack. This ability alters the monk's bonus feat ability.
+
+**Hellcat Fury (Ex)**: At 1st level, a hellcat can deal slashing damage with his unarmed strikes. At 4th level, whenever a hellcat confirms a critical hit with his slashing unarmed strike, the target of that attack also takes 1d4 points of bleed damage. At 8th level, the bleed damage increases to 1d6 points; at 12th level, the bleed damage increases to 1d8 points; at 16th level, the bleed damage increases to 1d10 points; and at 20th level, the bleed damage increases to 1d12 points. This ability replaces stunning fist and fast movement.
+
+**Torture Training (Ex)**: At 2nd level, a hellcat who fails a save against an effect that causes him to become fatigued, sickened, or staggered can attempt a second save against the effect at the end of his next turn. Only one additional save is allowed. At 5th level, he can also attempt this second save against effects that would cause him to become frightened or shaken. At 9th level, he can also attempt this second save against effects that would cause him to become exhausted, nauseated, or dazed. This ability replaces evasion, purity of body, and improved evasion.
+
+**Crucible of Pain (Ex)**: At 3rd level, a hellcat gains an amount of DR/— equal to half his monk level against nonlethal damage. In addition, a hellcat is inured to hot climate effects as if using *endure elements*. This ability replaces slow fall and still mind.
+
+**Hellcat Ki (Su)**: At 4th level, a hellcat gains a pool of ki points that he can use as per the monk class feature but with the following changes. In addition to spending ki to gain an additional attack, increased speed, or improved AC, a hellcat can spend 1 ki point as a swift action to enhance his sight (gaining 60-foot darkvision) or his sense of smell (gaining the scent ability) for 1 minute per level.
+
+At 7th level, a hellcat can spend 1 point of ki as a swift action to gain fire resistance 5 for 1 round per level. At 10th level, this fire resistance increases to 10, and at 14th level, it increases to 15.
+
+At 11th level, a hellcat can spend 1 point of ki as a swift action to become silhouetted with a ghostly flame, which makes him harder to see in light but easier to see in darkness for 1 round per level. He becomes invisible in bright light, gains concealment (20% miss chance) in normal light, gains no benefit in dim light, and gives off light like a candle in darkness, allowing other creatures to see him even without darkvision. If he takes any action that would break invisibility while in bright light, his invisibility is reduced to concealment until the end of his next turn.
+
+This ability alters ki pool and replaces wholeness of body and diamond body.
