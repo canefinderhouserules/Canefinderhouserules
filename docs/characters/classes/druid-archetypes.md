@@ -122,6 +122,18 @@ You can only use this ability if you have at least 1 rank in the skill being use
 
 **Domain Spells**: 1st—mount, 2nd—chameleon stride\*\*, 3rd—haste, 4th—aspect of the stag\*\*, 5th—control winds, 6th—find the path, 7th—whirlwind, 8th—animal shapes, 9th—worldwave\*\*.
 
+### Ruins Domain
+
+**Granted Powers**: You sense nature's creeping reclamation of what once belonged to the civilized world and understand how to ensure ruins that hold power or significance will persist.
+
+**Ruin Touch (Su)**: You can strengthen or weaken objects with your touch. With a melee touch attack, you can increase or decrease the hardness of an object (up to a 10-foot cube) or construct by an amount equal to half your druid level (minimum 1) for 1 minute. You cannot reduce an object's hardness below 0, and the same target cannot be affected by this ability more than once. You can use this ability a number of times per day equal to 3 + your Wisdom modifier.
+
+**Remembrance (Sp)**: At 4th level, when within a ruin or other structure that is no longer claimed by civilization, you can call upon the wisdom of the land and its long-dead residents. Once per day for every 4 druid levels you possess, you can cast *divination* as a spell-like ability. Additionally, if you are within ruins when you cast *commune with nature*, you gain information about the crumbling structures around you as though they were part of nature.
+
+**Surefooted (Ex)**: At 8th level, your speed is not reduced by difficult terrain unless the terrain has been magically manipulated to impede motion.
+
+**Domain Spells**: 1st—*magic stone*, 2nd—*stone call*, 3rd—*meld into stone*, 4th—*rusting grasp*, 5th—*commune with nature*, 6th—*stone tell*, 7th—*statue*, 8th—*earthquake*, 9th—*clashing rocks*.
+
 ### Serpent Domain
 
 **Granted Powers**: You serve ancient serpentine mysteries whose coils still encircle the world.
@@ -143,6 +155,18 @@ You can only use this ability if you have at least 1 rank in the skill being use
 **Reed Hunter (Ex)**: At 6th level, you gain blindsense 30 feet with respect to concealment and cover from fog, vegetation, or water. At 12th level, this improves to blindsight 30 feet with respect to these conditions.
 
 **Domain Spells**: 1st—hydraulic push\*\*, 2nd—burst of nettles\*, 3rd—lily pad stride\*\*, 4th—cape of wasps\*, 5th—insect plague, 6th—mass fester\*\*, 7th—animate plants, 8th—blood mist\*, 9th—shambler.
+
+### Vermin Domain
+
+**Granted Powers**: You share a deep connection with mindless invertebrates.
+
+**Familiar**: You gain a greensting scorpion familiar. Your effective wizard level for this ability is equal to your druid level. Your druid level stacks with levels from other classes that grant familiars when determining the powers of your familiar.
+
+**Vermin Friend (Ex)**: You can use wild empathy to influence vermin as easily as you influence animals if you do not already possess this ability.
+
+**Tremorsense (Ex)**: At 6th level, you gain tremorsense 30 feet. At 12th level, you gain tremorsense 60 feet.
+
+**Domain Spells**: 1st—*jump*, 2nd—*vomit swarm*, 3rd—*darkvision*, 4th—*insect plague*, 5th—*swarm skin* (spider, crab, centipede, and army ant swarms only), 6th—*whip of ants*, 7th—*creeping doom*, 8th—*mass fly*, 9th—*mind blank*.
 
 ### Wolf Domain
 

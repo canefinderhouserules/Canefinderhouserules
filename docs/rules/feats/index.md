@@ -1515,6 +1515,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Ascetic Form](ascetic-form.md) | Combat | Ascetic Style, Weapon Focus with the chosen melee weapon, base attack bonus +5 or monk level 5th |
 | [Ascetic Strike](ascetic-strike.md) | Combat | Ascetic Form, Ascetic Style, Weapon Focus with the chosen weapon, base attack bonus +7 or monk level 7th |
 | [Ascetic Style](ascetic-style.md) | Combat, Style | Weapon Focus with the chosen melee weapon, base attack bonus +1 or monk level 1st |
+| [Assured Destruction](assured-destruction.md) | — | Empowered Daemonic Pact, urdefhan |
 | [Aura of Succumbing](aura-of-succumbing.md) | — | Channel energy class feature, worshiper of a deity of death or plague |
 | [Authoritative Spell](authoritative-spell.md) | Metamagic | — |
 | [Aversion Tolerance](aversion-tolerance.md) | — | Vampire |
@@ -1554,6 +1555,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Bred Commander](bred-commander.md) | — | Hobgoblin |
 | [Brilliant Planner](brilliant-planner.md) | — | Int 13, character level 5th |
 | [Brilliant Spell Preparation](brilliant-spell-preparation.md) | — | Int 13, ability to prepare 3rd-level spells |
+| [Buffeting Wings](buffeting-wings.md) | Combat | Hover, Powerful Wings |
 | [Bulette Charge Style](bulette-charge-style.md) | Combat, Style | Str 13, Improved Overrun, Power Attack, proficiency with heavy armor |
 | [Bulette Leap](bulette-leap.md) | Combat | Str 15, Bulette Charge Style, Improved Overrun, Power Attack, proficiency with heavy armor |
 | [Bulette Rampage](bulette-rampage.md) | Combat | Str 15, Bulette Charge Style, Bulette Leap, Improved Overrun, Power Attack, proficiency with heavy armor |
@@ -1593,6 +1595,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Clarifying Channel](clarifying-channel.md) | — | Channel energy class feature, worshiper of a deity of art and love |
 | [Claw Wrench](claw-wrench.md) | Combat | Dex 13, Improved Grapple, Improved Unarmed Strike |
 | [Cleaving Sweep](cleaving-sweep.md) | Combat | Str 15, Cleave, Improved Trip, Weapon Focus (greataxe), base attack bonus +11 |
+| [Cloak of Feathers](cloak-of-feathers.md) | — | Cha 13, strix |
 | [Close Call](close-call.md) | — | Deft Hands |
 | [Cold Celerity](cold-celerity.md) | — | Endurance |
 | [Combat Vigor](combat-vigor.md) | Combat | Con 13 |
@@ -1716,6 +1719,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Elven Battle Style](elven-battle-style.md) | Combat, Style | Elven Battle Training, Weapon Finesse, base attack bonus +1, weapon familiarity racial trait |
 | [Elven Battle Torrent](elven-battle-torrent.md) | Combat | Int 13, Elven Battle Focus, Elven Battle Style, Elven Battle Training, Weapon Finesse, base attack bonus +10, weapon familiarity racial trait |
 | [Emissary’s Emboldening](emissarys-emboldening.md) | Familiar | Must have a familiar with the emissary archetype |
+| [Empowered Daemonic Pact](empowered-daemonic-pact.md) | — | Urdefhan |
 | [Empty Quiver Flexibility](empty-quiver-flexibility.md) | Combat | Empty Quiver Style, Rapid Shot, Stabbing Shot, Weapon Focus with the chosen weapon |
 | [Empty Quiver Flurry](empty-quiver-flurry.md) | Combat | Empty Quiver Flexibility, Empty Quiver Style, Rapid Shot, Stabbing Shot, Weapon Focus with the chosen weapon |
 | [Empty Quiver Style](empty-quiver-style.md) | Combat, Style | Weapon Focus with the chosen weapon |
@@ -1775,6 +1779,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Flexible Foe](flexible-foe.md) | Combat | Base attack bonus +5, favored enemy (any humanoid or any outsider), favored enemy class feature |
 | [Flickering Step](flickering-step.md) | Conduit | Knowledge (planes) 9 ranks |
 | [Flight Mastery](flight-mastery.md) | Item Mastery | Use Magic Device 3 ranks, base Fortitude save bonus +6 |
+| [Fling](fling.md) | Combat | Flyby Attack, Powerful Wings, Snatch and Drop, Throw Anything |
 | [Flow of Elements](flow-of-elements.md) | Teamwork | Ability to cast spells; ifrit, oread, sylph, or undine |
 | [Flumefire Rage](flumefire-rage.md) | — | Cha 15; bloodrage class feature or elemental focus class feature |
 | [Flying Tackle](flying-tackle.md) | — | Improved Overrun |
@@ -1806,6 +1811,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Glorious Heat](glorious-heat.md) | — | Ability to cast divine spells, caster level 5th, worshiper of a deity of the sun |
 | [Gluttonous Gobbler](gluttonous-gobbler.md) | — | Improved Unarmed Strike, Improved Grapple or the grab ability, ogre, size Large or larger |
 | [Gnawer](gnawer.md) | — | Sharptooth, ratfolk |
+| [Graceful Flier](graceful-flier.md) | — | Skill Focus (Fly), fly speed |
 | [Graceful Steal](graceful-steal.md) | Combat | Dex 13, Agile Maneuvers, Improved Steal, Sleight of Hand 3 ranks |
 | [Gravitational Vital Strike](gravitational-vital-strike.md) | Combat | Vital Strike, [Heavy Gravity Acclimation](heavy-gravity-acclimation.md) or [Light Gravity Acclimation](light-gravity-acclimation.md) |
 | [Gray Dwarf Magic](gray-dwarf-magic.md) | — | Duergar |
@@ -1822,6 +1828,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Group Deliver Touch Spells](group-deliver-touch-spells.md) | Teamwork | Group Shared Spells, must have a familiar with the share spells and deliver touch spells abilities |
 | [Growth in Ash](growth-in-ash.md) | — | — |
 | [Guarded Charge](guarded-charge.md) | Shield Mastery | Shield Focus, base attack bonus +6 or fighter level 4th |
+| [Guardian of Tradition](guardian-of-tradition.md) | — | Domain class feature, girtablilu |
 | [Guardian’s Return](guardians-return.md) | Familiar | Must have a familiar with the protector archetype |
 | [Guild Emissary](guild-emissary.md) | — | Leadership or Underworld Connections |
 | [Hammer Guards the Anvil](hammer-guards-the-anvil.md) | Teamwork | — |
@@ -2028,6 +2035,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Potion Glutton](potion-glutton.md) | — | Worshiper of a deity of gluttony or undeath |
 | [Powerful Poisoning](powerful-poisoning.md) | — | Power Attack; Craft (poison) 3 ranks or poison use class feature |
 | [Powerful Tongue](powerful-tongue.md) | — | Str 17, sticky tongue |
+| [Powerful Wings](powerful-wings.md) | Combat | Str 13, Skill Focus (Fly), base attack bonus +8 |
 | [Primal Bloom](primal-bloom.md) | Conduit | Knowledge (planes) 10 ranks |
 | [Protective Channel](protective-channel.md) | — | Channel energy 7d6, worshiper of a deity of valor and justice |
 | [Protective Line](protective-line.md) | Combat, Teamwork | Exotic Weapon Proficiency (firearms) |
@@ -2113,9 +2121,11 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Sinister Reputation](sinister-reputation.md) | — | Cha 13, Intimidate 5 ranks, Persuasive or renown social talent |
 | [Siphon Channel](siphon-channel.md) | — | Channel energy 3d6, worshiper of a deity of disease |
 | [Siphon Poison](siphon-poison.md) | — | — |
+| [Siphoning Blade](siphoning-blade.md) | Combat | Voracious Blade, Weapon Focus (rhoka sword), base attack bonus +8, urdefhan |
 | [Sisterhood Dedication](sisterhood-dedication.md) | Combat | Cha 13, Shield Focus, Shield Wall, Sisterhood Rampart, BAB +6 |
 | [Sisterhood Rampart](sisterhood-rampart.md) | Combat | Cha 13, Shield Focus, Shield Wall, Sisterhood Style, BAB +4 |
 | [Sisterhood Style](sisterhood-style.md) | Combat, Style | Cha 13, Shield Focus, Weapon Focus (longsword), BAB +2 |
+| [Skaveling Companion](skaveling-companion.md) | — | 7th level in a class that grants an animal companion or mount, urdefhan |
 | [Sleeper](sleeper.md) | — | [Warren Digger](warren-digger.md), ghoul |
 | [Sliding Dash](sliding-dash.md) | Combat | Dex 15, Acrobatics 10 ranks or acrobatic charge class feature, Bluff 3 ranks |
 | [Slipslinger Bombardment](slipslinger-bombardment.md) | Combat | Quick Draw, Slipslinger Grenadier, Slipslinger Style, Throw Anything, Weapon Focus (sling) or weapon training (thrown) class feature, warslinger racial trait |
@@ -2130,6 +2140,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Smoking Boulder](smoking-boulder.md) | Combat | Base attack bonus +11, heated rock special ability |
 | [Snapping Flank](snapping-flank.md) | Combat, Teamwork | Base attack bonus +9, bite attack |
 | [Snapping Jaws](snapping-jaws.md) | Combat | Base attack bonus +1, gnoll |
+| [Snatch and Drop](snatch-and-drop.md) | Combat | Flyby Attack, Powerful Wings |
 | [Sneaking Critical](sneaking-critical.md) | Combat, Critical | Critical Focus, base attack bonus +9, sneak attack class feature |
 | [Sniper's Lantern](snipers-lantern.md) | — | Point-Blank Shot, *dancing lights* racial spell-like ability |
 | [Social Bravery](social-bravery.md) | Combat | Cha 13, bravery class feature |
@@ -2269,6 +2280,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Upsetting Shield Style](upsetting-shield-style.md) | Combat, Style | Dex 13, proficiency with bucklers |
 | [Upsetting Strike](upsetting-strike.md) | Combat | Dex 15, Combat Reflexes, Improved Shield Bash, Upsetting Shield Style, proficiency with bucklers |
 | [Upsetting Vengeance](upsetting-vengeance.md) | Combat | Dex 13, Combat Reflexes, Improved Shield Bash, Upsetting Shield Style, Upsetting Strike, proficiency with bucklers |
+| [Urdefhan Bladebreaker](urdefhan-bladebreaker.md) | Combat | Base attack bonus +1, proficiency with the rhoka sword, urdefhan |
 | [Valiant Steed](valiant-steed.md) | — | Animal or magical beast |
 | [Vampiric Companion](vampiric-companion.md) | — | Dhampir or vampire, nongood alignment, 10th level in a class that grants a familiar or animal companion |
 | [Vanguard Hustle](vanguard-hustle.md) | Combat | Dex 13, Bodyguard, Combat Patrol, Combat Reflexes, Mobility, Saving Shield, Vanguard Style, Vanguard Ward, proficiency with light or heavy shields |
@@ -2285,6 +2297,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Visceral Threat](visceral-threat.md) | Combat | Intimidating Prowess |
 | [Vishkanya Perfume](vishkanya-perfume.md) | — | Deadly Kiss, toxic racial trait, vishkanya |
 | [Vision Mastery](vision-mastery.md) | Item Mastery | Use Magic Device 2 ranks, base Fortitude save bonus +4 |
+| [Voracious Blade](voracious-blade.md) | Combat | Weapon Focus (rhoka sword), base attack bonus +4, urdefhan |
 | [Walking Sleight](walking-sleight.md) | — | Deft Hands, Sleight of Hand 5 ranks |
 | [Wanderer's Fortune](wanderers-fortune.md) | Conduit | Knowledge (planes) 3 ranks |
 | [Warmonger](warmonger.md) | — | Cha 13, hobgoblin |
