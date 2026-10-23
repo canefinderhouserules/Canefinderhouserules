@@ -145,3 +145,9 @@ The following text is the property of Wizards of the Coast, Inc. and is Copyrigh
     Pathfinder Campaign Setting: Inner Sea Monster Codex © 2015, Paizo Inc.; Authors: John Compton, Paris Crenshaw, Mike Myler, Tork Shaw, and Larry Wilhelm.
 
     Pathfinder Campaign Setting: Inner Sea Temples © 2016, Paizo Inc.; Authors: Robert Brookes, Liz Courts, Mikko Kallio, Jeffrey Swank, and Larry Wilhelm.
+
+    Pathfinder Chronicles: Princes of Darkness, Book of the Damned Vol. I © 2009, Paizo Publishing, LLC; Author: F. Wesley Schneider.
+
+    Pathfinder Campaign Setting: Lords of Chaos, Book of the Damned Vol. II © 2010, Paizo Publishing, LLC; Author: James Jacobs.
+
+    Pathfinder Campaign Setting: Horsemen of the Apocalypse, Book of the Damned Vol. III © 2011, Paizo Publishing, LLC; Author: Todd Stewart.

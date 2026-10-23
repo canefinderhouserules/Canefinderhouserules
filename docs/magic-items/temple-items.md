@@ -267,3 +267,49 @@ A drinker must add hair, skin, fur, blood, or nail clippings of a single creatur
 This +1 *dancing dagger* can attack foes up to 60 feet from the activating character, and takes the form of a rat-sized metal wasp when the dancing special ability is in use. It can store up to 4 doses of poison in its hilt. While dancing, if it does not currently have poison applied to it, it automatically applies 1 dose of stored poison (if any is currently stored) to itself before the first attack it makes each round. The *hateful sting* can envenom itself only when dancing. Removing the poison from the hilt to apply to the blade manually takes a full-round action.
 
 **Construction Requirements:** Craft Magic Arms and Armor, *animate objects*, *summon swarm*; **Cost** 30,302 gp
+
+## Fiendish Relics
+
+### Demon Senses
+
+**Slot** none; **CL** 15th; **Price** 20,000 gp; **Weight** 1 lb.
+
+**Aura** strong conjuration [evil]
+
+This implant appears as a demonic eye, tongue, finger, ear, or nose floating in a small jar of transparent fluid. In order to gain the benefit of this implant, the contents of the jar—thick fluid, body part, and all—must be consumed as a full-round action. This immediately grants a permanent +8 racial bonus on all Perception checks (as a racial bonus, this does not stack with any other racial bonuses a creature might already possess). After gaining this bonus, the part of the creature's body corresponding to the body part eaten changes to match the eaten part—eyes might become red, ears might grow long and pointed, a tongue might become forked, and so on.
+
+**Demonic implants:** All demonic implants require a willing host to attach them to—attempts to attach a demonic implant to an unwilling host automatically fail. Successfully attached demonic implants impart a negative level to a lawful or good user—the number of negative levels imparted stacks with each new implant. These negative levels remain as long as the implant remains attached or (in the case of *demon blood*) until the effects wear off. They never result in actual level loss, but cannot be overcome in any way while the implant is in effect. Implants must be physically excised to be removed. Removal inflicts 1d6 points of Constitution damage, and could have other effects as well (such as deafness or blindness) as determined by the GM.
+
+**Construction Requirements:** Craft Wondrous Item, *limited wish*, *regenerate*; **Cost** 10,000 gp
+
+### Demon Talon
+
+**Slot** none; **CL** 15th; **Price** 20,000 gp; **Weight** 3 lbs.
+
+**Aura** strong conjuration [evil]
+
+A *demon talon* must be held against the raw flesh of a fresh stump—preparing a creature by severing an existing hand causes 1d6 points of Constitution damage, but preparing a preexisting stump by cutting the flesh free at the end causes no significant damage. Once attached, the *demon talon* fuses with the stump, granting the creature a claw attack as appropriate for a creature one size category larger than the target's actual size. The claw is shaped like a human hand (fingers and a thumb), but looks obviously demonic (scales, strange coloration, long nails, and so on), and is fully capable of wielding weapons or performing any other feat a human hand can perform. As with all demonic implants (see *demon senses*), it requires a willing host and imparts a negative level to a lawful or good user.
+
+**Construction Requirements:** Craft Wondrous Item, *limited wish*, *regenerate*; **Cost** 10,000 gp
+
+### Demon Blood
+
+**Slot** none; **CL** 5th; **Price** 800 gp; **Weight** 1 lb.
+
+**Aura** faint evocation [evil]
+
+A character who drinks a dose of this black, bubbling ichor becomes nauseated for 1d6 rounds if he fails a DC 15 Fortitude save. He also gains an enhanced capacity to affect demons: demons suffer a –2 penalty on their saving throws against the user's spells and spell-like abilities, and the user gains a +2 bonus on caster level checks made to penetrate a demon's spell resistance. *Demon blood* is somewhat addictive, and every day for a week after a user stops daily doses of the ichor, he must make a DC 15 Fortitude save to avoid taking 1 point of Wisdom damage and being sickened for the entire day. As with all demonic implants (see *demon senses*), it imparts a negative level to a lawful or good user while its effects last.
+
+**Construction Requirements:** Craft Wondrous Item, *desecrate*; **Cost** 400 gp
+
+### Candle of the Eclipse
+
+**Slot** none; **CL** 13th; **Price** 9,000 gp; **Weight** 1 lb.
+
+**Aura** strong necromancy and abjuration
+
+Molded from a pale, milky green wax into the shape of a column of screaming souls, and stamped on the bottom with an unholy symbol, this candle is a boon to evil spellcasters, but also to any who would summon or interact with daemons. When burned, the candle sheds eerie illumination in a radius of 15 feet. A spellcaster within the radius of the burning candle gains a +2 bonus to caster level when casting spells with the evil descriptor. The light also acts as a *magic circle against evil*, but only against daemons. Within the light, all creatures take 1 point of damage per round, natural healing doesn't work, and magical healing requires a DC 24 caster level check to succeed.
+
+A candle normally burns for 4 hours, and any burning consumes at least 1 minute of its power. It is possible to extinguish the candle simply by blowing it out, so users often place it in a lantern to protect it from drafts and the like. Doing this doesn't interfere with its magical properties.
+
+**Construction Requirements:** Craft Wondrous Item, *magic circle against evil*, *desecrate*, creator must be evil; **Cost** 4,500 gp

@@ -187,6 +187,7 @@ The magus class spell list appears on the [Magus](../../characters/classes/magus
 - **[Parchment Swarm](parchment-swarm.md)**
 - **[Scripted Hallucination](scripted-hallucination.md)**: As *complex hallucination*, but without concentration.
 - **[Shapechanger’s Gift](shapechangers-gift.md)**: Temporarily change a target into an animal, humanoid, or monstrous humanoid.
+- **[Soul-Rending Claws](soul-rending-claws.md)**: Claws grant negative levels
 - **[Soulswitch](soulswitch.md)**: Swap souls with your familiar.
 - **[Symbol of Striking](symbol-of-striking.md)**
 - **[Transplant Visage](transplant-visage.md)**: Wear a stolen face for +10 on Disguise.
