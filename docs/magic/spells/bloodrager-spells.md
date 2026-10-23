@@ -8,6 +8,7 @@ Bloodragers gain access to the following spells. Spells in plain text come from 
 - **[Blade Lash](blade-lash.md)**: Use your weapon like a whip to trip an opponent.
 - **[Bloodbath](bloodbath.md)**: Cause yourself and enemies to bleed.
 - **[Blurred Movement](blurred-movement.md)**: As blur, but only while you are moving.
+- **[Bouncy Body](bouncy-body.md)**: Become rubbery and bounce when falling
 - **[Break](break.md)**: Gives an object the broken condition.
 - **[Burning Hands](burning-hands.md)**: 1d4/level fire damage (max 5d4).
 - **[Cause Fear](cause-fear.md)**: A creature of 5 HD or less flees for 1d4 rounds.
@@ -107,6 +108,7 @@ Bloodragers gain access to the following spells. Spells in plain text come from 
 - **[Gust of Wind](gust-of-wind.md)**: Blows away or knocks down smaller creatures.
 - Imbue with Elemental Might
 - **[Huntmaster’s Spear](huntmasters-spear.md)**: Spear becomes a +1 weapon against a chosen favored-enemy type and can be discharged for a powerful attack.
+- **[Ironskin](ironskin.md)**: Harden your skin to iron
 - **[Lightning Conductor](lightning-conductor.md)**: Absorb electricity damage and discharge it as a touch or ray.
 - **[Mark of Blood](mark-of-blood.md)**: Mark a creature struck by a bloodied weapon.
 - **[Mirror Image](mirror-image.md)**: Creates decoy duplicates of you.
@@ -116,6 +118,7 @@ Bloodragers gain access to the following spells. Spells in plain text come from 
 - **[Pyrotechnics](pyrotechnics.md)**: Turns fire into blinding light or thick smoke.
 - **[Quick Change](quick-change.md)**: Use change shape as a swift action and surprise foes.
 - **[Resist Energy](resist-energy.md)**: Ignores 10 (or more) points of damage/attack from specified energy type.
+- **[Scale Spikes](scale-spikes.md)**: Grow armor spikes from scales
 - **[Scorching Ray](scorching-ray.md)**: Ranged touch attack deals 4d6 fire damage, + 1 ray/four levels (max 3).
 - **[See Invisibility](see-invisibility.md)**: Reveals invisible creatures or objects.
 - **[Shatter](shatter.md)**: Sonic energy damages objects or crystalline creatures.
@@ -134,6 +137,7 @@ Bloodragers gain access to the following spells. Spells in plain text come from 
 
 ## 3rd-Level Bloodrager Spells
 
+- **[Air Breathing](air-breathing.md)**: Let aquatic creatures breathe air
 - **[Air Geyser](air-geyser.md)**: Blast of air deals 2d6 bludgeoning damage and knocks opponent upward.
 - Animal Aspect, Greater
 - **[Allied Cloak](allied-cloak.md)**: Animate your cloak to shield you and aid your actions.
@@ -191,6 +195,7 @@ Bloodragers gain access to the following spells. Spells in plain text come from 
 - **[Stinking Cloud](stinking-cloud.md)**: Nauseating vapors, 1 round/level.
 - **[Temporary Graft](temporary-graft.md)**: Graft a body part onto yourself to gain one of several benefits.
 - **[Thunderstomp, Greater](thunderstomp-greater.md)**: Trip multiple creatures within
+- **[Trial of Fire and Acid](trial-of-fire-and-acid.md)**: Cover a creature in burning acid
 - **[Twilight Knife](twilight-knife.md)**: Floating knife attacks with you.
 - **[Undead Anatomy I](undead-anatomy-i.md)**: Take the form and some of the powers of a Small or Medium undead.
 - **[Vampiric Touch](vampiric-touch.md)**: Touch deals 1d6 damage/2 levels; caster gains damage as temporary hp.
@@ -239,6 +244,7 @@ Bloodragers gain access to the following spells. Spells in plain text come from 
 - **[Ride the Waves](ride-the-waves.md)**: Target can breathe water and swim.
 - **[River of Wind](river-of-wind.md)**: Creates wind that causes nonlethal damage and can knock down or push creatures.
 - Shocking Image
+- **[Scale Spikes, Greater](scale-spikes-greater.md)**: Scale spikes with up to +5 enhancement
 - **[Shout](shout.md)**: Deafens all within cone and deals 5d6 sonic damage.
 - **[Slow](slow.md)**: One subject/level takes only one action/round, –1 to AC, Reflex saves, and attack rolls.
 - **[Stoneskin](stoneskin.md)**: Grants DR 10/adamantine.

@@ -1327,3 +1327,15 @@ In eons past, an angel was tasked with cataloging all knowledge of the Great Bey
 **Amoral Scholar (Ex)**: A chronicler of worlds rejects cosmic morality. At 2nd level, she does not take penalties imposed by planar alignment traits, and she gains a +4 bonus on saving throws against spells and effects that vary based on their target's alignment. This replaces well-versed.
 
 **Scrivener's Versatility (Ex)**: A chronicler of worlds seeks to emulate history's greatest scribe; studying such lore grants insight into widely varying subjects, from anatomy to discourse. At 2nd level, a chronicler of worlds selects a skill from the following list: Bluff, Diplomacy, Disable Device, Heal, Intimidate, Profession (scribe), Sense Motive, or Survival. When attempting skill checks of that type, a chronicler can use her Linguistics skill bonus in place of her bonus with the chosen skill. At 6th level and every 4 levels thereafter, a chronicler of worlds selects an additional skill to gain this benefit. This replaces versatile performance.
+
+## Dragon Yapper
+
+Kobolds' yammering songs distract opponents in combat, hindering their ability to attack.
+
+**Bardic Performance**: A dragon yapper gains the following types of bardic performance.
+
+*Yapping Song (Su)*: A dragon yapper can use performance to annoy those that hear it, causing them to take a –1 penalty on attack and damage rolls (minimum 1) and a –1 penalty on saves against fear effects and charm effects as long as the dragon yapper continues performing. This penalty increases by 1 at 5th level and every 6 levels thereafter. Yapping song is a mind-affecting ability that uses audible components, but is not language-dependent. This performance replaces fascinate.
+
+*Frightful Song (Su)*: A dragon yapper of 8th level or higher can amplify his voice to sound like an actual dragon. Enemies within 30 feet become shaken unless they succeed at a Will save (DC 10 + 1/2 the dragon yapper's level + the dragon yapper's Charisma modifier). A successful save renders targets immune to this ability for 24 hours. Frightful song is a mind-affecting ability, and a fear effect that uses audible components. This performance replaces dirge of doom.
+
+*Versatile Performance (Ex)*: A dragon yapper must choose sing at 2nd level.

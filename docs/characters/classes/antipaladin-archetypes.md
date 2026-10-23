@@ -95,3 +95,17 @@ Rough rampagers revel in the destruction a god of annihilation represents. Where
 **Aura of Putrefaction (Su)**: At 8th level, a rough rampager radiates an aura that causes the wounds of enemies within 10 feet to weep blood. Injured enemies in the area take 1 point of bleed damage per round. This ability functions only while the antipaladin is conscious. This ability replaces aura of despair.
 
 **Aura of Quietus (Su)**: At 14th level, a rough rampager radiates an aura that causes the failure of healing spells, spell-like abilities, and supernatural abilities used to restore enemies within 10 feet of him. This is not an antimagic field, however, and ongoing or passive effects are not affected. Casters can overcome this ability with a successful caster level check versus the rough rampager's class level + 11. This ability replaces aura of sin.
+
+## Fearmonger
+
+Only the most vicious and bloodthirsty monsters take on the mantle of the antipaladin; those who do usually focus their vile power on causing as much fear as possible.
+
+**Feed on Fear (Su)**: At 2nd level, the first time in a round a creature fails a saving throw against a fear effect created by a fearmonger's spell, spell-like ability, or supernatural ability (including any ability that causes a creature to be shaken, frightened, or panicked), the fearmonger is healed of 1 point of damage per 2 antipaladin levels. If the fearmonger is at full hit points when this ability is activated, he instead gains an equal number of temporary hit points. These temporary hit points last for 1 minute. Temporary hit points gained through multiple successful uses of this ability do not stack; the duration increases instead.
+
+The antipaladin can use this ability a number of times per day equal to 1/2 his antipaladin level plus his Charisma bonus. This ability replaces touch of corruption.
+
+**Frightening Cruelty (Su)**: The fearmonger must select shaken as his 3rd-level cruelty, dazed as his 6th-level cruelty, and frightened as his 9th-level cruelty. At 12th level, the fearmonger gains the panicked cruelty.
+
+*Panicked*: The target is panicked for 1 round per 4 class levels the antipaladin possesses. The antipaladin must have the shaken and frightened cruelties before selecting this cruelty.
+
+This class feature alters cruelty.

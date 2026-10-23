@@ -71,6 +71,7 @@
 - **[Fairness](fairness.md)**: Affected creatures must trade fairly.
 - **[Healing Token](healing-token.md)**: Holy symbols let allies request healing at a distance.
 - **[Holy Javelin](holy-javelin.md)**: Deal ongoing damage to evil creatures and apply penalties.
+- **[Ironskin](ironskin.md)**: Harden your skin to iron
 - **[Light of Purity](light-of-purity.md)**: Illuminate undead and weaken their channel resistance.
 - **[Litany of Defense](litany-of-defense.md)**: Doubles armor’s enhancement bonus.
 - **[Litany of Eloquence](litany-of-eloquence.md)**: Fascinates a single creature for 1 round.

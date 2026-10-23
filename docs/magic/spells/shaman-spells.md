@@ -47,6 +47,7 @@ Shamans gain access to the following spells. Spells in plain text come from othe
 - **[Discern Next of Kin](discern-next-of-kin.md)**: Read the target’s mind to learn about its family.
 - **[Doom](doom.md)**: One subject takes –2 on attack rolls, damage rolls, saves, and checks.
 - **[Ears of the City](ears-of-the-city.md)**: Gather information from echoes of local talk.
+- **[Endothermic Touch](endothermic-touch.md)**: Slow a reptile or dragon, staggering it
 - **[Endure Elements](endure-elements.md)**: Exist comfortably in hot or cold regions.
 - **[Entangle](entangle.md)**: Plants entangle everyone in 40-ft. radius.
 - **[Frostbite](frostbite.md)**: Target takes cold damage and is fatigued.
@@ -88,6 +89,7 @@ Shamans gain access to the following spells. Spells in plain text come from othe
 - **[Aid](aid.md)**: +1 on attack rolls and saves against fear, 1d8 temporary hp +1/level (max +10).
 - **[Alpha Instinct](alpha-instinct.md)**: Gain bonuses when you’re interacting with animals.
 - **[Alter Self](alter-self.md)**: Assume form of a Small or Medium humanoid.
+- **[Amplify Stench](amplify-stench.md)**: Make your stench stronger and more potent
 - **[Animal Messenger](animal-messenger.md)**: Sends a Tiny animal to a specific place.
 - **[Animal Purpose Training](animal-purpose-training.md)**: Animal gains a new general purpose.
 - **[Animate Dead, Lesser](animate-dead-lesser.md)**: Create one skeleton or zombie.
@@ -147,6 +149,7 @@ Shamans gain access to the following spells. Spells in plain text come from othe
 - **[Resist Energy](resist-energy.md)**: Ignores 10 (or more) points of damage/attack from specified energy type.
 - **[Restful Cloak](restful-cloak.md)**: Turn your cloak into a healing tent.
 - **[Restoration, Lesser](restoration-lesser.md)**: Dispels magical ability penalty or repairs 1d4 ability damage.
+- **[Scale Spikes](scale-spikes.md)**: Grow armor spikes from scales
 - **[Scare](scare.md)**: Frightens creature of less than 6 HD.
 - **[Sense Fear](sense-fear.md)**: Perceive nearby creatures that are experiencing fear.
 - **[Shield Companion](shield-companion.md)**: As shield other, but affecting your companion creature.
@@ -172,6 +175,7 @@ Shamans gain access to the following spells. Spells in plain text come from othe
 
 ## 3rd-Level Shaman Spells
 
+- **[Air Breathing](air-breathing.md)**: Let aquatic creatures breathe air
 - **[Anchored Step](anchored-step.md)**: Vines beneath your feet stabilize you but slow you down.
 - **[Animate Dead](animate-dead.md)**: Creates undead skeletons and zombies out of corpses.
 - **[Assume Appearance](assume-appearance.md)**: Use a creature’s corpse to adopt its form.
@@ -213,6 +217,7 @@ Shamans gain access to the following spells. Spells in plain text come from othe
 - **[Remove Blindness/Deafness](remove-blindness-deafness.md)**: Cures normal or magical blindness or deafness.
 - **[Remove Curse](remove-curse.md)**: Frees object or person from curse.
 - **[Revenant Armor](revenant-armor.md)**: Armor animates around its fallen wearer.
+- **[Scale Spikes, Greater](scale-spikes-greater.md)**: Scale spikes with up to +5 enhancement
 - **[Seed Spies](seed-spies.md)**: Wafting seeds act as spies, as insect spies.
 - **[Signs of the Land](signs-of-the-land.md)**: Learn up to three details about the surrounding territory.
 - **[Sleet Storm](sleet-storm.md)**: Hampers vision and movement.
@@ -228,6 +233,7 @@ Shamans gain access to the following spells. Spells in plain text come from othe
 - **[Thorny Entanglement](thorny-entanglement.md)**: As entangle, plus plants make ranged attacks.
 - Ward of the Season
 - **[Toxic Rupture](toxic-rupture.md)**: A poisonous creature is poisoned by its own venom.
+- **[Transfer Regeneration](transfer-regeneration.md)**: Give your regeneration to another creature
 - **[Wall of Mist](wall-of-mist.md)**: Wall of fog granting concealment and hindering movement.
 - **[Water Breathing](water-breathing.md)**: Subjects can breathe underwater.
 - **[Water Walk](water-walk.md)**: Subject treads on water as if solid.

@@ -11,6 +11,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Bestow Planar Infusion I](bestow-planar-infusion-i.md)**: Grant a target the effects of a planar infusion
 - **[Blend](blend.md)**: You draw upon your elven link to the wilderness to change the coloration of yourself and your equipment to.
 - **[Blend with Surroundings](blend-with-surroundings.md)**: Target looks like an object and hides easily while still.
+- **[Bouncy Body](bouncy-body.md)**: Become rubbery and bounce when falling
 - **[Bungle](bungle.md)**: Target takes a –20 penalty on its next attack roll or check.
 - **[Burning Sands](burning-sands.md)**: Burning sand slows and damages creatures.
 - **[Cloak of Secrets](cloak-of-secrets.md)**: Bubble disguises speech and spell components.
@@ -25,6 +26,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Early Judgment](early-judgment.md)**: Show a creature its fate: fascinated, confused, or shaken.
 - **[Ears of the City](ears-of-the-city.md)**: Gather information from echoes of local talk.
 - **[Echo](echo.md)**: Cause a sound to repeat itself.
+- **[Endothermic Touch](endothermic-touch.md)**: Slow a reptile or dragon, staggering it
 - **[Fabricate Disguise](fabricate-disguise.md)**: Create a disguise in an instant.
 - **[Forced Quiet](forced-quiet.md)**: Target cannot make loud noises.
 - **[Frostbite](frostbite.md)**: Target takes cold damage and is fatigued.
@@ -108,6 +110,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Compulsive Liar](compulsive-liar.md)**: Prevent target from speaking the truth.
 - **[Conditional Favor](conditional-favor.md)**: Provide another spell whose effects reverse if the target breaks a restriction.
 - **[Contact Entity I](contact-entity-i.md)**: Ask eldritch entities to find and converse with you.
+- **[Control Vermin](control-vermin.md)**: Control vermin as if they were animals
 - **[Corpse Lanterns](corpse-lanterns.md)**: Dancing lights that hinder Stealth.
 - **[Curse Terrain, Lesser](curse-terrain-lesser.md)**: Curse an area with three mild hazards.
 - **[Dark Whispers](dark-whispers.md)**: Whisper through the shadows.
@@ -125,6 +128,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Enemy’s Heart](enemy-s-heart.md)**: You cut out an enemy’s heart and consume it, absorbing that enemy’s power as your own.
 - **[Enshroud Thoughts](enshroud-thoughts.md)**: Ward yourself against thought detection and memory alteration.
 - **[Familiar Figment](familiar-figment.md)**: Illusory duplicate of your familiar gives a 50% miss chance.
+- **[Flesh Facade](flesh-facade.md)**: Make an undead look alive
 - **[Frost Fall](frost-fall.md)**: The area is covered in a chilling frost.
 - **[Fury of the Sun](fury-of-the-sun.md)**: You curse the target to suffer unbearable heat.
 - **[Garden of Peril](garden-of-peril.md)**: Poisonous mushrooms sicken nearby creatures.
@@ -135,6 +139,8 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Harmless Form](harmless-form.md)**: Turns a companion into an unobtrusive animal.
 - **[Haunting Mists](haunting-mists.md)**: Creatures are shaken and take Wis damage.
 - **[Hidden Presence](hidden-presence.md)**: Prevent creatures from noticing your presence.
+- **[Ice Slick](ice-slick.md)**: Coat the area in slippery ice and cold damage
+- **[Ironskin](ironskin.md)**: Harden your skin to iron
 - **[Lipstitch](lipstitch.md)**: Sew the target’s lips shut.
 - **[Mad Hallucination](mad-hallucination.md)**: Target takes penalties to mental actions.
 - **[Mark of Blood](mark-of-blood.md)**: Mark a creature struck by a bloodied weapon.
@@ -144,6 +150,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Minor Dream](minor-dream.md)**: School illusion (figment) [mind-affecting]; Level alchemist 2, bard 3, sorcerer/wizard 3, witch 2 Casting.
 - **[Miserable Pity](miserable-pity.md)**: Opponents cannot attack a pathetic creature.
 - **[Mount, Communal](mount-communal.md)**: As mount, but you may divide the duration among creatures touched.
+- **[Mud Buddy](mud-buddy.md)**: Create a small mud servant that can trip foes
 - **[Paranoia](paranoia.md)**: Target becomes hostile to all creatures.
 - **[Passing Fancy](passing-fancy.md)**: Target becomes obsessed with a topic you choose.
 - **[Pernicious Poison](pernicious-poison.md)**: Target takes a –4 penalty against poison.
@@ -156,6 +163,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Reinforce Armaments, Communal](reinforce-armaments-communal.md)**: As reinforce armaments, but you may divide the duration among objects touched.
 - **[Returning Weapon](returning-weapon.md)**: Grants a weapon the returning special weapon quality.
 - **[Rune of Rule](rune-of-rule.md)**: Paint a rune on an ally that grants a one-time boost.
+- **[Scale Spikes](scale-spikes.md)**: Grow armor spikes from scales
 - **[Secret Coffer](secret-coffer.md)**: Small secret chest.
 - **[Seducer’s Eyes](seducers-eyes.md)**: Charisma skill bonus against those who find you attractive.
 - **[Sense Fear](sense-fear.md)**: Perceive nearby creatures that are experiencing fear.
@@ -199,6 +207,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Apport Animal](apport-animal.md)**: Send or receive a Tiny or smaller animal via teleportation.
 - **[Ash Storm](ash-storm.md)**: Hamper vision and movement.
 - **[Assume Appearance](assume-appearance.md)**: Use a creature’s corpse to adopt its form.
+- **[Aura of Cannibalism](aura-of-cannibalism.md)**: Drain life from creatures of your own kind
 - **[Aversion](aversion.md)**: Cause the target to avoid an object or location.
 - **[Babble](babble.md)**: Target becomes nauseated and nearby creatures become fascinated.
 - **[Bleed for Your Master](bleed-for-your-master.md)**: Compel a companion to take damage for you.
@@ -236,6 +245,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Insect Scouts](insect-scouts.md)**: Vermin investigate a location and grant rerolls on related skill checks.
 - **[Iron Stake](iron-stake.md)**: Hurl a spike of cold iron at a foe.
 - **[Irradiate](irradiate.md)**: Flood an area with radiation.
+- **[Isolate](isolate.md)**: Separate your prey from support
 - **[Ki Leech](ki-leech.md)**: Add to your ki pool when you critically hit.
 - **[Loathsome Veil](loathsome-veil.md)**: Nauseates and/or sickens weak creatures.
 - **[Locate Weakness](locate-weakness.md)**: You roll damage twice when you roll damage for a critical hit and take the best damage.
@@ -257,6 +267,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Returning Weapon, Communal](returning-weapon-communal.md)**: As returning weapon, but you may divide the duration among weapons touched.
 - **[Revenant Armor](revenant-armor.md)**: Armor animates around its fallen wearer.
 - **[Sands of Time](sands-of-time.md)**: Target temporarily ages.
+- **[Scale Spikes, Greater](scale-spikes-greater.md)**: Scale spikes with up to +5 enhancement
 - **[Seed Spies](seed-spies.md)**: Wafting seeds act as spies, as insect spies.
 - **[Sharesister](sharesister.md)**: Take a negative level to boost an ally’s casting.
 - **[Shifting Shadows](shifting-shadows.md)**: Shadows make flanking and attacks of opportunity unreliable.
@@ -264,8 +275,12 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Slave to Sin](slave-to-sin.md)**: Exploit a creature’s sin to sicken and stagger it.
 - **[Spit Venom](spit-venom.md)**: Spit blinding black adder venom.
 - **[Strangling Hair](strangling-hair.md)**: Your hair animates and grapples.
+- **[Sundered Serpent Coil](sundered-serpent-coil.md)**: Summon a grappling serpent coil
+- **[Swarm of Fangs](swarm-of-fangs.md)**: Summon a swarm of flying teeth
 - **[Symbol of Exsanguination](symbol-of-exsanguination.md)**: Triggered rune causes nearby creatures to bleed.
 - **[Toxic Rupture](toxic-rupture.md)**: A poisonous creature is poisoned by its own venom.
+- **[Transfer Regeneration](transfer-regeneration.md)**: Give your regeneration to another creature
+- **[Trial of Fire and Acid](trial-of-fire-and-acid.md)**: Cover a creature in burning acid
 - **[Twisted Innards](twisted-innards.md)**: Crits and sneak attacks may fail.
 - **[Unadulterated Loathing](unadulterated-loathing.md)**: Target is compelled to avoid another creature.
 - **[Vermin Shape I](vermin-shape-i.md)**: Take the form and some of the powers of a Small or Medium vermin.
@@ -390,6 +405,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Slough](slough.md)**: Slough off a target’s skin.
 - **[Smug Narcissism](smug-narcissism.md)**: Target is distracted by its sense of self.
 - **[Soulswitch](soulswitch.md)**: Swap souls with your familiar.
+- **[Spellsteal](spellsteal.md)**: Strip a spell from a target and cast it yourself
 - **[Summoner Conduit](summoner-conduit.md)**: The target takes damage whenever its summoned creature does.
 - **[Sun’s Disdain, Mass](suns-disdain-mass.md)**: As *sun’s disdain*, on multiple creatures.
 - **[Swallow Poison](swallow-poison.md)**: Protect yourself from ingested poison, then spit it out in a cone.
@@ -417,6 +433,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Delectable Flesh](delectable-flesh.md)**: Creatures near the target become depraved and attack it to feast.
 - **[Discharge, Greater](discharge-greater.md)**: Discharge many objects or an area.
 - **[Dust Form](dust-form.md)**: You become an incorporeal creature of dust for a short period of time.
+- **[Dust Ward](dust-ward.md)**: Ward a magic item against other creatures learning to use or copy it
 - **[Eldritch Conduit, Greater](eldritch-conduit-greater.md)**: Use multiple enemies as origin points for area spells.
 - **[Epidemic](epidemic.md)**: Infect a subject with a highly contagious disease.
 - **[Fey Form II](fey-form-ii.md)**: Assume the form of a Tiny or Large fey creature.

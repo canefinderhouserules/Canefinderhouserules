@@ -1115,3 +1115,33 @@ A progenitor who chooses nature as her primal bond can create plants as a full-r
 This replaces nature bond.
 
 **Fey Shape (Su)**: A progenitor never gains the ability to use wild shape to transform into an elemental. At 6th level, a progenitor can use wild shape to change into a Small or Medium fey. When doing so, her wild shape functions as *fey form I*. At 8th level, a progenitor can use wild shape to change into a Tiny or Large fey. When she does so, her wild shape functions as *fey form II*. At 10th level, a progenitor can use wild shape to change into a Diminutive or Huge fey. When she does so, her wild shape functions as *fey form III*. At 14th level, when a progenitor uses wild shape to assume a fey form, her wild shape functions as *fey form IV*. This alters wild shape.
+
+## Ancient Guardian
+
+Ancient guardians revere nature and draw power from its divine energies, but also protect the customs, histories, and lore of their tribe and race. They act as ambassadors and protectors of the old ways, nurturing their tribe's growth and holding back civilization's corruptive influence.
+
+**Ancient Arms**: An ancient guardian can't wield weapons made primarily of metal. She is proficient with only the club, dart, quarterstaff, shortspear, sling, and spear. She is also proficient with all natural attacks (claw, bite, and so forth) of any form she assumes with wild shape. Using a prohibited weapon renders her unable to cast druid spells or use any of her druid supernatural or spell-like class abilities while wielding the weapon and for 24 hours after ceasing to wield it. This alters the druid's normal weapon proficiencies.
+
+**Community Bond (Ex)**: At 1st level, an ancient guardian must choose the domain nature bond and select from the following domains: Community, Healing, Knowledge, Protection, or Repose. This ability alters nature bond.
+
+**Patience of Nature (Ex)**: At 1st level, an ancient guardian does not gain wild empathy. Instead, at 2nd level, an ancient guardian adds Diplomacy, Perform (oratory), and Sense Motive to her list of class skills and gains an insight bonus equal to half her druid level on such checks. This ability replaces wild empathy.
+
+**Ancient Ways (Ex)**: At 3rd level, an ancient guardian increases any climb, fly, or swim speeds she has or gains via her wild shape ability by 10 feet. This ability replaces trackless step and woodland stride.
+
+**Dispel Hostility (Su)**: An ancient guardian doesn't gain spontaneous casting at 1st level. Instead, at 3rd level, she can channel stored spell energy into a spell capable of dispelling hostile thoughts and strong emotions. She can "lose" a prepared spell in order to cast *calm emotions*. Instead of the normal Will saving throw for that spell, the DC of a *calm emotions* spell cast with this ability is 10 + 1/2 the ancient guardian's druid level + her Wisdom modifier. This ability replaces spontaneous casting.
+
+**Unimpeachable (Ex)**: At 4th level, an ancient guardian gains a +4 bonus on saves against enchantments. This ability replaces resist nature's lure.
+
+**Undo Artifice (Sp)**: At 13th level, an ancient guardian gains the ability to reduce a nonliving item to its component raw materials. This acts as the spell *polymorph any object*, but works on magical or nonmagical nonliving objects. The duration is always permanent. Unlike *polymorph any object*, this ability can't be used to mimic the effects of other spells. Items subject to this effect receive a Fortitude saving throw to negate the effect (DC = 10 + 1/2 the ancient guardian's druid level + her Wisdom modifier). Magic items receive a circumstance bonus on this save equal to +1 for every 5,000 gp of the item's value. An ancient guardian can use undo artifice a number of times per day equal to her Wisdom modifier. This ability replaces a thousand faces.
+
+## Troll Fury
+
+Troll furies combine a druid's love of natural balance with a single-minded devotion to the welfare of the troll tribe. Trolls require a lot of prey to keep fed, and if their hunting grounds are upset by incursions of other monsters, civilized deforestation, or careless trolls who eat more than they need, a troll tribe can find itself without a sustainable food source.
+
+Troll furies take the long view on sustainability, protecting the trolls' territory from gluttonous trolls and outsiders alike, and even hunting down tribal enemies when necessary. Holding themselves aloof from the rest of troll society, troll furies command great respect and can rally a region's trolls quickly to deal with threats to their existence and the health of their environment.
+
+**Inspire Fervor (Ex)**: At 1st level, once per day as a standard action, a troll fury can chant over another troll within 30 feet, bolstering it against fear and improving its combat abilities. This works like the inspire courage bard ability, but affects only one troll and lasts 1 minute. The troll fury uses her druid level as her bard level to determine the effects of this ability. This ability replaces wild empathy.
+
+**Chosen Prey (Ex)**: At 4th level, a troll fury can select one creature type from the ranger's favored enemy list and gains a favored enemy bonus against that creature type with an effective ranger level equal to her druid level. This ability never grants the troll fury favored enemy bonuses against a second favored enemy creature type. A troll fury can change her favored enemy type once per week by performing a ritual that takes 1 hour to perform. If a troll fury already has a favored enemy from another class, the levels from the classes that grant favored enemies stack with this one to determine the favored enemy bonuses, and in this case she can gain other favored enemy creature types. This ability replaces resist nature's lure.
+
+**Troll Fury's Mark (Su)**: At 9th level, each time a troll fury or her animal companion damages a creature with a natural attack, the troll fury gains a +10 insight bonus on Survival checks to track that creature for 24 hours. The duration of this ability does not stack with itself. Each time the troll fury or her animal companion hits the target, this ability lasts for the next 24 hours. This ability replaces venom immunity.

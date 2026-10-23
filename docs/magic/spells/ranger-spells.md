@@ -91,9 +91,11 @@
 - **[Hold Animal](hold-animal.md)**: Paralyzes one animal for 1 round/level.
 - **[Hunter's Friend](hunters-friend.md)**: Share ranger class abilities with your companion.
 - **[Hunter’s Lore](hunters-lore.md)**: Take 20 on Knowledge checks to learn a foe’s weaknesses.
+- **[Ice Slick](ice-slick.md)**: Coat the area in slippery ice and cold damage
 - **[Improve Trap](improve-trap.md)**: When this spell is cast upon a trap, it improves one specific element of the trap chosen at the time of.
 - **[Insect Scouts](insect-scouts.md)**: Vermin investigate a location and grant rerolls on related skill checks.
 - **[Iron Stake](iron-stake.md)**: Hurl a spike of cold iron at a foe.
+- **[Ironskin](ironskin.md)**: Harden your skin to iron
 - **[Locate Weakness](locate-weakness.md)**: You roll damage twice when you roll damage for a critical hit and take the best damage.
 - **[Owl’s Wisdom](owls-wisdom.md)**: Subject gains +4 to Wis for 1 min./level.
 - **[Pack Empathy](pack-empathy.md)**: Create an empathic bond with allies.
@@ -107,6 +109,7 @@
 - **[Returning Weapon, Communal](returning-weapon-communal.md)**: As returning weapon, but you may divide the duration among weapons touched.
 - **[Ricochet Shot](ricochet-shot.md)**: Imbues a projectile weapon to give its ammunition the ability to ricochet.
 - **[Ropeweave](ropeweave.md)**: Create useful tools from a coil of rope.
+- **[Scale Spikes](scale-spikes.md)**: Grow armor spikes from scales
 - **[Scamper](scamper.md)**: Grant your animal companion astonishing agility.
 - **[Sea Steed](sea-steed.md)**: Your mount adapts to an aquatic environment.
 - **[Seed Spies](seed-spies.md)**: Wafting seeds act as spies, as insect spies.
@@ -167,6 +170,7 @@
 - **[Repugnant Taste](repugnant-taste.md)**: Creatures that bite or swallow the target become nauseated.
 - **[Resist Energy, Communal](resist-energy-communal.md)**: As resist energy, but you may divide the duration among creatures touched.
 - **[Rising Water](rising-water.md)**: Conjures a cylinder of calm, swimmable water.
+- **[Scale Spikes, Greater](scale-spikes-greater.md)**: Scale spikes with up to +5 enhancement
 - **[Second Wind](second-wind.md)**: Heal 2d8 + 1/level when below one-quarter hit points.
 - **[Share Shape](share-shape.md)**: Beast shape II, limited to your companion's or familiar's kind.
 - **[Signs of the Land](signs-of-the-land.md)**: Learn up to three details about the surrounding territory.
@@ -190,6 +194,7 @@
 - **[Commune with Nature](commune-with-nature.md)**: Learn about terrain for 1 mile/level.
 - **[Commune with Plane](commune-with-plane.md)**: Learn about local planar terrain
 - **[Companion Transposition](companion-transposition.md)**: Swap places with your animal companion, familiar, or spirit animal via teleportation.
+- **[Control Vermin](control-vermin.md)**: Control vermin as if they were animals
 - **[Cure Serious Wounds](cure-serious-wounds.md)**: Cures 3d8 damage + 1/level (max +15).
 - **[Darkvision, Communal](darkvision-communal.md)**: As darkvision, but you may divide the duration among creatures touched.
 - **[Entice Fey, Lesser](entice-fey-lesser.md)**: Entice service from a fey of 6 Hit Dice or fewer.

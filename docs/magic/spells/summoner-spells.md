@@ -49,6 +49,7 @@ New summoner spells from *Ultimate Magic*. Spells from other books will be added
 ## 3rd-Level Summoner Spells
 
 - **[Agonize](agonize.md)**: Pain encourages an outsider to obey you.
+- **[Air Breathing](air-breathing.md)**: Let aquatic creatures breathe air
 - **[Allied Cloak](allied-cloak.md)**: Animate your cloak to shield you and aid your actions.
 - **[Apport Animal](apport-animal.md)**: Send or receive a Tiny or smaller animal via teleportation.
 - **[Assume Appearance](assume-appearance.md)**: Use a creature’s corpse to adopt its form.
@@ -82,6 +83,8 @@ New summoner spells from *Ultimate Magic*. Spells from other books will be added
 - **[Selective Invisibility](selective-invisibility.md)**: Invisible, except to one chosen creature you may attack.
 - **[Shared Sacrifice](shared-sacrifice.md)**: Redirect half your damage to a target.
 - **[Spider Climb, Communal](spider-climb-communal.md)**: As spider climb, but you may divide the duration among creatures touched.
+- **[Sundered Serpent Coil](sundered-serpent-coil.md)**: Summon a grappling serpent coil
+- **[Swarm of Fangs](swarm-of-fangs.md)**: Summon a swarm of flying teeth
 - **[Trade Items](trade-items.md)**: Swap a focus object with a target object.
 - **[Urban Step](urban-step.md)**: Step into one doorway and out another.
 - **[Vomit Twin](vomit-twin.md)**: Upon casting this spell, you vomit forth a disgusting ooze copy of yourself into a single adjacent square.

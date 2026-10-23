@@ -7,6 +7,7 @@ New alchemist spells from *Ultimate Magic* and *Ultimate Combat*. Spells from ot
 - **[Abjuring Step](abjuring-step.md)**: You can move slowly and safely and still cast spells, until you move quickly, make an attack, or cast a harmful spell.
 - **[Anticipate Peril](anticipate-peril.md)**: Target gains a bonus on one initiative check.
 - **[Blend](blend.md)**: You draw upon your elven link to the wilderness to change the coloration of yourself and your equipment to.
+- **[Bouncy Body](bouncy-body.md)**: Become rubbery and bounce when falling
 - **[Coin Shot](coin-shot.md)**: Turns coins into bullets.
 - **[Fabricate Disguise](fabricate-disguise.md)**: Create a disguise in an instant.
 - **[Firebelly](firebelly.md)**: Fire resistance 5 and a small fire breath.
@@ -49,9 +50,11 @@ New alchemist spells from *Ultimate Magic* and *Ultimate Combat*. Spells from ot
 - **[Diminished Detection](diminished-detection.md)**: Detection spells have half their normal range against you.
 - **[Duelist’s Alacrity](duelists-alacrity.md)**: Faster, with fancy footwork.
 - **[Enshroud Thoughts](enshroud-thoughts.md)**: Ward yourself against thought detection and memory alteration.
+- **[Flesh Facade](flesh-facade.md)**: Make an undead look alive
 - **[Ghostly Disguise](ghostly-disguise.md)**: You look like a ghost of yourself.
 - **[Grasping Vine](grasping-vine.md)**: A vine from your body manipulates objects within 20 ft.
 - **[Invigorating Poison](invigorating-poison.md)**: Poison ability damage becomes a bonus instead.
+- **[Ironskin](ironskin.md)**: Harden your skin to iron
 - **[Kinetic Reverberation](kinetic-reverberation.md)**: Channels the force of an enemy’s attack back into its weapon.
 - **[Languid Venom](languid-venom.md)**: Delay a poison’s onset and hide its presence.
 - **[Merge with Familiar](merge-with-familiar.md)**: Merge the body of your familiar or spirit animal into your own.
@@ -59,6 +62,7 @@ New alchemist spells from *Ultimate Magic* and *Ultimate Combat*. Spells from ot
 - **[Poison Exchange](poison-exchange.md)**: Swallow one poison and regurgitate another.
 - **[Pouncing Fury](pouncing-fury.md)**: Make a full attack with your claws after a charge.
 - **[Quick Change](quick-change.md)**: Use change shape as a swift action and surprise foes.
+- **[Scale Spikes](scale-spikes.md)**: Grow armor spikes from scales
 - **[Shadow Bomb Admixture](shadow-bomb-admixture.md)**: Empowers bombs you throw to cover the target with a shadowy substance that grants it concealment and limits its vision.
 - **[Shaper’s Touch](shapers-touch.md)**: Reshape an object as though it were clay.
 - **[Shifted Steps](shifted-steps.md)**: Make a target sound as if elsewhere.
@@ -77,6 +81,7 @@ New alchemist spells from *Ultimate Magic* and *Ultimate Combat*. Spells from ot
 
 - **[Absorb Toxicity](absorb-toxicity.md)**: You become immune to diseases and toxins, absorb one, and then spread it to others.
 - **[Age Resistance, Lesser](age-resistance-lesser.md)**: Ignore penalties from middle age.
+- **[Air Breathing](air-breathing.md)**: Let aquatic creatures breathe air
 - **[Animal Aspect, Greater](animal-aspect-greater.md)**: As animal aspect, but you gain two animal qualities.
 - **[Assume Appearance](assume-appearance.md)**: Use a creature’s corpse to adopt its form.
 - **[Battle Trance](battle-trance.md)**: 3, witch 4 Casting Time 1 standard action Components V, S Range personal Target you Duration 1 minute/level.
@@ -133,6 +138,7 @@ New alchemist spells from *Ultimate Magic* and *Ultimate Combat*. Spells from ot
 - **[Monstrous Physique II](monstrous-physique-ii.md)**: Take the form and some of the powers of a Tiny or Large monstrous humanoid.
 - **[Mutagenic Touch](mutagenic-touch.md)**: You can pass a weaker version of your mutagen to another creature.
 - **[Purify Body](purify-body.md)**: Heals, grants temporary hit points, and removes pain, ability damage, and conditions.
+- **[Scale Spikes, Greater](scale-spikes-greater.md)**: Scale spikes with up to +5 enhancement
 - **[Scorching Ash Form](scorching-ash-form.md)**: This spell functions like gaseous form, except the target becomes a visible swirl of hot ash and smoke.
 - **[Tongues, Communal](tongues-communal.md)**: As tongues, but you may divide the duration among creatures touched.
 - **[Touch of Slime](touch-of-slime.md)**: Touch infests a target with green slime.

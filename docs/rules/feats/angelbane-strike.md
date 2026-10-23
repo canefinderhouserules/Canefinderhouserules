@@ -1,0 +1,9 @@
+# Angelbane Strike
+
+You channel the power of your evil patron through your weapon to punish the righteous.
+
+**Prerequisites**: Channel Smite, divine caster level 5th, channel negative energy class feature, evil patron deity.
+
+**Benefit**: When you use Channel Smite against a living creature with a good alignment, you treat all 1s on the channel smite damage dice as 2s.
+
+If your target is either a good outsider or a divine caster who serves a good deity, you are considered 2 levels higher when determining how many channel energy damage dice you roll when using Channel Smite.

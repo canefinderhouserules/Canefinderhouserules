@@ -73,6 +73,7 @@ The magus class spell list appears on the [Magus](../../characters/classes/magus
 - **[Groundswell](groundswell.md)**: School transmutation [earth]; Level cleric 2, druid 2, magus 2, ranger 2 Casting Time 1 standard action.
 - **[Gusting Sphere](gusting-sphere.md)**: School evocation [air]; Level druid 2, magus 2, sorcerer/wizard 2 Casting Time 1 standard action Components V.
 - **[Huntmaster’s Spear](huntmasters-spear.md)**: Spear becomes a +1 weapon against a chosen favored-enemy type and can be discharged for a powerful attack.
+- **[Ice Slick](ice-slick.md)**: Coat the area in slippery ice and cold damage
 - **[Imbue with Elemental Might](imbue-with-elemental-might.md)**: School evocation [see text]; Level cleric 2, magus 2, sorcerer/wizard 2 Components V, S Duration 24 hours or.
 - **[Light Prison](light-prison.md)**: Cage of light damages and blinds those who leave it.
 - **[Mount, Communal](mount-communal.md)**: As mount, but you may divide the duration among creatures touched.
@@ -123,7 +124,9 @@ The magus class spell list appears on the [Magus](../../characters/classes/magus
 - **[Selective Invisibility](selective-invisibility.md)**: Invisible, except to one chosen creature you may attack.
 - **[Shining Cord](shining-cord.md)**: Silver cord links you and a foe; blasts the one who moves away.
 - **[Sickening Strikes](sickening-strikes.md)**: You are imbued with disease, and any creature you strike with a melee attack must make a Fortitude save or be.
+- **[Sundered Serpent Coil](sundered-serpent-coil.md)**: Summon a grappling serpent coil
 - **[Tactical Adaptation](tactical-adaptation.md)**: Gain a combat feat temporarily.
+- **[Trial of Fire and Acid](trial-of-fire-and-acid.md)**: Cover a creature in burning acid
 - **[Twisted Innards](twisted-innards.md)**: Crits and sneak attacks may fail.
 - **[Undead Anatomy I](undead-anatomy-i.md)**: Take the form and some of the powers of a Small or Medium undead.
 - **[Urban Step](urban-step.md)**: Step into one doorway and out another.

@@ -111,6 +111,7 @@
 - **[Aid](aid.md)**: +1 on attack rolls and saves against fear, 1d8 temporary hp +1/level (max +10).
 - **[Alchemical Tinkering](alchemical-tinkering.md)**: You transform one alchemical item or firearm into another alchemical item or firearm of the same or lesser.
 - **[Align Weapon](align-weapon.md)**: Weapon becomes good, evil, lawful, or chaotic.
+- **[Amplify Stench](amplify-stench.md)**: Make your stench stronger and more potent
 - **[Ancestral Regression](ancestral-regression.md)**: School transmutation (polymorph); Level alchemist 2, antipaladin 3, cleric 2, sorcerer/wizard 3, witch 2.
 - **[Angelic Aspect, Lesser](angelic-aspect-lesser.md)**: Gain some physical characteristics of an angelic being.
 - **[Ant Haul, Communal](ant-haul-communal.md)**: As ant haul, but you may divide the duration among creatures touched.
@@ -121,6 +122,7 @@
 - **[Blessing of Luck and Resolve](blessing-of-luck-and-resolve.md)**: A favored blessing of halfling clerics, this spell grants its target a +2 morale bonus on saving throws.
 - **[Blinding Ray](blinding-ray.md)**: School evocation [good, light]; Level cleric 2, inquisitor 3, paladin 2 Casting Time 1 standard action.
 - **[Blood Blaze](blood-blaze.md)**: School transmutation [fire]; Level alchemist 2, antipaladin 1, cleric 2, magus 2, sorcerer/wizard 2, witch 2.
+- **[Blood in the Water](blood-in-the-water.md)**: Whip sharks and frenzy-prone creatures into a frenzy
 - **[Bloodbath](bloodbath.md)**: Cause yourself and enemies to bleed.
 - **[Boneshaker](boneshaker.md)**: Momentarily control a living or undead creature’s skeleton.
 - **[Brittle Portal](brittle-portal.md)**: Reduce the hardness of a surface.
@@ -163,9 +165,11 @@
 - **[Inflict Moderate Wounds](inflict-moderate-wounds.md)**: Touch attack, 2d8 damage + 1/level (max +10).
 - **[Instrument of Agony](instrument-of-agony.md)**: Weapon exudes divine fury, granting a bonus on Intimidate checks.
 - **[Invigorating Poison](invigorating-poison.md)**: Poison ability damage becomes a bonus instead.
+- **[Ironskin](ironskin.md)**: Harden your skin to iron
 - **[Know Peerage](know-peerage.md)**: Target uses your Knowledge (nobility) ranks.
 - **[Life Channel](life-channel.md)**: Component V, S Range touch Target one touched creature with negative energy affinity Duration 1 minute/level.
 - **[Light Prison](light-prison.md)**: Cage of light damages and blinds those who leave it.
+- **[Magic Boulder](magic-boulder.md)**: Enchant boulders for throwing
 - **[Magic Siege Engine](magic-siege-engine.md)**: Siege engine gains +1 on targeting and damage rolls.
 - **[Make Whole](make-whole.md)**: Repairs an object.
 - **[Martyr’s Bargain](martyrs-bargain.md)**: Delay spell damage, then take it maximized.
@@ -225,8 +229,10 @@
 
 - **[Accept Affliction](accept-affliction.md)**: Transfer an affliction or condition from a creature to yourself.
 - **[Agonizing Rebuke](agonizing-rebuke.md)**: Component V, S Range close (25 ft.
+- **[Air Breathing](air-breathing.md)**: Let aquatic creatures breathe air
 - **[Animate Dead](animate-dead.md)**: Creates undead skeletons and zombies.
 - **[Appearance of Life](appearance-of-life.md)**: Undead appear to be alive.
+- **[Aura of Cannibalism](aura-of-cannibalism.md)**: Drain life from creatures of your own kind
 - **[Beacon of Luck](beacon-of-luck.md)**: Allies may roll saves twice.
 - **[Bestow Curse](bestow-curse.md)**: –6 to an ability score; –4 on attack rolls, saves, and checks; or 50% chance of losing each action.
 - **[Bestow Insight](bestow-insight.md)**: Component V, S Range touch Target one creature touched Duration 1 minute/level When casting this spell.
@@ -242,6 +248,7 @@
 - **[Contagious Zeal](contagious-zeal.md)**: Grant bonuses and temporary hit points that spread from creature to creature.
 - **[Contest of Skill](contest-of-skill.md)**: Target’s critical threats fail to confirm.
 - **[Continual Flame](continual-flame.md)**: Makes a permanent, heatless light.
+- **[Control Vermin](control-vermin.md)**: Control vermin as if they were animals
 - **[Create Food and Water](create-food-and-water.md)**: Feeds three humans (or one horse)/level.
 - **[Curative Distillation](curative-distillation.md)**: Heals and grants the benefits of a consumed healing item.
 - **[Cure Serious Wounds](cure-serious-wounds.md)**: Cures 3d8 damage + 1/level (max +15).
@@ -303,7 +310,9 @@
 - **[Stone Shape](stone-shape.md)**: Sculpts stone into any shape.
 - **[Summon Monster III](summon-monster-iii.md)**: Summons extraplanar creature to fight for you.
 - **[Symbol of Exsanguination](symbol-of-exsanguination.md)**: Triggered rune causes nearby creatures to bleed.
+- **[Transfer Regeneration](transfer-regeneration.md)**: Give your regeneration to another creature
 - **[Trial by Fire](trial-by-fire.md)**: Divine fire punishes targets whose alignment differs from your deity’s.
+- **[Trial of Fire and Acid](trial-of-fire-and-acid.md)**: Cover a creature in burning acid
 - **[Voluminous Vocabulary](voluminous-vocabulary.md)**: Grant ability to speak, read, and write one or more languages for 8 hours.
 - **[Water Breathing](water-breathing.md)**: Subjects can breathe underwater.
 - **[Water Walk](water-walk.md)**: Subject treads on water as if solid.
@@ -341,6 +350,7 @@
 - **[Forceful Strike](forceful-strike.md)**: Melee hit deals extra force damage and bull rush.
 - **[Freedom of Movement](freedom-of-movement.md)**: Subject moves normally despite impediments to movement.
 - **[Giant Vermin](giant-vermin.md)**: Turns centipedes, scorpions, or spiders into giant vermin.
+- **[Gift of the Deep](gift-of-the-deep.md)**: Grant sahuagin mutant features
 - **[Gilded Whispers](gilded-whispers.md)**: Use a coin as a scrying target.
 - **[Glimpse of Truth](glimpse-of-truth.md)**: Gain *true seeing* for 1 round.
 - **[Healing Flames](healing-flames.md)**: Holy flames heal good creatures and burn evil ones.
@@ -368,6 +378,7 @@
 - **[Remove Radioactivity](remove-radioactivity.md)**: Cure radiation effects.
 - **[Repel Vermin](repel-vermin.md)**: Insects, spiders, and other vermin stay 10 ft. away.
 - **[Replenish Ki](replenish-ki.md)**: Regain ki points.
+- **[Reptilian Mark](reptilian-mark.md)**: Curse a creature with a glowing mark that slowly turns it into a lizard
 - **[Restoration](restoration.md)**: Restores level and ability score drains.
 - **[Revenant Armor](revenant-armor.md)**: Armor animates around its fallen wearer.
 - **[Rigor Mortis](rigor-mortis.md)**: Painfully swell a target’s joints.
@@ -444,6 +455,7 @@
 - **[Spawn Ward](spawn-ward.md)**: School necromancy; Level cleric 5, inquisitor 5 Casting Time 1 standard action Components V, S Range touch.
 - **[Spell Immunity, Communal](spell-immunity-communal.md)**: As spell immunity, but you may divide the duration among creatures touched.
 - **[Spell Resistance](spell-resistance.md)**: Subject gains SR 12 + level.
+- **[Spellsteal](spellsteal.md)**: Strip a spell from a target and cast it yourself
 - **[Summon Monster V](summon-monster-v.md)**: Summons extraplanar creature to fight for you.
 - **[Sun’s Disdain, Mass](suns-disdain-mass.md)**: As *sun’s disdain*, on multiple creatures.
 - **[Symbol of Pain](symbol-of-pain.md)**: Triggered rune wracks nearby creatures with pain.
@@ -482,6 +494,7 @@
 - **[Dispel Magic, Greater](dispel-magic-greater.md)**: As *dispel magic*, but with multiple targets.
 - **[Dream Reality](dream-reality.md)**: The target perceives the world as a dream and forgets it.
 - **[Dust Form](dust-form.md)**: You become an incorporeal creature of dust for a short period of time.
+- **[Dust Ward](dust-ward.md)**: Ward a magic item against other creatures learning to use or copy it
 - **[Eaglesoul](eaglesoul.md)**: Combat bonuses against evil creatures, especially evil outsiders.
 - **[Eagle’s Splendor, Mass](eagles-splendor-mass.md)**: As *eagle’s splendor*, affects 1 subject/level.
 - **[Find the Path](find-the-path.md)**: Shows most direct way to a location.

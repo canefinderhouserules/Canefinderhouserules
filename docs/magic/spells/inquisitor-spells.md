@@ -97,6 +97,7 @@ New inquisitor spells from *Ultimate Magic*. Spells from other books will be add
 - **[Enshroud Thoughts](enshroud-thoughts.md)**: Ward yourself against thought detection and memory alteration.
 - **[Escaping Ward](escaping-ward.md)**: This ward grants you extra maneuverability when you avoid attacks against larger foes.
 - **[Fairness](fairness.md)**: Affected creatures must trade fairly.
+- **[Flesh Facade](flesh-facade.md)**: Make an undead look alive
 - **[Flickering Lights](flickering-lights.md)**: Create an area of inconsistent lighting.
 - **[Garrulous Grin](garrulous-grin.md)**: Target seems guilty and takes –4 on Bluff and Diplomacy.
 - **[Ghost Whip](ghost-whip.md)**: Create a ghost touch whip that passes through objects.
@@ -176,6 +177,7 @@ New inquisitor spells from *Ultimate Magic*. Spells from other books will be add
 - **[Improve Trap](improve-trap.md)**: When this spell is cast upon a trap, it improves one specific element of the trap chosen at the time of.
 - **[Insect Scouts](insect-scouts.md)**: Vermin investigate a location and grant rerolls on related skill checks.
 - **[Instant Fake](instant-fake.md)**: Provide a short-term replica of an object.
+- **[Isolate](isolate.md)**: Separate your prey from support
 - **[Light of Purity](light-of-purity.md)**: Illuminate undead and weaken their channel resistance.
 - **[Litany of Eloquence](litany-of-eloquence.md)**: Fascinates a single creature for 1 round.
 - **[Litany of Entanglement](litany-of-entanglement.md)**: Entangles a creature for 1 round.
@@ -238,6 +240,7 @@ New inquisitor spells from *Ultimate Magic*. Spells from other books will be add
 - **[Remove Radioactivity](remove-radioactivity.md)**: Cure radiation effects.
 - **[Replay Tracks](replay-tracks.md)**: Reconstruct past events from a set of tracks.
 - **[Reprobation](reprobation.md)**: Marked target is shunned by your religion.
+- **[Reptilian Mark](reptilian-mark.md)**: Curse a creature with a glowing mark that slowly turns it into a lizard
 - **[Seek Shelter](seek-shelter.md)**: Weak creatures flee to safety in an orderly fashion.
 - **[Sessile Spirit](sessile-spirit.md)**: Cause a spirit inhabiting a creature or an object to go dormant.
 - **[Shadow Barbs](shadow-barbs.md)**: Shadowy vicious spiked chain that radiates darkness.

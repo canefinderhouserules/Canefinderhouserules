@@ -38,6 +38,7 @@
 - **[Devouring Visage](devouring-visage.md)**: Hideous face grants Intimidate bonus and a bite.
 - **[Dream Feast](dream-feast.md)**: A dream feast sates the sleeper.
 - **[Echo](echo.md)**: Cause a sound to repeat itself.
+- **[Endothermic Touch](endothermic-touch.md)**: Slow a reptile or dragon, staggering it
 - **[Endure Elements](endure-elements.md)**: Exist comfortably in hot or cold regions.
 - **[Entangle](entangle.md)**: Plants entangle everyone in 40-ft. radius.
 - **[Faerie Fire](faerie-fire.md)**: Outlines subjects with light, canceling *blur*, concealment, and the like.
@@ -86,6 +87,7 @@
 
 - **[Aboleth’s Lung](aboleth-s-lung.md)**: The targets are able to breathe water, freely.
 - **[Alpha Instinct](alpha-instinct.md)**: Gain bonuses when you’re interacting with animals.
+- **[Amplify Stench](amplify-stench.md)**: Make your stench stronger and more potent
 - **[Animal Aspect](animal-aspect.md)**: You gain some of the beneficial qualities of an animal.
 - **[Animal Messenger](animal-messenger.md)**: Sends a Tiny animal to a specific place.
 - **[Animal Trance](animal-trance.md)**: Fascinates 2d6 HD of animals.
@@ -101,6 +103,7 @@
 - **[Cat’s Grace](cats-grace.md)**: Subject gains +4 to Dex for 1 min./level.
 - **[Certain Grip](certain-grip.md)**: You gain a +4 competence bonus on Acrobatics and Climb checks and to CMD.
 - **[Chill Metal](chill-metal.md)**: Cold metal damages those who touch it.
+- **[Control Vermin](control-vermin.md)**: Control vermin as if they were animals
 - **[Curse Terrain, Lesser](curse-terrain-lesser.md)**: Curse an area with three mild hazards.
 - **[Delay Disease](delay-disease.md)**: The target becomes temporarily immune to disease.
 - **[Delay Poison](delay-poison.md)**: Stops poison from harming subject for 1 hour/level.
@@ -126,8 +129,12 @@
 - **[Heat Metal](heat-metal.md)**: Makes metal so hot it damages those who touch it.
 - **[Hold Animal](hold-animal.md)**: Paralyzes one animal for 1 round/level.
 - **[Huntmaster’s Spear](huntmasters-spear.md)**: Spear becomes a +1 weapon against a chosen favored-enemy type and can be discharged for a powerful attack.
+- **[Ice Slick](ice-slick.md)**: Coat the area in slippery ice and cold damage
 - **[Insect Scouts](insect-scouts.md)**: Vermin investigate a location and grant rerolls on related skill checks.
 - **[Invigorating Poison](invigorating-poison.md)**: Poison ability damage becomes a bonus instead.
+- **[Ironskin](ironskin.md)**: Harden your skin to iron
+- **[Magic Boulder](magic-boulder.md)**: Enchant boulders for throwing
+- **[Mud Buddy](mud-buddy.md)**: Create a small mud servant that can trip foes
 - **[Owl’s Wisdom](owls-wisdom.md)**: Subject gains +4 to Wis for 1 min./level.
 - **[Poison Exchange](poison-exchange.md)**: Swallow one poison and regurgitate another.
 - **[Pouncing Fury](pouncing-fury.md)**: Make a full attack with your claws after a charge.
@@ -137,6 +144,7 @@
 - **[Restful Cloak](restful-cloak.md)**: Turn your cloak into a healing tent.
 - **[Restoration, Lesser](restoration-lesser.md)**: Dispels magical ability penalty or repairs 1d4 ability damage.
 - **[Savage Maw](savage-maw.md)**: Your teeth extend and sharpen, transforming your mouth into a maw of razor-sharp fangs.
+- **[Scale Spikes](scale-spikes.md)**: Grow armor spikes from scales
 - **[Scamper](scamper.md)**: Grant your animal companion astonishing agility.
 - **[Sea Steed](sea-steed.md)**: Your mount adapts to an aquatic environment.
 - **[Seed Spies](seed-spies.md)**: Wafting seeds act as spies, as insect spies.
@@ -166,6 +174,7 @@
 ## 3rd-Level Druid Spells
 
 - **[Accept Affliction](accept-affliction.md)**: Transfer an affliction or condition from a creature to yourself.
+- **[Air Breathing](air-breathing.md)**: Let aquatic creatures breathe air
 - **[Animal Aspect, Greater](animal-aspect-greater.md)**: As animal aspect, but you gain two animal qualities.
 - **[Apport Animal](apport-animal.md)**: Send or receive a Tiny or smaller animal via teleportation.
 - **[Aversion](aversion.md)**: Cause the target to avoid an object or location.
@@ -215,6 +224,7 @@
 - **[Remove Disease](remove-disease.md)**: Cures all diseases affecting subject.
 - **[Resinous Skin](resinous-skin.md)**: You gain DR 5/piercing and +4 to CMD against disarm attempts.
 - **[Resist Energy, Communal](resist-energy-communal.md)**: As resist energy, but you may divide the duration among creatures touched.
+- **[Scale Spikes, Greater](scale-spikes-greater.md)**: Scale spikes with up to +5 enhancement
 - **[Share Language, Communal](share-language-communal.md)**: As share language, but you may divide the duration among creatures touched.
 - **[Signs of the Land](signs-of-the-land.md)**: Learn up to three details about the surrounding territory.
 - **[Sky Swim](sky-swim.md)**: Swim through the air.
@@ -226,9 +236,11 @@
 - **[Spike Growth](spike-growth.md)**: Creatures in area take 1d4 damage, may be slowed*.*
 - **[Stone Shape](stone-shape.md)**: Sculpts stone into any shape.
 - **[Summon Nature’s Ally III](summon-natures-ally-iii.md)**: Summons creature to fight.
+- **[Swarm of Fangs](swarm-of-fangs.md)**: Summon a swarm of flying teeth
 - **[Tail Current](tail-current.md)**: Create a current in water to enhance or impede swimming.
 - **[Tailwind](tailwind.md)**: Create a current of wind to enhance or impede flight.
 - **[Toxic Rupture](toxic-rupture.md)**: A poisonous creature is poisoned by its own venom.
+- **[Transfer Regeneration](transfer-regeneration.md)**: Give your regeneration to another creature
 - **[Vengeful Comets](vengeful-comets.md)**: Orbiting comets protect from fire and retaliate against casters.
 - **[Ward of the Season](ward-of-the-season.md)**: This spell harnesses the power of the seasons to protect the target and grant a number of bonuses.
 - **[Water Breathing](water-breathing.md)**: Subjects can breathe underwater.
@@ -317,6 +329,7 @@
 - **[Half-blood Extraction](half-blood-extraction.md)**: You transform the target half-orc into a full-blooded orc.
 - **[Hallow](hallow.md)**: Designates location as holy.
 - **[Hasten Judgment](hasten-judgment.md)**: Quicken a soul's journey to judgment, hampering resurrection or weakening undead foes
+- **[Hungry Earth](hungry-earth.md)**: The ground grapples and buries creatures
 - **[Hunter’s Blessing](hunters-blessing.md)**: Group gains favored enemy and favored terrain bonuses.
 - **[Insect Plague](insect-plague.md)**: Wasp swarms attack creatures.
 - **[Invoke Primal Power](invoke-primal-power.md)**: Enhance a Large-or-larger wild shape with primal traits.

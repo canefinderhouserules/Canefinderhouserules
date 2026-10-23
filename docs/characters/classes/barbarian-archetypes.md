@@ -783,3 +783,19 @@ Savage technologists exhort tribal peoples to rise up against the depredations o
 **Primal Magnetism (Ex)**: At 3rd level, a savage technologist adds her Strength modifier on Diplomacy checks when interacting with tribal cultures. She can expend 2 rounds of rage (even if not raging) to add a bonus equal to 1/2 her barbarian level on a Diplomacy check. This ability replaces trap sense.
 
 **Crack Shot (Ex)**: At 5th level, a savage technologist adds her Dexterity modifier to her damage rolls when making ranged attacks with a firearm while raging. This ability replaces improved uncanny dodge.
+
+## Pack Rager
+
+Barbarian rages can be a thing of savage beauty, exhibiting a lethal grace. While such uncontrolled displays of carnage often disregard group tactics, there are those barbarians whose rages inspire and spur on their allies during the ferocious dance of death.
+
+**Bonus Feat**: At 2nd level and every 4 levels thereafter, the pack rager can take a bonus teamwork feat. This teamwork feat must also be a combat feat. This ability replaces the rage powers gained at 2nd, 6th, 10th, 14th, and 18th level.
+
+**Raging Tactician**: At 7th level, while a pack rager is raging, she grants a single teamwork feat she knows to all allies within 30 feet who can see and hear her. She chooses the feat at the start of the rage, and cannot change it during the rage. An ally who moves more than 30 feet away from the raging pack rager loses access to the feat, but regains it again each time he moves back within 30 feet of the raging pack rager. Allies do not need to meet the prerequisites of these teamwork feats.
+
+At 13th level, the pack rager chooses two teamwork feats when she enters a rage, and grants her allies the use of both of those feats when they are within 30 feet of her.
+
+At 16th level, the pack rager grants these teamwork feats as long as her allies are within 60 feet of her.
+
+At 19th level, the pack rager chooses three teamwork feats when she enters a rage, and grants her allies the use of all three feats when they are within 60 feet of her.
+
+This ability replaces the damage reduction class feature.

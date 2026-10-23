@@ -65,6 +65,7 @@
 - **[Bestow Planar Infusion I](bestow-planar-infusion-i.md)**: Grant a target the effects of a planar infusion
 - **[Blend](blend.md)**: You draw upon your elven link to the wilderness to change the coloration of yourself and your equipment to.
 - **[Blend with Surroundings](blend-with-surroundings.md)**: Target looks like an object and hides easily while still.
+- **[Bouncy Body](bouncy-body.md)**: Become rubbery and bounce when falling
 - **[Burning Sands](burning-sands.md)**: Burning sand slows and damages creatures.
 - **[Cloak of Secrets](cloak-of-secrets.md)**: Bubble disguises speech and spell components.
 - **[Coin Shot](coin-shot.md)**: Turns coins into bullets.
@@ -77,6 +78,7 @@
 - **[Detect Radiation](detect-radiation.md)**: See radioactive auras.
 - **[Devouring Visage](devouring-visage.md)**: Hideous face grants Intimidate bonus and a bite.
 - **[Ears of the City](ears-of-the-city.md)**: Gather information from echoes of local talk.
+- **[Endothermic Touch](endothermic-touch.md)**: Slow a reptile or dragon, staggering it
 - **[Endure Elements](endure-elements.md)**: Exist comfortably in hot or cold regions.
 - **[Fabricate Bullets](fabricate-bullets.md)**
 - **[Fabricate Disguise](fabricate-disguise.md)**: Create a disguise in an instant.
@@ -203,6 +205,7 @@
 
 - **[Aboleth’s Lung](aboleth-s-lung.md)**: The targets are able to breathe water, freely.
 - **[Adoration](adoration.md)**: You gain a bonus on Diplomacy checks and performance combat checks.
+- **[Amplify Stench](amplify-stench.md)**: Make your stench stronger and more potent
 - **[Angelic Aspect, Lesser](angelic-aspect-lesser.md)**: Gain some physical characteristics of an angelic being.
 - **[Animal Aspect](animal-aspect.md)**: You gain some of the beneficial qualities of an animal.
 - **[Anticipate Thoughts](anticipate-thoughts.md)**: Gain increasing bonuses to AC and on attack rolls and damage rolls against one creature.
@@ -214,6 +217,7 @@
 - **[Bestow Weapon Proficiency](bestow-weapon-proficiency.md)**: Grants a creature proficiency in a single weapon for short period of time.
 - **[Billowing Skirt](billowing-skirt.md)**: A skirt or gown slows your fall.
 - **[Blood Blaze](blood-blaze.md)**: School transmutation [fire]; Level alchemist 2, antipaladin 1, cleric 2, magus 2, sorcerer/wizard 2, witch 2.
+- **[Blood in the Water](blood-in-the-water.md)**: Whip sharks and frenzy-prone creatures into a frenzy
 - **[Bloodbath](bloodbath.md)**: Cause yourself and enemies to bleed.
 - **[Body Double](body-double.md)**: Two creatures look alike; attacks may hit the wrong one.
 - **[Boneshaker](boneshaker.md)**: Momentarily control a living or undead creature’s skeleton.
@@ -245,6 +249,7 @@
 - **[Escaping Ward](escaping-ward.md)**: This ward grants you extra maneuverability when you avoid attacks against larger foes.
 - **[Familiar Figment](familiar-figment.md)**: Illusory duplicate of your familiar gives a 50% miss chance.
 - **[Fiery Shuriken](fiery-shuriken.md)**
+- **[Flesh Facade](flesh-facade.md)**: Make an undead look alive
 - **[Fleshcurdle](fleshcurdle.md)**: Mutate limbs to hamper attacks, defense, or movement.
 - **[Flickering Lights](flickering-lights.md)**: Create an area of inconsistent lighting.
 - **[Frost Fall](frost-fall.md)**: The area is covered in a chilling frost.
@@ -258,6 +263,7 @@
 - **[Haunting Reminder](haunting-reminder.md)**: Coerced target becomes shaken if it betrays you.
 - **[Hidden Knowledge](hidden-knowledge.md)**: Store knowledge in a tattoo, forgetting it temporarily.
 - **[Hidden Presence](hidden-presence.md)**: Prevent creatures from noticing your presence.
+- **[Ice Slick](ice-slick.md)**: Coat the area in slippery ice and cold damage
 - **[Imbue with Elemental Might](imbue-with-elemental-might.md)**: School evocation [see text]; Level cleric 2, magus 2, sorcerer/wizard 2 Components V, S Duration 24 hours or.
 - **[Jitterbugs](jitterbugs.md)**: School illusion (figment) [mind-affecting]; Level bard 1, sorcerer/wizard 2 Casting Time 1 standard action.
 - **[Kinetic Reverberation](kinetic-reverberation.md)**: Channels the force of an enemy’s attack back into its weapon.
@@ -269,6 +275,7 @@
 - **[Mark of Blood](mark-of-blood.md)**: Mark a creature struck by a bloodied weapon.
 - **[Merge with Familiar](merge-with-familiar.md)**: Merge the body of your familiar or spirit animal into your own.
 - **[Mount, Communal](mount-communal.md)**: As mount, but you may divide the duration among creatures touched.
+- **[Mud Buddy](mud-buddy.md)**: Create a small mud servant that can trip foes
 - **[Obscure Object](obscure-object.md)**: Masks object against scrying.
 - **[Obscured Script](obscured-script.md)**: Text becomes hard to read and deciphers falsely.
 - **[Paranoia](paranoia.md)**: Target becomes hostile to all creatures.
@@ -299,6 +306,7 @@
 - **[Revealing Light](revealing-light.md)**: Object sheds shifting light that foils Stealth bonuses.
 - **[Ricochet Shot](ricochet-shot.md)**: Imbues a projectile weapon to give its ammunition the ability to ricochet.
 - **[Rune of Rule](rune-of-rule.md)**: Paint a rune on an ally that grants a one-time boost.
+- **[Scale Spikes](scale-spikes.md)**: Grow armor spikes from scales
 - **[Searching Shadows](searching-shadows.md)**: Shadows search an area for a specified creature or object.
 - **[Secret Coffer](secret-coffer.md)**: Small secret chest.
 - **[Secret Speech](secret-speech.md)**: Send hidden messages within normal speech.
@@ -401,12 +409,14 @@
 
 - **[Ablative Barrier](ablative-barrier.md)**: Surrounds the target with layers of force.
 - **[Accursed Glare](accursed-glare.md)**: Target rolls attacks and saves twice and takes the lower result.
+- **[Air Breathing](air-breathing.md)**: Let aquatic creatures breathe air
 - **[Allied Cloak](allied-cloak.md)**: Animate your cloak to shield you and aid your actions.
 - **[Ancestral Regression](ancestral-regression.md)**: School transmutation (polymorph); Level alchemist 2, antipaladin 3, cleric 2, sorcerer/wizard 3, witch 2.
 - **[Appearance of Life](appearance-of-life.md)**: Undead appear to be alive.
 - **[Apport Animal](apport-animal.md)**: Send or receive a Tiny or smaller animal via teleportation.
 - **[Assume Appearance](assume-appearance.md)**: Use a creature’s corpse to adopt its form.
 - **[Audiovisual Hallucination](audiovisual-hallucination.md)**: Create a phantasm with auditory and visual effects.
+- **[Aura of Cannibalism](aura-of-cannibalism.md)**: Drain life from creatures of your own kind
 - **[Aversion](aversion.md)**: Cause the target to avoid an object or location.
 - **[Babble](babble.md)**: Target becomes nauseated and nearby creatures become fascinated.
 - **[Blade Snare](blade-snare.md)**: Snare a weapon or limb that strikes you.
@@ -420,6 +430,7 @@
 - **[Conjure Carriage](conjure-carriage.md)**: Create a fine carriage.
 - **[Contact Entity II](contact-entity-ii.md)**: Ask more powerful eldritch entities to find and converse with you.
 - **[Contagious Zeal](contagious-zeal.md)**: Grant bonuses and temporary hit points that spread from creature to creature.
+- **[Control Vermin](control-vermin.md)**: Control vermin as if they were animals
 - **[Darkvision, Communal](darkvision-communal.md)**: As darkvision, but you may divide the duration among creatures touched.
 - **[Deflect Blame](deflect-blame.md)**: Blame someone else for your action.
 - **[Detect Anxieties](detect-anxieties.md)**: Learn what makes creatures anxious.
@@ -452,6 +463,7 @@
 - **[Insect Scouts](insect-scouts.md)**: Vermin investigate a location and grant rerolls on related skill checks.
 - **[Iron Stake](iron-stake.md)**: Hurl a spike of cold iron at a foe.
 - **[Irradiate](irradiate.md)**: Flood an area with radiation.
+- **[Isolate](isolate.md)**: Separate your prey from support
 - **[Leshy Swarm](leshy-swarm.md)**: Summon a swarm of Tiny leshys.
 - **[Lightning Conductor](lightning-conductor.md)**: Absorb electricity damage and discharge it as a touch or ray.
 - **[Locate Weakness](locate-weakness.md)**: You roll damage twice when you roll damage for a critical hit and take the best damage.
@@ -485,6 +497,7 @@
 - **[Resinous Skin](resinous-skin.md)**: You gain DR 5/piercing and +4 to CMD against disarm attempts.
 - **[Resist Energy, Communal](resist-energy-communal.md)**: As resist energy, but you may divide the duration among creatures touched.
 - **[Returning Weapon, Communal](returning-weapon-communal.md)**: As returning weapon, but you may divide the duration among weapons touched.
+- **[Scale Spikes, Greater](scale-spikes-greater.md)**: Scale spikes with up to +5 enhancement
 - **[Seed Spies](seed-spies.md)**: Wafting seeds act as spies, as insect spies.
 - **[Selective Alarm](selective-alarm.md)**: As *alarm*, but only against selected creatures.
 - **[Selective Invisibility](selective-invisibility.md)**: Invisible, except to one chosen creature you may attack.
@@ -504,7 +517,9 @@
 
 - **[Arcane Sight](arcane-sight.md)**: Magical auras become visible to you.
 - **[Clairaudience/Clairvoyance](clairaudience-clairvoyance.md)**: Hear or see at a distance for 1 min./level.
+- **[Sundered Serpent Coil](sundered-serpent-coil.md)**: Summon a grappling serpent coil
 - **[Sunstalker](sunstalker.md)**: Invisible while in sunlight.
+- **[Swarm of Fangs](swarm-of-fangs.md)**: Summon a swarm of flying teeth
 - **[Symbol of Exsanguination](symbol-of-exsanguination.md)**: Triggered rune causes nearby creatures to bleed.
 - **[Tongues](tongues.md)**: Speak and understand any language.
 
@@ -524,6 +539,7 @@
 - **[Tiny Hut](tiny-hut.md)**: Creates shelter for 10 creatures.
 - **[Touch Injection](touch-injection.md)**: You can deliver an infusion, elixir, poison, or potion as a touch attack.
 - **[Toxic Rupture](toxic-rupture.md)**: A poisonous creature is poisoned by its own venom.
+- **[Trial of Fire and Acid](trial-of-fire-and-acid.md)**: Cover a creature in burning acid
 - **[Twisted Innards](twisted-innards.md)**: Crits and sneak attacks may fail.
 - **[Urban Step](urban-step.md)**: Step into one doorway and out another.
 - **[Vengeful Comets](vengeful-comets.md)**: Orbiting comets protect from fire and retaliate against casters.
@@ -755,11 +771,13 @@
 - **[Flesh Puppet Horde](flesh-puppet-horde.md)**: Control multiple zombies in human guise.
 - **[Geniekind](geniekind.md)**: Gain genie-themed appearance and powers.
 - **[Ghoul Army](ghoul-army.md)**: Ghouls and a ghast rise to fight for you and explode.
+- **[Gift of the Deep](gift-of-the-deep.md)**: Grant sahuagin mutant features
 - **[Glimpse of Truth](glimpse-of-truth.md)**: Gain *true seeing* for 1 round.
 - **[Grease, Greater](grease-greater.md)**: As grease, but covers much more.
 - **[Half-blood Extraction](half-blood-extraction.md)**: You transform the target half-orc into a full-blooded orc.
 - **[Hammer of Mending](hammer-of-mending.md)**: Repair objects and constructs in a burst.
 - **[Hostile Juxtaposition](hostile-juxtaposition.md)**: You create a dimensional link with a targeted creature, and switch spots with it.
+- **[Hungry Earth](hungry-earth.md)**: The ground grapples and buries creatures
 - **[Impossible Angles](impossible-angles.md)**: Distort geometry in an area.
 - **[Lighten Object, Mass](lighten-object-mass.md)**: Halve the weight of several objects.
 - **[Locate Gate](locate-gate.md)**: Find a nearby magical portal.
@@ -796,6 +814,7 @@
 - **[Slough](slough.md)**: Slough off a target’s skin.
 - **[Soulswitch](soulswitch.md)**: Swap souls with your familiar.
 - **[Spell Absorption](spell-absorption.md)**: Counterspell a low-level spell to regain a spell.
+- **[Spellsteal](spellsteal.md)**: Strip a spell from a target and cast it yourself
 - **[Stoneskin, Communal](stoneskin-communal.md)**
 - **[Straitjacket](straitjacket.md)**: Restrain a creature’s arms and grant it a second saving throw against certain magic.
 - **[Summon Monster V](summon-monster-v.md)**: Summons extraplanar creature to fight for you.
@@ -896,6 +915,7 @@
 - **[Dispel Magic, Greater](dispel-magic-greater.md)**: As *dispel magic*, but with multiple targets.
 - **[Dream Reality](dream-reality.md)**: The target perceives the world as a dream and forgets it.
 - **[Dream Scan](dream-scan.md)**: Read a dreaming creature’s thoughts.
+- **[Dust Ward](dust-ward.md)**: Ward a magic item against other creatures learning to use or copy it
 - **[Eldritch Conduit, Greater](eldritch-conduit-greater.md)**: Use multiple enemies as origin points for area spells.
 - **[Energy Siege Shot, Greater](energy-siege-shot-greater.md)**: As energy siege shot, but you can affect any size siege engine.
 - **[Ether Step](ether-step.md)**: Step briefly into the Ethereal Plane to avoid attacks and dangers

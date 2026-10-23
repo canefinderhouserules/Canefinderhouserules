@@ -170,6 +170,7 @@
 - **[Enthrall](enthrall.md)**: Captivates all within 100 ft. + 10 ft./level.
 - **[Escaping Ward](escaping-ward.md)**: This ward grants you extra maneuverability when you avoid attacks against larger foes.
 - **[False Belief](false-belief.md)**: Temporarily plant a false memory.
+- **[Flesh Facade](flesh-facade.md)**: Make an undead look alive
 - **[Flickering Lights](flickering-lights.md)**: Create an area of inconsistent lighting.
 - **[Fox’s Cunning](foxs-cunning.md)**: Subject gains +4 to Int for 1 min./level.
 - **[Garrulous Grin](garrulous-grin.md)**: Target seems guilty and takes –4 on Bluff and Diplomacy.
@@ -283,6 +284,7 @@
 - **[Instant Fake](instant-fake.md)**: Provide a short-term replica of an object.
 - **[Inveigle Person](inveigle-person.md)**: The target treats all creatures as friendly.
 - **[Invisibility Sphere](invisibility-sphere.md)**: Makes everyone within 10 feet invisible.
+- **[Isolate](isolate.md)**: Separate your prey from support
 - **[Leshy Swarm](leshy-swarm.md)**: Summon a swarm of Tiny leshys.
 - **[Mad Sultan’s Melody](mad-sultans-melody.md)**: Bizarre cacophony fascinates eldritch creatures.
 - **[Magic Aura, Greater](magic-aura-greater.md)**: As *magic aura*, but also affects creatures and allows more options.

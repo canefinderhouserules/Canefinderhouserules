@@ -57,6 +57,7 @@ New antipaladin spells from *Ultimate Magic*. Spells from other books will be ad
 - **[Ghoul Hunger](ghoul-hunger.md)**: Target is compelled to eat a helpless or dead humanoid.
 - **[Improve Trap](improve-trap.md)**: When this spell is cast upon a trap, it improves one specific element of the trap chosen at the time of.
 - **[Inflict Pain](inflict-pain.md)**: Target takes a –4 penalty on attack rolls, skill checks, and ability checks.
+- **[Ironskin](ironskin.md)**: Harden your skin to iron
 - **[Litany of Defense](litany-of-defense.md)**: Doubles armor’s enhancement bonus.
 - **[Litany of Eloquence](litany-of-eloquence.md)**: Fascinates a single creature for 1 round.
 - **[Litany of Entanglement](litany-of-entanglement.md)**: Entangles a creature for 1 round.
@@ -96,6 +97,7 @@ New antipaladin spells from *Ultimate Magic*. Spells from other books will be ad
 - **[Flesh Puppet Horde](flesh-puppet-horde.md)**: Control multiple zombies in human guise.
 - **[Hunger for Flesh](hunger-for-flesh.md)**: Give a creature a bite attack and a hunger for its own kind’s flesh.
 - **[Illusion of Treachery](illusion-of-treachery.md)**: Make it seem like another is also responsible for your attacks.
+- **[Isolate](isolate.md)**: Separate your prey from support
 - **[Litany of Escape](litany-of-escape.md)**: Teleports a friend out of a grapple.
 - **[Litany of Sight](litany-of-sight.md)**: You can see invisible creatures and objects within 30 feet of you.
 - **[Revenant Armor](revenant-armor.md)**: Armor animates around its fallen wearer.
@@ -136,6 +138,7 @@ New antipaladin spells from *Ultimate Magic*. Spells from other books will be ad
 - **[Nondetection, Communal](nondetection-communal.md)**
 - **[Overwhelming Poison](overwhelming-poison.md)**: Make a poison more difficult to resist.
 - **[Profane Nimbus](profane-nimbus.md)**: Unholy energy damages good creatures that attack you and protects you from good attacks.
+- **[Reptilian Mark](reptilian-mark.md)**: Curse a creature with a glowing mark that slowly turns it into a lizard
 - **[Speak with Soul](speak-with-soul.md)**: Hold an extended conversation with a soul
 - **[Torpid Reanimation](torpid-reanimation.md)**: *Animate dead* when a specific trigger condition occurs.
 - **[Transplant Visage](transplant-visage.md)**: Wear a stolen face for +10 on Disguise.

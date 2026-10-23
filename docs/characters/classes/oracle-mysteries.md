@@ -561,3 +561,33 @@ Oracles of the rifts mystery have become marked in some way by an incursion into
 **Wings of Terror (Su)**: You can manifest a pair of enormous, batlike demon wings that grant you a fly speed of 60 feet with average maneuverability and a +4 bonus on Intimidate checks. At 10th level, your speed increases to 90 feet, your maneuverability increases to good, and the bonus increases to +8 on Intimidate checks. You can use these wings for 1 minute per day per oracle level. This duration does not need to be consecutive, but it must be spent in 1-minute increments. You must be at least 7th level to select this revelation.
 
 **Final Revelation**: At 20th level, you gain the ability to open rifts between planes. This allows you to use *gate* as a spell-like ability once per day. If you use this ability to call creatures, you still need to provide 10,000 gp in offerings to secure the creature's aid.
+
+## Apocalypse Mystery
+
+**Class Skills**: An oracle with the apocalypse mystery adds Bluff, Disguise, Survival, and Stealth to her list of class skills.
+
+**Bonus Spells**: *Deathwatch* (2nd), *summon swarm* (4th), *explosive runes* (6th), *ice storm* (8th), *insect plague* (10th), *circle of death* (12th), *vision* (14th), *incendiary cloud* (16th), *meteor swarm* (18th).
+
+**Revelations**: An oracle with the apocalypse mystery can choose from any of the following revelations.
+
+**Defy Elements (Ex)**: Choose one energy type (acid, cold, fire, electricity, or sonic). You gain resistance 5 to the selected energy type. At 5th level and every 5 levels thereafter, you can choose an additional energy type for which to gain resistance 5, or you can choose a previously chosen energy type and increase that resistance by 5 (to a maximum resistance of 20 for any one energy type).
+
+**Destructive Roots (Su)**: You can root yourself to your current spot and cause the world around you to fall apart. As a standard action, you can cause the ground in a 5-foot-radius burst centered on you to crumble and rupture, becoming difficult terrain. As a move action on subsequent rounds, you can continue to concentrate on this area as though concentrating on a spell; doing so increases the radius of difficult terrain by 5 feet (maximum 30-foot radius). You immediately cease concentrating if you move from the square you started in when you activated this ability. Difficult terrain created by this ability remains for 24 hours before returning to its original state. You must be at least 7th level to select this revelation.
+
+**Doomsayer (Su)**: As a standard action, you can utter a dire prophecy that strikes fear in your enemies and causes them to become shaken. To be affected, an enemy must be within 30 feet and able to hear you. This effect persists as long as the enemy is within 30 feet and you use a move action each round to continue your doomsaying. This ability cannot cause a creature to become frightened or panicked, even if the target was already shaken from another effect. This is a mind-affecting fear effect that relies on audible components. At 15th level, continuing your doomsaying each round is a swift action instead. You must be at least 7th level to select this revelation.
+
+**Dust to Dust (Su)**: Once per day as a standard action, you can cause the weapons around you to shatter in their wielders' hands. When you use this ability, attempt a single sunder combat maneuver, using your caster level in place of your base attack bonus and your Charisma modifier in place of Strength. Every creature except you in a 10-foot radius that is wielding a manufactured weapon is targeted by the same attempt. You deal an amount of damage to each weapon affected equal to 1d4 × your Charisma modifier (minimum 1d4). At 11th level, this damage increases to 1d6 × your Charisma modifier (minimum 1d6). At 10th level, you can use this ability twice per day.
+
+**Erosion Touch (Su)**: As the nature mystery revelation.
+
+**Near Death (Su)**: As the bones mystery revelation.
+
+**Pass the Torch (Su)**: Once per day as a swift action, you can channel the energy of the apocalypse into your body, causing you to ignite. You take 1d4 points of fire damage when you activate this ability and again at the beginning of your turn until you end the effect. Any creature that begins its turn adjacent to you takes 1d6 points of fire damage as the fire spreads, plus 1 additional point of fire damage for each previous round you have had this ability active. For example, adjacent creatures take 1d6+5 points of damage if you have had this ability active for 5 rounds. You can use this ability for a number of rounds equal to 1/2 your oracle level. You can end this ability as a free action. At 5th level and every 5 levels thereafter, you can use this ability one additional time per day.
+
+**Power of the Fallen (Sp)**: You can touch a dying creature and channel its life energy into another living creature. This acts as *death knell*, except you can choose any ally (including yourself) within 30 feet to gain the benefit of this ability, and you can apply the +2 enhancement bonus to either Strength, Dexterity, or Constitution. You can use this ability a number of times per day equal to your Charisma modifier. You must be at least 5th level to select this revelation.
+
+**Spell Blast (Su)**: As a swift action whenever you confirm a critical hit against an opponent with a spell that requires an attack roll, you can immediately attempt to bull rush your opponent in any direction. You don't provoke an attack of opportunity for this bull rush attempt.
+
+**Unstoppable Overrun (Ex)**: You can attempt overrun combat maneuvers against opponents that are up to two size categories larger than you. At 5th level, you gain Improved Overrun as a bonus feat. At 10th level, you gain Greater Overrun as a bonus feat. You don't need to meet the prerequisites to gain these feats.
+
+**Final Revelation**: Upon reaching 20th level, you become a herald of the apocalypse and wield the awesome power to fulfill such prophecy. Anytime you successfully cast a spell that bestows 1 or more negative levels on a target, the effect bestows 1d4 additional negative levels. Whenever you confirm a critical hit against a creature (including with a melee, ranged, or spell attack), as a swift action you can cause the target of your attack to be affected as by the *bestow curse* spell, except the target doesn't receive a Will save to negate the effects and spell resistance does not apply to this ability.
