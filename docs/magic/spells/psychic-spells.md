@@ -64,6 +64,7 @@ Psychics gain access to the following spells. Spells without a link come from ot
 - **[Confusion, Lesser](confusion-lesser.md)**: One creature is *confused* for 1 round.
 - **[Coward's Cowl](cowards-cowl.md)**: Defensive bonuses while avoiding enemies.
 - **[Cultural Adaptation](cultural-adaptation.md)**: Adapt to fit the local culture.
+- **[Dancing Darkness](dancing-darkness.md)**: up to four spheres of moving darkness
 - **[Decompose Corpse](decompose-corpse.md)**: Turn a corpse into a clean skeleton.
 - **[Decrepit Disguise](decrepit-disguise.md)**: Make an object seem worthless.
 - **[Deja Vu](deja-vu.md)**: Make a creature repeat its actions.
@@ -140,6 +141,7 @@ Psychics gain access to the following spells. Spells without a link come from ot
 - See Alignment
 - **[Reveal Secrets](reveal-secrets.md)**: Learn whether a target has a secret
 - **[Rune Trace](rune-trace.md)**: Learn a rune’s age, language, and purpose.
+- **[Shadow Trap](shadow-trap.md)**: pins the target's shadow so it is entangled
 - **[Shadow Weapon](shadow-weapon.md)**: Create a quasi-real masterwork weapon.
 - **[Share Language](share-language.md)**: Subject understands chosen language.
 - **[Shield](shield.md)**: Invisible disc gives +4 to AC, blocks *magic missiles.*
@@ -181,6 +183,7 @@ Psychics gain access to the following spells. Spells without a link come from ot
 - Amplify Stench
 - Ancestral Regression
 - Animal Aspect
+- **[Ancestral Revision](ancestral-revision.md)**: a wayang appears as a gnome-like version of herself
 - **[Animal Messenger](animal-messenger.md)**: Sends a Tiny animal to a specific place.
 - **[Animal Trance](animal-trance.md)**: Fascinates 2d6 HD of animals.
 - **[Anonymous Interaction](anonymous-interaction.md)**
@@ -242,6 +245,7 @@ Psychics gain access to the following spells. Spells without a link come from ot
 - **[Extreme Flexibility](extreme-flexibility.md)**: Gain a bonus to AC, on Escape Artist checks, and when grappling.
 - **[False Belief](false-belief.md)**: Temporarily plant a false memory.
 - **[False Life](false-life.md)**: Gain 1d10 temporary hp + 1/level (max +10).
+- **[Fear the Sun](fear-the-sun.md)**: targets gain light blindness
 - **[Feast of Ashes](feast-of-ashes.md)**: A target starves with an insatiable hunger.
 - **[Find Traps](find-traps.md)**: Notice traps as a rogue does.
 - Fleshy Facade
@@ -461,6 +465,8 @@ Psychics gain access to the following spells. Spells without a link come from ot
 - Minor Dream
 - Nixie’s Lure
 - **[Mirage](mirage.md)**: Create illusory terrain.
+- **[Motes of Dusk and Dawn](motes-of-dusk-and-dawn.md)**: up to four motes that shed light or darkness
+- **[Mydriatic Spontaneity](mydriatic-spontaneity.md)**: flashing light and dark nauseate and impair a target's sight
 - **[Node of Blasting](node-of-blasting.md)**: Place a trap on an object to mentally damage a creature that touches it.
 - **[Nondetection](nondetection.md)**: Hides subject from divination, scrying.
 - **[Object Possession, Lesser](object-possession-lesser.md)**: Project your soul into an object, animating it.
@@ -489,6 +495,7 @@ Psychics gain access to the following spells. Spells without a link come from ot
 - **[Selective Alarm](selective-alarm.md)**: As *alarm*, but only against selected creatures.
 - **[Sensory Amplifier](sensory-amplifier.md)**: Creatures nearby sense more keenly but take extra damage.
 - **[Shadow Enchantment](shadow-enchantment.md)**: Quasi-real enchantment of 2nd level or lower.
+- **[Shadowmind](shadowmind.md)**: targets perceive the light level as one step darker
 - **[Shamefully Overdressed](shamefully-overdressed.md)**: Force target to remove equipment.
 - **[Share Senses](share-senses.md)**: See/hear/smell what your familiar is.
 - **[Shared Training](shared-training.md)**: grant a teamwork feat to allies
@@ -645,6 +652,7 @@ Psychics gain access to the following spells. Spells without a link come from ot
 - **[Sending](sending.md)**: Delivers short message anywhere, instantly.
 - **[Shadow Step](shadow-step.md)**: Teleport from one shadow to another.
 - Shadowy Haven
+- **[Shadowform](shadowform.md)**: foes that fail to disbelieve deal only one-fifth damage
 - **[Shield of Fortification, Greater](shield-of-fortification-greater.md)**
 - **[Shout](shout.md)**: Deafens all within cone and deals 5d6 sonic damage.
 - **[Simulacrum, Lesser](simulacrum-lesser.md)**: Creates a double of a weak creature.
@@ -670,6 +678,7 @@ Psychics gain access to the following spells. Spells without a link come from ot
 - **[Trace Teleport](trace-teleport.md)**: Determine where and when teleportation occurred, and glimpse the origin or destination.
 - **[Triggered Suggestion](triggered-suggestion.md)**
 - **[True Form](true-form.md)**: Removes polymorph effects.
+- **[Umbral Infusion](umbral-infusion.md)**: a mindless undead gains the advanced template but may go out of control
 - **[Unbearable Brightness](unbearable-brightness.md)**
 - Vomit Twin
 - **[Vicarious View](vicarious-view.md)**: Plant a scrying sensor that you can use to spy on a creature, object, or location.
@@ -702,6 +711,7 @@ Psychics gain access to the following spells. Spells without a link come from ot
 - **[Contact Entity III](contact-entity-iii.md)**: Ask very powerful eldritch entities to find and converse with you, or they may reply telepathically.
 - **[Contact Other Plane](contact-other-plane.md)**: Lets you ask question of extraplanar entity.
 - **[Contagious Suggestion](contagious-suggestion.md)**: a suggestion that spreads from target to target
+- **[Darkvault](darkvault.md)**: wards an area so light cannot change its illumination
 - **[Debilitating Pain, Mass](debilitating-pain-mass.md)**: As debilitating pain, but affects multiple creatures.
 - **[Deceptive Redundancy](deceptive-redundancy.md)**: Fool dispellers and hide a spell’s aura.
 - **[Denounce](denounce.md)**: Worsens attitudes toward target creature.
@@ -865,6 +875,7 @@ Psychics gain access to the following spells. Spells without a link come from ot
 - **[Mind Thrust VI](mind-thrust-vi.md)**: As mind thrust IV, but maximum 20d8 points of damage and target is exhausted and stunned for 1 round.
 - **[Mislead](mislead.md)**: Turns you invisible and creates illusory double.
 - Named Bullet, Greater
+- **[Mydriatic Spontaneity, Mass](mydriatic-spontaneity-mass.md)**: mydriatic spontaneity affecting multiple creatures
 - **[Night Terrors](night-terrors.md)**: Disturb a creature’s rest with dark dreams.
 - **[Object Possession, Greater](object-possession-greater.md)**: As possess object, but the object is more powerful and you can possess a construct.
 - **[Owl’s Wisdom, Mass](owls-wisdom-mass.md)**: As *owl’s wisdom*, affects 1 subject/level.
@@ -966,6 +977,7 @@ Psychics gain access to the following spells. Spells without a link come from ot
 - **[Temporary Resurrection](temporary-resurrection.md)**: Bring a creature to life for 24 hours, after which it dies again.
 - Terraform
 - **[Tower of Iron Will III](tower-of-iron-will-iii.md)**: As tower of iron will I, but lasts 3 rounds.
+- **[Umbral Strike](umbral-strike.md)**: a bolt of dark energy deals cold and negative damage and blinds
 - **[Unshakable Zeal](unshakable-zeal.md)**: Grant benefits on future attempts after failed checks, and protect against fear and emotion effects.
 - **[Vision](vision.md)**: As *legend lore*, but quicker.
 - Walk Through Space

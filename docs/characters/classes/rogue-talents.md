@@ -295,3 +295,19 @@ Rogues of at least 10th level can select these advanced talents in place of a ta
 ## Divine Anthology Rogue Talents
 
 **Expert Cipher (Ex)**: A rogue with this ability can attempt a Linguistics check to decipher a single page of text as a full-round action instead of taking 1 minute as normal. In addition, when the rogue attempts a Use Magic Device check to cast a spell from a scroll, she is treated as though she had the minimum score in the appropriate ability score to cast that spell. Finally, the rogue can choose to add her Intelligence modifier to her Use Magic Device skill checks instead of her Charisma modifier.
+
+## Advanced Shadow Rogue Talents
+
+The following advanced rogue talents are available to rogues, shadowdancers, and unchained rogues. They complement the common shadow talents listed in the table above (such as cloying shades, gloom magic, obscuring blow and umbral gear).
+
+**Aligned Disguise (Sp)**: When a rogue with this talent uses the *disguise self* spell-like ability, she can also alter her alignment aura to deceive spells that discern alignment (such as *detect evil*) for the duration of the *disguise self* effect. She can choose to detect as any specific alignment, or to detect as no alignment at all. This ability does not protect against spells or effects that cause harm based on alignment. The rogue must have *disguise self* as a spell-like ability before choosing this talent.
+
+**Blinding Strike**: A rogue who selects this talent gains Blinding Critical as a bonus feat, even if she doesn't meet the prerequisites. The rogue must have the obscuring blow rogue talent and be at least 15th level before choosing this talent.
+
+**Dance of Disorienting Shadows (Ex)**: A rogue with this talent can attempt a Perform (dance) check in place of a combat maneuver check when attempting a reposition combat maneuver.
+
+**Improved Shadow's Chill\* (Su)**: When a rogue with this talent hits a creature with a melee weapon that deals sneak attack damage, the sneak attack damage is cold damage. Normal weapon damage is unaffected. The rogue must have cold resistance from a racial trait and the shadow's chill rogue talent before choosing this talent.
+
+**Reflexive Shadow Shield (Su)**: Once per day as an immediate action, the rogue can gain an amount of cold resistance or electricity resistance equal to half the rogue's level. This resistance lasts for 1 round. If the rogue has the shadowy resistance racial trait, the cold or electricity resistance stacks with the resistance that trait grants; otherwise, the energy resistance does not stack with any cold or electricity resistance the rogue has. The rogue must have the resiliency rogue talent before choosing this talent.
+
+**See in Darkness (Su)**: The rogue gains the see in darkness ability. A rogue must have darkvision before choosing this talent.

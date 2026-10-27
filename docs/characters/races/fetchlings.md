@@ -58,14 +58,60 @@ The following racial traits may be selected instead of existing fetchling racial
 
 **World Walker**: Fetchlings who have spent most of their lives on the Material Plane can become more acclimated to their new environments. Instead of gaining a +2 racial bonus on Knowledge (planes) checks, these fetchlings gain a +1 racial bonus on Knowledge (nature) and Knowledge (local) checks. This racial trait modifies the skilled racial trait.
 
+**Bound to the Material Plane**: Some fetchlings are from families that have fearfully avoided the Plane of Shadow, living on the Material Plane for generations. As a result, these fetchlings are closely tied to the Material Plane. Fetchlings with this racial trait count as outsiders with the native subtype and humanoids with the human subtype for any effect related to race, including feat prerequisites and spells that affect humanoids. They can pass for human without using the Disguise skill. This racial trait replaces the +2 racial bonus on Knowledge (planes) checks from the skilled racial trait, and alters the native outsider racial trait.
+
+**Boundary Walker**: Fetchlings of great trade cities that have a shadowy twin on the Plane of Shadow deftly navigate between the worlds of shadow and light. A fetchling with this racial trait gains spell resistance equal to 5 + his character level against spells and spell-like abilities with the light or shadow descriptors, as well as spells and spell-like abilities of the illusion (shadow) subschool. This racial trait replaces the shadow blending and shadowy resistance racial traits.
+
+**Deep Shadow Explorer**: Fetchlings who widely explore the Plane of Shadow learn to confront fearsome things best left undescribed. Fetchlings with this racial trait gain a +2 racial bonus on all saves against fear effects. This racial trait replaces the skilled racial trait.
+
+**Hermit of the Gloom**: Some fetchlings learn how to deflect unwanted attention. Fetchlings with this racial trait can use *sanctuary* once per day as a spell-like ability. When such a fetchling reaches 9th level in any combination of classes, he gains *nondetection* (self only) as a spell-like ability usable once per day, and at 13th level, he gains *veil* (self only) usable once per day. A fetchling's caster level is equal to his total Hit Dice. This racial trait modifies the fetchling's spell-like abilities racial trait.
+
+**Umbral Escort**: Some fetchlings descend from talented planar travelers who dwelled in the dark places between worlds and could conduct others across the planes. A fetchling with this racial trait loses the *disguise self* spell-like ability, but his *shadow walk* and *plane shift* spell-like abilities need not affect himself only. This racial trait replaces the low-light vision racial trait and modifies the spell-like abilities racial trait.
+
+**Whispers from Shadow**: Fetchlings from trade cities are known for wheeling and dealing from the city's shadows. A fetchling with this racial trait gains a +4 racial bonus on Bluff checks when he tells a lie and wants to convince an opponent that what he is saying is true. This racial trait replaces the skilled racial trait.
+
 ## Favored Class Options
 
 See the [Advanced Race Guide section of the racial favored class options](../favored-class-bonuses/racial-favored-class-options.md#fetchlings-advanced-race-guide).
+
+Fetchlings also have the following options.
+
+**Alchemist**: Add +1 to Craft (alchemy) checks to craft poison and +1/4 to the DCs of poisons the alchemist creates.
+
+**Arcanist**: When the arcanist casts an illusion (shadow) spell that deals a percentage of its damage or effect against nonbelievers, increase this amount by 2% (to a maximum of 100%).
+
+**Barbarian**: Add +1 to either cold or electricity resistance while raging (maximum resistance 15 for either type).
+
+**Bard**: Add a +1 bonus on Disguise checks when using *disguise self*.
+
+**Cleric**: Add 1/2 point to negative energy damage dealt by channeling energy and *inflict wounds* spells.
+
+**Druid**: The druid's animal companion gains resistance 1 against either cold or electricity. Each time the druid selects this reward, he increases his animal companion's resistance to one of those energy types by 1 (maximum 10 for any one energy type). If the druid ever replaces his animal companion, the new animal companion gains these resistances.
+
+**Fighter**: Choose a slashing melee weapon. Add +1/2 to critical hit confirmation rolls made while using that weapon (maximum bonus of +4). This bonus does not stack with Critical Focus.
+
+**Gunslinger**: Add 1/4 point to the gunslinger's grit.
+
+**Hunter**: The hunter's animal companion gains DR 1/magic. Each additional time the hunter selects this benefit, the DR increases by +1/2 (maximum DR 10/magic). If the hunter ever replaces his animal companion, the new animal companion gains this DR.
+
+**Inquisitor**: Add a +1 bonus on Knowledge (planes) checks made to identify creatures.
+
+**Magus**: Add 1/4 point to the magus's arcane pool.
+
+**Monk**: Add a +1/2 bonus on Escape Artist and Stealth checks attempted while in dim light or darkness.
+
+**Paladin**: Add +1/4 to the morale bonus the paladin grants on allies' saving throws against fear effects.
+
+**Slayer**: Add a +1/4 dodge bonus to Armor Class against the slayer's studied target.
 
 ## Archetypes and Class Options
 
 - [Dusk Stalker](../classes/ranger-archetypes.md#dusk-stalker) (ranger)
 - [Shadow Caller](../classes/summoner-archetypes.md#shadow-caller) (summoner)
+- [Shadow Walker](../classes/rogue-archetypes.md#shadow-walker) (rogue)
+- [Advanced shadow rogue talents](../classes/rogue-talents.md#advanced-shadow-rogue-talents)
+- [Dusk Knight](../classes/paladin-archetypes.md#dusk-knight) (paladin)
+- [Gloom Chymist](../classes/alchemist-archetypes.md#gloom-chymist) (alchemist)
 
 These archetypes are typically only taken by fetchlings, but members of other races, with the GM's permission, can take them as well.
 
@@ -93,6 +139,9 @@ The following alchemical items either boost the strange physiology of fetchlings
 - [Improved Dark Sight](../../rules/feats/improved-dark-sight.md)
 - [Shadow Ghost](../../rules/feats/shadow-ghost.md)
 - [Shadow Walker](../../rules/feats/shadow-walker.md)
+- [Crepuscular Cowl](../../rules/feats/crepuscular-cowl.md)
+- [Improved Shadowy Resistance](../../rules/feats/improved-shadowy-resistance.md)
+- [Shadow Magic Defense](../../rules/feats/shadow-magic-defense.md)
 
 ## Magic Items
 

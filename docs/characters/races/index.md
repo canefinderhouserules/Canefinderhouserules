@@ -67,6 +67,7 @@ To create a new race of your own, see the [Race Builder](../../rules/race-builde
 ## Player Companion Races
 
 - [Skinwalker](skinwalker.md): humanoids with lycanthropic ancestry who can take a bestial form, with eight heritages (werebat, werebear, wereboar, werecrocodile, wererat, wereshark, weretiger, werewolf).
+- [Shadowborn and Darkborn Traits](shadowborn-traits.md): alternate racial traits for the core races and half-elves touched by shadow or by the lightless underworld.
 
 ## Races of the Sea
 

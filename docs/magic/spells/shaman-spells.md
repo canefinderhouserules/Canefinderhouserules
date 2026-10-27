@@ -40,6 +40,7 @@ Shamans gain access to the following spells. Spells in plain text come from othe
 - **[Comprehend Languages](comprehend-languages.md)**: You understand all spoken and written languages.
 - **[Coward's Cowl](cowards-cowl.md)**: Defensive bonuses while avoiding enemies.
 - **[Cure Light Wounds](cure-light-wounds.md)**: Cures 1d8 damage + 1/level (max +5).
+- **[Dancing Darkness](dancing-darkness.md)**: up to four spheres of moving darkness
 - **[Dancing Lantern](dancing-lantern.md)**: Animates a lantern that follows you.
 - **[Darting Duplicate](darting-duplicate.md)**: Illusory duplicate baits attacks of opportunity.
 - **[Detect Animals or Plants](detect-animals-or-plants.md)**: Detects kinds of animals or plants.
@@ -91,6 +92,7 @@ Shamans gain access to the following spells. Spells in plain text come from othe
 - **[Scarify](scarify.md)**: Convert lethal damage to nonlethal, leaving scars
 - **[Sculpted Cape](sculpted-cape.md)**: Your cape stiffens and holds its shape.
 - **[Sense Spirit Magic](sense-spirit-magic.md)**: Gain bonuses on identifying and resisting spells associated with your spirits.
+- **[Shadow Trap](shadow-trap.md)**: pins the target's shadow so it is entangled
 - **[Skim](skim.md)**: read in a quarter of the time
 - **[Sleep](sleep.md)**: Puts 4 HD of creatures into magical slumber.
 - Stone Shield
@@ -98,6 +100,7 @@ Shamans gain access to the following spells. Spells in plain text come from othe
 - **[Spirit Share](spirit-share.md)**: Deliver a drink or potion by touch
 - **[Tears to Wine](tears-to-wine.md)**: Turn liquids into wine that sharpens the mind.
 - **[Thorn Javelin](thorn-javelin.md)**: Wield a javelin that sickens opponents when it strikes.
+- **[Touch of Blindness](touch-of-blindness.md)**: touches blind creatures for 1 round
 - **[Twisted Futures](twisted-futures.md)**: Target can't reroll or pick die results.
 - **[Underbrush Decoy](underbrush-decoy.md)**: Create a rustling distraction to hide.
 - **[Waterproof](waterproof.md)**: Renders an object or creature’s gear waterproof.
@@ -143,6 +146,7 @@ Shamans gain access to the following spells. Spells in plain text come from othe
 - **[Enshroud Thoughts](enshroud-thoughts.md)**: Ward yourself against thought detection and memory alteration.
 - **[Enthrall](enthrall.md)**: Captivates all within 100 ft. + 10 ft./level.
 - **[False Life](false-life.md)**: Gain 1d10 temporary hp + 1/level (max +10).
+- **[Fear the Sun](fear-the-sun.md)**: targets gain light blindness
 - **[Flame Blade](flame-blade.md)**: Touch attack deals 1d8 + 1/two levels damage.
 - **[Flickering Lights](flickering-lights.md)**: Create an area of inconsistent lighting.
 - **[Focused Scrutiny](focused-scrutiny.md)**: Gain skill bonuses when interacting with the target.
@@ -252,6 +256,7 @@ Shamans gain access to the following spells. Spells in plain text come from othe
 - **[Magic Vestment](magic-vestment.md)**: Armor or shield gains +1 enhancement per four levels.
 - **[Mantle of Calm](mantle-of-calm.md)**: Neutralize the rage effects of those who have attacked you.
 - **[Mindlocked Messenger](mindlocked-messenger.md)**: ‘Target gains a message that can be given only to its intended recipient.
+- **[Motes of Dusk and Dawn](motes-of-dusk-and-dawn.md)**: up to four motes that shed light or darkness
 - **[Nauseating Trail](nauseating-trail.md)**: Creature leaves a trail of stinking
 - **[Pierce Disguise](pierce-disguise.md)**: See through low-level magical disguises.
 - **[Planar Inquiry](planar-inquiry.md)**: Call an outsider to answer questions.
@@ -265,6 +270,8 @@ Shamans gain access to the following spells. Spells in plain text come from othe
 - **[Scale Spikes, Greater](scale-spikes-greater.md)**: Scale spikes with up to +5 enhancement
 - **[See Beyond](see-beyond.md)**: Meditative spell: large Perception bonus and brief x-ray vision.
 - **[Seed Spies](seed-spies.md)**: Wafting seeds act as spies, as insect spies.
+- **[Shadowmind](shadowmind.md)**: targets perceive the light level as one step darker
+- **[Shield of Darkness](shield-of-darkness.md)**: magical darkness grants you total concealment
 - **[Signs of the Land](signs-of-the-land.md)**: Learn up to three details about the surrounding territory.
 - **[Sleet Storm](sleet-storm.md)**: Hampers vision and movement.
 - **[Soothing Mud](soothing-mud.md)**: Create restorative mud that heals hit point and ability damage.
@@ -272,6 +279,7 @@ Shamans gain access to the following spells. Spells in plain text come from othe
 - **[Speak with Dead](speak-with-dead.md)**: Corpse answers one question/two levels.
 - **[Speak with Haunt](speak-with-haunt.md)**: Haunt answers one question/2 levels.
 - **[Spirit Bonds](spirit-bonds.md)**: Meditative spell: track bonded creatures and send a telepathic message.
+- **[Spotlight](spotlight.md)**: bright light on a target suppresses nearby light and ruins its Stealth
 - **[Stench of Prey](stench-of-prey.md)**: Predatory animals must successfully save or attack the target.
 - **[Stinking Cloud](stinking-cloud.md)**: Nauseating vapors, 1 round/level.
 - **[Stone Shape](stone-shape.md)**: Sculpts stone into any shape.
@@ -283,6 +291,7 @@ Shamans gain access to the following spells. Spells in plain text come from othe
 - **[Toxic Rupture](toxic-rupture.md)**: A poisonous creature is poisoned by its own venom.
 - **[Transfer Regeneration](transfer-regeneration.md)**: Give your regeneration to another creature
 - **[Wall of Mist](wall-of-mist.md)**: Wall of fog granting concealment and hindering movement.
+- **[Wall of Split Illumination](wall-of-split-illumination.md)**: a wall that is bright on one side and dark on the other
 - **[Water Breathing](water-breathing.md)**: Subjects can breathe underwater.
 - **[Water Walk](water-walk.md)**: Subject treads on water as if solid.
 - **[Wind Wall](wind-wall.md)**: Deflects arrows, smaller creatures, and gases.
@@ -333,6 +342,7 @@ Shamans gain access to the following spells. Spells in plain text come from othe
 - **[Instant Restoration](instant-restoration.md)**: Heal a summoned creature as it falls
 - **[Life Blast](life-blast.md)**: Drain life from local vegetation to launch a blast of positive energy.
 - **[Magic Weapon, Greater](magic-weapon-greater.md)**: Weapon gains +1 bonus/four levels (max +5).
+- **[Masochistic Shadow](masochistic-shadow.md)**: a shadow attacks the target, dealing Strength damage each round
 - **[Neutralize Poison](neutralize-poison.md)**: Immunizes subject against poison, detoxifies venom in or on subject.
 - **[Persistent Vigor](persistent-vigor.md)**: Gain fast healing 2, immunity to bleed, and faster recovery from diseases and poisons.
 - **[Phantasmal Reminder](phantasmal-reminder.md)**: Recall of past wounds deals damage.
@@ -367,6 +377,7 @@ Shamans gain access to the following spells. Spells in plain text come from othe
 - **[Thorn Body](thorn-body.md)**: Your attackers take 1d6 +1 damage/level.
 - **[Tongues](tongues.md)**: Speak and understand any language.
 - **[Torpid Reanimation](torpid-reanimation.md)**: *Animate dead* when a specific trigger condition occurs.
+- **[Umbral Infusion](umbral-infusion.md)**: a mindless undead gains the advanced template but may go out of control
 - **[Vicarious View](vicarious-view.md)**: Plant a scrying sensor that you can use to spy on a creature, object, or location.
 - **[Vigilant Rest](vigilant-rest.md)**: Cause a sleeping creature to retain some perception of its surroundings.
 - **[Voluminous Vocabulary](voluminous-vocabulary.md)**: Grant ability to speak, read, and write one or more languages for 8 hours.
@@ -400,6 +411,7 @@ Shamans gain access to the following spells. Spells in plain text come from othe
 - **[Cure Light Wounds, Mass](cure-light-wounds-mass.md)**: Cures 1d8 damage + 1/level, affects 1 subject/level.
 - **[Curse, Major](curse-major.md)**: As bestow curse, but harder to remove.
 - Dispel Chaos/evil/good/law
+- **[Darkvault](darkvault.md)**: wards an area so light cannot change its illumination
 - **[Dominate Person](dominate-person.md)**: Controls humanoid telepathically.
 - **[Empathy Conduit](empathy-conduit.md)**: Affect a bonded creature by targeting its master, or vice versa.
 - **[Entice Fey, Lesser](entice-fey-lesser.md)**: Entice service from a fey of 6 Hit Dice or fewer.
@@ -438,6 +450,7 @@ Shamans gain access to the following spells. Spells in plain text come from othe
 - **[Awaken](awaken.md)**: Animal or tree gains human intellect.
 - **[Awaken Construct](awaken-construct.md)**
 - **[Balance of Suffering](balance-of-suffering.md)**: Drain one creature to heal another.
+- **[Baleful Shadow Transmutation](baleful-shadow-transmutation.md)**: a target's shadow tricks it into believing it is another creature
 - **[Banishment](banishment.md)**: Banishes 2 HD/level of extraplanar creatures.
 - **[Bear’s Endurance, Mass](bears-endurance-mass.md)**: As *bear’s endurance*, affects 1 subject/level.
 - **[Betraying Sting](betraying-sting.md)**: Smite those who trusted you
@@ -467,6 +480,7 @@ Shamans gain access to the following spells. Spells in plain text come from othe
 - **[Prognostication](prognostication.md)**: Gain cryptic information from further in the future than *divination*.
 - **[Raise Dead](raise-dead.md)**: Restores life to subject who died as long as one day/level ago.
 - **[Reincarnate Spy](reincarnate-spy.md)**: As *reincarnate*, but creating a body similar to that of a chosen creature, and you secretly keep part of the body.
+- **[Shadow Transmutation](shadow-transmutation.md)**: mimics a polymorph or size-changing spell with shadow-stuff
 - **[Slay Living](slay-living.md)**: Touch attack deals 12d6 +1 per level.
 - **[Snake Staff](snake-staff.md)**: Transforms wood into snakes to fight for you.
 - **[Speak with Soul](speak-with-soul.md)**: Hold an extended conversation with a soul
@@ -507,6 +521,7 @@ Shamans gain access to the following spells. Spells in plain text come from othe
 - **[Stone Tell](stone-tell.md)**: Talk to natural or worked stone.
 - **[Sunbeam](sunbeam.md)**: Beam blinds and deals 4d6 damage.
 - **[Transport via Plants](transport-via-plants.md)**: Move instantly from one plant to another of the same kind.
+- **[Umbral Strike](umbral-strike.md)**: a bolt of dark energy deals cold and negative damage and blinds
 - **[Verminous Transformation](verminous-transformation.md)**: Partially transform into a swarm.
 - **[Vision](vision.md)**: As *legend lore*, but quicker.
 - **[Vortex](vortex.md)**: Creates a whirlpool in water.
@@ -553,6 +568,7 @@ Shamans gain access to the following spells. Spells in plain text come from othe
 - **[Massacre](massacre.md)**: Slaughter creatures in a line.
 - **[Polar Midnight](polar-midnight.md)**: Cold darkness paralyzes and deals damage.
 - Shamble
+- **[Shadow Transmutation, Greater](shadow-transmutation-greater.md)**: mimics greater polymorph with shadow-stuff
 - **[Shapechange](shapechange.md)**: Transforms you into certain creatures, and you can change forms once per round.
 - **[Soul Bind](soul-bind.md)**: Traps newly dead soul to prevent *resurrection*.
 - **[Storm of Vengeance](storm-of-vengeance.md)**: Storm rains acid, lightning, and hail.

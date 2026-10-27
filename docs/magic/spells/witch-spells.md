@@ -26,6 +26,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Compel Hostility](compel-hostility.md)**: Compels opponents to attack you instead of your allies.
 - **[Coward's Cowl](cowards-cowl.md)**: Defensive bonuses while avoiding enemies.
 - **[Damp Powder](damp-powder.md)**: Ruins ammunition loaded in the targeted firearm.
+- **[Dancing Darkness](dancing-darkness.md)**: up to four spheres of moving darkness
 - **[Darting Duplicate](darting-duplicate.md)**: Illusory duplicate baits attacks of opportunity.
 - **[Decompose Corpse](decompose-corpse.md)**: Turn a corpse into a clean skeleton.
 - **[Delay Disease](delay-disease.md)**: The target becomes temporarily immune to disease.
@@ -88,6 +89,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Sanctify Corpse](sanctify-corpse.md)**: Prevent a corpse from becoming an undead.
 - **[Scarify](scarify.md)**: Convert lethal damage to nonlethal, leaving scars
 - **[Sculpted Cape](sculpted-cape.md)**: Your cape stiffens and holds its shape.
+- **[Shadow Trap](shadow-trap.md)**: pins the target's shadow so it is entangled
 - **[Shadow Weapon](shadow-weapon.md)**: Create a quasi-real masterwork weapon.
 - **[Skim](skim.md)**: read in a quarter of the time
 - **[Snowball](snowball.md)**: Throw a conjured ball of snow at a target.
@@ -98,6 +100,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Summon Minor Monster](summon-minor-monster.md)**: Summon 1d3 Tiny animals.
 - **[Tap Inner Beauty](tap-inner-beauty.md)**: +2 insight bonus on Charisma checks.
 - **[Theft Ward](theft-ward.md)**: You ward a single object in your possession against theft.
+- **[Touch of Blindness](touch-of-blindness.md)**: touches blind creatures for 1 round
 - **[Touch of Combustion](touch-of-combustion.md)**: Your successful melee touch attack causes the target to ignite in a violent burst of flame, dealing 1d6.
 - **[Transfer Tattoo](transfer-tattoo.md)**: Move a magic tattoo between creatures.
 - **[True Appraisal](true-appraisal.md)**: Gain insight into the value of objects
@@ -122,6 +125,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Alluring Spores](alluring-spores.md)**: Spores weaken enchantment saves.
 - **[Alter Summoned Monster](alter-summoned-monster.md)**: Swap a summoned creature for another
 - **[Ancestral Regression](ancestral-regression.md)**: School transmutation (polymorph); Level alchemist 2, antipaladin 3, cleric 2, sorcerer/wizard 3, witch 2.
+- **[Ancestral Revision](ancestral-revision.md)**: a wayang appears as a gnome-like version of herself
 - **[Anticipate Thoughts](anticipate-thoughts.md)**: Gain increasing bonuses to AC and on attack rolls and damage rolls against one creature.
 - **[Apport Object](apport-object.md)**: Send or receive a small object via teleportation.
 - **[Arcane Disruption](arcane-disruption.md)**: Subject must make concentration checks to use arcane magic.
@@ -165,6 +169,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Enemy’s Heart](enemy-s-heart.md)**: You cut out an enemy’s heart and consume it, absorbing that enemy’s power as your own.
 - **[Enshroud Thoughts](enshroud-thoughts.md)**: Ward yourself against thought detection and memory alteration.
 - **[Familiar Figment](familiar-figment.md)**: Illusory duplicate of your familiar gives a 50% miss chance.
+- **[Fear the Sun](fear-the-sun.md)**: targets gain light blindness
 - **[Flesh Facade](flesh-facade.md)**: Make an undead look alive
 - **[Force Sword](force-sword.md)**: Create a longsword of pure force.
 - **[Frost Fall](frost-fall.md)**: The area is covered in a chilling frost.
@@ -217,6 +222,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Sensory Overload](sensory-overload.md)**: Target must save to take standard or full-round actions.
 - **[Sentry Skull](sentry-skull.md)**: You restore the senses to the severed head of a humanoid or monstrous humanoid killed within the past 24.
 - **[Shadow Anchor](shadow-anchor.md)**: School illusion (shadow) [shadow]; Level bard 2, sorcerer/wizard 2, witch 2 Casting Time 1 standard action.
+- **[Shadowmind](shadowmind.md)**: targets perceive the light level as one step darker
 - **[Share Memory](share-memory.md)**: Share one memory with the target.
 - **[Shared Sacrifice](shared-sacrifice.md)**: Redirect half your damage to a target.
 - **[Shared Suffering](shared-suffering.md)**: Take damage to deal the same damage to a distant target.
@@ -321,12 +327,14 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Locate Weakness](locate-weakness.md)**: You roll damage twice when you roll damage for a critical hit and take the best damage.
 - **[Marionette Possession](marionette-possession.md)**: As magic jar, but limited to line of sight.
 - **[Matchmaker](matchmaker.md)**: Cause two creatures to fall in love.
+- **[Motes of Dusk and Dawn](motes-of-dusk-and-dawn.md)**: up to four motes that shed light or darkness
 - **[Nature’s Ravages](natures-ravages.md)**: Rapidly decomposes a corpse.
 - **[Necromantic Burden](necromantic-burden.md)**: Make undead harder to control
 - **[Nixie’s Lure](nixie-s-lure.md)**: This spell creates an unearthly and infectious song that seductively summons all who hear it.
 - **[Open Book](open-book.md)**: Make it permanently easier to learn more about a target.
 - **[Pack Empathy](pack-empathy.md)**: Create an empathic bond with allies.
 - **[Paragon Surge](paragon-surge.md)**: You surge with ancestral power, temporarily embodying all the strengths of both elvenkind and humankind.
+- **[Penumbral Disguise](penumbral-disguise.md)**: shadowy illumination masks your features
 - **[Perfect Placement](perfect-placement.md)**: Allies gain +1 insight to AC and Reflex saves.
 - **[Phantasmal Affliction](phantasmal-affliction.md)**: Convince a target that it contracted an affliction.
 - **[Phantasmal Reminder](phantasmal-reminder.md)**: Recall of past wounds deals damage.
@@ -357,6 +365,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Spellcurse](spellcurse.md)**: Deals 1d6 damage per ongoing spell on the target.
 - **[Spirit Bonds](spirit-bonds.md)**: Meditative spell: track bonded creatures and send a telepathic message.
 - **[Spit Venom](spit-venom.md)**: Spit blinding black adder venom.
+- **[Spotlight](spotlight.md)**: bright light on a target suppresses nearby light and ruins its Stealth
 - **[Stage Fright](stage-fright.md)**: Targets take –4 on ability, skill, and concentration checks.
 - **[Storm Step](storm-step.md)**: teleport short distance as a bolt of lightning
 - **[Strangling Hair](strangling-hair.md)**: Your hair animates and grapples.
@@ -430,17 +439,20 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Hero's Spellsword](heros-spellsword.md)**: Merge a rod or staff into a melee weapon.
 - **[Hollow Heroism](hollow-heroism.md)**: Provide a *heroism* effect that you can reverse at any time.
 - **[Hunger for Flesh](hunger-for-flesh.md)**: Give a creature a bite attack and a hunger for its own kind’s flesh.
+- **[Ignoble Form](ignoble-form.md)**: a drow takes on a half-elf's form
 - **[Innocuous Shape](innocuous-shape.md)**: Target looks like a harmless creature.
 - **[Insect Spies](insect-spies.md)**: Use magic beetles as spies.
 - **[Instant Restoration](instant-restoration.md)**: Heal a summoned creature as it falls
 - **[Inveigle Person](inveigle-person.md)**: The target treats all creatures as friendly.
 - **[Mad Sultan’s Melody](mad-sultans-melody.md)**: Bizarre cacophony fascinates eldritch creatures.
+- **[Masochistic Shadow](masochistic-shadow.md)**: a shadow attacks the target, dealing Strength damage each round
 - **[Master's Escape](masters-escape.md)**: Swap places with a summoned creature
 - **[Medusa's Bane](medusas-bane.md)**: Gain immunity to gaze attacks and reflect one.
 - **[Meticulous Match](meticulous-match.md)**: Determine if two things are identical.
 - **[Minotaur’s Blessing](minotaurs-blessing.md)**: Turn a creature’s head into a bull’s.
 - **[Mnemonic Siphon](mnemonic-siphon.md)**: rune that steals spells cast near an object
 - **[Monstrous Extremities](monstrous-extremities.md)**: Change limbs into tentacles, hooves, or wings.
+- **[Mydriatic Spontaneity](mydriatic-spontaneity.md)**: flashing light and dark nauseate and impair a target's sight
 - **[Object Possession, Lesser](object-possession-lesser.md)**: Project your soul into an object, animating it.
 - **[Phantasmal Asphyxiation](phantasmal-asphyxiation.md)**: Trick a creature into thinking it can’t breathe.
 - **[Poisonous Cloud](poisonous-cloud.md)**: Fog cloud that deals 1d2 Con damage per round.
@@ -457,6 +469,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Sadomasochism](sadomasochism.md)**: Pain empowers your attacks and demoralizes attackers.
 - **[Seeds of Influence](seeds-of-influence.md)**: Leave a trace in a creature’s mind that weakens it against your divinations and enchantments.
 - **[Shadow Step](shadow-step.md)**: Teleport from one shadow to another.
+- **[Shadowform](shadowform.md)**: foes that fail to disbelieve deal only one-fifth damage
 - **[Share Shape](share-shape.md)**: Beast shape II, limited to your companion's or familiar's kind.
 - **[Soul Vault](soul-vault.md)**: Protect a soul from being trapped
 - **[Symbol of Healing](symbol-of-healing.md)**: Triggered rune heals living creatures.
@@ -465,6 +478,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[They Know](they-know.md)**: Convince target that a nearby creature knows her greatest secret.
 - **[Tongues, Communal](tongues-communal.md)**: As tongues, but you may divide the duration among creatures touched.
 - **[Touch of Slime](touch-of-slime.md)**: Touch infests a target with green slime.
+- **[Umbral Infusion](umbral-infusion.md)**: a mindless undead gains the advanced template but may go out of control
 - **[Undeath Inversion](undeath-inversion.md)**: Undead is harmed by negative energy and healed by positive
 - **[Vermin Shape II](vermin-shape-ii.md)**: As vermin shape, but Tiny or Large.
 - **[Vicarious View](vicarious-view.md)**: Plant a scrying sensor that you can use to spy on a creature, object, or location.
@@ -496,6 +510,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Curse of Disgust](curse-of-disgust.md)**: Target is sickened while viewing trigger.
 - **[Curse, Major](curse-major.md)**: As bestow curse, but harder to remove.
 - **[Damnation Stride](damnation-stride.md)**: This spell functions like dimension door, except you leave behind a burst of fire.
+- **[Darkvault](darkvault.md)**: wards an area so light cannot change its illumination
 - **[Debilitating Pain, Mass](debilitating-pain-mass.md)**: As debilitating pain, but affects multiple creatures.
 - **[Deceitful Veneer](deceitful-veneer.md)**: Make someone seem like an obvious liar.
 - **[Decollate](decollate.md)**: A target can safely remove its head.
@@ -558,6 +573,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Age Resistance](age-resistance.md)**: Ignore penalties from old age.
 - **[Alleviate Corruption](alleviate-corruption.md)**: Attempt to weaken a corruption’s effect at risk to yourself.
 - **[Balance of Suffering](balance-of-suffering.md)**: Drain one creature to heal another.
+- **[Baleful Shadow Transmutation](baleful-shadow-transmutation.md)**: a target's shadow tricks it into believing it is another creature
 - **[Betraying Sting](betraying-sting.md)**: Smite those who trusted you
 - **[Binding Earth, Mass](binding-earth-mass.md)**: School transmutation [earth]; Level druid 6, witch 6 Target one creature or object/level, no two of which can.
 - **[Cruel Jaunt](cruel-jaunt.md)**: Sense creatures suffering from fear, then teleport near them.
@@ -591,6 +607,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Prognostication](prognostication.md)**: Gain cryptic information from further in the future than *divination*.
 - **[Runic Overload](runic-overload.md)**: Detonates magical runes with sonic force.
 - **[Shadow Memory](shadow-memory.md)**: Learn a target’s secrets to aid an assassination.
+- **[Shadow Transmutation](shadow-transmutation.md)**: mimics a polymorph or size-changing spell with shadow-stuff
 - **[Share Skin](share-skin.md)**: Possess an animal as with magic jar.
 - **[Soul-Rending Claws](soul-rending-claws.md)**: Claws grant negative levels
 - **[Source Severance](source-severance.md)**: Suppress either arcane or divine magic around you.
@@ -629,6 +646,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Legendary Proportions](legendary-proportions.md)**: Increase a creature's size category with large bonuses.
 - **[Lunar Veil](lunar-veil.md)**: Dispel light and revert lycanthropes.
 - **[Maddening Oubliette](maddening-oubliette.md)**: Send a creature to a maddening demiplane prison.
+- **[Mydriatic Spontaneity, Mass](mydriatic-spontaneity-mass.md)**: mydriatic spontaneity affecting multiple creatures
 - **[Nature’s Ravages, Greater](natures-ravages-greater.md)**: As nature’s ravages, aging a corpse by years.
 - **[Object Possession, Greater](object-possession-greater.md)**: As possess object, but the object is more powerful and you can possess a construct.
 - **[Particulate Form](particulate-form.md)**: Targets gain fast healing and immunity to critical hits.
@@ -646,6 +664,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Spell Scourge](spell-scourge.md)**: Strip harmless spells from a creature or confuse it.
 - **[Temporal Divergence](temporal-divergence.md)**: Cast two spells, then choose which one actually happened.
 - **[Temporary Resurrection](temporary-resurrection.md)**: Bring a creature to life for 24 hours.
+- **[Umbral Strike](umbral-strike.md)**: a bolt of dark energy deals cold and negative damage and blinds
 - **[Verminous Transformation](verminous-transformation.md)**: Partially transform into a swarm.
 - **[Walk Through Space](walk-through-space.md)**: You can spend a move action to teleport 30 feet or to stand while prone without provoking attacks of opportunity.
 - **[Waves of Ecstasy](waves-of-ecstasy.md)**: Pleasure stuns and staggers creatures.
@@ -674,6 +693,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Symbol of Dispelling](symbol-of-dispelling.md)**: Symbol that dispels magic in an area.
 - **[Temporal Regression](temporal-regression.md)**: Return to a marked place and condition.
 - **[True Prognostication](true-prognostication.md)**: Gain incredibly cryptic information from the distant future.
+- **[Umbral Infusion, Mass](umbral-infusion-mass.md)**: umbral infusion on multiple mindless undead
 - **[Wandering Weather](wandering-weather.md)**: Control weather in a large area that moves with you.
 
 ## 9th-Level Witch Spells
@@ -690,6 +710,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Parasitic Soul](parasitic-soul.md)**: Place a trapped soul in a victim's body
 - **[Polar Midnight](polar-midnight.md)**: Cold darkness paralyzes and deals damage. The following spells are presented in alphabetical order, with the exception of those whose names begin with “greater,” “lesser,” or “mass.” These spells are alphabetized
 - **[Scribe’s Binding](scribes-binding.md)**: Bind a creature and its memories into a book.
+- **[Shadow Transmutation, Greater](shadow-transmutation-greater.md)**: mimics greater polymorph with shadow-stuff
 - **[Symbol of Strife](symbol-of-strife.md)**: Triggered rune makes creatures attack.
 - **[Symbol of Vulnerability](symbol-of-vulnerability.md)**: Triggered rune gives penalties.
 - **[Threefold Form](threefold-form.md)**: Split into three copies of yourself.

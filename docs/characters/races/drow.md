@@ -62,14 +62,60 @@ The following racial traits may be selected instead of existing drow racial trai
 
 **Surface Infiltrator**: Some drow dwell close to the surface lands, either because they serve drow causes or they were exiled. Drow with this racial trait gain low-light vision, allowing them to see twice as far as humans in conditions of dim light. This racial trait replaces the darkvision and light blindness racial traits.
 
+The following traits can be selected by drow or half-elves instead of existing drow or half-elf racial traits, either to represent drow with non-drow influences in their physiology or half-elves with drow lineages. See also the [darkborn alternate racial traits](shadowborn-traits.md#darkborn-alternate-racial-traits).
+
+**Daylight Adaptation**: Some drow with a hint of other racial heritages spend significant time on the surface and maintain their darkvision, but no longer have the light blindness trait. This racial trait replaces spell resistance.
+
+**Drow Heritage**: Half-elves with this trait count as drow for the purposes of any effect related to race, including prerequisites. This racial trait replaces the ability to choose any language as a bonus language, instead limiting the character to the bonus languages offered to drow.
+
+**Flexible Half-Breed**: Once per day, half-elves with this trait can use *alter self* as a spell-like ability to appear as humans, drow, or elves. The half-elf can change the race of this form each time she uses this ability, but the specific form for each race is static. She gains a +10 bonus to Disguise checks to appear as a member of the chosen race. The caster level for this ability is equal to the character's Hit Dice. This racial trait replaces multitalented.
+
+**Hidden Half-Breed**: In benign communities, half-elves endure assumptions and bigotry based on ignorance and suspicion. In drow society, public knowledge of one's mixed ancestry can mean a cruel death. Half-elves with this trait gain a +2 bonus on Bluff and Disguise checks to pass as full-blooded drow, elves, or humans. This racial trait replaces the ability to choose any language as a bonus language, instead limiting the character to the bonus languages offered to drow.
+
+**Lesser Spell-Like Abilities**: Half-elves with this trait can cast *dancing lights*, *darkness*, and *faerie fire* once each per day. The caster level for these effects is equal to the user's character level. This racial trait replaces adaptability and multitalented.
+
+**Psychic Sensitivity**: The Underworld is full of strange energies, and the drow or half-drow who live there practice bloody rituals in exchange for favor and power. Drow or half-elves with this trait gain the Psychic Sensitivity feat, gaining access to occult skill unlocks normally only available to psychic spellcasters. This racial trait replaces keen senses for drow and half-elves and drow immunities for drow or elven immunities for half-elves.
+
+**Shade Magic**: Drow with this trait can cast *cloak of shade*, *dust of twilight*, and *ghost sound* as spell-like abilities each once per day. This racial trait replaces a drow's normal spell-like abilities.
+
+**Shadow Sorcery**: Drow with this trait have a supernatural affinity for shadow. A drow sorcerer with the shadow bloodline treats her Charisma score as 2 points higher for all sorcerer class abilities and for spells with the shadow descriptor she casts. This racial trait replaces poison use.
+
+**Spell Resistance (half-elf)**: Some drow-blooded half-elves share the drow resistance to magic. A half-elf with this racial trait gains spell resistance equal to 6 + her character level. This racial trait replaces adaptability and keen senses.
+
 ## Favored Class Options
 
 See the [Advanced Race Guide section of the racial favored class options](../favored-class-bonuses/racial-favored-class-options.md#drow-advanced-race-guide).
+
+Drow also have the following options.
+
+**Bard**: Add +1/2 to Bluff and Disguise checks to appear as an elf or half-elf.
+
+**Bloodrager**: Add a +1/2 bonus to concentration checks to cast or maintain spells when taking damage.
+
+**Druid**: Add a +1 bonus to wild empathy checks to influence animals and magical beasts that live underground.
+
+**Inquisitor**: Gain 1/4 of a teamwork feat.
+
+**Paladin**: Add a +1/2 sacred bonus to saving throws against spells of the shadow subschool or that have the darkness or shadow descriptor.
+
+**Psychic**: Gain 1/6 of a phrenic amplification (or a major amplification if the psychic is at least 11th level).
+
+**Ranger**: Add +1/3 to initiative checks in one of the ranger's favored terrains.
+
+**Summoner**: Add 1 hit point or 1 skill rank to the summoner's eidolon.
+
+**Warpriest**: Add 1/2 point to the amount of damage dealt or healed by the warpriest's fervor ability.
 
 ## Archetypes and Class Options
 
 - [Cavern Sniper](../classes/fighter-archetypes.md#cavern-sniper) (fighter)
 - [Demonic Apostle](../classes/cleric-archetypes.md#demonic-apostle) (cleric)
+- [Shadow bloodline](../classes/bloodrager-bloodlines.md#shadow) (bloodrager)
+- [Shadow discipline](../classes/psychic.md#shadow) (psychic)
+- [Shadow blessing](../classes/warpriest-blessings.md#shadow-blessing) (warpriest)
+- [Dusk Knight](../classes/paladin-archetypes.md#dusk-knight) (paladin)
+- [Gloom Chymist](../classes/alchemist-archetypes.md#gloom-chymist) (alchemist)
+- [Umbral Scion](../classes/sorcerer-archetypes.md#umbral-scion) (sorcerer)
 
 These archetypes are typically only taken by drow, but members of other races, with the GM's permission, can take them as well.
 
@@ -107,6 +153,8 @@ Drow have access to the following equipment.
 - [Spider Step (Drow)](../../rules/feats/spider-step-drow.md)
 - [Spider Summoner](../../rules/feats/spider-summoner.md)
 - [Umbral Scion](../../rules/feats/umbral-scion.md)
+- [Drow Spirit](../../rules/feats/drow-spirit.md) (half-elves)
+- [Surface Scout](../../rules/feats/surface-scout.md)
 
 ## Magic Items
 
@@ -119,3 +167,8 @@ Drow have access to the following equipment.
 - [Ancestral Regression](../../magic/spells/ancestral-regression.md)
 - [Web Bolt](../../magic/spells/web-bolt.md)
 - [Web Cloud](../../magic/spells/web-cloud.md)
+- [Darkvault](../../magic/spells/darkvault.md)
+- [Fear the Sun](../../magic/spells/fear-the-sun.md)
+- [Ignoble Form](../../magic/spells/ignoble-form.md)
+- [Shadowmind](../../magic/spells/shadowmind.md)
+- [Umbral Strike](../../magic/spells/umbral-strike.md)

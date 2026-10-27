@@ -33,6 +33,7 @@ Spiritualists gain access to the following spells. Spells without a link come fr
 - **[Chill Touch](chill-touch.md)**: One touch/level deals 1d6 damage and possibly 1 Str damage.
 - **[Comprehend Languages](comprehend-languages.md)**: You understand all spoken and written languages.
 - **[Cure Light Wounds](cure-light-wounds.md)**: Cures 1d8 damage + 1/level (max +5).
+- **[Dancing Darkness](dancing-darkness.md)**: up to four spheres of moving darkness
 - **[Deathwatch](deathwatch.md)**: Reveals how near death subjects within 30 ft. are.
 - **[Decompose Corpse](decompose-corpse.md)**: Turn a corpse into a clean skeleton.
 - **[Detect Chaos](detect-chaos.md)**
@@ -210,6 +211,7 @@ Spiritualists gain access to the following spells. Spells without a link come fr
 - **[Seek Thoughts](seek-thoughts.md)**: Detects thinking creatures’ thoughts.
 - **[Selective Alarm](selective-alarm.md)**: As *alarm*, but only against selected creatures.
 - **[Sessile Spirit](sessile-spirit.md)**: Cause a spirit inhabiting a creature or an object to go dormant.
+- **[Shield of Darkness](shield-of-darkness.md)**: magical darkness grants you total concealment
 - **[Slow](slow.md)**: One subject/level takes only one action/round, –1 to AC, Reflex saves, and attack rolls.
 - **[Speak with Dead](speak-with-dead.md)**: Corpse answers one question/two levels.
 - **[Spirit-Bound Blade](spirit-bound-blade.md)**: Give a weapon ghost touch and another ability tied to an emotion.
@@ -284,6 +286,7 @@ Spiritualists gain access to the following spells. Spells without a link come fr
 - **[Shadow Conjuration](shadow-conjuration.md)**: Mimics conjuration below 4th level, but only 20% real.
 - **[Shadow Jaunt](shadow-jaunt.md)**: Teleport between shadows, leaving an image behind
 - **[Shadow Step](shadow-step.md)**: Teleport from one shadow to another.
+- **[Shadowform](shadowform.md)**: foes that fail to disbelieve deal only one-fifth damage
 - **[Slough](slough.md)**: Slough off a target’s skin.
 - **[Solid Fog](solid-fog.md)**: Blocks vision and slows movement.
 - **[Speak with Haunt](speak-with-haunt.md)**: Haunt answers one question/2 levels.
@@ -366,6 +369,7 @@ Spiritualists gain access to the following spells. Spells without a link come fr
 - **[Alleviate Corruption](alleviate-corruption.md)**: Attempt to weaken a corruption’s effect at risk to yourself.
 - **[Analyze Dweomer](analyze-dweomer.md)**: Reveals magical aspects of subject.
 - **[Balance of Suffering](balance-of-suffering.md)**: Drain one creature to heal another.
+- **[Baleful Shadow Transmutation](baleful-shadow-transmutation.md)**: a target's shadow tricks it into believing it is another creature
 - **[Banishment](banishment.md)**: Banishes 2 HD/level of extraplanar creatures.
 - **[Banshee Blast](banshee-blast.md)**
 - **[Circle of Death](circle-of-death.md)**: Kills 1d4/level HD of creatures.
@@ -392,6 +396,7 @@ Spiritualists gain access to the following spells. Spells without a link come fr
 - **[Prognostication](prognostication.md)**: Gain cryptic information from further in the future than *divination*.
 - **[Repulsion](repulsion.md)**: Creatures can’t approach you.
 - **[Sealed Life, Greater](sealed-life-greater.md)**: As sealed life, plus death ward and immunity to soul transference.
+- **[Shadow Transmutation](shadow-transmutation.md)**: mimics a polymorph or size-changing spell with shadow-stuff
 - **[Shadow Walk](shadow-walk.md)**: Step into shadow to travel rapidly.
 - **[Soulseeker](soulseeker.md)**: Determine a soul's location
 - **[Speak with Soul](speak-with-soul.md)**: Hold an extended conversation with a soul
@@ -400,6 +405,7 @@ Spiritualists gain access to the following spells. Spells without a link come fr
 - **[Transformation](transformation.md)**: You gain combat bonuses.
 - **[Treacherous Teleport](treacherous-teleport.md)**: As *teleport*, except you choose some creatures to suffer a mishap or go elsewhere.
 - **[True Seeing](true-seeing.md)**: Lets you see all things as they really are.
+- **[Umbral Strike](umbral-strike.md)**: a bolt of dark energy deals cold and negative damage and blinds
 - **[Undead Anatomy III](undead-anatomy-iii.md)**: Take the form and some of the powers of a Diminutive or Huge undead.
 - **[Undeath to Death](undeath-to-death.md)**: Destroys 1d4/level HD of undead (max. 20d4).
 - **[Unshakable Zeal](unshakable-zeal.md)**: Grant benefits on future attempts after failed checks, and protect against fear and emotion effects.

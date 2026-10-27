@@ -24,6 +24,7 @@ Bloodragers gain access to the following spells. Spells in plain text come from 
 - **[Endure Elements](endure-elements.md)**: Exist comfortably in hot or cold regions.
 - **[Enlarge Person](enlarge-person.md)**: Humanoid creature doubles in size.
 - **[Expeditious Retreat](expeditious-retreat.md)**: Your base speed increases by 30 ft.
+- **[Fear the Sun](fear-the-sun.md)**: targets gain light blindness
 - **[Feather Fall](feather-fall.md)**: Objects or creatures fall slowly.
 - **[Flare Burst](flare-burst.md)**: As flare, but all creatures within 10 ft.
 - **[Frostbite](frostbite.md)**: Target takes cold damage and is fatigued.
@@ -50,6 +51,7 @@ Bloodragers gain access to the following spells. Spells in plain text come from 
 - **[Reduce Person](reduce-person.md)**: Humanoid creature halves in size.
 - Returning Weapon
 - **[Sense Fear](sense-fear.md)**: Perceive nearby creatures that are experiencing fear.
+- **[Shadow Trap](shadow-trap.md)**: pins the target's shadow so it is entangled
 - **[Shadow Weapon](shadow-weapon.md)**: Create a quasi-real masterwork weapon.
 - **[Shield](shield.md)**: Invisible disc gives +4 to AC, blocks *magic missiles.*
 - **[Shield of Shards](shield-of-shards.md)**: Your shield breaks into orbiting shards that attack.
@@ -274,6 +276,7 @@ Bloodragers gain access to the following spells. Spells in plain text come from 
 - **[Ice Storm](ice-storm.md)**: Hail deals 5d6 damage in cylinder 40 ft. across.
 - **[Irregular Size](irregular-size.md)**: Curse shrivels arms, legs, or wings.
 - **[Mask from Divination](mask-from-divination.md)**: Adhere a mask that foils divination.
+- **[Masochistic Shadow](masochistic-shadow.md)**: a shadow attacks the target, dealing Strength damage each round
 - **[Monstrous Physique II](monstrous-physique-ii.md)**: Take the form and some of the powers of a Tiny or Large monstrous humanoid.
 - **[Moonstruck](moonstruck.md)**: Subject is enraged and confused.
 - Pellet Blast

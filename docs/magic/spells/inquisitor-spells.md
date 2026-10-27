@@ -114,6 +114,7 @@ New inquisitor spells from *Ultimate Magic*. Spells from other books will be add
 - **[Escape Alarm](escape-alarm.md)**: Ward an area to alert you when someone leaves
 - **[Escaping Ward](escaping-ward.md)**: This ward grants you extra maneuverability when you avoid attacks against larger foes.
 - **[Fairness](fairness.md)**: Affected creatures must trade fairly.
+- **[Fear the Sun](fear-the-sun.md)**: targets gain light blindness
 - **[Flesh Facade](flesh-facade.md)**: Make an undead look alive
 - **[Flickering Lights](flickering-lights.md)**: Create an area of inconsistent lighting.
 - **[Force Anchor](force-anchor.md)**: Force anchor hinders a target's movement
@@ -161,6 +162,7 @@ New inquisitor spells from *Ultimate Magic*. Spells from other books will be add
 - **[Sense Fear](sense-fear.md)**: Perceive nearby creatures that are experiencing fear.
 - **[Sense Madness](sense-madness.md)**: Determine mental disturbances in nearby creatures.
 - **[Shackle](shackle.md)**: Conjure manacles or fetters.
+- **[Shadowmind](shadowmind.md)**: targets perceive the light level as one step darker
 - **[Shamefully Overdressed](shamefully-overdressed.md)**: Force target to remove equipment.
 - **[Shared Suffering](shared-suffering.md)**: Take damage to deal the same damage to a distant target.
 - **[Shared Training](shared-training.md)**: grant a teamwork feat to allies
@@ -229,6 +231,7 @@ New inquisitor spells from *Ultimate Magic*. Spells from other books will be add
 - **[Meticulous Match](meticulous-match.md)**: Determine if two things are identical.
 - **[Night of Blades](night-of-blades.md)**: Wall of whirling blades.
 - **[Pack Empathy](pack-empathy.md)**: Create an empathic bond with allies.
+- **[Penumbral Disguise](penumbral-disguise.md)**: shadowy illumination masks your features
 - **[Pillow Talk](pillow-talk.md)**: Question a sleeping creature
 - **[Planar Inquiry](planar-inquiry.md)**: Call an outsider to answer questions.
 - **[Quell Energy](quell-energy.md)**: Reduce a creature's energy damage of one type.
@@ -239,15 +242,18 @@ New inquisitor spells from *Ultimate Magic*. Spells from other books will be add
 - **[Second Wind](second-wind.md)**: Heal 2d8 + 1/level when below one-quarter hit points.
 - **[Selective Alarm](selective-alarm.md)**: As *alarm*, but only against selected creatures.
 - **[Selective Invisibility](selective-invisibility.md)**: Invisible, except to one chosen creature you may attack.
+- **[Shield of Darkness](shield-of-darkness.md)**: magical darkness grants you total concealment
 - **[Slave to Sin](slave-to-sin.md)**: Exploit a creature’s sin to sicken and stagger it.
 - **[Soul Vault](soul-vault.md)**: Protect a soul from being trapped
 - **[Spiral Ascent](spiral-ascent.md)**: Teleport upward as a helical beam
+- **[Spotlight](spotlight.md)**: bright light on a target suppresses nearby light and ruins its Stealth
 - **[Stage Fright](stage-fright.md)**: Targets take –4 on ability, skill, and concentration checks.
 - **[Sweat Poison](sweat-poison.md)**: exude an injury poison from your own glands
 - **[Terrible Remorse](terrible-remorse.md)**: Creature is compelled to harm itself.
 - **[They Know](they-know.md)**: Convince target that a nearby creature knows her greatest secret.
 - **[Trial by Fire](trial-by-fire.md)**: Divine fire punishes targets whose alignment differs from your deity’s.
 - **[Unholy Ward](unholy-ward.md)**: Resist 10 damage from holy sources.
+- **[Wall of Split Illumination](wall-of-split-illumination.md)**: a wall that is bright on one side and dark on the other
 - **[Winged Sword](winged-sword.md)**: A melee weapon gains the throwing special ability.
 - **[Witness](witness.md)**: See through the target’s eyes and ears.
 
@@ -365,6 +371,7 @@ New inquisitor spells from *Ultimate Magic*. Spells from other books will be add
 - **[Prognostication](prognostication.md)**: Gain cryptic information from further in the future than *divination*.
 - **[Rotting Alliance](rotting-alliance.md)**: Curse several creatures to waste away when near one another.
 - **[Shadow Memory](shadow-memory.md)**: Learn a target’s secrets to aid an assassination.
+- **[Umbral Strike](umbral-strike.md)**: a bolt of dark energy deals cold and negative damage and blinds
 - **[Unshakable Zeal](unshakable-zeal.md)**: Grant benefits on future attempts after failed checks, and protect against fear and emotion effects.
 - **[Wither Limb](wither-limb.md)**: Make one of the target’s limbs useless.
 

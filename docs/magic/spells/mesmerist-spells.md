@@ -108,6 +108,7 @@ Mesmerists gain access to the following spells. Spells without a link come from 
 - **[Remove Fear](remove-fear.md)**: Suppresses fear or gives +4 on saves against fear for one subject + one per four levels.
 - **[Remove Sickness](remove-sickness.md)**: Suppress disease, nausea, and the sickened condition.
 - **[Reveal Secrets](reveal-secrets.md)**: Learn whether a target has a secret
+- **[Shadow Trap](shadow-trap.md)**: pins the target's shadow so it is entangled
 - **[Share Language](share-language.md)**: Subject understands chosen language.
 - **[Silent Image](silent-image.md)**: Creates minor illusion of your design.
 - **[Sleep](sleep.md)**: Puts 4 HD of creatures into magical slumber.
@@ -325,12 +326,15 @@ Mesmerists gain access to the following spells. Spells without a link come from 
 - Mythic Severance
 - Nixie’s Lure
 - **[Mirage](mirage.md)**: Create illusory terrain.
+- **[Motes of Dusk and Dawn](motes-of-dusk-and-dawn.md)**: up to four motes that shed light or darkness
+- **[Mydriatic Spontaneity](mydriatic-spontaneity.md)**: flashing light and dark nauseate and impair a target's sight
 - **[Node of Blasting](node-of-blasting.md)**: Place a trap on an object to mentally damage a creature that touches it.
 - **[Nondetection](nondetection.md)**: Hides subject from divination, scrying.
 - **[Object Possession, Lesser](object-possession-lesser.md)**: Project your soul into an object, animating it.
 - **[Oneiric Horror, Greater](oneiric-horror-greater.md)**: As oneiric horror, plus Str damage.
 - **[Out of Sight](out-of-sight.md)**: Creatures forget you once they stop watching.
 - **[Overwhelming Grief](overwhelming-grief.md)**: Grieving target can take no actions and is denied its Dex bonus.
+- **[Penumbral Disguise](penumbral-disguise.md)**: shadowy illumination masks your features
 - **[Phantasmal Reminder](phantasmal-reminder.md)**: Recall of past wounds deals damage.
 - **[Pillow Talk](pillow-talk.md)**: Question a sleeping creature
 - **[Ray of Exhaustion](ray-of-exhaustion.md)**: Ray makes subject exhausted.
@@ -346,6 +350,7 @@ Mesmerists gain access to the following spells. Spells without a link come from 
 - **[Sending](sending.md)**: Delivers short message anywhere, instantly.
 - **[Sensory Amplifier](sensory-amplifier.md)**: Creatures nearby sense more keenly but take extra damage.
 - **[Shadow Enchantment](shadow-enchantment.md)**: Quasi-real enchantment of 2nd level or lower.
+- **[Shadowmind](shadowmind.md)**: targets perceive the light level as one step darker
 - **[Smug Narcissism](smug-narcissism.md)**: Target is distracted by its sense of self.
 - **[Spite](spite.md)**
 - **[Stage Fright](stage-fright.md)**: Targets take –4 on ability, skill, and concentration checks.
@@ -423,6 +428,7 @@ Mesmerists gain access to the following spells. Spells without a link come from 
 - **[Serenity](serenity.md)**: Peaceful feelings harm those attempting violence.
 - **[Shadow Conjuration](shadow-conjuration.md)**: Mimics conjuration below 4th level, but only 20% real.
 - Shocking Image
+- **[Shadowform](shadowform.md)**: foes that fail to disbelieve deal only one-fifth damage
 - **[Shroud of Darkness](shroud-of-darkness.md)**: Plunge targets into supernatural darkness
 - **[Sleepwalk](sleepwalk.md)**
 - **[Sleepwalking Suggestion](sleepwalking-suggestion.md)**: Cause a creature to perform a suggested action while asleep.
@@ -471,6 +477,7 @@ Mesmerists gain access to the following spells. Spells without a link come from 
 - **[Mind Swap](mind-swap.md)**: Switch minds with another creature for 1 hour per level.
 - **[Mirage Arcana](mirage-arcana.md)**: As *hallucinatory terrain,* plus structures.
 - **[Mislead](mislead.md)**: Turns you invisible and creates illusory double.
+- **[Mydriatic Spontaneity, Mass](mydriatic-spontaneity-mass.md)**: mydriatic spontaneity affecting multiple creatures
 - **[Nightmare](nightmare.md)**: Sends vision dealing 1d10 damage, fatigue.
 - **[Object Possession](object-possession.md)**: As lesser object possession, but with a larger object.
 - **[Passwall](passwall.md)**: Creates passage through wood or stone wall.

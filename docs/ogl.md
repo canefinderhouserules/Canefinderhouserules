@@ -205,3 +205,5 @@ The following text is the property of Wizards of the Coast, Inc. and is Copyrigh
     Pathfinder Player Companion: Blood of the Beast © 2016, Paizo Inc.; Authors: Alexander Augunas, John Compton, and Crystal Frasier.
 
     Pathfinder Player Companion: Blood of the Elements © 2014, Paizo Inc.; Authors: Tim Akers, Judy Bauer, Jim Groves, Chris Lites, Dale C. McCoy, Jr., and Cassidy Werner.
+
+    Pathfinder Player Companion: Blood of Shadows © 2016, Paizo Inc.; Authors: Alexander Augunas, Steven T. Helt, Luis Loza, and Ron Lundeen.

@@ -75,6 +75,7 @@ Occultists gain access to the following spells, determined by their chosen imple
 - **[Preserve](preserve.md)**: Stop spoilage of objects for a week
 - **[Rune Trace](rune-trace.md)**: Learn a rune’s age, language, and purpose.
 - **[Sculpted Cape](sculpted-cape.md)**: Your cape stiffens and holds its shape.
+- **[Shadow Trap](shadow-trap.md)**: pins the target's shadow so it is entangled
 - **[Shield](shield.md)**: Invisible disc gives +4 to AC, blocks *magic missiles.*
 - Shock Shield
 - Warding Weapon
@@ -196,6 +197,7 @@ Occultists gain access to the following spells, determined by their chosen imple
 - **[Crimson Confession](crimson-confession.md)**
 - **[Debasing Touch](debasing-touch.md)**: Target's touch turns coins to copper.
 - **[Escape Alarm](escape-alarm.md)**: Ward an area to alert you when someone leaves
+- **[Fear the Sun](fear-the-sun.md)**: targets gain light blindness
 - **[Force Sword](force-sword.md)**: Create a longsword of pure force.
 - **[Hidden Knowledge](hidden-knowledge.md)**: Store knowledge in a tattoo, forgetting it temporarily.
 - **[Hoodwink](hoodwink.md)**: Befuddle targets so they can be led away
@@ -366,7 +368,9 @@ Occultists gain access to the following spells, determined by their chosen imple
 - **[Magic Circle against Law](magic-circle-against-law.md)**
 - **[Mark of Buoyancy](mark-of-buoyancy.md)**: make an object lighter than air
 - **[Mnemonic Siphon](mnemonic-siphon.md)**: rune that steals spells cast near an object
+- **[Motes of Dusk and Dawn](motes-of-dusk-and-dawn.md)**: up to four motes that shed light or darkness
 - **[Nondetection](nondetection.md)**: Hides subject from divination, scrying.
+- **[Penumbral Disguise](penumbral-disguise.md)**: shadowy illumination masks your features
 - **[Poison Exchange](poison-exchange.md)**: Swallow one poison and regurgitate another.
 - **[Protection from Energy](protection-from-energy.md)**: Absorbs 12 points/level of damage from one kind of energy.
 - Resist Energy, Communal
@@ -374,7 +378,9 @@ Occultists gain access to the following spells, determined by their chosen imple
 - **[Rags to Riches](rags-to-riches.md)**: Objects function as masterwork with extra bonuses.
 - **[Retributive Reparations](retributive-reparations.md)**: Thieves of the warded item grow fatigued, then exhausted.
 - **[Selective Alarm](selective-alarm.md)**: As *alarm*, but only against selected creatures.
+- **[Shadowmind](shadowmind.md)**: targets perceive the light level as one step darker
 - **[Shaper’s Touch](shapers-touch.md)**: Reshape an object as though it were clay.
+- **[Spotlight](spotlight.md)**: bright light on a target suppresses nearby light and ruins its Stealth
 - **[Summon Ship](summon-ship.md)**: conjure a ship
 - **[Thaumaturgic Circle](thaumaturgic-circle.md)**: As magic circle, but affecting a nonalignment subtype or outsider race.
 - **[Threefold Sight](threefold-sight.md)**: Roll three d20 and take the middle result.
@@ -405,6 +411,7 @@ Occultists gain access to the following spells, determined by their chosen imple
 - **[Seek Thoughts](seek-thoughts.md)**: Detects thinking creatures’ thoughts.
 - Share Language, Communal
 - **[Symbol of Revelation](symbol-of-revelation.md)**: Triggered symbol reveals illusions.
+- **[Wall of Split Illumination](wall-of-split-illumination.md)**: a wall that is bright on one side and dark on the other
 - **[Witness](witness.md)**: See through the target’s eyes and ears.
 
 **Enchantment**:
@@ -511,6 +518,7 @@ Occultists gain access to the following spells, determined by their chosen imple
 - **[Hero's Spellsword](heros-spellsword.md)**: Merge a rod or staff into a melee weapon.
 - **[Life Bubble](life-bubble.md)**: Protects creatures from sustained environmental effects.
 - Nondetection, Communal
+- **[Masochistic Shadow](masochistic-shadow.md)**: a shadow attacks the target, dealing Strength damage each round
 - **[Peacebond, Greater](peacebond-greater.md)**: As *peacebond*, but on multiple weapons, even if they aren’t sheathed.
 - **[Revenant Armor](revenant-armor.md)**: Armor animates around its fallen wearer.
 - **[Rising Water](rising-water.md)**: Conjures a cylinder of calm, swimmable water.
@@ -522,6 +530,7 @@ Occultists gain access to the following spells, determined by their chosen imple
 - **[Symbol of Sealing](symbol-of-sealing.md)**: Create triggered wall of force.
 - **[Telepathic Silence](telepathic-silence.md)**: Blocks telepathy and thought reading in an area.
 - **[True Form](true-form.md)**: Removes polymorph effects.
+- **[Umbral Infusion](umbral-infusion.md)**: a mindless undead gains the advanced template but may go out of control
 - **[Unbreakable Construct](unbreakable-construct.md)**: Increase construct hardness or DR.
 - Wreath of Blades
 
@@ -753,6 +762,7 @@ Occultists gain access to the following spells, determined by their chosen imple
 - **[Planar Binding](planar-binding.md)**: As *lesser planar binding,* but up to 12 HD.
 - **[Transfiguring Touch](transfiguring-touch.md)**: Convert an object into iron, paper, or wood.
 - **[Treacherous Teleport](treacherous-teleport.md)**: As *teleport*, except you choose some creatures to suffer a mishap or go elsewhere.
+- **[Umbral Strike](umbral-strike.md)**: a bolt of dark energy deals cold and negative damage and blinds
 - **[Wall of Iron](wall-of-iron.md)**: 30 hp/four levels; can topple onto foes.
 
 **Divination**:

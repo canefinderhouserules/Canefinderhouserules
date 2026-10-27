@@ -3073,3 +3073,277 @@ Even though this translucent, 1-foot-long candle resembles an icicle, it refuses
 This 1-inch-long, clear glass vial is filled with a dark, amber-colored fluid that resembles the twisting, flickering form of a fire elemental. The vial is sealed with a brass cap and attached to a lightweight gold chain. When the chain is wrapped around a divine caster's holy symbol, the saving throw DC of the next *banishment* or *dismissal* spell he casts on an outsider with the fire subtype is increased by 4, and additionally, the caster gains a +2 alchemical bonus on the caster level check to overcome the creature's spell resistance against the spell. If the spell is successful, the outsider leaves behind a small pile of magical ashes and the phlogiston vial cannot be used to banish outsiders again until the oil inside is replaced as a standard action (see below). If the ashes are collected and placed inside the vial, and the vial is used as an additional material component for a *planar ally* spell, the spell conjures the exact same outsider, provided the creature is a viable target of that spell. The owner of the vial receives a +4 bonus on her Charisma check to negotiate with the creature. The ashes are consumed after an agreement with the creature is made. A phlogiston vial is a single-use item that can be recharged with a rare alchemical agent called phlogiston oil, which can only be found on the Plane of Fire and costs 2,000 gp when sold on the open market. The listed price is for a phlogiston vial full of phlogiston oil.
 
 **Construction Requirements:** Craft Wondrous Item, *banishment*, *planar ally*; **Cost** 1,650 gp
+
+## Illumination Items
+
+### Beaming (weapon special ability)
+
+**Slot** none; **CL** 10th; **Price** +1 bonus; **Weight** —
+
+**Aura** faint evocation
+
+Only ranged weapons can have the *beaming* ability. Once per day, as a swift action, a *beaming* weapon creates a number of glowing orbs equal to the weapon’s enhancement bonus. The orbs float around the wielder’s head like a halo and fire rays of light at the wielder’s foes. Once per round when the wielder makes an attack or full-attack with the *beaming* weapon, the wielder can expend one orb as a free action to fire a beam of searing light at any target within range. The orbs remain until expended or until the wielder sleeps.
+
+**Construction Requirements:** Craft Magic Arms and Armor, *searing light*; **Cost** +1 bonus
+
+### Brilliant Bulwark
+
+**Slot** none; **CL** 10th; **Price** 9,655 gp; **Weight** 4 lbs.
+
+**Aura** moderate evocation
+
+This +1 *blinding* buckler is made from a lustrous glass that is as hard as steel and reflects light like a mirror. The shield glows as a torch, though this light can be suppressed or resumed on command. The shield can be commanded to shine light as per *daylight* for up to 10 minutes each day. This duration need not be consecutive, but it must be used in 1-minute increments. The wielder can also expend this duration while activating the buckler’s *blinding* ability to increase the save DC by 1 for every 2 minutes of *daylight* duration expended. The shield must sit in natural bright light for at least 1 hour after its 10 minutes of *daylight* is expended before the ability can be used again.
+
+**Construction Requirements:** Craft Magic Arms and Armor, *daylight*, *light*; **Cost** 4,975 gp
+
+### Faithful Lantern
+
+**Slot** none; **CL** 9th; **Price** 2,500 gp; **Weight** 2 lbs.
+
+**Aura** moderate abjuration and conjuration
+
+This fine, silver bullseye lantern is embossed with the image of a stoic sentinel. It functions as a bullseye lantern that doesn’t require oil to function. On command, the lantern floats alongside its user, shedding its light in whichever direction the user is looking.
+
+Once per day on command, the lantern can be designated to stand guard for up to 8 hours. The lantern ceases to shed light and keeps watch over a 30-foot-radius area centered on itself. The lantern acts as the *alarm* spell, except it is activated only by creatures that are Small or larger, and it cannot see invisible creatures. If the lantern detects a creature, it notifies the user that commanded the lantern with a mental alarm, waking the user if necessary. Once the lantern notifies its user, it shines its light on the intruder until commanded to stop.
+
+**Construction Requirements:** Craft Wondrous Item, *alarm*, *light*, *mage’s faithful hound*, *unseen servant*; **Cost** 1,250 gp
+
+### Luminous Lockpicks
+
+**Slot** none; **CL** 3rd; **Price** 6,000 gp; **Weight** 2 lbs.
+
+**Aura** faint transmutation
+
+This set of fine, masterwork thieves’ tools glimmer when exposed to light. When held in hand, they glow with light visible only to the individual holding them. This light allows the holder to work in all manners of darkness, including magical darkness, unimpeded and without attracting the attention of other creatures. This light does not provide enough illumination to see anything beyond a single lock or similar device on which the tools are used. As they glow, the tools vary their color, indicating favorable or unfavorable positioning within a device. These guiding lights grant a +5 circumstance bonus on Disable Device checks.
+
+**Construction Requirements:** Craft Wondrous Item, *knock*; **Cost** 3,000 gp
+
+### Palelight Torch
+
+**Slot** none; **CL** 2nd; **Price** 250 gp; **Weight** 1 lb.
+
+**Aura** faint evocation
+
+This torch is made from a dull, gray wood that bears intricate carvings. It burns like a normal torch, but only gives off dim light in a 40-foot radius. In areas of normal light, the torch reduces the light level to dim. The torch has no effect in areas of bright light.
+
+**Construction Requirements:** Craft Wondrous Item, *light*; **Cost** 125 gp
+
+### Radiant Panel
+
+**Slot** none; **CL** 5th; **Price** 12,000 gp; **Weight** —
+
+**Aura** faint evocation
+
+This small glass cube bears shallow indents carved into each side. Pressing an indentation as a standard action creates a thin sheet of hard light that is 5 feet wide. The sheet covers one edge of a 5-foot square, chosen at activation. While active, the sheet blocks attacks as if it is a solid wall, granting total cover against attacks and spells that pass through this edge. The sheet has hardness 10 and 30 hp. Force effects bypass this sheet, acting normally. The edge chosen can even be a horizontal one, creating a platform that can hold 500 pounds of weight.
+
+Once active, the cube anchors itself in place, preventing the sheet from moving. Moving the cube while it is active requires a successful DC 22 Strength check. If the cube moves or if more than 500 pounds of weight is added to the sheet, the sheet shatters, requiring another activation to create a new sheet. Light sheets created by the cube remain for 1 minute and a cube can create up to 5 sheets per day. A sheet can be dismissed as a standard action, expending the full use of that sheet.
+
+**Construction Requirements:** Craft Wondrous Item, *floating disk*; **Cost** 6,000 gp
+
+## Shadow Ink Tattoos
+
+### Mesmerizing Tattoo
+
+**Slot** none; **CL** 5th; **Price** 10,800 gp; **Weight** —
+
+**Aura** faint enchantment
+
+This shadowy tattoo is drawn in a spiraling pattern down one of the bearer’s arms. If the tattoo is visible, the wearer gains a +2 circumstance bonus on Diplomacy checks. Whenever the bearer uses the hypnotism occult skill unlock, casts an enchantment spell that targets a single creature, or uses the hypnotic stare class feature, her target takes a –1 penalty on Will saving throws for the ability’s duration and the DC to affect the target with the hypnotism occult skill unlock is reduced by 1. This is a mind-affecting effect.
+
+**Construction Requirements:** Inscribe Magical Tattoo, *suggestion*; **Cost** 5,400 gp
+
+### Penumbra Tattoo
+
+**Slot** none; **CL** 3rd; **Price** 24,000 gp; **Weight** —
+
+**Aura** faint evocation
+
+This ritualistic scar is infused with shadowstuff that shifts and writhes within the bearer’s skin. Whenever the bearer is exposed to illumination brighter than dim light, the tattoo emits a vapor, shrouding the bearer in a dusky haze that provides the benefits of [*protective penumbra*](../magic/spells/protective-penumbra.md).
+
+**Construction Requirements:** Inscribe Magical Tattoo, *protective penumbra*; **Cost** 12,000 gp
+
+### Swirling Smoke Tattoo
+
+**Slot** none; **CL** 5th; **Price** 12,500 gp; **Weight** —
+
+**Aura** faint enchantment
+
+This simple tattoo emits a constant haze of odorless, shadowy smoke around the limbs of its bearer that she can animate with a thought, hiding herself behind a screen of smoke. If the tattoo is visible when the bearer is hit by a melee or ranged attack or when the bearer fails a Reflex save, the wearer can activate the tattoo to shroud herself in mist as an immediate action. This imposes a 20% miss chance on attacks made against the bearer. On a failed Reflex save, it grants the ability to reroll the Reflex save and gain a +4 bonus. The bearer can use this ability three times per day.
+
+**Construction Requirements:** Inscribe Magical Tattoo, *blur*; **Cost** 6,250 gp
+
+## Shadowcraft Weapons
+
+### Shadowcraft Weapon
+
+**Slot** none; **CL** 10th; **Price** 12,500 gp; **Weight** varies
+
+**Aura** moderate illusion
+
+This highly malleable weapon is forged from insubstantial darkness using a combination of illusion and transmutation magic. Each shadowcraft weapon is designed with a base type (melee or ranged) and handedness (one-handed or two-handed for ranged weapons, and light, one-handed, or two-handed for melee weapons). Ranged shadowcraft weapons that use ammunition create their own projectiles out of shadow, but they can be loaded with and fire other types of ammunition, as well.
+
+The wielder of a shadowcraft weapon can alter the weapon’s shape as a standard action simply by picturing the form she wishes it to assume. A shadowcraft weapon can assume the form of any masterwork weapon that shares its type and handedness, regardless of its categorization as simple, martial, or exotic. Shadowcraft weapons are able to take the shape of weapons of different size categories, as long as they would be treated as the appropriate level of handedness for the shadowcraft weapon’s true size. For example, a Medium two-handed melee shadowcraft weapon can become a greatsword sized for a Medium creature, or a longsword sized for a Large creature (which a Medium creature would treat as a two-handed weapon).
+
+Shadowcraft weapons are quasi-real and deal less damage if an opponent realizes this. The first time each round that a creature is hit with a shadowcraft weapon, that creature can attempt a Will saving throw to disbelieve (DC = 15 + twice the weapon’s enhancement bonus, if any). On a failed check, the weapon deals damage normally. On a successful save, all of the weapon’s attacks against that creature do minimum damage until the wielder’s next turn, and that creature gains a +4 bonus on subsequent saving throws to disbelieve the attacks of that wielder’s shadowcraft weapon. Shadowcraft weapons deal only 1 point of damage to objects. In addition, the wielder of a shadowcraft weapon gains a +1 bonus on attack rolls and adds +1 to the save DC to disbelieve the attack if the opponent is in an area of dim light or darkness. In contrast, the wielder takes a –1 penalty on attack rolls and to the save DC to disbelieve the attack if the opponent is in an area of bright light.
+
+A shadowcraft weapon can be enhanced like any other masterwork weapon and it retains all of its abilities between transformations, including enhancement bonuses and weapon special abilities, except those prohibited by its current shape. For example, a *keen* shadowcraft weapon functions normally in the form of a piercing or slashing weapon, but cannot use the *keen* special ability while in the shape of a bludgeoning weapon. A shadowcraft weapon retains the last appearance it was commanded to assume until its wielder commands it to assume a different form.
+
+**Construction Requirements:** Craft Magic Arms and Armor, *major creation*, *shadow weapon*; **Cost** 6,250 gp
+
+### Enervative Shadowcraft Weapon
+
+**Slot** none; **CL** 12th; **Price** 36,000 gp; **Weight** varies
+
+**Aura** strong illusion and necromancy
+
+This shadowcraft weapon glows with palpable malice, its hunger ceaselessly gnawing upon the wits of its wielder. Whenever the wielder of an *enervative shadowcraft weapon* confirms a critical hit with the weapon against an opponent that failed its Will saving throw to disbelieve, the opponent gains 1 negative level. One day after being struck, a target must succeed at a Fortitude saving throw (DC = 15 + the weapon’s enhancement bonus, if any) for each negative level gained or any such levels become permanent.
+
+**Construction Requirements:** Craft Magic Arms and Armor, *enervation*, *major creation*, *shadow weapon*; **Cost** 18,000 gp
+
+### Focused Shadowcraft Weapon
+
+**Slot** none; **CL** 12th; **Price** 13,000 gp; **Weight** varies
+
+**Aura** strong illusion
+
+This melee shadowcraft weapon is designed to act as a conduit for shadow magic, enhancing a spell’s potency when the weapon is involved in its casting. As a swift action, a *focused shadowcraft weapon* can be used to increase the caster level of any spell of the shadow subschool or spell with the darkness or shadow descriptors by 1.
+
+**Construction Requirements:** Craft Magic Arms and Armor, *imbue with spell ability*, *major creation*, *shadow weapon*; **Cost** 6,500 gp
+
+### Lashing Shadowcraft Weapon
+
+**Slot** none; **CL** 10th; **Price** 14,500 gp; **Weight** varies
+
+**Aura** moderate illusion and transmutation
+
+This two-handed melee shadowcraft weapon is extremely ductile, and it easily bends and stretches without hampering its ability to harm opponents. On command, a *lashing shadowcraft weapon* can be extended as a swift action, increasing the weapon’s reach by 5 feet for 1 round. While extended, the wielder does not threaten adjacent creatures, or creatures up to 10 feet away if the weapon already has reach.
+
+**Construction Requirements:** Craft Magic Arms and Armor, *long arm*, *major creation*, *shadow weapon*; **Cost** 7,250 gp
+
+### Feast of Rats
+
+**Slot** none; **CL** 19th; **Price** 45,125 gp; **Weight** varies
+
+**Aura** strong evocation and illusion
+
+A swarm of shadowy rats clump together to form this +1 *stalking* light melee shadowcraft weapon. Three times per day, the wielder can throw the weapon into one square within 10 feet while speaking a command word, causing the weapon to disperse into a shadowy haze that functions as *fog cloud*. Each round, any creature within the *fog cloud* takes 1d6 points of damage and must succeed at a DC 19 Fortitude saving throw or become nauseated for 1 round. This effect lasts for 1 minute, after which the weapon returns to its previous form. Alternatively, any time before the effect’s duration ends, the wielder can spend a move action while adjacent to the *fog cloud* to return the weapon to its previous form, dismissing the effect and returning the weapon to her hand. A *feast of rats* can be used as a divine focus by clerics of deities of rats, thieves, and darkness. Like the *torment of the chained skull*, it is tied to a specific deity that grants the Darkness domain, and that deity’s church often sees it as a holy relic.
+
+**Construction Requirements:** Craft Magic Arms and Armor, Create Reliquary Arms and Shields, *deeper darkness*, *fog cloud*, *major creation*, *shadow weapon*; **Cost** 22,712 gp
+
+### Torment of the Chained Skull
+
+**Slot** none; **CL** 19th; **Price** 60,000 gp; **Weight** varies
+
+**Aura** strong illusion and necromancy
+
+This +1 *vicious* two-handed melee shadowcraft weapon has the texture and consistency of coagulated blood. A shadowy, chained skull always features prominently upon it regardless of what form a *torment of the chained skull* assumes. Any creature suffering a bleed effect takes a penalty on Will saving throws to disbelieve the weapon’s attacks equal to half the bleed damage the creature took on its last turn. In addition, all damage dealt to a foe by the *vicious* weapon special ability of a *torment of the chained skull* in any illumination condition other than bright light doesn’t heal naturally and resists magical healing. A character attempting to use magical healing on a creature damaged by a *torment of the chained skull* must succeed at a DC 21 caster level check, or the healing has no effect on the injured creature. Damage done to the wielder of a *torment of the chained skull* does not have this effect, and can be healed normally. It can be used as a divine focus by clerics of deities of pain and darkness, and its deity’s church often sees it as a holy relic.
+
+**Construction Requirements:** Craft Magic Arms and Armor, Create Reliquary Arms and Shields, *major creation*, *shadow weapon*, *symbol of pain*; **Cost** 30,000 gp
+
+## Shadow Magic Items
+
+### Eclipsed Metamagic Rod
+
+**Slot** none; **CL** 17th; **Price** Lesser 1,500 gp; normal 5,500 gp; greater 12,250 gp; **Weight** 5 lbs.
+
+**Aura** strong (no school)
+
+The wielder can cast up to three spells per day that alter how the spell raises or lowers the illumination level in their affected areas as though using the Eclipsed Spell feat (see [metamagic feats](../characters/options/metamagic.md)).
+
+**Construction Requirements:** Craft Rod, Eclipsed Spell; **Cost** lesser 750 gp; normal 2,750 gp; greater 6,125 gp
+
+### Eye-Stealing Locket
+
+**Slot** none; **CL** 3rd; **Price** 24,000 gp; **Weight** —
+
+**Aura** faint necromancy
+
+This silver locket is suspended from a silver chain. As a standard action, a creature holding the locket can speak a command word to attempt to steal the sight of one creature within 30 feet. The target must succeed at a DC 13 Fortitude saving throw or its eyes are immediately sealed within the locket’s interior and replaced with featureless, shadowy orbs, causing the creature to be permanently blinded. The wielder can speak a second command word to return the victim’s eyes; otherwise, this blindness cannot be removed except by *miracle* or *wish*.
+
+Each eye-stealing locket can contain only a single set of eyes at a time, and the creature in possession of the locket is treated as having a body part of the creature to whom the eyes belong for the purpose of spells such as *scrying*. If the wielder is a mesmerist and he uses an eye-stealing locket against the target of his hypnotic stare, he can apply the Will saving throw penalty from his hypnotic stare to the Fortitude saving throw the target attempts to prevent its eyes being stolen.
+
+**Construction Requirements:** Craft Wondrous Item, *blindness/deafness*; **Cost** 12,000 gp
+
+### Rod of Delumination
+
+**Slot** none; **CL** 17th; **Price** 35,000 gp; **Weight** 5 lbs.
+
+**Aura** strong evocation
+
+This silvery rod is spoon-sized and utterly featureless. A creature holding a *rod of delumination* can extinguish any ability, item, or spell effect that is acting as a light source simply by pointing one end of the rod at the light and uttering a command word. Sources of magical light receive a DC 15 Will saving throw to negate this effect and have a Will save bonus equal to half their caster level; if the original caster of the effect is still within the spell’s range, the spell can use its caster’s Will save bonus instead. If a light source succeeds at its saving throw against a *rod of delumination*, the same rod cannot affect it again for 24 hours. No other properties of an affected creature, item, or spell are altered other than its ability to shed light; a torch continues to burn, a lantern continues to consume oil, and so on.
+
+The bearer can, if she chooses, utter a second command word to reignite any light source the rod has previously extinguished, provided that the light source’s normal duration hasn’t expired.
+
+**Construction Requirements:** Craft Rod, Snuffing Spell; **Cost** 17,500 gp
+
+### Shadowbond Tunic
+
+**Slot** chest; **CL** 3rd; **Price** 12,000 gp; **Weight** 5 lbs.
+
+**Aura** faint abjuration
+
+This black linen tunic has simple brass buttons. Once per day, the wielder can attune the garment to one ally by standing for 1 minute in a position in which both the wielder’s and his ally’s shadows overlap. For the next 24 hours, whenever the wielder is adjacent to that ally and that ally takes damage, the wielder can sacrifice up to 10 hit points to prevent an equal amount of damage done to the ally. This damage cannot be reduced or redirected, and if the wielder is incapable of sacrificing hit points, the damage to the ally cannot be prevented. If the tunic is removed before its duration ends, the connection between the wielder and ally is lost and the tunic is powerless until 24 hours have passed since its last attunement.
+
+**Construction Requirements:** Craft Wondrous Item, *shield other*; **Cost** 6,000 gp
+
+### Shadowshooting (weapon special ability)
+
+**Slot** none; **CL** 8th; **Price** +1 bonus; **Weight** —
+
+**Aura** moderate conjuration
+
+This special ability can only be added to ranged projectile weapons (including slings and sling-like weapons). Black smoke constantly wafts from the firing mechanism of a *shadowshooting* weapon. A *shadowshooting* weapon never needs to be reloaded; after a shot is fired, this smoke immediately coalesces into the ammunition required to fire the weapon again. This doesn’t prevent a *shadowshooting* weapon from firing ordinary projectiles appropriate to the weapon.
+
+Ammunition created by this ability is only quasi-real, and the first time each round an opponent is hit by a piece of ammunition that this ability has created, it can attempt a Will saving throw to disbelieve (DC = 15 + the weapon’s enhancement bonus). A failed Will saving throw means the weapon deals damage normally, while success means the weapon deals minimum damage against that opponent for 1 round.
+
+**Construction Requirements:** Craft Magic Arms and Armor, *reloading hands*, *shadow weapon*; **Cost** +1 bonus
+
+### Shawl of Shadowy Disguise
+
+**Slot** head; **CL** 5th; **Price** 1,350 gp; **Weight** 1 lb.
+
+**Aura** faint illusion
+
+This violet shawl twists and melds with the darkness, becoming as black as coal in even the faintest shadow. While worn, the wearer can hide her appearance as if with a [*penumbral disguise*](../magic/spells/penumbral-disguise.md) spell. Onlookers never discern that the wearer was wearing a *shawl of shadowy disguise*.
+
+**Construction Requirements:** Craft Wondrous Item, *penumbral disguise*; **Cost** 675 gp
+
+### Snuffing Metamagic Rod
+
+**Slot** none; **CL** 17th; **Price** Lesser 9,000 gp; normal 32,500 gp; greater 73,000 gp; **Weight** 5 lbs.
+
+**Aura** strong (no school)
+
+The wielder can cast up to three spells per day that extinguish magical and nonmagical sources of light active on the target as though using the Snuffing Spell feat (see [metamagic feats](../characters/options/metamagic.md)).
+
+**Construction Requirements:** Craft Rod, Snuffing Spell; **Cost** lesser 4,500 gp; normal 16,250 gp; greater 36,500 gp
+
+### Soles of the Silent Stride
+
+**Slot** feet; **CL** 3rd; **Price** 8,250 gp; **Weight** —
+
+**Aura** faint transmutation
+
+These simple leather shoes are the color of a moonless night and instantly adjust to the wearer’s foot shape, becoming skintight while providing magical cushioning and support. The wearer gains a +5 competence bonus on Stealth checks and can attempt Stealth checks while running at a –20 penalty.
+
+**Construction Requirements:** Craft Wondrous Item, *silence*; **Cost** 4,125 gp
+
+### Tome of Dissolution
+
+**Slot** none; **CL** 5th; **Price** 2,000 gp; **Weight** 1 lb.
+
+**Aura** faint illusion
+
+This shadowy, waterproof tome is 12 inches tall, 8 inches wide, and 1 inch thick. When viewed in dim, normal, or bright light, the tome’s 1,000 ebon pages are blank and any new writing immediately fades from sight, as if *erase* had been cast upon the page. When viewed in darkness, however, each page becomes outlined with pale, silvery light and anything then written in the tome is recorded in similar, silvery light. Writings within the tome are protected as per *nondetection*. A *tome of dissolution* can be used as a formula book or a spellbook; if so, extracts and spells can only be prepared from the tome when viewed in darkness. Necromancy spells, spells of the shadow subschool, and spells with the darkness or shadow descriptor take half as many pages when copied into a *tome of dissolution* as they would in a normal spellbook or formula book.
+
+**Construction Requirements:** Craft Wondrous Item, *erase*, *nondetection*, *secret page*; **Cost** 1,000 gp
+
+### Voidlight Lantern
+
+**Slot** none; **CL** 5th; **Price** 30,000 gp; **Weight** 2 lbs.
+
+**Aura** faint evocation
+
+This ornately designed lantern is crafted from volcanic glass. When lit, the lantern’s magic creates an area of darkness in a 20-foot radius and lowers the illumination level by one step for an additional 20 feet beyond that area (bright light becomes normal light, normal light becomes dim light, and dim light becomes darkness). If used in an area of darkness, a *voidlight lantern* creates an area of supernatural darkness (as per *deeper darkness*) in a 20-foot radius instead.
+
+**Construction Requirements:** Craft Wondrous Item, *deeper darkness*; **Cost** 15,000 gp

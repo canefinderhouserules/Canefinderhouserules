@@ -76,6 +76,10 @@ The following racial traits represent a fey ancestor in the family line. They ca
 
 **Alert for Betrayal**: Some half-elves' skepticism of apparent allies makes them cynical and stubborn. These half-elves gain a +2 racial bonus on saves against illusion spells and effects. Perception and Sense Motive are class skills for them. This racial trait replaces adaptability.
 
+### Drow Lineage Alternate Racial Traits
+
+Half-elves with a drow ancestor can choose from the alternate racial traits listed on the [drow page](drow.md#alternate-racial-traits) (Daylight Adaptation excepted), such as Drow Heritage, Flexible Half-Breed, Hidden Half-Breed, Lesser Spell-Like Abilities, Psychic Sensitivity and Spell Resistance. The [darkborn traits](shadowborn-traits.md#darkborn-alternate-racial-traits) and [shadowborn traits](shadowborn-traits.md#shadowborn-alternate-racial-traits) are also available.
+
 ## Racial Subtypes
 
 You can combine various alternate racial traits to create half-elven subraces or variant races, such as the following.

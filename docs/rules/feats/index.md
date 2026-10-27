@@ -1571,6 +1571,9 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Blades Above and Below](blades-above-and-below.md) | Combat, Teamwork | Base attack bonus +6 |
 | [Bless Equipment](bless-equipment.md) | General | Caster level 3rd, channel energy class feature |
 | [Blessed Hammer](blessed-hammer.md) | — | Ability to cast 3rd-level divine spells, proficient with warhammer, worshiper of a deity whose favored weapon is the warhammer |
+| [Blinded Blade Style](blinded-blade-style.md) | Combat, Style | Blind-Fight, Perception 5 ranks |
+| [Blinded Competence](blinded-competence.md) | Combat | Blinded Blade Style, Blind-Fight, Improved Blind-Fight, Perception 10 ranks |
+| [Blinded Master](blinded-master.md) | Combat | Blind-Fight, Blinded Blade Style, Blinded Competence, Greater Blind-Fight, Improved Blind-Fight, Perception 15 ranks |
 | [Blinding Stare](blinding-stare.md) | Combat, Stare | Mesmerist level 7th, painful stare class feature |
 | [Blissful Spell](blissful-spell.md) | Metamagic | — |
 | [Blood Tide](blood-tide.md) | Combat | Combat Expertise, Greater Blood Frenzy, base attack bonus +6, blood frenzy ability, sahuagin |
@@ -1644,6 +1647,9 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Clarifying Channel](clarifying-channel.md) | — | Channel energy class feature, worshiper of a deity of art and love |
 | [Claw Wrench](claw-wrench.md) | Combat | Dex 13, Improved Grapple, Improved Unarmed Strike |
 | [Cleaving Sweep](cleaving-sweep.md) | Combat | Str 15, Cleave, Improved Trip, Weapon Focus (greataxe), base attack bonus +11 |
+| [Cloak and Dagger Style](cloak-and-dagger-style.md) | Combat, Style | Int 13, Combat Expertise, Improved Dirty Trick, Vital Strike, Weapon Focus with the chosen weapon, base attack bonus +6 |
+| [Cloak and Dagger Subterfuge](cloak-and-dagger-subterfuge.md) | Combat | Int 13, Cloak and Dagger Style, Combat Expertise, Improved Dirty Trick, Weapon Focus with the chosen weapon, base attack bonus +11 |
+| [Cloak and Dagger Tactics](cloak-and-dagger-tactics.md) | Combat | Int 13, Cloak and Dagger Style, Cloak and Dagger Subterfuge, Combat Expertise, Improved Dirty Trick, Vital Strike, Weapon Focus with the chosen weapon, base attack bonus +16 |
 | [Cloak of Feathers](cloak-of-feathers.md) | — | Cha 13, strix |
 | [Close Call](close-call.md) | — | Deft Hands |
 | [Cold Celerity](cold-celerity.md) | — | Endurance |
@@ -1694,6 +1700,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Creative Armorsmith](creative-armorsmith.md) | Combat | Craft (armor) 3 ranks, Knowledge (engineering) 3 ranks |
 | [Creative Weaponsmith](creative-weaponsmith.md) | Combat | Craft (weapons) 3 ranks, Knowledge (engineering) 3 ranks |
 | [Creature Focus](creature-focus.md) | — | No levels in a class that grants the favored enemy class feature |
+| [Crepuscular Cowl](crepuscular-cowl.md) | — | Stealth 9 ranks, shadow blending racial trait or shadow call shadowdancer class feature |
 | [Criminal Reputation](criminal-reputation.md) | — | Diplomacy 5 ranks, Intimidate 5 ranks |
 | [Crisis of Conscience](crisis-of-conscience.md) | Story | Lawful neutral, neutral, or chaotic neutral alignment. Your alignment must have shifted from either good or evil at least once since 1st level or the last time you completed this feat (see Special) |
 | [Critical Conduit](critical-conduit.md) | — | Deliver touch spells ability, familiar |
@@ -1789,6 +1796,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Dragonheart](dragonheart.md) | — | Knowledge (arcana) 1 rank |
 | [Dragonslayer](dragonslayer.md) | Combat | Knowledge (arcana) 4 ranks, base attack bonus +4 |
 | [Dreamed Secrets](dreamed-secrets.md) | — | Ability to cast divine spells, caster level 7th, worshiper of an alien or eldritch power |
+| [Drow Spirit](drow-spirit.md) | — | Half-elf |
 | [Druidic Decoder](druidic-decoder.md) | — | Linguistics 1 rank, cannot be a druid |
 | [Drunkard’s Recovery](drunkard-s-recovery.md) | — | Con 13 |
 | [Drunken Brawler](drunken-brawler.md) | Combat | Endurance, worshiper of a deity of freedom and ale |
@@ -1856,6 +1864,9 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Extra Feature](extra-feature.md) | — | Con 13, skinwalker |
 | [Extra Impromptu Sneak Attack](extra-impromptu-sneak-attack.md) | Combat | Impromptu sneak attack class feature |
 | [Extra Item Slot](extra-item-slot.md) | — | Non-humanoid body shape |
+| [Extra Light and Dark](extra-light-and-dark.md) | — | Light and dark racial trait, wayang |
+| [Extra Ninja Trick](extra-ninja-trick.md) | — | Ninja trick class feature |
+| [Extra Shadow Jump](extra-shadow-jump.md) | — | Shadow jump shadowdancer class feature |
 | [Extra Spontaneous Spell Mastery](extra-spontaneous-spell-mastery.md) | — | Spontaneous spell mastery class feature |
 | [Extra Variance](extra-variance.md) | — | Channeling Variance or variant channeling ability, channel energy class feature |
 | [Extraplanar Conjunction](extraplanar-conjunction.md) | Teamwork | Any racial spell-like ability, outsider |
@@ -1899,6 +1910,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Flaying Critical](flaying-critical.md) | Combat, Critical | Critical Focus, base attack bonus +11 |
 | [Fleeting Spell](fleeting-spell.md) | Metamagic | — |
 | [Flexible Foe](flexible-foe.md) | Combat | Base attack bonus +5, favored enemy (any humanoid or any outsider), favored enemy class feature |
+| [Flexible Shadow Jump](flexible-shadow-jump.md) | — | Shadow jump shadowdancer class feature |
 | [Flickering Step](flickering-step.md) | Conduit | Knowledge (planes) 9 ranks |
 | [Flight Mastery](flight-mastery.md) | Item Mastery | Use Magic Device 3 ranks, base Fortitude save bonus +6 |
 | [Fling](fling.md) | Combat | Flyby Attack, Powerful Wings, Snatch and Drop, Throw Anything |
@@ -2026,6 +2038,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Improved Precise Strike](improved-precise-strike.md) | Combat, Teamwork | Dex 13, Precise Strike, base attack bonus +4 |
 | [Improved Punishing Step](improved-punishing-step.md) | Combat | Dex 13, Dodge, Punishing Step, base attack bonus +8 |
 | [Improved Sabotaging Sunder](improved-sabotaging-sunder.md) | Combat | Str 13, Improved Sunder, Power Attack, Sabotaging Sunder, Disable Device 9 ranks |
+| [Improved Shadowy Resistance](improved-shadowy-resistance.md) | — | Fetchling, shadowy resistance racial trait |
 | [Improved Shield Focus](improved-shield-focus.md) | Combat | Shield Focus, base attack bonus +6 |
 | [Improved Toxicological Timing](improved-toxicological-timing.md) | — | Craft (alchemy) 11 ranks, Toxicological Timing |
 | [Improvisational Healer](improvisational-healer.md) | — | Heal 1 rank |
@@ -2337,6 +2350,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Serpentine Compression](serpentine-compression.md) | — | Serpentfolk |
 | [Shadow Dodge](shadow-dodge.md) | — | Dex 13, worshiper of a deity of secrets |
 | [Shadow Gambit](shadow-gambit.md) | — | Spell Focus (illusion), caster level 5th |
+| [Shadow Magic Defense](shadow-magic-defense.md) | — | *Disguise self* racial spell-like ability or shadow illusion shadowdancer class feature |
 | [Shadow Shroud](shadow-shroud.md) | — | Combat Reflexes, *darkness* racial spell-like ability |
 | [Shadow's Shroud](shadows-shroud.md) | Conduit | Knowledge (planes) 5 ranks |
 | [Shadows of Fear](shadows-of-fear.md) | Combat | Hidden strike +2d8 or sneak attack +2d6 |
@@ -2480,6 +2494,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Sure on Ice](sure-on-ice.md) | — | Frost giant |
 | [Sure-Footed](sure-footed.md) | — | Quadruped animal or magical beast |
 | [Sure-Handed Alchemy](sure-handed-alchemy.md) | — | Craft (alchemy) 3 ranks |
+| [Surface Scout](surface-scout.md) | — | Drow, spell-like abilities drow racial trait |
 | [Surface Survivor](surface-survivor.md) | — | Con 15, gillman, water dependent racial trait |
 | [Surprising Combatant](surprising-combatant.md) | Combat | Improved Initiative, Bluff 3 ranks |
 | [Swap Trick](swap-trick.md) | Trick | Mesmerist tricks class feature |
@@ -2610,6 +2625,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Warren Digger](warren-digger.md) | — | Ghoul |
 | [Wasp Familiar](wasp-familiar.md) | — | Chaotic neutral alignment, worshiper of a chaotic neutral deity of lust, revenge, and trickery |
 | [Wave Master](wave-master.md) | — | Worshiper of a deity of the sea and nature |
+| [Wayang Soothsayer](wayang-soothsayer.md) | — | Wayang |
 | [Weapon Adept](weapon-adept.md) | Combat | — |
 | [Weapon Evoker Mastery](weapon-evoker-mastery.md) | Item Mastery | Use Magic Device 2 ranks, base Fortitude saving throw bonus +3 |
 | [Weapon Material Mastery](weapon-material-mastery.md) | Weapon Mastery | Base attack bonus +7, weapon training class feature with a melee weapon |

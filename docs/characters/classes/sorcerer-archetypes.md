@@ -1076,3 +1076,19 @@ Stories often tell of fox-folk with multiple tails, but not many realize that fe
 This archetype is available only to kitsune characters.
 
 **Magical Tail**: At 3rd level and every 4 levels thereafter, a nine-tailed heir gains [Magical Tail](../../rules/feats/magical-tail.md) as a bonus feat. If the nine-tailed heir already has nine tails, each additional time the feat is taken, the sorcerer gains one additional daily use of the lowest level Magical Tail ability not already affected by this effect. This ability replaces the bloodline spell class feature.
+
+## Umbral Scion
+
+Umbral scions are sorcerers who are able to expertly control their especially potent shadow heritage. The majority of umbral sorcerers hail from lightless underground realms.
+
+**Bloodline**: An umbral scion must have the shadow bloodline.
+
+**Diminished Spellcasting**: An umbral scion can cast one fewer spell per day of each level than normal. If this reduces the number to 0, she can cast spells of that level only if her Charisma score grants her bonus spells of that level. This ability alters the sorcerer's spellcasting.
+
+**Shrouded Spells (Su)**: An umbral scion is enveloped by wisps of shadow whenever she casts a spell. The DC to identify spells cast by an umbral scion increases by 2. If the spell is being cast within an area of dim light or darkness, the DC increases by 5 instead.
+
+**Encroaching Darkness (Su)**: An umbral scion is capable of influencing light around her. As a standard action, she can produce a 10-foot-radius veil centered on a creature or object within 30 feet. This veil decreases the light level by one step and remains for a number of rounds equal to the sorcerer's Charisma modifier. At 7th level, the veil increases to a 30-foot radius. At 8th level, the veil decreases the light level by two steps. If the light level is decreased past darkness, the veil is treated as *deeper darkness*. At 14th level, the veil increases to 60 feet and grants any creature within it cover (even against senses normally able to penetrate total darkness, such as the see in darkness ability). An umbral scion can use this ability a number of times per day equal to 3 + her Charisma modifier. This ability replaces the shadowstrike bloodline power.
+
+**Potent Shadows (Su)**: At 7th level, when an umbral scion casts a spell of the shadow subschool or a spell with the darkness or shadow descriptor within an area of dim light or darkness, she treats her caster level as 1 higher. Only the sorcerer herself needs to be in dim light or darkness. This bonus increases by 1 every 4 sorcerer levels beyond 7th she has to a maximum of +4 at 19th level. This ability replaces the 7th-level bloodline feat.
+
+**Crippling Darkness (Su)**: At 13th level, when an umbral scion targets a creature within an area of dim light or darkness with a spell of the shadow subschool or a spell with the darkness or shadow descriptor, the DC for the spell increases by 1. This bonus increases by 1 at 18th level. This ability replaces the 13th-level bloodline feat.

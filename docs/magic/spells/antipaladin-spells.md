@@ -12,6 +12,7 @@ New antipaladin spells from *Ultimate Magic*. Spells from other books will be ad
 - **[Coin Shot](coin-shot.md)**: Turns coins into bullets.
 - **[Conditional Favor](conditional-favor.md)**: Provide another spell whose effects reverse if the target breaks a restriction.
 - **[Crime of Opportunity](crime-of-opportunity.md)**: Compel a target to take a criminal action.
+- **[Dancing Darkness](dancing-darkness.md)**: up to four spheres of moving darkness
 - **[Dark Whispers](dark-whispers.md)**: Whisper through the shadows.
 - **[Darting Duplicate](darting-duplicate.md)**: Illusory duplicate baits attacks of opportunity.
 - **[Death Candle](death-candle.md)**: This spell functions like death knell, except instead of using the slain target’s life energy to enhance.
@@ -20,6 +21,7 @@ New antipaladin spells from *Ultimate Magic*. Spells from other books will be ad
 - **[Detect the Faithful](detect-the-faithful.md)**: Find others of the same faith.
 - **[Devouring Visage](devouring-visage.md)**: Hideous face grants Intimidate bonus and a bite.
 - **[Fabricate Disguise](fabricate-disguise.md)**: Create a disguise in an instant.
+- **[Fear the Sun](fear-the-sun.md)**: targets gain light blindness
 - **[Grasping Corpse](grasping-corpse.md)**: Cause a corpse to grab or trip a foe.
 - **[Guardian Armor](guardian-armor.md)**: Teleports your armor onto an ally.
 - **[Haunting Reminder](haunting-reminder.md)**: Coerced target becomes shaken if it betrays you.
@@ -44,8 +46,10 @@ New antipaladin spells from *Ultimate Magic*. Spells from other books will be ad
 - **[Sense Fear](sense-fear.md)**: Perceive nearby creatures that are experiencing fear.
 - **[Sentry Skull](sentry-skull.md)**: You restore the senses to the severed head of a humanoid or monstrous humanoid killed within the past 24.
 - **[Shadow Claws](shadow-claws.md)**: Gain shadow claws that damage Strength
+- **[Shadow Trap](shadow-trap.md)**: pins the target's shadow so it is entangled
 - **[Steady Saddle](steady-saddle.md)**: Steady a saddle for mounted ranged attacks
 - **[Summon Minor Monster](summon-minor-monster.md)**: Summon 1d3 Tiny animals.
+- **[Touch of Blindness](touch-of-blindness.md)**: touches blind creatures for 1 round
 - **[Wartrain Mount](wartrain-mount.md)**: Animal gains the combat training general purpose.
 
 ## 2nd-Level Antipaladin Spells
@@ -67,6 +71,7 @@ New antipaladin spells from *Ultimate Magic*. Spells from other books will be ad
 - **[Garrulous Grin](garrulous-grin.md)**: Target seems guilty and takes –4 on Bluff and Diplomacy.
 - **[Ghoul Hunger](ghoul-hunger.md)**: Target is compelled to eat a helpless or dead humanoid.
 - **[Hidden Blades](hidden-blades.md)**: Weapon becomes invisible and easy to conceal.
+- **[Ignoble Form](ignoble-form.md)**: a drow takes on a half-elf's form
 - **[Improve Trap](improve-trap.md)**: When this spell is cast upon a trap, it improves one specific element of the trap chosen at the time of.
 - **[Inflict Pain](inflict-pain.md)**: Target takes a –4 penalty on attack rolls, skill checks, and ability checks.
 - **[Ironskin](ironskin.md)**: Harden your skin to iron
@@ -89,6 +94,7 @@ New antipaladin spells from *Ultimate Magic*. Spells from other books will be ad
 - **[Reaper's Coterie](reapers-coterie.md)**: Weapon gains profane damage bonus for each kill.
 - **[Rotgut](rotgut.md)**: Turn water into cheap alcohol
 - **[Sense Vitals](sense-vitals.md)**: Gain sneak attack with any manufactured weapon.
+- **[Shadowmind](shadowmind.md)**: targets perceive the light level as one step darker
 - **[Shared Suffering](shared-suffering.md)**: Take damage to deal the same damage to a distant target.
 - **[Shifted Steps](shifted-steps.md)**: Make a target sound as if elsewhere.
 - **[Sickening Strikes](sickening-strikes.md)**: You are imbued with disease, and any creature you strike with a melee attack must make a Fortitude save or be.
@@ -108,6 +114,7 @@ New antipaladin spells from *Ultimate Magic*. Spells from other books will be ad
 
 - **[Accursed Glare](accursed-glare.md)**: Target rolls attacks and saves twice and takes the lower result.
 - **[Ancestral Regression](ancestral-regression.md)**: School transmutation (polymorph); Level alchemist 2, antipaladin 3, cleric 2, sorcerer/wizard 3, witch 2.
+- **[Ancestral Revision](ancestral-revision.md)**: a wayang appears as a gnome-like version of herself
 - **[Battle Trance](battle-trance.md)**: 3, witch 4 Casting Time 1 standard action Components V, S Range personal Target you Duration 1 minute/level.
 - **[Blade of Dark Triumph](blade-of-dark-triumph.md)**: Bonded weapon gains ghost touch.
 - **[Bloody Arrows](bloody-arrows.md)**: Ranged hits cause stacking bleed.
@@ -139,6 +146,7 @@ New antipaladin spells from *Ultimate Magic*. Spells from other books will be ad
 - **[Selective Invisibility](selective-invisibility.md)**: Invisible, except to one chosen creature you may attack.
 - **[Shadow Jaunt](shadow-jaunt.md)**: Teleport between shadows, leaving an image behind
 - **[Shared Sacrifice](shared-sacrifice.md)**: Redirect half your damage to a target.
+- **[Shield of Darkness](shield-of-darkness.md)**: magical darkness grants you total concealment
 - **[Stage Fright](stage-fright.md)**: Targets take –4 on ability, skill, and concentration checks.
 - **[Trial by Fire](trial-by-fire.md)**: Divine fire punishes targets whose alignment differs from your deity’s.
 - **[Unholy Ward](unholy-ward.md)**: Resist 10 damage from holy sources.
@@ -176,16 +184,19 @@ New antipaladin spells from *Ultimate Magic*. Spells from other books will be ad
 - **[Litany of Thunder](litany-of-thunder.md)**: A single target is deafened until the condition is removed, and is confused for 1 round.
 - **[Litany of Vengeance](litany-of-vengeance.md)**: Allies attacking the target of the spell gain a +5 bonus on damage rolls for 1 round.
 - **[Magic Siege Engine, Greater](magic-siege-engine-greater.md)**: Siege engine gains +1 on targeting and damage rolls for every four caster levels.
+- **[Masochistic Shadow](masochistic-shadow.md)**: a shadow attacks the target, dealing Strength damage each round
 - **[Night of Blades](night-of-blades.md)**: Wall of whirling blades.
 - **[Nondetection, Communal](nondetection-communal.md)**
 - **[Overwhelming Poison](overwhelming-poison.md)**: Make a poison more difficult to resist.
 - **[Profane Nimbus](profane-nimbus.md)**: Unholy energy damages good creatures that attack you and protects you from good attacks.
 - **[Reptilian Mark](reptilian-mark.md)**: Curse a creature with a glowing mark that slowly turns it into a lizard
+- **[Shadowform](shadowform.md)**: foes that fail to disbelieve deal only one-fifth damage
 - **[Shroud of Darkness](shroud-of-darkness.md)**: Plunge targets into supernatural darkness
 - **[Speak with Soul](speak-with-soul.md)**: Hold an extended conversation with a soul
 - **[Spellfire Jinx](spellfire-jinx.md)**: Cursed caster burns and may lose spells.
 - **[Torpid Reanimation](torpid-reanimation.md)**: *Animate dead* when a specific trigger condition occurs.
 - **[Transplant Visage](transplant-visage.md)**: Wear a stolen face for +10 on Disguise.
+- **[Umbral Infusion](umbral-infusion.md)**: a mindless undead gains the advanced template but may go out of control
 - **[Unholy Sword](unholy-sword.md)**: Weapon becomes +5, deals +2d6 damage vs. good.
 - **[Wall of Bone](wall-of-bone.md)**: A wall of grasping skeletal hands.
 

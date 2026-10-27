@@ -165,6 +165,12 @@ A warpriest can select any two blessings. Each blessing is named after the domai
 
 **Serpent Venom (Ex)**: Bite—injury; *save* Fort negates; *frequency* 1/round for 4 rounds; *effect* 1d2 Con; *cure* 1 save.
 
+## Shadow Blessing
+
+**Flicker of Shadows (minor)**: At 1st level, you can cause a weapon you touch to warp and become insubstantial for a split second before an attack. The first attack made with this weapon each round ignores any shield bonus to Armor Class, as well as bonuses from cover. Total cover still provides a creature its full benefit. This effect lasts for 1 minute.
+
+**Swift as Shadow (major)**: At 10th level, you can spend a swift action to empower yourself or an ally within 30 feet to move over the ground as easily as its shadow. The subject's land speed increases by 10 feet and it takes no movement penalties for darkness, difficult terrain, or slickness. The creature can safely move over areas of ice and even those affected by a *grease* spell. When a creature affected by this ability hits with a charge attack, that attack deals an amount of additional cold damage equal to your level.
+
 ## Strength Blessing
 
 **Strength Surge (minor)**: At 1st level, as a swift action you can focus your own strength. You gain an enhancement bonus equal to 1/2 your warpriest level (minimum +1) on melee attack rolls, combat maneuver checks that rely on Strength, Strength-based skills, and Strength checks for 1 round.

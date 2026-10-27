@@ -134,6 +134,7 @@
 - **[Dousing Rain](dousing-rain.md)**: Call a downpour that douses fire
 - **[Dragon Turtle Shell](dragon-turtle-shell.md)**: Natural attacks against you deal reduced damage.
 - **[Endure Elements, Communal](endure-elements-communal.md)**: As endure elements, but you may divide the duration among creatures touched.
+- **[Fear the Sun](fear-the-sun.md)**: targets gain light blindness
 - **[Fiery Runes](fiery-runes.md)**: Weapon rune deals fire damage when discharged.
 - **[Fire Trap](fire-trap.md)**: Opened object deals 1d4 + 1/level damage.
 - **[Flame Blade](flame-blade.md)**: Touch attack deals 1d8 + 1/two levels damage.
@@ -237,6 +238,7 @@
 - **[Guardian Wasps](guardian-wasps.md)**: A wasp swarm builds a nest that guards an area.
 - **[Hunter's Friend](hunters-friend.md)**: Share ranger class abilities with your companion.
 - **[Ice Spears](ice-spears.md)**: Icy spears deal piercing and cold damage and trip foes.
+- **[Ignoble Form](ignoble-form.md)**: a drow takes on a half-elf's form
 - **[Improve Trap](improve-trap.md)**: When this spell is cast upon a trap, it improves one specific element of the trap chosen at the time of.
 - **[Insect Spies](insect-spies.md)**: Use magic beetles as spies.
 - **[Iron Stake](iron-stake.md)**: Hurl a spike of cold iron at a foe.
@@ -263,6 +265,7 @@
 - **[Resinous Skin](resinous-skin.md)**: You gain DR 5/piercing and +4 to CMD against disarm attempts.
 - **[Resist Energy, Communal](resist-energy-communal.md)**: As resist energy, but you may divide the duration among creatures touched.
 - **[Scale Spikes, Greater](scale-spikes-greater.md)**: Scale spikes with up to +5 enhancement
+- **[Shadowmind](shadowmind.md)**: targets perceive the light level as one step darker
 - **[Share Language, Communal](share-language-communal.md)**: As share language, but you may divide the duration among creatures touched.
 - **[Signs of the Land](signs-of-the-land.md)**: Learn up to three details about the surrounding territory.
 - **[Siphon Might](siphon-might.md)**: Drains target's Strength and grants it to an ally.
@@ -273,6 +276,7 @@
 - **[Speak with Plants](speak-with-plants.md)**: You can talk to plants and plant creatures.
 - **[Spider Climb, Communal](spider-climb-communal.md)**: As spider climb, but you may divide the duration among creatures touched.
 - **[Spike Growth](spike-growth.md)**: Creatures in area take 1d4 damage, may be slowed*.*
+- **[Spotlight](spotlight.md)**: bright light on a target suppresses nearby light and ruins its Stealth
 - **[Steal Size](steal-size.md)**: Shrinks a larger target and enlarges you.
 - **[Stone Shape](stone-shape.md)**: Sculpts stone into any shape.
 - **[Summon Nature’s Ally III](summon-natures-ally-iii.md)**: Summons creature to fight.
@@ -373,6 +377,7 @@
 - **[Companion Transposition](companion-transposition.md)**: Swap places with your animal companion, familiar, or spirit animal via teleportation.
 - **[Control Winds](control-winds.md)**: Changes wind direction and speed.
 - **[Cure Critical Wounds](cure-critical-wounds.md)**: Cures 4d8 damage + 1/level (max +20).
+- **[Darkvault](darkvault.md)**: wards an area so light cannot change its illumination
 - **[Death Ward](death-ward.md)**: Grants bonuses against death spells and negative energy.
 - **[Destroy Robot](destroy-robot.md)**: Deals 12d6 + 1/level damage to a robot.
 - **[Die for Your Master](die-for-your-master.md)**: Companion intercepts any attack against you.
@@ -468,6 +473,7 @@
 ## 7th-Level Druid Spells
 
 - **[Animate Plants](animate-plants.md)**: One or more plants animate and fight for you.
+- **[Baleful Shadow Transmutation](baleful-shadow-transmutation.md)**: a target's shadow tricks it into believing it is another creature
 - **[Black Mark](black-mark.md)**: You mark the target with a black marking on its skin; the mark’s exact appearance determined by you, but can.
 - **[Changestaff](changestaff.md)**: Your staff becomes a treant on command.
 - **[Control Weather](control-weather.md)**: Changes weather in local area.
@@ -488,6 +494,7 @@
 - **[Tectonic Communion](tectonic-communion.md)**: Commune with nature over a huge range.
 - **[Transmute Metal to Wood](transmute-metal-to-wood.md)**: Metal within 40 ft. becomes wood.
 - **[True Seeing](true-seeing.md)**: Lets you see all things as they really are.
+- **[Umbral Strike](umbral-strike.md)**: a bolt of dark energy deals cold and negative damage and blinds
 - **[Wind Walk](wind-walk.md)**: You and your allies turn vaporous and travel fast.
 
 ## 8th-Level Druid Spells

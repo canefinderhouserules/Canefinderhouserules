@@ -357,6 +357,26 @@ At 12th level, psychopomp eidolons gain DR 5/adamantine. They also gain the spir
 
 At 16th level, psychopomp eidolons gain the ability increase evolution, applied to an ability score of the summoner’s choice. They also gain the ability to cast invisibility (self only) as a spell-like ability at will. At 20th level, psychopomp eidolons increase their damage reduction to 10/adamantine and gain the immunity (cold) and immunity (electricity) evolutions.
 
+### Shadow
+
+Summoned from the dreary shadowscapes of the Plane of Shadow, shadow eidolons are grim, colorless mockeries of creatures that inhabit the Material Plane. Shadow eidolons resent being pulled into the unbearable brightness of the Material Plane. Despite this, shadow eidolons serve their summoners with somberness, acknowledging that shadow cannot exist without light.
+
+**Alignment**: Any nongood.
+
+**Base Form**: Biped (claws, limbs [arms], limbs [legs]), quadruped (limbs [legs, 2], bite), or serpentine (bite, improved natural armor, reach [bite], tail, tail slap).
+
+**Base Evolutions**: At 1st level, shadow eidolons gain the resistance (cold) and resistance (electricity) evolutions. They also gain the ability to cast *darkness* as a spell-like ability three times per day. The caster level for this spell-like ability is equal to the eidolon's Hit Dice.
+
+At 4th level, shadow eidolons effortlessly blend into the shadows, giving them concealment (20% miss chance) in any illumination other than bright light. In dim light or darkness, shadow eidolons have a 50% miss chance instead of the normal 20% miss chance; this doesn't grant the eidolons total concealment. A shadow eidolon can suspend or resume this ability as a free action.
+
+At 8th level, shadow eidolons gain DR 5/magic and increase the range of their darkvision to 90 feet. In addition, they add 1 point to their evolution pools.
+
+At 12th level, shadow eidolons lose the ability to cast *darkness* as a spell-like ability and instead gain the ability to cast *deeper darkness* as a spell-like ability three times per day. In addition, they gain the see in darkness universal monster ability.
+
+At 16th level, shadow eidolons' damage reduction increases to DR 10/magic and they gain the spell resistance evolution.
+
+At 20th level, shadow eidolons increase the range of their darkvision to 120 feet and gain the ability to cast *shadow step* as a spell-like ability at will. Three times per day, a shadow eidolon can quicken this spell-like ability, functioning as the Quicken Spell-Like Ability feat.
+
 ### Twinned
 
 Just like a summoner, a twinned eidolon learns to use weapons and magic. While twinned eidolons are ethically more flexible than most eidolons, they are quite adamant about being treated as equals and not as servants. They demonstrate an eerie consistency with the summoner's manner of thinking, providing similar answers to questions and reacting similarly to startling events. This subtype is restricted to [twinned summoners](summoner-archetypes.md#twinned-summoner).

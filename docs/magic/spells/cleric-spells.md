@@ -105,6 +105,7 @@
 - **[Rune Trace](rune-trace.md)**: Learn a rune’s age, language, and purpose.
 - **[Sanctuary](sanctuary.md)**: Opponents can’t attack you, and you can’t attack.
 - **[Scarify](scarify.md)**: Convert lethal damage to nonlethal, leaving scars
+- **[Shadow Trap](shadow-trap.md)**: pins the target's shadow so it is entangled
 - **[Shield of Faith](shield-of-faith.md)**: Aura grants +2 or higher deflection bonus.
 - **[Skim](skim.md)**: read in a quarter of the time
 - **[Songbird](songbird.md)**: Conjure music from a good-aligned plane
@@ -116,6 +117,7 @@
 - **[Suspend Drowning](suspend-drowning.md)**: temporarily stop drowning
 - **[Tap Inner Beauty](tap-inner-beauty.md)**: +2 insight bonus on Charisma checks.
 - **[Theft Ward](theft-ward.md)**: You ward a single object in your possession against theft.
+- **[Touch of Blindness](touch-of-blindness.md)**: touches blind creatures for 1 round
 - **[Touch of Bloodletting](touch-of-bloodletting.md)**: Wounded target bleeds and is exhausted.
 - **[Tracking Mark](tracking-mark.md)**: Easier to track a target.
 - **[True Appraisal](true-appraisal.md)**: Gain insight into the value of objects
@@ -138,6 +140,7 @@
 - **[Amplify Stench](amplify-stench.md)**: Make your stench stronger and more potent
 - **[Ancestral Communion](ancestral-communion.md)**: Ancestors grant an insight bonus on Knowledge checks.
 - **[Ancestral Regression](ancestral-regression.md)**: School transmutation (polymorph); Level alchemist 2, antipaladin 3, cleric 2, sorcerer/wizard 3, witch 2.
+- **[Ancestral Revision](ancestral-revision.md)**: a wayang appears as a gnome-like version of herself
 - **[Angelic Aspect, Lesser](angelic-aspect-lesser.md)**: Gain some physical characteristics of an angelic being.
 - **[Ant Haul, Communal](ant-haul-communal.md)**: As ant haul, but you may divide the duration among creatures touched.
 - **[Ashen Path](ashen-path.md)**: breathe contaminated air and see through ash and smoke
@@ -181,6 +184,7 @@
 - **[Endure Elements, Communal](endure-elements-communal.md)**: As endure elements, but you may divide the duration among creatures touched.
 - **[Enemy’s Heart](enemy-s-heart.md)**: You cut out an enemy’s heart and consume it, absorbing that enemy’s power as your own.
 - **[Enthrall](enthrall.md)**: Captivates all within 100 ft. + 10 ft./level.
+- **[Fear the Sun](fear-the-sun.md)**: targets gain light blindness
 - **[Find Traps](find-traps.md)**: Notice traps as a rogue does.
 - **[Flickering Lights](flickering-lights.md)**: Create an area of inconsistent lighting.
 - **[Gentle Repose](gentle-repose.md)**: Preserves one corpse.
@@ -366,9 +370,11 @@
 - **[Searing Light](searing-light.md)**: Ray deals 1d8/two levels damage (more against undead).
 - **[Second Wind](second-wind.md)**: Heal 2d8 + 1/level when below one-quarter hit points.
 - **[See Beyond](see-beyond.md)**: Meditative spell: large Perception bonus and brief x-ray vision.
+- **[Shadowmind](shadowmind.md)**: targets perceive the light level as one step darker
 - **[Share Language, Communal](share-language-communal.md)**: As share language, but you may divide the duration among creatures touched.
 - **[Shared Training](shared-training.md)**: grant a teamwork feat to allies
 - **[Sharesister](sharesister.md)**: Take a negative level to boost an ally’s casting.
+- **[Shield of Darkness](shield-of-darkness.md)**: magical darkness grants you total concealment
 - **[Sky Swim](sky-swim.md)**: Swim through the air.
 - **[Slave to Sin](slave-to-sin.md)**: Exploit a creature’s sin to sicken and stagger it.
 - **[Soul Vault](soul-vault.md)**: Protect a soul from being trapped
@@ -376,6 +382,7 @@
 - **[Spellcurse](spellcurse.md)**: Deals 1d6 damage per ongoing spell on the target.
 - **[Spiral Ascent](spiral-ascent.md)**: Teleport upward as a helical beam
 - **[Spirit Bonds](spirit-bonds.md)**: Meditative spell: track bonded creatures and send a telepathic message.
+- **[Spotlight](spotlight.md)**: bright light on a target suppresses nearby light and ruins its Stealth
 - **[Stone Shape](stone-shape.md)**: Sculpts stone into any shape.
 - **[Summon Ancestral Guardian](summon-ancestral-guardian.md)**: Two ancestor spirits attack your enemies.
 - **[Summon Monster III](summon-monster-iii.md)**: Summons extraplanar creature to fight for you.
@@ -387,6 +394,7 @@
 - **[Trial of Fire and Acid](trial-of-fire-and-acid.md)**: Cover a creature in burning acid
 - **[Vampiric Hunger](vampiric-hunger.md)**: Target drains blood while pinning to heal or gain temporary hit points.
 - **[Voluminous Vocabulary](voluminous-vocabulary.md)**: Grant ability to speak, read, and write one or more languages for 8 hours.
+- **[Wall of Split Illumination](wall-of-split-illumination.md)**: a wall that is bright on one side and dark on the other
 - **[Water Breathing](water-breathing.md)**: Subjects can breathe underwater.
 - **[Water Walk](water-walk.md)**: Subject treads on water as if solid.
 - **[Wind Wall](wind-wall.md)**: Deflects arrows, smaller creatures, and gases.
@@ -487,6 +495,7 @@
 - **[Tongues](tongues.md)**: Speak and understand any language.
 - **[Torpid Reanimation](torpid-reanimation.md)**: *Animate dead* when a specific trigger condition occurs.
 - **[Transplant Visage](transplant-visage.md)**: Wear a stolen face for +10 on Disguise.
+- **[Umbral Infusion](umbral-infusion.md)**: a mindless undead gains the advanced template but may go out of control
 - **[Undeath Inversion](undeath-inversion.md)**: Undead is harmed by negative energy and healed by positive
 - **[Unholy Blight](unholy-blight.md)**: Harms and sickens good creatures (1d8 damage/2 levels).
 - **[Unholy Ward](unholy-ward.md)**: Resist 10 damage from holy sources.
@@ -520,6 +529,7 @@
 - **[Compelling Rant](compelling-rant.md)**: People believe your ridiculous speech as long as you keep talking.
 - **[Contact Entity III](contact-entity-iii.md)**: Ask very powerful eldritch entities to find and converse with you, or they may reply telepathically.
 - **[Cure Light Wounds, Mass](cure-light-wounds-mass.md)**: Cures 1d8 damage + 1/level, affects 1 subject/level.
+- **[Darkvault](darkvault.md)**: wards an area so light cannot change its illumination
 - **[Decollate](decollate.md)**: A target can safely remove its head.
 - **[Dispel Balance](dispel-balance.md)**: You are protected from neutral creatures
 - **[Dispel Chaos](dispel-chaos.md)/[Dispel Evil](dispel-evil.md)/[Dispel Good](dispel-good.md)/[Dispel Law](dispel-law.md)**: +4 bonus against attacks.
@@ -693,6 +703,7 @@
 - **[Summon Monster VII](summon-monster-vii.md)**: Summons extraplanar creature to fight for you.
 - **[Symbol of Stunning](symbol-of-stunning.md)**: Triggered rune stuns nearby creatures.
 - **[Symbol of Weakness](symbol-of-weakness.md)**: Triggered rune weakens nearby creatures.
+- **[Umbral Strike](umbral-strike.md)**: a bolt of dark energy deals cold and negative damage and blinds
 - **[Word of Chaos](word-of-chaos.md)**: Kills, confuses*,* stuns, or deafens nonchaotic subjects.
 
 ## 8th-Level Cleric Spells
@@ -734,6 +745,7 @@
 - **[Symbol of Dispelling](symbol-of-dispelling.md)**: Symbol that dispels magic in an area.
 - **[Symbol of Insanity](symbol-of-insanity.md)**: Triggered rune renders nearby creatures insane.
 - **[True Prognostication](true-prognostication.md)**: Gain incredibly cryptic information from the distant future.
+- **[Umbral Infusion, Mass](umbral-infusion-mass.md)**: umbral infusion on multiple mindless undead
 - **[Unholy Aura](unholy-aura.md)**: +4 to AC, +4 resistance, and SR 25 against good spells.
 - **[Wandering Weather](wandering-weather.md)**: Control weather in a large area that moves with you.
 

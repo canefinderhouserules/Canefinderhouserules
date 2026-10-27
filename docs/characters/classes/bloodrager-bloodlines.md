@@ -397,3 +397,25 @@ The blood of the powerful, serpentine aberrations known as nagas runs through yo
 **Naga Form (Sp)**: At 16th level, when entering a bloodrage, you can assume the form of a naga (as per [*naga shape III*](../../magic/spells/naga-shape-iii.md)).
 
 **Naga Thoughts (Sp, Su)**: At 20th level, when entering a bloodrage, you become immune to charm effects and all forms of mind reading, you gain a +2 bonus on saving throws against other mind-affecting effects, you gain the effects of the spell *see invisibility*, and you can use *detect thoughts* at will.
+
+## Shadow
+
+Because of your heritage, you can move and see through shadows as if you are part of them. Your fury absorbs light, warmth, and strength.
+
+**Bonus Feats**: Blind-Fight, Combat Reflexes, Improved Initiative, Lightning Reflexes, Quick Draw, Step Up.
+
+**Bonus Spells**: *Ray of enfeeblement* (7th), *darkvision* (10th), *deeper darkness* (13th), *shadow conjuration* (16th).
+
+**Bloodline Powers**: Your bloodline gives you powers over light and darkness.
+
+**Shadow Vision (Su)**: While bloodraging, you gain low-light vision if you don't already have it. If you already have low-light vision, you gain darkvision to a distance of 30 feet. At 10th level, you gain darkvision with a range of 30 feet, or add 30 feet to the range of your darkvision if you already have it.
+
+**Shades of Rage (Su)**: At 4th level, whenever you enter a bloodrage, the light level within 30 feet of you decreases by one step. Natural light is always affected, but magical illumination dispels this ability if the caster of the light effect succeeds at a caster level check against a DC equal to 10 + your class level.
+
+**Strength of Shadows (Su)**: At 8th level, you gain cold resistance 10. Your melee attacks deal additional cold damage equal to the critical multiplier of the weapon you use. At 13th level, your cold resistance increases to 20. At 18th level, you become immune to cold damage.
+
+**Strike Through Shadow (Su)**: At 12th level, you can declare a single melee attack as a strike through shadow. This attack moves through its target's shadow and strikes from below or inside its armor. You make this attack against the target's touch AC. You can use this ability once per day, plus an additional time per day each at 15th and 18th levels.
+
+**Shadow Door (Su)**: At 16th level, you can take any part of your movement through shadows, teleporting to another location within 60 feet. This ability functions as *dimension door*, except you can't use shadow door in brightly lit areas. You can teleport in this manner a total of 10 feet per class level each day.
+
+**Shadow Warrior (Su)**: At 20th level, you become shadow and fury personified. You see perfectly in natural and magical darkness. Whenever you deal hit point damage with a spell or attack, you also deal 2 points of Strength damage to each creature that took damage.

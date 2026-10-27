@@ -113,6 +113,7 @@ Mediums gain access to the following spells. Spells without a link come from oth
 - **[Alpha Instinct](alpha-instinct.md)**: Gain bonuses when you’re interacting with animals.
 - **[Alter Self](alter-self.md)**: Assume form of a Small or Medium humanoid.
 - **[Analyze Aura](analyze-aura.md)**: Read a creature’s or an object’s alignment, emotion, health, and magic auras.
+- **[Ancestral Revision](ancestral-revision.md)**: a wayang appears as a gnome-like version of herself
 - **[Appearance of Life](appearance-of-life.md)**: Undead appear to be alive.
 - **[Apport Object](apport-object.md)**: Send or receive a small object via teleportation.
 - **[Audiovisual Hallucination](audiovisual-hallucination.md)**: Create a phantasm with auditory and visual effects.
@@ -164,6 +165,7 @@ Mediums gain access to the following spells. Spells without a link come from oth
 - **[Hoodwink](hoodwink.md)**: Befuddle targets so they can be led away
 - **[Human Potential](human-potential.md)**: Target chooses one ability score and gains +2.
 - **[Hypercognition](hypercognition.md)**: Rapidly recall everything you know about a subject.
+- **[Ignoble Form](ignoble-form.md)**: a drow takes on a half-elf's form
 - **[Inflict Pain](inflict-pain.md)**: Target takes a –4 penalty on attack rolls, skill checks, and ability checks.
 - **[Instigate Psychic Duel](instigate-psychic-duel.md)**: Start a psychic duel between yourself and another creature.
 - **[Investigative Mind](investigative-mind.md)**
@@ -274,6 +276,7 @@ Mediums gain access to the following spells. Spells without a link come from oth
 - **[Mind Probe](mind-probe.md)**: Learn answers from a subject’s memories.
 - **[Mind Swap](mind-swap.md)**: Switch minds with another creature for 1 hour per level.
 - **[Mindscape Door](mindscape-door.md)**: Create a portal allowing entry to and exit from a mindscape.
+- **[Motes of Dusk and Dawn](motes-of-dusk-and-dawn.md)**: up to four motes that shed light or darkness
 - **[Node of Blasting](node-of-blasting.md)**: Place a trap on an object to mentally damage a creature that touches it.
 - Paragon Surge
 - **[Out of Sight](out-of-sight.md)**: Creatures forget you once they stop watching.
@@ -375,4 +378,6 @@ Mediums gain access to the following spells. Spells without a link come from oth
 
 ## 6th-Level Medium Spells
 
+- **[Baleful Shadow Transmutation](baleful-shadow-transmutation.md)**: a target's shadow tricks it into believing it is another creature
 - **[Emblem of Greed](emblem-of-greed.md)**: Turn a melee weapon into a burning glaive.
+- **[Shadow Transmutation](shadow-transmutation.md)**: mimics a polymorph or size-changing spell with shadow-stuff
