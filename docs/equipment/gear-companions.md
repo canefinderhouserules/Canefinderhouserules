@@ -259,3 +259,9 @@ This kit includes five bags of caltrops, a sarissa, and two tanglefoot bags.
 **Price** 215 gp; **Weight** 33 lbs.
 
 This kit includes a block and tackle, 50 feet of chain, a climber's kit, a crowbar, and a pole.
+
+### Using Oversized Weapons and Armor
+
+**Rule**
+
+Magic clothing and jewelry resize themselves for wearers of any size, but weapons and armor don't automatically resize. For each size category too large that a wielded weapon is, the wielder takes a cumulative –2 penalty and treats the weapon as one step heavier along the continuum from light to one-handed to two-handed; weapons that would be heavier than two-handed are impossible to wield properly. *Polymorph any object* can permanently change the size of an object, and a character under the effects of *enlarge person* or *reduce person* can use gear appropriate to her new size as long as the spell lasts. See also the *resize item* spell, the *fitting* and *resizing* special abilities, and the *ring of perfect sizing*.

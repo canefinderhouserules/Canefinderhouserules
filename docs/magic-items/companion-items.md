@@ -424,3 +424,33 @@ This green-gray paste is stored in a tree bark jar in order to mask its pungent 
 This rancid, bubbling tonic is mud-colored and reeks of sweat, gore, and decay. Upon drinking a dose of *trollblood elixir*, the imbiber gains fast healing 5. This fast healing is even capable of reattaching a severed limb that is pressed against its stump for 1 round, as long as the limb has been severed for no more than 1 hour and is essentially intact. The effects of *trollblood elixir* last 1 minute; during this time, the imbiber is nauseated. Each round, the imbiber can choose to prematurely end the elixir's effects by succeeding at a DC 10 Fortitude save as a full-round action. *Trollblood elixir* does not affect objects or nonliving creatures such as constructs and undead.
 
 **Construction Requirements:** Craft Wondrous Item, *regenerate*; **Cost** 2,275 gp
+
+### Fitting (armor special ability)
+
+**Slot** armor special ability; **CL** 5th; **Price** +2,000 gp; **Weight** —
+
+**Aura** faint transmutation
+
+A *fitting* shield or suit of armor instantly shrinks or grows to suit the size of any creature that picks it up unless it is currently worn by another creature. It reverts to its original size 1 round after it leaves that creature's possession.
+
+**Construction Requirements:** Craft Magic Arms and Armor, *resize item*; **Cost** +1,000 gp
+
+### Resizing (weapon special ability)
+
+**Slot** weapon special ability; **CL** 5th; **Price** +4,000 gp; **Weight** —
+
+**Aura** faint transmutation
+
+A *resizing* weapon instantly shrinks or grows to suit the size of any creature that picks it up unless it is currently wielded by another creature. It reverts to its original size 1 round after it leaves its wielder's possession.
+
+**Construction Requirements:** Craft Magic Arms and Armor, *resize item*; **Cost** +2,000 gp
+
+### Ring of Perfect Sizing
+
+**Slot** ring; **CL** 5th; **Price** 16,000 gp; **Weight** —
+
+**Aura** faint transmutation
+
+This lustrous gold ring is highly malleable and always fits perfectly. After being worn for 24 hours, the ring allows the wearer to resize one weapon or suit of armor to her size. The ring can affect any item that is no more than two size categories too big or too small and that weighs no more than 125 pounds. The size change lasts until 1 round after the item leaves the wearer's possession. A new item can be resized after it has been in the wearer's possession for 24 hours, causing the previously resized item to return to its normal size. The resizing otherwise functions as the *resize item* spell.
+
+**Construction Requirements:** Forge Ring, *resize item*; **Cost** 8,000 gp

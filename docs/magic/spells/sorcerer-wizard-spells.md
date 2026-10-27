@@ -525,6 +525,7 @@
 - **[Recharge](recharge.md)**: Restore charges to a technological item.
 - **[Resinous Skin](resinous-skin.md)**: You gain DR 5/piercing and +4 to CMD against disarm attempts.
 - **[Resist Energy, Communal](resist-energy-communal.md)**: As resist energy, but you may divide the duration among creatures touched.
+- **[Resize Item](resize-item.md)**: Resizes a weapon or armor by up to two sizes.
 - **[Returning Weapon, Communal](returning-weapon-communal.md)**: As returning weapon, but you may divide the duration among weapons touched.
 - **[Scale Spikes, Greater](scale-spikes-greater.md)**: Scale spikes with up to +5 enhancement
 - **[Seed Spies](seed-spies.md)**: Wafting seeds act as spies, as insect spies.
