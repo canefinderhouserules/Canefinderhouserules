@@ -2,6 +2,10 @@
 
 The magus class spell list appears on the [Magus](../../characters/classes/magus.md) page. These are the additional magus spells from *Ultimate Magic*. An M or F after a name marks a material or focus component not normally included in a spell component pouch.
 
+## 0-Level Magus Spells
+
+- **[Detect Fiendish Presence](detect-fiendish-presence.md)**: Detects evil outsiders and their servants.
+
 ## 1st-Level Magus Spells
 
 - **[Abjuring Step](abjuring-step.md)**: You can move slowly and safely and still cast spells, until you move quickly, make an attack, or cast a harmful spell.
@@ -29,6 +33,7 @@ The magus class spell list appears on the [Magus](../../characters/classes/magus
 - **[Mudball](mudball.md)**: When you cast this spell, you conjure a single ball of sticky mud and launch it at an enemy’s face as a.
 - **[Negative Reaction](negative-reaction.md)**: Targeted creature may not positively influence anyone.
 - **[Poisoned Egg](poisoned-egg.md)**: Turn an egg into a dose of poison.
+- **[Punishing Armor](punishing-armor.md)**: Reflects nonlethal damage back at attackers.
 - **[Recharge Innate Magic](recharge-innate-magic.md)**: You channel magic energy into your own aura, recharging your innate magic abilities.
 - **[Reinforce Armaments](reinforce-armaments.md)**: Temporarily mitigates the fragile quality in targeted weapon or armor.
 - **[Returning Weapon](returning-weapon.md)**: Grants a weapon the returning special weapon quality.
@@ -107,6 +112,7 @@ The magus class spell list appears on the [Magus](../../characters/classes/magus
 - **[Blade Snare](blade-snare.md)**: Snare a weapon or limb that strikes you.
 - **[Bone Flense](bone-flense.md)**: Barbed bone spurs flense a struck creature.
 - **[Burst of Speed](burst-of-speed.md)**: You gain increased speed, and your movement ignores attacks of opportunity and allows you to move through the space of creatures larger than you are.
+- **[Caustic Safeguard](caustic-safeguard.md)**: Acid ward on an object.
 - **[Channel Vigor](channel-vigor.md)**: Focus on limbs, mind, spirit, or torso for bonuses.
 - **[Conjuration Foil](conjuration-foil.md)**: Interfere with nearby teleportation effects.
 - **[Conjure Carriage](conjure-carriage.md)**: Create a fine carriage.
@@ -184,6 +190,7 @@ The magus class spell list appears on the [Magus](../../characters/classes/magus
 - **[Conjure Deadfall](conjure-deadfall.md)**: Drop a spiked metal block on creatures below.
 - **[Corrosive Consumption](corrosive-consumption.md)**: Acidic patch damages an opponent.
 - **[Ether Step](ether-step.md)**: Step briefly into the Ethereal Plane to avoid attacks and dangers
+- **[Furious Fire Barrage](furious-fire-barrage.md)**: Throw fireballs fueled by anger.
 - **[Glimpse of Truth](glimpse-of-truth.md)**: Gain *true seeing* for 1 round.
 - **[Grease, Greater](grease-greater.md)**: As grease, but covers much more.
 - **[Impart Mind](impart-mind.md)**: Grant a magic item temporary intelligence and powers.

@@ -32,6 +32,8 @@ Changelings are the offspring of hags and their lovers taken through magic or ma
 
 The following racial traits may be selected instead of existing changeling racial traits. Consult your GM before selecting any of these new options.
 
+**Hag Magic**: Some changelings develop a gift for spellcasting instead of their mothers' overtly fearsome traits. A changeling with this trait displays one or more stark white streaks in her hair as a child. The DCs of any saving throws against enchantment spells she casts increase by 1, and if her Charisma score is 11 or higher, she also gains the following spell-like abilities, usable once per day each: *dancing lights*, *detect magic*, *disguise self*, and *pass without trace*. The caster level of these spell-like abilities is equal to the changeling's character level. The DC for these spell-like abilities is equal to 10 + the spell's level + the changeling's Charisma modifier. This racial trait replaces the claws and natural armor racial abilities.
+
 **Mist Child**: When the changeling has concealment or total concealment, the miss chance of attacks against her increases by 5%. This racial trait replaces hulking changeling.
 
 **Object of Desire**: The changeling adds +1 to her caster level when casting *charm person* and *charm monster*. This replaces green widow.

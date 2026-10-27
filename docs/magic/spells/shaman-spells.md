@@ -37,6 +37,7 @@ Shamans gain access to the following spells. Spells in plain text come from othe
 - **[Charm Person](charm-person.md)**: Makes one person your friend.
 - **[Chill Touch](chill-touch.md)**: One touch/level deals 1d6 damage and possibly 1 Str damage.
 - **[Comprehend Languages](comprehend-languages.md)**: You understand all spoken and written languages.
+- **[Coward's Cowl](cowards-cowl.md)**: Defensive bonuses while avoiding enemies.
 - **[Cure Light Wounds](cure-light-wounds.md)**: Cures 1d8 damage + 1/level (max +5).
 - **[Dancing Lantern](dancing-lantern.md)**: Animates a lantern that follows you.
 - **[Detect Animals or Plants](detect-animals-or-plants.md)**: Detects kinds of animals or plants.
@@ -76,6 +77,7 @@ Shamans gain access to the following spells. Spells in plain text come from othe
 - **[Preserve](preserve.md)**: Stop spoilage of objects for a week
 - **[Produce Flame](produce-flame.md)**: 1d6 damage + 1/level, touch or thrown.
 - Protection from Chaos/evil/good/law
+- **[Punishing Armor](punishing-armor.md)**: Reflects nonlethal damage back at attackers.
 - **[Remove Fear](remove-fear.md)**: Suppresses fear or gives +4 on saves against fear for one subject + one per four levels.
 - **[Resist Starvation](resist-starvation.md)**: Delay the effects of starvation
 - **[Scarify](scarify.md)**: Convert lethal damage to nonlethal, leaving scars
@@ -343,6 +345,7 @@ Shamans gain access to the following spells. Spells in plain text come from othe
 - **[Ban Corruption](ban-corruption.md)**: Eliminate the gifts of nearby corrupted creatures.
 - **[Befuddled Combatant](befuddled-combatant.md)**: Reduces a target’s ability DCs by 4 and its damage to minimum.
 - **[Blight](blight.md)**: Withers one plant or deals 1d6/level damage to plant creature.
+- **[Blood Tentacles](blood-tentacles.md)**: Blood tentacles attack and heal you.
 - **[Blood Ties](blood-ties.md)**: When a target is harmed, so is the target’s relative.
 - **[Break Enchantment](break-enchantment.md)**: Frees subjects from enchantments, transmutations, and curses.
 - **[Breath of Life](breath-of-life.md)**: Cures 5d8 damage + 1/level and restores life to recently slain creatures.
@@ -374,6 +377,7 @@ Shamans gain access to the following spells. Spells in plain text come from othe
 - **[Mask from Divination](mask-from-divination.md)**: Adhere a mask that foils divination.
 - **[Overland Flight](overland-flight.md)**: You fly at a speed of 40 ft. and can hustle over long distances.
 - **[Rest Eternal](rest-eternal.md)**
+- **[Shadow Endurance](shadow-endurance.md)**: Shadow duplicate takes your place when you fall.
 - **[Shroud of Darkness](shroud-of-darkness.md)**: Plunge targets into supernatural darkness
 - **[Soulswitch](soulswitch.md)**: Swap souls with your familiar.
 - **[Stoneskin](stoneskin.md)**: Grants DR 10/adamantine.

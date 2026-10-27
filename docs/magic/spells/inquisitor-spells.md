@@ -218,6 +218,7 @@ New inquisitor spells from *Ultimate Magic*. Spells from other books will be add
 - **[Terrible Remorse](terrible-remorse.md)**: Creature is compelled to harm itself.
 - **[They Know](they-know.md)**: Convince target that a nearby creature knows her greatest secret.
 - **[Trial by Fire](trial-by-fire.md)**: Divine fire punishes targets whose alignment differs from your deity’s.
+- **[Unholy Ward](unholy-ward.md)**: Resist 10 damage from holy sources.
 - **[Witness](witness.md)**: See through the target’s eyes and ears.
 
 ## 4th-Level Inquisitor Spells

@@ -4,6 +4,7 @@
 
 - **[Bleed](bleed.md)**: Cause a stabilized creature to resume dying.
 - **[Create Water](create-water.md)**: Creates 2 gallons/level of pure water.
+- **[Detect Fiendish Presence](detect-fiendish-presence.md)**: Detects evil outsiders and their servants.
 - **[Detect Magic](detect-magic.md)**: Detects spells and magic items within 60 ft.
 - **[Detect Poison](detect-poison.md)**: Detects poison in one creature or object.
 - **[Guidance](guidance.md)**: +1 on one attack roll, saving throw, or skill check.
@@ -34,6 +35,7 @@
 - **[Command](command.md)**: One subject obeys selected command for 1 round.
 - **[Compel Hostility](compel-hostility.md)**: Compels opponents to attack you instead of your allies.
 - **[Comprehend Languages](comprehend-languages.md)**: You understand all spoken and written languages.
+- **[Coward's Cowl](cowards-cowl.md)**: Defensive bonuses while avoiding enemies.
 - **[Cultural Adaptation](cultural-adaptation.md)**: Adapt to fit the local culture.
 - **[Cure Light Wounds](cure-light-wounds.md)**: Cures 1d8 damage + 1/level (max +5).
 - **[Curse Water](curse-water.md)**: Makes unholy water.
@@ -374,6 +376,7 @@
 - **[Death Knell Aura](death-knell-aura.md)**: Aura kills dying creatures nearby
 - **[Death Ward](death-ward.md)**: Grants bonuses against death spells and negative energy.
 - **[Debilitating Portent](debilitating-portent.md)**: Inflicts an ill fate on a creature, halving its damage when it attacks or casts a spell.
+- **[Devil Snare](devil-snare.md)**: Invisible circle traps outsiders.
 - **[Dimensional Anchor](dimensional-anchor.md)**: Bars extradimensional movement.
 - **[Discern Lies](discern-lies.md)**: Reveals deliberate falsehoods.
 - **[Dismissal](dismissal.md)**: Forces a creature to return to native plane.
@@ -437,6 +440,7 @@
 - **[Transplant Visage](transplant-visage.md)**: Wear a stolen face for +10 on Disguise.
 - **[Undeath Inversion](undeath-inversion.md)**: Undead is harmed by negative energy and healed by positive
 - **[Unholy Blight](unholy-blight.md)**: Harms and sickens good creatures (1d8 damage/2 levels).
+- **[Unholy Ward](unholy-ward.md)**: Resist 10 damage from holy sources.
 - **[Ward of the Season](ward-of-the-season.md)**: This spell harnesses the power of the seasons to protect the target and grant a number of bonuses.
 - **[Wrathful Weapon](wrathful-weapon.md)**: Weapon gains anarchic, axiomatic, holy, or unholy.
 
@@ -448,6 +452,7 @@
 - **[Atonement](atonement.md)**: Removes burden of misdeeds from subject and reverses magical alignment change.
 - **[Awaken the Devoured](awaken-the-devoured.md)**: Memories of devoured souls torment a daemon
 - **[Ban Corruption](ban-corruption.md)**: Eliminate the gifts of nearby corrupted creatures.
+- **[Blood Tentacles](blood-tentacles.md)**: Blood tentacles attack and heal you.
 - **[Blood Ties](blood-ties.md)**: When a target is harmed, so is the target’s relative.
 - **[Break Enchantment](break-enchantment.md)**: Frees subjects from enchantments, transmutations, and curses.
 - **[Breath of Life](breath-of-life.md)**: Cures 5d8 damage + 1/level and restores life to recently slain creatures.

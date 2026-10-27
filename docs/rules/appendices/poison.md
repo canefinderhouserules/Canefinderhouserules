@@ -27,14 +27,17 @@ See [Afflictions](afflictions.md) for how to read a stat block.
 | Belladonna | ingested | 14 | 10 min. | 1/min. for 6 min. | 1d2 Str, see text | 1 save | 100 gp |
 | Black adder venom | injury | 11 | — | 1/rd. for 6 rds. | 1d2 Con | 1 save | 120 gp |
 | Black lotus extract | contact | 20 | 1 min. | 1/rd. for 6 rds. | 1d6 Con | 2 saves | 4,500 gp |
+| Bloodpyre | contact | 14 | — | 1/round for 6 rounds | 1 Cha, Int, and Wis, 2d6 fire | 1 save | 1,000 gp |
 | Bloodroot | injury | 12 | 1 rd. | 1/rd. for 4 rds. | 1 Con and 1 Wis | 1 save | 100 gp |
 | Blue whinnis | injury | 14 | — | 1/rd. for 2 rds. | 1 Con/unconscious 1d3 hours | 1 save | 120 gp |
 | Burnt othur fumes | inhaled | 18 | — | 1/rd. for 6 rds. | 1 Con drain/1d3 Con | 2 saves | 2,100 gp |
 | Dark reaver powder | ingested | 18 | 10 min. | 1/min. for 6 min. | 1d3 Con and 1 Str | 2 saves | 800 gp |
 | Deathblade | injury | 20 | — | 1/rd. for 6 rds. | 1d3 Con | 2 saves | 1,800 gp |
 | Dragon bile | contact | 26 | — | 1/rd. for 6 rds. | 1d3 Str | — | 1,500 gp |
+| Dreaming Death | inhaled | 16 | 10 min. | 1/10 min. for 1 hr. | Sleep 10 min., see text | 1 save | 2,500 gp |
 | Drow poison | injury | 13 | — | 1/min. for 2 min. | unconscious 1 min./2d4 hours | 1 save | 75 gp |
 | Giant wasp poison | injury | 18 | — | 1/rd. for 6 rds. | 1d2 Dex | 1 save | 210 gp |
+| Gray Justice | injury | 18 | — | 1/min. for 10 min. | 1d2 Wis, see text | 2 saves | 400 gp |
 | Greenblood oil | injury | 13 | — | 1/rd. for 4 rds. | 1 Con | 1 save | 100 gp |
 | Green prismatic poison | spell | varies | — | 1/rd. for 6 rds. | Death/1 Con | 2 saves | — |
 | Hemlock | ingested | 18 | 10 min. | 1/min. for 6 min. | 1d6 Dex, see text | 2 saves | 2,500 gp |
@@ -50,8 +53,10 @@ See [Afflictions](afflictions.md) for how to read a stat block.
 | Nitharit | contact | 13 | 1 min. | 1/min. for 6 min. | 1d3 Con | 1 save | 650 gp |
 | Oil of taggit | ingested | 15 | 1 min. | — | unconscious 1d3 hours | 1 save | 90 gp |
 | Purple worm poison | injury | 24 | — | 1/rd. for 6 rds. | 1d3 Str | 2 saves | 700 gp |
+| Ragespittle | contact | 17 | 1 min. | 1/min. for 6 min. | 1d2 Dex, see text | 2 saves | 1,000 gp |
 | Red tears | injury | 15 | — | 1/rd. for 10 rds. | 1d6 damage | 1 save | 50 gp |
 | Sassone leaf residue | contact | 16 | 1 min. | 1/min. for 6 min. | 2d12 hp/1 Con | 1 save | 300 gp |
+| Scholarblight | inhaled | 15 | — | 1/min. for 6 min. | 1d3 Int, see text | 1 save | 1,500 gp |
 | Shadow essence | injury | 17 | — | 1/rd. for 6 rds. | 1 Str drain/1d2 Str | 1 save | 250 gp |
 | Small centipede poison | injury | 11 | — | 1/rd. for 4 rds. | 1 Dex | 1 save | 90 gp |
 | Snap will | ingested | 18 | 5 min. | 1/min. for 10 min. | –4 on Will saves and Wis skill checks | 2 saves | 2,500 gp |
@@ -60,6 +65,7 @@ See [Afflictions](afflictions.md) for how to read a stat block.
 | Terinav root | contact | 16 | 1 min. | 1/min. for 6 min. | 1d3 Dex | 1 save | 400 gp |
 | Ungol dust | inhaled | 15 | — | 1/rd. for 4 rds. | 1 Cha drain/1d2 Cha | 1 save | 1,000 gp |
 | Whisperwound | ingested | 20 | 1 min. | 1 round | 1d6 Con and pain when speaking loudly | 1 save | 5,000 gp |
+| Widow's Kiss | ingested | 24 | 1d4 days | 1/day | 1d3 Con, see text | 3 saves | 7,000 gp |
 | Wolfsbane | ingested | 16 | 10 min. | 1/min. for 6 min. | 1d3 Con | 1 save | 500 gp |
 | Wyvern poison | injury | 17 | — | 1/rd. for 6 rds. | 1d4 Con | 2 saves | 3,000 gp |
 
@@ -94,6 +100,14 @@ See [Afflictions](afflictions.md) for how to read a stat block.
 **Type** poison, contact; **Save** Fortitude DC 20  
 **Onset** 1 minute; **Frequency** 1/round for 6 rounds  
 **Effect** 1d6 Con damage; **Cure** 2 consecutive saves
+
+### Bloodpyre
+
+**Type** poison, contact; **Save** Fortitude DC 14  
+**Onset** —; **Frequency** 1/round for 6 rounds  
+**Effect** 1 Cha, 1 Int, and 1 Wis damage and 2d6 fire damage; see text; **Cure** 1 save
+
+This orange liquid burns regardless of temperature, which its drow creators claim is a side effect of its Abyssal inspiration. The staggering pain inflicted by bloodpyre's slow burn inhibits victims' mental faculties but provides fiendish strength, so some drow houses enhance their warriors with bloodpyre despite the pain and damage it causes. Each round a victim fails her saving throw against bloodpyre's effects, she gains a cumulative +1 alchemical bonus to her Strength, to a maximum of +6 after six failed saves. In addition to ability score damage, the victim also takes 2d6 points of fire damage each time she fails the saving throw against the poison.
 
 ### Bloodroot
 
@@ -132,6 +146,16 @@ See [Afflictions](afflictions.md) for how to read a stat block.
 **Frequency** 1/round for 6 rounds  
 **Effect** 1d3 Str damage Table 16–2: Sample Poisons Name Type Fort DC Onset Frequency Effect Cure Cost Arsenic ingested 13 10 min. 1/min. for 4 min. 1d2 Con 1 save 120 gp Belladonna ingested 14 10 min. 1/min. for 6 min. 1d2 Str, see text 1 save 100 gp Black adder venom injury 11 — 1/rd. for 6 rds. 1d2 Con 1 save 120 gp Black lotus extract contact 20 1 min. 1/rd. for 6 rds. 1d6 Con 2 saves 4,500 gp Bloodroot injury 12 1 rd. 1/rd. for 4 rds. 1 Con and 1 Wis 1 save 100 gp Blue whinnis injury 14 — 1/rd. for 2 rds. 1 Con/unconscious 1d3 hours 1 save 120 gp Burnt othur fumes inhaled 18 — 1/rd. for 6 rds. 1 Con drain/1d3 Con 2 saves 2,100 gp Dark reaver powder ingested 18 10 min. 1/min. for 6 min. 1d3 Con and 1 Str 2 saves 800 gp Deathblade injury 20 — 1/rd. for 6 rds. 1d3 Con 2 saves 1,800 gp Dragon bile contact 26 — 1/rd. for 6 rds. 1d3 Str — 1,500 gp Drow poison injury 13 — 1/min. for 2 min. unconscious 1 min./2d4 hours 1 save 75 gp Giant wasp poison injury 18 — 1/rd. for 6 rds. 1d2 Dex 1 save 210 gp Greenblood oil injury 13 — 1/rd. for 4 rds. 1 Con 1 save 100 gp Green prismatic poison spell varies — 1/rd. for 6 rds. Death/1 Con 2 saves — Hemlock ingested 18 10 min. 1/min. for 6 min. 1d6 Dex, see text 2 saves 2,500 gp Id moss ingested 14 10 min. 1/min. for 6 min. 1d3 Int 1 save 125 gp Insanity mist inhaled 15 — 1/rd. for 6 rds. 1d3 Wis 1 save 1,500 gp King’s sleep ingested 19 1 day 1/day 1 Con drain 2 saves 5,000 gp Large scorpion venom injury 17 — 1/rd. for 6 rds. 1d2 Str 1 save 200 gp Lich dust ingested 17 10 min. 1/min. for 6 min. 1d3 Str 2 saves 400 gp Malyass root paste contact 16 1 min. 1/min. for 6 min. 1d2 Dex 1 save 250 gp Medium spider venom injury 14 — 1/rd. for 4 rds. 1d2 Str 1 save 150 gp Nightmare vapor inhaled 20 — 1/rd. for 6 rds. 1 Wis and confused 1 round 2 saves 1,800 gp Nitharit contact 13 1 min. 1/min. for 6 min. 1d3 Con 1 save 650 gp Oil of taggit ingested 15 1 min. — unconscious 1d3 hours 1 save 90 gp Purple worm poison injury 24 — 1/rd. for 6 rds. 1d3 Str 2 saves 700 gp Sassone leaf residue contact 16 1 min. 1/min. for 6 min. 2d12 hp/1 Con 1 save 300 gp Shadow essence injury 17 — 1/rd. for 6 rds. 1 Str drain/1d2 Str 1 save 250 gp Small centipede poison injury 11 — 1/rd. for 4 rds. 1 Dex 1 save 90 gp Striped toadstool ingested 11 10 min. 1/min. for 4 min. 1d3 Wis and 1 Int 1 save 180 gp Tears of death contact 22 1 min. 1/min. for 6 min. 1d6 Con and paralyzed 1 min. — 6,500 gp Terinav root contact 16 1 min. 1/min. for 6 min. 1d3 Dex 1 save 400 gp Ungol dust inhaled 15 — 1/rd. for 4 rds. 1 Cha drain/1d2 Cha 1 save 1,000 gp Wolfsbane ingested 16 10 min. 1/min. for 6 min. 1d3 Con 1 save 500 gp Wyvern poison injury 17 — 1/rd. for 6 rds. 1d4 Con 2 saves 3,000 gp
 
+### Dreaming Death
+
+**Type** poison, inhaled; **Save** Fortitude DC 16  
+**Onset** 10 minutes; **Frequency** 1/10 minutes for 1 hour  
+**Effect** Sleep for 10 minutes; see text; **Cure** 1 save
+
+Imported in stoppered quartz vials from far-off realms of madness, this green and violet gas lulls mortal creatures into a sleep filled with abominable nightmares and maddening half-truths. Creatures that fail their saving throws against dreaming death immediately fall into a fitful slumber for 10 minutes. This toxic sleep affects creatures normally immune to magical sleep effects (such as elves), and victims can be woken from the sleep only by overcoming or being cured of the poison. Each failed save extends the duration of this magical sleep by 10 minutes.
+
+Creatures awaken from these visions scarred and prone to self-harm. Victims must succeed at a Will save (DC = 14 + 2 for every 10 minutes spent sleeping) or begin cutting their own flesh with any available weapons. Affected creatures attempt to deliver a coup de grace attack upon themselves every round. A victim can attempt a new Will save at the beginning of each round, with a cumulative +2 bonus for each round she successfully damaged herself.
+
 ### Drow Poison
 
 **Type** poison, injury; **Save** Fortitude DC 13  
@@ -143,6 +167,14 @@ See [Afflictions](afflictions.md) for how to read a stat block.
 **Type** poison, injury; **Save** Fortitude DC 18  
 **Frequency** 1/round for 6 rounds  
 **Effect** 1d2 Dex damage; **Cure** 1 save
+
+### Gray Justice
+
+**Type** poison, injury; **Save** Fortitude DC 18  
+**Onset** —; **Frequency** 1/minute for 10 minutes  
+**Effect** 1d2 Wisdom damage; see text; **Cure** 2 saves
+
+Crafted by interrogators as an apparent truth serum, gray justice makes victims more susceptible to interrogation and causes side effects such as lethargy, confusion, and nausea; some jailers administer it to prisoners before their execution to make them publicly admit their crimes. The grim truth of the poison is damning, however. Gray justice is no truth serum, but instead compels its victims to say whatever they think will please those around them. Each round a victim takes Wisdom damage from the poison, he answers any questions in the affirmative, agreeing to the best of his ability and even lying to confirm whatever he assumes the questioner wants to hear. If questioned by multiple people, the victim might contradict himself. If asked questions without an affirmative response or leading answer, the victim does not need to respond.
 
 ### Greenblood Oil
 
@@ -234,6 +266,14 @@ See [Afflictions](afflictions.md) for how to read a stat block.
 **Frequency** 1/round for 6 rounds  
 **Effect** 1d3 Str damage; **Cure** 2 consecutive saves
 
+### Ragespittle
+
+**Type** poison, contact; **Save** Fortitude DC 17  
+**Onset** 1 minute; **Frequency** 1/minute for 6 minutes  
+**Effect** 1d2 Dexterity damage; see text; **Cure** 2 saves
+
+Used by cults of destruction to foment unrest, this toxin causes muscle tremors and aggression. Any creature that fails a Fortitude save against ragespittle is subjected to an uncontrollable rage. A rage-afflicted victim must succeed at a DC 17 Will save each round or attack the nearest creature, whether friend or foe. Effects that suppress confusion or emotional conditions suppress ragespittle's rage effect for their duration, but not the poison's ability damage. Effects that end confusion or emotional conditions suppress the urge for only 1d10 rounds while the poison remains in the victim's system.
+
 ### Red Tears
 
 **Type** poison, injury; **Save** Fortitude DC 15  
@@ -245,6 +285,14 @@ See [Afflictions](afflictions.md) for how to read a stat block.
 **Type** poison, contact; **Save** Fortitude DC 16  
 **Onset** 1 minute; **Frequency** 1/minute for 6 minutes  
 **Initial Effect** 2d12 hit point damage; **Secondary Effect** 1 Con damage; **Cure** 1 save
+
+### Scholarblight
+
+**Type** poison, inhaled; **Save** Fortitude DC 15  
+**Onset** —; **Frequency** 1/minute for 6 minutes  
+**Effect** 1d3 Intelligence damage; see text; **Cure** 1 save
+
+Created by necromantic cults to simultaneously protect and bind newcomers and servants who have handled dangerous writings, scholarblight has long since become a preferred poison for those who target arcane spellcasters for assassination. Scholarblight causes headaches and impairs a victim's ability to form or recall memories through mild confusion and dysphoria. More drastically, victims who fail a saving throw against scholarblight lose their ability to read or write for 24 hours, as letters and symbols seem to twist, move, and reorient themselves. This prevents victims from using scrolls and spellbooks, but also protects an afflicted creature from any effect dependent on reading text, such as *explosive runes*.
 
 ### Shadow Essence
 
@@ -295,6 +343,16 @@ See [Afflictions](afflictions.md) for how to read a stat block.
 **Type** poison, ingested; **Save** Fortitude DC 20  
 **Onset** 1 minute; **Frequency** 1 round  
 **Effect** 1d6 Constitution damage. As long as any Constitution damage from this poison remains, the target finds it physically painful to speak above a soft whisper. Whenever the subject attempts to speak in a loud, clear voice (such as when casting a spell), he takes 2d6 points of damage; **Cure** 1 save
+
+### Widow's Kiss
+
+**Type** poison, ingested; **Save** Fortitude DC 24  
+**Onset** 1d4 days; **Frequency** 1/day  
+**Effect** 1d3 Constitution damage; see text; **Cure** 3 saves
+
+Developed by the spiderlike jorogumos, widow's kiss is distilled from the monsters' natural venom and infused with minuscule spider eggs. Creatures injected with the toxin experience headaches and cold sweats, after which the eggs begin to hatch and infest the host's bloodstream, slowly eating the body from within. If controlled or enticed, the swarm of spiders can take direct control of its host's body, rendering hosts susceptible to effects that control or influence vermin, including a jorogumo's spider empathy ability.
+
+The effects of widow's kiss can be removed by a combination of *cure disease* and *neutralize poison*. If a creature is slain by the poison's Constitution damage, a spider swarm erupts from the body 1d6 rounds later.
 
 ### Wolfsbane
 

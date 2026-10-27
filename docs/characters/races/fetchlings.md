@@ -54,6 +54,8 @@ The following racial traits may be selected instead of existing fetchling racial
 
 **Subtle Manipulator**: Rather than taking on the forms of others, some fetchling are adept at destroying the memories of other creatures. Instead of gaining *disguise self* as a spell-like ability, such fetchlings can use *memory lapse* once per day as a spell-like ability. For this ability, a fetchling’s caster level is equal to his total Hit Dice. This racial trait modifies the spell-like ability racial trait.
 
+**Unnerving Gaze**: Some fetchlings gain an upsetting gaze attack that they can activate three times per day as a standard action, affecting all creatures within a 30-foot cone that can see. All creatures that meet the fetchling's unnerving gaze are shaken for 1 round (DC = 10 + 1/2 the fetchling's character level + her Charisma modifier; Will negates). When the fetchling reaches 9th level, her gaze instead causes creatures to be staggered. When the fetchling reaches 13th level, her gaze instead causes creatures to be stunned. Unnerving gaze is a mind-affecting fear effect. This racial trait replaces the fetchling's spell-like abilities.
+
 **World Walker**: Fetchlings who have spent most of their lives on the Material Plane can become more acclimated to their new environments. Instead of gaining a +2 racial bonus on Knowledge (planes) checks, these fetchlings gain a +1 racial bonus on Knowledge (nature) and Knowledge (local) checks. This racial trait modifies the skilled racial trait.
 
 ## Favored Class Options

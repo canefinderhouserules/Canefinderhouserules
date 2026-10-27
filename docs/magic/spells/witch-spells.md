@@ -2,6 +2,10 @@
 
 New witch spells from *Ultimate Magic*. Spells from other books will be added as they are transcribed. An M or F after a name marks a material or focus component not normally included in a spell component pouch.
 
+## 0-Level Witch Spells
+
+- **[Detect Fiendish Presence](detect-fiendish-presence.md)**: Detects evil outsiders and their servants.
+
 ## 1st-Level Witch Spells
 
 - **[Abstemiousness](abstemiousness.md)**: Food sates a creature for a full day.
@@ -17,6 +21,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Carrion Compass](carrion-compass.md)**: Organ leads you to an undead creature's controller
 - **[Cloak of Secrets](cloak-of-secrets.md)**: Bubble disguises speech and spell components.
 - **[Compel Hostility](compel-hostility.md)**: Compels opponents to attack you instead of your allies.
+- **[Coward's Cowl](cowards-cowl.md)**: Defensive bonuses while avoiding enemies.
 - **[Damp Powder](damp-powder.md)**: Ruins ammunition loaded in the targeted firearm.
 - **[Decompose Corpse](decompose-corpse.md)**: Turn a corpse into a clean skeleton.
 - **[Delay Disease](delay-disease.md)**: The target becomes temporarily immune to disease.
@@ -261,6 +266,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Free Spirit](free-spirit.md)**: Gain freedom of movement and fear resistance, but be drunk
 - **[Garrulous Grin](garrulous-grin.md)**: Target seems guilty and takes –4 on Bluff and Diplomacy.
 - **[Gloomblind Bolts](gloomblind-bolts.md)**: You create one or more bolts of negative energy infused with shadow pulled from the Shadow Plane.
+- **[Golden Guise](golden-guise.md)**: Turns an object into gold temporarily.
 - **[Grasping Tentacles](grasping-tentacles.md)**: As black tentacles, but they perform dirty tricks.
 - **[Healing Thief](healing-thief.md)**: You siphon half of all magical healing that the targeted creature receives.
 - **[Hollow Blades](hollow-blades.md)**: Target's melee damage drops one size.
@@ -346,6 +352,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Death Knell Aura](death-knell-aura.md)**: Aura kills dying creatures nearby
 - **[Debilitating Portent](debilitating-portent.md)**: Inflicts an ill fate on a creature, halving its damage when it attacks or casts a spell.
 - **[Demanding Message](demanding-message.md)**: Send messages as per *message* with a *suggestion* for one creature.
+- **[Enticing Adulation](enticing-adulation.md)**: Target rages to defend you.
 - **[False Future](false-future.md)**: Cause divinations of the future to reveal the result you choose.
 - **[False Life, Greater](false-life-greater.md)**: Gain 2d10 temporary hp + 1/level.
 - **[Familiar Melding](familiar-melding.md)**: Possess your familiar.
@@ -402,6 +409,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Appearance of Life, Greater](appearance-of-life-greater.md)**: Perfectly disguise any undead creature as a living one
 - **[Awaken the Devoured](awaken-the-devoured.md)**: Memories of devoured souls torment a daemon
 - **[Befuddled Combatant](befuddled-combatant.md)**: Reduces a target’s ability DCs by 4 and its damage to minimum.
+- **[Blood Tentacles](blood-tentacles.md)**: Blood tentacles attack and heal you.
 - **[Blood Ties](blood-ties.md)**: When a target is harmed, so is the target’s relative.
 - **[Callback, Greater](callback-greater.md)**: Teleport a familiar or spirit animal from miles away to your side when it is injured.
 - **[Cave Fangs](cave-fangs.md)**: Create a trap from stalactites and stalagmites.

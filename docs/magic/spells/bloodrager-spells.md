@@ -41,6 +41,7 @@ Bloodragers gain access to the following spells. Spells in plain text come from 
 - Mudball
 - **[Phantom Blood](phantom-blood.md)**: Gain temporary hp if Con loss would knock you out or kill you.
 - Protection from Chaos/evil/good/law
+- **[Punishing Armor](punishing-armor.md)**: Reflects nonlethal damage back at attackers.
 - **[Ray of Enfeeblement](ray-of-enfeeblement.md)**: Ray causes 1d6 Str penalty + 1 per 2 levels.
 - **[Ray of Sickening](ray-of-sickening.md)**: Ray makes the subject sickened.
 - **[Reduce Person](reduce-person.md)**: Humanoid creature halves in size.
@@ -155,6 +156,7 @@ Bloodragers gain access to the following spells. Spells in plain text come from 
 - **[Burrow](burrow.md)**: Target gains a burrow speed of 15.
 - Burst of Speed
 - Chain of Perdition
+- **[Caustic Safeguard](caustic-safeguard.md)**: Acid ward on an object.
 - **[Cloak of Winds](cloak-of-winds.md)**: Creates a whirling screen of strong wind around you.
 - **[Countless Eyes](countless-eyes.md)**: Extra eyes give all-around vision.
 - **[Draconic Reservoir](draconic-reservoir.md)**: Subject can absorb energy damage and enhance melee attacks with it.
@@ -242,6 +244,7 @@ Bloodragers gain access to the following spells. Spells in plain text come from 
 - **[Flaming Sphere, Greater](flaming-sphere-greater.md)**: Rolling ball of fire deals 6d6 fire damage and ignites targets.
 - Ghost Wolf
 - Hellmouth Lash
+- **[Furious Fire Barrage](furious-fire-barrage.md)**: Throw fireballs fueled by anger.
 - **[Hollow Heroism](hollow-heroism.md)**: Provide a *heroism* effect that you can reverse at any time.
 - **[Horrific Doubles](horrific-doubles.md)**: Call forth disturbing *mirror images*.
 - **[Ice Storm](ice-storm.md)**: Hail deals 5d6 damage in cylinder 40 ft. across.

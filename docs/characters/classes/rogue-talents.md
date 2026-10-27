@@ -253,3 +253,9 @@ These rogue talents can be chosen by any rogue (including the rogue from *Pathfi
 **Smuggler (Ex)**: The rogue has picked up tricks for making masterful forgeries and using bribery to evade trade rules. The rogue needs to learn only the approximate appearance of a document that doesn’t require a particular person’s signature to accurately forge the document with Linguistics (gaining a +8 bonus on the check to create the forgery, as if she had seen a similar document before). The rogue needs only a small sample of a person’s handwriting to make a convincing forgery of great length in that person’s handwriting. The rogue can always take 10 on Diplomacy checks to offer bribes. In addition, the rogue automatically gains an extra advantage at the start of a pursuit in an urban environment.
 
 **Thrill of the Chase (Ex)**: The rogue revels in the thrill and adrenaline rush of a challenging chase. When engaged in a chase or pursuit, the rogue gains one d20 reroll which she can use at any time after the original roll is made but before the results of the roll are revealed; she must take the second result, even if it is lower. She can use this reroll once per chase or once per day during a pursuit. Additionally, she gains Run as a bonus feat.
+
+## Drow Rogue Talents
+
+The following rogue talent is available to drow rogues.
+
+**Grazing Shot (Ex)**: Particularly deft rogues can strike two foes with one well-placed shot. As a standard action, a rogue with this talent can fire a hand crossbow at an enemy who is granted cover by another opponent. Make one ranged attack roll and compare the result to each opponent's AC. Each hit deals 1 point of damage. Any special weapon properties or precision damage apply to only a single target, but any poison applied to the bolt affects all targets struck. An unchained rogue can select this talent.

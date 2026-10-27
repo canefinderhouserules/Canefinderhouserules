@@ -63,6 +63,7 @@ Spiritualists gain access to the following spells. Spells without a link come fr
 - **[Protection from Good](protection-from-good.md)**
 - **[Protection from Law](protection-from-law.md)**
 - **[Psychic Reading](psychic-reading.md)**: Read surface thoughts to learn information about a subject.
+- **[Punishing Armor](punishing-armor.md)**: Reflects nonlethal damage back at attackers.
 - **[Remove Fear](remove-fear.md)**: Suppresses fear or gives +4 on saves against fear for one subject + one per four levels.
 - **[Remove Sickness](remove-sickness.md)**: Suppress disease, nausea, and the sickened condition.
 - **[Sanctify Corpse](sanctify-corpse.md)**: Prevent a corpse from becoming an undead creature.
@@ -329,6 +330,7 @@ Spiritualists gain access to the following spells. Spells without a link come fr
 - **[Secret Workshop](secret-workshop.md)**: As nondetection, but protects many creatures and objects.
 - **[Sending](sending.md)**: Delivers short message anywhere, instantly.
 - **[Shadow Body](shadow-body.md)**: Turn your body into a living shadow.
+- **[Shadow Endurance](shadow-endurance.md)**: Shadow duplicate takes your place when you fall.
 - **[Shadow Evocation](shadow-evocation.md)**: Mimics evocation below 5th level, but only 20% real.
 - **[Slay Living](slay-living.md)**: Touch attack deals 12d6 +1 per level.
 - **[Telepathic Bond](telepathic-bond.md)**: Link lets allies communicate.

@@ -123,6 +123,7 @@ New antipaladin spells from *Ultimate Magic*. Spells from other books will be ad
 - **[Shadow Jaunt](shadow-jaunt.md)**: Teleport between shadows, leaving an image behind
 - **[Shared Sacrifice](shared-sacrifice.md)**: Redirect half your damage to a target.
 - **[Trial by Fire](trial-by-fire.md)**: Divine fire punishes targets whose alignment differs from your deity’s.
+- **[Unholy Ward](unholy-ward.md)**: Resist 10 damage from holy sources.
 - **[Utter Contempt](utter-contempt.md)**: Target’s attitude worsens by two categories.
 - **[Vigilant Rest](vigilant-rest.md)**: Cause a sleeping creature to retain some perception of its surroundings.
 - **[Vile Dog Transformation](vile-dog-transformation.md)**: Transform ordinary dogs into fiendish minions.
@@ -130,6 +131,7 @@ New antipaladin spells from *Ultimate Magic*. Spells from other books will be ad
 
 ## 4th-Level Antipaladin Spells
 
+- **[Blood Tentacles](blood-tentacles.md)**: Blood tentacles attack and heal you.
 - **[Blood Ties](blood-ties.md)**: When a target is harmed, so is the target’s relative.
 - **[Claim Identity, Greater](claim-identity-greater.md)**: As claim identity, but the target becomes a mask others can wear.
 - **[Cloak of Shadows](cloak-of-shadows.md)**: Wrap yourself in a shadow mantle for concealment and DR

@@ -44,6 +44,10 @@ Only half-orcs may select one of these traits.
 
 **Brute**: You have worked for a crime lord, either as a low- level enforcer or as a guard, and are adept at frightening away people. You gain a +1 trait bonus on Intimidate checks, and Intimidate is always a class skill for you.
 
+**Cruel Rager**: If you successfully confirm a critical hit against an enemy while raging, you regain 1 round of rage. This can occur only once per rage.
+
+**Lasting Ferociousness**: Increase the number of rounds you can act as disabled from your orc ferocity racial trait to 2 rounds.
+
 **Outcast**: Driven from town after town because of your heritage, you have become adept at living apart from others. You gain a +1 trait bonus on Survival skill checks, and Survival is always a class skill for you.
 
 ## Halfling Traits
@@ -90,7 +94,11 @@ Only ratfolk may select one of these traits.
 
 Only tieflings may select one of these traits.
 
+**Enduring Heritage**: You can channel your evil ancestry to take advantage of any effects for which such an identity would matter (such as *detect evil*). You detect as an evil outsider with the same number of HD as you possess. You can begin or end this effect as a swift action. You can maintain this effect for a number of rounds per day equal to your HD.
+
 **Fiendish Sniper**: You instinctively hide after you shoot your opponents, waiting for an opportune moment to strike again. You gain a +5 trait bonus on Stealth checks following a sniping attack.
+**Malign Instrument**: Select a good-aligned deity. Add 1 to the DCs of your spells' saves when targeting a good-aligned outsider or divine spellcaster who serves that deity.
+
 
 ## Skinwalker Traits
 
@@ -147,3 +155,27 @@ Only skinwalkers may select the traits in this section (the heritage sections ar
 **Lycanthropic Bloodlust**: When your lycanthropic heritage awakened, you thrilled at any excuse for violence. Although you might have learned to focus or suppress this urge, it still gives you energy in a fight. Once per day, when you deal damage to a foe with a natural attack, you may gain 1d6 temporary hit points as an immediate action. These temporary hit points last for 1 minute.
 
 **Shared Curse**: A portion of your ancestor's fell curse still courses through your blood. Once per day as a standard action, you can share a portion of your accursed heritage with a willing ally by dealing 1 point of damage to that ally with a natural weapon. The ally gains a natural bite attack, as if from your skinwalker ability, for 2 rounds.
+
+## Changeling Traits
+
+Only changelings can select these traits.
+
+**Bitter Heart**: You share a sliver of your mother's supernatural hatred, gaining a +2 trait bonus to confirm critical hits.
+
+**Magic in the Blood**: You possess natural magical ability. Select one of the following spells: *bleed*, *create water*, *dancing lights*, *detect good*, *ghost sound*, or *putrefy food and drink*. You can cast this spell three times per day as a spell-like ability.
+
+## Drow Traits
+
+Only drow can select these traits.
+
+**Arcane Prodigy**: Once per day as an immediate action, you can double the duration of one of your racial spell-like abilities, as if using the Extend Spell metamagic feat.
+
+**Poisonous Upbringing**: There were a few touchy moments in your education in the use of poisons. You gain a +2 trait bonus on all saves to resist poison effects.
+
+## Fetchling Traits
+
+Only fetchlings can select these traits.
+
+**Shadow Stalker**: You are dedicated to mastering the art of hiding in the shadows. Increase the miss chance gained from your shadow blending ability by 5%.
+
+**Weathered**: Because of your natural resistances, you gain a +2 trait bonus on saves to resist cold or electricity effects and hazards.

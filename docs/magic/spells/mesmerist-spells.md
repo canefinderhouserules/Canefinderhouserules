@@ -48,6 +48,7 @@ Mesmerists gain access to the following spells. Spells without a link come from 
 - **[Comprehend Languages](comprehend-languages.md)**: You understand all spoken and written languages.
 - **[Compulsive Liar](compulsive-liar.md)**: Prevent target from speaking the truth.
 - **[Confusion, Lesser](confusion-lesser.md)**: One creature is *confused* for 1 round.
+- **[Coward's Cowl](cowards-cowl.md)**: Defensive bonuses while avoiding enemies.
 - **[Crime of Opportunity](crime-of-opportunity.md)**: Compel a target to take a criminal action.
 - **[Decrepit Disguise](decrepit-disguise.md)**: Make an object seem worthless.
 - **[Deja Vu](deja-vu.md)**: Make a creature repeat its actions.
@@ -283,6 +284,7 @@ Mesmerists gain access to the following spells. Spells without a link come from 
 - **[Displacement](displacement.md)**: Attacks miss subject 50% of the time.
 - **[Dominate Animal](dominate-animal.md)**: One animal obeys your silent mental commands and orders.
 - **[Dreadscape](dreadscape.md)**: Surroundings and unfamiliar creatures seem like something out of a nightmare.
+- **[Dream Dalliance](dream-dalliance.md)**: Target sleeps in a perfect dream.
 - **[Elemental Speech](elemental-speech.md)**: Enables you to speak to elementals and some creatures.
 - **[Enchantment Foil](enchantment-foil.md)**
 - **[False Future](false-future.md)**: Cause divinations of the future to reveal the result you choose.
@@ -466,6 +468,7 @@ Mesmerists gain access to the following spells. Spells without a link come from 
 - **[Secret Workshop](secret-workshop.md)**: As nondetection, but protects many creatures and objects.
 - **[Seeds of Influence, Greater](seeds-of-influence-greater.md)**: As seeds of influence, but can dispel protections against your spells.
 - **[Seeming](seeming.md)**: Changes appearance of 1 person per 2 levels.
+- **[Shadow Endurance](shadow-endurance.md)**: Shadow duplicate takes your place when you fall.
 - **[Shadow Evocation](shadow-evocation.md)**: Mimics evocation below 5th level, but only 20% real.
 - **[Shadow Walk](shadow-walk.md)**: Step into shadow to travel rapidly.
 - **[Suggestion, Mass](suggestion-mass.md)**: As *suggestion,* affects 1 subject/level.

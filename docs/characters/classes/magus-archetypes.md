@@ -132,6 +132,8 @@ As he gains levels, a magus masters arcane secrets that supplement his magical a
 
 **Planar Hunter (Su)**: Whenever the magus enhances his weapon using his arcane pool, he can spend 1 additional point from his arcane pool to add the *planar* special ability to his weapon, or 2 additional points to add the *phase locking* special ability. The magus must be at least 9th level before selecting this arcana.
 
+**Vision-Clouding Strike (Su)**: The magus can expend 1 or more points from his arcane pool as a swift action to empower his weapon with shadowy energy that dissipates within 1 minute. A creature struck with the weapon must succeed at a Will save (DC = 1/2 the magus's level + his Intelligence modifier) or treat the magus as being in an area of dim light for 1d4 rounds, plus 1 additional round for each arcane pool point expended. *True seeing* penetrates this effect, but darkvision and similar darkness-penetrating effects do not. The magus must be at least 9th level before selecting this arcana. (Available to fetchling magi.)
+
 
 ## Eldritch Scion
 

@@ -609,3 +609,21 @@ Unwavering conduits work to keep everything ordered and regimented, drawing on p
 Also, starting at 2nd level, creatures summoned by the unwavering conduit receive a +1 resistance bonus on saving throws against spells and abilities of the conjuration, enchantment, and transmutation schools. This bonus increases to +2 at 6th level, and by an additional 1 every 4 class levels thereafter. This ability alters summon monster.
 
 **Law Magic**: The unwavering conduit gains the following bonus spells known at the listed spell level: 1st—*protection from chaos*, 2nd—*arrow of law*, 3rd—*magic circle against chaos*, 4th—*order's wrath*, 5th—*dispel chaos*, 6th—*dictum*. The unwavering conduit gains one fewer spell known per spell level for spell levels 1–6. This ability alters the summoner's spells known.
+
+## Devil Impostor (Unchained Summoner)
+
+Some summoners can't abide the cruelty of devils, or simply can't outwit them, but must appear to do so to get by in lands of infernal influence. Rather than risk binding true devils, they reshape their eidolons into deceptive forms.
+
+**Skills**: A devil impostor adds Bluff and Intimidate to her list of class skills. This alters the unchained summoner's class skills.
+
+**Bond Alignment (Su)**: At 2nd level, a devil impostor and her eidolon both radiate alignment auras of lawful evil for the purpose of divination spells that reveal auras (such as *detect evil*), as long as they remain within 1,000 feet of one another. This does not affect other abilities that depend on alignment (such as *smite evil*). The devil impostor can suppress this effect for 1 minute as a standard action. This ability replaces bond senses.
+
+**Deceptive Eidolon**: A devil impostor's eidolon always resembles a specific type of devil of the same size (caster's choice), and radiates the aura of a lawful evil outsider under magical effects such as *detect evil*, regardless of its actual alignment. The eidolon still uses its actual alignment when resolving all other alignment-dependent abilities, effects, and spells. The eidolon can have any subtype, though its appearance always remains that of a devil, and it can select only evolutions available to its true subtype. This modifies the normal eidolon rules.
+
+**Fiendish Summons (Sp)**: A devil impostor must apply the fiendish template to any creatures summoned via her summon monster spell-like ability regardless of her alignment. This alters the unchained summoner's summon monster ability.
+
+**Devil's Flesh (Ex)**: At 4th level, a devil impostor's eidolon adopts several fiendish traits. The devil impostor's eidolon gains the skilled (Bluff) and resistance (fire) evolutions (or immunity [fire] if it already has resistance to fire). The eidolon can select additional evolutions available to the devil subtype. This ability replaces shield ally.
+
+**Fiendish Appearance (Su)**: At 8th level, a devil impostor can use her maker's call ability to immediately dismiss her eidolon and take on its appearance. This functions as a modified *alter self* spell, transforming the devil impostor into a replica of her eidolon. She gains a single natural attack possessed by her eidolon, and if her eidolon is smaller than Small or larger than Medium, she assumes the form of a Small- or Medium-sized version of her eidolon, respectively. The transformation lasts for 10 minutes × her unchained summoner level or until the eidolon is resummoned. This ability replaces transposition.
+
+**Devil's Tongue (Ex)**: At 12th level, the devil impostor's eidolon can apply its master's skill ranks and proficiency bonuses when attempting Bluff, Diplomacy, and Intimidate skill checks. This ability replaces greater shield ally.

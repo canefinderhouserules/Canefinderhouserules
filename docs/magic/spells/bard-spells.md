@@ -4,6 +4,7 @@
 
 - **[Dancing Lights](dancing-lights.md)**: Creates torches or other lights.
 - **[Daze](daze.md)**: Humanoid creature of 4 HD or less loses next action.
+- **[Detect Fiendish Presence](detect-fiendish-presence.md)**: Detects evil outsiders and their servants.
 - **[Detect Magic](detect-magic.md)**: Detects spells and magic items within 60 ft.
 - **[Flare](flare.md)**: Dazzles one creature (–1 on attack rolls).
 - **[Ghost Sound](ghost-sound.md)**: Figment sounds.
@@ -42,6 +43,7 @@
 - **[Comprehend Languages](comprehend-languages.md)**: You understand all languages.
 - **[Compulsive Liar](compulsive-liar.md)**: Prevent target from speaking the truth.
 - **[Confusion, Lesser](confusion-lesser.md)**: One creature is *confused* for 1 round.
+- **[Coward's Cowl](cowards-cowl.md)**: Defensive bonuses while avoiding enemies.
 - **[Cultural Adaptation](cultural-adaptation.md)**: Adapt to fit the local culture.
 - **[Cure Light Wounds](cure-light-wounds.md)**: Cures 1d8 damage + 1/level (max +5).
 - **[Deadeye’s Lore](deadeyes-lore.md)**: Gain a +4 bonus on Survival and move full speed while tracking.
@@ -193,6 +195,7 @@
 - **[Fox’s Cunning](foxs-cunning.md)**: Subject gains +4 to Int for 1 min./level.
 - **[Garrulous Grin](garrulous-grin.md)**: Target seems guilty and takes –4 on Bluff and Diplomacy.
 - **[Glitterdust](glitterdust.md)**: Blinds creatures, outlines invisible creatures.
+- **[Golden Guise](golden-guise.md)**: Turns an object into gold temporarily.
 - **[Haunting Reminder](haunting-reminder.md)**: Coerced target becomes shaken if it betrays you.
 - **[Heroism](heroism.md)**: Gives +2 on attack rolls, saves, skill checks.
 - **[Hidden Knowledge](hidden-knowledge.md)**: Store knowledge in a tattoo, forgetting it temporarily.
@@ -292,6 +295,7 @@
 - **[Displacement](displacement.md)**: Attacks miss subject 50% of the time.
 - **[Disrupt Link](disrupt-link.md)**: Sever the link between a creature and her companion or familiar.
 - **[Dreadscape](dreadscape.md)**: Surroundings and unfamiliar creatures seem like something out of a nightmare.
+- **[Enticing Adulation](enticing-adulation.md)**: Target rages to defend you.
 - **[False Alibi](false-alibi.md)**: Replace a memory when a trigger occurs.
 - **[False Future](false-future.md)**: Cause divinations of the future to reveal the result you choose.
 - **[Fear](fear.md)**: Subjects within cone flee for 1 round/level.
@@ -450,6 +454,7 @@
 - **[Scripted Hallucination](scripted-hallucination.md)**: As *complex hallucination*, but without concentration.
 - **[Seeds of Influence, Greater](seeds-of-influence-greater.md)**: As seeds of influence, but can dispel protections against your spells.
 - **[Seeming](seeming.md)**: Changes appearance of one person per two levels.
+- **[Shadow Endurance](shadow-endurance.md)**: Shadow duplicate takes your place when you fall.
 - **[Shadow Evocation](shadow-evocation.md)**: Mimics evocation of lower than 5th level, but only 20% real.
 - **[Shadow Walk](shadow-walk.md)**: Step into shadow to travel rapidly.
 - **[Shroud of Darkness](shroud-of-darkness.md)**: Plunge targets into supernatural darkness

@@ -19,6 +19,8 @@ These traits are associated with combat, battle, and physical prowess. They give
 
 **Axe to Grind**: There is a fire in your heart that can’t be quenched. You gain a +1 trait bonus on damage against foes who are threatened by only you.
 
+**Back for More**: Anytime an opponent confirms a critical hit against you, you gain a +2 morale bonus on attack rolls and damage rolls against that foe until the end of your next turn.
+
 **Battlefield Disciple**: You are skilled at supporting your allies in the heat of battle. You gain a +2 trait bonus on Heal checks made to stabilize a dying creature. In addition, when you successfully use the aid another action in combat to grant an ally a bonus on her next attack roll, the bonus you grant increases by 1.
 
 **Black Powder Bravado**: You are particularly successful when using deeds. Once per day, when you perform a deed that requires an attack roll and you miss with that roll, you can reroll it. You must take the second result even if it is worse.
@@ -30,6 +32,8 @@ These traits are associated with combat, battle, and physical prowess. They give
 **Bloodthirsty**: You have a vicious streak, and nothing satisfies you more than warm blood on your hands and blade. Whenever you make an attack that reduces a foe to 0 hit points or fewer or you confirm a critical hit, your attack deals 1 additional point of damage. The additional damage is a trait bonus, and is multiplied by your weapon’s critical hit multiplier.
 
 **Bloody-Minded**: You are always ready for bloodshed. You gain a +1 trait bonus on initiative and Intimidate checks.
+
+**Broken, Not Beaten**: You automatically stabilize when reduced below 0 hit points. Once per day when brought below 0 hit points, you can accept 1 point of damage to regain consciousness for 1 round, though you remain staggered and only able to take a single move or standard action.
 
 **Careful Combatant**: You have a strong sense of self-preservation, believing it is more important to safely extract yourself from a fight that has turned hopeless than to stubbornly stand your ground and risk death. When using the withdraw action, both the first and second squares of your movement are not considered threatened by any opponents you can see, rather than just the first square.
 
@@ -261,7 +265,11 @@ These traits are associated with magic and focus on spellcasting and manipulatin
 
 **Knowledgeable Caster**: Once per day when you cast a divination spell, you can cast that spell as if your caster level were 1 level higher in the appropriate class. You also gain a +1 trait bonus on any Knowledge checks associated with your sorcerer bloodline, if any.
 
+**Less Effort**: Select one spell belonging to the abjuration or transmutation school on your spell list. When you cast that spell or it is cast on you, treat the caster level as 2 higher for the purpose of determining the duration.
+
 **Linked Surge**: Once per day, you may make a Strength-or Constitution-based ability check or skill check using you eidolon’s ability score in place of your own. Your eidolon must be summoned and with 30 feet for you to use this trait.
+
+**Low Blow**: When targeting a good-aligned creature with a spell or spell-like ability with the pain descriptor or that imposes a morale penalty, increase its effective caster level by 1. If you are of an evil alignment, increase the save DC of the effect by 1 as well.
 
 **Magic Crafter**: Your early magical training involved study of the properties and creation of magic items. You gain a +1 trait bonus on Appraise checks and a +1 bonus on any Craft checks attempted while making magic items.
 
@@ -339,6 +347,8 @@ Social traits reflect your upbringing; your background in high society or lack t
 
 **Bruising Intellect**: Your sharp intellect and rapier-like wit bruise egos. Intimidate is always a class skill for you, and you may use your Intelligence modifier when making Intimidate checks instead of your Charisma modifier.
 
+**Carnal Attraction**: You know how to ask the wrong questions the right way, granting you a +2 trait bonus on Diplomacy (gather information) and Knowledge (local) checks regarding whichever vice fascinates you: drugs, forbidden lore, gambling, illegal fighting, or a similar debauchery or indecency.
+
 **Civilized**: You are well versed in the local laws, customs, and politics. You gain a +1 trait bonus on Knowledge (nobility) checks and Knowledge (local) checks. Knowledge (local) is always a class skill for you.
 
 **Criminal**: You spent your early life robbing and stealing to get by. Select one of the following skills: Disable Device, Intimidate, or Sleight of Hand. You gain a +1 trait bonus on that skill, and it is always a class skill for you.
@@ -356,6 +366,8 @@ Social traits reflect your upbringing; your background in high society or lack t
 **Elemental Negotiator**: You have traveled to the Elemental Planes under the protection of a powerful group of merchants or spellcasters. At character creation, you learn one of the following languages as a bonus language: Aquan, Auran, Ignan, or Terran. Additionally, your options for bonus languages from having a high Intelligence score include the other three elemental languages, in addition to those language options allowed by your race and class. You gain a +2 trait bonus on Diplomacy and Bluff checks when using one of these languages to communicate with a creature originating from the language’s corresponding Elemental Plane.
 
 **Fast Talker**: You had a knack for getting yourself into trouble as a child, and as a result developed a silver tongue at an early age. You gain a +1 trait bonus on Bluff checks, and Bluffis always a class skill for you.
+
+**For the Money**: You gain a +2 trait bonus on skill checks to haggle prices or negotiate payment; this bonus increases to +4 if you are in a position of military or economic power over your target. You also gain a +1 trait bonus on Appraise checks and Appraise is always a class skill for you.
 
 **Friend in Every Town**: You have no problem making friends and learning information from them wherever you go. You gain a +1 trait bonus on all Knowledge (local) checks and Diplomacy checks. One of these skills (your choice) is always a class skill for you.
 
@@ -416,6 +428,8 @@ Social traits reflect your upbringing; your background in high society or lack t
 **Truth’s Agent**: You are skilled at weeding out information. You gain a +1 trait bonus on all Diplomacy checks made to gather information and all Knowledge (local) checks. Knowledge (local) is always a class skill for you.
 
 **Tyrant’s Sympathizer**: You feed intelligence to a ruthless infernal regime for your own gain or ideological reasons and are given valuable clues gathered by that regime’s other spies in exchange. Once per month while in a settlement of at least 2,000 people, you can call upon these connections to gain an edge in a verbal duel or gain a +2 bonus on one Bluff, Diplomacy, or Intimidate check.
+
+**Unbalanced Insight**: You gain Aklo as a bonus language, and gain a +2 trait bonus on all saving throws to resist any effects or spells originating from aberrations that cause confusion or fear.
 
 **Unintentional Linguist**: You can speak with outsiders. You gain a +1 trait bonus on all Linguistics checks, and you begin play knowing one of the following languages (in addition to those granted by your race and Intelligence modifier): Abyssal, Aquan, Celestial, Ignan, Infernal, Protean, or Terran.
 

@@ -601,3 +601,254 @@ Crumbling bark continuously flakes from this solid, aged oak staff without dimin
 - *Touch injection* (2 charges)
 
 **Construction Requirements:** Craft Staff, *calcific touch*, *corrosive touch*, *touch injection*; **Cost** 10,400 gp
+
+## Agents of Evil Items
+
+### Bloodthirsty (armor special ability)
+
+**Slot** armor special ability; **CL** 7th; **Price** +2 bonus; **Weight** —
+
+**Aura** moderate enchantment
+
+Jagged designs of lightning, fangs, or weaponry adorn any *bloodthirsty* armor, which bolsters its wearer's confidence and presence with each wound the wearer inflicts. Only light or medium armor can be enchanted with the *bloodthirsty* special ability. Such a set of armor promotes wanton bloodshed, as its enhancement bonus to AC increases by 1 for 1 round after its wearer deals damage with a natural attack or melee weapon. If the wearer of a suit of *bloodthirsty* armor is raging, the armor's enhancement bonus increases by 3 instead.
+
+**Construction Requirements:** Craft Magic Arms and Armor, *rage*; **Cost** +1 bonus equivalent (half the price)
+
+### Deceiving (armor special ability)
+
+**Slot** armor special ability; **CL** 7th; **Price** +5,000 gp; **Weight** —
+
+**Aura** moderate abjuration
+
+A suit of armor with this special ability alters the perceived aura of the wearer for the purpose of divination spells that reveal auras (such as *detect evil*) to an aura decided when the armor is enchanted. The wearer always radiates this alternate alignment aura while wearing a suit of *deceiving* armor, and cannot suppress this effect. The wearer does not count as having this modified alignment for effects other than detection, such as smite, access to class abilities, and spells that have alternative effects based on a target's alignment. If the wearer is struck by an attack or effect that is more effective against evil-aligned creatures (such as smite, *holy word*, etc.), the attacker perceives the strike as being far more effective than it actually is. However, with a successful DC 20 Sense Motive check, the attacker realizes something is amiss with the attack.
+
+**Construction Requirements:** Craft Magic Arms and Armor, *nondetection*, *unholy blight*; **Cost** +2,500 gp
+
+### Malevolent (armor special ability)
+
+**Slot** armor special ability; **CL** 7th; **Price** +5,000 gp; **Weight** —
+
+**Aura** moderate evocation
+
+Malevolent armor is usually decorated with motifs of conflict, such as enraged faces, clashing swords, and dueling outsiders. The wearer of a suit of *malevolent* armor applies a +2 competence bonus to all Bluff and Intimidate checks attempted during violent conflict. The wearer can also apply the enhancement bonus of the armor to attack rolls made against flat-footed or prone enemies.
+
+**Construction Requirements:** Craft Magic Arms and Armor, *desecrate*, *doom*; **Cost** +2,500 gp
+
+### Weeping (armor special ability)
+
+**Slot** shield special ability; **CL** 10th; **Price** +2 bonus; **Weight** —
+
+**Aura** moderate enchantment
+
+The *weeping* special quality can be applied only to a shield. As a move action, a wielder can cause a *weeping* shield to emit continual sobbing and wailing. While this effect is active, each good-aligned creature within 10 feet of the wielder takes a –1 penalty on attack rolls, saving throws, ability checks, skill checks, and weapon damage rolls. Nongood creatures and those immune to mind-affecting effects are immune to this effect. The wailing lasts for 10 minutes or until ended as a move action.
+
+**Construction Requirements:** Craft Magic Arms and Armor, *crushing despair*; **Cost** +1 bonus equivalent (half the price)
+
+### Injecting (weapon special ability)
+
+**Slot** weapon special ability; **CL** 5th; **Price** +1 bonus; **Weight** —
+
+**Aura** moderate conjuration
+
+*Injecting* weapons feature bulbous pommels and small grooves along their blades, allowing them to store and deliver poison. An *injecting* weapon can hold up to 3 doses of injury poison. As a swift action, the wielder of an *injecting* weapon can coat the weapon with 1 dose of one of the inserted poisons. Only bladed weapons can be made into *injecting* weapons. Adding a dose of poison to the reservoir is a full-round action.
+
+**Construction Requirements:** Craft Magic Arms and Armor, *delay poison*; **Cost** +0.5 bonus equivalent (half the price)
+
+### Miserable (weapon special ability)
+
+**Slot** weapon special ability; **CL** 8th; **Price** +1 bonus; **Weight** —
+
+**Aura** moderate conjuration
+
+A *miserable* weapon cuts through the energy resistance of certain foes. *Miserable* weapons must be crafted with a designated creature type (just like bane weapons), and each time they deal damage to their designated foes, their magic halves the creatures' natural energy resistances for 1 round.
+
+**Construction Requirements:** Craft Magic Arms and Armor, *summon monster I*; **Cost** +0.5 bonus equivalent (half the price)
+
+### Toxic (weapon special ability)
+
+**Slot** weapon special ability; **CL** 7th; **Price** +2 bonus; **Weight** —
+
+**Aura** moderate transmutation
+
+Weapons with the *toxic* special ability reinforce the effects of applied poisons. The save DC of a poison applied to the weapon and delivered via an attack increases by 2. In addition, each time such a weapon strikes a target, there is a 25% chance that the poison dose is not expended in the attack and can be used to make an additional attack. A single dose of poison can be preserved by this property only once.
+
+**Construction Requirements:** Craft Magic Arms and Armor, *accelerate poison*, *pernicious poison*; **Cost** +1 bonus equivalent (half the price)
+
+### Closing Offer
+
+**Slot** none; **CL** 10th; **Price** 15,310 gp; **Weight** 2 lbs.
+
+**Aura** moderate enchantment
+
+A *closing offer* is a rusty +2 *shortsword* with a thin, unblemished section along the center of the blade. Inscribing the surname of a humanoid on that section attunes the sword to its family, causing it to act as a bane weapon against that family line. Anytime a marked target takes damage from this blade, the wielder can ask a single question that must have a yes/no response. If the target succeeds at a DC 14 Will save, she can ignore the question; otherwise, she must answer it truthfully. A *closing offer* can be re-attuned to a new family name via a ritual that takes 8 hours to complete and requires 200 gp in alchemical reagents.
+
+**Construction Requirements:** Craft Magic Arms and Armor, *confess*, *heroism*; **Cost** 7,810 gp
+
+### Fiend's Relief
+
+**Slot** none; **CL** 7th; **Price** 3,305 gp; **Weight** 9 lbs.
+
+**Aura** moderate divination
+
+A creature wielding one of these +1 *longspears*—favored gifts of infernal aristocracies—gains a +3 bonus on attack rolls when flanking with an evil-aligned outsider, instead of +2. A creature using the longspear's reach to attack through a square occupied by an allied evil-aligned outsider ignores any cover bonus the fiend would grant to the target.
+
+**Construction Requirements:** Craft Magic Arms and Armor, *command*, *detect evil*; **Cost** 1,805 gp
+
+### Withershot
+
+**Slot** none; **CL** 9th; **Price** 34,800 gp; **Weight** 9 lbs.
+
+**Aura** moderate necromancy
+
+This +2 *shock musket* is inscribed with imagery of storms and plagues. When a bullet fired from a *withershot* strikes a good- or neutral-aligned target, it burrows into the target's flesh and infects the target with cackle fever. Infected creatures can resist the disease normally, but can't be cured or recover lost ability damage until the cursed bullet is removed (this requires a successful DC 15 Heal check or a *restoration* spell). Additional bullet impacts do not increase the effects, but each bullet must be removed before the target can be cured of its disease.
+
+**Construction Requirements:** Craft Magic Arms and Armor, *call lightning*, *contagion*; **Cost** 17,400 gp
+
+### Grave Marker Arrow
+
+**Slot** none; **CL** 5th; **Price** 307 gp; **Weight** 1/10 lb.
+
+**Aura** faint necromancy
+
+This +1 *arrow* is crafted from human bone by necromantic cultists. When it strikes a target, all mindless undead within 300 feet are compelled to attack the creature struck. This effect ignores the immunity to mind-affecting effects normally granted by the undead creature type. Undead under the control of another creature can be forced to ignore this command if their master succeeds at a DC 11 caster level check. Sentient undead are unaffected. The compulsion lasts for 1 minute, after which the undead revert to their normal behavior.
+
+**Construction Requirements:** Craft Magic Arms and Armor, *command undead*; **Cost** 157 gp
+
+### Snakebite
+
+**Slot** none; **CL** 9th; **Price** 57,320 gp; **Weight** 2 lbs.
+
+**Aura** moderate necromancy and transmutation
+
+This +2 *injecting wounding rapier* is prized among serpent cultists. This sword increases the save DC of any poison applied to its blade by 1.
+
+**Construction Requirements:** Craft Magic Arms and Armor, *bleed*, *pernicious poison*; **Cost** 28,660 gp
+
+### Veiled Assassin's Robe
+
+**Slot** body; **CL** 10th; **Price** 16,000 gp; **Weight** 1 lb.
+
+**Aura** moderate divination and necromancy
+
+Sewn from deep purple fabric, this robe appears to be a plain version of a funerary order's holy vestments. A creature wearing this robe can speak directly into the minds of other creatures wearing veiled assassin's robes (or carrying a matching unholy symbol chosen when the robe is made) within 100 feet, as long as they share a common language. The robes grant a +10 circumstance bonus on Disguise checks to appear as a monk of the funerary order and a +10 circumstance bonus on Sleight of Hand checks to conceal weapons. Once per day, a wearer with the death attack class ability can reduce the number of rounds required to study a target for a death attack by 1.
+
+**Construction Requirements:** Craft Wondrous Item, *message*, *slay living*; **Cost** 8,000 gp
+
+### Ebony Bolero
+
+**Slot** shoulders; **CL** 9th; **Price** 18,000 gp; **Weight** 5 lbs.
+
+**Aura** moderate conjuration
+
+Wisps of black smoke dance above these gray, fetchling-made pauldrons. The wearer can manipulate these strands of shadow matter, assailing a target within 60 feet as a move action to create any of the effects listed below. All sustained effects last as long as the wearer concentrates to maintain them or up to 1 minute. The effects of these shadowy tendrils can be ignored with a successful DC 16 Will save. An *ebony bolero* has 5 charges, which regenerate at dusk each day. Each of the following assaults uses 1 charge.
+
+* **Emotion**: The wearer can smother a target's emotions as if by a *calm emotions* spell. Alternatively, the wearer can force a creature with the rage class ability to enter a raging state for at least 1 round (though the target can remain in this state longer if it chooses). The wearer can expend 2 charges when using this ability to increase the duration the target must rage to 3 rounds.
+* **Memory**: The wearer can blot out the target's memories of events from the past minute. This functions as *modify memory*, but can only eliminate memories.
+* **Thoughts**: The wearer can delve into a target's mind and pluck out thoughts, as per *detect thoughts*.
+* **Vision**: The wearer can wind wisps of shadow matter around a creature's eyes, blinding it for as long as the wearer concentrates. Darkvision can't penetrate this supernatural darkness, but the see in darkness universal monster ability can.
+
+**Construction Requirements:** Craft Wondrous Item, *shadow conjuration*; **Cost** 9,000 gp
+
+### Feller's Belt
+
+**Slot** belt; **CL** 10th; **Price** 12,000 gp; **Weight** 1 lb.
+
+**Aura** moderate transmutation
+
+These belts nominally appear as expensive but effective aids for felling trees, but are often used as secret weapons by loggers who raid fey-haunted woods. A creature wearing a *feller's belt* gains a +4 bonus on combat maneuver checks to sunder wooden objects, ignores any hardness possessed by wooden objects, and bypasses the damage reduction of any creatures of the plant or fey type. A creature wearing a *feller's belt* for over 24 hours doubles the critical threat range of any held axe, as though that weapon possessed the keen weapon special ability. This benefit lasts for as long as the belt is worn, and doesn't stack with any other effects that expand the critical threat range of a weapon (such as *keen edge* or the Improved Critical feat).
+
+**Construction Requirements:** Craft Wondrous Item, *keen edge*, *warp wood*; **Cost** 6,000 gp
+
+### Crimson Embrace
+
+**Slot** hands; **CL** 13th; **Price** 50,000 gp; **Weight** 1 lb.
+
+**Aura** strong evocation and necromancy
+
+These stylized red gloves are often employed by guild assassins for stealthy killings. If the wearer successfully pins an opponent with a grapple combat maneuver, she can perform a special coup de grace attack the next round with the gloves, treating them as if they were sawtooth sabres (1d8 slashing damage, critical threat range of 19–20) for the purposes of this attack. Should the wearer of these gloves slay her opponent with this attack, the target's head erupts in a geyser of blood, preventing life-restoring spells that require an intact body. A creature that survives this coup de grace attack is immune to subsequent attempts from any *crimson embrace* for 24 hours.
+
+**Construction Requirements:** Craft Wondrous Item, *explode head*, *suffocation*; **Cost** 25,000 gp
+
+### Imperious Headband
+
+**Slot** headband; **CL** 3rd; **Price** 4,000 gp; **Weight** —
+
+**Aura** faint enchantment
+
+Adorned with stylized bronze feathers, these headbands are prized by treacherous nobles who fear an assassin's dagger in the back. While worn, an *imperious headband* grants its wearer a +4 deflection bonus to his AC against any attack made by a hireling, a slave, a servant, or any other sentient creature in his employ. In addition, such creatures must succeed at a DC 13 Will save or treat their master as if he were affected by a *sanctuary* spell. If such creatures are subject to magical compulsion to attack the wearer, they must roll all attack rolls and checks to overcome spell resistance against the wearer twice and take the lower result.
+
+**Construction Requirements:** Craft Wondrous Item, *charm person*, *sanctuary*; **Cost** 2,000 gp
+
+### Ioun Spite Bracers
+
+**Slot** wrists; **CL** 12th; **Price** 15,000 gp; **Weight** 2 lbs.
+
+**Aura** strong evocation
+
+These bracers find particular use by thieves who prey on collectors and adventurers. As a standard action, a creature wearing these bracers can attempt a steal combat maneuver check to nab any orbiting *ioun stone* within 30 feet, though the *ioun stone's* owner receives a +4 circumstance bonus to her CMD. If the bracers' wearer succeeds, the stolen *ioun stone* embeds itself in one of the bracers' four available slots (each bracer has two). Embedded *ioun stones* provide their bonuses to the wearer and can be removed with a move action.
+
+As a standard action, the wearer can temporarily drain the power of any *ioun stone* that is embedded in the bracers and isn't dull gray, and can then channel that power to cast *magic missile* as a spell-like ability, firing three missiles at a target or targets up to 160 feet away. Drained *ioun stones* become dull gray for the next 2d4 hours.
+
+**Construction Requirements:** Craft Wondrous Item, *magic missile*, *telekinesis*; **Cost** 7,500 gp
+
+### Meduseion
+
+**Slot** none; **CL** 11th; **Price** 45,000 gp; **Weight** 10 lbs.
+
+**Aura** moderate transmutation
+
+Dried, lacquered, and stuffed with fragrant herbs, this mummified medusa head still contains a measure of the power the medusa possessed in life. While held, a *meduseion* radiates an unseen aura that causes all living creatures within 100 feet to take a –2 penalty on saving throws to resist poison or petrification effects. Three times per day as a standard action, the wielder of a *meduseion* can cause the eyes of the head to shoot forth a petrifying ray as a ranged touch attack with a maximum range of 100 feet. Creatures struck must succeed at a DC 19 Fortitude save or be permanently transformed into stone.
+
+**Construction Requirements:** Craft Wondrous Item, *alarm*, *flesh to stone*; **Cost** 22,500 gp
+
+### Mockingskull
+
+**Slot** none; **CL** 5th; **Price** 8,000 gp; **Weight** 2 lbs.
+
+**Aura** faint necromancy
+
+The tools of juvenile necromancers and bitter witches, *mockingskulls* are immortal and sleepless guardians. Each is made from a humanoid skull inlaid with a precious gem "eye." *Mockingskulls* keep watch over an area with a +8 Perception check bonus, and can be commanded to either warn away intruders or raise an alarm by screaming insults and invectives. If a *mockingskull* screams invectives, it can attempt an Intimidate check at a +10 bonus each round against one creature within 30 feet.
+
+Treat a *mockingskull* as a single Hit Die mindless undead for the purposes of spells and effects that control, damage, or hide creatures from undead. A *mockingskull* has hardness 3 and 10 hit points; these hit points are automatically restored every midnight. Although largely mindless, especially old *mockingskulls* sometimes develop personality quirks.
+
+**Construction Requirements:** Craft Wondrous Item, *alarm*, *animate dead*; **Cost** 4,000 gp
+
+### Life-Reading Eyes
+
+**Slot** eyes; **CL** 7th; **Price** 15,000 gp; **Weight** —
+
+**Aura** moderate divination
+
+Favored by doctors and torturers alike, these jet-black spectacles fully obscure the eyes of the wearer while granting her the ability to peer at the auras of other creatures. The wearer can read the emotion and health auras of any creature as per *analyze aura* while the spectacles are worn, but can perceive only those auras.
+
+**Construction Requirements:** Craft Wondrous Item, *analyze aura*; **Cost** 7,500 gp
+
+### Memento Mori (necrotoxin)
+
+**Slot** none; **CL** 9th; **Price** 3,700 gp; **Weight** —
+
+**Aura** moderate necromancy
+
+Necrotoxins are deadly poisons fused with necrotic magic. Charging a necrotoxin with this power requires special rituals, reagents from undead creatures, and the channeling of negative energy during the brewing process. Because of the temperamental nature of the creation process, the DC of Craft (alchemy) checks to brew a necrotoxin equals its Fortitude DC + 5.
+
+*Memento mori* is a powerful hallucinogen that clouds a victim's senses with messages of death.
+
+**Type** inhaled; **Save** Fortitude DC 19  
+**Onset** —; **Frequency** 1/minute for 6 rounds  
+**Effect** 1d3 Wis damage, and as long as any Wisdom damage from the poison remains, the victim can't distinguish living creatures from undead and can't understand or read any language—spoken words sound like tearful moans and written words seem faded and tattered. While under this effect, the target takes a –5 penalty on saving throws against fear effects and must attempt to save against all spells cast by others, even harmless or beneficial spells; **Cure** 2 consecutive saves
+
+**Construction Requirements:** Craft Wondrous Item, *unhallow*, creator must have 10 ranks in Craft (alchemy); **Cost** 1,850 gp
+
+### Ghost Syrup (necrotoxin)
+
+**Slot** none; **CL** 13th; **Price** 6,000 gp; **Weight** —
+
+**Aura** strong necromancy
+
+This necrotoxin causes a creature to lose corporeal substance.
+
+**Type** ingested; **Save** Fortitude DC 20  
+**Onset** 1 minute; **Frequency** 1/round for 6 rounds  
+**Effect** 1d3 Str damage, and each round a victim takes damage from this poison, she has a 50% chance of dropping one held item. If a victim's Strength is reduced to 0 by *ghost syrup*, the Strength damage becomes Strength drain, and the victim becomes permanently incorporeal. Carried and worn equipment is unaffected and remains corporeal, and the victim can be restored only through a *limited wish*, *miracle*, *remove curse*, or *wish* spell; **Cure** 2 consecutive saves
+
+**Construction Requirements:** Craft Wondrous Item, *ethereal jaunt*, creator must have 13 ranks in Craft (alchemy); **Cost** 3,000 gp

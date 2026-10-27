@@ -62,6 +62,7 @@ Psychics gain access to the following spells. Spells without a link come from ot
 - Compel Hostility
 - **[Comprehend Languages](comprehend-languages.md)**: You understand all spoken and written languages.
 - **[Confusion, Lesser](confusion-lesser.md)**: One creature is *confused* for 1 round.
+- **[Coward's Cowl](cowards-cowl.md)**: Defensive bonuses while avoiding enemies.
 - **[Cultural Adaptation](cultural-adaptation.md)**: Adapt to fit the local culture.
 - **[Decompose Corpse](decompose-corpse.md)**: Turn a corpse into a clean skeleton.
 - **[Decrepit Disguise](decrepit-disguise.md)**: Make an object seem worthless.
@@ -529,6 +530,7 @@ Psychics gain access to the following spells. Spells without a link come from ot
 - **[Dominate Animal](dominate-animal.md)**: One animal obeys your silent mental commands and orders.
 - **[Dreadscape](dreadscape.md)**: Surroundings and unfamiliar creatures seem like something out of a nightmare.
 - **[Dream](dream.md)**: Sends message to anyone sleeping.
+- **[Dream Dalliance](dream-dalliance.md)**: Target sleeps in a perfect dream.
 - **[Ego Whip II](ego-whip-ii.md)**: As ego whip I, but a –4 penalty and staggered for 1d4 rounds.
 - **[Enchantment Foil](enchantment-foil.md)**
 - **[Enlarge Person, Mass](enlarge-person-mass.md)**: 1 humanoid creature/level doubles in size.

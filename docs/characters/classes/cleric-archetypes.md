@@ -619,3 +619,17 @@ Unlike warpriests or paladins, who charge headlong into battle in the name of th
 Because of these summoned monsters' strong ties to the herald caller's deity, the herald caller also gains specific benefits with creatures she summons with *summon monster* spells gained from her cleric spell list. The herald caller and her summoned monsters can understand each other's spoken words as if they shared a common language (though this doesn't give summoned monsters the ability to speak if they normally lack it). Whenever the herald caller uses channel energy to heal, she can include all of her summoned monsters, even if they are out of her normal channel energy radius or of a creature type that would not normally be affected. If she channels energy to deal damage, she can exclude any of her summoned monsters that would normally be affected.
 
 **Mighty Heralds**: At 4th level, a herald caller receives Augment Summoning as a bonus feat, and is considered to have Spell Focus (conjuration) for the purposes of prerequisites for feats that have Augment Summoning as a prerequisite (such as Evolved Summoned Monster). At 8th level, she gains Superior Summoning as a bonus feat.
+
+## Appeaser
+
+A rare few seek the power of dark forces for brighter ends by focusing on the utilitarian aspects of a god's portfolio, appeasing their deities through high praise and glorifying their chosen gods' unaligned aspects.
+
+**Aura (Ex)**: An appeaser always has an evil aura regardless of his actual alignment. This alters aura.
+
+**Channel Utility (Su)**: An appeaser channels negative energy, but also gains limited access to positive energy. At 5th level, an appeaser can channel positive energy as a full-round action, but he treats his cleric level as if it were 4 lower when determining the amount of damage he can deal to undead and the amount of hit points he can restore to living creatures. This ability alters channel energy.
+
+**Divine Apologist (Ex)**: An appeaser must worship an evil god. His alignment must be within one step of his deity's, but he himself cannot have an evil alignment. An appeaser cannot cast any spells with the good or evil descriptor. This alters the cleric's alignment and spells.
+
+**Mollified Domain (Su)**: At 1st level, an appeaser gains no domain or domain bonus spells. Once per day as a standard action, he can sacrifice his own force of will to gain divine providence. Doing so deals 1d3 points of Charisma damage to the appeaser, and allows him to select a single domain offered by his deity (except the Evil domain or its subdomains). The appeaser gains access to any granted powers offered by the domain he would otherwise qualify for, and can sacrifice a prepared spell to cast a domain spell from that domain just as if he were spontaneously casting a *cure* or *inflict* spell. He retains access to this domain for a number of minutes equal to 1/2 the appeaser's cleric level + his Wisdom modifier. Any domain abilities that can be used a limited number of times per day can be used only once each time that particular domain is invoked.
+
+An appeaser can gain a mollified domain one additional time per day (taking Charisma damage each time) at 4th level and every 3 levels thereafter, to a maximum of seven times per day at 19th level. An appeaser can invoke only a single mollified domain at a time. This ability modifies the cleric's domains class feature.
