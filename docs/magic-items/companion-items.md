@@ -2670,3 +2670,100 @@ Ten ebony, pearl, and ivory tiles that, arranged in a spiral on the ground, gran
 A decorative +1 dagger with retractable thorns. When you damage a creature with it, you can make a free combat maneuver; on a success, thorns spring forth for an extra 1d4 damage. A devotee of the deity of lust, revenge, and trickery can, once per day as a free action, raise the enhancement bonus to +2 for 1 round. Anyone else who uses the activation is injected with medium spider venom.
 
 **Construction Requirements:** Craft Weapon, *spike growth*; **Cost** 5,851 gp
+
+## Mercurial Items
+
+### Cloak of Moral Refraction
+
+**Slot** shoulders; **CL** 13th; **Price** 27,100 gp; **Weight** 1 lb.
+
+**Aura** strong abjuration
+
+The shimmering fabric of this light silver-and-red cloak never dirties or wrinkles, and when laid out flat, the cloak reflects light nearly as well as a mirror. A fully charged cloak has 3 charges; charges used are automatically renewed at a rate of 1 charge per day at dawn. The wearer may expend these charges to create the following effects.
+
+- **1 charge**: Dispel an ongoing spell with an alignment descriptor, as the third function of *dispel chaos/evil/good/law*.
+- **2 charges**: Ready an action to counter a spell or spell-like ability with an alignment descriptor. The effect is automatically countered, and no caster level check is required. The charges are expended only after countering a spell or spell-like ability. If you ready this action but it is not triggered, the charges are not expended.
+- **3 charges**: As an immediate action, counter a spell or spell-like ability cast by an outsider with an alignment subtype. The effect is automatically countered, and no caster level check is required. In addition, the outsider must succeed at a DC 20 Will save or be banished back to its home plane, as *banishment*. An outsider with more than 26 Hit Dice is unaffected by the banishment effect.
+
+**Construction Requirements:** Craft Wondrous Item, *banishment*, *dispel chaos*, *dispel evil*, *dispel good*, *dispel law*, *dispel magic*; creator must be neutral; **Cost** 27,100 gp
+
+### Dimensional Acid
+
+**Slot** none; **CL** varies; **Price** 450 gp (basic pit); **Weight** 1 lb.
+
+**Aura** varies
+
+The acid in this flask burns not through matter, but through space itself, creating a temporary extradimensional pit wherever it touches. A flask of dimensional acid can be thrown as a splash weapon with a range increment of 10 feet. Alternatively, it can be used as a special component when casting the *snare* spell. Instead of the spell's usual effect, the creature that triggers the modified *snare* is treated as if it had taken a direct hit from the dimensional acid.
+
+Dimensional acid comes in a number of varieties.
+
+- **Basic Pit** (450 gp; faint conjuration; CL 3rd): creates a pit, as the *create pit* spell, where it lands. Construction requires *create pit*; cost 225 gp.
+- **Corrosive Pit** (1,750 gp; faint conjuration; CL 7th): affects matter as well, creating an *acid pit* where it lands. Construction requires *acid pit*; cost 875 gp.
+- **Jagged Pit** (1,000 gp; moderate conjuration; CL 5th): creates a *spiked pit* where it lands. Construction requires *spiked pit*; cost 500 gp.
+- **Living Pit** (2,700 gp; moderate conjuration; CL 9th): burns into a living dimension, creating a *hungry pit* where it lands. Construction requires *hungry pit*; cost 1,350 gp.
+
+**Construction Requirements:** Craft Wondrous Item, plus the spell listed for the variety; **Cost** varies (see above)
+
+### Eye of Brokerage
+
+**Slot** neck; **CL** 9th; **Price** 16,550 gp; **Weight** 1/2 lb.
+
+**Aura** moderate divination
+
+This golden, eye-shaped amulet is relatively unassuming save for the stunning diamond in the center of the piece. An eye of brokerage grants the wearer additional prowess while bartering with merchants and otherwise making deals. The wearer gains a +5 competence bonus on Appraise checks and on Sense Motive checks to avoid being bluffed. In addition, once per day, the wearer can hold the eye of brokerage to one of her eyes for up to 7 rounds to determine whether up to seven creatures within 40 feet are lying (Will DC 16 negates), as *discern lies*.
+
+**Construction Requirements:** Craft Wondrous Item, *chaos hammer*, *order's wrath*; creator must be neutral; **Cost** 8,275 gp
+
+### Gauntlets of the Unchained
+
+**Slot** hands; **CL** 7th; **Price** 13,200 gp; **Weight** 6 lbs.
+
+**Aura** moderate evocation
+
+These shimmering silver gauntlets remind the wearer that she is always shackled to the deeds of her past, but remains unfettered with the promise of a freer future. The wearer of a pair of gauntlets of the unchained may only wield weapons two-handed—the magical chain that binds the gauntlets makes it effectively impossible to wield or hold more than one item at a time.
+
+By tapping the gauntlets' manacles together as a swift action, the wearer can cause damage dealt by her wielded weapon to become lawful-aligned and thus overcome the corresponding damage reduction. This effect lasts for up to 7 rounds per day. This duration need not be consecutive, but it must be spent in 1-round increments.
+
+By breaking the magical chain that connects the gauntlets as a standard action, the wearer can cause her wielded weapon to gain the *anarchic* weapon special ability for 7 minutes. Once broken, the chain between the gauntlets is shattered forever, and the gauntlets become nonmagical.
+
+**Construction Requirements:** Craft Wondrous Item, *chaos hammer*, *order's wrath*; creator must be neutral; **Cost** 6,600 gp
+
+### Judicial Hammer
+
+**Slot** none; **CL** 4th; **Price** 5,220 gp; **Weight** 14 lbs.
+
+**Aura** faint enchantment
+
+The head of this +1 *earth breaker* is shaped like a massive version of the gavel one might see in a court of law—the weapon is nearly 4 feet long from end to end. Once per day, the wielder may speak the judicial hammer's command word and name a specific crime he believes an individual within 30 feet has committed. Whenever the designated target takes damage from the judicial hammer, the target must succeed at a DC 13 Will save or immediately and truthfully confess its innocence or guilt in the named crime (if the target can speak the same language as the wielder of the judicial hammer, it must confess in this language). This effect lasts for 24 hours or until the creature fails its Will save, whichever comes first.
+
+**Construction Requirements:** Craft Magic Arms and Armor, *confess*; **Cost** 2,780 gp
+
+### Liar's Robe
+
+**Slot** body; **CL** 5th; **Price** 4,180 gp; **Weight** 6 lbs.
+
+**Aura** faint transmutation
+
+This hole-ridden burlap robe would appear completely worthless if not for the immaculate red velvet lining its interior. When worn inside out, a liar's robe enshrouds the wearer in a continually shifting array of colors, features, and faces that obscure his entire appearance and make physical recognition all but impossible. This effect lasts for 1 hour, during which time the wearer can go back and forth between wearing the robe inside out (disguising himself) and right side out (revealing his true form) any number of times. Witnesses to a creature wearing a liar's robe must use *true seeing* or a similar effect in order to pierce through this disguise; otherwise, they see the wearer only as a continually shifting humanoid form. The wearer's voice, scent, and other tangible cues are also continually altered and distorted, though indirect magical means of identification (such as *detect thoughts* or *locate creature*) may still be used to recognize the individual. Since even the most magically disinclined individuals can clearly tell that the wearer is enshrouded in an illusion, a liar's robe is typically used in circumstances when it's appropriate to protect the wearer's anonymity without the wearer feigning another identity or hiding her presence.
+
+**Construction Requirements:** Craft Wondrous Item, *alter self*; **Cost** 2,090 gp
+
+### Slaver's Cane
+
+**Slot** none; **CL** 10th; **Price** 25,305 gp; **Weight** 4 lbs.
+
+**Aura** moderate evocation
+
+Slave masters and enforcers sometimes use slaver's canes to put down insubordinates or recapture escaped property. The head of the studded black +1 *adamantine light mace* sports numerous cruel spikes, and a series of chains around the grip of the mace make it difficult to wrench from the wielder's hands (granting the wielder a +4 bonus to CMD versus attempts to disarm the weapon). In addition, the command word of the slaver's cane can be spoken once per day to create a 10-foot-radius *resilient sphere* around a target within 90 feet (Reflex DC 16 negates) that lasts for 10 minutes.
+
+**Construction Requirements:** Craft Magic Arms and Armor, Enlarge Spell, *resilient sphere*; **Cost** 12,805 gp
+
+### Traitorous Blaster
+
+**Slot** none; **CL** 3rd; **Price** 7,050 gp; **Weight** 5 lbs.
+
+**Aura** faint transmutation
+
+This +1 *double-barreled pistol* has an oversized stock to compensate for the massive recoil the weapon produces, though even with this attachment the kickback is strong enough to throw the pistol completely backward after firing. When both barrels of a traitorous blaster are loaded and the wielder is being flanked, the wielder can fire both barrels as a single action, with each shot targeting one of the enemies flanking the wielder. The wielder takes only a –2 penalty on these attack rolls (rather than the –4 penalty normally associated with firing both barrels of a double-barreled pistol as a single action).
+
+**Construction Requirements:** Craft Magic Arms and Armor, *mirror strike*; **Cost** 4,550 gp

@@ -84,6 +84,8 @@ For example, a barbarian that selects a beast totem rage power cannot later chos
 
 **Hurling Charge (Ex)**: While raging and making a charge attack, the barbarian may draw and throw a hurled weapon during her charge, gaining the normal +2 attack roll bonus on the thrown weapon attack as well as on the melee attack at the end of the charge. The barbarian must move at least 10 feet before using a thrown weapon and at least 10 additional feet before making a melee attack at the end of her charge. The barbarian must have a thrown weapon in hand or have one hand free at the beginning of her charge. A barbarian must have the lesser hurling rage power to select this rage power. A barbarian must be at least 6th level to select this rage power.
 
+**Impelling Disarm (Ex)**: Once per rage, the barbarian can make a disarm attempt against a target in place of a melee attack. This attempt does not provoke attacks of opportunity. If successful, the barbarian sends the target's weapon flying—either straight at the target, or spinning away to strike another foe up to 20 feet away. This ranged attack counts as throwing a weapon that isn't designed to be thrown, even if the weapon disarmed is a thrown weapon. The barbarian makes a ranged attack, which doesn't provoke attacks of opportunity, at either the target of his disarm maneuver or another creature within 20 feet. If the barbarian is aiming for the disarmed creature, the foe doesn't count as being in melee for determining any penalty on the ranged attack from throwing a ranged weapon into melee. If the ranged attack hits, the disarmed weapon deals damage as if the barbarian had thrown it. The barbarian can choose to aim the disarmed weapon at a square rather than at a foe. A barbarian must be at least 4th level to select this rage power.
+
 **Inspire Ferocity (Ex)**: While raging, the barbarian can use a move action to impart her reckless abandon modifier to all willing allies within 30 feet for a number of rounds equal to her Charisma modifier (minimum 1). A barbarian must have the reckless abandon rage power to select this rage power.
 
 **Knockdown (Ex)**: Once per rage, the barbarian can make a trip attack against one target in place of a melee attack. If successful, the target takes damage equal to the barbarian’s Strength modifier and is knocked prone. This does not provoke an attack of opportunity.
@@ -99,6 +101,20 @@ For example, a barbarian that selects a beast totem rage power cannot later chos
 **Reckless Abandon (Ex)**: While raging, the barbarian can take a –1 penalty to AC to gain a +1 bonus on attack rolls. The AC penalty increases by –1 and the attack roll bonus increases by +1 at 4th level and every four levels thereafter.
 
 **Roaring Drunk (Ex)**: While raging, the barbarian gains a +1 morale bonus on Intimidate checks and to the save DC of any fear effects she creates for each alcoholic drink she has consumed during her rage, to a maximum of +1 per four barbarian levels.
+
+**Savage Dirty Trick (Ex)**: Once per round while raging, the barbarian can attempt a dirty trick combat maneuver in place of a melee attack. This attempt does not provoke attacks of opportunity. If successful, the target takes an amount of damage equal to the barbarian's Strength modifier and must succeed at a Fortitude save (DC 10 + 1/2 the barbarian's level + the barbarian's Strength modifier) or take an additional penalty from the dirty trick based on the type of dirty trick performed and the following table.
+
+| Initial Penalty | Additional Penalty |
+|---|---|
+| Blinded | Staggered |
+| Dazzled | Dazed |
+| Deafened | Staggered |
+| Entangled | Anchored in place and unable to move from that square |
+| Sickened | Nauseated |
+
+On a failed Fortitude save, the opponent takes this additional penalty on top of the dirty trick's original effect. The additional penalty lasts for 1 round (though the initial penalty lasts as long as normal), and can be removed with a move action. The initial effect cannot be removed via mundane means until the additional penalty is removed (though magical effects like *remove blindness/deafness* work). Removing the initial effect also removes the additional penalty. If the target is immune to the initial penalty, then it is unaffected by the additional penalty. For example, a barbarian using this rage power attempts a dirty trick combat maneuver against her opponent to blind him. She succeeds and her opponent fails his Fortitude save, so he becomes staggered as well as blinded. Regardless of whether he had succeeded at his saving throw, the opponent still takes an amount of damage from the barbarian's combat maneuver equal to the barbarian's Strength modifier (unless he has damage reduction or would otherwise be able to prevent this damage). Likewise, if her opponent were immune to blinding effects, he would not suffer from the blindness or the staggering effect, regardless of his saving throw.
+
+This power can only be used once per opponent per rage. A barbarian must be at least 6th level to select this rage power.
 
 **Smasher (Ex)**: Once per rage, whenever the barbarian makes an attack against an unattended object or a sunder combat maneuver, she can ignore the object’s hardness.
 

@@ -108,6 +108,24 @@ The cavalier can use this ability one additional time per day at 12th level and 
 
 When taking the total defense action, the cavalier can extend his protection to those around him, granting a +2 circumstance bonus to AC to all adjacent allies. In addition, while taking the total defense action, as an immediate action, the cavalier can attempt to deflect an attack by making an attack roll opposed by the attacker’s original attack roll. If successful, the attack is deflected and deals no damage.
 
+### Order of the Scales
+
+Members of this cavalier order serve the cause of legal integrity. Many order of the scales cavaliers track and apprehend fleeing lawbreakers so that these vagrants may answer for their crimes and make good on their debts. They often serve as judges or stakeholders, and work to ensure that wherever a bargain is made—whether it is monetary, a life debt, or an oath to be upheld—both ends make good on their promises.
+
+**Edicts**: The cavalier must fulfill all binding agreements he makes with others. If a bargain becomes impossible to fulfill, he must satisfactorily compensate all aggrieved or adversely affected parties involved in the bargain. When serving as a judge or arbiter, the cavalier must make fair, impartial judgments, and if unable to do so, must recuse himself at the earliest possibility. If authorized to enforce an agreement, the cavalier must wholeheartedly strive to accomplish this, remaining unswayed by threats, bribery, and other deterrents.
+
+**Challenge**: Whenever an order of the scales cavalier issues a challenge, he receives a +1 morale bonus on combat maneuvers and attacks of opportunity made against the target of his challenge. This bonus increases by 1 for every 4 levels the cavalier possesses.
+
+**Skills**: An order of the scales cavalier adds Knowledge (local) (Int) and Linguistics (Int) to his list of class skills. He gains a bonus equal to half his level (minimum +1) on Sense Motive checks to determine whether someone is bluffing and to determine whether a creature's behavior is being influenced by an enchantment.
+
+**Order Abilities**: A cavalier belonging to the order of the scales gains the following abilities as he increases in level.
+
+**Mobile Wall (Ex)**: At 2nd level, the cavalier receives Step Up as a bonus feat. He can use this feat while mounted by succeeding at a DC 15 Ride check, directing his mount to move rather than himself. The cavalier gains a +1 bonus to his CMD against attempts to tumble through squares he threatens. At 6th level, and every 4 levels thereafter, this bonus increases by an additional +1.
+
+**Seek Retribution (Ex)**: At 8th level, once per day after receiving a request for aid from a legal authority or an aggrieved party regarding the breaking of an oath, whenever the cavalier encounters the oath-breaking creature, he can choose to vehemently exact retribution. As a swift action, the cavalier can grant himself a competence bonus equal to his Charisma modifier on all attack rolls, weapon damage rolls, and opposed checks against the oath-breaking creature. These bonuses last for 1 round per level.
+
+**Sworn Oathkeeper (Ex)**: At 15th level, the cavalier can formally witness an oath or agreement between two creatures. If either creature breaks or reneges on the agreement and the cavalier becomes aware of this, he gains the bonuses from his seek retribution ability against that creature at all times. This ability ends when the creature fulfills the conditions of the oath or receives just punishment for breaking the oath. The maximum number of witnessed oaths a cavalier can have active at a time is equal to his Charisma modifier (minimum 1).
+
 ### Order of the Seal
 
 Cavaliers of the order of the seal are a secretive order, each charged with the protection of a specific object (such as a dangerous magic item), place (a lost temple), or secret (that a certain peasant is actually the last descendant of the royal line). Such cavaliers are the defenders of ancient traditions or the servants of rulers with important secrets to hide, sometimes having to search out such secrets in order to properly protect and preserve them.

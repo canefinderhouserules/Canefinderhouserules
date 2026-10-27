@@ -88,6 +88,30 @@ You were born with the power of fire genies, and the magic of the efreet is stro
 
 You also become immune to fire damage, and can use plane shift once per day to travel to or from the Plane of Fire.
 
+### Impossible
+
+You can see beyond the mundane, and are capable of visualizing the improbable, and even the impossible. This ability derives from an equally unlikely source, such as the collective mind of a race of perfectly lawful beings or the cosmic balance itself. If this expanded perception doesn't drive you mad, you may learn to make the impossible into reality.
+
+**Class Skill**: Knowledge (engineering).
+
+**Bonus Spells**: *lesser confusion* (3rd), *make whole* (5th), *shrink item* (7th), *confusion* (9th), *fabricate* (11th), *animate objects* (13th), *insanity* (15th), *polymorph any object* (17th), *wish* (19th).
+
+**Bonus Feats**: Craft Construct, Craft Magic Arms and Armor, Deft Hands, Exotic Weapon Proficiency, Far Shot, Iron Will, Point-Blank Shot, Skill Focus (Knowledge [engineering]).
+
+**Bloodline Arcana**: Constructs are susceptible to your enchantment (compulsion) spells as if they were not mind-affecting. Constructs are treated as living creatures for the purposes of determining which spells affect them.
+
+**Bloodline Powers**: You see the world differently from others, and can mold it to suit your needs.
+
+**Disorienting Touch (Sp)**: At 1st level, as a melee touch attack, you can cause a creature to doubt its sense of depth and direction. The target is sickened for a number of rounds equal to 1/2 your sorcerer level (minimum 1). Multiple touches do not stack, but they do add to the duration. You can use this ability a number of times per day equal to 3 + your Charisma modifier.
+
+**Spontaneous Generation (Ex)**: At 3rd level, you gain Craft Wondrous Item as a bonus feat. In addition, when you craft a magic item (except a potion, a spell-trigger item, or a spell-completion item), you may ignore one spell prerequisite without increasing the creation DC. You can ignore an additional spell prerequisite at 9th, 15th, and 20th levels.
+
+**Distracting Pattern (Su)**: At 9th level, you can distort the scenery around you for a number of rounds equal to your sorcerer level. This ability provides a 20% miss chance on ranged attacks made against you and grants you a bonus on Stealth checks equal to 1/2 your sorcerer level. You can use this ability once per day at 9th level, twice per day at 17th level, and three times per day at 20th level.
+
+**Relativity (Su)**: At 15th level, you can traverse vertical surfaces as easily as you walk on the ground. When climbing, you move at your normal land speed and take none of the penalties associated with climbing. The surface must be able to support your weight, and difficult terrain affects your speed as normal. You are also immune to *reverse gravity* and similar effects.
+
+**Living Paradox (Ex)**: At 20th level, your outward appearance remains the same, but beneath your skin lies not flesh and blood but clockwork gears, miniature galaxies, or something equally uncanny. You gain immunity to disease and poison. You take no additional damage from bleed effects, critical hits, and sneak attacks.
+
 ### Maestro
 
 The spiritual power of art and song runs strongly through your family line. This may be the result of ancient pacts made with azata patrons, or even an inheritance from a lillend or trumpet archon ancestor. It could also be the lingering taint of a less savory heritage, such as from a harpy or a forefather driven to madness by the disquieting gibbering of a shoggoth. However it came to be, your family’s artistic bent shows itself strongly in your magic.

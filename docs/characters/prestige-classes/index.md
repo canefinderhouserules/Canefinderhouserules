@@ -62,6 +62,8 @@ The prestige classes presented in this chapter are summarized below.
 
 **[Enchanting Courtesan](enchanting-courtesan.md)**: Elite information brokers who use illusion and enchantment, poison, and a network of informants to steer events from the shadows.
 
+**[Envoy of Balance](envoy-of-balance.md)**: Arbiters of universal balance who counter alignment-based magic, banish extremism, and can slay or revive by the scales of alignment.
+
 **[Evangelist](evangelist.md)**: A devout follower of any background who gains boons, languages, and versatility from her deity.
 
 **[Exalted](exalted.md)**: A divine spellcaster who embodies her faith and inspires others, culminating in miraculous power.

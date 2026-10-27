@@ -162,6 +162,7 @@
 - **[Poison Exchange](poison-exchange.md)**: Swallow one poison and regurgitate another.
 - **[Pouncing Fury](pouncing-fury.md)**: Make a full attack with your claws after a charge.
 - **[Quick Change](quick-change.md)**: Use change shape as a swift action and surprise foes.
+- **[Recentering Drone](recentering-drone.md)**: Targets ignore or reduce the penalties of debilitating conditions.
 - **[Reduce Animal](reduce-animal.md)**: Shrinks one willing animal.
 - **[Resist Energy](resist-energy.md)**: Ignores 10 or more points of damage per attack from specified energy type.
 - **[Restful Cloak](restful-cloak.md)**: Turn your cloak into a healing tent.

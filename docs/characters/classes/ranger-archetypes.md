@@ -62,11 +62,23 @@ Effect A ranger can only add this to a fire trap. The trap explodes in fire, fil
 
 Effect The trap explodes in flames, dealing a number of points of fire damage equal to 1d6 + 1/2 the ranger’s level to the triggering creature (Reflex negates). If it is an extraordinary trap, the ranger must use an explosive material such as alchemist’s fire when setting the trap.
 
+### Firework Trap\* (Ex or Su)
+
+**Effects**
+
+Effect A ranger can add this augmentation to a fire or smoke trap. The trap explodes in a flash of colored lights. All creatures within 10 feet must succeed at a saving throw (Fortitude if an extraordinary firework trap, Will if supernatural) or be blinded for 1d4+1 rounds. If this is an extraordinary trap, the ranger must use an alchemical weapon when setting the trap, such as flash powder or a firework.
+
 ### Freezing Trap (Su)
 
 **Effects**
 
 Effect The trap creates a burst of ice that damages and encases the triggering creature. The creature takes 1d3 points of cold damage + 1/4 the ranger’s level and is entangled and stuck to the ground, similar to the effect of a tanglefoot bag. A successful Reflex save halves the damage and means the creature is not stuck to the floor by the ice. The ice is 1 inch thick per 2 Hit Dice of the ranger (minimum 1), has hardness 0 and 3 hit points per inch of thickness, and melts in 2d4 rounds.
+
+### Limning Trap (Ex or Su)
+
+**Effects**
+
+Effect This trap sprays glowing dust into the trapped square and all adjacent squares. A creature covered in this dust glows like a candle (becoming visibly outlined if invisible) and takes a –20 penalty on Stealth checks. The dust's effects last for 1 round per ranger level or until the creature washes it off (a move action requiring water or some other cleanser). If this is an extraordinary trap, the ranger must use alchemical components when setting the trap, such as glowing ink or marker dye.
 
 ### Marking Trap\* (Ex or Su)
 
@@ -85,6 +97,12 @@ Effect The trap poisons the creature that triggers it. If it is a supernatural t
 **Effects**
 
 Effect The detonating trap creates a 20-foot-radius burst of sleet with the effects of a sleet storm. The driving sleet lasts for 1 round, but the icy ground persists for 1 round per ranger level.
+
+### Smoke Trap (Ex or Su)
+
+**Effects**
+
+Effect This trap bellows out thick, choking smoke that fills the trapped square and all adjacent squares. Any breathing creature in these squares must succeed at a Fortitude saving throw or take a –4 penalty to Strength and Dexterity every round it's within the smoke and for 1d4+1 rounds after leaving the smoke. All sight, even darkvision, is ineffective in or through the smoke. The smoke lasts for 1 round per 2 ranger levels, and is dispersed by wind as *fog cloud*. If this is an extraordinary trap, the ranger must use an alchemical component when setting the trap, such as a smokestick.
 
 ### Snare Trap (Ex or Su)
 
@@ -111,6 +129,12 @@ Effect The trap releases a bat swarm, rat swarm, or spider swarm that attacks al
 **Effects**
 
 Effect The trap resonates at a high-pitched frequency audible only to creatures that communicate via telepathy. If the triggering creature has the ability to communicate via telepathy, the creature becomes overwhelmed by psychic feedback. The trapped creature is staggered for 1d4 rounds (Will negates), and may not communicate telepathically during this time. This is a sonic, mind-affecting effect. Creatures that lack telepathy are not affected by this trap, though they may still trigger it.
+
+### Toxic Fumes Trap\* (Ex or Su)
+
+**Effects**
+
+Effect A ranger can add this to a smoke trap. The smoke this trap creates is extremely noxious. Any breathing creature must succeed at a Fortitude saving throw (in addition to the Fortitude save for the smoke trap) or be nauseated every round it's within the smoke and for 1d4+1 rounds after leaving the smoke. If this is an extraordinary trap, the ranger must use a toxic material when setting the trap, such as a noxious aromatic.
 
 ### Transpositional Trap (Su)
 

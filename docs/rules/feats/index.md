@@ -1677,6 +1677,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Creative Weaponsmith](creative-weaponsmith.md) | Combat | Craft (weapons) 3 ranks, Knowledge (engineering) 3 ranks |
 | [Creature Focus](creature-focus.md) | — | No levels in a class that grants the favored enemy class feature |
 | [Criminal Reputation](criminal-reputation.md) | — | Diplomacy 5 ranks, Intimidate 5 ranks |
+| [Crisis of Conscience](crisis-of-conscience.md) | Story | Lawful neutral, neutral, or chaotic neutral alignment. Your alignment must have shifted from either good or evil at least once since 1st level or the last time you completed this feat (see Special) |
 | [Critical Conduit](critical-conduit.md) | — | Deliver touch spells ability, familiar |
 | [Crowd Control](crowd-control.md) | Combat, Teamwork | Base attack bonus +3 |
 | [Crowd of Bullies](crowd-of-bullies.md) | Combat, Teamwork | Half-orc |
@@ -1831,6 +1832,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Extraplanar Conjunction](extraplanar-conjunction.md) | Teamwork | Any racial spell-like ability, outsider |
 | [Eye for Ingredients](eye-for-ingredients.md) | — | Eschew Materials, Appraise 6 ranks, Spellcraft 6 ranks |
 | [Eyes of the Twilight](eyes-of-the-twilight.md) | — | Sharp Senses, Perception 7 ranks, keen senses racial trait, low-light vision |
+| [Fabulist](fabulist.md) | Grit | Amateur Gunslinger feat or grit class feature |
 | [Falcon’s Cry](falcons-cry.md) | — | Cha 13 |
 | [False Casting](false-casting.md) | — | Magical Aptitude, Bluff 1 rank, Sleight of Hand 1 rank |
 | [False Focus](false-focus.md) | — | Knowledge (religion) 1 rank, ability to cast arcane spells |
@@ -1933,6 +1935,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Guardian of Tradition](guardian-of-tradition.md) | — | Domain class feature, girtablilu |
 | [Guardian’s Return](guardians-return.md) | Familiar | Must have a familiar with the protector archetype |
 | [Guild Emissary](guild-emissary.md) | — | Leadership or Underworld Connections |
+| [Gun Twirling](gun-twirling.md) | Grit | Amateur Gunslinger feat or grit class feature, Dazzling Display, Weapon Focus |
 | [Hammer Guards the Anvil](hammer-guards-the-anvil.md) | Teamwork | — |
 | [Hands of Valor](hands-of-valor.md) | — | Lay on hands class feature, worshiper of a deity of valor and justice |
 | [Harder They Fall](harder-they-fall.md) | Combat, Teamwork | Str 13, Int 13, Combat Expertise, Power Attack |
@@ -2109,6 +2112,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Musketeer's Sidestep](musketeers-sidestep.md) | Combat, Panache | Dodging panache deed, swashbuckler level 3rd |
 | [Mutual Hatred](mutual-hatred.md) | Combat | — |
 | [My Blade Is Yours](my-blade-is-yours.md) | Combat, Teamwork | Int 13, Combat Expertise, Sense Motive 3 ranks |
+| [Named Bullet](named-bullet.md) | Grit | Amateur Gunslinger feat or grit class feature, Gunsmithing, base attack bonus +5 |
 | [Nameless One](nameless-one.md) | — | — |
 | [Narrow Frame](narrow-frame.md) | — | Escape Artist 1 rank, animal or magical beast |
 | [Nature's Wrath](natures-wrath.md) | — | Int 1, any nongood alignment, plant type |
@@ -2172,6 +2176,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Plague Resistance](plague-resistance.md) | — | Constitution 13 |
 | [Planar Focus](planar-focus.md) | General | Knowledge (planes) 5 ranks, animal focus class feature |
 | [Planar Heritage](planar-heritage.md) | — | Human |
+| [Planar Hunter](planar-hunter.md) | — | Knowledge (planes) 5 ranks, favored terrain (any plane) class feature |
 | [Planar Survivor](planar-survivor.md) | — | Knowledge (planes) 3 ranks, Survival 3 ranks |
 | [Planar Wanderer](planar-wanderer.md) | — | Cartogramancer, Knowledge (geography) 10 ranks, Knowledge (planes) 10 ranks, ability to cast *greater teleport* and *plane shift* |
 | [Planewalker's Insight](planewalkers-insight.md) | — | — |
@@ -2189,6 +2194,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Powerful Poisoning](powerful-poisoning.md) | — | Power Attack; Craft (poison) 3 ranks or poison use class feature |
 | [Powerful Tongue](powerful-tongue.md) | — | Str 17, sticky tongue |
 | [Powerful Wings](powerful-wings.md) | Combat | Str 13, Skill Focus (Fly), base attack bonus +8 |
+| [Practiced Leadership](practiced-leadership.md) | — | Leadership, membership in the same organization as your cohort |
 | [Practiced Ritualist](practiced-ritualist.md) | — | Knowledge (arcana, history, planes, and religion) 1 rank |
 | [Press to the Wall](press-to-the-wall.md) | Combat | Step Up, base attack bonus +3 |
 | [Primal Bloom](primal-bloom.md) | Conduit | Knowledge (planes) 10 ranks |

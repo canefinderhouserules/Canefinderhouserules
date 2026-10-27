@@ -392,6 +392,7 @@
 - **[Amnesia](amnesia.md)**: Strip a target of its memories, skills and class abilities
 - **[Ancestral Gift](ancestral-gift.md)**: An ancestor conjures a magical weapon for you.
 - **[Animal Ambassador](animal-ambassador.md)**: Grant an animal messenger sentience to deliver your message.
+- **[Antithetical Constraint](antithetical-constraint.md)**: Target automatically misses all creatures not of the opposite alignment.
 - **[Apathy](apathy.md)**: A target loses interest in a chosen pursuit.
 - **[Army Across Time](army-across-time.md)**: As ally across time, with many duplicates.
 - **[Assume Appearance, Greater](assume-appearance-greater.md)**: Use a likeness to adopt a dead creature’s form.

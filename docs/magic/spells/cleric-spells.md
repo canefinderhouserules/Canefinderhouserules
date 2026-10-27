@@ -215,6 +215,7 @@
 - **[Protection from Outsiders](protection-from-outsiders.md)**: Protection from one race of outsiders.
 - **[Protection from Technology](protection-from-technology.md)**: Ward against technology and robots.
 - **[Quaking Fury](quaking-fury.md)**: Minor earthquake trips creatures in a cone.
+- **[Recentering Drone](recentering-drone.md)**: Targets ignore or reduce the penalties of debilitating conditions.
 - **[Reinforce Armaments, Communal](reinforce-armaments-communal.md)**: As reinforce armaments, but you may divide the duration among objects touched.
 - **[Remove Paralysis](remove-paralysis.md)**: Frees creatures from paralysis or *slow* effect.
 - **[Resist Energy](resist-energy.md)**: Ignores 10 (or more) points of damage/attack from specified energy type.
