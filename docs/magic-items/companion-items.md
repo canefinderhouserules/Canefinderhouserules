@@ -2510,3 +2510,163 @@ Soothing ripples of warm light crisscrossing along the surface of this amber bro
 Also called walking bread or walkbread, these delicious yellowish-brown oval biscuits feel remarkably heavy for their size. One is enough to keep a belly full for an entire day and slakes thirst for that period as well.
 
 **Construction Requirements:** Brew Potion, Profession (cook) 5 ranks, *create food and water*; **Cost** 25 gp
+
+## Channel Foci
+
+A channel focus is a garment or other object that incorporates a holy symbol of a particular faith and counts as a divine focus of that faith. By spending a use of channel energy, a cleric (or other character with that ability) can trigger a special ability of the item; the spent channel has no other effect. A channel focus can be reused many times. When not activated, it has no magical aura or abilities. Unless otherwise stated, an activated channel focus can be used by any member of the indicated faith, even one who did not activate it. "Dice" below means the dice of the activating character's channel energy.
+
+### Bronze Gong
+
+**Slot** none; **CL** —; **Price** 100 gp; **Weight** 5 lbs.
+
+**Aura** none (faint when activated)
+
+**Faith** deity of self-perfection
+
+When activated, this small masterwork metal gong remains charged for 8 hours. When struck softly it emits a clear tone that focuses the striker's mind. If the creature striking it has a ki pool and follows that faith, she regains 1 ki point. This use expends the power within the gong.
+
+**Construction Requirements:** None (mundane holy symbol); **Cost** —
+
+### Driftwood Icon
+
+**Slot** none; **CL** —; **Price** 25 gp; **Weight** —
+
+**Aura** none (faint when activated)
+
+**Faith** deity of rivers and storms
+
+A hand-carved icon of a human figure. When activated and a flower is placed in its niche, it grants the bearer a +1 luck bonus to Armor Class for 1 hour, but only against ranged attacks.
+
+**Construction Requirements:** None (mundane holy symbol); **Cost** —
+
+### Iron Eye
+
+**Slot** none; **CL** —; **Price** 50 gp; **Weight** 1 lb.
+
+**Aura** none (faint when activated)
+
+**Faith** deity of battle
+
+A simple iron amulet in the shape of an eye within a helm, worn in plain sight. When activated, its wielder can expend its power to gain a sacred (if activated with positive energy) or profane (if negative) bonus on her next Intimidate check equal to the dice of the activating channel energy. It remains charged until used or 1 hour passes.
+
+**Construction Requirements:** None (mundane holy symbol); **Cost** —
+
+### Just Scale
+
+**Slot** none; **CL** —; **Price** 50 gp; **Weight** 1 lb.
+
+**Aura** none (faint when activated)
+
+**Faith** deity of trade and civilization
+
+Small gold-plated scales inscribed with holy words. When activated, attempts to change another person's attitude by one step become a swift action instead of taking 1 minute. The user must touch the scales and speak to the target. It stays active 1 hour, or until it has influenced a number of creatures equal to 1/2 the activating cleric's effective level.
+
+**Construction Requirements:** None (mundane holy symbol); **Cost** —
+
+### Stinging Whip
+
+**Slot** none; **CL** —; **Price** 50 gp; **Weight** 5 lbs.
+
+**Aura** none (faint when activated)
+
+**Faith** deity of lust, revenge, and trickery
+
+A whip of braided metallic wire. When activated, the wielder can expend its power to gain a sacred (positive) or profane (negative) bonus on her next disarm or trip combat maneuver with the whip, equal to the dice of the activating channel energy. It stays charged until used or 1 hour passes.
+
+**Construction Requirements:** None (mundane holy symbol); **Cost** —
+
+### Sundered Mask
+
+**Slot** none; **CL** —; **Price** 250 gp; **Weight** 1 lb.
+
+**Aura** none (faint when activated)
+
+**Faith** deity of magic
+
+A mask representing the deity's own. When a member of the faith wears the activated mask, the first time the wearer takes damage the mask releases its stored energy, healing hit points equal to the dice of the activating channel energy, regardless of the type of energy used and whether the target is living or undead. This does not prevent death from hit point damage. It stays charged until it heals someone or 24 hours pass.
+
+**Construction Requirements:** None (mundane holy symbol); **Cost** —
+
+### Winged Fetish
+
+**Slot** none; **CL** —; **Price** 50 gp; **Weight** —
+
+**Aura** none (faint when activated)
+
+**Faith** deity of death and fate
+
+An amulet of a dulled dagger wrapped with feathers. When activated, the first time the wearer is subject to an undead creature's attack that requires a saving throw (such as disease, paralysis, or energy drain), the amulet grants a sacred (positive) or profane (negative) bonus on that save equal to the dice of the activating channel energy. It stays charged until used or 1 hour passes.
+
+**Construction Requirements:** None (mundane holy symbol); **Cost** —
+
+## Minor Items of Faith
+
+### Calming Oils
+
+**Slot** none; **CL** 5th; **Price** 1,000 gp; **Weight** —
+
+**Aura** faint abjuration
+
+A vial of calming oils lessens great storms, reducing the wind (and the swells it creates) in a 50-foot radius by one step. The radius is measured from the creature or ship's deck onto which it is poured and travels with it. If a spell affecting wind, such as *control weather* or *whirlwind*, would affect the area, its caster must win an opposed caster level check against the oil's caster level or the spell ends. The effect lasts 1 hour. A devotee of the deity of rivers and storms may instead drink the oil to gain *water breathing* for 1 hour.
+
+**Construction Requirements:** Craft Potion, *water breathing*, *wind wall*; **Cost** 500 gp
+
+### Clockwork Key
+
+**Slot** none; **CL** 5th; **Price** 500 gp; **Weight** 1 lb.
+
+**Aura** faint abjuration
+
+Constructs avoid attacking the bearer, directing attacks to other targets if possible, unless directly threatened by the bearer or ordered by their creator to attack. If no other target exists, a construct acts normally. A devotee of the deity of trade and civilization can use the key as an improvised weapon dealing 1d2 damage; a construct struck takes 1d4 damage and must make a DC 12 Will save or be paralyzed for 1d4 rounds. Once the key paralyzes a construct, it is destroyed.
+
+**Construction Requirements:** Craft Wondrous Item, *shatter*; **Cost** 250 gp
+
+### Manual of Calm Reflection
+
+**Slot** none; **CL** 5th; **Price** 4,000 gp; **Weight** 2 lbs.
+
+**Aura** faint transmutation
+
+A thick book of 30 chapters that centers the reader's spirit. After spending 1 hour reading it, the reader gains a +1 bonus on saves against mind-affecting spells for that day. A devotee of the deity of self-perfection gains +2 instead.
+
+**Construction Requirements:** Craft Wondrous Item, *aid*; **Cost** 2,000 gp
+
+### Mask of Destruction and Creation
+
+**Slot** head; **CL** 5th; **Price** 5,000 gp; **Weight** —
+
+**Aura** faint evocation and illusion
+
+This reversible silken mask is flat white on one side and a swirling mass of colors on black on the other. Worn white side out, it allows *detect magic* once per day; black side out, *read magic* once per day. A devotee of the deity of magic can also cast *magic missile* (as a 3rd-level caster) once per day with the black side, and *disguise self* once per day with the white side.
+
+**Construction Requirements:** Craft Wondrous Item, *detect magic*, *disguise self*, *magic missile*, *read magic*; **Cost** 2,500 gp
+
+### Razored Ropes
+
+**Slot** none; **CL** 3rd; **Price** 8,301 gp; **Weight** 3 lbs.
+
+**Aura** medium transmutation
+
+A +1 lasso of tightly braided fine chain, used to restrain fleeing cowards. It entangles as normal, but deals 1d4 damage to a creature that tries to slip free and fails. Escape requires a DC 18 Escape Artist check; breaking it requires a DC 28 Strength check. A devotee of the deity of battle can, as a standard action, make it constrict an entangled creature for 1d4 damage; anyone else who tries is struck for 1d4 damage instead.
+
+**Construction Requirements:** Craft Wondrous Item, *animate rope*; **Cost** 4,150 gp
+
+### Spiral Tiles
+
+**Slot** none; **CL** 5th; **Price** 6,000 gp; **Weight** 1 lb.
+
+**Aura** faint divination
+
+Ten ebony, pearl, and ivory tiles that, arranged in a spiral on the ground, grant the effect of *guidance* once per day, lasting until discharged. A devotee of the deity of death and fate can also toss them once per day as a standard action and read them as if casting *augury*; anyone else gets a random or misleading result.
+
+**Construction Requirements:** Craft Wondrous Item, *augury*, *guidance*; **Cost** 3,000 gp
+
+### Triple-Stinging Blade
+
+**Slot** none; **CL** 7th; **Price** 11,702 gp; **Weight** 1 lb.
+
+**Aura** faint evocation
+
+A decorative +1 dagger with retractable thorns. When you damage a creature with it, you can make a free combat maneuver; on a success, thorns spring forth for an extra 1d4 damage. A devotee of the deity of lust, revenge, and trickery can, once per day as a free action, raise the enhancement bonus to +2 for 1 round. Anyone else who uses the activation is injected with medium spider venom.
+
+**Construction Requirements:** Craft Weapon, *spike growth*; **Cost** 5,851 gp

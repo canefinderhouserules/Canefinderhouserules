@@ -187,3 +187,5 @@ The following text is the property of Wizards of the Coast, Inc. and is Copyrigh
     Pathfinder Companion: Dwarves of Golarion. Copyright 2009, Paizo Publishing, LLC; Authors: David A. Eitelbach, Russ Taylor, JD Wiker, Keri Wiker, and Hank Woon.
 
     Pathfinder Companion: Elves of Golarion, Copyright 2008, Paizo Publishing, LLC; Authors Jeff Quick and Hal Maclean.
+
+    Pathfinder Player Companion: Faiths of Balance. © 2011, Paizo Publishing, LLC; Author: Colin McComb.
