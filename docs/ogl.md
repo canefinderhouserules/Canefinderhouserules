@@ -154,4 +154,4 @@ The following text is the property of Wizards of the Coast, Inc. and is Copyrigh
 
     Pathfinder Player Companion: Undead Slayer's Handbook © 2014, Paizo Publishing, LLC; Authors: Dennis Baker, Jay Loomis, Alex Putnam, Adam Roy, Tork Shaw, and Larry Wilhelm.
 
-    Pathfinder Player Companion: Monster Summoner’s Handbook © 2015, Paizo Inc.; Authors: Dennis Baker, Ross Byers, John Compton, Jim Groves, Mikko Kallio, Mark Moreland, Mark Seifter, and others.
+    Pathfinder Player Companion: Monster Summoner’s Handbook © 2015, Paizo Inc.; Authors: Alexander Augunas, Tyler Beck, Anthony Li, Luis Loza, David N. Ross, Owen K.C. Stephens, and Linda Zayas-Palmer.
