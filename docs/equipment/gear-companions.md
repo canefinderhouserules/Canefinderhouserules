@@ -1755,3 +1755,55 @@ This otherwise ordinary compass is sealed inside a glass case amid a quantity of
 **Price** 2 sp; **Weight** 1/2 lb.
 
 While surface dwellers sometimes use all manner of wall hooks to hang items for decoration or convenience, wall hooks are essential underwater to prevent loose objects from simply drifting away with the currents and tides. These hooks are found throughout underwater settlements and buildings to help the aquatic inhabitants keep track of their belongings.
+
+## Elemental Plane Alchemy
+
+### Dead Air Vial
+
+**Price** 200 gp; **Weight** —; **Craft DC** 25
+
+Within this corked vial is a tiny sample of what is known as “dead air.” Heavy, still, and of unknown origin, pockets of dead air becalm airships and smother crews in remote parts of the Plane of Air. When you open a dead air vial, invisible dead air fills a 20-foot-radius area centered on you. The affected area becomes devoid of breathable air. Creatures that breathe air must hold their breath or suffocate in an area of dead air, though sound, fire, and other effects that rely on a stable atmosphere are unaffected. Undisturbed, the dead air dissipates in 1 minute. A moderate wind (11+ mph) disperses the dead air in 4 rounds; a strong wind (21+ mph) disperses the dead air in 1 round.
+
+### Stagnant Fog Sack
+
+**Price** 80 gp; **Weight** 1 lb.; **Craft DC** 20
+
+Gathered within this tightly woven, alchemically treated canvas sack is a sample of the pervasive fetid fog that looms near the border of the Plane of Air and the Plane of Water. When opened, the fog billows out in a 30-foot-radius area. Sight is extremely limited in an area of stagnant fog. A creature within 15 feet has concealment (20% miss chance), while creatures farther away have total concealment (50% miss chance, and the attacker can’t use sight to locate the target). In addition, creatures that end their turn within the cloud must succeed at a DC 14 Fortitude save or become sickened for 1 round. Stagnant fog dissipates naturally after 1 minute. A moderate wind (11+ mph) disperses the stagnant fog in 1 round.
+
+### Thunder Kettle
+
+**Price** 275 gp; **Weight** 3 lbs.; **Craft DC** 25
+
+This intricate glass and metal jug vibrates gently, and contains a light cloud of white vapor and crackling blue electricity. Djinn of the Plane of Air use thunder kettles to capture the essence of air and lightning elementals within planar super storms. When uncorked as a standard action, a thunder kettle releases a rumbling cacophony of thunder in a 10-foot-radius burst. Creatures in the area must succeed at a DC 16 Fortitude save or take 1d6 points of sonic damage and become staggered for 1 round. A successful save halves the damage and negates the staggered condition.
+
+### Planar Alchemical Catalyst
+
+**Price** 200 gp; **Weight** 2 lbs.; **Craft DC** —
+
+This vibrant, variegated gemstone is found naturally on the Elemental Plane of Earth but can also be artificially reproduced, albeit with a fair amount of difficulty. The catalyst is highly sought for its remarkable ability to enhance and alter alchemical tools and weapons. As a move action, you can apply the catalyst to one of the following items to enhance or alter the alchemical item's effects. If the item is not used within 3 rounds, the benefit of the enhanced alchemical item is lost and the item reverts to normal. Once applied to an item, a planar alchemical catalyst is expended.
+
+- **Alchemist's fire**: The type of energy damage changes to acid, cold, or electricity (user's choice).
+- **Flash powder**: The DC of the Fortitude save increases to 15, and targets are dazzled for 1d4+1 rounds whether or not they succeed at their saving throw.
+- **Holy water**: The splash area becomes difficult terrain for undead and evil outsiders, and undead or evil outsiders that end their turn in the affected area take 2 points of damage. Both of these effects last 3 rounds.
+- **Impact foam**: The foam does not dissolve when exposed to acid or water, and instead becomes a pliable-yet-rigid platform that can be dragged onto water and used as a makeshift raft for up to 5 Medium creatures. The 10-minute duration still applies.
+- **Liquid blade**: The blade deals 2 points of bleed damage on a hit (this does not stack with bleed damage from other sources).
+- **Liquid ice**: In addition to its normal effects, the liquid ice acts as a smokestick, except it emits dense white fog rather than smoke.
+- **Shard gel**: The shard gel remains embedded in the target on a direct hit, continuing to deal 1d3 points of damage each round after until the gel dissolves (5 rounds) or the target takes a full-round action to remove it.
+- **Tanglefoot bag**: The DC of the Reflex saving throw increases to 17, the penalty on attack rolls is –3, and the tanglefoot bag can affect targets up to size category Huge.
+- **Thunderstone**: In addition to being deafened, targets that fail their Fortitude saves are staggered for 1 round. Affected targets are deafened for 1d4 rounds whether or not they succeed at their saving throw.
+
+### Elemental Brine
+
+**Price** 500 gp; **Weight** 1 lb.; **Craft DC** —
+
+This alchemical substance is produced from saltwater from the Plane of Water. It has no effect on natives of that plane, but grants unusual properties when consumed by creatures from the Material Plane. Any creature with the water affinity racial trait, including undines, that drinks elemental brine finds her innate magic bolstered. If the creature is a sorcerer with the elemental (water) bloodline, she casts her bloodline powers and spells at +1 caster level. If the creature is a cleric with the Water domain, she treats her Wisdom modifier as 2 points higher for Water domain powers and spells. This does not grant early access to level-based powers; it only affects powers that she could already use without this trait. This benefit lasts 24 hours. Creatures with the aquatic subtype that imbibe elemental brine become immune to poison, although poisons active when the brine is imbibed still run their course. If the creature dwells in saltwater, it also becomes undetectable by scent for the same duration. Both of these effects last 24 hours.
+
+Finally, elemental brine can be used as a splash weapon with a range increment of 10 feet. While it has little effect on most creatures (other than soaking them in salty water) when used in this way, a bottle of elemental brine is quite lethal if it’s flung at a creature with the fire subtype. On a direct hit, a creature with the fire subtype takes 2d6 points of damage, and creatures with the fire subtype in adjacent squares take 1d4 points of damage. In addition, a direct hit against a creature with the fire subtype creates a unique interplay between elemental brine’s salt and water and the creature’s flames, making the target more conductive and thus more susceptible to electrocution. Anytime the target would take electricity damage within the next minute, it must succeed at a DC 20 Reflex save or take 1-1/2 times as much electricity damage as normal.
+
+### Fireskin Elixir
+
+**Price** 100 gp; **Weight** —; **Craft DC** 20
+
+This elixir turns its imbiber fiery red, making it easier to pass as an efreeti. Unscrupulous efreet can sell fireskin elixir to guests who have been barred from citizen-only districts and must rely on disguises. Fireskin is highly addictive. Many once-savvy merchants have fallen into destitution as they scrambled to maintain efreet favor and secure a steady supply of the drug.
+
+**Type** ingested; **Addiction** major, Fortitude DC 20; **Price** 100 gp; **Effect** 1 day; +10 alchemical bonus on Disguise checks to appear as an efreeti, –1 penalty on all saves; **Damage** 1d2 Wis damage.

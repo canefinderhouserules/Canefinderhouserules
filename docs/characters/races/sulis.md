@@ -60,6 +60,7 @@ Sulis have access to the following equipment.
 
 - [Extra Elemental Assault](../../rules/feats/extra-elemental-assault.md)
 - [Incremental Elemental Assault](../../rules/feats/incremental-elemental-assault.md)
+- [Elemental Commixture](../../rules/feats/elemental-commixture.md)
 
 ## Spells
 

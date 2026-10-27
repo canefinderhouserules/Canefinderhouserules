@@ -56,6 +56,27 @@ The following racial traits may be selected instead of existing oread racial tra
 
 **Treacherous Earth**: Once per day, an oread with this racial trait can will the earth to rumble and shift, transforming a 10-foot-radius patch of earth, unworked stone, or sand into an area of difficult terrain, centered on an area the oread touches. This lasts for a number of minutes equal to the oread’s level, after which the ground returns to normal. This racial trait replaces the spell-like ability racial trait.
 
+**Oread Gem Magic (1 RP)**: Oreads' proclivity for long spans of study and concentration makes them natural wizards, witches, and oracles. Oreads with this racial trait can augment their earth-related spells and spell-like abilities through the use of precious and semiprecious gemstones as additional material components. The gems are destroyed in the process, granting the spell the listed effects in addition to its normal effects unless otherwise noted. Only one instance of oread gem magic can be applied to a spell at a time; excess expended gems do not stack. This racial trait replaces earth affinity.
+
+- *Binding earth*: +1 damage; +1 to DC of Strength checks. Cost: garnet worth 50 gp.
+- *Binding earth, mass*: As the binding earth augmentation, affecting all targets of the augmented spell. Cost: garnets worth 250 gp.
+- *Calcific touch*: +1 Dexterity damage. Cost: aquamarine worth 250 gp.
+- *Clashing rocks*: +1 damage per damage die. Cost: emeralds worth 1,500 gp.
+- *Earthquake*: +2 Reflex save DC in whatever application the spell is used; area increases to 100-foot-radius shapeable spread. Cost: jet worth 500 gp.
+- *Elemental body*: Duration increases to 10 minutes/level. Cost: amber worth 250 gp for *elemental body I*, +100 gp per spell level for greater versions.
+- *Elemental swarm*: Earth elementals summoned gain the advanced simple template (this does not stack with the Augment Summoning feat). Cost: rubies worth 1,200 gp.
+- *Magic stone*: Range increment increases by 10 feet. Cost: moonstone worth 25 gp.
+- *Meld into stone*: Can bring up to 200 pounds of equipment with you; you can see as normal out of the stone. Cost: peridots worth 150 gp.
+- *Mighty fist of earth*: Increase unarmed strike damage by one step (to 1d4 in most instances). Cost: sard or sardonyx worth 25 gp.
+- *Raging rubble*: Rubble deals +1 damage; distraction DC increases by 1. Cost: tourmaline worth 80 gp.
+- *Shifting sand*: Move area of sands up to 15 feet as a move action. Cost: turquoise worth 125 gp.
+- *Soften earth and stone*: Creatures can move only at a quarter their normal speed (minimum 5 feet) in areas of mud and loose dirt. Cost: fluorite worth 100 gp.
+- *Spike stones*: +1 piercing damage; spikes deal 1 point of bleed damage. Cost: topaz worth 300 gp.
+- *Stone shape*: Shapes that include moving parts have only 5% chance of not working. Cost: opal worth 250 gp.
+- *Stone shield*: If your opponent's attack strikes the stone shield, its full damage roll is also applied to its weapon. Unarmed strikes and natural attacks are not affected. Cost: jade worth 75 gp.
+- *Stoneskin*: The cost of this spell's expensive material component can be reduced or increased to affect the spell's power accordingly. With reduced components, the spell grants DR 10/silver (instead of adamantine); with increased components, the spell absorbs 15 points of damage per caster level before it's discharged. Cost: diamonds worth 150 gp (reduced); diamonds worth 500 gp (increased).
+- *Wall of stone*: Wall is 1 inch thick per 3 caster levels. Cost: sapphire worth 400 gp.
+
 ## Favored Class Options
 
 See the [Advanced Race Guide section of the racial favored class options](../favored-class-bonuses/racial-favored-class-options.md#oreads-advanced-race-guide).
@@ -64,6 +85,7 @@ See the [Advanced Race Guide section of the racial favored class options](../fav
 
 - [Shaitan Binder](../classes/summoner-archetypes.md#shaitan-binder) (summoner)
 - [Student of Stone](../classes/monk-archetypes.md#student-of-stone) (monk)
+- Elemental totem rage powers: [Earth Totem](../classes/barbarian-archetypes.md#rage-powers) (barbarian)
 
 These archetypes are typically only taken by oreads, but members of other races, with the GM's permission, can take them as well.
 
@@ -92,6 +114,7 @@ Oreads have access to the following equipment.
 - [Oread Burrower](../../rules/feats/oread-burrower.md)
 - [Oread Earth Glider](../../rules/feats/oread-earth-glider.md)
 - [Stony Step](../../rules/feats/stony-step.md)
+- [Elemental Commixture](../../rules/feats/elemental-commixture.md)
 
 ## Magic Items
 

@@ -64,6 +64,7 @@ See the [Advanced Race Guide section of the racial favored class options](../fav
 
 - [Immolator](../classes/inquisitor-archetypes.md#immolator) (inquisitor)
 - [Wishcrafter](../classes/sorcerer-archetypes.md#wishcrafter) (sorcerer)
+- [Order of the Flame](../classes/cavalier-archetypes.md#order-of-the-flame) (cavalier order)
 
 These archetypes are typically only taken by ifrits, but members of other races, with the GM's permission, can take them as well.
 
@@ -88,6 +89,7 @@ Ifrits have access to the following equipment.
 - [Firesight](../../rules/feats/firesight.md)
 - [Inner Flame](../../rules/feats/inner-flame.md)
 - [Scorching Weapons](../../rules/feats/scorching-weapons.md)
+- [Elemental Commixture](../../rules/feats/elemental-commixture.md)
 
 ## Magic Items
 

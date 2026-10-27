@@ -738,6 +738,18 @@ The universe punishes those who interfere with destiny.
 
 **Fate’s Retribution (Su)**: Starting at 1st level, when you are hit by a melee attack, as an immediate action, you can curse the creature that struck you. The target takes a –2 penalty on all attack and damage rolls for 1d4 rounds. A Will save (DC 10 + 1/2 your sorcerer level + your Charisma modifier) negates this effect. You can use this ability a number of times per day equal to 3 + your Charisma modifier. This bloodline power replaces touch of destiny.
 
+### Lifewater
+
+Your soul is infused with the restorative and life-giving powers of elemental water.
+
+**Associated Bloodline**: Elemental (water).
+
+**Bloodline Arcana**: Anytime you cast a spell with the cold or water descriptor, you gain a number of temporary hit points equal to the level of the spell cast. You can grant up to half of these temporary hit points to an adjacent ally, in which case you gain the remaining temporary hit points. These temporary hit points last 1 minute.
+
+**Bloodline Powers**: Your powers are revitalizing rather than destructive.
+
+**Lifewater Stream (Su)**: At 9th level, once per day, you can unleash a surge of restorative elemental water that aids your allies. This ability affects creatures in a 30-foot line extending from your palm, and you can select one of the following conditions to remove from the affected creatures: fatigued, shaken, or sickened. Creatures affected by a more extreme version of the chosen condition (such as exhausted for fatigued, frightened for shaken, and nauseated for sickened) have their condition reduced to the less extreme version. At 17th level, you can use this ability twice per day, and you can choose from the following additional conditions: blinded, deafened, dazed, and staggered. At 20th level, you can use this ability three times per day. This bloodline power replaces elemental blast.
+
 ### Linnorm
 
 Your draconic heritage stems from a mighty, primordial linnorm rather than from the more common, somewhat civilized dragons.
@@ -785,6 +797,18 @@ The wintry origin of your magic flows like ice water in your veins.
 **Bloodline Powers**: Sometimes you must bring the cold to your enemies.
 
 **Freezing Bolt (Sp)**: At 9th level, you can cause the air to erupt in freezing sleet. This 10-foot-radius burst does 1d6 points of cold damage per sorcerer level (Reflex half ). The DC of this save is equal to 10 + 1/2 your sorcerer level + your Charisma modifier. At 9th level, you can use this ability once per day. At 17th level, you can use this ability twice per day. At 20th level, you can use this ability three times per day. This power has a range of 60 feet. This bloodline power replaces snow shroud.
+
+### Royal Marid
+
+You are descended from the ranks of noble marids, making your blood royal as well as magical.
+
+**Associated Bloodline**: Marid.
+
+**Bloodline Arcana**: Whenever you cast a spell with the water descriptor, you gain a swim speed of 30 feet for a number of rounds equal to double the level of the spell cast.
+
+**Bloodline Powers**: Your mastery over water is coupled with the power to alter it.
+
+**Sweeping Waves (Su)**: At 15th level, you can summon a wave of water from within, which pours from your mouth and violently sweeps creatures away from you on all sides. Creatures within 5 feet of you must succeed at a Reflex save (the DC is equal to 10 + 1/2 your sorcerer level + your Charisma modifier) or take a number of points of damage equal to 1d6 + 1 per 2 sorcerer levels you possess. Additionally, the waves of water bull rush each affected creature, using your caster level as your base attack bonus and your Charisma modifier as your Strength modifier to determine the CMB of the bull rush. A successful save halves the damage and negates the bull rush. This bloodline power replaces elemental movement.
 
 ### Sage
 

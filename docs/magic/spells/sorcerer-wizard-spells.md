@@ -607,6 +607,7 @@
 - **[Stage Fright](stage-fright.md)**: Targets take –4 on ability, skill, and concentration checks.
 - **[Stinking Cloud](stinking-cloud.md)**: Nauseating vapors, 1 round/level.
 - **[Stolen Light](stolen-light.md)**: Store an image within a gem.
+- **[Storm Step](storm-step.md)**: teleport short distance as a bolt of lightning
 - **[Summon Monster III](summon-monster-iii.md)**: Summons extraplanar creature to fight for you.
 
 **Divination**

@@ -74,6 +74,8 @@ See the [Advanced Race Guide section of the racial favored class options](../fav
 
 - [Undine Adept](../classes/druid-archetypes.md#undine-adept) (druid)
 - [Watersinger](../classes/bard-archetypes.md#watersinger) (bard)
+- [Lifewater](../classes/sorcerer-archetypes.md#lifewater) (wildblooded sorcerer bloodline)
+- [Royal Marid](../classes/sorcerer-archetypes.md#royal-marid) (wildblooded sorcerer bloodline)
 
 These archetypes are typically only taken by undines, but members of other races, with the GM's permission, can take them as well.
 
@@ -100,6 +102,7 @@ Undines have access to the following equipment.
 - [Steam Caster](../../rules/feats/steam-caster.md)
 - [Triton Portal](../../rules/feats/triton-portal.md)
 - [Water Skinned](../../rules/feats/water-skinned.md)
+- [Elemental Commixture](../../rules/feats/elemental-commixture.md)
 
 ## Magic Items
 

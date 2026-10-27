@@ -358,6 +358,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Spirit Bonds](spirit-bonds.md)**: Meditative spell: track bonded creatures and send a telepathic message.
 - **[Spit Venom](spit-venom.md)**: Spit blinding black adder venom.
 - **[Stage Fright](stage-fright.md)**: Targets take –4 on ability, skill, and concentration checks.
+- **[Storm Step](storm-step.md)**: teleport short distance as a bolt of lightning
 - **[Strangling Hair](strangling-hair.md)**: Your hair animates and grapples.
 - **[Sundered Serpent Coil](sundered-serpent-coil.md)**: Summon a grappling serpent coil
 - **[Swarm of Fangs](swarm-of-fangs.md)**: Summon a swarm of flying teeth

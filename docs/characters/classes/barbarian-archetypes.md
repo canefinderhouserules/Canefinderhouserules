@@ -10,6 +10,10 @@ The following new rage powers can be taken by any barbarian that meets the prere
 
 For example, a barbarian that selects a beast totem rage power cannot later chose to gain any of the spirit totem rage powers.
 
+**Air Totem (Su)**: Once per rage, the barbarian can move for 1 round as if affected by *air walk*.
+
+**Air Totem, Greater (Su)**: While raging, the barbarian is surrounded by an aura of howling winds. Creatures attempting to cast spells while adjacent to the barbarian must succeed at a concentration check (DC 15 + spell level), and ranged attack rolls against the barbarian take a –4 penalty. Creatures smaller than the barbarian that attack the barbarian in melee with a natural weapon or touch attack must succeed at a Fortitude save (DC 10 + 1/2 the barbarian's level + the barbarian's Constitution modifier) or the attack fails and the creature is flung back 5 feet and knocked prone. The barbarian can suspend this aura as a free action.
+
 **Beast Totem (Su)**: While raging, the barbarian gains a +1 natural armor bonus. This bonus increases by +1 for every four levels the barbarian has attained. A barbarian must have the lesser beast totem rage power to select this rage power. A barbarian must be at least 6th level to select this rage power.
 
 **Beast Totem, Greater (Su)**: While raging, the barbarian gains the pounce special ability, allowing her to make a full attack at the end of a charge. In addition, the damage from her claws increases to 1d8 (1d6 if Small) and the claws deal ×3 damage on a critical hit. A barbarian must have the beast totem rage power to select this rage power. A barbarian must be at least 10th level to select this rage power.
@@ -36,11 +40,17 @@ For example, a barbarian that selects a beast totem rage power cannot later chos
 
 **Disruptive**: When raging, the barbarian gains Disruptive as a bonus feat. The barbarian must have the superstition* rage power to select this rage power. A barbarian must be at least 8th level to select this rage power.
 
+**Earth Totem (Ex)**: While raging, the barbarian can burrow through sand, loose soil, or gravel at a speed of 20 feet. This does not give the barbarian the ability to breathe underground. Loose material collapses behind the target 1 round after it leaves the area.
+
+**Earth Totem, Greater (Su)**: While raging, the barbarian's skin becomes as hard as stone. If the barbarian is hit with a manufactured weapon while raging, the weapon takes an amount of damage equal to half that dealt to the barbarian (ignoring damage reduction).
+
 **Elemental Rage (Su)**: While raging, all of the barbarian’s melee attacks deal an additional 1d6 points of energy damage (acid, cold, electricity, or fire). The type is chosen when the barbarian begins her rage. A barbarian must have the lesser elemental rage power to select this rage power. A barbarian must be at least 8th level to select this rage power. Note that the barbarian can still use her lesser elemental rage power while using this rage power, but she must select a different energy type.
 
 **Elemental Rage, Greater (Su)**: While raging, all of the barbarian’s critical hits made with melee weapons deal an additional 1d10 points of energy damage (2d10 if the weapon deals ×3 damage on a critical hit, 3d10 if the weapon deals ×4 on a critical hit). The type of this damage is the same as the type chosen for the elemental rage power. A barbarian must have the elemental rage power to select this rage power. A barbarian must be at least 12th level to select this rage power.
 
 **Elemental Rage, Lesser (Su)**: As a swift action, the barbarian can cause her melee attacks to deal an additional 1d6 points of energy damage (acid, cold, electricity, or fire) for 1 round. A barbarian must be at least 4th level to select this rage power. This power can only be used once per rage.
+
+**Elemental Totem, Lesser (Su)**: The barbarian selects one elemental type (air, earth, fire, or water). Once selected, this choice cannot be changed. While raging, the barbarian gains a +1 bonus on saving throws against spells with the selected elemental descriptor. This bonus increases by 1 at 4th level and every 4 levels thereafter, to a maximum of +6 at 20th level. The barbarian gains access to the elemental totem rage power matching the element she selected. To select a standard elemental totem power, the barbarian must be at least 6th level and must have selected the appropriate element when she gained the lesser elemental totem rage power. In order to gain the greater elemental totem power, she must be 10th level and have already selected the standard elemental totem of that type. A barbarian cannot select from more than one group of elemental totem rage powers (for example, a barbarian that selects the air totem rage power cannot later choose to gain any of the fire totem rage powers).
 
 **Energy Absorption (Su)**: While raging, the barbarian can absorb energy from a single attack of her chosen energy type once per rage. She does not make a saving throw against the effect but takes no damage from it, instead gaining 1 temporary hit point per 3 points of damage the attack would have inflicted. These temporary hit points last until the end of the barbarian’s rage. A barbarian must have the greater energy resistance rage power to select this rage power. A barbarian must be at least 12th level to select this rage power.
 
@@ -67,6 +77,10 @@ For example, a barbarian that selects a beast totem rage power cannot later chos
 **Fiend Totem, Greater (Su)**: While raging, the barbarian is surrounded by an aura of menace. Good creatures adjacent to the barbarian are shaken and take 2d6 points of slashing damage at the beginning of the barbarian’s turn as dozens of small cuts open across their flesh. Neutral creatures that are adjacent to the barbarian are shaken, but do not take any damage. Evil creatures are unaffected. A barbarian must have the fiend totem rage power to select this rage power. A barbarian must be at least 10th level to select this rage power.
 
 **Fiend Totem, Lesser (Su)**: While raging, the barbarian grows a pair of large horns, gaining a gore attack. This attack is a primary attack (unless she is also attacking with weapons, in which case it is a secondary attack) and is made at the barbarian’s full base attack bonus (–5 if it is a secondary attack). The gore attack deals 1d8 points of piercing damage (1d6 if Small) plus the barbarian’s Strength modifier (1/2 if it is a secondary attack).
+
+**Fire Totem (Su)**: While the barbarian is raging, any opponent that confirms a critical hit against her with a piercing or slashing melee weapon is sprayed with liquid fire. (Creatures with reach weapons are immune.) The attacker takes 1d6 points of fire damage per barbarian level (Reflex halves; DC 10 + 1/2 the barbarian's level + the barbarian's Constitution modifier).
+
+**Fire Totem, Greater (Su)**: While raging, the barbarian can envelop herself in a cloud of smoke that fills a 10-foot-radius sphere and follows her as she moves. Creatures in the affected area must succeed at Fortitude saves each round or suffer the effects of breathing heavy smoke. The barbarian is immune to the smoke's effects, including vision obstruction. She can end this smoke as a free action, or it can be dispersed by wind in the same manner as a *fog cloud* spell.
 
 **Flesh Wound (Ex)**: Once per rage, the barbarian can try to avoid serious harm from an attack. The barbarian must make a Fortitude save with a DC equal to the damage that would be dealt by the attack. The barbarian’s armor check penalty applies on this saving throw. If the save succeeds, the barbarian takes half damage from the attack and the damage is nonlethal. The barbarian must elect to use this ability after the attack roll is made, but before the damage is rolled. A barbarian must be at least 10th level to select this rage power.
 
@@ -137,6 +151,10 @@ A barbarian must have the ferocious mount rage power to select this rage power. 
 **Suffocating Grip (Ex)**: While raging, when the barbarian successfully maintains a grapple, she can choke her opponent instead of dealing damage to, moving, pinning, or tying up her opponent. The grappled opponent cannot speak or breathe and must hold its breath or begin suffocating. The grappled opponent can take a breath during any round in which the barbarian does not maintain the grapple. Creatures that do not breathe are not affected by this ability.
 
 **Suffocating Grip, Greater (Ex)**: When the barbarian is using the suffocating grip rage power, the grappled creature cannot hold its breath and immediately begins suffocating. A barbarian must be at least 12th level and have the suffocating grip rage power to select this rage power.
+
+**Water Totem (Ex)**: While raging, the barbarian can breathe water as well as air.
+
+**Water Totem, Greater (Su)**: While raging, the barbarian gains tremorsense to a range of 30 feet while underwater. She can attack and move underwater as if affected by *freedom of movement*.
 
 **Witch Hunter (Ex)**: While raging, the barbarian gains a +1 bonus on damage rolls against creatures possessing spells or spell-like abilities. This damage bonus increases by +1 for every four levels the barbarian has obtained. A barbarian must have the superstition* rage power to select this rage power.
 

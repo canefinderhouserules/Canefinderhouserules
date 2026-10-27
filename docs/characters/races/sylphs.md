@@ -86,6 +86,7 @@ Sylphs have access to the following equipment.
 - [Cloud Gazer](../../rules/feats/cloud-gazer.md)
 - [Inner Breath](../../rules/feats/inner-breath.md)
 - [Wings of Air](../../rules/feats/wings-of-air.md)
+- [Elemental Commixture](../../rules/feats/elemental-commixture.md)
 
 ## Magic Items
 
@@ -100,3 +101,4 @@ Sylphs have access to the following equipment.
 - [Path of the Winds](../../magic/spells/path-of-the-winds.md)
 - [Wind Blades](../../magic/spells/wind-blades.md)
 - [Windy Escape](../../magic/spells/windy-escape.md)
+- [Storm Step](../../magic/spells/storm-step.md)

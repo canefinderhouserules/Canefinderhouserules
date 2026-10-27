@@ -3011,3 +3011,65 @@ These stone and steel figurines depicting a forge and anvil are warm to the touc
 Rootlike filaments of cold iron wind their way around this adamantine spike, tapering as they approach its point. When driven deeply into solid stone or a stone object weighing at least 1,000 pounds, the spike emits an aura that interferes with spellcasting to a radius of 60 feet. Any spells cast within the radius have a 30% chance of failing. This chance of spell failure does not stack with spell failure from other sources. The aura persists until the spike is removed. Driving the spike into the ground or pulling it free with a successful DC 15 Strength check is a full-round action that provokes attacks of opportunity. If wielded in combat, a *null spike* functions as a +1 adamantine dagger.
 
 **Construction Requirements:** Craft Wondrous Item, *antimagic field*; **Cost** 22,500 gp
+
+## Elemental Plane Wonders
+
+### Lamp of Fiery Visions
+
+**Slot** none; **CL** 7th; **Price** 22,200 gp; **Weight** 1 lb.
+
+**Aura** moderate divination
+
+This brass oil lamp has an etching of crossed scimitars on each side and is thought to have once held a powerful fire spirit. When the owner of this lamp rubs it as a full-round action and concentrates on a nonmagical fire within line of sight, he can gaze out of the flame as though he were standing in it. The targeted flame can be as small as a candle or as large as a forest fire, though for fires larger than 5 feet wide, the user must specify from which square within range he sees. While gazing out from a distant fire, the user can communicate with anyone who is near that fire simply by speaking—the user's voice emanates from the flame. The user cannot cast spells or make attacks through the flame, nor can he perform any actions other than viewing and speaking. If the fire is doused while the user is gazing through it, he must succeed at a DC 15 Will save or become dazed for 1 round. A *lamp of fiery visions* can be used for up to 5 minutes per day. This duration need not be consecutive, but it must spent in 1-minute increments.
+
+**Construction Requirements:** Craft Wondrous Item, *arcane eye*, *message*; **Cost** 11,100 gp
+
+### Sandstorm Dust
+
+**Slot** none; **CL** 11th; **Price** 9,000 gp; **Weight** 1 lb.
+
+**Aura** moderate evocation
+
+This ornate sack made of dyed leather contains a mixture of swirling atmospheric energies from the Plane of Air and gritty elemental dust from the Plane of Earth. As a standard action, the owner can blow a handful of sandstorm dust at a single creature of size Large or smaller within 10 feet. If the target fails at a DC 19 Reflex save, the sandstorm dust catches on the creature and grows to the size of a small sandstorm. At the beginning of the target's turn for the next 1d6+1 rounds, the creature is swept violently upward, thrown back to the ground, and then dropped in a random adjacent empty square, taking 1d6 points of damage from the impact. While the target lands on its feet each time, this does not prevent it from being dropped off a cliff or onto a dangerous patch of terrain. The affected creature can attempt to arrest itself as a move action with a successful DC 25 Acrobatics check or DC 19 Reflex save; success means that the creature is not flung into the air that round. If the creature succeeds at two consecutive Acrobatics checks or Reflex saves in this way, the sandstorm dissipates and the effect ends. A newly created bag of sandstorm dust contains enough dust for three uses.
+
+**Construction Requirements:** Craft Wondrous Item, *sirocco*; **Cost** 4,500 gp
+
+### Snowfall Orb
+
+**Slot** none; **CL** 13th; **Price** 14,000 gp; **Weight** 1 lb.
+
+**Aura** strong transmutation
+
+On the borderlands between the Plane of Air and the Plane of Water, vast sheets of glacial ice tip from one realm to the other, storms of boulder-sized hail pulverize extant structures, and entire nations of snow swirl amid the dense interplanar vapors. The snowfall orb is a relic of this harsh realm and is capable of channeling its awesome elemental power in a variety of ways. First, anytime the owner's equipment is targeted by *heat metal*, the effect is automatically countered as if the snowfall orb had cast *chill metal*. Second, once per day, the owner can concentrate on the orb for 10 minutes to alter the weather in a 1-mile radius. Doing so causes snow, heavy snow, sleet, or hail (user's choice) to fall within that radius for 1d4 hours, regardless of the environment's predominant climate or season. This ability otherwise functions as *control weather*. Finally, the user can throw a snowfall orb at an opponent as a ranged touch attack with a range increment of 20 feet. On a hit, the orb is destroyed and the target immediately takes 5d6 points of cold damage. At the beginning of each round thereafter for 4 rounds, the target takes an additional 1d6 points of cold damage and must succeed at a DC 15 Fortitude save or take 1d2 points of Dexterity damage and become staggered for 1 round. If the target takes 3 or more points of Dexterity damage in this way, the creature becomes fatigued; if the target takes 5 or more points of Dexterity damage, it becomes exhausted instead.
+
+**Construction Requirements:** Craft Wondrous Item, *chill metal*, *control weather*, *snowball*; **Cost** 7,000 gp
+
+### Windsong Lute
+
+**Slot** none; **CL** 3rd; **Price** 4,250 gp; **Weight** 3 lbs.
+
+**Aura** faint transmutation
+
+The haunting strains of any music played on this unusually light, gold-inlaid oak lute travel farther than that of any mundane instrument, as if carried by the wind. If a bard uses this lute to play a bardic performance with a limited range (such as countersong or distraction), the range of the bardic performance increases by 10 feet. If the bard is a sylph, the range increases by 20 feet instead.
+
+**Construction Requirements:** Craft Wondrous Item, *whispering wind*, creator must be a sylph with the bardic performance class feature; **Cost** 2,125 gp
+
+### Wintertide Candle
+
+**Slot** none; **CL** 9th; **Price** 1,500 gp; **Weight** 1/2 lb.
+
+**Aura** moderate transmutation
+
+Even though this translucent, 1-foot-long candle resembles an icicle, it refuses to melt when exposed to any normal heat source. When lit, the candle transmutes its material composition from wax into gleaming divine ice (frozen holy water like that produced by *holy ice*). The flame of the candle is cool and radiates violet-blue light. Lighting the candle is a standard action, and anyone adjacent to it can extinguish the flame as a free action. The candle can burn for 10 rounds (need not be consecutive) before the ice is entirely consumed. While the candle is burning, it emits an aura of divine cold in a 30-foot radius. The candle modifies the effect of any channeled positive or negative energy that originates inside the aura, and of any *cure* or *inflict* spell cast inside the aura. Instead of their normal effects, these abilities deal an amount of cold damage equal to the number of hit points they would normally cure or inflict. A target that succeeds at a Fortitude save (using the normal DC for the ability or spell) instead takes half damage. A bearer can hurl the lit candle at an enemy as a ranged touch attack with a range increment of 10 feet, causing the candle to explode into a burst of chilled holy water. A creature struck in this manner is numbed by divine cold, becoming staggered for half the remaining time that the candle could burn (Fortitude DC 17 negates). An undead creature or evil outsider struck in this manner also takes 1d4 points of damage for each remaining round that the candle could continue burning, as if it were hit by holy water (no saving throw).
+
+**Construction Requirements:** Craft Wondrous Item, Elemental Spell (cold), *holy ice*; **Cost** 750 gp
+
+### Phlogiston Vial
+
+**Slot** none; **CL** 11th; **Price** 3,300 gp; **Weight** —
+
+**Aura** moderate abjuration
+
+This 1-inch-long, clear glass vial is filled with a dark, amber-colored fluid that resembles the twisting, flickering form of a fire elemental. The vial is sealed with a brass cap and attached to a lightweight gold chain. When the chain is wrapped around a divine caster's holy symbol, the saving throw DC of the next *banishment* or *dismissal* spell he casts on an outsider with the fire subtype is increased by 4, and additionally, the caster gains a +2 alchemical bonus on the caster level check to overcome the creature's spell resistance against the spell. If the spell is successful, the outsider leaves behind a small pile of magical ashes and the phlogiston vial cannot be used to banish outsiders again until the oil inside is replaced as a standard action (see below). If the ashes are collected and placed inside the vial, and the vial is used as an additional material component for a *planar ally* spell, the spell conjures the exact same outsider, provided the creature is a viable target of that spell. The owner of the vial receives a +4 bonus on her Charisma check to negotiate with the creature. The ashes are consumed after an agreement with the creature is made. A phlogiston vial is a single-use item that can be recharged with a rare alchemical agent called phlogiston oil, which can only be found on the Plane of Fire and costs 2,000 gp when sold on the open market. The listed price is for a phlogiston vial full of phlogiston oil.
+
+**Construction Requirements:** Craft Wondrous Item, *banishment*, *planar ally*; **Cost** 1,650 gp

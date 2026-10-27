@@ -128,6 +128,46 @@ Only tieflings may select one of these traits.
 **Malign Instrument**: Select a good-aligned deity. Add 1 to the DCs of your spells' saves when targeting a good-aligned outsider or divine spellcaster who serves that deity.
 
 
+## Ifrit Traits
+
+Only ifrits may select one of these traits.
+
+**Expert Distractor**: Whenever you damage an opponent that is casting a spell with a melee attack that deals fire damage (such as a *flaming* weapon or a torch), the DC of the concentration check for your opponent to cast the spell is equal to 10 + the non-fire damage dealt + double the fire damage dealt + the spell's level (instead of just 10 + the damage dealt + the spell's level).
+
+**Unflappable Arrogance**: You laugh in the face of your aggressors. The DC to demoralize you with the Intimidate skill increases by 5. If an opponent's Intimidate check would be high enough to cause you to become demoralized for more than 1 round, you are instead demoralized for only 1 round.
+
+## Oread Traits
+
+Only oreads may select one of these traits.
+
+**Earthsense**: You were inexplicably transformed in the womb by elemental forces, making your connection to the earth exceptionally strong. As a swift action, you can gain tremorsense to a range of 60 feet until the beginning of your next turn. You can use this ability once per day at 1st level, plus one additional time per day at 5th level and every 5 levels thereafter, to a maximum of five times per day at 20th level.
+
+**Statuesque**: You inherited the statuesque physical features of your genie ancestor. Disguise becomes a class skill for you, and you gain a +2 trait bonus on Disguise checks to disguise yourself as a statue made of a specific type of stone, such as marble, sandstone, or alabaster. Furthermore, you take none of the penalties normally associated with disguising yourself as a different type of creature. You must choose the type of stone you resemble when you take this trait; once chosen, it cannot be changed.
+
+## Suli Traits
+
+Only sulis may select one of these traits.
+
+**Dualborn**: You were not born of a janni—your non-human heritage can instead be traced back to some dualistic power between elemental realms. Choose two energy types other than sonic (acid, cold, electricity, or fire). Once made, this choice cannot be changed. You gain racial energy resistance only to the energy types you choose, and not to others. When using your elemental assault ability, you can only sheath your arms in the energy types selected, but you can choose to sheath your primary hand with one of the selected energy types and your off-hand with the other. Attacks made with each hand (or a weapon held in each hand) deal bonus energy damage of the selected type. While wielding a two-handed weapon, half of the bonus energy damage is one energy type and half is the other.
+
+**Instant Friendship**: You inherited your janni parent's knack for reversing a tense situation. Once per day, you can treat an Intimidate roll to improve a creature's attitude toward you as if you had used Diplomacy instead. You must use this ability after making the check but before the GM has revealed the result. If you continue threatening the target after making the check, the check automatically fails.
+
+## Sylph Traits
+
+Only sylphs may select one of these traits.
+
+**Thunderborn**: The rumble in your voice and the spark in your eyes hint at a lineage of lightning and thunder, possibly tracing back to lightning elementals from the Plane of Air, or else to a magic-touched birth during a powerful thunderstorm. Once per day when you cast a spell that deals electricity damage, you can choose to make half of the damage electricity damage and the other half sonic damage.
+
+**Wind-Carried Voices**: You are a master of seeing through falsehoods and sharing secrets—the wind itself seems to carry your voice to those you trust. You gain a +1 trait bonus on Sense Motive checks to tell when someone is lying to you. Additionally, at will, as long as you are outdoors or in an area where there is noticeable air movement, you can whisper to any creature from up to 30 feet away. You can only designate one person in sight to hear your voice, and nearby creatures can hear these messages with a successful DC 20 Perception check. This is an extraordinary ability that otherwise functions as *message*.
+
+## Undine Traits
+
+Only undines may select one of these traits.
+
+**Marid's Fury**: Your marid ancestry is particularly strong, and magic runs thick through your veins. When you use your hydraulic push spell-like ability, it can extinguish magical fires as well as nonmagical fires as long as you succeed at an opposed caster level check (the DC is equal to 11 + the magical fire's caster level).
+
+**Whiteout**: When the air is full of water, your elemental blood allows you to blend with your surroundings and become one with the precipitation. In areas of nonmagical fog, rain, snow, or similar conditions (such as the spray of a waterfall), you gain the effects of concealment, but with a miss chance of 10%. If the precipitation would already grant you concealment, the miss chances stack.
+
 ## Skinwalker Traits
 
 Only skinwalkers may select the traits in this section (the heritage sections are open to skinwalkers of that heritage).

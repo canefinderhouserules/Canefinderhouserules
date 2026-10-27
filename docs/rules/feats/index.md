@@ -1813,6 +1813,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Electric Eel Conduit](electric-eel-conduit.md) | Combat, Style | Wis 17, Electric Eel Shock, Electric Eel Style, Elemental Fist, Improved Unarmed Strike, base attack bonus +13 or monk level 9th |
 | [Electric Eel Shock](electric-eel-shock.md) | Combat, Style | Wis 15, Electric Eel Style, Elemental Fist, Improved Unarmed Strike, base attack bonus +11 or monk level 7th |
 | [Electric Eel Style](electric-eel-style.md) | Combat, Style | Wis 13, Elemental Fist, Improved Unarmed Strike, base attack bonus +9 or monk level 5th |
+| [Elemental Commixture](elemental-commixture.md) | Teamwork | Caster level 1st |
 | [Elemental Discipline Style](elemental-discipline-style.md) | Combat, Style | Wis 13, base attack bonus +5 or monk level 5th |
 | [Elemental Knowledge](elemental-knowledge.md) | — | Expanded element class feature |
 | [Elemental Overload](elemental-overload.md) | — | Elemental overflow class feature, kineticist level 15th |

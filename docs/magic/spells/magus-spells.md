@@ -168,6 +168,7 @@ The magus class spell list appears on the [Magus](../../characters/classes/magus
 - **[Sickening Strikes](sickening-strikes.md)**: You are imbued with disease, and any creature you strike with a melee attack must make a Fortitude save or be.
 - **[Siphon Might](siphon-might.md)**: Drains target's Strength and grants it to an ally.
 - **[Steal Size](steal-size.md)**: Shrinks a larger target and enlarges you.
+- **[Storm Step](storm-step.md)**: teleport short distance as a bolt of lightning
 - **[Sundered Serpent Coil](sundered-serpent-coil.md)**: Summon a grappling serpent coil
 - **[Tactical Adaptation](tactical-adaptation.md)**: Gain a combat feat temporarily.
 - **[Toxic Blood](toxic-blood.md)**: Target's blood sprays black adder venom when cut.
