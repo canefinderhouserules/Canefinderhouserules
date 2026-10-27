@@ -919,3 +919,699 @@ Scholars and students are often willing to accept the clumsiness and slow reacti
 **Effect** 1d3 hours; +10 alchemical bonus on Perception checks  
 **Effect after 4 hours** user is denied his Dexterity bonus to AC  
 **Damage** 1d4 Con damage
+
+## Orc War Alchemy
+
+### Pain Wheel
+
+**Price** 50 gp; **Weight** 1/2 lb.
+
+Pain wheels are used by orc marauders to blight the lands of their foes and despoil the earth for generations to come. When you whirl this cruel weapon above your head as a standard action, it scatters salt in a 5-foot radius centered on your space. Creatures in the affected area (including you) that have fewer than their maximum number of hit points must succeed at a DC 11 Fortitude save or be sickened by pain for 1d6 rounds. Creatures affected by bleed effects take a –5 penalty on their saves. A successful DC 11 Heal check ends the sickened condition, as does the application of any effect that heals hit point damage. A pain wheel must be loaded with a pound of salt (a move action) before it can be used. You can also load a dose of itching powder or another alchemical powder normally used as a splash weapon into a pain wheel; when a pain wheel is used this way, the affected area (including your square) is treated as the splash radius for the purpose of determining the powder's effects, and there is no way to deal a direct hit with the powder.
+
+### Poison Belcher
+
+**Price** 50 gp; **Weight** 1/2 lb.
+
+Loading this long bronze tube with a dose of ingested poison and 10 gp worth of gold dust is a standard action. When you blow on a poison belcher like a blowgun, it sprays the poison out the other end. The poison belcher is a simple weapon that strikes as a ranged touch attack with a range increment of 10 feet and a maximum range of 30 feet. If hit, the target must save against the poison as if it had been ingested.
+
+### Bloodgorge
+
+**Price** 40 gp; **Weight** 1/2 lb.
+
+When you imbibe this syrupy black serum, your blood thins dramatically and gushes forth from even minor wounds. Anytime you take bleed damage, any creatures adjacent to you must succeed at a Fortitude save (DC 10 + the amount of bleed damage taken) or be nauseated for 1 round. A dose of bloodgorge lasts for 1 hour.
+
+**Recipe** (5 cold iron + 10 dew of lunary)/filtration; **Craft DC** 25; **Time** 10 minutes; **Tools** filter; **Type** alchemical remedy
+
+### Frightful War Paint
+
+**Price** 300 gp; **Weight** 1 lb.
+
+This bone-white paste makes your face appear skeletal and emotionless, like a visage of death itself. When you apply frightful war paint to yourself (or to a willing adjacent creature) as a full-round action, attempt a Disguise or Charisma check. Living creatures within 30 feet of the wearer must succeed at a Will save (DC equal to the result of your Disguise or Charisma check, maximum DC 20) or become shaken for 1d4 rounds. Blind creatures and creatures out of line of sight are unaffected. A creature that succeeds at its check becomes immune to this frightful war paint for 24 hours. Frightful war paint can be worn indefinitely, but it contains quicksilver and realgar, which have deleterious mental effects. If you wear frightful war paint for more than 1 minute per day (whether as a single use of it or as multiple uses over several periods of time), you take 1 point of Constitution damage, plus 1 point of Wisdom damage for every minute you wear the paint that day after the first.
+
+**Recipe** (40 dew of lunary + 40 quicksilver + 50 realgar)/earth; **Craft DC** 30; **Reagents** dew of lunary (40), quicksilver (40), realgar (40); **Time** 10 minutes; **Tools** —; **Type** alchemical tool
+
+### Imposing War Paint
+
+**Price** 70 gp; **Weight** 1/2 lb.
+
+This gritty red paste makes you appear as if you were covered in dried blood. When you apply imposing war paint as a full-round action, you gain a +4 alchemical bonus on Intimidate checks and the duration of any fear effects you create increases by 50% as long as you wear the war paint. Unfortunately, imposing war paint is made with realgar, which is toxic to living creatures. If you wear imposing war paint for more than 1 minute per day, you take 1 point of Constitution damage, plus 1 point of Constitution damage for every minute you wear the war paint that day after the first.
+
+**Recipe** (12 dew of lunary + 10 realgar)/earth; **Craft DC** 25; **Time** 10 minutes; **Tools** —; **Type** alchemical tool
+
+### Shaman's Paint
+
+**Price** 90 gp; **Weight** 1 lb.
+
+The ground carcasses of goldbelly stinkbugs—insects native to mountain ranges—give this paint its characteristic yellow hue. When applied as a full-round action, this fine paste makes your head glow as though with an unearthly halo. You gain a +2 alchemical bonus to your caster level for any spells you cast that target one or more of your allies. The quicksilver in shaman's paint is harmful to living creatures. If you wear shaman's paint for more than 1 minute per day, you take 1 point of Wisdom damage, plus 1 point of Wisdom damage for every minute you wear the paint that day after the first.
+
+**Recipe** (30 quicksilver + 25 saltpeter)/earth; **Craft DC** 20; **Time** 10 minutes; **Tools** —; **Type** alchemical tool
+
+### Shriek Bomb
+
+**Price** 45 gp; **Weight** 1 lb.
+
+This yellow ball of volatile resin has a hemp wick. Lighting the fuse is a move action; 1d3–1 rounds later (a result of 0 rounds takes place at the end of your turn), the shriek bomb explodes, dealing 2d6 points of sonic damage to creatures in a 10-foot-radius burst (Fortitude DC 15 half). A shriek bomb can be thrown as a splash weapon with a range of 10 feet.
+
+**Recipe** (20 magnesium + 30 myrrh + 5 saltpeter)/congelation; **Craft DC** 20; **Time** 10 minutes; **Tools** alchemist's lab; **Type** alchemical weapon
+
+## Assassin Guild Alchemy
+
+### Poison Diffuser
+
+**Price** 200 gp; **Weight** —
+
+This compound comes in a tiny eyedropper. When you combine a dose of poison diffuser with a dose of contact or ingested poison, the poison becomes a gas, slowly diffusing into the surrounding air. The poison is treated as an inhaled poison for 3 rounds, after which the poison and the poison diffuser are both expended and become inert. Any creature that passes within 5 feet of a diffused poison while it is active must save against the vaporous toxin.
+
+If you are using spontaneous alchemy, adding urea to the alchemical recipe delays a poison diffuser's activation time. For every 20 doses of urea (worth a total of 10 gp) incorporated into the alchemical creation process, the time from which the diffuser is added to the poison to the time the poison begins spreading into the air increases by 1 round.
+
+**Recipe** (100 brimstone + 180 salt + 180 spirit of wine)/fermentation; **Craft DC** 25; **Time** 1 day; **Tools** heat source; **Type** alchemical tool
+
+### Spirit of Glass
+
+**Price** 35 gp; **Weight** —
+
+This fiber is composed of tiny strands of razor-sharp glass laced with alchemical elements. Anyone who touches it finds her skin irritated by countless tiny abrasions. Though it causes only minor discomfort, it opens the skin enough for poison to seep through, allowing injury poisons to be delivered to the affected creature as if they were contact poisons. The abrasions last for 1 hour or until cleaned and treated with a successful DC 10 Heal check (a full-round action). Poisoners sometimes place spirit of glass in a target's wardrobe or amid her personal effects along with a rag soaked in poison. Spirit of glass is often mistaken for lint or loose cloth, though it and the abrasions it causes can be identified with a successful DC 15 Craft (alchemy) check or DC 17 Heal check. Spirit of glass can be used only once before it is expended.
+
+**Recipe** (2 cold iron + 7 darkwood + 5 gold)/calcination; **Craft DC** 25; **Time** 1 hour; **Tools** crucible; **Type** alchemical tool
+
+### Vector Ink
+
+**Price** 60 gp; **Weight** —
+
+This specialized ink can be mixed with a contact poison to make the poison last longer on paper. Once applied to a sheet of paper, the ink remains slightly tacky and keeps the poison effective for up to 1 week. Any creature that touches the writing (such as while opening a closed book or unraveling a scroll) must save against the contact poison. Once a creature has come in contact with the vector ink, the ink is expended. A single vial of vector ink is enough to write a single page of text on standard-sized parchment.
+
+**Recipe** (7 dew of lunary + 7 gold + 6 urea)/digestion; **Craft DC** 20; **Time** 1 day; **Tools** heat source; **Type** alchemical tool
+
+## Underworld Fungus Alchemy
+
+### Fungal Grafts
+
+*Rules*
+
+Subterranean alchemists have long studied the effects of growing modified mindcap fungus on and inside living creatures. Growing a fungal graft is similar to crafting a magic item, but requires only a specific number of ranks in Craft (alchemy) instead of an item creation feat.
+
+Growing a fungal graft takes the same amount of time that creating a magic item of the same price does. During this time, the nascent fungus must be fertilized with expensive material components (the cost varies according to the graft), watered as needed, and kept safe from harm. After the required time has passed, the cultivator must succeed at a Craft (alchemy) check in order for the fungus graft to be properly formed. The DC of this check varies according to the graft. On a failure, the graft withers and the cultivator must begin anew. On a success, the fungus is ready to be grafted onto a target.
+
+Grafting a fungus onto a target requires a 1-hour-long surgical procedure, during which time the subject must be either willing or helpless. At the end of the hour, the surgeon must attempt a Heal check against the listed DC. Failure indicates that the patient's body rejects the fungus and the fungus dies. Regardless of the surgery's success, the subject takes 1d4 points of Constitution damage. Although fungal grafts are not magical, some occupy a magic item slot on the body, preventing that slot from being used for any magic item or other graft.
+
+A fungal graft can be removed with a *heal* or *greater restoration* spell, or with a successful Heal check against the original DC in another hour-long surgery.
+
+### Fungal Eyes
+
+**Price** 18,000 gp; **Slot** eyes
+
+These small, glowing blue fungi form a protective film over the subject's eyes, preventing her from seeing with normal vision but granting her blindsight to a range of 30 feet.
+
+**Cultivation Requirements** Craft (alchemy) 12 ranks; **Skill** Craft (alchemy) DC 25, Heal DC 25; **Cost** 9,000 gp
+
+### Reaching Vines
+
+**Price** 4,000 gp; **Slot** wrists
+
+Mindcap spores seeded beneath the subject's skin enable the subject to extend and contract fungal vines from its wrists and forearms at will. The subject gains two vine attacks per round, which count as secondary natural attacks with a reach of 10 feet. These vines deal no damage, but the fungal-grafted creature can attempt to pull a struck target up to 5 feet toward itself, as the pull universal monster ability.
+
+**Cultivation Requirements** Craft (alchemy) 9 ranks; **Skill** Craft (alchemy) DC 21, Heal DC 21; **Cost** 2,000 gp
+
+### Instant Fertilizer
+
+**Price** 20 gp; **Weight** 4 lbs.
+
+This ruby-red earth can be sprinkled over a 5-foot patch of ground as a standard action that provokes attacks of opportunity. Non-creature plants and fungi in the area grow with alarming speed, and the ground becomes weedy, difficult terrain for non-plant creatures. Any non-plant creature in the square must succeed at a DC 15 Reflex save or it becomes entangled by the surging plants. Any plant creature in the affected square is healed of 1d6 points of damage.
+
+**Recipe** (15 magnesium + 20 phosphorus + 10 salt)/calcination; **Craft DC** 20; **Time** 1 hour; **Tools** crucible; **Type** alchemical tool
+
+### Lyddric Essence
+
+**Price** 20 gp; **Weight** 1 lb.
+
+This enzyme is derived from a parasitic fungus that breaks down most organic tissue, and is especially destructive to plants and other fungi. A flask of lyddric essence can be used like a flask of acid, dealing normal acid damage to creatures not of the plant type. However, plant creatures, plants, and fungi targeted with lyddric essence take 2d6 points of acid damage on a direct hit, or 2 points of acid splash damage if within 5 feet of where it hits.
+
+**Recipe** (15 brimstone + 3 mindcap spores)/distillation; **Craft DC** 20; **Time** 1 day; **Tools** retort; **Type** alchemical weapon
+
+### Mimic Fibers
+
+**Price** 30 gp; **Weight** —
+
+These alchemically prepared fungal spores are suspended in a thick green ichor. They grow in patterns that match any plant or fungal material they touch, even dead wood, causing any cuts or breaks in the matter to mend as if it had never been damaged. When applied as a full-round action, mimic fibers heal 1d10+10 points of damage to one object made of wood, paper, earth, or other living or once-living material. Even a destroyed item can be repaired (treat as if at 0 hit points) as long as the item is in no more than two pieces and is held together at the break as the spores are applied.
+
+**Recipe** (6 magnesium + 6 mindcap spores)/filtration; **Craft DC** 20; **Time** 10 minutes; **Tools** filter; **Type** alchemical tool
+
+### Tunnel Creeper
+
+**Price** 280 gp; **Weight** 1 lb.
+
+This fist-sized cluster of aggressive fungus grows rapidly when placed against a solid surface and exposed to water, and can quietly bore a 5-foot-tall, 10-foot-deep tunnel in a straight line. The tunnel is supported by sturdy fungal tubes. A tunnel creeper cannot eat through metal or any material denser than common stone. A tunnel creeper takes 10 minutes to carve a tunnel through stone, or 5 minutes to carve through wood, after which the fungus withers and falls to the ground.
+
+**Recipe** (100 brimstone + 90 magnesium + 35 mindcap spores)/fermentation; **Craft DC** 25; **Time** 1 day; **Tools** heat source; **Type** alchemical tool
+
+## Dwarven Magic Ales
+
+### Brewer's Kit
+
+**Price** 25 gp; **Weight** 50 lbs.
+
+A brewer's kit includes a mash tun, as well as copper kettles and piping for boiling and cooling before casking it and allowing it to ferment. It also includes a variety of dried hops and spices for flavoring.
+
+### Brewer's Kit, Masterwork
+
+**Price** 75 gp; **Weight** 50 lbs.
+
+This exceptionally crafted kit provides extra spices, a wider variety of herbs, and higher quality tools than a normal brewer's kit. A masterwork brewer's kit grants a +2 circumstance bonus on Craft (alchemy) checks to produce alcoholic beverages.
+
+### Magic Ales
+
+*Rules*
+
+Despite their name, dwarven magic ales are alchemical items rather than magic items. If the effects of a magic ale stack, track the duration of each dose's effects separately. Unlike most alcohol, the magic ales below have no detrimental effects like hangovers or addiction. Optionally, the GM can use the rules for drunkenness and addiction detailed in the drugs and alcohol rules to augment the effects of these brews.
+
+### Boulderhead Bock
+
+**Price** 25 gp; **Weight** 2 lbs.
+
+This malty ale has a legendarily thick, creamy head. It creates a pleasant buzz and sense of euphoria that dull the effects of pain and concussions, granting the drinker a +1 alchemical bonus on saving throws to avoid becoming dazed, staggered, or stunned, or against any effect with the pain descriptor for 1 hour. In addition, a dose of boulderhead bock grants the drinker 1d6 temporary hit points that apply exclusively against nonlethal damage. Multiple doses of boulderhead bock stack, to a maximum alchemical bonus of +5 and a maximum of 20 temporary hit points.
+
+**Recipe** (4 gold + 15 spirit of wine)/fermentation; **Craft DC** 19; **Time** 1 week; **Tools** brewer's kit; **Type** alcohol
+
+### Icecap Ale
+
+**Price** 40 gp; **Weight** 1/2 lb.
+
+This rare and unusual brew is fortified by a process of repeated partial freezing, during which the ice is continually skimmed off, resulting in a draught with more than 10 times the alcohol content of ordinary ale. Icecap ale grants a +2 alchemical bonus to the drinker's Strength and Constitution for 1 minute, as well as a +4 alchemical bonus on saving throws against compulsions and fear. However, after this initial surge of energy, the drinker becomes fatigued and takes a –4 penalty on Dexterity- and Strength-based skill checks for 1 hour. In addition, the drinker loses all memory of events that transpired during the 1d4 minutes directly following consumption of a draught of icecap ale; a successful DC 20 Fortitude save negates this memory loss. Additional doses of icecap ale imbibed during the hour following an initial dose cause the drinker to become sickened for 1 minute (instead of gaining a bonus to Strength and Constitution) and to suffer all the negative effects of icecap ale.
+
+**Recipe** (50 spirit of wine + 40 urea)/distillation; **Craft DC** 20; **Time** 1 week; **Tools** brewer's kit; **Type** alcohol
+
+### Longbeard Lambic
+
+**Price** 20 gp; **Weight** 1 lb.
+
+One of the oldest known dwarven ales, longbeard lambic is fermented with wild airborne yeasts and cultures, especially those that proliferate in the dank caves where it has been brewed since long before dwarves first emerged onto the surface. Longbeard lambic has a bracing effect that shocks the system. If the drinker is fatigued, shaken, or staggered, she can ignore these conditions for 1d4 rounds after imbibing longbeard lambic. In addition, a dose of longbeard lambic can reduce the exhausted condition to fatigued or the frightened condition to shaken (drinker's choice) for the same duration. If you consume a second longbeard lambic within 1 minute of the previous dose, you must succeed at a DC 15 Fortitude save or be nauseated for 1d4 rounds. The DC increases by 5 for each dose imbibed within the same time span. Dwarves gain a +5 racial bonus on this saving throw.
+
+**Recipe** (3 gold + 5 quicksilver + 4 spirit of wine)/fermentation; **Craft DC** 18; **Time** 1 week; **Tools** brewer's kit; **Type** alcohol
+
+### Wyrm's Breath Bitter
+
+**Price** 30 gp; **Weight** 1 lb.
+
+This green-tinged brew has a pungent, bitter bite. It's flavored with a variety of foul-smelling herbs and is intensely carbonated through a unique fermentation process. Sometimes given to visitors as a prank, wyrm's breath bitter causes the drinker to become sickened for 1d6 minutes (Fortitude DC 12 negates; dwarves gain a +5 racial bonus on this saving throw). After drinking a dose of wyrm's breath bitter, the drinker can, as a move action, unleash a thunderous and noxious belch in either a 5-foot-radius spread or a 10-foot cone. Creatures in the area are deafened and sickened for 1 round (Fortitude DC 12 negates). The drinker must wait 1d4 rounds before belching again, but can belch as often as desired for up to 10 minutes after drinking a wyrm's breath bitter.
+
+**Recipe** (2 black powder + 10 brimstone + 20 spirit of wine)/digestion; **Craft DC** 21; **Time** 1 week; **Tools** brewer's kit; **Type** alcohol
+
+## Homunculus Alchemy
+
+### Improved Homunculi
+
+*Rules*
+
+A character with the Craft Construct feat can use the following rules to create homunculi with new abilities in addition to those normally possessed by homunculi.
+
+To create a homunculus with one or more improvements, the crafter must include large quantities of certain reagents (represented by the price listed for each of the improvements below) while performing the ritual to create a homunculus. For every 1,000 gp worth of additional abilities to be granted to the homunculus, the DC of the Craft check to create the homunculus increases by 1 (minimum +1).
+
+The crafter can also add new abilities to an existing homunculus by performing a brief surgical procedure. To do so, the crafter must purchase the necessary reagents and make a successful Heal check (DC equal to the DC of the Craft check necessary to create such a homunculus from scratch).
+
+**Acid Breath**: By distilling brimstone and aqua regia, a crafter can bestow upon the homunculus the ability to spit a 15-foot line of acid. This is a breath weapon that deals 1d6 points of acid damage per 2 Hit Dice of the homunculus. The damage from this attack can be halved with a successful Reflex save (DC 10 + 1/2 the homunculus's HD). *Price*: +1,500 gp.
+
+**Extra Eyes**: By adding silver shavings to the homunculus, a crafter can imbue it with additional eyes, granting it the all-around vision special quality and a +4 racial bonus on Perception checks. *Price*: +4,000 gp.
+
+**Spell-Like Ability**: By incorporating 10 potions of the same spell in the homunculus's creation, a crafter can imbue the homunculus with the power to use that spell once per day as a spell-like ability. *Price*: Total cost of the potions used.
+
+**Spit Poison**: By adding gold and realgar to the homunculus, a crafter can give it the ability to spit its poison as a ranged touch attack that deals no damage but exposes the victim to the poison's effect as though it were a contact poison. The ability has a range of 15 feet with no range increment. *Price*: +6,000 gp.
+
+**Toughened Hide**: By adding diamond dust and cold iron to the homunculus, a crafter can increase its natural armor bonus to AC by 1, 2, or 3. *Price*: +1,000 gp (+1), +4,000 gp (+2), or +9,000 gp (+3).
+
+**Voice**: By adding dew of lunary and platinum to the homunculus, a crafter can grant it the ability to speak in a voice that sounds eerily like a diminutive version of its master's. *Price*: +500 gp.
+
+### Chameleon Ointment
+
+**Price** 20 gp; **Weight** —
+
+When applied to a homunculus's skin (which takes 1 minute), this ointment causes the creature's flesh to shift color and pattern reflexively to match its surroundings. The homunculus gains a +4 circumstance bonus on Stealth checks for 24 hours. The ointment can also be applied to other creatures as long as they are Medium or smaller and wear no clothing or armor to obstruct their skin, but the bonus is reduced to +2.
+
+**Recipe** (1 gold + 12 silver + 12 urea)/ceration; **Craft DC** 20; **Time** 10 minutes; **Tools** crucible; **Type** alchemical remedy
+
+### Essence of Independence
+
+**Price** 80 gp; **Weight** —
+
+When ingested, this thin serum awakens your potential for independent action. If you are under the influence of a mind-affecting effect, you receive a new saving throw with a +4 alchemical bonus to break the effect (you can gain this benefit only once per day). If the serum is ingested by a bonded creature such as a familiar, animal companion, bonded mount, or homunculus, the creature ceases to be bound to its master's will for 10 minutes. It gains a +2 morale bonus on attack rolls, saving throws, skill checks, and ability checks, and becomes interested in finding its own way of doing things. Its attitude toward its master might change drastically during this time, depending on how the master has treated it in the past. As soon as the duration of this effect ends, the creature becomes bound to its master's will again.
+
+**Recipe** (8 dew of lunary + 10 gold + 22 spirit of wine)/sublimation; **Craft DC** 25; **Time** 1 day; **Tools** retort; **Type** alchemical remedy
+
+### Eye Drops of the Unseen Master
+
+**Price** 150 gp; **Weight** —
+
+This bright pink liquid can be added to the eyes of a willing homunculus as a standard action. If you are the homunculus's master, you gain the ability to see through the homunculus's eyes by closing yours and concentrating, and the homunculus can see through yours in the same fashion. The eye drops also extend the range of the homunculus's telepathic link to 1 mile. The effects of the eye drops fade after 1 day.
+
+**Recipe** (20 dew of lunary + 20 saltpeter + 80 spirit of wine)/distillation; **Craft DC** 25; **Time** 1 day; **Tools** retort; **Type** alchemical remedy
+
+### Homunculus Clay
+
+**Price** 2,250 gp; **Weight** 5 lbs.
+
+This thick clay mixture comes in a jar stamped with a silhouette of whatever creature can be created using its contents. By adding a drop of blood to a scoop of homunculus clay, you can create a temporary homunculus that hardens and becomes fully animate in just 1 round. The character whose blood is used is treated as the homunculus's master. After 1 hour, a clay homunculus withers and dies, rapidly decaying into a viscous slime. The listed price is for a jar containing 3 doses of homunculus clay.
+
+**Recipe** (450 darkwood + 350 dew of lunary + 400 myrrh)/fermentation; **Craft DC** 30; **Time** 1 day; **Tools** heat source; **Type** alchemical tool
+
+### Loyalty Transfusion
+
+**Price** 625 gp; **Weight** —
+
+This serum transfers a homunculus's loyalty from one master to another. In order for this to work, the homunculus's current master and its master-to-be must each place a drop of their blood into the serum. When an appropriate homunculus drinks this concoction, it thereafter treats the master-to-be as its master. The change in ownership also causes the homunculus's alignment to change to match that of its new owner.
+
+**Recipe** (200 quicksilver + 150 realgar + 200 spirit of wine)/distillation; **Craft DC** 30; **Time** 1 day; **Tools** retort; **Type** alchemical remedy
+
+### Semblance Transfusion
+
+**Price** 300 gp; **Weight** —
+
+When combined with a drop of a humanoid's blood, this solution allows the homunculus that drinks it to grow to size Small and assume the likeness of the subject whose blood was used. If the homunculus can speak, its voice changes to resemble that of the subject. The homunculus's space and reach become 5 feet and it loses its bite attack, but otherwise its statistics remain unchanged. This transformation lasts 24 hours. The homunculus gains a +10 circumstance bonus on Disguise checks to appear as the subject, but unless the subject is a halfling, a gnome, a child, or another Small humanoid, the homunculus is likely shorter than the subject.
+
+**Recipe** (110 magnesium + 200 silver + 100 spirit of wine)/distillation; **Craft DC** 25; **Time** 1 day; **Tools** retort; **Type** alchemical remedy
+
+### Silence Dust
+
+**Price** 60 gp; **Weight** 1 lb.
+
+This ashen powder can be thrown as a splash weapon, muffling all sound within a 15-foot-radius sphere centered on the point of impact. Perception checks to notice anything emanating from or passing through the cloud take a –10 penalty. Alternatively, applying a dose of silence dust to your feet as a standard action grants you a +5 circumstance bonus on Stealth checks to avoid being heard while walking. The dust is effective for 1 minute before it disperses.
+
+**Recipe** (12 dew of lunary + 40 myrrh)/calcination; **Craft DC** 20; **Time** 1 hour; **Tools** crucible; **Type** alchemical tool
+
+## Drug Crafting
+
+### Hookah
+
+**Price** 400 gp; **Weight** 10 lbs.
+
+The bowl of this glass water pipe can be loaded with any inhalable drug, alchemical powder, or alchemical liquid. You must set down a hookah in a free space (a move action) and fill the water jar with half a gallon of water (another move action) before the hookah can be used. You can consume the contents of an adjacent hookah by sucking on one of the pipe's four hoses as a move action. Up to 5 doses of a single substance can be loaded in the hookah at a time, and up to four adjacent creatures can use the hookah during the same round. Reloading a hookah is a standard action, regardless of the number of doses so reloaded.
+
+Substances not intended for bodily consumption can cause harmful or even fatal effects (GM's discretion) if loaded into a hookah and inhaled, and often destroy the hookah in the process.
+
+### Premium Hookah
+
+**Price** 1,000 gp; **Weight** 15 lbs.
+
+A premium hookah is similar to a standard hookah, except it sports enough hoses for up to eight adjacent creatures to use, and the bowl has three separate compartments, each of which can store a different type of inhalable drug, alchemical powder, or alchemical liquid. Each compartment can hold up to 3 doses of an inhalable substance (so a premium hookah can hold up to 9 doses total). Consuming these contents is still a move action. You can reload a single compartment as a move action, or you can reload all three compartments as a full-round action.
+
+### Purity Test
+
+**Price** 10 gp; **Weight** 2 lbs.
+
+This set of special disposable reagents can be used in conjunction with an alchemist's lab to detect whether a drug has been cut with inferior-grade material or filler, granting a +5 competence bonus on Craft (alchemy) checks to detect such chicanery.
+
+### Traveler's Hookah
+
+**Price** 1,500 gp; **Weight** 4 lbs.
+
+This portable hookah can be worn as a backpack, obviating the need to set the hookah down before filling it with water. Up to four creatures (including the wearer and any adjacent creatures) can use a traveler's hookah during the same round. While wearing a traveler's hookah, you can stopper the hookah's bowl valve as an immediate action to prevent unwanted individuals from using it until the valve is reopened as a free action. If you are knocked unconscious or otherwise fall prone while wearing a traveler's hookah, you must succeed at a DC 13 Reflex save or the hookah is smashed during the fall. A traveler's hookah can hold up to 5 doses of a single substance, and has four hoses.
+
+### Amp
+
+**Price** 30 gp; **Weight** —
+
+This liquid intensifier can be added to a drug as a move action no more than 1 round before the drug is taken. Amp increases all numeric effects of a drug by 50%, including any bonuses, penalties, and ability damage inflicted by the drug. Using amp with a drug increases the save DC to avoid becoming addicted to that drug by 2 for 1d4 days; this increase stacks. If a drug combined with amp is not consumed within 1 round, the amp spoils and the drug becomes tainted, as if cut with bunk.
+
+**Recipe** (6 quicksilver + 10 realgar)/distillation; **Craft DC** 20; **Time** 10 minutes; **Tools** retort; **Type** alchemical tool
+
+### Bunk
+
+**Price** 5 cp; **Weight** 1 lb.
+
+Bunk is a slang term for fillers used to dilute drugs that are proffered as pure-grade narcotics. A drug mixed with bunk is less potent; its effects last 1d6 x 10 minutes for each hour they would normally last. The presence of bunk can be detected with a successful Craft (alchemy) check (DC equal to the drug manufacturer's Craft [alchemy] check – 10).
+
+The duration and intensity of the drug's harmful aftereffects and ability damage are not reduced, as the additives in bunk are often toxic or dangerous in their own right. When a creature takes a dose of a drug containing bunk, the creature must attempt a Fortitude save (DC 10 + 1d10). Failure causes the creature to become sickened for 1d4 hours and take 1d2 points of ability damage to a random ability score.
+
+**Recipe** (1 salt + 1 urea)/filtration; **Craft DC** 15; **Time** 10 minutes; **Tools** filter; **Type** alchemical tool
+
+### Angel's Trumpet
+
+**Price** 75 gp; **Type** drug, ingested; **Addiction** minor, Fortitude DC 18
+
+A drug favored in the back-alley dens of large trading cities.
+
+**Effects** 1 hour; +2 alchemical bonus on initiative checks, +4 alchemical bonus on Diplomacy and Bluff checks, +4 alchemical bonus on saves against fear and compulsions, user is fatigued. If the user fails a save against a fear or compulsion effect with a duration other than instantaneous or permanent, the user ignores the effect but is dazed for a number of rounds equal to the effect's spell level (or 1d4 rounds if the effect has no spell level). Effects that have an instantaneous or permanent duration are not altered by the presence of angel's trumpet in a creature's system.  
+**Effects** 1d4 days; user gains the light blindness special quality, becoming blinded and sickened for 1 round if exposed to bright light, such as sunlight or the *daylight* spell, and dazzled for as long as she remains in areas of bright light.  
+**Damage** 1d4 Con and 1d4 Wis
+
+**Recipe** (20 realgar + 20 salt + 30 urea)/digestion; **Craft DC** 18; **Time** 1 day; **Tools** heat source; **Type** drug
+
+### Dream Cactus, Black
+
+**Price** 100 gp; **Type** drug, ingested or inhaled; **Addiction** minor, Fortitude DC 22
+
+A refined, potent form of a narcotic cactus resin.
+
+**Effects** 1 hour; +1d4 alchemical bonus to Strength and Constitution, –2 penalty on saves against illusions and mind-affecting effects. Anytime the user could attempt a Strength check as a standard action or quicker, she can elect to attempt the check as a full-round action, adding a +2 alchemical bonus to the check. Doing so deals 1d6 points of nonlethal damage to the user as she strains herself. If the user takes lethal damage from any source while under the effects of black dream cactus, she must succeed at a DC 16 Will save or become confused for 1d4 rounds.  
+**Damage** 1d4 Con
+
+**Recipe** (30 brimstone + 6 dream cactus resin + 20 urea)/sublimation; **Craft DC** 22; **Time** 1 day; **Tools** retort; **Type** drug
+
+### Dream Cactus, Golden
+
+**Price** 50 gp; **Type** drug, ingested or inhaled; **Addiction** major, Fortitude DC 18
+
+A refined, golden form of a narcotic cactus resin.
+
+**Effects** 1 hour; +1d2 alchemical bonus to Strength, –2 penalty on saves against illusions and mind-affecting effects, +2 alchemical bonus on saving throws against the effects of drugs that are not a type of dream cactus (this bonus also applies to saves to recover from addiction to non-dream-cactus drugs). If the user takes a dose of golden dream cactus while under the effects of another drug that causes a penalty on saves or skill checks, such penalties are decreased by 1 (to a minimum penalty of –1).  
+**Damage** 1 Con and 1 Wis
+
+**Recipe** (2 gold + 3 dream cactus resin + 10 urea)/sublimation; **Craft DC** 18; **Time** 1 day; **Tools** retort; **Type** drug
+
+## Alchemical Arrows
+
+### Alchemical Ammunition
+
+*Rules*
+
+What follows is a sampling of alchemical arrows. Unless otherwise stated, these alchemical arrows are only effective for one shot, regardless of whether the shot hits its target. The listed costs are for one non-masterwork alchemical arrow; a masterwork version costs 6 gp more than the listed price. Unless otherwise noted, 20 arrows weigh 3 pounds.
+
+**Other Types of Ammunition**: While archers prefer alchemical arrows to other missile weapons, characters can infuse other ammunition and thrown weapons that deal piercing damage (such as crossbow bolts, darts, and shuriken) with alchemical effects. Aside from differing base statistics, these alternative types of alchemical ammunition have effects identical to the alchemical arrows listed here. However, firearm ammunition can't be imbued with alchemical ingredients, nor can ammunition types that don't deal piercing damage.
+
+### Bleeding Arrow
+
+**Price** 160 gp; **Weight** —
+
+This sharpened hollow tube looks like the narrow proboscis of some giant insect, but it actually comes from a carnivorous plant. A bleeding arrow deals normal damage when it hits a creature and deals 1 point of bleed damage. A critical hit does not multiply the bleed damage.
+
+**Recipe** (30 darkwood + 90 myrrh + 25 realgar)/exposure; **Craft DC** 25; **Time** 1 hour; **Tools** —; **Type** alchemical weapon
+
+### Durable Arrow
+
+**Price** 1 gp; **Weight** —
+
+These arrows are tightly wrapped in strands of alchemical glue. Durable arrows don't break with normal use, whether or not they hit their target; unless a durable arrow goes missing, an archer can retrieve and reuse it again and again. Durable arrows can be broken in other ways (such as deliberate snapping, hitting a fire elemental, and so on). A magical durable arrow with an enhancement bonus or magic weapon special ability applies these magical effects only the first time it is used—afterward, the durable arrow becomes nonmagical, and it can be reused or imbued with magic again.
+
+**Recipe** (1 cold iron + 1 myrrh)/exposure; **Craft DC** 25; **Time** 1 hour; **Tools** —; **Type** alchemical weapon
+
+### Dye Arrow
+
+**Price** 1 gp; **Weight** —
+
+This arrow ends in a crystalline bubble filled with a viscous alchemical dyeing agent. Firing a dye arrow is a ranged touch attack; a creature struck by a dye arrow takes no damage but is splashed with enough black, blue, green, or red marker dye to coat about 1 square foot. The stain caused by marker dye cannot be washed off except with magic for the first 72 hours, but fades completely after 2 weeks.
+
+**Recipe** (1 cold iron + 1 phosphorus)/earth; **Craft DC** 25; **Time** 10 minutes; **Tools** —; **Type** alchemical weapon
+
+### Lodestone Arrow
+
+**Price** 10 gp; **Weight** —
+
+This heavy iron arrowhead is sealed with an alchemical resin. Pulling a small string (a move action) breaks the seal and triggers a reaction in the arrowhead, greatly increasing its magnetic properties. You gain a +4 circumstance bonus on attack rolls when firing a lodestone arrow at a target wearing metal armor or a target made of metal, but the magnetized arrow deals only half damage on a successful hit. The increased magnetism fades 1 round after you activate a lodestone arrow, after which it becomes a normal arrow.
+
+**Recipe** (8 myrrh + 6 salt + 4 silver)/exposure; **Craft DC** 25; **Time** 1 hour; **Tools** —; **Type** alchemical weapon
+
+### Pheromone Arrow
+
+**Price** 15 gp; **Weight** —
+
+The arrowhead of this arrow is coated with potent substances that react to blood and sweat, releasing a strong aroma that most predators recognize as the scent of tasty injured prey and other creatures perceive as merely unpleasant. Any creature with the scent ability gains a +2 circumstance bonus on attack and damage rolls against a target marked with a pheromone arrow. This effect lasts for 1 hour or until the target spends 1 minute washing it off.
+
+**Recipe** (10 myrrh + 10 salt + 14 urea)/congelation; **Craft DC** 25; **Time** 10 minutes; **Tools** alchemist's lab; **Type** alchemical weapon
+
+### Raining Arrow
+
+**Price** 30 gp; **Weight** —
+
+This thick-shafted arrow contains a reservoir of holy water and is designed to burst upon impact. A raining arrow damages the target as normal, and also treats the target as though it had been struck by a direct hit from a thrown vial of holy water; adjacent creatures take splash damage from this effect. A raining arrow imparts a –2 penalty on attack rolls because of its weight.
+
+**Recipe** (3 cold iron + 3 darkwood + 1 flask holy water)/calcination; **Craft DC** 25; **Time** 10 minutes; **Tools** crucible; **Type** alchemical weapon
+
+### Slow Burn Arrow
+
+**Price** 100 gp; **Weight** —
+
+Behind the head of this arrow is a small receptacle of alchemical material that heats up when exposed to air and eventually combusts; barbs on the arrowhead pierce the pouch when it hits a target. If you hit a target with a slow burn arrow, it deals damage as normal, and at the beginning of your next turn, the arrow bursts into flames and deals 1d6 points of fire damage to the target.
+
+**Recipe** (70 magnesium + 80 myrrh + 25 phosphorus)/congelation; **Craft DC** 25; **Time** 10 minutes; **Tools** alchemist's lab; **Type** alchemical weapon
+
+### Splintercloud Arrow
+
+**Price** 25 gp; **Weight** —
+
+The shaft of this arrow is formed from numerous small bone fragments that have been painstakingly glued together. On a successful hit, a splintercloud arrow deals normal damage as it tears itself apart, creating a burst of razor-sharp bone shards centered on the target. These shards deal 1d3 points of piercing damage to the target and any creatures adjacent to the target (Reflex DC 18 negates).
+
+**Recipe** (28 myrrh + 30 salt)/earth; **Craft DC** 25; **Time** 10 minutes; **Tools** —; **Type** alchemical weapon
+
+### Tangleshot Arrow
+
+**Price** 20 gp; **Weight** —
+
+This arrow is tipped with a tiny vial of tanglefoot goo. Firing a tangleshot arrow is a ranged touch attack; the arrow deals no damage when it hits, but the target is splashed with the alchemical adhesive. This effect is similar to that of a tanglefoot bag, but with the following adjustments: Reflex DC 10, Strength DC 12, 10 points of slashing damage to cut through, concentration DC 10 to cast spells. A tangleshot arrow imposes a –1 penalty on attack rolls because of its weight.
+
+**Recipe** (18 myrrh + 26 urea)/congelation; **Craft DC** 25; **Time** 10 minutes; **Tools** alchemist's lab; **Type** alchemical weapon
+
+### Trip Arrow
+
+**Price** 40 gp; **Weight** —
+
+This squat arrow has a large, bulbous metal tip that expands and flattens in flight. If you hit a creature with a trip arrow, the arrow deals no damage but performs a trip combat maneuver against the target with a Combat Maneuver Bonus of +5. For the purpose of determining Combat Maneuver Bonuses or penalties based on size, the arrow is treated as if it were the size of the creature it was designed for.
+
+**Recipe** (20 cold iron + 15 magnesium + 20 myrrh)/earth; **Craft DC** 25; **Time** 10 minutes; **Tools** —; **Type** alchemical weapon
+
+## Ooze Alchemy
+
+### Oozing Vat
+
+**Price** varies; **Weight** varies
+
+These earthenware vats are made from a special clay sludge dredged from the center of a toxic lake and infused with ooze distillates. After being fired in a massive kiln, an oozing vat is typically embedded with glass-fiber tubing designed to carry electrical charges to growing oozes. To craft an ooze creature using the Craft Ooze feat, a creator must have access to an oozing vat large enough to contain the created ooze.
+
+| Vat | Price | Weight |
+|---|---|---|
+| Oozing vat, Small | 1 gp | 2 lbs. |
+| Oozing vat, Medium | 10 gp | 20 lbs. |
+| Oozing vat, Large | 50 gp | 200 lbs. |
+| Oozing vat, Huge | 200 gp | 2,000 lbs. |
+| Oozing vat, Gargantuan | 500 gp | 10,000 lbs. |
+
+### Acid Neutralizer
+
+**Price** 15 gp; **Weight** —
+
+This alkaline salt counteracts the properties of oozes' acid. You can apply acid neutralizer to a piece of equipment such as a weapon or shield as a move action. For 1 minute afterward, any acid damage that would be dealt to the protected equipment is reduced by 5 points. This does not reduce acid damage dealt to you or unprotected equipment.
+
+You can apply a dose of acid neutralizer to an adjacent ooze creature by emptying the container on it. Treat this as a ranged touch attack that does not provoke attacks of opportunity. When used in this way, acid neutralizer prevents the ooze creature from dealing acid damage (assuming it is normally able to do so) for 1 round.
+
+**Recipe** (20 brimstone + 10 salt + 5 urea)/calcination; **Craft DC** 15; **Time** 10 minutes; **Tools** crucible; **Type** alchemical weapon
+
+### Bloating Solution
+
+**Price** 25 gp; **Weight** —
+
+This thin vial of viscous purple fluid can be thrown at an ooze creature as a splash weapon with a range increment of 10 feet. On a direct hit, the solution causes an ooze creature to become bloated and turgid, suppressing its compression ability and reducing the save DC of any constrict, engulf, and entrap attacks made by the ooze by 2. Bloating solution also reduces an ooze creature's reach by 5 feet for the purpose of determining when the ooze can make attacks of opportunity (to a minimum reach of 0 feet). The effects of bloating solution last 1 minute. An affected intelligent ooze creature can attempt a DC 15 Fortitude save as a full-round action to end the effect early.
+
+**Recipe** (15 phosphorus + 30 salt + 20 urea)/distillation; **Craft DC** 20; **Time** 10 minutes; **Tools** retort; **Type** alchemical weapon
+
+### Congealer Spray
+
+**Price** 15 gp; **Weight** —
+
+This volatile liquid is usually dispensed from a spray atomizer, which disperses the liquid in a 15-foot cone. Congealer spray causes the surface of an ooze creature to stiffen into a leathery material. Ooze and plant creatures in the affected area become staggered for 1d4 rounds (Fortitude DC 15 negates). If an affected creature has the split defensive ability, it cannot benefit from that ability until the effects of the congealer spray wear off, regardless of whether the creature succeeded at its saving throw.
+
+**Recipe** (4 realgar + 5 salt + 5 urea)/distillation; **Craft DC** 20; **Time** 10 minutes; **Tools** retort; **Type** alchemical weapon
+
+### Desiccating Lubricant
+
+**Price** 30 gp; **Weight** —
+
+This oily solution draws water out of living creatures (especially amorphous creatures), simultaneously dehydrating them and drenching their surfaces with a slick, sickly cold sweat. Desiccating lubricant can be thrown as a splash weapon with a range increment of 10 feet. A living creature struck by a direct hit from desiccating lubricant takes 1d4 points of nonlethal damage; and a –2 penalty on combat maneuver checks to grapple, bull rush, or disarm; and a –2 penalty to CMD against grapple, bull rush, and disarm checks. These penalties last 1 minute. Against ooze creatures and creatures with the water subtype, desiccating lubricant deals 2d4 points of lethal damage and the penalties increase to –4.
+
+**Recipe** (25 cold iron + 10 salt + 10 urea)/congelation; **Craft DC** 20; **Time** 10 minutes; **Tools** alchemist's lab; **Type** alchemical weapon
+
+### Slime Grenade
+
+**Price** 100 gp; **Weight** 3 lbs.
+
+Alchemists have found several uses for the toxic residue left over from massive ooze cultivating experiments, including a variety of items known collectively as slime grenades. These ceramic ovoids are filled with caustic sludge and capped with a stone plug. You can throw a slime grenade as a splash weapon with a range increment of 5 feet. A successful ranged touch attack coats the target with green slime, dealing 2d6 points of acid damage to the creature. If the target is wearing wooden or metal armor or wielding a wooden or metal shield, the slime eats through the material on a hit, dealing 3d6 points of acid damage to the equipment and ignoring the items' hardness. Creatures in the splash radius of a slime grenade take no damage, but any wooden or metal armor or shields they are wearing take 1d6 points of acid damage (ignoring hardness). Affected creatures can attempt DC 15 Reflex saves to halve the damage dealt to their equipment.
+
+**Recipe** (50 phosphorus + 75 quicksilver + 50 urea)/congelation; **Craft DC** 25; **Time** 10 minutes; **Tools** alchemist's lab; **Type** alchemical weapon
+
+## Enlightened Herbalism
+
+### Herbalism as Alchemy
+
+*Rules*
+
+Practitioners of enlightened herbalism can use the Profession (herbalist) skill in place of Craft (alchemy) to create alchemical remedies, but only those that include at least one of the following plant-derived reagents in their alchemical recipes: mindcap spores, darkwood, dew of lunary, myrrh, spirit of wine, dream cactus resin, ginger extract, or mugwort extract. Plant-based reagents are necessary for this style of alchemy because they borrow the energy of other living things to power alchemical reactions.
+
+Herbalists can attempt either Profession (herbalist) or Survival checks to forage for ginger extract and mugwort extract in a suitable area of wilderness. Use the rules detailed under the Profession skill to determine how many gold pieces' worth of herbs you can find in a given week (divide the check result by 7 to determine the outcome of a day's worth of foraging).
+
+### Blood-Boiling Pill
+
+**Price** 75 gp; **Weight** —
+
+Swallowing this dark black-red tea pill causes your blood to heat up, granting you a +2 alchemical bonus on initiative checks and on saving throws against cold effects for 8 hours. However, any damage you take from bleed effects during this time is multiplied by 1-1/2 (rounded up). Swallowing a blood-chilling pill while under the effects of a blood-boiling pill negates the effects of both pills.
+
+**Recipe** (30 ginger extract + 8 gold + 15 mugwort extract)/ceration; **Craft DC** 25; **Time** 10 minutes; **Tools** crucible; **Type** alchemical remedy
+
+### Blood-Chilling Pill
+
+**Price** 75 gp; **Weight** —
+
+Swallowing this pale green tea pill causes your blood to slow and chill, allowing you to ignore the first 20 points of bleed damage you take during the following 8 hours. In addition, you gain a +2 alchemical bonus on saving throws against fire effects during this time. However, you take a –2 penalty on initiative checks. Swallowing a blood-boiling pill while under the effects of a blood-chilling pill negates the effects of both pills.
+
+**Recipe** (15 ginger extract + 40 myrrh + 30 mugwort extract)/filtration; **Craft DC** 25; **Time** 10 minutes; **Tools** filter; **Type** alchemical remedy
+
+### Insight Leaves
+
+**Price** 50 gp; **Weight** —
+
+You steep these herbs in hot water, then drink the resulting tisane while it's still warm before going to bed. While you sleep, you experience vivid hallucinations that offer insight into matters with which you previously had only limited familiarity. After 8 hours of uninterrupted rest, you can attempt a previously failed Knowledge check with a +2 alchemical bonus.
+
+**Recipe** (10 dew of lunary + 5 mugwort extract + 20 spirit of wine)/fermentation; **Craft DC** 25; **Time** 1 day; **Tools** heat source; **Type** alchemical remedy
+
+### Tea of Transference
+
+**Price** 40 gp; **Weight** —
+
+This foul-tasting green tea allows monks to focus their ki on improving abilities they've gained through other training. By drinking a cup of tea of transference, you can expend 1 point from your ki pool to regain 1 point from your arcane pool, 2 rounds of barbarian rage, 2 rounds of bardic performance, one use of channel energy, 1 grit point, one use of smite evil, one expended extract slot at least 1 level lower than the highest-level extract you can create, or one expended spell slot at least 2 levels lower than the highest-level spell you can cast. You must have the ki pool class feature and the class feature you want to regain uses of in order to benefit from tea of transference.
+
+**Recipe** (5 gold + 5 realgar + 15 spirit of wine)/sublimation; **Craft DC** 20; **Time** 1 day; **Tools** retort; **Type** alchemical remedy
+
+### Vapors of Easy Breath
+
+**Price** 75 gp; **Weight** 3 lbs.
+
+This waxy ball of resin and herbs is stored in a large glass jar or other airtight container. When the jar is opened, it instantly evaporates into a soothing vapor that renders the lungs of any adjacent creatures resistant to inhaled poisons, diseases, and irritants such as choking smoke. Each creature within 5 feet of the jar when it is opened gains a +5 alchemical bonus on saving throws against such effects for the next 10 minutes. If already affected by an airborne affliction, an affected creature can immediately attempt another saving throw against the effect (with the +5 bonus); a creature can attempt only one such additional saving throw in a 24-hour period.
+
+**Recipe** (60 myrrh + 50 salt + 60 ginger extract)/congelation; **Craft DC** 25; **Time** 10 minutes; **Tools** alchemist's lab; **Type** alchemical remedy
+
+### Vivifying Moxibustion Needles
+
+**Price** 85 gp; **Weight** —
+
+These needles of dried and augmented mugwort ignite at one end when removed from the alcohol in which they are stored. A set of vivifying moxibustion needles can be used to perform a healing procedure on a willing or helpless creature with a successful DC 15 Heal check and 1 hour of effort. Failing the check by 4 or less indicates that nothing happens, while failure by 5 or more deals 1d4 points of damage to the subject. If the procedure is performed successfully, the subject gains a +2 alchemical bonus on Fortitude saves against diseases, cold effects, and effects that deal Dexterity or Strength damage for the next 24 hours. If the patient is affected by an ongoing effect that can be resisted with a successful Fortitude save, he can attempt an immediate saving throw to end the effect (using the +2 alchemical bonus if applicable); this final benefit can be gained only once per day.
+
+**Recipe** (20 phosphorus + 60 ginger extract + 30 mugwort extract)/filtration; **Craft DC** 25; **Time** 10 minutes; **Tools** filter; **Type** alchemical remedy
+
+## Mythic Alchemical Items
+
+### About Mythic Alchemical Items
+
+*Rules*
+
+Although most of the following items can be crafted and used by non-mythic creatures, only mythic heroes can realize their true potential. **Mythic**: The effects listed in the mythic paragraph of an item can be activated only by a mythic wielder; see the individual item descriptions for more details.
+
+### Whitefire
+
+**Price** 100 gp; **Weight** 1 lb.
+
+This congealed incendiary functions like alchemist's fire, but its white-hot flames deal 2d6 points of fire damage on a direct hit and 1d6 points of splash damage to adjacent creatures.
+
+**Mythic**: You can expend one use of mythic power while throwing a flask of whitefire to cause the substance to burn hotter and longer than normal. A creature struck by a direct hit of whitefire must succeed at a DC 15 Reflex save or continue to take 1d4 points of fire damage each round at the beginning of its turn. A burning creature can attempt a new save as a full-round action. This effect lasts for a number of rounds equal to the user's mythic tier. This effect otherwise acts as the burn universal monster rule. Whitefire used in this way burns even underwater, offering no relief to creatures that try to extinguish the fire by dousing or immersing themselves in water.
+
+**Recipe** (20 magnesium + 25 saltpeter + 30 spirit of wine)/congelation; **Craft DC** 30; **Time** 1 hour; **Tools** alchemist's lab; **Type** alchemical weapon
+
+### Blanch Bomb
+
+**Price** adamantine 250 gp, cold iron 150 gp, silver 100 gp; **Weight** 1/2 lb.
+
+The nearly invisible gas contained in this fragile glass sphere temporarily but drastically deteriorates the defenses—both manufactured and natural—of those affected. A blanch bomb is effective only against a target that is vulnerable to the type of blanch bomb employed against it. A blanch bomb is thrown as a splash weapon with a range increment of 10 feet. Upon contact with a hard surface, the blanch bomb releases a hazy cloud of gas within a 10-foot-radius burst centered on the point of impact. This cloud lasts for 1d4+1 rounds and can be dispersed as *fog cloud*. If a creature whose damage reduction is overcome by the specified substance begins its turn in the affected area, the subject's DR/adamantine, DR/cold iron, or DR/silver (depending on the type of blanch bomb used) degrades at a rate of 1 point per round for as long as the creature remains in the area (to a minimum of DR 0). If the subject ends its turn outside the affected area, the creature's damage reduction returns to its original amount at a rate of 1 point per round.
+
+**Mythic**: You can expend one use of mythic power while throwing a blanch bomb to infuse the item with mythic power. When the blanch bomb activates, creatures in the area with the matching DR vulnerability must succeed at a DC 16 Reflex save or their DR is immediately reduced by an amount equal to 1/2 your mythic tier. The gas created by the blanch bomb lasts an additional number of rounds equal to your mythic tier, and it cannot be dispersed by wind. Non-mythic subjects who leave the affected area regain their DR at a rate of 1 point per minute.
+
+**Recipe** varies; **Craft** varies; **Time** 1 hour; **Tools** crucible; **Type** alchemical weapon. *Adamantine*: (50 cold iron + 75 magnesium + 50 saltpeter)/congelation, Craft DC 30. *Cold iron*: (100 cold iron + 50 phosphorus + 20 saltpeter)/congelation, Craft DC 25. *Silver*: (40 quicksilver + 15 saltpeter + 25 silver)/congelation, Craft DC 25.
+
+### Incense of Divinity
+
+**Price** 200 gp; **Weight** 1/2 lb.
+
+**Mythic**: If you are a mythic divine spellcaster and burn this incense while preparing spells, you can expend two uses of mythic power to prepare any one spell as a mythic spell (but not as an augmented mythic spell), even if you're normally unable to cast the mythic version of that spell. Incense of divinity burns for 1 hour; you can prepare as many mythic spells as you are able to during this time, but you must expend two uses of mythic power for each mythic spell so prepared.
+
+**Recipe** (50 dew of lunary + 150 phosphorus)/exposure; **Craft DC** 30; **Time** 1 hour; **Tools** filter; **Type** alchemical tool
+
+### Stormstone
+
+**Price** 150 gp; **Weight** 1 lb.
+
+A stormstone functions like a thunderstone, but deals 1d6 points of sonic damage in addition to deafening creatures; a successful DC 15 Fortitude save halves the damage and reduces the deafness to 1 round rather than negating it.
+
+**Mythic**: If you expend one use of mythic power while throwing a stormstone, the item deals an amount of electricity damage equal to your mythic tier to all affected creatures, regardless of whether they succeed at their save. Creatures that fail their saving throws against a mythic stormstone become staggered for 1 round in addition to the other effects. The stormstone ignores non-mythic resistances, non-mythic immunity to electricity or sonic damage, and non-mythic silencing effects.
+
+**Recipe** (15 black powder + 85 phosphorus)/digestion; **Craft DC** 30; **Time** 1 hour; **Tools** crucible; **Type** alchemical weapon
+
+### Suffocating Powder
+
+**Price** 45 gp; **Weight** 2 lbs.
+
+This small sack of green-gray powder is thrown as a splash weapon with a range increment of 10 feet. A creature struck by a direct hit must succeed at a DC 18 Fortitude save or begin choking and gasping for air as if suffocating (DC 12 for creatures in the splash radius). Affected creatures cannot breathe or speak for 1 round.
+
+**Mythic**: You can expend one use of mythic power while throwing a bag of suffocating powder to charge the item with mythic power. Non-mythic creatures do not receive saving throws to avoid the suffocation effect. Affected creatures suffocate an additional number of rounds equal to your mythic tier.
+
+**Recipe** (50 brimstone + 50 phosphorus + 5 realgar)/sublimation; **Craft DC** 20; **Time** 1 hour; **Tools** retort; **Type** alchemical weapon
+
+### Surge Syrup
+
+**Price** 80 gp; **Weight** 1 lb.
+
+**Mythic**: Consuming a vial of surge syrup grants you a +1d4 alchemical bonus on your next mythic surge roll. Every round after you consume surge syrup that you don't use your surge ability, the bonus provided by this item decreases by 1 (minimum 0).
+
+**Recipe** (12 dew of lunary + 40 spirit of wine + 40 urea)/congelation; **Craft DC** 25; **Time** 10 minutes; **Tools** alchemist's lab; **Type** alchemical remedy
+
+## Fireworks
+
+### Using Fireworks
+
+*Rules*
+
+Unless otherwise noted in an item's description, the following rules apply to all fireworks. Fireworks are alchemical weapons.
+
+Before a firework can detonate, it must be ignited, which is typically done by lighting its fuse. You can light a firework's fuse by using flint and steel (a full-round action); using a tindertwig (a move action followed by a standard action); casting *spark* (a standard action); or using a torch, candle, *flaming* weapon, or other open fire (a standard action). If a firework must be thrown or set down to function, treat this as a separate action.
+
+**Misfires**: When a firework misfires, its charges detonate in an undesirable and often destructive manner. A misfiring firework explodes in a 5-foot-radius burst. Creatures and objects in the area are blinded for 1d4 rounds and take 1d6 points of fire damage for every 100 gp of the firework's price (minimum 1d6). A successful Reflex save halves the damage and a successful Fortitude save reduces the blindness condition to 1 round; the DC of these saves is equal to the Craft DC of the firework – 10 (minimum 1). Certain fireworks may cause less or more destructive effects, at the GM's discretion.
+
+**Standing Fireworks**: Some fireworks must be set down on a stable surface to function properly. You can set a firework down safely as a move action that provokes attacks of opportunity, or drop it as a free action and hope it lands upright (50% chance that the firework tips over and falls on its side). A creature can tip over an adjacent standing firework as a move action or as part of a charge, provoking attacks of opportunity either way. When a standing firework tips over, there is a 50% chance that it immediately misfires. An undetonated, tipped standing firework can be reset as a move action that provokes attacks of opportunity; a tipped, lit standing firework misfires if it detonates.
+
+**Advanced Firework Techniques**: Characters who possess ranks in the Craft (alchemy) skill can use the following advanced techniques to improve their fireworks.
+
+*Fuse Lengths*: Fireworks often have a slow-burning fuse, which allows the user to get away to a safe distance. A character with 3 or more ranks in Craft (alchemy) can increase the fuse length of a firework (a full-round action) to cause a 1- to 2-round delay between ignition and detonation. A character with 6 or more ranks in Craft (alchemy) can adjust the fuse length to create up to a 1-minute delay.
+
+*Lighting Multiple Fuses*: A character with 5 or more ranks in Craft (alchemy) can light a number of fireworks within reach equal to 1 + her Dexterity modifier as a full-round action.
+
+*Shortening Fuses*: A character with 2 or more ranks in Craft (alchemy) can cut a fuse so that the firework detonates at the end of her turn; however, if the wielder rolls a natural 1 on her attack roll when throwing a firework with a shortened fuse, the firework misfires in her hand.
+
+### Dancing Peonies
+
+**Price** 50 gp; **Weight** 1/2 lb.
+
+This dinner-plate-sized packet contains three jumping jennies, each of which moves independently of the others for 1d6 rounds after the packet detonates.
+
+**Recipe** (3 black powder + 20 magnesium + 3 saltpeter)/calcination; **Craft DC** 18; **Time** 1 hour; **Tools** crucible; **Type** alchemical weapon
+
+### Firecracker
+
+**Price** 10 gp; **Weight** —
+
+These small paper or cloth cylinders or spheres are filled with a tiny charge of black powder. One round after lighting a firecracker in an adjacent square, the firework detonates with a loud bang, dealing 1d2+1 points of nonlethal damage to any creatures in the square and deafening them for 1d4 rounds (Fortitude DC 11 halves damage and duration of deafness). The bang also causes unintelligent animals within 20 feet of it to become frightened for 1d3 rounds; an animal can overcome this effect with a successful DC 11 Will save or if an adjacent ally calms the animal with a successful DC 11 Handle Animal check (an immediate action).
+
+**Recipe** (1 black powder + 1 saltpeter)/calcination; **Craft DC** 20; **Time** 10 minutes; **Tools** crucible; **Type** alchemical weapon
+
+### Firecracker, Spirit
+
+**Price** 30 gp; **Weight** —
+
+These firecrackers are covered in magical runes and are mixed with ghost salt. One round after you light a spirit firecracker in an adjacent square, the firework detonates and deals 1d4+1 points of damage to incorporeal creatures in the same space. In addition, an affected incorporeal creature with light sensitivity, light blindness, or sunlight powerlessness becomes blinded for 1 round. A spirit firecracker has no effect on corporeal creatures.
+
+**Recipe** (1 black powder + 6 brimstone + 4 saltpeter + 10 silver)/calcination; **Craft DC** 25; **Time** 1 hour; **Tools** crucible; **Type** alchemical weapon
+
+### Jumping Jenny
+
+**Price** 15 gp; **Weight** —
+
+This small, round paper packet is filled with a sparkling propellant and pierced with several irregular holes, which causes it to dance and spin as the firework burns. One round after you light a jumping jenny, it fills its square with sparks, dealing 1 point of fire damage to creatures in that square and dazzling them for 1d2 rounds (Reflex DC 12 negates). Each round for 1d4 rounds after detonation, the jumping jenny moves into a random adjacent square.
+
+**Recipe** (1 black powder + 5 magnesium + 1 saltpeter)/calcination; **Craft DC** 16; **Time** 10 minutes; **Tools** crucible; **Type** alchemical weapon
+
+### Skydragon Firework
+
+**Price** 300 gp; **Weight** 10 lbs.
+
+The skydragon firework is the apex of the firework artisan's craft. Unlit, a skydragon firework looks like an unassuming tube of thin wood and colored parchment. One round after you light a skydragon firework, the tube takes flight at a speed of 60 feet for 1d4 rounds, traveling in the direction it is pointed for the first round and changing direction randomly each round thereafter. The firework deals 2d6 points of fire damage to any creature within 10 feet of its flight path. If a skydragon's flight path causes it to hit a solid object, the firework continues in a random direction but subtracts 30 feet from its movement for that round.
+
+**Recipe** (30 black powder + 30 magnesium + 40 phosphorus)/calcination; **Craft DC** 30; **Time** 1 day; **Tools** crucible; **Type** alchemical weapon
+
+### Sparking Pinwheel
+
+**Price** 60 gp; **Weight** 1 lb.
+
+This disk of paper or light cloth is stretched over a frame of thin wooden supports, with tubes of paper or cured hide spaced evenly around the rim. The whole firework is mounted on a spike or peg and placed on the ground. At the end of the round when it's lit, it spins rapidly and sheds a curtain of dazzling sparks 15 feet wide. The curtain of sparks obscures vision, granting concealment against creatures on the opposite side. A sparking pinwheel burns for 1d4+1 rounds, and any creature that begins its turn adjacent to the curtain of sparks takes 1 point of fire damage and is dazzled for 1d4 rounds (Reflex DC 14 negates). Creatures that pass through the curtain of sparks take 1d4 points of fire damage and are blinded for 1 round (a successful save halves the damage and negates the blindness). If not mounted on a solid, immobile object, a sparking pinwheel cannot spin smoothly and instead fills a single 5-foot square with a shower of sparks; its effects are otherwise unchanged for creatures adjacent to or passing through that square.
+
+**Recipe** (5 black powder + 15 magnesium + 30 phosphorus)/calcination; **Craft DC** 25; **Time** 1 hour; **Tools** crucible; **Type** alchemical weapon

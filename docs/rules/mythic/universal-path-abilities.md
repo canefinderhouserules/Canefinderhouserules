@@ -36,6 +36,10 @@ You can select these path abilities at any tier.
 
 **Pierce the Darkness (Sp)**: You gain permanent darkvision with a 60-foot range, as the universal monster ability. If you possess darkvision, the range increases by 60 feet.
 
+**Returning Flasks (Su)**: Whenever you throw a splash weapon but fail to land a direct hit against your target, as a free action you can will your splash weapon to return to you at the beginning of your next turn, as if it were enchanted with the *returning* weapon special ability. The splash weapon has no effect and deals no damage when you use this ability. Alternatively, by expending one use of mythic power as a swift action when you make a failed ranged attack with a splash weapon, you can choose which square the splash weapon lands in.
+
+**Splash Back (Ex)**: Whenever you throw a splash weapon, any creatures providing your target with soft cover take splash damage from your attack. Whenever you confirm a critical hit with a splash weapon, you can expend one use of mythic power to forgo the multiplied damage against your target and instead deal a direct hit to both the target and a creature adjacent to the target. Creatures adjacent to either of these two creatures take splash damage.
+
 ## 3rd-Tier Universal Path Abilities
 
 You must be at least 3rd tier to select these path abilities.

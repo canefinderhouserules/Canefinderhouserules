@@ -23,6 +23,7 @@ See [Afflictions](afflictions.md) for how to read a stat block.
 | Name | Type | Fort DC | Onset | Frequency | Effect | Cure | Cost |
 |---|---|---|---|---|---|---|---|
 | Addlemind | ingested | 15 | 1 min. | 1/min. for 10 min. | 1d2 Wis and –5 on Knowledge and Perception | 2 saves | 75 gp |
+| Alchemical Isolation | inhaled | 13 | — | 1/minute for 2 minutes | deafened, then blinded | 1 save | 175 gp |
 | Arsenic | ingested | 13 | 10 min. | 1/min. for 4 min. | 1d2 Con | 1 save | 120 gp |
 | Belladonna | ingested | 14 | 10 min. | 1/min. for 6 min. | 1d2 Str, see text | 1 save | 100 gp |
 | Black adder venom | injury | 11 | — | 1/rd. for 6 rds. | 1d2 Con | 1 save | 120 gp |
@@ -31,17 +32,21 @@ See [Afflictions](afflictions.md) for how to read a stat block.
 | Bloodroot | injury | 12 | 1 rd. | 1/rd. for 4 rds. | 1 Con and 1 Wis | 1 save | 100 gp |
 | Blue whinnis | injury | 14 | — | 1/rd. for 2 rds. | 1 Con/unconscious 1d3 hours | 1 save | 120 gp |
 | Burnt othur fumes | inhaled | 18 | — | 1/rd. for 6 rds. | 1 Con drain/1d3 Con | 2 saves | 2,100 gp |
+| Confabulation Powder | inhaled | 18 | — | 1/minute for 2 minutes | staggered; then suggestible | 1 save | 80 gp |
 | Dark reaver powder | ingested | 18 | 10 min. | 1/min. for 6 min. | 1d3 Con and 1 Str | 2 saves | 800 gp |
 | Deathblade | injury | 20 | — | 1/rd. for 6 rds. | 1d3 Con | 2 saves | 1,800 gp |
 | Diplopic Serum | injury | 15 | — | 1/round for 6 rounds | 1d2 Wis* | 1 save | 250 gp |
 | Dragon bile | contact | 26 | — | 1/rd. for 6 rds. | 1d3 Str | — | 1,500 gp |
 | Dreaming Death | inhaled | 16 | 10 min. | 1/10 min. for 1 hr. | Sleep 10 min., see text | 1 save | 2,500 gp |
 | Drow poison | injury | 13 | — | 1/min. for 2 min. | unconscious 1 min./2d4 hours | 1 save | 75 gp |
+| Flaming Doom | injury | 18 | — | 1/round for 6 rounds | 1d6 fire and possible catch fire | 2 saves | 900 gp |
+| Fury Gas | inhaled | 16 | — | 1/minute for 4 minutes | Non-orcs blinded; orcs rage | 2 saves | 300 gp |
 | Gelidburn Oil | injury | 12 | — | 1/round for 4 rounds | 1d3 fire, 1d3 cold, and staggered 1 round | 1 save | 75 gp |
 | Giant wasp poison | injury | 18 | — | 1/rd. for 6 rds. | 1d2 Dex | 1 save | 210 gp |
 | Gray Justice | injury | 18 | — | 1/min. for 10 min. | 1d2 Wis, see text | 2 saves | 400 gp |
 | Greenblood oil | injury | 13 | — | 1/rd. for 4 rds. | 1 Con | 1 save | 100 gp |
 | Green prismatic poison | spell | varies | — | 1/rd. for 6 rds. | Death/1 Con | 2 saves | — |
+| Guildmaster's Punishment | contact | 16 | 1 minute | 1/minute for 6 minutes | 1 Dex drain, nauseated; then 1d2 Dex drain, sickened | 1 save | 350 gp |
 | Hemlock | ingested | 18 | 10 min. | 1/min. for 6 min. | 1d6 Dex, see text | 2 saves | 2,500 gp |
 | Hydrofluoric Acid | contact | 20 | 1 minute | 1/round for 6 rounds | 1 Str drain, 1d2 Con, and 2d6 acid* | 2 consecutive saves | 2,500 gp |
 | Id moss | ingested | 14 | 10 min. | 1/min. for 6 min. | 1d3 Int | 1 save | 125 gp |
@@ -52,8 +57,10 @@ See [Afflictions](afflictions.md) for how to read a stat block.
 | Large scorpion venom | injury | 17 | — | 1/rd. for 6 rds. | 1d2 Str | 1 save | 200 gp |
 | Laughing gas | inhaled | 12 | — | 1/rd. for 5 rds. | dazed 1 round | 1 save | 500 gp |
 | Lich dust | ingested | 17 | 10 min. | 1/min. for 6 min. | 1d3 Str | 2 saves | 400 gp |
+| Liquid Persuasion | ingested | 11 | 10 minutes | 1/minute for 5 minutes | 1 Wis; attitude shifts extra step | 1 save | 120 gp |
 | Malyass root paste | contact | 16 | 1 min. | 1/min. for 6 min. | 1d2 Dex | 1 save | 250 gp |
 | Medium spider venom | injury | 14 | — | 1/rd. for 4 rds. | 1d2 Str | 1 save | 150 gp |
+| Mindcap Extract | ingested | 18 | — | 1/hour for 8 hours | memory loss | 2 saves | 800 gp |
 | Nerveblast | injury | 19 | — | 1/round for 6 rounds | 1 Dex drain and shaken for 1 hour | 2 consecutive saves | 1,500 gp |
 | Nightmare vapor | inhaled | 20 | — | 1/rd. for 6 rds. | 1 Wis and confused 1 round | 2 saves | 1,800 gp |
 | Nitharit | contact | 13 | 1 min. | 1/min. for 6 min. | 1d3 Con | 1 save | 650 gp |
@@ -67,6 +74,7 @@ See [Afflictions](afflictions.md) for how to read a stat block.
 | Scholarblight | inhaled | 15 | — | 1/min. for 6 min. | 1d3 Int, see text | 1 save | 1,500 gp |
 | Shadow essence | injury | 17 | — | 1/rd. for 6 rds. | 1 Str drain/1d2 Str | 1 save | 250 gp |
 | Small centipede poison | injury | 11 | — | 1/rd. for 4 rds. | 1 Dex | 1 save | 90 gp |
+| Smell of Fear | inhaled | 17 | — | 1/minute for 6 minutes | 1d2 Wis; shaken becomes frightened | 2 saves | 600 gp |
 | Snap will | ingested | 18 | 5 min. | 1/min. for 10 min. | –4 on Will saves and Wis skill checks | 2 saves | 2,500 gp |
 | Striped toadstool | ingested | 11 | 10 min. | 1/min. for 4 min. | 1d3 Wis and 1 Int | 1 save | 180 gp |
 | Tears of death | contact | 22 | 1 min. | 1/min. for 6 min. | 1d6 Con and paralyzed 1 min. | — | 6,500 gp |
@@ -74,6 +82,7 @@ See [Afflictions](afflictions.md) for how to read a stat block.
 | Tongue Twist | injury | 16 | — | 1/round for 6 rounds | 1d2 Int* | 2 saves | 600 gp |
 | Ulcer Salt | ingested | 17 | 10 minutes | 1/minute for 6 minutes | 1d2 Con and 1d3 bleed | 2 saves | 300 gp |
 | Ungol dust | inhaled | 15 | — | 1/rd. for 4 rds. | 1 Cha drain/1d2 Cha | 1 save | 1,000 gp |
+| Vampire's Kiss | injury | 15 | — | 1/round for 2 rounds | 1d2 Con; bleed increased | 1 save | 75 gp |
 | Whisperwound | ingested | 20 | 1 min. | 1 round | 1d6 Con and pain when speaking loudly | 1 save | 5,000 gp |
 | Widow's Kiss | ingested | 24 | 1d4 days | 1/day | 1d3 Con, see text | 3 saves | 7,000 gp |
 | Wolfsbane | ingested | 16 | 10 min. | 1/min. for 6 min. | 1d3 Con | 1 save | 500 gp |
@@ -86,6 +95,14 @@ See [Afflictions](afflictions.md) for how to read a stat block.
 **Type** poison, ingested; **Save** Fortitude DC 15  
 **Onset** 1 minute; **Frequency** 1/minute for 10 minutes  
 **Effect** 1d2 Wisdom damage. As long as any Wisdom damage from this poison remains, the victim also takes a –5 penalty on all Knowledge and Perception checks; **Cure** 2 saves
+
+### Alchemical Isolation
+
+**Type** poison, inhaled; **Save** Fortitude DC 13  
+**Frequency** 1/minute for 2 minutes  
+**Initial Effect** deafened for 10 minutes; **Secondary Effect** blinded for 10 minutes; **Cure** 1 save
+
+**Recipe** (150 brimstone + 20 dew of lunary + 80 spirit of wine)/fermentation; **Craft DC** 13; **Time** 1 day; **Tools** heat source; **Type** poison
 
 ### Arsenic
 
@@ -138,6 +155,14 @@ This orange liquid burns regardless of temperature, which its drow creators clai
 **Initial Effect** 1 Con drain; **Secondary Effect** 1d3 Con damage;  
 **Cure** 2 consecutive saves
 
+### Confabulation Powder
+
+**Type** poison, inhaled; **Save** Fortitude DC 18  
+**Frequency** 1/minute for 2 minutes  
+**Initial Effect** staggered for 1 minute; **Secondary Effect** If already staggered, stunned, or unconscious, the victim becomes highly suggestible. If an event (whether true or false) is described to him, he unconsciously fabricates a detailed memory of the event, filling in any gaps in the description with his own best guesses. The confabulated memory can be disbelieved with a successful DC 18 Will save the first time it is recalled, but if the save fails, the victim treats it as completely genuine thereafter. All confabulated memories can be removed with a *restoration* or *heal* spell; **Cure** 1 save
+
+**Recipe** (20 quicksilver + 15 mindcap spores)/digestion; **Craft DC** 18; **Time** 1 day; **Tools** heat source; **Type** poison
+
 ### Dark Reaver Powder
 
 **Type** poison, ingested; **Save** Fortitude DC 18  
@@ -180,6 +205,22 @@ Creatures awaken from these visions scarred and prone to self-harm. Victims must
 **Frequency** 1/minute for 2 minutes  
 **Initial Effect** unconsciousness for 1 minute; **Secondary Effect** unconsciousness for 2d4 hours; **Cure** 1 save
 
+### Flaming Doom
+
+**Type** poison, injury; **Save** Fortitude DC 18  
+**Frequency** 1/round for 6 rounds  
+**Effect** 1d6 fire damage and victim possibly catches on fire; **Cure** 2 saves
+
+**Recipe** (200 magnesium + 200 phosphorus + 250 saltpeter)/distillation; **Craft DC** 18; **Time** 1 day; **Tools** retort; **Type** poison
+
+### Fury Gas
+
+**Type** poison, inhaled; **Save** Fortitude DC 16  
+**Frequency** 1/minute for 4 minutes  
+**Effect** Non-orcs are blinded for 1 minute. Orcs rage for 1 minute, gaining a +2 alchemical bonus to Strength and Dexterity, a +1 alchemical bonus on Will saves, and a –2 penalty to AC. This poison's effects are otherwise similar to a barbarian's rage, except that affected orcs are unable to discern friend from foe—attacking the nearest creature each round—and they are not fatigued afterward; **Cure** 2 saves
+
+**Recipe** (180 brimstone + 80 quicksilver + 60 saltpeter)/fermentation; **Craft DC** 16; **Time** 1 day; **Tools** heat source; **Type** poison
+
 ### Gelidburn Oil
 
 **Type** poison, injury; **Save** Fortitude DC 12  
@@ -213,6 +254,14 @@ Crafted by interrogators as an apparent truth serum, gray justice makes victims 
 **Type** poison, spell; **Save** Fort DC varies by spell  
 **Frequency** 1/round for 6 rounds  
 **Initial Effect** death; **Secondary Effect** 1 Con damage; **Cure** 2 consecutive saves. See prismatic sphere, prismatic spray, or prismatic wall for more details.
+
+### Guildmaster's Punishment
+
+**Type** poison, contact; **Save** Fortitude DC 16  
+**Onset** 1 minute; **Frequency** 1/minute for 6 minutes  
+**Initial Effect** 1 Dex drain and nauseated for 1 minute; **Secondary Effect** 1d2 Dex drain and sickened for 1 minute; **Cure** 1 save
+
+**Recipe** (70 dew of lunary + 35 realgar + 70 urea)/digestion; **Craft DC** 16; **Time** 1 day; **Tools** heat source; **Type** poison
 
 ### Hemlock
 
@@ -280,6 +329,14 @@ Swindlers claim this green capsule restores the victim's youth. After 1 day, any
 **Onset** 10 minutes; **Frequency** 1/minute for 6 minutes  
 **Effect** 1d3 Str damage; **Cure** 2 consecutive saves
 
+### Liquid Persuasion
+
+**Type** poison, ingested; **Save** Fortitude DC 11  
+**Onset** 10 minutes; **Frequency** 1/minute for 5 minutes  
+**Effect** 1 Wis damage, and for the duration of the poison, the next time the victim's attitude toward another creature would shift one or more steps toward helpful as a result of a successful Diplomacy or Intimidate check or other effect, the victim's attitude also shifts one additional step. For example, if the victim's attitude would shift from indifferent to friendly (one step better), it shifts to helpful instead (two steps better); **Cure** 1 save
+
+**Recipe** (20 dew of lunary + 20 quicksilver + 80 spirit of wine)/distillation; **Craft DC** 11; **Time** 1 day; **Tools** retort; **Type** poison
+
 ### Malyass Root Paste
 
 **Type** poison, contact; **Save** Fortitude DC 16  
@@ -291,6 +348,14 @@ Swindlers claim this green capsule restores the victim's youth. After 1 day, any
 **Type** poison, injury; **Save** Fortitude DC 14  
 **Frequency** 1/round for 4 rounds  
 **Effect** 1d2 Str damage; **Cure** 1 save
+
+### Mindcap Extract
+
+**Type** poison, ingested; **Save** Fortitude DC 18  
+**Frequency** 1/hour for 8 hours  
+**Effect** The victim loses all memory of events that took place in the previous hour and can't form new memories for 8 hours. These lost and prevented memories might return later in the form of dreams, and can be returned with a *restoration* or *heal* spell; **Cure** 2 saves
+
+**Recipe** (115 realgar + 115 mindcap spores)/calcination; **Craft DC** 18; **Time** 1 hour; **Tools** crucible; **Type** poison
 
 ### Nerveblast
 
@@ -381,6 +446,14 @@ Created by necromantic cults to simultaneously protect and bind newcomers and se
 **Frequency** 1/round for 4 rounds  
 **Effect** 1 Dex damage; **Cure** 1 save
 
+### Smell of Fear
+
+**Type** poison, inhaled; **Save** Fortitude DC 17  
+**Frequency** 1/minute for 6 minutes  
+**Effect** 1d2 Wis damage, and if the victim would become shaken during the next 1 minute, she becomes frightened instead; **Cure** 2 saves
+
+**Recipe** (170 quicksilver + 170 realgar)/fermentation; **Craft DC** 17; **Time** 1 day; **Tools** heat source; **Type** poison
+
 ### Snap Will
 
 **Type** poison, ingested; **Save** Fortitude DC 18  
@@ -427,6 +500,14 @@ Ulcer salt can easily be hidden in all foods and beverages, as it lacks color, o
 **Frequency** 1/round for 4 rounds  
 **Initial Effect** 1 Cha drain; **Secondary Effect** 1d2 Cha damage;  
 **Cure** 1 save
+
+### Vampire's Kiss
+
+**Type** poison, injury; **Save** Fortitude DC 15  
+**Frequency** 1/round for 2 rounds  
+**Initial Effect** 1d2 Con damage; **Secondary Effect** bleed damage from non-poison sources increases by 1 for 1 minute; **Cure** 1 save
+
+**Recipe** (6 gold + 50 myrrh + 30 quicksilver)/distillation; **Craft DC** 15; **Time** 1 day; **Tools** retort; **Type** poison
 
 ### Whisperwound
 

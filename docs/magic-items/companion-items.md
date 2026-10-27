@@ -2134,3 +2134,45 @@ This thin green headband is made entirely out of small metal scales that shimmer
 This magical cloth vest is made from rich green cloth that is typically a blend of silk and cotton. It has a high collar that is stitched with gold thread forming elaborate, overlapping geometric patterns. This vest reduces the potency of poisons that affect the wearer. When the wearer is exposed to a poison, as a swift action she can tap the vest, expending 1 charge, to gain a +2 bonus on her next Fortitude saving throw against the poison. Additionally, if the wearer is affected with a poison that requires two saves to cure, she can tap the vest a second time, expending another charge, to use her next successful saving throw result as the result for the second save as well. The vest contains 5 charges that recharge daily.
 
 **Construction Requirements:** Craft Wondrous Item, *delay poison*, *neutralize poison*; **Cost** 3,500 gp
+
+## Magic Flasks and Bottles
+
+### Focusing Flask
+
+**Slot** none; **CL** 7th; **Price** 700 gp; **Weight** 1 lb.
+
+**Aura** moderate transmutation
+
+This round, rainbow-hued glass flask allows up to three alchemical splash weapons of the same type to be poured into it, concentrating them such that they never increase its weight noticeably. If multiple types of alchemical items are poured in, all the contents are ruined. The flask can be thrown as a normal splash weapon, and when it breaks, it releases all of the contained splash weapons in the same space, and the *focusing flask* is destroyed. If the items held within the flask normally allow a saving throw to reduce or negate the effects, the target of a *focusing flask* needs to succeed at only a single saving throw, regardless of the number of items held within the *focusing flask*. The DC of the saving throw increases by 2 if the flask contains two alchemical items, or by 4 if it contains three items.
+
+**Construction Requirements:** Craft Wondrous Item, *shrink item*; **Cost** 350 gp
+
+### Retort of Control
+
+**Slot** none; **CL** 9th; **Price** 13,000 gp; **Weight** —
+
+**Aura** moderate transmutation
+
+This crystal retort was meticulously crafted from the hides of a dozen shattered crysmals. When light is shone through the retort, the concoction within glows like a golden torch. A *retort of control* can be used to perform spontaneous alchemy with speed and precision. Distillation and sublimation can be carried out in merely 10 minutes when using this tool. In addition, if the user speaks a command word while using spontaneous alchemy to create an alchemical item with the retort as an additional crafting tool, she can designate one creature type or creature subtype. The created alchemical item does not affect creatures of the designated creature type or subtype—alchemical weapons do not harm such creatures on a direct hit or with splash damage, alchemical remedies do not work on such creatures, and so on.
+
+**Construction Requirements:** Craft Wondrous Item, *haste*, *mark of justice*; **Cost** 6,500 gp
+
+### Winged Bottle
+
+**Slot** none; **CL** 3rd; **Price** 1,620 gp; **Weight** 1 lb.
+
+**Aura** moderate evocation
+
+This sky-blue glass bottle sports a sculpture of a silver eagle wrapped around the top of the glass. A *winged bottle* can be filled with the contents of an alchemical splash weapon as a standard action that provokes attacks of opportunity. Three times per day, on command, the bottle sprouts crystalline wings and takes flight. The owner can move the *winged bottle* to any space within 130 feet as a move action; if given no direction, the bottle floats in place. While flying, the bottle is able to drop its contents as a splash weapon with an attack bonus equal to 3 + the owner's Dexterity modifier. The owner must have line of sight to the bottle in order to direct it. Three rounds after being activated, a *winged bottle* loses the power of flight and drifts safely to ground.
+
+**Construction Requirements:** Craft Wondrous Item, *spiritual weapon*; **Cost** 810 gp
+
+### Vial of Efficacious Medicine
+
+**Slot** none; **CL** 5th; **Price** 700 gp; **Weight** —
+
+**Aura** faint conjuration
+
+This bulbous bottle is crafted of smoked glass and causes any liquid contained within to take on a significantly darker cast and twinkle with motes of beautiful white light. A *vial of efficacious medicine* can hold a single dose of an alchemical remedy, such as antitoxin or antiplague. Loading a remedy into the vial is a standard action that provokes attacks of opportunity. When an alchemical remedy is imbibed or applied from the vial, any alchemical bonus it grants on saving throws or checks or to AC or CMD increases by 2. Treat this increase as an enhancement bonus. In addition, the user is healed of 1d8+5 points of damage. A *vial of efficacious medicine* can be used up to three times per day.
+
+**Construction Requirements:** Craft Wondrous Item, *cure light wounds*, *polypurpose panacea*; **Cost** 350 gp

@@ -1651,6 +1651,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Covering Fire (Aid)](covering-fire-aid.md) | Combat, Teamwork | Point-Blank Shot |
 | [Covering Shield](covering-shield.md) | Combat | Dex 13, Shield Focus, Shield Proficiency |
 | [Craft Cybernetics](craft-cybernetics.md) | — | Technologist, Heal 9 ranks, Knowledge (engineering) 9 ranks |
+| [Craft Ooze](craft-ooze.md) | Item Creation | Brew Potion, Craft Wondrous Item, Craft (alchemy) 3 ranks, caster level 5th |
 | [Craft Pharmaceutical](craft-pharmaceutical.md) | — | Technologist, Heal 9 ranks, Knowledge (nature) 9 ranks |
 | [Craft Poppet](craft-poppet.md) | Item Creation | Caster level 1st |
 | [Craft Shadow Piercing](craft-shadow-piercing.md) | Item Creation | Craft (jewelry) 5 ranks, caster level 5th |
@@ -1961,6 +1962,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Improved Punishing Step](improved-punishing-step.md) | Combat | Dex 13, Dodge, Punishing Step, base attack bonus +8 |
 | [Improved Sabotaging Sunder](improved-sabotaging-sunder.md) | Combat | Str 13, Improved Sunder, Power Attack, Sabotaging Sunder, Disable Device 9 ranks |
 | [Improved Shield Focus](improved-shield-focus.md) | Combat | Shield Focus, base attack bonus +6 |
+| [Improved Toxicological Timing](improved-toxicological-timing.md) | — | Craft (alchemy) 11 ranks, Toxicological Timing |
 | [Improvisational Healer](improvisational-healer.md) | — | Heal 1 rank |
 | [Incite Paranoia](incite-paranoia.md) | Combat | Int 13, Combat Expertise, Deceitful, Greater Feint, Improved Feint, base attack bonus +6 |
 | [Inerrant Justice](inerrant-justice.md) | Story | See text |
@@ -1974,6 +1976,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Inspiring Bravery](inspiring-bravery.md) | Combat | Cha 13, bravery class feature |
 | [Inspiring Mentor](inspiring-mentor.md) | — | Cha 13, inspire competence bardic performance |
 | [Inspiring Talent](inspiring-talent.md) | Teamwork | Half-elf, adaptability or ancestral arms racial trait |
+| [Instant Alchemy](instant-alchemy.md) | — | Craft (alchemy) 1 rank |
 | [Intense Blows](intense-blows.md) | Armor Mastery | Str 13, Power Attack, base attack bonus +6 or fighter level 4th, armor training class feature, proficiency with heavy armor |
 | [Intoxicating Flattery](intoxicating-flattery.md) | — | Deceitful, Bluff 5 ranks |
 | [Intrepid Rescuer](intrepid-rescuer.md) | Combat | Combat Reflexes, worshiper of a deity of strength and protection |
@@ -2139,6 +2142,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Planewalker's Insight](planewalkers-insight.md) | — | — |
 | [Play to the Crowd](play-to-the-crowd.md) | — | Int 19, Ironclad Logic, Diplomacy 5 ranks, Sense Motive 5 ranks |
 | [Poised Bearing](poised-bearing.md) | Armor Mastery | Base attack bonus +6 or fighter level 4th, armor training class feature, proficiency with medium or heavy armor |
+| [Poison Focus](poison-focus.md) | — | Craft (alchemy) 1 rank |
 | [Poison Resin](poison-resin.md) | — | Grippli, toxic skin alternate racial trait |
 | [Poison Shot Deed](poison-shot-deed.md) | Grit | Amateur Gunslinger or grit class feature |
 | [Poisoner’s Channel](poisoner-s-channel.md) | — | Channel energy 3d6, worshiper of a deity of secrets and poison |
@@ -2339,6 +2343,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Stylized Spontaneity](stylized-spontaneity.md) | — | Bluff 5 ranks, Spellcraft 5 ranks |
 | [Subtle Devices](subtle-devices.md) | — | Stealthy |
 | [Subtle Enchantments](subtle-enchantments.md) | — | Deceitful, Spell Focus (enchantment) |
+| [Subtle Poisoner](subtle-poisoner.md) | — | Sleight of Hand 5 ranks |
 | [Summon Evil Monster](summon-evil-monster.md) | — | Evil alignment |
 | [Summon Good Monster](summon-good-monster.md) | — | Good alignment |
 | [Sun Striker](sun-striker.md) | Combat, Critical | Critical Focus, Weapon Focus (deity’s favored weapon), character level 7th, worshiper of a deity of the sun |
@@ -2351,6 +2356,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Suppressive Fire](suppressive-fire.md) | Combat, Teamwork | Far Shot, Point-Blank Shot, Precise Shot, keen senses racial trait |
 | [Sure on Ice](sure-on-ice.md) | — | Frost giant |
 | [Sure-Footed](sure-footed.md) | — | Quadruped animal or magical beast |
+| [Sure-Handed Alchemy](sure-handed-alchemy.md) | — | Craft (alchemy) 3 ranks |
 | [Surprising Combatant](surprising-combatant.md) | Combat | Improved Initiative, Bluff 3 ranks |
 | [Swarm Scatter](swarm-scatter.md) | Teamwork | — |
 | [Swarm Strike](swarm-strike.md) | Teamwork | — |
@@ -2407,6 +2413,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Tower Shield Specialist](tower-shield-specialist.md) | Shield Mastery | Shield Focus, Tower Shield Proficiency, base attack bonus +11 or fighter level 8th |
 | [Toxic Secretions](toxic-secretions.md) | — | Grippli, toxic skin alternate racial trait |
 | [Toxic Spray](toxic-spray.md) | Combat | Spit Venom, Viscous Venom, nagaji |
+| [Toxicological Timing](toxicological-timing.md) | — | Craft (alchemy) 9 ranks |
 | [Trailblazing Channel](trailblazing-channel.md) | — | Channel energy 3d6, worshiper of a deity of dreams and travelers |
 | [Treacherous Toxin](treacherous-toxin.md) | — | Base attack bonus +5, sneak attack class feature |
 | [Triangulate](triangulate.md) | Teamwork | Blind-Fight, Greater Blind-Fight, Improved Blind-Fight, Perception 15 ranks, human |
