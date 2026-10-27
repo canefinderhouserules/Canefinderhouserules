@@ -3347,3 +3347,55 @@ This shadowy, waterproof tome is 12 inches tall, 8 inches wide, and 1 inch thick
 This ornately designed lantern is crafted from volcanic glass. When lit, the lantern’s magic creates an area of darkness in a 20-foot radius and lowers the illumination level by one step for an additional 20 feet beyond that area (bright light becomes normal light, normal light becomes dim light, and dim light becomes darkness). If used in an area of darkness, a *voidlight lantern* creates an area of supernatural darkness (as per *deeper darkness*) in a 20-foot radius instead.
 
 **Construction Requirements:** Craft Wondrous Item, *deeper darkness*; **Cost** 15,000 gp
+
+## Vampire Hunting Items
+
+### Deadly Draught
+
+**Slot** none; **CL** 11th; **Price** 900 gp; **Weight** —
+
+**Aura** moderate evocation
+
+This vial has a narrow, pinched spout and is sealed with gray wax. Casting a targeted spell (up to 3rd level) into the vial activates it and causes it to glow a soft red. A creature can then break the spout (destroying the vial) and imbibe the liquid therein as a standard action. Doing so infuses the drinker’s blood with the spell cast on the vial, but the spell does not affect the drinker (the spell instead acts as though it had been affected by *contingency*). The next time a creature feeds on the drinker’s blood, the infused spell immediately targets the attacking creature; if the spell allows a saving throw, the creature takes a –2 penalty on the save. The infused spell fades after it is triggered or 24 hours have passed, whichever comes first.
+
+**Construction Requirements:** Craft Wondrous Item, *contingency*; **Cost** 450 gp
+
+### Dread Heart of Life
+
+**Slot** none; **CL** 5th; **Price** 2,000 gp; **Weight** —
+
+**Aura** moderate necromancy
+
+A boon to vampires on long sea voyages or visiting desolate locations, the throbbing heart in this black box can store the life energy of a creature for later consumption. When a vampire carrying the box makes a successful drain attack, it can redirect the stolen essence to the heart, harming the target creature but granting the vampire no immediate benefit from the feeding. The essence remains stored in the heart for 1 week; at any time, the vampire may clutch the heart as a standard action to drain the essence from it and thus gain the benefits of feeding.
+
+**Construction Requirements:** Craft Wondrous Item, *vampiric touch*; **Cost** 1,000 gp
+
+### Force Net
+
+**Slot** none; **CL** 13th; **Price** 10,320 gp; **Weight** 6 lbs.
+
+**Aura** strong evocation
+
+The threads of this +1 *ghost touch* net are made of silver and magical force. The net has 15 hit points and can be burst with a successful DC 30 Strength check (a full-round action). The net can be used to entrap an incorporeal or gaseous creature, which can attempt a DC 20 Escape Artist check to get out. If a spirit creature possessing a body, such as a vetala, is trapped in the net, it cannot abandon its physical host unless it escapes or bursts the net.
+
+**Construction Requirements:** Craft Magic Arms and Armor, *forcecage*; **Cost** 5,320 gp
+
+### Necklace of Fangs
+
+**Slot** neck; **CL** 3rd; **Price** 1,800 gp; **Weight** 1 lb.
+
+**Aura** faint abjuration
+
+The collected vampire fangs that make up a *necklace of fangs* emit a strong warding aura against vampires. A creature wearing a *necklace of fangs* and brandishing a mirror, holy symbol, or other object that is revolting to a vampire (a standard action) keeps the vampire at bay as usual, but the Will save for the vampire to overcome its revulsion and function normally during subsequent rounds is DC 27, rather than DC 25.
+
+**Construction Requirements:** Craft Wondrous Item, *protection from evil*; **Cost** 900 gp
+
+### Stake of the Righteous
+
+**Slot** none; **CL** 9th; **Price** 3,520 gp; **Weight** 2 lbs.
+
+**Aura** moderate evocation [good]
+
+Cooled in baths of holy water after its forging, this +1 *silver* stake is often used by devout warriors to slay vampires. When driven through a helpless vampire’s heart, the stake emits a constant *hallow* effect centered on the slain vampire (whoever placed the stake can choose to fix a spell effect to the stake as a full-round action; otherwise follow the rules in the *hallow* spell description). Once a *stake of the righteous* has been driven into a vampire’s heart, only creatures that share the original slayer’s alignment can easily remove it. Other creatures may attempt to remove the stake by making a DC 14 Charisma check; a creature that fails this check takes 2d6 points of damage as holy energy courses through the weapon, and it cannot attempt to remove the stake again for 24 hours.
+
+**Construction Requirements:** Craft Magic Arms and Armor, *hallow*; **Cost** 1,770 gp

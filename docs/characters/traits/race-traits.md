@@ -168,6 +168,50 @@ Only undines may select one of these traits.
 
 **Whiteout**: When the air is full of water, your elemental blood allows you to blend with your surroundings and become one with the precipitation. In areas of nonmagical fog, rain, snow, or similar conditions (such as the spray of a waterfall), you gain the effects of concealment, but with a miss chance of 10%. If the precipitation would already grant you concealment, the miss chances stack.
 
+## Vampire Traits
+
+Characters can take these traits only during their transition to unlife, replacing a previously taken race trait and any benefits imparted by the new trait. Each trait lists the vampire type that typically takes it.
+
+**Calculated Risk** *(jiang-shi)*: Once per day, you may voluntarily fail a saving throw against a harmful spell or effect. After using this ability, for the next minute you may add a +4 trait bonus on one saving throw, after which the bonus is expended. You may use this bonus on an additional saving throw against the spell or effect you voluntarily failed (such as a recurring poison save or a follow-up save against *hold person*). If you do not use this bonus within 1 minute, it is lost.
+
+**In Tune with Language** *(jiang-shi)*: Your keen ear for language grants you a +2 trait bonus on skill checks when decoding secret messages or finding hidden meaning in overheard conversations.
+
+**Proud Progenitor** *(moroi)*: Your loneliness drove you to build your coven, and you zealously attack any who would harm it. You gain a +1 trait bonus on damage rolls against creatures you have seen attack or harm any of your vampire spawn.
+
+**Weatherworn** *(moroi)*: Lairing in desolate mountains or on coastal cliff tops has taught you to deal with the effects of strong winds. You gain a +2 trait bonus against the effects of spells that create wind or move air, such as *gust of wind*.
+
+**Rapid Drain** *(nosferatu)*: The ferocity of your hunger grants you the ability to draw life from your victims faster. When you use your blood drain ability, you gain 7 temporary hit points instead of 5.
+
+**Telekinetic Dependence** *(nosferatu)*: Your body is so ancient you fear damaging it with exertion. You gain a +1 trait bonus to your caster level when casting (or using as a spell-like ability) *fly*, *levitate*, *mage hand*, *telekinesis*, and similar spells that move objects through sheer will.
+
+**Self-Aware** *(vetala)*: Wisdom stolen from an enlightened mortal has opened your own mind. Knowing yourself helps you to understand others. You gain a +1 trait bonus on all Sense Motive checks, and Sense Motive becomes a class skill for you.
+
+**Stubborn** *(vetala)*: The angry child inside bolsters your will, and you often prove utterly defiant. You gain a +2 trait bonus on saving throws against attempts to control you, such as *command undead*, *halt undead*, or channeled energy to turn or control undead.
+
+## Dhampir Traits
+
+Only dhampirs can select these traits. Traits marked with a heritage are intended for the matching [dhampir heritage](../races/dhampirs.md#dhampir-heritages).
+
+**Born in the Light**: The circumstance of your birth and upbringing left little room to accommodate your weaknesses, and many hours toiling in broad daylight have decreased the severity of your innate hindrances. You gain a +2 bonus on checks and saves affected by the Endurance feat; this bonus does not stack with the bonus granted by the Endurance feat. When your light sensitivity causes you to become dazzled, you do not take the –1 penalty on sight-based Perception checks.
+
+**Final Embrace**: Like your undead ancestor, you possess an intense yearning for the touch of the living, and the hunger that dwells within you grants an unnatural strength to your grip. You gain a +2 trait bonus on grapple combat maneuver checks to pin an opponent.
+
+**Half-Forgotten Secrets** *(vetala-born)*: A whisper of knowledge was transferred to you at the time of your creation. You gain a +1 trait bonus on checks with two Knowledge skills of your choice, and one of these skills becomes a class skill.
+
+**Linguistic Genius** *(jiang-shi-born)*: Words and letters say more to you than their writers ever intended. You gain a +1 trait bonus on Linguistics checks, and learn to speak and read one additional language from your list of racial languages. Linguistics is always a class skill for you.
+
+**Mind Trapper** *(moroi-born)*: Your honeyed words are nearly impossible for your enchanted subjects to ignore. You gain a +2 trait bonus on Charisma checks to convince an ally enchanted by one of your charm spells (such as *charm person* or *charm monster*) to do things it wouldn't normally do.
+
+**Numerological Gift** *(jiang-shi-born)*: Since birth you have had an intimate connection with a certain number. When you select this trait, roll 3d6. The resulting number becomes your numerological totem and can never be changed. Once per day, when you roll your totem number on a d20 (such as an attack roll, save, or skill check), you may treat that roll as if you had rolled a natural 20 on the die.
+
+**Old Before Your Time** *(nosferatu-born)*: Your fragile flesh shows signs of years not yet lived. Any creature trying to discern your true age must make a Perception or Sense Motive check opposed by your Bluff check; you gain a +5 trait bonus on this check. You gain a +2 trait bonus on Disguise checks if your disguise makes you look at least one age category older, and ignore the check penalty for disguising yourself as a different age category while doing so.
+
+**Sensual Graces** *(moroi-born)*: Your unearthly beauty enchants those who court you. You gain a +2 trait bonus on Bluff checks made against humanoids who would be attracted to you.
+
+**Thrall Spotter** *(nosferatu-born)*: Your heritage gives you an understanding of the powers of domination. You gain a +5 trait bonus on Sense Motive checks made to determine whether a creature is acting under the effects of a charm or compulsion.
+
+**Unidentifiable Appeal** *(vetala-born)*: The unnatural symmetry of your face gives you an attractiveness that is at once captivating but hard to quantify. You gain a +1 trait bonus on Disguise checks and a +1 trait bonus on Diplomacy checks made to influence those who would be attracted to you.
+
 ## Skinwalker Traits
 
 Only skinwalkers may select the traits in this section (the heritage sections are open to skinwalkers of that heritage).

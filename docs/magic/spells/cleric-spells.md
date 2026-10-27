@@ -176,6 +176,7 @@
 - **[Desecrate](desecrate.md)**: Fills area with negative energy, making undead stronger.
 - **[Detect Magic, Greater](detect-magic-greater.md)**: As *detect magic*, but learn more information.
 - **[Diminish Resistance](diminish-resistance.md)**: Weaken a creature’s resistance to one energy type.
+- **[Display Aversion](display-aversion.md)**: an illusion of a vampire's aversion keeps it at bay
 - **[Dress Corpse](dress-corpse.md)**: Doctor the evidence on a corpse.
 - **[Dwarven Veil](dwarven-veil.md)**: Target gains +2 on checks to influence dwarves.
 - **[Eagle’s Splendor](eagles-splendor.md)**: Subject gains +4 to Cha for 1 min./level.
@@ -267,6 +268,7 @@
 - **[Thunder Arrow](thunder-arrow.md)**: Electric arrow that attacks or signals.
 - **[Touch of Mercy](touch-of-mercy.md)**: Target deals only nonlethal damage with weapon attacks.
 - **[Trail of the Rose](trail-of-the-rose.md)**: Leave a trail only you and chosen allies can see.
+- **[Transmute Wine to Blood](transmute-wine-to-blood.md)**: turn a bottle of wine into a pint of animal blood
 - **[Twisted Futures](twisted-futures.md)**: Target can't reroll or pick die results.
 - **[Undeath Sense](undeath-sense.md)**: Constant awareness of undead within 60 ft.
 - **[Undetectable Alignment](undetectable-alignment.md)**: Conceals alignment for 24 hours.
@@ -356,6 +358,7 @@
 - **[Planned Assault](planned-assault.md)**: Planned actions grant bonuses for the first round.
 - **[Poison Exchange](poison-exchange.md)**: Swallow one poison and regurgitate another.
 - **[Prayer](prayer.md)**: Allies get +1 bonus on most rolls, enemies –1 penalty.
+- **[Project Weakness](project-weakness.md)**: a living creature takes on your vampire weaknesses
 - **[Protection from Energy](protection-from-energy.md)**: Absorb 12 points/level of damage from one kind of energy.
 - **[Raging Rubble](raging-rubble.md)**: You animate an area of rubble, gravel, or other small stones, creating a dangerous, rolling area of debris.
 - **[Reaper's Coterie](reapers-coterie.md)**: Weapon gains profane damage bonus for each kill.
@@ -383,6 +386,7 @@
 - **[Spiral Ascent](spiral-ascent.md)**: Teleport upward as a helical beam
 - **[Spirit Bonds](spirit-bonds.md)**: Meditative spell: track bonded creatures and send a telepathic message.
 - **[Spotlight](spotlight.md)**: bright light on a target suppresses nearby light and ruins its Stealth
+- **[Steal Years](steal-years.md)**: drain years from a target to make yourself younger
 - **[Stone Shape](stone-shape.md)**: Sculpts stone into any shape.
 - **[Summon Ancestral Guardian](summon-ancestral-guardian.md)**: Two ancestor spirits attack your enemies.
 - **[Summon Monster III](summon-monster-iii.md)**: Summons extraplanar creature to fight for you.
@@ -570,6 +574,7 @@
 - **[Spell Resistance](spell-resistance.md)**: Subject gains SR 12 + level.
 - **[Spellsteal](spellsteal.md)**: Strip a spell from a target and cast it yourself
 - **[Sphere of Warding](sphere-of-warding.md)**: Sphere ejects possessors and harms incorporeal creatures
+- **[Steal Years, Greater](steal-years-greater.md)**: steal years with a longer duration and more years
 - **[Summon Monster V](summon-monster-v.md)**: Summons extraplanar creature to fight for you.
 - **[Sun’s Disdain, Mass](suns-disdain-mass.md)**: As *sun’s disdain*, on multiple creatures.
 - **[Symbol of Pain](symbol-of-pain.md)**: Triggered rune wracks nearby creatures with pain.

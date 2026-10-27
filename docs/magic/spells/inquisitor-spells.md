@@ -107,6 +107,7 @@ New inquisitor spells from *Ultimate Magic*. Spells from other books will be add
 - **[Diminish Resistance](diminish-resistance.md)**: Weaken a creature’s resistance to one energy type.
 - **[Discovery Torch](discovery-torch.md)**: Touched object emanates bright light, granting Perception and Sense Motive bonuses.
 - **[Disguise Other](disguise-other.md)**: As disguise self, but affects you or another.
+- **[Display Aversion](display-aversion.md)**: an illusion of a vampire's aversion keeps it at bay
 - **[Distressing Tone](distressing-tone.md)**: Sound sickens 1d4 creatures.
 - **[Early Judgment](early-judgment.md)**: Show a creature its fate: fascinated, confused, or shaken.
 - **[Effortless Armor](effortless-armor.md)**: Armor you wear no longer slows your speed.
@@ -208,6 +209,7 @@ New inquisitor spells from *Ultimate Magic*. Spells from other books will be add
 - **[Detoxify](detoxify.md)**: Neutralize a creature’s poison attacks.
 - **[Disrupt Link](disrupt-link.md)**: Sever the link between a creature and her companion or familiar.
 - **[Disrupt Silence](disrupt-silence.md)**: Disrupt all silence effects in an area.
+- **[Domination Link](domination-link.md)**: learn about the creature controlling a target's mind
 - **[Eldritch Fever](eldritch-fever.md)**: Target gains the eldritch ague spellblight.
 - **[False Alibi](false-alibi.md)**: Replace a memory when a trigger occurs.
 - **[Fearsome Duplicate](fearsome-duplicate.md)**: School illusion (figment); Level bard 3, inquisitor 3, sorcerer/wizard 3, witch 3 Casting Time 1 standard.

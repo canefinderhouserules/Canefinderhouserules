@@ -1670,6 +1670,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Consumption](consumption.md) | Blood Hex | Int 13, Use Magic Device 5 ranks |
 | [Contingent Trick](contingent-trick.md) | Trick | Any two trick feats |
 | [Conversion Channel](conversion-channel.md) | — | Channel energy 7d6, worshiper of a deity of tyranny and contracts |
+| [Conviction](conviction.md) | — | Cha 13 |
 | [Convincing Persona](convincing-persona.md) | — | Bluff 5 ranks, Perform (act) 5 ranks, or dual identity |
 | [Cooperative Counterspelling](cooperative-counterspelling.md) | Teamwork | Spellcraft 5 ranks, racial spell-like ability replicating a spell of 1st level or higher |
 | [Cooperative Disabling](cooperative-disabling.md) | Teamwork | Disable Device 1 rank, trapfinding class feature |
@@ -1880,6 +1881,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Familiar Bond](familiar-bond.md) | — | Iron Will |
 | [Familiar Focus](familiar-focus.md) | — | Familiar |
 | [Familiar Spell](familiar-spell.md) | Metamagic | Spellcaster with familiar class feature |
+| [Famine Tolerance](famine-tolerance.md) | — | Moroi or nosferatu vampire |
 | [Fanged Crown Massacre](fanged-crown-massacre.md) | — | Bodyguard, Combat Reflexes, Perform (oratory) 3 ranks, evil |
 | [Far-Roaming Familiar](far-roaming-familiar.md) | — | Intelligence 13, must have a familiar |
 | [Fascinated by the Mundane](fascinated-by-the-mundane.md) | Story | You must have a fey ancestor somewhere in your family line, and you must have the Adopted by the Fey, Fey Meeting, or Met a Fantastic Creature background. |
@@ -2010,6 +2012,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Hurricane Punch](hurricane-punch.md) | Combat | Str 13, Improved Bull Rush, Improved Unarmed Strike, Power Attack |
 | [Hurtful](hurtful.md) | Combat | Str 13, Power Attack |
 | [Hydroponic Adaptation](hydroponic-adaptation.md) | General | Gathlain, racial fly speed |
+| [Hymn Singer](hymn-singer.md) | — | Bardic performance, good alignment, worshiper of a good deity |
 | [Iconoclast](iconoclast.md) | Combat | Divine Defiance, Improved Sunder, Power Attack, Intimidate 3 ranks |
 | [Icy Stare](icy-stare.md) | — | [Born of Frost](born-of-frost.md), frost giant |
 | [Illusion Mastery](illusion-mastery.md) | Item Mastery | Use Magic Device 2 ranks, base Fortitude save bonus +4 |
@@ -2021,6 +2024,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Impressive Grit](impressive-grit.md) | Weapon Mastery | Base attack bonus +11, weapon training class feature with a ranged weapon |
 | [Improved Armor Focus](improved-armor-focus.md) | Combat | Armor Focus, base attack bonus +6, proficiency with selected armor |
 | [Improved Balor Whip](improved-balor-whip.md) | Combat | Balor Whip, Weapon Focus (whip), Whip Mastery, base attack bonus +12 |
+| [Improved Bestial Transformation](improved-bestial-transformation.md) | — | Vampire |
 | [Improved Bless Equipment](improved-bless-equipment.md) | General | Bless Equipment, caster level 9th, channel energy class feature |
 | [Improved Bravery](improved-bravery.md) | Combat | Cha 13, bravery class feature |
 | [Improved Conceal Spell](improved-conceal-spell.md) | — | Conceal Spell, Deceitful, Bluff 5 ranks, Disguise 5 ranks, Sleight of Hand 10 ranks, ability to cast 3rd-level spells or use a 3rd-level spell-like ability |
@@ -2028,6 +2032,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Improved Elemental Counterspell](improved-elemental-counterspell.md) | — | Two basic blast wild talents from two different elements, expanded element class feature, kinetic blast class feature |
 | [Improved Familiar Bond](improved-familiar-bond.md) | — | Familiar Bond, Iron Will |
 | [Improved Forceful Charge](improved-forceful-charge.md) | Animal Companion | Forceful Charge, Improved Bull Rush, Power Attack, animal companion |
+| [Improved Gaseous Form](improved-gaseous-form.md) | — | Vampire |
 | [Improved Horse Whisperer](improved-horse-whisperer.md) | — | Horse Whisperer, Handle Animal 5 ranks, Ride 5 ranks |
 | [Improved Legendary Influence](improved-legendary-influence.md) | — | Legendary Influence, lesser spirit power and propitiation class features |
 | [Improved Lookout](improved-lookout.md) | — | Lookout |
@@ -2040,6 +2045,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Improved Sabotaging Sunder](improved-sabotaging-sunder.md) | Combat | Str 13, Improved Sunder, Power Attack, Sabotaging Sunder, Disable Device 9 ranks |
 | [Improved Shadowy Resistance](improved-shadowy-resistance.md) | — | Fetchling, shadowy resistance racial trait |
 | [Improved Shield Focus](improved-shield-focus.md) | Combat | Shield Focus, base attack bonus +6 |
+| [Improved Swarm Form](improved-swarm-form.md) | — | Vampire |
 | [Improved Toxicological Timing](improved-toxicological-timing.md) | — | Craft (alchemy) 11 ranks, Toxicological Timing |
 | [Improvisational Healer](improvisational-healer.md) | — | Heal 1 rank |
 | [Incite Paranoia](incite-paranoia.md) | Combat | Int 13, Combat Expertise, Deceitful, Greater Feint, Improved Feint, base attack bonus +6 |
@@ -2092,6 +2098,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Liberating Shot](liberating-shot.md) | Weapon Mastery | Dex 13, Deadly Aim, base attack bonus +7, weapon training class feature with a ranged weapon |
 | [Liberation Channel](liberation-channel.md) | — | Channel energy 7d6, worshiper of a deity of freedom |
 | [Lie Low](lie-low.md) | — | — |
+| [Life-Dominant Soul](life-dominant-soul.md) | — | Dhampir |
 | [Lifebound](lifebound.md) | — | — |
 | [Lightning Draw](lightning-draw.md) | Combat, Panache | Quick Draw, swashbuckler initiative deed, swashbuckler level 7th |
 | [Lightning Rager](lightning-rager.md) | — | Rage class feature |
@@ -2253,6 +2260,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Poppet Familiar](poppet-familiar.md) | — | Ability to acquire a new familiar, caster level 3rd |
 | [Porcupine Defense](porcupine-defense.md) | Combat | Combat Expertise, Combat Reflexes, base attack bonus +6 |
 | [Position of Strength](position-of-strength.md) | Combat | Intimidate 5 ranks |
+| [Potent Holy Symbol](potent-holy-symbol.md) | — | Good alignment, worshiper of a good deity |
 | [Potion Glutton](potion-glutton.md) | — | Worshiper of a deity of gluttony or undeath |
 | [Powerful Poisoning](powerful-poisoning.md) | — | Power Attack; Craft (poison) 3 ranks or poison use class feature |
 | [Powerful Tongue](powerful-tongue.md) | — | Str 17, sticky tongue |
@@ -2332,6 +2340,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Scholar](scholar.md) | — | — |
 | [Scholars' Society Ally](scholars-society-ally.md) | — | Associate (a scholars' society) |
 | [School Familiar](school-familiar.md) | — | Familiar effective level 5th, specialized arcane school class feature |
+| [Schooled Resolve](schooled-resolve.md) | — | Bravery class feature |
 | [Scion of a Fallen Empire](scion-of-a-fallen-empire.md) | Teamwork | Human |
 | [Scouting Summons](scouting-summons.md) | Metamagic | Spell Focus (conjuration), ability to cast magic jar |
 | [Scurrying Swarmer](scurrying-swarmer.md) | Combat | Ratfolk, swarming racial trait |
@@ -2597,6 +2606,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Vanguard Style](vanguard-style.md) | Combat, Style | Bodyguard, Combat Reflexes, proficiency with light or heavy shields |
 | [Vanguard Ward](vanguard-ward.md) | Combat | Bodyguard, Combat Reflexes, Vanguard Style, proficiency with light or heavy shields |
 | [Vaporous Potion](vaporous-potion.md) | Versatile Brewing | Brew Potion |
+| [Variant Prayer Scroll](variant-prayer-scroll.md) | — | Jiang-shi vampire |
 | [Vast Spell](vast-spell.md) | Metamagic | Caster level 3rd |
 | [Veiled Purity](veiled-purity.md) | — | 5 or more Hit Dice, good alignment |
 | [Vengeful Banisher](vengeful-banisher.md) | Story | You witnessed at least one family member or a close friend being killed by demons or demonic cultists, or you have the Hated Foe or An Eye for an Eye background |

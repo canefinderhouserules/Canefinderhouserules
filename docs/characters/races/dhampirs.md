@@ -62,6 +62,66 @@ The following racial traits may be selected instead of existing dhampir racial t
 
 **Vampiric Empathy**: Though dhampirs often relate poorly to humanoids, some share an affinity with baser creatures. These dhampirs gain the ability to communicate with bats, rats, and wolves as if under the effects of a *speak with animals* spell (caster level equal to 1/2 the dhampir’s Hit Dice). In addition, they gain a +2 racial bonus on Diplomacy checks when dealing with these animals. Whenever these dhampirs initiate an exchange, animals begin with a starting attitude of indifferent. This is a supernatural ability. This racial trait replaces manipulative.
 
+## Dhampir Heritages
+
+A player may choose one of the following heritages for her dhampir in place of the traditional dhampir racial features (which are assumed to be born from less pure or mixed heritages). Each heritage replaces the dhampir's ability score modifiers, manipulative skill bonuses and *detect undead* spell-like ability with the alternatives below, and the alternate weakness replaces the dhampir's light sensitivity racial trait. Each heritage also comes with a pair of [dhampir traits](../traits/race-traits.md#dhampir-traits).
+
+### Jiang-shi-born
+
+Usually the result of some foul ritual or a magically possessed father rather than direct congress between a human and a jiang-shi, these dhampirs possess an unsettling, graceless bearing, as well as a fierce determination to accomplish their mysterious goals. Their skin remains gray, regardless of exposure to the sun, and their eyes have unusually light irises and pupils. Their movements are typically stiff and awkward, and they are often mathematically or linguistically gifted.
+
+**Ability Score Modifiers**: +2 Dex, +2 Int, –2 Wis.
+
+**Alternate Skill Modifiers**: Acrobatics and Knowledge (engineering) (replacing the manipulative racial trait).
+
+**Alternate Spell-Like Ability**: *Erase* as a spell-like ability.
+
+**Alternate Weakness**: A –1 penalty on saves against sonic effects and spells.
+
+**Traits**: Linguistic Genius, Numerological Gift.
+
+### Moroi-born
+
+Dhampirs who can trace their heritage to moroi inherit much of the unnatural charm and beauty exhibited by their vampiric forebears. They tend to have an easier time than other dhampirs when associating with mortals, though they must be careful that their relatively wanton social interactions do not breed jealousy, resentment, or disdain, and they typically develop social skills that allow them to soothe wounds caused by accidental slights or careless acts.
+
+**Ability Score Modifiers**: +2 Str, +2 Cha, –2 Con.
+
+**Alternate Skill Modifiers**: Diplomacy and Knowledge (nobility) (replacing the manipulative racial trait).
+
+**Alternate Spell-Like Ability**: *Obscuring mist* as a spell-like ability.
+
+**Alternate Weakness**: A –1 penalty on saves against effects that deal positive energy damage.
+
+**Traits**: Mind Trapper, Sensual Graces.
+
+### Nosferatu-born
+
+The union that results in this heritage is too horrific for most to imagine, and any such coupling must be the result of arcane manipulation or insanity. From birth they are misshapen, sallow, and painfully thin, with a chalky complexion that scars easily and bruises like an overripe peach. Their unsettling appearance makes their participation in society challenging, and most leave of their own volition as soon as possible.
+
+**Ability Score Modifiers**: +2 Str, +2 Wis, –2 Con.
+
+**Alternate Skill Modifiers**: Climb and Survival (replacing the manipulative racial trait).
+
+**Alternate Spell-Like Ability**: *Doom* as a spell-like ability.
+
+**Alternate Weakness**: A –1 penalty on saving throws against effects that damage, drain, or reduce physical ability scores.
+
+**Traits**: Old Before Your Time, Thrall Spotter.
+
+### Vetala-born
+
+More often the result of curiosity or experimentation than mating, the dhampir offspring of vetalas are born with sharp minds and are inclined to ask questions. They are forceful and precocious, but their progenitors' distaste for the devout is mirrored in their weakness around holy or unholy sites. Many excel at dance or contortion, and their natural beauty grants them an easier passage through life than other people with undead forebears.
+
+**Ability Score Modifiers**: +2 Dex, +2 Wis, –2 Int.
+
+**Alternate Skill Modifiers**: Escape Artist and Use Magic Device (replacing the manipulative racial trait).
+
+**Alternate Spell-Like Ability**: *Comprehend languages* as a spell-like ability.
+
+**Alternate Weakness**: A –1 penalty to their caster level whenever they are in an area affected by *consecrate*, *hallow*, or a similar spell that makes an area holy.
+
+**Traits**: Half-Forgotten Secrets, Unidentifiable Appeal.
+
 ## Favored Class Options
 
 See the [Advanced Race Guide section of the racial favored class options](../favored-class-bonuses/racial-favored-class-options.md#dhampirs-advanced-race-guide).
@@ -98,15 +158,21 @@ A heartstake bolt deals normal damage for the crossbow of its type.
 - [Blood Salvage](../../rules/feats/blood-salvage.md)
 - [Diverse Palate](../../rules/feats/diverse-palate.md)
 - [Natural Charmer](../../rules/feats/natural-charmer.md)
+- [Conviction](../../rules/feats/conviction.md)
+- [Life-Dominant Soul](../../rules/feats/life-dominant-soul.md)
 
 ## Magic Items
 
 - [Amulet of Channeled Life](../../magic-items/racial-items-arg.md#amulet-of-channeled-life)
 - [Lenses of Darkness](../../magic-items/racial-items-arg.md#lenses-of-darkness)
 - [Symbol of Unholy Command](../../magic-items/racial-items-arg.md#symbol-of-unholy-command)
+- [Necklace of Fangs](../../magic-items/companion-items.md#necklace-of-fangs)
+- [Stake of the Righteous](../../magic-items/companion-items.md#stake-of-the-righteous)
 
 ## Spells
 
 - [Blinding Ray](../../magic/spells/blinding-ray.md)
 - [Life Channel](../../magic/spells/life-channel.md)
 - [Spawn Ward](../../magic/spells/spawn-ward.md)
+- [Domination Link](../../magic/spells/domination-link.md)
+- [Project Weakness](../../magic/spells/project-weakness.md)

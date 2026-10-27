@@ -194,6 +194,7 @@
 - **[Diminish Resistance](diminish-resistance.md)**: Weaken a creature’s resistance to one energy type.
 - **[Diminished Detection](diminished-detection.md)**: Detection spells have half their normal range against you.
 - **[Discovery Torch](discovery-torch.md)**: Touched object emanates bright light, granting Perception and Sense Motive bonuses.
+- **[Display Aversion](display-aversion.md)**: an illusion of a vampire's aversion keeps it at bay
 - **[Disrupt Silence](disrupt-silence.md)**: Disrupt all silence effects in an area.
 - **[Dousing Rain](dousing-rain.md)**: Call a downpour that douses fire
 - **[Dragon Voice](dragon-voice.md)**: +6 on Charisma checks with dragons; louder voice.
@@ -328,6 +329,7 @@
 - **[Dispel Magic](dispel-magic.md)**: Cancels one magical spell or effect.
 - **[Displacement](displacement.md)**: Attacks miss subject 50% of the time.
 - **[Disrupt Link](disrupt-link.md)**: Sever the link between a creature and her companion or familiar.
+- **[Domination Link](domination-link.md)**: learn about the creature controlling a target's mind
 - **[Dreadscape](dreadscape.md)**: Surroundings and unfamiliar creatures seem like something out of a nightmare.
 - **[Enticing Adulation](enticing-adulation.md)**: Target rages to defend you.
 - **[False Alibi](false-alibi.md)**: Replace a memory when a trigger occurs.

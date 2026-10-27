@@ -161,6 +161,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Detect Magic, Greater](detect-magic-greater.md)**: As *detect magic*, but learn more information.
 - **[Diminish Resistance](diminish-resistance.md)**: Weaken a creature’s resistance to one energy type.
 - **[Diminished Detection](diminished-detection.md)**: Detection spells have half their normal range against you.
+- **[Display Aversion](display-aversion.md)**: an illusion of a vampire's aversion keeps it at bay
 - **[Disrupt Link](disrupt-link.md)**: Sever the link between a creature and her companion or familiar.
 - **[Dousing Rain](dousing-rain.md)**: Call a downpour that douses fire
 - **[Dragon Voice](dragon-voice.md)**: +6 on Charisma checks with dragons; louder voice.
@@ -245,6 +246,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Tears to Wine](tears-to-wine.md)**: Turn liquids into wine that sharpens the mind.
 - **[Thunder Fire](thunder-fire.md)**: Ammunition in the targeted firearm deafens opponents.
 - **[Touch of Bloodletting](touch-of-bloodletting.md)**: Wounded target bleeds and is exhausted.
+- **[Transmute Wine to Blood](transmute-wine-to-blood.md)**: turn a bottle of wine into a pint of animal blood
 - **[Umbral Weapon](umbral-weapon.md)**: Reroll missed attacks for cold damage.
 - **[Unnatural Lust](unnatural-lust.md)**: Target is compelled to kiss or caress another.
 - **[Unshakable Chill](unshakable-chill.md)**: Target is afflicted with severe cold.
@@ -289,6 +291,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Detect Desires](detect-desires.md)**: Learn what creatures desire.
 - **[Detoxify](detoxify.md)**: Neutralize a creature’s poison attacks.
 - **[Discharge](discharge.md)**: Drain charges from a technological object.
+- **[Domination Link](domination-link.md)**: learn about the creature controlling a target's mind
 - **[Drain Poison](drain-poison.md)**: Drain a creature's poison onto your weapon.
 - **[Earth Tremor](earth-tremor.md)**: Unleash a tremor that creates difficult terrain and can knock foes down and damage them.
 - **[Eldritch Fever](eldritch-fever.md)**: Target gains the eldritch ague spellblight.
@@ -342,6 +345,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Pillow Talk](pillow-talk.md)**: Question a sleeping creature
 - **[Planar Inquiry](planar-inquiry.md)**: Call an outsider to answer questions.
 - **[Pocketful of Vipers](pocketful-of-vipers.md)**: Ward a container with summoned vipers.
+- **[Project Weakness](project-weakness.md)**: a living creature takes on your vampire weaknesses
 - **[Pugwampi’s Grace](pugwampis-grace.md)**: Target rolls 2d20 and takes the lower result.
 - **[Pup Shape](pup-shape.md)**: Transforms a single animal or magical beast into a younger and cuter version of itself for a short time.
 - **[Quell Energy](quell-energy.md)**: Reduce a creature's energy damage of one type.
@@ -367,6 +371,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Spit Venom](spit-venom.md)**: Spit blinding black adder venom.
 - **[Spotlight](spotlight.md)**: bright light on a target suppresses nearby light and ruins its Stealth
 - **[Stage Fright](stage-fright.md)**: Targets take –4 on ability, skill, and concentration checks.
+- **[Steal Years](steal-years.md)**: drain years from a target to make yourself younger
 - **[Storm Step](storm-step.md)**: teleport short distance as a bolt of lightning
 - **[Strangling Hair](strangling-hair.md)**: Your hair animates and grapples.
 - **[Sundered Serpent Coil](sundered-serpent-coil.md)**: Summon a grappling serpent coil
@@ -553,6 +558,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Spellfire Jinx](spellfire-jinx.md)**: Cursed caster burns and may lose spells.
 - **[Spellsteal](spellsteal.md)**: Strip a spell from a target and cast it yourself
 - **[Sphere of Warding](sphere-of-warding.md)**: Sphere ejects possessors and harms incorporeal creatures
+- **[Steal Years, Greater](steal-years-greater.md)**: steal years with a longer duration and more years
 - **[Summoner Conduit](summoner-conduit.md)**: The target takes damage whenever its summoned creature does.
 - **[Sun’s Disdain, Mass](suns-disdain-mass.md)**: As *sun’s disdain*, on multiple creatures.
 - **[Swallow Poison](swallow-poison.md)**: Protect yourself from ingested poison, then spit it out in a cone.

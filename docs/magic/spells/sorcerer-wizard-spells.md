@@ -395,6 +395,7 @@
 - **[Thunder Fire](thunder-fire.md)**: Ammunition in the targeted firearm deafens opponents.
 - **[Touch of Bloodletting](touch-of-bloodletting.md)**: Wounded target bleeds and is exhausted.
 - **[Touch of Mercy](touch-of-mercy.md)**: Target deals only nonlethal damage with weapon attacks.
+- **[Transmute Wine to Blood](transmute-wine-to-blood.md)**: turn a bottle of wine into a pint of animal blood
 - **[Trapfinder’s Focus](trapfinders-focus.md)**: Gain trapfinding or +5 on Disable Device.
 - **[Twisted Futures](twisted-futures.md)**: Target can't reroll or pick die results.
 - **[Twisted Space](twisted-space.md)**: Targeted creature’s attacks target a random square instead of the intended target.
@@ -509,6 +510,8 @@
 - **[Discern Value](discern-value.md)**: Reveals which objects in a cone are most valuable.
 - **[Discharge](discharge.md)**: Drain charges from a technological object.
 - **[Dispel Magic](dispel-magic.md)**: Cancels one magical spell or effect.
+- **[Display Aversion](display-aversion.md)**: an illusion of a vampire's aversion keeps it at bay
+- **[Domination Link](domination-link.md)**: learn about the creature controlling a target's mind
 - **[Dragon Turtle Shell](dragon-turtle-shell.md)**: Natural attacks against you deal reduced damage.
 - **[Earth Tremor](earth-tremor.md)**: Unleash a tremor that creates difficult terrain and can knock foes down and damage them.
 - **[Ectoplasmic Snare](ectoplasmic-snare.md)**: Tendril of ectoplasm grapples a creature and tethers you to it.
@@ -614,6 +617,7 @@
 - **[Spirit Bonds](spirit-bonds.md)**: Meditative spell: track bonded creatures and send a telepathic message.
 - **[Spotlight](spotlight.md)**: bright light on a target suppresses nearby light and ruins its Stealth
 - **[Stage Fright](stage-fright.md)**: Targets take –4 on ability, skill, and concentration checks.
+- **[Steal Years](steal-years.md)**: drain years from a target to make yourself younger
 - **[Stinking Cloud](stinking-cloud.md)**: Nauseating vapors, 1 round/level.
 - **[Stolen Light](stolen-light.md)**: Store an image within a gem.
 - **[Storm Step](storm-step.md)**: teleport short distance as a bolt of lightning
@@ -789,6 +793,7 @@
 - **[Phantom Steed, Communal](phantom-steed-communal.md)**: As phantom steed, but you may divide the duration among creatures touched.
 - **[Poisonous Cloud](poisonous-cloud.md)**: Fog cloud that deals 1d2 Con damage per round.
 - **[Positive Pulse, Greater](positive-pulse-greater.md)**: A large pulse of positive energy damages undead and bolsters living creatures
+- **[Project Weakness](project-weakness.md)**: a living creature takes on your vampire weaknesses
 - **[Protection from Energy, Communal](protection-from-energy-communal.md)**: As protection from energy, but you may divide the duration among creatures touched.
 - **[Purge Spirit](purge-spirit.md)**: Deal 1d6 points of damage per level to one haunt or spirit creature and stagger it.
 - **[Pyrotechnic Eruption](pyrotechnic-eruption.md)**: Erupting flames burn a target several times.
@@ -1006,6 +1011,7 @@
 - **[Soulswitch](soulswitch.md)**: Swap souls with your familiar.
 - **[Spell Absorption](spell-absorption.md)**: Counterspell a low-level spell to regain a spell.
 - **[Spellsteal](spellsteal.md)**: Strip a spell from a target and cast it yourself
+- **[Steal Years, Greater](steal-years-greater.md)**: steal years with a longer duration and more years
 - **[Stoneskin, Communal](stoneskin-communal.md)**
 - **[Straitjacket](straitjacket.md)**: Restrain a creature’s arms and grant it a second saving throw against certain magic.
 - **[Summon Monster V](summon-monster-v.md)**: Summons extraplanar creature to fight for you.

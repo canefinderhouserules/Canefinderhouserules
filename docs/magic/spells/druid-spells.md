@@ -278,6 +278,7 @@
 - **[Spike Growth](spike-growth.md)**: Creatures in area take 1d4 damage, may be slowed*.*
 - **[Spotlight](spotlight.md)**: bright light on a target suppresses nearby light and ruins its Stealth
 - **[Steal Size](steal-size.md)**: Shrinks a larger target and enlarges you.
+- **[Steal Years](steal-years.md)**: drain years from a target to make yourself younger
 - **[Stone Shape](stone-shape.md)**: Sculpts stone into any shape.
 - **[Summon Nature’s Ally III](summon-natures-ally-iii.md)**: Summons creature to fight.
 - **[Swarm of Fangs](swarm-of-fangs.md)**: Summon a swarm of flying teeth
@@ -401,6 +402,7 @@
 - **[Replay Tracks](replay-tracks.md)**: Reconstruct past events from a set of tracks.
 - **[Sawtooth Terrain](sawtooth-terrain.md)**: Serrated blades erupt from a surface.
 - **[Soulswitch](soulswitch.md)**: Swap souls with your familiar.
+- **[Steal Years, Greater](steal-years-greater.md)**: steal years with a longer duration and more years
 - **[Stoneskin](stoneskin.md)**: Grants DR 10/adamantine.
 - **[Sturdy Tree Fort](sturdy-tree-fort.md)**: Create a tree with a defensive fort within it.
 - **[Summon Nature’s Ally V](summon-natures-ally-v.md)**: Summons creature to fight.
