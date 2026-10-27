@@ -1861,3 +1861,257 @@ This delicate needle is attached to fine springs and a small reservoir that cont
 This clay container resembles a fuse grenade, but trails a pulley and wire rather than a fuse. Pulling the cord (a move action) sparks a flint and steel within the device, causing the grenade to explode. The pull cord can be attached to a door or drawer within 5 feet, or strung across a 5-foot square, causing the grenade to detonate when its tripwire is disturbed. A pull-cord grenade cannot be reused.
 
 **Pull-Cord Grenade Trap (CR 1/2)**: **Type** mechanical; **Perception** DC 15; **Disable Device** DC 15; **Trigger** touch; **Reset** none; **Effect** explosion (2d6 bludgeoning damage and 1d6 fire damage; Reflex DC 15 half; multiple targets (all targets within 10 feet))
+
+## Merchant Food and Drink
+
+### Wasp Metheglin
+
+**Price** 400 gp; **Weight** 2 lbs.
+
+A rare breed of wasp produces the honey used to make this spiced, mead-like drink. For 1 hour after consuming a glass of wasp metheglin (this takes 1 round), the drinker is quick to respond to harm, gaining a +1 alchemical bonus on attack rolls against any creature that has damaged her with an attack within the previous round. This bonus does not stack with itself. A typical bottle holds four glasses' worth of metheglin.
+
+### Brined Spring Eel
+
+**Price** 1 gp; **Weight** 1/2 lb.
+
+Every spring, the waters of certain archipelagos fill with the newly hatched young of immense eels, which fishermen harvest and brine to preserve for year-round consumption. Traditionally consumed as sailors' meals before long voyages to regain one's sea legs, brined spring eel grants a +2 competence bonus on concentration checks required for vigorous or violent motion for 8 hours. The price listed is for a single serving.
+
+### Honeycomb Cubes
+
+**Price** 5 gp; **Weight** —
+
+Honey collectors harvest the immense combs created by giant bees. Local confectioners ferment this honey for several weeks before mixing it with flour and spices and cutting it into chewy cubes. Once reserved for legendary heroes to enhance their longevity, honeycomb cubes are now served as a rare treat on important anniversaries and birthdays. Eating a serving limits the reduction in a creature's current and total hit points to only 3 for each negative level it has (instead of the normal 5-point reduction in current and total hit points); other penalties imposed by negative levels remain unchanged. Additionally, you gain a +1 resistance bonus on saving throws to remove negative levels. Both effects last 24 hours. The price listed is for a single serving.
+
+### Preserved Lemons
+
+**Price** 1 gp; **Weight** 1 lb.
+
+Preserved lemons make prized preserves when ground, salted, and sealed in jars, adding an intense citrus flavor when sprinkled atop other foods. If, within 8 hours of consuming a meal seasoned with preserved lemons, you gain the confused condition, you can roll 1d6 and subtract the result from the result of your d% roll to determine what action you take for the first round in which you are confused. This benefit does not stack with itself. The price and weight listed represent a jar containing enough preserved lemons to season 10 meals.
+
+### Fire-Ward Paprika
+
+**Price** 3 gp; **Weight** —
+
+This bright red seasoning is used in all manner of seafood and vegetable dishes, imparting the heat greatly treasured in some cuisines. Consuming a meal seasoned with fire-ward paprika grants you some resistance against flames, reducing the amount of damage taken each round when you have caught on fire by 1. This benefit lasts for 8 hours and does not stack with itself. The price and weight listed represent a jar containing enough paprika to season 10 meals.
+
+### Sangwine
+
+**Price** 200 gp; **Weight** 2 lbs.
+
+This deep red wine is highly tannic and has notes of currants and cocoa and an aroma of cedar. Sangwine is a favorite of the elite, who associate drinking it with long life. Drinking a glass of sangwine takes at least 1 round, though many imbibers take longer to savor the wine's complex flavors. After drinking a glass, the wine gives the drinker's blood a bitter flavor for 1 hour, causing any creature that deals damage using the blood drain extraordinary ability to become sickened for a number of rounds equal to the points of Constitution damage dealt (this effect is not subject to the poison immunity of vampires and other undead). Repeated uses of the blood drain ability on a creature that has imbibed at least one glass of sangwine extends the duration of the sickened condition. The price listed is for a bottle, which contains six glasses' worth of sangwine.
+
+### Candlefish
+
+**Price** 7 sp; **Weight** 1 lb.
+
+This long, oily, salted fish comes strung on a wick similar to that found in a candle. The fish can be cooked and eaten as a tasty trail ration, with the listed price buying a fish big enough for one day's worth of food for a single creature. As long as the fish stays dry, it can go for months without spoiling. Sections of the candlefish can also be burned as a candle. One day's worth of candlefish is equivalent to six candles. Once used as a candle, a candlefish can no longer be eaten.
+
+### Dragon's Blend Coffee
+
+**Price** 1 gp; **Weight** —
+
+This aromatic blend fills the belly with the sensation of fire, warming the drinker's body. By drinking two cups of dragon's blend coffee, you gain cold resistance 5 for 1 hour. Once the coffee has prevented 5 points of cold damage, the effect ends. You can benefit from dragon's blend coffee only once per day. The listed price is for a single cup of coffee; to gain a coffee's benefits, a drinker typically must consume two cups.
+
+### Steppe Roast Coffee
+
+**Price** 1 gp; **Weight** —
+
+The gold standard of coffee in many trade cities, steppe roast is notable for its acidity and smooth flavor. By drinking two cups of steppe roast coffee, you can walk for an additional hour before you must make a forced march. This additional hour counts as an hour of marching beyond the maximum for the purpose of determining the DC of Constitution checks for a subsequent forced march. You can benefit from steppe roast coffee only once per day. The listed price is for a single cup.
+
+### Bitter Hybrid Coffee
+
+**Price** 1 gp; **Weight** —
+
+This bitter coffee cultivar increases the drinker's alertness to nearby threats. For 1 hour after drinking two cups of bitter hybrid coffee, you gain a +2 competence bonus on Perception checks to notice a creature that is using Stealth. You can benefit from bitter hybrid coffee only once per day. The listed price is for a single cup.
+
+## Merchant Gear
+
+### Badger Plush
+
+**Price** 45 gp; **Weight** 2 lbs.
+
+This stuffed badger is realistic enough to fool most other animals into thinking it is real. As a move action, a wielder can use a free hand to present the plush; any Small or smaller animal with an Intelligence score of 1 or 2 that can see it takes a –2 penalty on initiative checks.
+
+### Clockwork Dial
+
+**Price** 150 gp; **Weight** 1/2 lb.
+
+This brass timepiece can be wound with a small key, causing it to count down until it reaches the end of its duration, at which point it emits a small chime. Most dials have a maximum duration of 60 minutes, with each turn of a key adding 10 minutes, though some are crafted with longer or shorter durations and intervals.
+
+### Remora Pad
+
+**Price** 5 gp; **Weight** 1/2 lb.
+
+This foot-long strip of double-sided alchemical adhesive is sealed with waxed paper. When unsealed (this requires a move action) and pressed between two surfaces (this also requires a move action), a remora pad creates a firm and waterproof bond between two creatures or objects for up to 24 hours. If two creatures connect themselves in this way, both gain the grappled condition. However, if they are different size categories, only the smaller creature gains this condition. This bond survives light buffeting and movement, such as that created by incoming tides or by one attached surface dragging the other along underwater. Sharp tugs can break the seal fairly easily, and a willingly attached creature can pull free of the pad with a successful DC 5 Strength check as a standard action (DC 10 as a swift action). This weakness makes remora pads fairly ineffective when attempting to grapple a target, though a grappling creature that sticks itself to a target with a remora pad receives a +6 circumstance bonus on grapple combat maneuver checks to sustain the grapple in subsequent rounds (instead of the normal +5 bonus). A remora pad's bond is strong enough to support 200 pounds of material, so bonding two heavier objects together requires multiple pads. Underwater travelers often use remora pads to attach themselves to trained aquatic animals for long journeys.
+
+### Siphon Ray
+
+**Price** 25 gp; **Weight** 2 lbs.
+
+This parasitic, hand-sized, cartilaginous fish attaches to a creature and filters nutrients directly from its host's bloodstream. However, a siphon ray reoxygenates the blood in the process, allowing the host to hold her breath for twice as long while underwater. A siphon ray must be attached for at least 1 minute before providing this benefit, and every hour a ray remains attached per day, the host must succeed at a DC 15 Fortitude saving throw or become fatigued. While attached, a siphon ray avoids most attacks as though it were a piece of equipment unless specifically targeted. A siphon ray must be kept in at least 1 gallon of salt water when not in use. If it is out of salt water for 1 hour, the siphon ray expires.
+
+### Blade of Life's Defense
+
+**Price** 170 gp; **Weight** 6 lbs.
+
+This khopesh has a silver blade polished to an almost blinding sheen and etched with motifs of vines and leaves. Each blade is imbued with a shimmer of nonmagical might against undead that grants the blade's bearer a +1 sacred bonus on saving throws against the abilities of undead. It is otherwise treated as a standard khopesh.
+
+### Blackwood Figurehead
+
+**Price** 650 gp; **Weight** 25 lbs.
+
+Carved in the likeness of a sea creature or another form desired by the one commissioning it, this item grants its ship's crew a +2 morale bonus on Profession (sailor) checks while on board.
+
+### Bogwalking Sandals
+
+**Price** 250 gp; **Weight** 1/2 lb.
+
+These sandals have blackwood soles and leather straps that wrap around the wearer's feet. The sandals are waterproof and are thus popular among individuals who tread the harsh locales of swamps and wastelands, especially those who are in such environments for long periods of time without access to the comforts of a skilled cobbler. The sandals' design also allows the wearer to move through shallow bogs normally and to treat deep bogs as if they were shallow bogs. The sandals do not affect the penalty on Acrobatics checks while in bogs, and creatures wearing the sandals cannot gain cover from deep bogs.
+
+### Darkwood Ancestry Plank
+
+**Price** 10 gp; **Weight** 1/2 lb.
+
+Ancestor worship is common among many jungle peoples, and many display wooden planks in their homes that contain depictions of enormous trees with the names of their ancestors carved onto branches. Ancestry planks made of darkwood are much lighter and smaller than their conventional counterparts, which makes them appealing to adventurers looking to honor their lineages while venturing away from home. Many recognize the difficulty in obtaining darkwood and view those who carry darkwood ancestry planks with respect.
+
+### Darkwood Jungle Harp
+
+**Price** 130 gp; **Weight** 1-1/2 lbs.
+
+Musicians in the jungle make frequent use of carved harps strung with strings made from natural materials. These harps often feature ornately detailed soundboards and necks shaped like creatures that inhabit the region. Harps crafted from darkwood are very light compared to similar instruments, yet they retain the resonance and tonal quality demanded by the pickiest of musicians. A darkwood jungle harp is a masterwork musical instrument that grants you a +2 circumstance bonus on Perform checks when using it.
+
+### Heated Gloves
+
+**Price** 2 gp; **Weight** 1 lb.
+
+These thick, fur-lined gloves have several internal pockets containing segmented packets of alchemical reagents that produce heat for 4 hours when broken and mixed. The wearer can massage the gloves to activate these heat packets as a full-round action. While the heat packets last, the wearer ignores the Strength and Dexterity penalties from the fatigued condition when performing Climb, Disable Device, and Sleight of Hand checks. Replacement heat packets cost 1 gp, and the heat packets in the gloves can be replaced with 1 minute of uninterrupted work.
+
+### Warka Jar
+
+**Price** 2 gp; **Weight** 1/2 lb.
+
+This 2-foot-tall, vase-shaped object is inspired by the huge warka towers found in some inland areas. The warka jar is made of lightweight and elastic juncus stalks woven into a crisscross pattern. A fine mesh hangs inside and collects water condensation. Placing a warka jar outside overnight collects enough fresh water for a single creature to survive for one day. When not in use, the warka jar can be collapsed into a pocket-sized cube for easy transportation.
+
+### Heatstone
+
+**Price** 20 gp; **Weight** 1 lb.
+
+Heatstones are pieces of volcanic glass formed naturally in deserts that have the ability to keep an area pleasantly warm even in otherwise frigid conditions. Alchemically treated to enhance their natural heat-generating properties, these round or ovoid stones of volcanic glass provide enough heat to keep chambers warm in the coldest winter. One heatstone keeps a 20-foot-square area comfortably warm even in extreme cold (below –20° F), or a 40-foot-square area in severe cold (between 0° F and –20° F). A single heatstone is activated by striking it against any hard surface, after which point it continues to provide heat for 24 hours. An active heatstone does not give off enough heat to cook food or cause damage. Some heatstones are alchemically treated to produce heat that lasts indefinitely or to be used in permanent items. The following items incorporate heatstones; prices include the treated heatstone or stones required for each item to work.
+
+### Clockwork Oar
+
+**Price** 500 gp; **Weight** 50 lbs.
+
+This clockwork device is powered by heatstones and seawater and can turn a ship's oar with tireless mechanical strokes. When installed on a water vehicle that uses muscle as a means of propulsion, a clockwork oar performs the function of one Medium rower. A broken clockwork oar functions only half as well as an unbroken one, so two broken clockwork oars are required to perform the function of one Medium rower. For driving checks with a water vehicle powered with only clockwork oars, the driver must attempt Disable Device or Knowledge (engineering) checks instead of the skill checks listed in the vehicle's driving check entry in its stat block. (These checks represent the sailor ensuring that all of the oars are moving in unison and without impediment.) If a water vehicle is powered with one or more clockwork oars but not solely with clockwork oars, the skills used for driving checks remain unchanged.
+
+### Heatstone Desalinator
+
+**Price** 10 gp; **Weight** 2 lbs.
+
+Most desalination equipment is rare, slow, and energy-intensive enough that magic is the preferred method for turning salt water into fresh drinking water. The power provided by this device's heatstones accelerates the desalination process considerably. The user of a heatstone desalinator can place 1 gallon of salt water into the device and receive a gallon of fresh water in 1 minute, with no additional effort required on her own part.
+
+### Reagent Extractor
+
+**Price** 1,000 gp; **Weight** 10 lbs.
+
+These connected glass-and-copper apparatuses have heatstones and other components installed at the base of each container to break down magic liquids placed within. Any potion placed within the extractor is distilled down to its component parts over the course of 4 hours; this destroys the potion. The extracted essences can then be used to brew a new potion as long as the new potion is of the same spell level or lower than the distilled potion. Using the extractor in this way does not change the requirements for brewing a potion, but it does remove the need to use fresh and unused ingredients and materials to brew the new potion, and this waives the new potion's base cost (but not the requirement to provide any costly material component or focus that the new potion's spell requires). Essences extracted from a potion using a reagent extractor must be used to create a new potion within 24 hours; after this time, they become inert.
+
+### Covenant Rings
+
+**Price** 100 gp; **Weight** —
+
+These silver rings are always sold in uniquely crafted pairs. Originally made to celebrate the uniting of two peoples, they are now commonly sought by young lovers, very close friends, and other intimate pairs. When two emotionally intimate creatures each wear one of the rings in a set, both wearers gain a +1 bonus on saving throws against fear effects. This bonus ends if the creatures' emotional bond is severed (at the GM's discretion), one of the creatures removes a ring and returns it to the other creature, or a bonded creature is no longer wearing the ring (or is no longer alive or on the same plane).
+
+### Eternal Flame Torch
+
+**Price** 250 gp; **Weight** 1 lb.
+
+One end of this short length of petrified wood burns with a flame of ever-changing hue, a tiny portion of a legendary founding fire. It provides light as per a normal torch but is not consumed, and its fire cannot be extinguished by mundane means (though total immersion temporarily quenches the flame). The torch can be wielded as an improvised light mace that deals an additional 1d2 points of fire damage; in addition, a creature damaged by the torch's fire takes a –1 penalty on saving throws for 1 round against effects that deal fire damage.
+
+### Stone Fruit
+
+**Price** 500 gp; **Weight** 1 lb.
+
+This bizarre fruit appears to be carved from stone, though it has a lovely aroma and is easily consumed. Eating a stone fruit hardens flesh and restores vitality. When a creature eats the fruit as a full-round action that provokes attacks of opportunity, it immediately recovers 2d6 hit points and gains a +2 enhancement bonus to its natural armor for 1 minute.
+
+### Monument Claws
+
+**Price** 150 gp; **Weight** —
+
+This tiny set of sculpted claws, made from stone carefully chipped from a monument to a great battle, is set upon a fine chain. Once per day when attempting an Intimidate check to demoralize a single opponent in combat, the user can forcefully present the claws as part of the action to activate their residual power. Using the claws in this way requires a free hand, but only while the Intimidate check is made. If the Intimidate check was a success and the target is demoralized, the claws grant the wielder a +1 morale bonus on attack rolls against that creature for the duration of the demoralized effect. If the wielder uses the claws but the Intimidate check is not successful, the claws' daily use is expended to no effect.
+
+### Mantra Wheel
+
+**Price** 450 gp; **Weight** 1/2 lb.
+
+This handheld metal cylinder is embossed with traditional symbols tied to protectiveness and has a handle that can be used to spin it. Mantra wheels are often used by divine spellcasters who are blind or have difficulty with fine gestures, or who simply enjoy using this traditional device. As a move action, a scroll of a divine spell can be placed inside the wheel. The handle is then spun, activating the scroll without the use of verbal or somatic components. If the wheel's user would need to attempt a caster level check to activate the scroll successfully, the wheel provides a +3 bonus on that check. Spinning the wheel is part of the normal action required to activate the scroll (usually a standard action or the spell's casting time, whichever is longer). Using the wheel to activate a scroll provokes attacks of opportunity exactly as activating a scroll (or casting the spell) normally would. The wheel can hold only one divine scroll at a time. Removing an expended scroll from a mantra wheel is a swift action.
+
+### Monkey Statue
+
+**Price** 150 gp; **Weight** 1/2 lb.
+
+For some unknown reason, this finely crafted but mundane monkey statue repulses oni. Any creature with the oni subtype that is within 30 feet of a monkey statue takes a –1 penalty on all d20 rolls. The monkey statue can be unattended or presented by its wielder as a swift action to cause this effect; the statue has no effect on oni if it is simply stored on a wielder's person. A wielder must have a free hand available to present the statue and gain its effect. This penalty does not stack with that from other monkey statues.
+
+### Spirit Offering
+
+**Price** 20 gp; **Weight** 1/2 lb.
+
+These offerings take many forms, such as food, incense, pinwheels, rare teas, perfectly smooth white pebbles, or stone tablets, but they are always kept in pouches tied with ribbon. Travelers leave these offerings at the small shrines or holy sites that can be found scattered along roads. For 1 hour after a traveler leaves a spirit offering, any kami the traveler encounters has its initial attitude improved by one step. This attitude adjustment reverts to normal after 10 minutes unless the creature's attitude is adjusted further during that time, such as via the Diplomacy skill, in which case the kami's attitude does not revert after the offering's effect expires. Once a spirit offering has been used to improve a kami's attitude, it cannot be reused.
+
+## Merchant Armor, Weapons, and Poison
+
+### Martial Arts Training Gear
+
+**Price** 45 gp; **Weight** 5 lbs.; **Armor Bonus** +1; **Max Dex Bonus** +8; **Armor Check Penalty** 0; **Arcane Spell Failure** 5%; **Speed** 30 ft./20 ft.
+
+This light armor consists of several sections of curved padding held together by an assembly of leather straps. Meant to be worn during martial arts sparring contests, the armor absorbs blows from training weapons and unarmed strikes. The wearer reduces nonlethal damage caused by physical attacks, including natural attacks, by 2 points of damage. The wearer also ignores the first point of lethal bludgeoning damage from natural attacks.
+
+### Horned Barding
+
+**Price** 500 gp (Large mount); **Weight** 65 lbs.
+
+Named after a ferocious horned, tiger-clawed beast, this suit of scale mail barding bears a vicious horn on the forehead plate and metal tiger claws protruding from the poitrel. The armor is heavily reinforced to protect a horse's chest and neck. A horse wearing horned barding gains a gore attack as a secondary natural attack that deals 1d8 points of damage. Additionally, a horse wearing horned barding deals 2d6 points of damage to any foe it knocks prone when using an overrun combat maneuver. Horned barding otherwise functions like barding. The price and weight listed is for barding for a Large mount. Barding for a Medium mount costs 250 gp and weighs 35 pounds. Horned barding slows a mount with a base speed of 40 feet to 30 feet, 50 feet to 35 feet, or 60 feet to 40 feet.
+
+### Baston Fighting Stick
+
+**Price** 10 gp; **Weight** 2 lbs.
+
+**Type** simple one-handed weapon; **Dmg (S)** 1d4; **Dmg (M)** 1d6; **Critical** ×2; **Damage Type** B; **Special** monk. These weapons are treated sticks of wood, either left bare or covered in elaborate decorative designs. Baston fighting sticks vary in length from 2 to 4 feet, with thicknesses varying between 1 to 3 inches. In most applications, these weapons are similar to clubs or quarterstaffs, but in the hands of a trained expert, they truly shine. A creature with the Combat Reflexes feat treats the weapon as having the blocking and performance weapon special features.
+
+### Reflex Bow
+
+**Price** 125 gp; **Weight** 2 lbs.
+
+**Type** martial ranged weapon; **Dmg (S)** 1d4; **Dmg (M)** 1d6; **Critical** ×3; **Range** 100 ft.; **Damage Type** P. These C-shaped bows are most often used by outriders on the open tundra. The unique shape and craft of these bows allows them to shoot with the same velocity and power as a longbow. The shorter size also allows them to be wielded easily while mounted on horseback (or atop any other steed). While mounted, you gain a +1 circumstance bonus on attack rolls with a reflex bow. All reflex bows are composite bows and can be modified to benefit from high Strength scores in the same way as composite bows. Effects that apply to both longbows and shortbows also apply to reflex bows.
+
+### Horse Bow
+
+**Price** 150 gp; **Weight** 3 lbs.
+
+**Type** exotic ranged weapon; **Dmg (S)** 1d6; **Dmg (M)** 1d8; **Critical** ×3; **Range** 110 ft.; **Damage Type** P. The horse bow functions like a composite longbow, but it is designed to be used on horseback. A rider using a horse bow can make ranged attacks while mounted; furthermore, she does not take a penalty to attack rolls when her mount is taking a double move action, and she takes only a –4 penalty on attack rolls when her mount is running. The price of this item is for a default horse bow; each point of Strength bonus granted by the horse bow adds 150 gp to its cost.
+
+### Horse Whip
+
+**Price** 5 gp; **Weight** 1 lb.
+
+A short whip with a leather loop at the end, this whip can be felt through a horse's armor but does not deal damage to the horse. A rider who uses a horse whip while using the Ride skill to spur her mount does not deal damage to the mount, as opposed to the 1d3 points of damage normally dealt by this action. Using a horse whip does not negate the fatigue that spurring a mount can cause.
+
+### Might Blight (poison)
+
+**Price** 60 gp; **Weight** —
+
+Ratfolk soldiers developed this poison to help them overtake foes. The poison produces lactic acids that slowly degrade the target's muscles, though for full efficacy, an exceptionally high dosage, repeated application, or a particularly feeble opponent is required. **Type** poison, injury; **Save** Fortitude DC 13; **Onset** 1 round; **Frequency** 1/round for 4 rounds; **Effect** 1 Str damage; **Cure** 2 consecutive saves.
+
+## Merchant Services
+
+### Commissioned Broadsheet
+
+**Price** Setup and proof print 50 gp; print run (500 broadsheets) 150 gp; **Weight** —
+
+It takes 2 to 4 weeks for printers reproducing large images or those who have only engraved-plate printing presses to prepare the plate for a commissioned broadsheet. Printers with movable-type printing presses can prepare a text-only broadsheet in as little as 4 hours. Once the setup is complete (which includes a proof print), the printer can produce up to 500 copies of the broadsheet daily (about 60 per hour). A commissioned broadsheet can be used to spread a rumor requiring the author to attempt any necessary skill checks. The author takes a –8 penalty on these checks because the broadsheet cannot provide vocal or nonverbal cues, but if he's successful, spreading the rumor takes only 1d4 days (or 1 day, if smaller than a small town). If the broadsheets are delivered by trained criers or others attempting to spread the rumor, use the propaganda check result of either the author or the crier (whichever is higher) with a +2 bonus. Most hirelings charge double, triple, or even as high as 10 times their normal price to hide the identity of their employer or if they feel they are putting themselves at risk socially by working for a particular client.
+
+### Hireling, Crier
+
+**Price** Untrained 3 sp per day; skilled 3 gp per day; trained 1 gp per day; masterful 10 gp per day; **Weight** —
+
+A crier can be hired to spread a rumor. An untrained crier usually has a +0 bonus on propaganda checks. A trained crier usually has a +5 bonus on propaganda checks. A skilled crier usually has a +10 bonus on propaganda checks. A masterful crier is rare and usually has a +12 bonus on propaganda checks. If they are available, multiple criers can be hired to spread a single rumor; they attempt a single propaganda check together and gain a +1 bonus for every doubling of their numbers (+1 for two, +2 for four, +3 for eight, +4 for 16, or a maximum of +5 for 32 criers).

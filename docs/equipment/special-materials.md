@@ -90,3 +90,28 @@ An advanced form of alchemical silver, sunsilver is a favorite of desert war smi
 
 Armor and weapons made of sunsilver are always masterwork. To determine the price of a sunsilver item, add 25 gp per pound to the price of a masterwork version of that item. Sunsilver has 10 hit points per inch of thickness and hardness 8.
 
+## Blackwood
+
+One of the lightest and toughest woods in the world, offering a measure of strength and natural waterproofing not found in other types of wood, blackwood is an increasingly rare commodity. Lumber and items made of blackwood are quite valuable and difficult to obtain.
+
+Any wooden or mostly wooden item (such as a bow or quarterstaff) made from blackwood is considered a masterwork item and weighs only half as much as a normal wooden item of that type. Items not normally made of wood or only partially of wood (such as a battleaxe, mace, or other metal item with a wooden haft) either cannot be made from blackwood or do not gain any special benefit. The armor check penalty of a blackwood shield is reduced by 2 compared to an ordinary shield of its type. When wielded against creatures with the water subtype, mundane blackwood weapons ignore 1 point of the creature's DR (if any), and enchanted blackwood weapons ignore a number of DR equal to 2 times the weapon's enhancement bonus.
+
+To determine the price of a blackwood item, use the original weight but add 20 gp per pound to the price of a masterwork version of that item. Blackwood has 10 hit points per inch of thickness and hardness 7.
+
+## Heatstone Plating
+
+Heatstone plating involves placing alchemically treated heatstones at strategic points within clothing or armor. A character wearing armor that has heatstone plating is constantly protected from cold weather as per the *endure elements* spell. Armor with heatstone plating weighs 1 additional pound for every 5 pounds of the armor's original weight (for example, a suit of leather armor with heatstone plating weighs 18 pounds). Heatstone plating cannot be sewn into heavy armor.
+
+| Type of Heatstone Plating Item | Item Price Modifier |
+|---|---|
+| Light armor | +800 gp |
+| Medium armor | +1,000 gp |
+
+## Liquid Glass
+
+This heatstone-derived glass is warm to the touch and slightly malleable, as if it were still liquid. A pliable nature allows this otherwise razor-sharp crystal to repair itself when it takes damage. An item made from liquid glass repairs damage to itself at a rate of 2 hit points per day, even if the weapon is broken or destroyed (but not if the weapon is destroyed in a way that the pieces cannot be retrieved, such as via *disintegrate*). If a weapon made from liquid glass has full hit points, it grants a +1 bonus on damage rolls. Items made from liquid glass have 10 hit points per inch of thickness and hardness 10.
+
+| Type of Liquid Glass Item | Item Price Modifier |
+|---|---|
+| Weapon | +800 gp |
+| Other items | +250 gp/lb. |

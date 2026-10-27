@@ -153,6 +153,8 @@ These traits are associated with combat, battle, and physical prowess. They give
 
 **Youthful Infiltrator**: You were trained from a young age to ambush the enemies of your order or organization, which makes you hard to trust for most outside your organization if they learn your affiliation. You gain a +1 trait bonus on attack rolls against flat-footed foes, as long as they have not seen you make an attack with this bonus before.
 
+**Crossing Veteran**: You've spent years aboard ships traveling a lucrative sea crossing, transporting exotic goods between distant coasts. You gain a +1 bonus on Profession (sailor) checks, and Profession (sailor) is a class skill for you. You also gain a +1 trait bonus on weapon damage rolls against creatures with the aquatic subtype.
+
 ## Faith Traits
 
 These traits rely upon conviction of spirit, perception, and religion, but are not directly tied to the worship of a specific deity. You do not need a patron deity to gain a faith trait, as these traits can represent conviction in yourself or your philosophy just as easily as they can represent dedication to a deity.
@@ -293,6 +295,8 @@ These traits rely upon conviction of spirit, perception, and religion, but are n
 
 **Zealous Striker**: Your zeal is a danger to those of “lesser” faiths. While you have the destruction judgment active, you gain a +1 trait bonus on damage rolls when attacking a foe who can cast divine spells and worships a different deity than you.
 
+**Canon of Coin**: You find the pursuit of earning money to be a religious experience. Appraise is a class skill for you. So long as you are carrying coins worth an amount equal to at least 100 gp per character level you have, you gain a +1 trait bonus on Will saves. This bonus increases to +2 against effects that would force you to discard, drop, or give away coins, gems, or trade goods in your possession.
+
 ## Magic Traits
 
 These traits are associated with magic and focus on spellcasting and manipulating magic. You don’t have to be a spellcaster to take a magic trait (although several of these traits aren’t useful to non-spellcasters). Magic traits can represent a character’s early exposure to magical effects or childhood studies of magic.
@@ -416,6 +420,8 @@ These traits are associated with magic and focus on spellcasting and manipulatin
 **Bountiful Herb-Lore**: Once per day after 10 minutes of foraging, you can sprinkle nutritious herbs into a magical consumable item (such as a *potion of cure light wounds*). If the item is consumed within 1 minute, it provides nourishment as if it were a normal meal to the creature that partakes of it.
 
 **Eye for the Wondrous**: Your experience with magic items clues you in to their properties more quickly than others. You can identify the properties of a magic item using *detect magic* in 1 round.
+
+**Eldritch Auditor**: You are a magically adept merchant who has learned tricks to protect your own goods, or you serve a city as an impartial auditor who guards against arcane trickery in the bazaars. You gain a +2 trait bonus on Spellcraft checks and Will saves to identify an item's true properties, such as against spells like *magic aura*.
 
 ## Social Traits
 
@@ -558,6 +564,12 @@ Social traits reflect your upbringing; your background in high society or lack t
 **Monster Scholar**: Your study of monsters keeps you well informed. Choose either Knowledge (arcana), Knowledge (dungeoneering), or Knowledge (nature). Whenever you succeed at a Knowledge check to identify a creature and its special powers—or vulnerabilities—with the chosen skill, you gain one additional piece of useful information (as if your skill check result had been 5 higher).
 
 **Monster Stalker**: You’ve been raised to hunt certain beasts. Choose either aberrations, animals, dragons, fey, magical beasts, oozes, or vermin. You gain a limited version of the scent ability (15 feet normal, 30 feet upwind, 5 feet downwind) that detects only your chosen creature type.
+
+**Cosmopolitan Upbringing**: You grew up in a great trading city, and as a child you learned trivia about people and places from all across the world. Choose Knowledge (geography), Knowledge (local), or Sense Motive; that skill is a class skill for you. In addition, you know one additional bonus language.
+
+**Frozen Caravaneer**: You are one of the brave travelers who have traversed a lucrative overland trade route across a frigid wasteland. These voyages have left you hardier, granting you a +1 trait bonus on Fortitude saving throws to resist the effects of cold weather. Survival is a class skill for you, and you gain one bonus language of your choice.
+
+**Unwelcome Business**: You specialize in delivering or procuring shipments where those commodities are not allowed or where your identity would elicit negative bias. You gain a +1 trait bonus on Disguise or Sleight of Hand checks, and that skill becomes a class skill for you. In addition, choose one humanoid species; you ignore the –2 penalty on Disguise checks to disguise yourself as a member of that species.
 
 ## Equipment Traits
 

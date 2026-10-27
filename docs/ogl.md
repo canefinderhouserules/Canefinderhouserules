@@ -217,3 +217,5 @@ The following text is the property of Wizards of the Coast, Inc. and is Copyrigh
     Pathfinder Player Companion: Magical Marketplace © 2013, Paizo Publishing, LLC; Authors: John Ling, Ron Lundeen, Patrick Renie, David Schwartz, and Jerome Virnich.
 
     Pathfinder Player Companion: Black Markets © 2015, Paizo Inc.; Authors: Ron Lundeen, Jason Nelson, David N. Ross, and David Schwartz.
+
+    Pathfinder Player Companion: Merchant’s Manifest © 2018, Paizo Inc.; Authors: John Compton, Eleanor Ferron, Thurston Hillman, Nathan King, Isabelle Lee, Jacob W. Michaels, Adrian Ng, David N. Ross, and Mike Welham.

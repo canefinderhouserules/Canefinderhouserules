@@ -108,6 +108,24 @@ The cavalier can use this ability one additional time per day at 12th level and 
 
 When taking the total defense action, the cavalier can extend his protection to those around him, granting a +2 circumstance bonus to AC to all adjacent allies. In addition, while taking the total defense action, as an immediate action, the cavalier can attempt to deflect an attack by making an attack roll opposed by the attacker’s original attack roll. If successful, the attack is deflected and deals no damage.
 
+### Order of the Reins
+
+The cavaliers of the order of the reins hold a strong rapport not just with their mounts, but with all tamed and domesticated animals. From camels and horses to teams of sled dogs, these cavaliers hold themselves honor-bound to protect these creatures for their labor and loyalty. Cavaliers of the order of the reins often serve as the commanders of caravans or other expeditions, using their unique skills to ensure that the caravan and its wares safely reach their intended markets.
+
+**Edicts**: The cavalier must do everything in his power to keep a caravan or traveling group safe once he has agreed to protect it. He must see that any allied animal injured under his watch is healed, or personally give it a merciful death if survival is not an option. He must not let any animal under his command suffer needlessly.
+
+**Challenge**: Whenever an order of the reins cavalier issues a challenge, all allied animals, animal companions, familiars, and mounts within 60 feet gain a +1 bonus on attack rolls and a +2 bonus to AC against the target. This bonus increases by 1 for every additional 4 levels the cavalier has.
+
+**Skills**: An order of the reins cavalier adds Appraise and Perception to his list of class skills. Any animal that the cavalier is riding can use the cavalier's Handle Animal modifier in place of its own Acrobatics and Swim skill modifiers as long as the cavalier is mounted on it.
+
+**Order Abilities**: A cavalier belonging to the order of the reins gains the following abilities as he increases in level.
+
+**Control the Herd (Ex)**: At 2nd level, the cavalier can direct multiple animals with one forceful command. The cavalier can handle a number of nonhostile, riderless animals equal to his cavalier level with a single use of the Handle Animal skill, so long as the commanded animals can see or hear the cavalier. The handled animals must all be ordered to perform the same trick. If an animal in the group does not know the trick the cavalier is commanding them to perform, the cavalier is considered to be pushing that animal. The cavalier cannot use this ability on animals more than two size categories smaller than he is. Using this ability requires a move action, though if the cavalier is pushing any animal as described above, it requires a full-round action.
+
+**Teamwork Tricks (Ex)**: At 8th level as a free action, the cavalier can use control the herd to handle allied and riderless animals and animal companions. Friendly and helpful animals that the cavalier commands with Handle Animal or his control the herd ability are considered to know any tasks or tricks the cavalier's mount knows, in addition to any tasks or tricks they already know.
+
+**Stampede (Ex)**: At 15th level, as a standard action, the cavalier can incite any riderless and nonhostile animals and animal companions within 60 feet of him to stampede. Each affected creature gains a +4 bonus to AC (this bonus stacks with the benefits of the cavalier's challenge), the trample universal monster rule, and a bonus to damage equal to half the cavalier's level for 1 round. The save DC against an incited animal's trample attack is 10 + half the cavalier's level + his Charisma modifier. Incited creatures attack whatever targets the cavalier directs them to unless commanded otherwise by a bonded master (in the case of a familiar or animal companion).
+
 ### Order of the Scales
 
 Members of this cavalier order serve the cause of legal integrity. Many order of the scales cavaliers track and apprehend fleeing lawbreakers so that these vagrants may answer for their crimes and make good on their debts. They often serve as judges or stakeholders, and work to ensure that wherever a bargain is made—whether it is monetary, a life debt, or an oath to be upheld—both ends make good on their promises.

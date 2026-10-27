@@ -140,6 +140,20 @@ In order to perform this masterpiece, you must be holding a spellbook, scroll, o
 
 **Action**: 1 hour of meditation.
 
+### Lingering Leitmotif (Oratory, Sing)
+
+Your clever turn of words or catchy musical jingle sticks in people's heads long after they have heard it.
+
+**Prerequisite**: Perform (sing) or Perform (oratory) 4 ranks.
+
+**Cost**: Feat or 2nd-level bard spell known.
+
+**Effect**: You sing or chant simple phrases or a distinctive series of notes that you associate with a specific trade good or service. While you perform these jingles, allies within 30 feet are affected by this performance's effects and are treated as being affected by your inspire confidence bardic performance. Furthermore, if an affected creature purchases the associated good or service, that creature immediately gains a number of temporary hit points equal to half your bard level.
+
+**Use**: 3 bardic performance rounds, plus 1 round per additional person affected.
+
+**Activation**: 1 standard action.
+
 ### Pageant of the Peacock (Act, Dance)
 
 Your elegant movements cause you to seem to be more than you are.
@@ -195,6 +209,20 @@ You recite inspirational lines from an epic poem commemorating a final stand, ke
 **Use**: 2 bardic performance rounds per round.
 
 **Action**: 1 full round.
+
+### Song of the Stonebearers (Percussion, Sing)
+
+This working song consists of a strong rhythm and bone-shaking drum beats.
+
+**Prerequisite**: Perform (sing) or Perform (percussion) 7 ranks.
+
+**Cost**: Feat or 3rd-level bard spell known.
+
+**Effect**: By singing or beating a drum, you set up a good rhythm for manual labor, helping those who hear it push against the limits of their strength more easily. Up to one creature per bard level that can see and hear you can ignore the effects of encumbrance and armor on its skill checks and movement while you engage in this performance. This does not allow affected creatures to exceed their maximum carrying capacity.
+
+**Use**: 2 bardic performance rounds per creature for every 10 minutes of duration.
+
+**Activation**: 1 minute.
 
 ### Spiraling Ascent (Act, Dance)
 
