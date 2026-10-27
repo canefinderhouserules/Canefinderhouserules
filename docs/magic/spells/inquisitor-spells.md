@@ -35,6 +35,7 @@ New inquisitor spells from *Ultimate Magic*. Spells from other books will be add
 - **[Hobble](hobble.md)**: Halve the movement speed of several creatures
 - **[Horn of Pursuit](horn-of-pursuit.md)**: Create three notes heard miles away.
 - **[Identity Validation](identity-validation.md)**: Confirm a creature’s identity from a sample.
+- **[Instant Clot](instant-clot.md)**: end bleeding and stop blood flowing from wounds
 - **[Instant Portrait](instant-portrait.md)**: Paint a quick monochrome portrait.
 - **[Interrogation](interrogation.md)**: Target answers questions or suffers pain.
 - **[Itching Curse](itching-curse.md)**: Itch gives –1 penalty unless scratched.

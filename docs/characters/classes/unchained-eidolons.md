@@ -355,6 +355,16 @@ At 16th level, a twinned eidolon gains the skilled evolution and the ability inc
 
 At 20th level, a twinned eidolon gains fast healing 5.
 
+### Deepwater
+
+The vast, lightless reaches of the sea are home to creatures of unimaginable power with connections to dangerous planes. A few rare summoners attempt to conjure forth eidolons from these cold, alien depths, drawing forth utterly inhuman allies with squirming tentacles and gnashing beaks. Although these eidolons may superficially resemble primeval beasts such as aboleths, krakens, or monstrous squids or eels—if they resemble any previously encountered deep-sea life-form at all—they are outsiders like any other eidolon for the purposes of spells and effects that affect them.
+
+**Alignment**: Chaotic evil, chaotic neutral, neutral, or neutral evil.
+
+**Base Form**: Serpentine (bite, grab [tail slap], reach [tail slap], tail, tail slap).
+
+**Base Evolutions**: Starting at 1st level, deepwater eidolons gain the gills, resistance (cold), and swim evolutions. At 4th level, deepwater eidolons gain the jet ability at a speed of 200 feet and increase the range of their darkvision to 120 feet. At 8th level, deepwater eidolons gain the poison evolution for all tail slap and tentacle attacks, although the poison can be used only once per round. The summoner can spend 2 evolution points to make this poison deal Constitution damage instead of Strength damage, as normal for the poison evolution. At 12th level, deepwater eidolons gain DR 5/magic. They also gain the rend evolution for tentacle attacks rather than claw attacks. At 16th level, deepwater eidolons lose the resistance (cold) evolution and instead gain the immunity (cold) evolution. At 20th level, deepwater eidolons gain constant *freedom of movement* and fast healing 5.
+
 ## Base Forms
 
 Each eidolon has one of three base forms that determines its starting size, speed, AC, attacks, and ability scores. All natural attacks are made using the eidolon’s full base attack bonus unless otherwise noted (such as in the case of secondary attacks). An eidolon’s attacks add the eidolon’s Strength modifier to the damage rolls, unless the eidolon has only one attack, in which case the attack adds 1-1/2 times the eidolon’s Strength modifier.

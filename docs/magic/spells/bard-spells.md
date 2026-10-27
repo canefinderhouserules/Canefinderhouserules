@@ -77,6 +77,7 @@
 - **[Illusory Crowd](illusory-crowd.md)**: Illusory stationary crowd.
 - **[Implant Urge](implant-urge.md)**: A target unconsciously desires a goal you choose.
 - **[Incessant Buzzing](incessant-buzzing.md)**: Illusory wasp swarm disrupts concentration
+- **[Instant Clot](instant-clot.md)**: end bleeding and stop blood flowing from wounds
 - **[Instant Portrait](instant-portrait.md)**: Paint a quick monochrome portrait.
 - **[Itching Curse](itching-curse.md)**: Itch gives –1 penalty unless scratched.
 - **[Jitterbugs](jitterbugs.md)**: School illusion (figment) [mind-affecting]; Level bard 1, sorcerer/wizard 2 Casting Time 1 standard action.
@@ -116,6 +117,7 @@
 - **[Speak Local Language](speak-local-language.md)**: Speak and understand one known regional human language.
 - **[Spirit Share](spirit-share.md)**: Deliver a drink or potion by touch
 - **[Summon Monster I](summon-monster-i.md)**: Summons extraplanar creature to fight for you.
+- **[Suspend Drowning](suspend-drowning.md)**: temporarily stop drowning
 - **[Tamer’s Lash](tamers-lash.md)**: Create a whip made of sound that damages foes and can frighten animals.
 - **[Tap Inner Beauty](tap-inner-beauty.md)**: +2 insight bonus on Charisma checks.
 - **[Tears to Wine](tears-to-wine.md)**: Turn liquids into wine that sharpens the mind.
@@ -374,6 +376,7 @@
 - **[Sequester Thoughts](sequester-thoughts.md)**: Store a creature’s memories in a gem.
 - **[Shadow Enchantment](shadow-enchantment.md)**: Quasi-real enchantment of 2nd level or lower.
 - **[Shifting Shadows](shifting-shadows.md)**: Shadows make flanking and attacks of opportunity unreliable.
+- **[Silt Sphere](silt-sphere.md)**: illusory silt cloud that grants concealment
 - **[Slow](slow.md)**: One subject/level takes only one action/round, –1 to AC, Reflex saves, and attack rolls.
 - **[Speak with Animals](speak-with-animals.md)**: You can communicate with animals.
 - **[Stage Fright](stage-fright.md)**: Targets take –4 on ability, skill, and concentration checks.
@@ -468,6 +471,7 @@
 ## 5th-Level Bard Spells
 
 - **[Archon’s Trumpet](archons-trumpet.md)**: Paralyze creatures in a cone with a booming report.
+- **[Arid Refuge](arid-refuge.md)**: conjure an air-filled stone shelter underwater
 - **[Befuddled Combatant](befuddled-combatant.md)**: Reduces a target’s ability DCs by 4 and its damage to minimum.
 - **[Bladed Dash, Greater](bladed-dash-greater.md)**: Dash 30 feet and attack all foes along the way.
 - **[Callback, Greater](callback-greater.md)**: Teleport a familiar or spirit animal from miles away to your side when it is injured.

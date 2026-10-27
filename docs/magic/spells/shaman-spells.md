@@ -66,6 +66,7 @@ Shamans gain access to the following spells. Spells in plain text come from othe
 - **[Illusory Crowd](illusory-crowd.md)**: Illusory stationary crowd.
 - **[Incessant Buzzing](incessant-buzzing.md)**: Illusory wasp swarm disrupts concentration
 - **[Inflict Light Wounds](inflict-light-wounds.md)**: Touch deals 1d8 damage +1/level (max +5).
+- **[Instant Clot](instant-clot.md)**: end bleeding and stop blood flowing from wounds
 - **[Itching Curse](itching-curse.md)**: Itch gives –1 penalty unless scratched.
 - **[Knot of Fate](knot-of-fate.md)**: Next attack against you takes –10; crits become normal hits.
 - **[Linked Legacy](linked-legacy.md)**: Share Knowledge check results with the linked creatures.

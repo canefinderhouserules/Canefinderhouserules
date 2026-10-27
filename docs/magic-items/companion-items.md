@@ -2887,3 +2887,45 @@ This pale leather vest's surface is decorated with a web of vein-like ridges. On
 Commonly created by druidic nature-faiths, this type of +1 *greenwood club* is made from knotted wood, is covered in thorns and vines, and looks as though it is still alive. Twice per day when the wielder hits a target with a warden's cudgel, vines, leaves, and roots instantly grow from the target's square in a 15-foot radius. These plants remain for 1 minute and are treated as difficult terrain and natural plant growth for the purposes of the woodland stride class feature. If the area already has brush and trees in it, the plants in the affected area instead grow as the overgrowth version of *plant growth*.
 
 **Construction Requirements:** Craft Wondrous Item, *plant growth*; **Cost** 6,150 gp
+
+## Wonders of the Sea
+
+### Cloak of Eternal Mist
+
+**Slot** shoulders; **CL** 3rd; **Price** 3,600 gp; **Weight** 1 lb.
+
+**Aura** faint conjuration
+
+Cool, damp mist constantly emanates from beneath this billowing, floor-length cloak. The cloak's wearer gains a +4 bonus on Stealth checks in fog or mist. Furthermore, the cloak's wearer is treated as being submerged in water for purposes of racial water dependency. If the cloak's wearer does not move in a given round (and is not otherwise moved, such as when the wearer is on a moving ship or wagon or subject to a successful bull rush combat maneuver), she gains concealment at the end of her turn. The concealment lasts until the wearer moves from her position.
+
+**Construction Requirements:** Craft Wondrous Item, *create water*, *obscuring mist*; **Cost** 1,800 gp
+
+### Crystal Helm
+
+**Slot** head; **CL** 5th; **Price** 24,000 gp; **Weight** 3 lbs.
+
+**Aura** faint transmutation
+
+This clear, spherical helm resembles a giant bowl the wearer inverts over his head. Donning or removing the crystal helm requires a standard action, as an invisible magical film stretches across the opening of the bowl. If a creature dons a crystal helm on land, it immediately fills with salt water. If a creature dons a crystal helm underwater, it immediately fills with air. So long as the bearer can breathe water or air, respectively, the crystal helm allows the wearer to breathe normally. The contents of a crystal helm constantly replenish and do not leak out of the bowl. A creature that dons the crystal helm without knowing its power may be in for a shock.
+
+**Construction Requirements:** Craft Wondrous Item, *air breathing*, *water breathing*; **Cost** 12,000 gp
+
+### Familiar Bubble
+
+**Slot** none; **CL** 3rd; **Price** 2,500 gp; **Weight** 1 lb.
+
+**Aura** faint conjuration
+
+A familiar bubble looks like nothing more than a pair of reinforced leather straps designed to fit over the shoulders—until it is worn. Once the straps are donned, a bubble of force forms on the wearer's back, large enough to hold a Tiny or smaller creature and 1 pound of items (usually food for the creature). The bubble is transparent and continuously generates fresh, breathable air within. While the bubble keeps air in and water out, it is permeable to other objects. Spells and weapons can target the creature in the familiar bubble normally. As a standard action, the familiar bubble's user can designate a specific creature within 30 feet that can pass freely in and out of the bubble. All other living creatures find the bubble impenetrable. This selection remains until the wearer chooses a different creature or removes the familiar bubble (which causes the bubble to disappear). Normally, the user selects a creature in order to get it into the bubble and then selects himself so he can retrieve the creature, if needed.
+
+**Construction Requirements:** Craft Wondrous Item, *air bubble*; **Cost** 1,250 gp
+
+### Shimmering Kilt
+
+**Slot** body; **CL** 10th; **Price** 25,200 gp; **Weight** 2 lbs.
+
+**Aura** moderate illusion and transmutation
+
+This iridescent kilt seems stitched together from thousands of tiny scales. When an aquatic creature with a tail dons the shimmering kilt, her tail transforms into legs and feet, allowing her to walk on land. The wearer loses her swim speed but gains a base land speed of 30 feet (or 20 feet if the wearer is Small or smaller). This transformation lasts until the shimmering kilt is removed. As a standard action, the wearer can cause the shimmering kilt to take on the appearance of any suitable garb that covers the legs, such as trousers or a long skirt. The shimmering kilt retains all its properties, including its weight, when so disguised. Only *true seeing* or similar magic reveals the true nature of the shimmering kilt when it is disguised.
+
+**Construction Requirements:** Craft Wondrous Item, *disguise self*, *fins to feet*; **Cost** 12,600 gp

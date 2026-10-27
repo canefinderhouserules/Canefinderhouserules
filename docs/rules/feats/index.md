@@ -1478,8 +1478,10 @@ The style feats presented in this book are suited to urban settings. Each style 
 
 | Feat | Type | Prerequisites |
 |---|---|---|
+| [Aberration-Bane Caster](aberration-bane-caster.md) | — | Caster level 4th, gillman, favored enemy (aberrations) class feature |
 | [Abeyance](abeyance.md) | Blood Hex | Int 13, Spellcraft 5 ranks, Use Magic Device 1 rank |
 | [Ability Mastery](ability-mastery.md) | Item Mastery | Use Magic Device 3 ranks, base Fortitude saving throw bonus +4 |
+| [Aboleth Deceiver](aboleth-deceiver.md) | — | Iron Will, gillman, enchantment resistance racial trait |
 | [Accomplished Sneak Attacker](accomplished-sneak-attacker.md) | — | Sneak attack class feature |
 | [Ace Disarm](ace-disarm.md) | Targeting, Weapon Mastery | Dex 13, Deadly Aim, Ranged Disarm, base attack bonus +6, weapon training class feature with a ranged weapon |
 | [Ace Trip](ace-trip.md) | Targeting, Weapon Mastery | Dex 13, Deadly Aim, Ranged Trip, base attack bonus +6, weapon training class feature with a ranged weapon |
@@ -1491,6 +1493,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Agile Maiden](agile-maiden.md) | Combat | Str 13, Dex 13, Endurance or armor training, heavy armor proficiency |
 | [Alchemical Strike](alchemical-strike.md) | Combat | Throw Anything, base attack bonus +6 |
 | [Align Equipment](align-equipment.md) | General | Alignment Channel, Bless Equipment, caster level 3rd, channel energy class feature |
+| [Ally Caller](ally-caller.md) | — | Triton, *summon nature's ally II* spell-like ability, character level 3rd |
 | [Ambuscading Spell](ambuscading-spell.md) | — | — |
 | [Ambush Sense](ambush-sense.md) | Combat | Int 13, trap sense class feature |
 | [Ambush Squad](ambush-squad.md) | Combat, Teamwork | Base attack bonus +1, kobold |
@@ -1502,9 +1505,11 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Angelbane Strike](angelbane-strike.md) | — | Channel Smite, divine caster level 5th, channel negative energy class feature, evil patron deity |
 | [Animal Ally](animal-ally.md) | — | Nature Soul, character level 4th, must not have an animal companion or mount that advances as an animal companion |
 | [Anti-Divine Assault](anti-divine-assault.md) | Combat | Bluff 1 rank, Knowledge (religion) 1 rank, must have been trained to oppose divine servitors |
+| [Aphotic Explorer](aphotic-explorer.md) | — | Endurance, gillman |
 | [Apocalyptic Spell](apocalyptic-spell.md) | Metamagic | — |
 | [Aquatic Adaptation](aquatic-adaptation.md) | — | Hold breath |
 | [Aquatic Advantage](aquatic-advantage.md) | — | Combat Reflexes, must have a natural swim speed |
+| [Aquatic Squires](aquatic-squires.md) | — | Triton, *summon nature's ally II* spell-like ability, character level 5th |
 | [Arcane Insight](arcane-insight.md) | — | Arcane Shield, arcane spellcaster, caster level 10th, worshiper of a deity of magic |
 | [Arcane Trap Suppressor](arcane-trap-suppressor.md) | — | Ability to cast dispel magic |
 | [Archon Diversion](archon-diversion.md) | Combat | [Archon Style](archon-style.md), Combat Expertise, Combat Reflexes, base attack bonus +4 or monk level 3rd |
@@ -1608,6 +1613,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Cat and Mouse](cat-and-mouse.md) | Combat | Bluff 5 ranks, Sense Motive 5 ranks, opportune parry and riposte deed |
 | [Cataract](cataract.md) | Blood Hex | Int 13, Perception 5 ranks, Use Magic Device 1 rank |
 | [Cat’s Fall](cat-s-fall.md) | — | Dex 13, Acrobatics 1 rank |
+| [Cecaelia Focus Tattoo](cecaelia-focus-tattoo.md) | — | Cecaelia |
 | [Centered Spell](centered-spell.md) | Metamagic | Spellcraft 3 ranks |
 | [Chain Challenge](chain-challenge.md) | — | Challenge class feature, character level 7th |
 | [Chairbreaker](chairbreaker.md) | Combat | Catch Off-Guard, base attack bonus +1 |
@@ -1798,6 +1804,9 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Eerily Centered](eerily-centered.md) | General | Bleachling racial trait, gnome |
 | [Eldritch Aid](eldritch-aid.md) | — | Caster level 1st |
 | [Eldritch Assault](eldritch-assault.md) | — | Blind-Fight, Improved Initiative |
+| [Electric Eel Conduit](electric-eel-conduit.md) | Combat, Style | Wis 17, Electric Eel Shock, Electric Eel Style, Elemental Fist, Improved Unarmed Strike, base attack bonus +13 or monk level 9th |
+| [Electric Eel Shock](electric-eel-shock.md) | Combat, Style | Wis 15, Electric Eel Style, Elemental Fist, Improved Unarmed Strike, base attack bonus +11 or monk level 7th |
+| [Electric Eel Style](electric-eel-style.md) | Combat, Style | Wis 13, Elemental Fist, Improved Unarmed Strike, base attack bonus +9 or monk level 5th |
 | [Elemental Discipline Style](elemental-discipline-style.md) | Combat, Style | Wis 13, base attack bonus +5 or monk level 5th |
 | [Elemental Knowledge](elemental-knowledge.md) | — | Expanded element class feature |
 | [Elemental Overload](elemental-overload.md) | — | Elemental overflow class feature, kineticist level 15th |
@@ -2436,6 +2445,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Sure on Ice](sure-on-ice.md) | — | Frost giant |
 | [Sure-Footed](sure-footed.md) | — | Quadruped animal or magical beast |
 | [Sure-Handed Alchemy](sure-handed-alchemy.md) | — | Craft (alchemy) 3 ranks |
+| [Surface Survivor](surface-survivor.md) | — | Con 15, gillman, water dependent racial trait |
 | [Surprising Combatant](surprising-combatant.md) | Combat | Improved Initiative, Bluff 3 ranks |
 | [Swap Trick](swap-trick.md) | Trick | Mesmerist tricks class feature |
 | [Swarm Scatter](swarm-scatter.md) | Teamwork | — |

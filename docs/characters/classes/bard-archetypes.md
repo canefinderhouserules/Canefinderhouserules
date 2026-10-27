@@ -68,6 +68,20 @@ This poem of sadness and longing was developed by a bard seeking a way to fight 
 
 **Action**: 1 full round.
 
+### Dirge of the Torn Sail (Sing, String)
+
+Your ominous refrain warns away those who would trespass in your domain.
+
+**Prerequisites**: Perform (sing) or Perform (string instruments) 7 ranks.
+
+**Cost**: Feat or 2nd-level spell known.
+
+**Effect**: Your song warns of the terrible fate awaiting anyone entering your territory. All creatures within 30 feet who can hear your performance must succeed at a Will saving throw or be compelled to flee from you, as per *greater command*. For creatures on a ship, this effect means taking efforts to alter course and sail away. An affected creature continues its efforts for as long as the performance continues, and it reacts with violence to anyone attempting to prevent it from fleeing. Abilities that extend the duration of a bardic performance (such as Lingering Performance) affect this masterpiece.
+
+**Use**: 1 bardic performance round per round.
+
+**Action**: 1 standard action.
+
 ### Exhilarating Prayer of Grace (Dance)
 
 You lead your audience through a series of stretches and exercises designed to warm the muscles and increase blood circulation.
@@ -441,6 +455,20 @@ This elaborate arrangement for traditional elven instruments evokes the legendar
 **Effect**: All allies within 30 feet become immune to one of the following (your choice) while they can hear your performance: charm effects, the dazed condition, fear effects, magical sleep, paralysis, the staggered condition, or the stunned condition. You must choose the condition before activating the performance and can’t change your choice during the performance. If any affected ally currently has the chosen condition, she can attempt a new saving throw against it each round she can hear your song. Success on this saving throw has its usual benefit, but failure has no effect at all. This performance relies on audible components.
 
 **Use**: 1 bardic performance round per round.
+
+**Action**: 1 full round.
+
+### The Sea Is Now My Sky (Sing, String)
+
+Your thrilling tune causes you and your allies to fly through the water as easily as a bird soars through the air.
+
+**Prerequisites**: Perform (sing) or Perform (string instruments) 9 ranks.
+
+**Cost**: Feat or 3rd-level bard spell known.
+
+**Effect**: You and a number of allies (up to one creature per bard level) who can see and hear you gain a swim speed of 40 feet and a bonus on Swim checks equal to half your caster level. When using this masterpiece for long-distance travel, you and your affected allies can hustle without taking nonlethal damage (a forced march still requires Constitution checks). This means you and affected allies can cover 8 miles underwater in an hour of swimming. If an ally can no longer see or hear you, she loses this benefit.
+
+**Use**: 1 round of bardic performance per creature affected for each hour of the effect's duration.
 
 **Action**: 1 full round.
 

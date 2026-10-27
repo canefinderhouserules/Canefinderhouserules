@@ -641,3 +641,27 @@ Some divine servants take on the role of dealing out unique punishments on behal
 **Curser (Ex)**: A divine scourge must take the curse subdomain as a domain, regardless of the actual domains offered by her deity. The divine scourge does not receive a second domain. This ability alters domains.
 
 **Divine Hexes**: At 3rd level and every 4 cleric levels thereafter, a divine scourge can select the following hexes from the witch class hex list, up to a maximum of five hexes at 19th level: blight, cursed wound, evil eye, misfortune, scar, slumber, and unnerve beasts. At 11th level, a divine scourge can instead select from the following list of major hexes: agony, hoarfrost, infected wounds, nightmares, and retribution. The divine scourge uses her Wisdom modifier instead of her Intelligence modifier to determine the save DCs of her hexes. Any hex that refers to using her Intelligence modifier to determine its duration or effect instead uses her Charisma modifier for that purpose. This ability replaces channel energy.
+
+## Crashing Wave
+
+Some clerics revere their deity as the embodiment of nature and the incarnation of wind and waves. Clerics who live in or near the sea sometimes embrace the watery aspect of their deity over its other dimensions and take the title of crashing wave. In aquatic communities, a crashing wave is often a healer and spiritual leader. Such clerics understand the tempestuousness and cruelty of the sea, but also its generosity and bounty.
+
+**Sworn to the Sea**: A crashing wave must worship a deity of nature, wind, and waves.
+
+**Speech of the Sea**: A crashing wave's bonus language options include Aquan in addition to the bonus languages available to the character from her race. The crashing wave does not gain Abyssal, Celestial, or Infernal as bonus language options. This ability alters bonus languages.
+
+**Balanced Channel (Su)**: At 1st level, a crashing wave can channel the pure balance of the ocean—its wildness, its calm, its cruelty, and its gentleness. This energy can be used to harm or heal creatures, as the crashing wave chooses. Channeling this energy causes a 30-foot-radius burst centered on the cleric. Using balanced channel is a standard action that does not provoke attacks of opportunity. A crashing wave can choose whether to include herself in the effect. The cleric must be able to present her holy symbol to use this ability, and she can channel energy a number of times equal to 3 + her Charisma modifier. If the crashing wave chooses to harm, creatures within the burst that are chaotic good, chaotic evil, lawful good, or lawful evil take 1d6 points of damage plus 1d6 points of damage for every 2 levels the cleric has beyond 1st (2d6 at 3rd, 3d6 at 5th, and so on). Creatures with a neutral alignment component are unaffected by this energy. Creatures that take damage from the channeled energy can attempt a Fortitude save (DC = 10 + half the crashing wave's level + her Charisma modifier) for half damage. This damage is neither negative nor positive energy, so a creature's resistance to positive or negative energy does not reduce this damage. (However, resistance to channeled energy in particular, such as that provided by channel resistance, applies normally.) If the crashing wave chooses to heal, creatures within the burst that have any neutral alignment component are healed 1d6 points of damage plus 1d6 points of damage for every 2 levels the cleric has beyond 1st (2d6 at 3rd, 3d6 at 5th, and so on). This healing does not affect creatures that are chaotic good, chaotic evil, lawful good, or lawful evil. This healing is positive energy, so any creatures not healed by positive energy (such as undead) receive no healing from this effect, even if they have a neutral alignment. This ability replaces channel energy.
+
+**Spontaneous Casting**: A crashing wave does not gain the ability to spontaneously cast cure or inflict spells by sacrificing prepared spells. However, a crashing wave can spontaneously cast the following spells by sacrificing a prepared spell of the noted level or higher. This ability alters spontaneous casting.
+
+| Spell Level | Spontaneous Spell |
+|---|---|
+| 1st | *bless water* |
+| 2nd | *slipstream* |
+| 3rd | *water breathing* |
+| 4th | *control water* |
+| 5th | *geyser* |
+| 6th | *fluid form* |
+| 7th | *elemental body IV* (water only) |
+| 8th | *seamantle* |
+| 9th | *elemental swarm* (water only) |

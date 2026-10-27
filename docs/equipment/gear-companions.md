@@ -1663,3 +1663,95 @@ This porter has an almond aftertaste and enhances dwarven resistance to poison. 
 **Price** 1 gp (pint)
 
 This light ale, a rarity among dwarven beers, extends the range of your darkvision by 1d3 × 5 feet (varying from batch to batch, and even from person to person) for 1 hour, making it a favorite among warriors who stand watch in the deepest, darkest halls.
+
+## Gear of the Sea
+
+### Aquatic Harness
+
+**Price** 10 gp (Medium) or 20 gp (Large); **Weight** 2 lbs. (Medium) or 3 lbs. (Large)
+
+This waxed leather harness is designed to withstand submersion and is adjustable to fit dolphins, giant eels, giant seahorses, and other aquatic mounts. Undersea races without access to leather often use harnesses woven from special kelp, which has the same price.
+
+### Artificial Gills
+
+**Price** 50 gp; **Weight** 15 lbs.
+
+Flexible tubes connect a hand pump and a breathing mask to this reinforced leather backpack. When the hand pump is pressed, the artificial gills draw in oxygen from the surrounding water and feed it through the mask, allowing the wearer to breathe underwater for extended periods of time. The hand pump must be regularly depressed, requiring you to have a free hand and use a move action each round. If you do not squeeze the hand pump in a round, you must hold your breath or begin to suffocate. Artificial gills eventually become clogged with particulates and must be disassembled and cleaned after 1 hour of being submerged, although this time can be dramatically shortened by murky or polluted water. Artificial gills provide no protection against temperature dangers or pressure damage in the open seas. If artificial gills are submerged more than 100 feet below the surface, they take 1d6 points of damage per round until they are either brought into shallower water or they rupture from the pressure. Artificial gills have a hardness of 0, 10 hit points, and a break DC of 30.
+
+### Blood Neutralizer
+
+**Price** 25 gp; **Weight** 1 lb.
+
+When you release this vial of alchemical particles into the water as a standard action, the particles immediately neutralize the scent of exposed blood within 20 feet, rendering the blood undetectable by scent (to a hunting shark, for example). Blood neutralizer has no effect on any blood that enters the area after the particles have been used. Blood neutralizer can be crafted with a successful DC 25 Craft (alchemy) skill check.
+
+### Click-Claw
+
+**Price** 2 gp; **Weight** —
+
+This small metallic device resembles a crab's claw. When the item is pinched and released, friction on the claw's inner surface creates a loud clicking noise that carries up to a half mile underwater. The intensity of the sound decreases as the click passes through water, providing a listener familiar with the sound a general sense of the distance and direction of the noise's origin (Perception DC 0, +1 per 100 feet between the click-claw and the listener). Click-claws are particularly useful for keeping a group together in murky water, and many undersea animal handlers train their animals to respond to the noise.
+
+### Ink, Bioluminescent
+
+**Price** 32 gp; **Weight** —
+
+Extracted from bioluminescent jellyfish, plankton, and other marine organisms that glow in the ocean's depths, this ink is refined in a process that makes the ink stable and long lasting. This colorful ink glows gently like a candle, so it is easier to discern any writing at a distance, especially in the dark. The ink's glow lasts for about 1 year, after which time the writing remains colorful but no longer glows. Bioluminescent ink is typically stored in a waterproof bladder.
+
+### Land Limbs
+
+**Price** 10 gp; **Weight** 4 lbs.
+
+These two sturdy walking staves are topped with padded cradles that fit under the arm. Aquatic creatures with slow land speeds, such as merfolk or tritons, use land limbs to improve their locomotion while out of the water. Using land limbs increases your base land speed by 15 feet (to a maximum of 20 feet) and requires two free hands. You can remain stationary and balance your weight on land limbs to use your hands normally (such as to draw and hurl a javelin or to open a door), but you cannot move with the land limbs again without freeing your hands. If your race provides immunity to trip attacks, you lose this immunity while moving with or balancing on land limbs.
+
+### Lifting Bag
+
+**Price** 3 gp; **Weight** 42 lbs.
+
+This air-filled leather or organ bladder ends in a trailing rope weighed down with a 40-pound stone or piece of metal. The weight is just heavy enough to counteract the bladder's buoyancy and cause it to sink. When the rope is cut free from the weight and tied to an object weighing less than 40 pounds, the lifting bag rises to the surface with its cargo (the lighter the cargo, the faster the ascent). Lifting bags collapse under too much pressure and are destroyed if brought to a depth greater than 200 feet.
+
+### Marine Rope
+
+**Price** 10 gp (treated hemp) or 20 gp (woven kelp); **Weight** 12 lbs. (treated hemp) or 5 lbs. (woven kelp)
+
+Rope used by surface dwellers breaks down when submerged for long periods, so undersea dwellers make use of rope designed to withstand their environment. Treated hemp rope is usually created by surfacers in the same manner as hemp rope, but it is infused with beeswax or linseed oil to preserve its integrity underwater. This rope is therefore only commonly used by underwater races that trade with land dwellers on a regular basis. Woven kelp rope is crafted from specially grown seaweed by undersea communities and is much more common in insular or deepwater communities. Both types of marine rope are sold in 50-foot lengths. Treated hemp has 2 hit points and can be broken with a DC 23 Strength check. Woven kelp has 3 hit points and can be broken with a DC 24 Strength check.
+
+### Paper, Underwater (Sheet)
+
+**Price** 6 sp; **Weight** —
+
+Not all underwater creatures use sight as their primary means of reading text, so underwater paper is significantly thicker than surface paper, allowing the writer to carve the letters into the sheet. This lets creatures with blindsight see the textured writing from afar as well as allowing others to read it by touch, or sometimes from a short distance if they have unusually precise tremorsense. For underwater societies where vision is more prominent, the writer can fill the carved grooves with colorful ink (and potentially bioluminescent ink) and then adhere a transparent waterproof sheet on top to prevent the ink from washing away. This transparent sheet costs an additional 4 sp.
+
+### Pen, Underwater
+
+**Price** 6 sp; **Weight** —
+
+Underwater pens fill the grooves carved into underwater paper with ink; as such, they work somewhat like a syringe, drawing ink from a waterproof bladder and then gently releasing it into the grooves as the writer traces them with the pen. These pens function equally well at depositing ink into tablets, underwater paper, walls, or anything with carved writing.
+
+### Seahorse, Giant
+
+**Price** 350 gp (giant) or 500 gp (giant, combat trained); **Weight** 1,100 lbs. (giant) or 1,200 lbs. (combat trained)
+
+Giant seahorses are commonly used as mounts and beasts of burden by undersea races such as aquatic elves and tritons. Although they are often dismissed as too skittish to be ridden into a fight, seahorses are clever and, with diligent training, make loyal war steeds. Tritons in particular pride themselves on breeding and training seahorses to fight in battle or to serve as guard animals.
+
+### Sponge Suit
+
+**Price** 30 gp; **Weight** 2 lbs. (or 10 lbs. when saturated)
+
+Outwardly, this suit of clothing appears to be an ordinary traveler's outfit, albeit cut from thicker-than-normal cloth. The suit's inner lining is made of dozens of thin, flexible sponges. When soaked with water, these sponges can be worn against the skin to maintain the wearer's moisture while traveling out of the water. It takes 10 minutes to fully saturate the suit, which increases its weight from 2 pounds to 10 pounds. When worn, a sponge suit doubles the amount of time a water-dependent creature can spend on dry land before it begins to take damage or suffer other negative effects. When the sponges dry, wearers must submerge themselves in water or resaturate the suit, or else they suffer the consequences of being on dry land.
+
+### Tea, Kelp
+
+**Price** 3 sp; **Weight** —
+
+Kelp tea is a favorite relaxing drink under the sea, brewed from various rare species of kelp to create over a dozen distinctive flavors. The listed price pays for enough tea to fill a small waterproof bladder and doesn't include the price of the bladder.
+
+### Underwater Compass
+
+**Price** 20 gp; **Weight** 1/2 lb.
+
+This otherwise ordinary compass is sealed inside a glass case amid a quantity of clear oil. The oil keeps the glass from cracking at high pressures, allowing the compass to function at any depth up to 1,000 feet. An underwater compass grants you a +2 circumstance bonus on Survival checks to avoid becoming lost and also indicates your depth below the surface to the nearest increment of 20 feet. Underwater compasses are not particularly durable and cannot be roughly handled. An underwater compass has a hardness of 1, 2 hit points, and a break DC of 15.
+
+### Wall Hook
+
+**Price** 2 sp; **Weight** 1/2 lb.
+
+While surface dwellers sometimes use all manner of wall hooks to hang items for decoration or convenience, wall hooks are essential underwater to prevent loose objects from simply drifting away with the currents and tides. These hooks are found throughout underwater settlements and buildings to help the aquatic inhabitants keep track of their belongings.

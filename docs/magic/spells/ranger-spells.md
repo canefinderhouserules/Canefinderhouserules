@@ -38,6 +38,7 @@
 - **[Hobble](hobble.md)**: Halve the movement speed of several creatures
 - **[Hollow Blades](hollow-blades.md)**: Target's melee damage drops one size.
 - **[Huntmaster’s Spear](huntmasters-spear.md)**: Spear becomes a +1 weapon against a chosen favored-enemy type and can be discharged for a powerful attack.
+- **[Instant Clot](instant-clot.md)**: end bleeding and stop blood flowing from wounds
 - **[Ironbeard](ironbeard.md)**: School transmutation; Level antipaladin 1, cleric 1, magus 1, paladin 1, ranger 1 Casting Time 1 standard.
 - **[Jump](jump.md)**: Subject gets bonus on Acrobatics checks.
 - **[Liberating Command](liberating-command.md)**: Target makes an Escape Artist check as an immediate action and gains a bonus on it.
@@ -65,6 +66,7 @@
 - **[Strong Wings](strong-wings.md)**: School transmutation; Level druid 1, ranger 1, sorcerer/wizard 1, witch 1 Casting Time 1 standard action.
 - **[Summon Nature’s Ally I](summon-natures-ally-i.md)**: Summons creature to fight for you.
 - **[Sun Metal](sun-metal.md)**: Weapon touched bursts into flames.
+- **[Suspend Drowning](suspend-drowning.md)**: temporarily stop drowning
 - **[Tamer’s Lash](tamers-lash.md)**: Create a whip made of sound that damages foes and can frighten animals.
 - **[Thunder Arrow](thunder-arrow.md)**: Electric arrow that attacks or signals.
 - **[Tracking Mark](tracking-mark.md)**: Easier to track a target.

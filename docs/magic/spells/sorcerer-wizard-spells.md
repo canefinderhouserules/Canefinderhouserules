@@ -590,6 +590,7 @@
 - **[Shaper’s Touch](shapers-touch.md)**: Reshape an object as though it were clay.
 - **[Share Language, Communal](share-language-communal.md)**: As share language, but you may divide the duration among creatures touched.
 - **[Shifting Shadows](shifting-shadows.md)**: Shadows make flanking and attacks of opportunity unreliable.
+- **[Silt Sphere](silt-sphere.md)**: illusory silt cloud that grants concealment
 - **[Siphon Might](siphon-might.md)**: Drains target's Strength and grants it to an ally.
 - **[Slave to Sin](slave-to-sin.md)**: Exploit a creature’s sin to sicken and stagger it.
 - **[Sleet Storm](sleet-storm.md)**: Hampers vision and movement.
@@ -873,6 +874,7 @@
 - **[Angelic Aspect](angelic-aspect.md)**: Gain wings, resistances and DR 5/evil.
 - **[Apathy](apathy.md)**: A target loses interest in a chosen pursuit.
 - **[Appearance of Life, Greater](appearance-of-life-greater.md)**: Perfectly disguise any undead creature as a living one
+- **[Arid Refuge](arid-refuge.md)**: conjure an air-filled stone shelter underwater
 - **[Army Across Time](army-across-time.md)**: As ally across time, with many duplicates.
 - **[Augmenting Wall](augmenting-wall.md)**: Wall adds energy damage to ranged attacks.
 - **[Awaken the Devoured](awaken-the-devoured.md)**: Memories of devoured souls torment a daemon

@@ -67,3 +67,15 @@ To create a new race of your own, see the [Race Builder](../../rules/race-builde
 ## Player Companion Races
 
 - [Skinwalker](skinwalker.md): humanoids with lycanthropic ancestry who can take a bestial form, with eight heritages (werebat, werebear, wereboar, werecrocodile, wererat, wereshark, weretiger, werewolf).
+
+## Races of the Sea
+
+Aquatic elves, cecaelias, locathahs and tritons are sea-dwelling peoples suited to heroes of undersea campaigns; gillmen and merfolk are covered above. Adaros, grindylows and sahuagin are monstrous predator races built with the race builder, for antihero or antagonist roles.
+
+- [Aquatic Elves](aquatic-elves.md)
+- [Cecaelias](cecaelias.md)
+- [Locathahs](locathahs.md)
+- [Tritons](tritons.md)
+- [Adaros](adaros.md)
+- [Grindylows](grindylows.md)
+- [Sahuagin](sahuagin.md)

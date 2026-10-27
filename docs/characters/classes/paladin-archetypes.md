@@ -874,3 +874,15 @@ Order enforcers have altered abilities that allow them to stand against the forc
 **Aura of Order**: At 14th level, the paladin's weapons are treated as lawful-aligned for the purposes of overcoming damage reduction. Any attack made against an enemy within 10 feet of the order enforcer is treated as if it were lawful-aligned for the purpose of overcoming damage reduction. This ability alters aura of faith.
 
 **Armor of Law (Su)**: When an order enforcer gains damage reduction from aura of righteousness, it is DR 5/chaos instead of DR 5/evil. When that DR increases from the holy champion class feature, it increases to DR 10/chaos. This ability alters the aura of righteousness and holy champion class features.
+
+## Kraken Slayer
+
+Triton kraken slayers oppose all underwater threats, but they especially target the tentacled monstrosities called krakens. Kraken slayers develop specialized tactics to defeat their hated enemies as well as learn to recognize the signs of kraken activity in an area. A kraken slayer's greatest responsibility is to destroy evil; all other commitments fall by the wayside. Though kraken slayers uphold all promises they make, they must balance their obligations as kraken slayers with their role as knights and defenders of the ocean.
+
+**Smite Deepest Evil (Su)**: This functions as the smite evil ability, but the kraken slayer does not get a bonus of 2 points of damage per level on the first successful attack against any creatures other than evil creatures with the aquatic or water subtype. She gains a bonus of 2 points of damage per level on all smite attacks made against evil creatures with the aquatic or water subtype. This ability alters smite evil.
+
+**Divine Immunity (Ex)**: At 3rd level, a kraken slayer is immune to poisons and diseases, including supernatural and magical diseases, delivered by the natural attacks of creatures with the aquatic or water subtype. This ability replaces divine health.
+
+**Divine Bond (Sp)**: A kraken slayer who chooses a weapon as her divine bond may either increase her weapon's enhancement bonus or add any of the following properties to her weapon: axiomatic, brilliant energy, defending, grayflame, holy, keen, merciful, seaborne, and speed. A kraken slayer who chooses a mount must select one suitable for an aquatic environment, such as an elasmosaurus, giant seahorse, or orca. This ability alters divine bond.
+
+**Aura of Elusion (Su)**: At 14th level, a kraken slayer gains a sacred bonus equal to her kraken slayer level on Escape Artist checks and combat maneuver checks to escape a grapple and to her CMD to avoid being grappled. Each ally within 10 feet of her gains a sacred bonus equal to half her kraken slayer level on Escape Artist checks and combat maneuver checks to escape a grapple and to CMD to avoid being grappled. This ability functions only while the paladin is conscious, not if she is unconscious or dead. This ability replaces aura of faith.

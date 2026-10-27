@@ -51,6 +51,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Illusory Crowd](illusory-crowd.md)**: Illusory stationary crowd.
 - **[Implant Urge](implant-urge.md)**: A target unconsciously desires a goal you choose.
 - **[Incessant Buzzing](incessant-buzzing.md)**: Illusory wasp swarm disrupts concentration
+- **[Instant Clot](instant-clot.md)**: end bleeding and stop blood flowing from wounds
 - **[Instant Portrait](instant-portrait.md)**: Paint a quick monochrome portrait.
 - **[Interrogation](interrogation.md)**: Target answers questions or suffers pain.
 - **[Itching Curse](itching-curse.md)**: Itch gives –1 penalty unless scratched.
@@ -465,6 +466,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 
 - **[Apathy](apathy.md)**: A target loses interest in a chosen pursuit.
 - **[Appearance of Life, Greater](appearance-of-life-greater.md)**: Perfectly disguise any undead creature as a living one
+- **[Arid Refuge](arid-refuge.md)**: conjure an air-filled stone shelter underwater
 - **[Awaken the Devoured](awaken-the-devoured.md)**: Memories of devoured souls torment a daemon
 - **[Befuddled Combatant](befuddled-combatant.md)**: Reduces a target’s ability DCs by 4 and its damage to minimum.
 - **[Blood Tentacles](blood-tentacles.md)**: Blood tentacles attack and heal you.

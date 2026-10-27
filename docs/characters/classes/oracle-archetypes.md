@@ -658,3 +658,15 @@ A hermit is a recluse who gained her oracular powers from isolation in a deep de
 *Fade from Memory (Su)*: At 7th level, whenever there are no creatures within 10 feet of you at the end of your turn, you gain 20% concealment until the beginning of your next turn as a free action. At 14th level, you instead gain 50% concealment until the beginning of your next turn. You can use this ability a number of times per day equal to your oracle level. You must take this revelation at 7th level.
 
 **Recommended Mysteries**: Heavens, life, nature, stone.
+
+## Ocean's Echo
+
+Although many merfolk claim deep connections to both art and the natural world, a rare few merfolk can manipulate the forces of nature and weave them into song. An ocean's echo is a merfolk gifted with the powers of an oracle and a singing voice that evokes the legendary tales of merfolk virtuosos.
+
+**Class Skills**: An ocean's echo adds Bluff, Intimidate, Knowledge (nature), and Perform to her list of class skills. These replace the additional class skills from her mystery.
+
+**Bonus Spells**: *Sound burst* (4th), *shout* (8th), *song of discord* (10th), *greater shout* (12th), and *pied piping* (14th). These bonus spells replace the oracle's mystery bonus spells at these levels.
+
+**Inspiring Song (Ex)**: The voice of an ocean's echo provides inspiration to allies. This ability is identical to bardic performance (using Perform [sing] only), allowing her to inspire courage at 1st level, inspire competence at 3rd level, and inspire heroics at 15th level, as a bard of the ocean's echo's level. It is usable a total number of rounds per day equal to her level + her Charisma modifier (minimum 1). This ability replaces the revelations gained at 1st, 3rd, and 15th level.
+
+**Recommended Mysteries**: Ancestor, heavens, life, lore, nature, time, waves, wind.

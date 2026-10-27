@@ -860,3 +860,13 @@ Masters of secretly gathering information to further their faith's ends, urban i
 **Gifted Detective (Ex)**: An urban infiltrator adds her Wisdom modifier as well as her Charisma modifier on Bluff and Disguise skill checks and on Diplomacy checks to gather information. Attempting a Diplomacy check to gather information never takes an urban infiltrator more than 1 hour. This ability replaces monster lore.
 
 **A Thousand Faces (Su)**: At 11th level, an urban infiltrator gains the ability to change her appearance at will, as if using the *alter self* spell. This ability replaces stalwart.
+
+## Keeper of the Current
+
+Aquatic creatures worship many different deities and powers based on their alignment, their community, and their culture. These deities all have organized churches beneath the waves that engage zealous followers to hunt down apostates and enemies. Regardless of their faith, these undersea zealots are known as keepers of the current.
+
+**Underwater Hunter (Ex)**: Tracking creatures underwater is particularly challenging, but a keeper of the current can read traces of eddies in the water to follow her prey. A keeper of the current adds her level as a bonus on Survival checks to follow creatures underwater. She gains no bonus when finding or following tracks out of the water. This ability replaces track.
+
+**Marine Magic**: At 5th level and at every 3 levels thereafter, a keeper of the current can learn a spell with the water descriptor from the cleric, druid, inquisitor, or wizard spell list in place of a spell she already knows. In effect, she loses an old spell in exchange for a new one. The new spell's level must be the same as that of the spell being exchanged, and it must be at least 1 level lower than the highest-level inquisitor spell she can cast. The keeper of the current can swap out only a single spell at any given level and must choose whether to swap the spell at the same time she gains new spells known for the level. This ability alters the inquisitor's spellcasting.
+
+**Rudderless Attack (Ex)**: At 5th level, an opponent that takes extra damage from the keeper of the current's bane or greater bane ability has its swim speed halved for 1d4 rounds. A successful Fortitude saving throw (DC = 10 + half the inquisitor's level + her Wisdom modifier) negates this effect. If the keeper of the current targets a creature already affected by this ability, its swim speed is not further reduced but the duration of the effect is extended by 1d4 rounds. This ability replaces discern lies.

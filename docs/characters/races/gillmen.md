@@ -30,13 +30,32 @@ The following racial traits may be selected instead of existing gillman racial t
 
 **Throwback**: Some gillmen are throwbacks to their land-dwelling human ancestors. Gillmen with this racial trait do not have the amphibious trait, have the human subtype instead of the aquatic subtype, have no swim speed or bonuses to the Swim skill, cannot breathe water, and do not have the water dependent racial trait.
 
+### Additional Alternate Racial Traits
+
+**Submerged**: Gillmen who live in deep water are accustomed to the gloom of the depths. Though these gillmen can venture onto land, they are uncomfortable doing so and must return to the ocean sooner than other gillmen. Gillmen with this racial trait gain low-light vision but must submerge themselves in water every 12 hours or die within 2d4 hours. This modifies their water dependent racial trait.
+
+**Taskmaster**: Some gillmen were created as overseers among their kin, allowing them to exude pheromones into the air or water. Generations later, the descendants of these taskmaster gillmen retain the ability to influence others. Gillmen with this trait gain a +2 racial bonus on Diplomacy checks. This racial trait replaces enchantment resistance.
+
+**Truthseer**: Gillmen with this racial trait gain a +2 racial bonus on saving throws against non-aboleth illusion spells or effects, but they take a –2 penalty on such saving throws against aboleth sources. This racial trait replaces enchantment resistance.
+
+**Venomkissed**: Some gillmen display an innate resistance to the toxic creatures of the deep. In gillman communities, venomkissed gillmen take on the dangerous task of domesticating jellyfish, octopuses, sea snakes, and other venomous creatures. Solitary venomkissed gillmen make their homes near beds of poisonous coral and anemones, using the creatures as natural defense. Gillmen with this racial trait gain a +2 racial saving throw bonus against poison. This racial trait replaces enchantment resistance.
+
 ## Favored Class Options
 
-See the [Advanced Race Guide section of the racial favored class options](../favored-class-bonuses/racial-favored-class-options.md#gillmen-advanced-race-guide).
+See the [Advanced Race Guide section of the racial favored class options](../favored-class-bonuses/racial-favored-class-options.md#gillmen-advanced-race-guide). Gillmen also have the following options.
+
+**Bard**: Add 1/2 to the bard's Bluff checks to fool someone and gain a +1/2 bonus on the bard's Sense Motive checks to sense enchantments.
+
+**Investigator**: Increase the total number of points in the investigator's inspiration pool by 1/3.
+
+**Medium**: Increase the medium's spirit bonus by 1/6.
+
+**Monk**: Add 1 foot to the monk's swim speed. In combat, this option has no effect unless the monk has selected it five times (or another increment of five).
 
 ## Archetypes and Class Options
 
 - [Eldritch Raider](../classes/rogue-archetypes.md#eldritch-raider) (rogue)
+- [Hidden Current](../classes/vigilante-archetypes.md#hidden-current) (vigilante)
 
 These archetypes are typically only taken by gillmen, but members of other races, with the GM's permission, can take them as well.
 
@@ -49,3 +68,10 @@ Gillmen have access to the following equipment.
 ## Spells
 
 - [Aboleth’s Lung](../../magic/spells/aboleth-s-lung.md)
+
+## Additional Feats
+
+- [Aberration-Bane Caster](../../rules/feats/aberration-bane-caster.md)
+- [Aboleth Deceiver](../../rules/feats/aboleth-deceiver.md)
+- [Aphotic Explorer](../../rules/feats/aphotic-explorer.md)
+- [Surface Survivor](../../rules/feats/surface-survivor.md)
