@@ -141,6 +141,7 @@
 - **[Ally Across Time](ally-across-time.md)**: Summon a brief duplicate of yourself to aid you.
 - **[Alter Self](alter-self.md)**: Assume form of a Small or Medium humanoid.
 - **[Alter Summoned Monster](alter-summoned-monster.md)**: Swap a summoned creature for another
+- **[Ancestral Communion](ancestral-communion.md)**: Ancestors grant an insight bonus on Knowledge checks.
 - **[Animal Messenger](animal-messenger.md)**: Sends a Tiny animal to a specific place.
 - **[Animal Trance](animal-trance.md)**: Fascinates 2d6 HD of animals.
 - **[Anti-Summoning Shield](anti-summoning-shield.md)**: Summoning effects in the area may fail.
@@ -375,6 +376,7 @@
 - **[Speak with Animals](speak-with-animals.md)**: You can communicate with animals.
 - **[Stage Fright](stage-fright.md)**: Targets take –4 on ability, skill, and concentration checks.
 - **[Stolen Light](stolen-light.md)**: Store an image within a gem.
+- **[Summon Ancestral Guardian](summon-ancestral-guardian.md)**: Two ancestor spirits attack your enemies.
 - **[Summon Monster III](summon-monster-iii.md)**: Summons extraplanar creature to fight for you.
 - **[Sunstalker](sunstalker.md)**: Invisible while in sunlight.
 - **[They Know](they-know.md)**: Convince target that a nearby creature knows her greatest secret.
@@ -388,6 +390,7 @@
 
 - **[Absorb Rune I](absorb-rune-i.md)**: Absorb a magical rune and move it elsewhere.
 - **[Amnesia](amnesia.md)**: Strip a target of its memories, skills and class abilities
+- **[Ancestral Gift](ancestral-gift.md)**: An ancestor conjures a magical weapon for you.
 - **[Animal Ambassador](animal-ambassador.md)**: Grant an animal messenger sentience to deliver your message.
 - **[Apathy](apathy.md)**: A target loses interest in a chosen pursuit.
 - **[Army Across Time](army-across-time.md)**: As ally across time, with many duplicates.

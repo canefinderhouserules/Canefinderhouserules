@@ -578,6 +578,8 @@
 - **[Resist Energy, Communal](resist-energy-communal.md)**: As resist energy, but you may divide the duration among creatures touched.
 - **[Resize Item](resize-item.md)**: Resizes a weapon or armor by up to two sizes.
 - **[Returning Weapon, Communal](returning-weapon-communal.md)**: As returning weapon, but you may divide the duration among weapons touched.
+- **[Rune of Durability](rune-of-durability.md)**: Double a weapon's hit points.
+- **[Rune of Warding](rune-of-warding.md)**: Inscribe a visible blast glyph on a doorway.
 - **[Scale Spikes, Greater](scale-spikes-greater.md)**: Scale spikes with up to +5 enhancement
 - **[See Beyond](see-beyond.md)**: Meditative spell: large Perception bonus and brief x-ray vision.
 - **[Seed Spies](seed-spies.md)**: Wafting seeds act as spies, as insect spies.

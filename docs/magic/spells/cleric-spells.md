@@ -117,6 +117,7 @@
 - **[True Appraisal](true-appraisal.md)**: Gain insight into the value of objects
 - **[Unwelcome Halo](unwelcome-halo.md)**: Target glows, losing concealment.
 - **[Velvet Diplomacy](velvet-diplomacy.md)**: Intimidate a target into friendliness and cloud its memory of the threats.
+- **[Watchful Eye](watchful-eye.md)**: As shield other, with rings and line of effect.
 - **[Waterproof](waterproof.md)**: Renders an object or creature’s gear waterproof.
 - **[Weapons against Evil](weapons-against-evil.md)**: Weapons ignore low DR of evil creatures.
 - **[Weaponwand](weaponwand.md)**: Merge a wand with a weapon to wield both.
@@ -131,6 +132,7 @@
 - **[Ally Across Time](ally-across-time.md)**: Summon a brief duplicate of yourself to aid you.
 - **[Alter Summoned Monster](alter-summoned-monster.md)**: Swap a summoned creature for another
 - **[Amplify Stench](amplify-stench.md)**: Make your stench stronger and more potent
+- **[Ancestral Communion](ancestral-communion.md)**: Ancestors grant an insight bonus on Knowledge checks.
 - **[Ancestral Regression](ancestral-regression.md)**: School transmutation (polymorph); Level alchemist 2, antipaladin 3, cleric 2, sorcerer/wizard 3, witch 2.
 - **[Angelic Aspect, Lesser](angelic-aspect-lesser.md)**: Gain some physical characteristics of an angelic being.
 - **[Ant Haul, Communal](ant-haul-communal.md)**: As ant haul, but you may divide the duration among creatures touched.
@@ -167,6 +169,7 @@
 - **[Detect Magic, Greater](detect-magic-greater.md)**: As *detect magic*, but learn more information.
 - **[Diminish Resistance](diminish-resistance.md)**: Weaken a creature’s resistance to one energy type.
 - **[Dress Corpse](dress-corpse.md)**: Doctor the evidence on a corpse.
+- **[Dwarven Veil](dwarven-veil.md)**: Target gains +2 on checks to influence dwarves.
 - **[Eagle’s Splendor](eagles-splendor.md)**: Subject gains +4 to Cha for 1 min./level.
 - **[Early Judgment](early-judgment.md)**: Show a creature its fate: fascinated, confused, or shaken.
 - **[Effortless Armor](effortless-armor.md)**: Armor you wear no longer slows your speed.
@@ -202,6 +205,7 @@
 - **[Overstimulate](overstimulate.md)**: Grant ferocity to keep a creature conscious
 - **[Owl’s Wisdom](owls-wisdom.md)**: Subject gains +4 to Wis for 1 min./level.
 - **[Painful Revelation](painful-revelation.md)**: Illusion hurts those who disbelieve it
+- **[Peacemaker's Parley](peacemakers-parley.md)**: Make a Diplomacy check against hostile creatures.
 - **[Pilfering Hand](pilfering-hand.md)**: You may seize an object or manipulate it from afar.
 - **[Preserve Grace](preserve-grace.md)**: Grant a phylactery of faithfulness effect.
 - **[Protection from Chaos, Communal](protection-from-chaos-communal.md)**: As protection from chaos, but you may divide the duration among creatures touched.
@@ -330,10 +334,12 @@
 - **[Magic Vestment](magic-vestment.md)**: Armor or shield gains +1 enhancement per four levels.
 - **[Meld into Stone](meld-into-stone.md)**: You and your gear merge with stone.
 - **[Monstrous Extremities](monstrous-extremities.md)**: Change limbs into tentacles, hooves, or wings.
+- **[Oath of Justice](oath-of-justice.md)**: Seal an oath between two creatures; breakers are marked.
 - **[Obscure Object](obscure-object.md)**: Masks object against scrying.
 - **[Paragon Surge](paragon-surge.md)**: You surge with ancestral power, temporarily embodying all the strengths of both elvenkind and humankind.
 - **[Pillow Talk](pillow-talk.md)**: Question a sleeping creature
 - **[Planar Inquiry](planar-inquiry.md)**: Call an outsider to answer questions.
+- **[Planned Assault](planned-assault.md)**: Planned actions grant bonuses for the first round.
 - **[Poison Exchange](poison-exchange.md)**: Swallow one poison and regurgitate another.
 - **[Prayer](prayer.md)**: Allies get +1 bonus on most rolls, enemies –1 penalty.
 - **[Protection from Energy](protection-from-energy.md)**: Absorb 12 points/level of damage from one kind of energy.
@@ -360,8 +366,10 @@
 - **[Spiral Ascent](spiral-ascent.md)**: Teleport upward as a helical beam
 - **[Spirit Bonds](spirit-bonds.md)**: Meditative spell: track bonded creatures and send a telepathic message.
 - **[Stone Shape](stone-shape.md)**: Sculpts stone into any shape.
+- **[Summon Ancestral Guardian](summon-ancestral-guardian.md)**: Two ancestor spirits attack your enemies.
 - **[Summon Monster III](summon-monster-iii.md)**: Summons extraplanar creature to fight for you.
 - **[Symbol of Exsanguination](symbol-of-exsanguination.md)**: Triggered rune causes nearby creatures to bleed.
+- **[Tactical Formation](tactical-formation.md)**: Adjacent allies gain a deflection bonus to AC.
 - **[Toxic Blood](toxic-blood.md)**: Target's blood sprays black adder venom when cut.
 - **[Transfer Regeneration](transfer-regeneration.md)**: Give your regeneration to another creature
 - **[Trial by Fire](trial-by-fire.md)**: Divine fire punishes targets whose alignment differs from your deity’s.
@@ -376,6 +384,7 @@
 - **[Absolution](absolution.md)**: Removes enchantments and forgives actions taken under their effects.
 - **[Absorb Rune I](absorb-rune-i.md)**: Absorb a magical rune and move it elsewhere.
 - **[Air Walk](air-walk.md)**: Subject treads on air as if solid (climb or descend at 45-degree angle).
+- **[Ancestral Gift](ancestral-gift.md)**: An ancestor conjures a magical weapon for you.
 - **[Ardor's Onslaught](ardors-onslaught.md)**: The power of conviction assaults neutral foes
 - **[Battle Trance](battle-trance.md)**: 3, witch 4 Casting Time 1 standard action Components V, S Range personal Target you Duration 1 minute/level.
 - **[Bereave](bereave.md)**: Make targets count as enemies to their own allies
@@ -426,6 +435,7 @@
 - **[Majestic Image](majestic-image.md)**: As *enter image*, but also gain bonuses on social skills while in the image.
 - **[Make Whole, Greater](make-whole-greater.md)**: Repair destroyed items and constructs.
 - **[Master's Escape](masters-escape.md)**: Swap places with a summoned creature
+- **[Mighty Strength](mighty-strength.md)**: As bull's strength, but +8.
 - **[Minotaur’s Blessing](minotaurs-blessing.md)**: Turn a creature’s head into a bull’s.
 - **[Nature’s Ravages](natures-ravages.md)**: Rapidly decomposes a corpse.
 - **[Neutralize Poison](neutralize-poison.md)**: Immunizes subject against poison, detoxifies venom in or on subject.
@@ -511,6 +521,7 @@
 - **[Hymn of Mercy](hymn-of-mercy.md)**: Touch of mercy in a burst around you.
 - **[Inflict Light Wounds, Mass](inflict-light-wounds-mass.md)**: Deals 1d8 damage + 1/level, affects 1 subject/level.
 - **[Insect Plague](insect-plague.md)**: Wasp swarms attack creatures.
+- **[Invigorating Repose](invigorating-repose.md)**: Improve your raise dead and breath of life.
 - **[Lighten Object, Mass](lighten-object-mass.md)**: Halve the weight of several objects.
 - **[Locate Gate](locate-gate.md)**: Find a nearby magical portal.
 - **[Magic Siege Engine, Greater](magic-siege-engine-greater.md)**: Siege engine gains +1 on targeting and damage rolls for every four caster levels.
@@ -562,6 +573,7 @@
 - **[Bear’s Endurance, Mass](bears-endurance-mass.md)**: As *bear’s endurance*, affects 1 subject/level.
 - **[Betraying Sting](betraying-sting.md)**: Smite those who trusted you
 - **[Blade Barrier](blade-barrier.md)**: Wall of blades deals 1d6/level damage.
+- **[Bloodsworn Retribution](bloodsworn-retribution.md)**: Swear an oath of retribution on your own blood for morale bonuses.
 - **[Bull’s Strength, Mass](bulls-strength-mass.md)**: As *bull’s strength*, affects 1 subject/level.
 - **[Chains of Light](chains-of-light.md)**: Hold a creature in chains of light and block extradimensional travel.
 - **[Commune with Texts](commune-with-texts.md)**: Absorb knowledge from a collection of texts.

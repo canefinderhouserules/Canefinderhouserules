@@ -194,6 +194,7 @@
 - **[Sand Table](sand-table.md)**: Create a scale model of the surrounding battlefield
 - **[Scale Spikes, Greater](scale-spikes-greater.md)**: Scale spikes with up to +5 enhancement
 - **[Second Wind](second-wind.md)**: Heal 2d8 + 1/level when below one-quarter hit points.
+- **[See Through Stone](see-through-stone.md)**: See through stone as if it were glass.
 - **[Share Shape](share-shape.md)**: Beast shape II, limited to your companion's or familiar's kind.
 - **[Signs of the Land](signs-of-the-land.md)**: Learn up to three details about the surrounding territory.
 - **[Soothing Mud](soothing-mud.md)**: Create restorative mud that heals hit point and ability damage.
@@ -212,6 +213,7 @@
 ## 4th-Level Ranger Spells
 
 - **[Animal Growth](animal-growth.md)**: One animal doubles in size.
+- **[Bloodsworn Retribution](bloodsworn-retribution.md)**: Swear an oath of retribution on your own blood for morale bonuses.
 - **[Brightest Light](brightest-light.md)**: Longer-lasting daylight that can dispel darkness.
 - **[Cloud Shape](cloud-shape.md)**: This spell functions like gaseous form, except you assume the shape of a Colossal cloud with a space of 30.
 - **[Commune with Nature](commune-with-nature.md)**: Learn about terrain for 1 mile/level.
@@ -232,6 +234,7 @@
 - **[Nondetection](nondetection.md)**: Hides subject from divination, scrying.
 - **[Overwhelming Poison](overwhelming-poison.md)**: Make a poison more difficult to resist.
 - **[Phantom Hunt](phantom-hunt.md)**: You and your companion gain senses, speed, and fast tracking.
+- **[Planned Assault](planned-assault.md)**: Planned actions grant bonuses for the first round.
 - **[Remove Radioactivity](remove-radioactivity.md)**: Cure radiation effects.
 - **[Sea Stallion](sea-stallion.md)**: You and your mount adapt to an aquatic environment.
 - **[Sickening Strikes](sickening-strikes.md)**: You are imbued with disease, and any creature you strike with a melee attack must make a Fortitude save or be.
@@ -239,6 +242,7 @@
 - **[Substitute Trail](substitute-trail.md)**: Make the targets’ trails look like another creature’s.
 - **[Summon Flight of Eagles](summon-flight-of-eagles.md)**: Summon giant eagles to fight or serve as mounts.
 - **[Summon Nature’s Ally IV](summon-natures-ally-iv.md)**: Summons creature to fight for you.
+- **[Tactical Formation](tactical-formation.md)**: Adjacent allies gain a deflection bonus to AC.
 - **[Terrain Bond](terrain-bond.md)**: Treat the terrain you are in as a favored terrain for the spell’s duration.
 - **[Thirsting Entanglement](thirsting-entanglement.md)**: As entangle, but the plants drain Constitution.
 - **[Tree Stride](tree-stride.md)**: Step from one tree to another far away.

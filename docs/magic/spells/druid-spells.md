@@ -334,6 +334,7 @@
 - **[Rusting Grasp](rusting-grasp.md)**: Your touch corrodes iron and alloys.
 - **[Scrying](scrying.md)**: Spies on subject from a distance.
 - **[Sea Stallion](sea-stallion.md)**: You and your mount adapt to an aquatic environment.
+- **[See Through Stone](see-through-stone.md)**: See through stone as if it were glass.
 - **[Sensory Amplifier](sensory-amplifier.md)**: Creatures nearby sense more keenly but take extra damage.
 - **[Soul Vault](soul-vault.md)**: Protect a soul from being trapped
 - **[Spike Stones](spike-stones.md)**: Creatures in area take 1d8 damage, may also be slowed*.*

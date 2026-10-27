@@ -2402,3 +2402,111 @@ This voluminous silver hood shimmers like a scattered handful of diamonds. The h
 These supple silk gloves are skintight. As a standard action, the wearer can deliver a complex secret message to a single target that can see the wearer as if she had succeeded at a DC 20 Bluff check. This message is conveyed in a series of rapid, complicated hand gestures that the target automatically understands. Creatures that see the wearer send a message can attempt a DC 20 Sense Motive check to notice that the wearer is delivering a secret message and decipher it.
 
 **Construction Requirements:** Craft Wondrous Item, *message*; **Cost** 500 gp
+
+## Elven Archery
+
+### Clustershot
+
+**Slot** weapon quality; **CL** 5th; **Price** +1 bonus; **Weight** —
+
+**Aura** weak transmutation
+
+These arrows are inscribed with a spiral groove down the length of the haft and an eye-glyph on the head. They are designed to maintain accuracy when firing multiple arrows at the same time (such as with the Manyshot feat) by steering their paths toward the impact point of the first arrow. For a clustershot arrow to function, all arrows fired in the attack must have this property. If the first arrow can deal sneak attack damage or is a critical hit, the remaining arrows from that shot can deal half normal sneak attack damage, and if they critically hit deal half normal critical hit damage. Any creature that meets the crafting requirements can create these arrows, and the property works just as well for crossbow bolts.
+
+**Construction Requirements:** Craft Magic Arms and Armor, *magic weapon*; **Cost** —
+
+### Healer's Sorrow
+
+**Slot** weapon quality; **CL** 5th; **Price** +1 bonus; **Weight** —
+
+**Aura** weak necromancy
+
+The sickly gray wood of this arrow seems quite fragile and delicate. Created from pale necromantic bone or casket wood, this arrow splinters when it impacts, embedding pieces of itself in the target and making the wound resistant to magical healing. Removing the splinters requires 10 minutes and a DC 25 Heal check. Until the splinters are removed, all magical healing effects used on the target restore only half as many hit points as normal. This applies whether the target requires positive or negative energy for healing.
+
+**Construction Requirements:** Craft Magic Arms and Armor, *death knell*; **Cost** —
+
+### Sparkfly Crystal Arrow
+
+**Slot** weapon quality; **CL** 3rd; **Price** +1 bonus; **Weight** —
+
+**Aura** weak evocation
+
+The fat crystal head of this arrow contains tiny motes of light; on closer scrutiny, they are actually tiny glowing insects similar to fireflies, held in stasis. When the arrow hits a target, it shatters the crystal and releases the insects, which distract the target with their aggressive flight. The creature takes a –1 penalty on attacks and checks for the next minute or until they rid themselves of the flying pests (such as by diving into water, suffering a damaging area attack, and so on). The lights reduce a target's concealment by one step (turning a 50% miss chance from total concealment into a 20% miss chance from concealment, and concealment into no concealment at all).
+
+**Construction Requirements:** Craft Magic Arms and Armor, *faerie fire*; **Cost** —
+
+## Magic Foods
+
+Any character with at least 5 ranks in Profession (cook) and the Brew Potion feat can learn to infuse food with magical energy. Rather than simply astounding the senses, these meals offer those who eat them special abilities. It takes one full day to create a magical meal. The meal requires all the normal ingredients and cooking implements (comparable to equipping and maintaining an alchemy lab) as well as the normal requirements for creating magic items (such as the ability to cast prerequisite spells, spending gold for magical ingredients, and so on). Creating magical food follows the standard rules for creating magic items. A character attempting to make a magical meal must succeed at a Profession (cook) check. The DC of this check is equal to 20 + the highest-level spell being incorporated into the meal. Success means the cook creates a meal suitable for one Medium or smaller creature. Creating a magical meal for a Large or larger creature increases the DC of the Profession (cook) check by 5 for each size category above Medium and doubles the number of food ingredients used. The first creature to eat a magical meal gains the benefit of its magic; sharing plates does not affect multiple diners no matter how the portions are divided.
+
+Magical food never spoils under normal conditions. Unless otherwise stated, consuming any of these meals is a full-round action that provokes an attack of opportunity. The listed prices do not include the cost of mundane ingredients (meat, flour, vegetables, spices, and so on), though these usually amount to no more than 5 gp for even the most outlandish meal.
+
+### Buttered Leapfish Fillet
+
+**Slot** none; **CL** 5th; **Price** 900 gp; **Weight** 1 lb.
+
+**Aura** faint transmutation
+
+The leapfish is a bland-tasting swimmer native to forest rivers and streams, notable mainly for its excellent speed and its ability to leap out of the water and onto low-hanging tree limbs to avoid predators. Its meat is the color of salmon and is reasonably tasty when prepared with butter, herbs, and salt; it is best eaten fresh, but if properly dried after cooking, it retains its flavor whether eaten cold or reheated. Eating the magical fillet gives you a +10 competence bonus on Acrobatics, Climb, and Swim checks for 1 hour.
+
+**Construction Requirements:** Brew Potion, Profession (cook) 5 ranks, creator must have 5 ranks in Acrobatics, Climb, and Swim; **Cost** 450 gp
+
+### Vine-Root Dumplings
+
+**Slot** none; **CL** 10th; **Price** 300 gp; **Weight** 1 lb.
+
+**Aura** moderate transmutation
+
+The vine-root is a smaller, immobile cousin of the assassin vine, generally harmless except to tiny animals; some elves cultivate it for its roots, leaves, and berries. The roots are crushed into a paste and mixed with water or milk to make dough, stuffed with diced leaves, then boiled or baked, often topped with sweet jelly made from the berries. Hearty, satisfying, and portable, the dumplings are excellent candidates for magical augmentation. A typical vine-root dumpling gives you a +2 enhancement bonus to Constitution for 1 hour, though other varieties may enhance other ability scores.
+
+**Construction Requirements:** Brew Potion, Profession (cook) 5 ranks, *bear's endurance*; **Cost** 150 gp
+
+### Snowberry Fire Peppers
+
+**Slot** none; **CL** 6th; **Price** 600 gp; **Weight** 1 lb.
+
+**Aura** faint abjuration
+
+Crisp and creamy white berries spill out from the interior of this starkly crimson, teardrop-shaped pepper. This eye-watering delicacy allows you to safely absorb heat and fire, though this reactivates the spicy taste. You gain fire resistance 10 for 1 hour. Any time this effect negates 10 or more points of fire damage, you must attempt a Fortitude saving throw (DC 15 + fire damage taken) or be dazed for 1 round as the spices overwhelm your senses.
+
+**Construction Requirements:** Brew Potion, Profession (cook) 5 ranks, *resist energy*; **Cost** 300 gp
+
+### Leap Cake
+
+**Slot** none; **CL** 5th; **Price** 500 gp; **Weight** 1 lb.
+
+**Aura** faint transmutation
+
+This spongy brown cake feels light in the hand but is incredibly chewy. Consuming it strengthens your leg muscles and makes your tendons more elastic (making audible stretching and popping noises for a few seconds after ingestion), greatly improving your ability to jump and fall. For the next 10 minutes, you gain a +20 bonus on Acrobatics checks made to jump. If you deliberately jump down from a height and succeed at a DC 15 Acrobatics check, you take falling damage as if the fall were 20 feet shorter than normal (rather than 10 feet shorter). If you fall, you may make an Acrobatics check to treat the fall as 10 feet shorter.
+
+**Construction Requirements:** Brew Potion, Profession (cook) 5 ranks, *feather fall*, *jump*; **Cost** 250 gp
+
+### Sun-Dried Lantern Lemons
+
+**Slot** none; **CL** 6th; **Price** 900 gp; **Weight** 1 lb.
+
+**Aura** faint evocation (light)
+
+These sour, chewy treats seem to be all but bursting with vitality and energy. After eating a handful of sun-dried lantern lemons you glow as brightly as a *daylight* spell for 1 hour. The light shines out of your skin, and while you can cover yourself to block the light and reduce its effect to that of a *light* spell or even a candle, only magical darkness or complete enshrouding (such as wrapping yourself from head to toe in layers of cloth or leather) can fully block the light. Lesser forms of these treats exist that cause you to shine with a fainter light and for a shorter duration.
+
+**Construction Requirements:** Brew Potion, Profession (cook) 5 ranks, *daylight*; **Cost** 450 gp
+
+### Newlife Soup
+
+**Slot** none; **CL** 10th; **Price** 1,500 gp; **Weight** 1 lb.
+
+**Aura** moderate conjuration (healing)
+
+Soothing ripples of warm light crisscrossing along the surface of this amber broth only seem to heighten the welcoming scent wafting from its steamy depths. This soup enhances the connections between your flesh and spirit, allowing you to briefly return to life if slain. If you die within 1 hour of eating a bowl of newlife soup, you rise on your next turn, alive as if someone had cast *raise dead* on you, except that you do not lose a level and you have half of your normal hit points. You are alive (not undead) for 10 minutes and can be healed normally but drop dead once those 10 minutes pass. *Raise dead* or similar spells cannot make your temporary life permanent; to bring you back from the dead, you must be allowed to die when the soup's power ends. Each meal of newlife soup can only bring you back from the dead once.
+
+**Construction Requirements:** Brew Potion, Profession (cook) 5 ranks, *raise dead* or *resurrection*; **Cost** 750 gp
+
+### Waybread
+
+**Slot** none; **CL** 6th; **Price** 50 gp; **Weight** 1 lb.
+
+**Aura** faint conjuration
+
+Also called walking bread or walkbread, these delicious yellowish-brown oval biscuits feel remarkably heavy for their size. One is enough to keep a belly full for an entire day and slakes thirst for that period as well.
+
+**Construction Requirements:** Brew Potion, Profession (cook) 5 ranks, *create food and water*; **Cost** 25 gp

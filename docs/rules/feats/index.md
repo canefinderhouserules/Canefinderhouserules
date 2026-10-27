@@ -1570,6 +1570,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Bolster Undead](bolster-undead.md) | — | Channel energy 6d6, worshiper of a deity of undeath |
 | [Born of Frost](born-of-frost.md) | — | Frost giant |
 | [Bouncing Trick](bouncing-trick.md) | Trick | Mesmerist trick class feature |
+| [Bounding Hammer](bounding-hammer.md) | Combat | Proficiency with hammer, base attack bonus +6 |
 | [Bravery in Action](bravery-in-action.md) | — | Bravery class feature, worshiper of a deity of freedom and courage |
 | [Breaker of Barriers](breaker-of-barriers.md) | Combat | Str 17, worshiper of a deity of destruction |
 | [Bred Commander](bred-commander.md) | — | Hobgoblin |
@@ -2305,6 +2306,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Sisterhood Style](sisterhood-style.md) | Combat, Style | Cha 13, Shield Focus, Weapon Focus (longsword), BAB +2 |
 | [Skaveling Companion](skaveling-companion.md) | — | 7th level in a class that grants an animal companion or mount, urdefhan |
 | [Sleeper](sleeper.md) | — | [Warren Digger](warren-digger.md), ghoul |
+| [Sliding Axe Throw](sliding-axe-throw.md) | Combat | Dex 13, base attack bonus +1 |
 | [Sliding Dash](sliding-dash.md) | Combat | Dex 15, Acrobatics 10 ranks or acrobatic charge class feature, Bluff 3 ranks |
 | [Slipslinger Bombardment](slipslinger-bombardment.md) | Combat | Quick Draw, Slipslinger Grenadier, Slipslinger Style, Throw Anything, Weapon Focus (sling) or weapon training (thrown) class feature, warslinger racial trait |
 | [Slipslinger Grenadier](slipslinger-grenadier.md) | Combat | Slipslinger Style, Throw Anything, Weapon Focus (sling) or weapon training (thrown) class feature, warslinger racial trait |
@@ -2356,6 +2358,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Squash Flat](squash-flat.md) | Combat | Improved Bull Rush, Merciless Rush, worshiper of a deity of destruction |
 | [Stable Gallop](stable-gallop.md) | — | Animal or magical beast |
 | [Staggering Blow](staggering-blow.md) | Combat | Str 13, Power Attack, Vital Strike, base attack bonus +8 |
+| [Stance of the Xorn](stance-of-the-xorn.md) | Combat | Wis 15, base attack bonus +3 |
 | [Starry Grace](starry-grace.md) | Combat | Dex 13, Weapon Finesse, Weapon Focus (starknife) |
 | [Startling Getaway](startling-getaway.md) | Combat | Startling appearance class feature |
 | [Startoss Comet](startoss-comet.md) | Combat | Dex 13, Point-Blank Shot, Startoss Style, Weapon Focus with the chosen weapon |

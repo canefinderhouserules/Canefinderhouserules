@@ -183,3 +183,7 @@ The following text is the property of Wizards of the Coast, Inc. and is Copyrigh
     Pathfinder Player Companion: Divine Anthology © 2016, Paizo Inc.; Authors: Alexander Augunas, Russ Brown, John Compton, Alex Riggs, and David Ross.
 
     Pathfinder Player Companion: Legacy of the First World © 2017, Paizo Inc.; Authors: Jake Alley, Judy Bauer, John Compton, Mikko Kallio, Jason Keeley, Joe Pasini, Mark Seifter, Kendra Leigh Speedling, Josh Vogt, and Linda Zayas-Palmer.
+
+    Pathfinder Companion: Dwarves of Golarion. Copyright 2009, Paizo Publishing, LLC; Authors: David A. Eitelbach, Russ Taylor, JD Wiker, Keri Wiker, and Hank Woon.
+
+    Pathfinder Companion: Elves of Golarion, Copyright 2008, Paizo Publishing, LLC; Authors Jeff Quick and Hal Maclean.

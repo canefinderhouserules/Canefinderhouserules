@@ -56,6 +56,7 @@
 - **[Unwelcome Halo](unwelcome-halo.md)**: Target glows, losing concealment.
 - **[Veil of Heaven](veil-of-heaven.md)**: You surround yourself with a veil of positive energy, making it harder for evil outsiders to harm you.
 - **[Virtue](virtue.md)**: Subject gains 1 temporary hp.
+- **[Watchful Eye](watchful-eye.md)**: As shield other, with rings and line of effect.
 - **[Weapons against Evil](weapons-against-evil.md)**: Weapons ignore low DR of evil creatures.
 
 ## 2nd-Level Paladin Spells
@@ -71,6 +72,7 @@
 - **[Delay Disease](delay-disease.md)**: The target becomes temporarily immune to disease.
 - **[Delay Poison](delay-poison.md)**: Stops poison from harming subject for 1 hour/level.
 - **[Divine Arrow](divine-arrow.md)**: Imbues a projectile with holy energy.
+- **[Dwarven Veil](dwarven-veil.md)**: Target gains +2 on checks to influence dwarves.
 - **[Eagle’s Splendor](eagles-splendor.md)**: Subject gains +4 to Cha for 1 min./level.
 - **[Effortless Armor](effortless-armor.md)**: Armor you wear no longer slows your speed.
 - **[Endure Elements, Communal](endure-elements-communal.md)**: As endure elements, but you may divide the duration among creatures touched.
@@ -87,6 +89,7 @@
 - **[Litany of Warding](litany-of-warding.md)**: You gain two additional attacks of opportunity for 1 round.
 - **[Magic Siege Engine](magic-siege-engine.md)**: Siege engine gains +1 on targeting and damage rolls.
 - **[Martyr’s Bargain](martyrs-bargain.md)**: Delay spell damage, then take it maximized.
+- **[Oath of Justice](oath-of-justice.md)**: Seal an oath between two creatures; breakers are marked.
 - **[Owl’s Wisdom](owls-wisdom.md)**: Subject gains +4 to Wis for 1 min./level.
 - **[Protection from Chaos, Communal](protection-from-chaos-communal.md)**: As protection from chaos, but you may divide the duration among creatures touched.
 - **[Protection from Evil, Communal](protection-from-evil-communal.md)**: As protection from evil, but you may divide the duration among creatures touched.
@@ -134,6 +137,7 @@
 - **[Litany of Sight](litany-of-sight.md)**: You can see invisible creatures and objects within 30 feet of you.
 - **Magic Circle against Chaos/Evil**: As *protection from chaos*, but 10-ft. radius and 10 min./level.
 - **[Magic Weapon, Greater](magic-weapon-greater.md)**: Weapon gains +1 bonus/four levels (max +5).
+- **[Planned Assault](planned-assault.md)**: Planned actions grant bonuses for the first round.
 - **[Positive Pulse, Greater](positive-pulse-greater.md)**: A large pulse of positive energy damages undead and bolsters living creatures
 - **[Prayer](prayer.md)**: Allies get +1 bonus on most rolls, enemies –1 penalty.
 - **[Remove Blindness/Deafness](remove-blindness-deafness.md)**: Cures normal or magical blindness or deafness.
@@ -144,6 +148,7 @@
 - **[Second Wind](second-wind.md)**: Heal 2d8 + 1/level when below one-quarter hit points.
 - **[Sky Steed](sky-steed.md)**: Grant your mount angelic wings.
 - **[Spindrift Spritz, Mass](spindrift-spritz-mass.md)**: As spindrift spritz, affecting multiple creatures.
+- **[Tactical Formation](tactical-formation.md)**: Adjacent allies gain a deflection bonus to AC.
 - **[They Know](they-know.md)**: Convince target that a nearby creature knows her greatest secret.
 - **[Trial by Fire](trial-by-fire.md)**: Divine fire punishes targets whose alignment differs from your deity’s.
 - **[Vigilant Rest](vigilant-rest.md)**: Cause a sleeping creature to retain some perception of its surroundings.
@@ -157,6 +162,7 @@
 - **[Banishing Blade](banishing-blade.md)**: The weapon bull rushes foes and can banish outsiders.
 - **[Beacon of Luck](beacon-of-luck.md)**: Allies may roll saves twice.
 - **[Blade of Light](blade-of-light.md)**: Weapon shines with sunlight, harming undead.
+- **[Bloodsworn Retribution](bloodsworn-retribution.md)**: Swear an oath of retribution on your own blood for morale bonuses.
 - **[Break Enchantment](break-enchantment.md)**: Frees subjects from enchantments, transmutations, and curses.
 - **[Brightest Light](brightest-light.md)**: Longer-lasting daylight that can dispel darkness.
 - **[Burst of Glory](burst-of-glory.md)**: Allies gain attack and fear-save bonuses and temporary hit points.
@@ -181,6 +187,7 @@
 - **[Litany of Vengeance](litany-of-vengeance.md)**: Allies attacking the target of the spell gain a +5 bonus on damage rolls for 1 round.
 - **[Magic Siege Engine, Greater](magic-siege-engine-greater.md)**: Siege engine gains +1 on targeting and damage rolls for every four caster levels.
 - **[Mark of Justice](mark-of-justice.md)**: Designates action that triggers *curse* on subject.
+- **[Mighty Strength](mighty-strength.md)**: As bull's strength, but +8.
 - **[Neutralize Poison](neutralize-poison.md)**: Immunizes subject against poison, detoxifies venom in or on subject.
 - **[Paragon Surge](paragon-surge.md)**: You surge with ancestral power, temporarily embodying all the strengths of both elvenkind and humankind.
 - **[Purify Body](purify-body.md)**: Heals, grants temporary hit points, and removes pain, ability damage, and conditions.

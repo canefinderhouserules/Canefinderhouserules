@@ -124,6 +124,8 @@ The prestige classes presented in this chapter are summarized below.
 
 **[Scarlet Assassin](scarlet-assassin.md)**: An arcane assassin with prayer attacks, red mist, and a praying-mantis form.
 
+**[Seeker of Past Lives](seeker-of-past-lives.md)**: An elf who channels past incarnations and returns from death as an animal.
+
 **[Shadow Court Agent](shadow-court-agent.md)**: A lawful evil enforcer wielding darkness, shadow chains and an unnerving gaze.
 
 **[Shieldmarshal](shieldmarshal.md)**: A gun-wielding lawman with legal judgments and gunslinger deeds.

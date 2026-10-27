@@ -6,17 +6,45 @@ Race traits are tied to specific races or ethnicities. In order to select a race
 
 Only dwarfs may select one of these traits.
 
+**Clearheaded**: You see through deception and lies. You gain a +1 trait bonus on opposed checks against the Bluff and Disguise skills and a +1 trait bonus on saving throws against illusion effects.
+
+**Deep Guardian**: The subtle power of the deep places of the world flows within you, and grants you mastery of summoning beings of earth and stone. Any creature you conjure with a summon spell that has the earth subtype or a burrow speed gains a +1 morale bonus on attack rolls and a +1 enhancement bonus to Armor Class for the duration of the spell that summoned it.
+
+**Deep Marker**: You've dared uncharted tunnels in pursuit of a dwarven tradition of chiseling name-runes in subterranean depths. You gain a +1 trait bonus on Survival checks, and a +1 trait bonus on saving throws against fear effects.
+
+**Earthbound**: Your druid spells use a handful of earth or sand as a divine focus in addition to the normal components. While you are touching the ground, you add a +2 trait bonus to saving throw DCs and on caster level checks to overcome spell resistance for all spells you cast against creatures with the air subtype.
+
+**Eldritch Smith**: You are learned in the secret lore of the forge, rituals handed down for generations. Whenever you use the Craft skill or a crafting feat to make a stone or metal item, you reduce the cost of making the item by 5%. This includes metal-headed weapons with nonmetal parts, such as axes and spears.
+
 **Goldsniffer**: Your keen senses lead you to hidden treasures. You gain a +2 trait bonus on Perception checks related to metals, jewels, and gemstones.
 
+**Grounded**: You are well balanced, both physically and mentally. You gain a +2 trait bonus on balance-related Acrobatics checks, and a +1 trait bonus on Reflex saves.
+
+**Ruthless**: You never hesitate to strike a killing blow. You gain a +1 trait bonus on attack rolls to confirm critical hits.
+
+**Strength of the Land**: You are able to tap into the living energy of the world to shatter lesser magic. You gain a +1 trait bonus on caster level checks while touching the ground or unworked stone. This includes dispel checks and checks to overcome spell resistance.
+
 **Tunnel Fighter**: Caves and tunnels are a second home to you. While underground, you receive a +2 trait bonus on initiative checks and a +1 trait bonus on weapon damage rolls for critical hits (this damage is multiplied on a critical hit).
+
+**Warsmith**: You have an intuitive grasp of the weak points of metal and stone. You gain a +1 trait bonus to damage rolls against creatures and objects made primarily of clay, crystal, earth, metal, or stone. Knowledge (engineering) is a class skill for you.
+
+**Zest for Battle**: Your greatest joy is being in the thick of battle, and smiting your enemies for a righteous or even dastardly cause. Whenever you have a morale bonus to weapon attack rolls, you also receive a +1 trait bonus on weapon damage rolls.
 
 ## Elf Traits
 
 Only elfs may select one of these traits.
 
+**Arcane Dabbler**: Though your magical studies were decades ago, you still remember your favorite little trick. Choose a 0-level arcane spell. You may cast that spell once per day as a spell-like ability. Your caster level is equal to your highest class level in a spellcasting class; if you have no caster level, it functions at CL 1st. The spell-like ability's save DC is Intelligence- or Charisma-based (chosen when you select this trait).
+
 **Forlorn**: Having lived outside of traditional elf society for much or all of your life, you know the world can be cruel, dangerous, and unforgiving of the weak. You gain a +1 trait bonus on Fortitude saving throws.
 
+**Lapsed Faith**: You still remember a few prayers from your past experience serving in a temple. Once per day you may cast *cure light wounds* as a spell-like ability at caster level 1. The save DC is Wisdom-based.
+
+**Seeker of Enlightenment**: You have been actively searching for signs of spiritual enlightenment since childhood. Choose a Knowledge skill; you gain a +1 trait bonus on Knowledge checks of that type and on Perception checks.
+
 **Warrior of Old**: As a child, you put in long hours in combat drills, and though time has made this training a dim memory, you still have a knack for quickly responding to trouble. You gain a +2 trait bonus on Initiative checks.
+
+**Youthful Mischief**: Though you gave up the life of a scout or minstrel decades before, you still know how to roll with the punches when things turn sour. You gain a +1 trait bonus on Reflex saves.
 
 ## Gnome Traits
 

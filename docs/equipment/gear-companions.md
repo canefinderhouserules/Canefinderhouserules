@@ -1637,3 +1637,29 @@ This metal canister contains alchemical reactants separated by parchment and a s
 **Price** 40 gp; **Weight** —
 
 This sealed copper tube contains a packet of alchemical fertilizer and several sprouted seedlings from a wild fey realm. Once shaken and opened as a standard action, the tube exudes a multitude of vines that spill into an adjacent square for 3 rounds. Left alone, these vines create an area of difficult terrain in the square, but a creature holding the tube can shape the vines as they emerge into a crude tool, piece of furniture, or other object of wood or rope weighing 20 pounds or less with a successful DC 10 Craft (baskets or carpentry) check. The vine construct lasts for 10 minutes before crumbling to pieces. Crafting this item requires a successful DC 25 Craft (alchemy) check.
+
+## Dwarven Gear
+
+### Dwarven Dorn-Dergar
+
+**Exotic two-handed melee weapon**; **Cost** 50 gp; **Dmg (S)** 1d8; **Dmg (M)** 1d10; **Critical** ×2; **Weight** 15 lbs.; **Type** B; **Special** reach
+
+This exotic weapon is a 10-foot-long, heavy metal chain weighted at the end by a round ball of solid iron about the size of a large fist. By adjusting the slack of the chain, the weapon can be used either with or without reach. Changing between using it as a normal weapon and a reach weapon is a move action. Dwarves treat dorn-dergars as martial weapons.
+
+### Auroch's Breath
+
+**Price** 1 gp (pint)
+
+This bitter stout helps hardworking craftsmen endure long hours at the forge by lessening the sting of ambient heat. Drinking a pint gives you the benefit of an *endure elements* spell for 1 hour, though only against warmth and heat, not cold.
+
+### Lost Halls Porter
+
+**Price** 1 gp (pint)
+
+This porter has an almond aftertaste and enhances dwarven resistance to poison. Drinking a pint gives dwarves, and only dwarves, a +1 alchemical bonus to saving throws against poison.
+
+### Wondrous Whippersnap
+
+**Price** 1 gp (pint)
+
+This light ale, a rarity among dwarven beers, extends the range of your darkvision by 1d3 × 5 feet (varying from batch to batch, and even from person to person) for 1 hour, making it a favorite among warriors who stand watch in the deepest, darkest halls.
