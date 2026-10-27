@@ -68,7 +68,33 @@ This poem of sadness and longing was developed by a bard seeking a way to fight 
 
 **Action**: 1 full round.
 
-### Lament of the Reluctant Scholar (Oratory)
+### Exhilarating Prayer of Grace (Dance)
+
+You lead your audience through a series of stretches and exercises designed to warm the muscles and increase blood circulation.
+
+**Prerequisite**: Perform (dance) 4 ranks.
+
+**Cost**: Feat or 2nd-level bard spell known.
+
+**Effect**: After completing the series of exercises, anyone who observed the performance (including yourself) gains a circumstance bonus on all Acrobatics checks and to CMD equal to 1/5 of your bard level (minimum +1). This bonus persists for 10 minutes.
+
+**Use**: 1 round of bardic performance.
+
+**Action**: 3 rounds.
+
+### Hymn of Restorative Harmonics (Sing, Wind)
+
+You perform a song of such beauty that it touches the soul of any who hear it, allowing them to recover from any adverse conditions.
+
+**Prerequisite**: Perform (sing) or Perform (wind) 6 ranks.
+
+**Cost**: Feat or 3rd-level bard spell known.
+
+**Effect**: At the end of the round on which you complete this song, all allies within 30 feet who observed your performance gain a new saving throw to end the ongoing effects of certain debilitating conditions. An ally who is exhausted, fatigued, nauseated, sickened, staggered, or stunned as the result of a previously failed saving throw can attempt a new saving throw to immediately end one of the above effects. Characters under multiple effects must choose which effect they wish to attempt to end prematurely. Effects that did not grant a save to resist (such as the stun effect of *power word stun*) can't be ended by this masterpiece. In addition, anyone who observed this performance gains the effects of *delay poison* at a caster level equal to your bard level.
+
+**Use**: 3 bardic performance rounds.
+
+**Action**: 1 full round.
 
 ### Lament of the Reluctant Scholar (Oratory)
 
@@ -113,6 +139,20 @@ You affect the mood of listeners by celebrating the defeat of a legendary hero o
 **Use**: 2 bardic performance rounds.
 
 **Action**: 2 full rounds.
+
+### Stirring Discourse of the Mind (Oratory)
+
+You lecture your audience on the merits of studious endeavors and inspire them with new insights into the subject matter. As a result of your discourse, those who listen become more receptive to knowledge.
+
+**Prerequisite**: Perform (oratory) 4 ranks.
+
+**Cost**: Feat or 2nd-level bard spell known.
+
+**Effect**: Upon completion of your lecture, anyone who listened to your performance gains a +4 insight bonus on Knowledge checks to perform research in a library, and on Spellcraft checks to identify the properties of magic items. This bonus lasts for 10 minutes.
+
+**Use**: 2 rounds of bardic performance.
+
+**Action**: 1 minute.
 
 ### The Cat-Step (Dance)
 

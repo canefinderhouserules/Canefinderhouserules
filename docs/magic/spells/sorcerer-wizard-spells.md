@@ -131,6 +131,7 @@
 - **[Recharge Innate Magic](recharge-innate-magic.md)**: You channel magic energy into your own aura, recharging your innate magic abilities.
 - **[Reinforce Armaments](reinforce-armaments.md)**: Temporarily mitigates the fragile quality in targeted weapon or armor.
 - **[Reveal Secrets](reveal-secrets.md)**: Learn whether a target has a secret
+- **[Rite of Centered Mind](rite-of-centered-mind.md)**: Meditative spell: bonus against mind-affecting effects, with a reroll.
 - **[Rune Trace](rune-trace.md)**: Learn a rune’s age, language, and purpose.
 - **[Sculpted Cape](sculpted-cape.md)**: Your cape stiffens and holds its shape.
 - **[Secluded Grimoire](secluded-grimoire.md)**: Hide your spellbook on the Ethereal Plane.
@@ -389,6 +390,8 @@
 - **[Umbral Weapon](umbral-weapon.md)**: Reroll missed attacks for cold damage.
 - **[Undeath Sense](undeath-sense.md)**: Constant awareness of undead within 60 ft.
 - **[Vine Strike](vine-strike.md)**: Enhance one of your natural or unarmed attacks with thorny vine growth.
+- **[Visualization of the Body](visualization-of-the-body.md)**: Meditative spell: bonus to one physical ability's skills, plus a one-time boost.
+- **[Visualization of the Mind](visualization-of-the-mind.md)**: Meditative spell: bonus to one mental ability's skills, plus a one-time boost.
 - **[Warding Weapon](warding-weapon.md)**
 - **[Web](web.md)**: Fills 20-ft.-radius spread with sticky spiderwebs that can grapple foes and impair movement.
 
@@ -573,6 +576,7 @@
 - **[Resize Item](resize-item.md)**: Resizes a weapon or armor by up to two sizes.
 - **[Returning Weapon, Communal](returning-weapon-communal.md)**: As returning weapon, but you may divide the duration among weapons touched.
 - **[Scale Spikes, Greater](scale-spikes-greater.md)**: Scale spikes with up to +5 enhancement
+- **[See Beyond](see-beyond.md)**: Meditative spell: large Perception bonus and brief x-ray vision.
 - **[Seed Spies](seed-spies.md)**: Wafting seeds act as spies, as insect spies.
 - **[Selective Alarm](selective-alarm.md)**: As *alarm*, but only against selected creatures.
 - **[Selective Invisibility](selective-invisibility.md)**: Invisible, except to one chosen creature you may attack.
@@ -585,6 +589,7 @@
 - **[Slave to Sin](slave-to-sin.md)**: Exploit a creature’s sin to sicken and stagger it.
 - **[Sleet Storm](sleet-storm.md)**: Hampers vision and movement.
 - **[Spider Climb, Communal](spider-climb-communal.md)**: As spider climb, but you may divide the duration among creatures touched.
+- **[Spirit Bonds](spirit-bonds.md)**: Meditative spell: track bonded creatures and send a telepathic message.
 - **[Stage Fright](stage-fright.md)**: Targets take –4 on ability, skill, and concentration checks.
 - **[Stinking Cloud](stinking-cloud.md)**: Nauseating vapors, 1 round/level.
 - **[Stolen Light](stolen-light.md)**: Store an image within a gem.
@@ -703,6 +708,7 @@
 - **[Enticing Adulation](enticing-adulation.md)**: Target rages to defend you.
 - **[Fey Form I](fey-form-i.md)**: Assume the form of a Small or Medium fey creature.
 - **[Fire Trap](fire-trap.md)**: Opened object deals 1d4 damage + 1/level.
+- **[Firewalker's Meditation](firewalkers-meditation.md)**: Meditative spell: damage reduction, fire resistance, and pain resistance.
 - **[Flesh Puppet](flesh-puppet.md)**: Control a zombie in human guise.
 - **[Fool's Teleport](fools-teleport.md)**: Turn invisible while appearing to have teleported away.
 - **[Forgetful Slumber](forgetful-slumber.md)**: This spell acts as the deeper slumber spell, but only affects one creature of 10 Hit Dice or fewer.
@@ -730,6 +736,7 @@
 - **[Majestic Image](majestic-image.md)**: As *enter image*, but also gain bonuses on social skills while in the image.
 - **[Make Whole, Greater](make-whole-greater.md)**: Repair destroyed items and constructs.
 - **[Master's Escape](masters-escape.md)**: Swap places with a summoned creature
+- **[Medusa's Bane](medusas-bane.md)**: Gain immunity to gaze attacks and reflect one.
 - **[Meticulous Match](meticulous-match.md)**: Determine if two things are identical.
 - **[Miasmatic Form](miasmatic-form.md)**: This spell functions like gaseous form, except the target’s vaporous body is dangerous to creatures that.
 - **[Mindscape Door](mindscape-door.md)**: Create a portal allowing entry to and exit from a mindscape.

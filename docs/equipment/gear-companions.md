@@ -1615,3 +1615,11 @@ The skydragon firework is the apex of the firework artisan's craft. Unlit, a sky
 This disk of paper or light cloth is stretched over a frame of thin wooden supports, with tubes of paper or cured hide spaced evenly around the rim. The whole firework is mounted on a spike or peg and placed on the ground. At the end of the round when it's lit, it spins rapidly and sheds a curtain of dazzling sparks 15 feet wide. The curtain of sparks obscures vision, granting concealment against creatures on the opposite side. A sparking pinwheel burns for 1d4+1 rounds, and any creature that begins its turn adjacent to the curtain of sparks takes 1 point of fire damage and is dazzled for 1d4 rounds (Reflex DC 14 negates). Creatures that pass through the curtain of sparks take 1d4 points of fire damage and are blinded for 1 round (a successful save halves the damage and negates the blindness). If not mounted on a solid, immobile object, a sparking pinwheel cannot spin smoothly and instead fills a single 5-foot square with a shower of sparks; its effects are otherwise unchanged for creatures adjacent to or passing through that square.
 
 **Recipe** (5 black powder + 15 magnesium + 30 phosphorus)/calcination; **Craft DC** 25; **Time** 1 hour; **Tools** crucible; **Type** alchemical weapon
+
+## Religious Gear
+
+### Holy Text
+
+**Price** 25 gp; **Weight** 2 lbs.
+
+A holy text records the rites and practices of a faith. Most weigh 2 pounds and cost 25 gp. A subcategory of these tomes are known as prayer books—generally higher-quality holy texts that can come in virtually any size. Prayer books can be embellished with precious metals and stones, use stronger paper that is resistant to damage, or contain particularly poetic and lyrical prose, with no upper end to the price such a treasure might command. Other prayer books are so well organized and concise that using one in conjunction with research grants a +2 circumstance bonus on a Knowledge (religion) check, akin to the way other masterwork tools enhance other skill checks; a prayer book that grants such a boon costs an additional 100 gp above its base cost. The primary purpose of a prayer book is to contain details on rare or unusual divine spells, obscure feats, fighting styles, formulae for the crafting of magic items, and information about esoteric methods of worship.

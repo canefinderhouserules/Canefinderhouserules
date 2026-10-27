@@ -904,3 +904,24 @@ This drab leather tome is stamped plainly with elven lettering, appearing at fir
 **Preparation Ritual**
 
 **Disruption Master (Ex)** The Archer's claims about the imperfections of spellcasting and the failings of magic provide additional insight into interrupting spellcasting. Unlike other boons, you do not spend this one. Until you prepare spells again, when you damage a foe or the foe fails a saving throw against a spell of yours, the foe also takes a –2 penalty on all concentration checks it attempts for 1 round.
+
+## The Prying Eye
+
+*Level 7 Universalist*
+
+The front cover of this tome is as black as night, while the back cover is ivory white. An eye-shaped symbol graces both covers. Its methods of magic focus on spells and effects that enhance vision or otherwise interact with sight.
+
+**Opposition Schools** Enchantment, Necromancy
+
+**Value** 1,940 gp (2,200 gp with the preparation ritual)
+
+**Spells**
+
+- 4th: arcane eye, eyes of the void, medusa's bane
+- 3rd: arcane sight, channel the gift, fractions of heal and harm
+- 2nd: darkvision, burning gaze, see invisibility, spell gauge
+- 1st: countless eyes, detect secret doors, identify, invisibility alarm, see alignment, true strike
+
+**Preparation Ritual**
+
+**Keen Perception (Su)** You can spend this boon to gain a +2 insight bonus on a single Perception or Sense Motive check.

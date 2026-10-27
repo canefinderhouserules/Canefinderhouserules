@@ -153,17 +153,33 @@ These traits are associated with combat, battle, and physical prowess. They give
 
 These traits rely upon conviction of spirit, perception, and religion, but are not directly tied to the worship of a specific deity. You do not need a patron deity to gain a faith trait, as these traits can represent conviction in yourself or your philosophy just as easily as they can represent dedication to a deity.
 
+**Ancestor's Blade**: You were trained by your family with a weapon passed down from a venerable ancestor. You begin play with an heirloom masterwork weapon worth up to 400 gp. You gain a +1 trait bonus on attack rolls with weapons of this type (not just your initial heirloom weapon) when you smite evil.
+
+**Apprentice**: During your studies of arcane texts, you learned some minor magical tricks. Select a single 0-level spell from the sorcerer/wizard spell list. You can cast this spell 1 time per day as a spell-like ability.
+
+**Arcane Scholar**: Study of arcane research has broadened your magical knowledge. Choose either Knowledge (arcana) or Spellcraft; you gain a +1 trait bonus on that skill and it is a class skill for you.
+
+**Avowed Inspiration**: In emulation of a legendary champion's intensely channeled rage, you are an inspiration on the battlefield. Once per day, when you attack a foe who injured you during the same combat, you can inspire allies who can see you as a move action. Each other ally within 30 feet who can see you gains a +2 morale bonus on her next attack roll.
+
 **Beacon of Faith**: You wield the might of your faith with power and clarity. Once per day as a free action, you may treat your caster level as if it were 2 levels higher when using one of the granted powers of your domain or inquisition, or when casting one of your domain spells.
 
 **Blessed**: Some divine agent watches over you and heeds your call. Once per day as a swift action, you gain a +1 trait bonus on all saving throws for 1 round.
 
 **Blessed Touch**: You have focused yourself into being the perfect vessel for your deity. Divine power flows through you like a mountain stream, making your healing touch more potent than that of others. You heal 1 additional point of damage when using lay on hands, channeling energy, or casting a cure spell.
 
+**Blind Zeal**: You are blind but trained to sense your surroundings by sound and touch. You need not attempt a skill check to move at full speed. You take a –4 penalty from blindness on only Acrobatics, Ride, Sleight of Hand, and Stealth checks. You gain Blind-Fight as a bonus feat. You lose the benefits of this trait whenever you can see, but regain them if you once again become blind.
+
 **Bloody Vengeance**: You were slain by evil forces as a child, but a servant of your faith restored you to life. Now you live on in service to your deity, battling the forces of evil so no other child will know the icy grip of death. You gain a +2 trait bonus on attack rolls to confirm critical hits against any creature that has at least a faint evil aura (see *detect evil*).
+
+**Consolation**: You had a close encounter with a servant or worshiper of a god of consolation who provided you with a memorable, if unconventional, consolation after a loss. As a result, you gain a +2 trait bonus on saving throws against emotion and fear effects. If you are immune to fear, you instead gain a +4 trait bonus on saves against emotion effects.
+
+**Darkest Before Dawn**: Your devotion sustains you when others would fall to despair. You gain a +2 trait bonus on saving throws against spells with the emotion, fear, or pain descriptor. Once per day, you can increase this bonus to +4 for a single save, but you must make this decision before you attempt the saving throw.
 
 **Disdainful Defender**: You are resistant to the magic of other faiths. You gain a +2 trait bonus on all Will saves you attempt against divine spells. This bonus does not apply against divine spells cast by a caster who worships the same deity you do.
 
 **Divine Confidante**: You were inspired with the reverence offered by worshipers to priests and other spiritual leaders, so you assisted them. You gain a +3 trait bonus on Sense Motive checks to get hunches about those who discuss matters of faith, mythology, morality, religion, or the Outer Planes with you. Sense Motive is a class skill for you.
+
+**Enemy of Delusion**: You were once faced with a grave injustice committed by an ignorant or delusional person, and righteous indignation moved you to correct the mistaken party. Once per day, when you confirm a critical hit against, successfully use a smite attack on, or use lay on hands on a creature that is affected by a charm or compulsion effect, you can invoke your patron to open the target's eyes. If the effect originally allowed a saving throw to resist it, the target can attempt a new saving throw against the charm or compulsion; if she's successful, the effect ends immediately.
 
 **Envoy of Healing**: You strive to spread your faith’s message of kindness and compassion throughout the land, no matter how dangerous the road may be. Whenever you use channel energy, fervor, or lay on hands to heal a living creature, you can reroll any healing die roll that results in a natural 1 (you must use the new result).
 
@@ -171,19 +187,47 @@ These traits rely upon conviction of spirit, perception, and religion, but are n
 
 **Fearless Defiance**: Upon overcoming your fear, you become a scourge to your enemies. You gain a +1 trait bonus on all saving throws against fear effects. In addition, if you successfully save against such an effect, you receive a +1 trait bonus on attack rolls against your favored enemies for 1 round.
 
+**Fiend Crusader**: From studying accounts of battles against demonic forces, you have trained to be a crusader against fiends. You gain a +1 trait bonus on attack rolls against outsiders with the chaotic subtype.
+
 **Focused Disciple**: When weaker wills falter, you keep a clear mind. You gain a +2 trait bonus on saving throws against charm and compulsion effects.
+
+**Gemstone Collector**: You have long found focus and inspiration in the natural beauty of rare gemstones. As long as you carry bejeweled objects worth a total combined value of 200 gp × your character level, you gain a +1 trait bonus on all Will saving throws and a +2 trait bonus on a single Charisma-based skill check of your choice.
+
+**Guardian Smite**: Paladins taught you to be a blessed, living barrier against enemies who threaten those you hold dear. Once per day, when you strike a foe with smite evil, you can halve the total damage dealt to the foe to reduce that foe's speed to 5 feet for 1 round.
+
+**Hearth Bounty**: You were taught to tend the sacred hearth-fire and cook nourishing meals as a child. You gain a +1 trait bonus on Profession (cook) checks and can prepare a nourishing meal of up to eight portions with 1 hour of effort at a cost of 20 gp. Anyone who eats a portion within 1 day (which takes 10 minutes) gains a +1 morale bonus that can be applied to any one skill check or attack roll in the next 8 hours. The bonus must be applied before the roll is made and cannot be renewed by another meal for 1 day.
+
+**Heedful Readiness**: Your years of meditation and mindfulness allow you to act correctly on a moment's notice. Once per day, you can add your Wisdom modifier to an initiative check.
 
 **Hidden Faith**: You were raised in a religion forbidden by your government, and draw strength from your hidden faith. You gain a +1 trait bonus on saving throws against the divine spells of creatures that worship a god other than your own.
 
+**Hidden Identity**: You learned that keeping secrets often means hiding your true identity. Once per day, when attempting a Disguise check, roll twice and take the better result.
+
 **Inspired**: A positive force, philosophy, or divine presence fills you with hope, and is a guiding force of inspiration. Once per day as a free action, roll twice and take the better result on a skill check or ability check.
+
+**Living Bulwark**: Your patron inspires you to give your all for those you protect. Once per day, when an adjacent ally is targeted by an attack but before the attack roll is attempted, you can interpose yourself as an immediate action. You become the target of the attack instead.
 
 **Loyalty across Lifetimes**: You and your eidolon share a link that seems to span multiple lifetimes. Your eidolon treats its Constitution score as if it were 2 points higher for the purposes of determining when its negative hit point total sends it back to its home plane. In addition, your eidolon gains a +1 trait bonus on Will saves against enchantment spells and effects.
 
+**Lucky Prayer**: You found yourself in deep trouble in your youth but stumbled upon an unlikely way out after praying for luck. Once per day, you can roll twice and take the better result on a skill check.
+
 **Martial Manuscript**: You either carry or have memorized a sacred text from your school, temple, or monastery, and its wisdom gives you insight that makes your attacks more devastating. You gain a +2 trait bonus on rolls to confirm critical hits when you’re using an unarmed strike or monk weapon.
+
+**Meditative Rest**: You have learned to augment sleep with meditation so as to make the daily ritual of spell preparation flow more smoothly. When you rest, you ignore the first time you are interrupted during that rest for the purposes of determining how long you need to rest in full to regain the capacity to regain spells, provided the interruption lasts no more than 15 minutes. If you cast spells during this interruption, you don't count these against your daily limit of spells when you wake and prepare spells.
 
 **Mercantile Prophecy**: You were raised under a merchant creed of prophetic business maxims, and were inspired to seize upon an untapped business opportunity. Up to once per week, when you work to advance this opportunity with at least 1 day of effort, you can attempt an appropriate Profession check to earn money or gain capital using the downtime rules with a +2 trait bonus. In the event of a failed check, your opportunity is discovered by rivals and you cannot employ this trait for 1 month while you look for a new opportunity.
 
+**Merciful Hearth**: You were called upon to defend your home or family at a vulnerable time and led with a clarity of mind you did not know you had. Once per day when you use lay on hands, you also cure the target of 1d4 points of Intelligence, Wisdom, or Charisma damage. You choose which ability score gains the healing effect.
+
+**Mighty Protector**: When you were too young to fight, you witnessed a great tragedy befall an innocent and you swore you'd become strong enough to prevent something like that from happening again. Once per day when you hit a foe with a melee attack, you can attempt an aid another action as a free action to increase an adjacent ally's AC against that foe. If you succeed, you grant the ally a +4 bonus to AC instead of a +2 bonus for that round.
+
+**Mischievous Smite**: You consider mischief a sacred rite in humbling enemies. You do not provoke attacks of opportunity when performing a dirty trick combat maneuver while your smite evil bonus applies to combat maneuver checks. If you already do not provoke such attacks of opportunity (such as by having Improved Dirty Trick), you instead gain a +2 trait bonus on dirty trick combat maneuver checks against creatures that are the targets of your smite.
+
+**Natural Magic**: You were taught that all magic can ultimately be traced back to nature. Choose two 0-level druid spells. You treat each spell as being on your class spell list and as a spell known for all spellcasting classes you have.
+
 **Oathbound**: You have made a solemn oath, and you pursue that oath with headstrong determination. Once per day, you may reroll a saving throw against a charm or compulsion effect. You must take the second result even if it is worse.
+
+**Oathkeeper's Vow**: You were trained to make unbreakable vows. You add the following spells to the paladin spell list at the indicated levels: *command* (1st), *forbid action* (1st), *suggestion* (to fulfill a prior promise only; 2nd), *lesser geas* (3rd), *geas/quest* (4th).
 
 **Omen**: You are the harbinger of some future event. Whether this event bodes good or ill, you exude an ominous presence. You gain a +1 trait bonus on Intimidate checks, and Intimidate is always a class skill for you. Once per day, you may attempt to demoralize an opponent as a swift action.
 
@@ -195,25 +239,53 @@ These traits rely upon conviction of spirit, perception, and religion, but are n
 
 **Principled**: You hold yourself to a strict code of behavior that guides all of your decisions and actions. You take a –2 penalty on Bluff checks and gain a +2 trait bonus on saving throws against charm, compulsion, and emotion effects.
 
+**Pristine Reputation**: You come from an especially esteemed family, religious order, school, or other group, and draw upon that tradition to maintain your identity. The first time each day that you fail a saving throw against a charm or compulsion effect, you can reroll that saving throw. If you do so, you gain a +2 trait bonus on this roll and use this result as the actual result for that saving throw.
+
 **Prophesied**: Your coming was foretold in prophecy, and people familiar with your legend regard you with awe and fear. You gain a +1 trait bonus on Diplomacy checks and Intimidate checks when interacting with anyone familiar with you or your reputation.
+
+**Redeemed**: You were born into a family, nation, or other group that tried to impress evil ideals upon you, but you were inspired to live a moral life despite their influence. You gain a +2 trait bonus on Sense Motive checks to see through an evil creature's Bluff attempts.
 
 **Redeemer**: You’ve always held the strong belief that morality is everyone’s choice, and that those who act in wicked ways have simply never been shown how their actions truly affect others. When acting as a sponsor for an evil creature seeking [redemption](../../rules/additional-rules/redemption.md), your patience and kindness grant the creature a +3 bonus on its save rather than a +1 bonus.
 
 **Reincarnated**: You lived a previous life as someone—or something— else. For you, life and death are a cycle, and you have no fear of death. You gain a +2 trait bonus on saving throws against fear and death effects.
 
+**Relentless Duty**: You were raised with the mantra that fulfilling your duty must always come first. Now living up to a promise comes as easily as breathing. Once per day, you can take 10 on a skill check attempted as part of fulfilling a prior promise even if you are distracted or in combat.
+
+**Resilient Martyr**: You interposed yourself between an innocent and a dangerous evil monster or force, lost a great deal of blood as a result, and barely survived. Now, your blood seems to replenish with blessed speed. You recover twice as many hit points and points of ability damage as normal when you rest, or three times as many when you take total bed rest.
+
+**Righteous Charge**: You hope to earn a place of honor at your patron's side after death and are inspired to charge with all your might into any righteous battle. You gain a +1 trait bonus on all melee attack rolls when you charge.
+
+**Rousing Courage**: A warrior's simple act of courage in your patron's name inspired you during one of your first battles. Now, you strive to be equally inspiring to others. Once per day, when you generate an effect that grants a morale bonus, increase that bonus by 1 for all creatures affected.
+
 **Scarred by War**: You have experienced firsthand the horrors of war, which have left you physically or mentally scarred. Now you have committed yourself to a faith of mercy, seeking to heal those wounded in combat and to prevent battles from occurring whenever you can. You gain a +1 trait bonus on Diplomacy checks outside of combat. In addition, when you heal creatures other than yourself using class abilities, feats, spells, and spell-completion or spell-trigger magic items, you restore 1 additional hit point.
 
 **Schooled Inquisitor**: Your additional training aids in identifying the wiles of your faith’s enemies. You gain a +2 trait bonus on all Knowledge (planes) and Knowledge (religion) checks made to identify the abilities and weaknesses of creatures.
+
+**Secret Keeper**: Avoiding inquisitors and agents of your enemies has required you to become a practiced liar. You gain a +3 trait bonus on Bluff checks when they are opposed by another's Sense Motive check.
 
 **Soul-Searcher’s Strength**: Your introspections have taught you to understand your own flaws and proclivities and how to work with them. Choose one saving throw. You gain a +1 trait bonus on saving throws of the chosen kind.
 
 **Spirit Sense**: You are so attuned to the spiritual world that it is hard to get the jump on you. You gain a +2 trait bonus on Perception checks to avoid being surprised and to detect invisible or incorporeal creatures.
 
+**Strength of Submission**: Your faith in your church and willingness to surrender yourself to it lend you strength and clarity. Whenever you are under the effects of a compulsion effect, you gain a +1 trait bonus on attack and damage rolls.
+
+**Student of History**: One can move toward enlightenment by understanding the mistakes of past generations. You gain a +1 trait bonus on Knowledge (history) checks, and Knowledge (history) is a class skill for you.
+
 **Tireless Avenger**: You restlessly pursue your enemies. When you’re in pursuit of one of your favored enemies, the DC for the Constitution check to avoid taking lethal damage during a forced march is 10 + 1 per extra hour, instead of 10 + 2 per extra hour.
+
+**Traditionalist**: You attempt to maintain older traditions despite changing social norms, and find great value in the trappings and codes of the aristocracy. You gain a +1 trait bonus on Knowledge (nobility) checks, and Knowledge (nobility) is a class skill for you.
+
+**Undaunted**: Following the path of freedom has resulted in you being threatened by ruffians and bullies throughout your childhood, and it now takes a lot to rattle you. You increase the DC to demoralize you with an Intimidate check by 2.
+
+**Unshackled**: You have escaped slavery or other imprisonment and have vowed never to be shackled again. You gain a +1 trait bonus on Escape Artist checks, and Escape Artist is a class skill for you.
+
+**Untrained Scholar**: While scholarship is not your primary focus, you have spent enough time in classrooms and libraries to learn a few things. Once per day, you can attempt a Knowledge (geography), Knowledge (history), or Knowledge (local) check untrained with a +2 trait bonus.
 
 **Urban Acolyte**: Growing up in a city has broadened your philosophy, and helped you interpret your patron’s divine will in a novel way. You gain Knowledge (local) as a class skill. Additionally, you can select one of the following subdomains using the normal rules for subdomains so long as your deity grants access to its associated domain: Competition, Duels, Education, Espionage, Fortifications, Industry, Legislation, Plague, or Riot.
 
 **Wanderer’s Shroud**: Your wanderings often go unnoticed. Efforts to use the Diplomacy skill to gather information about you take a –1 penalty, and you gain a +1 trait bonus on all saving throws against scrying and mind-reading effects that allow saving throws.
+
+**Watchful Eye**: You once fell asleep during a task that required your attention. A vision of your patron awakened you just in time to avoid failing at your task. You gain a +3 trait bonus on Perception checks attempted while you are alone on guard duty.
 
 **Zealous Striker**: Your zeal is a danger to those of “lesser” faiths. While you have the destruction judgment active, you gain a +1 trait bonus on damage rolls when attacking a foe who can cast divine spells and worships a different deity than you.
 

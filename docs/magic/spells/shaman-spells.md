@@ -84,6 +84,8 @@ Shamans gain access to the following spells. Spells in plain text come from othe
 - **[Punishing Armor](punishing-armor.md)**: Reflects nonlethal damage back at attackers.
 - **[Remove Fear](remove-fear.md)**: Suppresses fear or gives +4 on saves against fear for one subject + one per four levels.
 - **[Resist Starvation](resist-starvation.md)**: Delay the effects of starvation
+- **[Rite of Bodily Purity](rite-of-bodily-purity.md)**: Meditative spell: bonus against disease and poison, with a reroll.
+- **[Rite of Centered Mind](rite-of-centered-mind.md)**: Meditative spell: bonus against mind-affecting effects, with a reroll.
 - **[Scarify](scarify.md)**: Convert lethal damage to nonlethal, leaving scars
 - **[Sculpted Cape](sculpted-cape.md)**: Your cape stiffens and holds its shape.
 - **[Sense Spirit Magic](sense-spirit-magic.md)**: Gain bonuses on identifying and resisting spells associated with your spirits.
@@ -191,6 +193,8 @@ Shamans gain access to the following spells. Spells in plain text come from othe
 - **[Undeath Sense](undeath-sense.md)**: Constant awareness of undead within 60 ft.
 - **[Venomous Bite](venomous-bite.md)**: Target's bite delivers a stored poison.
 - **[Vine Strike](vine-strike.md)**: Enhance one of your natural or unarmed attacks with thorny vine growth.
+- **[Visualization of the Body](visualization-of-the-body.md)**: Meditative spell: bonus to one physical ability's skills, plus a one-time boost.
+- **[Visualization of the Mind](visualization-of-the-mind.md)**: Meditative spell: bonus to one mental ability's skills, plus a one-time boost.
 - **[Warp Wood](warp-wood.md)**: Bends wood.
 - **[Web Shelter](web-shelter.md)**: Create a comfortable shelter made of webbing.
 - **[Wicker Horse](wicker-horse.md)**: Animate plants into a riding horse
@@ -253,6 +257,7 @@ Shamans gain access to the following spells. Spells in plain text come from othe
 - **[Remove Curse](remove-curse.md)**: Frees object or person from curse.
 - **[Revenant Armor](revenant-armor.md)**: Armor animates around its fallen wearer.
 - **[Scale Spikes, Greater](scale-spikes-greater.md)**: Scale spikes with up to +5 enhancement
+- **[See Beyond](see-beyond.md)**: Meditative spell: large Perception bonus and brief x-ray vision.
 - **[Seed Spies](seed-spies.md)**: Wafting seeds act as spies, as insect spies.
 - **[Signs of the Land](signs-of-the-land.md)**: Learn up to three details about the surrounding territory.
 - **[Sleet Storm](sleet-storm.md)**: Hampers vision and movement.
@@ -260,6 +265,7 @@ Shamans gain access to the following spells. Spells in plain text come from othe
 - **[Soul Vault](soul-vault.md)**: Protect a soul from being trapped
 - **[Speak with Dead](speak-with-dead.md)**: Corpse answers one question/two levels.
 - **[Speak with Haunt](speak-with-haunt.md)**: Haunt answers one question/2 levels.
+- **[Spirit Bonds](spirit-bonds.md)**: Meditative spell: track bonded creatures and send a telepathic message.
 - **[Stench of Prey](stench-of-prey.md)**: Predatory animals must successfully save or attack the target.
 - **[Stinking Cloud](stinking-cloud.md)**: Nauseating vapors, 1 round/level.
 - **[Stone Shape](stone-shape.md)**: Sculpts stone into any shape.
@@ -306,6 +312,7 @@ Shamans gain access to the following spells. Spells in plain text come from othe
 - **[False Life, Greater](false-life-greater.md)**: Gain 2d10 temporary hp + 1/level.
 - **[Familiar Melding](familiar-melding.md)**: Possess your familiar.
 - **[Fear](fear.md)**: Subjects within cone flee for 1 round/level.
+- **[Firewalker's Meditation](firewalkers-meditation.md)**: Meditative spell: damage reduction, fire resistance, and pain resistance.
 - **[Flesh Puppet Horde](flesh-puppet-horde.md)**: Control multiple zombies in human guise.
 - **[Forest’s Sense](forests-sense.md)**: Sense the location of a distant target that is near a plant or fungus.
 - **[Giant Vermin](giant-vermin.md)**: Turns centipedes, scorpions, or spiders into giant vermin.
@@ -435,6 +442,7 @@ Shamans gain access to the following spells. Spells in plain text come from othe
 - **[Curse Terrain, Greater](curse-terrain-greater.md)**: Curse an area with six dangerous hazards.
 - **[Dispel Magic, Greater](dispel-magic-greater.md)**: As *dispel magic*, but with multiple targets.
 - **[Eagle’s Splendor, Mass](eagles-splendor-mass.md)**: As *eagle’s splendor*, 1 subject/level.
+- **[Enlightened Step](enlightened-step.md)**: Meditative spell: walk on air, then fly for 1 minute.
 - **[Fey Form III](fey-form-iii.md)**: Assume the form of a Diminutive or Huge fey creature.
 - **[Find the Path](find-the-path.md)**: Shows most direct way to a location.
 - **[Fire Seeds](fire-seeds.md)**: Acorns and berries become grenades and bombs.

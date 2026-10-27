@@ -292,3 +292,6 @@ Rogues of at least 10th level can select these advanced talents in place of a ta
 
 **Unlock Ki (Ex)**: A rogue with this advanced talent increases the number of points in the ki pool that she gains from the ki pool rogue talent to be equal to 1/2 her rogue level + her highest mental ability score modifier (Intelligence, Wisdom, or Charisma). In addition, she can spend 2 points from her ki pool as a swift action to gain the skill unlocks for one skill of her choice as appropriate for her number of ranks in that skill. This benefit lasts for 1 minute. The rogue must have a ki pool before selecting this advanced talent.
 
+## Divine Anthology Rogue Talents
+
+**Expert Cipher (Ex)**: A rogue with this ability can attempt a Linguistics check to decipher a single page of text as a full-round action instead of taking 1 minute as normal. In addition, when the rogue attempts a Use Magic Device check to cast a spell from a scroll, she is treated as though she had the minimum score in the appropriate ability score to cast that spell. Finally, the rogue can choose to add her Intelligence modifier to her Use Magic Device skill checks instead of her Charisma modifier.

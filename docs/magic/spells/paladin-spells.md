@@ -43,6 +43,7 @@
 - **[Read Magic](read-magic.md)**: Read scrolls and spellbooks.
 - **[Resistance](resistance.md)**: Subject gains +1 on saving throws.
 - **[Restoration, Lesser](restoration-lesser.md)**: Dispels magical ability penalty or repairs 1d4 ability damage.
+- **[Rite of Bodily Purity](rite-of-bodily-purity.md)**: Meditative spell: bonus against disease and poison, with a reroll.
 - **[Shield of Shards](shield-of-shards.md)**: Your shield breaks into orbiting shards that attack.
 - **[Songbird](songbird.md)**: Conjure music from a good-aligned plane
 - **[Spindrift Spritz](spindrift-spritz.md)**: Ally rerolls a save against fatigue, shaken, sickened, or staggered.
@@ -126,6 +127,7 @@
 - **[Detoxify](detoxify.md)**: Neutralize a creature’s poison attacks.
 - **[Discern Lies](discern-lies.md)**: Reveals deliberate falsehoods.
 - **[Dispel Magic](dispel-magic.md)**: Cancels one magical spell or effect.
+- **[Firewalker's Meditation](firewalkers-meditation.md)**: Meditative spell: damage reduction, fire resistance, and pain resistance.
 - **[Guardian Monument, Lesser](guardian-monument-lesser.md)**: Humans defending the area gain DR 2/magic.
 - **[Heal Mount](heal-mount.md)**: As *heal* on horse or other special mount.
 - **[Litany of Escape](litany-of-escape.md)**: Teleports a friend out of a grapple.

@@ -115,6 +115,7 @@ The magus class spell list appears on the [Magus](../../characters/classes/magus
 - **[Telekinetic Volley](telekinetic-volley.md)**: Hurl touched items as ranged attacks.
 - **[Twisted Space](twisted-space.md)**: Targeted creature’s attacks target a random square instead of the intended target.
 - **[Umbral Weapon](umbral-weapon.md)**: Reroll missed attacks for cold damage.
+- **[Visualization of the Body](visualization-of-the-body.md)**: Meditative spell: bonus to one physical ability's skills, plus a one-time boost.
 - **[Winged Sword](winged-sword.md)**: A melee weapon gains the throwing special ability.
 - **[With the Wind](with-the-wind.md)**: Protect a target from being blown away by wind of less than windstorm force.
 

@@ -2265,3 +2265,58 @@ This shard of quartz is roughly the size of a human finger and covered in flowin
 | 9th | 81,000 gp | 40,500 gp |
 
 **Construction Requirements:** Craft Wondrous Item, creator must be able to cast the spell contained in the shard; **Cost** half the price (see table)
+
+## Divine Items
+
+### Staff of the Archmage's Eye
+
+**Slot** none; **CL** 13th; **Price** 131,550 gp; **Weight** 5 lbs.
+
+**Aura** strong abjuration
+
+These staves are often made of darkwood and topped with an eye-shaped symbol set with rare gems that glow with magical energy. While the upper end of the staff always appears clean and pristine, the lower end of the staff's shaft appears charred by fire and pitted by acid. This staff allows the use of the following spells:
+
+- *Arcane sight* (1 charge)
+- *Channel the gift* (1 charge)
+- *Fractions of heal and harm* (1 charge)
+- *Spell gauge* (1 charge)
+- *Prying eyes* (2 charges)
+- *Spell scourge* (3 charges)
+
+In addition, the wielder of the staff can store additional spells in the staff itself, similarly to a *ring of spell storing*. The staff can contain up to 5 levels of spells (arcane, divine, or psychic, or even a mix of all three). The wielder doesn't need to spend charges to cast one of these stored spells from the staff, but must have levels in a class with that spell on its spell list.
+
+**Construction Requirements:** Create Staff, Heightened Spell, *arcane sight*, *channel the gift* or *imbue with spell ability*, *fractions of heal and harm*, *prying eyes*, *spell gauge*, *spell scourge*; **Cost** 65,775 gp
+
+### Icon of Order
+
+**Slot** none; **CL** 9th; **Price** 26,170 gp; **Weight** 15 lbs.
+
+**Aura** moderate abjuration
+
+An *icon of order* is a +2 heavy steel shield that typically displays a sunburst holy symbol on a white field. The wielder of an *icon of order* gains a +2 sacred bonus on saves against spells and effects with the chaotic descriptor. Once per day, the wielder can cast *protection from chaos* as a swift action.
+
+**Construction Requirements:** Craft Magic Arms and Armor, Quicken Spell, *protection from chaos*; **Cost** 13,170 gp
+
+### Book of Written Whispers
+
+**Slot** none; **CL** 3rd; **Price** 6,000 gp; **Weight** 1 lb.
+
+**Aura** faint transmutation
+
+When first created, a *book of written whispers* is a relatively slim volume of blank pages. Typically, the cover of a *book of written whispers* is made to appear nondescript or plain, but the actual design of the book's cover has no bearing on the item's use. This magic item is used to pen secret messages to allies in distant areas. Each book is linked to a specific activation word. The backside of each of the book's pages can be removed as a standard action; the removed page appears as a normal piece of paper, and the front side of the page that remains in the book turns uniformly dark gray. The removed page is known as a "secret letter," while the page from which it was removed is known as a "source page." A secret letter doesn't radiate magic, behaving as if under the effects of a *magic aura* spell.
+
+At any point thereafter, the owner of the book can write a message on the source page. This message can be up to 25 words long, a simple line drawing, or even a straightforward map. When the book's owner writes the activation word in the page's margin (this word does not count against the message's total word count), the message or image inscribed on the page instantly duplicates on the page's linked secret letter, and the actual contents of both the source page and the secret letter are hidden by a *secret page* effect. The carrier of the secret letter can use the activation word to reveal the actual contents of the message or to restore the misleading secret page contents.
+
+As a standard action, the owner of a *book of written whispers* can rip an entire source page out of the book. Doing so causes its linked secret letter to crumble to ash, whether or not any messages have yet been sent. A *book of written whispers* can be used only 25 times before it is filled; once used, a page cannot be reused to send a new message.
+
+**Construction Requirements:** Craft Wondrous Item, *magic aura*, *secret page*, *sending*; **Cost** 3,000 gp
+
+### Amulet of Courage
+
+**Slot** neck; **CL** 3rd; **Price** 6,000 gp; **Weight** —
+
+**Aura** faint abjuration
+
+These amulets are fashioned of finely worked silver and depict an overflowing tankard. Once per day, when the wearer of an *amulet of courage* is affected by a magical or supernatural fear effect, the amulet casts *remove fear* on the wearer. In addition, if the wearer of the amulet has the bravery class feature, she increases the bonus she receives on Will saves against fear by 1.
+
+**Construction Requirements:** Craft Wondrous Item, *remove fear*; **Cost** 2,500 gp

@@ -53,6 +53,7 @@
 - **[Read Weather](read-weather.md)**: Forecast the weather for 48 hours.
 - **[Resist Energy](resist-energy.md)**: Ignores 10 (or more) points of damage/attack from specified energy type.
 - **[Returning Weapon](returning-weapon.md)**: Grants a weapon the returning special weapon quality.
+- **[Rite of Bodily Purity](rite-of-bodily-purity.md)**: Meditative spell: bonus against disease and poison, with a reroll.
 - **[Savage Maw](savage-maw.md)**: Your teeth extend and sharpen, transforming your mouth into a maw of razor-sharp fangs.
 - **[Sculpted Cape](sculpted-cape.md)**: Your cape stiffens and holds its shape.
 - **[Speak Local Language](speak-local-language.md)**: Speak and understand one known regional human language.
@@ -136,6 +137,7 @@
 - **[Undetectable Trap](undetectable-trap.md)**: Make a trap extremely difficult to find.
 - **[Venomous Bite](venomous-bite.md)**: Target's bite delivers a stored poison.
 - **[Vine Strike](vine-strike.md)**: Enhance one of your natural or unarmed attacks with thorny vine growth.
+- **[Visualization of the Body](visualization-of-the-body.md)**: Meditative spell: bonus to one physical ability's skills, plus a one-time boost.
 - **[Water Walk, Communal](water-walk-communal.md)**: As water walk, but you may divide the duration among creatures touched.
 - **[Wilderness Soldiers](wilderness-soldiers.md)**: Nearby plants aid you in combat.
 - **[Wind Wall](wind-wall.md)**: Deflects arrows, smaller creatures, and gases.

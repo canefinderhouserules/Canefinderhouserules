@@ -97,6 +97,8 @@
 - **[Remove Fear](remove-fear.md)**: Suppresses fear or gives +4 on saves against fear for one subject + one per four levels.
 - **[Resist Starvation](resist-starvation.md)**: Delay the effects of starvation
 - **[Reveal Secrets](reveal-secrets.md)**: Learn whether a target has a secret
+- **[Rite of Bodily Purity](rite-of-bodily-purity.md)**: Meditative spell: bonus against disease and poison, with a reroll.
+- **[Rite of Centered Mind](rite-of-centered-mind.md)**: Meditative spell: bonus against mind-affecting effects, with a reroll.
 - **[Rune Trace](rune-trace.md)**: Learn a rune’s age, language, and purpose.
 - **[Sanctuary](sanctuary.md)**: Opponents can’t attack you, and you can’t attack.
 - **[Scarify](scarify.md)**: Convert lethal damage to nonlethal, leaving scars
@@ -251,6 +253,8 @@
 - **[Undetectable Alignment](undetectable-alignment.md)**: Conceals alignment for 24 hours.
 - **[Vexing Miscalculation](vexing-miscalculation.md)**: Target cannot score critical threats.
 - **[Violent Accident](violent-accident.md)**: Curse a creature to suffer a damaging accident within 24 hours.
+- **[Visualization of the Body](visualization-of-the-body.md)**: Meditative spell: bonus to one physical ability's skills, plus a one-time boost.
+- **[Visualization of the Mind](visualization-of-the-mind.md)**: Meditative spell: bonus to one mental ability's skills, plus a one-time boost.
 - **[Water Walk, Communal](water-walk-communal.md)**: As water walk, but you may divide the duration among creatures touched.
 - **[Whispering Lore](whispering-lore.md)**: Upon casting this spell, you are able to gain knowledge from the land itself.
 - **[Zone of Truth](zone-of-truth.md)**: Subjects within range cannot lie.
@@ -342,6 +346,7 @@
 - **[Screaming Flames](screaming-flames.md)**: Send forth a wave of flames screaming with the agony of the damned.
 - **[Searing Light](searing-light.md)**: Ray deals 1d8/two levels damage (more against undead).
 - **[Second Wind](second-wind.md)**: Heal 2d8 + 1/level when below one-quarter hit points.
+- **[See Beyond](see-beyond.md)**: Meditative spell: large Perception bonus and brief x-ray vision.
 - **[Share Language, Communal](share-language-communal.md)**: As share language, but you may divide the duration among creatures touched.
 - **[Sharesister](sharesister.md)**: Take a negative level to boost an ally’s casting.
 - **[Sky Swim](sky-swim.md)**: Swim through the air.
@@ -350,6 +355,7 @@
 - **[Speak with Dead](speak-with-dead.md)**: Corpse answers one question/two levels.
 - **[Spellcurse](spellcurse.md)**: Deals 1d6 damage per ongoing spell on the target.
 - **[Spiral Ascent](spiral-ascent.md)**: Teleport upward as a helical beam
+- **[Spirit Bonds](spirit-bonds.md)**: Meditative spell: track bonded creatures and send a telepathic message.
 - **[Stone Shape](stone-shape.md)**: Sculpts stone into any shape.
 - **[Summon Monster III](summon-monster-iii.md)**: Summons extraplanar creature to fight for you.
 - **[Symbol of Exsanguination](symbol-of-exsanguination.md)**: Triggered rune causes nearby creatures to bleed.
@@ -395,6 +401,7 @@
 - **[Divination](divination.md)**: Provides useful advice for specific proposed actions.
 - **[Divine Power](divine-power.md)**: You gain attack bonuses and 1 hp/level.
 - **[False Future](false-future.md)**: Cause divinations of the future to reveal the result you choose.
+- **[Firewalker's Meditation](firewalkers-meditation.md)**: Meditative spell: damage reduction, fire resistance, and pain resistance.
 - **[Flesh Puppet Horde](flesh-puppet-horde.md)**: Control multiple zombies in human guise.
 - **[Forceful Strike](forceful-strike.md)**: Melee hit deals extra force damage and bull rush.
 - **[Freedom of Movement](freedom-of-movement.md)**: Subject moves normally despite impediments to movement.
@@ -567,6 +574,7 @@
 - **[Eaglesoul](eaglesoul.md)**: Combat bonuses against evil creatures, especially evil outsiders.
 - **[Eagle’s Splendor, Mass](eagles-splendor-mass.md)**: As *eagle’s splendor*, affects 1 subject/level.
 - **[Emblem of Greed](emblem-of-greed.md)**: Turn a melee weapon into a burning glaive.
+- **[Enlightened Step](enlightened-step.md)**: Meditative spell: walk on air, then fly for 1 minute.
 - **[Find the Path](find-the-path.md)**: Shows most direct way to a location.
 - **[Flesh Wall](flesh-wall.md)**: Create a wall of zombies.
 - **[Forbiddance](forbiddance.md)**: Blocks planar travel, damages creatures of different alignment.

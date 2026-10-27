@@ -60,6 +60,16 @@ Whenever the paladin channels positive energy or uses lay on hands to heal a cre
 
 **Oath Spells**: 1st—true strike; 2nd—acute senses\*; 3rd— touch of idiocy; 4th—spell immunity.
 
+### Oath against Death Cults
+
+**Typical deities**: a god of valor and honor; a goddess of healing and redemption; a god of the forge, protection, and strategy.
+
+A cult dedicated to the end of all life is an enemy to everything the paladin protects, and many paladins feel called to contain its evil. This oath is identical to the oath against undeath except as noted here.
+
+**Aura against Necromancy (Su)**: At 8th level, the paladin gains a +4 morale bonus on saves against necromancy spells and spell-like abilities. Each ally within 10 feet of her gains a +2 morale bonus on these saves. This ability functions only while the paladin is conscious, not if she is unconscious or dead. This ability replaces aura of resolve instead of aura of life.
+
+**Code of Conduct**: Destroy agents of the cult and stop the spread of their philosophy.
+
 ### Oath against Fiends
 
 **Typical deities**: a goddess of honor, justice, rulership, and valor; a goddess of healing, honesty, redemption, and the sun; a god of the forge, protection, and strategy.
@@ -191,6 +201,56 @@ Never make an oath or promise lightly.
 Never go back on an oath.
 
 **Oath Spells**: 1st—wrath\*\*; 2nd—aid; 3rd— helping hand; 4th—sending.
+
+### Oath of the Fiend Crusade
+
+**Typical deities**: a god of valor and honor; a goddess of healing and redemption; a god of the forge, protection, and strategy.
+
+A rift to the lower planes threatens the world with the uttermost depths of depravity, and so paladins across the land stand firm against it. This oath is identical to the oath against fiends except as noted here.
+
+**Divine Bond (Su)**: At 5th level, the paladin adds evil outsider bane to the list of weapon special abilities that can be added to her weapon and removes flaming from the list. This ability alters divine bond.
+
+**Mercy (Su)**: At 12th level, the paladin can choose the following mercy.
+
+*Possessed*: If the subject is affected by *dominate person*, possessed, or otherwise magically controlled by an evil outsider, this mercy grants the victim a new saving throw against the effect to end the effect at once.
+
+**Code of Conduct**: Oppose demonic influence in all its forms and seek a way to close the rift.
+
+### Oath of the Hallowed Citadel
+
+**Typical deities**: a god of the forge, protection, and strategy; a goddess of hearth and home; a god of duty and honor.
+
+Legendary mountain citadels stand as beacons of a people's culture. Paladins with the oath of the hallowed citadel swear to defend those citadels their people retain and to help reclaim those that have been lost, hoping to one day rebuild them on the greatest, most honorable ideals of their gods.
+
+**Smite Evil Hordes (Su)**: When the paladin or an ally defeats the target of the paladin's smite evil ability, the paladin can change the target of her smite to a different target within 30 feet of the previously defeated target without using an action. The new target must be of the same creature type and subtype as the previous target. If no applicable target is within 30 feet, then the smite evil effect ends. The paladin's smite does not deal more damage to evil outsiders, dragons, or undead than to other evil creatures. This ability alters smite evil.
+
+**Divine Bond (Su)**: At 5th level, the paladin adds mighty cleaving to the list of weapon special abilities that can be added to her weapon and removes flaming from the list. This ability alters divine bond.
+
+**Path to the Citadel (Sp)**: At 11th level, the paladin can use the hallowed citadels as a beacon leading her on the path to her deity. If she is on the Material Plane, the paladin can use *find the path* once per day at her paladin level, but only to find her way to a known hallowed citadel. If she is not on the Material Plane, she can instead use this ability to use *plane shift* as per the spell to travel to a known hallowed citadel. If she is in a hallowed citadel, she can expend her daily use of this ability to use *plane shift* to travel to the realm of her deity. This ability replaces aura of justice.
+
+**Stalwart (Ex)**: At 14th level, the paladin's quest has strengthened her body and mind. If she succeeds at a Fortitude or Will saving throw against an effect that has a reduced effect on a successful save, she instead avoids the effect entirely. A helpless paladin does not gain the benefit of the stalwart ability. This ability replaces aura of faith.
+
+**Code of Conduct**: Reclaim a hallowed citadel in the name of honorable ideals. Defend citadels already held by her people.
+
+**Oath Spells**: 1st—*enlarge person*; 2nd—*find traps*; 3rd—*spiritual ally*; 4th—*blessing of fervor*.
+
+### Oath of the Public Trust
+
+**Typical deities**: a god of cities, law, merchants, and wealth; a god of family, farming, and hunting; a goddess of art, beauty, love, and music.
+
+Free peoples hold their elected officials to extremely high standards of conduct. Paladins swearing the oath of the public trust serve the common good by finding and thwarting those who abuse their authority.
+
+**Skills**: The oathbound paladin's class skills include Linguistics, Perception, and Perform, but not Handle Animal, Ride, or Spellcraft.
+
+**Stirring Monologue (Su)**: At 1st level, the paladin can deliver a stirring monologue on the ideals of justice and fairness, motivating allies and persuading others. This functions as bardic performance as per a bard of her paladin level using Perform (oratory). All the effects are language-dependent even if they would not normally be. The paladin gains the following performances at the indicated levels: inspire courage (1st), fascinate (4th), inspire competence (5th), suggestion (7th), dirge of dread (10th), inspire greatness (13th), frightening tune (16th), and mass suggestion (19th). This ability replaces smite evil.
+
+**Aura of Truth (Su)**: At 11th level, the paladin automatically succeeds at saving throws to disbelieve illusions of the phantasm subschool and automatically gains a saving throw to disbelieve figment illusions when she observes them. Allies within 30 feet gain a +4 bonus on saving throws to disbelieve illusions of the phantasm subschool. This ability replaces aura of justice.
+
+**Champion of the People (Su)**: At 20th level, an oathbound paladin becomes a champion of the people. Her DR increases to 10/evil. Whenever she uses her stirring monologue, up to four creatures (including the paladin herself) affected by the monologue gain SR 30 against spells with the evil descriptor or spell-like abilities cast by evil outsiders or undead. Weapons wielded by those affected by her stirring monologue are treated as good, silver, and cold iron for the purpose of overcoming damage reduction. In addition, whenever the oathbound paladin channels positive energy or uses lay on hands to heal a creature, she heals it the maximum possible amount. This ability alters holy champion.
+
+**Code of Conduct**: Know the laws of the land and do not exempt authorities from the application of the law.
+
+**Oath Spells**: 1st—*comprehend languages*; 2nd—*locate object*; 3rd—*tongues*; 4th—*true seeing*.
 
 ### Oath of Vengeance
 
@@ -800,3 +860,17 @@ Veterans of mystical battles against demonic hordes, mind swords merge psychic a
 **Touch Treatment (Su)**: At 3rd level, a mind sword can expend one use of her mind arsenal ability to remove minor harmful mental conditions, as per the mesmerist touch treatment class feature. At 9th level, she can remove moderate conditions, and at 15th level, she can remove major conditions. This ability replaces mercy.
 
 **Spells**: A mind sword adds the following psychic spells to her paladin spell list at the listed spell levels: 1st—*detect psychic significance*, *mage hand*, *telekinetic projectile*, *thought shield I*; 2nd—*apport object*, *enshroud thoughts*, *mental barrier I*, *thought shield II*; 3rd—*intellect fortress I*, *mental barrier II*, *telekinetic maneuver*, *thought shield III*; 4th—*intellect fortress II*, *telekinesis*, *thought shield IV*, *thoughtsense*, *tower of iron will I*. The mind sword can prepare and cast these psychic spells as divine paladin spells. However, the mind sword cannot use these spells for item creation, including making potions or scrolls of these spells. This ability replaces channel positive energy.
+
+## Order Enforcer
+
+Order enforcers have altered abilities that allow them to stand against the forces of chaos. They seek to maintain order and uphold the laws of just rulers and governments, pursuing any who break those laws or otherwise disrupt the peace. Still, they remain lawful good servants of their gods, and as such always seek to temper the justice they deliver with mercy.
+
+**Class Skills**: The order enforcer's class skills are Craft (Int), Handle Animal (Cha), Heal (Wis), Intimidate (Cha), Knowledge (local) (Int), Knowledge (religion) (Int), Profession (Wis), Ride (Dex), Sense Motive (Wis), and Spellcraft (Int). This replaces the paladin's class skills list.
+
+**Detect Chaos (Sp)**: At will, an order enforcer can use *detect chaos*, as per the spell. The order enforcer can, as a move action, concentrate on a single item or individual within 60 feet and determine whether it is chaotic, learning the strength of its aura as if she had studied it for 3 rounds. While focusing on one individual or object, the order enforcer can't use *detect chaos* on any other object or individual within range. This ability replaces detect evil.
+
+**Smite Chaos (Su)**: This ability functions as the paladin's smite evil ability, but against chaotic-aligned creatures. Smite chaos is twice as effective against chaotic-aligned aberrations, outsiders with the chaotic subtype, and fey. This ability replaces smite evil.
+
+**Aura of Order**: At 14th level, the paladin's weapons are treated as lawful-aligned for the purposes of overcoming damage reduction. Any attack made against an enemy within 10 feet of the order enforcer is treated as if it were lawful-aligned for the purpose of overcoming damage reduction. This ability alters aura of faith.
+
+**Armor of Law (Su)**: When an order enforcer gains damage reduction from aura of righteousness, it is DR 5/chaos instead of DR 5/evil. When that DR increases from the holy champion class feature, it increases to DR 10/chaos. This ability alters the aura of righteousness and holy champion class features.

@@ -69,6 +69,8 @@
 - **[Produce Flame](produce-flame.md)**: 1d6 damage + 1/level, touch or thrown.
 - **[Read Weather](read-weather.md)**: Forecast the weather for 48 hours.
 - **[Recharge Innate Magic](recharge-innate-magic.md)**: You channel magic energy into your own aura, recharging your innate magic abilities.
+- **[Rite of Bodily Purity](rite-of-bodily-purity.md)**: Meditative spell: bonus against disease and poison, with a reroll.
+- **[Rite of Centered Mind](rite-of-centered-mind.md)**: Meditative spell: bonus against mind-affecting effects, with a reroll.
 - **[Scarify](scarify.md)**: Convert lethal damage to nonlethal, leaving scars
 - **[Shillelagh](shillelagh.md)**: Cudgel or quarterstaff becomes +1 weapon (2d6 damage) for 1 min./level.
 - **[Snowball](snowball.md)**: Throw a conjured ball of snow at a target.
@@ -184,6 +186,7 @@
 - **[Tree Shape](tree-shape.md)**: You look exactly like a tree for 1 hour/level.
 - **[Venomous Bite](venomous-bite.md)**: Target's bite delivers a stored poison.
 - **[Vine Strike](vine-strike.md)**: Enhance one of your natural or unarmed attacks with thorny vine growth.
+- **[Visualization of the Body](visualization-of-the-body.md)**: Meditative spell: bonus to one physical ability's skills, plus a one-time boost.
 - **[Warp Wood](warp-wood.md)**: Bends wood.
 - **[Whip of Spiders](whip-of-spiders.md)**: Whiplike spider swarm deals swarm damage by touch.
 - **[Wilderness Soldiers](wilderness-soldiers.md)**: Nearby plants aid you in combat.
@@ -304,6 +307,7 @@
 - **[Dispel Magic](dispel-magic.md)**: Cancels one magical spell or effect.
 - **[Earth Glide](earth-glide.md)**: School transmutation [earth]; Level alchemist 4, druid 4, sorcerer/wizard 4 Casting Time 1 standard action.
 - **[Explosion of Rot](explosion-of-rot.md)**: Call forth a burst of decay that damages and can stagger targets.
+- **[Firewalker's Meditation](firewalkers-meditation.md)**: Meditative spell: damage reduction, fire resistance, and pain resistance.
 - **[Flame Strike](flame-strike.md)**: Smites foes with divine fire (1d6/level damage).
 - **[Forest’s Sense](forests-sense.md)**: Sense the location of a distant target that is near a plant or fungus.
 - **[Freedom of Movement](freedom-of-movement.md)**: Subject moves normally despite impediments to movement.
@@ -410,6 +414,7 @@
 - **[Cyclic Reincarnation](cyclic-reincarnation.md)**: Reincarnate a creature into a similar body of its own race.
 - **[Dispel Magic, Greater](dispel-magic-greater.md)**: As *dispel magic*, but with multiple targets.
 - **[Dust Form](dust-form.md)**: You become an incorporeal creature of dust for a short period of time.
+- **[Enlightened Step](enlightened-step.md)**: Meditative spell: walk on air, then fly for 1 minute.
 - **[Fey Form III](fey-form-iii.md)**: Assume the form of a Diminutive or Huge fey creature.
 - **[Find the Path](find-the-path.md)**: Shows most direct way to a location.
 - **[Fire Seeds](fire-seeds.md)**: Acorns and berries become grenades and bombs.

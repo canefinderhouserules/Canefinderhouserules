@@ -333,6 +333,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Revenant Armor](revenant-armor.md)**: Armor animates around its fallen wearer.
 - **[Sands of Time](sands-of-time.md)**: Target temporarily ages.
 - **[Scale Spikes, Greater](scale-spikes-greater.md)**: Scale spikes with up to +5 enhancement
+- **[See Beyond](see-beyond.md)**: Meditative spell: large Perception bonus and brief x-ray vision.
 - **[Seed Spies](seed-spies.md)**: Wafting seeds act as spies, as insect spies.
 - **[Sensory Amplifier](sensory-amplifier.md)**: Creatures nearby sense more keenly but take extra damage.
 - **[Sharesister](sharesister.md)**: Take a negative level to boost an ally’s casting.
@@ -341,6 +342,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Sky Swim](sky-swim.md)**: Swim through the air.
 - **[Slave to Sin](slave-to-sin.md)**: Exploit a creature’s sin to sicken and stagger it.
 - **[Spellcurse](spellcurse.md)**: Deals 1d6 damage per ongoing spell on the target.
+- **[Spirit Bonds](spirit-bonds.md)**: Meditative spell: track bonded creatures and send a telepathic message.
 - **[Spit Venom](spit-venom.md)**: Spit blinding black adder venom.
 - **[Stage Fright](stage-fright.md)**: Targets take –4 on ability, skill, and concentration checks.
 - **[Strangling Hair](strangling-hair.md)**: Your hair animates and grapples.
@@ -413,6 +415,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Inveigle Person](inveigle-person.md)**: The target treats all creatures as friendly.
 - **[Mad Sultan’s Melody](mad-sultans-melody.md)**: Bizarre cacophony fascinates eldritch creatures.
 - **[Master's Escape](masters-escape.md)**: Swap places with a summoned creature
+- **[Medusa's Bane](medusas-bane.md)**: Gain immunity to gaze attacks and reflect one.
 - **[Meticulous Match](meticulous-match.md)**: Determine if two things are identical.
 - **[Minotaur’s Blessing](minotaurs-blessing.md)**: Turn a creature’s head into a bull’s.
 - **[Monstrous Extremities](monstrous-extremities.md)**: Change limbs into tentacles, hooves, or wings.

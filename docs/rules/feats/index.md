@@ -1569,6 +1569,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Bolster Undead](bolster-undead.md) | — | Channel energy 6d6, worshiper of a deity of undeath |
 | [Born of Frost](born-of-frost.md) | — | Frost giant |
 | [Bouncing Trick](bouncing-trick.md) | Trick | Mesmerist trick class feature |
+| [Bravery in Action](bravery-in-action.md) | — | Bravery class feature, worshiper of a deity of freedom and courage |
 | [Breaker of Barriers](breaker-of-barriers.md) | Combat | Str 17, worshiper of a deity of destruction |
 | [Bred Commander](bred-commander.md) | — | Hobgoblin |
 | [Brilliant Planner](brilliant-planner.md) | — | Int 13, character level 5th |
@@ -1672,6 +1673,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Creature Focus](creature-focus.md) | — | No levels in a class that grants the favored enemy class feature |
 | [Criminal Reputation](criminal-reputation.md) | — | Diplomacy 5 ranks, Intimidate 5 ranks |
 | [Critical Conduit](critical-conduit.md) | — | Deliver touch spells ability, familiar |
+| [Crowd Control](crowd-control.md) | Combat, Teamwork | Base attack bonus +3 |
 | [Crowd of Bullies](crowd-of-bullies.md) | Combat, Teamwork | Half-orc |
 | [Cruelty](cruelty.md) | — | Worshiper of a deity of pain |
 | [Cry Challenge](cry-challenge.md) | — | Antagonize |
@@ -1749,6 +1751,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Diva Style](diva-style.md) | Combat, Style | Cha 13, base attack bonus +1 or bard level 1st |
 | [Divination Guide](divination-guide.md) | — | Caster level 3rd, ability to cast *augury* or *divination*, must worship a deity |
 | [Divine Barrier](divine-barrier.md) | — | Channel energy class feature, worshiper of a deity of dragons |
+| [Divine Communion](divine-communion.md) | — | Wisdom 13, alignment must match that of your worshiped deity |
 | [Divine Dignity](divine-dignity.md) | — | Combat Casting, ability to cast divine spells, worshiper of a deity of law and trade |
 | [Divine Expression](divine-expression.md) | — | Bard level 1st, cleric or oracle level 1st, worshiper of a deity of art and beauty |
 | [Divine Fighting Technique](divine-fighting-technique.md) | Combat | Same alignment as the chosen technique’s patron |
@@ -2061,6 +2064,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Messenger of Fate](messenger-of-fate.md) | — | Ability to cast *augury*, worshiper of a deity of death and fate |
 | [Metamagic Invocation](metamagic-invocation.md) | — | Metakinesis class feature |
 | [Mighty Bite](mighty-bite.md) | Combat | Base attack bonus +6, bite attack, rend, troll |
+| [Minor Miracle](minor-miracle.md) | — | Wisdom 12, Knowledge (religion) 5 ranks, alignment must match that of your worshiped deity |
 | [Mirror Kin](mirror-kin.md) | Teamwork | Bluff 8 ranks, gnome, gnome magic racial trait |
 | [Mirror Move](mirror-move.md) | Combat | Int 13, Combat Expertise, base attack bonus +4 |
 | [Mischievous Tail](mischievous-tail.md) | — | Dex 15, [Grasping Tail](grasping-tail.md), you must have a tail |
@@ -2217,6 +2221,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Restorative Vigor](restorative-vigor.md) | Combat | Con 15, Combat Vigor, character level 8th |
 | [Retributive Kick](retributive-kick.md) | Weapon Mastery | Improved Unarmed Strike, base attack bonus +5, weapon training class feature with a melee weapon |
 | [Returning Throw](returning-throw.md) | Combat, Teamwork | Point-Blank Shot, Precise Shot, Sleight of Hand 3 ranks, goblinoid subtype |
+| [Reward of the Faithful](reward-of-the-faithful.md) | — | Knowledge (religion) 1 rank, alignment must match that of your worshiped deity |
 | [Rhabdomancy](rhabdomancy.md) | — | Knowledge (nature) 3 ranks, Survival 3 ranks |
 | [Ricochet Toss](ricochet-toss.md) | Weapon Mastery | Quick Draw, base attack bonus +6, weapon training class feature with a ranged weapon |
 | [Righteous Phalanx](righteous-phalanx.md) | Teamwork | Base attack bonus +3, good alignment |
@@ -2461,9 +2466,11 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Two-Weapon Grace](two-weapon-grace.md) | Combat | Dex 15, Fencing Grace, Slashing Grace, or Starry Grace, Two-Weapon Fighting, Weapon Finesse |
 | [Tyrant's Rebuke](tyrants-rebuke.md) | Conduit | Knowledge (planes) 5 ranks |
 | [Umbral Shift](umbral-shift.md) | Teamwork | Darkness racial spell-like ability |
+| [Unbound Bravery](unbound-bravery.md) | — | Bravery class feature, worshiper of a deity of freedom and courage |
 | [Unbreakable](unbreakable.md) | Combat | Con 13, Endurance, Toughness, fighter level 4th |
 | [Uncertainty](uncertainty.md) | Blood Hex | Int 13; Bluff, Diplomacy, and Intimidate 5 ranks |
 | [Unconquerable Resolve](unconquerable-resolve.md) | Combat | Resolve class feature, samurai level 1st |
+| [Undaunted Bravery](undaunted-bravery.md) | — | Bravery class feature, worshiper of a deity of freedom and courage |
 | [Undermining Exploit](undermining-exploit.md) | — | Knowledge (dungeoneering) 4 ranks |
 | [Underworld Connections](underworld-connections.md) | — | — |
 | [Unfair Grip](unfair-grip.md) | Combat | Str 13, Dex 13, Improved Grapple, Improved Unarmed Strike, Power Attack, base attack bonus +1 |
