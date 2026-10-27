@@ -26,6 +26,18 @@ Regional traits are tied to particular regions. To select one, your character mu
 
 **Vagabond Child** *(urban)*: You grew up among the outcasts and outlaws of your society, learning to forage and survive in an urban environment. Select one of the following skills: Disable Device, Escape Artist, or Sleight of Hand. You gain a +1 trait bonus on that skill, and it is always a class skill for you.
 
+**Caravan Nomad** *(open roads)*: Your family has lived on the open roads for untold generations, impersonating the nomadic peoples of the lands they pass through. You gain a +1 trait bonus on Bluff and Perform checks, and one of these skills is a class skill for you.
+
+**Fortune Found** *(merchant cities)*: You have learned a great many tricks and techniques for bartering with humans. You gain a +1 trait bonus on Appraise and Diplomacy checks, and one of these skills (your choice) is a class skill for you.
+
+**Jinx Eater** *(pirate coasts)*: Your presence dampens curses and other ill effects. You gain a +1 trait bonus on saves against curses, including the hex class ability of shamans and witches. Once per day, you can grant this bonus to all allies within 30 feet for 1 round as an immediate action.
+
+**Jungle Native** *(jungle)*: Your people have called the jungles home for generations, and they are extremely proficient in moving about in that terrain. You gain a +1 trait bonus on saving throws against diseases and poisons, a +1 trait bonus on initiative checks attempted in jungle terrain, and Survival is a class skill for you.
+
+**Naga Emissary** *(allied foreign court)*: You were groomed from childhood to act as an emissary to your people's allies in a distant land, and you understand much about that land's people as a result. You gain a +1 trait bonus on Diplomacy checks, and Diplomacy is a class skill for you. In addition, you gain one additional language of your choice as a bonus language.
+
+**Prophet of Burrows** *(merchant cities)*: While you might not be a practicing follower of a merchant-prophet's teachings, you value human coin more than most of your people do and have taken the mercantile practices of those teachings to heart. Whenever you roll a skill check to earn money, increase the amount of money that you earn by 5%.
+
 ## Brewing and Poisoning Traits
 
 Potions and poisons are common everywhere, but in some regions they are more common or have more of an effect than in others. The following regional traits represent characters who grew up in places where potions and poisons were part of daily life.

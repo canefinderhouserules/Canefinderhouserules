@@ -68,6 +68,7 @@ Mesmerists gain access to the following spells. Spells without a link come from 
 - **[Fool's Gold](fools-gold.md)**: Make copper or silver appear to be gold
 - **[Forbid Action](forbid-action.md)**: Target obeys your command to not do something.
 - **[Forced Quiet](forced-quiet.md)**: Target cannot make loud noises.
+- **[Fumblestep](fumblestep.md)**: slick a target’s feet, then trip it from afar
 - **[Fumbletongue](fumbletongue.md)**: Target cannot speak intelligently.
 - **[Grease](grease.md)**: Makes 10-ft. square or one object slippery.
 - Healing Thief
@@ -301,6 +302,7 @@ Mesmerists gain access to the following spells. Spells without a link come from 
 - **[Fool's Teleport](fools-teleport.md)**: Turn invisible while appearing to have teleported away.
 - **[Geas, Lesser](geas-lesser.md)**: Commands subject of 7 HD or less.
 - **[Glibness](glibness.md)**: You gain +20 bonus on Bluff checks, and your lies can escape magical discernment.
+- **[Gullibility](gullibility.md)**: target believes lies more readily
 - **[Haunting Choir](haunting-choir.md)**: Spirits cause wracking pain to listeners.
 - Hostile Levitation
 - **[Illusion of Treachery](illusion-of-treachery.md)**: Make it seem like another is also responsible for your attacks.
@@ -372,6 +374,7 @@ Mesmerists gain access to the following spells. Spells without a link come from 
 - **[Charm Person, Mass](charm-person-mass.md)**: As *charm person*, but affects multiple creatures within 30 ft.
 - **[Command, Greater](command-greater.md)**: As *command,* but affects one subject/level.
 - **[Complex Hallucination](complex-hallucination.md)**: Create a phantasm with effects for all senses.
+- **[Contagious Suggestion](contagious-suggestion.md)**: a suggestion that spreads from target to target
 - **[Create Mindscape](create-mindscape.md)**: Form an immersive mindscape.
 - **[Curse of the Outcast](curse-of-the-outcast.md)**: Curse someone to rub people the wrong way.
 - **[Curse, Major](curse-major.md)**: As bestow curse, but harder to remove.
@@ -389,6 +392,7 @@ Mesmerists gain access to the following spells. Spells without a link come from 
 - **[Forbid Action, Greater](forbid-action-greater.md)**: As forbid action, but 1 creature/level.
 - Forgetful Slumber
 - **[Freedom of Movement](freedom-of-movement.md)**: Subject moves normally despite impediments to movement.
+- **[Greater Hypnotism](greater-hypnotism.md)**: hypnotize more creatures and make several requests
 - **[Hallucinatory Terrain](hallucinatory-terrain.md)**: Makes one type of terrain appear like another (field as forest, or the like).
 - **[Harvest Knowledge](harvest-knowledge.md)**: Absorb a creature's knowledge
 - **[Hold Monster](hold-monster.md)**: As *hold person*, but any creature.

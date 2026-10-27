@@ -114,6 +114,7 @@ New antipaladin spells from *Ultimate Magic*. Spells from other books will be ad
 - **[Burst of Speed](burst-of-speed.md)**: You gain increased speed, and your movement ignores attacks of opportunity and allows you to move through the space of creatures larger than you are.
 - **[Charnel House](charnel-house.md)**: Create an area of semi-real gore.
 - **[Claim Identity](claim-identity.md)**: Steal a touched humanoid’s face and identity.
+- **[Curse of Befouled Fortune](curse-of-befouled-fortune.md)**: curse a target so it rolls twice and takes the worse result
 - **[Cursed Treasure](cursed-treasure.md)**: Curse treasure so the next thief is afflicted
 - **[Darkvision, Communal](darkvision-communal.md)**: As darkvision, but you may divide the duration among creatures touched.
 - **[Deadly Juggernaut](deadly-juggernaut.md)**: Your might increases with every kill you make.
@@ -121,6 +122,7 @@ New antipaladin spells from *Ultimate Magic*. Spells from other books will be ad
 - **[Drain Poison](drain-poison.md)**: Drain a creature's poison onto your weapon.
 - **[Final Sacrifice](final-sacrifice.md)**: Detonate a summoned creature
 - **[Flesh Puppet Horde](flesh-puppet-horde.md)**: Control multiple zombies in human guise.
+- **[Gullibility](gullibility.md)**: target believes lies more readily
 - **[Hunger for Flesh](hunger-for-flesh.md)**: Give a creature a bite attack and a hunger for its own kind’s flesh.
 - **[Illusion of Treachery](illusion-of-treachery.md)**: Make it seem like another is also responsible for your attacks.
 - **[Irregular Size](irregular-size.md)**: Curse shrivels arms, legs, or wings.

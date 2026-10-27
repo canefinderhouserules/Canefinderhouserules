@@ -181,3 +181,23 @@ Grasping vine shamans are typically adherents of one of several scattered sects 
 **Greentongue (Sp)**: At 2nd level, as a standard action, a grasping vine can use *speak with plants* as a spell-like ability. The grasping vine can use this ability a number of times per day equal to half her shaman level. In addition, while under the effects of *speak with plants*, the grasping vine can deliver a *suggestion* (as per the spell) to a single plant creature within 30 feet, ignoring the plant's immunity to mind-affecting effects. The grasping vine can use this ability once per day at 2nd level, plus an additional time per day every 4 levels after 2nd level. This ability replaces the shaman's hex gained at 2nd level.
 
 **Flower's Form (Sp)**: At 8th level, as a standard action, a grasping vine can assume the form of a Small or Medium plant creature, as per *plant shape I*. At 12th level, this ability functions as *plant shape II*. At 16th level, this ability functions as *plant shape III*. The grasping vine can use this ability for 1 minute per shaman level per day. This duration does not need to be used consecutively, but it must be spent in 1-minute increments. This ability replaces the shaman's hex gained at 8th level.
+
+## Serendipity Shaman
+
+The traditional worship of the so-called "spirits of creation" is by far the most prevalent religion among some feline-blooded peoples. The serendipitous, shamanistic rites associated with this faith focus upon attracting good fortune and banishing ill fortune in the name of these spirits. Although the ancient practices of the serendipity shaman were once exclusive to a single nation, the curiosity and willingness to travel of its people have spread them far and wide, where today many with a tendency toward good fortune embrace the faith.
+
+**Limited Calling**: A shaman must have a racial trait with "luck" in its name to select this archetype, such as cat's luck or halfling luck. A character with the [Defiant Luck](../../rules/feats/defiant-luck.md) feat also qualifies for this archetype.
+
+**Luck Magic**: A serendipity shaman adds the domain spells from the Luck cleric domain to the list of spells she can cast with the spirit magic ability instead of her spirit's spirit magic spells. This ability alters spirit.
+
+**Luck Hexes**: A serendipity shaman can select from any of the following hexes, in addition to general shaman hexes and the hexes granted by her spirit. When she gains the wandering spirit class feature, she can select one of these hexes in place of a wandering hex.
+
+***Channel Luck (Su)***: A serendipity shaman gains the ability to channel luck, as the cleric variant channeling ability of the same name, using her shaman level to determine her effective cleric level for the purpose of her channel energy ability. She does not count as having the channel energy ability for the purpose of meeting feat prerequisites or prestige class requirements with the exception of Selective Channeling, which the shaman can take as normal. A shaman must be at least 8th level before selecting this hex.
+
+***Fortune (Ex)***: This hex functions as the dual-cursed oracle revelation of the same name, using the shaman's class level as her effective oracle level.
+
+***Misfortune (Ex)***: As a standard action, a serendipity shaman can afflict one target within 30 feet with misfortune, causing it to take a –2 penalty on all saving throws against the shaman's spells. The effect lasts for 1 minute or until the target hits the shaman with an attack.
+
+***Spirit Magic (Su)***: A serendipity shaman adds both her spirit's spirit magic spells and the domain spells from the Luck cleric domain to the list of spells she can cast with the spirit magic ability. This hex cannot be taken as a wandering hex.
+
+***Tweak the Odds (Su)***: Whenever the serendipity shaman or one of her allies within 30 feet rolls an ability check, attack roll, saving throw, or skill check, the shaman can use this ability as an immediate action to tweak the odds in her favor, increasing the result of the die roll or check by 1. This can turn a normal hit into a critical threat, but it cannot make an attack roll an automatic hit (this bonus does not stack with effects that increase a weapon's critical threat range, such as Improved Critical or *keen edge*). The shaman can use this ability a number of times per day equal to her shaman level. At 4th level and every 4 shaman levels thereafter, she can spend an additional use of this ability to further increase the die result of the target's roll by an additional 1. For example, a 12th-level shaman can spend up to three uses of this ability to increase an ally's roll by 1 per use expended.

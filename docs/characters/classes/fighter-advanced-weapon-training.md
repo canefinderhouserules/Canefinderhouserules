@@ -18,9 +18,13 @@ Fighters can also gain advanced weapon training options via the [Advanced Weapon
 
 **Defensive Weapon Training (Ex)**: The fighter gains a +1 shield bonus to his Armor Class. The fighter adds half his weapon’s enhancement bonus (if any) to this shield bonus. When his weapon training bonus for weapons from the associated fighter weapon group reaches +4, this shield bonus increases to +2. This shield bonus is lost if the fighter is immobilized or helpless.
 
+**Effortless Dual-Wielding (Ex)**: The fighter treats all one-handed weapons that belong to the associated weapon group as though they were light weapons when determining his penalties on attack rolls for fighting with two weapons.
+
 **Fighter’s Finesse (Ex)**: The fighter gains the benefits of the Weapon Finesse feat with all melee weapons that belong to the associated fighter weapon group (even if they cannot normally be used with Weapon Finesse). The fighter must have the Weapon Finesse feat before choosing this option.
 
 **Fighter’s Reflexes (Ex)**: The fighter applies his weapon training bonus to Reflex saving throws. He loses this bonus when he is flat-footed or denied his Dexterity bonus to AC.
+
+**Fighter’s Stamina (Ex)**: The fighter gains Combat Stamina as a bonus feat, even when not wielding a weapon from the appropriate weapon group. If the fighter already has this feat, he gains Extra Stamina as a bonus feat instead.
 
 **Fighter’s Tactics (Ex)**: All of the fighter’s allies are treated as if they had the same teamwork feats as the fighter for the purpose of determining whether the fighter receives a bonus from his teamwork feats. His allies do not receive any bonuses from these feats unless they actually have the feats themselves. The allies’ positioning and actions must still meet the prerequisites listed in the teamwork feat for the fighter to receive the listed bonus.
 
@@ -29,6 +33,8 @@ Fighters can also gain advanced weapon training options via the [Advanced Weapon
 **Inspiring Confidence (Ex)**: A number of times per day equal to his highest weapon training bonus as a swift action, the fighter can allow one ally within 30 feet to attempt a new saving throw against an ongoing fear effect that causes the ally to cower or to become frightened, panicked, or shaken. If the ally succeeds at the save, the effect ends. A fighter can use this option even when not wielding a weapon from the associated weapon group.
 
 **Item Mastery (Ex)**: The fighter gains an item mastery feat as a bonus feat, which functions with any magic weapon he wields, even if the magic weapon does not meet the feat's normal requirements. He must meet all of the feat's prerequisites.
+
+**Knockout Training (Ex)**: The fighter takes no penalties on attack rolls when attempting to deal nonlethal damage with a weapon from the associated fighter weapon group that normally deals lethal damage. In addition, whenever the fighter deals nonlethal damage with a weapon from the associated fighter weapon group, he doubles his weapon training bonus on the damage roll. This doesn't stack with other advanced weapon training options that allow the fighter to double his weapon training bonus on damage rolls, such as trained finesse or trained throw.
 
 **Trained Grace (Ex)**: When the fighter uses Weapon Finesse to make a melee attack with a weapon, using his Dexterity modifier on attack rolls and his Strength modifier on damage rolls, he doubles his weapon training bonus on damage rolls. The fighter must have Weapon Finesse in order to choose this option.
 

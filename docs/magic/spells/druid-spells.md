@@ -23,6 +23,7 @@
 - **[Air Bubble](air-bubble.md)**: Creates a small pocket of air around your head or an object.
 - **[Antitoxin Touch](antitoxin-touch.md)**: Target can't poison itself accidentally and safely milks venom.
 - **[Aspect of the Nightingale](aspect-of-the-nightingale.md)**: Clear voice, bonus on Diplomacy and Perform.
+- **[Batrachian Surge](batrachian-surge.md)**: gain gills, leaping, swimming, or a long tongue
 - **[Blend](blend.md)**: You draw upon your elven link to the wilderness to change the coloration of yourself and your equipment to.
 - **[Blend with Surroundings](blend-with-surroundings.md)**: Target looks like an object and hides easily while still.
 - **[Brightest Night](brightest-night.md)**: grant or enhance low-light vision
@@ -33,6 +34,7 @@
 - **[Cure Light Wounds](cure-light-wounds.md)**: Cures 1d8 damage + 1/level (max +5).
 - **[Damp Powder](damp-powder.md)**: Ruins ammunition loaded in the targeted firearm.
 - **[Deadeye’s Lore](deadeyes-lore.md)**: Gain a +4 bonus on Survival and move full speed while tracking.
+- **[Depilate](depilate.md)**: cause hair or fur to fall out, penalizing social checks
 - **[Detect Animals or Plants](detect-animals-or-plants.md)**: Detects kinds of animals or plants.
 - **[Detect Radiation](detect-radiation.md)**: See radioactive auras.
 - **[Detect Snares and Pits](detect-snares-and-pits.md)**: Reveals natural or primitive traps.
@@ -275,6 +277,7 @@
 - **[Stone Shape](stone-shape.md)**: Sculpts stone into any shape.
 - **[Summon Nature’s Ally III](summon-natures-ally-iii.md)**: Summons creature to fight.
 - **[Swarm of Fangs](swarm-of-fangs.md)**: Summon a swarm of flying teeth
+- **[Sweat Poison](sweat-poison.md)**: exude an injury poison from your own glands
 - **[Tail Current](tail-current.md)**: Create a current in water to enhance or impede swimming.
 - **[Tailwind](tailwind.md)**: Create a current of wind to enhance or impede flight.
 - **[Toxic Blood](toxic-blood.md)**: Target's blood sprays black adder venom when cut.
@@ -434,6 +437,7 @@
 - **[Insect Spies, Greater](insect-spies-greater.md)**: Use magic beetles as spies and also share their senses.
 - **[Ironwood](ironwood.md)**: Magic wood is as strong as steel.
 - **[Liveoak](liveoak.md)**: Oak becomes treant guardian.
+- **[Metabolic Molting](metabolic-molting.md)**: seven days of encased healing, even bringing back the recently dead
 - **[Move Earth](move-earth.md)**: Digs trenches and builds hills.
 - **[Old Mage's Ire](old-mages-ire.md)**: Vines attack evil creatures and structures in a large area.
 - **[Overwhelming Poison](overwhelming-poison.md)**: Make a poison more difficult to resist.

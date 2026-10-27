@@ -201,3 +201,5 @@ The following text is the property of Wizards of the Coast, Inc. and is Copyrigh
     Pathfinder Player Companion: Blood of the Sea © 2017, Paizo Inc.; Author: Amber E. Scott.
 
     Pathfinder Player Companion: Blood of the Ancients © 2018, Paizo Inc.; Authors: John Compton, Andrew Hoskins, James Jacobs, Mikko Kallo, Alex Riggs, Stephen Rowe, and Jeffrey Swank.
+
+    Pathfinder Player Companion: Blood of the Beast © 2016, Paizo Inc.; Authors: Alexander Augunas, John Compton, and Crystal Frasier.

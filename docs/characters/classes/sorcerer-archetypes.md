@@ -166,6 +166,30 @@ You were born with the power of water genies, and the magic of the marids is str
 
 You become immune to cold damage, and can use plane shift once per day to travel to or from the Plane of Water.
 
+### Naga
+
+Naga blood flows within your veins. Perhaps a curious naga experimented upon one of your ancestors in an attempt to create the perfect servant, or maybe one of your ancestors was a shapeshifting naga. Either way, you boast powers similar to those of true nagas.
+
+**Class Skill**: Knowledge (dungeoneering).
+
+**Bonus Spells**: *ray of enfeeblement* (3rd), *invisibility* (5th), *lightning bolt* (7th), *poison* (9th), *dominate person* (11th), *veil* (13th), *limited wish* (15th), *mass charm monster* (17th), *shapechange* (19th).
+
+**Bonus Feats**: Alertness, Blind-Fight, Combat Casting, Dodge, Improved Initiative, Lightning Reflexes, Skill Focus (Knowledge [dungeoneering]), Stealthy.
+
+**Bloodline Arcana**: Whenever you cast a spell with the poison descriptor, increase the spell's DC by 2.
+
+**Bloodline Powers**: You can draw upon the ancient magic of the nagas to ensnare the minds of lesser creatures and destroy those who would defy your will.
+
+**Vanishing (Sp)**: At 1st level, you can cloak yourself in illusory magic as a standard action, making you invisible (as per *invisibility*) for a number of rounds per day equal to your sorcerer level + your Charisma bonus (if any). These rounds need not be used consecutively.
+
+**Naga Resistances (Ex)**: At 3rd level, you gain a +2 bonus on saving throws against mind-affecting effects and poison effects. At 9th level, this bonus increases to +4.
+
+**Ensnaring Eyes (Su)**: At 9th level, add 2 to the save DC of any spell, spell-like ability, or supernatural ability you use that causes a target to become fascinated or that belongs to the charm subschool.
+
+**Cast without Hands (Su)**: At 15th level, you learn to eschew the use of your hands when casting spells, as a naga would. Whenever you cast an arcane spell with a somatic component, you can do so even with your hands full, by twisting and gyrating your body. This doubles the arcane spell failure chance from your armor (if any), and you can't use this ability if you are pinned or immobile.
+
+**Power of the Naga (Su)**: At 20th level, your form becomes enhanced by the power of the naga. You gain immunity to charm effects, mind-reading effects, and poison. In addition, you can also assume the shape of a naga at will as if using [*naga shape III*](../../magic/spells/naga-shape-iii.md).
+
 ### Rakshasa
 
 At some point in your family’s history, one of your ancestors was tainted by the influence of a rakshasa. Though most of your family seem entirely normal, you have always felt your own skin is a prison from which magic allows you to escape. Your birthright is a secret you may be forced to keep from societies that would never deal with you if your heritage were known.
@@ -1020,3 +1044,11 @@ Stone warders have an innate ability to create runes that allow them to ward are
 **Rune of Warding (Sp)**: As a standard action, a stone warder can create a warding rune in any adjacent square. The stone warder selects a sorcerer spell known that is at least 1 level lower than the highest-level spell she can cast, and casts it as part of creating the rune of warding. The spell must have a casting time of 1 standard action or less, and it must target one or more creatures. Rather than have its normal effect, the spell is stored in the rune. The first creature to enter the square triggers the rune of warding, and becomes the target of the selected spell. Regardless of the number of targets the spell can normally affect, it affects only the creature that triggers the rune. The rune is invisible and lasts a number of rounds equal to the stone warder's level or until discharged. If placed on a solid rock or stone surface, it instead lasts 1 minute per sorcerer level the stone warder has or until discharged. The stone warder cannot create a rune of warding in a square occupied by an existing rune of warding or another creature.
 
 The rune counts as a spell of the same level as the spell stored within it for the purposes of dispelling. It is considered a magic trap and can be discovered with a successful Perception check (DC = 25 + the level of the stored spell) and disarmed with a successful Disable Device check (DC = 25 + the level of the stored spell). The stone warder can use this ability a number of times per day equal to 3 + her Charisma modifier. This ability replaces Eschew Materials, the bloodline spell gained at 3rd level, and the bloodline feat gained at 7th level.
+
+## Nine-Tailed Heir
+
+Stories often tell of fox-folk with multiple tails, but not many realize that fewer than one in every thousand has this potential, and those that do usually have a magical quirk in their blood or have been blessed by their race's patron. As a result, most that harness the mystic powers of their newfound tails often gain sorcerous powers, becoming nine-tailed heirs.
+
+This archetype is available only to kitsune characters.
+
+**Magical Tail**: At 3rd level and every 4 levels thereafter, a nine-tailed heir gains [Magical Tail](../../rules/feats/magical-tail.md) as a bonus feat. If the nine-tailed heir already has nine tails, each additional time the feat is taken, the sorcerer gains one additional daily use of the lowest level Magical Tail ability not already affected by this effect. This ability replaces the bloodline spell class feature.

@@ -325,3 +325,21 @@ Azatariels are the champions of Elysium, dedicated to spreading its unpredictabl
 **Battle Dance (Ex)**: At 3rd level and every 4 levels thereafter, an azatariel's base speed increases by 10 feet. This is an enhancement bonus. An azatariel in medium or heavy armor or carrying a medium or heavy load loses this extra speed. This replaces nimble.
 
 **Affection of Elysium (Su)**: An azatariel's affection relieves harmful afflictions. At 4th level and every 4 levels thereafter, an azatariel selects a mercy from those available to a paladin whose class level is equal to her swashbuckler level. She can show her affection to a willing, adjacent creature as a standard action to apply the effects of these mercies to the targeted creature, treating her swashbuckler level as her paladin level. An azatariel can use this ability a number of times per day equal to half her swashbuckler level plus her Charisma modifier. This replaces the swashbuckler's bonus feats.
+
+## Courser
+
+Many bird-folk hold some bitterness at their lack of wings, and while a small number cultivate enough magic in themselves to recall the gift of flight, those denizens of the greatest cities have refined their own way to fly. Coursers move with grace and ease, racing across rooftops, dashing up walls, and clearing vast gaps between buildings. These daredevils clash for territory and rob vastly superior enemies, trusting in their incredible speed and mobility to keep them safe rather than resorting to swordplay.
+
+**Swift Target (Ex)**: At 1st level, the courser gains Dodge as a bonus feat even if she does not meet the prerequisites. As long as she has at least 1 panache point and is wearing light armor or no armor, her base speed increases by 5 feet. This ability replaces the swashbuckler's opportune parry and riposte deeds.
+
+**Nimble Toes (Ex)**: At 3rd level, the AC bonus gained from the nimble class feature increases by 1 as long as the courser moves at least 20 feet during her turn, though it is reduced by 1 if she does not move at least 10 feet on her turn. These modifiers last until the beginning of the courser's next turn. This ability modifies nimble.
+
+**Confounding Target (Ex)**: At 4th level, the courser gains Spring Attack as a bonus feat even if she does not meet the prerequisites. As long as she has at least 1 panache point and is wearing light armor or no armor, her base speed increases by 10 feet rather than 5 feet. This ability replaces the bonus feat gained at 4th level.
+
+**Deeds**: A courser gains the following deeds, each of which replaces an existing deed.
+
+***Wall Run (Ex)***: At 3rd level, the courser can run horizontally across vertical surfaces for 1 round by spending 1 panache point. She can perform this deed only while wearing light armor or no armor, and she must end her movement for the round on solid ground or else fall prone. The courser can use this deed to run straight up vertical surfaces as well, but every 5 feet up counts as 10 feet of movement. This deed replaces menacing swordplay.
+
+***Impossible Leap (Ex)***: At 7th level, as long as the courser has at least 1 panache point and is wearing light armor or no armor, she adds her swashbuckler level on all Acrobatics checks to jump. She can spend 1 panache point as an immediate action to jump 10 feet in the direction of her choice. This ability can be used to extend another jump or change direction mid-jump. If used in response to an attack, this deed functions as the dodging panache deed, but it allows the courser to move 10 feet. This deed replaces the superior feint deed.
+
+***Swift Strikes (Ex)***: At 11th level, the courser can spend 1 panache point to target two separate creatures when she uses the Spring Attack feat. She rolls the attack once and compares the result to each target's Armor Class separately. Additional damage—such as from a critical hit or weapon property—applies to only the first target struck. Her movement still provokes attacks of opportunity normally from any creature she doesn't attack. This deed replaces the bleeding wound deed.

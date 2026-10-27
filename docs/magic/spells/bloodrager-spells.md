@@ -5,6 +5,7 @@ Bloodragers gain access to the following spells. Spells in plain text come from 
 ## 1st-Level Bloodrager Spells
 
 - **[Barbed Chains](barbed-chains.md)**: Hellish chains attack and cause a target to become shaken.
+- **[Batrachian Surge](batrachian-surge.md)**: gain gills, leaping, swimming, or a long tongue
 - **[Biting Words](biting-words.md)**: Spoken ranged touch attacks deal damage.
 - **[Blade Lash](blade-lash.md)**: Use your weapon like a whip to trip an opponent.
 - **[Bloodbath](bloodbath.md)**: Cause yourself and enemies to bleed.
@@ -249,6 +250,7 @@ Bloodragers gain access to the following spells. Spells in plain text come from 
 - **[Contagion](contagion.md)**: Infects subject with chosen disease.
 - **[Controlled Fireball](controlled-fireball.md)**: As *fireball,* but secretly deals less damage to your allies.
 - **[Crushing Despair](crushing-despair.md)**: Subjects take –2 on attack rolls, damage rolls, saves, and checks.
+- **[Curse of Befouled Fortune](curse-of-befouled-fortune.md)**: curse a target so it rolls twice and takes the worse result
 - **[Cursed Treasure](cursed-treasure.md)**: Curse treasure so the next thief is afflicted
 - **[Detonate](detonate.md)**: 1d8/level energy damage to nearby creatures.
 - **[Dimensional Blade](dimensional-blade.md)**: Your melee weapon makes touch attacks.
@@ -275,6 +277,7 @@ Bloodragers gain access to the following spells. Spells in plain text come from 
 - **[Monstrous Physique II](monstrous-physique-ii.md)**: Take the form and some of the powers of a Tiny or Large monstrous humanoid.
 - **[Moonstruck](moonstruck.md)**: Subject is enraged and confused.
 - Pellet Blast
+- **[Naga Shape I](naga-shape-i.md)**: assume the form of a Large naga
 - **[Phantasmal Killer](phantasmal-killer.md)**: Fearsome illusion kills subject or deals 3d6 damage.
 - **[Poisonous Cloud](poisonous-cloud.md)**: Fog cloud that deals 1d2 Con damage per round.
 - **[Reduce Person, Mass](reduce-person-mass.md)**: As *reduce person*, but affects 1 humanoid creature/level.
@@ -300,3 +303,11 @@ Bloodragers gain access to the following spells. Spells in plain text come from 
 - **[Warp Metal](warp-metal.md)**: Permanently warps metal objects.
 - **[Wooden Wing Shield](wooden-wing-shield.md)**: Your wings become a barrier granting a +4 shield bonus to AC.
 - Wreath of Blades
+
+## 5th-Level Bloodrager Spells
+
+- **[Naga Shape II](naga-shape-ii.md)**: Assume a naga form with more abilities.
+
+## 6th-Level Bloodrager Spells
+
+- **[Naga Shape III](naga-shape-iii.md)**: Assume a naga form with the strongest abilities.

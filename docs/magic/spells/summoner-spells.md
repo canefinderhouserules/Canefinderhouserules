@@ -5,6 +5,7 @@ New summoner spells from *Ultimate Magic*. Spells from other books will be added
 ## 1st-Level Summoner Spells
 
 - **[Barbed Chains](barbed-chains.md)**: Hellish chains attack and cause a target to become shaken.
+- **[Batrachian Surge](batrachian-surge.md)**: gain gills, leaping, swimming, or a long tongue
 - **[Bestow Planar Infusion I](bestow-planar-infusion-i.md)**: Grant a target the effects of a planar infusion
 - **[Blend with Surroundings](blend-with-surroundings.md)**: Target looks like an object and hides easily while still.
 - **[Celestial Healing](celestial-healing.md)**: Target gains fast healing 1.

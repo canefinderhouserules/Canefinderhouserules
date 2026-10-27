@@ -425,3 +425,29 @@ A psychopomp is a steward of souls, tasked with bringing mortal souls to the aft
 **Spirit Touch (Intermediate, Su)**: You gain powers that assist in battling evil spirits. You are always granted a saving throw to negate death spells, magical death effects, and energy drain, even if one is not normally allowed. In addition, as a swift action, you can grant your natural weapons, as well as any weapon you wield, the ghost touch weapon special ability for a number of rounds equal to your medium level. These rounds don't need to be consecutive.
 
 **Spiritsense (Gift, Su)**: You can notice, locate, and distinguish between living and undead creatures within 30 feet, just as if you had the psychopomp's spiritsense ability.
+
+## Fiend Keeper
+
+Among the most sacred roles in some jungle tribes is that of fiend keeper, a vessel to contain one of the world's evil spirits so that it cannot inflict further harm. As the host performs goodly acts, he slowly cleanses the spirit, continuing this process over many generations, until the entity's vileness is no more. In turn, the spirit tempts the fiend keeper with blasphemous power that a cautious medium can direct toward righteous ends. Many tribes boast a resident fiend keeper who bears this local burden and trains replacements who might take over when their mentor dies.
+
+**Alignment**: A fiend keeper must choose a nonevil alignment.
+
+**Evil Spirit (Su)**: A fiend keeper serves as the vessel for a powerful evil spirit that fights and bargains for dominance. The legends a fiend keeper channels are all aspects of this evil presence. Willingly performing an evil act automatically grants the evil spirit 1 point of influence over him. *Protection from evil* temporarily suppresses all the spirit's benefits while the fiend keeper is under the spell's effects. When the spirit gains at least 3 points of influence over the fiend keeper, in addition to the penalties associated with each legend, he gains an evil aura as per a cleric of his level and treats his alignment as evil for the purposes of resisting or being vulnerable to spells and abilities (such as *unholy blight* or a paladin's smite evil class ability). This ability modifies spirit.
+
+**Dark Communion (Su)**: At 3rd level, a fiend keeper can entice the evil spirit to lend him its knowledge or its power as a full-round action a number of times per day equal to his class level. If the fiend keeper seeks knowledge, this behaves as *contact other plane* using his medium level as his caster level, but if he fails the Intelligence or Charisma check, his spirit gains 1 point of influence over him instead of reducing his ability scores. Treat the spirit as an entity from the Astral Plane for this ability. Its knowledge is equivalent to that of a demigod at 5th level, a lesser deity at 7th level, and an intermediate deity at 13th level.
+
+If the fiend keeper requests power, he must instead succeed at an Intelligence or Charisma check (DC 10 at 3rd level, DC 12 at 7th level, or DC 14 at 13th level or higher), or his spirit gains 1 point of influence over him. Regardless of the outcome, he gains one of the following powers for 1 minute. At 5th level, he also gains a number of temporary hit points equal to his medium level for 1 minute. At 7th level, he selects two powers.
+
+***Dark Power***: The fiend keeper gains a +1 profane bonus on attack and damage rolls, and a +1 profane bonus to AC. At 13th level, these bonuses increase to +2.
+
+***Fiendish Form***: The fiend keeper gains darkvision 60 feet. At 7th level, he grows fiendish wings and gains a fly speed equal to his base speed (average maneuverability). At 13th level, his fly speed instead equals double his base speed (good maneuverability).
+
+***Natural Attacks***: The fiend keeper gains two claw attacks and a bite attack. These are primary attacks that each deal 1d4 points of damage (1d6 if the fiend keeper is Medium). At 13th level, the damage increases to 1d6 (1d8 if Medium).
+
+***Spirit Power***: The fiend keeper's spirit bonus increases by 1. At 13th level, the spirit bonus instead increases by 2.
+
+***Unholy Resilience***: The fiend keeper gains resistance 5 to two of the following energy types: acid, cold, electricity, fire, or sonic. The resistance increases to 10 at 7th level and 20 at 13th level.
+
+This ability replaces haunt channeler, location channel, connection channel, and ask the spirits.
+
+**Ex-Fiend Keepers**: A fiend keeper who becomes permanently evil loses control of the spirit after 1d4+1 days, at which point he becomes an NPC under the GM's full control. Seeking an *atonement* spell before then can change the medium's alignment. This effect also can be undone with a *limited wish*, *miracle*, or *wish* spell.

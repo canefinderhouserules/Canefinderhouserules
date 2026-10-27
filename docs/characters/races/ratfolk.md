@@ -54,10 +54,36 @@ The following racial traits may be selected instead of existing ratfolk racial t
 
 See the [Advanced Race Guide section of the racial favored class options](../favored-class-bonuses/racial-favored-class-options.md#ratfolk-advanced-race-guide).
 
+Ratfolk also have the following options.
+
+**Arcanist**: Add 1/3 to the number of times per day the arcanist can use the consume magic items exploit.
+
+**Bard**: Increase the bonus provided by the bard's inspire competence performance by 1/6, and add 1/6 to the number of allies the bard can affect with his inspire greatness performance.
+
+**Hunter**: Add 1 skill rank to the hunter's badger, dire rat, or riding rat animal companion.
+
+**Inquisitor**: Add 1/2 to Sense Motive checks and Knowledge (dungeoneering) checks to identify creatures.
+
+**Investigator**: Add 1 to the bonus provided to a single skill (maximum +2) by inspiration. This skill must be one to which the investigator can already apply inspiration. The investigator can select a different skill at each level.
+
+**Mesmerist**: Gain a +1 bonus on concentration checks to maintain the mesmerist's hypnotic stare.
+
+**Occultist**: Gain 1/6 of a new focus power.
+
+**Psychic**: Gain 1/6 of a new phrenic amplification.
+
+**Spiritualist**: Add 1/2 hit point and 1/2 skill point to the spiritualist's phantom.
+
+**Swashbuckler**: Add 1/4 to the AC bonus provided by cover or improved cover.
+
 ## Archetypes and Class Options
 
 - [Gulch Gunner](../classes/gunslinger-archetypes.md#gulch-gunner) (gunslinger)
 - [Plague Bringer](../classes/alchemist-archetypes.md#plague-bringer) (alchemist)
+- [Opportunist](../classes/fighter-archetypes.md#opportunist) (fighter)
+- [Scavenger](../classes/investigator-archetypes.md#scavenger) (investigator)
+- [Swarm Monger](../classes/druid-archetypes.md#swarm-monger) (druid)
+- [Warp](../classes/psychic.md#warp) (psychic discipline)
 
 These archetypes are typically only taken by ratfolk, but members of other races, with the GM's permission, can take them as well.
 
@@ -93,6 +119,11 @@ Ratfolk have access to the following equipment.
 - [Burrowing Teeth](../../rules/feats/burrowing-teeth.md)
 - [Sharpclaw](../../rules/feats/sharpclaw.md)
 - [Tunnel Rat](../../rules/feats/tunnel-rat.md)
+- [Cooperative Swarmer](../../rules/feats/cooperative-swarmer.md)
+- [Rat Stack](../../rules/feats/rat-stack.md)
+- [Rending Swarm](../../rules/feats/rending-swarm.md)
+- [Squirming Pile](../../rules/feats/squirming-pile.md)
+- [Swarming Underfoot](../../rules/feats/swarming-underfoot.md)
 
 ## Magic Items
 

@@ -316,6 +316,7 @@ Mediums gain access to the following spells. Spells without a link come from oth
 - **[Commune with Texts](commune-with-texts.md)**: Absorb knowledge from a collection of texts.
 - **[Conjuration Foil](conjuration-foil.md)**: Interfere with nearby teleportation effects.
 - **[Contact Entity IV](contact-entity-iv.md)**: Ask extraordinarily powerful eldritch entities to find and converse with you, or they may reply telepathically.
+- **[Contagious Suggestion](contagious-suggestion.md)**: a suggestion that spreads from target to target
 - **[Create Armaments](create-armaments.md)**: Create a nonmagical weapon, shield, or armor.
 - **[Create Mindscape](create-mindscape.md)**: Form an immersive mindscape.
 - **[Darkvision, Greater](darkvision-greater.md)**: See 120 ft. in total darkness.

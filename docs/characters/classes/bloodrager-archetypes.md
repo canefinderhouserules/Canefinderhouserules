@@ -176,3 +176,19 @@ At 4th level, the id rager gains Lightning Reflexes, Great Fortitude, or Iron Wi
 **Atavistic Caster**: At 4th level, an id rager's bloodrager spells are treated as psychic magic. The bloodrager's bloodrage does not prevent him from casting spells with emotional components, and he is considered to be a psychic spellcaster for the purposes of prerequisites (such as for the prerequisites of psychic duels and occult skill unlocks). This ability alters the bloodrager's spellcasting and replaces eschew materials.
 
 **Bonus Feats**: At 6th level and every 3 bloodrager levels thereafter, an id rager can select one of the following feats as a bonus feat: Combat Casting, Empath, Intuitive Spell, Logical Spell, Psychic Combatant, Psychic Defender, Psychic Healing, Psychic Maestro, Psychic Virtuoso, Raging Concentration, Spell Focus, or Spell Penetration. This ability replaces all bloodline feats.
+
+## Spirit Prowler
+
+Ancient legends claim that a race of great-cat folk was created to protect the world from the sinister forces that exist at its fringes. Many bloodragers capable of communing with the ancient spirits of creation take on the burden of this tradition.
+
+**Bloodline**: A spirit prowler must choose the destined bloodline as his bloodline.
+
+**Spirit**: At 1st level, a spirit prowler gains the ability to channel the spirits of creation, granting him the medium's spirit and spirit surge abilities. A prowler channels the cheetah (which acts as the trickster), the leopard (which acts as the guardian), the lion (which acts as the marshal), and the tiger (which acts as the champion). The prowler does not have access to the archmage or hierophant legends. The favored locations for these spirits are altars, churches, sacred groves, and shrines, and their taboo requires the prowler to strongly revere nature and attempt to either destroy or incapacitate evil wherever he encounters it.
+
+A spirit prowler gains his spirit's lesser power at 1st level, its intermediate power at 8th level, and its greater power at 16th level. A prowler's spirit surge bonus never advances beyond 1d6. This ability replaces the 1st-, 8th-, and 16th-level bloodline powers.
+
+**Bloodline Powers**: At 4th level, a spirit prowler gains the bloodline power normally granted by his bloodline at 1st level. At 9th level, he gains the bloodline power normally granted by his bloodline at 4th level. At 12th level, he gains the bloodline power normally granted by his bloodline at 8th level. At 15th level, he gains the bloodline power normally granted by his bloodline at 12th level. At 20th level, he gains the bloodline power normally granted by his bloodline at 16th level. This ability alters the 4th-, 16th-, and 20th-level bloodline powers and replaces the 9th-level and 15th-level bloodline feats.
+
+**Chosen of the Spirits (Su)**: At 11th level, whenever a spirit prowler enters a bloodrage, he can apply the effects of *beast shape IV* to himself instead of using greater bloodrage or mighty bloodrage to apply the effects of a bloodrager spell to himself. He must assume the form of a great cat of the same kind as a channeled spirit (cheetah, leopard, lion, or tiger). This effect lasts for as long as the prowler continues bloodraging, regardless of its normal duration, and using it does not consume a spell slot. This ability alters the bloodrager's greater bloodrage and mighty bloodrage.
+
+**Shapeshifted Spellcasting (Su)**: At 12th level, the spirit prowler can cast spells while under the effects of chosen of the spirits. This ability functions as Natural Spell, except the prowler uses the ability to cast while under the effects of chosen of the spirits instead of wild shape. This ability replaces the 12th-level bloodline feat.

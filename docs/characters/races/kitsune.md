@@ -34,13 +34,45 @@ The following racial traits may be selected instead of existing kitsune racial t
 
 **Gregarious (Ex)**: Even among your own kind, your gift for making friends stands out. Whenever you successfully use Diplomacy to win over an individual, that creature takes a –2 penalty to resist any of your Charisma-based skill checks for the next 24 hours. This racial trait replaces agile.
 
+**Keen Kitsune**: Although amiable, kitsune are notoriously clever and cunning, often far more than they seem. Such characters gain a +2 bonus to Dexterity and Intelligence instead of Dexterity and Charisma. This racial trait alters the kitsune's ability score modifiers.
+
+**Multilingual**: Although most kitsune speak only Common, some quickly learn other human languages in order to give themselves an edge when dealing with humanity. They speak Common, Senzar, and the racial language of their human form's ethnicity, and they can learn any language they want (except Druidic and other secret languages) if they have high Intelligence scores. This racial trait replaces agile as well as a kitsune's normal languages.
+
+**Skilled**: Some kitsune focus on diversifying their skill set in order to better blend in with their human peers. They gain an additional skill rank at 1st level and one additional skill rank whenever they gain a level. This racial trait replaces agile and kitsune magic.
+
+**Superior Shapeshifter**: Some talented kitsune take more naturally to shapeshifting than magic, and develop that gift. They gain Fox Shape as a bonus feat at 1st level, ignoring its prerequisites. This racial trait replaces kitsune magic.
+
 ## Favored Class Options
 
 See the [Advanced Race Guide section of the racial favored class options](../favored-class-bonuses/racial-favored-class-options.md#kitsune-advanced-race-guide).
 
+Kitsune also have the following options.
+
+**All**: Gain 1/6 of a new [Magical Tail](../../rules/feats/magical-tail.md) feat. Any kitsune character can choose this bonus upon gaining a level in her favored class.
+
+**Arcanist**: When casting arcanist enchantment spells, add 1/3 to the effective caster level, but only for the purpose of determining duration.
+
+**Brawler**: Increase the number of times per day the brawler can use martial flexibility by 1/4.
+
+**Cavalier**: Add 1/4 to the cavalier's banner bonus.
+
+**Fighter**: Add 1/3 to damage rolls the fighter makes with weapon attacks against an opponent that he is flanking or that is denied its Dexterity bonus to AC.
+
+**Mesmerist**: Increase the number of mesmerist tricks the mesmerist can use per day by 1/3.
+
+**Shaman**: Add one enchantment spell from the sorcerer/wizard spell list that isn't on the shaman spell list to the list of spells the shaman knows. This spell must be at least 1 level below the highest spell level the shaman can cast.
+
+**Swashbuckler**: Increase the total number of points in the swashbuckler's panache pool by 1/4.
+
+**Vigilante**: Add 1/2 to the Disguise bonus provided by seamless guise.
+
 ## Archetypes and Class Options
 
 - [Kitsune Trickster](../classes/rogue-archetypes.md#kitsune-trickster) (rogue)
+- [Nine-Tailed Heir](../classes/sorcerer-archetypes.md#nine-tailed-heir) (sorcerer)
+- [Advanced versatile performances](../classes/bard.md#advanced-versatile-performances) (bard and skald)
+- Vigilante social talents: [Obscurity, Seamless Shapechanger, Transformation Sequence](../classes/vigilante.md)
+- Vigilante talents: [Brutal Maneuver, Deceitful Trick, Racial Paragon](../classes/vigilante.md)
 
 These archetypes are typically only taken by kitsune, but members of other races, with the GM's permission, can take them as well.
 
@@ -48,6 +80,9 @@ These archetypes are typically only taken by kitsune, but members of other races
 
 - [Magical Tail](../../rules/feats/magical-tail.md)
 - [Realistic Likeness](../../rules/feats/realistic-likeness.md)
+- [Human Guise](../../rules/feats/human-guise.md)
+- [Shapechanging Savage](../../rules/feats/shapechanging-savage.md)
+- [Startling Shapechange](../../rules/feats/startling-shapechange.md)
 
 ## Magic Items
 
@@ -56,3 +91,8 @@ These archetypes are typically only taken by kitsune, but members of other races
 ## Rogue Talents
 
 - [False Friend, Obfuscate Story, Steal the Story](../classes/rogue-talents.md#advanced-race-guide-rogue-talents)
+
+## Spells
+
+- [Contagious Suggestion](../../magic/spells/contagious-suggestion.md)
+- [Gullibility](../../magic/spells/gullibility.md)

@@ -870,3 +870,17 @@ Aquatic creatures worship many different deities and powers based on their align
 **Marine Magic**: At 5th level and at every 3 levels thereafter, a keeper of the current can learn a spell with the water descriptor from the cleric, druid, inquisitor, or wizard spell list in place of a spell she already knows. In effect, she loses an old spell in exchange for a new one. The new spell's level must be the same as that of the spell being exchanged, and it must be at least 1 level lower than the highest-level inquisitor spell she can cast. The keeper of the current can swap out only a single spell at any given level and must choose whether to swap the spell at the same time she gains new spells known for the level. This ability alters the inquisitor's spellcasting.
 
 **Rudderless Attack (Ex)**: At 5th level, an opponent that takes extra damage from the keeper of the current's bane or greater bane ability has its swim speed halved for 1d4 rounds. A successful Fortitude saving throw (DC = 10 + half the inquisitor's level + her Wisdom modifier) negates this effect. If the keeper of the current targets a creature already affected by this ability, its swim speed is not further reduced but the duration of the effect is extended by 1d4 rounds. This ability replaces discern lies.
+
+## Primeval Hunter
+
+Throughout the wild lands, cults of a demonic lord pollute the pristine jungle with fiendish influence and wanton bloodshed. For generations, the peoples native to these lands have viewed such faiths with loathing and hatred, and they believe it is their sacred duty to hunt down the followers of the demonic lord and expel them from the Material Plane.
+
+**Alignment**: Any nonevil.
+
+**Charged by Nature**: Rather than having a deity patron, a primeval hunter is charged by the spirits of the wilds to eradicate evil wherever it appears. At 1st level, a primeval hunter chooses an oracle mystery from the following list: ancestor, battle, flame, heavens, life, lunar, nature, solar, stone, time, volcano, waves, wind, or wood. She gains one revelation from her chosen mystery. She must meet the revelation's prerequisites, using her inquisitor level as her effective oracle level to determine the revelation's effects, and she never qualifies for the Extra Revelation feat. The primeval hunter gains a second revelation from her chosen mystery at 8th level. This ability replaces domain.
+
+**Holy Magic**: A primeval hunter adds all spells of 6th level and lower on the cleric spell list with the good descriptor to her inquisitor spell list as inquisitor spells of the same level. If a spell appears on both the cleric and inquisitor spell lists, the primeval hunter uses the lower of the two spell levels listed for the spell. She cannot cast spells with the chaotic, evil, or lawful descriptors, even from spell trigger or spell completion items. This ability alters the inquisitor's spells.
+
+**Demon Hunter**: At 3rd level, a primeval hunter gains a +2 bonus on Knowledge (religion) checks to recognize the worshipers of any deity with the demon subdomain, as well as a +2 morale bonus on attack rolls and caster level checks to overcome spell resistance of creatures that she recognizes as followers of such a deity. This ability replaces the teamwork feat gained at 3rd level.
+
+**Solo Tactics (Ex)**: A primeval hunter gains this ability at 6th level instead of 3rd level.

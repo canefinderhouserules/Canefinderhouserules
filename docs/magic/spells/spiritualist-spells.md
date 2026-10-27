@@ -47,10 +47,12 @@ Spiritualists gain access to the following spells. Spells without a link come fr
 - **[Endure Elements](endure-elements.md)**: Exist comfortably in hot or cold regions.
 - **[Expeditious Retreat](expeditious-retreat.md)**: Your base speed increases by 30 ft.
 - **[Feather Fall](feather-fall.md)**: Objects or creatures fall slowly.
+- **[Fumblestep](fumblestep.md)**: slick a target’s feet, then trip it from afar
 - **[Grasping Corpse](grasping-corpse.md)**: Cause a corpse to grab or trip a foe.
 - **[Identify](identify.md)**: Gives +10 bonus to identify magic items.
 - **[Implant Urge](implant-urge.md)**: A target unconsciously desires a goal you choose.
 - **[Inflict Light Wounds](inflict-light-wounds.md)**: Touch deals 1d8 damage +1/level (max +5).
+- **[Lightfingers](lightfingers.md)**: telekinetically drop, disarm, or steal an item
 - **[Mage Armor](mage-armor.md)**: Gives subject +4 armor bonus.
 - **[Magic Fang](magic-fang.md)**: One natural weapon of subject creature gets +1 on attack and damage rolls.
 - **[Mindlink](mindlink.md)**: Communicate a great deal of information in an instant.
@@ -157,6 +159,7 @@ Spiritualists gain access to the following spells. Spells without a link come fr
 - **[Contagious Zeal](contagious-zeal.md)**: Grant bonuses and temporary hit points that spread from creature to creature.
 - **[Create Armaments](create-armaments.md)**: Create a nonmagical weapon, shield, or armor.
 - **[Cure Serious Wounds](cure-serious-wounds.md)**: Cures 3d8 damage + 1/level (max +15).
+- **[Curse of Befouled Fortune](curse-of-befouled-fortune.md)**: curse a target so it rolls twice and takes the worse result
 - **[Cursed Treasure](cursed-treasure.md)**: Curse treasure so the next thief is afflicted
 - **[Deft Digits](deft-digits.md)**: Animate a glove to manipulate objects at a distance.
 - **[Detect Anxieties](detect-anxieties.md)**: Learn what makes creatures anxious.

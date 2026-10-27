@@ -74,10 +74,34 @@ The following rogue talents can only be taken by catfolk.
 
 See the [Advanced Race Guide section of the racial favored class options](../favored-class-bonuses/racial-favored-class-options.md#catfolk-advanced-race-guide).
 
+Catfolk also have the following options.
+
+**Alchemist**: Gain 1/6 of a bonus discovery.
+
+**Bloodrager**: Add 1 foot to the bloodrager's base speed. In combat, this has an effect only for every five increases in base speed. This bonus stacks with the bloodrager's fast movement class feature, and applies under the same conditions as that feature.
+
+**Hunter**: Gain 1/6 of a bonus teamwork feat.
+
+**Inquisitor**: Add 1/2 to the inquisitor's track bonus.
+
+**Investigator**: Add 1 to the bonus provided to a single skill (maximum +2) by inspiration. This skill must be one the investigator can already apply inspiration to. The investigator can select a different skill each level.
+
+**Medium**: Add 1/3 to the result of any spirit surge die that the medium rolls.
+
+**Monk**: Add 1/2 to the monk's damage rolls with claw attacks and claw blades. A monk who selects this bonus at 1st level also treats claw blades as a monk weapon. If he is an unchained monk, he can use his style strikes with unarmed strike or claw blade attacks.
+
+**Shaman**: Add 1/6 to the shaman's class level for the purpose of determining the effects of one hex.
+
+**Slayer**: Add 1/3 to the result of any sneak attack damage that the slayer deals after all sneak attack damage dice have been totaled.
+
 ## Archetypes and Class Options
 
 - [Cat Burglar](../classes/rogue-archetypes.md#cat-burglar) (rogue)
 - [Nimble Guardian](../classes/monk-archetypes.md#nimble-guardian) (monk)
+- [Spirit Prowler](../classes/bloodrager-archetypes.md#spirit-prowler) (bloodrager)
+- [Primeval Hunter](../classes/inquisitor-archetypes.md#primeval-hunter) (inquisitor)
+- [Serendipity Shaman](../classes/shaman-archetypes.md#serendipity-shaman) (shaman)
+- [Feline natural course](../classes/vigilante-archetypes.md#wildsoul) (vigilante wildsoul)
 
 These archetypes are typically only taken by catfolk, but members of other races, with the GM's permission, can take them as well.
 
@@ -104,6 +128,9 @@ Catfolk have access to the following equipment.
 - [Claw Pounce](../../rules/feats/claw-pounce.md)
 - [Feline Grace](../../rules/feats/feline-grace.md)
 - [Nimble Striker](../../rules/feats/nimble-striker.md)
+- [Graceful Athlete](../../rules/feats/graceful-athlete.md)
+- [Lucky](../../rules/feats/lucky.md)
+- [Mobile Acrobat](../../rules/feats/mobile-acrobat.md)
 
 ## Magic Items
 
@@ -115,3 +142,6 @@ Catfolk have access to the following equipment.
 
 - [Nine Lives](../../magic/spells/nine-lives.md)
 - [Steal Breath](../../magic/spells/steal-breath.md)
+- [Bit of Luck](../../magic/spells/bit-of-luck.md)
+- [Curse of Befouled Fortune](../../magic/spells/curse-of-befouled-fortune.md)
+- [Pouncing Fury](../../magic/spells/pouncing-fury.md)

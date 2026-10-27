@@ -32,16 +32,48 @@ The following racial trait may be selected instead of an existing nagaji racial 
 
 See the [Advanced Race Guide section of the racial favored class options](../favored-class-bonuses/racial-favored-class-options.md#nagaji-advanced-race-guide).
 
+Nagaji also have the following options.
+
+**Cavalier**: Add 1 foot to the base speed of the cavalier's mount. This has no effect in combat unless the cavalier has selected this reward five times (or another increment of five). If the cavalier ever replaces this mount, the new mount gains this bonus to its speed.
+
+**Mesmerist**: Add 1/5 to the Hit-Die limit and the total number of Hit Dice affected with each enchantment or illusion spell the mesmerist casts. This bonus stacks with the mesmerist's mental potency class feature and is applicable under the same conditions as that ability.
+
+**Oracle**: Add 1/6 to the oracle's level for the purpose of determining the effects of one revelation.
+
+**Paladin**: Add 1/2 minute to the duration of the paladin's divine bond with her weapon.
+
+**Ranger**: Add 1 skill rank to the ranger's constrictor snake or viper snake animal companion.
+
+**Slayer**: Gain 1/6 of a new slayer talent.
+
+**Sorcerer**: Add 1/2 to the sorcerer's caster level when determining the duration of transmutation spells she casts that target the sorcerer or spells she casts with the poison descriptor.
+
+**Warpriest**: Add 1/2 to the number of times per day the warpriest can use blessings, although he can use these additional blessings only for Charm, Magic, Nobility, Rune, or Scalykind blessings.
+
 ## Archetypes and Class Options
 
 - [Naga Aspirant](../classes/druid-archetypes.md#naga-aspirant) (druid)
+- [Serpent Marshal](../classes/cavalier-archetypes.md#serpent-marshal) (cavalier)
+- [Naga bloodline (sorcerer)](../classes/sorcerer-archetypes.md#naga)
+- [Naga bloodline (bloodrager)](../classes/bloodrager-bloodlines.md#naga)
+- Mesmerist tricks: [Break Stupor, Enchanting Words, Life Review](../classes/mesmerist.md)
 
 These archetypes are typically only taken by nagaji, but members of other races, with the GM's permission, can take them as well.
 
 ## Feats
 
 - [Spit Venom](../../rules/feats/spit-venom.md)
+- [Entwining Stare](../../rules/feats/entwining-stare.md)
+- [Venomous Stare](../../rules/feats/venomous-stare.md)
 
 ## Magic Items
 
 - [Nagaji Scale Polish](../../magic-items/racial-items-arg.md#nagaji-scale-polish)
+
+## Spells
+
+- [Greater Hypnotism](../../magic/spells/greater-hypnotism.md)
+- [Metabolic Molting](../../magic/spells/metabolic-molting.md)
+- [Naga Shape I](../../magic/spells/naga-shape-i.md)
+- [Naga Shape II](../../magic/spells/naga-shape-ii.md)
+- [Naga Shape III](../../magic/spells/naga-shape-iii.md)

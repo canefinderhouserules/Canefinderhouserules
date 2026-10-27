@@ -507,6 +507,7 @@ Occultists gain access to the following spells, determined by their chosen imple
 - **[Flash Forward](flash-forward.md)**: Make a charge attack, then teleport back.
 - **[Freedom of Movement](freedom-of-movement.md)**: Subject moves normally despite impediments to movement.
 - **[Globe of Invulnerability, Lesser](globe-of-invulnerability-lesser.md)**: Stops 1st- through 3rd- level spell effects.
+- **[Greater Hypnotism](greater-hypnotism.md)**: hypnotize more creatures and make several requests
 - **[Hero's Spellsword](heros-spellsword.md)**: Merge a rod or staff into a melee weapon.
 - **[Life Bubble](life-bubble.md)**: Protects creatures from sustained environmental effects.
 - Nondetection, Communal
@@ -637,6 +638,7 @@ Occultists gain access to the following spells, determined by their chosen imple
 **Abjuration**:
 
 - **[Cold Iron Fetters](cold-iron-fetters.md)**: Shackle a target, halving its speeds and blocking magical movement.
+- **[Contagious Suggestion](contagious-suggestion.md)**: a suggestion that spreads from target to target
 - **[Dispel Magic, Greater](dispel-magic-greater.md)**: As *dispel magic*, but with multiple targets.
 - Spell Immunity, Communal
 - **[Dream Reality](dream-reality.md)**: The target perceives the world as a dream and forgets it.

@@ -40,9 +40,32 @@ The following racial traits may be selected instead of existing grippli racial t
 
 See the [Advanced Race Guide section of the racial favored class options](../favored-class-bonuses/racial-favored-class-options.md#gripplis-advanced-race-guide).
 
+Gripplis also have the following options.
+
+**Barbarian**: Add 1/5 to the armor bonus granted by hide armor or bone armor the barbarian wears (maximum +3).
+
+**Bard**: Add 5 feet to the range of one bardic performance.
+
+**Medium**: Add 1/4 to any checks modified by the medium's spirit surge ability.
+
+**Oracle**: Add one spell known with the poison or water descriptor from the druid's spell list. This spell must be at least 1 level below the highest spell level the oracle can cast. The spell is treated as 1 spell level higher, unless it is also on the oracle spell list.
+
+**Shaman**: Add one spell from the druid spell list that isn't on the shaman spell list to the list of spells the shaman knows. This spell must be at least 1 level below the highest spell level the shaman can cast.
+
+**Skald**: Increase the skald's total number of raging song rounds per day by 1.
+
+**Slayer**: Add 1/3 to the damage the slayer deals with bone weapons (maximum +4).
+
+**Swashbuckler**: Add 1/2 to the swashbuckler's Acrobatics, Climb, Escape Artist, Fly, Ride, and Swim checks when using the derring-do deed.
+
+**Witch**: Add 1/3 to the saving throw DC to resist the poison of the witch's familiar.
+
 ## Archetypes and Class Options
 
 - [Bogborn Alchemist](../classes/alchemist-archetypes.md#bogborn-alchemist) (alchemist)
+- [Fiend Keeper](../classes/medium-archetypes.md#fiend-keeper) (medium)
+- [Poison Darter](../classes/ranger-archetypes.md#poison-darter) (ranger)
+- [War Painter](../classes/skald-archetypes.md#war-painter) (skald)
 
 These archetypes are typically only taken by gripplis, but members of other races, with the GM's permission, can take them as well.
 
@@ -55,6 +78,8 @@ Gripplis have access to the following equipment.
 ## Feats
 
 - [Agile Tongue](../../rules/feats/agile-tongue.md)
+- [Cunning Killer](../../rules/feats/cunning-killer.md)
+- [Knotted Nets](../../rules/feats/knotted-nets.md)
 
 ## Magic Items
 
@@ -63,3 +88,8 @@ Gripplis have access to the following equipment.
 ## Discoveries
 
 - [Chameleon, Deadly Excretions, Underwater Demolition](../classes/alchemist-archetypes.md#advanced-race-guide-discoveries)
+
+## Spells
+
+- [Batrachian Surge](../../magic/spells/batrachian-surge.md)
+- [Sweat Poison](../../magic/spells/sweat-poison.md)

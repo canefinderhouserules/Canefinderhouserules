@@ -345,3 +345,21 @@ Psychic magic flows through you when you attain a peaceful mental state. Regular
 **Calming Presence (Su)**: At 5th level, you become a calming force. You can use calm emotions as a spell-like ability a number of times per day equal to your Wisdom modifier.
 
 **Purge Disquiet (Su)**: At 13th level, you can banish mental distress. You become immune to fear spells and effects and to the confused condition. As a standard action, you can choose a willing creature that is either within 30 feet or in telepathic contact with you. For 1 round per psychic level you possess, you suppress any fear effect or confused, cowering, frightened, panicked, or shaken condition affecting that creature. You can suppress only one effect at a time with this ability, and choosing a new target ends the suppression for the character you previously chose.
+### Warp
+
+Practitioners of this tradition, said to have been appointed by the gods to sniff out the ragged edges of creation, unlock the psychic potential in trainees, teaching them to sniff out folds and tears in reality. Ancient practitioners even claimed that the art once allowed them to guide great caravans to the stars.
+
+**Phrenic Pool Ability**: Charisma.
+
+**Bonus Spells**: *Entropic shield* (1st), *apport object* (4th), *displacement* (6th), *dimension door* (8th), *dismissal* (10th), *ethereal jaunt* (12th), *greater teleport* (14th), *dimensional lock* (16th), *interplanetary teleport* (18th).
+
+**Discipline Powers**: Your powers allow you to sidestep obstacles, defend yourself, and assault others by tearing holes in reality.
+
+**Planar Scent (Su)**: You can intuitively sense disruptions in the cosmos. This ability functions as a constant *detect magic*, but only for effects of the conjuration (calling), conjuration (summoning), conjuration (teleportation), and illusion (shadow) subschools. You gain a +2 insight bonus on Spellcraft checks to identify such effects.
+
+**Rift Reach (Su)**: As a move action, you can tear open a small rent in reality just large enough to reach an arm through. The far end of this portal must be within 10 feet of you, but otherwise allows you to manipulate objects, perform melee attacks requiring a single hand, or even cast spells. If you cannot see your target, standard concealment penalties apply. You cannot move either end of the portal once it's created, and the opening collapses immediately when you leave your current space or withdraw your arm, but it otherwise lasts for 1 round per psychic level. Your disembodied hand uses your AC with a +4 size bonus, should opponents target it. This size bonus does not apply to disarm combat maneuver checks. You can use this ability a number of times per day equal to 3 + your Charisma modifier. At 11th level, the range of your rift reach increases to 20 feet. At 15th level, your range increases to 30 feet.
+
+**Sidestep (Su)**: You can push your way through holes in reality, crossing vast distances in a single stride. At 13th level, you can teleport up to 10 feet per psychic level per day as a move action. This teleportation must be used in 5-foot increments and such movement does not provoke attacks of opportunity. You must have line of sight to your destination to use this ability. You can bring other willing creatures with you, but you must expend an equal amount of distance for each creature transported.
+
+**Turn Aside (Su)**: You can compress or inflate enough space around you to turn aside ranged attacks. At 5th level, you gain Deflect Arrows as a bonus feat. You can expend 1 point from your phrenic pool as an immediate action to gain a +4 deflection bonus against a single ranged attack.
+

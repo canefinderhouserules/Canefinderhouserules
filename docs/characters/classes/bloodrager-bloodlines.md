@@ -375,3 +375,25 @@ You are the descendant of great heroes from a lost civilization.
 **Legacy Conduit (Su)**: At 16th level, when using the legacy style bloodline power, you can expend a spell slot as a swift action to share the benefits of the selected style feat with all allies within 30 feet. The benefits last for 1 round per level of the spell slot expended. Allies must still enter the style's stance as a swift action.
 
 **Call to Arms (Su)**: At 20th level, you can summon a ghostly army from a fallen civilization once per day. This functions as *spiritual ally* with a caster level equal to your level, except that it summons a number of allies equal to your Constitution modifier, and the allies use your Strength modifier for attack rolls. You can direct all of these allies with a single swift action. Each ally can attack a different target or the same target, as you direct. The allies remain until the spell's duration ends or your bloodrage ends, whichever comes first.
+
+## Naga
+
+The blood of the powerful, serpentine aberrations known as nagas runs through your veins, fueling your bloodrage.
+
+**Bonus Feats**: Alertness, Combat Casting, Combat Reflexes, Dodge, Lightning Reflexes, Power Attack, Stealthy.
+
+**Bonus Spells**: *ray of enfeeblement* (7th), *invisibility* (10th), *lightning bolt* (13th), *poison* (16th).
+
+**Bloodline Powers**: When you bloodrage, arcane power surges through your body, infusing you with the aberrant power and terrible strength of the nagas.
+
+**Serpent Fangs (Su)**: At 1st level, you grow serpentine fangs. These fangs are treated as a natural weapon, granting you a bite attack as a primary natural weapon. This attack deals damage equal to 1d8 (1d6 if you are Small) + your Strength modifier. At 4th level, your fangs are considered magic weapons for the purpose of overcoming damage reduction. At 8th level, the damage increases to 1d10 (1d8 if you are Small) + your Strength modifier.
+
+**Serpentine Swim (Sp)**: At 4th level, you can swim sinuously, like a snake. You gain a swim speed equal to your base speed.
+
+**Naga Defenses (Su)**: At 8th level, when entering a bloodrage, you gain a +2 enhancement bonus to your natural armor bonus and a +4 bonus on saves against poison. At 16th level, the bonus to your natural armor increases to +4 and the bonus on saves against poison increases to +8. At 20th level, the bonus to your natural armor increases to +6, and you gain immunity to poison.
+
+**Poison Fangs (Su)**: At 12th level, you gain the poison special attack, tied to your bite attack. Your poison is as follows: bite—injury; *save* Fort DC = 10 + 1/2 your bloodrager level + your Constitution modifier; *frequency* 1/round for 6 rounds; *effect* 1d2 Con damage; *cure* 1 save.
+
+**Naga Form (Sp)**: At 16th level, when entering a bloodrage, you can assume the form of a naga (as per [*naga shape III*](../../magic/spells/naga-shape-iii.md)).
+
+**Naga Thoughts (Sp, Su)**: At 20th level, when entering a bloodrage, you become immune to charm effects and all forms of mind reading, you gain a +2 bonus on saving throws against other mind-affecting effects, you gain the effects of the spell *see invisibility*, and you can use *detect thoughts* at will.

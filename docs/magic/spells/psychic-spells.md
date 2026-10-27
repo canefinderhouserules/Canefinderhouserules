@@ -112,6 +112,7 @@ Psychics gain access to the following spells. Spells without a link come from ot
 - **[Ki Arrow](ki-arrow.md)**: Arrow deals damage as your unarmed strike.
 - Liberating Command
 - Lock Gaze
+- **[Lightfingers](lightfingers.md)**: telekinetically drop, disarm, or steal an item
 - **[Linked Legacy](linked-legacy.md)**: Share Knowledge check results with the linked creatures.
 - **[Long Arm](long-arm.md)**: Your arms lengthen, giving you extra reach.
 - Longshot
@@ -432,6 +433,7 @@ Psychics gain access to the following spells. Spells without a link come from ot
 - **[Guardian Wasps](guardian-wasps.md)**: A wasp swarm builds a nest that guards an area.
 - **[Guarding Knowledge](guarding-knowledge.md)**: +4 insight bonus on saves against one identified monster special attack.
 - **[Guiding Star](guiding-star.md)**: Know approximate distance from where you cast this spell.
+- **[Gullibility](gullibility.md)**: target believes lies more readily
 - **[Haste](haste.md)**: One creature/level moves faster, +1 on attack rolls, AC, and Reflex saves.
 - Healing Thief
 - **[Helping Hand](helping-hand.md)**: Ghostly hand leads subject to you.
@@ -537,6 +539,7 @@ Psychics gain access to the following spells. Spells without a link come from ot
 - **[Aura of Doom](aura-of-doom.md)**: Creatures in your aura become shaken.
 - **[Bereave](bereave.md)**: Make targets count as enemies to their own allies
 - **[Bestow Planar Infusion II](bestow-planar-infusion-ii.md)**: Grant a target the effects of an improved planar infusion
+- **[Bit of Luck](bit-of-luck.md)**: reservoir of luck points for attack rolls and skill checks
 - **[Black Tentacles](black-tentacles.md)**: Tentacles grapple all creatures within a 20-ft. spread.
 - **[Borrow Corruption](borrow-corruption.md)**: Temporarily gain the effects of a corrupted creature’s manifestations.
 - **[Break Enchantment](break-enchantment.md)**: Frees subjects from enchantments, transmutations, and curses.
@@ -586,6 +589,7 @@ Psychics gain access to the following spells. Spells without a link come from ot
 - Ghost Wolf
 - **[Glimpse of Truth](glimpse-of-truth.md)**: Gain *true seeing* for 1 round.
 - **[Globe of Invulnerability, Lesser](globe-of-invulnerability-lesser.md)**: Stops 1st- through 3rd- level spell effects.
+- **[Greater Hypnotism](greater-hypnotism.md)**: hypnotize more creatures and make several requests
 - **[Hallucinatory Terrain](hallucinatory-terrain.md)**: Makes one type of terrain appear like another (field as forest, or the like).
 - Healing Warmth
 - **[Harvest Knowledge](harvest-knowledge.md)**: Absorb a creature's knowledge
@@ -697,6 +701,7 @@ Psychics gain access to the following spells. Spells without a link come from ot
 - **[Conditional Curse](conditional-curse.md)**: Bestow a curse that is difficult to remove without fulfilling a condition.
 - **[Contact Entity III](contact-entity-iii.md)**: Ask very powerful eldritch entities to find and converse with you, or they may reply telepathically.
 - **[Contact Other Plane](contact-other-plane.md)**: Lets you ask question of extraplanar entity.
+- **[Contagious Suggestion](contagious-suggestion.md)**: a suggestion that spreads from target to target
 - **[Debilitating Pain, Mass](debilitating-pain-mass.md)**: As debilitating pain, but affects multiple creatures.
 - **[Deceptive Redundancy](deceptive-redundancy.md)**: Fool dispellers and hide a spell’s aura.
 - **[Denounce](denounce.md)**: Worsens attitudes toward target creature.

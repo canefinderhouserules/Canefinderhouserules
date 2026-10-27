@@ -58,10 +58,35 @@ The following racial traits may be selected instead of existing tengu racial tra
 
 See the [Advanced Race Guide section of the racial favored class options](../favored-class-bonuses/racial-favored-class-options.md#tengus-advanced-race-guide).
 
+Tengus also have the following options.
+
+**Bard**: Gain a +1/3 bonus on Perform checks attempted as part of countersong and distraction bardic performances.
+
+**Brawler**: Gain a +1/2 insight bonus on attack rolls made with the beak as a secondary natural attack (to a maximum of +3); the brawler must have a beak natural attack to select this option.
+
+**Cleric**: Gain a +1/2 bonus on Diplomacy checks to gather information and on Knowledge (local and religion) checks to know local religious practices and superstitions.
+
+**Hunter**: Add 1 skill rank to the hunter's animal companion. If the hunter ever replaces her animal companion, the new companion gains these bonus skill ranks.
+
+**Kineticist**: Gain 1/6 of an Extra Wild Talent feat.
+
+**Medium**: Add 1/4 to the bonus on checks when the medium uses the spirit surge ability.
+
+**Mesmerist**: Add 1/4 to the AC bonus provided by the meek facade mesmerist trick.
+
+**Slayer**: Gain a +1/4 bonus on Disguise, Knowledge (local), and Perception checks.
+
+**Spiritualist**: The spiritualist's phantom gains 1/6 of a bonus feat. The phantom must meet all prerequisites of the selected feat.
+
+**Swashbuckler**: Add 1/2 to the swashbuckler's Acrobatics, Climb, Escape Artist, Fly, Ride, and Swim checks when using the derring-do deed.
+
 ## Archetypes and Class Options
 
 - [Shigenjo](../classes/oracle-archetypes.md#shigenjo) (oracle)
 - [Swordmaster](../classes/rogue-archetypes.md#swordmaster) (rogue)
+- [Courser](../classes/swashbuckler-archetypes.md#courser) (swashbuckler)
+- [Jinx Witch](../classes/witch-archetypes.md#jinx-witch) (witch)
+- [Red Tongue](../classes/skald-archetypes.md#red-tongue) (skald)
 
 These archetypes are typically only taken by tengus, but members of other races, with the GM's permission, can take them as well.
 
@@ -89,6 +114,8 @@ Tengus have access to the following equipment.
 - [Scavenger’s Eye](../../rules/feats/scavenger-s-eye.md)
 - [Tengu Raven Form](../../rules/feats/tengu-raven-form.md)
 - [Tengu Wings](../../rules/feats/tengu-wings.md)
+- [Empty Threats](../../rules/feats/empty-threats.md)
+- [Lovable Scoundrel](../../rules/feats/lovable-scoundrel.md)
 
 ## Magic Items
 
@@ -102,3 +129,6 @@ Tengus have access to the following equipment.
 - [Commune with Birds](../../magic/spells/commune-with-birds.md)
 - [Theft Ward](../../magic/spells/theft-ward.md)
 - [Winter Feathers](../../magic/spells/winter-feathers.md)
+- [Depilate](../../magic/spells/depilate.md)
+- [Fumblestep](../../magic/spells/fumblestep.md)
+- [Lightfingers](../../magic/spells/lightfingers.md)

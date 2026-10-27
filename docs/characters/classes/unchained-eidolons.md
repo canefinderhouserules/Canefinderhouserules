@@ -109,6 +109,28 @@ At 16th level, agathion eidolons lose the resistance (electricity) evolution, an
 
 At 20th level, agathion eidolons gain detect thoughts as a spell-like ability at will and also increase their damage reduction to DR 10/evil.
 
+### Ancestor
+
+Many cultures strongly revere and respect the accomplishments of their ancestors, and many of their summoners learn to commune with the departed spirits of those honored souls to seek wisdom in times of need. A rare few accidentally spark something far stronger, and the result is a powerful eidolon with familial bonds to its summoner.
+
+Whether created by bonding with the soul of a petitioner that was the summoner's ancestor in life or calling upon the impressions of such a soul left behind on the Ethereal Plane or in a cosmic record, ancestor eidolons are outsiders cast in the mold of mortals, and exhibit extraordinary skill and talent. They usually appear as idealized versions of the bodies they possessed while still alive, but distinctive and proud. Ancestor eidolons lend whatever aid they can to their summoner, who typically has some form of familial connection with the eidolon, be it by blood, honor, or devotion.
+
+**Alignment**: Any. Ancestor eidolons don't have any alignment subtypes.
+
+**Base Form**: Biped (limbs [arms], limbs [legs]).
+
+**Base Evolutions**: At 1st level, an ancestor eidolon gains all of the racial traits associated with its summoner's race; a summoner who isn't a 0-Hit Die creature must choose one 0-Hit Die race of his choice from the core races. For any effect dependent on class level, an ancestor eidolon uses its total Hit Dice instead (such as with the human's skilled racial trait). An ancestor eidolon counts as a creature of its chosen race's type and subtype for all effects, except for the purpose of meeting feat prerequisite requirements. An ancestor eidolon gains only the standard racial traits of its race; it cannot select alternate racial traits.
+
+At 4th level, the ancestor eidolon chooses one of the following simple class templates: fighter, rogue, or sorcerer. It gains the abilities noted under the template's quick rules as if it were a creature with 1 Hit Die. The eidolon does not gain any abilities that a character with 1 level in the class associated with the chosen template wouldn't have. For instance, a 1-HD creature with the rogue simple template would normally gain the evasion and uncanny dodge abilities, but an ancestor eidolon that chooses the rogue simple template does not gain these abilities since a 1st-level rogue would not have evasion or uncanny dodge.
+
+At 8th level, the ancestor eidolon gains the skilled evolution with two skills that are on the list of class skills of the class associated with the eidolon's chosen simple class template.
+
+At 12th level, the ancestor eidolon gains the abilities noted under its chosen simple class templates as if it were a creature with 5 Hit Dice, rather than 1 Hit Die. The eidolon doesn't gain any abilities that a character with 5 levels in the class associated with the chosen template wouldn't have.
+
+At 16th level, the ancestor eidolon gains a bonus feat, chosen from the following list: Dodge, Great Fortitude, Improved Initiative, Iron Will, Lightning Reflexes, Toughness, or any feat that lists the eidolon's chosen race as a prerequisite. The eidolon must meet all of the chosen feat's prerequisites.
+
+At 20th level, the ancestor eidolon gains the abilities noted under its chosen simple class templates as if it were a creature with 10 Hit Dice, rather than 5 Hit Dice. The eidolon doesn't gain any abilities that a character with 10 levels in the class associated with the chosen template wouldn't have.
+
 ### Angel
 
 Hailing from the higher planes, angel eidolons are creatures of exquisite beauty. They usually appear in idealized humanoid forms, with smooth skin, shining hair, and bright eyes. Angel eidolons are impeccably honorable, trustworthy, and diplomatic, but they do not shy away from confrontation when facing off against evil and its minions.

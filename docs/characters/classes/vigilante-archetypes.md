@@ -246,6 +246,16 @@ At 2nd, 6th, 12th, and 18th levels, a wildsoul gains a specific ability tied to 
 
 **Bear Form (Su)**: At 18th level, an ursine wildsoul has learned how to take a bear’s form. He can change into bear form as a standard action, at will, and the transformation lasts until he changes back. While transformed, he becomes a grizzly bear as *beast shape II*. An ursine wildsoul loses his ability to speak while in bear form and is limited to the sounds that a normal bear can make, though he can communicate normally with other bears, as *speak with animal*.
 
+**Feline**: These wildsouls have the blood of great cats running through their veins.
+
+**Feline Attributes (Ex)**: At 2nd level, a feline wildsoul gains the low-light vision and scent special abilities and reduces any penalty he takes on Perception checks due to distance by an amount equal to 1/2 his vigilante level (minimum 0). If he also gains low-light vision or scent from a feat or racial trait, he instead gains a +2 bonus on Perception checks for each ability he already has. In addition, he can take [Aspect of the Beast](../../rules/feats/aspect-of-the-beast.md), ignoring the feat's prerequisites.
+
+**Feline Grace (Ex)**: At 6th level, a feline wildsoul gains uncanny dodge, using his vigilante level as his effective rogue level. At 12th level, he also gains improved uncanny dodge.
+
+**Feline Pounce (Ex)**: At 12th level, a feline wildsoul can strike quickly and lethally at a moment's notice. He gains the mad rush avenger vigilante talent, even if he is not an avenger.
+
+**Nine Lives (Su)**: At 18th level, a feline wildsoul can survive attacks that would kill lesser vigilantes. He gains the defensive roll advanced rogue talent and can use this ability eight times per day.
+
 ## Zealot
 
 Dedicated to a single deity, the zealot hunts the enemies of his faith in secret, often because his religion is outlawed or persecuted in the region.

@@ -1082,3 +1082,33 @@ While many rangers use bows and arrows, the toxophilite takes special pride in h
 **Improved Intercept (Ex)**: At 11th level, when the toxophilite takes a full-attack action with a ranged weapon, she can choose to forgo one of her attacks. If she does so, she can use her intercept arrow ability as an immediate action instead of a readied action at any time before her next turn. Her attack roll to intercept uses the same bonuses as the attack she chose to forgo during her previous action. This ability replaces quarry.
 
 **Greater Intercept (Ex)**: At 19th level, whenever a toxophilite successfully deflects an attack with her intercept arrow ability, she can redirect the attack against a target within 30 feet, using the intercepted attack's attack roll against the new target's AC. This ability replaces improved quarry.
+
+## Poison Darter
+
+In dense jungles, foliage and tight spaces hinder all but the most deceptively humble weapons: blowguns and poison.
+
+**Debilitating Venom (Ex)**: A poison darter can concoct potent toxins that he can apply to his weapons. He can use this ability a number of times per day equal to 1/2 his ranger level + his Wisdom modifier; if he has the toxic skin alternate racial trait, he can expend a daily use of that poison to employ his debilitating venom ability an additional time. The debilitating venom functions only for the poison darter and becomes inert if not used within 1 hour. Creating a debilitating venom is a standard action, and it can be applied to a weapon as a move action.
+
+*Debilitating Venom*—injury; *save* Fortitude DC = 10 + 1/2 the poison darter's level + his Wisdom modifier; *frequency* 1/round for 4 rounds; *effect* 1d3 Dexterity damage; *cure* 1 save.
+
+At 5th level, the frequency increases to 6 rounds, and the toxin sickens a creature for 1 round every time it fails its saving throw to resist the poison. At 10th level, the poison's Dexterity damage increases to 1d4, and two successful saving throws are needed to cure the poison. At 15th level, the poison darter can choose to deal Strength, Dexterity, or Constitution damage with the debilitating venom, selected when he creates the toxin. At 20th level, the poison's damage die increases to 1d6. This ability replaces favored enemy and master hunter.
+
+**Poison Use (Ex)**: A poison darter is trained in the use of poison and cannot accidentally poison himself when applying poison to a weapon. This ability replaces wild empathy.
+
+**Poison Style (Ex)**: At 2nd level, in place of a combat style feat, a poison darter can select any rogue talent that modifies sneak attacks or any alchemist discovery that modifies poisons he creates and applies, using his Wisdom modifier in place of his Intelligence modifier and his ranger level in place of his alchemist or rogue level for the purpose of meeting prerequisites. He can use the sticky poison discovery to apply a single dose of poison to two blowgun darts without reducing its potency. This ability modifies combat style feat.
+
+**Precise Dart (Ex)**: At 4th level, a poison darter gains a sneak attack identical to the rogue class feature, but only when attacking with a blowgun. This deals 1d6 extra points of damage, and the damage increases by 1d6 at 6th level and every 2 ranger levels thereafter. This ability replaces hunter's bond.
+
+## Fortune-Finder
+
+Some simian explorers often leave home to seek fortune and sate their curiosity regarding the mysterious lands that lie beyond their native territories. The most skilled of these thrill-seekers are called fortune-finders. So successful have these canny explorers been at exploring the world at large that the secrets of their success are closely guarded, resulting in only extremely rare fortune-finders of other races.
+
+**Hinterlander (Ex)**: A fortune-finder adds 1/2 his level (minimum 1) on all Climb and Swim checks. This replaces track.
+
+**Adaptable Study (Ex)**: At 4th level, a fortune-finder can adapt and orient himself to new environments and new enemies. He gains a +1 bonus on initiative checks and Knowledge (geography), Perception, Stealth, and Survival checks whenever he is in a terrain he hasn't selected as one of his favored terrains. He leaves no trail and can't be tracked in any such terrain (though he can leave a trail if he so chooses). In addition to this, the fortune-finder can study an opponent he can see as a move action. He then gains a bonus on Bluff, Knowledge, Perception, Sense Motive, and Survival checks attempted against that opponent, as well as on weapon attack and damage rolls against it. The bonus is equal to half the fortune-finder's highest favored enemy bonus. A fortune-finder can't attempt Knowledge checks untrained to identify an opponent he has studied with adaptable study. Bonuses from adaptable study don't stack with those from the favored enemy ability. The ranger can study only a single target at a time. This ability replaces hunter's bond.
+
+**Trailblazer (Ex)**: Starting at 7th level, a fortune-finder can move through any sort of difficult terrain at his normal speed. Terrain that is enchanted or magically manipulated to impede movement, however, still affects the fortune-finder. This ability replaces woodland stride.
+
+**Fast Study (Ex)**: Beginning at 11th level, a fortune-finder can study an opponent using adaptable study as a swift or move action. In addition to this, he can maintain bonuses from adaptable study against one additional opponent. At 19th level, he can study an opponent using adaptable study as an immediate, swift, or move action and can maintain the bonuses from adaptable study against a total of three opponents. This ability replaces quarry and improved quarry.
+
+**Master Explorer (Ex)**: A fortune-finder of 20th level becomes a master explorer. He can move through any sort of terrain that impedes movement at his full speed, even if it is enchanted or magically manipulated to impede motion. As a full-round action, he can study one opponent he can see and has already studied with adaptable study, increasing the benefits he gains from that ability to equal his full favored enemy bonus. This ability replaces master hunter.
