@@ -637,3 +637,285 @@ This collection of eight heavy wooden or metal cones, cylinders, and spheres fil
 **Price** 1 gp; **Weight** varies
 
 A waster is a heavily weighted wooden practice weapon, used as a way to build endurance and expertise with a specific weapon. All wasters are designed to emulate a specific melee weapon (such as a kukri waster or a greatsword waster), and weigh twice as much as the weapons they emulate. Using a waster to hone your combat techniques requires 1 hour of practice and a DC 15 combat maneuver check. If you succeed at the check, you gain a +2 circumstance bonus to your CMD against combat maneuvers targeting weapons you wield that match the waster you practiced with. This bonus lasts for 24 hours.
+
+## Potions and Poisons Gear
+
+### Harvester's Kit
+
+**Price** 65 gp; **Weight** —
+
+This set of surgical tools includes everything needed to quickly and safely harvest the venom from a dead creature. This kit includes forceps, a pair of surgical retractors, a scalpel, small but sturdy metal containers for the harvested venom, a sponge, a surgical hook, and a tiny mallet, all tucked into a leather pouch with a loop for hooking onto the wearer's belt. A harvester's kit provides a +2 circumstance bonus on Survival checks to successfully harvest poison from a creature. A harvester's kit is exhausted after 10 uses.
+
+### Poisoned Locket
+
+**Price** 75 gp; **Weight** —
+
+This heart-shaped locket is attached to a thin metal chain made of looped strands of gold or silver. Inside the locket is a small, spring-loaded vial that can hold a single dose of powdered poison. Loading the locket with poison carries the same risks as applying poison to a weapon. When the locket is opened, the vial is shattered by a ball bearing, releasing the powder into the air and treating the poison's type as if it were inhaled. The airborne poison affects all creatures within 10 feet of the locket.
+
+### Poisoned Quill
+
+**Price** 30 gp; **Weight** —
+
+This long pen is made from a delicate feather and has a thin and unusually long nib. The quill is typically white in color, though variations that are crimson, onyx, or some combination of these colors also exist. A hidden compartment inside the nib allows the quill to hold a single dose of poison that is dispensable with a small squeeze. Additionally, this provides a +2 circumstance bonus on Sleight of Hand checks to conceal poisons inside the quill. If this quill is used with vector ink, it increases the DC of a poison mixed with the ink by 1. This quill can be used as a small shiv to deal 1d3 points of damage and deliver its contained poison. However, because of the fragility of the nib, using the quill in this way destroys it.
+
+### Poisoner's Goblet
+
+**Price** 100 gp; **Weight** 2 lbs.
+
+This is an elegantly styled, gem-encrusted drinking chalice made of smooth jade, obsidian, or a burnished fine metal. The chalice has a hidden compartment in the stem that allows for the insertion of a single vial of poison. The user doesn't risk poisoning himself when inserting the vial. Inside the compartment is a needle that siphons the poison from the vial and injects it into the bowl of the goblet. A hidden button (DC 20 Perception to locate) on the side of the stem begins the transfer of poison into the bowl. The transfer process takes 1 minute to complete, after which the hidden poison is emptied into the goblet.
+
+### Stalker's Oil
+
+**Price** 50 gp; **Weight** —
+
+This is a clear, viscous liquid that is typically kept in a frosted glass vial with an unassuming label and cork. The oil is used to reduce the sound armor and weapons make while moving. Applying this oil to a single piece of equipment takes 1 minute and grants the wearer a +2 circumstance bonus on Stealth checks for 30 minutes. A vial of this oil is enough to coat one Medium piece of equipment, while a Large piece of equipment requires 4 vials. Two pieces of Small equipment can be covered with a single vial of oil. Exposure to or submersion in large amounts of water, such as swimming, immediately ends the effect of the oil.
+
+### Toxic Censer
+
+**Price** 115 gp; **Weight** 1 lb.
+
+This ornately etched censer has a small hidden compartment under the heat source that can hold 1 dose of poison. When in use, the censer's heat source indirectly heats the poison, causing it to mix with the burning incense and allow the poison to permeate the air, filling a 20-foot radius centered on the censer. The poison's type changes to inhaled, and it is effective for 5 minutes before it is entirely burned off.
+
+## Fleshcraft Elixirs
+
+### Adhesive Slime
+
+**Price** 500 gp; **Duration** 1 hour; **Saving Throw** DC 14
+
+The subject's skin secretes a transparent, sticky substance, granting the creature a 15-foot climb speed. *Penalty*: The subject takes a –4 penalty to CMD against grapple checks and must use a move action (instead of a free action) to drop a held object.
+
+**Creation Requirements** Fleshwarper, Craft (alchemy) 8 ranks; Heal DC 18; **Cost** 250 gp
+
+### Ring of Eyes
+
+**Price** 1,400 gp; **Duration** 10 minutes; **Saving Throw** DC 20
+
+Numerous malformed eyes grow on the subject's head. The creature gains all-around vision and can't be flanked. *Penalty*: The subject is overwhelmed by sensory information, leaving it dazzled for the duration.
+
+**Creation Requirements** Fleshwarper, Craft (alchemy) 13 ranks; Heal DC 24; **Cost** 700 gp
+
+### Webbed Appendages
+
+**Price** 300 gp; **Duration** 1 hour; **Saving Throw** DC 12
+
+Membranes of skin grow between the subject's fingers and toes and stretch between its appendages and body, granting the creature a 20-foot swim speed. *Penalty*: The subject has difficulty holding items and takes a –2 penalty on attack rolls with held weapons.
+
+**Creation Requirements** Fleshwarper, Craft (alchemy) 8 ranks; Heal DC 16; **Cost** 150 gp
+
+## Tinctures
+
+Tinctures are alchemical remedies consisting of reagents dissolved in an alcoholic solution. These mixtures produce potent effects beyond those of an ordinary alchemical concoction, but the increased benefits are not without cost. In addition to requiring more expensive components, tinctures tend to cause harmful effects upon being imbibed. Drawing and drinking a tincture follows the same rules as drawing and drinking a potion. A character trained in Craft (alchemy) can create tinctures.
+
+### Alluring Philter
+
+**Price** 150 gp; **Weight** —; **Craft DC** 20
+
+This simple, rosy liquid smells of fresh flowers and perfume. For 1 hour after drinking this tincture, you gain a +2 alchemical bonus on Diplomacy checks, and if you fail a Diplomacy check to shift a creature's attitude by 5 or more, the creature's attitude toward you doesn't worsen. The increased pheromone production makes it difficult to think, causing you to take a –2 penalty on Intelligence-based skill checks for the same duration. Additionally, creatures with the scent ability can detect you from twice as far away for the same duration.
+
+### Artistic Ale
+
+**Price** 300 gp; **Weight** —; **Craft DC** 25
+
+Favored by performers of all kinds, this tincture is a blend of alchemically enhanced herbs and spices mixed into a pint of ale. For 6 hours after drinking this tincture, you gain a +2 alchemical bonus on Bluff and Perform checks, and you treat your level as 1 higher for the purpose of determining the effects of a bardic performance or a raging song. The potent drink causes you to take a –2 penalty on Acrobatics, Intimidate, Knowledge, Sense Motive, and Spellcraft checks for the same duration.
+
+### Brawler's Brew
+
+**Price** 150 gp; **Weight** —; **Craft DC** 20
+
+This tincture is made of thick syrup dissolved in potent alcohol. For 1 hour after drinking this tincture, you gain DR 1/slashing or piercing and can ignore pain effects. This numbing of your body causes you to take a –2 penalty on Fortitude saving throws for the same duration.
+
+### Dodger's Draught
+
+**Price** 300 gp; **Weight** —; **Craft DC** 25
+
+This dark green liquid has a pungent odor. For 1 hour after you drink this tincture, your muscles instinctively react to danger and you gain a +2 dodge bonus to AC. Your involuntary muscle movement causes you to take a –2 penalty on attack rolls for the same duration.
+
+### Explorer's Emulsion
+
+**Price** 150 gp; **Weight** —; **Craft DC** 20
+
+This tincture contains powdered plant roots and comes in cold-weather and hot-weather varieties. For 6 hours after drinking the tincture, you gain a +5 alchemical bonus on Fortitude saving throws to resist the effects of the chosen temperature. The tincture interferes with blood flow, causing you to take a –2 penalty on all other Fortitude saving throws for the same duration.
+
+### Leaper's Libation
+
+**Price** 200 gp; **Weight** —; **Craft DC** 20
+
+This bubbly drink has a zesty scent and invigorates the muscles. For 1 hour after drinking this tincture, you gain a +4 alchemical bonus on Acrobatics checks to jump horizontally, you are always treated as having a running start for the purpose of these checks, and your jump distance can exceed your base speed. Due to your exaggerated movement, you take a –2 penalty on attack rolls and cannot take 5-foot steps for the same duration.
+
+### Liquid Courage
+
+**Price** 175 gp; **Weight** —; **Craft DC** 20
+
+This crimson liquid roils when held. For 1 hour after drinking this tincture, you gain immunity to effects that would cause you to become shaken; you are still susceptible to becoming frightened or panicked. The drink clouds your judgment, imposing a –2 penalty on Wisdom-based skill checks for the same duration.
+
+### Mage's Assistant
+
+**Price** 150 gp; **Weight** —; **Craft DC** 20
+
+This navy blue liquid is riddled with colorful flecks of minerals. For 1 hour after drinking this tincture, you gain a +5 alchemical bonus on concentration checks. The increased focus imposes a –2 penalty on Perception and Sense Motive checks for the same duration.
+
+### Mirage Mixture
+
+**Price** 300 gp; **Weight** —; **Craft DC** 25
+
+This fizzy drink causes a tingling in the optic nerves. For 1 hour after drinking this tincture, you gain a +2 alchemical bonus on Perception checks and Will saving throws to disbelieve illusions. You take a –2 penalty on Will saves against other mind-affecting effects for the same duration.
+
+### Nimble Nectar
+
+**Price** 200 gp; **Weight** —; **Craft DC** 25
+
+This runny green liquid increases your heart rate. For 1 hour after drinking this tincture, you gain a +2 alchemical bonus on initiative checks and Reflex saves. This causes trembling, and you take a –2 penalty on Dexterity-based skill checks for the same duration.
+
+### Prowler's Palliative
+
+**Price** 300 gp; **Weight** —; **Craft DC** 25
+
+This pitch-black liquid slows your heart rate, putting you in an almost trancelike state. For 1 hour after drinking this tincture, you gain a +2 alchemical bonus on Stealth checks, you can use Stealth while moving at full speed without penalty, and the DCs for Intimidate checks to demoralize you are 2 higher. The tincture's sedative nature causes you to take a –4 penalty on Strength-based skill checks and a –2 penalty on damage rolls for the same duration.
+
+### Sorcerer's Spirits
+
+**Price** 300 gp; **Weight** —; **Craft DC** 30
+
+This silvery liquid amplifies magical energies. For 1 hour after drinking this tincture, treat your caster level as 2 higher for the purpose of determining spells' durations and ranges. The liquid unsettles the stomach, imposing a –1 penalty on Fortitude and Reflex saves for the same duration. Whenever you fail a Fortitude or Reflex save while under these effects, you must succeed at a DC 20 Fortitude saving throw or become nauseated for 1 round.
+
+### Starlight Juice
+
+**Price** 300 gp; **Weight** —; **Craft DC** 30
+
+This clear liquid glows with pale light. For 4 hours after drinking this tincture, you emit light as a torch. You are constantly dazzled during this time. If any effect would cause you to become dazzled during this time, you are instead blinded. While under the effect of this tincture, you can intensify your glow as a swift action to that of bright light, as per *daylight*, for 1 round. After activating the bright light effect, you emit only dim light with a range of 10 feet for the remainder of the tincture's duration.
+
+### Stout Solution
+
+**Price** 100 gp; **Weight** —; **Craft DC** 15
+
+This highly viscous liquid resembles tree sap and is difficult to swallow. For 2 hours after drinking this tincture, you gain a +2 alchemical bonus to your CMD and you can perform combat maneuvers as if you were one size category larger. Your skeleton's increased density causes you to be treated as if you were carrying a medium load, or a heavy load if you were already encumbered by a medium load, for the same duration.
+
+### Thinker's Tipple
+
+**Price** 300 gp; **Weight** —; **Craft DC** 25
+
+This orange liquid invigorates the mind. For 1 hour after drinking this tincture, you gain a +2 alchemical bonus on Knowledge checks and can attempt untrained Knowledge checks if the DC is 15 or lower. This saps your energy, imposing a –4 penalty on Fortitude saving throws for the same duration.
+
+### Titan's Tonic
+
+**Price** 200 gp; **Weight** —; **Craft DC** 25
+
+Gravel floats in this umber liquid. For 1 hour after drinking this tincture, you gain a +1 alchemical bonus to natural armor and a +2 alchemical bonus on Strength checks and Strength-based skill checks. The tonic swells your musculature, decreasing your movement speed by 5 feet, to a minimum of 5 feet, and causing you to take a –4 penalty on Reflex saving throws for the same duration.
+
+## Drugs (Potions and Poisons)
+
+### Esoterum
+
+**Price** 600 gp; **Type** drug, inhaled; **Addiction** major, Fortitude DC 24
+
+Legends tell of esoterum dens where dream chasers open their minds to the spirit world, gaining deep insights and abilities beyond mortal ken. Such tales usually continue to describe the destructive rampages that follow when malevolent spirits take advantage of an opened mind and possess the unfortunate individual.
+
+**Effects** 24 hours; the user gains the benefits of the Psychic Sensitivity feat but takes a –4 penalty on Will saves and automatically fails Will saves against possession attempts  
+**Damage** 1d4 Con damage and 1d4 Wis damage
+
+### Gossamer Veil
+
+**Price** 20 gp; **Type** drug, ingested; **Addiction** minor, Fortitude DC 18
+
+Manipulators wander the streets of impoverished neighborhoods, administering this "vaccine" to prevent diseases common in squalid conditions, often with an admonition that it remains effective only as long as the recipient maintains faith in the priest's deity.
+
+**Effect** 1 day; +4 alchemical bonus on saving throws against disease effects  
+**Effect after 1 day** –4 penalty on saving throws against disease effects for 7 days  
+**Damage** 1d4 Wis damage
+
+### Hush
+
+**Price** 200 gp; **Type** drug, ingested; **Addiction** moderate, Fortitude DC 20
+
+This slate-gray powder is often mixed into alcohol and consumed by those working in the noisy testing ranges of gunsmiths. Its similarity in appearance to gunpowder has led to more than a few fatal mishaps.
+
+**Effects** 1d6 hours; the user gains sonic resistance 5, but must roll twice and take the worse result for Perception checks based on sound and increases her arcane spell failure chance by 5%  
+**Damage** 1d4 Wis damage
+
+### Inspiration Dust
+
+**Price** 75 gp; **Type** drug, inhaled; **Addiction** moderate, Fortitude DC 22
+
+The mind-opening properties of this translucent dust enable the user to process information and draw connections rapidly, though the accompanying paranoia can make it difficult to act effectively on the knowledge thus gleaned.
+
+**Effects** 4 hours; +1d4 alchemical bonus on Knowledge, Linguistics, and Spellcraft checks  
+**Effects after 4 hours** for 24 hours, the user takes a –4 penalty on Sense Motive checks and assumes everything heard is a lie, but she can attempt a DC 20 Sense Motive check to determine if someone is telling the truth  
+**Damage** 1d4 Wis damage
+
+### Desert Coffee
+
+**Price** 5 gp; **Type** drug, ingested; **Addiction** minor, Fortitude DC 12
+
+This particularly strong coffee is popular throughout the desert empires and among aficionados in cities far afield. A morning cup is a good cure for lack of rest, but many find that it becomes a habit.
+
+**Effect** 8 hours; user ignores the effects of the fatigued condition  
+**Effects after 8 hours** the user becomes exhausted, and he becomes fatigued only after 8 hours of rest (instead of 1)  
+**Damage** 1 Wis damage
+
+### Magesight
+
+**Price** 15 gp; **Type** drug, inhaled; **Addiction** minor, Fortitude DC 15
+
+Dilettantes pursue the visions from magesight simply for the wonder of the experience, while back-alley shopkeeps in major trade cities rely on it to provide a valuable ability they have no other way to obtain.
+
+**Effects** 1d4×10 minutes; the user gains the benefits of a constant *detect magic* effect, but she treats illumination in the area as dim light; areas of dim light and darkness are treated as darkness  
+**Effect after** 1 hour; the user gains the dazzled condition  
+**Damage** 1d2 Wis damage
+
+### Oblivion
+
+**Price** 100 gp; **Type** drug, ingested; **Addiction** major, Fortitude DC 26
+
+A less pure version of a rarer refined drug, oblivion retains the unpredictable side effects and highly addictive properties of the source material. Oblivion is common in the slums of large cities.
+
+**Effects** a user under the effect of a *suggestion* spell can attempt another saving throw (with the effect's original DC) to shake off the spell's effect, but he loses all memories from the previous 1d4 hours, as per *modify memory* but without the 5-minute limit  
+**Damage** 1d4 damage to a random ability score
+
+### Hedge Wizard
+
+**Price** 1,500 gp; **Type** drug, injury; **Addiction** major, Fortitude DC 18
+
+In higher circles of nobility, some petty nobles pretend to be mighty wizards. Typically created in and smuggled from distant lands, this drug offers a temporary taste of eldritch power at an exorbitant cost—both financial and physical.
+
+**Effects** 12 hours; the user gains the ability to activate scrolls as if she had succeeded at a Use Magic Device check to activate a given scroll. Each time the user activates a scroll this way, she takes 1d4 points of Charisma damage and an amount of nonlethal damage equal to the scroll's caster level. Charisma damage taken this way is counted as ability damage caused by the drug for the purpose of calculating the DC of saving throws to resist addiction to the drug. Neither the Charisma damage nor the nonlethal damage can be healed until the user takes a full 8 hours of rest.  
+**Damage** see Effects
+
+### Bloodtar
+
+**Price** 55 gp; **Type** drug, injury; **Addiction** moderate, Fortitude DC 25
+
+Common among desperate adventurers, gladiatorial combatants, and orc tribes, this tar is often applied after the first blood of a fight is spilled, using the wound as an opportunity to enhance the user's abilities to ensure victory.
+
+**Effects** 1 hour; +2 alchemical bonus to Strength and immunity to pain effects  
+**Effect after 1 hour** the user gains the exhausted condition  
+**Damage** 1d4 Int damage
+
+### Serpent's Kiss
+
+**Price** 50 gp; **Type** drug, ingested; **Addiction** moderate, Fortitude DC 18
+
+Relied upon by politicians and shy noble scions, this emerald syrup boosts the user's confidence, allowing her to navigate social situations with aplomb, though the tremor it imparts to her hands can cause an unseemly clatter of cutlery or stemware.
+
+**Effects** 1 hour; +2 alchemical bonus on Bluff, Diplomacy, and Intimidate checks  
+**Effect after 1 hour** the user gains the fatigued condition for 1d4 hours  
+**Damage** 1d4 Dex damage
+
+### Sting's Savor
+
+**Price** 45 gp; **Type** drug, injury; **Addiction** minor, Fortitude DC 15
+
+The "sting" administered to willing recipients at some temples helps nervous visitors relax. Black-market alchemists have reverse-engineered the drug to meet demand from less savory individuals who appreciate the pliability it elicits in users.
+
+**Effect** user immediately heals 1d8+2 points of nonlethal damage  
+**Effects** 1d4 hours; an opponent who attempts a Bluff check to fool the user or a Diplomacy check to change the user's attitude can roll twice and take the better result  
+**Damage** 1d2 Wis damage
+
+### Vigilance
+
+**Price** 15 gp; **Type** drug, ingested; **Addiction** moderate, Fortitude DC 20
+
+Scholars and students are often willing to accept the clumsiness and slow reactions in exchange for the benefits gained in research and study from this bitter white powder.
+
+**Effect** 1d3 hours; +10 alchemical bonus on Perception checks  
+**Effect after 4 hours** user is denied his Dexterity bonus to AC  
+**Damage** 1d4 Con damage

@@ -41,6 +41,7 @@ New summoner spells from *Ultimate Magic*. Spells from other books will be added
 - **[Ghost Wolf](ghost-wolf.md)**: This spell conjures a Large, quasi-real, wolflike creature made of roiling black smoke.
 - **[Gird Ally](gird-ally.md)**: Summoned creatures gain a deflection bonus to AC
 - **[Hidden Blades](hidden-blades.md)**: Weapon becomes invisible and easy to conceal.
+- **[Identifier's Eye](identifiers-eye.md)**: Detect magic and +5 on Spellcraft to identify items.
 - **[Lesser Nondetection](lesser-nondetection.md)**: Blocks area-targeted divinations.
 - **[Mount, Communal](mount-communal.md)**: As mount, but you may divide the duration among creatures touched.
 - **[Overstimulate](overstimulate.md)**: Grant ferocity to keep a creature conscious
@@ -67,10 +68,12 @@ New summoner spells from *Ultimate Magic*. Spells from other books will be added
 - **[Apport Animal](apport-animal.md)**: Send or receive a Tiny or smaller animal via teleportation.
 - **[Assume Appearance](assume-appearance.md)**: Use a creature’s corpse to adopt its form.
 - **[Bite the Hand](bite-the-hand.md)**: Summoned creature attacks its summoner.
+- **[Clay Skin](clay-skin.md)**: Target gains DR 5/adamantine.
 - **[Conjuration Foil](conjuration-foil.md)**: Interfere with nearby teleportation effects.
 - **[Conjure Carriage](conjure-carriage.md)**: Create a fine carriage.
 - **[Contact Entity II](contact-entity-ii.md)**: Ask more powerful eldritch entities to find and converse with you.
 - **[Control Summoned Creature](control-summoned-creature.md)**: Direct a summoned monster as if you had summoned it.
+- **[Glimpse the Hidden](glimpse-the-hidden.md)**: As *see invisibility*, but cannot be made permanent.
 - **[Grasping Tentacles](grasping-tentacles.md)**: As black tentacles, but they perform dirty tricks.
 - **[Infernal Challenger](infernal-challenger.md)**: Call a bearded devil to duel one challenger.
 - **[Insect Scouts](insect-scouts.md)**: Vermin investigate a location and grant rerolls on related skill checks.
@@ -86,6 +89,7 @@ New summoner spells from *Ultimate Magic*. Spells from other books will be added
 - **[Pack Empathy](pack-empathy.md)**: Create an empathic bond with allies.
 - **[Pellet Blast](pellet-blast.md)**
 - **[Phantom Chariot](phantom-chariot.md)**: Conjures a quasi-real heavy chariot pulled by four horses.
+- **[Phase Step](phase-step.md)**: Short-range teleport of a willing creature with line of sight.
 - **[Planar Inquiry](planar-inquiry.md)**: Call an outsider to answer questions.
 - **[Positive Pulse, Greater](positive-pulse-greater.md)**: A large pulse of positive energy damages undead and bolsters living creatures
 - **[Protection from Arrows, Communal](protection-from-arrows-communal.md)**: As protection from arrows, but you may divide the duration among creatures touched.
@@ -100,6 +104,7 @@ New summoner spells from *Ultimate Magic*. Spells from other books will be added
 - **[Spider Climb, Communal](spider-climb-communal.md)**: As spider climb, but you may divide the duration among creatures touched.
 - **[Sundered Serpent Coil](sundered-serpent-coil.md)**: Summon a grappling serpent coil
 - **[Swarm of Fangs](swarm-of-fangs.md)**: Summon a swarm of flying teeth
+- **[Toxic Blood](toxic-blood.md)**: Target's blood sprays black adder venom when cut.
 - **[Trade Items](trade-items.md)**: Swap a focus object with a target object.
 - **[Urban Step](urban-step.md)**: Step into one doorway and out another.
 - **[Vomit Twin](vomit-twin.md)**: Upon casting this spell, you vomit forth a disgusting ooze copy of yourself into a single adjacent square.
@@ -120,6 +125,7 @@ New summoner spells from *Ultimate Magic*. Spells from other books will be added
 - **[Instant Restoration](instant-restoration.md)**: Heal a summoned creature as it falls
 - **[Minotaur’s Blessing](minotaurs-blessing.md)**: Turn a creature’s head into a bull’s.
 - **[Nixie’s Lure](nixie-s-lure.md)**: This spell creates an unearthly and infectious song that seductively summons all who hear it.
+- **[Poisonous Cloud](poisonous-cloud.md)**: Fog cloud that deals 1d2 Con damage per round.
 - **[Protection from Energy, Communal](protection-from-energy-communal.md)**: As protection from energy, but you may divide the duration among creatures touched.
 - **[Riding Possession](riding-possession.md)**: As possession, but you observe instead of control the subject.
 - **[Rising Water](rising-water.md)**: Conjures a cylinder of calm, swimmable water.

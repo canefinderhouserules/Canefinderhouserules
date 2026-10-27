@@ -33,25 +33,33 @@ See [Afflictions](afflictions.md) for how to read a stat block.
 | Burnt othur fumes | inhaled | 18 | — | 1/rd. for 6 rds. | 1 Con drain/1d3 Con | 2 saves | 2,100 gp |
 | Dark reaver powder | ingested | 18 | 10 min. | 1/min. for 6 min. | 1d3 Con and 1 Str | 2 saves | 800 gp |
 | Deathblade | injury | 20 | — | 1/rd. for 6 rds. | 1d3 Con | 2 saves | 1,800 gp |
+| Diplopic Serum | injury | 15 | — | 1/round for 6 rounds | 1d2 Wis* | 1 save | 250 gp |
 | Dragon bile | contact | 26 | — | 1/rd. for 6 rds. | 1d3 Str | — | 1,500 gp |
 | Dreaming Death | inhaled | 16 | 10 min. | 1/10 min. for 1 hr. | Sleep 10 min., see text | 1 save | 2,500 gp |
 | Drow poison | injury | 13 | — | 1/min. for 2 min. | unconscious 1 min./2d4 hours | 1 save | 75 gp |
+| Gelidburn Oil | injury | 12 | — | 1/round for 4 rounds | 1d3 fire, 1d3 cold, and staggered 1 round | 1 save | 75 gp |
 | Giant wasp poison | injury | 18 | — | 1/rd. for 6 rds. | 1d2 Dex | 1 save | 210 gp |
 | Gray Justice | injury | 18 | — | 1/min. for 10 min. | 1d2 Wis, see text | 2 saves | 400 gp |
 | Greenblood oil | injury | 13 | — | 1/rd. for 4 rds. | 1 Con | 1 save | 100 gp |
 | Green prismatic poison | spell | varies | — | 1/rd. for 6 rds. | Death/1 Con | 2 saves | — |
 | Hemlock | ingested | 18 | 10 min. | 1/min. for 6 min. | 1d6 Dex, see text | 2 saves | 2,500 gp |
+| Hydrofluoric Acid | contact | 20 | 1 minute | 1/round for 6 rounds | 1 Str drain, 1d2 Con, and 2d6 acid* | 2 consecutive saves | 2,500 gp |
 | Id moss | ingested | 14 | 10 min. | 1/min. for 6 min. | 1d3 Int | 1 save | 125 gp |
 | Insanity mist | inhaled | 15 | — | 1/rd. for 6 rds. | 1d3 Wis | 1 save | 1,500 gp |
+| Insecticide | inhaled | 10* | — | 1/round for 3 rounds | 1 Str* | 1 save | 175 gp |
+| Juvebloom | ingested | 16 | 1 day | 1/day for 7 days | 1 Wis drain* | 1 save | 750 gp |
 | King’s sleep | ingested | 19 | 1 day | 1/day | 1 Con drain | 2 saves | 5,000 gp |
 | Large scorpion venom | injury | 17 | — | 1/rd. for 6 rds. | 1d2 Str | 1 save | 200 gp |
 | Laughing gas | inhaled | 12 | — | 1/rd. for 5 rds. | dazed 1 round | 1 save | 500 gp |
 | Lich dust | ingested | 17 | 10 min. | 1/min. for 6 min. | 1d3 Str | 2 saves | 400 gp |
 | Malyass root paste | contact | 16 | 1 min. | 1/min. for 6 min. | 1d2 Dex | 1 save | 250 gp |
 | Medium spider venom | injury | 14 | — | 1/rd. for 4 rds. | 1d2 Str | 1 save | 150 gp |
+| Nerveblast | injury | 19 | — | 1/round for 6 rounds | 1 Dex drain and shaken for 1 hour | 2 consecutive saves | 1,500 gp |
 | Nightmare vapor | inhaled | 20 | — | 1/rd. for 6 rds. | 1 Wis and confused 1 round | 2 saves | 1,800 gp |
 | Nitharit | contact | 13 | 1 min. | 1/min. for 6 min. | 1d3 Con | 1 save | 650 gp |
 | Oil of taggit | ingested | 15 | 1 min. | — | unconscious 1d3 hours | 1 save | 90 gp |
+| Ossivane | injury | 18 | — | 1/round for 6 rounds* | 1d3 Dex | 2 saves | 350 gp |
+| Pupil's Friend | ingested | 10 | 10 minutes | 1/minute for 15 minutes | Sickened for 1 minute* | 1 save | 30 gp |
 | Purple worm poison | injury | 24 | — | 1/rd. for 6 rds. | 1d3 Str | 2 saves | 700 gp |
 | Ragespittle | contact | 17 | 1 min. | 1/min. for 6 min. | 1d2 Dex, see text | 2 saves | 1,000 gp |
 | Red tears | injury | 15 | — | 1/rd. for 10 rds. | 1d6 damage | 1 save | 50 gp |
@@ -63,6 +71,8 @@ See [Afflictions](afflictions.md) for how to read a stat block.
 | Striped toadstool | ingested | 11 | 10 min. | 1/min. for 4 min. | 1d3 Wis and 1 Int | 1 save | 180 gp |
 | Tears of death | contact | 22 | 1 min. | 1/min. for 6 min. | 1d6 Con and paralyzed 1 min. | — | 6,500 gp |
 | Terinav root | contact | 16 | 1 min. | 1/min. for 6 min. | 1d3 Dex | 1 save | 400 gp |
+| Tongue Twist | injury | 16 | — | 1/round for 6 rounds | 1d2 Int* | 2 saves | 600 gp |
+| Ulcer Salt | ingested | 17 | 10 minutes | 1/minute for 6 minutes | 1d2 Con and 1d3 bleed | 2 saves | 300 gp |
 | Ungol dust | inhaled | 15 | — | 1/rd. for 4 rds. | 1 Cha drain/1d2 Cha | 1 save | 1,000 gp |
 | Whisperwound | ingested | 20 | 1 min. | 1 round | 1d6 Con and pain when speaking loudly | 1 save | 5,000 gp |
 | Widow's Kiss | ingested | 24 | 1d4 days | 1/day | 1d3 Con, see text | 3 saves | 7,000 gp |
@@ -140,6 +150,14 @@ This orange liquid burns regardless of temperature, which its drow creators clai
 **Frequency** 1/round for 6 rounds  
 **Effect** 1d3 Con damage; **Cure** 2 consecutive saves
 
+### Diplopic Serum
+
+**Type** poison, injury; **Save** Fortitude DC 15  
+**Frequency** 1/round for 6 rounds  
+**Effect** 1d2 Wis damage. Additionally, the creature has double vision, imposing a 50% miss chance on its attacks against all opponents. Blind creatures are unaffected by this additional effect; **Cure** 1 save
+
+Herbalists accidentally created diplopic serum while attempting to devise a treatment for cataracts. Derived from the dew of a lunary plant, this aromatic pink serum temporarily affects a creature's vision systems, in addition to temporarily impairing its mental faculties.
+
 ### Dragon Bile
 
 **Type** poison, contact; **Save** Fortitude DC 26  
@@ -161,6 +179,14 @@ Creatures awaken from these visions scarred and prone to self-harm. Victims must
 **Type** poison, injury; **Save** Fortitude DC 13  
 **Frequency** 1/minute for 2 minutes  
 **Initial Effect** unconsciousness for 1 minute; **Secondary Effect** unconsciousness for 2d4 hours; **Cure** 1 save
+
+### Gelidburn Oil
+
+**Type** poison, injury; **Save** Fortitude DC 12  
+**Frequency** 1/round for 4 rounds  
+**Effect** 1d3 fire damage, 1d3 cold damage, and staggered 1 round; **Cure** 1 save
+
+This greasy pale-blue liquid delivers a shocking sensation that is both freezing cold and searing hot. Gelidburn oil is popular among pickpockets looking to stab, snatch, and run.
 
 ### Giant Wasp Poison
 
@@ -194,6 +220,14 @@ Crafted by interrogators as an apparent truth serum, gray justice makes victims 
 **Onset** 10 minutes; **Frequency** 1/minute for 6 minutes  
 **Effect** 1d6 Dex damage, creatures reduced to 0 Dexterity suffocate; **Cure** 2 consecutive saves
 
+### Hydrofluoric Acid
+
+**Type** poison, contact; **Save** Fortitude DC 20  
+**Onset** 1 minute; **Frequency** 1/round for 6 rounds  
+**Effect** 1 Str drain, 1d2 Con damage, and 2d6 acid damage; **Cure** 2 consecutive saves
+
+The wise alchemist takes careful precautions whenever handling hydrofluoric acid. This corrosive substance—an occasional byproduct of volcanic gases that is used for industrial purposes—dissolves bones and causes tissue damage when even a small amount contacts the skin. The acid dissolves the body of any victim who dies from hydrofluoric acid poisoning unless the acid is neutralized within 1 minute with a successful DC 20 Heal or Craft (alchemy) check. Hydrofluoric acid must be stored in a magically reinforced container, as it dissolves mundane glass and corrodes metal over time.
+
 ### Id Moss
 
 **Type** poison, ingested; **Save** Fortitude DC 14  
@@ -205,6 +239,22 @@ Crafted by interrogators as an apparent truth serum, gray justice makes victims 
 **Type** poison, inhaled; **Save** Fortitude DC 15  
 **Frequency** 1/rounds for 6 rounds  
 **Effect** 1d3 Wis damage; **Cure** 1 save
+
+### Insecticide
+
+**Type** poison, inhaled; **Save** Fortitude DC 10 (creatures with the vermin type take a –5 penalty on the save)  
+**Frequency** 1/round for 3 rounds  
+**Effect** 1 Str damage (creatures with the vermin type are stunned for 1 round); **Cure** 1 save
+
+Farmers protecting their crops and landlords maintaining their properties use insecticide to clear out pest infestations, but they must avoid the fumes of this dangerous gas. While it is formulated to exterminate vermin, the poison poses a danger to anyone. A single dose of insecticide immediately fills a 10-foot-by-10-foot area. It can be thrown at a range of 20 feet, and it dissipates after 1d6 rounds in a well-ventilated area. A moderate wind disperses the gas in 1 round.
+
+### Juvebloom
+
+**Type** poison, ingested; **Save** Fortitude DC 16  
+**Onset** 1 day; **Frequency** 1/day for 7 days  
+**Effect** 1 Wis drain. The creature looks younger by as much as half his age for a duration of 1 day. The younger appearance is purely cosmetic and has no mechanical effect; **Cure** 1 save
+
+Swindlers claim this green capsule restores the victim's youth. After 1 day, anyone taking juvebloom sees the seemingly time-bending results in the mirror. However, the benefit is not only temporary but also potentially quite damaging. Particularly daring confidence artists mix this capsule into a solution, attempting to sell it as a much more valuable youth elixir.
 
 ### King’s Sleep
 
@@ -242,6 +292,14 @@ Crafted by interrogators as an apparent truth serum, gray justice makes victims 
 **Frequency** 1/round for 4 rounds  
 **Effect** 1d2 Str damage; **Cure** 1 save
 
+### Nerveblast
+
+**Type** poison, injury; **Save** Fortitude DC 19  
+**Frequency** 1/round for 6 rounds  
+**Effect** 1 Dex drain and shaken for 1 hour. The shaken condition progresses to more severe fear effects if the affected creature fails additional Fortitude saving throws against the poison. These more severe effects have the same duration as the initial shaken effect; **Cure** 2 consecutive saves
+
+This iridescent dust clings to weapons. On a hit, nerveblast immediately begins destroying nerves, blocking the signals between the brain and the rest of the body. The disconcerting effect causes many victims to flee in panic.
+
 ### Nightmare Vapor
 
 **Type** poison, inhaled; **Save** Fortitude DC 20  
@@ -259,6 +317,22 @@ Crafted by interrogators as an apparent truth serum, gray justice makes victims 
 **Type** poison, ingested; **Save** Fortitude DC 15  
 **Onset** 1 minute  
 **Effect** unconsciousness for 1d3 hours; **Cure** 1 save
+
+### Ossivane
+
+**Type** poison, injury; **Save** Fortitude DC 18  
+**Frequency** 1/round for 6 rounds (see below)  
+**Effect** 1d3 Dex damage; **Cure** 2 saves
+
+Ossivane mimics the petrification capability of cockatrices, but the toxin relies on the victim's heart pumping hard to spread the poison throughout the body as it stiffens limbs and locks joints. After the initial save, the victim attempts an additional Fortitude save against the poison only during rounds in which she takes a move, standard, or full-round action.
+
+### Pupil's Friend
+
+**Type** poison, ingested; **Save** Fortitude DC 10  
+**Onset** 10 minutes; **Frequency** 1/minute for 15 minutes  
+**Effect** sickened for 1 minute; if the target is affected by a second dose while already under the effects of this poison, the victim is instead nauseated for 1 minute; **Cure** 1 save
+
+This mostly benign, malodorous mold induces temporary illness with no lasting effect, and it can be detected in food or drink with a DC 15 Perception check, unless the food is particularly pungent, in which case the Perception DC increases by up to 5. Named for students wishing to convincingly feign illness, anyone can easily cultivate this mold in dark, moist spaces.
 
 ### Purple Worm Poison
 
@@ -330,6 +404,22 @@ Created by necromantic cults to simultaneously protect and bind newcomers and se
 **Type** poison, contact; **Save** Fortitude DC 16  
 **Onset** 1 minute; **Frequency** 1/minute for 6 minutes  
 **Effect** 1d3 Dex damage; **Cure** 1 save
+
+### Tongue Twist
+
+**Type** poison, injury; **Save** Fortitude DC 16  
+**Frequency** 1/round for 6 rounds  
+**Effect** 1d2 Int damage. Additionally, the creature loses the ability to speak one language at random from the languages he knows for 1 minute. Additional failed saves cause the target to lose the ability to speak additional languages if the target has the ability to speak more than one language. Any creature that can no longer speak a language speaks only gibberish, which prevents casting spells with verbal components; **Cure** 2 saves
+
+This viscous violet gel dulls the mind, impeding the ability to recall words. Thieves and assassins keep tongue twist on hand for dealing with troublesome spellcasters.
+
+### Ulcer Salt
+
+**Type** poison, ingested; **Save** Fortitude DC 17  
+**Onset** 10 minutes; **Frequency** 1/minute for 6 minutes  
+**Effect** 1d2 Con damage and 1d3 bleed damage; **Cure** 2 saves
+
+Ulcer salt can easily be hidden in all foods and beverages, as it lacks color, odor, and flavor. Soon after consuming this dastardly poison, a creature develops painful, bleeding ulcers throughout its stomach and esophagus. Assassins originally developed the salt to mimic targets suffering a medical emergency and thus avoid suspicion of poisoning.
 
 ### Ungol Dust
 

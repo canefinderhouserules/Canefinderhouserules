@@ -1453,3 +1453,15 @@ Jugglers are masters of manipulating objects, most famously by keeping multiple 
 If the juggler is affected by any action or condition that would require a concentration check while he is juggling, he must attempt a Sleight of Hand check to continue juggling and avoid losing concentration. The check's DC is the same as a concentration check, treating the spell level as twice the number of objects being juggled. If the juggler fails his Sleight of Hand check, he drops all juggled objects but one, determined randomly. This ability replaces versatile performance.
 
 **Evasion (Ex)**: At 2nd level, a juggler gains evasion, as the rogue class feature of the same name. At 12th level, he gains improved evasion, as the rogue advanced talent. This ability replaces well-versed and soothing performance.
+
+## Disciple of the Forked Tongue
+
+Studied in venomous words as well as venomous blood, a disciple of the forked tongue knows just the right phrase to slowly poison the soul. His voice can sink deep into his victims' hearts, destroying friendships and devouring the mind. The disciple of the forked tongue is an archetype of the bard class available to vishkanya characters.
+
+**Bardic Performance**: A disciple of the forked tongue gains the following bardic performances.
+
+*Discordant Spiral (Su)*: The disciple can disrupt the thought processes of enemies who hear his performance, causing them to take a –1 penalty on saves against mind-affecting and curse effects and a –2 penalty on concentration checks. These penalties increase by 1 at 5th level and every 6 levels thereafter. This replaces inspire courage.
+
+*Venomous Whispers (Su)*: At 9th level, a disciple of the forked tongue can use his performance to sow distrust into the mind of an enemy within 30 feet. An affected creature treats its allies as hostile for the purposes of their spells and abilities—it is never considered a willing target of spells and must attempt saving throws against them when possible, and it gains no benefit from allied bardic performances and other abilities that specifically target allies. For every 3 levels a disciple of the forked tongue has beyond 9th, he can target one additional enemy while using this performance (up to a maximum of four at 18th level). This replaces inspire greatness.
+
+**Serpent of the Mind (Su)**: A disciple of the forked tongue can add one spell with the curse descriptor from the spell list of any spellcasting class to his list of spells known at 2nd level and every 4 levels thereafter. This replaces versatile performance.

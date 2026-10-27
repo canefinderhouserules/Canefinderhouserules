@@ -10,9 +10,15 @@ While most investigators use a mix of empirical science and alchemy to achieve t
 
 Investigator talents marked with an asterisk (*) add effects to an investigator's studied combat or studied strike. Only one of these talents can be applied to an individual attack, but the decision can be made when the damage is dealt.
 
+**Anathema (Ex)**: When an investigator creates or prepares a poison, including poisons derived from racial or class abilities, he can spend one use of inspiration to create an anathema instead. Anathemas count as poisons, but they can affect creatures that are normally immune to poison, as they exploit vulnerabilities in their very nature rather than their biology. When an anathema is created, select a creature type (and subtype, if applicable) from the ranger favored enemy list; the anathema functions only against this chosen type. The investigator also chooses one of the following special abilities for the anathema to affect: damage reduction (except DR/—), energy resistance (one type chosen by the investigator), fast healing, movement speed, or spell resistance. The method of delivery (contact, ingested, inhaled, or injury) and the DC of the anathema's save are identical to those of the poison used to make the anathema. If the target fails its save against the anathema (even if the enemy is normally immune to effects that require a specific save, such as undead's immunity to effects that require a Fortitude save), the value of the chosen ability is lowered by 5 (minimum 0) for 1 round per investigator level.
+
 **Applied Engineering (Ex)**: The investigator can leverage his knowledge of engineering to solve tasks that normally require brute strength or keen eyes. He can expend one use of inspiration as a full-round action to study an object or area and attempt a Knowledge (engineering) check. On his next turn, he can use the result of that Knowledge (engineering) check in place of a Strength check to break the object or in place of a Perception check to locate hidden doors or compartments in that area.
 
 **Domino Effect\* (Ex)**: When the investigator uses studied strike, he uses his opponents against each other and sets himself up for his next move. Whenever he successfully deals damage to an opponent with studied strike, as a free action the investigator can apply the effects of studied combat to an opponent adjacent to the first. An investigator must be at least 5th level to select this talent.
+
+**Greater Anathema (Ex)**: The ability reduction of the investigator's anathemas increases to 10, and he adds DR/— and regeneration to the list of abilities he can lower with an anathema. In addition, when an investigator creates an anathema, he can designate a specific kind of creature (such as vampires) in addition to the creature type. When used against this specific foe, the DC of the save against the anathema is 2 higher than the component poison. An investigator must have the anathema investigator talent to select this talent.
+
+**Lingering Venom (Ex)**: Poisons that the investigator personally applies to weapons and traps, or otherwise inflicts upon foes, require one additional successful save to cure. An investigator must be at least 5th level to select this talent.
 
 **Prolonged Study\* (Ex)**: The investigator can study his opponents for long periods of time. The effects of his studied combat ability last for a number of rounds equal to twice his Intelligence modifier (minimum 2) or until he deals damage with a studied strike, whichever comes first. The investigator must be at least 13th level to select this talent.
 
@@ -469,3 +475,43 @@ Dabblers in arcane magic and masters of stealth and guile, questioners are inves
 **Restricted Talents**: A questioner selects investigator talents as normal, except he cannot select the alchemist discovery investigator talent. This ability alters investigator talents.
 
 **Investigator Talents**: The following investigator talents complement the questioner archetype particularly well: expanded inspiration, inspirational expertise, perceptive tracking, rogue talent, and underworld inspiration.
+
+## Reckless Epicurean
+
+Reckless epicureans are investigators who, for whatever reason, tend to test unknown concoctions on themselves. Whether an obsessive scientist, a healer determined to ensure the safety of her tinctures, or a seeker of new and interesting potions, a reckless epicurean's body is saturated with experimental chemicals and magic. She can prepare extracts without formulae by approximating the taste, and she can guzzle cursed concoctions without batting an eyelash.
+
+**A Familiar Taste (Ex)**: At 2nd level, a reckless epicurean adds half her level as a bonus on Perception and Spellcraft checks to identify potions. The benefits she receives from poison resistance and poison immunity also apply against harmful potions and other ingested substances with negative effects, such as drugs. This replaces trapfinding.
+
+**Experimental Potable (Su)**: At 5th level, once per day, a reckless epicurean can prepare one experimental potable using a formula that she does not know from the alchemist formulae list into an extract slot of the appropriate level. These experimental potables often have side effects. When a creature consumes one of these potables, the investigator must succeed at a Spellcraft check (DC = 15 + the formula's level). On a failure, she must roll on the Wild Magic Surge table (see the Unchained wild magic rules) to determine the extra effects. If the wild magic surge effect isn't possible due to the nature of the spell or effect, roll instead on the Universal Surge Effects table. Results concerning the caster affect the drinker of the experimental potable instead. At 8th level, and every 3 levels thereafter, the reckless epicurean can prepare one additional experimental potable per day. This replaces the investigator talent gained at 5th level.
+
+**Sympathetic Resistance (Su)**: At 13th level, when a reckless epicurean drinks an extract or a potion, she gains an alchemical bonus on saves against spells and spell-like abilities of the same school as that potion or extract for a number of rounds equal to her Intelligence modifier. This bonus is equal to the level of the spell contained in the extract or potion. The investigator can use this ability a number of times per day equal to her Intelligence modifier (minimum 1). This replaces the investigator talent gained at 13th level.
+
+## Toxin Codexer
+
+While most investigators are well versed in the knowledge of poisons, the toxin codexer has made it a way of life. He meticulously seeks out new poisons and catalogs their effects, both those that are harmful and those that are potentially beneficial. A toxin codexer's detailed understanding of how his toxins work allows him to blend them with exact precision, creating even more deadly venoms or providing painful medicines for those in need.
+
+**Poison Lore (Ex)**: A toxin codexer gains the poison lore ability at 1st level. This ability is otherwise identical to the investigator's poison lore class feature.
+
+**Synthetic Venom (Ex)**: When a toxin codexer prepares his extracts, he can use his slots to prepare short-lived poisons instead of extracts. The following poisons can be prepared into extract slots: 1st—arsenic, giant wasp poison, medium spider venom; 2nd—black adder venom, id moss, striped toadstool; 3rd—blue whinnis, lich dust, sassone leaf residue; 4th—dark reaver powder, purple worm poison, third eye; 5th—deathblade, hemlock, witch hunter's sword; 6th—black lotus extract, dragon bile, king's sleep. Additional poison selections can be added to this list with GM approval. The Fortitude save DC of these poisons is 10 + the toxin codexer's Intelligence modifier + the extract level of the poison. Poisons created in this way are unstable and become inert after 1 day if not used. Once the poison is administered to a target, the duration is as normal for that poison's type, even if longer than 1 day. These poisons can be applied to weapons (if applicable) only by the toxin codexer, unless he has the infusion alchemist discovery. This modifies alchemy and replaces trapfinding and the investigator talent gained at 3rd level.
+
+**Modify Toxin (Ex)**: At 3rd level, a toxin codexer learns to unlock both the beneficial and detrimental side effects of his poisons. These effects apply even if the target succeeds at her save against the poison, but they still count as poison effects. A modified toxin becomes inert if not used within 1 hour. As a move action, the toxin codexer can expend one use of inspiration to apply one of the following effects to a poison in his possession, choosing either the benefit or the detriment when an effect has both options. These effects last for a number of rounds equal to the investigator's Intelligence modifier unless otherwise stated.
+
+- Grant a +2 alchemical bonus or impose a –2 alchemical penalty on saving throws against exhaustion, fatigue, and sleep effects.
+- Grant a +4 alchemical bonus or impose a –4 alchemical penalty on saving throws against effects with the pain descriptor.
+
+At 6th level, the toxin codexer can also choose from the following effects:
+
+- Affect a target so the first time she takes damage each round, she takes an additional 1d6 points of nonlethal damage. This is a pain effect.
+- Inflict or remove the fatigued condition.
+
+At 9th level, the toxin codexer can also choose from the following effects:
+
+- Deal 1 point of bleed damage or cure any ongoing bleed effects.
+- Cure one disease or poison whose save DC does not exceed that of the modified poison. This has no effect on magical curses, diseases, or poisons.
+
+At 12th level, the toxin codexer can also choose from the following effects:
+
+- Cure one magical disease or poison whose save DC does not exceed that of the modified poison.
+- Bestow a 30% spell failure chance on a target.
+
+This replaces keen recollection and trap sense.

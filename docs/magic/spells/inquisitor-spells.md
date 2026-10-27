@@ -167,6 +167,7 @@ New inquisitor spells from *Ultimate Magic*. Spells from other books will be add
 - **[Surmount Affliction](surmount-affliction.md)**: Temporarily suppress one condition.
 - **[Tactical Acumen](tactical-acumen.md)**: You gain an additional +1 on attack rolls or to AC due to battlefield positioning.
 - **[Telepathic Censure](telepathic-censure.md)**: Blocks telepathy.
+- **[Undeath Sense](undeath-sense.md)**: Constant awareness of undead within 60 ft.
 - **[Vexing Miscalculation](vexing-miscalculation.md)**: Target cannot score critical threats.
 - **[Voluminous Vocabulary](voluminous-vocabulary.md)**: Grant ability to speak, read, and write one or more languages for 8 hours.
 
@@ -185,6 +186,7 @@ New inquisitor spells from *Ultimate Magic*. Spells from other books will be add
 - **[Burst of Speed](burst-of-speed.md)**: You gain increased speed, and your movement ignores attacks of opportunity and allows you to move through the space of creatures larger than you are.
 - **[Channel Vigor](channel-vigor.md)**: Focus on limbs, mind, spirit, or torso for bonuses.
 - **[Claim Identity](claim-identity.md)**: Steal a touched humanoid’s face and identity.
+- **[Clay Skin](clay-skin.md)**: Target gains DR 5/adamantine.
 - **[Contagious Zeal](contagious-zeal.md)**: Grant bonuses and temporary hit points that spread from creature to creature.
 - **[Countless Eyes](countless-eyes.md)**: Extra eyes give all-around vision.
 - **[Damnation](damnation.md)**: Punish creatures for evil spells they know or that affect them.
@@ -200,6 +202,7 @@ New inquisitor spells from *Ultimate Magic*. Spells from other books will be add
 - **[False Alibi](false-alibi.md)**: Replace a memory when a trigger occurs.
 - **[Fearsome Duplicate](fearsome-duplicate.md)**: School illusion (figment); Level bard 3, inquisitor 3, sorcerer/wizard 3, witch 3 Casting Time 1 standard.
 - **[Flexile Curse](flexile-curse.md)**: Curse degrades worn armor and shields.
+- **[Glimpse the Hidden](glimpse-the-hidden.md)**: As *see invisibility*, but cannot be made permanent.
 - **[Holy Javelin](holy-javelin.md)**: Deal ongoing damage to evil creatures and apply penalties.
 - **[Improve Trap](improve-trap.md)**: When this spell is cast upon a trap, it improves one specific element of the trap chosen at the time of.
 - **[Insect Scouts](insect-scouts.md)**: Vermin investigate a location and grant rerolls on related skill checks.

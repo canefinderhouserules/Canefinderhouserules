@@ -492,6 +492,34 @@ While many kobold sorcerers tout their purely draconic bloodline, over generatio
 
 **Nimble Walker (Su)** At 20th level, you gain a +5 racial bonus on Reflex saving throws and on Acrobatics checks made to move through a creature’s threatened area or through its space. You also gain the ability to breathe while passing through earth using your earth glide ability.
 
+## Toxic Heritages
+
+The weight of lineage can sometimes grant a connection to venom of various types.
+
+### Scorpion
+
+Whether your ancestors served a scorpion deity or simply worked closely with more mundane members of the species, the venom from these arachnids has seeped down through generations into your blood.
+
+**Class Skill**: Climb.
+
+**Bonus Spells**: *thorn javelin* (3rd), *spider climb* (5th), *poison* (7th), *giant vermin* (scorpions only) (9th), *vermin shape II* (11th), *sirocco* (13th), *creeping doom* (15th), *horrid wilting* (17th), *transmute blood to acid* (19th).
+
+**Bonus Feats**: Arcane Strike, Blind-Fight, Combat Reflexes, Disruptive Spell, Improved Initiative, Nimble Moves, Skill Focus (Climb), Stealthy.
+
+**Bloodline Arcana**: You are trained in the use of poison and cannot accidentally poison yourself when applying poison to a weapon.
+
+**Bloodline Powers**: Wherever your lineage hails from now, the desert is in your blood. Your ancestors may have worshiped the power of the scorpion or learned to channel it to survive.
+
+**Progenitor's Sting (Sp)**: You can magically apply your toxic essence onto your weapon or onto the weapon of a willing ally within 30 feet as a standard action. (Poison—injury; *save* Fort DC 10 + half your sorcerer level + your Charisma modifier; *frequency* 1/round for 6 rounds; *effect* 1 Str, Dex, or Con damage [chosen when this ability is used]; *cure* 1 save). You can use this ability a number of times per day equal to 3 + your Charisma modifier. At 5th level, the ability damage of your poison increases to 1d3. At 7th level, each time you apply your progenitor's sting, you can choose two ability scores for your bloodline poison to affect. At 11th level, whenever you apply your progenitor's sting to a weapon, you can magically apply it onto all willing allies' weapons within 20 feet as well. This counts as one use of your bloodline ability.
+
+**Modify Onset (Su)**: At 3rd level, you can increase the onset time of poisons you use by up to 1 hour per level. At 9th level, you can alter a poison so that it does not have an onset time, but you can trigger it as a swift action to take effect at any time, regardless of distance. If you do not trigger this poison within 1 week of poisoning a target, the poison dissipates harmlessly. The poison can be detected and removed before it is triggered using any normal methods of detecting and removing poison.
+
+**Sudden Sting (Ex, Sp)**: At 9th level, when you are able to act in the surprise round, you can take a full round's worth of actions rather than just a single standard action. You can also cast *accelerate poison* and *delay poison* as spell-like abilities a total of three times per day.
+
+**Sandwalker (Ex)**: At 15th level, you gain a burrow speed of 30 feet and tremorsense with a range of 60 feet.
+
+**It Is My Nature (Su)**: At 20th level, your poisoned blood protects you, reflexively conjuring an ethereal stinger to lash out at foes who come too close. Three times per day when an enemy moves into a square adjacent to you, you can make a melee touch attack against the creature as an immediate action. On a hit, the creature must succeed at a Fortitude save (DC = 10 + half your sorcerer level + your Charisma modifier) or die. A creature that succeeds at this Fortitude save is immune to this effect for 24 hours. This is a poison and death effect. You can use this ability even when you are surprised or flat-footed.
+
 ## Crossblooded
 
 A crossblooded bloodline combines the powers of two distinct heritages. In most cases, sorcerers with this bloodline are the offspring of two sorcerers from different ancestries, but occasionally a crossblooded sorcerer arises from the conjunction of other powers. A draconic sorcerer who is also the culmination of a great destiny, an abyssal sorcerer from a family that dealt with devils, and an arcane sorcerer raised from birth by fey are all possible sources for crossblooded bloodlines.

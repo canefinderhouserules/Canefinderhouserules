@@ -103,6 +103,7 @@
 - **[Spiritual Squire](spiritual-squire.md)**: A force servant helps carry, aid, and armor allies.
 - **[Stave Off Corruption](stave-off-corruption.md)**: Protect against a corruption’s progression.
 - **[Suppress Charms and Compulsions](suppress-charms-and-compulsions.md)**: Bolster or suppress charm and compulsion effects.
+- **[Undeath Sense](undeath-sense.md)**: Constant awareness of undead within 60 ft.
 - **[Undetectable Alignment](undetectable-alignment.md)**: Conceals alignment from magical detection for 24 hours.
 - **[Widen Auras](widen-auras.md)**: Doubles the range of your antipaladin or paladin auras.
 - **[Zone of Truth](zone-of-truth.md)**: Subjects within range cannot lie.

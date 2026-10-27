@@ -162,6 +162,7 @@ Bloodragers gain access to the following spells. Spells in plain text come from 
 - Burst of Speed
 - Chain of Perdition
 - **[Caustic Safeguard](caustic-safeguard.md)**: Acid ward on an object.
+- **[Clay Skin](clay-skin.md)**: Target gains DR 5/adamantine.
 - **[Cloak of Winds](cloak-of-winds.md)**: Creates a whirling screen of strong wind around you.
 - **[Countless Eyes](countless-eyes.md)**: Extra eyes give all-around vision.
 - **[Draconic Reservoir](draconic-reservoir.md)**: Subject can absorb energy damage and enhance melee attacks with it.
@@ -210,6 +211,7 @@ Bloodragers gain access to the following spells. Spells in plain text come from 
 - **[Stinking Cloud](stinking-cloud.md)**: Nauseating vapors, 1 round/level.
 - **[Temporary Graft](temporary-graft.md)**: Graft a body part onto yourself to gain one of several benefits.
 - **[Thunderstomp, Greater](thunderstomp-greater.md)**: Trip multiple creatures within
+- **[Toxic Blood](toxic-blood.md)**: Target's blood sprays black adder venom when cut.
 - **[Trial of Fire and Acid](trial-of-fire-and-acid.md)**: Cover a creature in burning acid
 - **[Twilight Knife](twilight-knife.md)**: Floating knife attacks with you.
 - **[Undead Anatomy I](undead-anatomy-i.md)**: Take the form and some of the powers of a Small or Medium undead.
@@ -261,6 +263,7 @@ Bloodragers gain access to the following spells. Spells in plain text come from 
 - **[Moonstruck](moonstruck.md)**: Subject is enraged and confused.
 - Pellet Blast
 - **[Phantasmal Killer](phantasmal-killer.md)**: Fearsome illusion kills subject or deals 3d6 damage.
+- **[Poisonous Cloud](poisonous-cloud.md)**: Fog cloud that deals 1d2 Con damage per round.
 - **[Reduce Person, Mass](reduce-person-mass.md)**: As *reduce person*, but affects 1 humanoid creature/level.
 - **[Ride the Waves](ride-the-waves.md)**: Target can breathe water and swim.
 - **[River of Wind](river-of-wind.md)**: Creates wind that causes nonlethal damage and can knock down or push creatures.

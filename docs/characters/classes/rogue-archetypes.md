@@ -919,3 +919,39 @@ Some combatants specialize in the study of certain weapons, but those without fo
 **Rogue Talents/Ninja Tricks**: The following rogue talents and ninja tricks complement the makeshift scrapper archetype: acrobat master, expert leaper, fast getaway, ki pool, offensive defense, peerless maneuver, and surprise attack.
 
 **Advanced Talents**: The following advanced rogue talents complement the makeshift scrapper archetype: another day, defensive roll, fast getaway, and opportunist.
+
+## Swamp Poisoner
+
+Swamp poisoners use their own toxins to defend their homes and level the playing field. The swamp poisoner is an archetype available to grippli characters, and it is appropriate for rogues built using the core rules as well as for unchained rogues.
+
+**Prerequisites**: A swamp poisoner must have selected the toxic skin grippli alternate racial trait.
+
+**Mucous Membrane (Ex)**: A swamp poisoner gains a bonus equal to half his class level on Escape Artist checks and to his CMD when resisting grapple attempts (minimum 1). This replaces trapfinding.
+
+**Mark the Vein (Ex)**: At 2nd level, when the swamp poisoner attacks a target that is currently affected by his grippli racial poison, that target is denied its Dexterity bonus to AC. The target must be actively poisoned, not just suffering the effects of poison, such as lingering ability damage. This replaces the rogue talent gained at 2nd level.
+
+**Poison the Well (Ex)**: At 3rd level as a standard action, a swamp poisoner can smear the poison generated through the use of his toxic skin alternate racial trait onto the ground in a 5-foot area, instead of onto a weapon or his own body. The first creature other than the swamp poisoner to enter the area is exposed to the poison. The poison loses its potency after 1 hour. This area is considered a trap, and the DCs of Perception checks to notice it and Disable Device checks to disable it are equal to 10 + half the swamp poisoner's level + the swamp poisoner's Constitution modifier. The swamp poisoner also gains an extra use per day of his toxic skin alternate racial trait, plus one additional use per day for every 3 levels beyond 3rd. This replaces trap sense. An unchained rogue replaces danger sense instead.
+
+## Needler
+
+While some assassins and killers prefer to be up front with their poison use, others favor a covert approach. Needlers use subtlety and misdirection to deliver deadly poisons to unsuspecting victims in creative and unorthodox ways. This archetype is appropriate for rogues built using the core rules as well as for unchained rogues.
+
+**Adroit Poisoner (Ex)**: At 2nd level, a needler gains a +2 bonus on Sleight of Hand checks. This bonus increases to +4 when the needler uses Sleight of Hand to draw a hidden weapon that is coated in poison. At 8th level, these bonuses increase to +4 and +6, respectively. This replaces evasion.
+
+**Subtle Poisoning (Ex)**: At 4th level, a needler can apply a contact or ingested poison to her weapon and deliver it as if it were an injury poison. The poison must be delivered within 1 minute of this application, or it is wasted. The DC of the saving throw to resist the poison decreases by 1 when the needler uses this ability to deliver a contact or ingested poison via injury. This replaces uncanny dodge.
+
+**Needle Poisoner (Ex)**: At 6th level, a needler can apply a dose of poison to a weapon as a swift action. This ability counts as swift poisoning for the purpose of meeting prerequisites. This replaces the rogue talent gained at 6th level.
+
+**Concealed Delivery (Ex)**: At 8th level, a needler learns how to deliver all types of poisons with subtlety. As a standard action, she can deliver an ingested or inhaled poison to a creature within reach by placing a dose of poison on the target's lips, on the target's neck, or through other similar contact with the target's skin as if the poison were a contact poison. Delivering poison in this way requires a successful Sleight of Hand check opposed by the target's Perception check. The poison is not lost on a failed check, but it must be successfully delivered within 1 minute of the first attempt, or it is wasted. This replaces improved uncanny dodge.
+
+## Rotdrinker
+
+Poisons are common tools in a rogue's trade, and some poison-using rogues are so frequently exposed to these toxins that they have developed resistances to particular poisons. Known as rotdrinkers, these rogues purposefully consume poisons to augment their minds and bodies, though they do so at the expense of traditional roguish nimbleness. This archetype is appropriate for rogues built using the core rules as well as for unchained rogues.
+
+**Poison Resistance (Ex)**: At 2nd level, a rotdrinker gains a +2 bonus on saving throws against all poisons. This bonus increases to +4 at 8th level. This replaces evasion.
+
+**Unnatural Ingestion (Ex)**: At 4th level, a rotdrinker gains immunity to all ingested poisons, including poisons that are converted to or considered ingested poisons (such as a poison converted to an ingested poison using the alchemist's poison conversion discovery). Further, when the rotdrinker ingests an ingested poison, she gains a number of temporary hit points equal to half her rogue level. These temporary hit points stack with temporary hit points from other effects, and they last until they are lost or for a number of rounds equal to the rotdrinker's rogue level, whichever comes first. Additionally, the rotdrinker gains benefits from the ingested poisons that she ingests depending on the poison's details, as explained below.
+
+A rotdrinker can gain hit points and additional benefits from only one ingested poison at a time. If she ingests another poison while she has temporary hit points and additional benefits from another poison, the previous temporary hit points and benefits are lost. At 8th level, the temporary hit points and additional benefits last for a number of minutes equal to the rotdrinker's rogue level.
+
+Ingested poisons provide an alchemical bonus equal to the number of consecutive saving throws required to cure the poison (for example, lich dust provides a +2 bonus). An ingested poison that affects Strength, Dexterity, or Constitution grants this bonus on the rotdrinker's damage rolls and Fortitude saving throws. An ingested poison that affects Intelligence, Wisdom, or Charisma instead grants this bonus on the rotdrinker's attack rolls and Will saving throws. An ingested poison that does not affect any ability scores (such as oil of taggit) grants this bonus to the rotdrinker's AC. If an ingested poison falls into more than one of these categories, the rotdrinker chooses which benefit she receives at the time of ingestion. This replaces improved uncanny dodge and uncanny dodge.

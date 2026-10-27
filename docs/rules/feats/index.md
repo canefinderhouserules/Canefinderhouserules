@@ -1702,6 +1702,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Deep Toxin](deep-toxin.md) | — | Vital Strike; base attack bonus +6; Craft (poison) 6 ranks or poison use class feature |
 | [Defended Movement](defended-movement.md) | Shield Mastery | Shield Focus, base attack bonus +6 or fighter level 4th |
 | [Deft Catcher](deft-catcher.md) | — | Skill Focus (Sleight of Hand) |
+| [Delayed Potion](delayed-potion.md) | Versatile Brewing | Brew Potion, caster level 5th |
 | [Demonic Momentum](demonic-momentum.md) | Combat | [Demonic Style](demonic-style.md), Improved Bull Rush, Power Attack, base attack bonus +5 |
 | [Demonic Nemesis](demonic-nemesis.md) | Combat | Knowledge (planes) 6 ranks |
 | [Demonic Slaughter](demonic-slaughter.md) | Combat | Cleave, [Demonic Momentum](demonic-momentum.md), [Demonic Style](demonic-style.md), Great Cleave, Improved Bull Rush, Power Attack, base attack bonus +9 |
@@ -1731,6 +1732,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Disconcerting Stare](disconcerting-stare.md) | Combat, Stare | Mesmerist level 5th, painful stare class feature |
 | [Dispel Focus](dispel-focus.md) | General | Ability to cast dispel magic |
 | [Dispel Mastery](dispel-mastery.md) | Item Mastery | Use Magic Device 3 ranks, base Fortitude save bonus +6 |
+| [Dispelling Blood](dispelling-blood.md) | — | Knowledge (arcana) 7 ranks, vishkanya |
 | [Distant Spell Link](distant-spell-link.md) | — | Enlarge Spell or Reach Spell; animal companion, eidolon, familiar, or other allied creature with the share spells ability |
 | [Diva Advance](diva-advance.md) | Combat | Cha 17, Combat Expertise, Diva Strike, Diva Style, Improved Feint, base attack bonus +11 or bard level 11th |
 | [Diva Strike](diva-strike.md) | Combat | Cha 15, Combat Expertise, Diva Style, Improved Feint, base attack bonus +7 or bard level 7th |
@@ -1873,6 +1875,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Friendly Shroud](friendly-shroud.md) | — | Stealth 1 rank |
 | [Frightening Ambush](frightening-ambush.md) | Combat | Intimidate 1 rank |
 | [Gaze Reflection](gaze-reflection.md) | — | Spellcraft  10 stare and ranks, bold mesmerist tricks class features |
+| [Ghostbane Ichor](ghostbane-ichor.md) | — | Knowledge (religion) 9 ranks, vishkanya |
 | [Giant Vendetta](giant-vendetta.md) | Story | You must have been knocked unconscious in an encounter with a challenging giant foe or have a background tied to giants |
 | [Giant-Bane Caster](giant-bane-caster.md) | — | Caster level 4th, favored enemy (giants) class feature |
 | [Giant-Killer Stance](giant-killer-stance.md) | Combat | Power Attack |
@@ -1913,8 +1916,10 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Harrying Partners](harrying-partners.md) | Combat, Teamwork | Any teamwork feat, base attack bonus +6 |
 | [Harvest Parts](harvest-parts.md) | — | Craft (any) 1 rank or Heal 1 rank |
 | [Healer's Hands](healers-hands.md) | Conduit | Heal 1 rank, Knowledge (planes) 1 rank |
+| [Healing Potion](healing-potion.md) | Versatile Brewing | Brew Potion, ability to cast *cure serious wounds* |
 | [Heaven's Light](heavens-light.md) | Conduit | Knowledge (planes) 1 rank |
 | [Hellish Shackles](hellish-shackles.md) | — | Channel energy 5d6, worshiper of an archdevil or infernal noble |
+| [Hemorrhaging Venom](hemorrhaging-venom.md) | Combat | Spit Venom, Virulent Venom, base attack bonus +7, nagaji |
 | [Heroic Interposition](heroic-interposition.md) | Combat | Dex 13, Dodge, Improved Initiative, Mobility, worshiper of a good demigod or angelic lord |
 | [Heroic Leader](heroic-leader.md) | Combat | Cha 13, any combat feat, ability to gain an animal companion, cohort, eidolon, familiar, or mount |
 | [Heroic Legacy](heroic-legacy.md) | — | Base attack bonus +5, good alignment |
@@ -1997,6 +2002,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Leaping Evasion](leaping-evasion.md) | Combat | Lightning Reflexes, evasion class feature |
 | [Legendary Influence](legendary-influence.md) | — | Lesser spirit power class feature |
 | [Legionnaire’s Inspiration](legionnaires-inspiration.md) | — | — |
+| [Lengthy Potion](lengthy-potion.md) | Versatile Brewing | Brew Potion, caster level 10th |
 | [Liberating Shot](liberating-shot.md) | Weapon Mastery | Dex 13, Deadly Aim, base attack bonus +7, weapon training class feature with a ranged weapon |
 | [Liberation Channel](liberation-channel.md) | — | Channel energy 7d6, worshiper of a deity of freedom |
 | [Lie Low](lie-low.md) | — | — |
@@ -2079,6 +2085,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Nimble Natural Summons](nimble-natural-summons.md) | — | Augment Summoning, Spell Focus (conjuration), ability to cast *summon nature’s ally*, caster level 6th, worshiper of a deity of the hunt and farming |
 | [Nomad-Trained Horse](nomad-trained-horse.md) | Animal Companion | Horse |
 | [Notorious Vigilante](notorious-vigilante.md) | Combat | Dazzling Display, Weapon Focus, any nongood alignment, great renown social talent, proficiency with chosen weapon |
+| [Noxious Touch](noxious-touch.md) | — | Grippli, toxic skin alternate racial trait |
 | [Oath of the Unbound](oath-of-the-unbound.md) | — | Worshiper of a deity of destruction or freedom |
 | [Obliviating Stare](obliviating-stare.md) | Stare | Allure bold stare improvement, hypnotic stare class feature, mesmerist level 5th |
 | [Ogre Crush](ogre-crush.md) | — | Str 25, Improved Grapple, Improved Unarmed Strike, ogre, size Large or larger |
@@ -2132,6 +2139,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Planewalker's Insight](planewalkers-insight.md) | — | — |
 | [Play to the Crowd](play-to-the-crowd.md) | — | Int 19, Ironclad Logic, Diplomacy 5 ranks, Sense Motive 5 ranks |
 | [Poised Bearing](poised-bearing.md) | Armor Mastery | Base attack bonus +6 or fighter level 4th, armor training class feature, proficiency with medium or heavy armor |
+| [Poison Resin](poison-resin.md) | — | Grippli, toxic skin alternate racial trait |
 | [Poison Shot Deed](poison-shot-deed.md) | Grit | Amateur Gunslinger or grit class feature |
 | [Poisoner’s Channel](poisoner-s-channel.md) | — | Channel energy 3d6, worshiper of a deity of secrets and poison |
 | [Polyglot Familiar](polyglot-familiar.md) | Familiar | Must have a familiar |
@@ -2397,6 +2405,8 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Totem Beast](totem-beast.md) | — | Wis 13, animal companion class feature |
 | [Tough as Iron](tough-as-iron.md) | — | Toughness, duergar |
 | [Tower Shield Specialist](tower-shield-specialist.md) | Shield Mastery | Shield Focus, Tower Shield Proficiency, base attack bonus +11 or fighter level 8th |
+| [Toxic Secretions](toxic-secretions.md) | — | Grippli, toxic skin alternate racial trait |
+| [Toxic Spray](toxic-spray.md) | Combat | Spit Venom, Viscous Venom, nagaji |
 | [Trailblazing Channel](trailblazing-channel.md) | — | Channel energy 3d6, worshiper of a deity of dreams and travelers |
 | [Treacherous Toxin](treacherous-toxin.md) | — | Base attack bonus +5, sneak attack class feature |
 | [Triangulate](triangulate.md) | Teamwork | Blind-Fight, Greater Blind-Fight, Improved Blind-Fight, Perception 15 ranks, human |
@@ -2421,6 +2431,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Unfair Grip](unfair-grip.md) | Combat | Str 13, Dex 13, Improved Grapple, Improved Unarmed Strike, Power Attack, base attack bonus +1 |
 | [Unhindering Shield](unhindering-shield.md) | Shield Mastery | Shield Focus, base attack bonus +6 or fighter level 4th, proficiency with bucklers |
 | [Unimpeachable Honor](unimpeachable-honor.md) | — | Iron Will |
+| [Unraveling Blood](unraveling-blood.md) | — | Dispelling Blood, Knowledge (arcana) 9 ranks, vishkanya |
 | [Unseen Poison](unseen-poison.md) | — | Bluff 5 ranks, Craft (poison) 5 ranks, ability to cast *nondetection* |
 | [Upsetting Shield Style](upsetting-shield-style.md) | Combat, Style | Dex 13, proficiency with bucklers |
 | [Upsetting Strike](upsetting-strike.md) | Combat | Dex 15, Combat Reflexes, Improved Shield Bash, Upsetting Shield Style, proficiency with bucklers |
@@ -2431,6 +2442,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Vanguard Hustle](vanguard-hustle.md) | Combat | Dex 13, Bodyguard, Combat Patrol, Combat Reflexes, Mobility, Saving Shield, Vanguard Style, Vanguard Ward, proficiency with light or heavy shields |
 | [Vanguard Style](vanguard-style.md) | Combat, Style | Bodyguard, Combat Reflexes, proficiency with light or heavy shields |
 | [Vanguard Ward](vanguard-ward.md) | Combat | Bodyguard, Combat Reflexes, Vanguard Style, proficiency with light or heavy shields |
+| [Vaporous Potion](vaporous-potion.md) | Versatile Brewing | Brew Potion |
 | [Vast Spell](vast-spell.md) | Metamagic | Caster level 3rd |
 | [Veiled Purity](veiled-purity.md) | — | 5 or more Hit Dice, good alignment |
 | [Vengeful Banisher](vengeful-banisher.md) | Story | You witnessed at least one family member or a close friend being killed by demons or demonic cultists, or you have the Hated Foe or An Eye for an Eye background |
@@ -2443,13 +2455,16 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Vim and Vigor](vim-and-vigor.md) | Combat | Con 13, Combat Vigor, Endurance, character level 3rd |
 | [Violent Display](violent-display.md) | Combat | Dazzling Display, Weapon Focus, base attack bonus +6 |
 | [Virtuous Creed](virtuous-creed.md) | — | Good alignment |
+| [Virulent Venom](virulent-venom.md) | Combat | Spit Venom, nagaji |
 | [Visceral Threat](visceral-threat.md) | Combat | Intimidating Prowess |
+| [Viscous Venom](viscous-venom.md) | Combat | Spit Venom, nagaji |
 | [Vishkanya Perfume](vishkanya-perfume.md) | — | Deadly Kiss, toxic racial trait, vishkanya |
 | [Vision Mastery](vision-mastery.md) | Item Mastery | Use Magic Device 2 ranks, base Fortitude save bonus +4 |
 | [Volley Fire](volley-fire.md) | Combat, Teamwork | Point-Blank Shot |
 | [Voracious Blade](voracious-blade.md) | Combat | Weapon Focus (rhoka sword), base attack bonus +4, urdefhan |
 | [Walking Sleight](walking-sleight.md) | — | Deft Hands, Sleight of Hand 5 ranks |
 | [Wanderer's Fortune](wanderers-fortune.md) | Conduit | Knowledge (planes) 3 ranks |
+| [Warding Blood](warding-blood.md) | — | Ghostbane Ichor, Knowledge (religion) 13 ranks, vishkanya |
 | [Warmonger](warmonger.md) | — | Cha 13, hobgoblin |
 | [Warning Shot](warning-shot.md) | Combat | Point-Blank Shot, Precise Shot, Weapon Focus, proficiency with the selected weapon |
 | [Warren Digger](warren-digger.md) | — | Ghoul |
