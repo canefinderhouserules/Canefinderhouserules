@@ -1584,6 +1584,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Bloodletting](bloodletting.md) | Combat | Worshiper of a deity of pain |
 | [Bloodmarked Flight](bloodmarked-flight.md) | — | Base attack bonus +5, werebat-kin |
 | [Bloody Vengeance](bloody-vengeance.md) | Combat | Base attack bonus +1, worshiper of a deity of vengeance |
+| [Blowout Shot Deed](blowout-shot-deed.md) | Grit | Craft (alchemy) 3 ranks, grit class feature or Amateur Gunslinger feat |
 | [Blunt Blade](blunt-blade.md) | Blood Hex | Int 13, base attack bonus +6, Use Magic Device 1 rank |
 | [Blustering Bluff](blustering-bluff.md) | — | Cha 13, Bluff 1 rank, Intimidate 1 rank |
 | [Body Control](body-control.md) | — | Wis 11, Meditation Master |
@@ -1862,6 +1863,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Expert Sniper](expert-sniper.md) | Combat | Stealth 3 ranks |
 | [Explosive Escape](explosive-escape.md) | Combat | Dex 13, Str 13, Improved Grapple, Improved Unarmed Strike |
 | [Exquisite Sneak](exquisite-sneak.md) | — | Dex 15, Careful Sneak, Stealth 6 ranks |
+| [Extend the Bulwark](extend-the-bulwark.md) | Combat, Teamwork | — |
 | [Extended Combat Meditation](extended-combat-meditation.md) | Combat, Meditation | Wis 13, [Combat Meditation](combat-meditation.md), [Meditation Master](meditation-master.md), character level 9th |
 | [Extra Blood Hex](extra-blood-hex.md) | Blood Hex | Int 15, two or more blood hex feats, Spellcraft 5 ranks, Use Magic Device 5 ranks |
 | [Extra Contingency](extra-contingency.md) | — | Character level 19th |
@@ -2294,6 +2296,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Quick Stow](quick-stow.md) | Combat | Quick Draw, base attack bonus +1 |
 | [Quick Study](quick-study.md) | Combat | Int 13, bravery +3 class feature, fighter level 10th |
 | [Quiet Death](quiet-death.md) | Combat | Dex 19, Stealth 10 ranks, rogue level 10th |
+| [Quillbreaker Defense](quillbreaker-defense.md) | Combat | Proficiency with armor spikes |
 | [Racial Item Mastery](racial-item-mastery.md) | Item Mastery | Use Magic Device 6 ranks, base Fortitude saving throw bonus +3 |
 | [Raging Brute](raging-brute.md) | — | Str 21 |
 | [Raging Regeneration](raging-regeneration.md) | Combat | Rage class ability, regeneration, troll |
@@ -2388,6 +2391,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Shield Gauntlet Style](shield-gauntlet-style.md) | Combat, Style | Weapon Focus (gauntlet or spiked gauntlet), proficiency with bucklers and light shields |
 | [Shield Material Expertise](shield-material-expertise.md) | Shield Mastery | Shield Focus, base attack bonus +6 or fighter level 4th |
 | [Shield Material Mastery](shield-material-mastery.md) | Shield Mastery | Shield Focus, Shield Material Expertise, base attack bonus +11 or fighter level 8th |
+| [Shield Snag](shield-snag.md) | Combat | Improved Shield Bash, Shield Proficiency, Two-Weapon Fighting, base attack bonus +6 |
 | [Shielded Gauntlet Attack](shielded-gauntlet-attack.md) | Combat | Shield Gauntlet Style, Weapon Focus (gauntlet or spiked gauntlet), proficiency with bucklers and light shields |
 | [Shielded Gauntlet Master](shielded-gauntlet-master.md) | Combat | Shielded Gauntlet Attack, Shield Gauntlet Style, Weapon Focus (gauntlet or spiked gauntlet), proficiency with bucklers and light shields |
 | [Shielded Mage](shielded-mage.md) | Shield Mastery | Shield Focus, base attack bonus +3 or fighter level 1st |
@@ -2662,6 +2666,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Weather Eye](weather-eye.md) | — | Survival 3 ranks, must worship nature |
 | [Weathered Warrior](weathered-warrior.md) | Combat | Endurance |
 | [Welcome Pain](welcome-pain.md) | — | Iron Will, worshiper of a deity of pain |
+| [Whip-Shot Deed](whip-shot-deed.md) | Grit | Grit class feature or Amateur Gunslinger feat, pistol-whip deed |
 | [Wicked Valor](wicked-valor.md) | — | Con 15, Diehard, Endurance, tiefling |
 | [Wild Speaker](wild-speaker.md) | General | Bleachling racial trait, gnome |
 | [Willing Accomplice](willing-accomplice.md) | — | Cha 13, Bluff 3 ranks, Sense Motive 1 rank |

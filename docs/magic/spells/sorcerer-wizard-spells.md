@@ -539,7 +539,9 @@
 - **[Hero's Spellsword](heros-spellsword.md)**: Merge a rod or staff into a melee weapon.
 - **[Hollow Blades](hollow-blades.md)**: Target's melee damage drops one size.
 - **[Hostile Levitation](hostile-levitation.md)**: Levitates the targeted creature up off the ground.
+- **[Hydrophobia](hydrophobia.md)**: targets are terrified of water and drowning
 - **[Ice Spears](ice-spears.md)**: Icy spears deal piercing and cold damage and trip foes.
+- **[Imbue with Addiction](imbue-with-addiction.md)**: target becomes addicted to the drug used as a component
 - **[Improve Trap](improve-trap.md)**: When this spell is cast upon a trap, it improves one specific element of the trap chosen at the time of.
 - **[Infernal Challenger](infernal-challenger.md)**: Call a bearded devil to duel one challenger.
 - **[Inflict Pain](inflict-pain.md)**: Target takes a –4 penalty on attack rolls, skill checks, and ability checks.
@@ -915,6 +917,7 @@
 - **[Awaken the Devoured](awaken-the-devoured.md)**: Memories of devoured souls torment a daemon
 - **[Banishing Blade](banishing-blade.md)**: The weapon bull rushes foes and can banish outsiders.
 - **[Befuddled Combatant](befuddled-combatant.md)**: Reduces a target’s ability DCs by 4 and its damage to minimum.
+- **[Blood Boil](blood-boil.md)**: target's blood heats, causing fatigue, Constitution damage, and finally boiling damage
 - **[Blood Tentacles](blood-tentacles.md)**: Blood tentacles attack and heal you.
 - **[Break Enchantment](break-enchantment.md)**: Frees subjects from enchantments, transmutations, and curses.
 - **[Burst of Force](burst-of-force.md)**: Force damage in a burst around you and knock foes prone.

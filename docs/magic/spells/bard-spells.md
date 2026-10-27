@@ -224,6 +224,7 @@
 - **[Hold Person](hold-person.md)**: Paralyzes one humanoid for 1 round/level.
 - **[Hoodwink](hoodwink.md)**: Befuddle targets so they can be led away
 - **[Human Potential](human-potential.md)**: Target chooses one ability score and gains +2.
+- **[Hydrophobia](hydrophobia.md)**: targets are terrified of water and drowning
 - **[Hypnotic Pattern](hypnotic-pattern.md)**: Fascinates (2d4 + level) HD of creatures.
 - **[Identifier's Eye](identifiers-eye.md)**: Detect magic and +5 on Spellcraft to identify items.
 - **[Ignoble Form](ignoble-form.md)**: a drow takes on a half-elf's form

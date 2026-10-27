@@ -3399,3 +3399,626 @@ The collected vampire fangs that make up a *necklace of fangs* emit a strong war
 Cooled in baths of holy water after its forging, this +1 *silver* stake is often used by devout warriors to slay vampires. When driven through a helpless vampire’s heart, the stake emits a constant *hallow* effect centered on the slain vampire (whoever placed the stake can choose to fix a spell effect to the stake as a full-round action; otherwise follow the rules in the *hallow* spell description). Once a *stake of the righteous* has been driven into a vampire’s heart, only creatures that share the original slayer’s alignment can easily remove it. Other creatures may attempt to remove the stake by making a DC 14 Charisma check; a creature that fails this check takes 2d6 points of damage as holy energy courses through the weapon, and it cannot attempt to remove the stake again for 24 hours.
 
 **Construction Requirements:** Craft Magic Arms and Armor, *hallow*; **Cost** 1,770 gp
+
+## Marketplace Tattoos and Curios
+
+### Animal Totem Tattoo
+
+**Slot** none; **CL** 5th; **Price** 12,000 gp; **Weight** —
+
+**Aura** faint transmutation
+
+An *animal totem tattoo* is dedicated to a specific animal totem. The bearer gains the totem transformation ability of a 5th-level druid with the corresponding animal shaman archetype (ape, bat, bear, boar, dragon, eagle, lion, saurian, serpent, shark, or wolf). If the bearer already has the corresponding totem transformation as a class ability, she is instead treated as a druid of 5 levels higher for the purposes of this ability.
+
+**Construction Requirements:** Inscribe Magical Tattoo, *beast shape I*; **Cost** 6,000 gp
+
+### Hypnotic Tattoo
+
+**Slot** none; **CL** 1st; **Price** 900 gp; **Weight** —
+
+**Aura** faint enchantment
+
+This arabesque tattoo accentuates the bearer's movements. If the tattoo is visible, the bearer gains a +2 circumstance bonus on Perform (dance) checks.
+
+When the bearer uses a Perform skill or bardic performance, she can choose a creature within 90 feet that she can see and that can see her *hypnotic tattoo*. That creature takes a –2 penalty on Perception and Sense Motive checks while the bearer performs. This is a mind-affecting effect. The bearer can change the target of this effect as a free action on her turn.
+
+**Construction Requirements:** Inscribe Magical Tattoo, *hypnotism*; **Cost** 450 gp
+
+### Runeward Tattoo
+
+**Slot** none; **CL** 1st; **Price** 1,000 gp; **Weight** —
+
+**Aura** faint divination
+
+Each of these tattoos is keyed to a single school of magic. The bearer can use *detect magic* at will, but only to sense auras of that school. The bearer gains a +1 insight bonus on saving throws against spells and spell-like abilities of the keyed school and knows when such a spell or spell-like ability has been cast within 60 feet.
+
+**Construction Requirements:** Inscribe Magical Tattoo, *detect magic*, *guidance*; **Cost** 500 gp
+
+### Serpentine Tattoo
+
+**Slot** none; **CL** 1st; **Price** 2,000 gp; **Weight** —
+
+**Aura** faint conjuration
+
+This sinuous tattoo appears to move when the bearer flexes his muscles. Three times per day when the bearer makes a successful melee attack with a monk or performance weapon or an unarmed strike, he can cause the tattoo to lunge like a snake at the creature hit. This allows the bearer to perform a dirty trick combat maneuver as an immediate action that does not provoke attacks of opportunity.
+
+**Construction Requirements:** Improved Dirty Trick, Inscribe Magical Tattoo, *summon monster I*; **Cost** 1,000 gp
+
+### Trailblazer's Spade
+
+**Slot** none; **CL** 3rd; **Price** 11,400 gp; **Weight** 3 lbs.
+
+**Aura** faint transmutation
+
+This two-ended tool can be used as a +1/+1 monk's spade. Five times per day as a standard action, the wielder can sweep an adjacent 10-foot square. This action clears the affected area of objects and terrain that hinder movement, such as caltrops, rubble, and undergrowth. The *trailblazer's spade* has no effect on features more than 4 feet high or deep. It has no effect on terrain that has been magically manipulated to impede movement.
+
+**Construction Requirements:** Craft Magic Arms and Armor, *soften earth and stone*; **Cost** 5,860 gp
+
+## Marketplace Armor and Shield Items
+
+### Bracelets of Stone
+
+**Slot** wrists; **CL** 9th; **Price** 26,760 gp; **Weight** 4 lbs.
+
+**Aura** moderate conjuration
+
+These rugged stone armbands slip on easily and swiftly adjust to a size appropriate for the wearer. Once per day, the wearer can create a *wall of stone* up to 2 inches thick and 45 feet long (or 90 feet long, if the thickness is reduced to 1 inch). For the purpose of this effect, the *bracelets of stone* count as a stone surface that the *wall of stone* can merge with, and they magically provide the wearer the strength necessary to support any *wall of stone* so created. Thus, the wearer can create a bridge or wall in nearly any location as long as he is standing adjacent to a point where the bracelets can connect to it. If the bracelets are used this way, the wearer can't move from this space and is considered flat-footed during this time, but may end the effect as an immediate action (thus destroying the wall). If either bracelet is taken off or a portion of the wall is breached or destroyed, this effect immediately ends and the *wall of stone* crumbles to dust.
+
+**Construction Requirements:** Craft Wondrous Item, *wall of stone*; **Cost** 13,380 gp
+
+### Infiltrator's Mail
+
+**Slot** armor; **CL** 7th; **Price** 19,650 gp; **Weight** 30 lbs.
+
+**Aura** moderate transmutation (see text)
+
+This dull black suit of +2 scale mail does not impose an armor check penalty on the wearer's Stealth checks, though other armor check penalties apply as normal. Additionally, *infiltrator's mail* reacts to *detect magic* as though it were nonmagical and, when worn, extends this effect to all other magic items worn or held by the wearer unless the viewer uses *identify* or a similar effect while examining the items.
+
+**Construction Requirements:** Craft Magic Arms and Armor, *cat's grace*, *magic aura*; **Cost** 13,650 gp
+
+### Mind Buttressing (armor special ability)
+
+**Slot** armor special ability; **CL** 12th; **Price** +2 bonus; **Weight** —
+
+**Aura** faint abjuration
+
+*Mind buttressing* armor grants the wearer a +2 resistance bonus on Will saves and renders her immune to possession and mental control (including charm and compulsion effects like *command* and *charm person*). If it's donned by a creature already under the influence of such an effect, the creature immediately receives another saving throw (if one was allowed to begin with) against the spell or effect. If the check is successful, the effects are suppressed until the creature removes the armor, after which they resume. This ability can be applied only to medium or heavy armor.
+
+**Construction Requirements:** Craft Magic Arms and Armor, *protection from chaos*, *protection from evil*, *protection from good*, or *protection from law*; **Cost** +2 bonus
+
+### Shield of Covered Retreat
+
+**Slot** shield; **CL** 8th; **Price** 8,157 gp; **Weight** 10 lbs.
+
+**Aura** moderate abjuration
+
+A *shield of covered retreat* is a wide wooden kite shield emblazoned with the image of a mighty tree. Three times per day as a swift action, the bearer of this +1 *arrow deflection* heavy wooden shield can select a single square within 5 feet (including the square occupied by the bearer) and extend a barrier of protective force around the square that lasts for 1d4 rounds. The barrier appears as a shimmer in the air, but it does not impede vision, movement, or other actions. As long as this barrier is in place, the creature occupying the square can stand up from prone or leave the square without provoking attacks of opportunity, even if the square is threatened by another creature. Other actions provoke attacks of opportunity as normal. Large or larger creatures cannot benefit from this effect. A creature occupying the square is not hindered by the barrier and may make attacks of opportunity normally.
+
+**Construction Requirements:** Craft Magic Arms and Armor, *shield*; **Cost** 4,157 gp
+
+## Marketplace Nautical Items
+
+### Buoyant (armor special ability)
+
+**Slot** armor special ability; **CL** 5th; **Price** +1,000 gp (light armor or shield) or +2,000 gp (medium or heavy armor); **Weight** —
+
+**Aura** faint transmutation
+
+*Buoyant* armor and shields bestow no armor check penalty on Swim checks attempted by the wearer. All other armor check penalties apply as normal.
+
+**Construction Requirements:** Craft Magic Arms and Armor, *water walk*; **Cost** 500 gp (light armor or shield) or 1,000 gp (medium or heavy armor)
+
+### Floating Sail
+
+**Slot** none; **CL** 5th; **Price** varies (see table); **Weight** varies (see table)
+
+**Aura** faint transmutation
+
+This silk cloth is folded into a neat triangle and tied with a gold ribbon. If the command word is spoken, a *floating sail* unfurls up to its full size in an area chosen by the speaker and becomes a rigid sheet of cloth capable of supporting a large amount of weight. When the command word is uttered a second time, the *floating sail* folds up into a triangle in a space chosen by the speaker (this space must be one that the *floating sail* was touching while unfurled).
+
+If a *floating sail* is bearing any weight when commanded to fold up, it collapses and takes the form of a normal silk sail; depending on whether the sail was placed on water, over a gap, or in a similarly perilous location, any creatures standing on it may become entangled in the sail, fall to their doom, or worse (at the GM's discretion, those who succeed at a Reflex save may avoid disaster). Similarly, a *floating sail* immediately collapses if its weight capacity is exceeded. A collapsed *floating sail* must be picked up and refolded by hand before it can be activated again.
+
+| Size | Weight | Capacity | Price | Cost |
+|---|---|---|---|---|
+| 10 ft. by 15 ft. | 20 lbs. | 800 lbs. | 5,000 gp | 2,500 gp |
+| 15 ft. by 30 ft. | 25 lbs. | 1,000 lbs. | 15,000 gp | 7,500 gp |
+| 15 ft. by 40 ft. | 40 lbs. | 1,250 lbs. | 20,000 gp | 10,000 gp |
+| 20 ft. by 50 ft. | 50 lbs. | 2,000 lbs. | 32,000 gp | 16,000 gp |
+
+**Construction Requirements:** Craft Wondrous Item, *water walk*; **Cost** varies (see table)
+
+### Saline Purge
+
+**Slot** none; **CL** 5th; **Price** 900 gp; **Weight** 1/2 lb.
+
+**Aura** faint conjuration
+
+The putrid concoction in this glass bottle smells foul and tastes worse. Anyone who drinks a dose of *saline purge* must succeed at a DC 14 Fortitude save or become nauseated for 1d4+1 rounds. Whether or not this save is successful, the imbiber is cured of any curses or poisons affecting him as his body purges the ill effects.
+
+**Construction Requirements:** Craft Wondrous Item, *neutralize poison*, *remove curse*; **Cost** 450 gp
+
+### Scavenger's Ring
+
+**Slot** ring; **CL** 7th; **Price** 15,000 gp; **Weight** —
+
+**Aura** moderate abjuration
+
+This polished iron band allows the wearer to walk along the ocean floor as easily as on dry land. The wearer of a *scavenger's ring* sinks to the bottom of any large body of water at a rate of 30 feet per round. Once on the body of water's floor, the wearer can move and act as though she were on land, allowing her to jump, roll, attack, and run as normal, although she cannot swim (nor can she control her ascent or descent underwater) as long as she wears the ring. As soon as the wearer removes the ring, she may swim as normal and is subject to all the normal penalties associated with underwater action. A *scavenger's ring* does not confer the ability to breathe water underwater.
+
+**Construction Requirements:** Forge Ring, *freedom of movement*; **Cost** 7,500 gp
+
+## Marketplace Holy Items
+
+### Channeler's Aspergillum
+
+**Slot** none; **CL** 9th; **Price** 36,305 gp; **Weight** 4 lbs.
+
+**Aura** moderate conjuration and necromancy
+
+This +1 *battle aspergillum* has additional powers when filled with holy water or unholy water (filling it requires a move action). By swinging a filled *channeler's aspergillum* in an arc, the wielder affects up to nine creatures in a 30-foot cone as with *mass cure light wounds* (if the aspergillum is filled with holy water) or *mass inflict light wounds* (if the aspergillum is filled with unholy water). This action expends the holy or unholy water within.
+
+If the wielder has the channel energy ability, she can also use a *channeler's aspergillum* to increase her effective cleric level by 2 for the purpose of channeling energy. Each time the wielder uses the *channeler's aspergillum* in this way, the holy water (for channeled positive energy) or unholy water (for channeled negative energy) stored in the aspergillum is expended.
+
+Regardless of which of these ways the *channeler's aspergillum* is used, it can only be filled with holy or unholy water up to three times per day. A *channeler's aspergillum* can hold only one flask's worth of holy or unholy water at a time.
+
+**Construction Requirements:** Craft Magic Arms and Armor, *mass cure light wounds*, *mass inflict light wounds*, creator must be able to channel energy; **Cost** 18,305 gp
+
+### Healer's Burning Glass
+
+**Slot** none; **CL** 13th; **Price** 32,400 gp; **Weight** 1/2 lb.
+
+**Aura** strong conjuration
+
+The handle of this magnifying glass is shaped like a holy symbol. When used to treat deadly wounds, the glass provides a +4 circumstance bonus on Heal checks. Once per day, it can be used to affect a touched creature with *regenerate* (as the spell). The user must be in an area of bright light to use either function.
+
+**Construction Requirements:** Craft Wondrous Item, *regenerate*; **Cost** 15,000 gp
+
+### Sacrificial Sword
+
+**Slot** none; **CL** 11th; **Price** 18,235 gp; **Weight** 4 lbs.
+
+**Aura** moderate conjuration
+
+This finely crafted +2 *bastard sword* has three blood-red gems embedded in its pommel. When the wielder kills a living creature (even herself) with the *sacrificial sword*, she can transfer the life force of that creature into the body of a dead or dying ally up to 50 feet away as a swift action. The transferred life force acts as a *reach breath of life* spell. Each time this ability is activated, all color drains from one of the embedded gems. When all three gems are clear, the *sacrificial sword* can no longer transfer life energy, but it can still be used as a +2 *bastard sword*.
+
+**Construction Requirements:** Craft Magic Arms and Armor, Reach Spell, *breath of life*; **Cost** 14,215 gp
+
+### Saint's Protection Charm
+
+**Slot** wrist; **CL** 3rd; **Price** 1,500 gp; **Weight** —
+
+**Aura** moderate conjuration
+
+A copper disc attached to this bracelet bears the image of a figure in religious garb. The wearer gains a +1 deflection bonus to AC and a +1 resistance bonus on saves. These bonuses apply only against attacks made or effects created by extraplanar creatures.
+
+**Construction Requirements:** Craft Wondrous Item; *protection from chaos*, *protection from evil*, *protection from good*, or *protection from law*; **Cost** 750 gp
+
+## Marketplace Expedition Items
+
+### Explorer's Pith Helmet
+
+**Slot** head; **CL** 1st; **Price** 3,200 gp; **Weight** 1 lb.
+
+**Aura** faint abjuration
+
+This colonial-style helmet protects the wearer from jungle nuisances. The wearer is affected by a constant *endure elements* effect (as the spell, hot weather only) and gains a +4 competence bonus on saving throws against the distraction ability of swarms. In addition, once per day the wearer can conjure an invisible porter that acts as either a *floating disk* or an *unseen servant* (wearer's choice).
+
+**Construction Requirements:** Craft Wondrous Item, *endure elements*, *floating disk*, *hide from animals*, *unseen servant*; **Cost** 1,600 gp
+
+### Orbicular Sac
+
+**Slot** none; **CL** 3rd; **Price** 500 gp; **Weight** —
+
+**Aura** faint conjuration
+
+Breaking open this magically enhanced spider egg sac (a standard action) conjures a massive spider web in a square adjacent to the user. The web is 5 feet thick and up to 20 feet wide and high. The spider web is nearly invisible; spotting it requires a successful DC 20 Perception check in bright light. This DC increases by 4 for every step below bright light in which the spider web is placed. This effect otherwise acts as the *web* spell (DC 13). Alternatively, the user can enhance a web created by another *orbicular sac*. Each additional sac increases the duration of the web by 30 minutes and the Reflex and grapple DCs by 2 (maximum increase of +10).
+
+**Construction Requirements:** Craft Wondrous Item, *invisibility*, *web*; **Cost** 250 gp
+
+### Poison Popcushion
+
+**Slot** none; **CL** 3rd; **Price** 700 gp; **Weight** 2 lbs.
+
+**Aura** faint conjuration (creation)
+
+This squishy, gel-filled sack is the size of a fist, and its exterior is covered with countless tiny metal studs. When set on the ground or somewhere else within line of sight, a *poison popcushion* can be targeted with a melee or ranged attack (hardness 0, AC 7). A successful attack causes the *poison popcushion* to explode, sending a spray of needles everywhere within a 10-foot-radius burst and dealing 1d4+1 points of piercing damage to creatures caught in the area each round for 1d3 rounds. A successful DC 13 Reflex save halves this damage. Additionally, a *poison popcushion* can be loaded with an injury poison before it is placed. Fully loading a *poison popcushion* takes 3 doses of poison (not included in the price). In addition to dealing damage, a loaded *poison popcushion* affects struck creatures with the poison stored within, though the Fortitude save DC to save against this poison is 4 lower than the poison's usual DC.
+
+**Construction Requirements:** Craft Wondrous Item, *arrow eruption*; **Cost** 350 gp
+
+### Trophy Box
+
+**Slot** none; **CL** 9th; **Price** 18,000 gp; **Weight** 5 lbs.
+
+**Aura** moderate conjuration
+
+A *trophy box* is a 1-foot-wide clay box used to trap and release beasts too dangerous to confront directly. As soon as the *trophy box* is placed and the first command word is spoken, the trap is rigged to trigger whenever a Medium or larger animal comes within 20 feet of the box. The target must succeed at a DC 17 Will save or be drawn into an extradimensional space within the box, where it is held in a state of suspended animation for up to 24 hours. A *trophy box* can hold only one victim at a time. The first command word can be used once per day.
+
+If the second command word is spoken, any animal trapped within the *trophy box* appears adjacent to the box either immediately or when a Tiny or larger creature (other than the user) comes within 20 feet (user's choice). A creature within 20 feet that speaks the password (set when the box is first activated) does not trigger the box. If the user is within 50 feet of the released animal, she can control it for 1 minute after its release as the *dominate animal* spell. Otherwise, the released animal attacks the nearest creature for 1 minute, after which its normal instincts take over.
+
+**Construction Requirements:** Craft Wondrous Item, *alarm*, *dominate animal*, *secret chest*; **Cost** 9,000 gp
+
+## Marketplace Weapon Items
+
+### Legbreaker (weapon special ability)
+
+**Slot** weapon special ability; **CL** 7th; **Price** +2 bonus; **Weight** —
+
+**Aura** moderate transmutation
+
+A *legbreaker* weapon reduces the base land speed of a struck creature by 10 feet for 1d4 rounds. Multiple hits from a *legbreaker* weapon do not reduce a creature's land speed further, but they do extend the duration of the penalty. This speed penalty can be removed with a successful DC 15 Heal check. On a critical hit, in addition to dealing critical damage and impeding the victim's speed, the wielder may perform a free trip combat maneuver against the struck creature. This ability can only be placed on bludgeoning melee weapons.
+
+**Construction Requirements:** Craft Magic Arms and Armor, *touch of gracelessness*; **Cost** +2 bonus
+
+### Lizardmarked Blade
+
+**Slot** none; **CL** 10th; **Price** 15,715 gp; **Weight** 3 lbs.
+
+**Aura** moderate transmutation
+
+The pommel of this +1 *shocking gladius* is shaped like the head of a lightning-breathing linnorm. The wielder automatically detects any electrical discharges within 100 feet, and as a move action can concentrate on a creature within 60 feet to determine whether it has a resistance or immunity to electricity damage.
+
+Once per day, the wielder can speak the *lizardmarked blade's* command word to cause the weapon to deal damage as if it's one size category larger than it actually is (effectively increasing the gladius's damage die from 1d6 to 1d8). This lasts for 10 minutes.
+
+**Construction Requirements:** Craft Magic Arms and Armor, *lead blades*, *lightning bolt*; **Cost** 8,015 gp
+
+### Marrowcracker
+
+**Slot** none; **CL** 9th; **Price** 28,312 gp; **Weight** 5 lbs.
+
+**Aura** moderate necromancy
+
+*Marrowcracker* is a +2 *mighty cleaving* warhammer with a haft carved to look like a stout femur. Whenever the wielder confirms a critical hit against a corporeal creature with a skeletal system, the creature struck takes 1d4 points of Strength or Dexterity damage (wielder's choice).
+
+**Construction Requirements:** Craft Magic Arms and Armor, *calcific touch*, *divine power*, *ray of enfeeblement*; **Cost** 14,312 gp
+
+### Rusting (weapon special ability)
+
+**Slot** weapon special ability; **CL** 7th; **Price** +1 bonus; **Weight** —
+
+**Aura** moderate transmutation
+
+A weapon with the *rusting* special ability is so badly tarnished that no amount of cleaning can restore it. Although the weapon constantly sheds flecks of rust and corroded metal, it remains structurally sound. When the wielder confirms a critical hit with a *rusting* weapon, she can forgo any extra damage to instead deal normal damage to the target and affect the target or the target's armor with the *rusting grasp* spell. A *rusting* weapon cannot be used against unattended inanimate objects. A *rusting* weapon is immune to mundane or magical rust, including the attack of a rust monster.
+
+**Construction Requirements:** Craft Magic Arms and Armor, *rusting grasp*; **Cost** +1 bonus
+
+## Marketplace Intelligent Items
+
+### Crusader's Scabbard
+
+**Slot** belt; **CL** 7th; **Price** 8,500 gp; **Weight** 3 lbs.
+
+**Aura** moderate transmutation
+
+**Alignment** lawful good; **Senses** 60 ft.; **Intelligence** 10, **Wisdom** 12, **Charisma** 14; **Ego** 6; **Languages** speech (Common)
+
+This *scabbard of vigor* prominently bears a holy symbol. Three times per day, the scabbard can cast *bless weapon* on any weapon sheathed within, but does so reluctantly on any weapon other than a longsword. While the user is in combat, the scabbard hurls threats of righteous retribution in a loud, clear voice as it attempts to demoralize opponents (Intimidate bonus of +7). The consciousness within the *crusader's scabbard* is valorous and stridently condemns displays of cowardice or dishonesty.
+
+**Construction Requirements:** Craft Wondrous Item, *bless weapon*, *greater magic weapon*; **Cost** 4,250 gp
+
+### Gossamer Shrouds of the Clairvoyant
+
+**Slot** armor; **CL** 9th; **Price** 20,150 gp; **Weight** 25 lbs.
+
+**Aura** moderate conjuration and illusion
+
+**Alignment** chaotic neutral; **Senses** 120 ft.; **Intelligence** 14, **Wisdom** 10, **Charisma** 14; **Ego** 7; **Languages** speech (Auran, Celestial, Common)
+
+This sky-blue suit of *mistmail* has the *glamered* armor special ability, and can once per day create a dramatic spectacle of twinkling lights, as the *rainbow pattern* spell. The armor is prone to dramatic soliloquies about its "prophetic visions" and "sight beyond the mystical veils"; however, it lacks actual divinatory powers.
+
+**Construction Requirements:** Craft Magic Arms and Armor, *disguise self*, *obscuring mist*, *rainbow pattern*; **Cost** 10,075 gp
+
+### Skullduster
+
+**Slot** none; **CL** 14th; **Price** 104,508 gp; **Weight** 6 lbs.
+
+**Aura** strong abjuration and conjuration
+
+**Alignment** neutral; **Senses** 60 ft., darkvision; **Intelligence** 12, **Wisdom** 16, **Charisma** 10; **Ego** 13; **Languages** speech (Common, Orc, Skald)
+
+This +2 *disruption* morningstar's metal head resembles the face of a half-orc. The weapon can cast *remove paralysis* three times per day. *Skullduster* rarely speaks, and then usually only to utter grim predictions. The weapon craves the destruction of undead creatures, and it uses *death ward* at will so long as its owner diligently pursues this goal. If *Skullduster*'s owner ever parleys with an undead creature, the weapon withholds any further aid, grumbles constantly in Orc about treachery, and seeks a new owner.
+
+**Construction Requirements:** Craft Magic Arms and Armor, *death ward*, *heal*, *remove paralysis*; **Cost** 52,408 gp
+
+### Lucky Rock
+
+**Slot** none; **CL** 11th; **Price** 35,000 gp; **Weight** —
+
+**Aura** moderate enchantment and evocation
+
+**Alignment** neutral good; **Senses** 120 ft.; **Intelligence** 10, **Wisdom** 16, **Charisma** 14; **Ego** 10; **Languages** speech (Common, Halfling)
+
+This *stone of good luck* is weathered and resembles nothing so much as a hard piece of shale. The stone can cast *good hope* once per day, and its bearer gains a +2 insight bonus on saving throws against fear effects and effects with the emotion descriptor. The stone is very chatty, making friendly observations about its bearer and offering unsolicited advice about the bearer's current situation. The stone speaks with a slight drawl and uses simple words, but its advice is usually quite sound. Around obvious cultists of pain and torment, the stone is instead silent and shudders slightly.
+
+**Construction Requirements:** Craft Wondrous Item, *divine favor*, *good hope*; **Cost** 17,500 gp
+
+### Wary Ring
+
+**Slot** ring; **CL** 9th; **Price** 14,600 gp; **Weight** —
+
+**Aura** lawful neutral
+
+**Alignment** lawful good; **Senses** 60 ft.; **Intelligence** 12, **Wisdom** 15, **Charisma** 12; **Ego** 7; **Languages** empathy
+
+This relatively plain brass *ring of mind shielding* can read script in any language. The personality within the ring is distrustful of everyone, and it pesters its wearer with increasingly elaborate conspiracy theories. Because of its unrelenting paranoia, the ring provides its wearer with occasional well-timed guidance and can use *timely inspiration* up to three times per day on the wearer.
+
+**Construction Requirements:** Forge Ring, *nondetection*, *read magic*, *timely inspiration*; **Cost** 7,300 gp
+
+## Marketplace Arcane Items
+
+### Arcane Battery
+
+**Slot** none; **CL** 7th; **Price** 22,000 gp; **Weight** —
+
+**Aura** moderate evocation
+
+An *arcane battery* is a fist-sized lead container—typically a sphere, pyramid, or cylinder—that stores magically treated saltwater. When affixed to the head of a magical staff with the attached lashings, an *arcane battery* increases the maximum number of charges the staff can hold to 11 (instead of 10). An attached *arcane battery* also allows the wielder of a staff to imbue a staff with up to two charges per day. In order to do so, the wielder must expend two prepared spells or spell slots that meet the prerequisites for recharging a staff.
+
+A staff may only have a single *arcane battery* attached to it, and an *arcane battery* must be adjoined to a staff for 24 hours before its powers are attuned to the staff. If an *arcane battery* is removed from a staff by the staff's wielder, it must be reattached and remain so for 24 hours before it's attuned again.
+
+**Construction Requirements:** Craft Wondrous Item, *imbue with spell ability*; **Cost** 11,000 gp
+
+### Elemental Storing Stone
+
+**Slot** none; **CL** 3rd; **Price** 900 gp; **Weight** 1/2 lb.
+
+**Aura** faint evocation
+
+This small stone appears to be a normal river rock shot through with veins of white marble. At the beginning of each day, an *elemental storing stone* activates and can begin storing elemental energy. If the wielder of the stone takes 10 or more points of a single type of energy damage (acid, cold, electricity, fire, or sonic), the stone becomes charged with that energy. A charged *elemental storing stone* can be used to launch a single ray attack of the energy type stored within. The ray is a ranged touch attack with a range of 60 feet that deals 2d6 points of damage on a successful hit. An *elemental storing stone* may be used once per day. If the stone is charged and not used by the beginning of the next day, the charge is wasted and the stone must be charged again to function.
+
+**Construction Requirements:** Craft Wondrous Item, *elemental touch*; **Cost** 450 gp
+
+### Spell-Capturing Gem
+
+**Slot** none; **CL** 13th; **Price** 5,000 gp; **Weight** —
+
+**Aura** strong abjuration
+
+A *spell-capturing gem* appears as a small chunk of azurite, lapis lazuli, or turquoise. This small blue gem is imbued with the power to capture a spell and make it available for later use. Once activated, a *spell-capturing gem* waits indefinitely for its owner to successfully counterspell a spell by using either *dispel magic* or other means. The gem's owner may then choose to capture the foiled spell in the gem, where it remains for a number of days equal to the owner's caster level minus the spell's spell level, minimum 1 day. (For example, if a 10th-level spellcaster successfully dispels and captures a *fireball* spell with this item, the spell could remain in the gem for up to 7 days.) At any time during that period, the wielder of the gem may use it to cast the captured spell, regardless of whether she would normally be able to do so. A spell cast in this way uses the minimum caster level necessary to determine all level-dependent effects.
+
+A *spell-capturing gem* is a single-use item. Once the captured spell has been released or once the storage duration of the gem is reached, the gem loses its sheen and turns gray, becoming a worthless pebble.
+
+**Construction Requirements:** Craft Wondrous Item, *spell turning*; **Cost** 2,500 gp
+
+## Marketplace Alchemical Items
+
+### Copycat Siphon
+
+**Slot** none; **CL** 5th; **Price** 1,800 gp; **Weight** 1 lb.
+
+**Aura** faint illusion
+
+A *copycat siphon* is a simple-looking metal tube that can be connected to two flasks, bottles, beakers, or vials of standard size. Three times per day while two containers are connected to a *copycat siphon*, the user can speak the item's command word while pouring a liquid (including magical liquids like potions or elixirs) into one of the containers. In doing so, the other container attached to the siphon also fills up an exact replica of the poured liquid, appearing to all normal senses (including touch, smell, taste, and sight) as if it were an exact copy of the original liquid. However, when imbibed, the copy acts only as fresh water, but has none of the other effects of the original liquid. The created liquid registers to *detect* spells as if it were the original liquid (as the *magic aura* spell, Will DC 14).
+
+**Construction Requirements:** Craft Wondrous Item, *create water*, *magic aura*, *major image*; **Cost** 900 gp
+
+### Homunculus Clay
+
+**Slot** none; **CL** 11th; **Price** 4,100 gp; **Weight** 1 lb.
+
+**Aura** moderate transmutation
+
+If a mutagen is poured onto this fist-sized lump of dry clay (a standard action that provokes attacks of opportunity), it transforms into a homunculus. It treats the alchemist who provided the mutagen as its creator. The homunculus gains the benefits of the mutagen. For every 2 points its Constitution would be increased, it instead gains 1 additional hit point per Hit Die and a +1 bonus on Fortitude saves, and the DC of its poison increases by 1. When the effect of the mutagen ends or the homunculus is slain, it reverts to a lump of clay that can be used again at a later time. If the *homunculus clay* is broken or destroyed in its inactive form, it is forever ruined.
+
+**Construction Requirements:** Craft Construct, Craft Wondrous Item, *animate objects*, *arcane eye*, *mending*, *mirror image*, creator must have 2 ranks in Craft (alchemy) and 2 ranks in Craft (sculptures); **Cost** 2,050 gp
+
+### Rebounding (shield special ability)
+
+**Slot** shield special ability; **CL** 5th; **Price** +1 bonus; **Weight** —
+
+**Aura** faint abjuration
+
+A *rebounding* shield provides an additional +2 enhancement bonus to AC against thrown weapons, and it adds its total enhancement bonus to the wielder's touch AC against splash weapons. If an opponent targets the wielder of a *rebounding* shield with a splash weapon and misses, the wielder may choose the misdirection of the splash weapon.
+
+**Construction Requirements:** Craft Magic Arms and Armor, *shield*; **Cost** +1 bonus
+
+### Thoqqua Snake
+
+**Slot** none; **CL** 5th; **Price** 750 gp; **Weight** —
+
+**Aura** faint conjuration
+
+When burned, this firework produces smoke as a smokestick. It also expands into a tube of ash that, after 1 round, takes the form of a thoqqua. The thoqqua attacks the user's opponents to the best of its ability. If the user speaks Ignan, she can direct the thoqqua to not attack, to attack particular enemies, or to perform other actions. After 5 rounds or when it is reduced to 0 hit points (whichever comes first), the thoqqua collapses into a pile of nonmagical ash.
+
+**Construction Requirements:** Craft Wondrous Item, *summon monster III*; **Cost** 375 gp
+
+## Marketplace Firearm Items
+
+### Clockwork Prosthesis
+
+**Slot** none; **CL** 13th; **Price** 6,400 gp; **Weight** 25 lbs.
+
+**Aura** strong conjuration and transmutation
+
+Accidents are common in industrial cities, and in a place where healing magic is distrusted at best and haphazard at worst, amputation is often the only remedy for a mangled hand or smashed leg. For those who can afford them, *clockwork prostheses*—miraculous metallic extremities fused with a small amount of primal magic—offer an elegant solution to missing limbs.
+
+Once purchased, a *clockwork prosthesis* is attached to the area where a limb once was—a prosthesis can't be added in addition to an already existing limb. Only humanoid creatures can equip themselves with *clockwork prostheses*, which must be installed by a trained prosthesis merchant. As a *clockwork prosthesis* is installed (a process that takes no less than 1 hour), the bearer must succeed at a DC 18 Fortitude save or the prosthesis doesn't take hold. Either way, the bearer takes 2 points of Constitution damage from the surgery. *Clockwork prostheses* commonly come in two types—arms and legs.
+
+**Clockwork Arm**: A *clockwork arm* allows its bearer to lift up to 1-1/2 times his maximum load over his head. A humanoid with two *clockwork arms* can lift up to twice his maximum load over his head. In addition, a *clockwork arm* allows its bearer to deal lethal damage rather than nonlethal damage with an unarmed strike and provides a +10 bonus to its bearer's CMD against attempts to disarm a weapon held in that hand. For the appropriate price, a clockwork arm can be enchanted with any weapon special ability so long as the ability can be applied to unarmed attacks.
+
+**Clockwork Leg**: A *clockwork leg* allows its bearer to lift up to 2-1/2 times his maximum load off the ground (instead of double). A humanoid with two *clockwork legs* can lift up to 3 times his maximum load off the ground and stagger around with it. In addition, each installed *clockwork leg* grants its bearer a +4 bonus to CMD against trip and bull rush attempts.
+
+The *clockwork prostheses* detailed here are only the most common types of *clockwork prostheses*. Other, more specialized *clockwork prostheses* capable of transforming into firearms, pinning opponents, and even channeling magical energy are also rumored to exist.
+
+**Construction Requirements:** Craft Wondrous Item, *bull's strength*, *regenerate*, creator must have 8 ranks in Craft (clockwork); **Cost** 3,200 gp
+
+### Loudshot Pistol
+
+**Slot** none; **CL** 3rd; **Price** 10,530 gp; **Weight** 4 lbs.
+
+**Aura** faint necromancy
+
+This brass-colored +1 *double-barreled pistol* has a dark oaken grip and ornate musical motifs etched into the entire surface. Three times per day, when the wielder fires a *loudshot pistol* at a creature within 20 feet, she can command the pistol to emit a sonic boom at the creature, permanently deafening it if it fails a DC 13 Fortitude save. If the wielder fires both barrels of this pistol in the same round she commands it to deafen a creature, the DC of the Fortitude save increases to 15. If the wielder is a gunslinger with the pistol-whip deed, she can also command a *loudshot pistol* to deafen the creature she is pistol-whipping. This counts toward the total number of times per day she can use this ability with the pistol.
+
+**Construction Requirements:** Craft Magic Arms and Armor, *blindness/deafness*, crafter must be a gunslinger with the pistol-whip deed; **Cost** 6,290 gp
+
+### Penetrating (ammunition special ability)
+
+**Slot** ammunition special ability; **CL** 9th; **Price** +2 bonus; **Weight** —
+
+**Aura** moderate evocation
+
+This weapon special ability can only be placed on ammunition. A creature struck by a piece of *penetrating* ammunition must succeed at a DC 17 Fortitude save or the ammunition proceeds to travel into another creature in line. The attacker must be able to trace a line starting at her space and passing through both targets to make this additional attack. The second attack is made at a –4 penalty, in addition to any modifiers for added range.
+
+**Construction Requirements:** Craft Wondrous Item, *mirror strike*; **Cost** +2 bonus
+
+## Marketplace Rogue and Assassin Items
+
+### Murderer's Silence
+
+**Slot** none; **CL** 3rd; **Price** 900 gp; **Weight** 1 lb.
+
+**Aura** faint conjuration
+
+In magical societies, *speak with dead* has captured many a murderer, and so this serum was invented by assassins to silence their victims. *Murderer's silence* prevents a corpse from communicating via *speak with dead* by dissolving the victim's vocal organs. To use this item, the thick black liquid must be slowly poured down the throat of the corpse (a full-round action that provokes attacks of opportunity). The following round, the corpse's tongue, vocal cords, and lips deteriorate and the corpse becomes incapable of responding to *speak with dead*. Other means of interrogating the spirit of the departed still function normally. The price listed is for a single dose.
+
+**Construction Requirements:** Craft Wondrous Item, *contagion*; **Cost** 450 gp
+
+### Poison Vial of Distance
+
+**Slot** none; **CL** 3rd; **Price** 3,000 gp; **Weight** 1 lb.
+
+**Aura** faint necromancy
+
+Favored by assassins, this magical vial allows the application of poisons at a range of up to 30 feet. The poison must be supplied, and must be a contact or ingested poison. The user adds the poison to the vial and then shakes it in the direction of the item or creature she wishes to affect, making a ranged touch attack (a *poison vial of distance* provides a +4 circumstance bonus on this roll). If the attack is successful, the poison is successfully delivered to the object or creature intended.
+
+**Construction Requirements:** Craft Wondrous Item, *mage hand*; **Cost** 1,500 gp
+
+### Quick Action Slippers
+
+**Slot** feet; **CL** 5th; **Price** 10,000 gp; **Weight** 1 lb.
+
+**Aura** faint transmutation
+
+The wearer of a pair of *quick action slippers* may stand up from prone as a free action. Such movement still provokes attacks of opportunity as normal. If the wearer has the stand up rogue talent, the act of standing up from prone no longer provokes attacks of opportunity.
+
+**Construction Requirements:** Craft Wondrous Item, *haste*, creator must have the stand up rogue talent; **Cost** 5,000 gp
+
+### Scabbard of True Death
+
+**Slot** none; **CL** 5th; **Price** 32,000 gp; **Weight** 2 lbs.
+
+**Aura** faint necromancy
+
+Whenever an assassin draws a weapon from the *scabbard of true death* and makes a successful death attack against her target, the DC of her true death ability increases by 4. In addition, regardless of whether the wielder has levels in the assassin class, the wielder gains the bleeding attack rogue talent as though she had a sneak attack that dealt 1d6 points of damage (thus, attacks that qualify as sneak attacks deal 1 point of bleed damage); if the wielder already has the bleeding attack rogue talent, the bleed damage caused by that talent is increased by 1.
+
+**Construction Requirements:** Craft Wondrous Item, *bestow curse*, creator must have the bleeding attack rogue talent; **Cost** 16,000 gp
+
+### Clockwork Bug
+
+**Slot** none; **CL** 4th; **Price** 1,100 gp; **Weight** 1/2 lb.
+
+**Aura** faint illusion
+
+This fine brass construct is made to look like a beetle, and is sometimes painted in green, brown, or gray camouflage. A *clockwork bug* can record all nearby sounds within a 20-foot-radius spread onto a low-quality gemstone worth 10 gp, which is embedded in its body. The bug can record up to 1 hour of sound, which must be continuous; if the recording is stopped early, it cannot be restarted. Making the clockwork bug replay the recorded audio is a swift action.
+
+Once a gemstone is imprinted with an audio recording, it cannot be reused, and must be replaced with a fresh gemstone in order for the bug to make a new recording. Replacing a gemstone is a full-round action that requires a DC 25 Disable Device check. Failing this check causes the used gemstone to become cracked and erases any recorded sounds on that gemstone.
+
+Though a *clockwork bug* isn't treated as a creature and cannot move or perform other actions by itself, it can cling indefinitely to any surface onto which it is placed, including the underside of objects. These bugs are also equipped with a timer that can delay the start of recording process by up to 24 hours. Additionally, the bug is equipped with an optional self-destruct timer with a maximum duration of 72 hours. If engaged, the self-destruct sequence causes the bug to erase any information on its current gemstone and then send a surge of energy through its filaments, rendering itself useless and irreparable.
+
+**Construction Requirements:** Craft Wondrous Item, *ghost sound*, creator must have 4 ranks in Craft (clockwork); **Cost** 550 gp
+
+### Lacerating Rapier
+
+**Slot** none; **CL** 5th; **Price** 10,302 gp; **Weight** 4 lbs.
+
+**Aura** faint transmutation
+
+The blade of this +1 *rapier* is imbued with the ability to change form slightly when used to sneak attack foes, allowing the wielder to hit multiple targets.
+
+Three times per day when the wielder makes a sneak attack against a foe that is adjacent to another creature, she may choose to attack both opponents with a single strike as the blade unwinds, lengthens, and bends to meet their flesh. The wielder uses the same attack roll result to hit both creatures. If successful, the attack deals weapon damage to any creature it hits, though only the first creature takes sneak attack damage.
+
+**Construction Requirements:** Craft Wondrous Item, *greater magic weapon*, *mirror strike*; **Cost** 5,302 gp
+
+### Poisoning (armor special ability)
+
+**Slot** armor special ability; **CL** 7th; **Price** +1 bonus; **Weight** —
+
+**Aura** moderate necromancy
+
+A suit of armor with this ability becomes poisonous to the touch. The user must slip a vial of 1 dose of the injury or ingested poison to be used into a hidden slot along the armor's inner thigh. Three rounds afterward, the entire suit of armor becomes infused with the poison; any creature that grapples with the wearer (if an injury poison is used) or that successfully hits the wearer with a bite attack (if an ingested poison is used) is immediately exposed to the poison and must save accordingly. Whether or not the victim successfully saves, the poison is discharged from the armor and the wearer must load a new vial into the armor to recharge this ability.
+
+**Construction Requirements:** Craft Magic Arms and Armor, *poison*; **Cost** +1 bonus
+
+### Sniping, Sneak Attack (weapon special ability)
+
+**Slot** weapon special ability; **CL** 7th; **Price** +2 bonus; **Weight** —
+
+**Aura** moderate transmutation
+
+This special ability can only be placed on ranged weapons. Whenever the wielder attempts to make a sneak attack with a *sniping* weapon of this kind, the maximum distance she can be from her target increases to 45 feet. This ability does not stack with other abilities that increase the distance at which a ranged sneak attack may be made. (It is a different ability from the *sniping* weapon ability that grants Stealth bonuses after sniping.)
+
+**Construction Requirements:** Craft Magic Arms and Armor, *longshot*; **Cost** +2 bonus
+
+## Marketplace Drow Crafts
+
+### Coldwarp Key
+
+**Slot** none; **CL** 9th; **Price** 45,700 gp; **Weight** 5 lbs.
+
+**Aura** moderate conjuration and transmutation
+
+This flanged iron rod is much heavier than it looks, and grants the wielder a portion of the skill of a master coldwarper. The wielder gains a +5 competence bonus on Craft checks involving metal.
+
+A *coldwarp key* has three charges, which are renewed at midnight every night and can be expended to create a variety of effects. Expending one charge from a *coldwarp key* allows the wielder to use *fabricate* (as the spell) to affect metal only. If the wielder is in a natural underground environment, she can expend two charges from a *coldwarp key* to draw raw metal ore from the surrounding stone and shape it to her liking. This ability acts as the *major creation* spell, except the wielder can create only base metals and the duration is instantaneous.
+
+**Construction Requirements:** Craft Rod, *fabricate*, *major creation*; **Cost** 22,850 gp
+
+### Fleshwarped Scorpion's Tail
+
+**Slot** none; **CL** 9th; **Price** 18,505 gp; **Weight** 3 lbs.
+
+**Aura** moderate transmutation
+
+This +1 *scorpion whip* is made from the tail of a giant cave scorpion. Three times per day, it allows the wielder to use a *poison* effect (as the spell, save DC 15) upon a creature struck by the whip. The wielder can decide to use the power after she has struck. Doing so is a free action, but the *poison* effect must be invoked in the same round that the whip strikes.
+
+In addition, the *fleshwarped scorpion's tail* can be attached to (or removed from) a willing or helpless creature with 1 hour of surgery and a successful DC 20 Heal check. Whether or not the surgery is successful, the creature takes 1d4 points of Constitution damage. While the tail is attached, the creature gains a natural sting attack that deals damage as the *fleshwarped scorpion's tail* (including the enhancement bonus and ability to use the *poison* effect three times per day). The save DC for the *poison* effect becomes 10 + 1/2 the creature's Hit Dice + its Constitution modifier.
+
+**Construction Requirements:** Craft Magic Arms and Armor, *beast shape III*, *poison*; **Cost** 9,505 gp
+
+### Stalagmite Seed
+
+**Slot** none; **CL** 7th; **Price** 750 gp; **Weight** 1/2 lb.
+
+**Aura** moderate transmutation
+
+These dense pebbles are sometimes used by skirmishers for both offense and defense. If a *stalagmite seed* is thrown, it has a range increment of 20 feet. If it's slung, treat it as a sling bullet. If the attack misses, roll for misdirection as if it were a splash weapon.
+
+When a *stalagmite seed* strikes a natural stone surface, a stone stalagmite immediately emerges where it landed, filling the 5-foot square and growing to 10 feet in height. Any creature occupying the square takes 5d6 points of piercing and bludgeoning damage and is knocked prone. Any creature that succeeds at a DC 14 Reflex save takes half damage and is not knocked prone.
+
+**Construction Requirements:** Craft Wondrous Item, *magic stone*, *stone shape*; **Cost** 375 gp
+
+## Marketplace Performance Items
+
+### Discordant Piccolo
+
+**Slot** none; **CL** 6th; **Price** 16,000 gp; **Weight** 1/2 lb.
+
+**Aura** moderate enchantment
+
+This bright silver piccolo has an uncanny connection to the alien void beyond the stars and produces only disjointed notes when played, no matter how talented the user. In fact, talented performers produce more dissonant notes. If the user succeeds at a DC 15 Perform (wind instruments) check while playing the *discordant piccolo*, one target creature within 30 feet is sickened 1 round (Will DC 14 negates). If the user succeeds at a DC 25 Perform check, the target creature is instead nauseated for 1 round (Will DC 16 reduces the effect to sickened). A creature that successfully saves cannot be affected by the *discordant piccolo* for 24 hours. This is a mind-affecting effect.
+
+**Construction Requirements:** Craft Wondrous Item, *cacophonous call*; **Cost** 8,000 gp
+
+### Reveler's Squeeze-Box
+
+**Slot** none; **CL** 5th; **Price** 6,000 gp; **Weight** 5 lbs.
+
+**Aura** moderate conjuration
+
+This concertina was created by a notorious bard. It can be used like a masterwork concertina, providing a +2 bonus on Perform (keyboard instruments) checks. At any one time, the *squeeze-box* is either more compressed than extended or more extended than compressed, and switching between the two is a free action (and in fact, happens regularly when the instrument is played). When the concertina is compressed and held in a hand, the wielder gains the compression ability. When the concertina is extended and held in a hand, the wielder is immune to constriction damage (as from constrict attacks) and damage from being buried, although the wielder gains no protection from suffocation.
+
+**Construction Requirements:** Craft Wondrous Item, *cushioning bands*, *grease*; **Cost** 3,000 gp
+
+### Music Box Trap
+
+**Slot** none; **CL** 7th; **Price** 20,160 gp; **Weight** 2 lbs.
+
+**Aura** moderate enchantment
+
+A silhouette of a miniature dancer graces the center of this simple music box. When opened, the music box plays a delicate tune only a few notes long. Although worth 200 gp as a work of art, the music box's true value is as a spell repository. A spellcaster can store a single targeted mind-affecting spell of up to 4th level into a closed *music box trap* that is not currently storing a spell. Thereafter, when the *music box trap* is opened and allowed to play for 1 round, the stored spell targets the creature that opened the box. If this would result in the spell being cast at an inappropriate target, or if the creature moves farther than the spell's range away from the music box during the 1-round delay, the spell is discharged with no effect.
+
+The original spellcaster remains the caster of the stored spell; for example, a *charm person* spell successfully delivered onto a target from a *music box trap* makes the creature well disposed to the spellcaster, even if the spellcaster is long gone.
+
+There is no obvious indicator that the *music box trap* delivers a stored spell onto the creature opening the box, but while the box is open, those who succeed at a DC 25 Perception check notice that the miniature dancer is keeping her gaze fixed upon the pending target. Closing the *music box trap* is a move action. If the music box is closed before its stored spell is delivered, the spell remains stored within the *music box trap* to await the next creature to open the box.
+
+**Construction Requirements:** Craft Wondrous Item, *permanency*, *spite*; **Cost** 10,180 gp

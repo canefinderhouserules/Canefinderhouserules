@@ -383,6 +383,26 @@ Effects that kill you or do not reduce you to negative hit points (such as abili
 
 **Indulge (Su)**: At 8th level, once per day as a standard action, you can awaken a creature's vice and overwhelm its senses with urgency. You must decide to use this ability before using your sin sense ability on a creature, and the target receives a Will save to negate the effect. If the creature fails its saving throw, for the next 24 hours, whenever the affected creature is given an opportunity to indulge in its favored sin, that creature must yield to the impulse or make a second Will saving throw to avoid becoming sickened for 1 minute. This is a mind-affecting effect.
 
+### Chivalry Inquisition
+
+**Deities**: Any good deity of chivalry, honor, or war.
+
+**Granted Powers**: You embrace the spirit of chivalry, guarding your honor and training a noble mount.
+
+**Mount (Ex)**: This ability acts as the cavalier ability of the same name.
+
+**Faithful Steed (Su)**: At 8th level, when you use your judgment ability, your mount gains the benefit of one of your selected judgments. At 16th level, your mount gains the benefits of two of your selected judgments.
+
+### Restoration Inquisition
+
+**Deities**: Any good deity of healing or renewal.
+
+**Granted Powers**: You are a healer, not just of people but also of sacred sites tainted by enemies of your faith.
+
+**Mend the Broken (Su)**: You can touch an object or creature as a standard action, healing it of 1d4 points of damage + 1 for every 2 inquisitor levels you possess. You can use this ability only on a broken object or a creature with fewer than half its maximum hit points. You can use this ability a number of times per day equal to 3 + your Wisdom modifier.
+
+**Cleanse Impurity (Su)**: At 8th level, choose an alignment (chaotic, evil, good, or lawful) that is opposite to one axis of your own. Once chosen, this cannot be changed. Add your Wisdom bonus on caster level checks to overcome the spell resistance of creatures with the chosen alignment subtype; dispel effects with the chosen alignment descriptor; and remove curses, diseases, and poisons. A neutral inquisitor gains only the bonus on caster level checks to remove curses, diseases, and poisons.
+
 ## Exorcist
 
 Some inquisitors, as they learn more about the threat of possession and the machinations of the planes, task themselves to expel possessing spirits and conniving outsiders from the world whenever possible. Eventually they learn the secret of the verdicts of exorcism, exile, and anathema.

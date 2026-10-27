@@ -73,6 +73,7 @@ New alchemist spells from *Ultimate Magic* and *Ultimate Combat*. Spells from ot
 - **[Human Potential](human-potential.md)**: Target chooses one ability score and gains +2.
 - **[Identifier's Eye](identifiers-eye.md)**: Detect magic and +5 on Spellcraft to identify items.
 - **[Ignoble Form](ignoble-form.md)**: a drow takes on a half-elf's form
+- **[Imbue with Addiction](imbue-with-addiction.md)**: target becomes addicted to the drug used as a component
 - **[Invigorating Poison](invigorating-poison.md)**: Poison ability damage becomes a bonus instead.
 - **[Ironskin](ironskin.md)**: Harden your skin to iron
 - **[Kinetic Reverberation](kinetic-reverberation.md)**: Channels the force of an enemy’s attack back into its weapon.

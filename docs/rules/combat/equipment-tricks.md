@@ -186,3 +186,14 @@ You must have the Equipment Trick (sunrod) feat to use these tricks.
 
 **Twice as Brightly (Craft [alchemy] 5 ranks)**: As a full-round action, you can tamper with an unused sunrod such that it burns out in a single hour, but shines much more brightly. It sheds bright light in a 30-foot radius and increases the light level by two steps for an additional 30 feet beyond that area (darkness becomes normal light, and dim light or normal light becomes bright light). It does not increase the light level in bright light.
 
+## Anvil Tricks
+
+In addition to the feat or skill requirements listed for each of these tricks, you must have the Equipment Trick (anvil) feat. You may use these tricks with any anvil weighing 50 pounds or more.
+
+**Counterweight (Climb 5 ranks)**: You can use your anvil as a counterweight when you climb a rope or chain to reduce your Climb DC by 5.
+
+**Improve Armor (Craft [armor] 5 ranks)**: You can spend an hour with your anvil and a suit of nonmagical metal armor to temporarily increase the armor's armor bonus by 1. This bonus ends after the next time the wearer is hit.
+
+**Quick Fix (Craft [any] 5 ranks)**: You can spend 1 minute with your anvil and a metal item with the broken condition to remove the broken condition from the item for 1 hour. The item does not recover any hit points, and at the end of the hour it regains the broken condition and loses an additional 1d6 hit points (unless properly fixed by then).
+
+**Smash Through (Improved Bull Rush)**: When you end your move adjacent to a closed door, you can open the door as part of your move action (instead of as a separate move action) by smashing it with an anvil as you move. If the door is stuck or locked, you must succeed at a bull rush combat maneuver check that exceeds the door's break DC.

@@ -231,6 +231,7 @@ The magus class spell list appears on the [Magus](../../characters/classes/magus
 - **[Augmenting Wall](augmenting-wall.md)**: Wall adds energy damage to ranged attacks.
 - **[Banishing Blade](banishing-blade.md)**: The weapon bull rushes foes and can banish outsiders.
 - **[Bladed Dash, Greater](bladed-dash-greater.md)**: Dash 30 feet and attack all foes along the way.
+- **[Blood Boil](blood-boil.md)**: target's blood heats, causing fatigue, Constitution damage, and finally boiling damage
 - **[Conjure Deadfall](conjure-deadfall.md)**: Drop a spiked metal block on creatures below.
 - **[Corrosive Consumption](corrosive-consumption.md)**: Acidic patch damages an opponent.
 - **[Dimensional Blade](dimensional-blade.md)**: Your melee weapon makes touch attacks.

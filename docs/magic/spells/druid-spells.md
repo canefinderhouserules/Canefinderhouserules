@@ -237,6 +237,7 @@
 - **[Free Spirit](free-spirit.md)**: Gain freedom of movement and fear resistance, but be drunk
 - **[Guardian Wasps](guardian-wasps.md)**: A wasp swarm builds a nest that guards an area.
 - **[Hunter's Friend](hunters-friend.md)**: Share ranger class abilities with your companion.
+- **[Hydrophobia](hydrophobia.md)**: targets are terrified of water and drowning
 - **[Ice Spears](ice-spears.md)**: Icy spears deal piercing and cold damage and trip foes.
 - **[Ignoble Form](ignoble-form.md)**: a drow takes on a half-elf's form
 - **[Improve Trap](improve-trap.md)**: When this spell is cast upon a trap, it improves one specific element of the trap chosen at the time of.
@@ -329,6 +330,7 @@
 - **[Freedom of Movement](freedom-of-movement.md)**: Subject moves normally despite impediments to movement.
 - **[Giant Vermin](giant-vermin.md)**: Turns centipedes, scorpions, or spiders into giant vermin.
 - **[Healing Warmth](healing-warmth.md)**: This spell grants you temporary immunity to fire damage as protection from energy.
+- **[Heavy Water](heavy-water.md)**: water becomes hard to swim through and slows ships
 - **[Ice Storm](ice-storm.md)**: Hail deals 5d6 damage in cylinder 40 ft. across.
 - **[Instant Restoration](instant-restoration.md)**: Heal a summoned creature as it falls
 - **[Irradiate](irradiate.md)**: Flood an area with radiation.

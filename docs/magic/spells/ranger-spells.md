@@ -237,6 +237,7 @@
 - **[Freedom of Movement](freedom-of-movement.md)**: Subject moves normally despite impediments to movement.
 - **[Green Caress](green-caress.md)**: Slowly transform a creature into an inanimate plant.
 - **[Harvest Knowledge](harvest-knowledge.md)**: Absorb a creature's knowledge
+- **[Heavy Water](heavy-water.md)**: water becomes hard to swim through and slows ships
 - **[Inspiring Recovery](inspiring-recovery.md)**: Heals and can revive a creature dead for 1 round, rallying its allies.
 - **[Invoke Deity](invoke-deity.md)**: Infuse yourself with the powers of your deity's planar realm
 - **[Jungle Mind](jungle-mind.md)**: Sense and link minds with animals of one type.

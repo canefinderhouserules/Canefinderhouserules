@@ -336,6 +336,7 @@
 - **[Helping Hand](helping-hand.md)**: Ghostly hand leads subject to you.
 - **[Holy Javelin](holy-javelin.md)**: Deal ongoing damage to evil creatures and apply penalties.
 - **[Homeward Bound](homeward-bound.md)**: Return a creature to its home plane
+- **[Hydrophobia](hydrophobia.md)**: targets are terrified of water and drowning
 - **[Infernal Challenger](infernal-challenger.md)**: Call a bearded devil to duel one challenger.
 - **[Inflict Serious Wounds](inflict-serious-wounds.md)**: Touch attack, 3d8 damage + 1/level (max +15).
 - **[Invisibility Purge](invisibility-purge.md)**: Dispels invisibility within 5 ft./level.
@@ -450,6 +451,7 @@
 - **[Harvest Knowledge](harvest-knowledge.md)**: Absorb a creature's knowledge
 - **[Healing Flames](healing-flames.md)**: Holy flames heal good creatures and burn evil ones.
 - **[Healing Warmth](healing-warmth.md)**: This spell grants you temporary immunity to fire damage as protection from energy.
+- **[Heavy Water](heavy-water.md)**: water becomes hard to swim through and slows ships
 - **[Holy Smite](holy-smite.md)**: Harms and possibly blinds evil creatures (1d8 damage/2 levels).
 - **[Hunger for Flesh](hunger-for-flesh.md)**: Give a creature a bite attack and a hunger for its own kind’s flesh.
 - **[Imbue with Spell Ability](imbue-with-spell-ability.md)**: Transfer spells to subject.

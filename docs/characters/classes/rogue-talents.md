@@ -311,3 +311,13 @@ The following advanced rogue talents are available to rogues, shadowdancers, and
 **Reflexive Shadow Shield (Su)**: Once per day as an immediate action, the rogue can gain an amount of cold resistance or electricity resistance equal to half the rogue's level. This resistance lasts for 1 round. If the rogue has the shadowy resistance racial trait, the cold or electricity resistance stacks with the resistance that trait grants; otherwise, the energy resistance does not stack with any cold or electricity resistance the rogue has. The rogue must have the resiliency rogue talent before choosing this talent.
 
 **See in Darkness (Su)**: The rogue gains the see in darkness ability. A rogue must have darkvision before choosing this talent.
+
+## Merchant Rogue Talents
+
+Talents marked with an asterisk (\*) add effects to a rogue's sneak attack. Only one of these talents can be applied to an individual attack, and the decision must be made before the attack roll is made. See also *sneaky maneuver*, which is in the table above.
+
+### Advanced Merchant Rogue Talents
+
+The following advanced rogue talent can be selected by any rogue of 10th level or higher who meets the prerequisites.
+
+**Hamstring Strike\* (Ex)**: Anytime a rogue with this talent successfully hits an opponent with a sneak attack, she may forgo her sneak attack damage to try to hamstring her opponent. If the attack succeeds, the rogue deals weapon damage as normal, but instead of the rogue dealing sneak attack damage, the target is knocked prone and is unable to take move actions during its next turn. A successful Fortitude save (DC = 10 + 1/2 the rogue's level + the rogue's Dexterity modifier) negates this effect.

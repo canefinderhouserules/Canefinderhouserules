@@ -315,7 +315,9 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Hollow Blades](hollow-blades.md)**: Target's melee damage drops one size.
 - **[Hostile Levitation](hostile-levitation.md)**: Levitates the targeted creature up off the ground.
 - **[Howling Agony](howling-agony.md)**: Screaming pain limits the target’s actions.
+- **[Hydrophobia](hydrophobia.md)**: targets are terrified of water and drowning
 - **[Ice Spears](ice-spears.md)**: Icy spears deal piercing and cold damage and trip foes.
+- **[Imbue with Addiction](imbue-with-addiction.md)**: target becomes addicted to the drug used as a component
 - **[Improve Trap](improve-trap.md)**: When this spell is cast upon a trap, it improves one specific element of the trap chosen at the time of.
 - **[Inflict Pain](inflict-pain.md)**: Target takes a –4 penalty on attack rolls, skill checks, and ability checks.
 - **[Insect Scouts](insect-scouts.md)**: Vermin investigate a location and grant rerolls on related skill checks.
@@ -499,6 +501,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Arid Refuge](arid-refuge.md)**: conjure an air-filled stone shelter underwater
 - **[Awaken the Devoured](awaken-the-devoured.md)**: Memories of devoured souls torment a daemon
 - **[Befuddled Combatant](befuddled-combatant.md)**: Reduces a target’s ability DCs by 4 and its damage to minimum.
+- **[Blood Boil](blood-boil.md)**: target's blood heats, causing fatigue, Constitution damage, and finally boiling damage
 - **[Blood Tentacles](blood-tentacles.md)**: Blood tentacles attack and heal you.
 - **[Blood Ties](blood-ties.md)**: When a target is harmed, so is the target’s relative.
 - **[Callback, Greater](callback-greater.md)**: Teleport a familiar or spirit animal from miles away to your side when it is injured.

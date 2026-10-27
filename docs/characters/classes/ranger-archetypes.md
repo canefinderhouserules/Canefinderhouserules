@@ -86,11 +86,23 @@ Effect This trap sprays glowing dust into the trapped square and all adjacent sq
 
 Effect If the triggering creature fails its save against the trap, it is marked with a dye and/or scent of the ranger’s choosing. A scent mark decreases the DC of tracking the marked creature by scent by 4. The mark can be washed off with vigorous scrubbing, but fades on its own over several days.
 
+### Penetrating Trap\* (Ex or Su)
+
+**Effects**
+
+Effect A ranger can only add this to a wounding trap. The damage die of a penetrating trap increases to 1d8. Choose either adamantine, cold iron, or silver. The trap counts as that material for the purposes of overcoming damage reduction. If this is an extraordinary trap, the ranger must provide 1 pound of the chosen material during the trap's construction.
+
 ### Poison Trap (Ex or Su)
 
 **Effects**
 
 Effect The trap poisons the creature that triggers it. If it is a supernatural trap, the poison deals 1d2 Con damage per round for 6 rounds. If it is an extraordinary trap, the ranger must provide 1 dose of contact, inhaled, or injury poison when setting the trap, and the trap uses that poison’s effects and DC.
+
+### Quicksand Trap (Su)
+
+**Effects**
+
+Effect The trap and all adjacent squares become quicksand as long as they contain loose sand or soil. The Swim DC to move in this quicksand is equal to the trap's save DC, and the Swim DC to tread in the quicksand is equal to the trap's DC – 5. The quicksand lasts for a number of rounds equal to the ranger's level. When the effect ends, any creature still in the quicksand is returned to the surface prone.
 
 ### Sleet Trap (Su)
 
@@ -141,6 +153,12 @@ Effect A ranger can add this to a smoke trap. The smoke this trap creates is ext
 **Effects**
 
 Effect This pair of traps causes any creature that steps in one of the traps to be teleported to the location of the other trap (Will negates), as the spell *dimension door*. After having been transported, the creature may not take any other actions until its next turn. If one part of a pair of transpositional traps becomes blocked by a solid body or object, the trap does not function until the obstruction is removed. In order to create this trap, a ranger must set up two transpositional traps within 400 feet of each other, thus expending 2 uses of the ranger's traps per day. A ranger can only have one pair of transpositional traps set at a time; setting a third transpositional trap immediately causes the first to disappear and keys the second and third transpositional traps to one another.
+
+### Wounding Trap (Ex or Su)
+
+**Effects**
+
+Effect This trap makes a melee attack against the target using the ranger's base attack bonus + his Wisdom modifier for the attack roll. It deals an amount of damage equal to 1d6 + 1/2 the ranger's level. The ranger chooses whether this damage is bludgeoning, piercing, or slashing. If this is a supernatural trap, the attack counts as magical for the purposes of overcoming damage reduction.
 
 ## Trapper
 

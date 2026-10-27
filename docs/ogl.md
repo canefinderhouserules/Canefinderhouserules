@@ -213,3 +213,5 @@ The following text is the property of Wizards of the Coast, Inc. and is Copyrigh
     Pathfinder Player Companion: Blood of Angels © 2012, Paizo Publishing, LLC; Author: Amber E. Scott.
 
     Pathfinder Player Companion: Blood of Fiends © 2012, Paizo Publishing, LLC; Authors: Hal Maclean and Colin McComb.
+
+    Pathfinder Player Companion: Magical Marketplace © 2013, Paizo Publishing, LLC; Authors: John Ling, Ron Lundeen, Patrick Renie, David Schwartz, and Jerome Virnich.

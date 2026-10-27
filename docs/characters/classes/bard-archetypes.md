@@ -700,6 +700,36 @@ Your strange melody of hacking gasps and pained wheezes draws upon dark powers t
 
 **Action**: 1 standard action.
 
+### Rat Quadrille (Percussion, Sing)
+
+This repetitive, distracting melody wears down foes.
+
+**Prerequisite**: Perform (percussion) or Perform (sing) 4 ranks.
+
+**Cost**: Feat or 2nd-level bard spell known.
+
+**Effect**: You tap out or sing a diverting tune that sticks in the mind of the target, causing the target to take a –2 penalty on attack rolls and a –4 penalty on concentration checks for 10 minutes. A successful Will save halves the penalties and reduces the duration to 1 minute. This ability is a mind-affecting compulsion effect and relies on audible components.
+
+**Use**: 3 bardic performance rounds.
+
+**Action**: 1 standard action.
+
+### Vindictive Soliloquy (Act, Oratory, Sing)
+
+Your bombastic speech creates booming reverberations of sound.
+
+**Prerequisite**: Perform (act), Perform (oratory), or Perform (sing) 10 ranks.
+
+**Cost**: Feat or 4th-level bard spell known.
+
+**Effect**: You provide an impassioned monologue from the point of view of a noble queen, voicing her inner turmoil at being betrayed by her own sister and calling for justice to strike from the heavens. If you perform this masterpiece with the Perform (sing) skill, it is a tempestuous aria instead of a rousing soliloquy.
+
+Upon completing the performance, you may conjure bolts of lightning as though you had cast *call lightning storm*, except the bolts are made of elemental thunder and deal sonic damage rather than electricity damage. The bolts do not increase in damage if outdoors in a stormy area. Instead, in any environment, you may attempt a DC 25 Perform check as part of the standard action to call a bolt. If your Perform check is successful, that bolt deals 5d10 points of sonic damage instead of 5d6.
+
+**Use**: 5 bardic performance rounds.
+
+**Action**: 5 full rounds.
+
 ## Animal Speaker
 
 An animal speaker focuses not on the ears and minds of humans, but on the creatures of the wild and those in the underbellies of cities.
