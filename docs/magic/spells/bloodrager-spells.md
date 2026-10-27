@@ -102,6 +102,7 @@ Bloodragers gain access to the following spells. Spells in plain text come from 
 - **[Elemental Touch](elemental-touch.md)**: Gain energy damage touch attack.
 - **[Extreme Flexibility](extreme-flexibility.md)**: Gain a bonus to AC, on Escape Artist checks, and when grappling.
 - **[False Life](false-life.md)**: Gain 1d10 temporary hp + 1/level (max +10).
+- **[Fiery Runes](fiery-runes.md)**: Weapon rune deals fire damage when discharged.
 - **[Final Sacrifice](final-sacrifice.md)**: Detonate a summoned creature
 - **[Fire Breath](fire-breath.md)**: Exhale a cone of flame at will.
 - **[Flaming Sphere](flaming-sphere.md)**: Rolling ball of fire deals 3d6 fire damage.
@@ -112,6 +113,7 @@ Bloodragers gain access to the following spells. Spells in plain text come from 
 - **[Gust of Wind](gust-of-wind.md)**: Blows away or knocks down smaller creatures.
 - Imbue with Elemental Might
 - **[Huntmaster’s Spear](huntmasters-spear.md)**: Spear becomes a +1 weapon against a chosen favored-enemy type and can be discharged for a powerful attack.
+- **[Instant Weapon](instant-weapon.md)**: Create a masterwork melee weapon of force.
 - **[Ironskin](ironskin.md)**: Harden your skin to iron
 - **[Lightning Conductor](lightning-conductor.md)**: Absorb electricity damage and discharge it as a touch or ray.
 - **[Mark of Blood](mark-of-blood.md)**: Mark a creature struck by a bloodied weapon.
@@ -122,6 +124,7 @@ Bloodragers gain access to the following spells. Spells in plain text come from 
 - **[Protection from Arrows](protection-from-arrows.md)**: Subject gains DR 10/magic against ranged attacks.
 - **[Pyrotechnics](pyrotechnics.md)**: Turns fire into blinding light or thick smoke.
 - **[Quick Change](quick-change.md)**: Use change shape as a swift action and surprise foes.
+- **[Reaper's Coterie](reapers-coterie.md)**: Weapon gains profane damage bonus for each kill.
 - **[Resist Energy](resist-energy.md)**: Ignores 10 (or more) points of damage/attack from specified energy type.
 - **[Scale Spikes](scale-spikes.md)**: Grow armor spikes from scales
 - **[Scorching Ray](scorching-ray.md)**: Ranged touch attack deals 4d6 fire damage, + 1 ray/four levels (max 3).
@@ -232,6 +235,7 @@ Bloodragers gain access to the following spells. Spells in plain text come from 
 - **[Crushing Despair](crushing-despair.md)**: Subjects take –2 on attack rolls, damage rolls, saves, and checks.
 - **[Cursed Treasure](cursed-treasure.md)**: Curse treasure so the next thief is afflicted
 - **[Detonate](detonate.md)**: 1d8/level energy damage to nearby creatures.
+- **[Dimensional Blade](dimensional-blade.md)**: Your melee weapon makes touch attacks.
 - **[Dragon’s Breath](dragons-breath.md)**: Gives you a dragon’s breath weapon.
 - Earth Glide
 - **[Elemental Body I](elemental-body-i.md)**: Turns you into a Small elemental.

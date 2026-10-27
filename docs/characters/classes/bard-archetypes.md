@@ -442,6 +442,22 @@ Your song replays endlessly in your target's mind, sapping resolve and sanity.
 
 **Action**: 1 immediate action.
 
+### Fife and Drum Muster (Percussion, Wind)
+
+This marching tune for fife and drum rallies ordinary citizens into a disciplined body.
+
+**Prerequisite**: Perform (percussion) or Perform (wind) 4 ranks.
+
+**Cost**: Feat or 2nd-level bard spell known.
+
+**Effect**: When you learn this masterpiece, choose a teamwork feat for which you meet the prerequisites. Once the feat is chosen, it can't be changed. This performance grants the chosen feat to all allies within 30 feet who can see and hear you. Your allies don't need to meet the prerequisites of this feat. Abilities that extend the duration of a bardic performance, such as Lingering Performance, affect this masterpiece.
+
+**Use**: 1 bardic performance round per round.
+
+**Action**: 1 standard action.
+
+**Special**: You can gain this masterpiece multiple times. Each time you take this masterpiece, it grants a different teamwork feat.
+
 ## Animal Speaker
 
 An animal speaker focuses not on the ears and minds of humans, but on the creatures of the wild and those in the underbellies of cities.

@@ -875,3 +875,17 @@ Titan fighters make use of enormous weapons others can barely lift.
 **Incredible Heft (Ex)**: At 3rd level, a titan fighter becomes more skilled at wielding weapons intended for creatures one size category larger than himself. The penalty on attack rolls for using such weapons is reduced by 1, including when using oversized two-handed weapons. At 7th level and every 4 levels thereafter, this penalty is reduced by another 1 (minimum 0). This ability replaces armor training.
 
 **Unstoppable Momentum (Ex)**: At 5th level, a titan fighter gains a +1 bonus on combat maneuver checks and to CMD while wielding a weapon sized for a creature of a larger size category. At 9th level and every 4 levels thereafter, this bonus increases by 1. When wielding oversized weapons, the titan fighter can attempt to bull rush, drag, overrun, reposition, and trip creatures up to two size categories larger than himself. This ability replaces weapon training.
+
+## Drill Sergeant
+
+Drill sergeants excel at training other combatants in fighting techniques.
+
+**Tactician (Ex)**: At 2nd level, a drill sergeant gains the cavalier's tactician class feature, treating his fighter level as his cavalier level for the purposes of this ability. This ability replaces bravery.
+
+**Weapon Training (Ex)**: At 5th level, a drill sergeant gains weapon training with one group of weapons. He doesn't gain weapon training with other groups at later levels, though his weapon training bonus improves by 1 for every 4 levels after 5th level. This ability modifies weapon training 1.
+
+**Greater Tactician (Ex)**: At 9th level, the drill sergeant gains the cavalier's greater tactician class feature. This ability replaces weapon training 2.
+
+**Weapon Trainer (Ex)**: At 13th level, when a drill sergeant wields a weapon he has weapon training in, all allies within 30 feet who can see and hear the drill sergeant gain half his weapon training bonus when they wield any weapon from the same weapon group. This bonus doesn't stack with any weapon training bonus an ally already possesses. This ability replaces weapon training 3.
+
+**Master Tactician (Ex)**: At 17th level, the drill sergeant gains the cavalier's master tactician class feature. This ability replaces weapon training 4.

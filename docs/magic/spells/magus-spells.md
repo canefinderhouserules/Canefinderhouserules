@@ -11,10 +11,12 @@ The magus class spell list appears on the [Magus](../../characters/classes/magus
 - **[Abjuring Step](abjuring-step.md)**: You can move slowly and safely and still cast spells, until you move quickly, make an attack, or cast a harmful spell.
 - **[Auditory Hallucination](auditory-hallucination.md)**: Create a phantasm with auditory effects.
 - **[Bestow Planar Infusion I](bestow-planar-infusion-i.md)**: Grant a target the effects of a planar infusion
+- **[Blade Tutor's Spirit](blade-tutors-spirit.md)**: Reduces penalties on your melee attacks.
 - **[Blend](blend.md)**: You draw upon your elven link to the wilderness to change the coloration of yourself and your equipment to.
 - **[Call Weapon](call-weapon.md)**: Pull an ally’s weapon into your hand.
 - **[Coin Shot](coin-shot.md)**: Turns coins into bullets.
 - **[Corrosive Touch](corrosive-touch.md)**: Touch attack deals 1d4 acid/level.
+- **[Darting Duplicate](darting-duplicate.md)**: Illusory duplicate baits attacks of opportunity.
 - **[Desperate Weapon](desperate-weapon.md)**: Create an improvised weapon.
 - **[Duelist’s Parry](duelists-parry.md)**: Parry a melee attack as an immediate action.
 - **[Fallback Strategy](fallback-strategy.md)**: Reroll one attack, maneuver, or skill check.
@@ -74,6 +76,7 @@ The magus class spell list appears on the [Magus](../../characters/classes/magus
 - **[Effortless Armor](effortless-armor.md)**: Armor you wear no longer slows your speed.
 - **[Erode Defenses](erode-defenses.md)**: Target's DR and natural armor wear away.
 - **[Escaping Ward](escaping-ward.md)**: This ward grants you extra maneuverability when you avoid attacks against larger foes.
+- **[Fiery Runes](fiery-runes.md)**: Weapon rune deals fire damage when discharged.
 - **[Flickering Lights](flickering-lights.md)**: Create an area of inconsistent lighting.
 - **[Force Anchor](force-anchor.md)**: Force anchor hinders a target's movement
 - **[Frigid Touch](frigid-touch.md)**: Target takes cold damage and is staggered.
@@ -84,6 +87,7 @@ The magus class spell list appears on the [Magus](../../characters/classes/magus
 - **[Huntmaster’s Spear](huntmasters-spear.md)**: Spear becomes a +1 weapon against a chosen favored-enemy type and can be discharged for a powerful attack.
 - **[Ice Slick](ice-slick.md)**: Coat the area in slippery ice and cold damage
 - **[Imbue with Elemental Might](imbue-with-elemental-might.md)**: School evocation [see text]; Level cleric 2, magus 2, sorcerer/wizard 2 Components V, S Duration 24 hours or.
+- **[Instant Weapon](instant-weapon.md)**: Create a masterwork melee weapon of force.
 - **[Light Prison](light-prison.md)**: Cage of light damages and blinds those who leave it.
 - **[Mount, Communal](mount-communal.md)**: As mount, but you may divide the duration among creatures touched.
 - **[Pilfering Hand](pilfering-hand.md)**: You may seize an object or manipulate it from afar.
@@ -103,6 +107,7 @@ The magus class spell list appears on the [Magus](../../characters/classes/magus
 - **[Telekinetic Assembly](telekinetic-assembly.md)**
 - **[Telekinetic Volley](telekinetic-volley.md)**: Hurl touched items as ranged attacks.
 - **[Twisted Space](twisted-space.md)**: Targeted creature’s attacks target a random square instead of the intended target.
+- **[Umbral Weapon](umbral-weapon.md)**: Reroll missed attacks for cold damage.
 - **[With the Wind](with-the-wind.md)**: Protect a target from being blown away by wind of less than windstorm force.
 
 ## 3rd-Level Magus Spells
@@ -173,6 +178,7 @@ The magus class spell list appears on the [Magus](../../characters/classes/magus
 - **[Revenant Armor](revenant-armor.md)**: Armor animates around its fallen wearer.
 - **[Rigor Mortis](rigor-mortis.md)**: Painfully swell a target’s joints.
 - **[Rising Water](rising-water.md)**: Conjures a cylinder of calm, swimmable water.
+- **[Rubberskin](rubberskin.md)**: Bludgeoning and falling damage become nonlethal.
 - **[Runic Overload](runic-overload.md)**: Detonates magical runes with sonic force.
 - **[Sadomasochism](sadomasochism.md)**: Pain empowers your attacks and demoralizes attackers.
 - **[Shadow Invasion](shadow-invasion.md)**: Create an area of darkness that strengthens shadow spells and attracts kytons
@@ -192,6 +198,7 @@ The magus class spell list appears on the [Magus](../../characters/classes/magus
 - **[Bladed Dash, Greater](bladed-dash-greater.md)**: Dash 30 feet and attack all foes along the way.
 - **[Conjure Deadfall](conjure-deadfall.md)**: Drop a spiked metal block on creatures below.
 - **[Corrosive Consumption](corrosive-consumption.md)**: Acidic patch damages an opponent.
+- **[Dimensional Blade](dimensional-blade.md)**: Your melee weapon makes touch attacks.
 - **[Ether Step](ether-step.md)**: Step briefly into the Ethereal Plane to avoid attacks and dangers
 - **[Furious Fire Barrage](furious-fire-barrage.md)**: Throw fireballs fueled by anger.
 - **[Glimpse of Truth](glimpse-of-truth.md)**: Gain *true seeing* for 1 round.

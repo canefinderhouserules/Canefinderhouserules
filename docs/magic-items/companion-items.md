@@ -1290,3 +1290,451 @@ This small brass cylinder is inscribed with a symbol of a honeycomb, and a faint
 This faintly glowing bowstring is twined from the hair of a lillend. When strung on a bow, a *tuned bowstring* also functions as a masterwork stringed instrument, granting the wielder an enhancement bonus on Performance (string) checks equal to the bow's enhancement bonus (if any). A *tuned bowstring* produces a perfect note with every arrow fired by its wielder, allowing a character with the bardic performance class feature to maintain a performance in combat without expending rounds of bardic performance as long as she fires at least one arrow each round. Activating a bardic performance or switching to a different performance still costs a round of bardic performance.
 
 **Construction Requirements:** Craft Wondrous Item, *exquisite accompaniment*, creator must have the bardic performance class feature; **Cost** 9,000 gp
+
+## Melee Tactics Items
+
+### Advocate's Armor
+
+**Slot** armor; **CL** 11th; **Price** 33,160 gp; **Weight** 15 lbs.
+
+**Aura** moderate enchantment
+
+The papery layers of this robe barely constitute what would be traditionally called armor, yet act as +3 *leather armor*. Once per day, when the wearer is struck by a critical hit or sneak attack, he can choose to have his blood splatter across one of the paper layers and form the words of a binding deal between the attacker and the wearer. The wearer can put the opponent under a specific restriction for 24 hours, such as "I will not attack elves," or "I will attack only those who attacked me first." The terms of the contract must be simple enough for the creature to comprehend and spoken in a language it understands. This acts as a *lesser geas* spell, except without a limit to how many Hit Dice the target can have. A successful DC 19 Will save negates this effect.
+
+**Construction Requirements:** Craft Magic Arms and Armor, *geas/quest*, creator must make a pact with a devil; **Cost** 16,660 gp
+
+### Alchemist's Suit
+
+**Slot** armor; **CL** 5th; **Price** 30,250 gp; **Weight** 15 lbs.
+
+**Aura** varies
+
+This bizarre +1 *quilted cloth armor* holds eight small vials that can be filled with potions, poisons, or other alchemical substances, plus numerous decoys. If the wearer is struck by a bludgeoning attack or critical hit, is grappled, takes constrict damage, or is swallowed whole, the wearer can choose one vial to break as an immediate action that does not provoke an attack of opportunity. The wearer must choose himself or his attacker as the target of the vial's contents, which immediately produce their effect. If the wearer is the target, the effect functions at half strength and for half the normal duration (minimum 1 round). For example, a *potion of cure moderate wounds* broken in this manner cures half as many hit points as normal. If the wearer's opponent is the target, the wearer must attempt a touch attack against the opponent to apply the effect. If the attack is successful, the opponent is affected as if struck by the vial's contents. If the vial contains a substance that would harm the opponent only upon ingestion, the opponent can avoid being affected if she succeeds at a DC 15 Reflex save.
+
+**Construction Requirements:** Craft Magic Arms and Armor, *shrink item*; **Cost** 15,250 gp
+
+### Armiger's Armor
+
+**Slot** armor; **CL** 13th; **Price** 22,500 gp; **Weight** 50 lbs.
+
+**Aura** strong abjuration
+
+This +1 *adamantine light fortification full plate* is crafted from tightly fitted smooth, dull plates trimmed in gold. As adamantine heavy armor, it grants its wearer DR 3/—. When the armor is not worn, a creature can touch the armor and speak a command word to cause the armor to leap up and fit itself to that creature. The armor is considered properly donned when put on in this way. The wearer can speak the command word to have the armor remove itself and, if not restrained, stack itself neatly nearby or arrange itself on an appropriate armor rack, if one is adjacent.
+
+**Construction Requirements:** Craft Magic Arms and Armor, *animate objects*, *limited wish* or *miracle*, creator must be proficient with heavy armor; **Cost** 11,250 gp
+
+### Armor of the Sands
+
+**Slot** armor; **CL** 7th; **Price** 14,160 gp; **Weight** 15 lbs.
+
+**Aura** moderate transmutation
+
+This +2 *leather armor* is made of camel hide and has been worn smooth as if blasted by sand. The wearer is protected from mundane extremes of cold and heat (as the *endure elements* spell), and can see normally in sandstorms, dust storms, and similar conditions. Once per day as a swift or immediate action, the wearer can briefly turn to sand when hit by an attack but before damage is determined. For the purposes of resolving the damage, the wearer is treated as an incorporeal creature. Only a single attack is affected by each use of this ability.
+
+**Construction Requirements:** Craft Magic Arms and Armor, *stoneskin*; **Cost** 7,160 gp
+
+### Elephant Shield
+
+**Slot** shield; **CL** 6th; **Price** 21,340 gp; **Weight** 10 lbs.
+
+**Aura** moderate evocation and transmutation
+
+This +2 *leather madu* is designed in the form of a bull elephant's head, complete with imposing ivory tusks. The shield provides a +3 circumstance bonus on combat maneuver checks made to bull rush opponents. If used as a weapon, the elephant shield grants a +1 enhancement bonus on attack rolls and damage rolls and deals damage as if it were one size category larger than it is. Once per day, the bearer of the elephant shield can have the trunk of the shield lash out, allowing the wielder to attempt a grapple combat maneuver check against a foe as a swift action. This combat maneuver doesn't provoke attacks of opportunity.
+
+**Construction Requirements:** Craft Magic Arms and Armor, *beast shape I*, *force punch*; **Cost** 10,840 gp
+
+### Labyrinth Shield
+
+**Slot** shield; **CL** 5th; **Price** 18,170 gp; **Weight** 15 lbs.
+
+**Aura** faint divination and enchantment
+
+This +1 *bashing heavy steel shield* resembles a bull's head with a complex, maze-like rune inscribed on the creature's forehead. In addition to the shield's bashing ability, the shield allows the wielder to use *know direction* at will and *find the path* once per week. As long as the shield is equipped, it also grants the wearer immunity to the *maze* spell.
+
+**Construction Requirements:** Craft Magic Arms and Armor, *bull's strength*, *find the path*, *know direction*; **Cost** 9,170 gp
+
+### Ice Devil Armor
+
+**Slot** armor; **CL** 13th; **Price** 117,650 gp; **Weight** 50 lbs.
+
+**Aura** strong abjuration and evocation
+
+This +4 *full plate* is fashioned to make the wearer appear to be an ice devil, complete with insectile eyes. Frosty blue energy emanates from the armor's joints, and the helm's eyes intermittently surge with diabolical power. The armor has a long, spearlike tail that can be used to make a single primary natural attack per round as a standard action if the wearer makes no other attacks. This tail attack deals 1d10 points of damage plus 2d6 points of cold damage for a Medium wearer. The tail can also be used to make attacks of opportunity that count against the wearer's maximum number of attacks of opportunity per round.
+
+**Construction Requirements:** Craft Magic Arms and Armor, *resist energy*, creator must be lawful evil; **Cost** 59,650 gp
+
+### Spellbane Shield
+
+**Slot** shield; **CL** 15th; **Price** 79,180 gp; **Weight** 45 lbs.
+
+**Aura** strong abjuration
+
+This massive iron-covered +2 *tower shield* grants the wielder a +3 resistance bonus on saving throws against spells, spell-like abilities, and supernatural abilities, and reduces hit point damage taken from such sources by 10 points.
+
+**Construction Requirements:** Craft Magic Arms and Armor, *spell resistance*; **Cost** 39,680 gp
+
+### Wizard's Mail
+
+**Slot** armor; **CL** 15th; **Price** 52,100 gp; **Weight** 5 lbs.
+
+**Aura** strong conjuration
+
+This chain armor is so fine it offers protection only because it's enchanted and made of mithral. It acts as a suit of +4 *greater slick leather armor*. It has a maximum Dexterity bonus to AC of +8 and imposes no chance of arcane spell failure.
+
+**Construction Requirements:** Armor Proficiency (light), Craft Magic Arms and Armor, *grease*, *iron body*; **Cost** 27,600 gp
+
+### Writhing Armor
+
+**Slot** armor; **CL** 6th; **Price** 9,480 gp; **Weight** 5 lbs.
+
+**Aura** moderate transmutation
+
+This elaborate +2 *silken ceremonial armor* is made of layers of silken braids and is often worn by diplomats and royalty when more drab or utilitarian armor is socially inappropriate. The wearer of writhing armor can cause it to unravel long braids of silk that twist and lash out of their own accord. The wearer can use one such braid to make attacks as a +1 *whip*. The constant writhing of the braids also grants the wearer a +4 dodge bonus to AC for 1 round when taking the withdraw action as a full-round action.
+
+**Construction Requirements:** Craft Magic Arms and Armor, *animate rope*; **Cost** 4,980 gp
+
+### Mammoth Hide
+
+**Slot** armor; **CL** 6th; **Price** 8,165 gp; **Weight** 30 lbs.
+
+**Aura** moderate abjuration and transmutation
+
+This +2 *hide armor* is made from woolly mammoth hide. It seems to move with and bolster the wearer, and has only a –1 armor check penalty. Once per round, when the wearer makes a successful charge attack, the mammoth hide deals an additional 3d6 points of damage to the target. This damage isn't multiplied on a critical hit or by effects that multiply the damage of a charge, such as Spirited Charge. Mammoth hide also protects the wearer from cold environments as the *endure elements* spell.
+
+**Construction Requirements:** Craft Magic Arms and Armor, *bull's strength*, *endure elements*; **Cost** 4,165 gp
+
+### Low-Gravity Blade
+
+**Slot** none; **CL** 9th; **Price** 8,311 gp; **Weight** 2 lbs.
+
+**Aura** moderate transmutation
+
+This delicate-looking +1 *bill* imparts to its wielder the grace and agility of one born in a low-gravity world. When holding the blade, the wielder triples the result of any Acrobatics checks to determine how far she can jump. In addition, a successful DC 15 Acrobatics check allows the wielder to negate any damage from the first 30 feet of falling damage and converts any damage from the second 30 feet to nonlethal damage.
+
+**Construction Requirements:** Craft Magic Arms and Armor, *feather fall*, *longstrider*; **Cost** 4,311 gp
+
+### Troll Warlord's Tusks
+
+**Slot** none; **CL** 9th; **Price** 26,616 gp; **Weight** 13 lbs.
+
+**Aura** moderate necromancy
+
+Containing the bound essence of a troll warlord, this matched pair of +1 *vicious heavy picks* rends flesh with horrifying efficiency. Each pick is a darkwood shaft pierced by a weathered tusk. The ends of the picks are connected with a cord of dried sinew. This cord is long enough that the picks can be wielded with one in each hand. A wielder holding only one of the picks can recover its mate with a swift action as though the unattended pick were on a weapon cord. If the wielder hits an opponent with both picks in the same round, the picks additionally deal 1d4 points of bleed damage.
+
+**Construction Requirements:** Craft Magic Arms and Armor, *bleed*, *enervation*; **Cost** 13,616 gp
+
+### Diplomat's Traveling Stick
+
+**Slot** none; **CL** 3rd; **Price** 9,345 gp; **Weight** 4 lbs.
+
+**Aura** faint transmutation
+
+The blade of this +1 *sword cane* is sheathed within a polished oaken cane bearing a brass head in the shape of clasped hands. When sheathed, the diplomat's traveling stick grants the wielder a +3 competence bonus on Diplomacy checks. Once per day as part of an action to draw the blade, the wielder can attempt an Intimidate check to demoralize all foes within 30 feet who can see or hear him.
+
+**Construction Requirements:** Craft Magic Arms and Armor, *eagle's splendor*; **Cost** 4,845 gp
+
+### Dinosaur-Killer
+
+**Slot** none; **CL** 8th; **Price** 19,305 gp; **Weight** 8 lbs.
+
+**Aura** moderate conjuration and evocation
+
+This +1 *animal-bane boar spear* has a wide crossbar engraved with symbols depicting an open hand. The boar spear increases the shield bonus to AC against a charging opponent hit with the spear by 2. If the dinosaur-killer is set against a charging foe and hits that foe, the wielder can attempt a bull rush combat maneuver check against the charging opponent as an immediate action after the charge attack is resolved. This combat maneuver doesn't provoke attacks of opportunity.
+
+**Construction Requirements:** Craft Magic Arms and Armor, *force punch*, *shield*, *summon monster I*; **Cost** 9,805 gp
+
+### Goad of Obedience
+
+**Slot** none; **CL** 8th; **Price** 11,508 gp; **Weight** 5 lbs.
+
+**Aura** moderate enchantment
+
+This +1 *ankus* grants the wielder a +2 competence bonus on wild empathy checks. Five times per day, the wielder can make a touch attack with the goad of obedience against any animal as a standard action. On a hit, the animal must succeed at a DC 11 Will save or be charmed by the wielder, as *charm animal*. An animal that successfully saves against this effect can't be charmed by the goad of obedience for 24 hours. In addition, once per day as an immediate action, the wielder can paralyze an animal hit by the goad of obedience, as *hold animal* (Will DC 13 negates).
+
+**Construction Requirements:** Craft Magic Arms and Armor, *charm animal*, *hold animal*; **Cost** 5,908 gp
+
+### Hourglass Quarterstaff
+
+**Slot** none; **CL** 14th; **Price** 63,300 gp; **Weight** 4 lbs.
+
+**Aura** strong conjuration, divination, and transmutation
+
+This +1 *disruption*/+1 *invigorating quarterstaff* is a sturdy shaft of yew with heavy metal rings at each end. The quarterstaff is thinner in the center than at the ends, giving it the appearance of a very elongated hourglass. The wielder of the hourglass quarterstaff can use *threefold aspect* once each day, but this spell expires if the hourglass quarterstaff leaves the wielder's hand for more than 1 minute. The wielder instantly knows the age step of any humanoid creature she views; for most creatures, this is young, adult, middle age, old, or venerable. This ability penetrates mundane disguises but not illusions or magical disguises. For example, the wielder would identify a middle-aged halfling masquerading as a human child as middle-aged, but would identify a doppelganger in the form of an old woman as old.
+
+**Construction Requirements:** Craft Magic Arms and Armor, *deathwatch*, *good hope*, *heal*, *threefold aspect*; **Cost** 31,800 gp
+
+### Husk Dart
+
+**Slot** none; **CL** 6th; **Price** 19,301 gp; **Weight** 1/2 lb.
+
+**Aura** moderate conjuration and transmutation
+
+This thick metal +2 *wushu dart* has a ring at its base tied with a short ribbon of green silk. If the wielder confirms a critical hit against a living creature with the husk dart, the creature is stricken with an insatiable hunger, as *feast of ashes* (Fortitude DC 16 negates). If the creature fails its saving throw, the husk dart's wielder gains 2d6 temporary hit points that last up to 24 hours and is nourished as though he had just eaten a normal meal; a wielder with the ki pool class feature also regains 1 ki point.
+
+**Construction Requirements:** Craft Magic Arms and Armor, *feast of ashes*, *lesser restoration*; **Cost** 9,801 gp
+
+### Infecting Spike
+
+**Slot** none; **CL** 6th; **Price** 42,350 gp; **Weight** 2 lbs.
+
+**Aura** moderate necromancy
+
+An infecting spike is a large, corroded armor spike. When carefully placed against a suit of armor without armor spikes as a full-round action, an infecting spike attaches itself firmly to the armor, which instantly sprouts +2 *armor spikes* that immediately inflict the red ache disease on any creature damaged by the spikes (Fortitude DC 15 negates; the onset period does not apply). Any creature that successfully saves against the red ache can't be infected by the armor spikes again for 24 hours. The armor's wearer is immune to red ache and gains a +4 resistance bonus on saving throws against other diseases. A suit of armor with an infecting spike attached slowly degrades, its joints rusting and seams tearing. Beginning 24 hours after the infecting spike is attached, the armor takes 1d4 points of damage each day. This damage bypasses the armor's hardness, and can be repaired or mended normally. Removing an infecting spike requires 1 minute of scraping and twisting before it comes free with a ragged tearing sound. As soon as the infecting spike is removed, the armor gains the broken condition; if it already had the broken condition, the armor is instead reduced to 0 hit points.
+
+**Construction Requirements:** Craft Magic Arms and Armor, *contagion*; **Cost** 21,350 gp
+
+### Webbed Flail
+
+**Slot** none; **CL** 6th; **Price** lesser 8,315 gp; greater 50,315 gp; **Weight** 10 lbs.
+
+**Aura** moderate transmutation (lesser) or moderate transmutation and enchantment (greater)
+
+Immense, inscrutable spiders are said to construct makeshift flails by linking nearby debris, such as rocks or skulls, with their own extruded web fibers. Although this organic webbing typically degrades over time, skillful alchemy can preserve one of these weapons indefinitely. A lesser webbed flail is a +1 *heavy flail* that allows its wielder to use *spider climb* at will. Much less common are greater webbed flails, which are +2 *throwing heavy flails* that have the same *spider climb* ability of the lesser flail. In addition, when the wielder of a greater webbed flail confirms a critical hit against a creature, the target suffers horrific hallucinations for 1d4 rounds, becoming confused (Will DC 19 negates). This is a mind-affecting effect.
+
+**Construction Requirements:** Craft Magic Arms and Armor; *spider climb* (lesser webbed flail) or *confusion*, *magic stone*, *spider climb* (greater webbed flail); **Cost** lesser 4,315 gp; greater 25,315 gp
+
+### Statue's Arm
+
+**Slot** none; **CL** 7th; **Price** 9,905 gp; **Weight** 25 lbs.
+
+**Aura** moderate transmutation
+
+This heavy arm of stone appears to have been broken off a statue of a well-muscled warrior at the shoulder. The arm's wrist serves as a handle, and its fist, clutched around a punching dagger, serves as a pommel. The arm thickens with well-defined musculature all the way to the shoulder, and detailed carvings of tattoos cover its surface. The statue's arm functions as a +1 *seaborne greatclub*. Although it is typically immobile, when the wielder is restrained or grappled, the arm flexes to grant her a +4 circumstance bonus on Escape Artist checks and checks to escape a grapple.
+
+**Construction Requirements:** Craft Magic Arms and Armor, *freedom of movement*, *touch of the sea*; **Cost** 5,105 gp
+
+### Riddling Khopesh
+
+**Slot** none; **CL** 10th; **Price** 15,320 gp; **Weight** 8 lbs.
+
+**Aura** moderate conjuration, evocation, and transmutation
+
+This +1 *khopesh* has a handle in the shape of an elongated sphinx, with the sphinx's serene face as the pommel of the sword. Once per day, the wielder can attempt to answer a series of riddles posed telepathically by the khopesh over 10 minutes. At the end of that time, if the wielder succeeds at a DC 15 Intelligence check (the wielder can't take 10 or 20 on this check), the sword's enhancement bonus increases by 1 for the next 24 hours as long as it is wielded by the creature who correctly answered its riddles. If the result of the Intelligence check is 20 or more, the wielder can also add the *flaming*, *ghost touch*, or *keen* special weapon ability to the weapon for 24 hours.
+
+**Construction Requirements:** Craft Magic Arms and Armor, *commune*; **Cost** 7,820 gp
+
+### Channeling (armor special ability)
+
+**Slot** shield special ability; **CL** 8th; **Price** +18,000 gp; **Weight** —
+
+**Aura** moderate conjuration
+
+A shield with this special ability is crafted to resemble an angel or other outsider holding a basin of some sort, and is engraved with holy symbols. The shield is keyed to either positive or negative energy when it is crafted. If the bearer can channel energy of the keyed type, three times per day she can increase the total number of dice of channeled energy by 1. The wearer also reduces any damage taken from energy of the type opposed to the keyed type by 10 points.
+
+**Construction Requirements:** Craft Magic Arms and Armor, *cure moderate wounds* or *inflict moderate wounds*, creator must be able to channel energy; **Cost** +9,000 gp
+
+### Evolving (armor special ability)
+
+**Slot** armor special ability; **CL** 7th; **Price** +1 bonus; **Weight** —
+
+**Aura** moderate transmutation
+
+Armor with this special ability has revolting fleshy protrusions that periodically quiver and twitch. Once per day on command, the armor fuses with the flesh of the wearer for 30 minutes or until dismissed. The armor doesn't grant any armor bonus to AC during this time, though the wearer still gains any of the armor's magical abilities. While fused with the armor, the wearer can manifest two of the following evolutions from the summoner list of eidolon evolutions: gills, improved natural armor, resistance, scent, slam, and swim. The wearer can't wear another suit of armor while fused with evolving armor.
+
+**Construction Requirements:** Craft Magic Arms and Armor, *evolution surge*; **Cost** +1 bonus
+
+### Frosted (armor special ability)
+
+**Slot** armor or shield special ability; **CL** 3rd; **Price** +2 bonus; **Weight** —
+
+**Aura** faint transmutation
+
+Armor and shields with the frosted ability are coated in a thin layer of frost, making the armor or shield shimmer faintly and take on a bluish-white hue. The wearer gains a +4 bonus to CMD against grapple combat maneuvers. Additionally, the armor deals 1d8 points of cold damage each round to opponents that constrict or pin the wearer or swallow the wearer whole.
+
+**Construction Requirements:** Craft Magic Arms and Armor, *chill metal*; **Cost** +2 bonus
+
+### Singing (armor special ability)
+
+**Slot** shield special ability; **CL** 10th; **Price** +1 bonus; **Weight** —
+
+**Aura** moderate evocation
+
+This special ability can be placed only on a shield. Once per day, a singing shield's bearer can command the shield to sing for 10 rounds to counter magical effects that depend on sound (as the bard's countersong ability). Once per round during this time, the shield's bearer can roll 1d20+10, treating that as the result of the shield's Perform check for countersong.
+
+**Construction Requirements:** Craft Magic Arms and Armor, *sound burst*; **Cost** +1 bonus
+
+### Volcanic (armor special ability)
+
+**Slot** heavy armor special ability; **CL** 14th; **Price** +2 bonus; **Weight** —
+
+**Aura** strong evocation
+
+This special ability can be placed only on heavy armor. Volcanic armor is often stony in appearance and gives off a soft red glow. Once per day, the wearer can command the armor to erupt, causing a cloud of smoke and hot molten liquid to shoot forth from the armor in a 5-foot radius centered on the wearer. The smoke provides concealment, and the liquid deals 1d6 points of fire damage and ignites flammable substances. One round after the armor erupts, the smoke clears and the liquid cools and solidifies, creating difficult terrain. The wearer of this armor isn't affected by the smoke, fire damage, or difficult terrain created by this armor.
+
+**Construction Requirements:** Craft Magic Arms and Armor, *incendiary cloud*; **Cost** +2 bonus
+
+### Culling (weapon special ability)
+
+**Slot** melee slashing weapon special ability; **CL** 8th; **Price** +2 bonus; **Weight** —
+
+**Aura** moderate evocation
+
+This special ability can be placed only on melee slashing weapons. When a *culling* weapon is used to make an attack using the Cleave or Great Cleave feat, it deals an additional 2d6 points of damage on both the initial attack and any additional attacks granted by Cleave or Great Cleave. The weapon also applies the bonus 2d6 points of damage to successful attacks granted by use of the Cleaving Finish and Improved Cleaving Finish feats.
+
+**Construction Requirements:** Cleave, Craft Magic Arms and Armor, *divine favor*; **Cost** +2 bonus
+
+### Growing (weapon special ability)
+
+**Slot** melee weapon special ability; **CL** 6th; **Price** +1 bonus; **Weight** —
+
+**Aura** moderate transmutation
+
+This special ability can be placed only on melee weapons. Once per day, a *growing* weapon is able to grow by one size category, dealing damage as appropriate for its new size and allowing its wielder to affect creatures one size larger than normal with combat maneuvers limited by size. The wielder is able to use the weapon normally without penalty despite its increased size. The weapon remains at its increased size for 10 minutes.
+
+**Construction Requirements:** Craft Magic Arms and Armor, *enlarge person*; **Cost** +1 bonus
+
+### Shrinking (weapon special ability)
+
+**Slot** melee weapon special ability; **CL** 5th; **Price** +1,000 gp; **Weight** —
+
+**Aura** faint transmutation
+
+This special ability can be placed only on melee weapons. When the wielder issues the command word, a *shrinking* weapon shrinks to the size of a standard dagger. While in this state, the weapon deals 1d4 points of damage but is more easily concealable. When the command word is spoken again, the weapon returns to its original state.
+
+**Construction Requirements:** Craft Magic Arms and Armor, *shrink item*; **Cost** +500 gp
+
+### Smashing (weapon special ability)
+
+**Slot** melee bludgeoning weapon special ability; **CL** 10th; **Price** +1 bonus; **Weight** —
+
+**Aura** moderate conjuration
+
+This special ability can be placed only on melee bludgeoning weapons. A *smashing* weapon deals an additional 2d6 points of damage to inanimate objects, including when it is used to sunder armor and weapons.
+
+**Construction Requirements:** Craft Magic Arms and Armor, *bull's strength*; **Cost** +1 bonus
+
+### Spell Siphon (weapon special ability)
+
+**Slot** melee weapon special ability; **CL** 15th; **Price** +5 bonus; **Weight** —
+
+**Aura** strong transmutation
+
+This special ability can be placed only on melee weapons. A *spell siphon* weapon allows the wielder to siphon a single combat spell from a target. When the wielder rolls a critical threat against the target, she can forgo confirming the critical hit (dealing normal damage) to instead automatically learn what combat spells are active on the target. For the purposes of this ability, a combat spell is any spell that grants a bonus to Strength, Dexterity, Constitution, movement, or Armor Class, or on attack rolls, damage rolls, or saving throws.
+
+The wielder can then attempt a check to siphon one of the combat spells of her choice. This check uses either the wielder's caster level or the wielder's base attack bonus plus the weapon's enhancement bonus, and is attempted against a DC of 11 + the targeted spell's caster level. If the wielder succeeds, the target immediately loses access to the spell being siphoned, and the wielder gains the effects of the spell for its remaining duration or 1 minute, whichever is shorter. If the *spell siphon* weapon has a critical multiplier greater than ×2, the wielder can attempt to siphon one additional combat spell for each additional multiplier beyond 2 (two spells for ×3, three for ×4, and so on).
+
+**Construction Requirements:** Craft Magic Arms and Armor, *greater arcane sight*, *limited wish*; **Cost** +5 bonus
+
+### Sticky (weapon special ability)
+
+**Slot** reach or piercing melee weapon special ability; **CL** 8th; **Price** +1 bonus; **Weight** —
+
+**Aura** moderate transmutation
+
+This special ability can be placed only on reach weapons, piercing melee weapons, and weapons from the flail fighter weapon training group. When a *sticky* weapon scores a critical hit against a target, instead of rolling to confirm the critical threat, the wielder can deal normal damage and attempt a steal combat maneuver check against the target of the attack. This combat maneuver doesn't provoke an attack of opportunity, and the wielder gains a +2 bonus on the combat maneuver check.
+
+**Construction Requirements:** Craft Magic Arms and Armor, Improved Steal, *spider climb*; **Cost** +1 bonus
+
+### Amulet of Quaking Strikes
+
+**Slot** neck; **CL** 15th; **Price** 28,000 gp; **Weight** —
+
+**Aura** strong evocation
+
+This simple bronze amulet depicts a mountaintop being shattered by a sword blow. Twice per day, the amulet's wearer can make a single melee attack against the ground as a standard action. The wearer can choose a point of origin within 100 feet of himself and apply his attack roll against all creatures within a 20-foot radius of that point. The amulet's wearer rolls his attack's damage once and applies it to all creatures in the affected area. The damage includes the weapon's base damage dice, the wearer's Strength modifier, and damage from feats such as Power Attack and Vital Strike; it doesn't include damage from other magical sources, such as enhancement bonuses, spells, and magic weapon special abilities.
+
+**Construction Requirements:** Craft Wondrous Item, *earthquake*; **Cost** 14,000 gp
+
+### Anchoring Bracers
+
+**Slot** wrists; **CL** 9th; **Price** 30,000 gp; **Weight** 2 lbs.
+
+**Aura** moderate transmutation
+
+These iron bracers are covered in hooks and small claws. They strap firmly to the wearer's forearms and can be used to make attacks as spiked gauntlets.
+
+Three times per day, the bracers' wearer can telekinetically anchor herself to a foe within 190 feet as a full-round action. This requires a combat maneuver check, which doesn't provoke an attack of opportunity. The wearer gains a +2 circumstance bonus on this check for every size category by which her target is larger than she. On a successful check, either the wearer or the target (whichever weighs less) moves to be adjacent to the other (moving to the closest free adjacent space). This movement does not provoke attacks of opportunity. For 1 minute, the wearer and target are kept adjacent by the power of the bracers. Each is able to move only by succeeding at an opposed Strength check, and always takes the other along even if successful. Additionally, both the wearer and the target are unable to engage in dimensional travel for this duration, as if under the effect of a *dimensional anchor* spell. The wearer of the anchoring bracers can dismiss the anchoring effect before the end of its duration as a standard action.
+
+**Construction Requirements:** Craft Wondrous Item, *telekinesis*; **Cost** 15,000 gp
+
+### Clockwork Arms Harness
+
+**Slot** shoulders; **CL** 15th; **Price** 30,000 gp; **Weight** 10 lbs.
+
+**Aura** strong transmutation
+
+This leather harness has four clockwork arms attached to it. When it's worn, the arms are positioned behind the wearer's shoulders, with one pair slightly higher than the wearer's and the other set slightly lower, and they spring to life and move under the wearer's control. The arms lack the agility to aid in casting spells, crafting, picking locks, or completing any other fine motor skill, and can't use items placed in their hands. However, each arm's hand can hold any item the wearer could hold in one hand, allowing the wearer to have up to six total pieces of equipment ready for use at once. Once per round as a free action, the wearer can switch which items are held by which hands. Weapons wielded by the arms can't be used for most attacks but can take advantage of a foe's distraction or lowered guard—each clockwork arm wielding a weapon can make one attack of opportunity per round, and all such attacks are treated as off-hand attacks.
+
+**Construction Requirements:** Craft Wondrous Item, *animate objects*; **Cost** 15,000 gp
+
+### Corset of Delicate Moves
+
+**Slot** chest; **CL** 5th; **Price** 2,000 gp; **Weight** —
+
+**Aura** faint transmutation
+
+This tight-fitting garment of fine silk has thin bone ribbing sewn into it. Once per day as a move action, the wearer can take an additional swift action. This swift action can't be used to cast a spell or spell-like ability. The corset must be worn for 24 hours before this ability can be used.
+
+**Construction Requirements:** Craft Wondrous Item, *cat's grace*, *haste*; **Cost** 1,000 gp
+
+### Crown of Challenge
+
+**Slot** head; **CL** 15th; **Price** 21,000 gp; **Weight** 1 lb.
+
+**Aura** strong enchantment
+
+This jagged steel crown is rough and scratched but shows no sign of being dented or misshapen. Once per day, the wearer can issue a challenge to a creature able to see and hear him. The creature gains a +2 morale bonus on melee attack rolls and damage rolls against the crown's wearer for 1 minute. The creature challenged also takes a –2 penalty on attack rolls and damage rolls against all targets other than the wearer, and takes a –2 penalty to the save DCs of its spells, spell-like abilities, and supernatural abilities that affect other targets unless they also affect the wearer of the crown. These penalties last 1 minute or until the creature challenged makes a melee attack against the wearer of the crown.
+
+If the crown's wearer has the challenge class feature, he gains the benefit of his challenge against the creature challenged without expending a daily use of his own challenge ability.
+
+**Construction Requirements:** Craft Wondrous Item, *greater planar ally*; **Cost** 10,500 gp
+
+### Eyes of the Liar
+
+**Slot** eyes; **CL** 5th; **Price** 16,000 gp; **Weight** —
+
+**Aura** faint divination
+
+These smoked crystal lenses hide the wearer's thoughts and intents from the prying minds of others. They grant the wearer a +5 competence bonus on Bluff checks and immunity to *detect thoughts*. Both lenses must be worn for the magic item to function.
+
+**Construction Requirements:** Craft Wondrous Item, *eagle's splendor*, *nondetection*; **Cost** 8,000 gp
+
+### Gladiator's Sandals
+
+**Slot** feet; **CL** 5th; **Price** 6,000 gp; **Weight** 1/2 lb.
+
+**Aura** faint transmutation
+
+These sand-worn leather sandals are designed to lace around the calf and are favored by pit fighters and those who make careers out of performing in the ring. When the wearer acts during a surprise round and attempts any combat maneuver check, she gains a +4 circumstance bonus on that check. If the check is successful, the wearer can also attempt a performance combat check with a +10 circumstance bonus to affect the crowd's attitude.
+
+**Construction Requirements:** Craft Wondrous Item, *eagle's splendor*, *haste*; **Cost** 3,000 gp
+
+### Ratcheting Gauntlets
+
+**Slot** hands; **CL** 5th; **Price** 12,000 gp; **Weight** 5 lbs.
+
+**Aura** faint transmutation
+
+This set of cold iron gauntlets has pistons, gears, and hinges connecting all the joints and plates. As a swift action, the wearer can command one or both of the gauntlets to lock into position or unlock and move normally. If a gauntlet locks while holding a weapon, it acts as a locked gauntlet, providing the wearer a +10 bonus to his Combat Maneuver Defense against being disarmed. Locking the gauntlets also grants the wearer a +4 bonus on combat maneuver checks to pin a grappled foe and Climb checks to catch himself while falling. They can also allow other uses at the GM's discretion, such as hanging from a ledge or similar position without having to attempt a Climb check or becoming fatigued.
+
+**Construction Requirements:** Craft Wondrous Item, *bear's endurance*, *bull's strength*; **Cost** 6,000 gp
+
+### Serpentform Belt
+
+**Slot** belt; **CL** 5th; **Price** 20,000 gp; **Weight** 1/2 lb.
+
+**Aura** faint transmutation
+
+This snakeskin belt is crafted from the hides of brightly hued serpents. When buckled, it immediately binds tightly to the wearer's waist. Once per day, the wearer can command the serpentform belt to transform her lower half into that of a serpent. While in this form, the wearer gains a +4 bonus on combat maneuver checks to grapple or pin a foe. Once a foe is grappled, the wearer can constrict the opponent with any successful subsequent grapple checks, dealing an amount of bludgeoning damage equal to 1d8 + her Strength modifier, if Medium (1d6 if Small). The snake form lasts until another command is given, or for a maximum of 10 minutes, whichever is shorter.
+
+**Construction Requirements:** Craft Wondrous Item, *beast shape I*; **Cost** 10,000 gp
+
+### Swordmaster's Shirt
+
+**Slot** chest; **CL** 5th; **Price** 10,000 gp; **Weight** —
+
+**Aura** faint divination
+
+This stylish silk shirt has a loose and flowing fit except for the sleeves, which cling snugly to the wearer's arms from elbow to wrist. The sleeves guide the wearer's attacks to take advantage of brief gaps in a foe's defenses. Five times per day, the wearer can make a lunging melee maneuver and extend his reach by 5 feet for a single melee attack. If the wearer has the Lunge feat, he can instead use that feat five times per day without taking the normal –2 penalty.
+
+**Construction Requirements:** Craft Wondrous Item, Lunge, *cat's grace*; **Cost** 5,000 gp
+
+### Vestments of War
+
+**Slot** body; **CL** 9th; **Price** 14,000 gp; **Weight** —
+
+**Aura** moderate evocation
+
+These sturdy leather robes are edged in fine linen embroidered with runes and holy symbols. If worn by a creature capable of casting divination spells who worships a specific deity, the embroidery shifts to depict symbols and icons appropriate to the wearer's faith. The robes act as a divine focus for such wearers, allowing spells requiring a divine focus to be cast without the need to hold any other holy symbol. Additionally, if the wearer can channel energy, she can do so one additional time per day. If the wearer can lay on hands, she instead gains two additional uses of that ability per day. If the wearer has the fervor class feature, she instead gains two additional uses of fervor per day.
+
+**Construction Requirements:** Craft Wondrous Item, *divine favor*, *righteous might*; **Cost** 7,000 gp

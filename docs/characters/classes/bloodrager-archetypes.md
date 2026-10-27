@@ -139,3 +139,17 @@ While all bloodragers tap into their bloodlines to fuel the arcane energies they
 **Spirit Servants**: At 5th level, an ancestral harbinger adds *summon monster I* to her class spell list and gains it as a bonus spell known. She also gains *summon monster II* at 8th level, *summon monster III* at 11th level, and *summon monster IV* at 14th level. These spells can be used only to summon types of monsters with strong ties to the ancestral harbinger's family history, ranging from clan totems to monsters of the same type as those famously killed by her forebears. For each of these spells, the ancestral harbinger selects a number of monsters she can summon equal to her Charisma bonus (minimum 1) to represent these spirits. These monsters are selected from the options on the *summon monster* creature list or the [expanded summoning list](../../magic/expanded-summoning.md) that are appropriate for the spell level. At 7th level and every 2 bloodrager levels thereafter, the ancestral harbinger can swap one selected monster from one of these spells for a new monster from the same level's summoning lists.
 
 The ancestral harbinger has a mystic tie to the spirit servants summoned with this ability. When the ancestral harbinger is in a bloodrage, all of her spirit servants gain a +2 morale bonus to AC and on attack rolls, damage rolls, and saving throws. The spirit servants also gain 2 temporary hit points per Hit Die. At 11th level, the morale bonus increases to +3 and the number of temporary hit points per Hit Die increases to 3. At 20th level, the morale bonus increases to +4 and the number of temporary hit points per Hit Die increases to 4. The morale bonus and temporary hit points last until the bloodrage ends. This ability replaces improved uncanny dodge and the bloodline feat gained at 12th level.
+
+## Bloody-Knuckled Rowdy
+
+Bloodragers are frequently rough-and-ready, untrained scrappers who learn to exploit any advantage to gain the upper hand in a fight. The bloody-knuckled rowdy focuses on tricks and maneuvers that are quick and effective, duplicating combat styles from professional brawlers, street thugs, and even trapped animals. Rather than focusing on a single style, most bloody-knuckled rowdies dabble in multiple techniques, mixing and matching their array of vicious maneuvers to suit the occasion.
+
+**Bloody Knuckles**: The bloody-knuckled rowdy does not gain damage reduction.
+
+**Reduced Spells Known**: The bloody-knuckled rowdy focuses more on fighting tactics and less on his natural arcane powers. He receives one fewer spell known at each spell level. This ability modifies bloodrager spellcasting.
+
+**Pugilist (Ex)**: At 1st level, a bloody-knuckled rowdy gains Improved Unarmed Strike as a bonus feat. This ability replaces fast movement.
+
+**Combat Style Student (Ex)**: At 2nd level, a bloody-knuckled rowdy gains a bonus feat. This bonus feat must be a style feat or a feat with a style feat as a prerequisite. The bloody-knuckled rowdy treats his bloodrager levels as monk levels when qualifying for and calculating the effects of style feats and feats that have style feats as prerequisites. At 5th level, the bloody-knuckled rowdy gains the Combat Style Master feat. He doesn't need to meet the prerequisites for this feat. This ability replaces uncanny dodge and improved uncanny dodge.
+
+**Hand-to-Hand Training (Ex)**: At 3rd level, a bloody-knuckled rowdy deals unarmed damage as a monk of a level equal to his bloodrager level – 2.

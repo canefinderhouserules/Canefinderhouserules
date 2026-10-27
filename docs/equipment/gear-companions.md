@@ -547,3 +547,93 @@ This large animal horn is hollowed out to amplify sounds that enter through the 
 **Price** 4,000 gp; **Weight** 2 lbs.
 
 Objects viewed through a masterwork spyglass are magnified to four times their size. Characters using a masterwork spyglass take a –1 penalty on Perception checks per 40 feet of distance to the target (instead of per 20 feet as with a normal spyglass).
+
+## Melee Tactics Gear
+
+### Weighted Spear
+
+**Price** 10 gp; **Dmg** 1d6/1d4 (S), 1d8/1d6 (M); **Critical** ×3/×2; **Range** —; **Weight** 8 lbs.; **Type** bludgeoning or piercing; simple two-handed melee weapon; **Special** brace, double
+
+This pole has a spear head at one end and a mace head at the other. It can be wielded like a standard spear (though it isn't balanced for throwing), or it can be used as a double weapon, alternately thrusting and bashing. It belongs to the double and spears fighter weapon groups.
+
+### Acrobat's Pillar
+
+**Price** 50 gp; **Weight** 40 lbs.
+
+This training contraption consists of a stout, 7-foot-tall wooden pillar with spring-powered wood-and-brass arms jutting sideways at different heights. When the springs are wound, the arms wave erratically through the area within 10 feet of the pillar. The arms don't swing with sufficient force to cause damage, but you can practice your acrobatic technique by moving up to and around the pillar while the arms are in motion, attempting to avoid being tagged. The mechanism operates for 10 minutes before winding down. The entire contraption can be dismantled and stowed in a chest the size of a large foot locker for transport. Using the pillar to hone your acrobatic techniques requires 1 hour of practice and a DC 20 Acrobatics check. If you succeed at the check, you gain a +2 circumstance bonus on Acrobatics checks to avoid attacks of opportunity provoked by moving out of or through an opponent's threatened area. This bonus lasts for 24 hours or until you fail an Acrobatics check.
+
+### Armor Truss
+
+**Price** 30 gp; **Weight** 10 lbs.
+
+This collection of flexible strips of wood, durable shims, and thin cords allows you to prop open the buckles, padding, and plates of armor for easy entry. If you take at least 15 minutes preparing an empty suit of armor with an armor truss, you are considered to have help in putting on the armor and can don the armor in the time it usually takes to don the armor hastily without worsening armor check penalties or decreasing armor bonuses.
+
+### Bounty Hunter's Kit
+
+**Price** 105 gp (common), 380 gp (superior); **Weight** 15 lbs. (common), 24 lbs. (superior)
+
+This kit provides useful tools for bounty hunters. It includes basic maps showing major landmarks, caltrops, common manacles with an average lock, a net, a sap, and a 10-foot chain. Bounty hunters are notoriously individualistic, so variant kits are common. One such variant is the superior bounty hunter's kit, which replaces the common manacles with masterwork manacles and the average lock with a good lock, and includes a footprint book, a tanglefoot bag, and masterwork thieves' tools.
+
+### Exemplar Weapon Salve
+
+**Price** 350 gp; **Weight** 1 lb.
+
+This alchemical salve strengthens the material of a weapon, improves its balance, gives it greater flexibility without sacrificing resilience, and enhances its ability to hold an edge or point and survive an impact. An application turns a typical nonmagical melee weapon into a masterwork weapon. A double weapon requires 2 doses of exemplar weapon salve, and 50 arrows, bolts, or similar ammunition can be enhanced by a single application.
+
+### Handle Harness
+
+**Price** 25 gp; **Weight** 10 lbs.
+
+This wood-and-leather harness fits over clothing or armor and provides small handles and footrests across your back and along the sides of your legs and arms. While wearing a handle harness, you automatically succeed at checks to aid an adjacent ally of your size or smaller with Climb or Ride checks, or Acrobatics checks to balance on narrow surfaces or uneven ground. A handle harness's ungainly construction gives you a –2 penalty on Escape Artist checks.
+
+### Manacles, Quickcatch
+
+**Price** 180 gp; **Weight** 3 lbs.
+
+These masterwork manacles are designed to swiftly secure a restrained creature. The price includes a quick-release mechanism that, when attached to a belt or pack, allows you to retrieve the quickcatch manacles with one hand as a swift action. Quickcatch manacles include a good lock that locks automatically when the manacles are applied. When you take the tie up action in a grapple, you can lock your opponent in quickcatch manacles instead of using rope. The quickcatch manacles must be sized appropriately for your opponent. Quickcatch manacles can be constructed for creatures of different sizes using the same multipliers as ordinary manacles.
+
+### Melee Contingency Kit
+
+**Price** 150 gp; **Weight** 14 lbs.
+
+This kit contains items necessary for a melee combatant to overcome the most common forms of damage resistance. The kit includes a cold iron morningstar, a silver sickle, two flasks of acid, two flasks of alchemist's fire, and two flasks of holy water.
+
+### Rockshard Canister
+
+**Price** 50 gp; **Weight** 25 lbs.
+
+Two separate compartments make up this black glass canister the size of a helmet. The large lower compartment contains hundreds of jagged shards of obsidian. The upper airtight chamber contains a sticky resin that hardens immediately upon contact with air. When you strike the canister with a bludgeoning melee weapon as a standard action, both compartments shatter, causing the obsidian shards to adhere to the weapon. The weapon deals piercing damage rather than bludgeoning damage for 10 minutes, at which point the resin dries and the shards fall off, or until you roll a natural 1 on an attack roll, which causes the shards to break off prematurely. If the weapon is made of a special material, the special properties of its material are suppressed while the obsidian shards adhere to the weapon. If you use a rockshard canister to coat an unarmed strike or natural weapon, you take 2d6 points of piercing damage when shattering the canister to apply the shards. For unarmed attacks, this can be avoided by carefully applying thick leather or rope straps to your hands and feet, which requires 5 minutes of work, prior to smashing the canister.
+
+### Shield Boss
+
+**Price** reinforcing boss 30 gp, breakaway boss 120 gp, hooked boss 80 gp, illuminating boss 35 gp, masterwork boss +50 gp; **Weight** 10 lbs.
+
+A shield boss is a sturdy steel device that fastens to the front of a shield, providing metal support struts that radiate outward from the center of the shield, reinforcing its structure. A shield boss can be added to a buckler, light steel or wooden shield, or heavy steel or wooden shield. Tower shields are too large for a typical shield boss, though one can be crafted to fit a tower shield for an additional 300 gp. Attaching or removing a shield boss requires 10 minutes of work and a successful DC 15 Craft (armor) check; on a failure, the shield boss is not successfully attached or removed and the shield takes 1d6 points of damage that bypasses any hardness.
+
+A **reinforcing boss** provides extra protection to a shield, increasing the shield's current and maximum hit points by 10. The boss makes the shield 10 pounds heavier and more unwieldy—if the shield imposes a penalty on attack rolls, as do bucklers and tower shields, the penalty increases by 1. Common improvements to the basic reinforcing boss include the following.
+
+**Breakaway Boss**: The metal stud at the center of the reinforcing boss holds a compartment large enough to insert a single splash weapon, such as a vial of acid or alchemist's fire, as a full-round action. On a successful shield bash attack, the weapon vial breaks and deals damage to the target as though it were directly hit by the splash weapon. The shield takes the normal amount of splash damage for being adjacent to the target, but no other creatures adjacent to the target take splash damage from this effect. A new splash weapon must be inserted into the breakaway boss for it to be used again.
+
+**Hooked Boss**: The struts on this reinforcing boss bear large, sturdy hooks, which can be used to snag an opponent's clothing or armor, causing it to stumble. You can attempt trip combat maneuver checks with this shield. If the combat maneuver check is successful, the opponent does not fall prone, but is considered flat-footed until the beginning of its next turn.
+
+**Illuminating Boss**: The stud at the center of this reinforcing boss contains a covered slot large enough to insert a sunrod. Installing a lit sunrod into an illuminating boss is a full-round action. If you shake the shield firmly as a move action, you can flip a metal flap fitted over the slot to conceal or reveal the sunrod's glow.
+
+**Masterwork Boss**: Any of the bosses listed above, including the basic reinforcing boss, can be masterwork. A masterwork reinforcing boss increases the shield's current and maximum hit points by 15 instead of 10 and doesn't increase the attack roll penalty.
+
+### Sunderblock
+
+**Price** 35 gp; **Weight** 2 lbs.
+
+This lumpy, lardlike, alchemical substance is designed to protect armor and weapons from dents and cracks that commonly develop in close-combat equipment. When liberally applied to armor or weapons, the material provides a greasy surface that blunts impacts, causes blades to slide aside, and strengthens the gear it is applied to. A single container holds enough sunderblock to coat a single weapon or suit of armor as a full-round action. The effects aren't pronounced enough to increase the Armor Class bonus of a suit of armor, but the hardness of armors and weapons coated with sunderblock increases by 5. This bonus lasts for 12 hours, at which point the greasy substance dries and flakes away.
+
+### Surefoot Training Blocks
+
+**Price** 50 gp; **Weight** 25 lbs.
+
+This collection of eight heavy wooden or metal cones, cylinders, and spheres fills an ordinary backpack. None of the shapes is precisely regular, and when stacked atop each other, they teeter precariously and easily topple. Acrobats practice by stacking these blocks in unstable configurations and attempting to balance while standing upon them. Using surefoot training blocks to improve your balance requires 1 hour of practice and a DC 15 Acrobatics check. If you succeed at the check, you gain a +2 circumstance bonus on Climb checks and on Acrobatics checks to balance on narrow surfaces or uneven ground. This bonus lasts for 24 hours or until you fail a Climb or Acrobatics check.
+
+### Waster
+
+**Price** 1 gp; **Weight** varies
+
+A waster is a heavily weighted wooden practice weapon, used as a way to build endurance and expertise with a specific weapon. All wasters are designed to emulate a specific melee weapon (such as a kukri waster or a greatsword waster), and weigh twice as much as the weapons they emulate. Using a waster to hone your combat techniques requires 1 hour of practice and a DC 15 combat maneuver check. If you succeed at the check, you gain a +2 circumstance bonus to your CMD against combat maneuvers targeting weapons you wield that match the waster you practiced with. This bonus lasts for 24 hours.

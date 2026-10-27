@@ -903,3 +903,19 @@ Vexing dodgers take advantage of their smaller size to outmaneuver larger foes s
 **Distracting Climber (Ex)**: At 8th level, when a vexing dodger attempts a dirty trick maneuver against a creature she's climbing, she gets a bonus on the combat maneuver check equal to the number of sneak attack dice she has. If she chooses to sicken the target with her dirty trick and succeeds at her combat maneuver check, the target must succeed at a Fortitude saving throw (DC 10 + 1/2 the vexing dodger's level + her Intelligence modifier) or be nauseated for 1 round. This ability replaces improved uncanny dodge.
 
 **Rogue Talents (Ex)**: A vexing dodger can choose uncanny dodge as a rogue talent starting at 4th level, and she can choose improved uncanny dodge as an advanced rogue talent. The following talents complement the vexing dodger archetype: befuddling strike, confounding blades, peerless maneuver, positioning attack, slow reactions, wall scramble.
+
+## Makeshift Scrapper
+
+Some combatants specialize in the study of certain weapons, but those without formal training often learn to survive a fight by making brilliant use of whatever is lying around.
+
+**Weapon Proficiency**: The makeshift scrapper is proficient with only simple weapons.
+
+**Improvised Weapons (Ex)**: At 1st level, a makeshift scrapper gains Catch Off-Guard and Throw Anything as bonus feats. This ability replaces trapfinding.
+
+**Supernatural Improvisation (Su)**: At 3rd level, a makeshift scrapper gains the ability to enhance an item, making it a more effective weapon or changing the way it can be used. As a swift action, she can alter a single improvised weapon to either grant it a +1 enhancement bonus on attack rolls and damage rolls or use it to gain a +1 shield bonus to her AC. The makeshift scrapper can use this ability for a number of rounds per day equal to her rogue level. These rounds need not be consecutive, and the makeshift scrapper can change the enhancement each time she activates the ability. The bonus increases by 1 every 4 levels thereafter, up to a maximum bonus of +5 at 19th level. This ability replaces trap sense.
+
+**Improvised Weapon Mastery (Ex)**: At 12th level, the makeshift scrapper gains Improvised Weapon Mastery as a bonus feat. This ability replaces the rogue talent gained at 12th level.
+
+**Rogue Talents/Ninja Tricks**: The following rogue talents and ninja tricks complement the makeshift scrapper archetype: acrobat master, expert leaper, fast getaway, ki pool, offensive defense, peerless maneuver, and surprise attack.
+
+**Advanced Talents**: The following advanced rogue talents complement the makeshift scrapper archetype: another day, defensive roll, fast getaway, and opportunist.

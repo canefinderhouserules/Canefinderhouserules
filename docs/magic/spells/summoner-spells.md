@@ -28,6 +28,7 @@ New summoner spells from *Ultimate Magic*. Spells from other books will be added
 - **[Ant Haul, Communal](ant-haul-communal.md)**: As ant haul, but you may divide the duration among creatures touched.
 - **[Anti-Summoning Shield](anti-summoning-shield.md)**: Summoning effects in the area may fail.
 - **[Aquatic Cavalry](aquatic-cavalry.md)**: Summon hippocampi to serve as aquatic mounts.
+- **[Blade Tutor's Spirit](blade-tutors-spirit.md)**: Reduces penalties on your melee attacks.
 - **[Contact Entity I](contact-entity-i.md)**: Ask eldritch entities to find and converse with you.
 - **[Covetous Urge](covetous-urge.md)**: Curse a creature to steal valuables
 - **[Cushioning Bands](cushioning-bands.md)**: Force bands protect against crushing.

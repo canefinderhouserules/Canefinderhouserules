@@ -40,6 +40,7 @@ Shamans gain access to the following spells. Spells in plain text come from othe
 - **[Coward's Cowl](cowards-cowl.md)**: Defensive bonuses while avoiding enemies.
 - **[Cure Light Wounds](cure-light-wounds.md)**: Cures 1d8 damage + 1/level (max +5).
 - **[Dancing Lantern](dancing-lantern.md)**: Animates a lantern that follows you.
+- **[Darting Duplicate](darting-duplicate.md)**: Illusory duplicate baits attacks of opportunity.
 - **[Detect Animals or Plants](detect-animals-or-plants.md)**: Detects kinds of animals or plants.
 - Detect Chaos/evil/good/law
 - **[Detect Charm](detect-charm.md)**: Detect charm, compulsion, and possession effects.
