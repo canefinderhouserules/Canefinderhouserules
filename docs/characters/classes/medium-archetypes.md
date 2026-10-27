@@ -202,6 +202,18 @@ The Lich is a spirit of power over death and the undead.
 
 **Lesser Lichdom (Greater, Su)**: In order to benefit from this power, you must have a proto-phylactery that costs you 10,000 gp to create (if you continue with the process of lichdom, you can upgrade this to a true phylactery by paying the difference in cost). If you die while channeling the Lich, you return from the dead in 1d10 days, reforming around the proto-phylactery and gaining 1 permanent negative level (as if subject to the *resurrection* spell). This process consumes the proto-phylactery. If you are already a lich, you can instead create a backup phylactery for 10,000 gp, at which you reform if your normal phylactery is destroyed. This consumes the backup phylactery.
 
+### Slumbering King (Marshal)
+
+Not all heroes of fallen empires are forgotten. Prophets of a war-king claim he rests in a hall of slumbering kings, but will return to lead the faithful to victory.
+
+**Gaining Favor**: To gain the slumbering king's favor, journey to his ancient ziggurat at the center of his lost capital. There, you must swear to help gather the descendants of the fallen empire and to tell all of the king's inevitable return. You must also succeed at a Charisma check before the king will answer your call.
+
+**Taboo**: If you accept a taboo while channeling the slumbering king, you must take any opportunity to seek out descendants of the empire and proselytize, even if doing so would be disadvantageous.
+
+**Phalanx Defense (Lesser, Su)**: This functions as the marshal's order ability, except if you or an ally who participated in your seance are adjacent to another ally who participated, you and any applicable allies can also add your spirit surge to your CMD against bull rush, drag, overrun, and trip attempts. This alters marshal's order.
+
+**Slumbering Sword (Greater, Su)**: When an ally within 30 feet is attacked, you can allow the slumbering king to gain 1 point of influence over you as an immediate action to provide partial cover to that ally for a single attack. The ally must be able to see and hear you for this ability to function. If the attack against your ally misses, your ally can make an attack of opportunity against the enemy who made the attack if that enemy is within your ally's reach. You can use this ability as a standard action to instead grant an ally partial cover for 1 round, but missed attacks against the ally do not provoke attacks of opportunity. This replaces decisive strike.
+
 ### Terminator (Guardian)
 
 The Terminator is a stoic spirit of relentless death.

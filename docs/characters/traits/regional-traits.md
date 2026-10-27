@@ -2,7 +2,11 @@
 
 Regional traits are tied to particular regions. To select one, your character must have spent at least a year living in that region. At 1st level you can select only one regional trait (typically tied to your character’s homeland). The following traits present several generic regions usable in most campaign settings.
 
+**Brave Words** *(descendant of a warrior empire)*: You inherit your forebears' ability to fight off terror with bragging or insults. As a swift action, when you have the frightened condition, you can function as if you only have the shaken condition for 1 round by shouting at the source of your fear. You must be able to see the source of the fear condition. You can use this trait only once per fear effect. This trait grants no benefits against the shaken or panicked conditions.
+
 **Desert Child** *(desert)*: You were born and raised in rocky deserts. You are accustomed to high temperatures, and gain a +4 trait bonus on any saving throws made to resist the effects of being in hot conditions and a +1 trait bonus on all saving throws against fire effects.
+
+**Exhibition Fighter** *(martial-arts tournament region)*: You fight at your best in martial arts tournaments, such as those once popular in a fallen empire. While others may attempt to cheat or chafe against the constraints placed upon them, you thrive under such limitations. You gain a +1 bonus on attack and damage rolls when fighting as part of a tournament or other structured setting with rules and restrictions, so long as you do not break these rules.
 
 **Highlander** *(hills or mountains)*: You were born and raised in rugged badlands or hills, and you’ve become something of an expert at evading the predators, monsters, and worse that haunt the highlands. You gain a +1 trait bonus on Stealth checks, and Stealth is always a class skill for you. This trait bonus increases to +2 in hilly or rocky areas.
 
@@ -10,9 +14,15 @@ Regional traits are tied to particular regions. To select one, your character mu
 
 **Militia Veteran** *(any town or village)*: Your first job was serving in a civilian militia in your home town. Skills learned through daily drilling and protecting your fellow townsfolk gave you special insight into military life. Select one of the following skills: Profession (soldier), Ride, or Survival. You gain a +1 trait bonus on that skill, and it is always a class skill for you.
 
+**Naturalist** *(former agrarian nation)*: Your ancestors taught you the importance of using what nature provides. You gain a +3 trait bonus on Survival checks when attempting to survive in the wilderness.
+
 **River Rat** *(marsh or river)*: You learned to swim right after you learned to walk. As a youth, a gang of river pirates put you to work swimming in nighttime rivers and canals with a dagger in your teeth so you could sever the anchor ropes of merchant vessels. You gain a +1 trait bonus on damage dealt with a dagger and a +1 trait bonus on Swim checks. Swim is always a class skill for you.
 
 **Savanna Child** *(plains)*: You were born and raised among rolling plains or savannas. You spent much of your youth exploring these vast reaches and know many of the savanna’s secrets. Pick one of the following skills: Handle Animal, Knowledge (nature), or Ride. You gain a +1 trait bonus on that skill, and it is always a class skill for you.
+
+**Shared Ancestors** *(land of ancient lineage)*: Through your detailed study of your own lineage, you can better understand and honor even your most distant relatives. You gain a +1 trait bonus on Diplomacy, Knowledge (history), Knowledge (local), Knowledge (nobility), and Sense Motive checks associated with any creature who shares your type and at least one of your subtypes. One of these skills becomes a class skill.
+
+**Stargazer** *(former nation of astrologers)*: Having spent your youth staring at the night sky, you gain a +1 trait bonus on Knowledge (arcana) and Knowledge (nature) checks. One of these skills becomes a class skill for you.
 
 **Vagabond Child** *(urban)*: You grew up among the outcasts and outlaws of your society, learning to forage and survive in an urban environment. Select one of the following skills: Disable Device, Escape Artist, or Sleight of Hand. You gain a +1 trait bonus on that skill, and it is always a class skill for you.
 

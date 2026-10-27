@@ -219,3 +219,15 @@ This ability replaces the bonus feats gained at 2nd, 8th, and 14th levels.
 | Slow fall | 4th |
 | High jump | 5th |
 | Improved evasion | 9th |
+
+## Improvised Warrior
+
+After their homeland seceded from its parent nation, an elite combatant caste formed to protect it for centuries. Their martial traditions were centered on the use of farming tools and on other improvised weapons.
+
+**Humble Beginnings (Ex)**: An improvised warrior gains her choice of Catch Off-Guard or Throw Anything as a bonus feat. She is not proficient with shields. This alters the brawler's armor proficiencies.
+
+**Improvisation Training (Ex)**: An improvised warrior is skilled at fighting with improvised weapons. She deals damage equal to her unarmed strike damage while fighting with an improvised weapon. An improvised warrior treats improvised weapons as weapons from the close fighter weapon group. This replaces the bonus combat feat gained at 2nd level.
+
+**Improvised Maneuver (Ex)**: At 4th level, an improvised warrior learns to confound and befuddle her opponents with improvised weapons. She chooses one of the following combat maneuvers: bull rush, drag, disarm, sunder, reposition, or trip. When she hits an opponent with an improvised weapon, the improvised warrior can perform her chosen combat maneuver against the same target as a free action. She takes a –4 penalty on the combat maneuver check, and she can't attempt an improvised maneuver check more than once per round. This combat maneuver still provokes attacks of opportunity unless the improvised warrior has a feat or ability that allows her to perform it without provoking attacks of opportunity. At 10th level, she chooses a second combat maneuver that she can use with this ability, though she can still perform only one improvised maneuver per round. At 16th level, she chooses a third, though she can still perform only one improvised maneuver per round. This replaces knockout.
+
+**Improvisation Mastery (Ex)**: At 5th level, an improvised warrior picks one type of improvised weapon (light, one-handed, or two-handed) and gains a +2 bonus on attack and damage rolls with that type of weapon. This replaces close weapon mastery.

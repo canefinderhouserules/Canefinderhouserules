@@ -353,3 +353,25 @@ Your body is suffused with raw plant life. When you bloodrage, your plantlike ch
 **Nature’s Thorns (Su)**: At 16th level, creatures that hit you in melee (other than those using manufactured reach weapons) take 4d6 points of piercing damage. A creature takes this damage only on its first successful attack against you in a combat round, and not on subsequent attacks in that round.
 
 **Verdant Apotheosis (Su)**: At 20th level, verdant power surges throughout your being. While bloodraging, you gain tremorsense out to 30 feet. In addition, you gain immunity to paralysis, poison, sleep, and stunning effects, even while you are not bloodraging.
+
+## Vestige
+
+You are the descendant of great heroes from a lost civilization.
+
+**Bonus Feats**: Combat Casting, Exotic Weapon Proficiency, Greater Weapon Focus*, Greater Weapon Specialization*, Iron Will, Weapon Focus, Weapon Specialization*. (The bloodrager counts his total bloodrager levels as fighter levels for the purpose of qualifying for any feats marked with an asterisk [*]. If he also has levels in fighter, these levels stack.)
+
+**Bonus Spells**: *true strike* (7th), *false life* (10th), *phantom steed* (13th), *mass enlarge person* (16th).
+
+**Bloodline Powers**: When you bloodrage, you transform into an ancestor or another notable figure from a lost civilization.
+
+**Warrior's Discipline (Su)**: At 1st level, you tap into untold generations of battle experience to control your battle fury. As a swift action, you can halve any morale bonuses gained from bloodrage to be able to use Intelligence- or Charisma-based skills, or any abilities requiring patience or concentration. This effect lasts for 1 round.
+
+**Ancient Tactics (Su)**: At 4th level, while you are bloodraging, whenever you or an ally within 30 feet of you would gain a bonus on attack rolls or to AC due to battlefield position (such as flanking or cover), that bonus is increased by 1. Allies must be able to see and hear you to gain this bonus. You can expend a spell slot as an immediate action to further increase this bonus by 1 per level of the spell slot expended until the beginning of your next turn.
+
+**Legacy Style (Su)**: At 8th level, select any one style feat. You can use this style feat while bloodraging; however, if you do not meet all of the style feat's prerequisites, you must expend a spell slot when entering the style's stance, and the benefits last for only 1 round per level of the spell slot expended or for the duration of your bloodrage, whichever is shorter. If you already have this style feat, you can enter the style's stance as part of the free action to bloodrage.
+
+**War's Memory (Sp)**: At 12th level, you can manifest an illusion of an ancestor's bloody battlefield once per day. This functions as *hallucinatory terrain*, except it can create only battlefields drawn from a civilization's past, and the effect ends when your bloodrage ends. The saving throw to disbelieve is equal to 10 + 1/2 your bloodrager level + your Constitution modifier. The horrifying scene causes creatures within the area of effect to take a –2 penalty on saves versus fear effects until they disbelieve the illusion. If a creature fails the Will save to disbelieve the illusion, it gains the shaken condition until your bloodrage ends, or until it leaves the area of effect. This is an illusion (glamer) and fear effect.
+
+**Legacy Conduit (Su)**: At 16th level, when using the legacy style bloodline power, you can expend a spell slot as a swift action to share the benefits of the selected style feat with all allies within 30 feet. The benefits last for 1 round per level of the spell slot expended. Allies must still enter the style's stance as a swift action.
+
+**Call to Arms (Su)**: At 20th level, you can summon a ghostly army from a fallen civilization once per day. This functions as *spiritual ally* with a caster level equal to your level, except that it summons a number of allies equal to your Constitution modifier, and the allies use your Strength modifier for attack rolls. You can direct all of these allies with a single swift action. Each ally can attack a different target or the same target, as you direct. The allies remain until the spell's duration ends or your bloodrage ends, whichever comes first.

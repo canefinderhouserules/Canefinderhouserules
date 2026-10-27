@@ -8,6 +8,7 @@
 - **[Bless Weapon](bless-weapon.md)**: Weapon strikes true against evil foes.
 - **[Blessing of the Watch](blessing-of-the-watch.md)**: *Bless* that works only in the caster’s home city.
 - **[Bowstaff](bowstaff.md)**: A shortbow may double as a club, or a longbow as a quarterstaff.
+- **[Brightest Night](brightest-night.md)**: grant or enhance low-light vision
 - **[Build Trust](build-trust.md)**: Gain various bonuses when interacting with the target.
 - **[Compel Hostility](compel-hostility.md)**: Compels opponents to attack you instead of your allies.
 - **[Conditional Favor](conditional-favor.md)**: Provide another spell whose effects reverse if the target breaks a restriction.
@@ -103,6 +104,7 @@
 - **[Sacred Space](sacred-space.md)**: This spell sanctifies an area with heavenly power.
 - **[Sea Steed](sea-steed.md)**: Your mount adapts to an aquatic environment.
 - **[Sense Madness](sense-madness.md)**: Determine mental disturbances in nearby creatures.
+- **[Shared Training](shared-training.md)**: grant a teamwork feat to allies
 - **[Shield Other](shield-other.md)**: You take half of subject’s damage.
 - **[Slave to Sin](slave-to-sin.md)**: Exploit a creature’s sin to sicken and stagger it.
 - **[Spiritual Squire](spiritual-squire.md)**: A force servant helps carry, aid, and armor allies.

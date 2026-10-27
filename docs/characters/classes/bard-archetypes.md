@@ -68,6 +68,20 @@ This poem of sadness and longing was developed by a bard seeking a way to fight 
 
 **Action**: 1 full round.
 
+### Death of Heroes (Oratory, Sing)
+
+You speak of the horrors of a demonic rift, retelling tales of helpless warriors watching their loved ones die.
+
+**Prerequisites**: Perform (oratory) or Perform (sing) 7 ranks.
+
+**Cost**: Feat or 3rd-level bard spell known.
+
+**Effect**: You force one target within 30 feet to perceive his allies as being dragged into abyssal pits. When you complete the performance, the target must attempt a Will save. On a failed save, the target gains the shaken condition and can't see or hear any allied creature for the duration of the performance. All of the target's allies function as if invisible to it, making conversation impossible and preventing the target from gaining benefits from any effects that require hearing or seeing an ally. This is a fear and illusion (glamer) effect.
+
+**Use**: 1 bardic performance round per round.
+
+**Action**: 1 full round.
+
 ### Dirge of the Torn Sail (Sing, String)
 
 Your ominous refrain warns away those who would trespass in your domain.
@@ -167,6 +181,20 @@ Your expressive dance makes your allies much more limber.
 **Use**: 1 round of bardic performance per minute of the effect's duration.
 
 **Action**: 1 minute.
+
+### Song of the Last Stand (Oratory, Sing)
+
+You recite inspirational lines from an epic poem commemorating a final stand, keeping defiance alive even in the face of certain death.
+
+**Prerequisites**: Perform (oratory) or Perform (sing) 10 ranks.
+
+**Cost**: Feat or 4th-level bard spell known.
+
+**Effect**: When you complete the performance, all allies within 30 feet gain an attack of opportunity when reduced to negative hit points, or whenever a foe deals hit point damage equal to or greater than its Hit Dice, for the duration of the performance. The attack of opportunity can be made against any enemy within reach; it does not have to be against the source of the damage, and does not count toward your allies' maximum attacks of opportunity per round. This attack of opportunity is resolved prior to the enemy's attack, but the triggering attack is still resolved even if the enemy is killed or incapacitated.
+
+**Use**: 2 bardic performance rounds per round.
+
+**Action**: 1 full round.
 
 ### Spiraling Ascent (Act, Dance)
 
@@ -471,6 +499,20 @@ Your thrilling tune causes you and your allies to fly through the water as easil
 **Use**: 1 round of bardic performance per creature affected for each hour of the effect's duration.
 
 **Action**: 1 full round.
+
+### The Tragedy of False Hope (Oratory, Sing)
+
+You remind those around you of a mystic's warning and how danger was ignored in expectation of a prophesied savior's return.
+
+**Prerequisites**: Perform (oratory) or Perform (sing) 4 ranks.
+
+**Cost**: Feat or 2nd-level bard spell known.
+
+**Effect**: You create a feeling of deceptive confidence in an enemy. When you activate this performance, one target within 30 feet becomes flat-footed for as long as you maintain the performance (Will negates). If you target a creature that has not yet acted in a surprise round, the creature does not get to act in the surprise round. Any target with the uncanny dodge class feature or an ability with a similar effect is immune to this performance. This is a mind-affecting emotion effect.
+
+**Use**: 1 bardic performance round per round.
+
+**Action**: 1 standard action.
 
 ### Thundering Rhythms (Oratory, Percussion)
 
@@ -1657,3 +1699,17 @@ Bards may have different reasons for wanting to heal the sick and injured, both 
 **Channel Energy (Su)**: At 2nd level, an arcane healer gains the ability to channel positive energy as a cleric of one level lower than his level. If a creature within the channeled energy's area of effect would be allowed a save against its effects, the DC is equal to 10 + 1/2 the arcane healer's level + the arcane healer's Charisma modifier. An arcane healer can use this ability once per day at 2nd level, gaining an additional use per day every four levels thereafter (6th, 10th, 14th, and 18th), to a maximum of 5 times per day at 18th level. This ability replaces versatile performance.
 
 **Inspiring Healing (Sp)**: At 5th level, an arcane healer gains the ability to expend rounds of his bardic performance to provide extra healing to his allies. By expending 2 rounds of bardic performance, an arcane healer can cast *cure light wounds* as a spell-like ability. At 11th level, he can expend 2 rounds of bardic performance to cast *cure moderate wounds* as a spell-like ability. At 17th level, he may instead expend 2 rounds of bardic performance to cast *cure serious wounds* as a spell-like ability. No single target may be affected by an arcane healer's inspiring healing ability more than once in a 24-hour period. This ability replaces lore master.
+
+## Dwarven Scholar
+
+A dwarven scholar researches the lineage of the kings of the old dwarven empires and learns their ancient tactics. She keeps these ancient traditions alive by sharing them with her allies.
+
+**Weapon and Armor Proficiency**: A dwarven scholar is proficient with one weapon of her choosing with the word "dwarven" in its name, in addition to her normal weapon proficiencies. She is not proficient with shields. This alters the bard's weapon and armor proficiency.
+
+**Studied Insight (Ex)**: A dwarven scholar uses her Wisdom modifier instead of her Charisma modifier to determine all class features and effects relating to her bard class, including her bardic performance ability, bonus spells per day, the maximum spell level she can cast, and the save DCs of her spells.
+
+**Dwarven Training (Ex)**: At 2nd level, a dwarven scholar masters one aspect of dwarven combat and gains a bonus combat feat. She must meet the prerequisites for this feat, but she treats her bard level as her base attack bonus (in addition to base attack bonuses gained from other classes and racial Hit Dice) for the purpose of qualifying for this feat. At 6th level and every 4 levels thereafter, she gains another bonus combat feat. This replaces versatile performance.
+
+**Bardic Performance**: A dwarven scholar gains the following type of bardic performance.
+
+*War Chant (Su)*: At 1st level, a dwarven scholar can use her performance to inspire the martial prowess of the ancient dwarves in her allies. The dwarven scholar selects a single combat feat she knows. Allies affected by this performance gain the benefit of this feat for as long as the performance is maintained. To be affected, an ally must be able to perceive the dwarven scholar's performance. If a combat feat has a daily use limitation (such as Stunning Fist), any uses of that combat feat by the dwarven scholar's allies while using this ability counts toward the dwarven scholar's feat's daily limit. At 6th level, the dwarven scholar may grant the benefit of two combat feats at the same time. She may use one of these feats to meet a prerequisite of the second feat. Maintaining two feats in this way requires spending 2 rounds of bardic performance every round. This replaces inspire courage and suggestion.

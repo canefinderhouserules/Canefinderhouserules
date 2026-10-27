@@ -173,3 +173,24 @@ Shieldbearers are divine warriors who stand on the front lines of battle, should
 **Sacred Shield (Su)**: At 4th level, a shieldbearer gains the ability to enhance his shield with divine power as a swift action. This ability functions as the sacred armor ability, except as follows. This power grants the shield a +1 enhancement bonus (this bonus does not act as an attack or damage bonus when the shield is used in a shield bash). For every 4 warpriest levels beyond 4th, this bonus increases by 1 (to a maximum of +5 at 20th level). The shieldbearer can enhance a shield with any of the following armor special abilities (instead of those listed for sacred armor): arrow deflection, blinding, fortification (heavy, light, or moderate), reflecting, and spell resistance (13, 15, 17, and 19).
 
 **Channel Energy (Su)**: The shieldbearer can channel energy only when carrying a shield, and the ability manifests as a 30-foot-cone burst, rather than as a radius. This ability modifies channel energy.
+
+## Elemental Magistrate
+
+Some warpriests study the ancient magic that the magistrates of a lost imperium used to bind elementals and make pacts with genies. By tapping into the elementals' primal magic, these warpriests gain powers that help them in combat.
+
+**Class Skills**: An elemental magistrate gains Knowledge (planes) as a class skill. Survival is not a class skill for an elemental magistrate. This alters the warpriest's class skills.
+
+**Elemental Binder (Su)**: An elemental magistrate must worship a deity who grants the Air, Earth, Fire, or Water blessing, and he must select one of these blessings. He does not gain a second blessing. This alters the warpriest's blessings.
+
+**Spontaneous Summons**: An elemental magistrate is extremely flexible in channeling his stored spell energy. In addition to losing prepared spells to cast "cure" or "inflict" spells, he can also lose a prepared spell in order to cast any *summon monster* spell of the same level or lower. He can use this ability only to summon an elemental whose subtype matches his blessing. He can expend one use of his fervor ability to decrease the spell's casting time to 1 standard action and to increase the spell's duration to 1 minute per level. This alters spontaneous casting.
+
+**Bonus Languages**: An elemental magistrate's bonus language options include Aquan, Auran, Ignan, and Terran instead of Abyssal, Celestial, and Infernal. These choices are in addition to the bonus languages available to the character because of his race. This alters the warpriest's bonus languages.
+
+**Channel Element (Su)**: At 4th level, an elemental magistrate gains Elemental Channel as a bonus feat, choosing the elemental subtype that matches his blessing. He doesn't gain the ability to harm undead with channeled energy (if he channels positive energy) or heal undead (if he channels negative energy). Instead, he can channel a blast of elemental matter and energy that buffets his targets. The elemental magistrate's blessing determines the damage type of this attack, as indicated by the table below. A successful Reflex save halves the damage. This alters channel.
+
+| Blessing | Damage Type |
+|---|---|
+| Air | Electricity |
+| Earth | Acid |
+| Fire | Fire |
+| Water | Cold |

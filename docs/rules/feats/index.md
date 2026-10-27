@@ -1486,9 +1486,11 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Ace Disarm](ace-disarm.md) | Targeting, Weapon Mastery | Dex 13, Deadly Aim, Ranged Disarm, base attack bonus +6, weapon training class feature with a ranged weapon |
 | [Ace Trip](ace-trip.md) | Targeting, Weapon Mastery | Dex 13, Deadly Aim, Ranged Trip, base attack bonus +6, weapon training class feature with a ranged weapon |
 | [Acrobatic Spellcaster](acrobatic-spellcaster.md) | Combat | Combat Casting, Skill Focus (Acrobatics) |
+| [Acupuncture Specialist](acupuncture-specialist.md) | — | Heal 5 ranks |
 | [Acute Shot](acute-shot.md) | — | Far Shot, Precise Shot |
 | [Advanced Armor Training](advanced-armor-training.md) | Combat | Armor training class feature, fighter level 3rd |
 | [Advanced Weapon Training](advanced-weapon-training.md) | Combat | Fighter level 5th, weapon training class feature |
+| [Aerial Roll](aerial-roll.md) | Combat | Fly 10 ranks |
 | [Agent of Fear](agent-of-fear.md) | — | Persuasive, frightening appearance class feature |
 | [Agile Maiden](agile-maiden.md) | Combat | Str 13, Dex 13, Endurance or armor training, heavy armor proficiency |
 | [Alchemical Strike](alchemical-strike.md) | Combat | Throw Anything, base attack bonus +6 |
@@ -1502,6 +1504,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Anatomical Savant](anatomical-savant.md) | Combat | Weapon Focus, base attack bonus +12 |
 | [Ancestral Enmity](ancestral-enmity.md) | Combat | Giant subtype |
 | [Ancestral Weapon Mastery](ancestral-weapon-mastery.md) | Combat | Base attack bonus +1, weapon familiarity racial trait |
+| [Ancient Tradition](ancient-tradition.md) | — | Knowledge (history) 3 ranks, must have a connection to a lost culture (see text) |
 | [Angelbane Strike](angelbane-strike.md) | — | Channel Smite, divine caster level 5th, channel negative energy class feature, evil patron deity |
 | [Animal Ally](animal-ally.md) | — | Nature Soul, character level 4th, must not have an animal companion or mount that advances as an animal companion |
 | [Anti-Divine Assault](anti-divine-assault.md) | Combat | Bluff 1 rank, Knowledge (religion) 1 rank, must have been trained to oppose divine servitors |
@@ -1535,6 +1538,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Atheist Abjurations](atheist-abjurations.md) | — | Divine Defiance |
 | [Augment Calling](augment-calling.md) | General | Spell Focus (conjuration); ability to cast lesser planar ally, lesser planar binding, or a higher-level version of these spells |
 | [Aura of Succumbing](aura-of-succumbing.md) | — | Channel energy class feature, worshiper of a deity of death or plague |
+| [Auspicious Birth](auspicious-birth.md) | — | Must be taken at 1st level |
 | [Authoritative Spell](authoritative-spell.md) | Metamagic | — |
 | [Aversion Tolerance](aversion-tolerance.md) | — | Vampire |
 | [Avid Spellbook Reader](avid-spellbook-reader.md) | — | Ability to prepare arcane spells |
@@ -2017,6 +2021,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Improved Toxicological Timing](improved-toxicological-timing.md) | — | Craft (alchemy) 11 ranks, Toxicological Timing |
 | [Improvisational Healer](improvisational-healer.md) | — | Heal 1 rank |
 | [Incite Paranoia](incite-paranoia.md) | Combat | Int 13, Combat Expertise, Deceitful, Greater Feint, Improved Feint, base attack bonus +6 |
+| [Incredible Healer](incredible-healer.md) | — | Heal 5 ranks |
 | [Inerrant Justice](inerrant-justice.md) | Story | See text |
 | [Infiltrator](infiltrator.md) | Story | See text |
 | [Innate Arcana](innate-arcana.md) | — | Arcane spellcaster, caster level 4th, serpentfolk |
@@ -2188,6 +2193,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Painful Cures](painful-cures.md) | — | Evil alignment |
 | [Pantheistic Blessing](pantheistic-blessing.md) | — | Wis 13, must worship a pantheon of deities |
 | [Passed Critical](passed-critical.md) | Combat | Combat Expertise, worshiper of a deity of luck or dreams |
+| [Pathologist](pathologist.md) | — | Incredible Healer |
 | [Peace of Mind](peace-of-mind.md) | Conduit | Knowledge (planes) 3 ranks |
 | [Peacemaker](peacemaker.md) | — | Charisma 13, good alignment |
 | [Penetrating Stare](penetrating-stare.md) | Combat, Stare | Mesmerist level 7th, painful stare class feature |
@@ -2279,6 +2285,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Rival](rival.md) | Story | See text |
 | [Robot’s Bane](robots-bane.md) | — | Knowledge (engineering) 5 ranks |
 | [Rugged Northerner](rugged-northerner.md) | — | Con 13, Survival 1 rank |
+| [Rushing Winds](rushing-winds.md) | Combat | Turbulent Takeoff, Fly 10 ranks |
 | [Ruthless Opportunist](ruthless-opportunist.md) | Combat, Teamwork | Human |
 | [Sabotage Magic Item](sabotage-magic-item.md) | — | Magical Aptitude, Disable Device 5 ranks, Use Magic Device 5 ranks |
 | [Sabotage Specialist](sabotage-specialist.md) | — | Deft Hands, Disable Device 5 ranks |
@@ -2304,6 +2311,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Seeds of Doubt](seeds-of-doubt.md) | — | Hex class feature, Divine Defiance |
 | [Seeking Spell](seeking-spell.md) | Metamagic | — |
 | [Seeping Darkness](seeping-darkness.md) | Teamwork | Drow, darkness racial spell-like ability |
+| [Self-Improvement](self-improvement.md) | — | Must be devoted to a philosophy of responsibility and self-improvement and not worship any deities |
 | [Selfish Channel](selfish-channel.md) | General | Channel energy class feature |
 | [Sense Assumptions](sense-assumptions.md) | — | Sense Motive 3 ranks |
 | [Sense Loyalties](sense-loyalties.md) | — | Knowledge (nobility) 1 rank, Knowledge (religion) 1 rank |
@@ -2341,6 +2349,9 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Sisterhood Rampart](sisterhood-rampart.md) | Combat | Cha 13, Shield Focus, Shield Wall, Sisterhood Style, BAB +4 |
 | [Sisterhood Style](sisterhood-style.md) | Combat, Style | Cha 13, Shield Focus, Weapon Focus (longsword), BAB +2 |
 | [Skaveling Companion](skaveling-companion.md) | — | 7th level in a class that grants an animal companion or mount, urdefhan |
+| [Skyseeker Impact](skyseeker-impact.md) | Combat | Con 13, Skyseeker Style, Skyseeker Thrash, Step Up, base attack bonus +9 |
+| [Skyseeker Style](skyseeker-style.md) | Combat, Style | Step Up, base attack bonus +1 |
+| [Skyseeker Thrash](skyseeker-thrash.md) | Combat | Con 13, Skyseeker Style, Step Up, base attack bonus +4 |
 | [Sleeper](sleeper.md) | — | [Warren Digger](warren-digger.md), ghoul |
 | [Sliding Axe Throw](sliding-axe-throw.md) | Combat | Dex 13, base attack bonus +1 |
 | [Sliding Dash](sliding-dash.md) | Combat | Dex 15, Acrobatics 10 ranks or acrobatic charge class feature, Bluff 3 ranks |
@@ -2396,6 +2407,8 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Stable Gallop](stable-gallop.md) | — | Animal or magical beast |
 | [Staggering Blow](staggering-blow.md) | Combat | Str 13, Power Attack, Vital Strike, base attack bonus +8 |
 | [Stance of the Xorn](stance-of-the-xorn.md) | Combat | Wis 15, base attack bonus +3 |
+| [Star-Chart Initiate](star-chart-initiate.md) | — | Knowledge (arcana) 1 rank, Knowledge (nature) 1 rank, Knowledge (planes) 1 rank |
+| [Star-Chart Scholar](star-chart-scholar.md) | — | Star-Chart Initiate, Knowledge (arcana) 5 ranks, Knowledge (nature) 5 ranks, Knowledge (planes) 5 ranks |
 | [Starry Grace](starry-grace.md) | Combat | Dex 13, Weapon Finesse, Weapon Focus (starknife) |
 | [Startling Getaway](startling-getaway.md) | Combat | Startling appearance class feature |
 | [Startoss Comet](startoss-comet.md) | Combat | Dex 13, Point-Blank Shot, Startoss Style, Weapon Focus with the chosen weapon |
@@ -2420,6 +2433,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Street Smarts](street-smarts.md) | — | — |
 | [Street Style](street-style.md) | Combat, Style | Str 15, Improved Bull Rush, Improved Unarmed Strike, Power Attack, base attack bonus +4 or monk level 3rd |
 | [Street Sweep](street-sweep.md) | Combat | Str 15, Improved Bull Rush, Improved Unarmed Strike, Power Attack, Street Style, base attack bonus +6 or monk level 5th |
+| [Strength of Obligation](strength-of-obligation.md) | — | Must be devoted to a philosophy of responsibility and self-improvement and not worship any deities |
 | [Structural Strike](structural-strike.md) | Combat, Panache | Knowledge (engineering) 5 ranks, precise strike class feature or precise strike deed |
 | [Studied Spell](studied-spell.md) | Metamagic | — |
 | [Stumbling Bash](stumbling-bash.md) | Shield Mastery | Improved Shield Bash, Shield Focus, base attack bonus +6 or fighter level 4th |
@@ -2515,6 +2529,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Truth in Wine](truth-in-wine.md) | — | Appraise 3 ranks |
 | [Tumultuous Spell](tumultuous-spell.md) | Metamagic | — |
 | [Tundra Stride](tundra-stride.md) | — | Acrobatics 5 ranks |
+| [Turbulent Takeoff](turbulent-takeoff.md) | Combat | Fly 5 ranks |
 | [Twilight Tattoo](twilight-tattoo.md) | — | Wis 13 |
 | [Twin Fang Lunge](twin-fang-lunge.md) | Combat | Dex 15, Quick Draw, Twin Fang Strike, Twin Fang Style, Two-Weapon Fighting, Acrobatics 8 ranks, base attack bonus +8 or monk level 8th |
 | [Twin Fang Strike](twin-fang-strike.md) | Combat | Dex 15, Quick Draw, Twin Fang Style, Two-Weapon Fighting, Acrobatics 6 ranks, base attack bonus +6 or monk level 6th |
@@ -2585,6 +2600,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Willing Accomplice](willing-accomplice.md) | — | Cha 13, Bluff 3 ranks, Sense Motive 1 rank |
 | [Wily Warrior](wily-warrior.md) | Story | See text |
 | [Wind Leaper](wind-leaper.md) | Conduit | Knowledge (planes) 3 ranks |
+| [Wind Rider](wind-rider.md) | — | Acrobatics or Fly 3 ranks |
 | [Wind Rush](wind-rush.md) | Combat, Style | Dex 13, Wis 13, Mobility, Elemental Discipline Style (wind), Quick Draw, Wind Strike, base attack bonus +13 or monk level 13th |
 | [Wind Song](wind-song.md) | — | Perform (wind instruments) 5 ranks; bardic performance or raging song class feature |
 | [Wind Strike](wind-strike.md) | Combat, Style | Dex 13, Wis 13, Elemental Discipline Style (wind), Quick Draw, base attack bonus +9 or monk level 9th |

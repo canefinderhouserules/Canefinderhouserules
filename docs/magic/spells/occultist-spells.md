@@ -88,6 +88,7 @@ Occultists gain access to the following spells, determined by their chosen imple
 - **[Mage Armor](mage-armor.md)**: Gives subject +4 armor bonus.
 - **[Mount](mount.md)**: Summons riding horse for 2 hours/level.
 - Returning Weapon
+- **[Skim](skim.md)**: read in a quarter of the time
 - **[Spirit Share](spirit-share.md)**: Deliver a drink or potion by touch
 - **[Tears to Wine](tears-to-wine.md)**: Turn liquids into wine that sharpens the mind.
 - **[True Appraisal](true-appraisal.md)**: Gain insight into the value of objects
@@ -363,6 +364,8 @@ Occultists gain access to the following spells, determined by their chosen imple
 - **[Magic Circle against Evil](magic-circle-against-evil.md)**
 - **[Magic Circle against Good](magic-circle-against-good.md)**
 - **[Magic Circle against Law](magic-circle-against-law.md)**
+- **[Mark of Buoyancy](mark-of-buoyancy.md)**: make an object lighter than air
+- **[Mnemonic Siphon](mnemonic-siphon.md)**: rune that steals spells cast near an object
 - **[Nondetection](nondetection.md)**: Hides subject from divination, scrying.
 - **[Poison Exchange](poison-exchange.md)**: Swallow one poison and regurgitate another.
 - **[Protection from Energy](protection-from-energy.md)**: Absorbs 12 points/level of damage from one kind of energy.
@@ -372,6 +375,7 @@ Occultists gain access to the following spells, determined by their chosen imple
 - **[Retributive Reparations](retributive-reparations.md)**: Thieves of the warded item grow fatigued, then exhausted.
 - **[Selective Alarm](selective-alarm.md)**: As *alarm*, but only against selected creatures.
 - **[Shaper’s Touch](shapers-touch.md)**: Reshape an object as though it were clay.
+- **[Summon Ship](summon-ship.md)**: conjure a ship
 - **[Thaumaturgic Circle](thaumaturgic-circle.md)**: As magic circle, but affecting a nonalignment subtype or outsider race.
 - **[Threefold Sight](threefold-sight.md)**: Roll three d20 and take the middle result.
 - **[Vigilant Rest](vigilant-rest.md)**: Cause a sleeping creature to retain some perception of its surroundings.

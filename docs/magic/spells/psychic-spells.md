@@ -143,6 +143,7 @@ Psychics gain access to the following spells. Spells without a link come from ot
 - **[Share Language](share-language.md)**: Subject understands chosen language.
 - **[Shield](shield.md)**: Invisible disc gives +4 to AC, blocks *magic missiles.*
 - **[Silent Image](silent-image.md)**: Creates minor illusion of your design.
+- **[Skim](skim.md)**: read in a quarter of the time
 - **[Sleep](sleep.md)**: Puts 4 HD of creatures into magical slumber.
 - Sow Thought
 - **[Songbird](songbird.md)**: Conjure music from a good-aligned plane
@@ -449,6 +450,7 @@ Psychics gain access to the following spells. Spells without a link come from ot
 - **[Major Image](major-image.md)**: As *silent image*, plus sound, smell and thermal effects.
 - **[Mantle of Calm](mantle-of-calm.md)**: Neutralize the rage effects of those who have attacked you.
 - **[Marionette Possession](marionette-possession.md)**: As magic jar, but limited to line of sight.
+- **[Mark of Buoyancy](mark-of-buoyancy.md)**: make an object lighter than air
 - **[Meld into Stone](meld-into-stone.md)**: You and your gear merge with stone.
 - **[Mental Barrier II](mental-barrier-ii.md)**: As mental barrier I, but +6 to AC.
 - **[Mind Thrust III](mind-thrust-iii.md)**: As mind thrust II, but deal a maximum of 10d8 points of damage.
@@ -487,6 +489,7 @@ Psychics gain access to the following spells. Spells without a link come from ot
 - **[Shadow Enchantment](shadow-enchantment.md)**: Quasi-real enchantment of 2nd level or lower.
 - **[Shamefully Overdressed](shamefully-overdressed.md)**: Force target to remove equipment.
 - **[Share Senses](share-senses.md)**: See/hear/smell what your familiar is.
+- **[Shared Training](shared-training.md)**: grant a teamwork feat to allies
 - **[Shrink Item](shrink-item.md)**: Object shrinks to one-sixteenth size.
 - **[Slow](slow.md)**: One subject/level takes only one action/round, –1 to AC, Reflex saves, and attack rolls.
 - **[Speak with Dead](speak-with-dead.md)**: Corpse answers one question/two levels.
@@ -647,6 +650,7 @@ Psychics gain access to the following spells. Spells without a link come from ot
 - **[Spellcrash, Lesser](spellcrash-lesser.md)**
 - **[Stoneskin](stoneskin.md)**: Grants DR 10/adamantine.
 - **[Summon Monster IV](summon-monster-iv.md)**: (Evil creatures only.) Summons extraplanar creature to fight for you.
+- **[Summon Ship](summon-ship.md)**: conjure a ship
 - **[Synaptic Scramble](synaptic-scramble.md)**: Prevent the target from communicating and cause it to act randomly.
 - **[Telekinesis](telekinesis.md)**: Moves object, attacks creature, or hurls object or creature.
 - Telekinetic Charge

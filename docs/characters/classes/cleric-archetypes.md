@@ -665,3 +665,25 @@ Some clerics revere their deity as the embodiment of nature and the incarnation 
 | 7th | *elemental body IV* (water only) |
 | 8th | *seamantle* |
 | 9th | *elemental swarm* (water only) |
+
+## Lawspeaker
+
+Priest-judges presided over justice in a fallen realm, driven by a zeal for discovering the truth. After the realm's fall, the survivors spread their philosophy of certain and unwavering justice far and wide.
+
+**Alignment**: A lawspeaker must be lawful.
+
+**Divine Judgment**: A lawspeaker must select the Law domain or any subdomain of Law offered by her deity. She does not gain a second domain. This alters domains.
+
+**Circumvent Obfuscation (Sp)**: As a standard action, a lawspeaker can expend two uses of channel energy to expose truths and banish falsehoods. The energy manifests as a spell-like ability, and this action does not count as channeling for the purposes of abilities and feats. Unless listed otherwise, the resulting abilities use the lawspeaker's cleric level as her caster level and have the same range and required components as the corresponding spell. The spell-like abilities available are cumulative and are listed below at the level at which the lawspeaker can first access them.
+
+| Level | Spell-Like Ability |
+|---|---|
+| 1st | *calm emotions* |
+| 3rd | *zone of truth* |
+| 5th | *invisibility purge* |
+| 7th | *discern lies* |
+| 9th | *true seeing* (self only) |
+| 11th | *greater dispel magic* (30-foot burst; targets only illusion spells, polymorph effects, and spells granting a bonus on Bluff and Disguise checks) |
+| 13th | *communal tongues* |
+| 15th | *discern location* |
+| 17th | *antimagic field* (30-foot radius) |

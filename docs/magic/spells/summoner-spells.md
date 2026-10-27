@@ -85,6 +85,7 @@ New summoner spells from *Ultimate Magic*. Spells from other books will be added
 - **[Life Conduit, Improved](life-conduit-improved.md)**: Transfers 2d6 hit points to your eidolon as a swift action.
 - **[Mad Monkeys](mad-monkeys.md)**: Summon a swarm of mischievous monkeys.
 - **[Marionette Possession](marionette-possession.md)**: As magic jar, but limited to line of sight.
+- **[Mark of Buoyancy](mark-of-buoyancy.md)**: make an object lighter than air
 - **[Master's Escape](masters-escape.md)**: Swap places with a summoned creature
 - **[Night of Blades](night-of-blades.md)**: Wall of whirling blades.
 - **[Obsidian Flow](obsidian-flow.md)**: Converts the surface of the ground into molten glass. Spells 6 Protection from Energy, Communal: As protection from energy, but you may divide the duration among creatures touched.
@@ -104,6 +105,7 @@ New summoner spells from *Ultimate Magic*. Spells from other books will be added
 - **[Shared Sacrifice](shared-sacrifice.md)**: Redirect half your damage to a target.
 - **[Siphon Might](siphon-might.md)**: Drains target's Strength and grants it to an ally.
 - **[Spider Climb, Communal](spider-climb-communal.md)**: As spider climb, but you may divide the duration among creatures touched.
+- **[Summon Ship](summon-ship.md)**: conjure a ship
 - **[Sundered Serpent Coil](sundered-serpent-coil.md)**: Summon a grappling serpent coil
 - **[Swarm of Fangs](swarm-of-fangs.md)**: Summon a swarm of flying teeth
 - **[Toxic Blood](toxic-blood.md)**: Target's blood sprays black adder venom when cut.

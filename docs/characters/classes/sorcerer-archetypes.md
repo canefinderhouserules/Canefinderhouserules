@@ -266,6 +266,30 @@ Channeling the power of your shapeshifting ancestors that you carry in your bloo
 
 **Amorphous Anatomy (Su)**: At 20th level, your vital organs shift position, and as a rule they are constantly changing their shape and size to best protect you. You gain immunity to critical hits and sneak attacks. In addition, you gain blindsight with a range of 60 feet and damage reduction 5/—. You automatically recover from physical blindness or deafness after 1 round by growing new sensory organs to replace the compromised ones; you cannot otherwise regenerate lost body parts.
 
+### Vestige
+
+You trace your ancestry to a bygone civilization and can call upon its forgotten people or places for power.
+
+**Class Skill**: Knowledge (history).
+
+**Bonus Spells**: *identify* (3rd), *share memory* (5th), *arcane sight* (7th), *hypercognition* (9th), *telepathic bond* (11th), *analyze dweomer* (13th), *vision* (15th), *discern location* (17th), *foresight* (19th).
+
+**Bonus Feats**: Arcane Strike, Augment Summoning, Craft Wondrous Item, Echoing Spell, Iron Will, Leadership, Skill Focus (Knowledge [history]), Spell Focus.
+
+**Bloodline Arcana**: Whenever you cast a spell of the divination school, you see into the past. You gain an insight bonus equal to the divination spell's level on the next Appraise, Craft, or Knowledge skill check you attempt within 24 hours.
+
+**Bloodline Powers**: Your connection to your past allows you to tap into ancient secrets and power.
+
+**Bonded Object (Sp)**: At 1st level, you gain an arcane bond, per a wizard equal to your sorcerer level, with an object constructed by a long-lost civilization. Your sorcerer levels stack with any wizard levels you have when determining the powers of your bonded object. This ability does not allow you to have both a familiar and a bonded object. Once per day, your bonded object allows you to cast any one of your spells known and increase the save DC of that spell by 1.
+
+**Restored Glory (Su)**: At 3rd level, objects in your possession with the broken condition function as if they did not have the broken condition, though if they reach 0 hit points they are destroyed as normal. At 9th level, destroyed objects (objects with 0 hit points) in your possession function and appear as if they had only the broken condition, though if they reach a number of negative hit points equal to your level, they become fully destroyed and don't function at all, even in your possession. At 15th level, destroyed objects in your possession function and appear as if fully repaired, though they can become fully destroyed as described above. Destroyed objects must have physical pieces left to be affected by this ability. Objects that leave your possession are affected normally by these conditions. This ability does not affect artifacts.
+
+**Call Ancestor (Sp)**: At 9th level, once per day, you can spend a standard action to grant a long-dead relative a brief facsimile of life. This functions as the *lesser simulacrum* spell, except the simulacrum lasts only 1 round per sorcerer level you have, has the same statistics as you, and always has the likeness of an ancestor. In addition, the simulacrum has lost knowledge from the past. When summoning the simulacrum, select one Knowledge skill. The simulacrum is considered trained in that skill and has a bonus on Knowledge checks of this type equal to twice your level plus your Intelligence modifier. The simulacrum is under your control, but it cannot attack or take hostile actions. At 17th level, you can use this ability twice per day. At 20th level, you can use this ability three times per day. You cannot have more than one ancestor simulacrum active at any one time.
+
+**Eternal Past (Su)**: At 15th level, you gain an immersive mindscape. This functions as a permanent *greater create mindscape* spell, except it must appear as a lost civilization, and you do not target any other creatures when the mindscape is created. You can open a conduit to your mindscape as a standard action at will (per the *mindscape door* spell), allowing you or other creatures to enter or leave. The mindscape is only as detailed as your knowledge of the lost civilization but still holds valuable secrets. The mindscape functions as a library for all Knowledge skills; while within your mindscape, you can spend 1d4 hours researching to use a Knowledge (history) check in place of any other Knowledge check.
+
+**Manifest Memory (Su)**: At 20th level, you can overlay portions of your mindscape onto the world around you. This functions as the *mirage arcana* spell, except all structures and terrain created must be places appearing within your mindscape. You can use this ability at will, but you can maintain only a single manifest memory at any one time. You can allow any creature you can see who has previously entered your mindscape to automatically disbelieve the illusion as a free action.
+
 ## Advanced Player's Guide Bloodlines
 
 New spells presented in the Advanced Player's Guide are marked with asterisks (\*).

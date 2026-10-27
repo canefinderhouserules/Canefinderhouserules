@@ -53,6 +53,8 @@ These traits are associated with combat, battle, and physical prowess. They give
 
 **Dueling Caution**: You learned defensive moves from duelists. You gain an additional +1 dodge bonus to Armor Class while you fight defensively or use the total defense action.
 
+**Dwarven Trained**: You know the ancient fighting techniques of an old dwarven empire. You gain a +1 trait bonus on damage rolls when using any weapon with the word "dwarven" in its name.
+
 **Easy Way or the Hard Way**: You are skilled at subduing your enemies. Whenever you attack one of your favored enemies with a weapon that deals lethal damage and choose to deal nonlethal damage, you take only a –2 penalty on the attack roll instead of the normal –4.
 
 **Elemental Apprentice**: You spent your childhood in a region where the use of elemental magic is commonplace or the environment is heavily infused with elemental energies, such as the slope of an active volcano or a hurricane-lashed coast. Your time near raw elemental energies has inured you to taking damage from them. At character creation, select acid, cold, electricity, or fire (once chosen, this damage type can’t be changed). Once per day as a free action, when you hit a creature with a melee weapon, you can convert an amount of damage dealt by your attack equal to your character level into the selected energy type. You cannot convert this damage if any damage from the attack would normally deal a different type of energy damage (such as that of a *flaming* weapon).
@@ -96,6 +98,8 @@ These traits are associated with combat, battle, and physical prowess. They give
 **Merciful Scimitar**: You learned from redemptive warriors to cut foes with a scimitar without killing them. You can deal nonlethal damage with a scimitar without taking a penalty on your attack rolls.
 
 **Monk Weapon Skill**: Your exposure to teaching from a martial monastic school makes your attacks with monk weapons even more deadly. Select one monk weapon with which you are proficient (unarmed attacks do not qualify for this purpose). You gain a +1 trait bonus on damage rolls with this weapon.
+
+**Natural Flier**: All your life, the sky has beckoned to you, and you have dreamed of reveling in the freedom and bliss of flight. You gain a +1 trait bonus on Fly checks, as well as Acrobatics checks attempted while flying. Fly is always a class skill for you.
 
 **Nature’s Mimic**: Your knowledge of nature informs your fighting style, and that style gives you insight into related aspects of the natural world. You gain a +1 trait bonus on all Knowledge (nature) checks, and Knowledge (nature) is always a class skill for you. You can make Knowledge (nature) checks pertaining to animals that correspond to your style feats untrained.
 
@@ -293,11 +297,15 @@ These traits rely upon conviction of spirit, perception, and religion, but are n
 
 These traits are associated with magic and focus on spellcasting and manipulating magic. You don’t have to be a spellcaster to take a magic trait (although several of these traits aren’t useful to non-spellcasters). Magic traits can represent a character’s early exposure to magical effects or childhood studies of magic.
 
+**Aeromantic Affinity**: One of your distant ancestors was either a powerful aeromancer or a creature of elemental air, granting you greater skill with air magic. You treat your caster level as 1 higher when casting spells with the air or electricity descriptor.
+
 **Air-Touched**: You share an affinity with elemental air. You gain DR 1/— against creatures and attacks with the air type.
 
 **Alchemical Adept:** You are skilled in creating alchemical items. You gain a +2 trait bonus on all Craft (alchemy) checks made to craft alchemical items. Furthermore, when you fail a Craft (alchemy) check by 5 or more but don’t roll a natural 1, you don’t ruin any raw materials or have to pay that cost again.
 
 **Alchemical Intuition**: You are often struck with epiphanies about alchemical processes and substances. Once per day as a free action, you may gain a trait bonus equal to your Charisma modifier (minimum 0) on a Craft (alchemy) check you make. You can apply this bonus after you roll the check, possibly turning a failure into a success.
+
+**Arcane Researcher**: Your curiosity and ingenuity have driven you to experiment and push new boundaries, and you have a knack for tampering with magic. You gain a +4 trait bonus on Knowledge (arcana) and Spellcraft checks to research, modify, and create new spells.
 
 **Arcane Revitalization**: Your martial prowess can feed your arcane power. Once per day, when you confirm a critical hit with a weapon attack, you regain 1 arcane pool point. You can’t exceed your maximum number of arcane pool points.
 
@@ -352,6 +360,8 @@ These traits are associated with magic and focus on spellcasting and manipulatin
 **Magical Lineage**: One of your parents was a gifted spellcaster who not only used metamagic often, but also developed many magical items and perhaps even a new spell or two—and you have inherited a fragment of this greatness. Pick one spell when you choose this trait. When you apply metamagic feats to this spell that add at least 1 level to the spell, treat its actual level as 1 lower for determining the spell’s final adjusted level.
 
 **Malleable Magic**: Once per day as a swift action, you can lose a single 1st-, 2nd- or 3rd-level magus spell to regain 1 arcane pool point. You can’t exceed the maximum number of arcane pool points in your arcane pool by using this trait.
+
+**Mechanical Aptitude**: You have learned much from tinkering with ancient technology from a lost imperium. Choose one of the following skills: Disable Device, Knowledge (engineering), or Use Magic Device. Once per day, you can reroll a check with that skill before the outcome of the check is revealed. You must take the second result, even if it is worse.
 
 **Meticulous Concoction**: Your meticulous carefulness makes your bombs and extracts more potent. Once per day, you can either add a +2 trait bonus to the save DC for one bomb you throw or extend the duration of one extract you imbibe by 2 rounds. Extracts with an instantaneous duration are not affected by this trait.
 
@@ -419,6 +429,8 @@ Social traits reflect your upbringing; your background in high society or lack t
 
 **Ambitious**: You exude confidence in the presence of those more powerful than you—sometimes unreasonably so. You gain a +4 trait bonus on Diplomacy checks made to influence creatures with at least 5 Hit Dice more than you possess.
 
+**Ancestral Armor**: You inherited an ancient set of armor from a fallen dwarven empire. You begin play with a set of masterwork armor of your choice. You must be proficient in wearing this armor, and the armor's total cost cannot exceed 300 gp.
+
 **Artisan**: You spent time working under artisans, or your parents were artisans who were particularly skilled at their trade. You gain a +2 trait bonus on a single Craft skill (your choice).
 
 **Bastard**: You were born out of wedlock. You have always been an outsider in society, and in your own family. This perspective has sharpened your insight. You gain a +1 trait bonus on Sense Motive checks, and Sense Motive is always a class skill for you.
@@ -444,6 +456,8 @@ Social traits reflect your upbringing; your background in high society or lack t
 **Detect Disobedience**: You have an uncanny ability to spot a mutiny brewing. You gain a +2 trait bonus on Sense Motive checks to detect when an underling is trying to hide something from you, and can attempt such checks instead of Perception checks to notice and react to a subordinate’s surprise attack against you.
 
 **Elemental Negotiator**: You have traveled to the Elemental Planes under the protection of a powerful group of merchants or spellcasters. At character creation, you learn one of the following languages as a bonus language: Aquan, Auran, Ignan, or Terran. Additionally, your options for bonus languages from having a high Intelligence score include the other three elemental languages, in addition to those language options allowed by your race and class. You gain a +2 trait bonus on Diplomacy and Bluff checks when using one of these languages to communicate with a creature originating from the language’s corresponding Elemental Plane.
+
+**Excellent Penmanship**: You are a master of calligraphy, an art once highly valued in a fallen empire. The DC to detect forgeries you create increases by 2. If you attempt to persuade someone via a written message, you gain a +2 bonus on any Bluff, Diplomacy, or Intimidate check attempted for that communication. Linguistics is always a class skill for you.
 
 **Fast Talker**: You had a knack for getting yourself into trouble as a child, and as a result developed a silver tongue at an early age. You gain a +1 trait bonus on Bluff checks, and Bluffis always a class skill for you.
 
@@ -484,6 +498,8 @@ Social traits reflect your upbringing; your background in high society or lack t
 **Ordinary**: The only thing extraordinary about your appearance is its ordinariness. You carry yourself in an understated way, and many people who see your face soon forget it. You gain a +4 trait bonus on Stealth checks whenever you attempt to hide in a crowd.
 
 **Orphaned**: You grew up separated from your birth parents, and had to learn to watch out for yourself. You gain a +1 trait bonus on Survival checks, and Survival is always a class skill for you.
+
+**Outsider Enmity**: One of your ancestors was a conjurer who specialized in binding outsiders of a particular type. You have inherited some of his skills, but also some of his enemies. Choose a single outsider subtype. The DC of your spells increases by 1 against outsiders of the chosen subtype. Outsiders of the chosen subtype gain a +1 morale bonus on attack and damage rolls made against you, and their starting attitude toward you is reduced by one step.
 
 **Passionate Inertia**: Your passions drive your thinking so irresistibly that even magic struggles to change your mind. You gain a +2 trait bonus on Will saves to resist having your mind changed about something, but you take a –1 penalty on Will saves to resist temptation and compulsions you might reasonably be already inclined toward.
 

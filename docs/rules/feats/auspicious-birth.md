@@ -1,0 +1,19 @@
+# Auspicious Birth
+
+You were born under favorable astrological conditions, such as during a celestial conjunction.
+
+**Prerequisites**: Must be taken at 1st level.
+
+**Benefit**: Choose one of the following benefits based on the astrological event that occurred during your birth.
+
+*Apparent Retrograde*: You gain a +1 luck bonus on Reflex saves. A natural 1 on a Reflex save is not considered an automatic failure for you.
+
+*Conjunction*: When benefiting from a teamwork feat, increase the bonus you and your allies receive from that feat by 1, if any.
+
+*Eclipse*: When benefiting from soft cover from an attack or effect, you are treated as if benefiting from hard cover instead. You cannot use this ability to use soft cover for Stealth checks.
+
+*Meteor Shower*: You receive a cumulative +1 dodge bonus to AC against ranged attacks for each ranged attack beyond the first made against you in a single round, up to a maximum of +4. This bonus lasts until the beginning of your next turn.
+
+*Passing Comet*: You gain a +2 insight bonus on skill checks used with an occult skill unlock.
+
+*Sun Sign*: Your spells and spell-like abilities with the light descriptor are treated as if they were 1 spell level higher for determining spell save DCs. The level of spell with the darkness descriptor that they can counter or dispel also increases by 1.

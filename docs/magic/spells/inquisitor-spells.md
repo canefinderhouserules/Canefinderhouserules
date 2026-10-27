@@ -63,6 +63,7 @@ New inquisitor spells from *Ultimate Magic*. Spells from other books will be add
 - **[Sanctify Corpse](sanctify-corpse.md)**: Prevent a corpse from becoming an undead.
 - **[Scarify](scarify.md)**: Convert lethal damage to nonlethal, leaving scars
 - **[Secret Speech](secret-speech.md)**: Send hidden messages within normal speech.
+- **[Skim](skim.md)**: read in a quarter of the time
 - **[Speak Local Language](speak-local-language.md)**: Speak and understand one known regional human language.
 - **[Stalwart Resolve](stalwart-resolve.md)**: Ignore ability damage to one score.
 - **[Theft Ward](theft-ward.md)**: You ward a single object in your possession against theft.
@@ -161,6 +162,7 @@ New inquisitor spells from *Ultimate Magic*. Spells from other books will be add
 - **[Shackle](shackle.md)**: Conjure manacles or fetters.
 - **[Shamefully Overdressed](shamefully-overdressed.md)**: Force target to remove equipment.
 - **[Shared Suffering](shared-suffering.md)**: Take damage to deal the same damage to a distant target.
+- **[Shared Training](shared-training.md)**: grant a teamwork feat to allies
 - **[Shield of Shards](shield-of-shards.md)**: Your shield breaks into orbiting shards that attack.
 - **[Shifted Steps](shifted-steps.md)**: Make a target sound as if elsewhere.
 - **[Spell Gauge](spell-gauge.md)**: Reveal some of a target’s spells.
