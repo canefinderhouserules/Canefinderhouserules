@@ -140,6 +140,38 @@ The randomly stolen thoughts remain in your mind for a number of rounds equal to
 
 **Final Revelation**: Upon reaching 20th level, you become a true master of time and stop aging. You cannot be magically aged and no longer take penalties to your ability scores for aging. Age bonuses still accrue, and any aging penalties that you have already accrued remain in place. You cannot die of old age, but you can be killed or die through accident, disease, poison, or other external effects. In addition, you can cast time stop once per day as a spell-like ability.
 
+### Whimsy
+
+**Typical deities**: a god of laughter, mischief, and transformation; a goddess of seduction and plants; a god of seasons and wanderers; a god of entropy and time.
+
+**Class Skills**: An oracle with the whimsy mystery adds Bluff, Disguise, Perform, Sleight of Hand, and Stealth to her list of class skills.
+
+**Bonus Spells**: faerie fire (2nd), hideous laughter (4th), shamefully overdressed (6th), major image (8th), lesser entice fey (10th), mislead (12th), entice fey (14th), irresistible dance (16th), greater entice fey (18th).
+
+**Revelations**: An oracle with the whimsy mystery can choose from any of the following revelations. Whimsy oracles gain powers from capricious fey tricksters.
+
+**Assumed Form (Sp)**: You can change your appearance at will, as *disguise self* with a caster level equal to your oracle level. At 7th level, you can instead physically transform, as *alter self*. At 11th level, this ability lasts until you dismiss it or use it again, allowing you to keep it active while you sleep.
+
+**Capricious Misdirection (Sp)**: Your ever-changing nature allows you to misdirect aura-reading divinations with ease. You are constantly under the effects of a *misdirection* spell, except that you can take a standard action to select a creature or object within 60 feet to serve as the target of detection spells used against you until you select a different creature or object. You must be at least 7th level to select this revelation.
+
+**Feywise (Ex)**: Your whimsy grants you protection from fey mischief. You gain the resist nature's lure druid class feature. In addition, you gain a +2 bonus on Perception, Sense Motive, and Survival checks against fey. You must be at least 3rd level to select this revelation.
+
+**Flicker (Sp)**: You can flicker from sight for a short time, allowing you to escape or set up a prank. As a swift action, you can disappear for 1 round per oracle level. This ability functions as *invisibility*. You can use this revelation a number of times per day equal to half your oracle level (minimum 1).
+
+**Misdirection Mastery (Su)**: You gleefully evade attacks and confound foes with your capricious misdirection. You receive Misdirection Tactics as a bonus feat. At 10th level, you receive Misdirection Redirection as a bonus feat, and at 15th level you receive Misdirection Attack as a bonus feat. You do not need to meet the prerequisites to receive these feats. You must be at least 3rd level to select this revelation.
+
+**Pure Whimsy (Su)**: Once per day, you can release a stream of errant chaos from the fey realm as a standard action. When you do so, identify a target within 90 feet and generate a random effect as from a *rod of wonder* (or, at the GM's discretion, another random or unusual effect of similar power). The DC of any required saving throw is 10 + half your oracle level + your Charisma modifier, and no effect from this ability persists for more than 1 day. You can use this ability once per day at 7th level and one additional time per day for every 4 levels beyond 7th. You must be at least 7th level to select this revelation.
+
+**Versatile Comedy (Ex)**: The powers of whimsy infuse your comedy with the ability to awe and befuddle. You can use your total Perform (comedy) bonus in place of your Bluff and Intimidate bonuses.
+
+**Whimsical Prank (Su)**: As a standard action, you can call upon fey to play a prank on a creature within 30 feet as a dirty trick combat maneuver. Resolve this attempt as normal, except that it doesn't provoke attacks of opportunity, you use your oracle level in place of your Combat Maneuver Bonus, and you add your Charisma modifier in place of your Strength or Dexterity modifier. No save is allowed against this attempt, but a creature affected by this revelation cannot be the target of this revelation again for 1 day.
+
+**Whimsical Step (Su)**: Once per day as a move action, you can teleport up to 10 feet per oracle level. You can use this ability once per day at 7th level and one additional time per day for every 4 levels beyond 7th. You must be at least 7th level to select this revelation.
+
+**Woodland Caprice (Su)**: Your fey powers allow you to move easily through woodland environments. You gain woodland stride, as per the druid ability. At 7th level, you also gain the trackless step druid class feature and can similarly conceal the tracks of any allies within 30 feet that you choose.
+
+**Final Revelation**: Upon reaching 20th level, you become a fey trickster in the flesh. Your type changes to fey and you gain low-light vision, immunity to poison, and DR 10/cold iron.
+
 ### Wood
 
 **Typical deities**: a god of family, farming, hunting, and trade; a god of nature, the sea, and weather.
@@ -578,3 +610,21 @@ A cyclopean seer draws power from the mysterious prophetic abilities of ancient 
 This ability alters the revelation class feature.
 
 **Final Revelation**: Upon reaching 20th level, you embody ancient cyclopes' insight. You can use each of the following once per day as a spell-like ability: *discern location*, *prying eyes*, and *stone tell*. In addition, using flash of insight to select a d20 roll result equal to or lower than your Charisma modifier doesn't expend that ability. This replaces the final revelation of the oracle's mystery.
+
+## Hermit
+
+A hermit is a recluse who gained her oracular powers from isolation in a deep desert, on a mountain peak, or in another secluded location. A connection to untraveled places gives the hermit powers to evade her enemies.
+
+**Mystery**: A hermit must choose a mystery that adds Survival to her list of class skills, such as nature or stone.
+
+**Oracle's Curse**: A hermit must choose the reclusive curse at 1st level.
+
+**Bonus Spells**: *Blindness/deafness* (4th), *crushing despair* (8th), *wall of force* (12th), *maze* (16th). These bonus spells replace the oracle's normal mystery bonus spells at these levels.
+
+**Revelations**: A hermit must take the following revelations at the listed levels.
+
+*Recluse's Stride (Su)*: Your base speed increases by 10 feet. At 5th level, once per round when leaving a square, you can treat the square as though it isn't threatened by any opponents that you can see. At 10th level, you can teleport a distance equal to your base land speed (as per *dimension door*) as a move action, provided that there are no other creatures within 10 feet of you when you use this ability and no other creatures within 10 feet of your destination. You can teleport a number of times per day equal to 3 + your Charisma modifier. You must take this revelation at 1st level.
+
+*Fade from Memory (Su)*: At 7th level, whenever there are no creatures within 10 feet of you at the end of your turn, you gain 20% concealment until the beginning of your next turn as a free action. At 14th level, you instead gain 50% concealment until the beginning of your next turn. You can use this ability a number of times per day equal to your oracle level. You must take this revelation at 7th level.
+
+**Recommended Mysteries**: Heavens, life, nature, stone.

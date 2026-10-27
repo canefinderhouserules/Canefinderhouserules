@@ -82,6 +82,12 @@ The following racial traits might be selected instead of existing racial traits.
 
 **Industrious Urbanite**: Dwarves who have adapted to the expectations of their host cities make double the normal progress on Craft checks to create nonmagical items and gain a +4 bonus on Profession checks to earn money. This racial trait replaces hatred.
 
+### Fey Heritage Alternate Racial Traits
+
+The following racial traits represent a fey ancestor in the family line. They can be selected instead of the indicated racial traits. Consult your GM before selecting any of these options.
+
+**Wanderer**: Freed from the confines of duty, certain fey-touched dwarves are stricken with wanderlust. These dwarves are often considered untrustworthy vagabonds by other dwarves but excel at the rigors of traveling. They gain Endurance as a bonus feat, and Climb and Swim are class skills for them. This racial trait replaces hardy.
+
 ## Racial Subtypes
 
 You can combine various alternate racial traits to create dwarven subraces or variant races, such as the following.

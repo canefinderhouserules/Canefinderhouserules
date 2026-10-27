@@ -48,6 +48,16 @@ The following racial traits can be selected in place of the typical gathlain rac
 
 **Tree Dialect**: A rare few gathlains are born with the knowledge of an ancient way of speech that allows them to communicate with trees. Once per day, they can cast speak with plants (trees only) as a spell-like ability with a caster level equal to the gathlain’s character level. This replaces spell-like abilities.
 
+**Body Thorns**: Gathlains that mature in particularly hostile environments develop thorns on their vines to protect them from overeager herbivores. A gathlain with this racial trait is considered to be wearing masterwork armor spikes when not wearing armor or bulky clothing, and it is proficient with armor spikes. These thorns can be sundered or destroyed as if they were a worn object (hardness 1, 5 hp), but grow back 1 week later. This racial trait replaces the spell-like abilities racial trait.
+
+**Flower Born**: Some gathlain seeds find their way to a realm of alluring blossoms. Gathlains grown there sprout beautiful but delicate hibiscus flowers on their vines and emit a seductive pheromone. Gathlains with this trait gain a +2 racial bonus on Diplomacy and Handle Animal checks. This racial trait replaces natural armor.
+
+**Photosynthetic Vision**: Occasionally the tendrils of a gathlain's symbiotic vines wrap around the gathlain's face like a leafy mask. The vines supplement the gathlain's vision with photosynthetic receptors. Gathlains with this racial trait gain a +2 racial bonus on Perception checks. Photosynthetic vision replaces low-light vision.
+
+**Sticky Tendrils**: When a gathlain seed finds itself taking root in an environment that warps and changes erratically, the resulting gathlain learns to cling tenaciously with its vines. The gathlain can cling to walls and even ceilings as long as the surface has handholds, and it is treated as being constantly under the effects of a nonmagical *spider climb* spell (except that the gathlain may not cling to smooth surfaces). The gathlain's vines provide only the ability to glide rather than true flight; the gathlain takes no damage from falling, as if subject to a constant nonmagical *feather fall* spell. While in midair, a gathlain can move up to 5 feet horizontally for every 1 foot it falls, at a speed of 60 feet per round. The gathlain cannot gain height with its wings, but instead coasts in other directions as it falls. If subjected to strong winds or any other effect that causes it to rise, the gathlain can take advantage of this updraft to increase the distance it can glide. This racial trait replaces the gathlain's fly speed.
+
+**Symbiotic Imbalance**: Occasionally the conditions for a gathlain seed's growth heavily favor the plant portion of its body, causing more nutrients to go to the building of its vine wings and fewer to developing the gathlain's legs. These gathlains have larger wings than normal. They have a base speed of 20 feet and a fly speed of 40 feet (average). This racial trait alters the gathlain's speeds.
+
 ## Favored Class Options
 
 See the [Ultimate Wilderness section of the racial favored class options](../favored-class-bonuses/racial-favored-class-options.md#gathlains-ultimate-wilderness).
@@ -79,9 +89,13 @@ Gathlains have access to the following equipment.
 ## Feats
 
 - [Advanced Gathlain Magic](../../rules/feats/advanced-gathlain-magic.md)
+- [Biological Lattice](../../rules/feats/biological-lattice.md)
 - [Greater Gathlain Magic](../../rules/feats/greater-gathlain-magic.md)
 - [Green Tongue](../../rules/feats/green-tongue.md)
+- [Hydroponic Adaptation](../../rules/feats/hydroponic-adaptation.md)
 - [Seasoned Flier](../../rules/feats/seasoned-flier.md)
+- [Step of the Flighty Fey](../../rules/feats/step-of-the-flighty-fey.md)
+- [Strange Yield](../../rules/feats/strange-yield.md)
 - [Superior Gathlain Magic](../../rules/feats/superior-gathlain-magic.md)
 - [Symbiotic Resilience](../../rules/feats/symbiotic-resilience.md)
 - [Wandering Mind](../../rules/feats/wandering-mind.md)

@@ -174,6 +174,7 @@ Psychics gain access to the following spells. Spells without a link come from ot
 - **[Acute Senses](acute-senses.md)**: Subject gains a bonus on Perception checks.
 - **[Adhesive Blood](adhesive-blood.md)**: Attackers’ weapons stick to your gluey blood.
 - Adoration
+- **[Ally Across Time](ally-across-time.md)**: Summon a brief duplicate of yourself to aid you.
 - **[Alter Self](alter-self.md)**: Assume form of a Small or Medium humanoid.
 - Amplify Stench
 - Ancestral Regression
@@ -293,6 +294,7 @@ Psychics gain access to the following spells. Spells without a link come from ot
 - **[Mirror Image](mirror-image.md)**: Creates decoy duplicates of you.
 - **[Misdirection](misdirection.md)**: Misleads divinations for 1 creature or object.
 - **[Miserable Pity](miserable-pity.md)**: Opponents cannot attack a pathetic creature.
+- **[Mortal Terror](mortal-terror.md)**: Target is shaken and grows more afraid each time it is hurt.
 - **[Muffle Sound](muffle-sound.md)**
 - **[Object Reading](object-reading.md)**: Read psychic impressions left on an object.
 - **[Obscure Object](obscure-object.md)**: Masks object against scrying.
@@ -500,6 +502,7 @@ Psychics gain access to the following spells. Spells without a link come from ot
 - **[Telekinetic Maneuver](telekinetic-maneuver.md)**: Perform a telekinetic combat maneuver.
 - **[Thought Shield II](thought-shield-ii.md)**: As thought shield I, but +6 on Will saves.
 - **[Thought Worm II](thought-worm-ii.md)**: As thought worm I, with a –4 penalty.
+- **[Threefold Sight](threefold-sight.md)**: Roll three d20 and take the middle result.
 - **[Tongues](tongues.md)**: Speak and understand any language.
 - Touch Injection
 - Transfer Regeneration
@@ -675,6 +678,7 @@ Psychics gain access to the following spells. Spells without a link come from ot
 - **[Apathy](apathy.md)**: A target loses interest in a chosen pursuit.
 - **[Appearance of Life, Greater](appearance-of-life-greater.md)**: Perfectly disguise any undead creature as a living one
 - **[Arcana Theft](arcana-theft.md)**: Targeted dispel transfers an effect to you.
+- **[Army Across Time](army-across-time.md)**: As ally across time, with many duplicates.
 - **[Astral Projection, Lesser](astral-projection-lesser.md)**: Limited astral travel.
 - **[Banish Seeming](banish-seeming.md)**: Dispels touched illusion or a creature's change in form.
 - **[Befuddled Combatant](befuddled-combatant.md)**: Reduces a target’s ability DCs by 4 and its damage to minimum.
@@ -949,6 +953,7 @@ Psychics gain access to the following spells. Spells without a link come from ot
 - **[Telekinetic Sphere](telekinetic-sphere.md)**: As *resilient sphere,* but you move the sphere telekinetically.
 - **[Teleport Object](teleport-object.md)**: As *teleport,* but affects a touched object.
 - **[Teleport, Greater](teleport-greater.md)**: As *teleport,* but no range limit and no off-target arrival.
+- **[Temporal Divergence](temporal-divergence.md)**: Cast two spells, then choose which one actually happened.
 - **[Temporary Resurrection](temporary-resurrection.md)**: Bring a creature to life for 24 hours, after which it dies again.
 - Terraform
 - **[Tower of Iron Will III](tower-of-iron-will-iii.md)**: As tower of iron will I, but lasts 3 rounds.
@@ -1006,6 +1011,7 @@ Psychics gain access to the following spells. Spells without a link come from ot
 - **[Spell Immunity, Greater](spell-immunity-greater.md)**: As *spell immunity,* but up to 8th-level spells.
 - **[Summon Monster VIII](summon-monster-viii.md)**: Summons extraplanar creature to fight for you.
 - **[Sympathy](sympathy.md)**: Object or location attracts certain creatures.
+- **[Temporal Regression](temporal-regression.md)**: Return to a marked place and condition.
 - **[Temporal Stasis](temporal-stasis.md)**: Puts subject into suspended animation.
 - **[Tower of Iron Will IV](tower-of-iron-will-iv.md)**: As tower of iron will I, but lasts 4 rounds.
 - **[Trap the Soul](trap-the-soul.md)**: Imprisons subject within gem.
@@ -1046,6 +1052,7 @@ Psychics gain access to the following spells. Spells without a link come from ot
 - **[Summon Monster IX](summon-monster-ix.md)**: Summons extraplanar creature to fight for you.
 - **[Telekinetic Storm](telekinetic-storm.md)**: Deal 1d6 points of damage per level plus daze and stun in a 40-ft. radius.
 - **[Teleportation Circle](teleportation-circle.md)**: Teleports creatures inside circle.
+- **[Threefold Form](threefold-form.md)**: Split into three copies of yourself.
 - **[Time Stop](time-stop.md)**: You act freely for 1d4+1 rounds.
 - **[Tower of Iron Will V](tower-of-iron-will-v.md)**: As tower of iron will I, but lasts 5 rounds.
 - **[Transmute Blood to Acid](transmute-blood-to-acid.md)**: Target takes acid damage each round, and its attackers take acid damage.

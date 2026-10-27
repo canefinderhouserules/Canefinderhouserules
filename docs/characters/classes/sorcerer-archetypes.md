@@ -218,6 +218,30 @@ You were born with the power of earth genies, and the magic of the shaitans is s
 
 You become immune to electricity damage, and can use plane shift once per day to travel to or from the Plane of Water.
 
+### Shapechanger
+
+Channeling the power of your shapeshifting ancestors that you carry in your blood, you gain powers that allow you to change your shape and alter your appearance and physical abilities.
+
+**Class Skill**: Disguise.
+
+**Bonus Spells**: disguise self (3rd), alter self (5th), fly (7th), beast shape II (9th), polymorph (11th), transformation (13th), greater polymorph (15th), frightful aspect (17th), shapechange (19th).
+
+**Bonus Feats**: Combat Casting, Dodge, Extend Spell, Great Fortitude, Improved Initiative, Lightning Reflexes, Skill Focus (Disguise), Toughness.
+
+**Bloodline Arcana**: You are very skilled with magic that transforms you. Transmutation spells you cast only on yourself affect you as though your caster level were 1 higher.
+
+**Bloodline Powers**: Your bloodline grants you the following powers.
+
+**Hardened Fists (Su)**: At 1st level, you can make your fists grow large, callused, and gnarled as a free action. Your unarmed strikes deal damage as though you were one size category larger, deal lethal damage, and do not provoke attacks of opportunity. If you have claws, they are affected instead, and they deal damage as though you were one size category larger. You can use this ability for a number of rounds per day equal to 3 + your Charisma modifier. These rounds do not need to be consecutive.
+
+**Mutable Flesh (Su)**: At 3rd level, once per day when you cast a transmutation spell with a duration of 1 minute per level that affects only you, you can increase its duration to 10 minutes per level. At 9th level, you can increase the duration to 1 hour per level.
+
+**Vortex of Flesh (Su)**: At 9th level, you can momentarily change into an amalgam of erratic geometric shapes once per day, lashing out at every creature in a 20-foot-radius spread around you as a standard action. This attack deals 1d6 points of bludgeoning, piercing, and slashing damage per sorcerer level. If you benefit from a spell or effect that allows you to overcome damage resistance with your natural attacks (such as *magic fang*), this attack ignores DR of the same type. Those caught in the area can attempt a Reflex saving throw (DC = 10 + half your sorcerer level + your Charisma modifier) for half damage. At 17th level, you can use this ability twice per day. At 20th level, you can use this ability three times per day.
+
+**Superior Transformation (Su)**: At 15th level, you become master of your own shape and you fully understand the intricacies of all shapechanging magic. You are immune to polymorph effects unless you are a willing target. Once per day when you cast a polymorph spell on yourself, in addition to the normal effects of the spell, you can choose to gain a fly speed of 60 feet (average maneuverability), a swim speed of 60 feet, or an increase to your base land speed of 30 feet.
+
+**Amorphous Anatomy (Su)**: At 20th level, your vital organs shift position, and as a rule they are constantly changing their shape and size to best protect you. You gain immunity to critical hits and sneak attacks. In addition, you gain blindsight with a range of 60 feet and damage reduction 5/—. You automatically recover from physical blindness or deafness after 1 round by growing new sensory organs to replace the compromised ones; you cannot otherwise regenerate lost body parts.
+
 ## Advanced Player's Guide Bloodlines
 
 New spells presented in the Advanced Player's Guide are marked with asterisks (\*).

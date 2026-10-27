@@ -533,6 +533,24 @@ In most cases these benefits are gained on a level-by-level basis, and unless ot
 
 **Witch**: Add one spell from the druid spell list to the witch’s familiar. This spell must be at least one level below the highest spell level the witch can cast. If the familiar is ever replaced, the new familiar knows these bonus spells.
 
+### Gathlains (Additional)
+
+**Alchemist**: Add 10 minutes to the duration of the alchemist's mutagens.
+
+**Bard**: Add a +1/2 bonus on the bard's Perform (comedy) checks.
+
+**Investigator**: Add a +1/3 bonus on inspiration rolls applied to Bluff and Knowledge checks.
+
+**Kineticist**: Increase the amount of burn cost reduction when using the kineticist's gather power ability by 1/6 point (the minimum burn cost of 0 still applies).
+
+**Mesmerist**: Increase the number of mesmerist tricks the mesmerist can use per day by one-third.
+
+**Oracle**: Add one spell known that is an enchantment spell from the sorcerer/wizard spell list. This spell must be at least one level below the highest spell level the oracle can cast. That spell is treated as one level higher unless it is also on the oracle spell list.
+
+**Rogue**: Add a +1/2 bonus on Stealth checks while in forests and swamps.
+
+**Sorcerer**: Choose a bloodline power from the fey or verdant bloodlines that the sorcerer can use. The sorcerer treats her class level as though it were 1/2 higher (to a maximum of +4) when determining the effects of that power.
+
 ### Ghorans (Ultimate Wilderness)
 
 **Druid**: When casting spells that target plants or plant creatures, add 1/3 to the effective caster level, but only for the purpose of determining duration.

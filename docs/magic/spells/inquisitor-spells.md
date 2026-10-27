@@ -38,6 +38,7 @@ New inquisitor spells from *Ultimate Magic*. Spells from other books will be add
 - **[Instant Portrait](instant-portrait.md)**: Paint a quick monochrome portrait.
 - **[Interrogation](interrogation.md)**: Target answers questions or suffers pain.
 - **[Itching Curse](itching-curse.md)**: Itch gives –1 penalty unless scratched.
+- **[Knot of Fate](knot-of-fate.md)**: Next attack against you takes –10; crits become normal hits.
 - **[Know the Enemy](know-the-enemy.md)**: Gain +10 on a monster Knowledge check.
 - **[Lend Judgment](lend-judgment.md)**: Ally gains the benefit of one judgment.
 - **[Linebreaker](linebreaker.md)**: You gain a +20 foot bonus to your base speed when charging and a +2 bonus on combat maneuver checks made to.
@@ -78,6 +79,7 @@ New inquisitor spells from *Ultimate Magic*. Spells from other books will be add
 ## 2nd-Level Inquisitor Spells
 
 - **[Acute Senses](acute-senses.md)**: Subject gains a bonus on Perception checks.
+- **[Ally Across Time](ally-across-time.md)**: Summon a brief duplicate of yourself to aid you.
 - **[Anticipate Thoughts](anticipate-thoughts.md)**: Gain increasing bonuses to AC and on attack rolls and damage rolls against one creature.
 - **[Beacon of Guilt](beacon-of-guilt.md)**: Curse a thief to glow with red light
 - **[Bestow Insight](bestow-insight.md)**: Component V, S Range touch Target one creature touched Duration 1 minute/level When casting this spell.
@@ -134,6 +136,7 @@ New inquisitor spells from *Ultimate Magic*. Spells from other books will be add
 - **[Magic Siege Engine](magic-siege-engine.md)**: Siege engine gains +1 on targeting and damage rolls.
 - **[Mark of Blood](mark-of-blood.md)**: Mark a creature struck by a bloodied weapon.
 - **[Mindshock](mindshock.md)**: Your attacks deal extra nonlethal damage and can confuse.
+- **[Mortal Terror](mortal-terror.md)**: Target is shaken and grows more afraid each time it is hurt.
 - **[Necrostasis](necrostasis.md)**: Stagger an undead creature
 - **[Open Book](open-book.md)**: Make it permanently easier to learn more about a target.
 - **[Protection from Chaos, Communal](protection-from-chaos-communal.md)**: As protection from chaos, but you may divide the duration among creatures touched.
@@ -246,6 +249,7 @@ New inquisitor spells from *Ultimate Magic*. Spells from other books will be add
 
 - **[Aerial Tracks](aerial-tracks.md)**: Track flying creatures through the air.
 - **[Ardor's Onslaught](ardors-onslaught.md)**: The power of conviction assaults neutral foes
+- **[Army Across Time](army-across-time.md)**: As ally across time, with many duplicates.
 - **[Awaken the Devoured](awaken-the-devoured.md)**: Memories of devoured souls torment a daemon
 - **[Ban Corruption](ban-corruption.md)**: Eliminate the gifts of nearby corrupted creatures.
 - **[Battlemind Link](battlemind-link.md)**: You and an ally gain attack and AC bonuses.
@@ -256,6 +260,7 @@ New inquisitor spells from *Ultimate Magic*. Spells from other books will be add
 - **[Brightest Light](brightest-light.md)**: Longer-lasting daylight that can dispel darkness.
 - **[Burst of Glory](burst-of-glory.md)**: Allies gain attack and fear-save bonuses and temporary hit points.
 - **[Cleansing Fire](cleansing-fire.md)**: Ring of fire harms undead and dispels evil magic.
+- **[Cold Iron Fetters](cold-iron-fetters.md)**: Shackle a target, halving its speeds and blocking magical movement.
 - **[Conditional Curse](conditional-curse.md)**: Bestow a curse that is difficult to remove without fulfilling a condition.
 - **[Crusader’s Edge](crusaders-edge.md)**: Weapon gains evil outsider bane and nauseates on crits.
 - **[Curse of Magic Negation](curse-of-magic-negation.md)**: Target gains the negated spellblight.

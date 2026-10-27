@@ -90,6 +90,8 @@ For example, a barbarian that selects a beast totem rage power cannot later chos
 
 **Liquid Courage (Ex)**: While raging, the barbarian increases her morale bonus on saving throws against mind-affecting effects by +1 for each alcoholic drink she consumes during her rage, to a maximum of +1 increase per four barbarian levels.
 
+**Master of the Deep (Su)**: As a standard action, the barbarian commands an aquatic creature to do her bidding. The barbarian selects a creature with the aquatic type within 30 feet and gives a terse command from those listed in the *command* spell. Alternatively, if the creature has an Intelligence of 1 or 2, the barbarian may instead command the creature to attack the closest creature to it as a standard action. The creature must succeed at a Will save (DC equal to 10 + half the barbarian's level + her Strength modifier) or obey the command to the best of its ability on its next turn. Once a creature has attempted a saving throw against master of the deep (successful or not), it is immune to this power for 24 hours. This ability is a mind-affecting effect, but it is not language dependent; the creature need not understand the barbarian giving the command. A barbarian must be at least 8th level before selecting this power.
+
 **Overbearing Advance (Ex)**: While raging, the barbarian inflicts damage equal to her Strength bonus whenever she succeeds at an overrun combat maneuver.
 
 **Overbearing Onslaught (Ex)**: While raging, the barbarian may overrun more than one target per round, with a –2 penalty on her CMB for each overrun check after the first. A barbarian must have the overbearing advance rage power to select this rage power. A barbarian must be at least 6th level to select this rage power.
@@ -115,6 +117,10 @@ A barbarian must have the ferocious mount rage power to select this rage power. 
 **Spirit Totem, Lesser (Su)**: While raging, the barbarian is surrounded by spirit wisps that harass her foes. These spirits make one slam attack each round against a living foe that is adjacent to the barbarian. This slam attack is made using the barbarian’s full base attack bonus, plus the barbarian’s Charisma modifier. The slam deals 1d4 points of negative energy damage, plus the barbarian’s Charisma modifier.
 
 **Staggering Drunk (Ex)**: While raging, a barbarian gains a +1 dodge bonus to AC against attacks of opportunity for each alcoholic drink she has consumed during her rage, to a maximum of +1 per four barbarian levels.
+
+**Suffocating Grip (Ex)**: While raging, when the barbarian successfully maintains a grapple, she can choke her opponent instead of dealing damage to, moving, pinning, or tying up her opponent. The grappled opponent cannot speak or breathe and must hold its breath or begin suffocating. The grappled opponent can take a breath during any round in which the barbarian does not maintain the grapple. Creatures that do not breathe are not affected by this ability.
+
+**Suffocating Grip, Greater (Ex)**: When the barbarian is using the suffocating grip rage power, the grappled creature cannot hold its breath and immediately begins suffocating. A barbarian must be at least 12th level and have the suffocating grip rage power to select this rage power.
 
 **Witch Hunter (Ex)**: While raging, the barbarian gains a +1 bonus on damage rolls against creatures possessing spells or spell-like abilities. This damage bonus increases by +1 for every four levels the barbarian has obtained. A barbarian must have the superstition* rage power to select this rage power.
 
@@ -853,3 +859,19 @@ This ability replaces fast movement.
 **Improved Staggering Evasion (Ex)**: At 5th level, as long as she has at least 2 drunken rage points, a drunken rager gains improved evasion, as the rogue advanced talent of the same name. This ability replaces improved uncanny dodge.
 
 **Drunken Swing (Ex)**: At 12th level, a drunken rager can spend 1 drunken rage point as a swift action before making a melee attack to drastically increase the deadliness of her attack. The critical threat range of her next attack that round increases by 1 (for example, a critical threat range of 20 would increase to 19–20). This ability does not stack with any other effect that expands the critical threat range of a weapon. At 16th level and again at 20th level, the barbarian can spend 1 additional drunken rage point to further increase the critical threat range of her next attack (to a maximum critical threat range increase of 3 at 20th level). This ability replaces the rage power gained at 12th level.
+
+## Deepwater Rager
+
+Deepwater ragers bellow ferociously as they charge their enemies, tackling them into the raging seas. This archetype is compatible with both barbarians and unchained barbarians.
+
+**Strong Lungs (Ex)**: A deepwater rager can hold her breath for a number of rounds equal to four times her Constitution score, and she does not reduce the duration of her held breath by taking a standard action or a full-round action. Additionally, as long as she is able to speak, the deepwater rager adds her Constitution modifier to Intimidate skill checks in addition to her Charisma modifier. This ability replaces fast movement.
+
+**Spiraling Charge (Ex)**: At 2nd level, a deepwater rager is not required to move in a straight line when she charges, provided that no space she moves into while charging is farther away from her target than the space that she is leaving. The deepwater rager must be able to see her target at the beginning of her charge and cannot use this ability while mounted. This ability replaces uncanny dodge.
+
+**Disorienting Grapple (Ex)**: At 5th level, a deepwater rager becomes an expert in flipping and spinning opponents as they are grappled. An opponent grappled by the deepwater rager gains the sickened condition for as long as it has the grappled condition. When the creature's grappled condition ends, for any reason, it must succeed at an Acrobatics check (with a DC equal to the deepwater rager's CMD) or fall prone. This ability replaces improved uncanny dodge.
+
+**Crushing Grapple (Ex)**: At 14th level, a deepwater rager gains the constrict special attack, which deals an amount of damage equal to the damage her unarmed strike deals. This ability replaces indomitable will.
+
+**Full Lungs (Ex)**: At 17th level, a deepwater rager does not need to breathe while she is raging. This ability replaces tireless rage.
+
+**Rage Powers**: The following rage powers complement the deepwater rager archetype: battle roar, bestial swimmer, brawler, intimidating glare, raging swimmer, rolling dodge, and terrifying howl.

@@ -147,6 +147,7 @@ The magus class spell list appears on the [Magus](../../characters/classes/magus
 - **[Heckle](heckle.md)**: Sour a target's mood and impose –2 penalties.
 - **[Hero's Spellsword](heros-spellsword.md)**: Merge a rod or staff into a melee weapon.
 - **[Infuse Self](infuse-self.md)**: Assume the form of a native outsider
+- **[Iron Spine](iron-spine.md)**: Target takes damage and is sickened whenever it moves.
 - **[Irradiate](irradiate.md)**: Flood an area with radiation.
 - **[Lightning Conductor](lightning-conductor.md)**: Absorb electricity damage and discharge it as a touch or ray.
 - **[Locate Weakness](locate-weakness.md)**: You roll damage twice when you roll damage for a critical hit and take the best damage.

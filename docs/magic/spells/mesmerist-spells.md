@@ -210,6 +210,7 @@ Mesmerists gain access to the following spells. Spells without a link come from 
 - **[Mirror Image](mirror-image.md)**: Creates decoy duplicates of you.
 - **[Misdirection](misdirection.md)**: Misleads divinations for 1 creature or object.
 - **[Miserable Pity](miserable-pity.md)**: Opponents cannot attack a pathetic creature.
+- **[Mortal Terror](mortal-terror.md)**: Target is shaken and grows more afraid each time it is hurt.
 - **[Muffle Sound](muffle-sound.md)**
 - **[Object Reading](object-reading.md)**: Read psychic impressions left on an object.
 - **[Obscured Script](obscured-script.md)**: Text becomes hard to read and deciphers falsely.

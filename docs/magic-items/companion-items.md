@@ -2320,3 +2320,85 @@ As a standard action, the owner of a *book of written whispers* can rip an entir
 These amulets are fashioned of finely worked silver and depict an overflowing tankard. Once per day, when the wearer of an *amulet of courage* is affected by a magical or supernatural fear effect, the amulet casts *remove fear* on the wearer. In addition, if the wearer of the amulet has the bravery class feature, she increases the bonus she receives on Will saves against fear by 1.
 
 **Construction Requirements:** Craft Wondrous Item, *remove fear*; **Cost** 2,500 gp
+
+## Fey Items
+
+### Charm of Three Fates
+
+**Slot** none; **CL** 9th; **Price** 2,400 gp; **Weight** —
+
+**Aura** moderate divination
+
+A creature carrying this knot-shaped charm for 3 full days becomes its owner until she loses possession of it. A creature can only be the owner of a single charm of three fates. At the start of each day, the charm's owner rolls 3d20 and keeps their results as her charmed dice. Once during that day, instead of rolling a d20, the charm's owner can instead use the result of one of the three charmed dice, randomly selected (roll 1d3 to choose).
+
+**Construction Requirements:** Craft Wondrous Item, *threefold sight*; **Cost** 1,200 gp
+
+### Lesser Rod of Triple Fate
+
+**Slot** none; **CL** 5th; **Price** 2,500 gp; **Weight** 5 lbs.
+
+**Aura** moderate divination
+
+The wielder of this elongated triangular prism can cast up to three spells per day for which the spell's targets must roll three times for their saving throws and take the middle of the three results, as per *threefold sight*. This version can affect spells up to 3rd level. A rod of triple fate can't be used in conjunction with metamagic rods or the Persistent Spell feat.
+
+**Construction Requirements:** Craft Rod, *threefold sight*; **Cost** 1,250 gp
+
+### Rod of Triple Fate
+
+**Slot** none; **CL** 5th; **Price** 6,500 gp; **Weight** 5 lbs.
+
+**Aura** moderate divination
+
+The wielder of this elongated triangular prism can cast up to three spells per day for which the spell's targets must roll three times for their saving throws and take the middle of the three results, as per *threefold sight*. This version can affect spells up to 6th level. A rod of triple fate can't be used in conjunction with metamagic rods or the Persistent Spell feat.
+
+**Construction Requirements:** Craft Rod, *threefold sight*; **Cost** 3,250 gp
+
+### Greater Rod of Triple Fate
+
+**Slot** none; **CL** 5th; **Price** 19,500 gp; **Weight** 5 lbs.
+
+**Aura** moderate divination
+
+The wielder of this elongated triangular prism can cast up to three spells per day for which the spell's targets must roll three times for their saving throws and take the middle of the three results, as per *threefold sight*. This version can affect spells up to 9th level. A rod of triple fate can't be used in conjunction with metamagic rods or the Persistent Spell feat.
+
+**Construction Requirements:** Craft Rod, *threefold sight*; **Cost** 9,750 gp
+
+### Ribbon of Three Faces
+
+**Slot** head; **CL** 9th; **Price** 60,000 gp; **Weight** —
+
+**Aura** moderate transmutation
+
+This green ribbon is fashioned in the shape of a three-pointed knot. The wearer gains three faces that each represent a different aspect of her personality, as if constantly under the effect of *threefold face*.
+
+**Construction Requirements:** Craft Wondrous Item, *threefold face*; **Cost** 30,000 gp
+
+### Clandestine Horseshoes
+
+**Slot** feet; **CL** 3rd; **Price** 6,000 gp; **Weight** 12 lbs.
+
+**Aura** faint illusion
+
+If a creature wearing these dull gray horseshoes remains stationary for 1 round, the creature and its rider, if any, gain a +10 bonus on Stealth checks for 1 round. In addition, once per day, the rider of a mount wearing clandestine horseshoes can turn both herself and her mount invisible, as *invisibility*. All four shoes must be worn by the same creature for the magic to be effective.
+
+**Construction Requirements:** Craft Wondrous Item, *invisibility*; **Cost** 3,000 gp
+
+### Hood of Privacy
+
+**Slot** head; **CL** 15th; **Price** 120,000 gp; **Weight** 1 lb.
+
+**Aura** strong abjuration
+
+This voluminous silver hood shimmers like a scattered handful of diamonds. The hood completely covers the wearer's face, hiding his identity, but does not impair the wearer's senses. The wearer gains a +4 bonus on saving throws against mind-affecting effects. The wearer is immediately aware when someone attempts to gain information about him through a divination spell or effect, such as scrying. As a swift action, the wearer can reduce the hood's saving throw bonus by 1 to thwart such a divination attempt, providing whatever false information the wearer desires to the diviner, or even to conceal the information entirely as though the wearer were undetectable to the divination effect. The creature using the divination effect can attempt a DC 26 Will save to learn that the information is fabricated or concealed. Expended bonuses return at a rate of 1 per week.
+
+**Construction Requirements:** Craft Wondrous Item, *detect scrying*, *mind blank*; **Cost** 60,000 gp
+
+### Whispering Gloves
+
+**Slot** hands; **CL** 3rd; **Price** 1,000 gp; **Weight** 1 lb.
+
+**Aura** faint transmutation
+
+These supple silk gloves are skintight. As a standard action, the wearer can deliver a complex secret message to a single target that can see the wearer as if she had succeeded at a DC 20 Bluff check. This message is conveyed in a series of rapid, complicated hand gestures that the target automatically understands. Creatures that see the wearer send a message can attempt a DC 20 Sense Motive check to notice that the wearer is delivering a secret message and decipher it.
+
+**Construction Requirements:** Craft Wondrous Item, *message*; **Cost** 500 gp

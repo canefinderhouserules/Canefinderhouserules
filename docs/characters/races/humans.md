@@ -122,6 +122,14 @@ The following racial traits might be selected instead of existing racial traits.
 
 **One of the Multitude**: City-dwelling humans are skilled at blending in with the busy multitudes of the city. They gain a +1 racial bonus on Bluff, Diplomacy, Disguise, Sleight of Hand, and Stealth checks when within 10 feet of at least two other humanoids. They gain a +1 racial bonus on attacks of opportunity made while flanking. This racial trait replaces skilled.
 
+### Fey Heritage Alternate Racial Traits
+
+The following racial traits represent a fey ancestor in the family line. They can be selected instead of the indicated racial traits. Consult your GM before selecting any of these options.
+
+**Heart of the Fey**: Fey-touched humans enjoy senses and reactions superior to those of their kin. These humans receive low-light vision, gain a +1 racial bonus on Reflex and Will saves, and treat Knowledge (nature) and Perception as class skills. This racial trait replaces skilled.
+
+**Imposter-Wary**: Humans trained to spot fey masquerading as their kin gain a +2 racial bonus on saving throws against illusion spells and effects, 1 free rank in Sense Motive at 1st level, and 1 additional rank in Sense Motive whenever they gain a level. This racial trait replaces skilled.
+
 ## Racial Subtypes
 
 You can combine various alternate racial traits to create human subraces or variant races, such as the following.

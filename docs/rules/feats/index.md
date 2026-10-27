@@ -1554,6 +1554,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Betrayal Sense](betrayal-sense.md) | Combat | Wis 13, rogue level 3rd, trap sense class feature |
 | [Betrayed](betrayed.md) | Story | You have had a valuable item (worth at least 1,000 gp per character level) stolen by a former ally, or have been left for dead by a former ally. |
 | [Bilge Rat](bilge-rat.md) | — | — |
+| [Biological Lattice](biological-lattice.md) | General | Gathlain, racial fly speed |
 | [Black Powder Spectacle](black-powder-spectacle.md) | Combat, Grit, Performance | Amateur Gunslinger or the grit class feature, base attack bonus +4 |
 | [Blades Above and Below](blades-above-and-below.md) | Combat, Teamwork | Base attack bonus +6 |
 | [Bless Equipment](bless-equipment.md) | General | Caster level 3rd, channel energy class feature |
@@ -1600,6 +1601,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Cat and Mouse](cat-and-mouse.md) | Combat | Bluff 5 ranks, Sense Motive 5 ranks, opportune parry and riposte deed |
 | [Cataract](cataract.md) | Blood Hex | Int 13, Perception 5 ranks, Use Magic Device 1 rank |
 | [Cat’s Fall](cat-s-fall.md) | — | Dex 13, Acrobatics 1 rank |
+| [Centered Spell](centered-spell.md) | Metamagic | Spellcraft 3 ranks |
 | [Chain Challenge](chain-challenge.md) | — | Challenge class feature, character level 7th |
 | [Chairbreaker](chairbreaker.md) | Combat | Catch Off-Guard, base attack bonus +1 |
 | [Chakra Mandala](chakra-mandala.md) | — | Ki pool class feature |
@@ -1620,6 +1622,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Circuitous Duelist](circuitous-duelist.md) | Combat | Swordlord Dueling Disciple, Weapon Finesse, Weapon Focus (dueling blade), base attack bonus +5 |
 | [Circuitous Shot](circuitous-shot.md) | Combat | Dex 19, Blind-Fight, Improved Precise Shot, Point-Blank Shot, Precise Shot, base attack bonus +11 |
 | [City Sprinter](city-sprinter.md) | — | Street Smarts |
+| [City-Locked](city-locked.md) | Story | You must permanently dwell in a settlement at least as large as a large town. You must also have a fey ancestor somewhere in your family line, or have the Wanderer background. |
 | [Clambering Escape](clambering-escape.md) | Combat | Int 13, Combat Expertise, Improved Reposition, evasion class feature |
 | [Clarifying Channel](clarifying-channel.md) | — | Channel energy class feature, worshiper of a deity of art and love |
 | [Claw Wrench](claw-wrench.md) | Combat | Dex 13, Improved Grapple, Improved Unarmed Strike |
@@ -1636,6 +1639,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Concentrated Fire](concentrated-fire.md) | Combat, Teamwork | Point-Blank Shot, elf, weapon familiarity racial trait |
 | [Concentrated Splash](concentrated-splash.md) | Combat | Precise Shot or Throw Anything |
 | [Conciliator](conciliator.md) | Story | See text |
+| [Conduit Casting](conduit-casting.md) | Teamwork | Spellcraft 3 ranks |
 | [Confabulist](confabulist.md) | — | Bluff 9 ranks, Sense Motive 9 ranks |
 | [Confusing Stare](confusing-stare.md) | Combat, Stare | Mesmerist level 7th, painful stare class feature |
 | [Consortium Partner](consortium-partner.md) | — | — |
@@ -1779,6 +1783,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Eclipse Strike](eclipse-strike.md) | Teamwork | Tiefling, darkness racial spell-like ability |
 | [Edge Runner](edge-runner.md) | — | Dex 13 |
 | [Eerie Sense](eerie-sense.md) | — | Ability to cast *detect undead* or *detect evil* as a spell or spell-like ability, worshiper of a deity of death and fate |
+| [Eerily Centered](eerily-centered.md) | General | Bleachling racial trait, gnome |
 | [Eldritch Aid](eldritch-aid.md) | — | Caster level 1st |
 | [Eldritch Assault](eldritch-assault.md) | — | Blind-Fight, Improved Initiative |
 | [Elemental Discipline Style](elemental-discipline-style.md) | Combat, Style | Wis 13, base attack bonus +5 or monk level 5th |
@@ -1789,6 +1794,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Elven Battle Focus](elven-battle-focus.md) | Combat | Int 13, Elven Battle Style, Elven Battle Training, Weapon Finesse, base attack bonus +4, weapon familiarity racial trait |
 | [Elven Battle Style](elven-battle-style.md) | Combat, Style | Elven Battle Training, Weapon Finesse, base attack bonus +1, weapon familiarity racial trait |
 | [Elven Battle Torrent](elven-battle-torrent.md) | Combat | Int 13, Elven Battle Focus, Elven Battle Style, Elven Battle Training, Weapon Finesse, base attack bonus +10, weapon familiarity racial trait |
+| [Embrace the Dark Fey](embrace-the-dark-fey.md) | Story | You must have an evil fey such as a quickling or redcap somewhere in your family line, or you must have the Shameful Heritage background. |
 | [Emissary’s Emboldening](emissarys-emboldening.md) | Familiar | Must have a familiar with the emissary archetype |
 | [Empowered Daemonic Pact](empowered-daemonic-pact.md) | — | Urdefhan |
 | [Empty Quiver Flexibility](empty-quiver-flexibility.md) | Combat | Empty Quiver Style, Rapid Shot, Stabbing Shot, Weapon Focus with the chosen weapon |
@@ -1833,6 +1839,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Familiar Spell](familiar-spell.md) | Metamagic | Spellcaster with familiar class feature |
 | [Fanged Crown Massacre](fanged-crown-massacre.md) | — | Bodyguard, Combat Reflexes, Perform (oratory) 3 ranks, evil |
 | [Far-Roaming Familiar](far-roaming-familiar.md) | — | Intelligence 13, must have a familiar |
+| [Fascinated by the Mundane](fascinated-by-the-mundane.md) | Story | You must have a fey ancestor somewhere in your family line, and you must have the Adopted by the Fey, Fey Meeting, or Met a Fantastic Creature background. |
 | [Fast Change](fast-change.md) | — | Dex 13, base attack bonus +6, skinwalker |
 | [Fateful Channel](fateful-channel.md) | — | Channel positive energy 3d6, worshiper of a deity of death and fate |
 | [Favored Community](favored-community.md) | — | Knowledge (local) 2 ranks, must have lived in the settlement for at least 1 year |
@@ -1951,6 +1958,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Hunter of Metallic Dragons](hunter-of-metallic-dragons.md) | — | Favored enemy (dragon), worshiper of a deity of evil dragons |
 | [Hurricane Punch](hurricane-punch.md) | Combat | Str 13, Improved Bull Rush, Improved Unarmed Strike, Power Attack |
 | [Hurtful](hurtful.md) | Combat | Str 13, Power Attack |
+| [Hydroponic Adaptation](hydroponic-adaptation.md) | General | Gathlain, racial fly speed |
 | [Icy Stare](icy-stare.md) | — | [Born of Frost](born-of-frost.md), frost giant |
 | [Illusion Mastery](illusion-mastery.md) | Item Mastery | Use Magic Device 2 ranks, base Fortitude save bonus +4 |
 | [Illusive Gnome Bewilderment](illusive-gnome-bewilderment.md) | Combat | Int 13, Combat Expertise, Gnome Weapon Focus, Illusive Gnome Style, Illusive Gnome Surprise, Improved Feint, gnome magic and weapon familiarity racial traits |
@@ -1972,8 +1980,10 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Improved Legendary Influence](improved-legendary-influence.md) | — | Legendary Influence, lesser spirit power and propitiation class features |
 | [Improved Lookout](improved-lookout.md) | — | Lookout |
 | [Improved Mounted Archery](improved-mounted-archery.md) | — | Mounted Archery, Mounted Combat, Ride 1 rank |
+| [Improved Outflank](improved-outflank.md) | Combat, Teamwork | Outflank, base attack bonus +6 |
 | [Improved Plane Shift](improved-plane-shift.md) | — | Wizard level 9th |
 | [Improved Position of Strength](improved-position-of-strength.md) | Combat | Position of Strength, Two-Weapon Fighting or Multiattack, Intimidate 5 ranks |
+| [Improved Precise Strike](improved-precise-strike.md) | Combat, Teamwork | Dex 13, Precise Strike, base attack bonus +4 |
 | [Improved Punishing Step](improved-punishing-step.md) | Combat | Dex 13, Dodge, Punishing Step, base attack bonus +8 |
 | [Improved Sabotaging Sunder](improved-sabotaging-sunder.md) | Combat | Str 13, Improved Sunder, Power Attack, Sabotaging Sunder, Disable Device 9 ranks |
 | [Improved Shield Focus](improved-shield-focus.md) | Combat | Shield Focus, base attack bonus +6 |
@@ -1995,6 +2005,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Intense Blows](intense-blows.md) | Armor Mastery | Str 13, Power Attack, base attack bonus +6 or fighter level 4th, armor training class feature, proficiency with heavy armor |
 | [Intoxicating Flattery](intoxicating-flattery.md) | — | Deceitful, Bluff 5 ranks |
 | [Intrepid Rescuer](intrepid-rescuer.md) | Combat | Combat Reflexes, worshiper of a deity of strength and protection |
+| [Introspective Performance](introspective-performance.md) | General | Perform (any) 3 ranks, bardic performance or raging song class feature |
 | [Iron Skin](iron-skin.md) | Combat, Style | Str 15, Wis 13, Elemental Discipline Style (iron), Toughness, Iron Strength, base attack bonus +13 or monk level 13th |
 | [Iron Strength](iron-strength.md) | Combat, Style | Str 15, Wis 13, Elemental Discipline Style (iron), base attack bonus +9 or monk level 9th |
 | [Ironbound Master](ironbound-master.md) | — | Cleric level 7th, worshiper of a deity of war |
@@ -2256,6 +2267,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Seductive Channel](seductive-channel.md) | — | Channel positive energy class feature, worshiper of a deity of lust and revenge |
 | [Seeking Spell](seeking-spell.md) | Metamagic | — |
 | [Seeping Darkness](seeping-darkness.md) | Teamwork | Drow, darkness racial spell-like ability |
+| [Selfish Channel](selfish-channel.md) | General | Channel energy class feature |
 | [Sense Assumptions](sense-assumptions.md) | — | Sense Motive 3 ranks |
 | [Sense Loyalties](sense-loyalties.md) | — | Knowledge (nobility) 1 rank, Knowledge (religion) 1 rank |
 | [Sense Relationships](sense-relationships.md) | — | Street Smarts |
@@ -2324,6 +2336,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Spell Chain](spell-chain.md) | Teamwork | Spell Penetration |
 | [Spell Denial](spell-denial.md) | — | Con, Dex, or Wis 13 |
 | [Spell Sponge](spell-sponge.md) | — | Animal companion or familiar, share spells ability |
+| [Spell Synergy](spell-synergy.md) | Teamwork | Spellcraft 5 ranks |
 | [Spell Trick](spell-trick.md) | Trick | Masterful tricks class feature, ability to cast 4th-level mesmerist spells |
 | [Spellcut](spellcut.md) | Weapon Mastery | Str 13, Cut from the Air, Power Attack, base attack bonus +9, Spellcraft 1 rank, weapon training class feature with a melee weapon |
 | [Spiked Destroyer](spiked-destroyer.md) | Combat | Proficient with armor spikes |
@@ -2352,6 +2365,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Steadfast Slayer](steadfast-slayer.md) | Combat | — |
 | [Steady Engagement](steady-engagement.md) | Combat | Combat Reflexes, Stand Still, worshiper of a deity of perfection and knowledge |
 | [Steelskin Channel](steelskin-channel.md) | — | Channel energy 7d6, worshiper of a deity of the forge and protection |
+| [Step of the Flighty Fey](step-of-the-flighty-fey.md) | General | Gathlain, *feather step* spell-like ability |
 | [Stick Together](stick-together.md) | Combat, Teamwork | — |
 | [Stone Dodger](stone-dodger.md) | Teamwork | — |
 | [Stone Read](stone-read.md) | — | Knowledge (dungeoneering) 4 ranks |
@@ -2361,6 +2375,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Stony Rampart](stony-rampart.md) | Combat, Conduit | Knowledge (planes) 3 ranks |
 | [Storm Breaker](storm-breaker.md) | — | — |
 | [Storm-Lashed](storm-lashed.md) | — | — |
+| [Strange Yield](strange-yield.md) | General | Craft (alchemy) 5 ranks, gathlain, racial fly speed |
 | [Street Carnage](street-carnage.md) | Combat | Str 15, Improved Bull Rush, Improved Unarmed Strike, Power Attack, Street Style, Street Sweep, base attack bonus +8 or monk level 7th |
 | [Street Smarts](street-smarts.md) | — | — |
 | [Street Style](street-style.md) | Combat, Style | Str 15, Improved Bull Rush, Improved Unarmed Strike, Power Attack, base attack bonus +4 or monk level 3rd |
@@ -2474,6 +2489,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Undermining Exploit](undermining-exploit.md) | — | Knowledge (dungeoneering) 4 ranks |
 | [Underworld Connections](underworld-connections.md) | — | — |
 | [Unfair Grip](unfair-grip.md) | Combat | Str 13, Dex 13, Improved Grapple, Improved Unarmed Strike, Power Attack, base attack bonus +1 |
+| [Unfettered Rage](unfettered-rage.md) | General | Rage class feature, base attack bonus +6 |
 | [Unhindering Shield](unhindering-shield.md) | Shield Mastery | Shield Focus, base attack bonus +6 or fighter level 4th, proficiency with bucklers |
 | [Unimpeachable Honor](unimpeachable-honor.md) | — | Iron Will |
 | [Unraveling Blood](unraveling-blood.md) | — | Dispelling Blood, Knowledge (arcana) 9 ranks, vishkanya |
@@ -2522,6 +2538,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Weapon Trick](weapon-trick.md) | Combat | Base attack bonus +1 |
 | [Weapon Versatility](weapon-versatility.md) | Combat | Weapon Focus, base attack bonus +1 |
 | [Weathered Warrior](weathered-warrior.md) | Combat | Endurance |
+| [Wild Speaker](wild-speaker.md) | General | Bleachling racial trait, gnome |
 | [Willing Accomplice](willing-accomplice.md) | — | Cha 13, Bluff 3 ranks, Sense Motive 1 rank |
 | [Wily Warrior](wily-warrior.md) | Story | See text |
 | [Wind Leaper](wind-leaper.md) | Conduit | Knowledge (planes) 3 ranks |

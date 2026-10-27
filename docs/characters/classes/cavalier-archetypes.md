@@ -66,6 +66,24 @@ This ability replaces tactician, greater tactician, and master tactician.
 
 Where some cavaliers dedicate themselves to their comrades, the common folk around them, a lord, or even themselves, still others have found their calling in defending or advocating more abstract notions, such as peace, a particular place or relic, or even the preservation of written knowledge.
 
+### Order of the Blossom
+
+Cavaliers of the order of the blossom dedicate their lives to protecting fey, especially those visiting the Material Plane from the wild fey realm. These cavaliers might be fey themselves, but even if they aren't, they exhibit the same whimsy and occasionally cruel sense of humor typical of most fey.
+
+**Edicts**: The cavalier cannot refuse a fey's request for aid unless it will interfere with his existing duties, or he believes the fey seeks to directly oppose his other aims and goals. He must strive to prevent gates to the fey realm from being exploited or corrupted. If the cavalier encounters corrupted fey, he must strive to destroy them.
+
+**Challenge**: Whenever an order of the blossom cavalier issues a challenge, the target of the challenge takes a –1 penalty on saving throws against spells and spell-like abilities used by fey or by the cavalier. This penalty increases by 1 for every 4 levels the cavalier has. An order of the blossom cavalier can't issue a challenge against any creature of the fey type unless that creature has been corrupted by evil.
+
+**Skills**: An order of the blossom cavalier adds Disguise and Knowledge (nature) to his list of class skills. An order of the blossom cavalier can attempt Knowledge (nature) skill checks untrained. Whenever an order of the blossom cavalier attempts a Bluff check to feint in combat, he receives a bonus on the check equal to half his cavalier level (minimum +1).
+
+**Order Abilities**: A cavalier belonging to the order of the blossom gains the following abilities as he increases in level.
+
+**Sneak Attack (Ex)**: At 2nd level, an order of the blossom cavalier can make a sneak attack, as the rogue ability of the same name. At 2nd level, his sneak attack damage is +1d6. This damage increases by 1d6 at 8th level and every 6 levels thereafter. If the cavalier gets a sneak attack bonus from another source, the bonus damage stacks.
+
+**Fey Enchantments (Sp)**: At 8th level, an order of the blossom cavalier learns to use the following spell-like abilities: *animal messenger*, *enthrall*, *hideous laughter*, and *suggestion*, with a caster level equal to his cavalier level. He can use these spell-like abilities a total of three times per day, in any combination (such as by casting *enthrall* three times, or *animal messenger* once and *suggestion* twice). The saving throw DC for these spell-like abilities is 10 + half the cavalier's level + his Charisma modifier. At 16th level, the cavalier can use his spell-like abilities seven times per day, and he adds *charm monster* and *terrible remorse* to the list.
+
+**Curse of the Wild Realm (Su)**: At 15th level, an order of the blossom cavalier channels pandemonium through his weapon. His melee attacks count as chaotic-aligned for the purpose of overcoming damage reduction. In addition, whenever he confirms a critical hit against a target under an enchantment effect, that target is confused for 1d6 rounds. Each round the confused creature rolls to determine its action, it rolls twice and the cavalier chooses which result to use. This is a mind-affecting effect.
+
 ### Order of the Blue Rose
 
 The cavaliers of the order of the blue rose dedicate themselves to promoting peace in the lands they roam.
@@ -635,3 +653,17 @@ A castellan is a cavalier who dedicates himself to the defense of a castle or wa
 **Defending Challenge (Ex)**: At 12th level, the castellan takes no penalty to Armor Class when using his challenge ability. This ability replaces demanding challenge.
 
 **Supreme Defense (Ex)**: At 20th level, whenever the castellan readies an action to make a melee attack against a creature that is not yet adjacent to him, his readied attack deals double the normal amount of damage (or triple the damage if using a brace weapon against a charge). In addition, if the cavalier confirms a critical hit on the readied attack, the target is stunned for 1d4 rounds. A successful Will save (DC = 10 + the cavalier's class level + the cavalier's Strength modifier) reduces this to being staggered for 1d4 rounds. This ability replaces supreme charge.
+
+## Hooded Knight
+
+Some cavaliers wander the lonely roads of the world, protecting travelers and acting as their honor guard. Like the wandering god they usually venerate, they wear heavy hoods and rarely show their faces. Hooded knights are usually members of the [order of the blossom](#order-of-the-blossom), the order of the shield, or the order of the sword.
+
+**Class Skills**: A hooded knight gains Knowledge (geography) and Survival as class skills instead of Climb and Swim. This alters the cavalier's class skills.
+
+**Feytouched Mount**: A hooded knight's mount gains the following while he is riding it: low-light vision, a +2 bonus on Will saves, DR 5/cold iron (DR 10/cold iron if it has 11 or more Hit Dice), spell resistance equal to its CR + 5, and woodland stride (as the druid ability). The mount can also use *alter self* as a spell-like ability to take a single fixed Small or Medium humanoid form, but it cannot use this change shape ability while being ridden. This ability alters the cavalier's mount.
+
+**Hero of the Roads (Ex)**: When on a road, a hooded knight gains a +2 bonus on initiative checks and Knowledge (geography), Perception, Stealth, and Survival checks. These bonuses increase by 2 at 9th and 17th level. The speed of any mount a hooded knight rides is increased by 10 feet at 9th level and by an additional 10 feet at 17th level. By spending 1 minute coaxing his allies' mounts and expending one use of his challenge ability, a hooded knight can grant the same speed increase to the mounts ridden by all allies within 30 feet who can see and hear him. This speed increase to his allies' mounts lasts for 1 hour. A hooded knight and his mount can hustle while traveling on a road without taking damage for 2 hours each day, plus an additional 2 hours at 5th level and every 5 levels thereafter (to a maximum of 8 hours at 15th level). This ability replaces tactician.
+
+**Champion of the Roads (Sp)**: At 9th level, a hooded knight gains *dimension door* as a spell-like ability with a caster level equal to his cavalier level. If the hooded knight is riding a mount, his mount does not count against the number of creatures he brings along with this ability. If the destination is not a road, the hooded knight is shunted to the nearest open space on a road, taking damage as described in the *dimension door* spell. The cavalier can use this ability once per day, plus one additional time for every 4 levels beyond 9th, to a maximum of three times per day at 17th level. This ability replaces greater tactician.
+
+**Paragon of the Roads (Sp)**: At 17th level, when a hooded knight uses his champion of the roads ability, he can treat the ability as *greater teleport* rather than *dimension door*. The hooded knight's mount and the mounts ridden by any creatures he brings along do not count against the number of teleported creatures. This ability replaces master tactician.

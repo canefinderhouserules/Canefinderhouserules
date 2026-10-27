@@ -72,6 +72,16 @@ The following racial traits might be selected instead of existing racial traits.
 
 **Student of the City**: Gnomes of the city learn all they can from newcomers and tend to make contacts in all quarters. They gain a +2 racial bonus on Knowledge (local) checks, and can use that skill to gather information in place of Diplomacy. This racial trait replaces obsessive.
 
+### Fey Heritage Alternate Racial Traits
+
+The following racial traits represent a fey ancestor in the family line. They can be selected instead of the indicated racial traits. Consult your GM before selecting any of these options.
+
+**Fey-Tongued**: Gnomes with this trait gain *haunted fey aspect* and *speak with plants* instead of *dancing lights* and *speak with animals* as spell-like abilities from the gnome magic racial trait. This racial trait alters the gnome magic racial trait.
+
+**Nosophobia**: Gnomes are humanoid, rather than fey, and are therefore not particularly susceptible to contagions that afflict the fey of corrupted wilds. Nevertheless, many gnomes grow up fearing such taint and are obsessive about training their bodies to stave off illness of all kinds. These gnomes gain a +4 bonus on Fortitude saves against disease and poison, including magical diseases. This racial trait replaces obsessive.
+
+**Bleachling**: Gnomes who have survived the Bleaching (the wasting affliction that drains color and eventually life from gnomes who do not regularly experience new things) are immune to the effects of the Bleaching thereafter. Such "bleachlings" are calm and centered, as if having discovered some truth or made a deep connection with the natural world. These gnomes gain two favored classes: druid, and their choice of any other class. They lose all spell-like abilities granted by the gnome magic racial trait except *speak with animals*, but they can use their *speak with animals* spell-like ability three times per day. This racial trait replaces obsessive and alters gnome magic. Bleachlings have access to the [Eerily Centered](../../rules/feats/eerily-centered.md) and [Wild Speaker](../../rules/feats/wild-speaker.md) feats.
+
 ## Racial Subtypes
 
 You can combine various alternate racial traits to create gnome subraces or variant races, such as the following.

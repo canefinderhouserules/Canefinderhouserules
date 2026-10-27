@@ -2,6 +2,12 @@
 
 The following options and archetypes are available to the shaman.
 
+## Hexes
+
+The following hex is available to shamans and uses the standard rules for shaman hexes.
+
+**Silkstring Snare (Su)**: The shaman causes ribbons of spider silk to erupt from the ground beneath a single creature. The target must succeed at a Reflex save or be entangled and anchored in place. The foe can escape the silk as a standard action with a successful Escape Artist or Strength check at the same DC, or by dealing an amount of damage to the silk equal to double the shaman's class level (the silk has hardness 0). This hex lasts a number of rounds equal to 3 + the shaman's Wisdom modifier. A creature affected by this hex cannot be affected by it again for 24 hours.
+
 ## Animist
 
 Even among mystical practitioners, the animist has a strange perspective and even stranger magic. The animist perceives that all things have a spirit, including objects, constructs, illnesses, buildings, and the environment.
@@ -161,3 +167,17 @@ Members in good standing of a scholarly order, occult sages have managed to disc
 **Wandering Ritual (Su)**: At 6th level, an occult sage can attempt to coax a nearby spirit into service with a 1-minute-long ritual once per day, gaining that spirit's spirit ability and adding its list of spells to those he can cast using his spirit magic. The occult sage can maintain this bond for 1 hour, or until he dismisses the spirit as a free action. At 12th level, he also gains this spirit's greater spirit power while bonded, and at 20th level gains its true spirit power as well. He can perform a wandering ritual one additional time per day at 8th level and 14th level. This ability replaces wandering spirit and wandering hex.
 
 **Esoteric Rites (Ex)**: At 8th level, an occult sage gains a +1 insight bonus on skill checks attempted as part of an occult ritual. This bonus increases by 1 for every 4 shaman levels beyond 8th (to a maximum of +5 at 20th level). If the occult sage is the ritual's primary caster, he also adds this bonus to the caster level of the ritual's effect. This ability replaces the 8th-level hex.
+
+## Grasping Vine
+
+Grasping vine shamans are typically adherents of one of several scattered sects dedicated to a goddess of nature's attraction and the peril masked by it. They revere plant life in all its forms, with a special fondness for poisonous or carnivorous plants. Unlike most shamans, a grasping vine is guided by a plantlike creature rather than a spirit animal.
+
+**Spirit**: Though a grasping vine is not limited to a particular choice of spirit, common selections are Life, Nature, or Wood.
+
+**Plant Spirit (Ex)**: A shaman's spirit animal is made of leaves and thorny vines. This plant spirit has the statistics and abilities as a shaman's spirit animal, but it is treated as a creature of the plant type rather than a native outsider. This ability alters the shaman's spirit animal.
+
+**Verdant Magic**: A grasping vine adds the following spells to the list of spells she can cast using spirit magic: *entangle* (1st), *barkskin* (2nd), *thorny entanglement* (3rd), *command plants* (4th), *wall of thorns* (5th), *fire seeds* (6th), *animate plants* (7th), *horrid wilting* (8th), and *shambler* (9th). This ability replaces the spirit magic spells granted by the shaman's spirit.
+
+**Greentongue (Sp)**: At 2nd level, as a standard action, a grasping vine can use *speak with plants* as a spell-like ability. The grasping vine can use this ability a number of times per day equal to half her shaman level. In addition, while under the effects of *speak with plants*, the grasping vine can deliver a *suggestion* (as per the spell) to a single plant creature within 30 feet, ignoring the plant's immunity to mind-affecting effects. The grasping vine can use this ability once per day at 2nd level, plus an additional time per day every 4 levels after 2nd level. This ability replaces the shaman's hex gained at 2nd level.
+
+**Flower's Form (Sp)**: At 8th level, as a standard action, a grasping vine can assume the form of a Small or Medium plant creature, as per *plant shape I*. At 12th level, this ability functions as *plant shape II*. At 16th level, this ability functions as *plant shape III*. The grasping vine can use this ability for 1 minute per shaman level per day. This duration does not need to be used consecutively, but it must be spent in 1-minute increments. This ability replaces the shaman's hex gained at 8th level.

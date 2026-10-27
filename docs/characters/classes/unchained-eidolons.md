@@ -335,6 +335,26 @@ At 12th level, psychopomp eidolons gain DR 5/adamantine. They also gain the spir
 
 At 16th level, psychopomp eidolons gain the ability increase evolution, applied to an ability score of the summoner’s choice. They also gain the ability to cast invisibility (self only) as a spell-like ability at will. At 20th level, psychopomp eidolons increase their damage reduction to 10/adamantine and gain the immunity (cold) and immunity (electricity) evolutions.
 
+### Twinned
+
+Just like a summoner, a twinned eidolon learns to use weapons and magic. While twinned eidolons are ethically more flexible than most eidolons, they are quite adamant about being treated as equals and not as servants. They demonstrate an eerie consistency with the summoner's manner of thinking, providing similar answers to questions and reacting similarly to startling events. This subtype is restricted to [twinned summoners](summoner-archetypes.md#twinned-summoner).
+
+**Alignment**: Any.
+
+**Base Form**: Biped (limbs [arms], limbs [legs]).
+
+**Base Evolutions**: A twinned eidolon gains the weapon training evolution. The twinned eidolon also gains the skilled (Disguise) evolution. The racial bonus provided by this evolution is doubled when the eidolon is impersonating the twinned summoner.
+
+At 4th level, a twinned eidolon can cast a summoner spell once per day as a spell-like ability. The spell must be one known by the eidolon's summoner and must be at least 1 level lower than the highest-level spell the summoner can cast. The eidolon must have a Charisma score of at least 10 + the spell level. The caster level for this spell-like ability is equal to the eidolon's Hit Dice minus 2. The save DC is 10 + half the eidolon's HD + the eidolon's Charisma modifier.
+
+At 8th level, a twinned eidolon gains the shared slot evolution (see the twinned summoner archetype).
+
+At 12th level, a twinned eidolon gains DR 5/magic. The eidolon also gains the extra feat evolution (see the twinned summoner archetype).
+
+At 16th level, a twinned eidolon gains the skilled evolution and the ability increase evolution, applied to a skill and an ability score of the summoner's choice.
+
+At 20th level, a twinned eidolon gains fast healing 5.
+
 ## Base Forms
 
 Each eidolon has one of three base forms that determines its starting size, speed, AC, attacks, and ability scores. All natural attacks are made using the eidolon’s full base attack bonus unless otherwise noted (such as in the case of secondary attacks). An eidolon’s attacks add the eidolon’s Strength modifier to the damage rolls, unless the eidolon has only one attack, in which case the attack adds 1-1/2 times the eidolon’s Strength modifier.

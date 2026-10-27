@@ -1623,3 +1623,17 @@ This disk of paper or light cloth is stretched over a frame of thin wooden suppo
 **Price** 25 gp; **Weight** 2 lbs.
 
 A holy text records the rites and practices of a faith. Most weigh 2 pounds and cost 25 gp. A subcategory of these tomes are known as prayer books—generally higher-quality holy texts that can come in virtually any size. Prayer books can be embellished with precious metals and stones, use stronger paper that is resistant to damage, or contain particularly poetic and lyrical prose, with no upper end to the price such a treasure might command. Other prayer books are so well organized and concise that using one in conjunction with research grants a +2 circumstance bonus on a Knowledge (religion) check, akin to the way other masterwork tools enhance other skill checks; a prayer book that grants such a boon costs an additional 100 gp above its base cost. The primary purpose of a prayer book is to contain details on rare or unusual divine spells, obscure feats, fighting styles, formulae for the crafting of magic items, and information about esoteric methods of worship.
+
+## Fey Alchemy
+
+### Chroma Grenade
+
+**Price** 75 gp; **Weight** 2 lbs.
+
+This metal canister contains alchemical reactants separated by parchment and a slow-burning fuse. Lighting the fuse is a move action; 1d3 rounds later, the chroma grenade explodes, spewing luminescent sparks and gases that fill a 10-foot-radius area. Creatures in the area are dazzled and take a –2 penalty on saving throws against illusion (pattern) spells for 3 rounds (DC 15 Will negates). A chroma grenade can be thrown as though it were a splash weapon with a range increment of 10 feet. Crafting this item requires a successful DC 25 Craft (alchemy) check.
+
+### Vine Tube
+
+**Price** 40 gp; **Weight** —
+
+This sealed copper tube contains a packet of alchemical fertilizer and several sprouted seedlings from a wild fey realm. Once shaken and opened as a standard action, the tube exudes a multitude of vines that spill into an adjacent square for 3 rounds. Left alone, these vines create an area of difficult terrain in the square, but a creature holding the tube can shape the vines as they emerge into a crude tool, piece of furniture, or other object of wood or rope weighing 20 pounds or less with a successful DC 10 Craft (baskets or carpentry) check. The vine construct lasts for 10 minutes before crumbling to pieces. Crafting this item requires a successful DC 25 Craft (alchemy) check.

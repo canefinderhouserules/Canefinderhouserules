@@ -72,6 +72,12 @@ The following racial traits might be selected instead of existing racial traits.
 
 **Underfoot Dodger**: City-dwelling halflings do not treat crowd squares as difficult terrain and they gain a +5 bonus on Acrobatics checks to move through the spaces of larger foes. This racial trait replaces fearless and weapon familiarity.
 
+### Fey Heritage Alternate Racial Traits
+
+The following racial traits represent a fey ancestor in the family line. They can be selected instead of the indicated racial traits. Consult your GM before selecting any of these options.
+
+**Fey-Quickened**: Some fey-blooded halflings are faster than their kin, yet retain a sharp eye for danger. These halflings gain Run as a bonus feat and a +2 racial bonus on initiative checks. This racial trait replaces fearless and keen senses.
+
 ## Racial Subtypes
 
 You can combine various alternate racial traits to create halfling subraces or variant races, such as the following.

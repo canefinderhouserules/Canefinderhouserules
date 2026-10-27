@@ -331,3 +331,27 @@ In addition, a 7th-level totem-bonded’s animal companion can grow further. If 
 While the shared strength ability is active, the totem-bonded manifests one aspect of her animal companion drawn from the following list: low-light vision, scent, +1 bonus to natural armor, +10-foot bonus to speed, climb speed 30 feet, swim speed 40 feet, 2 claws (1d4), bite (1d6), gore (1d6), or slam (1d6); the natural attacks are all primary attacks, and the listed damage is for a Medium creature. The totem-bonded can select only a movement speed or natural attack that her animal companion also has, and an aspect cannot cause her speed or size to exceed that of her animal companion with this ability. At 8th level, the totem-bonded manifests two aspects of her animal companion, and she adds the following to her list of available aspects: +20-foot bonus to speed, fly speed 50 feet (average), increased size (as *enlarge person*), and powerful charge (doubles the damage dice dealt by the granted gore or slam attack). At 15th level, the damage dealt by any natural attacks granted by this ability increases by two die steps.
 
 A totem-bonded’s animal companion also benefits from the shared strength ability, and while it is active, the animal understands the totem-bonded’s known languages and can be pushed to perform an unfamiliar trick as a free action. At 8th level, the animal companion gains a +1 bonus on saving throws and a +2 bonus on checks with each skill in which it has at least 1 rank. At 15th level, the animal companion’s bonuses on saving throws and skill checks increase to +2 and +4 respectively. This ability replaces the hunter’s animal focus class feature.
+
+## Feykiller
+
+Some hunters in fey-plagued regions are dedicated to tracking down and eradicating these threats. They use their connection to the natural world to ground their senses and fight corrupted intrusions from the fey realm.
+
+**Animal Focus (Su)**: A feykiller emulates animals that grant her the ability to unmask fey trickery. She adds the following choices to her animal focus ability instead of the bear, frog, monkey, mouse, and snake choices.
+
+*Crow*: The creature gains a +4 competence bonus on Knowledge checks to identify the abilities and weaknesses of creatures. This bonus increases to +6 at 8th level and +8 at 15th level.
+
+*Goat*: The creature gains a +2 competence bonus on saving throws against enchantment spells and spell-like abilities. This bonus increases to +4 at 8th level and +6 at 15th level.
+
+*Mongoose*: The creature gains a +2 competence bonus on grapple combat maneuver checks and on saving throws against poison. These bonuses increase to +4 at 8th level and +6 at 15th level.
+
+*Shark*: The creature gains a +4 competence bonus on Survival checks to track a creature that has taken damage from the hunter or her animal companion in the past 24 hours. This bonus increases to +6 at 8th level and +8 at 15th level.
+
+*Turtle*: The creature gains a +2 enhancement bonus to its natural armor bonus. This bonus increases to +4 at 8th level and +6 at 15th level. (A creature without natural armor has an effective natural armor bonus of +0.)
+
+This ability alters animal focus.
+
+**Iron Talons (Ex)**: Through training and prayer, a feykiller imbues her animal companion with an enhanced ability to fight fey. One of the animal companion's natural attacks, as selected by the feykiller, is treated as cold iron for the purpose of overcoming damage reduction. At 7th level, all of her animal companion's natural attacks are treated as cold iron. This ability replaces wild empathy and speak with master.
+
+**Resist Nature's Lure (Ex)**: At 4th level, a feykiller gains the resist nature's lure druid class feature whenever her animal companion is within 60 feet. This ability replaces improved empathic link.
+
+**Grounded (Su)**: At 17th level, a feykiller gains a +4 insight bonus on saving throws against illusion and enchantment effects, and she is immune to illusion and enchantment effects created by fey. This ability functions only when her animal companion is within 60 feet. This ability replaces one with the wild.

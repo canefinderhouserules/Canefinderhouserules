@@ -68,6 +68,14 @@ The following racial traits might be selected instead of existing racial traits.
 
 **Inspire Imitation**: Whenever a half-elf succeeds at a skill check, she can inspire imitators as a swift action. Any ally within 30 feet who witnesses the successful check and attempts the same check within the next minute gains a +2 bonus on the check as if from the aid another action. This racial trait replaces skilled.
 
+### Fey Heritage Alternate Racial Traits
+
+The following racial traits represent a fey ancestor in the family line. They can be selected instead of the indicated racial traits. Consult your GM before selecting any of these options.
+
+**Disregarded**: Half-elves with this trait practice magical techniques to conceal their fey features from casual scrutiny. These half-elves treat their caster level as 1 higher when casting illusion spells. Half-elves with a Charisma score of 11 or higher also gain the following spell-like abilities: 1/day—*guidance*, *innocence*, *lullaby*, and *mage hand*. The caster level for these effects is equal to the half-elf's level. The DC for these spells is equal to 10 + the spell's level + the half-elf's Charisma modifier. This racial trait replaces keen senses.
+
+**Alert for Betrayal**: Some half-elves' skepticism of apparent allies makes them cynical and stubborn. These half-elves gain a +2 racial bonus on saves against illusion spells and effects. Perception and Sense Motive are class skills for them. This racial trait replaces adaptability.
+
 ## Racial Subtypes
 
 You can combine various alternate racial traits to create half-elven subraces or variant races, such as the following.

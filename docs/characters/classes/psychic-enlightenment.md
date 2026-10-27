@@ -62,3 +62,21 @@ Your mind is forged from the most powerful memories of a multitude of lifetimes.
 **Resurgence (Su)**: At 5th level when you would be reduced to 0 hit points or fewer by an attack, you can spend 2 points from your phrenic pool as an immediate action to regain a number of hit points equal to 1d8 points of damage + your psychic level. At 10th level, this ability's healing increases to 3d8 + your psychic level. If this healing is insufficient to bring you above negative hit points, you are automatically stabilized. If you would still be killed by the amount of damage taken, you erupt with positive energy and heal all allies within a 30-foot-radius burst for the amount you healed yourself.
 
 **Physical Regression (Sp)**: At 13th level, you can spend 2 points from your phrenic pool as a standard action once per day to take on the form of one of your previous incarnations. This ability functions as the *polymorph* spell, but its range is personal and its duration becomes 10 minutes per caster level.
+### Sorrow
+
+You draw strength from deep feelings of abandonment, loneliness, and sadness, turning these emotions into a powerful weapon or a barrier that protects you.
+
+**Phrenic Pool Ability**: Charisma.
+
+**Bonus Spells**: sanctuary (1st), silence (4th), nondetection (6th), crushing despair (8th), mind fog (10th), eyebite (12th), sequester (14th), maze (16th), imprisonment (18th).
+
+**Discipline Powers**: Through your powers, you can use overwhelming sorrow to protect yourself and weaken others.
+
+**Numb to the Pain (Ex)**: You gain a morale bonus equal to your Charisma bonus on saving throws against mind-affecting spells and effects. This bonus cannot exceed your psychic level.
+
+**Despair (Su)**: When a creature within 30 feet rolls for an attack, a save against a fear effect, or a skill check, you can flood its mind with a feeling of hopelessness as an immediate action before the roll is made. The target takes a –1 penalty on the roll. The penalty increases by 1 for every 6 psychic levels you have beyond 1st, to a maximum of –4 at 19th level. If the target fails its attack roll, save, or skill check, you regain 1 point in your phrenic pool. You can use this ability a number of times per day equal to 3 + your Charisma modifier. This is a mind-affecting emotion effect.
+
+**Wave of Gloom (Su)**: At 5th level, by expending 1 use of your despair ability as a standard action, you can project a strong feeling of dejection. All creatures within 30 feet of you must succeed at a Will save or take a penalty on attack rolls, saves against fear effects, and skill checks for 1d4 minutes. The penalty is equal to (but doesn't stack with) the penalty provided by your despair ability. The DC of the saving throw equals 10 + half your psychic level + your Charisma modifier. You're immune to your own wave of gloom. This is a mind-affecting emotion effect.
+
+**Fortress of Sorrow (Sp)**: At 13th level, you can mentally construct an extraplanar retreat on the Astral Plane. This ability functions as *lesser create demiplane* with a caster level equal to your psychic level, with the following adjustments: you need no focus to create the fortress of sorrow; the demiplane is permanent until dismissed by you; you cannot create more than one demiplane with this ability or add to the plane's area by casting the spell again; the light level on the demiplane is dim, though light sources affect it normally; and you cannot bring other creatures to your demiplane. Once per day, you can enter your demiplane (as *plane shift*), and once per day, you can return in a similar manner, arriving at the same spot you left from (or the nearest available space).
+

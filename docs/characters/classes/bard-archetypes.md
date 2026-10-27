@@ -140,6 +140,34 @@ You affect the mood of listeners by celebrating the defeat of a legendary hero o
 
 **Action**: 2 full rounds.
 
+### Serpentine Dance (Dance)
+
+Your expressive dance makes your allies much more limber.
+
+**Prerequisites**: Perform (dance) 5 ranks.
+
+**Cost**: Feat or 2nd-level bard spell known.
+
+**Effect**: When you complete this performance, choose one target per bard level to gain the benefits of this masterpiece. An affected creature can move through areas at least half its width with no penalty for squeezing, and can move through a space at least one-quarter its width using the normal penalties for squeezing. This is a polymorph effect.
+
+**Use**: 1 round of bardic performance per minute of the effect's duration.
+
+**Action**: 1 minute.
+
+### Spiraling Ascent (Act, Dance)
+
+You can hurl your allies into battle by directing swift winds.
+
+**Prerequisites**: Perform (act) or Perform (dance) 7 ranks.
+
+**Cost**: Feat or 3rd-level bard spell known.
+
+**Effect**: Your whirling motions summon a 15-foot-high cyclone into an empty space adjacent to you. This cyclone persists until you stop using bardic performance to sustain it, and extends an additional 15 feet in height each round you sustain it until it reaches a ceiling or other obstacle. As a move action, you can direct the cyclone to harmlessly flow around one willing creature adjacent to the cyclone and move the creature to any other square adjacent to the cyclone at any height the cyclone has reached. This movement provokes attacks of opportunity. The cyclone is immobile once created. Abilities that extend the duration of a bardic performance (such as Lingering Performance) affect this masterpiece.
+
+**Use**: 1 round of bardic performance per round.
+
+**Action**: 1 standard action.
+
 ### Stirring Discourse of the Mind (Oratory)
 
 You lecture your audience on the merits of studious endeavors and inspire them with new insights into the subject matter. As a result of your discourse, those who listen become more receptive to knowledge.
@@ -1539,3 +1567,37 @@ In addition, for the purpose of meeting the requirements of combat feats and pre
 **Precise Minstrel (Ex)**: At 2nd level, a longbow minstrel gains Precise Shot as a bonus feat. In addition, any creature that is affected by any of the longbow minstrel's bardic performance does not provide soft cover to enemies against her ranged attacks with a bow. This ability replaces the versatile performance gained at 2nd level and well-versed.
 
 **Bowsong Strike (Su)**: At 6th level, a longbow minstrel can use spellstrike (as per the magus class feature) to cast a single-target ranged touch attack spell and deliver it through a ranged weapon attack. Even if the spell can normally affect multiple targets, only a single missile, ray, or effect accompanies the attack. She cannot use spellstrike with normal touch attacks or melee attacks. At 18th level, a longbow minstrel using a multiple-target spell with this ability can deliver one ray or line of effect with each attack when using a full-attack action, up to the maximum allowed by the spell (in the case of ray effects). Any effects not used in the round the spell is cast are lost. This ability replaces suggestion and mass suggestion.
+
+## Wild Minstrel
+
+Most cultures tell stories of people stolen away by the fey, only to return years later, forever changed. The wild minstrel was changed in such a way by the fey, and his performances channel the mysterious powers of the fey realm.
+
+**Fey Magic**: A wild minstrel adds *summon nature's ally* spells to his spell list instead of the equivalent *summon monster* spells. This ability alters the wild minstrel's spell list.
+
+**Wild Empathy (Ex)**: A wild minstrel gains the wild empathy druid class feature, using his bard level as his druid level for this ability. This ability replaces bardic knowledge.
+
+**Bardic Performance**: A wild minstrel gains the following types of bardic performance.
+
+*Echoes of the Fey Realm (Su)*: A wild minstrel infuses himself or a single willing ally within 30 feet with the strange magic of the fey realm, granting the target one of the special abilities from the fey creature template other than change shape for 1 round. For every 3 levels beyond 1st the wild minstrel has, he can target one additional ally or add an additional special ability to one of his targets. This is a polymorph effect that relies on audible components. This ability replaces inspire courage.
+
+*Gremlin's Luck (Su)*: A wild minstrel of 8th level or higher can use his performance to inflict bad luck on a target within 30 feet for 1 round. Whenever the target rolls an ability check, attack roll, saving throw, or skill check, it must roll twice and take the worse result. A target that succeeds at a Will save (DC = 10 + half the wild minstrel's level + his Charisma modifier) negates the effect and is immune to this ability for 24 hours. This is a mind-affecting effect that relies on audible components. This ability replaces dirge of doom.
+
+**Resist Nature's Lure (Ex)**: At 2nd level, a wild minstrel gains the resist nature's lure druid class feature. This ability replaces well-versed.
+
+## Mischief Maker
+
+Sly and mischievous like the fey tricksters of legend, mischief makers learn supernatural tricks that can cause their victims to suffer mishaps and accidents.
+
+**Mischievous Talent (Ex)**: A mischief maker adds half her class level (minimum 1) on Bluff, Disguise, Sleight of Hand, and Stealth skill checks, and can attempt Sleight of Hand checks untrained. This ability replaces bardic knowledge.
+
+**Bardic Performance**: A mischief maker gains the following types of bardic performance.
+
+*Song of Clumsiness (Su)*: A mischief maker can use this performance to cause enemies within 30 feet that can hear her to suffer seemingly random mishaps. Any enemy in this area that draws a weapon or retrieves an item from a backpack or similar container immediately drops it, and falls prone the first time it enters a square of difficult terrain during its turn. A creature can negate a specific effect with a successful Reflex saving throw (DC = 10 + half the mischief maker's bard level + her Charisma modifier), but an enemy must attempt a separate save for each potential effect during the song of clumsiness (for example, if it draws multiple weapons). Song of clumsiness is an enchantment (compulsion), mind-affecting ability that relies on audible components. This ability replaces countersong.
+
+*Incite Unreliability (Su)*: A mischief maker can use her performance to manipulate a single target into fighting erratically or haphazardly, as though affected by *lesser confusion*. To be affected, the target must be within 30 feet and able to hear the mischief maker's performance. The effect persists for as long as the target can hear the performance. A target that succeeds at a Will saving throw (DC = 10 + half the mischief maker's bard level + her Charisma modifier) negates the effect and becomes immune to incite unreliability from the same mischief maker for 24 hours. Incite unreliability is an enchantment (compulsion), mind-affecting ability that relies on audible components. This ability replaces inspire courage.
+
+*Embarrassing Satire (Su)*: At 8th level, a mischief maker's powerful satire raises painful blisters and ugly boils on the face of her target. The mischief maker selects one target within 30 feet to become sickened from the uncomfortable facial boils. The sickened effect continues for as long as the target is within 30 feet and the mischief maker continues the performance, though the boils remain for 1 day afterward. Embarrassing satire is a language-dependent, mind-affecting ability that relies on audible components. This ability replaces dirge of doom.
+
+**Dirty Trickster (Ex)**: At 2nd level, a mischief maker gains Improved Dirty Trick as a bonus feat and counts as having Combat Expertise for the purpose of meeting the prerequisites of feats that have Improved Dirty Trick as a prerequisite. This ability replaces well-versed.
+
+**Master of Mischief (Ex)**: At 5th level, a mischief maker can take 10 on a Bluff, Disguise, Sleight of Hand, or Stealth skill check (if she has ranks in that skill), even if distracted or endangered. In addition, once per day, the mischief maker can take 20 on one of these skill checks (if she has ranks in that skill). She can use this ability one additional time per day for every 6 bard levels she has beyond 5th, to a maximum of three times per day at 17th level. This ability replaces lore master.

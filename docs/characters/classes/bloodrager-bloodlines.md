@@ -288,6 +288,28 @@ Salamanders are fierce warriors and master smiths, and you wield their might and
 
 **Essence of Fire (Ex)**: At 20th level, you become immune to fire damage. In addition, your bloodrager damage reduction increases by 5. If you don’t have bloodrager damage reduction, you gain DR 10/magic instead. You have these benefits constantly, even while you are not bloodraging.
 
+## Shapechanger
+
+The blood of doppelgangers, faceless stalkers, lycanthropes, or other shapechangers courses through your veins.
+
+**Bonus Feats**: Dodge, Fleet, Improved Initiative, Improved Unarmed Strike, Lightning Reflexes, Power Attack, Weapon Focus.
+
+**Bonus Spells**: Enlarge person (7th), alter self (10th), fly (13th), stoneskin (16th).
+
+**Bloodline Powers**: Transformative powers in your blood emerge when you bloodrage.
+
+**Shifting Aspect (Su)**: At 1st level, you gain the benefit of the Aspect of the Beast feat while bloodraging. As part of the action to enter a bloodrage, you can choose any one of the four manifestations to affect you for the duration of your bloodrage.
+
+**Spontaneous Change (Sp)**: At 4th level, when entering a bloodrage, you can cast a transmutation spell that affects only you as a swift action, provided that the spell's normal casting time is 1 round or shorter. The spell lasts for as long as you continue bloodraging, regardless of the spell's normal duration. You can use this ability only to cast bloodrager spells you know.
+
+**Evolving Aspect (Su)**: At 8th level, you gain Aspect of the Beast as a bonus feat even if you don't meet the prerequisites. As normal for the feat, you must choose one of the manifestations, and you gain its benefits even while not bloodraging. When you enter a bloodrage, you can choose a second manifestation to affect you simultaneously for the duration of your bloodrage.
+
+**Beastskin (Su)**: At 12th level, when entering a bloodrage, you can cause your skin to grow thicker and more bestial. Your damage reduction from your bloodrager levels increases by 2, but it can be bypassed with silver weapons. Your natural attacks (including unarmed strikes) are then treated as silver for the purpose of overcoming damage reduction.
+
+**Shed Skin (Su)**: At 16th level, when your bloodrage ends, you can choose one spell or spell-like ability affecting you and attempt to shake it off as an immediate action. Attempt a dispel check (1d20 + your bloodrager level) as if you were casting *dispel magic*. If you succeed, the effect is dispelled.
+
+**True Shapeshifter (Sp)**: At 20th level, you are immune to all transmutation spells and effects unless you are a willing target. You can also use *greater polymorph* at will as a spell-like ability with a caster level equal to your bloodrager level targeting only yourself. These effects function even while you're not bloodraging.
+
 ## Undead
 
 The foul corruption of undeath is a part of you. Somewhere in the past, death became infused with your lineage. Your connection to the attributes of the undead bestows frightening power when your bloodrage.

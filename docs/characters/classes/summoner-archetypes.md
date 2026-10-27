@@ -627,3 +627,27 @@ Some summoners can't abide the cruelty of devils, or simply can't outwit them, b
 **Fiendish Appearance (Su)**: At 8th level, a devil impostor can use her maker's call ability to immediately dismiss her eidolon and take on its appearance. This functions as a modified *alter self* spell, transforming the devil impostor into a replica of her eidolon. She gains a single natural attack possessed by her eidolon, and if her eidolon is smaller than Small or larger than Medium, she assumes the form of a Small- or Medium-sized version of her eidolon, respectively. The transformation lasts for 10 minutes × her unchained summoner level or until the eidolon is resummoned. This ability replaces transposition.
 
 **Devil's Tongue (Ex)**: At 12th level, the devil impostor's eidolon can apply its master's skill ranks and proficiency bonuses when attempting Bluff, Diplomacy, and Intimidate skill checks. This ability replaces greater shield ally.
+
+## Twinned Summoner
+
+Reflecting the connected nature of a pair of twins, a twinned summoner and his eidolon appear identical save for any obvious differences, such as evolutions or equipment.
+
+**Twinned Eidolon**: The twinned summoner's eidolon is restricted to the biped base form. An unchained summoner's eidolon is instead restricted to the [twinned eidolon subtype](unchained-eidolons.md#twinned). If the summoner's natural size is smaller than Medium, the twinned summoner's eidolon must be Small. This ability may require a different base form or subtype to match the twinned summoner's natural form, at the GM's discretion, if the twinned summoner is not a bipedal creature.
+
+**Teamwork Feats (Ex)**: At 4th level and at 12th level, a twinned summoner gains a bonus teamwork feat. He must meet the prerequisites of the selected teamwork feat. The twinned summoner automatically grants all of his teamwork feats to his eidolon. The eidolon doesn't need to meet the prerequisites of these teamwork feats. This ability replaces shield ally and greater shield ally.
+
+**Twinned Transposition (Su)**: At 6th level, as a standard action, a twinned summoner can swap locations with his eidolon as if each were using *dimension door*, using the twinned summoner's caster level. If the eidolon is out of range, the ability is wasted. If either the twinned summoner or his eidolon occupies more squares than the other, each must occupy one or more squares that were occupied by the other if possible, or as close as possible if not. The twinned summoner can use this ability once per day at 6th level, plus one additional time per day for every 4 levels beyond 6th. At 8th level, he can use this ability as a swift action. This ability replaces maker's call and transposition.
+
+**Twin Summoner (Su)**: At 16th level, a twinned summoner can touch his eidolon as a standard action, enhancing its similarity to the summoner. The eidolon loses any natural weapons or size increases gained from evolutions, and its Intelligence, Wisdom, and Charisma scores change to match the base scores of the summoner. The eidolon can cast any of the summoner's spells known using the summoner's caster level and spell slots. It doesn't gain the benefit of any of the summoner's items, feats, or other effects that affect spellcasting. The eidolon can keep this form for a number of minutes per day equal to the summoner's class level. This duration does not need to be consecutive, but it must be spent in 1-minute increments. The summoner can end this effect as a free action. This ability replaces the merge forms class feature.
+
+**Evolutions**: Any eidolon that serves a twinned summoner and meets the prerequisites can take the following new evolutions. These evolutions cannot be selected with the aspect ability.
+
+*1-Point Evolution*
+
+*Shared Evolution (Su)*: Select a 1-point or 2-point evolution the eidolon has. As a standard action, the eidolon can touch the summoner and transfer the selected evolution to him. This functions as the summoner's aspect ability, and the same limitations apply. The summoner can touch the eidolon as a standard action to return the evolution. The evolution returns to the eidolon automatically if the eidolon is dismissed by the summoner or sent back to its home plane.
+
+*2-Point Evolutions*
+
+*Extra Feat (Ex)*: The eidolon gains an extra feat. It must meet the prerequisites of the feat.
+
+*Shared Slot (Su)*: Select a magic item slot. A magic item worn by the eidolon in that slot remains active even if the summoner is also wearing a magic item in that slot. This evolution can be selected more than once. Each time an eidolon selects this evolution, it applies to a new slot.

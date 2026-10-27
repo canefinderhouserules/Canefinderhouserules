@@ -947,3 +947,23 @@ A serpent-fire adept embraces the secrets of her chakras and mastery of their en
 **Linked Chakras (Ex)**: At 7th level, the serpent-fire adept can open multiple chakras at once as a standard action. The round that she does this, she is required to make saving throws only to resist being overwhelmed by the highest chakra she opens, though the save DCs are increased by 5. She can do this once per day, plus one additional time per day each at 12th and 17th level. This ability replaces wholeness of body. (This ability is gained at 8th level, replacing the 8th-level ki power, for the unchained monk.)
 
 **Chakra Mastery (Ex)**: At 10th level, the serpent-fire adept gains [Chakra Master](../../rules/feats/chakra-master.md) as a bonus feat. She need not meet the feat's prerequisites. When maintaining her open chakras with chakra expertise, she can spend 1 point of ki to gain the benefits of two chakras rather than one in that round (or three chakras, if she has opened her crown chakra). At 14th level, the serpent-fire adept's pool of serpent-fire ki increases to 7 points, and at 18th level, it increases to 9 points. This ability replaces the bonus feats gained at 10th, 14th, and 18th level.
+
+## Nornkith
+
+Nornkith hone their bodies and minds to follow the branching threefold paths of fate. Nornkith seek to emulate the fey masters of fate called norns and eventually ascend to become norns in their own right.
+
+**Conviction of Fate (Ex)**: A nornkith uses her Charisma, rather than her Wisdom, to determine all class features and effects relating to her monk class.
+
+**Forewarned (Su)**: A nornkith can always act in the surprise round, even if she does not notice her enemies, though she remains flat-footed until she takes an action. In addition, she gains a bonus on initiative rolls equal to half her monk level (minimum +1). At 20th level, a nornkith's initiative roll is automatically a natural 20. This ability replaces stunning fist.
+
+**Shears (Su)**: Whenever a nornkith makes an unarmed strike, she can cause shimmering silver shears to manifest around the blow, causing the unarmed strike to count as silver for the purpose of overcoming damage reduction. At 7th level, she gains Improved Critical (unarmed strike) as a bonus feat, even if she does not meet the prerequisites. This ability replaces the bonus feat gained at 1st level.
+
+**Resist Death's Lure (Su)**: At 5th level, a nornkith gains a +4 morale bonus on saves against death effects, energy drain, and negative energy. At 10th level, she gains immunity to energy drain and negative energy. This ability replaces purity of body and the bonus feat gained at 10th level.
+
+**Fate Weaver (Su)**: At 11th level, a nornkith can spend 1 ki point as an immediate action to force a creature within 60 feet to reroll one saving throw before the results of the roll are revealed. The creature must take the result of the second roll, even if it's worse than the original roll. Whether the new result is a success or failure, the creature cannot be the target of this ability again for 1 day. This ability replaces diamond soul.
+
+**Snip Thread (Su)**: At 15th level, as a standard action, a nornkith can spend 1 ki point to produce a golden thread linked to the fate of a creature within 60 feet and mimic snipping through the thread with a pair of shears. The target takes 1d6 points of damage per nornkith level and can attempt a Fortitude saving throw (DC = 10 + half the nornkith's monk level + her Charisma modifier) to halve this damage. If the damage would bring the target's hit points to 0 or below, the nornkith can spend another ki point to sever the golden thread completely; in this case, the target dies and can only be restored to life with *miracle*, *wish*, or divine intervention. The nornkith can use this ability once per day. This is a death effect. This ability replaces quivering palm.
+
+**Inscrutable (Su)**: At 19th level, the nornkith is protected by a constant *mind blank* effect with a caster level equal to her monk level. The nornkith can suppress or resume this protection as a standard action. This ability replaces empty body.
+
+**Norn Transformation**: At 20th level, a nornkith attains her fey heritage. Her type changes to fey, and she gains DR 10/cold iron. This ability replaces perfect self.

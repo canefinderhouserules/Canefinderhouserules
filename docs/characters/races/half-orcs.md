@@ -74,6 +74,12 @@ The following racial traits might be selected instead of existing racial traits.
 
 **Tenacious**: City-dwelling half-orcs must often be tenacious to get by. Once per day if a half-orc fails a Fortitude save, Will save, or Constitution check, he can reroll the save or check. The half-orc must take the second result, even if it is worse. This racial trait replaces orc ferocity.
 
+### Fey Heritage Alternate Racial Traits
+
+The following racial traits represent a fey ancestor in the family line. They can be selected instead of the indicated racial traits. Consult your GM before selecting any of these options.
+
+**Shamanic Enhancement**: Certain half-orcs know rituals to enhance the strength and brutality of their allies. These half-orcs gain a +2 racial bonus on Spellcraft checks. In addition, when such a half-orc acquires an animal companion, bonded mount, cohort, familiar, or spirit animal, that creature gains a +2 bonus to Strength, Dexterity, or Constitution, as selected by the half-orc. This racial trait replaces weapon familiarity and intimidating.
+
 ## Racial Subtypes
 
 You can combine various alternate racial traits to create half-orc subraces or variant races, such as the following.

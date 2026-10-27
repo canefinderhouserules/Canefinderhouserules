@@ -79,6 +79,7 @@ New antipaladin spells from *Ultimate Magic*. Spells from other books will be ad
 - **[Lose the Trail](lose-the-trail.md)**: Harder to track.
 - **[Magic Siege Engine](magic-siege-engine.md)**: Siege engine gains +1 on targeting and damage rolls.
 - **[Mindshock](mindshock.md)**: Your attacks deal extra nonlethal damage and can confuse.
+- **[Mortal Terror](mortal-terror.md)**: Target is shaken and grows more afraid each time it is hurt.
 - **[Open Book](open-book.md)**: Make it permanently easier to learn more about a target.
 - **[Outbreak](outbreak.md)**: Make diseased creatures contagious
 - **[Painful Revelation](painful-revelation.md)**: Illusion hurts those who disbelieve it
