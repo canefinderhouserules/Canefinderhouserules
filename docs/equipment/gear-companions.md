@@ -431,3 +431,119 @@ This rare and expensive variant of standard pesh is produced by introducing a vi
 **Rule**
 
 Normally, if a suit of dragonhide armor has energy immunity, one may enhance such a suit with additional energy protection for the wearer at a 25% reduced cost. However, only effects with the same elemental type as the armor's immunity are eligible for this discount. An artisan with the Dragoncrafting feat may add 1 additional elemental protection to a suit of dragonhide armor at the same 25% discount, even if this energy resistance is not normally associated with the type of dragonhide being used.
+
+## Ranged Tactics Gear
+
+### Crank Crossbow, Heavy
+
+**Price** 400 gp; **Dmg** 1d8 (S), 1d10 (M); **Critical** 19–20/×2; **Range** 120 ft.; **Weight** 12 lbs.; **Type** piercing; exotic ranged weapon
+
+This heavy crossbow has a winch mounted below the stock. Up to 50 feet of silk rope can be wound onto the winch as a full-round action that provokes attacks of opportunity. The wound rope can be attached to a barbed bolt or grappling bolt as part of a loading action. After firing such a bolt, the wielder can use the winch to retract the rope or pull herself along the rope if the bolt is secure. When used with a barbed bolt, the winch provides a +2 bonus on grapple combat maneuver checks to pull the target toward you. When used with a grappling bolt, the winch provides a +2 bonus on Climb checks.
+
+### Crank Crossbow, Light
+
+**Price** 250 gp; **Dmg** 1d6 (S), 1d8 (M); **Critical** 19–20/×2; **Range** 80 ft.; **Weight** 6 lbs.; **Type** piercing; exotic ranged weapon
+
+This weapon functions as a heavy crank crossbow, except that its damage, critical, and range values are equivalent to those of a light crossbow. Its lighter construction means it provides only a +1 bonus on Climb checks and grapple combat maneuver checks to pull the target toward you.
+
+### Throwing Arrow Cord
+
+**Price** —; **Dmg** 1d3 (S), 1d4 (M); **Critical** ×2; **Range** 60 ft.; **Weight** —; **Type** piercing; martial ranged weapon
+
+This simple fiber or leather cord has a knot at either end. One end is wound once around the notch of a throwing arrow. The cord runs taut along the shaft to the front of the arrow, where you hold the arrow to throw. The remainder of the cord wraps around your hand. The cord dramatically increases the throwing arrow's range. Attaching the cord to a throwing arrow is a move action that requires two hands and provokes attacks of opportunity. The Rapid Reload feat can be taken for throwing arrow cords, allowing you to load a throwing arrow as a free action.
+
+### Barbed Arrow
+
+**Price** 2 gp (20); **Weight** 3 lbs.
+
+The head of a barbed arrow resembles that of a harpoon. When a barbed arrow is attached to a length of silk rope and fired from a bow, the arrow's range increment is reduced to 30 feet, but it gains the grapple special weapon quality. Barbed bolts exist for crossbows.
+
+### Incendiary Arrow
+
+**Price** 10 gp (20); **Weight** 3 lbs.
+
+A metal cage behind this arrow's point contains flammable material. You take a –1 penalty on attack rolls when firing incendiary arrows. You can light up to six incendiary arrows as a full-round action (a standard action if you use a tindertwig) that provokes attacks of opportunity. Once lit, the arrow burns for 2 rounds. A lit incendiary arrow deals an additional 1 point of fire damage. On a critical hit, the target must succeed at a DC 15 Reflex save or catch fire. Incendiary bolts exist for crossbows.
+
+### Pronged Arrow
+
+**Price** 2 gp (20); **Weight** 3 lbs.
+
+Rather than narrowing to a single point, a pronged arrow has a wide face with two points resembling a crescent or V-shape. Originally used for hunting game, a pronged arrow deals damage as if one size category smaller, but you gain a +1 bonus on attack rolls against creatures or objects one or more size categories smaller than you.
+
+### Throwing Arrow
+
+**Price** 5 sp; **Weight** 1/2 lb.
+
+Too long to use in a bow, the throwing arrow has no nock at the tail. Instead, it has a notch ahead of the fletching where a throwing arrow cord can be attached. If thrown without the use of a cord, treat a throwing arrow as a dart.
+
+### Bell Tripwire Trap
+
+**Price** 2 gp; **Weight** 2 lbs.; **Craft DC** 15 (Craft [traps])
+
+This fine, 10-foot-long tripwire is attached to a loud bell and comes with pitons to fix the trap in place. The trap can be set across doorways, hallways, or narrow passes or between trees or rocks. Arming the trap properly takes 5 minutes; it can be set up in as little as 1 minute, but doing so reduces the DC to notice and disarm the trap by 5. **Type** mechanical; **Perception** DC 20; **Disable Device** DC 20; **Trigger** touch; **Reset** manual; **Effect** bell rings (Perception DC 0 to hear).
+
+### Camouflage Blanket
+
+**Price** 12 gp; **Weight** 2 lbs.
+
+This large, coarse blanket covers a single square and has a multicolored design that blends in with a specific environment type, such as underground, forests, or plains. A character covered by a camouflage blanket in that blanket's matching terrain has concealment. Such characters who are also prone gain a +2 circumstance bonus on Stealth checks. The bonus applies even when the covered character attempts a Stealth check to remain hidden after sniping with a projectile weapon.
+
+### Contracting Rope
+
+**Price** 50 gp; **Weight** 5 lbs.; **Craft DC** 20 (Craft [alchemy])
+
+This 50-foot length of silk rope is treated with alchemical reagents that give it a distinctly dusty odor. When any part of the rope is touched to an open flame, it suddenly contracts to one-fifth its original length, pulling any creature or object attached to one side to within 10 feet of the other; if multiple creatures are moved into the same square, they fall prone in randomly determined adjacent squares. Because of the sudden jerk, a creature holding a contracting rope must succeed at a DC 10 Climb check to avoid dropping it as it contracts (unless it is knotted around the creature's waist, clamped in a locked gauntlet, or otherwise firmly attached to the creature). The rope fails to contract if it would pull more than 1,000 pounds horizontally or lift more than 250 pounds vertically. Once activated, the rope slowly unravels to its normal length over the course of 24 hours and can't be activated again until such time has passed.
+
+### Ear Trumpet
+
+**Price** 25 gp (common), 100 gp (masterwork); **Weight** 2 lbs.
+
+This foot-long brass funnel amplifies sounds entering through the broad end for anyone listening at the narrow end. The listener gains a +2 circumstance bonus on sound-based Perception checks but must use one hand to hold the trumpet to the ear in order to gain the benefit. A masterwork ear trumpet's exquisite acoustic properties grant the listener a +4 circumstance bonus instead.
+
+### Fire Wheel Firework
+
+**Price** 200 gp; **Weight** 1 lb.; **Craft DC** 25 (Craft [alchemy])
+
+Once its fuse has been lit, this hoop-shaped firework emits colorful sparks from a series of outward-angled wooden tubes. It can then be rolled along the ground or thrown as a splash weapon with a range increment of 30 feet. One round after being lit, a fire wheel firework explodes in a spectacular 5-foot-tall cylindrical blast with a 20-foot radius. All creatures in the area take 3d6 points of fire damage and are blinded for 1 minute (Reflex DC 16 halves damage, negates blindness).
+
+### Flight Grapnel
+
+**Price** 50 gp; **Weight** 2 lbs.
+
+This masterfully crafted grappling hook sports hinged flukes that collapse down to the sides of the hook's base. A collapsed flight grapnel is thrown like a dart (typically while attached to rope), and the flukes spring out only when it strikes a solid object. This makes the grappling hook more aerodynamic, though heavier. A flight grapnel acts as a grappling hook in all ways, except it's treated as a thrown weapon with a range increment of 20 feet.
+
+### Gabion
+
+**Price** 1 gp; **Weight** 2 lbs.; **Craft DC** 10 (Craft [traps])
+
+This tough wickerwork cylinder is typically 3 feet tall and 2 feet wide. It has no top or bottom, and can be filled with about 10 cubic feet of earth, stone, or other heavy materials while standing upright to provide substantial cover. Filling a gabion with earth using a shovel generally requires 4 minutes of work for a Medium character or 8 minutes of work for a Small character. One gabion provides cover for a Small character and might provide partial cover for a Medium character, at the GM's discretion. Two gabions together can provide cover to a Medium character, although if they aren't stacked atop each other, they can form only a low obstacle depending on the character's height.
+
+### Perfect Ice
+
+**Price** 1,500 gp (1 vial); **Weight** —; **Craft DC** 25 (Craft [alchemy])
+
+This vial contains a large snowflake that melts only at temperatures of 140 degrees Fahrenheit or above. Perfect ice is an alchemically engineered form of water that briefly converts any moisture it touches into a similar state. When a flask of perfect ice is opened or broken (such as by being thrown as a splash weapon), the snowflake within expands rapidly, forming a layer of ice and snow with a 60-foot radius along any nearby surface. Any living creature that touches an area of perfect ice or starts its turn in a space of perfect ice takes 4d6 points of damage from desiccation as some of the water in its body crystallizes (Fortitude DC 18 half). Creatures with the water subtype take half again as much damage (150%) and receive no saving throw. The ice crystals that form along flat surfaces are large and strong, and are treated as caltrops. The ice persists for 10 minutes, after which it vaporizes or reverts to a normal state for its temperature. To avoid the hazards of its large area of effect, many users propel the vial from a launching crossbow or use similar means to extend their throwing range.
+
+### Portable Bolt Trap
+
+**Price** 125 gp; **Weight** 9 lbs.; **Craft DC** 20 (Craft [traps])
+
+This specialized heavy crossbow is hooked to a trip line that can be strung across any opening up to 10 feet wide, much like that of a bell tripwire trap. When the line is tripped, the crossbow fires its bolt toward the space where the line was tripped. The crossbow must have line of effect to the target space for the trap to work. Placing a portable bolt trap requires 10 minutes of effort to properly calibrate the shot and conceal the line and crossbow. The trap can be placed in as little as 1 minute, but doing so imposes a –4 penalty on the crossbow's attack roll, and the DC of the Perception check to notice the trap is reduced by 4. **CR** 1/2; **Type** mechanical; **Perception** DC 20; **Disable Device** DC 20; **Trigger** touch; **Reset** manual; **Effect** Atk +10 ranged (1d10/19–20).
+
+### Sentry Mannequin, Masterwork
+
+**Price** 80 gp; **Weight** 35 lbs.
+
+This sentry mannequin is designed to seem more lifelike than its common counterpart. After 5 minutes of assembly and coverage with the included loose hood and baggy clothing, this wire frame looks like a vigilant humanoid figure. It has pivoted joints with counterweights that move it in ways reminiscent of an alert guard every few rounds for 8 hours after it's set up. Creatures more than 30 feet from the mannequin must succeed at a DC 15 Perception check to realize it's not someone standing watch.
+
+### Speaking Trumpet
+
+**Price** 6 gp; **Weight** 2 lbs.
+
+This large animal horn is hollowed out to amplify sounds that enter through the narrow end. The DC of Perception checks to hear a speaker using a speaking trumpet is reduced by 5.
+
+### Spyglass, Masterwork
+
+**Price** 4,000 gp; **Weight** 2 lbs.
+
+Objects viewed through a masterwork spyglass are magnified to four times their size. Characters using a masterwork spyglass take a –1 penalty on Perception checks per 40 feet of distance to the target (instead of per 20 feet as with a normal spyglass).

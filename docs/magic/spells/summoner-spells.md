@@ -107,6 +107,7 @@ New summoner spells from *Ultimate Magic*. Spells from other books will be added
 - **[Assume Appearance, Greater](assume-appearance-greater.md)**: Use a likeness to adopt a dead creature’s form.
 - **[Bestow Planar Infusion II](bestow-planar-infusion-ii.md)**: Grant a target the effects of an improved planar infusion
 - **[Blood Tentacles](blood-tentacles.md)**: Blood tentacles attack and heal you.
+- **[Calm Air](calm-air.md)**: Calms winds and disperses fog.
 - **[Caustic Blood](caustic-blood.md)**: Wounds spray acid at attackers.
 - **[Contact Entity III](contact-entity-iii.md)**: Ask very powerful eldritch entities to find and converse with you, or they may reply telepathically.
 - **[Damnation Stride](damnation-stride.md)**: This spell functions like dimension door, except you leave behind a burst of fire.

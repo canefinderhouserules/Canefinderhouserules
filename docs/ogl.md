@@ -163,3 +163,5 @@ The following text is the property of Wizards of the Coast, Inc. and is Copyrigh
     Pathfinder Player Companion: Dragonslayer’s Handbook © 2013, Paizo Publishing, LLC; Authors: Shaun Hocking, Marie Small, and Jerome Virnich.
 
     Pathfinder Player Companion: Agents of Evil © 2015, Paizo Inc.; Author: Thurston Hillman.
+
+    Pathfinder Player Companion: Ranged Tactics Toolbox © 2014, Paizo Inc.; Authors: David N. Ross, David Schwartz, and Kaitlyn Sprague.

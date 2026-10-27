@@ -852,3 +852,441 @@ This necrotoxin causes a creature to lose corporeal substance.
 **Effect** 1d3 Str damage, and each round a victim takes damage from this poison, she has a 50% chance of dropping one held item. If a victim's Strength is reduced to 0 by *ghost syrup*, the Strength damage becomes Strength drain, and the victim becomes permanently incorporeal. Carried and worn equipment is unaffected and remains corporeal, and the victim can be restored only through a *limited wish*, *miracle*, *remove curse*, or *wish* spell; **Cure** 2 consecutive saves
 
 **Construction Requirements:** Craft Wondrous Item, *ethereal jaunt*, creator must have 13 ranks in Craft (alchemy); **Cost** 3,000 gp
+
+## Ranged Tactics Items
+
+### Arrow Splitter
+
+**Slot** none; **CL** 15th; **Price** 180,375 gp; **Weight** 3 lbs.
+
+**Aura** strong evocation
+
+This +5 *second chance* longbow is made of supple willow that forever looks freshly carved. When the wielder hits a foe multiple times with the bow, the arrows land in the same spot, driving their way deeper. A creature struck by an arrow fired from an *arrow splitter* takes an additional 1d6 points of precision damage for each arrow fired from an *arrow splitter* that has struck the creature within the same round. For example, if a creature is struck by three arrows fired from an *arrow splitter* in the same round, the first arrow deals damage as normal, the second arrow deals an additional 1d6 points of precision damage, and the third arrow deals an additional 2d6 points of precision damage.
+
+**Construction Requirements:** Craft Magic Arms and Armor, *ricochet shot*, *sonic thrust*; **Cost** 90,375 gp
+
+### Avalanche Sling Staff
+
+**Slot** none; **CL** 9th; **Price** 36,320 gp; **Weight** 3 lbs.
+
+**Aura** moderate conjuration
+
+Three times per day, the wielder of this +3 *halfling sling staff* can launch a stone (not a sling bullet) that explodes in mid-flight to create a *stone call* effect centered on the target square.
+
+**Construction Requirements:** Craft Magic Arms and Armor, *stone call*; **Cost** 18,320 gp
+
+### Bow of Ashes
+
+**Slot** none; **CL** 8th; **Price** 11,400 gp; **Weight** 3 lbs.
+
+**Aura** moderate conjuration
+
+This +1 *adaptive flaming composite longbow* is made of a single piece of petrified wood that appears to have been burnt black but is magically sturdy. When the wielder pulls the bowstring while within 5 feet of a flame at least as large as a lit torch, the bow generates and nocks an arrow of rock-hard ash. Attacks made with an ash arrow deal damage as a normal bow but ignore concealment miss chances from smoke, ash, dust, fog, and other airborne particles (though the wielder still risks targeting the wrong square when trying to shoot at foes with total concealment). The ash arrow crumbles to nothing 1 round after leaving the bow.
+
+**Construction Requirements:** Craft Magic Arms and Armor, *fireball* or *flame blade*, *warp wood*; **Cost** 5,900 gp
+
+### Cavalryman's Bow
+
+**Slot** none; **CL** 8th; **Price** 10,330 gp; **Weight** 2 lbs.
+
+**Aura** moderate conjuration
+
+This +2 *shortbow* is etched with equine imagery. Whenever the bow is fired from a mount, the wielder's mount gains a +2 deflection bonus to its AC until the start of the wielder's next turn.
+
+**Construction Requirements:** Craft Magic Arms and Armor, *shield of faith*, *warp wood*; **Cost** 5,330 gp
+
+### Frozen Crossbow
+
+**Slot** none; **CL** 8th; **Price** 25,700 gp; **Weight** 8 lbs.
+
+**Aura** moderate conjuration
+
+When this +2 *frost repeating heavy crossbow* is empty and underwater, pulling the reloading lever as a free action creates and loads a bolt of solid ice. The icicle bolt and its wielder ignore all penalties for using a ranged weapon underwater. The icicle bolt deals an amount of cold damage equal to that of a normal bolt and melts 1 round after leaving the crossbow.
+
+**Construction Requirements:** Craft Magic Arms and Armor, *freedom of movement*, *icicle dagger*; **Cost** 13,200 gp
+
+### Mage's Crossbow
+
+**Slot** none; **CL** 8th; **Price** 18,335 gp; **Weight** 4 lbs.
+
+**Aura** moderate transmutation
+
+This +2 *light crossbow* is made of silver that never needs to be polished. A *mage's crossbow* is especially effective against creatures with spell resistance. Against such creatures, the weapon's effective enhancement bonus increases to +3, and it deals an additional 1d6 points of damage. Whenever the wielder casts a spell that requires him to make a ranged touch attack (such as a ray) while he has the crossbow in hand, he gains a bonus on his ranged attack roll equal to the crossbow's enhancement bonus against the target creature. If the spell hits, the caster also applies this bonus to the caster level check to overcome the target's spell resistance (if any) and on the spell's damage roll (if any).
+
+**Construction Requirements:** Craft Magic Arms and Armor, Spell Penetration, *summon monster I*, *true strike*; **Cost** 9,835 gp
+
+### Secret Crossbow
+
+**Slot** none; **CL** 5th; **Price** 4,400 gp; **Weight** 2 lbs.
+
+**Aura** faint illusion
+
+This +1 *hand crossbow* seems to hide itself and leaps from hiding when needed. It grants a +5 competence bonus on Sleight of Hand checks made to conceal it and doesn't take longer to draw when concealed.
+
+**Construction Requirements:** Craft Magic Arms and Armor, *invisibility*; **Cost** 2,400 gp
+
+### Shockwave Blunderbuss
+
+**Slot** none; **CL** 18th; **Price** 87,300 gp; **Weight** 8 lbs.
+
+**Aura** strong evocation
+
+Whenever the wielder fires pellets from this +2 *sonic boom blunderbuss*, she attempts a free combat maneuver check to trip each creature struck by the pellets. The wielder uses the *shockwave blunderbuss*'s Combat Maneuver Bonus of +20 for these trip attempts. The wielder doesn't provoke attacks of opportunity for these trip attempts and doesn't risk knocking herself prone.
+
+**Construction Requirements:** Craft Magic Arms and Armor, *reverse gravity*, *shout*; **Cost** 44,800 gp
+
+### Skulking Sniper's Blowgun
+
+**Slot** none; **CL** 8th; **Price** 62,302 gp; **Weight** 1 lb.
+
+**Aura** moderate illusion
+
+A *skulking sniper's blowgun* is crafted of fine hardwood that shifts color between brown and dark green under different lights. The wielder of this +3 *distance greater sniping* blowgun isn't automatically detected by tremorsense, blindsense, blindsight, or similar supernatural senses while she's attempting to move unnoticed. Creatures with these abilities must attempt a Perception check opposed by the wielder's Stealth check to notice the wielder. Such a creature gains a +10 bonus on this Perception check if the wielder is within half the maximum range of the sense ability. The wielder can still be detected by other senses (such as vision, hearing, or smell) as normal.
+
+**Construction Requirements:** Craft Magic Arms and Armor, *clairaudience/clairvoyance*, *greater invisibility*, *invisibility*, *silence*; **Cost** 31,302 gp
+
+### Thorn Bow
+
+**Slot** none; **CL** 9th; **Price** 59,700 gp; **Weight** 8 lbs.
+
+**Aura** moderate conjuration
+
+This +2 *lesser designating composite longbow* (+3 Str) has a bowstring that resembles a thorny vine. Once per day as a standard action, the wielder can prick her finger on the vine and fire an arrow at a creature or square to cause the arrow to become a *wall of thorns* centered on the struck creature or object. When the wielder is targeting a square, treat that as a ranged attack against AC 5. The wielder can choose how the wall of thorns is oriented.
+
+**Construction Requirements:** Craft Magic Arms and Armor, *instant enemy*, *wall of thorns*; **Cost** 30,200 gp
+
+### Arrow of Charming
+
+**Slot** none; **CL** 8th; **Price** 2,886 gp; **Weight** 1/20 lb.
+
+**Aura** moderate enchantment
+
+When this +3 *arrow* strikes a creature, it explodes in a small cloud of red dust and deals nonlethal damage. The creature struck must succeed at a DC 16 Will save or be charmed by the wielder as *charm monster*. Alternatively, the user can inscribe the name of another creature into the arrow shaft; in this case, the arrow's victim instead becomes charmed by the named creature on a failed save. Inscribing the arrow takes 10 minutes.
+
+**Construction Requirements:** Craft Magic Arms and Armor, *charm monster*; **Cost** 1,446 gp
+
+### Boulder Bullet
+
+**Slot** none; **CL** varies (10th, 14th, or 18th); **Price** 806 gp (lesser), 1,966 gp, or 4,006 gp (greater); **Weight** 1/2 lb.
+
+**Aura** moderate or strong transmutation
+
+A boulder bullet appears to be a magical sling bullet when held, but it is actually a shrunken piece of catapult ammunition. A boulder bullet expands rapidly when launched from a sling or sling staff, increasing in size and dealing greater base damage depending on the version used. This doesn't affect the bullet's range or any of the normal mechanics for using a sling bullet, though the boulder bullet is treated as siege weapon ammunition for the purposes of wind effects and similar penalties. Similarly, if a boulder bullet is launched and misses its target, roll 1d8 to determine the adjacent square in which it lands. Once it has been thrown and has expanded, a boulder bullet loses its magic and remains boulder-sized thereafter.
+
+*Lesser Boulder Bullet (CL 10th)*: A +1 sling bullet that expands to the size of light catapult ammunition, increasing its base damage to 4d6.
+
+*Boulder Bullet (CL 14th)*: A +2 sling bullet that expands to the size of standard catapult ammunition, increasing its base damage to 6d6.
+
+*Greater Boulder Bullet (CL 18th)*: A +3 sling bullet that expands to the size of heavy catapult ammunition, increasing its base damage to 8d6.
+
+**Construction Requirements:** Craft Magic Arms and Armor, *shrink object*; **Cost** 406 gp (lesser), 986 gp, or 2,006 gp (greater)
+
+### Dizzying Bullet
+
+**Slot** none; **CL** 5th; **Price** 496 gp; **Weight** 1/2 lb.
+
+**Aura** faint evocation
+
+This +1 *sling bullet* makes a faint rattling noise when shaken. When it strikes a creature, the creature must succeed at a DC 13 Fortitude save or become stunned for 1 round.
+
+**Construction Requirements:** Craft Magic Arms and Armor, *sound burst*; **Cost** 251 gp
+
+### Mute Dart
+
+**Slot** none; **CL** 5th; **Price** 566 gp; **Weight** —
+
+**Aura** faint illusion
+
+This ivory +1 *blowgun dart* emits a *silence* effect that envelops the space of the creature or object it strikes, up to a maximum radius of 20 feet. If a creature is struck, it can resist the *silence* with a successful DC 13 Will save.
+
+**Construction Requirements:** Craft Magic Arms and Armor, *silence*; **Cost** 286 gp
+
+### Phase Arrow
+
+**Slot** none; **CL** 5th; **Price** 916 gp; **Weight** 1/20 lb.
+
+**Aura** faint transmutation
+
+When this translucent +2 *arrow* is fired, it becomes ethereal until it enters the target's space. A *phase arrow* ignores cover of all kinds, including total cover, and can be fired at a target even if the wielder doesn't have line of effect. However, if the wielder cannot see or otherwise pinpoint the target, she risks attacking the wrong space, and even if she attacks the right space, the target still has total concealment against the attack (granting a 50% miss chance).
+
+**Construction Requirements:** Craft Magic Arms and Armor, *blink*; **Cost** 461 gp
+
+### Reporting Cartridge
+
+**Slot** none; **CL** 5th; **Price** 566 gp; **Weight** —
+
+**Aura** faint divination
+
+This +1 paper alchemical cartridge contains a bullet and is marked with a symbol of an ear. When fired from a firearm, a *reporting cartridge* allows the wielder to temporarily transfer her sense of hearing to the location where the bullet lands. Until she dismisses the effect by rubbing her ears as a move action, the wielder can hear as *clairaudience* from the square in which the bullet landed, regardless of whether it hit its mark.
+
+**Construction Requirements:** Craft Magic Arms and Armor, *clairaudience/clairvoyance*; **Cost** 286 gp
+
+### Scouting Cartridge
+
+**Slot** none; **CL** 5th; **Price** 566 gp; **Weight** —
+
+**Aura** faint divination
+
+This +1 paper alchemical cartridge contains a bullet and is marked with an open eye. When fired from a firearm, a *scouting cartridge* allows the wielder to temporarily transfer his sense of sight to the location where the bullet lands. Until he dismisses the effect by rubbing his eyes as a move action, the wielder can see as *clairvoyance* from the square in which the bullet landed, regardless of whether it hit its mark.
+
+**Construction Requirements:** Craft Magic Arms and Armor, *clairaudience/clairvoyance*; **Cost** 286 gp
+
+### Splitting Bolt
+
+**Slot** none; **CL** 5th; **Price** 346 gp; **Weight** 1/10 lb.
+
+**Aura** faint evocation
+
+When this +1 *bolt* hits a foe, it deals damage as normal and then splits in two, creating two smaller bolts. Each of these smaller bolts flies toward another target within 30 feet of the initial enemy struck. A single *splitting bolt* can thus strike up to three targets. The smaller bolts use the same attack roll result as the original *splitting bolt* and the same damage dice, though the damage for each bolt is rolled separately. Neither the attack roll nor the damage of the smaller bolts can be affected by any special abilities of the wielder or crossbow.
+
+**Construction Requirements:** Craft Magic Arms and Armor, *chain lightning*; **Cost** 176 gp
+
+### Tenacious Atlatl Dart
+
+**Slot** none; **CL** 7th; **Price** 29,101 gp; **Weight** 2 lbs.
+
+**Aura** moderate abjuration
+
+This +1 *returning atlatl dart* is not destroyed when used as ammunition for an atlatl. Its *returning* special ability functions even if it is fired as ammunition. Like all atlatl darts, a *tenacious atlatl dart* can be thrown; if it is thrown, it is treated in all ways as a javelin. Two times per day, when the dart successfully strikes a foe who is benefiting from an abjuration spell or ability, the atlatl automatically attempts a dispel check against that effect, as *dispel magic*, before returning to the wielder as normal.
+
+**Construction Requirements:** Craft Magic Arms and Armor, *dispel magic*, *telekinesis*; **Cost** 14,701 gp
+
+### Venomous Whisper Dart
+
+**Slot** none; **CL** 5th; **Price** 1,466 gp; **Weight** —
+
+**Aura** faint enchantment
+
+The wielder of this gleaming purple +2 *blowgun dart* can whisper while loading the dart to imbue it with a *suggestion*. When the dart strikes a creature, the target must succeed at a DC 14 Will save or forget the sting of the dart and hear the words of the *suggestion* as if they were whispered in her ear.
+
+**Construction Requirements:** Craft Magic Arms and Armor, *modify memory*, *suggestion*; **Cost** 736 gp
+
+### Vulnerability Bolt
+
+**Slot** none; **CL** 5th; **Price** 496 gp; **Weight** 1/10 lb.
+
+**Aura** faint necromancy
+
+If poison is applied to this sickly yellow +1 *bolt*, any hit point damage, ability damage, or ability drain dealt by the poison increases by 1 each round for the poison's duration.
+
+**Construction Requirements:** Craft Magic Arms and Armor, *pernicious poison*; **Cost** 251 gp
+
+### Cyclonic (weapon special ability)
+
+**Slot** ranged weapon or ammunition special ability; **CL** 12th; **Price** +2 bonus; **Weight** —
+
+**Aura** faint conjuration
+
+This special ability can be placed only on ranged weapons or ammunition. A *cyclonic* weapon or piece of ammunition feels as though it were surrounded by gentle winds pulling it in all directions. When the wielder makes a ranged attack with a *cyclonic* weapon, a sheath of whirling air surrounds the weapon or the ammunition fired and prevents the attack from being impaired by wind, water, and other liquid or gaseous environmental factors. Projectile weapons with this ability bestow this power upon their ammunition.
+
+**Construction Requirements:** Craft Magic Arms and Armor, *air bubble*; **Cost** +2 bonus
+
+### Dazzling (weapon special ability)
+
+**Slot** firearm or firearm ammunition special ability; **CL** 8th; **Price** +2 bonus; **Weight** —
+
+**Aura** faint evocation
+
+This special ability can be placed only on firearms or firearm ammunition. Whenever a *dazzling* weapon is fired, it emits an explosive flash that dazzles all foes adjacent to the bullet's path or within or adjacent to the cone of a scatter shot. This condition lasts a number of rounds equal to the weapon's enhancement bonus.
+
+**Construction Requirements:** Craft Magic Arms and Armor, *flare burst*; **Cost** +2 bonus
+
+### Glitterwake (weapon special ability)
+
+**Slot** ranged weapon special ability; **CL** 12th; **Price** +2 bonus; **Weight** —
+
+**Aura** strong conjuration
+
+This special ability can be placed only on ranged weapons. Three times per day as a swift action, the wielder can activate a *glitterwake* weapon to cause her next ranged attack with the weapon to scatter a wake of glittering dust. The dust clings to the target struck and all creatures within 10 feet of the attack's trajectory, and all creatures affected by the dust take a –20 penalty on Stealth checks while the dust persists. The dust also outlines invisible creatures and objects as *glitterdust*. Creatures in the area of glittering dust when the attack is made are dazzled unless they succeed at a DC 13 Will save. The dust lasts a number of minutes equal to the weapon's enhancement bonus.
+
+**Construction Requirements:** Craft Magic Arms and Armor, *glitterdust*; **Cost** +2 bonus
+
+### Interfering (weapon special ability)
+
+**Slot** ranged weapon special ability; **CL** 18th; **Price** +5 bonus; **Weight** —
+
+**Aura** strong transmutation
+
+This special ability can be placed only on ranged weapons. The wielder can make attacks of opportunity with an *interfering* weapon as if he threatened all spaces within the weapon's first range increment or 30 feet, whichever is closer. However, the wielder cannot make multiple ranged attacks of opportunity with an *interfering* weapon against a creature that moves out of multiple threatened spaces within range using a single move action, even if the wielder has Combat Reflexes or other effects that allow multiple attacks of opportunity.
+
+**Construction Requirements:** Craft Magic Arms and Armor, *litany of wording*; **Cost** +5 bonus
+
+### Sniping (weapon special ability)
+
+**Slot** projectile weapon special ability; **CL** 5th; **Price** +1,875 gp; **Weight** —
+
+**Aura** faint illusion
+
+This special ability can be placed only on projectile weapons. Most *sniping* weapons are dull-colored and marked with symbols of death. The wielder of a *sniping* weapon gains a +5 competence bonus on Stealth checks to remain hidden after sniping with it.
+
+**Construction Requirements:** Craft Magic Arms and Armor, *invisibility*, *silence*; **Cost** +937 gp
+
+### Sniping, Improved (weapon special ability)
+
+**Slot** projectile weapon special ability; **CL** 10th; **Price** +7,500 gp; **Weight** —
+
+**Aura** faint illusion
+
+This special ability functions as *sniping*, except the wielder gains a +10 competence bonus on Stealth checks to remain hidden after sniping with the weapon.
+
+**Construction Requirements:** Craft Magic Arms and Armor, *invisibility*, *silence*; **Cost** +3,750 gp
+
+### Sniping, Greater (weapon special ability)
+
+**Slot** projectile weapon special ability; **CL** 15th; **Price** +16,875 gp; **Weight** —
+
+**Aura** faint illusion
+
+This special ability functions as *sniping*, except the wielder gains a +15 competence bonus on Stealth checks to remain hidden after sniping with the weapon.
+
+**Construction Requirements:** Craft Magic Arms and Armor, *invisibility*, *silence*; **Cost** +8,437 gp
+
+### Sonic Boom (weapon special ability)
+
+**Slot** firearm or firearm ammunition special ability; **CL** 8th; **Price** +3 bonus; **Weight** —
+
+**Aura** moderate evocation
+
+This special ability can be placed only on firearms and firearm ammunition. Attacks with a *sonic boom* weapon deal an additional 1d6 points of sonic damage to the target and 1d6 points of sonic damage to all creatures adjacent to the bullet's path within one range increment of the wielder, or adjacent to the cone of a scatter shot. Creatures that take sonic damage from the boom must succeed at a DC 16 Fortitude save or be deafened for 1 minute.
+
+**Construction Requirements:** Craft Magic Arms and Armor, *shout*; **Cost** +3 bonus
+
+### Spell Hurling (weapon special ability)
+
+**Slot** thrown melee weapon special ability; **CL** 8th; **Price** +1 bonus; **Weight** —
+
+**Aura** moderate evocation
+
+This special ability can be placed only on melee weapons that are designed to be thrown. If the wielder has the spellstrike class feature (such as from levels in the magus class), he can throw a *spell hurling* weapon to deliver a touch spell. If the *spell hurling* weapon hits, the touch spell targets the creature or object struck (if possible). Regardless of whether the weapon hits, any remaining touches with that spell are harmlessly discharged.
+
+**Construction Requirements:** Craft Magic Arms and Armor, *spectral hand*, creator must have the spellstrike class feature; **Cost** +1 bonus
+
+### Tailwind (weapon special ability)
+
+**Slot** ranged weapon special ability; **CL** 12th; **Price** +3 bonus; **Weight** —
+
+**Aura** moderate evocation
+
+This special ability can be placed only on ranged weapons. Whenever a *tailwind* weapon is used to make a ranged attack, the weapon or its projectile is pushed along by a powerful tailwind that fills its space. This tailwind acts similarly to the *gust of wind* spell, except it has an instantaneous duration and doesn't affect creatures. However, it can still extinguish unprotected flames and accomplish anything a sudden burst of wind could. The tailwind negates range penalties to the weapon's attack until it reaches the end of the wind's range (60 feet); each whole range increment beyond 60 feet applies a penalty to the attack as normal.
+
+**Construction Requirements:** Craft Magic Arms and Armor, *gust of wind*; **Cost** +3 bonus
+
+### Veering (weapon special ability)
+
+**Slot** ranged weapon special ability; **CL** 5th; **Price** +1 bonus; **Weight** —
+
+**Aura** faint evocation
+
+This special ability can be placed only on ranged weapons. *Veering* weapons feature feathers or carved images of wings or winged creatures in their construction. Attacks with a *veering* weapon ignore a target's bonus to AC from partial cover and reduce the target's bonus to AC from cover and soft cover by 2. A *veering* weapon bestows no benefit against targets with total cover.
+
+**Construction Requirements:** Craft Magic Arms and Armor, *magic missile*; **Cost** +1 bonus
+
+### Alchemist's Atlatl
+
+**Slot** none; **CL** 1st; **Price** 1,500 gp; **Weight** 2 lbs.
+
+**Aura** faint transmutation
+
+This wooden atlatl resembles a handheld, lever-controlled catapult. One end sports a shaft covered in carvings of alchemical formulae, and the other is a roughly carved bowl. The user can place an alchemical splash weapon, such as a flask of acid or alchemist's fire, in the bowl. This is a move action that provokes an attack of opportunity. When the splash weapon is launched from the atlatl, its range is doubled. Magic items (including an alchemist's bombs) aren't affected by an *alchemist's atlatl*.
+
+**Construction Requirements:** Craft Wondrous Item, *longshot*; **Cost** 750 gp
+
+### Assassin's Sight
+
+**Slot** none; **CL** 5th; **Price** 5,250 gp; **Weight** 4 lbs.
+
+**Aura** faint divination
+
+This black telescopic sight is made of lusterless metal and features a thick glass lens. It can be mounted on the stock of a light or heavy crossbow, but not a hand crossbow. An *assassin's sight* allows the wielder to make ranged sneak attacks from greater distances than normal. This sight has two settings: 0–30 feet and 30–60 feet. A character using a crossbow equipped with an *assassin's sight* can make sneak attacks against foes within the selected range. For example, by setting the range to 30–60 feet, a character can make sneak attacks against creatures only if they are between 30 and 60 feet of the wielder; attacks against targets closer than 30 feet or farther than 60 feet would not count as sneak attacks, even if they met all the other requirements for making a sneak attack. Setting the range on an *assassin's sight* is a full-round action that provokes attacks of opportunity.
+
+**Construction Requirements:** Craft Wondrous Item, *locate weakness*, *true strike*; **Cost** 2,625 gp
+
+### Assassin's Sight, Greater
+
+**Slot** none; **CL** 9th; **Price** 12,250 gp; **Weight** 2 lbs.
+
+**Aura** moderate divination
+
+A *greater assassin's sight* is similar to the standard *assassin's sight*, but it has a noticeably sleeker design and provides its wielder greater range. It has three settings: 0–30 feet, 30–60 feet, and 60–90 feet. In addition, setting the range on a *greater assassin's sight* is a standard action (though it still provokes attacks of opportunity). Finally, a *greater assassin's sight* grants a +4 competence bonus on attack rolls to confirm critical hits within the set range.
+
+**Construction Requirements:** Craft Wondrous Item, *locate weakness*, *true strike*; **Cost** 6,125 gp
+
+### Entangling Aiguillette
+
+**Slot** shoulders; **CL** 5th; **Price** 2,000 gp; **Weight** 1 lb.
+
+**Aura** faint transmutation
+
+This length of prickly green vine is woven into a living aiguillette worn around the shoulder. Once per day as an immediate action when the wearer is struck by a melee attack, she can compel the vine to uncoil and wrap around the attacker, causing the attacker to become entangled (Reflex DC 13 negates). An entangled creature cannot move from its space. At the start of the entangled creature's turn, it can attempt a new saving throw against the *entangling aiguillette*, though the DC increases by 1 for each round the creature fails its save (to a maximum of 16 after 3 rounds). The entangled creature can also untangle itself as a move action by succeeding at a DC 13 Strength or Escape Artist check. The *entangling aiguillette*'s owner cannot move while entangling a creature, but can release an entangled creature as a free action.
+
+**Construction Requirements:** Craft Wondrous Item, *entangle*; **Cost** 1,000 gp
+
+### Ranged Piton
+
+**Slot** none; **CL** 5th; **Price** 800 gp; **Weight** 1 lb.
+
+**Aura** faint transmutation
+
+This pointed metallic piton bears a ring the size of a gold piece. A *ranged piton* is sized and designed so that it can be launched as easily as an arrow. When fired from a bow as a standard action at an object or empty square, the wielder makes a ranged attack against AC 5 to determine whether the piton hits the intended target. Range penalties apply as normal. On a hit, the piton attaches to the point struck, cleaving to vertical and horizontal surfaces alike. An attached *ranged piton* can be recovered only by speaking a command word while pulling on the piton's ring. Light rope, such as silk rope, can be threaded through the piton's ring before it is fired to rapidly place rope lines.
+
+**Construction Requirements:** Craft Wondrous Item, *spider climb*; **Cost** 400 gp
+
+### Ring of Far Strike
+
+**Slot** ring; **CL** 8th; **Price** 6,000 gp; **Weight** —
+
+**Aura** moderate transmutation
+
+This unassuming black ring changes color to a silver pearlescent sheen when held near a fire. Once per day as a standard action, the wearer can make a melee weapon attack or unarmed strike attack against any opponent within 30 feet. The wearer must be otherwise capable of performing the attack to use this ability.
+
+**Construction Requirements:** Forge Ring, *mage hand*, *spectral hand*; **Cost** 3,000 gp
+
+### Sandals of Interception
+
+**Slot** feet; **CL** 13th; **Price** 8,000 gp; **Weight** 1 lb.
+
+**Aura** strong abjuration
+
+These simple wooden sandals allow their wearer to step in the way of danger to protect her allies. Three times per day as an immediate action, the wearer can take a 5-foot step to move into the path of a ranged attack and treat herself as the target of the ranged attack that passes through her square for the purposes of Deflect Arrows, Snatch Arrows, Missile Shield, and other feats and abilities that allow her to deflect ranged attacks. If she lacks a feat or ability that would allow her to deflect the ranged attack, the wearer is instead simply struck by the attack regardless of the attack roll's result or her AC. The wearer can't take a 5-foot step during the turn after using this ability.
+
+**Construction Requirements:** Craft Wondrous Item, Deflect Arrows, *deflection*; **Cost** 4,000 gp
+
+### Shadow Fletching
+
+**Slot** head; **CL** 5th; **Price** 8,000 gp; **Weight** —
+
+**Aura** faint conjuration
+
+These small black feathers appear to have been stripped off an arrow and crafted into a token. By braiding a *shadow fletching* into her hair, a character can imbue herself with the magic of the Shadow Plane. Three times per day by touching the fletching as a swift action in an area of dim light or darkness, the wearer can enshroud her next ranged attack in shadowy extraplanar energy. As long as the wearer makes this attack before the end of her turn, the target of the attack is denied its Dexterity bonus to AC as if the attacker were invisible. This doesn't affect creatures with low-light vision, darkvision, or any ability that allows them to see invisible creatures.
+
+**Construction Requirements:** Craft Wondrous Item, *gloomblind bolts*, creator must be a fetchling; **Cost** 4,000 gp
+
+### Silver Nocking Point
+
+**Slot** none; **CL** 1st; **Price** 3,150 gp; **Weight** —
+
+**Aura** faint transmutation
+
+This small silver cylinder is no bigger than a pinhead and is engraved with an Elven aphorism that roughly translates to "unhindered flight." A *silver nocking point* can be attached to the string of any bow or crossbow. When using a weapon equipped with a *silver nocking point*, a character can treat penalties for wind conditions as though they were one step less severe. For example, a character firing a ranged projectile in severe wind conditions would fire at a ranged penalty of –2 instead of –4. Magical wind effects that would normally deflect the projectile (such as *fickle winds*) instead impose only a –8 penalty on the attack roll.
+
+**Construction Requirements:** Craft Wondrous Item, *true strike*; **Cost** 1,575 gp
+
+### Swarm Bullet
+
+**Slot** none; **CL** 7th; **Price** 700 gp; **Weight** —
+
+**Aura** moderate conjuration
+
+This small brass cylinder is inscribed with a symbol of a honeycomb, and a faint buzzing sound can be heard from within. A *swarm bullet* can be loaded into a weapon with the scatter weapon quality, such as a blunderbuss, as though it were ammunition. When fired, the weapon produces a wasp swarm that immediately moves to attack the nearest living target in a 15-foot cone. The wasp swarm acts on the shooter's turn each round, pursuing the closest living creature for 3 rounds or until it's destroyed. Should the weapon misfire while loaded with a *swarm bullet*, the swarm instead angrily emerges from the weapon and pursues the wielder.
+
+**Construction Requirements:** Craft Wondrous Item, *vomit swarm*; **Cost** 350 gp
+
+### Tuned Bowstring
+
+**Slot** none; **CL** 7th; **Price** 18,000 gp; **Weight** —
+
+**Aura** moderate illusion
+
+This faintly glowing bowstring is twined from the hair of a lillend. When strung on a bow, a *tuned bowstring* also functions as a masterwork stringed instrument, granting the wielder an enhancement bonus on Performance (string) checks equal to the bow's enhancement bonus (if any). A *tuned bowstring* produces a perfect note with every arrow fired by its wielder, allowing a character with the bardic performance class feature to maintain a performance in combat without expending rounds of bardic performance as long as she fires at least one arrow each round. Activating a bardic performance or switching to a different performance still costs a round of bardic performance.
+
+**Construction Requirements:** Craft Wondrous Item, *exquisite accompaniment*, creator must have the bardic performance class feature; **Cost** 9,000 gp

@@ -338,6 +338,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Bestow Planar Infusion II](bestow-planar-infusion-ii.md)**: Grant a target the effects of an improved planar infusion
 - **[Bite the Hand](bite-the-hand.md)**: Summoned creature attacks its summoner.
 - **[Blast Barrier](blast-barrier.md)**: Unstable wall that explodes for damage.
+- **[Bloody Arrows](bloody-arrows.md)**: Ranged hits cause stacking bleed.
 - **[Borrow Corruption](borrow-corruption.md)**: Temporarily gain the effects of a corrupted creature’s manifestations.
 - **[Cape of Wasps](cape-of-wasps.md)**: Wasp swarm defends or carries you.
 - **[Complex Hallucination](complex-hallucination.md)**: Create a phantasm with effects for all senses.

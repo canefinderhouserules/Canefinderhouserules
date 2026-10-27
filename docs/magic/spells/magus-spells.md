@@ -101,6 +101,7 @@ The magus class spell list appears on the [Magus](../../characters/classes/magus
 - **[Stone Throwing](stone-throwing.md)**: Subject can throw and catch rocks.
 - **[Tactical Acumen](tactical-acumen.md)**: You gain an additional +1 on attack rolls or to AC due to battlefield positioning.
 - **[Telekinetic Assembly](telekinetic-assembly.md)**
+- **[Telekinetic Volley](telekinetic-volley.md)**: Hurl touched items as ranged attacks.
 - **[Twisted Space](twisted-space.md)**: Targeted creature’s attacks target a random square instead of the intended target.
 - **[With the Wind](with-the-wind.md)**: Protect a target from being blown away by wind of less than windstorm force.
 
@@ -110,6 +111,7 @@ The magus class spell list appears on the [Magus](../../characters/classes/magus
 - **[Animal Aspect, Greater](animal-aspect-greater.md)**: As animal aspect, but you gain two animal qualities.
 - **[Audiovisual Hallucination](audiovisual-hallucination.md)**: Create a phantasm with auditory and visual effects.
 - **[Blade Snare](blade-snare.md)**: Snare a weapon or limb that strikes you.
+- **[Bloody Arrows](bloody-arrows.md)**: Ranged hits cause stacking bleed.
 - **[Bone Flense](bone-flense.md)**: Barbed bone spurs flense a struck creature.
 - **[Burst of Speed](burst-of-speed.md)**: You gain increased speed, and your movement ignores attacks of opportunity and allows you to move through the space of creatures larger than you are.
 - **[Caustic Safeguard](caustic-safeguard.md)**: Acid ward on an object.
@@ -186,6 +188,7 @@ The magus class spell list appears on the [Magus](../../characters/classes/magus
 ## 5th-Level Magus Spells
 
 - **[Acidic Spray](acidic-spray.md)**: 1d6/level acid damage plus 1 round of acid.
+- **[Augmenting Wall](augmenting-wall.md)**: Wall adds energy damage to ranged attacks.
 - **[Bladed Dash, Greater](bladed-dash-greater.md)**: Dash 30 feet and attack all foes along the way.
 - **[Conjure Deadfall](conjure-deadfall.md)**: Drop a spiked metal block on creatures below.
 - **[Corrosive Consumption](corrosive-consumption.md)**: Acidic patch damages an opponent.

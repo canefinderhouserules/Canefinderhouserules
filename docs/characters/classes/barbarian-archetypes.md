@@ -825,3 +825,13 @@ At 16th level, the pack rager grants these teamwork feats as long as her allies 
 At 19th level, the pack rager chooses three teamwork feats when she enters a rage, and grants her allies the use of all three feats when they are within 60 feet of her.
 
 This ability replaces the damage reduction class feature.
+
+## Primal Hunter
+
+Rather than exploding with anger, primal hunters focus their rage to strike distant targets. Though able to hold their own in melee, primal hunters specialize in using some of the oldest of ranged weapons: bows, slings, and spears.
+
+**Exceptional Pull**: At 1st level, a primal hunter gains Exceptional Pull as a bonus feat, even if she doesn't meet the requirements. At 11th and 20th levels, the strength rating of weapons she wields increases by 1 (weapons without a strength rating are not affected). This ability replaces fast movement.
+
+**Focused Rage (Ex)**: While raging, a primal hunter gains a +2 bonus on attack rolls with ranged weapons. This bonus increases to +3 at 11th level and to +4 at 20th level. While raging, a primal hunter can attempt Stealth checks but doesn't gain a morale bonus on Will saves. This ability alters rage.
+
+**Rage Powers**: The following rage powers complement the primal hunter archetype: deadly accuracy, lethal accuracy, reflexive dodge, rolling dodge, sharpened accuracy, surprise accuracy.

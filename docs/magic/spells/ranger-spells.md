@@ -149,6 +149,7 @@
 - **[Blade Snare](blade-snare.md)**: Snare a weapon or limb that strikes you.
 - **[Blast Barrier](blast-barrier.md)**: Unstable wall that explodes for damage.
 - **[Bleed for Your Master](bleed-for-your-master.md)**: Compel a companion to take damage for you.
+- **[Bloody Arrows](bloody-arrows.md)**: Ranged hits cause stacking bleed.
 - **[Burning Entanglement](burning-entanglement.md)**: Entangling plants burst into flame
 - **[Burst of Speed](burst-of-speed.md)**: You gain increased speed, and your movement ignores attacks of opportunity and allows you to move through the space of creatures larger than you are.
 - **[Channel the Gift](channel-the-gift.md)**: Your spell slot powers an ally’s spell.

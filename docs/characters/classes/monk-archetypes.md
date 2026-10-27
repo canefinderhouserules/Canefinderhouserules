@@ -909,3 +909,23 @@ Spirit masters are monks who specialize in combating the undead, laying their co
 **Spirit Flow (Su)**: At 19th level, a spirit master can dramatically alter the flow of his own ki. As an immediate action, the spirit master can expend 3 ki points to alter his ki for a number of rounds equal to his class level. During this time, he is healed by negative energy as if he were an undead creature. The spirit master is still healed by positive energy as normal. This ability replaces empty body.
 
 **Spirit Mastery (Su)**: At 20th level, a spirit master gains DR 10/evil and becomes immune to ability drain and ability damage. Additionally, once per week, the spirit master may bring a dead creature back to life. This ability functions as *true resurrection*, except the spirit master may not resurrect a creature that has been dead for longer than 1 day per class level. This ability replaces perfect self.
+
+## Far Strike Monk
+
+Far strike monks are masters of thrown weapons, from shuriken to throwing axes to spears. The far strike school views thrown attacks as an extension of unarmed strikes, and masters of this school can infuse thrown weapons with their ki.
+
+**Weapon and Armor Proficiency**: In addition to the standard monk weapon proficiencies, a far strike monk is proficient with all thrown weapons.
+
+**Flurry of Blows (Ex)**: A far strike monk can make a flurry of blows as a full-attack action as long as he's attacking with thrown weapons. He can't make a flurry of blows with his unarmed attacks or any other weapons. A far strike monk's flurry of blows otherwise functions as the standard monk class feature. A far strike monk can't use Rapid Shot when making a flurry of blows with a thrown weapon. This ability alters flurry of blows.
+
+**Bonus Feats**: A far strike monk adds the following feats to his list of bonus feats at 1st level: Far Shot, Point-Blank Shot, Precise Shot, and any targeting feat. At 6th level, he adds the following feats: Improved Precise Shot, Parting Shot, and Trick Shooter. At 10th level, he adds the following feats: Improvised Weapon Mastery and Pinpoint Targeting.
+
+**Fast Thrower**: At 1st level, a far strike monk gains Quick Draw as a bonus feat, even if he doesn't meet the prerequisites. At 4th level, he gains Shot on the Run as a bonus feat, even if he doesn't meet the prerequisites. At 8th level, when using the Shot on the Run feat, he can make a second ranged attack with a –5 penalty at any point during his movement. At 15th level, he can make a third ranged attack with a –10 penalty at any point during his movement. This ability replaces Stunning Fist.
+
+**Invisible Blade (Ex)**: At 3rd level, when a far strike monk uses the Stealth skill to maintain his obscured location after sniping, he takes a –10 penalty on his Stealth check instead of –20. This ability replaces still mind.
+
+**Ki Pool (Su)**: At 4th level, in addition to the normal abilities of his ki pool, a far strike monk can spend 1 point from his ki pool to increase the range increment of a thrown weapon by 20 feet for 1 round.
+
+**Ki Missile (Su)**: At 5th level, a far strike monk can spend 1 point from his ki pool as a swift action to change the base damage dice of thrown weapons to that of his unarmed strikes. These weapons are also treated as ki focus weapons, allowing the monk to apply his special ki attacks to his thrown weapons as if they were unarmed strikes. This effect lasts until the beginning of his next turn. This ability replaces purity of body.
+
+**Trick Throw (Su)**: At 11th level, a far strike monk can infuse his thrown weapons with ki to hit targets that he might otherwise miss. By spending 1 point from his ki pool as a swift action, the far strike monk can ignore concealment. By spending 2 points, he can ignore total concealment or cover. By spending 3 points, he can ignore total cover, even throwing weapons around corners. The weapon must still be able to reach the target; for instance, a target inside a closed building with no open doors or windows cannot be attacked using Trick Throw. These effects last for 1 round. This ability replaces diamond body.

@@ -282,6 +282,7 @@
 - **[Borrow Corruption](borrow-corruption.md)**: Temporarily gain the effects of a corrupted creature’s manifestations.
 - **[Bountiful Banquet](bountiful-banquet.md)**: Create a luxurious feast for two creatures/level.
 - **[Brightest Light](brightest-light.md)**: Longer-lasting daylight that can dispel darkness.
+- **[Calm Air](calm-air.md)**: Calms winds and disperses fog.
 - **[Caustic Blood](caustic-blood.md)**: Wounds spray acid at attackers.
 - **[Claim Identity](claim-identity.md)**: Steal a touched humanoid’s face and identity.
 - **[Cloud Shape](cloud-shape.md)**: This spell functions like gaseous form, except you assume the shape of a Colossal cloud with a space of 30.

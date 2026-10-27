@@ -26,11 +26,29 @@ Effect When the trap is triggered, it also creates a momentary loud noise equiva
 
 Effect This trap can be added to a supernatural snare trap. The trap briefly imprisons any called creature (such as those called by the *planar binding* spells) for 1d4 rounds (Will negates). During this time the creature may not move from the location of the trap, though it may still use ranged effects and attack any creature within its reach. Additionally, anchoring traps disable the creature's ability to travel within or between dimensions. This includes casting *astral projection*, *blink*, *dimension door*, *dimensional gate*, *ethereal jaunt*, *etherealness*, *gate*, *maze*, *plane shift*, *shadow walk*, *teleport*, *teleportation circle*, and similar spell-like abilities. The trap does not prevent the creature from using magic items that produce these effects, like *cubic gates*, *helms of teleportation*, or *amulets of the planes*. The trap can hold up to a Medium creature; each extra daily use of the ranger's trap ability spent when the trap is set increases the maximum size of creature the trap can hold by one size category.
 
+### Bludgeoning Trap (Ex or Su)
+
+**Effects**
+
+Effect The trap bludgeons the creature that triggers it. The trap makes an attack with a bonus equal to the ranger's character level + his Wisdom bonus. The triggering creature is denied its Dexterity bonus to AC if it was unaware of the trap. If the trap hits, it deals 1d6 points of bludgeoning damage for every 4 levels the ranger possesses (minimum 1d6). If it's an extraordinary trap, the ranger must provide an object suitable for dealing lethal bludgeoning damage, such as a large branch or heavy stone.
+
 ### Burning Trap\* (Ex or Su)
 
 **Effects**
 
 Effect A ranger can only add this to a fire trap. If the triggering creature fails its Reflex save, it catches on fire, taking 1d6 points of fire damage at the start of its turn for 1d4 rounds. The burning creature can attempt a new save as a full-round action. Dropping and rolling on the ground grants a +4 bonus on this save.
+
+### Decoy Trap (Su)
+
+**Effects**
+
+Effect The trap creates a shadowy humanoid figment that appears to move away from the triggering creature or that follows a simple program of no more than 25 words defined by the ranger at the time when the trap is set. Unless programmed otherwise, the figment appears 60 feet away from the triggering creature or as close to that distance as possible, and then moves away toward the nearest exit, if any. The figment can move up to 60 feet per round. A viewer can attempt a Will save or a Perception check to disbelieve the illusion if she attacks it or otherwise interacts with it. The Will save DC to disbelieve the illusion is the same as the DC to avoid the trap; the DC of the Perception check to disbelieve the illusion is equal to 5 + the DC to avoid the trap.
+
+### Dirty Trick Trap\* (Ex or Su)
+
+**Effects**
+
+Effect If the triggering creature fails its saving throw against the trap or is struck by the trap's attack, the trap also attempts a dirty trick combat maneuver against the triggering creature. The type of dirty trick is chosen when the trap is created, and if it isn't possible or isn't applicable to the triggering creature, the combat maneuver is wasted. The trap's CMB for the dirty trick is equal to the ranger's level + his Wisdom modifier.
 
 ### Exploding Trap\* (Ex or Su)
 
@@ -75,6 +93,12 @@ Effect The detonating trap creates a 20-foot-radius burst of sleet with the effe
 Effect The trap constricts around a limb or other part of the triggering creature’s body (Reflex avoids). The creature cannot move from the location of the trap, unless the ranger included a “leash” when setting the trap, in which case the creature is limited to the length of the leash.
 
 The trapped creature can escape with an Escape Artist check (DC equal to the trap’s DC) as a fullround action. The trap or its leash has a number of hit points equal to 1/2 the ranger’s level, or can be burst as a full-round action with a DC 25 Strength check. The trap can hold up to a Medium creature; each extra daily use of the ranger’s trap ability spent when the trap is set increases the maximum size of creature the trap can hold. At the ranger’s option, if there is a tall object or structure nearby, she can have the trap lift the creature.
+
+### Summoned Ally Trap (Su)
+
+**Effects**
+
+Effect The trap summons a creature as *summon nature's ally I* with a caster level equal to the ranger's level – 3. This trap functions as *summon nature's ally II* at 8th level, *summon nature's ally III* at 11th level, and *summon nature's ally IV* at 14th level. The summoned creature or creatures appear in a location within the trap's range designated when the trap is set; if it's not possible for the creatures to appear in that location, they appear in the nearest unoccupied space. The ranger can choose a command of no more than 25 words when the trap is created; the creature or creatures follow those instructions, or otherwise attack the creature that triggered the trap.
 
 ### Swarm Trap (Ex or Su)
 
@@ -1020,3 +1044,17 @@ The quintessential dragonslayers, dragon hunters are experts at forging through 
 **Expert Dragoncrafter (Ex)**: At 15th level, a dragon hunter may take 10 on Heal and Craft skill checks to harvest dragoncraft materials and to create dragoncraft items. Additionally, the amount of time required to create a dragoncraft item is reduced by half. This ability replaces the additional favored enemy and any bonuses to existing favored enemies gained at 15th level.
 
 **Elemental Resilience (Su)**: At 20th level, a dragon hunter gains energy resistance 30 against a single energy type for 1 hour. The energy types he may choose are acid, cold, electricity, and fire. He may use this ability once per day. This ability replaces the additional favored enemy and any bonuses to existing favored enemies gained at 20th level.
+
+## Toxophilite
+
+While many rangers use bows and arrows, the toxophilite takes special pride in her skill at archery. The toxophilite emulates the sharpshooting rangers of legend, who could pin a fly to the wall with a single shot or split one arrow with another. A truly talented toxophilite can even shoot down an enemy's arrow while it's still in flight.
+
+**Arrow-Splitter (Ex)**: A toxophilite gains a +1 bonus on ranged attack rolls against creatures or objects two or more size categories smaller than her. The toxophilite's ranged attacks also deal full damage to objects instead of half damage. This ability replaces wild empathy.
+
+**Combat Style Feat (Ex)**: At 2nd level, a toxophilite must select one of two ranged combat styles to pursue: archery or crossbow.
+
+**Intercept Arrow (Ex)**: At 3rd level, a toxophilite can ready a ranged attack to deflect a ranged weapon attack against her or an ally within 30 feet. To deflect the attack, the toxophilite makes an attack with a ranged weapon. If her attack roll is greater than the attacking opponent's roll, the opponent's initial attack automatically misses. For each size category the attacking creature is larger than the toxophilite, the toxophilite takes a –4 penalty on her attack roll. The toxophilite must declare the use of this ability after the attack is announced, but before the roll is made. Unusually massive ranged weapons, such as boulders or ballista bolts, and ranged attacks by firearms or generated by natural attacks or spell effects can't be deflected. This ability replaces endurance.
+
+**Improved Intercept (Ex)**: At 11th level, when the toxophilite takes a full-attack action with a ranged weapon, she can choose to forgo one of her attacks. If she does so, she can use her intercept arrow ability as an immediate action instead of a readied action at any time before her next turn. Her attack roll to intercept uses the same bonuses as the attack she chose to forgo during her previous action. This ability replaces quarry.
+
+**Greater Intercept (Ex)**: At 19th level, whenever a toxophilite successfully deflects an attack with her intercept arrow ability, she can redirect the attack against a target within 30 feet, using the intercepted attack's attack roll against the new target's AC. This ability replaces improved quarry.

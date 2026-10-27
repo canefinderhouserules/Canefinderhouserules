@@ -270,6 +270,7 @@ Shamans gain access to the following spells. Spells in plain text come from othe
 - **[Anti-incorporeal Shell](anti-incorporeal-shell.md)**: Incorporeal creatures stay 10 ft. away from you.
 - **[Assume Appearance, Greater](assume-appearance-greater.md)**: Use a likeness to adopt a dead creature’s form.
 - **[Ball Lightning](ball-lightning.md)**: Flying lightning spheres deal 3d6 electricity damage each.
+- **[Bloody Arrows](bloody-arrows.md)**: Ranged hits cause stacking bleed.
 - **[Borrow Corruption](borrow-corruption.md)**: Temporarily gain the effects of a corrupted creature’s manifestations.
 - **[Bountiful Banquet](bountiful-banquet.md)**: Create a luxurious feast for two creatures/level.
 - **[Brightest Light](brightest-light.md)**: Longer-lasting daylight that can dispel darkness.
