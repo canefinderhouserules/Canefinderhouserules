@@ -20,6 +20,12 @@ Ranger traps are either extraordinary or supernatural; extraordinary traps are T
 
 Effect When the trap is triggered, it also creates a momentary loud noise equivalent to the audible alarm version of alarm.
 
+### Anchoring Trap\* (Su)
+
+**Effects**
+
+Effect This trap can be added to a supernatural snare trap. The trap briefly imprisons any called creature (such as those called by the *planar binding* spells) for 1d4 rounds (Will negates). During this time the creature may not move from the location of the trap, though it may still use ranged effects and attack any creature within its reach. Additionally, anchoring traps disable the creature's ability to travel within or between dimensions. This includes casting *astral projection*, *blink*, *dimension door*, *dimensional gate*, *ethereal jaunt*, *etherealness*, *gate*, *maze*, *plane shift*, *shadow walk*, *teleport*, *teleportation circle*, and similar spell-like abilities. The trap does not prevent the creature from using magic items that produce these effects, like *cubic gates*, *helms of teleportation*, or *amulets of the planes*. The trap can hold up to a Medium creature; each extra daily use of the ranger's trap ability spent when the trap is set increases the maximum size of creature the trap can hold by one size category.
+
 ### Burning Trap\* (Ex or Su)
 
 **Effects**
@@ -75,6 +81,18 @@ The trapped creature can escape with an Escape Artist check (DC equal to the tra
 **Effects**
 
 Effect The trap releases a bat swarm, rat swarm, or spider swarm that attacks all creatures in the area. The swarm remains in the general area for no longer than 1 round per ranger level, after which it disperses. If the trap is an extraordinary trap, the ranger must provide the creatures of the swarm (typically in a small box, cage, or crate); these creatures may die of starvation before the trap is triggered (an extraordinary trap lasts 1 day per level).
+
+### Telepathy Trap (Su)
+
+**Effects**
+
+Effect The trap resonates at a high-pitched frequency audible only to creatures that communicate via telepathy. If the triggering creature has the ability to communicate via telepathy, the creature becomes overwhelmed by psychic feedback. The trapped creature is staggered for 1d4 rounds (Will negates), and may not communicate telepathically during this time. This is a sonic, mind-affecting effect. Creatures that lack telepathy are not affected by this trap, though they may still trigger it.
+
+### Transpositional Trap (Su)
+
+**Effects**
+
+Effect This pair of traps causes any creature that steps in one of the traps to be teleported to the location of the other trap (Will negates), as the spell *dimension door*. After having been transported, the creature may not take any other actions until its next turn. If one part of a pair of transpositional traps becomes blocked by a solid body or object, the trap does not function until the obstruction is removed. In order to create this trap, a ranger must set up two transpositional traps within 400 feet of each other, thus expending 2 uses of the ranger's traps per day. A ranger can only have one pair of transpositional traps set at a time; setting a third transpositional trap immediately causes the first to disappear and keys the second and third transpositional traps to one another.
 
 ## Trapper
 

@@ -1617,6 +1617,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Cooperative Rend](cooperative-rend.md) | Combat, Teamwork | Rend, troll |
 | [Coordinated Blast](coordinated-blast.md) | Teamwork | Spellcraft 5 ranks, any racial spell-like ability |
 | [Coordinated Capture](coordinated-capture.md) | Combat, Teamwork | Base attack bonus +1 |
+| [Coordinated Distraction](coordinated-distraction) | Combat, Teamwork | — |
 | [Coordinated Reposition](coordinated-reposition.md) | Teamwork | Step-Up |
 | [Corpse Companion](corpse-companion.md) | — | Animal companion class feature, ghoul |
 | [Corrupted Flesh](corrupted-flesh.md) | — | Con 15, 6 HD, ogre |
@@ -1665,6 +1666,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Defended Movement](defended-movement.md) | Shield Mastery | Shield Focus, base attack bonus +6 or fighter level 4th |
 | [Deft Catcher](deft-catcher.md) | — | Skill Focus (Sleight of Hand) |
 | [Demonic Momentum](demonic-momentum.md) | Combat | [Demonic Style](demonic-style.md), Improved Bull Rush, Power Attack, base attack bonus +5 |
+| [Demonic Nemesis](demonic-nemesis) | Combat | Knowledge (planes) 6 ranks |
 | [Demonic Slaughter](demonic-slaughter.md) | Combat | Cleave, [Demonic Momentum](demonic-momentum.md), [Demonic Style](demonic-style.md), Great Cleave, Improved Bull Rush, Power Attack, base attack bonus +9 |
 | [Demonic Style](demonic-style.md) | Combat, Style | Power Attack, base attack bonus +1 |
 | [Destroy Identity](destroy-identity.md) | Combat, Critical | Critical Focus, base attack bonus +11, worshiper of a deity of monsters and madness |
@@ -1735,6 +1737,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Entreating Critical](entreating-critical.md) | Combat, Critical | Cha 15, Call Truce, Critical Focus, Persuasive, base attack bonus +11, Diplomacy 5 ranks |
 | [Equipment Trick](equipment-trick.md) | Combat | Base attack bonus +1 |
 | [Eternal Enmity](eternal-enmity.md) | — | Knowledge 3 ranks (see special), hatred racial trait |
+| [Exorcist’s Rebuttal](exorcists-rebuttal) | — | Improved Iron Will, Iron Will |
 | [Expanded Hunter Tactics](expanded-hunter-tactics.md) | Combat | Hunter tactics class feature |
 | [Expanded Spell Kenning](expanded-spell-kenning.md) | — | Spell kenning class feature |
 | [Expanded Studies](expanded-studies.md) | — | Wis 17, hunter or warpriest level 16th |
@@ -2010,6 +2013,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Ostentatious Display](ostentatious-display.md) | — | — |
 | [Ostentatious Rager](ostentatious-rager.md) | Combat | Intimidate 5 ranks, rage class feature |
 | [Ostentatious Weakness](ostentatious-weakness.md) | Combat, Performance | Base attack bonus +5, favored enemy class feature |
+| [Outer Planes Traveler](outer-planes-traveler) | — | Knowledge (planes) 11 ranks, ability to cast *plane shift* or *gate* as a spell or spell-like ability |
 | [Outslug Sprint](outslug-sprint.md) | Combat | Int 13, Combat Expertise or brawler’s cunning class feature, Lunge, Outslug Style, Outslug Weave, Weapon Focus with the chosen weapon |
 | [Outslug Style](outslug-style.md) | Combat, Style | Int 13, Combat Expertise or brawler’s cunning class feature, Weapon Focus with the chosen weapon |
 | [Outslug Weave](outslug-weave.md) | Combat | Int 13, Combat Expertise or brawler’s cunning class feature, Lunge, Outslug Style, Weapon Focus with the chosen weapon |
@@ -2054,6 +2058,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Protective Channel](protective-channel.md) | — | Channel energy 7d6, worshiper of a deity of valor and justice |
 | [Protective Line](protective-line.md) | Combat, Teamwork | Exotic Weapon Proficiency (firearms) |
 | [Protector’s Strike](protector-s-strike.md) | — | Base attack bonus +5, smite evil class feature |
+| [Punch Through](punch-through) | Combat, Teamwork | Base attack bonus +6 |
 | [Punishing Step](punishing-step.md) | Combat | Dex 13, Dodge |
 | [Puppet Master](puppet-master.md) | Story | See text |
 | [Purifying Channel](purifying-channel.md) | — | Cha 15, Selective Channeling, channel energy class feature |
@@ -2167,6 +2172,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Spear Dancing Spiral](spear-dancing-spiral.md) | Combat | Dex 15, Spear Dancing Style, Two-Weapon Fighting, Weapon Finesse, Weapon Focus with the chosen weapon |
 | [Spear Dancing Style](spear-dancing-style.md) | Combat, Style | Dex 13, Two-Weapon Fighting, Weapon Focus with the chosen weapon |
 | [Spectacular Exit](spectacular-exit.md) | Combat, Performance | Dex 15, Dodge, Acrobatics 7 ranks |
+| [Spell Chain](spell-chain) | Teamwork | Spell Penetration |
 | [Spell Sponge](spell-sponge.md) | — | Animal companion or familiar, share spells ability |
 | [Spellcut](spellcut.md) | Weapon Mastery | Str 13, Cut from the Air, Power Attack, base attack bonus +9, Spellcraft 1 rank, weapon training class feature with a melee weapon |
 | [Spiked Destroyer](spiked-destroyer.md) | Combat | Proficient with armor spikes |
@@ -2306,6 +2312,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Vanguard Style](vanguard-style.md) | Combat, Style | Bodyguard, Combat Reflexes, proficiency with light or heavy shields |
 | [Vanguard Ward](vanguard-ward.md) | Combat | Bodyguard, Combat Reflexes, Vanguard Style, proficiency with light or heavy shields |
 | [Veiled Purity](veiled-purity.md) | — | 5 or more Hit Dice, good alignment |
+| [Vengeful Banisher](vengeful-banisher) | Story | You witnessed at least one family member or a close friend being killed by demons or demonic cultists, or you have the Hated Foe or An Eye for an Eye background |
 | [Venomous Spray](venomous-spray.md) | Combat | Serpentfolk |
 | [Verify](verify.md) | — | Ability to cast 1st-level spells, lawful evil alignment, worshiper of a lawful evil deity of devils and contracts |
 | [Versatile Summon Monster](versatile-summon-monster) | General | Knowledge (arcana) 1 rank, Knowledge (planes) 1 rank |

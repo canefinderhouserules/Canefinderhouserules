@@ -111,3 +111,75 @@ This sturdy satchel is the quintessential toolkit for detecting ghosts and sendi
 **Price** 290 gp; **Weight** 12 lbs.
 
 This stained mahogany box contains tools that aid in contacting supernatural beings either as part of an act or a genuine ritual. This kit includes a nonmagical spirit board (treat as a board game worth 25 gp), 10 candles, 10 candlesticks, one entertainer's outfit, one harrow deck, one magnet, 10 sticks of incense, one scroll of *augury*, and two scrolls of *prestidigitation*.
+
+## Demon Hunter Gear
+
+### Angel Quill Arrowhead
+
+**Price** 10 gp; **Weight** —
+
+This barbed, cold iron arrowhead is alchemically treated to inflict additional harm while embedded in creatures that are vulnerable to cold iron. For every angel quill arrowhead that damages a target with DR/cold iron, the target's damage reduction decreases by 1. Up to five angel quill arrowheads can affect a single target at any one time, reducing the target's DR/cold iron by up to 5 (additional arrowheads have no effect aside from dealing damage as normal). An affected target can pull out a number of arrowheads equal to her Dexterity modifier (minimum 1) as a full-round action with a successful DC 15 Heal check. Alternatively, the application of any magical healing causes all angel quill arrowheads embedded in the creature to instantly fall out.
+
+Angel quill arrowheads of silver and adamantine are also available for the same price, and affect creatures with DR/silver or DR/adamantine, respectively. Crafting any type of angel quill arrowhead requires a successful DC 25 Craft (alchemy) check.
+
+### Caltrops, Cold Iron
+
+**Price** 2 gp; **Weight** 2 lbs.
+
+Cold iron caltrops function in all ways as ordinary caltrops except that they are made of cold iron, and affect creatures with DR/cold iron accordingly.
+
+### Crusader's Cross
+
+**Price** 1 gp (standard), 50 gp (masterwork); **Weight** 1 lb.
+
+This palm-sized cross has arms of equal length and an emblem etched at the center. When purchased, the bearer's personal emblem or motto is etched on one side, and name, rank, and nation on the other. Common crusader's crosses are typically made of wood, while masterwork crosses—usually reserved for nobles, officers, or gifts to the families of fallen heroes—might be made of silver. Soldiers who fight together often carry matching crosses and quiz one another about their details to expose shapechanged infiltrators; anyone who cannot present a cross is detained until her identity is confirmed.
+
+### Exorcism Kit
+
+**Price** 950 gp; **Weight** 44 lbs.
+
+This reinforced wooden box bears the symbol of a specific good-aligned deity, which the buyer may stipulate at the time of purchase. The kit contains 1 dose of *abjurant salt*, which is used to create good-aligned barriers; 3 vials of holy water, which can be used against undead creatures or evil outsiders; and a pouch of silver dust worth 25 gp, which is a material component of the spell *consecrate*. An exorcism kit also counts as an altar for the purposes of determining bonuses and penalties for the spell *consecrate*.
+
+### Holy Fountain Firework
+
+**Price** 110 gp; **Weight** 1 lb.
+
+This hollow metal cylinder is etched with various religious symbols and contains a reservoir of holy water. When you light its fuse (a move action), a holy fountain firework fills a 10-foot-radius burst with holy water and bright light for as long as it burns. Any creature in the affected area is treated as though it had been struck with a flask of holy water, except a holy fountain firework only deals 1d4 points of damage and does not harm creatures in spaces adjacent to the affected area. Once ignited, the firework lasts for 1 minute.
+
+As a standard action, the firework can be extinguished before this time by being fully submerged or forcing its tip into the ground or a similar surface, but the remaining duration is wasted. A lit holy fountain firework can be picked up and moved, but the fountain's burst of holy water and light doesn't function during this time and the creature carrying the lit firework takes 1d4 points of fire damage each round she holds it. Crafting this item requires a successful DC 25 Craft (alchemy) check.
+
+### Interrogation Tools
+
+**Price** 30 gp; **Weight** 1 lb.
+
+An incredibly useful kit for convincing cultists and evildoers of all kinds to divulge their nefarious plots, interrogation tools appear intentionally gruesome. Various pliers, knives, hooks, shears, and mind-weakening drugs are strapped to the interior of this beaten leather bag. More often than not, the very presence of interrogation tools is enough to induce a prisoner to talk. Unfortunately, these tools also inspire some very convincing lies. Interrogation tools grant a +2 circumstance bonus on Intimidate checks made while questioning prisoners, but they impose a –1 penalty on Sense Motive checks made to determine whether the information gleaned is accurate or not.
+
+### Planar Traveler's Kit
+
+**Price** 350 gp; **Weight** 3 lbs.
+
+This kit covers all the basics for survival on potentially hostile planes. It contains basic written guides to the Outer Planes, phrasebooks for common outsider languages and tips on the ecology of each plane—though these guides sometimes contain a measure of fanciful or dubious advice. While on a plane other than the Material Plane, a planar traveler's kit grants +2 circumstance bonuses on Survival checks, Knowledge (planes) checks, and Linguistics checks made to communicate with outsiders or decipher outsider texts.
+
+### Portable Altar, Masterwork
+
+**Price** 400 gp; **Weight** 40 lbs.
+
+Consecrated to one deity, this intricately etched case contains numerous candles, stands, scented herbs, dishes, silks, small cups, containers, and similar ceremonial tools all bearing colors and iconography sacred to the associated deity. The sturdy container features a padded interior with numerous straps and compartments so that the items within aren't damaged in transport. The altar's surface prominently features the deity's holy symbol, and it's sturdy enough that it can support up to 300 pounds of weight, enough to serve as a makeshift pulpit.
+
+Among the items found within the altar are the tools and materials necessary to perform not just ceremonies, but also jobs and professions the deity deems sacred, as well as holy texts written to inspire greatness in the deity's followers. The user can expend some of the materials within the altar to gain a +2 circumstance bonus on the next Craft check of the deity's favored Craft skill (the GM picks one that fits the deity's portfolio, such as Craft (armor) for a god of war).
+
+In addition, after spending 1 hour praying and reading the holy scriptures within the altar, the user gains a +2 circumstance bonus on a single skill check. The skill aided is chosen by the GM to match the deity's portfolio (for example, Heal for a god of healing). The user must attempt this skill check within an hour of praying and reading the altar's scriptures or lose the bonus. This hour of prayer and scripture reading can be integrated with the time a cleric uses to prepare her spells. Regardless, using the masterwork portable altar in this manner expends the altar's materials in the same way that using the normal altar to bolster a Craft check does.
+
+A masterwork portable altar can be used multiple times, but after 20 uses, it must be restocked with 50 gp worth of sanctified materials—preferably purchased from a temple of the associated deity. The altar grants no bonuses on skill checks if used while its materials are depleted, though it can still be employed as a normal portable altar.
+
+### Slime Slow
+
+**Price** 15 gp; **Weight** 1/2 lb.
+
+Dark blue crystals are suspended at various points in this chunky mixture of icy liquid. When the liquid inside is exposed to open air, a vial of slime slow has a unique congealing effect on amorphous bodies. The wielder can throw a vial of slime slow as a splash weapon. If a creature with the amorphous special quality suffers a direct hit, that creature must succeed at a DC 20 Fortitude save or lose the benefits of being amorphous for 1d4 rounds. Amorphous creatures indirectly hit by slime slow must attempt the same Fortitude save, but only risk losing the benefits of being amorphous for 1 round. Crafting a vial of slime slow requires a successful DC 20 Craft (alchemy) check.
+
+### Sun Cinder
+
+**Price** 25 gp; **Weight** 1 lb.
+
+Sun cinder is a fine powder that glows faintly when exposed to light. One bag of this alchemically created talc contains 5 uses. When opened, it shines like a candle. If sprinkled on a torch or similar flame, 1 dose of sun cinder increases the light level of the area that flame illuminates by one additional step, up to bright light. This increased illumination lasts for 1 minute. Multiple doses of sun cinder can be used to further increase the light shed by the same source. A single dose of sun cinder does not affect flames larger than a torch. Sun cinder doesn't affect a light source's ability to penetrate magical darkness. Crafting 5 doses of sun cinder requires a successful DC 20 Craft (alchemy) check.

@@ -197,3 +197,112 @@ Crafted from gold and lacquer, these elaborate masks resemble various outsiders.
 The wearer cannot use the bound outsider's spell-like abilities to summon other creatures, and a summoner cannot activate a *visage of the bound* while his eidolon is summoned. Effects that extend the duration of a *summon monster* spell (such as the Extend Spell metamagic feat or the conjurer's summoner's charm class ability) have no effect on the duration of a spell contained by a *visage of the bound*. Outsiders who are opposed to one or more axes of the wearer's alignment cannot be housed within a *visage of the bound*.
 
 **Construction Requirements:** Craft Wondrous Item, *imbue with spell ability*, *summon monster V*; **Cost** 11,450 gp
+
+## Demon Hunter Items
+
+### Azata's Whimsy
+
+**Slot** neck; **CL** 7th; **Price** 8,000 gp; **Weight** —
+
+**Aura** moderate enchantment
+
+Any time the wearer of an *azata's whimsy* would become confused, her random actions are modified as follows:
+
+- **Act normally**: No changes.
+- **Babble**: The wearer's babbling is beautiful and inspiring, functioning as a 7th-level bard's inspire courage bardic performance during each round this result is rolled.
+- **Damage self**: The damage is nonlethal.
+- **Attack nearest creature**: The wearer gains a +1 insight bonus on attack rolls against enemies and takes a –4 penalty against allies.
+
+Additionally, the wearer may choose to voluntarily enter a state of confusion (as the spell) as a free action for up to 7 rounds per day. These rounds need not be consecutive.
+
+**Construction Requirements:** Craft Wondrous Item, *confusion*, creator must be a chaotic good bard; **Cost** 4,000 gp
+
+### Bastion Banner
+
+**Slot** none; **CL** 10th; **Price** 182,000 gp; **Weight** 3 lbs.
+
+**Aura** moderate varies
+
+This banner, emblazoned with a good or lawful deity's holy symbol, is meant to be carried and displayed and has no effect when not mounted properly or when lying on the ground. A *bastion banner* emits a *hollow* effect in a 40-foot radius around it, so long as it is borne by one true to the religion whose holy symbol graces the banner.
+
+Within the 40-foot radius of its *hollow* effect, a planted *bastion banner* secures terrain that would otherwise be unstable, whether due to natural causes (such as a mudslide) or supernatural causes (such as a specific plane's morphic trait). Natural terrain is simply fixed in its current configuration and cannot be altered naturally or magically; a spellcaster attempting to change the terrain affected by a *bastion banner* (such as with *move earth* or *transmute mud to rock*) must make a successful DC 21 caster level check to do so. Unnaturally or magically morphic terrain (such as that on the Abyss) is shaped into a 40-foot sphere with the topmost hemispherical half composed of breathable air and the lower hemispherical half composed of packed earth. This effect only secures basic footing against collapse; it cannot impede moving objects from outside the area (such as rain or an avalanche) or forces that act physically on the soil (such as shovels or tunneling creatures).
+
+When planted, a *bastion banner* also has a specific spell tied to the *hollow* effect, as well as an additional effect, both tied to the holy symbol it bears. The creator chooses the pairing when the banner is made, and the holy symbol should suit the deity or portfolio the pairing fits. When a *bastion banner* affects allies, the allies must worship the same deity as the one portrayed on the banner to benefit from the spell and effect, and only as long as they are within 40 feet of the banner. Enemies must also be within 40 feet of the banner to be affected. Choose one pairing:
+
+- *Protection from energy* (type is set when banner is planted; renews daily); allies gain a +4 sacred bonus on checks to aid another (trade, law, and civilization).
+- *Cause fear* (affects enemies only), and the *hollow* effect is *unhallow* instead; allies gain a +2 morale bonus on combat maneuver checks (tyranny and contracts).
+- *Remove fear*; whenever allies successfully resist a fear effect, they gain 10 temporary hit points for 1 hour (freedom and bravery).
+- *Freedom of movement*; once per day, whenever the banner's owner or an ally rolls a d20, the owner of the banner may choose to treat the roll as a natural 20 (luck and travel).
+- *Invisibility purge*; allies gain a +1 morale bonus on damage and attack rolls with ranged weapons (hunting and family).
+- *Death ward*; allies gain a +1 morale bonus on damage and attack rolls with melee weapons (valor and honor).
+- *Resist energy* (type is set when banner is planted); allies gain a +2 sacred bonus on saves (acrobatics and trickery).
+- *Daylight*; all spells with the fire or light descriptor cast from within the affected area are cast at +1 caster level (sun and healing).
+- *Tongues*; allies gain a +2 enhancement bonus to Charisma (beauty and art).
+- *Dimensional anchor*; allies gain a +2 sacred bonus to AC (stone and defense).
+- *Darkness*, and *hollow* effect is *unhallow* instead; enemies are sickened (pain and darkness).
+
+**Construction Requirements:** Craft Wondrous Item, *hollow* or *unhallow*, *move earth*, additional spell depending on pairing, creator must worship the related deity; **Cost** 91,000 gp
+
+### Caltrop Bead
+
+**Slot** none; **CL** 7th; **Price** 40 gp (iron), 80 gp (cold iron); **Weight** 2 lbs.
+
+**Aura** faint conjuration
+
+The wielder may throw this small, dense iron sphere as a ranged touch attack (with a 10-foot range increment) or use it as a sling bullet. Upon striking a solid object, a *caltrop bead* explodes into caltrops in a 10-foot-radius burst. A creature directly hit by a *caltrop bead* takes 2d4 points of piercing damage, and adjacent creatures take 1d4 points of damage as the bead suddenly bursts. Caltrops created by a *caltrop bead* remain for 1 hour before disappearing. A cold iron *caltrop bead* creates cold iron caltrops.
+
+**Construction Requirements:** Craft Wondrous Item, *minor creation*; **Cost** 20 gp (iron), 40 gp (cold iron)
+
+### Dagger of Repossession
+
+**Slot** weapon; **CL** 9th; **Price** 14,702 gp; **Weight** 1 lb.
+
+**Aura** moderate abjuration
+
+This +1 *dagger* has a thin crystal tube embedded in its center. Once per day, the wielder of this dagger may slash herself, dealing damage as normal, but also channel some of her own blood into the tube, imprinting her memories onto the dagger. The imprinted blood lasts for a number of days equal to the wielder's HD plus her Constitution modifier (minimum 1). During this time, the *dagger of repossession* is typically given to an ally of the creature whose blood is imprinted. If the original wielder becomes possessed (such as by a ghost's malevolence ability or a *magic jar* spell) and she's slashed with the dagger again, the imprinted blood is consumed, the target regains her memories, and any possession effect immediately ends. A *dagger of repossession* does not end charm or compulsion effects, but the target receives another save against these effects at the original DC. Other mind-affecting effects are unaffected by the dagger. An imprinted *dagger of repossession* has no unusual effect if used on anyone other than the target whose blood is imprinted.
+
+**Construction Requirements:** Craft Magic Arms and Armor, *break enchantment*; **Cost** 7,502 gp
+
+### Dawnlight Lantern
+
+**Slot** none; **CL** 5th; **Price** 40,000 gp; **Weight** 2 lbs.
+
+**Aura** faint divination and evocation
+
+When lit, this hooded lantern shines brightly in a 60-foot radius, as *daylight*. Once per day as a swift action, if the owner is a good-aligned divine spellcaster, she can intensify the lantern's light for 1 hour. This intensified light dazzles evil outsiders and undead in the area, and evil incorporeal creatures take 75% damage from magical attacks instead of 50%. If an illuminated creature or object has a mark indicating evil allegiance—such as a demoniac's demonic mark—that mark glows brilliantly, shining through anything short of magical concealments.
+
+**Construction Requirements:** Craft Wondrous Item, *daylight*, *detect evil*, creator must be good-aligned; **Cost** 20,000 gp
+
+### Deadlimb Pins
+
+**Slot** none; **CL** 9th; **Price** 60,000 gp; **Weight** 1 lb.
+
+**Aura** moderate transmutation
+
+As a move action, the wielder may dip these two sharp, 4-inch-long pins into their paired vial to coat them in the viscous blue-black liquid within. This coating lasts 1 minute before dissipating. On a successful unarmed attack against a creature while both coated pins are held between the wielder's knuckles, the liquid flows under the skin of one of the target's limbs (wielder's choice; two limbs on a critical hit). The target must then attempt a DC 17 Fortitude save. On a failed save, an affected limb becomes withered and useless, anything held in the limb drops to the ground, and the victim cannot move the limb for 5 minutes. If an affected limb contributes to one of the creature's modes of movement (such as a leg), the creature's movement is halved.
+
+A creature may be affected by multiple instances of *deadlimb pins*. Generally, a creature with both legs affected by *deadlimb pins* can only crawl to move, and a creature with both arms affected is unable to attack (unless they can make attacks with other body parts, of course). The exact consequences of applying multiple doses of *deadlimb pins* to creatures with inhuman anatomies or unusual limbs are left to the GM's discretion.
+
+In order to function, *deadlimb pins* must be used with the vial of liquid they were constructed with and vice-versa. One set of *deadlimb pins* and their adjoining vial can be used 50 times before its magic is depleted.
+
+**Construction Requirements:** Craft Wondrous Item, *baleful polymorph*; **Cost** 30,000 gp
+
+### Thorned Manacles
+
+**Slot** wrists; **CL** 7th; **Price** 35,600 gp; **Weight** 2 lbs.
+
+**Aura** moderate abjuration and transmutation
+
+When placed on a helpless, two-armed creature of size Tiny to Huge, these barbed manacles transform to match the creature's size and prevent the captive from utilizing any extradimensional magic, as *dimensional anchor* (no save). Removing the manacles—whether as an escape attempt or by the owner—requires a successful DC 30 Strength check or a successful DC 37 Escape Artist check; regardless of whether such an attempt succeeds, the manacles deal 2d6+7 points of piercing damage to the victim. The manacles have hardness 12 and 20 hit points.
+
+**Construction Requirements:** Craft Wondrous Item, *dimensional anchor*, *thorn body*; **Cost** 17,800 gp
+
+### Warding Lips
+
+**Slot** none; **CL** 7th; **Price** 1,900 gp; **Weight** —
+
+**Aura** moderate conjuration and necromancy
+
+When placed upon the lips, these thin, translucent sheets of wax melt invisibly onto the user's mouth. The user is aware of—but unaffected by—any magical attacks or effects that might harm him through the lips or mouth (such as a succubus's energy drain attack). In addition, the next time he would be exposed to an ingested poison, the *warding lips* instead absorb the toxin and leave him unharmed. Once exposed to a magical attack or ingested poison, a set of *warding lips* loses its magic and becomes useless.
+
+**Construction Requirements:** Craft Wondrous Item, *death ward*, *neutralize poison*; **Cost** 950 gp
