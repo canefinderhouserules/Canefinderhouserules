@@ -141,6 +141,7 @@ New antipaladin spells from *Ultimate Magic*. Spells from other books will be ad
 - **[Trial by Fire](trial-by-fire.md)**: Divine fire punishes targets whose alignment differs from your deity’s.
 - **[Unholy Ward](unholy-ward.md)**: Resist 10 damage from holy sources.
 - **[Utter Contempt](utter-contempt.md)**: Target’s attitude worsens by two categories.
+- **[Vampiric Hunger](vampiric-hunger.md)**: Target drains blood while pinning to heal or gain temporary hit points.
 - **[Vigilant Rest](vigilant-rest.md)**: Cause a sleeping creature to retain some perception of its surroundings.
 - **[Vile Dog Transformation](vile-dog-transformation.md)**: Transform ordinary dogs into fiendish minions.
 - **[Wing Thorns](wing-thorns.md)**: Wings sprout poisonous thorns you can attack with.

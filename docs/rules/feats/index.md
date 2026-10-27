@@ -1591,6 +1591,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Burrowing Shot](burrowing-shot.md) | Weapon Mastery | Dex 13, Deadly Aim, base attack bonus +9, weapon training class feature with a ranged weapon |
 | [Bushwhack](bushwhack.md) | Combat | Dex 13, Improved Grapple, Improved Unarmed Strike |
 | [But a Scratch](but-a-scratch.md) | Combat | Cha 13, Bluff 4 ranks |
+| [Butterfly's Sting](butterflys-sting.md) | Critical | Combat Expertise |
 | [Call Truce](call-truce.md) | — | Cha 15, Persuasive, Diplomacy 5 ranks |
 | [Cannon Master](cannon-master.md) | Combat | Siege Engineer, Knowledge (engineering) or Profession (siege engineer) 7 ranks, proficiency with at least one firearm siege engine |
 | [Careful Flyer](careful-flyer.md) | — | Acrobatic, Fly 5 ranks |
@@ -1863,6 +1864,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Filthy Weapons](filthy-weapons.md) | Combat | Knowledge (dungeoneering) 1 rank, Knowledge (nature) 1 rank |
 | [Finesse Shot](finesse-shot.md) | Weapon Mastery | Marksman’s Utility, base attack bonus +7, weapon training class feature with a ranged weapon |
 | [Firearm Familiarity](firearm-familiarity.md) | Combat | Base attack bonus +3, proficiency with at least one firearm |
+| [Firebrand](firebrand.md) | Combat | Worshiper of a deity of tyranny and contracts |
 | [Flagellant](flagellant.md) | — | Endurance, character level 7th, worshiper of a deity of pain |
 | [Flame Feint](flame-feint.md) | Combat, Style | Int 13, Wis 13, Combat Expertise, Elemental Discipline Style (flame), base attack bonus +9 or monk level 9th |
 | [Flame Fist](flame-fist.md) | Combat, Style | Int 13, Wis 13, Combat Expertise, Elemental Discipline Style (flame), Stunning Fist, Flame Feint, base attack bonus +13 or monk level 13th |
@@ -2547,6 +2549,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Weapon Trick](weapon-trick.md) | Combat | Base attack bonus +1 |
 | [Weapon Versatility](weapon-versatility.md) | Combat | Weapon Focus, base attack bonus +1 |
 | [Weathered Warrior](weathered-warrior.md) | Combat | Endurance |
+| [Welcome Pain](welcome-pain.md) | — | Iron Will, worshiper of a deity of pain |
 | [Wild Speaker](wild-speaker.md) | General | Bleachling racial trait, gnome |
 | [Willing Accomplice](willing-accomplice.md) | — | Cha 13, Bluff 3 ranks, Sense Motive 1 rank |
 | [Wily Warrior](wily-warrior.md) | Story | See text |

@@ -191,3 +191,7 @@ The following text is the property of Wizards of the Coast, Inc. and is Copyrigh
     Pathfinder Player Companion: Faiths of Balance. © 2011, Paizo Publishing, LLC; Author: Colin McComb.
 
     Pathfinder Player Companion: Champions of Balance © 2014, Paizo Publishing, LLC; Authors: Matt Goodall, Ron Lundeen, Philip Minchin, Patrick Renie, Jason Ridler, and David Schwartz.
+
+    Pathfinder Player Companion: Faiths of Purity. © 2011, Paizo Publishing, LLC; Author: Colin McComb.
+
+    Pathfinder Player Companion: Faiths of Corruption © 2011, Paizo Publishing, LLC; Author: Colin McComb.

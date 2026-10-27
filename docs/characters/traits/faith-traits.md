@@ -62,6 +62,8 @@ Faith traits are religion traits that tie a character to the portfolio of a deit
 
 **Elemental Resilience** *(any elemental deity)*: Choose one of the following energy types: acid, cold, electricity, or fire. You gain a +1 trait bonus on saving throws against spells with that descriptor. Once the energy type is chosen, it cannot be changed.
 
+**Elven Pantheist** *(any elven deity)*: Your knowledge of the elven gods has given you a broad perspective, thus granting you a +1 trait bonus on all Knowledge (religion) skill checks, and Knowledge (religion) is always a class skill for you.
+
 **Elven Polytheist** *(any elven deity)*: Your knowledge of the diverse elven gods has given you a broad perspective. You gain a +1 trait bonus on Knowledge (religion) skill checks, and Knowledge (religion) is a class skill for you.
 
 **Empty Heart, Full Heart** *(deity of forbidden love)*: Because of the aching strength of your forbidden love, you gain a +1 trait bonus on saving throws against charm effects, and targets of your charm spells take a –1 penalty on their saving throws.
@@ -89,6 +91,10 @@ Faith traits are religion traits that tie a character to the portfolio of a deit
 **Fiendish Confidence** *(deity of tyranny and contracts)*: You expect to be obeyed, and are rarely proven wrong. You gain a +1 trait bonus on Intimidate checks, and Intimidate is a class skill for you.
 
 **Flames of Hell** *(any archdevil)*: Your bond with the archdevil you worship strengthens your ability to channel powers of the divine. Add 1 to the DC of saving throws made to resist the effects of your channel energy ability.
+
+**Lessons of Luck** *(halfling deity of luck and daring)*: Your studies of your deity's exploits have given you a knack for avoiding trouble. Once per day, when you fail a saving throw, you can reroll the saving throw. You must take the second result even if it is worse.
+
+**Loreseeker** *(deity of runes and secret lore)*: You gain a +2 trait bonus on Spellcraft checks made to identify magical items.
 
 **The Flexing Arm** *(deity of strength and protection)*: You are practiced at using physical might to escape your bonds. You can use Strength instead of Dexterity as your base ability for Escape Artist skill checks to free yourself from bondage. Additionally, you gain a +1 trait bonus on such Escape Artist checks.
 
@@ -217,6 +223,8 @@ Faith traits are religion traits that tie a character to the portfolio of a deit
 **Unswaying Love** *(deity of art and beauty)*: Your resolute devotion to the unadulterated purity of your deity protects you from those who would manipulate you. You gain a +2 trait bonus on saving throws against charm or compulsion effects.
 
 **Veils upon Veils** *(deity of illusion and secrets)*: You have learned a holy secret that makes your illusions more powerful. Once per day when casting an illusion spell, you can do so at +1 caster level.
+
+**Vindictive Strike** *(deity of wronged vengeance)*: Once per day during a combat encounter, you can choose to gain a +1 trait bonus on a single attack roll against the creature that last hit you.
 
 **Wedded Bliss** *(deity of marriage)*: Your commitment to your own marriage or your burning desire to be wed grants you a +2 trait bonus on saving throws against charm and compulsion effects.
 
