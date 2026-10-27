@@ -175,6 +175,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Ice Slick](ice-slick.md)**: Coat the area in slippery ice and cold damage
 - **[Identifier's Eye](identifiers-eye.md)**: Detect magic and +5 on Spellcraft to identify items.
 - **[Ironskin](ironskin.md)**: Harden your skin to iron
+- **[Lay of the Land](lay-of-the-land.md)**: Instantly learn the geography around you.
 - **[Lipstitch](lipstitch.md)**: Sew the target’s lips shut.
 - **[Mad Hallucination](mad-hallucination.md)**: Target takes penalties to mental actions.
 - **[Mark of Blood](mark-of-blood.md)**: Mark a creature struck by a bloodied weapon.
@@ -412,6 +413,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Foretell Failure](foretell-failure.md)**: Learn whether an action would succeed on a roll of 10.
 - **[Forgetful Slumber](forgetful-slumber.md)**: This spell acts as the deeper slumber spell, but only affects one creature of 10 Hit Dice or fewer.
 - **[Ghost Brand](ghost-brand.md)**: Allow an item to transform into a brand and back.
+- **[Hallucinogenic Smoke](hallucinogenic-smoke.md)**: Exhale nauseating smoke; boost augury.
 - **[Harvest Knowledge](harvest-knowledge.md)**: Absorb a creature's knowledge
 - **[Hellmouth Lash](hellmouth-lash.md)**: Upon casting this spell, your tongue transforms into an energy whip weapon that can deal acid, electricity.
 - **[Hero's Spellsword](heros-spellsword.md)**: Merge a rod or staff into a melee weapon.
@@ -576,6 +578,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Shadow Memory](shadow-memory.md)**: Learn a target’s secrets to aid an assassination.
 - **[Share Skin](share-skin.md)**: Possess an animal as with magic jar.
 - **[Soul-Rending Claws](soul-rending-claws.md)**: Claws grant negative levels
+- **[Source Severance](source-severance.md)**: Suppress either arcane or divine magic around you.
 - **[Summon Flight of Eagles](summon-flight-of-eagles.md)**: Summon giant eagles to fight or serve as mounts.
 - **[Summon Laborers](summon-laborers.md)**: Summon petitioners to help downtime work
 - **[Symbol of Distraction](symbol-of-distraction.md)**: Symbol that fascinates creatures nearby.

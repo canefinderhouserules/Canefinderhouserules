@@ -192,6 +192,7 @@
 - **[Invigorating Poison](invigorating-poison.md)**: Poison ability damage becomes a bonus instead.
 - **[Ironskin](ironskin.md)**: Harden your skin to iron
 - **[Know Peerage](know-peerage.md)**: Target uses your Knowledge (nobility) ranks.
+- **[Lay of the Land](lay-of-the-land.md)**: Instantly learn the geography around you.
 - **[Life Channel](life-channel.md)**: Component V, S Range touch Target one touched creature with negative energy affinity Duration 1 minute/level.
 - **[Light Prison](light-prison.md)**: Cage of light damages and blinds those who leave it.
 - **[Magic Boulder](magic-boulder.md)**: Enchant boulders for throwing
@@ -424,6 +425,7 @@
 - **[Gift of the Deep](gift-of-the-deep.md)**: Grant sahuagin mutant features
 - **[Gilded Whispers](gilded-whispers.md)**: Use a coin as a scrying target.
 - **[Glimpse of Truth](glimpse-of-truth.md)**: Gain *true seeing* for 1 round.
+- **[Hallucinogenic Smoke](hallucinogenic-smoke.md)**: Exhale nauseating smoke; boost augury.
 - **[Harvest Knowledge](harvest-knowledge.md)**: Absorb a creature's knowledge
 - **[Healing Flames](healing-flames.md)**: Holy flames heal good creatures and burn evil ones.
 - **[Healing Warmth](healing-warmth.md)**: This spell grants you temporary immunity to fire damage as protection from energy.
@@ -623,6 +625,7 @@
 - **[Shadow Memory](shadow-memory.md)**: Learn a target’s secrets to aid an assassination.
 - **[Shield of Dawn, Greater](shield-of-dawn-greater.md)**: Sun shield damages melee attackers.
 - **[Soul-Rending Claws](soul-rending-claws.md)**: Claws grant negative levels
+- **[Source Severance](source-severance.md)**: Suppress either arcane or divine magic around you.
 - **[Speak with Soul](speak-with-soul.md)**: Hold an extended conversation with a soul
 - **[Spellfire Jinx](spellfire-jinx.md)**: Cursed caster burns and may lose spells.
 - **[Summon Laborers](summon-laborers.md)**: Summon petitioners to help downtime work

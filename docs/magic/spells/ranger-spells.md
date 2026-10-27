@@ -108,6 +108,7 @@
 - **[Insect Scouts](insect-scouts.md)**: Vermin investigate a location and grant rerolls on related skill checks.
 - **[Iron Stake](iron-stake.md)**: Hurl a spike of cold iron at a foe.
 - **[Ironskin](ironskin.md)**: Harden your skin to iron
+- **[Lay of the Land](lay-of-the-land.md)**: Instantly learn the geography around you.
 - **[Locate Weakness](locate-weakness.md)**: You roll damage twice when you roll damage for a critical hit and take the best damage.
 - **[Overstimulate](overstimulate.md)**: Grant ferocity to keep a creature conscious
 - **[Owl’s Wisdom](owls-wisdom.md)**: Subject gains +4 to Wis for 1 min./level.
@@ -229,6 +230,7 @@
 - **[Harvest Knowledge](harvest-knowledge.md)**: Absorb a creature's knowledge
 - **[Inspiring Recovery](inspiring-recovery.md)**: Heals and can revive a creature dead for 1 round, rallying its allies.
 - **[Invoke Deity](invoke-deity.md)**: Infuse yourself with the powers of your deity's planar realm
+- **[Jungle Mind](jungle-mind.md)**: Sense and link minds with animals of one type.
 - **[Named Bullet, Greater](named-bullet-greater.md)**: As named bullet, but deals 2 points of damage per caster level.
 - **[Night of Blades](night-of-blades.md)**: Wall of whirling blades.
 - **[Nondetection](nondetection.md)**: Hides subject from divination, scrying.

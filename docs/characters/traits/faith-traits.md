@@ -4,6 +4,8 @@ Faith traits are religion traits that tie a character to the portfolio of a deit
 
 **A Shining Beacon** *(deity of valor and justice)*: You carry a burning hatred in your heart for all things demonic, and have studied their weaknesses carefully. You deal an amount of additional damage equal to your weapon’s critical hit modifier when you score a successful critical hit with a weapon against a demon. This damage is added only after the damage is totaled, and is not multiplied by the critical hit multiplier.
 
+**Abject Belief** *(any doubted or vanished deity)*: You cling tenaciously to a faith that is doubted by many, perhaps based around a god who has vanished, or was never a god in the first place. You refuse to forsake your beliefs despite all evidence, perhaps due to a need to belong, respect for tradition, or a religious experience. As a result, it is nearly impossible to convince you of your deity's absence. You gain a +2 trait bonus on Will saving throws against fear effects.
+
 **Accident Resistant** *(deity of misfortune and accidents)*: Your understanding of pointless and unexpected death grants you a special awareness. You gain a +2 trait bonus on Reflex saves when denied your Dexterity bonus or during a surprise round.
 
 **Adventurous Imbiber** *(deity of freedom and ale)*: You’ve never been afraid of good, strong drink, and that has prepared you for the perils of more dangerous substances. You gain a +1 trait bonus on saving throws against poison.
@@ -22,6 +24,10 @@ Faith traits are religion traits that tie a character to the portfolio of a deit
 
 **Blessed Orphan** *(deity of orphans and the lost)*: As an orphan, you have always looked to your deity for protection. Once per day, you gain a +1 trait bonus on any saving throw. You must use this ability after the roll is made but before the result is revealed.
 
+**Born Free** *(any individualistic belief)*: You were introduced to an individualistic belief as a youth. Thriving under the promise of control of your own destiny, you soon began to demonstrate the truth of this ideal. Though others may mock you for your unwillingness to go along with a group or accept the easy security and comfort promised by more ecclesiastical faiths, you know that the revelations and destiny you seek can only be brought about through your own actions and individual search for meaning. Once per day, after you roll a saving throw against a compulsion effect, you can choose to roll again as an immediate action before the result of the saving throw is announced. You must keep the new roll, even if it is worse.
+
+**Bound by Honor** *(any code of honor)*: Your code of honor, obligations, and taboos stem from the shame of a misspent youth. Now, a personal code reminds you how to live, and you have an impressive ability to resist temptation. Once per day, if a mind-affecting effect would compel you to take an action that would cause you to lose honor points (if your game uses honor rules), you may make a new saving throw against the original DC to end the effect.
+
 **Broken Mind** *(deity of madness)*: You’re used to living with your own madness, and gain a +2 trait bonus on saving throws against madness and confusion effects.
 
 **Centered** *(deity of perfection and knowledge)*: Having anchored yourself in your faith and your knowledge of yourself, you’ve made it difficult for others to dominate you. You gain a +1 trait bonus on saving throws against charm and compulsion effects, and the DC of any attempts to use the Intimidate skill on you increases by 1.
@@ -33,6 +39,8 @@ Faith traits are religion traits that tie a character to the portfolio of a deit
 **Corpse Hunter** *(deity of death, fate, and prophecy)*: You have dedicated yourself to the destruction of undead, and gain a +1 trait bonus on attacks made against undead.
 
 **Covenant of the End** *(any deity of death or plague)*: Because your soul is pledged to a power of death, you gain a +2 trait bonus on Fortitude saving throws against level-draining effects.
+
+**Crisis of Faith** *(any faith)*: You were raised to uphold a specific set of tenets, and you never had reason to doubt their veracity. Recent events, however, have undermined that certainty, and you now find yourself wondering if any of the universal truths you once believed in can actually hold up to scrutiny. Perhaps you witnessed a mentor or church official fall from grace or violate your shared tenets. Maybe you watched a friend injured terribly despite (or because of) her pure faith. Whatever the case, your shaken confidence grants you a +1 trait bonus on saving throws against illusions. You may replace any other faith trait with the Crisis of Faith trait whenever you gain a level. This replacement is permanent until you receive *atonement*.
 
 **Deadeye Bowman** *(deity of the hunt and farming)*: When you are using a longbow, if only a single creature is providing soft cover to your target, your target does not receive the +4 bonus to AC.
 
@@ -54,7 +62,11 @@ Faith traits are religion traits that tie a character to the portfolio of a deit
 
 **Destructive Blows** *(deity of destruction)*: Your faith strengthens your powers of destruction. You gain a +2 trait bonus on Strength checks to break objects, as well as on combat maneuver checks to sunder.
 
+**Devout Visionary** *(any shamanistic belief)*: As a child, you had a strange vision while suffering from a terrible illness, and only found your way back to the mundane world by following the call of a spiritual leader—perhaps a shaman's drum or a druid's lilting poetry. Since then, you have studied symbolism and dreams in the hope that you might understand your own vision, though your lessons prove just as helpful to others. You gain a +1 trait bonus on Will saving throws against spells and effects that grant the confused or dazed condition. Once per day as a full-round action, you may grant an adjacent ally a new Will saving throw to end an effect that grants the confused or dazed condition.
+
 **Diseased Heart** *(deity of disease)*: Your work with infections has infused your spirit with disease. Any creature that performs a blood drain or swallow whole attack on you must succeed at a Fortitude saving throw (DC = 10 + your character level + your Constitution modifier) or become infected with filth fever. This is a poison effect.
+
+**Divine Denier** *(any atheistic philosophy)*: You can't bring yourself to accept the authority of the gods, even though friends might hound you relentlessly to change your ways. Perhaps you object on ideological grounds, or perhaps you just want to be left alone. Your doubt causes you to shrug off divine magic more quickly than others. Once per day when you are affected by a divine spell, you may reduce that spell's duration to half (minimum 1 round) for you alone.
 
 **Dragon Tracker** *(deity of evil dragons)*: You have been taught to identify the subtle and not-so-subtle signs of a dragon’s passage. You gain a +2 trait bonus on Survival checks to track dragons, and you can track a dragon with Survival untrained if the check’s DC is 15 or lower.
 
@@ -92,9 +104,23 @@ Faith traits are religion traits that tie a character to the portfolio of a deit
 
 **Flames of Hell** *(any archdevil)*: Your bond with the archdevil you worship strengthens your ability to channel powers of the divine. Add 1 to the DC of saving throws made to resist the effects of your channel energy ability.
 
+**Juju Apprentice** *(any juju or spirit-worship tradition)*: For a time during your childhood, you were left in the care of a juju oracle, who saw your potential and taught you simple juju magic to influence the weak-minded for brief periods of time. You can use *daze* as a spell-like ability once per day, using your character level as your caster level (minimum 1). The save DC of this effect is Charisma-based. The dazed individual looks ashen and deathly for the duration of the effect.
+
 **Lessons of Luck** *(halfling deity of luck and daring)*: Your studies of your deity's exploits have given you a knack for avoiding trouble. Once per day, when you fail a saving throw, you can reroll the saving throw. You must take the second result even if it is worse.
 
 **Loreseeker** *(deity of runes and secret lore)*: You gain a +2 trait bonus on Spellcraft checks made to identify magical items.
+
+**Monastic** *(any monastic tradition)*: Either your parents sent you to be raised in a monastery, or you traveled there yourself later in life in order to escape the conflict and distractions of the greater world. There you learned to eschew the material concerns that plague so many and cloud their minds, instead embracing an ascetic lifestyle. You readily let go and step away from trouble, free from any tie or baggage that might slow your path to enlightenment—figuratively or literally. Once per day as a swift action, you gain a +1 trait bonus to Armor Class as long as you are wearing no armor, not using a shield, carrying a light load, and have nothing in your hands. This bonus lasts for 1 minute.
+
+**Nature Worshiper** *(any nature faith)*: When you were young, you saw a dead creature's body fertilize a field. Witnessing the connection between life and death moved you to recognize your own connection with the world, and ever since you have revered nature and feared death less. You gain a +1 trait bonus on saving throws against death effects and effects that use negative energy, such as energy drain and inflict spells.
+
+**Priest-Blessed** *(any ecclesiastical tradition)*: You were guided to maturity by a trusted priest of an ecclesiastical tradition, who inspired you and made you understand that the authority exerted by a religious hierarchy is a blessing rather than a restriction, allowing the faithful to always feel confident in their direction and the righteousness of the guided actions. Now, your faith wells up whenever you are aided by divine magic, and you find it easy to open up to the magic and succor of any faith, seeing the similarities between all such traditions. Three times per day when you are the target of a harmless divine spell, you may increase its caster level by 1 for purposes of its effect on you alone.
+
+**Proxy of Many** *(any pantheon)*: As a pantheist, you are accustomed to calling on aid from a variety of sources, and have a pragmatic sense for how to best make use of any ally. You gain a +2 trait bonus on Diplomacy checks made to request a favor from a creature that has not performed a favor for you in the past week. This bonus increases to +4 if you have performed a favor for that creature since it last did a favor for you.
+
+**Religious Reformer** *(any faith with a church)*: You have spent many years studying the tenets of your faith, and now believe that the dominant factions within the church have deviated from its true meaning and purpose. Rather than breaking with your misguided church, you've decided to stand up and fight to reform the organization you love. You have fervently studied scripture and steeled your will to combat the divergent beliefs of your peers. You gain a +2 trait bonus on Knowledge (religion) checks that pertain to your own religion or spiritual practice, and you gain a +2 trait bonus on saving throws against spells cast by others who worship your god or adhere to your philosophy.
+
+**Self-Actualization** *(any individualistic belief)*: Inspired by stories of mortals ascending to godhood, you're certain that you can do the same, and do all you can to hone your talents and reach your utmost potential. Once per day, when you take 20 on a roll or check, you can complete the action in only five times the normal amount of time for that action, rather than 20 times the normal amount.
 
 **The Flexing Arm** *(deity of strength and protection)*: You are practiced at using physical might to escape your bonds. You can use Strength instead of Dexterity as your base ability for Escape Artist skill checks to free yourself from bondage. Additionally, you gain a +1 trait bonus on such Escape Artist checks.
 
@@ -214,6 +240,10 @@ Faith traits are religion traits that tie a character to the portfolio of a deit
 
 **Thrill-Seeker** *(deity of dreams and travelers)*: Your deity has blessed you not just with a love of taking chances, but also the fortune to come out of such risky situations unscathed. Once per day, when you attempt an Acrobatics check, you can roll twice and take the better result. You must choose to use this ability before making the check.
 
+**Totemist** *(any totemism)*: You grew up in a culture where the touch of totem spirits was felt in everyday life, their subtle urgings constantly guiding you and keeping you safe. As a result, you learned quickly to ask for their help when trouble arises. Once per day, you may call upon your totem's wisdom as a standard action. You gain the benefits of *guidance*, except that the granted competence bonus is equal to half your character level (minimum +1). This is a supernatural ability.
+
+**Traditionalist** *(any communal belief)*: You spent a part of your youth far away from your homeland and your people. The experience of being a stranger in a strange land taught you to appreciate the support and understanding of the other members of your communal belief, and to never take it for granted. Though you still respect other cultures, you have come to see the way in which your particular culture keeps the knowledge of your people and their history alive, and feel that you have a responsibility to guard their traditions even when you are far from home. You gain a +1 trait bonus on Knowledge (history) and Knowledge (local) checks, and one of those skills (your choice) becomes a class skill for you.
+
 **Underlying Principles** *(deity of magic)*: You’ve spent a large amount of time around magical items, and understand the similarities between many of them. You gain a +1 trait bonus on Use Magic Device checks, and Use Magic Device is a class skill for you.
 
 **Unhinged Mentality** *(deity of monsters and madness)*: Your deity-granted madness gives you a +2 trait bonus on saving throws against confusion, insanity, and fear effects.
@@ -237,3 +267,5 @@ Faith traits are religion traits that tie a character to the portfolio of a deit
 **Worthless Pawn** *(any alien or eldritch power)*: Your existence is so meaningless to your chosen patron that it cares nothing for how you wield its power. You may prepare and cast spells whose alignment is in opposition to your patron’s, but doing so causes you to take 1 point of Wisdom damage per spell level when the spell is cast. This does not permit you to use spell trigger or completion items of opposing alignments.
 
 **Wronged** *(deity of wronged vengeance)*: Somewhere in your past, you were taken advantage of because of your gender. You gain a +2 trait bonus on Sense Motive checks against male creatures of your race, and the DC for men to intimidate you increases by 2.
+
+**Zealot's Bearing** *(any zealous faith or philosophy)*: Your fiery passion for your faith or philosophy is obvious to everyone around you. Those who share your convictions automatically find themselves wanting to defer to your zealous authority, making you a natural leader of your faith. Unfortunately, your scorn for those who haven't yet seen the wisdom of converting is equally obvious, and makes you a poor ambassador or missionary to the "ignorant masses" (as you not-so-secretly think of them). You gain a +2 bonus on Diplomacy and Intimidate checks when dealing with adherents of your faith or philosophy, but a –1 penalty on Diplomacy and Intimidate checks when dealing with anyone else.

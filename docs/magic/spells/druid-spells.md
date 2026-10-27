@@ -154,6 +154,7 @@
 - **[Insect Scouts](insect-scouts.md)**: Vermin investigate a location and grant rerolls on related skill checks.
 - **[Invigorating Poison](invigorating-poison.md)**: Poison ability damage becomes a bonus instead.
 - **[Ironskin](ironskin.md)**: Harden your skin to iron
+- **[Lay of the Land](lay-of-the-land.md)**: Instantly learn the geography around you.
 - **[Magic Boulder](magic-boulder.md)**: Enchant boulders for throwing
 - **[Mud Buddy](mud-buddy.md)**: Create a small mud servant that can trip foes
 - **[Outbreak](outbreak.md)**: Make diseased creatures contagious
@@ -379,6 +380,7 @@
 - **[Hunter’s Blessing](hunters-blessing.md)**: Group gains favored enemy and favored terrain bonuses.
 - **[Insect Plague](insect-plague.md)**: Wasp swarms attack creatures.
 - **[Invoke Primal Power](invoke-primal-power.md)**: Enhance a Large-or-larger wild shape with primal traits.
+- **[Jungle Mind](jungle-mind.md)**: Sense and link minds with animals of one type.
 - **[Master's Mutation](masters-mutation.md)**: Grant abilities to a summoned creature
 - **[Neutralize Poison, Greater](neutralize-poison-greater.md)**: As neutralize poison, but it also reverses poison damage.
 - **[Old Salt’s Curse](old-salt-s-curse.md)**: You inflict a curse of the roiling sea upon the target, making it permanently sickened.
@@ -440,6 +442,7 @@
 - **[Repel Wood](repel-wood.md)**: Pushes away wooden objects.
 - **[Roaming Pit](roaming-pit.md)**: A *create pit* that can move.
 - **[Share Skin](share-skin.md)**: Possess an animal as with magic jar.
+- **[Source Severance](source-severance.md)**: Suppress either arcane or divine magic around you.
 - **[Speak with Waves](speak-with-waves.md)**: Converse with a body of fresh water.
 - **[Spellstaff](spellstaff.md)**: Stores one spell in wooden quarterstaff.
 - **[Stone Tell](stone-tell.md)**: Talk to natural or worked stone.
@@ -473,6 +476,7 @@
 - **[Siege of Trees](siege-of-trees.md)**: Transforms Large trees into arboreal catapults of the same size.
 - **[Summon Nature’s Ally VII](summon-natures-ally-vii.md)**: Summons creature to fight.
 - **[Sunbeam](sunbeam.md)**: Beam blinds and deals 4d6 damage.
+- **[Tectonic Communion](tectonic-communion.md)**: Commune with nature over a huge range.
 - **[Transmute Metal to Wood](transmute-metal-to-wood.md)**: Metal within 40 ft. becomes wood.
 - **[True Seeing](true-seeing.md)**: Lets you see all things as they really are.
 - **[Wind Walk](wind-walk.md)**: You and your allies turn vaporous and travel fast.

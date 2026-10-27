@@ -76,6 +76,36 @@ The randomly stolen thoughts remain in your mind for a number of rounds equal to
 
 **Final Revelation**: Upon reaching 20th level, you become a truly alien and unnatural creature. You gain damage reduction 5/— and immunity to acid, critical hits, and sneak attacks. Once per day, you can cast shapechange as a spell-like ability without requiring a material component.
 
+### Juju
+
+**Typical deities**: capricious ancestral and nature spirits, and gods of the hunt, the jungle, and trickery.
+
+**Class Skills**: An oracle with the juju mystery adds Bluff, Intimidate, Knowledge (nature), Perform (oratory), and Survival to her list of class skills.
+
+**Bonus Spells**: *speak with animals* (2nd), *hideous laughter* (4th), *fear* (6th), *charm monster* (8th), *mass suggestion* (10th), *contact other plane* (as a 6th-level spell) (12th), *summon nature's ally VII* (14th), *mass charm monster* (16th), *shapechange* (18th).
+
+**Revelations**: An oracle with the juju mystery can choose from any of the following revelations. Juju oracles usually have the haunted, wasting, or tongues curse.
+
+**Beast Tongue (Ex)**: You can communicate with a single type of animal (birds, cats, snakes, fish, and so on) as if you were constantly using *speak with animals*. Although this ability grants you the ability to converse with such creatures, it grants you no special influence over them.
+
+**Connaissance (Su)**: You can spend a full-round action to attune yourself to the spirit world, gaining the benefit of a *moment of prescience* spell with the insight bonus equal to one half your oracle level (minimum 1). You may use this ability a number of times per day equal to your Charisma modifier (minimum 1), but you may only have one connaissance effect active at a time.
+
+**Ensnare the Soul (Su)**: Your magic turns others into zombie-like servants. Add *charm person* and *dominate person* to your spell list. Creatures affected by either spell become listless and pale, appearing dead to observers (DC 20 Heal or Perception check to determine the creature is not undead). Affected creatures are slow to take any action unless you specifically direct them to do so. They are not mindless or helpless, however, and defend themselves if attacked.
+
+**Juju Senses (Ex)**: When casting *detect magic* and *identify*, you gain a +2 bonus on Knowledge (arcana) and Spellcraft checks to recognize auras and identify their properties. You also gain a +2 bonus on Perception and Sense Motive checks made against spirit creatures, such as outsiders, fey, and incorporeal undead. At 10th level, this bonus increases to +4.
+
+**Night Terror (Su)**: You send your spirit to torment another being's dreams. Once per day, you may target a creature with the effects of a *nightmare* spell. Instead of the spell's normal damage, you make a full attack, using your Charisma modifier in place of your Strength modifier, against the victim's touch AC. You deal 1d10 damage for each successful hit. You must be at least 11th level before selecting this revelation.
+
+**Path of the Snake (Su)**: Once per day, as a standard action, you can become incorporeal. While in this form, you gain a +10 bonus on Stealth checks and can move in any direction and through any object (except for those made of force). You can take no action other than to move while in this form. You remain in this form for a number of rounds equal to your oracle level, but you can end this effect prematurely with a standard action. At 15th level, you can use this ability twice per day. You must be at least 11th level to select this revelation.
+
+**Spiritual Defense (Sp)**: Your chanting grants protection against your enemies. As a move action, you can begin chanting to gain the benefit of a protection spell (such as *protection from evil*) using your oracle level as your caster level. This protection lasts until you stop chanting or for the spell's normal duration, whichever comes first. Chanting after the initial round of the effect is a free action, and you can incorporate verbal components and communication into the chant; magical silence ends a chant and its protection effect. At 6th level, you can chant aloud to create a magic circle effect (such as *magic circle against evil*). You can use this ability a number of times per day equal to 3 + your Charisma modifier.
+
+**Summon Nature's Spirits (Sp)**: Once per day, as a standard action, you may cast a *summon monster* spell of a level up to the highest level you can cast. You may only summon elementals in this manner, but are treated as having the Augment Summoning feat when you do so. You must be at least 5th level to select this revelation.
+
+**Unwilling Host (Su)**: You command spirits to invade the bodies of your enemies. Once per day as a standard action you may target a number of creatures equal to your Charisma modifier within 100 feet, no two of which can be more than 30 feet apart. Targeted creatures must make a Will save or suffer the effects of a *confusion* spell as the spirits possess them and cause them to behave erratically for a number of rounds equal to your oracle level. You must be at least 7th level to select this revelation.
+
+**Final Revelation**: At 20th level, you become a master of the connections between the mortal world and the spirit world. Your knowledge enables you to gain incredible insight and control over others by manipulating spiritual energy. You gain an insight bonus equal to your Charisma modifier to your AC and on all saving throws and Knowledge checks. Additionally, once per day, you may cast extended *dominate monster* as a spell-like ability. With this ability, you may dominate a number of creatures equal to double your Charisma modifier.
+
 ### Metal
 
 **Typical deities**: a god of cities, law, merchants, and wealth; a god of battle, strength, and weapons; a god of the forge, protection, and strategy.

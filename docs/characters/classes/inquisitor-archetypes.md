@@ -42,6 +42,16 @@ Inquisitions are intended for inquisitors, not for other classes that give acces
 
 **Thief’s Soul (Ex)**: At 8th level, you gain Improved Steal, Greater Steal, and Quick Steal as bonus feats, even if you don’t meet the prerequisites.
 
+### Excommunication Inquisition
+
+Marked by your deity for your impressive will, you are among the few with the wherewithal to carry out the necessary work of removing dangerous influences from your church.
+
+**Granted Powers**: You can repulse the influence of confused divine servants.
+
+**Touch of Silence (Su)**: With a melee touch attack, you render a target silent (as the spell *silence*, but only affecting the target) for 1 round. You can use this ability a number of times per day equal to 3 + your Wisdom modifier.
+
+**Excommunicate (Su)**: At 8th level, once per day, you can silence a creature within 30 feet as a standard action. A Will save against DC = 10 + 1/2 your inquisitor level + your Wisdom modifier negates the effect. A creature that fails its save gets a second save 1 round later. If it fails the second save, the target cannot speak, provide verbal components for spells, make use of language-dependent effects, write, pantomime, or take any other action meant to communicate anything more complex than a simple affirmative or negative for 1 day.
+
 ### Fate Inquisition
 
 **Typical deities**: a god of magic; a god of greed, murder, poison, and secrets; a goddess of birth, death, fate, and prophecy.
@@ -83,6 +93,30 @@ Inquisitions are intended for inquisitors, not for other classes that give acces
 **Caging Strike (Su)**: With a devastating weapon strike, spectral chains wrap around your target for a short period of time. Whenever you confirm a critical hit with a melee or ranged weapon attack (including spells that require attack rolls), you can choose to also entangle that target for 1d4 rounds (Fortitude negates). You may use this ability a number of times per day equal to 3 + your Wisdom modifier.
 
 **Divine Prison**: At 8th level, once per day upon making a successful melee attack, you can affect your target with hold monster (Will negates).
+
+### Redemption Inquisition
+
+Your deity inspires you with hope that wayward members of your faith can be brought back into the fold.
+
+**Granted Powers**: You reach out to your misguided fellows and give them every chance to turn back from conflict with the true faith, even if your differences come to violence.
+
+**Patient Sensibility (Su)**: You gain a +2 bonus on Diplomacy, Perception, and Sense Motive checks.
+
+**Redeemer's Mercy (Su)**: At 4th level, any weapon you wield gains the *merciful* magic weapon special ability. The weapon immediately reverts to its original abilities when you cease to wield it.
+
+**Second Chance (Sp)**: At 8th level, you can give an enemy a second chance to correct the error of its ways. Once per day as a standard action, you can cast *atonement* as a spell-like ability, targeting a creature that has violated the tenets of a religion you both share or that freely desires to convert to your alignment. If costly material components are required for the *atonement*, you may choose to accept a permanent negative level as a sacrifice in place of those components. The target of this effect also receives the benefits of a *cure serious wounds* spell as part of the effects of the *atonement*.
+
+### Reformation Inquisition
+
+Moved by divine disapproval of your church's mistakes, you seek to correct them however you can.
+
+**Granted Powers**: You can speak with divine persuasiveness.
+
+**Inspired Rhetoric (Ex)**: You use your Wisdom modifier in place of your Charisma modifier when making Diplomacy, Intimidate, and Perform (oratory) checks. Perform (oratory) is an inquisitor class skill for you.
+
+**Blessed Correction (Ex)**: At 4th level, when you make a Diplomacy, Intimidate, or Perform (oratory) check, you may roll twice and take the more favorable result. You can use this ability a number of times per day equal to your Wisdom bonus.
+
+**Awaken Discontent (Su)**: At 8th level, you can deliver a stirring speech condemning the mistakes of those in power and calling for reform, causing the target of your rhetoric to be affected by *charm person* with a caster level equal to your inquisitor level and a save DC of 10 + 1/2 your inquisitor level + your Wisdom modifier. You may use this ability a number of times per day equal to your Wisdom modifier.
 
 ### Secrets Inquisition
 

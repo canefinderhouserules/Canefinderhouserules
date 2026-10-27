@@ -1500,6 +1500,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Ancestral Enmity](ancestral-enmity.md) | Combat | Giant subtype |
 | [Ancestral Weapon Mastery](ancestral-weapon-mastery.md) | Combat | Base attack bonus +1, weapon familiarity racial trait |
 | [Angelbane Strike](angelbane-strike.md) | — | Channel Smite, divine caster level 5th, channel negative energy class feature, evil patron deity |
+| [Animal Ally](animal-ally.md) | — | Nature Soul, character level 4th, must not have an animal companion or mount that advances as an animal companion |
 | [Anti-Divine Assault](anti-divine-assault.md) | Combat | Bluff 1 rank, Knowledge (religion) 1 rank, must have been trained to oppose divine servitors |
 | [Apocalyptic Spell](apocalyptic-spell.md) | Metamagic | — |
 | [Aquatic Adaptation](aquatic-adaptation.md) | — | Hold breath |
@@ -1526,6 +1527,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Assassins' Guild Collaborator](assassins-guild-collaborator.md) | — | Associate (an assassins' guild) |
 | [Associate](associate.md) | — | You maintain a positive relationship with an organization for at least 6 months or achieve a major accomplishment on behalf of an organization. |
 | [Assured Destruction](assured-destruction.md) | — | Empowered Daemonic Pact, urdefhan |
+| [Atheist Abjurations](atheist-abjurations.md) | — | Divine Defiance |
 | [Augment Calling](augment-calling.md) | General | Spell Focus (conjuration); ability to cast lesser planar ally, lesser planar binding, or a higher-level version of these spells |
 | [Aura of Succumbing](aura-of-succumbing.md) | — | Channel energy class feature, worshiper of a deity of death or plague |
 | [Authoritative Spell](authoritative-spell.md) | Metamagic | — |
@@ -1550,6 +1552,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Beartrap Bite](beartrap-bite.md) | Combat | Weapon Focus (bite), base attack bonus +6 |
 | [Befuddling Initiative](befuddling-initiative.md) | Combat | Improved Initiative |
 | [Believable Veils](believable-veils.md) | — | Caster level 3rd, ability to cast at least one glamer or figment, worshiper of a deity of illusion or secrets |
+| [Bend with the Wind](bend-with-the-wind.md) | — | Wis 15, Body Control, Endurance, Meditation Master |
 | [Bestow Hope](bestow-hope.md) | — | Improved Channel, channel energy class feature, worshiper of a deity of healing and redemption |
 | [Betrayal Sense](betrayal-sense.md) | Combat | Wis 13, rogue level 3rd, trap sense class feature |
 | [Betrayed](betrayed.md) | Story | You have had a valuable item (worth at least 1,000 gp per character level) stolen by a former ally, or have been left for dead by a former ally. |
@@ -1567,6 +1570,8 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Bloody Vengeance](bloody-vengeance.md) | Combat | Base attack bonus +1, worshiper of a deity of vengeance |
 | [Blunt Blade](blunt-blade.md) | Blood Hex | Int 13, base attack bonus +6, Use Magic Device 1 rank |
 | [Blustering Bluff](blustering-bluff.md) | — | Cha 13, Bluff 1 rank, Intimidate 1 rank |
+| [Body Control](body-control.md) | — | Wis 11, Meditation Master |
+| [Body Mastery](body-mastery.md) | — | Wis 19, Body Control, Meditation Master, character level 15th |
 | [Bolster Undead](bolster-undead.md) | — | Channel energy 6d6, worshiper of a deity of undeath |
 | [Born of Frost](born-of-frost.md) | — | Frost giant |
 | [Bouncing Trick](bouncing-trick.md) | Trick | Mesmerist trick class feature |
@@ -1633,6 +1638,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Close Call](close-call.md) | — | Deft Hands |
 | [Cold Celerity](cold-celerity.md) | — | Endurance |
 | [Combat Advice](combat-advice.md) | — | — |
+| [Combat Meditation](combat-meditation.md) | Combat | Wis 13, Meditation Master, character level 5th |
 | [Combat Vigor](combat-vigor.md) | Combat | Con 13 |
 | [Commander of Goblinkind](commander-of-goblinkind.md) | — | Cha 13, hobgoblin |
 | [Compulsion Mastery](compulsion-mastery.md) | Item Mastery | Use Magic Device 3 ranks, base Fortitude save bonus +6 |
@@ -1759,6 +1765,8 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Divination Guide](divination-guide.md) | — | Caster level 3rd, ability to cast *augury* or *divination*, must worship a deity |
 | [Divine Barrier](divine-barrier.md) | — | Channel energy class feature, worshiper of a deity of dragons |
 | [Divine Communion](divine-communion.md) | — | Wisdom 13, alignment must match that of your worshiped deity |
+| [Divine Defiance](divine-defiance.md) | — | — |
+| [Divine Denouncer](divine-denouncer.md) | — | Divine Defiance |
 | [Divine Dignity](divine-dignity.md) | — | Combat Casting, ability to cast divine spells, worshiper of a deity of law and trade |
 | [Divine Expression](divine-expression.md) | — | Bard level 1st, cleric or oracle level 1st, worshiper of a deity of art and beauty |
 | [Divine Fighting Technique](divine-fighting-technique.md) | Combat | Same alignment as the chosen technique’s patron |
@@ -1769,6 +1777,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Dragonheart](dragonheart.md) | — | Knowledge (arcana) 1 rank |
 | [Dragonslayer](dragonslayer.md) | Combat | Knowledge (arcana) 4 ranks, base attack bonus +4 |
 | [Dreamed Secrets](dreamed-secrets.md) | — | Ability to cast divine spells, caster level 7th, worshiper of an alien or eldritch power |
+| [Druidic Decoder](druidic-decoder.md) | — | Linguistics 1 rank, cannot be a druid |
 | [Drunkard’s Recovery](drunkard-s-recovery.md) | — | Con 13 |
 | [Drunken Brawler](drunken-brawler.md) | Combat | Endurance, worshiper of a deity of freedom and ale |
 | [Duelist Artistry](duelist-artistry.md) | Combat | Exotic Weapon Proficiency (dueling sword), Weapon Finesse, base attack bonus +2 |
@@ -1880,6 +1889,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Focused Aberration Expertise](focused-aberration-expertise.md) | Combat | Favored enemy (aberration) class feature |
 | [Focused Animal Expertise](focused-animal-expertise.md) | Combat | Favored enemy (animal) class feature |
 | [Focused Construct Expertise](focused-construct-expertise.md) | Combat | Favored enemy (construct) class feature |
+| [Focused Disbelief](focused-disbelief.md) | — | Divine Defiance |
 | [Focused Dragon Expertise](focused-dragon-expertise.md) | Combat | Favored enemy (dragon) class feature |
 | [Focused Fey Expertise](focused-fey-expertise.md) | Combat | Favored enemy (fey) class feature |
 | [Focused Magical Beast Expertise](focused-magical-beast-expertise.md) | Combat | Favored enemy (magical beast) class feature |
@@ -1897,6 +1907,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Fox Insight](fox-insight.md) | Combat | Int 13, Fox Style |
 | [Fox Style](fox-style.md) | Combat, Style | Int 13 |
 | [Fox Trickery](fox-trickery.md) | Combat | Int 13, Combat Expertise, Fox Insight, Fox Style, Improved Dirty Trick |
+| [Friend to Animals](friend-to-animals.md) | — | Nature Soul, Handle Animal 3 ranks |
 | [Friendly Fire Maneuvers](friendly-fire-maneuvers.md) | Combat, Teamwork | Point-Blank Shot, Precise Shot |
 | [Friendly Rivalry](friendly-rivalry.md) | Combat, Teamwork | Human |
 | [Friendly Shroud](friendly-shroud.md) | — | Stealth 1 rank |
@@ -1965,6 +1976,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Hurricane Punch](hurricane-punch.md) | Combat | Str 13, Improved Bull Rush, Improved Unarmed Strike, Power Attack |
 | [Hurtful](hurtful.md) | Combat | Str 13, Power Attack |
 | [Hydroponic Adaptation](hydroponic-adaptation.md) | General | Gathlain, racial fly speed |
+| [Iconoclast](iconoclast.md) | Combat | Divine Defiance, Improved Sunder, Power Attack, Intimidate 3 ranks |
 | [Icy Stare](icy-stare.md) | — | [Born of Frost](born-of-frost.md), frost giant |
 | [Illusion Mastery](illusion-mastery.md) | Item Mastery | Use Magic Device 2 ranks, base Fortitude save bonus +4 |
 | [Illusive Gnome Bewilderment](illusive-gnome-bewilderment.md) | Combat | Int 13, Combat Expertise, Gnome Weapon Focus, Illusive Gnome Style, Illusive Gnome Surprise, Improved Feint, gnome magic and weapon familiarity racial traits |
@@ -2076,6 +2088,8 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Maze Expert](maze-expert.md) | — | Skill Focus (Survival), Survival 5 ranks |
 | [Measure Foe](measure-foe.md) | Combat | Street Smarts, base attack bonus +1 |
 | [Measured Response](measured-response.md) | Combat | Base attack bonus +1, worshiper of a deity of law and trade |
+| [Meditation Master](meditation-master.md) | — | — |
+| [Meditative Concentration](meditative-concentration.md) | — | Wis 13, Combat Meditation, Meditation Master, character level 5th |
 | [Merchant Combine Partner](merchant-combine-partner.md) | — | Associate (a merchant combine) |
 | [Merciless Rush](merciless-rush.md) | Combat | Improved Bull Rush, worshiper of a deity of destruction |
 | [Messenger of Fate](messenger-of-fate.md) | — | Ability to cast *augury*, worshiper of a deity of death and fate |
@@ -2117,6 +2131,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Named Bullet](named-bullet.md) | Grit | Amateur Gunslinger feat or grit class feature, Gunsmithing, base attack bonus +5 |
 | [Nameless One](nameless-one.md) | — | — |
 | [Narrow Frame](narrow-frame.md) | — | Escape Artist 1 rank, animal or magical beast |
+| [Nature Soul](nature-soul.md) | — | — |
 | [Nature's Wrath](natures-wrath.md) | — | Int 1, any nongood alignment, plant type |
 | [Needle in a Haystack](needle-in-a-haystack.md) | — | Skill Focus (Perception), Perception 3 ranks |
 | [Nerve-Racking Negotiator](nerve-racking-negotiator.md) | — | Persuasive |
@@ -2162,11 +2177,14 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Pack Tactics](pack-tactics.md) | — | Int 13, animal companion class feature |
 | [Painful Blow](painful-blow.md) | Combat | Vital Strike, base attack bonus +6, Knowledge (arcana) 3 ranks |
 | [Painful Cures](painful-cures.md) | — | Evil alignment |
+| [Pantheistic Blessing](pantheistic-blessing.md) | — | Wis 13, must worship a pantheon of deities |
 | [Passed Critical](passed-critical.md) | Combat | Combat Expertise, worshiper of a deity of luck or dreams |
 | [Peace of Mind](peace-of-mind.md) | Conduit | Knowledge (planes) 3 ranks |
 | [Peacemaker](peacemaker.md) | — | Charisma 13, good alignment |
 | [Penetrating Stare](penetrating-stare.md) | Combat, Stare | Mesmerist level 7th, painful stare class feature |
+| [Perfect Awareness](perfect-awareness.md) | Combat | Wis 17, Combat Meditation, Meditation Master, character level 9th |
 | [Perfect Casting](perfect-casting.md) | — | Combat Casting, Divine Dignity, ability to cast divine spells, worshiper of a deity of law and trade |
+| [Perfect Center](perfect-center.md) | Combat | Wis 21, Combat Meditation, Meditation Master, character level 17th |
 | [Pernicious Stab](pernicious-stab.md) | Combat | Sneak attack +2d6 |
 | [Persuasive Bribery](persuasive-bribery.md) | — | Persuasive |
 | [Persuasive Performer](persuasive-performer.md) | — | Versatile performance class feature, worshiper of a deity of art and beauty |
@@ -2274,6 +2292,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Scuttle](scuttle.md) | — | — |
 | [Secured Armor](secured-armor.md) | Armor Mastery | Base attack bonus +11 or fighter level 8th, armor training class feature, proficiency with medium or heavy armor |
 | [Seductive Channel](seductive-channel.md) | — | Channel positive energy class feature, worshiper of a deity of lust and revenge |
+| [Seeds of Doubt](seeds-of-doubt.md) | — | Hex class feature, Divine Defiance |
 | [Seeking Spell](seeking-spell.md) | Metamagic | — |
 | [Seeping Darkness](seeping-darkness.md) | Teamwork | Drow, darkness racial spell-like ability |
 | [Selfish Channel](selfish-channel.md) | General | Channel energy class feature |
@@ -2319,6 +2338,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Slipslinger Bombardment](slipslinger-bombardment.md) | Combat | Quick Draw, Slipslinger Grenadier, Slipslinger Style, Throw Anything, Weapon Focus (sling) or weapon training (thrown) class feature, warslinger racial trait |
 | [Slipslinger Grenadier](slipslinger-grenadier.md) | Combat | Slipslinger Style, Throw Anything, Weapon Focus (sling) or weapon training (thrown) class feature, warslinger racial trait |
 | [Slipslinger Style](slipslinger-style.md) | Combat, Style | Weapon Focus (sling) or weapon training (thrown) class feature, warslinger racial trait |
+| [Slow Time](slow-time.md) | Combat | Wis 15, Combat Meditation, Meditation Master, character level 7th |
 | [Slurk Rider](slurk-rider.md) | Combat | Kobold |
 | [Sly Draw](sly-draw.md) | Combat | Quick Draw |
 | [Smash from the Air](smash-from-the-air.md) | Weapon Mastery | Str 13, Cut from the Air, Power Attack, base attack bonus +9, weapon training class feature with a melee weapon |
@@ -2548,6 +2568,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Weapon Style Mastery](weapon-style-mastery.md) | Style, Weapon Mastery | Any two style feats from different styles, base attack bonus +6, weapon training class feature with a melee weapon |
 | [Weapon Trick](weapon-trick.md) | Combat | Base attack bonus +1 |
 | [Weapon Versatility](weapon-versatility.md) | Combat | Weapon Focus, base attack bonus +1 |
+| [Weather Eye](weather-eye.md) | — | Survival 3 ranks, must worship nature |
 | [Weathered Warrior](weathered-warrior.md) | Combat | Endurance |
 | [Welcome Pain](welcome-pain.md) | — | Iron Will, worshiper of a deity of pain |
 | [Wild Speaker](wild-speaker.md) | General | Bleachling racial trait, gnome |

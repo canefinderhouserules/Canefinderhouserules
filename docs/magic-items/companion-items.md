@@ -2767,3 +2767,123 @@ Slave masters and enforcers sometimes use slaver's canes to put down insubordina
 This +1 *double-barreled pistol* has an oversized stock to compensate for the massive recoil the weapon produces, though even with this attachment the kickback is strong enough to throw the pistol completely backward after firing. When both barrels of a traitorous blaster are loaded and the wielder is being flanked, the wielder can fire both barrels as a single action, with each shot targeting one of the enemies flanking the wielder. The wielder takes only a –2 penalty on these attack rolls (rather than the –4 penalty normally associated with firing both barrels of a double-barreled pistol as a single action).
 
 **Construction Requirements:** Craft Magic Arms and Armor, *mirror strike*; **Cost** 4,550 gp
+
+## Faith and Philosophy Items
+
+### Gloves of Personal Purity
+
+**Slot** hands; **CL** 1st; **Price** 1,000 gp; **Weight** —
+
+**Aura** faint divination
+
+These long, white, elbow-length gloves are typical of those worn by ascetics who avoid making direct contact with the unenlightened. The wearer gains a +2 insight bonus on saving throws against disease and poison spread by contact, and against effects that occur when the wearer touches another creature (such as the effects of a babau's protective slime ability).
+
+**Construction Requirements:** Craft Wondrous Item, *anticipate peril*, *resistance*; **Cost** 500 gp
+
+### Hand Wraps of Blinding Ki
+
+**Slot** hands; **CL** 5th; **Price** 10,000 gp; **Weight** 1 lb.
+
+**Aura** faint transmutation
+
+These fine silk wrappings—covered in mystic symbols and diagrams of the wearer's pressure points—wind around the wearer's hands and wrists. When the wearer spends ki to make an additional attack, he can spend 1 additional point of ki to use the Stunning Fist feat with the attack, even if he has already used the feat that round.
+
+If the wearer is a monk using an archetype that replaces Stunning Fist with a different feat that's usable a number of times per day equal to his monk level, hand wraps of blinding ki allow that feat to be used a second time instead of allowing him to use Stunning Fist.
+
+**Construction Requirements:** Craft Wondrous Item, ki pool class ability; **Cost** 5,000 gp
+
+### Miser's Coin
+
+**Slot** none; **CL** 1st; **Price** 1,100 gp; **Weight** —
+
+**Aura** faint abjuration and transmutation
+
+This silver coin bears the symbol of a philosophy of enlightened wealth on one side, and its other side is inscribed with one of the many rules that lead to enlightenment. When the coin is placed in a non-magical bag or purse and the command word is spoken, the coin reduces the weight of any coins, gems, or jewelry carried in the bag by half. In addition, the container becomes the focus of an *alarm* spell that's triggered if the container is opened without the command word being spoken. Most miser's coins have a mental alarm. The coin doesn't function for containers of other materials, and a container can benefit from only one miser's coin at a time.
+
+**Construction Requirements:** Craft Wondrous Item, *alarm*, *feather fall*; **Cost** 550 gp
+
+### Leshy Mulch Manual
+
+**Slot** none; **CL** varies; **Price** varies (fungus leshy 1,875 gp; gourd leshy 1,125 gp; leaf leshy 800 gp; seaweed leshy 3,600 gp); **Weight** 5 lbs.
+
+**Aura** varies
+
+A leshy mulch manual is a fragile, bark-bound book containing a dozen pages of coarse, grainy paper. The book includes information and incantations that help in crafting a leshy. The instructions grant a +3 competence bonus on skill checks made to create a leshy, reduce the number of ranks in Knowledge (nature) needed to create a leshy by 2, and allow the user to treat her caster level as 2 higher for the purposes of creating a leshy. The book can also be chopped up and mixed into the soil used to grow a leshy, replacing the normal crafting cost for the leshy. When a leshy is cultivated from this soil, a spirit is automatically lured into the body, with no percentile roll required.
+
+**Construction Requirements:** Craft Wondrous Item, *plant growth*, *summon nature's ally III*; **Cost** varies (fungus leshy 1,250 gp; gourd leshy 750 gp; leaf leshy 500 gp; seaweed leshy 2,250 gp)
+
+### Pantheistic Clasp
+
+**Slot** neck; **CL** 3rd; **Price** 3,000 gp; **Weight** 1 lb.
+
+**Aura** faint abjuration
+
+A simple clasp dangles from this fine brass chain. As a standard action, the wearer can attach a single holy symbol to the clasp. The wearer gains a +2 sacred bonus on saving throws against spells and effects with an alignment descriptor that matches the alignment of the deity represented by the attached holy symbol.
+
+**Construction Requirements:** Craft Wondrous Item, *corruption resistance*; **Cost** 1,500 gp
+
+### Prophetic Paraphernalia
+
+**Slot** none; **CL** 9th; **Price** 2,000 gp; **Weight** 3 lbs.
+
+**Aura** moderate divination
+
+This roll of tanned horsehide contains pockets that hold ceremonial gear such as incense, candles, and tiny bells as well as a small, carved stone idol in the shape of a totem spirit such as a dragon or other creature known for its wisdom. Anyone who unrolls the kit and spends 10 minutes performing a special ritual either increases her caster level by 1 for any divination spell she begins casting immediately after concluding the ritual, or gains a +3 insight bonus to any one skill check she makes in the next hour. Alternatively, she may spend all remaining uses of the kit in an hour-long ritual to cast *commune*, asking one question for every two remaining uses in the kit.
+
+A newly created set of prophetic paraphernalia has 10 uses. When all of the uses are expended, the stone idol crumbles into powder.
+
+**Construction Requirements:** Craft Wondrous Item, *commune*; **Cost** 1,250 gp
+
+### Propitious Metumbe
+
+**Slot** neck; **CL** 7th; **Price** 8,000 gp; **Weight** 1 lb.
+
+**Aura** moderate abjuration
+
+This polished talisman of darkwood is inscribed with the pictogram of a specific spirit and hangs from a loop of twine. The wearer gains a +2 luck bonus on saving throws against witch hexes, spells and abilities with the curse descriptor, and any spells or effects that would force the wielder to reroll a die or roll multiple dice and take the worst result.
+
+Once per day when the wearer is targeted by such a spell or effect that doesn't normally grant a saving throw, she can make a Will saving throw to negate the effect. If she attempts the save against a spell, the save DC is equal to 10 + the spell's level + the caster's primary casting ability bonus (Cha for sorcerers, Int for wizards, Wis for clerics, and so forth). If she attempts the save against a non-spell effect, the save DC is equal to 10 + half the HD of the effect's source + the source's Charisma modifier.
+
+**Construction Requirements:** Craft Wondrous Item, *hex ward*; **Cost** 4,000 gp
+
+### Shield of Countless Causes
+
+**Slot** shield; **CL** 5th; **Price** 11,157 gp; **Weight** 10 lbs.
+
+**Aura** faint enchantment
+
+Dozens of pages of scripture cover the face of this +2 *heavy wooden shield*, each detailing in word or illustration the tenets of a knightly order. While worn or carried, the shield acts like a *phylactery of faithfulness*, except that it only functions for actions that would violate the edicts of the wearer's cavalier order. A newly created shield of countless causes has 5 charges. By expending 1 charge and studying the shield's texts for 10 minutes, the wielder can regain the use of his order abilities as if 24 hours had passed. By expending 3 charges and studying the shield's texts for 8 hours, the wielder can change his order. When the last charge is used, the shield remains a +2 *heavy wooden shield*.
+
+**Construction Requirements:** Craft Wondrous Item, *atonement*; **Cost** 5,657 gp
+
+### Tome of Heretical Revelation
+
+**Slot** none; **CL** 17th; **Price** — (cursed item); **Weight** 5 lbs.
+
+**Aura** strong abjuration
+
+This thick book appears to be an educational treatise filled with philosophical insights. Anyone who reads from this cursed book and has a patron deity must make a DC 20 Will save or be overcome by a crushing sense of doubt and hopelessness as she loses all faith in her deity's teachings. Anyone who fails this save loses all divine spellcasting ability, as well as class abilities from classes that grant divine spells, and she can't gain additional levels in those classes. She can regain her abilities and advancement potential if she atones (see the *atonement* spell description). Succeeding at the Will save still leaves the reader shaken for 10 minutes.
+
+**Intended magic item**: *manual of bodily health*, *manual of gainful exercise*, *tome of understanding*, *tome of leadership and influence*.
+
+**Construction Requirements:** None (cursed item); **Cost** —
+
+### Vest of Shed Servitude
+
+**Slot** chest; **CL** 7th; **Price** 4,000 gp; **Weight** 2 lbs.
+
+**Aura** moderate necromancy
+
+This pale leather vest's surface is decorated with a web of vein-like ridges. Once per day as an immediate action when you are struck by a critical hit or sneak attack, your shed blood or flesh coagulates into a short-lived guardian that appears in any adjacent square and follows your commands. This guardian has all the abilities of a homunculus, except that its type is undead. If the triggering attack inflicted bleed damage, the homunculus also gains the giant simple template. This homunculus lasts for 7 rounds before melting, and it doesn't deal damage to you when it's destroyed.
+
+**Construction Requirements:** Craft Wondrous Item, *animate dead*, *mirror image*; **Cost** 2,000 gp
+
+### Warden's Cudgel
+
+**Slot** none; **CL** 5th; **Price** 12,150 gp; **Weight** 3 lbs.
+
+**Aura** faint transmutation
+
+Commonly created by druidic nature-faiths, this type of +1 *greenwood club* is made from knotted wood, is covered in thorns and vines, and looks as though it is still alive. Twice per day when the wielder hits a target with a warden's cudgel, vines, leaves, and roots instantly grow from the target's square in a 15-foot radius. These plants remain for 1 minute and are treated as difficult terrain and natural plant growth for the purposes of the woodland stride class feature. If the area already has brush and trees in it, the plants in the affected area instead grow as the overgrowth version of *plant growth*.
+
+**Construction Requirements:** Craft Wondrous Item, *plant growth*; **Cost** 6,150 gp

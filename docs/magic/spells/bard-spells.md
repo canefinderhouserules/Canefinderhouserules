@@ -220,6 +220,7 @@
 - **[Instant Weapon](instant-weapon.md)**: Create a masterwork melee weapon of force.
 - **[Invisibility](invisibility.md)**: Subject is invisible for 1 min./level or until it attacks.
 - **[Jealous Rage](jealous-rage.md)**: Target attacks anyone who receives a benefit it does not.
+- **[Lay of the Land](lay-of-the-land.md)**: Instantly learn the geography around you.
 - **[Light Prison](light-prison.md)**: Cage of light damages and blinds those who leave it.
 - **[Locate Object](locate-object.md)**: Senses direction toward object (specific or type).
 - **[Matchmaker](matchmaker.md)**: Cause two creatures to fall in love.
@@ -397,6 +398,7 @@
 - **[Apathy](apathy.md)**: A target loses interest in a chosen pursuit.
 - **[Army Across Time](army-across-time.md)**: As ally across time, with many duplicates.
 - **[Assume Appearance, Greater](assume-appearance-greater.md)**: Use a likeness to adopt a dead creature’s form.
+- **[Blood Song](blood-song.md)**: Imbue spells with your blood.
 - **[Bountiful Banquet](bountiful-banquet.md)**: Create a luxurious feast for two creatures/level.
 - **[Break Enchantment](break-enchantment.md)**: Frees subjects from enchantments, transmutations, and curses.
 - **[Brightest Light](brightest-light.md)**: Longer-lasting daylight that can dispel darkness.
