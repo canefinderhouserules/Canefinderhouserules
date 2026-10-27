@@ -24,6 +24,20 @@ In some cases, the bard can extend the duration of the masterpiece by expending 
 
 GMs can use these masterpieces to inspire their own ideas for other masterpieces. Masterpieces should generally be no more powerful than a cleric or sorcerer/wizard spell available to a caster of the same level as the minimum level needed to select the masterpiece (a masterpiece requiring 7 ranks in Perform requires a 7th-level bard, and thus should not be more powerful than a 4th-level cleric or sorcerer/ wizard spell).
 
+### Ancients' Flight (Oratory)
+
+You compel dragons to recite an epic poem telling the story of their race's creation.
+
+**Prerequisites**: Perform (oratory) 13 ranks, ability to speak Draconic.
+
+**Cost**: Feat or 5th-level bard spell known.
+
+**Effect**: This urgent verse tugs at the racial arrogance of dragonkind, compelling dragons, both true and lesser, to perform the epic alongside you. Any creatures of the dragon type that can hear this masterpiece must succeed at a Will save or be compelled to join in the performance. Affected dragons cannot use their mouths to attack or even speak except to recite *Ancients' Flight*, preventing them from using their bite attacks and breath weapons, casting spells with vocal components, or otherwise communicating vocally for the duration of the performance. The effect ceases as soon as you end your bardic performance.
+
+**Use**: 2 bardic performance rounds per round.
+
+**Action**: 1 full round.
+
 ### At the Heart of It All (String, Wind)
 
 Your song pierces to the heart of a creature’s identity, weakening it against you.
@@ -53,6 +67,34 @@ This poem of sadness and longing was developed by a bard seeking a way to fight 
 **Use**: 1 bardic performance round per round.
 
 **Action**: 1 full round.
+
+### Pageant of the Peacock (Act, Dance)
+
+Your elegant movements cause you to seem to be more than you are.
+
+**Prerequisites**: Perform (act) or Perform (dance) 4 ranks.
+
+**Cost**: Feat or 2nd-level bard spell known.
+
+**Effect**: By gracefully weaving your body through subtle forms and postures you can convince others of your breeding, eloquence, and refinement. For the duration of the effect, you gain a +4 circumstance bonus on Bluff checks, and may attempt a Bluff check in place of an Intelligence check or Intelligence-based skill check. The subtle changes in your movements also confer a +4 circumstance bonus on Disguise checks to appear to be someone of a higher station (an aristocrat, merchant prince, or even a queen).
+
+**Use**: 1 bardic performance round per 10 minutes of the effect's duration.
+
+**Action**: 1 standard action.
+
+### Saga of the First Victory (String, Wind)
+
+You affect the mood of listeners by celebrating the defeat of a legendary hero of the humanoid races at the claws of an ancient dragon.
+
+**Prerequisites**: Perform (string) or Perform (wind) 6 ranks.
+
+**Cost**: Feat or 2nd-level bard spell known.
+
+**Effect**: This stirring pibroch reminds dragons of a significant victory by one of the legendary heroes of their kind and fills lesser races with a feeling of frustration and rage. Any creature of the dragon type that hears the entire performance must succeed at a Will save to avoid having her attitude toward the performer and his allies improved by two steps (from Hostile to Indifferent, for example). A creature of any other type (apart from the bard and his allies) must succeed at a Will save to avoid having her attitude toward the performer and his allies worsened by two steps (from Indifferent to Hostile, for example). These effects last for 1 minute per bard level, or until he or his comrades do anything to worsen the mood of the dragon, or improve the mood of those affected otherwise. Multiple uses of this masterpiece cannot improve or worsen attitudes more than two steps.
+
+**Use**: 2 bardic performance rounds.
+
+**Action**: 2 full rounds.
 
 ### The Cat-Step (Dance)
 

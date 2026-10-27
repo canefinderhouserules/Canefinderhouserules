@@ -265,3 +265,169 @@ This kit includes a block and tackle, 50 feet of chain, a climber's kit, a crowb
 **Rule**
 
 Magic clothing and jewelry resize themselves for wearers of any size, but weapons and armor don't automatically resize. For each size category too large that a wielded weapon is, the wielder takes a cumulative –2 penalty and treats the weapon as one step heavier along the continuum from light to one-handed to two-handed; weapons that would be heavier than two-handed are impossible to wield properly. *Polymorph any object* can permanently change the size of an object, and a character under the effects of *enlarge person* or *reduce person* can use gear appropriate to her new size as long as the spell lasts. See also the *resize item* spell, the *fitting* and *resizing* special abilities, and the *ring of perfect sizing*.
+
+## Dragonslayer Gear
+
+### Knight's Kit
+
+**Price** 751 gp; **Weight** 17 lbs.
+
+This kit is designed for melee-focused warriors who hope to kill or capture a dragon. It includes 50 feet of chain, a crowbar, an everburning torch, an application of fire (or frost) ward gel, fire-resistant boots, a potion of *resist energy*, three sacks, a shield sconce, a simple lock, and a weapon cord.
+
+### Tracker's Kit
+
+**Price** 563 gp; **Weight** 33 lbs.
+
+The exact location of a dragon's lair must sometimes be learned through exploration. This kit provides tools helpful in tracking a dragon back to its lair and includes an area map, a climber's kit, an elixir of swimming, an everburning torch, a footprint book, a grappling hook, a hammer, eight pitons, four sacks, and 100 feet of silk rope.
+
+### Trickster's Kit
+
+**Price** 474 gp; **Weight** 23 lbs.
+
+For those brave enough to match wits with draconic intellects, this kit can help a dragonslayer sneak into or out of a dragon's lair or trick a dragon should the interloper be discovered. It includes a pot of alchemical grease, a board game, five candles, a candle lamp, a common snorkel, fake footprint shoes, a grappling hook, a mirror, a periscope, a potion of *eagle's splendor*, two sacks, a scent cloak, 50 feet of silk rope, a smokestick, a dose of sneezing powder, five tindertwigs, and 50 feet of twine.
+
+### Balloon Trap
+
+**Price** 150 gp; **Weight** 4 lbs.
+
+This trap consists of a buoyant balloon tied to an anchor by a very thin strand of metal. The strand acts as a vertical tripwire that triggers the trap, targeting any flying creature that contacts it. The trap's creator may set any number of mechanical or magical effects to be triggered when the trap is activated. Balloon traps are especially useful against creatures with large wingspans, or when the balloon is concealed, as in a tree canopy or smoke cover.
+
+**Sirocco Balloon Trap** (CR 14): Type magic; Perception DC 31; Disable Device DC 31. **Trigger** touch; **Reset** none. **Effect** spell effect (*sirocco*, 4d6+11 fire damage [DC 19 Fort for half] plus fatigued, knocked prone [DC 19 Fort avoids], flying creatures grounded [DC 15 Fly avoids]); multiple targets (all creatures in a 20-ft.-radius, 60-ft.-high cylinder centered on the balloon trap tripwire).
+
+### Dragon Muzzle
+
+**Price** 20 gp; **Weight** 2 lbs.
+
+This large leather muzzle is reinforced with steel chains, and is specifically shaped for a dragon's snout. The muzzle is also treated with one type of elemental proofing (see below) to prevent it from being destroyed by the dragon's breath weapon. The muzzle has hardness 10, 40 hp, and a break DC of 30. A dragon muzzle can be fitted on a dragon using the rules to tie up a pinned creature. A standard dragon muzzle can be resized to fit dragons from size Tiny to Large. For larger versions, the weight increases by a factor of 4 and the price doubles for each size increase.
+
+### Dragoncrafting Kit
+
+**Price** 40 gp; **Weight** 4 lbs.
+
+This kit contains all the butchers' tools, preservatives, and desiccants necessary to turn a dragon corpse into usable items. It provides the user with a +2 circumstance bonus on all Heal and Craft skill checks made to harvest dragoncraft materials and create dragoncraft items (see the Dragoncrafting feat).
+
+### Elemental Proofing
+
+**Price** 100 gp; **Weight** 1 lb.
+
+This alchemical gel comes in a large vial with a brush built into the stopper. It's used to coat the surface of objects, protecting them from a specific type of energy damage. Though elemental proofing is not harmful to the objects it coats, it acts as a contact poison to living creatures. Touching elemental proofing directly causes 1d4 points of damage and 1d4 rounds of sickness (a DC 14 Fortitude save negates the latter effect). Creatures immune to poison are likewise immune to the effects of contacting elemental proofing but gain no benefits from its application. When applied to weapons or armor, elemental proofing confers resistances to the coated object, but none to the wearer.
+
+Each vial of elemental proofing contains enough gel to coat one Large object, or two Medium or smaller objects. Once the applied gel dries, it absorbs 10 points of the specified type of elemental damage each round. Elemental proofing wears off after 24 hours, and multiple applications of the gel do not stack. There are four different types of elemental proofing: acid proofing provides acid resistance 10, flame proofing provides fire resistance 10, frost proofing provides cold resistance 10, and lightning proofing provides electricity resistance 10.
+
+### Smoke Cover
+
+**Price** 75 gp; **Weight** 10 lbs.
+
+This small cauldron of alchemically treated tar gives off thick, acrid smoke when ignited. The smoke rises to an altitude of 25 feet, then spreads horizontally, creating an artificial smoke ceiling 5 feet thick. The smoke spreads to a 100-foot radius at a rate of 20 feet per round. The cauldron smokes for 5 rounds before burning out. After the cauldron finishes burning, the smoke lasts for 3 more rounds before dissipating. A moderate wind (11+ mph) does not affect the heavy smoke, while a strong wind (21+ mph) disperses the smoke in 2 rounds.
+
+The smoke is entirely opaque, which means creatures above the smoke can't see the ground, and those on the ground have a visual ceiling of 25 feet. Creatures on the other side of the smoke have total concealment (50% miss chance, and the attacker can't use sight to locate the target).
+
+Smoke cover is noxious, and any creature that begins its turn inside the smoke must succeed at a DC 18 Fortitude save or become sickened for 1d4 rounds. Previously sickened creatures that fail their saves are instead nauseated for 1d6 rounds. Creatures immune to poison are not affected by smoke cover's sickening effects.
+
+### Spotlight
+
+**Price** 75 gp; **Weight** 18 lbs.
+
+This large contraption functions like a hooded lantern, shedding large amounts of light in a single direction. A spotlight also contains several mirrors which amplify and aim the light. A spotlight creates a 5-foot-wide beam of normal light, which extends to a distance of 90 feet and continues for another 90 feet as dim light. It does not radiate any light outside the area of the beam. A spotlight does not increase the light level in normal light or bright light. A lantern burns for 1 hour on 1 pint of oil, and requires two hands to move and one hand to aim.
+
+### Wind Platform
+
+**Price** 5,000 gp; **Weight** 1,600 lbs.
+
+This light, airborne device is held aloft by a huge buoyant balloon which is attached by chains to an open-air wicker basket. A wind platform is so-called because it remains at the mercy of the winds, as it has no propulsion system of its own and can therefore not be used as much more than an airborne watchtower or platform for the deployment of siege engines.
+
+The basket of a wind platform can hold as many as six Medium creatures and two Large direct-fire siege engines, or any combination of smaller creatures and siege engines occupying the same space. The platform cannot withstand a carried weight of more than 3,000 lbs.
+
+A wind platform has AC 4, hardness 5, and 250 hp, and takes double damage from acid and fire attacks. When reduced to half its total hit points (125 hp) the platform begins to descend at a rate of 20 ft. per round. When reduced to one-quarter its total hit points (62 hp), the rate of descent increases to 60 ft. per round. When destroyed, all creatures and items on the wind platform simply fall as normal.
+
+### Wing Hobble
+
+**Price** 75 gp; **Weight** 1–20 lbs.
+
+This large weight is attached to a sharp steel hook which doubles as a carabiner. Once the steel hook is punched through the skin of a flying creature's wing, the carabiner locks shut. The weight then acts as an anchor, unbalancing the creature's wings, which prevents the creature from flying. The application of wing hobbles causes 1d4 points of piercing damage, and does not permanently disable the creature should the hobble be removed. A wing hobble can be attached to a pinned creature's wing with a successful grapple check. Removing a wing hobble from a creature's wing is a full-round action that provokes attacks of opportunity and requires the use of two hands.
+
+### Ballista Net (siege ammunition)
+
+**Price** 75 gp; **Weight** 15 lbs.
+
+This ballista bolt is specially equipped with a net which unfurls as the bolt flies toward its target. Unlike a standard ballista bolt, a ballista net requires only a touch attack to hit. If a ballista net hits, it deals no damage, but causes the target to become entangled. An entangled creature takes a –2 penalty on attack rolls and a –4 penalty to Dexterity, can move at only half speed, and cannot charge or run.
+
+### Flak (siege ammunition)
+
+**Price** 500 gp; **Weight** 30 lbs.
+
+Flak ammunition is a type of short-fused bomb, specifically designed to explode in midair. Flak ammunition is packed with steel balls and black powder, and may be fired from a bombard or catapult. When flak explodes, it deals 4d6 points of piercing and bludgeoning damage to all creatures and objects within 40 feet of the target square. A flak bomb must reach an altitude of at least 50 feet to function properly. If flak ammunition impacts anything before it reaches this altitude, the bomb deals 1d6 points of bludgeoning damage and fails to explode.
+
+### Flechette Bolt (siege ammunition)
+
+**Price** 30 gp; **Weight** 20 lbs.
+
+This ballista bolt consists of dozens of small steel darts, called flechettes, which break away after the bolt is released. If the bolt impacts anything before it reaches a distance of 30 feet, it deals 1d8 points of damage. Between 30 and 60 feet away, the flechettes deploy, dealing piercing damage to every creature and object within a 30-foot-cone burst. After 60 feet, the flechettes lose momentum and fall harmlessly to the ground. Separate attack rolls must be made against each target hit by the burst. Light ballista flechettes deal 2d8 points of damage, while heavy ballista flechettes deal 3d8 points. Additionally, any winged creature hit by flechettes has several holes punched in its wings, and has its fly speed reduced by 10 feet. The creature takes a –4 penalty on Fly checks until the damage is healed.
+
+### Weighted Bolt (siege ammunition)
+
+**Price** 50 gp; **Weight** 40 lbs.
+
+This barbed ballista bolt is equipped with a heavy weight at the end of a long chain. The bolt's extra weight makes the bolt harder to fire accurately, and imposes a –2 penalty on attack rolls. In addition to the normal damage dealt by a ballista bolt of its size, on a successful hit the weighted bolt lodges itself into the target's body, leaving the weighted chain hanging loosely, imparting a –5 penalty on all Fly checks made by the target. These penalties stack if a target is hit with multiple weighted bolts. A weighted bolt can be removed with a successful DC 25 Heal check or a DC 20 Strength check.
+
+## Dragoncrafting
+
+### Dragon's Fire
+
+**Price** 50 gp; **Weight** 1/2 lb.
+
+Made with dragon's gall, which is harvested from a recently deceased dragon's liver, *dragon's fire* is a volatile alchemical reagent. Though inherently inert, the substance ignites when it comes into contact with fast-moving air, which makes it ideal for application to blades or arrows. When applied to a weapon or piece of ammunition as a standard action, the weapon deals an extra 2d6 points of fire damage on the next successful hit. The Dragoncrafting feat and a successful DC 20 Craft (alchemy) check are required to convert 1 vial of dragon's gall into 1 application of dragon's fire.
+
+### Draconic Perfume
+
+**Price** 75 gp; **Weight** 1/2 lb.
+
+This exclusive perfume is produced using dragon musk, which is integral to draconic mating rituals. Dragon musk is secreted in dragons' oil glands, and harvesting it is a very delicate procedure. Though only mildly fragrant, dragon musk can elicit a variety of effects when added to perfume. The effect depends largely on the other ingredients in the perfume, but a single application of draconic perfume lasts only 1 hour, regardless of its specific properties. Some of the more common additives are listed below.
+
+- *Rosewood and myrrh*: This concoction is an aphrodisiac, and any creature wearing this perfume gains a +2 circumstance bonus on Diplomacy checks and increases the DCs of any charm subschool spells cast during this time by 2.
+- *Sage, bergamot, and cedar ash*: This pungent aroma has an imposing effect. Any creature wearing this perfume gains a +2 circumstance bonus on Intimidate checks and does not take any penalties for attempting to Intimidate a larger opponent.
+- *Sulfur and honeycomb*: This aroma is sometimes called "Hell's Smell." Any creature wearing this scent gains a +2 circumstance bonus on Bluff checks and increases the DC of any compulsion subschool spells cast during this time by 2.
+
+Each vial of draconic perfume contains 1 application of the scent. Producing draconic perfume requires 1 vial of musk, the Dragoncrafting feat, and a successful DC 20 Craft (alchemy) check.
+
+### Dragon's Blood
+
+**Price** 60 gp; **Weight** 1 lb.
+
+Renowned for its energizing and defensive properties, dragon's blood has a variety of effects, depending on how it's used. In addition to use in its raw form, it's also valuable as an alchemical ingredient. Below are two common uses for dragon's blood, but clever dragoncrafters may invent new uses as well.
+
+**Drinking**: When imbibed, a vial of dragon's blood heals 1d4 points of damage. It also grants a +1 alchemical bonus on Will and Fortitude saving throws for 1 minute.
+
+**Bathing**: Covering oneself in dragon's blood removes 1 permanent negative level. No more than 1 permanent negative level can be removed from a single creature per week using this method. Bathing in dragon's blood requires 3 vials of dragon's blood. Blood used in such a manner is expended, and may not be reused.
+
+### Dragon's Gut
+
+**Price** 50 gp; **Weight** 1 lb.
+
+A dragon's stomach contains highly corrosive acid that can be crafted into an alchemical item called dragon's gut. When used as a thrown splash weapon, dragon's gut deals 2d4 points of acid damage plus, on a direct hit, an additional 1d4 points of acid damage the following round, and it deals 1 point of acid damage to all creatures within 5 feet of the impact point as normal splash damage. Additionally, dragon's gut has alternate effects when used in place of acid as an alchemical power component.
+
+- *Acid arrow*: The spell lasts 1d3 rounds longer than usual.
+- *Acid fog*: The fog takes on a sticky quality and clings to creatures within it. Any creature damaged by the *acid fog* takes an additional 2d6 points of acid damage on the round after leaving the fog's area of effect. The creature can negate this additional damage by spending a standard action to wipe the clinging acid from its body.
+- *Acidic spray*: The spell deals 1d8 points of acid damage per caster level (maximum 15d8) instead of the normal 1d6 per caster level on the round of its casting (Reflex half). It still deals 1d6 points of damage per two caster levels on the following round as normal.
+
+The Dragoncrafting feat and a successful DC 20 Craft (alchemy) check are required to convert 1 vial of stomach acid into 1 vial of dragon's gut.
+
+### Dragonskin Grip
+
+**Price** 250 gp; **Weight** —
+
+Made using the choicest, most malleable skin from a dragon's underbelly, this specialized weapon grip can be added to any weapon with a hilt or handle. Dragonskin grips may be added to an existing weapon, or incorporated into a new weapon during crafting. The skin provides extra grip, granting the wielder a +2 bonus to CMD against disarm attempts. Producing a dragonskin grip requires the Dragoncrafting feat and a successful DC 15 Craft (bows or weapons) check.
+
+### Wyrm Pesh
+
+**Price** 500 gp; **Weight** —
+
+This rare and expensive variant of standard pesh is produced by introducing a vial of dragon's blood into a dose of pesh during the refining process, and has a noticeable reddish tint. While the drug provides a more potent high and fewer immediate penalties, it is highly addictive, and unless a user has a steady supply of dragon's blood, the cost to her well being can be severe.
+
+**Type** ingested or inhaled; **Addiction** severe, Fortitude DC 24; **Price** 500 gp; **Effect** 1 hour, 25 temporary hit points; **Effect** 1 day, +2 alchemical bonus on saves against sleep and paralysis effects; **Damage** 1d2 Wis.
+
+### Dragonhide Armor (Dragoncrafted)
+
+**Rule**
+
+Normally, if a suit of dragonhide armor has energy immunity, one may enhance such a suit with additional energy protection for the wearer at a 25% reduced cost. However, only effects with the same elemental type as the armor's immunity are eligible for this discount. An artisan with the Dragoncrafting feat may add 1 additional elemental protection to a suit of dragonhide armor at the same 25% discount, even if this energy resistance is not normally associated with the type of dragonhide being used.

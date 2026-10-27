@@ -51,6 +51,7 @@ New alchemist spells from *Ultimate Magic* and *Ultimate Combat*. Spells from ot
 - **[Defensive Shock](defensive-shock.md)**: Electricity damages your attackers.
 - **[Delay Disease](delay-disease.md)**: The target becomes temporarily immune to disease.
 - **[Diminished Detection](diminished-detection.md)**: Detection spells have half their normal range against you.
+- **[Dragon Voice](dragon-voice.md)**: +6 on Charisma checks with dragons; louder voice.
 - **[Duelist’s Alacrity](duelists-alacrity.md)**: Faster, with fancy footwork.
 - **[Empower Holy Water](empower-holy-water.md)**: Holy water deals extra damage to undead
 - **[Enshroud Thoughts](enshroud-thoughts.md)**: Ward yourself against thought detection and memory alteration.
@@ -98,6 +99,7 @@ New alchemist spells from *Ultimate Magic* and *Ultimate Combat*. Spells from ot
 - **[Countless Eyes](countless-eyes.md)**: Extra eyes give all-around vision.
 - **[Darkvision, Communal](darkvision-communal.md)**: As darkvision, but you may divide the duration among creatures touched.
 - **[Delay Poison, Communal](delay-poison-communal.md)**: As delay poison, but you may divide the duration among creatures touched.
+- **[Dragon Turtle Shell](dragon-turtle-shell.md)**: Natural attacks against you deal reduced damage.
 - **[Drain Poison](drain-poison.md)**: Drain a creature's poison onto your weapon.
 - **[Endure Elements, Communal](endure-elements-communal.md)**: As endure elements, but you may divide the duration among creatures touched.
 - **[Eruptive Pustules](eruptive-pustules.md)**: Acid boils burst when you are attacked.

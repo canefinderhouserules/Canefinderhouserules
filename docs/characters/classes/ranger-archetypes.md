@@ -1002,3 +1002,21 @@ Many rangers count the undead among their favored enemies, but some make a full-
 **Graveyard Stride (Ex)**: At 7th level, a corpse hunter may move easily through difficult terrain in areas where corpses are interred, such as graveyards, catacombs, crypts, or necropolises. When in such an environment, the corpse hunter may move at his normal speed without taking damage or suffering any impairment, although any magical effects and enchantments that impair movement still affect him. This ability replaces woodland stride.
 
 **Incorporeal Armament (Su)**: At 8th level, a corpse hunter can channel his will into any weapon he wields, making it effective against incorporeal undead. A corpse hunter may imbue a single wielded weapon with the *ghost touch* special ability as a swift action, causing it to deal damage normally against incorporeal creatures. The corpse hunter may use this ability for a number of rounds per day equal to half his ranger level; these rounds need not be consecutive. The corpse hunter can end this ability as a free action. This ability replaces swift tracker.
+
+## Dragon Hunter
+
+The quintessential dragonslayers, dragon hunters are experts at forging through the wilds in search of great wyrms.
+
+**Class Skills**: A dragon hunter adds Knowledge (arcana) to his list of class skills, in addition to the normal ranger class skills.
+
+**Predatory Deduction (Ex)**: Beginning at 1st level, when a dragon hunter successfully uses Survival to spot the trail of a creature of the dragon type, the hunter may attempt an immediate DC 15 Knowledge (arcana) check. On a success, the dragon hunter is able to deduce the species, age category, size, and color of the dragon. If the trail is less than 48 hours old, the dragon hunter gains a +2 circumstance bonus on the Knowledge check. This ability replaces Track.
+
+**Wyrm Hatred (Ex)**: Beginning at 1st level, a dragon hunter must select dragons as his favored enemy, granting him a +2 bonus on Bluff, Knowledge, Perception, Sense Motive, and Survival checks against creatures of the dragon type. He also gains +2 bonuses on weapon attack and damage rolls against them. These bonuses increase by +2 at 5th level and every five levels thereafter (10th, 15th, and 20th level).
+
+**Dragoncrafting (Ex)**: Dragon hunters are experts not only at tracking and killing dragons, but also at using dragon bodies to craft unique equipment. A dragon hunter gains Dragoncrafting as a bonus feat at 5th level, even if she does not meet the prerequisites. This ability replaces the additional favored enemy and any bonuses to existing favored enemies gained at 5th level.
+
+**Undaunted (Ex)**: Beginning at 10th level, a dragon hunter gains a +4 bonus on Will saves made to resist mind-affecting fear effects, Reflex saves made to avoid damage from breath weapons, Reflex saves made to avoid crush attacks, and Reflex saves made to avoid damage from tail sweep attacks. This ability replaces the additional favored enemy and any bonuses to existing favored enemies gained at 10th level.
+
+**Expert Dragoncrafter (Ex)**: At 15th level, a dragon hunter may take 10 on Heal and Craft skill checks to harvest dragoncraft materials and to create dragoncraft items. Additionally, the amount of time required to create a dragoncraft item is reduced by half. This ability replaces the additional favored enemy and any bonuses to existing favored enemies gained at 15th level.
+
+**Elemental Resilience (Su)**: At 20th level, a dragon hunter gains energy resistance 30 against a single energy type for 1 hour. The energy types he may choose are acid, cold, electricity, and fire. He may use this ability once per day. This ability replaces the additional favored enemy and any bonuses to existing favored enemies gained at 20th level.

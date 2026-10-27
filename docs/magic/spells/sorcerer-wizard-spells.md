@@ -256,6 +256,7 @@
 - **[Diminish Resistance](diminish-resistance.md)**: Weaken a creature’s resistance to one energy type.
 - **[Diminished Detection](diminished-detection.md)**: Detection spells have half their normal range against you.
 - **[Disrupt Link](disrupt-link.md)**: Sever the link between a creature and her companion or familiar.
+- **[Dragon Voice](dragon-voice.md)**: +6 on Charisma checks with dragons; louder voice.
 - **[Dress Corpse](dress-corpse.md)**: Doctor the evidence on a corpse.
 - **[Eldritch Conduit](eldritch-conduit.md)**: Use an enemy as the origin point of an area spell.
 - **[Endure Elements, Communal](endure-elements-communal.md)**: As endure elements, but you may divide the duration among creatures touched.
@@ -461,8 +462,10 @@
 - **[Discern Value](discern-value.md)**: Reveals which objects in a cone are most valuable.
 - **[Discharge](discharge.md)**: Drain charges from a technological object.
 - **[Dispel Magic](dispel-magic.md)**: Cancels one magical spell or effect.
+- **[Dragon Turtle Shell](dragon-turtle-shell.md)**: Natural attacks against you deal reduced damage.
 - **[Earth Tremor](earth-tremor.md)**: Unleash a tremor that creates difficult terrain and can knock foes down and damage them.
 - **[Ectoplasmic Snare](ectoplasmic-snare.md)**: Tendril of ectoplasm grapples a creature and tethers you to it.
+- **[Erode Defenses](erode-defenses.md)**: Target's DR and natural armor wear away.
 - **[Explosive Runes](explosive-runes.md)**: Deals 6d6 damage when read.
 - **[Fearsome Duplicate](fearsome-duplicate.md)**: School illusion (figment); Level bard 3, inquisitor 3, sorcerer/wizard 3, witch 3 Casting Time 1 standard.
 - **[Final Sacrifice](final-sacrifice.md)**: Detonate a summoned creature
@@ -810,6 +813,8 @@
 - **[Decollate](decollate.md)**: A target can safely remove its head.
 - **[Die for Your Master](die-for-your-master.md)**: Familiar intercepts any attack against you.
 - **[Dismissal](dismissal.md)**: Forces a creature to return to its native plane.
+- **[Draconic Suppression](draconic-suppression.md)**: Dragon loses its breath weapon and age-based abilities.
+- **[Dungeonsight](dungeonsight.md)**: Reveals the layout of nearby chambers and passages.
 - **[Duplicate Familiar](duplicate-familiar.md)**: Create a temporary duplicate of a familiar.
 - **[Empathy Conduit](empathy-conduit.md)**: Affect a bonded creature by targeting its master, or vice versa.
 - **[Energy Siege Shot](energy-siege-shot.md)**: A Large siege engine deals energy damage that you designate with other effects depending on the type of energy you choose.
@@ -819,11 +824,13 @@
 - **[Ghoul Army](ghoul-army.md)**: Ghouls and a ghast rise to fight for you and explode.
 - **[Gift of the Deep](gift-of-the-deep.md)**: Grant sahuagin mutant features
 - **[Glimpse of Truth](glimpse-of-truth.md)**: Gain *true seeing* for 1 round.
+- **[Gravity Well](gravity-well.md)**: Target is crushed by heavy gravity.
 - **[Grease, Greater](grease-greater.md)**: As grease, but covers much more.
 - **[Half-blood Extraction](half-blood-extraction.md)**: You transform the target half-orc into a full-blooded orc.
 - **[Hammer of Mending](hammer-of-mending.md)**: Repair objects and constructs in a burst.
 - **[Hostile Juxtaposition](hostile-juxtaposition.md)**: You create a dimensional link with a targeted creature, and switch spots with it.
 - **[Hungry Earth](hungry-earth.md)**: The ground grapples and buries creatures
+- **[Illusory Hoard](illusory-hoard.md)**: Target believes its hoard is untouched.
 - **[Impossible Angles](impossible-angles.md)**: Distort geometry in an area.
 - **[Lighten Object, Mass](lighten-object-mass.md)**: Halve the weight of several objects.
 - **[Locate Gate](locate-gate.md)**: Find a nearby magical portal.
@@ -1188,6 +1195,7 @@
 - **[Dimensional Lock](dimensional-lock.md)**: Teleportation and interplanar travel blocked for 1 day/level.
 - **[Fey Gate](fey-gate.md)**: Create a portal that allows travel to the First World.
 - **[Frightful Aspect](frightful-aspect.md)**: You take on a terrifying, Large-sized form of yourself and emit an aura that causes creatures to become shaken or frightened.
+- **[Heart of the Mammoth](heart-of-the-mammoth.md)**: +8 Str/Con, fear immunity, wider crit range against dragons.
 - **[Instant Summons, Greater](instant-summons-greater.md)**: As *instant summons*, but for multiple objects and creatures.
 - **[Life of Crime](life-of-crime.md)**: Permanently turn someone into a crazed criminal.
 - **[Mind Blank](mind-blank.md)**: Subject is protected from mental/emotional magic and scrying.

@@ -289,6 +289,7 @@
 - **[Discovery Torch](discovery-torch.md)**: Touched object emanates bright light, granting Perception and Sense Motive bonuses.
 - **[Dispel Magic](dispel-magic.md)**: Cancels one magical spell or effect.
 - **[Disrupt Silence](disrupt-silence.md)**: Disrupt all silence effects in an area.
+- **[Dragon Turtle Shell](dragon-turtle-shell.md)**: Natural attacks against you deal reduced damage.
 - **[Drain Poison](drain-poison.md)**: Drain a creature's poison onto your weapon.
 - **[False Alibi](false-alibi.md)**: Replace a memory when a trigger occurs.
 - **[Final Sacrifice](final-sacrifice.md)**: Detonate a summoned creature
@@ -465,6 +466,7 @@
 - **[Dispel Balance](dispel-balance.md)**: You are protected from neutral creatures
 - **[Dispel Chaos](dispel-chaos.md)/[Dispel Evil](dispel-evil.md)/[Dispel Good](dispel-good.md)/[Dispel Law](dispel-law.md)**: +4 bonus against attacks.
 - **[Disrupting Weapon](disrupting-weapon.md)**: Melee weapon destroys undead.
+- **[Dungeonsight](dungeonsight.md)**: Reveals the layout of nearby chambers and passages.
 - **[Flame Strike](flame-strike.md)**: Smites foes with divine fire (1d6/level damage).
 - **[Geniekind](geniekind.md)**: Gain genie-themed appearance and powers.
 - **[Ghoul Army](ghoul-army.md)**: Ghouls and a ghast rise to fight for you and explode.
@@ -636,6 +638,7 @@
 - **[Fey Gate](fey-gate.md)**: Create a portal that allows travel to the First World.
 - **[Fire Storm](fire-storm.md)**: Deals 1d6/level fire damage.
 - **[Frightful Aspect](frightful-aspect.md)**: You take on a terrifying, Large-sized form of yourself and emit an aura that causes creatures to become shaken or frightened.
+- **[Heart of the Mammoth](heart-of-the-mammoth.md)**: +8 Str/Con, fear immunity, wider crit range against dragons.
 - **[Holy Aura](holy-aura.md)**: +4 to AC, +4 resistance, and SR 25 against evil spells.
 - **[Inflict Critical Wounds, Mass](inflict-critical-wounds-mass.md)**: Deals 4d8 damage + 1/level, affects 1 subject/level.
 - **[Nature’s Ravages, Greater](natures-ravages-greater.md)**: As nature’s ravages, aging a corpse by years.

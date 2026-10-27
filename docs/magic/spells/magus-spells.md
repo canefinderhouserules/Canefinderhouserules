@@ -67,6 +67,7 @@ The magus class spell list appears on the [Magus](../../characters/classes/magus
 - **[Diminish Resistance](diminish-resistance.md)**: Weaken a creature’s resistance to one energy type.
 - **[Duelist’s Alacrity](duelists-alacrity.md)**: Faster, with fancy footwork.
 - **[Effortless Armor](effortless-armor.md)**: Armor you wear no longer slows your speed.
+- **[Erode Defenses](erode-defenses.md)**: Target's DR and natural armor wear away.
 - **[Escaping Ward](escaping-ward.md)**: This ward grants you extra maneuverability when you avoid attacks against larger foes.
 - **[Flickering Lights](flickering-lights.md)**: Create an area of inconsistent lighting.
 - **[Force Anchor](force-anchor.md)**: Force anchor hinders a target's movement

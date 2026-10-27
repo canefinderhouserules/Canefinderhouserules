@@ -454,3 +454,150 @@ A *resizing* weapon instantly shrinks or grows to suit the size of any creature 
 This lustrous gold ring is highly malleable and always fits perfectly. After being worn for 24 hours, the ring allows the wearer to resize one weapon or suit of armor to her size. The ring can affect any item that is no more than two size categories too big or too small and that weighs no more than 125 pounds. The size change lasts until 1 round after the item leaves the wearer's possession. A new item can be resized after it has been in the wearer's possession for 24 hours, causing the previously resized item to return to its normal size. The resizing otherwise functions as the *resize item* spell.
 
 **Construction Requirements:** Forge Ring, *resize item*; **Cost** 8,000 gp
+
+## Dragonslayer Items
+
+### Boots of the Vengeful Behir
+
+**Slot** feet; **CL** 5th; **Price** 5,400 gp; **Weight** 1 lb.
+
+**Aura** moderate transmutation
+
+These heavy boots are made of blue leather. Three times per day, when the wearer speaks the command word, he can attempt a bull rush the following round as if one size category larger than normal. If the target of the bull rush is a dragon, the wearer is treated as if two size categories larger than normal. This bull rush attempt does not provoke attacks of opportunity.
+
+**Construction Requirements:** Craft Wondrous Item, *enlarge person*; **Cost** 2,700 gp
+
+### Death's Preservation Banded Mail
+
+**Slot** armor; **CL** 18th; **Price** 22,400 gp; **Weight** 35 lbs.
+
+**Aura** strong conjuration and divination
+
+This +2 *light fortification banded mail* has a small, ovoid stone set in the left shoulder. The armor monitors the wearer's hit point total as the spell *status*. If an attack against the wearer does enough damage to kill him outright, he and his gear are teleported to a specific location determined at the time of the armor's creation. This effect acts in all other ways as the spell *word of recall*, with the predetermined location considered the place of sanctuary. The wearer's body is protected from decomposition for 18 days as per the *gentle repose* spell. Once this ability has been used, the stone set into the armor crumbles to dust and the armor reverts to being a suit of +2 *light fortification banded mail*.
+
+**Construction Requirements:** Craft Magic Arms and Armor, *contingency*, *gentle repose*, *limited wish* or *miracle*, *word of recall*; **Cost** 11,200 gp
+
+### Dragon's Tail
+
+**Slot** weapon; **CL** 13th; **Price** 32,310 gp; **Weight** 12 lbs.
+
+**Aura** strong conjuration and transmutation
+
+This +2 *dragonbane guisarme* seems to vibrate with a low hum. On a successful hit, the target must succeed at a DC 20 Fortitude save or become staggered for 1 round. If the target is of the dragon type and the dragon fails its save, the creature is stunned for 1 round and staggered for 2 rounds thereafter. It is staggered for 1 round even on a successful save.
+
+**Construction Requirements:** Craft Magic Arms and Armor, *resonating word*, *summon monster I*; **Cost** 16,155 gp
+
+### Dragonform Armor
+
+**Slot** armor; **CL** 11th; **Price** 24,120 gp; **Weight** 15 lbs.
+
+**Aura** moderate transmutation
+
+This +1 *leather armor* is the same color as the dragon type with which it is associated and has been worked to resemble dragonhide. Once per day the wearer can speak the command word and transform into the associated dragon type as the *form of the dragon I* spell. This effect lasts 11 minutes.
+
+**Construction Requirements:** Craft Magic Arms and Armor, *form of the dragon I*; **Cost** 12,060 gp
+
+### Elixir of Elemental Protection
+
+**Slot** none; **CL** 9th; **Price** 1,800 gp; **Weight** —
+
+**Aura** moderate abjuration
+
+Scintillating colors swirl through this liquid. The elixir grants the drinker 100 points of protection from the first type of elemental damage he takes after drinking it. Unused points of protection dissipate 1 hour after the liquid is consumed.
+
+**Construction Requirements:** Craft Wondrous Item, *protection from energy*; **Cost** 900 gp
+
+### Hexing Runes
+
+**Slot** neck; **CL** 8th; **Price** 10,000 gp; **Weight** —
+
+**Aura** moderate abjuration
+
+These runes may be carved from wood or cast in silver and are worn on a leather cord. When a witch prepares her spells, she may also choose to use the hexing runes to augment one hex she can use. The save DC of this hex increases by 1 for 24 hours. Additionally, once per day when she speaks the command word, the wearer gains the benefits of the ward hex as if cast by an 8th-level witch.
+
+**Construction Requirements:** Craft Wondrous Item, Spell Focus (abjuration), *resistance*, creator must be able to use the ward hex; **Cost** 5,000 gp
+
+### Incense of Dulled Senses
+
+**Slot** none; **CL** 10th; **Price** 1,500 gp; **Weight** —
+
+**Aura** moderate abjuration
+
+This gray incense smells of cold granite. When burned, the smoke from the incense spreads to fill a space equal to ten 10-foot cubes. This smoke remains stationary unless moved by wind. If inhaled by a creature with blindsense, scent, or tremorsense, the creature must attempt a DC 20 Fortitude save. If it fails the save, it does not benefit from its blindsense, tremorsense, or scent abilities for 10 minutes. After 10 minutes the smoke from the incense dissipates and loses all magical properties.
+
+**Construction Requirements:** Craft Wondrous Item, *blindness/deafness*; **Cost** 750 gp
+
+### Net of Snaring
+
+**Slot** none; **CL** 11th; **Price** 28,940 gp; **Weight** 6 lbs.
+
+**Aura** moderate conjuration and transmutation
+
+This +1 *distance net* seems lighter than expected and is slightly sticky to the touch. Three times per day, the wielder may speak the command word and throw the *net of snaring* at a target. This is a ranged touch attack with a range of 40 feet. The net immediately grows by two size categories. If the attack hits, the target must succeed at a DC 25 Reflex save or become entangled. So long as the wielder retains control of the trailing rope, he may attempt or otherwise act on a grapple as a free action that does not provoke an attack of opportunity. Speaking the command word again shrinks the item to normal size so long as no creature is confined within it.
+
+**Construction Requirements:** Craft Magic Arms and Armor, *levitate*, *permanency*, *shrink item*, *web*; **Cost** 14,470 gp
+
+### Perilous Gloves
+
+**Slot** hands; **CL** 1st; **Price** 10,000 gp; **Weight** 1 lb.
+
+**Aura** faint transmutation and necromancy
+
+These black gloves glow slightly during combat. Once per day, if the wearer's unarmed attack threatens a critical hit, the critical confirmation roll gains a +2 bonus. Regardless of whether the critical is confirmed, the attack does an additional 1d8 points of damage.
+
+**Construction Requirements:** Craft Wondrous Item, *inflict light wounds*, *unerring weapon*; **Cost** 2,500 gp
+
+### Ring of Fear Reflection
+
+**Slot** ring; **CL** 7th; **Price** 48,000 gp; **Weight** —
+
+**Aura** moderate abjuration and necromancy
+
+This simple silver ring has a fear rune etched into its hammered apex. The ring provides a morale bonus versus fear effects. This bonus starts at +0 and can advance no higher than +5.
+
+Every time the wearer succeeds at a Will save versus a fear affect, the ring's bonus increases by +1. Should the wearer fail a Will save versus fear, the ring's bonus immediately falls to +0.
+
+If the bonus is +5 and the wearer is affected by a fear effect and succeeds at her Will save, the ring automatically reflects the fear effect back to its source. If the source is a creature not immune to fear, it must succeed at a Will save at the DC made by the ring's wearer or be affected by the fear effect. Only the source of an area fear effect is targeted by such a reflected spell.
+
+**Construction Requirements:** Forge Ring, *fear*, *remove fear*, *resistance*; **Cost** 24,000 gp
+
+### Scaled Sash
+
+**Slot** chest; **CL** 11th; **Price** 73,000 gp; **Weight** 1 lb.
+
+**Aura** moderate transmutation
+
+Glittering with every movement, this sash is associated with a specific type of chromatic dragon. Three times per day, the wearer may convert all the damage dealt by a single attack with a melee, ranged, or natural weapon into the matching dragon's breath weapon damage type. The amount of damage dealt remains unaffected. The sash may be used after the attack's results are known, but must be declared before damage has been rolled. Attacks dealing any type of energy damage cannot be converted in this manner unless the energy type of the original damage is the same as that granted by the scaled sash. If the original attack would be affected by damage reduction, the converted damage is reduced as if it did not bypass the damage reduction, even if the target has no special defenses against the converted energy type.
+
+For example, an archer wearing a black scaled sash makes a successful attack against a target with his longbow. Before rolling damage on the hit, he opts to use his sash to convert the damage dealt to acid damage. Damage is rolled normally, but deals acid damage instead of piercing damage. This includes damage dealt from additional effects such as sneak attack, favored enemy, and the bone special weapon property.
+
+**Construction Requirements:** Craft Wondrous Item, *form of the dragon I*; **Cost** 36,500 gp
+
+### Staff of Hunting
+
+**Slot** none; **CL** 13th; **Price** 51,000 gp; **Weight** 5 lbs.
+
+**Aura** strong varies
+
+This length of aged ivory is carved with numerous hunting scenes which seem to animate and tell a story when the staff is rotated. It allows the use of the following spells:
+
+- *Acute senses* (1 charge)
+- *Bard's escape* (4 charges)
+- *Locate creature* (2 charges)
+- *Unwilling shield* (3 charges)
+
+**Construction Requirements:** Craft Staff, *acute senses*, *bard's escape*, *locate creature*, *unwilling shield*; **Cost** 25,500 gp
+
+### Staff of Internal Assault
+
+**Slot** none; **CL** 8th; **Price** 20,800 gp; **Weight** 5 lbs.
+
+**Aura** moderate varies
+
+Crumbling bark continuously flakes from this solid, aged oak staff without diminishing its size. It allows the use of the following spells:
+
+- *Calcific touch* (2 charges)
+- *Corrosive touch* (1 charge)
+- *Touch injection* (2 charges)
+
+**Construction Requirements:** Craft Staff, *calcific touch*, *corrosive touch*, *touch injection*; **Cost** 10,400 gp

@@ -118,6 +118,7 @@
 - **[Detect Magic, Greater](detect-magic-greater.md)**: As *detect magic*, but learn more information.
 - **[Determine Depth](determine-depth.md)**: Learn the exact thickness of a wall or barrier.
 - **[Dousing Rain](dousing-rain.md)**: Call a downpour that douses fire
+- **[Dragon Turtle Shell](dragon-turtle-shell.md)**: Natural attacks against you deal reduced damage.
 - **[Endure Elements, Communal](endure-elements-communal.md)**: As endure elements, but you may divide the duration among creatures touched.
 - **[Fire Trap](fire-trap.md)**: Opened object deals 1d4 + 1/level damage.
 - **[Flame Blade](flame-blade.md)**: Touch attack deals 1d8 + 1/two levels damage.
@@ -396,6 +397,7 @@
 - **[Fey Form III](fey-form-iii.md)**: Assume the form of a Diminutive or Huge fey creature.
 - **[Find the Path](find-the-path.md)**: Shows most direct way to a location.
 - **[Fire Seeds](fire-seeds.md)**: Acorns and berries become grenades and bombs.
+- **[Gravity Well](gravity-well.md)**: Target is crushed by heavy gravity.
 - **[Green Caress](green-caress.md)**: Slowly transform a creature into an inanimate plant.
 - **[Insect Spies, Greater](insect-spies-greater.md)**: Use magic beetles as spies and also share their senses.
 - **[Ironwood](ironwood.md)**: Magic wood is as strong as steel.
@@ -458,6 +460,7 @@
 - **[Fey Gate](fey-gate.md)**: Create a portal that allows travel to the First World.
 - **[Finger of Death](finger-of-death.md)**: Deals 10 damage/level to one subject.
 - **[Frightful Aspect](frightful-aspect.md)**: You take on a terrifying, Large-sized form of yourself and emit an aura that causes creatures to become shaken or frightened.
+- **[Heart of the Mammoth](heart-of-the-mammoth.md)**: +8 Str/Con, fear immunity, wider crit range against dragons.
 - **[Remove Radioactivity, Greater](remove-radioactivity-greater.md)**: Cure all radiation damage; deplete radioactive objects.
 - **[Repel Metal or Stone](repel-metal-or-stone.md)**: Pushes away metal and stone.
 - **[Reverse Gravity](reverse-gravity.md)**: Objects and creatures fall upward.

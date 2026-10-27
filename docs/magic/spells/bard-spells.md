@@ -178,6 +178,7 @@
 - **[Discovery Torch](discovery-torch.md)**: Touched object emanates bright light, granting Perception and Sense Motive bonuses.
 - **[Disrupt Silence](disrupt-silence.md)**: Disrupt all silence effects in an area.
 - **[Dousing Rain](dousing-rain.md)**: Call a downpour that douses fire
+- **[Dragon Voice](dragon-voice.md)**: +6 on Charisma checks with dragons; louder voice.
 - **[Duelist’s Alacrity](duelists-alacrity.md)**: Faster, with fancy footwork.
 - **[Duelist’s Feint](duelists-feint.md)**: Distract a foe so it is vulnerable to your attacks.
 - **[Eagle’s Splendor](eagles-splendor.md)**: Subject gains +4 to Cha for 1 min./level.
@@ -371,6 +372,7 @@
 - **[Detect Scrying](detect-scrying.md)**: Alerts you to magical eavesdropping.
 - **[Dimension Door](dimension-door.md)**: Teleports you a short distance.
 - **[Dominate Person](dominate-person.md)**: Controls humanoid telepathically.
+- **[Dungeonsight](dungeonsight.md)**: Reveals the layout of nearby chambers and passages.
 - **[Entice Fey, Lesser](entice-fey-lesser.md)**: Entice service from a fey of 6 Hit Dice or fewer.
 - **[Forgetful Slumber](forgetful-slumber.md)**: This spell acts as the deeper slumber spell, but only affects one creature of 10 Hit Dice or fewer.
 - **[Freedom of Movement](freedom-of-movement.md)**: Subject moves normally despite impediments to restrict movement.
@@ -379,6 +381,7 @@
 - **[Harvest Knowledge](harvest-knowledge.md)**: Absorb a creature's knowledge
 - **[Hold Monster](hold-monster.md)**: As *hold person*, but any creature.
 - **[Horrific Doubles](horrific-doubles.md)**: Call forth disturbing *mirror images*.
+- **[Illusory Hoard](illusory-hoard.md)**: Target believes its hoard is untouched.
 - **[Insect Scouts](insect-scouts.md)**: Vermin investigate a location and grant rerolls on related skill checks.
 - **[Invisibility, Greater](invisibility-greater.md)**: As *invisibility,* but subject can attack and stay invisible.
 - **[Kiss of the First World](kiss-of-the-first-world.md)**: Fast healing for the living; debilitates undead.

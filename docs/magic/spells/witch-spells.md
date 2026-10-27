@@ -138,6 +138,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Diminished Detection](diminished-detection.md)**: Detection spells have half their normal range against you.
 - **[Disrupt Link](disrupt-link.md)**: Sever the link between a creature and her companion or familiar.
 - **[Dousing Rain](dousing-rain.md)**: Call a downpour that douses fire
+- **[Dragon Voice](dragon-voice.md)**: +6 on Charisma checks with dragons; louder voice.
 - **[Dress Corpse](dress-corpse.md)**: Doctor the evidence on a corpse.
 - **[Eldritch Conduit](eldritch-conduit.md)**: Use an enemy as the origin point of an area spell.
 - **[Enemy’s Heart](enemy-s-heart.md)**: You cut out an enemy’s heart and consume it, absorbing that enemy’s power as your own.
@@ -251,6 +252,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Drain Poison](drain-poison.md)**: Drain a creature's poison onto your weapon.
 - **[Earth Tremor](earth-tremor.md)**: Unleash a tremor that creates difficult terrain and can knock foes down and damage them.
 - **[Eldritch Fever](eldritch-fever.md)**: Target gains the eldritch ague spellblight.
+- **[Erode Defenses](erode-defenses.md)**: Target's DR and natural armor wear away.
 - **[Eruptive Pustules](eruptive-pustules.md)**: Acid boils burst when you are attacked.
 - **[Excruciating Deformation](excruciating-deformation.md)**: Target takes Dex and Con damage.
 - **[Fearsome Duplicate](fearsome-duplicate.md)**: School illusion (figment); Level bard 3, inquisitor 3, sorcerer/wizard 3, witch 3 Casting Time 1 standard.
@@ -416,6 +418,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Deceitful Veneer](deceitful-veneer.md)**: Make someone seem like an obvious liar.
 - **[Decollate](decollate.md)**: A target can safely remove its head.
 - **[Die for Your Master](die-for-your-master.md)**: Familiar intercepts any attack against you.
+- **[Draconic Suppression](draconic-suppression.md)**: Dragon loses its breath weapon and age-based abilities.
 - **[Duplicate Familiar](duplicate-familiar.md)**: Create a temporary duplicate of a familiar.
 - **[Empathy Conduit](empathy-conduit.md)**: Affect a bonded creature by targeting its master, or vice versa.
 - **[Flesh Puppet Horde](flesh-puppet-horde.md)**: Control multiple zombies in human guise.
@@ -558,6 +561,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[False Resurrection](false-resurrection.md)**: Appear to resurrect someone but instead allow a shadow demon to possess the corpse.
 - **[Fey Gate](fey-gate.md)**: Create a portal that allows travel to the First World.
 - **[Frightful Aspect](frightful-aspect.md)**: You take on a terrifying, Large-sized form of yourself and emit an aura that causes creatures to become shaken or frightened.
+- **[Heart of the Mammoth](heart-of-the-mammoth.md)**: +8 Str/Con, fear immunity, wider crit range against dragons.
 - **[Instant Summons, Greater](instant-summons-greater.md)**: As *instant summons*, but for multiple objects and creatures.
 - **[Nine Lives](nine-lives.md)**: School abjuration; Level cleric 8, witch 8 Casting Time 1 standard action Range touch Target one creature.
 - **[Possession, Greater](possession-greater.md)**: As possession, but your body vanishes.

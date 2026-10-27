@@ -241,6 +241,7 @@ New inquisitor spells from *Ultimate Magic*. Spells from other books will be add
 - **[Daze, Mass](daze-mass.md)**: As daze, but affecting multiple creatures.
 - **[Death Knell Aura](death-knell-aura.md)**: Aura kills dying creatures nearby
 - **[Deceitful Veneer](deceitful-veneer.md)**: Make someone seem like an obvious liar.
+- **[Dungeonsight](dungeonsight.md)**: Reveals the layout of nearby chambers and passages.
 - **[Find Quarry](find-quarry.md)**: You can sense whether a particular creature is within 20 miles of your location.
 - **[Fleshworm Infestation](fleshworm-infestation.md)**: Worms deal hp and Dex damage.
 - **[Forceful Strike](forceful-strike.md)**: Melee hit deals extra force damage and bull rush.

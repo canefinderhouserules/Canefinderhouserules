@@ -1623,7 +1623,9 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Corpse Companion](corpse-companion.md) | — | Animal companion class feature, ghoul |
 | [Corrupted Flesh](corrupted-flesh.md) | — | Con 15, 6 HD, ogre |
 | [Courage in a Bottle](courage-in-a-bottle.md) | — | Bravery class feature, worshiper of a deity of freedom and ale |
+| [Courage in Numbers](courage-in-numbers) | Teamwork | Iron Will |
 | [Covering Fire](covering-fire.md) | Combat, Teamwork | Exotic Weapon Proficiency (firearms), Weapon Focus (at least one firearm) |
+| [Covering Shield](covering-shield) | Combat | Dex 13, Shield Focus, Shield Proficiency |
 | [Craft Cybernetics](craft-cybernetics.md) | — | Technologist, Heal 9 ranks, Knowledge (engineering) 9 ranks |
 | [Craft Pharmaceutical](craft-pharmaceutical.md) | — | Technologist, Heal 9 ranks, Knowledge (nature) 9 ranks |
 | [Craft Poppet](craft-poppet.md) | Item Creation | Caster level 1st |
@@ -1662,6 +1664,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Deadly Kiss](deadly-kiss.md) | — | Toxic racial trait, vishkanya |
 | [Deadly Troupe](deadly-troupe.md) | Teamwork | Perform (act) or Perform (dance) 3 ranks, human |
 | [Death Field](death-field.md) | Conduit | Knowledge (planes) 5 ranks |
+| [Death from Below](death-from-below) | Combat | Base attack bonus +1 |
 | [Death Roll](death-roll.md) | Combat | Bite attack, reptilian subtype |
 | [Decoy’s Misdirection](decoys-misdirection.md) | Familiar | Must have a familiar with the decoy archetype |
 | [Dedicated Adversary](dedicated-adversary.md) | Combat | No levels in a class that has the favored enemy class feature |
@@ -1705,6 +1708,10 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Divine Fighting Technique](divine-fighting-technique.md) | Combat | Same alignment as the chosen technique’s patron |
 | [Dorn-Dergar Master](dorn-dergar-master.md) | Combat | Two-Weapon Fighting, base attack bonus +4, proficiency with the dwarven dorn-dergar |
 | [Draconic Magic](draconic-magic.md) | — | Draconic Aspect, kobold |
+| [Dragon-Touched](dragon-touched) | Story | You must have been knocked unconscious in an encounter with a challenging draconic foe or have a background tied to a specific dragon |
+| [Dragoncrafting](dragoncrafting) | — | Craft (any) 5 ranks, Knowledge (arcana) 3 ranks |
+| [Dragonheart](dragonheart) | — | Knowledge (arcana) 1 rank |
+| [Dragonslayer](dragonslayer) | Combat | Knowledge (arcana) 4 ranks, base attack bonus +4 |
 | [Dreamed Secrets](dreamed-secrets.md) | — | Ability to cast divine spells, caster level 7th, worshiper of an alien or eldritch power |
 | [Drunkard’s Recovery](drunkard-s-recovery.md) | — | Con 13 |
 | [Drunken Brawler](drunken-brawler.md) | Combat | Endurance, worshiper of a deity of freedom and ale |
@@ -1789,6 +1796,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Flagellant](flagellant.md) | — | Endurance, character level 7th, worshiper of a deity of pain |
 | [Flame Feint](flame-feint.md) | Combat, Style | Int 13, Wis 13, Combat Expertise, Elemental Discipline Style (flame), base attack bonus +9 or monk level 9th |
 | [Flame Fist](flame-fist.md) | Combat, Style | Int 13, Wis 13, Combat Expertise, Elemental Discipline Style (flame), Stunning Fist, Flame Feint, base attack bonus +13 or monk level 13th |
+| [Flaying Critical](flaying-critical) | Combat, Critical | Critical Focus, base attack bonus +11 |
 | [Fleeting Spell](fleeting-spell.md) | Metamagic | — |
 | [Flexible Foe](flexible-foe.md) | Combat | Base attack bonus +5, favored enemy (any humanoid or any outsider), favored enemy class feature |
 | [Flickering Step](flickering-step.md) | Conduit | Knowledge (planes) 9 ranks |
@@ -2029,6 +2037,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Overwatch Style](overwatch-style.md) | Combat, Style | Precise Shot, Rapid Shot, Weapon Focus with the chosen weapon |
 | [Overwatch Tactician](overwatch-tactician.md) | Combat | Overwatch Style, Precise Shot, Rapid Shot, Weapon Focus with the chosen weapon |
 | [Overwatch Vortex](overwatch-vortex.md) | Combat | Overwatch Style, Overwatch Tactician, Precise Shot, Rapid Shot, Weapon Focus with the chosen weapon, base attack bonus +11 |
+| [Overwhelm](overwhelm) | Combat, Teamwork | — |
 | [Owl Dive](owl-dive.md) | Combat | Dex 17, Owl Style, Owl Swoop, Skill Focus (Stealth), base attack bonus +7 or monk level 5th, Acrobatics 1 rank, Fly 1 rank, Stealth 1 rank |
 | [Owl Style](owl-style.md) | Combat, Style | Dex 13, Skill Focus (Stealth), Stealth 1 rank |
 | [Owl Swoop](owl-swoop.md) | Combat | Dex 15, Owl Style, Skill Focus (Stealth), Acrobatics 1 rank, Stealth 1 rank |
@@ -2059,6 +2068,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Poisoner’s Channel](poisoner-s-channel.md) | — | Channel energy 3d6, worshiper of a deity of secrets and poison |
 | [Polyglot Familiar](polyglot-familiar.md) | Familiar | Must have a familiar |
 | [Poppet Familiar](poppet-familiar.md) | — | Ability to acquire a new familiar, caster level 3rd |
+| [Porcupine Defense](porcupine-defense) | Combat | Combat Expertise, Combat Reflexes, base attack bonus +6 |
 | [Position of Strength](position-of-strength.md) | Combat | Intimidate 5 ranks |
 | [Potion Glutton](potion-glutton.md) | — | Worshiper of a deity of gluttony or undeath |
 | [Powerful Poisoning](powerful-poisoning.md) | — | Power Attack; Craft (poison) 3 ranks or poison use class feature |
@@ -2082,6 +2092,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Ranged Disable](ranged-disable.md) | — | Far Shot, Point-Blank Shot, Weapon Focus, Disable Device 9 ranks |
 | [Ranged Feint](ranged-feint.md) | Combat | Base attack bonus +2, Bluff 3 ranks |
 | [Rat Catcher](rat-catcher.md) | Combat | Knowledge (dungeoneering) 1 rank, base attack bonus +1 |
+| [Reach Defense](reach-defense) | Combat | Dex 15 |
 | [Read Spell Traces](read-spell-traces.md) | — | — |
 | [Ready for Anything](ready-for-anything.md) | Combat | Alertness, Improved Initiative, Lightning Reflexes, Quick Draw, base attack bonus +6 or uncanny dodge class feature |
 | [Reap the Infirm](reap-the-infirm.md) | Combat | Base attack bonus +3 |
@@ -2174,6 +2185,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Snatch and Drop](snatch-and-drop.md) | Combat | Flyby Attack, Powerful Wings |
 | [Sneaking Critical](sneaking-critical.md) | Combat, Critical | Critical Focus, base attack bonus +9, sneak attack class feature |
 | [Sniper's Lantern](snipers-lantern.md) | — | Point-Blank Shot, *dancing lights* racial spell-like ability |
+| [Snoutgrip](snoutgrip) | Combat | Combat Expertise, Combat Reflexes, Improved Grapple, Improved Unarmed Strike, base attack bonus +12 or 10th-level monk |
 | [Social Bravery](social-bravery.md) | Combat | Cha 13, bravery class feature |
 | [Solid Shadows](solid-shadows) | Metamagic | Spell Focus (illusion) |
 | [Sonic Croak](sonic-croak.md) | — | [Throat Pouch](throat-pouch.md), boggard, terrifying croak |
@@ -2262,6 +2274,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Tag-Team Interrogation](tag-team-interrogation.md) | Teamwork | Intimidating Prowess or Persuasive, Diplomacy 1 rank, Intimidate 1 rank |
 | [Tail Weapon](tail-weapon.md) | Combat | Base attack bonus +1, serpentfolk |
 | [Take a Breather](take-a-breather.md) | Combat | Con 13, Combat Vigor, character level 4th |
+| [Tandem Evasion](tandem-evasion) | Combat, Teamwork | Dex 13, Dodge |
 | [Targeted Blow](targeted-blow.md) | Weapon Mastery | Str 13, Power Attack, base attack bonus +9, weapon training class feature with a melee weapon |
 | [Tattoo Attunement](tattoo-attunement) | General | Inscribe Magical Tattoo; Spellcraft 5 ranks |
 | [Tattoo Conversion](tattoo-conversion) | General | Inscribe Magical Tattoo; Tattoo Attunement; Spellcraft 15 ranks; ability to cast control summoned creature |
@@ -2357,6 +2370,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Wind Rush](wind-rush.md) | Combat, Style | Dex 13, Wis 13, Mobility, Elemental Discipline Style (wind), Quick Draw, Wind Strike, base attack bonus +13 or monk level 13th |
 | [Wind Song](wind-song.md) | — | Perform (wind instruments) 5 ranks; bardic performance or raging song class feature |
 | [Wind Strike](wind-strike.md) | Combat, Style | Dex 13, Wis 13, Elemental Discipline Style (wind), Quick Draw, base attack bonus +9 or monk level 9th |
+| [Wingclipper](wingclipper) | Combat | Base attack bonus +9 |
 | [Wrest Charge](wrest-charge.md) | — | Disable Device 5 ranks, Knowledge (engineering) 5 ranks |
 | [Yai-Mimic Spell](yai-mimic-spell) | Metamagic | Int 15, Still Spell |
 
