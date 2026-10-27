@@ -306,3 +306,121 @@ When placed on a helpless, two-armed creature of size Tiny to Huge, these barbed
 When placed upon the lips, these thin, translucent sheets of wax melt invisibly onto the user's mouth. The user is aware of—but unaffected by—any magical attacks or effects that might harm him through the lips or mouth (such as a succubus's energy drain attack). In addition, the next time he would be exposed to an ingested poison, the *warding lips* instead absorb the toxin and leave him unharmed. Once exposed to a magical attack or ingested poison, a set of *warding lips* loses its magic and becomes useless.
 
 **Construction Requirements:** Craft Wondrous Item, *death ward*, *neutralize poison*; **Cost** 950 gp
+
+## Giant Hunter Items
+
+### Axe of Felling
+
+**Slot** weapon; **CL** 10th; **Price** 11,330 gp; **Weight** 8 lbs.
+
+**Aura** moderate transmutation
+
+Born from dwarven forges, these +1 *giant-bane dwarven waraxes* are crafted to bring down the mightiest foes by hacking their legs out from beneath them. An *axe of felling* possesses the trip weapon feature and can be used to trip opponents up to two size categories larger than its wielder.
+
+**Construction Requirements:** Craft Magic Arms and Armor, *bull's strength*, *summon monster I*; **Cost** 5,830 gp
+
+### Earth Child Faceguard
+
+**Slot** head; **CL** 10th; **Price** 10,000 gp; **Weight** —
+
+**Aura** moderate transmutation
+
+Decorated with a stylized earth-spirit emblem, an *earth child faceguard* is designed to refine the wearer's focus when fighting giants. The wearer gains the benefits of the Earth Child Style feat, regardless of whether she meets the prerequisites. If the wearer does not possess the defensive training racial trait, the dodge bonus to AC against giants is reduced to +2. If the wearer already possesses the Earth Child Style feat, she can enter the earth child stance as a free action.
+
+**Construction Requirements:** Craft Wondrous Item, Earth Child Style, *know the enemy*; **Cost** 5,000 gp
+
+### Effortless Lace
+
+**Slot** none; **CL** 15th; **Price** 2,500 gp; **Weight** —
+
+**Aura** strong transmutation
+
+This elegant silk ribbon gleams like mithral and feels like polished steel. When wrapped around the grip of a one-handed piercing or slashing melee weapon for 24 hours, the ribbon's magic permanently merges with the weapon, reducing the attack roll penalty incurred by a wielder who is smaller than the weapon's intended wielder by 2 (to a minimum penalty of 0).
+
+If the weapon is wielded by a creature whose size matches that of the weapon's intended wielder, the weapon is treated as a light melee weapon when determining whether it can be used with Weapon Finesse, as well as with any feat, spell, or special weapon ability that can be used in conjunction with light weapons. Once an *effortless lace's* abilities have been conveyed to a weapon, the ribbon must remain attached to the weapon or its effects end immediately, its magic is permanently lost, and it is reduced to worthless cloth. Effects that would dispel the magic of the weapon or cause the weapon to gain the broken condition (such as sundering) destroy the ribbon as well.
+
+**Construction Requirements:** Craft Magic Arms and Armor, *shrink item*; **Cost** 1,250 gp
+
+### Grasping Bolas
+
+**Slot** weapon; **CL** 3rd; **Price** 3,805 gp; **Weight** 2 lbs.
+
+**Aura** faint transmutation
+
+This +1 *bolas* is crafted from assassin vines and favored as a means of escape from jungle-dwelling giants and similar foes. Once per day, the wielder of a *grasping bolas* can attempt a special ranged trip combat maneuver check that ignores any size modifiers to CMD the target may possess. If the attempt succeeds, the target falls prone and becomes entangled for 1 round as a mass of animated vines bursts out from within the bolas. For every 5 by which the combat maneuver check exceeds the target's modified CMD, the duration of this condition increases by 1 round. An entangled creature can break free with a successful DC 20 Strength or Escape Artist check.
+
+The animated ropes employed by a *grasping bolas* have AC 22, hardness 10, and damage reduction 5/slashing. If a *grasping bolas* is severed (all 12 hit points are lost to damage), it is destroyed.
+
+**Construction Requirements:** Craft Magic Arms and Armor, *animate rope* or *entangle*; **Cost** 2,055 gp
+
+### Harp of Slumber
+
+**Slot** none; **CL** 5th; **Price** 37,500 gp; **Weight** 5 lbs.
+
+**Aura** faint enchantment
+
+Despite having the strength and texture of unhewn stone, this pale white harp is sculpted from solid glass. A *harp of slumber* has several effects when played. At will, the user can produce a *lullaby* effect by plucking a single string. Up to three times per day, the user can strum the harp to produce a *sleep* effect. If the performer succeeds at a DC 13 Perform (string instrument) skill check, this use of the harp functions as *deep slumber* instead. The DC for these effects increases by 2 against creatures with the giant subtype.
+
+**Mythic**: A mythic performer can expend one use of mythic power when strumming a *harp of slumber* in order to augment the effect it creates to *mythic sleep*, or *mythic deep slumber* if the performer also succeeds at a DC 13 Perform (string instrument) check.
+
+**Construction Requirements:** Craft Wondrous Item, *deep slumber*, *lullaby*, *sleep*; **Cost** 18,250 gp
+
+### Impact Gauntlets
+
+**Slot** hands; **CL** 5th; **Price** 4,500 gp; **Weight** 1 lb.
+
+**Aura** faint transmutation
+
+These gauntlets are made of worn leather; the palms are smooth, but the wrists and backs of the gauntlets are covered in rough pebbles of various shapes and colors. The wearer can catch Small, Medium, or Large rocks and similar projectiles as if she possessed the rock catching monster ability, as long as she has at least one hand free. A rock caught by the wearer shrinks and is permanently absorbed into the gauntlets. A wearer who also possesses the rock catching ability can catch rocks twice per round instead of once.
+
+**Construction Requirements:** Craft Wondrous Item, *shrink item*; **Cost** 2,250 gp
+
+### Manteau of the Mouse
+
+**Slot** chest; **CL** 10th; **Price** 12,500 gp; **Weight** 5 lbs.
+
+**Aura** strong transmutation
+
+This soft fur vest comes in a variety of shades of brown, black, and white. Any creature larger than the wearer takes a –1, –2, –4, or –8 penalty on Perception checks to notice the wearer, depending on whether it is one, two, three, or four or more size categories larger than the wearer, respectively. In addition, the wearer can use *beast shape III* once per day to transform into a mouse.
+
+**Construction Requirements:** Craft Wondrous Item, *beast shape III*; **Cost** 6,250 gp
+
+### Shrivelblade
+
+**Slot** weapon; **CL** 5th; **Price** 9,810 gp; **Weight** 3 lbs.
+
+**Aura** faint transmutation
+
+This +1 *adamantine swordbreaker dagger* has a jagged ebon blade inscribed with ancient runes that translate to “cut down to size.” Three times per day, when the wielder successfully sunders a weapon using a *shrivelblade*, he can permanently reduce the size of the sundered weapon by one size category, thus reducing its damage and its intended wielder size by one size category and its weight by half. Using this ability is a swift action. If the sundered weapon is magical, it can attempt a DC 14 Will save to negate this effect. Multiple uses of this ability don't stack. A *make whole* spell can return a weapon shrunken by a *shrivelblade* to its proper size.
+
+**Construction Requirements:** Craft Magic Arms and Armor, *shrink item*; **Cost** 5,060 gp
+
+### Smuggler's Sling
+
+**Slot** weapon; **CL** 5th; **Price** 5,300 gp; **Weight** —
+
+**Aura** faint conjuration
+
+The wielder of this +1 *sling* gains a +5 competence bonus on Sleight of Hand checks to conceal the sling. Up to five times per day, the wearer can load the sling with a conjured bullet as a swift action. A conjured bullet counts as magical for the purposes of overcoming damage reduction and attacking incorporeal creatures, but is otherwise a standard sling bullet. This bullet must be fired by the end of the round or it vanishes.
+
+**Construction Requirements:** Craft Magic Arms and Armor, *reloading hands*; **Cost** 2,650 gp
+
+### Trollbane Blanch
+
+**Slot** none; **CL** 1st; **Price** 200 gp; **Weight** —
+
+**Aura** faint transmutation
+
+This green-gray paste is stored in a tree bark jar in order to mask its pungent odor, for trolls recognize its scent immediately and often flee from it, or attack the bearer in preference to all other targets. When applied to a weapon as a full-round action, a dose of *trollbane blanch* causes the weapon to deal 1 additional point of fire damage or acid damage (the type of damage is chosen when the blanch is created) on its next successful attack. Once applied, *trollbane blanch* lasts for 1 minute or until the wielder makes a successful attack.
+
+**Construction Requirements:** Craft Wondrous Item, *acid splash* (acid) or *spark* (fire); **Cost** 100 gp
+
+### Trollblood Elixir
+
+**Slot** none; **CL** 13th; **Price** 4,550 gp; **Weight** —
+
+**Aura** strong conjuration
+
+This rancid, bubbling tonic is mud-colored and reeks of sweat, gore, and decay. Upon drinking a dose of *trollblood elixir*, the imbiber gains fast healing 5. This fast healing is even capable of reattaching a severed limb that is pressed against its stump for 1 round, as long as the limb has been severed for no more than 1 hour and is essentially intact. The effects of *trollblood elixir* last 1 minute; during this time, the imbiber is nauseated. Each round, the imbiber can choose to prematurely end the elixir's effects by succeeding at a DC 10 Fortitude save as a full-round action. *Trollblood elixir* does not affect objects or nonliving creatures such as constructs and undead.
+
+**Construction Requirements:** Craft Wondrous Item, *regenerate*; **Cost** 2,275 gp

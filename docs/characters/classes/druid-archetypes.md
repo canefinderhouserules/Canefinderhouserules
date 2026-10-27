@@ -1185,3 +1185,41 @@ As the elemental ally gains levels, her elemental eidolons' base statistics and 
 **Elemental Magic**: The elemental ally can target elementals (including her elemental eidolons) with any spell she casts that targets animals, even though elementals can't normally be targeted by such spells.
 
 **Elemental Resistance (Ex)**: At 4th level, an elemental ally gains resist acid, cold, electricity, and fire 5. This ability replaces resist nature's lure.
+
+## Goliath Druid
+
+Goliath druids hone their spiritual and magical connections to nature's largest creatures, especially dinosaurs, giants, and megafauna, revering these massive creatures as living relics of a primeval time when all creatures were more in harmony with nature. Despite this respect, a goliath druid doesn't hesitate to infiltrate giant groups who defile nature and destroy them from within.
+
+**Class Skills**: A goliath druid gains Bluff, Diplomacy, and Knowledge (local) as class skills, but does not gain Craft, Profession, and Ride as class skills.
+
+**Bonus Languages**: A goliath druid with an Intelligence bonus can select Giant as a bonus language.
+
+**Primal Size**: A goliath druid adds *enlarge person* to her list of class spells. She can cast this spell only on herself. She can also channel stored spell energy to cast this spell without preparing it—she can lose a prepared spell of 1st level or higher to cast *enlarge person*. This ability replaces nature sense.
+
+**Primal Bond (Ex)**: When a goliath druid forms a nature bond, if she selects a cleric domain, she must select from the Animal, Destruction, or Strength domains, or the Ferocity, Growth, or Rage subdomains. If the goliath druid selects an animal companion, she must select a dinosaur or megafauna. If she has a dinosaur or megafauna animal companion, she can target it with *enlarge person* even though the companion isn't of the humanoid type. This ability alters nature bond.
+
+**Primal Empathy (Ex)**: A goliath druid's wild empathy functions only with creatures that are Large or larger. This ability alters wild empathy.
+
+**Face Nature's Might (Ex)**: At 4th level, a goliath druid gains a +4 bonus on saving throws against the spell-like and supernatural abilities of giants. This ability replaces resist nature's lure.
+
+**Wild Shape (Su)**: Druids' ability to wild shape into a creature of the animal type allows a goliath druid to assume only the form of a dinosaur or megafauna. She doesn't gain the ability to become an elemental or plant.
+
+At 6th level, the goliath druid can use wild shape to become a Large humanoid of the giant subtype. This functions as the *alter self* spell, except the goliath druid gains a +4 size bonus to Strength, a –2 penalty to Dexterity, and a +1 natural armor bonus. If the Large humanoid form she takes has rock throwing, she gains rock throwing (range 40 feet, 1d8 damage). If the form has the aquatic subtype, she gains the aquatic and amphibious subtypes.
+
+At 12th level, when taking the form of a giant, the goliath druid's wild shape functions as *giant form I*.
+
+At 14th level, the goliath druid can also use wild shape to change into a Huge giant. When taking the form of a giant, the goliath druid's wild shape functions as *giant form II*. This ability alters wild shape.
+
+**Primal Summons**: A goliath druid adds the following creatures to the list of creatures she can normally summon using *summon nature's ally* spells.
+
+- *Summon Nature's Ally I*: Compsognathus.
+- *Summon Nature's Ally II*: Dimorphodon.
+- *Summon Nature's Ally III*: Velociraptor.
+- *Summon Nature's Ally IV*: Ogre, parasaurolophus.
+- *Summon Nature's Ally V*: Glyptodon, iguanodon.
+- *Summon Nature's Ally VI*: Baluchitherium, megalania.
+- *Summon Nature's Ally VII*: Cliff giant.
+- *Summon Nature's Ally VIII*: Spinosaurus.
+- *Summon Nature's Ally IX*: Diplodocus.
+
+This ability replaces venom immunity and a thousand faces.

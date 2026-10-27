@@ -55,6 +55,7 @@ Bloodragers gain access to the following spells. Spells in plain text come from 
 - **[Stone Fist](stone-fist.md)**: Your unarmed strikes are lethal.
 - Stone Shield
 - Strong Wings
+- **[Stone Throwing](stone-throwing.md)**: Subject can throw and catch rocks.
 - **[Sundering Shards](sundering-shards.md)**: Sundered item explodes, dealing 1d6 damage to adjacent creatures.
 - **[Tamer’s Lash](tamers-lash.md)**: Create a whip made of sound that damages foes and can frighten animals.
 - **[Thunderstomp](thunderstomp.md)**: Trip one creature within range.
@@ -130,6 +131,7 @@ Bloodragers gain access to the following spells. Spells in plain text come from 
 - **[Sonic Scream](sonic-scream.md)**: Create a cone of damaging sound at will.
 - **[Spider Climb](spider-climb.md)**: Grants ability to walk on walls and ceilings.
 - Steal Breath
+- **[Steal Size](steal-size.md)**: Shrinks a larger target and enlarges you.
 - **[Stone Call](stone-call.md)**: 2d6 damage to all creatures in area.
 - **[Stone Discus](stone-discus.md)**: Flying discus deals bludgeoning or slashing damage.
 - **[Sun’s Disdain](suns-disdain.md)**: Target is hurt by sunlight.
@@ -194,6 +196,7 @@ Bloodragers gain access to the following spells. Spells in plain text come from 
 - **[Ray of Exhaustion](ray-of-exhaustion.md)**: Ray makes subject exhausted.
 - Resinous Skin
 - **[Rising Water](rising-water.md)**: Conjures a cylinder of calm, swimmable water.
+- **[Runic Overload](runic-overload.md)**: Detonates magical runes with sonic force.
 - **[Silver Darts](silver-darts.md)**: Cone of silver darts deals 1d6 piercing damage/level, less against armored targets.
 - **[Sleet Storm](sleet-storm.md)**: Hampers vision and movement.
 - **[Slow](slow.md)**: One subject/level takes only one action/round, –1 to AC, Reflex saves, and attack rolls.

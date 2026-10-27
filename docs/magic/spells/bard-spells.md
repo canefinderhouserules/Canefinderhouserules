@@ -117,6 +117,7 @@
 - **[Transfer Tattoo](transfer-tattoo.md)**: Move a magic tattoo between creatures.
 - **[True Appraisal](true-appraisal.md)**: Gain insight into the value of objects
 - **[True Skill](true-skill.md)**: Gain an insight bonus on your next check with a chosen skill.
+- **[Twisted Futures](twisted-futures.md)**: Target can't reroll or pick die results.
 - **[Undetectable Alignment](undetectable-alignment.md)**: Conceals alignment for 24 hours.
 - **[Unseen Servant](unseen-servant.md)**: Invisible force obeys your commands.
 - **[Urban Grace](urban-grace.md)**: You become one with the city around you, allowing you to move more easily through its crowds and buildings.

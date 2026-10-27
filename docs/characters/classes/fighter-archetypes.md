@@ -865,3 +865,13 @@ The seasoned commander excels at leading troops through inspiration and the use 
 **Inspire Heroics (Ex)**: At 15th level, a seasoned commander gains an additional daily use of his inspiring speech, and he can also choose to use his inspiring speech to grant the effects of inspire heroics to one ally (instead of inspire courage or inspire greatness). For every 2 levels a seasoned commander attains beyond 15th, he can target one additional ally while using this ability. This ability functions in all other respects like the seasoned commander's inspire courage ability. This ability replaces armor training 4.
 
 **Master Tactician (Ex)**: At 17th level, the seasoned commander gains the cavalier's master tactician class feature, treating his fighter level as his cavalier level for the purposes of this ability. This ability replaces weapon training 4.
+
+## Titan Fighter
+
+Titan fighters make use of enormous weapons others can barely lift.
+
+**Giant Weapon Wielder (Ex)**: At 1st level, a titan fighter can wield two-handed melee weapons intended for creatures one size category larger than himself, treating them as two-handed weapons. He takes an additional –2 penalty on attack rolls when using an oversized two-handed weapon. This ability replaces the fighter's 1st-level bonus feat.
+
+**Incredible Heft (Ex)**: At 3rd level, a titan fighter becomes more skilled at wielding weapons intended for creatures one size category larger than himself. The penalty on attack rolls for using such weapons is reduced by 1, including when using oversized two-handed weapons. At 7th level and every 4 levels thereafter, this penalty is reduced by another 1 (minimum 0). This ability replaces armor training.
+
+**Unstoppable Momentum (Ex)**: At 5th level, a titan fighter gains a +1 bonus on combat maneuver checks and to CMD while wielding a weapon sized for a creature of a larger size category. At 9th level and every 4 levels thereafter, this bonus increases by 1. When wielding oversized weapons, the titan fighter can attempt to bull rush, drag, overrun, reposition, and trip creatures up to two size categories larger than himself. This ability replaces weapon training.

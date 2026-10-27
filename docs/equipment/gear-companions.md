@@ -183,3 +183,79 @@ Dark blue crystals are suspended at various points in this chunky mixture of icy
 **Price** 25 gp; **Weight** 1 lb.
 
 Sun cinder is a fine powder that glows faintly when exposed to light. One bag of this alchemically created talc contains 5 uses. When opened, it shines like a candle. If sprinkled on a torch or similar flame, 1 dose of sun cinder increases the light level of the area that flame illuminates by one additional step, up to bright light. This increased illumination lasts for 1 minute. Multiple doses of sun cinder can be used to further increase the light shed by the same source. A single dose of sun cinder does not affect flames larger than a torch. Sun cinder doesn't affect a light source's ability to penetrate magical darkness. Crafting 5 doses of sun cinder requires a successful DC 20 Craft (alchemy) check.
+
+## Giant Hunter Gear
+
+### Sarissa
+
+**Price** 12 gp; **Type** martial two-handed melee weapon; **Dmg (S)** 1d8; **Dmg (M)** 1d6; **Critical** ×3; **Weight** 12 lbs.; **Damage Type** piercing; **Special** brace, reach, see text
+
+This spearlike weapon is about 15 feet long. Its unwieldy length is counterbalanced by a heavy brass base. A sarissa provides extended reach—tripling your reach rather than doubling it. A Medium wielder would threaten spaces 10 to 15 feet away, but not adjacent squares or squares 5 to 10 feet away (as with a typical reach weapon). Because of its great length and weight, a sarissa can be used to attack foes in only one direction each round. You must select a cone each round before you make any attacks with the sarissa. The weapon threatens only foes within this cone and within its extended reach. You can't change the area you threaten with the sarissa until your next turn. While you carry the sarissa pointed upward (typical for overland movement), you threaten only squares in the sarissa's reach in a cone pointed upward.
+
+### Barbed Spear
+
+**Price** 15 gp; **Type** exotic two-handed melee weapon; **Dmg (S)** 1d6; **Dmg (M)** 1d4; **Critical** ×2; **Weight** 10 lbs.; **Damage Type** piercing; **Special** fragile, reach, see text
+
+A barbed spear is a 10-foot-long polearm with a four-pronged head similar to a caltrop. The head is connected to the pole by a single weak bolt, giving the weapon the fragile condition. When you use a barbed spear to attack a creature that is prone, flying above you, or at least one size category larger than you, you can make a melee attack with a –4 penalty to jam the barbed head into the target's foot. If you're successful, the target takes 1 point of damage and the barbed head breaks off in the target's foot. The barb then acts as a caltrop, wounding the creature's foot and halving its speed. This movement penalty lasts for 24 hours, or until the creature is treated with a successful DC 15 Heal check or receives at least 1 point of magical healing. Like caltrops, barbed spears may not work against unusual opponents. A barbed spear that embeds its caltrop-like head into a target's foot gains the broken condition, and can't be used as a weapon until it's repaired.
+
+### Flask Pike
+
+**Price** 30 gp; **Type** exotic two-handed melee weapon; **Dmg (S)** 1d8; **Dmg (M)** 1d6; **Critical** ×3; **Weight** 9 lbs.; **Damage Type** piercing; **Special** reach, see text
+
+This pike has a hollow spot near its tip into which a flask can be strapped. If the flask is filled with an alchemical splash weapon and you hit a creature with the pike, the target is also hit with the splash weapon. This uses up the contents of the flask. Because of the added weight of a flask, attacks with the flask pike take a –2 penalty when it's loaded with one. Reloading the flask pike is a full-round action that provokes attacks of opportunity.
+
+### Dire Bolas
+
+**Price** 20 gp; **Type** exotic ranged weapon; **Dmg (S)** 1d6; **Dmg (M)** 1d4; **Critical** ×2; **Range** 10 ft.; **Weight** 4 lbs.; **Damage Type** bludgeoning; **Special** nonlethal, trip
+
+This specialized bolas can be used to perform ranged trip combat maneuvers against creatures far larger than the wielder. It consists of a pair of metal weights connected by a silk rope 20 feet long. Because of the great size and weight of the bolas, you need both hands to swing it around your head, and considerable time to get the weights up to speed. Making a ranged attack with it is a full-round action. You can use a dire bolas to trip a creature whose size is up to three size categories larger than yours.
+
+### Adamantine Chain (10 ft.)
+
+**Price** 3,030 gp; **Weight** 2 lbs.; **Craft DC** 25
+
+This 10-foot-long chain has hardness 20 and 6 hit points. A successful DC 30 Strength check is required to burst it, making it strong enough to hold many types of giants.
+
+### Mithral Chain (10 ft.)
+
+**Price** 530 gp; **Weight** 1 lb.; **Craft DC** 20
+
+This 10-foot-long chain has hardness 15 and 5 hit points. A successful DC 28 Strength check is required to burst it, making it strong enough to hold most lesser types of giants.
+
+### Gecko Gloves
+
+**Price** 300 gp; **Weight** 1 lb.; **Craft DC** 20
+
+The palms and fingers of these leather gloves are covered in small hairlike bristles, resembling those found on the feet of geckos, that aid you when climbing. Gecko gloves grant you a +1 circumstance bonus on Climb checks. They also enable you to climb with only one hand; doing so imposes a –5 penalty on your Climb checks.
+
+### Gum Rope
+
+**Price** 30 gp; **Weight** 1 lb.; **Craft DC** 20
+
+This small tacky blue pellet is deceptively dense. When the pellet is broken, an alchemical reaction causes it to grow suddenly into a 30-foot-long spongy rope as strong as a normal hemp rope. It dissolves 8 hours thereafter.
+
+### Lodestone Boots
+
+**Price** 60 gp; **Weight** 4 lbs.; **Craft DC** 20
+
+The soles of these tough boots include lodestones that have been augmented through alchemical processes to be very strong. While climbing a rope, you can pinch the rope between the boots to prevent yourself from falling; you can release the boots' grip by carefully twisting them apart. The boots also stick to steel, iron, and other magnetizable surfaces.
+
+You gain a +4 circumstance bonus on your Climb checks while using the boots' magnetism to help you climb a rope or magnetic surface. While standing on a magnetic surface, the boots grant you a +4 circumstance bonus on Strength checks and Fortitude saving throws to avoid being blown away by winds. Leaving a square when the boots are attached to a magnetic surface requires an additional 5 feet of movement, as your overland speed is effectively reduced in exchange for the boots' assistance in climbing.
+
+### Fire Giant Hunter's Kit
+
+**Price** 300 gp; **Weight** 25 lbs.
+
+This kit includes five bags of caltrops, 2 doses of fire ward gel, and a sarissa.
+
+### Frost Giant Hunter's Kit
+
+**Price** 305 gp; **Weight** 35 lbs.
+
+This kit includes five bags of caltrops, a sarissa, and two tanglefoot bags.
+
+### Giant Lair Infiltrator's Kit
+
+**Price** 215 gp; **Weight** 33 lbs.
+
+This kit includes a block and tackle, 50 feet of chain, a climber's kit, a crowbar, and a pole.

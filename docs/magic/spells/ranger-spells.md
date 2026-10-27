@@ -34,6 +34,7 @@
 - **[Hide from Animals](hide-from-animals.md)**: Animals can’t perceive one subject/level.
 - **[Hide Weapon](hide-weapon.md)**: Meld a weapon into your arm.
 - **[Hobble](hobble.md)**: Halve the movement speed of several creatures
+- **[Hollow Blades](hollow-blades.md)**: Target's melee damage drops one size.
 - **[Huntmaster’s Spear](huntmasters-spear.md)**: Spear becomes a +1 weapon against a chosen favored-enemy type and can be discharged for a powerful attack.
 - **[Ironbeard](ironbeard.md)**: School transmutation; Level antipaladin 1, cleric 1, magus 1, paladin 1, ranger 1 Casting Time 1 standard.
 - **[Jump](jump.md)**: Subject gets bonus on Acrobatics checks.
@@ -57,6 +58,7 @@
 - **[Speak with Animals](speak-with-animals.md)**: You can communicate with animals.
 - **[Spindrift Spritz](spindrift-spritz.md)**: Ally rerolls a save against fatigue, shaken, sickened, or staggered.
 - **[Steady Saddle](steady-saddle.md)**: Steady a saddle for mounted ranged attacks
+- **[Stone Throwing](stone-throwing.md)**: Subject can throw and catch rocks.
 - **[Strong Wings](strong-wings.md)**: School transmutation; Level druid 1, ranger 1, sorcerer/wizard 1, witch 1 Casting Time 1 standard action.
 - **[Summon Nature’s Ally I](summon-natures-ally-i.md)**: Summons creature to fight for you.
 - **[Sun Metal](sun-metal.md)**: Weapon touched bursts into flames.

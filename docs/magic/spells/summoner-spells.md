@@ -92,6 +92,7 @@ New summoner spells from *Ultimate Magic*. Spells from other books will be added
 - **[Selective Alarm](selective-alarm.md)**: As *alarm*, but only against selected creatures.
 - **[Selective Invisibility](selective-invisibility.md)**: Invisible, except to one chosen creature you may attack.
 - **[Shared Sacrifice](shared-sacrifice.md)**: Redirect half your damage to a target.
+- **[Siphon Might](siphon-might.md)**: Drains target's Strength and grants it to an ally.
 - **[Spider Climb, Communal](spider-climb-communal.md)**: As spider climb, but you may divide the duration among creatures touched.
 - **[Sundered Serpent Coil](sundered-serpent-coil.md)**: Summon a grappling serpent coil
 - **[Swarm of Fangs](swarm-of-fangs.md)**: Summon a swarm of flying teeth

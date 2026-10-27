@@ -74,6 +74,7 @@ The magus class spell list appears on the [Magus](../../characters/classes/magus
 - **[Ghost Whip](ghost-whip.md)**: Create a ghost touch whip that passes through objects.
 - **[Groundswell](groundswell.md)**: School transmutation [earth]; Level cleric 2, druid 2, magus 2, ranger 2 Casting Time 1 standard action.
 - **[Gusting Sphere](gusting-sphere.md)**: School evocation [air]; Level druid 2, magus 2, sorcerer/wizard 2 Casting Time 1 standard action Components V.
+- **[Hollow Blades](hollow-blades.md)**: Target's melee damage drops one size.
 - **[Huntmaster’s Spear](huntmasters-spear.md)**: Spear becomes a +1 weapon against a chosen favored-enemy type and can be discharged for a powerful attack.
 - **[Ice Slick](ice-slick.md)**: Coat the area in slippery ice and cold damage
 - **[Imbue with Elemental Might](imbue-with-elemental-might.md)**: School evocation [see text]; Level cleric 2, magus 2, sorcerer/wizard 2 Components V, S Duration 24 hours or.
@@ -91,6 +92,7 @@ The magus class spell list appears on the [Magus](../../characters/classes/magus
 - **[Shifted Steps](shifted-steps.md)**: Make a target sound as if elsewhere.
 - **[Slick Walls](slick-walls.md)**: Walls and ceilings become much harder to climb.
 - **[Stone Shield](stone-shield.md)**: A 1-inch-thick slab of stone springs up from the ground, interposing itself between you and an opponent of.
+- **[Stone Throwing](stone-throwing.md)**: Subject can throw and catch rocks.
 - **[Tactical Acumen](tactical-acumen.md)**: You gain an additional +1 on attack rolls or to AC due to battlefield positioning.
 - **[Telekinetic Assembly](telekinetic-assembly.md)**
 - **[Twisted Space](twisted-space.md)**: Targeted creature’s attacks target a random square instead of the intended target.
@@ -127,6 +129,8 @@ The magus class spell list appears on the [Magus](../../characters/classes/magus
 - **[Selective Invisibility](selective-invisibility.md)**: Invisible, except to one chosen creature you may attack.
 - **[Shining Cord](shining-cord.md)**: Silver cord links you and a foe; blasts the one who moves away.
 - **[Sickening Strikes](sickening-strikes.md)**: You are imbued with disease, and any creature you strike with a melee attack must make a Fortitude save or be.
+- **[Siphon Might](siphon-might.md)**: Drains target's Strength and grants it to an ally.
+- **[Steal Size](steal-size.md)**: Shrinks a larger target and enlarges you.
 - **[Sundered Serpent Coil](sundered-serpent-coil.md)**: Summon a grappling serpent coil
 - **[Tactical Adaptation](tactical-adaptation.md)**: Gain a combat feat temporarily.
 - **[Trial of Fire and Acid](trial-of-fire-and-acid.md)**: Cover a creature in burning acid
@@ -160,6 +164,7 @@ The magus class spell list appears on the [Magus](../../characters/classes/magus
 - **[Revenant Armor](revenant-armor.md)**: Armor animates around its fallen wearer.
 - **[Rigor Mortis](rigor-mortis.md)**: Painfully swell a target’s joints.
 - **[Rising Water](rising-water.md)**: Conjures a cylinder of calm, swimmable water.
+- **[Runic Overload](runic-overload.md)**: Detonates magical runes with sonic force.
 - **[Sadomasochism](sadomasochism.md)**: Pain empowers your attacks and demoralizes attackers.
 - **[Shadow Invasion](shadow-invasion.md)**: Create an area of darkness that strengthens shadow spells and attracts kytons
 - **[Tail Current](tail-current.md)**: Create a current in water to enhance or impede swimming.

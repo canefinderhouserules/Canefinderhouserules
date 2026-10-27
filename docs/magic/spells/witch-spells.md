@@ -84,6 +84,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Touch of Combustion](touch-of-combustion.md)**: Your successful melee touch attack causes the target to ignite in a violent burst of flame, dealing 1d6.
 - **[Transfer Tattoo](transfer-tattoo.md)**: Move a magic tattoo between creatures.
 - **[True Appraisal](true-appraisal.md)**: Gain insight into the value of objects
+- **[Twisted Futures](twisted-futures.md)**: Target can't reroll or pick die results.
 - **[Undine’s Curse](undine-s-curse.md)**: The target loses its body’s natural ability to breathe automatically.
 - **[Unerring Weapon](unerring-weapon.md)**: Grants a +2 bonus, +1 per four caster levels, on attack rolls to confirm a critical hit.
 - **[Unprepared Combatant](unprepared-combatant.md)**: Target takes –4 on initiative and Reflex saves.
@@ -116,6 +117,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Boiling Blood](boiling-blood.md)**: Targets take fire damage; orcs get +2 Strength.
 - **[Boneshaker](boneshaker.md)**: Momentarily control a living or undead creature’s skeleton.
 - **[Brittle Portal](brittle-portal.md)**: Reduce the hardness of a surface.
+- **[Burdened Thoughts](burdened-thoughts.md)**: Target is encumbered and cannot fly.
 - **[Callback](callback.md)**: Teleport a familiar or spirit animal to your side when it is injured.
 - **[Commune with Birds](commune-with-birds.md)**: You utter a question in the form of a low-pitched bird call that can be heard up to a mile away, and can.
 - **[Compulsive Liar](compulsive-liar.md)**: Prevent target from speaking the truth.
@@ -197,6 +199,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Stabilize Powder](stabilize-powder.md)**: Ammunition in the targeted firearm is less likely to misfire.
 - **[Stalwart Resolve](stalwart-resolve.md)**: Ignore ability damage to one score.
 - **[Steal Breath](steal-breath.md)**: You pull the breath from a creature’s lungs, dealing damage and leaving it unable to speak, use breath.
+- **[Steal Size](steal-size.md)**: Shrinks a larger target and enlarges you.
 - **[Steal Voice](steal-voice.md)**: Target gains the croaking spellblight.
 - **[Storm Sight](storm-sight.md)**: Sense creatures caught in a storm.
 - **[Storm Trident](storm-trident.md)**: Wield a trident of electricity.
@@ -258,6 +261,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Gloomblind Bolts](gloomblind-bolts.md)**: You create one or more bolts of negative energy infused with shadow pulled from the Shadow Plane.
 - **[Grasping Tentacles](grasping-tentacles.md)**: As black tentacles, but they perform dirty tricks.
 - **[Healing Thief](healing-thief.md)**: You siphon half of all magical healing that the targeted creature receives.
+- **[Hollow Blades](hollow-blades.md)**: Target's melee damage drops one size.
 - **[Hostile Levitation](hostile-levitation.md)**: Levitates the targeted creature up off the ground.
 - **[Howling Agony](howling-agony.md)**: Screaming pain limits the target’s actions.
 - **[Ice Spears](ice-spears.md)**: Icy spears deal piercing and cold damage and trip foes.
@@ -295,6 +299,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Seed Spies](seed-spies.md)**: Wafting seeds act as spies, as insect spies.
 - **[Sharesister](sharesister.md)**: Take a negative level to boost an ally’s casting.
 - **[Shifting Shadows](shifting-shadows.md)**: Shadows make flanking and attacks of opportunity unreliable.
+- **[Siphon Might](siphon-might.md)**: Drains target's Strength and grants it to an ally.
 - **[Sky Swim](sky-swim.md)**: Swim through the air.
 - **[Slave to Sin](slave-to-sin.md)**: Exploit a creature’s sin to sicken and stagger it.
 - **[Spit Venom](spit-venom.md)**: Spit blinding black adder venom.
@@ -491,6 +496,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Plague Bearer](plague-bearer.md)**: Target spreads contagion to adjacent creatures.
 - **[Plague Storm](plague-storm.md)**: Cloud infects creatures like contagion.
 - **[Prognostication](prognostication.md)**: Gain cryptic information from further in the future than *divination*.
+- **[Runic Overload](runic-overload.md)**: Detonates magical runes with sonic force.
 - **[Shadow Memory](shadow-memory.md)**: Learn a target’s secrets to aid an assassination.
 - **[Share Skin](share-skin.md)**: Possess an animal as with magic jar.
 - **[Soul-Rending Claws](soul-rending-claws.md)**: Claws grant negative levels

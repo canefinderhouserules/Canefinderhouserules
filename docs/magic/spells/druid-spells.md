@@ -80,6 +80,7 @@
 - **[Touch of Bloodletting](touch-of-bloodletting.md)**: Wounded target bleeds and is exhausted.
 - **[Touch of Combustion](touch-of-combustion.md)**: Your successful melee touch attack causes the target to ignite in a violent burst of flame, dealing 1d6.
 - **[Tracking Mark](tracking-mark.md)**: Easier to track a target.
+- **[Twisted Futures](twisted-futures.md)**: Target can't reroll or pick die results.
 - **[Underbrush Decoy](underbrush-decoy.md)**: Create a rustling distraction to hide.
 - **[Waterproof](waterproof.md)**: Renders an object or creature’s gear waterproof.
 - **[Wave Shield](wave-shield.md)**: Water blunts one incoming attack or fire effect.
@@ -104,6 +105,7 @@
 - **[Binding Earth](binding-earth.md)**: If the target of this spell fails its Fortitude save, areas of earth and stone floor act as a snapping.
 - **[Brittle Portal](brittle-portal.md)**: Reduce the hardness of a surface.
 - **[Bull’s Strength](bulls-strength.md)**: Subject gains +4 to Str for 1 min./level.
+- **[Burdened Thoughts](burdened-thoughts.md)**: Target is encumbered and cannot fly.
 - **[Burst of Radiance](burst-of-radiance.md)**: Blind creatures and damage evil creatures with a flash of light.
 - **[Callback](callback.md)**: Teleport a familiar or spirit animal to your side when it is injured.
 - **[Cat’s Grace](cats-grace.md)**: Subject gains +4 to Dex for 1 min./level.
@@ -165,6 +167,7 @@
 - **[Spider Climb](spider-climb.md)**: Grants ability to walk on walls and ceilings.
 - **[Spindrift Spritz](spindrift-spritz.md)**: Ally rerolls a save against fatigue, shaken, sickened, or staggered.
 - **[Steal Breath](steal-breath.md)**: You pull the breath from a creature’s lungs, dealing damage and leaving it unable to speak, use breath.
+- **[Stone Throwing](stone-throwing.md)**: Subject can throw and catch rocks.
 - **[Storm Sight](storm-sight.md)**: Sense creatures caught in a storm.
 - **[Storm Trident](storm-trident.md)**: Wield a trident of electricity.
 - **[Summon Nature’s Ally II](summon-natures-ally-ii.md)**: Summons creature to fight.
@@ -241,6 +244,7 @@
 - **[Scale Spikes, Greater](scale-spikes-greater.md)**: Scale spikes with up to +5 enhancement
 - **[Share Language, Communal](share-language-communal.md)**: As share language, but you may divide the duration among creatures touched.
 - **[Signs of the Land](signs-of-the-land.md)**: Learn up to three details about the surrounding territory.
+- **[Siphon Might](siphon-might.md)**: Drains target's Strength and grants it to an ally.
 - **[Sky Swim](sky-swim.md)**: Swim through the air.
 - **[Sleet Storm](sleet-storm.md)**: Hampers vision and movement.
 - **[Snare](snare.md)**: Creates a magic booby trap.
@@ -248,6 +252,7 @@
 - **[Speak with Plants](speak-with-plants.md)**: You can talk to plants and plant creatures.
 - **[Spider Climb, Communal](spider-climb-communal.md)**: As spider climb, but you may divide the duration among creatures touched.
 - **[Spike Growth](spike-growth.md)**: Creatures in area take 1d4 damage, may be slowed*.*
+- **[Steal Size](steal-size.md)**: Shrinks a larger target and enlarges you.
 - **[Stone Shape](stone-shape.md)**: Sculpts stone into any shape.
 - **[Summon Nature’s Ally III](summon-natures-ally-iii.md)**: Summons creature to fight.
 - **[Swarm of Fangs](swarm-of-fangs.md)**: Summon a swarm of flying teeth

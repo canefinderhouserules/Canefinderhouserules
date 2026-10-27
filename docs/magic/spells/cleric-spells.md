@@ -232,6 +232,7 @@
 - **[Stalwart Resolve](stalwart-resolve.md)**: Ignore ability damage to one score.
 - **[Status](status.md)**: Monitors condition, position of allies.
 - **[Stave Off Corruption](stave-off-corruption.md)**: Protect against a corruption’s progression.
+- **[Stone Throwing](stone-throwing.md)**: Subject can throw and catch rocks.
 - **[Storm Sight](storm-sight.md)**: Sense creatures caught in a storm.
 - **[Storm Trident](storm-trident.md)**: Wield a trident of electricity.
 - **[Summon Monster II](summon-monster-ii.md)**: Summons extraplanar creature to fight for you.
@@ -239,6 +240,7 @@
 - **[Suppress Charms and Compulsions](suppress-charms-and-compulsions.md)**: Bolster or suppress charm and compulsion effects.
 - **[Thunder Arrow](thunder-arrow.md)**: Electric arrow that attacks or signals.
 - **[Touch of Mercy](touch-of-mercy.md)**: Target deals only nonlethal damage with weapon attacks.
+- **[Twisted Futures](twisted-futures.md)**: Target can't reroll or pick die results.
 - **[Undetectable Alignment](undetectable-alignment.md)**: Conceals alignment for 24 hours.
 - **[Vexing Miscalculation](vexing-miscalculation.md)**: Target cannot score critical threats.
 - **[Violent Accident](violent-accident.md)**: Curse a creature to suffer a damaging accident within 24 hours.

@@ -86,6 +86,7 @@ Shamans gain access to the following spells. Spells in plain text come from othe
 - **[Spirit Call](spirit-call.md)**: Spirit and domain spells in the area are stronger.
 - **[Spirit Share](spirit-share.md)**: Deliver a drink or potion by touch
 - **[Thorn Javelin](thorn-javelin.md)**: Wield a javelin that sickens opponents when it strikes.
+- **[Twisted Futures](twisted-futures.md)**: Target can't reroll or pick die results.
 - **[Underbrush Decoy](underbrush-decoy.md)**: Create a rustling distraction to hide.
 - **[Waterproof](waterproof.md)**: Renders an object or creature’s gear waterproof.
 - **[Wave Shield](wave-shield.md)**: Water blunts one incoming attack or fire effect.
@@ -109,6 +110,7 @@ Shamans gain access to the following spells. Spells in plain text come from othe
 - **[Blessing of Liberty](blessing-of-liberty.md)**: Luck against movement impairment.
 - **[Bull’s Strength](bulls-strength.md)**: Subject gains +4 to Str for 1 min./level.
 - **[Buoyancy](buoyancy.md)**: Targets easily float on water.
+- **[Burdened Thoughts](burdened-thoughts.md)**: Target is encumbered and cannot fly.
 - **[Burning Gaze](burning-gaze.md)**: Inflict 1d6 fire damage to creature.
 - **[Callback](callback.md)**: Teleport a familiar or spirit animal to your side when it is injured.
 - **[Calm Emotions](calm-emotions.md)**: Calms creatures, negating emotion effects.
@@ -218,6 +220,7 @@ Shamans gain access to the following spells. Spells in plain text come from othe
 - **[Font of Spirit Magic](font-of-spirit-magic.md)**
 - **[Free Spirit](free-spirit.md)**: Gain freedom of movement and fear resistance, but be drunk
 - **[Hex Glyph](hex-glyph.md)**
+- **[Hollow Blades](hollow-blades.md)**: Target's melee damage drops one size.
 - **[Inflict Serious Wounds](inflict-serious-wounds.md)**: Touch attack, 3d8 damage +1/ level (max +15).
 - Magic Circle Against Chaos/evil/good/law
 - **[Magic Vestment](magic-vestment.md)**: Armor or shield gains +1 enhancement per four levels.
