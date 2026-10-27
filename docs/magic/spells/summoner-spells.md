@@ -23,6 +23,7 @@ New summoner spells from *Ultimate Magic*. Spells from other books will be added
 ## 2nd-Level Summoner Spells
 
 - **[Ablative Barrier](ablative-barrier.md)**: Surrounds the target with layers of force.
+- **[Alter Summoned Monster](alter-summoned-monster.md)**: Swap a summoned creature for another
 - **[Ant Haul, Communal](ant-haul-communal.md)**: As ant haul, but you may divide the duration among creatures touched.
 - **[Aquatic Cavalry](aquatic-cavalry.md)**: Summon hippocampi to serve as aquatic mounts.
 - **[Contact Entity I](contact-entity-i.md)**: Ask eldritch entities to find and converse with you.
@@ -31,9 +32,11 @@ New summoner spells from *Ultimate Magic*. Spells from other books will be added
 - **[Dark Whispers](dark-whispers.md)**: Whisper through the shadows.
 - **[Detect Magic, Greater](detect-magic-greater.md)**: As *detect magic*, but learn more information.
 - **[Escape Alarm](escape-alarm.md)**: Ward an area to alert you when someone leaves
+- **[Final Sacrifice](final-sacrifice.md)**: Detonate a summoned creature
 - **[Force Anchor](force-anchor.md)**: Force anchor hinders a target's movement
 - **[Garden of Peril](garden-of-peril.md)**: Poisonous mushrooms sicken nearby creatures.
 - **[Ghost Wolf](ghost-wolf.md)**: This spell conjures a Large, quasi-real, wolflike creature made of roiling black smoke.
+- **[Gird Ally](gird-ally.md)**: Summoned creatures gain a deflection bonus to AC
 - **[Mount, Communal](mount-communal.md)**: As mount, but you may divide the duration among creatures touched.
 - **[Overstimulate](overstimulate.md)**: Grant ferocity to keep a creature conscious
 - **[Protection from Chaos, Communal](protection-from-chaos-communal.md)**: As protection from chaos, but you may divide the duration among creatures touched.
@@ -72,6 +75,7 @@ New summoner spells from *Ultimate Magic*. Spells from other books will be added
 - **[Life Conduit, Improved](life-conduit-improved.md)**: Transfers 2d6 hit points to your eidolon as a swift action.
 - **[Mad Monkeys](mad-monkeys.md)**: Summon a swarm of mischievous monkeys.
 - **[Marionette Possession](marionette-possession.md)**: As magic jar, but limited to line of sight.
+- **[Master's Escape](masters-escape.md)**: Swap places with a summoned creature
 - **[Night of Blades](night-of-blades.md)**: Wall of whirling blades.
 - **[Obsidian Flow](obsidian-flow.md)**: Converts the surface of the ground into molten glass. Spells 6 Protection from Energy, Communal: As protection from energy, but you may divide the duration among creatures touched.
 - **[Pack Empathy](pack-empathy.md)**: Create an empathic bond with allies.
@@ -105,6 +109,7 @@ New summoner spells from *Ultimate Magic*. Spells from other books will be added
 - **[Daze, Mass](daze-mass.md)**: As daze, but affecting multiple creatures.
 - **[Hollow Heroism](hollow-heroism.md)**: Provide a *heroism* effect that you can reverse at any time.
 - **[Hostile Juxtaposition](hostile-juxtaposition.md)**: You create a dimensional link with a targeted creature, and switch spots with it.
+- **[Instant Restoration](instant-restoration.md)**: Heal a summoned creature as it falls
 - **[Minotaur’s Blessing](minotaurs-blessing.md)**: Turn a creature’s head into a bull’s.
 - **[Nixie’s Lure](nixie-s-lure.md)**: This spell creates an unearthly and infectious song that seductively summons all who hear it.
 - **[Protection from Energy, Communal](protection-from-energy-communal.md)**: As protection from energy, but you may divide the duration among creatures touched.
@@ -138,6 +143,7 @@ New summoner spells from *Ultimate Magic*. Spells from other books will be added
 - **[Lighten Object, Mass](lighten-object-mass.md)**: Halve the weight of several objects.
 - **[Locate Gate](locate-gate.md)**: Find a nearby magical portal.
 - **[Mage’s Decree](mages-decree.md)**: Send a message to creatures within miles.
+- **[Master's Mutation](masters-mutation.md)**: Grant abilities to a summoned creature
 - **[Mind Swap](mind-swap.md)**: Switch minds with another creature for 1 hour per level.
 - **[Possession](possession.md)**: Project your soul into a creature’s body.
 - **[Secret Workshop](secret-workshop.md)**: As nondetection, but protects many creatures and objects.
@@ -162,6 +168,7 @@ New summoner spells from *Ultimate Magic*. Spells from other books will be added
 - **[Insect Spies, Greater](insect-spies-greater.md)**: Use magic beetles as spies and also share their senses.
 - **[Plundered Power](plundered-power.md)**: Kill a creature and steal its strongest spell-like ability.
 - **[Summon Flight of Eagles](summon-flight-of-eagles.md)**: Summon giant eagles to fight or serve as mounts.
+- **[Summon Laborers](summon-laborers.md)**: Summon petitioners to help downtime work
 - **[Treacherous Teleport](treacherous-teleport.md)**: As *teleport*, except you choose some creatures to suffer a mishap or go elsewhere.
 - **[Walk Through Space](walk-through-space.md)**: You can spend a move action to teleport 30 feet or to stand while prone without provoking attacks of opportunity.
 - **[Whip of Ants](whip-of-ants.md)**: As whip of spiders, but with army ants.

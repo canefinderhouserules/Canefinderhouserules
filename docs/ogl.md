@@ -153,3 +153,5 @@ The following text is the property of Wizards of the Coast, Inc. and is Copyrigh
     Pathfinder Campaign Setting: Horsemen of the Apocalypse, Book of the Damned Vol. III © 2011, Paizo Publishing, LLC; Author: Todd Stewart.
 
     Pathfinder Player Companion: Undead Slayer's Handbook © 2014, Paizo Publishing, LLC; Authors: Dennis Baker, Jay Loomis, Alex Putnam, Adam Roy, Tork Shaw, and Larry Wilhelm.
+
+    Pathfinder Player Companion: Monster Summoner’s Handbook © 2015, Paizo Inc.; Authors: Dennis Baker, Ross Byers, John Compton, Jim Groves, Mikko Kallio, Mark Moreland, Mark Seifter, and others.

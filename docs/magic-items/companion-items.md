@@ -111,3 +111,89 @@ This +1 *bashing light steel shield* features a brilliant sun motif, and always 
 When a marked creature is hit by a melee or ranged attack, the radiant energy discharges in a burst of light, dealing 1d6 points of damage to the marked creature and ending the marking effect. If the creature is vulnerable to light, it is also dazed for 1 round.
 
 **Construction Requirements:** Craft Magic Arms and Armor, *daybreak arrow*, *tactical acumen*; **Cost** 3,909 gp
+
+## Summoning Items
+
+### Armor of Fragmenting Stone
+
+**Slot** armor; **CL** 7th; **Price** 21,650 gp; **Weight** 60 lbs.
+
+**Aura** moderate conjuration
+
+This imposing suit of armor, covered in large, jagged stones, functions as +2 *full plate*. Once per day as an immediate action, when a bludgeoning or slashing attack strikes the wearer, the wearer can will a chunk of the stone to break off, summoning a Medium earth elemental as *summon monster IV*. The elemental fights as the wearer directs (and understands the wearer, even if the two do not share a language) for 7 rounds, or until it is destroyed.
+
+**Construction Requirements:** Craft Magic Arms and Armor, *summon monster IV* or *summon nature's ally IV*, creator must have visited the Elemental Plane of Earth; **Cost** 11,650 gp
+
+### Bracers of Celestial Intervention
+
+**Slot** wrists; **CL** 13th; **Price** 16,000 gp; **Weight** 1 lb.
+
+**Aura** strong conjuration
+
+Prayers and engravings of celestial beings cover these golden bracers. A paladin can expend one or more of her uses of smite evil into these bracers as a standard action to call forth agathions, angels, or archons to aid her. This acts as a *summon monster* spell of a spell level equal to the number of smite evil uses the paladin expends. Outsiders summoned with the bracers must be from the list detailed in the *summon monster* spell or from the [expanded summoning list](../magic/expanded-summoning.md).
+
+**Construction Requirements:** Craft Wondrous Item, *summon monster VII*, creator must be lawful good; **Cost** 8,000 gp
+
+### Caller's Feather
+
+**Slot** head; **CL** 15th; **Price** 2,000 gp; **Weight** —
+
+**Aura** strong conjuration
+
+This magnificent feather, plucked from the wing of a powerful erinyes or angel, allows the wearer to call stronger outsiders to her service. The wearer can use the feather to call 2 more HD worth of creatures when casting a *planar binding* or *planar ally* spell (including lesser and greater versions) or when casting *gate*. Alternatively, when casting one of these spells, the spellcaster can expend this feather to summon a single outsider with up to 2 more Hit Dice than the spell would normally allow. For example, he may summon a trumpet archon with *planar ally*, or a pit fiend with *greater planar binding*. The wearer gains a +2 insight bonus on all Charisma checks and Charisma-based skill checks to influence the creature called. Once used, the feather crumbles to mundane dust.
+
+**Construction Requirements:** Craft Wondrous Item, *planar ally* or *planar binding*; **Cost** 1,000 gp
+
+### Periapt of Temporary Familiar
+
+**Slot** neck; **CL** 9th; **Price** 8,000 gp; **Weight** 1 lb.
+
+**Aura** moderate conjuration
+
+This clear blue crystal amulet contains a pearl figurine depicting a miniature animal on the familiar list, such as a bat, monkey, or raven. Three times per day, the wearer can call forth the animal depicted in the amulet to serve as her familiar. This temporary familiar has all of the familiar abilities as if the wearer was a 5th-level wizard, and remains for 5 minutes or until it is reduced to 0 hit points. If the temporary familiar is reduced to 0 hit points, it cannot be summoned again for 24 hours. The familiar retains memories from past summonings. Only those without familiars of their own can activate a *periapt of temporary familiar*.
+
+**Construction Requirements:** Craft Wondrous Item, *summon monster V*, creator must have a familiar; **Cost** 4,000 gp
+
+### Rod of Giant Summoning
+
+**Slot** none; **CL** 17th; **Price** 3,000 gp (lesser), 11,000 gp, 24,500 gp (greater); **Weight** 5 lbs.
+
+**Aura** strong conjuration
+
+This iron rod has long metal flanges, like a mace, which widen as they expand from the handle. The wielder can use the rod up to three times per day to augment her casting of a conjuration (summoning) spell, causing all of her summoned creatures to gain the giant simple template. The lesser rod can be used with spells of 3rd level or lower, the standard rod can be used with spells of 6th level or lower, and the greater rod can be used with spells of 9th level or lower.
+
+**Construction Requirements:** Craft Rod, Augment Summoning, *summon monster III* or *summon nature's ally III*; **Cost** 1,500 gp (lesser), 5,500 gp, 12,250 gp (greater)
+
+### Summoner's Robe
+
+**Slot** body; **CL** 17th; **Price** 50,000 gp; **Weight** 5 lbs.
+
+**Aura** strong conjuration
+
+A *summoner's robe* is a finely crafted garment of silk the same color as the endless sky of the Astral Plane. Once per day when casting a *summon monster* or *summon nature's ally* spell, the wearer can have the robe absorb one of the creatures summoned rather than have it appear within the spell's range. When this occurs, the robe gains a defensive aura and takes on visual aspects of the absorbed creature (such as becoming red and spiked if absorbing a demon, or manifesting flame patterns if absorbing a fire elemental). The creature does not exist outside its effect as a defensive aura of the robe as detailed below, and cannot be damaged or targeted by most spells. It is still a magical effect, and any spell or ability that could dispel or disrupt a creature summoned by *summon monster* can dispel or disrupt the defensive aura. The defensive aura is also dispelled if the robe enters an area a summoned creature could not enter, or at the end of the duration of the spell that summoned the absorbed creature. If the wearer takes an amount of damage equal to or greater than 5 hit points per level of the spell that summoned the absorbed creature, the defensive aura ends.
+
+As long as the robe has a defensive aura, its wearer gains some of the absorbed creature's defenses and powers. These abilities are determined as if the wearer were using a transmutation (polymorph) spell to assume the absorbed creature's form. Unlike a normal polymorph effect, it does not grant her the appearance of the creature (or any bonus to Disguise), any movement type, natural attacks (or proficiency with them), or size change. The wearer does not change form, gain any ability score modifiers, have her gear meld into her body, or lose any abilities based on her form. She is considered to be under the effects of a polymorph spell, and cannot be under the effects of another polymorph spell or size-altering magic for the duration of the defensive aura. The abilities the defensive aura grants are otherwise determined by the type of creature absorbed. If the creature is an elemental, the wearer gains the abilities listed in *elemental body III*; if it's a plant, the wearer gains the abilities listed in *plant shape II*; if it's an undead, the wearer gains the abilities listed in *undead anatomy III*. If the creature is of any other creature type, the wearer gains the abilities it possesses listed in *beast shape IV*.
+
+**Construction Requirements:** Craft Wondrous Item, *summon monster IX* or *summon nature's ally IX*; **Cost** 25,000 gp
+
+### Sword of Tempests
+
+**Slot** none; **CL** 7th; **Price** 23,315 gp; **Weight** 6 lbs.
+
+**Aura** moderate conjuration
+
+This translucent longsword appears to have a blade crafted from solid wind, similar in appearance to the matter that makes up an air elemental's body. It functions as a +2 *longsword*. Three times per day, when the wielder confirms a critical hit with a *sword of tempests*, as an immediate action he can will a fraction of the blade to break off and transform into a Medium air elemental (this does not affect the sword itself). The elemental fights as the wielder directs for 7 rounds, or until it is destroyed. At the GM's discretion, similar weapons may exist that summon elementals from different planes.
+
+**Construction Requirements:** Craft Magic Arms and Armor, *summon monster IV* or *summon nature's ally IV*; **Cost** 11,815 gp
+
+### Visage of the Bound
+
+**Slot** head; **CL** 9th; **Price** 22,900 gp; **Weight** 2 lbs.
+
+**Aura** moderate conjuration and evocation
+
+Crafted from gold and lacquer, these elaborate masks resemble various outsiders. Once per day when the wearer casts a *summon monster* spell, he may choose to house the summoned outsider within the *visage of the bound* rather than conjuring it onto the Material Plane. For the spell's duration, the wearer can use any of the bound outsider's spell-like abilities as if they were his own. A *visage of the bound* has no effect on outsiders already summoned or on summoning spells cast by other creatures. Removing the mask immediately releases a bound outsider.
+
+The wearer cannot use the bound outsider's spell-like abilities to summon other creatures, and a summoner cannot activate a *visage of the bound* while his eidolon is summoned. Effects that extend the duration of a *summon monster* spell (such as the Extend Spell metamagic feat or the conjurer's summoner's charm class ability) have no effect on the duration of a spell contained by a *visage of the bound*. Outsiders who are opposed to one or more axes of the wearer's alignment cannot be housed within a *visage of the bound*.
+
+**Construction Requirements:** Craft Wondrous Item, *imbue with spell ability*, *summon monster V*; **Cost** 11,450 gp

@@ -100,6 +100,7 @@ Bloodragers gain access to the following spells. Spells in plain text come from 
 - **[Elemental Touch](elemental-touch.md)**: Gain energy damage touch attack.
 - **[Extreme Flexibility](extreme-flexibility.md)**: Gain a bonus to AC, on Escape Artist checks, and when grappling.
 - **[False Life](false-life.md)**: Gain 1d10 temporary hp + 1/level (max +10).
+- **[Final Sacrifice](final-sacrifice.md)**: Detonate a summoned creature
 - **[Fire Breath](fire-breath.md)**: Exhale a cone of flame at will.
 - **[Flaming Sphere](flaming-sphere.md)**: Rolling ball of fire deals 3d6 fire damage.
 - **[Frigid Touch](frigid-touch.md)**: Target takes cold damage and is staggered.

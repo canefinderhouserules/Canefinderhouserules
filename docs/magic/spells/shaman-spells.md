@@ -211,6 +211,7 @@ Shamans gain access to the following spells. Spells in plain text come from othe
 - **[Ectoplasmic Snare](ectoplasmic-snare.md)**: Tendril of ectoplasm grapples a creature and tethers you to it.
 - Fins to Feet
 - **[Fey Form I](fey-form-i.md)**: Assume the form of a Small or Medium fey creature.
+- **[Final Sacrifice](final-sacrifice.md)**: Detonate a summoned creature
 - **[Flashfire](flashfire.md)**: Cause smoky fires to spring up to burn foes and set them alight.
 - **[Flesh Puppet](flesh-puppet.md)**: Control a zombie in human guise.
 - **[Fly](fly.md)**: Subject flies at speed of 60 ft.
@@ -292,6 +293,7 @@ Shamans gain access to the following spells. Spells in plain text come from othe
 - **[Ice Storm](ice-storm.md)**: Hail deals 5d6 damage in cylinder 40 ft. across.
 - **[Imbue with Spell Ability](imbue-with-spell-ability.md)**: Transfer spells to subject.
 - **[Inflict Critical Wounds](inflict-critical-wounds.md)**: Touch attack, 4d8 damage + 1/level (max +20).
+- **[Instant Restoration](instant-restoration.md)**: Heal a summoned creature as it falls
 - **[Life Blast](life-blast.md)**: Drain life from local vegetation to launch a blast of positive energy.
 - **[Magic Weapon, Greater](magic-weapon-greater.md)**: Weapon gains +1 bonus/four levels (max +5).
 - **[Neutralize Poison](neutralize-poison.md)**: Immunizes subject against poison, detoxifies venom in or on subject.
@@ -420,6 +422,7 @@ Shamans gain access to the following spells. Spells in plain text come from othe
 - **[Speak with Soul](speak-with-soul.md)**: Hold an extended conversation with a soul
 - **[Stone to Flesh](stone-to-flesh.md)**: Restores petrified creature.
 - **[Summon Flight of Eagles](summon-flight-of-eagles.md)**: Summon giant eagles to fight or serve as mounts.
+- **[Summon Laborers](summon-laborers.md)**: Summon petitioners to help downtime work
 - **[Wall of Stone](wall-of-stone.md)**: Creates a stone wall that can be shaped.
 - **[Withdraw Affliction](withdraw-affliction.md)**: Remove an affliction and inflict it on another creature.
 - **[Wither Limb](wither-limb.md)**: Make one of the target’s limbs useless.

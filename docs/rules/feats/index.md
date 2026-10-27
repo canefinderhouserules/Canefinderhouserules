@@ -1517,6 +1517,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Ascetic Strike](ascetic-strike.md) | Combat | Ascetic Form, Ascetic Style, Weapon Focus with the chosen weapon, base attack bonus +7 or monk level 7th |
 | [Ascetic Style](ascetic-style.md) | Combat, Style | Weapon Focus with the chosen melee weapon, base attack bonus +1 or monk level 1st |
 | [Assured Destruction](assured-destruction.md) | — | Empowered Daemonic Pact, urdefhan |
+| [Augment Calling](augment-calling) | General | Spell Focus (conjuration); ability to cast lesser planar ally, lesser planar binding, or a higher-level version of these spells |
 | [Aura of Succumbing](aura-of-succumbing.md) | — | Channel energy class feature, worshiper of a deity of death or plague |
 | [Authoritative Spell](authoritative-spell.md) | Metamagic | — |
 | [Aversion Tolerance](aversion-tolerance.md) | — | Vampire |
@@ -1529,6 +1530,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Bag of Bones](bag-of-bones.md) | — | Ghoul |
 | [Balor Whip](balor-whip.md) | Combat | Weapon Focus (whip), Whip Mastery, base attack bonus +8 |
 | [Baneful Judgment](baneful-judgment.md) | Combat | Bane class feature, judgment class feature, monster lore class feature |
+| [Banishing Critical](banishing-critical) | Critical | Arcane Strike or Disruptive; Spellcraft 8 ranks; arcane pool class feature |
 | [Barrage of Styles](barrage-of-styles.md) | Combat, Teamwork | Base attack bonus +1, human |
 | [Bastion Stance](bastion-stance.md) | Combat | Con 13, proficiency with heavy armor and shields |
 | [Bat Shape](bat-shape.md) | — | Cha 13, werebat-kin |
@@ -1675,6 +1677,8 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Diabolic Style](diabolic-style.md) | Combat, Style | Combat Reflexes, Improved Unarmed Strike or Weapon Focus (unarmed strike), base attack bonus +2 or monk level 1st |
 | [Diabolical Negotiator](diabolical-negotiator.md) | — | Skill Focus (Diplomacy), worshiper of a deity of tyranny and contracts |
 | [Difficult Swings](difficult-swings.md) | Weapon Mastery | Base attack bonus +5, weapon training class feature with a melee weapon |
+| [Dimensional Awareness](dimensional-awareness) | Combat | Arcane Strike or Disruptive; Banishing Critical; Combat Reflexes; Spellcraft 8 ranks; arcane pool class feature |
+| [Dimensional Disruption](dimensional-disruption) | Combat | Arcane Strike or Disruptive; Banishing Critical; Combat Reflexes; Dimensional Awareness; Spellcraft 8 ranks; arcane pool class feature |
 | [Dimensional Step Up](dimensional-step-up.md) | — | Dimensional Agility, Step Up, base attack bonus +12, abundant step class feature or ability to cast *dimension door* |
 | [Diplomatic Ruse](diplomatic-ruse.md) | Teamwork | Diplomacy 3 ranks, human |
 | [Dire Bat Shape](dire-bat-shape.md) | — | Cha 13, Bat Shape, base attack bonus +3, werebat-kin |
@@ -1684,6 +1688,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Dirty Grapple](dirty-grapple.md) | Combat | Dex 13, Int 13, Combat Expertise, Improved Dirty Trick, Improved Grapple, Improved Unarmed Strike, base attack bonus +6 |
 | [Disarm Partner](disarm-partner.md) | Combat, Teamwork | Base attack bonus +1 |
 | [Disciple of the Blade](disciple-of-the-blade.md) | — | Weapon Focus (deity’s favored weapon), cleric or inquisitor level 4th, worshiper of a deity |
+| [Dispel Focus](dispel-focus) | General | Ability to cast dispel magic |
 | [Dispel Mastery](dispel-mastery.md) | Item Mastery | Use Magic Device 3 ranks, base Fortitude save bonus +6 |
 | [Diva Advance](diva-advance.md) | Combat | Cha 17, Combat Expertise, Diva Strike, Diva Style, Improved Feint, base attack bonus +11 or bard level 11th |
 | [Diva Strike](diva-strike.md) | Combat | Cha 15, Combat Expertise, Diva Style, Improved Feint, base attack bonus +7 or bard level 7th |
@@ -1733,6 +1738,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Expanded Hunter Tactics](expanded-hunter-tactics.md) | Combat | Hunter tactics class feature |
 | [Expanded Spell Kenning](expanded-spell-kenning.md) | — | Spell kenning class feature |
 | [Expanded Studies](expanded-studies.md) | — | Wis 17, hunter or warpriest level 16th |
+| [Expanded Summon Monster](expanded-summon-monster) | General | Ability to cast a summon monster spell |
 | [Expeditious Sleuth](expeditious-sleuth.md) | — | Perception 3 ranks, inspiration or lore master class feature |
 | [Expert Boarder](expert-boarder.md) | — | — |
 | [Expert Sniper](expert-sniper.md) | Combat | Stealth 3 ranks |
@@ -1821,6 +1827,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Greater Balor Whip](greater-balor-whip.md) | Combat | Balor Whip, Improved Balor Whip, Weapon Focus (whip), Whip Mastery, base attack bonus +16 |
 | [Greater Bless Equipment](greater-bless-equipment) | General | Bless Equipment, Improved Bless Equipment, caster level 12th, channel energy class feature |
 | [Greater Blood Frenzy](greater-blood-frenzy.md) | — | Blood frenzy ability, sahuagin |
+| [Greater Dispel Focus](greater-dispel-focus) | General | Dispel Focus, ability to cast dispel magic |
 | [Greater Ironclad Reactions](greater-ironclad-reactions.md) | Armor Mastery | Combat Reflexes, Ironclad Reactions, base attack bonus +11 or fighter level 8th, armor training class feature, proficiency with medium armor |
 | [Greater Planar Infusion](greater-planar-infusion.md) | Conduit | [Improved Planar Infusion](improved-planar-infusion.md), [Planar Infusion](planar-infusion.md), character level 13th |
 | [Greater Ray Shield](greater-ray-shield.md) | Shield Mastery | Dex 17, Missile Shield, Ray Shield, Spellbreaker |
@@ -2027,6 +2034,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Piercing Grapple](piercing-grapple.md) | Combat | Dex 13, Improved Grapple, Improved Unarmed Strike, Quick Draw, Intimidate 7 ranks |
 | [Pile On](pile-on.md) | Combat | Str 13, [Hurtful](hurtful.md), Power Attack |
 | [Plague Resistance](plague-resistance.md) | — | Constitution 13 |
+| [Planar Focus](planar-focus) | General | Knowledge (planes) 5 ranks, animal focus class feature |
 | [Planar Heritage](planar-heritage.md) | — | Human |
 | [Planar Survivor](planar-survivor.md) | — | Knowledge (planes) 3 ranks, Survival 3 ranks |
 | [Planar Wanderer](planar-wanderer.md) | — | Cartogramancer, Knowledge (geography) 10 ranks, Knowledge (planes) 10 ranks, ability to cast *greater teleport* and *plane shift* |
@@ -2094,6 +2102,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Scholar](scholar.md) | — | — |
 | [School Familiar](school-familiar.md) | — | Familiar effective level 5th, specialized arcane school class feature |
 | [Scion of a Fallen Empire](scion-of-a-fallen-empire.md) | Teamwork | Human |
+| [Scouting Summons](scouting-summons) | Metamagic | Spell Focus (conjuration), ability to cast magic jar |
 | [Scurrying Swarmer](scurrying-swarmer.md) | Combat | Ratfolk, swarming racial trait |
 | [Secured Armor](secured-armor.md) | Armor Mastery | Base attack bonus +11 or fighter level 8th, armor training class feature, proficiency with medium or heavy armor |
 | [Seductive Channel](seductive-channel.md) | — | Channel positive energy class feature, worshiper of a deity of lust and revenge |
@@ -2150,6 +2159,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Sneaking Critical](sneaking-critical.md) | Combat, Critical | Critical Focus, base attack bonus +9, sneak attack class feature |
 | [Sniper's Lantern](snipers-lantern.md) | — | Point-Blank Shot, *dancing lights* racial spell-like ability |
 | [Social Bravery](social-bravery.md) | Combat | Cha 13, bravery class feature |
+| [Solid Shadows](solid-shadows) | Metamagic | Spell Focus (illusion) |
 | [Sonic Croak](sonic-croak.md) | — | [Throat Pouch](throat-pouch.md), boggard, terrifying croak |
 | [Soulless Gaze](soulless-gaze.md) | Damnation | Patronage of an evil outsider |
 | [Spear Dancer](spear-dancer.md) | Combat | Weapon Focus (any two-handed reach weapon), Perform (dance) 4 ranks |
@@ -2233,6 +2243,9 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Tail Weapon](tail-weapon.md) | Combat | Base attack bonus +1, serpentfolk |
 | [Take a Breather](take-a-breather.md) | Combat | Con 13, Combat Vigor, character level 4th |
 | [Targeted Blow](targeted-blow.md) | Weapon Mastery | Str 13, Power Attack, base attack bonus +9, weapon training class feature with a melee weapon |
+| [Tattoo Attunement](tattoo-attunement) | General | Inscribe Magical Tattoo; Spellcraft 5 ranks |
+| [Tattoo Conversion](tattoo-conversion) | General | Inscribe Magical Tattoo; Tattoo Attunement; Spellcraft 15 ranks; ability to cast control summoned creature |
+| [Tattoo Transformation](tattoo-transformation) | General | Inscribe Magical Tattoo; Tattoo Attunement; Spellcraft 9 ranks |
 | [Technologist](technologist.md) | — | — |
 | [Technology Adept](technology-adept.md) | Combat | Dex 13, Exotic Weapon Proficiency (firearms), Point-Blank Shot |
 | [Technophobe](technophobe.md) | — | Improved Sunder |
@@ -2295,6 +2308,8 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Veiled Purity](veiled-purity.md) | — | 5 or more Hit Dice, good alignment |
 | [Venomous Spray](venomous-spray.md) | Combat | Serpentfolk |
 | [Verify](verify.md) | — | Ability to cast 1st-level spells, lawful evil alignment, worshiper of a lawful evil deity of devils and contracts |
+| [Versatile Summon Monster](versatile-summon-monster) | General | Knowledge (arcana) 1 rank, Knowledge (planes) 1 rank |
+| [Versatile Summon Nature's Ally](versatile-summon-natures-ally) | General | Augment Summoning, Spell Focus (conjuration), Knowledge (nature) 1 rank, Knowledge (planes) 1 rank |
 | [Vestigial Head](vestigial-head.md) | — | Ogre |
 | [Vile Leadership](vile-leadership.md) | — | Character level 7th, good standing with an evil organization |
 | [Vim and Vigor](vim-and-vigor.md) | Combat | Con 13, Combat Vigor, Endurance, character level 3rd |

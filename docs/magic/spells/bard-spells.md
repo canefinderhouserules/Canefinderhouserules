@@ -131,6 +131,7 @@
 
 - **[Absurdity](absurdity.md)**: Threats seem like a ridiculous farce.
 - **[Alter Self](alter-self.md)**: Assume form of a Small or Medium humanoid.
+- **[Alter Summoned Monster](alter-summoned-monster.md)**: Swap a summoned creature for another
 - **[Animal Messenger](animal-messenger.md)**: Sends a Tiny animal to a specific place.
 - **[Animal Trance](animal-trance.md)**: Fascinates 2d6 HD of animals.
 - **[Anticipate Thoughts](anticipate-thoughts.md)**: Gain increasing bonuses to AC and on attack rolls and damage rolls against one creature.

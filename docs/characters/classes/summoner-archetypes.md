@@ -571,3 +571,41 @@ God callers follow a fractured tradition of speaking to an assortment of ancient
 **Divine Might (Ex)**: At 18th level, a god caller's eidolon's attacks are treated as epic for the purpose of overcoming damage reduction and harming mythic creatures. This ability replaces greater aspect.
 
 **Overwhelming Presence (Sp)**: At 20th level, a god caller's eidolon can use *overwhelming presence* three times per day. The save DC is equal to 19 + the eidolon's Charisma modifier. This ability replaces twin eidolon.
+
+## Counter-Summoner
+
+While most summoners excel at conjuring monsters, there are those who focus instead on disrupting the conjurations of opponents. The counter-summoner harnesses powerful abjuration magic to instantly thwart the conjuration and summoning abilities of other casters, though at the cost of weakening his own powers of conjuration.
+
+**Counter-Summon (Su)**: At 1st level, a counter-summoner can attempt to counter a conjuration spell cast by another creature. He must identify the spell being cast as normal for counterspelling. If he does so, he can attempt to counter the spell as a swift or immediate action. To counter the spell, the counter-summoner must attempt a dispel check as if using *dispel magic*. If the spell being countered is a *summon monster* or *summon nature's ally* spell, the counter-summoner gains a +5 bonus on the dispel check. The counter-summoner can use this ability a number of times per day equal to 3 + his Charisma modifier. This replaces summon monster.
+
+**Detect Summons (Su)**: At 2nd level, as a swift action, a counter-summoner can target a single creature he can see and determine if it has been summoned to its current plane from another. This ability reveals whether the target has been conjured by a conjuration (summoning) or (calling) spell, and allows the counter-summoner to attempt a Spellcraft check to identify the spell that conjured it (using the same DC as if the counter-summoner had witnessed the spell being cast). This ability replaces bond senses.
+
+**Weaken Summons (Su)**: At 10th level, as a standard action, a counter-summoner can attempt to weaken a summoned or called creature within 60 feet. The targeted creature takes a –2 penalty on attack and damage rolls and to Armor Class for 1 minute per summoner level. A successful Will save (DC = 10 + 1/2 the counter-summoner's class level + his Charisma modifier) negates this effect. A given summoned creature can't be targeted by this ability more than once per 24-hour period. This ability replaces aspect.
+
+**Improved Weaken Summons (Su)**: At 18th level, the penalty for the counter-summoner's weaken summons ability changes to –4. This ability replaces greater aspect.
+
+## Morphic Savant
+
+A morphic savant is an agent of change who draws power from chaotic planes of existence to fulfill whatever goals strike his fancy.
+
+**Alignment**: Any chaotic.
+
+**Eidolon of Chaos**: A morphic savant's eidolon must be of a chaotic alignment (if using the unchained summoner, the eidolon must have the azata, demon, or protean subtype). The morphic savant's eidolon has three base forms: biped, quadruped, and serpentine. Each form has the same feats and skills, but has its own set of evolutions. When the summoner meditates and regains his spell slots for the day, he can select any of the three base forms of his eidolon. The eidolon has 1 fewer evolution point than normal for an eidolon of the morphic savant's summoner level, and has 1 fewer skill point per Hit Die. This ability alters eidolon.
+
+**Morphic Monsters**: Since a morphic savant's power is drawn from planar energies aligned with chaos, all the creatures he summons must be of a chaotic alignment. If a creature would normally be celestial or fiendish, it is instead an entropic creature. This also causes the morphic savant's summoning power to be less reliable than a standard summoner's. Each time he uses his summon monster spell-like ability to summon multiple creatures, there is a 50% chance he summons one more monster than normal for the *summon monster* spell he uses, in which case the creatures remain for only 1 round per level (instead of 1 minute per level). Also, starting at 2nd level, the morphic savant can grant one 1-point evolution to all the creatures he summons with his summon monster spell-like ability. He can't grant an evolution that duplicates the function of, or has the same name as, any ability the summoned creatures already possess (for example, he can't grant a creature with a bite attack another bite attack), nor can he add an evolution that causes the summoned monsters to have more attacks than his eidolon's maximum number of attacks. The creatures do not have to be of the correct subtype to gain an evolution, but do have to meet any other prerequisites. This ability alters summon monster.
+
+**Chaos Magic**: A morphic savant gains the following bonus spells known at the listed spell level: 1st—*protection from law*, 2nd—*shard of chaos*, 3rd—*magic circle against law*, 4th—*chaos hammer*, 5th—*dispel law*, 6th—*word of chaos*. The morphic savant gains one fewer spell known per spell level for spell levels 1–6. This ability alters the summoner's spells known.
+
+## Unwavering Conduit
+
+Unwavering conduits work to keep everything ordered and regimented, drawing on power from lawful planes to enforce whichever laws the summoner finds paramount.
+
+**Alignment**: Any lawful.
+
+**Eidolon of Law**: An unwavering conduit's eidolon must be of a lawful alignment (if using the unchained summoner, the eidolon must be of the archon, devil, or inevitable subtype). Once selected, the evolutions of the unwavering conduit's eidolon cannot be changed when a new class level is gained (though they can be altered normally with the *transmogrify* spell). At least half the eidolon's skill points must be spent on skills in which the unwavering conduit also has ranks. The eidolon gains a +1 resistance bonus on saving throws against spells and abilities of the conjuration, enchantment, and transmutation schools. This bonus increases to +2 at 3rd level, and by an additional 1 for every 3 levels thereafter. The eidolon has 1 fewer evolution point than normal for an eidolon of the unwavering conduit's summoner level. This ability alters eidolon.
+
+**Unwavering Monsters**: Since an unwavering conduit's power is drawn from planar energies aligned with law, all the creatures he summons must be of a lawful alignment. If a creature would normally be celestial or fiendish, it is instead a resolute creature. This also causes the unwavering conduit's summoning power to be more set than a standard summoner's. Beginning at 3rd level, each time he uses summon monster to summon multiple monsters, rather than rolling a die to see how many creatures he summons, he receives a specific number (two creatures for 1d3, or four creatures for 1d4+1). If an item, spell, or ability would increase the number of creatures summoned, the set number increases by that amount.
+
+Also, starting at 2nd level, creatures summoned by the unwavering conduit receive a +1 resistance bonus on saving throws against spells and abilities of the conjuration, enchantment, and transmutation schools. This bonus increases to +2 at 6th level, and by an additional 1 every 4 class levels thereafter. This ability alters summon monster.
+
+**Law Magic**: The unwavering conduit gains the following bonus spells known at the listed spell level: 1st—*protection from chaos*, 2nd—*arrow of law*, 3rd—*magic circle against chaos*, 4th—*order's wrath*, 5th—*dispel chaos*, 6th—*dictum*. The unwavering conduit gains one fewer spell known per spell level for spell levels 1–6. This ability alters the summoner's spells known.
