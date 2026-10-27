@@ -658,6 +658,48 @@ You spark notes of joy and freedom in your listeners.
 
 **Action**: 1 round.
 
+### The Dance of Kindled Desires (Dance)
+
+Each sway and shake of your hips calls up another temptation from the depths of the infernal planes until your spectator, hapless and drooling, finally succumbs and freely offers up his life, honor, or very soul for just a taste of what you have proffered.
+
+**Prerequisite**: Perform (dance) 5 ranks.
+
+**Cost**: Feat or 2nd-level bard spell known.
+
+**Effect**: Your dance entices one creature within 30 feet that is able to see you, invoking every imaginable vice and craving until finally the desire the creature personally finds most appealing overwhelms its thoughts. You always know what your target wants, and, if you have the means to provide it, can offer it to the creature in exchange for a specific service. The creature can resist this effect with a successful Will saving throw, and creatures never agree if you offer services that are physically impossible or obviously suicidal, or if you lie about having the means to fulfill the desire in question. The service can never take more than a day to complete, and the affected creature gains a +2 bonus on its saving throw if the service requires more than an hour to complete.
+
+**Use**: 3 bardic performance rounds.
+
+**Action**: 3 full rounds.
+
+### Melody of Frightful Death (String)
+
+The pain and horror of the demonic planes shrieks through your instrument to make a listener experience the death she dreads most.
+
+**Prerequisite**: Perform (string) 7 ranks.
+
+**Cost**: Feat or 3rd-level bard spell known.
+
+**Effect**: You produce a sound that causes creatures to believe they are suffering a particularly ghastly and terrifying death, such as immolation, freezing to death, or being eaten alive by insects. When you complete this performance, all creatures within 30 feet who can hear your performance must make a successful Will saving throw or take 1d6 points of energy damage. The energy type can be either acid, cold, or fire (your choice, chosen when you begin performing the masterpiece). Affected creatures that fail their saving throws take damage on the round you begin the performance and each round you continue the performance as long as they remain in range. Abilities that extend the duration of a bardic performance affect this masterpiece.
+
+**Use**: 1 bardic performance round per round.
+
+**Action**: 1 standard action.
+
+### The Rheumy Refrain (Sing)
+
+Your strange melody of hacking gasps and pained wheezes draws upon dark powers to fill a witness with debilitating and distracting phlegm.
+
+**Prerequisite**: Perform (sing) 5 ranks.
+
+**Cost**: Feat or 2nd-level bard spell known.
+
+**Effect**: Your song emulates the sounds of a terrible illness, causing one creature you are aware of who can hear your song to develop a psychosomatic flu. If the target fails its Will save, whenever it attempts any action other than moving up to its base speed or making a single melee attack (but not both) in a single round, it must succeed at a concentration check (DC 10 + your Charisma modifier) to avoid wasting its action because of a fit of coughing and sneezing.
+
+**Use**: 1 bardic performance round per round.
+
+**Action**: 1 standard action.
+
 ## Animal Speaker
 
 An animal speaker focuses not on the ears and minds of humans, but on the creatures of the wild and those in the underbellies of cities.

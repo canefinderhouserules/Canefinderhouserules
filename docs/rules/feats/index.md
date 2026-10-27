@@ -1503,6 +1503,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Amplified Radiance](amplified-radiance.md) | Teamwork | Aasimar, daylight racial spell-like ability |
 | [Anatomical Savant](anatomical-savant.md) | Combat | Weapon Focus, base attack bonus +12 |
 | [Ancestral Enmity](ancestral-enmity.md) | Combat | Giant subtype |
+| [Ancestral Scorn](ancestral-scorn.md) | — | Intimidate 5 ranks, tiefling |
 | [Ancestral Weapon Mastery](ancestral-weapon-mastery.md) | Combat | Base attack bonus +1, weapon familiarity racial trait |
 | [Ancient Tradition](ancient-tradition.md) | — | Knowledge (history) 3 ranks, must have a connection to a lost culture (see text) |
 | [Angelbane Strike](angelbane-strike.md) | — | Channel Smite, divine caster level 5th, channel negative energy class feature, evil patron deity |
@@ -1552,6 +1553,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Balor Whip](balor-whip.md) | Combat | Weapon Focus (whip), Whip Mastery, base attack bonus +8 |
 | [Baneful Judgment](baneful-judgment.md) | Combat | Bane class feature, judgment class feature, monster lore class feature |
 | [Banishing Critical](banishing-critical.md) | Critical | Arcane Strike or Disruptive; Spellcraft 8 ranks; arcane pool class feature |
+| [Banner of Doom](banner-of-doom.md) | Combat | Base attack bonus +8, banner class feature, tiefling |
 | [Barrage of Styles](barrage-of-styles.md) | Combat, Teamwork | Base attack bonus +1, human |
 | [Bastion Stance](bastion-stance.md) | Combat | Con 13, proficiency with heavy armor and shields |
 | [Bat Shape](bat-shape.md) | — | Cha 13, werebat-kin |
@@ -1575,6 +1577,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Blinded Competence](blinded-competence.md) | Combat | Blinded Blade Style, Blind-Fight, Improved Blind-Fight, Perception 10 ranks |
 | [Blinded Master](blinded-master.md) | Combat | Blind-Fight, Blinded Blade Style, Blinded Competence, Greater Blind-Fight, Improved Blind-Fight, Perception 15 ranks |
 | [Blinding Light](blinding-light.md) | — | Inner Light, aasimar, *daylight* spell-like ability |
+| [Blinding Sneak Attack](blinding-sneak-attack.md) | Combat | Base attack bonus +5, *darkness* spell-like ability, sneak attack class feature, tiefling |
 | [Blinding Stare](blinding-stare.md) | Combat, Stare | Mesmerist level 7th, painful stare class feature |
 | [Blissful Spell](blissful-spell.md) | Metamagic | — |
 | [Blood Tide](blood-tide.md) | Combat | Combat Expertise, Greater Blood Frenzy, base attack bonus +6, blood frenzy ability, sahuagin |
@@ -1899,6 +1902,9 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Fey Friend](fey-friend.md) | — | Worshiper of a deity of the fey |
 | [Fey Spell Lore](fey-spell-lore.md) | — | Cha 13, Spellcraft 1 rank, ability to cast druid spells |
 | [Fey Spell Versatility](fey-spell-versatility.md) | — | Cha 13, Spellcraft 1 rank, ability to cast ranger spells |
+| [Fiendish Darkness](fiendish-darkness.md) | — | *Darkness* spell-like ability, tiefling |
+| [Fiendish Facade](fiendish-facade.md) | — | Must be taken at 1st level, tiefling |
+| [Fiendish Resilience](fiendish-resilience.md) | — | Dex 13, evasion class feature, tiefling |
 | [Fiendskin](fiendskin.md) | Damnation | Patronage of an evil outsider |
 | [Fighting Frenzy](fighting-frenzy.md) | Combat, Teamwork | Cha 13, rage class feature |
 | [Figment’s Fluidity](figments-fluidity.md) | Familiar | Must have a familiar with the figment archetype |
@@ -1946,6 +1952,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Friendly Rivalry](friendly-rivalry.md) | Combat, Teamwork | Human |
 | [Friendly Shroud](friendly-shroud.md) | — | Stealth 1 rank |
 | [Frightening Ambush](frightening-ambush.md) | Combat | Intimidate 1 rank |
+| [Fury of the Tainted](fury-of-the-tainted.md) | Combat | Cha 13, rage class feature, tiefling |
 | [Gaze Reflection](gaze-reflection.md) | — | Spellcraft  10 stare and ranks, bold mesmerist tricks class features |
 | [Ghostbane Ichor](ghostbane-ichor.md) | — | Knowledge (religion) 9 ranks, vishkanya |
 | [Giant Vendetta](giant-vendetta.md) | Story | You must have been knocked unconscious in an encounter with a challenging giant foe or have a background tied to giants |
@@ -2032,7 +2039,10 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Improved Disarm Partner](improved-disarm-partner.md) | Combat, Teamwork | [Disarm Partner](disarm-partner.md), base attack bonus +5 |
 | [Improved Elemental Counterspell](improved-elemental-counterspell.md) | — | Two basic blast wild talents from two different elements, expanded element class feature, kinetic blast class feature |
 | [Improved Familiar Bond](improved-familiar-bond.md) | — | Familiar Bond, Iron Will |
+| [Improved Fiendish Darkness](improved-fiendish-darkness.md) | — | Fiendish Darkness, *darkness* spell-like ability, caster level 3rd, tiefling |
+| [Improved Fiendish Sorcery](improved-fiendish-sorcery.md) | — | Fiendish sorcery racial trait, tiefling |
 | [Improved Forceful Charge](improved-forceful-charge.md) | Animal Companion | Forceful Charge, Improved Bull Rush, Power Attack, animal companion |
+| [Improved Fury of the Tainted](improved-fury-of-the-tainted.md) | Combat | Cha 13, Fury of the Tainted, base attack bonus +8, rage class feature, tiefling |
 | [Improved Gaseous Form](improved-gaseous-form.md) | — | Vampire |
 | [Improved Horse Whisperer](improved-horse-whisperer.md) | — | Horse Whisperer, Handle Animal 5 ranks, Ride 5 ranks |
 | [Improved Legendary Influence](improved-legendary-influence.md) | — | Legendary Influence, lesser spirit power and propitiation class features |
@@ -2162,6 +2172,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Monster Spotter](monster-spotter.md) | — | Skill Focus (Knowledge [any]), Knowledge (any) 3 ranks |
 | [Monstrous Crafter](monstrous-crafter.md) | — | Craft Wondrous Item, Grisly Ornament, Harvest Parts |
 | [Monstrous Disguise](monstrous-disguise.md) | — | Disguise 5 ranks, Knowledge (nature) 5 ranks |
+| [Monstrous Mask](monstrous-mask.md) | — | Tiefling, must be taken at 1st level |
 | [Monstrous Masquerade](monstrous-masquerade.md) | — | Monstrous Disguise, Disguise 9 ranks, Knowledge (nature) 9 ranks |
 | [Monstrous Mount](monstrous-mount.md) | — | Handle Animal 4 ranks, Ride 4 ranks, divine bond (mount), hunter’s bond (animal companion), or mount class feature with an effective druid level of 4 |
 | [Monstrous Mount Mastery](monstrous-mount-mastery.md) | — | Monstrous Mount, character level equal to or higher than that listed in your mount’s Mastery entry |
@@ -2297,6 +2308,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Read Spell Traces](read-spell-traces.md) | — | — |
 | [Ready for Anything](ready-for-anything.md) | Combat | Alertness, Improved Initiative, Lightning Reflexes, Quick Draw, base attack bonus +6 or uncanny dodge class feature |
 | [Reap the Infirm](reap-the-infirm.md) | Combat | Base attack bonus +3 |
+| [Reckless Aim](reckless-aim.md) | Combat | Point-Blank Shot, Precise Shot |
 | [Redirect Attack](redirect-attack.md) | Combat | Dex 15, Int 15, Dodge |
 | [Redirected Shot](redirected-shot.md) | Combat, Grit | Amateur Gunslinger or the grit class feature, Deadly Aim, Point-Blank Shot, Precise Shot |
 | [Redistributed Might](redistributed-might.md) | Combat | Con 13 or Wis 13, Exotic Weapon Proficiency (dueling sword), Iron Will, base attack bonus +4 |
@@ -2549,6 +2561,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Tenacious Spell](tenacious-spell.md) | Metamagic | — |
 | [Terrifying Assassination](terrifying-assassination.md) | — | Assassinate ninja master trick, assassinate slayer advanced talent, or death attack |
 | [Terrifying Assault](terrifying-assault.md) | Combat | Frightening Ambush, Intimidate 5 ranks |
+| [Terrifying Mask](terrifying-mask.md) | — | Cha 13, Monstrous Mask, tiefling |
 | [Thicket Channel](thicket-channel.md) | — | Channel energy 7d6, worshiper of a deity of the hunt and farming |
 | [Threatening Negotiator](threatening-negotiator.md) | — | Nerve-Racking Negotiator, Persuasive, Skill Focus (Intimidate) |
 | [Thrilling Vengeance](thrilling-vengeance.md) | Combat, Performance | Base attack bonus +3, rage class feature |
@@ -2649,6 +2662,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Weather Eye](weather-eye.md) | — | Survival 3 ranks, must worship nature |
 | [Weathered Warrior](weathered-warrior.md) | Combat | Endurance |
 | [Welcome Pain](welcome-pain.md) | — | Iron Will, worshiper of a deity of pain |
+| [Wicked Valor](wicked-valor.md) | — | Con 15, Diehard, Endurance, tiefling |
 | [Wild Speaker](wild-speaker.md) | General | Bleachling racial trait, gnome |
 | [Willing Accomplice](willing-accomplice.md) | — | Cha 13, Bluff 3 ranks, Sense Motive 1 rank |
 | [Wily Warrior](wily-warrior.md) | Story | See text |

@@ -140,11 +140,43 @@ Only ratfolk may select one of these traits.
 
 Only tieflings may select one of these traits.
 
+**Anticipate Evil**: You can read subtle clues in the body language of fiends, allowing you to react just a bit faster than normal when dealing with such beings. You gain a +1 trait bonus on opposed Dexterity-based skill checks against outsiders with the evil subtype. In addition, when your initiative is tied with such creatures, you always act first regardless of which of you has a higher initiative modifier.
+
+**Beast Bully**: You have learned how to exploit the fear felt by creatures of the natural world when they sense the shadow in your soul. You can make an Intimidate check instead of a Handle Animal check when trying to handle or push an animal.
+
+**Blessing of Darkness**: Your innate connection with the powers of darkness serves you well when evil zealots pray on your behalf. Whenever a spellcaster capable of channeling negative energy casts a beneficial spell on you, she acts as if she were one level higher for the purpose of determining that spell's effects.
+
+**Born Damned**: The inherent sacrilege that taints your soul sometimes crowds out lesser banes. You gain a +2 trait bonus on saving throws against curses and magical effects that produce curses.
+
+**Dark Magic Affinity**: You have an instinctive talent for unleashing the vilest spells, letting the taint in your blood empower your malicious magic. Whenever you cast a spell with the evil descriptor, you act as if you were one level higher for the purpose of determining that spell's effects.
+
 **Enduring Heritage**: You can channel your evil ancestry to take advantage of any effects for which such an identity would matter (such as *detect evil*). You detect as an evil outsider with the same number of HD as you possess. You can begin or end this effect as a swift action. You can maintain this effect for a number of rounds per day equal to your HD.
 
+**Ever Wary**: Constant fear that your fiendish nature might provoke a sudden attack ensures that you never completely let down your guard. During the surprise round and before your first action in combat, you can apply half your Dexterity bonus (if any) to your AC. You still count as flat-footed for the purposes of attacks and effects.
+
+**Family Connections**: Your dark ancestry gives you a special insight into how to motivate or placate fiends and their kin. You gain a +2 trait bonus on Bluff and Diplomacy checks made against outsiders belonging to the evil subtype.
+
 **Fiendish Sniper**: You instinctively hide after you shoot your opponents, waiting for an opportune moment to strike again. You gain a +5 trait bonus on Stealth checks following a sniping attack.
+**Friendless**: You have grown used to looking after yourself without help. You can make Heal checks on yourself for the purposes of treating deadly wounds, diseases, and poisons.
+
+**Inciter**: You always seem to know the perfect words to sow discord. You gain a +2 trait bonus on Bluff checks made to convince creatures to attack each other.
+
 **Malign Instrument**: Select a good-aligned deity. Add 1 to the DCs of your spells' saves when targeting a good-aligned outsider or divine spellcaster who serves that deity.
 
+
+**Motherless**: Your birth killed your mother, and you learned, even before words, how to manipulate others into looking after you. You gain a +2 trait bonus on Bluff and Disguise checks made for the purpose of making you seem injured, sickly, or weak in some other way.
+
+**Prideful Temper**: Memories of the cruel abuse and taunts you suffered as a child cause you to strike back with great fury at anyone who slanders you. You gain a +1 trait bonus on attack rolls made against creatures that have insulted you until you actually succeed in dealing damage.
+
+**Prolong Magic**: Constant drills and preparation allow you to get more out of your innate magic. Whenever you use a spell-like ability gained through your tiefling heritage, it automatically acts as if affected by the Extend Spell metamagic feat.
+
+**Shadow Stabber**: An instinct for dishonorable conduct serves you well when fighting opponents who are blind, oblivious, or blundering around in the dark. You gain a +2 trait bonus on melee weapon damage rolls made against foes that cannot see you.
+
+**Suicidal**: Shame and horror fill your subconscious, and you never stop looking for ways to grant yourself the peace of the grave. Once per day, as an immediate action, you can make yourself the target of any attack originally directed against a creature occupying an adjacent square.
+
+**Twilight Zeal**: The gloom of night and of the places beyond the reach of the sun gives you comfort and courage. You gain a +1 trait bonus on Will saving throws when in dim light or darkness.
+
+**Underling**: People tend to assume you either are, or are willing to become, a minor cog in some evil cabal or conspiracy. You gain a +2 trait bonus on Bluff and Diplomacy checks made to either join or imply that you already belong to an evil organization.
 
 ## Ifrit Traits
 

@@ -1027,6 +1027,30 @@ One of your ancestors paid the ultimate price for her beliefs. This distant rela
 
 *Eternal Martyr (Su)*: At 20th level, your ancestor's act of martyrdom infuses your spirit. You become immune to death effects. Material components for spells and effects to bring you back to life (such as *raise dead* or *resurrection*) cost half as much as normal. Your body cannot be turned into an undead creature, as though you were affected by a permanent *hallow* effect (caster level equal to your sorcerer level).
 
+## Daemon Bloodline
+
+A daemon lurks somewhere along your family tree. Your powers derive from these soul-devouring fiends, who take pleasure and gain power from manipulating mortal frailties like aging, pestilence, famine, and the horrors of war. Your lineage gives you great insight into how to exploit the weaknesses of living beings and how to use leeched soul energy to enhance your wicked abilities.
+
+**Class Skill**: Heal.
+
+**Bonus Spells**: *ray of enfeeblement* (3rd), *touch of idiocy* (5th), *vampiric touch* (7th), *contagion* (9th), *blight* (11th), *circle of death* (13th), *waves of exhaustion* (15th), *horrid wilting* (17th), *soul bind* (19th).
+
+**Bonus Feats**: Diehard, Endurance, Fast Healer, Great Fortitude, Heroic Defiance, Heroic Recovery, Sickening Spell, Toughness.
+
+**Bloodline Arcana**: Whenever you cast a spell that kills one or more living creatures with an Intelligence score of 3 or higher, the caster level of any spell you cast in the next round increases by +1 for each creature your first spell killed. This ability does not stack with other effects that increase your effective caster level, and you cannot gain a bonus greater than 1/2 your Charisma modifier (minimum 1). The second spell you cast must be of an equal or lower level than the first one.
+
+**Bloodline Powers**: Like that of a daemon, your magic derives from painful and lingering death.
+
+*Wasting Ray (Sp)*: At 1st level, as a standard action, you can impose either starvation or thirst upon a living creature you can see within 30 feet. This requires the creature to make a Constitution check each round (DC 10 + 1 for each previous check) to avoid taking 1d6 points of nonlethal damage. The creature must continue to make these checks until, as a full-round action, it quenches its thirst or sates its hunger. You can use this ability a number of times per day equal to 3 + your Charisma modifier, but can only apply it once every 24 hours to any given creature. Creatures that do not need to eat are immune to this effect.
+
+*Daemonic Resistances (Ex)*: At 3rd level, you gain resist acid 5 and a +2 bonus on saving throws made against poison and death effects. At 9th level, your resistance to acid increases to 10 and your bonus on saving throws against poison and death effects increases to +4.
+
+*Age Out (Su)*: At 9th level, you gain the ability to instantly recover from most harmful effects by temporarily aging yourself decades in a matter of moments. As a standard action, you can shift your effective age to the next highest aging step (for example, from adulthood to middle age). Each time you do this, any debilitating condition or effect currently affecting you that initially allowed a Will or Fortitude saving throw immediately ends. When you age yourself in this way, you take the normal penalties associated with growing older but gain none of the benefits. You cannot use this power to age beyond venerable, recover hit point damage, or remove effects that did not or do not allow a Will or Fortitude saving throw to negate. You return to your actual age 24 hours after the last time you used this ability, and all penalties to ability scores as a result of advanced age are then removed.
+
+*Wound Warp (Sp)*: At 15th level, you gain the ability to travel across the battlefield by literally erupting from the fatal wounds of deceased creatures. As a standard action once per day, you can teleport to an unoccupied square adjacent to any dead creature within 10 feet per caster level. Any creatures adjacent to the square you teleport to take 4d6 points of acid damage as you burst into being and shower them with acidic bile. Creatures that make successful Reflex saves (DC 10 + 1/2 your sorcerer level + your Charisma modifier) take half damage. This ability otherwise functions like *dimension door*. At 20th level, you can use this ability twice per day.
+
+*Heir of Famine and Death (Su)*: At 20th level, your body embraces the unspeakable power of your daemon lineage. You gain immunity to acid, death effects, and poison. You also gain DR 5/good or silver and resistance to cold 10, electricity 10, and fire 10.
+
 ## Seeker
 
 Oracles and sorcerers gain their magical powers through strange and mysterious ways, be they chosen by fate or blood. Some join explorers’ societies specifically to find out more about their mysteries and bloodlines and determine the genesis and history of their eldritch talents. These spellcasters are known as seekers, after their obsession with researching ancient texts and obscure ruins for any clues they can find about their heritage and histories.

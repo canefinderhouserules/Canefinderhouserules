@@ -42,6 +42,8 @@ Tieflings seldom see another of their own kind, and thus they usually simply ado
 
 ## Alternate Racial Traits
 
+See also the ten [Tiefling Heritages](tiefling-heritages.md), which replace the default racial traits wholesale.
+
 The following racial traits may be selected instead of existing tiefling racial traits. Consult your GM before selecting any of these new options.
 
 **Beguiling Liar**: Many tieflings find that the best way to get along in the world is to tell others what they want to hear. These tieflings’ practice of telling habitual falsehoods grants them a +4 racial bonus on Bluff checks to convince an opponent that what they are saying is true when they tell a lie. This racial trait replaces skilled.
@@ -87,6 +89,20 @@ Tieflings have access to the following equipment.
 - [Expanded Fiendish Resistance](../../rules/feats/expanded-fiendish-resistance.md)
 - [Fiend Sight](../../rules/feats/fiend-sight.md)
 - [Grasping Tail](../../rules/feats/grasping-tail.md)
+- [Ancestral Scorn](../../rules/feats/ancestral-scorn.md)
+- [Banner of Doom](../../rules/feats/banner-of-doom.md)
+- [Blinding Sneak Attack](../../rules/feats/blinding-sneak-attack.md)
+- [Fiendish Darkness](../../rules/feats/fiendish-darkness.md)
+- [Fiendish Facade](../../rules/feats/fiendish-facade.md)
+- [Fiendish Resilience](../../rules/feats/fiendish-resilience.md)
+- [Fury of the Tainted](../../rules/feats/fury-of-the-tainted.md)
+- [Improved Fiendish Darkness](../../rules/feats/improved-fiendish-darkness.md)
+- [Improved Fiendish Sorcery](../../rules/feats/improved-fiendish-sorcery.md)
+- [Improved Fury of the Tainted](../../rules/feats/improved-fury-of-the-tainted.md)
+- [Monstrous Mask](../../rules/feats/monstrous-mask.md)
+- [Reckless Aim](../../rules/feats/reckless-aim.md)
+- [Terrifying Mask](../../rules/feats/terrifying-mask.md)
+- [Wicked Valor](../../rules/feats/wicked-valor.md)
 
 ## Magic Items
 

@@ -40,6 +40,7 @@ Sixteen further races, each with alternate racial traits, favored class options,
 - [Sylphs](sylphs.md)
 - [Tengus](tengus.md)
 - [Tieflings](tieflings.md)
+- [Tiefling Heritages](tiefling-heritages.md): ten fiendish bloodlines that replace the default tiefling traits, plus a d% table of variant abilities.
 - [Undines](undines.md)
 
 ## Advanced Race Guide Uncommon Races

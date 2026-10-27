@@ -351,6 +351,38 @@ Effects that kill you or do not reduce you to negative hit points (such as abili
 
 **Hallowed Rite (Su)**: At 8th level, you gain the ability to conduct a sacred funeral rite. This rite takes 1 day, during which you perform the necessary chants and prayers and burn incense. At the end of the rite you must oversee the burial of the corpse. The burial must take place within 24 hours of the preparation or the ritual fails. Once the body is interred, it cannot be turned into an undead creature, as though it were under the effect of a *hallow* spell (caster level equal to your inquisitor level).
 
+### Damnation Inquisition
+
+**Deities**: Any evil deity of law, death, or torment.
+
+**Granted Powers**: The prospect of an afterlife filled with torment can cause even the most stalwart to blanch—at least for a moment.
+
+**Fear the Flames (Su)**: You can give a creature you can see within 60 feet one chance to avoid an eternity of suffering by ordering it to carry out any one simple action that would take no more than 1 round to complete. Good and neutral creatures that refuse become shaken for 1 round (Will negates), while evil creatures that obey gain a +2 morale bonus on all rolls and checks made for 1 round. You can use this ability a number of times per day equal to 3 + your Wisdom modifier. This is a language-dependent, mind-affecting effect.
+
+**Collector of Souls (Sp)**: At 8th level, once per day as a standard action, you call forth an illusory fiend and order it to temporarily drag a living and sentient creature into an afterlife of pain and misery. This otherwise acts identically to *phantasmal killer*, except targets that fail their Fortitude saving throws become paralyzed for a number of rounds equal to 1d4 + your inquisitor level instead of dying.
+
+### Possession Inquisition
+
+**Deities**: Any evil deity of magic, secrets, lust, or undeath.
+
+**Granted Powers**: You can invade the bodies of lesser beings and command them to bend to your will.
+
+**Self-Control (Ex)**: You possess remarkable control over your own body, and gain a +2 competence bonus on saving throws made against enchantment spells of the charm or compulsion subschool.
+
+**Beast Ride (Su)**: At 4th level, once per day as a standard action, you can vacate your body and inhabit that of any creature belonging to the animal type within 30 feet for a number of rounds up to your inquisitor level. While you are possessing an animal in this way, your own body becomes helpless and unaware. You can travel any distance from your body so long as you remain on the same plane, and can return to your own body as a free action at any time. If the animal or your body takes damage, or you attempt to make the animal attack or do anything out of character, the effect immediately ends and you return to your own body.
+
+**Body Snatch (Sp)**: At 10th level, once per day as an immediate action upon falling unconscious because of dropping below 0 hit points, you can cast your soul from your body and attempt to occupy the body of another creature within 30 feet. This ability otherwise functions identically to *magic jar* except that your actual body serves as the receptacle and you suppress the consciousness of your target rather than casting it out. Your body continues to bleed as normal unless it is somehow stabilized, and if its hit points drop to a negative number equal to your Constitution score, the *magic jar* effect prematurely ends and you die as normal.
+
+### Sin Inquisition
+
+**Deities**: Any evil deity of vice, greed, pride, or ruin.
+
+**Granted Powers**: You know how to stoke the seven sins in others (envy, gluttony, greed, lust, pride, sloth, and wrath), and twist their dark desires to suit your own purposes.
+
+**Sin Sense (Su)**: As a full-round action, you can determine which sin most strongly influences a target by quickly reading its mind. Once you learn this fact, you gain a +4 bonus on your next Charisma-based skill check made against the target as long as it somehow incorporates a temptation that relates to that sin. You can use this ability a number of times per day equal to 3 + your Wisdom modifier. This is a mind-affecting effect.
+
+**Indulge (Su)**: At 8th level, once per day as a standard action, you can awaken a creature's vice and overwhelm its senses with urgency. You must decide to use this ability before using your sin sense ability on a creature, and the target receives a Will save to negate the effect. If the creature fails its saving throw, for the next 24 hours, whenever the affected creature is given an opportunity to indulge in its favored sin, that creature must yield to the impulse or make a second Will saving throw to avoid becoming sickened for 1 minute. This is a mind-affecting effect.
+
 ## Exorcist
 
 Some inquisitors, as they learn more about the threat of possession and the machinations of the planes, task themselves to expel possessing spirits and conniving outsiders from the world whenever possible. Eventually they learn the secret of the verdicts of exorcism, exile, and anathema.
