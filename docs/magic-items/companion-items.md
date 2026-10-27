@@ -1738,3 +1738,117 @@ This stylish silk shirt has a loose and flowing fit except for the sleeves, whic
 These sturdy leather robes are edged in fine linen embroidered with runes and holy symbols. If worn by a creature capable of casting divination spells who worships a specific deity, the embroidery shifts to depict symbols and icons appropriate to the wearer's faith. The robes act as a divine focus for such wearers, allowing spells requiring a divine focus to be cast without the need to hold any other holy symbol. Additionally, if the wearer can channel energy, she can do so one additional time per day. If the wearer can lay on hands, she instead gains two additional uses of that ability per day. If the wearer has the fervor class feature, she instead gains two additional uses of fervor per day.
 
 **Construction Requirements:** Craft Wondrous Item, *divine favor*, *righteous might*; **Cost** 7,000 gp
+
+## Magic Tactics Items
+
+### Gravitic Force Rod
+
+**Slot** none; **CL** 15th; **Price** 60,000 gp; **Weight** 4 lbs.
+
+**Aura** strong transmutation
+
+This heavy leaden rod is carved with a series of glyphs that resemble elemental writing. It has a single activation stud at its base. A creature can activate the rod by pressing the stud or by placing the rod on the ground. Once activated, the rod creates a field of intensified gravity within a 100-foot radius. Creatures within the area weigh twice as much as normal, can move only at half speed, can jump only half as far as normal, and can lift and carry only half as much as normal. Any flying target has its maneuverability worsened by two steps (from good to poor, for example; minimum clumsy) and plummets to the ground unless it succeeds at a DC 25 Fly check.
+
+**Construction Requirements:** Craft Rod, *reverse gravity*; **Cost** 30,000 gp
+
+### Rod of Hindered Healing
+
+**Slot** none; **CL** 7th; **Price** 30,000 gp; **Weight** 4 lbs.
+
+**Aura** moderate necromancy
+
+This black steel rod is capped by a circular pattern of pristine human finger bones. While held by a living creature, the rod radiates a moderate aura of negative energy that affects magical healing within a 60-foot radius of the wielder. Living creatures within this area must succeed at a DC 16 Will saving throw whenever they are subject to magic healing or receive only half the normal amount of healing.
+
+**Construction Requirements:** Craft Rod, *inflict critical wounds*; **Cost** 15,000 gp
+
+### Rod of Perilous Pits
+
+**Slot** none; **CL** 5th; **Price** 25,000 gp; **Weight** 4 lbs.
+
+**Aura** faint enchantment
+
+This rod roughly resembles a torch with a small brass cage at the end. The wielder can cast any spell of 3rd level or lower into the rod. The rod can contain one spell at a time; casting a new spell into it replaces the older one. As long as a spell is contained within the rod, the brass cage glows as brightly as a candle. The wielder of a rod of perilous pits can use the rod when casting a pit spell (*create pit*, *hungry pit*, and similar spells with "pit" in their names). Doing so changes that spell's casting time to a full-round action (or adds 1 round, if the casting time is already at least 1 full round). After successfully casting the pit spell, the rod's wielder can choose to manifest the contained spell inside the summoned pit. The contained spell manifests at the bottom of the pit, but does so after creatures have attempted their initial saves to avoid falling in. This allows the caster to center spells with a duration of instantaneous (such as *fireball*) or spells with longer durations (such as *stinking cloud*) within the pit.
+
+**Construction Requirements:** Craft Rod, *create pit*, creator must be a caster of at least 12th level; **Cost** 12,500 gp
+
+### Rod of Spellsight
+
+**Slot** none; **CL** 13th; **Price** 12,000 gp; **Weight** 6 lbs.
+
+**Aura** strong divination
+
+This beautiful ivory rod is embedded with countless sapphires and covered with intricate designs inlaid in silver. The vision of a rod of spellsight's wielder is unaffected by any magical cloud, fog, mist, smoke, or vapor effect. This allows the wielder to see through the effects of *fog cloud*, *obscuring mist*, and even *incendiary cloud*. The rod does not protect the wearer against blinding effects such as *blindness/deafness* or the blinding effect of *glitterdust*.
+
+**Construction Requirements:** Craft Rod, *gust of wind*, *true seeing*; **Cost** 6,000 gp
+
+### Rod of Minor Curses
+
+**Slot** none; **CL** 5th; **Price** 20,000 gp; **Weight** 4 lbs.
+
+**Aura** faint necromancy
+
+This rod functions as a +1 *light mace* and resembles the distorted femur of some monstrous creature. Up to three times per day when the wielder damages a creature with the rod, as a free action, the wielder can force the target to attempt a DC 14 Will save. On a failure, the creature suffers a minor curse. The wielder selects which of the following curses affects the target: –2 penalty to Strength (target's Strength cannot be reduced below 1); –1 penalty on attack rolls, saves, ability checks, and skill checks; or target has a 20% chance to begin each round with the staggered condition. On a successful critical hit, the wielder can inflict two distinct curses if the target fails its save. Otherwise, a target can be subject to only one curse at a time. Curses inflicted from the rod of minor curses last for 5 minutes. They can also be removed with any spell that can remove the effects of *bestow curse*.
+
+**Construction Requirements:** Craft Magic Arms and Armor, Craft Rod, *bestow curse*; **Cost** 10,000 gp
+
+### Rod of Tangling Ectoplasm
+
+**Slot** none; **CL** 5th; **Price** 18,000 gp; **Weight** 5 lbs.
+
+**Aura** faint evocation
+
+This lengthy rod looks like a walking cane with a stylized crystal skull at its top. As a standard action up to three times per day, the wielder can slam the base of the rod into the ground while designating a target within 60 feet. Grasping hands of ectoplasm manifest from the ground surrounding the target in a 5-foot radius. Creatures within the radius must succeed at a DC 14 Reflex save or they are entangled by the grasping hands and unable to move more than 10 feet from the affected area (as if snared by a net with a trailing rope). Creatures moving through the ectoplasm must also succeed at a Reflex save or be entangled. As a standard action, a creature entangled by the ectoplasm can attempt an additional DC 14 Reflex save to attempt to escape and end the effect. The summoned ectoplasm lasts for 10 rounds before disappearing.
+
+**Construction Requirements:** Craft Rod, *ectoplasmic snare*; **Cost** 9,000 gp
+
+### Lore Needle
+
+**Slot** head; **CL** 3rd; **Price** 4,000 gp; **Weight** —
+
+**Aura** faint transmutation
+
+This thick silver needle is approximately 6 inches long and can be carefully inserted into the brain of a willing or helpless target in order to magically expand the target's knowledge. Implanting a lore needle takes 10 minutes and requires a successful DC 15 Heal check. A user can insert the needle into her own head with a successful DC 25 Heal check. On a failure, the needle deals 2 points of Constitution damage and 2 points of Intelligence damage to the target and is not implanted. A creature with an implanted lore needle can, up to three times per day when attempting a Knowledge check, apply to that check its bonus on any other single Knowledge skill in which it is trained.
+
+**Construction Requirements:** Craft Wondrous Item, *modify memory*; **Cost** 2,000 gp
+
+### Monster Killer's Folio
+
+**Slot** none; **CL** 5th; **Price** 16,000 gp; **Weight** 2 lbs.
+
+**Aura** faint divination and evocation
+
+This collection of gruesome anatomical diagrams is bound in leather that shifts slightly under the reader's fingertips. The book's many illustrations provide information about how to best wound a variety of creature types, and the book emits light equivalent to that of a candle within 5 feet, allowing it to be read in the dark. The owner can use this folio to gain a +5 bonus on Knowledge checks to identify a creature's special powers or vulnerabilities. A monster killer's folio has a tendency to quickly open to the appropriate page when consulted, as though eager to provide information that will lead to violence. Additionally, once per day the book can be used to cast *discovery torch*.
+
+**Construction Requirements:** Craft Wondrous Item, *discovery torch*, *know the enemy*; **Cost** 8,000 gp
+
+### Rod of Subtle Menace
+
+**Slot** none; **CL** 5th; **Price** 12,305 gp; **Weight** 5 lbs.
+
+**Aura** faint enchantment and transmutation
+
+This crude shaft of blackened steel functions as a +1 *light mace*. Those who can see the wielder of the rod feel a vague sense of being in danger. This ominous aura is faint but encourages others to avoid angering the wielder, although they may not realize why. When holding the rod in her hand, the wielder can attempt an Intimidate check in place of a Diplomacy check when trying to gather information and always counts as larger than its target for the purpose of Intimidate checks.
+
+**Construction Requirements:** Craft Magic Arms and Armor, Craft Rod, *bane*; **Cost** 6,152 gp
+
+### Saccadic Focusing Prism
+
+**Slot** none; **CL** 3rd; **Price** 2,400 gp; **Weight** 1 lb.
+
+**Aura** faint divination
+
+When this large, clear prism is held between the user and a text, it allows the user to read that text quickly and still obtain a complete understanding. The time needed to read any nonmagical text with a saccadic focusing prism is reduced to one-tenth the time the user would normally require. The time required to gain a benefit from any magical text (such as a *tome of clear thought* or a *manual of war*) is halved. This has no impact on the time required to learn spells or extracts from written sources.
+
+**Construction Requirements:** Craft Wondrous Item, *comprehend languages*, *haste*; **Cost** 1,200 gp
+
+### Sigil Chalk
+
+**Slot** none; **CL** 7th; **Price** 2,000 gp; **Weight** —
+
+**Aura** moderate divination
+
+This short stick of grayish chalk is flecked with mithral. When the chalk's bearer succeeds at a Knowledge check to identify a monster's special powers or vulnerabilities, he can take a standard action to draw a 1-foot-wide runic shape in the air that represents the monster's type. This rune floats around the user's head for 1 hour, moving with the user. The hovering rune provides the user a +1 insight bonus on attack rolls and skill checks against creatures of the type represented by the rune. It doesn't impair the user's vision or movement in any way. The rune cannot be harmed by physical attacks, but *dispel magic*, *disintegrate*, a *sphere of annihilation*, or a *rod of cancellation* affects it. A rune's Armor Class against touch attacks is equal to 10 + the user's Dexterity modifier.
+
+If the user fails an attack roll or skill check against a creature of the type represented by his hovering rune, he can dismiss the rune as an immediate action to gain a +2d4 competence bonus on the attack roll or skill check retroactively, which may turn the failure into a success. Each stick of sigil chalk may be used to draw five runes. A single user can have a number of hovering runes equal to his Intelligence modifier (minimum 1) simultaneously, but each must represent a different creature type.
+
+**Construction Requirements:** Craft Wondrous Item, *gallant inspiration*, *true strike*; **Cost** 1,000 gp

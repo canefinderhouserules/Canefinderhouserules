@@ -302,6 +302,7 @@ Mesmerists gain access to the following spells. Spells without a link come from 
 - **[Invigorate, Mass](invigorate-mass.md)**: As invigorate, but multiple creatures.
 - **[Invisibility Sphere](invisibility-sphere.md)**: Makes everyone within 10 ft. invisible.
 - Isolate
+- **[Irregular Size](irregular-size.md)**: Curse shrivels arms, legs, or wings.
 - **[Jester’s Jaunt](jesters-jaunt.md)**: Teleport target within 30 ft. of itself.
 - **[Loathsome Veil](loathsome-veil.md)**: Nauseate and/or sicken weak creatures.
 - **[Magic Aura, Greater](magic-aura-greater.md)**: As *magic aura*, but also affects creatures and allows more options.
@@ -318,6 +319,7 @@ Mesmerists gain access to the following spells. Spells without a link come from 
 - **[Object Possession, Lesser](object-possession-lesser.md)**: Project your soul into an object, animating it.
 - **[Oneiric Horror, Greater](oneiric-horror-greater.md)**: As oneiric horror, plus Str damage.
 - **[Overwhelming Grief](overwhelming-grief.md)**: Grieving target can take no actions and is denied its Dex bonus.
+- **[Phantasmal Reminder](phantasmal-reminder.md)**: Recall of past wounds deals damage.
 - **[Pillow Talk](pillow-talk.md)**: Question a sleeping creature
 - **[Ray of Exhaustion](ray-of-exhaustion.md)**: Ray makes subject exhausted.
 - **[Remove Blindness/Deafness](remove-blindness-deafness.md)**: Cures normal or magical blindness or deafness.
@@ -348,6 +350,7 @@ Mesmerists gain access to the following spells. Spells without a link come from 
 
 ## 4th-Level Mesmerist Spells
 
+- **[Akashic Communion](akashic-communion.md)**: Many Knowledge checks with +10 insight.
 - **[Amnesia](amnesia.md)**: Strip a target of its memories, skills and class abilities
 - **[Apathy](apathy.md)**: A target loses interest in a chosen pursuit.
 - **[Arcane Eye](arcane-eye.md)**: Invisible floating eye moves 30 ft./round.
@@ -494,6 +497,7 @@ Mesmerists gain access to the following spells. Spells without a link come from 
 - **[Getaway](getaway.md)**: Teleports you and select creatures to predetermined location.
 - **[Hold Person, Mass](hold-person-mass.md)**: As *hold person*, but all within 30 ft.
 - Hostile Juxtaposition, Greater
+- **[Impenetrable Veil](impenetrable-veil.md)**: Target is nearly impossible to detect.
 - **[Insanity](insanity.md)**: Subject suffers continuous *confusion*.
 - **[Invisibility, Mass](invisibility-mass.md)**: As *invisibility*, but affects all in range.
 - **[Irresistible Dance](irresistible-dance.md)**: Forces subject to dance.
@@ -508,6 +512,7 @@ Mesmerists gain access to the following spells. Spells without a link come from 
 - **[Project Image](project-image.md)**: Illusory double can talk and cast spells.
 - **[Scrying, Greater](scrying-greater.md)**: As *scrying*, but faster and longer.
 - **[Shadow Enchantment, Greater](shadow-enchantment-greater.md)**: Quasi-real enchantment of 5th level or lower.
+- **[Symbol of Distraction](symbol-of-distraction.md)**: Symbol that fascinates creatures nearby.
 - **[Symbol of Persuasion](symbol-of-persuasion.md)**: Triggered rune charms creatures.
 - **[Triggered Hallucination](triggered-hallucination.md)**: As *scripted hallucination*, but it only appears when triggered.
 - **[True Seeing](true-seeing.md)**: Lets you see all things as they really are.

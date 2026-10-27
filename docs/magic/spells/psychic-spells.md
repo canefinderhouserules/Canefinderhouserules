@@ -197,6 +197,7 @@ Psychics gain access to the following spells. Spells without a link come from ot
 - **[Blur](blur.md)**: Attacks miss subject 20% of the time.
 - **[Boiling Blood](boiling-blood.md)**: Targets take fire damage; orcs get +2 Strength.
 - Bullet Shield
+- **[Bone Fists](bone-fists.md)**: Targets gain natural armor, natural weapon damage, and armor spikes.
 - **[Build Trust](build-trust.md)**: Gain various bonuses when interacting with the target.
 - **[Bullet Ward](bullet-ward.md)**
 - **[Bull’s Strength](bulls-strength.md)**: Subject gains +4 to Str for 1 min./level.
@@ -360,6 +361,7 @@ Psychics gain access to the following spells. Spells without a link come from ot
 - **[Adjustable Disguise](adjustable-disguise.md)**
 - Agonizing Rebuke
 - Air Breathing
+- **[Akashic Communion](akashic-communion.md)**: Many Knowledge checks with +10 insight.
 - **[Analyze Aura](analyze-aura.md)**: Read a creature’s or an object’s alignment, emotion, health, and magic auras.
 - **[Anchored Step](anchored-step.md)**: Vines beneath your feet stabilize you but slow you down.
 - **[Appearance of Life](appearance-of-life.md)**: Undead appear to be alive.
@@ -438,6 +440,7 @@ Psychics gain access to the following spells. Spells without a link come from ot
 - **[Object Possession, Lesser](object-possession-lesser.md)**: Project your soul into an object, animating it.
 - Pellet Blast
 - **[Phantasmal Affliction](phantasmal-affliction.md)**: Convince a target that it contracted an affliction.
+- **[Phantasmal Reminder](phantasmal-reminder.md)**: Recall of past wounds deals damage.
 - **[Pierce Disguise](pierce-disguise.md)**: See through low-level magical disguises.
 - Protection from Arrows, Communal
 - **[Pillow Talk](pillow-talk.md)**: Question a sleeping creature
@@ -462,6 +465,7 @@ Psychics gain access to the following spells. Spells without a link come from ot
 - **[Slow](slow.md)**: One subject/level takes only one action/round, –1 to AC, Reflex saves, and attack rolls.
 - **[Speak with Dead](speak-with-dead.md)**: Corpse answers one question/two levels.
 - Spider Climb, Communal
+- **[Spellcurse](spellcurse.md)**: Deals 1d6 damage per ongoing spell on the target.
 - **[Strangling Hair](strangling-hair.md)**: Your hair animates and grapples.
 - **[Stunning Barrier, Greater](stunning-barrier-greater.md)**
 - **[Summon Monster III](summon-monster-iii.md)**: (Evil creatures only.) Summons extraplanar creature to fight for you.
@@ -555,6 +559,7 @@ Psychics gain access to the following spells. Spells without a link come from ot
 - **[Id Insinuation III](id-insinuation-iii.md)**: As id insinuation I, but affects three creatures and has a stronger confusion effect.
 - **[Illusion of Treachery](illusion-of-treachery.md)**: Make it seem like another is also responsible for your attacks.
 - **[Illusory Wall](illusory-wall.md)**: Wall, floor, or ceiling looks real, but anything can pass through.
+- **[Innocuous Shape](innocuous-shape.md)**: Target looks like a harmless creature.
 - **[Insect Scouts](insect-scouts.md)**: Vermin investigate a location and grant rerolls on related skill checks.
 - **[Intellect Fortress I](intellect-fortress-i.md)**: Suppress emotion and fear effects in a 20-ft. radius as an immediate action.
 - **[Interrogation, Greater](interrogation-greater.md)**: As interrogation, except with more pain and more questions. Leashed Shackles : Target is restricted to a specific location.
@@ -627,7 +632,9 @@ Psychics gain access to the following spells. Spells without a link come from ot
 - **[Vicarious View](vicarious-view.md)**: Plant a scrying sensor that you can use to spy on a creature, object, or location.
 - **[Vigilant Rest](vigilant-rest.md)**: Cause a sleeping creature to retain some perception of its surroundings.
 - **[Wall of Blindness/Deafness](wall-of-blindness-deafness.md)**
+- **[Wall of Bone](wall-of-bone.md)**: A wall of grasping skeletal hands.
 - **[Wandering Star Motes](wandering-star-motes.md)**: Outlines subject and produces light as a sunrod.
+- **[Warp Metal](warp-metal.md)**: Permanently warps metal objects.
 - Water Walk, Communal
 
 ## 5th-Level Psychic Spells
@@ -665,6 +672,8 @@ Psychics gain access to the following spells. Spells without a link come from ot
 - **[False Vision](false-vision.md)**: Fools scrying with an illusion.
 - **[Feast on Fear](feast-on-fear.md)**: Targets are panicked, and you gain temporary hit points.
 - **[Feeblemind](feeblemind.md)**: Subject’s Int and Cha drop to 1.
+- **[Flash Forward](flash-forward.md)**: Make a charge attack, then teleport back.
+- **[Flexile Curse](flexile-curse.md)**: Curse degrades worn armor and shields.
 - **[Forbid Action, Greater](forbid-action-greater.md)**: As forbid action, but 1 creature/level.
 - Half-blood Extraction
 - **[Hold Monster](hold-monster.md)**: As *hold person*, but any creature.
@@ -817,13 +826,17 @@ Psychics gain access to the following spells. Spells without a link come from ot
 - **[Psychic Crush II](psychic-crush-ii.md)**: As psychic crush I, but deal 5d6 + 1 points of damage per level on a save and harder to resist.
 - **[Psychic Surgery](psychic-surgery.md)**
 - **[Repress Memory](repress-memory.md)**: Remove a piece of knowledge from your mind.
+- **[Roaming Pit](roaming-pit.md)**: A *create pit* that can move.
 - **[Shadow Enchantment, Greater](shadow-enchantment-greater.md)**: Quasi-real enchantment of 5th level or lower.
 - **[Shadow Memory](shadow-memory.md)**: Learn a target’s secrets to aid an assassination.
 - **[Sonic Form](sonic-form.md)**
 - **[Spellcrash](spellcrash.md)**
+- **[Spellfire Jinx](spellfire-jinx.md)**: Cursed caster burns and may lose spells.
 - **[Stone Tell](stone-tell.md)**: Talk to natural or worked stone.
 - **[Summon Monster VI](summon-monster-vi.md)**: Summons extraplanar creature to fight for you.
+- **[Symbol of Distraction](symbol-of-distraction.md)**: Symbol that fascinates creatures nearby.
 - **[Thought Shield V](thought-shield-v.md)**: As thought shield IV, but lasts 1 round per level.
+- **[Touch of Slumber](touch-of-slumber.md)**: Nonhostile creature falls asleep for hours.
 - **[Tower of Iron Will II](tower-of-iron-will-ii.md)**: As tower of iron will I, but lasts 2 rounds.
 - **[Transformation](transformation.md)**: You gain combat bonuses.
 - **[Treacherous Teleport](treacherous-teleport.md)**: As *teleport*, except you choose some creatures to suffer a mishap or go elsewhere.
@@ -865,10 +878,12 @@ Psychics gain access to the following spells. Spells without a link come from ot
 - **[Invisibility, Mass](invisibility-mass.md)**: As *invisibility*, but affects all in range.
 - **[Ki Shout](ki-shout.md)**: Target takes 1d6 sonic/level and is stunned. Lightning Rod: Absorb electrical attacks and gain immunity to electricity.
 - **[Limited Wish](limited-wish.md)**: Alters reality (within limits).
+- **[Lost Legacy](lost-legacy.md)**: Others forget positive interactions with the target.
 - **[Lunar Veil](lunar-veil.md)**: Dispel light and revert lycanthropes.
 - **[Mage’s Magnificent Mansion](mages-magnificent-mansion.md)**: Door leads to extradimensional mansion.
 - **[Mage’s Sword](mages-sword.md)**: Floating magic blade strikes opponents.
 - **[Mind Blank](mind-blank.md)**: Subject is protected from mental/emotional magic and scrying.
+- **[Particulate Form](particulate-form.md)**: Targets gain fast healing and immunity to critical hits.
 - **[Permanent Hallucination](permanent-hallucination.md)**: As *scripted hallucination*, but permanent.
 - **[Phantasmal Revenge](phantasmal-revenge.md)**: Ghost from corpse hunts killer.
 - **[Phase Door](phase-door.md)**: Creates an invisible passage through a barrier.
@@ -926,6 +941,7 @@ Psychics gain access to the following spells. Spells without a link come from ot
 - Mind Blank, Communal
 - **[Moment of Prescience](moment-of-prescience.md)**: You gain +1/level insight bonus on single attack roll, check, or save.
 - **[Orb of the Void](orb-of-the-void.md)**: Sphere inflicts negative levels.
+- **[Phasic Challenge](phasic-challenge.md)**: An enemy and an ally can affect only each other.
 - **[Planar Ally, Greater](planar-ally-greater.md)**: As *lesser planar ally,* but up to 18 HD.
 - **[Planar Binding, Greater](planar-binding-greater.md)**: As *lesser planar binding,* but up to 18 HD.
 - **[Possession, Greater](possession-greater.md)**: As possession, but your body vanishes.
@@ -962,6 +978,7 @@ Psychics gain access to the following spells. Spells without a link come from ot
 - **[Gate](gate.md)**: Connects two planes for travel or summoning.
 - Heroic Invocation
 - **[Hold Monster, Mass](hold-monster-mass.md)**: As *hold monster,* but all within 30 ft.
+- **[Impenetrable Veil](impenetrable-veil.md)**: Target is nearly impossible to detect.
 - **[Implosion](implosion.md)**: Inflict 10 damage/level to one creature/round.
 - **[Imprisonment](imprisonment.md)**: Entombs subject beneath the earth.
 - **[Interplanetary Teleport](interplanetary-teleport.md)**: Teleport to another planet.

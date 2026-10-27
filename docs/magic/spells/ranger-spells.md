@@ -167,6 +167,7 @@
 - **[Guardian Wasps](guardian-wasps.md)**: A wasp swarm builds a nest that guards an area.
 - **[Insect Spies](insect-spies.md)**: Use magic beetles as spies.
 - **[Instant Fake](instant-fake.md)**: Provide a short-term replica of an object.
+- **[Lesser Nondetection](lesser-nondetection.md)**: Blocks area-targeted divinations.
 - **[Life Blast](life-blast.md)**: Drain life from local vegetation to launch a blast of positive energy.
 - **[Magic Fang, Greater](magic-fang-greater.md)**: One natural weapon gets + 1/four levels (max. +5).
 - **[Meticulous Match](meticulous-match.md)**: Determine if two things are identical.

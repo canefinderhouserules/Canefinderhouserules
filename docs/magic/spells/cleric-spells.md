@@ -138,6 +138,7 @@
 - **[Blood Blaze](blood-blaze.md)**: School transmutation [fire]; Level alchemist 2, antipaladin 1, cleric 2, magus 2, sorcerer/wizard 2, witch 2.
 - **[Blood in the Water](blood-in-the-water.md)**: Whip sharks and frenzy-prone creatures into a frenzy
 - **[Bloodbath](bloodbath.md)**: Cause yourself and enemies to bleed.
+- **[Bone Fists](bone-fists.md)**: Targets gain natural armor, natural weapon damage, and armor spikes.
 - **[Boneshaker](boneshaker.md)**: Momentarily control a living or undead creature’s skeleton.
 - **[Brittle Portal](brittle-portal.md)**: Reduce the hardness of a surface.
 - **[Build Trust](build-trust.md)**: Gain various bonuses when interacting with the target.
@@ -284,6 +285,7 @@
 - **[Daybreak Arrow](daybreak-arrow.md)**: Targeted ammunition exudes radiant energy.
 - **[Daylight](daylight.md)**: 60-ft. radius of bright light.
 - **[Deadly Juggernaut](deadly-juggernaut.md)**: Your might increases with every kill you make.
+- **[Debasing Touch](debasing-touch.md)**: Target's touch turns coins to copper.
 - **[Deeper Darkness](deeper-darkness.md)**: Object sheds supernatural shadow in 60-ft. radius.
 - **[Delay Poison, Communal](delay-poison-communal.md)**: As delay poison, but you may divide the duration among creatures touched.
 - **[Detect Anxieties](detect-anxieties.md)**: Learn what makes creatures anxious.
@@ -310,6 +312,7 @@
 - **[Invisibility Purge](invisibility-purge.md)**: Dispels invisibility within 5 ft./level.
 - **[Iron Stake](iron-stake.md)**: Hurl a spike of cold iron at a foe.
 - **[Irradiate](irradiate.md)**: Flood an area with radiation.
+- **[Irregular Size](irregular-size.md)**: Curse shrivels arms, legs, or wings.
 - **[Life Shield](life-shield.md)**: Undead that hit you take positive energy damage
 - **[Light of Purity](light-of-purity.md)**: Illuminate undead and weaken their channel resistance.
 - **[Locate Object](locate-object.md)**: Senses direction toward object (specific or type).
@@ -342,6 +345,7 @@
 - **[Slave to Sin](slave-to-sin.md)**: Exploit a creature’s sin to sicken and stagger it.
 - **[Soul Vault](soul-vault.md)**: Protect a soul from being trapped
 - **[Speak with Dead](speak-with-dead.md)**: Corpse answers one question/two levels.
+- **[Spellcurse](spellcurse.md)**: Deals 1d6 damage per ongoing spell on the target.
 - **[Spiral Ascent](spiral-ascent.md)**: Teleport upward as a helical beam
 - **[Stone Shape](stone-shape.md)**: Sculpts stone into any shape.
 - **[Summon Monster III](summon-monster-iii.md)**: Summons extraplanar creature to fight for you.
@@ -444,7 +448,9 @@
 - **[Undeath Inversion](undeath-inversion.md)**: Undead is harmed by negative energy and healed by positive
 - **[Unholy Blight](unholy-blight.md)**: Harms and sickens good creatures (1d8 damage/2 levels).
 - **[Unholy Ward](unholy-ward.md)**: Resist 10 damage from holy sources.
+- **[Wall of Bone](wall-of-bone.md)**: A wall of grasping skeletal hands.
 - **[Ward of the Season](ward-of-the-season.md)**: This spell harnesses the power of the seasons to protect the target and grant a number of bonuses.
+- **[Warp Metal](warp-metal.md)**: Permanently warps metal objects.
 - **[Wrathful Weapon](wrathful-weapon.md)**: Weapon gains anarchic, axiomatic, holy, or unholy.
 
 ## 5th-Level Cleric Spells
@@ -476,6 +482,7 @@
 - **[Disrupting Weapon](disrupting-weapon.md)**: Melee weapon destroys undead.
 - **[Dungeonsight](dungeonsight.md)**: Reveals the layout of nearby chambers and passages.
 - **[Flame Strike](flame-strike.md)**: Smites foes with divine fire (1d6/level damage).
+- **[Flexile Curse](flexile-curse.md)**: Curse degrades worn armor and shields.
 - **[Geniekind](geniekind.md)**: Gain genie-themed appearance and powers.
 - **[Ghoul Army](ghoul-army.md)**: Ghouls and a ghast rise to fight for you and explode.
 - **[Half-blood Extraction](half-blood-extraction.md)**: You transform the target half-orc into a full-blooded orc.
@@ -515,6 +522,7 @@
 - **[Symbol of Striking](symbol-of-striking.md)**
 - **[Toast to Freedom](toast-to-freedom.md)**: Teleport a creature 15 feet, freeing it from bonds.
 - **[Tongues, Communal](tongues-communal.md)**: As tongues, but you may divide the duration among creatures touched.
+- **[Touch of Slumber](touch-of-slumber.md)**: Nonhostile creature falls asleep for hours.
 - **[True Seeing](true-seeing.md)**: Lets you see all things as they really are.
 - **[Unhallow](unhallow.md)**: Designates location as unholy.
 - **[Vile Dog Transformation](vile-dog-transformation.md)**: Transform ordinary dogs into fiendish minions.
@@ -575,12 +583,15 @@
 - **[Plague Bearer](plague-bearer.md)**: Target spreads contagion to adjacent creatures.
 - **[Planar Ally](planar-ally.md)**: As *lesser planar ally,* but up to 12 HD.
 - **[Prognostication](prognostication.md)**: Gain cryptic information from further in the future than *divination*.
+- **[Roaming Pit](roaming-pit.md)**: A *create pit* that can move.
 - **[Shadow Memory](shadow-memory.md)**: Learn a target’s secrets to aid an assassination.
 - **[Shield of Dawn, Greater](shield-of-dawn-greater.md)**: Sun shield damages melee attackers.
 - **[Soul-Rending Claws](soul-rending-claws.md)**: Claws grant negative levels
 - **[Speak with Soul](speak-with-soul.md)**: Hold an extended conversation with a soul
+- **[Spellfire Jinx](spellfire-jinx.md)**: Cursed caster burns and may lose spells.
 - **[Summon Laborers](summon-laborers.md)**: Summon petitioners to help downtime work
 - **[Summon Monster VI](summon-monster-vi.md)**: Summons extraplanar creature to fight for you.
+- **[Symbol of Distraction](symbol-of-distraction.md)**: Symbol that fascinates creatures nearby.
 - **[Symbol of Fear](symbol-of-fear.md)**: Triggered rune panics nearby creatures.
 - **[Symbol of Persuasion](symbol-of-persuasion.md)**: Triggered rune charms nearby creatures.
 - **[Truespeak](truespeak.md)**: You can communicate with any creature that is not mindless.
@@ -612,8 +623,10 @@
 - **[Inflict Serious Wounds, Mass](inflict-serious-wounds-mass.md)**: Deals 3d8 damage + 1/level, affects 1 subject/level.
 - **[Infuse Robot](infuse-robot.md)**: Turn a robot into a magical construct you command.
 - **[Jolting Portent](jolting-portent.md)**: You inflict a vengeful fate on a creature, dealing electricity damage each time it attacks or casts a spell.
+- **[Lost Legacy](lost-legacy.md)**: Others forget positive interactions with the target.
 - **[Maddening Oubliette](maddening-oubliette.md)**: Send a creature to a maddening demiplane prison.
 - **[Memory of Function](memory-of-function.md)**: Restore broken objects and timeworn tech.
+- **[Particulate Form](particulate-form.md)**: Targets gain fast healing and immunity to critical hits.
 - **[Plundered Power](plundered-power.md)**: Kill a creature and steal its strongest spell-like ability.
 - **[Poison Breath](poison-breath.md)**: Cone of toxic mist, as poison.
 - **[Pox of Rumors](pox-of-rumors.md)**: Curse a creature to attract nasty rumors.
@@ -652,6 +665,7 @@
 - **[Inflict Critical Wounds, Mass](inflict-critical-wounds-mass.md)**: Deals 4d8 damage + 1/level, affects 1 subject/level.
 - **[Nature’s Ravages, Greater](natures-ravages-greater.md)**: As nature’s ravages, aging a corpse by years.
 - **[Nine Lives](nine-lives.md)**: School abjuration; Level cleric 8, witch 8 Casting Time 1 standard action Range touch Target one creature.
+- **[Phasic Challenge](phasic-challenge.md)**: An enemy and an ally can affect only each other.
 - **[Planar Ally, Greater](planar-ally-greater.md)**: As *lesser planar ally,* but up to 18 HD.
 - **[Primal Scar](primal-scar.md)**: Infuse an area with primal magic.
 - **[Quintessence Mastery](quintessence-mastery.md)**: Exercise limited control over the quintessence of an Outer Plane

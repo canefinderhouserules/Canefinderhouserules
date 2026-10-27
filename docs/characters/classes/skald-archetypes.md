@@ -28,6 +28,38 @@ The following new rage powers can be taken by any barbarian or skald who meets t
 
 **Ultimate Clarity (Su)**: Once per rage, the character can refine her senses, seeing through normal and magical darkness (including from magical effects such as blur and displacement), invisibility, and illusions; she can also discern the exact locations of creatures with concealment. This lasts for 1 round. A character must be at least 6th level and have the moment of clarity and perfect clarity rage powers to select this rage power. The character does not need to be using moment of clarity to use this rage power.
 
+## Sagas
+
+Sagas are a form of lore-keeping and tale-telling. Specialized applications of a skald's raging song ability, sagas function much like bardic masterpieces but are available only to skalds. Sagas are never purely artistic constructs; they are designed to preserve lore or commemorate historical figures, and are usually based in fact. Sagas therefore require ranks in Knowledge (history) as a prerequisite, as well. Bards can learn sagas, using their bardic performance ability instead of raging song.
+
+### Lay of the Scholar King (Oratory, Sing)
+
+Your tale of a scholarly king sharpens your intellect, but makes others treat you with contempt.
+
+**Prerequisites**: Knowledge (history) 2 ranks, Perform (oratory) or Perform (sing) 4 ranks.
+
+**Cost**: Feat or 2nd-level skald spell known.
+
+**Effect**: You tell the sad tale of a studious and introspective king whose kingdom fractured when his nobles would not respect his intellect. While you maintain the performance, you can add your Charisma modifier (minimum +1) to Intelligence-based skill checks in addition to your Intelligence modifier, but you take your Intelligence bonus as a penalty on all Charisma-based skill checks (minimum –1).
+
+**Use**: 1 raging song round per round.
+
+**Action**: 1 minute.
+
+### Saga of the Returning Matriarch (Oratory, Sing)
+
+Your tale of an inexorable return allows you to unerringly locate your target.
+
+**Prerequisites**: Knowledge (history) 7 ranks, Perform (oratory) or Perform (sing) 15 ranks.
+
+**Cost**: Feat or 5th-level skald spell known.
+
+**Effect**: You tell the epic tale of a ruling matriarch whose return, foretold for generations, was always a certainty. When you complete the performance, you name a creature you have seen or who once owned an item you have in your possession, and you immediately know the creature's location, as per *discern location*. At the same time, the creature learns your name and that you have determined its current whereabouts.
+
+**Use**: 10 raging song rounds.
+
+**Action**: 10 minutes.
+
 ## Demon Dancer
 
 While the twisted power of demon-worshiping skalds is great, it comes at a terrible price.

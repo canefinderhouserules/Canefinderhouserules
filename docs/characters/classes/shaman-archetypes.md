@@ -137,3 +137,11 @@ Adventurers who perish in the pursuit of greater knowledge are commemorated on a
 This ability replaces wandering spirit.
 
 **Versatile Hex (Su)**: At 6th level, a name-keeper can temporarily gain a shaman hex or one of the hexes that her spirit has when she prepares her spells, lasting until the next time she prepares spells. At 14th level, she can select two such hexes each day. This ability replaces wandering hex.
+
+## Overseer
+
+While all shamans use their connection to the spirits of the world to draw upon otherworldly magic powers, some shamans use the power of patron spirits to directly control their enemies. Such overseers may assume roles as religious leaders and protectors of their tribes, turning foes into short-term allies for the tribe's greater good. Other overseers become tyrants who enforce their will upon the weak for personal gain. In combat, an overseer manages the battlefield by debilitating foes using her hexes and specialized spells.
+
+**Controlling Magic (Su)**: The overseer adds the following spells to the list of spells she can cast using spirit magic: *charm person* (1st), *hideous laughter* (2nd), *hold person* (3rd), *crushing despair* (4th), *feeblemind* (5th), *mass suggestion* (6th), *power word blind* (7th), *irresistible dance* (8th), and *dominate monster* (9th). This ability replaces the spirit magic spells gained from the shaman's spirit.
+
+**Spirit Surge (Ex)**: At 3rd level, an overseer gains the ability to cast any of her mind-affecting spells that target a single creature through her spirit animal. When she's using this ability, the selected spell's range becomes touch, and she must deliver the spell through the spirit animal via the spirit animal's deliver touch spells supernatural ability. The shaman's effective caster level for these spells is 2 higher than her normal caster level. The overseer can deliver any other spells via the deliver touch spells spirit animal ability. This alters the deliver touch spells spirit animal ability.

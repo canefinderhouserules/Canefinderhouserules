@@ -50,6 +50,7 @@ New alchemist spells from *Ultimate Magic* and *Ultimate Combat*. Spells from ot
 - **[Catatonia](catatonia.md)**: Make a willing target appear to be dead.
 - **[Certain Grip](certain-grip.md)**: You gain a +4 competence bonus on Acrobatics and Climb checks and to CMD.
 - **[Curative Distillation](curative-distillation.md)**: Heals and grants the benefits of a consumed healing item.
+- **[Debasing Touch](debasing-touch.md)**: Target's touch turns coins to copper.
 - **[Defensive Shock](defensive-shock.md)**: Electricity damages your attackers.
 - **[Delay Disease](delay-disease.md)**: The target becomes temporarily immune to disease.
 - **[Diminished Detection](diminished-detection.md)**: Detection spells have half their normal range against you.
@@ -61,10 +62,12 @@ New alchemist spells from *Ultimate Magic* and *Ultimate Combat*. Spells from ot
 - **[Flesh Facade](flesh-facade.md)**: Make an undead look alive
 - **[Ghostly Disguise](ghostly-disguise.md)**: You look like a ghost of yourself.
 - **[Grasping Vine](grasping-vine.md)**: A vine from your body manipulates objects within 20 ft.
+- **[Hidden Blades](hidden-blades.md)**: Weapon becomes invisible and easy to conceal.
 - **[Invigorating Poison](invigorating-poison.md)**: Poison ability damage becomes a bonus instead.
 - **[Ironskin](ironskin.md)**: Harden your skin to iron
 - **[Kinetic Reverberation](kinetic-reverberation.md)**: Channels the force of an enemy’s attack back into its weapon.
 - **[Languid Venom](languid-venom.md)**: Delay a poison’s onset and hide its presence.
+- **[Lesser Nondetection](lesser-nondetection.md)**: Blocks area-targeted divinations.
 - **[Merge with Familiar](merge-with-familiar.md)**: Merge the body of your familiar or spirit animal into your own.
 - **[Minor Dream](minor-dream.md)**: School illusion (figment) [mind-affecting]; Level alchemist 2, bard 3, sorcerer/wizard 3, witch 2 Casting.
 - **[Overstimulate](overstimulate.md)**: Grant ferocity to keep a creature conscious
@@ -95,6 +98,7 @@ New alchemist spells from *Ultimate Magic* and *Ultimate Combat*. Spells from ot
 - **[Assume Appearance](assume-appearance.md)**: Use a creature’s corpse to adopt its form.
 - **[Battle Trance](battle-trance.md)**: 3, witch 4 Casting Time 1 standard action Components V, S Range personal Target you Duration 1 minute/level.
 - **[Blood Scent](blood-scent.md)**: School transmutation; Level alchemist 3, antipaladin 2, cleric 3, druid 3, inquisitor 3, ranger 2.
+- **[Bouncing Bomb Admixture](bouncing-bomb-admixture.md)**: Your next bomb directly hits a splash target.
 - **[Burrow](burrow.md)**: Target gains a burrow speed of 15.
 - **[Burst of Speed](burst-of-speed.md)**: You gain increased speed, and your movement ignores attacks of opportunity and allows you to move through the space of creatures larger than you are.
 - **[Caustic Safeguard](caustic-safeguard.md)**: Acid ward on an object.
@@ -141,11 +145,14 @@ New alchemist spells from *Ultimate Magic* and *Ultimate Combat*. Spells from ot
 - **[Darkvision, Greater](darkvision-greater.md)**: See 120 ft. in total darkness.
 - **[Decollate](decollate.md)**: A target can safely remove its head.
 - **[Duplicate Familiar](duplicate-familiar.md)**: Create a temporary duplicate of a familiar.
+- **[Earsend](earsend.md)**: Your ear flies off as a spy.
 - **[Earth Glide](earth-glide.md)**: School transmutation [earth]; Level alchemist 4, druid 4, sorcerer/wizard 4 Casting Time 1 standard action.
 - **[Echolocation](echolocation.md)**: Sonic sense gives you blindsight 40 ft.
 - **[False Life, Greater](false-life-greater.md)**: Gain 2d10 temporary hp + 1/level.
+- **[Flash Forward](flash-forward.md)**: Make a charge attack, then teleport back.
 - **[Harvest Knowledge](harvest-knowledge.md)**: Absorb a creature's knowledge
 - **[Healing Warmth](healing-warmth.md)**: This spell grants you temporary immunity to fire damage as protection from energy.
+- **[Innocuous Shape](innocuous-shape.md)**: Target looks like a harmless creature.
 - **[Miasmatic Form](miasmatic-form.md)**: This spell functions like gaseous form, except the target’s vaporous body is dangerous to creatures that.
 - **[Monstrous Physique II](monstrous-physique-ii.md)**: Take the form and some of the powers of a Tiny or Large monstrous humanoid.
 - **[Mutagenic Touch](mutagenic-touch.md)**: You can pass a weaker version of your mutagen to another creature.

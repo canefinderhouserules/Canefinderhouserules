@@ -163,6 +163,7 @@ Mediums gain access to the following spells. Spells without a link come from oth
 - **[Instigate Psychic Duel](instigate-psychic-duel.md)**: Start a psychic duel between yourself and another creature.
 - **[Investigative Mind](investigative-mind.md)**
 - **[Invisibility](invisibility.md)**: Subject is invisible for 1 min./level or until it attacks.
+- **[Irregular Size](irregular-size.md)**: Curse shrivels arms, legs, or wings.
 - **[Knock](knock.md)**: Opens locked or magically sealed door.
 - Lend Path
 - **[Levitate](levitate.md)**: Subject moves up and down at your direction.
@@ -216,6 +217,7 @@ Mediums gain access to the following spells. Spells without a link come from oth
 ## 3rd-Level Medium Spells
 
 - **[Adjustable Disguise](adjustable-disguise.md)**
+- **[Akashic Communion](akashic-communion.md)**: Many Knowledge checks with +10 insight.
 - **[Amnesia](amnesia.md)**: Strip a target of its memories, skills and class abilities
 - **[Apport Animal](apport-animal.md)**: Send or receive a Tiny or smaller animal via teleportation.
 - **[Assume Appearance](assume-appearance.md)**: Use a creature’s corpse to adopt its form.
@@ -309,6 +311,7 @@ Mediums gain access to the following spells. Spells without a link come from oth
 - **[False Vision](false-vision.md)**: Fools scrying with an illusion.
 - **[Fear](fear.md)**: Subjects within cone flee for 1 round/level.
 - **[Feeblemind](feeblemind.md)**: Subject’s Int and Cha drop to 1.
+- **[Flash Forward](flash-forward.md)**: Make a charge attack, then teleport back.
 - **[Freedom of Movement](freedom-of-movement.md)**: Subject moves normally despite impediments to movement.
 - **[Hold Monster](hold-monster.md)**: As *hold person*, but any creature.
 - **[Inflict Pain, Mass](inflict-pain-mass.md)**: As inflict pain, but affecting one creature per level.
@@ -345,3 +348,4 @@ Mediums gain access to the following spells. Spells without a link come from oth
 - **[Teleport](teleport.md)**: Instantly transports you as far as 100 miles per level.
 - **[Thoughtsense](thoughtsense.md)**: Automatically detect nearby conscious creatures.
 - **[True Seeing](true-seeing.md)**: Lets you see all things as they really are.
+- **[Warp Metal](warp-metal.md)**: Permanently warps metal objects.

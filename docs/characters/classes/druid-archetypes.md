@@ -1223,3 +1223,23 @@ At 14th level, the goliath druid can also use wild shape to change into a Huge g
 - *Summon Nature's Ally IX*: Diplodocus.
 
 This ability replaces venom immunity and a thousand faces.
+
+## Drovier
+
+Droviers view their allies and adventuring companions as a herd or pack to be protected and directed, with variations on that theme ranging from culture to culture. Some see droviers as alpha predators, offering tribal warriors totemic power in exchange for obedience in combat; others regard them as spokespeople for the wild, adopting aspects that help preserve and defend the land.
+
+**Nature's Bond (Ex)**: A drovier must take the Animal domain with this ability, or the Eagle or Wolf animal domains. This ability modifies nature's bond.
+
+**Communal Aspect (Su)**: At 4th level, a drovier can imbue her allies (including herself) with an aspect of a wild animal. As a standard action, she chooses an animal totem and grants the abilities of that totem to every ally within 30 feet. This otherwise functions like the spell *animal aspect*. She can use this ability for 10 minutes per druid level each day. This duration does not need to be consecutive, but it must be used in 10-minute increments. If she uses the ability to grant a new aspect, any previous aspect immediately ends. At 20th level, the drovier can use this ability at will. At 6th level, the drovier's communal aspect ability grants the benefits of the spell *greater animal aspect*. The drovier can still choose only one aspect to grant her allies. At 8th level, the drovier can choose to grant her allies the benefits of the spell *aspect of the falcon* instead of an animal aspect. At 10th level, the drovier can choose to grant her allies the benefits of the spell *aspect of the bear* instead of an animal aspect. At 12th level, the drovier can choose to grant her allies the benefits of the spell *aspect of the stag* instead of an animal aspect. At 14th level, the drovier can choose to grant her allies the benefits of the spell *aspect of the wolf* rather than an animal aspect. This replaces wild shape.
+
+## Toxicologist
+
+Druids protect the natural environs of the world, and sometimes that requires forcibly expelling those who would pollute, despoil, or otherwise harm such areas. Single battles may not be enough to win the war, so some druids specialize in the stealthy application of insidious poisons to their targets, believing word of their foes' horrifying deaths will deter others from attempting similar desecrations of the natural world.
+
+**Expanded Repertoire (Ex)**: A toxicologist adds the following extracts and spells to her druid spell list as druid spells of the listed spell level: *poisoned egg* (1st level), *transmute potion to poison* (2nd level), *stinking cloud* (3rd level), *toxic gift* (4th level), and *cloudkill* (5th level). A toxicologist can channel stored spell energy only into summoning spells she has prepared ahead of time. This ability alters spells and replaces spontaneous casting.
+
+**Natural Poison Lore (Ex)**: A toxicologist has a deep understanding of and appreciation for poisons. At 2nd level, she cannot accidentally poison herself when applying poison to a weapon and cannot accidentally poison an animal companion or summoned creature when applying poison to its claws (though poison obviously should not be applied to a creature's bite). This ability replaces wild empathy and woodland stride.
+
+**Expert Poisoner (Su)**: At 4th level, a toxicologist increases the DCs of any spells she casts with the poison descriptor by 1. This ability replaces trackless step and resist nature's lure.
+
+**Toxic Shaper (Su)**: A toxicologist never gains the ability to use wild shape to transform into an elemental or plant. At 8th level, a toxicologist can transform into a Small or Medium vermin. When she takes this form, her wild shape functions as *vermin shape I*. At 10th level, a toxicologist can transform into a Tiny or Large vermin. When she takes this form, her wild shape functions as *vermin shape II*. This ability alters wild shape.

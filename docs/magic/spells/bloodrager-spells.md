@@ -5,6 +5,7 @@ Bloodragers gain access to the following spells. Spells in plain text come from 
 ## 1st-Level Bloodrager Spells
 
 - **[Barbed Chains](barbed-chains.md)**: Hellish chains attack and cause a target to become shaken.
+- **[Biting Words](biting-words.md)**: Spoken ranged touch attacks deal damage.
 - **[Blade Lash](blade-lash.md)**: Use your weapon like a whip to trip an opponent.
 - **[Bloodbath](bloodbath.md)**: Cause yourself and enemies to bleed.
 - **[Blurred Movement](blurred-movement.md)**: As blur, but only while you are moving.
@@ -87,6 +88,7 @@ Bloodragers gain access to the following spells. Spells in plain text come from 
 - **[Boiling Blood](boiling-blood.md)**: Targets take fire damage; orcs get +2 Strength.
 - Brow Gasher
 - Bullet Shield
+- **[Bone Fists](bone-fists.md)**: Targets gain natural armor, natural weapon damage, and armor spikes.
 - **[Bone Flense](bone-flense.md)**: Barbed bone spurs flense a struck creature.
 - **[Bull’s Strength](bulls-strength.md)**: Subject gains +4 to Str for 1 min./level.
 - **[Burning Gaze](burning-gaze.md)**: Inflict 1d6 fire damage to creature.
@@ -248,10 +250,12 @@ Bloodragers gain access to the following spells. Spells in plain text come from 
 - **[Flaming Sphere, Greater](flaming-sphere-greater.md)**: Rolling ball of fire deals 6d6 fire damage and ignites targets.
 - Ghost Wolf
 - Hellmouth Lash
+- **[Flash Forward](flash-forward.md)**: Make a charge attack, then teleport back.
 - **[Furious Fire Barrage](furious-fire-barrage.md)**: Throw fireballs fueled by anger.
 - **[Hollow Heroism](hollow-heroism.md)**: Provide a *heroism* effect that you can reverse at any time.
 - **[Horrific Doubles](horrific-doubles.md)**: Call forth disturbing *mirror images*.
 - **[Ice Storm](ice-storm.md)**: Hail deals 5d6 damage in cylinder 40 ft. across.
+- **[Irregular Size](irregular-size.md)**: Curse shrivels arms, legs, or wings.
 - **[Mask from Divination](mask-from-divination.md)**: Adhere a mask that foils divination.
 - **[Monstrous Physique II](monstrous-physique-ii.md)**: Take the form and some of the powers of a Tiny or Large monstrous humanoid.
 - **[Moonstruck](moonstruck.md)**: Subject is enraged and confused.
@@ -273,8 +277,10 @@ Bloodragers gain access to the following spells. Spells in plain text come from 
 - **[Vermin Shape I](vermin-shape-i.md)**: Take the form and some of the powers of a Small or Medium vermin.
 - **[Vitriolic Mist](vitriolic-mist.md)**: As fire shield, except acid damage.
 - **[Volcanic Storm](volcanic-storm.md)**: Hot rocks deal 5d6 damage.
+- **[Wall of Bone](wall-of-bone.md)**: A wall of grasping skeletal hands.
 - **[Wall of Fire](wall-of-fire.md)**: Deals 2d4 fire damage out to 10 ft. and 1d4 out to 20 ft. Passing through wall deals 2d6 damage +1/level.
 - **[Wall of Ice](wall-of-ice.md)**: *Ice plane* creates wall or *hemisphere* creates dome.
 - **[Wall of Sound](wall-of-sound.md)**: Sonic wall deflects and damages creatures.
+- **[Warp Metal](warp-metal.md)**: Permanently warps metal objects.
 - **[Wooden Wing Shield](wooden-wing-shield.md)**: Your wings become a barrier granting a +4 shield bonus to AC.
 - Wreath of Blades

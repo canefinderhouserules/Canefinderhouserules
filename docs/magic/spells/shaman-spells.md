@@ -65,6 +65,7 @@ Shamans gain access to the following spells. Spells in plain text come from othe
 - **[Illusory Crowd](illusory-crowd.md)**: Illusory stationary crowd.
 - **[Incessant Buzzing](incessant-buzzing.md)**: Illusory wasp swarm disrupts concentration
 - **[Inflict Light Wounds](inflict-light-wounds.md)**: Touch deals 1d8 damage +1/level (max +5).
+- **[Itching Curse](itching-curse.md)**: Itch gives –1 penalty unless scratched.
 - **[Magic Stone](magic-stone.md)**: Three stones gain +1 on attack rolls, deal 1d6+1 damage.
 - **[Magic Weapon](magic-weapon.md)**: Weapon gains +1 bonus.
 - **[Mindlink](mindlink.md)**: Communicate a great deal of information in an instant.
@@ -111,6 +112,7 @@ Shamans gain access to the following spells. Spells in plain text come from othe
 - **[Beloved of the Forge](beloved-of-the-forge.md)**: Sense of direction home; luck on Craft.
 - **[Billowing Skirt](billowing-skirt.md)**: A skirt or gown slows your fall.
 - **[Blessing of Liberty](blessing-of-liberty.md)**: Luck against movement impairment.
+- **[Bone Fists](bone-fists.md)**: Targets gain natural armor, natural weapon damage, and armor spikes.
 - **[Bull’s Strength](bulls-strength.md)**: Subject gains +4 to Str for 1 min./level.
 - **[Buoyancy](buoyancy.md)**: Targets easily float on water.
 - **[Burdened Thoughts](burdened-thoughts.md)**: Target is encumbered and cannot fly.
@@ -192,6 +194,7 @@ Shamans gain access to the following spells. Spells in plain text come from othe
 ## 3rd-Level Shaman Spells
 
 - **[Air Breathing](air-breathing.md)**: Let aquatic creatures breathe air
+- **[Akashic Communion](akashic-communion.md)**: Many Knowledge checks with +10 insight.
 - **[Anchored Step](anchored-step.md)**: Vines beneath your feet stabilize you but slow you down.
 - **[Animate Dead](animate-dead.md)**: Creates undead skeletons and zombies out of corpses.
 - **[Assume Appearance](assume-appearance.md)**: Use a creature’s corpse to adopt its form.
@@ -226,6 +229,7 @@ Shamans gain access to the following spells. Spells in plain text come from othe
 - **[Hollow Blades](hollow-blades.md)**: Target's melee damage drops one size.
 - **[Inflict Serious Wounds](inflict-serious-wounds.md)**: Touch attack, 3d8 damage +1/ level (max +15).
 - Magic Circle Against Chaos/evil/good/law
+- **[Irregular Size](irregular-size.md)**: Curse shrivels arms, legs, or wings.
 - **[Magic Vestment](magic-vestment.md)**: Armor or shield gains +1 enhancement per four levels.
 - **[Mantle of Calm](mantle-of-calm.md)**: Neutralize the rage effects of those who have attacked you.
 - **[Mindlocked Messenger](mindlocked-messenger.md)**: ‘Target gains a message that can be given only to its intended recipient.
@@ -300,11 +304,13 @@ Shamans gain access to the following spells. Spells in plain text come from othe
 - **[Ice Storm](ice-storm.md)**: Hail deals 5d6 damage in cylinder 40 ft. across.
 - **[Imbue with Spell Ability](imbue-with-spell-ability.md)**: Transfer spells to subject.
 - **[Inflict Critical Wounds](inflict-critical-wounds.md)**: Touch attack, 4d8 damage + 1/level (max +20).
+- **[Innocuous Shape](innocuous-shape.md)**: Target looks like a harmless creature.
 - **[Instant Restoration](instant-restoration.md)**: Heal a summoned creature as it falls
 - **[Life Blast](life-blast.md)**: Drain life from local vegetation to launch a blast of positive energy.
 - **[Magic Weapon, Greater](magic-weapon-greater.md)**: Weapon gains +1 bonus/four levels (max +5).
 - **[Neutralize Poison](neutralize-poison.md)**: Immunizes subject against poison, detoxifies venom in or on subject.
 - **[Persistent Vigor](persistent-vigor.md)**: Gain fast healing 2, immunity to bleed, and faster recovery from diseases and poisons.
+- **[Phantasmal Reminder](phantasmal-reminder.md)**: Recall of past wounds deals damage.
 - **[Planar Ally, Lesser](planar-ally-lesser.md)**: Exchange services with a 6 HD extraplanar creature.
 - **[Poison](poison.md)**: Touch deals 1d3 Con damage 1/round for 6 rounds.
 - **[Poisonous Balm](poisonous-balm.md)**: As *cure serious wounds*, but leave behind a latent venom.
@@ -324,6 +330,7 @@ Shamans gain access to the following spells. Spells in plain text come from othe
 - **[Sessile Spirit](sessile-spirit.md)**: Cause a spirit inhabiting a creature or an object to go dormant.
 - **[Slowing Mud](slowing-mud.md)**: Targets are covered in mud that blinds them and acts like slow.
 - **[Solid Fog](solid-fog.md)**: Blocks vision and slows movement.
+- **[Spellcurse](spellcurse.md)**: Deals 1d6 damage per ongoing spell on the target.
 - **[Spike Stones](spike-stones.md)**: Creatures in area take 1d8 damage, may also be slowed*.*
 - **[Spindrift Spritz, Mass](spindrift-spritz-mass.md)**: As spindrift spritz, affecting multiple creatures.
 - **[Spirit-Bound Blade](spirit-bound-blade.md)**: Give a weapon ghost touch and another ability tied to an emotion.
@@ -378,14 +385,17 @@ Shamans gain access to the following spells. Spells in plain text come from othe
 - **[Insect Plague](insect-plague.md)**: Wasp swarms attack creatures.
 - **[Mask from Divination](mask-from-divination.md)**: Adhere a mask that foils divination.
 - **[Overland Flight](overland-flight.md)**: You fly at a speed of 40 ft. and can hustle over long distances.
+- **[Release the Hounds](release-the-hounds.md)**: Summons a swarm-like pack of canines.
 - **[Rest Eternal](rest-eternal.md)**
 - **[Shadow Endurance](shadow-endurance.md)**: Shadow duplicate takes your place when you fall.
 - **[Shroud of Darkness](shroud-of-darkness.md)**: Plunge targets into supernatural darkness
 - **[Soulswitch](soulswitch.md)**: Swap souls with your familiar.
+- **[Spellfire Jinx](spellfire-jinx.md)**: Cursed caster burns and may lose spells.
 - **[Stoneskin](stoneskin.md)**: Grants DR 10/adamantine.
 - **[Sun’s Disdain, Mass](suns-disdain-mass.md)**: As *sun’s disdain*, on multiple creatures.
 - **[Swallow Poison](swallow-poison.md)**: Protect yourself from ingested poison, then spit it out in a cone.
 - **[Tidal Surge](tidal-surge.md)**: Create a surge of water to bludgeon foes and extinguish fires.
+- **[Touch of Slumber](touch-of-slumber.md)**: Nonhostile creature falls asleep for hours.
 - **[True Seeing](true-seeing.md)**: Lets you see all things as they really are.
 - **[Vile Dog Transformation](vile-dog-transformation.md)**: Transform ordinary dogs into fiendish minions.
 - **[Waft](waft.md)**: Targets become light enough to be carried by the wind.
@@ -485,6 +495,7 @@ Shamans gain access to the following spells. Spells in plain text come from othe
 - **[Horrid Wilting](horrid-wilting.md)**: Deals 1d6/level damage within 30 ft.
 - **[Inflict Critical Wounds, Mass](inflict-critical-wounds-mass.md)**: Deals 4d8 damage + 1/level, affects 1 subject/level.
 - **[Irresistible Dance](irresistible-dance.md)**: Forces subject to dance.
+- **[Phasic Challenge](phasic-challenge.md)**: An enemy and an ally can affect only each other.
 - **[Planar Ally, Greater](planar-ally-greater.md)**: As *lesser planar ally,* but up to 18 HD.
 - **[Resurrection](resurrection.md)**: Fully restore dead subject.
 - **[Soulseeker](soulseeker.md)**: Determine a soul's location

@@ -664,3 +664,13 @@ Spirit mediums tap into the spiritual power of those who have yet to find their 
 **Major Hexes**: The following major hexes complement the spirit medium archetype: speak in dreams, vision.
 
 **Grand Hexes**: The following grand hex complements the spirit medium archetype: summon spirit.
+
+## Havocker
+
+Although most witches are guided to subtle curses and debilitating hexes by their mysterious patrons, some are instead taught the secrets of harnessing raw, destructive elemental power.
+
+**Patron Element**: A havocker's patron grants her the ability to devastate her foes with a specific element. At 1st level, rather than selecting a standard patron and gaining patron spells, the witch selects a specific kineticist element, which represents the shadowy forces from which she gains her familiar and class powers. The havocker gains the elemental focus and kinetic blast class features with the associated element, using her witch level as her effective kineticist level. If the havocker takes levels in another class that grants an elemental focus, the elemental focuses must be the same type, even if that means that the elemental focus of one of the classes must change. Subject to GM discretion, the havocker can change her former elemental focus to make them conform. This ability alters the witch's familiar and replaces the witch's 1st-level hex.
+
+**Infusion**: At 2nd level and every 4 witch levels thereafter, the havocker gains an infusion wild talent from the list of options available based on her elemental focus, functioning as the kineticist ability of the same name. A havocker must meet the prerequisites of the infusion wild talent and can't accept burn (but see the spellburn ability below). This ability replaces the witch's hexes from 2nd level on, major hex, and grand hex.
+
+**Spellburn**: Beginning at 2nd level, a havocker can channel stored spell energy into her kinetic blast to increase the blast's overall utility and power. To use her infusions, the havocker must lose a prepared witch spell to apply the infusion to her kinetic blast. Any spell sacrificed is required to have a spell level equal to or greater than the infusion's effective spell level. The havocker cannot accept additional burn if the infusion would allow her to do so.

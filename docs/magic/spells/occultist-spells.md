@@ -69,6 +69,7 @@ Occultists gain access to the following spells, determined by their chosen imple
 - **[Hold Portal](hold-portal.md)**: Holds door shut.
 - Peacebond
 - **[Instant Portrait](instant-portrait.md)**: Paint a quick monochrome portrait.
+- **[Itching Curse](itching-curse.md)**: Itch gives –1 penalty unless scratched.
 - **[Mirror Mantis](mirror-mantis.md)**: A target sees a menacing assassin in every mirror.
 - **[Preserve](preserve.md)**: Stop spoilage of objects for a week
 - **[Rune Trace](rune-trace.md)**: Learn a rune’s age, language, and purpose.
@@ -190,6 +191,7 @@ Occultists gain access to the following spells, determined by their chosen imple
 - **[Billowing Skirt](billowing-skirt.md)**: A skirt or gown slows your fall.
 - **[Conditional Favor](conditional-favor.md)**: Provide another spell whose effects reverse if the target breaks a restriction.
 - **[Crimson Confession](crimson-confession.md)**
+- **[Debasing Touch](debasing-touch.md)**: Target's touch turns coins to copper.
 - **[Escape Alarm](escape-alarm.md)**: Ward an area to alert you when someone leaves
 - **[Hidden Knowledge](hidden-knowledge.md)**: Store knowledge in a tattoo, forgetting it temporarily.
 - **[Hoodwink](hoodwink.md)**: Befuddle targets so they can be led away
@@ -340,12 +342,14 @@ Occultists gain access to the following spells, determined by their chosen imple
 
 **Abjuration**:
 
+- **[Akashic Communion](akashic-communion.md)**: Many Knowledge checks with +10 insight.
 - **[Cloak of Winds](cloak-of-winds.md)**: Creates a whirling screen of strong wind around you.
 - **[Dispel Magic](dispel-magic.md)**: Cancels one magical spell or effect.
 - **[Erase Impressions](erase-impressions.md)**: Erase psychic impressions from an object.
 - **[Explosive Runes](explosive-runes.md)**: Deals 6d6 damage when read.
 - **[Geomessage](geomessage.md)**: Leave an invisible message on a surface
 - **[Guarding Knowledge](guarding-knowledge.md)**: +4 insight bonus on saves against one identified monster special attack.
+- **[Irregular Size](irregular-size.md)**: Curse shrivels arms, legs, or wings.
 - **[Magic Circle against Chaos](magic-circle-against-chaos.md)**
 - **[Magic Circle against Evil](magic-circle-against-evil.md)**
 - **[Magic Circle against Good](magic-circle-against-good.md)**
@@ -483,6 +487,7 @@ Occultists gain access to the following spells, determined by their chosen imple
 - **[Dismissal](dismissal.md)**: Forces a creature to return to its native plane.
 - **[Enchantment Foil](enchantment-foil.md)**
 - **[Fire Trap](fire-trap.md)**: Opened object deals 1d4 + 1/level damage.
+- **[Flash Forward](flash-forward.md)**: Make a charge attack, then teleport back.
 - **[Freedom of Movement](freedom-of-movement.md)**: Subject moves normally despite impediments to movement.
 - **[Globe of Invulnerability, Lesser](globe-of-invulnerability-lesser.md)**: Stops 1st- through 3rd- level spell effects.
 - **[Life Bubble](life-bubble.md)**: Protects creatures from sustained environmental effects.
@@ -492,7 +497,9 @@ Occultists gain access to the following spells, determined by their chosen imple
 - **[Rising Water](rising-water.md)**: Conjures a cylinder of calm, swimmable water.
 - **[Soothe Construct](soothe-construct.md)**: Reduce the berserk chance of a construct.
 - **[Spell Immunity](spell-immunity.md)**: Subject is immune to one spell per 4 levels.
+- **[Spellcurse](spellcurse.md)**: Deals 1d6 damage per ongoing spell on the target.
 - **[Stoneskin](stoneskin.md)**: Grants DR 10/adamantine.
+- **[Symbol of Distraction](symbol-of-distraction.md)**: Symbol that fascinates creatures nearby.
 - **[Symbol of Sealing](symbol-of-sealing.md)**: Create triggered wall of force.
 - **[Telepathic Silence](telepathic-silence.md)**: Blocks telepathy and thought reading in an area.
 - **[True Form](true-form.md)**: Removes polymorph effects.
@@ -605,6 +612,7 @@ Occultists gain access to the following spells, determined by their chosen imple
 - **[Rusting Grasp](rusting-grasp.md)**: Your touch corrodes iron and alloys.
 - **[Slough](slough.md)**: Slough off a target’s skin.
 - **[Treasure Stitching](treasure-stitching.md)**
+- **[Warp Metal](warp-metal.md)**: Permanently warps metal objects.
 
 ## 5th-Level Occultist Spells
 
@@ -613,6 +621,7 @@ Occultists gain access to the following spells, determined by their chosen imple
 - **[Dispel Magic, Greater](dispel-magic-greater.md)**: As *dispel magic*, but with multiple targets.
 - Spell Immunity, Communal
 - **[Dream Reality](dream-reality.md)**: The target perceives the world as a dream and forgets it.
+- **[Particulate Form](particulate-form.md)**: Targets gain fast healing and immunity to critical hits.
 - **[Secret Workshop](secret-workshop.md)**: As nondetection, but protects many creatures and objects.
 - **[Spell Resistance](spell-resistance.md)**: Subject gains SR 12 + level.
 - Stoneskin, Communal
@@ -623,6 +632,7 @@ Occultists gain access to the following spells, determined by their chosen imple
 - **[Cure Light Wounds, Mass](cure-light-wounds-mass.md)**: Cures 1d8 damage + 1/level, affects 1 subject/level.
 - **[Planar Binding, Lesser](planar-binding-lesser.md)**: Traps extraplanar creature of 6 HD or less until it performs a task.
 - **[Secret Chest](secret-chest.md)**: Hides expensive chest on Ethereal Plane; you retrieve it at will.
+- **[Spellfire Jinx](spellfire-jinx.md)**: Cursed caster burns and may lose spells.
 - **[Teleport](teleport.md)**: Instantly transports you as far as 100 miles per level.
 - **[Wall of Stone](wall-of-stone.md)**: Creates a stone wall that can be shaped.
 
@@ -700,6 +710,7 @@ Occultists gain access to the following spells, determined by their chosen imple
 - **[Globe of Invulnerability](globe-of-invulnerability.md)**: As *lesser globe of invulnerability*, plus 4th-level spell effects.
 - **[Invoke Deity](invoke-deity.md)**: Infuse yourself with the powers of your deity's planar realm
 - **[Knock, Mass](knock-mass.md)**: Open many locks or closures at once
+- **[Lost Legacy](lost-legacy.md)**: Others forget positive interactions with the target.
 - **[Repulsion](repulsion.md)**: Creatures can’t approach you.
 - **[Rotting Alliance](rotting-alliance.md)**: Curse several creatures to waste away when near one another.
 - **[Scribe’s Binding](scribes-binding.md)**: Bind a creature and its memories into a book.

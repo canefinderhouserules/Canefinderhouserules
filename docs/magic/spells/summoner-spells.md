@@ -40,6 +40,8 @@ New summoner spells from *Ultimate Magic*. Spells from other books will be added
 - **[Garden of Peril](garden-of-peril.md)**: Poisonous mushrooms sicken nearby creatures.
 - **[Ghost Wolf](ghost-wolf.md)**: This spell conjures a Large, quasi-real, wolflike creature made of roiling black smoke.
 - **[Gird Ally](gird-ally.md)**: Summoned creatures gain a deflection bonus to AC
+- **[Hidden Blades](hidden-blades.md)**: Weapon becomes invisible and easy to conceal.
+- **[Lesser Nondetection](lesser-nondetection.md)**: Blocks area-targeted divinations.
 - **[Mount, Communal](mount-communal.md)**: As mount, but you may divide the duration among creatures touched.
 - **[Overstimulate](overstimulate.md)**: Grant ferocity to keep a creature conscious
 - **[Protection from Chaos, Communal](protection-from-chaos-communal.md)**: As protection from chaos, but you may divide the duration among creatures touched.
@@ -152,6 +154,8 @@ New summoner spells from *Ultimate Magic*. Spells from other books will be added
 - **[Master's Mutation](masters-mutation.md)**: Grant abilities to a summoned creature
 - **[Mind Swap](mind-swap.md)**: Switch minds with another creature for 1 hour per level.
 - **[Possession](possession.md)**: Project your soul into a creature’s body.
+- **[Release the Hounds](release-the-hounds.md)**: Summons a swarm-like pack of canines.
+- **[Roaming Pit](roaming-pit.md)**: A *create pit* that can move.
 - **[Secret Workshop](secret-workshop.md)**: As nondetection, but protects many creatures and objects.
 - **[Straitjacket](straitjacket.md)**: Restrain a creature’s arms and grant it a second saving throw against certain magic.
 - **[Tar Pool](tar-pool.md)**: Converts the top layer of the ground into hot tar.

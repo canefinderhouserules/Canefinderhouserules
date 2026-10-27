@@ -1478,14 +1478,18 @@ The style feats presented in this book are suited to urban settings. Each style 
 
 | Feat | Type | Prerequisites |
 |---|---|---|
+| [Abeyance](abeyance.md) | Blood Hex | Int 13, Spellcraft 5 ranks, Use Magic Device 1 rank |
+| [Ability Mastery](ability-mastery.md) | Item Mastery | Use Magic Device 3 ranks, base Fortitude saving throw bonus +4 |
 | [Accomplished Sneak Attacker](accomplished-sneak-attacker.md) | — | Sneak attack class feature |
 | [Ace Disarm](ace-disarm.md) | Targeting, Weapon Mastery | Dex 13, Deadly Aim, Ranged Disarm, base attack bonus +6, weapon training class feature with a ranged weapon |
 | [Ace Trip](ace-trip.md) | Targeting, Weapon Mastery | Dex 13, Deadly Aim, Ranged Trip, base attack bonus +6, weapon training class feature with a ranged weapon |
 | [Acrobatic Spellcaster](acrobatic-spellcaster.md) | Combat | Combat Casting, Skill Focus (Acrobatics) |
+| [Acute Shot](acute-shot.md) | — | Far Shot, Precise Shot |
 | [Advanced Armor Training](advanced-armor-training.md) | Combat | Armor training class feature, fighter level 3rd |
 | [Advanced Weapon Training](advanced-weapon-training.md) | Combat | Fighter level 5th, weapon training class feature |
 | [Agent of Fear](agent-of-fear.md) | — | Persuasive, frightening appearance class feature |
 | [Agile Maiden](agile-maiden.md) | Combat | Str 13, Dex 13, Endurance or armor training, heavy armor proficiency |
+| [Alchemical Strike](alchemical-strike.md) | Combat | Throw Anything, base attack bonus +6 |
 | [Align Equipment](align-equipment.md) | General | Alignment Channel, Bless Equipment, caster level 3rd, channel energy class feature |
 | [Ambuscading Spell](ambuscading-spell.md) | — | — |
 | [Ambush Sense](ambush-sense.md) | Combat | Int 13, trap sense class feature |
@@ -1558,6 +1562,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Bloodletting](bloodletting.md) | Combat | Worshiper of a deity of pain |
 | [Bloodmarked Flight](bloodmarked-flight.md) | — | Base attack bonus +5, werebat-kin |
 | [Bloody Vengeance](bloody-vengeance.md) | Combat | Base attack bonus +1, worshiper of a deity of vengeance |
+| [Blunt Blade](blunt-blade.md) | Blood Hex | Int 13, base attack bonus +6, Use Magic Device 1 rank |
 | [Blustering Bluff](blustering-bluff.md) | — | Cha 13, Bluff 1 rank, Intimidate 1 rank |
 | [Bolster Undead](bolster-undead.md) | — | Channel energy 6d6, worshiper of a deity of undeath |
 | [Born of Frost](born-of-frost.md) | — | Frost giant |
@@ -1565,15 +1570,18 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Bred Commander](bred-commander.md) | — | Hobgoblin |
 | [Brilliant Planner](brilliant-planner.md) | — | Int 13, character level 5th |
 | [Brilliant Spell Preparation](brilliant-spell-preparation.md) | — | Int 13, ability to prepare 3rd-level spells |
+| [Brisk Spell](brisk-spell.md) | Metamagic | Dex 13 |
 | [Buffeting Wings](buffeting-wings.md) | Combat | Hover, Powerful Wings |
 | [Bulette Charge Style](bulette-charge-style.md) | Combat, Style | Str 13, Improved Overrun, Power Attack, proficiency with heavy armor |
 | [Bulette Leap](bulette-leap.md) | Combat | Str 15, Bulette Charge Style, Improved Overrun, Power Attack, proficiency with heavy armor |
 | [Bulette Rampage](bulette-rampage.md) | Combat | Str 15, Bulette Charge Style, Bulette Leap, Improved Overrun, Power Attack, proficiency with heavy armor |
+| [Bull's Eye](bulls-eye.md) | Blood Hex | Dex 13, Int 13, Dodge, Mobility, Point-Blank Shot, Shot on the Run, base attack bonus +4, Use Magic Device 1 rank |
 | [Bull-Catcher Style](bull-catcher-style.md) | Combat, Style | Dex 13, Improved Grapple, Improved Unarmed Strike |
 | [Bull-Catcher Toss](bull-catcher-toss.md) | Combat | Dex 13, Bull-Catcher Style, Improved Grapple, Improved Unarmed Strike; base attack bonus +8, brawler level 4th, or monk level 4th |
 | [Bull-Catcher Wrangle](bull-catcher-wrangle.md) | Combat | Dex 13, Bull-Catcher Style, Bull-Catcher Toss, Improved Grapple, Improved Unarmed Strike; base attack bonus +12, brawler level 8th, or monk level 8th |
 | [Bullseye Shot](bullseye-shot.md) | Combat | Point-Blank Shot, Precise Shot, base attack bonus +5 |
 | [Burn It Down!](burn-it-down.md) | Combat, Teamwork | Base attack bonus +1, goblin |
+| [Burning Amplification](burning-amplification.md) | — | — |
 | [Burrowing Shot](burrowing-shot.md) | Weapon Mastery | Dex 13, Deadly Aim, base attack bonus +9, weapon training class feature with a ranged weapon |
 | [Bushwhack](bushwhack.md) | Combat | Dex 13, Improved Grapple, Improved Unarmed Strike |
 | [But a Scratch](but-a-scratch.md) | Combat | Cha 13, Bluff 4 ranks |
@@ -1585,6 +1593,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Cascade Gambit](cascade-gambit.md) | Combat | Swordlord Dueling Disciple, Sweeping Duelist, Circuitous Duelist, Weapon Finesse, Weapon Focus (dueling blade), base attack bonus +8 |
 | [Casterbane Shot](casterbane-shot.md) | Combat, Grit | Amateur Gunslinger or the grit class feature, Point-Blank Shot, Precise Shot, base attack bonus +4 |
 | [Cat and Mouse](cat-and-mouse.md) | Combat | Bluff 5 ranks, Sense Motive 5 ranks, opportune parry and riposte deed |
+| [Cataract](cataract.md) | Blood Hex | Int 13, Perception 5 ranks, Use Magic Device 1 rank |
 | [Cat’s Fall](cat-s-fall.md) | — | Dex 13, Acrobatics 1 rank |
 | [Chain Challenge](chain-challenge.md) | — | Challenge class feature, character level 7th |
 | [Chairbreaker](chairbreaker.md) | Combat | Catch Off-Guard, base attack bonus +1 |
@@ -1594,10 +1603,12 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Channel Hate](channel-hate.md) | — | Channel energy 6d6, worshiper of a deity of hatred or wronged vengeance |
 | [Channel Ray](channel-ray.md) | — | Channel energy class feature |
 | [Channel Viciousness](channel-viciousness.md) | — | Channel negative energy 4d6, worshiper of a deity of war or rage |
+| [Channeling Variance](channeling-variance.md) | — | Domain class feature, channel energy class feature, must worship and receive spells from a deity |
 | [Chaos Reigns](chaos-reigns.md) | Conduit | Knowledge (planes) 3 ranks |
 | [Charge of the Righteous](charge-of-the-righteous.md) | Combat | Base attack bonus +1, any good alignment |
 | [Child of Two Fates](child-of-two-fates.md) | — | Knowledge (local) 5 ranks, half-elf |
 | [Chilled Rock](chilled-rock.md) | — | [Born of Frost](born-of-frost.md), frost giant |
+| [Chilling Amplification](chilling-amplification.md) | — | — |
 | [Choir of Blades](choir-of-blades.md) | Combat, Teamwork | — |
 | [Circling Mongoose](circling-mongoose.md) | Combat | Dex 13, Dodge, Mobility, Spring Attack, base attack bonus +6 |
 | [Circuitous Duelist](circuitous-duelist.md) | Combat | Swordlord Dueling Disciple, Weapon Finesse, Weapon Focus (dueling blade), base attack bonus +5 |
@@ -1615,11 +1626,13 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Commander of Goblinkind](commander-of-goblinkind.md) | — | Cha 13, hobgoblin |
 | [Compulsion Mastery](compulsion-mastery.md) | Item Mastery | Use Magic Device 3 ranks, base Fortitude save bonus +6 |
 | [Conceal Spell](conceal-spell.md) | — | Deceitful, Bluff 1 rank, Disguise 1 rank, Sleight of Hand 1 rank |
+| [Concealment Mastery](concealment-mastery.md) | Item Mastery | Stealth 3 ranks, Use Magic Device 3 ranks, base Fortitude saving throw bonus +3 |
 | [Concentrated Fire](concentrated-fire.md) | Combat, Teamwork | Point-Blank Shot, elf, weapon familiarity racial trait |
 | [Concentrated Splash](concentrated-splash.md) | Combat | Precise Shot or Throw Anything |
 | [Conciliator](conciliator.md) | Story | See text |
 | [Confabulist](confabulist.md) | — | Bluff 9 ranks, Sense Motive 9 ranks |
 | [Consortium Partner](consortium-partner.md) | — | — |
+| [Consumption](consumption.md) | Blood Hex | Int 13, Use Magic Device 5 ranks |
 | [Conversion Channel](conversion-channel.md) | — | Channel energy 7d6, worshiper of a deity of tyranny and contracts |
 | [Convincing Persona](convincing-persona.md) | — | Bluff 5 ranks, Perform (act) 5 ranks, or dual identity |
 | [Cooperative Counterspelling](cooperative-counterspelling.md) | Teamwork | Spellcraft 5 ranks, racial spell-like ability replicating a spell of 1st level or higher |
@@ -1715,6 +1728,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Dirty Grapple](dirty-grapple.md) | Combat | Dex 13, Int 13, Combat Expertise, Improved Dirty Trick, Improved Grapple, Improved Unarmed Strike, base attack bonus +6 |
 | [Disarm Partner](disarm-partner.md) | Combat, Teamwork | Base attack bonus +1 |
 | [Disciple of the Blade](disciple-of-the-blade.md) | — | Weapon Focus (deity’s favored weapon), cleric or inquisitor level 4th, worshiper of a deity |
+| [Disconcerting Stare](disconcerting-stare.md) | Combat, Stare | Mesmerist level 5th, painful stare class feature |
 | [Dispel Focus](dispel-focus.md) | General | Ability to cast dispel magic |
 | [Dispel Mastery](dispel-mastery.md) | Item Mastery | Use Magic Device 3 ranks, base Fortitude save bonus +6 |
 | [Distant Spell Link](distant-spell-link.md) | — | Enlarge Spell or Reach Spell; animal companion, eidolon, familiar, or other allied creature with the share spells ability |
@@ -1751,6 +1765,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Edge Runner](edge-runner.md) | — | Dex 13 |
 | [Eerie Sense](eerie-sense.md) | — | Ability to cast *detect undead* or *detect evil* as a spell or spell-like ability, worshiper of a deity of death and fate |
 | [Eldritch Aid](eldritch-aid.md) | — | Caster level 1st |
+| [Eldritch Assault](eldritch-assault.md) | — | Blind-Fight, Improved Initiative |
 | [Elemental Discipline Style](elemental-discipline-style.md) | Combat, Style | Wis 13, base attack bonus +5 or monk level 5th |
 | [Elemental Strike](elemental-strike.md) | Combat | Ifrit, oread, sylph, or undine |
 | [Elemental Vigor](elemental-vigor.md) | — | Worshiper of an elemental deity |
@@ -1762,6 +1777,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Empty Quiver Flexibility](empty-quiver-flexibility.md) | Combat | Empty Quiver Style, Rapid Shot, Stabbing Shot, Weapon Focus with the chosen weapon |
 | [Empty Quiver Flurry](empty-quiver-flurry.md) | Combat | Empty Quiver Flexibility, Empty Quiver Style, Rapid Shot, Stabbing Shot, Weapon Focus with the chosen weapon |
 | [Empty Quiver Style](empty-quiver-style.md) | Combat, Style | Weapon Focus with the chosen weapon |
+| [Encouraging Spell](encouraging-spell.md) | Metamagic | Cha 13, Diplomacy 6 ranks |
 | [Energy Mastery](energy-mastery.md) | Item Mastery | Use Magic Device 1 rank, base Fortitude save bonus +4 |
 | [Enrage Opponent](enrage-opponent.md) | Combat, Panache | Cha 13, Amateur Swashbuckler or panache class feature, Persuasive |
 | [Entreating Critical](entreating-critical.md) | Combat, Critical | Cha 15, Call Truce, Critical Focus, Persuasive, base attack bonus +11, Diplomacy 5 ranks |
@@ -1770,6 +1786,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Exceptional Pull](exceptional-pull.md) | Combat | Dex 13, Deadly Aim, base attack bonus +3 |
 | [Exorcist’s Rebuttal](exorcists-rebuttal.md) | — | Improved Iron Will, Iron Will |
 | [Expanded Hunter Tactics](expanded-hunter-tactics.md) | Combat | Hunter tactics class feature |
+| [Expanded Metakinesis](expanded-metakinesis.md) | — | Kinetic blast class feature, metakinesis class feature |
 | [Expanded Spell Kenning](expanded-spell-kenning.md) | — | Spell kenning class feature |
 | [Expanded Studies](expanded-studies.md) | — | Wis 17, hunter or warpriest level 16th |
 | [Expanded Summon Monster](expanded-summon-monster.md) | General | Ability to cast a summon monster spell |
@@ -1779,18 +1796,21 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Expert Sniper](expert-sniper.md) | Combat | Stealth 3 ranks |
 | [Explosive Escape](explosive-escape.md) | Combat | Dex 13, Str 13, Improved Grapple, Improved Unarmed Strike |
 | [Exquisite Sneak](exquisite-sneak.md) | — | Dex 15, Careful Sneak, Stealth 6 ranks |
+| [Extra Blood Hex](extra-blood-hex.md) | Blood Hex | Int 15, two or more blood hex feats, Spellcraft 5 ranks, Use Magic Device 5 ranks |
 | [Extra Contingency](extra-contingency.md) | — | Character level 19th |
 | [Extra Croaking](extra-croaking.md) | — | Boggard, terrifying croak |
 | [Extra Feature](extra-feature.md) | — | Con 13, skinwalker |
 | [Extra Impromptu Sneak Attack](extra-impromptu-sneak-attack.md) | Combat | Impromptu sneak attack class feature |
 | [Extra Item Slot](extra-item-slot.md) | — | Non-humanoid body shape |
 | [Extra Spontaneous Spell Mastery](extra-spontaneous-spell-mastery.md) | — | Spontaneous spell mastery class feature |
+| [Extra Variance](extra-variance.md) | — | Channeling Variance or variant channeling ability, channel energy class feature |
 | [Extraplanar Conjunction](extraplanar-conjunction.md) | Teamwork | Any racial spell-like ability, outsider |
 | [Eye for Ingredients](eye-for-ingredients.md) | — | Eschew Materials, Appraise 6 ranks, Spellcraft 6 ranks |
 | [Eyes of the Twilight](eyes-of-the-twilight.md) | — | Sharp Senses, Perception 7 ranks, keen senses racial trait, low-light vision |
 | [Falcon’s Cry](falcons-cry.md) | — | Cha 13 |
 | [False Casting](false-casting.md) | — | Magical Aptitude, Bluff 1 rank, Sleight of Hand 1 rank |
 | [False Focus](false-focus.md) | — | Knowledge (religion) 1 rank, ability to cast arcane spells |
+| [Falter](falter.md) | Blood Hex | Int 13, Spellcraft 5 ranks, Use Magic Device 5 ranks |
 | [Familiar Bond](familiar-bond.md) | — | Iron Will |
 | [Familiar Focus](familiar-focus.md) | — | Familiar |
 | [Familiar Spell](familiar-spell.md) | Metamagic | Spellcaster with familiar class feature |
@@ -1841,6 +1861,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Focused Undead Expertise](focused-undead-expertise.md) | Combat | Favored enemy (undead) class feature |
 | [Focused Vermin Expertise](focused-vermin-expertise.md) | Combat | Favored enemy (vermin) class feature |
 | [Fool Magic](fool-magic.md) | — | Deceitful, Disguise 1 rank, Use Magic Device 1 rank |
+| [Force Shield Mastery](force-shield-mastery.md) | Item Mastery | Use Magic Device 3 ranks, base Fortitude saving throw bonus +3 |
 | [Forceful Channel](forceful-channel.md) | — | Channel negative energy 7d6, worshiper of a deity of magic |
 | [Forceful Charge](forceful-charge.md) | Animal Companion | Improved Bull Rush, Power Attack, animal companion |
 | [Fortuitous Vigor](fortuitous-vigor.md) | Combat | Con 13, Combat Vigor, character level 4th |
@@ -1898,6 +1919,8 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Heroic Leader](heroic-leader.md) | Combat | Cha 13, any combat feat, ability to gain an animal companion, cohort, eidolon, familiar, or mount |
 | [Heroic Legacy](heroic-legacy.md) | — | Base attack bonus +5, good alignment |
 | [High Magic Focus](high-magic-focus.md) | Teamwork | Any metamagic feat, Spellcraft 7 ranks, ability to cast 2nd-level spells, human |
+| [Hinder](hinder.md) | Blood Hex | Int 13, Use Magic Device 5 ranks |
+| [Hindrance Dismissal](hindrance-dismissal.md) | — | — |
 | [Hollow Soul](hollow-soul.md) | Conduit | Knowledge (planes) 9 ranks |
 | [Holy Water Assault](holy-water-assault.md) | Combat | Base attack bonus +1, Knowledge (religion) 3 ranks |
 | [Hook Fighter](hook-fighter.md) | Combat | Base attack bonus +1 |
@@ -1912,6 +1935,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Illusive Gnome Bewilderment](illusive-gnome-bewilderment.md) | Combat | Int 13, Combat Expertise, Gnome Weapon Focus, Illusive Gnome Style, Illusive Gnome Surprise, Improved Feint, gnome magic and weapon familiarity racial traits |
 | [Illusive Gnome Style](illusive-gnome-style.md) | Combat, Style | Int 13, Combat Expertise, Gnome Weapon Focus, Improved Feint, base attack bonus +1, gnome magic and weapon familiarity racial traits |
 | [Illusive Gnome Surprise](illusive-gnome-surprise.md) | Combat | Int 13, Combat Expertise, Gnome Weapon Focus, Illusive Gnome Style, Improved Feint |
+| [Implement Mastery](implement-mastery.md) | Item Mastery | Implements class feature, mental focus class feature |
 | [Imposing Bearing](imposing-bearing.md) | Armor Mastery | Poised Bearing, base attack bonus +11 or fighter level 8th, armor training class feature, proficiency with heavy armor |
 | [Impressive Grit](impressive-grit.md) | Weapon Mastery | Base attack bonus +11, weapon training class feature with a ranged weapon |
 | [Improved Armor Focus](improved-armor-focus.md) | Combat | Armor Focus, base attack bonus +6, proficiency with selected armor |
@@ -1989,6 +2013,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Magical Epiphany](magical-epiphany.md) | — | Ability to prepare spells, worshiper of a deity of magic |
 | [Maleficium](maleficium.md) | Damnation | Patronage of an evil outsider |
 | [Malleable Form](malleable-form.md) | Conduit | Knowledge (planes) 7 ranks |
+| [Manifold Stare](manifold-stare.md) | Combat, Stare | Mesmerist level 3rd, painful stare class feature |
 | [Manipulative Agility](manipulative-agility.md) | — | Bluff 1 rank, Sleight of Hand 1 rank |
 | [Marksman’s Utility](marksmans-utility.md) | Weapon Mastery | Base attack bonus +6, weapon training class feature with a ranged weapon |
 | [Martial Dominance](martial-dominance.md) | Combat | Base attack bonus +5, Intimidate 1 rank |
@@ -2117,6 +2142,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Powerful Poisoning](powerful-poisoning.md) | — | Power Attack; Craft (poison) 3 ranks or poison use class feature |
 | [Powerful Tongue](powerful-tongue.md) | — | Str 17, sticky tongue |
 | [Powerful Wings](powerful-wings.md) | Combat | Str 13, Skill Focus (Fly), base attack bonus +8 |
+| [Practiced Ritualist](practiced-ritualist.md) | — | Knowledge (arcana, history, planes, and religion) 1 rank |
 | [Press to the Wall](press-to-the-wall.md) | Combat | Step Up, base attack bonus +3 |
 | [Primal Bloom](primal-bloom.md) | Conduit | Knowledge (planes) 10 ranks |
 | [Protective Channel](protective-channel.md) | — | Channel energy 7d6, worshiper of a deity of valor and justice |
@@ -2132,6 +2158,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Quick Stow](quick-stow.md) | Combat | Quick Draw, base attack bonus +1 |
 | [Quick Study](quick-study.md) | Combat | Int 13, bravery +3 class feature, fighter level 10th |
 | [Quiet Death](quiet-death.md) | Combat | Dex 19, Stealth 10 ranks, rogue level 10th |
+| [Racial Item Mastery](racial-item-mastery.md) | Item Mastery | Use Magic Device 6 ranks, base Fortitude saving throw bonus +3 |
 | [Raging Brute](raging-brute.md) | — | Str 21 |
 | [Raging Regeneration](raging-regeneration.md) | Combat | Rage class ability, regeneration, troll |
 | [Ranged Disable](ranged-disable.md) | — | Far Shot, Point-Blank Shot, Weapon Focus, Disable Device 9 ranks |
@@ -2152,7 +2179,9 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Reject Poison](reject-poison.md) | — | Con 13, poison use class feature, worshiper of a deity of secrets and poison |
 | [Relentless Cheer](relentless-cheer.md) | Teamwork | Halfling, fearless and halfling luck racial traits |
 | [Relentless Shot](relentless-shot.md) | Combat | Point-Blank Shot, base attack bonus +6 |
+| [Resistance Mastery](resistance-mastery.md) | Item Mastery | Use Magic Device 3 ranks, base Fortitude saving throw bonus +3 |
 | [Resisting Grappler](resisting-grappler.md) | Combat | Dex 13 |
+| [Restoration Mastery](restoration-mastery.md) | Item Mastery | Heal 5 ranks, Use Magic Device 5 ranks, base Fortitude saving throw bonus +3 |
 | [Restorative Vigor](restorative-vigor.md) | Combat | Con 15, Combat Vigor, character level 8th |
 | [Retributive Kick](retributive-kick.md) | Weapon Mastery | Improved Unarmed Strike, base attack bonus +5, weapon training class feature with a melee weapon |
 | [Returning Throw](returning-throw.md) | Combat, Teamwork | Point-Blank Shot, Precise Shot, Sleight of Hand 3 ranks, goblinoid subtype |
@@ -2171,6 +2200,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Savage Critical](savage-critical.md) | — | Str 19, ogre, sneak attack +2d6 |
 | [Savage Surge](savage-surge.md) | Combat, Performance | Intimidating Prowess, rage class feature |
 | [Savior’s Arrow](savior-s-arrow.md) | — | Ability to cast cure spells, proficient with longbow, worshiper of a deity of the hunt and farming |
+| [Scale and Skin](scale-and-skin.md) | — | Con 13 |
 | [Scar Soldier Devotion](scar-soldier-devotion.md) | — | Bodyguard, Combat Reflexes, Perform (oratory) 3 ranks, good |
 | [Scar Soldier Initiate](scar-soldier-initiate.md) | — | Female, 1st level only |
 | [Scarred Legion](scarred-legion.md) | Teamwork | — |
@@ -2209,6 +2239,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Shielded Gauntlet Master](shielded-gauntlet-master.md) | Combat | Shielded Gauntlet Attack, Shield Gauntlet Style, Weapon Focus (gauntlet or spiked gauntlet), proficiency with bucklers and light shields |
 | [Shielded Mage](shielded-mage.md) | Shield Mastery | Shield Focus, base attack bonus +3 or fighter level 1st |
 | [Shielded Stand](shielded-stand.md) | Shield Mastery | Shield Focus, base attack bonus +3 or fighter level 1st |
+| [Shocking Amplification](shocking-amplification.md) | — | — |
 | [Shocking Bellow](shocking-bellow.md) | Combat | Intimidating Prowess |
 | [Shrapnel Strike](shrapnel-strike.md) | Combat | Str 15, Improved Sunder, Power Attack |
 | [Shrouded in Mystery](shrouded-in-mystery.md) | — | Bluff 1 rank; Disguise 1 rank; kitsune, nagaji, samsaran, tengu, or wayang |
@@ -2327,6 +2358,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Swordplay Style](swordplay-style.md) | Combat, Style | Combat Expertise, Weapon Focus with the chosen weapon, base attack bonus +3 |
 | [Swordplay Upset](swordplay-upset.md) | Combat | Combat Expertise, Improved Feint, Swordplay Style, Weapon Focus with the chosen weapon, base attack bonus +5 |
 | [Sycophant](sycophant.md) | — | — |
+| [Symbolic Mastery](symbolic-mastery.md) | Item Mastery | Use Magic Device 4 ranks, base Fortitude saving throw bonus +2 |
 | [Syndicate Tattoos](syndicate-tattoos.md) | — | Member of a criminal organization that marks its ranks with tattoos |
 | [Tactical Reposition](tactical-reposition.md) | Combat | Int 13, Combat Expertise, Improved Reposition |
 | [Tag-Team Interrogation](tag-team-interrogation.md) | Teamwork | Intimidating Prowess or Persuasive, Diplomacy 1 rank, Intimidate 1 rank |
@@ -2382,6 +2414,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Tyrant's Rebuke](tyrants-rebuke.md) | Conduit | Knowledge (planes) 5 ranks |
 | [Umbral Shift](umbral-shift.md) | Teamwork | Darkness racial spell-like ability |
 | [Unbreakable](unbreakable.md) | Combat | Con 13, Endurance, Toughness, fighter level 4th |
+| [Uncertainty](uncertainty.md) | Blood Hex | Int 13; Bluff, Diplomacy, and Intimidate 5 ranks |
 | [Unconquerable Resolve](unconquerable-resolve.md) | Combat | Resolve class feature, samurai level 1st |
 | [Undermining Exploit](undermining-exploit.md) | — | Knowledge (dungeoneering) 4 ranks |
 | [Underworld Connections](underworld-connections.md) | — | — |
@@ -2398,6 +2431,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Vanguard Hustle](vanguard-hustle.md) | Combat | Dex 13, Bodyguard, Combat Patrol, Combat Reflexes, Mobility, Saving Shield, Vanguard Style, Vanguard Ward, proficiency with light or heavy shields |
 | [Vanguard Style](vanguard-style.md) | Combat, Style | Bodyguard, Combat Reflexes, proficiency with light or heavy shields |
 | [Vanguard Ward](vanguard-ward.md) | Combat | Bodyguard, Combat Reflexes, Vanguard Style, proficiency with light or heavy shields |
+| [Vast Spell](vast-spell.md) | Metamagic | Caster level 3rd |
 | [Veiled Purity](veiled-purity.md) | — | 5 or more Hit Dice, good alignment |
 | [Vengeful Banisher](vengeful-banisher.md) | Story | You witnessed at least one family member or a close friend being killed by demons or demonic cultists, or you have the Hated Foe or An Eye for an Eye background |
 | [Venomous Spray](venomous-spray.md) | Combat | Serpentfolk |
@@ -2422,6 +2456,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Wasp Familiar](wasp-familiar.md) | — | Chaotic neutral alignment, worshiper of a chaotic neutral deity of lust, revenge, and trickery |
 | [Wave Master](wave-master.md) | — | Worshiper of a deity of the sea and nature |
 | [Weapon Adept](weapon-adept.md) | Combat | — |
+| [Weapon Evoker Mastery](weapon-evoker-mastery.md) | Item Mastery | Use Magic Device 2 ranks, base Fortitude saving throw bonus +3 |
 | [Weapon Material Mastery](weapon-material-mastery.md) | Weapon Mastery | Base attack bonus +7, weapon training class feature with a melee weapon |
 | [Weapon Style Mastery](weapon-style-mastery.md) | Style, Weapon Mastery | Any two style feats from different styles, base attack bonus +6, weapon training class feature with a melee weapon |
 | [Weapon Trick](weapon-trick.md) | Combat | Base attack bonus +1 |

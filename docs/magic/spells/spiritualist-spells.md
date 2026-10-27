@@ -216,6 +216,7 @@ Spiritualists gain access to the following spells. Spells without a link come fr
 
 ## 4th-Level Spiritualist Spells
 
+- **[Akashic Communion](akashic-communion.md)**: Many Knowledge checks with +10 insight.
 - **[Anti-Incorporeal Shell](anti-incorporeal-shell.md)**: Incorporeal creatures stay 10 ft. away from you.
 - **[Appearance of Life, Greater](appearance-of-life-greater.md)**: Perfectly disguise any undead creature as a living one
 - **[Assume Appearance, Greater](assume-appearance-greater.md)**: Use a likeness to adopt a dead creature’s form.
@@ -251,6 +252,7 @@ Spiritualists gain access to the following spells. Spells without a link come fr
 - **[Imbue with Spell Ability](imbue-with-spell-ability.md)**: Transfer spells to subject.
 - **[Inflict Critical Wounds](inflict-critical-wounds.md)**: Touch attack, 4d8 damage + 1/level (max +20).
 - **[Invisibility, Greater](invisibility-greater.md)**: As invisibility, but subject can attack and stay invisible.
+- **[Irregular Size](irregular-size.md)**: Curse shrivels arms, legs, or wings.
 - **[Locate Creature](locate-creature.md)**: Indicates direction to familiar creature.
 - **[Majestic Image](majestic-image.md)**: As *enter image*, but also gain bonuses on social skills while in the image.
 - **[Mind Swap](mind-swap.md)**: Switch minds with another creature for 1 hour per level.
@@ -285,6 +287,7 @@ Spiritualists gain access to the following spells. Spells without a link come fr
 - **[Torpid Reanimation](torpid-reanimation.md)**: *Animate dead* when a specific trigger condition occurs.
 - **[Vicarious View](vicarious-view.md)**: Plant a scrying sensor that you can use to spy on a creature, object, or location.
 - **[Vigilant Rest](vigilant-rest.md)**: Cause a sleeping creature to retain some perception of its surroundings.
+- **[Wall of Bone](wall-of-bone.md)**: A wall of grasping skeletal hands.
 
 ## 5th-Level Spiritualist Spells
 
@@ -365,10 +368,12 @@ Spiritualists gain access to the following spells. Spells without a link come fr
 - **[Heal](heal.md)**: Cures 10 points/level damage, all diseases and mental conditions.
 - **[Heroism, Greater](heroism-greater.md)**: Gives +4 bonus on attack rolls, saves, skill checks; immunity to fear; temporary hp.
 - **[Hunger for Flesh, Mass](hunger-for-flesh-mass.md)**: Give creatures bite attacks and a hunger for their own kind’s flesh.
+- **[Impenetrable Veil](impenetrable-veil.md)**: Target is nearly impossible to detect.
 - **[Leashed Shackles](leashed-shackles.md)**
 - **[Legend Lore](legend-lore.md)**: Lets you learn tales about a person, place, or thing.
 - **[Mislead](mislead.md)**: Turns you invisible and creates illusory double.
 - **[Object Possession, Greater](object-possession-greater.md)**: As possess object, but the object is more powerful and you can possess a construct.
+- **[Phasic Challenge](phasic-challenge.md)**: An enemy and an ally can affect only each other.
 - **[Prognostication](prognostication.md)**: Gain cryptic information from further in the future than *divination*.
 - **[Repulsion](repulsion.md)**: Creatures can’t approach you.
 - **[Sealed Life, Greater](sealed-life-greater.md)**: As sealed life, plus death ward and immunity to soul transference.

@@ -167,3 +167,5 @@ The following text is the property of Wizards of the Coast, Inc. and is Copyrigh
     Pathfinder Player Companion: Ranged Tactics Toolbox © 2014, Paizo Inc.; Authors: David N. Ross, David Schwartz, and Kaitlyn Sprague.
 
     Pathfinder Player Companion: Melee Tactics Toolbox © 2015, Paizo Inc.; Authors: Paris Crenshaw, Ron Lundeen, and David Schwartz.
+
+    Pathfinder Player Companion: Magic Tactics Toolbox © 2016, Paizo Inc.; Authors: Alexander Augunas, Steven T. Helt, Thurston Hillman, and Ron Lundeen.

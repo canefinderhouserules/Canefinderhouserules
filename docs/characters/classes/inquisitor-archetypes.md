@@ -816,3 +816,13 @@ A cold iron warden can take other feats to add to this ability such as Improved 
 **Bane (Su)**: A cold iron warden reduces the amount of bonus damage dealt when using her bane ability against creatures that are not outsiders with the chaotic or evil subtype by 1d6. She increases the amount of bonus damage by 1d6 when she selects outsiders with the chaotic or evil subtype. This ability modifies the bane ability.
 
 **Translate Telepathy (Su)**: At 5th level, an inquisitor can sense when a creature within 5 feet of her receives or sends a telepathic message. The distance at which she can detect telepathic messages increases by 5 feet for every 5 additional inquisitor levels she has beyond 5th level, to a maximum of 20 feet at 20th level. By making a Perception check (DC 15 + the highest CR of the creatures using telepathy) as an immediate action, she may listen to all telepathic messages sent to and by creatures in this area for a number of rounds per day equal to her inquisitor level. These rounds do not need to be consecutive. This ability replaces discern lies.
+
+## Urban Infiltrator
+
+Masters of secretly gathering information to further their faith's ends, urban infiltrators excel at operating within an unfriendly society or infiltrating an enemy cult. This archetype is available to any inquisitor who prefers subtle investigation to forthright zeal.
+
+**Class Skills**: An urban infiltrator adds Disable Device, Knowledge (history), Knowledge (local), and Knowledge (nobility) to her list of class skills in place of Knowledge (dungeoneering) and Knowledge (nature). This alters the inquisitor's class skills.
+
+**Gifted Detective (Ex)**: An urban infiltrator adds her Wisdom modifier as well as her Charisma modifier on Bluff and Disguise skill checks and on Diplomacy checks to gather information. Attempting a Diplomacy check to gather information never takes an urban infiltrator more than 1 hour. This ability replaces monster lore.
+
+**A Thousand Faces (Su)**: At 11th level, an urban infiltrator gains the ability to change her appearance at will, as if using the *alter self* spell. This ability replaces stalwart.

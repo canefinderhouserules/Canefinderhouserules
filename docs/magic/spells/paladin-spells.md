@@ -165,6 +165,7 @@
 - **[Dispel Chaos](dispel-chaos.md)**: +4 bonus against attacks by chaotic creatures.
 - **[Dispel Evil](dispel-evil.md)**: +4 bonus against attacks by evil creatures.
 - **[Eaglesoul](eaglesoul.md)**: Combat bonuses against evil creatures, especially evil outsiders.
+- **[Flash Forward](flash-forward.md)**: Make a charge attack, then teleport back.
 - **[Forceful Strike](forceful-strike.md)**: Melee hit deals extra force damage and bull rush.
 - **[Healing Flames](healing-flames.md)**: Holy flames heal good creatures and burn evil ones.
 - **[Holy Sword](holy-sword.md)**: Weapon becomes +5, deals +2d6 damage against evil.

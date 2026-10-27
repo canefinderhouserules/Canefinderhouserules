@@ -49,6 +49,7 @@
 - **[Hidden Spring](hidden-spring.md)**: Discover a temporary spring of fresh, flowing water.
 - **[Hide from Animals](hide-from-animals.md)**: Animals can’t perceive one subject/level.
 - **[Ice Armor](ice-armor.md)**: Breastplate made of ice.
+- **[Itching Curse](itching-curse.md)**: Itch gives –1 penalty unless scratched.
 - **[Jump](jump.md)**: Subject gets bonus on Acrobatics checks.
 - **[Liberating Command](liberating-command.md)**: Target makes an Escape Artist check as an immediate action and gains a bonus on it.
 - **[Longstrider](longstrider.md)**: Your speed increases by 10 ft.
@@ -103,6 +104,7 @@
 - **[Barkskin](barkskin.md)**: Grants +2 (or higher) enhancement to natural armor.
 - **[Bear’s Endurance](bears-endurance.md)**: Subject gains +4 to Con for 1 min./level.
 - **[Binding Earth](binding-earth.md)**: If the target of this spell fails its Fortitude save, areas of earth and stone floor act as a snapping.
+- **[Bone Fists](bone-fists.md)**: Targets gain natural armor, natural weapon damage, and armor spikes.
 - **[Brittle Portal](brittle-portal.md)**: Reduce the hardness of a surface.
 - **[Bull’s Strength](bulls-strength.md)**: Subject gains +4 to Str for 1 min./level.
 - **[Burdened Thoughts](burdened-thoughts.md)**: Target is encumbered and cannot fly.
@@ -326,6 +328,7 @@
 - **[Substitute Trail](substitute-trail.md)**: Make the targets’ trails look like another creature’s.
 - **[Summon Nature’s Ally IV](summon-natures-ally-iv.md)**: Summons creature to fight.
 - **[Sword to Snake](sword-to-snake.md)**: An item bites whoever handles it.
+- **[Warp Metal](warp-metal.md)**: Permanently warps metal objects.
 - **[Watchful Animal](watchful-animal.md)**: Your animal companion or familiar becomes a scrying sensor.
 - **[Wooden Wing Shield](wooden-wing-shield.md)**: Your wings become a barrier granting a +4 shield bonus to AC.
 - **[Zone of Foul Flames](zone-of-foul-flames.md)**: Casters take full damage from their own fire effects.
@@ -363,6 +366,7 @@
 - **[Neutralize Poison, Greater](neutralize-poison-greater.md)**: As neutralize poison, but it also reverses poison damage.
 - **[Old Salt’s Curse](old-salt-s-curse.md)**: You inflict a curse of the roiling sea upon the target, making it permanently sickened.
 - **[Poisonous Balm](poisonous-balm.md)**: As *cure serious wounds*, but leave behind a latent venom.
+- **[Release the Hounds](release-the-hounds.md)**: Summons a swarm-like pack of canines.
 - **[Replay Tracks](replay-tracks.md)**: Reconstruct past events from a set of tracks.
 - **[Sawtooth Terrain](sawtooth-terrain.md)**: Serrated blades erupt from a surface.
 - **[Soulswitch](soulswitch.md)**: Swap souls with your familiar.
@@ -371,6 +375,7 @@
 - **[Summon Nature’s Ally V](summon-natures-ally-v.md)**: Summons creature to fight.
 - **[Swallow Poison](swallow-poison.md)**: Protect yourself from ingested poison, then spit it out in a cone.
 - **[Tidal Surge](tidal-surge.md)**: Create a surge of water to bludgeon foes and extinguish fires.
+- **[Touch of Slumber](touch-of-slumber.md)**: Nonhostile creature falls asleep for hours.
 - **[Transmute Mud to Rock](transmute-mud-to-rock.md)**: Transforms two 10-ft. cubes per level.
 - **[Transmute Rock to Mud](transmute-rock-to-mud.md)**: Transforms two 10-ft. cubes per level.
 - **[Tree Stride](tree-stride.md)**: Step from one tree to another far away.
@@ -413,6 +418,7 @@
 - **[Primal Regression](primal-regression.md)**: Make a creature become bestial and unintelligent.
 - **[Reincarnate Spy](reincarnate-spy.md)**: As *reincarnate*, but creating a body similar to that of a chosen creature, and you secretly keep part of the body.
 - **[Repel Wood](repel-wood.md)**: Pushes away wooden objects.
+- **[Roaming Pit](roaming-pit.md)**: A *create pit* that can move.
 - **[Share Skin](share-skin.md)**: Possess an animal as with magic jar.
 - **[Speak with Waves](speak-with-waves.md)**: Converse with a body of fresh water.
 - **[Spellstaff](spellstaff.md)**: Stores one spell in wooden quarterstaff.

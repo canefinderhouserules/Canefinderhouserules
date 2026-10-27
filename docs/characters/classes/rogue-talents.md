@@ -259,3 +259,36 @@ These rogue talents can be chosen by any rogue (including the rogue from *Pathfi
 The following rogue talent is available to drow rogues.
 
 **Grazing Shot (Ex)**: Particularly deft rogues can strike two foes with one well-placed shot. As a standard action, a rogue with this talent can fire a hand crossbow at an enemy who is granted cover by another opponent. Make one ranged attack roll and compare the result to each opponent's AC. Each hit deals 1 point of damage. Any special weapon properties or precision damage apply to only a single target, but any poison applied to the bolt affects all targets struck. An unchained rogue can select this talent.
+
+## Magic Tactics Toolbox Rogue Talents
+
+Investigators, ninja, and rogues (including the unchained rogue) can choose the following talents. An investigator, ninja, or rogue who meets a talent's prerequisites can take any of them.
+
+**Dampen Presence (Ex)**: A rogue who selects this talent gains Dampen Presence as a bonus feat. The rogue does not need to meet the feat's prerequisites. The rogue is also considered to have the Skill Focus (Stealth) feat for the purpose of satisfying the prerequisites of any feat that lists Dampen Presence as a prerequisite.
+
+**Eldritch Conduit (Su)**: As a full-round action, a rogue with this talent can use two potions, two wands, or two scrolls. Each item is expended or loses a charge as if used normally. The rogue chooses to gain the magical effect of one, but calculates its effects using the caster level of the other. The rogue must still succeed at a Use Magic Device check to operate scrolls or wands unless some other ability allows him to do so, but makes only one skill check to operate both items.
+
+**Innocent Facade (Sp)**: Once per day, a rogue with this talent can use *innocence* as a spell-like ability, using her rogue level as the spell's caster level. A rogue must have the minor magic talent before selecting this talent. An investigator can select the innocent facade rogue talent in place of an investigator talent. She must have the underworld inspiration investigator talent before selecting this talent, instead of minor magic.
+
+**Just a Face in the Crowd (Su)**: The rogue can blend into a crowd and is able to hide and spot others who appear to be hiding. The rogue gains a bonus equal to half his class level on Disguise and Perception checks when 10 or more creatures of his size are within 30 feet of him.
+
+**Occult Dungeoneer (Su)**: A rogue with this ability can use spell-trigger and spell-completion items as if the following spells were on a spell list to which he has access: *detect secret doors*, *detect traps*, *knock*, *locate object*, and *obscure object*. If the spell-trigger device allows a wielder to apply his own caster level (such as with a staff), the rogue may use his class level as his caster level. The rogue may also use *knock* as a supernatural ability once per day, using his rogue level as his caster level.
+
+**Practiced Vanisher (Su)**: A rogue with this ability is practiced at attacking from magical concealment. He can use spell-trigger and spell-completion items as if the following spells were on a spell list to which he has access: *greater invisibility*, *invisibility*, and *vanish*. Additionally, if the rogue becomes visible as a result of a weapon or spell attack, he can sheathe his weapon as a free action and instantly adopt a neutral posture. With a successful Bluff or Disguise check (opposed by witnesses' Sense Motive or Perception checks, whichever is higher), there is no obvious sign that the rogue is the source of the attack (though a lack of any other reasonable candidate can still lead observers to draw the correct conclusion).
+
+**Rapid Perception (Su)**: A rogue with this talent can attempt a Perception check to intentionally search for a specific item or creature as a swift action instead of a move action. If she is intentionally searching for an invisible creature, the creature's bonus on its Stealth check from its invisibility is halved. An investigator can select this rogue talent in place of an investigator talent. She must have the expanded inspiration investigator talent before selecting this talent.
+
+**Scry Slip (Su)**: Whenever a rogue with this talent is targeted by a scrying effect that allows a Will save, the caster of the divination must succeed at a caster level check (DC = 15 + the rogue's class level). This talent wards the rogue and any objects she is holding or carrying. An investigator can select this talent in place of an investigator talent.
+
+**Spell Storing (Su)**: The rogue can store within himself a single targeted harmless spell of up to 2nd level. The spell must have a casting time of 1 standard action. Anytime a spell that meets these conditions is cast on the rogue, and he does not already have a spell stored, he can choose to store it rather than have it take effect immediately. Anytime afterward, as a standard action, the rogue can have the spell take effect (acting in all ways as if it had just been cast on him). A rogue must have 1 rank of Use Magic Device to select this talent.
+
+**Superior Sniper (Ex)**: A rogue who selects this talent gains Expert Sniper as a bonus feat. If she already has this feat, she can instead select any feat that lists Expert Sniper as a prerequisite, as long as she meets the feat's prerequisites.
+
+### Advanced Magic Tactics Toolbox Rogue Talents
+
+Rogues of at least 10th level can select these advanced talents in place of a talent.
+
+**Glib Facade (Sp)**: Once per day, a rogue with this advanced talent can use *glibness* as a spell-like ability, using her rogue level as the spell's caster level. A rogue must have the innocent facade rogue talent before selecting this talent.
+
+**Unlock Ki (Ex)**: A rogue with this advanced talent increases the number of points in the ki pool that she gains from the ki pool rogue talent to be equal to 1/2 her rogue level + her highest mental ability score modifier (Intelligence, Wisdom, or Charisma). In addition, she can spend 2 points from her ki pool as a swift action to gain the skill unlocks for one skill of her choice as appropriate for her number of ranks in that skill. This benefit lasts for 1 minute. The rogue must have a ki pool before selecting this advanced talent.
+

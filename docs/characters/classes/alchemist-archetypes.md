@@ -978,3 +978,11 @@ The vaultbreaker combines stealth with his alchemical talents to construct speci
 **Safecracking (Ex)**: At 1st level, a vaultbreaker's bombs can help him disable locks. He gains penetrating charge as a bonus discovery. Because this ability replaces Throw Anything, the vaultbreaker's bombs do not add his Intelligence bonus to damage rolls. This ability alters bombs and replaces the Throw Anything bonus feat.
 
 **Enhanced Safecracking (Ex)**: At 3rd level, a vaultbreaker gains incendiary charge as a bonus discovery, and his incendiary charges ignore 10 points of an object's hardness instead of 5. This ability alters bombs and replaces the poison use class ability.
+
+## Dimensional Excavator
+
+Alchemists are often drawn to places where strange energies and interactions can be found. Some scholars have discovered and recorded ways to cause their bombs to create minor tears in the fabric of reality, forming extradimensional pits to vex their foes.
+
+**Extradimensional Extract (Su)**: The intense study a dimensional excavator applies to dimensional forces causes him to treat his class level as 2 lower when qualifying for alchemist discoveries other than those granted by Precipitous Discoveries (see below). At 4th level, the dimensional excavator adds *create pit* to his list of extracts known, treating it as a 2nd-level alchemist extract. He can create an extract of this spell, which can then be thrown as a ranged attack, targeting a creature or square. If it strikes a square, the pit manifests in that area and all nearby creatures are affected normally. If a creature is struck, the pit manifests in the creature's location, and the struck creature must succeed at a Reflex save with a –2 penalty or fall into the pit. This alters the discovery ability, and replaces the discovery gained at 4th level.
+
+**Precipitous Discoveries (Su)**: At 6th level, a dimensional excavator can choose to learn an additional pit spell in place of learning a new discovery. The alchemist must be able to use an extract of the appropriate level to select a pit spell as an extract. He can add the following spells to his extracts known, and use them as per the extradimensional extract ability: *spiked pit* (3rd-level extract), *acid pit* (4th-level extract), *hungry pit* (5th-level extract). This alters the discovery ability.

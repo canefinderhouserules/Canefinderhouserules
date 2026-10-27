@@ -36,6 +36,12 @@ A warpriest can select any two blessings. Each blessing is named after the domai
 
 **Fight as One (major)**: At 10th level, you can rally your allies to fight together. For 1 minute, whenever you make a successful melee or ranged attack against a foe, allies within 10 feet of you gain a +2 insight bonus on attacks of the same type you made against that foe-melee attacks if you made a melee attack, or ranged attacks if you made a ranged attack. If you score a critical hit, this bonus increases to +4 until the start of your next turn.
 
+## Curse Blessing
+
+**Hexing Attack (minor)**: You can touch one weapon and enhance it to inflict a minor curse on the next target it strikes. The struck target must succeed at a Will saving throw or take a –2 penalty on attack rolls, saving throws, skill checks, or ability checks (warpriest's choice) for 1 minute.
+
+**Retributive Curse (major)**: At 10th level, as a swift or immediate action, you can inflict a curse on any adjacent creature that scores a critical hit against you or deals precision damage to you. The target must succeed at a Will saving throw or be cursed. Select one of the following effects: the target takes a –2 penalty to one ability score of your choice (the ability cannot be reduced below 1); the target takes a –2 penalty on attack rolls, saving throws, ability checks, and skill checks; each turn, the target has a 25% chance of taking no action (otherwise, it acts normally). This curse lasts for 1 hour. A creature can be subjected to only one instance of retributive curse at a time. This otherwise functions as *bestow curse*.
+
 ## Darkness Blessing
 
 **Enshrouding Darkness (minor)**: At 1st level, you can touch an ally and bestow a darkness blessing. For 1 minute, the ally becomes enshrouded in shadows while in combat, granting it concealment (20%). Creatures that are normally able to see in supernatural darkness ignore this concealment.
