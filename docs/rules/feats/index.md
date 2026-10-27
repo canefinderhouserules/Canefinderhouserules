@@ -1574,6 +1574,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Blinded Blade Style](blinded-blade-style.md) | Combat, Style | Blind-Fight, Perception 5 ranks |
 | [Blinded Competence](blinded-competence.md) | Combat | Blinded Blade Style, Blind-Fight, Improved Blind-Fight, Perception 10 ranks |
 | [Blinded Master](blinded-master.md) | Combat | Blind-Fight, Blinded Blade Style, Blinded Competence, Greater Blind-Fight, Improved Blind-Fight, Perception 15 ranks |
+| [Blinding Light](blinding-light.md) | — | Inner Light, aasimar, *daylight* spell-like ability |
 | [Blinding Stare](blinding-stare.md) | Combat, Stare | Mesmerist level 7th, painful stare class feature |
 | [Blissful Spell](blissful-spell.md) | Metamagic | — |
 | [Blood Tide](blood-tide.md) | Combat | Combat Expertise, Greater Blood Frenzy, base attack bonus +6, blood frenzy ability, sahuagin |
@@ -2312,6 +2313,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Restorative Vigor](restorative-vigor.md) | Combat | Con 15, Combat Vigor, character level 8th |
 | [Retributive Kick](retributive-kick.md) | Weapon Mastery | Improved Unarmed Strike, base attack bonus +5, weapon training class feature with a melee weapon |
 | [Returning Throw](returning-throw.md) | Combat, Teamwork | Point-Blank Shot, Precise Shot, Sleight of Hand 3 ranks, goblinoid subtype |
+| [Revered Guidance](revered-guidance.md) | — | Aasimar, must be taken at 1st level |
 | [Reward of the Faithful](reward-of-the-faithful.md) | — | Knowledge (religion) 1 rank, alignment must match that of your worshiped deity |
 | [Rhabdomancy](rhabdomancy.md) | — | Knowledge (nature) 3 ranks, Survival 3 ranks |
 | [Ricochet Toss](ricochet-toss.md) | Weapon Mastery | Quick Draw, base attack bonus +6, weapon training class feature with a ranged weapon |
@@ -2495,8 +2497,10 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Sun Striker](sun-striker.md) | Combat, Critical | Critical Focus, Weapon Focus (deity’s favored weapon), character level 7th, worshiper of a deity of the sun |
 | [Sunblade](sunblade.md) | — | Word of Healing, paladin level 5th, worshiper of a deity that grants the Fire or Sun domain |
 | [Sunder Blessing](sunder-blessing.md) | Combat | Disruptive, fighter level 8th. |
+| [Sunlit Strike](sunlit-strike.md) | — | Arcane Strike, able to prepare or cast *sunlight* |
 | [Superior Dirty Trick](superior-dirty-trick.md) | Combat | Int 13, Combat Expertise, Greater Dirty Trick, Improved Dirty Trick, base attack bonus +8 |
 | [Superior Scryer](superior-scryer.md) | — | Spell Focus (divination), the ability to cast at least one spell of the scrying subschool |
+| [Supernal Feast](supernal-feast.md) | — | Con 15, aasimar |
 | [Supernatural Spy](supernatural-spy.md) | Story | See text |
 | [Suppress Regeneration](suppress-regeneration.md) | Combat, Teamwork | — |
 | [Suppressive Fire](suppressive-fire.md) | Combat, Teamwork | Far Shot, Point-Blank Shot, Precise Shot, keen senses racial trait |

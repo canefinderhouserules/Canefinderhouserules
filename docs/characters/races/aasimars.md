@@ -40,6 +40,8 @@ However, even if they generally tend toward human societies, aasimars can become
 
 ## Alternate Racial Traits
 
+See also the six [Aasimar Heritages](aasimar-heritages.md), which replace the default racial traits wholesale.
+
 The following racial traits may be selected instead of existing aasimar racial traits. Consult your GM before selecting any of these new options.
 
 **Celestial Crusader**: Some aasimars follow their destiny to war against the powers of ultimate evil. These individuals gain a +1 insight bonus on attack rolls and to AC against evil outsiders and a +2 racial bonus on Knowledge (planes) and Spellcraft checks to identify evil outsiders or items or effects created by evil outsiders; they may use these skills untrained for this purpose. This racial trait replaces celestial resistance and skilled.
@@ -104,6 +106,10 @@ Aasimars have access to the following equipment.
 - [Heavenly Radiance](../../rules/feats/heavenly-radiance.md)
 - [Improved Channel Force](../../rules/feats/improved-channel-force.md)
 - [Metallic Wings](../../rules/feats/metallic-wings.md)
+- [Blinding Light](../../rules/feats/blinding-light.md)
+- [Revered Guidance](../../rules/feats/revered-guidance.md)
+- [Sunlit Strike](../../rules/feats/sunlit-strike.md)
+- [Supernal Feast](../../rules/feats/supernal-feast.md)
 
 ## Magic Items
 

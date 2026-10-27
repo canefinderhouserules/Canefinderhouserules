@@ -118,6 +118,24 @@ Only ratfolk may select one of these traits.
 
 **Business Venturer**: Your mercantile pursuits have made you better traveled than most ratfolk. You gain a +1 trait bonus on Appraise, Knowledge (local), and Profession (merchant) checks, and one of these skills (your choice) is a class skill for you.
 
+## Aasimar Traits
+
+**Adrift**: You never felt like you belonged in your family. You were different, an outsider, and you grew up unable to bond with the people around you. Now, as an adult, you are still a little odd and others have a hard time understanding what makes you tick. You receive a +1 trait bonus on saving throws made to resist charm and compulsion effects.
+
+**Clergy Member**: You belong to a particular faith, and your religious leaders see you as a mortal aspect of their deity. You are treated with respect and graciousness whenever you visit a temple of your faith. You receive a +1 trait bonus on Diplomacy checks when interacting with ordained members of your religion, and once per week you can request aid from a temple of your faith. The GM has final say in what sort of aid you can reasonably request, but in general you may ask for the casting of a 1st-level spell or for a nonmagical item worth 50 gp or less.
+
+**Ethical Leader**: You attract followers who agree with your philosophical outlook on life. Your followers and cohorts are more willing to serve you because of their confidence in your strong moral position. You gain a +1 trait bonus to your Leadership score if all your cohorts and followers have an alignment within one step of your alignment.
+
+**Faith Healer**: You have an unearthly appearance and soothing aura about you that make people believe you are gifted with divine powers. You learned at a young age to make use of your gift in order to make money, and you've found ways to ethically justify your work. You can make a Heal check weekly to earn money as though making a Profession check. In addition, you gain a +1 trait bonus on Heal checks.
+
+**Innocent**: No one can believe someone as pure as you could be deceptive in any way. You have an air of innocence about you, and people have a hard time believing you could ever do anyone harm. When you make a Bluff check to tell a lie, your target always wants to believe you, granting you the standard +5 bonus on your Bluff check. This bonus only applies if the lie you tell is either believable or unlikely.
+
+**Planar Negotiator**: You are skilled at convincing outsiders that you require their aid. Whenever you cast *lesser planar ally*, *planar ally*, or *greater planar ally*, you receive a 10% discount on the monetary cost required by the summoned outsiders. This bonus has no effect on services the outsiders may demand in order to strike a bargain.
+
+**Selective Health**: You are resistant to most illnesses that strike those around you, but vulnerable to the contagions of evil. You gain a +2 trait bonus on Fortitude saves against diseases. However, whenever you must make a Fortitude saving throw against a disease inflicted by an undead creature or evil outsider (such as mummy rot or a vrock's spores), you do not gain this bonus, and instead take a –2 penalty on your Fortitude save.
+
+**Wary**: You grew up around people who were jealous and hostile toward you. Perhaps your parents were not pleased to have a child touched by the divine—they may have berated or beaten you, or even sold you into slavery for an exorbitant price. You grew up mistrustful of others and believing your unique appearance to be a curse. You gain a +1 trait bonus on Disguise and Sense Motive checks.
+
 ## Tiefling Traits
 
 Only tieflings may select one of these traits.

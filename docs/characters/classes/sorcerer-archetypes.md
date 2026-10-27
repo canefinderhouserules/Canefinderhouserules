@@ -1003,6 +1003,30 @@ At 13th level, you can use this ability after succeeding at a saving throw to re
 
 *Immortal Legend (Ex)*: At 20th level, you cease aging; no longer need to eat, drink, or sleep; and gain immunity to death effects and energy drain.
 
+## Martyred Bloodline
+
+One of your ancestors paid the ultimate price for her beliefs. This distant relative martyred herself out of her devout belief in a cause, and that sacrifice echoed down to her descendants, infusing them with arcane power. Your bloodline confers abilities that allow you to endure pain, resist torture, and inspire others.
+
+**Class Skill**: Perform (oratory).
+
+**Bonus Spells**: *endure elements* (3rd), *surmount affliction* (5th), *heroism* (7th), *blessing of fervor* (9th), *greater heroism* (13th), *joyful rapture* (15th), *mind blank* (17th), *overwhelming presence* (19th).
+
+**Bonus Feats**: Diehard, Endurance, Heroic Defiance, Heroic Recovery, Leadership, Persuasive, Skill Focus (Perform), Toughness.
+
+**Bloodline Arcana**: Whenever you take damage in battle, your effective caster level increases by 1 during your next turn. This effect does not apply more than once per round.
+
+**Bloodline Powers**: You draw upon the power of your ancestor's self-sacrifice.
+
+*Sacrificial Boon (Su)*: At 1st level, as an immediate action, you can sacrifice 1 hit point in exchange for a +1 sacred bonus on the next damage roll, saving throw, or skill check you make. This bonus only applies as long as you use it by or during your next turn—otherwise both your sacrificed hit point and the bonus are wasted. You can use this ability a number of times per day equal to 3 + your Charisma modifier.
+
+*Rallying Cry (Su)*: At 3rd level, as a standard action once per day, you can shout a cry instilled with the noble sacrifices of your ancestor. You and any allies within 30 feet who can hear you gain a +1 morale bonus on attack and damage rolls for a number of rounds equal to half your sorcerer level (minimum 1). At 7th level and every four levels thereafter, this bonus increases by +1, to a maximum of +5 at 19th level.
+
+*Gift of Blood (Su)*: At 9th level, as a standard action, you can choose to sacrifice some of your hit points to grant an ally double that number in temporary hit points. You can sacrifice up to your character level in hit points when using this ability. These temporary hit points last up to 1 minute per sorcerer level. You cannot heal your sacrificed hit points until your target has lost its temporary hit points. At 9th level, you can use this ability once per day. At 17th level, you can use this ability twice per day.
+
+*Sacrificial Exchange (Su)*: At 15th level, as a swift action once per day, you can take 2 points of temporary ability damage to one of your ability scores and add a temporary +2 inherent bonus to any other ability score. This bonus lasts for a maximum of 1 hour per sorcerer level or until you choose to prematurely dismiss it (a free action), during which time the temporary ability damage cannot be healed by any means. After this effect ends, you can heal the ability damage normally. At 20th level, you can use this ability twice per day.
+
+*Eternal Martyr (Su)*: At 20th level, your ancestor's act of martyrdom infuses your spirit. You become immune to death effects. Material components for spells and effects to bring you back to life (such as *raise dead* or *resurrection*) cost half as much as normal. Your body cannot be turned into an undead creature, as though you were affected by a permanent *hallow* effect (caster level equal to your sorcerer level).
+
 ## Seeker
 
 Oracles and sorcerers gain their magical powers through strange and mysterious ways, be they chosen by fate or blood. Some join explorers’ societies specifically to find out more about their mysteries and bloodlines and determine the genesis and history of their eldritch talents. These spellcasters are known as seekers, after their obsession with researching ancient texts and obscure ruins for any clues they can find about their heritage and histories.

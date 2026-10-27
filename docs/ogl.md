@@ -209,3 +209,5 @@ The following text is the property of Wizards of the Coast, Inc. and is Copyrigh
     Pathfinder Player Companion: Blood of Shadows © 2016, Paizo Inc.; Authors: Alexander Augunas, Steven T. Helt, Luis Loza, and Ron Lundeen.
 
     Pathfinder Player Companion: Blood of the Night © 2012, Paizo Publishing, LLC; Author: Tork Shaw.
+
+    Pathfinder Player Companion: Blood of Angels © 2012, Paizo Publishing, LLC; Author: Amber E. Scott.

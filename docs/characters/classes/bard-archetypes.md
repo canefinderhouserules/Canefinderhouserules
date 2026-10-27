@@ -614,6 +614,50 @@ This marching tune for fife and drum rallies ordinary citizens into a discipline
 
 **Special**: You can gain this masterpiece multiple times. Each time you take this masterpiece, it grants a different teamwork feat.
 
+### Pallavi of Blossoming Light (Dance)
+
+The divine sunlight caused by this dance banishes darkness and causes flowers to bloom.
+
+**Prerequisite**: Perform (dance) 11 ranks.
+
+**Cost**: Feat or 4th-level bard spell known.
+
+**Effect**: You begin your dance slowly, focusing on exact posture, the position of your limbs, even the direction of your gaze, then build to a blur of motion. Upon completing the performance, you summon a fixed aura of divine sunlight that glows in a 100-foot-radius circle centered on you. The divine sunlight acts as true daylight and affects creatures damaged or destroyed by such light. The light is as bright as sunlight at full noon and counters or dispels any darkness spells of 4th level or lower. If the dance is performed in an area of more powerful magical darkness, both the divine sunlight and darkness are temporarily negated so that otherwise prevailing light conditions exist in the overlapping areas of effect.
+
+Within the area of the sunlight, plants grow and blossom rapidly, becoming an overgrown tangle. This effect mimics the overgrowth version of *plant growth*. You and one ally per three bard levels are immune to the movement-impairing effects of the overgrowth. The divine sunlight and all its associated effects last for 1 minute per bard level you possess.
+
+**Use**: 3 bardic performance rounds.
+
+**Action**: 3 full rounds.
+
+### Rondeau of Heavenly Order (Sing)
+
+Your carefully structured song imposes rigid order on your listeners.
+
+**Prerequisite**: Perform (sing) 4 ranks.
+
+**Cost**: Feat or 2nd-level bard spell known.
+
+**Effect**: This song follows a set repetition of verses and refrains with a pattern of syllables that remains constant from line to line. As you sing, listeners find their actions bound by your song's relentless order. One enemy per bard level within listening range must make a successful Will save or find its movements hampered. A creature that fails its save can move only in a straight line each turn. The creature can choose which direction it wishes to move each turn, but it can move only along a straight line in that direction, and cannot move around corners or otherwise deviate from this line until its next turn. This effect lasts as long as you maintain the performance. Although this song has words, it is not language-dependent.
+
+**Use**: 1 bardic performance round per round.
+
+**Action**: 1 round.
+
+### Symphony of the Joyous Heart (Keyboard, Wind)
+
+You spark notes of joy and freedom in your listeners.
+
+**Prerequisite**: Perform (keyboard) or Perform (wind) 7 ranks.
+
+**Cost**: Feat or 3rd-level bard spell known.
+
+**Effect**: The complex arpeggios in this piece follow each other so quickly that the music can sound jumbled and disjointed at first. As the piece progresses, however, distinct phrases emerge, creating a wild but harmonious piece that inspires feelings of unfettered freedom. You and up to one ally per bard level within 30 feet who can hear you can move and attack normally for the duration of your performance, even if under the influence of magic that usually impedes movement. This effect is identical to that of *freedom of movement*, except that this masterpiece does not allow subjects to move and attack normally while underwater unless these creatures would already be able to do so, and only lasts as long as you continue the performance.
+
+**Use**: 1 bardic performance round per round.
+
+**Action**: 1 round.
+
 ## Animal Speaker
 
 An animal speaker focuses not on the ears and minds of humans, but on the creatures of the wild and those in the underbellies of cities.

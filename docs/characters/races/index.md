@@ -25,6 +25,7 @@ Three additional plant and fey races are available, each with its own archetypes
 Sixteen further races, each with alternate racial traits, favored class options, archetypes, equipment, feats, spells and magic items:
 
 - [Aasimars](aasimars.md)
+- [Aasimar Heritages](aasimar-heritages.md): six outsider bloodlines that replace the default aasimar traits, plus a d% table of variant abilities.
 - [Catfolk](catfolk.md)
 - [Dhampirs](dhampirs.md)
 - [Drow](drow.md)

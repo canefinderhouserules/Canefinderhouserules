@@ -321,6 +321,36 @@ Effects that kill you or do not reduce you to negative hit points (such as abili
 
 **Locate Focus (Sp)**: At 8th level, once per day you may use either *locate creature* or *locate object* as a spell-like ability using your current focus as the target. The range of this effect is 1 mile per level.
 
+### Banishment Inquisition
+
+**Deities**: Any good deity opposed to fiends.
+
+**Granted Powers**: Your devotion to your deity is matched only by your hatred for fiends. You know the rites to cast evil outsiders back to the realms from which they hail.
+
+**Righteous Awe (Su)**: Whenever you make an unarmed touch attack against an evil creature, it must succeed at a Will save (DC 10 + 1/2 your inquisitor level + your Wisdom modifier) or become shaken for 1d4 rounds. If the creature touched is an evil outsider, it becomes frightened instead of shaken. You can use this ability a number of times per day equal to 3 + your Wisdom modifier.
+
+**Dismissive Touch (Sp)**: At 8th level, you can cast *dismissal* once per day as a spell-like ability (caster level equal to your inquisitor level) upon making a successful unarmed touch attack against an evil outsider. The DC to save against this ability increases by 2.
+
+### Revelation Inquisition
+
+**Deities**: Any good deity of art, dreams, truth, or light.
+
+**Granted Powers**: Evil often hides itself behind a mask of good. You are an expert at ferreting out those who are not what they seem, and use your powers to reveal the true forms of the unworthy.
+
+**Burn Shroud (Su)**: As a standard action, you can make an unarmed touch attack against a creature. The target takes 1d4 points of fire damage + 1/2 your inquisitor level (minimum 1). If the target is currently the subject of a polymorph effect that changes its appearance (such as by *alter self*, *shapechange*, or an innate shapechanging ability such as that possessed by doppelgangers), it instead takes 1d6 points of fire damage + 1/2 your inquisitor level (minimum 1). You can use this ability a number of times per day equal to 3 + your Wisdom modifier.
+
+**Reveal Form (Su)**: At 8th level, once per day as a standard action, you can invoke the name of your deity and order one shapechanged target within 30 feet to reveal its true form. The target must succeed at a Will save (DC 10 + 1/2 your inquisitor level + your Wisdom modifier) or be forced on its next turn to dispel any ongoing polymorph effects or innate shapechanging abilities to assume its natural form. If a creature affected by this ability fails its save and is for some reason unable to dispel any ongoing polymorph effects or innate shapechanging abilities, it is instead staggered for 1 round. This is a mind-affecting compulsion effect.
+
+### True Death Inquisition
+
+**Deities**: Any deity of death, law, or fate.
+
+**Granted Powers**: You see undead as a perversion of the natural order, a misuse of magic, or an unjust enslavement of a departed spirit's body, and are sworn to destroying such beings.
+
+**Back to the Grave (Su)**: When you cast cure spells (any spells with "cure" in their name) to deal damage to undead creatures, you add +2 points of damage per caster level instead of +1 point of damage per caster level. The maximum damage for each spell remains unchanged.
+
+**Hallowed Rite (Su)**: At 8th level, you gain the ability to conduct a sacred funeral rite. This rite takes 1 day, during which you perform the necessary chants and prayers and burn incense. At the end of the rite you must oversee the burial of the corpse. The burial must take place within 24 hours of the preparation or the ritual fails. Once the body is interred, it cannot be turned into an undead creature, as though it were under the effect of a *hallow* spell (caster level equal to your inquisitor level).
+
 ## Exorcist
 
 Some inquisitors, as they learn more about the threat of possession and the machinations of the planes, task themselves to expel possessing spirits and conniving outsiders from the world whenever possible. Eventually they learn the secret of the verdicts of exorcism, exile, and anathema.
