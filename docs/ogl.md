@@ -151,3 +151,5 @@ The following text is the property of Wizards of the Coast, Inc. and is Copyrigh
     Pathfinder Campaign Setting: Lords of Chaos, Book of the Damned Vol. II © 2010, Paizo Publishing, LLC; Author: James Jacobs.
 
     Pathfinder Campaign Setting: Horsemen of the Apocalypse, Book of the Damned Vol. III © 2011, Paizo Publishing, LLC; Author: Todd Stewart.
+
+    Pathfinder Player Companion: Undead Slayer's Handbook © 2014, Paizo Publishing, LLC; Authors: Dennis Baker, Jay Loomis, Alex Putnam, Adam Roy, Tork Shaw, and Larry Wilhelm.

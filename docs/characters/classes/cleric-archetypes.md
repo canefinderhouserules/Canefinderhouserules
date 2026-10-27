@@ -583,3 +583,23 @@ This channeled energy imposes itself over the current terrain, changing its visu
 Within the radius of the idealist's channeling, all alignment and magic planar traits are suppressed and replaced with the traits of the plane that matches the idealist's planar bond. This includes alignment, gravity, and magic traits. In the case of the Astral Plane, since the time trait remains unaltered, your spellcasting only feels fast; you gain a +4 bonus on all concentration checks rather than the ability to apply Quickened Spell effects.
 
 This ability is considered channel energy for purposes of feats that grant additional uses of channel energy or allow the cleric to exclude creatures from channel energy's effects. This alters channel energy.
+
+## Roaming Exorcist
+
+The roaming exorcist travels far and wide to root out possessions, hauntings, and hidden evils. The roaming exorcist extracts unruly spirits from not only victims of possession, but also haunted sites and accursed items.
+
+**Skill Ranks per Level**: 4 + Int modifier.
+
+**Dedicated Wanderer**: A roaming exorcist is dedicated to her cause and affords no time to other pursuits typical of clerics. A roaming exorcist must choose to channel positive energy. She may choose only one domain from her deity's list of domains, rather than the normal two domains, and she does not gain medium armor proficiency or shield proficiency.
+
+**Unseen Revealed (Ex)**: At 1st level, a roaming exorcist gains a bonus equal to 1/2 her cleric level (minimum +1) on Perception checks to detect haunts and incorporeal creatures and on Sense Motive checks to determine whether a creature is possessed, under the effects of an enchantment or curse, or otherwise magically controlled.
+
+**Spirit Sleuth (Ex)**: At 2nd level, upon interacting with a rejuvenating spirit or haunt for the first time (such as by attacking the spirit or channeling energy to damage the haunt), a roaming exorcist can attempt a Sense Motive check as a free action to determine the specific course of action required to permanently neutralize the spirit or haunt (DC 10 + the undead creature's Hit Dice or the haunt's CR).
+
+**Curse Seeker (Su)**: At 5th level, a roaming exorcist can more readily identify cursed items. When identifying a magic item, the roaming exorcist needs to exceed the item's DC by only 5 (instead of by 10) in order to determine whether the item is cursed.
+
+**Dispossession (Su)**: At 8th level, a roaming exorcist can expend one use of her channel energy ability to force a possessing creature from its host body. The exorcist must make a melee touch attack against the possessed creature; if successful, the roaming exorcist deals damage to the possessing creature as if it were targeted by the roaming exorcist's channel energy ability (regardless of the possessing creature's creature type), and the possession effect ceases as the possessing creature is ejected from the host body. A successful Will save (DC the roaming exorcist's channel energy DC) halves the damage taken, and the possessing creature resists being ejected from its host.
+
+**Curse Eater (Su)**: At 11th level, a roaming exorcist gains Improved Disarm as a bonus feat, regardless of whether she meets the feat's prerequisites. The roaming exorcist gains a +2 bonus on combat maneuver checks to disarm a creature of a magic item she knows to be cursed. If the roaming exorcist successfully disarms a creature of a cursed item without using a weapon, she may automatically pick up the disarmed cursed item without immediately succumbing to the item's curse. She may wield or hold this cursed item for a number of rounds equal to her Charisma modifier (minimum 1 round)—during which time she may use the item normally, as if it were not cursed—before the item's curse manifests again.
+
+These abilities replace the cleric's second domain, channel energy options, and other class features as appropriate to the GM's judgment.

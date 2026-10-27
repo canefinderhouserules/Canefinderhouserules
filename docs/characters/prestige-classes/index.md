@@ -132,6 +132,8 @@ The prestige classes presented in this chapter are summarized below.
 
 **[Skyseeker](skyseeker.md)**: A dwarven delver-champion with ancestral weapon, runes, and ghostly allies.
 
+**[Soul Warden](soul-warden.md)**: Soul wardens channel positive energy to harm and control the undead.
+
 **[Stalwart Defender](stalwart-defender.md)**: A master of defending territory and holding the line at all costs.
 
 **[Steel Knight](steel-knight.md)**: A diplomat-warrior who spreads liberty, fights slavers, and inspires allies.

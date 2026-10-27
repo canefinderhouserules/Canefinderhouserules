@@ -1486,6 +1486,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Advanced Weapon Training](advanced-weapon-training.md) | Combat | Fighter level 5th, weapon training class feature |
 | [Agent of Fear](agent-of-fear.md) | — | Persuasive, frightening appearance class feature |
 | [Agile Maiden](agile-maiden.md) | Combat | Str 13, Dex 13, Endurance or armor training, heavy armor proficiency |
+| [Align Equipment](align-equipment) | General | Alignment Channel, Bless Equipment, caster level 3rd, channel energy class feature |
 | [Ambuscading Spell](ambuscading-spell.md) | — | — |
 | [Ambush Sense](ambush-sense.md) | Combat | Int 13, trap sense class feature |
 | [Ambush Squad](ambush-squad.md) | Combat, Teamwork | Base attack bonus +1, kobold |
@@ -1542,6 +1543,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Bilge Rat](bilge-rat.md) | — | — |
 | [Black Powder Spectacle](black-powder-spectacle.md) | Combat, Grit, Performance | Amateur Gunslinger or the grit class feature, base attack bonus +4 |
 | [Blades Above and Below](blades-above-and-below.md) | Combat, Teamwork | Base attack bonus +6 |
+| [Bless Equipment](bless-equipment) | General | Caster level 3rd, channel energy class feature |
 | [Blessed Hammer](blessed-hammer.md) | — | Ability to cast 3rd-level divine spells, proficient with warhammer, worshiper of a deity whose favored weapon is the warhammer |
 | [Blissful Spell](blissful-spell.md) | Metamagic | — |
 | [Blood Tide](blood-tide.md) | Combat | Combat Expertise, Greater Blood Frenzy, base attack bonus +6, blood frenzy ability, sahuagin |
@@ -1817,6 +1819,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Gray Dwarf Magic](gray-dwarf-magic.md) | — | Duergar |
 | [Great Rend](great-rend.md) | Combat | Bite attack, rend, troll |
 | [Greater Balor Whip](greater-balor-whip.md) | Combat | Balor Whip, Improved Balor Whip, Weapon Focus (whip), Whip Mastery, base attack bonus +16 |
+| [Greater Bless Equipment](greater-bless-equipment) | General | Bless Equipment, Improved Bless Equipment, caster level 12th, channel energy class feature |
 | [Greater Blood Frenzy](greater-blood-frenzy.md) | — | Blood frenzy ability, sahuagin |
 | [Greater Ironclad Reactions](greater-ironclad-reactions.md) | Armor Mastery | Combat Reflexes, Ironclad Reactions, base attack bonus +11 or fighter level 8th, armor training class feature, proficiency with medium armor |
 | [Greater Planar Infusion](greater-planar-infusion.md) | Conduit | [Improved Planar Infusion](improved-planar-infusion.md), [Planar Infusion](planar-infusion.md), character level 13th |
@@ -1841,6 +1844,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Heroic Legacy](heroic-legacy.md) | — | Base attack bonus +5, good alignment |
 | [High Magic Focus](high-magic-focus.md) | Teamwork | Any metamagic feat, Spellcraft 7 ranks, ability to cast 2nd-level spells, human |
 | [Hollow Soul](hollow-soul.md) | Conduit | Knowledge (planes) 9 ranks |
+| [Holy Water Assault](holy-water-assault) | Combat | Base attack bonus +1, Knowledge (religion) 3 ranks |
 | [Hook Fighter](hook-fighter.md) | Combat | Base attack bonus +1 |
 | [Horn Rider](horn-rider.md) | Combat | Base attack bonus +1 |
 | [Horn Rider's Charge](horn-riders-charge.md) | Combat | Horn Rider, base attack bonus +1 |
@@ -1857,6 +1861,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Impressive Grit](impressive-grit.md) | Weapon Mastery | Base attack bonus +11, weapon training class feature with a ranged weapon |
 | [Improved Armor Focus](improved-armor-focus.md) | Combat | Armor Focus, base attack bonus +6, proficiency with selected armor |
 | [Improved Balor Whip](improved-balor-whip.md) | Combat | Balor Whip, Weapon Focus (whip), Whip Mastery, base attack bonus +12 |
+| [Improved Bless Equipment](improved-bless-equipment) | General | Bless Equipment, caster level 9th, channel energy class feature |
 | [Improved Bravery](improved-bravery.md) | Combat | Cha 13, bravery class feature |
 | [Improved Conceal Spell](improved-conceal-spell.md) | — | Conceal Spell, Deceitful, Bluff 5 ranks, Disguise 5 ranks, Sleight of Hand 10 ranks, ability to cast 3rd-level spells or use a 3rd-level spell-like ability |
 | [Improved Disarm Partner](improved-disarm-partner.md) | Combat, Teamwork | [Disarm Partner](disarm-partner.md), base attack bonus +5 |
@@ -1912,6 +1917,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Lifebound](lifebound.md) | — | — |
 | [Lightning Draw](lightning-draw.md) | Combat, Panache | Quick Draw, swashbuckler initiative deed, swashbuckler level 7th |
 | [Lightning Rager](lightning-rager.md) | — | Rage class feature |
+| [Lingering Smite](lingering-smite) | General | Channel Smite, channel energy 3d6 |
 | [Lithe Attacker](lithe-attacker.md) | — | Narrow Frame, Escape Artist 5 ranks, animal or magical beast |
 | [Living Fortress](living-fortress.md) | Teamwork | Dwarf, hardy racial trait |
 | [Loyal to the Death](loyal-to-the-death.md) | Teamwork | Human |
@@ -2308,6 +2314,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Weapon Material Mastery](weapon-material-mastery.md) | Weapon Mastery | Base attack bonus +7, weapon training class feature with a melee weapon |
 | [Weapon Style Mastery](weapon-style-mastery.md) | Style, Weapon Mastery | Any two style feats from different styles, base attack bonus +6, weapon training class feature with a melee weapon |
 | [Weapon Trick](weapon-trick.md) | Combat | Base attack bonus +1 |
+| [Weapon Versatility](weapon-versatility) | Combat | Weapon Focus, base attack bonus +1 |
 | [Willing Accomplice](willing-accomplice.md) | — | Cha 13, Bluff 3 ranks, Sense Motive 1 rank |
 | [Wily Warrior](wily-warrior.md) | Story | See text |
 | [Wind Leaper](wind-leaper.md) | Conduit | Knowledge (planes) 3 ranks |

@@ -14,6 +14,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Bouncy Body](bouncy-body.md)**: Become rubbery and bounce when falling
 - **[Bungle](bungle.md)**: Target takes a –20 penalty on its next attack roll or check.
 - **[Burning Sands](burning-sands.md)**: Burning sand slows and damages creatures.
+- **[Carrion Compass](carrion-compass.md)**: Organ leads you to an undead creature's controller
 - **[Cloak of Secrets](cloak-of-secrets.md)**: Bubble disguises speech and spell components.
 - **[Compel Hostility](compel-hostility.md)**: Compels opponents to attack you instead of your allies.
 - **[Damp Powder](damp-powder.md)**: Ruins ammunition loaded in the targeted firearm.
@@ -270,6 +271,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Marionette Possession](marionette-possession.md)**: As magic jar, but limited to line of sight.
 - **[Matchmaker](matchmaker.md)**: Cause two creatures to fall in love.
 - **[Nature’s Ravages](natures-ravages.md)**: Rapidly decomposes a corpse.
+- **[Necromantic Burden](necromantic-burden.md)**: Make undead harder to control
 - **[Nixie’s Lure](nixie-s-lure.md)**: This spell creates an unearthly and infectious song that seductively summons all who hear it.
 - **[Open Book](open-book.md)**: Make it permanently easier to learn more about a target.
 - **[Pack Empathy](pack-empathy.md)**: Create an empathic bond with allies.
@@ -374,6 +376,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[They Know](they-know.md)**: Convince target that a nearby creature knows her greatest secret.
 - **[Tongues, Communal](tongues-communal.md)**: As tongues, but you may divide the duration among creatures touched.
 - **[Touch of Slime](touch-of-slime.md)**: Touch infests a target with green slime.
+- **[Undeath Inversion](undeath-inversion.md)**: Undead is harmed by negative energy and healed by positive
 - **[Vermin Shape II](vermin-shape-ii.md)**: As vermin shape, but Tiny or Large.
 - **[Vicarious View](vicarious-view.md)**: Plant a scrying sensor that you can use to spy on a creature, object, or location.
 - **[Vigilant Rest](vigilant-rest.md)**: Cause a sleeping creature to retain some perception of its surroundings.
@@ -422,6 +425,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Poisonous Balm](poisonous-balm.md)**: As *cure serious wounds*, but leave behind a latent venom.
 - **[Possess Object](possess-object.md)**: Possess and animate one object.
 - **[Possession](possession.md)**: Project your soul into a creature’s body.
+- **[Possession Trap](possession-trap.md)**: Trap would-be possessors in a gem
 - **[Red Hand of the Killer](red-hand-of-the-killer.md)**: Stain the hand of a creature’s killer red.
 - **[Sawtooth Terrain](sawtooth-terrain.md)**: Serrated blades erupt from a surface.
 - **[Seek Shelter](seek-shelter.md)**: Weak creatures flee to safety in an orderly fashion.
@@ -432,6 +436,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Smug Narcissism](smug-narcissism.md)**: Target is distracted by its sense of self.
 - **[Soulswitch](soulswitch.md)**: Swap souls with your familiar.
 - **[Spellsteal](spellsteal.md)**: Strip a spell from a target and cast it yourself
+- **[Sphere of Warding](sphere-of-warding.md)**: Sphere ejects possessors and harms incorporeal creatures
 - **[Summoner Conduit](summoner-conduit.md)**: The target takes damage whenever its summoned creature does.
 - **[Sun’s Disdain, Mass](suns-disdain-mass.md)**: As *sun’s disdain*, on multiple creatures.
 - **[Swallow Poison](swallow-poison.md)**: Protect yourself from ingested poison, then spit it out in a cone.

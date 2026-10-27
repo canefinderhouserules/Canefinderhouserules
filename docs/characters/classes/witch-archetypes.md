@@ -644,3 +644,21 @@ As the mirror witch progresses in level, the mirror's defenses increase, and the
 *Mirror Casting (Su)*: When using the mirror's scrying ability, *detect chaos*, *detect evil*, *detect good*, *detect law*, *detect magic*, *message*, *read magic*, and *tongues* all function reliably through the sensor. Also, if the mirror witch is at least 15th level, there is a 5% chance each of the following spells operates successfully through the sensor: *cause fear*, *charm person*, *command*, *crushing despair*, *deep slumber*, *enthrall*, *fear*, *hold person*, *moonstruck*, *seek thoughts*, and *sleep*; a creature that succeeds at its saving throw against one of these linked spells is forever immune to that particular mirror witch's attempts to cast that spell on that creature through her mirror.
 
 This ability replaces the witch's familiar.
+
+## Spirit Medium
+
+Spirit mediums tap into the spiritual power of those who have yet to find their final rest. Their ability to interact with these souls allows them to learn about the physical world through the experiences of those who came before them. Eventually, spirit mediums of immeasurable power learn to walk alongside the very souls that haunt their dreams and visions.
+
+**Patron**: A spirit medium has a limited choice of patrons, and must select one of the following themes: ancestors, death, occult, or spirits.
+
+**Ectoplasmic Aptitude (Su)**: At 2nd level, the spirit medium can sling spells at ghosts and spirits as surely as at corporeal foes. She gains the Ectoplasmic Spell metamagic feat as a bonus feat. In addition, as an immediate action a number of times per day equal to her Intelligence modifier, the spirit medium can apply the Ectoplasmic Spell feat to any spell she is casting without increasing its spell level. This ability replaces the witch's hex gained at 2nd level.
+
+**Shared Subconscious (Su)**: At 6th level, a spirit medium can temporarily link her subconscious to that of an undead creature in order to gain preternatural knowledge. As long as the spirit medium is within 100 feet of an intelligent undead creature, as a swift action she can target said creature and attempt any trained Knowledge check. If the target has ranks in the same Knowledge skill, it also attempts the Knowledge check (if it doesn't have ranks, this effect fails). If the target's result is higher than the spirit medium's, she may choose to use the undead creature's Knowledge result instead of her own, learning any information the undead creature has about the subject in question. This ability does not allow a spirit medium to attempt a previously failed Knowledge check again. This replaces the witch's hex gained at 6th level.
+
+**Soul Walker (Ex)**: At 20th level, a spirit medium can drift into the spirit world, becoming incorporeal for 1 minute per class level. When she does so, the spirit medium gains the incorporeal subtype, taking only half damage from corporeal magical attacks and no damage from nonmagical weapons and objects. Her spells deal only half damage to corporeal creatures, but spells and abilities that do not deal damage function normally. The duration of this ability need not be continuous, but it must be used in 1-minute increments. This replaces the witch's hex gained at 20th level.
+
+**Hexes**: The following witch hexes complement the spirit medium archetype: charm, healing, scar, tongues, ward.
+
+**Major Hexes**: The following major hexes complement the spirit medium archetype: speak in dreams, vision.
+
+**Grand Hexes**: The following grand hex complements the spirit medium archetype: summon spirit.

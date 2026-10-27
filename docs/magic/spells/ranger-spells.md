@@ -13,6 +13,7 @@
 - **[Burning Sands](burning-sands.md)**: Burning sand slows and damages creatures.
 - **[Call Weapon](call-weapon.md)**: Pull an ally’s weapon into your hand.
 - **[Calm Animals](calm-animals.md)**: Calms 2d4 + level HD of animals.
+- **[Carrion Compass](carrion-compass.md)**: Organ leads you to an undead creature's controller
 - **[Charm Animal](charm-animal.md)**: Makes one animal your friend.
 - **[Commune with Birds](commune-with-birds.md)**: You utter a question in the form of a low-pitched bird call that can be heard up to a mile away, and can.
 - **[Compel Hostility](compel-hostility.md)**: Compels opponents to attack you instead of your allies.
