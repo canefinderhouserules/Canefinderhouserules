@@ -22,7 +22,7 @@ The prestige classes presented in this chapter are summarized below.
 
 **[Mystic Theurge](mystic-theurge.md)**: Equally devoted to divine and arcane magic, the mystic theurge combines both magical traditions into one incredibly diverse class.
 
-**[Pathfinder Chronicler](pathfinder-chronicler.md)**: An explorer at heart, the Pathfinder chronicler travels to distant, exotic lands to expand her knowledge of the world.
+**[Explorer Chronicler](explorer-chronicler.md)**: An explorer at heart, the explorer chronicler travels to distant, exotic lands to expand her knowledge of the world.
 
 **[Sentinel](sentinel.md)**: A divine warrior who wields his deity's favored weapon and serves as a champion of the faith.
 

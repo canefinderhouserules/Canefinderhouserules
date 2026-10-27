@@ -520,11 +520,11 @@ Much like the breed of horses they ride, desert horselords pride themselves on t
 
 **Sand Scourge (Ex)**: At 17th level, the desert horselord and her mount can as a full-round action make a tactical rush through enemy ranks. The horselord's mount can move up to twice its normal speed in a straight line. The horselord can make a single attack against each creature she threatens during her mount's movement, up to her normal number of attacks per round. These attacks are made using her full base attack bonus and take a –2 penalty; this is not a charge, and these attacks deal normal damage. The horselord provokes attacks of opportunity during this movement but her mount does not. This ability replaces master tactician.
 
-## Spellscar Drifter
+## Wasteland Drifter
 
 Dangerous wastelands where magic is warped or dead are places few venture without a guide. Drifters have made themselves at home in these badlands. When not scouring the desert for forgotten treasures or magic hidden by the region's shifting magic-dead zones, a drifter might hire himself out as a guide, bodyguard, or assassin. Drifters are self-reliant and always keep their firearms loaded—in the wastes, a rider with a slow draw doesn't live long.
 
-**Weapon and Armor Proficiency**: Spellscar drifters are proficient with all simple and martial weapons, the whip, and with all firearms. They are proficient with all light armor. This replaces the cavalier's normal weapon and armor proficiencies.
+**Weapon and Armor Proficiency**: Wasteland drifters are proficient with all simple and martial weapons, the whip, and with all firearms. They are proficient with all light armor. This replaces the cavalier's normal weapon and armor proficiencies.
 
 **Have Gun**: At 1st level, the drifter gains Amateur Gunslinger and Gunsmithing as bonus feats. The drifter uses his Charisma modifier (minimum 1) in place of his Wisdom modifier when determining his maximum grit points and for any other abilities which use grit. Additionally, he also gains a battered gun identical to the one gained by the gunslinger. This ability replaces tactician.
 

@@ -390,12 +390,6 @@ These temporary hit points disappear 1 hour later. You may not use this ability 
 
 **Bolster (Sp)**: As a standard action, you can touch an undead creature and infuse it with negative energy. It gains a +1 profane bonus on all attack rolls and saving throws, as well as 1 temporary hit point per Hit Die and a +2 bonus to its turn resistance. The bonus on attack rolls and saving throws increases by +1 for every 5 wizard levels you possess. These bonuses last for a number of rounds equal to 1/2 your wizard level (minimum 1 round). The bonuses and temporary hit points are immediately dispelled if the creature is within the area of a consecrate spell. You can use this ability a number of times per day equal to 3 + your Intelligence modifier. 3Feats They notched my sword!” Valeros cried.
 
-His second swing sheared the gargoyle’s head from its shoulders with a sound like a church bell hitting pavement.
-
-“They’re going to notch your hide if you don’t get moving,” Seoni replied.
-
-Falling back up the steps, she sent blue lightning sizzling through their attackers’ ranks, peppering them both with shards of stone. Instead of retreating, the gargoyles screamed with laughter, falling on their wounded comrades and pulling them apart. Still fighting, Seoni and Valeros climbed backward toward the strange green light.
-
 ## Exploiter Wizard
 
 forgoes the tried and true methods of arcane focus and arcane schools for the exploits favored by an arcanist. Some wizards regard this blatant exploitation of arcane magic as somehow "cheating," but most exploiters believe this prejudice is close-minded and overly traditional.
