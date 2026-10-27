@@ -11,6 +11,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Abstemiousness](abstemiousness.md)**: Food sates a creature for a full day.
 - **[Air Bubble](air-bubble.md)**: Creates a small pocket of air around your head or an object.
 - **[Alchemical Tinkering](alchemical-tinkering.md)**: You transform one alchemical item or firearm into another alchemical item or firearm of the same or lesser.
+- **[Alleviate Addiction](alleviate-addiction.md)**: Subject ignores the effects of addictions.
 - **[Antitoxin Touch](antitoxin-touch.md)**: Target can't poison itself accidentally and safely milks venom.
 - **[Aphasia](aphasia.md)**: Prevent a target from understanding language.
 - **[Bestow Planar Infusion I](bestow-planar-infusion-i.md)**: Grant a target the effects of a planar infusion
@@ -71,6 +72,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Nature's Paths](natures-paths.md)**: Find the fastest way through the wilderness
 - **[Negative Reaction](negative-reaction.md)**: Targeted creature may not positively influence anyone.
 - **[Nereid’s Grace](nereid-s-grace.md)**: You radiate the unearthly grace of a nereid.
+- **[Night Blindness](night-blindness.md)**: Lighting around the target counts as one step darker.
 - **[Obscure Poison](obscure-poison.md)**: Make it harder to detect a poison or a venomous creature.
 - **[Open and Shut](open-and-shut.md)**: Obfuscate whether a door is open or closed.
 - **[Peace Bond](peace-bond.md)**: Your low-level area spells ignore protected cubes.
@@ -144,12 +146,14 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Burdened Thoughts](burdened-thoughts.md)**: Target is encumbered and cannot fly.
 - **[Callback](callback.md)**: Teleport a familiar or spirit animal to your side when it is injured.
 - **[Commune with Birds](commune-with-birds.md)**: You utter a question in the form of a low-pitched bird call that can be heard up to a mile away, and can.
+- **[Compel Tongue](compel-tongue.md)**: Target can speak and write only in one imparted language.
 - **[Compulsive Liar](compulsive-liar.md)**: Prevent target from speaking the truth.
 - **[Conditional Favor](conditional-favor.md)**: Provide another spell whose effects reverse if the target breaks a restriction.
 - **[Contact Entity I](contact-entity-i.md)**: Ask eldritch entities to find and converse with you.
 - **[Control Vermin](control-vermin.md)**: Control vermin as if they were animals
 - **[Corpse Lanterns](corpse-lanterns.md)**: Dancing lights that hinder Stealth.
 - **[Covetous Urge](covetous-urge.md)**: Curse a creature to steal valuables
+- **[Curse of Keeping](curse-of-keeping.md)**: Target cannot sell, barter, or give away its items.
 - **[Curse Terrain, Lesser](curse-terrain-lesser.md)**: Curse an area with three mild hazards.
 - **[Dark Whispers](dark-whispers.md)**: Whisper through the shadows.
 - **[Death Candle](death-candle.md)**: This spell functions like death knell, except instead of using the slain target’s life energy to enhance.
@@ -218,6 +222,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Rune of Rule](rune-of-rule.md)**: Paint a rune on an ally that grants a one-time boost.
 - **[Scale Spikes](scale-spikes.md)**: Grow armor spikes from scales
 - **[Secret Coffer](secret-coffer.md)**: Small secret chest.
+- **[Secret Sign](secret-sign.md)**: Invisibly mark a creature or object for designated viewers.
 - **[Seducer’s Eyes](seducers-eyes.md)**: Charisma skill bonus against those who find you attractive.
 - **[Sense Fear](sense-fear.md)**: Perceive nearby creatures that are experiencing fear.
 - **[Sensory Overload](sensory-overload.md)**: Target must save to take standard or full-round actions.
@@ -297,6 +302,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Eldritch Fever](eldritch-fever.md)**: Target gains the eldritch ague spellblight.
 - **[Erode Defenses](erode-defenses.md)**: Target's DR and natural armor wear away.
 - **[Eruptive Pustules](eruptive-pustules.md)**: Acid boils burst when you are attacked.
+- **[Evaluator's Lens](evaluators-lens.md)**: A force lens aids saves against figments and Appraise checks.
 - **[Excruciating Deformation](excruciating-deformation.md)**: Target takes Dex and Con damage.
 - **[Fearsome Duplicate](fearsome-duplicate.md)**: School illusion (figment); Level bard 3, inquisitor 3, sorcerer/wizard 3, witch 3 Casting Time 1 standard.
 - **[Find Fault](find-fault.md)**: Learn a creature's weaknesses and gain +5 on your first attack.
@@ -389,6 +395,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Twisted Innards](twisted-innards.md)**: Crits and sneak attacks may fail.
 - **[Unadulterated Loathing](unadulterated-loathing.md)**: Target is compelled to avoid another creature.
 - **[Vampiric Hunger](vampiric-hunger.md)**: Target drains blood while pinning to heal or gain temporary hit points.
+- **[Venomous Promise](venomous-promise.md)**: A secret is guarded by a poison that triggers if revealed.
 - **[Vermin Shape I](vermin-shape-i.md)**: Take the form and some of the powers of a Small or Medium vermin.
 - **[Vision of Hell](vision-of-hell.md)**: Illusory hellscape makes creatures shaken.
 - **[Voluminous Vocabulary](voluminous-vocabulary.md)**: Grant ability to speak, read, and write one or more languages for 8 hours.
@@ -512,6 +519,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Cold Iron Fetters](cold-iron-fetters.md)**: Shackle a target, halving its speeds and blocking magical movement.
 - **[Commune with Plane](commune-with-plane.md)**: Learn about local planar terrain
 - **[Companion Transposition](companion-transposition.md)**: Swap places with your animal companion, familiar, or spirit animal via teleportation.
+- **[Compel Tongue, Mass](compel-tongue-mass.md)**: As compel tongue, but affects multiple creatures.
 - **[Contact Entity III](contact-entity-iii.md)**: Ask very powerful eldritch entities to find and converse with you, or they may reply telepathically.
 - **[Contagion, Greater](contagion-greater.md)**: Infect a subject with a magical disease.
 - **[Contagious Suggestion](contagious-suggestion.md)**: a suggestion that spreads from target to target
@@ -696,6 +704,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Quintessence Mastery](quintessence-mastery.md)**: Exercise limited control over the quintessence of an Outer Plane
 - **[Remove Radioactivity, Greater](remove-radioactivity-greater.md)**: Cure all radiation damage; deplete radioactive objects.
 - **[Rotting Alliance](rotting-alliance.md)**: Curse several creatures to waste away when near one another.
+- **[Secret Vault](secret-vault.md)**: As secret chest, but stores a whole chamber.
 - **[Share Skin, Greater](share-skin-greater.md)**: Possess any creature as with magic jar.
 - **[Soulseeker](soulseeker.md)**: Determine a soul's location
 - **[Symbol of Debauchery](symbol-of-debauchery.md)**: Symbol that fills creatures with lust.

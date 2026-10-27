@@ -1569,6 +1569,8 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Betrayed](betrayed.md) | Story | You have had a valuable item (worth at least 1,000 gp per character level) stolen by a former ally, or have been left for dead by a former ally. |
 | [Bilge Rat](bilge-rat.md) | — | — |
 | [Biological Lattice](biological-lattice.md) | General | Gathlain, racial fly speed |
+| [Black Market Dealings](black-market-dealings.md) | General | — |
+| [Black Market Sleuth](black-market-sleuth.md) | General | Diplomacy 1 rank, Knowledge (local) 1 rank |
 | [Black Powder Spectacle](black-powder-spectacle.md) | Combat, Grit, Performance | Amateur Gunslinger or the grit class feature, base attack bonus +4 |
 | [Blades Above and Below](blades-above-and-below.md) | Combat, Teamwork | Base attack bonus +6 |
 | [Bless Equipment](bless-equipment.md) | General | Caster level 3rd, channel energy class feature |
@@ -1671,6 +1673,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Conduit Casting](conduit-casting.md) | Teamwork | Spellcraft 3 ranks |
 | [Confabulist](confabulist.md) | — | Bluff 9 ranks, Sense Motive 9 ranks |
 | [Confusing Stare](confusing-stare.md) | Combat, Stare | Mesmerist level 7th, painful stare class feature |
+| [Connected Criminal](connected-criminal.md) | General | Knowledge (local) 5 ranks |
 | [Consortium Partner](consortium-partner.md) | — | — |
 | [Consumption](consumption.md) | Blood Hex | Int 13, Use Magic Device 5 ranks |
 | [Contingent Trick](contingent-trick.md) | Trick | Any two trick feats |
@@ -2065,6 +2068,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Incredible Healer](incredible-healer.md) | — | Heal 5 ranks |
 | [Inerrant Justice](inerrant-justice.md) | Story | See text |
 | [Infiltrator](infiltrator.md) | Story | See text |
+| [Infuse Poison](infuse-poison.md) | Item Creation | Brew Potion, Craft (alchemy) 5 ranks, caster level 3rd |
 | [Innate Arcana](innate-arcana.md) | — | Arcane spellcaster, caster level 4th, serpentfolk |
 | [Innate Flexibility](innate-flexibility.md) | — | Duergar, two racial spell-like abilities usable once per day |
 | [Inscribe Magical Tattoo](inscribe-magical-tattoo.md) | Item Creation | Craft (calligraphy, paintings, or tattoos) 5 ranks, caster level 5th |
@@ -2253,6 +2257,10 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Persuasive Bribery](persuasive-bribery.md) | — | Persuasive |
 | [Persuasive Performer](persuasive-performer.md) | — | Versatile performance class feature, worshiper of a deity of art and beauty |
 | [Perturbing Stare](perturbing-stare.md) | Combat, Stare | Mesmerist level 5th, painful stare class feature |
+| [Pesh Adept](pesh-adept.md) | General | Spell Focus (any), ability to cast 2nd-level spells |
+| [Pesh Euphoria](pesh-euphoria.md) | General | Pesh Adept or pesh addict |
+| [Pesh Healing](pesh-healing.md) | General | Pesh Adept or pesh addict |
+| [Pesh Rejuvenation](pesh-rejuvenation.md) | General | Pesh Adept or pesh addict |
 | [Phalanx Formation](phalanx-formation.md) | Combat | Base attack bonus +1 |
 | [Phasestrike](phasestrike.md) | Combat, Conduit | Knowledge (planes) 10 ranks |
 | [Piercing Grapple](piercing-grapple.md) | Combat | Dex 13, Improved Grapple, Improved Unarmed Strike, Quick Draw, Intimidate 7 ranks |
@@ -2654,6 +2662,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Warmonger](warmonger.md) | — | Cha 13, hobgoblin |
 | [Warning Shot](warning-shot.md) | Combat | Point-Blank Shot, Precise Shot, Weapon Focus, proficiency with the selected weapon |
 | [Warren Digger](warren-digger.md) | — | Ghoul |
+| [Wary Smuggler](wary-smuggler.md) | General | Perception 5 ranks, Sleight of Hand 5 ranks, Stealth 5 ranks |
 | [Wasp Familiar](wasp-familiar.md) | — | Chaotic neutral alignment, worshiper of a chaotic neutral deity of lust, revenge, and trickery |
 | [Wave Master](wave-master.md) | — | Worshiper of a deity of the sea and nature |
 | [Wayang Soothsayer](wayang-soothsayer.md) | — | Wayang |

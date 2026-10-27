@@ -38,7 +38,9 @@ New antipaladin spells from *Ultimate Magic*. Spells from other books will be ad
 - **[Locksight](locksight.md)**: Sense a lock’s state and quality.
 - **[Longshot](longshot.md)**: Grants a +10-foot bonus to the range increment for any ranged weapon fired.
 - **[Murderous Command](murderous-command.md)**: Target is compelled to kill its ally.
+- **[Night Blindness](night-blindness.md)**: Lighting around the target counts as one step darker.
 - **[Obscure Poison](obscure-poison.md)**: Make it harder to detect a poison or a venomous creature.
+- **[Pesh Vigor](pesh-vigor.md)**: Target gains a Strength bonus it can push higher at a cost.
 - **[Resist Starvation](resist-starvation.md)**: Delay the effects of starvation
 - **[Reveal Secrets](reveal-secrets.md)**: Learn whether a target has a secret
 - **[Savage Maw](savage-maw.md)**: Your teeth extend and sharpen, transforming your mouth into a maw of razor-sharp fangs.
@@ -63,6 +65,7 @@ New antipaladin spells from *Ultimate Magic*. Spells from other books will be ad
 - **[Blood Scent](blood-scent.md)**: School transmutation; Level alchemist 3, antipaladin 2, cleric 3, druid 3, inquisitor 3, ranger 2.
 - **[Borrow Corruption](borrow-corruption.md)**: Temporarily gain the effects of a corrupted creature’s manifestations.
 - **[Brittle Portal](brittle-portal.md)**: Reduce the hardness of a surface.
+- **[Curse of Keeping](curse-of-keeping.md)**: Target cannot sell, barter, or give away its items.
 - **[Detect Anxieties](detect-anxieties.md)**: Learn what makes creatures anxious.
 - **[Detect Desires](detect-desires.md)**: Learn what creatures desire.
 - **[Disrupt Link](disrupt-link.md)**: Sever the link between a creature and her companion or familiar.
@@ -88,6 +91,7 @@ New antipaladin spells from *Ultimate Magic*. Spells from other books will be ad
 - **[Open Book](open-book.md)**: Make it permanently easier to learn more about a target.
 - **[Outbreak](outbreak.md)**: Make diseased creatures contagious
 - **[Painful Revelation](painful-revelation.md)**: Illusion hurts those who disbelieve it
+- **[Peerless Integrity](peerless-integrity.md)**: Creatures appear lawful good to alignment divinations.
 - **[Pernicious Poison](pernicious-poison.md)**: Target takes a –4 penalty against poison.
 - **[Protection from Good, Communal](protection-from-good-communal.md)**: As protection from good, but you may divide the duration among creatures touched.
 - **[Protection from Law, Communal](protection-from-law-communal.md)**: As protection from law, but you may divide the duration among creatures touched.
@@ -152,6 +156,7 @@ New antipaladin spells from *Ultimate Magic*. Spells from other books will be ad
 - **[Unholy Ward](unholy-ward.md)**: Resist 10 damage from holy sources.
 - **[Utter Contempt](utter-contempt.md)**: Target’s attitude worsens by two categories.
 - **[Vampiric Hunger](vampiric-hunger.md)**: Target drains blood while pinning to heal or gain temporary hit points.
+- **[Venomous Promise](venomous-promise.md)**: A secret is guarded by a poison that triggers if revealed.
 - **[Vigilant Rest](vigilant-rest.md)**: Cause a sleeping creature to retain some perception of its surroundings.
 - **[Vile Dog Transformation](vile-dog-transformation.md)**: Transform ordinary dogs into fiendish minions.
 - **[Wing Thorns](wing-thorns.md)**: Wings sprout poisonous thorns you can attack with.

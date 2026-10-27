@@ -951,3 +951,21 @@ Opportunists believe every battle is one of wits rather than arms. Enforcers who
 ***Rogue Talent (Ex)***: The opportunist can select one of the following rogue talents for which he qualifies, treating his fighter level as his rogue level: deft palm, fast fingers, fast stealth, honeyed words, lasting poison, minor magic, or quick trapsmith. The opportunist can select this edge multiple times.
 
 **Alchemical Onslaught (Ex)**: At 5th level, an opportunist gains a +1 bonus on attack rolls with alchemical weapons and bombs and can add his Intelligence modifier to damage rolls for splash weapons. He can draw an alchemical weapon as a free action once per round. This ability replaces weapon training 1.
+
+## Pack Mule
+
+Pack mules carry heavy loads with ease and small packages with discretion. Unlike most couriers or porters, pack mules are also trained combatants able to defend their charges should the need arise. Many are willing to transport illegal goods, serving as runners for smugglers or muscle for bandits. Pack mules seeking legitimate work prove useful additions to merchant caravans and adventuring parties.
+
+**Skill Ranks per Level**: 4 + Int modifier. This alters the fighter's skill ranks per level.
+
+**Unobtrusive**: A pack mule gains Bluff (Cha), Disguise (Cha), Sleight of Hand (Dex), and Stealth (Dex) as class skills. This ability replaces the bonus feat gained at 1st level.
+
+**Efficient Packer (Ex)**: At 2nd level, a pack mule adds a bonus equal to 1/2 his fighter level on Sleight of Hand checks to conceal objects on his body. He also adds a bonus equal to 1/2 his class level to his Strength score for the purpose of determining his carrying capacity. This ability replaces bravery.
+
+**Weight Training (Ex)**: At 3rd level, a pack mule learns to be more maneuverable when carrying loads. Whenever he is carrying a medium or heavy load, he reduces the check penalty by 1 (to a minimum of 0) and increases the maximum Dexterity bonus allowed by 1. At 7th, 11th, and 15th levels, these benefits increase by 1 (to a maximum of 4 at 15th level).
+
+In addition, a pack mule can move at his normal speed while carrying a medium load. At 7th level, a pack mule can move at his normal speed while carrying a heavy load.
+
+This ability replaces armor training 1 through 4.
+
+**Healthy as a Mule (Ex)**: At 19th level, whenever the pack mule takes Constitution, Dexterity, or Strength damage, he reduces the amount of ability damage taken by 2, to a minimum of 0. This ability replaces armor mastery.

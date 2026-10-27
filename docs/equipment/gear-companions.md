@@ -1807,3 +1807,57 @@ Finally, elemental brine can be used as a splash weapon with a range increment o
 This elixir turns its imbiber fiery red, making it easier to pass as an efreeti. Unscrupulous efreet can sell fireskin elixir to guests who have been barred from citizen-only districts and must rely on disguises. Fireskin is highly addictive. Many once-savvy merchants have fallen into destitution as they scrambled to maintain efreet favor and secure a steady supply of the drug.
 
 **Type** ingested; **Addiction** major, Fortitude DC 20; **Price** 100 gp; **Effect** 1 day; +10 alchemical bonus on Disguise checks to appear as an efreeti, –1 penalty on all saves; **Damage** 1d2 Wis damage.
+
+## Portable Traps
+
+### Alchemical Tar Paper
+
+**Price** 50 gp; **Weight** 1/2 lb.; **Craft DC** 20 (alchemy)
+
+This 5-foot square of paper is covered in alchemical tar on both sides. Removing its protective wax cover and applying the tar paper to a surface requires a full-round action. Any creature that enters this space must succeed at a DC 15 Reflex save or be glued to the floor, unable to move away. A victim can break free with a successful DC 17 Strength check or by dealing 15 points of damage with a slashing weapon. Once the creature moves (even if flying) at half speed, the tar paper turns brittle and falls away, freeing trapped or hindered creatures, after 2d4 rounds. A creature that succeeds at a DC 10 Perception check notices the tar paper in time to avoid stepping on it. Alchemical tar paper cannot be reused.
+
+### Autosniper
+
+**Price** 250 gp; **Weight** 1 lb.; **Craft DC** 25 (traps)
+
+This framework consists of a small tripod, a spool of wire, and a series of levels. As part of the action to set up the trap, the autosniper is attached to any Small or Medium crossbow and its wire strung across one or two 5-foot squares within 10 feet. Once set, the autosniper fires the attached crossbow automatically at the first Tiny or larger creature that disturbs its tripwire. An autosniper cannot reload the crossbow to which it is attached.
+
+The general bulkiness of an autosniper's framework imposes a –2 penalty on any attempts to use its attached crossbow as a ranged weapon. An autosniper can be removed from a crossbow with 1 minute of work.
+
+**Autosniper Trap (CR 1/2)**: **Type** mechanical; **Perception** DC 15; **Disable Device** DC 15; **Trigger** touch; **Reset** manual; **Effect** Atk +5 ranged (damage varies by crossbow)
+
+### Flask Launcher
+
+**Price** 300 gp; **Weight** 9 lbs.; **Craft DC** 25 (traps)
+
+This crossbow-style device is modified to throw splash weapons or contact poisons rather than firing bolts. Its trigger connects to a long spool of wire, which can be strung across one or two 5-foot squares within 10 feet. Once set, the flask launcher can be loaded with a thrown splash weapon or vial of contact poison (which must be purchased separately). The flask launcher fires automatically at the first Tiny or larger creature that disturbs its tripwire. Alchemist bombs cannot be fired by a flask launcher.
+
+The flask launcher isn't designed to be used as a ranged weapon; treat it as an improvised weapon with a 10-foot range increment. Reloading the launcher is a full-round action that requires two hands and provokes an attack of opportunity.
+
+**Flask Launcher Trap (CR 1/2)**: **Type** mechanical; **Perception** DC 15; **Disable Device** DC 15; **Trigger** touch; **Reset** manual; **Effect** Atk +5 ranged touch (effects vary by payload)
+
+### Net Rigging
+
+**Price** 250 gp; **Weight** 40 lbs.; **Craft DC** 25 (traps)
+
+This large bundle of ropes, pulleys, netting, and latches can be assembled to form two different traps: one to drop a net from above, and another to snag trespassers from below and hoist them into the air. Either configuration requires an overhead structure such as a ceiling, a crossbeam, or a sturdy tree branch to support the trap's mechanisms and counterweights. Net rigging has an effective Strength score of 19 for the purpose of determining how much weight it can lift.
+
+**Falling Net Trap (CR 1/2)**: **Type** mechanical; **Perception** DC 10; **Disable Device** DC 15; **Trigger** touch; **Reset** manual; **Effect** net (entangled and tethered by 10-ft. rope; Reflex DC 15 avoids; multiple targets (all targets in a 10-ft.-square area))
+
+**Hoisting Net Trap (CR 1/2)**: **Type** mechanical; **Perception** DC 10; **Disable Device** DC 15; **Trigger** touch; **Reset** manual; **Effect** net (entangled and lifted 10 ft. into the air; Reflex DC 15 avoids; multiple targets (all targets in a 10-ft.-square area))
+
+### Poison Latch Needle
+
+**Price** 200 gp (does not include the poison); **Weight** —; **Craft DC** 20 (traps)
+
+This delicate needle is attached to fine springs and a small reservoir that contracts on itself when the trap is disturbed or grabbed, turning a minor prick into a painful injection. This trap is normally hidden under door latches, drawer handles, and other small openings where it can deliver any injury poison, destroying itself in the process. A roll of natural 1 on the skill check to install the trap exposes its installer to the poison. A poison latch needle cannot be reused.
+
+**Poison Latch Needle Trap (CR varies)**: **Type** mechanical; **Perception** DC 20; **Disable Device** DC 20; **Trigger** touch; **Reset** none; **Effect** Atk +5 melee (1 damage plus poison)
+
+### Pull-Cord Grenade
+
+**Price** 150 gp; **Weight** 2 lbs.; **Craft DC** 25 (alchemy)
+
+This clay container resembles a fuse grenade, but trails a pulley and wire rather than a fuse. Pulling the cord (a move action) sparks a flint and steel within the device, causing the grenade to explode. The pull cord can be attached to a door or drawer within 5 feet, or strung across a 5-foot square, causing the grenade to detonate when its tripwire is disturbed. A pull-cord grenade cannot be reused.
+
+**Pull-Cord Grenade Trap (CR 1/2)**: **Type** mechanical; **Perception** DC 15; **Disable Device** DC 15; **Trigger** touch; **Reset** none; **Effect** explosion (2d6 bludgeoning damage and 1d6 fire damage; Reflex DC 15 half; multiple targets (all targets within 10 feet))

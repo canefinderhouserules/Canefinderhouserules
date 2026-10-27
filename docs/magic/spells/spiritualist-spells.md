@@ -115,6 +115,7 @@ Spiritualists gain access to the following spells. Spells without a link come fr
 - **[Mindshock](mindshock.md)**: Your attacks deal extra nonlethal damage and can confuse.
 - **[Misdirection](misdirection.md)**: Misleads divinations for 1 creature or object.
 - **[Necrostasis](necrostasis.md)**: Stagger an undead creature
+- **[Night Blindness](night-blindness.md)**: Lighting around the target counts as one step darker.
 - **[Object Reading](object-reading.md)**: Read psychic impressions left on an object.
 - **[Phantom Steed](phantom-steed.md)**: Magic horse appears for 1 hour/level.
 - **[Phantom Trap](phantom-trap.md)**: Makes item seem trapped.

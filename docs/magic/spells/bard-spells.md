@@ -21,6 +21,7 @@
 - **[Read Magic](read-magic.md)**: Read scrolls and spellbooks.
 - **[Resistance](resistance.md)**: Subject gains +1 on saving throws.
 - **[Summon Instrument](summon-instrument.md)**: Summons one musical instrument.
+- **[Vacuous Vessel](vacuous-vessel.md)**: A container looks and feels empty.
 
 ## 1st-Level Bard Spells
 
@@ -42,6 +43,7 @@
 - **[Cloak of Secrets](cloak-of-secrets.md)**: Bubble disguises speech and spell components.
 - **[Coin Shot](coin-shot.md)**: Turns coins into bullets.
 - **[Compel Hostility](compel-hostility.md)**: Compels opponents to attack you instead of your allies.
+- **[Compel Tongue](compel-tongue.md)**: Target can speak and write only in one imparted language.
 - **[Comprehend Languages](comprehend-languages.md)**: You understand all languages.
 - **[Compulsive Liar](compulsive-liar.md)**: Prevent target from speaking the truth.
 - **[Confusion, Lesser](confusion-lesser.md)**: One creature is *confused* for 1 round.
@@ -97,6 +99,7 @@
 - **[Moment of Greatness](moment-of-greatness.md)**: Doubles a morale bonus.
 - **[Nature's Paths](natures-paths.md)**: Find the fastest way through the wilderness
 - **[Negative Reaction](negative-reaction.md)**: Targeted creature may not positively influence anyone.
+- **[Night Blindness](night-blindness.md)**: Lighting around the target counts as one step darker.
 - **[Obscure Object](obscure-object.md)**: Masks object against *scrying*.
 - **[Obscure Poison](obscure-poison.md)**: Make it harder to detect a poison or a venomous creature.
 - **[Open and Shut](open-and-shut.md)**: Obfuscate whether a door is open or closed.
@@ -111,6 +114,7 @@
 - **[Revealing Light](revealing-light.md)**: Object sheds shifting light that foils Stealth bonuses.
 - **[Rune Trace](rune-trace.md)**: Learn a rune’s age, language, and purpose.
 - **[Sculpted Cape](sculpted-cape.md)**: Your cape stiffens and holds its shape.
+- **[Secret Sign](secret-sign.md)**: Invisibly mark a creature or object for designated viewers.
 - **[Secret Speech](secret-speech.md)**: Send hidden messages within normal speech.
 - **[See Alignment](see-alignment.md)**: Pick an alignment; in your sight, creatures and items with that alignment emit a ghostly radiance.
 - **[Shadow Trap](shadow-trap.md)**: pins the target's shadow so it is entangled
@@ -176,6 +180,7 @@
 - **[Codespeak](codespeak.md)**: Speak, read, and write a new code language.
 - **[Commune with Birds](commune-with-birds.md)**: You utter a question in the form of a low-pitched bird call that can be heard up to a mile away, and can.
 - **[Conditional Favor](conditional-favor.md)**: Provide another spell whose effects reverse if the target breaks a restriction.
+- **[Contact High](contact-high.md)**: Share the effects of a drug you are under with others.
 - **[Contagious Zeal](contagious-zeal.md)**: Grant bonuses and temporary hit points that spread from creature to creature.
 - **[Contest of Skill](contest-of-skill.md)**: Target’s critical threats fail to confirm.
 - **[Covetous Urge](covetous-urge.md)**: Curse a creature to steal valuables
@@ -208,6 +213,7 @@
 - **[Escape Alarm](escape-alarm.md)**: Ward an area to alert you when someone leaves
 - **[Escaping Ward](escaping-ward.md)**: This ward grants you extra maneuverability when you avoid attacks against larger foes.
 - **[False Belief](false-belief.md)**: Temporarily plant a false memory.
+- **[Fleeting Defect](fleeting-defect.md)**: An object temporarily gains the broken condition.
 - **[Flesh Facade](flesh-facade.md)**: Make an undead look alive
 - **[Flickering Lights](flickering-lights.md)**: Create an area of inconsistent lighting.
 - **[Fox’s Cunning](foxs-cunning.md)**: Subject gains +4 to Int for 1 min./level.
@@ -247,6 +253,7 @@
 - **[Painful Revelation](painful-revelation.md)**: Illusion hurts those who disbelieve it
 - **[Paranoia](paranoia.md)**: Target becomes hostile to all creatures.
 - **[Passing Fancy](passing-fancy.md)**: Target becomes obsessed with a topic you choose.
+- **[Peerless Integrity](peerless-integrity.md)**: Creatures appear lawful good to alignment divinations.
 - **[Perfect Placement](perfect-placement.md)**: Allies gain +1 insight to AC and Reflex saves.
 - **[Pilfering Hand](pilfering-hand.md)**: You may seize an object or manipulate it from afar.
 - **[Psychic Reading](psychic-reading.md)**: Read surface thoughts to learn information about a subject.
@@ -257,6 +264,7 @@
 - **[Rage](rage.md)**: Gives +2 to Str and Con, +1 on Will saves, –2 to AC.
 - **[Recharge](recharge.md)**: Restore charges to a technological item.
 - **[Reinvigorating Wind](reinvigorating-wind.md)**: Wake and invigorate allies with a magical wind
+- **[Remarkable Legerdemain](remarkable-legerdemain.md)**: Treat held objects as coin-sized for Sleight of Hand.
 - **[Returning Weapon](returning-weapon.md)**: Grants a weapon the returning special weapon quality.
 - **[Rotgut](rotgut.md)**: Turn water into cheap alcohol
 - **[Rumormonger](rumormonger.md)**: Follow a rumor to see where it spreads.
@@ -338,6 +346,7 @@
 - **[Fear](fear.md)**: Subjects within cone flee for 1 round/level.
 - **[Fearsome Duplicate](fearsome-duplicate.md)**: School illusion (figment); Level bard 3, inquisitor 3, sorcerer/wizard 3, witch 3 Casting Time 1 standard.
 - **[Find Fault](find-fault.md)**: Learn a creature's weaknesses and gain +5 on your first attack.
+- **[Fleeting Memory](fleeting-memory.md)**: Target forgets everything that happens while the spell lasts.
 - **[Flexile Curse](flexile-curse.md)**: Curse degrades worn armor and shields.
 - **[Fractions of Heal and Harm](fractions-of-heal-and-harm.md)**: Convert 25% of your next area damage spell into healing.
 - **[Free Spirit](free-spirit.md)**: Gain freedom of movement and fear resistance, but be drunk
@@ -407,6 +416,7 @@
 - **[Tiny Hut](tiny-hut.md)**: Creates shelter for 10 creatures.
 - **[Tongues, Communal](tongues-communal.md)**: As tongues, but you may divide the duration among creatures touched.
 - **[Trade Items](trade-items.md)**: Swap a focus object with a target object.
+- **[Venomous Promise](venomous-promise.md)**: A secret is guarded by a poison that triggers if revealed.
 - **[Wall of Nausea](wall-of-nausea.md)**: Wall of distorted images nauseates creatures passing through.
 - **[Wall of Split Illumination](wall-of-split-illumination.md)**: a wall that is bright on one side and dark on the other
 
@@ -425,6 +435,7 @@
 - **[Break Enchantment](break-enchantment.md)**: Frees subjects from enchantments, transmutations, and curses.
 - **[Brightest Light](brightest-light.md)**: Longer-lasting daylight that can dispel darkness.
 - **[Charm Person, Mass](charm-person-mass.md)**: As *charm person*, but affects multiple creatures within 30 ft.
+- **[Compel Tongue, Mass](compel-tongue-mass.md)**: As compel tongue, but affects multiple creatures.
 - **[Complex Hallucination](complex-hallucination.md)**: Create a phantasm with effects for all senses.
 - **[Conjuration Foil](conjuration-foil.md)**: Interfere with nearby teleportation effects.
 - **[Contagious Suggestion](contagious-suggestion.md)**: a suggestion that spreads from target to target
@@ -567,6 +578,7 @@
 - **[False Vision, Greater](false-vision-greater.md)**: As *false vision*, but moves with the target.
 - **[Fey Gate](fey-gate.md)**: Create a portal that allows travel to the First World.
 - **[Find the Path](find-the-path.md)**: Shows most direct way to a location.
+- **[Fleeting Memory, Mass](fleeting-memory-mass.md)**: As fleeting memory, but affects multiple creatures.
 - **[Fox’s Cunning, Mass](foxs-cunning-mass.md)**: As *fox’s cunning*, affects 1 subject/level.
 - **[Geas/Quest](geas-quest.md)**: As *lesser geas,* but affects any creature.
 - **[Heroes’ Feast](heroes-feast.md)**: Food for one creature/level cures and grants combat bonuses*.*

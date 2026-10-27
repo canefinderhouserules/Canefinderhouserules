@@ -24,6 +24,7 @@ Shamans gain access to the following spells. Spells in plain text come from othe
 
 ## 1st-Level Shaman Spells
 
+- **[Alleviate Addiction](alleviate-addiction.md)**: Subject ignores the effects of addictions.
 - **[Antitoxin Touch](antitoxin-touch.md)**: Target can't poison itself accidentally and safely milks venom.
 - **[Bane](bane.md)**: Enemies take –1 on attack rolls and saves vs. fear.
 - Blend
@@ -80,6 +81,7 @@ Shamans gain access to the following spells. Spells in plain text come from othe
 - **[Obscuring Mist](obscuring-mist.md)**: Fog surrounds you.
 - **[Pass without Trace](pass-without-trace.md)**: One subject/level leaves no tracks.
 - **[Peace Bond](peace-bond.md)**: Your low-level area spells ignore protected cubes.
+- **[Pesh Vigor](pesh-vigor.md)**: Target gains a Strength bonus it can push higher at a cost.
 - **[Positive Pulse](positive-pulse.md)**: Energy harms undead or bolsters the living
 - **[Preserve](preserve.md)**: Stop spoilage of objects for a week
 - **[Produce Flame](produce-flame.md)**: 1d6 damage + 1/level, touch or thrown.
@@ -91,6 +93,7 @@ Shamans gain access to the following spells. Spells in plain text come from othe
 - **[Rite of Centered Mind](rite-of-centered-mind.md)**: Meditative spell: bonus against mind-affecting effects, with a reroll.
 - **[Scarify](scarify.md)**: Convert lethal damage to nonlethal, leaving scars
 - **[Sculpted Cape](sculpted-cape.md)**: Your cape stiffens and holds its shape.
+- **[Secret Sign](secret-sign.md)**: Invisibly mark a creature or object for designated viewers.
 - **[Sense Spirit Magic](sense-spirit-magic.md)**: Gain bonuses on identifying and resisting spells associated with your spirits.
 - **[Shadow Trap](shadow-trap.md)**: pins the target's shadow so it is entangled
 - **[Skim](skim.md)**: read in a quarter of the time
@@ -135,6 +138,7 @@ Shamans gain access to the following spells. Spells in plain text come from othe
 - Commune with Birds
 - **[Contact Entity I](contact-entity-i.md)**: Ask eldritch entities to find and converse with you.
 - **[Cure Moderate Wounds](cure-moderate-wounds.md)**: Cures 2d8 damage +1/level (max. +10).
+- **[Curse of Keeping](curse-of-keeping.md)**: Target cannot sell, barter, or give away its items.
 - **[Curse Terrain, Lesser](curse-terrain-lesser.md)**: Curse an area with three mild hazards.
 - **[Darkness](darkness.md)**: 20-ft. radius of supernatural shadow.
 - **[Delay Poison](delay-poison.md)**: Stops poison from harming subject for 1 hour/level.
@@ -174,6 +178,7 @@ Shamans gain access to the following spells. Spells in plain text come from othe
 - **[Mindshock](mindshock.md)**: Your attacks deal extra nonlethal damage and can confuse.
 - **[Mortal Terror](mortal-terror.md)**: Target is shaken and grows more afraid each time it is hurt.
 - **[Necrostasis](necrostasis.md)**: Stagger an undead creature
+- **[Night Blindness](night-blindness.md)**: Lighting around the target counts as one step darker.
 - **[Overstimulate](overstimulate.md)**: Grant ferocity to keep a creature conscious
 - **[Owl’s Wisdom](owls-wisdom.md)**: Subject gains +4 to Wis for 1 min./level.
 - **[Quick Change](quick-change.md)**: Use change shape as a swift action and surprise foes.
@@ -226,6 +231,7 @@ Shamans gain access to the following spells. Spells in plain text come from othe
 - Clairvoyance/clairaudience
 - **[Carrying Wind](carrying-wind.md)**: Wind spirit boosts your speed and grants a fly speed.
 - **[Contact Entity II](contact-entity-ii.md)**: Ask more powerful eldritch entities to find and converse with you.
+- **[Contact High](contact-high.md)**: Share the effects of a drug you are under with others.
 - **[Create Food and Water](create-food-and-water.md)**: Feeds three humans (or one horse)/level.
 - **[Cure Serious Wounds](cure-serious-wounds.md)**: Cures 3d8 damage + 1/level (max +15).
 - **[Curse of Befouled Fortune](curse-of-befouled-fortune.md)**: curse a target so it rolls twice and takes the worse result
@@ -290,6 +296,7 @@ Shamans gain access to the following spells. Spells in plain text come from othe
 - Ward of the Season
 - **[Toxic Rupture](toxic-rupture.md)**: A poisonous creature is poisoned by its own venom.
 - **[Transfer Regeneration](transfer-regeneration.md)**: Give your regeneration to another creature
+- **[Venomous Promise](venomous-promise.md)**: A secret is guarded by a poison that triggers if revealed.
 - **[Wall of Mist](wall-of-mist.md)**: Wall of fog granting concealment and hindering movement.
 - **[Wall of Split Illumination](wall-of-split-illumination.md)**: a wall that is bright on one side and dark on the other
 - **[Water Breathing](water-breathing.md)**: Subjects can breathe underwater.

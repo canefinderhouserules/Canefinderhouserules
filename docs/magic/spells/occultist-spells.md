@@ -59,6 +59,7 @@ Occultists gain access to the following spells, determined by their chosen imple
 
 - Abjuring Step
 - **[Alarm](alarm.md)**: Wards an area for 2 hours/level.
+- **[Authenticating Gaze](authenticating-gaze.md)**: Gain insight on Appraise and Linguistics checks about written works.
 - **[Bestow Planar Infusion I](bestow-planar-infusion-i.md)**: Grant a target the effects of a planar infusion
 - **[Detect Charm](detect-charm.md)**: Detect charm, compulsion, and possession effects.
 - **[Funereal Weapon](funereal-weapon.md)**: Weapon ignores 5 points of undead DR
@@ -68,6 +69,7 @@ Occultists gain access to the following spells, determined by their chosen imple
 - **[Hide Bruises](hide-bruises.md)**: Make wounds appear to vanish
 - **[Hold Portal](hold-portal.md)**: Holds door shut.
 - Peacebond
+- **[Incendiary Runes](incendiary-runes.md)**: As explosive runes, but deals fire damage and sets targets aflame.
 - **[Instant Portrait](instant-portrait.md)**: Paint a quick monochrome portrait.
 - **[Itching Curse](itching-curse.md)**: Itch gives –1 penalty unless scratched.
 - **[Linked Legacy](linked-legacy.md)**: Share Knowledge check results with the linked creatures.
@@ -351,12 +353,15 @@ Occultists gain access to the following spells, determined by their chosen imple
 
 **Abjuration**:
 
+- **[Adroit Retrieval](adroit-retrieval.md)**: Target can quickly retrieve small stored items.
 - **[Akashic Communion](akashic-communion.md)**: Many Knowledge checks with +10 insight.
 - **[Cloak of Winds](cloak-of-winds.md)**: Creates a whirling screen of strong wind around you.
 - **[Deft Digits](deft-digits.md)**: Animate a glove to manipulate objects at a distance.
 - **[Dispel Magic](dispel-magic.md)**: Cancels one magical spell or effect.
 - **[Erase Impressions](erase-impressions.md)**: Erase psychic impressions from an object.
+- **[Evaluator's Lens](evaluators-lens.md)**: A force lens aids saves against figments and Appraise checks.
 - **[Explosive Runes](explosive-runes.md)**: Deals 6d6 damage when read.
+- **[Fleeting Memory](fleeting-memory.md)**: Target forgets everything that happens while the spell lasts.
 - **[Full Pouch](full-pouch.md)**: Duplicate an alchemical item as you draw it.
 - **[Geomessage](geomessage.md)**: Leave an invisible message on a surface
 - **[Guardian Monument, Lesser](guardian-monument-lesser.md)**: Humans defending the area gain DR 2/magic.
@@ -740,6 +745,7 @@ Occultists gain access to the following spells, determined by their chosen imple
 - **[Artificer's Curse](artificers-curse.md)**: Suppress a magic item's qualities.
 - **[Balance of Suffering](balance-of-suffering.md)**: Drain one creature to heal another.
 - **[Betraying Sting](betraying-sting.md)**: Smite those who trusted you
+- **[Fleeting Memory, Mass](fleeting-memory-mass.md)**: As fleeting memory, but affects multiple creatures.
 - **[Forbiddance](forbiddance.md)**: Blocks planar travel, damages creatures of different alignment.
 - **[Globe of Invulnerability](globe-of-invulnerability.md)**: As *lesser globe of invulnerability*, plus 4th-level spell effects.
 - **[Invoke Deity](invoke-deity.md)**: Infuse yourself with the powers of your deity's planar realm

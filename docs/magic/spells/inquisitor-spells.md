@@ -5,6 +5,7 @@ New inquisitor spells from *Ultimate Magic*. Spells from other books will be add
 ## 1st-Level Inquisitor Spells
 
 - **[Aspect of the Nightingale](aspect-of-the-nightingale.md)**: Clear voice, bonus on Diplomacy and Perform.
+- **[Authenticating Gaze](authenticating-gaze.md)**: Gain insight on Appraise and Linguistics checks about written works.
 - **[Barbed Chains](barbed-chains.md)**: Hellish chains attack and cause a target to become shaken.
 - **[Batrachian Surge](batrachian-surge.md)**: gain gills, leaping, swimming, or a long tongue
 - **[Bestow Planar Infusion I](bestow-planar-infusion-i.md)**: Grant a target the effects of a planar infusion
@@ -63,6 +64,7 @@ New inquisitor spells from *Ultimate Magic*. Spells from other books will be add
 - **[Reveal Secrets](reveal-secrets.md)**: Learn whether a target has a secret
 - **[Sanctify Corpse](sanctify-corpse.md)**: Prevent a corpse from becoming an undead.
 - **[Scarify](scarify.md)**: Convert lethal damage to nonlethal, leaving scars
+- **[Secret Sign](secret-sign.md)**: Invisibly mark a creature or object for designated viewers.
 - **[Secret Speech](secret-speech.md)**: Send hidden messages within normal speech.
 - **[Skim](skim.md)**: read in a quarter of the time
 - **[Speak Local Language](speak-local-language.md)**: Speak and understand one known regional human language.
@@ -114,6 +116,7 @@ New inquisitor spells from *Ultimate Magic*. Spells from other books will be add
 - **[Enshroud Thoughts](enshroud-thoughts.md)**: Ward yourself against thought detection and memory alteration.
 - **[Escape Alarm](escape-alarm.md)**: Ward an area to alert you when someone leaves
 - **[Escaping Ward](escaping-ward.md)**: This ward grants you extra maneuverability when you avoid attacks against larger foes.
+- **[Evaluator's Lens](evaluators-lens.md)**: A force lens aids saves against figments and Appraise checks.
 - **[Fairness](fairness.md)**: Affected creatures must trade fairly.
 - **[Fear the Sun](fear-the-sun.md)**: targets gain light blindness
 - **[Flesh Facade](flesh-facade.md)**: Make an undead look alive

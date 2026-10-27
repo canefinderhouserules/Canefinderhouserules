@@ -1140,3 +1140,13 @@ Umbral scions are sorcerers who are able to expertly control their especially po
 **Potent Shadows (Su)**: At 7th level, when an umbral scion casts a spell of the shadow subschool or a spell with the darkness or shadow descriptor within an area of dim light or darkness, she treats her caster level as 1 higher. Only the sorcerer herself needs to be in dim light or darkness. This bonus increases by 1 every 4 sorcerer levels beyond 7th she has to a maximum of +4 at 19th level. This ability replaces the 7th-level bloodline feat.
 
 **Crippling Darkness (Su)**: At 13th level, when an umbral scion targets a creature within an area of dim light or darkness with a spell of the shadow subschool or a spell with the darkness or shadow descriptor, the DC for the spell increases by 1. This bonus increases by 1 at 18th level. This ability replaces the 13th-level bloodline feat.
+
+## Sorcerer of Sleep
+
+Some sorcerers have trouble accessing their innate gifts and must find another way to unlock them. For a sorcerer of sleep, the mind-altering drug pesh is the key. The garbled visions the drug provides allow a sorcerer of sleep to reach an ideal state for channeling her arcane power. The arcane and dreamspun bloodlines are the sorcerer heritages most often associated with pesh, though a sorcerer of sleep might exhibit any bloodline; pesh is a tool to enhance her gifts, rather than their source.
+
+**Pesh Expert**: A sorcerer of sleep adds 1/2 her sorcerer level (minimum 1) on Appraise, Craft (alchemy), Heal, and Knowledge (local) checks related to pesh and other drugs. This ability replaces bloodline arcana.
+
+**Pesh Adept**: A sorcerer of sleep gains [Pesh Adept](../../rules/feats/pesh-adept.md) as a bonus feat at 1st level, even if she does not meet the prerequisites. A sorcerer of sleep adds Pesh Euphoria, Pesh Healing, Pesh Rejuvenation, and Pesh Adept to her list of bloodline feats. This ability replaces eschew materials.
+
+**Pesh Touch (Su)**: As a standard action, a sorcerer of sleep can make a melee touch attack against a living creature to cause one of the following effects (sorcerer's choice): the target gains a +2 enhancement bonus to Strength, the target is fatigued, or the target takes a –2 penalty on saving throws against illusion and mind-affecting effects. The effects of pesh touch last a number of rounds equal to 1/2 the sorcerer of sleep's sorcerer level. The effects of pesh touch are not cumulative, and cannot make the target exhausted. A sorcerer of sleep can use pesh touch a number of times per day equal to 3 + her Charisma modifier. This ability replaces the 1st-level bloodline power.

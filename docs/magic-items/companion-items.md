@@ -4022,3 +4022,315 @@ The original spellcaster remains the caster of the stored spell; for example, a 
 There is no obvious indicator that the *music box trap* delivers a stored spell onto the creature opening the box, but while the box is open, those who succeed at a DC 25 Perception check notice that the miniature dancer is keeping her gaze fixed upon the pending target. Closing the *music box trap* is a move action. If the music box is closed before its stored spell is delivered, the spell remains stored within the *music box trap* to await the next creature to open the box.
 
 **Construction Requirements:** Craft Wondrous Item, *permanency*, *spite*; **Cost** 10,180 gp
+
+## Infused Poisons
+
+### Demonic Arsenic
+
+**Slot** none; **CL** 3rd; **Price** 420 gp; **Weight** —
+
+**Aura** faint transmutation
+
+Favored by demon cultists, this malign variant of arsenic causes a wide variety of painful deformations in the victim's flesh.
+
+**Type** poison, ingested; **Save** Fortitude DC 13; **Onset** 10 minutes; **Frequency** 1/minute for 4 minutes; **Effect** 1d2 Con damage; **Cure** 1 save; **Spell Effect** *disfiguring touch* (Will DC 13)
+
+**Construction Requirements:** Brew Potion, Infuse Poison, *disfiguring touch*; **Cost** 270 gp
+
+### Burning Heart
+
+**Slot** none; **CL** 1st; **Price** 150 gp; **Weight** —
+
+**Aura** faint evocation
+
+Brewed from belladonna and popular among the backstabbing nobility, *burning heart* causes victims to burst into flames at the most embarrassing times.
+
+**Type** poison, ingested; **Save** Fortitude DC 14; **Onset** 10 minutes; **Frequency** 1/hour; **Effect** 1d2 Str damage, target can attempt one save to cure a lycanthropy affliction contracted in the past hour; **Cure** 1 save; **Spell Effect** *touch of combustion* (Reflex DC 11)
+
+**Construction Requirements:** Brew Potion, Infuse Poison, *touch of combustion*; **Cost** 125 gp
+
+### Spellbane Dust
+
+**Slot** none; **CL** 5th; **Price** 1,150 gp; **Weight** —
+
+**Aura** faint abjuration
+
+This black metallic powder infuses lich dust with magic-destroying energies, tearing down any protective spells its imbiber may have in place. It is especially favored by professional assassins when they must target wizards, arcanists, or nobles with abundant magical servants.
+
+**Type** poison, ingested; **Save** Fortitude DC 13; **Onset** 10 minutes; **Frequency** 1/minute for 6 minutes; **Effect** 1d3 Str damage; **Cure** 2 consecutive saves; **Spell Effect** *dispel magic*
+
+**Construction Requirements:** Brew Potion, Infuse Poison, *dispel magic*; **Cost** 775 gp
+
+### Liquid Influence
+
+**Slot** none; **CL** 5th; **Price** 900 gp; **Weight** —
+
+**Aura** faint enchantment
+
+This heady liquid brewed from the toxin indigo dreams imparts a compulsion to its victim, decided when the poison is first created.
+
+**Type** poison, ingested; **Save** Fortitude DC 13; **Onset** 10 minutes; **Frequency** 1/minute for 6 minutes; **Effect** 1d3 Wis damage; **Cure** 2 consecutive saves; **Spell Effect** *suggestion* (Will DC 14)
+
+**Construction Requirements:** Brew Potion, Infuse Poison, *suggestion*; **Cost** 525 gp
+
+## Necrotoxins
+
+### Entropic Dust
+
+**Slot** none; **CL** 3rd; **Price** 1,500 gp; **Weight** —
+
+**Aura** faint necromancy
+
+This white grit hinders a victim's divine power.
+
+**Type** poison, inhaled; **Save** Fortitude DC 18; **Frequency** 1/round for 6 rounds; **Effect** 1d2 Cha damage, and for the duration of the poison, the victim must succeed at a concentration check vs. the poison's save DC to channel positive energy or lay on hands; **Cure** 1 save
+
+**Construction Requirements:** Craft Wondrous Item, *desecrate*; **Cost** 750 gp
+
+### Lazurite Flakes
+
+**Slot** none; **CL** 11th; **Price** 5,400 gp; **Weight** —
+
+**Aura** moderate necromancy
+
+These dark gray flakes induce ravenous hunger.
+
+**Type** poison, ingested; **Save** Fortitude DC 18; **Onset** 10 minutes; **Frequency** 1/minute for 8 minutes; **Effect** 1d2 Con damage, and a humanoid who dies while poisoned rises as an uncontrolled ghoul at the next midnight, retaining none of the abilities it possessed in life; **Cure** 2 consecutive saves
+
+**Construction Requirements:** Craft Wondrous Item, *create undead*; **Cost** 2,700 gp
+
+### Quick Rot
+
+**Slot** none; **CL** 3rd; **Price** 450 gp; **Weight** —
+
+**Aura** faint necromancy
+
+This smelly toxin causes a victim's flesh to become gangrenous.
+
+**Type** poison, injury; **Save** Fortitude DC 14; **Frequency** 1/round for 4 rounds; **Effect** 1d2 Con damage, and until the Con damage is healed, the victim gains the stench universal monster ability. The stench DC is equal to the poison's DC, and creatures who fail their saves are sickened for 1d6+4 minutes. The poisoned creature is not immune to its own stench; **Cure** 1 save
+
+**Construction Requirements:** Craft Wondrous Item, *ghoul touch*; **Cost** 225 gp
+
+### Shadow Spores
+
+**Slot** none; **CL** 5th; **Price** 1,200 gp; **Weight** —
+
+**Aura** faint necromancy
+
+These spores from the shadowy planes inhibit a victim's ability to absorb positive energy.
+
+**Type** poison, inhaled; **Save** Fortitude DC 16; **Onset** 10 minutes; **Frequency** 1/hour for 6 hours; **Effect** 1d2 Dex damage, and until the Dex damage is healed, the victim regains only half the normal amount of hit points from channeled energy and conjuration (healing) spells; **Cure** 2 consecutive saves
+
+**Construction Requirements:** Craft Wondrous Item, *undead anatomy I*; **Cost** 225 gp
+
+## Necrografts
+
+### Ghoulgut
+
+**Slot** none; **CL** 9th; **Price** 16,000 gp; **Weight** 5 lbs.
+
+**Aura** moderate necromancy and transmutation
+
+A *ghoulgut* consists of a ghoul's stomach, gallbladder, and liver implanted in the host's torso, resulting in a potent resistance to disease, but also a hunger for flesh. Once per day, the necrograft host can charge her second stomach by feeding on at least 1 pound of raw meat (doing so provides no nutritional value). This charge lasts 24 hours. While charged, a *ghoulgut* grants the host a +4 enhancement bonus on saving throws against disease and poison. As a swift or immediate action, the host can expend her stomach's charge to reroll a failed Fortitude saving throw.
+
+**Construction Requirements:** Craft Wondrous Item, *create undead*, *undead anatomy II*, creator must have 8 ranks in Heal; **Cost** 8,000 gp
+
+### Gravespawn Gland
+
+**Slot** none; **CL** 11th; **Price** 6,200 gp; **Weight** —
+
+**Aura** moderate necromancy
+
+A *gravespawn gland* is a piece of zombie brain implanted in the host's skull. When the command word (which is often kept secret by its creator) is spoken within 60 feet of the host, the *gravespawn gland* releases a surge of necromantic power, dealing 4d6 points of negative energy damage to the host. The host must succeed at a Fortitude saving throw (DC = 10 + the damage dealt) or be instantly slain. Creatures killed in this manner cannot be revived by *breath of life* or *raise dead*. A creature killed by a *gravespawn gland* rises 1 round later as a mindless zombie.
+
+A *gravespawn gland* is rarely implanted willingly. Unlike most necrografts, implanting this organ requires a successful DC 25 Heal check by the necrograft surgeon, not a successful Fortitude save by the recipient. Removing an implanted *gravespawn gland* requires a successful DC 25 Heal check; if this check is failed by more than 5, the *gravespawn gland* detonates inside the host.
+
+**Construction Requirements:** Craft Wondrous Item, *animate dead*, *inflict critical wounds*, creator must have 11 ranks in Heal; **Cost** 3,100 gp
+
+### Necrograft Arm
+
+**Slot** none; **CL** 13th; **Price** 12,000 gp; **Weight** 10 lbs.
+
+**Aura** strong necromancy and transmutation
+
+An arm of undead flesh allows its host to lift up to 1-1/2 times his maximum load over his head. A humanoid with two *necrograft arms* can lift up to twice his maximum load over his head. Each *necrograft arm* also provides its host with a natural slam attack (replacing any natural attacks that limb may have once had) that deals 1d4 points of bludgeoning damage (1d3 for Small creatures) as a secondary attack. If a host attacks with only slam attacks in a round, the slams are instead considered primary attacks. A *necrograft arm* is clumsy, imposing a cumulative –2 circumstance penalty on all Craft, Disable Device, and Sleight of Hand checks per limb replaced, as well as on relevant Perform checks (such as for stringed instruments and wind instruments).
+
+**Construction Requirements:** Craft Wondrous Item, *animate dead*, *regenerate*, creator must have 8 ranks in Heal; **Cost** 6,000 gp
+
+### Necrograft Leg
+
+**Slot** none; **CL** 13th; **Price** 6,400 gp; **Weight** 25 lbs.
+
+**Aura** strong necromancy and transmutation
+
+A single *necrograft leg* allows its host to travel overland for 1-1/2 times longer than normal before needing to attempt Constitution checks to continue running or to avoid nonlethal damage from a forced march. A humanoid with two *necrograft legs* can travel overland twice as long as normal before needing to attempt these same checks. In addition, each *necrograft leg* grants its host a +2 bonus to CMD against bull rush and overrun attempts and provides a 50% chance to ignore caltrops.
+
+**Construction Requirements:** Craft Wondrous Item, *animate dead*, *regenerate*, creator must have 8 ranks in Heal; **Cost** 3,200 gp
+
+### Sallowflesh
+
+**Slot** none; **CL** 5th; **Price** 20,000 gp; **Weight** 4 lbs.
+
+**Aura** faint abjuration and necromancy
+
+This necrograft weaves strips of rotted skin across the bearer's body in a grisly process of scarification. The dense, undead hide provides a +2 enhancement bonus to its host's natural armor bonus, and causes undead creatures to perceive the host as one of their own—skeletons, zombies, and other mindless undead ignore a character implanted with *sallowflesh* unless attacked first. Intelligent undead may also be fooled by this effect, but can recognize the host as a living creature with a successful DC 11 Will save; on a failed save, the undead assumes the host to be another intelligent undead. Undead attacked by the host, or that witness the host channel positive energy, can immediately see through this effect. *Sallowflesh* has no effect on living creatures' perceptions.
+
+**Construction Requirements:** Craft Wondrous Item, *animate dead*, *hide from undead*, creator must have 5 ranks in Heal; **Cost** 10,000 gp
+
+### Strangler's Tongue
+
+**Slot** none; **CL** 5th; **Price** 36,000 gp; **Weight** 1 lb.
+
+**Aura** faint enchantment and necromancy
+
+Extracted from a mohrg, this ropy, claw-tipped tongue is implanted into a recipient's mouth or throat. A *strangler's tongue* lacks the strength to grasp or hold items, but the host can lash out with the tongue as a standard action as a melee touch attack. A humanoid hit by the strangler's tongue is paralyzed for 1d4 minutes (Will DC 15 negates).
+
+**Construction Requirements:** Craft Wondrous Item, *create undead*, *hold person*, creator must have 5 ranks in Heal; **Cost** 18,000 gp
+
+## Cursed Relics
+
+### Circlet of Spell-Eating
+
+**Slot** head; **CL** 7th; **Price** Type I 1,500 gp; Type II 6,000 gp; Type III 13,500 gp; Type IV 24,000 gp; **Weight** —
+
+**Aura** moderate (no school)
+
+Iridescent whorls and runes in a flowing eldritch script adorn this golden circlet. The circlet functions as a *ring of spell knowledge*, allowing a spellcaster to learn and store an additional arcane spell. However, once the circlet has been worn for 1d6 days, the wearer must succeed at a DC 16 Will save each day when meditating to renew her spell slots. Failure indicates that she loses knowledge of a random spell, whose level cannot exceed the maximum level of the *circlet of spell-eating*. Knowledge of this spell is lost until the circlet is removed, returning at a rate of one spell per day, beginning with the lowest-level spell forgotten.
+
+So long as the *circlet of spell-eating* has caused its wearer to forget at least one spell, its creator can cast the first spell lost to the item once per day as a spell-like ability.
+
+**Construction Requirements:** Craft Wondrous Item, *bestow curse*, *imbue with spell ability*; **Cost** Type I 750 gp; Type II 3,000 gp; Type III 6,750 gp; Type IV 12,000 gp
+
+### Spendthrift Spectacles
+
+**Slot** eyes; **CL** 8th; **Price** 6,250 gp; **Weight** —
+
+**Aura** moderate illusion
+
+Crafted from brass and polished quartz, these expensive bifocals grant the wearer a +5 bonus on Appraise checks, and on Linguistics or Perception checks to detect a forgery. However, after they have been worn for 1 week, they begin distorting the wearer's perception of value, replacing this bonus with a –10 penalty on the same checks. This penalty persists even when a victim is not wearing the *spendthrift spectacles*. Whenever the wearer is making a purchase that costs more than 10 gp, he must succeed at a DC 14 Will save or be compelled to make extravagant offers and pay outrageous prices (1d10 × 10% more than the asking price) for the item, paying with coin and valuables if available, or bartering with other equipment if not.
+
+**Construction Requirements:** Craft Wondrous Item, *beguiling gift*, *bestow curse*; **Cost** 3,125 gp
+
+### Style-Stealing Vambrace
+
+**Slot** wrists; **CL** 10th; **Price** 15,000 gp; **Weight** 2 lbs.
+
+**Aura** moderate transmutation
+
+This plain silver-and-steel bracelet grants the *keen* weapon special ability to any piercing or slashing weapon wielded by the wearer. Each time the wearer confirms a critical hit with such a weapon, however, she must succeed at a DC 17 Fortitude save or the bracelet severs her hand, dealing 1d6 points of Dexterity drain and 2d6 points of bleed damage. The *style-stealing vambrace* and the severed hand immediately teleport to the item's creator if he is on the same plane, or else drop to the ground if he is not.
+
+Once per day, a creature holding the severed hand can speak the bracelet's command word to gain access to one combat feat known by the previous wearer for 24 hours, as if it were a bonus feat. The creature must meet all of the usual prerequisites for the feat.
+
+The wearer's hand can be restored instantly with a *regenerate* spell, or with a *restoration* spell or regeneration (such as that granted by a *ring of regeneration*) if the severed hand is held against the stump. Restoring the wearer's hand removes the Dexterity drain. The *style-stealing vambrace* cannot be removed from the severed hand it holds or be reused until its victim dies or the hand is reattached.
+
+**Construction Requirements:** Craft Wondrous Item, *bestow curse*, *gentle repose*, *keen edge*; **Cost** 7,500 gp
+
+### Talisman of Spying
+
+**Slot** none; **CL** 7th; **Price** 19,000 gp; **Weight** 1 lb.
+
+**Aura** moderate divination
+
+This small decorative object can take almost any form but is always small and seemingly valuable. The item seems so intriguing and delightful that any creature holding it—including while examining it with Appraise or Spellcraft checks—becomes infatuated with the object and compelled to keep it (Will DC 13 negates).
+
+Each *talisman of spying* is linked to a ring when created. Any creature within 30 feet of a *talisman of spying* takes a –5 penalty on saving throws against divinations used by the ring's wearer. The ring's wearer is always aware of the direction and distance to the talisman and can discern the general condition of a creature carrying the talisman as if using *status*. Once per day, the creature wearing the talisman's ring can use *scry* upon the talisman. This functions as *scrying* if the talisman is carried by a creature, or as *clairaudience/clairvoyance* if the talisman is unattended.
+
+**Construction Requirements:** Craft Wondrous Item, *beguiling gift*, *bestow curse*, *status*; **Cost** 9,500 gp
+
+## Secret Faith Items
+
+### Aspergillum Cloak
+
+**Slot** shoulders; **CL** 7th; **Price** 8,000 gp; **Weight** 1 lb.
+
+**Aura** moderate transmutation
+
+This drab brown, hooded cloak acts as a *cloak of resistance +1* but also quickly absorbs any liquids poured onto it, drying in moments. Three times per day, the wearer can pour a vial of holy water onto the interior lining of an *aspergillum cloak*, causing its outer surface to glisten and drip. The holy water cannot be recovered once absorbed. For 7 minutes, the garment is soaked in holy water, dealing 2d4 points of damage to any undead or evil outsider that strikes the wearer with an unarmed strike or a natural weapon. An *aspergillum cloak* can also absorb unholy water instead, dealing damage to good outsiders instead. An *aspergillum cloak* gains no special abilities from absorbing any other liquid.
+
+**Construction Requirements:** Craft Wondrous Item, *bless water*; **Cost** 4,000 gp
+
+### Congregant's Compass
+
+**Slot** none; **CL** 5th; **Price** 21,600 gp; **Weight** 1/2 lb.
+
+**Aura** faint divination
+
+This ornate bronze compass aids the faithful in locating allies, or inquisitors in identifying cultists. When a holy symbol is touched to a *congregant's compass* as a standard action, the needle spins lazily for the next 5 minutes. If a devoted member of the faith associated with that holy symbol (an outsider servant, a mortal cleric, or a mortal worshiper carrying a holy symbol) is within 60 feet of an activated *congregant's compass*, the needle spins rapidly for 3 rounds before pointing in the direction of the nearest worshiper. The needle continues to point to the nearest worshiper until the 5-minute duration expires, changing its direction if another worshiper moves closer to the compass. The needle returns to spinning lazily if all worshipers move out of range, although it reorients to the nearest worshiper after another 3 rounds of rapid spinning if one approaches within 60 feet. The *congregant's compass*'s detection is blocked by a sheet of lead, 1 inch of common metal, 1 foot of stone, or 3 feet of wood or dirt, and spells such as *misdirection* and *nondetection* can foil it. A *congregant's compass* doesn't detect the creature holding it, even if she worships the appropriate faith. A *congregant's compass* can be used three times per day.
+
+**Construction Requirements:** Craft Wondrous Item, *augury*, *locate object*; **Cost** 10,800 gp
+
+### Dissident's Gloves
+
+**Slot** hands; **CL** 1st; **Price** 1,200 gp; **Weight** 1 lb.
+
+**Aura** faint evocation
+
+The inside of these fingerless leather gloves contains minute stitching forming the holy symbol of a specific deity or religion. As a standard action, the wearer can imprint a palm-sized image of the holy symbol onto any object (as if using *arcane mark*) simply by pressing the palm of one of a pair of *dissident's gloves* against it. The icon is invisible for 1d4 rounds after the imprinting; it then appears and glows with light equivalent to a candle. While the image is visible, any worshiper of the appropriate faith can use it as a holy symbol by touching it. The image fades after 1 day, but can be prematurely removed by *dispel magic* or *erase*.
+
+**Construction Requirements:** Craft Wondrous Item, *arcane mark*, *light*; **Cost** 600 gp
+
+### Effulgent Geode
+
+**Slot** none; **CL** 9th; **Price** 2,250 gp; **Weight** 1 lb.
+
+**Aura** moderate conjuration
+
+This rough, fist-sized stone contains an inner cavity lined with crystals that have been infused with positive energy. When hurled at a hard surface up to 60 feet away, an *effulgent geode* explodes in a 20-foot-radius burst. Living creatures within the burst regain 1d8+9 hit points, while undead creatures within the burst take 1d8+9 points of damage (Fortitude DC 17 half). An *effulgent geode* worn or carried by a creature that fails a saving throw against an effect that deals negative energy damage must save successfully against the negative energy effect or it immediately explodes.
+
+**Construction Requirements:** Craft Wondrous Item, *mass cure light wounds*; **Cost** 1,125 gp
+
+### False Flag Tabard
+
+**Slot** body; **CL** 5th; **Price** 5,500 gp; **Weight** 1 lb.
+
+**Aura** faint abjuration
+
+This sleeveless cotton tabard has a large but innocuous image such as a checkered field or mailed fist emblazoned on its front panel. As a swift action, a wearer devoted to a particular deity or religion can transform the image into his faith's holy symbol or transform the holy symbol back to the innocuous image. The wearer can use the holy symbol image as an actual holy symbol while it is displayed.
+
+Once per day as a standard action, the wearer can cause a *false flag tabard* to flare with protective energy. All worshipers of the wearer's deity within a 60-foot-radius burst gain a +2 sacred bonus to AC and CMD for 5 minutes. If the wearer is evil, this is a profane bonus rather than a sacred bonus.
+
+**Construction Requirements:** Craft Wondrous Item, *shield of faith*; **Cost** 2,750 gp
+
+### Recondite Holy Symbol
+
+**Slot** none; **CL** 3rd; **Price** 500 gp; **Weight** 1 lb.
+
+**Aura** faint conjuration
+
+A *recondite holy symbol* is a silver amulet depicting an old or obscure religious symbol that has long fallen out of common use within the religion in question. Each religion has its own unique obsolete emblems, but older religions are likely to have a greater variety of emblems than newer religions. A successful DC 15 Knowledge (religion) check is required to identify the deity or religion associated with a *recondite holy symbol*, allowing the wielder to utilize the holy symbol without identifying her faith to the uninformed. When the wielder uses an appropriate *recondite holy symbol* to channel energy, she gains a +3 competence bonus on Knowledge (religion) checks related to her deity or religion for 1 minute.
+
+**Construction Requirements:** Craft Wondrous Item, *guidance*, creator must have at least 5 ranks in Knowledge (religion); **Cost** 250 gp
+
+### Uplifting Boots
+
+**Slot** feet; **CL** 7th; **Price** 11,000 gp; **Weight** 2 lbs.
+
+**Aura** moderate transmutation
+
+These worn, leather traveling boots respond to the wearer's holy power. The wearer can sacrifice one use of channel energy, lay on hands, or fervor as a standard action to instead walk on air (as per the *air walk* spell) for the next 5 minutes.
+
+**Construction Requirements:** Craft Wondrous Item, *air walk*, creator must have the channel energy, lay on hands, or fervor class ability; **Cost** 5,500 gp
+
+## Magical Portable Traps
+
+### Portable Pit
+
+**Slot** none; **CL** varies; **Price** Acid pit 10,090 gp; blunt pit 2,890 gp; hungry pit 16,210 gp; persistent pit 14,410 gp; spiked pit 5,410 gp; **Weight** 1 lb.
+
+**Aura** varies
+
+This rolled cloth resembles a rug or sheet. If the cloth is unfurled on a flat horizontal surface and a command word is spoken as a standard action, its 10-foot-by-10-foot surface changes to match the coloration of the surrounding ground. The next time a Small or larger creature walks over the *portable pit*, it transforms into an extradimensional chasm at least 20 feet deep. Creatures that trigger this effect and those adjacent to the *portable pit* when it transforms must succeed at a DC 20 Reflex save or fall into the pit, taking damage and suffering additional effects (see below). The extradimensional pit persists for 1 minute before collapsing (harmlessly expelling any trapped creatures into an adjacent space) and becoming inert for 24 hours. If the command word is spoken a second time, a *portable pit* transforms back into cloth and can be picked up, moved, or stored.
+
+Creatures notice a concealed *portable pit* with a successful DC 20 Perception check. Those trapped within can attempt to climb out; the Climb DC for the pit's smooth walls is 20.
+
+**Acid Pit**: Woven from green and yellow fabric, a *portable acid pit* drops victims 30 feet into a pool of boiling acid. The fall deals 2d6 points of damage and an additional 1d6 points of nonlethal damage, while the acid deals 2d6 points of acid damage every round. The film of slick acid coating the pit walls imposes a –10 circumstance penalty on Climb checks. Moderate conjuration; CL 7th; Craft Wondrous Item, *acid pit*; cost 5,050 gp.
+
+**Blunt Pit**: Created in a spiraling weave of blue and brown wool, a *portable blunt pit* drops the victim 20 feet onto hard-packed earth, and the victim takes 2d6 points of damage from the fall. Faint conjuration; CL 4th; Craft Wondrous Item, *create pit*; cost 1,450 gp.
+
+**Hungry Pit**: Spun from blood-red silk and studded with tiny teeth, a *portable hungry pit* transforms into a 40-foot-deep pit, dealing 4d6 points of damage to any victims who fall into it. Its ravenous walls then begin to grind like the stomach of a massive beast, dealing 4d6 points of bludgeoning damage every round to any creature in the pit. The convulsing walls impose a –15 circumstance penalty on Climb checks. Moderate conjuration; CL 9th; Craft Wondrous Item, *hungry pit*; cost 8,110 gp.
+
+**Persistent Pit**: This pit drops victims 20 feet, dealing 2d6 points of damage, and resumes its disguised form (expelling anyone trapped within) after 1 minute like other *portable pits*, but doesn't become inert once activated. A *portable persistent pit* continues to activate whenever a new creature walks across it. Faint conjuration; CL 4th; Craft Wondrous Item, *create pit*; cost 7,210 gp.
+
+**Spiked Pit**: A *portable spiked pit* is woven from cotton fibers and thorns. Once activated, it drops victims 20 feet onto a bed of spikes. Each victim takes 2d6 points of damage from the fall, and lands on 1d4 spikes (Atk +10, 1d4+2 damage each). Faint conjuration; CL 5th; Craft Wondrous Item, *spiked pit*; cost 2,710 gp.
+
+**Construction Requirements:** See individual pit types; **Cost** See individual pit types

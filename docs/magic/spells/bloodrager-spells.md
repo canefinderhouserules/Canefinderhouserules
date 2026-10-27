@@ -43,6 +43,8 @@ Bloodragers gain access to the following spells. Spells in plain text come from 
 - Mirror Strike
 - **[Mount](mount.md)**: Summons riding horse for 2 hours/level.
 - Mudball
+- **[Night Blindness](night-blindness.md)**: Lighting around the target counts as one step darker.
+- **[Pesh Vigor](pesh-vigor.md)**: Target gains a Strength bonus it can push higher at a cost.
 - **[Phantom Blood](phantom-blood.md)**: Gain temporary hp if Con loss would knock you out or kill you.
 - Protection from Chaos/evil/good/law
 - **[Punishing Armor](punishing-armor.md)**: Reflects nonlethal damage back at attackers.
@@ -112,6 +114,7 @@ Bloodragers gain access to the following spells. Spells in plain text come from 
 - **[Final Sacrifice](final-sacrifice.md)**: Detonate a summoned creature
 - **[Fire Breath](fire-breath.md)**: Exhale a cone of flame at will.
 - **[Flaming Sphere](flaming-sphere.md)**: Rolling ball of fire deals 3d6 fire damage.
+- **[Fleeting Defect](fleeting-defect.md)**: An object temporarily gains the broken condition.
 - **[Force Sword](force-sword.md)**: Create a longsword of pure force.
 - **[Frigid Touch](frigid-touch.md)**: Target takes cold damage and is staggered.
 - **[Ghoul Touch](ghoul-touch.md)**: Paralyzes one subject, which exudes stench that makes those nearby sickened.

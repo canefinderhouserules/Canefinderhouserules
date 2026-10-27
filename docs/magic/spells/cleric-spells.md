@@ -21,7 +21,9 @@
 - **[Abstemiousness](abstemiousness.md)**: Food sates a creature for a full day.
 - **[Abundant Ammunition](abundant-ammunition.md)**: Replaces nonmagical ammunition every round. Spells 6 Adoration: You gain a bonus on Diplomacy checks and performance combat checks.
 - **[Air Bubble](air-bubble.md)**: Creates a small pocket of air around your head or an object.
+- **[Alleviate Addiction](alleviate-addiction.md)**: Subject ignores the effects of addictions.
 - **[Aspect of the Nightingale](aspect-of-the-nightingale.md)**: Clear voice, bonus on Diplomacy and Perform.
+- **[Authenticating Gaze](authenticating-gaze.md)**: Gain insight on Appraise and Linguistics checks about written works.
 - **[Bane](bane.md)**: Enemies take –1 on attack rolls and saves against fear.
 - **[Barbed Chains](barbed-chains.md)**: Hellish chains attack and cause a target to become shaken.
 - **[Bestow Planar Infusion I](bestow-planar-infusion-i.md)**: Grant a target the effects of a planar infusion
@@ -89,6 +91,7 @@
 - **[Obscure Poison](obscure-poison.md)**: Make it harder to detect a poison or a venomous creature.
 - **[Obscuring Mist](obscuring-mist.md)**: Fog surrounds you.
 - **[Peace Bond](peace-bond.md)**: Your low-level area spells ignore protected cubes.
+- **[Pesh Vigor](pesh-vigor.md)**: Target gains a Strength bonus it can push higher at a cost.
 - **[Pick Your Poison](pick-your-poison.md)**: Poison becomes mere intoxication for a time.
 - **[Poisoned Egg](poisoned-egg.md)**: Turn an egg into a dose of poison.
 - **[Positive Pulse](positive-pulse.md)**: Energy harms undead or bolsters the living
@@ -161,6 +164,7 @@
 - **[Burst of Radiance](burst-of-radiance.md)**: Blind creatures and damage evil creatures with a flash of light.
 - **[Calm Emotions](calm-emotions.md)**: Calms creatures, negating emotion effects.
 - **[Calm Spirit](calm-spirit.md)**: Postpone hostile action by a haunt or incorporeal undead.
+- **[Compel Tongue](compel-tongue.md)**: Target can speak and write only in one imparted language.
 - **[Conditional Favor](conditional-favor.md)**: Provide another spell whose effects reverse if the target breaks a restriction.
 - **[Consecrate](consecrate.md)**: Fills area with positive energy, weakening undead.
 - **[Contact Entity I](contact-entity-i.md)**: Ask eldritch entities to find and converse with you.
@@ -212,6 +216,7 @@
 - **[Mortal Terror](mortal-terror.md)**: Target is shaken and grows more afraid each time it is hurt.
 - **[Necromantic Burden](necromantic-burden.md)**: Make undead harder to control
 - **[Necrostasis](necrostasis.md)**: Stagger an undead creature
+- **[Night Blindness](night-blindness.md)**: Lighting around the target counts as one step darker.
 - **[Outbreak](outbreak.md)**: Make diseased creatures contagious
 - **[Overstimulate](overstimulate.md)**: Grant ferocity to keep a creature conscious
 - **[Owl’s Wisdom](owls-wisdom.md)**: Subject gains +4 to Wis for 1 min./level.
@@ -300,6 +305,7 @@
 - **[Channel the Gift](channel-the-gift.md)**: Your spell slot powers an ally’s spell.
 - **[Channel Vigor](channel-vigor.md)**: Focus on limbs, mind, spirit, or torso for bonuses.
 - **[Contact Entity II](contact-entity-ii.md)**: Ask more powerful eldritch entities to find and converse with you.
+- **[Contact High](contact-high.md)**: Share the effects of a drug you are under with others.
 - **[Contagion](contagion.md)**: Infects subject with chosen disease.
 - **[Contagious Zeal](contagious-zeal.md)**: Grant bonuses and temporary hit points that spread from creature to creature.
 - **[Contest of Skill](contest-of-skill.md)**: Target’s critical threats fail to confirm.
@@ -532,6 +538,7 @@
 - **[Command, Greater](command-greater.md)**: As *command,* but affects one subject/level.
 - **[Commune](commune.md)**: Deity answers one yes-or-no question/level.
 - **[Commune with Plane](commune-with-plane.md)**: Learn about local planar terrain
+- **[Compel Tongue, Mass](compel-tongue-mass.md)**: As compel tongue, but affects multiple creatures.
 - **[Compelling Rant](compelling-rant.md)**: People believe your ridiculous speech as long as you keep talking.
 - **[Contact Entity III](contact-entity-iii.md)**: Ask very powerful eldritch entities to find and converse with you, or they may reply telepathically.
 - **[Cure Light Wounds, Mass](cure-light-wounds-mass.md)**: Cures 1d8 damage + 1/level, affects 1 subject/level.

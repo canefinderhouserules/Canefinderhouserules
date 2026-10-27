@@ -51,6 +51,7 @@
 
 - **[Arcane Mark](arcane-mark.md)**: Inscribes a personal rune on an object or creature (visible or invisible).
 - **[Prestidigitation](prestidigitation.md)**: Performs minor tricks.
+- **[Vacuous Vessel](vacuous-vessel.md)**: A container looks and feels empty.
 
 ## 1st-Level Sorcerer/Wizard Spells
 
@@ -62,7 +63,9 @@
 - **[Alarm](alarm.md)**: Wards an area for 2 hours/level.
 - **[Alchemical Tinkering](alchemical-tinkering.md)**: You transform one alchemical item or firearm into another alchemical item or firearm of the same or lesser.
 - **[Aphasia](aphasia.md)**: Prevent a target from understanding language.
+- **[Arcane Pocket](arcane-pocket.md)**: Conjure a small extradimensional pocket.
 - **[Auditory Hallucination](auditory-hallucination.md)**: Create a phantasm with auditory effects.
+- **[Authenticating Gaze](authenticating-gaze.md)**: Gain insight on Appraise and Linguistics checks about written works.
 - **[Bestow Planar Infusion I](bestow-planar-infusion-i.md)**: Grant a target the effects of a planar infusion
 - **[Blend](blend.md)**: You draw upon your elven link to the wilderness to change the coloration of yourself and your equipment to.
 - **[Blend with Surroundings](blend-with-surroundings.md)**: Target looks like an object and hides easily while still.
@@ -104,6 +107,7 @@
 - **[Identity Validation](identity-validation.md)**: Confirm a creature’s identity from a sample.
 - **[Illusion of Calm](illusion-of-calm.md)**: You appear to be standing still, even when you take some actions.
 - **[Implant Urge](implant-urge.md)**: A target unconsciously desires a goal you choose.
+- **[Incendiary Runes](incendiary-runes.md)**: As explosive runes, but deals fire damage and sets targets aflame.
 - **[Incessant Buzzing](incessant-buzzing.md)**: Illusory wasp swarm disrupts concentration
 - **[Instant Portrait](instant-portrait.md)**: Paint a quick monochrome portrait.
 - **[Itching Curse](itching-curse.md)**: Itch gives –1 penalty unless scratched.
@@ -122,10 +126,12 @@
 - **[Moment of Greatness](moment-of-greatness.md)**: Doubles a morale bonus.
 - **[Mudball](mudball.md)**: When you cast this spell, you conjure a single ball of sticky mud and launch it at an enemy’s face as a.
 - **[Negative Reaction](negative-reaction.md)**: Targeted creature may not positively influence anyone.
+- **[Night Blindness](night-blindness.md)**: Lighting around the target counts as one step darker.
 - **[Obscure Poison](obscure-poison.md)**: Make it harder to detect a poison or a venomous creature.
 - **[Open and Shut](open-and-shut.md)**: Obfuscate whether a door is open or closed.
 - **[Peace Bond](peace-bond.md)**: Your low-level area spells ignore protected cubes.
 - **[Peacebond](peacebond.md)**: Locks a weapon in place on the target’s body.
+- **[Pesh Vigor](pesh-vigor.md)**: Target gains a Strength bonus it can push higher at a cost.
 - **[Poisoned Egg](poisoned-egg.md)**: Turn an egg into a dose of poison.
 - **[Positive Pulse](positive-pulse.md)**: Energy harms undead or bolsters the living
 - **[Preserve](preserve.md)**: Stop spoilage of objects for a week
@@ -263,6 +269,7 @@
 - **[Certain Grip](certain-grip.md)**: You gain a +4 competence bonus on Acrobatics and Climb checks and to CMD.
 - **[Codespeak](codespeak.md)**: Speak, read, and write a new code language.
 - **[Commune with Birds](commune-with-birds.md)**: You utter a question in the form of a low-pitched bird call that can be heard up to a mile away, and can.
+- **[Compel Tongue](compel-tongue.md)**: Target can speak and write only in one imparted language.
 - **[Compulsive Liar](compulsive-liar.md)**: Prevent target from speaking the truth.
 - **[Contact Entity I](contact-entity-i.md)**: Ask eldritch entities to find and converse with you.
 - **[Corpse Lanterns](corpse-lanterns.md)**: Dancing lights that hinder Stealth.
@@ -288,6 +295,7 @@
 - **[Fear the Sun](fear-the-sun.md)**: targets gain light blindness
 - **[Fiery Runes](fiery-runes.md)**: Weapon rune deals fire damage when discharged.
 - **[Fiery Shuriken](fiery-shuriken.md)**
+- **[Fleeting Defect](fleeting-defect.md)**: An object temporarily gains the broken condition.
 - **[Flesh Facade](flesh-facade.md)**: Make an undead look alive
 - **[Fleshcurdle](fleshcurdle.md)**: Mutate limbs to hamper attacks, defense, or movement.
 - **[Flickering Lights](flickering-lights.md)**: Create an area of inconsistent lighting.
@@ -331,6 +339,7 @@
 - **[Painful Revelation](painful-revelation.md)**: Illusion hurts those who disbelieve it
 - **[Paranoia](paranoia.md)**: Target becomes hostile to all creatures.
 - **[Passing Fancy](passing-fancy.md)**: Target becomes obsessed with a topic you choose.
+- **[Peerless Integrity](peerless-integrity.md)**: Creatures appear lawful good to alignment divinations.
 - **[Pilfering Hand](pilfering-hand.md)**: You may seize an object or manipulate it from afar.
 - **[Pouncing Fury](pouncing-fury.md)**: Make a full attack with your claws after a charge.
 - **[Protection from Arrows](protection-from-arrows.md)**: Subject gains DR 10/magic against ranged attacks.
@@ -346,6 +355,7 @@
 - **[Recoil Fire](recoil-fire.md)**: Ammunition in the targeted firearm generates excessive recoil.
 - **[Reinforce Armaments, Communal](reinforce-armaments-communal.md)**: As reinforce armaments, but you may divide the duration among objects touched.
 - **[Reloading Hands](reloading-hands.md)**: Loads a single shot into your weapon every round.
+- **[Remarkable Legerdemain](remarkable-legerdemain.md)**: Treat held objects as coin-sized for Sleight of Hand.
 - **[Resist Energy](resist-energy.md)**: Ignores first 10 (or more) points of damage per attack from specified energy type.
 
 **Conjuration**
@@ -360,6 +370,7 @@
 - **[Scale Spikes](scale-spikes.md)**: Grow armor spikes from scales
 - **[Searching Shadows](searching-shadows.md)**: Shadows search an area for a specified creature or object.
 - **[Secret Coffer](secret-coffer.md)**: Small secret chest.
+- **[Secret Sign](secret-sign.md)**: Invisibly mark a creature or object for designated viewers.
 - **[Secret Speech](secret-speech.md)**: Send hidden messages within normal speech.
 - **[Seducer’s Eyes](seducers-eyes.md)**: Charisma skill bonus against those who find you attractive.
 - **[Sense Vitals](sense-vitals.md)**: Gain sneak attack with any manufactured weapon.
@@ -475,6 +486,7 @@
 
 - **[Ablative Barrier](ablative-barrier.md)**: Surrounds the target with layers of force.
 - **[Accursed Glare](accursed-glare.md)**: Target rolls attacks and saves twice and takes the lower result.
+- **[Adroit Retrieval](adroit-retrieval.md)**: Target can quickly retrieve small stored items.
 - **[Air Breathing](air-breathing.md)**: Let aquatic creatures breathe air
 - **[Allied Cloak](allied-cloak.md)**: Animate your cloak to shield you and aid your actions.
 - **[Ancestral Regression](ancestral-regression.md)**: School transmutation (polymorph); Level alchemist 2, antipaladin 3, cleric 2, sorcerer/wizard 3, witch 2.
@@ -516,6 +528,7 @@
 - **[Earth Tremor](earth-tremor.md)**: Unleash a tremor that creates difficult terrain and can knock foes down and damage them.
 - **[Ectoplasmic Snare](ectoplasmic-snare.md)**: Tendril of ectoplasm grapples a creature and tethers you to it.
 - **[Erode Defenses](erode-defenses.md)**: Target's DR and natural armor wear away.
+- **[Evaluator's Lens](evaluators-lens.md)**: A force lens aids saves against figments and Appraise checks.
 - **[Explosive Runes](explosive-runes.md)**: Deals 6d6 damage when read.
 - **[Fearsome Duplicate](fearsome-duplicate.md)**: School illusion (figment); Level bard 3, inquisitor 3, sorcerer/wizard 3, witch 3 Casting Time 1 standard.
 - **[Final Sacrifice](final-sacrifice.md)**: Detonate a summoned creature
@@ -746,6 +759,7 @@
 - **[Fey Form I](fey-form-i.md)**: Assume the form of a Small or Medium fey creature.
 - **[Fire Trap](fire-trap.md)**: Opened object deals 1d4 damage + 1/level.
 - **[Firewalker's Meditation](firewalkers-meditation.md)**: Meditative spell: damage reduction, fire resistance, and pain resistance.
+- **[Fleeting Memory](fleeting-memory.md)**: Target forgets everything that happens while the spell lasts.
 - **[Flesh Puppet](flesh-puppet.md)**: Control a zombie in human guise.
 - **[Fool's Teleport](fools-teleport.md)**: Turn invisible while appearing to have teleported away.
 - **[Forgetful Slumber](forgetful-slumber.md)**: This spell acts as the deeper slumber spell, but only affects one creature of 10 Hit Dice or fewer.
@@ -930,6 +944,7 @@
 - **[Cold Iron Fetters](cold-iron-fetters.md)**: Shackle a target, halving its speeds and blocking magical movement.
 - **[Commune with Texts](commune-with-texts.md)**: Absorb knowledge from a collection of texts.
 - **[Companion Transposition](companion-transposition.md)**: Swap places with your animal companion, familiar, or spirit animal via teleportation.
+- **[Compel Tongue, Mass](compel-tongue-mass.md)**: As compel tongue, but affects multiple creatures.
 - **[Compelling Rant](compelling-rant.md)**: People believe your ridiculous speech as long as you keep talking.
 - **[Condensed Ether](condensed-ether.md)**: Creates a planar conjunction that slows movement, penalizes AC and Reflex saves, and imposes a miss chance on ranged attacks.
 - **[Conditional Curse](conditional-curse.md)**: Bestow a curse that is difficult to remove without fulfilling a condition.
@@ -1360,6 +1375,7 @@
 - **[Death Clutch](death-clutch.md)**: Rip out someone’s heart.
 - **[Dimensional Lock](dimensional-lock.md)**: Teleportation and interplanar travel blocked for 1 day/level.
 - **[Fey Gate](fey-gate.md)**: Create a portal that allows travel to the First World.
+- **[Fleeting Memory, Mass](fleeting-memory-mass.md)**: As fleeting memory, but affects multiple creatures.
 - **[Frightful Aspect](frightful-aspect.md)**: You take on a terrifying, Large-sized form of yourself and emit an aura that causes creatures to become shaken or frightened.
 - **[Heart of the Mammoth](heart-of-the-mammoth.md)**: +8 Str/Con, fear immunity, wider crit range against dragons.
 - **[Instant Summons, Greater](instant-summons-greater.md)**: As *instant summons*, but for multiple objects and creatures.
@@ -1379,6 +1395,7 @@
 - **[Quintessence Mastery](quintessence-mastery.md)**: Exercise limited control over the quintessence of an Outer Plane
 - **[Rain of Arrows](rain-of-arrows.md)**: Conjured arrows rain on an area.
 - **[Rift of Ruin](rift-of-ruin.md)**: Open a deadly rift; may summon demons
+- **[Secret Vault](secret-vault.md)**: As secret chest, but stores a whole chamber.
 - **[Spell Absorption, Greater](spell-absorption-greater.md)**: Counterspell a 6th-level or lower spell to regain a spell.
 - **[Summon Monster VIII](summon-monster-viii.md)**: Summons extraplanar creature to fight for you.
 - **[Symbol of Debauchery](symbol-of-debauchery.md)**: Symbol that fills creatures with lust.

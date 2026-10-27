@@ -76,6 +76,7 @@ Mediums gain access to the following spells. Spells without a link come from oth
 - **[Object Reading](object-reading.md)**: Read psychic impressions left on an object.
 - **[Oneiric Horror](oneiric-horror.md)**: Distract and fatigue the target with a creature from its nightmares.
 - **[Paranoia](paranoia.md)**: Target becomes hostile to all creatures.
+- **[Pesh Vigor](pesh-vigor.md)**: Target gains a Strength bonus it can push higher at a cost.
 - **[Preserve](preserve.md)**: Stop spoilage of objects for a week
 - **[Protection from Chaos](protection-from-chaos.md)**
 - **[Protection from Evil](protection-from-evil.md)**
@@ -134,6 +135,7 @@ Mediums gain access to the following spells. Spells without a link come from oth
 - **[Codespeak](codespeak.md)**: Speak, read, and write a new code language.
 - **[Cognitive Block](cognitive-block.md)**: Add a thought component to all of the target’s spells.
 - **[Compassionate Ally](compassionate-ally.md)**: Target is compelled to help injured ally.
+- **[Compel Tongue](compel-tongue.md)**: Target can speak and write only in one imparted language.
 - **[Contact Entity II](contact-entity-ii.md)**: Ask more powerful eldritch entities to find and converse with you.
 - **[Create Treasure Map](create-treasure-map.md)**
 - **[Darkvision](darkvision.md)**: See 60 ft. in total darkness.
@@ -317,6 +319,7 @@ Mediums gain access to the following spells. Spells without a link come from oth
 - **[Break Enchantment](break-enchantment.md)**: Frees subjects from enchantments, transmutations, and curses.
 - **[Command, Greater](command-greater.md)**: As *command,* but affects one subject/level.
 - **[Commune with Texts](commune-with-texts.md)**: Absorb knowledge from a collection of texts.
+- **[Compel Tongue, Mass](compel-tongue-mass.md)**: As compel tongue, but affects multiple creatures.
 - **[Conjuration Foil](conjuration-foil.md)**: Interfere with nearby teleportation effects.
 - **[Contact Entity IV](contact-entity-iv.md)**: Ask extraordinarily powerful eldritch entities to find and converse with you, or they may reply telepathically.
 - **[Contagious Suggestion](contagious-suggestion.md)**: a suggestion that spreads from target to target

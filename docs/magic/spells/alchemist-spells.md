@@ -5,8 +5,10 @@ New alchemist spells from *Ultimate Magic* and *Ultimate Combat*. Spells from ot
 ## 1st-Level Alchemist Spells
 
 - **[Abjuring Step](abjuring-step.md)**: You can move slowly and safely and still cast spells, until you move quickly, make an attack, or cast a harmful spell.
+- **[Alleviate Addiction](alleviate-addiction.md)**: Subject ignores the effects of addictions.
 - **[Anticipate Peril](anticipate-peril.md)**: Target gains a bonus on one initiative check.
 - **[Antitoxin Touch](antitoxin-touch.md)**: Target can't poison itself accidentally and safely milks venom.
+- **[Authenticating Gaze](authenticating-gaze.md)**: Gain insight on Appraise and Linguistics checks about written works.
 - **[Blend](blend.md)**: You draw upon your elven link to the wilderness to change the coloration of yourself and your equipment to.
 - **[Bouncy Body](bouncy-body.md)**: Become rubbery and bounce when falling
 - **[Coin Shot](coin-shot.md)**: Turns coins into bullets.
@@ -21,6 +23,7 @@ New alchemist spells from *Ultimate Magic* and *Ultimate Combat*. Spells from ot
 - **[Locksight](locksight.md)**: Sense a lock’s state and quality.
 - **[Longshot](longshot.md)**: Grants a +10-foot bonus to the range increment for any ranged weapon fired.
 - **[Obscure Poison](obscure-poison.md)**: Make it harder to detect a poison or a venomous creature.
+- **[Pesh Vigor](pesh-vigor.md)**: Target gains a Strength bonus it can push higher at a cost.
 - **[Polypurpose Panacea](polypurpose-panacea.md)**: Gain a relaxing or entertaining effect.
 - **[Punishing Armor](punishing-armor.md)**: Reflects nonlethal damage back at attackers.
 - **[Recharge Innate Magic](recharge-innate-magic.md)**: You channel magic energy into your own aura, recharging your innate magic abilities.
@@ -54,6 +57,7 @@ New alchemist spells from *Ultimate Magic* and *Ultimate Combat*. Spells from ot
 - **[Bullet Shield](bullet-shield.md)**: You gain a +4 deflection bonus to AC against firearm attacks.
 - **[Catatonia](catatonia.md)**: Make a willing target appear to be dead.
 - **[Certain Grip](certain-grip.md)**: You gain a +4 competence bonus on Acrobatics and Climb checks and to CMD.
+- **[Contact High](contact-high.md)**: Share the effects of a drug you are under with others.
 - **[Curative Distillation](curative-distillation.md)**: Heals and grants the benefits of a consumed healing item.
 - **[Debasing Touch](debasing-touch.md)**: Target's touch turns coins to copper.
 - **[Defensive Shock](defensive-shock.md)**: Electricity damages your attackers.

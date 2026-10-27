@@ -21,6 +21,7 @@
 - **[Abstemiousness](abstemiousness.md)**: Food sates a creature for a full day.
 - **[Acid Maw](acid-maw.md)**: Companion's bite deals extra acid damage.
 - **[Air Bubble](air-bubble.md)**: Creates a small pocket of air around your head or an object.
+- **[Alleviate Addiction](alleviate-addiction.md)**: Subject ignores the effects of addictions.
 - **[Antitoxin Touch](antitoxin-touch.md)**: Target can't poison itself accidentally and safely milks venom.
 - **[Aspect of the Nightingale](aspect-of-the-nightingale.md)**: Clear voice, bonus on Diplomacy and Perform.
 - **[Batrachian Surge](batrachian-surge.md)**: gain gills, leaping, swimming, or a long tongue
@@ -70,6 +71,7 @@
 - **[Obscuring Mist](obscuring-mist.md)**: Fog surrounds you.
 - **[Pass without Trace](pass-without-trace.md)**: One subject/level leaves no tracks.
 - **[Peace Bond](peace-bond.md)**: Your low-level area spells ignore protected cubes.
+- **[Pesh Vigor](pesh-vigor.md)**: Target gains a Strength bonus it can push higher at a cost.
 - **[Produce Flame](produce-flame.md)**: 1d6 damage + 1/level, touch or thrown.
 - **[Read Weather](read-weather.md)**: Forecast the weather for 48 hours.
 - **[Recharge Innate Magic](recharge-innate-magic.md)**: You channel magic energy into your own aura, recharging your innate magic abilities.
@@ -125,6 +127,7 @@
 - **[Cat’s Grace](cats-grace.md)**: Subject gains +4 to Dex for 1 min./level.
 - **[Certain Grip](certain-grip.md)**: You gain a +4 competence bonus on Acrobatics and Climb checks and to CMD.
 - **[Chill Metal](chill-metal.md)**: Cold metal damages those who touch it.
+- **[Compel Tongue](compel-tongue.md)**: Target can speak and write only in one imparted language.
 - **[Control Vermin](control-vermin.md)**: Control vermin as if they were animals
 - **[Curse Terrain, Lesser](curse-terrain-lesser.md)**: Curse an area with three mild hazards.
 - **[Delay Disease](delay-disease.md)**: The target becomes temporarily immune to disease.
@@ -378,6 +381,7 @@
 - **[Cave Fangs](cave-fangs.md)**: Create a trap from stalactites and stalagmites.
 - **[Commune with Nature](commune-with-nature.md)**: Learn about terrain for 1 mile/level.
 - **[Companion Transposition](companion-transposition.md)**: Swap places with your animal companion, familiar, or spirit animal via teleportation.
+- **[Compel Tongue, Mass](compel-tongue-mass.md)**: As compel tongue, but affects multiple creatures.
 - **[Control Winds](control-winds.md)**: Changes wind direction and speed.
 - **[Cure Critical Wounds](cure-critical-wounds.md)**: Cures 4d8 damage + 1/level (max +20).
 - **[Darkvault](darkvault.md)**: wards an area so light cannot change its illumination

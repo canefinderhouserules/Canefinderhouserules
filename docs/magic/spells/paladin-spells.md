@@ -2,6 +2,7 @@
 
 ## 1st-Level Paladin Spells
 
+- **[Alleviate Addiction](alleviate-addiction.md)**: Subject ignores the effects of addictions.
 - **[Aspect of the Nightingale](aspect-of-the-nightingale.md)**: Clear voice, bonus on Diplomacy and Perform.
 - **[Bless](bless.md)**: Allies gain +1 on attack rolls and saves against fear.
 - **[Bless Water](bless-water.md)**: Makes holy water.

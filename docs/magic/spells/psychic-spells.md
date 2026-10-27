@@ -131,6 +131,8 @@ Psychics gain access to the following spells. Spells without a link come from ot
 - **[Murderous Command](murderous-command.md)**: Target is compelled to kill its ally.
 - Negative Reaction
 - Peacebond
+- **[Night Blindness](night-blindness.md)**: Lighting around the target counts as one step darker.
+- **[Pesh Vigor](pesh-vigor.md)**: Target gains a Strength bonus it can push higher at a cost.
 - **[Polypurpose Panacea](polypurpose-panacea.md)**: Gain a relaxing or entertaining effect.
 - **[Psychic Reading](psychic-reading.md)**: Read surface thoughts to learn information about a subject.
 - **[Quintessence](quintessence.md)**: Mask any flaws of or damage to a creature or object.
@@ -314,6 +316,7 @@ Psychics gain access to the following spells. Spells without a link come from ot
 - **[Painful Revelation](painful-revelation.md)**: Illusion hurts those who disbelieve it
 - **[Paranoia](paranoia.md)**: Target becomes hostile to all creatures.
 - **[Passing Fancy](passing-fancy.md)**: Target becomes obsessed with a topic you choose.
+- **[Peerless Integrity](peerless-integrity.md)**: Creatures appear lawful good to alignment divinations.
 - **[Perceive Cues](perceive-cues.md)**: +5 Perception and Sense Motive 10 min./level.
 - **[Phantom Trap](phantom-trap.md)**: Makes item seem trapped.
 - **[Piercing Shriek](piercing-shriek.md)**: Target is staggered by a painful sound.
@@ -430,6 +433,7 @@ Psychics gain access to the following spells. Spells without a link come from ot
 - Fearsome Duplicate
 - **[Feather Step, Mass](feather-step-mass.md)**: As feather step, but affects many targets rather than one.
 - **[Find Fault](find-fault.md)**: Learn a creature's weaknesses and gain +5 on your first attack.
+- **[Fleeting Memory](fleeting-memory.md)**: Target forgets everything that happens while the spell lasts.
 - **[Fly](fly.md)**: Subject flies at speed of 60 ft.
 - **[Force Punch](force-punch.md)**: Target takes 1d4 force damage per level and is pushed away.
 - **[Gaseous Form](gaseous-form.md)**: Subject becomes insubstantial and can fly slowly.
@@ -932,6 +936,7 @@ Psychics gain access to the following spells. Spells without a link come from ot
 - **[Ethereal Envelopment](ethereal-envelopment.md)**: As ethereal envelope, but able to affect an unwilling creature.
 - **[False Vision, Greater](false-vision-greater.md)**: As *false vision*, but moves with the target.
 - **[Finger of Death](finger-of-death.md)**: Deals 10 damage/level to one subject.
+- **[Fleeting Memory, Mass](fleeting-memory-mass.md)**: As fleeting memory, but affects multiple creatures.
 - **[Fly, Mass](fly-mass.md)**: One creature/level gains ability to fly.
 - **[Foe to Friend](foe-to-friend.md)**: Redirect an enemy creature's attack.
 - **[Forcecage](forcecage.md)**: Cube or cage of force imprisons all inside.

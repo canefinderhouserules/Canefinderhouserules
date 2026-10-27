@@ -36,6 +36,7 @@ The magus class spell list appears on the [Magus](../../characters/classes/magus
 - **[Mirror Strike](mirror-strike.md)**: You may strike multiple opponents with a single attack.
 - **[Mudball](mudball.md)**: When you cast this spell, you conjure a single ball of sticky mud and launch it at an enemy’s face as a.
 - **[Negative Reaction](negative-reaction.md)**: Targeted creature may not positively influence anyone.
+- **[Pesh Vigor](pesh-vigor.md)**: Target gains a Strength bonus it can push higher at a cost.
 - **[Poisoned Egg](poisoned-egg.md)**: Turn an egg into a dose of poison.
 - **[Punishing Armor](punishing-armor.md)**: Reflects nonlethal damage back at attackers.
 - **[Recharge Innate Magic](recharge-innate-magic.md)**: You channel magic energy into your own aura, recharging your innate magic abilities.
@@ -82,6 +83,7 @@ The magus class spell list appears on the [Magus](../../characters/classes/magus
 - **[Erode Defenses](erode-defenses.md)**: Target's DR and natural armor wear away.
 - **[Escaping Ward](escaping-ward.md)**: This ward grants you extra maneuverability when you avoid attacks against larger foes.
 - **[Fiery Runes](fiery-runes.md)**: Weapon rune deals fire damage when discharged.
+- **[Fleeting Defect](fleeting-defect.md)**: An object temporarily gains the broken condition.
 - **[Flickering Lights](flickering-lights.md)**: Create an area of inconsistent lighting.
 - **[Force Anchor](force-anchor.md)**: Force anchor hinders a target's movement
 - **[Force Sword](force-sword.md)**: Create a longsword of pure force.

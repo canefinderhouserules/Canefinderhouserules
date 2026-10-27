@@ -272,6 +272,14 @@ Some illusionists rely more on their natural talents and less on flashy figments
 
 **Perfection of Self (Su)**: At 8th level, as a swift action you can grant yourself an enhancement bonus to a single ability score equal to 1/2 your wizard level (maximum +10) for one round. You may use this ability for a number of times per day equal to your wizard level.
 
+### Extradimension School
+
+**Associated School**: Conjuration.
+
+**Replacement Powers**: The following school power replaces the summoner's charm power of the conjuration school.
+
+**Reshape Space (Su)**: Whenever you cast a spell that creates an extradimensional space or demiplane, increase the duration by a number of units (rounds, minutes, hours, etc.) equal to 1/2 your wizard level (minimum 1). At 20th level, you can make one spell that creates an extradimensional space or demiplane permanent. You can have no more than one such spell made permanent in this way at a time. If you designate another spell as permanent, the previous permanent spell ends.
+
 ### Foresight School
 
 **Associated School**: Divination.

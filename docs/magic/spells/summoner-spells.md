@@ -16,6 +16,7 @@ New summoner spells from *Ultimate Magic*. Spells from other books will be added
 - **[Jury-Rig](jury-rig.md)**: Removes the broken condition from the targeted object.
 - **[Life Conduit](life-conduit.md)**: You are bound even tighter to your eidolon than normal, and may share hit points with it through your life link ability.
 - **[Lighten Object](lighten-object.md)**: Halve an object’s weight.
+- **[Pesh Vigor](pesh-vigor.md)**: Target gains a Strength bonus it can push higher at a cost.
 - **[Positive Pulse](positive-pulse.md)**: Energy harms undead or bolsters the living
 - **[Punishing Armor](punishing-armor.md)**: Reflects nonlethal damage back at attackers.
 - **[Ray of Sickening](ray-of-sickening.md)**: Ray makes the subject sickened.
@@ -37,6 +38,7 @@ New summoner spells from *Ultimate Magic*. Spells from other books will be added
 - **[Dark Whispers](dark-whispers.md)**: Whisper through the shadows.
 - **[Detect Magic, Greater](detect-magic-greater.md)**: As *detect magic*, but learn more information.
 - **[Escape Alarm](escape-alarm.md)**: Ward an area to alert you when someone leaves
+- **[Evaluator's Lens](evaluators-lens.md)**: A force lens aids saves against figments and Appraise checks.
 - **[Final Sacrifice](final-sacrifice.md)**: Detonate a summoned creature
 - **[Force Anchor](force-anchor.md)**: Force anchor hinders a target's movement
 - **[Garden of Peril](garden-of-peril.md)**: Poisonous mushrooms sicken nearby creatures.

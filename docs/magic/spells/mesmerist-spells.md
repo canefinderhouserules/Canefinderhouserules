@@ -95,6 +95,7 @@ Mesmerists gain access to the following spells. Spells without a link come from 
 - **[Mindlink](mindlink.md)**: Communicate a great deal of information in an instant.
 - **[Mirror Mantis](mirror-mantis.md)**: A target sees a menacing assassin in every mirror.
 - **[Murderous Command](murderous-command.md)**: Target is compelled to kill its ally.
+- **[Night Blindness](night-blindness.md)**: Lighting around the target counts as one step darker.
 - **[Obscure Object](obscure-object.md)**: Masks object against scrying.
 - **[Obscure Poison](obscure-poison.md)**: Make it harder to detect a poison or a venomous creature.
 - **[Obscuring Mist](obscuring-mist.md)**: Fog surrounds you.
@@ -155,8 +156,10 @@ Mesmerists gain access to the following spells. Spells without a link come from 
 - **[Cognitive Block](cognitive-block.md)**: Add a thought component to all of the target’s spells.
 - Commune with Birds
 - **[Compassionate Ally](compassionate-ally.md)**: Target is compelled to help injured ally.
+- **[Compel Tongue](compel-tongue.md)**: Target can speak and write only in one imparted language.
 - **[Conditional Favor](conditional-favor.md)**: Provide another spell whose effects reverse if the target breaks a restriction.
 - **[Confess](confess.md)**: Creature answers question truthfully or takes 1d6 damage/two levels (max 5d6).
+- **[Curse of Keeping](curse-of-keeping.md)**: Target cannot sell, barter, or give away its items.
 - **[Daze Monster](daze-monster.md)**: Living creature of 6 HD or less loses its next action.
 - Delay Disease
 - **[Deflect Blame](deflect-blame.md)**: Blame someone else for your action.
@@ -177,6 +180,7 @@ Mesmerists gain access to the following spells. Spells without a link come from 
 - **[Euphoric Cloud](euphoric-cloud.md)**
 - **[False Belief](false-belief.md)**: Temporarily plant a false memory.
 - **[False Life](false-life.md)**: Gain 1d10 temporary hp + 1/level (max +10).
+- **[Fleeting Memory](fleeting-memory.md)**: Target forgets everything that happens while the spell lasts.
 - **[Focused Scrutiny](focused-scrutiny.md)**: Gain skill bonuses when interacting with the target.
 - **[Garrulous Grin](garrulous-grin.md)**: Target seems guilty and takes –4 on Bluff and Diplomacy.
 - **[Ghostly Disguise](ghostly-disguise.md)**: You look like a ghost of yourself.
@@ -221,6 +225,7 @@ Mesmerists gain access to the following spells. Spells without a link come from 
 - **[Oppressive Boredom](oppressive-boredom.md)**: Target loses its next action.
 - **[Painful Revelation](painful-revelation.md)**: Illusion hurts those who disbelieve it
 - **[Passing Fancy](passing-fancy.md)**: Target becomes obsessed with a topic you choose.
+- **[Peerless Integrity](peerless-integrity.md)**: Creatures appear lawful good to alignment divinations.
 - **[Perceive Cues](perceive-cues.md)**: +5 Perception and Sense Motive 10 min./level.
 - **[Phantasmal Affliction](phantasmal-affliction.md)**: Convince a target that it contracted an affliction.
 - **[Phantom Trap](phantom-trap.md)**: Makes item seem trapped.
@@ -281,6 +286,7 @@ Mesmerists gain access to the following spells. Spells without a link come from 
 - **[Clairaudience/Clairvoyance](clairaudience-clairvoyance.md)**: Hear or see at a distance for 1 min./level.
 - **[Conditional Curse](conditional-curse.md)**: Bestow a curse that is difficult to remove without fulfilling a condition.
 - **[Confusion](confusion.md)**: Subjects behave oddly for 1 round/level.
+- **[Contact High](contact-high.md)**: Share the effects of a drug you are under with others.
 - **[Control Summoned Creature](control-summoned-creature.md)**: Direct a summoned monster as if you had summoned it.
 - **[Crushing Despair](crushing-despair.md)**: Subjects take –2 on attack rolls, damage rolls, saves, and checks.
 - **[Cup of Dust](cup-of-dust.md)**: Causes a creature to become dehydrated.
@@ -364,6 +370,7 @@ Mesmerists gain access to the following spells. Spells without a link come from 
 - **[Trade Items](trade-items.md)**: Swap a focus object with a target object.
 - **[Triggered Suggestion](triggered-suggestion.md)**
 - **[Vampiric Touch](vampiric-touch.md)**: Touch deals 1d6 damage/2 levels; caster gains damage as temporary hp.
+- **[Venomous Promise](venomous-promise.md)**: A secret is guarded by a poison that triggers if revealed.
 - **[Vision of Hell](vision-of-hell.md)**: Illusory hellscape makes creatures shaken.
 - **[Witness](witness.md)**: See through the target’s eyes and ears.
 
@@ -378,6 +385,7 @@ Mesmerists gain access to the following spells. Spells without a link come from 
 - **[Break Enchantment](break-enchantment.md)**: Frees subjects from enchantments, transmutations, and curses.
 - **[Charm Person, Mass](charm-person-mass.md)**: As *charm person*, but affects multiple creatures within 30 ft.
 - **[Command, Greater](command-greater.md)**: As *command,* but affects one subject/level.
+- **[Compel Tongue, Mass](compel-tongue-mass.md)**: As compel tongue, but affects multiple creatures.
 - **[Complex Hallucination](complex-hallucination.md)**: Create a phantasm with effects for all senses.
 - **[Contagious Suggestion](contagious-suggestion.md)**: a suggestion that spreads from target to target
 - **[Create Mindscape](create-mindscape.md)**: Form an immersive mindscape.
@@ -464,6 +472,7 @@ Mesmerists gain access to the following spells. Spells without a link come from 
 - **[Dream Scan](dream-scan.md)**: Read a dreaming creature’s thoughts.
 - **[False Vision](false-vision.md)**: Fools scrying with an illusion.
 - **[Feeblemind](feeblemind.md)**: Subject’s Int and Cha drop to 1.
+- **[Fleeting Memory, Mass](fleeting-memory-mass.md)**: As fleeting memory, but affects multiple creatures.
 - **[Foe to Friend](foe-to-friend.md)**: Redirect an enemy creature's attack.
 - **[Foster Hatred](foster-hatred.md)**: Cause creatures to hate one type of creature.
 - **[Grand Destiny](grand-destiny.md)**: Target gains a +4 bonus on two chosen rolls.

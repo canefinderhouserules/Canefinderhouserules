@@ -6,6 +6,7 @@ theme:
   features:
     - navigation.tabs
     - navigation.top
+    - navigation.prune
     - navigation.indexes
     - search.highlight
     - search.suggest
