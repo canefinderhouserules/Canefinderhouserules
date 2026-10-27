@@ -232,6 +232,7 @@
 - **[Arcane Disruption](arcane-disruption.md)**: Subject must make concentration checks to use arcane magic.
 - **[Arcane Lock](arcane-lock.md)**: Magically locks a portal or chest.
 - **[Assumed Likeness](assumed-likeness.md)**: You appear as someone each target feels strongly about.
+- **[Aura of Distraction](aura-of-distraction.md)**: Impose a –5 penalty on concentration checks in an aura.
 - **[Beacon of Guilt](beacon-of-guilt.md)**: Curse a thief to glow with red light
 - **[Bestow Insight](bestow-insight.md)**: Component V, S Range touch Target one creature touched Duration 1 minute/level When casting this spell.
 - **[Bestow Weapon Proficiency](bestow-weapon-proficiency.md)**: Grants a creature proficiency in a single weapon for short period of time.
@@ -350,6 +351,7 @@
 - **[Secret Speech](secret-speech.md)**: Send hidden messages within normal speech.
 - **[Seducer’s Eyes](seducers-eyes.md)**: Charisma skill bonus against those who find you attractive.
 - **[Sense Vitals](sense-vitals.md)**: Gain sneak attack with any manufactured weapon.
+- **[Sensory Overload](sensory-overload.md)**: Target must save to take standard or full-round actions.
 - **[Sentry Skull](sentry-skull.md)**: You restore the senses to the severed head of a humanoid or monstrous humanoid killed within the past 24.
 - **[Shackle](shackle.md)**: Conjure manacles or fetters.
 - **[Shadow Anchor](shadow-anchor.md)**: School illusion (shadow) [shadow]; Level bard 2, sorcerer/wizard 2, witch 2 Casting Time 1 standard action.
@@ -376,6 +378,7 @@
 - **[Tattoo Potion](tattoo-potion.md)**: Turn a potion into a spell tattoo.
 - **[Tears to Wine](tears-to-wine.md)**: Turn liquids into wine that sharpens the mind.
 - **[Telekinetic Assembly](telekinetic-assembly.md)**
+- **[Telekinetic Strikes](telekinetic-strikes.md)**: Unarmed attacks and natural weapons deal +1d4 force damage.
 - **[Telekinetic Volley](telekinetic-volley.md)**: Hurl touched items as ranged attacks.
 - **[Thunder Fire](thunder-fire.md)**: Ammunition in the targeted firearm deafens opponents.
 - **[Touch of Bloodletting](touch-of-bloodletting.md)**: Wounded target bleeds and is exhausted.
@@ -860,6 +863,7 @@
 - **[Befuddled Combatant](befuddled-combatant.md)**: Reduces a target’s ability DCs by 4 and its damage to minimum.
 - **[Blood Tentacles](blood-tentacles.md)**: Blood tentacles attack and heal you.
 - **[Break Enchantment](break-enchantment.md)**: Frees subjects from enchantments, transmutations, and curses.
+- **[Burst of Force](burst-of-force.md)**: Force damage in a burst around you and knock foes prone.
 - **[Callback, Greater](callback-greater.md)**: Teleport a familiar or spirit animal from miles away to your side when it is injured.
 - **[Calm Air](calm-air.md)**: Calms winds and disperses fog.
 - **[Caustic Blood](caustic-blood.md)**: Wounds spray acid at attackers.

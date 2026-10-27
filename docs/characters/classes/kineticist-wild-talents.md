@@ -244,6 +244,24 @@ You surround yourself with a shroud of water, ice, or both that protects you fro
 
 Infusion wild talents change the way kineticists use their kinetic blasts.
 
+### Blade Rush
+
+**Element** universal; **Type** form infusion; **Level** 2; **Burn** 2
+
+**Prerequisites** kinetic blade  
+**Associated Blasts** any; **Saving Throw** none
+
+You use your element's power to instantly move 30 feet in any direction (even straight up), manifest a kinetic blade, and attack once. You gain a +2 bonus on the attack roll and take a –2 penalty to your AC until the start of your next turn. The movement doesn't provoke attacks of opportunity, though activating blade rush does. If you have the kinetic whip infusion, you can manifest a kinetic whip instead of a kinetic blade at the end of your movement by increasing the burn cost of this infusion by 1. The blade or whip vanishes instantly after the rush.
+
+### Blade Whirlwind
+
+**Element** universal; **Type** form infusion; **Level** 5; **Burn** 3
+
+**Prerequisites** kinetic blade  
+**Associated Blasts** any; **Saving Throw** none
+
+You create a kinetic blade and swing it in an arc around you, making a single attack against all foes within reach as if with kinetic blade. If the result is a critical threat, roll to confirm the critical hit against only the first target you hit. The blade vanishes instantly after the whirlwind.
+
 ### Bowling Infusion
 
 **Element** aether or earth; **Type** substance infusion; **Level** 2; **Burn** 2
@@ -351,6 +369,14 @@ Your kinetic blast shines brightly, making it harder for your foes to see. If yo
 **Saving Throw** none
 
 You infuse the ground in a 20-foot radius anywhere within 120 feet of you on an earthen surface (if you are using a metal blast, this infusion affects a metal surface instead). The ground roils and buckles beneath the affected area. All creatures and objects in contact with the ground within the area when you create it automatically take 1/4 of the normal damage from your blast with no saving throw. Any time a creature enters the area, it takes half the normal damage from your blast, as do creatures that end their turns in the area. The entire area counts as difficult terrain. This infusion lasts for a number of rounds equal to your Constitution modifier or until you use it again.
+
+### Detonation
+
+**Element** fire; **Type** form infusion; **Level** 4; **Burn** 3
+
+**Associated Blasts** blue flame, fire; **Saving Throw** Reflex half
+
+Flames explode outward from your body, dealing your blast damage to all creatures and objects within a 20-foot radius.
 
 ### Disintegrating Infusion
 
@@ -472,6 +498,14 @@ Instead of a single kinetic blast, you shoot two kinetic blasts at targets withi
 
 No two targets can be more than 30 feet apart. You must assign the targets of all your blasts before rolling any of the attacks. Any blast beyond the first that hits the same target adds 1d6 points of damage; bonuses and penalties to damage don’t apply. If you are using a substance infusion that requires a saving throw, a target attempts its save only once (even if it was hit multiple times), but it takes a penalty on the save equal to the number of times it was hit beyond the first. If you are using a substance infusion that requires a caster level check or combat maneuver check, you roll the check only once against each target, but you gain a bonus on the check equal to the number of times that target was hit beyond the first. If you are using the pushing substance infusion, the maximum distance of the push increases by 5 feet for each time the target was hit beyond the first.
 
+### Focused Blast
+
+**Element** universal; **Type** form infusion; **Level** 2; **Burn** 2
+
+**Associated Blasts** any; **Saving Throw** none
+
+You focus your blast in a concentrated attack. You gain a +1 enhancement bonus on your attack roll with the blast and your caster level check to overcome spell resistance. You can increase the burn cost of this infusion by 2 to increase the enhancement bonus by 1, to a maximum of +5 for 10 burn. You can reduce your blast's total damage by half to reduce the burn cost of this infusion by half as well.
+
 ### Foe Throw
 
 **Element** aether; **Type** form infusion; **Level** 3; **Burn** 2
@@ -562,6 +596,15 @@ You surround your body with energy or elemental matter from your kinetic abiliti
 
 infusion; Level 3; Burn 2 Prerequisite kinetic blade Associated Blasts any Saving Throw none You form a long tendril of energy or elemental matter. This functions as kinetic blade but counts as a reach weapon appropriate for your size. Unlike most reach weapons, the kinetic whip can also attack nearby creatures. The kinetic whip disappears at the beginning of your next turn, but in the intervening time, it threatens all squares within its reach, allowing you to make attacks of opportunity that deal the whip’s usual damage.
 
+### Maelstrom
+
+**Element** water; **Type** substance infusion; **Level** 8; **Burn** 4
+
+**Prerequisites** extended range  
+**Associated Blasts** charged water, water; **Saving Throw** Reflex partial
+
+You create a 20-foot-radius whirling maelstrom in a body of water within 120 feet (the area of the maelstrom does not include any squares in the radius that aren't in the water). Any creature in the maelstrom immediately takes one-quarter your blast's normal damage regardless of whether it succeeds at its save. A creature that succeeds at its Reflex save can choose to exit the area at the closest space. A creature in the maelstrom must succeed at a DC 35 Swim check in order to swim, and any creature that enters the maelstrom or ends its turn in the maelstrom takes half your blast's normal damage. As a free action at the beginning of your turn, you can position each creature in the maelstrom anywhere you choose within the affected area. This effect lasts for a number of rounds equal to your Constitution modifier or until you use this infusion again. You can use grappling infusion with this infusion.
+
 ### Magnetic Infusion
 
 **Element** air or earth; **Type** substance infusion; **Level** 3; **Burn** 2
@@ -646,6 +689,15 @@ Your blast puts out nonmagical fires as if they had been touched by a water elem
 
 You can control the properties of metal, allowing your metal blast to bypass damage reduction as if it were adamantine, cold iron, or silver (your choice). If your target has an unusual type of damage reduction that could be overcome with the correct type of metal (such as DR/gold), you can also select that metal for this purpose. The metal you create with this infusion crumbles away shortly thereafter and has no gp value.
 
+### Slick Infusion
+
+**Element** water; **Type** substance infusion; **Level** 2; **Burn** 2
+
+**Prerequisites** slick  
+**Associated Blasts** blizzard, charged water, cold, ice, water; **Saving Throw** Reflex negates
+
+Your blast leaves behind slippery water or ice in its area for as long as the blast is in that area and for 1 round thereafter, making the area difficult terrain and increasing the DC of Acrobatics checks attempted in the area by 5. You can use this infusion only if you also use a form infusion that has an area of effect.
+
 ### Snake
 
 **Element** universal; **Type** form infusion; **Level** 3; **Burn** 2
@@ -678,6 +730,22 @@ You throw a long, roughly 5-foot-by-10-foot spindle of elemental matter or energ
 
 You diffuse your kinetic blast to spray out wildly. All creatures and objects in a 30-foot cone take half your normal amount of blast damage. The saving throw DC is Dexterity-based.
 
+### Synaptic Infusion
+
+**Element** air; **Type** substance infusion; **Level** 3; **Burn** 2
+
+**Associated Blasts** electric, charged water, thunderstorm; **Saving Throw** Will negates
+
+Your blast sends strange electric signals through the target's body, scrambling its synapses and causing it to become staggered for 1 round. The target is aware it can choose to take a move action to remove the staggered condition inflicted by this infusion. This infusion is a mind-affecting effect.
+
+### Telekinetic Boomerang
+
+**Element** aether; **Type** form infusion; **Level** 1; **Burn** 1
+
+**Associated Blasts** telekinetic; **Saving Throw** none
+
+This functions as telekinetic blast, except you maintain an elastic strand of aether attached to the object you throw. This allows you to pull it back to you after the attack and catch it if you have enough free hands (and assuming it is small enough for you to carry). This prevents the object from taking damage, but it also prevents you from loosening the strands of aether (see telekinetic blast). Alternatively, if the attack missed, on your next turn as a standard action, you can snap the elastic strand back to make another attack with the same substance infusion and metakinesis, as if using a normal telekinetic blast (at which point the object takes damage and doesn't return to you, and you can't try again).
+
 ### Thundering Infusion
 
 **Element** air; **Type** substance infusion; **Level** 1; **Burn** 1
@@ -697,6 +765,14 @@ Your lightning brings with it a peal of thunder. Whenever your infused blast hit
 **Saving Throw** Reflex half
 
 A torrent of energy buffets or burns all foes in a 30-foot line, dealing half your normal amount of blast damage (or full damage for energy blasts). The saving throw DC is Dexterity-based.
+
+### Tremor
+
+**Element** earth; **Type** form infusion; **Level** 5; **Burn** 3
+
+**Associated Blasts** earth; **Saving Throw** none
+
+You send a tremor through the ground or other solid surface with which you are in contact, allowing you to affect a burrowing or incorporeal creature within that same surface with a normal kinetic blast. This infusion doesn't allow you to attack creatures above the ground if you are burrowing or to ignore total cover provided by factors other than burrowing.
 
 ### Unnerving Infusion
 
@@ -740,9 +816,34 @@ Your kinetic blast can drain your foes’ vitality to replenish your own. If you
 
 You create a wall of churning elements, flensing debris, or roiling energy. The wall appears within 30 feet and can be either up to 10 feet high and up to 120 feet long or up to 20 feet high and up to 60 feet long. All creatures and objects in one of the wall’s squares when you create it take 1/4 the normal damage from your blast with no saving throw (or half the normal damage for an energy blast). Anytime a creature crosses the wall, it takes half the normal damage from your blast (or full damage for an energy blast). The wall is not completely solid, but it does provide cover against attacks from the other side of the wall. The wall lasts for a number of rounds equal to your Constitution modifier or until you use a wall infusion again.
 
+### Weighing Infusion
+
+**Element** void; **Type** substance infusion; **Level** 2; **Burn** 2
+
+**Associated Blasts** gravity, void; **Saving Throw** Reflex negates
+
+This infusion functions as entangling infusion, except it entangles and immobilizes a foe by increasing its weight, rather than surrounding it in elemental matter.
+
+### Whip Hurricane
+
+**Element** universal; **Type** form infusion; **Level** 6; **Burn** 4
+
+**Prerequisites** kinetic blade, kinetic whip, blade whirlwind  
+**Associated Blasts** any; **Saving Throw** none
+
+As blade whirlwind, except it manifests a kinetic whip, and the whip lasts until the beginning of your next turn or until you use any form infusion that creates a blade or whip again, whichever comes first.
+
 ## Utility Wild Talents
 
 A kineticist can select one of the following wild talents at each even level, provided she meets the prerequisites.
+
+### Absentia
+
+**Element** void; **Type** utility (Sp); **Level** 4; **Burn** 0
+
+**Prerequisites** emptiness
+
+You are always under the effect of *nondetection* as if you had cast it on yourself. If the effect is dispelled, you can call it forth again as a standard action. You can accept 1 point of burn to grant a creature touched the effects of *nondetection*.
 
 ### Aerial Adaptation
 
@@ -757,6 +858,12 @@ You are immune to altitude sickness, and gain an amount of electricity resistanc
 **Prerequisite** enveloping winds
 
 You use wind to buffet yourself away from area attacks. Until the next time your burn is removed, you gain evasion, as the rogue class feature.
+
+### Aether Architect
+
+**Element** aether; **Type** utility (Su); **Level** 9; **Burn** 0
+
+You can spin a small building, bridge, or other edifice out of aether, and even use aether to tether a building to a flat surface other than the ground. By concentrating for 10 minutes, you can create an edifice out of scintillating aether (same hardness and hit points as a *wall of force*) as long as the edifice is no larger than one 10-foot cube per kineticist level. Unless the creation is extremely simplistic, you must succeed at a Craft or Knowledge (engineering) check to add embellishments. This ability can also create a series of tethers to securely attach a normal building to a vertical surface or even a cavern ceiling. Aether architect lasts as long as you concentrate, and you can accept 1 point of burn to make the effect last until destroyed; by accepting this burn, you can use this ability any number of times in a row to create a larger edifice.
 
 ### Aether Puppet
 
@@ -826,6 +933,12 @@ You can use your inner flame to reproduce the effects of a flare, light, or spar
 
 This ability is similar to mage hand, except you can move an object that weighs up to 5 pounds per 2 kineticist levels you possess (minimum 5 pounds), and you can move magical objects. Additionally, you can create a container of entwined strands of aether in order to hold liquids or piles of small objects of the same weight. You can dip the container to pick up or drop a liquid as a move action. If you possess the extended range wild talent, you can increase the range of basic telekinesis to medium range and increase the rate of movement to 30 feet per round, and if you possess the extreme range wild talent, you can increase the range of basic telekinesis to long range and increase the rate of movement to 60 feet per round. You can also use your basic telekinesis to duplicate the effects of the open/ close cantrip.
 
+### Body of Air
+
+**Element** air; **Type** utility (Sp); **Level** 4; **Burn** 0
+
+You transform yourself into gas, as per *gaseous form*. You can't use kinetic blasts while in this form.
+
 ### Celerity
 
 **Element** air; **Type** utility (Sp); **Level** 3; **Burn** 0
@@ -848,6 +961,26 @@ You gain cold resistance equal to twice your current amount of burn.
 
 You chill your shroud of water and send the cold around you, creating an aura of numbing cold around yourself. Until the next time your burn is removed, you can begin or end the cold aura at will as a swift action. The temperature in the area 30 feet around you lowers by 5° F per kineticist level you possess, to a minimum modified temperature of –10° F. If this brings the temperature in the area below 40° F, all creatures within 5 feet of you take a –4 penalty to Dexterity. You are immune to these effects, as are creatures that are immune to cold or that benefit from effects that protect against temperature, such as endure elements.
 
+### Corpse Puppet
+
+**Element** void; **Type** utility (Sp); **Level** 4; **Burn** 0
+
+You draw upon negative energy to animate a nearby corpse as a zombie or a fast zombie (your choice). You can animate a zombie only if its Hit Dice are no greater than your kineticist level – 4. Each round on your turn, you must take a move action to guide the zombie, or it reverts to a corpse (but retains any damage if you later turn it into a zombie again with this utility talent). By accepting 1 point of burn, you can pour a bit of your own sentience into the zombie, allowing it to persist for 1 round per kineticist level without requiring additional actions on your part, or until the next time your burn is removed if the zombie has half your maximum zombie Hit Dice or fewer. At 12th level, you can animate a zombie with a number of Hit Dice no greater than your kineticist level – 2. At 16th level, you can animate a zombie with a number of Hit Dice no greater than your kineticist level.
+
+### Cryokinetic Stasis
+
+**Element** water; **Type** utility (Sp); **Level** 8; **Burn** 1
+
+You encase yourself or a willing target in an icy sheen, placing the target in a state of suspended animation, as per *temporal stasis* except fire spells and spell-like abilities of 3rd level or higher count as if the caster used *dispel magic* against the stasis. Otherwise, no other force or effect can harm the target.
+
+### Curse Breaker
+
+**Element** void; **Type** utility (Sp); **Level** 4; **Burn** 0
+
+**Prerequisites** emptiness
+
+The power of void protects you from curses and allows you to remove or suppress them. You gain a +4 bonus on saving throws against curses and hexes. You can accept 1 point of burn as a standard action to attempt a caster level check to remove a curse on yourself or another as per *remove curse*. If the curse normally could not be removed by *remove curse*, you can instead suppress the curse until the next time your burn is removed with a successful caster level check. When your burn is removed, you can choose not to remove the burn you spent in this way to continue suppressing the curse without interruption. If you die, any curse suppressed in this way returns instantly.
+
 ### Earth Climb
 
 **Element** earth; **Type** utility (Su); **Level** 2; **Burn** 0
@@ -861,6 +994,14 @@ You use your connection to earth to meld slightly into stone and earthen surface
 **Prerequisite** earth climb
 
 You can glide through earth, as an earth elemental’s earth glide ability, with a burrow speed equal to your base land speed.
+
+### Earth Tongue
+
+**Element** earth; **Type** utility (Sp); **Level** 8; **Burn** 0
+
+**Prerequisites** greater tremorsense, tremorsense
+
+You are constantly capable of speaking to rocks and stones, including natural and worked stone, as per *stone tell*. This ability is always active, and rocks and stones might speak to you before you speak to them if they have something to say.
 
 ### Earth Walk
 
@@ -1017,6 +1158,12 @@ If you have the kinetic healer utility wild talent, you can use both kinetic res
 You can bring an ally who died within 1 round back from the dead with your kinetic healer wild talent similarly to the *breath of life* spell, except the ally regains the normal number of hit points from the kinetic healer utility wild talent instead of the amount healed by *breath of life*. An ally revived in this way takes 1 point of burn + any points of burn from the kinetic healer utility wild talent (if you choose to have the ally take points of burn instead of taking it yourself).
 
 If you have the metahealer ability (such as from the kinetic chirurgeon kineticist archetype), this talent instead allows you to bring an ally back who died within a number of rounds equal to 3 + the ally’s Constitution modifier (minimum 0) – the number of points of burn the ally had taken before it died. For each round that the ally was dead, when it is brought back to life in this way, it takes 1 additional point of burn + any points of burn from the kinetic healer talent.
+
+### Living Capacitor
+
+**Element** air; **Type** utility (Sp); **Level** 2; **Burn** 0
+
+You store electricity damage you take within your body, as if you constantly had *body capacitance* active. Once you discharge this electricity damage via a touch attack, you must take electricity damage again before you can discharge it again.
 
 ### Magnetism
 
@@ -1251,6 +1398,14 @@ You can take a move action to gain tremorsense 30 feet for 1 round on any earth 
 **Prerequisite** tremorsense
 
 You can spend 10 minutes to extend your tremorsense outward while in a natural underground setting, letting you learn three facts as if using commune with nature, except your tremorsense can’t tell if a creature is a woodland creature or a powerful unnatural creature.
+
+### Undead Grip
+
+**Element** void; **Type** utility (Sp); **Level** 3; **Burn** 0
+
+**Saving Throw** Will negates; **Spell Resistance** yes
+
+This functions as elemental grip, except it works on a single undead creature as per *halt undead*. Unintelligent undead must succeed at a saving throw with a –4 penalty to negate the effects.
 
 ### Veil of Mists
 

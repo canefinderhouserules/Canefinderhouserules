@@ -111,6 +111,7 @@ The magus class spell list appears on the [Magus](../../characters/classes/magus
 - **[Stone Throwing](stone-throwing.md)**: Subject can throw and catch rocks.
 - **[Tactical Acumen](tactical-acumen.md)**: You gain an additional +1 on attack rolls or to AC due to battlefield positioning.
 - **[Telekinetic Assembly](telekinetic-assembly.md)**
+- **[Telekinetic Strikes](telekinetic-strikes.md)**: Unarmed attacks and natural weapons deal +1d4 force damage.
 - **[Telekinetic Volley](telekinetic-volley.md)**: Hurl touched items as ranged attacks.
 - **[Twisted Space](twisted-space.md)**: Targeted creature’s attacks target a random square instead of the intended target.
 - **[Umbral Weapon](umbral-weapon.md)**: Reroll missed attacks for cold damage.
@@ -154,6 +155,7 @@ The magus class spell list appears on the [Magus](../../characters/classes/magus
 - **[Prehensile Pilfer](prehensile-pilfer.md)**: School transmutation; Level alchemist 3, bard 3, magus 3, sorcerer/wizard 3 Casting Time 1 standard action.
 - **[Psychic Leech](psychic-leech.md)**: Fatigue a target and gain +2 Strength and Dexterity.
 - **[Recharge](recharge.md)**: Restore charges to a technological item.
+- **[Reflexive Barrier](reflexive-barrier.md)**: Immediate-action deflection bonus to AC.
 - **[Resilient Reservoir](resilient-reservoir.md)**: School transmutation; Level magus 3, paladin 3, sorcerer/wizard 4, witch 4 Casting Time 1 standard action.
 - **[Selective Invisibility](selective-invisibility.md)**: Invisible, except to one chosen creature you may attack.
 - **[Shining Cord](shining-cord.md)**: Silver cord links you and a foe; blasts the one who moves away.

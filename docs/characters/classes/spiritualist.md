@@ -425,6 +425,26 @@ A phantom with this emotional focus is covetous of everything—its master, thos
 
 **Mine to Take (Su)**: When the spiritualist reaches 17th level, once per day as an immediate action, just before the phantom’s master is about to attempt a saving throw or be targeted by an attack roll, the phantom and the spiritualist can swap places as long as both are on the same plane and the phantom is aware of the attack or effect. After the swap occurs, the phantom is targeted by the attack or effect that triggered this ability, though the phantom may be immune or resistant to the effect. This is a teleportation effect. The phantom can use this ability in either ectoplasmic or incorporeal form.
 
+#### Kindness
+
+A phantom with this emotional focus was a being with a generous heart in life and continues to remain that way well after death. The phantom's intense generosity compels it to remain a phantom and continue assisting the living, especially relatives or those who had been its good friends during its living years. Kindness phantoms have pleasant and gentle demeanors and speak with a melodic cadence, putting most who see them at ease. Their auras are bright emerald green with occasional fluctuating scarlet or golden hues.
+
+**Skills**: The phantom gains a number of ranks in Diplomacy and Heal equal to its Hit Dice. While confined in the spiritualist's consciousness, the phantom grants the spiritualist Skill Focus in each of these skills.
+
+**Good Saves**: Fortitude and Will.
+
+**Benevolent**: When the phantom uses the aid another action, the bonus granted by a successful check increases by 1. If the phantom aids the spiritualist this way, the bonus instead increases by 2.
+
+**Opening Strike (Su)**: As a standard action, the phantom can make a melee attack against a foe. If this attack hits, the spiritualist designates one ally threatening that enemy. This ally can make a single attack at his full base attack bonus against that enemy as an immediate action.
+
+**Etheric Healing (Su)**: When the spiritualist reaches 7th level, the phantom gains the lay on hands ability with an effective paladin level equal to its Hit Dice. The phantom can use this ability on the spiritualist as a swift action.
+
+**Expanded Aid (Su)**: When the spiritualist reaches 12th level, the phantom can use the aid another action as a move action. Additionally, the phantom selects four mercies available to a 12th-level paladin that it adds to its lay on hands ability.
+
+**Exceptional Aid (Su)**: When the spiritualist reaches 17th level, the phantom can use the aid another action as a swift action. Additionally, when designating an ally for an opening strike, that ally gains a bonus equal to the phantom's Charisma modifier on damage rolls for the attack granted to him.
+
+**Other Kindness-Focused Abilities**: If a spiritualist archetype allows the selection of an additional focus, add kindness to the list of available foci. In addition, a bloodrager with the id rager archetype can select kindness as his emotional focus. For spiritualists with kindness phantoms, the *emotional conduit* feat grants the spell-like abilities *charm person* (1st), *blessing of courage and life* (2nd), *good hope* (3rd), *mass charm person* (4th), *waves of ecstasy* (5th), and *sympathy* (6th). The fractured mind archetype gains *bless* (5th), *calm emotions* (7th), *heroism* (9th), and *good hope* (16th). The *spirit-bound blade* spell also grants the weapon the *allying* special ability.
+
 #### Lust
 
 A phantom with this focus aches for the intoxicating pleasures it experienced during life. These phantoms often writhe sensuously and whisper promises of unadulterated bliss to those they fight. Lust phantoms are typically deep rose in color, and they sometimes emit musky, exotic scents when they move.

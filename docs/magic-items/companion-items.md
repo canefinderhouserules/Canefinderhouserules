@@ -2176,3 +2176,92 @@ This sky-blue glass bottle sports a sculpture of a silver eagle wrapped around t
 This bulbous bottle is crafted of smoked glass and causes any liquid contained within to take on a significantly darker cast and twinkle with motes of beautiful white light. A *vial of efficacious medicine* can hold a single dose of an alchemical remedy, such as antitoxin or antiplague. Loading a remedy into the vial is a standard action that provokes attacks of opportunity. When an alchemical remedy is imbibed or applied from the vial, any alchemical bonus it grants on saving throws or checks or to AC or CMD increases by 2. Treat this increase as an enhancement bonus. In addition, the user is healed of 1d8+5 points of damage. A *vial of efficacious medicine* can be used up to three times per day.
 
 **Construction Requirements:** Craft Wondrous Item, *cure light wounds*, *polypurpose panacea*; **Cost** 350 gp
+
+## Psychic Items
+
+### Centering Jewel
+
+**Slot** headband; **CL** 1st; **Price** 1,000 gp; **Weight** —
+
+**Aura** faint transmutation
+
+This simple teardrop jewel is worn on the center of the forehead and gives its wearer the ability to quickly focus her mind. The wearer can center herself as a swift action.
+
+**Construction Requirements:** Craft Wondrous Item, *burst of insight*; **Cost** 500 gp
+
+### Recondite Rod
+
+**Slot** none; **CL** 17th; **Price** lesser 5,000 gp; regular 18,000 gp; greater 40,500 gp; **Weight** 5 lbs.
+
+**Aura** strong (no school)
+
+This odd, 2-foot-long rod appears to be made out of solidified ectoplasm shot through with energy that pulses brightly at regular intervals, almost like a heartbeat. Three times per day, this rod allows its wielder to cast a psychic spell that could be undercast (such as *ego whip* or *mind thrust*) at 1 level higher, even if the wielder doesn't know the higher-level spell or can't cast spells of that level. The spell uses the same spell slot and save DC as that of the lower-level spell, but creates the effects of the higher-level spell. For example, the wielder could use this rod to cast *mind thrust I*, with the effect of *mind thrust II*. This rod can't be used to cast the highest-level spell of a particular group. The wielder must be able to cast the lower-level spell to use this rod. Using this rod is part of the action of casting the modified spell.
+
+A lesser recondite rod can be used with spells of 3rd level or lower. A recondite rod can be used with spells of 6th level or lower. A greater recondite rod can be used with spells of 8th level or lower.
+
+**Construction Requirements:** Craft Rod, Empower Spell, the creator must know at least one spell that can be undercast; **Cost** lesser 2,500 gp; regular 9,000 gp; greater 20,250 gp
+
+### Ring of Mysticism
+
+**Slot** ring; **CL** 11th; **Price** type I 20,000 gp; type II 40,000 gp; type III 70,000 gp; type IV 100,000 gp; **Weight** —
+
+**Aura** moderate (no school)
+
+This ring of bone fused with crystal comes in four varieties, all of them useful only to psychic spellcasters. The wearer's number of psychic spells per day is doubled for one specific spell level. A ring of mysticism I doubles 1st-level spells, a ring of mysticism II doubles 2nd-level spells, a ring of mysticism III doubles 3rd-level spells, and a ring of mysticism IV doubles 4th-level spells. Bonus spells from high ability scores are not doubled.
+
+**Construction Requirements:** Forge Ring, *limited wish*; **Cost** type I 10,000 gp; type II 20,000 gp; type III 35,000 gp; type IV 50,000 gp
+
+### Ring of Phrenic Prowess
+
+**Slot** ring; **CL** 11th; **Price** 20,000 gp; **Weight** —
+
+**Aura** moderate abjuration and divination
+
+This ring is made of rough iron and is set with four amethysts. It allows a wearer with a phrenic pool to store up to 4 points from her phrenic pool in the ring as a swift action. These points remain in the ring until used. A wearer can spend points stored in the ring as if they were in her phrenic pool, in addition to the following uses.
+
+As a free action, the wearer can expend 1 point stored in the ring to gain a +2 bonus on concentration checks for 1 round.
+
+As a standard action, the wearer can expend 1 point stored in the ring to attempt to flood a target with raw psychic power. The wearer makes a melee touch attack charged with psychic energy. If the touch attack hits, it deals 3d6 points of nonlethal damage and the target is stunned for 1 round. If the attack misses, the charge dissipates.
+
+As an immediate action, the wearer can expend up to 4 points stored in the ring to gain the benefit of *spell turning* for 1 round. The number of spell levels she can turn is equal to the number of points expended.
+
+**Construction Requirements:** Forge Ring, *spell turning*, *telepathic bond*; **Cost** 10,000 gp
+
+### Robe of the Overmind
+
+**Slot** body; **CL** 14th; **Price** 75,000 gp; **Weight** 1 lb.
+
+**Aura** strong abjuration and conjuration
+
+This regal-looking robe is trimmed with softly glowing sigils and attuned to one of three types of alignment. It can have geometric sigils (1–45 on d%, lawful alignment), smooth sigils (46–75 on d%, neither lawful nor chaotic alignment), or jagged sigils (76–100 on d%, chaotic alignment). To most wearers, the robe offers no powers and has no effects unless the wearer's alignment doesn't match that of the robe (see below). Only a psychic spellcaster can call upon this potent magic item's powers, which are as follows.
+
+- The wearer gains DR 2/—.
+- The wearer gains spell resistance 18.
+- The wearer gains a +4 resistance bonus on all saving throws.
+- The save DCs of all spells with the mind-affecting descriptor cast by the wearer increase by 1.
+
+If a robe with geometric sigils is donned by a chaotic character, he immediately gains 3 permanent negative levels. The same is true with respect to a robe with jagged sigils donned by a lawful character. A lawful or chaotic character who puts on a robe with smooth sigils, or a neutral character who dons a robe with geometric or jagged sigils, gains 2 permanent negative levels. These negative levels remain as long as the garment is worn and cannot be overcome in any way (including through *restoration* spells). Negative levels are immediately removed if the robe is removed from the wearer.
+
+**Construction Requirements:** Craft Wondrous Item, *antimagic field*, *mage armor*, creator must be of same alignment as robe; **Cost** 37,500 gp
+
+### Shard of Psychic Power
+
+**Slot** none; **CL** 17th; **Price** varies (see below); **Weight** —
+
+**Aura** strong transmutation
+
+This shard of quartz is roughly the size of a human finger and covered in flowing sigils. It contains the knowledge of a psychic spell (chosen by the creator when the item is crafted). If the bearer is a psychic spellcaster and has that spell on her class spell list, she can use her spell slots to cast that spell as if it were one of her spells known. A shard of psychic power is priced based on the spell's psychic spell level. If the spell does not appear on the psychic's spell list, it is based on the highest spell level it has on any other spell list. For example, a spell that is on the 1st-level medium list and the 2nd-level spiritualist list is priced as a 2nd-level spell.
+
+| Spell Level | Price | Cost |
+|---|---|---|
+| 1st | 1,000 gp | 500 gp |
+| 2nd | 4,000 gp | 2,000 gp |
+| 3rd | 9,000 gp | 4,500 gp |
+| 4th | 16,000 gp | 8,000 gp |
+| 5th | 25,000 gp | 12,500 gp |
+| 6th | 36,000 gp | 18,000 gp |
+| 7th | 49,000 gp | 24,500 gp |
+| 8th | 64,000 gp | 32,000 gp |
+| 9th | 81,000 gp | 40,500 gp |
+
+**Construction Requirements:** Craft Wondrous Item, creator must be able to cast the spell contained in the shard; **Cost** half the price (see table)

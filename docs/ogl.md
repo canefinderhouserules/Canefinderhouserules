@@ -177,3 +177,5 @@ The following text is the property of Wizards of the Coast, Inc. and is Copyrigh
     Pathfinder Player Companion: Occult Origins © 2015, Paizo Inc.; Authors: Robert Brookes, Ben McFarland, Jason Nelson, and Mark Seifter.
 
     Pathfinder Player Companion: Arcane Anthology © 2016, Paizo Inc.; Authors: Alexander Augunas, Steven T. Helt, and David N. Ross.
+
+    Pathfinder Player Companion: Psychic Anthology © 2017, Paizo Inc.; Authors: Alexander Augunas, Isabelle Lee, Luis Loza, Alex Riggs, Mark Seifter, Loren Sieg, and Jeremy Smith.

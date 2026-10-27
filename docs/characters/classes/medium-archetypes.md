@@ -267,3 +267,149 @@ Normally, storied figures who simply disappear don't form legendary spirits, but
 **Third Eye Mastery (Su)**: At 19th level, a third eye channeler can open his third eye for longer than normal. He can open his third eye for 5 minutes per medium level (increasing to 10 minutes per medium level if he selects a taboo); this duration must be used in 5-minute increments. Uses of *analyze dweomer* cost him 5-minute increments instead of 1-minute increments, and he can use the read aura occult skill unlock with his third eye multiple times per day; each use takes only 1 minute but costs 5 minutes of the duration he can keep his third eye open. This ability replaces spirit mastery.
 
 **Living Third Eye (Su)**: At 20th level, a third eye channeler is as one with his third eye. It is open at all times, he can use *analyze dweomer* and the read aura occult skill unlock at will, and the destruction of his *arcane eye* does not adversely affect him. This ability replaces astral beacon.
+
+## Outer Channeler
+
+Rather than invite strange entities and departed souls into their bodies, outer channelers invite extraplanar entities to inhabit them, allowing the likes of angels and demons to use them as vessels in exchange for power. However, this bond always comes with a cost.
+
+**Outsider Invocation (Su)**: At 1st level, an outer channeler chooses one outsider subtype from among those listed in the Outsider Spirits section below. His alignment must be within one step of the outsider's alignment in order to choose it, and once chosen it cannot be changed. Instead of channeling spirits, an outer channeler invokes outsiders of his chosen subtype during his seance. Each subtype lists six outsiders that, when invoked, provide the outer channeler with the same benefits as the outsider's associated spirit. For example, an outer channeler with angel as his chosen subtype can invoke the astral deva, balisse, empyrean, planetar, and solar outsiders, which function like the trickster, hierophant, archmage, marshal, and guardian spirits, respectively. An outer channeler doesn't gain the intermediate power normally granted by his invoked outsider's associated spirit. Instead, he gains the intermediate power noted in his invoked outsider's subtype, regardless of which spirit that invoked outsider is associated with. Furthermore, the outer channeler gains a gift at 13th level, as noted in his invoked outsider subtype. An invoked outsider acts as a spirit for all other effects, including the trance of three and astral beacon class features. This ability alters spirit and spirit power (intermediate).
+
+**Taboo (Ex)**: Whenever he invokes an outsider, an outer channeler must accept one taboo from among those listed by his chosen outsider's subtype before the outsider will enter his body. Accepting this taboo provides the outer channeler with no benefits other than those gained from channeling a spirit; if he wishes to gain additional uses of his spirit purge ability as described by the taboo class feature, he must accept a second taboo from among those listed by the legend that his chosen outsider subtype functions as. If the outer channeler breaks this mandatory taboo, the outsider immediately leaves and the outer channeler can't invoke a new outsider until he atones (as per *atonement*). This ability alters taboo.
+
+**Shared Seance (Su)**: An outer channeler's ally cannot gain the seance boon from an outer channeler's outsider spirit if that ally's alignment is more than one step away from the outsider's alignment. This ability alters shared seance.
+
+**Servitor (Ex)**: At 3rd level, an outer channeler can summon the spirit of an outsider of his chosen subtype and house it within the body of an ordinary animal. Initially, the outsider takes the form of this animal and acts in all ways as an ordinary familiar of that type. At 7th level, the animal transforms into an outsider, taking the form of an improved familiar with the outer channeler's chosen outsider subtype (such as a cassisian for an angel-invoking medium). The outer channeler doesn't need to meet the prerequisites to gain this improved familiar, and the improved familiar gains the ability to change shape between its outsider form and its animal form at will (as per *beast shape II*). This ability replaces a medium's haunt channeler and connection channel.
+
+**Site Channeling (Su)**: At 5th level, an outer channeler can invoke outsiders from any site tied to any of the following: creatures of his chosen subtype, deities that grant his chosen subtype as a cleric subdomain, or planes that creatures of his chosen subtype are native to. This is in addition to the usual list of sites from which he can channel his outsiders. This ability replaces location channel.
+
+**Ask the Planes (Sp)**: At 14th level, an outer channeler gains the ask the spirits ability of the standard medium, except he sends his consciousness to a native plane of his chosen outsider subtype (an upper plane for archons, a lower plane for devils, any good-aligned plane for angels, and so on). This ability alters ask the spirits and replaces astral journey.
+
+### Outsider Spirits
+
+An outer channeler can invoke creatures from the following outsider subtypes. The outsiders associated with each spirit provide no mechanical benefit and are merely suggestions based on the themes and interests of each creature. At the GM's discretion, he can swap which outsiders are associated with each spirit and can even use outsiders of the indicated subtype that aren't listed, though outsiders capable of serving as an improved familiar and outsiders of CR 20 or higher typically do not answer an outer channeler's calls.
+
+#### Aeon
+
+An aeon is an inscrutable force that dispassionately seeks to bring perfect balance to the multiverse.
+
+**Alignment**: Neutral.
+
+**Spirits**: Akhana (guardian), bythos (archmage), lipika (hierophant), paracletus (marshal), pleroma (champion), and theletos (trickster).
+
+**Taboos**: Choose one of the following: you must not be the willing target of a spell or ability that grants a morale bonus; you must not consciously lie or attempt to deceive; you must not purposefully end the life or stop the bleeding (through skill or magic) of a dying creature.
+
+**Void Form (Intermediate, Su)**: You gain a +2 deflection bonus to your AC. In addition, there is a 50% chance that a confirmed critical hit against you is negated, and the damage is rolled normally; this chance doesn't stack with any provided by similar abilities, such as from a suit of armor with the light, medium, or heavy fortification special ability.
+
+**Telepathy (Gift, Su)**: You can mentally communicate with any other creature within 100 feet that has a language. It is possible to telepathically address multiple creatures at once, although maintaining a telepathic conversation with more than one creature at a time is just as difficult as simultaneously speaking and listening to multiple people at the same time.
+
+#### Agathion
+
+An agathion is an animal-like spirit from the upper planes, a defender of innocence and a champion of good.
+
+**Alignment**: Neutral good.
+
+**Spirits**: Avoral (guardian), bishop (hierophant), cervinal (marshal), leonal (champion), reptial (archmage), and vulpinal (trickster).
+
+**Taboos**: Choose one of the following: you must act aggressively to best (though not necessarily slay) evil foes; you must provide whatever service you can to promote good in the world and help the innocent, as long as such actions do not impair or prevent you from doing good in the future; you must offer your full protection and support to nonevil innocents who are in need of your service.
+
+**Lay on Hands (Intermediate, Su)**: You gain the lay on hands class feature, using your medium level as your effective paladin level.
+
+**Voice of the Upper Planes (Gift, Su)**: You can speak to beasts and men alike as a standard action, gaining the benefits of *speak with animals* and *tongues* simultaneously. You can use this ability for up to 10 minutes per day per medium level. These minutes don't need to be consecutive, but must be used in 1-minute increments.
+
+#### Angel
+
+An angel is a servant of the good-aligned planes, a voice of unity and cooperation among celestial beings.
+
+**Alignment**: Any good.
+
+**Spirits**: Astral deva (trickster), balisse (hierophant), empyrean (archmage), planetar (marshal), and solar (guardian); the champion spirit is a martial angel of the GM's choice.
+
+**Taboos**: Choose one of the following: you must not ignore an opportunity to destroy or hinder an evil creature or organization unless doing so would put innocents in harm's way; you must always offer your foes a chance to peacefully surrender to you, and you must accept and honor any such terms that your foes agree to; you must offer whatever support and assistance you can spare to any creature that asks such service from you, provided your actions do not further the cause of evil.
+
+**Protective Aura (Intermediate, Su)**: You gain a +4 deflection bonus to your AC and a +4 resistance bonus on saving throws against attacks made by or effects created by evil creatures. In addition, you are protected from effects created by evil creatures that possess you or exert mental control over you, as per *protection from evil*. As a standard action, you can project this benefit to allies within 10 feet as an aura. You may use this ability for a number of rounds per day equal to your medium level. These rounds don't need to be consecutive.
+
+**Truespeech (Gift, Su)**: You gain *tongues* as a constant spell-like ability, with a caster level equal to your medium level.
+
+#### Archon
+
+An archon is a celestial defender of the upper planes, righteousness and justice personified.
+
+**Alignment**: Lawful good.
+
+**Spirits**: Codex archon (archmage), hound archon (champion), shield archon (guardian), spyglass archon (trickster), star archon (hierophant), and trumpet archon (marshal).
+
+**Taboos**: Choose one of the following: you must promote and uphold the tenets of law and good, and may never willingly break a law that is fair and just; you must act with honor and integrity at all times; you must eschew all vices and sinful temptations or desires.
+
+**Aura of Menace (Intermediate, Su)**: As a swift action, you activate a righteous aura that embodies your outsider's fury. Hostile creatures within a 20-foot radius of you must succeed at a Will save (DC = 10 + half your medium level + your Charisma modifier) or take a –2 penalty on attack rolls, on saving throws, and to AC. This penalty lasts for 1 minute, or until you become frightened, panicked, paralyzed, stunned, unconscious, or otherwise prevented from participating in the current encounter. Whether or not a creature fails its save, it can't be affected by your aura again for 24 hours.
+
+**Teleportation (Gift, Su)**: Add *dimension door* to your medium spell list and list of spells known as a 4th-level spell. In addition, you can cast *dimension door* as a spell-like ability a number of times per day equal to your Charisma modifier, using your medium level as the spell's caster level.
+
+#### Azata
+
+An azata is a whimsical outsider, a living embodiment of freedom and goodness.
+
+**Alignment**: Chaotic good.
+
+**Spirits**: Bralani (champion), ghaele (hierophant), lillend (marshal), raelis (archmage), uinuja (guardian), and yamah (trickster).
+
+**Taboos**: Choose one of the following: whenever you encounter fine art, food, or performances, you must take no actions for 1d4+1 rounds other than to indulge in your find or until you see a potential or obvious threat (as per the fascinated condition); you must attempt any challenge or obstacle that blocks your path unless doing so would be obviously harmful to you or those under your care; you must always offer support and protection to any nonevil creature that is unable to protect itself.
+
+**Slip the Surly Bonds (Intermediate, Sp)**: You can ignore impediments to your mobility. For a number of rounds per day equal to your medium level, you can move normally regardless of magical effects that impede movement, as if you were affected by *freedom of movement*. In addition, you can cast *liberating command* as a spell-like ability a number of times per day equal to your Charisma modifier, using your medium level as the spell's caster level.
+
+**Gift of Flight (Gift, Ex)**: You grow feathery wings as a swift action, which otherwise function as per *fly*. You can use this ability for a number of minutes each day equal to your medium level. These minutes don't need to be consecutive, but must be used in 1-minute increments.
+
+#### Daemon
+
+A daemon is a nihilistic fiend, an entity obsessed with the eradication of mortal life.
+
+**Alignment**: Neutral evil.
+
+**Spirits**: Astradaemon (hierophant), phasmadaemon (trickster), purrodaemon (marshal), and venedaemon (archmage); the guardian and champion spirits are daemons of the GM's choice.
+
+**Taboos**: Choose one of the following: you must painfully end the life of a single mortal creature (with no fewer than half your Hit Dice) per day, provided that doing so does not jeopardize your own safety; you must take every opportunity to manipulate and coerce others into performing self-deprecating and self-destructive actions; you must consume a bit of every mortal creature you slay, be it flesh or soul.
+
+**Summon Daemon (Intermediate, Sp)**: You can summon a servant of destruction as a standard action. This functions as per *summon monster II*, but you can summon only animals with the fiendish template or outsiders with the daemon subtype. This ability can summon only one creature. For every 2 medium levels beyond 6th, the level of the *summon monster* spell increases by 1 (to a maximum of *summon monster IX* at 20th level). You can use this ability a number of times per day equal to 3 + your Charisma modifier.
+
+**Consume the Soul (Gift, Sp)**: You can consume or imprison the soul of a dying creature. You gain the ability to cast *death knell* as a spell-like ability three times per day using your medium level as the spell's caster level. Instead of gaining the normal benefits of this spell when the target fails its save, you can instead lock the target's soul within a soul gem, functioning like the soul lock ability of a cacodaemon. You count as an evil outsider for the purpose of determining whether you receive a benefit when you ingest a soul gem created by the soul lock ability.
+
+#### Demon
+
+A demon is a fiendish spawn of the lower planes, discord and destruction made flesh.
+
+**Alignment**: Chaotic evil.
+
+**Spirits**: Glabrezu (archmage), incubus (guardian), marilith (marshal), succubus (trickster), vilsteth (hierophant), and vrock (champion).
+
+**Taboos**: Choose one of the following: you must not ignore an opportunity to destroy something (or someone) precious to those who actively oppose your plans or goals; you must take every opportunity to tempt or coerce others into embracing their most sinful desires, and you must partake in such delights at every opportunity; you must take every opportunity to inflict physical or emotional pain upon others, provided such indulgences do not detract from your personal goals or safety.
+
+**Summon Demon (Intermediate, Sp)**: You can summon a horror from the lower planes as a standard action. This functions as per *summon monster II*, but you can summon only animals with the fiendish template or outsiders with the demon subtype. This ability can summon only one creature. For every 2 medium levels beyond 6th, the level of the *summon monster* spell increases by 1 (to a maximum of *summon monster IX* at 20th level). You can use this ability a number of times per day equal to 3 + your Charisma modifier.
+
+**Demonic Taint (Gift, Su)**: Your natural weapons, as well as any weapons you wield, are treated as chaotic and evil for the purpose of overcoming damage reduction.
+
+#### Devil
+
+A devil is a legalistic fiend, nothing less than absolute law and order incarnate.
+
+**Alignment**: Lawful evil.
+
+**Spirits**: Ayngavhaul (archmage), cornugon (champion), deimavigga (hierophant), hamatula (guardian), osyluth (trickster), and erinyes (marshal).
+
+**Taboos**: Choose one of the following: you must abide by any contracts you sign or verbally agree to, though you are only ever required to obey the letter of these agreements and may twist their intent to your favor; you must tempt others whenever the opportunity arises; you must destroy or despoil all holy sites and relics that you encounter, if doing so would not put you in obvious danger.
+
+**Summon Devil (Intermediate, Sp)**: You can summon a denizen of the lower planes as a standard action. This functions as per *summon monster II*, but you can summon only animals with the fiendish template or outsiders with the devil subtype. This ability can summon only one creature. For every 2 medium levels beyond 6th, the level of the *summon monster* spell increases by 1 (to a maximum of *summon monster IX* at 20th level). You can use this ability a number of times per day equal to 3 + your Charisma modifier.
+
+**See in Darkness (Gift, Su)**: You gain darkvision 30 feet. If you already have darkvision, your darkvision range increases by 30 feet instead. This darkvision allows you to see perfectly in darkness of any kind, even that created by a *deeper darkness* spell.
+
+#### Psychopomp
+
+A psychopomp is a steward of souls, tasked with bringing mortal souls to the afterlife.
+
+**Alignment**: Neutral.
+
+**Spirits**: Ahmuuth (hierophant), catrina (marshal), memitim (champion), morrigna (trickster), vanth (guardian), and viduus (archmage).
+
+**Taboos**: Choose one of the following: you must destroy all haunts and undead creatures whose paths you cross and oppose the creation of such creatures; you must destroy all creatures that would seek to imprison or destroy mortal souls, and set trapped souls free at every opportunity; you must wear a mask that covers the entirety of your face, and never allow it to be removed for as long as you channel the psychopomp.
+
+**Spirit Touch (Intermediate, Su)**: You gain powers that assist in battling evil spirits. You are always granted a saving throw to negate death spells, magical death effects, and energy drain, even if one is not normally allowed. In addition, as a swift action, you can grant your natural weapons, as well as any weapon you wield, the ghost touch weapon special ability for a number of rounds equal to your medium level. These rounds don't need to be consecutive.
+
+**Spiritsense (Gift, Su)**: You can notice, locate, and distinguish between living and undead creatures within 30 feet, just as if you had the psychopomp's spiritsense ability.

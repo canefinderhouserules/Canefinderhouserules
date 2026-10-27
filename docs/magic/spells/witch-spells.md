@@ -117,6 +117,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Anticipate Thoughts](anticipate-thoughts.md)**: Gain increasing bonuses to AC and on attack rolls and damage rolls against one creature.
 - **[Apport Object](apport-object.md)**: Send or receive a small object via teleportation.
 - **[Arcane Disruption](arcane-disruption.md)**: Subject must make concentration checks to use arcane magic.
+- **[Aura of Distraction](aura-of-distraction.md)**: Impose a –5 penalty on concentration checks in an aura.
 - **[Bestow Insight](bestow-insight.md)**: Component V, S Range touch Target one creature touched Duration 1 minute/level When casting this spell.
 - **[Bestow Weapon Proficiency](bestow-weapon-proficiency.md)**: Grants a creature proficiency in a single weapon for short period of time.
 - **[Billowing Skirt](billowing-skirt.md)**: A skirt or gown slows your fall.
@@ -203,6 +204,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Secret Coffer](secret-coffer.md)**: Small secret chest.
 - **[Seducer’s Eyes](seducers-eyes.md)**: Charisma skill bonus against those who find you attractive.
 - **[Sense Fear](sense-fear.md)**: Perceive nearby creatures that are experiencing fear.
+- **[Sensory Overload](sensory-overload.md)**: Target must save to take standard or full-round actions.
 - **[Sentry Skull](sentry-skull.md)**: You restore the senses to the severed head of a humanoid or monstrous humanoid killed within the past 24.
 - **[Shadow Anchor](shadow-anchor.md)**: School illusion (shadow) [shadow]; Level bard 2, sorcerer/wizard 2, witch 2 Casting Time 1 standard action.
 - **[Share Memory](share-memory.md)**: Share one memory with the target.
@@ -264,6 +266,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Contact Entity II](contact-entity-ii.md)**: Ask more powerful eldritch entities to find and converse with you.
 - **[Countless Eyes](countless-eyes.md)**: Extra eyes give all-around vision.
 - **[Cursed Treasure](cursed-treasure.md)**: Curse treasure so the next thief is afflicted
+- **[Debilitating Pain](debilitating-pain.md)**: Overcome a creature with pain so it is stunned or dazed.
 - **[Delay Poison, Communal](delay-poison-communal.md)**: As delay poison, but you may divide the duration among creatures touched.
 - **[Detect Anxieties](detect-anxieties.md)**: Learn what makes creatures anxious.
 - **[Detect Desires](detect-desires.md)**: Learn what creatures desire.
@@ -465,6 +468,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Curse of Disgust](curse-of-disgust.md)**: Target is sickened while viewing trigger.
 - **[Curse, Major](curse-major.md)**: As bestow curse, but harder to remove.
 - **[Damnation Stride](damnation-stride.md)**: This spell functions like dimension door, except you leave behind a burst of fire.
+- **[Debilitating Pain, Mass](debilitating-pain-mass.md)**: As debilitating pain, but affects multiple creatures.
 - **[Deceitful Veneer](deceitful-veneer.md)**: Make someone seem like an obvious liar.
 - **[Decollate](decollate.md)**: A target can safely remove its head.
 - **[Die for Your Master](die-for-your-master.md)**: Familiar intercepts any attack against you.

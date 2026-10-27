@@ -1558,6 +1558,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Blades Above and Below](blades-above-and-below.md) | Combat, Teamwork | Base attack bonus +6 |
 | [Bless Equipment](bless-equipment.md) | General | Caster level 3rd, channel energy class feature |
 | [Blessed Hammer](blessed-hammer.md) | — | Ability to cast 3rd-level divine spells, proficient with warhammer, worshiper of a deity whose favored weapon is the warhammer |
+| [Blinding Stare](blinding-stare.md) | Combat, Stare | Mesmerist level 7th, painful stare class feature |
 | [Blissful Spell](blissful-spell.md) | Metamagic | — |
 | [Blood Tide](blood-tide.md) | Combat | Combat Expertise, Greater Blood Frenzy, base attack bonus +6, blood frenzy ability, sahuagin |
 | [Bloodletting](bloodletting.md) | Combat | Worshiper of a deity of pain |
@@ -1567,6 +1568,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Blustering Bluff](blustering-bluff.md) | — | Cha 13, Bluff 1 rank, Intimidate 1 rank |
 | [Bolster Undead](bolster-undead.md) | — | Channel energy 6d6, worshiper of a deity of undeath |
 | [Born of Frost](born-of-frost.md) | — | Frost giant |
+| [Bouncing Trick](bouncing-trick.md) | Trick | Mesmerist trick class feature |
 | [Breaker of Barriers](breaker-of-barriers.md) | Combat | Str 17, worshiper of a deity of destruction |
 | [Bred Commander](bred-commander.md) | — | Hobgoblin |
 | [Brilliant Planner](brilliant-planner.md) | — | Int 13, character level 5th |
@@ -1634,8 +1636,10 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Concentrated Splash](concentrated-splash.md) | Combat | Precise Shot or Throw Anything |
 | [Conciliator](conciliator.md) | Story | See text |
 | [Confabulist](confabulist.md) | — | Bluff 9 ranks, Sense Motive 9 ranks |
+| [Confusing Stare](confusing-stare.md) | Combat, Stare | Mesmerist level 7th, painful stare class feature |
 | [Consortium Partner](consortium-partner.md) | — | — |
 | [Consumption](consumption.md) | Blood Hex | Int 13, Use Magic Device 5 ranks |
+| [Contingent Trick](contingent-trick.md) | Trick | Any two trick feats |
 | [Conversion Channel](conversion-channel.md) | — | Channel energy 7d6, worshiper of a deity of tyranny and contracts |
 | [Convincing Persona](convincing-persona.md) | — | Bluff 5 ranks, Perform (act) 5 ranks, or dual identity |
 | [Cooperative Counterspelling](cooperative-counterspelling.md) | Teamwork | Spellcraft 5 ranks, racial spell-like ability replicating a spell of 1st level or higher |
@@ -1775,6 +1779,8 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Eldritch Aid](eldritch-aid.md) | — | Caster level 1st |
 | [Eldritch Assault](eldritch-assault.md) | — | Blind-Fight, Improved Initiative |
 | [Elemental Discipline Style](elemental-discipline-style.md) | Combat, Style | Wis 13, base attack bonus +5 or monk level 5th |
+| [Elemental Knowledge](elemental-knowledge.md) | — | Expanded element class feature |
+| [Elemental Overload](elemental-overload.md) | — | Elemental overflow class feature, kineticist level 15th |
 | [Elemental Strike](elemental-strike.md) | Combat | Ifrit, oread, sylph, or undine |
 | [Elemental Vigor](elemental-vigor.md) | — | Worshiper of an elemental deity |
 | [Elven Battle Focus](elven-battle-focus.md) | Combat | Int 13, Elven Battle Style, Elven Battle Training, Weapon Finesse, base attack bonus +4, weapon familiarity racial trait |
@@ -1996,6 +2002,8 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Jumper](jumper.md) | — | Acrobatics 1 rank, creature type other than humanoid or outsider |
 | [Just out of Reach](just-out-of-reach.md) | Combat | Dex 13, Dodge, Mobility |
 | [Ki Channel](ki-channel.md) | — | Channel positive energy class feature, worshiper of a deity of perfection and knowledge |
+| [Kinetic Crafting](kinetic-crafting.md) | — | Kineticist level 3rd |
+| [Kinetic Invocation](kinetic-invocation.md) | — | Kineticist level 1st, elemental focus class feature |
 | [Kinslayer](kinslayer.md) | — | Knowledge 3 ranks (see special), evil alignment |
 | [Kitsune Style](kitsune-style.md) | Combat, Style | Int 13, Combat Expertise, Improved Dirty Trick |
 | [Kitsune Tricks](kitsune-tricks.md) | Combat, Style | Int 13; Combat Expertise; Improved Dirty Trick; Kitsune Style; base attack bonus +3 or monk level 3rd |
@@ -2051,6 +2059,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Merchant Combine Partner](merchant-combine-partner.md) | — | Associate (a merchant combine) |
 | [Merciless Rush](merciless-rush.md) | Combat | Improved Bull Rush, worshiper of a deity of destruction |
 | [Messenger of Fate](messenger-of-fate.md) | — | Ability to cast *augury*, worshiper of a deity of death and fate |
+| [Metamagic Invocation](metamagic-invocation.md) | — | Metakinesis class feature |
 | [Mighty Bite](mighty-bite.md) | Combat | Base attack bonus +6, bite attack, rend, troll |
 | [Mirror Kin](mirror-kin.md) | Teamwork | Bluff 8 ranks, gnome, gnome magic racial trait |
 | [Mirror Move](mirror-move.md) | Combat | Int 13, Combat Expertise, base attack bonus +4 |
@@ -2134,10 +2143,12 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Passed Critical](passed-critical.md) | Combat | Combat Expertise, worshiper of a deity of luck or dreams |
 | [Peace of Mind](peace-of-mind.md) | Conduit | Knowledge (planes) 3 ranks |
 | [Peacemaker](peacemaker.md) | — | Charisma 13, good alignment |
+| [Penetrating Stare](penetrating-stare.md) | Combat, Stare | Mesmerist level 7th, painful stare class feature |
 | [Perfect Casting](perfect-casting.md) | — | Combat Casting, Divine Dignity, ability to cast divine spells, worshiper of a deity of law and trade |
 | [Pernicious Stab](pernicious-stab.md) | Combat | Sneak attack +2d6 |
 | [Persuasive Bribery](persuasive-bribery.md) | — | Persuasive |
 | [Persuasive Performer](persuasive-performer.md) | — | Versatile performance class feature, worshiper of a deity of art and beauty |
+| [Perturbing Stare](perturbing-stare.md) | Combat, Stare | Mesmerist level 5th, painful stare class feature |
 | [Phalanx Formation](phalanx-formation.md) | Combat | Base attack bonus +1 |
 | [Phasestrike](phasestrike.md) | Combat, Conduit | Knowledge (planes) 10 ranks |
 | [Piercing Grapple](piercing-grapple.md) | Combat | Dex 13, Improved Grapple, Improved Unarmed Strike, Quick Draw, Intimidate 7 ranks |
@@ -2195,6 +2206,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Redirected Shot](redirected-shot.md) | Combat, Grit | Amateur Gunslinger or the grit class feature, Deadly Aim, Point-Blank Shot, Precise Shot |
 | [Redistributed Might](redistributed-might.md) | Combat | Con 13 or Wis 13, Exotic Weapon Proficiency (dueling sword), Iron Will, base attack bonus +4 |
 | [Reflexive Caster](reflexive-caster.md) | — | Combat Reflexes, caster level 5th |
+| [Reflexive Trick](reflexive-trick.md) | Trick | Mesmerist tricks class feature |
 | [Regenerate Muscles](regenerate-muscles.md) | Combat | Power Attack, regeneration, troll |
 | [Reject Poison](reject-poison.md) | — | Con 13, poison use class feature, worshiper of a deity of secrets and poison |
 | [Relentless Cheer](relentless-cheer.md) | Teamwork | Halfling, fearless and halfling luck racial traits |
@@ -2307,6 +2319,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Spell Chain](spell-chain.md) | Teamwork | Spell Penetration |
 | [Spell Denial](spell-denial.md) | — | Con, Dex, or Wis 13 |
 | [Spell Sponge](spell-sponge.md) | — | Animal companion or familiar, share spells ability |
+| [Spell Trick](spell-trick.md) | Trick | Masterful tricks class feature, ability to cast 4th-level mesmerist spells |
 | [Spellcut](spellcut.md) | Weapon Mastery | Str 13, Cut from the Air, Power Attack, base attack bonus +9, Spellcraft 1 rank, weapon training class feature with a melee weapon |
 | [Spiked Destroyer](spiked-destroyer.md) | Combat | Proficient with armor spikes |
 | [Spirit Beacon](spirit-beacon.md) | — | Wis 15, Iron Will |
@@ -2316,6 +2329,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Spirit Sight](spirit-sight.md) | — | Wis 15, Iron Will, Spirit Beacon |
 | [Spirit Symbiosis](spirit-symbiosis.md) | — | Ability to cast *speak with dead*, phantom class feature |
 | [Splash Weapon Mastery](splash-weapon-mastery.md) | Combat | — |
+| [Split Trick](split-trick.md) | Trick | Mesmerist trick class feature |
 | [Sprightly Armor](sprightly-armor.md) | Armor Mastery | Dex 13, base attack bonus +11 or fighter level 8th, armor training class feature, proficiency with light armor |
 | [Spring-Heeled Reaping](spring-heeled-reaping.md) | Combat | Dex 17, Dodge, Mobility, Shot on the Run or Spring Attack, Spring-Heeled Sprint, Spring-Heeled Style, base attack bonus +11, proficiency with light armor |
 | [Spring-Heeled Sprint](spring-heeled-sprint.md) | Combat | Dex 15, Dodge, Mobility, Shot on the Run or Spring Attack, Spring-Heeled Style, base attack bonus +7, proficiency with light armor |
@@ -2372,6 +2386,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Sure-Footed](sure-footed.md) | — | Quadruped animal or magical beast |
 | [Sure-Handed Alchemy](sure-handed-alchemy.md) | — | Craft (alchemy) 3 ranks |
 | [Surprising Combatant](surprising-combatant.md) | Combat | Improved Initiative, Bluff 3 ranks |
+| [Swap Trick](swap-trick.md) | Trick | Mesmerist tricks class feature |
 | [Swarm Scatter](swarm-scatter.md) | Teamwork | — |
 | [Swarm Strike](swarm-strike.md) | Teamwork | — |
 | [Sweeping Duelist](sweeping-duelist.md) | Combat | Swordlord Dueling Disciple, Weapon Finesse, Weapon Focus (dueling blade), base attack bonus +5 |

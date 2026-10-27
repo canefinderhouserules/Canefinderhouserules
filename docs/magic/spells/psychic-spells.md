@@ -186,6 +186,7 @@ Psychics gain access to the following spells. Spells without a link come from ot
 - **[Apport Object](apport-object.md)**: Send or receive a small object via teleportation.
 - **[Assumed Likeness](assumed-likeness.md)**: You appear as someone each target feels strongly about.
 - **[Augury](augury.md)**: Learns whether an action will be good or bad.
+- **[Aura of Distraction](aura-of-distraction.md)**: Impose a –5 penalty on concentration checks in an aura.
 - **[Aversion](aversion.md)**: Cause the target to avoid an object or location.
 - **[Bear’s Endurance](bears-endurance.md)**: Subject gains +4 to Con for 1 min./level.
 - Bestow Insight
@@ -329,6 +330,7 @@ Psychics gain access to the following spells. Spells without a link come from ot
 - Share Language, Communal
 - **[Sense Fear](sense-fear.md)**: Perceive nearby creatures that are experiencing fear.
 - **[Sense Madness](sense-madness.md)**: Determine mental disturbances in nearby creatures.
+- **[Sensory Overload](sensory-overload.md)**: Target must save to take standard or full-round actions.
 - **[Share Memory](share-memory.md)**: Share one memory with the target.
 - **[Shatter](shatter.md)**: Sonic energy damages objects or crystalline creatures.
 - **[Shield of Fortification](shield-of-fortification.md)**
@@ -353,7 +355,9 @@ Psychics gain access to the following spells. Spells without a link come from ot
 - Telekinetic Assembly
 - **[Suppress Charms and Compulsions](suppress-charms-and-compulsions.md)**: Bolster or suppress charm and compulsion effects.
 - **[Sympathetic Aura](sympathetic-aura.md)**: Magic aura that also covers similar nearby items.
+- **[Telekinetic Strikes](telekinetic-strikes.md)**: Unarmed attacks and natural weapons deal +1d4 force damage.
 - **[Thought Shield I](thought-shield-i.md)**: As an immediate action, gain a +4 bonus on Will saves against mind-affecting effects.
+- **[Thought Worm I](thought-worm-i.md)**: Target takes a –2 penalty on Will saves against mind-affecting effects.
 - **[Time Shudder](time-shudder.md)**
 - **[Touch of Idiocy](touch-of-idiocy.md)**: Subject takes 1d6 penalty to Int, Wis, and Cha.
 - **[Twilight Haze](twilight-haze.md)**
@@ -399,6 +403,7 @@ Psychics gain access to the following spells. Spells without a link come from ot
 - **[Cup of Dust](cup-of-dust.md)**: Causes a creature to become dehydrated.
 - Darkvision, Communal
 - **[Daze, Mass](daze-mass.md)**: As daze, but affecting multiple creatures.
+- **[Debilitating Pain](debilitating-pain.md)**: Overcome a creature with pain so it is stunned or dazed.
 - **[Deep Slumber](deep-slumber.md)**: Puts 10 HD of creatures to sleep.
 - **[Deft Digits](deft-digits.md)**: Animate a glove to manipulate objects at a distance.
 - **[Demanding Message](demanding-message.md)**: Send messages as per *message* with a *suggestion* for one creature.
@@ -471,6 +476,7 @@ Psychics gain access to the following spells. Spells without a link come from ot
 - Resist Energy, Communal
 - Restore Mythic Power
 - Returning Weapon, Communal
+- **[Reflexive Barrier](reflexive-barrier.md)**: Immediate-action deflection bonus to AC.
 - **[Rumormonger](rumormonger.md)**: Follow a rumor to see where it spreads.
 - **[Sands of Time](sands-of-time.md)**: Target temporarily ages.
 - Share Glory
@@ -493,6 +499,7 @@ Psychics gain access to the following spells. Spells without a link come from ot
 - **[Synesthesia](synesthesia.md)**: Target moves at half speed, takes penalties, and has trouble casting spells.
 - **[Telekinetic Maneuver](telekinetic-maneuver.md)**: Perform a telekinetic combat maneuver.
 - **[Thought Shield II](thought-shield-ii.md)**: As thought shield I, but +6 on Will saves.
+- **[Thought Worm II](thought-worm-ii.md)**: As thought worm I, with a –4 penalty.
 - **[Tongues](tongues.md)**: Speak and understand any language.
 - Touch Injection
 - Transfer Regeneration
@@ -645,6 +652,7 @@ Psychics gain access to the following spells. Spells without a link come from ot
 - **[Terrible Remorse](terrible-remorse.md)**: Creature is compelled to harm itself.
 - **[They Know](they-know.md)**: Convince target that a nearby creature knows her greatest secret.
 - **[Thought Shield III](thought-shield-iii.md)**: As thought shield I, but +8 on Will saves and stun creatures that read your thoughts for 1 round.
+- **[Thought Worm III](thought-worm-iii.md)**: As thought worm II, and a successful save still leaves a –2 penalty against you.
 - **[Thoughtsense](thoughtsense.md)**: Automatically detect nearby conscious creatures.
 - Tongues, Communal
 - **[Touch of Slime](touch-of-slime.md)**: Touch infests a target with green slime.
@@ -671,6 +679,7 @@ Psychics gain access to the following spells. Spells without a link come from ot
 - **[Banish Seeming](banish-seeming.md)**: Dispels touched illusion or a creature's change in form.
 - **[Befuddled Combatant](befuddled-combatant.md)**: Reduces a target’s ability DCs by 4 and its damage to minimum.
 - **[Blood Ties](blood-ties.md)**: When a target is harmed, so is the target’s relative.
+- **[Burst of Force](burst-of-force.md)**: Force damage in a burst around you and knock foes prone.
 - **[Charm Person, Mass](charm-person-mass.md)**: As *charm person*, but affects multiple creatures within 30 ft.
 - **[Charnel House](charnel-house.md)**: Create an area of semi-real gore.
 - **[Command, Greater](command-greater.md)**: As *command,* but affects one subject/level.
@@ -680,6 +689,7 @@ Psychics gain access to the following spells. Spells without a link come from ot
 - **[Conditional Curse](conditional-curse.md)**: Bestow a curse that is difficult to remove without fulfilling a condition.
 - **[Contact Entity III](contact-entity-iii.md)**: Ask very powerful eldritch entities to find and converse with you, or they may reply telepathically.
 - **[Contact Other Plane](contact-other-plane.md)**: Lets you ask question of extraplanar entity.
+- **[Debilitating Pain, Mass](debilitating-pain-mass.md)**: As debilitating pain, but affects multiple creatures.
 - **[Deceptive Redundancy](deceptive-redundancy.md)**: Fool dispellers and hide a spell’s aura.
 - **[Denounce](denounce.md)**: Worsens attitudes toward target creature.
 - **[Dismissal](dismissal.md)**: Forces a creature to return to its native plane.
@@ -740,6 +750,7 @@ Psychics gain access to the following spells. Spells without a link come from ot
 - **[Purify Body](purify-body.md)**: Heals, grants temporary hit points, and removes pain, ability damage, and conditions.
 - **[Red Hand of the Killer](red-hand-of-the-killer.md)**: Stain the hand of a creature’s killer red.
 - **[Remote Viewing](remote-viewing.md)**: Gain psychic impressions from a distant location.
+- **[Rend Body I](rend-body-i.md)**: Telekinetic damage that can rip off limbs.
 - **[Replay Tracks](replay-tracks.md)**: Reconstruct past events from a set of tracks.
 - **[Retrocognition](retrocognition.md)**: Gain psychic impressions from past events in a location.
 - **[Scripted Hallucination](scripted-hallucination.md)**: As *complex hallucination*, but without concentration.
@@ -768,6 +779,7 @@ Psychics gain access to the following spells. Spells without a link come from ot
 - **[Telepathy](telepathy.md)**: Communicate mentally with creatures within 100 ft.
 - **[Teleport](teleport.md)**: Instantly transports you as far as 100 miles per level.
 - **[Thought Shield IV](thought-shield-iv.md)**: As thought shield III, but stun for 1d4 rounds and resist psychic crush spells.
+- **[Thought Worm IV](thought-worm-iv.md)**: As thought worm III, with a –6 penalty (–3 on a save).
 - **[Tower of Iron Will I](tower-of-iron-will-i.md)**: As an immediate action, gives creatures in a 10-ft. radius spell resistance against psychic magic and mind-affecting effects.
 - **[True Seeing](true-seeing.md)**: Lets you see all things as they really are.
 - Truespeak
@@ -854,6 +866,7 @@ Psychics gain access to the following spells. Spells without a link come from ot
 - **[Programmed Image](programmed-image.md)**: As *major image*, but triggered by event.
 - **[Psychic Crush II](psychic-crush-ii.md)**: As psychic crush I, but deal 5d6 + 1 points of damage per level on a save and harder to resist.
 - **[Psychic Surgery](psychic-surgery.md)**
+- **[Rend Body II](rend-body-ii.md)**: As rend body I, with d8 damage.
 - **[Repress Memory](repress-memory.md)**: Remove a piece of knowledge from your mind.
 - **[Roaming Pit](roaming-pit.md)**: A *create pit* that can move.
 - **[Shadow Enchantment, Greater](shadow-enchantment-greater.md)**: Quasi-real enchantment of 5th level or lower.
@@ -922,6 +935,7 @@ Psychics gain access to the following spells. Spells without a link come from ot
 - **[Pox of Rumors](pox-of-rumors.md)**: Curse a creature to attract nasty rumors.
 - **[Project Image](project-image.md)**: Illusory double can talk and cast spells.
 - **[Psychic Crush III](psychic-crush-iii.md)**: As psychic crush I, but deal 7d6 + 1 points of damage per level on a save and harder to resist.
+- **[Rend Body III](rend-body-iii.md)**: As rend body II, up to 15d8, and the target is sickened.
 - **[Repulsion](repulsion.md)**: Creatures can’t approach you.
 - **[Resonating Word](resonating-word.md)**: Target is damaged, staggered, and stunned.
 - **[Reverse Gravity](reverse-gravity.md)**: Objects and creatures fall upward.
@@ -964,6 +978,7 @@ Psychics gain access to the following spells. Spells without a link come from ot
 - **[Euphoric Tranquility](euphoric-tranquility.md)**: Makes a creature friendly.
 - **[Fool’s Forbiddance](fools-forbiddance.md)**: Confuses enemies who come within a magical emanation centered on you.
 - Frightful Aspect
+- **[Glimpse of the Akashic](glimpse-of-the-akashic.md)**: Gain a large circumstance bonus on everything for 1 minute, then suffer.
 - **[Instant Summons, Greater](instant-summons-greater.md)**: As *instant summons*, but for multiple objects and creatures.
 - **[Iron Body](iron-body.md)**: Your body becomes living iron.
 - **[Irresistible Dance](irresistible-dance.md)**: Forces subject to dance.
@@ -984,6 +999,7 @@ Psychics gain access to the following spells. Spells without a link come from ot
 - **[Prying Eyes, Greater](prying-eyes-greater.md)**: As *prying eyes*, but eyes have *true seeing*.
 - **[Psychic Crush IV](psychic-crush-iv.md)**: As psychic crush I, but deal 9d6 + 1 points of damage per level on a save and no Fort save at 1/2 hp or fewer.
 - **[Refuge](refuge.md)**: Alters item to transport its possessor to your abode.
+- **[Rend Body IV](rend-body-iv.md)**: As rend body III, up to 20d8, and limbs tear off more easily.
 - **[Scintillating Pattern](scintillating-pattern.md)**: Twisting colors *confuse,* stun, or render unconscious.
 - **[Screen](screen.md)**: Illusion hides area from vision and scrying.
 - **[Shout, Greater](shout-greater.md)**: Devastating yell deals 10d6 sonic damage; stuns creatures.

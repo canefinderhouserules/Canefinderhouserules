@@ -260,3 +260,90 @@ Normally, the bond a spiritualist shares with his phantom persists for the durat
 **Phantom Elegy (Su)**: At 8th level, a soul warden's nosoi scribe learns to sing elegies that build on the soul warden's conduit to her former phantom. This allows it to create an effect identical to the 7th-level aura ability of an anger, dedication, despair, fear, hatred, jealousy, or zeal phantom, except that the phantom elegy is also a sonic effect and continues only as long as the nosoi scribe sings. Each round of phantom elegy uses 1 round of the nosoi scribe's haunting melody. At 17th level, the nosoi scribe can blend any two of the phantom aura abilities into a single phantom elegy, although it uses 3 rounds of its haunting melody for each round it does so. This replaces bonded manifestation increases and dual bond.
 
 **Algea Call (Su)**: At 20th level, as a standard action once per hour, a soul warden's nosoi scribe can summon countless other nosoi, which flock together to form an algea. This transformation lasts for 1 minute, after which the nosoi scribe returns unharmed, unless the algea is brought to 0 hit points or killed, in which case the nosoi scribe returns unconscious at 0 hit points. This is a summoning effect. This replaces empowered consciousness.
+
+## Phantom Blade
+
+A small selection of spiritualists are connected to spirits of combat and warfare, and manifest a weapon instead of a phantom. These spiritualists are known as phantom blades and fight with ectoplasmic weapons.
+
+**Weapon and Armor Proficiency**: A phantom blade is proficient with all simple and martial weapons. She is also proficient with light and medium armor. This ability alters the spiritualist's weapon and armor proficiency.
+
+**Phantom Weapon**: A phantom blade begins play with an ectoplasmic sentient weapon known as a phantom weapon whose weapon type is chosen by the phantom blade. The weapon type must be one with which the phantom blade is proficient. A phantom weapon functions similarly to the black blade of the bladebound magus archetype except as noted on the Phantom Weapon Progression table and in the descriptions below. A phantom blade with this class feature can't have a phantom of any kind, even from another class. This replaces phantom, phantom recall, spiritual bond, and dual bond.
+
+**Spell Combat (Ex)**: A phantom blade can cast spells and wield her phantom weapon at the same time. This functions as the magus's spell combat class ability. This replaces etheric tether, shared consciousness, fused consciousness, and empowered consciousness.
+
+**Spellstrike (Su)**: At 2nd level, a phantom blade can deliver spells through her phantom weapon. This functions like the magus's spellstrike class ability except the only weapon the spiritualist can use to deliver spells is her phantom weapon. This replaces bonded senses.
+
+**Spirit of War (Ex)**: At 3rd level and every 5 spiritualist levels thereafter, a phantom blade gains a bonus combat feat. The spiritualist must meet the prerequisites for these feats, but she treats her spiritualist level as her base attack bonus (in addition to base attack bonuses gained from other classes and racial Hit Dice) for the purpose of qualifying for these feats. The phantom blade also treats her spiritualist level as her fighter level for the purpose of selecting feats with a minimum number of fighter levels as a prerequisite. This replaces bonded manifestation.
+
+**Etheric Focus (Ex)**: At 4th level, the phantom blade can use her phantom weapon to aid her in casting spells with thought components. She can center herself as a swift action. At 12th level, the spiritualist can center herself as a free action. This ability replaces spiritual interference and greater spiritual interference.
+
+### Phantom Weapon Progression
+
+| Spiritualist Class Level | Enhancement Bonus | Cha | Int/Wis | Ego | Special |
+|---|---|---|---|---|---|
+| 1st–2nd | +0 | 10 | 6 | 5 | Alertness, phantom touch, telepathy, weapon of the mind |
+| 3rd–4th | +1 | 11 | 7 | 5 | Quick manifest |
+| 5th–6th | +2 | 12 | 8 | 8 | Ectoplasmic pool |
+| 7th–8th | +2 | 13 | 9 | 10 | Reshape |
+| 9th–10th | +3 | 14 | 10 | 12 | Phantom tether |
+| 11th–12th | +3 | 15 | 11 | 14 | — |
+| 13th–14th | +4 | 16 | 12 | 16 | Quick reshape |
+| 15th–16th | +4 | 17 | 13 | 18 | — |
+| 17th–18th | +5 | 18 | 14 | 22 | Etheric strikes |
+| 19th–20th | +5 | 19 | 15 | 24 | Soul eater |
+
+### Phantom Weapon Ability Descriptions
+
+A phantom weapon has special abilities (or imparts abilities to its wielder) depending on the wielder's spiritualist level. These abilities are cumulative. A phantom weapon normally refuses to use any of its abilities when wielded by anyone other than its phantom blade, and acts as an incorporeal masterwork weapon of its type.
+
+**Alertness (Ex)**: While the phantom blade is wielding or harboring her phantom weapon, she gains the Alertness feat.
+
+**Phantom Touch (Ex)**: A phantom weapon is always treated as a ghost touch weapon, regardless of weapon type or any other abilities modifying the weapon. If the phantom weapon would ever be destroyed, it is instead harbored in the spiritualist's consciousness for 24 hours.
+
+**Telepathy (Su)**: While the phantom blade is wielding or carrying her phantom weapon, she can communicate telepathically with the weapon.
+
+**Weapon of the Mind (Ex)**: The phantom blade can harbor her phantom weapon in her consciousness or manifest it in its ectoplasmic form. The phantom blade can manifest the weapon through a ritual that takes 1 minute to perform. Harboring the phantom weapon requires a full-round action. While the weapon is harbored, the phantom blade gains Improved Unarmed Strike as a bonus feat and treats her unarmed strike damage as a monk of her level – 2. If the phantom blade already has this feat, she instead gains Weapon Focus (unarmed strike). The phantom blade's unarmed strikes gain the phantom weapon's enhancement bonus and other abilities when the weapon is harbored. The phantom weapon also recovers a number of hit points equal to its ego score every hour that it is harbored.
+
+**Quick Manifest (Ex)**: At 3rd level, the phantom blade can manifest her phantom weapon as a swift action.
+
+**Ectoplasmic Pool (Ex)**: At 5th level, the phantom blade gains a reservoir of excess ethereal energy and ectoplasm that she can draw upon to improve her phantom weapon. This pool has a number of ectoplasmic points equal to half her spiritualist level + her Wisdom modifier. The pool refreshes once per day when the spiritualist refreshes her daily spells. The phantom blade can spend a number of ectoplasmic points to enhance or modify her phantom weapon. As a free action, she can spend 1 point to manifest or harbor her weapon. The spiritualist can also spend 2 ectoplasmic points as a free action to allow attacks made with her phantom weapon to resolve against touch AC for 1 round. As a swift action, she can spend 2 ectoplasmic points to grant the weapon one of the following weapon special abilities for 1 minute: corrosive, defending, flaming, frost, keen, merciful, shock, or throwing. At 11th level, she can spend 3 ectoplasmic points to grant the weapon one of the following weapon special abilities for 1 minute: corrosive burst, disruption, flaming burst, holy, icy burst, shocking burst, or unholy. At 15th level, she can spend 5 ectoplasmic points to grant the weapon one of the following weapon special abilities for 1 minute: brilliant energy, dancing, or speed. A phantom blade can spend an appropriate number of points to grant the weapon multiple abilities as one action. A phantom weapon cannot have a modified bonus higher than +10.
+
+**Reshape (Ex)**: At 7th level, a phantom blade can change the weapon type of her phantom weapon when she refreshes her daily spells.
+
+**Phantom Tether (Su)**: At 9th level, a phantom blade can spend 1 ectoplasmic point as a swift action to instantly recall her phantom weapon to her hand or consciousness from as far as 1 mile away.
+
+**Quick Reshape (Ex)**: At 13th level, a phantom blade can spend 1 ectoplasmic point to reshape her phantom weapon as a full-round action, 2 ectoplasmic points to reshape her weapon as a standard action, 3 ectoplasmic points to reshape her weapon as a move action, and 4 ectoplasmic points to reshape her weapon as a swift action.
+
+**Etheric Strikes (Sp)**: At 17th level, a phantom blade can spend 1 ectoplasmic point as a swift action to allow her phantom weapon to ignore a number of points of damage reduction equal to twice her Wisdom modifier or twice the weapon's Charisma modifier, whichever is higher.
+
+**Soul Eater (Su)**: At 19th level, the phantom blade and her weapon can feast on the energy of departing souls. Each time she kills a living or incorporeal creature with her phantom weapon, she can pick one of the following effects: she gains a +2 bonus on attack and damage rolls for 1 round, she recovers one 1st- or 2nd-level spell slot, or she gains a number of temporary hit points equal to the phantom weapon's ego (these temporary hit points last until lost or 1 minute, whichever is shorter). The creature killed must have a number of Hit Dice equal to or greater than half the phantom blade's spiritualist level for this to occur.
+
+## Totem Spiritualist
+
+Tribal god callers once practiced numerous traditions mixing naturalism with the arcane and occult arts. Totem spiritualists carry on one such tradition, calling upon phantoms that are manifestations of animals and personifications of nature.
+
+**Phantom Animal**: A totem spiritualist calls upon spirits of nature known as phantom animals to assist her in her journeys. A phantom animal functions like an animal companion except as noted in the descriptions below. A totem spiritualist begins play with a phantom animal. The phantom animal uses the statistics of an animal companion and follows the standard animal companion progression in regard to Hit Dice, base attack bonus, saving throws, skills, feats, natural armor bonus, Strength and Dexterity bonuses, and bonus tricks, but not its special abilities. A phantom animal instead gains the special abilities of a standard phantom. A phantom animal is capable of becoming harbored in the spiritualist's consciousness or becoming fully or partially manifested. A phantom animal is otherwise considered a phantom for the purposes of all feats and abilities.
+
+At 7th level and every 5 spiritualist levels thereafter, the totem spiritualist can choose to gain an additional phantom animal. This additional phantom animal uses the appropriate statistics for a phantom animal of its level. A totem spiritualist can have only one active phantom animal at a time. Dismissing an active phantom animal to call another requires a ritual that takes 1 minute to perform. Instead of gaining an additional phantom animal, the totem spiritualist can choose to empower a phantom animal with which she is already bonded. The first time the phantom animal is empowered, it gains two bonus tricks. The second time it is empowered, the phantom animal gains the hunter's animal focus class ability, treating the totem spiritualist's spiritualist level as her effective hunter level. The third time it is empowered, the damage dice of the phantom animal's natural attacks increase by one step.
+
+A totem spiritualist can release a phantom animal from her service much like a druid releases an animal companion. If a totem spiritualist releases a phantom animal from service, she can gain a new one by performing a ritual requiring 24 uninterrupted hours of meditation in an environment where the animal that the phantom resembles typically lives. A totem spiritualist treats any druid levels she has as effective spiritualist levels to determine the abilities of her phantom animals, but does not treat her spiritualist levels as effective druid levels to determine the abilities of animal companions. This ability replaces phantom.
+
+**Shared Instincts (Su)**: A totem spiritualist doesn't gain Skill Focus feats while a phantom animal is confined in her consciousness. She instead gains a number of bonus ranks in Knowledge (nature) equal to the phantom animal's Hit Dice. This ability alters shared consciousness.
+
+**Animal Senses (Su)**: At 9th level, a totem spiritualist shares her phantom animal's senses. If her phantom animal has any of the following abilities, she gains them whenever the phantom animal is harbored in her consciousness: blindsense, darkvision, low-light vision, and scent. This ability replaces see invisibility.
+
+**Twin Phantoms (Su)**: At 17th level, the totem spiritualist can call upon two of her phantom animals at once. As a standard action, she can manifest a second phantom animal. The phantom animal remains for a number of rounds per day equal to her spiritualist level and can be dismissed as a free action. This duration does not need to be consecutive. This replaces dual bond.
+
+## Usher of Lost Souls
+
+Ushers of lost souls are spiritualists who focus on bringing the souls of the dead to their final rest. To this end, they specialize in destroying undead and in laying haunts to rest. Skeptics who point out the apparent contradiction that ushers of lost souls use phantoms to aid them are quickly told that their ectoplasmic allies hail from the Ethereal Plane and are not actually undead. Ushers of lost souls are common among the clergy of faiths that tend to the dead.
+
+**Etheric Channel (Su)**: An usher of lost souls can focus ethereal energies to channel waves of disruption. The spiritualist can channel positive energy a number of times per day equal to 3 + her Charisma modifier (minimum 1). She channels energy like a cleric of her spiritualist level, except the channeled energy can be used only to harm undead or haunts. This otherwise functions as channel energy for the purposes of feats and abilities. The spiritualist does not require a holy symbol to use this ability.
+
+**Spirit Senses (Ex)**: At 2nd level, an usher of lost souls gains a bonus equal to half her spiritualist level on Perception checks to detect haunts and incorporeal creatures and on Sense Motive checks to determine whether a creature is possessed, under the effects of an enchantment or curse, or otherwise magically controlled. This ability replaces bonded senses.
+
+**Disrupting Phantom (Ex)**: When an usher of lost souls reaches 4th level, her phantom gains the ability to directly harm haunts. The phantom can make an attack while within a haunt's area against an AC equal to 10 + the haunt's caster level. On a hit, the phantom deals its slam damage to the haunt; the haunt is immune to critical hits from the phantom. When an usher of lost souls reaches 12th level, her phantom can deal critical hits to a haunt, and the critical threat range for its slam attacks against haunts increases to 19–20. This ability replaces spiritual interference and greater spiritual interference.
+
+**Locate Haunts (Su)**: At 9th level, an usher of lost souls can locate inactive haunts. As a standard action, she can enhance her vision to detect haunts within 60 feet of her. A haunt's area glows with a bright light for an untriggered haunt or dim light for a haunt that is waiting to reset. She can use this ability for 10 minutes per day per spiritualist level. This duration doesn't need to be consecutive, but it must be spent in 10-minute increments. This ability replaces see invisibility.
+
+**Disruptive Influence (Su)**: At 14th level, the usher of lost souls can put spirits to rest. She can use one of her uses of *calm spirit* to instead cast *purge spirit* as a spell-like ability. She can expend two uses of her etheric channel to cast either of these spells as a spell-like ability. This ability replaces spiritual bond.
