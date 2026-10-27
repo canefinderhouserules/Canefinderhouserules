@@ -178,4 +178,4 @@ The following text is the property of Wizards of the Coast, Inc. and is Copyrigh
 
     Pathfinder Player Companion: Arcane Anthology © 2016, Paizo Inc.; Authors: Alexander Augunas, Steven T. Helt, and David N. Ross.
 
-    Pathfinder Player Companion: Psychic Anthology © 2017, Paizo Inc.; Authors: Alexander Augunas, Isabelle Lee, Luis Loza, Alex Riggs, Mark Seifter, Loren Sieg, and Jeremy Smith.
+    Pathfinder Player Companion: Psychic Anthology © 2017, Paizo Inc.; Authors: Alexander Augunas, Isabelle Lee, Luis Loza, Alex Riggs, Mark Seifter, Loren Sieg, and Jeremy Smith
