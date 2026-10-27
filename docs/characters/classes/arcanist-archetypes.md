@@ -139,3 +139,24 @@ Aspiring students of an ancient arcane academy often spend decades researching a
 In addition, if the first magic initiate gains levels in the [first magic arcanist](../prestige-classes/first-magic-arcanist.md) prestige class, her prestige class levels stack with her arcanist levels when determining the number of points in her arcane reservoir (though not the effectiveness of arcane exploits based on class level). A first magic initiate who takes levels in first magic arcanist and gains the spontaneous spell mastery class feature can use that ability to instantly lose one of her prepared spells and immediately prepare a different arcanist spell of the same level or lower that she has mastered with Spell Mastery, rather than spontaneous spell mastery’s normal effect. She is still limited to the same number of times per day she can use spontaneous spell mastery.
 
 This ability replaces the arcanist exploit gained at 5th level.
+
+## Fortune Society Student
+
+Members of a secretive academy focus their efforts on the intellectual study of supernatural quirks and hidden history, and embrace the use of a fortune-telling deck of cards to examine the world's occult mysteries. (If you don't have a deck of fortune-telling cards, roll 1d6 to determine a drawn card's suit: 1 = hammers, 2 = keys, 3 = shields, 4 = books, 5 = stars, and 6 = crowns.)
+
+**Psychic Reader (Ex)**: A Fortune Society student gains [Psychic Sensitivity](../../rules/feats/psychic-sensitivity.md) as a bonus feat and adds Diplomacy, Perception, and Sense Motive to her list of class skills. This ability replaces the 1st-level arcanist exploit.
+
+**Fortune Reservoir (Ex)**: Once per day, a Fortune Society student can perform a card reading as a 5-minute ritual. She decides which suit most closely aligns with her task at hand and deals a nine-card spread. Each time that suit appears in her spread, she adds 1 point to her arcane reservoir, to a maximum of 1 point per 2 arcanist levels. Points gained in excess of her reservoir's maximum are lost. The Fortune Society student can perform this reading one additional time per day at 8th level and at 16th level. This ability replaces consume spells.
+
+**Divine the Mysteries (Ex)**: At 5th level and every 2 levels thereafter, a Fortune Society student can select a divination spell from the spell list of any class, including classes that cast divine or psychic spells, and add it to her list of spells known. This spell must be at least 1 level lower than the highest-level spell she can cast. She casts these spells as arcane spells, using her normal spell slots, but must use a deck of cards as an additional focus component. If such a spell is normally a psychic spell with an emotion or thought component, she must also add that component.
+
+**Trump Card (Su)**: At 9th level, a Fortune Society student can expend 1 point from her arcane reservoir and draw a card from her deck as a standard action to learn her own fate or that of an ally within 30 feet. The target's fate depends on the suit of the card drawn from the deck.
+
+- **Books**: The target gains a +2 insight bonus on her next caster level check.
+- **Crowns**: The target gains a +2 insight bonus on her next saving throw.
+- **Hammers**: The target gains a +4 insight bonus on the damage roll of her next successful melee attack.
+- **Keys**: The target gains a +4 insight bonus on her next initiative check.
+- **Shields**: The next time the target receives magical healing, she regains an additional number of hit points equal to the Fortune Society student's arcanist class level.
+- **Stars**: The target gains a +4 insight bonus on her next skill check.
+
+A creature cannot have more than one trump card in effect at one time; drawing a new trump card for a target negates the effect of the previous trump card. A Fortune Society student can attempt to read the fate of an enemy within 30 feet, resulting in a penalty for that target equal to the bonus granted above, but the target is entitled to a Will save (DC = 10 + 1/2 the Fortune Society student's arcanist level + her Charisma modifier) to negate the effect. This is considered a curse effect. A Fortune Society student can have trump cards in effect for multiple creatures at the same time. This ability replaces the 9th-level arcanist exploit.

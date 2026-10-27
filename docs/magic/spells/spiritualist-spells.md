@@ -103,9 +103,12 @@ Spiritualists gain access to the following spells. Spells without a link come fr
 - **[Inflict Pain](inflict-pain.md)**: Target takes a –4 penalty on attack rolls, skill checks, and ability checks.
 - **[Instigate Psychic Duel](instigate-psychic-duel.md)**: Start a psychic duel between yourself and another creature.
 - **[Invisibility](invisibility.md)**: Subject is invisible for 1 min./level or until it attacks.
+- **[Jealous Rage](jealous-rage.md)**: Target attacks anyone who receives a benefit it does not.
 - **[Levitate](levitate.md)**: Subject moves up and down at your direction.
 - **[Life Pact](life-pact.md)**: Affected creatures automatically donate hp to stabilize fallen ally.
 - **[Locate Object](locate-object.md)**: Senses direction toward object (specific or type).
+- **[Mind Over Matter](mind-over-matter.md)**: Shift ability damage or drain between paired scores.
+- **[Mindshock](mindshock.md)**: Your attacks deal extra nonlethal damage and can confuse.
 - **[Misdirection](misdirection.md)**: Misleads divinations for 1 creature or object.
 - **[Necrostasis](necrostasis.md)**: Stagger an undead creature
 - **[Object Reading](object-reading.md)**: Read psychic impressions left on an object.
@@ -114,6 +117,7 @@ Spiritualists gain access to the following spells. Spells without a link come fr
 - Pilfering Hand
 - **[Protection from Arrows](protection-from-arrows.md)**: Subject gains DR 10/magic against ranged attacks.
 - **[Protective Penumbra](protective-penumbra.md)**: Shadow protects the target from light.
+- **[Psychic Leech](psychic-leech.md)**: Fatigue a target and gain +2 Strength and Dexterity.
 - **[Purge Spirit](purge-spirit.md)**: Deal 1d6 points of damage per level to one haunt or spirit creature and stagger it.
 - **[Quick Change](quick-change.md)**: Use change shape as a swift action and surprise foes.
 - **[Remove Paralysis](remove-paralysis.md)**: Frees creatures from paralysis or *slow* effect.
@@ -191,6 +195,7 @@ Spiritualists gain access to the following spells. Spells without a link come fr
 - **[Remove Blindness/Deafness](remove-blindness-deafness.md)**: Cures normal or magical blindness or deafness.
 - **[Remove Curse](remove-curse.md)**: Frees object or person from curse.
 - **[Remove Disease](remove-disease.md)**: Cures all diseases affecting subject.
+- **[Retributive Reparations](retributive-reparations.md)**: Thieves of the warded item grow fatigued, then exhausted.
 - **[Revenant Armor](revenant-armor.md)**: Armor animates around its fallen wearer.
 - **[Riding Possession](riding-possession.md)**: As possession, but you observe instead of control the subject.
 - **[Rigor Mortis](rigor-mortis.md)**: Painfully swell a target’s joints.
@@ -235,6 +240,7 @@ Spiritualists gain access to the following spells. Spells without a link come fr
 - **[Dimension Door](dimension-door.md)**: Teleports you a short distance.
 - **[Dimensional Anchor](dimensional-anchor.md)**: Bars extradimensional movement.
 - **[Divination](divination.md)**: Provides useful advice for specific proposed actions.
+- **[Ectoplasmic Hand](ectoplasmic-hand.md)**: Create a ghostly hand that attacks, manipulates, and delivers touch spells.
 - **[Enervation](enervation.md)**: Subject gains 1d4 negative levels.
 - **[Entrap Spirit](entrap-spirit.md)**: Trap an incorporeal creature or a haunt in a mirror.
 - **[Erase Impressions](erase-impressions.md)**: Erase psychic impressions from an object.
@@ -321,6 +327,7 @@ Spiritualists gain access to the following spells. Spells without a link come fr
 - **[Overland Flight](overland-flight.md)**: You fly at a speed of 40 ft. and can hustle over long distances.
 - **[Pain Strike, Mass](pain-strike-mass.md)**: As pain, but affects multiple creatures.
 - **[Phantasmal Web](phantasmal-web.md)**: Catches subjects in illusory web.
+- **[Phantom Limb](phantom-limb.md)**: Replace missing limbs or grow phantom limbs and wings.
 - **[Planar Adaptation](planar-adaptation.md)**: Resist harmful effects of other plane.
 - **[Plane Shift](plane-shift.md)**: As many as eight subjects travel to another plane.
 - **[Pox of Rumors](pox-of-rumors.md)**: Curse a creature to attract nasty rumors.

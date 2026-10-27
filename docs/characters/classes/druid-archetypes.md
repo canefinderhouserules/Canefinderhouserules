@@ -1251,3 +1251,33 @@ A mantella focuses on exploring her poisonous heritage, whether or not it has ma
 **Poison Affinity (Su)**: At 4th level, if a form the mantella assumes with wild shape has any poison abilities, the mantella also gains those abilities. However, the mantella can never use wild shape to take the form of an elemental. This alters wild shape.
 
 **Toxic Diet (Ex)**: At 6th level, both the mantella and her animal companion gain immunity to poison. Additionally, as an immediate action when exposed to a dose of poison, a mantella can absorb the toxin and store it internally for up to 1 day. As a swift action, a mantella can secrete this poison; this changes the poison's type to injury and applies the dose of poison to all of the druid's natural attacks. A mantella can use this ability three times per day, plus one additional time per day at 8th level and every 2 druid levels thereafter. This alters venom immunity and replaces spontaneous casting.
+
+## Supernaturalist
+
+Supernaturalists wholly embrace paranormal phenomena as extensions of nature.
+
+**Weapon and Armor Proficiency**: A supernaturalist is not proficient with any type of armor. This alters the druid's weapon and armor proficiencies.
+
+**Eldritch Botanist (Ex)**: A supernaturalist can affect plants with mind-affecting effects she creates and with spells that normally affect animals. Any such spell that allows a Will save can instead be negated by the target plant with a successful Fortitude save at the same DC. She also can choose plant bond and green empathy, as a treesinger druid, in place of nature bond and wild empathy.
+
+**Paranormal Scholar (Ex)**: A supernaturalist gains [Psychic Sensitivity](../../rules/feats/psychic-sensitivity.md) as a bonus feat and adds Diplomacy, Knowledge (arcana), and Sense Motive as class skills. At 3rd level and every 3 levels thereafter, she can select a spell from the psychic class's spell list and add it to her druid spell list, and is able to prepare and cast it as a druid spell. This replaces nature sense, trackless step, and resist nature's lure.
+
+**Animal Spirit (Su)**: At 4th level, a supernaturalist can perform a seance to call an animal spirit of any animal with which she is familiar to serve as her companion and guide. The supernaturalist gains spirit, spirit bonus, spirit surge, and taboo abilities as a medium 3 levels lower than her druid level. The supernaturalist's allies cannot participate in this seance. This ability replaces wild shape. The spirit abilities of the animal spirit are as follows.
+
+*Spirit Bonus*: Your spirit bonus applies on attack and damage rolls with natural weapons and on skill checks relating to animals and plants.
+
+*Seance Boon*: Your natural armor bonus to AC increases by 1.
+
+*Favored Location*: Native terrain of the animal type being invoked.
+
+*Influence Penalty*: You become wild and savage, taking a penalty equal to your spirit bonus on caster level checks, Charisma- and Intelligence-based ability checks, and skill checks.
+
+*Taboos*: Choose one: you must not speak (except with animals and plants); you must not wield manufactured weapons; you must not eat anything you did not kill or harvest yourself.
+
+*Totem Transformation (Lesser, Su)*: You gain any of the following abilities possessed by the animal you select as your animal spirit: bite (1d6 for a Medium druid), 2 claws (1d4 for a Medium druid), darkvision, improved land movement speed (up to a +20-foot enhancement bonus to the druid's base land movement speed), low-light vision, scent, and swim (up to 30 feet).
+
+*Pack Leader (Intermediate, Su)*: When you summon animals that match your animal spirit, they gain a +2 bonus on attack rolls, damage rolls, and saving throws.
+
+*Wildstrike (Greater, Su)*: You can allow your animal spirit to gain 1 point of influence over you as a swift action to allow an animal or plant (including your companion) within 30 feet that can see or hear you to immediately take an additional standard action.
+
+*Wild Heart (Supreme, Ex)*: You gain a +4 bonus on saves against enchantment and mind-affecting effects, and immunity to effects that affect only humanoids. Once per day, you can cast any *summon nature's ally* spell you can cast spontaneously as a standard action without expending a spell slot.

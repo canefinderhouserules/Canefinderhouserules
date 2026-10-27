@@ -196,6 +196,7 @@ Occultists gain access to the following spells, determined by their chosen imple
 - **[Hidden Knowledge](hidden-knowledge.md)**: Store knowledge in a tattoo, forgetting it temporarily.
 - **[Hoodwink](hoodwink.md)**: Befuddle targets so they can be led away
 - **[Huntmaster’s Spear](huntmasters-spear.md)**: Spear becomes a +1 weapon against a chosen favored-enemy type and can be discharged for a powerful attack.
+- **[Mindshock](mindshock.md)**: Your attacks deal extra nonlethal damage and can confuse.
 - **[Node of Blasting](node-of-blasting.md)**: Place a trap on an object to mentally damage a creature that touches it.
 - **[Obscure Object](obscure-object.md)**: Masks object against scrying.
 - **[Obscured Script](obscured-script.md)**: Text becomes hard to read and deciphers falsely.
@@ -358,6 +359,8 @@ Occultists gain access to the following spells, determined by their chosen imple
 - **[Poison Exchange](poison-exchange.md)**: Swallow one poison and regurgitate another.
 - **[Protection from Energy](protection-from-energy.md)**: Absorbs 12 points/level of damage from one kind of energy.
 - Resist Energy, Communal
+- **[Quell Energy](quell-energy.md)**: Reduce a creature's energy damage of one type.
+- **[Retributive Reparations](retributive-reparations.md)**: Thieves of the warded item grow fatigued, then exhausted.
 - **[Selective Alarm](selective-alarm.md)**: As *alarm*, but only against selected creatures.
 - **[Shaper’s Touch](shapers-touch.md)**: Reshape an object as though it were clay.
 - **[Thaumaturgic Circle](thaumaturgic-circle.md)**: As magic circle, but affecting a nonalignment subtype or outsider race.
@@ -621,6 +624,7 @@ Occultists gain access to the following spells, determined by their chosen imple
 - **[Dispel Magic, Greater](dispel-magic-greater.md)**: As *dispel magic*, but with multiple targets.
 - Spell Immunity, Communal
 - **[Dream Reality](dream-reality.md)**: The target perceives the world as a dream and forgets it.
+- **[Ectoplasmic Hand](ectoplasmic-hand.md)**: Create a ghostly hand that attacks, manipulates, and delivers touch spells.
 - **[Particulate Form](particulate-form.md)**: Targets gain fast healing and immunity to critical hits.
 - **[Secret Workshop](secret-workshop.md)**: As nondetection, but protects many creatures and objects.
 - **[Spell Resistance](spell-resistance.md)**: Subject gains SR 12 + level.

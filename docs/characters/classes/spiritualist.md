@@ -461,6 +461,26 @@ No phantom is as arrogant as a pride phantom, which in life was an insufferable 
 
 **Illusion of Perfection (Su)**: When the spiritualist reaches 17th level, the pride phantom can shroud itself in an illusion as a swift action, appearing as a model of absolute physical perfection, its idealized image of itself. The phantom gains a bonus on melee damage rolls equal to its Charisma modifier. However, whenever the phantom deals damage to a creature, the creature can attempt a Will save (DC = 10 + 1/2 the phantom's Hit Dice + the phantom's Charisma modifier) to disbelieve the effect, reducing the bonus on damage rolls by half if successful. The phantom can use illusion of perfection for a number of minutes per day equal to its Hit Dice. This duration need not be used all at once, but must be expended in 1-minute intervals. This ability is a mind-affecting illusion effect.
 
+#### Remorse
+
+Spirits of creatures that died with heavy weights upon their consciences manifest with the remorse emotional focus. These phantoms, whose forms are often darkened by shadows, force foes to experience their regret and self-loathing.
+
+**Skills**: The phantom gains a number of ranks in Perception and Sense Motive equal to its Hit Dice. While confined in the spiritualist's consciousness, the phantom grants the spiritualist Skill Focus in each of these skills.
+
+**Good Saves**: Fortitude and Will.
+
+**Antagonistic**: The phantom gains Antagonize as a bonus feat.
+
+**Long-Suffering Strike (Su)**: When a phantom with this focus hits a creature with its slam attack, that creature must succeed at a Will saving throw (DC = 10 + 1/2 the phantom's Hit Dice + the phantom's Charisma modifier) or any attacks targeting the creature gain a +1 bonus on their attack rolls and damage rolls until the beginning of the phantom's next turn. Penalties from multiple hits don't stack with themselves.
+
+**Aura of Regret (Su)**: When the spiritualist reaches 7th level, her phantom can emit a 10-foot-radius aura of regret as a swift action. Enemies within the aura take a –2 penalty on skill checks, on caster level checks, on combat maneuver checks, and to CMD. Ending the aura is a free action. The phantom can use this ability in either ectoplasmic or incorporeal form.
+
+**Keening (Su)**: When the spiritualist reaches 12th level, her phantom can wail about its misdeeds once per day as a standard action, affecting all creatures within a 30-foot cone with the *terrible remorse* spell. The phantom uses its Hit Dice as its caster level for the effect, and the DC equals 10 + 1/2 the phantom's Hit Dice + the phantom's Charisma modifier. The phantom can use this ability in either ectoplasmic or incorporeal form.
+
+**Utter Misery (Su)**: When the spiritualist reaches 17th level, her phantom's long-suffering strike also causes a creature that fails its save to become stunned until the beginning of the phantom's next turn.
+
+**Other Remorse-Focused Abilities**: If a spiritualist archetype allows the selection of an additional focus, add remorse to the list of available foci. For spiritualists with remorse phantoms, the *emotional conduit* feat grants the spell-like abilities *inflict light wounds* (1st), *disfiguring touch* (2nd), *howling agony* (3rd), *debilitating portent* (4th), *nightmare* (5th), and *harm* (6th). The fractured mind archetype gains *doom* (5th), *inflict pain* (7th), *stricken heart* (9th), and *mind fog* (16th). The *spirit-bound blade* spell also grants the weapon the *heartseeker* special ability.
+
 #### Zeal
 
 A phantom with this emotional focus fixates on every task given as if it were the phantom’s last. The most basic commands are treated as life-and-death situations, and the truly dangerous ones are faced with a resolve and tenacity that sometimes defies common sense. Zeal phantoms take the form of steadfast protectors or daring and manic creatures looking for the next challenge or opportunity to prove itself to either its master or itself. Often very prideful creatures, these phantoms display an orange aura upon completing their tasks. They are prone to boast about their accomplishments and chastise those around them for not accomplishing more.

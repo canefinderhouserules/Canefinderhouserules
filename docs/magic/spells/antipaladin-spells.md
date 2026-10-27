@@ -70,6 +70,7 @@ New antipaladin spells from *Ultimate Magic*. Spells from other books will be ad
 - **[Improve Trap](improve-trap.md)**: When this spell is cast upon a trap, it improves one specific element of the trap chosen at the time of.
 - **[Inflict Pain](inflict-pain.md)**: Target takes a –4 penalty on attack rolls, skill checks, and ability checks.
 - **[Ironskin](ironskin.md)**: Harden your skin to iron
+- **[Jealous Rage](jealous-rage.md)**: Target attacks anyone who receives a benefit it does not.
 - **[Lesser Nondetection](lesser-nondetection.md)**: Blocks area-targeted divinations.
 - **[Litany of Defense](litany-of-defense.md)**: Doubles armor’s enhancement bonus.
 - **[Litany of Eloquence](litany-of-eloquence.md)**: Fascinates a single creature for 1 round.
@@ -77,6 +78,7 @@ New antipaladin spells from *Ultimate Magic*. Spells from other books will be ad
 - **[Litany of Warding](litany-of-warding.md)**: You gain two additional attacks of opportunity for 1 round.
 - **[Lose the Trail](lose-the-trail.md)**: Harder to track.
 - **[Magic Siege Engine](magic-siege-engine.md)**: Siege engine gains +1 on targeting and damage rolls.
+- **[Mindshock](mindshock.md)**: Your attacks deal extra nonlethal damage and can confuse.
 - **[Open Book](open-book.md)**: Make it permanently easier to learn more about a target.
 - **[Outbreak](outbreak.md)**: Make diseased creatures contagious
 - **[Painful Revelation](painful-revelation.md)**: Illusion hurts those who disbelieve it
@@ -126,6 +128,7 @@ New antipaladin spells from *Ultimate Magic*. Spells from other books will be ad
 - **[Litany of Sight](litany-of-sight.md)**: You can see invisible creatures and objects within 30 feet of you.
 - **[Phantasmal Reminder](phantasmal-reminder.md)**: Recall of past wounds deals damage.
 - **[Pillow Talk](pillow-talk.md)**: Question a sleeping creature
+- **[Retributive Reparations](retributive-reparations.md)**: Thieves of the warded item grow fatigued, then exhausted.
 - **[Revenant Armor](revenant-armor.md)**: Armor animates around its fallen wearer.
 - **[Sadomasochism](sadomasochism.md)**: Pain empowers your attacks and demoralizes attackers.
 - **[Screaming Flames](screaming-flames.md)**: Send forth a wave of flames screaming with the agony of the damned.

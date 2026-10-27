@@ -49,6 +49,20 @@ The following are a selection of occult rituals. Occult rituals are formatted in
 
 **Effect**: The caster begins by placing a mirror on one side of the door and writing occult symbols on the other side of the door that conform to one type or subtype of creature on the ranger’s favored enemy list. Upon completion of the ritual, creatures of the chosen type or subtype cannot open, touch, or even magically manipulate the door by any means (with no save or spell resistance applicable). A dungeon door can have only one avoidance ward at a time.
 
+### Beseeching the Patron
+
+**School** divination; **Level** 4  
+**Casting Time** 40 minutes  
+**Components** V, F (a book of occult lore worth at least 150 gp)  
+**Skill Checks** Knowledge (arcana) DC 20, 2 successes; Knowledge (history) DC 20, 2 successes  
+**Range** personal  
+**Duration** 24 hours  
+**Saving Throw** no; **Spell Resistance** no  
+**Backlash** The caster is fatigued for 1 hour.  
+**Failure** All of the caster's spells suffer a 10% spell failure chance for 24 hours.
+
+**Effect**: The caster gains access to one additional hex for which she qualifies. This ritual can be used to acquire a major hex (increasing the DCs of the ritual's skill checks by 10) or grand hex (increasing the DCs by 20) if desired. The caster can have only one additional hex from this ritual at a time.
+
 ### Breach the Veil of Dreams
 
 **School** conjuration (creation); **Level** 6  
@@ -131,6 +145,38 @@ At the ritual’s start, the caster must find the perfect spot for such an incis
 
 **Effect**: This ritual must be performed within 60 feet of a haunt. The primary caster rings the silver bell using an object associated with the haunt’s origin or source of power. Once this is done, the primary caster draws an intricate circle adorned with occult symbols around a plate bearing the small, salted pastry. If the incantation is successful, the haunt’s spirit enters into the pastry (making the haunt inert for the duration of the ritual) and one of the casters must eat the pastry before the next hour or the ritual ends. Failure to do so allows the haunt to go free and increases any DCs of the haunt’s effects by 4 and grants a +4 bonus on attack rolls made by the haunt for 24 hours. Once a caster eats the pastry, the spirit of the haunt speaks through the individual who ate the pastry, and is required to truthfully answer 10 questions (1 question per round) before departing, though since the haunt is an emotional echo, the answers may be brief, cryptic, or repetitive, as with speak with dead. Once the 10 questions are answered or the spell is dismissed, the haunt can manifest as normal.
 
+### Hearthfire Lantern
+
+**School** abjuration; **Level** 4  
+**Casting Time** 4 hours  
+**Components** V, S, F (a cold iron and silver lantern worth 5,000 gp), SC (up to 12)  
+**Skill Checks** Knowledge (arcana) DC 29, 2 successes; Survival DC 29, 2 successes  
+**Range** touch  
+**Target** one ship or vessel (up to one 10-ft. square/character level of the primary caster)  
+**Duration** 1 year  
+**Saving Throw** none; **Spell Resistance** yes  
+**Backlash** The primary caster takes 2d6 points of fire damage, and all casters become exhausted.  
+**Failure** All casters become chilled and cannot warm themselves for 24 hours (treat as exposure to cold weather, regardless of outside conditions).
+
+**Effect**: A closely guarded practice among northern seafarers, this ritual descends from far more ancient traditions practiced to survive in the frozen far north. After hours of singing, woodcarving, and fire-building, the primary caster throws an iron lantern into a raging bonfire, then plucks it from the flames with a bare hand. The ritual imbues the lantern with an inextinguishable yellow flame for a single year. When hung from the prow or mast of a ship, the lantern projects a protective bubble in which the temperature never falls below 50° F, rain and snow never fall heavier than a light shower, winds never blow faster than strong, and the light never darkens beyond dim (though outside conditions created by extreme weather, such as ice floes or large waves, may still threaten the ship and crew). Anyone resting inside this space dries easily, and preserved food and water do not naturally spoil. So long as the lantern hangs from a ship, its flame always flickers toward the east, granting a +2 circumstance bonus on Survival checks to avoid becoming lost.
+
+### Invoking the Hero-Spirit
+
+**School** transmutation; **Level** 7  
+**Casting Time** 70 minutes  
+**Components** V, S, M (mixture of wine, outsider's blood, and cedar ash worth 5,000 gp total), F (primary caster must be menstruating), SC (up to 12)  
+**Skill Checks** Diplomacy or Intimidate DC 31, 2 successes; Knowledge (arcana) DC 31, 2 successes; Knowledge (history) DC 31, 3 successes  
+**Range** touch  
+**Target** up to 10 willing creatures/character level of the primary caster, all of whom must be present for the ritual  
+**Duration** 14 hours  
+**Saving Throw** Will (harmless); **Spell Resistance** yes  
+**Backlash** The primary caster takes 2d6 points of damage and becomes host to a restless "god" spirit (see text).  
+**Failure** A random creature conjurable via *summon monster XI* appears and attacks all participants for 9 minutes. At the GM's discretion, the conjured creature can have the advanced template, be accompanied by additional creatures, or both.
+
+**Effect**: The rituals of a lost tribal culture summoned and put to use many of their myriad "gods," including conjuring powerful spirits into a clan's soldiers to invest them with bravery and divine grace in an upcoming battle. In this ritual, after an hour of chanting, calling down a spirit, and begging and forcing its service, the primary caster moves among those to be invested with the spirit's power, anointing the participants' foreheads with blood. The ritual infuses each anointed warrior with inhuman passion and courage, granting a +2 morale bonus on attack rolls, saving throws, and skill checks, as well as a +4 morale bonus on saves against fear effects, but also renders them vulnerable to spells that forbid outsiders or deal additional damage against creatures of the outsider type (such as *magic circle against chaos* and *chaos hammer*). A target of this spell does not become an outsider; it simply gains a temporary vulnerability to these effects.
+
+To maintain this spell's magic, the primary caster must host the "god" invoked within her body for the duration of the spell. The outsider scuttles beneath her flesh, causing intense pain and distraction; each round, she has a 50% chance of being dazed by the pain. When the spell's duration expires, the primary caster can eject her parasitic "god" back to its home plane with a successful Will saving throw. On a failed save, the spirit remains and continues to inflict debilitating pain until banished via *break enchantment*, *dismissal*, *limited wish*, *miracle*, *remove curse*, or *wish*. Banishing the spirit early immediately ends the ritual's effect.
+
 ### Opening the Third Eye
 
 **School** transmutation; **Level** 5  
@@ -188,6 +234,22 @@ Each of the ritual’s casters can choose to dismiss this ritual’s effects for
 
 **Effect**: You force the life force of a possessing creature to leave its host. Upon the completion of this ritual, the possessing creature attempts a Will saving throw. If it fails the save, the possessor is expelled, as if the duration of the spell or effect it used to possess the target had expired. If the possessing creature succeeds at the save, it continues to stay within the host creature or object, though the ritual can be attempted anew as long as the possessed creature is helpless or the object restrained.
 
+### Seal of Dancing Dolls
+
+**School** conjuration; **Level** 6  
+**Casting Time** 6 hours  
+**Components** V, S, M (a bronze seal embellished with acacia and quartz lacquer worth 500 gp), SC (up to 4)  
+**Skill Checks** Knowledge (arcana) DC 33, 3 successes; Knowledge (planes) DC 33, 3 successes  
+**Range** touch  
+**Duration** 1 year  
+**Saving Throw** Will negates; **Spell Resistance** yes  
+**Backlash** All casters take a temporary negative level.  
+**Failure** The outsider to be bound is released and attacks.
+
+**Effect**: Designed to create an ancient construct that is considered in many ways a precursor to early golems, this ritual uses hours of laborious calculations, recitation, and focus to bind an elemental outsider (a creature with the elemental subtype or a genie) into an inscribed bronze seal, harnessing the outsider's vibrant life force to animate an object. The seal must already be affixed to the object to be animated (usually a mannequin or statue), and the outsider must be available within the ritual area and contained (via *binding*, a *magic circle*, or similar magic). Upon successful completion of the ritual, the outsider is bound to loyal service within the seal for a year and a day, losing access to most of its powers and memories and treating the object to which the seal is affixed as its new body. Such animated servitors were most often used as guardians or bodyguards, but also sometimes served as assassins.
+
+This seal can be used as is to create an animated object or combined with the Craft Construct feat; the seal replaces any spell requirements in a construct's creation, but not the time investment or material cost. Because the ritual suppresses much of the outsider's power and free will, the outsider to be bound must have twice the Hit Dice of the construct to be created. After 1 year, the construct becomes inert, but it can be reanimated by performing the ritual again at no additional cost beyond preparing a new seal.
+
 ### Seek Astral Insights
 
 **School** divination; **Level** 6  
@@ -200,6 +262,21 @@ Each of the ritual’s casters can choose to dismiss this ritual’s effects for
 **Failure** The primary caster’s Intelligence and Charisma scores drop to 1 and she gains the other effects of a feeblemind spell for 24 hours.
 
 **Effect**: This ritual can be cast only at midnight on a night when no fewer than three wandering stars (planets) are in conjunction and within view of the casters. The ritual must be performed at the top of a hill, mountain, or other natural vantage point. The primary caster is first wrapped in the focus chains, and the candles are lit in the pattern of the stars in conjunction. The primary caster must sit in complete silence, concentrating on the light of the candles, while the secondary casters circle, chanting the occult incantation. If the ritual is successfully completed, the primary caster’s mind is allowed to wander the Astral Plane unhindered, and she can ask one question each hour her mind wanders. The spirits of the Astral Plane answer the caster truthfully, though there is usually only a 60% chance that they will have the answer the primary caster seeks (the chance may be higher or lower at the GM’s discretion, depending on the nature of the information sought). If they don’t have the answer, the spirits admit that they lack the knowledge the caster seeks rather than trying to deceive her.
+
+### Tranquil Roar of the Hushed Spirit
+
+**School** abjuration; **Level** 8  
+**Casting Time** 80 minutes  
+**Components** V, S, M (a peacock feather and powdered malachite worth 500 gp), F (a copper and mithral gong worth 5,000 gp), SC (up to 8)  
+**Skill Checks** Knowledge (arcana) DC 32, 2 successes; Knowledge (religion) DC 32, 2 successes; Perform (sing or percussion) DC 32, 4 successes  
+**Range** touch  
+**Target** a single structure, or an area with a 30-foot radius  
+**Duration** 8 days  
+**Saving Throw** Will negates; **Spell Resistance** yes  
+**Backlash** All casters take 2d6 points of damage and become exhausted.  
+**Failure** All casters gain a negative level and cannot use psychic magic or occult skill unlocks for 1 week.
+
+**Effect**: The primary caster begins by using a peacock feather to dust a circle of crushed malachite around a building or sacred site and calls forth hushed whispers—the murmuring chastisement of a secretive spirit—to blot out invasive magics that overhear or reveal secrets. Anyone attempting to cast a divination or enchantment spell or spell-like ability that detects thoughts or compels the truth within the area of effect, or that targets the area of effect with a remote sensing spell such as *scrying*, must first make a successful Will save. Failure indicates the spell is lost and the effect's caster takes 1d6+8 points of damage as the spirit turns the invasive magic back upon her. Success indicates the effect occurs normally. A caster who successfully saves is unaffected further by the ritual for 24 hours or until she leaves and reenters the area of effect.
 
 ### Veil Structure
 

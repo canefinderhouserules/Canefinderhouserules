@@ -280,7 +280,9 @@ Psychics gain access to the following spells. Spells without a link come from ot
 - Mask Dweomer, Communal
 - **[Mental Barrier I](mental-barrier-i.md)**: Gain a +4 shield bonus to AC and resist mind thrust for 1 round as an immediate action.
 - **[Mental Block](mental-block.md)**: Prevent the target from using its skill ranks, spells, feats, and abilities.
+- **[Mind Over Matter](mind-over-matter.md)**: Shift ability damage or drain between paired scores.
 - **[Mind Thrust II](mind-thrust-ii.md)**: As mind thrust I, but deal 1d8 points of damage per level (maximum 5d8).
+- **[Mindshock](mindshock.md)**: Your attacks deal extra nonlethal damage and can confuse.
 - **[Minor Image](minor-image.md)**: As *silent image*, plus some sound.
 - **[Mirror Hideaway](mirror-hideaway.md)**
 - **[Mirror Image](mirror-image.md)**: Creates decoy duplicates of you.
@@ -306,6 +308,8 @@ Psychics gain access to the following spells. Spells without a link come from ot
 - **[Placebo Effect](placebo-effect.md)**: Temporarily suppress an affliction or condition.
 - **[Protection from Arrows](protection-from-arrows.md)**: Subject gains DR 10/magic against ranged attacks.
 - **[Protective Penumbra](protective-penumbra.md)**: Shadow protects the target from light.
+- **[Psychic Leech](psychic-leech.md)**: Fatigue a target and gain +2 Strength and Dexterity.
+- **[Psychonaut Manifestation](psychonaut-manifestation.md)**: Gain a random +4 ability bonus with a paired –2 penalty.
 - **[Pyrotechnics](pyrotechnics.md)**: Turns fire into blinding light or thick smoke.
 - Qualm
 - **[Resist Energy](resist-energy.md)**: Ignores 10 (or more) points of damage/attack from specified energy type.
@@ -397,6 +401,7 @@ Psychics gain access to the following spells. Spells without a link come from ot
 - **[Displacement](displacement.md)**: Attacks miss subject 50% of the time.
 - **[Disrupt Silence](disrupt-silence.md)**: Disrupt all silence effects in an area.
 - **[Distracting Cacophony](distracting-cacophony.md)**: Noise makes it difficult to cast.
+- **[Dream Shield](dream-shield.md)**: Protect a sleeper's mind from intrusion and control.
 - **[Ectoplasmic Snare](ectoplasmic-snare.md)**: Tendril of ectoplasm grapples a creature and tethers you to it.
 - **[Ego Whip I](ego-whip-i.md)**: Cause a creature to take a –2 penalty to Int, Wis, or Cha and be staggered for 1 round.
 - **[Eldritch Fever](eldritch-fever.md)**: Target gains the eldritch ague spellblight.
@@ -418,9 +423,11 @@ Psychics gain access to the following spells. Spells without a link come from ot
 - Hostile Levitation
 - **[Id Insinuation II](id-insinuation-ii.md)**: As id insinuation I, but affects two creatures and has a stronger confusion effect.
 - **[Illusory Script](illusory-script.md)**: Only select creatures can read text.
+- **[Implanted Projection](implanted-projection.md)**: A telempathic projection triggered later by a command word.
 - **[Inveigle Person](inveigle-person.md)**: The target treats all creatures as friendly.
 - **[Invisibility Sphere](invisibility-sphere.md)**: Makes everyone within 10 ft. invisible.
 - Isolate
+- **[Jealous Rage](jealous-rage.md)**: Target attacks anyone who receives a benefit it does not.
 - **[Ki Leech](ki-leech.md)**: Add to your ki pool when you critically hit.
 - **[Loathsome Veil](loathsome-veil.md)**: Nauseate and/or sicken weak creatures.
 - Locate Weakness
@@ -447,6 +454,7 @@ Psychics gain access to the following spells. Spells without a link come from ot
 - **[Poison Exchange](poison-exchange.md)**: Swallow one poison and regurgitate another.
 - **[Protection from Energy](protection-from-energy.md)**: Absorbs 12 points/level of damage from one kind of energy.
 - **[Purge Spirit](purge-spirit.md)**: Deal 1d6 points of damage per level to one haunt or spirit creature and stagger it.
+- **[Quell Energy](quell-energy.md)**: Reduce a creature's energy damage of one type.
 - **[Rage](rage.md)**: Gives +2 to Str and Con, +1 on Will saves, –2 to AC.
 - **[Rain of Frogs](rain-of-frogs.md)**: Summon a swarm of poisonous frogs.
 - **[Reckless Infatuation](reckless-infatuation.md)**: Target is compelled to stay near another.
@@ -458,6 +466,7 @@ Psychics gain access to the following spells. Spells without a link come from ot
 - **[Sands of Time](sands-of-time.md)**: Target temporarily ages.
 - Share Glory
 - **[Selective Alarm](selective-alarm.md)**: As *alarm*, but only against selected creatures.
+- **[Sensory Amplifier](sensory-amplifier.md)**: Creatures nearby sense more keenly but take extra damage.
 - **[Shadow Enchantment](shadow-enchantment.md)**: Quasi-real enchantment of 2nd level or lower.
 - **[Shamefully Overdressed](shamefully-overdressed.md)**: Force target to remove equipment.
 - **[Share Senses](share-senses.md)**: See/hear/smell what your familiar is.
@@ -543,6 +552,7 @@ Psychics gain access to the following spells. Spells without a link come from ot
 - **[False Life, Greater](false-life-greater.md)**: Gain 2d10 temporary hp + 1/level.
 - **[Fear](fear.md)**: Subjects within cone flee for 1 round/level.
 - **[Fleshworm Infestation](fleshworm-infestation.md)**: Worms deal hp and Dex damage.
+- **[Fool's Teleport](fools-teleport.md)**: Turn invisible while appearing to have teleported away.
 - **[Force Hook Charge](force-hook-charge.md)**: Hook of force drags you to the target.
 - Forgetful Slumber
 - **[Freedom of Movement](freedom-of-movement.md)**: Subject moves normally despite impediments to movement.
@@ -581,6 +591,7 @@ Psychics gain access to the following spells. Spells without a link come from ot
 - Named Bullet
 - Nondetection, Communal
 - **[Oneiric Horror, Greater](oneiric-horror-greater.md)**: As oneiric horror, plus Str damage.
+- **[Out of Sight](out-of-sight.md)**: Creatures forget you once they stop watching.
 - **[Overwhelming Grief](overwhelming-grief.md)**: Grieving target can take no actions and is denied its Dex bonus.
 - **[Overwhelming Presence](overwhelming-presence.md)**: Creatures bow before you as if you were divine.
 - **[Pain Strike, Mass](pain-strike-mass.md)**: As pain, but affects multiple creatures.
@@ -662,6 +673,7 @@ Psychics gain access to the following spells. Spells without a link come from ot
 - **[Dominate Person](dominate-person.md)**: Controls humanoid telepathically.
 - **[Dream Scan](dream-scan.md)**: Read a dreaming creature’s thoughts.
 - **[Echolocation](echolocation.md)**: Sonic sense gives you blindsight 40 ft.
+- **[Ectoplasmic Hand](ectoplasmic-hand.md)**: Create a ghostly hand that attacks, manipulates, and delivers touch spells.
 - **[Ego Whip III](ego-whip-iii.md)**: As ego whip I, but a –6 penalty and staggered for 1d6 rounds.
 - **[Entrap Spirit](entrap-spirit.md)**: Trap an incorporeal creature or a haunt in a mirror.
 - **[Erase Impressions](erase-impressions.md)**: Erase psychic impressions from an object.
@@ -776,6 +788,7 @@ Psychics gain access to the following spells. Spells without a link come from ot
 - **[Cruel Jaunt](cruel-jaunt.md)**: Sense creatures suffering from fear, then teleport close to them.
 - **[Curse of Disgust](curse-of-disgust.md)**: Target is sickened when viewing a trigger.
 - **[Curse, Major](curse-major.md)**: As bestow curse, but harder to remove.
+- **[Death Pact](death-pact.md)**: Control a creature and implant a lethal psychic burst.
 - **[Decapitate](decapitate.md)**: Turn a critical hit into a decapitation.
 - **[Decollate](decollate.md)**: A target can safely remove its head.
 - **[Demanding Message, Mass](demanding-message-mass.md)**: Send messages as per *message* with one *suggestion* for each creature.
@@ -816,6 +829,7 @@ Psychics gain access to the following spells. Spells without a link come from ot
 - **[Object Possession, Greater](object-possession-greater.md)**: As possess object, but the object is more powerful and you can possess a construct.
 - **[Owl’s Wisdom, Mass](owls-wisdom-mass.md)**: As *owl’s wisdom*, affects 1 subject/level.
 - **[Permanent Image](permanent-image.md)**: Permanent illusion, includes sight, sound, smell, and thermal effects.
+- **[Phantom Limb](phantom-limb.md)**: Replace missing limbs or grow phantom limbs and wings.
 - **[Phobia](phobia.md)**: Induce an irrational fear in a creature to the point of madness.
 - **[Planar Adaptation, Mass](planar-adaptation-mass.md)**: As planar adaptation, but affects multiple creatures.
 - **[Planar Ally](planar-ally.md)**: As *lesser planar ally,* but up to 12 HD.
@@ -833,6 +847,7 @@ Psychics gain access to the following spells. Spells without a link come from ot
 - **[Spellcrash](spellcrash.md)**
 - **[Spellfire Jinx](spellfire-jinx.md)**: Cursed caster burns and may lose spells.
 - **[Stone Tell](stone-tell.md)**: Talk to natural or worked stone.
+- **[Subjective Reality](subjective-reality.md)**: Treat a creature or object as an illusion that cannot harm you.
 - **[Summon Monster VI](summon-monster-vi.md)**: Summons extraplanar creature to fight for you.
 - **[Symbol of Distraction](symbol-of-distraction.md)**: Symbol that fascinates creatures nearby.
 - **[Thought Shield V](thought-shield-v.md)**: As thought shield IV, but lasts 1 round per level.
@@ -937,6 +952,7 @@ Psychics gain access to the following spells. Spells without a link come from ot
 - **[Iron Body](iron-body.md)**: Your body becomes living iron.
 - **[Irresistible Dance](irresistible-dance.md)**: Forces subject to dance.
 - **[Life of Crime](life-of-crime.md)**: Permanently turn someone into a crazed criminal.
+- **[Mantle of Doubt](mantle-of-doubt.md)**: Creatures that harm you become shaken and doubtful.
 - **[Maze](maze.md)**: Traps subject in extradimensional maze.
 - Mind Blank, Communal
 - **[Moment of Prescience](moment-of-prescience.md)**: You gain +1/level insight bonus on single attack roll, check, or save.

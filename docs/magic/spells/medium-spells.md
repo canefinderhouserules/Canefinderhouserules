@@ -140,6 +140,7 @@ Mediums gain access to the following spells. Spells without a link come from oth
 - **[Detect Mindscape](detect-mindscape.md)**: Sense the presence and attributes of mindscapes.
 - **[Detect Thoughts](detect-thoughts.md)**: Allows “listening” to surface thoughts.
 - **[Disguise Other](disguise-other.md)**: As disguise self, but affects you or another.
+- **[Dream Shield](dream-shield.md)**: Protect a sleeper's mind from intrusion and control.
 - **[Eagle’s Splendor](eagles-splendor.md)**: Subject gains +4 to Cha for 1 min./ level.
 - **[Enshroud Thoughts](enshroud-thoughts.md)**: Ward yourself against thought detection and memory alteration.
 - **[Extreme Flexibility](extreme-flexibility.md)**: Gain a bonus to AC, on Escape Artist checks, and when grappling.
@@ -170,6 +171,7 @@ Mediums gain access to the following spells. Spells without a link come from oth
 - **[Locate Object](locate-object.md)**: Senses direction toward object (specific or type).
 - **[Magic Mouth](magic-mouth.md)**: Object speaks once when triggered.
 - Minor Dream
+- **[Mindshock](mindshock.md)**: Your attacks deal extra nonlethal damage and can confuse.
 - **[Minor Image](minor-image.md)**: As *silent image*, plus some sound.
 - **[Mirror Image](mirror-image.md)**: Creates decoy duplicates of you.
 - **[Misdirection](misdirection.md)**: Misleads divinations for 1 creature or object.
@@ -192,6 +194,7 @@ Mediums gain access to the following spells. Spells without a link come from oth
 - **[Sealed Life](sealed-life.md)**: Prevent a creature from transferring life force to or from others.
 - **[Seek Thoughts](seek-thoughts.md)**: Detects thinking creatures’ thoughts.
 - **[Sense Madness](sense-madness.md)**: Determine mental disturbances in nearby creatures.
+- **[Sensory Amplifier](sensory-amplifier.md)**: Creatures nearby sense more keenly but take extra damage.
 - **[Sessile Spirit](sessile-spirit.md)**: Cause a spirit inhabiting a creature or an object to go dormant.
 - **[Share Memory](share-memory.md)**: Share one memory with the target.
 - **[Shield of Shards](shield-of-shards.md)**: Your shield breaks into orbiting shards that attack.
@@ -266,11 +269,13 @@ Mediums gain access to the following spells. Spells without a link come from oth
 - **[Mindscape Door](mindscape-door.md)**: Create a portal allowing entry to and exit from a mindscape.
 - **[Node of Blasting](node-of-blasting.md)**: Place a trap on an object to mentally damage a creature that touches it.
 - Paragon Surge
+- **[Out of Sight](out-of-sight.md)**: Creatures forget you once they stop watching.
 - **[Phantasmal Asphyxiation](phantasmal-asphyxiation.md)**: Trick a creature into thinking it can’t breathe.
 - **[Phantasmal Killer](phantasmal-killer.md)**: Fearsome illusion kills subject or deals 3d6 damage.
 - **[Pierce Disguise](pierce-disguise.md)**: See through low-level magical disguises.
 - **[Planar Ally, Lesser](planar-ally-lesser.md)**: Exchange services with a 6 HD extraplanar creature.
 - **[Possession](possession.md)**: Project your soul into a creature’s body.
+- **[Psychic Leech](psychic-leech.md)**: Fatigue a target and gain +2 Strength and Dexterity.
 - **[Red Hand of the Killer](red-hand-of-the-killer.md)**: Stain the hand of a creature’s killer red.
 - **[Remove Curse](remove-curse.md)**: Frees object or person from curse.
 - **[Replay Tracks](replay-tracks.md)**: Reconstruct past events from a set of tracks.
@@ -349,3 +354,7 @@ Mediums gain access to the following spells. Spells without a link come from oth
 - **[Thoughtsense](thoughtsense.md)**: Automatically detect nearby conscious creatures.
 - **[True Seeing](true-seeing.md)**: Lets you see all things as they really are.
 - **[Warp Metal](warp-metal.md)**: Permanently warps metal objects.
+
+## 5th-Level Medium Spells
+
+- **[Subjective Reality](subjective-reality.md)**: Treat a creature or object as an illusion that cannot harm you.

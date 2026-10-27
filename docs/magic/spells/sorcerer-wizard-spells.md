@@ -544,8 +544,10 @@
 **Conjuration**
 
 - **[Phantom Steed](phantom-steed.md)**: Magic horse appears for 1 hour/level.
+- **[Psychic Leech](psychic-leech.md)**: Fatigue a target and gain +2 Strength and Dexterity.
 - **[Pugwampi’s Grace](pugwampis-grace.md)**: Target rolls 2d20 and takes the lower result.
 - **[Pup Shape](pup-shape.md)**: Transforms a single animal or magical beast into a younger and cuter version of itself for a short time.
+- **[Quell Energy](quell-energy.md)**: Reduce a creature's energy damage of one type.
 - **[Raging Rubble](raging-rubble.md)**: You animate an area of rubble, gravel, or other small stones, creating a dangerous, rolling area of debris.
 - **[Recharge](recharge.md)**: Restore charges to a technological item.
 - **[Resinous Skin](resinous-skin.md)**: You gain DR 5/piercing and +4 to CMD against disarm attempts.
@@ -673,6 +675,7 @@
 - **[Dimensional Anchor](dimensional-anchor.md)**: Bars extradimensional movement.
 - **[Dreadscape](dreadscape.md)**: Surroundings and unfamiliar creatures seem like something out of a nightmare.
 - **[Dream Dalliance](dream-dalliance.md)**: Target sleeps in a perfect dream.
+- **[Dream Shield](dream-shield.md)**: Protect a sleeper's mind from intrusion and control.
 - **[Earsend](earsend.md)**: Your ear flies off as a spy.
 - **[Earth Glide](earth-glide.md)**: School transmutation [earth]; Level alchemist 4, druid 4, sorcerer/wizard 4 Casting Time 1 standard action.
 - **[Energy Hack](energy-hack.md)**: After taking energy damage, swap your spells' energy types.
@@ -680,6 +683,7 @@
 - **[Fey Form I](fey-form-i.md)**: Assume the form of a Small or Medium fey creature.
 - **[Fire Trap](fire-trap.md)**: Opened object deals 1d4 damage + 1/level.
 - **[Flesh Puppet](flesh-puppet.md)**: Control a zombie in human guise.
+- **[Fool's Teleport](fools-teleport.md)**: Turn invisible while appearing to have teleported away.
 - **[Forgetful Slumber](forgetful-slumber.md)**: This spell acts as the deeper slumber spell, but only affects one creature of 10 Hit Dice or fewer.
 - **[Geomessage](geomessage.md)**: Leave an invisible message on a surface
 - **[Ghost Wolf](ghost-wolf.md)**: This spell conjures a Large, quasi-real, wolflike creature made of roiling black smoke.
@@ -1181,6 +1185,7 @@
 - **[Mage’s Magnificent Mansion](mages-magnificent-mansion.md)**: Door leads to extradimensional mansion.
 - **[Phase Door](phase-door.md)**: Creates an invisible passage through a barrier.
 - **[Plane Shift](plane-shift.md)**: As many as eight subjects travel to another plane.
+- **[Subjective Reality](subjective-reality.md)**: Treat a creature or object as an illusion that cannot harm you.
 - **[Summon Monster VII](summon-monster-vii.md)**: Summons extraplanar creature to fight for you.
 - **[Teleport, Greater](teleport-greater.md)**: As *teleport,* but no range limit and no off-target arrival.
 - **[Teleport Object](teleport-object.md)**: As *teleport,* but affects a touched object.

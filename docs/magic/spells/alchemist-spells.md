@@ -56,6 +56,7 @@ New alchemist spells from *Ultimate Magic* and *Ultimate Combat*. Spells from ot
 - **[Delay Disease](delay-disease.md)**: The target becomes temporarily immune to disease.
 - **[Diminished Detection](diminished-detection.md)**: Detection spells have half their normal range against you.
 - **[Dragon Voice](dragon-voice.md)**: +6 on Charisma checks with dragons; louder voice.
+- **[Dream Shield](dream-shield.md)**: Protect a sleeper's mind from intrusion and control.
 - **[Duelist’s Alacrity](duelists-alacrity.md)**: Faster, with fancy footwork.
 - **[Empower Holy Water](empower-holy-water.md)**: Holy water deals extra damage to undead
 - **[Enshroud Thoughts](enshroud-thoughts.md)**: Ward yourself against thought detection and memory alteration.

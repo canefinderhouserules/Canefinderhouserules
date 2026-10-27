@@ -145,3 +145,19 @@ While all shamans use their connection to the spirits of the world to draw upon 
 **Controlling Magic (Su)**: The overseer adds the following spells to the list of spells she can cast using spirit magic: *charm person* (1st), *hideous laughter* (2nd), *hold person* (3rd), *crushing despair* (4th), *feeblemind* (5th), *mass suggestion* (6th), *power word blind* (7th), *irresistible dance* (8th), and *dominate monster* (9th). This ability replaces the spirit magic spells gained from the shaman's spirit.
 
 **Spirit Surge (Ex)**: At 3rd level, an overseer gains the ability to cast any of her mind-affecting spells that target a single creature through her spirit animal. When she's using this ability, the selected spell's range becomes touch, and she must deliver the spell through the spirit animal via the spirit animal's deliver touch spells supernatural ability. The shaman's effective caster level for these spells is 2 higher than her normal caster level. The overseer can deliver any other spells via the deliver touch spells spirit animal ability. This alters the deliver touch spells spirit animal ability.
+
+## Occult Sage
+
+Members in good standing of a scholarly order, occult sages have managed to discover rituals and occult secrets within the lore of their order. They are scholars of ancient mysteries and keepers of forbidden secrets who go beyond simply learning eldritch traditions to make the occult a part of their very souls.
+
+**Class Skills**: An occult sage adds all Knowledge skills, Linguistics, and Sense Motive to his list of class skills, but loses Handle Animal and Survival as class skills. This alters the shaman's class skills.
+
+**Occult Grimoire (Ex)**: An occult sage's divine magic arises from communion with spirits alongside study of archaic lore compiled into a personal occult grimoire. Unlike a wizard's spellbook, this grimoire doesn't contain specific spells. By studying his grimoire, an occult sage can prepare any spell on the shaman spell list or provided by his spirit. If this grimoire is lost or destroyed, he cannot prepare new spells or use his spirit magic class feature until it is replaced, which requires 1 week of work. This ability replaces spirit animal.
+
+**Ritual Hex**: An occult sage gains [Ritual Hex](../../rules/feats/ritual-hex.md) as a bonus feat.
+
+**Golden Scarab (Ex)**: At 4th level, an occult sage successfully constructs a golden scarab that is infused with some of his occult potential. Treat this construct as a clockwork spy, except it has half its master's total hit points regardless of its Hit Dice and can write and take dictation rather than record audio. If worn in the occult sage's amulet slot, the golden scarab provides a +4 bonus to AC against sneak attacks and attacks of opportunity, as the scarab animates and moves to intercept attacks. If lost or destroyed, the golden scarab can be replaced in a week-long ritual costing 250 gp.
+
+**Wandering Ritual (Su)**: At 6th level, an occult sage can attempt to coax a nearby spirit into service with a 1-minute-long ritual once per day, gaining that spirit's spirit ability and adding its list of spells to those he can cast using his spirit magic. The occult sage can maintain this bond for 1 hour, or until he dismisses the spirit as a free action. At 12th level, he also gains this spirit's greater spirit power while bonded, and at 20th level gains its true spirit power as well. He can perform a wandering ritual one additional time per day at 8th level and 14th level. This ability replaces wandering spirit and wandering hex.
+
+**Esoteric Rites (Ex)**: At 8th level, an occult sage gains a +1 insight bonus on skill checks attempted as part of an occult ritual. This bonus increases by 1 for every 4 shaman levels beyond 8th (to a maximum of +5 at 20th level). If the occult sage is the ritual's primary caster, he also adds this bonus to the caster level of the ritual's effect. This ability replaces the 8th-level hex.

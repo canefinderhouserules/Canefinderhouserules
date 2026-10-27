@@ -1588,6 +1588,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Call Truce](call-truce.md) | — | Cha 15, Persuasive, Diplomacy 5 ranks |
 | [Cannon Master](cannon-master.md) | Combat | Siege Engineer, Knowledge (engineering) or Profession (siege engineer) 7 ranks, proficiency with at least one firearm siege engine |
 | [Careful Flyer](careful-flyer.md) | — | Acrobatic, Fly 5 ranks |
+| [Careful Reader](careful-reader.md) | — | Linguistics 3 ranks, Spellcraft 3 ranks |
 | [Careful Sneak](careful-sneak.md) | — | Dex 13, Stealth 3 ranks |
 | [Cartogramancer](cartogramancer.md) | — | Knowledge (geography) 10 ranks, ability to cast *greater teleport* |
 | [Cascade Gambit](cascade-gambit.md) | Combat | Swordlord Dueling Disciple, Sweeping Duelist, Circuitous Duelist, Weapon Finesse, Weapon Focus (dueling blade), base attack bonus +8 |
@@ -1597,6 +1598,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Cat’s Fall](cat-s-fall.md) | — | Dex 13, Acrobatics 1 rank |
 | [Chain Challenge](chain-challenge.md) | — | Challenge class feature, character level 7th |
 | [Chairbreaker](chairbreaker.md) | Combat | Catch Off-Guard, base attack bonus +1 |
+| [Chakra Mandala](chakra-mandala.md) | — | Ki pool class feature |
 | [Channel Deific Essence](channel-deific-essence.md) | — | Alignment Channel, channel energy 5d6, domain class feature, same alignment as patron deity |
 | [Channel Discord](channel-discord.md) | — | Channel energy 8d6, worshiper of a demon lord |
 | [Channel Endurance](channel-endurance.md) | — | Channel positive energy 3d6, worshiper of a deity of nature or weather |
@@ -1658,6 +1660,8 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Craft Shoddy Item](craft-shoddy-item.md) | — | 1 rank in appropriate Craft skill |
 | [Craft Technological Arms and Armor](craft-technological-arms-and-armor.md) | — | Technologist, Craft (mechanical) 7 ranks, Knowledge (engineering) 7 ranks |
 | [Craft Technological Item](craft-technological-item.md) | — | Technologist, Craft (mechanical) 5 ranks, Knowledge (engineering) 5 ranks |
+| [Cranial Adjustment](cranial-adjustment.md) | — | Deft Hands or Trepanation |
+| [Cranial Implantation](cranial-implantation.md) | — | Self-Sufficient or Trepanation, Heal 7 ranks |
 | [Creative Armorsmith](creative-armorsmith.md) | Combat | Craft (armor) 3 ranks, Knowledge (engineering) 3 ranks |
 | [Creative Weaponsmith](creative-weaponsmith.md) | Combat | Craft (weapons) 3 ranks, Knowledge (engineering) 3 ranks |
 | [Creature Focus](creature-focus.md) | — | No levels in a class that grants the favored enemy class feature |
@@ -1915,6 +1919,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Hands of Valor](hands-of-valor.md) | — | Lay on hands class feature, worshiper of a deity of valor and justice |
 | [Harder They Fall](harder-they-fall.md) | Combat, Teamwork | Str 13, Int 13, Combat Expertise, Power Attack |
 | [Harrying Partners](harrying-partners.md) | Combat, Teamwork | Any teamwork feat, base attack bonus +6 |
+| [Haruspicy](haruspicy.md) | — | Knowledge (religion) 3 ranks |
 | [Harvest Parts](harvest-parts.md) | — | Craft (any) 1 rank or Heal 1 rank |
 | [Healer's Hands](healers-hands.md) | Conduit | Heal 1 rank, Knowledge (planes) 1 rank |
 | [Healing Potion](healing-potion.md) | Versatile Brewing | Brew Potion, ability to cast *cure serious wounds* |
@@ -2115,6 +2120,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Overwatch Tactician](overwatch-tactician.md) | Combat | Overwatch Style, Precise Shot, Rapid Shot, Weapon Focus with the chosen weapon |
 | [Overwatch Vortex](overwatch-vortex.md) | Combat | Overwatch Style, Overwatch Tactician, Precise Shot, Rapid Shot, Weapon Focus with the chosen weapon, base attack bonus +11 |
 | [Overwhelm](overwhelm.md) | Combat, Teamwork | — |
+| [Overwhelming Phantom](overwhelming-phantom.md) | — | Phantom class feature, spiritualist level 15th |
 | [Owl Dive](owl-dive.md) | Combat | Dex 17, Owl Style, Owl Swoop, Skill Focus (Stealth), base attack bonus +7 or monk level 5th, Acrobatics 1 rank, Fly 1 rank, Stealth 1 rank |
 | [Owl Style](owl-style.md) | Combat, Style | Dex 13, Skill Focus (Stealth), Stealth 1 rank |
 | [Owl Swoop](owl-swoop.md) | Combat | Dex 15, Owl Style, Skill Focus (Stealth), Acrobatics 1 rank, Stealth 1 rank |
@@ -2197,9 +2203,11 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Restorative Vigor](restorative-vigor.md) | Combat | Con 15, Combat Vigor, character level 8th |
 | [Retributive Kick](retributive-kick.md) | Weapon Mastery | Improved Unarmed Strike, base attack bonus +5, weapon training class feature with a melee weapon |
 | [Returning Throw](returning-throw.md) | Combat, Teamwork | Point-Blank Shot, Precise Shot, Sleight of Hand 3 ranks, goblinoid subtype |
+| [Rhabdomancy](rhabdomancy.md) | — | Knowledge (nature) 3 ranks, Survival 3 ranks |
 | [Ricochet Toss](ricochet-toss.md) | Weapon Mastery | Quick Draw, base attack bonus +6, weapon training class feature with a ranged weapon |
 | [Righteous Phalanx](righteous-phalanx.md) | Teamwork | Base attack bonus +3, good alignment |
 | [Riptide Attack](riptide-attack.md) | Combat | Improved Drag, Improved Trip, worshiper of a deity of the sea and storms |
+| [Ritual Hex](ritual-hex.md) | — | Knowledge (arcana) 4 ranks, Knowledge (history) 4 ranks, hex class feature |
 | [Ritual Mask](ritual-mask.md) | — | Nameless One, occult rituals |
 | [Rival](rival.md) | Story | See text |
 | [Robot’s Bane](robots-bane.md) | — | Knowledge (engineering) 5 ranks |
@@ -2292,6 +2300,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Spear Dancing Spiral](spear-dancing-spiral.md) | Combat | Dex 15, Spear Dancing Style, Two-Weapon Fighting, Weapon Finesse, Weapon Focus with the chosen weapon |
 | [Spear Dancing Style](spear-dancing-style.md) | Combat, Style | Dex 13, Two-Weapon Fighting, Weapon Focus with the chosen weapon |
 | [Spectacular Exit](spectacular-exit.md) | Combat, Performance | Dex 15, Dodge, Acrobatics 7 ranks |
+| [Spectrum Sight](spectrum-sight.md) | — | Alertness, Perception 5 ranks |
 | [Spell Chain](spell-chain.md) | Teamwork | Spell Penetration |
 | [Spell Sponge](spell-sponge.md) | — | Animal companion or familiar, share spells ability |
 | [Spellcut](spellcut.md) | Weapon Mastery | Str 13, Cut from the Air, Power Attack, base attack bonus +9, Spellcraft 1 rank, weapon training class feature with a melee weapon |
@@ -2301,6 +2310,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Spirit of the Corps](spirit-of-the-corps.md) | Combat, Teamwork | — |
 | [Spirit Rebuke](spirit-rebuke.md) | — | Wis 17, Iron Will, Spirit Beacon, Diplomacy 5 ranks or Intimidate 5 ranks |
 | [Spirit Sight](spirit-sight.md) | — | Wis 15, Iron Will, Spirit Beacon |
+| [Spirit Symbiosis](spirit-symbiosis.md) | — | Ability to cast *speak with dead*, phantom class feature |
 | [Splash Weapon Mastery](splash-weapon-mastery.md) | Combat | — |
 | [Sprightly Armor](sprightly-armor.md) | Armor Mastery | Dex 13, base attack bonus +11 or fighter level 8th, armor training class feature, proficiency with light armor |
 | [Spring-Heeled Reaping](spring-heeled-reaping.md) | Combat | Dex 17, Dodge, Mobility, Shot on the Run or Spring Attack, Spring-Heeled Sprint, Spring-Heeled Style, base attack bonus +11, proficiency with light armor |
@@ -2416,11 +2426,13 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Toxicological Timing](toxicological-timing.md) | — | Craft (alchemy) 9 ranks |
 | [Trailblazing Channel](trailblazing-channel.md) | — | Channel energy 3d6, worshiper of a deity of dreams and travelers |
 | [Treacherous Toxin](treacherous-toxin.md) | — | Base attack bonus +5, sneak attack class feature |
+| [Trepanation](trepanation.md) | — | Heal 5 ranks, Knowledge (arcana) 2 ranks |
 | [Triangulate](triangulate.md) | Teamwork | Blind-Fight, Greater Blind-Fight, Improved Blind-Fight, Perception 15 ranks, human |
 | [Tribal Scars](tribal-scars.md) | — | — |
 | [Trick Shooter](trick-shooter.md) | Combat | Dex 13, Deadly Aim, base attack bonus +6 |
 | [True Breed](true-breed.md) | — | Two subtypes, elf blood or orc blood racial trait |
 | [True Deception](true-deception.md) | — | Cha 17, Disguise 17 ranks, master disguise master ninja trick or master of disguise advanced rogue talent, ninja level 10th or rogue level 10th |
+| [Truth in Wine](truth-in-wine.md) | — | Appraise 3 ranks |
 | [Tumultuous Spell](tumultuous-spell.md) | Metamagic | — |
 | [Tundra Stride](tundra-stride.md) | — | Acrobatics 5 ranks |
 | [Twilight Tattoo](twilight-tattoo.md) | — | Wis 13 |

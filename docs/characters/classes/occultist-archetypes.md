@@ -298,3 +298,21 @@ Most occultists acquire and study antiques at a steady pace, learning new techni
 **Complex Collection (Su)**: At 8th level, a curator can empower two relics that are in his collection simultaneously, and he gains the benefits of both. When he does so, he must allocate his relic collection’s mental focus between the two relics. This ability replaces outsider contact.
 
 **Mental Catalog (Su)**: At 8th level, the points of mental focus invested in the curator’s relic collection increase by 2. This total increases by 1 additional point at 12th level and 16th level. This ability replaces an occultist’s magic circles, binding circles, and fast circles.
+
+## Reliquarian
+
+Not all occultists derive their power from psychic impressions left on objects. Some find faith first, and draw out the divine potential in religious relics. Many see these religious scholars as eccentrics or heretics who pilfer holy magic with their bizarre rituals.
+
+**Faithful**: A reliquarian must worship a deity, and must be within one step of her deity's alignment, along either the law/chaos axis or the good/evil axis. A reliquarian is proficient with her deity's favored weapon in addition to her normal weapon and armor proficiencies.
+
+**Spells**: A reliquarian's spells are considered divine spells, not psychic spells. The reliquarian's spells use verbal components instead of thought components, and somatic components instead of emotional components, and she uses a sacred implement (see [Occultist: Sacred Implements](occultist-sacred-implements.md)) as a divine focus. This ability alters the occultist's spells.
+
+**Domain**: A reliquarian gains access to one of her deity's domains. She treats her occultist level as her cleric level for the purposes of access to domain powers and their strength. Additionally, the reliquarian adds the domain's spells to her occultist spell list and her spells known.
+
+**Diminished Focus Power (Su)**: A reliquarian learns only the base focus power from one implement school at 1st level. She gains additional focus powers as normal. This ability alters focus powers.
+
+**Sacred Implements (Su)**: A reliquarian gains one implement school at 1st level. Additionally, the reliquarian gains a relic of her god, typically a holy symbol of significant age, a fixture from a lost temple, or bone or hair from a prominent historical figure of the religion. This grants the reliquarian access to one of her deity's domains, as detailed above. Without this implement, the reliquarian cannot use her domain powers and must succeed at a concentration check to cast spells from her domain. All of a reliquarian's future implements must be somehow representative of her faith. This ability modifies implements.
+
+**Orisons**: A reliquarian gains one orison, or 0-level divine spell, each time she selects an implement school (including when she again selects a school that she has already learned to use). These orisons otherwise behave as an occultist's knacks. This ability replaces knacks.
+
+**Divine Focus (Su)**: A reliquarian uses her Wisdom modifier, rather than her Intelligence modifier, to determine the amount of mental focus available to her each day. This ability modifies mental focus.
