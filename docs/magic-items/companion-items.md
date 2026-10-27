@@ -4924,3 +4924,51 @@ Traders crossing wide plains often carry a small, eagle-shaped caravan guardian 
 The body of this wooden flute is elaborately decorated with carved motifs of horses running across grassy plains. Once per day, the user of a *horse-caller flute* can play a lilting melody with the flute, and while doing so can attempt a DC 10 Perform (wind) check. On a success, a light riding horse appears in an appropriate space adjacent to the player to serve as her mount for 2 hours, plus an additional 2 hours for every 5 points by which the result exceeds the Perform (wind) check DC. The horse does not appear if the terrain cannot support it; in this case, if the user succeeds at the Perform (wind) check, the horse simply does not appear and the item's daily use is not wasted.
 
 **Construction Requirements:** Craft Wondrous Item, *ghost sound*, *mount*; **Cost** 2,100 gp
+
+## Spirit-World Items
+
+### Jar of Haunt Siphoning
+
+**Slot** none; **CL** 6th; **Price** 6,250 gp; **Weight** 1 lb.
+
+**Aura** moderate necromancy
+
+This jar of transparent glass is bound with gold ribbons. As a standard action that requires both hands, the user can untie the ribbon and remove the jar's lid. When the user does so, the ribbon glows as the jar unleashes a burst of positive energy that deals 3d6 points of positive energy damage to all manifested haunts within 30 feet of the user. If this deals enough damage to a haunt to reduce the haunt's hit points to 0, the haunt is neutralized as it dissolves into a violet mist that then drains into the jar. A haunt neutralized by a jar of haunt siphoning takes a –5 penalty on its caster level check to manifest again after its reset time passes.
+
+Once used, a jar of haunt siphoning cannot be activated again for 1d4 rounds, but any violet mist within the jar must first be removed. Removing this mist is a full-round action that requires a creature to pour the jar's contents into a nonmagical glass vial worth at least 1 gp. This transforms the vial into a grenade-like splash weapon that functions like a vial of alchemist's fire, except it deals negative energy damage instead of fire damage. Purifying a jar of haunt siphoning in this manner causes the jar to reactivate in 1d4 rounds.
+
+**Construction Requirements:** Craft Wondrous Item, *gentle repose*, *mass inflict light wounds*; **Cost** 3,125 gp
+
+### Papyrus of Eternal Rest
+
+**Slot** none; **CL** 1st; **Price** 4,000 gp; **Weight** —
+
+**Aura** faint necromancy
+
+This 12-inch-long scroll is scribed on papyrus that has been anointed with holy water. Written on the scroll's face in an ancient funerary script are three to four pictographs that bid the reader a peaceful rest. A papyrus of eternal rest grants its owner a gaze attack with a range of 30 feet whenever she wields the item in one hand and clearly presents it before her. Haunts and incorporeal undead must succeed at a DC 12 Will save or take 1d6 points of damage and become sickened for 1 round. A successful Will save prevents the sickened condition and reduces the damage by half. Haunts can't avoid looking at a papyrus of eternal rest, but incorporeal undead can as normal.
+
+The user of a papyrus of eternal rest cannot wield both a weapon and the papyrus in the same hand, and the hand presenting the papyrus cannot be used to complete the somatic components of spells. Because of the item's light weight, however, wielding a papyrus of eternal rest does not count as having an occupied hand for the purpose of the Fencing Grace, Slashing Grace, or Starry Grace feats, a swashbuckler's precise strike deed, and similar effects.
+
+**Construction Requirements:** Craft Wondrous Item, *bane*, *disrupt undead*; **Cost** 2,000 gp
+
+### Psychic Aurascope
+
+**Slot** none; **CL** 7th; **Price** 8,000 gp; **Weight** 4 lbs.
+
+**Aura** moderate divination
+
+A magical version of a [haunt detector](../equipment/gear-companions.md), a psychic aurascope is filled with a strange, swirling white vapor. A psychic aurascope acts in all ways as a haunt detector, but in addition, while the aurascope's bulb is touching a creature or object, the user can utter a command word to activate the aurascope, causing the vapor contained within it to rapidly shift between multiple hues for as long as it continues to touch that creature or object. The hues displayed within the aurascope relate to the touched creature or object's alignment aura, emotion aura, health aura, and magic aura, allowing the user to use the read aura occult skill unlock once per day, even if she has no levels in an occult class or doesn't have the Psychic Sensitivity feat. If the user has levels in an occult class or the Psychic Sensitivity feat, she can attempt a Perception check with a DC equal to 25 + the creature's Hit Dice or the item's caster level and apply the result to all of the target's auras instead of just one single aura. The user can use this version of the read aura occult skill unlock at will; it doesn't count as her one daily use of the read aura skill unlock.
+
+In addition, if the user attempts to read the auras of an object that is associated with a haunt, the object's auras twist and writhe in the shape of skulls, anguished faces, and flashes of scenes relating to the haunt's formation, allowing her to use Knowledge (religion) to attempt to identify the haunt's elements, such as its area, notice DC, weakness, trigger, destruction requirements, and so on. The DC to identify a haunt's elements with a psychic aurascope is equal to 20 + the haunt's CR, which allows the user to determine one of the haunt's elements, chosen randomly. For every 5 by which the check's result exceeds this DC, the user randomly determines another one of the haunt's elements.
+
+**Construction Requirements:** Craft Wondrous Item, *analyze aura*, *speak with haunt*; **Cost** 4,000 gp
+
+### Shawl of the Lingering Phantom
+
+**Slot** head; **CL** 5th; **Price** 3,200 gp; **Weight** —
+
+**Aura** faint divination
+
+This ghost-white shawl is partially transparent and flutters elegantly with every motion its wearer makes. If the wearer has the shared consciousness class feature, she gains the Skill Focus feat in both skills determined by her phantom's emotional focus while the phantom is manifested in ectoplasmic or incorporeal form. While her phantom is confined in her consciousness, she instead gains a +4 competence bonus on skill checks with those skills.
+
+**Construction Requirements:** Craft Wondrous Item, *borrow skill*, creator must be a spiritualist with the shared consciousness class feature; **Cost** 1,600 gp

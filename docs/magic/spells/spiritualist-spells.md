@@ -90,6 +90,7 @@ Spiritualists gain access to the following spells. Spells without a link come fr
 - **[Boneshaker](boneshaker.md)**: Momentarily control a living or undead creature’s skeleton.
 - **[Calm Spirit](calm-spirit.md)**: Postpone hostile action by a haunt or incorporeal undead.
 - **[Catatonia](catatonia.md)**: Make a willing target appear to be dead.
+- **[Crafter's Nightmare](crafters-nightmare.md)**: Haunt sabotages crafting, ritual, and long-casting-time work.
 - **[Cure Moderate Wounds](cure-moderate-wounds.md)**: Cures 2d8 damage +1/level (max. +10).
 - **[Death Knell](death-knell.md)**: Kills dying creature; you gain 1d8 temporary hp, +2 to Str, and +1 caster level.
 - **[Detect Magic, Greater](detect-magic-greater.md)**: As *detect magic*, but learn more information.
@@ -179,6 +180,7 @@ Spiritualists gain access to the following spells. Spells without a link come fr
 - **[Helping Hand](helping-hand.md)**: Ghostly hand leads subject to you.
 - **[Heroism](heroism.md)**: Gives +2 bonus on attack rolls, saves, skill checks.
 - Hostile Levitation
+- **[Horrifying Visage](horrifying-visage.md)**: Haunt gives victims a phobia of a named thing.
 - **[Howling Agony](howling-agony.md)**: Screaming pain limits the target’s actions.
 - **[Inflict Serious Wounds](inflict-serious-wounds.md)**: Touch attack, 3d8 damage +1/ level (max +15).
 - **[Invisibility Purge](invisibility-purge.md)**: Dispels invisibility within 5 ft./level.
@@ -273,6 +275,7 @@ Spiritualists gain access to the following spells. Spells without a link come fr
 - **[Mind Swap](mind-swap.md)**: Switch minds with another creature for 1 hour per level.
 - **[Mindwipe](mindwipe.md)**: Erase a portion of the target’s mind and experiences, inflicting negative levels.
 - **[Mirror Transport](mirror-transport.md)**
+- **[Mischievous Shadow](mischievous-shadow.md)**: Shadows of victims interfere with their actions.
 - **[Neutralize Poison](neutralize-poison.md)**: Immunizes subject against poison, detoxifies venom in or on subject.
 - **[Phantasmal Asphyxiation](phantasmal-asphyxiation.md)**: Trick a creature into thinking it can’t breathe.
 - **[Phantasmal Killer](phantasmal-killer.md)**: Fearsome illusion kills subject or deals 3d6 damage.
@@ -320,6 +323,7 @@ Spiritualists gain access to the following spells. Spells without a link come fr
 - **[Disrupting Weapon](disrupting-weapon.md)**: Melee weapon destroys undead.
 - **[Dominate Person](dominate-person.md)**: Controls humanoid telepathically.
 - **[Dream](dream.md)**: Sends message to anyone sleeping.
+- **[Drowned Souls' Grasp](drowned-souls-grasp.md)**: Haunt drags victims under deep water.
 - **[Ethereal Envelopment](ethereal-envelopment.md)**: As ethereal envelope, but able to affect an unwilling creature.
 - **[False Vision](false-vision.md)**: Fools scrying with an illusion.
 - **[Feast on Fear](feast-on-fear.md)**: Targets are panicked, and you gain temporary hit points.

@@ -157,6 +157,7 @@
 - **[Obscuring Mist](obscuring-mist.md)**: Fog surrounds you.
 - **[Shock Shield](shock-shield.md)**: A shield of force protects you until you dismiss it in an explosion of electricity.
 - **[Skim](skim.md)**: read in a quarter of the time
+- **[Skin Tag](skin-tag.md)**: Haunted food that lets you torment its eater from afar.
 - **[Snowball](snowball.md)**: Throw a conjured ball of snow at a target.
 - **[Songbird](songbird.md)**: Conjure music from a good-aligned plane
 - **[Sow Thought](sow-thought.md)**: School enchantment (compulsion) [mind-affecting]; Level bard 1, sorcerer/wizard 1, witch 1 Casting Time 1.
@@ -274,6 +275,7 @@
 - **[Contact Entity I](contact-entity-i.md)**: Ask eldritch entities to find and converse with you.
 - **[Corpse Lanterns](corpse-lanterns.md)**: Dancing lights that hinder Stealth.
 - **[Covetous Urge](covetous-urge.md)**: Curse a creature to steal valuables
+- **[Crafter's Nightmare](crafters-nightmare.md)**: Haunt sabotages crafting, ritual, and long-casting-time work.
 - **[Curse Terrain, Lesser](curse-terrain-lesser.md)**: Curse an area with three mild hazards.
 - **[Dark Whispers](dark-whispers.md)**: Whisper through the shadows.
 - **[Death From Below](death-from-below.md)**: School abjuration; Level bard 3, sorcerer/wizard 2 Casting Time 1 standard action Components V, S Range touch.
@@ -412,6 +414,7 @@
 - **[Twisted Space](twisted-space.md)**: Targeted creature’s attacks target a random square instead of the intended target.
 - **[Umbral Weapon](umbral-weapon.md)**: Reroll missed attacks for cold damage.
 - **[Undeath Sense](undeath-sense.md)**: Constant awareness of undead within 60 ft.
+- **[Unsettling Presence](unsettling-presence.md)**: Haunt breeds paranoia and worsens attitudes.
 - **[Vine Strike](vine-strike.md)**: Enhance one of your natural or unarmed attacks with thorny vine growth.
 - **[Visualization of the Body](visualization-of-the-body.md)**: Meditative spell: bonus to one physical ability's skills, plus a one-time boost.
 - **[Visualization of the Mind](visualization-of-the-mind.md)**: Meditative spell: bonus to one mental ability's skills, plus a one-time boost.
@@ -551,6 +554,7 @@
 - **[Healing Thief](healing-thief.md)**: You siphon half of all magical healing that the targeted creature receives.
 - **[Hero's Spellsword](heros-spellsword.md)**: Merge a rod or staff into a melee weapon.
 - **[Hollow Blades](hollow-blades.md)**: Target's melee damage drops one size.
+- **[Horrifying Visage](horrifying-visage.md)**: Haunt gives victims a phobia of a named thing.
 - **[Hostile Levitation](hostile-levitation.md)**: Levitates the targeted creature up off the ground.
 - **[Hydrophobia](hydrophobia.md)**: targets are terrified of water and drowning
 - **[Ice Spears](ice-spears.md)**: Icy spears deal piercing and cold damage and trip foes.
@@ -763,6 +767,7 @@
 - **[Flesh Puppet](flesh-puppet.md)**: Control a zombie in human guise.
 - **[Fool's Teleport](fools-teleport.md)**: Turn invisible while appearing to have teleported away.
 - **[Forgetful Slumber](forgetful-slumber.md)**: This spell acts as the deeper slumber spell, but only affects one creature of 10 Hit Dice or fewer.
+- **[Frigid Souls](frigid-souls.md)**: Haunt strips protection against cold.
 - **[Geomessage](geomessage.md)**: Leave an invisible message on a surface
 - **[Ghost Wolf](ghost-wolf.md)**: This spell conjures a Large, quasi-real, wolflike creature made of roiling black smoke.
 - **[Globe of Invulnerability, Lesser](globe-of-invulnerability-lesser.md)**: Stops 1st- through 3rd- level spell effects.
@@ -797,6 +802,7 @@
 - **[Mindwipe](mindwipe.md)**: Erase a portion of the target’s mind and experiences, inflicting negative levels.
 - **[Minor Phantom Object](minor-phantom-object.md)**: School illusion (figment) [mind-affecting]; Level sorcerer/wizard 4 Casting Time 1 minute Components V, S.
 - **[Minotaur’s Blessing](minotaurs-blessing.md)**: Turn a creature’s head into a bull’s.
+- **[Mischievous Shadow](mischievous-shadow.md)**: Shadows of victims interfere with their actions.
 - **[Mnemonic Siphon](mnemonic-siphon.md)**: rune that steals spells cast near an object
 - **[Mydriatic Spontaneity](mydriatic-spontaneity.md)**: flashing light and dark nauseate and impair a target's sight
 - **[Naga Shape I](naga-shape-i.md)**: assume the form of a Large naga
@@ -1268,6 +1274,7 @@
 - **[False Vision, Greater](false-vision-greater.md)**: As *false vision*, but moves with the target.
 - **[Fey Form III](fey-form-iii.md)**: Assume the form of a Diminutive or Huge fey creature.
 - **[Frost Mammoth](frost-mammoth.md)**: Conjure a rideable snow mammoth.
+- **[Grim Stalker](grim-stalker.md)**: Haunted object curses its next holder with a spectral hound.
 - **[Hero's Magic Army](heros-magic-army.md)**: Grant allies' weapons enhancement bonuses.
 - **[Hollow Heroism, Greater](hollow-heroism-greater.md)**: Provide a *greater* *heroism* effect that you can reverse at any time.
 - **[Hostile Juxtaposition, Greater](hostile-juxtaposition-greater.md)**: You may target one creature for every four of your caster levels.

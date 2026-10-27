@@ -199,6 +199,7 @@
 - **[Groundswell](groundswell.md)**: School transmutation [earth]; Level cleric 2, druid 2, magus 2, ranger 2 Casting Time 1 standard action.
 - **[Healing Token](healing-token.md)**: Holy symbols let allies request healing at a distance.
 - **[Hold Person](hold-person.md)**: Paralyzes one humanoid for 1 round/level.
+- **[Hungering Beacon](hungering-beacon.md)**: Haunt draws the attention of ravenous undead.
 - **[Imbue with Elemental Might](imbue-with-elemental-might.md)**: School evocation [see text]; Level cleric 2, magus 2, sorcerer/wizard 2 Components V, S Duration 24 hours or.
 - **[Inflict Moderate Wounds](inflict-moderate-wounds.md)**: Touch attack, 2d8 damage + 1/level (max +10).
 - **[Instant Weapon](instant-weapon.md)**: Create a masterwork melee weapon of force.
@@ -342,6 +343,7 @@
 - **[Helping Hand](helping-hand.md)**: Ghostly hand leads subject to you.
 - **[Holy Javelin](holy-javelin.md)**: Deal ongoing damage to evil creatures and apply penalties.
 - **[Homeward Bound](homeward-bound.md)**: Return a creature to its home plane
+- **[Horrifying Visage](horrifying-visage.md)**: Haunt gives victims a phobia of a named thing.
 - **[Hydrophobia](hydrophobia.md)**: targets are terrified of water and drowning
 - **[Infernal Challenger](infernal-challenger.md)**: Call a bearded devil to duel one challenger.
 - **[Inflict Serious Wounds](inflict-serious-wounds.md)**: Touch attack, 3d8 damage + 1/level (max +15).
@@ -449,6 +451,7 @@
 - **[Flesh Puppet Horde](flesh-puppet-horde.md)**: Control multiple zombies in human guise.
 - **[Forceful Strike](forceful-strike.md)**: Melee hit deals extra force damage and bull rush.
 - **[Freedom of Movement](freedom-of-movement.md)**: Subject moves normally despite impediments to movement.
+- **[Frigid Souls](frigid-souls.md)**: Haunt strips protection against cold.
 - **[Giant Vermin](giant-vermin.md)**: Turns centipedes, scorpions, or spiders into giant vermin.
 - **[Gift of the Deep](gift-of-the-deep.md)**: Grant sahuagin mutant features
 - **[Gilded Whispers](gilded-whispers.md)**: Use a coin as a scrying target.
@@ -547,6 +550,7 @@
 - **[Dispel Balance](dispel-balance.md)**: You are protected from neutral creatures
 - **[Dispel Chaos](dispel-chaos.md)/[Dispel Evil](dispel-evil.md)/[Dispel Good](dispel-good.md)/[Dispel Law](dispel-law.md)**: +4 bonus against attacks.
 - **[Disrupting Weapon](disrupting-weapon.md)**: Melee weapon destroys undead.
+- **[Drowned Souls' Grasp](drowned-souls-grasp.md)**: Haunt drags victims under deep water.
 - **[Dungeonsight](dungeonsight.md)**: Reveals the layout of nearby chambers and passages.
 - **[Flame Strike](flame-strike.md)**: Smites foes with divine fire (1d6/level damage).
 - **[Flexile Curse](flexile-curse.md)**: Curse degrades worn armor and shields.
@@ -693,6 +697,7 @@
 - **[Ethereal Jaunt](ethereal-jaunt.md)**: You become ethereal for 1 round/level.
 - **[False Resurrection](false-resurrection.md)**: Appear to resurrect someone but instead allow a shadow demon to possess the corpse.
 - **[Frost Mammoth](frost-mammoth.md)**: Conjure a rideable snow mammoth.
+- **[Grim Stalker](grim-stalker.md)**: Haunted object curses its next holder with a spectral hound.
 - **[Holy Word](holy-word.md)**: Kills, paralyzes, blinds, or deafens nongood subjects.
 - **[Hunger for Flesh, Mass](hunger-for-flesh-mass.md)**: Give creatures bite attacks and a hunger for their own kind’s flesh.
 - **[Hymn of Peace](hymn-of-peace.md)**: Creatures must save to follow through with violent actions.

@@ -151,6 +151,7 @@ The magus class spell list appears on the [Magus](../../characters/classes/magus
 - **[Guardian Monument, Lesser](guardian-monument-lesser.md)**: Humans defending the area gain DR 2/magic.
 - **[Heckle](heckle.md)**: Sour a target's mood and impose –2 penalties.
 - **[Hero's Spellsword](heros-spellsword.md)**: Merge a rod or staff into a melee weapon.
+- **[Horrifying Visage](horrifying-visage.md)**: Haunt gives victims a phobia of a named thing.
 - **[Infuse Self](infuse-self.md)**: Assume the form of a native outsider
 - **[Iron Spine](iron-spine.md)**: Target takes damage and is sickened whenever it moves.
 - **[Irradiate](irradiate.md)**: Flood an area with radiation.
@@ -204,6 +205,7 @@ The magus class spell list appears on the [Magus](../../characters/classes/magus
 - **[Illusion of Treachery](illusion-of-treachery.md)**: Make it seem like another is also responsible for your attacks.
 - **[Instant Fake](instant-fake.md)**: Provide a short-term replica of an object.
 - **[Masochistic Shadow](masochistic-shadow.md)**: a shadow attacks the target, dealing Strength damage each round
+- **[Mischievous Shadow](mischievous-shadow.md)**: Shadows of victims interfere with their actions.
 - **[Monstrous Physique II](monstrous-physique-ii.md)**: Take the form and some of the powers of a Tiny or Large monstrous humanoid.
 - **[Naga Shape I](naga-shape-i.md)**: assume the form of a Large naga
 - **[Paragon Surge](paragon-surge.md)**: You surge with ancestral power, temporarily embodying all the strengths of both elvenkind and humankind.
@@ -270,6 +272,7 @@ The magus class spell list appears on the [Magus](../../characters/classes/magus
 - **[Emblem of Greed](emblem-of-greed.md)**: Turn a melee weapon into a burning glaive.
 - **[Explode Head](explode-head.md)**: Explode the head of a creature with 20 hp or fewer and deal damage in a 10-ft. radius around it.
 - **[Fey Form II](fey-form-ii.md)**: Assume the form of a Tiny or Large fey creature.
+- **[Grim Stalker](grim-stalker.md)**: Haunted object curses its next holder with a spectral hound.
 - **[Illusion of Treachery, Greater](illusion-of-treachery-greater.md)**: Make it seem like another is responsible for your attacks while concealing your own actions.
 - **[Last Hero's Defending Sword](last-heros-defending-sword.md)**: A force sword that defends you, then attacks a foe.
 - **[Monstrous Physique IV](monstrous-physique-iv.md)**: As monstrous physique III, with more abilities.

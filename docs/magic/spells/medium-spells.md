@@ -46,6 +46,7 @@ Mediums gain access to the following spells. Spells without a link come from oth
 - **[Comprehend Languages](comprehend-languages.md)**: You understand all spoken and written languages.
 - **[Confusion, Lesser](confusion-lesser.md)**: One creature is *confused* for 1 round.
 - **[Contact Entity I](contact-entity-i.md)**: Ask eldritch entities to find and converse with you.
+- **[Crafter's Nightmare](crafters-nightmare.md)**: Haunt sabotages crafting, ritual, and long-casting-time work.
 - **[Cultural Adaptation](cultural-adaptation.md)**: Adapt to fit the local culture.
 - **[Deathwatch](deathwatch.md)**: Reveals how near death subjects within 30 ft. are.
 - **[Decompose Corpse](decompose-corpse.md)**: Turn a corpse into a clean skeleton.
@@ -93,6 +94,7 @@ Mediums gain access to the following spells. Spells without a link come from oth
 - **[Sense Fear](sense-fear.md)**: Perceive nearby creatures that are experiencing fear.
 - **[Share Language](share-language.md)**: Subject understands chosen language.
 - **[Silent Image](silent-image.md)**: Creates minor illusion of your design.
+- **[Skin Tag](skin-tag.md)**: Haunted food that lets you torment its eater from afar.
 - **[Summon Minor Monster](summon-minor-monster.md)**: Summon 1d3 Tiny animals.
 - **[Summon Monster I](summon-monster-i.md)**: (Evil creatures only.) Summons extraplanar creature to fight for you.
 - **[Tears to Wine](tears-to-wine.md)**: Turn liquids into wine that sharpens the mind.
@@ -101,6 +103,7 @@ Mediums gain access to the following spells. Spells without a link come from oth
 - Unerring Weapon
 - **[Unprepared Combatant](unprepared-combatant.md)**: Target takes –4 on initiative and Reflex saves.
 - **[Unseen Servant](unseen-servant.md)**: Invisible force obeys your commands.
+- **[Unsettling Presence](unsettling-presence.md)**: Haunt breeds paranoia and worsens attitudes.
 - **[Ventriloquism](ventriloquism.md)**: Throws voice for 1 min./level.
 - **[Vocal Alteration](vocal-alteration.md)**: Disguise target’s voice.
 - Whispering Lore
@@ -278,6 +281,7 @@ Mediums gain access to the following spells. Spells without a link come from oth
 - **[Mind Probe](mind-probe.md)**: Learn answers from a subject’s memories.
 - **[Mind Swap](mind-swap.md)**: Switch minds with another creature for 1 hour per level.
 - **[Mindscape Door](mindscape-door.md)**: Create a portal allowing entry to and exit from a mindscape.
+- **[Mischievous Shadow](mischievous-shadow.md)**: Shadows of victims interfere with their actions.
 - **[Motes of Dusk and Dawn](motes-of-dusk-and-dawn.md)**: up to four motes that shed light or darkness
 - **[Node of Blasting](node-of-blasting.md)**: Place a trap on an object to mentally damage a creature that touches it.
 - Paragon Surge

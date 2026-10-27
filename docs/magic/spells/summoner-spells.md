@@ -133,6 +133,7 @@ New summoner spells from *Ultimate Magic*. Spells from other books will be added
 - **[Hostile Juxtaposition](hostile-juxtaposition.md)**: You create a dimensional link with a targeted creature, and switch spots with it.
 - **[Instant Restoration](instant-restoration.md)**: Heal a summoned creature as it falls
 - **[Minotaur’s Blessing](minotaurs-blessing.md)**: Turn a creature’s head into a bull’s.
+- **[Mischievous Shadow](mischievous-shadow.md)**: Shadows of victims interfere with their actions.
 - **[Nixie’s Lure](nixie-s-lure.md)**: This spell creates an unearthly and infectious song that seductively summons all who hear it.
 - **[Poisonous Cloud](poisonous-cloud.md)**: Fog cloud that deals 1d2 Con damage per round.
 - **[Protection from Energy, Communal](protection-from-energy-communal.md)**: As protection from energy, but you may divide the duration among creatures touched.
@@ -193,6 +194,7 @@ New summoner spells from *Ultimate Magic*. Spells from other books will be added
 - **[Expel Blood](expel-blood.md)**: Forces a foe’s blood into a hostile fiendish water elemental.
 - **[Fey Gate](fey-gate.md)**: Create a portal that allows travel to the First World.
 - **[Frost Mammoth](frost-mammoth.md)**: Conjure a rideable snow mammoth.
+- **[Grim Stalker](grim-stalker.md)**: Haunted object curses its next holder with a spectral hound.
 - **[Hostile Juxtaposition, Greater](hostile-juxtaposition-greater.md)**: You may target one creature for every four of your caster levels.
 - **[Human Potential, Mass](human-potential-mass.md)**: As human potential, affecting multiple creatures.
 - **[Insect Spies, Greater](insect-spies-greater.md)**: Use magic beetles as spies and also share their senses.

@@ -799,3 +799,21 @@ Odyssey wizards emulate the explorations and discoveries of a legendary founder-
 *Mount (Sp)*: An odyssey wizard can summon a magical steed to her side (per the *mount* spell) that lasts up to 2 hours per wizard level. The duration of this ability doesn't need to be consecutive, but it must be spent in 2-hour increments. When riding a mount summoned with this ability, an odyssey wizard can substitute Spellcraft checks for Ride checks.
 
 *Master Mariner (Su)*: At 8th level, an odyssey wizard can telekinetically control a boat or ship with such skill and finesse that she counts as a number of people equal to her wizard level for the purpose of determining how many crew members are needed to move a water vehicle. When controlling a ship in this manner, she can substitute Spellcraft checks for Profession (sailor) checks.
+
+## Patron-Bound Wizard
+
+While the art of wizardry is usually a scholar's pursuit, there are those who seek mastery of arcane power without tedious study and monotonous research. Motivated by foolish ambition, such individuals turn to the greatest enigmas of the cosmos in the hopes of attaining greater power. Though few successfully attract the attention of these forces, those who do receive phenomenal arcane power for their efforts, but become the dutiful playthings and servants of the forces with which they consort. (This is a different archetype from the pact wizard above.)
+
+**Effortless Magic (Ex)**: Although a patron-bound wizard still uses a spellbook to prepare his wizard spells, his close ties with his otherworldly patron allow him to do so nearly effortlessly. A patron-bound wizard can prepare all of his spells in only 15 minutes, and his minimum preparation time is only 1 minute. This alters the wizard's spellcasting.
+
+**Patron Spells**: At 1st level, a patron-bound wizard must select a patron. This functions like the witch class ability of the same name, except the wizard automatically adds his patron's spells to his spellbook instead of to his familiar. In addition, the wizard can expend any prepared spell that isn't a spell prepared using the additional spell slot the wizard receives from his arcane school in order to spontaneously cast one of his patron's spells of the same level or lower. This ability replaces Scribe Scroll.
+
+**Great Power, Greater Expense (Ex)**: As a patron-bound wizard grows in power, his choice of patron begins to affect his physical body. At 5th level, the wizard chooses one oracle curse, using 1/2 his character level as his effective oracle level when determining the effects of this curse. If an oracle curse would add spells to the oracle's list of spells known, the wizard instead adds those spells to the wizard's spell list as well as to his spellbook.
+
+At 10th level, the wizard can invoke his patron's power to roll twice and take the better result when attempting any caster level check, concentration check, initiative check, or saving throw. He can activate this ability as a free action before attempting the check, even if it isn't his turn. He can use this ability a number of times per day equal to 3 + 1/2 his Intelligence modifier.
+
+At 15th level, when the wizard invokes his patron's power to roll twice on a check, he adds his Intelligence bonus to the result as an insight bonus. When he applies metamagic feats to any spells he learned via his patron or curse, he treats that spell's final effective level as 1 lower (to a minimum level equal to the spell's original level).
+
+At 20th level, whenever the wizard invokes his patron's power to roll twice on a check and his result is a natural 20, he automatically succeeds, regardless of whether or not a check of that type would normally allow an automatic success.
+
+This ability replaces the bonus feats a wizard gains at 5th, 10th, 15th, and 20th level.

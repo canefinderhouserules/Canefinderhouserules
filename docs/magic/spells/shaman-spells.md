@@ -97,6 +97,7 @@ Shamans gain access to the following spells. Spells in plain text come from othe
 - **[Sense Spirit Magic](sense-spirit-magic.md)**: Gain bonuses on identifying and resisting spells associated with your spirits.
 - **[Shadow Trap](shadow-trap.md)**: pins the target's shadow so it is entangled
 - **[Skim](skim.md)**: read in a quarter of the time
+- **[Skin Tag](skin-tag.md)**: Haunted food that lets you torment its eater from afar.
 - **[Sleep](sleep.md)**: Puts 4 HD of creatures into magical slumber.
 - Stone Shield
 - **[Spirit Call](spirit-call.md)**: Spirit and domain spells in the area are stronger.
@@ -205,6 +206,7 @@ Shamans gain access to the following spells. Spells in plain text come from othe
 - **[Surefoot Boots](surefoot-boots.md)**: Footwear grants perfect balance.
 - **[Tree Shape](tree-shape.md)**: You look exactly like a tree for 1 hour/level.
 - **[Undeath Sense](undeath-sense.md)**: Constant awareness of undead within 60 ft.
+- **[Unsettling Presence](unsettling-presence.md)**: Haunt breeds paranoia and worsens attitudes.
 - **[Venomous Bite](venomous-bite.md)**: Target's bite delivers a stored poison.
 - **[Vine Strike](vine-strike.md)**: Enhance one of your natural or unarmed attacks with thorny vine growth.
 - **[Visualization of the Body](visualization-of-the-body.md)**: Meditative spell: bonus to one physical ability's skills, plus a one-time boost.
@@ -255,6 +257,7 @@ Shamans gain access to the following spells. Spells in plain text come from othe
 - **[Free Spirit](free-spirit.md)**: Gain freedom of movement and fear resistance, but be drunk
 - **[Hex Glyph](hex-glyph.md)**
 - **[Hollow Blades](hollow-blades.md)**: Target's melee damage drops one size.
+- **[Horrifying Visage](horrifying-visage.md)**: Haunt gives victims a phobia of a named thing.
 - **[Inflict Serious Wounds](inflict-serious-wounds.md)**: Touch attack, 3d8 damage +1/ level (max +15).
 - Magic Circle Against Chaos/evil/good/law
 - **[Irregular Size](irregular-size.md)**: Curse shrivels arms, legs, or wings.
@@ -338,6 +341,7 @@ Shamans gain access to the following spells. Spells in plain text come from othe
 - **[Firewalker's Meditation](firewalkers-meditation.md)**: Meditative spell: damage reduction, fire resistance, and pain resistance.
 - **[Flesh Puppet Horde](flesh-puppet-horde.md)**: Control multiple zombies in human guise.
 - **[Forest’s Sense](forests-sense.md)**: Sense the location of a distant target that is near a plant or fungus.
+- **[Frigid Souls](frigid-souls.md)**: Haunt strips protection against cold.
 - **[Giant Vermin](giant-vermin.md)**: Turns centipedes, scorpions, or spiders into giant vermin.
 - **[Glimpse of Truth](glimpse-of-truth.md)**: Gain *true seeing* for 1 round.
 - **[Guardian Monument, Lesser](guardian-monument-lesser.md)**: Humans defending the area gain DR 2/magic.
@@ -350,6 +354,7 @@ Shamans gain access to the following spells. Spells in plain text come from othe
 - **[Life Blast](life-blast.md)**: Drain life from local vegetation to launch a blast of positive energy.
 - **[Magic Weapon, Greater](magic-weapon-greater.md)**: Weapon gains +1 bonus/four levels (max +5).
 - **[Masochistic Shadow](masochistic-shadow.md)**: a shadow attacks the target, dealing Strength damage each round
+- **[Mischievous Shadow](mischievous-shadow.md)**: Shadows of victims interfere with their actions.
 - **[Neutralize Poison](neutralize-poison.md)**: Immunizes subject against poison, detoxifies venom in or on subject.
 - **[Persistent Vigor](persistent-vigor.md)**: Gain fast healing 2, immunity to bleed, and faster recovery from diseases and poisons.
 - **[Phantasmal Reminder](phantasmal-reminder.md)**: Recall of past wounds deals damage.
@@ -470,6 +475,7 @@ Shamans gain access to the following spells. Spells in plain text come from othe
 - **[Curse of the Outcast](curse-of-the-outcast.md)**: Curse someone to rub people the wrong way.
 - **[Curse Terrain, Greater](curse-terrain-greater.md)**: Curse an area with six dangerous hazards.
 - **[Dispel Magic, Greater](dispel-magic-greater.md)**: As *dispel magic*, but with multiple targets.
+- **[Drowned Souls' Grasp](drowned-souls-grasp.md)**: Haunt drags victims under deep water.
 - **[Eagle’s Splendor, Mass](eagles-splendor-mass.md)**: As *eagle’s splendor*, 1 subject/level.
 - **[Enlightened Step](enlightened-step.md)**: Meditative spell: walk on air, then fly for 1 minute.
 - **[Fey Form III](fey-form-iii.md)**: Assume the form of a Diminutive or Huge fey creature.
@@ -512,6 +518,7 @@ Shamans gain access to the following spells. Spells in plain text come from othe
 - **[Entice Fey](entice-fey.md)**: Entice service from a fey of 12 Hit Dice or fewer.
 - **[Fairy Ring Retreat](fairy-ring-retreat.md)**: Toadstool circle leads to an extradimensional meadow.
 - **[Frost Mammoth](frost-mammoth.md)**: Conjure a rideable snow mammoth.
+- **[Grim Stalker](grim-stalker.md)**: Haunted object curses its next holder with a spectral hound.
 - **[Harm](harm.md)**: Deals 10 points/level damage to target.
 - **[Heal](heal.md)**: Cures 10 points/level damage, all diseases and mental conditions.
 - **[Hunger for Flesh, Mass](hunger-for-flesh-mass.md)**: Give creatures bite attacks and a hunger for their own kind’s flesh.

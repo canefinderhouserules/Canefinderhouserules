@@ -94,6 +94,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Shadow Trap](shadow-trap.md)**: pins the target's shadow so it is entangled
 - **[Shadow Weapon](shadow-weapon.md)**: Create a quasi-real masterwork weapon.
 - **[Skim](skim.md)**: read in a quarter of the time
+- **[Skin Tag](skin-tag.md)**: Haunted food that lets you torment its eater from afar.
 - **[Snowball](snowball.md)**: Throw a conjured ball of snow at a target.
 - **[Sow Thought](sow-thought.md)**: School enchantment (compulsion) [mind-affecting]; Level bard 1, sorcerer/wizard 1, witch 1 Casting Time 1.
 - **[Speak Local Language](speak-local-language.md)**: Speak and understand one known regional human language.
@@ -153,6 +154,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Control Vermin](control-vermin.md)**: Control vermin as if they were animals
 - **[Corpse Lanterns](corpse-lanterns.md)**: Dancing lights that hinder Stealth.
 - **[Covetous Urge](covetous-urge.md)**: Curse a creature to steal valuables
+- **[Crafter's Nightmare](crafters-nightmare.md)**: Haunt sabotages crafting, ritual, and long-casting-time work.
 - **[Curse of Keeping](curse-of-keeping.md)**: Target cannot sell, barter, or give away its items.
 - **[Curse Terrain, Lesser](curse-terrain-lesser.md)**: Curse an area with three mild hazards.
 - **[Dark Whispers](dark-whispers.md)**: Whisper through the shadows.
@@ -254,6 +256,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Transmute Wine to Blood](transmute-wine-to-blood.md)**: turn a bottle of wine into a pint of animal blood
 - **[Umbral Weapon](umbral-weapon.md)**: Reroll missed attacks for cold damage.
 - **[Unnatural Lust](unnatural-lust.md)**: Target is compelled to kiss or caress another.
+- **[Unsettling Presence](unsettling-presence.md)**: Haunt breeds paranoia and worsens attitudes.
 - **[Unshakable Chill](unshakable-chill.md)**: Target is afflicted with severe cold.
 - **[Venomous Bite](venomous-bite.md)**: Target's bite delivers a stored poison.
 - **[Vexing Miscalculation](vexing-miscalculation.md)**: Target cannot score critical threats.
@@ -319,6 +322,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Gullibility](gullibility.md)**: target believes lies more readily
 - **[Healing Thief](healing-thief.md)**: You siphon half of all magical healing that the targeted creature receives.
 - **[Hollow Blades](hollow-blades.md)**: Target's melee damage drops one size.
+- **[Horrifying Visage](horrifying-visage.md)**: Haunt gives victims a phobia of a named thing.
 - **[Hostile Levitation](hostile-levitation.md)**: Levitates the targeted creature up off the ground.
 - **[Howling Agony](howling-agony.md)**: Screaming pain limits the target’s actions.
 - **[Hydrophobia](hydrophobia.md)**: targets are terrified of water and drowning
@@ -445,6 +449,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Fleshworm Infestation](fleshworm-infestation.md)**: Worms deal hp and Dex damage.
 - **[Foretell Failure](foretell-failure.md)**: Learn whether an action would succeed on a roll of 10.
 - **[Forgetful Slumber](forgetful-slumber.md)**: This spell acts as the deeper slumber spell, but only affects one creature of 10 Hit Dice or fewer.
+- **[Frigid Souls](frigid-souls.md)**: Haunt strips protection against cold.
 - **[Ghost Brand](ghost-brand.md)**: Allow an item to transform into a brand and back.
 - **[Greater Hypnotism](greater-hypnotism.md)**: hypnotize more creatures and make several requests
 - **[Hallucinogenic Smoke](hallucinogenic-smoke.md)**: Exhale nauseating smoke; boost augury.
@@ -464,6 +469,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Medusa's Bane](medusas-bane.md)**: Gain immunity to gaze attacks and reflect one.
 - **[Meticulous Match](meticulous-match.md)**: Determine if two things are identical.
 - **[Minotaur’s Blessing](minotaurs-blessing.md)**: Turn a creature’s head into a bull’s.
+- **[Mischievous Shadow](mischievous-shadow.md)**: Shadows of victims interfere with their actions.
 - **[Mnemonic Siphon](mnemonic-siphon.md)**: rune that steals spells cast near an object
 - **[Monstrous Extremities](monstrous-extremities.md)**: Change limbs into tentacles, hooves, or wings.
 - **[Mydriatic Spontaneity](mydriatic-spontaneity.md)**: flashing light and dark nauseate and impair a target's sight
@@ -600,6 +606,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Death Pact](death-pact.md)**: Control a creature and implant a lethal psychic burst.
 - **[Delectable Flesh](delectable-flesh.md)**: Creatures near the target become depraved and attack it to feast.
 - **[Discharge, Greater](discharge-greater.md)**: Discharge many objects or an area.
+- **[Drowned Souls' Grasp](drowned-souls-grasp.md)**: Haunt drags victims under deep water.
 - **[Dust Form](dust-form.md)**: You become an incorporeal creature of dust for a short period of time.
 - **[Dust Ward](dust-ward.md)**: Ward a magic item against other creatures learning to use or copy it
 - **[Eldritch Conduit, Greater](eldritch-conduit-greater.md)**: Use multiple enemies as origin points for area spells.
@@ -652,6 +659,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Demanding Message, Mass](demanding-message-mass.md)**: Send messages as per *message* with one *suggestion* for each creature.
 - **[Expel Blood](expel-blood.md)**: Forces a foe’s blood into a hostile fiendish water elemental.
 - **[Fey Form III](fey-form-iii.md)**: Assume the form of a Diminutive or Huge fey creature.
+- **[Grim Stalker](grim-stalker.md)**: Haunted object curses its next holder with a spectral hound.
 - **[Hollow Heroism, Greater](hollow-heroism-greater.md)**: Provide a *greater* *heroism* effect that you can reverse at any time.
 - **[Hostile Juxtaposition, Greater](hostile-juxtaposition-greater.md)**: You may target one creature for every four of your caster levels.
 - **[Hunger for Flesh, Mass](hunger-for-flesh-mass.md)**: Give creatures bite attacks and a hunger for their own kind’s flesh.

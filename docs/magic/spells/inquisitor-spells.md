@@ -131,6 +131,7 @@ New inquisitor spells from *Ultimate Magic*. Spells from other books will be add
 - **[Hidden Blades](hidden-blades.md)**: Weapon becomes invisible and easy to conceal.
 - **[Hidden Presence](hidden-presence.md)**: Prevent creatures from noticing your presence.
 - **[Howling Agony](howling-agony.md)**: Screaming pain limits the target’s actions.
+- **[Hungering Beacon](hungering-beacon.md)**: Haunt draws the attention of ravenous undead.
 - **[Hunter’s Lore](hunters-lore.md)**: Take 20 on Knowledge checks to learn a foe’s weaknesses.
 - **[Huntmaster’s Spear](huntmasters-spear.md)**: Spear becomes a +1 weapon against a chosen favored-enemy type and can be discharged for a powerful attack.
 - **[Inflict Pain](inflict-pain.md)**: Target takes a –4 penalty on attack rolls, skill checks, and ability checks.
@@ -223,6 +224,7 @@ New inquisitor spells from *Ultimate Magic*. Spells from other books will be add
 - **[Guardian Monument, Lesser](guardian-monument-lesser.md)**: Humans defending the area gain DR 2/magic.
 - **[Gullibility](gullibility.md)**: target believes lies more readily
 - **[Holy Javelin](holy-javelin.md)**: Deal ongoing damage to evil creatures and apply penalties.
+- **[Horrifying Visage](horrifying-visage.md)**: Haunt gives victims a phobia of a named thing.
 - **[Improve Trap](improve-trap.md)**: When this spell is cast upon a trap, it improves one specific element of the trap chosen at the time of.
 - **[Insect Scouts](insect-scouts.md)**: Vermin investigate a location and grant rerolls on related skill checks.
 - **[Instant Fake](instant-fake.md)**: Provide a short-term replica of an object.
@@ -363,6 +365,7 @@ New inquisitor spells from *Ultimate Magic*. Spells from other books will be add
 - **[Commune with Texts](commune-with-texts.md)**: Absorb knowledge from a collection of texts.
 - **[Cruel Jaunt](cruel-jaunt.md)**: Sense creatures suffering from fear, then teleport close to them.
 - **[Death Knell Aura, Greater](death-knell-aura-greater.md)**: Death knell aura that also hurts spirits
+- **[Drowned Souls' Grasp](drowned-souls-grasp.md)**: Haunt drags victims under deep water.
 - **[Emblem of Greed](emblem-of-greed.md)**: Turn a melee weapon into a burning glaive.
 - **[Inspiring Recovery](inspiring-recovery.md)**: Heals and can revive a creature dead for 1 round, rallying its allies.
 - **[Invoke Deity](invoke-deity.md)**: Infuse yourself with the powers of your deity's planar realm

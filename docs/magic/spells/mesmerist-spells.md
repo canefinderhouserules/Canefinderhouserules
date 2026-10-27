@@ -159,6 +159,7 @@ Mesmerists gain access to the following spells. Spells without a link come from 
 - **[Compel Tongue](compel-tongue.md)**: Target can speak and write only in one imparted language.
 - **[Conditional Favor](conditional-favor.md)**: Provide another spell whose effects reverse if the target breaks a restriction.
 - **[Confess](confess.md)**: Creature answers question truthfully or takes 1d6 damage/two levels (max 5d6).
+- **[Crafter's Nightmare](crafters-nightmare.md)**: Haunt sabotages crafting, ritual, and long-casting-time work.
 - **[Curse of Keeping](curse-of-keeping.md)**: Target cannot sell, barter, or give away its items.
 - **[Daze Monster](daze-monster.md)**: Living creature of 6 HD or less loses its next action.
 - Delay Disease
@@ -261,6 +262,7 @@ Mesmerists gain access to the following spells. Spells without a link come from 
 - **[Twilight Haze](twilight-haze.md)**
 - **[Unadulterated Loathing](unadulterated-loathing.md)**: Target is compelled to avoid another creature.
 - **[Unliving Rage](unliving-rage.md)**
+- **[Unsettling Presence](unsettling-presence.md)**: Haunt breeds paranoia and worsens attitudes.
 - **[Violent Accident](violent-accident.md)**: Curse a creature to suffer a damaging accident within 24 hours.
 - **[Voluminous Vocabulary](voluminous-vocabulary.md)**: Grant ability to speak, read, and write one or more languages for 8 hours.
 - **[Wartrain Mount](wartrain-mount.md)**: Animal gains combat training.

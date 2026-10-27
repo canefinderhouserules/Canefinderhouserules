@@ -1552,6 +1552,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Bag of Bones](bag-of-bones.md) | — | Ghoul |
 | [Balor Whip](balor-whip.md) | Combat | Weapon Focus (whip), Whip Mastery, base attack bonus +8 |
 | [Baneful Judgment](baneful-judgment.md) | Combat | Bane class feature, judgment class feature, monster lore class feature |
+| [Banish Possessor](banish-possessor.md) | General | — |
 | [Banishing Critical](banishing-critical.md) | Critical | Arcane Strike or Disruptive; Spellcraft 8 ranks; arcane pool class feature |
 | [Banner of Doom](banner-of-doom.md) | Combat | Base attack bonus +8, banner class feature, tiefling |
 | [Barrage of Styles](barrage-of-styles.md) | Combat, Teamwork | Base attack bonus +1, human |
@@ -1637,6 +1638,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Channel Endurance](channel-endurance.md) | — | Channel positive energy 3d6, worshiper of a deity of nature or weather |
 | [Channel Hate](channel-hate.md) | — | Channel energy 6d6, worshiper of a deity of hatred or wronged vengeance |
 | [Channel Ray](channel-ray.md) | — | Channel energy class feature |
+| [Channel Spirit](channel-spirit.md) | General | Spirit Ridden or spirit class feature |
 | [Channel Viciousness](channel-viciousness.md) | — | Channel negative energy 4d6, worshiper of a deity of war or rage |
 | [Channeling Variance](channeling-variance.md) | — | Domain class feature, channel energy class feature, must worship and receive spells from a deity |
 | [Chaos Reigns](chaos-reigns.md) | Conduit | Knowledge (planes) 3 ranks |
@@ -1750,6 +1752,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Death Field](death-field.md) | Conduit | Knowledge (planes) 5 ranks |
 | [Death from Below](death-from-below.md) | Combat | Base attack bonus +1 |
 | [Death Roll](death-roll.md) | Combat | Bite attack, reptilian subtype |
+| [Death's Host](death-s-host.md) | General | Spell Focus (necromancy) |
 | [Decoy’s Misdirection](decoys-misdirection.md) | Familiar | Must have a familiar with the decoy archetype |
 | [Dedicated Adversary](dedicated-adversary.md) | Combat | No levels in a class that has the favored enemy class feature |
 | [Deep Toxin](deep-toxin.md) | — | Vital Strike; base attack bonus +6; Craft (poison) 6 ranks or poison use class feature |
@@ -1960,6 +1963,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Fury of the Tainted](fury-of-the-tainted.md) | Combat | Cha 13, rage class feature, tiefling |
 | [Gaze Reflection](gaze-reflection.md) | — | Spellcraft  10 stare and ranks, bold mesmerist tricks class features |
 | [Ghostbane Ichor](ghostbane-ichor.md) | — | Knowledge (religion) 9 ranks, vishkanya |
+| [Ghostslayer](ghostslayer.md) | Combat | Base attack bonus +1, Knowledge (religion) 1 rank |
 | [Giant Vendetta](giant-vendetta.md) | Story | You must have been knocked unconscious in an encounter with a challenging giant foe or have a background tied to giants |
 | [Giant-Bane Caster](giant-bane-caster.md) | — | Caster level 4th, favored enemy (giants) class feature |
 | [Giant-Killer Stance](giant-killer-stance.md) | Combat | Power Attack |
@@ -1998,11 +2002,16 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Guild Emissary](guild-emissary.md) | — | Leadership or Underworld Connections |
 | [Gun Twirling](gun-twirling.md) | Grit | Amateur Gunslinger feat or grit class feature, Dazzling Display, Weapon Focus |
 | [Hammer Guards the Anvil](hammer-guards-the-anvil.md) | Teamwork | — |
+| [Hand's Autonomy](hand-s-autonomy.md) | General | Possessed Hand |
+| [Hand's Detachment](hand-s-detachment.md) | General | Hand's Autonomy, Possessed Hand |
+| [Hand's Knowledge](hand-s-knowledge.md) | General | Possessed Hand |
+| [Hand's Sight](hand-s-sight.md) | General | Possessed Hand |
 | [Hands of Valor](hands-of-valor.md) | — | Lay on hands class feature, worshiper of a deity of valor and justice |
 | [Harder They Fall](harder-they-fall.md) | Combat, Teamwork | Str 13, Int 13, Combat Expertise, Power Attack |
 | [Harrying Partners](harrying-partners.md) | Combat, Teamwork | Any teamwork feat, base attack bonus +6 |
 | [Haruspicy](haruspicy.md) | — | Knowledge (religion) 3 ranks |
 | [Harvest Parts](harvest-parts.md) | — | Craft (any) 1 rank or Heal 1 rank |
+| [Haunt Scavenger](haunt-scavenger.md) | Item Creation | Any one item creation feat or Craft (alchemy) 3 ranks |
 | [Healer's Hands](healers-hands.md) | Conduit | Heal 1 rank, Knowledge (planes) 1 rank |
 | [Healing Potion](healing-potion.md) | Versatile Brewing | Brew Potion, ability to cast *cure serious wounds* |
 | [Heaven's Light](heavens-light.md) | Conduit | Knowledge (planes) 1 rank |
@@ -2182,6 +2191,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Monstrous Masquerade](monstrous-masquerade.md) | — | Monstrous Disguise, Disguise 9 ranks, Knowledge (nature) 9 ranks |
 | [Monstrous Mount](monstrous-mount.md) | — | Handle Animal 4 ranks, Ride 4 ranks, divine bond (mount), hunter’s bond (animal companion), or mount class feature with an effective druid level of 4 |
 | [Monstrous Mount Mastery](monstrous-mount-mastery.md) | — | Monstrous Mount, character level equal to or higher than that listed in your mount’s Mastery entry |
+| [Mortal Exorcist](mortal-exorcist.md) | General | Iron Will, can't have a patron deity |
 | [Motivated March](motivated-march.md) | — | — |
 | [Motivating Display](motivating-display.md) | Combat | Cha 13, Dazzling Display, Weapon Focus |
 | [Mountain Eyes](mountain-eyes.md) | — | Blind-Fight, Perception 5 ranks |
@@ -2262,6 +2272,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Pesh Healing](pesh-healing.md) | General | Pesh Adept or pesh addict |
 | [Pesh Rejuvenation](pesh-rejuvenation.md) | General | Pesh Adept or pesh addict |
 | [Phalanx Formation](phalanx-formation.md) | Combat | Base attack bonus +1 |
+| [Phantom Ally](phantom-ally.md) | General | Phantom class feature |
 | [Phasestrike](phasestrike.md) | Combat, Conduit | Knowledge (planes) 10 ranks |
 | [Piercing Grapple](piercing-grapple.md) | Combat | Dex 13, Improved Grapple, Improved Unarmed Strike, Quick Draw, Intimidate 7 ranks |
 | [Pile On](pile-on.md) | Combat | Str 13, [Hurtful](hurtful.md), Power Attack |
@@ -2282,6 +2293,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Poppet Familiar](poppet-familiar.md) | — | Ability to acquire a new familiar, caster level 3rd |
 | [Porcupine Defense](porcupine-defense.md) | Combat | Combat Expertise, Combat Reflexes, base attack bonus +6 |
 | [Position of Strength](position-of-strength.md) | Combat | Intimidate 5 ranks |
+| [Possessed Hand](possessed-hand.md) | General | — |
 | [Potent Holy Symbol](potent-holy-symbol.md) | — | Good alignment, worshiper of a good deity |
 | [Potion Glutton](potion-glutton.md) | — | Worshiper of a deity of gluttony or undeath |
 | [Powerful Poisoning](powerful-poisoning.md) | — | Power Attack; Craft (poison) 3 ranks or poison use class feature |
@@ -2332,6 +2344,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Rending Swarm](rending-swarm.md) | Combat, Teamwork | Dex 15, [Rat Stack](rat-stack.md), swarming racial trait |
 | [Resistance Mastery](resistance-mastery.md) | Item Mastery | Use Magic Device 3 ranks, base Fortitude saving throw bonus +3 |
 | [Resisting Grappler](resisting-grappler.md) | Combat | Dex 13 |
+| [Respectful Prey](respectful-prey.md) | General | — |
 | [Restoration Mastery](restoration-mastery.md) | Item Mastery | Heal 5 ranks, Use Magic Device 5 ranks, base Fortitude saving throw bonus +3 |
 | [Restorative Vigor](restorative-vigor.md) | Combat | Con 15, Combat Vigor, character level 8th |
 | [Retributive Kick](retributive-kick.md) | Weapon Mastery | Improved Unarmed Strike, base attack bonus +5, weapon training class feature with a melee weapon |
@@ -2444,7 +2457,9 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Social Bravery](social-bravery.md) | Combat | Cha 13, bravery class feature |
 | [Solid Shadows](solid-shadows.md) | Metamagic | Spell Focus (illusion) |
 | [Sonic Croak](sonic-croak.md) | — | [Throat Pouch](throat-pouch.md), boggard, terrifying croak |
+| [Soulblade](soulblade.md) | Combat | Knowledge (religion) 1 rank, Perception 1 rank |
 | [Soulless Gaze](soulless-gaze.md) | Damnation | Patronage of an evil outsider |
+| [Soulwrecking Strike](soulwrecking-strike.md) | Combat | Vital Strike, base attack bonus +6 |
 | [Spear Dancer](spear-dancer.md) | Combat | Weapon Focus (any two-handed reach weapon), Perform (dance) 4 ranks |
 | [Spear Dancing Reach](spear-dancing-reach.md) | Combat | Dex 17, Spear Dancing Spiral, Spear Dancing Style, Two-Weapon Fighting, Weapon Finesse, Weapon Focus with the chosen weapon |
 | [Spear Dancing Spiral](spear-dancing-spiral.md) | Combat | Dex 15, Spear Dancing Style, Two-Weapon Fighting, Weapon Finesse, Weapon Focus with the chosen weapon |
@@ -2458,12 +2473,16 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Spell Trick](spell-trick.md) | Trick | Masterful tricks class feature, ability to cast 4th-level mesmerist spells |
 | [Spellcut](spellcut.md) | Weapon Mastery | Str 13, Cut from the Air, Power Attack, base attack bonus +9, Spellcraft 1 rank, weapon training class feature with a melee weapon |
 | [Spiked Destroyer](spiked-destroyer.md) | Combat | Proficient with armor spikes |
+| [Spirit Ally](spirit-ally.md) | General | Caster level 8th |
 | [Spirit Beacon](spirit-beacon.md) | — | Wis 15, Iron Will |
 | [Spirit Conduit](spirit-conduit.md) | Teamwork | Knowledge (religion) 3 ranks, human |
 | [Spirit of the Corps](spirit-of-the-corps.md) | Combat, Teamwork | — |
+| [Spirit Oni Master](spirit-oni-master.md) | General | Knowledge (planes) 3 ranks; lawful neutral, lawful evil, or neutral evil |
 | [Spirit Rebuke](spirit-rebuke.md) | — | Wis 17, Iron Will, Spirit Beacon, Diplomacy 5 ranks or Intimidate 5 ranks |
+| [Spirit Ridden](spirit-ridden.md) | General | — |
 | [Spirit Sight](spirit-sight.md) | — | Wis 15, Iron Will, Spirit Beacon |
 | [Spirit Symbiosis](spirit-symbiosis.md) | — | Ability to cast *speak with dead*, phantom class feature |
+| [Spiritual Training](spiritual-training.md) | General | — |
 | [Splash Weapon Mastery](splash-weapon-mastery.md) | Combat | — |
 | [Split Trick](split-trick.md) | Trick | Mesmerist trick class feature |
 | [Sprightly Armor](sprightly-armor.md) | Armor Mastery | Dex 13, base attack bonus +11 or fighter level 8th, armor training class feature, proficiency with light armor |
@@ -2505,6 +2524,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Street Sweep](street-sweep.md) | Combat | Str 15, Improved Bull Rush, Improved Unarmed Strike, Power Attack, Street Style, base attack bonus +6 or monk level 5th |
 | [Strength of Obligation](strength-of-obligation.md) | — | Must be devoted to a philosophy of responsibility and self-improvement and not worship any deities |
 | [Structural Strike](structural-strike.md) | Combat, Panache | Knowledge (engineering) 5 ranks, precise strike class feature or precise strike deed |
+| [Studied Expertise](studied-expertise.md) | General | Inspirational expertise investigator talent |
 | [Studied Spell](studied-spell.md) | Metamagic | — |
 | [Stumbling Bash](stumbling-bash.md) | Shield Mastery | Improved Shield Bash, Shield Focus, base attack bonus +6 or fighter level 4th |
 | [Stunning Croak](stunning-croak.md) | — | [Sonic Croak](sonic-croak.md), [Throat Pouch](throat-pouch.md), boggard, terrifying croak |
@@ -2513,6 +2533,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Stylized Spell](stylized-spell.md) | Metamagic | Bluff 5 ranks, Spellcraft 5 ranks |
 | [Stylized Spell Mastery](stylized-spell-mastery.md) | — | Spell Mastery, Stylized Spell, Bluff 5 ranks, Spellcraft 5 ranks |
 | [Stylized Spontaneity](stylized-spontaneity.md) | — | Bluff 5 ranks, Spellcraft 5 ranks |
+| [Subconscious Usurpation](subconscious-usurpation.md) | General | Base Will save bonus +2 |
 | [Subtle Devices](subtle-devices.md) | — | Stealthy |
 | [Subtle Enchantments](subtle-enchantments.md) | — | Deceitful, Spell Focus (enchantment) |
 | [Subtle Poisoner](subtle-poisoner.md) | — | Sleight of Hand 5 ranks |

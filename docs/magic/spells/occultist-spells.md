@@ -92,6 +92,7 @@ Occultists gain access to the following spells, determined by their chosen imple
 - **[Mount](mount.md)**: Summons riding horse for 2 hours/level.
 - Returning Weapon
 - **[Skim](skim.md)**: read in a quarter of the time
+- **[Skin Tag](skin-tag.md)**: Haunted food that lets you torment its eater from afar.
 - **[Spirit Share](spirit-share.md)**: Deliver a drink or potion by touch
 - **[Tears to Wine](tears-to-wine.md)**: Turn liquids into wine that sharpens the mind.
 - **[True Appraisal](true-appraisal.md)**: Gain insight into the value of objects
@@ -196,6 +197,7 @@ Occultists gain access to the following spells, determined by their chosen imple
 - **[Beacon of Guilt](beacon-of-guilt.md)**: Curse a thief to glow with red light
 - **[Billowing Skirt](billowing-skirt.md)**: A skirt or gown slows your fall.
 - **[Conditional Favor](conditional-favor.md)**: Provide another spell whose effects reverse if the target breaks a restriction.
+- **[Crafter's Nightmare](crafters-nightmare.md)**: Haunt sabotages crafting, ritual, and long-casting-time work.
 - **[Crimson Confession](crimson-confession.md)**
 - **[Debasing Touch](debasing-touch.md)**: Target's touch turns coins to copper.
 - **[Escape Alarm](escape-alarm.md)**: Ward an area to alert you when someone leaves
@@ -215,6 +217,7 @@ Occultists gain access to the following spells, determined by their chosen imple
 - **[Splinter Spell Resistance](splinter-spell-resistance.md)**: Your weapon lowers a foe's spell resistance by 5.
 - **[Surefoot Boots](surefoot-boots.md)**: Footwear grants perfect balance.
 - **[Sympathetic Aura](sympathetic-aura.md)**: Magic aura that also covers similar nearby items.
+- **[Unsettling Presence](unsettling-presence.md)**: Haunt breeds paranoia and worsens attitudes.
 - **[Violent Accident](violent-accident.md)**: Curse a creature to suffer a damaging accident within 24 hours.
 - **[Wicker Horse](wicker-horse.md)**: Animate plants into a riding horse
 - **[Winged Sword](winged-sword.md)**: A melee weapon gains the throwing special ability.

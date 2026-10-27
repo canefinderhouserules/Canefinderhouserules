@@ -129,6 +129,7 @@
 - **[Chill Metal](chill-metal.md)**: Cold metal damages those who touch it.
 - **[Compel Tongue](compel-tongue.md)**: Target can speak and write only in one imparted language.
 - **[Control Vermin](control-vermin.md)**: Control vermin as if they were animals
+- **[Crafter's Nightmare](crafters-nightmare.md)**: Haunt sabotages crafting, ritual, and long-casting-time work.
 - **[Curse Terrain, Lesser](curse-terrain-lesser.md)**: Curse an area with three mild hazards.
 - **[Delay Disease](delay-disease.md)**: The target becomes temporarily immune to disease.
 - **[Delay Poison](delay-poison.md)**: Stops poison from harming subject for 1 hour/level.
@@ -331,6 +332,7 @@
 - **[Flame Strike](flame-strike.md)**: Smites foes with divine fire (1d6/level damage).
 - **[Forest’s Sense](forests-sense.md)**: Sense the location of a distant target that is near a plant or fungus.
 - **[Freedom of Movement](freedom-of-movement.md)**: Subject moves normally despite impediments to movement.
+- **[Frigid Souls](frigid-souls.md)**: Haunt strips protection against cold.
 - **[Giant Vermin](giant-vermin.md)**: Turns centipedes, scorpions, or spiders into giant vermin.
 - **[Healing Warmth](healing-warmth.md)**: This spell grants you temporary immunity to fire damage as protection from energy.
 - **[Heavy Water](heavy-water.md)**: water becomes hard to swim through and slows ships

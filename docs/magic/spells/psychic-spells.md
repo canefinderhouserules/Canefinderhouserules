@@ -221,6 +221,7 @@ Psychics gain access to the following spells. Spells without a link come from ot
 - **[Compulsive Liar](compulsive-liar.md)**: Prevent target from speaking the truth.
 - **[Confess](confess.md)**: Creature answers question truthfully or takes 1d6 damage/two levels (max 5d6).
 - **[Contact Entity I](contact-entity-i.md)**: Ask eldritch entities to find and converse with you.
+- **[Crafter's Nightmare](crafters-nightmare.md)**: Haunt sabotages crafting, ritual, and long-casting-time work.
 - **[Create Treasure Map](create-treasure-map.md)**
 - **[Crimson Confession](crimson-confession.md)**
 - **[Cushioning Bands](cushioning-bands.md)**: Force bands protect against crushing.
@@ -376,6 +377,7 @@ Psychics gain access to the following spells. Spells without a link come from ot
 - **[Undetectable Alignment](undetectable-alignment.md)**: Conceals alignment for 24 hours.
 - **[Unnatural Lust](unnatural-lust.md)**: Target is compelled to kiss or caress another creature.
 - Warding Weapon
+- **[Unsettling Presence](unsettling-presence.md)**: Haunt breeds paranoia and worsens attitudes.
 - **[Whispering Wind](whispering-wind.md)**: Sends a short message 1 mile/level.
 - **[Zone of Truth](zone-of-truth.md)**: Subjects within range cannot lie.
 
@@ -447,6 +449,7 @@ Psychics gain access to the following spells. Spells without a link come from ot
 - **[Helping Hand](helping-hand.md)**: Ghostly hand leads subject to you.
 - **[Heroism](heroism.md)**: Gives +2 bonus on attack rolls, saves, skill checks.
 - Hostile Levitation
+- **[Horrifying Visage](horrifying-visage.md)**: Haunt gives victims a phobia of a named thing.
 - **[Id Insinuation II](id-insinuation-ii.md)**: As id insinuation I, but affects two creatures and has a stronger confusion effect.
 - **[Illusory Script](illusory-script.md)**: Only select creatures can read text.
 - **[Implanted Projection](implanted-projection.md)**: A telempathic projection triggered later by a command word.

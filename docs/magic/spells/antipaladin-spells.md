@@ -74,6 +74,7 @@ New antipaladin spells from *Ultimate Magic*. Spells from other books will be ad
 - **[Garrulous Grin](garrulous-grin.md)**: Target seems guilty and takes –4 on Bluff and Diplomacy.
 - **[Ghoul Hunger](ghoul-hunger.md)**: Target is compelled to eat a helpless or dead humanoid.
 - **[Hidden Blades](hidden-blades.md)**: Weapon becomes invisible and easy to conceal.
+- **[Hungering Beacon](hungering-beacon.md)**: Haunt draws the attention of ravenous undead.
 - **[Ignoble Form](ignoble-form.md)**: a drow takes on a half-elf's form
 - **[Improve Trap](improve-trap.md)**: When this spell is cast upon a trap, it improves one specific element of the trap chosen at the time of.
 - **[Inflict Pain](inflict-pain.md)**: Target takes a –4 penalty on attack rolls, skill checks, and ability checks.

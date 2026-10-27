@@ -375,6 +375,30 @@ Somewhere in your family’s history, a relative made a deal with a devil, and t
 
 *Power of the Pit* *(Su)*: At 20th level, your form becomes infused with vile power. You gain immunity to fire and poison. You also gain resistance to acid 10 and cold 10, and the ability to see perfectly in darkness of any kind to a range of 60 feet.
 
+## Possessed
+
+Possessed sorcerers channel their magic potential through a unique bond with a possessing spirit rather than through blood alone. These spirits take numerous forms, but such is their tenaciousness that they bond in a way that prevents their banishment from the host. Instead, both possessor and sorcerer work together, their joint nature allowing the sorcerer to unlock many unnatural abilities. The magical nature of a sorcerer's bloodline means the sorcerer herself does not even need to be the creature initially possessed to have this particular bloodline. It may be that one of your ancestors was possessed by a powerful spirit, one whose presence was so overwhelming that it sends ripples of power down through the generations.
+
+**Class Skill**: Knowledge (religion).
+
+**Bonus Spells**: Anticipate peril (3rd), share memory (5th), purge spirit (7th), entrap spirit (9th), possession (11th), telepathy (13th), insanity (15th), bilocation (17th), divide mind (19th).
+
+**Bonus Feats**: Combat Casting, Deceitful, Fearsome Spell, Improved Iron Will, Iron Will, Persuasive, Selective Spell, Skill Focus (Bluff), Spell Focus, Traumatic Spell.
+
+**Bloodline Arcana**: Whenever you cast a non-cantrip spell, you can roll the next Will save you attempt against a mind-affecting effect before your next turn twice and take the better result. If you have already failed a save against a mind-affecting effect, you can instead attempt another Will save against that ongoing mind-affecting effect after successfully casting your spell. You can use this ability only once against a given mind-affecting effect. You can use this ability a number of times per day equal to 3 + your Charisma modifier.
+
+**Bloodline Powers**: The mystical connection with your possessing spirit allows you to gain more control over your body and mind.
+
+**Aggressive Possession (Sp)**: At 1st level, you can make a melee touch attack as a standard action. The target must succeed at a Will save or be confused for 1 round. The save DC is equal to 10 + 1/2 your sorcerer level + your Charisma modifier. You can use this ability a number of times per day equal to 3 + your Charisma modifier.
+
+**Sight Unseen (Sp)**: At 3rd level, you gain darkvision with a range of up to 30 feet. If you already have darkvision, its range instead increases by 30 feet. At 9th level, you gain lifesense with a range of 30 feet (lifesense allows you to sense and locate living creatures as if you had the blindsight ability).
+
+**Inside Agent (Sp)**: At 9th level, you can reroll any Perception check you just attempted by allowing your possessing spirit to take further control. You take a –2 penalty on all other skill checks for the following minute as the spirit interferes with your concentration. At 13th level, you can reroll any other skill check, but the penalty for using the ability in this way increases to –4 for the following 10 minutes. You must reroll the check before you learn the result of your original check, and cannot use this power while the skill check penalty associated with inside agent is imposed on you.
+
+**One Body, Two Minds (Sp)**: At 15th level, once per day, you can improve the effectiveness of a single spell by having your possessing spirit channel that spell. The spell acts as though it were affected by both the Silent Spell and Still Spell metamagic feats. If the spell chosen is a mind-affecting spell, it also benefits from the Extend Spell metamagic feat. This ability does not use up a spell slot higher than the level of the base spell, nor does it increase the level of the base spell.
+
+**Dual Spirit (Su)**: At 20th level, you gain immunity to mind-affecting effects. Whenever you successfully employ a possession effect (such as *magic jar* or *possession*), you remain in complete control of your body and the body of your possessed target.
+
 ## Psychic
 
 Psychic power runs thorough your blood, whether it be from a familial predisposition to psychic power or exposure to a powerful psychic phenomenon. Whatever the source of this power, your mind is a dangerous weapon.

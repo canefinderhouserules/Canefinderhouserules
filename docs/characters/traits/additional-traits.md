@@ -423,6 +423,12 @@ These traits are associated with magic and focus on spellcasting and manipulatin
 
 **Eldritch Auditor**: You are a magically adept merchant who has learned tricks to protect your own goods, or you serve a city as an impartial auditor who guards against arcane trickery in the bazaars. You gain a +2 trait bonus on Spellcraft checks and Will saves to identify an item's true properties, such as against spells like *magic aura*.
 
+**Guiding Spirit**: Few understand the medium's willingness to harbor powerful spirits, but even if you aren't one of these talented few, you've always identified with their abilities. You've always felt that you were not alone in this world and that a mysterious guiding spirit watches over you with singular focus. Once per day as a swift action, you can look to your guiding spirit for advice. The next time you roll a d20 in that same round, roll twice and pick the better result. If one of these two rolls is a natural 20, you can use this ability again that same day.
+
+**Ancestral Meditant**: Ancestral shamans learned to listen to and affect the world around them by reflecting on the friction between body and spirit. As someone who feels a similar friction between your inner spirit and physical body, you have picked up some old meditation techniques. While you suffer a physical ailment, such as disease, poison, or ability damage to Strength, Dexterity, or Constitution (but not including hit point damage), you gain a +2 trait bonus on Will saving throws. While you suffer a mental ailment, including insanity, any charm or compulsion effect, or ability damage to Intelligence, Wisdom, or Charisma, you gain a +2 trait bonus on Fortitude saving throws.
+
+**Spiritual Attachment**: The union between spirits and spiritualists is one of the strongest (and strangest) bonds shared between the mortal realm and the spirit world. Whether you're a spiritualist or not, you've always had a knack when it comes to interactions with the spirit world. You gain a +4 trait bonus on checks to notice haunts, and when interacting with someone who is possessed by an incorporeal undead creature, you gain a +2 trait bonus on Bluff, Diplomacy, Intimidate, and Sense Motive checks against that target.
+
 ## Social Traits
 
 Social traits reflect your upbringing; your background in high society or lack thereof; and your history with respect to your parents, siblings, friends, competitors, and enemies.

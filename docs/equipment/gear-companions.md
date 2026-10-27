@@ -2115,3 +2115,53 @@ It takes 2 to 4 weeks for printers reproducing large images or those who have on
 **Price** Untrained 3 sp per day; skilled 3 gp per day; trained 1 gp per day; masterful 10 gp per day; **Weight** —
 
 A crier can be hired to spread a rumor. An untrained crier usually has a +0 bonus on propaganda checks. A trained crier usually has a +5 bonus on propaganda checks. A skilled crier usually has a +10 bonus on propaganda checks. A masterful crier is rare and usually has a +12 bonus on propaganda checks. If they are available, multiple criers can be hired to spread a single rumor; they attempt a single propaganda check together and gain a +1 bonus for every doubling of their numbers (+1 for two, +2 for four, +3 for eight, +4 for 16, or a maximum of +5 for 32 criers).
+
+## Spirit-Hunting and Hoaxers' Gear
+
+### False Ectoplasm
+
+**Price** 2 gp; **Weight** 2 lbs.
+
+Once exposed to air, this greenish alchemical sludge quickly takes on a faint glow. This glow provides dim illumination in the area immediately surrounding the fist-sized lump of false ectoplasm. This glow-in-the-dark effect lasts for 1 hour before the substance begins to decompose into a brownish goo. A successful DC 20 Sleight of Hand check allows a user to open a vial of false ectoplasm and deposit it on an adjacent surface as a move action; a successful opposed Perception check is enough to notice this trickery.
+
+### Mindburn Incense
+
+**Price** 50 gp; **Weight** —
+
+The scent of this light brown incense carries a distinct tang of peppermint oil. Once the incense is lit in a censer or appropriate container, its smoke permeates a 20-foot-by-20-foot area to a height of 10 feet. Living creatures within the area that breathe the incense fumes for more than 1 minute gain a +1 morale bonus on saves against pain effects, while taking a –1 penalty on saves against mind-affecting effects. This effect lasts for as long as the creature remains within the area of the incense, and for an additional minute after leaving. The incense burns for 1 hour before dissipating, unless dispersed before then by wind.
+
+### Pump Organ
+
+**Price** 2,000 gp; **Weight** 100 lbs.
+
+This large mobile keyboard instrument resembles a strange chair with several brass tubes jutting from its back and small wheels on the feet for ease of transportation. A pump organ can seat a single Medium creature, which can operate the keyboard and pedals to create haunting melodies out of the brass pipework along the organ's back frame. All pump organs function as masterwork instruments for Perform (keyboard instruments) checks. With 10 minutes of work and a successful DC 15 Perform (keyboard instruments) check, a user can manipulate the pump organ's controls to create a 1-minute-long performance that does not require an operator—the pump organ can be set to activate after a preset duration via a timer (up to 24 hours) or to begin when a remote trigger is activated. The trigger can be connected to the pump organ via a set of pulleys and twine normally stored in a compartment under the organ's seat cushion with a successful DC 15 Disable Device check. The remote trigger can be placed up to 60 feet from the pump organ.
+
+### Haunt Detector
+
+**Price** 25 gp; **Weight** 4 lbs.
+
+This unique instrument is composed of a 1-foot-long, sealed glass tube filled with a clear alchemical solution. Eight smaller glass vessels, each containing a different uniquely colored liquid, float within the primary tube. As temperatures change in the atmosphere surrounding the haunt detector, the interior vessels rise and fall in proportion to the density of their respective liquids. Observation of a haunt detector's fluctuations grants a +2 competence bonus on Perception checks to notice haunts or the presence of creatures with the cold or fire subtypes.
+
+### Quicksilver Barometer
+
+**Price** 400 gp; **Weight** 12 lbs.
+
+A quicksilver barometer consists of a slender glass tube, closed at the top, containing an open, mercury-filled base. Many quicksilver barometers are fitted into elegant or even outlandishly ornate housings made of precious materials. Such housings are not necessary for the device to function, and serve only to increase the base price of the tool into the realm of an art object's value. The device interacts with atmospheric pressure, causing the mercury within the glass tube to lower or rise based on external pressure and temperature. It takes 3 rounds for a quicksilver barometer to settle once placed on a flat surface. While this device is normally used to measure and observe local temperature fluctuations (if used in this manner and studied for at least 10 minutes, a quicksilver barometer grants a +4 circumstance bonus on Survival checks to predict the weather), it also functions in a method similar to a haunt detector, but with greater accuracy—a quicksilver barometer grants a +4 circumstance bonus on Perception checks to notice haunts.
+
+### Repellent Salts
+
+**Price** 100 gp; **Weight** 1/2 lb.
+
+This fine alchemical salt has been developed to work against particular types of foes. A batch of repellent salts is attuned to undead or a selected outsider race, such as angels, demons, or devils. As a full-round action that provokes attacks of opportunity, a dose of repellent salts can be applied to a 5-foot-square area that functions as difficult terrain for the salt's attuned creature type. Any creature can sweep the salts aside as a move action (or as a full-round action for an attuned creature, which deals that creature 2d4 points of acid damage in the process); moderate wind also disperses all repellent salts in a square (including the draft created by a winged creature of at least Medium size that flies within 5 feet of the salts). Alternatively, a vial of repellent salts can be used as a splash weapon against the target creature, with a successful hit dealing 2d4 points of acid damage to the creature struck (or 1 point to an attuned creature within 5 feet of the target and thus exposed to the attack's splash).
+
+### Storm Glass
+
+**Price** 80 gp; **Weight** 5 lbs.
+
+Heavy gray mist fills the interior of a storm glass, a receptacle lined with thin metal strips and equipped with metal tuning forks jutting from inside the top and bottom of the glass. The forks are attuned to the Material Plane and can detect planar anomalies or intrusions, specifically the presence of outsiders. The mist within a storm glass changes coloration after 1 minute of being within 60 feet of a nonnative outsider (including creatures possessed by nonnative outsiders), and grants a +2 circumstance bonus on Knowledge (planes) checks to identify such creatures. The color change lasts as long as the jar remains within range of an outsider and for 1d4+1 rounds after leaving the area. Removing the storm glass from the Material Plane (including placing it in extraplanar containers such as a portable hole) causes the gas to permanently revert to a colorless, inert vapor.
+
+### Spirit Compass
+
+**Price** 20 gp; **Weight** 1 lb.
+
+This device resembles an ordinary compass, save that it is filled with alcohol and water, in which bob two pieces of alchemically treated metal (one silver and one iron). A spirit compass can be operated by a creature so as to allow the user to employ Survival in place of Perception to notice haunts (it provides no benefit toward detecting those unusual haunts that are not noticed by Perception checks). A creature that is untrained in Survival takes a –4 penalty on any Survival checks when attempting to use a spirit compass in this manner, representing the action of focusing on the compass rather than one's surroundings.

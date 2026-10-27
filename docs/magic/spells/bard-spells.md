@@ -184,6 +184,7 @@
 - **[Contagious Zeal](contagious-zeal.md)**: Grant bonuses and temporary hit points that spread from creature to creature.
 - **[Contest of Skill](contest-of-skill.md)**: Target’s critical threats fail to confirm.
 - **[Covetous Urge](covetous-urge.md)**: Curse a creature to steal valuables
+- **[Crafter's Nightmare](crafters-nightmare.md)**: Haunt sabotages crafting, ritual, and long-casting-time work.
 - **[Cure Moderate Wounds](cure-moderate-wounds.md)**: Cures 2d8 damage + 1/level (max +10).
 - **[Dark Whispers](dark-whispers.md)**: Whisper through the shadows.
 - **[Darkness](darkness.md)**: 20-ft. radius of supernatural shadow.
@@ -300,6 +301,7 @@
 - **[Trail of the Rose](trail-of-the-rose.md)**: Leave a trail only you and chosen allies can see.
 - **[Trapfinder’s Focus](trapfinders-focus.md)**: Gain trapfinding or +5 on Disable Device.
 - **[Umbral Weapon](umbral-weapon.md)**: Reroll missed attacks for cold damage.
+- **[Unsettling Presence](unsettling-presence.md)**: Haunt breeds paranoia and worsens attitudes.
 - **[Urban Step](urban-step.md)**: Step into one doorway and out another.
 - **[Voluminous Vocabulary](voluminous-vocabulary.md)**: Grant ability to speak, read, and write one or more languages for 8 hours.
 - **[Whip of Spiders](whip-of-spiders.md)**: Whiplike spider swarm deals swarm damage by touch.
@@ -360,6 +362,7 @@
 - **[Gullibility](gullibility.md)**: target believes lies more readily
 - **[Haste](haste.md)**: One creature/level moves faster, receives +1 on attack rolls, AC, and Reflex saves.
 - **[Hollow Heroism](hollow-heroism.md)**: Provide a *heroism* effect that you can reverse at any time.
+- **[Horrifying Visage](horrifying-visage.md)**: Haunt gives victims a phobia of a named thing.
 - **[Hypercognition](hypercognition.md)**: Rapidly recall everything you know about a subject.
 - **[Illusory Script](illusory-script.md)**: Only select creatures can read text.
 - **[Infuse Self](infuse-self.md)**: Assume the form of a native outsider
@@ -469,6 +472,7 @@
 - **[Legend Lore](legend-lore.md)**: Lets you learn tales about a person, place, or thing.
 - **[Locate Creature](locate-creature.md)**: Indicates direction to known creature.
 - **[Majestic Image](majestic-image.md)**: As *enter image*, but also gain bonuses on social skills while in the image.
+- **[Mischievous Shadow](mischievous-shadow.md)**: Shadows of victims interfere with their actions.
 - **[Modify Memory](modify-memory.md)**: Changes 5 minutes of subject’s memories.
 - **[Neutralize Poison](neutralize-poison.md)**: Immunizes subject against poison, detoxifies venom in or on subject.
 - **[Nixie’s Lure](nixie-s-lure.md)**: This spell creates an unearthly and infectious song that seductively summons all who hear it.
