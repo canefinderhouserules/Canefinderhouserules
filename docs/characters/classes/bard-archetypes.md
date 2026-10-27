@@ -68,6 +68,24 @@ This poem of sadness and longing was developed by a bard seeking a way to fight 
 
 **Action**: 1 full round.
 
+### Lament of the Reluctant Scholar (Oratory)
+
+### Lament of the Reluctant Scholar (Oratory)
+
+This collection of brooding poetry expresses a young archer's frustration over her overbearing parents' desire for her to become a spellcaster. Her in-depth analysis of their struggles and failings provides great insight into reading and memorizing spells from a spellbook.
+
+**Prerequisites**: Perform (oratory) 3 ranks.
+
+**Cost**: Feat or 1st-level spell known or higher (see text).
+
+**Effect**: Rather than a single work, this masterpiece is a collection of poems from the author's days living under her scholarly parents, who both desperately wanted their daughter to pursue the art of wizardry. Despite the poems' wry tone and the overall distaste for book-learning they proclaim, the verse perfectly documents the process of memorizing arcane spells. When you gain this masterpiece, it becomes associated with your bard spells of a specific spell level. If you paid the masterpiece's cost by spending a bard spell you know, the masterpiece is associated with spells of the spent spell's level. If you paid the masterpiece's cost by spending a feat, you choose one bard spell level that you are able to cast with which to associate the masterpiece.
+
+In order to perform this masterpiece, you must be holding a spellbook, scroll, or a similar piece of arcane writing to consult. After completing the masterpiece, choose one arcane spell from your bard spell list or from the sorcerer/wizard spell list that is written on the arcane writing that you consulted during the masterpiece. If the spell is on your bard spell list, it must be of the same level (or lower) as the spell level associated with this masterpiece. If the spell is not on your bard spell list, its level must be at least 2 spell levels lower than the spell level associated with this masterpiece. Add the chosen spell to the bard spell list and to your list of bard spells known until the next time that you rest and regain spells. If you use a spellbook with a preparation ritual to perform the masterpiece, you also gain the boon associated with that spellbook, as if you had prepared a spell from it. You can add up to one spell per spell level that you have selected with this masterpiece to your list of bard spells known each day. You can gain this masterpiece multiple times. Each time, you must apply it to a different bard spell level.
+
+**Use**: 3 rounds of bardic performance per level of the spell.
+
+**Action**: 1 hour of meditation.
+
 ### Pageant of the Peacock (Act, Dance)
 
 Your elegant movements cause you to seem to be more than you are.
@@ -1465,3 +1483,19 @@ Studied in venomous words as well as venomous blood, a disciple of the forked to
 *Venomous Whispers (Su)*: At 9th level, a disciple of the forked tongue can use his performance to sow distrust into the mind of an enemy within 30 feet. An affected creature treats its allies as hostile for the purposes of their spells and abilities—it is never considered a willing target of spells and must attempt saving throws against them when possible, and it gains no benefit from allied bardic performances and other abilities that specifically target allies. For every 3 levels a disciple of the forked tongue has beyond 9th, he can target one additional enemy while using this performance (up to a maximum of four at 18th level). This replaces inspire greatness.
 
 **Serpent of the Mind (Su)**: A disciple of the forked tongue can add one spell with the curse descriptor from the spell list of any spellcasting class to his list of spells known at 2nd level and every 4 levels thereafter. This replaces versatile performance.
+
+## Longbow Minstrel
+
+Originating from the wooded wilds, longbow minstrels combine the elven traditions of archery, song, and spellcasting into a seamless harmony of dazzling magical effects. This archetype represents an amalgam of arcane advice on opposing spellcasters, and a strong preference for archery.
+
+**Weapon Proficiency**: A longbow minstrel is proficient with longbows, but not the longsword, rapier, or whip. This alters the bard's weapon proficiencies.
+
+**Diminished Spellcasting**: A longbow minstrel casts one fewer spell of each level than normal. If this reduces the number to 0, she can cast spells of that level only if her Charisma score allows bonus spells of that level. This alters the bard's spellcasting.
+
+**Arcane Archery**: A longbow minstrel's skill at ranged martial arts allows her to learn to cast a number of powerful, offensive spells that would otherwise be unavailable to her. At 1st level, she selects a number of spells from the sorcerer/wizard spell list equal to her Charisma modifier (minimum 1) and adds them to her bard spell list as bard spells of the same level. The spells selected must not already be on the bard spell list, and must be 6th level or lower. At 4th level and every 4 bard levels thereafter, she adds an additional sorcerer/wizard spell to her bard spell list. A longbow minstrel is limited to the following spells when adding spells to her spell list in this manner: *acid arrow*, *arrow eruption*, *flame arrow*, *gravity bow*, *greater magic weapon*, *longshot*, *magic weapon*, *protection from arrows*, *spectral hand*, *true strike*, and sorcerer/wizard spells of the evocation school. A longbow minstrel must still select these spells as spells known before she can cast them.
+
+In addition, for the purpose of meeting the requirements of combat feats and prestige classes, a longbow minstrel treats her bard level as her base attack bonus (in addition to base attack bonuses gained from other classes and Hit Dice). Her skilled blending of archery and arcane magic also allows a longbow minstrel to fulfill a spell's somatic components even when using a bow in both hands (though not other ranged weapons). This ability replaces bardic knowledge, dirge of doom, distraction, fascinate, inspire competence, lore master, and soothing performance.
+
+**Precise Minstrel (Ex)**: At 2nd level, a longbow minstrel gains Precise Shot as a bonus feat. In addition, any creature that is affected by any of the longbow minstrel's bardic performance does not provide soft cover to enemies against her ranged attacks with a bow. This ability replaces the versatile performance gained at 2nd level and well-versed.
+
+**Bowsong Strike (Su)**: At 6th level, a longbow minstrel can use spellstrike (as per the magus class feature) to cast a single-target ranged touch attack spell and deliver it through a ranged weapon attack. Even if the spell can normally affect multiple targets, only a single missile, ray, or effect accompanies the attack. She cannot use spellstrike with normal touch attacks or melee attacks. At 18th level, a longbow minstrel using a multiple-target spell with this ability can deliver one ray or line of effect with each attack when using a full-attack action, up to the maximum allowed by the spell (in the case of ray effects). Any effects not used in the round the spell is cast are lost. This ability replaces suggestion and mass suggestion.

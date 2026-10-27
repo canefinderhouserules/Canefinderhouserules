@@ -112,6 +112,7 @@ Psychics gain access to the following spells. Spells without a link come from ot
 - **[Ki Arrow](ki-arrow.md)**: Arrow deals damage as your unarmed strike.
 - Liberating Command
 - Lock Gaze
+- **[Linked Legacy](linked-legacy.md)**: Share Knowledge check results with the linked creatures.
 - **[Long Arm](long-arm.md)**: Your arms lengthen, giving you extra reach.
 - Longshot
 - **[Mage Armor](mage-armor.md)**: Gives subject +4 armor bonus.
@@ -241,6 +242,7 @@ Psychics gain access to the following spells. Spells without a link come from ot
 - **[Find Traps](find-traps.md)**: Notice traps as a rogue does.
 - Fleshy Facade
 - **[Focused Scrutiny](focused-scrutiny.md)**: Gain skill bonuses when interacting with the target.
+- **[Force Sword](force-sword.md)**: Create a longsword of pure force.
 - **[Fox’s Cunning](foxs-cunning.md)**: Subject gains +4 to Int for 1 min./level.
 - **[Garrulous Grin](garrulous-grin.md)**: Target seems guilty and takes –4 on Bluff and Diplomacy.
 - **[Ghost Whip](ghost-whip.md)**: Create a ghost touch whip that passes through objects.
@@ -249,6 +251,7 @@ Psychics gain access to the following spells. Spells without a link come from ot
 - **[Haunting Mists](haunting-mists.md)**: Creatures are shaken and take Wis damage.
 - **[Haunting Reminder](haunting-reminder.md)**: Coerced target becomes shaken if it betrays you.
 - **[Heat Metal](heat-metal.md)**: Makes metal so hot it damages those who touch it.
+- **[Heckle](heckle.md)**: Sour a target's mood and impose –2 penalties.
 - **[Hidden Knowledge](hidden-knowledge.md)**: Store knowledge in a tattoo, forgetting it temporarily.
 - **[Hidden Presence](hidden-presence.md)**: Prevent creatures from noticing your presence.
 - **[Hidden Speech](hidden-speech.md)**: Gain +10 on Bluff to send secret messages.
@@ -257,6 +260,7 @@ Psychics gain access to the following spells. Spells without a link come from ot
 - **[Hold Person](hold-person.md)**: Paralyzes one humanoid for 1 round/level.
 - **[Hoodwink](hoodwink.md)**: Befuddle targets so they can be led away
 - **[Howling Agony](howling-agony.md)**: Screaming pain limits the target’s actions.
+- **[Human Potential](human-potential.md)**: Target chooses one ability score and gains +2.
 - **[Hypercognition](hypercognition.md)**: Rapidly recall everything you know about a subject.
 - **[Hypnotic Pattern](hypnotic-pattern.md)**: Fascinates 2d4 + level HD of creatures.
 - **[Id Insinuation I](id-insinuation-i.md)**: Confuse one creature for the duration of your concentration + 1 round.
@@ -338,6 +342,7 @@ Psychics gain access to the following spells. Spells without a link come from ot
 - **[Spectral Hand](spectral-hand.md)**: Creates disembodied glowing hand to deliver touch attacks.
 - **[Spider Climb](spider-climb.md)**: Grants ability to walk on walls and ceilings.
 - Spontaneous Immolation
+- **[Splinter Spell Resistance](splinter-spell-resistance.md)**: Your weapon lowers a foe's spell resistance by 5.
 - **[Status](status.md)**: Monitors condition, position of allies.
 - Steal Breath
 - **[Steal Voice](steal-voice.md)**: Target gains the croaking spellblight.
@@ -395,6 +400,7 @@ Psychics gain access to the following spells. Spells without a link come from ot
 - Darkvision, Communal
 - **[Daze, Mass](daze-mass.md)**: As daze, but affecting multiple creatures.
 - **[Deep Slumber](deep-slumber.md)**: Puts 10 HD of creatures to sleep.
+- **[Deft Digits](deft-digits.md)**: Animate a glove to manipulate objects at a distance.
 - **[Demanding Message](demanding-message.md)**: Send messages as per *message* with a *suggestion* for one creature.
 - **[Devolution](devolution.md)**: Target eidolon temporarily loses 1 evolution +1/five levels.
 - **[Dispel Magic](dispel-magic.md)**: Cancels one magical spell or effect.
@@ -410,9 +416,11 @@ Psychics gain access to the following spells. Spells without a link come from ot
 - **[Excruciating Deformation](excruciating-deformation.md)**: Target takes Dex and Con damage.
 - Fearsome Duplicate
 - **[Feather Step, Mass](feather-step-mass.md)**: As feather step, but affects many targets rather than one.
+- **[Find Fault](find-fault.md)**: Learn a creature's weaknesses and gain +5 on your first attack.
 - **[Fly](fly.md)**: Subject flies at speed of 60 ft.
 - **[Force Punch](force-punch.md)**: Target takes 1d4 force damage per level and is pushed away.
 - **[Gaseous Form](gaseous-form.md)**: Subject becomes insubstantial and can fly slowly.
+- **[Guardian Monument, Lesser](guardian-monument-lesser.md)**: Humans defending the area gain DR 2/magic.
 - **[Guardian Wasps](guardian-wasps.md)**: A wasp swarm builds a nest that guards an area.
 - **[Guarding Knowledge](guarding-knowledge.md)**: +4 insight bonus on saves against one identified monster special attack.
 - **[Guiding Star](guiding-star.md)**: Know approximate distance from where you cast this spell.
@@ -446,6 +454,7 @@ Psychics gain access to the following spells. Spells without a link come from ot
 - **[Nondetection](nondetection.md)**: Hides subject from divination, scrying.
 - **[Object Possession, Lesser](object-possession-lesser.md)**: Project your soul into an object, animating it.
 - Pellet Blast
+- **[Perfect Placement](perfect-placement.md)**: Allies gain +1 insight to AC and Reflex saves.
 - **[Phantasmal Affliction](phantasmal-affliction.md)**: Convince a target that it contracted an affliction.
 - **[Phantasmal Reminder](phantasmal-reminder.md)**: Recall of past wounds deals damage.
 - **[Pierce Disguise](pierce-disguise.md)**: See through low-level magical disguises.
@@ -475,6 +484,7 @@ Psychics gain access to the following spells. Spells without a link come from ot
 - **[Speak with Dead](speak-with-dead.md)**: Corpse answers one question/two levels.
 - Spider Climb, Communal
 - **[Spellcurse](spellcurse.md)**: Deals 1d6 damage per ongoing spell on the target.
+- **[Stage Fright](stage-fright.md)**: Targets take –4 on ability, skill, and concentration checks.
 - **[Strangling Hair](strangling-hair.md)**: Your hair animates and grapples.
 - **[Stunning Barrier, Greater](stunning-barrier-greater.md)**
 - **[Summon Monster III](summon-monster-iii.md)**: (Evil creatures only.) Summons extraplanar creature to fight for you.
@@ -486,6 +496,7 @@ Psychics gain access to the following spells. Spells without a link come from ot
 - **[Tongues](tongues.md)**: Speak and understand any language.
 - Touch Injection
 - Transfer Regeneration
+- **[Tough Crowd](tough-crowd.md)**: Allies resist the next enchantment or illusion and manipulation.
 - **[Twilight Knife](twilight-knife.md)**: Floating knife attacks with you.
 - **[Unadulterated Loathing](unadulterated-loathing.md)**: Target is compelled to avoid another creature.
 - **[Vampiric Touch](vampiric-touch.md)**: Touch deals 1d6 damage/2 levels; caster gains damage as temporary hp.
@@ -526,6 +537,7 @@ Psychics gain access to the following spells. Spells without a link come from ot
 - **[Contingent Scroll](contingent-scroll.md)**
 - **[Control Summoned Creature](control-summoned-creature.md)**: Direct a summoned monster as if you had summoned it.
 - **[Coordinated Effort](coordinated-effort.md)**: Grants a teamwork feat you have.
+- **[Create Armaments](create-armaments.md)**: Create a nonmagical weapon, shield, or armor.
 - **[Create Mindscape](create-mindscape.md)**: Form an immersive mindscape.
 - **[Crushing Despair](crushing-despair.md)**: Subjects take –2 on attack rolls, damage rolls, saves, and checks.
 - **[Curse of Burning Sleep](curse-of-burning-sleep.md)**: Creature catches fire the next time it sleeps for an hour.
@@ -555,6 +567,7 @@ Psychics gain access to the following spells. Spells without a link come from ot
 - **[Fool's Teleport](fools-teleport.md)**: Turn invisible while appearing to have teleported away.
 - **[Force Hook Charge](force-hook-charge.md)**: Hook of force drags you to the target.
 - Forgetful Slumber
+- **[Foretell Failure](foretell-failure.md)**: Learn whether an action would succeed on a roll of 10.
 - **[Freedom of Movement](freedom-of-movement.md)**: Subject moves normally despite impediments to movement.
 - **[Geas, Lesser](geas-lesser.md)**: Commands subject of 7 HD or less.
 - Ghost Wolf
@@ -688,6 +701,7 @@ Psychics gain access to the following spells. Spells without a link come from ot
 - **[Flexile Curse](flexile-curse.md)**: Curse degrades worn armor and shields.
 - **[Forbid Action, Greater](forbid-action-greater.md)**: As forbid action, but 1 creature/level.
 - Half-blood Extraction
+- **[Guardian Monument, Greater](guardian-monument-greater.md)**: Humans defending the area gain DR 4/magic.
 - **[Hold Monster](hold-monster.md)**: As *hold person*, but any creature.
 - Hostile Juxtaposition
 - **[Id Insinuation IV](id-insinuation-iv.md)**: As id insinuation I, but affects four creatures and you select the confusion effect.
@@ -812,6 +826,7 @@ Psychics gain access to the following spells. Spells without a link come from ot
 - **[Getaway](getaway.md)**: Teleports you and select creatures to predetermined location.
 - **[Globe of Invulnerability](globe-of-invulnerability.md)**: As *lesser globe of invulnerability*, plus 4th-level spell effects.
 - **[Heroism, Greater](heroism-greater.md)**: Gives +4 bonus on attack rolls, saves, skill checks; immunity to fear; temporary hp.
+- **[Human Potential, Mass](human-potential-mass.md)**: As human potential, affecting multiple creatures.
 - **[Incorporeal Chains](incorporeal-chains.md)**: Grapple incorporeal creatures and deal damage equal to 1d8 + Int.
 - **[Inflict Pain, Mass](inflict-pain-mass.md)**: As inflict pain, but affecting one creature per level.
 - **[Intellect Fortress III](intellect-fortress-iii.md)**: As intellect fortress II, plus remove partial effects of fear and emotion effects.
@@ -892,6 +907,7 @@ Psychics gain access to the following spells. Spells without a link come from ot
 - **[Instant Summons](instant-summons.md)**: Prepared object appears in your hand.
 - **[Invisibility, Mass](invisibility-mass.md)**: As *invisibility*, but affects all in range.
 - **[Ki Shout](ki-shout.md)**: Target takes 1d6 sonic/level and is stunned. Lightning Rod: Absorb electrical attacks and gain immunity to electricity.
+- **[Last Hero's Defending Sword](last-heros-defending-sword.md)**: A force sword that defends you, then attacks a foe.
 - **[Limited Wish](limited-wish.md)**: Alters reality (within limits).
 - **[Lost Legacy](lost-legacy.md)**: Others forget positive interactions with the target.
 - **[Lunar Veil](lunar-veil.md)**: Dispel light and revert lycanthropes.

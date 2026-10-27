@@ -67,6 +67,7 @@ Mediums gain access to the following spells. Spells without a link come from oth
 - **[Invigorate](invigorate.md)**: Temporarily relieves fatigue or exhaustion.
 - Liberating Command
 - **[Know Peerage](know-peerage.md)**: Target uses your Knowledge (nobility) ranks.
+- **[Linked Legacy](linked-legacy.md)**: Share Knowledge check results with the linked creatures.
 - **[Long Arm](long-arm.md)**: Your arms lengthen, giving you extra reach.
 - **[Mindlink](mindlink.md)**: Communicate a great deal of information in an instant.
 - **[Murderous Command](murderous-command.md)**: Target is compelled to kill its ally.
@@ -92,6 +93,7 @@ Mediums gain access to the following spells. Spells without a link come from oth
 - **[Silent Image](silent-image.md)**: Creates minor illusion of your design.
 - **[Summon Minor Monster](summon-minor-monster.md)**: Summon 1d3 Tiny animals.
 - **[Summon Monster I](summon-monster-i.md)**: (Evil creatures only.) Summons extraplanar creature to fight for you.
+- **[Tears to Wine](tears-to-wine.md)**: Turn liquids into wine that sharpens the mind.
 - **[True Skill](true-skill.md)**: Gain an insight bonus on your next check with a chosen skill.
 - **[True Strike](true-strike.md)**: +20 on your next attack roll.
 - Unerring Weapon
@@ -159,6 +161,7 @@ Mediums gain access to the following spells. Spells without a link come from oth
 - **[Hold Person](hold-person.md)**: Paralyzes one humanoid for 1 round/level.
 - Hostile Levitation
 - **[Hoodwink](hoodwink.md)**: Befuddle targets so they can be led away
+- **[Human Potential](human-potential.md)**: Target chooses one ability score and gains +2.
 - **[Hypercognition](hypercognition.md)**: Rapidly recall everything you know about a subject.
 - **[Inflict Pain](inflict-pain.md)**: Target takes a –4 penalty on attack rolls, skill checks, and ability checks.
 - **[Instigate Psychic Duel](instigate-psychic-duel.md)**: Start a psychic duel between yourself and another creature.
@@ -234,6 +237,7 @@ Mediums gain access to the following spells. Spells without a link come from oth
 - **[Contact Entity III](contact-entity-iii.md)**: Ask very powerful eldritch entities to find and converse with you, or they may reply telepathically.
 - **[Daze, Mass](daze-mass.md)**: As daze, but affecting multiple creatures.
 - **[Deceitful Veneer](deceitful-veneer.md)**: Make someone seem like an obvious liar.
+- **[Deft Digits](deft-digits.md)**: Animate a glove to manipulate objects at a distance.
 - **[Demanding Message](demanding-message.md)**: Send messages as per *message* with a *suggestion* for one creature.
 - **[Detect Scrying](detect-scrying.md)**: Alerts you to magical eavesdropping
 - **[Dimension Door](dimension-door.md)**: Teleports you a short distance.
@@ -249,6 +253,7 @@ Mediums gain access to the following spells. Spells without a link come from oth
 - **[Erase Impressions](erase-impressions.md)**: Erase psychic impressions from an object.
 - **[False Future](false-future.md)**: Cause divinations of the future to reveal the result you choose.
 - **[False Life, Greater](false-life-greater.md)**: Gain 2d10 temporary hp + 1/level.
+- **[Find Fault](find-fault.md)**: Learn a creature's weaknesses and gain +5 on your first attack.
 - **[Fly](fly.md)**: Subject flies at speed of 60 ft.
 - **[Free Spirit](free-spirit.md)**: Gain freedom of movement and fear resistance, but be drunk
 - **[Gaseous Form](gaseous-form.md)**: Subject becomes insubstantial and can fly slowly.
@@ -276,6 +281,7 @@ Mediums gain access to the following spells. Spells without a link come from oth
 - **[Planar Ally, Lesser](planar-ally-lesser.md)**: Exchange services with a 6 HD extraplanar creature.
 - **[Possession](possession.md)**: Project your soul into a creature’s body.
 - **[Psychic Leech](psychic-leech.md)**: Fatigue a target and gain +2 Strength and Dexterity.
+- **[Rags to Riches](rags-to-riches.md)**: Objects function as masterwork with extra bonuses.
 - **[Red Hand of the Killer](red-hand-of-the-killer.md)**: Stain the hand of a creature’s killer red.
 - **[Remove Curse](remove-curse.md)**: Frees object or person from curse.
 - **[Replay Tracks](replay-tracks.md)**: Reconstruct past events from a set of tracks.
@@ -298,6 +304,7 @@ Mediums gain access to the following spells. Spells without a link come from oth
 - **[Adjustable Polymorph](adjustable-polymorph.md)**: As alter self; but you can change the shape as a swift action.
 - **[Appearance of Life, Greater](appearance-of-life-greater.md)**: Perfectly disguise any undead creature as a living one
 - **[Assume Appearance, Greater](assume-appearance-greater.md)**: Use a likeness to adopt a dead creature’s form.
+- **[Banishing Blade](banishing-blade.md)**: The weapon bull rushes foes and can banish outsiders.
 - **[Battlemind Link](battlemind-link.md)**: You and an ally gain attack and AC bonuses.
 - **[Bestow Planar Infusion II](bestow-planar-infusion-ii.md)**: Grant a target the effects of an improved planar infusion
 - **[Break Enchantment](break-enchantment.md)**: Frees subjects from enchantments, transmutations, and curses.
@@ -305,6 +312,7 @@ Mediums gain access to the following spells. Spells without a link come from oth
 - **[Commune with Texts](commune-with-texts.md)**: Absorb knowledge from a collection of texts.
 - **[Conjuration Foil](conjuration-foil.md)**: Interfere with nearby teleportation effects.
 - **[Contact Entity IV](contact-entity-iv.md)**: Ask extraordinarily powerful eldritch entities to find and converse with you, or they may reply telepathically.
+- **[Create Armaments](create-armaments.md)**: Create a nonmagical weapon, shield, or armor.
 - **[Create Mindscape](create-mindscape.md)**: Form an immersive mindscape.
 - **[Darkvision, Greater](darkvision-greater.md)**: See 120 ft. in total darkness.
 - **[Death Ward](death-ward.md)**: Grants bonuses against death spells and negative energy.
@@ -318,6 +326,7 @@ Mediums gain access to the following spells. Spells without a link come from oth
 - **[Feeblemind](feeblemind.md)**: Subject’s Int and Cha drop to 1.
 - **[Flash Forward](flash-forward.md)**: Make a charge attack, then teleport back.
 - **[Freedom of Movement](freedom-of-movement.md)**: Subject moves normally despite impediments to movement.
+- **[Grand Destiny](grand-destiny.md)**: Target gains a +4 bonus on two chosen rolls.
 - **[Hold Monster](hold-monster.md)**: As *hold person*, but any creature.
 - **[Inflict Pain, Mass](inflict-pain-mass.md)**: As inflict pain, but affecting one creature per level.
 - **[Invoke Deity](invoke-deity.md)**: Infuse yourself with the powers of your deity's planar realm
@@ -358,3 +367,7 @@ Mediums gain access to the following spells. Spells without a link come from oth
 ## 5th-Level Medium Spells
 
 - **[Subjective Reality](subjective-reality.md)**: Treat a creature or object as an illusion that cannot harm you.
+
+## 6th-Level Medium Spells
+
+- **[Emblem of Greed](emblem-of-greed.md)**: Turn a melee weapon into a burning glaive.

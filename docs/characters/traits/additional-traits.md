@@ -67,6 +67,8 @@ These traits are associated with combat, battle, and physical prowess. They give
 
 **Heavy Weapon Performer**: You learned from tribal champions to take advantage of the dramatic swings required by heavy weapons like the earth breaker. You gain a +2 trait bonus on Intimidate checks while wielding a two-handed melee weapon.
 
+**Heirloom Sword Training**: Your family has passed down training in the longsword, a tradition older than anyone can remember. You are proficient with the longsword. If your class grants longsword proficiency as well, you gain a +1 trait bonus on attacks of opportunity with longswords.
+
 **Helpful**: You always know the best way to assist your companions, be it assisting them with a task, defending them in battle, or helping them place a well-aimed strike. When using the aid another action, you grant your ally a +3 bonus instead of a +2 bonus.
 
 **Hidden Hand**: Your concealed weapons strike fast and true. You gain a +1 trait bonus on Sleight of Hand checks made to conceal light weapons and a +1 trait bonus on attack rolls when making an attack with a light weapon during a surprise round.
@@ -118,6 +120,8 @@ These traits are associated with combat, battle, and physical prowess. They give
 **Roving Range**: You learned from pirates to make the most of ranged attacks as you close with targets. Increase the range increment of ranged weapons (but not thrown weapons) you wield by 5 feet.
 
 **Scarred Descendant**: Your own people are your favored enemy. You gain a +1 trait bonus on rolls to confirm critical hits against favored enemies of your own subtype and on Survival checks made to track such creatures.
+
+**Siege Defender**: Your people survived sieges through proper preparation and cooperation, and those teachings were passed on to you. You gain a +1 trait bonus on melee damage rolls when you attack a target from higher ground.
 
 **Startling Report**: Through either perfect timing or the determination of your action, the sound of your firearm going off sets your enemies on edge. When you shoot a firearm, you gain a +2 trait bonus on Intimidate checks for 1 round against those who heard the shot.
 
@@ -297,6 +301,8 @@ These traits are associated with magic and focus on spellcasting and manipulatin
 
 **Resilient Caster**: Your great force of will makes your magic harder to dispel. Your caster level is treated as 1 level higher whenever someone attempts to dispel one of your spells.
 
+**Scholar of Annotated Tomes**: You studied annotated collections of spells from a young age and became skilled at using magic written by others. You can cast *read magic* as a spell-like ability three times per day, using your character level as your caster level.
+
 **Secret Scrolls**: You were inducted into a secret magical tradition. You can cast *read magic* once per day as a spell-like ability, and gain a +1 trait bonus on Use Magic Device checks to activate scrolls you cannot normally use.
 
 **Self-Taught Scholar**: Being self-taught has made it necessary for you to scour all documentation you can get your hands on. You gain a +1 trait bonus on Linguistics checks to decipher unfamiliar languages, and Linguistics is always a class skill for you. In addition, you gain a +1 trait bonus on Spellcraft checks made to decipher the writing on a scroll.
@@ -304,6 +310,8 @@ These traits are associated with magic and focus on spellcasting and manipulatin
 **Shrouded Casting**: You have learned the secret to casting some spells without lesser material components. Choose one school of magic when you pick this trait. You can cast spells from that school as if you had the Eschew Materials feat.
 
 **Spark of Creation**: You have always had a knack for making useful things, and your talent as an artisan was evident even at an early age. You gain a +1 trait bonus on Craft checks, and the cost of creating magic items is reduced by 5%.
+
+**Stabbing Spells**: You have taken to heart writings about ways to use weapons to enhance magic's effectiveness. Whenever you strike a foe with a weapon, you gain a +2 trait bonus on caster level checks to overcome that foe's spell resistance until the end of your next turn.
 
 **Storm-Touched**: You share an affinity with elemental lightning. You gain DR 1/— against creatures and attacks with the electricity type.
 
@@ -369,6 +377,8 @@ Social traits reflect your upbringing; your background in high society or lack t
 
 **For the Money**: You gain a +2 trait bonus on skill checks to haggle prices or negotiate payment; this bonus increases to +4 if you are in a position of military or economic power over your target. You also gain a +1 trait bonus on Appraise checks and Appraise is always a class skill for you.
 
+**Founding Heritage**: You can trace your family line back to one of the founding families of a great city, called to aid in establishing it because of their vision and potential. Choose a city. You gain a +1 trait bonus on Charisma-based skill checks to influence citizens of that city.
+
 **Friend in Every Town**: You have no problem making friends and learning information from them wherever you go. You gain a +1 trait bonus on all Knowledge (local) checks and Diplomacy checks. One of these skills (your choice) is always a class skill for you.
 
 **Grief-Filled**: You are no stranger to loss and intense emotions. You gain a +2 trait bonus on all saving throws against emotion spells and effects.
@@ -384,6 +394,8 @@ Social traits reflect your upbringing; your background in high society or lack t
 **Knowing the Enemy**: You know a good deal about your most dire enemies. You gain a +1 trait bonus on checks with the Knowledge skill corresponding to your first favored enemy choice, and that Knowledge skill is always a class skill for you.
 
 **Life of Toil**: You have lived a physically taxing life, working long hours for a master or to support a trade. Hard physical labor has toughened your body and mind. You gain a +1 trait bonus on Fortitude saves.
+
+**Lore Historian**: You believe there is much useful information to glean from the marks great figures left on history, and learn all you can about their exploits and teachings. This has given you significant insights on how different kinds of information are interconnected. If you fail a Knowledge (arcana, history, or religion) check, you can reroll the check 1 round later using your bonus for one of the other two skills.
 
 **Mediator**: You have a way with calming tempers, using cool logic to soothe heated disagreements. You receive a +1 trait bonus on Diplomacy checks. In addition, you receive a +1 trait bonus to the DC of any charm or compulsion effect that does not provide ongoing control and results in peaceful acts, such as *calm emotions*, *sleep*, or a *suggestion* to lay down arms.
 
@@ -404,6 +416,8 @@ Social traits reflect your upbringing; your background in high society or lack t
 **Passionate Inertia**: Your passions drive your thinking so irresistibly that even magic struggles to change your mind. You gain a +2 trait bonus on Will saves to resist having your mind changed about something, but you take a –1 penalty on Will saves to resist temptation and compulsions you might reasonably be already inclined toward.
 
 **Practiced Disruptor**: You are experienced at facing off against spellcasters. You can attempt Knowledge (arcana) checks untrained; if you have ranks in that skill, you instead gain a +1 trait bonus on those checks. The concentration DC to cast a spell defensively in your threatened area increases by 1.
+
+**Reassuring Advice**: You've studied the speeches and writings of a leader or thinker who served as a reassuring voice in her community in turbulent times, painfully learning which portions of the advice no longer applied and what could still be usefully applied. Once per day, you can speak words of encouragement to grant any human a +1 insight bonus on any attack roll, saving throw, or skill check of his choice within the following hour. The choice to use the insight bonus must be made before the related roll is made.
 
 **Savage**: You were born and raised in untamed lands far from civilization. You learned to survive in the elements among brutal humanoids and beasts. You gain a +1 trait bonus on Knowledge (nature) checks and a +1 trait bonus on Survival checks to get along in the wild. Knowledge (nature) is always a class skill for you.
 

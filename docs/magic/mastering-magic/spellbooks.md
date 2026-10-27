@@ -17,6 +17,18 @@ When a spellcaster who prepares spells uses a spellbook or formula book with a p
 A superscript <sup>S</sup> indicates a spell from the caster’s specialty school, whereas a superscript <sup>OP</sup> indicates a spell from the spellbook creator’s opposition school. A single asterisk (\*) marks a spell from *Ultimate Magic* and two asterisks (\*\*) mark a spell from the *Advanced Player’s Guide*.
 
 
+## Transcribing Preparation Rituals
+
+Preparation rituals grant a unique boon to anyone who prepares at least three spells from the associated spellbook. Like spells, preparation rituals can be copied into new spellbooks. To imbue a spellbook with a preparation ritual, you must have the Scribe Scroll feat, as well as a number of ranks in Spellcraft and a caster level each equal to double the highest spell level in the original spellbook. You also must have scribed at least three spells from the original spellbook into the new spellbook; at least one of these spells must be of the highest spell level found in the original spellbook. You must prepare those three spells (or know them, if you cast spells spontaneously) and perform an 8-hour creation ritual that requires supplies costing half as much as the value of the preparation ritual (the difference in the spellbook's value with and without the preparation ritual). At the ritual's end, attempt a Spellcraft check (DC = 10 + double the highest spell level in the original spellbook). If you succeed, the new spellbook gains that preparation ritual. If you fail, the supplies are wasted to no effect.
+
+Formula book preparation rituals are similarly imbued, but use extracts rather than spells, and instead of Scribe Scroll, you must have Brew Potion. A spellbook can have multiple preparation rituals, but it must meet the requirements for each. This does not affect the number of preparation rituals from which a character can benefit.
+
+## Prayer Books and Meditation Books
+
+Characters who prepare divine spells can create prayer books containing divine magical writing similar to the arcane magical writing in spellbooks. These books are usually used to instruct new acolytes in a faith's magical traditions or to make use of preparation rituals that align with the faith's goals. Prayer books with preparation rituals follow the same rules as arcane spellbooks with preparation rituals. Any preparation rituals found in spellbooks can also be found in prayer books, which have the same number of spells of each level recorded but generally draw them from the cleric, druid, or shaman spell list. Any character able to prepare the appropriate spells as divine spells can benefit from the preparation ritual recorded in a prayer book.
+
+A meditation book is a secular version of a prayer book, recording theories and philosophies of magic, and can be used to focus energies when preparing arcane spells from a source other than a spellbook (such as for witches) or meditating to regain spell slots (for spontaneous spellcasters). A spellcaster can benefit from a meditation book's preparation rituals by preparing spells or meditating to regain spell slots while studying the spellbook and expending one spell slot of a level at least equal to that of the highest-level spell within the meditation book. Meditation books and prayer books have the same cost as the spellbooks they emulate (including the cost of the scribed spells, despite the users of such books not normally requiring spellbooks to prepare spells). If the boon granted by a meditation book or spellbook applies to only a particular class's spells, a character gaining that boon can apply it to any spell from the same class list that the spells she prepared were drawn from (for prayer books) or that provided the spell slot expended (in the case of meditation books).
+
 ## Defensive Primer
 
 *Level 1 Abjurer*
@@ -552,3 +564,343 @@ This massive tome is the size of four normal spellbooks, bound in leather as har
 **Preparation Ritual**
 
 **Curse of Names (Su)** When you are finished preparing your spells with this book, write the proper name of a single creature among the list of names in this book. As a swift action, when you are within 30 feet of the named creature, you can call out its name to bestow the curse of names on it. This spends the boon’s effect. The target creature takes a –2 penalty on all attack rolls, and a –4 penalty on all attack rolls against you, for 1 minute. When you activate this curse, the name is crossed out in the back of the book. That creature cannot be the target of a curse of names originating from you ever again. The penalties of two instances of curse of names on the same creature do not stack.
+
+## Apothecary's Remedies
+
+*Level 3 Alchemist (formula book)*
+
+The first three pages of this book contain pressed flowers and botanical diagrams relating to brewing herbal remedies.
+
+**Value** 50 gp (115 gp with the preparation ritual)
+
+**Formulae**
+
+- 1st: cure light wounds, expeditious retreat, keen senses, polypurpose panacea, youthful appearance
+
+**Preparation Ritual**
+
+**Rejuvenating Infusion (Su)** Whenever you imbibe an alchemist extract of a conjuration spell, you can spend this boon as a swift action. If you do, you are healed of 1 point of damage and can ignore the effects of fatigue for 1 round.
+
+## Songs of the Northern Kings
+
+*Level 5 Skald (meditation book)*
+
+This book's cover is made of scales that are warm to the touch.
+
+**Value** 180 gp (440 gp with the preparation ritual)
+
+**Spells**
+
+- 2nd: marching chant, path of glory, scare
+- 1st: cure light wounds, heightened awareness, remove fear
+- 0 (at will): dancing lights, ghost sound, lullaby, mage hand, mending, resistance
+
+**Preparation Ritual**
+
+**Storied Spell Lore (Su)** When you use this meditation ritual, choose a spell of 2nd level or lower in this meditation book. Whenever you cast a bard or skald conjuration spell, you can spend this boon as a swift action to add the chosen spell to your list of bard or skald spells known for 1 round.
+
+## Journeyman's Manual
+
+*Level 7 Magus*
+
+This book is bound in glittering silver bark, and its title is printed in golden calligraphy in both Elven and Common.
+
+**Value** 575 gp (1,100 gp with the preparation ritual)
+
+**Spells**
+
+- 3rd: dispel magic, haste
+- 2nd: alter self, frigid touch, invisibility, mirror image, pyrotechnics, scorching ray
+- 1st: chill touch, color spray, enlarge person, grease, jump, reduce person, shield, silent image
+
+**Preparation Ritual**
+
+**Avoiding Spell (Su)** Whenever you cast a transmutation spell, you can spend this boon as a swift action to gain a +1 dodge bonus to your AC for a number of rounds equal to the spell's level.
+
+## Scorched Cookbook
+
+*Level 8 Alchemist (formula book)*
+
+This book's cover is illegibly scorched and the pages are wrinkled from water damage.
+
+**Value** 670 gp (1,270 gp with the preparation ritual)
+
+**Formulae**
+
+- 3rd: absorbing touch, arcane sight, draconic reservoir, seek thoughts
+- 2nd: cat's grace, invisibility, perceive cues, resist energy, see invisibility, undetectable alignment
+- 1st: ant haul, bomber's eye, comprehend languages, detect secret doors, disguise self, expeditious retreat, true strike
+
+**Preparation Ritual**
+
+**Blast Finesse (Su)** As an immediate action when you throw a bomb, you can spend this boon to shape the blast by adding up to three 5-foot squares to the area, as long as these spaces are adjacent to the bomb's normal area of effect.
+
+## Swordsman's Analects
+
+*Level 3 Universalist*
+
+This book's worn leather cover is emblazoned with a winged sword with an eye at its hilt. It is one of three common variations of a series of spellbooks collecting spells, practical thoughts on history, swordplay, weaponsmithing, husbandry, and spellcasting attributed to a legendary hero.
+
+**Value** 250 gp (400 gp with the preparation ritual)
+
+**Spells**
+
+- 2nd: force sword, human potential
+- 1st: expeditious construction, identify, magic weapon, mirror strike, protection from evil, unerring weapon
+
+**Preparation Ritual**
+
+**Shielding Weapon (Su)** Your spells infuse a weapon with protective magic. Spend this boon as an immediate action whenever you cast an abjuration spell. When you do, a weapon you wield grants you a shield bonus to your AC equal to 1 + 1/2 the spell's level for 1 round.
+
+## Guide's Analects
+
+*Level 6 Universalist*
+
+This book's worn leather cover is emblazoned with a simplified winged eye superimposed on a map of the continent.
+
+**Value** 690 gp (990 gp with the preparation ritual)
+
+**Spells**
+
+- 3rd: hero's spellsword, heroism, lesser guardian monument, magic circle against evil
+- 2nd: arcane disruption, human potential, masterwork transformation, winged sword
+- 1st: detect undead, endure elements, expeditious construction, heightened awareness, linked legacy, mage armor
+
+**Preparation Ritual**
+
+**Glorious Blade (Su)** When you attack with a sword (including swordlike effects created by spells such as *spiritual weapon*, as long as they require attack rolls), you can expend a prepared spell or spell slot as a free action to spend this boon. If you do, you gain an insight bonus on the attack roll equal to the level of the prepared spell or spell slot expended.
+
+## Last Hero's Analects
+
+*Level 15 Universalist*
+
+This book's ancient leather cover is emblazoned with a simplified winged eye.
+
+**Protection** Average lock with *arcane lock* (DC 35) and *explosive runes* (Reflex DC 16)
+
+**Value** 7,030 gp (10,030 gp with the preparation ritual)
+
+**Spells**
+
+- 8th: dimensional lock, iron body
+- 7th: hero's magic army, delayed blast fireball, instant summons, limited wish
+- 6th: antimagic field, last hero's defending sword, mass human potential, transformation
+- 5th: banishing blade, cone of cold, fabricate, greater guardian monument
+- 4th: dimensional anchor, fear, locate creature, resilient sphere
+- 3rd: daylight, dispel magic, fireball, greater magic weapon
+- 2nd: continual flame, false life, human potential, whispering wind
+- 1st: alarm, anticipate peril, expeditious construction, floating disk, hold portal, magic missile, protection from chaos, unseen servant
+
+**Preparation Ritual**
+
+**Efficient Creator (Su)** You can spend this boon to use the magic item creation rules to create items with the Craft skill for one day. When doing this, your material costs are equal to half the final value of the item crafted (rather than the normal 1/3 of the cost for using the Craft skill). You can craft items with a cost greater than 1,000 gp by expending this boon over successive days, in the same way magic items with a cost over 1,000 gp can be crafted over multiple days. You otherwise follow all the rules and options for magic item creations.
+
+## Wisdom of the Old Mage (Three Companions Edition)
+
+*Level 5 Diviner*
+
+Well-tanned leather binds this sturdy spellbook, with a copper plate of a stylized animal head bolted to the front cover. A foreword filling the first several pages is addressed to "young students," and offers warnings about the unexpected consequences of using spells without careful consideration. The rest of the book contains spells, each preceded and followed by one or more stories discussing situations with thematic links to the spell. The collected works stress the inherent similarities between arcane and divine magic, claiming that magic is magic, no matter the source.
+
+**Value** 375 gp (875 gp with the preparation ritual)
+
+**Spells**
+
+- 3rd: beast shape I, clairaudience/clairvoyance, planar inquiry, tongues
+- 2nd: alter self, detect thoughts, locate object, obscure object, see invisibility
+- 1st: celestial healing, comprehend languages, detect undead, endure elements, heightened awareness, hydraulic push, identify, obscuring mist
+
+**Preparation Ritual**
+
+**Eyes of the Old Mage (Su)** Several of the stories within this spellbook suggest ways to take what information you have and use it to infer the answers to questions for which you don't have proven solutions. Spend this boon when you cast a divination spell to increase the spell's caster level by +2.
+
+## Wisdom of the Old Mage (Six Companions Edition)
+
+*Level 11 Diviner*
+
+This book is bound in thick, rough rawhide. Several cloth ribbons are attached to the spine and used as bookmarks, each with a yellowed tooth tied to the loose end. Two silver plates are bound to the spine, each depicting the stylized face of a different beast. The spells and stories recorded throughout the book are each written in a different handwriting, ranging from neat block script to wild looping letters that are difficult to read at first glance.
+
+**Value** 4,725 gp (6,025 gp with the preparation ritual)
+
+**Spells**
+
+- 6th: chain lightning, contagious flames, old mage's ire, legend lore, planar binding
+- 5th: dismissal, lesser planar binding, overland flight, polymorph, sending, summon monster V, telepathic bond
+- 4th: black tentacles, dimensional anchor, greater celestial healing, wall of fire
+- 3rd: dispel magic, haste, planar inquiry, stinking cloud
+- 2nd: blindness/deafness, mirror image, spectral hand
+- 1st: celestial healing, magic missile, shocking grasp, true strike
+
+**Preparation Ritual**
+
+**Old Mage's Vindication (Su)** The Old Mage's teachings are a call to arms for all good spellcasters, stressing the importance of using one's talents altruistically and philanthropically, and his teachings foster the power of good in even the most apathetic heart. Expend this boon when you cast a spell that targets one or more creatures. The spell gains the good descriptor as well as a +2 sacred bonus on caster level checks to overcome the spell resistance of evil creatures. An evil creature cannot use this preparation ritual.
+
+## Wisdom of the Old Mage (Nine Companions Edition)
+
+*Level 17 Diviner*
+
+The cover of this thick tome is a patchwork of sections of different hides, whose colors and textures form a stylized depiction of an animal face.
+
+**Value** 13,415 gp (38,415 gp with the preparation ritual)
+
+**Spells**
+
+- 9th: gate, mage's disjunction, meteor swarm, time stop
+- 8th: maze, polymorph any object, power word stun, summon monster VIII
+- 7th: forcecage, mage's sword, mass invisibility, summon monster VII
+- 6th: chain lightning, globe of invulnerability, old mage's ire, legend lore, mislead, summon monster VI, true seeing
+- 5th: baleful polymorph, cloudkill, communal stoneskin, cone of cold, mage's faithful hound, overland flight
+- 4th: communal protection from energy, dimension door, enervation, greater celestial healing, mass enlarge person, wall of fire
+- 3rd: communal resist energy, fireball, haste, lightning bolt, planar inquiry
+- 2nd: blur, communal protection from evil, glitterdust, mirror image
+- 1st: celestial healing, expeditious retreat, feather fall, magic missile, obscuring mist, true strike
+
+**Preparation Ritual**
+
+**Secrets of the Old Mage (Su)** This edition includes a number of unique rituals and philosophical notes supposedly written by the Old Mage himself. These secrets allow you to prepare one of the following spells as an arcane spell 1 level higher than its druid spell level: *barkskin*, *call lightning*, *cyclic reincarnation*, *entangle*, *forest friend*, *lesser restoration*, *plant growth*, *speak with animals*, and *speak with plants*. At the GM's discretion, additional spells of 6th level or lower from the druid spell list may be available through the preparation rituals of specific copies of this book (which increases the spellbook's price by twice the cost of adding a wizard spell of the same level to the spellbook).
+
+## Gilded Fragment
+
+*Level 7 Transmuter*
+
+Two gold-plated bronze covers bind this gaudy tome. Several synonyms for "wealth" are neatly chiseled in different languages on the cover. This is one of several books that claim to be copied from an ancient tome of economic theory and transmutation research.
+
+**Value** 1,565 gp
+
+**Spells**
+
+- 4th: dimension door, lesser age resistance, liquefy
+- 3rd: deft digits, dispel magic, greater magic weapon, haste, hostile levitation, rags to riches
+- 2nd: alter self, darkvision, fool's gold, glide, glitterdust, scorching ray, touch of idiocy
+- 1st: ant haul, jury-rig, mage armor, magic missile, polypurpose panacea, shocking grasp, sleep, tears to wine
+
+## Dial Codex
+
+*Level 11 Transmuter*
+
+This heavy tome bears a handsome leather cover over thick metal plates. The front cover displays a dozen tiny dials arranged in a semicircle around the locking mechanism.
+
+**Protection** Good lock with *arcane lock* (DC 40)
+
+**Value** 4,425 gp (9,125 gp with the preparation ritual)
+
+**Spells**
+
+- 6th: age resistance, disintegrate, greater heroism, wall of iron
+- 5th: dissolution, major creation, open arms, treasure stitching
+- 4th: adjustable polymorph, calcific touch, greater darkvision, liquefy, rags to riches, shout
+- 3rd: anthropomorphic animal, deft digits, disable construct, dispel magic, fly, lightning bolt
+- 2nd: arcane lock, darkness, detect thoughts, full pouch, masterwork transformation, shatter, silk to steel, twisted space
+- 1st: ant haul, burning hands, endure elements, jump, mage armor, mirror strike, true strike, vocal alteration
+
+**Preparation Ritual**
+
+**Enduring Alteration (Su)** Your spells resist reality's attempts to restore the things you change. You can spend this boon to apply the benefits of the Extend Spell feat to a transmutation spell as you cast it. This also increases the DC to dispel that spell (via *dispel magic* or similar abilities) by 4. This boon does not increase the spell level or casting time of your spell.
+
+## Runes of Wealth
+
+*Level 18 Transmuter*
+
+Golden arcane runes and sigils seem to change or move constantly across the green leather cover of this remarkably well-preserved text. Each page is edged in thin silver, and a luxurious silk ribbon trapped between the pages flutters of its own accord.
+
+**Protection** Superior lock with *arcane lock* (DC 50), *polymorph* (appears as a different spellbook each evening if no spells have been prepared from it)
+
+**Value** 26,365 gp (31,365 gp with the preparation ritual)
+
+**Spells**
+
+- 9th: fiery body, greater create demiplane, shapechange, time stop, transmute blood to acid, transmute golem
+- 8th: frightful aspect, greater planar binding, greater shout, moment of prescience, polymorph any object, temporal stasis
+- 7th: artificer's curse, control construct, emblem of greed, firebrand, greater age resistance, greater teleport, legendary proportions, reverse gravity
+- 6th: enemy hammer, disintegrate, flesh to stone, globe of invulnerability, monstrous physique IV, sonic form, tar pool, transformation
+- 5th: baleful polymorph, beast shape III, contact other plane, monstrous physique III, open arms, permanency, polymorph, rune of ruin, telekinesis, treasure stitching
+- 4th: arcane eye, black tentacles, dimension door, fire shield, greater darkvision, monstrous physique II, obsidian flow, stoneskin, telekinetic charge, true form
+- 3rd: deft digits, disable construct, enter image, excruciating deformation, fly, greater magic weapon, haste, heroism, lightning bolt, monstrous physique I, protection from energy, strangling hair
+- 2nd: arcane lock, continual flame, disfiguring touch, locate object, make whole, masterwork transformation, protection from arrows, scorching ray, see invisibility, shatter, summon swarm, telekinetic assembly
+- 1st: ant haul, burning hands, color spray, comprehend languages, identify, jump, mage armor, magic missile, mirror strike, reduce person, thunderstomp, youthful appearance
+
+**Preparation Ritual**
+
+**Change Magic (Su)** Even the nature of magic is susceptible to your powerful transmutations. You can spend this boon as a swift action to declare a non-transmutation spell you are casting to be "changed magic." This spell becomes a transmutation effect, and benefits from any abilities or feats that influence your transmutation spells and can be applied to the spell you cast (such as Spell Focus).
+
+## Cold Irony
+
+*Level 15 Bard*
+
+Bound in thin sheets of iron, this book is designed as a series of treatises on divination, information gathering, and rhetoric. The thoughts and notes are so complete as to qualify as a spellbook for the spells listed, despite the fact the author was a bard with no need for a spellbook.
+
+**Value** 2,420 gp (2,795 gp with the preparation ritual)
+
+**Spells**
+
+- 5th: foe to friend, greater heroism, song of discord, unwilling shield
+- 4th: break enchantment, detect scrying, dominate person, foretell failure
+- 3rd: blink, find fault, glibness, haste, reviving finale
+- 2nd: cure moderate wounds, gallant inspiration, hold person, locate object, misdirection, perfect placement
+- 1st: expeditious retreat, memory lapse, moment of greatness, obscure object, undetectable alignment, vanish
+
+**Preparation Ritual**
+
+**Brain Wash (Su)** You combine magic and skill to masterfully manipulate your subjects. You can expend this boon when you cast a spell on a creature you have succeeded at a Bluff, Diplomacy, Knowledge, or Sense Motive check against. You cast that spell at +1 caster level and its save DC increases by 1.
+
+## Playwright's Workbook
+
+*Level 16 Magus with bard spells*
+
+This book appears to be more of a personal journal than a magical tome. The soft leather binding is worn, and many pages bear the telltale creases of dog-ears and stains of spilled wine. Its author often designed new spells to be used at climactic moments in his plays, and the workbook is prized as a source of fresh arcane knowledge.
+
+**Value** 4,295 gp (4,670 gp with the preparation ritual)
+
+**Spells**
+
+- 6th: mass eagle's splendor, transformation
+- 5th: baleful polymorph, shadow evocation, telekinesis, teleport, vampiric shadow shield, wall of force
+- 4th: black tentacles, charm monster, greater flaming sphere, mass enlarge person, mass reduce person, tough crowd, wreath of blades
+- 3rd: burst of speed, dispel magic, fly, heckle, major image, stage fright
+- 2nd: alter self, darkness, hold person, minor image, pilfering hand, scorching ray
+- 1st: charm person, flare burst, grease, jump, mirror strike, mount, negative reaction, silent image, true strike, unseen servant
+
+**Preparation Ritual**
+
+**Persuasive Reasoning (Su)** You can spend this boon to gain a +5 bonus on a Diplomacy check against a target that has an attitude of friendly or helpful toward you to request aid in the form of the target revealing an important secret.
+
+## Tome of Stone Wards
+
+*Level 17 Abjurer*
+
+This heavy book is bound between a pair of thin stone tablets, its title carved in gold lettering. Scribed completely in the Dwarven tongue, the text contains numerous tips regarding the construction and upkeep of nearly every corridor, path, and tunnel in a mountain realm. It is one of the oldest anthologies of arcane dwarven lore still in circulation, and all copies are identical.
+
+**Value** 4,385 gp (8,385 gp with the preparation ritual)
+
+**Spells**
+
+- 9th: imprisonment
+- 8th: dimensional lock, protection from spells
+- 7th: banishment, spell turning
+- 6th: greater make whole, guards and wards, move earth, symbol of sealing
+- 5th: life bubble, major creation, passwall, wall of stone, wreath of blades
+- 4th: curse of magic negation, make whole, stone shape, stoneskin
+- 3rd: burrow, communal spider climb, dispel magic, explosive runes, shrink item, spiked pit, stunning barrier
+- 2nd: arcane lock, certain grip, communal ant haul, create pit, knock, resist energy, spider climb, stone call, warding weapon
+- 1st: alarm, ant haul, expeditious excavation, invisibility alarm
+
+**Preparation Ritual**
+
+**Keeper of Stone (Ex/Su)** The tome covers the geography of caves and mountains thoroughly, and gives eldritch insights into how such terrain is formed. This boon is not spent, but grants you a +1 insight bonus on Knowledge (dungeoneering), Knowledge (geography), and Knowledge (nature) checks, as well as on Survival checks attempted in hills, mountains, and underground terrain. In addition, whenever you cast *mending*, *make whole*, or *greater make whole* on an object made entirely from stone, add 1d6 to the number of hit points restored to the object. These benefits last until you next regain spell slots or prepare spells.
+
+## Sorrow of the Archer
+
+*Level 3 Universalist*
+
+This drab leather tome is stamped plainly with elven lettering, appearing at first glance as little more than a journeyman's treatise on spellcasting. Penned into almost every margin, however, are copious notes by an author who identifies herself only as "the Archer." These annotations discuss numerous spellcasting fallacies made by the tome's original authors and simple (yet effective) countermeasures that more martially inclined persons can use to disrupt spellcasting. The overall tone of the notes is one of bitter melancholy.
+
+**Value** 1,200 gp (2,200 gp with the preparation ritual)
+
+**Spells**
+
+- 3rd: contingent action, cloak of winds, fireball, lightning bolt
+- 2nd: acid arrow, arrow eruption, protection from arrows, scorching ray, stone call
+- 1st: blend, gravity bow, identify, longshot, magic missile, shield, true strike
+
+**Preparation Ritual**
+
+**Disruption Master (Ex)** The Archer's claims about the imperfections of spellcasting and the failings of magic provide additional insight into interrupting spellcasting. Unlike other boons, you do not spend this one. Until you prepare spells again, when you damage a foe or the foe fails a saving throw against a spell of yours, the foe also takes a –2 penalty on all concentration checks it attempts for 1 round.

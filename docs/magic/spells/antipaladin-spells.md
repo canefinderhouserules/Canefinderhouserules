@@ -136,6 +136,7 @@ New antipaladin spells from *Ultimate Magic*. Spells from other books will be ad
 - **[Selective Invisibility](selective-invisibility.md)**: Invisible, except to one chosen creature you may attack.
 - **[Shadow Jaunt](shadow-jaunt.md)**: Teleport between shadows, leaving an image behind
 - **[Shared Sacrifice](shared-sacrifice.md)**: Redirect half your damage to a target.
+- **[Stage Fright](stage-fright.md)**: Targets take –4 on ability, skill, and concentration checks.
 - **[Trial by Fire](trial-by-fire.md)**: Divine fire punishes targets whose alignment differs from your deity’s.
 - **[Unholy Ward](unholy-ward.md)**: Resist 10 damage from holy sources.
 - **[Utter Contempt](utter-contempt.md)**: Target’s attitude worsens by two categories.
@@ -145,6 +146,7 @@ New antipaladin spells from *Ultimate Magic*. Spells from other books will be ad
 
 ## 4th-Level Antipaladin Spells
 
+- **[Banishing Blade](banishing-blade.md)**: The weapon bull rushes foes and can banish outsiders.
 - **[Blood Tentacles](blood-tentacles.md)**: Blood tentacles attack and heal you.
 - **[Blood Ties](blood-ties.md)**: When a target is harmed, so is the target’s relative.
 - **[Claim Identity, Greater](claim-identity-greater.md)**: As claim identity, but the target becomes a mask others can wear.

@@ -955,3 +955,21 @@ Poisons are common tools in a rogue's trade, and some poison-using rogues are so
 A rotdrinker can gain hit points and additional benefits from only one ingested poison at a time. If she ingests another poison while she has temporary hit points and additional benefits from another poison, the previous temporary hit points and benefits are lost. At 8th level, the temporary hit points and additional benefits last for a number of minutes equal to the rotdrinker's rogue level.
 
 Ingested poisons provide an alchemical bonus equal to the number of consecutive saving throws required to cure the poison (for example, lich dust provides a +2 bonus). An ingested poison that affects Strength, Dexterity, or Constitution grants this bonus on the rotdrinker's damage rolls and Fortitude saving throws. An ingested poison that affects Intelligence, Wisdom, or Charisma instead grants this bonus on the rotdrinker's attack rolls and Will saving throws. An ingested poison that does not affect any ability scores (such as oil of taggit) grants this bonus to the rotdrinker's AC. If an ingested poison falls into more than one of these categories, the rotdrinker chooses which benefit she receives at the time of ingestion. This replaces improved uncanny dodge and uncanny dodge.
+
+## Eldritch Scoundrel
+
+Students of arcane magic, legerdemain, and stealth, eldritch scoundrels are a rare breed of adventurer most commonly found seeking lost and valuable arcane writings in the ruins of fallen empires.
+
+**Armor Proficiencies**: An eldritch scoundrel is not proficient with any armor or shields. Armor sometimes interferes with an eldritch scoundrel's gestures, which can cause her spells with somatic components to fail. This alters the rogue's armor proficiencies.
+
+**Class Skills**: An eldritch scoundrel gains 4 skill ranks (plus a number of ranks equal to her Intelligence modifier) at each level instead of a normal 8. She gains Knowledge (arcana) and Spellcraft as class skills, but not Diplomacy and Disguise. This alters the rogue's skills.
+
+**Spells**: An eldritch scoundrel casts arcane spells drawn from the wizard spell list. An eldritch scoundrel must choose and prepare her spells ahead of time. She learns, prepares, and casts spells exactly as a wizard does, including adding new spells to her spellbook and gaining two additional spells known (of any level she can cast) each time she gains a rogue level with this archetype. An eldritch scoundrel can cast only a certain number of spells of each spell level per day. Her base daily spell allotment is the same as the magus class.
+
+**Alarm Sense (Su)**: At 3rd level, an eldritch scoundrel gains an intuitive sense that warns her when she is near a magic trap. This functions as the trap spotter rogue talent, but applies only if the eldritch scoundrel comes within 10 feet of a magic trap. This ability replaces trap sense.
+
+**Sneak Attack (Ex)**: The eldritch scoundrel doesn't acquire the sneak attack class feature until 3rd level, when she gains a +1d6 sneak attack. This increases by 1d6 at 7th level, and again at every 4 rogue levels thereafter. This modifies the rogue's normal sneak attack progression.
+
+**Rogue Talents**: At 4th level and every 4 levels thereafter, the eldritch scoundrel gains a rogue or ninja talent for which she meets the prerequisites (treating her rogue level as her ninja level). If a talent requires her to expend points from her ki pool, she can instead expend a spell slot with a spell level equal to the number of ki points she would normally expend. If a talent functions only if she has ki in her ki pool, it functions as long as she still has a spell of 1st level or higher prepared. At 12th level, she can select an advanced talent in place of a rogue talent. This modifies the normal rogue talent progression and advanced talent.
+
+**Uncanny Training**: An eldritch scoundrel does not gain uncanny dodge or improved uncanny dodge. Beginning at 4th level, she can take uncanny dodge instead of a rogue talent. Beginning at 12th level, the eldritch scoundrel can choose to take improved uncanny dodge in place of an advanced talent. This modifies uncanny dodge and improved uncanny dodge.

@@ -70,6 +70,7 @@ Occultists gain access to the following spells, determined by their chosen imple
 - Peacebond
 - **[Instant Portrait](instant-portrait.md)**: Paint a quick monochrome portrait.
 - **[Itching Curse](itching-curse.md)**: Itch gives –1 penalty unless scratched.
+- **[Linked Legacy](linked-legacy.md)**: Share Knowledge check results with the linked creatures.
 - **[Mirror Mantis](mirror-mantis.md)**: A target sees a menacing assassin in every mirror.
 - **[Preserve](preserve.md)**: Stop spoilage of objects for a week
 - **[Rune Trace](rune-trace.md)**: Learn a rune’s age, language, and purpose.
@@ -88,6 +89,7 @@ Occultists gain access to the following spells, determined by their chosen imple
 - **[Mount](mount.md)**: Summons riding horse for 2 hours/level.
 - Returning Weapon
 - **[Spirit Share](spirit-share.md)**: Deliver a drink or potion by touch
+- **[Tears to Wine](tears-to-wine.md)**: Turn liquids into wine that sharpens the mind.
 - **[True Appraisal](true-appraisal.md)**: Gain insight into the value of objects
 - **[Unseen Servant](unseen-servant.md)**: Invisible force obeys your commands.
 
@@ -193,6 +195,7 @@ Occultists gain access to the following spells, determined by their chosen imple
 - **[Crimson Confession](crimson-confession.md)**
 - **[Debasing Touch](debasing-touch.md)**: Target's touch turns coins to copper.
 - **[Escape Alarm](escape-alarm.md)**: Ward an area to alert you when someone leaves
+- **[Force Sword](force-sword.md)**: Create a longsword of pure force.
 - **[Hidden Knowledge](hidden-knowledge.md)**: Store knowledge in a tattoo, forgetting it temporarily.
 - **[Hoodwink](hoodwink.md)**: Befuddle targets so they can be led away
 - **[Huntmaster’s Spear](huntmasters-spear.md)**: Spear becomes a +1 weapon against a chosen favored-enemy type and can be discharged for a powerful attack.
@@ -204,10 +207,12 @@ Occultists gain access to the following spells, determined by their chosen imple
 - **[Restful Cloak](restful-cloak.md)**: Turn your cloak into a healing tent.
 - **[Rotgut](rotgut.md)**: Turn water into cheap alcohol
 - **[Rune of Rule](rune-of-rule.md)**: Paint a rune on an ally that grants a one-time boost.
+- **[Splinter Spell Resistance](splinter-spell-resistance.md)**: Your weapon lowers a foe's spell resistance by 5.
 - **[Surefoot Boots](surefoot-boots.md)**: Footwear grants perfect balance.
 - **[Sympathetic Aura](sympathetic-aura.md)**: Magic aura that also covers similar nearby items.
 - **[Violent Accident](violent-accident.md)**: Curse a creature to suffer a damaging accident within 24 hours.
 - **[Wicker Horse](wicker-horse.md)**: Animate plants into a riding horse
+- **[Winged Sword](winged-sword.md)**: A melee weapon gains the throwing special ability.
 - **[With the Wind](with-the-wind.md)**: Protect a target from being blown away by wind of less than windstorm force.
 
 **Conjuration**:
@@ -345,10 +350,13 @@ Occultists gain access to the following spells, determined by their chosen imple
 
 - **[Akashic Communion](akashic-communion.md)**: Many Knowledge checks with +10 insight.
 - **[Cloak of Winds](cloak-of-winds.md)**: Creates a whirling screen of strong wind around you.
+- **[Deft Digits](deft-digits.md)**: Animate a glove to manipulate objects at a distance.
 - **[Dispel Magic](dispel-magic.md)**: Cancels one magical spell or effect.
 - **[Erase Impressions](erase-impressions.md)**: Erase psychic impressions from an object.
 - **[Explosive Runes](explosive-runes.md)**: Deals 6d6 damage when read.
+- **[Full Pouch](full-pouch.md)**: Duplicate an alchemical item as you draw it.
 - **[Geomessage](geomessage.md)**: Leave an invisible message on a surface
+- **[Guardian Monument, Lesser](guardian-monument-lesser.md)**: Humans defending the area gain DR 2/magic.
 - **[Guarding Knowledge](guarding-knowledge.md)**: +4 insight bonus on saves against one identified monster special attack.
 - **[Irregular Size](irregular-size.md)**: Curse shrivels arms, legs, or wings.
 - **[Magic Circle against Chaos](magic-circle-against-chaos.md)**
@@ -360,6 +368,7 @@ Occultists gain access to the following spells, determined by their chosen imple
 - **[Protection from Energy](protection-from-energy.md)**: Absorbs 12 points/level of damage from one kind of energy.
 - Resist Energy, Communal
 - **[Quell Energy](quell-energy.md)**: Reduce a creature's energy damage of one type.
+- **[Rags to Riches](rags-to-riches.md)**: Objects function as masterwork with extra bonuses.
 - **[Retributive Reparations](retributive-reparations.md)**: Thieves of the warded item grow fatigued, then exhausted.
 - **[Selective Alarm](selective-alarm.md)**: As *alarm*, but only against selected creatures.
 - **[Shaper’s Touch](shapers-touch.md)**: Reshape an object as though it were clay.
@@ -493,6 +502,7 @@ Occultists gain access to the following spells, determined by their chosen imple
 - **[Flash Forward](flash-forward.md)**: Make a charge attack, then teleport back.
 - **[Freedom of Movement](freedom-of-movement.md)**: Subject moves normally despite impediments to movement.
 - **[Globe of Invulnerability, Lesser](globe-of-invulnerability-lesser.md)**: Stops 1st- through 3rd- level spell effects.
+- **[Hero's Spellsword](heros-spellsword.md)**: Merge a rod or staff into a melee weapon.
 - **[Life Bubble](life-bubble.md)**: Protects creatures from sustained environmental effects.
 - Nondetection, Communal
 - **[Peacebond, Greater](peacebond-greater.md)**: As *peacebond*, but on multiple weapons, even if they aren’t sheathed.
@@ -625,6 +635,8 @@ Occultists gain access to the following spells, determined by their chosen imple
 - Spell Immunity, Communal
 - **[Dream Reality](dream-reality.md)**: The target perceives the world as a dream and forgets it.
 - **[Ectoplasmic Hand](ectoplasmic-hand.md)**: Create a ghostly hand that attacks, manipulates, and delivers touch spells.
+- **[Foretell Failure](foretell-failure.md)**: Learn whether an action would succeed on a roll of 10.
+- **[Guardian Monument, Greater](guardian-monument-greater.md)**: Humans defending the area gain DR 4/magic.
 - **[Particulate Form](particulate-form.md)**: Targets gain fast healing and immunity to critical hits.
 - **[Secret Workshop](secret-workshop.md)**: As nondetection, but protects many creatures and objects.
 - **[Spell Resistance](spell-resistance.md)**: Subject gains SR 12 + level.
@@ -708,12 +720,14 @@ Occultists gain access to the following spells, determined by their chosen imple
 
 - **[Absorb Rune II](absorb-rune-ii.md)**: Absorb a rune of 5th level or lower.
 - **[Antimagic Field](antimagic-field.md)**: Negates magic within 10 ft.
+- **[Artificer's Curse](artificers-curse.md)**: Suppress a magic item's qualities.
 - **[Balance of Suffering](balance-of-suffering.md)**: Drain one creature to heal another.
 - **[Betraying Sting](betraying-sting.md)**: Smite those who trusted you
 - **[Forbiddance](forbiddance.md)**: Blocks planar travel, damages creatures of different alignment.
 - **[Globe of Invulnerability](globe-of-invulnerability.md)**: As *lesser globe of invulnerability*, plus 4th-level spell effects.
 - **[Invoke Deity](invoke-deity.md)**: Infuse yourself with the powers of your deity's planar realm
 - **[Knock, Mass](knock-mass.md)**: Open many locks or closures at once
+- **[Last Hero's Defending Sword](last-heros-defending-sword.md)**: A force sword that defends you, then attacks a foe.
 - **[Lost Legacy](lost-legacy.md)**: Others forget positive interactions with the target.
 - **[Repulsion](repulsion.md)**: Creatures can’t approach you.
 - **[Rotting Alliance](rotting-alliance.md)**: Curse several creatures to waste away when near one another.

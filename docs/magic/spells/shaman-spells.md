@@ -67,6 +67,7 @@ Shamans gain access to the following spells. Spells in plain text come from othe
 - **[Incessant Buzzing](incessant-buzzing.md)**: Illusory wasp swarm disrupts concentration
 - **[Inflict Light Wounds](inflict-light-wounds.md)**: Touch deals 1d8 damage +1/level (max +5).
 - **[Itching Curse](itching-curse.md)**: Itch gives –1 penalty unless scratched.
+- **[Linked Legacy](linked-legacy.md)**: Share Knowledge check results with the linked creatures.
 - **[Magic Stone](magic-stone.md)**: Three stones gain +1 on attack rolls, deal 1d6+1 damage.
 - **[Magic Weapon](magic-weapon.md)**: Weapon gains +1 bonus.
 - **[Mindlink](mindlink.md)**: Communicate a great deal of information in an instant.
@@ -90,6 +91,7 @@ Shamans gain access to the following spells. Spells in plain text come from othe
 - Stone Shield
 - **[Spirit Call](spirit-call.md)**: Spirit and domain spells in the area are stronger.
 - **[Spirit Share](spirit-share.md)**: Deliver a drink or potion by touch
+- **[Tears to Wine](tears-to-wine.md)**: Turn liquids into wine that sharpens the mind.
 - **[Thorn Javelin](thorn-javelin.md)**: Wield a javelin that sickens opponents when it strikes.
 - **[Twisted Futures](twisted-futures.md)**: Target can't reroll or pick die results.
 - **[Underbrush Decoy](underbrush-decoy.md)**: Create a rustling distraction to hide.
@@ -179,6 +181,7 @@ Shamans gain access to the following spells. Spells in plain text come from othe
 - **[Spindrift Spritz](spindrift-spritz.md)**: Ally rerolls a save against fatigue, shaken, sickened, or staggered.
 - **[Spiritual Squire](spiritual-squire.md)**: A force servant helps carry, aid, and armor allies.
 - **[Spiritual Weapon](spiritual-weapon.md)**: Magic weapon attacks on its own.
+- **[Splinter Spell Resistance](splinter-spell-resistance.md)**: Your weapon lowers a foe's spell resistance by 5.
 - **[Storm Sight](storm-sight.md)**: Sense creatures caught in a storm.
 - **[Summon Swarm](summon-swarm.md)**: Summons swarm of bats, rats, or spiders.
 - **[Sun’s Disdain](suns-disdain.md)**: Target is hurt by sunlight.
@@ -224,6 +227,7 @@ Shamans gain access to the following spells. Spells in plain text come from othe
 - Fins to Feet
 - **[Fey Form I](fey-form-i.md)**: Assume the form of a Small or Medium fey creature.
 - **[Final Sacrifice](final-sacrifice.md)**: Detonate a summoned creature
+- **[Find Fault](find-fault.md)**: Learn a creature's weaknesses and gain +5 on your first attack.
 - **[Flashfire](flashfire.md)**: Cause smoky fires to spring up to burn foes and set them alight.
 - **[Flesh Puppet](flesh-puppet.md)**: Control a zombie in human guise.
 - **[Fly](fly.md)**: Subject flies at speed of 60 ft.
@@ -306,6 +310,7 @@ Shamans gain access to the following spells. Spells in plain text come from othe
 - **[Forest’s Sense](forests-sense.md)**: Sense the location of a distant target that is near a plant or fungus.
 - **[Giant Vermin](giant-vermin.md)**: Turns centipedes, scorpions, or spiders into giant vermin.
 - **[Glimpse of Truth](glimpse-of-truth.md)**: Gain *true seeing* for 1 round.
+- **[Guardian Monument, Lesser](guardian-monument-lesser.md)**: Humans defending the area gain DR 2/magic.
 - **[Hunger for Flesh](hunger-for-flesh.md)**: Give a creature a bite attack and a hunger for its own kind’s flesh.
 - **[Ice Storm](ice-storm.md)**: Hail deals 5d6 damage in cylinder 40 ft. across.
 - **[Imbue with Spell Ability](imbue-with-spell-ability.md)**: Transfer spells to subject.
@@ -359,6 +364,7 @@ Shamans gain access to the following spells. Spells in plain text come from othe
 - **[Animal Growth](animal-growth.md)**: One animal doubles in size.
 - **[Baleful Polymorph](baleful-polymorph.md)**: Transforms subject into harmless animal.
 - **[Ban Corruption](ban-corruption.md)**: Eliminate the gifts of nearby corrupted creatures.
+- **[Banishing Blade](banishing-blade.md)**: The weapon bull rushes foes and can banish outsiders.
 - **[Befuddled Combatant](befuddled-combatant.md)**: Reduces a target’s ability DCs by 4 and its damage to minimum.
 - **[Blight](blight.md)**: Withers one plant or deals 1d6/level damage to plant creature.
 - **[Blood Tentacles](blood-tentacles.md)**: Blood tentacles attack and heal you.
@@ -456,12 +462,14 @@ Shamans gain access to the following spells. Spells in plain text come from othe
 ## 7th-Level Shaman Spells
 
 - **[Animate Plants](animate-plants.md)**: One or more plants animate and fight for you.
+- **[Artificer's Curse](artificers-curse.md)**: Suppress a magic item's qualities.
 - **[Cloak of Dreams](cloak-of-dreams.md)**: Creatures within 5 ft. fall asleep.
 - **[Contact Entity IV](contact-entity-iv.md)**: Ask extraordinarily powerful eldritch entities to find and converse with you, or they may reply telepathically.
 - **[Control Weather](control-weather.md)**: Changes weather in local area.
 - **[Creeping Doom](creeping-doom.md)**: Swarms of centipedes attack at your command.
 - **[Cure Serious Wounds, Mass](cure-serious-wounds-mass.md)**: Cures 3d8 damage + 1/level, affects 1 subject/level.
 - **[Delectable Flesh](delectable-flesh.md)**: Creatures near the target become depraved and attack it to feast.
+- **[Emblem of Greed](emblem-of-greed.md)**: Turn a melee weapon into a burning glaive.
 - **[Entice Fey](entice-fey.md)**: Entice service from a fey of 12 Hit Dice or fewer.
 - **[Fairy Ring Retreat](fairy-ring-retreat.md)**: Toadstool circle leads to an extradimensional meadow.
 - **[Frost Mammoth](frost-mammoth.md)**: Conjure a rideable snow mammoth.
@@ -470,6 +478,7 @@ Shamans gain access to the following spells. Spells in plain text come from othe
 - **[Hunger for Flesh, Mass](hunger-for-flesh-mass.md)**: Give creatures bite attacks and a hunger for their own kind’s flesh.
 - **[Ice Body](ice-body.md)**: Your body becomes living ice.
 - **[Inflict Serious Wounds, Mass](inflict-serious-wounds-mass.md)**: Deals 3d8 damage + 1/level, affects 1 subject/level.
+- **[Legendary Proportions](legendary-proportions.md)**: Increase a creature's size category with large bonuses.
 - **[Liveoak](liveoak.md)**: Oak becomes treant guardian.
 - **[Plane Shift](plane-shift.md)**: As many as eight subjects travel to another plane.
 - **[Plundered Power](plundered-power.md)**: Kill a creature and steal its strongest spell-like ability.
@@ -499,6 +508,7 @@ Shamans gain access to the following spells. Spells in plain text come from othe
 - **[False Resurrection](false-resurrection.md)**: Appear to resurrect someone but instead allow a shadow demon to possess the corpse.
 - **[Fey Form IV](fey-form-iv.md)**: Assume the form of a powerful fey creature.
 - **[Fire Storm](fire-storm.md)**: Deals 1d6/level fire damage.
+- **[Hero's Magic Army](heros-magic-army.md)**: Grant allies' weapons enhancement bonuses.
 - **[Horrid Wilting](horrid-wilting.md)**: Deals 1d6/level damage within 30 ft.
 - **[Inflict Critical Wounds, Mass](inflict-critical-wounds-mass.md)**: Deals 4d8 damage + 1/level, affects 1 subject/level.
 - **[Irresistible Dance](irresistible-dance.md)**: Forces subject to dance.

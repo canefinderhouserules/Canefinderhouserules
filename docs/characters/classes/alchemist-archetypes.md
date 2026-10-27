@@ -270,6 +270,18 @@ The two copies act independently and each one has a full set of actions. At the 
 
 **Remedy Extract**: When the alchemist creates an extract, he can add one nonmagical alchemical remedy (such as an antitoxin) to it. When the extract is consumed, both the formula and the alchemical remedy take effect. The extract has a level 1 higher than normal. This discovery cannot be combined with other methods of combining multiple consumed items or extracts into one. An alchemist must be at least 4th level before selecting this discovery.
 
+## Anointings
+
+The power of transmutation is evident in magical oils and pastes that alter the properties of objects when applied. Alchemists can choose any of the following anointings in place of a normal discovery. An alchemist can use any of the anointings he knows a total number of times per day equal to 3 + his alchemist level. Unless an anointing specifies otherwise, all anointings require a standard action to apply (this provokes attacks of opportunity) and last for 1 minute per alchemist level. Investigators can choose any of these discoveries with the alchemist discovery investigator talent. Clerics with the artifice domain can select an anointing in place of their 8th-level domain ability. Transmuter wizards can gain anointings in place of wizard bonus feats. Witches with transformation patrons can gain a single anointing in place of a major hex. In each of these cases, the character treats levels in the class used to select the anointing as his alchemist level for all relevant anointing calculations.
+
+**Eldritch Enhancement (Su)**: The alchemist douses a weapon, shield, or suit of armor with a glowing green wash. The caster level of any of the item's magical properties increases by the alchemist's Intelligence modifier for the purposes of effects, including calculations based on level, overcoming spell resistance, or being dispelled.
+
+**Essence Booster (Su)**: The alchemist applies this golden liniment to a weapon or suit of armor that has a tiered special ability (a special ability available in varying degrees of potency, such as light fortification or shadow). The affected special ability increases by one step (to moderate fortification or greater shadow, for example). If the item has multiple tiered special abilities, the alchemist chooses one to affect. The item's enhancement bonus increases by 1 if it has no tiered magical qualities. The alchemist must be at least 8th level to choose this anointing.
+
+**Mercurial Oil (Su)**: This gleaming silver fluid sinks into a magical metal weapon or suit of armor and temporarily liquefies the interior. An affected weapon gains momentum as its center of gravity moves outward during a swing, dealing damage as if it were one size category larger than it actually is. Affected armor resists impact and provides the wearer DR 2/—.
+
+**Orichalcum Dust (Su)**: The alchemist sprinkles a small quantity of colorful dust that comprises the essence of all four elements. By favoring one element over another in this mixture, the alchemist temporarily changes the energy type of one weapon into another. For example, the alchemist can choose for a bomb to deal acid damage or a weapon with the shocking burst special ability to deal fire damage instead. Once an elemental effect is changed, it cannot be changed again until the anointing's duration expires.
+
 ## Inspired Chemist
 
 Akin to a mindchemist, inspired chemists use a type of cognatogen that instead of increasing their mental ability scores grants them inspiration like an investigator. This inspiration also grants an inspired chemist amazing powers to avoid danger, but takes a toll on both physical power and health.

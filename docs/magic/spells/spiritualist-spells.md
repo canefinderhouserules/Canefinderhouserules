@@ -95,6 +95,7 @@ Spiritualists gain access to the following spells. Spells without a link come fr
 - **[Emotive Block](emotive-block.md)**: Add an emotion component to all of the target’s spells.
 - **[Escape Alarm](escape-alarm.md)**: Ward an area to alert you when someone leaves
 - **[False Life](false-life.md)**: Gain 1d10 temporary hp + 1/level (max +10).
+- **[Force Sword](force-sword.md)**: Create a longsword of pure force.
 - **[Garrulous Grin](garrulous-grin.md)**: Target seems guilty and takes –4 on Bluff and Diplomacy.
 - **[Gentle Repose](gentle-repose.md)**: Preserves one corpse.
 - **[Ghost Whip](ghost-whip.md)**: Create a ghost touch whip that passes through objects.
@@ -154,8 +155,10 @@ Spiritualists gain access to the following spells. Spells without a link come fr
 - **[Cloak of Winds](cloak-of-winds.md)**: Creates a whirling screen of strong wind around you.
 - **[Condensed Ether](condensed-ether.md)**: Creates a planar conjunction that slows movement, penalizes AC and Reflex saves, and imposes a miss chance on ranged attacks.
 - **[Contagious Zeal](contagious-zeal.md)**: Grant bonuses and temporary hit points that spread from creature to creature.
+- **[Create Armaments](create-armaments.md)**: Create a nonmagical weapon, shield, or armor.
 - **[Cure Serious Wounds](cure-serious-wounds.md)**: Cures 3d8 damage + 1/level (max +15).
 - **[Cursed Treasure](cursed-treasure.md)**: Curse treasure so the next thief is afflicted
+- **[Deft Digits](deft-digits.md)**: Animate a glove to manipulate objects at a distance.
 - **[Detect Anxieties](detect-anxieties.md)**: Learn what makes creatures anxious.
 - **[Detect Desires](detect-desires.md)**: Learn what creatures desire.
 - **[Dispel Magic](dispel-magic.md)**: Cancels one magical spell or effect.
@@ -297,6 +300,7 @@ Spiritualists gain access to the following spells. Spells without a link come fr
 
 ## 5th-Level Spiritualist Spells
 
+- **[Banishing Blade](banishing-blade.md)**: The weapon bull rushes foes and can banish outsiders.
 - **[Break Enchantment](break-enchantment.md)**: Frees subjects from enchantments, transmutations, and curses.
 - **[Breath of Life](breath-of-life.md)**: Cures 5d8 damage + 1/level and restores life to recently slain creatures.
 - **[Call Spirit](call-spirit.md)**: Make the spirit of one creature manifest.
@@ -366,6 +370,7 @@ Spiritualists gain access to the following spells. Spells without a link come fr
 - **[Create Undead](create-undead.md)**: Raises ghouls, ghasts, mummies, or mohrgs from physical remains.
 - **[Disintegrate](disintegrate.md)**: Reduces one creature or object to dust.
 - **[Dispel Magic, Greater](dispel-magic-greater.md)**: As *dispel magic*, but with multiple targets.
+- **[Dissolution](dissolution.md)**: Make a small object vanish from reality temporarily.
 - **[Ectoplasmic Eruption](ectoplasmic-eruption.md)**: Deal 6d6 points of damage and entangle creatures in a 30-ft. radius, and push ethereal and incorporeal creatures onto the Material Plane.
 - **[Enemy Hammer](enemy-hammer.md)**: Allows you to telekinetically use a creature as a weapon.
 - **[Eyebite](eyebite.md)**: Target becomes panicked, sickened, and comatose.

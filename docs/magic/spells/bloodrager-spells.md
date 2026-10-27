@@ -13,6 +13,7 @@ Bloodragers gain access to the following spells. Spells in plain text come from 
 - **[Break](break.md)**: Gives an object the broken condition.
 - **[Burning Hands](burning-hands.md)**: 1d4/level fire damage (max 5d4).
 - **[Cause Fear](cause-fear.md)**: A creature of 5 HD or less flees for 1d4 rounds.
+- **[Celestial Healing](celestial-healing.md)**: Target gains fast healing 1.
 - **[Chill Touch](chill-touch.md)**: One touch/level deals 1d6 damage and possibly 1 Str damage.
 - **[Coin Shot](coin-shot.md)**: Turns coins into bullets.
 - **[Color Spray](color-spray.md)**: Knocks unconscious, blinds, and/or stuns weak creatures.
@@ -108,12 +109,14 @@ Bloodragers gain access to the following spells. Spells in plain text come from 
 - **[Final Sacrifice](final-sacrifice.md)**: Detonate a summoned creature
 - **[Fire Breath](fire-breath.md)**: Exhale a cone of flame at will.
 - **[Flaming Sphere](flaming-sphere.md)**: Rolling ball of fire deals 3d6 fire damage.
+- **[Force Sword](force-sword.md)**: Create a longsword of pure force.
 - **[Frigid Touch](frigid-touch.md)**: Target takes cold damage and is staggered.
 - **[Ghoul Touch](ghoul-touch.md)**: Paralyzes one subject, which exudes stench that makes those nearby sickened.
 - **[Glitterdust](glitterdust.md)**: Blinds creatures, outlines invisible creatures.
 - Gusting Sphere
 - **[Gust of Wind](gust-of-wind.md)**: Blows away or knocks down smaller creatures.
 - Imbue with Elemental Might
+- **[Heckle](heckle.md)**: Sour a target's mood and impose –2 penalties.
 - **[Huntmaster’s Spear](huntmasters-spear.md)**: Spear becomes a +1 weapon against a chosen favored-enemy type and can be discharged for a powerful attack.
 - **[Instant Weapon](instant-weapon.md)**: Create a masterwork melee weapon of force.
 - **[Ironskin](ironskin.md)**: Harden your skin to iron
@@ -124,6 +127,7 @@ Bloodragers gain access to the following spells. Spells in plain text come from 
 - **[Mirror Image](mirror-image.md)**: Creates decoy duplicates of you.
 - **[Molten Orb](molten-orb.md)**: Molten metal splash weapon deals 2d6 fire damage plus ongoing damage.
 - **[Overstimulate](overstimulate.md)**: Grant ferocity to keep a creature conscious
+- **[Perfect Placement](perfect-placement.md)**: Allies gain +1 insight to AC and Reflex saves.
 - **[Pouncing Fury](pouncing-fury.md)**: Make a full attack with your claws after a charge.
 - **[Protection from Arrows](protection-from-arrows.md)**: Subject gains DR 10/magic against ranged attacks.
 - **[Pyrotechnics](pyrotechnics.md)**: Turns fire into blinding light or thick smoke.
@@ -139,6 +143,7 @@ Bloodragers gain access to the following spells. Spells in plain text come from 
 - **[Sonic Scream](sonic-scream.md)**: Create a cone of damaging sound at will.
 - **[Spider Climb](spider-climb.md)**: Grants ability to walk on walls and ceilings.
 - Steal Breath
+- **[Splinter Spell Resistance](splinter-spell-resistance.md)**: Your weapon lowers a foe's spell resistance by 5.
 - **[Steal Size](steal-size.md)**: Shrinks a larger target and enlarges you.
 - **[Stone Call](stone-call.md)**: 2d6 damage to all creatures in area.
 - **[Stone Discus](stone-discus.md)**: Flying discus deals bludgeoning or slashing damage.
@@ -147,6 +152,7 @@ Bloodragers gain access to the following spells. Spells in plain text come from 
 - **[Touch of Idiocy](touch-of-idiocy.md)**: Subject takes 1d6 penalty to Int, Wis, and Cha.
 - **[Unshakable Chill](unshakable-chill.md)**: Target is afflicted with severe cold.
 - **[Vine Strike](vine-strike.md)**: Enhance one of your natural or unarmed attacks with thorny vine growth.
+- **[Winged Sword](winged-sword.md)**: A melee weapon gains the throwing special ability.
 - **[With the Wind](with-the-wind.md)**: Protect a target from being blown away by wind of less than windstorm force.
 
 ## 3rd-Level Bloodrager Spells
@@ -173,6 +179,7 @@ Bloodragers gain access to the following spells. Spells in plain text come from 
 - **[Eruptive Pustules](eruptive-pustules.md)**: Acid boils burst when you are attacked.
 - **[Excruciating Deformation](excruciating-deformation.md)**: Target takes Dex and Con damage.
 - **[Fey Form I](fey-form-i.md)**: Assume the form of a Small or Medium fey creature.
+- **[Find Fault](find-fault.md)**: Learn a creature's weaknesses and gain +5 on your first attack.
 - **[Fireball](fireball.md)**: 1d6 damage per level, 20-ft. radius.
 - Firestream
 - Fire Trail
@@ -231,11 +238,13 @@ Bloodragers gain access to the following spells. Spells in plain text come from 
 
 - Absorbing Inhalation
 - **[Ball Lightning](ball-lightning.md)**: Flying lightning spheres deal 3d6 electricity damage each.
+- **[Banishing Blade](banishing-blade.md)**: The weapon bull rushes foes and can banish outsiders.
 - **[Beast Shape II](beast-shape-ii.md)**: You take the form and some of the powers of a Tiny or Large animal.
 - **[Bestow Curse](bestow-curse.md)**: –6 to an ability score; –4 on attack rolls, saves, and checks; or 50% chance of losing each action.
 - **[Black Tentacles](black-tentacles.md)**: Tentacles grapple all creatures within a 20-ft. spread.
 - **[Break, Greater](break-greater.md)**: Break all nearby objects.
 - **[Calcific Touch](calcific-touch.md)**: Touch attack slows target, 1d4 Dex damage.
+- **[Celestial Healing, Greater](celestial-healing-greater.md)**: Target gains fast healing 4.
 - **[Confusion](confusion.md)**: Subjects behave oddly for 1 round/level.
 - **[Contagion](contagion.md)**: Infects subject with chosen disease.
 - **[Controlled Fireball](controlled-fireball.md)**: As *fireball,* but secretly deals less damage to your allies.
@@ -257,6 +266,7 @@ Bloodragers gain access to the following spells. Spells in plain text come from 
 - Hellmouth Lash
 - **[Flash Forward](flash-forward.md)**: Make a charge attack, then teleport back.
 - **[Furious Fire Barrage](furious-fire-barrage.md)**: Throw fireballs fueled by anger.
+- **[Hero's Spellsword](heros-spellsword.md)**: Merge a rod or staff into a melee weapon.
 - **[Hollow Heroism](hollow-heroism.md)**: Provide a *heroism* effect that you can reverse at any time.
 - **[Horrific Doubles](horrific-doubles.md)**: Call forth disturbing *mirror images*.
 - **[Ice Storm](ice-storm.md)**: Hail deals 5d6 damage in cylinder 40 ft. across.

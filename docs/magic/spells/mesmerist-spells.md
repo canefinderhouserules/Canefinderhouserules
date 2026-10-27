@@ -85,6 +85,7 @@ Mesmerists gain access to the following spells. Spells without a link come from 
 - **[Invigorate](invigorate.md)**: Temporarily relieves fatigue or exhaustion.
 - Jitterbugs
 - Lock Gaze
+- **[Linked Legacy](linked-legacy.md)**: Share Knowledge check results with the linked creatures.
 - **[Magic Aura](magic-aura.md)**: Alters object’s magic aura.
 - **[Magic Mouth](magic-mouth.md)**: Object speaks once when triggered.
 - **[Memorize Page](memorize-page.md)**
@@ -180,6 +181,7 @@ Mesmerists gain access to the following spells. Spells without a link come from 
 - **[Glitterdust](glitterdust.md)**: Blinds creatures, outlines invisible creatures.
 - **[Haunting Mists](haunting-mists.md)**: Creatures are shaken and take Wis damage.
 - **[Haunting Reminder](haunting-reminder.md)**: Coerced target becomes shaken if it betrays you.
+- **[Heckle](heckle.md)**: Sour a target's mood and impose –2 penalties.
 - **[Hidden Knowledge](hidden-knowledge.md)**: Store knowledge in a tattoo, forgetting it temporarily.
 - **[Hidden Presence](hidden-presence.md)**: Prevent creatures from noticing your presence.
 - **[Hidden Speech](hidden-speech.md)**: Gain +10 on Bluff to send secret messages.
@@ -343,6 +345,7 @@ Mesmerists gain access to the following spells. Spells without a link come from 
 - **[Shadow Enchantment](shadow-enchantment.md)**: Quasi-real enchantment of 2nd level or lower.
 - **[Smug Narcissism](smug-narcissism.md)**: Target is distracted by its sense of self.
 - **[Spite](spite.md)**
+- **[Stage Fright](stage-fright.md)**: Targets take –4 on ability, skill, and concentration checks.
 - **[Symbol of Laughter](symbol-of-laughter.md)**
 - **[Synaptic Pulse](synaptic-pulse.md)**: Stun creatures in a 30-ft. radius.
 - **[Synaptic Scramble](synaptic-scramble.md)**: Prevent the target from communicating and cause it to act randomly.
@@ -427,6 +430,7 @@ Mesmerists gain access to the following spells. Spells without a link come from 
 - **[Telepathy](telepathy.md)**: Communicate mentally with creatures within 100 ft.
 - **[Thoughtsense](thoughtsense.md)**: Automatically detect nearby conscious creatures.
 - Truespeak
+- **[Tough Crowd](tough-crowd.md)**: Allies resist the next enchantment or illusion and manipulation.
 - **[Utter Contempt](utter-contempt.md)**: Target’s attitude worsens by two categories.
 - **[Vicarious View](vicarious-view.md)**: Plant a scrying sensor that you can use to spy on a creature, object, or location.
 - **[Vigilant Rest](vigilant-rest.md)**: Cause a sleeping creature to retain some perception of its surroundings.
@@ -451,6 +455,7 @@ Mesmerists gain access to the following spells. Spells without a link come from 
 - **[Feeblemind](feeblemind.md)**: Subject’s Int and Cha drop to 1.
 - **[Foe to Friend](foe-to-friend.md)**: Redirect an enemy creature's attack.
 - **[Foster Hatred](foster-hatred.md)**: Cause creatures to hate one type of creature.
+- **[Grand Destiny](grand-destiny.md)**: Target gains a +4 bonus on two chosen rolls.
 - **[Inflict Pain, Mass](inflict-pain-mass.md)**: As inflict pain, but affecting one creature per level.
 - **[Inveigle Monster](inveigle-monster.md)**: As inveigle person, but affects any living creature for 1 day/level.
 - **[Joyful Rapture](joyful-rapture.md)**: Negate harmful emotions.

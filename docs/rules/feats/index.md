@@ -1530,6 +1530,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Aura of Succumbing](aura-of-succumbing.md) | — | Channel energy class feature, worshiper of a deity of death or plague |
 | [Authoritative Spell](authoritative-spell.md) | Metamagic | — |
 | [Aversion Tolerance](aversion-tolerance.md) | — | Vampire |
+| [Avid Spellbook Reader](avid-spellbook-reader.md) | — | Ability to prepare arcane spells |
 | [Awe-Inspiring Smash](awe-inspiring-smash.md) | Combat, Performance | Str 15, Power Attack, base attack bonus +3 |
 | [Awesome Charge](awesome-charge.md) | Combat | Str 25, Awesome Blow, Improved Bull Rush, Power Attack |
 | [Axiomatic Discourse](axiomatic-discourse.md) | Conduit | Diplomacy 3 ranks, Knowledge (planes) 3 ranks |
@@ -2128,6 +2129,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Pack Intimidation](pack-intimidation.md) | Combat, Teamwork | Half-orc, intimidating racial trait |
 | [Pack Rat](pack-rat.md) | — | Ratfolk |
 | [Pack Tactics](pack-tactics.md) | — | Int 13, animal companion class feature |
+| [Painful Blow](painful-blow.md) | Combat | Vital Strike, base attack bonus +6, Knowledge (arcana) 3 ranks |
 | [Painful Cures](painful-cures.md) | — | Evil alignment |
 | [Passed Critical](passed-critical.md) | Combat | Combat Expertise, worshiper of a deity of luck or dreams |
 | [Peace of Mind](peace-of-mind.md) | Conduit | Knowledge (planes) 3 ranks |
@@ -2209,6 +2211,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Riptide Attack](riptide-attack.md) | Combat | Improved Drag, Improved Trip, worshiper of a deity of the sea and storms |
 | [Ritual Hex](ritual-hex.md) | — | Knowledge (arcana) 4 ranks, Knowledge (history) 4 ranks, hex class feature |
 | [Ritual Mask](ritual-mask.md) | — | Nameless One, occult rituals |
+| [Ritualistic Preparation](ritualistic-preparation.md) | — | Knowledge (arcana) 1 rank, Linguistics 1 rank, Spellcraft 1 rank, ability to cast *read magic* |
 | [Rival](rival.md) | Story | See text |
 | [Robot’s Bane](robots-bane.md) | — | Knowledge (engineering) 5 ranks |
 | [Rugged Northerner](rugged-northerner.md) | — | Con 13, Survival 1 rank |
@@ -2302,6 +2305,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Spectacular Exit](spectacular-exit.md) | Combat, Performance | Dex 15, Dodge, Acrobatics 7 ranks |
 | [Spectrum Sight](spectrum-sight.md) | — | Alertness, Perception 5 ranks |
 | [Spell Chain](spell-chain.md) | Teamwork | Spell Penetration |
+| [Spell Denial](spell-denial.md) | — | Con, Dex, or Wis 13 |
 | [Spell Sponge](spell-sponge.md) | — | Animal companion or familiar, share spells ability |
 | [Spellcut](spellcut.md) | Weapon Mastery | Str 13, Cut from the Air, Power Attack, base attack bonus +9, Spellcraft 1 rank, weapon training class feature with a melee weapon |
 | [Spiked Destroyer](spiked-destroyer.md) | Combat | Proficient with armor spikes |

@@ -319,3 +319,13 @@ The urban skald finds that challenging and mocking foes is sometimes more effect
 All other foes within 60 feet of the skald are secondary targets. Secondary targets must succeed at Will saves or they cannot treat the primary target as an ally, and cannot target it with spells or abilities that are harmless. These effects remain as long as the secondary targets are within 60 feet of the skald and the skald maintains the performance. This is a sonic mind-affecting charm effect. This ability replaces dirge of doom.
 
 **Back of the Crowd (Ex)**: At 3rd level, an urban skald has learned to maximize the defensive benefit of being near allies. He gains a +1 dodge bonus to AC when adjacent to 2 or more allies. This bonus increases to +2 at 9th level and to +3 at 15th level.
+
+## Augur
+
+Augurs treat divination as a tool of war, reading signs and portents to anticipate their enemies' moves.
+
+**Monster Insight (Ex)**: At 2nd level, the augur applies his Charisma modifier in addition to his Intelligence modifier when attempting Knowledge checks to identify the abilities and weaknesses of creatures. Monster insight counts as the monster lore class feature for prerequisites. This ability replaces well-versed.
+
+**Signs and Portents (Su)**: At 2nd level, an augur can read signs and portents to attempt to ascertain how events in the near future will play out. This allows the augur to cast *augury* as a spell-like ability. At 7th level, he can instead use signs and portents to cast *divination* as a spell-like ability, and at 12th level, he can instead cast *commune* as a spell-like ability. At 17th level, he can use signs and portents twice per day. This ability replaces all types of versatile performance.
+
+**Predictive Strike (Su)**: At 5th level, the augur accurately divines the possible movements of his enemies in combat. Once per day as a free action, he can declare one of his melee attacks to be a predictive strike. Against the augur's attack, the target is flat-footed and gains no benefits from concealment or cover. Attacks from other creatures are treated normally. The target still benefits from total concealment and total cover normally. At 11th level, the augur can use this ability a total of two attacks per day, and at 17th, three attacks per day. This replaces spell kenning.
