@@ -343,3 +343,25 @@ Many bird-folk hold some bitterness at their lack of wings, and while a small nu
 ***Impossible Leap (Ex)***: At 7th level, as long as the courser has at least 1 panache point and is wearing light armor or no armor, she adds her swashbuckler level on all Acrobatics checks to jump. She can spend 1 panache point as an immediate action to jump 10 feet in the direction of her choice. This ability can be used to extend another jump or change direction mid-jump. If used in response to an attack, this deed functions as the dodging panache deed, but it allows the courser to move 10 feet. This deed replaces the superior feint deed.
 
 ***Swift Strikes (Ex)***: At 11th level, the courser can spend 1 panache point to target two separate creatures when she uses the Spring Attack feat. She rolls the attack once and compares the result to each target's Armor Class separately. Additional damage—such as from a critical hit or weapon property—applies to only the first target struck. Her movement still provokes attacks of opportunity normally from any creature she doesn't attack. This deed replaces the bleeding wound deed.
+
+## Monastic Corsair
+
+*Swashbuckler archetype.* A monastic corsair practices a unique acrobatic martial art that draws inspiration from both the mysticism of monastic combat traditions and the flair of a swashbuckler. This style originated among far-travelling pirates and has since spread and become popular on the high seas.
+
+**Weapon and Armor Proficiency**: Monastic corsairs are proficient with simple weapons and all weapons from the monk weapon group, as well as light armor and bucklers. This replaces the swashbuckler's weapon and armor proficiency.
+
+**Corsair Finesse (Ex)**: A monastic corsair gains the benefits of the Weapon Finesse feat with light or one-handed melee weapons from the monk weapon group, and she can use her Charisma score in place of Intelligence and Wisdom for the purpose of meeting prerequisites for combat feats. This ability counts as the Weapon Finesse feat for the purpose of meeting feat prerequisites. This replaces swashbuckler finesse.
+
+**Corsair Panache (Ex)**: A monastic corsair regains panache only when she confirms a critical hit or makes a killing blow with a light or one-handed weapon from the monk weapon group. Additionally, the monastic corsair gains the ability to use a light or one-handed monk weapon for her swashbuckler class features, deeds, and feats, even if the weapon is not a piercing weapon, but she can't use other light or one-handed weapons with her class features or deeds. This alters panache.
+
+**Deeds**: A monastic corsair gains the following deeds.
+
+**Ki Panache (Su)**: At 3rd level, a power similar to a monk's ki awakens within the monastic corsair. She can spend 1 panache point as a swift action to gain one of the following three benefits: she can make one additional attack at her highest attack bonus when making a full attack, she can increase her speed by 20 feet for 1 round, or she can give herself a +4 dodge bonus to AC for 1 round. This deed replaces menacing swordplay.
+
+**Slow Fall (Su)**: At 7th level, the monastic corsair can spend 1 panache point to slow her descent as per feather fall, treating her swashbuckler level as her caster level, provided that she is adjacent to a wall. This deed replaces superior feint.
+
+**High Jump (Su)**: At 11th level, so long as the monastic corsair has at least 1 panache point, she adds her level as a bonus on Acrobatics checks to jump and always counts as having a running start. She can spend 1 panache point as a swift action to gain a +20 bonus on Acrobatics checks to jump for 1 round. This deed replaces bleeding wound.
+
+**Abundant Step (Su)**: At 15th level, a monastic corsair can spend 2 panache points as a move action to move magically between spaces, as dimension door. Her caster level for this effect is equal to her swashbuckler level. She can't take other creatures with her when she uses this ability. This deed replaces dizzying defense.
+
+**Bonus Feats**: At 4th level, a monastic corsair's swashbuckler levels are considered both fighter levels and monk levels for the purpose of meeting combat feat prerequisites. This alters the bonus feat class ability.

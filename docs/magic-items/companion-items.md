@@ -6041,3 +6041,35 @@ Any creature opening a cage of captivity can compel the trapped outsider to perf
 This ornate ring has a thick iron band covered in sigils of calling, and is set with a large glowing gemstone that appears to be an elemental gem. The ring serves as a gateway for a specific elder elemental (25% chance each for air, earth, fire, or water) that performs a narrow range of services when called. When activated with a command word, the elemental is called (as by *greater planar ally*) and demands to know what service it is to perform. It can only be commanded to protect a specific creature or object, attack a specific creature, damage a specific object, or answer questions about its home plane. The wearer of the ring is able to communicate with the elder elemental as if they shared a common language. The elder elemental serves for no more than 24 hours, after which it returns to its home plane and the ring becomes a valueless hunk of lead.
 
 **Construction Requirements:** Forge Ring, *planar ally*, *planar binding*; **Cost** 15,000 gp
+
+## Martial Arts Items
+
+### Infested Bandages
+
+**Slot** none; **CL** 10th; **Price** 13,500 gp; **Weight** —
+
+**Aura** moderate conjuration
+
+These pale, worn-looking +1 handwraps have become popular among those interested in gruesome yet versatile weapons. As a swift action, the wielder can summon clouds of vermin to land on her hands, covering her fists in living gauntlets of squirming, chitinous insects. The insects do not harm the wielder and can be dismissed with another swift action. While the wielder's hands are covered in vermin, she gains a +5 competence bonus on Intimidate checks, and her unarmed strikes with her fists deal full damage to swarms, regardless of the swarms' immunity to weapon damage (if any, although damage reduction applies as normal). In addition, three times per day as an immediate action upon succeeding at an attack with the infested bandages, the wielder can transfer some of the insects from her hands to the target. The target must succeed at a DC 16 Fortitude saving throw or be nauseated for 1 round.
+
+**Construction Requirements:** Craft Magic Arms and Armor, cause fear, repel vermin, summon swarm; **Cost** 6,750 gp
+
+### Secure Sheath
+
+**Slot** none; **CL** 4th; **Price** 500 gp; **Weight** 1 lb.
+
+**Aura** faint conjuration
+
+Secure sheaths take a hundred different forms, from simple loops to richly engraved scabbards. A secure sheath can be attuned to a new owner by that character wearing it continuously for 24 hours. If anyone other than the owner attempts to draw a weapon from a secure sheath, he finds that the weapon is stuck and must succeed at a DC 20 Strength check to pull it out.
+
+**Construction Requirements:** Craft Magic Arms and Armor, glue seal; **Cost** 250 gp
+
+### Wandering Punishment
+
+**Slot** none; **CL** 15th; **Price** 30,320 gp; **Weight** 10 lbs.
+
+**Aura** strong transmutation
+
+Powerful oni grant these +3 tetsubos to loyal human servants, who use them to enforce the oni's will. The wielder of a wandering punishment can, as a standard action, assume the appearance of an oni of her size as though under the effects of alter self. This transformation does not affect her ability scores and lasts as long as the weapon is held in one or both hands. Once per day, the wielder can also grow in stature as per enlarge person, taking on the form of a larger oni in the process. This growth lasts 10 minutes or until the wielder drops the wandering punishment. Once per day while enlarged, the wielder can deliver an awesome blow. As a standard action, the wielder can attempt a free bull rush combat maneuver check as part of a standard attack with a wandering punishment. She can't move with her target if this combat maneuver succeeds.
+
+**Construction Requirements:** Craft Magic Arms and Armor, giant form I; **Cost** 15,160 gp

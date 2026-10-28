@@ -475,3 +475,29 @@ Fate vessels are powerful mediums who are sensitive to the presence and desires 
 **Whispered Secrets (Ex)**: At 2nd level, a fate vessel learns most of his information through tales and secrets whispered to him by the fate spirits. He adds his Charisma bonus (if any) to all Knowledge checks that he attempts in addition to his Intelligence modifier. This ability replaces shared seance.
 
 **Spirit Tongue (Su)**: At 3rd level, a fate vessel can invoke the fate spirits to commune with nearby spirits for a number of minutes per day equal to his level. These minutes don't need to be used consecutively, but they must be spent in 1-minute increments. The fate vessel can use this ability to speak with corpses (as per *speak with dead*) at 3rd level, with animals and plants (as per *speak with animals* or *speak with plants*) at 5th level, and with humanoids (as per *tongues*) at 7th level. This ability replaces haunt channeler, location channel, and connection channel.
+
+## Medium of the Master
+
+*Medium archetype.* A medium of the master forgoes a connection with most spirits to form a bond with the spirits of great martial artists.
+
+**Class Skills**: A medium of the master gains Acrobatics as a class skill, but does not gain Use Magic Device as a class skill. This alters the medium's class skills.
+
+**Armor Proficiency**: A medium of the master is proficient with only light armor. This alters the medium's armor proficiency.
+
+**Unarmed Strike**: A medium of the master gains Improved Unarmed Strike as a bonus feat.
+
+**Dedicated Spirit (Su)**: A medium of the master can channel only a champion spirit. A medium of the master can channel that spirit in places of quiet introspection, such as an underground grotto, peaceful glade, or windswept peak, in addition to a champion spirit's favored locations. This alters spirit.
+
+**Dedicated Surge (Su)**: A medium of the master can use her spirit surge ability twice per day without incurring any influence (this stacks with any additional uses she gains from accepting a taboo, starting at 2nd level). In addition, when she uses spirit surge, the die she rolls is one step larger (1d8 at 1st level, 1d10 at 10th level, and 2d6 at 20th level). This alters spirit surge.
+
+**Spirit Call (Su)**: The medium of the master's unique bond allows her to briefly call on a champion spirit without performing a seance. As a standard action, she can allow a spirit to gain 1 point of influence over her to channel it for a number of minutes equal to her level. This influence remains for 24 hours, stacking with any influence the medium gains by using this ability multiple times or by channeling a spirit in a seance during that time.
+
+**Master's Power (Su)**: When a medium of the master channels a champion spirit, she treats her unarmed strike damage as that of a monk of her level. For the purpose of determining damage, these levels stack with levels from any other class that grants increased damage to unarmed strikes. This alters spirit power (lesser).
+
+**Shared Prowess (Su)**: At 2nd level, a medium of the master's spirit endows her with greater martial expertise. She gains a dodge bonus to AC equal to her spirit bonus as long as she is wearing light or no armor. This replaces shared seance.
+
+**Master's Strike (Su)**: At 6th level, when a medium of the master gains the intermediate power granted by her champion spirit, she also learns one type of style strike (see the unchained monk). Whenever she gains an additional attack from sudden attack, she can designate one of the blows as a style strike as long as she makes it with an unarmed strike. She can select a different style strike each time she channels a champion spirit. This alters spirit power (intermediate).
+
+**Ki Contact (Su)**: At 15th level, as a swift action, a medium of the master can allow her spirit to gain 1 point of influence over her in order to gain a ki power (see the unchained monk) and a number of ki points equal to her Charisma modifier (minimum 1) until the spirit leaves her body. She uses her medium levels as monk levels for the purposes of meeting the ki power's prerequisites and any level-dependent benefits of the power. Multiple uses of this ability stack, allowing her to select one power to serve as a prerequisite for another. This replaces trance of three.
+
+**Master's Style (Su)**: At 17th level, when a medium of the master channels a champion spirit, she gains a bonus style feat and the two feats in that style's feat path. She does not have to meet the prerequisites for these feats. This alters spirit power (supreme).

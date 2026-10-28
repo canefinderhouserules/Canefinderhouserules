@@ -82,7 +82,15 @@ The ki pool is replenished each morning after 8 hours of rest or meditation; the
 
 **Abundant Step (Su)**: A monk with this ki power can slip magically between spaces, as if using the spell dimension door. Using this ability is a move action that consumes 2 points from his ki pool. The monk’s caster level for this effect is equal to his monk level. He cannot take other creatures with him when he uses this ability. A monk must be at least 8th level before selecting this ki power.
 
+**Action Before Thought (Ex)**: A monk with this ability can spend 2 ki points as a free action as part of rolling initiative to roll twice on the initiative check and take the higher result. A monk must be at least 6th level before selecting this ki power.
+
+**Bare-Hand Block (Ex)**: A monk with this ability can spend 1 ki point as an immediate action when attacked with a manufactured weapon to attempt an unarmed sunder combat maneuver check against it. If he successfully sunders the weapon and grants it the broken condition, the attack deals no damage. He can spend an additional 1 ki point when using this ability to activate ki sunder as a free action. A monk must be at least 8th level and have the ki sunder ki power before selecting this ki power.
+
 **Branch Runner (Ex, Su)**: A monk with this ability adds half the base speed bonus from his fast movement ability to his racial climb speed. In addition, when he uses the sudden speed ki power, he adds the base speed bonus from that ki power to his racial climb speed for 1 round. The monk must have the sudden speed ki power before selecting branch runner.
+
+**Breaking-Down Koan (Su)**: A monk with this ability can spend 1 ki point as a swift action to present a paradox, riddle, or complicated question to a creature within 30 feet. The creature must succeed at a Will save (DC = 10 + 1/2 the monk's level + his Wisdom modifier) or be confused for 1 round. This is a mind-affecting, language-dependent effect. A monk must be at least 8th level before selecting this ki power.
+
+**Building-Up Koan (Su)**: A monk with this ability can spend 2 ki points as a swift action to ask himself a koan, which he then tries to answer. The monk must attempt a Will save (DC 15 + 1/2 the monk's level). If successful, he gains an insight bonus equal to his Wisdom modifier to AC and on attack rolls, saving throws, and skill checks until the end of the round. If he fails, the monk is instead confused for 1 round. This is a mind-affecting, language-dependent effect. A character who can't become confused can't benefit from this ability. A monk must be at least 8th level before selecting this ki power.
 
 **Cobra Breath (Su)**: Whenever a monk with this ki power uses diamond body to neutralize a poison, he can instead release that poison as a ranged touch attack against a single foe within 30 feet. If the attack hits, the foe must succeed at a saving throw (using the poison’s original DC) or suffer the poison’s effects, even if it was not originally a contact poison. A monk must be at least 12th level and must possess the diamond body ki power before selecting this ki power.
 
@@ -128,11 +136,15 @@ The ki pool is replenished each morning after 8 hours of rest or meditation; the
 
 **Ki Range (Su)**: A monk with this ability can spend 1 ki point as a swift action to increase the range increment of any thrown monk weapon by 20 feet. Apply this benefit before doubling the range increment with the Far Shot feat.
 
+**Ki Sunder (Ex)**: A monk with this ability can spend 1 ki point as a free action when attempting a sunder combat maneuver check to add his monk level as a bonus to the damage roll.
+
 **Ki Visions (Su)**: A monk with this ability often sees visions of spirits or hears the voice of his departed mentor in his dreams. On any given night during which the monk dreams, he can use this ability to gain the benefits of a divination. If he does, he spends 2 ki points from the next day’s total. A monk must be at least 10th level before selecting this ki power.
 
 **Ki Volley (Su)**: When a targeted spell or spell-like ability fails to overcome the monk’s spell resistance from diamond soul, he can spend 2 ki points as an immediate action to send that spell back at its caster as spell turning. A monk must be 16th level or higher and possess the diamond soul ki power before selecting this ki power.
 
 **Light Steps (Ex)**: A monk with this ki power can move effortlessly across nearly any surface. Whenever the monk activates his feather balance ki power, he can also ignore all difficult terrain. In addition, while active, he can cross any solid surface, even if it would normally not support his weight. This does not allow him to walk on liquids. A monk must be at least 8th level and have the feather balance ki power before selecting this ki power.
+
+**Master-Thought Koan (Su)**: A monk with this ability can spend an additional 2 ki points when using either the breaking-down koan or building-up koan ki powers. When combined with master-thought koan, breaking-down koan affects a number of characters of your choice within 30 feet equal to the monk's Wisdom modifier. When combined with master-thought koan, building-up koan can be used on an ally within 30 feet. A monk must be at least 12th level and have either the breaking-down koan or the building-up koan ki power before selecting this ki power.
 
 **One Touch (Ex)**: As long as he has at least 1 point remaining in his ki pool, as a standard action, a monk with this power can make an unarmed strike against a foe as a touch attack. He adds 1/2 his monk level as a bonus on the damage roll. He can spend 1 ki point to double this bonus for that attack. A monk must be at least 12th level before selecting this ki power.
 
@@ -155,6 +167,8 @@ The ki pool is replenished each morning after 8 hours of rest or meditation; the
 **Purity of Body (Ex)**: At 5th level, a monk gains immunity to all diseases, including supernatural and magical diseases.
 
 **Style Strike (Ex)**: At 5th level, a monk can learn one type of style strike. Whenever he makes a flurry of blows, he can designate one of his unarmed strikes as a style strike. This attack is resolved as normal, but it has an additional effect depending on the type of strike chosen. At 9th level, and every 4 levels thereafter, a monk learns an additional style strike. He must choose which style strike to apply before the attack roll is made. At 15th level, he can designate up to two of his unarmed strikes each round as a style strike, and each one can be a different type. The monk can choose from any of the following strikes.
+
+**Break**: The monk combines a writhing twist with a violent strike against a foe that is grappling him. If the monk's attack is successful, he can attempt a grapple combat maneuver check or Escape Artist check as a free action to escape a grapple, adding the strike's damage as a bonus on his check.
 
 **Defensive Spin**: The monk spins about, confounding his foe. If the attack hits, the monk gains a +4 dodge bonus to AC against any attacks made by the target of the style strike until the start of his next turn. This bonus does not stack with itself. The monk must attack with a fist to use this style strike.
 
@@ -180,9 +194,13 @@ This bonus damage is not multiplied on a critical hit. The monk must attack with
 
 **Overbearing Assault**: The monk attacks relentlessly, backing his foe into a corner. If the attack hits, the monk can perform a free reposition combat maneuver against the target of the strike (using the base attack bonus of the attack used to hit the foe) with a –5 penalty. This reposition attempt does not provoke an attack of opportunity.
 
+**Rabbit Punch**: The monk gives a sharp blow to the back of a foe's head. The critical threat range and critical multiplier of this strike increase by 1, and the monk gains a +2 bonus on attack rolls to confirm a critical hit with this strike. This increase is not doubled by Improved Critical or similar effects. Creatures without a discernible head are unaffected by this style strike (subject to GM discretion). The monk must attack with a fist to use this style strike.
+
 **Shattering Punch**: The monk delivers a brutal punch that can penetrate defenses. If the attack hits, it bypasses any damage reduction or hardness possessed by the target of that attack. The monk must attack with a fist to use this style strike.
 
 **Spin Kick**: The monk spins about, delivering a kick his foe did not expect. The monk makes his attack against the foe’s flat-footed AC. Creatures with the uncanny dodge class feature or a similar effect cannot be caught flat-footed by this style strike. The monk must attack with a kick to use this style strike.
+
+**Throat Crush**: The monk gives a sharp blow to a foe's throat, hampering its ability to speak for 1 round as if it had the caster croak spellblight. Creatures without a discernible throat, or with multiple vocal organs, are unaffected (subject to GM discretion).
 
 **Improved Evasion (Ex)**: At 9th level, a monk’s evasion ability improves. He still takes no damage on successful Reflex saving throws against attacks, but henceforth he takes only half damage on failed saves. A helpless monk does not gain the benefit of improved evasion.
 
@@ -193,6 +211,22 @@ This bonus damage is not multiplied on a critical hit. The monk must attack with
 **Flawless Mind**: At 19th level, a monk gains total control over his mental faculties. Whenever he attempts a Will save, he can roll twice and take the better result. If he fails a Will saving throw against a spell or effect that has a duration longer than 1 hour, the monk can attempt a new saving throw at the end of each hour to end the effect.
 
 **Perfect Self**: At 20th level, a monk becomes a magical creature. He is forevermore treated as an outsider rather than a humanoid (or whatever his original creature type was) for the purpose of spells and magical effects. Additionally, the monk gains damage reduction 10/chaotic, which allows him to ignore the first 10 points of damage from any attack made by a nonchaotic weapon. Unlike other outsiders, the monk can still be brought back from the dead as if he were a member of his previous creature type. Finally, the monk gains the ability to enter a state of perfect calm. During this time, the monk can take no actions, but he does regain ki at the rate of 1 point per 10 minutes spent at calm. He cannot use this ability to gain an amount of ki in excess of his maximum.
+
+## Qinggong Ki Powers
+
+The following qinggong powers are available to monks with the qinggong monk archetype and to unchained monks who meet their prerequisites. The number in parentheses is the ki point cost.
+
+| Level | Ki Powers |
+|---|---|
+| 4th | Adder Strike (1), burst of adrenaline (1), burst of insight (1), calm spirit (1), Death from Above (1), psychic reading (1) |
+| 6th | Absorb Spirit (1), enshroud thoughts (1), mental barrier I (1), object reading (1), placebo effect (1), thought shield I (1) |
+| 8th | deadly juggernaut (2), hypercognition (1), Jawbreaker (1), mantle of calm (1), mental barrier II (1), purge spirit (1), thought shield II (1) |
+| 10th | aura alteration (1), ethereal fists (1), glimpse of truth (2), mental barrier III (2), persistent vigor (1), quieting weapons (1), retrocognition (1), sessile spirit (2), thought shield III (2) |
+| 12th | Bonebreaker (2), dust form (2), entrap spirit (3), Improved Spring Attack (3), mental barrier IV (2), thought shield IV (2) |
+| 14th | mental barrier V (2), Neckbreaker (2), prognostication (2), repress memory (2), thought shield V (2) |
+| 16th | unshakeable zeal (2) |
+| 18th | bilocation (3), Greater Spring Attack (3), true prognostication (3) |
+| 20th | Akashic form (3), divide mind (3), earthquake (4), frightful aspect (3) |
 
 ## Ex-monks
 

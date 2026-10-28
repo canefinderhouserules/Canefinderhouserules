@@ -284,6 +284,18 @@ You bowl your foes over with the sheer mass of your kinetic blast. Attempt a tri
 
 Your kinetic blast leaves an afterglow that banishes the darkness. Treat each square of the path of your ranged attack kinetic blast, the target square of your melee attack kinetic blast, or the area of your area of effect kinetic blast as the center of a continual flame effect that lasts until the end of your next turn. This effect counts as a 6th-level spell with the light descriptor.
 
+### Buffeting Wave Infusion
+
+**Element** water; **Type** substance infusion; **Level** 5; **Burn** 3
+
+**Prerequisites** kinetic fist
+
+**Associated Blasts** ice, water
+
+**Saving Throw** none
+
+Your infused blast buffets and redirects enemies with waves. Attempt a reposition or trip combat maneuver check against each target damaged by your infused blast, using your Constitution modifier instead of your Strength modifier to determine your combat maneuver bonus. You can use this infusion only while also using the kinetic fist form infusion.
+
 ### Burning Infusion
 
 **Element** fire; **Type** substance infusion; **Level** 1; **Burn** 1
@@ -516,6 +528,18 @@ You focus your blast in a concentrated attack. You gain a +1 enhancement bonus o
 
 Your telekinetic blast can throw a Large or smaller creature instead of an unattended object; you can increase the burn cost by 1 to affect a creature of a larger size. If the creature you attempt to throw succeeds at a Fortitude save, it negates the blast entirely. Otherwise, if your blast hits, both the thrown creature and the target take the full amount of damage from your telekinetic blast, and the thrown creature falls prone in the last unoccupied space along its path. If your blast misses, the thrown creature can choose to occupy any space within 30 feet of the target, it doesn’t fall prone, and it takes half the normal amount of damage from your blast. The movement doesn’t provoke attacks of opportunity.
 
+### Following Wind Infusion
+
+**Element** air; **Type** substance infusion; **Level** 5; **Burn** 3
+
+**Prerequisites** kinetic fist
+
+**Associated Blasts** air, thunderstorm
+
+**Saving Throw** none
+
+Unfolding winds carry you along. Before your first attack and again after each unarmed strike with the infused blast, you can move 5 feet without provoking attacks of opportunity. You can use this infusion only while also using the kinetic fist form infusion.
+
 ### Force Hook
 
 **Element** aether; **Type** form infusion; **Level** 3; **Burn** 2
@@ -595,6 +619,18 @@ You surround your body with energy or elemental matter from your kinetic abiliti
 **Element** universal; **Type** form
 
 infusion; Level 3; Burn 2 Prerequisite kinetic blade Associated Blasts any Saving Throw none You form a long tendril of energy or elemental matter. This functions as kinetic blade but counts as a reach weapon appropriate for your size. Unlike most reach weapons, the kinetic whip can also attack nearby creatures. The kinetic whip disappears at the beginning of your next turn, but in the intervening time, it threatens all squares within its reach, allowing you to make attacks of opportunity that deal the whip’s usual damage.
+
+### Kundalini Infusion
+
+**Element** universal; **Type** substance infusion; **Level** 2; **Burn** see below
+
+**Prerequisites** ki pool, kinetic fist
+
+**Associated Blasts** any
+
+**Saving Throw** Fortitude partial
+
+You infuse your elemental energy with kundalini serpent fire. Choose a chakra you can currently open; you must accept an amount of burn equal to the chakra's number (1 for root, 2 for sacral, and so on). Your unarmed strikes with the infused blast cause the target to suffer the effects of blocking the chosen chakra as per the Block Chakras or Block Upper Chakras feat. You can use this infusion only while also using the kinetic fist form infusion.
 
 ### Maelstrom
 
@@ -689,6 +725,18 @@ Your blast puts out nonmagical fires as if they had been touched by a water elem
 
 You can control the properties of metal, allowing your metal blast to bypass damage reduction as if it were adamantine, cold iron, or silver (your choice). If your target has an unusual type of damage reduction that could be overcome with the correct type of metal (such as DR/gold), you can also select that metal for this purpose. The metal you create with this infusion crumbles away shortly thereafter and has no gp value.
 
+### Revealing Flame Infusion
+
+**Element** fire; **Type** substance infusion; **Level** 5; **Burn** 3
+
+**Prerequisites** kinetic fist
+
+**Associated Blasts** blue flame, fire
+
+**Saving Throw** none
+
+The flame of your infused blast illuminates and reveals the target as it really is. If you hit the target with an unarmed strike with the infused blast, creatures can see the target as if using true seeing for 1 round, although only the target is revealed in this way. You can use this infusion only while also using the kinetic fist form infusion.
+
 ### Slick Infusion
 
 **Element** water; **Type** substance infusion; **Level** 2; **Burn** 2
@@ -730,6 +778,20 @@ You throw a long, roughly 5-foot-by-10-foot spindle of elemental matter or energ
 
 You diffuse your kinetic blast to spray out wildly. All creatures and objects in a 30-foot cone take half your normal amount of blast damage. The saving throw DC is Dexterity-based.
 
+### Stylish Infusion
+
+**Element** universal; **Type** substance infusion; **Level** 3; **Burn** 2
+
+**Prerequisites** brawler's flurry or flurry of blows class feature, kinetic fist
+
+**Associated Blasts** any
+
+**Saving Throw** none
+
+When you learn this infusion, select an unchained monk style strike. You can use that style strike during a flurry of blows with your infused blast, though you must still follow the limitation of one style strike per flurry of blows (or two if you are a 15th-level unchained monk). If you select flying kick, the distance is equal to your elemental overflow bonus on attack rolls × 10 feet. You can use this infusion only while also using the kinetic fist form infusion.
+
+**Special**: You can select this infusion multiple times. Each time, you must select a different style strike.
+
 ### Synaptic Infusion
 
 **Element** air; **Type** substance infusion; **Level** 3; **Burn** 2
@@ -745,6 +807,18 @@ Your blast sends strange electric signals through the target's body, scrambling 
 **Associated Blasts** telekinetic; **Saving Throw** none
 
 This functions as telekinetic blast, except you maintain an elastic strand of aether attached to the object you throw. This allows you to pull it back to you after the attack and catch it if you have enough free hands (and assuming it is small enough for you to carry). This prevents the object from taking damage, but it also prevents you from loosening the strands of aether (see telekinetic blast). Alternatively, if the attack missed, on your next turn as a standard action, you can snap the elastic strand back to make another attack with the same substance infusion and metakinesis, as if using a normal telekinetic blast (at which point the object takes damage and doesn't return to you, and you can't try again).
+
+### Tempered Iron Infusion
+
+**Element** earth; **Type** substance infusion; **Level** 5; **Burn** 3
+
+**Prerequisites** flesh of stone, kinetic fist
+
+**Associated Blasts** earth, metal
+
+**Saving Throw** none
+
+Each time you hit a foe with an unarmed strike with your infused blast, increase your DR/adamantine from flesh of stone by 1 until the start of your next turn. You can use this infusion only while also using the kinetic fist form infusion.
 
 ### Thundering Infusion
 

@@ -76,3 +76,8 @@
 | Bullet(s), smoke (10) | 100 gp | — | — | — | — | 5 lbs. | — | see text | PCS |
 | Dart(s), blowgun (10) | 5 sp | — | — | — | — | 1 lb. | — | — | PZO1110 |
 
+## Martial Arts Weapon Descriptions
+
+**Handwraps**: Many unarmed fighters wrap their hands in cloth to minimize injuries to their fists. Some martial artists also weave small coins or metal bars into their handwraps, adding special material effects as well. Handwraps don't alter the damage a character's unarmed attacks deal. However, masterwork handwraps can be enchanted as weapons, providing their benefits on unarmed attacks the character makes with her hands. A character can't benefit from both handwraps and other items that provide enhancement bonuses or weapon special abilities (such as an amulet of mighty fists) on the same attack.
+
+**Traveling Kettle (Monk Group)**: These small tea kettles are made with clamping lids and heavily reinforced handles, allowing them to be swung like a club. A traveling kettle with boiling water inside deals an additional 1 point of fire damage on a hit. Boiling water cools to a nondamaging temperature after 5 minutes.

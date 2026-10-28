@@ -10,11 +10,15 @@ You can use these tricks only while wearing light or no armor, wielding a light 
 
 **Free Hand Maneuver (base attack bonus +6)**: As a full-round action, you can make a single attack with your weapon and attempt to perform a dirty trick, disarm, drag, reposition, or steal combat maneuver with your free hand, taking no penalties for two-weapon fighting. The combat maneuver provokes attacks of opportunity as normal, unless you have an appropriate ability or feat. You are not considered unarmed for this maneuver, but can’t apply any benefits of your weapon to the combat maneuver check.
 
+**Grab and Stab (Improved Grapple, base attack bonus +6)**: As a standard action, you can initiate a grapple with your free hand (taking the usual –4 penalty for not having two hands free). If the attempt is successful, you can immediately follow up with an attack using your light or one-handed weapon as a free action. If you do so, you can't use any other abilities that are triggered by a successful grapple combat maneuver check (such as constrict). The grapple attempt provokes attacks of opportunity as normal unless you have an ability or feat that prevents this.
+
 **Mindful Dodge (Dodge)**: As an immediate action, you can gain a +4 dodge bonus to your AC against a single attack of which you are aware. You must make this decision before the attack roll is revealed. You are staggered on your next turn.
 
 **Strike and Seize (Improved Disarm, base attack bonus +6)**: As a standard action, you can make a single attack with your weapon and attempt to perform a disarm combat maneuver with your free hand, taking no penalties for two-weapon fighting.
 
 **Stylish Riposte (Combat Reflexes, base attack bonus +4)**: When your AC exceeds the result of a foe’s melee attack against you by 5 or more, that foe provokes an attack of opportunity from you. Once you make such an attack of opportunity against a foe, you can’t again use this trick against the foe that day.
+
+**Switch Hands (Improved Feint)**: As a free action, you can pass a light or one-handed weapon you are wielding to your free hand. If you attempt a feint during the same round, you gain a +2 bonus on your Bluff check. Once you have used this weapon trick against a target, you can't gain the bonus against the same creature until 24 hours have passed.
 
 ## Polearm Tricks
 
@@ -25,6 +29,8 @@ You can use these tricks only while wielding a weapon from the polearm weapon gr
 **Close Sweep (Improved Bull Rush, Improved Reposition, or Improved Trip)**: You can attempt a bull rush, reposition, or trip combat maneuver check (one for which you have the matching prerequisite feat) against an adjacent foe, even if wielding a weapon with the reach quality.
 
 **Haft Bash (Weapon Focus)**: You can accept a –2 penalty on attack rolls with a reach polearm for which you have Weapon Focus in order to treat the weapon as if it lacked the reach quality until the start of your next turn. If you do, the polearm functions as a club. Any qualities (such as trip) or special abilities (such as keen) of the weapon that a club could not have, and any feats or abilities you can’t apply to a club, don’t apply to attacks with the weapon during this time.
+
+**Pole Vault (Acrobatics 3 ranks)**: You gain a +4 bonus on Acrobatics checks to jump, and you count as having a running start if you move at least 5 feet before jumping.
 
 **Polearm Balance (Acrobatics 10 ranks)**: You can use a polearm to improve your balance. Any round in which you do not make a melee attack, you can take 10 on an Acrobatics check even when distraction would normally prevent you from doing so.
 
@@ -46,6 +52,8 @@ You can use these tricks while wielding any two-handed weapon.
 
 **Crush Armor (Improved Sunder, Power Attack)**: When you deal damage to a foe’s armor with a successful sunder combat maneuver check while using a two-handed weapon, the foe must succeed at a Fortitude save (DC = 10 + 1/2 your base attack bonus + your Strength modifier) or be fatigued for 1 round. If the armor has the broken condition after you damage it, the foe must continue making this save every round until he removes the armor or the armor loses the broken condition. If the armor is destroyed by your sunder attempt, the foe is automatically fatigued for 1 round. The foe cannot become exhausted this way.
 
+**One-Handed Lunge (base attack bonus +6)**: As a standard action, you can release one of your hands holding a two-handed weapon and make a melee attack with the weapon, increasing your reach by 5 feet for the duration of the attack. If the attack hits, you deal damage as if using a one-handed weapon, adding only your Strength bonus to damage if you are using your primary hand or half your Strength bonus if you are using your off hand, instead of 1-1/2 times your Strength bonus. Otherwise, you take no penalty for using the weapon one-handed. The extra reach doesn't stack with the Lunge feat or other effects that extend your melee reach beyond that granted by your size category.
+
 **Two-Handed Menace (Intimidate 5 ranks)**: Capitalizing on the fear inspired by massive weapons, you can take 10 on Intimidate checks even when distracted or in combat.
 
 **Warding Weapon (Combat Expertise)**: While you are using the total defense action, fighting defensively, or using Combat Expertise, you gain a +1 shield bonus to AC.
@@ -62,13 +70,19 @@ You can use these tricks only while wielding two weapons.
 
 **Piercing Climb (Climb 8 ranks)**: You can use piercing weapons to climb as if your hands were free. You take a –4 penalty on Stealth checks while doing so. You can take 10 on such Climb checks even while distracted or endangered.
 
+**Weapon Juggle (Two-Weapon Fighting)**: You can draw a weapon even while wielding two weapons. Doing so takes the same type of action as drawing that weapon normally would. As part of the action to draw the weapon, you must sheathe one of the two weapons you were wielding.
+
 ## Weapon and Shield Tricks
 
 You can use these tricks only while wielding a shield and a weapon you can wield in one hand.
 
+**Block and Counter (Two-Weapon Fighting)**: You can ready a standard action to block an attack with your shield, making an attack roll as though you were making a shield bash and using the result as your AC against that attack. If you successfully block the attack, you can attack that opponent with the weapon in your other hand as an immediate action.
+
 **Confounding Shield (Bluff 5 ranks)**: You can always take 10 on Bluff checks to feint in combat.
 
 **Feint and Bash (Improved Feint, Improved Two-Weapon Fighting, Bluff 10 ranks)**: When you feint successfully against a foe you threaten with your shield, that foe provokes an attack of opportunity from you. You can only perform a shield bash with this attack of opportunity.
+
+**Shield Charge (Shield Focus, Double Slice, base attack bonus +11)**: When you make a charge attack, you can attack twice—once with your shield and once with the weapon you are wielding in your other hand, applying the normal penalties for fighting with two weapons to each.
 
 **Shielded View (Knowledge [dungeoneering] 1 rank)**: When you avert your eyes to avoid a gaze attack, you have an 80% chance to avoid having to attempt a saving throw against the gaze.
 

@@ -571,3 +571,19 @@ This ability replaces startling appearance.
 **Throne Vigilance (Su)**: A throne loyalist becomes supernaturally perceptive to plots against his lord. At 11th level, while in his vigilante identity, a throne loyalist is treated as constantly being under the effects of *perceive betrayal*. This effect's caster level is equal to the throne loyalist's vigilante level, and he doesn't require material components or a focus. This ability replaces the vigilante's frightening appearance.
 
 **Conqueror's Wrath (Ex)**: At 17th level, as a full-round action, a throne loyalist can make a full attack and move up to his speed. The loyalist can pause at any point or points during the movement, make one or more of his attacks, and continue moving. Creatures making attacks of opportunity against the loyalist during this movement gain a +4 bonus on their attack and damage rolls. Using this ability counts as using a vigilante talent. This ability replaces stunning appearance.
+
+## Horned Mask Enforcer
+
+*Vigilante archetype.* Some humans and tieflings with oni blood use the power of the oni for their own ambitions. Donning terrifying masks, these vigilantes forsake their humanity to become more like the evil beings they mimic.
+
+**Yokai Heart (Su)**: A horned mask enforcer seeks to transmute himself into a destructive spirit and terrorize his enemies. His vigilante identity alignment must be non-good. While in his vigilante identity, the horned mask enforcer gains darkvision with a range of 60 feet and low-light vision, and he counts as both a native outsider with the oni subtype and his original type for any effect related to type, whichever is worse for him.
+
+**Oni Mask (Ex)**: A horned mask enforcer gains a grotesque horned mask that he must wear when assuming his vigilante identity. The mask has 10 hit points per vigilante level he has and hardness 5. While wearing the mask, the horned mask enforcer gains a bonus to Intimidate equal to 1/2 his level (minimum +1). Without this mask, a horned mask enforcer can't assume his vigilante identity. A horned mask enforcer who loses his mask can replace it after 1 day through a specialized ritual that takes 8 hours to complete and costs 200 gp per vigilante level he has. This alters dual identity.
+
+**Steel Dictate (Ex)**: A horned mask enforcer gains Improved Unarmed Strike as a bonus feat, and when he hits with his unarmed strike, he gains a bonus on damage rolls equal to half his vigilante level (minimum +1, maximum of +5). This replaces the social talent gained at 1st level.
+
+**Deceitful Form (Sp)**: At 4th level, a horned mask enforcer gains the shapechanger subtype and the ability to change his form, as per alter self, for a number of minutes per day equal to his vigilante level. These minutes do not need to be consecutive, but they must be spent in 1-minute increments. At 14th level, he can instead use this ability as per giant form I. At 18th level, he can use this ability as per giant form II. This replaces the vigilante talents gained at 4th, 14th, and 18th levels.
+
+**Deadly Horns (Ex)**: At 6th level, while in his vigilante identity, a horned mask enforcer gains a gore attack. This is a primary natural attack that deals 1d6 points of piercing damage. This replaces the vigilante talent gained at 6th level.
+
+**Third Eye (Su)**: At 12th level, a horned mask enforcer's mask manifests a third eye. As a swift action a number of times per day equal to his vigilante level, he can launch a beam of fire from the eye as a ranged touch attack with a range of 180 feet. On a hit, the beam deals 4d6 points of fire damage. At 18th level, the beam damage increases to 8d6 points of fire damage. This replaces the vigilante talent gained at 12th level.

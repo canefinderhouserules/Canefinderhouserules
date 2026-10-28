@@ -1,0 +1,9 @@
+# Whirling Hold
+
+*(Combat)*
+
+You lift your grappled foe from the ground and violently spin and disorient him.
+
+**Prerequisites**: Improved Grapple, Improved Unarmed Strike.
+
+**Benefit**: When you succeed at a combat maneuver check to maintain a grapple, instead of choosing to damage, move, pin, or tie up your opponent, you can lift and rapidly spin your opponent. At the end of the spin, you can place the opponent in any square adjacent to you. The opponent is sickened for a number of rounds equal to your Strength or Dexterity modifier, whichever is higher.

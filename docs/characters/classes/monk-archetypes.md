@@ -997,3 +997,35 @@ Vested powers are abilities that draw on an invested regent's investiture pool. 
 **14th-Level Vested Powers**: *antilife shell* (3), Disarming Strike (2), Greater Blind-Fight\* (2), *greater command* (3), *greater forbid action* (3), Lightning Stance (3), *shadow walk* (self only, 3), *unwilling shield* (3).
 
 **18th-Level Vested Powers**: *divine vessel* (3), *foresight* (self only, 3), *greater restoration* (self only, 3), *regenerate* (self only, 3), *repulsion* (3).
+
+## Softstrike Monk
+
+*Monk and unchained monk archetype.* The practices of softstrike monks date back to peaceful eras of the distant past. Still common among warriors today, softstrike monks employ a nonlethal but effective form of combat.
+
+**Weapon Proficiency**: A softstrike monk is proficient with the aklys, bolas, club, light flail, light mace, nunchaku, quarterstaff, sap, sling, and any weapon with the monk special quality that can deal bludgeoning damage. He is considered proficient only with monk weapons that can deal multiple types of damage when dealing bludgeoning damage. This replaces the monk's weapon proficiency.
+
+**Feather Touch (Ex)**: A softstrike monk does not take the normal –4 penalty on attack rolls for using a lethal weapon to deal nonlethal damage. In addition, he can use his stunning fist ability while making a nonlethal attack with a weapon.
+
+**Nonlethal Strikes (Ex)**: A softstrike monk focuses on blows that do not inflict deadly harm. When a softstrike monk deals nonlethal damage with his unarmed strikes, his monk level is treated as 4 levels higher for the purposes of determining the damage he deals (to a maximum of 4d8 at 20th level for a Medium monk). When dealing lethal damage with his unarmed strikes, his monk level is treated as if it were 4 levels lower (minimum 1st level) for the purpose of determining damage. This alters unarmed strike.
+
+**Tenet of Life (Su)**: Though a softstrike monk accepts that death may happen in combat, he cannot abide killing in cold blood. If he slays an unconscious or helpless living foe, or merely stands by and allows such a killing to occur, he becomes shaken for 1 hour. In addition, the act disrupts the softstrike monk's ki; if he has a ki pool, he loses a number of ki points equal to half his level, as if they had been spent.
+
+**Life-Giving Blows (Su)**: At 6th level, a softstrike monk can force a piece of his life force into a nonliving creature to disrupt its animating essence. If he hits an undead foe with an unarmed attack, he can spend 1 ki point as a free action to remove the target's immunity to nonlethal damage for a number of minutes equal to his Wisdom modifier. If, during this time, the target's nonlethal damage exceeds its current hit points, it is destroyed. At 10th level, a softstrike monk can also use this ability against constructs. This replaces the bonus feats gained at 6th and 10th levels.
+
+**Wholeness of Body and Spirit (Su)**: At 7th level, a softstrike monk can use wholeness of body on both himself and other creatures, though it heals only nonlethal damage. If he uses this ability on an unconscious foe, he can spend 1 additional ki point to force the creature to accept a pact of life. The creature must succeed at a Will saving throw (DC = 10 + half the softstrike monk's level + his Wisdom modifier) or the pact renders it unable to directly attack the monk and any allies within 60 feet, as per sanctuary, for a number of days equal to the softstrike monk's level. This alters wholeness of body. (For an unchained monk, this ability applies only if the monk selects the wholeness of body ki power.)
+
+**Incapacitating Palm (Su)**: At 15th level, a softstrike monk renders the target of his quivering palm unconscious instead of killing the creature. Upon failing its Fortitude saving throw, the target is knocked unconscious for a number of minutes equal to the softstrike monk's level. This alters quivering palm. (For an unchained monk, this ability applies only if the monk selects the quivering palm ki power.)
+
+**Resilient Body (Su)**: At 19th level, a softstrike monk's mastery of nonlethal combat lets him apply his techniques to his defense. A softstrike monk converts any precision damage he takes to nonlethal damage. This replaces empty body.
+
+## Lifting Hand
+
+*Monk and unchained monk archetype.* Those studied in the art of grappling know that using their opponents' own weight and momentum to lift, disable, or throw them is impressive and effective. When facing a master of the lifting hand, an enemy is likely to find itself sailing through the air or locked in a tortuous compliance hold.
+
+**Savage Toss (Ex)**: A lifting hand gains Savage Slam as a bonus feat, even if she doesn't meet the prerequisites. At 4th level, when the lifting hand succeeds at her grapple combat maneuver check while using the Savage Slam feat and her grapple combat maneuver check result exceeds the opponent's CMD by at least 5, she can throw the opponent into a non-adjacent square. The lifting hand can throw the opponent 10 feet, plus an additional 5 feet for every 5 by which her grapple check exceeds the opponent's CMD. For instance, if the lifting hand exceeds the target's CMD by 15, she can throw the target into a square 20 feet away. At 8th level, when using Savage Slam, the lifting hand's target no longer receives a bonus to its CMD when the lifting hand attempts to throw it into a dangerous area. This replaces stunning fist.
+
+**Bonus Feats (Ex)**: A lifting hand adds Whirling Hold to her list of bonus feats at 1st level. At 6th level, she adds Dramatic Slam and Overhead Flip. At 10th level, she adds Savage Leap. This alters the monk's bonus feats.
+
+**Joint Lock (Ex)**: At 10th level, when a lifting hand succeeds at a combat maneuver check to maintain a grapple, instead of choosing to damage, move, pin, or tie up the opponent, she can instead force one of the target's limbs into an agonizing position. The target becomes sickened as long as the lifting hand maintains the grapple. When the grapple is released or broken, the target is fatigued for a number of rounds equal to the lifting hand's level. This is a pain effect. This replaces the bonus feat gained at 10th level.
+
+**Counter-Throw (Sp)**: At 12th level, a lifting hand can ready an action to trigger if a creature tries to attack her. When the readied action triggers, the lifting hand can attempt a grapple combat maneuver check with a +2 bonus. If she succeeds, she grapples the creature and negates the triggering attack, and she can spend an immediate action to use the Savage Slam feat. This replaces abundant step. (For the unchained monk, this replaces the ki power gained at 12th level.)

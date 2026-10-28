@@ -1,0 +1,9 @@
+# Crushing Impact
+
+*(Combat)*
+
+You slam into your foes with brute strength as unyielding as a wall.
+
+**Prerequisites**: Str 13, Improved Bull Rush, Improved Unarmed Strike, Power Attack.
+
+**Benefit**: Whenever you successfully bull rush an enemy and its movement is stopped by a solid object or barrier, you deal your unarmed strike damage to the foe, as long as it's within your threatened area. If you performed your bull rush as part of a charge, you gain a +2 bonus on your damage roll.

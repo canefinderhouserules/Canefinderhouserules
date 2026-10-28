@@ -1,0 +1,11 @@
+# Pinpoint Jab
+
+*(Combat)*
+
+Your strikes land exactly where you mean them to.
+
+**Prerequisites**: Improved Unarmed Strike, base attack bonus +6, ki pool or martial flexibility class feature.
+
+**Benefit**: As a full-round action, you can expend 1 ki point or one daily use of martial flexibility to use a limited version of the targeted strike deed, targeting either hands or legs with an unarmed attack. A target who succeeds at a Fortitude save (DC = 10 + your base attack bonus) can negate the effect. When your base attack bonus reaches +11, you can instead target head or torso, which the target can negate with a Fortitude save. When your base attack bonus reaches +16, you can target two locations; the target must save against each effect separately.
+
+**Special**: A monk can substitute his class level for his base attack bonus for this feat's effects.

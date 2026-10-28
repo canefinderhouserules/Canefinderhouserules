@@ -167,3 +167,10 @@
 | Snarlshield, wooden |
 | War-shield, dwarven |
 
+## Martial Arts Weapon Descriptions
+
+**Broken-Back Seax (Light Blades Group)**: Seaxes are straight, single-edged blades used since ancient times. The broken-back seax is the size of a short sword, and has a broad blade with a distinctive trapezoidal shape. If your Strength score is less than 15, you take a –2 penalty on attack rolls with a broken-back seax, as you're unable to put enough force into the blows to land them effectively.
+
+**Double Spear (Spears Group)**: This long, heavy spear has a point at each end, allowing it to be used as a double weapon.
+
+**Split-Blade Sword (Heavy Blades Group)**: Patterned after the fiery blades masterfully wielded by angels, the split-blade sword is both a holy symbol and a difficult-yet-effective weapon. A split-blade sword resembles a large scimitar whose blade splits into two about two-thirds of the way toward the tip. If your Dexterity score is less than 15, you take a –2 penalty on attack rolls with a split-blade sword, as you're unable to maneuver its unusual blade.

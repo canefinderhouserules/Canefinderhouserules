@@ -91,6 +91,8 @@ Tricks marked with an asterisk (*) add effects to a ninja’s sneak attack. Only
 
 **Forgotten Trick (Ex)**: A ninja with this ability can recall one trick taught to her by her ancient masters. When she uses this ability, she selects one ninja trick (not a master trick or rogue talent) that she does not know and can use that ninja trick for a number of rounds equal to her level. She must pay any ki costs associated with the trick as normal. Using this ability expends 2 ki point from her ki pool, plus the ki cost of the trick she chooses.
 
+**Herbal Compound (Ex)**: A ninja with this trick can consume specially prepared herbs to strengthen her mind. The ninja can spend 1 ki point and smoke, eat, or inject an herbal compound as a move action. The ninja takes a –2 penalty to AC and on Reflex saves but gains a +4 alchemical bonus on Will saves for 10 minutes per ninja level.
+
 **Hidden Weapons (Ex)**: A ninja with this ability can easily conceal weapons on her body. The ninja adds her level on opposed Sleight of Hand checks made to conceal a weapon. In addition, she can draw hidden weapons as a move action, instead of as a standard action.
 
 **High Jumper (Ex)**: When a ninja with this trick makes a high jump, the DC for that jump is half the normal DC. The ninja must have the acrobatic master trick before taking this talent.
@@ -100,6 +102,10 @@ Tricks marked with an asterisk (*) add effects to a ninja’s sneak attack. Only
 **Breath of the Ancestor (Su)**: The ninja chooses one imperial dragon type (forest, sea, sky, sovereign, or underworld) when she gains this trick, and the choice can’t be changed. She can use supplies similar to those used for ninja smoke bombs to produce an alchemical breath weapon that deals the same kind of damage as the selected dragon (piercing damage for forest dragons, fire for sea dragons, and so on). The breath weapon deals the same amount of damage as the ninja’s sneak attack, with a Reflex save allowed for half damage. The breath weapon is a 15-foot cone (or a 30-foot line if the underworld dragon is selected). The save DC is equal to 10 + 1/2 the ninja’s class level + the ninja’s Intelligence modifier. Using this ability is a standard action that expends up to 2 ki points, and once used it cannot be used again for 1d4 rounds.
 
 **Ki Charge (Su)**: A ninja with this trick can invest a portion of her ki into a single thrown weapon, such as a shuriken, and throw it as a standard action. The thrown weapon explodes on impact in a 5-foot burst, dealing 1d6 points of fire damage plus 1d6 points of fire damage for every four levels of the ninja above 2nd, to a maximum 4d6 at 18th level. Creatures caught in the blast receive a Reflex save to halve the damage. The DC of this save is 10 + 1/2 the ninja’s level + the ninja’s Charisma modifier. If the thrown weapon hits a creature, that creature takes a –2 penalty on the saving throw. If the thrown weapon misses, treat it as a thrown splash weapon. Using this ability expends 1 ki point from her ki pool.
+
+**Ki Venom (Ex)**: A ninja with this trick knows how to make poisons from innocuous herbs or minerals. Creating ki venom is a full-round action that costs 1 ki point. The poison lasts for 24 hours before becoming inert. The poison deals either Strength or Dexterity damage, chosen when the venom is created. The ninja can spend additional ki as part of the process of creating the ki venom to improve the venom in one or more of the following ways: spend 1 ki point to increase the damage die to a d6, spend 1 ki point to change the ability damage dealt to Intelligence, Wisdom, or Charisma damage, or spend 1 ki point to increase the number of saves required to cure the poison by 1.
+
+*Ki Venom*: Type poison, injury; Save Fortitude DC = 10 + 1/2 the ninja's level + her Charisma modifier; Frequency 1/round for rounds equal to the ninja's Charisma modifier; Effect 1d4 ability damage (see above); Cure 1 save.
 
 **Poison Bomb (Ex)**: Whenever the ninja throws a smoke bomb, she can decide to include 1 dose of any inhaled poison she possesses. This poison affects all creatures in the smoke and lasts as long as the smoke lasts. She must pay for the poison normally. The ninja must have the smoke bomb ninja trick before selecting this trick.
 
@@ -117,9 +123,13 @@ Tricks marked with an asterisk (*) add effects to a ninja’s sneak attack. Only
 
 **Snatch Arrows**: A ninja who selects this ninja trick gains the Snatch Arrows feat as a bonus feat. The ninja must have the Improved Unarmed Strike feat and the Deflect Arrows feat before taking this trick.
 
+**Strangler (Ex)**: A ninja with this trick knows how to use a scarf, usually with a coin or large knot, as a lethal garrote. The ninja takes no penalties when using a scarf as an improvised garrote. In addition, as a free action when attempting a grapple combat maneuver check, the ninja can spend 1 ki point to gain the constrict special attack on that maneuver with damage equal to half the ninja's sneak attack dice (minimum 1d6).
+
 **Style Master**: A ninja who selects this ninja trick gains a style feat that she qualifies for as a bonus feat.
 
 **Sudden Disguise (Su)**: As a swift action, a ninja can change her appearance for 1 minute per level. This ability functions as disguise self. Each use of this ability uses up 1 ki point.
+
+**Swift Poisoner (Ex)**: A ninja with this trick can apply a dose of poison to a weapon as a swift action.
 
 **Unarmed Combat Training**: A ninja who selects this ninja trick gains Improved Unarmed Strike as a bonus feat.
 
@@ -155,17 +165,25 @@ The ninja must have the choking bomb ninja trick before selecting this trick.
 
 **Deadly Shuriken (Ex)**: As a full-round action, a ninja with this master trick can take careful aim and pool all of her attack potential into a single, deadly shuriken throw. When she does this, she throws a single shuriken at a single target, but makes as many attack rolls as she can, based on her base attack bonus. She makes the attack rolls in order from highest bonus to lowest, as if she were making a full attack. If any of the attack rolls hit the target, the attack hits. For each additional successful attack roll beyond the first, the ninja increases the damage by 1d6. Precision damage and extra damage from weapon special abilities (such as flaming) are added with damage modifiers and are not increased by this advanced talent. If one or more rolls are critical threats, she confirms the critical once using her highest base attack bonus –5. For each critical threat beyond the first, she reduces this penalty by 1 (to a maximum of 0).
 
+**Deep Cover (Ex)**: A ninja with this trick gains the dual identity and seamless guise class feature as a vigilante, except that the ninja can spend 1 ki point to change identities as a move action. The ninja's identities are referred to as social and ninja, rather than social and vigilante.
+
 **Evasion (Ex)**: A ninja can avoid even magical and unusual attacks with great agility. If she makes a successful Reflex saving throw against an attack that normally deals half damage on a successful save, she instead takes no damage. Evasion can be used only if the ninja is wearing light armor or no armor. A helpless ninja does not gain the benefit of evasion.
 
 **Feat**: A ninja may gain any feat that she qualifies for in place of a ninja trick.
 
 **Ghost Step (Su)**: As a swift action, a ninja with this trick can pass through walls as if she were a ghost. Until the end of her turn, she can pass through a wall or other surface that is up to 5 feet thick per level as if she were incorporeal. She must exit the solid material by the end of her turn. Each use of this ability uses up 1 ki point.
 
+**Greater Ki Venom (Ex)**: A ninja with this trick can further improve her ki venom. The ninja can spend 2 ki points to increase the damage die to a d8 or spend 2 ki points to change the ability damage dealt to Constitution damage. The ninja must have the ki venom ninja trick before selecting this trick.
+
 **Invisible Blade (Su)**: Whenever a ninja uses the vanishing trick ninja trick, she is treated as if she were under the effects of greater invisibility. The ninja must have the vanishing trick ninja trick before selecting this ninja trick.
+
+**Many Guises (Ex)**: A ninja with this trick gains the vigilante social talent of the same name. The ninja must have the deep cover ninja trick before selecting this trick.
 
 **Master Disguise (Su)**: A ninja with this trick can take on the appearance of other creatures and individuals.
 
 Whenever the ninja uses the sudden disguise ninja trick, the duration increases to 10 minutes per level. Alternatively, the ninja can use the sudden disguise ninja trick to take on the appearance of a specific individual that the ninja has seen before for 1 minute per level. Creatures that are familiar with the individual receive a Will saving throw to see through the illusion. The DC of this saving throw is 10 + 1/2 the ninja’s level + the ninja’s Charisma modifier. This illusion also changes the ninja’s speech, if she has heard the individual talk and can speak his language. The ninja must have the sudden disguise ninja trick before selecting this trick.
+
+**Occulted Soul (Su)**: A ninja with this trick can still her mind to bypass magical detection. The ninja can spend 1 ki point to cast nondetection on herself as a spell-like ability, with a caster level equal to her ninja level.
 
 **See the Unseen (Su)**: A ninja with this trick learns how to see that which cannot be seen. As a swift action, the ninja can cast see invisibility, using her level as the caster level. Each use of this ability uses up 1 ki point.
 

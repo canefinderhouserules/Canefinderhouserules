@@ -2630,3 +2630,35 @@ This leather packet contains tools and materials for repairing items created wit
 **Price** 25 gp; **Weight** 2 lbs.
 
 This waxy paste preserves metal objects against rust. One application coats a Medium or smaller metal object or creature and lasts 24 hours, granting it a +2 circumstance bonus on saving throws against rusting effects and reduces the amount of damage dealt by rusting attacks by 5. A jar of rust repellent contains 5 applications.
+
+## Martial Arts Training Equipment
+
+### Belled Catsuit
+
+**Price** 30 gp; **Weight** 12 lbs.
+
+This form-fitting garment is strung all around with dozens of small bells. You can practice your sneaking technique by donning a belled catsuit and then attempting to move without letting any of the bells ring. Old thieves sometimes call a belled catsuit a Billy-Jacket. Training with a belled catsuit requires 1 hour of practice and a DC 25 Stealth check. If you succeed at the check, you gain a +2 circumstance bonus on Stealth checks to hide. This bonus lasts for 24 hours or until you fail a Stealth check.
+
+### Billy Ten-Bells
+
+**Price** 50 gp; **Weight** 6 lbs.
+
+Bearing a marked resemblance to an anthropomorphic wind chime, this complicated arrangement of strings, sticks, and bells is hung from a ceiling or branch and has a purse or money pouch deep inside. The trick is to silently steal a coin from Billy Ten-Bells, as the slightest movement will set the bells ringing. Veteran thieves sometimes decorate Billy with scraps of stolen clothing for good luck. Training with Billy Ten-Bells requires 1 hour of practice and a DC 20 Sleight of Hand check. If you succeed at the check, you gain a +2 circumstance bonus on Sleight of Hand checks to pick pockets. This bonus lasts for 24 hours or until you fail a Sleight of Hand check.
+
+### Halteres
+
+**Price** 8 gp; **Weight** 24 lbs.
+
+These paired stone or metal weights look like a pair of curved stones with handles. An athlete can take one weight in each hand and swing them back and forth before jumping, using the momentum to gain greater distance when taking off. Training with halteres requires 1 hour of practice and a DC 16 Acrobatics check. If you succeed at the check, you gain a +2 circumstance bonus on Acrobatics checks to make long jumps. This bonus lasts for 24 hours or until you fail an Acrobatics check.
+
+### Meels
+
+**Price** 10 gp; **Weight** 30 lbs.
+
+Meels are heavily weighted clubs used to train one's strength. They range in size from only a few pounds to specially crafted lead or stone meels which weigh as much as a human. This set contains three wooden meels of more common dimensions. Athletes practice with meels by taking a club in each hand and swinging them in a rhythmic fashion around the body. Training with a set of meels requires 1 hour of practice and a DC 10 Strength check. If you succeed at the check, you gain a +2 circumstance bonus on Strength checks and treat your Strength score as 1 higher for the purpose of determining your carrying capacity. This bonus lasts for 24 hours.
+
+### Quintain
+
+**Price** 40 gp; **Weight** 30 lbs.
+
+At its simplest, a quintain is a swiveling pole with a pair of arms, although permanent quintains are more elaborate and often look like armored mannequins. One arm holds a wooden board shaped like a shield. The other arm has a padded flail attached. In a routine originally used to train knights, a user rides past a quintain and tries to hit the board with a weapon, and then get out of the way before the quintain swings around to strike him with its flail in retaliation. Training with a quintain requires 1 hour of practice and a DC 15 Ride check. If you succeed at the check, you gain a +2 circumstance bonus on Ride checks to stay in the saddle, guide with your knees, and control a combat-trained mount. This bonus lasts for 24 hours or until you fail a Ride check.
