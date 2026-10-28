@@ -406,6 +406,7 @@
 - **[Steal Breath](steal-breath.md)**: You pull the breath from a creature’s lungs, dealing damage and leaving it unable to speak, use breath.
 - **[Steal Size](steal-size.md)**: Shrinks a larger target and enlarges you.
 - **[Stone Throwing](stone-throwing.md)**: Subject can throw and catch rocks.
+- **[Storm of Blades](storm-of-blades.md)**: Hurls magical swords at a target.
 - **[Storm Sight](storm-sight.md)**: Sense creatures caught in a storm.
 - **[Summon Monster II](summon-monster-ii.md)**: Summons extraplanar creature to fight for you.
 - **[Summon Swarm](summon-swarm.md)**: Summons swarm of bats, rats, or spiders.
@@ -874,6 +875,7 @@
 - **[Minor Creation](minor-creation.md)**: Creates one cloth or wood object.
 - **[Secure Shelter](secure-shelter.md)**: Creates sturdy cottage.
 - **[Solid Fog](solid-fog.md)**: Blocks vision and slows movement.
+- **[Summon Genie, Lesser](summon-genie-lesser.md)**: Summons a janni.
 - **[Summon Monster IV](summon-monster-iv.md)**: Summons extraplanar creature to fight for you.
 
 **Divination**
@@ -1069,6 +1071,7 @@
 - **[Stoneskin, Communal](stoneskin-communal.md)**
 - **[Straitjacket](straitjacket.md)**: Restrain a creature’s arms and grant it a second saving throw against certain magic.
 - **[Strip Scales](strip-scales.md)**: Reduce a creature's racial natural armor.
+- **[Summon Genie](summon-genie.md)**: Summons a djinni or janni.
 - **[Summon Monster V](summon-monster-v.md)**: Summons extraplanar creature to fight for you.
 - **[Summoner Conduit](summoner-conduit.md)**: The target takes damage whenever its summoned creature does.
 - **[Sun’s Disdain, Mass](suns-disdain-mass.md)**: As *sun’s disdain*, on multiple creatures.
@@ -1216,6 +1219,7 @@
 - **[Soul-Rending Claws](soul-rending-claws.md)**: Claws grant negative levels
 - **[Spellfire Jinx](spellfire-jinx.md)**: Cursed caster burns and may lose spells.
 - **[Summon Flight of Eagles](summon-flight-of-eagles.md)**: Summon giant eagles to fight or serve as mounts.
+- **[Summon Genie, Greater](summon-genie-greater.md)**: Summons a shaitan, djinn or janni.
 - **[Summon Monster VI](summon-monster-vi.md)**: Summons extraplanar creature to fight for you.
 - **[Symbol of Distraction](symbol-of-distraction.md)**: Symbol that fascinates creatures nearby.
 - **[Symbol of Storms](symbol-of-storms.md)**: rune that unleashes hurricane winds and lightning

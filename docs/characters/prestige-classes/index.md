@@ -52,6 +52,8 @@ The prestige classes presented in this chapter are summarized below.
 
 **[Death Slayer](death-slayer.md)**: A divine assassin who hunts undead with channeled positive energy.
 
+**[Desert Alchemist](desert-alchemist.md)**: An alchemist who blends desert herbalism with extract-brewing and healing.
+
 **[Devil Thief](devil-thief.md)**: A premier agent of a thieves’ guild who draws on the favor of a city’s patrons.
 
 **[Dissident of Dawn](dissident-of-dawn.md)**: A secretive divine caster who heals or purges schism in his own faith.
@@ -99,6 +101,8 @@ The prestige classes presented in this chapter are summarized below.
 **[Introspective Emissary](introspective-emissary.md)**: A shaman-like spirit bonder who summons an animus hybrid through her spirit animal.
 
 **[Knight of the Vigil](knight-of-the-vigil.md)**: A heavily armored undead hunter with teamwork and shield feats.
+
+**[Living Monolith](living-monolith.md)**: A mortal who takes on the mantle of an immortal stone guardian.
 
 **[Mammoth Rider](mammoth-rider.md)**: A tribal warrior mounted on a gigantic arctic beast.
 

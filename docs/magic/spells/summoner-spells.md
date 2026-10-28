@@ -114,6 +114,7 @@ New summoner spells from *Ultimate Magic*. Spells from other books will be added
 - **[Shared Sacrifice](shared-sacrifice.md)**: Redirect half your damage to a target.
 - **[Siphon Might](siphon-might.md)**: Drains target's Strength and grants it to an ally.
 - **[Spider Climb, Communal](spider-climb-communal.md)**: As spider climb, but you may divide the duration among creatures touched.
+- **[Summon Genie, Lesser](summon-genie-lesser.md)**: Summons a janni.
 - **[Summon Ship](summon-ship.md)**: conjure a ship
 - **[Summon Totem Creature](summon-totem-creature.md)**: Summon creatures sacred to your totem clan.
 - **[Sundered Serpent Coil](sundered-serpent-coil.md)**: Summon a grappling serpent coil
@@ -152,6 +153,7 @@ New summoner spells from *Ultimate Magic*. Spells from other books will be added
 - **[Shadow Invasion](shadow-invasion.md)**: Create an area of darkness that strengthens shadow spells and attracts kytons
 - **[Shadow Jaunt](shadow-jaunt.md)**: Teleport between shadows, leaving an image behind
 - **[Stoneskin, Communal](stoneskin-communal.md)**
+- **[Summon Genie](summon-genie.md)**: Summons a djinni or janni.
 - **[Summoner Conduit](summoner-conduit.md)**: The target takes damage whenever its summoned creature does.
 - **[Sword to Snake](sword-to-snake.md)**: An item bites whoever handles it.
 - **[Thaumaturgic Circle](thaumaturgic-circle.md)**: As magic circle, but affecting a nonalignment subtype or outsider race.
@@ -186,6 +188,7 @@ New summoner spells from *Ultimate Magic*. Spells from other books will be added
 - **[Roaming Pit](roaming-pit.md)**: A *create pit* that can move.
 - **[Secret Workshop](secret-workshop.md)**: As nondetection, but protects many creatures and objects.
 - **[Straitjacket](straitjacket.md)**: Restrain a creature’s arms and grant it a second saving throw against certain magic.
+- **[Summon Genie, Greater](summon-genie-greater.md)**: Summons a shaitan, djinn or janni.
 - **[Tar Pool](tar-pool.md)**: Converts the top layer of the ground into hot tar.
 - **[Vengeful Stinger](vengeful-stinger.md)**: Stinging tail retaliates against melee attackers.
 - **[Walk the Plank](walk-the-plank.md)**: Open a shark-filled pit in the ground

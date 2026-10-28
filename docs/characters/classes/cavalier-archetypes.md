@@ -36,6 +36,24 @@ Often affiliated with a church devoted to revenge, cavaliers of exiled noble hou
 
 *Retribution (Ex)*: At 15th level, the cavalier gains retribution, as the order of the star ability of the same name.
 
+### Order of Reason
+
+Cavaliers belonging to the order of reason are dedicated to hunting down anyone practicing, preaching, or otherwise facilitating religion in a strictly secular nation.
+
+**Edicts**: The cavalier must strive to protect atheists and all those who reject the gods. He must never have a patron deity or willingly serve agents of the divine. He must protect the common folk from suffering due to the actions of divine agents.
+
+**Challenge**: Whenever an order of reason cavalier issues a challenge, each round that he makes an attack against the target of his challenge, he gains 1 temporary hit point on his turn. These temporary hit points last up to 1 hour. The number of temporary hit points gained per round increases by 1 for every 4 levels the cavalier possesses.
+
+**Skills**: An order of reason cavalier adds Heal (Wis) and Knowledge (religion) (Int) to his list of class skills. An order of reason cavalier can attempt Knowledge (religion) skill checks untrained. If he has ranks in the skill, he receives a bonus on the check equal to 1/2 his cavalier level (minimum +1) when making checks to identify members of religious faiths or religious paraphernalia.
+
+**Order Abilities**: A cavalier belonging to the order of reason gains the following abilities as he increases in level.
+
+*Rejection of Faith (Ex)*: At 2nd level, the cavalier must refuse all divine magic, including helpful effects or spells. As long as he has not benefited from divine magic in the past 24 hours, he receives a +2 morale bonus on one saving throw of his choice. Each day he can change the saving throw to which this bonus applies.
+
+*Threat of Reason (Ex)*: At 8th level, whenever the cavalier threatens a space occupied by a divine spellcaster, the spellcaster must add 4 to the DC of any concentration checks, dispel checks, or caster level checks she attempts.
+
+*Godslayer (Ex)*: At 15th level, whenever the cavalier makes a melee attack against the target of his challenge and that target is a divine spellcaster, the cavalier gains a bonus on attack and damage rolls equal to his Charisma modifier. This damage is multiplied on a critical hit.
+
 ## New Cavalier Archetype
 
 The following is a new cavalier archetype. Cavaliers of any order can take this archetype, though it's not suited for orders that bolster the power of mounted combat.

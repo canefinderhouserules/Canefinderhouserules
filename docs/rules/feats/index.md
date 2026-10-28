@@ -1495,6 +1495,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Agent of Fear](agent-of-fear.md) | — | Persuasive, frightening appearance class feature |
 | [Agent of Purity](agent-of-purity.md) | Story | A friend or ally must have been significantly corrupted by a specific natural or supernatural blight, or you must have a regional background trait tied to a specific blight |
 | [Agile Maiden](agile-maiden.md) | Combat | Str 13, Dex 13, Endurance or armor training, heavy armor proficiency |
+| [Alchemical Grenadier](alchemical-grenadier.md) | Teamwork | Precise Shot or Throw Anything |
 | [Alchemical Strike](alchemical-strike.md) | Combat | Throw Anything, base attack bonus +6 |
 | [Align Equipment](align-equipment.md) | General | Alignment Channel, Bless Equipment, caster level 3rd, channel energy class feature |
 | [Aligned Crafting](aligned-crafting.md) | Item Creation | Craft Magic Arms and Armor or Craft Wondrous Item |
@@ -1510,6 +1511,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Ancestral Scorn](ancestral-scorn.md) | — | Intimidate 5 ranks, tiefling |
 | [Ancestral Weapon Mastery](ancestral-weapon-mastery.md) | Combat | Base attack bonus +1, weapon familiarity racial trait |
 | [Ancient Draconic](ancient-draconic.md) | General | Arcane caster level 5th, speaks Draconic |
+| [Ancient Kingdom Scholar](ancient-kingdom-scholar.md) | General | Knowledge (history) 1 rank, Knowledge (local) 1 rank, must speak the regional language and its ancient ancestor language |
 | [Ancient Tradition](ancient-tradition.md) | — | Knowledge (history) 3 ranks, must have a connection to a lost culture (see text) |
 | [Angelbane Strike](angelbane-strike.md) | — | Channel Smite, divine caster level 5th, channel negative energy class feature, evil patron deity |
 | [Animal Ally](animal-ally.md) | — | Nature Soul, character level 4th, must not have an animal companion or mount that advances as an animal companion |
@@ -2061,6 +2063,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Hollow Soul](hollow-soul.md) | Conduit | Knowledge (planes) 9 ranks |
 | [Holy Water Assault](holy-water-assault.md) | Combat | Base attack bonus +1, Knowledge (religion) 3 ranks |
 | [Hook Fighter](hook-fighter.md) | Combat | Base attack bonus +1 |
+| [Horn of the Criosphinx](horn-of-the-criosphinx.md) | Combat | Base attack bonus +6 or monk level 6th |
 | [Horn Rider](horn-rider.md) | Combat | Base attack bonus +1 |
 | [Horn Rider's Charge](horn-riders-charge.md) | Combat | Horn Rider, base attack bonus +1 |
 | [Horse Whisperer](horse-whisperer.md) | — | — |
@@ -2716,6 +2719,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Uncertainty](uncertainty.md) | Blood Hex | Int 13; Bluff, Diplomacy, and Intimidate 5 ranks |
 | [Unconquerable Resolve](unconquerable-resolve.md) | Combat | Resolve class feature, samurai level 1st |
 | [Undaunted Bravery](undaunted-bravery.md) | — | Bravery class feature, worshiper of a deity of freedom and courage |
+| [Undermine](undermine.md) | Teamwork | — |
 | [Undermining Exploit](undermining-exploit.md) | — | Knowledge (dungeoneering) 4 ranks |
 | [Underworld Connections](underworld-connections.md) | — | — |
 | [Unfair Grip](unfair-grip.md) | Combat | Str 13, Dex 13, Improved Grapple, Improved Unarmed Strike, Power Attack, base attack bonus +1 |
@@ -2789,6 +2793,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Wind Song](wind-song.md) | — | Perform (wind instruments) 5 ranks; bardic performance or raging song class feature |
 | [Wind Strike](wind-strike.md) | Combat, Style | Dex 13, Wis 13, Elemental Discipline Style (wind), Quick Draw, base attack bonus +9 or monk level 9th |
 | [Wingclipper](wingclipper.md) | Combat | Base attack bonus +9 |
+| [Wings of the Androsphinx](wings-of-the-androsphinx.md) | Combat | Int 13, Combat Expertise, Improved Reposition, base attack bonus +1 or monk level 1st |
 | [Witty Feint](witty-feint.md) | Combat | Bluff 1 rank, weapon training class feature, gnome |
 | [Worst Case Jinx](worst-case-jinx.md) | General | Knowledge (arcana) 5 ranks, Halfling Jinx racial trait |
 | [Wrest Charge](wrest-charge.md) | — | Disable Device 5 ranks, Knowledge (engineering) 5 ranks |

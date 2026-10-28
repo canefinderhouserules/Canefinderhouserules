@@ -2388,3 +2388,59 @@ A telescope can be used to look at either terrestrial or celestial objects. Dist
 **Price** 50 gp; **Dmg (S)** 1d4; **Dmg (M)** 1d6; **Critical** ×3; **Weight** 3 lbs.; **Type** piercing or slashing
 
 This light one-handed sword is covered in bony spines that make it easier to poison opponents. The save DC of a nonmagical injury poison applied to a kasatha spinal sword increases by 2. Kasathas treat kasatha spinal swords as martial weapons. It has the fragile weapon quality.
+
+## Desert Survival Gear
+
+### Armor Vents
+
+**Price** +100 gp; **Weight** –5 lbs.
+
+Armor vents can be built into a suit of medium or heavy armor to allow for better ventilation and reduce the wearer's fatigue in hot environs. The vents can be slid open at the discretion of the user to ensure proper air flow during the day and then closed up at night to better preserve heat. A suit of armor with armor vents imposes only a –2 penalty (instead of –4) on Fortitude saves to avoid taking nonlethal damage from heat exposure, but also has 10 fewer hit points than normal because of its more intricate construction.
+
+### Burner
+
+**Price** 3 gp; **Weight** 1 lb.
+
+A burner is a metal or ceramic cylinder, open at the top and perforated with air holes along the sides, often with sliding vents to open or close these apertures as the fire inside requires. A burner is used to burn fuel pellets at night without giving off light that would reveal the user's position to unfriendly eyes in the wide, empty desert lands. In places where charcoal is a popular fuel, burners are made of heavier-gauge metal. Lit coals can be banked with ashes and kept hot, either for later ignition or simply so the burner can serve as an improvised radiant heater.
+
+### Fuel Pellet (10)
+
+**Price** 3 sp; **Weight** —; **Craft DC** 15
+
+Small nuggets of compressed fibers, resins, and dung, fuel pellets give off very little smoke when burned. Each pellet burns for 10 minutes, providing enough heat to boil water, and can be lit as a move action.
+
+### Purification Pellet
+
+**Price** 10 gp; **Weight** —; **Craft DC** 20
+
+This tablet of compressed herbs and potent alchemical reagents can purify tainted, brackish, muddy, or alkaline water in order to make it drinkable. If used to purify water that is diseased or poisonous, each tablet reduces the save DC by 1 (to a maximum reduction of 5) for any disease or poison present in the water. A single purification pellet can affect up to 1 gallon of tainted water.
+
+### Salt Tablets (10)
+
+**Price** 1 gp; **Weight** —; **Craft DC** 10
+
+These tablets of pressed salt help stave off dehydration. Taking a salt tablet once every 24 hours grants you a +2 circumstance bonus on saving throws to avoid heatstroke and on Constitution checks to avoid thirst.
+
+### Serpent Line
+
+**Price** 12 gp; **Weight** 5 lbs.; **Craft DC** 20
+
+This 30-foot length of rope is braided with musk-cured strips of snakeskin from a variety of desert serpents, and is typically laid out in a 5-foot-radius circle around the edge of a tent or around a sleeping creature. When it's laid out in this way, common snakes crawling across the desert floor often mistake the serpent line for another snake and shy away from crossing it. Ordinary venomous snakes approaching a serpent line must succeed at a DC 10 Will save or turn away from it, though if they notice potential prey within the serpent line, they may continue to lurk nearby. At the GM's discretion, an exceptionally aggressive or hungry snake may gain a +2 circumstance bonus on its saving throw. Snakes that are magically controlled ignore a serpent line.
+
+### Smoke Signal
+
+**Price** 5 gp; **Weight** 1 lb.; **Craft DC** 15
+
+This alchemically fused powder ball creates a plume of brightly colored smoke when lit. While the smoke is not thick enough to significantly impair vision, it is clearly visible up to 1d6 miles away under average conditions, and may be visible at greater distances in ideal conditions. Many desert clans use particular signature colors of smoke to indicate their allegiance, or use smoke signals with specific colors or in a pattern of sequential colors to convey coded messages.
+
+### Sun Cream
+
+**Price** 10 gp; **Weight** 1/2 lb.; **Craft DC** 20
+
+Each application of this alchemical solution, typically compounded from substances found in desert flowers, fruits, and roots, heals 1d4 points of nonlethal damage that the target has taken from heat exposure. If you succeed at a DC 20 Heal check while applying sun cream, you may add your Wisdom modifier to the nonlethal damage healed. A creature cannot benefit from more than one application of sun cream in a 24-hour period.
+
+### Veil
+
+**Price** 1 sp; **Weight** —
+
+A veil reduces the effect of sun glare and keeps the wearer's face shaded and cool. A veil may be full-length or may leave a small space for the eyes, and is often draped, wrapped, or hung with chains below a turban, hat, or other headgear. A veil grants a +1 bonus on saving throws against the dazzled condition and against nonlethal damage from heat exposure, but the wearer takes a –1 penalty on vision-based Perception checks.

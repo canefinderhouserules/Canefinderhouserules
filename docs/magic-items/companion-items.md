@@ -5471,3 +5471,45 @@ This +1 light wooden shield has what appears to be a human face stretched across
 Fashioned from salvaged mechanical "bones" of ancient constructs, this gear-jointed, metal exoskeleton can be affixed to or removed from a suit of medium or heavy armor in 10 minutes. While attached, the enchanted frame bears some of the armor's burden, reducing the armor's check penalty by 2. In addition, three times per day, the wearer of a medium or heavy suit of armor attached to a steelbone frame can ignore the armor's reduction to his speed for 1 round.
 
 **Construction Requirements:** Craft Wondrous Item, *bull's strength*, *longstrider*; **Cost** 3,000 gp
+
+## Desert Items
+
+### Burrower's Bridle
+
+**Slot** none; **CL** 7th; **Price** 6,000 gp; **Weight** 2 lbs.
+
+**Aura** moderate transmutation
+
+This metal-studded bridle can be attached to any creature with a burrowing speed that is made friendly or helpless. The bridle grants anyone who mounts the bridled creature a +4 competence bonus on Ride, Handle Animal, and wild empathy checks to control the bridled creature. An equipped *burrower's bridle* allows the user to calm and train (with Handle Animal or wild empathy) any creatures with a burrow speed and an Intelligence score of less than 3—not just animals or magical beasts. The bridle also allows a creature riding a burrowing creature to accompany it underground while it burrows, but does not grant the ability to breathe underground.
+
+**Construction Requirements:** Craft Wondrous Item, *charm monster*, *passwall*; **Cost** 3,000 gp
+
+### Carpet of Comfort
+
+**Slot** none; **CL** 9th; **Price** 90,000 gp; **Weight** 15 lbs.
+
+**Aura** moderate transmutation
+
+This specialized carpet of flying always measures 10 feet by 10 feet. When it's in flight, its passengers are shielded from wind and extreme temperatures as if inside a *tiny hut* (though without creating an opaque, immobile sphere). In addition, once per day while the *carpet of comfort* is on the ground, a command word transforms the carpet into an opulent silk tent that, other than its appearance, is equivalent to a *secure shelter*.
+
+**Construction Requirements:** Craft Wondrous Item, *overland flight*, *secure shelter*, *tiny hut*; **Cost** 45,000 gp
+
+### Inviolate Marker
+
+**Slot** none; **CL** 7th; **Price** 10,000 gp; **Weight** 5 lbs.
+
+**Aura** moderate transmutation
+
+This unusual type of *immovable rod* has a button near each end, and it can be activated only by two separate creatures, each one pressing a button while speaking a different command word. Once set in place, it can only be moved by the same method. A creature using a Strength check to move the *inviolate marker* risks being affected by a *bestow curse* effect (–6 Str; Will DC 16 negates and grants the creature immunity to the curse effect for 24 hours). An *inviolate marker* projects an illusory banner or crest from each side, each chosen by the creature that activated it, and is used to demarcate territorial boundaries. If an *inviolate marker* would be buried by a change in the landscape or environment, the marker teleports to the surface of the newly formed terrain in order to maintain its position relative to the new terrain.
+
+**Construction Requirements:** Craft Rod, *bestow curse*, *levitate*, *silent image*; **Cost** 5,000 gp
+
+### Ring of the Godless
+
+**Slot** ring; **CL** 5th; **Price** 8,000 gp (+1), 17,000 gp (+2), 27,000 gp (+3), 38,000 gp (+4), 50,000 gp (+5); **Weight** —
+
+**Aura** faint abjuration and divination
+
+These rings are said to have first been forged by a secular council of elders to help root out the hidden faithful and other practitioners of the divine. A *ring of the godless* grants a luck bonus (+1 to +5) on saving throws against divine spells. This bonus does not apply to spell-like or supernatural abilities unless they are class abilities of a divine spellcasting class, such as channel energy or domain powers, or unless they are used by a creature that has been called, created, or summoned by divine magic. The wearer's spell resistance (if any) increases by an amount equal to the ring's luck bonus, though this increase applies only against divine spells (and spell-like abilities as described above). A *ring of the godless* also allows the wearer to use *detect magic* at will, though it detects only divine magic. In addition, the wearer can use a specialized form of *arcane sight* a number of times per day equal to the ring's luck bonus. This ability can be activated as a swift action, its effect lasts until the end of the wearer's turn, and it detects only divine magic or divine spellcasting ability.
+
+**Construction Requirements:** Forge Ring, *arcane sight*, *detect magic*, *spell resistance*, creator cannot be a divine spellcaster, creator must be of a level at least three times higher than the bonus of the ring; **Cost** 4,000 gp (+1), 8,500 gp (+2), 13,500 gp (+3), 19,000 gp (+4), 25,000 gp (+5)

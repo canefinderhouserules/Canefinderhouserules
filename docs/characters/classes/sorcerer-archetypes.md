@@ -36,6 +36,30 @@ You may actually be related to the hag, or you may still be suffering the effect
 
 **Fearsome Survival (Su)**: At 20th level, your hag-blood gives you considerable resilience. You gain DR 10/cold iron, and gain SR equal to 6 + your sorcerer level.
 
+### Div
+
+You can trace your ancestry to one of the foul, corrupted genies known as divs.
+
+**Class Skill**: Knowledge (planes).
+
+**Bonus Spells**: *disguise self* (3rd), *touch of idiocy* (5th), *deeper darkness* (7th), *bestow curse* (9th), *insect plague* (11th), *disintegrate* (13th), *insanity* (15th), *earthquake* (17th), *wish* (19th).
+
+**Bonus Feats**: Blind-Fight, Deceitful, Empower Spell, Improved Initiative, Iron Will, Lightning Reflexes, Persuasive, Power Attack.
+
+**Bloodline Arcana**: Whenever you deal damage to more than one creature with a spell that affects an area, the save DCs of your spells increase by 1 for 1d4 rounds.
+
+**Bloodline Powers**: The corrupt blood within you grants you powers to devastate the works and bonds of mortals.
+
+**Spoiling Touch (Su)**: At 1st level, you can impose the broken condition upon one Medium or smaller object by making a successful melee touch attack. Magical items or objects carried or worn by a creature are allowed a Fortitude save to resist this effect. Multiple uses of this effect do not stack. You can use this ability a number of times per day equal to 3 + your Charisma modifier.
+
+**Div Resistances (Ex)**: At 3rd level, you gain fire resistance 5 and a +2 bonus on saving throws against poison. At 9th level, your resistance to fire increases to 10 and your bonus on saving throws against poison increases to +4.
+
+**Corrupting Aura (Ex)**: At 9th level, you can surround yourself with an aura of corrupting energy for a number of rounds per day equal to your sorcerer level. Any creature within 10 feet of you takes 1d6 points of nonlethal damage + 1 for every 2 sorcerer levels you possess, and it is sickened for 1 round. In addition, any creature within the aura that attempts casting a divine spell must succeed at a caster level check (DC 15 + double the level of the spell) or lose the spell. You can use this ability once per day at 9th level, twice per day at 17th, and three times per day at 20th.
+
+**Squander (Su)**: At 15th level, you gain the ability to force others to waste the opportunities they are given. Once per day as a standard action, you can cause a target within 30 feet to gain the staggered condition for a number of rounds equal to your sorcerer level. The duration is halved if the target makes a successful Will save (DC 10 + 1/2 your sorcerer level + your Cha modifier).
+
+**Arch-Div's Favor (Su)**: At 20th level, you are filled with a div lord's wickedness. You gain immunity to fire and poison. You also gain acid resistance 10 and electricity resistance 10, and the ability to see perfectly in darkness of any kind to a range of 60 feet.
+
 ### Djinni
 
 You were born with the power of air genies, and the magic of the djinn is strong in you.

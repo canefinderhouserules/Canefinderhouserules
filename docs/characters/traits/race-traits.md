@@ -32,6 +32,10 @@ Only dwarfs may select one of these traits.
 
 **Spellcaster's Anathema**: You see arcane magic as untrustworthy and its use as a calamity waiting to happen. You gain a +1 trait bonus on attack rolls against arcane spellcasters.
 
+**Deathkeeper** *(tomb-warden dwarves)*: You have lived for a time deep inside the necropolises of ancient god-kings. Your exposure to undead creatures and their necromantic energies has strengthened your ability to resist the powers of the unliving. You gain a +1 trait bonus on saving throws against the supernatural abilities of undead creatures.
+
+**Sphinxfriend** *(tomb-warden dwarves)*: You were raised near the lair of a proud sphinx. Well known for their wisdom, sphinxes are greatly respected by your people, and in times of uncertainty and crisis, their counsel has been invaluable. When you came of age, you were chosen to be the emissary between your settlement and the sphinx. Luckily for you, the proud creature enjoyed your company, and in addition to bartering for information, you learned to enjoy the riddles of your noble friend. As a result of your experiences, you gain a +1 trait bonus on Diplomacy checks, Linguistics skill checks made to decipher writing in an unfamiliar language, and Sense Motive checks made to discern secret messages.
+
 ## Elf Traits
 
 Only elfs may select one of these traits.
@@ -49,6 +53,8 @@ Only elfs may select one of these traits.
 **Youthful Mischief**: Though you gave up the life of a scout or minstrel decades before, you still know how to roll with the punches when things turn sour. You gain a +1 trait bonus on Reflex saves.
 
 **Cosmopolitan Intellectual**: Having grown up in one of the intellectual centers of a far-off elven world, you speak precisely and persuasively, especially among elves. You gain a +1 trait bonus on Diplomacy checks. This bonus increases to +3 against creatures with the elf subtype.
+
+**Tropical Botanist**: You are familiar with beneficial and dangerous plants. You gain a +1 trait bonus on Knowledge (nature) checks to locate or identify plants and on saving throws against the extraordinary abilities of plants.
 
 ## Gnome Traits
 
@@ -85,6 +91,8 @@ Only gnomes may select one of these traits.
 **Collector**: You have a small, bizarre collection of apparently worthless items, such as rusty nails, animal droppings, clockwork cogs, or bent spoons. You find this strange menagerie useful in ways no non-gnome could understand. Select one of the following skills: Craft (any one), Disable Device, Escape Artist, Perform (any one), or Spellcraft. Whenever you have your collection within 5 feet of you, you gain a +2 trait bonus on all checks made with the selected skill. Once this skill has been selected, it cannot be changed, nor can you gain it for any other collection you begin amassing.
 
 **Industrious**: You are helpful and hardworking. When you successfully use the aid another action to aid an ally's Craft or Profession check, that character gains an additional +1 trait bonus on the check (in addition to the +2 bonus normally granted for successfully aiding another). If you have a racial bonus on that skill, your ally gains a +2 trait bonus instead.
+
+**Vermin Wrangler**: In gathering ingredients necessary for mind-altering drugs and other concoctions, you have become intimately familiar with the desert's many-legged pests. You gain a +2 trait bonus on Knowledge (dungeoneering) checks to identify vermin and on saving throws against vermin's extraordinary abilities.
 
 ## Goblin Traits
 
@@ -142,6 +150,8 @@ Only half-elfs may select one of these traits.
 
 **Elven Serenity** (raised in elven society): You embody the peace of the elven way of life, and apply this philosophy in your interactions with others. You gain a +2 trait bonus on Diplomacy and Handle Animal checks to calm other creatures. You need not speak the same language to attempt a Diplomacy check in this manner.
 
+**Pearl Diver**: You are skilled at finding treasures in the warm coastal waters near the desert. You gain a +2 trait bonus on Perception checks while underwater and can hold your breath for a number of rounds equal to three times your Constitution score before you risk drowning.
+
 ## Half-Orc Traits
 
 Only half-orcs may select one of these traits.
@@ -157,6 +167,8 @@ Only half-orcs may select one of these traits.
 **Iron Control** (raised in human society): You learned the hard way that expressing the rage you inherited from your orc blood exacerbates humans' fearful and hostile reactions to you; after years of effort, you've mastered self-control and buried your anger deep. Whenever you're confused and roll to determine behavior in a given round, subtract 10 from the result.
 
 **Finish the Fight** (raised in orc society): You're at the bottom of the pecking order, so when you challenge that order, your victory must be absolute. You gain a +1 trait bonus on attack rolls against opponents you already injured in the past 24 hours.
+
+**Caravan Drover**: With your hand on the lash, your caravans always arrive on time. You treat whips as martial weapons, and up to 10 animals and humanoids traveling with you can hustle or make a forced march for 1 hour longer than normal before taking nonlethal damage and becoming fatigued.
 
 ## Halfling Traits
 
@@ -175,6 +187,8 @@ Only halflings may select one of these traits.
 **Scrounger**: Others may call it junk, but you call it a bargain. You can buy objects with the broken condition at half price (instead of the normal three-quarters price). The value of the unbroken version of these objects cannot exceed four times your character level. The price you pay for this object can never exceed more than twice your character level in gp (for example, at 5th level you can spend up to 10 gp on a broken object, meaning you can buy any object that, if not broken, has a value of 20 gp or less).
 
 **Perfect Servant**: Your training as a maid or valet has left you with unconscious mannerisms that seem to put members of the upper class at ease. You gain a +3 trait bonus on Diplomacy checks made to influence anyone with at least one level of Aristocrat.
+
+**Slave Smuggler**: You know how to get contraband across borders. When hiding a Medium or smaller creature from an opponent actively searching you or your cargo, both you and the creature to be smuggled can attempt Stealth checks and select the higher of the two results for your smuggled ally to use while hiding.
 
 ## Human Traits
 
@@ -237,6 +251,14 @@ Only humans may select one of these traits.
 **Pragmatic Polytheist** *(northern tribal humans)*: You pray to whatever local deity will answer your prayers—and if they won't, to hell with them. You gain a +1 trait bonus on Knowledge (religion) checks and can make Knowledge (religion) checks as if trained. Once per day, you can cast *resistance* on yourself as a spell-like ability cast at your highest caster level (CL 1st if you have no caster level).
 
 **Ruin Lore** *(northern tribal humans)*: Your time spent exploring the ruins of a fallen alien mountain has taught you much about the strange ways of the metal creatures from the stars. You gain a +2 trait bonus on Knowledge (engineering) checks to identify creatures with the robot subtype and relics of advanced technology. When using Bluff to feint against an intelligent construct, you do not take a penalty for feinting against a non-humanoid.
+
+**Eyes of the Sun** *(desert-wandering humans)*: You are inured to the bright glare of the hot desert sun, and its dazzling rays pose little danger to you. You gain a +1 trait bonus on saving throws against effects that would cause you to become dazzled or blinded, and once per day when you would be dazzled or blinded by an effect, you can reduce the duration of that effect by half (minimum 1 round). You cannot use this ability if you are already dazzled or blinded or if you have the light sensitivity or light blindness special quality.
+
+**Relic Hunter** *(desert-wandering humans)*: You have made a study of the ancient lands and ruins of your homeland and are familiar with the relics and artifacts their inhabitants left behind. You gain a +1 trait bonus on Appraise and Knowledge (history) checks made to examine ruined buildings more than 1,000 years old as well as any ruined objects found in them. If such an item is magical, you gain a +1 trait bonus on Spellcraft checks to identify its properties and Use Magic Device checks to activate it.
+
+**Pride of Empire** *(imperial horse-clan humans)*: Your pride is so strong and your confidence so sure that you can shake off magical attempts to shatter your resolve. If you succeed at a Will saving throw against a fear effect that would result in a lesser effect on a successful save (such as causing you to become shaken instead of panicked), you are instead unaffected.
+
+**Thoroughbred** *(imperial horse-clan humans)*: The blood of the early horse tribes is strong in your family. Breeding, riding, selecting, and training the best horses are all part of your legacy, and you know how to pick out the best of the lot when selecting a suitable mount. If you gain a horse as an animal companion or mount as one of your class abilities, its base speed increases by 5 feet and it gains a bonus trick that does not count against the normal limit of tricks known by the animal.
 
 ## Catfolk Traits
 
@@ -484,6 +506,8 @@ Only ifrits may select one of these traits.
 
 **Fiery Glare**: You can use your unearthly nature to frighten others. You can always take 10 on Intimidate checks, even in combat.
 
+**Snap Ignition**: You are a pyromaniac by nature and love nothing more than setting fires. As a full-round action, you can produce a small flame at the end of your finger that ignites combustible materials as a tindertwig. Alternatively, you can maintain a flame equivalent to a candle by spending a standard action each round to concentrate on it.
+
 ## Oread Traits
 
 Only oreads may select one of these traits.
@@ -493,6 +517,8 @@ Only oreads may select one of these traits.
 **Statuesque**: You inherited the statuesque physical features of your genie ancestor. Disguise becomes a class skill for you, and you gain a +2 trait bonus on Disguise checks to disguise yourself as a statue made of a specific type of stone, such as marble, sandstone, or alabaster. Furthermore, you take none of the penalties normally associated with disguising yourself as a different type of creature. You must choose the type of stone you resemble when you take this trait; once chosen, it cannot be changed.
 
 **Stoic Dignity**: You are an unmoving rock for those who see you as an authority figure. As long as you are conscious, you and all allies within 10 feet gain a +1 bonus on saving throws against mind-affecting effects you are not already suffering from. This is a trait bonus for you and a morale bonus for your allies.
+
+**Sandy Ambush**: You are skilled at blending in with the desert terrain and attacking creatures as they pass by. When prone in desert terrain, you gain a +2 trait bonus on Stealth checks and take only a –2 penalty on attack rolls (rather than –4) when attacking from prone.
 
 ## Suli Traits
 
@@ -504,6 +530,8 @@ Only sulis may select one of these traits.
 
 **Practiced Impression**: You traveled constantly in your youth, and were forced to practice making a good first impression until you could do so effortlessly. You gain a +2 trait bonus on Diplomacy checks made against NPCs whom you have known for less than 1 hour.
 
+**Dowsing**: You are sensitive to the presence of all elements, allowing you to find water, landmarks, and evidence of prior camps or settlements. You gain a +1 trait bonus on Survival checks. Whenever you succeed at a Survival check to follow tracks in desert terrain, you can always tell how long ago the tracks were made (though supernatural abilities and spells still impede this ability as appropriate).
+
 ## Sylph Traits
 
 Only sylphs may select one of these traits.
@@ -514,6 +542,8 @@ Only sylphs may select one of these traits.
 
 **Aerial Observer**: You are practiced at noticing details from high up. You gain a +2 trait bonus on Perception checks while you are at least 30 feet above ground level.
 
+**Following Breeze**: You always seem to be chased by drafts of moving air, and know exactly the right moment and method to lift yourself upon the breezes. As long as you get a running start, you gain a +2 trait bonus on Acrobatics checks made to jump. Your speed increases by 5 feet when you use the run action.
+
 ## Undine Traits
 
 Only undines may select one of these traits.
@@ -523,6 +553,8 @@ Only undines may select one of these traits.
 **Whiteout**: When the air is full of water, your elemental blood allows you to blend with your surroundings and become one with the precipitation. In areas of nonmagical fog, rain, snow, or similar conditions (such as the spray of a waterfall), you gain the effects of concealment, but with a miss chance of 10%. If the precipitation would already grant you concealment, the miss chances stack.
 
 **Undine Loyalty**: You learned early on that teamwork can help keep you safe from troublemakers. Choose one teamwork feat that requires an ally with the same feat to be adjacent to you. You may benefit from that teamwork feat as long as you have an ally within 10 feet of you (though your ally does not benefit from the teamwork feat unless it also has this trait or a similar ability).
+
+**Slippery Step**: You are used to walking on wet and slippery surfaces. You are always considered to have firm footing when fighting underwater, and you gain a +2 trait bonus on Acrobatics checks and Climb checks on wet surfaces or in wet terrain, including bogs, standing or running water, or a storm-tossed ship.
 
 ## Vampire Traits
 
