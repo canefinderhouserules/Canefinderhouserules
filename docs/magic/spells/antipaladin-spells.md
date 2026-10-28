@@ -178,6 +178,7 @@ New antipaladin spells from *Ultimate Magic*. Spells from other books will be ad
 - **[Crime Wave](crime-wave.md)**: Compel targets to commit criminal actions.
 - **[Cruel Jaunt](cruel-jaunt.md)**: Sense creatures suffering from fear, then teleport close to them.
 - **[Darkvision, Greater](darkvision-greater.md)**: See 120 ft. in total darkness.
+- **[Daywalker](daywalker.md)**: Make an undead creature look and act alive.
 - **[Decollate](decollate.md)**: A target can safely remove its head.
 - **[Die for Your Master](die-for-your-master.md)**: Companion intercepts any attack against you.
 - **[Dimensional Blade](dimensional-blade.md)**: Your melee weapon makes touch attacks.

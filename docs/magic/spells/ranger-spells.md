@@ -223,6 +223,7 @@
 - **[Signs of the Land](signs-of-the-land.md)**: Learn up to three details about the surrounding territory.
 - **[Soothing Mud](soothing-mud.md)**: Create restorative mud that heals hit point and ability damage.
 - **[Spindrift Spritz, Mass](spindrift-spritz-mass.md)**: As spindrift spritz, affecting multiple creatures.
+- **[Spore Burst](spore-burst.md)**: A plant creature can burst spores that sicken nearby creatures.
 - **[Summon Nature’s Ally III](summon-natures-ally-iii.md)**: Summons creature to fight for you.
 - **[Summon Totem Creature](summon-totem-creature.md)**: Summon creatures sacred to your totem clan.
 - **[Sunstalker](sunstalker.md)**: Invisible while in sunlight.

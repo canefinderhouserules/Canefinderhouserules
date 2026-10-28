@@ -75,6 +75,20 @@ You can use downtime to help others rest and recover using the Heal skill. For l
 
 If you are using the kingdom-building rules (see Chapter 4) and have a leadership role in the kingdom, you must spend 7 days per month performing various leadership duties. In the downtime system, performing leadership duties for a day costs 1 day of downtime. You can’t perform any other downtime activities on a day you perform kingdom leadership duties.
 
+## Manipulate Evidence
+
+A stealthy thief may never be seen, but she still leaves evidence of her criminal activities. This activity enables you to attempt to remove genuine clues that you left during the crime, and set up false ones to misdirect investigations. These are two related but separate activities—you can set up some false clues before the actual crime is committed, but can erase evidence only during or after the act.
+
+Manipulating evidence works like spending capital to boost skill checks, except you spend capital to impose penalties on a specific kind of check attempted by other characters. You select one skill and one event that skill might be applied to: for the next 1d6 days, anyone using that skill to gain information about the event in question takes a –1 penalty for each point of capital spent. As with spending capital to boost skill checks, the GM must agree your proposed use of capital is reasonable for the task at hand.
+
+For example, a rogue sneaks into a baron's keep and steals jewelry. He sells the jewelry on the black market, and now wants to make it difficult for anyone to use Diplomacy to gather information about the sale that points back to him. His player tells the GM he wants to spend 5 points of Influence to get word out to his underworld contacts that if he is implicated for the crime, anyone who helped handle the stolen goods is likely to be arrested as well. The GM agrees the subtle reminder of the cost of being a snitch is effective, and for 1d6 days anyone using Diplomacy to attempt to gain information about the sale of the stolen jewelry takes a –5 penalty.
+
+## Prepare Resources
+
+You form a brilliant but unrevealed plan for upcoming contingencies, spending two days of downtime to effectively bank one day to use later. During an encounter, you can explain how you foresaw the current circumstances and what simple steps you took to prepare for them. Roll an Intelligence or Wisdom check against DC 20—if your goals in this adventure are actively opposed to another character, instead make an opposed check against your opponent's respective attribute. If you succeed, the time you spent planning ahead means that you foresaw this situation and can retroactively spend 1 day of banked downtime in any normal downtime activity. Alternatively, you ensure that any party member has brought along any small, portable item that the party has easy access to but which does not currently appear to be in your possession (paying the cost of that item normally).
+
+You can't use this ability to retroactively know something you could not possibly have known. You must be able to show how you might have deduced the need for your preparations based on the information available at the time. The GM is the sole arbiter of whether this is plausible. If she rules that you can't use the banked downtime in a particular way, you retain the downtime. You can bank a maximum number of days of downtime equal to 1 + your Wisdom modifier (minimum 0), and can never use more than 1 banked day in a single encounter.
+
 ## Promote a Business
 
 You can spend 1 day of downtime to increase interest in a business, temple, organization, or other local fixture. You can also spend one type of capital, depending on how you want to promote the business. For example, if you want to promote a bakery, you can spend Goods giving out free pastries to people in town, Influence to get the mayor to visit the bakery and praise its food, Labor to hire workers to stand with signboards advertising the bakery, or Magic for a memorable illusion that draws people to the bakery.
@@ -96,6 +110,10 @@ The *Core Rulebook* allows you to replace a familiar if at least 1 week has pass
 ## Recruit for an Organization
 
 You can create and recruit for an organization that doesn’t rely on a specific building. For example, you could may want to recruit employees (or minions) if you’re a rogue and want to start your own gang of cutpurses or a cleric who wants to start a cult of followers. You create an organization out of component teams, so you can configure the organization exactly how you want it. How much downtime capital you can spend in a day is limited by the size of the settlement you’re in. When you’ve spent the appropriate capital and time for your organization, it’s complete and you can put it to work immediately.
+
+## Recruit Discreetly
+
+The recruit for an organization downtime activity is a public process as appropriate for your organization—while a rogue recruiting for a gang of cutpurses obviously doesn't advertise the activity among law-abiding citizens, the recruitment is common knowledge among nearby criminals and underground organizations. You may instead recruit discreetly, allowing you to create teams and rooms in secret. To do so, attempt a DC 25 Knowledge (local) check or Diplomacy check to gather information followed by a DC 25 Sense Motive check to carefully consider who you tell about your recruitment. Alternatively, you can recruit discreetly by paying double the normal cost to create a team—this accounts for paying for people's silence and going the extra mile to research recruits before speaking to them. Teams and rooms recruited in this way are not common knowledge even among groups from which you recruited, and the DC of any skill check to learn information about them (including their existence) is increased by your character level.
 
 ## Research a Spell
 

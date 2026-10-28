@@ -215,6 +215,18 @@ Each eidolon has one of three base forms that determines its starting size, spee
 
 Evolutions are described on the [Eidolon Evolutions](eidolon-evolutions.md) page.
 
+#### Avian
+
+**Starting Statistics**: Size Small/Medium (see below); Speed 30 ft., fly 30 ft. (good); AC +2 natural armor; Saves Fort (bad), Ref (good), Will (good); Attacks 2 claws (1d3); Ability Scores Str 12, Dex 16, Con 13, Int 7, Wis 10, Cha 11; Free Evolutions claws, flight, limbs (legs).
+
+**Size**: When summoned, an avian eidolon is Small unless it spends 2 points from its evolution pool. At 5th level, a Medium or larger avian eidolon's fly speed increases by 40 feet, as if it had 2 more points in the flight evolution.
+
+#### Tauric
+
+**Starting Statistics**: Size Small/Medium (see below); Speed 40 ft.; AC +2 natural armor; Saves Fort (good), Ref (bad), Will (good); Attacks 2 claws (1d4); Ability Scores Str 14, Dex 14, Con 13, Int 7, Wis 10, Cha 11; Free Evolutions claws, limbs (arms), limbs (legs) (2). A tauric eidolon appears as a conjoined creature with a humanoid upper body on a quadrupedal lower body.
+
+**Size**: When summoned, a tauric eidolon is Small unless it spends 2 points from its evolution pool.
+
 ## Summoner Spells
 
 Summoners gain access to the following spells. An asterisk (\*) marks spells from the Advanced Player’s Guide.

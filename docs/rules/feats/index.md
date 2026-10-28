@@ -1591,6 +1591,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Black Market Sleuth](black-market-sleuth.md) | General | Diplomacy 1 rank, Knowledge (local) 1 rank |
 | [Black Powder Spectacle](black-powder-spectacle.md) | Combat, Grit, Performance | Amateur Gunslinger or the grit class feature, base attack bonus +4 |
 | [Blades Above and Below](blades-above-and-below.md) | Combat, Teamwork | Base attack bonus +6 |
+| [Blazing Channel](blazing-channel.md) | — | Turn Undead, channel positive energy class feature |
 | [Bless Equipment](bless-equipment.md) | General | Caster level 3rd, channel energy class feature |
 | [Blessed Hammer](blessed-hammer.md) | — | Ability to cast 3rd-level divine spells, proficient with warhammer, worshiper of a deity whose favored weapon is the warhammer |
 | [Blinded Blade Style](blinded-blade-style.md) | Combat, Style | Blind-Fight, Perception 5 ranks |
@@ -1663,11 +1664,14 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Channel Hate](channel-hate.md) | — | Channel energy 6d6, worshiper of a deity of hatred or wronged vengeance |
 | [Channel Ray](channel-ray.md) | — | Channel energy class feature |
 | [Channel Spirit](channel-spirit.md) | General | Spirit Ridden or spirit class feature |
+| [Channel Surge](channel-surge.md) | — | Channel energy or lay on hands class feature |
 | [Channel Viciousness](channel-viciousness.md) | — | Channel negative energy 4d6, worshiper of a deity of war or rage |
 | [Channeling Variance](channeling-variance.md) | — | Domain class feature, channel energy class feature, must worship and receive spells from a deity |
 | [Chaos Reigns](chaos-reigns.md) | Conduit | Knowledge (planes) 3 ranks |
 | [Charge of the Righteous](charge-of-the-righteous.md) | Combat | Base attack bonus +1, any good alignment |
 | [Charging Stag Style](charging-stag-style.md) | Combat, Style | Dex 13, Dodge, Improved Unarmed Strike, Mobility |
+| [Charming Performance](charming-performance.md) | — | Cha 13, Perform (any) 1 rank, bardic performance or raging song |
+| [Charnel Soldiers](charnel-soldiers.md) | — | Any teamwork feat, ability to control or create undead |
 | [Child of Two Fates](child-of-two-fates.md) | — | Knowledge (local) 5 ranks, half-elf |
 | [Chilled Rock](chilled-rock.md) | — | [Born of Frost](born-of-frost.md), frost giant |
 | [Chilling Amplification](chilling-amplification.md) | — | — |
@@ -1721,6 +1725,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Corpse Companion](corpse-companion.md) | — | Animal companion class feature, ghoul |
 | [Corrupted Flesh](corrupted-flesh.md) | — | Con 15, 6 HD, ogre |
 | [Countering Loophole](countering-loophole.md) | — | Improved Counterspell |
+| [Counterpoint to Inspiration](counterpoint-to-inspiration.md) | Teamwork | Harmonic Accord, Harmonic Empowerment, Perform (keyboard, percussion, sing, string, or wind) 10 ranks, bardic performance or raging song |
 | [Courage in a Bottle](courage-in-a-bottle.md) | — | Bravery class feature, worshiper of a deity of freedom and ale |
 | [Courage in Numbers](courage-in-numbers.md) | Teamwork | Iron Will |
 | [Coven Caster](coven-caster.md) | — | Changeling. |
@@ -2048,6 +2053,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Grisly Ornament](grisly-ornament.md) | — | Harvest Parts |
 | [Ground-Grabber](ground-grabber.md) | Combat | Con 13 |
 | [Group Deliver Touch Spells](group-deliver-touch-spells.md) | Teamwork | Group Shared Spells, must have a familiar with the share spells and deliver touch spells abilities |
+| [Grow Plant Creature](grow-plant-creature.md) | Item Creation | Train Plants, Handle Animal 5 ranks, Knowledge (nature) 5 ranks |
 | [Growth in Ash](growth-in-ash.md) | — | — |
 | [Gruesome Butcher](gruesome-butcher.md) | Story | You were rendered unconscious and left for dead on a battlefield between warring factions. |
 | [Guarded Charge](guarded-charge.md) | Shield Mastery | Shield Focus, base attack bonus +6 or fighter level 4th |
@@ -2063,6 +2069,8 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Hand's Sight](hand-s-sight.md) | General | Possessed Hand |
 | [Hands of Valor](hands-of-valor.md) | — | Lay on hands class feature, worshiper of a deity of valor and justice |
 | [Harder They Fall](harder-they-fall.md) | Combat, Teamwork | Str 13, Int 13, Combat Expertise, Power Attack |
+| [Harmonic Accord](harmonic-accord.md) | Teamwork | Bardic performance or raging song |
+| [Harmonic Empowerment](harmonic-empowerment.md) | Teamwork | Harmonic Accord, Perform (keyboard, percussion, sing, string, or wind) 10 ranks, bardic performance or raging song |
 | [Harrying Partners](harrying-partners.md) | Combat, Teamwork | Any teamwork feat, base attack bonus +6 |
 | [Haruspicy](haruspicy.md) | — | Knowledge (religion) 3 ranks |
 | [Harvest Parts](harvest-parts.md) | — | Craft (any) 1 rank or Heal 1 rank |
@@ -2264,6 +2272,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Modification Trainer](modification-trainer.md) | Combat | Cha 13, Armor Adept or Weapon Adept, fighter level 4th |
 | [Modified Weapon Proficiency](modified-weapon-proficiency.md) | Combat | Proficiency with the selected weapon |
 | [Monster Spotter](monster-spotter.md) | — | Skill Focus (Knowledge [any]), Knowledge (any) 3 ranks |
+| [Monstrous Companion](monstrous-companion.md) | — | Handle Animal 7 ranks; class feature that functions as the druid animal companion ability (including animal companion, divine bond [mount], hunter's bond [animal companion], nature's bond [animal companion], and the mount class feature) with an effective druid level of 7 |
 | [Monstrous Crafter](monstrous-crafter.md) | — | Craft Wondrous Item, Grisly Ornament, Harvest Parts |
 | [Monstrous Disguise](monstrous-disguise.md) | — | Disguise 5 ranks, Knowledge (nature) 5 ranks |
 | [Monstrous Mask](monstrous-mask.md) | — | Tiefling, must be taken at 1st level |
@@ -2454,6 +2463,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Rival](rival.md) | Story | See text |
 | [Robot’s Bane](robots-bane.md) | — | Knowledge (engineering) 5 ranks |
 | [Roll With It](roll-with-it.md) | Combat | Goblin, Acrobatics 1 rank |
+| [Rouse Emotions](rouse-emotions.md) | — | Cha 13, Charming Performance, Perform (any) 5 ranks, bardic performance or raging song |
 | [Rugged Northerner](rugged-northerner.md) | — | Con 13, Survival 1 rank |
 | [Runic Charge](runic-charge.md) | Combat | Caster level 5th |
 | [Rushing Winds](rushing-winds.md) | Combat | Turbulent Takeoff, Fly 10 ranks |
@@ -2481,6 +2491,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Scurrying Swarmer](scurrying-swarmer.md) | Combat | Ratfolk, swarming racial trait |
 | [Scuttle](scuttle.md) | — | — |
 | [Second Wind](second-wind-feat.md) | Combat, Performance | Endurance |
+| [Secret Language](secret-language.md) | Teamwork | Bluff 1 rank, Linguistics 1 rank, Sense Motive 1 rank |
 | [Secured Armor](secured-armor.md) | Armor Mastery | Base attack bonus +11 or fighter level 8th, armor training class feature, proficiency with medium or heavy armor |
 | [Seductive Channel](seductive-channel.md) | — | Channel positive energy class feature, worshiper of a deity of lust and revenge |
 | [Seeds of Doubt](seeds-of-doubt.md) | — | Hex class feature, Divine Defiance |
@@ -2735,6 +2746,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Toxic Spray](toxic-spray.md) | Combat | Spit Venom, Viscous Venom, nagaji |
 | [Toxicological Timing](toxicological-timing.md) | — | Craft (alchemy) 9 ranks |
 | [Trailblazing Channel](trailblazing-channel.md) | — | Channel energy 3d6, worshiper of a deity of dreams and travelers |
+| [Train Plants](train-plants.md) | — | Handle Animal 5 ranks, Knowledge (nature) 5 ranks |
 | [Treacherous Toxin](treacherous-toxin.md) | — | Base attack bonus +5, sneak attack class feature |
 | [Trepanation](trepanation.md) | — | Heal 5 ranks, Knowledge (arcana) 2 ranks |
 | [Triangulate](triangulate.md) | Teamwork | Blind-Fight, Greater Blind-Fight, Improved Blind-Fight, Perception 15 ranks, human |

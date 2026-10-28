@@ -255,3 +255,5 @@ The following text is the property of Wizards of the Coast, Inc. and is Copyrigh
     Pathfinder Player Companion: Heroes of the Wild © 2015, Paizo Inc.; Authors: Tyler Beck, Pedro Coelho, Justin Juan, Mikko Kallio, Jason Keeley, Nick Salestrom, and William Thrasher.
 
     Pathfinder Player Companion: Heroes of the High Court © 2017, Paizo Inc.; Authors: Isabelle Lee, Luis Loza, Ron Lundeen, and Jacob W. Michaels.
+
+    Pathfinder Player Companion: Cohorts and Companions © 2015, Paizo Inc.; Authors: Brian Duckwitz, Philip Minchin, and Jason Nelson.

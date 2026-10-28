@@ -2616,3 +2616,17 @@ This alchemical perfume is distilled from a blend of humanoid pheromones and fey
 **Price** 10 gp; **Weight** 1 lb.
 
 This term covers items not listed elsewhere, such as elaborate wigs, silk-lined cloaks, and ruffled blouses. While such garments usually offer no benefit beyond fashion, a silksworn occultist must wear several such garments of suitable quality to access her magic.
+
+## Item Cohort Care
+
+### Mending Kit
+
+**Price** 5 gp; **Weight** 10 lbs.
+
+This leather packet contains tools and materials for repairing items created with one specific Craft skill. Using a mending kit grants a +2 circumstance bonus on Craft checks made to repair a damaged item of the appropriate type. By spending 1 hour, the user can make a Craft check, dividing the result by 10 to determine how many points of damage are repaired. A mending kit can be used 10 times before needing replacement.
+
+### Rust Repellent
+
+**Price** 25 gp; **Weight** 2 lbs.
+
+This waxy paste preserves metal objects against rust. One application coats a Medium or smaller metal object or creature and lasts 24 hours, granting it a +2 circumstance bonus on saving throws against rusting effects and reduces the amount of damage dealt by rusting attacks by 5. A jar of rust repellent contains 5 applications.

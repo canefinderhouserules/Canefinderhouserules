@@ -184,6 +184,7 @@
 - **[Overstimulate](overstimulate.md)**: Grant ferocity to keep a creature conscious
 - **[Owl’s Wisdom](owls-wisdom.md)**: Subject gains +4 to Wis for 1 min./level.
 - **[Planetarium](planetarium.md)**: Project the night sky.
+- **[Plant Voice](plant-voice.md)**: A plant creature can speak and understand your languages.
 - **[Poison Exchange](poison-exchange.md)**: Swallow one poison and regurgitate another.
 - **[Pouncing Fury](pouncing-fury.md)**: Make a full attack with your claws after a charge.
 - **[Quick Change](quick-change.md)**: Use change shape as a swift action and surprise foes.
@@ -204,6 +205,7 @@
 - **[Solidify Earth](solidify-earth.md)**: Packs earth tight, hindering burrowing creatures.
 - **[Spider Climb](spider-climb.md)**: Grants ability to walk on walls and ceilings.
 - **[Spindrift Spritz](spindrift-spritz.md)**: Ally rerolls a save against fatigue, shaken, sickened, or staggered.
+- **[Spore Burst](spore-burst.md)**: A plant creature can burst spores that sicken nearby creatures.
 - **[Steal Breath](steal-breath.md)**: You pull the breath from a creature’s lungs, dealing damage and leaving it unable to speak, use breath.
 - **[Stone Throwing](stone-throwing.md)**: Subject can throw and catch rocks.
 - **[Storm Sight](storm-sight.md)**: Sense creatures caught in a storm.

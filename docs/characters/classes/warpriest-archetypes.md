@@ -204,3 +204,17 @@ A proclaimer is the polar opposite of a faithful wanderer, rushing into Abyss-tw
 **Cleanser of Evil (Su)**: At 2nd level, a proclaimer can hold his weapon aloft and shout his deity's name as a swift action, spending one use of fervor to deal 1d6 points of damage to all evil outsiders within 5 feet. At 5th level and every 3 levels thereafter, this damage increases by an additional 1d6. This damage has the same alignment as the proclaimer's deity (for example, it counts as good and lawful for a worshiper of a lawful good deity who uses this ability). At 7th level, the effect expands to include an area within 10 feet of the proclaimer, and it expands by 5 feet every 6 levels thereafter. A proclaimer can't use fervor to damage undead or to heal. This alters fervor and replaces sacred armor.
 
 **Zone of Sanctification (Su)**: At 4th level, when a proclaimer uses fervor to damage evil outsiders with his cleanser of evil ability, he can spend one additional use of fervor as a move action to create a zone of sanctification in the same area for 1 round. All evil outsiders in the zone when it becomes active must succeed at a Will saving throw (DC 10 + half the proclaimer's level + his Wisdom modifier) or be pushed back until they are out of the area. Evil outsiders that end their turns in the area take damage as if affected by cleanser of evil. This replaces channel energy.
+
+## Proselytizer
+
+*Warpriest archetype.* The proselytizer is the perfect militant missionary. He seeks to win the hearts and lay claim to the souls of those he meets, and—failing that—spreads the word of his deity at the edge of the sword.
+
+**Weapon and Armor Proficiencies**: A proselytizer does not gain proficiency with heavy armor or with all martial weapons, though he does gain proficiency in his deity's favored weapon. If his deity's favored weapon is unarmed strike, he gains Improved Unarmed Strike as a bonus feat. This ability alters the warpriest's weapon and armor proficiencies.
+
+**Emotional Appeal**: A proselytizer has great power over the emotions of others, wielding his voice like a weapon to pierce the heart of listeners and bring them closer to communion with his deity's power. The warpriest adds the following spells to his warpriest spell list at the indicated levels. He casts these as divine warpriest spells: 1st—*charm person*, *rally point*, *wrath*; 2nd—*castigate*, *heroism*, *suggestion*; 3rd—*charm monster*, *lesser geas*; 4th—*forced repentance*, *serenity*; 5th—*mass castigate*, *mass suggestion*; 6th—*antipathy*, *sympathy*. This ability replaces sacred armor and the bonus feat gained at 3rd level.
+
+**Sacred Subdual (Su)**: When a proselytizer uses his sacred weapon damage in place of his normal weapon damage, all damage he deals with that weapon is nonlethal damage. This ability modifies sacred weapon.
+
+**Blessing of Conversion**: The proselytizer always gains the conversion bonus (see [Converting NPCs](../../rules/campaign/intrigue/cohorts-and-allies.md#converting-npcs)) upon converting an NPC, rather than only the first time he does so each level. The bonuses overlap their durations, and do not stack. The proselytizer does not gain access to the minor blessings granted by his blessing class feature until 3rd level. This ability modifies blessings.
+
+**Voice of the Faithful (Ex)**: A proselytizer of 10th level or higher can expend a use of his major blessing to be able to speak to and understand any creature with a language for 1 hour. This ability modifies blessings (major).

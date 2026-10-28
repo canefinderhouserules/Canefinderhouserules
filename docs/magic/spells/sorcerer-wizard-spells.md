@@ -1009,6 +1009,7 @@
 - **[Create Mindscape](create-mindscape.md)**: Form an immersive mindscape.
 - **[Damnation Stride](damnation-stride.md)**: This spell functions like dimension door, except you leave behind a burst of fire.
 - **[Darkvault](darkvault.md)**: wards an area so light cannot change its illumination
+- **[Daywalker](daywalker.md)**: Make an undead creature look and act alive.
 - **[Deceptive Redundancy](deceptive-redundancy.md)**: Fool dispellers and hide a spell’s aura.
 - **[Decollate](decollate.md)**: A target can safely remove its head.
 - **[Devil Snare](devil-snare.md)**: Invisible circle traps outsiders.

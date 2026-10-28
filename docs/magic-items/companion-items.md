@@ -5991,3 +5991,53 @@ This imposing stone throne is ornamented with heavy chains radiating outward fro
 This beautiful throne is delicately crafted from pale stone carved with images of dancing nymphs and frolicking satyrs. A *throne of pleasing mien* imparts its continuous *heroism* effect to anyone seated upon it. A creature that bows or otherwise offers fealty to anyone sitting upon the throne (regardless of whether the person is a rightful ruler or not) gains a +2 circumstance bonus on Charisma-based skill checks and a +1 morale bonus on Will saving throws for 24 hours.
 
 **Construction Requirements:** Craft Wondrous Item, *eagle's splendor*, *heroism*, *resistance*; **Cost** 4,000 gp
+
+## Allies and Hirelings
+
+### Contract Rings
+
+**Slot** ring; **CL** 7th; **Price** 8,500 gp (pair); **Weight** —
+
+**Aura** moderate enchantment
+
+Contract rings are crafted in pairs (the price is for both rings), establishing a connection between the wearers. Each wearer must wear their ring for 24 hours before they begin to work. Contract rings grant a +10 competence bonus on Sense Motive checks made against the other wearer, and creatures wearing linked contract rings can understand each other's language.
+
+Once per day, contract rings can seal a contract. The two wearers join hands and willingly state what each is agreeing to. Once both agree, each wearer accepts a *lesser geas* (no save) to fulfill the terms of the contract. This function does not occur if either character is under a mind-affecting effect or threat that forces her agreement. This compulsion lasts 7 days, starting immediately. While the *lesser geas* remains in effect, neither wearer can remove her ring, and neither ring can establish another *lesser geas*. If either ring is destroyed, the effects of any active *lesser geas* remain for both creatures, but the surviving ring becomes nonfunctional once the *lesser geas* expires until the missing ring is repaired or replaced. If one wearer's *lesser geas* is broken, the other wearer's is removed.
+
+**Construction Requirements:** Forge Ring, *detect thoughts*, *lesser geas*, *share language*; **Cost** 4,250 gp
+
+### Rings of Friend-Finding
+
+**Slot** ring; **CL** 7th; **Price** 9,000 gp (pair); **Weight** —
+
+**Aura** moderate enchantment
+
+These specialized rings are sold in pairs and help allies find one another. Each of the wearers must wear the rings for 24 hours before they function, after which each wearer can activate her ring of friend-finding as a standard action, enabling her to determine the direction, distance, and general condition of the wearer of the other ring as a *status* spell.
+
+**Construction Requirements:** Forge Ring, *detect thoughts*, *status*; **Cost** 4,500 gp
+
+## Planar Binding Items
+
+### Cage of Captivity
+
+**Slot** none; **CL** 15th; **Price** 160,000 gp; **Weight** 1 lb.
+
+**Aura** strong enchantment
+
+This miniature cage of golden wire can be used to capture a weakened outsider once per day. The target outsider must be called or otherwise physically present; a cage of captivity has no effect on summoned outsiders. The target also must be unable to take actions continually throughout the entire process, whether cowering, dazed, dying, helpless, stunned, or unconscious. The user can attempt to draw a subdued outsider into the cage of captivity by placing gemstones within and concentrating for 1 minute. These gems must be worth at least 100 gp per Hit Die of the target. If the target fails a DC 20 Will save—this increases to DC 25 if the user speaks the target's true name—the target shrinks to a height of 1 inch and is drawn into the cage, as the minimum containment option of the *binding* spell.
+
+Any creature holding the cage can converse with the trapped outsider. The planar being can't use any supernatural or spell-like abilities while trapped, but it can still interact with, lie to, and manipulate captors using appropriate skill checks. Anyone holding the cage of captivity may attempt to open it as a standard action. If an outsider is trapped within, doing so requires a DC 22 Will save. If a creature fails this save, they can't open the cage and are repulsed by it for 24 hours as per the *antipathy* spell. The user who originally captured the imprisoned outsider gains a +5 morale bonus on this save.
+
+Any creature opening a cage of captivity can compel the trapped outsider to perform a service in exchange for its release. The trapped creature is compelled to fulfill this request as *geas/quest* if the creature opening the cage of captivity knows the creature's true name. If not, this request functions as *lesser geas* if the trapped outsider has 7 or fewer Hit Dice, or as *suggestion* if it has more than 7 Hit Dice. These requests ignore any spell resistance of the trapped outsider, but a successful DC 20 Will save negates this effect. Once it performs this service, an outsider can never again be trapped by the same cage of captivity. Variant cages of captivity may take the form of lamps, bowls, bottles, and similar containers.
+
+**Construction Requirements:** Craft Wondrous Item, *antipathy*, *binding*, *geas/quest*; **Cost** 80,000 gp
+
+### Elemental Ring
+
+**Slot** ring; **CL** 15th; **Price** 30,000 gp; **Weight** 1 lb.
+
+**Aura** strong conjuration
+
+This ornate ring has a thick iron band covered in sigils of calling, and is set with a large glowing gemstone that appears to be an elemental gem. The ring serves as a gateway for a specific elder elemental (25% chance each for air, earth, fire, or water) that performs a narrow range of services when called. When activated with a command word, the elemental is called (as by *greater planar ally*) and demands to know what service it is to perform. It can only be commanded to protect a specific creature or object, attack a specific creature, damage a specific object, or answer questions about its home plane. The wearer of the ring is able to communicate with the elder elemental as if they shared a common language. The elder elemental serves for no more than 24 hours, after which it returns to its home plane and the ring becomes a valueless hunk of lead.
+
+**Construction Requirements:** Forge Ring, *planar ally*, *planar binding*; **Cost** 15,000 gp

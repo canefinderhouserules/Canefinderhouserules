@@ -183,6 +183,7 @@ Shamans gain access to the following spells. Spells in plain text come from othe
 - **[Night Blindness](night-blindness.md)**: Lighting around the target counts as one step darker.
 - **[Overstimulate](overstimulate.md)**: Grant ferocity to keep a creature conscious
 - **[Owl’s Wisdom](owls-wisdom.md)**: Subject gains +4 to Wis for 1 min./level.
+- **[Plant Voice](plant-voice.md)**: A plant creature can speak and understand your languages.
 - **[Quick Change](quick-change.md)**: Use change shape as a swift action and surprise foes.
 - **[Raven's Flight](ravens-flight.md)**: Become a Tiny raven shape with fly speed 50 ft. for one turn.
 - **[Reinvigorating Wind](reinvigorating-wind.md)**: Wake and invigorate allies with a magical wind
@@ -201,6 +202,7 @@ Shamans gain access to the following spells. Spells in plain text come from othe
 - **[Spiritual Squire](spiritual-squire.md)**: A force servant helps carry, aid, and armor allies.
 - **[Spiritual Weapon](spiritual-weapon.md)**: Magic weapon attacks on its own.
 - **[Splinter Spell Resistance](splinter-spell-resistance.md)**: Your weapon lowers a foe's spell resistance by 5.
+- **[Spore Burst](spore-burst.md)**: A plant creature can burst spores that sicken nearby creatures.
 - **[Storm Sight](storm-sight.md)**: Sense creatures caught in a storm.
 - **[Summon Swarm](summon-swarm.md)**: Summons swarm of bats, rats, or spiders.
 - **[Sun’s Disdain](suns-disdain.md)**: Target is hurt by sunlight.

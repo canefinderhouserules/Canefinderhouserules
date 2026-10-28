@@ -387,6 +387,7 @@
 - **[Pillow Talk](pillow-talk.md)**: Question a sleeping creature
 - **[Planar Inquiry](planar-inquiry.md)**: Call an outsider to answer questions.
 - **[Planned Assault](planned-assault.md)**: Planned actions grant bonuses for the first round.
+- **[Plant Voice](plant-voice.md)**: A plant creature can speak and understand your languages.
 - **[Poison Exchange](poison-exchange.md)**: Swallow one poison and regurgitate another.
 - **[Prayer](prayer.md)**: Allies get +1 bonus on most rolls, enemies –1 penalty.
 - **[Project Weakness](project-weakness.md)**: a living creature takes on your vampire weaknesses
@@ -579,6 +580,7 @@
 - **[Contact Entity III](contact-entity-iii.md)**: Ask very powerful eldritch entities to find and converse with you, or they may reply telepathically.
 - **[Cure Light Wounds, Mass](cure-light-wounds-mass.md)**: Cures 1d8 damage + 1/level, affects 1 subject/level.
 - **[Darkvault](darkvault.md)**: wards an area so light cannot change its illumination
+- **[Daywalker](daywalker.md)**: Make an undead creature look and act alive.
 - **[Decollate](decollate.md)**: A target can safely remove its head.
 - **[Dispel Balance](dispel-balance.md)**: You are protected from neutral creatures
 - **[Dispel Chaos](dispel-chaos.md)/[Dispel Evil](dispel-evil.md)/[Dispel Good](dispel-good.md)/[Dispel Law](dispel-law.md)**: +4 bonus against attacks.

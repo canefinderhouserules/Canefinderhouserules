@@ -256,6 +256,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Skinsend](skinsend.md)**: Animate and possess your own skin as if it were a separate creature.
 - **[Spell Gauge](spell-gauge.md)**: Reveal some of a target’s spells.
 - **[Splinter Spell Resistance](splinter-spell-resistance.md)**: Your weapon lowers a foe's spell resistance by 5.
+- **[Spore Burst](spore-burst.md)**: A plant creature can burst spores that sicken nearby creatures.
 - **[Squeeze](squeeze.md)**: School transmutation (polymorph); Level alchemist 2, sorcerer/wizard 2, witch 2 Casting Time 1 standard.
 - **[Stabilize Powder](stabilize-powder.md)**: Ammunition in the targeted firearm is less likely to misfire.
 - **[Stalwart Resolve](stalwart-resolve.md)**: Ignore ability damage to one score.
@@ -377,6 +378,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Phase Step](phase-step.md)**: Short-range teleport of a willing creature with line of sight.
 - **[Pillow Talk](pillow-talk.md)**: Question a sleeping creature
 - **[Planar Inquiry](planar-inquiry.md)**: Call an outsider to answer questions.
+- **[Plant Voice](plant-voice.md)**: A plant creature can speak and understand your languages.
 - **[Pocketful of Vipers](pocketful-of-vipers.md)**: Ward a container with summoned vipers.
 - **[Project Weakness](project-weakness.md)**: a living creature takes on your vampire weaknesses
 - **[Pugwampi’s Grace](pugwampis-grace.md)**: Target rolls 2d20 and takes the lower result.
@@ -563,6 +565,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Curse, Major](curse-major.md)**: As bestow curse, but harder to remove.
 - **[Damnation Stride](damnation-stride.md)**: This spell functions like dimension door, except you leave behind a burst of fire.
 - **[Darkvault](darkvault.md)**: wards an area so light cannot change its illumination
+- **[Daywalker](daywalker.md)**: Make an undead creature look and act alive.
 - **[Debilitating Pain, Mass](debilitating-pain-mass.md)**: As debilitating pain, but affects multiple creatures.
 - **[Deceitful Veneer](deceitful-veneer.md)**: Make someone seem like an obvious liar.
 - **[Decollate](decollate.md)**: A target can safely remove its head.

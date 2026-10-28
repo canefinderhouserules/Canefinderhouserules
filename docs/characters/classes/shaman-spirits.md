@@ -2,6 +2,40 @@
 
 Each shaman must select from the following spirits. Unless otherwise noted, the DC to save against the special abilities granted by a spirit is equal to 10 + 1/2 the shaman's level + the shaman's Wisdom modifier.
 
+## Ancestors
+
+A shaman that selects the ancestors spirit has wise eyes and thick white or silver hair. Fine wrinkles line the shaman's face, becoming more obvious when she smiles or glowers. When she calls upon one of this spirit's abilities, her hair glows as though lit from within, rustling of its own accord.
+
+**Spirit Magic Spells**: *Unseen servant* (1st), *spiritual weapon* (2nd), *heroism* (3rd), *spiritual ally* (4th), *telekinesis* (5th), *greater heroism* (6th), *ethereal jaunt* (7th), *vision* (8th), *astral projection* (9th).
+
+**Hexes**: A shaman who chooses the ancestors spirit can select from the following hexes.
+
+**Ancestral Blessing (Su)**: The shaman can grant the blessings of her ancestors to any ally within 30 feet. The blessed creature receives a +1 competence bonus on attack and damage rolls. This blessing lasts until the blessed creature hits with an attack or deals damage to a target. The shaman can have only one ancestral blessing active at a time. If the shaman uses this ability again, the previous blessing immediately ends. At 8th level and 16th level, the bonuses provided by this blessing increase by 1.
+
+**Ghost Blade (Su)**: The shaman can touch a creature to grant all of her weapons the ghost touch weapon property for a number of rounds equal to her Charisma bonus. Once a creature has been the target of this ability, it can't be the target of this ability again for 24 hours.
+
+**Intercessor (Sp)**: The shaman can invoke an ancestor spirit into an intact, humanoid or monstrous humanoid corpse to learn what the body knew in life. This acts as *speak with dead*, but the shaman may ask only a single question. If an animated corpse or undead is targeted with this ability, the hex immediately fails. Once a corpse has answered a single question, it can't be targeted with this ability again.
+
+**Might of the Fallen (Su)**: The shaman can call upon the ancestral heroes of her family to bolster ailing allies. As a standard action, the shaman can cure 1 point of temporary ability damage affecting the creature touched. At 7th level, this increases to 1d4 points of temporary ability damage. Once a creature has been the target of this hex, it can't be the target of this hex again for 24 hours.
+
+**Wisdom of the Ages (Su)**: The shaman can call upon her ancestors for lore and guidance. She can use her Wisdom modifier instead of her Intelligence modifier on all Intelligence-based skill checks.
+
+**Spirit Animal**: The shaman's spirit animal has streaks of gray or silver hide, hair, or fur, and long facial hair that appears similar to a wispy mustache or bushy eyebrows. The spirit animal can speak and understand a number of bonus languages equal to the shaman's Charisma bonus.
+
+**Spirit Ability**: A shaman who chooses the ancestors spirit as her spirit or wandering spirit gains the following ability.
+
+**Ancestor's Council (Su)**: As a standard action the shaman can call upon her ancestors to provide advice and assistance to one ally within 30 feet. The ally gains a +2 bonus on any attack roll, saving throw, ability check, or skill check made before the beginning of the shaman's next turn. The shaman can use this ability a number of times per day equal to 3 + her Charisma bonus.
+
+**Greater Spirit Ability**: A shaman who chooses the ancestors spirit as her spirit or wandering spirit gains the following ability upon having access to the greater version of that spirit.
+
+**Ancestral Weapon (Su)**: As a standard action, the shaman can summon an appropriately-sized simple or martial weapon with a +1 enhancement bonus from her family's history. She is always considered proficient with this weapon. At 15th level and 19th level, the weapon's enhancement bonus increases by 1. At 11th level, the weapon gains the ghost touch weapon property. The shaman can use this ability for a number of minutes per day equal to her shaman level. This duration does not need to be consecutive, but it must be used in 1-minute increments. The weapon disappears 1 round after leaving the shaman's grasp.
+
+**True Spirit Ability**: A shaman who chooses the ancestors spirit as her spirit or wandering spirit gains the following ability upon having access to the true version of that spirit.
+
+**Ancestral Guardian (Sp)**: The shaman can call on the ancient allies of her ancestors to physically appear and assist her, even if they have moved on to new roles in the cosmos. Once per day as a standard action, the shaman can cast *planar ally*. Although there is no cost to use the spell-like ability, the planar ally demands payment for services it performs as normal for the spell.
+
+**Manifestation**: Upon reaching 20th level, the shaman becomes one with the spirits of her ancestors. She gains a bonus on Will saving throws equal to her Charisma modifier, blindsense out to a range of 60 feet, and a +4 bonus to her caster level for all divination spells. She can cast *astral projection* as a spell-like ability once per day without requiring material components.
+
 ## Battle
 
 A shaman who selects the battle spirit gains scars from every wound she takes, and the grit of battle always seems to cling on her body. When she calls upon one of this spirit's abilities, she grows in stature-becoming taller and more muscular, with a grimace of rage stretching across her face.
