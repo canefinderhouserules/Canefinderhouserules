@@ -129,6 +129,14 @@ This multicolored, shimmering lichen grows in places where powerful magical crea
 
 **Use** A creature that sleeps for at least 8 hours with a dose of dream lichen in contact with its body has vivid dreams in which it endures and recovers from a supernatural affliction. Upon waking, the creature can attempt a new saving throw against a single curse or mind-affecting effect from which it is currently suffering. Alternatively, the user automatically succeeds at a saving throw to remove a temporary negative level.
 
+### Dream Star
+
+**Price** 5 gp; **Weight** —
+
+**Profession (herbalist)** DC 13; **Terrain** forests or plains
+
+The orange petals of this flower are cured and left to steep in hot water, making a mild, aromatic tea that facilitates restful sleep. When taken before sleeping, this tea grants the drinker the benefits of a full 8 hours of uninterrupted sleep in only 6 hours. One dose of dream star makes enough tea to serve six.
+
 ### Fairy Cap
 
 **Price** 250 gp
@@ -184,6 +192,14 @@ The deep-red flower has rich nectar with a honey-like scent.
 **Preparation** A dose of this flower’s nectar must be extracted and stored in an alchemically prepared vial with a successful DC 14 Craft (alchemy) check and 1 hour’s worth of work.
 
 **Use** As a full-round action, a dose of love-in-idleness nectar can be drizzled into the ears of a helpless or willing animal or humanoid. This causes the subject to become much more susceptible to the power of suggestion and mind-affecting effects, taking a –2 penalty on Sense Motive checks and a –1 penalty on saving throws against mind-affecting effects for the next 2d4 hours. This is a poison effect.
+
+### Mage's Dagger
+
+**Price** 50 gp; **Weight** —
+
+**Profession (herbalist)** DC 15; **Terrain** deserts
+
+Found most often in lands heavily modified by magic, this bulbous cactus is topped with twilight-blue flowers. The sap from the cactus can be used as an additive when crafting potions, causing all variable numeric effects of the potion to be determined as if the potion's caster level were 1 higher. When processed into a powder with a successful DC 15 Craft (alchemy) check, mage's dagger can be used as an additional material component when casting spells, granting the user a +1 alchemical bonus on caster level checks to overcome spell resistance.
 
 ### Merfolk’s Comb
 

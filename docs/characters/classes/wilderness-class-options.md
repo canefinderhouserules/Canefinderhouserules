@@ -143,6 +143,8 @@ The following hexes are available to all witches and use the standard rules for 
 
 **Summer’s Heat (Su)**: The witch surrounds her target with oppressive heat, dealing a number of points of nonlethal damage equal to her witch level and causing the target to become fatigued. The target can attempt a Fortitude save to reduce this nonlethal damage by half and negate the fatigued condition. Whether or not the target succeeds at this save, it can’t be the target of this hex again for 1 day.
 
+**Witch’s Bottle (Su)**: Once per day, the witch can perform a 10-minute ritual to create a potion imbued with the power of one of her hexes. Any creature that consumes this potion is affected by the hex as if cast by its creator. The witch can’t use that hex until the potion is consumed or rendered inert. Only hexes that can target a creature other than the witch can be distilled in this way. The potion remains potent until consumed or rendered inert by the witch as a free action. A witch must have the cauldron hex to select this hex.
+
 ## Witch Patrons
 
 Witches can choose the following patrons based on themes of the natural world to further associate the effects of their spellcasting powers with the wilderness.

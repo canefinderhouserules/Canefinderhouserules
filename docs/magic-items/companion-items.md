@@ -5735,3 +5735,101 @@ Made of a glassy, translucent substance, this orb swirls with the eldritch energ
 This talisman is worn lashed around the neck and is made of flexible bark woven into a mesmerizing pattern. While wearing a talisman of beast training, a wearer finds that animals become much more patient with her and amenable to training. As such, failed Handle Animal checks made during downtime periods, including those made to rear animals and teach them new tricks, may be treated as if they were successful. The talisman can turn 10 failed checks into successes this way. Once the tenth failed check has been converted to a success, the talisman falls apart and becomes useless.
 
 **Construction Requirements:** Craft Wondrous Item, *charm animal*; **Cost** 2,000 gp
+
+## Wild Magic Items
+
+### Arboreal Armor
+
+**Slot** armor; **CL** 9th; **Price** 18,670 gp; **Weight** 25 lbs.
+
+**Aura** moderate transmutation
+
+The oaken plates of this +1 *wild* *wooden armor* are rough with untreated bark. The wearer can activate the armor with a command word, causing her flesh to become treelike in appearance and resilience. This grants the wearer a +4 enhancement bonus to her existing natural armor bonus and removes her need to breathe, but reduces her speed by half and imposes a –2 penalty on Reflex saves. This effect remains until dismissed as a free action. The wearer can use this ability for up to 10 rounds per day, though the rounds need not be consecutive.
+
+**Construction Requirements:** Craft Magic Arms and Armor, *baleful polymorph*, *barkskin*; **Cost** 9,420 gp
+
+### Bogstrider Boots
+
+**Slot** feet; **CL** 7th; **Price** 10,000 gp; **Weight** 1 lb.
+
+**Aura** moderate abjuration
+
+These soft leather boots smell strongly of marsh gas, and leave faint wet prints behind even when they're dry. Despite these aesthetic flaws, *bogstrider boots* are of great use in areas of swampy terrain. They provide the wearer the ability to move without penalty in squares of shallow or deep bog, and the DCs of Acrobatics checks attempted by the boots' wearer are unchanged in squares of shallow bog. In addition, three times per day when the wearer takes a charge or withdraw action, she can increase her speed by 60 feet for 1 round.
+
+**Construction Requirements:** Craft Wondrous Item, *freedom of movement*, *haste*; **Cost** 5,000 gp
+
+### Fan of Autumn
+
+**Slot** none; **CL** 3rd; **Price** 6,000 gp; **Weight** 1 lb.
+
+**Aura** faint illusion
+
+This delicate fan is made of dried leaves and thin twigs. Three times per day as a standard action, the wielder can wave the fan to summon forth a 30-foot cone of swirling red and gold leaves that lasts for 3 rounds. This area acts as *obscuring mist*, except for the duration and the fact it is composed of leaves rather than fog (thus, creatures able to see through mist and fog can't see through the *fan of autumn's* concealment). As long as the wielder has the fan in her hand, the leaves don't obscure her vision.
+
+**Construction Requirements:** Craft Wondrous Item, *gust of wind*; **Cost** 3,000 gp
+
+### Frostwild Bridle
+
+**Slot** head; **CL** 9th; **Price** 48,000 gp; **Weight** 2 lbs.
+
+**Aura** moderate evocation
+
+When this bridle of crystal-studded white leather is placed on a horse or similar mount, the animal's eyes emit a bright azure glow and its hair glistens with magical frost. A *frostwild bridle* provides cold resistance 20 to its wearer. Also, three times per day on the rider's command, the animal wearing a *frostwild bridle* can breathe a 60-foot cone of frost that deals 9d6 points of cold damage to all creatures in the area. A successful DC 17 Reflex save halves the damage.
+
+**Construction Requirements:** Craft Wondrous Item, *cone of cold*, *resist energy*; **Cost** 24,000 gp
+
+### Gauntlets of Twisting Vines
+
+**Slot** hands; **CL** 3rd; **Price** 5,000 gp; **Weight** 2 lbs.
+
+**Aura** faint transmutation
+
+These wrist wraps are actually dark, thorny vines that constantly move and twist around the wearer's hands of their own accord. The wearer gains a +2 circumstance bonus on combat maneuver checks to disarm, grapple, and steal. Once per day when the wearer successfully pins a foe with a grapple check, the vines can move off the wearer (ending the circumstance bonus on combat maneuver checks), envelop the target, and tie it up. A tied-up victim can escape the vines by succeeding at a combat maneuver or Escape Artist check with a DC equal to the result of the combat maneuver check that pinned the victim. The character who was wearing the gauntlets when they were used to envelop a target can remove them from the target as a move action. Any other creature must succeed at a combat maneuver or Strength check at the same DC to pry the gauntlets loose of an enveloped target.
+
+**Construction Requirements:** Craft Wondrous Item, Improved Grapple, *entangle*; **Cost** 2,500 gp
+
+### Grove Staff
+
+**Slot** none; **CL** 10th; **Price** 31,800 gp; **Weight** 4 lbs.
+
+**Aura** moderate evocation
+
+This thick, 5-foot-long wooden staff is made of rough oak and has two branches growing from the top. The branches twist together and bend back toward the body of the staff, and their leaves often rustle as if blown by a light breeze even when the surrounding air is still. A *grove staff* functions as a +1 *called spell storing quarterstaff*, but can't be used as a double weapon (only one end of the staff is usable in combat). The staff allows use of the following spells.
+
+- *Barkskin* (1 charge)
+- *Plant growth* (2 charges)
+- *Speak with plants* (2 charges)
+
+The wielder is immune to the terrain effects of the *plant growth* spell cast from the staff. In addition, *shillelagh* can be cast on a *grove staff* despite it being a magic quarterstaff, increasing its enhancement bonus by 1. The staff retains the effects of the *shillelagh* spell even if wielded by someone other than the spell's caster. Once per day, a character wielding a *grove staff* who has either *barkskin* or *plant growth* on her class spell list can cast *speak with plants* from the staff without attempting a Use Magic Device check (this expends 3 charges instead of 2).
+
+**Construction Requirements:** Craft Magic Arms and Armor, Craft Staff, *barkskin*, *plant growth*, *speak with plants*, *teleport*, creator must be a caster of at least 12th level; **Cost** 16,050 gp
+
+### Shatterstone Hammer
+
+**Slot** none; **CL** 7th; **Price** 26,712 gp; **Weight** 15 lbs.
+
+**Aura** strong transmutation
+
+The head of this +1 *warhammer* is made from magically treated stone that is as hard as metal. A *shatterstone hammer* deals double damage against unattended earthen and stone objects, and gains the benefit of being a *bane* weapon when used against creatures of the earth subtype and constructs made of clay or stone. Once per day on a successful attack made with the hammer, the wielder can cause the target to be slowed (as the *slow* spell). A DC 14 Will save negates this effect.
+
+**Construction Requirements:** Craft Magic Arms and Armor, *shatter*, *slow*; **Cost** 13,512 gp
+
+### Storm Goggles
+
+**Slot** eyes; **CL** 3rd; **Price** 6,000 gp; **Weight** —
+
+**Aura** faint transmutation
+
+These goggles, made from a pair of smoky crystal lenses set in an adjustable leather strap, help the wearer see through storms of rain, snow, or even dust. A pair of *storm goggles* fully negates any Perception penalties imposed by a natural storm or atmospheric condition. Also, once per round when the wearer makes an attack against a target that has concealment from him because of natural or magical fog, mist, clouds, or vapor, the wearer can choose to roll the miss chance percentile twice and take the better of the two results.
+
+**Construction Requirements:** Craft Wondrous Item, Skill Focus (Perception), *acute senses*; **Cost** 3,000 gp
+
+### Thunder Strap
+
+**Slot** none; **CL** 9th; **Price** 60,000 gp; **Weight** —
+
+**Aura** moderate transmutation
+
+This sturdy leather strap seems worn and weathered, but is as strong as steel. When wrapped around the grip of a melee weapon for 24 hours, the strap's magic becomes active. Once per day, the wielder of a melee weapon so wrapped can hold the weapon aloft for 1 minute to change local weather conditions to create a thunderstorm. This acts as *control weather*, except only thunderstorms can be created. Additionally, the wielder can cast *call lightning storm* once per day. If used outside, this spell is cast as if the local conditions are stormy.
+
+**Construction Requirements:** Craft Wondrous Item, *call lightning storm*, *control weather*; **Cost** 30,000 gp

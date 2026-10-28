@@ -32,6 +32,7 @@
 - **[Burning Sands](burning-sands.md)**: Burning sand slows and damages creatures.
 - **[Calm Animals](calm-animals.md)**: Calms 2d4 + level HD of animals.
 - **[Charm Animal](charm-animal.md)**: Makes one animal your friend.
+- **[Cheetah's Sprint](cheetahs-sprint.md)**: Run at ten times your speed for one turn.
 - **[Commune with Birds](commune-with-birds.md)**: You utter a question in the form of a low-pitched bird call that can be heard up to a mile away, and can.
 - **[Cure Light Wounds](cure-light-wounds.md)**: Cures 1d8 damage + 1/level (max +5).
 - **[Damp Powder](damp-powder.md)**: Ruins ammunition loaded in the targeted firearm.
@@ -216,6 +217,7 @@
 - **[Visualization of the Body](visualization-of-the-body.md)**: Meditative spell: bonus to one physical ability's skills, plus a one-time boost.
 - **[Warp Wood](warp-wood.md)**: Bends wood.
 - **[Whip of Spiders](whip-of-spiders.md)**: Whiplike spider swarm deals swarm damage by touch.
+- **[Wild Instinct](wild-instinct.md)**: +5 on Perception in surprise rounds; no sleeping penalty.
 - **[Wilderness Soldiers](wilderness-soldiers.md)**: Nearby plants aid you in combat.
 - **[Wing Bounty](wing-bounty.md)**: Your wings sprout goodberries.
 - **[Winter Grasp](winter-grasp.md)**: Create a slippery sheet of ice on the ground.
@@ -239,6 +241,7 @@
 - **[Call Lightning](call-lightning.md)**: Calls down lightning bolts (3d6 per bolt) from sky.
 - **[Carrying Wind](carrying-wind.md)**: Wind spirit boosts your speed and grants a fly speed.
 - **[Channel the Gift](channel-the-gift.md)**: Your spell slot powers an ally’s spell.
+- **[Clear Grove](clear-grove.md)**: Vegetation withdraws from a 20-ft.-radius clearing.
 - **[Companion Mind Link](companion-mind-link.md)**: You can talk with your animal companion, and can handle it with supernatural ease.
 - **[Contagion](contagion.md)**: Infects subject with chosen disease.
 - **[Cure Moderate Wounds](cure-moderate-wounds.md)**: Cures 2d8 damage + 1/level (max +10).
@@ -280,6 +283,7 @@
 - **[Quell Energy](quell-energy.md)**: Reduce a creature's energy damage of one type.
 - **[Quench](quench.md)**: Extinguishes fires.
 - **[Raging Rubble](raging-rubble.md)**: You animate an area of rubble, gravel, or other small stones, creating a dangerous, rolling area of debris.
+- **[Raven's Flight](ravens-flight.md)**: Become a Tiny raven shape with fly speed 50 ft. for one turn.
 - **[Reinvigorating Wind](reinvigorating-wind.md)**: Wake and invigorate allies with a magical wind
 - **[Remove Disease](remove-disease.md)**: Cures all diseases affecting subject.
 - **[Resinous Skin](resinous-skin.md)**: You gain DR 5/piercing and +4 to CMD against disarm attempts.
@@ -351,6 +355,7 @@
 - **[Freedom of Movement](freedom-of-movement.md)**: Subject moves normally despite impediments to movement.
 - **[Frigid Souls](frigid-souls.md)**: Haunt strips protection against cold.
 - **[Giant Vermin](giant-vermin.md)**: Turns centipedes, scorpions, or spiders into giant vermin.
+- **[Globe of Tranquil Water](globe-of-tranquil-water.md)**: A calm bubble of water blocks precipitation and water attacks.
 - **[Healing Warmth](healing-warmth.md)**: This spell grants you temporary immunity to fire damage as protection from energy.
 - **[Heavy Water](heavy-water.md)**: water becomes hard to swim through and slows ships
 - **[Ice Storm](ice-storm.md)**: Hail deals 5d6 damage in cylinder 40 ft. across.
@@ -422,6 +427,7 @@
 - **[Jungle Mind](jungle-mind.md)**: Sense and link minds with animals of one type.
 - **[Master's Mutation](masters-mutation.md)**: Grant abilities to a summoned creature
 - **[Neutralize Poison, Greater](neutralize-poison-greater.md)**: As neutralize poison, but it also reverses poison damage.
+- **[Oasis](oasis.md)**: Creates a permanent spring.
 - **[Old Salt’s Curse](old-salt-s-curse.md)**: You inflict a curse of the roiling sea upon the target, making it permanently sickened.
 - **[Poisonous Balm](poisonous-balm.md)**: As *cure serious wounds*, but leave behind a latent venom.
 - **[Release the Hounds](release-the-hounds.md)**: Summons a swarm-like pack of canines.
@@ -515,6 +521,7 @@
 - **[Heal](heal.md)**: Cures 10 points/level damage, all diseases and mental conditions.
 - **[Infuse Robot](infuse-robot.md)**: Turn a robot into a magical construct you command.
 - **[Legendary Proportions](legendary-proportions.md)**: Increase a creature's size category with large bonuses.
+- **[Planar Refuge](planar-refuge.md)**: A pocket of Material Plane wilderness on another plane.
 - **[Plundered Power](plundered-power.md)**: Kill a creature and steal its strongest spell-like ability.
 - **[Scrying, Greater](scrying-greater.md)**: As *scrying*, but faster and longer.
 - **[Siege of Trees](siege-of-trees.md)**: Transforms Large trees into arboreal catapults of the same size.

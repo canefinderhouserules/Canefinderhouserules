@@ -28,6 +28,8 @@ There are 40 basic traits, split evenly among four categories. Combat traits foc
 
 **Splash Attack**: You catch others off-guard when a confrontation escalates. As long as you are standing in or adjacent to water, or holding at least a pint of liquid (including insoluble liquids like oil or alchemist's fire), you can perform a dirty trick combat maneuver to blind a foe within reach without provoking an attack of opportunity. If you select the Improved Dirty Trick feat, you gain a +2 trait bonus on dirty trick combat maneuvers to blind foes as long as you are standing in or adjacent to water or holding a pint of liquid.
 
+**Vandal**: You gain a +2 bonus on Strength checks to break objects, and when damaging an object with a weapon, natural weapon, or unarmed attack, you ignore 2 points of its hardness.
+
 ## Faith Traits
 
 **Birthmark**: You were born with a strange birthmark that looks very similar to the holy symbol of the god you chose to worship later in life. This birthmark can serve you as a divine focus for casting spells, and as a physical manifestation of your faith, it increases your devotion to your god—you gain a +2 trait bonus on all saving throws against charm and compulsion effects as a result.
@@ -74,6 +76,8 @@ There are 40 basic traits, split evenly among four categories. Combat traits foc
 
 **Overwhelming Beauty**: Your wiles are particularly potent against people who share a race with you, as your beauty is often held up as a symbol of perfection. The DC of your mind-affecting effects increases by 1 against creatures that have at least one of the same subtypes as you.
 
+**Green-Blooded**: You are touched by the supernatural essence of nature, marking you since birth as something other than purely mortal. Choose a single 0-level druid spell. You can cast this spell once per day as a spell-like ability with a caster level equal to your character level.
+
 ## Social Traits
 
 **Adopted**: You were adopted and raised by someone not of your actual race, and raised in a society not your own. As a result, you picked up a race trait from your adoptive parents and society, and may immediately select a race trait from your adoptive parents’ race.
@@ -111,3 +115,10 @@ There are 40 basic traits, split evenly among four categories. Combat traits foc
 **Rest for the Wicked**: Often forced to go without food or stimulation for days at a time, you have learned to use prolonged sleep as a means of escape and a way to heal your wounds. You heal temporary ability damage at a rate of 3 points per day of complete bed rest. A normal night of rest (8 hours) still heals you at a rate of only 1 point of temporary ability damage per night of rest.
 
 **Signature Moves**: You're known for some unique item that has become your trademark. Your starting equipment includes a single masterwork item worth less than 900 gp, and you gain a +1 trait bonus on Bluff and Intimidate checks while wielding this item in one or both hands.
+
+**Beastkin**: Select one specific type of animal (such as wolves or apes). You were raised from infancy by an animal or pack of animals of that type. You learned their ways and have more in common with your beastly kin than members of any humanoid race. You gain a +1 trait bonus on Survival checks and can use *speak with animals* as a spell-like ability at will to communicate with the type of animal that raised you.
+
+**Self-Sufficient**: You know how to work with your hands and aren't dependent on complex tools. When attempting Craft checks, you take no penalty when using improvised tools. At the GM's discretion, you can attempt certain Craft checks even when no tools are available, though you take a –2 penalty.
+
+**Wild Tongue**: You were raised in a community that included numerous individuals who spoke with creatures of the wild. You gain one of the following languages of your choice as a bonus language: Aklo, Aquan, Auran, Giant, Ignan, or Sylvan. With your GM's permission, you can instead select Druidic, but druids are protective of their language and may hunt you as a threat to their sole ownership of their secrets.
+

@@ -373,6 +373,7 @@
 - **[Quaking Fury](quaking-fury.md)**: Minor earthquake trips creatures in a cone.
 - **[Qualm](qualm.md)**: Target gains penalties on ability checks, skill checks, and concentration checks until it spends an entire round doing nothing.
 - **[Quick Change](quick-change.md)**: Use change shape as a swift action and surprise foes.
+- **[Raven's Flight](ravens-flight.md)**: Become a Tiny raven shape with fly speed 50 ft. for one turn.
 - **[Recoil Fire](recoil-fire.md)**: Ammunition in the targeted firearm generates excessive recoil.
 - **[Reinforce Armaments, Communal](reinforce-armaments-communal.md)**: As reinforce armaments, but you may divide the duration among objects touched.
 - **[Reloading Hands](reloading-hands.md)**: Loads a single shot into your weapon every round.
@@ -1023,6 +1024,7 @@
 - **[Ghoul Army](ghoul-army.md)**: Ghouls and a ghast rise to fight for you and explode.
 - **[Gift of the Deep](gift-of-the-deep.md)**: Grant sahuagin mutant features
 - **[Glimpse of Truth](glimpse-of-truth.md)**: Gain *true seeing* for 1 round.
+- **[Globe of Tranquil Water](globe-of-tranquil-water.md)**: A calm bubble of water blocks precipitation and water attacks.
 - **[Grand Destiny](grand-destiny.md)**: Target gains a +4 bonus on two chosen rolls.
 - **[Gravity Sphere](gravity-sphere.md)**: Alter gravity in a 30-ft. sphere.
 - **[Gravity Well](gravity-well.md)**: Target is crushed by heavy gravity.
@@ -1215,6 +1217,7 @@
 - **[Naga Shape III](naga-shape-iii.md)**: assume a naga form with the strongest abilities
 - **[Named Bullet, Greater](named-bullet-greater.md)**: As named bullet, but deals 2 points of damage per caster level.
 - **[Night Terrors](night-terrors.md)**: Disturb a creature’s rest with dark dreams.
+- **[Oasis](oasis.md)**: Creates a permanent spring.
 - **[Old Mage's Ire](old-mages-ire.md)**: Vines attack evil creatures and structures in a large area.
 - **[Ooze Form II](ooze-form-ii.md)**: Assume the form of a Large ooze creature.
 - **[Path of the Winds](path-of-the-winds.md)**: With a sweeping gesture, you call forth mighty winds to clear a path ahead of you.
@@ -1351,6 +1354,7 @@
 - **[Particulate Form](particulate-form.md)**: Targets gain fast healing and immunity to critical hits.
 - **[Permanent Hallucination](permanent-hallucination.md)**: As *scripted hallucination*, but permanent.
 - **[Plague Bearer](plague-bearer.md)**: Target spreads contagion to adjacent creatures.
+- **[Planar Refuge](planar-refuge.md)**: A pocket of Material Plane wilderness on another plane.
 - **[Planetary Adaptation, Mass](planetary-adaptation-mass.md)**: As planetary adaptation, on many creatures.
 - **[Plundered Power](plundered-power.md)**: Kill a creature and steal its strongest spell-like ability.
 - **[Pox of Rumors](pox-of-rumors.md)**: Curse a creature to attract nasty rumors.

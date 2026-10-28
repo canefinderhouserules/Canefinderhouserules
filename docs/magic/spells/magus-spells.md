@@ -110,6 +110,7 @@ The magus class spell list appears on the [Magus](../../characters/classes/magus
 - **[Pilfering Hand](pilfering-hand.md)**: You may seize an object or manipulate it from afar.
 - **[Pouncing Fury](pouncing-fury.md)**: Make a full attack with your claws after a charge.
 - **[Quick Change](quick-change.md)**: Use change shape as a swift action and surprise foes.
+- **[Raven's Flight](ravens-flight.md)**: Become a Tiny raven shape with fly speed 50 ft. for one turn.
 - **[Reinforce Armaments, Communal](reinforce-armaments-communal.md)**: As reinforce armaments, but you may divide the duration among objects touched.
 - **[Reloading Hands](reloading-hands.md)**: Loads a single shot into your weapon every round.
 - **[Returning Weapon, Communal](returning-weapon-communal.md)**: As returning weapon, but you may divide the duration among weapons touched.

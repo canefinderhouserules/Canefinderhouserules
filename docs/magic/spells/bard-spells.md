@@ -402,6 +402,7 @@
 - **[Prosperous Room](prosperous-room.md)**: Room produces extra capital.
 - **[Raging Rubble](raging-rubble.md)**: You animate an area of rubble, gravel, or other small stones, creating a dangerous, rolling area of debris.
 - **[Rags to Riches](rags-to-riches.md)**: Objects function as masterwork with extra bonuses.
+- **[Raven's Flight](ravens-flight.md)**: Become a Tiny raven shape with fly speed 50 ft. for one turn.
 - **[Remove Curse](remove-curse.md)**: Frees object or person from curse.
 - **[Repugnant Taste](repugnant-taste.md)**: Creatures that bite or swallow the target become nauseated.
 - **[Returning Weapon, Communal](returning-weapon-communal.md)**: As returning weapon, but you may divide the duration among weapons touched.

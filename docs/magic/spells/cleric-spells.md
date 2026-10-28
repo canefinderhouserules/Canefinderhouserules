@@ -482,6 +482,7 @@
 - **[Gift of the Deep](gift-of-the-deep.md)**: Grant sahuagin mutant features
 - **[Gilded Whispers](gilded-whispers.md)**: Use a coin as a scrying target.
 - **[Glimpse of Truth](glimpse-of-truth.md)**: Gain *true seeing* for 1 round.
+- **[Globe of Tranquil Water](globe-of-tranquil-water.md)**: A calm bubble of water blocks precipitation and water attacks.
 - **[Hallucinogenic Smoke](hallucinogenic-smoke.md)**: Exhale nauseating smoke; boost augury.
 - **[Harvest Knowledge](harvest-knowledge.md)**: Absorb a creature's knowledge
 - **[Healing Flames](healing-flames.md)**: Holy flames heal good creatures and burn evil ones.
@@ -687,6 +688,7 @@
 - **[Metabolic Molting](metabolic-molting.md)**: seven days of encased healing, even bringing back the recently dead
 - **[Music of the Spheres](music-of-the-spheres.md)**: Fast healing, resistance, and save bonuses for all in the area.
 - **[Neutralize Poison, Greater](neutralize-poison-greater.md)**: As neutralize poison, but it also reverses poison damage.
+- **[Oasis](oasis.md)**: Creates a permanent spring.
 - **[Overwhelming Poison](overwhelming-poison.md)**: Make a poison more difficult to resist.
 - **[Owl’s Wisdom, Mass](owls-wisdom-mass.md)**: As *owl’s wisdom*, affects 1 subject/level.
 - **[Plague Bearer](plague-bearer.md)**: Target spreads contagion to adjacent creatures.
@@ -743,6 +745,7 @@
 - **[Magnetic Field](magnetic-field.md)**: Pulls metal objects and metal-clad creatures toward you.
 - **[Memory of Function](memory-of-function.md)**: Restore broken objects and timeworn tech.
 - **[Particulate Form](particulate-form.md)**: Targets gain fast healing and immunity to critical hits.
+- **[Planar Refuge](planar-refuge.md)**: A pocket of Material Plane wilderness on another plane.
 - **[Plundered Power](plundered-power.md)**: Kill a creature and steal its strongest spell-like ability.
 - **[Poison Breath](poison-breath.md)**: Cone of toxic mist, as poison.
 - **[Pox of Rumors](pox-of-rumors.md)**: Curse a creature to attract nasty rumors.

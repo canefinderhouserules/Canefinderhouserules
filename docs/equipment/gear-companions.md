@@ -2538,3 +2538,61 @@ A head-sized lump of tar is wrapped around a rope and set on fire. You use the r
 **Price** 1 cp–20 gp; **Weight** —
 
 The cost of a tattoo depends on its quality, size, and number of colors. A coin-sized tattoo in blue ink that will blur over a decade may cost 1 cp, a hand-sized one in black ink that will not fade costs 1 sp, and a tattoo covering an entire back takes several sessions and costs 10 gp. Each additional color costs as much as a single tattoo of its size.
+
+## Survival Equipment
+
+### Blain Bane
+
+**Price** 10 gp; **Weight** —; **Craft** DC 19 (alchemy)
+
+This alchemically infused wax is spread over exposed skin to protect it from chapping, cold, dry winds, heat, and the loss of moisture. Applying it takes 5 minutes; once applied, it reduces any nonlethal damage taken from cold or hot environments by 1 point for 6 hours.
+
+### Duskeye
+
+**Price** 50 gp; **Weight** —; **Craft** DC 16 (alchemy)
+
+This liquid makes the eyes more receptive to light for 4 hours. The user gains low-light vision, but also suffers from light sensitivity for the duration.
+
+### Forecast Station
+
+**Price** 150 gp; **Weight** 2 lbs.
+
+This wooden box contains a simple anemometer and three tubes filled with alchemical fluids that expand and contract with changes in air temperature, humidity, and pressure. A forecast station grants a +5 bonus on Survival checks to predict weather.
+
+### Scent Blocker
+
+**Price** 80 gp; **Weight** 1/2 lb.; **Craft** DC 23 (alchemy)
+
+This alchemical oil takes 1 minute to apply and completely masks your odor for 6 hours. Creatures can't use the scent ability to track you, detect your presence, or pinpoint your location. A single dose of scent blocker covers a Medium or smaller creature. For each size category larger than Medium a creature is, double the number of doses (and application time) required.
+
+### Track-Obscuring Soles
+
+**Price** 8 gp; **Weight** 1/2 lb.
+
+These boot attachments consist of wide wooden frames, leather straps, and thin leather soles with no distinguishing marks or texture. They distribute your weight over a larger area and obscure the shape of your footprints. The DC to track you increases by 2, but you also take a –2 penalty on Acrobatics and Stealth checks.
+
+## Wilderness Kits
+
+### Arctic Kit
+
+**Price** 27 gp; **Weight** 30 lbs.
+
+Designed for use in cold climates, where the weather can be deadly and the terrain treacherous. It includes 10 candles, a candle lamp, cleats, a cold-weather outfit, a handaxe, a shovel, a signal whistle, a small iron pot, snowshoes, and five tindertwigs, all wrapped in a winter blanket. The listed price of each wilderness kit includes a small discount for purchasing the items as a group; items in a kit that are destroyed, lost, or used up cost the full price to replace. Kits complement the basic survival tools: a compass, healer's kit, maps, and survival kit.
+
+### Desert Kit
+
+**Price** 30 gp; **Weight** 20 lbs.
+
+Contains tools necessary for staying cool and hydrated in hot, dry terrain. It includes a 10-foot-by-10-foot piece of canvas, 3 doses of blain bane, a hot weather outfit, a signal whistle, a scarf, and four waterskins.
+
+### Forest Kit
+
+**Price** 25 gp; **Weight** 29 lbs.
+
+Contains tools useful for building shelters and finding food in a forest. It includes a bear trap, camouflage netting, five fishhooks, a handaxe, 50 feet of hemp rope, and 100 feet of twine.
+
+### Tropical Kit
+
+**Price** 120 gp; **Weight** 6 lbs.
+
+Intended for hot and moist environments such as jungles and warm marshes. It includes 1 dose each of antiplague and antitoxin, five fishhooks, a hammock, a kukri, 1 dose of vermin repellent, and a water purification sponge.

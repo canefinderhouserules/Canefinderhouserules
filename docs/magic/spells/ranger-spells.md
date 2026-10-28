@@ -21,6 +21,7 @@
 - **[Carrion Compass](carrion-compass.md)**: Organ leads you to an undead creature's controller
 - **[Chameleon Scales](chameleon-scales.md)**: Change the color of your skin or scales.
 - **[Charm Animal](charm-animal.md)**: Makes one animal your friend.
+- **[Cheetah's Sprint](cheetahs-sprint.md)**: Run at ten times your speed for one turn.
 - **[Commune with Birds](commune-with-birds.md)**: You utter a question in the form of a low-pitched bird call that can be heard up to a mile away, and can.
 - **[Compel Hostility](compel-hostility.md)**: Compels opponents to attack you instead of your allies.
 - **[Deadeye’s Lore](deadeyes-lore.md)**: Gain a +4 bonus on Survival and move full speed while tracking.
@@ -98,6 +99,7 @@
 - **[Brow Gasher](brow-gasher.md)**: Slashing weapon deals bleed damage to an opponent’s head.
 - **[Carry Companion](carry-companion.md)**: Turns a willing animal into a stone figurine.
 - **[Cat’s Grace](cats-grace.md)**: Subject gains +4 to Dex for 1 min./level.
+- **[Clear Grove](clear-grove.md)**: Vegetation withdraws from a 20-ft.-radius clearing.
 - **[Cure Light Wounds](cure-light-wounds.md)**: Cures 1d8 damage + 1/level (max +5).
 - **[Delay Disease](delay-disease.md)**: The target becomes temporarily immune to disease.
 - **[Detoxify](detoxify.md)**: Neutralize a creature’s poison attacks.
@@ -132,6 +134,7 @@
 - **[Protection from Energy](protection-from-energy.md)**: Absorbs 12 points/level of damage from one kind of energy.
 - **[Protection from Natural Attacks](protection-from-natural-attacks.md)**: Target gains DR 5/— against one type of natural attack.
 - **[Quick Change](quick-change.md)**: Use change shape as a swift action and surprise foes.
+- **[Raven's Flight](ravens-flight.md)**: Become a Tiny raven shape with fly speed 50 ft. for one turn.
 - **[Reloading Hands](reloading-hands.md)**: Loads a single shot into your weapon every round.
 - **[Replay Tracks](replay-tracks.md)**: Reconstruct past events from a set of tracks.
 - **[Restful Cloak](restful-cloak.md)**: Turn your cloak into a healing tent.
@@ -159,6 +162,7 @@
 - **[Vine Strike](vine-strike.md)**: Enhance one of your natural or unarmed attacks with thorny vine growth.
 - **[Visualization of the Body](visualization-of-the-body.md)**: Meditative spell: bonus to one physical ability's skills, plus a one-time boost.
 - **[Water Walk, Communal](water-walk-communal.md)**: As water walk, but you may divide the duration among creatures touched.
+- **[Wild Instinct](wild-instinct.md)**: +5 on Perception in surprise rounds; no sleeping penalty.
 - **[Wilderness Soldiers](wilderness-soldiers.md)**: Nearby plants aid you in combat.
 - **[Wind Wall](wind-wall.md)**: Deflects arrows, smaller creatures, and gases.
 - **[With the Wind](with-the-wind.md)**: Protect a target from being blown away by wind of less than windstorm force.

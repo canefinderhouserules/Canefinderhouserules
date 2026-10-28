@@ -34,6 +34,15 @@ This spiritual focal point has the iconography and materials required for a cere
 
 An Animal Pen houses animals that need more attention than horses and cattle. It could be used to house animals for food (like chickens or pigs), display (like song birds or reptiles), or protection (like dogs or large cats). One animal pen can support 1 Large, 2 Medium, 4 Small, or 8 Tiny or smaller creatures, providing them with water and shelter. Food is not provided.
 
+### Archery Range
+
+**Earnings**: gp or Influence +8  
+**Benefit**: decreased chance of fired arrows being destroyed or lost  
+**Create**: 12 Goods, 12 Labor (480 gp); **Time**: 25 days  
+**Size**: 20–50 squares
+
+An Archery Range is an open area where one can train with ranged weapons. One end of the range features targets and a soft wall (often several feet of stacked hay or loose earth) to absorb missed shots, while the other side has benches, tables, and firing stands to accommodate trainees. Because the targets and soft wall behind them are designed to absorb ranged attacks, arrows that strike either surface have only a 5% chance of being destroyed or lost.
+
 ### Armory
 
 **Benefit**: provides for 1 Bunks or Guard Post, hastens donning armor  
@@ -115,6 +124,15 @@ A Bedroom provides comfort and privacy for one to two people, and typically feat
 **Size**: 9–25 squares
 
 This two-story room contains one or more bells suitable for warnings or music, along with bell pulls for operating the instruments from below. The bells can be heard up to 1 mile away.
+
+### Blind
+
+**Earnings**: gp or Influence +2  
+**Benefit**: Perception check required to see through  
+**Create**: 3 Goods, 2 Influence, 3 Labor (180 gp); **Time**: 10 days  
+**Size**: 10–30 squares
+
+A Blind is a semisolid wall constructed out of area-appropriate debris and flora. Between 10 and 15 feet high, a Blind helps to conceal any structures behind it as it blends in with the nearby landscape. Structures behind a Blind can be seen only with a successful DC 15 Perception check, and targets of ranged attacks made through a blind gain concealment. One Blind can cover 20 squares’ worth of structures; multiple Blinds can be used to conceal larger structures. A Blind can be thickened for double the construction cost, increasing the DC of the Perception check to see through the Blind to 20 and granting total concealment to creatures hiding behind it.
 
 ### Blood Spa
 
@@ -352,6 +370,14 @@ This is an area with murder holes or similar defenses that give defenders an adv
 
 This garden is protected by glass and has its interior climate deliberately regulated. Delicate or exotic plants raised in this area grow larger and healthier than in a normal garden. Certain types of rare plants can be raised only in a Greenhouse.
 
+### Grotto
+
+**Earnings**: gp or Influence +4  
+**Create**: 15 Goods, 10 Labor (500 gp); **Time**: 30 days  
+**Size**: 5–10 squares
+
+A Grotto is a naturally or artificially shaped cave in which people can live. Compared to a standard cave, a Grotto will usually boast features that make habitation more pleasant, such as door-sized openings, access to neighboring caves or water, and adequate ventilation.
+
 ### Guard Post
 
 **Earnings**: gp or Goods +4  
@@ -458,6 +484,16 @@ A Magical Repository is similar to a Book Repository, but specific to the study 
 
 A Mill Room contains a mechanism to process grain, foodstuffs, and other raw materials. Most simple mills are powered by hand, but those powered by horses or other beasts of burden require a stable, those powered by water require running water for the water wheel, and those powered by wind require a tower.
 
+### Mystic Greenhouse
+
+**Earnings**: gp, Goods, Influence, or Magic +4  
+**Benefit**: bonus on Charisma-based checks attempted against creatures inside  
+**Create**: 8 Goods, 3 Influence, 7 Labor, 5 Magic (890 gp); **Time**: 20 days  
+**Size**: 10–20 squares  
+**Upgrades From**: Greenhouse
+
+A Mystic Greenhouse has been specially modified to accommodate both the mundane and magical needs of supernatural plants and creatures of the plant type, making them easier to work with. In addition to the glass walls of a traditional Greenhouse, this chamber is set with devices that focus ambient magical energy to the benefit of those creatures growing inside, such as rune-inscribed plates or mirrors arranged to reflect and funnel magical energy. After a full day of exposure to the Mystic Greenhouse’s beneficial effects, creatures within become relaxed and compliant. Other creatures gain a +2 bonus on Charisma checks and Charisma-based skill checks against creatures that have spent the past 24 hours in a Mystic Greenhouse.
+
 ### Nursery
 
 **Earnings**: gp or Influence +6  
@@ -503,6 +539,14 @@ This specialized workshop contains a printing press, storage for paper, and dryi
 
 Up to three people can use the room at a time.
 
+### Rangelands
+
+**Earnings**: gp or Goods +15  
+**Create**: 100 Goods (2,000 gp); **Time**: 365 days  
+**Size**: 300–500 squares
+
+Rangelands are vast, unfenced areas of natural terrain that can be used to run large herds of cattle such as aurochs, horses, and sheep. While Rangelands can produce a significant profit, they involve a major investment of time and effort to maintain long enough for the herd to produce new livestock, as well as for livestock born in previous years to grow enough to be butchered, sheared, or otherwise harvested. Rangelands are different from pastures or farmlands in that they contain only native, local plant life, rather than crops placed to make them more effective grazing lands. Small communities often depend on Rangelands as their primary sources of income, and it is not uncommon for tribes to go to war over control of local Rangelands.
+
 ### Reliquary
 
 **Earnings**: gp or Influence +5  
@@ -512,6 +556,14 @@ Up to three people can use the room at a time.
 **Upgrades To**: Vault
 
 A Reliquary is built to securely store religious artifacts, and dedicated to a specific deity or philosophy. It contains shelves to house the items, special display cases to protect them, and sometimes chairs and tables to allow study. It’s secured by a strong wooden door or grating with a good lock. Unlike a Vault, a Reliquary is intended to allow people to observe its contents. When stocked with relics appropriate to the chosen deity or philosophy, the room grants a +1 bonus on Knowledge (religion) checks relating to the history, powers, and purpose of those relics.
+
+### Reservoir System
+
+**Earnings**: gp, Influence, or Labor +10  
+**Create**: 10 Goods, 10 Labor (400 gp); **Time**: 40 days  
+**Size**: 25–50 squares (though individual pools can be smaller)
+
+A Reservoir System is a series of interconnected pools or tanks meant to collect and hold water from rains, springs, and other natural sources to act as a resource for plumbing networks or a source of water during times of drought. The pools are sealed to minimize water loss from evaporation and absorption into the surrounding ground, so the Reservoir System can be relied on throughout an entire dry season.
 
 ### Sanctum
 
@@ -703,6 +755,14 @@ This is a secure room designed to keep out intruders. The access to this space i
 
 This is a room for planning military maneuvers, plotting grand heists, or providing briefings. It contains a large central table with plenty of chairs, maps, and figures to simulate troops and structures. When it’s used for planning a battle, your army gains a +2 bonus on attack rolls and morale checks for their next battle within 24 hours. To grant the army this bonus, the army’s commander must be present at the planning meeting for the battle or you must have some way of communicating these instructions to the commander. When used to scheme for an upcoming adventure, a War Room allows you to use the scheme’s planning bonus on two skill checks instead of one.
 
+### Watering Hole
+
+**Earnings**: gp, Goods, or Influence +8  
+**Create**: 10 Goods, 3 Influence, 5 Labor (200 gp); **Time**: 25 days  
+**Size**: 30–50 squares
+
+A Watering Hole provides bathing and drinking water for animals and traveling caravans. In addition to the pool of water itself, the Watering Hole also provides open space around it where animals can gather and rest. The pool can be a modified natural pond or spring, or it may be an artificially constructed pool that maximizes shore space around which animals can gather. Watering Holes often attract predators, which must be driven off or killed.
+
 ### Workstation
 
 **Earnings**: gp, Goods, or Influence +8  
@@ -717,6 +777,23 @@ This includes a table, chair, and appropriate masterwork artisan’s tools for o
 Augmentations modify a room to be more productive, durable, or useful. Augmentations are permanent and can’t be removed. If you upgrade a room you have augmented, the augmentation carries over to the upgrade, but the augmentation’s cost isn’t considered when you look at the difference between the base and upgrade room.
 
 You can put more than one augmentation in a room, as long as they aren’t the same augmentation.
+
+### Arboreal (augmentation)
+
+**Earnings**: Influence +2  
+**Benefit**: room is raised above ground  
+**Create**: 6 Goods, 2 Influence, 6 Labor (300 gp); **Time**: 15 days  
+**Size**: as original room +9 spaces
+
+This augmentation integrates a room into a large, sturdy tree or trees, raising the structure off the ground by one or two stories and wrapping the habitable space in or around the tree trunks. Usually, a room with this augmentation will have branches weaving through the room as the tree grows.
+
+### Attuned (augmentation)
+
+**Benefit**: allows the room to be affected by certain nature-related spells  
+**Create**: 5 Goods, 5 Labor, 3 Magic (500 gp); **Time**: 20 days  
+**Size**: as original room
+
+This augmentation integrates a room into the surrounding natural environment, putting the space into symbiosis with the local ecosystems. An Attuned room in a forest can be built amid great trees that act as some of the primary walls, while an Attuned room in a desert might be built to help foster the growth of desert plants. Once this augmentation is completed, the room is considered to be representative of the local flora for purposes of spells such as *entangle* or *spike growth*.
 
 ### Fortification (augmentation)
 

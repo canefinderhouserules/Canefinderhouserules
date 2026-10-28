@@ -38,6 +38,8 @@ Only dwarfs may select one of these traits.
 
 **Insular**: You hail from one of the remote dwarven holds of the North, and have learned that the people of these harsh lands are as fickle as the weather. Experience has taught you that outsiders are not to be trusted. You gain a +2 trait bonus on Sense Motive checks, and Sense Motive is always a class skill for you, but you take a –1 penalty on Diplomacy checks with non-dwarves.
 
+**Fungal Brewing**: You gain a +2 trait bonus on Craft checks to create alchemical items, and can create nonmagical alchemical materials in 20% less time than normal.
+
 ## Elf Traits
 
 Only elfs may select one of these traits.
@@ -61,6 +63,8 @@ Only elfs may select one of these traits.
 **Obscure Traditions** *(arctic elves)*: You confound those who think they know about elves. Any creature attempting to make a Knowledge check about your people, a Sense Motive check to determine whether you are lying, or a Survival check to track you takes a –2 penalty on the check. Additionally, any character or creature that normally gains a bonus on attack or damage rolls against elves (such as a ranger's favored enemy ability) has such a bonus reduced by 1 (minimum 0).
 
 **Snowblooded** *(arctic elves)*: Your family has a long tradition of producing excellent sentries and envoys. You gain a +4 trait bonus on Fortitude saving throws made to avoid nonlethal damage from cold environments, and gain a +1 trait bonus on saving throws against spells with the cold descriptor.
+
+**Wild Stride**: Choose a favored terrain from those listed in the ranger favored terrain class ability. You can move through naturally occurring difficult terrain without any penalty while within your favored terrain. Terrain created or modified by magic or traps affects you normally.
 
 ## Gnome Traits
 
@@ -101,6 +105,8 @@ Only gnomes may select one of these traits.
 **Vermin Wrangler**: In gathering ingredients necessary for mind-altering drugs and other concoctions, you have become intimately familiar with the desert's many-legged pests. You gain a +2 trait bonus on Knowledge (dungeoneering) checks to identify vermin and on saving throws against vermin's extraordinary abilities.
 
 **Snowstepper**: As a native of the North, you have acquired the ability to tread lightly on snow. You ignore difficult terrain caused by snow, and it costs you only 2 squares of movement to enter a square covered in heavy snow, rather than 4 squares of movement. This benefit only applies when you are not carrying a medium or heavier load.
+
+**Forest Senses**: When in any unsettled, uncivilized terrain, you gain a +2 trait bonus on Perception checks to act during a surprise round, and take no penalty on Perception checks while sleeping.
 
 ## Goblin Traits
 
@@ -162,6 +168,8 @@ Only half-elfs may select one of these traits.
 
 **Child of Two Peoples** *(also half-orcs and humans)*: Your parents come from two visibly different cultures that maintain distinct identities regardless of their physical proximity. The tug of conflicting expectations has strengthened your sense of individuality and given you a gift for languages. You receive a +2 trait bonus on Will saves against charm and compulsion effects, and you automatically know the racial or ethnic languages of both your parents.
 
+**Wild Domesticator**: Handle Animal is always a class skill for you. You gain a +2 trait bonus on Handle Animal checks to train an animal, and can teach a trained animal one additional trick beyond its normal maximum.
+
 ## Half-Orc Traits
 
 Only half-orcs may select one of these traits.
@@ -182,6 +190,8 @@ Only half-orcs may select one of these traits.
 
 **Irritable Diplomat**: Most people expect half-orcs to be savage and violent, and you're used to working a little harder to overcome their assumptions. Unfortunately, you're still working on keeping patient when they ignore your efforts. Once per day, you may choose to gain a +5 trait bonus on any Diplomacy check, but if it fails, you take a –2 penalty on all Charisma-based checks for the next 10 minutes.
 
+**Wild Ferocity**: Select one terrain type from the ranger's favored terrain list. While in this terrain type, taking a standard action while disabled does not cause you to take the normal 1 point of damage. You can use this trait when acting as if disabled despite having a negative hit point total as a result of orc ferocity or the Diehard feat.
+
 ## Halfling Traits
 
 Only halflings may select one of these traits.
@@ -201,6 +211,8 @@ Only halflings may select one of these traits.
 **Perfect Servant**: Your training as a maid or valet has left you with unconscious mannerisms that seem to put members of the upper class at ease. You gain a +3 trait bonus on Diplomacy checks made to influence anyone with at least one level of Aristocrat.
 
 **Slave Smuggler**: You know how to get contraband across borders. When hiding a Medium or smaller creature from an opponent actively searching you or your cargo, both you and the creature to be smuggled can attempt Stealth checks and select the higher of the two results for your smuggled ally to use while hiding.
+
+**Wild Shadow**: Select one terrain type from the ranger's favored terrain list. You can attempt Stealth checks in this terrain in normal light without having cover or being invisible. You still can't attempt Stealth checks in areas of bright light without invisibility or cover.
 
 ## Human Traits
 
@@ -285,6 +297,8 @@ Only humans may select one of these traits.
 **Witch-Court Scion** *(winter-realm aristocrats)*: You come from a family that commands respect. You gain a +1 trait bonus on Intimidate checks, and Intimidate is always a class skill for you. In addition, you gain a +1 trait bonus on Knowledge (nobility) checks related to the aristocracy of your winter-witch realm.
 
 **Landspeaker** *(arctic hunter-herders)*: You are deeply attuned to the lands your people call home and the spirits that live there. You gain a +1 trait bonus on Survival checks in arctic or cold terrain. In addition, while in such terrain, you may query the spirits of the land once per day to gain a +5 trait bonus on a single skill check to follow tracks, forage, or find shelter.
+
+**Survivalist**: You gain a +1 trait bonus on saving throws against natural environmental hazards.
 
 ## Catfolk Traits
 

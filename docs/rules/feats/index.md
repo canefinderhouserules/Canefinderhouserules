@@ -1614,6 +1614,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Born of Frost](born-of-frost.md) | — | Frost giant |
 | [Bouncing Trick](bouncing-trick.md) | Trick | Mesmerist trick class feature |
 | [Bounding Hammer](bounding-hammer.md) | Combat | Proficiency with hammer, base attack bonus +6 |
+| [Bounding Step](bounding-step.md) | — | Dex 15, Nimble Moves |
 | [Bravery in Action](bravery-in-action.md) | — | Bravery class feature, worshiper of a deity of freedom and courage |
 | [Breaker of Barriers](breaker-of-barriers.md) | Combat | Str 17, worshiper of a deity of destruction |
 | [Bred Commander](bred-commander.md) | — | Hobgoblin |
@@ -1666,6 +1667,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Channeling Variance](channeling-variance.md) | — | Domain class feature, channel energy class feature, must worship and receive spells from a deity |
 | [Chaos Reigns](chaos-reigns.md) | Conduit | Knowledge (planes) 3 ranks |
 | [Charge of the Righteous](charge-of-the-righteous.md) | Combat | Base attack bonus +1, any good alignment |
+| [Charging Stag Style](charging-stag-style.md) | Combat, Style | Dex 13, Dodge, Improved Unarmed Strike, Mobility |
 | [Child of Two Fates](child-of-two-fates.md) | — | Knowledge (local) 5 ranks, half-elf |
 | [Chilled Rock](chilled-rock.md) | — | [Born of Frost](born-of-frost.md), frost giant |
 | [Chilling Amplification](chilling-amplification.md) | — | — |
@@ -1820,6 +1822,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Diva Advance](diva-advance.md) | Combat | Cha 17, Combat Expertise, Diva Strike, Diva Style, Improved Feint, base attack bonus +11 or bard level 11th |
 | [Diva Strike](diva-strike.md) | Combat | Cha 15, Combat Expertise, Diva Style, Improved Feint, base attack bonus +7 or bard level 7th |
 | [Diva Style](diva-style.md) | Combat, Style | Cha 13, base attack bonus +1 or bard level 1st |
+| [Diversion Shot](diversion-shot.md) | Combat, Teamwork | Stealthy, Target of Opportunity |
 | [Divert Harm](divert-harm.md) | Combat | Int 13, Combat Expertise, base attack bonus +6, evasion class feature |
 | [Divination Guide](divination-guide.md) | — | Caster level 3rd, ability to cast *augury* or *divination*, must worship a deity |
 | [Divine Barrier](divine-barrier.md) | — | Channel energy class feature, worshiper of a deity of dragons |
@@ -1860,6 +1863,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Effortless Trickery](effortless-trickery.md) | General | Gnome |
 | [Eldritch Aid](eldritch-aid.md) | — | Caster level 1st |
 | [Eldritch Assault](eldritch-assault.md) | — | Blind-Fight, Improved Initiative |
+| [Electric Discharge](electric-discharge.md) | Teamwork | Arcane Strike, ability to cast a 1st-level or higher spell with the electricity descriptor |
 | [Electric Eel Conduit](electric-eel-conduit.md) | Combat, Style | Wis 17, Electric Eel Shock, Electric Eel Style, Elemental Fist, Improved Unarmed Strike, base attack bonus +13 or monk level 9th |
 | [Electric Eel Shock](electric-eel-shock.md) | Combat, Style | Wis 15, Electric Eel Style, Elemental Fist, Improved Unarmed Strike, base attack bonus +11 or monk level 7th |
 | [Electric Eel Style](electric-eel-style.md) | Combat, Style | Wis 13, Elemental Fist, Improved Unarmed Strike, base attack bonus +9 or monk level 5th |
@@ -1990,6 +1994,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Force Shield Mastery](force-shield-mastery.md) | Item Mastery | Use Magic Device 3 ranks, base Fortitude saving throw bonus +3 |
 | [Forceful Channel](forceful-channel.md) | — | Channel negative energy 7d6, worshiper of a deity of magic |
 | [Forceful Charge](forceful-charge.md) | Animal Companion | Improved Bull Rush, Power Attack, animal companion |
+| [Forest Ambush](forest-ambush.md) | Combat | Stealth 1 rank, Survival 1 rank |
 | [Fortuitous Vigor](fortuitous-vigor.md) | Combat | Con 13, Combat Vigor, character level 4th |
 | [Fortunate Manager](fortunate-manager.md) | — | Own at least one building |
 | [Fortunate Ruler](fortunate-ruler.md) | — | Hold the Ruler leadership role for a kingdom |
@@ -2032,6 +2037,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Greater School Familiar](greater-school-familiar.md) | — | School Familiar, wizard level 10th, specialized arcane school class feature |
 | [Greater Stylized Spell](greater-stylized-spell.md) | Metamagic | Stylized Spell, Bluff 10 ranks, Spellcraft 10 ranks |
 | [Greater Subjective Slam](greater-subjective-slam.md) | Combat | Con 15, Wis 15, [Subjective Mobility](subjective-mobility.md), [Subjective Slam](subjective-slam.md), base attack bonus +8 or monk level 7th |
+| [Greater Uncivilized Tactics](greater-uncivilized-tactics.md) | Combat | Str 13, Improved Uncivilized Tactics, Power Attack, Uncivilized Tactics |
 | [Grisly Ornament](grisly-ornament.md) | — | Harvest Parts |
 | [Ground-Grabber](ground-grabber.md) | Combat | Con 13 |
 | [Group Deliver Touch Spells](group-deliver-touch-spells.md) | Teamwork | Group Shared Spells, must have a familiar with the share spells and deliver touch spells abilities |
@@ -2060,6 +2066,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Hellish Shackles](hellish-shackles.md) | — | Channel energy 5d6, worshiper of an archdevil or infernal noble |
 | [Helpless Prisoner](helpless-prisoner.md) | General | Bluff 5 ranks, Escape Artist 1 rank, gnome |
 | [Hemorrhaging Venom](hemorrhaging-venom.md) | Combat | Spit Venom, Virulent Venom, base attack bonus +7, nagaji |
+| [Herbal Components](herbal-components.md) | — | Eschew Materials |
 | [Heroic Interposition](heroic-interposition.md) | Combat | Dex 13, Dodge, Improved Initiative, Mobility, worshiper of a good demigod or angelic lord |
 | [Heroic Leader](heroic-leader.md) | Combat | Cha 13, any combat feat, ability to gain an animal companion, cohort, eidolon, familiar, or mount |
 | [Heroic Legacy](heroic-legacy.md) | — | Base attack bonus +5, good alignment |
@@ -2118,6 +2125,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Improved Shield Focus](improved-shield-focus.md) | Combat | Shield Focus, base attack bonus +6 |
 | [Improved Swarm Form](improved-swarm-form.md) | — | Vampire |
 | [Improved Toxicological Timing](improved-toxicological-timing.md) | — | Craft (alchemy) 11 ranks, Toxicological Timing |
+| [Improved Uncivilized Tactics](improved-uncivilized-tactics.md) | Combat | Str 13, Power Attack, Uncivilized Tactics |
 | [Improvisational Healer](improvisational-healer.md) | — | Heal 1 rank |
 | [Incite Paranoia](incite-paranoia.md) | Combat | Int 13, Combat Expertise, Deceitful, Greater Feint, Improved Feint, base attack bonus +6 |
 | [Incredible Healer](incredible-healer.md) | — | Heal 5 ranks |
@@ -2267,6 +2275,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Musketeer's Sidestep](musketeers-sidestep.md) | Combat, Panache | Dodging panache deed, swashbuckler level 3rd |
 | [Mutual Hatred](mutual-hatred.md) | Combat | — |
 | [My Blade Is Yours](my-blade-is-yours.md) | Combat, Teamwork | Int 13, Combat Expertise, Sense Motive 3 ranks |
+| [Mystical Reverberation](mystical-reverberation.md) | Teamwork | Ability to spontaneously cast spells |
 | [Named Bullet](named-bullet.md) | Grit | Amateur Gunslinger feat or grit class feature, Gunsmithing, base attack bonus +5 |
 | [Nameless One](nameless-one.md) | — | — |
 | [Nanite Disruption](nanite-disruption.md) | Android | Nanite surge racial trait |
@@ -2579,6 +2588,8 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Squire](squire.md) | — | Character level 4th, proficient with all martial weapons |
 | [Squirming Pile](squirming-pile.md) | Combat, Teamwork | Acrobatics 5 ranks, swarming racial trait |
 | [Stable Gallop](stable-gallop.md) | — | Animal or magical beast |
+| [Stag Horns](stag-horns.md) | Combat, Style | Dex 13, Charging Stag Style, Dodge, Improved Unarmed Strike, Mobility |
+| [Stag Submission](stag-submission.md) | Combat, Style | Charging Stag Style, Dodge, Improved Unarmed Strike, Mobility, Stag Horns |
 | [Staggering Blow](staggering-blow.md) | Combat | Str 13, Power Attack, Vital Strike, base attack bonus +8 |
 | [Stance of the Xorn](stance-of-the-xorn.md) | Combat | Wis 15, base attack bonus +3 |
 | [Star-Chart Initiate](star-chart-initiate.md) | — | Knowledge (arcana) 1 rank, Knowledge (nature) 1 rank, Knowledge (planes) 1 rank |
@@ -2628,6 +2639,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Subtle Poisoner](subtle-poisoner.md) | — | Sleight of Hand 5 ranks |
 | [Summon Evil Monster](summon-evil-monster.md) | — | Evil alignment |
 | [Summon Good Monster](summon-good-monster.md) | — | Good alignment |
+| [Summon Plant Ally](summon-plant-ally.md) | — | Knowledge (nature) 1 rank, ability to cast *summon nature's ally* spells |
 | [Sun Striker](sun-striker.md) | Combat, Critical | Critical Focus, Weapon Focus (deity’s favored weapon), character level 7th, worshiper of a deity of the sun |
 | [Sunblade](sunblade.md) | — | Word of Healing, paladin level 5th, worshiper of a deity that grants the Fire or Sun domain |
 | [Sunder Blessing](sunder-blessing.md) | Combat | Disruptive, fighter level 8th. |
@@ -2637,6 +2649,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Superior Scryer](superior-scryer.md) | — | Spell Focus (divination), the ability to cast at least one spell of the scrying subschool |
 | [Supernal Feast](supernal-feast.md) | — | Con 15, aasimar |
 | [Supernatural Spy](supernatural-spy.md) | Story | See text |
+| [Supernatural Tracker](supernatural-tracker.md) | — | Survival 1 rank, ability to cast a *detect* spell |
 | [Suppress Regeneration](suppress-regeneration.md) | Combat, Teamwork | — |
 | [Suppressive Fire](suppressive-fire.md) | Combat, Teamwork | Far Shot, Point-Blank Shot, Precise Shot, keen senses racial trait |
 | [Sure on Ice](sure-on-ice.md) | — | Frost giant |
@@ -2728,6 +2741,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Unbound Bravery](unbound-bravery.md) | — | Bravery class feature, worshiper of a deity of freedom and courage |
 | [Unbreakable](unbreakable.md) | Combat | Con 13, Endurance, Toughness, fighter level 4th |
 | [Uncertainty](uncertainty.md) | Blood Hex | Int 13; Bluff, Diplomacy, and Intimidate 5 ranks |
+| [Uncivilized Tactics](uncivilized-tactics.md) | Combat | Str 13, Power Attack |
 | [Unconquerable Resolve](unconquerable-resolve.md) | Combat | Resolve class feature, samurai level 1st |
 | [Undaunted Bravery](undaunted-bravery.md) | — | Bravery class feature, worshiper of a deity of freedom and courage |
 | [Undermine](undermine.md) | Teamwork | — |

@@ -34,6 +34,13 @@ The laboratory and home for a creator of potions, poisons, and alchemical items.
 
 A large public structure for competitions, demonstrations, team sports, or bloodsports.
 
+### Bandit Camp, Large
+
+**Create**: 99 Goods, 19 Influence, 96 Labor, 1 Magic (4,270 gp)  
+**Rooms**: 1 Animal Pen, 1 Archery Range, 1 Armory, 6 Blinds, 1 Cell, 1 Courtyard, 1 Forge, 1 Garden, 1 Grotto, 1 Infirmary, 1 Kitchen, 1 Lavatory, 1 Pit, 1 Stall, 1 Storage
+
+This semipermanent camp includes a few simple wooden structures hidden from the view of prying eyes by Blinds, allowing dozens of bandits to operate in the wilderness year-round with relative security.
+
 ### Bank
 
 **Create**: 39 Goods, 3 Influence, 35 Labor (1,570 gp)  
@@ -110,6 +117,13 @@ A building where cases are heard and disputes resolved according to the rule of 
 **Rooms**: 1 Ballroom, 1 Bar, 1 Common Room, 1 Lavatory, 1 Office, 1 Sitting Room, 1 Storage
 
 An establishment for dancing, drinking, and consorting with attractive people. It is often a place where members of different social classes can intermingle discreetly, sometimes using masks or other disguises.
+
+### Druid’s Grove
+
+**Create**: 109 Goods, 19 Influence, 100 Labor, 10 Magic (5,750 gp)  
+**Rooms**: 1 Altar, 2 Arboreal (Altar and Sanctum), 1 Attuned (Courtyard), 1 Courtyard, 2 Defensive Walls, 1 Garden, 1 Mystic Greenhouse, 1 Grotto, 2 Habitats, 1 Kitchen, 1 Lavatory, 1 Sanctum, 1 Sauna
+
+This is a refuge in the wild where spellcasters tied to nature can enjoy shelter and practice their crafts in outdoor surroundings. Most Druid’s Groves serve primarily as places of worship, but they can also act as military strongholds for druids operating in wildernesses with particularly dangerous fauna, or who find themselves at odds with local settlements and governments.
 
 ### Exotic Artisan
 
@@ -314,6 +328,13 @@ A grand edifice and grounds demonstrating wealth, power, and authority to the wo
 
 Warehouses and workshops for docking ships and handling cargo and passengers.
 
+### Redoubt
+
+**Create**: 107 Goods, 15 Influence, 98 Labor, 6 Magic (5,150 gp)  
+**Rooms**: 1 Armory, 1 Arboreal (Guard Post), 2 Attuned (2 Defensive Walls), 1 Bunks, 1 Cistern, 1 Common Room, 2 Defensive Walls, 1 Fortification (Guard Post), 1 Grotto, 1 Guard Post, 1 Kitchen, 1 Lavatory, 1 Office, 1 Storage, 1 War Room
+
+The reinforced, highly defensible structures built into the natural terrain known as Redoubts are often constructed to take advantage of locations such as cave entrances, mountain passes, or river fords. Communities may build Redoubts as defensive positions in times of war when their farms and towns can’t be defended effectively. Lords trying to tame and control newly claimed lands often make the construction of a Redoubt their first order of business as a temporary measure until a keep or larger fortification can be built.
+
 ### School
 
 **Create**: 58 Goods, 5 Influence, 53 Labor (2,370 gp)  
@@ -405,6 +426,13 @@ A public venue for holding town meetings, with storage for town records.
 
 A shop front for a tradesperson such as a baker or butcher.
 
+### Treehouse
+
+**Create**: 78 Goods, 12 Influence, 76 Labor (3,440 gp)  
+**Rooms**: 6 Arboreal (2 Bedrooms, 1 Kitchen, 1 Lavatory, 1 Sitting Room, 1 Storage), 2 Bedrooms, 1 Kitchen, 1 Lavatory, 1 Sitting Room, 2 Storages, 1 Pit
+
+Treehouse strongholds are particularly popular among small communities living in wildernesses so dangerous that sleeping on the ground is never safe. Such groups craft residences sized for one or two families into the boughs of neighboring trees, with bridges connecting the individual structures. Treehouses are also popular among scouts and ranger organizations who wish to maintain a permanent presence in the wild but do not wish to be easily found. The most well-established ranger strongholds combine thick walls with the advantage of high ground, adding six Fortification augmentations at an additional cost of 48 Goods and 42 Labor, or 1,800 gp.
+
 ### University
 
 **Create**: 94 Goods, 10 Influence, 88 Labor, 2 Magic (4,140 gp)  
@@ -425,3 +453,18 @@ A tall structure that serves as a guard post.
 **Rooms**: 2 Animal Pens, 4 Docks, 1 Office, 4 Storages, 1 Workstation
 
 A port for waterborne arrival and departure, with facilities for shipping and shipbuilding.
+
+### Witch Hut
+
+**Create**: 111 Goods, 4 Influence, 105 Labor, 23 Magic (7,500 gp)  
+**Rooms**: 1 Alchemy Lab, 1 Altar, 1 Animal Pen, 1 Artisan’s Workshop, 10 Attuned (all), 1 Bedroom, 1 Book Repository, 1 Escape Route, 1 Greenhouse, 1 Laboratory, 1 Storage
+
+Be it a crazy old hermit, a hag, or just an herbalist who likes to live near the source of her craft, a spellcaster who prefers to dwell far from civilization calls this structure home.
+
+### Wood Shop
+
+**Create**: 31 Goods, 1 Influence, 28 Labor (1,210 gp)  
+**Rooms**: 1 Artisan’s Workshop, 1 Mill Room, 1 Office, 2 Storages, 1 Storefront
+
+A Wood Shop is a facility specially focused on the output of fine woodwork, from simple furniture to custom, masterwork engines of war.
+

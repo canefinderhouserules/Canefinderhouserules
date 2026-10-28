@@ -23,6 +23,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Burning Sands](burning-sands.md)**: Burning sand slows and damages creatures.
 - **[Carrion Compass](carrion-compass.md)**: Organ leads you to an undead creature's controller
 - **[Celestial Healing](celestial-healing.md)**: Target gains fast healing 1.
+- **[Cheetah's Sprint](cheetahs-sprint.md)**: Run at ten times your speed for one turn.
 - **[Cloak of Secrets](cloak-of-secrets.md)**: Bubble disguises speech and spell components.
 - **[Compel Hostility](compel-hostility.md)**: Compels opponents to attack you instead of your allies.
 - **[Coward's Cowl](cowards-cowl.md)**: Defensive bonuses while avoiding enemies.
@@ -229,6 +230,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Quaking Fury](quaking-fury.md)**: Minor earthquake trips creatures in a cone.
 - **[Qualm](qualm.md)**: Target gains penalties on ability checks, skill checks, and concentration checks until it spends an entire round doing nothing.
 - **[Quick Change](quick-change.md)**: Use change shape as a swift action and surprise foes.
+- **[Raven's Flight](ravens-flight.md)**: Become a Tiny raven shape with fly speed 50 ft. for one turn.
 - **[Recoil Fire](recoil-fire.md)**: Ammunition in the targeted firearm generates excessive recoil.
 - **[Reinforce Armaments, Communal](reinforce-armaments-communal.md)**: As reinforce armaments, but you may divide the duration among objects touched.
 - **[Returning Weapon](returning-weapon.md)**: Grants a weapon the returning special weapon quality.
@@ -301,6 +303,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Catatonia](catatonia.md)**: Make a willing target appear to be dead.
 - **[Channel the Gift](channel-the-gift.md)**: Your spell slot powers an ally’s spell.
 - **[Claim Identity](claim-identity.md)**: Steal a touched humanoid’s face and identity.
+- **[Clear Grove](clear-grove.md)**: Vegetation withdraws from a 20-ft.-radius clearing.
 - **[Conjure Carriage](conjure-carriage.md)**: Create a fine carriage.
 - **[Contact Entity II](contact-entity-ii.md)**: Ask more powerful eldritch entities to find and converse with you.
 - **[Countless Eyes](countless-eyes.md)**: Extra eyes give all-around vision.
@@ -469,6 +472,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Forgetful Slumber](forgetful-slumber.md)**: This spell acts as the deeper slumber spell, but only affects one creature of 10 Hit Dice or fewer.
 - **[Frigid Souls](frigid-souls.md)**: Haunt strips protection against cold.
 - **[Ghost Brand](ghost-brand.md)**: Allow an item to transform into a brand and back.
+- **[Globe of Tranquil Water](globe-of-tranquil-water.md)**: A calm bubble of water blocks precipitation and water attacks.
 - **[Greater Hypnotism](greater-hypnotism.md)**: hypnotize more creatures and make several requests
 - **[Hallucinogenic Smoke](hallucinogenic-smoke.md)**: Exhale nauseating smoke; boost augury.
 - **[Harvest Knowledge](harvest-knowledge.md)**: Absorb a creature's knowledge
@@ -704,6 +708,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Object Possession, Greater](object-possession-greater.md)**: As possess object, but the object is more powerful and you can possess a construct.
 - **[Particulate Form](particulate-form.md)**: Targets gain fast healing and immunity to critical hits.
 - **[Phasic Challenge](phasic-challenge.md)**: An enemy and an ally can affect only each other.
+- **[Planar Refuge](planar-refuge.md)**: A pocket of Material Plane wilderness on another plane.
 - **[Plundered Power](plundered-power.md)**: Kill a creature and steal its strongest spell-like ability.
 - **[Poison Breath](poison-breath.md)**: Cone of toxic mist, as poison.
 - **[Pox of Rumors](pox-of-rumors.md)**: Curse a creature to attract nasty rumors.

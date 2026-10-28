@@ -69,6 +69,26 @@ At the GM’s discretion, other nonmagical mechanical traps may be considered to
 
 **Effect** The classic “clam clamp” trap utilizes the heavy shell of a giant clam, but any similarly large bivalve mollusk or even flotsam can work. A clam clamp is typically set with a lure, such as a piece of shiny treasure. When a creature walks over a clam clamp or attempts to take the treasure, the clamp snaps shut and attempts a grapple with a +15 bonus on the combat maneuver check. The weight of the clam clamp is enough to hold a creature in place until the grappled creature can escape. A clam clamp located in an underwater area is more difficult to craft but also more dangerous to air-breathing creatures due to the fact that it can hold a creature underwater until it drowns; an underwater clam clamp’s CR is 5.
 
+### Dual Swinging Log (CR 3)
+
+**XP** 800
+
+**Type** mechanical; **Perception** DC 15; **Disable Device** DC 15
+
+**Trigger** location; **Reset** manual; **Associated Terrain** forests or jungles
+
+**Effect** Atk +7 melee (1d6+5/×2) and knocked prone; Reflex DC 15 negates prone condition
+
+### Lifting Net (CR 3)
+
+**XP** 800
+
+**Type** mechanical; **Perception** DC 20; **Disable Device** DC 20
+
+**Trigger** location; **Reset** manual; **Associated Terrain** jungles
+
+**Effect** Atk +6 melee, targets are hit by a net (as the exotic ranged weapon). The net lifts the targets 10 feet off the ground, and the trailing rope is controlled by the trap (with a +5 Strength bonus); multiple targets (all targets in a 10-ft.-square area)
+
 ### Razor Grass (CR 3)
 
 **XP** 800
@@ -89,6 +109,16 @@ At the GM’s discretion, other nonmagical mechanical traps may be considered to
 
 **Effect** Fallen trees often form excellent natural bridges over rivers or chasms, or they afford routes to climb more safely over a wall or other barrier. Breakaway logs have been sabotaged so that they collapse once they are used. At the end of a round when a Medium or larger (or two Small) creatures use the log, it collapses. All creatures on the log then fall, taking appropriate damage from the plunge. This example breakaway log fills an area that is 5 feet wide and 20 feet long, and it results in a 20-foot fall which deals 2d6 points of falling damage. A creature that succeeds at a DC 15 Reflex save can cling to the log or leap to safety and avoid the damage entirely.
 
+### Infected Punji Pit (CR 4)
+
+**XP** 1,200
+
+**Type** mechanical; **Perception** DC 20; **Disable Device** DC 20
+
+**Trigger** location; **Reset** manual; **Associated Terrain** jungles or plains
+
+**Effect** 10-ft.-deep pit (1d6 falling damage); punji sticks (Atk +10 melee, 1d4 spikes per target for 1d4+2 damage each plus disease [filth fever]); Reflex DC 20 negates; multiple targets (all targets in a 10-ft.-square area)
+
 ### Spring-Arm Spike (CR 4)
 
 **XP** 1,200
@@ -98,6 +128,16 @@ At the GM’s discretion, other nonmagical mechanical traps may be considered to
 **Trigger** location; **Reset** manual; **Associated Terrain** any forests, jungles, or swamps
 
 **Effect** A spring-arm spike is similar to a spring snare trap in that it incorporates a strong sapling bent into a taut arc. When a creature enters a square that contains the spring-arm spike’s trigger, the sapling snaps forward, driving a pointed spear into the target. The spring-arm spike makes a melee attack +15 (2d10+4/×3) against the target, which is also knocked prone unless it succeeds at a DC 20 Reflex save.
+
+### Avalanche (CR 5)
+
+**XP** 1,600
+
+**Type** mechanical; **Perception** DC 25; **Disable Device** DC 20
+
+**Trigger** location; **Reset** manual; **Associated Terrain** mountains or underground
+
+**Effect** 10-ft.-square area covered by avalanche (3d6 damage); Reflex DC 20 negates; multiple targets (all targets in 10-ft.-square slide zone); affected area becomes difficult terrain
 
 ### Deadfall (CR 5)
 

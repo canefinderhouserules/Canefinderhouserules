@@ -41,10 +41,12 @@ The following poisons are commonly encountered in nature or can be distilled alc
 |---|---|
 | Blistercap spore | 1,125 gp |
 | Blue star | 500 gp |
+| Brinestump | 400 gp |
 | Cloudthorn venom | 400 gp |
 | Crone’s curse | 600 gp |
 | Draughtcap fungus | 150 gp |
 | Goblin’s eye | 75 gp |
+| Goblinvine oil | 125 gp |
 | Jackalroot essence | 600 gp |
 | Nymph’s lure | 250 gp |
 | Red bedlam | 1,200 gp |
@@ -69,6 +71,14 @@ Found in remote regions deep underground, the blistercap takes its name from the
 **Type** poison, ingested; **Save** Fortitude DC 15; **Onset** 10 minutes; **Frequency** 1/minute for 6 minutes; **Effect** 1d2 Con damage. In addition, the creature takes a –2 penalty on saving throws to resist poison for 1 week. **Cure** 2 consecutive saves
 
 This small bright-blue flower has five petals arrayed in a star shape and looks remarkably similar to several other species of blue flowers that live in similar regions, requiring a successful DC 15 Knowledge (nature) or Survival check to correctly identify. The poison causes severe liver damage, making it even more difficult to resist future poisons that a victim may encounter. Although rarely a direct danger to humanoids, the flowers are sometimes consumed by livestock. When this occurs, the venom can be passed on through milk the animals produce for the next week, affecting those who drink it as though they had consumed a dose of blue star.
+
+### Brinestump
+
+**Price** 400 gp; **Weight** —
+
+**Type** poison, ingested; **Save** Fortitude DC 15; **Onset** 1 round; **Effect** nauseated for 5 rounds; **Cure** 1 save
+
+Invented as part of a series of dares between feuding goblin camps, this noxious brew fermented from a slurry of swamp flora is a favored concoction of goblin tribes. The potent intoxicant is popular among goblinoids (who are immune to its nauseating effect), but all other races that partake of this frothy drink are wracked with nausea.
 
 ### Cloudthorn Venom
 
@@ -101,6 +111,14 @@ This yellow-brown mushroom is commonly found in deserts and other dry environmen
 **Type** poison, ingested; **Save** Fortitude DC 13; **Onset** 1 minute; **Frequency** 1/minute for 6 minutes; **Effect** 1 Con damage and the creature is nauseated for 1 minute; **Cure** 1 save
 
 These bright red seeds feature a single black dot each, giving them a superficial resemblance to an eye. The bright colors of the seeds make them attractive to certain animals, as well as those unfamiliar with wilderness lore. A character who succeeds at a DC 15 Knowledge (nature) or Survival check identifies the seed as poisonous. In some places, the seeds are used as jewelry.
+
+### Goblinvine Oil
+
+**Price** 125 gp; **Weight** —
+
+**Type** poison, contact; **Save** Fortitude DC 10; **Onset** 1 round; **Effect** sickened; **Cure** 2 consecutive saves or 1 minute spent washing the affected area
+
+Extracted from the mashed leaves of the pernicious goblinvine, this irritant is favored by goblins and tricksters alike.
 
 ### Jackalroot Essence
 

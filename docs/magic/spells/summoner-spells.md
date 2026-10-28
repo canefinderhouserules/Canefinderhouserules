@@ -214,6 +214,7 @@ New summoner spells from *Ultimate Magic*. Spells from other books will be added
 - **[Human Potential, Mass](human-potential-mass.md)**: As human potential, affecting multiple creatures.
 - **[Insect Spies, Greater](insect-spies-greater.md)**: Use magic beetles as spies and also share their senses.
 - **[Magnetic Field](magnetic-field.md)**: Pulls metal objects and metal-clad creatures toward you.
+- **[Planar Refuge](planar-refuge.md)**: A pocket of Material Plane wilderness on another plane.
 - **[Planetary Adaptation, Mass](planetary-adaptation-mass.md)**: As planetary adaptation, on many creatures.
 - **[Plundered Power](plundered-power.md)**: Kill a creature and steal its strongest spell-like ability.
 - **[Shadow Transmutation](shadow-transmutation.md)**: mimics a polymorph or size-changing spell with shadow-stuff

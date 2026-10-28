@@ -15,6 +15,7 @@ Bloodragers gain access to the following spells. Spells in plain text come from 
 - **[Burning Hands](burning-hands.md)**: 1d4/level fire damage (max 5d4).
 - **[Cause Fear](cause-fear.md)**: A creature of 5 HD or less flees for 1d4 rounds.
 - **[Celestial Healing](celestial-healing.md)**: Target gains fast healing 1.
+- **[Cheetah's Sprint](cheetahs-sprint.md)**: Run at ten times your speed for one turn.
 - **[Chill Touch](chill-touch.md)**: One touch/level deals 1d6 damage and possibly 1 Str damage.
 - **[Coin Shot](coin-shot.md)**: Turns coins into bullets.
 - **[Color Spray](color-spray.md)**: Knocks unconscious, blinds, and/or stuns weak creatures.
@@ -158,6 +159,7 @@ Bloodragers gain access to the following spells. Spells in plain text come from 
 - **[Touch of Idiocy](touch-of-idiocy.md)**: Subject takes 1d6 penalty to Int, Wis, and Cha.
 - **[Unshakable Chill](unshakable-chill.md)**: Target is afflicted with severe cold.
 - **[Vine Strike](vine-strike.md)**: Enhance one of your natural or unarmed attacks with thorny vine growth.
+- **[Wild Instinct](wild-instinct.md)**: +5 on Perception in surprise rounds; no sleeping penalty.
 - **[Winged Sword](winged-sword.md)**: A melee weapon gains the throwing special ability.
 - **[With the Wind](with-the-wind.md)**: Protect a target from being blown away by wind of less than windstorm force.
 

@@ -37,6 +37,7 @@ Shamans gain access to the following spells. Spells in plain text come from othe
 - **[Cause Fear](cause-fear.md)**: A creature of 5 HD or less flees for 1d4 rounds.
 - **[Charm Animal](charm-animal.md)**: Makes one animal your friend.
 - **[Charm Person](charm-person.md)**: Makes one person your friend.
+- **[Cheetah's Sprint](cheetahs-sprint.md)**: Run at ten times your speed for one turn.
 - **[Chill Touch](chill-touch.md)**: One touch/level deals 1d6 damage and possibly 1 Str damage.
 - **[Comprehend Languages](comprehend-languages.md)**: You understand all spoken and written languages.
 - **[Coward's Cowl](cowards-cowl.md)**: Defensive bonuses while avoiding enemies.
@@ -183,6 +184,7 @@ Shamans gain access to the following spells. Spells in plain text come from othe
 - **[Overstimulate](overstimulate.md)**: Grant ferocity to keep a creature conscious
 - **[Owl’s Wisdom](owls-wisdom.md)**: Subject gains +4 to Wis for 1 min./level.
 - **[Quick Change](quick-change.md)**: Use change shape as a swift action and surprise foes.
+- **[Raven's Flight](ravens-flight.md)**: Become a Tiny raven shape with fly speed 50 ft. for one turn.
 - **[Reinvigorating Wind](reinvigorating-wind.md)**: Wake and invigorate allies with a magical wind
 - **[Remove Paralysis](remove-paralysis.md)**: Frees creatures from paralysis or *slow* effect.
 - **[Resist Energy](resist-energy.md)**: Ignores 10 (or more) points of damage/attack from specified energy type.
@@ -214,6 +216,7 @@ Shamans gain access to the following spells. Spells in plain text come from othe
 - **[Warp Wood](warp-wood.md)**: Bends wood.
 - **[Web Shelter](web-shelter.md)**: Create a comfortable shelter made of webbing.
 - **[Wicker Horse](wicker-horse.md)**: Animate plants into a riding horse
+- **[Wild Instinct](wild-instinct.md)**: +5 on Perception in surprise rounds; no sleeping penalty.
 - **[Wing Bounty](wing-bounty.md)**: Your wings sprout goodberries.
 - **[Winter Grasp](winter-grasp.md)**: Create a slippery sheet of ice on the ground.
 - **[Wood Shape](wood-shape.md)**: Reshapes wooden objects to suit you.
@@ -232,6 +235,7 @@ Shamans gain access to the following spells. Spells in plain text come from othe
 - **[Call Lightning](call-lightning.md)**: Calls down lightning bolts (3d6 per bolt) from sky.
 - Clairvoyance/clairaudience
 - **[Carrying Wind](carrying-wind.md)**: Wind spirit boosts your speed and grants a fly speed.
+- **[Clear Grove](clear-grove.md)**: Vegetation withdraws from a 20-ft.-radius clearing.
 - **[Contact Entity II](contact-entity-ii.md)**: Ask more powerful eldritch entities to find and converse with you.
 - **[Contact High](contact-high.md)**: Share the effects of a drug you are under with others.
 - **[Create Food and Water](create-food-and-water.md)**: Feeds three humans (or one horse)/level.
@@ -344,6 +348,7 @@ Shamans gain access to the following spells. Spells in plain text come from othe
 - **[Frigid Souls](frigid-souls.md)**: Haunt strips protection against cold.
 - **[Giant Vermin](giant-vermin.md)**: Turns centipedes, scorpions, or spiders into giant vermin.
 - **[Glimpse of Truth](glimpse-of-truth.md)**: Gain *true seeing* for 1 round.
+- **[Globe of Tranquil Water](globe-of-tranquil-water.md)**: A calm bubble of water blocks precipitation and water attacks.
 - **[Guardian Monument, Lesser](guardian-monument-lesser.md)**: Humans defending the area gain DR 2/magic.
 - **[Hunger for Flesh](hunger-for-flesh.md)**: Give a creature a bite attack and a hunger for its own kind’s flesh.
 - **[Ice Storm](ice-storm.md)**: Hail deals 5d6 damage in cylinder 40 ft. across.
@@ -526,6 +531,7 @@ Shamans gain access to the following spells. Spells in plain text come from othe
 - **[Inflict Serious Wounds, Mass](inflict-serious-wounds-mass.md)**: Deals 3d8 damage + 1/level, affects 1 subject/level.
 - **[Legendary Proportions](legendary-proportions.md)**: Increase a creature's size category with large bonuses.
 - **[Liveoak](liveoak.md)**: Oak becomes treant guardian.
+- **[Planar Refuge](planar-refuge.md)**: A pocket of Material Plane wilderness on another plane.
 - **[Plane Shift](plane-shift.md)**: As many as eight subjects travel to another plane.
 - **[Plundered Power](plundered-power.md)**: Kill a creature and steal its strongest spell-like ability.
 - **[Regenerate](regenerate.md)**: Subject’s severed limbs grow back, cures 4d8 damage +1/level (max +35).

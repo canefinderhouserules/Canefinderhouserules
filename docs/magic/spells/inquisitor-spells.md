@@ -249,6 +249,7 @@ New inquisitor spells from *Ultimate Magic*. Spells from other books will be add
 - **[Pillow Talk](pillow-talk.md)**: Question a sleeping creature
 - **[Planar Inquiry](planar-inquiry.md)**: Call an outsider to answer questions.
 - **[Quell Energy](quell-energy.md)**: Reduce a creature's energy damage of one type.
+- **[Raven's Flight](ravens-flight.md)**: Become a Tiny raven shape with fly speed 50 ft. for one turn.
 - **[Reaper's Coterie](reapers-coterie.md)**: Weapon gains profane damage bonus for each kill.
 - **[Resist Energy, Communal](resist-energy-communal.md)**: As resist energy, but you may divide the duration among creatures touched.
 - **[Retributive Reparations](retributive-reparations.md)**: Thieves of the warded item grow fatigued, then exhausted.
