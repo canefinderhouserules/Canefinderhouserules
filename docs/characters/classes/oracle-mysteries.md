@@ -645,3 +645,35 @@ Oracles of the rifts mystery have become marked in some way by an incursion into
 **Wings of Darkness (Su)**: This ability functions as the dark tapestry mystery revelation of the same name (see [oracle archetypes](oracle-archetypes.md)). You must be at least 7th level to select this revelation.
 
 **Final Revelation**: Upon reaching 20th level, your body becomes permanently suffused with the essence of the Plane of Shadow. You gain regeneration 5 while in dim light or darkness and immunity to cold, critical hits, and sneak attacks. Your regeneration is suppressed while in any level of illumination brighter than dim light. In addition, any spells you cast of the shadow subschool or with the darkness descriptor are automatically enlarged without affecting their spell level.
+
+## Winter Mystery
+
+**Typical deities**: gods of winter, storms, strength, and destruction.
+
+**Class Skills**: An oracle with the winter mystery adds Intimidate, Knowledge (nature), Stealth, and Survival to her list of class skills.
+
+**Bonus Spells**: *endure elements* (2nd), *frost fall* (4th), *sleet storm* (6th), *ice storm* (8th), *icy prison* (10th), *cone of cold* (12th), *ice body* (14th), *polar ray* (16th), *mass icy prison* (18th).
+
+**Revelations**: An oracle with the winter mystery can choose from any of the following revelations.
+
+**Blizzard (Su)**: As a standard action, you can create a blizzard of snow and ice. You can create one 10-foot cube of this storm per oracle level. These cubes can be arranged in any pattern you desire, but each cube must be adjacent to another, and at least one must be adjacent to you. Any creature caught in the blizzard takes 1d4 points of cold damage per oracle level, with a successful Reflex save resulting in half damage. The storm lasts for a number of rounds equal to your Charisma modifier; the ground remains icy (+5 to Acrobatics DCs) as long as local conditions permit. The blizzard obscures sight beyond 5 feet, providing total concealment. A creature within 5 feet has concealment. You can use this ability once per day. You must be 11th level to select this revelation.
+
+**Child of Winter (Ex)**: You gain the constant benefit of *endure elements*, but only against cold temperatures. You can move across regular snow without penalty, and heavy snow costs you only 2 squares of movement instead of 4. You can move across icy surfaces without penalty, and never need to make Acrobatics checks to run or charge on ice. You leave no trail in ice or snow, and cannot be tracked (you may choose to leave a trail if you so desire). During winter months, you gain a +2 insight bonus on Initiative checks and Reflex saving throws.
+
+**Cold Aura (Su)**: As a swift action, you can cause waves of cold to radiate from your body. This cold deals 1d6 points of cold damage per 2 oracle levels to all creatures within 10 feet. A successful Fortitude save halves the damage. In addition, a flurry of snow momentarily surrounds you, granting you concealment until your next turn. You can use this ability once per day, plus one additional time per day at 5th level and every 5 levels thereafter.
+
+**Freezing Spells (Su)**: Whenever a creature fails a saving throw and takes cold damage from one of your spells, it is slowed (as the *slow* spell) for 1 round. Spells that do not allow saves do not slow creatures. At 11th level, the slow duration increases to 1d4 rounds.
+
+**Ice Armor (Su)**: You can conjure armor of ice that grants you a +4 armor bonus to AC. At 7th level and every 4 levels thereafter, this bonus increases by 2. At 13th level, this icy armor grants you DR 5/piercing. In cold conditions, the armor bonus and DR bonus increase by 2; in very hot conditions, however, they decrease by 2. You can use this armor for 1 hour per day per oracle level. This duration does not need to be consecutive, but must be spent in 1-hour increments.
+
+**Ice Shape (Su)**: You are able to sculpt ice and snow into almost any shape. This ability functions like *stone shape*, but targeting only ice and snow, not stone. You can use this ability a number of times per day equal to 3 + your Charisma modifier.
+
+**Icy Skin (Ex)**: You gain resist cold 5. This resistance increases to 10 at 5th level and 20 at 11th level. At 17th level, you gain immunity to cold.
+
+**Servant of Winter (Sp)**: As a full-round action, you can summon a single ice elemental to serve you. At 7th level, you can summon a Medium ice elemental, as *summon monster IV*. At 11th level, you can summon a Huge ice elemental, as *summon monster VI*. At 15th level, you can summon an elder ice elemental, as *summon monster VIII*. You can use this ability once per day, plus one additional time per day at 15th level. You must be at least 7th level before selecting this revelation.
+
+**Snow Sight (Su)**: You can see through falling snow and sleet without taking any penalties on Perception checks as long as there is enough light to allow you to see normally. At 11th level, in cold conditions or in icy or snowy terrain, you can learn about your surroundings as if using the *commune with nature* spell. You can use the *commune with nature* ability once per day at 11th level, and twice per day at 15th level.
+
+**Wintry Touch (Su)**: As a standard action, you can perform a melee touch attack that deals 1d6 points of cold damage + 1 point for every 2 oracle levels you possess. You can use the wintry touch ability a number of times per day equal to 3 + your Charisma modifier. At 11th level, any weapon that you wield is treated as a *frost* weapon.
+
+**Final Revelation**: Upon reaching 20th level, you become an avatar of winter and the North. Your body permanently transforms into living ice, as the *ice body* spell. In addition, your mastery of winter magic is such that any of your attacks that deal cold damage bypass cold immunity or cold resistance.

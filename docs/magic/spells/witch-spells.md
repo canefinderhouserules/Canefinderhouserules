@@ -182,6 +182,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Familiar Figment](familiar-figment.md)**: Illusory duplicate of your familiar gives a 50% miss chance.
 - **[Fear the Sun](fear-the-sun.md)**: targets gain light blindness
 - **[Flesh Facade](flesh-facade.md)**: Make an undead look alive
+- **[Flurry of Snowballs](flurry-of-snowballs.md)**: Cone of snowballs dealing 4d6 cold damage.
 - **[Force Sword](force-sword.md)**: Create a longsword of pure force.
 - **[Frost Fall](frost-fall.md)**: The area is covered in a chilling frost.
 - **[Fury of the Sun](fury-of-the-sun.md)**: You curse the target to suffer unbearable heat.
@@ -273,6 +274,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Whip of Spiders](whip-of-spiders.md)**: Whiplike spider swarm deals swarm damage by touch.
 - **[Wicker Horse](wicker-horse.md)**: Animate plants into a riding horse
 - **[Winter Grasp](winter-grasp.md)**: Create a slippery sheet of ice on the ground.
+- **[Winter's Grasp](winters-grasp.md)**: Ices the ground, damaging and unbalancing creatures.
 
 ## 3rd-Level Witch Spells
 

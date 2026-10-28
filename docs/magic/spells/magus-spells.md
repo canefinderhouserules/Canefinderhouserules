@@ -86,6 +86,7 @@ The magus class spell list appears on the [Magus](../../characters/classes/magus
 - **[Fiery Runes](fiery-runes.md)**: Weapon rune deals fire damage when discharged.
 - **[Fleeting Defect](fleeting-defect.md)**: An object temporarily gains the broken condition.
 - **[Flickering Lights](flickering-lights.md)**: Create an area of inconsistent lighting.
+- **[Flurry of Snowballs](flurry-of-snowballs.md)**: Cone of snowballs dealing 4d6 cold damage.
 - **[Force Anchor](force-anchor.md)**: Force anchor hinders a target's movement
 - **[Force Sword](force-sword.md)**: Create a longsword of pure force.
 - **[Frigid Touch](frigid-touch.md)**: Target takes cold damage and is staggered.

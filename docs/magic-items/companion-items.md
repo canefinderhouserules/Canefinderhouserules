@@ -5513,3 +5513,65 @@ This unusual type of *immovable rod* has a button near each end, and it can be a
 These rings are said to have first been forged by a secular council of elders to help root out the hidden faithful and other practitioners of the divine. A *ring of the godless* grants a luck bonus (+1 to +5) on saving throws against divine spells. This bonus does not apply to spell-like or supernatural abilities unless they are class abilities of a divine spellcasting class, such as channel energy or domain powers, or unless they are used by a creature that has been called, created, or summoned by divine magic. The wearer's spell resistance (if any) increases by an amount equal to the ring's luck bonus, though this increase applies only against divine spells (and spell-like abilities as described above). A *ring of the godless* also allows the wearer to use *detect magic* at will, though it detects only divine magic. In addition, the wearer can use a specialized form of *arcane sight* a number of times per day equal to the ring's luck bonus. This ability can be activated as a swift action, its effect lasts until the end of the wearer's turn, and it detects only divine magic or divine spellcasting ability.
 
 **Construction Requirements:** Forge Ring, *arcane sight*, *detect magic*, *spell resistance*, creator cannot be a divine spellcaster, creator must be of a level at least three times higher than the bonus of the ring; **Cost** 4,000 gp (+1), 8,500 gp (+2), 13,500 gp (+3), 19,000 gp (+4), 25,000 gp (+5)
+
+## Northern Items
+
+### Buoyant Harpoon
+
+**Slot** none; **CL** 5th; **Price** 8,305 gp; **Weight** 16 lbs.
+
+**Aura** faint transmutation
+
+Commonly used by arctic coastal hunters and whalers, this +1 harpoon is wrapped in fur, and several small gourds dangle from the weapon and the rope attached to it. If the wielder uses the harpoon to successfully grapple a creature, he can, as a swift action, command the harpoon to hinder the creature's movement. The grappled creature must succeed at a DC 14 Will save or be slowed (as the *slow* spell) and forced to surface if underwater, remaining unable to submerge for the duration of the effect. The slow effect lasts until the grappled condition ends. Hunters often decorate their harpoons in colorful baubles to help them stand out in icy waters, but these adornments don't impact the weapon's buoyancy.
+
+**Construction Requirements:** Craft Magic Arms and Armor, *levitate*, *slow*; **Cost** 4,305 gp
+
+### Cloak of the Saga Keeper
+
+**Slot** shoulders; **CL** 6th; **Price** 13,800 gp; **Weight** 1 lb.
+
+**Aura** moderate abjuration
+
+Not all who board longships or travel the paths of mammoth hunters are capable warriors, even though they may be just as brave. A *cloak of the saga keeper* is made from layers of fox fur and leather cut in strips reminiscent of fluttering lengths of scroll. Seven of these strips are dyed vibrant red. The wearer of the cloak constantly benefits from the effects of *endure elements* while in cold conditions, and gains resist energy 2 against cold damage. Additionally, the wearer of the cloak can, as an immediate action, pluck one of the cloak's seven dyed strips to gain a +6 bonus to a Climb, Handle Animal, Ride, Survival, or Swim check made that round. These strips dissolve immediately upon being plucked. Once all seven of the cloak's strips have been torn off, the wearer can no longer make use of the cloak's skill-improving effects, but continues to benefit from the *endure elements* and resistance abilities.
+
+**Construction Requirements:** Craft Wondrous Item, *guidance*, *resist energy*; **Cost** 6,900 gp
+
+### Hex Nail
+
+**Slot** none; **CL** 3rd; **Price** 20 gp; **Weight** —
+
+**Aura** faint abjuration
+
+A hex nail is a thick, 6-inch-long nail forged from cold iron. Usually carried like charms or concealed within the heels of shoes, these roughly worked nails are the only protection many common citizens of a witch-ruled realm have against the witches and the cold fey of the North. Carrying a hex nail grants its possessor a +2 resistance bonus on all saving throws against the hexes, spells, spell-like abilities, and supernatural abilities of fey, hags, and witches. A hex nail automatically grants its bonus when its possessor is targeted by such an effect. Once a hex nail has granted its bonus on a single saving throw, it becomes a nonmagical nail. Most nobles of such realms consider possession of a hex nail an act of treason.
+
+**Construction Requirements:** Craft Wondrous Item, *resistance*; **Cost** 10 gp
+
+### Pelt of Primal Power
+
+**Slot** shoulders; **CL** 7th; **Price** 26,000 gp; **Weight** 10 lbs.
+
+**Aura** moderate transmutation
+
+A prized item among berserkers and vikings, a *pelt of primal power* is a large bearskin worn as a cloak, with the bear's head sitting atop the wearer's head. When donned, a *pelt of primal power* grants its wearer a +4 armor bonus to AC. In addition, once per day the wearer can transform into a grizzly bear (as *beast shape II*) for up to 10 minutes.
+
+**Construction Requirements:** Craft Wondrous Item, *beast shape II*, *mage armor*; **Cost** 13,000 gp
+
+### Saga of the Raider Kings
+
+**Slot** none; **CL** 3rd; **Price** 26,000 gp; **Weight** 5 lbs.
+
+**Aura** faint transmutation
+
+This heavy book contains a collection of epic tales of mighty northern heroes and the wondrous deeds they performed—and entwined within the words is a powerful magical effect. If anyone reads this book, which takes a total of 48 hours over a minimum of 6 days, she gains a +5 competence bonus on Diplomacy and Intimidate checks and a +4 morale bonus on saves against fear. This is a permanent magical effect that can be dispelled as normal. Once the book is read, the magic disappears from the pages and it becomes a normal book.
+
+**Construction Requirements:** Craft Wondrous Item, *eagle's splendor*, *remove fear*, creator must be a bard; **Cost** 13,000 gp
+
+### Shard of Winter
+
+**Slot** none; **CL** 9th; **Price** 26,302 gp; **Weight** 1 lb.
+
+**Aura** moderate enchantment
+
+This small knife has a bone handle and a blade that seems to be made of clear blue ice. Commonly found in the hands of a winter witch, a *shard of winter* is a +1 *frost* dagger. Once per day, a witch can use a *shard of winter* to cast any one spell with the cold descriptor that the witch has stored in her familiar and is capable of casting, even if the spell is not prepared. This spell is treated like any other spell cast by the witch, including casting time, duration, and other effects dependent on the witch's level. This spell can't be modified by metamagic feats or other abilities.
+
+**Construction Requirements:** Craft Magic Arms and Armor, *ice storm*, *telepathic bond*, creator must be a winter witch; **Cost** 13,302 gp

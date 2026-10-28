@@ -2444,3 +2444,35 @@ Each application of this alchemical solution, typically compounded from substanc
 **Price** 1 sp; **Weight** —
 
 A veil reduces the effect of sun glare and keeps the wearer's face shaded and cool. A veil may be full-length or may leave a small space for the eyes, and is often draped, wrapped, or hung with chains below a turban, hat, or other headgear. A veil grants a +1 bonus on saving throws against the dazzled condition and against nonlethal damage from heat exposure, but the wearer takes a –1 penalty on vision-based Perception checks.
+
+## Northern Gear
+
+### Ember Pot
+
+**Price** 5 sp; **Weight** 1 lb.
+
+Roughly carved from porous stone that litters the base of mountain ranges, these pots allow nomads to carry burning coals from one day's campsite to the next, so they can quickly start cook fires wherever they find themselves. Coals placed within an ember pot stay hot for 24 hours, and allow anyone to light a fire in normal conditions without needing to make a Survival check.
+
+### Mammoth
+
+**Price** 2,000 gp (2,250 gp combat-trained); **Weight** 8 tons
+
+This woollier variety of the mastodon is adapted to cold, and is a larger and more powerfully built cousin to the elephant. A favored beast of burden among nomadic tribes, mammoths are more temperamental than elephants. Combat-trained mammoths are used primarily as mounts by the tribes of the far north. Such beasts might be bought from some tribes, but for a more significant cost. Many tribes sell mammoths only to those they trust to both respect the animals and not turn the powerful beasts back against their tribe.
+
+### Mammoth Goad
+
+**Price** 5 gp; **Weight** 10 lbs.
+
+Used to train and direct domesticated megafauna, this goad is a sturdy wooden pole 10 to 15 feet long with a prod of polished bone, ivory, or soapstone on one end. The goad grants a +2 bonus on all Handle Animal checks made against mammoths and other megafauna.
+
+### Reindeer
+
+**Price** 75 gp; **Weight** 450 lbs.
+
+These sturdy and majestic caribou roam the northern tundra in great herds, and provide fur, meat, and other useful products to arctic herders and hunters. Reindeer are also domesticated to pull sleighs. Reindeer use the same statistics as elk.
+
+### Whale Oil
+
+**Price** 2 sp; **Weight** 1 lb.
+
+A common source of illumination in northern lands, 1 pint of whale oil burns for 10 hours in a lantern or lamp. It otherwise functions as normal oil.

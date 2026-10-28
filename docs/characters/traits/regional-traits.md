@@ -238,6 +238,42 @@ These traits tie characters to a campaign of tomb-delving in an ancient necropol
 
 **Necropolis Native**: You were born and raised in the city beside the necropolis, and you know its streets and secrets well. Although it's frowned upon by the city's authorities, you have sneaked into the necropolis on multiple occasions to wander its dusty, abandoned streets. Out of respect for the deceased, you've never actually entered one of the necropolis's silent tombs, but you have no fear of what might lie inside. You gain a +2 trait bonus on saves against fear effects. In addition, your knowledge of the city grants you a +1 trait bonus on Knowledge (local) checks, and that skill is always a class skill for you.
 
+## Northern Traits
+
+**Big Game Hunter** *(mammoth-hunting plains)*: You have spent long hours hunting giant creatures and have become skilled at bringing them down quickly. You gain a +1 trait bonus on weapon damage rolls against Large or larger creatures of the animal type.
+
+**Call of the Longships** *(longship-raiding coasts)*: Your blood sings with longing to relive the adventures of one of your ancestors, and you are inexorably drawn to the sea. You gain a +1 trait bonus on Profession (sailor) checks and a +1 trait bonus on attack rolls made onboard ships.
+
+**Fey Luck** *(longship-raiding coasts)*: At some point in your life, you were touched by a fey creature called a huldra and inherited a bit of its luck. Once per day, you may choose to gain a +1 luck bonus on a single saving throw, attack roll, or skill check.
+
+**Fey Outpost Escapee** *(eternal-winter realm)*: You have spent considerable time at an unearthly fey outpost, but have escaped. You gain DR 1/cold iron but become sickened for 1 round if damaged by a cold iron weapon.
+
+**Palace Gourmand** *(eternal-winter realm)*: You grew up privileged in the capital city, and indulged in many exotic and unnerving pleasures. You gain a +1 trait bonus on saves against any effect causing the nauseated or sickened condition and against all ingested poisons.
+
+**Spirit Animal** *(mammoth-hunting plains)*: A spirit animal watches over you. Choose one of the following spirit animals. The benefit you receive depends on which you choose.
+
+* Mammoth: You gain a +1 trait bonus on Fortitude saves.
+* Smilodon: You gain a +1 trait bonus on Reflex saves.
+* Woolly Rhinoceros: You gain a +1 trait bonus on Will saves.
+
+## Winter Campaign Traits
+
+These traits tie characters to a campaign of frost and fury that begins in a warm village far to the south and travels to icy, winter-bound lands.
+
+**Adaptive Magic**: The wonders of magic have always fascinated you, and you find the urge to tinker and experiment with magic almost irresistible. You could be the child of an alchemist, wizard, or witch; a member of an explorers' society; or maybe someone with a touch of fey or dragon blood. You may not be trained in magic, and you've had your share of accidental mishaps, but you possess a natural knack for activating magic items. You've always been intrigued by the cold magic of winter witches and ice mages of the North, and would love to get your hands on some of their magic items. You gain a +1 trait bonus on Knowledge (arcana) and Use Magic Device checks, and Use Magic Device is a class skill for you.
+
+**Blood of Giants**: You're a big person, and folk have always said you've got some giant blood in you. Even as a child, you towered over your friends, and as you grew older, you grew even taller and stronger. Maybe your hair has a tint of blue as well, or your skin is as pale as snow. You gain a +1 trait bonus on combat maneuver checks to sunder, and a +1 trait bonus to your CMD against bull rush and overrun combat maneuvers.
+
+**Failed Winter Witch Apprentice**: As a child, you were apprenticed as a winter witch in a frozen land, but you did not complete your training. Perhaps you disagreed with the politics of the witches, or you had an altercation with one of your teachers, or maybe you were just ill-suited to the practice of witchcraft. Whatever the reason, you left the ranks of the winter witches. Whether or not you continued your training on your own, you still retain some small knowledge of witchery and the magic of the icy north. You gain a +1 trait bonus on Knowledge (arcana) and Spellcraft checks to identify spells or magical effects with the cold descriptor, and one of these skills (your choice) is a class skill for you. In addition, you gain a northern human language of your choice (this does not count toward your number of languages).
+
+**Northern Ancestry**: One of your parents came from the North, and the tales of the frozen lands at the top of the world that you grew up listening to excited your imagination. Or maybe one of your ancestors had the blood of some frost-rimed creature. You feel most alive during the chill of winter, and as a child, you spent hours playing in the snow. You rarely feel the cold, and you've always had a restless longing to travel north. You gain a +1 trait bonus on Fortitude saves, as well as cold resistance 2; this resistance does not stack with cold resistance gained from any other source.
+
+**Restless Wayfarer**: You have led a nomadic life—your parents were travelers (perhaps roaming caravaneers, or traveling merchants who traded far and wide), you belonged to a nomadic tribe, or maybe you ran away from home to discover the world at a young age. Some call it wanderlust, but to you the thought of new places and experiences is truly what makes life worth living, and no region catches your imagination like the windswept wilderness of the North. You are used to getting along in unfamiliar lands and dealing with interesting new people. You gain a +1 trait bonus on Knowledge (geography) and Knowledge (local) checks, and one of these skills (your choice) is a class skill for you. You can also speak one additional language (this does not count toward your number of languages).
+
+**Vigilante Witch Hunter**: You don't trust witches. They deal with otherworldly beings, consort with beasts, and brew vile poisons in their cauldrons. As a child, perhaps you barely escaped some horrid fate at the hands of an evil witch, or maybe a loved one was stolen from you by a witch's charms. Whatever the reason, you hate witches, and have dedicated your life to ferreting them out and exposing their wickedness for all to see. You gain a +1 trait bonus on Sense Motive checks, and Sense Motive is a class skill for you. In addition, you begin the campaign with 1d4 [hex nails](../../magic-items/companion-items.md).
+
+**Warded Against Witchery**: Sometime in your youth, you encountered a location, object, or being steeped in the power of evil witchcraft. Whether you were the victim of this force, a conduit for it, or merely witnessed its effects, the event changed your life. Whether through purity and the blessing of goodly spirits, an innate determination, or an intuitive familiarity with the ways of black magic, you have acquired a resilience against the dark arts. You gain a +1 trait bonus on saving throws against the spells, spell-like abilities, and supernatural abilities of evil arcane spellcasters, and a +1 trait bonus on Spellcraft checks to identify spells cast by evil arcane spellcasters.
+
 ## Brewing and Poisoning Traits
 
 Potions and poisons are common everywhere, but in some regions they are more common or have more of an effect than in others. The following regional traits represent characters who grew up in places where potions and poisons were part of daily life.

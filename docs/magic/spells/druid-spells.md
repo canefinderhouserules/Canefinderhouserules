@@ -149,6 +149,7 @@
 - **[Flame Blade](flame-blade.md)**: Touch attack deals 1d8 + 1/two levels damage.
 - **[Flaming Sphere](flaming-sphere.md)**: Rolling ball of fire deals 3d6 fire damage.
 - **[Flotsam Vessel](flotsam-vessel.md)**: Builds a raft from river debris that always travels downstream.
+- **[Flurry of Snowballs](flurry-of-snowballs.md)**: Cone of snowballs dealing 4d6 cold damage.
 - **[Fog Cloud](fog-cloud.md)**: Fog obscures vision.
 - **[Forest Friend](forest-friend.md)**: Plants in a forested area become helpful instead of hindering you and your allies.
 - **[Frost Fall](frost-fall.md)**: The area is covered in a chilling frost.
@@ -217,6 +218,7 @@
 - **[Wilderness Soldiers](wilderness-soldiers.md)**: Nearby plants aid you in combat.
 - **[Wing Bounty](wing-bounty.md)**: Your wings sprout goodberries.
 - **[Winter Grasp](winter-grasp.md)**: Create a slippery sheet of ice on the ground.
+- **[Winter's Grasp](winters-grasp.md)**: Ices the ground, damaging and unbalancing creatures.
 - **[With the Wind](with-the-wind.md)**: Protect a target from being blown away by wind of less than windstorm force.
 - **[Wood Shape](wood-shape.md)**: Reshapes wooden objects to suit you.
 

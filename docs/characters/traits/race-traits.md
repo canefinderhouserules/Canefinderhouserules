@@ -36,6 +36,8 @@ Only dwarfs may select one of these traits.
 
 **Sphinxfriend** *(tomb-warden dwarves)*: You were raised near the lair of a proud sphinx. Well known for their wisdom, sphinxes are greatly respected by your people, and in times of uncertainty and crisis, their counsel has been invaluable. When you came of age, you were chosen to be the emissary between your settlement and the sphinx. Luckily for you, the proud creature enjoyed your company, and in addition to bartering for information, you learned to enjoy the riddles of your noble friend. As a result of your experiences, you gain a +1 trait bonus on Diplomacy checks, Linguistics skill checks made to decipher writing in an unfamiliar language, and Sense Motive checks made to discern secret messages.
 
+**Insular**: You hail from one of the remote dwarven holds of the North, and have learned that the people of these harsh lands are as fickle as the weather. Experience has taught you that outsiders are not to be trusted. You gain a +2 trait bonus on Sense Motive checks, and Sense Motive is always a class skill for you, but you take a –1 penalty on Diplomacy checks with non-dwarves.
+
 ## Elf Traits
 
 Only elfs may select one of these traits.
@@ -55,6 +57,10 @@ Only elfs may select one of these traits.
 **Cosmopolitan Intellectual**: Having grown up in one of the intellectual centers of a far-off elven world, you speak precisely and persuasively, especially among elves. You gain a +1 trait bonus on Diplomacy checks. This bonus increases to +3 against creatures with the elf subtype.
 
 **Tropical Botanist**: You are familiar with beneficial and dangerous plants. You gain a +1 trait bonus on Knowledge (nature) checks to locate or identify plants and on saving throws against the extraordinary abilities of plants.
+
+**Obscure Traditions** *(arctic elves)*: You confound those who think they know about elves. Any creature attempting to make a Knowledge check about your people, a Sense Motive check to determine whether you are lying, or a Survival check to track you takes a –2 penalty on the check. Additionally, any character or creature that normally gains a bonus on attack or damage rolls against elves (such as a ranger's favored enemy ability) has such a bonus reduced by 1 (minimum 0).
+
+**Snowblooded** *(arctic elves)*: Your family has a long tradition of producing excellent sentries and envoys. You gain a +4 trait bonus on Fortitude saving throws made to avoid nonlethal damage from cold environments, and gain a +1 trait bonus on saving throws against spells with the cold descriptor.
 
 ## Gnome Traits
 
@@ -93,6 +99,8 @@ Only gnomes may select one of these traits.
 **Industrious**: You are helpful and hardworking. When you successfully use the aid another action to aid an ally's Craft or Profession check, that character gains an additional +1 trait bonus on the check (in addition to the +2 bonus normally granted for successfully aiding another). If you have a racial bonus on that skill, your ally gains a +2 trait bonus instead.
 
 **Vermin Wrangler**: In gathering ingredients necessary for mind-altering drugs and other concoctions, you have become intimately familiar with the desert's many-legged pests. You gain a +2 trait bonus on Knowledge (dungeoneering) checks to identify vermin and on saving throws against vermin's extraordinary abilities.
+
+**Snowstepper**: As a native of the North, you have acquired the ability to tread lightly on snow. You ignore difficult terrain caused by snow, and it costs you only 2 squares of movement to enter a square covered in heavy snow, rather than 4 squares of movement. This benefit only applies when you are not carrying a medium or heavier load.
 
 ## Goblin Traits
 
@@ -152,6 +160,8 @@ Only half-elfs may select one of these traits.
 
 **Pearl Diver**: You are skilled at finding treasures in the warm coastal waters near the desert. You gain a +2 trait bonus on Perception checks while underwater and can hold your breath for a number of rounds equal to three times your Constitution score before you risk drowning.
 
+**Child of Two Peoples** *(also half-orcs and humans)*: Your parents come from two visibly different cultures that maintain distinct identities regardless of their physical proximity. The tug of conflicting expectations has strengthened your sense of individuality and given you a gift for languages. You receive a +2 trait bonus on Will saves against charm and compulsion effects, and you automatically know the racial or ethnic languages of both your parents.
+
 ## Half-Orc Traits
 
 Only half-orcs may select one of these traits.
@@ -169,6 +179,8 @@ Only half-orcs may select one of these traits.
 **Finish the Fight** (raised in orc society): You're at the bottom of the pecking order, so when you challenge that order, your victory must be absolute. You gain a +1 trait bonus on attack rolls against opponents you already injured in the past 24 hours.
 
 **Caravan Drover**: With your hand on the lash, your caravans always arrive on time. You treat whips as martial weapons, and up to 10 animals and humanoids traveling with you can hustle or make a forced march for 1 hour longer than normal before taking nonlethal damage and becoming fatigued.
+
+**Irritable Diplomat**: Most people expect half-orcs to be savage and violent, and you're used to working a little harder to overcome their assumptions. Unfortunately, you're still working on keeping patient when they ignore your efforts. Once per day, you may choose to gain a +5 trait bonus on any Diplomacy check, but if it fails, you take a –2 penalty on all Charisma-based checks for the next 10 minutes.
 
 ## Halfling Traits
 
@@ -259,6 +271,20 @@ Only humans may select one of these traits.
 **Pride of Empire** *(imperial horse-clan humans)*: Your pride is so strong and your confidence so sure that you can shake off magical attempts to shatter your resolve. If you succeed at a Will saving throw against a fear effect that would result in a lesser effect on a successful save (such as causing you to become shaken instead of panicked), you are instead unaffected.
 
 **Thoroughbred** *(imperial horse-clan humans)*: The blood of the early horse tribes is strong in your family. Breeding, riding, selecting, and training the best horses are all part of your legacy, and you know how to pick out the best of the lot when selecting a suitable mount. If you gain a horse as an animal companion or mount as one of your class abilities, its base speed increases by 5 feet and it gains a bonus trick that does not count against the normal limit of tricks known by the animal.
+
+**Storied Scars** *(northern nomadic tribal humans)*: You proudly bear the numerous scars of your life on your body, and each one tells a tale of your experiences. You gain a +1 trait bonus on Diplomacy checks made to interact with other members of your people, and a +1 trait bonus on Intimidate checks when dealing with outsiders.
+
+**Wary of Danger** *(northern nomadic tribal humans)*: Your people are beset on all sides by threats, and you have developed a keen sense for danger. You gain a +2 trait bonus on initiative checks.
+
+**Glint-Tongued** *(seafaring northern humans)*: You have a gift for poetic turns of phrase and vicious streams of insults. You gain a +1 trait bonus on Charisma-based skill checks made to impress or persuade others of your people (or, at the GM's option, other poetically-minded people), and a +2 trait bonus on Intimidate checks.
+
+**Honor-Driven** *(seafaring northern humans)*: Your honor is such a part of you that you can sense it (or its lack) in others. You gain a +1 trait bonus on Sense Motive checks, and Sense Motive is always a class skill for you.
+
+**Spirit Lodge Dreamer** *(arctic coastal humans)*: You have experienced visions of the unseen spirit world, and bear the marks of the spirits upon your flesh. You gain a +1 trait bonus on saves against illusions, and reduce any miss chance you would take from concealment by 10%.
+
+**Witch-Court Scion** *(winter-realm aristocrats)*: You come from a family that commands respect. You gain a +1 trait bonus on Intimidate checks, and Intimidate is always a class skill for you. In addition, you gain a +1 trait bonus on Knowledge (nobility) checks related to the aristocracy of your winter-witch realm.
+
+**Landspeaker** *(arctic hunter-herders)*: You are deeply attuned to the lands your people call home and the spirits that live there. You gain a +1 trait bonus on Survival checks in arctic or cold terrain. In addition, while in such terrain, you may query the spirits of the land once per day to gain a +5 trait bonus on a single skill check to follow tracks, forage, or find shelter.
 
 ## Catfolk Traits
 

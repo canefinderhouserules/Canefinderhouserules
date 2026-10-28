@@ -309,6 +309,7 @@
 - **[Flesh Facade](flesh-facade.md)**: Make an undead look alive
 - **[Fleshcurdle](fleshcurdle.md)**: Mutate limbs to hamper attacks, defense, or movement.
 - **[Flickering Lights](flickering-lights.md)**: Create an area of inconsistent lighting.
+- **[Flurry of Snowballs](flurry-of-snowballs.md)**: Cone of snowballs dealing 4d6 cold damage.
 - **[Force Sword](force-sword.md)**: Create a longsword of pure force.
 - **[Frost Fall](frost-fall.md)**: The area is covered in a chilling frost.
 - **[Full Pouch](full-pouch.md)**: Duplicate an alchemical item as you draw it.
