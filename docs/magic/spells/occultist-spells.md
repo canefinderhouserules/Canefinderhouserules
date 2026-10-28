@@ -365,6 +365,7 @@ Occultists gain access to the following spells, determined by their chosen imple
 - **[Evaluator's Lens](evaluators-lens.md)**: A force lens aids saves against figments and Appraise checks.
 - **[Explosive Runes](explosive-runes.md)**: Deals 6d6 damage when read.
 - **[Fleeting Memory](fleeting-memory.md)**: Target forgets everything that happens while the spell lasts.
+- **[Forced Mutation](forced-mutation.md)**: Twist a creature, imposing penalties and a deformity.
 - **[Full Pouch](full-pouch.md)**: Duplicate an alchemical item as you draw it.
 - **[Geomessage](geomessage.md)**: Leave an invisible message on a surface
 - **[Guardian Monument, Lesser](guardian-monument-lesser.md)**: Humans defending the area gain DR 2/magic.

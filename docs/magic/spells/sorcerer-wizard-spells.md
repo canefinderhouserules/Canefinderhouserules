@@ -176,6 +176,7 @@
 - **[True Skill](true-skill.md)**: Gain an insight bonus on your next check with a chosen skill.
 - **[Undine’s Curse](undine-s-curse.md)**: The target loses its body’s natural ability to breathe automatically.
 - **[Unerring Weapon](unerring-weapon.md)**: Grants a +2 bonus, +1 per four caster levels, on attack rolls to confirm a critical hit.
+- **[Unhallowed Blows](unhallowed-blows.md)**: Give undead a +1 enhancement bonus on one natural attack or unarmed strikes.
 - **[Unseen Servant](unseen-servant.md)**: Invisible force obeys your commands.
 
 **Divination**
@@ -291,6 +292,7 @@
 - **[Diminished Detection](diminished-detection.md)**: Detection spells have half their normal range against you.
 - **[Disrupt Link](disrupt-link.md)**: Sever the link between a creature and her companion or familiar.
 - **[Dragon Voice](dragon-voice.md)**: +6 on Charisma checks with dragons; louder voice.
+- **[Drain Construct](drain-construct.md)**: Strip a construct of DR, fast healing, speed, and Strength.
 - **[Dress Corpse](dress-corpse.md)**: Doctor the evidence on a corpse.
 - **[Eldritch Conduit](eldritch-conduit.md)**: Use an enemy as the origin point of an area spell.
 - **[Endure Elements, Communal](endure-elements-communal.md)**: As endure elements, but you may divide the duration among creatures touched.
@@ -326,6 +328,7 @@
 - **[Ice Slick](ice-slick.md)**: Coat the area in slippery ice and cold damage
 - **[Identifier's Eye](identifiers-eye.md)**: Detect magic and +5 on Spellcraft to identify items.
 - **[Imbue with Elemental Might](imbue-with-elemental-might.md)**: School evocation [see text]; Level cleric 2, magus 2, sorcerer/wizard 2 Components V, S Duration 24 hours or.
+- **[Influence Wild Magic](influence-wild-magic.md)**: Roll twice on wild magic effects and choose.
 - **[Instant Weapon](instant-weapon.md)**: Create a masterwork melee weapon of force.
 - **[Jitterbugs](jitterbugs.md)**: School illusion (figment) [mind-affecting]; Level bard 1, sorcerer/wizard 2 Casting Time 1 standard action.
 - **[Kinetic Reverberation](kinetic-reverberation.md)**: Channels the force of an enemy’s attack back into its weapon.
@@ -552,6 +555,7 @@
 - **[Firestream](firestream.md)**: A rushing stream of fire sprays from your outstretched hand, dealing 2d6 points of fire damage to every.
 - **[Flash Fire](flash-fire.md)**: Ammunition in the targeted firearm creates a tremendous flash capable of blinding the weapon’s bearer and those around him.
 - **[Force Anchor](force-anchor.md)**: Force anchor hinders a target's movement
+- **[Forced Mutation](forced-mutation.md)**: Twist a creature, imposing penalties and a deformity.
 - **[Fractions of Heal and Harm](fractions-of-heal-and-harm.md)**: Convert 25% of your next area damage spell into healing.
 - **[Gilded Whispers](gilded-whispers.md)**: Use a coin as a scrying target.
 - **[Glimpse the Hidden](glimpse-the-hidden.md)**: As *see invisibility*, but cannot be made permanent.
@@ -686,10 +690,12 @@
 - **[Toxic Rupture](toxic-rupture.md)**: A poisonous creature is poisoned by its own venom.
 - **[Trial of Fire and Acid](trial-of-fire-and-acid.md)**: Cover a creature in burning acid
 - **[Twisted Innards](twisted-innards.md)**: Crits and sneak attacks may fail.
+- **[Unhallowed Blows, Greater](unhallowed-blows-greater.md)**: As unhallowed blows, with a larger bonus and longer duration.
 - **[Unseen Engineers](unseen-engineers.md)**: Invisible engineers build a mechanical trap.
 - **[Urban Step](urban-step.md)**: Step into one doorway and out another.
 - **[Vampiric Hunger](vampiric-hunger.md)**: Target drains blood while pinning to heal or gain temporary hit points.
 - **[Vengeful Comets](vengeful-comets.md)**: Orbiting comets protect from fire and retaliate against casters.
+- **[Violent Misfire](violent-misfire.md)**: Force a firearm to misfire violently.
 - **[Virulent Miasma](virulent-miasma.md)**: Create a fog that weakens resistance to disease
 - **[Voluminous Vocabulary](voluminous-vocabulary.md)**: Grant ability to speak, read, and write one or more languages for 8 hours.
 - **[Wall of Mist](wall-of-mist.md)**: Wall of fog granting concealment and hindering movement.
@@ -732,6 +738,7 @@
 **Abjuration**
 
 - **[Absorb Rune I](absorb-rune-i.md)**: Absorb a magical rune and move it elsewhere.
+- **[Absorbing Barrier](absorbing-barrier.md)**: Ward an area with DR 20/magic against ranged weapons.
 - **[Absorbing Inhalation](absorbing-inhalation.md)**: You grant your lungs inhuman strength and capacity, allowing you to harmlessly and completely inhale one gas.
 - **[Akashic Communion](akashic-communion.md)**: Many Knowledge checks with +10 insight.
 - **[Amnesia](amnesia.md)**: Strip a target of its memories, skills and class abilities
@@ -1209,6 +1216,7 @@
 - **[Transfiguring Touch](transfiguring-touch.md)**: Convert an object into iron, paper, or wood.
 - **[Treacherous Teleport](treacherous-teleport.md)**: As *teleport*, except you choose some creatures to suffer a mishap or go elsewhere.
 - **[Triggered Hallucination](triggered-hallucination.md)**: As *scripted hallucination*, but it only appears when triggered.
+- **[Violent Misfire, Mass](violent-misfire-mass.md)**: As violent misfire, on many firearms.
 - **[Wall of Iron](wall-of-iron.md)**: 30 hp/four levels; can topple onto foes.
 
 **Divination**

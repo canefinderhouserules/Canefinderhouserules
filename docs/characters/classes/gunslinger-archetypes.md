@@ -323,3 +323,23 @@ These long-shot artists are masters at taking down dragons with sharp shooting a
 **Heavy Gunner (Ex)**: Starting at 5th level, a wyrm sniper may select one specific type of light siege weapon (such as a ballista or light bombard) in place of a specific type of firearm as part of her gun training class ability. Every 4 levels thereafter (9th, 13th, and 17th), when she can pick a new type of firearm for the gun training class ability, the gunslinger may again select another type of light siege engine.
 
 **Master Siege Engineer (Ex)**: At 12th level, a wyrm sniper may select the Master Siege Engineer combat feat as her bonus feat, even if she does not meet the feat's prerequisites.
+
+## Scatter Gunner
+
+Punishing firearms such as the blunderbuss and dragon pistol can lay waste to invaders in tight corridors, and dwarven strongholds have pioneered masterful methods for making the most of these indiscriminate weapons.
+
+**Scatter Specialist**: A scatter gunner must take a blunderbuss or dragon pistol when he chooses a battered firearm at 1st level. This alters gunsmith.
+
+**Deeds**: A scatter gunner gains the following deeds, each of which functions only when he uses a weapon with the scatter weapon quality to make a scattering shot.
+
+*Careful Shot (Ex)*: As long as a scatter gunner has at least 1 grit point when making a scattering shot, he takes a penalty equal to his Wisdom modifier on his attack rolls against any allies in the area. He can spend 1 grit point when making a scattering shot to automatically miss a number of creatures equal to his Wisdom modifier. This replaces the deadeye deed.
+
+*Scatter Artist (Ex)*: At 3rd level, when using a firearm to make a scattering shot, a scatter gunner can spend 1 grit point to add one of the following effects to his attack. This replaces the utility shot deed.
+
+- **Restricted Barrel**: The scattering shot attacks all creatures in a line rather than in a cone. The line's length is twice the length of the weapon's cone (30 feet for most early firearms).
+- **Shaped Blast**: Select one additional square adjacent to the scattering shot's area of effect; creatures in this square are also affected by the scattering shot.
+- **Vortex**: The firearm releases an explosive torrent of air in the scattering shot's affected area for 1 round, creating a strong wind effect (25 mph) that can disperse fog and smoke effects such as those created by *fog cloud*.
+
+*Overload (Ex)*: At 7th level, a scatter gunner knows just how to hold his weapon to maximize its devastating scattering effects. As a full-round action, a scatter gunner can make a scattering shot to fire a concentrated payload of pellets that strains his firearm. This doubles the area affected by the scattering shot (a 30-foot cone for most early firearms), increases the firearm's misfire value by 2, and causes each successful attack to deal an additional 1d6 points of damage that is not multiplied on a critical hit. This additional damage increases to 2d6 at 13th level and 3d6 at 19th level. The scatter gunner must spend 1 grit point to perform this deed. This replaces the dead shot deed.
+
+*Satchel Shot (Ex)*: At 7th level, as a full-round action, a scatter gunner can load and fire an explosive shell, consuming ammunition as though he had made a scattering shot. This functions like throwing a splash weapon at a grid intersection but uses his firearm's range increment, attack bonus, and magic special abilities (if any). The shell affects creatures in a 10-foot radius as though the scatter gunner had made a scattering shot against them, and damaged creatures must succeed at a Reflex save (DC = 10 + half the scatter gunner's level + the scatter gunner's Dexterity modifier) or catch fire. This replaces the targeting deed.

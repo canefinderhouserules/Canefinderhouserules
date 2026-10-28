@@ -351,3 +351,21 @@ Originally trained and employed by enforcers seeking to defend a godless nation 
 *Improved Spirit Sense*: A spiritslayer who selects this talent gains Improved Blind-Fight as a bonus feat, ignoring its prerequisites. In addition, he adds 1/2 his slayer level on Perception checks to pinpoint the location of an invisible creature. He can use Perception to pinpoint the location of an ethereal creature, but he doesn't gain this bonus on Perception checks when doing so. A spiritslayer must be at least 6th level before selecting this talent.
 
 **Ghost Slayer (Ex)**: At 7th level, whenever a spiritslayer makes an outsider or undead creature with the incorporeal subtype his studied target, his attacks count as magic for the purpose of striking that creature (though this doesn't give his attacks an enhancement bonus) and he can deal precision-based damage to such creatures (though his precision damage is reduced by 50% unless he has a means to bypass the creature's reduction in damage from corporeal sources, such as a *ghost touch* weapon). At 14th level, the spiritslayer's attacks against outsiders or undead creatures with the incorporeal subtype ignore the 50% reduction in damage from magical corporeal sources that such creatures have and can deal precision-based damage to incorporeal creatures. This ability replaces stalker.
+
+## Toxic Sniper
+
+Followers of a demonic harbinger of gunpowder and poisonous metals hide throughout the magic-ravaged wastes, scavenging for guns. With significant firepower in hand, these snipers bring poisonous death to the wastes.
+
+**Weapon and Armor Proficiency**: A toxic sniper is proficient with all simple weapons and firearms. He is proficient with light armor. This alters the toxic sniper's weapon and armor proficiency.
+
+**Scrapper's Gun**: A toxic sniper gains the Gunsmithing feat, a battered gun identical to that gained by a 1st-level gunslinger, and the ability to restore his battered gun as if he were a gunslinger. This replaces track.
+
+**Sharpshooter's Study (Ex)**: A toxic sniper's focus makes him extremely deadly with ranged weapons. He gains a bonus on attack and damage rolls against his studied target only when attacking with a ranged weapon. This alters studied target.
+
+**Toxic Grit (Ex)**: At 2nd level, the toxic sniper gains the Amateur Gunslinger feat as a bonus feat. This replaces the slayer talent gained at 2nd level.
+
+**Toxic Shots (Ex)**: At 4th level, a toxic sniper can coat his ammunition in poison without requiring a pitted bullet. He is trained in applying poison in this way and cannot accidentally poison himself when applying poison to his ammunition. The toxic sniper can create a number of toxic shots per day equal to half his slayer level plus his Wisdom modifier. The penetrating nature of a toxic shot increases the DC of any poisons applied in this way by 2. A toxic sniper cannot create a toxic shot that is part of an alchemical cartridge. This replaces the slayer talent gained at 4th level.
+
+**Marksman (Ex)**: At 6th level, a toxic sniper reduces the penalty on Stealth checks while sniping by 5. He reduces the penalty by 5 again at 12th level and at 18th level. At 8th level, he increases the distance from which he can deliver a ranged sneak attack against his studied target by 10 feet. This increases by 10 feet again at 14th level and at 20th level. This replaces slayer talents gained at 6th, 8th, 12th, 14th, 16th, 18th, and 20th levels.
+
+**Precise Toxin (Ex)**: At 10th level, a toxic sniper can deliver a toxic shot to especially vulnerable areas. When he hits an opponent with a toxic shot and deals sneak attack damage, he can forgo all his bonus damage to increase the DC of his toxic shot's poison. The DC increases by 1 for every 2d6 points of sneak attack damage he forgoes in this way. This replaces the slayer talent gained at 10th level.

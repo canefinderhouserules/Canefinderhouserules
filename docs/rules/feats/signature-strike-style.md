@@ -1,0 +1,11 @@
+# Signature Strike Style
+
+*(Combat, Style)*
+
+Your accuracy when attacking is both delightfully artistic and chillingly deadly.
+
+**Prerequisites**: Precise Shot; Weapon Focus; base attack bonus +7; Intimidate 7 ranks; Improved Called Shot, targeted strike swashbuckler deed, or targeting gunslinger deed.
+
+**Benefit**: Each creature you hit using a called shot, the targeted strike swashbuckler deed, or the targeting gunslinger deed must succeed at a Will save or be shaken for 1d3 rounds (DC = 10 + half your character level + your Charisma modifier). You must be using this style and attacking with a weapon for which you have Weapon Focus to gain this benefit. This is a fear effect that doesn't stack with itself or with other fear effects. If a creature is already shaken and you make it shaken using this feat, the duration of the shaken condition is merely extended.
+
+If this attack deals damage, you can also have the injury leave a distinctive mark, such as a letter, shape, or other simple symbol. This mark heals naturally and disappears once the target has healed the damage dealt by your attack. As a free action after the attack, you can spend 1 grit point or 1 panache point to make the mark heal as a permanent scar unless the target succeeds at a Fortitude save (DC = 10 + half your character level + your Charisma modifier). You gain a +2 bonus on Perception checks to see through the disguises of creatures that bear your mark.

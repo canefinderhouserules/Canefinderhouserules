@@ -317,6 +317,14 @@ The following social and vigilante talents can be chosen by any vigilante, but a
 
 **Whip of Vengeance (Ex)**: The vigilante gains Whip Mastery as a bonus feat. If he already has the Whip Mastery feat, he can immediately swap it for another feat he qualified for at the level when he chose Whip Mastery. In addition, if he is at least 6th level, he also gains the Improved Whip Mastery feat. He treats his vigilante level as his vigilante base attack bonus for the purpose of meeting prerequisites of feats and abilities that have Whip Mastery as a prerequisite.
 
+**Aquatic Action (Ex)**: The vigilante uses weapons, natural weapons, and unarmed strikes in aquatic environments as though under the effect of *freedom of movement*, including when making melee attacks against targets in the water while the vigilante is on land. The vigilante ignores limitations and penalties on ranged attacks, including thrown weapons, imposed by being underwater for the first 15 feet. A vigilante must be at least 8th level to select this talent.
+
+**Gator Wrangle (Ex)**: The vigilante gains a +8 bonus to his CMD against grapple combat maneuvers when using the grab ability, and he halves all damage from constrict attacks. When attacking a creature that is grappling him, an avenger vigilante deals an additional amount of damage equal to half his vigilante level.
+
+**Swamp Concoctions (Ex)**: Twice per day as a full-round action, the vigilante can use the environment weapon vigilante talent to improvise an alchemical weapon worth no more than 15 gp per vigilante level. This improvised weapon cannot be sold and must be used within 3 rounds before it becomes inert. The vigilante gains the benefits of the Throw Anything feat for the purpose of these improvised weapons. This ability cannot create improvised weapons that incorporate special materials unless those materials are also present. To select this talent, the vigilante must have the environment weapon vigilante talent, and he must have selected jungle, swamp, or water for that talent.
+
+**Vortex Splash (Ex)**: When in rain or waist deep in water, the vigilante can make a whirling splash as a full-round action, allowing him to attempt a single dirty trick combat maneuver or feint against each adjacent foe. The vigilante can make a separate choice for each target.
+
 ### Social Talents
 
 **Coded Innuendo (Ex)**: A vigilante with this talent has learned to pass secret messages more efficiently by observing the coded messages of a secret organization. He can pass a secret message with Bluff in the same amount of time it would normally take to convey the message without encryption. The words and meaning of his secret messages cannot be gleaned from him or those he directly delivered the message to by divinations unless the caster succeeds at a caster level check (DC = 15 + the vigilante’s level).

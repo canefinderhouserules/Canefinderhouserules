@@ -363,3 +363,19 @@ In young nations of changing politics, politicos argue endlessly over how best t
 **Rogue Talents (Ex)**: At 7th level, the red tongue learns a rogue talent of his choice, treating his skald level as his rogue level. He cannot select a talent that requires or modifies a class feature he does not have (such as sneak attack), and he must meet all other prerequisites. For every 5 skald levels beyond 7th, he gains a new rogue talent. This ability replaces the versatile performance selections normally gained at 7th, 12th, and 17th levels.
 
 **Duplicitous Rhetoric (Su)**: At 7th level, when a red tongue begins a raging song, he can select a single rogue talent he knows and grant it to all creatures under the influence of his inspired rage. If a rogue talent is limited to a certain number of uses per day, each creature affected is limited to a single use and cannot gain additional uses from a raging song for 24 hours, even if the red tongue ends his raging song and starts again.
+
+## Undying Word
+
+Some who have survived a magical wasteland cannot accept defeat, and those who have learned to speak the undying word can lend others the strength to endure.
+
+**Bonus Feat**: At 1st level and every 6 skald levels thereafter, an undying word gains a bonus feat in addition to those gained from normal advancement. He must meet the prerequisites for the feat, and it must include Endurance as a prerequisite or be selected from the following list: Endurance, Great Fortitude, or Improved Great Fortitude. This replaces scribe scroll and lore master.
+
+**Undying Song (Su)**: An undying word gains the following raging songs, granting his allies the ability to withstand punishment.
+
+*Inspire Resilience (Su)*: At 1st level, the undying word can grant his companions supernatural endurance. This functions as inspired rage, but it grants neither a bonus to his allies' Strength nor a –1 penalty to their AC. This raging song replaces inspired rage.
+
+*Song of Defiance (Su)*: At 6th level, an undying word can shield his allies against the environment. By expending 1 round of raging song, the undying word grants all allies within 60 feet the effects of *endure elements* for the next hour. The undying word must continue to perform for the remainder of the hour; otherwise its effects end, but only 1 round of raging song is expended for that hour. This raging song replaces song of strength.
+
+*Dirge of Determination (Su)*: At 10th level, an undying word can urge his allies within 30 feet to overcome hardships. Affected allies treat ability damage, ability drain, and penalties to ability scores as though each were 2 lower. This reduction increases to 4 at 15th level, and to 6 at 20th level. The undying word can never reduce a penalty below 0 or increase an ability score beyond its original value in this manner. This raging song replaces dirge of doom.
+
+**Endurance Power (Su)**: At 5th level and every 6 skald levels thereafter, an undying word learns an additional rage power that affects him and any allies under the influence of his inspire resilience. This rage power must be selected from the following list: clear mind, energy absorption, energy resistance, flesh wound, greater energy resistance, greater guarded life, guarded life, increased damage reduction, internal fortitude, or superstition. This otherwise functions as the skald's rage powers ability. This replaces spell kenning.

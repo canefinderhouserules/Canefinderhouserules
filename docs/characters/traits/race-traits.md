@@ -30,6 +30,8 @@ Only dwarfs may select one of these traits.
 
 **Zest for Battle**: Your greatest joy is being in the thick of battle, and smiting your enemies for a righteous or even dastardly cause. Whenever you have a morale bonus to weapon attack rolls, you also receive a +1 trait bonus on weapon damage rolls.
 
+**Spellcaster's Anathema**: You see arcane magic as untrustworthy and its use as a calamity waiting to happen. You gain a +1 trait bonus on attack rolls against arcane spellcasters.
+
 ## Elf Traits
 
 Only elfs may select one of these traits.
@@ -358,6 +360,8 @@ Only ratfolk may select one of these traits.
 
 **Business Venturer**: Your mercantile pursuits have made you better traveled than most ratfolk. You gain a +1 trait bonus on Appraise, Knowledge (local), and Profession (merchant) checks, and one of these skills (your choice) is a class skill for you.
 
+**Scamper**: In desperate times, your adrenaline kicks in to help you avoid danger. During the first round of combat in which you can act, you ignore difficult terrain and gain an additional 5 feet of movement. This benefit does not apply when you are carrying a medium or heavier load.
+
 ## Aasimar Traits
 
 **Adrift**: You never felt like you belonged in your family. You were different, an outsider, and you grew up unable to bond with the people around you. Now, as an adult, you are still a little odd and others have a hard time understanding what makes you tick. You receive a +1 trait bonus on saving throws made to resist charm and compulsion effects.
@@ -421,6 +425,8 @@ Only tieflings may select one of these traits.
 **Underling**: People tend to assume you either are, or are willing to become, a minor cog in some evil cabal or conspiracy. You gain a +2 trait bonus on Bluff and Diplomacy checks made to either join or imply that you already belong to an evil organization.
 
 **Tempter's Tongue**: The blood of crafty, bargain-making fiends runs in your veins, and you have a talent for brokering deals of your own. You gain a +1 trait bonus on Diplomacy checks and on opposed Charisma checks to influence creatures you have charmed (such as with *charm person*).
+
+**Neutralizing Gut**: Your fiendish heritage has made you more resilient to the many poisonous threats in wastelands. You gain a +2 trait bonus on saving throws against contact and inhaled poisons, and a +3 trait bonus on saving throws against ingested poisons.
 
 ## Ifrit Traits
 

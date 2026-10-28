@@ -236,6 +236,7 @@
 - **[Hypnotic Pattern](hypnotic-pattern.md)**: Fascinates (2d4 + level) HD of creatures.
 - **[Identifier's Eye](identifiers-eye.md)**: Detect magic and +5 on Spellcraft to identify items.
 - **[Ignoble Form](ignoble-form.md)**: a drow takes on a half-elf's form
+- **[Influence Wild Magic](influence-wild-magic.md)**: Roll twice on wild magic effects and choose.
 - **[Instant Weapon](instant-weapon.md)**: Create a masterwork melee weapon of force.
 - **[Invisibility](invisibility.md)**: Subject is invisible for 1 min./level or until it attacks.
 - **[Jealous Rage](jealous-rage.md)**: Target attacks anyone who receives a benefit it does not.

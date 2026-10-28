@@ -167,6 +167,7 @@ New alchemist spells from *Ultimate Magic* and *Ultimate Combat*. Spells from ot
 
 ## 4th-Level Alchemist Spells
 
+- **[Absorbing Barrier](absorbing-barrier.md)**: Ward an area with DR 20/magic against ranged weapons.
 - **[Absorbing Inhalation](absorbing-inhalation.md)**: You grant your lungs inhuman strength and capacity, allowing you to harmlessly and completely inhale one gas.
 - **[Age Resistance](age-resistance.md)**: Ignore penalties from old age.
 - **[Assume Appearance, Greater](assume-appearance-greater.md)**: Use a likeness to adopt a dead creature’s form.

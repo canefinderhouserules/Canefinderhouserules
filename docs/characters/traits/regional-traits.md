@@ -68,6 +68,44 @@ Regional traits are tied to particular regions. To select one, your character mu
 
 **Solidarity** *(efreet city)*: While enslaved in a city of the efreet, you watched too many of your friends fall victim to efreet tempers. Now, you help others avoid thorny situations whenever you are able. Any time you successfully use the aid another action to help an ally succeed at a Bluff or Escape Artist check, you add a +3 bonus to this check (rather than a +2 bonus).
 
+## Wasteland Traits
+
+The following traits suit characters who hail from, or have spent years surviving in, blighted, Abyssal, magic-ravaged, desert, or waterlogged wastelands.
+
+**Ash Bane** *(Regional; wastelands)*: You have built up a resistance to the diseases that ash giants and their vermin guardians carry. You gain a +2 trait bonus on Fortitude saving throws to resist the disease abilities of ash giants and creatures with the vermin type. In addition, you gain a +1 trait bonus on melee attack rolls against vermin.
+
+**Blight's Bane** *(Combat)*: You are trained in the destruction of blights. You gain a +2 trait bonus to confirm critical hits against a creature that has a template affiliated with some kind of communicable condition, such as blighted fey or a fungal creature.
+
+**Blightmarsh Guerrilla** *(Regional; blighted swamp borderlands)*: Your campaign against a demon lord's corruption has endeared you to the region's rangers, who have taught you their ways. When you gain this trait, select one ranger trap that doesn't deal ability or hit point damage. You can use this trap once per day within a forest. The DC for your trap is equal to 10 + half your character level + your Wisdom modifier (minimum +0), and it lasts for 1 day. If you are not a ranger, you can set only extraordinary traps with this trait; like all extraordinary ranger traps, this decreases the trap DC by 2.
+
+**Clockwork Engineer** *(Combat)*: You have experience with the ancient clockwork constructs that roam certain wastelands, and this has granted you an understanding of these guardians. You gain a +2 trait bonus on damage rolls against creatures with the clockwork subtype.
+
+**Demonblight Resistance** *(Magic)*: Your exposure to powerful energies instilled in you a supernatural resistance to diseases, particularly those of a demonic bent. You gain a +3 trait bonus on saving throws against diseases you are exposed to while fighting one or more creatures of the demon subtype, or while such a hostile creature is within 100 feet.
+
+**Dormant Defense** *(Combat; six-armed wasteland healers)*: Your body never lets down its defenses, even when you rest. The DC for Perception checks you attempt while asleep increases only by 7 (instead of the normal +10 increase). While you are dazed, stunned, or helpless, each critical hit or sneak attack scored against you has a 25% chance of being negated; when a critical hit or sneak attack is negated, roll its damage normally. This doesn't stack with the *fortification* armor special ability and similar effects.
+
+**Forest Blight Survivor** *(Regional; blighted forest)*: Your woodland home struggles against a tenacious blight, forcing you to steel yourself against its poisonous influence. You gain a +2 trait bonus on Fortitude saving throws against diseases and poisons inflicted by fey, plants, and forest-related hazards.
+
+**Gunsmith Engineer** *(Regional; gunsmith cities)*: Your extensive experience with firearms allows you to get the most out of those unique weapons. When you're wielding a broken early firearm, the amount your misfire value increases by is reduced by 1.
+
+**Lamia's Bane** *(Magic)*: You have been exposed to the magical energies of lamias in your past, or you have heard innumerable stories about your family's dealings with lamias, and you have built up a resistance to their charms. You gain a +1 trait bonus on saving throws against enchantment effects and a +2 trait bonus on saving throws against the spells and spell-like abilities of lamias.
+
+**Ogre Avoidance** *(Combat)*: You have practiced defensive maneuvers to avoid being caught by ogres, whose grasps you know are tight and unforgiving. You gain a +2 trait bonus to CMD against bull rush and grapple combat maneuvers.
+
+**Pack Savvy** *(Social)*: You have learned how to gain the respect of gnolls in your region, and you know something of their social structure. You gain a +3 trait bonus on Charisma-based skill checks when dealing with gnolls.
+
+**Sodden Child** *(Regional; flooded lands)*: You spent most of your life moving through murky bogs and have grown acclimated to the terrain. You move normally through shallow bogs (as long as the terrain hasn't been magically manipulated) but are still affected by deep bogs as normal.
+
+**Twisted Tattoo** *(Magic; mutant runic-tattoo clan)*: Your exposure to eldritch phenomena has caused your skin to develop a strange pattern. Once per day as you cast a spell whose casting time is 1 round or less, you can roll 1d4–2 (no minimum) and add the result to that spell's effective caster level. In an area of primal magic, the minimum result of this roll is 0, not –1.
+
+**Undergrowth Specialist** *(Combat)*: You've trained yourself to move in and out of undergrowth with ease. The DCs of Acrobatics checks don't increase for you when you're moving through light undergrowth, and the DCs of Acrobatics checks you attempt while you're moving through heavy undergrowth increase only by 2.
+
+**Venom Resistance** *(Combat)*: You have spent considerable time in arid wastelands where girtablilus and other venomous creatures are common, and you have built up a resistance to poison. You gain a +2 trait bonus on Fortitude saving throws against poison, and once per day when attempting a saving throw to resist girtablilu poison, you can roll twice and take the higher result.
+
+**Volatile Fuse** *(Combat; mutant goblin raiders)*: Firearms you wield are especially dangerous to you and everyone nearby. Whenever a firearm you wield misfires or explodes, roll a d%. On a result of 1–25, the misfire or explosion is delayed; reroll the attack with a –5 penalty (penalties from the broken condition are not applied to this reroll, and a firearm that was already broken does not explode). After the reroll is resolved, apply the effects of the misfire or explosion as normal. (If the d% roll result is 26 or higher, the misfire or explosion happens as normal.) Whenever a firearm you wield explodes due to a misfire, increase the explosion's damage by 1d6 plus 1d6 for every 4 character levels you have.
+
+**Wasteland Vagrant** *(Social)*: You have spent most of your life learning how to survive in wastelands, and a lack of normal survival resources apparent in the environment is not a problem for you. When you gain this trait, pick one type of wasteland from the following list: blighted, Abyssal, desert, or waterlogged. You gain a +2 trait bonus on Survival checks in that type of wasteland terrain. (The GM determines whether terrain falls into the chosen type of wasteland.) Once you choose a type of wasteland terrain to gain this benefit in, you cannot change it later.
+
 ## Brewing and Poisoning Traits
 
 Potions and poisons are common everywhere, but in some regions they are more common or have more of an effect than in others. The following regional traits represent characters who grew up in places where potions and poisons were part of daily life.

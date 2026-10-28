@@ -5178,3 +5178,107 @@ This intricate tattoo covers the bearer's face in thousands of hair-fine lines o
 The material components for the *kin's face tattoo* include rare pigments that are mixed with the bearer's blood, then worked into the bearer's skin. To remove this tattoo, the tattooed portions must be erased and the scars healed.
 
 **Construction Requirements:** Inscribe Magical Tattoo, *disguise self*; **Cost** 800 gp
+
+## Wasteland Items
+
+### Anthill Boots
+
+**Slot** feet; **CL** 13th; **Price** 12,500 gp; **Weight** 2 lbs.
+
+**Aura** moderate conjuration
+
+Ants occasionally crawl in and out of the numerous tiny holes dotting these sturdy, thick-soled boots. The boots' wearer receives a +4 competence bonus on Fortitude saving throws against swarms' distraction ability. Additionally, once per day, the wearer can call forth a swarm of army ants as a standard action. This functions as the spell *vomit swarm*, except the swarm crawls out from the boots instead of being vomited forth. The swarm lasts for 13 rounds before dissipating.
+
+**Construction Requirements:** Craft Wondrous Item, *vomit swarm*; **Cost** 6,250 gp
+
+### Beast Talisman
+
+**Slot** neck; **CL** 5th; **Price** 18,900 gp; **Weight** —
+
+**Aura** faint transmutation
+
+Carved to resemble a predatory animal, this small charm hangs from a leather cord. While assuming the form of an animal (such as when using the wild shape class feature or when under the effects of a *beast shape* spell), its wearer can expend one prepared spell or spell slot of up to 4th level as a standard action (0-level spells cannot be expended in this way). When the wielder does so, she gains an enhancement bonus on all of her natural weapons equal to twice the level of the spell or spell slot expended. This enhancement bonus applies to attack and damage rolls made with the natural weapons and lasts for 5 minutes. The bonus does not allow the wielder's natural weapons to bypass damage reduction, except for DR/magic.
+
+**Construction Requirements:** Craft Wondrous Item, *greater magic fang*; **Cost** 9,450 gp
+
+### Bracers of Primal Mastery
+
+**Slot** wrists; **CL** 5th; **Price** 30,000 gp; **Weight** 1 lb.
+
+**Aura** faint abjuration
+
+Seven mithral strips weave their way around these steel bracers, which thrum ever so faintly with the force of stabilizing magic. When the wearer activates a magic item, casts a spell, or uses a spell-like ability that triggers a primal magic event, the resulting event is rolled (or otherwise determined) twice, and the caster can choose which of the two events occur. The bracers also allow the wearer to roll twice and choose the result when using a *rod of wonder*.
+
+**Construction Requirements:** Craft Wondrous Item, *dispel magic*; **Cost** 15,000 gp
+
+### Grasping Cloak
+
+**Slot** shoulders; **CL** 3rd; **Price** 3,000 gp; **Weight** 1 lb.
+
+**Aura** faint transmutation
+
+The long, threadbare tatters of this well-worn cloak coalesce into the rough form of a claw with opposable appendages, aiding the wearer with a helpful additional appendage when he might need it most. As a swift action, the wearer can use the cloak to retrieve any one small, stowed item carried on his person or any such unattended item within 5 feet. The wearer can hold one such item in the cloak, but he can't use the cloak to manipulate it (other than to put it in his hand) and can't wield a weapon or shield with the cloak. Additionally, once per day, the wearer can brace himself with the cloak's claw as a standard action, gaining a +4 competence bonus to CMD for 1 round. While the cloak is providing this bonus, it can't be used to hold or retrieve a stowed or unattended item.
+
+**Construction Requirements:** Craft Wondrous Item, *mage hand*; **Cost** 1,500 gp
+
+### Medallion of Demonic Disruption
+
+**Slot** neck; **CL** 7th; **Price** 32,000 gp; **Weight** 1 lb.
+
+**Aura** moderate abjuration
+
+Meant to be worn around the neck, this medallion made of braided, blue-tinged white gold hangs from a silver chain. When a creature with the demon subtype uses its summoning ability within 100 feet of the medallion's wearer, it must attempt a concentration check with a DC equal to 15 + double the level of its summon ability. If the summoner fails this concentration check, none of the summoned creatures appear, and the use of the demon's summon ability is wasted. On a successful concentration check, the number of creatures that the demon summons (if any) is reduced to 1.
+
+**Construction Requirements:** Craft Wondrous Item, *dimensional anchor*; **Cost** 16,000 gp
+
+### Nail of Blood
+
+**Slot** special; see below; **CL** 7th; **Price** 25,000 gp; **Weight** —
+
+**Aura** moderate necromancy
+
+Inscribed along its length with wicked-looking runes, this 3-inch-long nail is made of black metal and gives off a faint, eerie blue glow. Powered by strange necromantic magic, the nail allows a spellcaster to cast spells within a magic dead zone by drawing on the caster's life force to power her magic. To be effective, the nail must be placed alongside the flesh in an empty magic item slot (excluding eyes, head, and headband). In a process that takes 1 round, the nail melts painlessly into the wielder's flesh before taking effect (removing the nail is also painless and takes 1 round).
+
+Once the nail is in place, its wielder can cast within a magic dead zone up to one spell of each spell level she knows or has prepared and could normally cast. If she wishes to cast additional spells in the magic dead zone, she can do so up to her normal limit, but each additional spell she thus casts causes her to become fatigued and requires a successful concentration check (DC = 15 + the spell's level) or the spell fizzles. If the nail of blood would cause the wielder to be fatigued when she already has the fatigued condition, she becomes exhausted. She can't use the nail of blood to cast additional spells while she is exhausted, no matter what effect caused her exhausted condition.
+
+**Construction Requirements:** Craft Wondrous Item, *blood transcription*; **Cost** 12,500 gp
+
+### Primal Dowser
+
+**Slot** none; **CL** 3rd; **Price** 1,800 gp; **Weight** 1 lb.
+
+**Aura** faint divination
+
+This triangular-shaped rod is made from metal tubes and is small enough to fit into a pocket or a pouch. One tube on the item is inlaid with a line of small emeralds, and the other is inlaid with a line of small sapphires. A primal dowser can be activated as a standard action to detect and identify the presence of variant magic within 60 feet for up to 10 minutes per day. In or near an area of primal or wild magic, the emeralds glow, and in or near magic dead zones, the sapphires glow. This item's duration need not be used all at once, but it must be used in 1-minute intervals.
+
+**Construction Requirements:** Craft Wondrous Item, *detect magic*; **Cost** 900 gp
+
+### Vermin Mask
+
+**Slot** head; **CL** 7th; **Price** 10,080 gp; **Weight** 1 lb.
+
+**Aura** moderate transmutation
+
+These stylized wooden masks are carved to resemble a common type of wasteland vermin, such as a giant ant, scorpion, or spider. While using wild shape or a *vermin shape* spell to assume the form of a vermin that corresponds with the mask's design, the wearer gains the following benefits. First, the wearer can speak normally despite the limitations of the form's anatomy. Furthermore, the effect of the wearer's wild shape ability (if any) lasts for 3 additional hours, and when the wearer is under the effects of a *vermin shape* spell, the spell lasts for 7 additional minutes.
+
+**Construction Requirements:** Craft Wondrous Item, wild shape class feature, *vermin shape I*; **Cost** 5,040 gp
+
+### Wand Protector
+
+**Slot** none; **CL** 5th; **Price** 18,500 gp; **Weight** —
+
+**Aura** faint abjuration
+
+This lacquered wooden tube is designed to protect a wand during transportation. When held in an off hand, the wielder can safely cast spells from her wand without chance of incurring a primal magic event. A wand protector can be used only in conjunction with wands casting spells that require a standard action or shorter. Once the wand protector has prevented 10 primal magic events, it crumbles into dust.
+
+**Construction Requirements:** Craft Wondrous Item, *dispel magic*; **Cost** 9,250 gp
+
+### Wheel of Survival
+
+**Slot** none; **CL** 3rd; **Price** 1,800 gp; **Weight** 1 lb.
+
+**Aura** faint divination
+
+This 4-inch wooden wheel is small enough to fit into a pocket or a pouch. By rolling the wheel on the ground (this requires a standard action to activate the item), the wheel begins rolling toward the nearest body of clean, potable water with enough liquid for the wielder to quench her thirst. Alternatively, the wheel rolls toward the nearest normal magic area if the wielder is in an area of primal magic, a magic dead zone, or another variant type of magic. (If necessary, the wielder must specify whether the wheel should seek water or normal magic when she activates the item.) The wheel can roll for up to 10 minutes per day until it leaves the region of variant magic, it reaches the body of water, or the wielder instructs it to stop (a free action). This item's duration need not be used all at once, but it must be used in 1-minute intervals. As part of its movement, the wheel can ascend or jump up to 30 feet. A wheel of survival is unaffected by variant magic regions.
+
+**Construction Requirements:** Craft Wondrous Item, *detect magic*; **Cost** 900 gp

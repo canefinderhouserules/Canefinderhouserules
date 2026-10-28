@@ -2283,3 +2283,29 @@ This sparkling, honeydew-colored inhalant gives the user a euphoric sensation th
 This potent performance enhancer is a sweet alchemical elixir with a metallic aftertaste. A single dose loosens the lips and sharpens the wit. More than one begins to mark the user, and frequent use causes the imbiber's gums and tongue to take on a silvery sheen that advertises her habit.
 
 **Effect** 1 hour; +1d2 alchemical bonus to Charisma. **Effect** 1d4 hours; +2 alchemical bonus on saves against mind-affecting effects. **Damage** 1d4 Con damage.
+
+## Wasteland Gunsmith and Miner Gear
+
+### Bore Brush
+
+**Price** 75 gp; **Weight** 1 lb.
+
+This spiraled metal rod has alchemically treated bristles that can be used in the barrel of an early or advanced firearm to liquefy grime and bullet fouling while leaving a thin protective film in the bore. Using this brush is a standard action, and the protective film grants a 5-foot alchemical bonus to the firearm's first range increment and a +1 alchemical bonus on attack rolls. These effects last for 1 hour or until the firearm is fired. A newly crafted bore brush contains 5 applications. Crafting a bore brush requires a successful DC 15 Craft (alchemy) check.
+
+### Firearm Oil
+
+**Price** 260 gp; **Weight** 1 lb.
+
+This clear, viscous oil comes in a squat bottle with a dropper that dispenses one drop of oil at a time. When applied to an early or advanced firearm, it seeps into the weapon's inner workings and protects the gun from powder residue and everyday wear and tear. Applying firearm oil takes 1 minute; once applied, it reduces the misfire value of the firearm by 1 for 1 hour or until the firearm is discharged. Firearm oil can't reduce a firearm's misfire value to lower than 1. A single bottle contains enough oil for 20 applications on one-handed firearms (or 10 applications on two-handed firearms). Crafting firearm oil requires a successful DC 15 Craft (alchemy) check.
+
+### Mineral Acid
+
+**Price** 50 gp; **Weight** 1 lb.
+
+This sealed vial contains a highly potent indigo liquid and is an essential item for miners, who often keep such vials handy for use against hostile subterranean creatures. The vial can be thrown as a splash weapon with a range increment of 10 feet. A direct hit deals 2d6 points of acid damage; this damage is doubled against creatures made of crystal, earth, or metal. Every creature within 5 feet of the impact takes 1 point of acid damage. Crafting mineral acid requires a successful DC 20 Craft (alchemy) check.
+
+### Thunderclap Charge
+
+**Price** 200 gp; **Weight** 10 lbs.
+
+Used by dwarven miners to excavate precious crystals from deep underground, this heavy ceramic canister is packed with inert fibers surrounding a large alchemically infused blackpowder charge with a fuse. Lighting the fuse is a move action; 1d3 rounds after the fuse is lit, the charge explodes, dealing 2d6 points of bludgeoning damage and 2d6 points of sonic damage in a 10-foot-radius burst (Reflex DC 15 half). Creatures in the area of effect are knocked prone and deafened (a successful saving throw negates being knocked prone and reduces the deafened condition to 1 round). Crafting a thunderclap charge requires a successful DC 25 Craft (alchemy) check.

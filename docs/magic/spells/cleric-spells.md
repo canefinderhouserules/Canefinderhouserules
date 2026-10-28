@@ -126,6 +126,7 @@
 - **[Touch of Bloodletting](touch-of-bloodletting.md)**: Wounded target bleeds and is exhausted.
 - **[Tracking Mark](tracking-mark.md)**: Easier to track a target.
 - **[True Appraisal](true-appraisal.md)**: Gain insight into the value of objects
+- **[Unhallowed Blows](unhallowed-blows.md)**: Give undead a +1 enhancement bonus on one natural attack or unarmed strikes.
 - **[Unwelcome Halo](unwelcome-halo.md)**: Target glows, losing concealment.
 - **[Velvet Diplomacy](velvet-diplomacy.md)**: Intimidate a target into friendliness and cloud its memory of the threats.
 - **[Watchful Eye](watchful-eye.md)**: As shield other, with rings and line of effect.
@@ -204,6 +205,7 @@
 - **[Hungering Beacon](hungering-beacon.md)**: Haunt draws the attention of ravenous undead.
 - **[Imbue with Elemental Might](imbue-with-elemental-might.md)**: School evocation [see text]; Level cleric 2, magus 2, sorcerer/wizard 2 Components V, S Duration 24 hours or.
 - **[Inflict Moderate Wounds](inflict-moderate-wounds.md)**: Touch attack, 2d8 damage + 1/level (max +10).
+- **[Influence Wild Magic](influence-wild-magic.md)**: Roll twice on wild magic effects and choose.
 - **[Instant Weapon](instant-weapon.md)**: Create a masterwork melee weapon of force.
 - **[Instrument of Agony](instrument-of-agony.md)**: Weapon exudes divine fury, granting a bonus on Intimidate checks.
 - **[Invigorating Poison](invigorating-poison.md)**: Poison ability damage becomes a bonus instead.
@@ -343,11 +345,13 @@
 - **[False Alibi](false-alibi.md)**: Replace a memory when a trigger occurs.
 - **[Final Sacrifice](final-sacrifice.md)**: Detonate a summoned creature
 - **[Flesh Puppet](flesh-puppet.md)**: Control a zombie in human guise.
+- **[Forced Mutation](forced-mutation.md)**: Twist a creature, imposing penalties and a deformity.
 - **[Fractions of Heal and Harm](fractions-of-heal-and-harm.md)**: Convert 25% of your next area damage spell into healing.
 - **[Free Spirit](free-spirit.md)**: Gain freedom of movement and fear resistance, but be drunk
 - **[Glyph of Warding](glyph-of-warding.md)**: Inscription harms those who pass it.
 - **[Guarding Knowledge](guarding-knowledge.md)**: +4 insight bonus on saves against one identified monster special attack.
 - **[Helping Hand](helping-hand.md)**: Ghostly hand leads subject to you.
+- **[Hide from Undead, Greater](hide-from-undead-greater.md)**: As hide from undead, but not ended by hostile acts.
 - **[Holy Javelin](holy-javelin.md)**: Deal ongoing damage to evil creatures and apply penalties.
 - **[Homeward Bound](homeward-bound.md)**: Return a creature to its home plane
 - **[Horrifying Visage](horrifying-visage.md)**: Haunt gives victims a phobia of a named thing.
@@ -413,6 +417,7 @@
 - **[Transfer Regeneration](transfer-regeneration.md)**: Give your regeneration to another creature
 - **[Trial by Fire](trial-by-fire.md)**: Divine fire punishes targets whose alignment differs from your deity’s.
 - **[Trial of Fire and Acid](trial-of-fire-and-acid.md)**: Cover a creature in burning acid
+- **[Unhallowed Blows, Greater](unhallowed-blows-greater.md)**: As unhallowed blows, with a larger bonus and longer duration.
 - **[Vampiric Hunger](vampiric-hunger.md)**: Target drains blood while pinning to heal or gain temporary hit points.
 - **[Voluminous Vocabulary](voluminous-vocabulary.md)**: Grant ability to speak, read, and write one or more languages for 8 hours.
 - **[Wall of Split Illumination](wall-of-split-illumination.md)**: a wall that is bright on one side and dark on the other

@@ -74,6 +74,7 @@ New inquisitor spells from *Ultimate Magic*. Spells from other books will be add
 - **[Touch of Combustion](touch-of-combustion.md)**: Your successful melee touch attack causes the target to ignite in a violent burst of flame, dealing 1d6.
 - **[True Appraisal](true-appraisal.md)**: Gain insight into the value of objects
 - **[Unerring Weapon](unerring-weapon.md)**: Grants a +2 bonus, +1 per four caster levels, on attack rolls to confirm a critical hit.
+- **[Unhallowed Blows](unhallowed-blows.md)**: Give undead a +1 enhancement bonus on one natural attack or unarmed strikes.
 - **[Velvet Diplomacy](velvet-diplomacy.md)**: Intimidate a target into friendliness and cloud its memory of the threats.
 - **[Vocal Alteration](vocal-alteration.md)**: Disguise target’s voice.
 - **[Wartrain Mount](wartrain-mount.md)**: Animal gains combat training.
@@ -219,10 +220,12 @@ New inquisitor spells from *Ultimate Magic*. Spells from other books will be add
 - **[Fearsome Duplicate](fearsome-duplicate.md)**: School illusion (figment); Level bard 3, inquisitor 3, sorcerer/wizard 3, witch 3 Casting Time 1 standard.
 - **[Find Fault](find-fault.md)**: Learn a creature's weaknesses and gain +5 on your first attack.
 - **[Flexile Curse](flexile-curse.md)**: Curse degrades worn armor and shields.
+- **[Forced Mutation](forced-mutation.md)**: Twist a creature, imposing penalties and a deformity.
 - **[Full Pouch](full-pouch.md)**: Duplicate an alchemical item as you draw it.
 - **[Glimpse the Hidden](glimpse-the-hidden.md)**: As *see invisibility*, but cannot be made permanent.
 - **[Guardian Monument, Lesser](guardian-monument-lesser.md)**: Humans defending the area gain DR 2/magic.
 - **[Gullibility](gullibility.md)**: target believes lies more readily
+- **[Hide from Undead, Greater](hide-from-undead-greater.md)**: As hide from undead, but not ended by hostile acts.
 - **[Holy Javelin](holy-javelin.md)**: Deal ongoing damage to evil creatures and apply penalties.
 - **[Horrifying Visage](horrifying-visage.md)**: Haunt gives victims a phobia of a named thing.
 - **[Improve Trap](improve-trap.md)**: When this spell is cast upon a trap, it improves one specific element of the trap chosen at the time of.
@@ -259,6 +262,7 @@ New inquisitor spells from *Ultimate Magic*. Spells from other books will be add
 - **[Terrible Remorse](terrible-remorse.md)**: Creature is compelled to harm itself.
 - **[They Know](they-know.md)**: Convince target that a nearby creature knows her greatest secret.
 - **[Trial by Fire](trial-by-fire.md)**: Divine fire punishes targets whose alignment differs from your deity’s.
+- **[Unhallowed Blows, Greater](unhallowed-blows-greater.md)**: As unhallowed blows, with a larger bonus and longer duration.
 - **[Unholy Ward](unholy-ward.md)**: Resist 10 damage from holy sources.
 - **[Wall of Split Illumination](wall-of-split-illumination.md)**: a wall that is bright on one side and dark on the other
 - **[Winged Sword](winged-sword.md)**: A melee weapon gains the throwing special ability.

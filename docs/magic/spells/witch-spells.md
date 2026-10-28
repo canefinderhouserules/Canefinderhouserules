@@ -111,6 +111,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Twisted Futures](twisted-futures.md)**: Target can't reroll or pick die results.
 - **[Undine’s Curse](undine-s-curse.md)**: The target loses its body’s natural ability to breathe automatically.
 - **[Unerring Weapon](unerring-weapon.md)**: Grants a +2 bonus, +1 per four caster levels, on attack rolls to confirm a critical hit.
+- **[Unhallowed Blows](unhallowed-blows.md)**: Give undead a +1 enhancement bonus on one natural attack or unarmed strikes.
 - **[Unprepared Combatant](unprepared-combatant.md)**: Target takes –4 on initiative and Reflex saves.
 - **[Urban Grace](urban-grace.md)**: You become one with the city around you, allowing you to move more easily through its crowds and buildings.
 - **[Vocal Alteration](vocal-alteration.md)**: Disguise target’s voice.
@@ -172,6 +173,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Disrupt Link](disrupt-link.md)**: Sever the link between a creature and her companion or familiar.
 - **[Dousing Rain](dousing-rain.md)**: Call a downpour that douses fire
 - **[Dragon Voice](dragon-voice.md)**: +6 on Charisma checks with dragons; louder voice.
+- **[Drain Construct](drain-construct.md)**: Strip a construct of DR, fast healing, speed, and Strength.
 - **[Dress Corpse](dress-corpse.md)**: Doctor the evidence on a corpse.
 - **[Eldritch Conduit](eldritch-conduit.md)**: Use an enemy as the origin point of an area spell.
 - **[Enemy’s Heart](enemy-s-heart.md)**: You cut out an enemy’s heart and consume it, absorbing that enemy’s power as your own.
@@ -193,6 +195,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Hidden Presence](hidden-presence.md)**: Prevent creatures from noticing your presence.
 - **[Ice Slick](ice-slick.md)**: Coat the area in slippery ice and cold damage
 - **[Identifier's Eye](identifiers-eye.md)**: Detect magic and +5 on Spellcraft to identify items.
+- **[Influence Wild Magic](influence-wild-magic.md)**: Roll twice on wild magic effects and choose.
 - **[Ironskin](ironskin.md)**: Harden your skin to iron
 - **[Lay of the Land](lay-of-the-land.md)**: Instantly learn the geography around you.
 - **[Lead Plating](lead-plating.md)**: Sheathe a target in lead to block radiation and divinations.
@@ -315,6 +318,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Fins to Feet](fins-to-feet.md)**: School transmutation (polymorph); Level druid 3, sorcerer/wizard 3, witch 3 Casting Time 1 standard action.
 - **[Flash Fire](flash-fire.md)**: Ammunition in the targeted firearm creates a tremendous flash capable of blinding the weapon’s bearer and those around him.
 - **[Flexile Curse](flexile-curse.md)**: Curse degrades worn armor and shields.
+- **[Forced Mutation](forced-mutation.md)**: Twist a creature, imposing penalties and a deformity.
 - **[Free Spirit](free-spirit.md)**: Gain freedom of movement and fear resistance, but be drunk
 - **[Garrulous Grin](garrulous-grin.md)**: Target seems guilty and takes –4 on Bluff and Diplomacy.
 - **[Glimpse the Hidden](glimpse-the-hidden.md)**: As *see invisibility*, but cannot be made permanent.
@@ -401,6 +405,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Trial of Fire and Acid](trial-of-fire-and-acid.md)**: Cover a creature in burning acid
 - **[Twisted Innards](twisted-innards.md)**: Crits and sneak attacks may fail.
 - **[Unadulterated Loathing](unadulterated-loathing.md)**: Target is compelled to avoid another creature.
+- **[Unhallowed Blows, Greater](unhallowed-blows-greater.md)**: As unhallowed blows, with a larger bonus and longer duration.
 - **[Unseen Engineers](unseen-engineers.md)**: Invisible engineers build a mechanical trap.
 - **[Vampiric Hunger](vampiric-hunger.md)**: Target drains blood while pinning to heal or gain temporary hit points.
 - **[Venomous Promise](venomous-promise.md)**: A secret is guarded by a poison that triggers if revealed.

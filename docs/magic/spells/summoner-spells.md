@@ -47,6 +47,7 @@ New summoner spells from *Ultimate Magic*. Spells from other books will be added
 - **[Gird Ally](gird-ally.md)**: Summoned creatures gain a deflection bonus to AC
 - **[Hidden Blades](hidden-blades.md)**: Weapon becomes invisible and easy to conceal.
 - **[Identifier's Eye](identifiers-eye.md)**: Detect magic and +5 on Spellcraft to identify items.
+- **[Influence Wild Magic](influence-wild-magic.md)**: Roll twice on wild magic effects and choose.
 - **[Lesser Nondetection](lesser-nondetection.md)**: Blocks area-targeted divinations.
 - **[Mount, Communal](mount-communal.md)**: As mount, but you may divide the duration among creatures touched.
 - **[Overstimulate](overstimulate.md)**: Grant ferocity to keep a creature conscious
@@ -121,6 +122,7 @@ New summoner spells from *Ultimate Magic*. Spells from other books will be added
 
 ## 4th-Level Summoner Spells
 
+- **[Absorbing Barrier](absorbing-barrier.md)**: Ward an area with DR 20/magic against ranged weapons.
 - **[Anywhere But Here](anywhere-but-here.md)**: Transport yourself and willing creatures to a random planar destination
 - **[Assume Appearance, Greater](assume-appearance-greater.md)**: Use a likeness to adopt a dead creature’s form.
 - **[Bestow Planar Infusion II](bestow-planar-infusion-ii.md)**: Grant a target the effects of an improved planar infusion

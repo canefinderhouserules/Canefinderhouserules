@@ -42,6 +42,10 @@ Effect This trap can be added to a supernatural snare trap. The trap briefly imp
 
 Effect This trap strikes the target with a small shard of blightburn, dealing 2d6 points of fire damage, 1d3 points of Constitution damage, and 1d3 points of Charisma damage. A successful Fortitude save negates the ability damage and halves the fire damage. The ranger must supply a sliver of blightburn, a dangerous task in itself, though storing the blightburn in a lead vial makes the task less risky.
 
+### Blighted Mark Trap (Ex or Su)
+
+**Effect** This trap stains the victim with blighted plant matter, increasing its susceptibility to the attacks of creatures created or enthralled by the affliction. The target takes a –2 penalty to Armor Class against the attacks of creatures closely affiliated with the specific blight (typically demons, fey, plants, or undead) and on saving throws against effects created by such creatures. This effect lasts for 10 minutes per ranger level. A successful Will save negates this effect. Regardless of whether this is an extraordinary or supernatural trap, the ranger must supply a sample of the specific blight when setting this trap.
+
 ### Bludgeoning Trap (Ex or Su)
 
 **Effects**
@@ -59,6 +63,10 @@ Effect A ranger can only add this to a fire trap. If the triggering creature fai
 **Effects**
 
 Effect This trap creates a positive or negative energy effect designed to harm either undead or living creatures, respectively. The target takes a number of points of damage equal to 1d8 + the ranger's level from either positive energy or negative energy (Will save for half). If this is an extraordinary trap, the ranger must supply a vial of holy water (positive energy) or unholy water (negative energy).
+
+### Cleansing Trap (Ex or Su)
+
+**Effect** The trap suppresses the target's ability to use one randomly selected attack, ability, or quality that creates a disease or poison effect; this lasts for 1 round per ranger level. If the creature has more than one such attack, ability, or quality, the one to be suppressed is determined at random from those not already suppressed.
 
 ### Decoy Trap (Su)
 
@@ -103,6 +111,10 @@ Effect A ranger can add this augmentation to a fire or smoke trap. The trap expl
 **Effects**
 
 Effect The trap creates a burst of ice that damages and encases the triggering creature. The creature takes 1d3 points of cold damage + 1/4 the ranger’s level and is entangled and stuck to the ground, similar to the effect of a tanglefoot bag. A successful Reflex save halves the damage and means the creature is not stuck to the floor by the ice. The ice is 1 inch thick per 2 Hit Dice of the ranger (minimum 1), has hardness 0 and 3 hit points per inch of thickness, and melts in 2d4 rounds.
+
+### Infected Snare Trap (Ex or Su)
+
+**Effect** A ranger can add this only to a snare trap. The snare is made of diseased materials, which contain an aggressive blight that saps the energy and bodily health from the target creature. When initially caught in the snare, the trapped creature must succeed at a Fortitude saving throw or immediately take 2 points of Constitution damage. Each subsequent hour, the creature must succeed at a Fortitude saving throw or take 2 points of Constitution damage. This effect lasts for 12 hours or until the creature makes two successful saving throws in a row, whichever comes first. This is a poison effect.
 
 ### Lazurite Trap (Ex or Su)
 
@@ -1230,3 +1242,15 @@ Some simian explorers often leave home to seek fortune and sate their curiosity 
 **Fast Study (Ex)**: Beginning at 11th level, a fortune-finder can study an opponent using adaptable study as a swift or move action. In addition to this, he can maintain bonuses from adaptable study against one additional opponent. At 19th level, he can study an opponent using adaptable study as an immediate, swift, or move action and can maintain the bonuses from adaptable study against a total of three opponents. This ability replaces quarry and improved quarry.
 
 **Master Explorer (Ex)**: A fortune-finder of 20th level becomes a master explorer. He can move through any sort of terrain that impedes movement at his full speed, even if it is enchanted or magically manipulated to impede motion. As a full-round action, he can study one opponent he can see and has already studied with adaptable study, increasing the benefits he gains from that ability to equal his full favored enemy bonus. This ability replaces master hunter.
+
+## Blightwarden
+
+Some rangers feel so closely connected to their homelands that they stand as guardians against pervasive corruptions that pervert those lands beyond the point of recognition.
+
+**Hunt the Blighted (Ex)**: A blightwarden's first favored enemy is always a special type of creature: blighted. His bonuses from his first favored enemy apply to creatures with one or more of the following templates: blighted fey, fungal creature, fungoid, wasteland mutant, mutant, mutant goblin, and plagued beast. Additionally, the bonuses apply against creatures with the blight subtype. Each time the blightwarden gains a new favored enemy, his additional +2 bonus always applies to this first favored enemy. This alters favored enemy.
+
+**Emulate Taint (Ex, Su, or Sp)**: Once per day as a standard action, a blightwarden can examine visible evidence of a creature that has been affected by a natural or supernatural blight. This might include visible tracks left by a creature with the fungal creature template, or a dead creature with the blighted fey template, or any similar evidence left by any creature as described in the hunt the blighted ability. When the blightwarden does this, for the next 24 hours, he can use any one extraordinary, supernatural, or spell-like ability granted by the template (or the blight subtype) for a number of minutes equal to his ranger level. This duration need not be used all at once, but it must be spent in 1-minute increments. Saving throw DCs for this ability are calculated as if the blightwarden had the relevant template (for example, the DC of an ability from the blighted fey template would be equal to 10 + half the blightwarden's Hit Dice + his Constitution modifier). He cannot use abilities that would create a permanent effect beyond this ability's duration, and can never use more than one ability from a template or subtype in this way during a single 24-hour period. For example, the blightwarden cannot use a blighted ooze's cursed domain ability to create a domain of evil. However, the blightwarden could gain a blighted fey's thorn throw ability for a number of minutes equal to his ranger level (in this case, the blightwarden would gain a thorn attack for that duration). This replaces wild empathy.
+
+**Blightwalker (Ex)**: At 3rd level, a blightwarden gains a +2 bonus on initiative checks and Knowledge (geography), Perception, Stealth, and Survival checks when in areas afflicted by a natural or supernatural blight. Blighted areas include cursed lands, domains of evil, regions negatively affected by a spell or ability that affects at least a 300-square-foot area, or regions where a specific affliction is prevalent. In addition, the blightwarden adds this bonus to ability checks, saving throws, and skill checks to avoid natural and supernatural hazards in blighted areas. He can choose to improve this bonus in place of improving a favored terrain bonus. A blightwarden traveling through blighted areas leaves no trail and cannot be tracked (though he can leave a trail if he chooses). This alters favored terrain and replaces the blightwarden's first favored terrain.
+
+**Resist Corruption (Ex)**: At 3rd level, a blightwarden gains a +2 bonus on saving throws against curses, diseases, mind-affecting effects, poisons, and transmutation effects. This replaces endurance.

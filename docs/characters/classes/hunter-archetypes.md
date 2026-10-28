@@ -385,3 +385,25 @@ This ability alters animal focus.
 **Wild Empathy (Ex)**: An aquatic beastmaster's wild empathy functions only on creatures that have a swim speed or the aquatic or water subtype. However, she can improve the attitude of any such creature with Intelligence 2 or less regardless of type, including mindless creatures. This ability alters wild empathy.
 
 **Oceanic Defense (Ex)**: At 4th level, an aquatic beastmaster gains a +4 bonus on saving throws against spells with the water descriptor and the extraordinary or supernatural abilities of creatures with the aquatic or water subtype whenever her animal companion is within 60 feet. This ability replaces improved empathic link.
+
+## Flood Flourisher
+
+Well adapted to their drenched surroundings, flood flourishers coordinate deadly ambushes with their loyal animal companions by capitalizing on their mastery of the soggy terrain.
+
+**Twin Hunters (Ex)**: Each time a flood flourisher gains a benefit from this archetype, she also grants the benefit to her animal companion. This replaces hunter tactics.
+
+**Skilled Ambusher (Ex)**: At 3rd level, a flood flourisher gains either Athletic or Stealthy as a bonus feat. This replaces the teamwork feat gained at 3rd level.
+
+**Watery Stride (Ex)**: At 5th level, a flood flourisher and her animal companion gain a swim speed equal to their base land speed (maximum 30 feet). A flood flourisher or animal companion that already has a swim speed instead gains a +10 bonus on Acrobatics checks to avoid provoking attacks of opportunity from swimming out of a threatened square. This replaces woodland stride.
+
+**Water Striker (Ex)**: At 6th level, a flood flourisher gains the benefits of either Shot on the Run or Spring Attack, even if she does not meet either of the feats' prerequisites. She gains the benefits of this feat only while using her swim speed. This replaces the teamwork feat gained at 6th level.
+
+**Submerged Stealth (Ex)**: At 8th level, a flood flourisher learns how to ambush targets from beneath the muck, becoming a silent threat. While in a deep bog, the flood flourisher can use cover from the water to attempt Stealth checks with no penalties from the natural environment. While in a deep bog, as long as she moves no more than 5 feet in a round, she has tremorsense out to a range of 30 feet against anything that moves within the same body of water. While underwater in a deep bog, she can hold her breath for a number of minutes equal to 6 times her Constitution score before she risks drowning. This replaces swift tracker.
+
+**Aquatic Action (Ex)**: At 9th level, a flood flourisher gains the benefits of the aquatic action vigilante talent. This replaces the teamwork feat gained at 9th level.
+
+**Sudden Strike (Ex)**: At 12th level, a flood flourisher can better take advantage of the element of surprise. She can take a full round's worth of actions during the surprise round, rather than a single standard action or move action. This replaces the teamwork feat gained at 12th level.
+
+**Fast Submerged Stealth (Ex)**: At 15th level, a flood flourisher can move up to her full swim speed with no penalty while using Stealth in a deep bog, and she can maintain her tremorsense from her submerged stealth while doing so. This replaces the teamwork feat gained at 15th level.
+
+**Fast Swimmer (Ex)**: At 18th level, a flood flourisher increases her swim speed by 20 feet. This replaces the teamwork feat gained at 18th level.

@@ -1493,9 +1493,11 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Advanced Weapon Training](advanced-weapon-training.md) | Combat | Fighter level 5th, weapon training class feature |
 | [Aerial Roll](aerial-roll.md) | Combat | Fly 10 ranks |
 | [Agent of Fear](agent-of-fear.md) | — | Persuasive, frightening appearance class feature |
+| [Agent of Purity](agent-of-purity.md) | Story | A friend or ally must have been significantly corrupted by a specific natural or supernatural blight, or you must have a regional background trait tied to a specific blight |
 | [Agile Maiden](agile-maiden.md) | Combat | Str 13, Dex 13, Endurance or armor training, heavy armor proficiency |
 | [Alchemical Strike](alchemical-strike.md) | Combat | Throw Anything, base attack bonus +6 |
 | [Align Equipment](align-equipment.md) | General | Alignment Channel, Bless Equipment, caster level 3rd, channel energy class feature |
+| [Aligned Crafting](aligned-crafting.md) | Item Creation | Craft Magic Arms and Armor or Craft Wondrous Item |
 | [Ally Caller](ally-caller.md) | — | Triton, *summon nature's ally II* spell-like ability, character level 3rd |
 | [Ambuscading Spell](ambuscading-spell.md) | — | — |
 | [Ambush Sense](ambush-sense.md) | Combat | Int 13, trap sense class feature |
@@ -1566,6 +1568,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Barrage of Styles](barrage-of-styles.md) | Combat, Teamwork | Base attack bonus +1, human |
 | [Bastion Stance](bastion-stance.md) | Combat | Con 13, proficiency with heavy armor and shields |
 | [Bat Shape](bat-shape.md) | — | Cha 13, werebat-kin |
+| [Battering Repair](battering-repair.md) | Grit | Craft (alchemy) 3 ranks; grit class feature or Amateur Gunslinger; pistol-whip gunslinger deed; quick clear gunslinger deed |
 | [Battle Cry (Surprise Round)](battle-cry-surprise-round.md) | — | Bardic performance class feature |
 | [Battle Singer](battle-singer.md) | General | Goblin, bardic performance class feature |
 | [Beacon of Hope](beacon-of-hope.md) | — | Channel energy 3d6, worshiper of a deity of hope or uprising |
@@ -1723,6 +1726,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Craft Technological Item](craft-technological-item.md) | — | Technologist, Craft (mechanical) 5 ranks, Knowledge (engineering) 5 ranks |
 | [Cranial Adjustment](cranial-adjustment.md) | — | Deft Hands or Trepanation |
 | [Cranial Implantation](cranial-implantation.md) | — | Self-Sufficient or Trepanation, Heal 7 ranks |
+| [Create Enhanced Firearm](create-enhanced-firearm.md) | Item Creation | Craft Magic Arms and Armor; Craft (weapons) 1 rank or Gunsmithing |
 | [Creative Armorsmith](creative-armorsmith.md) | Combat | Craft (armor) 3 ranks, Knowledge (engineering) 3 ranks |
 | [Creative Weaponsmith](creative-weaponsmith.md) | Combat | Craft (weapons) 3 ranks, Knowledge (engineering) 3 ranks |
 | [Creature Focus](creature-focus.md) | — | No levels in a class that grants the favored enemy class feature |
@@ -1854,6 +1858,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Electric Eel Shock](electric-eel-shock.md) | Combat, Style | Wis 15, Electric Eel Style, Elemental Fist, Improved Unarmed Strike, base attack bonus +11 or monk level 7th |
 | [Electric Eel Style](electric-eel-style.md) | Combat, Style | Wis 13, Elemental Fist, Improved Unarmed Strike, base attack bonus +9 or monk level 5th |
 | [Elemental Commixture](elemental-commixture.md) | Teamwork | Caster level 1st |
+| [Elemental Conversion](elemental-conversion.md) | General | — |
 | [Elemental Discipline Style](elemental-discipline-style.md) | Combat, Style | Wis 13, base attack bonus +5 or monk level 5th |
 | [Elemental Knowledge](elemental-knowledge.md) | — | Expanded element class feature |
 | [Elemental Overload](elemental-overload.md) | — | Elemental overflow class feature, kineticist level 15th |
@@ -2344,6 +2349,8 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Press to the Wall](press-to-the-wall.md) | Combat | Step Up, base attack bonus +3 |
 | [Primal Bloom](primal-bloom.md) | Conduit | Knowledge (planes) 10 ranks |
 | [Primal Bluff](primal-bluff.md) | General | Bluff 1 rank, wild shape class feature, gnome |
+| [Primal Kineticist](primal-kineticist.md) | General | Kineticist level 1st |
+| [Primal Strike](primal-strike.md) | Combat | Wis 17, Improved Unarmed Strike, base attack bonus +8 |
 | [Protective Channel](protective-channel.md) | — | Channel energy 7d6, worshiper of a deity of valor and justice |
 | [Protective Line](protective-line.md) | Combat, Teamwork | Exotic Weapon Proficiency (firearms) |
 | [Protector’s Strike](protector-s-strike.md) | — | Base attack bonus +5, smite evil class feature |
@@ -2380,6 +2387,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Reflexive Caster](reflexive-caster.md) | — | Combat Reflexes, caster level 5th |
 | [Reflexive Trick](reflexive-trick.md) | Trick | Mesmerist tricks class feature |
 | [Regenerate Muscles](regenerate-muscles.md) | Combat | Power Attack, regeneration, troll |
+| [Reinforce Crafting](reinforce-crafting.md) | Item Creation | Craft Magic Arms and Armor, ability to cast *make whole* or *mending* |
 | [Reject Poison](reject-poison.md) | — | Con 13, poison use class feature, worshiper of a deity of secrets and poison |
 | [Relentless Cheer](relentless-cheer.md) | Teamwork | Halfling, fearless and halfling luck racial traits |
 | [Relentless Shot](relentless-shot.md) | Combat | Point-Blank Shot, base attack bonus +6 |
@@ -2404,6 +2412,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Robot’s Bane](robots-bane.md) | — | Knowledge (engineering) 5 ranks |
 | [Roll With It](roll-with-it.md) | Combat | Goblin, Acrobatics 1 rank |
 | [Rugged Northerner](rugged-northerner.md) | — | Con 13, Survival 1 rank |
+| [Runic Charge](runic-charge.md) | Combat | Caster level 5th |
 | [Rushing Winds](rushing-winds.md) | Combat | Turbulent Takeoff, Fly 10 ranks |
 | [Ruthless Opportunist](ruthless-opportunist.md) | Combat, Teamwork | Human |
 | [Sabotage Magic Item](sabotage-magic-item.md) | — | Magical Aptitude, Disable Device 5 ranks, Use Magic Device 5 ranks |
@@ -2467,6 +2476,9 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Shrapnel Strike](shrapnel-strike.md) | Combat | Str 15, Improved Sunder, Power Attack |
 | [Shrouded in Mystery](shrouded-in-mystery.md) | — | Bluff 1 rank; Disguise 1 rank; kitsune, nagaji, samsaran, tengu, or wayang |
 | [Shrug On](shrug-on.md) | Combat | Base attack bonus +1, medium armor proficiency |
+| [Signature Strike Style](signature-strike-style.md) | Combat, Style | Precise Shot; Weapon Focus; base attack bonus +7; Intimidate 7 ranks; Improved Called Shot, targeted strike swashbuckler deed, or targeting gunslinger deed |
+| [Signature Strike Taunt](signature-strike-taunt.md) | Combat | Precise Shot, Signature Strike Style, Weapon Focus, base attack bonus +9, Intimidate 9 ranks |
+| [Signature Strike Triumph](signature-strike-triumph.md) | Combat | Precise Shot, Signature Strike Style, Signature Strike Taunt, Weapon Focus, base attack bonus +11, Intimidate 11 ranks |
 | [Sinister Reputation](sinister-reputation.md) | — | Cha 13, Intimidate 5 ranks, Persuasive or renown social talent |
 | [Siphon Channel](siphon-channel.md) | — | Channel energy 3d6, worshiper of a deity of disease |
 | [Siphon Poison](siphon-poison.md) | — | — |
@@ -2474,6 +2486,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Sisterhood Dedication](sisterhood-dedication.md) | Combat | Cha 13, Shield Focus, Shield Wall, Sisterhood Rampart, BAB +6 |
 | [Sisterhood Rampart](sisterhood-rampart.md) | Combat | Cha 13, Shield Focus, Shield Wall, Sisterhood Style, BAB +4 |
 | [Sisterhood Style](sisterhood-style.md) | Combat, Style | Cha 13, Shield Focus, Weapon Focus (longsword), BAB +2 |
+| [Sizzling Shot](sizzling-shot.md) | Grit | Grit class feature or Amateur Gunslinger, base attack bonus +4 |
 | [Skaveling Companion](skaveling-companion.md) | — | 7th level in a class that grants an animal companion or mount, urdefhan |
 | [Skyseeker Impact](skyseeker-impact.md) | Combat | Con 13, Skyseeker Style, Skyseeker Thrash, Step Up, base attack bonus +9 |
 | [Skyseeker Style](skyseeker-style.md) | Combat, Style | Step Up, base attack bonus +1 |
@@ -2519,6 +2532,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Spell Sponge](spell-sponge.md) | — | Animal companion or familiar, share spells ability |
 | [Spell Synergy](spell-synergy.md) | Teamwork | Spellcraft 5 ranks |
 | [Spell Trick](spell-trick.md) | Trick | Masterful tricks class feature, ability to cast 4th-level mesmerist spells |
+| [Spell-Drinker](spell-drinker.md) | General | Con 13; Great Fortitude, Iron Will, or Lightning Reflexes |
 | [Spellcut](spellcut.md) | Weapon Mastery | Str 13, Cut from the Air, Power Attack, base attack bonus +9, Spellcraft 1 rank, weapon training class feature with a melee weapon |
 | [Spiked Destroyer](spiked-destroyer.md) | Combat | Proficient with armor spikes |
 | [Spirit Ally](spirit-ally.md) | General | Caster level 8th |
@@ -2557,6 +2571,9 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Steelskin Channel](steelskin-channel.md) | — | Channel energy 7d6, worshiper of a deity of the forge and protection |
 | [Step of the Flighty Fey](step-of-the-flighty-fey.md) | General | Gathlain, *feather step* spell-like ability |
 | [Stick Together](stick-together.md) | Combat, Teamwork | — |
+| [Stock-Striker Style](stock-striker-style.md) | Combat, Style | Pistol-whip gunslinger deed |
+| [Stock-Striker Sweep](stock-striker-sweep.md) | Combat | Stock-Striker Style, base attack bonus +7, pistol-whip gunslinger deed |
+| [Stock-Striker Takedown](stock-striker-takedown.md) | Combat | Point-Blank Shot, Stock-Striker Style, Stock-Striker Sweep, base attack bonus +9, pistol-whip gunslinger deed |
 | [Stone Dodger](stone-dodger.md) | Teamwork | — |
 | [Stone Read](stone-read.md) | — | Knowledge (dungeoneering) 4 ranks |
 | [Stone Strider](stone-strider.md) | — | Stonecunning racial trait, worshiper of a deity of the forge and mountains |

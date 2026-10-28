@@ -1,0 +1,9 @@
+# Primal Kineticist
+
+*(General)*
+
+When primal magic surrounds you, you can channel it to transform the nature of your kinetic blasts.
+
+**Prerequisites**: Kineticist level 1st.
+
+**Benefit**: When using a simple kinetic blast in an area where primal magic is either predominant or very common, you can accept 1 point of burn to cause your blast to become one of the following simple blasts instead. Roll 1d10 to determine the simple blast (blasts marked with an asterisk appear in the occult kineticist options; if you do not have this source, simply reroll these results): 1 = air, 2 = cold, 3 = earth, 4 = electric, 5 = fire, 6 = gravity\*, 7 = negative\*, 8 = telekinetic, 9 = water, 10 = wood\*. You can apply any of your form or substance infusions that are allowed as choices for the random blast, accepting the typical burn cost.

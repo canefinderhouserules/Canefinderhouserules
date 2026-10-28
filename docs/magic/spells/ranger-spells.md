@@ -113,6 +113,7 @@
 - **[Ice Slick](ice-slick.md)**: Coat the area in slippery ice and cold damage
 - **[Ignoble Form](ignoble-form.md)**: a drow takes on a half-elf's form
 - **[Improve Trap](improve-trap.md)**: When this spell is cast upon a trap, it improves one specific element of the trap chosen at the time of.
+- **[Influence Wild Magic](influence-wild-magic.md)**: Roll twice on wild magic effects and choose.
 - **[Insect Scouts](insect-scouts.md)**: Vermin investigate a location and grant rerolls on related skill checks.
 - **[Iron Stake](iron-stake.md)**: Hurl a spike of cold iron at a foe.
 - **[Ironskin](ironskin.md)**: Harden your skin to iron

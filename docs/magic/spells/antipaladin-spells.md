@@ -53,6 +53,7 @@ New antipaladin spells from *Ultimate Magic*. Spells from other books will be ad
 - **[Steady Saddle](steady-saddle.md)**: Steady a saddle for mounted ranged attacks
 - **[Summon Minor Monster](summon-minor-monster.md)**: Summon 1d3 Tiny animals.
 - **[Touch of Blindness](touch-of-blindness.md)**: touches blind creatures for 1 round
+- **[Unhallowed Blows](unhallowed-blows.md)**: Give undead a +1 enhancement bonus on one natural attack or unarmed strikes.
 - **[Wartrain Mount](wartrain-mount.md)**: Animal gains the combat training general purpose.
 
 ## 2nd-Level Antipaladin Spells
@@ -155,6 +156,7 @@ New antipaladin spells from *Ultimate Magic*. Spells from other books will be ad
 - **[Shield of Darkness](shield-of-darkness.md)**: magical darkness grants you total concealment
 - **[Stage Fright](stage-fright.md)**: Targets take –4 on ability, skill, and concentration checks.
 - **[Trial by Fire](trial-by-fire.md)**: Divine fire punishes targets whose alignment differs from your deity’s.
+- **[Unhallowed Blows, Greater](unhallowed-blows-greater.md)**: As unhallowed blows, with a larger bonus and longer duration.
 - **[Unholy Ward](unholy-ward.md)**: Resist 10 damage from holy sources.
 - **[Utter Contempt](utter-contempt.md)**: Target’s attitude worsens by two categories.
 - **[Vampiric Hunger](vampiric-hunger.md)**: Target drains blood while pinning to heal or gain temporary hit points.

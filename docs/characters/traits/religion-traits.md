@@ -57,3 +57,13 @@ Religion traits are tied to a specific deity. You need not be a divine spellcast
 **Rejected Emperor** *(imperial cult)*: When you were young, your parents presented you to the oracles of a distant province, claiming a divine sign showed you were the reincarnation of a fallen empire's Eternal Emperor. The oracles did not support the claim, but you are not untouched by celestial influence. You may use Knowledge (nobility) or Knowledge (religion) in place of Knowledge (planes) to identify outsiders, and nonevil outsiders you encounter begin with an attitude that is one step better than normal.
 
 **Adherent of Ancient Cat Cults** *(cat-headed goddess of an ancient desert kingdom)*: Although the cat-headed goddess has been all but forgotten by the native people of the desert kingdom, you either sojourned with or were raised in a cult dedicated to her. You treat the tekko-kagi as a martial weapon instead of an exotic weapon. You also treat the tekko-kagi as if it were a set of claw blades when determining how it interacts with other effects.
+
+**Flame of War** *(deity of fire, tradition, and war)*: Your faith in the forge-fire fans the passionate flames of war in your heart. Whenever you confirm a critical hit, you deal 1 additional point of damage to your target. This damage is considered precision damage.
+
+**Stormy Strength** *(deity of piracy and the sea)*: Your patron sometimes answers your calls when you tread dangerous waters. Once per day when attempting a Swim check, you can treat the water as if it were one category calmer (as if stormy water were rough water or rough water were calm water).
+
+**Clockwork Insight** *(deity of clockwork and invention)*: You hear your deity's whisper in the workings of technology, granting you better understanding of and insight into constructs. You gain a +2 trait bonus on caster level checks to overcome the spell resistance of constructs.
+
+**Mistwalker's Sight** *(deity of wind and waves)*: Your faith helps you navigate through all manner of mist or haze. You can see normally up to 5 feet away in areas of nonmagical fog, mist, rain, or similar conditions (such as the spray of a waterfall). Your sight is still obscured beyond 5 feet as normal in these conditions.
+
+**Valor's Immunity** *(deity of valor and justice)*: Your deity's valor fills you with divine energy, allowing you to stave off even the worst plague. Once per day, you can reroll a saving throw against a disease or poison. You must take the second result, even if it is worse.

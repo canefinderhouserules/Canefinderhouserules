@@ -200,6 +200,7 @@ Mesmerists gain access to the following spells. Spells without a link come from 
 - **[Hypnotic Pattern](hypnotic-pattern.md)**: Fascinates 2d4 + level HD of creatures.
 - **[Implant False Reading](implant-false-reading.md)**: Instill false psychic impressions into an object.
 - **[Inflict Pain](inflict-pain.md)**: Target takes a –4 penalty on attack rolls, skill checks, and ability checks.
+- **[Influence Wild Magic](influence-wild-magic.md)**: Roll twice on wild magic effects and choose.
 - **[Instigate Psychic Duel](instigate-psychic-duel.md)**: Start a psychic duel between yourself and another creature.
 - **[Investigative Mind](investigative-mind.md)**
 - **[Invisibility](invisibility.md)**: Subject is invisible for 1 min./level or until it attacks.
