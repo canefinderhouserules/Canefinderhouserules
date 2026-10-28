@@ -199,6 +199,7 @@
 - **[Demand Offering](demand-offering.md)**: Make a creature give you an object it’s holding.
 - **[Detect Desires](detect-desires.md)**: Learn what creatures desire.
 - **[Detect Magic, Greater](detect-magic-greater.md)**: As *detect magic*, but learn more information.
+- **[Detect Relations](detect-relations.md)**: Reveals blood relations among creatures.
 - **[Detect Thoughts](detect-thoughts.md)**: Allows “listening” to surface thoughts.
 - **[Determine Depth](determine-depth.md)**: Learn the exact thickness of a wall or barrier.
 - **[Diminish Resistance](diminish-resistance.md)**: Weaken a creature’s resistance to one energy type.
@@ -329,6 +330,7 @@
 - **[Bit of Luck](bit-of-luck.md)**: reservoir of luck points for attack rolls and skill checks
 - **[Blink](blink.md)**: You randomly vanish and reappear for 1 round/level.
 - **[Blot](blot.md)**: Smears all writing in an area.
+- **[Business Booms](business-booms.md)**: Boosts a promoted business for several days.
 - **[Channel the Gift](channel-the-gift.md)**: Your spell slot powers an ally’s spell.
 - **[Charm Monster](charm-monster.md)**: Makes monster believe it is your ally.
 - **[Claim Identity](claim-identity.md)**: Steal a touched humanoid’s face and identity.
@@ -397,6 +399,7 @@
 - **[Phase Step](phase-step.md)**: Short-range teleport of a willing creature with line of sight.
 - **[Pillow Talk](pillow-talk.md)**: Question a sleeping creature
 - **[Prehensile Pilfer](prehensile-pilfer.md)**: School transmutation; Level alchemist 3, bard 3, magus 3, sorcerer/wizard 3 Casting Time 1 standard action.
+- **[Prosperous Room](prosperous-room.md)**: Room produces extra capital.
 - **[Raging Rubble](raging-rubble.md)**: You animate an area of rubble, gravel, or other small stones, creating a dangerous, rolling area of debris.
 - **[Rags to Riches](rags-to-riches.md)**: Objects function as masterwork with extra bonuses.
 - **[Remove Curse](remove-curse.md)**: Frees object or person from curse.
@@ -553,6 +556,7 @@
 - **[Phobia](phobia.md)**: Induce an irrational fear in a creature to the point of madness.
 - **[Pox of Rumors](pox-of-rumors.md)**: Curse a creature to attract nasty rumors.
 - **[Release the Hounds](release-the-hounds.md)**: Summons a swarm-like pack of canines.
+- **[Renovation](renovation.md)**: Rearranges the rooms of a building.
 - **[Repress Memory](repress-memory.md)**: Remove a piece of knowledge from your mind.
 - **[Sabotage Construct](sabotage-construct.md)**: Confuses a construct.
 - **[Scripted Hallucination](scripted-hallucination.md)**: As *complex hallucination*, but without concentration.
@@ -621,6 +625,7 @@
 - **[Symbol of Debauchery](symbol-of-debauchery.md)**: Symbol that fills creatures with lust.
 - **[Symbol of Distraction](symbol-of-distraction.md)**: Symbol that fascinates creatures nearby.
 - **[Sympathetic Vibration](sympathetic-vibration.md)**: Deals 2d10 damage/round to freestanding structure.
+- **[Tactical Insight](tactical-insight.md)**: Grants an army mastery of one tactic.
 - **[Touch of Slumber](touch-of-slumber.md)**: Nonhostile creature falls asleep for hours.
 - **[Triggered Hallucination](triggered-hallucination.md)**: As *scripted hallucination*, but it only appears when triggered.
 - **[Veil](veil.md)**: Changes appearance of group of creatures.

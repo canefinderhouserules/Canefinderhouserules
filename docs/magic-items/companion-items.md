@@ -5669,3 +5669,69 @@ A crusader's tabard is a sturdy cloth vestment worn over armor and other clothin
 This military saddle is made of cured hide, with numerous straps and hooks to allow it to be easily configured to fit different sizes of animals and saddlebags. Any creature of the animal or magical beast type of an appropriate shape to wear a saddle (creatures with unusual anatomies may be affected with GM discretion) can wear the war saddle, which magically changes size and shape as necessary. The saddle allows the creature wearing it to act as if it were combat trained, and gives the rider a +5 competence bonus on Ride checks made while mounted upon the creature.
 
 **Construction Requirements:** Craft Wondrous Item, *speak with animals*, creator must have 5 ranks in Ride; **Cost** 2,500 gp
+
+## Kingdom and Downtime Items
+
+### Banner of Tactical Command
+
+**Slot** none; **CL** 10th; **Price** 100,000 gp; **Weight** 3 lbs.
+
+**Aura** moderate divination
+
+This brightly colored banner measures 2 feet by 4 feet in size, and is mounted on an 8-foot-long pole of spiraled gold and ivory. When the commander of an army engaged in mass combat displays this banner, the army under her command is treated as knowing one additional tactic. The granted tactic must be selected at the time of the banner's creation and cannot be changed. The army must be able to see the banner in a given phase of mass combat to receive the bonus; a banner is considered obscured in conditions of darkness, fog, and sandstorms. If the commander is killed or captured, the banner ceases to function, even if it remains visible in the commander's absence. A commander may have a number of banners in effect equal to her Charisma modifier; if more banners are displayed than her Charisma modifier allows, roll randomly each round to determine which banners' abilities are suppressed.
+
+**Construction Requirements:** Craft Wondrous Item, *tactical insight*; **Cost** 50,000 gp
+
+### Banner of Tactical Command, Lesser
+
+**Slot** none; **CL** 10th; **Price** 20,000 gp; **Weight** 3 lbs.
+
+**Aura** moderate divination
+
+This functions as a *banner of tactical command* but can only affect armies of size Large or smaller.
+
+**Construction Requirements:** Craft Wondrous Item, *tactical insight*; **Cost** 10,000 gp
+
+### Diadem of Inspiring Rule
+
+**Slot** head; **CL** 5th; **Price** 4,500 gp; **Weight** —
+
+**Aura** faint transmutation
+
+This ornate, ostentatious diadem grants its wearer a +3 competence bonus to her Leadership score.
+
+**Construction Requirements:** Craft Wondrous Item, *eagle's splendor*; **Cost** 2,250 gp
+
+### Horn of Plenty
+
+**Slot** none; **CL** 9th; **Price** 6,500 gp; **Weight** 3 lbs.
+
+**Aura** moderate enchantment
+
+This hollowed-out horn comes in four varieties: a *horn of plentiful goods*, a *horn of plentiful labor*, a *horn of plentiful influence*, and a *horn of plentiful magic*. Each variety carries the same construction requirements but offers a different benefit. The horn's type must be determined at creation and cannot later be changed. If the horn is random, roll a d4 to determine which type of horn it is.
+
+A horn of plenty may be blown once per week of downtime to improve the rate at which its bearer can exchange capital. On command, a horn of plentiful goods, labor, or influence allows a creature to trade any 2 points of a single type of capital in exchange for 1 point of either Goods, Labor, or Influence, as indicated by the item's name. (For instance, a *horn of plentiful goods* allows a creature to trade 2 points of any one kind of capital for 1 point of Goods.) This effect lasts for 1 day. If you are already trading two single types of capital for one other type of capital, at the GM's discretion, blowing the horn allows you to trade on a 1-to-1 basis.
+
+A *horn of plentiful magic* acts similarly to the aforementioned horns, but instead allows a character to trade 3 points of either Goods, Labor, or Influence for 1 point of Magic.
+
+**Construction Requirements:** Craft Wondrous Item, *charm person*; **Cost** 3,250 gp
+
+### Orb of Arcane Research
+
+**Slot** none; **CL** 5th; **Price** 7,000 gp; **Weight** 6 lbs.
+
+**Aura** moderate divination
+
+Made of a glassy, translucent substance, this orb swirls with the eldritch energy of spellcasters long departed. When the bearer researches a spell to create a new spell or learn an existing one from another source, this orb provides a +2 competence bonus on Spellcraft checks. Additionally, when the command word is spoken, an *orb of arcane research* allows its bearer to gain a +5 insight bonus on a Craft (alchemy), Knowledge (arcana), Knowledge (nature), or Spellcraft check made to research a spell or extract formula (see *Ultimate Campaign*). The orb can be used five times in this way before the item cracks, losing all of its magical properties and reverting to a piece of mundane glass.
+
+**Construction Requirements:** Craft Wondrous Item, Scribe Scroll, *read magic*; **Cost** 3,500 gp
+
+### Talisman of Beast Training
+
+**Slot** neck; **CL** 1st; **Price** 4,000 gp; **Weight** —
+
+**Aura** faint enchantment
+
+This talisman is worn lashed around the neck and is made of flexible bark woven into a mesmerizing pattern. While wearing a talisman of beast training, a wearer finds that animals become much more patient with her and amenable to training. As such, failed Handle Animal checks made during downtime periods, including those made to rear animals and teach them new tricks, may be treated as if they were successful. The talisman can turn 10 failed checks into successes this way. Once the tenth failed check has been converted to a success, the talisman falls apart and becomes useless.
+
+**Construction Requirements:** Craft Wondrous Item, *charm animal*; **Cost** 2,000 gp

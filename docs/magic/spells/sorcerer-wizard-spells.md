@@ -533,6 +533,7 @@
 - **[Blot](blot.md)**: Smears all writing in an area.
 - **[Bone Flense](bone-flense.md)**: Barbed bone spurs flense a struck creature.
 - **[Burdened Thoughts](burdened-thoughts.md)**: Target is encumbered and cannot fly.
+- **[Business Booms](business-booms.md)**: Boosts a promoted business for several days.
 - **[Catatonia](catatonia.md)**: Make a willing target appear to be dead.
 - **[Chain of Perdition](chain-of-perdition.md)**: Creates a floating chain of force.
 - **[Channel the Gift](channel-the-gift.md)**: Your spell slot powers an ally’s spell.
@@ -627,6 +628,7 @@
 - **[Planar Inquiry](planar-inquiry.md)**: Call an outsider to answer questions.
 - **[Poison Exchange](poison-exchange.md)**: Swallow one poison and regurgitate another.
 - **[Prehensile Pilfer](prehensile-pilfer.md)**: School transmutation; Level alchemist 3, bard 3, magus 3, sorcerer/wizard 3 Casting Time 1 standard action.
+- **[Prosperous Room](prosperous-room.md)**: Room produces extra capital.
 - **[Protection from Arrows, Communal](protection-from-arrows-communal.md)**: As protection from arrows, but you may divide the duration among creatures touched.
 - **[Protection from Energy](protection-from-energy.md)**: Absorbs 12 points/level of damage from one kind of energy.
 
@@ -857,6 +859,7 @@
 - **[Rags to Riches](rags-to-riches.md)**: Objects function as masterwork with extra bonuses.
 - **[Rebuke Technology](rebuke-technology.md)**: Render a technological target inert.
 - **[Remove Curse](remove-curse.md)**: Frees object or person from curse.
+- **[Renovation](renovation.md)**: Rearranges the rooms of a building.
 - **[Resilient Reservoir](resilient-reservoir.md)**: School transmutation; Level magus 3, paladin 3, sorcerer/wizard 4, witch 4 Casting Time 1 standard action.
 - **[Revenant Armor](revenant-armor.md)**: Armor animates around its fallen wearer.
 - **[Riding Possession](riding-possession.md)**: As possession, but you observe instead of control the subject.
@@ -1238,6 +1241,7 @@
 - **[Symbol of Storms](symbol-of-storms.md)**: rune that unleashes hurricane winds and lightning
 - **[Tar Pool](tar-pool.md)**: Converts the top layer of the ground into hot tar.
 - **[Telepathy](telepathy.md)**: Communicate mentally with creatures within 100 ft.
+- **[Teleport Structure](teleport-structure.md)**: Moves an unoccupied building to another lot.
 - **[Transfer Familiar](transfer-familiar.md)**: Temporarily give control of your familiar to another creature.
 - **[Transfiguring Touch](transfiguring-touch.md)**: Convert an object into iron, paper, or wood.
 - **[Treacherous Teleport](treacherous-teleport.md)**: As *teleport*, except you choose some creatures to suffer a mishap or go elsewhere.

@@ -169,6 +169,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Demand Offering](demand-offering.md)**: Make a creature give you an object it’s holding.
 - **[Destabilize Powder](destabilize-powder.md)**: Ammunition in the targeted firearm is prone to misfire.
 - **[Detect Magic, Greater](detect-magic-greater.md)**: As *detect magic*, but learn more information.
+- **[Detect Relations](detect-relations.md)**: Reveals blood relations among creatures.
 - **[Diminish Resistance](diminish-resistance.md)**: Weaken a creature’s resistance to one energy type.
 - **[Diminished Detection](diminished-detection.md)**: Detection spells have half their normal range against you.
 - **[Display Aversion](display-aversion.md)**: an illusion of a vampire's aversion keeps it at bay

@@ -47,6 +47,20 @@ Your curse weighs down your soul like a millstone around your neck.
 
 **Completion Benefit**: You lose the spell resistance described above. You gain spell resistance equal to 11 + your character level, but only against harmful enchantment, necromancy, and transmutation spells and spell-like abilities—your aura resists further attempts to curse you. Harmless spells automatically bypass this spell resistance whether you desire it or not. This spell resistance can be voluntarily lowered.
 
+## Apotheosis (Story)
+
+You are marked by fate as a future deity; even before this destiny is realized, fate bends to your will.
+
+**Prerequisite**: You must have had direct contact with a deity or godlike being, or have been raised from the dead at the personal behest of a deity or godlike being.
+
+**Benefit**: You gain a +2 bonus on Constitution checks to stabilize while dying. Anytime you or an ally who worships the god that contacted you casts *augury* or a similar effect, your chance of receiving a meaningful reply is increased by 5% (to a maximum of 95%).
+
+**Goal**: You must be acknowledged by another divine being (directly or through a representative) as a peer, even if only a minor one.
+
+**Completion Benefit**: Once per day as an immediate action, you can cause any die roll made by a creature within 100 feet of you to be rerolled. You choose which result you prefer. You must decide to use this ability after the first roll is made but before the results are revealed by the GM.
+
+**Suggested Traits**: Called, Fortunate, Inspiring.
+
 ## Arisen (Story)
 
 Escaping death strengthened your bond to life, but fills you with a need for answers.
@@ -61,6 +75,20 @@ Escaping death strengthened your bond to life, but fills you with a need for ans
 
 **Completion Benefit**: You gain a +2 bonus on saving throws against death effects and fear effects. In addition, the caster level of any conjuration (healing) spell that is cast on you increases by 1 for the purposes of its effects on you alone.
 
+## Artifact Hunter (Story)
+
+You seek an artifact, either a specific one or merely any item of legendary prowess, with dogged tenacity.
+
+**Prerequisite**: You must have come within sight of a legendary artifact at some point in your past.
+
+**Benefit**: You gain a +2 bonus on Use Magic Device checks when emulating a class feature, ability score, race, or alignment. If you have 10 or more ranks in Use Magic Device, this bonus increases to +4. In addition, once per day, instead of attempting a Use Magic Device check normally, you can choose to determine the result as if you had rolled a 15. If you have 10 or more ranks in Use Magic Device, you can use this ability twice per day.
+
+**Goal**: Claim ownership of an artifact.
+
+**Completion Benefit**: You learn how to coax the most out of your magic items. Three times per day when you activate a use-activated or command word magic item, you can increase the item's effective caster level by +2 as a free action. You can use this ability once per round.
+
+**Suggested Traits**: Dangerously Curious, Fortunate, Secret-Keeper.
+
 ## Battlefield Healer (Story)
 
 In even the fiercest battles, you risk life and limb to save your allies.
@@ -72,6 +100,20 @@ In even the fiercest battles, you risk life and limb to save your allies.
 **Goal**: Over time, provoke at least 20 attacks of opportunity for casting conjuration (healing) spells on allies. These spells don’t have to succeed to count.
 
 **Completion Benefit**: You automatically succeed at concentration checks for conjuration (healing) spells caused by taking damage.
+
+## Blessed (Story)
+
+The repeated notice and boons of celestials have marked you as one of their chosen agents.
+
+**Prerequisite**: You must have had friendly contact with a good outsider that would qualify as a challenging foe, be a sorcerer with the celestial bloodline, or have direct celestial ancestry (such as by being an aasimar).
+
+**Benefit**: You gain a +2 bonus on Charisma-based checks involving good-aligned outsiders and a +1 bonus to the DC of spells and spell-like abilities you use against such creatures. You take a –2 penalty on Charisma-based checks involving evil-aligned outsiders.
+
+**Goal**: Thwart or decisively defeat an evil creature that qualifies as a challenging foe, but show mercy and then convert that creature toward good.
+
+**Completion Benefit**: You gain the benefit of *protection from evil* as a constant spell-like ability. In addition, you gain a +2 bonus on caster level checks against evil-aligned outsiders.
+
+**Suggested Traits**: Indomitable Faith, Inspiring, Memorable.
 
 ## Champion (Story)
 
@@ -109,6 +151,22 @@ The lives you could not save stay with you to your final breath.
 
 **Completion Benefit**: You and each ally within 10 feet of you gain a +2 bonus on saves against death effects. In addition, once per day you can spontaneously convert any 5th-level or higher conjuration (healing) spell into *breath of life*.
 
+## Dynasty Founder (Story)
+
+You will claim rulership of a city, whether under a larger government or independently.
+
+**Prerequisite**: You must have lived in the chosen city for at least 1 year or be the heir of a former city leader.
+
+**Benefit**: You gain followers as if you had the Leadership feat, although you cannot attract followers of a level higher than your level – 2. If you also have the Leadership feat, increase your Leadership score by 3 for the purpose of determining how many followers you have.
+
+**Goal**: Thwart all rivals to rulership over the chosen region, including at least one challenging foe.
+
+**Completion Benefit**: You gain control of the settlement (see the settlement rules in the GameMastery Guide). Upon gaining this benefit and once per year thereafter, you can attempt to alter the settlement in one of the following ways by attempting a DC 25 Diplomacy check modified by the settlement's Society modifier or a DC 25 Intimidate check modified by its Law modifier: move the settlement's alignment 1 step closer to yours along either the good–evil or law–chaos axis; replace one settlement quality with another; change the government type; significantly alter the laws. Failure indicates that popular opinion in the city successfully opposes you. In addition, from now on, your followers gain a +1 morale bonus on attack rolls and saving throws as long as they can see you.
+
+**Special**: For groups using the kingdom-building rules from *Ultimate Campaign*, you can optionally use the rules for establishing a settlement to complete the goal of this story feat.
+
+**Suggested Traits**: Domineering, Inspiring, Natural-Born Leader.
+
 ## Eldritch Researcher (Story)
 
 You seek new applications for magical energy.
@@ -122,6 +180,20 @@ You seek new applications for magical energy.
 **Completion Benefit**: The save DCs for any spells you create increase by 1 when you cast them. In addition, when applying metamagic feats to self-created spells, reduce the total level adjustment by 1. You can’t reduce metamagic costs to lower than the spell’s original level in this manner.
 
 **Special**: For a self-created spell to benefit from this feat, it must be a truly novel spell. Spells slightly altered from the original (for example, *delayed blast fireball* as compared to *fireball*) gain no benefit. Alchemists can benefit from this feat as though their formulae and extracts were spells.
+
+## Explorer (Story)
+
+You dream of discovering new vistas.
+
+**Prerequisite**: You must have crossed at least 30 miles of wilderness without map or guide.
+
+**Benefit**: You can provide twice as much food and water for other people when attempting a Survival check to get along in the wild. In addition, you gain a +2 bonus on all Knowledge (geography) checks. If you have 10 or more ranks in Knowledge (geography), increase your bonus to +4.
+
+**Goal**: Cross through a dangerous place without a map or a guide knowledgeable about the area, stopping for no longer than 16 hours at a time, and along the way overcome an appropriate number of natural hazards, obstacles, and/or enemies, at least one of which must qualify as a challenging foe.
+
+**Completion Benefit**: You and one ally per 3 ranks of Survival can move overland without being slowed by difficult terrain (allies must remain within 30 feet of you to be affected). Once per day, you can make a preternaturally accurate estimate regarding your path, as if you had cast *find the path* on yourself (caster level equals your character level).
+
+**Suggested Traits**: Grim Optimism, Resilient, Wanderlust.
 
 ## Fearless Zeal (Story)
 
@@ -273,6 +345,34 @@ A past enemy seeks your ruin.
 
 **Special**: Thwarting your plans becomes an all-consuming goal for your nemesis. Your nemesis gains a +2 bonus on attack rolls and damage rolls against you. Whatever you try to achieve, your nemesis seeks to tear down.
 
+## Object of Legend (Story)
+
+The object of your quest drives you ever forward.
+
+**Prerequisite**: You must have some highly personal stake in attaining the object of your quest as determined collectively by you and the GM, such as needing an ancestral weapon to exact your revenge against a known betrayer, seeking to destroy the artifact that caused your family's downfall generations ago, or attempting to behead a monster that ravaged your homeland during your youth.
+
+**Benefit**: When you gain this feat, select a quest object, or devise one with your GM. You gain a +2 bonus on any Knowledge checks to gain information on the object of your quest. If you have 10 or more ranks in the Knowledge skill in question, the bonus increases to +4. In addition, once per day when you threaten a critical hit against a foe who specifically aims to stop you from completing your quest, you gain a +10 bonus on your confirmation roll against that opponent. You must announce the use of this ability after threatening the critical hit and before rolling your confirmation roll. This bonus does not stack with bonuses on confirmation rolls from other feats, such as Critical Focus.
+
+**Goal**: Attain the object of your quest, as determined by you and the GM upon taking this feat. This likely means obtaining the item for yourself, though in some cases (such as when the quest object is more abstract or intangible) this might mean slaying a certain foe, achieving a certain honor, or completing some other set of predetermined objectives.
+
+**Completion Benefit**: You gain renown throughout a region, perhaps even an entire continent. You are sung of in bardic tales and can be the subject of spells such as *legend lore*, regardless of your actual level. Commoners in nearby lands know of your deeds, and your reputation precedes you in numerous lands. In addition, you gain a specific benefit keyed to the object of your quest; work out a fitting benefit with your GM (for example, slaying a dragon might grant a +2 bonus on attack rolls and damage rolls against dragons, as a favored enemy bonus that stacks with other favored enemy bonuses, and winning a stronghold might grant a +4 bonus on stability checks while you use it as the seat of your new kingdom).
+
+**Special**: This feat may be taken more than once. Each time it is taken, select a new quest object to strive for. As with all story feats, a character cannot take this feat again until she has completed the goal of the feat's first iteration.
+
+## Planar Traveler (Story)
+
+The confines of the Material Plane cannot sate your wanderlust, and you walk between alternate spheres of reality unhindered.
+
+**Prerequisite**: You must be related to an outsider or have been born on a plane other than the Material Plane.
+
+**Benefit**: You gain a +2 bonus on Survival checks when outside your home plane. You can identify portals and other planar connections as well as where they lead by sight or touch with a successful DC 20 Perception check.
+
+**Goal**: Spend at least 24 consecutive hours on three different planes of existence other than your home plane or more than a month on a single plane other than your home plane. Demiplanes do not count for the purposes of fulfilling this goal.
+
+**Completion Benefit**: Whenever you cast a spell or use a magic item to travel to another plane, you always arrive exactly where you had intended. In addition, when identifying portals with the first benefit of this feat, you gain a glimpse of what you would see, hear, and smell upon arriving on the other end of the portal.
+
+**Suggested Traits**: Fey Protection, Scholar of the Great Beyond, Wanderlust.
+
 ## Prophet (Story)
 
 The truth has been revealed, and you have been chosen to deliver it.
@@ -358,6 +458,20 @@ You found love, only to have it denied by the cruelty of fate.
 **Completion Benefit**: The inspiration of knowing your love waits for your return gives you a +2 bonus on attack rolls, saving throws, and skill checks whenever you are below a quarter of your total hit points (not counting any temporary hit points). You lose this completion benefit if your relationship with your true love comes to an end for any reason, including death.
 
 **Special**: At the GM’s discretion, you can find true love with a person other than the one you designated when you chose this feat. In this case, the love you initially chose was wrong for you, but this became obvious only when you found the one truly meant for you.
+
+## Truth-Seeker (Story)
+
+A tantalizing secret from the past calls to you, and you intend to discover it.
+
+**Prerequisite**: You must have visited a ruin or forgotten place that has been abandoned for at least five times as long as you've been alive.
+
+**Benefit**: You gain a +2 bonus on all Knowledge (history) checks. If you have 10 or more ranks in Knowledge (history), this bonus increases to +4.
+
+**Goal**: You must discover, explore, and publicly reveal an important secret that has been unknown to the world for at least 100 years.
+
+**Completion Benefit**: Whenever you pass within 10 feet of a secret door, you receive an immediate Perception check to notice the passage. This check should be made in secret by the GM. In addition, whenever you attempt a Will save to disbelieve an illusion, you may roll twice and take the better result.
+
+**Suggested Traits**: Avid Reader, Mystery Initiate, Skeptic.
 
 ## Unforgotten (Story)
 

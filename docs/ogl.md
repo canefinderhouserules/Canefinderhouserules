@@ -249,3 +249,5 @@ The following text is the property of Wizards of the Coast, Inc. and is Copyrigh
     Pathfinder Player Companion: Pirates of the Inner Sea © 2012, Paizo Publishing, LLC; Author: Amber E. Scott.
 
     Pathfinder Player Companion: Knights of the Inner Sea © 2012, Paizo Publishing, LLC; Authors: Gareth Hanrahan, Steve Kenson, Patrick Renie, Tork Shaw, and Jerome Virnich.
+
+    Pathfinder Player Companion: Quests & Campaigns © 2013, Paizo Publishing, LLC; Authors: Amanda Hamon and David N. Ross.

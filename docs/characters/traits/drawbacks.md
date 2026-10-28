@@ -70,3 +70,49 @@ Drawbacks are gained either by choosing them or through the [background generato
 **Xenophobic**: You have a hard time understanding and trusting those with unfamiliar ways and appearances. You take a –2 penalty on Diplomacy and Sense Motive checks made against creatures of a different race or from a different culture.
 
 **Zealous**: You are fanatical in your beliefs, ruled by emotion over reason. When you attack a creature that you know worships a different religion than you do, you take a –5 penalty on the attack roll and a +2 trait bonus on the damage roll with your first attack.
+
+**Anxious**: After suffering terribly for not being tight-lipped enough as a child, such as when you accidentally exposed your family to enemy inquisitors, you developed a habit of being overly cautious with your words. You take a –2 penalty on Diplomacy checks and must speak slowly due to the concentration required. Unless stated otherwise, you are assumed to not be speaking at a volume above a whisper.
+
+**Burned**: You were badly burned once by volcanic ash, torch-wielding mobs, or some fiery accident, and the scars pain you terribly whenever you are too near to fire. You take a –1 penalty on saving throws against fire effects. In addition, whenever you are adjacent to open flames or are on fire, you take a –1 penalty on all attack rolls, saving throws, and skill checks until you spend an entire round away from fire. These penalties are not cumulative. (An instantaneous fire effect adjacent to you or affecting you causes this penalty to apply until 1 round after it is gone.)
+
+**Condescending**: Raised with the assurance that only those like you are truly worthy of respect, you have an off-putting way of demonstrating that you look down on those not of your race and ethnicity or nationality. You take a –5 penalty on Diplomacy and Intimidate checks to improve other creatures' attitudes toward you.
+
+**Cruelty**: You were rewarded as a child for flaunting your victory over others as completely as possible, and you discovered you enjoyed the feeling of rubbing your foes' faces in the dirt. Whenever you are engaged in combat and there are dying or helpless foes within 30 feet, you take a –2 penalty on attack rolls against foes who are neither dying nor helpless.
+
+**Envy**: You grew up in or near an opulent, decadent culture that valued nothing more than showing up the material wealth or accomplishments of others, causing the seed of envy to be planted in your heart. For each day you spend without stealing at least 10 gp worth of valuables or other wealth, attempt a DC 20 Will save. If you fail, you take a cumulative –1 penalty on Will and Reflex saving throws and concentration checks (up to a –5 penalty). If you succeed, the penalty is reset to 0.
+
+**Fey-Taken**: As a child, you were whisked away to the realm of the fey by mischievous fey for a time. When you returned, you were ever after considered odd and distant. You long to return there, and find the mortal world dull and at times revolting, so you do not eat as you should and do not question strange visions. You take a –2 penalty on saving throws against disease, illusions, and poison of all kinds, as well as against the spells, spell-like abilities, and supernatural abilities of fey.
+
+**Forgetful**: You are easily distracted and prone to forgetting important things. Whenever you leave a location you have been at for longer than 1 hour, you must attempt a DC 10 Wisdom check. If you fail, you leave behind one random mundane item (a purse of money counts as an item).
+
+**Haunting Regret**: When you were young, a relative with whom you had frequently quarreled passed away where his or her soul could not rest. Now, the unquiet spirit appears around you at inconvenient times, distracting you with regret for being unable to help. You take a –2 penalty on saving throws against the distraction ability of swarms and mind-affecting effects and on concentration checks.
+
+**Loner**: Raised by pirates, bandits, or other troublemakers unwilling to stick out their necks for you, you are accustomed to operating on your own. The presence of allies can easily become a distraction to you, and you do your best to keep them out of your space. You take a –1 penalty to AC and on attack rolls while adjacent to allies or when taking the aid another action.
+
+**Mark of Slavery**: You were enslaved for part or all of your youth, and marked as such with a brand or tattoo that still reminds you of how you were punished whenever you failed to do what you should. Whenever you fail a skill check, you take a –2 penalty on any skill check or attack roll you attempt before the end of your next turn unless it is a part of retrying the failed skill check.
+
+**Misbegotten**: Whether due to the influence of malign magic, disease, or the scorn of the gods, you were born with a troublesome deformity that interferes with your movement. You take a –2 penalty on all Dexterity-based skill checks.
+
+**Naive**: Your perception that everyone is innately good does not bode well in the heat of battle, when less scrupulous foes might take advantage of your misguided optimism. You take a –2 penalty to AC against attacks with improvised weapons and a –2 penalty to CMD against dirty trick combat maneuvers.
+
+**Nervous**: Living under constant threat of death or worse from your oppressive government, your nerves have frayed terribly. Whenever you take 10 on an ability check or skill check that imparts any penalty for failure (aside from wasted time), you treat your check as if you had rolled an 8 instead of a 10, even if you are able to take your time.
+
+**Oblivious**: Whether because you are an avid daydreamer or you are accustomed to everything being handed to you and spelled out for your benefit, you pay little attention to your surroundings and other people. You take a –2 penalty on Sense Motive and sight-based Perception checks.
+
+**Oppressive Expectations**: You were raised with the belief that your family was special, and that those of your status always succeed at whatever they do. Due to your concern about upholding the family name and your memories of the consequences for disappointing them (such as violence or unsettling disapproval), you are easily frustrated. When you fail at a skill check, you take a –2 penalty on checks with that skill until you succeed or until you fail at a different skill check, whichever comes first.
+
+**Overprotective**: In your youth, you saw a younger friend or loved one suffer a grievous injury or die, and you blamed yourself for not having been there to help, even if there was nothing you could have done. If one of your allies should fall unconscious from hit point damage, you take a –2 penalty on attack rolls and skill checks as long as you are farther than 10 feet away from your fallen ally.
+
+**Shadow-Scarred**: You were touched by terrible horrors that live in the darkness just outside the human sphere, such as shadow-beasts or aberrations from beyond the stars, and feel your life-force ebb away ever so slightly whenever you return to the shadows. Whenever you are in an area of dim light or darkness, you take a –1 penalty on saving throws.
+
+**Sheltered**: Brought up in courtly environments and knowing little of violence, you have trouble getting accustomed to it. Whenever you have less than half your maximum hit points, you are shaken.
+
+**Sleepy**: You must sleep or rest for at least 12 hours each night to get the benefits of a full night's rest. You take a –2 penalty on saving throws against sleep effects.
+
+**Spooked**: You had a traumatic experience with a spirit at a young age that colors your reactions to such creatures even to this day. Whenever you perceive a fey, outsider, or undead from within 60 feet, you become shaken for 1d4 rounds unless you succeed at a Will save with a DC equal to 15 + the creature's Charisma modifier. Immunity to fear effects does not allow you to forgo this saving throw; even if you are immune to fear, you must roll the Will saving throw for this drawback when applicable, albeit with a +4 bonus.
+
+**Superstitious**: Raised around those who regarded most magic as innately dangerous, no matter the source, you cannot bring yourself to submit to magic willingly even for your own good. Whenever you are affected with a harmless spell, there is a 50% chance that you must roll a saving throw to prevent that effect, even if it would benefit you. This does not apply to harmless spells cast by you upon yourself.
+
+**Tainted Spirit**: When you were a child, a parent or other person with authority over you made a minor pact with a fiend on your behalf, stealing some of your vitality in exchange for a minor boon. At the end of any combat, you must attempt a Fortitude saving throw. The DC is 10 + the number of rounds you acted in combat. If you fail this save, you become fatigued for 10 minutes per round you acted during that encounter.
+
+**Unlearned**: You have always had difficulty learning and retaining information, and know very little about the world beyond the obvious and what pertains to your profession. Choose one Knowledge skill. You cannot attempt untrained Knowledge checks with any other Knowledge skills, even if the check's DC is 10 or lower. If you have access to a library that covers a specific Knowledge skill, you may attempt an untrained Knowledge check with a –2 penalty.

@@ -155,6 +155,24 @@ These traits are associated with combat, battle, and physical prowess. They give
 
 **Crossing Veteran**: You've spent years aboard ships traveling a lucrative sea crossing, transporting exotic goods between distant coasts. You gain a +1 bonus on Profession (sailor) checks, and Profession (sailor) is a class skill for you. You also gain a +1 trait bonus on weapon damage rolls against creatures with the aquatic subtype.
 
+**Crowd Dodger**: You spent much of your youth on crowded streets, dodging quickly around and under others. You gain a +2 trait bonus on Acrobatics checks to move through another creature's space and to avoid attacks of opportunity for leaving a threatened square.
+
+**Disillusioned**: Your childhood was ended by a great disaster or atrocity that you witnessed. To cope with the horror, you have learned to reflexively suppress all emotion. You gain a +2 trait bonus on Will saving throws against emotion and fear effects.
+
+**Fire Tinkerer**: You were the child of a gunsmith or alchemist and always enjoyed experimenting with fiery alchemical items and minor explosives. You gain a +1 trait bonus on attack rolls made with thrown splash weapons and alchemist bombs.
+
+**Holdout**: You were robbed at a young age by bullies, an experience that impressed upon you the importance of being able to hold on to whatever you cared to keep. You gain a +1 trait bonus to CMD against disarm and steal combat maneuvers.
+
+**Inspiring**: As a child, you learned the power of a simple expression of faith in another when you gave a hero the inspiration to fight on in the face of terrible odds and save you from danger. As a standard action, you can speak words of encouragement to grant a +1 morale bonus to an ally within 30 feet who can see and hear you. The ally can use this bonus on any d20 roll of her choice before the start of your next turn. You cannot use this trait to grant a bonus to yourself or to an ally who has already benefited from this trait within the last 24 hours.
+
+**Pillager**: Growing up in a place where authorities, if there were any, rarely enforced property laws, you learned quickly that you have only what you can hold, but you gain whatever you can take. You gain a +1 trait bonus on combat maneuver checks to perform disarm and steal combat maneuvers.
+
+**Soaring Sprinter**: As a youth, you often leaped and ran at treacherous heights, either because it was the only place with enough freedom for you to play or because it was not a good idea to play any lower. You gain a +2 trait bonus on Acrobatics checks to keep your balance or jump, and Acrobatics becomes a class skill for you.
+
+**Sworn Enemy**: You were raised with defiance, fear, or hatred of a particular sort of foe. To make you ready to resist such foes, you were trained for long hours in the proper ways to defeat them. Choose a foe from the ranger's list of favored enemies. You gain a +1 trait bonus on attacks of opportunity against the chosen foe.
+
+**Vengeful**: During your childhood, you suffered occasional or frequent abuse from those too powerful for you to resist. Now you thrill at the chance to get back at those who wronged you. Whenever you strike the last creature that damaged you in the past 24 hours, you gain a +1 trait bonus on damage rolls against that creature.
+
 ## Faith Traits
 
 These traits rely upon conviction of spirit, perception, and religion, but are not directly tied to the worship of a specific deity. You do not need a patron deity to gain a faith trait, as these traits can represent conviction in yourself or your philosophy just as easily as they can represent dedication to a deity.
@@ -315,6 +333,22 @@ These traits rely upon conviction of spirit, perception, and religion, but are n
 
 **Venom-Drenched**: You have nothing to fear from one sort of poison. In fact, you can actually drink the toxic brew in order to make your blood dangerous. You are immune to one specific nonmagical poison. If you ingest a dose of that poison (even if it is a contact, inhaled, or injury poison), it remains in your system for 24 hours; any creature that bites you during that time is subject to the poison's effects. *Requirement*: worship a deity of murder or poison.
 
+**Authoritarian**: You spent much of your youth helping the clergy of your chosen faith perform their duties, and learned from them respect for authority. As long as you are acting in the service of a liege or leader you recognize as legitimate, you gain a +2 trait bonus on saving throws against fear and compulsion effects.
+
+**Called**: Your deity or a powerful spirit spoke to you when you were young, dropping cryptic hints about the important destiny that lay before you and how you must win your fights if you are to achieve your predetermined greatness. Once per day upon rolling a natural 1 on an attack roll, you may reroll the die and take the second result instead.
+
+**Devoted Healer**: Raised in the company of skilled healers, you were always encouraged to devote your time and energy to the welfare of others. Whenever you take 20 on a Heal check to treat deadly wounds, you restore an additional 1d4 hit points to those you aid.
+
+**Honest**: A religious mentor instilled in you a sense of uncompromising integrity. You often speak your mind in defiance of any fear or hatred it might earn you, a habit that inspires others to trust you. You gain a +1 trait bonus on Diplomacy checks. This bonus increases to +2 when the Diplomacy check is made to influence those who are already friendly or helpful toward you.
+
+**Irrepressible**: Your hope for a brighter future blessed by the gods, combined with your powerful personality, allows you to force your way free of spells that cloud the mind. You can use your Charisma modifier in place of your Wisdom modifier when attempting Will saving throws against charm and compulsion effects.
+
+**Mystery Initiate**: You were initiated into a mystery cult in your youth, and learned secrets that turned your understanding of your faith and the world on its head. This experience has given you a knack for lateral thinking. Once per day, you may reroll any Knowledge skill check. You must decide to use this ability after the first roll is made but before the results are revealed. You must take the second result, even if it is worse.
+
+**Patient Calm**: As a child, you struggled to suppress a sharp temper, but the care and patient respect of a trusted community leader rubbed off on you. As you grew older, you developed a remarkable ability to keep calm and collected when performing a task you are familiar with. Choose one Craft or Profession skill. Whenever you take 10 with that skill, determine the result as if you had rolled a 12 instead of a 10.
+
+**Spell Intuition**: Blessed by a priest of a deity of magic at birth, you demonstrated a remarkable knack for guessing the nature of spells without the schooling of your instructors. You gain a +1 trait bonus on Spellcraft checks, and Spellcraft becomes a class skill for you.
+
 ## Magic Traits
 
 These traits are associated with magic and focus on spellcasting and manipulating magic. You don’t have to be a spellcaster to take a magic trait (although several of these traits aren’t useful to non-spellcasters). Magic traits can represent a character’s early exposure to magical effects or childhood studies of magic.
@@ -446,6 +480,24 @@ These traits are associated with magic and focus on spellcasting and manipulatin
 **Ancestral Meditant**: Ancestral shamans learned to listen to and affect the world around them by reflecting on the friction between body and spirit. As someone who feels a similar friction between your inner spirit and physical body, you have picked up some old meditation techniques. While you suffer a physical ailment, such as disease, poison, or ability damage to Strength, Dexterity, or Constitution (but not including hit point damage), you gain a +2 trait bonus on Will saving throws. While you suffer a mental ailment, including insanity, any charm or compulsion effect, or ability damage to Intelligence, Wisdom, or Charisma, you gain a +2 trait bonus on Fortitude saving throws.
 
 **Spiritual Attachment**: The union between spirits and spiritualists is one of the strongest (and strangest) bonds shared between the mortal realm and the spirit world. Whether you're a spiritualist or not, you've always had a knack when it comes to interactions with the spirit world. You gain a +4 trait bonus on checks to notice haunts, and when interacting with someone who is possessed by an incorporeal undead creature, you gain a +2 trait bonus on Bluff, Diplomacy, Intimidate, and Sense Motive checks against that target.
+
+**Distance Aptitude**: You were exposed to the magic of an elf gate, portal, or some other form of distance-spanning magic when you were young. This contact with ancient world-spanning magic has granted you insight into means to extend the range of your own spells. Treat your caster level as 1 higher for the purposes of determining the range of spells and spell-like abilities.
+
+**Domineering**: When you were young, you attracted a group of devoted companions thanks to your impressive talent, and the experience inspired in you a powerful self-assurance and air of superiority. Your confidence is so strong that others feel naturally compelled to follow your commands. Choose one 1st-level enchantment spell you are capable of casting. The DC of that spell increases by 1.
+
+**Keen Appraiser**: Your frequent handling of magic items, artifacts, and other enchanted goods has made you an expert at determining when something has magical properties. You gain a +1 trait bonus on Appraise checks. In addition, you need only exceed the DC of an Appraise check by 2 in order to determine whether the item in question has magic properties (although success still does not grant knowledge of the magic item's abilities).
+
+**Fey Protection**: Your birth brought an unexpected guest to your parents' home: a helpful fey who prophesied about your future and gave you a magical gift in exchange for your parents' hospitality, a cup of milk, and a drop of your blood. You gain a +1 trait bonus to AC against attacks of opportunity made by fey and a +1 trait bonus on saving throws against the effects of fey creatures.
+
+**Fortunate**: You are blessed by fate. Once per day when you use a spell or magic item with a randomized effect (such as *confusion*, *mirror image*, *prismatic spray*, or a *bag of tricks*), before you roll to determine the result, you may choose to roll twice and pick either result.
+
+**Inured to Death**: You have been around death or the undead all of your life; you have become accustomed to its shadowy presence, and are no longer overwhelmed by it. You gain a +2 trait bonus on saving throws against death effects.
+
+**Magical Flair**: At a young age, you saw a witch burned by fearful peasants, druids falsely punished for demon worship, or another sort of spellcaster persecuted for merely practicing her dubious craft. Intent on not suffering the same fate, you approach spellcasting with a powerful desire to control how your magic is perceived by others. You can cause spells you cast to manifest with strange visual, auditory, or olfactory features that make them hard to identify. Choose a school of magic. The Spellcraft DC to identify spells you cast from that school of magic increases by 2. Onlookers who fail a Spellcraft check to identify your spell by 2 or less incorrectly identify the spell as another randomly selected spell of the same school and level.
+
+**Mutant Eye**: One of your parents was exposed to uncontrolled magic or arcane pollution before you were born, causing you to develop a minor mutation that has marked you as different all your life. You have a third eye on your forehead. As long as it is uncovered and open, you can get a clearer sense of the emotions of those you see, granting you a +2 trait bonus on Sense Motive checks that increases to +4 on checks to notice whether a character is under a mind-affecting effect. However, the eye is unsettling, and you take a –1 penalty on Bluff and Diplomacy checks against humanoids who can see it.
+
+**Scorned by Magic**: As a youth, you assisted a wise woman or witch doctor who removed magical maladies from the needy and was present for the breaking of many spells, or perhaps you passed through a dead magic zone. Whatever the cause, magic seems a little more reluctant to affect you than others. Reduce the caster level of spells and spell-like abilities cast upon you by 1 for the purpose of attempting dispel checks and overcoming your spell resistance (if any).
 
 ## Social Traits
 
@@ -594,6 +646,32 @@ Social traits reflect your upbringing; your background in high society or lack t
 **Frozen Caravaneer**: You are one of the brave travelers who have traversed a lucrative overland trade route across a frigid wasteland. These voyages have left you hardier, granting you a +1 trait bonus on Fortitude saving throws to resist the effects of cold weather. Survival is a class skill for you, and you gain one bonus language of your choice.
 
 **Unwelcome Business**: You specialize in delivering or procuring shipments where those commodities are not allowed or where your identity would elicit negative bias. You gain a +1 trait bonus on Disguise or Sleight of Hand checks, and that skill becomes a class skill for you. In addition, choose one humanoid species; you ignore the –2 penalty on Disguise checks to disguise yourself as a member of that species.
+
+**Avid Reader**: As a youth, you voraciously consumed books and scrolls provided by a member of an adventurer's guild or a learned organization, and you have internalized these stories of bold adventurers. Choose one Knowledge skill. You can always choose to take 10 on checks with the chosen Knowledge skill, even when distracted or threatened.
+
+**Competitive**: You grew up and were raised around fabulous sporting events, and your youth was consumed with a driving need to be better than everyone else. Any hint of a contest spurs you to your greatest heights of potential. Whenever another creature within 30 feet attempts a skill check and you attempt a check with the same skill before the start of that creature's next turn, you gain a +1 trait bonus on your check (this includes attempting an opposed skill check against the creature).
+
+**Free Spirit**: You respect the freedom of others to speak as they will. Your rough-and-tumble youth taught you that everyone deserves a chance to say her piece. After all, you can always simply choose to ignore the speaker. You gain a +1 trait bonus on saving throws against language-dependent effects and effects with the sonic descriptor. In addition, the DC to Intimidate you increases by 2.
+
+**Friends in High Places**: You have often seen lawbreakers go free when they demonstrate they have friends in high places, and so you put special effort into befriending powerful people yourself. Whenever you are in an area in which you have used the Diplomacy skill to gather information, you gain a +1 trait bonus on Diplomacy and Intimidate checks. This bonus increases to +2 when dealing with government officials.
+
+**Gregarious**: At least once in your childhood, your family moved for a reason you didn't understand and you were forced to leave behind your old friends and make new ones. Ever since, you have always been the first to meet strangers, make new friends, and welcome travelers. You learned that first impressions are the most important, and have a knack for making a good one. Once per day, when you attempt a Diplomacy check to improve a creature's attitude toward you, you may choose to reroll the check after the first roll is made but before the results are revealed. You must take the second result, even if it is worse.
+
+**Grim Optimism**: Growing up with no one to rely on but yourself, you learned to keep a realistic view of your situation and avoid falling into the trap of cynicism with a healthy dose of wit. As a standard action, you can joke about a troublesome situation to lighten the load of dealing with it for yourself and others. You and all allies within 30 feet who can hear you gain a +2 morale bonus on saving throws against fear and pain effects for 1d4 rounds. A character cannot benefit from this effect more than once in 24 hours.
+
+**Memorable**: Growing up amid a large number of children, you learned quickly how to get others' attention and keep it. When you modify a character's attitude with the Diplomacy or Intimidate skill, the attitude change lasts 1-1/2 times longer than it otherwise would. Whenever you create a fear or mind-affecting effect that imposes a penalty or bonus with a duration of at least 2 rounds, it lasts 1 additional round after it would normally end. For example, if you demoralize a foe with an Intimidate check and beat the DC by 5, the victim is shaken for 3 rounds instead of the usual 2 rounds.
+
+**Secret-Keeper**: Growing up in a land where paranoia fills the air and any accusation of heresy or dissent can spell doom for whole families, you learned very quickly to keep a secret. You gain a +1 trait bonus on Bluff checks and a +1 trait bonus on saving throws against divinations, domination effects, and effects that would compel you to speak the truth.
+
+**Snowbound**: You came of age in a place with harsh winters amid a culture that rewarded you for testing your limits in the cold. You gain a +1 trait bonus on saving throws against cold effects and a +2 trait bonus on Fortitude saves against the effects of cold weather.
+
+**Student of Philosophy**: You were trained in a now-defunct philosophical tradition, such as that of a destroyed university or a lost school of astrologers, and learned to use logic and reason to persuade others. You can use your Intelligence modifier in place of your Charisma modifier on Diplomacy checks to persuade others and on Bluff checks to convince others that a lie is true. (This trait does not affect Diplomacy checks to gather information or Bluff checks to feint in combat.)
+
+**Supportive**: You were forced to get by in an isolated enclave, whether surrounded by a community that feared and suspected you or in a remote locale far from other people, and you became practiced at assisting your friends. You gain a +1 trait bonus on skill checks to use the aid another action.
+
+**Tropical Upbringing**: You were raised in searing-hot deserts, plains, jungles, or other areas, and developed an impressive resistance to heat. You gain a +1 trait bonus on saving throws against fire effects and a +2 trait bonus on Fortitude saves against the effects of hot weather.
+
+**Wanderlust**: Your childhood was brightened by the new places you constantly saw as you traveled with your parents, who were merchants. Still excited by travel, you gain great energy when traveling overland. Treat your base land speed as 10 feet higher when determining your overland speed.
 
 ## Equipment Traits
 

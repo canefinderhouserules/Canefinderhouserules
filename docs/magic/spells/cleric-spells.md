@@ -36,6 +36,7 @@
 - **[Carrion Compass](carrion-compass.md)**: Organ leads you to an undead creature's controller
 - **[Cause Fear](cause-fear.md)**: One creature of 5 HD or less flees for 1d4 rounds.
 - **[Celestial Healing](celestial-healing.md)**: Target gains fast healing 1.
+- **[Ceremony](ceremony.md)**: Cleric rites granting small boons to participants.
 - **[Clarion Call](clarion-call.md)**: Creates a horn blast and a booming voice.
 - **[Cloak of Secrets](cloak-of-secrets.md)**: Bubble disguises speech and spell components.
 - **[Command](command.md)**: One subject obeys selected command for 1 round.
@@ -184,6 +185,7 @@
 - **[Delay Poison](delay-poison.md)**: Stops poison from harming target for 1 hour/level.
 - **[Desecrate](desecrate.md)**: Fills area with negative energy, making undead stronger.
 - **[Detect Magic, Greater](detect-magic-greater.md)**: As *detect magic*, but learn more information.
+- **[Detect Relations](detect-relations.md)**: Reveals blood relations among creatures.
 - **[Diminish Resistance](diminish-resistance.md)**: Weaken a creature’s resistance to one energy type.
 - **[Display Aversion](display-aversion.md)**: an illusion of a vampire's aversion keeps it at bay
 - **[Dress Corpse](dress-corpse.md)**: Doctor the evidence on a corpse.
@@ -645,6 +647,7 @@
 - **[Bear’s Endurance, Mass](bears-endurance-mass.md)**: As *bear’s endurance*, affects 1 subject/level.
 - **[Betraying Sting](betraying-sting.md)**: Smite those who trusted you
 - **[Blade Barrier](blade-barrier.md)**: Wall of blades deals 1d6/level damage.
+- **[Bless Army](bless-army.md)**: An army gains +1 on OM and Morale checks.
 - **[Bloodsworn Retribution](bloodsworn-retribution.md)**: Swear an oath of retribution on your own blood for morale bonuses.
 - **[Bull’s Strength, Mass](bulls-strength-mass.md)**: As *bull’s strength*, affects 1 subject/level.
 - **[Chains of Light](chains-of-light.md)**: Hold a creature in chains of light and block extradimensional travel.
@@ -809,6 +812,7 @@
 - **[False Resurrection, Greater](false-resurrection-greater.md)**: Appear to use *true resurrection* on someone but instead allow a belier devil to possess the corpse.
 - **[Gate](gate.md)**: Connects two planes for travel or summoning.
 - **[Heal, Mass](heal-mass.md)**: As *heal*, but affects 1 subject/level.
+- **[Imbue Army Special Ability](imbue-army-special-ability.md)**: Gives an army one of its commander's special abilities.
 - **[Implosion](implosion.md)**: Inflict 10 damage/level to one creature/round.
 - **[Judgment Undone](judgment-undone.md)**: Restores a petitioner to its mortal life
 - **[Massacre](massacre.md)**: Slaughter creatures in a line.

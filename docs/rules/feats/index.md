@@ -1651,6 +1651,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Caustic Slur](caustic-slur.md) | General | Bluff 1 rank, favored enemy class feature, gnome |
 | [Cecaelia Focus Tattoo](cecaelia-focus-tattoo.md) | — | Cecaelia |
 | [Celestial Guidance](celestial-guidance.md) | General | — |
+| [Center of Power](center-of-power.md) | — | Leadership score 13, hold a leadership role related to running a kingdom |
 | [Centered Spell](centered-spell.md) | Metamagic | Spellcraft 3 ranks |
 | [Chain Challenge](chain-challenge.md) | — | Challenge class feature, character level 7th |
 | [Chairbreaker](chairbreaker.md) | Combat | Catch Off-Guard, base attack bonus +1 |
@@ -1898,6 +1899,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Expeditious Sleuth](expeditious-sleuth.md) | — | Perception 3 ranks, inspiration or lore master class feature |
 | [Expert Boarder](expert-boarder.md) | — | — |
 | [Expert Sniper](expert-sniper.md) | Combat | Stealth 3 ranks |
+| [Expert Trainer](expert-trainer.md) | — | — |
 | [Explosive Escape](explosive-escape.md) | Combat | Dex 13, Str 13, Improved Grapple, Improved Unarmed Strike |
 | [Exquisite Sneak](exquisite-sneak.md) | — | Dex 15, Careful Sneak, Stealth 6 ranks |
 | [Extend the Bulwark](extend-the-bulwark.md) | Combat, Teamwork | — |
@@ -1978,15 +1980,19 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Focused Magical Beast Expertise](focused-magical-beast-expertise.md) | Combat | Favored enemy (magical beast) class feature |
 | [Focused Ooze Expertise](focused-ooze-expertise.md) | Combat | Favored enemy (ooze) class feature |
 | [Focused Outsider Expertise](focused-outsider-expertise.md) | Combat | Favored enemy (outsider) class feature |
+| [Focused Overseer](focused-overseer.md) | — | Focused Worker |
 | [Focused Plant Expertise](focused-plant-expertise.md) | Combat | Favored enemy (plant) class feature |
 | [Focused Target](focused-target.md) | Combat | Studied target class feature (second studied target) |
 | [Focused Undead Expertise](focused-undead-expertise.md) | Combat | Favored enemy (undead) class feature |
 | [Focused Vermin Expertise](focused-vermin-expertise.md) | Combat | Favored enemy (vermin) class feature |
+| [Focused Worker](focused-worker.md) | — | — |
 | [Fool Magic](fool-magic.md) | — | Deceitful, Disguise 1 rank, Use Magic Device 1 rank |
 | [Force Shield Mastery](force-shield-mastery.md) | Item Mastery | Use Magic Device 3 ranks, base Fortitude saving throw bonus +3 |
 | [Forceful Channel](forceful-channel.md) | — | Channel negative energy 7d6, worshiper of a deity of magic |
 | [Forceful Charge](forceful-charge.md) | Animal Companion | Improved Bull Rush, Power Attack, animal companion |
 | [Fortuitous Vigor](fortuitous-vigor.md) | Combat | Con 13, Combat Vigor, character level 4th |
+| [Fortunate Manager](fortunate-manager.md) | — | Own at least one building |
+| [Fortunate Ruler](fortunate-ruler.md) | — | Hold the Ruler leadership role for a kingdom |
 | [Fox Insight](fox-insight.md) | Combat | Int 13, Fox Style |
 | [Fox Style](fox-style.md) | Combat, Style | Int 13 |
 | [Fox Trickery](fox-trickery.md) | Combat | Int 13, Combat Expertise, Fox Insight, Fox Style, Improved Dirty Trick |
@@ -2123,6 +2129,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Inscribe Magical Tattoo](inscribe-magical-tattoo.md) | Item Creation | Craft (calligraphy, paintings, or tattoos) 5 ranks, caster level 5th |
 | [Insidious Healing](insidious-healing.md) | — | — |
 | [Insightful Advice](insightful-advice.md) | — | Perform (oratory) 3 ranks |
+| [Inspirational Commander](inspirational-commander.md) | — | Charisma 13 |
 | [Inspired Sneak Attack](inspired-sneak-attack.md) | Combat | Inspiration pool; sneak attack or studied strike class feature |
 | [Inspiring Bravery](inspiring-bravery.md) | Combat | Cha 13, bravery class feature |
 | [Inspiring Mentor](inspiring-mentor.md) | — | Cha 13, inspire competence bardic performance |
@@ -2264,6 +2271,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Nameless One](nameless-one.md) | — | — |
 | [Nanite Disruption](nanite-disruption.md) | Android | Nanite surge racial trait |
 | [Narrow Frame](narrow-frame.md) | — | Escape Artist 1 rank, animal or magical beast |
+| [Natural Ruler](natural-ruler.md) | — | Hold a leadership role related to running a kingdom |
 | [Nature Soul](nature-soul.md) | — | — |
 | [Nature's Wrath](natures-wrath.md) | — | Int 1, any nongood alignment, plant type |
 | [Needle in a Haystack](needle-in-a-haystack.md) | — | Skill Focus (Perception), Perception 3 ranks |
@@ -2357,6 +2365,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Powerful Wings](powerful-wings.md) | Combat | Str 13, Skill Focus (Fly), base attack bonus +8 |
 | [Practiced Leadership](practiced-leadership.md) | — | Leadership, membership in the same organization as your cohort |
 | [Practiced Ritualist](practiced-ritualist.md) | — | Knowledge (arcana, history, planes, and religion) 1 rank |
+| [Precocious Youth](precocious-youth.md) | — | Young age category |
 | [Press to the Wall](press-to-the-wall.md) | Combat | Step Up, base attack bonus +3 |
 | [Primal Bloom](primal-bloom.md) | Conduit | Knowledge (planes) 10 ranks |
 | [Primal Bluff](primal-bluff.md) | General | Bluff 1 rank, wild shape class feature, gnome |
@@ -2623,6 +2632,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Sunblade](sunblade.md) | — | Word of Healing, paladin level 5th, worshiper of a deity that grants the Fire or Sun domain |
 | [Sunder Blessing](sunder-blessing.md) | Combat | Disruptive, fighter level 8th. |
 | [Sunlit Strike](sunlit-strike.md) | — | Arcane Strike, able to prepare or cast *sunlight* |
+| [Superintendent](superintendent.md) | — | Own at least one room |
 | [Superior Dirty Trick](superior-dirty-trick.md) | Combat | Int 13, Combat Expertise, Greater Dirty Trick, Improved Dirty Trick, base attack bonus +8 |
 | [Superior Scryer](superior-scryer.md) | — | Spell Focus (divination), the ability to cast at least one spell of the scrying subschool |
 | [Supernal Feast](supernal-feast.md) | — | Con 15, aasimar |

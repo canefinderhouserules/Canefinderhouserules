@@ -109,6 +109,7 @@ New inquisitor spells from *Ultimate Magic*. Spells from other books will be add
 - **[Delay Pain](delay-pain.md)**: Ignore pain for 1 hour/level.
 - **[Demand Offering](demand-offering.md)**: Make a creature give you an object it’s holding.
 - **[Detect Magic, Greater](detect-magic-greater.md)**: As *detect magic*, but learn more information.
+- **[Detect Relations](detect-relations.md)**: Reveals blood relations among creatures.
 - **[Diminish Resistance](diminish-resistance.md)**: Weaken a creature’s resistance to one energy type.
 - **[Discovery Torch](discovery-torch.md)**: Touched object emanates bright light, granting Perception and Sense Motive bonuses.
 - **[Disguise Other](disguise-other.md)**: As disguise self, but affects you or another.
@@ -390,6 +391,7 @@ New inquisitor spells from *Ultimate Magic*. Spells from other books will be add
 - **[Prognostication](prognostication.md)**: Gain cryptic information from further in the future than *divination*.
 - **[Rotting Alliance](rotting-alliance.md)**: Curse several creatures to waste away when near one another.
 - **[Shadow Memory](shadow-memory.md)**: Learn a target’s secrets to aid an assassination.
+- **[Tactical Insight](tactical-insight.md)**: Grants an army mastery of one tactic.
 - **[Umbral Strike](umbral-strike.md)**: a bolt of dark energy deals cold and negative damage and blinds
 - **[Unshakable Zeal](unshakable-zeal.md)**: Grant benefits on future attempts after failed checks, and protect against fear and emotion effects.
 - **[Wither Limb](wither-limb.md)**: Make one of the target’s limbs useless.
