@@ -283,6 +283,7 @@
 - **[Tears to Wine](tears-to-wine.md)**: Turn liquids into wine that sharpens the mind.
 - **[Thunder Arrow](thunder-arrow.md)**: Electric arrow that attacks or signals.
 - **[Touch of Mercy](touch-of-mercy.md)**: Target deals only nonlethal damage with weapon attacks.
+- **[Track Ship](track-ship.md)**: Tracks a ship on a nautical chart.
 - **[Trail of the Rose](trail-of-the-rose.md)**: Leave a trail only you and chosen allies can see.
 - **[Transmute Wine to Blood](transmute-wine-to-blood.md)**: turn a bottle of wine into a pint of animal blood
 - **[Twisted Futures](twisted-futures.md)**: Target can't reroll or pick die results.
@@ -403,6 +404,7 @@
 - **[Shared Training](shared-training.md)**: grant a teamwork feat to allies
 - **[Sharesister](sharesister.md)**: Take a negative level to boost an ally’s casting.
 - **[Shield of Darkness](shield-of-darkness.md)**: magical darkness grants you total concealment
+- **[Skeleton Crew](skeleton-crew.md)**: Animates corpses as skeleton sailors.
 - **[Sky Swim](sky-swim.md)**: Swim through the air.
 - **[Slave to Sin](slave-to-sin.md)**: Exploit a creature’s sin to sicken and stagger it.
 - **[Soul Vault](soul-vault.md)**: Protect a soul from being trapped
@@ -443,6 +445,7 @@
 - **[Bereave](bereave.md)**: Make targets count as enemies to their own allies
 - **[Bestow Planar Infusion II](bestow-planar-infusion-ii.md)**: Grant a target the effects of an improved planar infusion
 - **[Bit of Luck](bit-of-luck.md)**: reservoir of luck points for attack rolls and skill checks
+- **[Black Spot](black-spot.md)**: A permanent curse that draws attackers and drains Constitution.
 - **[Blade of Light](blade-of-light.md)**: Weapon shines with sunlight, harming undead.
 - **[Borrow Corruption](borrow-corruption.md)**: Temporarily gain the effects of a corrupted creature’s manifestations.
 - **[Bountiful Banquet](bountiful-banquet.md)**: Create a luxurious feast for two creatures/level.
@@ -809,6 +812,7 @@
 - **[Massacre](massacre.md)**: Slaughter creatures in a line.
 - **[Miracle](miracle.md)**: Requests a deity’s intercession.
 - **[Parasitic Soul](parasitic-soul.md)**: Place a trapped soul in a victim's body
+- **[Salvage](salvage.md)**: Rebuilds a shipwreck and raises it to the surface.
 - **[Scourge of Ruin](scourge-of-ruin.md)**: Negative levels and acid in a burst
 - **[Soul Bind](soul-bind.md)**: Traps newly dead soul to prevent *resurrection*.
 - **[Spell Immunity, Greater Communal](spell-immunity-greater-communal.md)**: As greater spell immunity, but you may divide the duration among creatures touched.

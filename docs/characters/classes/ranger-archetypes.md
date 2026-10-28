@@ -1314,3 +1314,13 @@ Witch guards are the sworn defenders of powerful winter witches. Although witche
 **Patron (Su)**: A witch guard learns something of arcane magic from the witches he defends. At 4th level, when a witch guard gains the ability to cast spells, he must also select a patron, as the witch class feature. This patron is usually the same as the patron of the witch he is sworn to protect, but the witch guard may choose any patron. The witch guard adds the first four spells from his patron's spell list to his ranger spell list. The witch guard cannot cast patron spells of a level he is unable to cast.
 
 **Sworn Defender (Ex)**: At 7th level, a witch guard gains In Harm's Way as a bonus feat. This ability replaces woodland stride.
+
+## Freebooter
+
+A freebooter is a natural leader, a pirate who works well with a variety of people and in a variety of roles. Her specialized combat tactics help organize and direct a crew. Most freebooters work as independent agents, signing on with a crew when they feel the urge to travel and often moving to a new ship when the contract ends.
+
+**Freebooter's Bane (Ex)**: At 1st level, the freebooter can, as a move action, indicate an enemy in combat and rally her allies to focus on that target. The freebooter and her allies gain a +1 bonus on weapon attack and damage rolls against the target. This applies only to allies who can see or hear the freebooter and are within 30 feet of her when she activates the ability. At 5th level and every 5 levels thereafter, the bonus increases by 1. The bane lasts until the target dies or the freebooter selects a new target. This ability replaces favored enemy.
+
+**Freebooter's Bond (Ex)**: At 4th level, a freebooter can spend a move action to grant her allies extra combat prowess when they work as a team. All allies within 30 feet who can see or hear the freebooter gain an additional +2 bonus on attack rolls when flanking with the freebooter or with another ally affected by this ability. This ability replaces hunter's bond.
+
+**Fast Swimmer (Ex)**: At 7th level, a freebooter may swim half her speed as a move action or her normal speed as a full-round action with a successful Swim check. She gains a +2 bonus on Swim checks. This ability replaces woodland stride.

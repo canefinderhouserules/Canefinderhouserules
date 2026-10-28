@@ -2476,3 +2476,65 @@ These sturdy and majestic caribou roam the northern tundra in great herds, and p
 **Price** 2 sp; **Weight** 1 lb.
 
 A common source of illumination in northern lands, 1 pint of whale oil burns for 10 hours in a lantern or lamp. It otherwise functions as normal oil.
+
+## Pirate Gear
+
+### Chest, Treasure
+
+**Price** 3 gp (small), 7 gp (medium), 15 gp (large), 37 gp (huge); **Weight** 25 lbs. (small), 50 lbs. (medium), 100 lbs. (large), 250 lbs. (huge)
+
+A treasure chest begins as a common wooden chest and is treated with resin to make the wood water-resistant. Metal bands, usually bronze to prevent rusting, strengthen it, and the lock is also bronze. A treasure chest uses the statistics of an ordinary wooden chest, but its hit points increase by 25% and its Break DC increases by 2. Treasure chests stand up better to water travel and to being buried than ordinary chests.
+
+### Eye Patch
+
+**Price** 1 sp; **Weight** —
+
+An eye patch covers one eye and ties around the head. Pirates usually wear eye patches to cover injured or blind eyes, but some wear them to look more intimidating, or to keep one eye covered and thus retain night vision when moving from the darkness belowdecks to the sunlight above.
+
+### Flag
+
+**Price** 2 gp (ensign or courtesy, small), 5 gp (ensign or courtesy, large), 4 gp (personal signal, small), 10 gp (personal signal, large); **Weight** —; 1 lb. (large flags)
+
+Small nautical flags measure 3 feet by 5 feet, while large ones measure 6 feet by 10 feet. Most ships fly a large national flag (ensign), a small courtesy flag (the flag of the nation whose waters it is sailing in), and a personal signal, but flag sizes depend on ship size and personal preference. Cloth degrades quickly at sea, and most captains replace their flags every two or three voyages. Ensign and courtesy flags cost less than personal signals, which must be custom ordered.
+
+### Grog
+
+**Price** 1 cp (cup), 1 sp (gallon); **Weight** 1 lb. (cup), 8 lbs. (gallon)
+
+Sailors, especially on pirate crews, often demand daily rations of alcohol. To prevent hoarding (and the resulting drunkenness), most captains mix alcohol with water and a bit of citrus juice. The water dilutes the alcohol and makes it spoil more quickly, while the citrus masks the taste of spoilage and prevents scurvy.
+
+### Hat
+
+**Price** 1 sp–50 gp; **Weight** 1/2 lb.–2 lbs.*
+
+Hats of various styles appear in all cultures. A hat can be a simple covering for the head or a sign of rank and status. Pirates often wear bandanas or tricorn hats, while captains prefer bicornes.
+
+### Peg Leg
+
+**Price** 10 gp; **Weight** 5 lbs.*
+
+A peg leg is a wooden stump with a socket built on one end to fit over an individual's knee. A peg leg reduces your base speed by 5 feet and imposes a –4 penalty on Acrobatics, Climb, and Swim checks. You take half damage from caltrops. Hidden compartments can hold small items weighing up to 1 or 2 pounds (or a few swigs of grog). If you have two peg legs, your base speed is reduced to half, you take a –10 penalty on Acrobatics, Climb, and Swim checks, and you are immune to damage from caltrops. Peg legs presume that the knee joint is intact; if it is not, use the prosthesis statistics instead.
+
+### Pirate Clothes
+
+**Price** 1 sp (basic), 30 gp (fancy); **Weight** 2 lbs.* (basic), 6 lbs.* (fancy)
+
+Most pirates wear a basic outfit of linen shirt, canvas knee-breeches, cotton stockings, and leather shoes. Well-to-do pirates, particularly captains, add fancy touches such as velvet or silk jackets with brass buttons, tall leather boots, ruffled collars, and plumed hats.
+
+### Prosthesis
+
+**Price** 10 gp (arm), 1 gp (foot), 1 gp (hand), 20 gp (leg); **Weight** 3 lbs.* (arm), 2 lbs.* (foot), 1 lb.* (hand), 6 lbs.* (leg)
+
+Prostheses are usually carved of wood and painted to match the wearer's skin tone. They have limited functionality, allowing a person missing a leg to walk at half speed, or a person missing an arm to hold a shield in a fixed position, but little more. A prosthetic hand or foot can hold only an item with negligible weight, while a prosthetic limb can hold up to 1 or 2 pounds in a hidden compartment.
+
+### Tar Bomb
+
+**Price** 15 gp; **Weight** 2 lbs.; **Craft DC** 15
+
+A head-sized lump of tar is wrapped around a rope and set on fire. You use the rope to lob the burning tar onto an enemy's deck, where it sticks and sets the ship alight. It functions as a less potent alchemist's fire: a ranged touch attack with a range increment of 10 feet. Lighting a tar bomb is a move action. A hit deals 1d4 points of fire damage and can set the struck object or creature on fire, causing an additional 1d6 points of fire damage each round unless the target or an adjacent creature makes a DC 15 Reflex save to extinguish the flames as a full-round action. Knocking the tar bomb or the burning creature or object into water, or magically extinguishing the flames, automatically smothers the fire. It lacks splash damage.
+
+### Tattoo
+
+**Price** 1 cp–20 gp; **Weight** —
+
+The cost of a tattoo depends on its quality, size, and number of colors. A coin-sized tattoo in blue ink that will blur over a decade may cost 1 cp, a hand-sized one in black ink that will not fade costs 1 sp, and a tattoo covering an entire back takes several sessions and costs 10 gp. Each additional color costs as much as a single tattoo of its size.

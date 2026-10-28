@@ -1005,3 +1005,15 @@ Kobolds know there's strength in numbers, and they rarely send fewer than two ko
 **Always Underfoot (Ex)**: At 13th level, the swarm fighter gains Step Up as a bonus feat. A creature sharing a square with the swarm fighter is considered adjacent for the purposes of this feat. At 17th level, the swarm fighter gains Following Step as a bonus feat. These abilities replace weapon training 3 and 4.
 
 **Soft Underbelly (Ex)**: At 20th level, any attacks made against creatures with which the swarm fighter shares a space automatically confirm all critical threats. This ability replaces weapon mastery.
+
+## Corsair
+
+A corsair is a pirate who focuses on shipboard combat, relying on strength of arms over agility. He specializes in traditional pirate weapons but often wears heavier armor than is normally seen on a ship. A corsair moves and fights easily in his armor, even in the water. Captains value corsairs for their skill in defending the ship and in boarding actions.
+
+**Pirate Weapons (Ex)**: When selecting a group of weapons for weapon training, a corsair can select Pirate Weapons as a group. The Pirate Weapons group consists of the crossbow, cutlass, dagger, hook hand, rapier, and short sword.
+
+**Deck Fighting (Ex)**: At 2nd level, a corsair gains Cleave as a bonus feat, even if he does not meet the prerequisites. A corsair does not take the normal –2 penalty to AC when using Cleave. This ability replaces the fighter's 2nd-level bonus feat.
+
+**Armored Pirate (Ex)**: At 3rd level, the corsair reduces the armor check penalty of any light armor he wears to 0 for purposes of Acrobatics and Swim checks. At 7th level, this becomes true of medium armor as well, and at 11th level it includes heavy armor. This ability replaces armor training.
+
+**Improved Deck Fighting (Ex)**: At 6th level, the corsair gains Great Cleave as a bonus feat, even if he does not meet the prerequisites. A corsair does not take the normal –2 penalty to AC when using Great Cleave. This ability replaces the fighter's 6th-level bonus feat.

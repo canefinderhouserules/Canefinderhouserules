@@ -245,3 +245,5 @@ The following text is the property of Wizards of the Coast, Inc. and is Copyrigh
     Pathfinder Player Companion: People of the Sands © 2013, Paizo Publishing, LLC; Authors: Shaun Hocking, Rob McCreary, and Jason Nelson.
 
     Pathfinder Player Companion: People of the North © 2012, Paizo Publishing, LLC; Authors: Matthew Goodall, Shaun Hocking, Rob McCreary, Philip Minchin, and William Thrasher.
+
+    Pathfinder Player Companion: Pirates of the Inner Sea © 2012, Paizo Publishing, LLC; Author: Amber E. Scott.

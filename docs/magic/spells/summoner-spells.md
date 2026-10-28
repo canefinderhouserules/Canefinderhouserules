@@ -152,6 +152,7 @@ New summoner spells from *Ultimate Magic*. Spells from other books will be added
 - **[Seek Shelter](seek-shelter.md)**: Weak creatures flee to safety in an orderly fashion.
 - **[Shadow Invasion](shadow-invasion.md)**: Create an area of darkness that strengthens shadow spells and attracts kytons
 - **[Shadow Jaunt](shadow-jaunt.md)**: Teleport between shadows, leaving an image behind
+- **[Skeleton Crew](skeleton-crew.md)**: Animates corpses as skeleton sailors.
 - **[Stoneskin, Communal](stoneskin-communal.md)**
 - **[Summon Genie](summon-genie.md)**: Summons a djinni or janni.
 - **[Summoner Conduit](summoner-conduit.md)**: The target takes damage whenever its summoned creature does.
@@ -190,6 +191,7 @@ New summoner spells from *Ultimate Magic*. Spells from other books will be added
 - **[Straitjacket](straitjacket.md)**: Restrain a creature’s arms and grant it a second saving throw against certain magic.
 - **[Summon Genie, Greater](summon-genie-greater.md)**: Summons a shaitan, djinn or janni.
 - **[Tar Pool](tar-pool.md)**: Converts the top layer of the ground into hot tar.
+- **[Unseen Crew](unseen-crew.md)**: Invisible sailors crew a ship.
 - **[Vengeful Stinger](vengeful-stinger.md)**: Stinging tail retaliates against melee attackers.
 - **[Walk the Plank](walk-the-plank.md)**: Open a shark-filled pit in the ground
 - **[Whip of Centipedes](whip-of-centipedes.md)**: As whip of spiders, but with centipedes.

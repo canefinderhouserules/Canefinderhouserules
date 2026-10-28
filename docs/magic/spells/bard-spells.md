@@ -304,6 +304,7 @@
 - **[Thunder Fire](thunder-fire.md)**: Ammunition in the targeted firearm deafens opponents.
 - **[Tongues](tongues.md)**: Speak and understand any language.
 - **[Touch of Mercy](touch-of-mercy.md)**: Target deals only nonlethal damage with weapon attacks.
+- **[Track Ship](track-ship.md)**: Tracks a ship on a nautical chart.
 - **[Trail of the Rose](trail-of-the-rose.md)**: Leave a trail only you and chosen allies can see.
 - **[Trapfinder’s Focus](trapfinders-focus.md)**: Gain trapfinding or +5 on Disable Device.
 - **[Umbral Weapon](umbral-weapon.md)**: Reroll missed attacks for cold damage.
@@ -509,6 +510,7 @@
 - **[Summon Ship](summon-ship.md)**: conjure a ship
 - **[Tough Crowd](tough-crowd.md)**: Allies resist the next enchantment or illusion and manipulation.
 - **[Truespeak](truespeak.md)**: You can communicate with any creature that is not mindless.
+- **[Unseen Crew](unseen-crew.md)**: Invisible sailors crew a ship.
 - **[Verdant Song](verdant-song.md)**: Your bardic performance heals allies.
 - **[Vicarious View](vicarious-view.md)**: Plant a scrying sensor that you can use to spy on a creature, object, or location.
 - **[Vigilant Rest](vigilant-rest.md)**: Cause a sleeping creature to retain some perception of its surroundings.

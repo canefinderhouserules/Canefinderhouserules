@@ -274,6 +274,64 @@ These traits tie characters to a campaign of frost and fury that begins in a war
 
 **Warded Against Witchery**: Sometime in your youth, you encountered a location, object, or being steeped in the power of evil witchcraft. Whether you were the victim of this force, a conduit for it, or merely witnessed its effects, the event changed your life. Whether through purity and the blessing of goodly spirits, an innate determination, or an intuitive familiarity with the ways of black magic, you have acquired a resilience against the dark arts. You gain a +1 trait bonus on saving throws against the spells, spell-like abilities, and supernatural abilities of evil arcane spellcasters, and a +1 trait bonus on Spellcraft checks to identify spells cast by evil arcane spellcasters.
 
+## Pirate Traits
+
+**Chainbreaker** *(slaver-hunting privateers)*: You have freed many captives from their chains. You gain a +1 trait bonus on Disable Device checks to open locks, a +1 trait bonus on Strength checks to break chains or bars in order to free slaves, and a +1 trait bonus to CMB when sundering chains or bars in order to free slaves.
+
+**Fight for Liberty** *(slaver-hunting privateers)*: As a standard action, you can make a DC 15 Perform (oratory) check to deliver a rallying cry. Unarmed allies within 30 feet who hear it gain a +2 trait bonus on attack rolls with improvised weapons and unarmed strikes for 1 round per level.
+
+**Freedom Fighter** *(slaver-hunting privateers)*: You gain a +2 trait bonus on Diplomacy checks against creatures who oppose slavery and a –2 penalty against slavers or those who support the slave trade. Diplomacy is a class skill for you.
+
+**Pretend Pirate** *(slaver-hunting privateers)*: You gain a +2 trait bonus on Disguise checks to look like a pirate or merchant sailor. Spending 5 minutes altering a ship's look increases the DC to identify its true allegiance by 2.
+
+**Devilfish Diver** *(tropical freebooters)*: You gain a +2 trait bonus on saving throws against poison.
+
+**Dinosaur Whisperer** *(tropical freebooters)*: You gain a +1 trait bonus on Knowledge (nature) and Survival checks regarding dinosaurs, and a +1 trait bonus on wild empathy checks against dinosaurs.
+
+**Pirate Duelist** *(tropical freebooters)*: You gain a +1 trait bonus on attack rolls for attacks of opportunity made with daggers, short swords, cutlasses, rapiers, scimitars, or hook hands.
+
+**Treasure Mapper** *(tropical freebooters)*: You gain a +2 trait bonus on Survival or Profession (sailor) checks made to navigate by a map. Choose one of these skills; it is a class skill for you.
+
+**Abolitionist Hunter** *(slavers)*: You gain a +1 trait bonus on attack rolls against abolitionists and against anyone who has targeted you for slaving.
+
+**Cruel Master** *(slavers)*: You gain a +1 trait bonus on Intimidate checks, and Intimidate is a class skill for you.
+
+**Slave Taker** *(slavers)*: You gain a +1 trait bonus on nonlethal damage rolls.
+
+**Whip Specialist** *(slavers)*: You gain a +1 trait bonus on damage rolls with whips.
+
+**Cipher-mage Backer** *(stabilized port)*: Once per day in your home port, you can make a single Knowledge (arcana) or Knowledge (history) check with a +15 bonus to learn about artifacts and history. Choose the skill each day.
+
+**Eager Combatant** *(stabilized port)*: You gain a +1 trait bonus on attack rolls while on an enemy ship.
+
+**Gambling Hall Regular** *(stabilized port)*: You gain a +1 trait bonus on Profession (gambler) checks and a +2 trait bonus on Diplomacy checks to gather information in your home port.
+
+**Shipboard Caster** *(stabilized port)*: You gain a +3 trait bonus on concentration checks while on a vessel.
+
+**Expert Swimmer** *(river raiders)*: You gain a +1 trait bonus on Swim checks, and Swim is a class skill for you.
+
+**Free Agent** *(river raiders)*: You gain a +2 trait bonus on Will saves against charm and compulsion effects.
+
+**River Navigator** *(river raiders)*: You gain a +1 trait bonus on Survival or Profession (sailor) checks on lakes and rivers. Choose one of these skills; it is a class skill for you.
+
+**River Sniper** *(river raiders)*: You gain a +1 trait bonus on ranged attack rolls while on the deck of a waterborne vessel.
+
+**Home Port** *(pirate lords)*: You gain a +2 trait bonus on Diplomacy checks to gather information in your chosen home port.
+
+**Hurricane Savvy** *(pirate lords)*: You treat wind as one force category lower, both for checks and for sailing.
+
+**Narrow Escape** *(pirate lords)*: You gain a +1 trait bonus on Escape Artist checks, and Escape Artist is a class skill for you.
+
+**Ship Aptitude** *(pirate lords)*: You gain a +1 trait bonus on Profession (sailor) checks, and Profession (sailor) is a class skill for you.
+
+## Pirate Faith Traits
+
+These traits may only be taken by worshipers of a deity of piracy and the sea.
+
+**Cheat Death** *(pirate deity)*: Once per day, when you would be reduced to 0 or fewer hit points as a result of a failed ability check, skill check, or saving throw on your part, you may reroll the failed check. You must take the result of the second roll, even if it is worse.
+
+**Expert Boarder** *(pirate deity)*: While fighting on the deck of a ship, you gain a +1 trait bonus on all attack rolls made with one-handed weapons.
+
 ## Brewing and Poisoning Traits
 
 Potions and poisons are common everywhere, but in some regions they are more common or have more of an effect than in others. The following regional traits represent characters who grew up in places where potions and poisons were part of daily life.

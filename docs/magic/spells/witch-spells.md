@@ -433,6 +433,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Bestow Planar Infusion II](bestow-planar-infusion-ii.md)**: Grant a target the effects of an improved planar infusion
 - **[Bit of Luck](bit-of-luck.md)**: reservoir of luck points for attack rolls and skill checks
 - **[Bite the Hand](bite-the-hand.md)**: Summoned creature attacks its summoner.
+- **[Black Spot](black-spot.md)**: A permanent curse that draws attackers and drains Constitution.
 - **[Blast Barrier](blast-barrier.md)**: Unstable wall that explodes for damage.
 - **[Bloody Arrows](bloody-arrows.md)**: Ranged hits cause stacking bleed.
 - **[Borrow Corruption](borrow-corruption.md)**: Temporarily gain the effects of a corrupted creature’s manifestations.
@@ -505,6 +506,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Shadow Step](shadow-step.md)**: Teleport from one shadow to another.
 - **[Shadowform](shadowform.md)**: foes that fail to disbelieve deal only one-fifth damage
 - **[Share Shape](share-shape.md)**: Beast shape II, limited to your companion's or familiar's kind.
+- **[Skeleton Crew](skeleton-crew.md)**: Animates corpses as skeleton sailors.
 - **[Soul Vault](soul-vault.md)**: Protect a soul from being trapped
 - **[Summon Genie, Lesser](summon-genie-lesser.md)**: Summons a janni.
 - **[Symbol of Healing](symbol-of-healing.md)**: Triggered rune heals living creatures.
@@ -602,6 +604,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Symbol of Striking](symbol-of-striking.md)**
 - **[Transplant Visage](transplant-visage.md)**: Wear a stolen face for +10 on Disguise.
 - **[Truespeak](truespeak.md)**: You can communicate with any creature that is not mindless.
+- **[Unseen Crew](unseen-crew.md)**: Invisible sailors crew a ship.
 - **[Vengeful Stinger](vengeful-stinger.md)**: Stinging tail retaliates against melee attackers.
 - **[Vile Dog Transformation](vile-dog-transformation.md)**: Transform ordinary dogs into fiendish minions.
 - **[Village Veil](village-veil.md)**: You throw an illusion over an area to make creatures that view or interact with it believe it has suffered.
