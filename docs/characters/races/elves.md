@@ -84,6 +84,8 @@ The following racial traits represent a fey ancestor in the family line. They ca
 
 **Vigilance**: Some elves train to fight against demons and evil fey with a zeal that leaves them little time to hone their magic traditions. Elves with this racial trait gain a +2 dodge bonus to AC against attacks by chaotic creatures. This trait replaces elven magic.
 
+**Fey Wisdom**: Elves tend to be too aloof and capricious to make reliable diplomats, but some elves specially train to serve as ambassadors to fey courts. Elves with this racial trait gain a +1 racial bonus on Diplomacy and Knowledge (nature) checks, and Knowledge (nature) is a class skill for them. This racial trait replaces keen senses.
+
 ## Racial Subtypes
 
 You can combine various alternate racial traits to create elven subraces or variant races, such as the following.

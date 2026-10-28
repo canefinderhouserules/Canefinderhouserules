@@ -133,6 +133,7 @@ Psychics gain access to the following spells. Spells without a link come from ot
 - Peacebond
 - **[Night Blindness](night-blindness.md)**: Lighting around the target counts as one step darker.
 - **[Pesh Vigor](pesh-vigor.md)**: Target gains a Strength bonus it can push higher at a cost.
+- **[Pierce Facade](pierce-facade.md)**: +5 insight on Perception to see through disguises.
 - **[Polypurpose Panacea](polypurpose-panacea.md)**: Gain a relaxing or entertaining effect.
 - **[Psychic Reading](psychic-reading.md)**: Read surface thoughts to learn information about a subject.
 - **[Quintessence](quintessence.md)**: Mask any flaws of or damage to a creature or object.
@@ -152,6 +153,7 @@ Psychics gain access to the following spells. Spells without a link come from ot
 - **[Sleep](sleep.md)**: Puts 4 HD of creatures into magical slumber.
 - Sow Thought
 - **[Songbird](songbird.md)**: Conjure music from a good-aligned plane
+- **[Speechreader's Sight](speechreaders-sight.md)**: Read the lips of speakers within 100 ft.
 - **[Stunning Barrier](stunning-barrier.md)**
 - **[Summon Minor Monster](summon-minor-monster.md)**: Summon 1d3 Tiny animals.
 - **[Summon Monster I](summon-monster-i.md)**: (Evil creatures only.) Summons extraplanar creature to fight for you.
@@ -241,6 +243,7 @@ Psychics gain access to the following spells. Spells without a link come from ot
 - **[Eagle’s Splendor](eagles-splendor.md)**: Subject gains +4 to Cha for 1 min./ level.
 - Effortless Armor
 - Endure Elements, Communal
+- **[Enchantment Sight](enchantment-sight.md)**: See which creatures are under enchantment effects.
 - **[Enshroud Thoughts](enshroud-thoughts.md)**: Ward yourself against thought detection and memory alteration.
 - **[Enthrall](enthrall.md)**: Captivates all within 100 ft. + 10 ft./level.
 - **[Escape Alarm](escape-alarm.md)**: Ward an area to alert you when someone leaves
@@ -507,6 +510,7 @@ Psychics gain access to the following spells. Spells without a link come from ot
 - **[Share Senses](share-senses.md)**: See/hear/smell what your familiar is.
 - **[Shared Training](shared-training.md)**: grant a teamwork feat to allies
 - **[Shrink Item](shrink-item.md)**: Object shrinks to one-sixteenth size.
+- **[Shroud of Innocuity](shroud-of-innocuity.md)**: Targets appear as ordinary locals to every viewer.
 - **[Slow](slow.md)**: One subject/level takes only one action/round, –1 to AC, Reflex saves, and attack rolls.
 - **[Speak with Dead](speak-with-dead.md)**: Corpse answers one question/two levels.
 - Spider Climb, Communal
@@ -651,6 +655,7 @@ Psychics gain access to the following spells. Spells without a link come from ot
 - **[Reduce Person, Mass](reduce-person-mass.md)**: As *reduce person*, but affects 1 humanoid creature/level.
 - Resilient Reservoir
 - **[Resilient Sphere](resilient-sphere.md)**: Force globe protects but traps one subject.
+- **[Reveal Emotions](reveal-emotions.md)**: Creatures in the area glow with their emotions.
 - **[Riding Possession](riding-possession.md)**: As possession, but you observe instead of control the subject.
 - **[Rigor Mortis](rigor-mortis.md)**: Painfully swell a target’s joints.
 - **[Rising Water](rising-water.md)**: Conjures a cylinder of calm, swimmable water.

@@ -1027,3 +1027,19 @@ A corsair is a pirate who focuses on shipboard combat, relying on strength of ar
 **Swift Sharpening (Ex)**: At 2nd level, as a full-round action, a weapon bearer squire can use a whetstone to sharpen a weapon she is holding, granting whoever wields it a +1 circumstance bonus on his next attack roll with that weapon. In addition, she can apply a weapon blanch to a weapon she is holding as a standard action instead of a full-round action. This ability replaces the 2nd-level fighter bonus combat feat.
 
 **Combat Repairs (Ex)**: At 3rd level, as a full-round action, a weapon bearer squire can make rapid repairs to a weapon she is holding and is proficient with by succeeding at a DC 20 Craft (weapons) check. The item does not regain hit points, but loses the broken condition for a number of rounds equal to her class level. This ability replaces armor training 1.
+
+## High Guardian
+
+*Fighter archetype.* As the shield that protects his lord from the myriad dangers around every corner, the high guardian pledges his life to keep his charge safe. High guardians epitomize personal devotion.
+
+**Class Skills**: A high guardian adds Knowledge (local) and Knowledge (nobility) to his list of class skills, instead of Knowledge (dungeoneering) and Knowledge (engineering). This alters the fighter's class skills.
+
+**Obligation (Ex)**: At 1st level, a high guardian can spend 1 minute of focused concentration each day to select a single ally as his obligation, vowing to keep that person alive for that day. Once he has chosen, he can't change his obligation until the following day. If his obligation dies, the high guardian must atone for 1 week before he can select another obligation.
+
+**Right Hand (Ex)**: At 1st level, a high guardian can take a 5-foot step as an immediate action, as long as he ends this movement adjacent to his obligation. If he takes this step, he cannot take a 5-foot step during his next turn and his total movement is reduced by 5 feet during his next turn. This ability replaces the bonus feat gained at 1st level.
+
+**Defender's Reflexes (Ex)**: At 2nd level, a high guardian gains Combat Reflexes as a bonus feat, and he can use his Strength modifier instead of his Dexterity modifier to determine the number of additional attacks of opportunity he can make per round. If he already has Combat Reflexes, he instead gains Stand Still as a bonus feat. This ability replaces the bonus feat gained at 2nd level.
+
+**Unassailable Allegiance (Ex)**: At 2nd level, a high guardian gains a +1 bonus on Will saves against compulsion spells and effects. This bonus increases by 1 for every 4 fighter levels beyond 2nd. This ability replaces bravery.
+
+**Royal Protector (Ex)**: At 4th level, a high guardian gains Bodyguard and In Harm's Way as bonus feats, though he can use them only to improve his obligation's AC or intercept a successful attack against his obligation. This ability replaces the bonus feat gained at 4th level.

@@ -670,3 +670,15 @@ Although many merfolk claim deep connections to both art and the natural world, 
 **Inspiring Song (Ex)**: The voice of an ocean's echo provides inspiration to allies. This ability is identical to bardic performance (using Perform [sing] only), allowing her to inspire courage at 1st level, inspire competence at 3rd level, and inspire heroics at 15th level, as a bard of the ocean's echo's level. It is usable a total number of rounds per day equal to her level + her Charisma modifier (minimum 1). This ability replaces the revelations gained at 1st, 3rd, and 15th level.
 
 **Recommended Mysteries**: Ancestor, heavens, life, lore, nature, time, waves, wind.
+
+## Inerrant Voice
+
+*Oracle archetype.* An inerrant voice serves as a spiritual advisor to either a monarch or noble, offering both guidance and protection.
+
+**Recommended Mysteries**: ancestor, intrigue, life, lore.
+
+**Bonus Spells**: An inerrant voice gains the following bonus spells: *shield other* (2nd), *augury* (4th), *divination* (8th), *vision* (14th). These replace the bonus spells at those levels gained from the oracle's mystery.
+
+**Revelations**: An inerrant voice must take the following revelation at 3rd level.
+
+*Vigilant Protector (Su)*: Each day when you recover your spells, you can select a specific person you know other than yourself as your ward. When your ward becomes the target of an attack or spell and you are aware of the attack, you can cast an abjuration spell you know on the ally as an immediate action. You must expend the appropriate spell slot and be able to target the ally as normal for the spell. At 11th level, as an immediate action when you know your ward is targeted, you can transpose yourself with your ward, teleporting into the original target's square (and becoming the new target of the attack or spell) while your ally is teleported into yours; this is a teleportation effect that doesn't provoke attacks of opportunity. You can use this revelation once per day, plus an additional time at 7th level and every 4 oracle levels thereafter.

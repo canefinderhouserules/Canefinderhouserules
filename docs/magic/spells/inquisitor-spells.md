@@ -24,6 +24,7 @@ New inquisitor spells from *Ultimate Magic*. Spells from other books will be add
 - **[Ears of the City](ears-of-the-city.md)**: Gather information from echoes of local talk.
 - **[Fabricate Disguise](fabricate-disguise.md)**: Create a disguise in an instant.
 - **[Fallback Strategy](fallback-strategy.md)**: Reroll one attack, maneuver, or skill check.
+- **[False Face](false-face.md)**: Change your appearance so you are unrecognizable.
 - **[Forbid Action](forbid-action.md)**: Target obeys command to not do something.
 - **[Forced Quiet](forced-quiet.md)**: Target cannot make loud noises.
 - **[Funereal Weapon](funereal-weapon.md)**: Weapon ignores 5 points of undead DR
@@ -58,6 +59,7 @@ New inquisitor spells from *Ultimate Magic*. Spells from other books will be add
 - **[Peacebond](peacebond.md)**: Locks a weapon in place on the target’s body.
 - **[Persuasive Goad](persuasive-goad.md)**: Target takes 1d6 nonlethal damage; you gain an Intimidate bonus.
 - **[Pick Your Poison](pick-your-poison.md)**: Poison becomes mere intoxication for a time.
+- **[Pierce Facade](pierce-facade.md)**: +5 insight on Perception to see through disguises.
 - **[Poisoned Egg](poisoned-egg.md)**: Turn an egg into a dose of poison.
 - **[Positive Pulse](positive-pulse.md)**: Energy harms undead or bolsters the living
 - **[Preserve Grace](preserve-grace.md)**: Grant a phylactery of faithfulness effect.
@@ -70,6 +72,7 @@ New inquisitor spells from *Ultimate Magic*. Spells from other books will be add
 - **[Secret Speech](secret-speech.md)**: Send hidden messages within normal speech.
 - **[Skim](skim.md)**: read in a quarter of the time
 - **[Speak Local Language](speak-local-language.md)**: Speak and understand one known regional human language.
+- **[Speechreader's Sight](speechreaders-sight.md)**: Read the lips of speakers within 100 ft.
 - **[Stalwart Resolve](stalwart-resolve.md)**: Ignore ability damage to one score.
 - **[Theft Ward](theft-ward.md)**: You ward a single object in your possession against theft.
 - **[Thunder Arrow](thunder-arrow.md)**: Electric arrow that attacks or signals.
@@ -117,6 +120,7 @@ New inquisitor spells from *Ultimate Magic*. Spells from other books will be add
 - **[Distressing Tone](distressing-tone.md)**: Sound sickens 1d4 creatures.
 - **[Early Judgment](early-judgment.md)**: Show a creature its fate: fascinated, confused, or shaken.
 - **[Effortless Armor](effortless-armor.md)**: Armor you wear no longer slows your speed.
+- **[Enchantment Sight](enchantment-sight.md)**: See which creatures are under enchantment effects.
 - **[Enshroud Thoughts](enshroud-thoughts.md)**: Ward yourself against thought detection and memory alteration.
 - **[Escape Alarm](escape-alarm.md)**: Ward an area to alert you when someone leaves
 - **[Escaping Ward](escaping-ward.md)**: This ward grants you extra maneuverability when you avoid attacks against larger foes.
@@ -316,6 +320,7 @@ New inquisitor spells from *Ultimate Magic*. Spells from other books will be add
 - **[Magic Siege Engine, Greater](magic-siege-engine-greater.md)**: Siege engine gains +1 on targeting and damage rolls for every four caster levels.
 - **[Named Bullet](named-bullet.md)**: Imbues ammunition with accuracy against a specific creature type.
 - **[Peacebond, Greater](peacebond-greater.md)**: As *peacebond*, but on multiple weapons, even if they aren’t sheathed.
+- **[Perceive Betrayal](perceive-betrayal.md)**: Sense traitorous intent toward your liege.
 - **[Positive Pulse, Greater](positive-pulse-greater.md)**: A large pulse of positive energy damages undead and bolsters living creatures
 - **[Protection from Energy, Communal](protection-from-energy-communal.md)**: As protection from energy, but you may divide the duration among creatures touched.
 - **[Quieting Weapons](quieting-weapons.md)**: Weapons make no sound and quiet their victims.

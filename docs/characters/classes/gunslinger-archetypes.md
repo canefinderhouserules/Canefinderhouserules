@@ -355,3 +355,19 @@ Punishing firearms such as the blunderbuss and dragon pistol can lay waste to in
 *Safe Handling (Ex)*: At 2nd level, as a full-round action, a gunner squire can temporarily ensure the safety of a firearm she is holding, reducing its misfire chance by 1 (minimum 0) on the next attack roll made with that firearm. This reduction does not stack with itself. It occurs after any increases are calculated for firing with the broken condition or for any other effect that might increase the misfire value. This deed replaces nimble +1.
 
 *Side Arm (Ex)*: At 3rd level, as a full-round action, a gunner squire can spend 1 grit point to reload a one-handed or two-handed firearm she is holding. If the firearm has multiple barrels, she can reload a number of barrels per round equal to her Dexterity modifier (minimum 1). A gunner squire equipped with alchemical cartridges can use this deed to reload multiple firearms at once, dividing the barrels she can reload among the firearms she carries however she wishes. Abilities, deeds, and feats that decrease reloading time (such as Rapid Reload) do not improve this deed. This deed replaces gunslinger initiative.
+
+## Thronewarden
+
+*Gunslinger archetype.* As vigilant sentinels, thronewardens identify and head off trouble in the courts of rulers who permit firearms in their halls.
+
+**Class Skills**: A thronewarden adds Sense Motive to her list of class skills, instead of Bluff. This alters the gunslinger's class skills.
+
+**Hair-Trigger Reflexes (Ex)**: At 2nd level, as long as she has at least 1 grit point, a thronewarden can act in a surprise round even if she doesn't notice her enemies, though she remains flat-footed until she acts. In addition, she gains a +1 bonus on initiative checks. This bonus increases by 1 for every 4 gunslinger levels beyond 2nd. Finally, at 10th level, she can spend 1 grit point to take both a standard action and a move action (or a full-round action) during the surprise round. This ability replaces nimble.
+
+**Eye for Trouble (Ex)**: At 4th level, a thronewarden can spend 1 grit point when she attempts a Perception or Sense Motive check to roll 1d6 and add the result to the check. She can do this after she attempts the check but only before the result is revealed. This ability replaces the bonus feat gained at 4th level.
+
+**Deeds**: A thronewarden has access to the following deeds.
+
+*Warning Shot (Ex)*: At 7th level as a standard action, a thronewarden with at least 1 grit point can purposely miss a creature that she could normally target with a firearm attack and make it second-guess its actions. The creature is staggered on its next turn. If a thronewarden uses this ability in a surprise round on a creature that has not yet acted, that creature instead loses its surprise-round action if it has one. This deed replaces startling shot.
+
+*Opening Shot (Ex)*: At 11th level as a standard action, a thronewarden can call her allies to action in a surprise round by spending 1 grit point and shooting a firearm into the air. Any allies within 30 feet who would not normally be able to act in the surprise round can act at the end of the surprise round (their order is determined by their initiative results; they act in normal initiative order in following rounds). Allies who would normally act in the surprise round but who have not yet acted can take a full round's worth of actions instead of just a move or standard action. This deed replaces bleeding wound.

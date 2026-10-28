@@ -17,6 +17,7 @@ New alchemist spells from *Ultimate Magic* and *Ultimate Combat*. Spells from ot
 - **[Detect Metal](detect-metal.md)**: Detects metal objects and creatures in a cone.
 - **[Enlarge Tail](enlarge-tail.md)**: Your tail gains reach and a bonus to attack and damage.
 - **[Fabricate Disguise](fabricate-disguise.md)**: Create a disguise in an instant.
+- **[False Face](false-face.md)**: Change your appearance so you are unrecognizable.
 - **[Ferment](ferment.md)**: Imbue a drink with an intoxicant
 - **[Firebelly](firebelly.md)**: Fire resistance 5 and a small fire breath.
 - **[Identity Validation](identity-validation.md)**: Confirm a creature’s identity from a sample.
@@ -27,6 +28,7 @@ New alchemist spells from *Ultimate Magic* and *Ultimate Combat*. Spells from ot
 - **[Longshot](longshot.md)**: Grants a +10-foot bonus to the range increment for any ranged weapon fired.
 - **[Obscure Poison](obscure-poison.md)**: Make it harder to detect a poison or a venomous creature.
 - **[Pesh Vigor](pesh-vigor.md)**: Target gains a Strength bonus it can push higher at a cost.
+- **[Pierce Facade](pierce-facade.md)**: +5 insight on Perception to see through disguises.
 - **[Polypurpose Panacea](polypurpose-panacea.md)**: Gain a relaxing or entertaining effect.
 - **[Punishing Armor](punishing-armor.md)**: Reflects nonlethal damage back at attackers.
 - **[Recharge Innate Magic](recharge-innate-magic.md)**: You channel magic energy into your own aura, recharging your innate magic abilities.
@@ -35,6 +37,7 @@ New alchemist spells from *Ultimate Magic* and *Ultimate Combat*. Spells from ot
 - **[Shock Shield](shock-shield.md)**: A shield of force protects you until you dismiss it in an explosion of electricity.
 - **[Skim](skim.md)**: read in a quarter of the time
 - **[Skin Tag](skin-tag.md)**: Haunted food that lets you torment its eater from afar.
+- **[Speechreader's Sight](speechreaders-sight.md)**: Read the lips of speakers within 100 ft.
 - **[Spirit Share](spirit-share.md)**: Deliver a drink or potion by touch
 - **[Starsight](starsight.md)**: See the night sky clearly and gain stargazing bonuses.
 - **[Targeted Bomb Admixture](targeted-bomb-admixture.md)**: Empowers bombs you throw to deal more damage to a single creature.
@@ -72,6 +75,7 @@ New alchemist spells from *Ultimate Magic* and *Ultimate Combat*. Spells from ot
 - **[Dream Shield](dream-shield.md)**: Protect a sleeper's mind from intrusion and control.
 - **[Duelist’s Alacrity](duelists-alacrity.md)**: Faster, with fancy footwork.
 - **[Empower Holy Water](empower-holy-water.md)**: Holy water deals extra damage to undead
+- **[Enchantment Sight](enchantment-sight.md)**: See which creatures are under enchantment effects.
 - **[Enshroud Thoughts](enshroud-thoughts.md)**: Ward yourself against thought detection and memory alteration.
 - **[Fiery Runes](fiery-runes.md)**: Weapon rune deals fire damage when discharged.
 - **[Fire Sneeze](fire-sneeze.md)**: Sneeze cones of fire and wind.

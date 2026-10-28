@@ -45,6 +45,24 @@ Your quest for enlightenment has opened your eyes to new concepts and heights of
 
 **Empty Mind (Su)**: At 13th level, you can clear your mind by focusing on a sense of emptiness, purging yourself of doubt and discomfort. You can spend 1 point from your phrenic pool on your turn as a free action to remove the blinded, confused, dazed, deafened, staggered, or stunned condition from yourself.
 
+### Pageantry
+
+The act of ritual, no matter how ostentatious, can be a route to mental strength. By engaging in esoteric and intricate routines, you have unlocked potent psychic power.
+
+**Phrenic Pool Ability**: Charisma.
+
+**Bonus Spells**: *Bless* (1st), *calm emotions* (4th), *slow* (6th), *overwhelming presence* (8th), *seeming* (10th), *heroes' feast* (12th), *mage's magnificent mansion* (14th), *divine vessel* (16th), *heroic invocation* (18th).
+
+**Discipline Powers**: Your mastery of intricate rituals allows you to wield great power, given time.
+
+**Ritual Unity (Su)**: You receive a +2 bonus on all skill checks attempted as part of an occult ritual. When you take the aid another action to assist an ally with a skill check and succeed at a DC 20 check, you impart a +4 bonus to your ally instead. When you successfully aid an ally in this way, you regain 1 point in your phrenic pool.
+
+**Power from Pageantry (Su)**: When casting a spell with a casting time of 1 standard action or less, you can spend 1 point from your phrenic pool to extend the casting time to 1 full round. If you do, the caster level and saving throw DC increase by 2.
+
+**Force of Habit (Su)**: At 5th level, you are so accustomed to complex tasks that you can maintain focus on multiple mental foci simultaneously. If you spend 1 point from your phrenic pool as you cast a psychic spell that requires concentration, you can maintain concentration on that spell as a swift action. In addition, you can cast other psychic spells while concentrating on that spell.
+
+**Unrivaled Focus (Su)**: At 13th level, your powers of concentration become unmatched. Whenever you attempt a concentration check, you can spend 1 point from your phrenic pool to treat the result of your die roll as a 20. You must choose to use this ability before rolling the check.
+
 ### Rebirth
 
 Your mind is forged from the most powerful memories of a multitude of lifetimes. You have fragmentary knowledge of your prior lives and can leverage the experience gained during these lifetimes into raw psychic power.

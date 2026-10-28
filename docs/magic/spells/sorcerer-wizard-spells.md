@@ -99,6 +99,7 @@
 - **[Expeditious Construction](expeditious-construction.md)**: Raise a low earthen wall or berm.
 - **[Fabricate Bullets](fabricate-bullets.md)**
 - **[Fabricate Disguise](fabricate-disguise.md)**: Create a disguise in an instant.
+- **[False Face](false-face.md)**: Change your appearance so you are unrecognizable.
 - **[Ferment](ferment.md)**: Imbue a drink with an intoxicant
 - **[Fool's Gold](fools-gold.md)**: Make copper or silver appear to be gold
 - **[Fumblestep](fumblestep.md)**: slick a target’s feet, then trip it from afar
@@ -139,6 +140,7 @@
 - **[Peace Bond](peace-bond.md)**: Your low-level area spells ignore protected cubes.
 - **[Peacebond](peacebond.md)**: Locks a weapon in place on the target’s body.
 - **[Pesh Vigor](pesh-vigor.md)**: Target gains a Strength bonus it can push higher at a cost.
+- **[Pierce Facade](pierce-facade.md)**: +5 insight on Perception to see through disguises.
 - **[Poisoned Egg](poisoned-egg.md)**: Turn an egg into a dose of poison.
 - **[Positive Pulse](positive-pulse.md)**: Energy harms undead or bolsters the living
 - **[Preserve](preserve.md)**: Stop spoilage of objects for a week
@@ -169,6 +171,7 @@
 - **[Songbird](songbird.md)**: Conjure music from a good-aligned plane
 - **[Sow Thought](sow-thought.md)**: School enchantment (compulsion) [mind-affecting]; Level bard 1, sorcerer/wizard 1, witch 1 Casting Time 1.
 - **[Speak Local Language](speak-local-language.md)**: Speak and understand one known regional human language.
+- **[Speechreader's Sight](speechreaders-sight.md)**: Read the lips of speakers within 100 ft.
 - **[Spirit Share](spirit-share.md)**: Deliver a drink or potion by touch
 - **[Starsight](starsight.md)**: See the night sky clearly and gain stargazing bonuses.
 - **[Stone Shield](stone-shield.md)**: A 1-inch-thick slab of stone springs up from the ground, interposing itself between you and an opponent of.
@@ -303,6 +306,7 @@
 - **[Drain Construct](drain-construct.md)**: Strip a construct of DR, fast healing, speed, and Strength.
 - **[Dress Corpse](dress-corpse.md)**: Doctor the evidence on a corpse.
 - **[Eldritch Conduit](eldritch-conduit.md)**: Use an enemy as the origin point of an area spell.
+- **[Enchantment Sight](enchantment-sight.md)**: See which creatures are under enchantment effects.
 - **[Endure Elements, Communal](endure-elements-communal.md)**: As endure elements, but you may divide the duration among creatures touched.
 - **[Escape Alarm](escape-alarm.md)**: Ward an area to alert you when someone leaves
 - **[Escaping Ward](escaping-ward.md)**: This ward grants you extra maneuverability when you avoid attacks against larger foes.
@@ -660,6 +664,7 @@
 - **[Share Language, Communal](share-language-communal.md)**: As share language, but you may divide the duration among creatures touched.
 - **[Shared Training](shared-training.md)**: grant a teamwork feat to allies
 - **[Shifting Shadows](shifting-shadows.md)**: Shadows make flanking and attacks of opportunity unreliable.
+- **[Shroud of Innocuity](shroud-of-innocuity.md)**: Targets appear as ordinary locals to every viewer.
 - **[Silt Sphere](silt-sphere.md)**: illusory silt cloud that grants concealment
 - **[Siphon Might](siphon-might.md)**: Drains target's Strength and grants it to an ally.
 - **[Slave to Sin](slave-to-sin.md)**: Exploit a creature’s sin to sicken and stagger it.
@@ -1352,6 +1357,7 @@
 - **[Object Possession, Greater](object-possession-greater.md)**: As possess object, but the object is more powerful and you can possess a construct.
 - **[Ooze Form III](ooze-form-iii.md)**: Assume the form of a Huge ooze creature.
 - **[Particulate Form](particulate-form.md)**: Targets gain fast healing and immunity to critical hits.
+- **[Perceive Betrayal](perceive-betrayal.md)**: Sense traitorous intent toward your liege.
 - **[Permanent Hallucination](permanent-hallucination.md)**: As *scripted hallucination*, but permanent.
 - **[Plague Bearer](plague-bearer.md)**: Target spreads contagion to adjacent creatures.
 - **[Planar Refuge](planar-refuge.md)**: A pocket of Material Plane wilderness on another plane.

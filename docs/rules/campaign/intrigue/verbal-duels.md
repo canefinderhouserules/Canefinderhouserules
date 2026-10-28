@@ -95,6 +95,16 @@ You hurl taunts and barbs, or level false dichotomies, goading your opponent int
 
 **Special**: Baiting cannot be employed to open an exchange. If your opponent ends an exchange rather than counter your baiting, your baiting doesn’t suffer the normal –2 penalty on future associated skill checks for winning an exchange.
 
+### Credibility Challenge
+
+You insinuate that your opponent's arguments are invalid or desperate because of his personal failings, criminal background, or low birth.
+
+**Associated Skills**: Intimidate, Knowledge (history), Knowledge (local), Knowledge (nobility).
+
+**Interaction**: You take a –2 penalty on the associated skill check when using a credibility challenge to counter the presence tactic. You gain a +2 bonus on the associated skill check if your opponent or your audience is aware you have a higher social standing than your opponent. This higher social standing might be due to noble birth or to life circumstances; for example, an honest trader might be deemed to have a higher social standing than a criminal (even a reformed criminal).
+
+**Special**: Courtly audiences usually have a positive bias toward a credibility challenge. A character that successfully seeds a positive bias in a courtly audience earns 2 edges rather than 1; her chosen duelist can spend these only on a credibility challenge.
+
 ### Emotional Appeal
 
 You make an argument appealing to the emotional desires of your opponent or audience. This tactic is particularly useful against an opponent with an advantage in status or knowledge; raising the emotional stakes can be rewarding, but it can also be dangerous.
@@ -135,6 +145,16 @@ You use personal attacks, mudslinging, or creative insults to belittle your oppo
 
 **Special**: You gain a +2 bonus on the associated skill check when you use mockery to counter a tactic with a negative audience bias, and if you win the exchange with mockery against such a tactic, increase the ante by 1. You take a –2 penalty on the associated skill check when you use mockery to counter a tactic with a positive audience bias, though if you succeed, reduce the ante by 1.
 
+### Polite Befuddlement
+
+You pretend to be unclear about your opponent's points, encouraging him to explain further, provide examples, or otherwise become distracted from his main point. When he provides a poor example or contradictory explanation to your feigned ignorance, you pounce on his error in order to invalidate his position. Polite befuddlement is most effective when countering tactics based on structure or reason.
+
+**Associated Skills**: Bluff, Diplomacy, Perform (comedy).
+
+**Interaction**: You gain a +2 bonus on the associated skill check when you use polite befuddlement to counter the allegory, logic, or rhetoric tactics.
+
+**Special**: You can't use polite befuddlement as an opener. As polite befuddlement relies on an impression of poor understanding or simple thinking, audiences rarely have a positive bias toward polite befuddlement.
+
 ### Presence
 
 You make a show of confidence or true nobility or you simply put on airs, and an opponent’s claims slide off and bounce back against him, leaving you unscathed. This tactic works to deflect baiting and mockery but is less effective against other tricks.
@@ -144,6 +164,16 @@ You make a show of confidence or true nobility or you simply put on airs, and an
 **Interaction**: You gain a +2 bonus on the associated skill check when you use presence to counter baiting or mockery. You takes a –2 penalty on the associated skill check when using presence to counter allegory, emotional appeal, or red herring.
 
 **Special**: If you win an exchange with presence, you regain 1 determination (to a maximum amount equal to your starting determination).
+
+### Psychological Manipulation
+
+This insidious tactic is used to carefully attack an opponent, rather than an opponent's argument. You subtly question your opponent's memory and sanity, insisting that past events are not as your opponent remembers them or trivializing your opponent's position. Psychological manipulation is most effective when the opponent lacks witnesses to draw upon for support.
+
+**Associated Skills**: Bluff, Intimidate, Perform (act).
+
+**Interaction**: A duelist takes a –2 penalty on the associated skill check when countering psychological manipulation if the duel has no audience.
+
+**Special**: When you win an exchange with psychological manipulation, your opponent is thrown off balance and loses 1 edge of her choice (if she has any).
 
 ### Red Herring
 
@@ -160,6 +190,16 @@ You use versatile debating tactics, applying advantageous rhetorical devices to 
 **Associated Skills**: Diplomacy, Linguistics, Perform (act), Perform (oratory).
 
 **Special**: Since rhetoric involves subtle word choices that most audiences don’t notice consciously, it is very rare for an audience to have a negative bias toward rhetoric.
+
+### Spurious Argument
+
+You refute an argument that is similar to, but subtly different than, your opponent's actual position. This allows you to exploit the difference to make your opponent's position seem erroneous or foolish. A spurious argument is particularly useful against nebulous emotional appeals, but crumbles beneath rigid logic that identifies the tactic's false distinctions.
+
+**Associated Skills**: Bluff, Perform (act), Perform (oratory).
+
+**Interaction**: You gain a +2 bonus on the associated skill check when you use a spurious argument to counter the allegory or emotional appeals tactics. A duelist using logic to counter spurious argument gains a +2 bonus on the associated skill check.
+
+**Special**: You can turn a well-crafted spurious argument against your opponent later. When you win an exchange with a spurious argument, you gain 1 edge that you can use only with mockery, a red herring, or wit.
 
 ### Wit
 

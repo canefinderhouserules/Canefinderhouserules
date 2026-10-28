@@ -285,6 +285,7 @@ Shamans gain access to the following spells. Spells in plain text come from othe
 - **[Seed Spies](seed-spies.md)**: Wafting seeds act as spies, as insect spies.
 - **[Shadowmind](shadowmind.md)**: targets perceive the light level as one step darker
 - **[Shield of Darkness](shield-of-darkness.md)**: magical darkness grants you total concealment
+- **[Shroud of Innocuity](shroud-of-innocuity.md)**: Targets appear as ordinary locals to every viewer.
 - **[Signs of the Land](signs-of-the-land.md)**: Learn up to three details about the surrounding territory.
 - **[Sleet Storm](sleet-storm.md)**: Hampers vision and movement.
 - **[Soothing Mud](soothing-mud.md)**: Create restorative mud that heals hit point and ability damage.

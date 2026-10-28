@@ -263,6 +263,25 @@ This seal can be used as is to create an animated object or combined with the Cr
 
 **Effect**: This ritual can be cast only at midnight on a night when no fewer than three wandering stars (planets) are in conjunction and within view of the casters. The ritual must be performed at the top of a hill, mountain, or other natural vantage point. The primary caster is first wrapped in the focus chains, and the candles are lit in the pattern of the stars in conjunction. The primary caster must sit in complete silence, concentrating on the light of the candles, while the secondary casters circle, chanting the occult incantation. If the ritual is successfully completed, the primary caster’s mind is allowed to wander the Astral Plane unhindered, and she can ask one question each hour her mind wanders. The spirits of the Astral Plane answer the caster truthfully, though there is usually only a 60% chance that they will have the answer the primary caster seeks (the chance may be higher or lower at the GM’s discretion, depending on the nature of the information sought). If they don’t have the answer, the spirits admit that they lack the knowledge the caster seeks rather than trying to deceive her.
 
+### Tea Ceremony Benediction
+
+**School** transmutation; **Level** 4  
+**Casting Time** 40 minutes  
+**Components** V, S, M (enough green tea leaves of exceptional quality to brew a pot of tea), F (a tea ceremony set worth at least 150 gp), SC (at least 1 and up to 4)  
+**Skill Checks** Diplomacy DC 30, 2 successes; Knowledge (nobility) DC 30, 2 successes  
+**Range** touch  
+**Duration** 24 hours; see text  
+**Saving Throw** none; **Spell Resistance** no  
+**Backlash** The primary caster takes a –4 penalty to Strength and Dexterity for 24 hours.  
+**Failure** All casters can't benefit from morale bonuses for 1 week.
+
+**Effect**: The primary caster brews a pot of tea and serves it to the secondary casters in a formal ceremony. Everything, from the amount poured into each cup to the tea's temperature, must be precise. During this time, the casters can either remain silent or speak politely to one another, but never of anything crude. If the tea ceremony is interrupted in any way, the ritual fails, no matter how many successes the casters have accrued. When the casters have finished drinking the tea and successfully completed the ritual, they are filled with a sense of serenity. Each caster receives a +4 morale bonus on saving throws against fear effects for the next 24 hours. Any caster can dismiss the ritual's effect for herself as an immediate action and gain one of the following benefits.
+
+- The caster gains 2d10+4 temporary hit points that last for 4 hours.
+- The caster is immediately cured of a single poison affecting her.
+- The caster can reroll a failed Will saving throw, taking the better result. If this saving throw is against a fear effect, the caster still gains the +4 morale bonus on the reroll.
+- The caster can cast a single spell of 3rd level or lower as if it were a silent and still spell.
+
 ### Tranquil Roar of the Hushed Spirit
 
 **School** abjuration; **Level** 8  

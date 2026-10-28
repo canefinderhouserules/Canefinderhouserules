@@ -1209,3 +1209,17 @@ Alchemical ordnance is treated like an alchemist's bomb for the purpose of disco
 **Cartridge Savant (Ex)**: At 2nd level, a gun chemist can make optimal and highly efficient use of alchemical cartridges, such as flare cartridges. If the gun chemist fires such an alchemical cartridge and it allows a saving throw to negate or reduce the cartridge's effect, the saving throw's DC increases by 1 (to a maximum DC of 22). The DC increases by an additional 1 at 5th level and every 3 levels thereafter (to a maximum of 7 higher at 20th level). When a gun chemist fires an alchemical cartridge that deals a type of damage in place of a firearm's normal damage (such as a dragon's breath cartridge), he can increase the damage dealt by an amount equal to his Intelligence modifier. This replaces poison resistance.
 
 **Repeat Fire (Ex)**: At 6th level, a gun chemist gains Rapid Reload as a bonus feat and must select a type of firearm. If he already has this feat, he can instead gain one combat feat for which he qualifies. This replaces swift poisoning.
+
+## Royal Alchemist
+
+*Alchemist archetype.* Paranoia runs rampant among noble courts. On account of this distrust, many rulers hire specialized alchemists capable of concocting protections from both poisons and diseases for the nobles and their guests.
+
+**Class Skills**: A royal alchemist adds Diplomacy and Knowledge (nobility) to his list of class skills instead of Knowledge (nature) and Survival. This alters the alchemist's class skills.
+
+**Alchemical Antidote**: At 2nd level, a royal alchemist can blend special mixes of antitoxin, medicine, and other remedies into alchemical antidotes that can be imbibed by anyone. The royal alchemist creates his alchemical antidotes when he prepares his extracts for the day; they remain potent for 1 day before losing their properties, and the cost of the materials used to make them is insignificant. An alchemical antidote does not qualify as an extract or an infusion for the purpose of feats or discoveries.
+
+The royal alchemist has a pool of points equal to 1/2 his alchemist level + his Intelligence bonus that he can divide among any number of alchemical antidotes, though the maximum number of points he can spend on a single antidote is equal to 1/2 his alchemist level (minimum 1). Each point grants the imbiber of the alchemical antidote a +1 alchemical bonus on saving throws against poison for a number of hours equal to the royal alchemist's Intelligence bonus (minimum 1).
+
+The royal alchemist can also create an antidote that protects against diseases. For every 2 points the royal alchemist spends from his pool, the imbiber of the alchemical antidote gains a +1 alchemical bonus on saving throws against disease for 24 hours. The royal alchemist can expend 10 points from his pool to provide immunity to diseases or poisons (decided by him at the time of the antidote's creation); this immunity lasts for a number of minutes equal to the royal alchemist's Intelligence bonus (minimum 1) after the antidote is imbibed. An alchemical antidote can protect against either diseases or poisons, but not both.
+
+At 6th level, the royal alchemist can alter the distribution of the bonuses of any unused alchemical antidotes as a full-round action, either combining them or splitting the bonuses further. The royal alchemist must be holding all unused alchemical antidotes he wishes to alter in this way. This ability replaces the alchemist's poison use and swift poisoning.

@@ -94,6 +94,8 @@ The following racial traits represent a fey ancestor in the family line. They ca
 
 **Shamanic Enhancement**: Certain half-orcs know rituals to enhance the strength and brutality of their allies. These half-orcs gain a +2 racial bonus on Spellcraft checks. In addition, when such a half-orc acquires an animal companion, bonded mount, cohort, familiar, or spirit animal, that creature gains a +2 bonus to Strength, Dexterity, or Constitution, as selected by the half-orc. This racial trait replaces weapon familiarity and intimidating.
 
+**Vigilant Gaze**: Half-orcs trained as bodyguards in foreign courts develop a keen eye for trouble, but their night vision, unnecessary in well-lit courts, dwindles. Half-orcs with this racial trait gain low-light vision and have a +1 racial bonus on Perception and Sense Motive checks. This racial trait replaces darkvision.
+
 ## Racial Subtypes
 
 You can combine various alternate racial traits to create half-orc subraces or variant races, such as the following.

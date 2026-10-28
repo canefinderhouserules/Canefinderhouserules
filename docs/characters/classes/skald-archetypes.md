@@ -379,3 +379,15 @@ Some who have survived a magical wasteland cannot accept defeat, and those who h
 *Dirge of Determination (Su)*: At 10th level, an undying word can urge his allies within 30 feet to overcome hardships. Affected allies treat ability damage, ability drain, and penalties to ability scores as though each were 2 lower. This reduction increases to 4 at 15th level, and to 6 at 20th level. The undying word can never reduce a penalty below 0 or increase an ability score beyond its original value in this manner. This raging song replaces dirge of doom.
 
 **Endurance Power (Su)**: At 5th level and every 6 skald levels thereafter, an undying word learns an additional rage power that affects him and any allies under the influence of his inspire resilience. This rage power must be selected from the following list: clear mind, energy absorption, energy resistance, flesh wound, greater energy resistance, greater guarded life, guarded life, increased damage reduction, internal fortitude, or superstition. This otherwise functions as the skald's rage powers ability. This replaces spell kenning.
+
+## Court Poet
+
+*Skald archetype.* Many courts are places of artistic refinement, attracting those performers who wish to revel in an aristocratic art scene. Court poets elevate the skald's love of history and poetry to an aristocratic ideal, captivating courts with complicated poetic traditions and inspiring others with their craft.
+
+**Raging Song (Su)**: A court poet gains the following raging songs, allowing her to use oratory, music, and other performances to elevate the aesthetic sensibilities of her allies.
+
+*Insightful Contemplation (Su)*: At 1st level, affected allies gain a +2 morale bonus to Intelligence and Charisma and a +1 morale bonus on Will saving throws, but they also take a –1 penalty to AC. While under the effects of insightful contemplation, allies other than the court poet can't use any Strength-based skills or make any physical effort that requires a Constitution check. At 4th level and every 4 skald levels thereafter, the song's bonus on Will saves increases by 1; the penalty to AC doesn't change. At 8th and 16th levels, the song's bonuses to Intelligence and Charisma increase by 2. (Unlike the barbarian's rage ability, those affected are not fatigued after the song ends.) This ability replaces inspired rage.
+
+*Song of Inspiration (Su)*: At 6th level, a court poet can use raging song to inspire her allies to greater mental clarity. Once each round while the court poet uses this performance, allies within 60 feet who can hear her can add 1/2 the court poet's skald level to a single Wisdom check or Wisdom-based skill check. This ability replaces song of strength.
+
+**Handling the Crowd (Ex)**: At 2nd level, a court poet gains a +1 bonus to AC and on Perform checks when adjacent to two or more creatures. In addition, her movement is not impeded by crowds and she gains a bonus equal to 1/2 her skald level on Diplomacy checks to influence crowds. This ability replaces well-versed.

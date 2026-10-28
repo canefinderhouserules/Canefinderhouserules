@@ -96,6 +96,7 @@
 - **[Peace Bond](peace-bond.md)**: Your low-level area spells ignore protected cubes.
 - **[Pesh Vigor](pesh-vigor.md)**: Target gains a Strength bonus it can push higher at a cost.
 - **[Pick Your Poison](pick-your-poison.md)**: Poison becomes mere intoxication for a time.
+- **[Pierce Facade](pierce-facade.md)**: +5 insight on Perception to see through disguises.
 - **[Poisoned Egg](poisoned-egg.md)**: Turn an egg into a dose of poison.
 - **[Positive Pulse](positive-pulse.md)**: Energy harms undead or bolsters the living
 - **[Preserve](preserve.md)**: Stop spoilage of objects for a week
@@ -117,6 +118,7 @@
 - **[Skim](skim.md)**: read in a quarter of the time
 - **[Songbird](songbird.md)**: Conjure music from a good-aligned plane
 - **[Speak Local Language](speak-local-language.md)**: Speak and understand one known regional human language.
+- **[Speechreader's Sight](speechreaders-sight.md)**: Read the lips of speakers within 100 ft.
 - **[Spirit Share](spirit-share.md)**: Deliver a drink or potion by touch
 - **[Starsight](starsight.md)**: See the night sky clearly and gain stargazing bonuses.
 - **[Stone Shield](stone-shield.md)**: A 1-inch-thick slab of stone springs up from the ground, interposing itself between you and an opponent of.
@@ -193,6 +195,7 @@
 - **[Eagle’s Splendor](eagles-splendor.md)**: Subject gains +4 to Cha for 1 min./level.
 - **[Early Judgment](early-judgment.md)**: Show a creature its fate: fascinated, confused, or shaken.
 - **[Effortless Armor](effortless-armor.md)**: Armor you wear no longer slows your speed.
+- **[Enchantment Sight](enchantment-sight.md)**: See which creatures are under enchantment effects.
 - **[Endure Elements, Communal](endure-elements-communal.md)**: As endure elements, but you may divide the duration among creatures touched.
 - **[Enemy’s Heart](enemy-s-heart.md)**: You cut out an enemy’s heart and consume it, absorbing that enemy’s power as your own.
 - **[Enthrall](enthrall.md)**: Captivates all within 100 ft. + 10 ft./level.
@@ -691,6 +694,7 @@
 - **[Oasis](oasis.md)**: Creates a permanent spring.
 - **[Overwhelming Poison](overwhelming-poison.md)**: Make a poison more difficult to resist.
 - **[Owl’s Wisdom, Mass](owls-wisdom-mass.md)**: As *owl’s wisdom*, affects 1 subject/level.
+- **[Perceive Betrayal](perceive-betrayal.md)**: Sense traitorous intent toward your liege.
 - **[Plague Bearer](plague-bearer.md)**: Target spreads contagion to adjacent creatures.
 - **[Planar Ally](planar-ally.md)**: As *lesser planar ally,* but up to 12 HD.
 - **[Planetary Adaptation, Mass](planetary-adaptation-mass.md)**: As planetary adaptation, on many creatures.

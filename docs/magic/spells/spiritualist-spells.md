@@ -73,6 +73,7 @@ Spiritualists gain access to the following spells. Spells without a link come fr
 - **[Sanctuary](sanctuary.md)**: Opponents can’t attack you, and you can’t attack.
 - **[Scarify](scarify.md)**: Convert lethal damage to nonlethal, leaving scars
 - **[Shield](shield.md)**: Invisible disc gives +4 to AC, blocks *magic missiles.*
+- **[Speechreader's Sight](speechreaders-sight.md)**: Read the lips of speakers within 100 ft.
 - **[Summon Monster I](summon-monster-i.md)**: (Evil creatures only.) Summons extraplanar creature to fight for you.
 - **[Telempathic Projection](telempathic-projection.md)**: Alter the target’s attitude or give bonuses to those interacting with the target.
 - **[Touch of Gracelessness](touch-of-gracelessness.md)**: Subject loses 1d6 + 1 Dex/two levels and is prone to falling down.
@@ -97,6 +98,7 @@ Spiritualists gain access to the following spells. Spells without a link come fr
 - **[Detect Thoughts](detect-thoughts.md)**: Allows “listening” to surface thoughts.
 - **[Disfiguring Touch](disfiguring-touch.md)**: Target becomes disfigured.
 - **[Emotive Block](emotive-block.md)**: Add an emotion component to all of the target’s spells.
+- **[Enchantment Sight](enchantment-sight.md)**: See which creatures are under enchantment effects.
 - **[Escape Alarm](escape-alarm.md)**: Ward an area to alert you when someone leaves
 - **[False Life](false-life.md)**: Gain 1d10 temporary hp + 1/level (max +10).
 - **[Force Sword](force-sword.md)**: Create a longsword of pure force.
@@ -287,6 +289,7 @@ Spiritualists gain access to the following spells. Spells without a link come fr
 - **[Red Hand of the Killer](red-hand-of-the-killer.md)**: Stain the hand of a creature’s killer red.
 - **[Remove Curse](remove-curse.md)**: Frees object or person from curse.
 - **[Restoration](restoration.md)**: Restores level and ability score drains.
+- **[Reveal Emotions](reveal-emotions.md)**: Creatures in the area glow with their emotions.
 - **[Shadow Conjuration](shadow-conjuration.md)**: Mimics conjuration below 4th level, but only 20% real.
 - **[Shadow Jaunt](shadow-jaunt.md)**: Teleport between shadows, leaving an image behind
 - **[Shadow Step](shadow-step.md)**: Teleport from one shadow to another.

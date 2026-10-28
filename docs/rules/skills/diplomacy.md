@@ -37,3 +37,30 @@ If a creature’s attitude toward you is at least indifferent, you can make requ
 **Try Again**: You cannot use Diplomacy to influence a given creature’s attitude more than once in a 24-hour period. If a request is refused, the result does not change with additional checks, although other requests might be made. You can retry Diplomacy checks made to gather information.
 
 **Special**: If you have the Persuasive feat, you gain a bonus on Diplomacy checks (see Chapter 5).
+
+## Courtly Manners
+
+You are skilled in focusing your diplomatic skills on a key member of a court, thereby improving your standing in the eyes of everyone present.
+
+**Check**: While in a courtly setting, you present yourself to an NPC ruler or other leader (such as the head of a trade delegation) with appropriate pleasantries and decorum. Attempt a Diplomacy check to change the initial attitude of this leader as usual. The number of steps you adjust this leader's starting attitude also adjusts, by the same number of steps, the starting attitude of everyone who is loyal to the leader and can see and hear your interaction. For example, if you adjust the attitude of a queen from indifferent to friendly, you also adjust the attitude of her bodyguards from unfriendly to indifferent and the attitude of her sycophantic courtiers from friendly to helpful. If you worsen the leader's starting attitude with a failed Diplomacy check, you also worsen the attitudes of nearby attendants; attendants made hostile may attack or expel you to protect their leader's honor.
+
+**Action**: Using Diplomacy to demonstrate your courtly manners requires at least 1 minute of continuous interaction with the leader.
+
+## Persuasive Suggestion (Diplomacy and Intimidate)
+
+You can explain the detrimental effects of a creature's action or inaction, encouraging it to change its intended course to instead act as you suggest and thus avoid harm.
+
+**Check**: You can describe to your target that its current course of action will lead it to some degree of harm and insist that it act differently to avoid that end. For example, you might try to convince a guard not to turn away an important ambassador, as doing so will get him in trouble later, or you might attempt to dissuade a ruler from attacking a well-defended neighboring nation to prevent a costly war. You must genuinely believe in the harm that will result; for example, you must think it likely that the guard will be reprimanded for turning away the ambassador. If this is not the case, the Bluff skill should be used instead.
+
+You first attempt a Diplomacy check to convince the target to listen to you while you explain the consequences of its action or inaction. This Diplomacy check has the same DC as a check to adjust the target's attitude, including any of the following modifiers that apply.
+
+| Situation | Diplomacy DC Modifier |
+|---|---|
+| Degree of resulting harm is small | +5 |
+| Target believes the harm is speculative or unlikely | +5 |
+| Degree of resulting harm is fatal or catastrophic | –5 |
+| Target believes the harm is immediate or likely | –5 |
+
+You then attempt an Intimidate check to force the subject to act friendly to you with respect to changing its intended course of action. If you succeeded at the Diplomacy check, reduce the Intimidate DC by 5; reduce the DC by an additional 5 if you succeeded at the Diplomacy check by 10 or more. If you failed the Diplomacy check by 5 or more, instead increase the Intimidate check DC by 5.
+
+**Action**: Logically presenting the consequences with Diplomacy and insisting on an alternate course of action with Intimidate each require at least 1 minute of continuous interaction. This can be difficult to arrange with a hostile creature.

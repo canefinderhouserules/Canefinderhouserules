@@ -82,6 +82,8 @@ The following racial traits represent a fey ancestor in the family line. They ca
 
 **Bleachling**: Gnomes who have survived the Bleaching (the wasting affliction that drains color and eventually life from gnomes who do not regularly experience new things) are immune to the effects of the Bleaching thereafter. Such "bleachlings" are calm and centered, as if having discovered some truth or made a deep connection with the natural world. These gnomes gain two favored classes: druid, and their choice of any other class. They lose all spell-like abilities granted by the gnome magic racial trait except *speak with animals*, but they can use their *speak with animals* spell-like ability three times per day. This racial trait replaces obsessive and alters gnome magic. Bleachlings have access to the [Eerily Centered](../../rules/feats/eerily-centered.md) and [Wild Speaker](../../rules/feats/wild-speaker.md) feats.
 
+**Genial Magic**: Gnomes with this racial trait add 1 to the DC of saving throws against enchantment spells that they cast. Gnomes with Charisma scores of 11 or higher also gain the following spell-like abilities: 1/day—*charm person*, *guidance*, *message*, and *prestidigitation*. The caster level for these effects is equal to the gnome's level. The DC for these spells is equal to 10 + the spell's level + the gnome's Charisma modifier. This racial trait replaces gnome magic.
+
 ## Racial Subtypes
 
 You can combine various alternate racial traits to create gnome subraces or variant races, such as the following.

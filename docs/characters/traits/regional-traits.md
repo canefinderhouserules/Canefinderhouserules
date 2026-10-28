@@ -378,6 +378,22 @@ These traits are granted by a specific breed of mount. A mount trait counts agai
 
 **Weather-Beaten** *(husky; statistics as a riding dog)*: A riding husky gains a +4 trait bonus on Fortitude saves to avoid nonlethal damage from cold environments, and only takes a –2 penalty on Perception checks made in inclement weather such as rain or snow (instead of the usual –4 penalty).
 
+## Court Traits
+
+Traits for members of a noble court or those strongly associated with one.
+
+**Bureaucrat's Favored** *(Social)*: You have gained favor with the government of a great city. Once per week, you can attempt a DC 20 Diplomacy or Intimidate check to gain access to an exclusive site or event, such as a government building or an aristocrat's ball.
+
+**Rider's Bond** *(Combat)*: Your mount keenly understands your commands. If you gain a horse as an animal companion or mount as one of your class abilities, it gains two bonus tricks that don't count against the normal limit of tricks known by the animal.
+
+**Infernal Colleague** *(Social)*: Your experience working with devils has given you nerves of steel. You gain a +2 trait bonus on Will saves to resist fear effects created by outsiders.
+
+**Debauchery Defier** *(Social)*: You are particularly adept at resisting addiction. You must fail two saving throws in a row to become addicted to a drug.
+
+**Inhabitant of Illusion** *(Magic)*: Your experience with illusions allows you to discern them easily. When you first encounter an illusion, you can attempt a Will saving throw with a –2 penalty to disbelieve it, even if you don't suspect the illusion. The GM rolls this saving throw in secret.
+
+**Shadow Trained** *(Combat)*: You have experience fighting in darkness. Your miss chance while fighting in areas of dim light is only 10%.
+
 ## Brewing and Poisoning Traits
 
 Potions and poisons are common everywhere, but in some regions they are more common or have more of an effect than in others. The following regional traits represent characters who grew up in places where potions and poisons were part of daily life.

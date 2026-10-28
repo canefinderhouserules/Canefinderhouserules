@@ -23,3 +23,11 @@ You can use this skill to identify monsters and their special powers or vulnerab
 **Try Again**: No. The check represents what you know, and thinking about a topic a second time doesn’t let you know something that you never learned in the first place.
 
 **Untrained**: You cannot make an untrained Knowledge check with a DC higher than 10. If you have access to an extensive library that covers a specific skill, this limit is removed. The time to make checks using a library, however, increases to 1d4 hours. Particularly complete libraries might even grant a bonus on Knowledge checks in the fields that they cover.
+
+## Assess Lineage (Knowledge [nobility])
+
+You have an encyclopedic knowledge of aristocratic families, enhancing your ability to spot pretenders.
+
+**Check**: When you attempt a Sense Motive check to oppose a Bluff check from someone pretending to be a member of the aristocracy or you attempt a Linguistics check to detect a forged patent of nobility, letter from an aristocrat, or similar document, you can attempt a Knowledge (nobility) check and use the result of the Knowledge check in place of your Bluff or Linguistics check result. You must be trained in Knowledge (nobility) to use this skill option.
+
+**Action**: None when used to oppose a Bluff check, or 1 round per page examined when used to detect a forgery.

@@ -84,6 +84,7 @@
 - **[Dwarven Veil](dwarven-veil.md)**: Target gains +2 on checks to influence dwarves.
 - **[Eagle’s Splendor](eagles-splendor.md)**: Subject gains +4 to Cha for 1 min./level.
 - **[Effortless Armor](effortless-armor.md)**: Armor you wear no longer slows your speed.
+- **[Enchantment Sight](enchantment-sight.md)**: See which creatures are under enchantment effects.
 - **[Endure Elements, Communal](endure-elements-communal.md)**: As endure elements, but you may divide the duration among creatures touched.
 - **[Fairness](fairness.md)**: Affected creatures must trade fairly.
 - **[Healing Token](healing-token.md)**: Holy symbols let allies request healing at a distance.

@@ -369,3 +369,17 @@ Followers of a demonic harbinger of gunpowder and poisonous metals hide througho
 **Marksman (Ex)**: At 6th level, a toxic sniper reduces the penalty on Stealth checks while sniping by 5. He reduces the penalty by 5 again at 12th level and at 18th level. At 8th level, he increases the distance from which he can deliver a ranged sneak attack against his studied target by 10 feet. This increases by 10 feet again at 14th level and at 20th level. This replaces slayer talents gained at 6th, 8th, 12th, 14th, 16th, 18th, and 20th levels.
 
 **Precise Toxin (Ex)**: At 10th level, a toxic sniper can deliver a toxic shot to especially vulnerable areas. When he hits an opponent with a toxic shot and deals sneak attack damage, he can forgo all his bonus damage to increase the DC of his toxic shot's poison. The DC increases by 1 for every 2d6 points of sneak attack damage he forgoes in this way. This replaces the slayer talent gained at 10th level.
+
+## Butterfly Blade
+
+*Slayer archetype.* Followers of an ancient tradition, the yellow-robed agents known as butterfly blades work in the shadows of a ruler's court, eliminating threats with their namesake weapons and intimidating troublesome nobles.
+
+**Studied Stalker (Ex)**: A butterfly blade gains the stalker class feature at 1st level, rather than at 7th level. The butterfly blade doesn't add his studied target bonus on Knowledge or Survival checks. This ability alters studied target and replaces track.
+
+**Bonus Feats**: Whenever a butterfly blade would gain a slayer talent, he can instead select a feat from the following list: Cutting Humiliation, Enforcer, Intimidating Prowess, Nerve-Racking Negotiator, or Threatening Negotiator. The butterfly blade does not need to meet the feat's prerequisites. This alters slayer talents.
+
+**Butterfly's Kiss (Ex)**: Butterfly blades train to inflict painful cuts rather than lethal ones. A butterfly blade can deal nonlethal damage with butterfly swords without taking a penalty on attack rolls. At 3rd level, a butterfly blade gets a +1 bonus on attack rolls with butterfly swords, and the damage die of any butterfly sword he wields increases by one step; at 9th level and again at 15th level, the attack bonus increases by 1 and the damage die increases by an additional step. At 6th level, the butterfly blade gains the knockout class feature, as per a brawler of his class level – 2. This ability replaces sneak attack.
+
+**Innocent Butterfly (Sp)**: At 7th level, a butterfly blade can use *aura of the unremarkable* once per day as a spell-like ability. At 11th level, he can use it twice per day, and at 14th level, it becomes a constant spell-like ability that he can activate or deactivate as a free action. The ability's caster level is equal to his slayer class level, and the DC is equal to 10 + the number of ranks the butterfly blade has in either Bluff or Intimidate, whichever is higher. This ability replaces stalker, swift tracker, and quarry.
+
+**Deadly Butterfly (Ex)**: At 19th level, a butterfly blade becomes a bloody whirlwind in combat. When he strikes a foe with a butterfly sword, he automatically confirms critical threats. In addition, any butterfly sword he wields is treated as if it has the speed weapon special ability. If the weapon already has the speed weapon special ability, this doesn't stack. This ability replaces improved quarry.

@@ -967,3 +967,33 @@ Nornkith hone their bodies and minds to follow the branching threefold paths of 
 **Inscrutable (Su)**: At 19th level, the nornkith is protected by a constant *mind blank* effect with a caster level equal to her monk level. The nornkith can suppress or resume this protection as a standard action. This ability replaces empty body.
 
 **Norn Transformation**: At 20th level, a nornkith attains her fey heritage. Her type changes to fey, and she gains DR 10/cold iron. This ability replaces perfect self.
+
+## Invested Regent
+
+*Monk archetype (also available to the unchained monk).* The invested regent has been handpicked by inscrutable divine forces to command others, either at the present or at some future time. The invested regent can harness a divine spark to perform superhuman stunts, influence others, and escape injury. Invested regents come from all races and walks of life, but they are more likely to be nobleborn in their cultures. Some are acutely aware of their powers' divine origins, while others do not know the source of their abilities.
+
+**Investiture (Su)**: An invested regent gains a pool of investiture points, supernatural energy he can use to call upon amazing abilities and divine protection. The number of points in the invested regent's investiture pool is equal to 1/2 his monk level + his Charisma modifier. As long as he has at least 1 point in his investiture pool, the invested regent can select one of his saving throws as a swift action and gain a +1 sacred bonus on saving throws of that type for 1 round. If he spends 1 point from his investiture pool during this swift action, he instead gains a sacred bonus equal to his Charisma modifier on the saving throw selected. A character with this feature and the ki pool class feature tracks investiture points and ki points separately. This ability replaces the bonus feat gained at 1st level.
+
+**Vested Power (Ex or Sp)**: At 2nd level and every 4 monk levels thereafter, an invested regent can select a vested power (see below) for which he qualifies in place of selecting a monk bonus feat. The invested regent need not do so and can instead take the bonus feat, but once the decision to take a bonus feat or a vested power is made, he can't change it. This replaces the bonus feat the invested regent gives up for the vested power.
+
+### Vested Powers
+
+Vested powers are abilities that draw on an invested regent's investiture pool. Vested powers are divided into two categories: feats and spells.
+
+**Requirements**: All vested powers have a minimum level requirement to select them. An invested regent who hasn't reached the required monk level cannot select that vested power.
+
+**Activation**: Most vested powers require the invested regent to spend investiture points; the exact amount is listed after the vested power. Vested powers that cost 0 investiture points don't require the invested regent to have any investiture points in his investiture pool to use the ability. The saving throw against an invested regent's vested power, if any, is equal to 10 + 1/2 the invested regent's monk level + his Charisma bonus.
+
+**Feats**: These vested powers duplicate the effects of specific feats. An invested regent doesn't need to qualify for a feat to select it as a vested power. For example, an invested regent can select Spring Attack as a vested power even if he doesn't meet the prerequisites for selecting Spring Attack as a feat. Activating one of these vested powers is a free action on the invested regent's turn; until the start of his next turn, the invested regent is treated as if he had that feat. Feats marked with an asterisk (\*) can also be activated as an immediate action when it isn't the invested regent's turn.
+
+**Spells**: These vested powers duplicate the effects of a spell and are spell-like abilities. An invested regent's monk level is the caster level for these spell-like abilities, and he uses Charisma to determine his concentration check bonus. Activating one of these vested powers is a standard action.
+
+**2nd-Level Vested Powers**: *comprehend languages* (2 investiture points), *divine favor* (1), Dodge\* (0), *entropic shield* (1), *expeditious retreat* (2), *feather step* (self only, 1), *hide from undead* (self only, 1), *sanctuary* (self only, 1), *shield of faith* (self only, 1).
+
+**6th-Level Vested Powers**: *calm emotions* (1), *cloak of winds* (self only, 2), *enthrall* (2), *gaseous form* (self only, 1), *helping hand* (1), Heroic Defiance\* (1), Heroic Recovery\* (1), *protective spirit* (2), *remove disease* (self only, 2), Sidestep\* (1), Snatch Arrows\* (1), Spring Attack (1), *tongues* (self only, 2).
+
+**10th-Level Vested Powers**: *air walk* (self only, 2), *death ward* (self only, 2), *dimension door* (self only, 2), *discern lies* (3), *divine power* (3), *freedom of movement* (self only, 3), Improved Blind-Fight\* (1), Improved Great Fortitude\* (1), Improved Iron Will\* (1), Improved Lightning Reflexes\* (1), *mark of justice* (3), *neutralize poison* (self only, 3), *restoration* (self only, 2), *spell resistance* (self only, 2), Wind Stance (2).
+
+**14th-Level Vested Powers**: *antilife shell* (3), Disarming Strike (2), Greater Blind-Fight\* (2), *greater command* (3), *greater forbid action* (3), Lightning Stance (3), *shadow walk* (self only, 3), *unwilling shield* (3).
+
+**18th-Level Vested Powers**: *divine vessel* (3), *foresight* (self only, 3), *greater restoration* (self only, 3), *regenerate* (self only, 3), *repulsion* (3).

@@ -95,6 +95,7 @@ Mediums gain access to the following spells. Spells without a link come from oth
 - **[Share Language](share-language.md)**: Subject understands chosen language.
 - **[Silent Image](silent-image.md)**: Creates minor illusion of your design.
 - **[Skin Tag](skin-tag.md)**: Haunted food that lets you torment its eater from afar.
+- **[Speechreader's Sight](speechreaders-sight.md)**: Read the lips of speakers within 100 ft.
 - **[Summon Minor Monster](summon-minor-monster.md)**: Summon 1d3 Tiny animals.
 - **[Summon Monster I](summon-monster-i.md)**: (Evil creatures only.) Summons extraplanar creature to fight for you.
 - **[Tears to Wine](tears-to-wine.md)**: Turn liquids into wine that sharpens the mind.
@@ -151,6 +152,7 @@ Mediums gain access to the following spells. Spells without a link come from oth
 - **[Disguise Other](disguise-other.md)**: As disguise self, but affects you or another.
 - **[Dream Shield](dream-shield.md)**: Protect a sleeper's mind from intrusion and control.
 - **[Eagle’s Splendor](eagles-splendor.md)**: Subject gains +4 to Cha for 1 min./ level.
+- **[Enchantment Sight](enchantment-sight.md)**: See which creatures are under enchantment effects.
 - **[Enshroud Thoughts](enshroud-thoughts.md)**: Ward yourself against thought detection and memory alteration.
 - **[Extreme Flexibility](extreme-flexibility.md)**: Gain a bonus to AC, on Escape Artist checks, and when grappling.
 - **[False Life](false-life.md)**: Gain 1d10 temporary hp + 1/level (max +10).
@@ -298,11 +300,13 @@ Mediums gain access to the following spells. Spells without a link come from oth
 - **[Remove Curse](remove-curse.md)**: Frees object or person from curse.
 - **[Replay Tracks](replay-tracks.md)**: Reconstruct past events from a set of tracks.
 - **[Retrocognition](retrocognition.md)**: Gain psychic impressions from past events in a location.
+- **[Reveal Emotions](reveal-emotions.md)**: Creatures in the area glow with their emotions.
 - **[Sand Table](sand-table.md)**: Create a scale model of the surrounding battlefield
 - **[Scrying](scrying.md)**: Spies on subject from a distance.
 - **[Seeds of Influence](seeds-of-influence.md)**: Leave a trace in a creature’s mind that weakens it against your divinations and enchantments.
 - **[Sending](sending.md)**: Delivers short message anywhere, instantly.
 - **[Share Senses](share-senses.md)**: See/hear/smell what your familiar is.
+- **[Shroud of Innocuity](shroud-of-innocuity.md)**: Targets appear as ordinary locals to every viewer.
 - **[Sleepwalking Suggestion](sleepwalking-suggestion.md)**: Cause a creature to perform a suggested action while asleep.
 - **[Summon Monster IV](summon-monster-iv.md)**: (Evil creatures only.) Summons extraplanar creature to fight for you.
 - **[Thaumaturgic Circle](thaumaturgic-circle.md)**: As magic circle, but affecting a nonalignment subtype or outsider race.

@@ -867,3 +867,13 @@ The war colleges of a lashunta city-state produce a distinctive breed of cavalie
 **Fleet of Foot (Ex)**: At 2nd level, a herald squire gains fast movement, as the barbarian class feature. If she gains fast movement from another class, the bonuses do not stack. Whenever she makes long overland journeys alone or with only her mount, the distance she can travel each day increases by 20%. This ability replaces the 2nd-level order ability.
 
 **Transcend Language (Sp)**: At 3rd level, three times per day, a herald squire can cast *tongues* on herself, using her herald squire level as her caster level. The effects last for a number of rounds equal to her herald squire level. This ability replaces cavalier's charge.
+
+## Gallant
+
+*Cavalier archetype.* Gallants embody the virtues of honor, generosity, and civility. Their personal symbol serves as an inspiration to others in a courtly setting as much as on a battlefield.
+
+**Code of Gallantry**: A gallant must belong to the order of the blue rose, the order of the guard, the order of the lion, or the order of the sword. A gallant must also be of lawful good or neutral good alignment. A gallant who ceases to be lawful good or neutral good, or who violates his order's edicts, loses all class features except armor and weapon proficiencies until he restores his alignment or atones for his violation (see the *atonement* spell), as appropriate. This alters the cavalier's order.
+
+**Symbol of Inspiration (Ex)**: At 5th level, the gallant's personal crest becomes an inspirational symbol of his chivalrous ideals. As long as he displays his crest on his tabard, banner, or similar item, allies within 60 feet who can see him gain a +2 morale bonus on saving throws against charm, compulsion, and fear effects, and a +2 bonus on damage rolls to deal nonlethal damage. At 10th level and every 5 cavalier levels thereafter, these bonuses increase by 1. This ability replaces banner.
+
+**Symbol of Resilience (Su)**: At 14th level, the gallant's personal crest empowers his allies to stand firm against evil. While his personal crest is displayed, the gallant can bolster his allies' resilience as a standard action. All allies within 60 feet of the gallant gain DR 5/evil for 1 minute. An ally cannot benefit from this ability more than once per day. This ability replaces greater banner.

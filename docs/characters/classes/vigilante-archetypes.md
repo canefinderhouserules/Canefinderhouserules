@@ -547,3 +547,27 @@ Occasionally a mutation takes hold of the body of a vigilante, but he learns to 
 *Mutant Evolution*: The mutated defender gains a 1-point evolution from the eidolon list other than climb, improved natural armor, mount, skilled, or swim. He must meet any prerequisites as normal, using his vigilante level for prerequisites that require a summoner level. He can select an evolution granting a natural attack without fulfilling the subtype requirement, though he must replace one of his hands with the natural weapon. A mutated defender can select this mutant talent multiple times, choosing a different evolution each time.
 
 *Mutated Lobe (Sp)*: A mutated defender's brain is enlarged and distended, granting him psychic powers. He can cast *detect thoughts* as a spell-like ability once per day for every 4 vigilante levels he has, with a caster level equal to his vigilante level. A vigilante must be at least 4th level to select this talent.
+
+## Throne Loyalist
+
+*Vigilante archetype.* As a realm draws closer to civil war, a shaky regent sends handpicked agents into the courts to flush out traitors to the throne. When not acting as courtiers, these agents don fearsome draconic masks, becoming anonymous protectors of the regent's rule.
+
+**Court Courtier (Ex)**: The loyalist poses as a minor noble studying the dueling traditions common throughout the realm. At 1st level, a throne loyalist gains Exotic Weapon Proficiency (dueling sword) as a bonus feat. His social identity must appear to be that of a noble, and he can't select double time, many guises, or any social talent inappropriate for a noble social identity. This ability alters social talents and replaces the 1st-level social talent.
+
+**Reflexive Reaction (Ex)**: A throne loyalist lacks the conviction of other vigilantes, but his reactions are keenly honed. At 3rd level, if a throne loyalist acts during a surprise round, he can take a full round's worth of actions. If he does, he is staggered during the first full round of combat. This ability replaces unshakable.
+
+**False Allegiance (Ex)**: Eventually, a loyalist begins training to infiltrate one of the realm's great houses. At 5th level, a throne loyalist chooses one of the seven great noble houses, gaining a bonus feat and a special ability appropriate to the chosen house. He need not meet the feat's prerequisites.
+
+- *House of Stone*: The loyalist gains Sure Grasp and the dwarves' stonecunning racial trait.
+- *House of Coin*: The loyalist gains Skill Focus (Appraise). He can also resell items for 60% of their listed value, rather than 50%. The purchase limit of the settlement must be high enough to accommodate the increased value.
+- *House of the Sea*: The loyalist gains Sea Legs. When attempting Swim checks, he ignores the armor check penalty of light or medium armor. If the loyalist has the heavy training vigilante talent, this applies to heavy armor as well.
+- *House of the Wild*: The loyalist gains Endurance and the druid's resist nature's lure class feature.
+- *House of the Blade*: The loyalist gains Call Truce and a +3 bonus to his CMD.
+- *House of the Fallen Dynasty*: The loyalist gains Skill Focus (Knowledge [history]) and a +2 bonus on Diplomacy checks to gather information. This bonus increases to +4 when gathering information related to the realm's former ruling dynasty.
+- *House of the Regent*: The loyalist gains Persuasive and a +4 bonus on Sense Motive checks against creatures that profess to be his allies.
+
+This ability replaces startling appearance.
+
+**Throne Vigilance (Su)**: A throne loyalist becomes supernaturally perceptive to plots against his lord. At 11th level, while in his vigilante identity, a throne loyalist is treated as constantly being under the effects of *perceive betrayal*. This effect's caster level is equal to the throne loyalist's vigilante level, and he doesn't require material components or a focus. This ability replaces the vigilante's frightening appearance.
+
+**Conqueror's Wrath (Ex)**: At 17th level, as a full-round action, a throne loyalist can make a full attack and move up to his speed. The loyalist can pause at any point or points during the movement, make one or more of his attacks, and continue moving. Creatures making attacks of opportunity against the loyalist during this movement gain a +4 bonus on their attack and damage rolls. Using this ability counts as using a vigilante talent. This ability replaces stunning appearance.

@@ -65,6 +65,7 @@ Mesmerists gain access to the following spells. Spells without a link come from 
 - **[Echo](echo.md)**: Cause a sound to repeat itself.
 - **[Expeditious Retreat](expeditious-retreat.md)**: Your base speed increases by 30 ft.
 - **[Faerie Fire](faerie-fire.md)**: Outlines subjects with light, canceling *blur*, concealment, and the like.
+- **[False Face](false-face.md)**: Change your appearance so you are unrecognizable.
 - **[Fool's Gold](fools-gold.md)**: Make copper or silver appear to be gold
 - **[Forbid Action](forbid-action.md)**: Target obeys your command to not do something.
 - **[Forced Quiet](forced-quiet.md)**: Target cannot make loud noises.
@@ -115,6 +116,7 @@ Mesmerists gain access to the following spells. Spells without a link come from 
 - **[Sleep](sleep.md)**: Puts 4 HD of creatures into magical slumber.
 - Sow Thought
 - **[Songbird](songbird.md)**: Conjure music from a good-aligned plane
+- **[Speechreader's Sight](speechreaders-sight.md)**: Read the lips of speakers within 100 ft.
 - **[Telempathic Projection](telempathic-projection.md)**: Alter the target’s attitude or give bonuses to those interacting with the target.
 - Theft Ward
 - **[Thought Echo](thought-echo.md)**: Replace surface thoughts with a mental echo.
@@ -175,6 +177,7 @@ Mesmerists gain access to the following spells. Spells without a link come from 
 - **[Dream Shield](dream-shield.md)**: Protect a sleeper's mind from intrusion and control.
 - **[Eagle’s Splendor](eagles-splendor.md)**: Subject gains +4 to Cha for 1 min./ level.
 - **[Emotive Block](emotive-block.md)**: Add an emotion component to all of the target’s spells.
+- **[Enchantment Sight](enchantment-sight.md)**: See which creatures are under enchantment effects.
 - **[Enshroud Thoughts](enshroud-thoughts.md)**: Ward yourself against thought detection and memory alteration.
 - **[Enter Image](enter-image.md)**: Transfers your consciousness to an object bearing your likeness.
 - **[Enthrall](enthrall.md)**: Captivates all within 100 ft. + 10 ft./level.
@@ -360,6 +363,7 @@ Mesmerists gain access to the following spells. Spells without a link come from 
 - **[Sensory Amplifier](sensory-amplifier.md)**: Creatures nearby sense more keenly but take extra damage.
 - **[Shadow Enchantment](shadow-enchantment.md)**: Quasi-real enchantment of 2nd level or lower.
 - **[Shadowmind](shadowmind.md)**: targets perceive the light level as one step darker
+- **[Shroud of Innocuity](shroud-of-innocuity.md)**: Targets appear as ordinary locals to every viewer.
 - **[Smug Narcissism](smug-narcissism.md)**: Target is distracted by its sense of self.
 - **[Spite](spite.md)**
 - **[Stage Fright](stage-fright.md)**: Targets take –4 on ability, skill, and concentration checks.
@@ -434,6 +438,7 @@ Mesmerists gain access to the following spells. Spells without a link come from 
 - **[Poison](poison.md)**: Touch deals 1d3 Con damage 1/round for 6 rounds.
 - **[Primal Scream](primal-scream.md)**: Free yourself from enchantments and paralysis effects.
 - **[Restoration](restoration.md)**: Restores level and ability score drains.
+- **[Reveal Emotions](reveal-emotions.md)**: Creatures in the area glow with their emotions.
 - **[Riding Possession](riding-possession.md)**: As possession, but you observe instead of control the subject.
 - **[Seek Shelter](seek-shelter.md)**: Weak creatures flee to safety in an orderly fashion.
 - **[Serenity](serenity.md)**: Peaceful feelings harm those attempting violence.

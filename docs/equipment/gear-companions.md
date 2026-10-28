@@ -2596,3 +2596,23 @@ Contains tools useful for building shelters and finding food in a forest. It inc
 **Price** 120 gp; **Weight** 6 lbs.
 
 Intended for hot and moist environments such as jungles and warm marshes. It includes 1 dose each of antiplague and antitoxin, five fishhooks, a hammock, a kukri, 1 dose of vermin repellent, and a water purification sponge.
+
+## Courtly Gear
+
+### Long Gloves
+
+**Price** 15 gp; **Weight** —
+
+These full-length gloves of layered silk are popular among merchant aristocrats and others who disdain physical contact. The wearer gains a +4 circumstance bonus on saving throws against contact poisons on objects he touches.
+
+### Lover's Breath
+
+**Price** 200 gp; **Weight** —
+
+This alchemical perfume is distilled from a blend of humanoid pheromones and fey sweat. When applied as a full-round action, it grants the wearer a +2 circumstance bonus on all Charisma checks and Charisma-based skill checks for 1 hour. During this time, the wearer takes a –2 penalty on saving throws against charm and fascination effects originating from fey. Long-term use of lover's breath eventually results in physical changes, causing the user to vaguely resemble a fey creature such as a nymph or dryad, although these changes are only cosmetic.
+
+### Ostentatious Garment
+
+**Price** 10 gp; **Weight** 1 lb.
+
+This term covers items not listed elsewhere, such as elaborate wigs, silk-lined cloaks, and ruffled blouses. While such garments usually offer no benefit beyond fashion, a silksworn occultist must wear several such garments of suitable quality to access her magic.

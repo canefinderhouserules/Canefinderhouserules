@@ -80,6 +80,8 @@ The following racial traits represent a fey ancestor in the family line. They ca
 
 **Fey-Quickened**: Some fey-blooded halflings are faster than their kin, yet retain a sharp eye for danger. These halflings gain Run as a bonus feat and a +2 racial bonus on initiative checks. This racial trait replaces fearless and keen senses.
 
+**Surreptitious**: Halflings skilled in eavesdropping on suspicious visitors are highly prized in human courts. These halflings are skilled at maintaining innocuous disguises and vanishing before being confronted. Halflings with this trait gain a +2 racial bonus on Disguise and Stealth checks. This racial trait replaces sure-footed.
+
 ## Racial Subtypes
 
 You can combine various alternate racial traits to create halfling subraces or variant races, such as the following.

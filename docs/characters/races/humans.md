@@ -130,6 +130,8 @@ The following racial traits represent a fey ancestor in the family line. They ca
 
 **Imposter-Wary**: Humans trained to spot fey masquerading as their kin gain a +2 racial bonus on saving throws against illusion spells and effects, 1 free rank in Sense Motive at 1st level, and 1 additional rank in Sense Motive whenever they gain a level. This racial trait replaces skilled.
 
+**Powerful Presence**: Humans with a regal bearing and strong personal magnetism can apply their presence more forcefully than others. A human with this trait treats her Charisma score as 2 points higher for the purpose of meeting feat prerequisites. In addition, humans with this racial trait gain Persuasive as a bonus feat. This racial trait replaces the bonus feat trait.
+
 ## Racial Subtypes
 
 You can combine various alternate racial traits to create human subraces or variant races, such as the following.

@@ -93,6 +93,7 @@ Occultists gain access to the following spells, determined by their chosen imple
 - Returning Weapon
 - **[Skim](skim.md)**: read in a quarter of the time
 - **[Skin Tag](skin-tag.md)**: Haunted food that lets you torment its eater from afar.
+- **[Speechreader's Sight](speechreaders-sight.md)**: Read the lips of speakers within 100 ft.
 - **[Spirit Share](spirit-share.md)**: Deliver a drink or potion by touch
 - **[Tears to Wine](tears-to-wine.md)**: Turn liquids into wine that sharpens the mind.
 - **[True Appraisal](true-appraisal.md)**: Gain insight into the value of objects
@@ -200,6 +201,7 @@ Occultists gain access to the following spells, determined by their chosen imple
 - **[Crafter's Nightmare](crafters-nightmare.md)**: Haunt sabotages crafting, ritual, and long-casting-time work.
 - **[Crimson Confession](crimson-confession.md)**
 - **[Debasing Touch](debasing-touch.md)**: Target's touch turns coins to copper.
+- **[Enchantment Sight](enchantment-sight.md)**: See which creatures are under enchantment effects.
 - **[Escape Alarm](escape-alarm.md)**: Ward an area to alert you when someone leaves
 - **[Fear the Sun](fear-the-sun.md)**: targets gain light blindness
 - **[Force Sword](force-sword.md)**: Create a longsword of pure force.
@@ -529,6 +531,7 @@ Occultists gain access to the following spells, determined by their chosen imple
 - Nondetection, Communal
 - **[Masochistic Shadow](masochistic-shadow.md)**: a shadow attacks the target, dealing Strength damage each round
 - **[Peacebond, Greater](peacebond-greater.md)**: As *peacebond*, but on multiple weapons, even if they aren’t sheathed.
+- **[Reveal Emotions](reveal-emotions.md)**: Creatures in the area glow with their emotions.
 - **[Revenant Armor](revenant-armor.md)**: Armor animates around its fallen wearer.
 - **[Rising Water](rising-water.md)**: Conjures a cylinder of calm, swimmable water.
 - **[Soothe Construct](soothe-construct.md)**: Reduce the berserk chance of a construct.

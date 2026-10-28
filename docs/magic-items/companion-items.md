@@ -5833,3 +5833,161 @@ These goggles, made from a pair of smoky crystal lenses set in an adjustable lea
 This sturdy leather strap seems worn and weathered, but is as strong as steel. When wrapped around the grip of a melee weapon for 24 hours, the strap's magic becomes active. Once per day, the wielder of a melee weapon so wrapped can hold the weapon aloft for 1 minute to change local weather conditions to create a thunderstorm. This acts as *control weather*, except only thunderstorms can be created. Additionally, the wielder can cast *call lightning storm* once per day. If used outside, this spell is cast as if the local conditions are stormy.
 
 **Construction Requirements:** Craft Wondrous Item, *call lightning storm*, *control weather*; **Cost** 30,000 gp
+
+## Courtly Favors
+
+### Kerchief of Remembrance
+
+**Slot** arm or wrist; **CL** 3rd; **Price** 600 gp; **Weight** —
+
+**Aura** faint divination
+
+Favors are a category of single-use magic items that are activated when given by one creature (the presenter) to another (the recipient). The presenter must intentionally give the favor to the recipient, and the recipient must intentionally accept it and don it within 1 minute for the favor to activate. Giving a favor is a standard action that doesn't provoke attacks of opportunity; receiving and donning a favor requires as much time as it takes to don an item of the favor's type (usually a standard action). While a favor is active, the presenter can take a standard action to sense whether the recipient is alive (with 4 or more hit points), badly wounded (at 3 or fewer hit points), dead, undead, or neither alive nor dead (as a construct), regardless of distance as long as both are on the same plane. The favor's effects end immediately if the favor is removed or otherwise leaves the recipient's possession, or if the recipient fails a saving throw against a fear effect. A creature can be the recipient of only one favor at a time; accepting a new favor ends any existing one. Once a favor's duration expires or its effects end, the presenter is immediately aware that the favor has lost its magic.
+
+This favor is a simple checked kerchief worn around the arm or wrist. For 1 week, the recipient can automatically call to mind a detailed recollection of the presenter's features, even if his memory has been impaired or modified (such as by *modify memory*). In addition, the recipient can take a standard action to know the presenter's status in the same manner that the presenter can take a standard action to know the recipient's status.
+
+**Construction Requirements:** Craft Wondrous Item, *modify memory*, *status*; **Cost** 300 gp
+
+### Laurel of the Champion
+
+**Slot** head; **CL** 3rd; **Price** 2,000 gp; **Weight** —
+
+**Aura** faint transmutation
+
+This favor is a garland of leaves, often presented to the winner of a joust or other competition. For 24 hours, the recipient takes a –2 penalty on Disguise checks and can roll twice and take the better result on Diplomacy checks.
+
+**Construction Requirements:** Craft Wondrous Item, *eagle's splendor*, *status*; **Cost** 1,000 gp
+
+### Lucky Button
+
+**Slot** none; **CL** 3rd; **Price** 1,200 gp; **Weight** —
+
+**Aura** faint evocation
+
+This favor is a pretty button that does not need to be donned, but merely placed in a pouch or pocket and carried by the recipient. A *lucky button* is activated as soon as it is given by the presenter. When the presenter bestows a *lucky button*, he names a single skill. For 1 week, the recipient gains a +2 luck bonus on skill rolls of that type.
+
+**Construction Requirements:** Craft Wondrous Item, *guidance*, *status*; **Cost** 600 gp
+
+### Paper Flower
+
+**Slot** headband; **CL** 3rd; **Price** 800 gp; **Weight** —
+
+**Aura** faint abjuration
+
+This delicate example of papercraft is often given to a paramour, with the promise that the love of the presenter will protect the recipient. A *paper flower* is worn behind the ear. For 24 hours, the first creature to directly attack the wearer (even with a targeted spell) must succeed at a DC 12 Will saving throw or be unable to follow through with the attack (as per *sanctuary*).
+
+**Construction Requirements:** Craft Wondrous Item, *sanctuary*, *status*; **Cost** 400 gp
+
+### Token of Gallantry
+
+**Slot** none; **CL** 3rd; **Price** 2,400 gp; **Weight** —
+
+**Aura** faint transmutation
+
+This favor is a lace handkerchief or scrap of silken clothing that is tied around the pommel or haft of a melee weapon. For 24 hours, that weapon becomes good-aligned for the purpose of bypassing damage reduction. As long as the favor is active, the token does not become soiled or bloody.
+
+**Construction Requirements:** Craft Wondrous Item, *align weapon*, *status*; **Cost** 1,200 gp
+
+## Courtly Regalia
+
+### Choker of Body Alteration
+
+**Slot** neck; **CL** 3rd; **Price** 2,400 gp; **Weight** —
+
+**Aura** faint transmutation
+
+This unobtrusive but fashionable velvet choker allows the wearer to change certain aspects of her physical form. Once per day on command, the choker can alter the wearer's body in one of the following ways: adopt the physical characteristics of a different gender, appear up to 10 years older or younger, become up to 10% taller or shorter, or become up to 10% thinner or heavier. This is a polymorph effect. This alteration does not change any of the wearer's statistics, such as size category or ability scores, although it does provide a +2 circumstance bonus on Disguise checks. The choker can provide only one alteration at a time, and its effects last until the choker is removed or 24 hours pass, whichever comes first.
+
+**Construction Requirements:** Craft Wondrous Item, *alter self*, *wizened appearance* or *youthful appearance*; **Cost** 1,200 gp
+
+### Headband of Social Competence
+
+**Slot** headband; **CL** 1st; **Price** 1,000 gp; **Weight** —
+
+**Aura** faint divination
+
+This simple yet elegant silver headband mentally warns the wearer before she commits a social misstep, which includes any action that would increase the DCs of Diplomacy checks to alter the attitudes of those around her or worsen the attitude of a person that the wearer considers very important. This effect functions similarly to that of a *phylactery of faithfulness*, except no contemplation is required; the headband simply alerts the wearer of the consequences before she can perform the action.
+
+**Construction Requirements:** Craft Wondrous Item, *cultural adaptation*; **Cost** 500 gp
+
+### Phantom Entourage
+
+**Slot** shoulders; **CL** 6th; **Price** 9,000 gp; **Weight** —
+
+**Aura** moderate illusion
+
+This fashionable silken shawl is incredibly light. Once per day on command, a *phantom entourage* surrounds its wearer with 1d4+2 illusions of attractive socialites. These illusions cluster closely around the wearer, laugh at his jokes, and generally stroke his ego with fawning flattery. This functions similarly to a *mirror image* spell, except an attacker has a 50% chance of ignoring the effect (as the illusions don't match the wearer). In addition, for every two illusory socialites the wearer currently has attending to him, he gains a +1 circumstance bonus on Bluff, Diplomacy, and Perform (sing) checks and takes a –2 penalty on Stealth checks. This effect lasts for 6 hours.
+
+**Construction Requirements:** Craft Wondrous Item, Extend Spell, *mirror image*; **Cost** 4,500 gp
+
+### Bastion Crown
+
+**Slot** head; **CL** 5th; **Price** 4,500 gp; **Weight** 2 lbs.
+
+**Aura** faint conjuration
+
+Often worn by paranoid rulers, this simple iron crown is thick and heavy. The wearer is immune to ninja, rogue, and slayer talents that add effects to a sneak attack, such as bleeding attack or crippling strike, though the wearer takes the extra damage from sneak attacks as normal. In addition, the wearer gains a +4 insight bonus on saving throws against death effects and an assassin's death attack ability. Finally, the wearer can cast *neutralize poison* on himself once per day, using the caster level of the item for any caster level check required.
+
+**Construction Requirements:** Craft Wondrous Item, *death ward*, *neutralize poison*, *stoneskin*; **Cost** 2,250 gp
+
+### Booming Scepter
+
+**Slot** none; **CL** 7th; **Price** 34,000 gp; **Weight** 4 lbs.
+
+**Aura** moderate evocation
+
+This bejeweled scepter constantly emits a low hum that amplifies the wielder's voice. A *booming scepter* acts as a +1 *thundering light mace* that grants the wielder a +5 competence bonus on Intimidate checks and the ability to use *shout*, as per the spell, once per day. When a *booming scepter* is held in both hands, the wielder's voice carries far enough to be heard by all creatures within 1 mile, regardless of ambient noise or intervening obstacles, although this feature cannot penetrate the area of a *silence* spell.
+
+**Construction Requirements:** Craft Magic Arms and Armor, Craft Rod, *shout*, *ventriloquism*; **Cost** 17,000 gp
+
+### Chastising Baton
+
+**Slot** none; **CL** 7th; **Price** 5,000 gp; **Weight** 3 lbs.
+
+**Aura** moderate necromancy
+
+This short metal rod is etched with the outlines of various weapons and is usually owned by strong-armed rulers who keep a tight rein on their nation's military. A *chastising baton* adds 1 to the saving throw DC of any compulsion spell cast by the wielder and adds the pain descriptor to the spell. Creatures that succeed at a Will save against a compulsion spell cast by the wielder are racked with pain, taking 1d6 points of nonlethal damage and becoming sickened for 1 round.
+
+**Construction Requirements:** Craft Rod, *pain strike*; **Cost** 2,500 gp
+
+### Crown of False Rule
+
+**Slot** head; **CL** 5th; **Price** 30,000 gp; **Weight** 1 lb.
+
+**Aura** faint illusion
+
+This item appears to be a crown studded with gems, but its valuable metals are only veneers and its gems are clever fakes. The wielder can alter the crown's appearance at will to that of any crown or circlet she has seen before, but only for as long as she wears the crown. In any form, the crown is detectable as a valueless fake with a successful DC 30 Appraise check. The wearer of a *crown of false rule* is considered the rightful political ruler of wherever she is for the purposes of magical spells or effects; for example, the wearer can receive the benefits of a magic throne (see below), draw a sword that can be removed only by a king, open a vault that unlocks at the duchess's touch, and so forth. This ability does not function in areas without a monarch or similar ruler (such as in a democracy), and it is not effective against *discern location* or the actions of deities or similarly powerful beings. For the purposes of detect spells (and spells with similar capabilities), *crown of false rule* does not appear to radiate a magical aura.
+
+**Construction Requirements:** Craft Wondrous Item, *magic aura*, *veil*; **Cost** 15,000 gp
+
+### Throne of Ardent Defense
+
+**Slot** none; **CL** 10th; **Price** 16,000 gp; **Weight** 350 lbs.
+
+**Aura** moderate abjuration and enchantment
+
+Magic thrones: a ruler's physical seat is as much a symbol of authority as a scepter or crown. A magical throne is a stationary magic item used to focus the power of a ruler at a fixed point. A throne is normally 5 feet wide, 5 feet long, and 10 feet high, although specific dimensions vary considerably. Thrones are heavy and always fixed in place; a successful DC 25 Strength check is required to uproot or move them. Moving a throne purges its magical abilities, although the throne's magic can be restored with a lengthy and expensive rededication ritual (generally taking several weeks and costing half the market price of the throne). All magic thrones are designed with a magical connection to a specific kingdom, nation, or tribe. Most magic thrones grant a *heroism* effect to the current ruler of the kingdom for as long as the ruler is seated upon the throne. Regardless of the throne's size, only one creature can receive this effect at a time. While a ruler is seated on a magic throne, another creature within 20 feet of the throne can kneel, bow, or otherwise make an obeisance to gain a temporary blessing from the throne (treat this as speaking a command word to activate a magic item). The creature need not feel genuine allegiance to the ruler to gain this blessing; the physical act of loyalty is sufficient. Unless otherwise specified, this blessing ends after 24 hours. The throne can provide its blessing only once per creature per day. A magical throne is otherwise like any other permanent magic item and can be crafted with additional abilities, be intelligent, and so on.
+
+This heavy throne is made of elaborate wrought iron and decorated with shields bearing the ruler's heraldry. A ruler seated upon a *throne of ardent defense* gains the throne's continuous *heroism* effect. Acknowledging a ruler sitting upon the throne grants the ability to cast *shield other* as a spell-like ability once in the next 24 hours. The spell ends if the subject of the spell moves more than 50 feet from either the caster or the throne.
+
+**Construction Requirements:** Craft Wondrous Item, *heroism*, *shield other*; **Cost** 8,000 gp
+
+### Throne of Fetters
+
+**Slot** none; **CL** 10th; **Price** 16,000 gp; **Weight** 500 lbs.
+
+**Aura** moderate conjuration and enchantment
+
+This imposing stone throne is ornamented with heavy chains radiating outward from the central seat. A *throne of fetters* provides a continuous *heroism* effect to the ruler or anyone related to the ruler by blood or marriage seated on it. Acknowledging a ruler (or a member of the ruler's family) seated upon the throne grants a +2 circumstance bonus on Constitution checks and a +1 morale bonus on Fortitude saving throws for 24 hours. A creature can choose to expend this blessing before the duration expires as an immediate action by crying, "My freedom for yours!" Doing so causes spectral fetters to appear around the creature's ankles, reducing its base land speed by 20 feet (to a minimum of 5 feet) and granting a *freedom of movement* effect to the creature seated upon the throne. Both of these effects last for 1 minute.
+
+**Construction Requirements:** Craft Wondrous Item, *bear's endurance*, *freedom of movement*, *heroism*; **Cost** 8,000 gp
+
+### Throne of Pleasing Mien
+
+**Slot** none; **CL** 10th; **Price** 8,000 gp; **Weight** 350 lbs.
+
+**Aura** moderate abjuration and enchantment
+
+This beautiful throne is delicately crafted from pale stone carved with images of dancing nymphs and frolicking satyrs. A *throne of pleasing mien* imparts its continuous *heroism* effect to anyone seated upon it. A creature that bows or otherwise offers fealty to anyone sitting upon the throne (regardless of whether the person is a rightful ruler or not) gains a +2 circumstance bonus on Charisma-based skill checks and a +1 morale bonus on Will saving throws for 24 hours.
+
+**Construction Requirements:** Craft Wondrous Item, *eagle's splendor*, *heroism*, *resistance*; **Cost** 4,000 gp

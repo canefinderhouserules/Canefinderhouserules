@@ -946,3 +946,21 @@ While most paladins stride brazenly forth to battle evil in gleaming armor, fait
 **Dress Wounds (Su)**: At 2nd level, a combat healer squire can hastily dress a deadly wound for her knight, temporarily alleviating his suffering. This acts in all ways like using the Heal skill to treat deadly wounds, except she only needs a full-round action. The hit points healed are temporary and last 10 minutes, but they are not lost first like temporary hit points. She can only use this ability on her knight. A knight cannot benefit from it more than once per day, and cannot be treated for deadly wounds with the Heal skill within 24 hours of being subjected to it. This ability replaces divine grace.
 
 **Swift Healer (Ex)**: At 3rd level, a combat healer squire can use the Heal skill to perform first aid or treat poison as a swift action. This ability replaces divine health.
+
+## Virtuous Bravo
+
+*Paladin archetype.* Although no less a beacon of hope and justice than other paladins, virtuous bravos rely on their wit and grace rather than might and strong armor.
+
+**Weapon and Armor Proficiency**: Virtuous bravos aren't proficient with heavy armor or shields (except for bucklers). This ability alters the paladin's armor proficiency.
+
+**Bravo's Finesse (Ex)**: A virtuous bravo can use her Dexterity modifier instead of her Strength modifier on attack rolls with light or one-handed piercing melee weapons (though if she carries a shield, she applies its armor check penalty to such attack rolls), and she can use her Charisma score in place of her Intelligence score to meet prerequisites of combat feats. This ability counts as having the Weapon Finesse feat for the purpose of meeting feat prerequisites.
+
+**Bravo's Smite (Su)**: When using smite evil, a virtuous bravo doesn't gain a deflection bonus to AC. This ability alters smite evil.
+
+**Nimble (Ex)**: At 3rd level, a virtuous bravo gains a +1 dodge bonus to AC while wearing light armor or no armor. Anything that causes the virtuous bravo to lose her Dexterity bonus to AC also causes her to lose this dodge bonus. This bonus increases by 1 for every 4 paladin levels beyond 3rd (to a maximum of +5 at 19th level). This ability replaces mercy.
+
+**Panache and Deeds (Ex)**: At 4th level, a virtuous bravo gains the swashbuckler's panache class feature along with the following swashbuckler deeds: dodging panache, menacing swordplay, opportune parry and riposte, precise strike, and swashbuckler initiative. The virtuous bravo's paladin levels stack with any swashbuckler levels when using these deeds. This ability replaces the paladin's spellcasting.
+
+**Advanced Deeds (Ex)**: At 11th level, a virtuous bravo gains the following swashbuckler deeds: bleeding wound, evasive, subtle blade, superior feint, swashbuckler's grace, and targeted strike. This ability replaces aura of justice.
+
+**Bravo's Holy Strike (Su)**: At 20th level, a virtuous bravo becomes a master at dispensing holy justice with her blade. When the virtuous bravo confirms a critical hit with a light or one-handed piercing melee weapon, she can choose one of the following three effects in addition to dealing damage: the target is rendered unconscious for 1d4 hours, the target is paralyzed for 2d6 rounds, or the target is slain. Regardless of the effect chosen, the target can attempt a Fortitude save. On a success, the target is instead stunned for 1 round (it still takes damage). The DC of this save is equal to 10 + 1/2 the virtuous bravo's paladin level + her Charisma modifier. Once a creature has been the target of a bravo's holy strike, regardless of whether or not it succeeds at the save, that creature is immune to that bravo's holy strike for 24 hours. Creatures that are immune to critical hits are also immune to this ability. This ability replaces holy champion.

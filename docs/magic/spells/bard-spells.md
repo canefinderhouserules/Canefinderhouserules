@@ -70,6 +70,7 @@
 - **[Erase](erase.md)**: Mundane or magical writing vanishes.
 - **[Expeditious Retreat](expeditious-retreat.md)**: Your base land speed increases by 30 ft.
 - **[Fabricate Disguise](fabricate-disguise.md)**: Create a disguise in an instant.
+- **[False Face](false-face.md)**: Change your appearance so you are unrecognizable.
 - **[Feather Fall](feather-fall.md)**: Objects or creatures fall slowly.
 - **[Ferment](ferment.md)**: Imbue a drink with an intoxicant
 - **[Fool's Gold](fools-gold.md)**: Make copper or silver appear to be gold
@@ -107,6 +108,7 @@
 - **[Open and Shut](open-and-shut.md)**: Obfuscate whether a door is open or closed.
 - **[Peace Bond](peace-bond.md)**: Your low-level area spells ignore protected cubes.
 - **[Pick Your Poison](pick-your-poison.md)**: Poison becomes mere intoxication for a time.
+- **[Pierce Facade](pierce-facade.md)**: +5 insight on Perception to see through disguises.
 - **[Poisoned Egg](poisoned-egg.md)**: Turn an egg into a dose of poison.
 - **[Quintessence](quintessence.md)**: Mask any flaws of or damage to a creature or object.
 - **[Read Weather](read-weather.md)**: Forecast the weather for 48 hours.
@@ -126,6 +128,7 @@
 - **[Songbird](songbird.md)**: Conjure music from a good-aligned plane
 - **[Sow Thought](sow-thought.md)**: School enchantment (compulsion) [mind-affecting]; Level bard 1, sorcerer/wizard 1, witch 1 Casting Time 1.
 - **[Speak Local Language](speak-local-language.md)**: Speak and understand one known regional human language.
+- **[Speechreader's Sight](speechreaders-sight.md)**: Read the lips of speakers within 100 ft.
 - **[Spirit Share](spirit-share.md)**: Deliver a drink or potion by touch
 - **[Starsight](starsight.md)**: See the night sky clearly and gain stargazing bonuses.
 - **[Summon Monster I](summon-monster-i.md)**: Summons extraplanar creature to fight for you.
@@ -214,6 +217,7 @@
 - **[Duelist’s Feint](duelists-feint.md)**: Distract a foe so it is vulnerable to your attacks.
 - **[Eagle’s Splendor](eagles-splendor.md)**: Subject gains +4 to Cha for 1 min./level.
 - **[Empower Holy Water](empower-holy-water.md)**: Holy water deals extra damage to undead
+- **[Enchantment Sight](enchantment-sight.md)**: See which creatures are under enchantment effects.
 - **[Enshroud Thoughts](enshroud-thoughts.md)**: Ward yourself against thought detection and memory alteration.
 - **[Enthrall](enthrall.md)**: Captivates all within 100 ft. + 10 ft./level.
 - **[Escape Alarm](escape-alarm.md)**: Ward an area to alert you when someone leaves
@@ -418,6 +422,7 @@
 - **[Sequester Thoughts](sequester-thoughts.md)**: Store a creature’s memories in a gem.
 - **[Shadow Enchantment](shadow-enchantment.md)**: Quasi-real enchantment of 2nd level or lower.
 - **[Shifting Shadows](shifting-shadows.md)**: Shadows make flanking and attacks of opportunity unreliable.
+- **[Shroud of Innocuity](shroud-of-innocuity.md)**: Targets appear as ordinary locals to every viewer.
 - **[Silt Sphere](silt-sphere.md)**: illusory silt cloud that grants concealment
 - **[Slow](slow.md)**: One subject/level takes only one action/round, –1 to AC, Reflex saves, and attack rolls.
 - **[Speak with Animals](speak-with-animals.md)**: You can communicate with animals.

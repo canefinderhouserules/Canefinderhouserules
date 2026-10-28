@@ -88,6 +88,8 @@ The following racial traits represent a fey ancestor in the family line. They ca
 
 **Wanderer**: Freed from the confines of duty, certain fey-touched dwarves are stricken with wanderlust. These dwarves are often considered untrustworthy vagabonds by other dwarves but excel at the rigors of traveling. They gain Endurance as a bonus feat, and Climb and Swim are class skills for them. This racial trait replaces hardy.
 
+**Conservative Diplomacy**: A dwarf can embrace predictable traditions to avoid social missteps. A dwarf with this racial trait can rely upon conservative tactics when attempting a Diplomacy check; this choice must be made before the Diplomacy check is attempted. The dwarf treats any roll of less than 5 on such a Diplomacy check as though she had rolled a 5, but she treats any roll higher than 15 on such a check as though she rolled a 15. This racial trait replaces stonecunning.
+
 ## Racial Subtypes
 
 You can combine various alternate racial traits to create dwarven subraces or variant races, such as the following.

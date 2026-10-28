@@ -38,6 +38,20 @@ You compel dragons to recite an epic poem telling the story of their race's crea
 
 **Action**: 1 full round.
 
+### Anthem of Pageantry (String, Wind)
+
+This lengthy piece gradually increases in power and gravity, conjuring magnificent furnishings and outfits out of thin air.
+
+**Prerequisites**: Perform (string instruments) or Perform (wind instruments) 7 ranks.
+
+**Cost**: Feat or 3rd-level bard spell known.
+
+**Effect**: This piece, developed from ancient musical records about the just rewards of honest striving, consists of a series of complicated crescendos, each culminating in a stirring, lengthy refrain. When you complete the performance, a single room or chamber you occupy appears to be swathed in silks and opulent furnishings you envision. You and up to one ally per bard level within the room who can hear you are clothed in illusory exotic fabrics, furs, and jewels while in the room. If you or an affected ally leave the room before the effect's duration expires, the illusion ends. A creature can attempt a Will save to disbelieve the illusion.
+
+**Use**: 1 bardic performance round per 10 minutes of the effect's duration.
+
+**Action**: 1 minute.
+
 ### At the Heart of It All (String, Wind)
 
 Your song pierces to the heart of a creature’s identity, weakening it against you.
@@ -167,6 +181,20 @@ Your clever turn of words or catchy musical jingle sticks in people's heads long
 **Use**: 3 bardic performance rounds, plus 1 round per additional person affected.
 
 **Activation**: 1 standard action.
+
+### Melody of Surrender (Sing, Wind)
+
+This gentle, relaxing tune makes its listeners calm and receptive.
+
+**Prerequisites**: Perform (sing) or Perform (wind instruments) 4 ranks.
+
+**Cost**: Feat or 2nd-level bard spell known.
+
+**Effect**: This lilting tune is soothing and repetitive. When you activate the performance, choose one creature per bard level within close range. Any targeted creature must succeed at a Will save or take a –2 penalty on saving throws against enchantment effects and on Sense Motive checks. This effect lasts for as long as you maintain the performance.
+
+**Use**: 1 bardic performance round per round.
+
+**Action**: 1 round.
 
 ### Pageant of the Peacock (Act, Dance)
 
@@ -771,6 +799,20 @@ Upon completing the performance, you may conjure bolts of lightning as though yo
 **Use**: 5 bardic performance rounds.
 
 **Action**: 5 full rounds.
+
+### Wise King's Saga (Oratory, Sing)
+
+Your saga magically weaves the counsel of sagacious ancestors into the telling.
+
+**Prerequisites**: Perform (oratory) or Perform (sing) 15 ranks.
+
+**Cost**: Feat or 5th-level bard spell known.
+
+**Effect**: You begin an epic tale of kings and queens in ages past, recounting their lineages and sage deeds. The epic has no fixed form and has substantial room for improvisation; many bards include tales of their own wise ancestors, or the ancestors of noteworthy members of their audience. When you activate the performance, one target creature other than you within close range (25 feet + 5 feet/2 levels) gains the benefit of a *commune* spell. You must continue the performance for the target to receive answers, as your retelling is magically guided to include relevant responses. If you cease the performance before the target has asked all of its questions, or if you run out of bardic performance rounds, any remaining questions are lost. Although this performance does have words, it is not a language-dependent effect.
+
+**Use**: 10 bardic performance rounds, plus 1 bardic performance round per question.
+
+**Action**: 10 minutes.
 
 ## Animal Speaker
 
@@ -1955,3 +1997,17 @@ A buccaneer is a pirate who specializes in raiding ships and port towns, but who
 **Knock Out (Ex)**: At 5th level, once per day as a swift action, the buccaneer can choose one target to attempt to knock out. The buccaneer adds his Charisma bonus (if any) on his attack rolls and adds his buccaneer level on any nonlethal damage rolls made against the target. The bonus lasts until the buccaneer deals nonlethal damage to his target or chooses a new target. He can use this ability one additional time per day for every six levels beyond 5th, to a maximum of three times per day at 17th level. This ability replaces lore master.
 
 **Mass Song of Surrender (Su)**: This ability functions like song of surrender but allows a buccaneer of 16th level or higher to affect all enemies within 30 feet. Enemies within range still receive a saving throw. This ability replaces mass suggestion.
+
+## Court Fool
+
+*Bard archetype.* Arguably the oldest and most widespread role for a court entertainer is that of the court jester or fool. The role arose from the need to offset the intense, even deadly, seriousness of court business. The court fool serves as an outlet for the constant pressure of aristocratic dealings, relieving tensions through humor, whether through physical comedy and acrobatics, bawdy songs, or biting satire. He holds up an unflattering mirror to those in charge or speaks truths, however veiled, that no one else can safely utter.
+
+**Buffoonery (Ex)**: A court fool gains a bonus equal to 1/2 his bard level on Acrobatics, Bluff, Climb, and Disguise checks (minimum +1). This replaces bardic knowledge.
+
+**Bardic Performance**: A court fool gains the following types of bardic performance.
+
+*Distracting Motley (Su)*: At 1st level, a court fool can startle his allies back to their senses with erratic capering or by fluttering multicolored clothing. Each round, he attempts an Acrobatics check. Any ally (including the court fool) within 30 feet can use this check in place of her own saving throw against confusion and fascination effects. Those already under a confusion or fascination effect can attempt a new save each round using the court fool's Acrobatics check. A court fool wearing an entertainer's outfit gains a +2 bonus on these Acrobatics checks. Distracting motley doesn't work on effects that don't allow saves. This is a mind-affecting effect that uses visual components. This performance replaces countersong.
+
+*Defuse Tension (Su)*: At 3rd level, a court fool can use a silly performance to comfort a beleaguered ally. That ally must be within 30 feet and be able to see the court fool. The ally ignores the fatigued and shaken conditions (but not more extreme conditions, such as exhausted or frightened) as long as she continues to see the court fool's performance. This performance affects one additional creature at 7th level and every 4 bard levels thereafter. A court fool can't use defuse tension on himself. Defuse tension relies on visual components. This performance replaces inspire competence.
+
+**Caper and Jeer (Ex)**: At 5th level, a court fool can take 10 on Acrobatics and Bluff checks, even when in danger or distracted, and can use Bluff to create a diversion to hide (as per the Stealth skill) as a swift action. He can take 20 on an Acrobatics or Bluff check once per day, plus one time per 6 levels beyond 5th, even when in danger or distracted. This ability replaces lore master.

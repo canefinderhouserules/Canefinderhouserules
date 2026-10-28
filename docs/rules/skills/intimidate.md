@@ -20,3 +20,13 @@ You can use this skill to frighten your opponents or to get them to act in a way
 If you have the Persuasive feat, you get a bonus on Intimidate checks (see Chapter 5).
 
 A half-orc gets a +2 bonus on Intimidate checks.
+
+## Leverage Influence
+
+You can threaten an opponent with your powerful allies and associations rather than your physical size and prowess.
+
+**Check**: Attempt an Intimidate check to force a target to act friendly to you as usual. You must mention your influential allies and the dire consequences they could bring to bear on the target as part of this check, and your target must understand your words. If your claim of association is patently implausible, such as a ragged beggar claiming to be a confidant of the duke, your check automatically fails. When attempting this check, don't include any modifiers that involve bullying the target with your physicality, such as from the Intimidating Prowess feat or for being larger than your target. You don't take a penalty on this check for being smaller than your target. For every 5 by which your Intimidate check result exceeds the DC, the duration of the effect is extended by an additional 1d6×10 minutes.
+
+**Action**: Using Intimidate to leverage your position requires 1 minute of continuous interaction.
+
+See also *Persuasive Suggestion* under [Diplomacy](diplomacy.md).

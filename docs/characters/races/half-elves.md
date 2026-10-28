@@ -94,6 +94,8 @@ The following racial traits represent a fey ancestor in the family line. They ca
 
 Half-elves with a drow ancestor can choose from the alternate racial traits listed on the [drow page](drow.md#alternate-racial-traits) (Daylight Adaptation excepted), such as Drow Heritage, Flexible Half-Breed, Hidden Half-Breed, Lesser Spell-Like Abilities, Psychic Sensitivity and Spell Resistance. The [darkborn traits](shadowborn-traits.md#darkborn-alternate-racial-traits) and [shadowborn traits](shadowborn-traits.md#shadowborn-alternate-racial-traits) are also available.
 
+**Fraudulent**: To obtain and keep a position at court, some half-elves aren't shy about exaggerating or fabricating claims to nobility. Half-elves with this racial trait gain a +1 racial bonus on Bluff checks, Knowledge (nobility) checks, and Linguistics checks to create forgeries. They need to spend only half as much on accessories (such as the jewelry required to accessorize a courtier's or noble's outfit) to appear suitable in a courtly setting. This racial trait replaces keen senses.
+
 ## Racial Subtypes
 
 You can combine various alternate racial traits to create half-elven subraces or variant races, such as the following.

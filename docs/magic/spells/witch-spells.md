@@ -43,6 +43,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Endothermic Touch](endothermic-touch.md)**: Slow a reptile or dragon, staggering it
 - **[Enlarge Tail](enlarge-tail.md)**: Your tail gains reach and a bonus to attack and damage.
 - **[Fabricate Disguise](fabricate-disguise.md)**: Create a disguise in an instant.
+- **[False Face](false-face.md)**: Change your appearance so you are unrecognizable.
 - **[Ferment](ferment.md)**: Imbue a drink with an intoxicant
 - **[Forced Quiet](forced-quiet.md)**: Target cannot make loud noises.
 - **[Frostbite](frostbite.md)**: Target takes cold damage and is fatigued.
@@ -80,6 +81,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Peace Bond](peace-bond.md)**: Your low-level area spells ignore protected cubes.
 - **[Peacebond](peacebond.md)**: Locks a weapon in place on the target’s body.
 - **[Pick Your Poison](pick-your-poison.md)**: Poison becomes mere intoxication for a time.
+- **[Pierce Facade](pierce-facade.md)**: +5 insight on Perception to see through disguises.
 - **[Poisoned Egg](poisoned-egg.md)**: Turn an egg into a dose of poison.
 - **[Positive Pulse](positive-pulse.md)**: Energy harms undead or bolsters the living
 - **[Preserve](preserve.md)**: Stop spoilage of objects for a week
@@ -100,6 +102,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Snowball](snowball.md)**: Throw a conjured ball of snow at a target.
 - **[Sow Thought](sow-thought.md)**: School enchantment (compulsion) [mind-affecting]; Level bard 1, sorcerer/wizard 1, witch 1 Casting Time 1.
 - **[Speak Local Language](speak-local-language.md)**: Speak and understand one known regional human language.
+- **[Speechreader's Sight](speechreaders-sight.md)**: Read the lips of speakers within 100 ft.
 - **[Spirit Share](spirit-share.md)**: Deliver a drink or potion by touch
 - **[Starsight](starsight.md)**: See the night sky clearly and gain stargazing bonuses.
 - **[Strong Wings](strong-wings.md)**: School transmutation; Level druid 1, ranger 1, sorcerer/wizard 1, witch 1 Casting Time 1 standard action.
@@ -180,6 +183,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Drain Construct](drain-construct.md)**: Strip a construct of DR, fast healing, speed, and Strength.
 - **[Dress Corpse](dress-corpse.md)**: Doctor the evidence on a corpse.
 - **[Eldritch Conduit](eldritch-conduit.md)**: Use an enemy as the origin point of an area spell.
+- **[Enchantment Sight](enchantment-sight.md)**: See which creatures are under enchantment effects.
 - **[Enemy’s Heart](enemy-s-heart.md)**: You cut out an enemy’s heart and consume it, absorbing that enemy’s power as your own.
 - **[Enshroud Thoughts](enshroud-thoughts.md)**: Ward yourself against thought detection and memory alteration.
 - **[Familiar Figment](familiar-figment.md)**: Illusory duplicate of your familiar gives a 50% miss chance.
@@ -393,6 +397,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Sensory Amplifier](sensory-amplifier.md)**: Creatures nearby sense more keenly but take extra damage.
 - **[Sharesister](sharesister.md)**: Take a negative level to boost an ally’s casting.
 - **[Shifting Shadows](shifting-shadows.md)**: Shadows make flanking and attacks of opportunity unreliable.
+- **[Shroud of Innocuity](shroud-of-innocuity.md)**: Targets appear as ordinary locals to every viewer.
 - **[Siphon Might](siphon-might.md)**: Drains target's Strength and grants it to an ally.
 - **[Sky Swim](sky-swim.md)**: Swim through the air.
 - **[Slave to Sin](slave-to-sin.md)**: Exploit a creature’s sin to sicken and stagger it.
@@ -653,6 +658,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Neutralize Poison, Greater](neutralize-poison-greater.md)**: As neutralize poison, but it also reverses poison damage.
 - **[Night Terrors](night-terrors.md)**: Disturb a creature’s rest with dark dreams.
 - **[Overwhelming Poison](overwhelming-poison.md)**: Make a poison more difficult to resist.
+- **[Perceive Betrayal](perceive-betrayal.md)**: Sense traitorous intent toward your liege.
 - **[Phantasmal Putrefaction](phantasmal-putrefaction.md)**: Trick creatures into thinking their flesh is rotting.
 - **[Phobia](phobia.md)**: Induce an irrational fear in a creature to the point of madness.
 - **[Plague Bearer](plague-bearer.md)**: Target spreads contagion to adjacent creatures.

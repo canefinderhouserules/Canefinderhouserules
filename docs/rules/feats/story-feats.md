@@ -89,6 +89,18 @@ You seek an artifact, either a specific one or merely any item of legendary prow
 
 **Suggested Traits**: Dangerously Curious, Fortunate, Secret-Keeper.
 
+## Aspiring Noble (Story)
+
+You strive to be seen as a legitimate noble.
+
+**Prerequisite**: Must be a member of an established family that is yet unrecognized as nobility.
+
+**Benefit**: You have learned to further your name among the people. Choose a settlement and either Diplomacy or Intimidate. While in your chosen settlement, you gain a +2 bonus on checks with the chosen skill when dealing with the commoners of that settlement. If you have 10 or more ranks in the chosen skill, the bonus increases to +4.
+
+**Goal**: Have your family recognized as nobility by either three established noble families or a ruling monarch.
+
+**Completion Benefit**: You gain a +2 bonus on checks with your chosen skill when dealing with the rest of the citizens of your chosen settlement. Your bonus to interact with commoners increases to +4, or it increases to +6 if you have 10 or more ranks in your chosen skill.
+
 ## Battlefield Healer (Story)
 
 In even the fiercest battles, you risk life and limb to save your allies.
@@ -345,6 +357,18 @@ A past enemy seeks your ruin.
 
 **Special**: Thwarting your plans becomes an all-consuming goal for your nemesis. Your nemesis gains a +2 bonus on attack rolls and damage rolls against you. Whatever you try to achieve, your nemesis seeks to tear down.
 
+## Noble Impostor (Story)
+
+You put on airs and others believe your tales.
+
+**Prerequisite**: Must not be a member of an established family or a member of nobility.
+
+**Benefit**: You gain a +2 bonus on Bluff and Knowledge (nobility) checks and these skills are class skills for you.
+
+**Goal**: Convince at least three noble families, a ruling monarch, or a settlement of at least small city size that you are a member of an existing or a previously unknown noble family.
+
+**Completion Benefit**: You gain followers as if you had the Leadership feat. If you also have the Leadership feat, increase your Leadership score by 3 for the purpose of determining how many followers you have.
+
 ## Object of Legend (Story)
 
 The object of your quest drives you ever forward.
@@ -396,6 +420,18 @@ Your past failure haunts you and drives you on.
 **Goal**: Regain any lost class features and complete a quest to prove your worth. In the course of completing this quest, you must decisively defeat a challenging foe. The quest should relate in some fashion to the transgression that removed your class abilities or led to you being disgraced.
 
 **Completion Benefit**: You gain the ability to reroll a failed saving throw once per day. You must keep the result of the second roll, even if it is lower.
+
+## Self-Exiled Noble (Story)
+
+You chose to leave nobility behind.
+
+**Prerequisite**: You must have intentionally left your noble family and changed your name or appearance afterward.
+
+**Benefit**: You gain a +2 bonus on Disguise checks, and Disguise is a class skill for you. You gain a +1 bonus on attack rolls and damage rolls against members of your former family.
+
+**Goal**: Escape your former name by establishing your own noble legacy. In addition, you must decisively defeat a challenging foe from your former family who may wish to return you to your old home.
+
+**Completion Benefit**: Your bonus on attack rolls and damage rolls from this feat increases to +2 and applies to anyone who threatens your allies or your new noble legacy.
 
 ## Shamed (Story)
 
