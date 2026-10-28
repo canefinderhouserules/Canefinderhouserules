@@ -4,6 +4,7 @@
 
 - **[Alleviate Addiction](alleviate-addiction.md)**: Subject ignores the effects of addictions.
 - **[Aspect of the Nightingale](aspect-of-the-nightingale.md)**: Clear voice, bonus on Diplomacy and Perform.
+- **[Bed of Iron](bed-of-iron.md)**: Lets targets sleep comfortably in armor.
 - **[Bless](bless.md)**: Allies gain +1 on attack rolls and saves against fear.
 - **[Bless Water](bless-water.md)**: Makes holy water.
 - **[Bless Weapon](bless-weapon.md)**: Weapon strikes true against evil foes.
@@ -21,6 +22,7 @@
 - **[Detect the Faithful](detect-the-faithful.md)**: Find others of the same faith.
 - **[Detect Undead](detect-undead.md)**: Reveals undead within 60 ft.
 - **[Divine Favor](divine-favor.md)**: You gain +1 per three levels on attack and damage rolls.
+- **[Emblazon Crest](emblazon-crest.md)**: Displays a crest on worn tabards and shields.
 - **[Empower Holy Water](empower-holy-water.md)**: Holy water deals extra damage to undead
 - **[Endure Elements](endure-elements.md)**: Exist comfortably in hot or cold regions.
 - **[Enhance Water](enhance-water.md)**: Turn water into ale or wine.
@@ -34,6 +36,7 @@
 - **[Inner Focus](inner-focus.md)**: Cast divine spells without displaying a holy symbol.
 - **[Instant Clot](instant-clot.md)**: end bleeding and stop blood flowing from wounds
 - **[Ironbeard](ironbeard.md)**: School transmutation; Level antipaladin 1, cleric 1, magus 1, paladin 1, ranger 1 Casting Time 1 standard.
+- **[Keep Watch](keep-watch.md)**: Lets subjects keep watch all night yet gain a full rest.
 - **[Know Peerage](know-peerage.md)**: Target uses your Knowledge (nobility) ranks.
 - **[Liberating Command](liberating-command.md)**: Target makes an Escape Artist check as an immediate action and gains a bonus on it.
 - **[Linebreaker](linebreaker.md)**: You gain a +20 foot bonus to your base speed when charging and a +2 bonus on combat maneuver checks made to.
@@ -54,6 +57,7 @@
 - **[Stalwart Resolve](stalwart-resolve.md)**: Ignore ability damage to one score.
 - **[Steady Saddle](steady-saddle.md)**: Steady a saddle for mounted ranged attacks
 - **[Sun Metal](sun-metal.md)**: Weapon touched bursts into flames.
+- **[Swift Girding](swift-girding.md)**: Instantly clads willing targets in chosen armor.
 - **[Tactical Acumen](tactical-acumen.md)**: You gain an additional +1 on attack rolls or to AC due to battlefield positioning.
 - **[Thunder Arrow](thunder-arrow.md)**: Electric arrow that attacks or signals.
 - **[Tracking Mark](tracking-mark.md)**: Easier to track a target.
@@ -72,6 +76,7 @@
 - **[Blessing of Luck and Resolve](blessing-of-luck-and-resolve.md)**: A favored blessing of halfling clerics, this spell grants its target a +2 morale bonus on saving throws.
 - **[Blinding Ray](blinding-ray.md)**: School evocation [good, light]; Level cleric 2, inquisitor 3, paladin 2 Casting Time 1 standard action.
 - **[Bull’s Strength](bulls-strength.md)**: Subject gains +4 to Str for 1 min./level.
+- **[Carry Companion](carry-companion.md)**: Turns a willing animal into a stone figurine.
 - **[Contest of Skill](contest-of-skill.md)**: Target’s critical threats fail to confirm.
 - **[Delay Disease](delay-disease.md)**: The target becomes temporarily immune to disease.
 - **[Delay Poison](delay-poison.md)**: Stops poison from harming subject for 1 hour/level.

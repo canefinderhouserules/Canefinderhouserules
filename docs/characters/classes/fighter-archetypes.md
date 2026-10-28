@@ -1017,3 +1017,13 @@ A corsair is a pirate who focuses on shipboard combat, relying on strength of ar
 **Armored Pirate (Ex)**: At 3rd level, the corsair reduces the armor check penalty of any light armor he wears to 0 for purposes of Acrobatics and Swim checks. At 7th level, this becomes true of medium armor as well, and at 11th level it includes heavy armor. This ability replaces armor training.
 
 **Improved Deck Fighting (Ex)**: At 6th level, the corsair gains Great Cleave as a bonus feat, even if he does not meet the prerequisites. A corsair does not take the normal –2 penalty to AC when using Great Cleave. This ability replaces the fighter's 6th-level bonus feat.
+
+## Weapon Bearer Squire
+
+*Squire archetype; may also be taken by other characters who qualify.* With myriad weapons, armor, and useful gear always on hand, the weapon bearer squire ensures her knight is equipped for any task.
+
+**Weapon Rack (Ex)**: At 1st level, once per round, a knight can retrieve an item carried by his weapon bearer squire as a move action that does not provoke attacks of opportunity. In addition, a weapon bearer squire can pick up items dropped by her knight as an immediate action without provoking attacks of opportunity. The knight and squire must be adjacent, and both must be able to move and communicate. This ability replaces the 1st-level fighter bonus combat feat.
+
+**Swift Sharpening (Ex)**: At 2nd level, as a full-round action, a weapon bearer squire can use a whetstone to sharpen a weapon she is holding, granting whoever wields it a +1 circumstance bonus on his next attack roll with that weapon. In addition, she can apply a weapon blanch to a weapon she is holding as a standard action instead of a full-round action. This ability replaces the 2nd-level fighter bonus combat feat.
+
+**Combat Repairs (Ex)**: At 3rd level, as a full-round action, a weapon bearer squire can make rapid repairs to a weapon she is holding and is proficient with by succeeding at a DC 20 Craft (weapons) check. The item does not regain hit points, but loses the broken condition for a number of rounds equal to her class level. This ability replaces armor training 1.

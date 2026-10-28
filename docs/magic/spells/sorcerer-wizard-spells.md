@@ -67,6 +67,7 @@
 - **[Arcane Pocket](arcane-pocket.md)**: Conjure a small extradimensional pocket.
 - **[Auditory Hallucination](auditory-hallucination.md)**: Create a phantasm with auditory effects.
 - **[Authenticating Gaze](authenticating-gaze.md)**: Gain insight on Appraise and Linguistics checks about written works.
+- **[Bed of Iron](bed-of-iron.md)**: Lets targets sleep comfortably in armor.
 - **[Bestow Planar Infusion I](bestow-planar-infusion-i.md)**: Grant a target the effects of a planar infusion
 - **[Blend](blend.md)**: You draw upon your elven link to the wilderness to change the coloration of yourself and your equipment to.
 - **[Blend with Surroundings](blend-with-surroundings.md)**: Target looks like an object and hides easily while still.
@@ -74,6 +75,7 @@
 - **[Brightest Night](brightest-night.md)**: grant or enhance low-light vision
 - **[Burning Sands](burning-sands.md)**: Burning sand slows and damages creatures.
 - **[Celestial Healing](celestial-healing.md)**: Target gains fast healing 1.
+- **[Clarion Call](clarion-call.md)**: Creates a horn blast and a booming voice.
 - **[Cloak of Secrets](cloak-of-secrets.md)**: Bubble disguises speech and spell components.
 - **[Coin Shot](coin-shot.md)**: Turns coins into bullets.
 - **[Coward's Cowl](cowards-cowl.md)**: Defensive bonuses while avoiding enemies.
@@ -90,6 +92,7 @@
 - **[Detect Radiation](detect-radiation.md)**: See radioactive auras.
 - **[Devouring Visage](devouring-visage.md)**: Hideous face grants Intimidate bonus and a bite.
 - **[Ears of the City](ears-of-the-city.md)**: Gather information from echoes of local talk.
+- **[Emblazon Crest](emblazon-crest.md)**: Displays a crest on worn tabards and shields.
 - **[Endothermic Touch](endothermic-touch.md)**: Slow a reptile or dragon, staggering it
 - **[Endure Elements](endure-elements.md)**: Exist comfortably in hot or cold regions.
 - **[Enlarge Tail](enlarge-tail.md)**: Your tail gains reach and a bonus to attack and damage.
@@ -115,6 +118,7 @@
 - **[Instant Portrait](instant-portrait.md)**: Paint a quick monochrome portrait.
 - **[Itching Curse](itching-curse.md)**: Itch gives –1 penalty unless scratched.
 - **[Jury-Rig](jury-rig.md)**: Removes the broken condition from the targeted object.
+- **[Keep Watch](keep-watch.md)**: Lets subjects keep watch all night yet gain a full rest.
 - **[Liberating Command](liberating-command.md)**: Target makes an Escape Artist check as an immediate action and gains a bonus on it.
 - **[Lighten Object](lighten-object.md)**: Halve an object’s weight.
 - **[Linked Legacy](linked-legacy.md)**: Share Knowledge check results with the linked creatures.
@@ -170,6 +174,7 @@
 - **[Stone Shield](stone-shield.md)**: A 1-inch-thick slab of stone springs up from the ground, interposing itself between you and an opponent of.
 - **[Strong Wings](strong-wings.md)**: School transmutation; Level druid 1, ranger 1, sorcerer/wizard 1, witch 1 Casting Time 1 standard action.
 - **[Summon Monster I](summon-monster-i.md)**: Summons extraplanar creature to fight for you.
+- **[Swift Girding](swift-girding.md)**: Instantly clads willing targets in chosen armor.
 - **[Technomancy](technomancy.md)**: Detect technological objects.
 - **[Theft Ward](theft-ward.md)**: You ward a single object in your possession against theft.
 - **[Touch of Blindness](touch-of-blindness.md)**: touches blind creatures for 1 round
@@ -273,6 +278,7 @@
 - **[Burst of Radiance](burst-of-radiance.md)**: Blind creatures and damage evil creatures with a flash of light.
 - **[Callback](callback.md)**: Teleport a familiar or spirit animal to your side when it is injured.
 - **[Carrion Compass](carrion-compass.md)**: Organ leads you to an undead creature's controller
+- **[Carry Companion](carry-companion.md)**: Turns a willing animal into a stone figurine.
 - **[Certain Grip](certain-grip.md)**: You gain a +4 competence bonus on Acrobatics and Climb checks and to CMD.
 - **[Codespeak](codespeak.md)**: Speak, read, and write a new code language.
 - **[Commune with Birds](commune-with-birds.md)**: You utter a question in the form of a low-pitched bird call that can be heard up to a mile away, and can.
@@ -513,6 +519,7 @@
 - **[Ancestral Revision](ancestral-revision.md)**: a wayang appears as a gnome-like version of herself
 - **[Appearance of Life](appearance-of-life.md)**: Undead appear to be alive.
 - **[Apport Animal](apport-animal.md)**: Send or receive a Tiny or smaller animal via teleportation.
+- **[Armor Lock](armor-lock.md)**: Stiffens armor joints, staggering or entangling the target.
 - **[Assume Appearance](assume-appearance.md)**: Use a creature’s corpse to adopt its form.
 - **[Audiovisual Hallucination](audiovisual-hallucination.md)**: Create a phantasm with auditory and visual effects.
 - **[Aura of Cannibalism](aura-of-cannibalism.md)**: Drain life from creatures of your own kind
@@ -949,6 +956,7 @@
 - **[Mnemonic Enhancer](mnemonic-enhancer.md)**: *Wizard only.* Prepare extra spells or retain one just cast.
 - **[Reduce Person, Mass](reduce-person-mass.md)**: As *reduce person*, but affects 1 humanoid creature/level.
 - **[Stone Shape](stone-shape.md)**: Sculpts stone into any shape.
+- **[Ward Shield](ward-shield.md)**: Shield grants spell resistance against targeted spells.
 - **[Warp Metal](warp-metal.md)**: Permanently warps metal objects.
 - **[Watchful Animal](watchful-animal.md)**: Your animal companion or familiar becomes a scrying sensor.
 - **[Web Cloud](web-cloud.md)**: Component V, S Range medium (100 ft.

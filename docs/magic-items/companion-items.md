@@ -5575,3 +5575,97 @@ This heavy book contains a collection of epic tales of mighty northern heroes an
 This small knife has a bone handle and a blade that seems to be made of clear blue ice. Commonly found in the hands of a winter witch, a *shard of winter* is a +1 *frost* dagger. Once per day, a witch can use a *shard of winter* to cast any one spell with the cold descriptor that the witch has stored in her familiar and is capable of casting, even if the spell is not prepared. This spell is treated like any other spell cast by the witch, including casting time, duration, and other effects dependent on the witch's level. This spell can't be modified by metamagic feats or other abilities.
 
 **Construction Requirements:** Craft Magic Arms and Armor, *ice storm*, *telepathic bond*, creator must be a winter witch; **Cost** 13,302 gp
+
+## Knightly Items
+
+### Glaive-Guisarme of the Vanguard
+
+**Slot** none; **CL** 8th; **Price** 9,512 gp; **Weight** 10 lbs.
+
+**Aura** moderate transmutation
+
+This well-crafted +1 *glaive-guisarme* has an image of a roaring lion built into its fastener, and the entire weapon is unnaturally warm to the touch. When used to brace against a charge, this weapon acts as a +3 *glaive-guisarme* and deals an additional 2d6 points of precision damage on a successful hit, in addition to dealing double damage against a charging character for being a weapon with the brace special feature.
+
+**Construction Requirements:** Craft Magic Arms and Armor, *true strike*; **Cost** 4,912 gp
+
+### Knight-Captain's Lance
+
+**Slot** none; **CL** 6th; **Price** 22,710 gp; **Weight** 13 lbs.
+
+**Aura** moderate evocation
+
+This ornate +2 *lance* changes in color and style to match the armor of the wielder. A bright pennon flies from the end of the lance, mounted just behind the lance's point, and if the wielder has personal heraldry, the pennon displays that heraldry. This pennon can serve as a cavalier's banner. The weapon counts as alchemical silver for purposes of penetrating DR. Three times per day, when the wielder successfully damages a target with the knight-captain's lance, as a swift action she may grant all allies within 60 feet a +2 morale bonus on the next attack roll they make against the same target. The bonus lasts for 1 round.
+
+**Construction Requirements:** Craft Magic Arms and Armor, *divine favor*; **Cost** 11,510 gp
+
+### War Lance
+
+**Slot** none; **CL** 8th; **Price** 10,310 gp; **Weight** 10 lbs.
+
+**Aura** moderate abjuration
+
+Shorter and thicker than most lances, this +3 *lance* has a full-sized shield worked into the vamplate, though it is too heavy to count as a shield for shield bash and similar maneuvers, and does not automatically grant the wielder a shield bonus to AC. However, a war lance grants the wielder and her steed a +2 shield bonus to AC when the wielder is mounted.
+
+**Construction Requirements:** Craft Magic Arms and Armor, *shield*; **Cost** 5,310 gp
+
+### Armiger's Panoply
+
+**Slot** wrists; **CL** 3rd; **Price** 7,200 gp; **Weight** 1 lb.
+
+**Aura** faint transmutation
+
+An armiger's panoply is a magic item set made up of one pair of bracers and a large leather sack. The bracers are normally forearm guards made in the style of masterwork padded or quilted cloth armor, often of silk or high-quality linen, though they can also be crafted of leather or even chain links. A command word is normally inscribed on the inside of one of the bracers. The sack can be used to store a single suit of armor, including a shield. The armor retains its normal weight when stored. If items other than a suit of armor and a shield are put in the sack, they immediately fall through.
+
+Three times per day, the wearer of the bracers can speak the command word to have the suit of armor and shield stored in the sack teleport onto the wearer. The sack must be within 500 feet of the wearer in order to function. If the wearer is already in a suit of armor, it is teleported into the sack at the same time the new armor is teleported onto the user's body. As long as the armor to be worn is the same size as the user, it fits perfectly and doesn't interfere with anything else worn or hinder the user, including any grapple or tight space the wearer might be trapped in.
+
+**Construction Requirements:** Craft Wondrous Item, *effortless armor*; **Cost** 3,600 gp
+
+### Bridle of Tricks
+
+**Slot** head; **CL** 5th; **Price** 900 gp (3 tricks), 1,600 gp (4 tricks), 2,500 gp (5 tricks); **Weight** 2 lbs.
+
+**Aura** faint divination
+
+Appearing to be a finely crafted bridle of polished steel and blue-dyed leather, a bridle of tricks can be placed on any animal or magical beast with an appropriate shape to wear a bridle (creatures with unusual anatomies may be affected with GM discretion). While wearing the bridle, a creature is treated as knowing three, four, or five additional tricks, as if it had been taught the tricks with the Handle Animal skill. The tricks granted are set when the bridle is created and cannot be changed. The most common tricks found in a bridle of tricks are attack, defend, fetch, guard, and heel.
+
+**Construction Requirements:** Craft Wondrous Item, *speak with animals*, creator must have 5 ranks in Handle Animal; **Cost** 450 gp (3 tricks), 800 gp (4 tricks), 1,250 gp (5 tricks)
+
+### Champion's Banner
+
+**Slot** none; **CL** 5th; **Price** 8,000 gp; **Weight** 3 lbs.
+
+**Aura** faint transmutation
+
+A champion's banner is a cloth flag or standard (typically 2 feet wide and 4 feet long) meant to be carried and displayed on a lance, polearm, frame, or staff. It has no effect unless it is mounted properly and a wielder is carrying the object bearing it. It depicts the insignia or heraldic symbol of its wielder; if the wielder has no such symbol, it depicts a heraldic lion. A character with the challenge class feature carrying a champion's banner treats his class level as 4 levels higher when determining the effect of his challenge ability. This does not alter the number of times per day the wielder may use his challenge ability, only the value of the bonuses it grants.
+
+**Construction Requirements:** Craft Wondrous Item, *eagle's splendor*, creator must have 5 ranks in Knowledge (nobility); **Cost** 4,000 gp
+
+### Commander's Banner
+
+**Slot** none; **CL** 5th; **Price** 10,000 gp; **Weight** 3 lbs.
+
+**Aura** faint transmutation
+
+A commander's banner is a cloth flag or standard (typically 2 feet wide and 4 feet long) meant to be carried and displayed on a lance, polearm, frame, or staff. It has no effect unless it is mounted properly and a wielder is carrying the object bearing it. It normally depicts the insignia or heraldic symbol of a particular noble. A character with the tactician class feature carrying a commander's banner can use her tactician ability one additional time per day, and can use it to grant the teamwork feat granted by the tactician ability to allies within 60 feet (rather than 30 feet); allies can use the granted feat for 2 rounds longer than normal.
+
+**Construction Requirements:** Craft Wondrous Item, *eagle's splendor*, creator must have 5 ranks in Diplomacy; **Cost** 5,000 gp
+
+### Crusader's Tabard
+
+**Slot** body; **CL** 5th; **Price** 6,000 gp; **Weight** 2 lbs.
+
+**Aura** faint transmutation
+
+A crusader's tabard is a sturdy cloth vestment worn over armor and other clothing. It is normally decorated with the symbol or heraldic device of the owner, and may be trimmed with expensive and delicate materials (such as silk, fur, or cloth of gold). Once per day, the wearer of the tabard may say its command word (often a family motto); thereafter, the wearer can spend a standard action (instead of a full-round action) to move up to his speed and make a single charge attack. This ability lasts until used or for 1 minute, whichever duration is shorter.
+
+**Construction Requirements:** Craft Wondrous Item, *haste*; **Cost** 3,000 gp
+
+### War Saddle
+
+**Slot** belt; **CL** 5th; **Price** 5,000 gp; **Weight** 20 lbs.
+
+**Aura** faint divination
+
+This military saddle is made of cured hide, with numerous straps and hooks to allow it to be easily configured to fit different sizes of animals and saddlebags. Any creature of the animal or magical beast type of an appropriate shape to wear a saddle (creatures with unusual anatomies may be affected with GM discretion) can wear the war saddle, which magically changes size and shape as necessary. The saddle allows the creature wearing it to act as if it were combat trained, and gives the rider a +5 competence bonus on Ride checks made while mounted upon the creature.
+
+**Construction Requirements:** Craft Wondrous Item, *speak with animals*, creator must have 5 ranks in Ride; **Cost** 2,500 gp

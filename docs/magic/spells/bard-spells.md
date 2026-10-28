@@ -40,6 +40,7 @@
 - **[Call Weapon](call-weapon.md)**: Pull an ally’s weapon into your hand.
 - **[Cause Fear](cause-fear.md)**: One creature of 5 HD or less flees for 1d4 rounds.
 - **[Charm Person](charm-person.md)**: Makes one person your friend.
+- **[Clarion Call](clarion-call.md)**: Creates a horn blast and a booming voice.
 - **[Cloak of Secrets](cloak-of-secrets.md)**: Bubble disguises speech and spell components.
 - **[Coin Shot](coin-shot.md)**: Turns coins into bullets.
 - **[Compel Hostility](compel-hostility.md)**: Compels opponents to attack you instead of your allies.

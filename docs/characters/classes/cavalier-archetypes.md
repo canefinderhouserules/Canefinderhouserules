@@ -54,6 +54,60 @@ Cavaliers belonging to the order of reason are dedicated to hunting down anyone 
 
 *Godslayer (Ex)*: At 15th level, whenever the cavalier makes a melee attack against the target of his challenge and that target is a divine spellcaster, the cavalier gains a bonus on attack and damage rolls equal to his Charisma modifier. This damage is multiplied on a critical hit.
 
+### Order of the Land
+
+Some cavaliers dedicate themselves to the land and the people who inhabit the rural areas between urban centers. These cavaliers often lead untrained militias of revolutionaries in backwoods towns, fighting against oppressive governments or the savage elements that threaten citizens in their daily lives. Self-reliance and the ability to make do with sparse resources are hallmarks of this order.
+
+**Edicts**: The cavalier must always strive to protect the common folk from the depredations of oppressive regimes. He must not decline any duty or mission because he is not properly equipped for it.
+
+**Challenge**: Whenever an order of the land cavalier issues a challenge, he receives a +1 morale bonus on ranged attack rolls against the target of his challenge. This bonus increases by +1 for every four levels the cavalier possesses.
+
+**Skills**: An order of the land cavalier adds Knowledge (local) (Int) and Survival (Wis) to his list of class skills. Whenever he makes a Survival check to avoid getting lost, he receives a bonus equal to 1/2 his cavalier level (minimum +1).
+
+**Order Abilities**: A cavalier belonging to the order of the land gains the following abilities as he increases in level.
+
+*Adaptive Strike (Ex)*: At 2nd level, the cavalier receives Catch Off-Guard as a bonus feat. As a swift action, he can cause an armed opponent to become flat-footed against any attacks he makes during that round with an improvised weapon. This ability can be used once per combat.
+
+*Terrain Training (Ex)*: At 8th level, the cavalier may select a terrain type from the ranger favored terrains table. As a standard action, he can shout orders that grant all allies within 60 feet a competence bonus equal to his Charisma modifier on initiative checks and Knowledge (geography), Perception, and Survival checks while they are in this terrain, for a number of rounds equal to 1/2 his cavalier level. At 12th level and every four levels thereafter, the cavalier may select a new terrain type this ability can affect.
+
+*Wild Charge (Ex)*: At 15th level, the cavalier and his mount can ignore difficult terrain for the purpose of making a charge attack. In addition, if the charge attack is successful and both he and his opponent occupy squares with difficult terrain, the cavalier gains a +2 competence bonus when using his mighty charge ability to make a bull rush, disarm, sunder, or trip combat maneuver.
+
+### Order of the Penitent
+
+Not all knights begin their careers as nobles' children or as squires. Some start out as thieves, murderers, or cheats, and only after they see the suffering caused by their crimes do they dedicate themselves to honorable service. Cavaliers who follow this order seek to make up for their past crimes and restore their tainted honor.
+
+**Edicts**: The cavalier must be merciful to wrongdoers and show unfettered fairness whenever he passes judgment. He must assume that only the most heinous monsters are irrevocably evil, and must deliver all foes capable of fair trial to the appropriate local law enforcers.
+
+**Challenge**: Whenever an order of the penitent cavalier issues a challenge, he receives a +1 morale bonus to his CMD against combat maneuvers made by the target of his challenge whenever he is threatening the target. This bonus increases by +1 for every four levels the cavalier possesses.
+
+**Skills**: An order of the penitent cavalier adds Escape Artist (Dex) and Sense Motive (Wis) to his list of class skills. Whenever he makes an Escape Artist check, he may add his Strength bonus to the check in addition to his Dexterity modifier.
+
+**Order Abilities**: A cavalier belonging to the order of the penitent gains the following abilities as he increases in level.
+
+*Expert Captor (Ex)*: At 2nd level, as long as he has rope, the cavalier can tie up a grappled opponent, even if the opponent is not pinned, otherwise restrained, or unconscious, and he does not take the usual –10 penalty on his combat maneuver check to do so. When determining the DC to escape bonds secured by the cavalier, his Combat Maneuver Bonus increases by 1/2 his cavalier level.
+
+*Adept Disarmer (Ex)*: At 8th level, the cavalier gains Improved Disarm as a bonus feat. In addition, whenever he makes a successful disarm check, as long as he has at least one hand free and the dropped item can be held in one hand, he can automatically pick up the dropped item in his free hand.
+
+*Saving Grace (Ex)*: At 15th level, whenever he would strike a creature with a melee attack that deals lethal damage and would bring the creature's hit points below 0, the cavalier can, as a free action, change the damage dealt to nonlethal damage. He can use this ability once per round.
+
+### Order of the Staff
+
+Cavaliers belonging to the order of the staff dedicate their lives to guarding and assisting spellcasters, especially wizards and druids, and to overcoming those who seek to destroy items and locations of magical import.
+
+**Edicts**: The cavalier cannot refuse a spellcaster's request for aid unless it will interfere with his existing duties, or he believes the spellcaster seeks to directly oppose the cavalier's aims and goals.
+
+**Challenge**: Whenever an order of the staff cavalier issues a challenge, his target takes a –1 penalty on saving throws against spells and spell-like abilities for 1 round after the cavalier successfully damages the target. This penalty increases by 1 for every four levels the cavalier possesses.
+
+**Skills**: An order of the staff cavalier adds Knowledge (arcana) (Int) and Knowledge (nature) (Int) to his list of class skills. He may use Knowledge (arcana) to identify spells being cast by arcane spellcasters as if using Spellcraft, and may do the same with Knowledge (nature) for divine spellcasters. If he readies an action to strike a creature when it casts a spell, and identifies the spell with the appropriate Knowledge check, he gains a +1 bonus on the attack roll.
+
+**Order Abilities**: A cavalier who belongs to the order of the staff gains the following abilities as he increases in level.
+
+*Spell Aid (Ex)*: At 2nd level, whenever the cavalier uses the aid another action to assist an ally, the ally receives a +2 competence bonus on the next concentration check, dispel check, or caster level check she makes (whichever comes first). At 8th level and every six levels thereafter, this bonus increases by +1.
+
+*Arcane Vessel (Ex)*: At 8th level, whenever the cavalier gains a bonus on attack rolls, saving throws, or damage rolls from a spell or spell-like ability cast by another creature, he also gains a number of temporary hit points equal to the level of the spell or spell-like ability. Temporary hit points from different spells stack, but only up to a maximum equal to the cavalier's level. They last 10 minutes.
+
+*Synchronized Smash (Ex)*: At 15th level, if the cavalier is adjacent to an enemy affected by a targeted or area spell or spell-like ability cast by one of the cavalier's allies, he can make an immediate attack of opportunity against the affected creature. If the cavalier is also affected by the spell (such as by being caught in the area of the same *fireball*), during the rest of that round he automatically confirms any critical hits made against the affected creature while using this ability.
+
 ## New Cavalier Archetype
 
 The following is a new cavalier archetype. Cavaliers of any order can take this archetype, though it's not suited for orders that bolster the power of mounted combat.
@@ -803,3 +857,13 @@ The war colleges of a lashunta city-state produce a distinctive breed of cavalie
 **Mindlink (Su)**: At 5th level, a mindlink outrider's innate telepathy develops into a mindlink, allowing contact between himself and his allies and companions. As long as the outrider is conscious, all allies within range of his limited telepathy racial ability (30 feet for most lashunta outriders) receive a +2 morale bonus on saving throws against charm and compulsion effects and a +1 morale bonus on attack rolls made while flanking. At 10th level and every 5 levels thereafter, these bonuses increase by 1. This ability replaces banner.
 
 **Mindlink Pulse (Su)**: At 14th level, a mindlink outrider can send a pulse of psychic energy through the minds of allies within range of his limited telepathy as a standard action. If he does so during a surprise round, any allies not normally able to act in the surprise round can act. If an ally would normally be denied the ability to act in the surprise round, that ally's initiative is equal to her initiative roll, or to the initiative of the outrider – 1, whichever is lower. Whether or not it is a surprise round, when the outrider uses this ability, allies within range are no longer flat-footed (assuming they were to begin with). This ability replaces greater banner.
+
+## Herald Squire
+
+*Squire archetype; may also be taken by other characters who qualify.* The herald squire is the eyes and ears of a traveling knight, often arriving ahead of her liege to bring word of his arrival, find lodgings, and get the lay of the land.
+
+**Introduction (Ex)**: At 1st level, whenever a herald squire tries to influence a creature's attitude with Diplomacy for the first time, she may roll her check twice and take the best result. In addition, any improvement of a creature's attitude toward the herald squire also applies to her knight. This ability replaces tactician.
+
+**Fleet of Foot (Ex)**: At 2nd level, a herald squire gains fast movement, as the barbarian class feature. If she gains fast movement from another class, the bonuses do not stack. Whenever she makes long overland journeys alone or with only her mount, the distance she can travel each day increases by 20%. This ability replaces the 2nd-level order ability.
+
+**Transcend Language (Sp)**: At 3rd level, three times per day, a herald squire can cast *tongues* on herself, using her herald squire level as her caster level. The effects last for a number of rounds equal to her herald squire level. This ability replaces cavalier's charge.

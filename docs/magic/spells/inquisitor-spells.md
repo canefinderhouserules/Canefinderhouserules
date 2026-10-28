@@ -8,6 +8,7 @@ New inquisitor spells from *Ultimate Magic*. Spells from other books will be add
 - **[Authenticating Gaze](authenticating-gaze.md)**: Gain insight on Appraise and Linguistics checks about written works.
 - **[Barbed Chains](barbed-chains.md)**: Hellish chains attack and cause a target to become shaken.
 - **[Batrachian Surge](batrachian-surge.md)**: gain gills, leaping, swimming, or a long tongue
+- **[Bed of Iron](bed-of-iron.md)**: Lets targets sleep comfortably in armor.
 - **[Bestow Planar Infusion I](bestow-planar-infusion-i.md)**: Grant a target the effects of a planar infusion
 - **[Blessing of the Watch](blessing-of-the-watch.md)**: *Bless* that works only in the caster’s home city.
 - **[Bowstaff](bowstaff.md)**: A shortbow may double as a club, or a longbow as a quarterstaff.
@@ -41,6 +42,7 @@ New inquisitor spells from *Ultimate Magic*. Spells from other books will be add
 - **[Instant Portrait](instant-portrait.md)**: Paint a quick monochrome portrait.
 - **[Interrogation](interrogation.md)**: Target answers questions or suffers pain.
 - **[Itching Curse](itching-curse.md)**: Itch gives –1 penalty unless scratched.
+- **[Keep Watch](keep-watch.md)**: Lets subjects keep watch all night yet gain a full rest.
 - **[Knot of Fate](knot-of-fate.md)**: Next attack against you takes –10; crits become normal hits.
 - **[Know the Enemy](know-the-enemy.md)**: Gain +10 on a monster Knowledge check.
 - **[Lend Judgment](lend-judgment.md)**: Ally gains the benefit of one judgment.
@@ -331,6 +333,7 @@ New inquisitor spells from *Ultimate Magic*. Spells from other books will be add
 - **[Thaumaturgic Circle](thaumaturgic-circle.md)**: As magic circle, but affecting a nonalignment subtype or outsider race.
 - **[Tough Crowd](tough-crowd.md)**: Allies resist the next enchantment or illusion and manipulation.
 - **[Transplant Visage](transplant-visage.md)**: Wear a stolen face for +10 on Disguise.
+- **[Ward Shield](ward-shield.md)**: Shield grants spell resistance against targeted spells.
 
 ## 5th-Level Inquisitor Spells
 

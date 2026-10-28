@@ -2567,6 +2567,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Spring-Heeled Style](spring-heeled-style.md) | Combat, Style | Dex 13, Dodge, Mobility, Shot on the Run or Spring Attack, base attack bonus +4, proficiency with light armor |
 | [Sprinting Troll](sprinting-troll.md) | — | Fleet, regeneration, troll |
 | [Squash Flat](squash-flat.md) | Combat | Improved Bull Rush, Merciless Rush, worshiper of a deity of destruction |
+| [Squire](squire.md) | — | Character level 4th, proficient with all martial weapons |
 | [Squirming Pile](squirming-pile.md) | Combat, Teamwork | Acrobatics 5 ranks, swarming racial trait |
 | [Stable Gallop](stable-gallop.md) | — | Animal or magical beast |
 | [Staggering Blow](staggering-blow.md) | Combat | Str 13, Power Attack, Vital Strike, base attack bonus +8 |

@@ -10,17 +10,20 @@ The magus class spell list appears on the [Magus](../../characters/classes/magus
 
 - **[Abjuring Step](abjuring-step.md)**: You can move slowly and safely and still cast spells, until you move quickly, make an attack, or cast a harmful spell.
 - **[Auditory Hallucination](auditory-hallucination.md)**: Create a phantasm with auditory effects.
+- **[Bed of Iron](bed-of-iron.md)**: Lets targets sleep comfortably in armor.
 - **[Bestow Planar Infusion I](bestow-planar-infusion-i.md)**: Grant a target the effects of a planar infusion
 - **[Blade Tutor's Spirit](blade-tutors-spirit.md)**: Reduces penalties on your melee attacks.
 - **[Blend](blend.md)**: You draw upon your elven link to the wilderness to change the coloration of yourself and your equipment to.
 - **[Call Weapon](call-weapon.md)**: Pull an ally’s weapon into your hand.
 - **[Celestial Healing](celestial-healing.md)**: Target gains fast healing 1.
+- **[Clarion Call](clarion-call.md)**: Creates a horn blast and a booming voice.
 - **[Coin Shot](coin-shot.md)**: Turns coins into bullets.
 - **[Corrosive Touch](corrosive-touch.md)**: Touch attack deals 1d4 acid/level.
 - **[Dancing Darkness](dancing-darkness.md)**: up to four spheres of moving darkness
 - **[Darting Duplicate](darting-duplicate.md)**: Illusory duplicate baits attacks of opportunity.
 - **[Desperate Weapon](desperate-weapon.md)**: Create an improvised weapon.
 - **[Duelist’s Parry](duelists-parry.md)**: Parry a melee attack as an immediate action.
+- **[Emblazon Crest](emblazon-crest.md)**: Displays a crest on worn tabards and shields.
 - **[Enlarge Tail](enlarge-tail.md)**: Your tail gains reach and a bonus to attack and damage.
 - **[Fallback Strategy](fallback-strategy.md)**: Reroll one attack, maneuver, or skill check.
 - **[Frostbite](frostbite.md)**: Target takes cold damage and is fatigued.
@@ -30,6 +33,7 @@ The magus class spell list appears on the [Magus](../../characters/classes/magus
 - **[Illusion of Calm](illusion-of-calm.md)**: You appear to be standing still, even when you take some actions.
 - **[Ironbeard](ironbeard.md)**: School transmutation; Level antipaladin 1, cleric 1, magus 1, paladin 1, ranger 1 Casting Time 1 standard.
 - **[Jury-Rig](jury-rig.md)**: Removes the broken condition from the targeted object.
+- **[Keep Watch](keep-watch.md)**: Lets subjects keep watch all night yet gain a full rest.
 - **[Lighten Object](lighten-object.md)**: Halve an object’s weight.
 - **[Linebreaker](linebreaker.md)**: You gain a +20 foot bonus to your base speed when charging and a +2 bonus on combat maneuver checks made to.
 - **[Lock Gaze](lock-gaze.md)**: Compels the target to look only at you for the duration of the spell.
@@ -47,6 +51,7 @@ The magus class spell list appears on the [Magus](../../characters/classes/magus
 - **[Shock Shield](shock-shield.md)**: A shield of force protects you until you dismiss it in an explosion of electricity.
 - **[Skim](skim.md)**: read in a quarter of the time
 - **[Snowball](snowball.md)**: Throw a conjured ball of snow at a target.
+- **[Swift Girding](swift-girding.md)**: Instantly clads willing targets in chosen armor.
 - **[Tamer’s Lash](tamers-lash.md)**: Create a whip made of sound that damages foes and can frighten animals.
 - **[Thunder Arrow](thunder-arrow.md)**: Electric arrow that attacks or signals.
 - **[Touch of Combustion](touch-of-combustion.md)**: Your successful melee touch attack causes the target to ignite in a violent burst of flame, dealing 1d6.
@@ -66,6 +71,7 @@ The magus class spell list appears on the [Magus](../../characters/classes/magus
 - **[Animal Aspect](animal-aspect.md)**: You gain some of the beneficial qualities of an animal.
 - **[Anticipate Thoughts](anticipate-thoughts.md)**: Gain increasing bonuses to AC and on attack rolls and damage rolls against one creature.
 - **[Arcane Disruption](arcane-disruption.md)**: Subject must make concentration checks to use arcane magic.
+- **[Armor Lock](armor-lock.md)**: Stiffens armor joints, staggering or entangling the target.
 - **[Assumed Likeness](assumed-likeness.md)**: You appear as someone each target feels strongly about.
 - **[Bestow Weapon Proficiency](bestow-weapon-proficiency.md)**: Grants a creature proficiency in a single weapon for short period of time.
 - **[Bladed Dash](bladed-dash.md)**: Dash 30 feet and attack one foe along the way.
@@ -231,6 +237,7 @@ The magus class spell list appears on the [Magus](../../characters/classes/magus
 - **[Temporary Graft](temporary-graft.md)**: Graft a body part onto yourself to gain one of several benefits.
 - **[Vermin Shape I](vermin-shape-i.md)**: Take the form and some of the powers of a Small or Medium vermin.
 - **[Wall of Sound](wall-of-sound.md)**: Sonic wall deflects and damages creatures.
+- **[Ward Shield](ward-shield.md)**: Shield grants spell resistance against targeted spells.
 - **[Wing Thorns](wing-thorns.md)**: Wings sprout poisonous thorns you can attack with.
 - **[Wreath of Blades](wreath-of-blades.md)**
 

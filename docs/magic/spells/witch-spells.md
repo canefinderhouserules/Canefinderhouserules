@@ -149,6 +149,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Brittle Portal](brittle-portal.md)**: Reduce the hardness of a surface.
 - **[Burdened Thoughts](burdened-thoughts.md)**: Target is encumbered and cannot fly.
 - **[Callback](callback.md)**: Teleport a familiar or spirit animal to your side when it is injured.
+- **[Carry Companion](carry-companion.md)**: Turns a willing animal into a stone figurine.
 - **[Commune with Birds](commune-with-birds.md)**: You utter a question in the form of a low-pitched bird call that can be heard up to a mile away, and can.
 - **[Compel Tongue](compel-tongue.md)**: Target can speak and write only in one imparted language.
 - **[Compulsive Liar](compulsive-liar.md)**: Prevent target from speaking the truth.
@@ -285,6 +286,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Anthropomorphic Animal](anthropomorphic-animal.md)**: Animal becomes bipedal.
 - **[Appearance of Life](appearance-of-life.md)**: Undead appear to be alive.
 - **[Apport Animal](apport-animal.md)**: Send or receive a Tiny or smaller animal via teleportation.
+- **[Armor Lock](armor-lock.md)**: Stiffens armor joints, staggering or entangling the target.
 - **[Ash Storm](ash-storm.md)**: Hamper vision and movement.
 - **[Assume Appearance](assume-appearance.md)**: Use a creature’s corpse to adopt its form.
 - **[Aura of Cannibalism](aura-of-cannibalism.md)**: Drain life from creatures of your own kind

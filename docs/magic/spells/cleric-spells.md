@@ -36,6 +36,7 @@
 - **[Carrion Compass](carrion-compass.md)**: Organ leads you to an undead creature's controller
 - **[Cause Fear](cause-fear.md)**: One creature of 5 HD or less flees for 1d4 rounds.
 - **[Celestial Healing](celestial-healing.md)**: Target gains fast healing 1.
+- **[Clarion Call](clarion-call.md)**: Creates a horn blast and a booming voice.
 - **[Cloak of Secrets](cloak-of-secrets.md)**: Bubble disguises speech and spell components.
 - **[Command](command.md)**: One subject obeys selected command for 1 round.
 - **[Compel Hostility](compel-hostility.md)**: Compels opponents to attack you instead of your allies.
@@ -541,6 +542,7 @@
 - **[Unholy Ward](unholy-ward.md)**: Resist 10 damage from holy sources.
 - **[Wall of Bone](wall-of-bone.md)**: A wall of grasping skeletal hands.
 - **[Ward of the Season](ward-of-the-season.md)**: This spell harnesses the power of the seasons to protect the target and grant a number of bonuses.
+- **[Ward Shield](ward-shield.md)**: Shield grants spell resistance against targeted spells.
 - **[Warp Metal](warp-metal.md)**: Permanently warps metal objects.
 - **[Wrathful Weapon](wrathful-weapon.md)**: Weapon gains anarchic, axiomatic, holy, or unholy.
 

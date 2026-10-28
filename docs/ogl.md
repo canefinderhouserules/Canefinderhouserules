@@ -247,3 +247,5 @@ The following text is the property of Wizards of the Coast, Inc. and is Copyrigh
     Pathfinder Player Companion: People of the North © 2012, Paizo Publishing, LLC; Authors: Matthew Goodall, Shaun Hocking, Rob McCreary, Philip Minchin, and William Thrasher.
 
     Pathfinder Player Companion: Pirates of the Inner Sea © 2012, Paizo Publishing, LLC; Author: Amber E. Scott.
+
+    Pathfinder Player Companion: Knights of the Inner Sea © 2012, Paizo Publishing, LLC; Authors: Gareth Hanrahan, Steve Kenson, Patrick Renie, Tork Shaw, and Jerome Virnich.

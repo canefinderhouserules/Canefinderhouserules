@@ -332,6 +332,52 @@ These traits may only be taken by worshipers of a deity of piracy and the sea.
 
 **Expert Boarder** *(pirate deity)*: While fighting on the deck of a ship, you gain a +1 trait bonus on all attack rolls made with one-handed weapons.
 
+## Knightly Traits
+
+**Absolute Loyalty** *(family of loyal soldier-engineers)*: You gain the one-time ability to immediately cast *atonement* upon yourself as a spell-like ability upon performing an act or being subjected to an effect that spell affects. This ability can only be used while you are acting in the service of your liege (an individual of higher social standing chosen when you take this trait).
+
+**Dueling Cloak Adept** *(family of dueling-sword knights)*: You are trained in using your cloak to disguise your body and deceive your enemies. While wearing a cloak and using a rapier or other dueling blade, you gain a +2 trait bonus on Bluff checks made to feint. Additionally, every time you successfully feint while wearing a cloak, you gain a +1 dodge bonus to your Armor Class until your next turn.
+
+**Inspiring Rush** *(family of mounted knights)*: Your charge inspires nearby companions to new heights of daring. Once per day when you make a charge attack, you gain a +1 trait bonus on both your attack and damage rolls, as do any allies who make a charge attack before the beginning of your next turn.
+
+**Steel Skin** *(family of heavy-armor monster hunters)*: You gain the ability to don or remove heavy armor in half the normal time. Additionally, you begin play with a great helm bearing the iconography of your family (this helm grants no special defensive benefits). While wearing this helm with a suit of heavy armor, you gain a +2 trait bonus on Intimidate checks.
+
+**Confidante to the Oppressed** *(freedom-fighting knightly order)*: Others recognize that you are filled with a spirit of liberty and equality. You gain a +2 trait bonus on Diplomacy checks to improve the attitude of oppressed, enslaved, or imprisoned subjects, and unless they have reason to distrust you, their starting attitude toward you is at least indifferent, if not better.
+
+**Eye of the Falcon** *(freedom-fighting knightly order)*: You have a way of seeing right to the heart of things. You gain a +1 trait bonus on saving throws against illusion (phantasm) spells and a +1 trait bonus on Sense Motive checks to know when you are being lied to, so long as you are face to face with the speaker in question.
+
+**Cold Heart** *(infernal knightly order)*: You gain a +2 trait bonus on saving throws against spells and effects with the emotion descriptor.
+
+**Iron Mind** *(infernal knightly order)*: You gain a +2 trait bonus on saving throws against spells and effects that would reduce your Intelligence score or cause you to forget something.
+
+**Orc Impaler** *(border-fortress knights)*: You gain a +2 trait bonus on rolls to confirm critical hits made as part of a charge. This bonus increases to +3 if the critical hit is made against a creature with the orc subtype.
+
+**Demon Eradicator** *(crusaders against a demonic wound)*: Anytime an outsider with the demon subtype must make a Will save against one of your spells, increase the DC of that save by +1.
+
+**Gallant Impostor** *(crusaders against a demonic wound)*: You gain a +1 trait bonus on Knowledge (nobility) and Knowledge (religion) checks. In addition, you gain a +2 trait bonus on Disguise and Bluff checks while attempting to impersonate a knight.
+
+**Searing Beacon** *(worshiper of a deity of valor and justice)*: You deal additional precision damage equal to your Wisdom modifier when you score a critical hit with a melee weapon against an undead opponent.
+
+## Mount Traits
+
+These traits are granted by a specific breed of mount. A mount trait counts against a character's total maximum number of traits. If a knight replaces his mount, he effectively loses the old mount's trait and gains the new mount's trait.
+
+**Black as Night** *(fell pony; statistics as a pony)*: While astride a fell pony, you gain a +1 trait bonus on attack rolls against enemies you are flanking.
+
+**Burst of Speed** *(charger; statistics as a horse)*: Three times per day, while riding a charger and making a charge attack, you can increase your mount's speed by 15 feet as a free action.
+
+**Cunning Breed** *(jennet; statistics as a horse)*: A jennet can learn a total of eight tricks when trained using the Handle Animal skill (as opposed to the standard six for having an Intelligence score of 2).
+
+**Fleet of Foot** *(hill courser; statistics as a horse)*: While riding a hill courser, you treat your mount's base speed as 10 feet faster for the purpose of using the run or withdraw actions.
+
+**Relentless Fortitude** *(dromedary; statistics as a camel)*: A dromedary heals nonlethal damage at a rate of 2 hit points per hour per Hit Die. This trait does not stack with other effects that increase a creature's rate of healing nonlethal damage.
+
+**Stalwart Elk** *(riding elk; statistics as a river elk)*: While riding a riding elk, you gain a +4 trait bonus on Handle Animal, Ride, and wild empathy checks to resist another creature's unnatural aura.
+
+**Water-Trained** *(swimming horse; statistics as a horse)*: These horses gain a +2 trait bonus on Swim checks, and Swim is a class skill for them.
+
+**Weather-Beaten** *(husky; statistics as a riding dog)*: A riding husky gains a +4 trait bonus on Fortitude saves to avoid nonlethal damage from cold environments, and only takes a –2 penalty on Perception checks made in inclement weather such as rain or snow (instead of the usual –4 penalty).
+
 ## Brewing and Poisoning Traits
 
 Potions and poisons are common everywhere, but in some regions they are more common or have more of an effect than in others. The following regional traits represent characters who grew up in places where potions and poisons were part of daily life.
