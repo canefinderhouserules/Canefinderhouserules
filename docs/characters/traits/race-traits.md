@@ -48,6 +48,8 @@ Only elfs may select one of these traits.
 
 **Youthful Mischief**: Though you gave up the life of a scout or minstrel decades before, you still know how to roll with the punches when things turn sour. You gain a +1 trait bonus on Reflex saves.
 
+**Cosmopolitan Intellectual**: Having grown up in one of the intellectual centers of a far-off elven world, you speak precisely and persuasively, especially among elves. You gain a +1 trait bonus on Diplomacy checks. This bonus increases to +3 against creatures with the elf subtype.
+
 ## Gnome Traits
 
 Only gnomes may select one of these traits.
@@ -351,6 +353,38 @@ Only orcs and half-orcs may select these traits.
 **Mother's Rage** (goddess of monsters): The blood of the beast runs thick in your veins, and your appearance is bestial. You receive a +1 trait bonus on Survival checks, and you treat your caster level as +1 higher when summoning creatures.
 
 **Sacred Smasher** (god of destruction): Your love of carnage extends even to the defenseless, inanimate objects around you. Whenever you make an attempt to break an object, you receive a +2 trait bonus on your Strength check.
+
+## Android Traits
+
+Only androids may select these traits.
+
+**Cellular Match**: Whenever you are affected by a polymorph spell or effect, your nanites adjust completely at a molecular level. For the duration of the polymorph effect, you are treated as only a humanoid for the purpose of effects that target creatures by type. For example, a ranger's favored enemy bonus against constructs wouldn't apply to you while you are polymorphed, but nor would spells such as *make whole*. This trait modifies part of the android's constructed racial trait, but otherwise that trait is unchanged (a polymorphed android still can't gain morale bonuses, is still immune to fear, and so on).
+
+**Nanite Revival**: You can instinctively activate your nanites to save your life. Once per day as an immediate action, you can command your nanites to stabilize you while you are dying, even while unconscious or helpless. This does not count as a use of your nanite surge ability.
+
+## Kasatha Traits
+
+Only kasathas may select these traits.
+
+**Adroit**: If one of your hands is free and your base attack bonus is +1 or higher, you can draw a weapon as a free action combined with any move action (including move actions to direct spells, manipulate items, stand up, and so on).
+
+**Spidery Climber**: More hands means more handholds. You gain a +1 trait bonus on Climb checks. In addition, as long as you have two hands free, the DC to catch yourself on a wall while falling is equal to the wall's DC + 10, and the DC to catch yourself on a slope is equal to the slope's DC + 5.
+
+## Lashunta Traits
+
+Only lashunta may select these traits.
+
+**Skilled Telepath**: The range of your limited telepathy racial ability increases by 5 feet.
+
+**Tactile Telekinesis**: Once per day as a swift action, you can add a trait bonus equal to your Intelligence modifier on Strength checks and Strength-based skill checks you attempt before the beginning of your next turn.
+
+## Triaxian Traits
+
+Only Triaxians may select these traits.
+
+**Transitional**: As a Transitional Triaxian, you are attuned to the weather no matter what world you stand upon. Once per day when you attempt a Survival check to predict the weather, you can add a trait bonus equal to 3 + 1/2 your character level. In addition, you gain a +1 trait bonus on Fortitude saves against the effects of cold and hot weather.
+
+**Triaxian Dragonslayer**: You receive a +2 trait bonus on saving throws against the spells and spell-like abilities of dragons and a +1 trait bonus on caster level checks to overcome dragons' spell resistance.
 
 ## Ratfolk Traits
 

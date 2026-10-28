@@ -241,6 +241,7 @@ The magus class spell list appears on the [Magus](../../characters/classes/magus
 - **[Blood Boil](blood-boil.md)**: target's blood heats, causing fatigue, Constitution damage, and finally boiling damage
 - **[Conjure Deadfall](conjure-deadfall.md)**: Drop a spiked metal block on creatures below.
 - **[Corrosive Consumption](corrosive-consumption.md)**: Acidic patch damages an opponent.
+- **[Cosmic Ray](cosmic-ray.md)**: Ray of cosmic energy that damages and sickens.
 - **[Dimensional Blade](dimensional-blade.md)**: Your melee weapon makes touch attacks.
 - **[Ether Step](ether-step.md)**: Step briefly into the Ethereal Plane to avoid attacks and dangers
 - **[Furious Fire Barrage](furious-fire-barrage.md)**: Throw fireballs fueled by anger.

@@ -237,3 +237,5 @@ The following text is the property of Wizards of the Coast, Inc. and is Copyrigh
     Pathfinder Player Companion: Bastards of Golarion © 2014, Paizo Publishing, LLC; Authors: Judy Bauer, Neal Litherland, Ryan Macklin, and David N. Ross.
 
     Pathfinder Player Companion: People of the Wastes © 2017, Paizo Inc.; Authors: Logan Bonner, John Compton, Nathan King, Luis Loza, Christopher Wasko, and Linda Zayas-Palmer.
+
+    Pathfinder Player Companion: People of the Stars © 2014, Paizo Inc.; Authors: Ethan Day-Jones, Jim Groves, Jonathan H. Keith, Andrew Romine, David N. Ross, and James L. Sutter.

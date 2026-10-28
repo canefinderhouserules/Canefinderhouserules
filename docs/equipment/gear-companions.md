@@ -2309,3 +2309,82 @@ This sealed vial contains a highly potent indigo liquid and is an essential item
 **Price** 200 gp; **Weight** 10 lbs.
 
 Used by dwarven miners to excavate precious crystals from deep underground, this heavy ceramic canister is packed with inert fibers surrounding a large alchemically infused blackpowder charge with a fuse. Lighting the fuse is a move action; 1d3 rounds after the fuse is lit, the charge explodes, dealing 2d6 points of bludgeoning damage and 2d6 points of sonic damage in a 10-foot-radius burst (Reflex DC 15 half). Creatures in the area of effect are knocked prone and deafened (a successful saving throw negates being knocked prone and reduces the deafened condition to 1 round). Crafting a thunderclap charge requires a successful DC 25 Craft (alchemy) check.
+
+## Space Travel Gear
+
+### Anchoring Balloon
+
+**Price** 300 gp; **Weight** 25 lbs.
+
+An anchoring balloon is a single-use alchemical device designed to provide a standing platform on a gaseous planet. When a cord is pulled as a standard action, an alchemical reaction fills the balloon with hydrogen gas almost instantly. Twenty-foot-long ropes attach the balloon to a lightweight, collapsible 10-foot-square steel basket with 5-foot-high sides. The inflated balloon is a Gargantuan object. Although it moves with the wind horizontally, the basket maintains its initial altitude to within a few feet so long as its load is less than 2,000 pounds (divided by the planet's gravity multiplier). Beyond that weight limit, the balloon may sink or the basket may break (at the GM's discretion). The balloon remains inflated for 24 hours before its seals fail.
+
+### Compressed Air
+
+**Price** 50 gp; **Weight** 10 lbs. (5 lbs. for Small characters)
+
+Longer lasting than an air bladder, a jar of compressed air comes with a breathing apparatus that can be strapped over the mouth with a leather cord and provides enough air for a Medium character to breathe normally for 10 minutes (20 minutes for a Small character).
+
+### Leg Stabilizers (pair)
+
+**Price** 1,000 gp; **Weight** 2 lbs. (1 lb. for Small characters)
+
+These devices strap onto a character's legs in order to allow for easier movement in low- or high-gravity environments. A character wearing leg stabilizers can move and attempt Acrobatics checks in gravity between ×1 and ×3 as if in gravity ×1. A character wearing them in gravity stronger than ×1/3 but weaker than ×1 gains a +10-foot circumstance bonus to his land speed. This device has no effect on other actions. Attaching or removing leg stabilizers is a full-round action.
+
+### Rations, Space (per day)
+
+**Price** 1 gp; **Weight** 1/2 lb.
+
+Generally composed of meat, hard cheese, fruits and vegetables, nut and bean pastes, and vital herbs, space rations are dehydrated and then kept extremely dry in order to maximize preservation and storage efficiency. A single serving feeds a Medium character for 1 day, but unless an equal weight of water is added to the rations, the character eating them becomes fatigued until she drinks enough water.
+
+### Traveler's Pocket Watch
+
+**Price** 1,000 gp; **Weight** 1 lb.
+
+This bulky, key-wound, pocket-sized clock has three faces, each with its own hour hand. Each face can be wound and calibrated separately to account for up to three different time zones (for local use) or even different day lengths (for interstellar use). It is accurate to within half an hour per day and must be wound daily.
+
+## Astronomical Gear
+
+### Cosmogram
+
+**Price** 200 gp; **Weight** 1/2 lb.
+
+This eldritch chart describes part of the unfathomably vast shape of the physical universe and the subtler motions of the stars. A cosmogram grants a +1 circumstance bonus on Knowledge (geography) checks relating to stars and on Survival checks to navigate the void of space between star systems. A cosmogram can be consulted while using an orrery as a focus for *augury*. Doing so increases the chance of a successful reading by 2%.
+
+### Orrery
+
+**Price** 100–2,000 gp; **Weight** 2–12 lbs.
+
+This complex mechanism simulates the angles and relative distances between one or more bodies in a solar system in relation to the system's star with marks or spheres on moving gears or arms. Anyone consulting an orrery gains a +2 circumstance bonus on Knowledge (geography) checks involving bodies it models and on Survival checks to navigate the void of space. An orrery can be used in combination with a sextant on a clear night to determine the time on any of the stellar bodies it models. Any orrery can be used as a focus component for the *augury* spell in place of that spell's normal focus.
+
+Orreries come in many shapes and sizes and with a variety of functions in mind. A tellurion models a single planet and any moons it may have. A standard orrery tracks the inner planets of a system and their moons. A grand orrery tracks all the known planets of a system (including the outer planets) and their moons. A calculating orrery is an orrery that indicates with rotating numerals on each arm the current distance between each body and its star (or its planet, in the case of moons), increasing the circumstance bonus on relevant skill checks to +4.
+
+| Orrery | Weight | Price |
+|---|---|---|
+| Tellurion | 2 lbs. | 100 gp |
+| Calculating tellurion | 2 lbs. | 200 gp |
+| Standard | 5 lbs. | 750 gp |
+| Grand | 12 lbs. | 1,000 gp |
+| Calculating standard | 5 lbs. | 1,500 gp |
+| Calculating grand | 12 lbs. | 2,000 gp |
+
+### Telescope
+
+**Price** 2,000–8,000 gp; **Weight** 12–44 lbs.
+
+This basic, semi-portable telescope allows the user to see greater detail on very distant objects. Telescopes can be built to a variety of specifications, but those most often used by adventuring stargazers are listed here. A telescope grants the listed circumstance bonus on Perception checks to discern celestial bodies and on Knowledge (geography) checks to learn about the planets when used at night.
+
+A telescope can be used to look at either terrestrial or celestial objects. Distance penalties on Perception checks for viewing objects through the telescope are divided by the telescope's magnification. Assembling, disassembling, or significantly moving a telescope takes 1 minute.
+
+| Magnification | Bonus | Weight | Price |
+|---|---|---|---|
+| ×10 | +2 | 12 lbs. | 2,000 gp |
+| ×50 | +4 | 23 lbs. | 4,000 gp |
+| ×250 | +6 | 44 lbs. | 8,000 gp |
+
+## Alien Racial Weapons
+
+### Kasatha Spinal Sword
+
+**Price** 50 gp; **Dmg (S)** 1d4; **Dmg (M)** 1d6; **Critical** ×3; **Weight** 3 lbs.; **Type** piercing or slashing
+
+This light one-handed sword is covered in bony spines that make it easier to poison opponents. The save DC of a nonmagical injury poison applied to a kasatha spinal sword increases by 2. Kasathas treat kasatha spinal swords as martial weapons. It has the fragile weapon quality.

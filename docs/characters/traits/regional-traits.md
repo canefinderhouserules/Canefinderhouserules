@@ -106,6 +106,50 @@ The following traits suit characters who hail from, or have spent years survivin
 
 **Wasteland Vagrant** *(Social)*: You have spent most of your life learning how to survive in wastelands, and a lack of normal survival resources apparent in the environment is not a problem for you. When you gain this trait, pick one type of wasteland from the following list: blighted, Abyssal, desert, or waterlogged. You gain a +2 trait bonus on Survival checks in that type of wasteland terrain. (The GM determines whether terrain falls into the chosen type of wasteland.) Once you choose a type of wasteland terrain to gain this benefit in, you cannot change it later.
 
+## Celestial and Space Traits
+
+These traits suit characters with ties to other worlds, to the stars, or to the void between them.
+
+**Awakened from Stasis** *(Regional; vault of sleepers)*: Although you were born and lived on your home world, you recently awakened in a strange vault with no memory of how you got there, surrounded by sleeping creatures of every shape and size in smooth glass eggs, all watched over by uncommunicative crablike automatons. As a side effect of your stasis, you gain all the benefits of 8 hours of sleep in only 2 hours. This allows a spellcaster who must rest to prepare spells to do so after only 2 hours, but does not allow a spellcaster to prepare spells more than once per day.
+
+**Born under the Cradle Planet** *(Combat)*: Your birth sign aligned significantly with a world of many moons on the day you were born, granting you a knack for cooperation in the heat of battle. You gain a +2 trait bonus on attack rolls to perform the aid another action.
+
+**Born under the Dreaming Planet** *(Combat)*: Your birth sign aligned significantly with a ringed gas giant on the day you were born, and you are touched by the instinctual dreaming spirit of that planet, making you naturally poised and hard to surprise. Once per day as a free action, you can take 10 on your initiative check.
+
+**Born under the Green Planet** *(Regional; verdant psychic world)*: You were born on a lush, forested world and touched by the planet's profound psychic bounty. Treat your caster level as 1 higher when casting spells and spell-like abilities with the mind-affecting descriptor.
+
+**Born under the Stranger Planet** *(Combat)*: Your birth was marked by the alignment of a smog-shrouded alien world with your birth sign and by strange happenings, giving you a link to alien beings. When feinting against aberrations, you do not take a –4 penalty for feinting against a non-humanoid creature, and you take only a –4 penalty if you feint against an aberration of animal Intelligence (instead of –8). You still cannot feint against mindless creatures.
+
+**Deathworld Experiment** *(Regional; dead world)*: You were raised on a dead world, where you were overseen by alien forces and subjected to horrifying experimentation. You gain a +1 trait bonus on saving throws against pain effects and the spell-like abilities of undead.
+
+**Frozen Hollow Resilience** *(Regional; airless metal world)*: You spent at least part of your youth in a settlement of frozen craters and are acclimated to the frigid cold of your world. You gain a +4 trait bonus on saves to avoid nonlethal damage from cold environments. In addition, you begin play with a cold-weather outfit at no cost.
+
+**Lunar Birth** *(Magic)*: Born during a lunar eclipse, you were forever marked by the moon's mysterious and ancient magic. You gain a +1 trait bonus on saving throws against the spells and spell-like abilities cast by humans.
+
+**Offspring of the Ascension** *(Regional; ancient desert kingdom)*: You are descended from one of an ancient kingdom's god-kings, and a sliver of their otherworldly power has been passed onto you. You gain a +1 trait bonus on Will saves against fear effects. Any time you become confused, reduce the duration of the effect by a number of rounds equal to your Wisdom modifier (to a minimum of 1 round of confusion).
+
+**Outer Dragon Blood** *(Magic)*: The blood of outer dragons courses through your veins, and you've inherited a portion of their magic. You gain Draconic as a bonus language. In addition, if you are a sorcerer with the draconic bloodline, you can select one of the outer dragon types for your bloodline powers; this affects your resistances and the type of energy damage dealt by a number of your abilities.
+
+| Dragon Type | Energy Type | Breath Shape |
+|---|---|---|
+| Lunar | Cold | 60-foot line |
+| Solar | Fire | 60-foot line |
+| Time | Electricity | 30-foot cone |
+| Void | Cold | 30-foot cone |
+| Vortex | Fire | 30-foot cone |
+
+**Red World Ferocity** *(Regional; desert warrior world)*: You were raised on a world where you were hardened against the ravages of battle. Once per day, the first time you are brought below 0 hit points but not killed, you can fight on for 1 more round as if disabled. At the end of your next turn, unless brought to above 0 hit points, you immediately fall unconscious and begin dying.
+
+**Scarred by Space Pirates** *(Combat)*: You were attacked by aethership pirates in your youth, inspiring you to find ways to deal with the alien interlopers should they return. You gain a +1 trait bonus on attack rolls against humanoids from beyond your own world, including androids, kasathas, and Triaxians, among others.
+
+**Seasonal Tradition** *(Regional; world of centuries-long seasons)*: Your experience with one of the long seasons of your world has taught you much about the dangers of a long summer or winter. Choose disease or cold. You gain a +2 trait bonus on saves against spells and spell-like abilities with the chosen descriptor. If you choose disease, you gain the bonus on Fortitude saves against nonmagical diseases as well.
+
+**Skymetal Affinity** *(Regional; crater lands)*: You gain a +2 trait bonus on Fortitude saves against the negative effects of skymetals, as well as a +2 trait bonus on Craft checks made to create weapons or armor out of skymetals.
+
+**Sun-Blessed** *(Magic)*: Your birth came at a time when the sun was auspiciously aligned with your birth sign. As a result, you have a natural affinity for light and life. Whenever you're affected by a healing effect that would heal more hit points than your maximum hit point total, you gain the excess healing as temporary hit points. You can gain up to a number of temporary hit points per day equal to your character level in this way. These temporary hit points last for 1 minute.
+
+**Void Child** *(Regional; asteroid belt)*: You were raised in an asteroid belt and are accustomed to being isolated from most other life in the vast void of space. You gain a +1 trait bonus on saves against fear; this bonus increases to +2 whenever you are 30 feet or farther from your nearest ally.
+
 ## Brewing and Poisoning Traits
 
 Potions and poisons are common everywhere, but in some regions they are more common or have more of an effect than in others. The following regional traits represent characters who grew up in places where potions and poisons were part of daily life.

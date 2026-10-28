@@ -35,6 +35,7 @@ New alchemist spells from *Ultimate Magic* and *Ultimate Combat*. Spells from ot
 - **[Skim](skim.md)**: read in a quarter of the time
 - **[Skin Tag](skin-tag.md)**: Haunted food that lets you torment its eater from afar.
 - **[Spirit Share](spirit-share.md)**: Deliver a drink or potion by touch
+- **[Starsight](starsight.md)**: See the night sky clearly and gain stargazing bonuses.
 - **[Targeted Bomb Admixture](targeted-bomb-admixture.md)**: Empowers bombs you throw to deal more damage to a single creature.
 - **[Tears to Wine](tears-to-wine.md)**: Turn liquids into wine that sharpens the mind.
 - **[True Skill](true-skill.md)**: Gain an insight bonus on your next check with a chosen skill.
@@ -219,6 +220,7 @@ New alchemist spells from *Ultimate Magic* and *Ultimate Combat*. Spells from ot
 - **[Monstrous Physique III](monstrous-physique-iii.md)**: Take the form and some of the powers of a Diminutive or Huge monstrous humanoid.
 - **[Naga Shape II](naga-shape-ii.md)**: assume a naga form with more abilities
 - **[Ooze Form I](ooze-form-i.md)**: Assume the form of a Small or Medium ooze creature.
+- **[Planetary Adaptation](planetary-adaptation.md)**: As planar adaptation, for worlds and the void.
 - **[Shapechanger’s Gift](shapechangers-gift.md)**: Temporarily change a target into an animal, humanoid, or monstrous humanoid.
 - **[Stoneskin, Communal](stoneskin-communal.md)**
 - **[Swallow Poison](swallow-poison.md)**: Protect yourself from ingested poison, then spit it out in a cone.

@@ -125,6 +125,7 @@
 - **[Sow Thought](sow-thought.md)**: School enchantment (compulsion) [mind-affecting]; Level bard 1, sorcerer/wizard 1, witch 1 Casting Time 1.
 - **[Speak Local Language](speak-local-language.md)**: Speak and understand one known regional human language.
 - **[Spirit Share](spirit-share.md)**: Deliver a drink or potion by touch
+- **[Starsight](starsight.md)**: See the night sky clearly and gain stargazing bonuses.
 - **[Summon Monster I](summon-monster-i.md)**: Summons extraplanar creature to fight for you.
 - **[Suspend Drowning](suspend-drowning.md)**: temporarily stop drowning
 - **[Tamer’s Lash](tamers-lash.md)**: Create a whip made of sound that damages foes and can frighten animals.
@@ -259,6 +260,7 @@
 - **[Peerless Integrity](peerless-integrity.md)**: Creatures appear lawful good to alignment divinations.
 - **[Perfect Placement](perfect-placement.md)**: Allies gain +1 insight to AC and Reflex saves.
 - **[Pilfering Hand](pilfering-hand.md)**: You may seize an object or manipulate it from afar.
+- **[Planetarium](planetarium.md)**: Project the night sky.
 - **[Psychic Reading](psychic-reading.md)**: Read surface thoughts to learn information about a subject.
 - **[Pugwampi’s Grace](pugwampis-grace.md)**: Target rolls 2d20 and takes the lower result.
 - **[Pyrotechnics](pyrotechnics.md)**: Turns fire into blinding light or choking smoke.

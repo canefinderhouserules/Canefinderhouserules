@@ -22,10 +22,11 @@ Three additional plant and fey races are available, each with its own archetypes
 
 ## Advanced Race Guide Featured Races
 
-Sixteen further races, each with alternate racial traits, favored class options, archetypes, equipment, feats, spells and magic items:
+Twenty further races, each with alternate racial traits, favored class options, archetypes, equipment, feats, spells and magic items:
 
 - [Aasimars](aasimars.md)
 - [Aasimar Heritages](aasimar-heritages.md): six outsider bloodlines that replace the default aasimar traits, plus a d% table of variant abilities.
+- [Androids](androids.md)
 - [Catfolk](catfolk.md)
 - [Dhampirs](dhampirs.md)
 - [Drow](drow.md)
@@ -33,7 +34,9 @@ Sixteen further races, each with alternate racial traits, favored class options,
 - [Goblins](goblins.md)
 - [Hobgoblins](hobgoblins.md)
 - [Ifrits](ifrits.md)
+- [Kasathas](kasathas.md)
 - [Kobolds](kobolds.md)
+- [Lashuntas](lashuntas.md)
 - [Orcs](orcs.md)
 - [Oreads](oreads.md)
 - [Ratfolk](ratfolk.md)
@@ -41,6 +44,7 @@ Sixteen further races, each with alternate racial traits, favored class options,
 - [Tengus](tengus.md)
 - [Tieflings](tieflings.md)
 - [Tiefling Heritages](tiefling-heritages.md): ten fiendish bloodlines that replace the default tiefling traits, plus a d% table of variant abilities.
+- [Triaxians](triaxians.md)
 - [Undines](undines.md)
 
 ## Advanced Race Guide Uncommon Races

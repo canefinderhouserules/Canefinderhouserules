@@ -165,6 +165,7 @@
 - **[Sow Thought](sow-thought.md)**: School enchantment (compulsion) [mind-affecting]; Level bard 1, sorcerer/wizard 1, witch 1 Casting Time 1.
 - **[Speak Local Language](speak-local-language.md)**: Speak and understand one known regional human language.
 - **[Spirit Share](spirit-share.md)**: Deliver a drink or potion by touch
+- **[Starsight](starsight.md)**: See the night sky clearly and gain stargazing bonuses.
 - **[Stone Shield](stone-shield.md)**: A 1-inch-thick slab of stone springs up from the ground, interposing itself between you and an opponent of.
 - **[Strong Wings](strong-wings.md)**: School transmutation; Level druid 1, ranger 1, sorcerer/wizard 1, witch 1 Casting Time 1 standard action.
 - **[Summon Monster I](summon-monster-i.md)**: Summons extraplanar creature to fight for you.
@@ -352,6 +353,7 @@
 - **[Passing Fancy](passing-fancy.md)**: Target becomes obsessed with a topic you choose.
 - **[Peerless Integrity](peerless-integrity.md)**: Creatures appear lawful good to alignment divinations.
 - **[Pilfering Hand](pilfering-hand.md)**: You may seize an object or manipulate it from afar.
+- **[Planetarium](planetarium.md)**: Project the night sky.
 - **[Pouncing Fury](pouncing-fury.md)**: Make a full attack with your claws after a charge.
 - **[Protection from Arrows](protection-from-arrows.md)**: Subject gains DR 10/magic against ranged attacks.
 - **[Protection from Chaos, Communal](protection-from-chaos-communal.md)**: As protection from chaos, but you may divide the duration among creatures touched.
@@ -1003,6 +1005,7 @@
 - **[Gift of the Deep](gift-of-the-deep.md)**: Grant sahuagin mutant features
 - **[Glimpse of Truth](glimpse-of-truth.md)**: Gain *true seeing* for 1 round.
 - **[Grand Destiny](grand-destiny.md)**: Target gains a +4 bonus on two chosen rolls.
+- **[Gravity Sphere](gravity-sphere.md)**: Alter gravity in a 30-ft. sphere.
 - **[Gravity Well](gravity-well.md)**: Target is crushed by heavy gravity.
 - **[Grease, Greater](grease-greater.md)**: As grease, but covers much more.
 - **[Guardian Monument, Greater](guardian-monument-greater.md)**: Humans defending the area gain DR 4/magic.
@@ -1035,8 +1038,10 @@
 - **[Peacebond, Greater](peacebond-greater.md)**: As *peacebond*, but on multiple weapons, even if they aren’t sheathed.
 - **[Pessimism](pessimism.md)**: Force a creature to see the negative side of things.
 - **[Planar Binding, Lesser](planar-binding-lesser.md)**: Traps extraplanar creature of 6 HD or less until it performs a task.
+- **[Planetary Adaptation](planetary-adaptation.md)**: As planar adaptation, for worlds and the void.
 - **[Possession](possession.md)**: Project your soul into a creature’s body.
 - **[Possession Trap](possession-trap.md)**: Trap would-be possessors in a gem
+- **[Reboot](reboot.md)**: Briefly reactivate a destroyed construct.
 - **[Red Hand of the Killer](red-hand-of-the-killer.md)**: Stain the hand of a creature’s killer red.
 - **[Release the Hounds](release-the-hounds.md)**: Summons a swarm-like pack of canines.
 - **[Roaming Pit](roaming-pit.md)**: A *create pit* that can move.
@@ -1154,6 +1159,7 @@
 - **[Chains of Fire](chains-of-fire.md)**: This spell functions like chain lightning, except as noted above, and the spell deals fire damage instead of.
 - **[Chains of Light](chains-of-light.md)**: Hold a creature in chains of light and block extradimensional travel.
 - **[Claim Identity, Greater](claim-identity-greater.md)**: As claim identity, but the target becomes a mask others can wear.
+- **[Cosmic Ray](cosmic-ray.md)**: Ray of cosmic energy that damages and sickens.
 - **[Cruel Jaunt](cruel-jaunt.md)**: Sense creatures suffering from fear, then teleport close to them.
 - **[Curse Terrain, Greater](curse-terrain-greater.md)**: Curse an area with six dangerous hazards.
 - **[Death Knell Aura, Greater](death-knell-aura-greater.md)**: Death knell aura that also hurts spirits
@@ -1320,6 +1326,7 @@
 - **[Particulate Form](particulate-form.md)**: Targets gain fast healing and immunity to critical hits.
 - **[Permanent Hallucination](permanent-hallucination.md)**: As *scripted hallucination*, but permanent.
 - **[Plague Bearer](plague-bearer.md)**: Target spreads contagion to adjacent creatures.
+- **[Planetary Adaptation, Mass](planetary-adaptation-mass.md)**: As planetary adaptation, on many creatures.
 - **[Plundered Power](plundered-power.md)**: Kill a creature and steal its strongest spell-like ability.
 - **[Pox of Rumors](pox-of-rumors.md)**: Curse a creature to attract nasty rumors.
 - **[Recorporeal Incarnation](recorporeal-incarnation.md)**: Wear a corpse’s flesh to gain its appearance.

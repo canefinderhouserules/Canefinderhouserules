@@ -5282,3 +5282,83 @@ This lacquered wooden tube is designed to protect a wand during transportation. 
 This 4-inch wooden wheel is small enough to fit into a pocket or a pouch. By rolling the wheel on the ground (this requires a standard action to activate the item), the wheel begins rolling toward the nearest body of clean, potable water with enough liquid for the wielder to quench her thirst. Alternatively, the wheel rolls toward the nearest normal magic area if the wielder is in an area of primal magic, a magic dead zone, or another variant type of magic. (If necessary, the wielder must specify whether the wheel should seek water or normal magic when she activates the item.) The wheel can roll for up to 10 minutes per day until it leaves the region of variant magic, it reaches the body of water, or the wielder instructs it to stop (a free action). This item's duration need not be used all at once, but it must be used in 1-minute intervals. As part of its movement, the wheel can ascend or jump up to 30 feet. A wheel of survival is unaffected by variant magic regions.
 
 **Construction Requirements:** Craft Wondrous Item, *detect magic*; **Cost** 900 gp
+
+## Astronomy and Space Items
+
+### Astrologer's Telescope
+
+**Slot** none; **CL** 11th; **Price** 54,000 gp; **Weight** 30 lbs.
+
+**Aura** moderate divination
+
+This telescope has over a dozen lenses and measurement devices attached to it. An *astrologer's telescope* functions as a telescope with ×50 magnification.
+
+A skilled astronomer can use an *astrologer's telescope* to glean insights into the future by carefully manipulating the various lenses and other apparatuses attached to the telescope while gazing at the stars. When doing so, the user selects a Knowledge skill and attempts a DC 20 Knowledge (geography) check over the course of 1 hour while stargazing with the telescope. If she doesn't possess ranks in Knowledge (geography), she can attempt a Perception check instead, albeit at a –5 penalty. If the viewing is successful, the user records that check result. Anytime during the next 24 hours that the user would roll the selected Knowledge check, she can use the result of the earlier check as the result of her Knowledge check instead of rolling as normal. If the user is untrained in the selected Knowledge skill, she can use her Knowledge (geography) check result as the Knowledge check's result only if the DC is 20 or lower. If she doesn't use this benefit within 24 hours after the viewing, it is lost. The user can increase the amount of time she has to attempt the Knowledge check by adjusting the telescope's various apparatuses and taking a cumulative –5 penalty on her Knowledge (geography) or Perception check for every additional 24 hours she wishes to retain her insight. On a failed check to use the telescope, the user gains no useful insight into the future. Unskilled viewers can attempt only one Perception check per night; a viewer with ranks in Knowledge (geography) can attempt to use the telescope one additional time per night for every 2 ranks she has in Knowledge (geography). Each additional viewing attempt requires the user to spend 1 hour gazing through the telescope. A character can benefit from only one viewing at a time; a second viewing removes the previous benefit, regardless of whether the new attempt succeeds or fails.
+
+**Construction Requirements:** Craft Wondrous Item, *divination*, creator has at least 10 ranks in Knowledge (geography); **Cost** 27,000 gp
+
+### Harvesting Lens
+
+**Slot** none; **CL** 3rd; **Price** 5,400 gp; **Weight** 1 lb.
+
+**Aura** faint evocation
+
+This thick, intricate lens piece is covered in alchemical wiring. A small aperture on the side of the lens connects to a mundane glass vial, such as a vial used for potions. When slid onto the viewing end of a telescope, a *harvesting lens* allows the telescope's user to harness the power of starlight or the void as she chooses.
+
+When a vial is fitted to the lens and the telescope is aimed at a distant star in the night sky, the vial slowly fills with collected starlight. After 8 hours, the vial is filled with silvery liquid cosmic light. Once filled and removed, the vial of starlight sheds light for 8 hours, as if it were affected by *light*. During this time, the vial can be thrown as a splash weapon with a range increment of 10 feet. On a direct hit, the vial shatters in a blinding flash of light, affecting the target as a *blinding ray* (Fortitude DC 13 negates). If the vial misses, it breaks with no effect. Either way, a new empty vial must be attached to the *harvesting lens* to use it again.
+
+Alternatively, a *harvesting lens* attached to a telescope can be pointed toward an empty, dark space between the stars. After 8 hours, the vial becomes full of thick, inky dark matter. For 8 hours after the vial of dark matter is filled and removed, an inky black haze surrounds any creature holding it, as the *protective penumbra* spell. A vial of dark matter can also be thrown as a splash weapon with a range increment of 10 feet. Upon striking any solid body or surface, the vial breaks and releases a 10-foot-radius emanation of magical darkness that lasts for 3 minutes. This effect otherwise acts as *darkness*.
+
+Only vials that have been filled for 8 hours produce the above effects. Partially filled vials do not work. Only one magical lens (such as this or a *lens of starsight*) can be attached to a telescope at a time.
+
+**Construction Requirements:** Craft Wondrous Item, *blinding ray*, *light*, *protective penumbra*; **Cost** 2,700 gp
+
+### Lens of Starsight
+
+**Slot** none; **CL** 1st; **Price** 2,600 gp; **Weight** 1 lb.
+
+**Aura** faint divination
+
+This thick black lens can be attached to the viewing end of a telescope. When the telescope is pointed toward the sky at night, whoever gazes through the *lens of starsight* gains the benefits of *starsight* as well as a +2 competence bonus on Knowledge (geography) checks relating to the stars.
+
+Only one magical lens (such as this or a *harvesting lens*) can be attached to a telescope at a time.
+
+**Construction Requirements:** Craft Wondrous Item, *starsight*, creator has at least 2 ranks in Knowledge (geography); **Cost** 1,300 gp
+
+### Ointment of Void Sealing
+
+**Slot** none; **CL** 9th; **Price** 3,000 gp; **Weight** 25 lbs.
+
+**Aura** faint abjuration
+
+*Ointment of void sealing* comes in a 4-gallon tub, typically made out of brass or some other durable metal. When a Medium or smaller character dunks his head into the tub of sticky, viscous goo as a standard action, the ointment flows over and around him with surprising alacrity until it has coated him in a thin but flexible layer that looks like translucent amber. *Ointment of void sealing* creates a perfect seal around the user, protecting him from the extreme cold and vacuum of outer space, and provides breathable air for the user, as *planetary adaptation*. After 3 hours, a coating of *ointment of void sealing* deteriorates and its effects end. A newly created tub of *ointment of void sealing* contains enough ointment to cover four Medium creatures. Large creatures require 2 doses to gain the benefits of the ointment, while two Small creatures can share a single dose between them.
+
+**Construction Requirements:** Craft Wondrous Item, *planetary adaptation*; **Cost** 1,500 gp
+
+### Traveler's Translator
+
+**Slot** none; **CL** 3rd; **Price** 1,550 gp; **Weight** —
+
+**Aura** faint divination
+
+This single earring consists of a prismatic crystal set into a platinum bezel. A *traveler's translator* provides its owner a basic and limited ability to communicate with intelligent creatures that speak unfamiliar languages.
+
+When created, a *traveler's translator* is imprinted with a single base language chosen by its creator (typically Common), and is capable of learning one additional language. When its owner speaks the command word, the *traveler's translator* begins listening to all spoken conversations and speech within 30 feet. After 1 minute of exposure to a language other than its base language, the translator learns the new language. Thereafter, the item automatically translates speech of the newly learned language into the translator's base language, telepathically imparting the translated words to its owner. A *traveler's translator* can store only one learned language at a time and can learn only one language per day—speaking the command word again after at least 24 hours causes the translator to erase the previously learned language (but not its base language) to make room for a new language.
+
+As a standard action, the owner of the stone can designate a single creature within 30 feet. When the owner speaks aloud to that creature in the translator's base language, the *traveler's translator* telepathically transmits the owner's meaning to the target, using the learned language. A *traveler's translator* does not grant its owner the ability to read or write in either the base or the learned language.
+
+**Construction Requirements:** Craft Wondrous Item, *share language*; **Cost** 775 gp
+
+### Wayfinder of the Stars
+
+**Slot** none; **CL** 17th; **Price** 70,200 gp; **Weight** 2 lbs.
+
+**Aura** strong conjuration and divination
+
+About half again the size of a standard wayfinder, a *wayfinder of the stars* features an extra outer ring around the normal directional compass in the center. Embedded into this outer ring are 13 semi-precious stones, each representing one major celestial body of a solar system.
+
+At will, the owner can speak the item's command word to cause the wayfinder's compass needle to stop pointing north and instead indicate the direction of the nearest active interplanetary portal within 500 miles. If no such portal is within range, the compass needle hangs listlessly. A second command word causes the *wayfinder of the stars* to once again function as a basic wayfinder.
+
+Once per day, the owner can touch one of the semi-precious stones on the *wayfinder of the stars* to teleport her and any willing creatures touching her to a safe location on the indicated planet, as *interplanetary teleport*.
+
+**Construction Requirements:** Craft Wondrous Item, *interplanetary teleport*, *light*, *locate object*; **Cost** 35,100 gp

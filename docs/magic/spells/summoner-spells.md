@@ -51,6 +51,7 @@ New summoner spells from *Ultimate Magic*. Spells from other books will be added
 - **[Lesser Nondetection](lesser-nondetection.md)**: Blocks area-targeted divinations.
 - **[Mount, Communal](mount-communal.md)**: As mount, but you may divide the duration among creatures touched.
 - **[Overstimulate](overstimulate.md)**: Grant ferocity to keep a creature conscious
+- **[Planetarium](planetarium.md)**: Project the night sky.
 - **[Protection from Chaos, Communal](protection-from-chaos-communal.md)**: As protection from chaos, but you may divide the duration among creatures touched.
 - **[Protection from Evil, Communal](protection-from-evil-communal.md)**: As protection from evil, but you may divide the duration among creatures touched.
 - **[Protection from Good, Communal](protection-from-good-communal.md)**: As protection from good, but you may divide the duration among creatures touched.
@@ -142,6 +143,7 @@ New summoner spells from *Ultimate Magic*. Spells from other books will be added
 - **[Nixie’s Lure](nixie-s-lure.md)**: This spell creates an unearthly and infectious song that seductively summons all who hear it.
 - **[Poisonous Cloud](poisonous-cloud.md)**: Fog cloud that deals 1d2 Con damage per round.
 - **[Protection from Energy, Communal](protection-from-energy-communal.md)**: As protection from energy, but you may divide the duration among creatures touched.
+- **[Reboot](reboot.md)**: Briefly reactivate a destroyed construct.
 - **[Riding Possession](riding-possession.md)**: As possession, but you observe instead of control the subject.
 - **[Rising Water](rising-water.md)**: Conjures a cylinder of calm, swimmable water.
 - **[Seek Shelter](seek-shelter.md)**: Weak creatures flee to safety in an orderly fashion.
@@ -176,6 +178,7 @@ New summoner spells from *Ultimate Magic*. Spells from other books will be added
 - **[Mage’s Decree](mages-decree.md)**: Send a message to creatures within miles.
 - **[Master's Mutation](masters-mutation.md)**: Grant abilities to a summoned creature
 - **[Mind Swap](mind-swap.md)**: Switch minds with another creature for 1 hour per level.
+- **[Planetary Adaptation](planetary-adaptation.md)**: As planar adaptation, for worlds and the void.
 - **[Possession](possession.md)**: Project your soul into a creature’s body.
 - **[Release the Hounds](release-the-hounds.md)**: Summons a swarm-like pack of canines.
 - **[Roaming Pit](roaming-pit.md)**: A *create pit* that can move.
@@ -203,6 +206,7 @@ New summoner spells from *Ultimate Magic*. Spells from other books will be added
 - **[Hostile Juxtaposition, Greater](hostile-juxtaposition-greater.md)**: You may target one creature for every four of your caster levels.
 - **[Human Potential, Mass](human-potential-mass.md)**: As human potential, affecting multiple creatures.
 - **[Insect Spies, Greater](insect-spies-greater.md)**: Use magic beetles as spies and also share their senses.
+- **[Planetary Adaptation, Mass](planetary-adaptation-mass.md)**: As planetary adaptation, on many creatures.
 - **[Plundered Power](plundered-power.md)**: Kill a creature and steal its strongest spell-like ability.
 - **[Shadow Transmutation](shadow-transmutation.md)**: mimics a polymorph or size-changing spell with shadow-stuff
 - **[Summon Flight of Eagles](summon-flight-of-eagles.md)**: Summon giant eagles to fight or serve as mounts.

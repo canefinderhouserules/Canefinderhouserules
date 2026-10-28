@@ -116,6 +116,7 @@
 - **[Songbird](songbird.md)**: Conjure music from a good-aligned plane
 - **[Speak Local Language](speak-local-language.md)**: Speak and understand one known regional human language.
 - **[Spirit Share](spirit-share.md)**: Deliver a drink or potion by touch
+- **[Starsight](starsight.md)**: See the night sky clearly and gain stargazing bonuses.
 - **[Stone Shield](stone-shield.md)**: A 1-inch-thick slab of stone springs up from the ground, interposing itself between you and an opponent of.
 - **[Summon Monster I](summon-monster-i.md)**: Summons extraplanar creature to fight for you.
 - **[Sun Metal](sun-metal.md)**: Weapon touched bursts into flames.
@@ -229,6 +230,7 @@
 - **[Painful Revelation](painful-revelation.md)**: Illusion hurts those who disbelieve it
 - **[Peacemaker's Parley](peacemakers-parley.md)**: Make a Diplomacy check against hostile creatures.
 - **[Pilfering Hand](pilfering-hand.md)**: You may seize an object or manipulate it from afar.
+- **[Planetarium](planetarium.md)**: Project the night sky.
 - **[Preserve Grace](preserve-grace.md)**: Grant a phylactery of faithfulness effect.
 - **[Protection from Chaos, Communal](protection-from-chaos-communal.md)**: As protection from chaos, but you may divide the duration among creatures touched.
 - **[Protection from Evil, Communal](protection-from-evil-communal.md)**: As protection from evil, but you may divide the duration among creatures touched.
@@ -491,6 +493,7 @@
 - **[Neutralize Poison](neutralize-poison.md)**: Immunizes subject against poison, detoxifies venom in or on subject.
 - **[Order’s Wrath](orders-wrath.md)**: Harms and dazes chaotic creatures (1d8 damage/2 levels).
 - **[Planar Ally, Lesser](planar-ally-lesser.md)**: Exchange services with a 6 HD extraplanar creature.
+- **[Planetary Adaptation](planetary-adaptation.md)**: As planar adaptation, for worlds and the void.
 - **[Poison](poison.md)**: Touch deals 1d3 Con damage 1/round for 6 rounds.
 - **[Poisonous Balm](poisonous-balm.md)**: As *cure serious wounds*, but leave behind a latent venom.
 - **[Positive Pulse, Greater](positive-pulse-greater.md)**: A large pulse of positive energy damages undead and bolsters living creatures
@@ -584,6 +587,7 @@
 - **[Plane Shift](plane-shift.md)**: As many as 8 subjects travel to another plane.
 - **[Profane Nimbus](profane-nimbus.md)**: Unholy energy damages good creatures that attack you and protects you from good attacks.
 - **[Raise Dead](raise-dead.md)**: Restores life to subject who died as long as one day/level ago.
+- **[Reboot](reboot.md)**: Briefly reactivate a destroyed construct.
 - **[Righteous Might](righteous-might.md)**: Your size increases, and you gain bonuses in combat.
 - **[Sacred Nimbus](sacred-nimbus.md)**: Holy energy damages evil creatures that attack you and protects you from evil attacks.
 - **[Sawtooth Terrain](sawtooth-terrain.md)**: Serrated blades erupt from a surface.
@@ -672,6 +676,7 @@
 - **[Owl’s Wisdom, Mass](owls-wisdom-mass.md)**: As *owl’s wisdom*, affects 1 subject/level.
 - **[Plague Bearer](plague-bearer.md)**: Target spreads contagion to adjacent creatures.
 - **[Planar Ally](planar-ally.md)**: As *lesser planar ally,* but up to 12 HD.
+- **[Planetary Adaptation, Mass](planetary-adaptation-mass.md)**: As planetary adaptation, on many creatures.
 - **[Prognostication](prognostication.md)**: Gain cryptic information from further in the future than *divination*.
 - **[Roaming Pit](roaming-pit.md)**: A *create pit* that can move.
 - **[Shadow Memory](shadow-memory.md)**: Learn a target’s secrets to aid an assassination.

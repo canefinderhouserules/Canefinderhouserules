@@ -100,6 +100,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Sow Thought](sow-thought.md)**: School enchantment (compulsion) [mind-affecting]; Level bard 1, sorcerer/wizard 1, witch 1 Casting Time 1.
 - **[Speak Local Language](speak-local-language.md)**: Speak and understand one known regional human language.
 - **[Spirit Share](spirit-share.md)**: Deliver a drink or potion by touch
+- **[Starsight](starsight.md)**: See the night sky clearly and gain stargazing bonuses.
 - **[Strong Wings](strong-wings.md)**: School transmutation; Level druid 1, ranger 1, sorcerer/wizard 1, witch 1 Casting Time 1 standard action.
 - **[Summon Minor Monster](summon-minor-monster.md)**: Summon 1d3 Tiny animals.
 - **[Tap Inner Beauty](tap-inner-beauty.md)**: +2 insight bonus on Charisma checks.
@@ -218,6 +219,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Paranoia](paranoia.md)**: Target becomes hostile to all creatures.
 - **[Passing Fancy](passing-fancy.md)**: Target becomes obsessed with a topic you choose.
 - **[Pernicious Poison](pernicious-poison.md)**: Target takes a –4 penalty against poison.
+- **[Planetarium](planetarium.md)**: Project the night sky.
 - **[Pouncing Fury](pouncing-fury.md)**: Make a full attack with your claws after a charge.
 - **[Protective Penumbra](protective-penumbra.md)**: Shadow protects the target from light.
 - **[Psychic Leech](psychic-leech.md)**: Fatigue a target and gain +2 Strength and Dexterity.
@@ -570,6 +572,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Possess Object](possess-object.md)**: Possess and animate one object.
 - **[Possession](possession.md)**: Project your soul into a creature’s body.
 - **[Possession Trap](possession-trap.md)**: Trap would-be possessors in a gem
+- **[Reboot](reboot.md)**: Briefly reactivate a destroyed construct.
 - **[Red Hand of the Killer](red-hand-of-the-killer.md)**: Stain the hand of a creature’s killer red.
 - **[Release the Hounds](release-the-hounds.md)**: Summons a swarm-like pack of canines.
 - **[Rubberskin](rubberskin.md)**: Bludgeoning and falling damage become nonlethal.

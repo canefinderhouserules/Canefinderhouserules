@@ -65,6 +65,7 @@
 - **[Speak Local Language](speak-local-language.md)**: Speak and understand one known regional human language.
 - **[Speak with Animals](speak-with-animals.md)**: You can communicate with animals.
 - **[Spindrift Spritz](spindrift-spritz.md)**: Ally rerolls a save against fatigue, shaken, sickened, or staggered.
+- **[Starsight](starsight.md)**: See the night sky clearly and gain stargazing bonuses.
 - **[Steady Saddle](steady-saddle.md)**: Steady a saddle for mounted ranged attacks
 - **[Stone Throwing](stone-throwing.md)**: Subject can throw and catch rocks.
 - **[Strong Wings](strong-wings.md)**: School transmutation; Level druid 1, ranger 1, sorcerer/wizard 1, witch 1 Casting Time 1 standard action.

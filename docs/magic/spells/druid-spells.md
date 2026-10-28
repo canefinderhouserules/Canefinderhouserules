@@ -86,6 +86,7 @@
 - **[Speak with Animals](speak-with-animals.md)**: You can communicate with animals.
 - **[Spirit Call](spirit-call.md)**: Spirit and domain spells in the area are stronger.
 - **[Spirit Share](spirit-share.md)**: Deliver a drink or potion by touch
+- **[Starsight](starsight.md)**: See the night sky clearly and gain stargazing bonuses.
 - **[Steady Saddle](steady-saddle.md)**: Steady a saddle for mounted ranged attacks
 - **[Stone Shield](stone-shield.md)**: A 1-inch-thick slab of stone springs up from the ground, interposing itself between you and an opponent of.
 - **[Strong Wings](strong-wings.md)**: School transmutation; Level druid 1, ranger 1, sorcerer/wizard 1, witch 1 Casting Time 1 standard action.
@@ -177,6 +178,7 @@
 - **[Outbreak](outbreak.md)**: Make diseased creatures contagious
 - **[Overstimulate](overstimulate.md)**: Grant ferocity to keep a creature conscious
 - **[Owl’s Wisdom](owls-wisdom.md)**: Subject gains +4 to Wis for 1 min./level.
+- **[Planetarium](planetarium.md)**: Project the night sky.
 - **[Poison Exchange](poison-exchange.md)**: Swallow one poison and regurgitate another.
 - **[Pouncing Fury](pouncing-fury.md)**: Make a full attack with your claws after a charge.
 - **[Quick Change](quick-change.md)**: Use change shape as a swift action and surprise foes.
@@ -456,6 +458,7 @@
 - **[Fey Form III](fey-form-iii.md)**: Assume the form of a Diminutive or Huge fey creature.
 - **[Find the Path](find-the-path.md)**: Shows most direct way to a location.
 - **[Fire Seeds](fire-seeds.md)**: Acorns and berries become grenades and bombs.
+- **[Gravity Sphere](gravity-sphere.md)**: Alter gravity in a 30-ft. sphere.
 - **[Gravity Well](gravity-well.md)**: Target is crushed by heavy gravity.
 - **[Green Caress](green-caress.md)**: Slowly transform a creature into an inanimate plant.
 - **[Insect Spies, Greater](insect-spies-greater.md)**: Use magic beetles as spies and also share their senses.

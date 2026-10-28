@@ -1545,6 +1545,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Assassins' Guild Collaborator](assassins-guild-collaborator.md) | — | Associate (an assassins' guild) |
 | [Associate](associate.md) | — | You maintain a positive relationship with an organization for at least 6 months or achieve a major accomplishment on behalf of an organization. |
 | [Assured Destruction](assured-destruction.md) | — | Empowered Daemonic Pact, urdefhan |
+| [Astrological Timing](astrological-timing.md) | General | Ability to cast *augury* as a spell or spell-like ability |
 | [Atheist Abjurations](atheist-abjurations.md) | — | Divine Defiance |
 | [Augment Calling](augment-calling.md) | General | Spell Focus (conjuration); ability to cast lesser planar ally, lesser planar binding, or a higher-level version of these spells |
 | [Aura of Succumbing](aura-of-succumbing.md) | — | Channel energy class feature, worshiper of a deity of death or plague |
@@ -1646,6 +1647,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Cat’s Fall](cat-s-fall.md) | — | Dex 13, Acrobatics 1 rank |
 | [Caustic Slur](caustic-slur.md) | General | Bluff 1 rank, favored enemy class feature, gnome |
 | [Cecaelia Focus Tattoo](cecaelia-focus-tattoo.md) | — | Cecaelia |
+| [Celestial Guidance](celestial-guidance.md) | General | — |
 | [Centered Spell](centered-spell.md) | Metamagic | Spellcraft 3 ranks |
 | [Chain Challenge](chain-challenge.md) | — | Challenge class feature, character level 7th |
 | [Chairbreaker](chairbreaker.md) | Combat | Catch Off-Guard, base attack bonus +1 |
@@ -1869,6 +1871,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Elven Battle Torrent](elven-battle-torrent.md) | Combat | Int 13, Elven Battle Focus, Elven Battle Style, Elven Battle Training, Weapon Finesse, base attack bonus +10, weapon familiarity racial trait |
 | [Embrace the Dark Fey](embrace-the-dark-fey.md) | Story | You must have an evil fey such as a quickling or redcap somewhere in your family line, or you must have the Shameful Heritage background. |
 | [Emissary’s Emboldening](emissarys-emboldening.md) | Familiar | Must have a familiar with the emissary archetype |
+| [Empathy](empathy.md) | Android | Cha 13, android |
 | [Empowered Daemonic Pact](empowered-daemonic-pact.md) | — | Urdefhan |
 | [Empty Quiver Flexibility](empty-quiver-flexibility.md) | Combat | Empty Quiver Style, Rapid Shot, Stabbing Shot, Weapon Focus with the chosen weapon |
 | [Empty Quiver Flurry](empty-quiver-flurry.md) | Combat | Empty Quiver Flexibility, Empty Quiver Style, Rapid Shot, Stabbing Shot, Weapon Focus with the chosen weapon |
@@ -1907,6 +1910,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Extra Ninja Trick](extra-ninja-trick.md) | — | Ninja trick class feature |
 | [Extra Shadow Jump](extra-shadow-jump.md) | — | Shadow jump shadowdancer class feature |
 | [Extra Spontaneous Spell Mastery](extra-spontaneous-spell-mastery.md) | — | Spontaneous spell mastery class feature |
+| [Extra Surge](extra-surge.md) | Android | Con 13, nanite surge racial trait |
 | [Extra Variance](extra-variance.md) | — | Channeling Variance or variant channeling ability, channel energy class feature |
 | [Extraplanar Conjunction](extraplanar-conjunction.md) | Teamwork | Any racial spell-like ability, outsider |
 | [Eye for Ingredients](eye-for-ingredients.md) | — | Eschew Materials, Appraise 6 ranks, Spellcraft 6 ranks |
@@ -2252,6 +2256,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [My Blade Is Yours](my-blade-is-yours.md) | Combat, Teamwork | Int 13, Combat Expertise, Sense Motive 3 ranks |
 | [Named Bullet](named-bullet.md) | Grit | Amateur Gunslinger feat or grit class feature, Gunsmithing, base attack bonus +5 |
 | [Nameless One](nameless-one.md) | — | — |
+| [Nanite Disruption](nanite-disruption.md) | Android | Nanite surge racial trait |
 | [Narrow Frame](narrow-frame.md) | — | Escape Artist 1 rank, animal or magical beast |
 | [Nature Soul](nature-soul.md) | — | — |
 | [Nature's Wrath](natures-wrath.md) | — | Int 1, any nongood alignment, plant type |
@@ -2372,6 +2377,8 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Ranged Disarm](ranged-disarm.md) | Combat, Targeting | Dex 13, Deadly Aim, base attack bonus +6 |
 | [Ranged Feint](ranged-feint.md) | Combat | Base attack bonus +2, Bluff 3 ranks |
 | [Ranged Trip](ranged-trip.md) | Combat, Targeting | Dex 13, Deadly Aim, base attack bonus +6 |
+| [Rapid Recovery](rapid-recovery-android.md) | Android | Con 13, Rapid Repair, nanite surge racial trait |
+| [Rapid Repair](rapid-repair.md) | Android | Wis 13, nanite surge racial trait |
 | [Rat Catcher](rat-catcher.md) | Combat | Knowledge (dungeoneering) 1 rank, base attack bonus +1 |
 | [Rat Stack](rat-stack.md) | Combat, Teamwork | Dex 13, swarming racial trait |
 | [Reach Defense](reach-defense.md) | Combat | Dex 15 |
