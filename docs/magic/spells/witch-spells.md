@@ -194,6 +194,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Identifier's Eye](identifiers-eye.md)**: Detect magic and +5 on Spellcraft to identify items.
 - **[Ironskin](ironskin.md)**: Harden your skin to iron
 - **[Lay of the Land](lay-of-the-land.md)**: Instantly learn the geography around you.
+- **[Limp Lash](limp-lash.md)**: Energy whip saps and paralyzes a target.
 - **[Lipstitch](lipstitch.md)**: Sew the target’s lips shut.
 - **[Mad Hallucination](mad-hallucination.md)**: Target takes penalties to mental actions.
 - **[Mark of Blood](mark-of-blood.md)**: Mark a creature struck by a bloodied weapon.

@@ -300,6 +300,7 @@
 - **[Bestow Insight](bestow-insight.md)**: Component V, S Range touch Target one creature touched Duration 1 minute/level When casting this spell.
 - **[Blindness/Deafness](blindness-deafness.md)**: Makes subject blinded or deafened.
 - **[Blood Scent](blood-scent.md)**: School transmutation; Level alchemist 3, antipaladin 2, cleric 3, druid 3, inquisitor 3, ranger 2.
+- **[Blot](blot.md)**: Smears all writing in an area.
 - **[Bone Flense](bone-flense.md)**: Barbed bone spurs flense a struck creature.
 - **[Catatonia](catatonia.md)**: Make a willing target appear to be dead.
 - **[Chain of Perdition](chain-of-perdition.md)**: Creates a floating chain of force.

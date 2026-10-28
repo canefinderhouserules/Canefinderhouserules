@@ -320,6 +320,7 @@
 - **[Bereave](bereave.md)**: Make targets count as enemies to their own allies
 - **[Bit of Luck](bit-of-luck.md)**: reservoir of luck points for attack rolls and skill checks
 - **[Blink](blink.md)**: You randomly vanish and reappear for 1 round/level.
+- **[Blot](blot.md)**: Smears all writing in an area.
 - **[Channel the Gift](channel-the-gift.md)**: Your spell slot powers an ally’s spell.
 - **[Charm Monster](charm-monster.md)**: Makes monster believe it is your ally.
 - **[Claim Identity](claim-identity.md)**: Steal a touched humanoid’s face and identity.

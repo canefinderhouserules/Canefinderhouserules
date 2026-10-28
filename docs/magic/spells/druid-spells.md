@@ -140,6 +140,7 @@
 - **[Endure Elements, Communal](endure-elements-communal.md)**: As endure elements, but you may divide the duration among creatures touched.
 - **[Fear the Sun](fear-the-sun.md)**: targets gain light blindness
 - **[Fiery Runes](fiery-runes.md)**: Weapon rune deals fire damage when discharged.
+- **[Fire Sneeze](fire-sneeze.md)**: Sneeze cones of fire and wind.
 - **[Fire Trap](fire-trap.md)**: Opened object deals 1d4 + 1/level damage.
 - **[Flame Blade](flame-blade.md)**: Touch attack deals 1d8 + 1/two levels damage.
 - **[Flaming Sphere](flaming-sphere.md)**: Rolling ball of fire deals 3d6 fire damage.

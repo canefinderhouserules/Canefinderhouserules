@@ -80,6 +80,50 @@ Only gnomes may select one of these traits.
 
 **Collector**: You have a small, bizarre collection of apparently worthless items, such as rusty nails, animal droppings, clockwork cogs, or bent spoons. You find this strange menagerie useful in ways no non-gnome could understand. Select one of the following skills: Craft (any one), Disable Device, Escape Artist, Perform (any one), or Spellcraft. Whenever you have your collection within 5 feet of you, you gain a +2 trait bonus on all checks made with the selected skill. Once this skill has been selected, it cannot be changed, nor can you gain it for any other collection you begin amassing.
 
+## Goblin Traits
+
+Only goblins may select one of these traits.
+
+**Advantageous Distraction**: Like most goblins, you're easily distracted. Unlike most goblins, though, you have a knack for being distracted at the right time, especially when it comes to avoiding pain. Once per day as a swift action, you can be momentarily distracted in combat—ducking an axe swing to inspect a toadstool, or stooping behind a tree to lick some bark and accidentally avoiding an arrow, and so on. When you activate this ability, you gain a +2 dodge bonus to your AC for 1 round.
+
+**Balloon Headed**: Your head is particularly wide and large, even for a goblin. You gain a +1 trait bonus on Perception checks, and Perception is always a class skill for you. Any Escape Artist checks that require you to squeeze your head through a tight space take a –8 penalty.
+
+**Big Ears**: Your massive ears are your pride and joy, and other goblins claim you can hear a flea scream as it falls off a goblin dog. While this might not quite be the case, you gain a +2 bonus on all Perception checks made to hear noises. Additionally, you can hear noises that normally only dogs or other animals can hear, like the sound of a dog whistle.
+
+**Bouncy**: Your bones, flesh, and skin are a bit more elastic than those of most goblins—when you fall, you tend to bounce a little better as a result. Whenever you take falling damage, the first 1d6 points of lethal damage suffered in the fall are automatically converted to nonlethal damage. You also gain a +2 trait bonus on all Reflex saves made to avoid unexpected falls.
+
+**Color Thief**: Your skin is an odd tint that somehow absorbs background colors. You gain a +2 trait bonus on Stealth checks, providing you wear only light armor or no armor.
+
+**Dog-Sniff-Hate**: You gain the scent special quality but only against canine creatures, like dogs or wolves, including monstrous hounds such as hell hounds, yeth hounds, and even werewolves. You gain a +2 trait bonus on attack rolls against dogs you can smell.
+
+**Foul Belch**: Once per day as a standard action, you can force a particularly odious belch at a single opponent within 5 feet. The character affected must make a DC 12 Fortitude save or be sickened for 1d6 rounds. The save DC is Constitution-based.
+
+**Goblin Foolhardiness**: You have a tendency toward gross overconfidence in combat. When facing an enemy that's larger than you are, if you have no allies in any adjacent squares, your posturing, bravado, and cussing grant you a +1 trait bonus on attack rolls with non-reach melee weapons.
+
+**Pustular**: Your face is covered with unpleasant pimples and outright boils that have a tendency to pop at inopportune moments. Although this makes you particularly ugly, you're also used to discomfort. Whenever you're subjected to an effect that causes the sickened condition, you may make two saving throws to avoid the effect (if a saving throw is allowed), taking the better of the two results as your actual saving throw.
+
+**Rude Songs**: Providing an opponent can hear and understand you, the lyrics of your songs are so personally insulting that you gain a +2 trait bonus on all Perform (song) checks. Perform is always a class skill for you.
+
+**Ugly Swine**: You are a repulsive little freak whose origins are unclear. Your head is small for a goblin and your mouth oddly narrow, allowing you to pass in urban environments as an unidentifiable mongrel, providing you keep a low profile. However, if examined closely, your goblin origins are revealed. You gain a +2 trait bonus on Disguise checks, and Disguise is a class skill for you.
+
+**Cliff-Master** (coastal cliffs): You are adept at scavenging along the cliffs by the sea, and have become a skilled climber. You gain a +1 trait bonus on all Climb and Survival checks.
+
+**Pirate Goblin** (island coasts): Although you might prefer life on board a ship, you often end up in the water for some odd reason. You gain a +1 trait bonus on Profession (sailor) and Swim checks, and Swim is always a class skill for you.
+
+**Monkey Goblin** (jungle): You are adept at arboreal activity, and are more at home in the branches of a tree than you are on the ground. You gain a +2 trait bonus on Acrobatics and Climb checks while climbing trees.
+
+**Scion of Old Wars** (borderlands with hobgoblins): The fury of ancient wars against hobgoblins still courses through your veins. Whenever you're within 60 feet of an enemy hobgoblin, you gain a +1 trait bonus on all weapon damage rolls.
+
+**Flounderer** (worship of a goblin deity of drowning and scavenging): You are adept at swimming and holding your breath. You gain a +1 trait bonus on Swim checks, and can hold your breath for a number of rounds equal to three times your Constitution score before you risk drowning.
+
+**Mother's Teeth** (worship of a deity of madness and monsters): Your teeth are more jagged and pointed than normal. You can make a bite attack for 1d2 points of damage as a secondary attack.
+
+**Restless Hunger** (worship of a deity of famine): If you have a piece of food (or something a goblin might consider food), you can quickly eat it as part of a charge attack once per day. Doing so increases your speed by 10 feet for 1 round.
+
+**Strength of the Barghest** (worship of a goblin deity of supremacy): The blood of the barghests is strong in you. Once per day as a free action, you can gain a +2 trait bonus on any Strength check or Strength-based skill check.
+
+**Wolf Cub** (worship of a goblin deity of dog killing and fire): Your body has clumps of ugly fur, a sure sign of wolf blood! Once per day as a standard action, you can take a deep breath through your nose to gain the scent ability for 1 minute.
+
 ## Half-Elf Traits
 
 Only half-elfs may select one of these traits.

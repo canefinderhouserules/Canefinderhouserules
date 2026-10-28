@@ -1509,6 +1509,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Ancient Tradition](ancient-tradition.md) | — | Knowledge (history) 3 ranks, must have a connection to a lost culture (see text) |
 | [Angelbane Strike](angelbane-strike.md) | — | Channel Smite, divine caster level 5th, channel negative energy class feature, evil patron deity |
 | [Animal Ally](animal-ally.md) | — | Nature Soul, character level 4th, must not have an animal companion or mount that advances as an animal companion |
+| [Ankle Biter](ankle-biter.md) | Combat | Goblin, Escape Artist 1 rank |
 | [Anti-Divine Assault](anti-divine-assault.md) | Combat | Bluff 1 rank, Knowledge (religion) 1 rank, must have been trained to oppose divine servitors |
 | [Aphotic Explorer](aphotic-explorer.md) | — | Endurance, gillman |
 | [Apocalyptic Spell](apocalyptic-spell.md) | Metamagic | — |
@@ -1564,6 +1565,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Bastion Stance](bastion-stance.md) | Combat | Con 13, proficiency with heavy armor and shields |
 | [Bat Shape](bat-shape.md) | — | Cha 13, werebat-kin |
 | [Battle Cry (Surprise Round)](battle-cry-surprise-round.md) | — | Bardic performance class feature |
+| [Battle Singer](battle-singer.md) | General | Goblin, bardic performance class feature |
 | [Beacon of Hope](beacon-of-hope.md) | — | Channel energy 3d6, worshiper of a deity of hope or uprising |
 | [Bear Hug](bear-hug.md) | Combat | Str 17, Beartrap Bite, Weapon Focus (bite), base attack bonus +8 |
 | [Beartrap Bite](beartrap-bite.md) | Combat | Weapon Focus (bite), base attack bonus +6 |
@@ -1671,6 +1673,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Close Call](close-call.md) | — | Deft Hands |
 | [Cold Celerity](cold-celerity.md) | — | Endurance |
 | [Combat Advice](combat-advice.md) | — | — |
+| [Combat Distraction](combat-distraction.md) | General | Goblin, Acrobatics 1 rank, Escape Artist 1 rank |
 | [Combat Meditation](combat-meditation.md) | Combat | Wis 13, Meditation Master, character level 5th |
 | [Combat Vigor](combat-vigor.md) | Combat | Con 13 |
 | [Commander of Goblinkind](commander-of-goblinkind.md) | — | Cha 13, hobgoblin |
@@ -1810,6 +1813,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Divine Dignity](divine-dignity.md) | — | Combat Casting, ability to cast divine spells, worshiper of a deity of law and trade |
 | [Divine Expression](divine-expression.md) | — | Bard level 1st, cleric or oracle level 1st, worshiper of a deity of art and beauty |
 | [Divine Fighting Technique](divine-fighting-technique.md) | Combat | Same alignment as the chosen technique’s patron |
+| [Dog Killer, Horse Hunter](dog-killer-horse-hunter.md) | Combat | Goblin, Handle Animal 1 rank |
 | [Dorn-Dergar Master](dorn-dergar-master.md) | Combat | Two-Weapon Fighting, base attack bonus +4, proficiency with the dwarven dorn-dergar |
 | [Draconic Magic](draconic-magic.md) | — | Draconic Aspect, kobold |
 | [Dragon-Touched](dragon-touched.md) | Story | You must have been knocked unconscious in an encounter with a challenging draconic foe or have a background tied to a specific dragon |
@@ -2135,10 +2139,12 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Large Target](large-target.md) | Combat | Proficient with sling |
 | [Lashing Tail](lashing-tail.md) | Combat | [Grasping Tail](grasping-tail.md), you must have a tail |
 | [Last Rites](last-rites.md) | Conduit | Knowledge (planes) 3 ranks, Knowledge (religion) 3 ranks |
+| [Lead from the Back](lead-from-the-back.md) | Combat | Goblin, Intimidate 1 rank |
 | [Leaping Evasion](leaping-evasion.md) | Combat | Lightning Reflexes, evasion class feature |
 | [Legendary Influence](legendary-influence.md) | — | Lesser spirit power class feature |
 | [Legionnaire’s Inspiration](legionnaires-inspiration.md) | — | — |
 | [Lengthy Potion](lengthy-potion.md) | Versatile Brewing | Brew Potion, caster level 10th |
+| [Letter Fury](letter-fury.md) | General | Goblin, rage class feature |
 | [Liberating Shot](liberating-shot.md) | Weapon Mastery | Dex 13, Deadly Aim, base attack bonus +7, weapon training class feature with a ranged weapon |
 | [Liberation Channel](liberation-channel.md) | — | Channel energy 7d6, worshiper of a deity of freedom |
 | [Lie Low](lie-low.md) | — | — |
@@ -2380,12 +2386,14 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Ritualistic Preparation](ritualistic-preparation.md) | — | Knowledge (arcana) 1 rank, Linguistics 1 rank, Spellcraft 1 rank, ability to cast *read magic* |
 | [Rival](rival.md) | Story | See text |
 | [Robot’s Bane](robots-bane.md) | — | Knowledge (engineering) 5 ranks |
+| [Roll With It](roll-with-it.md) | Combat | Goblin, Acrobatics 1 rank |
 | [Rugged Northerner](rugged-northerner.md) | — | Con 13, Survival 1 rank |
 | [Rushing Winds](rushing-winds.md) | Combat | Turbulent Takeoff, Fly 10 ranks |
 | [Ruthless Opportunist](ruthless-opportunist.md) | Combat, Teamwork | Human |
 | [Sabotage Magic Item](sabotage-magic-item.md) | — | Magical Aptitude, Disable Device 5 ranks, Use Magic Device 5 ranks |
 | [Sabotage Specialist](sabotage-specialist.md) | — | Deft Hands, Disable Device 5 ranks |
 | [Sabotaging Sunder](sabotaging-sunder.md) | Combat | Str 13, Improved Sunder, Power Attack, Disable Device 7 ranks |
+| [Saddle Shrieker](saddle-shrieker.md) | Combat | Goblin, Ride 1 rank |
 | [Sage’s Guidance](sages-guidance.md) | Familiar | Must have a familiar with the sage archetype |
 | [Savage Critical](savage-critical.md) | — | Str 19, ogre, sneak attack +2d6 |
 | [Savage Surge](savage-surge.md) | Combat, Performance | Intimidating Prowess, rage class feature |
@@ -2674,6 +2682,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Urdefhan Bladebreaker](urdefhan-bladebreaker.md) | Combat | Base attack bonus +1, proficiency with the rhoka sword, urdefhan |
 | [Valiant Steed](valiant-steed.md) | — | Animal or magical beast |
 | [Vampiric Companion](vampiric-companion.md) | — | Dhampir or vampire, nongood alignment, 10th level in a class that grants a familiar or animal companion |
+| [Vandal](vandal.md) | General | Goblin, sneak attack class feature |
 | [Vanguard Hustle](vanguard-hustle.md) | Combat | Dex 13, Bodyguard, Combat Patrol, Combat Reflexes, Mobility, Saving Shield, Vanguard Style, Vanguard Ward, proficiency with light or heavy shields |
 | [Vanguard Style](vanguard-style.md) | Combat, Style | Bodyguard, Combat Reflexes, proficiency with light or heavy shields |
 | [Vanguard Ward](vanguard-ward.md) | Combat | Bodyguard, Combat Reflexes, Vanguard Style, proficiency with light or heavy shields |

@@ -70,6 +70,7 @@ New alchemist spells from *Ultimate Magic* and *Ultimate Combat*. Spells from ot
 - **[Empower Holy Water](empower-holy-water.md)**: Holy water deals extra damage to undead
 - **[Enshroud Thoughts](enshroud-thoughts.md)**: Ward yourself against thought detection and memory alteration.
 - **[Fiery Runes](fiery-runes.md)**: Weapon rune deals fire damage when discharged.
+- **[Fire Sneeze](fire-sneeze.md)**: Sneeze cones of fire and wind.
 - **[Flesh Facade](flesh-facade.md)**: Make an undead look alive
 - **[Full Pouch](full-pouch.md)**: Duplicate an alchemical item as you draw it.
 - **[Ghostly Disguise](ghostly-disguise.md)**: You look like a ghost of yourself.

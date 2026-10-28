@@ -4972,3 +4972,45 @@ In addition, if the user attempts to read the auras of an object that is associa
 This ghost-white shawl is partially transparent and flutters elegantly with every motion its wearer makes. If the wearer has the shared consciousness class feature, she gains the Skill Focus feat in both skills determined by her phantom's emotional focus while the phantom is manifested in ectoplasmic or incorporeal form. While her phantom is confined in her consciousness, she instead gains a +4 competence bonus on skill checks with those skills.
 
 **Construction Requirements:** Craft Wondrous Item, *borrow skill*, creator must be a spiritualist with the shared consciousness class feature; **Cost** 1,600 gp
+
+## Goblin Items
+
+### Devastating Dog Whistle
+
+**Slot** none; **CL** 3rd; **Price** 1,500 gp; **Weight** 1 lb.
+
+**Aura** faint necromancy
+
+When blown, this crudely carved reed whistle emits a painful sound that only dogs (or other canine creatures, like wolves, werewolves, or yeth hounds) can hear. All such creatures within a 30-foot-radius spread when a devastating dog whistle is activated must make a DC 11 Fortitude save to avoid taking 1d6 points of sonic damage. A creature that fails to resist the effects of this spell is also affected by magical silence, preventing it from speaking or making sounds with its voice (it can still make noise by movement—it just can't talk or bark or howl) for 1 minute. A devastating dog whistle can be used once per day without peril, but each additional use per day brings a 25% cumulative chance that the devastating dog whistle is destroyed upon activation.
+
+**Construction Requirements:** Craft Wondrous Item, *silence*, *sound burst*; **Cost** 750 gp
+
+### Explosion Pocket
+
+**Slot** none; **CL** 1st; **Price** 3,000 gp; **Weight** 1/2 lb.
+
+**Aura** faint evocation
+
+An explosion pocket looks like a cloth pouch just large enough to contain a Small or Medium humanoid's hand. When placed against a shirt, vest, jacket, trousers, or similar piece of clothing, this ragged green patch attaches to the clothing, creating a loose pocket. The pocket functions as a normal pocket, but once per day the pocket's wearer can, as a standard action by speaking a command word while his hand is in the pocket, cause the pocket to create a single vial of alchemist's fire. If a vial of alchemist's fire is in the explosion pocket when it is commanded to create a vial of alchemist's fire, the pocket instead supercharges the existing vial within so that it inflicts double the normal fire damage a vial of alchemist's fire would normally inflict. An explosion pocket can be removed as a full-round action, allowing it to be placed on a different piece of clothing as the owner wishes. A vial of alchemist's fire created or supercharged by an explosion pocket reverts to a vial of inert bitter-tasting water 1 minute after it is created or supercharged.
+
+**Construction Requirements:** Craft Wondrous Item, *burning hands*; **Cost** 1,500 gp
+
+### Jumping Cinder
+
+**Slot** none; **CL** 3rd; **Price** 300 gp; **Weight** 1 lb.
+
+**Aura** faint evocation
+
+This piece of sooty coal has a tiny bit of flint embedded in it. The bearer of a jumping cinder can, as a standard action, order it to burst into flames and bounce around in random directions. Each round, the jumping cinder leaps into a randomly selected adjacent square. If a creature is in the square into which the jumping cinder lands, that creature takes 1d6 points of fire damage if it fails a DC 12 Reflex save. After 1 minute, the jumping cinder burns out, leaving behind a puff of smoke and a tiny smear of ash. Some goblin tribes use jumping cinders to randomly select volunteers for undesirable duties from a large crowd of goblins—anyone who takes fire damage from the jumping cinder but is not killed by the fire has to do the undesirable task.
+
+**Construction Requirements:** Craft Wondrous Item, *flaming sphere*; **Cost** 150 gp
+
+### Scavenger's Stone
+
+**Slot** none; **CL** 1st; **Price** 2,000 gp; **Weight** 1 lb.
+
+**Aura** faint transmutation
+
+This jagged, egg-shaped stone emits a faint red glow when not in direct sunlight. By rubbing a scavenger's stone against a damaged (but not destroyed) construct or object as a full-round action, you repair 1d6 points of damage to the object or construct. If this brings a broken object's hit points above half its maximum hit points, it loses the broken condition. As a standard action, you can smash a scavenger's stone against a destroyed object or damaged construct. Doing so immediately repairs the object to full functionality or heals a damaged construct of 10d6 points of damage. Destroyed magic items can be repaired in this manner if their caster level is no higher than 3rd—more powerful destroyed magical items cannot be repaired by a scavenger's stone. A newly created scavenger's stone has 50 charges—smashing a stone against an object uses up 10 charges.
+
+**Construction Requirements:** Craft Wondrous Item, *make whole*; **Cost** 1,000 gp

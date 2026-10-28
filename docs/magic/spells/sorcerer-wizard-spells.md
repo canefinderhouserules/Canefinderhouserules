@@ -297,6 +297,7 @@
 - **[Fear the Sun](fear-the-sun.md)**: targets gain light blindness
 - **[Fiery Runes](fiery-runes.md)**: Weapon rune deals fire damage when discharged.
 - **[Fiery Shuriken](fiery-shuriken.md)**
+- **[Fire Sneeze](fire-sneeze.md)**: Sneeze cones of fire and wind.
 - **[Fleeting Defect](fleeting-defect.md)**: An object temporarily gains the broken condition.
 - **[Flesh Facade](flesh-facade.md)**: Make an undead look alive
 - **[Fleshcurdle](fleshcurdle.md)**: Mutate limbs to hamper attacks, defense, or movement.
@@ -329,6 +330,7 @@
 - **[Languid Venom](languid-venom.md)**: Delay a poison’s onset and hide its presence.
 - **[Lesser Nondetection](lesser-nondetection.md)**: Blocks area-targeted divinations.
 - **[Light Prison](light-prison.md)**: Cage of light damages and blinds those who leave it.
+- **[Limp Lash](limp-lash.md)**: Energy whip saps and paralyzes a target.
 - **[Lipstitch](lipstitch.md)**: Sew the target’s lips shut.
 - **[Magic Siege Engine](magic-siege-engine.md)**: Siege engine gains +1 on targeting and damage rolls.
 - **[Mark of Blood](mark-of-blood.md)**: Mark a creature struck by a bloodied weapon.
@@ -505,6 +507,7 @@
 - **[Blast Barrier](blast-barrier.md)**: Unstable wall that explodes for damage.
 - **[Bleed for Your Master](bleed-for-your-master.md)**: Compel a companion to take damage for you.
 - **[Blood Scent](blood-scent.md)**: School transmutation; Level alchemist 3, antipaladin 2, cleric 3, druid 3, inquisitor 3, ranger 2.
+- **[Blot](blot.md)**: Smears all writing in an area.
 - **[Bone Flense](bone-flense.md)**: Barbed bone spurs flense a struck creature.
 - **[Burdened Thoughts](burdened-thoughts.md)**: Target is encumbered and cannot fly.
 - **[Catatonia](catatonia.md)**: Make a willing target appear to be dead.
