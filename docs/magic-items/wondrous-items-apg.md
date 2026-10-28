@@ -120,7 +120,7 @@ Creatures viewed through these darkly tinted glasses sometimes seem, ever so bri
 **Aura** moderate enchantment; **CL** 10th  
 **Slot** none; **Price** 2,500 gp; **Weight** —
 
-This beautiful, ripe red apple appears fresh and tempting. Should anyone bite into it (even a small taste), he must make an immediate DC 19 Will saving throw or be stricken by eternal sleep, the same as the witch’s hex of that name (see page 69). The victim can only be awakened by a casting of break enchantment, limited wish, wish, or miracle, or by a kiss from someone of royal blood.
+This beautiful, ripe red apple appears fresh and tempting. Should anyone bite into it (even a small taste), he must make an immediate DC 19 Will saving throw or be stricken by eternal sleep, the same as the witch’s hex of that name. The victim can only be awakened by a casting of break enchantment, limited wish, wish, or miracle, or by a kiss from someone of royal blood.
 
 **Requirements** Brew Potion, Craft Wondrous Item, eternal sleep hex; **Cost** 1,125 gp
 
@@ -237,7 +237,7 @@ The mouth of this heavy, dark iron cauldron is shaped like a monstrous maw and i
 **Aura** moderate divination; **CL** 10th  
 **Slot** none; **Price** 42,000 gp; **Weight** 5 lbs.
 
-When filled with liquid, this small cauldron allows the user to see over virtually any distance as if using the scrying spell. It may have additional powers like those of a crystal ball for the same prices given on page 508 of the Pathfinder RPG Core Rulebook.
+When filled with liquid, this small cauldron allows the user to see over virtually any distance as if using the scrying spell. It may have additional powers like those of a crystal ball for the same prices given in the Pathfinder RPG Core Rulebook.
 
 **Requirements** Craft Wondrous Item, scrying; **Cost** 21,000 gp
 
@@ -471,7 +471,7 @@ Removing a moon circlet imposes 2 negative levels on the wearer until the next f
 **Aura** faint transmutation; **CL** 3rd  
 **Slot** shoulders; **Price** 1,000 gp; **Weight** 1/4 lb.
 
-These thick leather cords wrap around the wearer’s biceps and shoulders; when worn, they make the muscles appear larger than normal. The wearer treats his Strength score as 8 higher than normal when determining his carrying capacity (see Pathfinder RPG Core Rulebook page 171). This bonus does not apply to combat, breaking items, or any other Strength- related rolls except the amount of equipment or material the wearer can carry.
+These thick leather cords wrap around the wearer’s biceps and shoulders; when worn, they make the muscles appear larger than normal. The wearer treats his Strength score as 8 higher than normal when determining his carrying capacity (see Pathfinder RPG Core Rulebook). This bonus does not apply to combat, breaking items, or any other Strength- related rolls except the amount of equipment or material the wearer can carry.
 
 **Requirements** Craft Wondrous Item, bull’s strength; **Cost** 500 gp
 

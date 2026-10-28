@@ -1,6 +1,5 @@
 # Water
 
-***Source** [PRPG Core Rulebook pg. 48](http://paizo.com/pathfinderRPG/v5748btpy88yj)*
 
 
 ***Granted Powers**: You can manipulate water and mist and ice, conjure creatures of water, and resist cold.*
@@ -11,7 +10,7 @@
   
 **Domain Spells**: 1st—obscuring mist, 2nd—fog cloud, 3rd—water breathing, 4th—control water, 5th—ice storm, 6th—cone of cold, 7th—elemental body IV (water only), 8th—horrid wilting, 9th—elemental swarm (water spell only).*
 
-###  *<span class="smallcaps">Flotsam Subdomain</span>*
+###  *Flotsam Subdomain*
 
 
 ***Associated Domain(s)**: Water*
@@ -23,9 +22,8 @@
 
 ***Replacement Domain Spells**: 2nd—make whole, 5th— major creation, 6th—animate objects.*
 
-###  *<span class="smallcaps">Flowing Subdomain</span>*
+###  *Flowing Subdomain*
 
-***Source** [Champions of Balance pg. 17](http://paizo.com/products/btpy93nc?Pathfinder-Player-Companion-Champions-of-Balance)*
 
 ***Associated Domain(s)**: Water*
 
@@ -34,11 +32,10 @@
 
 *Go with the Flow (Su): You can touch a creature as a standard action to suppress its strong emotions. The target is affected as the calm emotions spell, except it can still take violent actions and violent actions against the target do not end the effect. This effect lasts a number of rounds equal to twice your cleric level. You can use this ability as a ranged touch, but lasts half as much. You can spend three uses of this ability to use it as a move action. You can use this ability a number times per day equal to 3 + your Wisdom modifier.*
 
-***Replacement Domain Spells**: 2nd—cat’s grace, 4th—freedom of movement, 6th—fluid form<sup>APG</sup>, 8th—mind blank.*
+***Replacement Domain Spells**: 2nd—cat’s grace, 4th—freedom of movement, 6th—fluid form, 8th—mind blank.*
 
-###  *<span class="smallcaps">Ice Subdomain</span>*
+###  *Ice Subdomain*
 
-***Source** [Advanced Player's Guide pg. 1](http://paizo.com/pathfinderRPG/v5748btpy8fo1)*
 
 ***Associated Domain(s)**: Water*
 
@@ -49,9 +46,8 @@
 
 ***Replacement Domain Spells**: 7th—freezing sphere, 9th—polar ray.*
 
-###  *<span class="smallcaps">Oceans Subdomain</span>*
+###  *Oceans Subdomain*
 
-***Source** [Advanced Player's Guide pg. 1](http://paizo.com/pathfinderRPG/v5748btpy8fo1)*
 
 ***Associated Domain(s)**: Water*
 
@@ -62,7 +58,7 @@
 
 ***Replacement Domain Spells**: 2nd—slipstream, 3rd—water walk, 9th—tsunami.*
 
-###  *<span class="smallcaps">Rivers Subdomain</span>*
+###  *Rivers Subdomain*
 
 
 ***Associated Domain(s)**: Water*

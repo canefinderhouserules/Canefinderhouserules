@@ -1,4 +1,4 @@
-# Racial Items (Inner Sea Races)
+# Racial Items (Regional Races)
 
 The following magic items are generally available only to, or work best for, members of the indicated race. Items marked with a race in their Construction Requirements can be crafted only by a creator of that race.
 

@@ -28,43 +28,43 @@
 
 ##### Barbarian
 
-A character who chooses [<u>barbarian</u>](https://www.d20pfsrd.com/classes/core-classes/barbarian) as her secondary class gains the following secondary class features.
+A character who chooses barbarian as her secondary class gains the following secondary class features.
 
-**Rage and Power**: At 3rd level, she gains the rage class feature for a number of rounds per day equal to her [<u>Constitution</u>](https://www.d20pfsrd.com/basics-ability-scores/ability-scores#TOC-Constitution-Con-) modifier + her character level, but at half bonus (and malus). She also gains a Rage Power.
+**Rage and Power**: At 3rd level, she gains the rage class feature for a number of rounds per day equal to her Constitution modifier + her character level, but at half bonus (and malus). She also gains a Rage Power.
 
-**Rage Power**: At 7th level, she gains a rage power. For the purpose of which rage powers she can select, her effective [<u>barbarian</u>](https://www.d20pfsrd.com/classes/core-classes/barbarian) level is equal to her character level.
+**Rage Power**: At 7th level, she gains a rage power. For the purpose of which rage powers she can select, her effective barbarian level is equal to her character level.
 
-**Damage Reduction**: At 11th level, she gains [<u>DR</u>](https://www.d20pfsrd.com/bestiary/rules-for-monsters/universal-monster-rules#TOC-Damage-Reduction-Ex-or-Su-) 5/—.
+**Damage Reduction**: At 11th level, she gains DR 5/—.
 
 **Greater Rage**: At 15th level, she gains greater rage.
 
-**Rage Power**: At 19th level, she gains a rage power. For the purpose of which rage powers she can select, her effective [<u>barbarian</u>](https://www.d20pfsrd.com/classes/core-classes/barbarian) level is equal to her character level.
+**Rage Power**: At 19th level, she gains a rage power. For the purpose of which rage powers she can select, her effective barbarian level is equal to her character level.
 
 ##### Bard
 
-A character who chooses [<u>bard</u>](https://www.d20pfsrd.com/classes/core-classes/bard) as his secondary class gains the following secondary class features.
+A character who chooses bard as his secondary class gains the following secondary class features.
 
-**Bardic Performance**: At 3th level, he gains the ability to [<u>inspire courage</u>](https://www.d20pfsrd.com/classes/core-classes/bard#TOC-Inspire-Courage-Su-) and [<u>inspire competence</u>](https://www.d20pfsrd.com/classes/core-classes/bard#TOC-Inspire-Competence-Su-) as a [<u>bard</u>](https://www.d20pfsrd.com/classes/core-classes/bard) of his character level – 4 (1 Minimum) for a number of rounds per day equal to his [<u>Charisma</u>](https://www.d20pfsrd.com/basics-ability-scores/ability-scores#TOC-Charisma-Cha-) modifier + ½ his character level.
+**Bardic Performance**: At 3th level, he gains the ability to inspire courage and inspire competence as a bard of his character level – 4 (1 Minimum) for a number of rounds per day equal to his Charisma modifier + ½ his character level.
 
-**Bardic Knowledge**: At 7rd level, he gains the [<u>bardic knowledge</u>](https://www.d20pfsrd.com/classes/core-classes/bard#TOC-Bardic-Knowledge-Ex-) class feature, treating his character level as his effective [<u>bard</u>](https://www.d20pfsrd.com/classes/core-classes/bard) level.
+**Bardic Knowledge**: At 7rd level, he gains the bardic knowledge class feature, treating his character level as his effective bard level.
 
-**Versatile Performance**: At 11th level, he gains [<u>versatile performance</u>](https://www.d20pfsrd.com/classes/core-classes/bard#TOC-Versatile-Performance-Ex-) in one [<u>Perform</u>](https://www.d20pfsrd.com/skills/perform) skill of his choice. He can retrain all his ranks in the two associated skills for free.
+**Versatile Performance**: At 11th level, he gains versatile performance in one Perform skill of his choice. He can retrain all his ranks in the two associated skills for free.
 
-**Lore Master**: At 15th level, he gains [<u>lore master</u>](https://www.d20pfsrd.com/classes/core-classes/bard#TOC-Lore-Master-Ex-) as a 5th-level [<u>bard</u>](https://www.d20pfsrd.com/classes/core-classes/bard).
+**Lore Master**: At 15th level, he gains lore master as a 5th-level bard.
 
-**Additional Performances**: At 19th level, he gains the ability to use [<u>dirge of doom</u>](https://www.d20pfsrd.com/classes/core-classes/bard#TOC-Dirge-of-Doom-Su-) and inspire greatness as a [<u>bard</u>](https://www.d20pfsrd.com/classes/core-classes/bard) of his character level – 4.
+**Additional Performances**: At 19th level, he gains the ability to use dirge of doom and inspire greatness as a bard of his character level – 4.
 
 ##### Cleric
 
-A character who chooses [<u>cleric</u>](https://www.d20pfsrd.com/classes/core-classes/cleric) as her secondary class gains the following secondary class features.
+A character who chooses cleric as her secondary class gains the following secondary class features.
 
-**Deity**: At 1st level, she must select a deity within one [<u>alignment</u>](https://www.d20pfsrd.com/basics-ability-scores/glossary#TOC-Alignment) step of her own. She gains the [<u>cleric’s</u>](https://www.d20pfsrd.com/classes/core-classes/cleric) aura, bonus languages, code of conduct, and restriction from casting spells of opposed alignments. She also gains the [<u>cleric’s</u>](https://www.d20pfsrd.com/classes/core-classes/cleric) spontaneous casting ability, which she can use with any prepared casting classes that have the appropriate spells on their spell lists.
+**Deity**: At 1st level, she must select a deity within one alignment step of her own. She gains the cleric’s aura, bonus languages, code of conduct, and restriction from casting spells of opposed alignments. She also gains the cleric’s spontaneous casting ability, which she can use with any prepared casting classes that have the appropriate spells on their spell lists.
 
-**Domain**: At 3rd level, she selects one domain her deity grants, gaining that domain’s 1st-level granted power, treating her character level as her effective [<u>cleric</u>](https://www.d20pfsrd.com/classes/core-classes/cleric) level.
+**Domain**: At 3rd level, she selects one domain her deity grants, gaining that domain’s 1st-level granted power, treating her character level as her effective cleric level.
 
-**Channel**: At 7th level, she gains the ability to [<u>channel energy</u>](https://www.d20pfsrd.com/classes/core-classes/cleric#TOC-Channel-Energy-Su-) as a [<u>cleric</u>](https://www.d20pfsrd.com/classes/core-classes/cleric) of her character level – 2 a number of times per day equal to her [<u>Charisma</u>](https://www.d20pfsrd.com/basics-ability-scores/ability-scores#TOC-Charisma-Cha-) modifier + 1.
+**Channel**: At 7th level, she gains the ability to channel energy as a cleric of her character level – 2 a number of times per day equal to her Charisma modifier + 1.
 
-**Improved Domain**: At 11th level, she gains the additional domain power of her chosen domain, treating her character level as her effective [<u>cleric</u>](https://www.d20pfsrd.com/classes/core-classes/cleric) level.
+**Improved Domain**: At 11th level, she gains the additional domain power of her chosen domain, treating her character level as her effective cleric level.
 
 **Domain Spell**: At 15th level, she gains one of her domain spells (to choose from up to the third one) as a spell like ability with 2 uses a day.
 
@@ -72,45 +72,45 @@ A character who chooses [<u>cleric</u>](https://www.d20pfsrd.com/classes/core-cl
 
 ##### Druid
 
-A character who chooses [<u>druid</u>](https://www.d20pfsrd.com/classes/core-classes/druid) as her secondary class gains the following secondary class features.
+A character who chooses druid as her secondary class gains the following secondary class features.
 
-**Code**: At 1st level, she gains Druidic as a bonus language and must abide by the druidic code of conduct—respecting nature, not teaching the Druidic language to [<u>outsiders</u>](https://www.d20pfsrd.com/bestiary/rules-for-monsters/creature-types#TOC-Outsider), not wearing metal [<u>armor</u>](https://www.d20pfsrd.com/basics-ability-scores/glossary#TOC-Armor-Bonus), and so on.
+**Code**: At 1st level, she gains Druidic as a bonus language and must abide by the druidic code of conduct—respecting nature, not teaching the Druidic language to outsiders, not wearing metal armor, and so on.
 
-**Nature’s Bond**: At 3th level, she gains an [<u>animal companion</u>](https://www.d20pfsrd.com/classes/core-classes/druid/animal-companions) as a [<u>druid</u>](https://www.d20pfsrd.com/classes/core-classes/druid) of her character level – 4 OR a Domain from the Druid’s List as a [<u>druid</u>](https://www.d20pfsrd.com/classes/core-classes/druid) of her character level – 4. She doesn’t gain the Domain Spells.
+**Nature’s Bond**: At 3th level, she gains an animal companion as a druid of her character level – 4 OR a Domain from the Druid’s List as a druid of her character level – 4. She doesn’t gain the Domain Spells.
 
-**Wild Shape**: At 7rd level, she gains the ability to use [<u>wild shape</u>](https://www.d20pfsrd.com/classes/core-classes/druid#TOC-Wild-Shape-Su-) to turn into a Small or Medium [<u>animal</u>](https://www.d20pfsrd.com/bestiary/rules-for-monsters/creature-types#TOC-Animal) two times per day for up to 1 hour per character level each time.
+**Wild Shape**: At 7rd level, she gains the ability to use wild shape to turn into a Small or Medium animal two times per day for up to 1 hour per character level each time.
 
 **Immunity**: At 11th level, she gains the Venom immunity Class Feature.
 
-**Greater Wildshape**: At 15th level, her [<u>wild shape</u>](https://www.d20pfsrd.com/classes/core-classes/druid#TOC-Wild-Shape-Su-) improves to include the 6th-level [<u>druid</u>](https://www.d20pfsrd.com/classes/core-classes/druid) options, and she can use [<u>wild shape</u>](https://www.d20pfsrd.com/classes/core-classes/druid#TOC-Wild-Shape-Su-) three times per day.
+**Greater Wildshape**: At 15th level, her wild shape improves to include the 6th-level druid options, and she can use wild shape three times per day.
 
 **Shapeless**: At 19th level, she gains the A Thounsand Faces Class Feature.
 
 ##### Fighter
 
-A character who chooses [<u>fighter</u>](https://www.d20pfsrd.com/classes/core-classes/fighter) as his secondary class gains the following secondary class features.
+A character who chooses fighter as his secondary class gains the following secondary class features.
 
 **Fighter**: At 3rd level, he counts as a fighter -2 for feat prerequisites.
 
-**Armor or Weapon Training 1**: At 7th level, he gains [<u>armor training 1</u>](https://www.d20pfsrd.com/classes/core-classes/fighter#TOC-Armor-Training-Ex-) or [<u>weapon training 1</u>](https://www.d20pfsrd.com/classes/core-classes/Fighter/#TOC-Weapon-Training-Ex-).
+**Armor or Weapon Training 1**: At 7th level, he gains armor training 1 or weapon training 1.
 
 **Advanced Training**: At 11th level, he gains Advanced Armor or Weapon Training.
 
-**Armor or Weapon Training 2**: At 15th level, he gains [<u>armor training 2</u>](https://www.d20pfsrd.com/classes/core-classes/fighter#TOC-Armor-Training-Ex-) or [<u>weapon training 2</u>](https://www.d20pfsrd.com/classes/core-classes/Fighter/#TOC-Weapon-Training-Ex-). (or the first one if he wants to choose a different one)
+**Armor or Weapon Training 2**: At 15th level, he gains armor training 2 or weapon training 2. (or the first one if he wants to choose a different one)
 
 **Feat Master**: At 19th level, he gains 2 combat feats, counts as full fighter level, and can use his level as his bab for prerequisites in this feats.
 
 ##### Monk
 
-A character who chooses [<u>monk</u>](https://www.d20pfsrd.com/classes/core-classes/monk) as his secondary class gains the following secondary class features.
+A character who chooses monk as his secondary class gains the following secondary class features.
 
-**Armor**: At 1st level, he loses all his secondary [<u>monk</u>](https://www.d20pfsrd.com/classes/core-classes/monk) abilities when wearing [<u>armor</u>](https://www.d20pfsrd.com/basics-ability-scores/glossary#TOC-Armor-Bonus), using a shield, or carrying a medium or heavy load.
+**Armor**: At 1st level, he loses all his secondary monk abilities when wearing armor, using a shield, or carrying a medium or heavy load.
 
-**Unarmed Strike**: At 3rd level, he gains the [<u>Improved Unarmed Strike</u>](https://www.d20pfsrd.com/feats/combat-feats/improved-unarmed-strike-combat) feat and the unarmed damage of a [<u>monk</u>](https://www.d20pfsrd.com/classes/core-classes/monk) of his character level – 2.
+**Unarmed Strike**: At 3rd level, he gains the Improved Unarmed Strike feat and the unarmed damage of a monk of his character level – 2.
 
-**Ki Pool**: At 7th level, he gains the [*<u>ki</u>* <u>pool</u>](https://www.d20pfsrd.com/classes/core-classes/monk#TOC-Ki-Pool-Su-) class feature of a [<u>monk</u>](https://www.d20pfsrd.com/classes/core-classes/monk) of his character level – 2, with a number of *ki* points equal to 1/2 his character level. He only ever gains [*<u>ki</u>* <u>pool</u>](https://www.d20pfsrd.com/classes/core-classes/monk#TOC-Ki-Pool-Su-) ([<u>lawful</u>](https://www.d20pfsrd.com/bestiary/rules-for-monsters/creature-types#TOC-Lawful)) if he is of [<u>lawful</u>](https://www.d20pfsrd.com/bestiary/rules-for-monsters/creature-types#TOC-Lawful) [<u>alignment</u>](https://www.d20pfsrd.com/basics-ability-scores/glossary#TOC-Alignment).
+**Ki Pool**: At 7th level, he gains the *ki* pool class feature of a monk of his character level – 2, with a number of *ki* points equal to 1/2 his character level. He only ever gains *ki* pool (lawful) if he is of lawful alignment.
 
-**AC Bonus**: At 11th level, he gains a +3 [<u>dodge bonus</u>](https://www.d20pfsrd.com/basics-ability-scores/glossary#TOC-Dodge-Bonus) to AC.
+**AC Bonus**: At 11th level, he gains a +3 dodge bonus to AC.
 
 **Flurry**: At 15th level, he gains the Unchained Monk Flurry Class Feature, but only the first extra attack.
 
@@ -118,25 +118,25 @@ A character who chooses [<u>monk</u>](https://www.d20pfsrd.com/classes/core-clas
 
 ##### Paladin
 
-A character who chooses [<u>paladin</u>](https://www.d20pfsrd.com/classes/core-classes/paladin) as her secondary class gains the following secondary class features.
+A character who chooses paladin as her secondary class gains the following secondary class features.
 
-**Code**: At 1st level, she must follow the [<u>paladin’s</u>](https://www.d20pfsrd.com/classes/core-classes/paladin) code of conduct and gains the [<u>paladin’s</u>](https://www.d20pfsrd.com/classes/core-classes/paladin) aura of good.
+**Code**: At 1st level, she must follow the paladin’s code of conduct and gains the paladin’s aura of good.
 
-**Detect Evil**: At 3rd level, she can [*<u>detect evil</u>*](https://www.d20pfsrd.com/magic/all-spells/d/detect-evil) as a 1st-level [<u>paladin</u>](https://www.d20pfsrd.com/classes/core-classes/paladin).
+**Detect Evil**: At 3rd level, she can *detect evil* as a 1st-level paladin.
 
-**Smite Evil**: At 7th level, she gains the ability to [<u>smite evil</u>](https://www.d20pfsrd.com/classes/core-classes/paladin#TOC-Smite-Evil-Su-) once per day as a [<u>paladin</u>](https://www.d20pfsrd.com/classes/core-classes/paladin) of her character level – 4.
+**Smite Evil**: At 7th level, she gains the ability to smite evil once per day as a paladin of her character level – 4.
 
-**Lay on Hands**: At 11th level, she gains the ability to [<u>lay on hands</u>](https://www.d20pfsrd.com/classes/core-classes/paladin#TOC-Lay-On-Hands-Su-) a number of times per day equal to 1/2 her character level, healing as much as a [<u>paladin</u>](https://www.d20pfsrd.com/classes/core-classes/paladin) of her character level – 2.
+**Lay on Hands**: At 11th level, she gains the ability to lay on hands a number of times per day equal to 1/2 her character level, healing as much as a paladin of her character level – 2.
 
-**Divine Bond**: At 15th level, she gains a [<u>divine bond</u>](https://www.d20pfsrd.com/classes/core-classes/paladin#TOC-Divine-Bond-Sp-) to a weapon as a [<u>paladin</u>](https://www.d20pfsrd.com/classes/core-classes/paladin) of her character level – 3.
+**Divine Bond**: At 15th level, she gains a divine bond to a weapon as a paladin of her character level – 3.
 
 **Mercy**: At 19th level, she gains the Aura of Courage and Divine Grace class features.
 
 ##### Ranger
 
-A character who chooses [<u>ranger</u>](https://www.d20pfsrd.com/classes/core-classes/ranger) as his secondary class gains the following secondary class features.
+A character who chooses ranger as his secondary class gains the following secondary class features.
 
-**Favored Enemy**: At 3th level, he gains the 1st [<u>favored enemy</u>](https://www.d20pfsrd.com/classes/core-classes/ranger#TOC-Favored-Enemy-Ex-) class feature.
+**Favored Enemy**: At 3th level, he gains the 1st favored enemy class feature.
 
 **Hunter’s Bond**: At 7th level, she gains the Hunter’s Bond Class Feature as a Ranger of her character level -2.
 
@@ -148,7 +148,7 @@ A character who chooses [<u>ranger</u>](https://www.d20pfsrd.com/classes/core-cl
 
 ##### Rogue
 
-A character who chooses [<u>rogue</u>](https://www.d20pfsrd.com/classes/core-classes/rogue) as her secondary class gains the following secondary class features.
+A character who chooses rogue as her secondary class gains the following secondary class features.
 
 **Finesse**: At 3rd level, she gains Weapon Finnese.
 
@@ -156,52 +156,52 @@ A character who chooses [<u>rogue</u>](https://www.d20pfsrd.com/classes/core-cla
 
 **Evasion**: At 11th level, she gains evasion and a Rogue Talent (can’t choose the combat feat).
 
-**Uncanny Dodge**: At 15th level, she gains improved uncanny dodge, treating her character level as her effective [<u>rogue</u>](https://www.d20pfsrd.com/classes/core-classes/rogue) level.
+**Uncanny Dodge**: At 15th level, she gains improved uncanny dodge, treating her character level as her effective rogue level.
 
 **Advanced Talents**: At 19th level, she gains two Advanced Rogue Talent.
 
 ##### Sorcerer
 
-A character who chooses [<u>sorcerer</u>](https://www.d20pfsrd.com/classes/core-classes/sorcerer) as her secondary class gains the following secondary class features.
+A character who chooses sorcerer as her secondary class gains the following secondary class features.
 
-**Bloodline**: At 1st level, she must select a [<u>sorcerer bloodline</u>](https://www.d20pfsrd.com/classes/core-classes/sorcerer#TOC-Bloodline). She treats her character level as her effective [<u>sorcerer</u>](https://www.d20pfsrd.com/classes/core-classes/sorcerer) level for all [<u>bloodline</u>](https://www.d20pfsrd.com/classes/core-classes/sorcerer#TOC-Bloodline) powers.
+**Bloodline**: At 1st level, she must select a sorcerer bloodline. She treats her character level as her effective sorcerer level for all bloodline powers.
 
-**Bloodline Power**: At 3rd level, she gains her [<u>bloodline’s</u>](https://www.d20pfsrd.com/classes/core-classes/sorcerer#TOC-Bloodline) 1st-level [<u>bloodline power</u>](https://www.d20pfsrd.com/classes/core-classes/sorcerer#TOC-Bloodline).
+**Bloodline Power**: At 3rd level, she gains her bloodline’s 1st-level bloodline power.
 
 **Arcana**: At 7th level, she gains her Bloodline’s Arcana.
 
-**Improved Bloodline Power**: At 11th level, she gains her bloodline’s 3rd-level [<u>bloodline power</u>](https://www.d20pfsrd.com/classes/core-classes/sorcerer#TOC-Bloodline).
+**Improved Bloodline Power**: At 11th level, she gains her bloodline’s 3rd-level bloodline power.
 
-**Greater Bloodline Power**: At 15th level, she gains her bloodline’s 9th-level [<u>bloodline power</u>](https://www.d20pfsrd.com/classes/core-classes/sorcerer#TOC-Bloodline).
+**Greater Bloodline Power**: At 15th level, she gains her bloodline’s 9th-level bloodline power.
 
-**True Bloodline Power**: At 19th level, she gains her bloodline’s 15th-level [<u>bloodline power</u>](https://www.d20pfsrd.com/classes/core-classes/sorcerer#TOC-Bloodline).
+**True Bloodline Power**: At 19th level, she gains her bloodline’s 15th-level bloodline power.
 
 ##### Wizard
 
-A character who chooses [<u>wizard</u>](https://www.d20pfsrd.com/classes/core-classes/wizard) as his secondary class gains the following secondary class features.
+A character who chooses wizard as his secondary class gains the following secondary class features.
 
-**School**: At 1st level, he chooses a school of magic in which to specialize. For all powers of that school, he treats his character level as his effective [<u>wizard</u>](https://www.d20pfsrd.com/classes/core-classes/wizard) level.
+**School**: At 1st level, he chooses a school of magic in which to specialize. For all powers of that school, he treats his character level as his effective wizard level.
 
-**Familiar**: At 3rd level, he gains a [<u>familiar</u>](https://www.d20pfsrd.com/classes/core-classes/wizard#TOC-Arcane-Bond-Ex-or-Sp-), treating his character level as his effective [<u>wizard</u>](https://www.d20pfsrd.com/classes/core-classes/wizard) level.
+**Familiar**: At 3rd level, he gains a familiar, treating his character level as his effective wizard level.
 
-**Cantrips and spells**: At 7th level, if he has an [<u>Intelligence</u>](https://www.d20pfsrd.com/basics-ability-scores/ability-scores#TOC-Intelligence-Int-) score of 11 or higher, he chooses a [<u>wizard</u>](https://www.d20pfsrd.com/classes/core-classes/wizard) cantrip and a first level spell from his chosen school and can cast that cantrip as a [<u>spell-like ability</u>](https://www.d20pfsrd.com/magic#TOC-Spell-Like-Abilities-Sp-) at will and the first level spell once a day. He uses his character level as the [<u>caster level</u>](https://www.d20pfsrd.com/magic#TOC-Caster-Level) and [<u>Intelligence</u>](https://www.d20pfsrd.com/basics-ability-scores/ability-scores#TOC-Intelligence-Int-) as the cantrip’s key ability score.  
+**Cantrips and spells**: At 7th level, if he has an Intelligence score of 11 or higher, he chooses a wizard cantrip and a first level spell from his chosen school and can cast that cantrip as a spell-like ability at will and the first level spell once a day. He uses his character level as the caster level and Intelligence as the cantrip’s key ability score.  
 If you already have a spellbook, you can add them to your spellbook instead of gaining them as a spell like ability.
 
 **School Power**: At 11th level, he gains the 1st-level powers of his chosen school. If any of those powers grant an extra effect at 20th level, the character does not gain that extra effect.
 
-**Discovery**: At 15th level, he gains an arcane discovery or [<u>wizard</u>](https://www.d20pfsrd.com/classes/core-classes/wizard) bonus feat, treating his character level as his effective [<u>wizard</u>](https://www.d20pfsrd.com/classes/core-classes/wizard) level.
+**Discovery**: At 15th level, he gains an arcane discovery or wizard bonus feat, treating his character level as his effective wizard level.
 
-**Greater Spell**: At 19th level, if he has an [<u>Intelligence</u>](https://www.d20pfsrd.com/basics-ability-scores/ability-scores#TOC-Intelligence-Int-) score of 13 or higher, he chooses a [<u>wizard</u>](https://www.d20pfsrd.com/classes/core-classes/wizard) third or lower level spell from his chosen school and can cast it as a [<u>spell-like ability</u>](https://www.d20pfsrd.com/magic#TOC-Spell-Like-Abilities-Sp-) once a day. He uses his character level as the [<u>caster level</u>](https://www.d20pfsrd.com/magic#TOC-Caster-Level) and [<u>Intelligence</u>](https://www.d20pfsrd.com/basics-ability-scores/ability-scores#TOC-Intelligence-Int-) as the cantrip’s key ability score.
+**Greater Spell**: At 19th level, if he has an Intelligence score of 13 or higher, he chooses a wizard third or lower level spell from his chosen school and can cast it as a spell-like ability once a day. He uses his character level as the caster level and Intelligence as the cantrip’s key ability score.
 
 #### Base Classes
 
 ##### Alchemist
 
-A character who chooses [<u>alchemist</u>](https://www.d20pfsrd.com/classes/base-classes/alchemist) as his secondary class gains the following secondary class features.
+A character who chooses alchemist as his secondary class gains the following secondary class features.
 
-**Bombs**: At 3th level, he gains the ability to create a number of bombs per day equal to his [<u>Intelligence</u>](https://www.d20pfsrd.com/basics-ability-scores/ability-scores#TOC-Intelligence-Int-) modifier + 1/2 his character level. The bombs deal damage as an [<u>alchemist</u>](https://www.d20pfsrd.com/classes/base-classes/alchemist) of his character level, but since he doesn’t have the [<u>alchemist’s</u>](https://www.d20pfsrd.com/classes/base-classes/alchemist) throw anything class feature, he doesn’t add his [<u>Intelligence</u>](https://www.d20pfsrd.com/basics-ability-scores/ability-scores#TOC-Intelligence-Int-) modifier to the damage.
+**Bombs**: At 3th level, he gains the ability to create a number of bombs per day equal to his Intelligence modifier + 1/2 his character level. The bombs deal damage as an alchemist of his character level, but since he doesn’t have the alchemist’s throw anything class feature, he doesn’t add his Intelligence modifier to the damage.
 
-**Mutagen**: At 7th level, he gains the [<u>mutagen</u>](https://www.d20pfsrd.com/classes/base-classes/alchemist/discoveries/paizo-alchemist-discoveries/mutagen-su) class feature but only with half bonus (and malus), with a duration equal to 10 minutes per character level. He counts as an [<u>alchemist</u>](https://www.d20pfsrd.com/classes/base-classes/alchemist) for the purposes of drinking a [<u>mutagen</u>](https://www.d20pfsrd.com/classes/base-classes/alchemist/discoveries/paizo-alchemist-discoveries/mutagen-su).
+**Mutagen**: At 7th level, he gains the mutagen class feature but only with half bonus (and malus), with a duration equal to 10 minutes per character level. He counts as an alchemist for the purposes of drinking a mutagen.
 
 **Better Mutagen**: At 13th level, he gains the full effect of his Mutagen.
 
@@ -211,23 +211,23 @@ A character who chooses [<u>alchemist</u>](https://www.d20pfsrd.com/classes/base
 
 ##### Cavalier
 
-A character who chooses [<u>cavalier</u>](https://www.d20pfsrd.com/classes/base-classes/cavalier) as his secondary class gains the following secondary class features.
+A character who chooses cavalier as his secondary class gains the following secondary class features.
 
 **Order**: At 1st level, he chooses an order. He must follow the edicts of his order.
 
-**Challenge**: At 3rd level, he gains the ability to issue a challenge as a [<u>cavalier</u>](https://www.d20pfsrd.com/classes/base-classes/cavalier) of his character level – 2 once per day. He adds the appropriate order adjustment to his challenge based on the order he selected.
+**Challenge**: At 3rd level, he gains the ability to issue a challenge as a cavalier of his character level – 2 once per day. He adds the appropriate order adjustment to his challenge based on the order he selected.
 
-**Order Ability**: At 7th level, he gains the 2nd-level ability of his chosen order, treating his character level as his effective [<u>cavalier</u>](https://www.d20pfsrd.com/classes/base-classes/cavalier) level.
+**Order Ability**: At 7th level, he gains the 2nd-level ability of his chosen order, treating his character level as his effective cavalier level.
 
-**Tactician**: At 11th level, he gains the tactician class feature, treating his character level as his effective [<u>cavalier</u>](https://www.d20pfsrd.com/classes/base-classes/cavalier) level.
+**Tactician**: At 11th level, he gains the tactician class feature, treating his character level as his effective cavalier level.
 
-**Greater Order Ability**: At 15th level, he gains the 8th-level ability of his chosen order, treating his character level as his effective [<u>cavalier</u>](https://www.d20pfsrd.com/classes/base-classes/cavalier) level.
+**Greater Order Ability**: At 15th level, he gains the 8th-level ability of his chosen order, treating his character level as his effective cavalier level.
 
-**Greater Tactician**: At 19th level, he gains the greater tactician class feature, treating his character level as his effective [<u>cavalier</u>](https://www.d20pfsrd.com/classes/base-classes/cavalier) level.
+**Greater Tactician**: At 19th level, he gains the greater tactician class feature, treating his character level as his effective cavalier level.
 
 ##### Gunslinger
 
-A character who chooses [<u>gunslinger</u>](https://www.d20pfsrd.com/classes/base-classes/gunslinger) as her secondary class gains the following secondary class features.
+A character who chooses gunslinger as her secondary class gains the following secondary class features.
 
 **Firearm Proficiency**: At 3rd level, she gains proficiency in all firearms and the Gunsmith Class Feature. If Guns Everywhere, then Gun Training.
 
@@ -241,15 +241,15 @@ A character who chooses [<u>gunslinger</u>](https://www.d20pfsrd.com/classes/bas
 
 ##### Inquisitor
 
-A character who chooses [<u>inquisitor</u>](https://www.d20pfsrd.com/classes/base-classes/inquisitor) as her secondary class gains the following secondary class features.
+A character who chooses inquisitor as her secondary class gains the following secondary class features.
 
-**Deity**: At 1st level, she must select a deity within one [<u>alignment</u>](https://www.d20pfsrd.com/basics-ability-scores/glossary#TOC-Alignment) step of her [<u>alignment</u>](https://www.d20pfsrd.com/basics-ability-scores/glossary#TOC-Alignment). She gains the [<u>inquisitor’s</u>](https://www.d20pfsrd.com/classes/base-classes/inquisitor) code of conduct and restriction on casting spells of opposed alignments.
+**Deity**: At 1st level, she must select a deity within one alignment step of her alignment. She gains the inquisitor’s code of conduct and restriction on casting spells of opposed alignments.
 
-**Judgment**: At 3rd level, once per day, she can use the [<u>judgment</u>](https://www.d20pfsrd.com/classes/base-classes/inquisitor#TOC-Judgment-Su-) class feature as an [<u>inquisitor</u>](https://www.d20pfsrd.com/classes/base-classes/inquisitor) of her character level – 3 (1 Minimum).
+**Judgment**: At 3rd level, once per day, she can use the judgment class feature as an inquisitor of her character level – 3 (1 Minimum).
 
 **Solo Tactics**: At 7th level, she gains the solo tactics class feature.
 
-**Bane**: At 11th level, she gains the Bane class feature, treating her character level as her effective [<u>inquisitor</u>](https://www.d20pfsrd.com/classes/base-classes/inquisitor) level.
+**Bane**: At 11th level, she gains the Bane class feature, treating her character level as her effective inquisitor level.
 
 **Stalwart**: At 15th level, she gains the Stalwart Class feature.
 
@@ -257,13 +257,13 @@ A character who chooses [<u>inquisitor</u>](https://www.d20pfsrd.com/classes/bas
 
 ##### Magus
 
-A character who chooses [<u>magus</u>](https://www.d20pfsrd.com/classes/base-classes/magus) as his secondary class gains the following secondary class features.
+A character who chooses magus as his secondary class gains the following secondary class features.
 
-**Arcane Pool**: At 3rd level, he gains the arcane pool class feature as a [<u>magus</u>](https://www.d20pfsrd.com/classes/base-classes/magus) of his character level – 2 OR One Magus Arcana.
+**Arcane Pool**: At 3rd level, he gains the arcane pool class feature as a magus of his character level – 2 OR One Magus Arcana.
 
-**Spellstrike**: At 7th level, he gains the spellstrike class feature, but he can use it only with spells that are on the [<u>magus</u>](https://www.d20pfsrd.com/classes/base-classes/magus) spell list, even though he can cast them using another class’s spell slots.
+**Spellstrike**: At 7th level, he gains the spellstrike class feature, but he can use it only with spells that are on the magus spell list, even though he can cast them using another class’s spell slots.
 
-**Spell Combat**: At 11th level, he gains the Spell Combat class feature, but he can use it only with spells that are on the [<u>magus</u>](https://www.d20pfsrd.com/classes/base-classes/magus) spell list, even though he can cast them using another class’s spell slots.
+**Spell Combat**: At 11th level, he gains the Spell Combat class feature, but he can use it only with spells that are on the magus spell list, even though he can cast them using another class’s spell slots.
 
 **Improved Arcana**: At 15th level, he gains the Fighter Training Class Feature as a Magus of his character level, OR the Medium Armor Class Feature.
 
@@ -271,26 +271,26 @@ A character who chooses [<u>magus</u>](https://www.d20pfsrd.com/classes/base-cla
 
 ##### Oracle
 
-A character who chooses [<u>oracle</u>](https://www.d20pfsrd.com/classes/base-classes/oracle) as her secondary class gains the following secondary class features.
+A character who chooses oracle as her secondary class gains the following secondary class features.
 
-**Mystery**: At 1st level, she must select a mystery. She never qualifies for the [<u>Extra Revelation</u>](https://www.d20pfsrd.com/feats/general-feats/extra-revelation-1) feat.
+**Mystery**: At 1st level, she must select a mystery. She never qualifies for the Extra Revelation feat.
 
-**Curse**: At 1st level, she must select a curse. She gains all effects of the curse, treating her effective [<u>oracle</u>](https://www.d20pfsrd.com/classes/base-classes/oracle) level as equal to 1/2 her character level.
+**Curse**: At 1st level, she must select a curse. She gains all effects of the curse, treating her effective oracle level as equal to 1/2 her character level.
 
-**Revelation**: At 3rd level, she gains a revelations from the list of those available to her mystery as an [<u>oracle</u>](https://www.d20pfsrd.com/classes/base-classes/oracle) of her character level – 4 (minimum 1). She must have an effective [<u>oracle</u>](https://www.d20pfsrd.com/classes/base-classes/oracle) level high enough to select the [<u>revelation</u>](https://www.d20pfsrd.com/classes/base-classes/oracle#TOC-Revelation).  
+**Revelation**: At 3rd level, she gains a revelations from the list of those available to her mystery as an oracle of her character level – 4 (minimum 1). She must have an effective oracle level high enough to select the revelation.  
 Prohibido negreos.
 
-**Improved Revelation**: At 7th level, she gains one additional [<u>revelation</u>](https://www.d20pfsrd.com/classes/base-classes/oracle#TOC-Revelation).
+**Improved Revelation**: At 7th level, she gains one additional revelation.
 
-**Curse Focus**: At 11th level, she adds 5 to her effective [<u>oracle</u>](https://www.d20pfsrd.com/classes/base-classes/oracle) level for the purposes of determining her curse’s effects.
+**Curse Focus**: At 11th level, she adds 5 to her effective oracle level for the purposes of determining her curse’s effects.
 
-**Improved Revelation**: At 15th level, she gains one additional [<u>revelation</u>](https://www.d20pfsrd.com/classes/base-classes/oracle#TOC-Revelation).
+**Improved Revelation**: At 15th level, she gains one additional revelation.
 
-**Greater Revelation**: At 19th level, she gains one additional [<u>revelation</u>](https://www.d20pfsrd.com/classes/base-classes/oracle#TOC-Revelation).
+**Greater Revelation**: At 19th level, she gains one additional revelation.
 
 ##### Samurai
 
-A character who chooses [<u>samurai</u>](https://www.d20pfsrd.com/classes/alternate-classes/samurai/) as his secondary class gains the following secondary class features.
+A character who chooses samurai as his secondary class gains the following secondary class features.
 
 **Order**: At 1st level, he chooses an order. He must follow the edicts of his order.
 
@@ -306,11 +306,11 @@ A character who chooses [<u>samurai</u>](https://www.d20pfsrd.com/classes/altern
 
 ##### Summoner
 
-A character who chooses [<u>summoner</u>](https://www.d20pfsrd.com/classes/unchained-classes/summoner-unchained) as his secondary class gains the following secondary class features.
+A character who chooses summoner as his secondary class gains the following secondary class features.
 
-**Summon Monster**: At 3rd level, he gains the summoner’s summon monster [<u>spell-like ability</u>](https://www.d20pfsrd.com/magic#TOC-Spell-Like-Abilities-Sp-) as a [<u>summoner</u>](https://www.d20pfsrd.com/classes/unchained-classes/summoner-unchained) of his character level – 2. He can use this ability a number of times per day equal to his [<u>Charisma</u>](https://www.d20pfsrd.com/basics-ability-scores/ability-scores#TOC-Charisma-Cha-) modifier.
+**Summon Monster**: At 3rd level, he gains the summoner’s summon monster spell-like ability as a summoner of his character level – 2. He can use this ability a number of times per day equal to his Charisma modifier.
 
-**Eidolon**: At 7th level, he gains the ability to [<u>summon</u>](https://www.d20pfsrd.com/bestiary/rules-for-monsters/universal-monster-rules#TOC-Summon-Sp-) an [<u>eidolon</u>](https://www.d20pfsrd.com/classes/base-classes/summoner#TOC-Eidolon), using the statistics of an [<u>eidolon</u>](https://www.d20pfsrd.com/classes/base-classes/summoner#TOC-Eidolon) for a [<u>summoner</u>](https://www.d20pfsrd.com/classes/unchained-classes/summoner-unchained) of his character level – 4. This [<u>eidolon</u>](https://www.d20pfsrd.com/classes/base-classes/summoner#TOC-Eidolon) can only be summoned using his summon monster [<u>spell-like ability</u>](https://www.d20pfsrd.com/magic#TOC-Spell-Like-Abilities-Sp-).
+**Eidolon**: At 7th level, he gains the ability to summon an eidolon, using the statistics of an eidolon for a summoner of his character level – 4. This eidolon can only be summoned using his summon monster spell-like ability.
 
 **Eidolon Mastery**: At 11th level, he gains the Maker’s Call and Transposition Class Features.
 
@@ -320,25 +320,25 @@ A character who chooses [<u>summoner</u>](https://www.d20pfsrd.com/classes/uncha
 
 ##### Witch
 
-A character who chooses [<u>witch</u>](https://www.d20pfsrd.com/classes/base-classes/witch) as her secondary class gains the following secondary class features.
+A character who chooses witch as her secondary class gains the following secondary class features.
 
-**Patron**: At 1st level, she chooses a patron. She never qualifies for the [<u>Extra Hex</u>](https://www.d20pfsrd.com/feats/general-feats/extra-hex) feat.
+**Patron**: At 1st level, she chooses a patron. She never qualifies for the Extra Hex feat.
 
-**Witch’s Familiar**: At 3rd level, she gains a [<u>familiar</u>](https://www.d20pfsrd.com/classes/core-classes/wizard#TOC-Arcane-Bond-Ex-or-Sp-), treating her character level as her effective [<u>witch</u>](https://www.d20pfsrd.com/classes/base-classes/witch) level.
+**Witch’s Familiar**: At 3rd level, she gains a familiar, treating her character level as her effective witch level.
 
-**Hex**: At 7th level, she gains a hex of her choice treating her character level as her effective [<u>witch</u>](https://www.d20pfsrd.com/classes/base-classes/witch) level -2.
+**Hex**: At 7th level, she gains a hex of her choice treating her character level as her effective witch level -2.
 
-**Hex**: At 13th level, she gains a hex of her choice treating her character level as her effective [<u>witch</u>](https://www.d20pfsrd.com/classes/base-classes/witch) level -2.
+**Hex**: At 13th level, she gains a hex of her choice treating her character level as her effective witch level -2.
 
 **Improved Hex**: At 15th level, she gains anoter hex.
 
-**Major Hex**: At 19th level, she gains a [<u>major hex</u>](https://www.d20pfsrd.com/classes/base-classes/witch#TOC-Major-Hex).
+**Major Hex**: At 19th level, she gains a major hex.
 
 #### Occult Classes
 
 ##### Kineticist
 
-A character who chooses [<u>kineticist</u>](https://www.d20pfsrd.com/alternative-rule-systems/paizo-rules-systems/occult-adventures/occult-classes/kineticist/) as his secondary class gains the following secondary class features.
+A character who chooses kineticist as his secondary class gains the following secondary class features.
 
 **Burn:** At 1st level, they gain the burn class feature, being allowed to accept 1 burn per round and an amount of burn per day equal to their Constitution modifier. If they possess the burn class feature from another class, the amount of burn these class features allow per round and per day do not stack, and they suffer the penalties for taking burn as described in that class’s burn class feature.
 
@@ -354,7 +354,7 @@ A character who chooses [<u>kineticist</u>](https://www.d20pfsrd.com/alternative
 
 ##### Medium
 
-A character who chooses [<u>medium</u>](https://www.d20pfsrd.com/alternative-rule-systems/paizo-rules-systems/occult-adventures/occult-classes/medium/) as her secondary class gains the following secondary class features.
+A character who chooses medium as her secondary class gains the following secondary class features.
 
 **Seance**: At 1st level, she gains the seance ritual from the Spirit Class Feature, but none of the benefits. She still needs to choose a spirit to channel during that day, but doesn’t gain any bonus from it.
 
@@ -370,13 +370,13 @@ A character who chooses [<u>medium</u>](https://www.d20pfsrd.com/alternative-rul
 
 ##### Mesmerist
 
-A character who chooses [<u>mesmerist</u>](https://www.d20pfsrd.com/alternative-rule-systems/paizo-rules-systems/occult-adventures/occult-classes/mesmerist/) as her secondary class gains the following secondary class features.
+A character who chooses mesmerist as her secondary class gains the following secondary class features.
 
 **Hypnotic Stare:** At 3rd level, he gains the Hypnotic Stare class feature of a 1st level Mesmerist.
 
 **Mesmerist Trick:** At 7th level, he learns a single Mesmerist Trick, he treats his character level as his Mesmerist level for this trick. He can use this trick a number of times equal to his charisma modifier.
 
-**Spells and Knacks:** At 11th level, if he has an [<u>Intelligence</u>](https://www.d20pfsrd.com/basics-ability-scores/ability-scores#TOC-Intelligence-Int-) score of 11 or higher, he chooses a Mesmerist knack and a first level spell from his spellbook and can cast that knack as a [<u>spell-like ability</u>](https://www.d20pfsrd.com/magic#TOC-Spell-Like-Abilities-Sp-) at will and the first level spell once a day. He uses his character level as the [<u>caster level</u>](https://www.d20pfsrd.com/magic#TOC-Caster-Level) and [<u>Intelligence</u>](https://www.d20pfsrd.com/basics-ability-scores/ability-scores#TOC-Intelligence-Int-) as the knack’s key ability score.  
+**Spells and Knacks:** At 11th level, if he has an Intelligence score of 11 or higher, he chooses a Mesmerist knack and a first level spell from his spellbook and can cast that knack as a spell-like ability at will and the first level spell once a day. He uses his character level as the caster level and Intelligence as the knack’s key ability score.  
 If you already have a spellbook, you can add them to your spellbook instead of gaining them as a spell like ability.
 
 **Bold Stare:** At 15th level he chooses a single augmentation for his Hypnotic Stare from those available to a Mesmerist of his level.
@@ -385,7 +385,7 @@ If you already have a spellbook, you can add them to your spellbook instead of g
 
 ##### Occultist
 
-A character who chooses [<u>occultist</u>](https://www.d20pfsrd.com/alternative-rule-systems/paizo-rules-systems/occult-adventures/occult-classes/occultist/) as her secondary class gains the following secondary class features.
+A character who chooses occultist as her secondary class gains the following secondary class features.
 
 **Implement:** At 3rd level he learns a single Implement School from those available to an Occultist learning the base focus power and a single new focus power from that implement. He gains a pool of mental focus equal to his intelligence modifier. His effective Occultist level for his Implement powers is his character level.
 
@@ -399,11 +399,11 @@ A character who chooses [<u>occultist</u>](https://www.d20pfsrd.com/alternative-
 
 ##### Psychic
 
-A character who chooses [<u>psychic</u>](https://www.d20pfsrd.com/alternative-rule-systems/paizo-rules-systems/occult-adventures/occult-classes/psychic/) as her secondary class gains the following secondary class features.
+A character who chooses psychic as her secondary class gains the following secondary class features.
 
 **Detect Thoughts:** At 3rd level she gains the Detect Thoughts class feature.
 
-**Spells and Knacks:** At 7th level, if he has an [<u>Intelligence</u>](https://www.d20pfsrd.com/basics-ability-scores/ability-scores#TOC-Intelligence-Int-) score of 11 or higher, he chooses a psychic knack and a first level spell from his spellbook and can cast that knack as a [<u>spell-like ability</u>](https://www.d20pfsrd.com/magic#TOC-Spell-Like-Abilities-Sp-) at will and the first level spell once a day. He uses his character level as the [<u>caster level</u>](https://www.d20pfsrd.com/magic#TOC-Caster-Level) and [<u>Intelligence</u>](https://www.d20pfsrd.com/basics-ability-scores/ability-scores#TOC-Intelligence-Int-) as the knack’s key ability score.  
+**Spells and Knacks:** At 7th level, if he has an Intelligence score of 11 or higher, he chooses a psychic knack and a first level spell from his spellbook and can cast that knack as a spell-like ability at will and the first level spell once a day. He uses his character level as the caster level and Intelligence as the knack’s key ability score.  
 If you already have a spellbook, you can add them to your spellbook instead of gaining them as a spell like ability.
 
 **Psychic Discipline:** At 11th level she selects a Psychic Discipline and learns one of its 1st level abilities, her effective Psychic level for all of her Discipline abilities is her character level.
@@ -412,13 +412,13 @@ If you already have a spellbook, you can add them to your spellbook instead of g
 
 ##### Spiritualist
 
-A character who chooses [<u>spiritualist</u>](https://www.d20pfsrd.com/alternative-rule-systems/paizo-rules-systems/occult-adventures/occult-classes/spiritualist/) as her secondary class gains the following secondary class features.
+A character who chooses spiritualist as her secondary class gains the following secondary class features.
 
 **Phantom:** At 3rd level she gains the Phantom Class Feature as her character level -4. She can use Boon Companion to upgrade it to her character level.
 
 **Shared Consciousness:** At 7th level, she gains the Shared Consciousness class feature.
 
-**Spells and Knacks:** At 11th level, if he has an Wisdom score of 11 or higher, he chooses a spiritualist knack and a first level spell from his spellbook and can cast that knack as a [<u>spell-like ability</u>](https://www.d20pfsrd.com/magic#TOC-Spell-Like-Abilities-Sp-) at will and the first level spell once a day. He uses his character level as the [<u>caster level</u>](https://www.d20pfsrd.com/magic#TOC-Caster-Level) and wisdom as the knack’s key ability score.  
+**Spells and Knacks:** At 11th level, if he has an Wisdom score of 11 or higher, he chooses a spiritualist knack and a first level spell from his spellbook and can cast that knack as a spell-like ability at will and the first level spell once a day. He uses his character level as the caster level and wisdom as the knack’s key ability score.  
 If you already have a spellbook, you can add them to your spellbook instead of gaining them as a spell like ability.
 
 **Fused Consciousness:** At 15th level she gains the Fused Consciousness class feature.
@@ -427,11 +427,11 @@ If you already have a spellbook, you can add them to your spellbook instead of g
 
 ##### Arcanist
 
-A character who chooses [<u>arcanist</u>](https://www.d20pfsrd.com/classes/hybrid-classes/arcanist/) as his secondary class gains the following secondary class features.
+A character who chooses arcanist as his secondary class gains the following secondary class features.
 
 **Arcane Reservoir:** At 3rd level, she gains the Arcane Reservoir Class Feature.
 
-**Cantrips and spells**: At 7th level, if he has an [<u>Intelligence</u>](https://www.d20pfsrd.com/basics-ability-scores/ability-scores#TOC-Intelligence-Int-) score of 11 or higher, he chooses a [<u>wizard</u>](https://www.d20pfsrd.com/classes/core-classes/wizard) cantrip and a first level spell from his chosen school and can cast that cantrip as a [<u>spell-like ability</u>](https://www.d20pfsrd.com/magic#TOC-Spell-Like-Abilities-Sp-) at will and the first level spell once a day. He uses his character level as the [<u>caster level</u>](https://www.d20pfsrd.com/magic#TOC-Caster-Level) and [<u>Intelligence</u>](https://www.d20pfsrd.com/basics-ability-scores/ability-scores#TOC-Intelligence-Int-) as the cantrip’s key ability score.  
+**Cantrips and spells**: At 7th level, if he has an Intelligence score of 11 or higher, he chooses a wizard cantrip and a first level spell from his chosen school and can cast that cantrip as a spell-like ability at will and the first level spell once a day. He uses his character level as the caster level and Intelligence as the cantrip’s key ability score.  
 If you already have a spellbook, you can add them to your spellbook instead of gaining them as a spell like ability.
 
 **Exploit:** At 11th level, she gains an exploit, using her character level -4 as her arcanist level.
@@ -442,15 +442,15 @@ If you already have a spellbook, you can add them to your spellbook instead of g
 
 ##### Bloodrager
 
-A character who chooses [<u>bloodrager</u>](https://www.d20pfsrd.com/classes/hybrid-classes/bloodrager/) as his secondary class gains the following secondary class features.
+A character who chooses bloodrager as his secondary class gains the following secondary class features.
 
-**Bloodline:** At 1st level, she must select a bloodrager [<u>bloodline</u>](https://www.d20pfsrd.com/classes/core-classes/sorcerer#TOC-Bloodline). She treats her character level as her effective bloodrager level for all [<u>bloodline</u>](https://www.d20pfsrd.com/classes/core-classes/sorcerer#TOC-Bloodline) powers.
+**Bloodline:** At 1st level, she must select a bloodrager bloodline. She treats her character level as her effective bloodrager level for all bloodline powers.
 
 **Bloodrage:** At 3rd level, she gains the bloodrage class feature for a number of rounds per day equal to her Constitution modifier + her character level, but at half bonus (and malus). She can cast in this bloodrage, as long as the spell is in the bloodrager spellbook.
 
 **Bloodline Power**: At 7th level, she gains the first level bloodline power.
 
-**Spells**: At 11th level, if he has a Charisma score of 11 or higher, he chooses 2 bloodrager first level spells from his spellbook and can cast those first level spells once a day each. He uses his character level as the [<u>caster level</u>](https://www.d20pfsrd.com/magic#TOC-Caster-Level) and charisma as the spell’s key ability score.  
+**Spells**: At 11th level, if he has a Charisma score of 11 or higher, he chooses 2 bloodrager first level spells from his spellbook and can cast those first level spells once a day each. He uses his character level as the caster level and charisma as the spell’s key ability score.  
 If you already have a spellbook, you can add them to your spellbook instead of gaining them as a spell like ability.
 
 **Greater Bloodrage**: At 15th level, she gains greater bloodrage.
@@ -459,9 +459,9 @@ If you already have a spellbook, you can add them to your spellbook instead of g
 
 ##### Brawler
 
-A character who chooses [<u>brawler</u>](https://www.d20pfsrd.com/classes/hybrid-classes/brawler/) as his secondary class gains the following secondary class features.
+A character who chooses brawler as his secondary class gains the following secondary class features.
 
-**Unarmed Strike**: At 3rd level, he gains the [<u>Improved Unarmed Strike</u>](https://www.d20pfsrd.com/feats/combat-feats/improved-unarmed-strike-combat) feat and the unarmed damage of a brawler of his character level – 2.
+**Unarmed Strike**: At 3rd level, he gains the Improved Unarmed Strike feat and the unarmed damage of a brawler of his character level – 2.
 
 **Martial Flexibility**: At 7th level, he gains the martial flexibility class feature as a brawler of his character level.
 
@@ -473,7 +473,7 @@ A character who chooses [<u>brawler</u>](https://www.d20pfsrd.com/classes/hybrid
 
 ##### Hunter
 
-A character who chooses [<u>hunter</u>](https://www.d20pfsrd.com/classes/hybrid-classes/Hunter) as his secondary class gains the following secondary class features.
+A character who chooses hunter as his secondary class gains the following secondary class features.
 
 **Animal Companion**: At 3rd level, she gains an animal companion as a hunter of her character level -4.
 
@@ -487,7 +487,7 @@ A character who chooses [<u>hunter</u>](https://www.d20pfsrd.com/classes/hybrid-
 
 ##### Investigator
 
-A character who chooses [<u>investigator</u>](https://www.d20pfsrd.com/CLASSES/HYBRID-CLASSES/INVESTIGATOR/) as his secondary class gains the following secondary class features.
+A character who chooses investigator as his secondary class gains the following secondary class features.
 
 **Keen Recollection**: At 3rd level, she gains the Keen recollection class feature.
 
@@ -501,7 +501,7 @@ A character who chooses [<u>investigator</u>](https://www.d20pfsrd.com/CLASSES/H
 
 ##### Skald
 
-A character who chooses [<u>skald</u>](https://www.d20pfsrd.com/classes/hybrid-classes/skald/) as his secondary class gains the following secondary class features.
+A character who chooses skald as his secondary class gains the following secondary class features.
 
 **Versatile Performance**: At 3rd level, she gains the Versatile Performance class feature.
 
@@ -515,7 +515,7 @@ A character who chooses [<u>skald</u>](https://www.d20pfsrd.com/classes/hybrid-c
 
 ##### Slayer
 
-A character who chooses [<u>slayer</u>](https://www.d20pfsrd.com/classes/hybrid-classes/slayer/) as his secondary class gains the following secondary class features.
+A character who chooses slayer as his secondary class gains the following secondary class features.
 
 **Track**: At 3rd level, she gains the Track class feature.
 
@@ -529,7 +529,7 @@ A character who chooses [<u>slayer</u>](https://www.d20pfsrd.com/classes/hybrid-
 
 ##### Swashbuckler
 
-A character who chooses [<u>swashbuckler</u>](https://www.d20pfsrd.com/classes/hybrid-classes/swashbuckler/) as his secondary class gains the following secondary class features.
+A character who chooses swashbuckler as his secondary class gains the following secondary class features.
 
 **Swashbuckler’s Finesse**: At 3rd level, she gains the Swashbuckler’s Finesse class feature.
 
@@ -543,9 +543,9 @@ A character who chooses [<u>swashbuckler</u>](https://www.d20pfsrd.com/classes/h
 
 ##### Warpriest
 
-A character who chooses [<u>warpriest</u>](https://www.d20pfsrd.com/classes/hybrid-classes/warpriest/) as his secondary class gains the following secondary class features.
+A character who chooses warpriest as his secondary class gains the following secondary class features.
 
-**Deity**: At 1st level, she must select a deity within one [<u>alignment</u>](https://www.d20pfsrd.com/basics-ability-scores/glossary#TOC-Alignment) step of her own. She gains the [<u>cleric’s</u>](https://www.d20pfsrd.com/classes/core-classes/cleric) aura, bonus languages, code of conduct, and restriction from casting spells of opposed alignments. She also gains the [<u>cleric’s</u>](https://www.d20pfsrd.com/classes/core-classes/cleric) spontaneous casting ability, which she can use with any prepared casting classes that have the appropriate spells on their spell lists.
+**Deity**: At 1st level, she must select a deity within one alignment step of her own. She gains the cleric’s aura, bonus languages, code of conduct, and restriction from casting spells of opposed alignments. She also gains the cleric’s spontaneous casting ability, which she can use with any prepared casting classes that have the appropriate spells on their spell lists.
 
 **Sacred Weapon**: At 3rd level, she gains the Sacred Weapon class feature as a Warpriest equal to her character level -4 (Minimum 1).
 
@@ -559,39 +559,39 @@ A character who chooses [<u>warpriest</u>](https://www.d20pfsrd.com/classes/hybr
 
 ##### Antipaladin
 
-A character who chooses anti[<u>paladin</u>](https://www.d20pfsrd.com/classes/core-classes/paladin) as her secondary class gains the following secondary class features.
+A character who chooses antipaladin as her secondary class gains the following secondary class features.
 
-**Code**: At 1st level, she must follow the anti[<u>paladin’s</u>](https://www.d20pfsrd.com/classes/core-classes/paladin) code of conduct and gains the anti[<u>paladin’s</u>](https://www.d20pfsrd.com/classes/core-classes/paladin) aura of evil.
+**Code**: At 1st level, she must follow the antipaladin’s code of conduct and gains the antipaladin’s aura of evil.
 
-**Detect good**: At 3rd level, she can [*<u>detect</u>*](https://www.d20pfsrd.com/magic/all-spells/d/detect-evil) good as a 1st-level anti[<u>paladin</u>](https://www.d20pfsrd.com/classes/core-classes/paladin).
+**Detect good**: At 3rd level, she can *detect* good as a 1st-level antipaladin.
 
-**Smite good**: At 7th level, she gains the ability to [<u>smite</u>](https://www.d20pfsrd.com/classes/core-classes/paladin#TOC-Smite-Evil-Su-) good once per day as an anti[<u>paladin</u>](https://www.d20pfsrd.com/classes/core-classes/paladin) of her character level – 4.
+**Smite good**: At 7th level, she gains the ability to smite good once per day as an antipaladin of her character level – 4.
 
-**Touch of Corruption**: At 11th level, she gains the ability to Touch of Corruption a number of times per day equal to 1/2 her character level, damaging as much as a anti[<u>paladin</u>](https://www.d20pfsrd.com/classes/core-classes/paladin) of her character level – 2.
+**Touch of Corruption**: At 11th level, she gains the ability to Touch of Corruption a number of times per day equal to 1/2 her character level, damaging as much as a antipaladin of her character level – 2.
 
-**Fiendish Boon**: At 15th level, she gains a fiendish boon to a weapon as an anti[<u>paladin</u>](https://www.d20pfsrd.com/classes/core-classes/paladin) of her character level – 3.
+**Fiendish Boon**: At 15th level, she gains a fiendish boon to a weapon as an antipaladin of her character level – 3.
 
 **Cruelty**: At 19th level, she gains the Aura of Cowardice and Unholy Resilience class features.
 
 ##### Shifter
 
-A character who chooses [<u>shifter</u>](https://www.d20pfsrd.com/classes/base-classes/shifter/) as her secondary class gains the following secondary class features.
+A character who chooses shifter as her secondary class gains the following secondary class features.
 
-**Code**: At 1st level, she gains Druidic as a bonus language and must abide by the druidic code of conduct—respecting nature, not teaching the Druidic language to [<u>outsiders</u>](https://www.d20pfsrd.com/bestiary/rules-for-monsters/creature-types#TOC-Outsider), not wearing metal [<u>armor</u>](https://www.d20pfsrd.com/basics-ability-scores/glossary#TOC-Armor-Bonus), and so on.
+**Code**: At 1st level, she gains Druidic as a bonus language and must abide by the druidic code of conduct—respecting nature, not teaching the Druidic language to outsiders, not wearing metal armor, and so on.
 
 **Shifter’s Claws**: At 3th level, she gains the Shifter’s Claws Class Feature.
 
-**Wild Shape**: At 7rd level, she gains the ability to use [<u>wild shape</u>](https://www.d20pfsrd.com/classes/core-classes/druid#TOC-Wild-Shape-Su-) to turn into a Small or Medium [<u>animal</u>](https://www.d20pfsrd.com/bestiary/rules-for-monsters/creature-types#TOC-Animal) two times per day for up to 1 hour per character level each time.
+**Wild Shape**: At 7rd level, she gains the ability to use wild shape to turn into a Small or Medium animal two times per day for up to 1 hour per character level each time.
 
 **Shifter’s Aspect**: At 11th level, she gains her first Shifter’s Aspect.
 
-**Greater Wildshape**: At 15th level, her [<u>wild shape</u>](https://www.d20pfsrd.com/classes/core-classes/druid#TOC-Wild-Shape-Su-) improves to include the 6th-level shifter options, and she can use [<u>wild shape</u>](https://www.d20pfsrd.com/classes/core-classes/druid#TOC-Wild-Shape-Su-) three times per day.
+**Greater Wildshape**: At 15th level, her wild shape improves to include the 6th-level shifter options, and she can use wild shape three times per day.
 
 **Shifter’s Aspect**: At 10th level, she gains her second Shifter’s Aspect.
 
 ##### Vigilante
 
-A character who chooses [<u>Vigilante</u>](https://www.d20pfsrd.com/classes/Base-Classes/Vigilante/) as his secondary class gains the following secondary class features.
+A character who chooses Vigilante as his secondary class gains the following secondary class features.
 
 **Schyzo**: At 1st level, she gains the Dual Identity Class Feature.
 

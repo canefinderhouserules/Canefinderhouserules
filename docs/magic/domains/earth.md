@@ -1,6 +1,5 @@
 # Earth
 
-***Source** [PRPG Core Rulebook pg. 43](http://paizo.com/pathfinderRPG/v5748btpy88yj)*
 
 
 ***Granted Powers**: You have mastery over earth, metal, and stone, can fire darts of acid, and command earth creatures.*
@@ -11,9 +10,8 @@
 
 ***Domain Spells**: 1st—magic stone, 2nd—soften earth and stone, 3rd—stone shape, 4th—spike stones, 5th—wall of stone, 6th—stoneskin, 7th—elemental body IV (earth only), 8th—earthquake, 9th—elemental swarm (earth spell only).*
 
-###  *<span class="smallcaps">Caves Subdomain</span>*
+###  *Caves Subdomain*
 
-***Source** [Advanced Player's Guide pg. 1](http://paizo.com/pathfinderRPG/v5748btpy8fo1)*
 
 ***Associated Domain(s)**: Earth*
 
@@ -24,9 +22,8 @@
 
 ***Replacement Domain Spells**: 2nd—create pit, 3rd—spiked pit, 6th—hungry pit.*
 
-###  *<span class="smallcaps">Metal Subdomain</span>*
+###  *Metal Subdomain*
 
-***Source** [Advanced Player's Guide pg. 1](http://paizo.com/pathfinderRPG/v5748btpy8fo1)*
 
 ***Associated Domain(s)**: Earth*
 
@@ -37,11 +34,10 @@
 
 ***Replacement Domain Spells**: 2nd—heat metal, 6th—wall of iron, 8th—iron body.*
 
-###  *<span class="smallcaps">Petrification Subdomain</span>*
+###  *Petrification Subdomain*
 
-***Source** [Divine Anthology pg. 25](http://paizo.com/products/btpy9nvh?Pathfinder-Player-Companion-Divine-Anthology)*
 
-*This subdomain requires the [Acolyte of Apocrypha](https://www.aonprd.com/TraitDisplay.aspx?ItemName=Acolyte%20of%20Apocrypha) trait to access.*
+*This subdomain requires the Acolyte of Apocrypha trait to access.*
 
 ***Associated Domain(s)**: Earth*
 
@@ -50,15 +46,15 @@
 
 *Fossil Form (Su): At the beginning of your turn as a swift action, you can infuse your flesh with minerals, granting you cumbersome security. Until the beginning of your next turn, you have -2 to AC and attack, but gain DR 2 + your Cleric level/-, and gain a +4 bonus on saving throws against petrification. This saving throw bonus increases by 1 for every 4 cleric levels you have. You can use this ability a number of times per day equal to 3 + your Wisdom modifier.*
 
-***Replacement Domain Spells**: 4th—calcific touch<sup>APG</sup>, 5th—stoneskin, 6th—flesh to stone, 8th—statue.*
+***Replacement Domain Spells**: 4th—calcific touch, 5th—stoneskin, 6th—flesh to stone, 8th—statue.*
 
-### *<span class="smallcaps">Radiation Subdomain</span>*
+### *Radiation Subdomain*
 
 
 ***Associated Domain(s)**: Earth*
 
 
-***Replacement Power**: Note: Only creatures with the [Kobold Faith](https://www.aonprd.com/TraitDisplay.aspx?ItemName=Kobold%20Faith) trait can take this subdomain.*
+***Replacement Power**: Note: Only creatures with the Kobold Faith trait can take this subdomain.*
 
 *The following granted power replaces the acid dart power of the Earth domain.*
 

@@ -1,6 +1,5 @@
 # Animal
 
-**Source** [*PRPG Core Rulebook pg. 41*](http://paizo.com/pathfinderRPG/v5748btpy88yj)
 
 
 **Granted Powers**: You can speak with and befriend animals with ease. In addition, you treat Knowledge (nature) as a class skill.
@@ -11,9 +10,8 @@
 
 **Domain Spells**: 1st—*calm animals*, 2nd—*hold animal*, 3rd—*dominate animal*, 4th—*summon nature's ally IV* (animals only), 5th—*beast shape III* (animals only), 6th—*antilife shell*, 7th—*animal shapes*, 8th—*summon nature's ally VIII* (animals only), 9th—*shapechange*.
 
-###  <span class="smallcaps">Feather Subdomain</span>
+###  Feather Subdomain
 
-**Source** [*Advanced Player's Guide pg. 1*](http://paizo.com/pathfinderRPG/v5748btpy8fo1)
 
 **Associated Domain(s)**: Animal
 
@@ -26,9 +24,8 @@ The following granted power replaces the speak with animals power of the Animal 
 
 **Replacement Domain Spells**: 2nd—*feather fall*, 3rd—*fly*, 6th—*fly (mass)*.
 
-###  <span class="smallcaps">Fur Subdomain</span>
+###  Fur Subdomain
 
-**Source** [*Advanced Player's Guide pg. 1*](http://paizo.com/pathfinderRPG/v5748btpy8fo1)
 
 **Associated Domain(s)**: Animal
 
@@ -39,11 +36,10 @@ The following granted power replaces the speak with animals power of the Animal 
 
 **Replacement Domain Spells**: 1st—*magic fang*, 3rd—*beast shape I* (animals only).
 
-###  <span class="smallcaps">Insect Subdomain</span>
+###  Insect Subdomain
 
-**Source** [*Divine Anthology pg. 23*](http://paizo.com/products/btpy9nvh?Pathfinder-Player-Companion-Divine-Anthology)
 
-*This subdomain requires the [Acolyte of Apocrypha](https://www.aonprd.com/TraitDisplay.aspx?ItemName=Acolyte%20of%20Apocrypha) trait to access.*
+*This subdomain requires the Acolyte of Apocrypha trait to access.*
 
 **Associated Domain(s)**: Animal
 
@@ -54,4 +50,4 @@ The following granted power replaces the speak with animals power of the Animal 
 
 *Exoskeleton (Su)*: As a swift action, you can grow an exoskeleton that grants you a +1 enhancement bonus to your natural armor and 1d4 temporary hit points + 1 for every 2 cleric levels you have. The natural armor bonus increases by 1 for every 5 cleric levels you have. The exoskeleton lasts for a number of rounds equal to your Cleric Level. You can use this ability a number of times per day equal to 3 + your Wisdom modifier.
 
-**Replacement Domain Spells**: 4th—*giant vermin*, 5th—*vermin shape II<sup>UM</sup>*, 8th—*summon nature’s ally VIII* (1d3 goliath stag beetles; *Pathfinder RPG Bestiary 2 44*).
+**Replacement Domain Spells**: 4th—*giant vermin*, 5th—*vermin shape II*, 8th—*summon nature’s ally VIII* (1d3 goliath stag beetles; *Pathfinder RPG Bestiary 2 44*).

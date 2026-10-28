@@ -1,6 +1,5 @@
 # Glory
 
-***Source** [PRPG Core Rulebook pg. 44](http://paizo.com/pathfinderRPG/v5748btpy88yj)*
 
 
 ***Granted Powers**: You are infused with the glory of the divine, and are a true foe of the undead. In addition, when you channel positive energy to harm undead creatures, the save DC to halve the damage is increased by 2.*
@@ -11,9 +10,8 @@
 
 ***Domain Spells**: 1st—shield of faith, 2nd—bless weapon, 3rd—searing light, 4th—holy smite, 5th—righteous might, 6th—undeath to death, 7th—holy sword, 8th—holy aura, 9th—gate.*
 
-###  *<span class="smallcaps">Chivalry Subdomain</span>*
+###  *Chivalry Subdomain*
 
-***Source** [Heroes of the High Court pg. 21](http://paizo.com/products/btpy9nda?Pathfinder-Player-Companion-Heroes-of-the-High-Court)*
 
 ***Associated Domain(s)**: Glory*
 
@@ -24,9 +22,8 @@
 
 ***Replacement Domain Spells**: 1st—remove fear, 3rd—heroism, 6th—greater heroism.*
 
-###  *<span class="smallcaps">Heroism Subdomain</span>*
+###  *Heroism Subdomain*
 
-***Source** [Advanced Player's Guide pg. 1](http://paizo.com/pathfinderRPG/v5748btpy8fo1)*
 
 ***Associated Domain(s)**: Glory*
 
@@ -37,9 +34,8 @@
 
 ***Replacement Domain Spells**: 3rd—heroism, 6th—heroism (greater).*
 
-###  *<span class="smallcaps">Honor Subdomain</span>*
+###  *Honor Subdomain*
 
-***Source** [Advanced Player's Guide pg. 1](http://paizo.com/pathfinderRPG/v5748btpy8fo1)*
 
 ***Associated Domain(s)**: Glory*
 
@@ -50,11 +46,10 @@
 
 ***Replacement Domain Spells**: 2nd—zone of truth, 6th—geas/quest.*
 
-###  *<span class="smallcaps">Hubris Subdomain</span>*
+###  *Hubris Subdomain*
 
-***Source** [Divine Anthology pg. 23](http://paizo.com/products/btpy9nvh?Pathfinder-Player-Companion-Divine-Anthology)*
 
-*This subdomain requires the [Acolyte of Apocrypha](https://www.aonprd.com/TraitDisplay.aspx?ItemName=Acolyte%20of%20Apocrypha) trait to access.*
+*This subdomain requires the Acolyte of Apocrypha trait to access.*
 
 ***Associated Domain(s)**: Glory, Nobility*
 
@@ -63,13 +58,12 @@
 
 *Divine Demand (Su): At 4th level, you can petition your divine patron for far greater power than you deserve. Activating this ability is a swift action that you must use as you cast a spell that has a reduced (but not negated) effect on a successful save. The saving throw DC of the spell increases by 3, and you gain a +4 bonus on caster level checks to overcome spell resistance with the spell. Any creature that succeeds at the saving throw instead avoids the effect entirely. If half or more of the targets are unaffected, you become shaken for a number of rounds equal to the spell’s level. If all of the targets are unaffected, you instead lose the ability to cast divine spells, channel energy, and use domain powers for 1d4+1 rounds; you can end this loss by loudly apologizing to your patron deity as a full-round action that provokes attacks of opportunity. You can use this ability once per day at 4th level, and one additional time per day for every 4 levels beyond 4th.*
 
-***Replacement Domain Spells**: 4th—hollow heroism<sup>UI</sup>, 7th—greater hollow heroism<sup>UI</sup>, 9th—overwhelming presence<sup>UM</sup>. If you are evil, replace the domain spells bless weapon and holy aura with aid and unholy aura respectively.*
+***Replacement Domain Spells**: 4th—hollow heroism, 7th—greater hollow heroism, 9th—overwhelming presence. If you are evil, replace the domain spells bless weapon and holy aura with aid and unholy aura respectively.*
 
-###  *<span class="smallcaps">Legend Subdomain</span>*
+###  *Legend Subdomain*
 
-***Source** [Divine Anthology pg. 23](http://paizo.com/products/btpy9nvh?Pathfinder-Player-Companion-Divine-Anthology)*
 
-*This subdomain requires the [Acolyte of Apocrypha](https://www.aonprd.com/TraitDisplay.aspx?ItemName=Acolyte%20of%20Apocrypha) trait to access.*
+*This subdomain requires the Acolyte of Apocrypha trait to access.*
 
 ***Associated Domain(s)**: Glory*
 
@@ -78,4 +72,4 @@
 
 *Witness the Legend (Su): At 4th level, as a move action, you can extol the virtues of yourself or an ally within 60 feet that you can see. This causes the target to shed light like a torch for 1 minute, and while the effect lasts, you can expend a daily use of your touch of glory domain ability as an immediate action to add 1d6 to an attack, saving throw, skill check, or ability check attempted by the target; for a roll to confirm a critical hit or save against a fear effect, you instead add 1d12. You can use this ability once per day at 4th level and one additional time per day for every 2 levels beyond 4th.*
 
-***Replacement Domain Spells**: 2nd—aid, 3rd—contagious zeal<sup>OA</sup>, 4th— righteous vigor<sup>APG</sup>, 6th— unshakable zeal<sup>OA</sup>. If you are evil, replace the domain spells holy smite, holy sword, and holy aura with unholy blight, unholy sword<sup>UM</sup>, and unholy aura respectively.*
+***Replacement Domain Spells**: 2nd—aid, 3rd—contagious zeal, 4th— righteous vigor, 6th— unshakable zeal. If you are evil, replace the domain spells holy smite, holy sword, and holy aura with unholy blight, unholy sword, and unholy aura respectively.*

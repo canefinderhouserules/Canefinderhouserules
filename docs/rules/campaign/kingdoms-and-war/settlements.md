@@ -50,7 +50,7 @@ If your settlement is in a hex containing a canal, lake, ocean, river, or simila
 
 A new settlement consists of 1 district, represented by the District Grid map. Mark the four borders on the District Grid as land or water, as appropriate.
 
-**Step 5—Construct your first buildings**. Construct 1 building in your settlement and pay its BP cost. See pages 215–220 for building types. If this is your kingdom’s first settlement, you should start with an Inn, Shrine, Monastery, or Watchtower. In addition, you may also purchase and construct 1 House, Mansion, Noble Villa, or Tenement. If your first building is an Inn, you must construct a House or Tenement next to it, as building an Inn requires an adjacent House or Tenement.
+**Step 5—Construct your first buildings**. Construct 1 building in your settlement and pay its BP cost. See the building types below. If this is your kingdom’s first settlement, you should start with an Inn, Shrine, Monastery, or Watchtower. In addition, you may also purchase and construct 1 House, Mansion, Noble Villa, or Tenement. If your first building is an Inn, you must construct a House or Tenement next to it, as building an Inn requires an adjacent House or Tenement.
 
 When you complete these steps, you’ve founded your settlement! If this is your first settlement, it’s considered your kingdom’s capital city.
 

@@ -32,34 +32,31 @@ Like other spellcasters, a cleric can cast only a certain number of spells of ea
 
 **Table 3–5: Cleric**
 
-<table>
-<thead>
-<tr><th rowspan="2">Level</th><th rowspan="2">Base Attack Bonus</th><th rowspan="2">Fort Save</th><th rowspan="2">Ref Save</th><th rowspan="2">Will Save</th><th rowspan="2">Special</th><th colspan="10">Spells per Day</th></tr>
-<tr><th>0</th><th>1st</th><th>2nd</th><th>3rd</th><th>4th</th><th>5th</th><th>6th</th><th>7th</th><th>8th</th><th>9th</th></tr>
-</thead>
-<tbody>
-<tr><td>1st</td><td>+0</td><td>+2</td><td>+0</td><td>+2</td><td>Aura, channel energy 1d8, domains, orisons</td><td>3</td><td>1+1</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr>
-<tr><td>2nd</td><td>+1</td><td>+3</td><td>+0</td><td>+3</td><td></td><td>4</td><td>2+1</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr>
-<tr><td>3rd</td><td>+2</td><td>+3</td><td>+1</td><td>+3</td><td>Channel energy 2d8</td><td>4</td><td>2+1</td><td>1+1</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr>
-<tr><td>4th</td><td>+3</td><td>+4</td><td>+1</td><td>+4</td><td></td><td>4</td><td>3+1</td><td>2+1</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr>
-<tr><td>5th</td><td>+3</td><td>+4</td><td>+1</td><td>+4</td><td>Channel energy 3d8</td><td>4</td><td>3+1</td><td>2+1</td><td>1+1</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr>
-<tr><td>6th</td><td>+4</td><td>+5</td><td>+2</td><td>+5</td><td></td><td>4</td><td>3+1</td><td>3+1</td><td>2+1</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr>
-<tr><td>7th</td><td>+5</td><td>+5</td><td>+2</td><td>+5</td><td>Channel energy 4d8</td><td>4</td><td>4+1</td><td>3+1</td><td>2+1</td><td>1+1</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr>
-<tr><td>8th</td><td>+6/+1</td><td>+6</td><td>+2</td><td>+6</td><td></td><td>4</td><td>4+1</td><td>3+1</td><td>3+1</td><td>2+1</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr>
-<tr><td>9th</td><td>+6/+1</td><td>+6</td><td>+3</td><td>+6</td><td>Channel energy 5d8</td><td>4</td><td>4+1</td><td>4+1</td><td>3+1</td><td>2+1</td><td>1+1</td><td>—</td><td>—</td><td>—</td><td>—</td></tr>
-<tr><td>10th</td><td>+7/+2</td><td>+7</td><td>+3</td><td>+7</td><td></td><td>4</td><td>4+1</td><td>4+1</td><td>3+1</td><td>3+1</td><td>2+1</td><td>—</td><td>—</td><td>—</td><td>—</td></tr>
-<tr><td>11th</td><td>+8/+3</td><td>+7</td><td>+3</td><td>+7</td><td>Channel energy 6d8</td><td>4</td><td>4+1</td><td>4+1</td><td>4+1</td><td>3+1</td><td>2+1</td><td>1+1</td><td>—</td><td>—</td><td>—</td></tr>
-<tr><td>12th</td><td>+9/+4</td><td>+8</td><td>+4</td><td>+8</td><td></td><td>4</td><td>4+1</td><td>4+1</td><td>4+1</td><td>3+1</td><td>3+1</td><td>2+1</td><td>—</td><td>—</td><td>—</td></tr>
-<tr><td>13th</td><td>+9/+4</td><td>+8</td><td>+4</td><td>+8</td><td>Channel energy 7d8</td><td>4</td><td>4+1</td><td>4+1</td><td>4+1</td><td>4+1</td><td>3+1</td><td>2+1</td><td>1+1</td><td>—</td><td>—</td></tr>
-<tr><td>14th</td><td>+10/+5</td><td>+9</td><td>+4</td><td>+9</td><td></td><td>4</td><td>4+1</td><td>4+1</td><td>4+1</td><td>4+1</td><td>3+1</td><td>3+1</td><td>2+1</td><td>—</td><td>—</td></tr>
-<tr><td>15th</td><td>+11/+6/+1</td><td>+9</td><td>+5</td><td>+9</td><td>Channel energy 8d8</td><td>4</td><td>4+1</td><td>4+1</td><td>4+1</td><td>4+1</td><td>4+1</td><td>3+1</td><td>2+1</td><td>1+1</td><td>—</td></tr>
-<tr><td>16th</td><td>+12/+7/+2</td><td>+10</td><td>+5</td><td>+10</td><td></td><td>4</td><td>4+1</td><td>4+1</td><td>4+1</td><td>4+1</td><td>4+1</td><td>3+1</td><td>3+1</td><td>2+1</td><td>—</td></tr>
-<tr><td>17th</td><td>+12/+7/+2</td><td>+10</td><td>+5</td><td>+10</td><td>Channel energy 9d8</td><td>4</td><td>4+1</td><td>4+1</td><td>4+1</td><td>4+1</td><td>4+1</td><td>4+1</td><td>3+1</td><td>2+1</td><td>1+1</td></tr>
-<tr><td>18th</td><td>+13/+8/+3</td><td>+11</td><td>+6</td><td>+11</td><td></td><td>4</td><td>4+1</td><td>4+1</td><td>4+1</td><td>4+1</td><td>4+1</td><td>4+1</td><td>3+1</td><td>3+1</td><td>2+1</td></tr>
-<tr><td>19th</td><td>+14/+9/+4</td><td>+11</td><td>+6</td><td>+11</td><td>Channel energy 10d8</td><td>4</td><td>4+1</td><td>4+1</td><td>4+1</td><td>4+1</td><td>4+1</td><td>4+1</td><td>4+1</td><td>3+1</td><td>3+1</td></tr>
-<tr><td>20th</td><td>+15/+10/+5</td><td>+12</td><td>+6</td><td>+12</td><td></td><td>4</td><td>4+1</td><td>4+1</td><td>4+1</td><td>4+1</td><td>4+1</td><td>4+1</td><td>4+1</td><td>4+1</td><td>4+1</td></tr>
-</tbody>
-</table>
+
+| Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special                                    | Spells per Day |     |     |     |     |     |     |     |     |     |
+|-------|-------------------|-----------|----------|-----------|--------------------------------------------|----------------|-----|-----|-----|-----|-----|-----|-----|-----|-----|
+|       |                   |           |          |           |                                            | 0              | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
+| 1st   | +0                | +2        | +0       | +2        | Aura, channel energy 1d8, domains, orisons | 3              | 1+1 | —   | —   | —   | —   | —   | —   | —   | —   |
+| 2nd   | +1                | +3        | +0       | +3        |                                            | 4              | 2+1 | —   | —   | —   | —   | —   | —   | —   | —   |
+| 3rd   | +2                | +3        | +1       | +3        | Channel energy 2d8                         | 4              | 2+1 | 1+1 | —   | —   | —   | —   | —   | —   | —   |
+| 4th   | +3                | +4        | +1       | +4        |                                            | 4              | 3+1 | 2+1 | —   | —   | —   | —   | —   | —   | —   |
+| 5th   | +3                | +4        | +1       | +4        | Channel energy 3d8                         | 4              | 3+1 | 2+1 | 1+1 | —   | —   | —   | —   | —   | —   |
+| 6th   | +4                | +5        | +2       | +5        |                                            | 4              | 3+1 | 3+1 | 2+1 | —   | —   | —   | —   | —   | —   |
+| 7th   | +5                | +5        | +2       | +5        | Channel energy 4d8                         | 4              | 4+1 | 3+1 | 2+1 | 1+1 | —   | —   | —   | —   | —   |
+| 8th   | +6/+1             | +6        | +2       | +6        |                                            | 4              | 4+1 | 3+1 | 3+1 | 2+1 | —   | —   | —   | —   | —   |
+| 9th   | +6/+1             | +6        | +3       | +6        | Channel energy 5d8                         | 4              | 4+1 | 4+1 | 3+1 | 2+1 | 1+1 | —   | —   | —   | —   |
+| 10th  | +7/+2             | +7        | +3       | +7        |                                            | 4              | 4+1 | 4+1 | 3+1 | 3+1 | 2+1 | —   | —   | —   | —   |
+| 11th  | +8/+3             | +7        | +3       | +7        | Channel energy 6d8                         | 4              | 4+1 | 4+1 | 4+1 | 3+1 | 2+1 | 1+1 | —   | —   | —   |
+| 12th  | +9/+4             | +8        | +4       | +8        |                                            | 4              | 4+1 | 4+1 | 4+1 | 3+1 | 3+1 | 2+1 | —   | —   | —   |
+| 13th  | +9/+4             | +8        | +4       | +8        | Channel energy 7d8                         | 4              | 4+1 | 4+1 | 4+1 | 4+1 | 3+1 | 2+1 | 1+1 | —   | —   |
+| 14th  | +10/+5            | +9        | +4       | +9        |                                            | 4              | 4+1 | 4+1 | 4+1 | 4+1 | 3+1 | 3+1 | 2+1 | —   | —   |
+| 15th  | +11/+6/+1         | +9        | +5       | +9        | Channel energy 8d8                         | 4              | 4+1 | 4+1 | 4+1 | 4+1 | 4+1 | 3+1 | 2+1 | 1+1 | —   |
+| 16th  | +12/+7/+2         | +10       | +5       | +10       |                                            | 4              | 4+1 | 4+1 | 4+1 | 4+1 | 4+1 | 3+1 | 3+1 | 2+1 | —   |
+| 17th  | +12/+7/+2         | +10       | +5       | +10       | Channel energy 9d8                         | 4              | 4+1 | 4+1 | 4+1 | 4+1 | 4+1 | 4+1 | 3+1 | 2+1 | 1+1 |
+| 18th  | +13/+8/+3         | +11       | +6       | +11       |                                            | 4              | 4+1 | 4+1 | 4+1 | 4+1 | 4+1 | 4+1 | 3+1 | 3+1 | 2+1 |
+| 19th  | +14/+9/+4         | +11       | +6       | +11       | Channel energy 10d8                        | 4              | 4+1 | 4+1 | 4+1 | 4+1 | 4+1 | 4+1 | 4+1 | 3+1 | 3+1 |
+| 20th  | +15/+10/+5        | +12       | +6       | +12       |                                            | 4              | 4+1 | 4+1 | 4+1 | 4+1 | 4+1 | 4+1 | 4+1 | 4+1 | 4+1 |
+
 
 Note: “+1” represents the domain spell slot
 

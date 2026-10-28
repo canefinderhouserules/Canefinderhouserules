@@ -10,18 +10,15 @@ The DC depends on how tricky the device is. If the check succeeds, you disable t
 
 You also can rig simple devices such as saddles or wagon wheels to work normally for a while and then fail or fall off some time later (usually after 1d4 rounds or minutes of use).
 
-<table>
-<thead>
-<tr><th rowspan="2">Device</th><th rowspan="2">Time</th><th colspan="1">Disable</th><th rowspan="2">Example</th></tr>
-<tr><th>Device DC*</th></tr>
-</thead>
-<tbody>
-<tr><td>Simple</td><td>1 round</td><td>10</td><td>Jam a lock</td></tr>
-<tr><td>Tricky</td><td>1d4 rounds</td><td>15</td><td>Sabotage a wagon wheel</td></tr>
-<tr><td>Difficult</td><td>2d4 rounds</td><td>20</td><td>Disarm a trap, reset a trap</td></tr>
-<tr><td>Extreme</td><td>2d4 rounds add 5 to the DC.</td><td>25</td><td>Disarm a complex trap, cleverly sabotage a clockwork device</td></tr>
-</tbody>
-</table>
+
+| Device    | Time                        | Disable     | Example                                                     |
+|-----------|-----------------------------|-------------|-------------------------------------------------------------|
+|           |                             | Device DC\* |                                                             |
+| Simple    | 1 round                     | 10          | Jam a lock                                                  |
+| Tricky    | 1d4 rounds                  | 15          | Sabotage a wagon wheel                                      |
+| Difficult | 2d4 rounds                  | 20          | Disarm a trap, reset a trap                                 |
+| Extreme   | 2d4 rounds add 5 to the DC. | 25          | Disarm a complex trap, cleverly sabotage a clockwork device |
+
 
 * If you attempt to leave behind no trace of your tampering,
 

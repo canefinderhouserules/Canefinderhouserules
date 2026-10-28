@@ -1,6 +1,5 @@
 # Chaos
 
-**Source** [*PRPG Core Rulebook pg. 42*](http://paizo.com/pathfinderRPG/v5748btpy88yj)
 
 
 **Granted Powers**: Your touch infuses life and weapons with chaos, and you revel in all things anarchic.
@@ -11,9 +10,8 @@
 
 **Domain Spells**: 1st—*protection from law*, 2nd—*align weapon* (chaos only), 3rd—*magic circle against law*, 4th—*chaos hammer*, 5th—*dispel law*, 6th—*animate objects*, 7th—*word of chaos*, 8th—*cloak of chaos*, 9th—*summon monster IX* (chaos spell only).
 
-###  <span class="smallcaps">Azata Subdomain</span>
+###  Azata Subdomain
 
-**Source** [*Advanced Player's Guide pg. 1*](http://paizo.com/pathfinderRPG/v5748btpy8fo1)
 
 **Associated Domain(s)**: Chaos, Good
 
@@ -24,9 +22,8 @@
 
 **Replacement Domain Spells**: 1st—*expeditious retreat*, 3rd—*fly*, 6th—*planar ally* (azata only).
 
-### <span class="smallcaps">Demodand Subdomain</span>
+### Demodand Subdomain
 
-**Source** [*Champions of Corruption pg. 19*](http://paizo.com/products/btpy991x?Pathfinder-Player-Companion-Champions-of-Corruption)
 
 **Associated Domain(s)**: Chaos, Evil
 
@@ -35,11 +32,10 @@
 
 *Faith-Stealing Strike (Su)*: You can make a single attack using your highest base attack bonus against a creature capable of casting divine spells. If you damage the creature, it must succeed at a Will save (DC = 10 + 1/2 your cleric level + your Wisdom modifier) or be unable to cast any divine spells for as many rounds as your cleric level. If you do not damage your target with the attack, this ability is expended with no effect. You can use this ability a number of times per day equal to 3 + your Wisdom modifier.
 
-**Replacement Domain Spells**: 2nd—*align weapon* (chaos or evil only), 6th—*corrosive consumption*<sup>UM</sup>.
+**Replacement Domain Spells**: 2nd—*align weapon* (chaos or evil only), 6th—*corrosive consumption*.
 
-###  <span class="smallcaps">Demon Subdomain</span>
+###  Demon Subdomain
 
-**Source** [*Advanced Player's Guide pg. 1*](http://paizo.com/pathfinderRPG/v5748btpy8fo1)
 
 **Associated Domain(s)**: Chaos, Evil
 
@@ -50,7 +46,7 @@
 
 **Replacement Domain Spells**: 1st—*doom*, 3rd—*rage*, 6th—*planar binding* (demons only).
 
-###  <span class="smallcaps">Entropy Subdomain</span>
+###  Entropy Subdomain
 
 
 **Associated Domain(s)**: Chaos
@@ -62,9 +58,8 @@
 
 **Replacement Domain Spells**: 1st—*entropic shield*, 3rd— *dispel magic*, 5th—*confusion*, 7th—*destruction*.
 
-###  <span class="smallcaps">Protean Subdomain</span>
+###  Protean Subdomain
 
-**Source** [*Advanced Player's Guide pg. 1*](http://paizo.com/pathfinderRPG/v5748btpy8fo1)
 
 **Associated Domain(s)**: Chaos
 
@@ -75,7 +70,7 @@
 
 **Replacement Domain Spells**: 1st—*confusion (lesser)*, 3rd—*displacement*, 6th—*planar binding* (proteans only).
 
-###  <span class="smallcaps">Revelry Subdomain</span>
+###  Revelry Subdomain
 
 
 **Associated Domain(s)**: Chaos
@@ -87,9 +82,8 @@
 
 **Replacement Domain Spells**: 2nd—*hideous laughter*, 3rd—*good hope*, 6th—*heroes’ feast*, 8th—*irresistible dance*
 
-###  <span class="smallcaps">Riot Subdomain</span>
+###  Riot Subdomain
 
-**Source** [*Heroes of the Streets pg. 19*](http://paizo.com/products/btpy9ghc?Pathfinder-Player-Companion-Heroes-of-the-Streets)
 
 **Associated Domain(s)**: Chaos
 
@@ -98,9 +92,9 @@
 
 *Aura of Bedlam (Su)*: At 4th level, you can emit a 30-foot-radius aura of chaos and strife for 1 round per cleric level. Enemies in the aura take a –4 penalty on concentration checks and are treated as experiencing vigorous motion (concentration DC = 10 + spell level) when attempting to cast spells. This penalty increases by 1 for every 2 cleric levels you have beyond 4th. This is a mind-affecting effect. These rounds need not be consecutive.
 
-**Replacement Domain Spells**: 4th—*confusion*, 7th—*song of discord*, 9th—*symbol of strife*<sup>UM</sup>.
+**Replacement Domain Spells**: 4th—*confusion*, 7th—*song of discord*, 9th—*symbol of strife*.
 
-### <span class="smallcaps">Whimsy Subdomain</span>
+### Whimsy Subdomain
 
 
 **Associated Domain(s)**: Chaos
@@ -110,17 +104,15 @@
 
 *Unexpected Whimsy (Su)*: As a standard action, you dance, act like a buffoon, or commit some other act of whimsy. When you do, enemies within 30 feet of you that can see and hear you must succeed a Will saving throw (DC = 10 + 1/2 your cleric level + half your Wisdom modifier) or they collapse into gales of manic laughter, falling prone. Those who fail their saving throws can take no actions other than laughing for 1 round, but are not considered helpless. You can use this ability once per day at 6th level and one additional time for every 4 levels you possess beyond 6th.
 
-**Replacement Domain Spells**: 1st—*hideous laughter*, 4th—*confusion*, 6th—*cloak of dreams*<sup>APG</sup>.
+**Replacement Domain Spells**: 1st—*hideous laughter*, 4th—*confusion*, 6th—*cloak of dreams*.
 
 ## Variant Domain Powers
 
-**Description Source**: [***Haunted Heroes Handbook***](http://paizo.com/products/btpy9nft?Pathfinder-Player-Companion-Haunted-Heroes-Handbook)
 
 A cleric (or any other character capable of selecting a domain) who worships the deity in question can choose to gain the variant domain power upon first gaining the domain in question, but the choice to replace the domain power must be made immediately upon gaining access to that domain and cannot be changed thereafter.
 
 ### The God of Freedom
 
-**Source** [*Haunted Heroes Handbook pg. 8*](http://paizo.com/products/btpy9nft?Pathfinder-Player-Companion-Haunted-Heroes-Handbook)
 
 **Associated Domain(s)**: Chaos
 
@@ -130,7 +122,7 @@ The god of freedom stands opposed to any force that denies free will. Servants o
 
 This replaces the touch of chaos domain power of the Chaos domain.
 
-###  *<span class="smallcaps">Riot Subdomain</span>*
+###  *Riot Subdomain*
 
 ***Associated Domain(s)**: Chaos*
 

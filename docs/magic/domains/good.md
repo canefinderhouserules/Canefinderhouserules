@@ -1,6 +1,5 @@
 # Good
 
-***Source** [PRPG Core Rulebook pg. 44](http://paizo.com/pathfinderRPG/v5748btpy88yj)*
 
 
 ***Granted Powers**: You have pledged your life and soul to goodness and purity.*
@@ -11,9 +10,8 @@
 
 ***Domain Spells**: 1st—protection from evil, 2nd—align weapon (good only), 3rd—magic circle against evil, 4th—holy smite, 5th—dispel evil, 6th—blade barrier, 7th—holy word, 8th—holy aura, 9th—summon monster IX (good spell only).*
 
-###  *<span class="smallcaps">Agathion Subdomain</span>*
+###  *Agathion Subdomain*
 
-***Source** [Advanced Player's Guide pg. 1](http://paizo.com/pathfinderRPG/v5748btpy8fo1)*
 
 ***Associated Domain(s)**: Good*
 
@@ -24,9 +22,8 @@
 
 ***Replacement Domain Spells**: 1st—shield of faith, 3rd—tongues, 6th—planar ally (agathions only).*
 
-###  *<span class="smallcaps">Archon Subdomain</span>*
+###  *Archon Subdomain*
 
-***Source** [Advanced Player's Guide pg. 1](http://paizo.com/pathfinderRPG/v5748btpy8fo1)*
 
 ***Associated Domain(s)**: Good, Law*
 
@@ -37,9 +34,8 @@
 
 ***Replacement Domain Spells**: 1st—divine favor, 3rd—prayer, 6th—planar ally (archon only).*
 
-###  *<span class="smallcaps">Azata Subdomain</span>*
+###  *Azata Subdomain*
 
-***Source** [Advanced Player's Guide pg. 1](http://paizo.com/pathfinderRPG/v5748btpy8fo1)*
 
 ***Associated Domain(s)**: Chaos, Good*
 
@@ -50,7 +46,7 @@
 
 ***Replacement Domain Spells**: 1st—expeditious retreat, 3rd—fly, 6th—planar ally (azata only).*
 
-###  *<span class="smallcaps">Friendship Subdomain</span>*
+###  *Friendship Subdomain*
 
 
 ***Associated Domain(s)**: Good*
@@ -62,9 +58,8 @@
 
 ***Replacement Domain Spells**: 2nd—shield other, 5th—telepathic bond.*
 
-###  *<span class="smallcaps">Redemption Subdomain</span>*
+###  *Redemption Subdomain*
 
-***Source** [Champions of Purity pg. 21](http://paizo.com/products/btpy8x1s?Pathfinder-Player-Companion-Champions-of-Purity)*
 
 ***Associated Domain(s)**: Good*
 
@@ -73,4 +68,4 @@
 
 *Redemption (Su): At 4th level, you gain the Change of Heart feat, but you can use it with any type of attack, not only melee.*
 
-***Replacement Domain Spells**: 2nd—qualm<sup>UC</sup>, 4th—forced repentance<sup>APG</sup>, 5th—atonement*
+***Replacement Domain Spells**: 2nd—qualm, 4th—forced repentance, 5th—atonement*

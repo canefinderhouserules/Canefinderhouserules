@@ -1,6 +1,5 @@
 # Trickery
 
-***Source** [PRPG Core Rulebook pg. 48](http://paizo.com/pathfinderRPG/v5748btpy88yj)*
 
 
 ***Granted Powers**: You are a master of illusions and deceptions. Bluff, Disguise, and Stealth are class skills.*
@@ -11,13 +10,13 @@
 
 ***Domain Spells**: 1st—disguise self, 2nd—invisibility, 3rd—nondetection, 4th—confusion, 5th—false vision, 6th—mislead, 7th—screen, 8th—mass invisibility, 9th—time stop.*
 
-### *<span class="smallcaps">Ambush Subdomain</span>*
+### *Ambush Subdomain*
 
 
 ***Associated Domain(s)**: Trickery*
 
 
-***Replacement Power**: Note: Only creatures with the [Kobold Faith](https://www.aonprd.com/TraitDisplay.aspx?ItemName=Kobold%20Faith) trait can take this subdomain.*
+***Replacement Power**: Note: Only creatures with the Kobold Faith trait can take this subdomain.*
 
 *The following granted power replaces the copycat power of the Trickery domain.*
 
@@ -25,9 +24,8 @@
 
 ***Replacement Domain Spells**: 1st—alarm, 5th—illusory wall, 6th—veil.*
 
-###  *<span class="smallcaps">Deception Subdomain</span>*
+###  *Deception Subdomain*
 
-***Source** [Advanced Player's Guide pg. 1](http://paizo.com/pathfinderRPG/v5748btpy8fo1)*
 
 ***Associated Domain(s)**: Trickery*
 
@@ -38,9 +36,8 @@
 
 ***Replacement Domain Spells**: 2nd—mirror image, 7th—project image.*
 
-###  *<span class="smallcaps">Espionage Subdomain</span>*
+###  *Espionage Subdomain*
 
-***Source** [Heroes of the Streets pg. 18](http://paizo.com/products/btpy9ghc?Pathfinder-Player-Companion-Heroes-of-the-Streets)*
 
 ***Associated Domain(s)**: Knowledge, Trickery*
 
@@ -49,11 +46,10 @@
 
 *Deep Cover (Su): When you prepare your spells, you can also choose one cover identity—whether that of a real person or a fictitious one. You can assume the disguise of your cover identity in half the normal amount of time. When targeted by a spell or effect that would compromise your chosen disguise (such as detect evil, detect thoughts, or zone of truth), as an immediate action you can force the creature using the ability to attempt a Will save (DC = 10 + 1/2 your cleric level + your Wisdom modifier). If the creature fails, it gains false information in keeping with your cover identity. You can use this false information ability a number of times per day equal to 3 + your Wisdom modifier.*
 
-***Replacement Domain Spells**: 2nd—anonymous interaction<sup>ACG</sup>, 4th—zone of silence, 8th—mind blank.*
+***Replacement Domain Spells**: 2nd—anonymous interaction, 4th—zone of silence, 8th—mind blank.*
 
-### *<span class="smallcaps">Greed Subdomain</span>*
+### *Greed Subdomain*
 
-***Source** [Champions of Corruption pg. 19](http://paizo.com/products/btpy991x?Pathfinder-Player-Companion-Champions-of-Corruption)*
 
 ***Associated Domain(s)**: Trickery*
 
@@ -62,11 +58,10 @@
 
 *More for Me (Su): When another character within 30 feet casts a spell with a range greater than touch, you can attempt a caster level check as an immediate action (DC = 15 + the spell’s level). If you succeed at the check, you receive the spell’s benefit instead of one of the spell’s intended targets (chosen by you). If you are already a target of the spell, you are affected as though you were targeted by the same spell twice (which may or may not benefit you; remember that bonuses from the same source do not stack). This ability does not grant you knowledge of the spell being cast. You can use this ability a number of times per day equal to 3 + your Wisdom modifier.*
 
-***Replacement Domain Spells**: 2nd—masterwork transformation<sup>UM</sup>, 6th—guards and wards, 8th—create demiplane<sup>UM</sup>.*
+***Replacement Domain Spells**: 2nd—masterwork transformation, 6th—guards and wards, 8th—create demiplane.*
 
-###  *<span class="smallcaps">Innuendo Subdomain</span>*
+###  *Innuendo Subdomain*
 
-***Source** [Champions of Balance pg. 17](http://paizo.com/products/btpy93nc?Pathfinder-Player-Companion-Champions-of-Balance)*
 
 ***Associated Domain(s)**: Trickery*
 
@@ -75,11 +70,10 @@
 
 *Fool’s Privilege (Su): You can use this power as a swift action when you fail a Bluff, Diplomacy, or Intimidate check outside of combat. You suffer no negative effects due to the failed check, and the next round you can attempt the check again without the usual penalty for a failed attempt. You can use this ability once per day, and one additional time per day for every 4 levels beyond 1st.*
 
-***Replacement Domain Spells**: 1st—sow thought<sup>ARG</sup>, 3rd—suggestion, 6th—mass suggestion.*
+***Replacement Domain Spells**: 1st—sow thought, 3rd—suggestion, 6th—mass suggestion.*
 
-###  *<span class="smallcaps">Thievery Subdomain</span>*
+###  *Thievery Subdomain*
 
-***Source** [Advanced Player's Guide pg. 1](http://paizo.com/pathfinderRPG/v5748btpy8fo1)*
 
 ***Associated Domain(s)**: Trickery*
 
@@ -92,13 +86,11 @@
 
 ## Variant Domain Powers
 
-***Description Source**: [**Haunted Heroes Handbook**](http://paizo.com/products/btpy9nft?Pathfinder-Player-Companion-Haunted-Heroes-Handbook)*
 
 *A cleric (or any other character capable of selecting a domain) who worships the deity in question can choose to gain the variant domain power upon first gaining the domain in question, but the choice to replace the domain power must be made immediately upon gaining access to that domain and cannot be changed thereafter.*
 
-###  *<span class="smallcaps">Asmodeus</span>*
+### *Infernal Faith*
 
-***Source** [Haunted Heroes Handbook pg. 8](http://paizo.com/products/btpy9nft?Pathfinder-Player-Companion-Haunted-Heroes-Handbook)*
 
 ***Associated Domain(s)**: Trickery*
 

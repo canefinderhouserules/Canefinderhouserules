@@ -51,34 +51,31 @@ At 3rd level, the paladin can select from the following initial mercies.
 
 **Table 3–11: Paladin**
 
-<table>
-<thead>
-<tr><th rowspan="2">Level</th><th rowspan="2">Base Attack Bonus</th><th rowspan="2">Fort Save</th><th rowspan="2">Ref Save</th><th rowspan="2">Will Save</th><th rowspan="2">Special</th><th colspan="4">Spells per Day</th></tr>
-<tr><th>1st</th><th>2nd</th><th>3rd</th><th>4th</th></tr>
-</thead>
-<tbody>
-<tr><td>1st</td><td>+1</td><td>+2</td><td>+0</td><td>+2</td><td>Aura of good <em>,</em> detect evil, smite evil 1/day</td><td>—</td><td>—</td><td>—</td><td>—</td></tr>
-<tr><td>2nd</td><td>+2</td><td>+3</td><td>+0</td><td>+3</td><td>Divine grace, lay on hands</td><td>—</td><td>—</td><td>—</td><td>—</td></tr>
-<tr><td>3rd</td><td>+3</td><td>+3</td><td>+1</td><td>+3</td><td>Aura of courage, divine health, mercy</td><td>—</td><td>—</td><td>—</td><td>—</td></tr>
-<tr><td>4th</td><td>+4</td><td>+4</td><td>+1</td><td>+4</td><td>Channel positive energy, smite evil 2/day</td><td>0</td><td>—</td><td>—</td><td>—</td></tr>
-<tr><td>5th</td><td>+5</td><td>+4</td><td>+1</td><td>+4</td><td>Divine bond</td><td>1</td><td>—</td><td>—</td><td>—</td></tr>
-<tr><td>6th</td><td>+6/+1</td><td>+5</td><td>+2</td><td>+5</td><td>Mercy</td><td>1</td><td>—</td><td>—</td><td>—</td></tr>
-<tr><td>7th</td><td>+7/+2</td><td>+5</td><td>+2</td><td>+5</td><td>Smite evil 3/day</td><td>1</td><td>0</td><td>—</td><td>—</td></tr>
-<tr><td>8th</td><td>+8/+3</td><td>+6</td><td>+2</td><td>+6</td><td>Aura of resolve</td><td>1</td><td>1</td><td>—</td><td>—</td></tr>
-<tr><td>9th</td><td>+9/+4</td><td>+6</td><td>+3</td><td>+6</td><td>Mercy</td><td>2</td><td>1</td><td>—</td><td>—</td></tr>
-<tr><td>10th</td><td>+10/+5</td><td>+7</td><td>+3</td><td>+7</td><td>Smite evil 4/day</td><td>2</td><td>1</td><td>0</td><td>—</td></tr>
-<tr><td>11th</td><td>+11/+6/+1</td><td>+7</td><td>+3</td><td>+7</td><td>Aura of justice</td><td>2</td><td>1</td><td>1</td><td>—</td></tr>
-<tr><td>12th</td><td>+12/+7/+2</td><td>+8</td><td>+4</td><td>+8</td><td>Mercy</td><td>2</td><td>2</td><td>1</td><td>—</td></tr>
-<tr><td>13th</td><td>+13/+8/+3</td><td>+8</td><td>+4</td><td>+8</td><td>Smite evil 5/day</td><td>3</td><td>2</td><td>1</td><td>0</td></tr>
-<tr><td>14th</td><td>+14/+9/+4</td><td>+9</td><td>+4</td><td>+9</td><td>Aura of faith</td><td>3</td><td>2</td><td>1</td><td>1</td></tr>
-<tr><td>15th</td><td>+15/+10/+5</td><td>+9</td><td>+5</td><td>+9</td><td>Mercy</td><td>3</td><td>2</td><td>2</td><td>1</td></tr>
-<tr><td>16th</td><td>+16/+11/+6/+1</td><td>+10</td><td>+5</td><td>+10</td><td>Smite evil 6/day</td><td>3</td><td>3</td><td>2</td><td>1</td></tr>
-<tr><td>17th</td><td>+17/+12/+7/+2</td><td>+10</td><td>+5</td><td>+10</td><td>Aura of righteousness</td><td>4</td><td>3</td><td>2</td><td>1</td></tr>
-<tr><td>18th</td><td>+18/+13/+8/+3</td><td>+11</td><td>+6</td><td>+11</td><td>Mercy</td><td>4</td><td>3</td><td>2</td><td>2</td></tr>
-<tr><td>19th</td><td>+19/+14/+9/+4</td><td>+11</td><td>+6</td><td>+11</td><td>Smite evil 7/day</td><td>4</td><td>3</td><td>3</td><td>2</td></tr>
-<tr><td>20th</td><td>+20/+15/+10/+5</td><td>+12</td><td>+6</td><td>+12</td><td>Holy champion</td><td>4</td><td>4</td><td>3</td><td>3</td></tr>
-</tbody>
-</table>
+
+| Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special                                        | Spells per Day |     |     |     |
+|-------|-------------------|-----------|----------|-----------|------------------------------------------------|----------------|-----|-----|-----|
+|       |                   |           |          |           |                                                | 1st            | 2nd | 3rd | 4th |
+| 1st   | +1                | +2        | +0       | +2        | Aura of good *,* detect evil, smite evil 1/day | —              | —   | —   | —   |
+| 2nd   | +2                | +3        | +0       | +3        | Divine grace, lay on hands                     | —              | —   | —   | —   |
+| 3rd   | +3                | +3        | +1       | +3        | Aura of courage, divine health, mercy          | —              | —   | —   | —   |
+| 4th   | +4                | +4        | +1       | +4        | Channel positive energy, smite evil 2/day      | 0              | —   | —   | —   |
+| 5th   | +5                | +4        | +1       | +4        | Divine bond                                    | 1              | —   | —   | —   |
+| 6th   | +6/+1             | +5        | +2       | +5        | Mercy                                          | 1              | —   | —   | —   |
+| 7th   | +7/+2             | +5        | +2       | +5        | Smite evil 3/day                               | 1              | 0   | —   | —   |
+| 8th   | +8/+3             | +6        | +2       | +6        | Aura of resolve                                | 1              | 1   | —   | —   |
+| 9th   | +9/+4             | +6        | +3       | +6        | Mercy                                          | 2              | 1   | —   | —   |
+| 10th  | +10/+5            | +7        | +3       | +7        | Smite evil 4/day                               | 2              | 1   | 0   | —   |
+| 11th  | +11/+6/+1         | +7        | +3       | +7        | Aura of justice                                | 2              | 1   | 1   | —   |
+| 12th  | +12/+7/+2         | +8        | +4       | +8        | Mercy                                          | 2              | 2   | 1   | —   |
+| 13th  | +13/+8/+3         | +8        | +4       | +8        | Smite evil 5/day                               | 3              | 2   | 1   | 0   |
+| 14th  | +14/+9/+4         | +9        | +4       | +9        | Aura of faith                                  | 3              | 2   | 1   | 1   |
+| 15th  | +15/+10/+5        | +9        | +5       | +9        | Mercy                                          | 3              | 2   | 2   | 1   |
+| 16th  | +16/+11/+6/+1     | +10       | +5       | +10       | Smite evil 6/day                               | 3              | 3   | 2   | 1   |
+| 17th  | +17/+12/+7/+2     | +10       | +5       | +10       | Aura of righteousness                          | 4              | 3   | 2   | 1   |
+| 18th  | +18/+13/+8/+3     | +11       | +6       | +11       | Mercy                                          | 4              | 3   | 2   | 2   |
+| 19th  | +19/+14/+9/+4     | +11       | +6       | +11       | Smite evil 7/day                               | 4              | 3   | 3   | 2   |
+| 20th  | +20/+15/+10/+5    | +12       | +6       | +12       | Holy champion                                  | 4              | 4   | 3   | 3   |
+
 
 At 9th level, a paladin adds the following mercies to the list of those that can be selected.
 

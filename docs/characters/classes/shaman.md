@@ -59,13 +59,13 @@ Shamans commune with their spirit animals to prepare their spells. Each shaman m
 
 **Orisons**: Shamans can prepare a number of orisons, or 0-level spells, each day as noted on Table 1-9. These spells are cast like any other spell, but they are not expended when cast and may be used again.
 
-**Spirit (Su)**: A shaman forms a mystical bond with the spirits of the world. She forms a lasting bond with a single spirit (see Spirits on page 37), which grants a number of abilities and defines many of her other class features. At 1st level, a shaman gains the spirit ability granted by her chosen spirit. She adds the spells granted by that spirit to the list of spells that she can cast using spirit magic. She also adds the hexes possessed by that spirit to the list of hexes that she can use with the hex and wandering hex class features.
+**Spirit (Su)**: A shaman forms a mystical bond with the spirits of the world. She forms a lasting bond with a single spirit (see Spirits), which grants a number of abilities and defines many of her other class features. At 1st level, a shaman gains the spirit ability granted by her chosen spirit. She adds the spells granted by that spirit to the list of spells that she can cast using spirit magic. She also adds the hexes possessed by that spirit to the list of hexes that she can use with the hex and wandering hex class features.
 
 At 8th level, the shaman gains the abilities listed in the greater version of her selected spirit. At 16th level, the shaman gains the abilities listed for the true version of her selected spirit.
 
 If the shaman takes levels in another class that grants a mystery (such as the oracle), the spirit and mystery must match, even if that means one of them must change. Subject to GM discretion, the shaman can change her former mystery or spirit to make them conform.
 
-**Spirit Animal (Ex)**: At 1st level, a shaman forms a close bond with a spirit animal tied to her chosen spirit. This animal is her conduit to the spirit world, guiding her along the path to enlightenment. The animal also aids a shaman by granting her a special ability. See the Spirit Animal section on page 47.
+**Spirit Animal (Ex)**: At 1st level, a shaman forms a close bond with a spirit animal tied to her chosen spirit. This animal is her conduit to the spirit world, guiding her along the path to enlightenment. The animal also aids a shaman by granting her a special ability. See the Spirit Animal section.
 
 A shaman must commune with her spirit animal each day to prepare her spells. While the spirit animal does not store the spells like a witch's familiar does, the spirit animal serves as her conduit to divine power. If a shaman's spirit animal is slain, she cannot prepare new spells or use her spirit magic class feature until the spirit animal is replaced.
 

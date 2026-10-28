@@ -1,6 +1,5 @@
 # Evil
 
-***Source** [PRPG Core Rulebook pg. 43](http://paizo.com/pathfinderRPG/v5748btpy88yj)*
 
 
 ***Granted Powers**: You are sinister and cruel, and have wholly pledged your soul to the cause of evil.*
@@ -11,9 +10,8 @@
 
 ***Domain Spells**: 1st—protection from good, 2nd—align weapon (evil only), 3rd—magic circle against good, 4th—unholy blight, 5th—dispel good, 6th—create undead, 7th—blasphemy, 8th—unholy aura, 9th—summon monster IX (evil spell only).*
 
-### *<span class="smallcaps">Cannibalism Subdomain</span>*
+### *Cannibalism Subdomain*
 
-***Source** [Champions of Corruption pg. 18](http://paizo.com/products/btpy991x?Pathfinder-Player-Companion-Champions-of-Corruption)*
 
 ***Associated Domain(s)**: Evil*
 
@@ -22,11 +20,10 @@
 
 *Consume the Enemy (Su): You gain a Primary Bite attack, dealing 1d3 points of damage (Medium). By consuming the creature’s flesh on a successful attack (It has to deal damage), as a swift action, you gain a +1 profane bonus on Attack, damage, and saving throw DCs for all spells, spell-like abilities, and supernatural abilities you use against creatures of the same type (and subtype, if humanoid or outsider) as the cannibalized creature. This effect lasts for a number of minutes equal to your cleric level or until you use this ability against a different creature. At 4th, 8th, 12th, and 16th level, this bonus increases by 1 (+5 maximum). You can use this ability a number of times per day equal to 3 + your Wisdom modifier.*
 
-***Replacement Domain Spells**: 1st—magic fang, 2nd— enemy’s heart<sup>ARG</sup>, 3rd—greater magic fang.*
+***Replacement Domain Spells**: 1st—magic fang, 2nd— enemy’s heart, 3rd—greater magic fang.*
 
-### *<span class="smallcaps">Corruption Subdomain</span>*
+### *Corruption Subdomain*
 
-***Source** [Champions of Corruption pg. 18](http://paizo.com/products/btpy991x?Pathfinder-Player-Companion-Champions-of-Corruption)*
 
 ***Associated Domain(s)**: Evil*
 
@@ -37,9 +34,8 @@
 
 ***Replacement Domain Spells**: 2nd—suggestion, 6th—greater bestow curse.*
 
-###  *<span class="smallcaps">Daemon Subdomain</span>*
+###  *Daemon Subdomain*
 
-***Source** [Advanced Player's Guide pg. 1](http://paizo.com/pathfinderRPG/v5748btpy8fo1)*
 
 ***Associated Domain(s)**: Evil*
 
@@ -50,9 +46,8 @@
 
 ***Replacement Domain Spells**: 1st—cause fear, 3rd—vampiric touch, 6th—planar binding (daemons only).*
 
-### *<span class="smallcaps">Demodand Subdomain</span>*
+### *Demodand Subdomain*
 
-***Source** [Champions of Corruption pg. 19](http://paizo.com/products/btpy991x?Pathfinder-Player-Companion-Champions-of-Corruption)*
 
 ***Associated Domain(s)**: Chaos, Evil*
 
@@ -61,11 +56,10 @@
 
 *Faith-Stealing Strike (Su): You can make a single attack using your highest base attack bonus against a creature capable of casting divine spells. If you damage the creature, it must succeed at a Will save (DC = 10 + 1/2 your cleric level + your Wisdom modifier) or be unable to cast any divine spells for as many rounds as your cleric level. If you do not damage your target with the attack, this ability is expended with no effect. You can use this ability a number of times per day equal to 3 + your Wisdom modifier.*
 
-***Replacement Domain Spells**: 2nd—align weapon (chaos or evil only), 6th—corrosive consumption<sup>UM</sup>.*
+***Replacement Domain Spells**: 2nd—align weapon (chaos or evil only), 6th—corrosive consumption.*
 
-###  *<span class="smallcaps">Demon Subdomain</span>*
+###  *Demon Subdomain*
 
-***Source** [Advanced Player's Guide pg. 1](http://paizo.com/pathfinderRPG/v5748btpy8fo1)*
 
 ***Associated Domain(s)**: Chaos, Evil*
 
@@ -76,9 +70,8 @@
 
 ***Replacement Domain Spells**: 1st—doom, 3rd—rage, 6th—planar binding (demons only).*
 
-###  *<span class="smallcaps">Devil Subdomain</span>*
+###  *Devil Subdomain*
 
-***Source** [Advanced Player's Guide pg. 1](http://paizo.com/pathfinderRPG/v5748btpy8fo1)*
 
 ***Associated Domain(s)**: Evil, Law*
 
@@ -89,7 +82,7 @@
 
 ***Replacement Domain Spells**: 1st—command, 3rd—suggestion, 6th—planar binding (devils only).*
 
-###  *<span class="smallcaps">Fear Subdomain</span>*
+###  *Fear Subdomain*
 
 
 ***Associated Domain(s)**: Evil*
@@ -101,22 +94,20 @@
 
 ***Replacement Domain Spells**: 1st—cause fear, 3rd— scare, 4th—fear.*
 
-### *<span class="smallcaps">Kyton Subdomain</span>*
+### *Kyton Subdomain*
 
-***Source** [Champions of Corruption pg. 19](http://paizo.com/products/btpy991x?Pathfinder-Player-Companion-Champions-of-Corruption)*
 
 ***Associated Domain(s)**: Evil, Law*
 
 
 ***Replacement Power**: The following granted power replaces the scythe of evil ability of the Evil domain or the staff of order ability of the Law domain.*
 
-*Pain Is Power (Su): At 4th level, after taking damage from any source, you may attempt a DC 18 concentration check as an immediate action. If you succeed, you gain the benefits of a blessing of fervor<sup>APG</sup> spell for a number of rounds equal to your cleric level. If you fail, this ability is expended with no effect. You can use this ability for a number of times per day equal to your Wisdom modifier.*
+*Pain Is Power (Su): At 4th level, after taking damage from any source, you may attempt a DC 18 concentration check as an immediate action. If you succeed, you gain the benefits of a blessing of fervor spell for a number of rounds equal to your cleric level. If you fail, this ability is expended with no effect. You can use this ability for a number of times per day equal to your Wisdom modifier.*
 
-***Replacement Domain Spells**: 1st—delay pain<sup>UM</sup>, 2nd—instrument of agony<sup>UC</sup>, 3rd—agonize<sup>UM</sup>, 5th—symbol of pain.*
+***Replacement Domain Spells**: 1st—delay pain, 2nd—instrument of agony, 3rd—agonize, 5th—symbol of pain.*
 
-###  *<span class="smallcaps">Plague Subdomain</span>*
+###  *Plague Subdomain*
 
-***Source** [Heroes of the Streets pg. 19](http://paizo.com/products/btpy9ghc?Pathfinder-Player-Companion-Heroes-of-the-Streets)*
 
 ***Associated Domain(s)**: Death, Evil*
 
@@ -125,11 +116,10 @@
 
 *Contagion (Su): As a standard action, you can activate a 30ft aura that works like the Contagion Spell. You can use this ability once per day at 6th level, plus one additional time per day for every four levels beyond 6th.*
 
-***Replacement Domain Spells**: 1st—ray of sickening<sup>UM</sup>, 3rd—contagion, 6th—plague storm<sup>UM</sup>, 8th—horrid wilting.*
+***Replacement Domain Spells**: 1st—ray of sickening, 3rd—contagion, 6th—plague storm, 8th—horrid wilting.*
 
-### *<span class="smallcaps">Sahkil Subdomain</span>*
+### *Sahkil Subdomain*
 
-***Source** [Pathfinder \#143: Borne by the Sun's Grace pg. 61](https://paizo.com/products/btq01vyh)*
 
 ***Associated Domain(s)**: Evil*
 
@@ -138,4 +128,4 @@
 
 *Touch of Paranoia (Su): You can imbue a target with great suspicion and doubt as a melee or ranged touch attack. A creature affected by your touch does not have allies and is not considered to be an ally to any other creature, including other creatures affected by this effect. The affected creature cannot move freely through its allies’ spaces, flank creatures with them, cooperate with them using teamwork feats, or give or receive benefits from the aid another action or any spells or effect that affects only allies. This ability lasts for a number of rounds equal to your cleric level. You can use this ability a number of times per day equal to 3 + your Wisdom modifier.*
 
-***Replacement Domain Spells**: 2nd— [<u>haunting mists</u>](https://www.aonprd.com/SpellDisplay.aspx?ItemName=haunting%20mists), 4th—[<u>they know</u>](https://www.aonprd.com/SpellDisplay.aspx?ItemName=they%20know), 6th— [<u>phobia</u>](https://www.aonprd.com/SpellDisplay.aspx?ItemName=phobia).*
+***Replacement Domain Spells**: 2nd— haunting mists, 4th—they know, 6th— phobia.*

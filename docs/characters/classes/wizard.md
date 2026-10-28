@@ -8,34 +8,31 @@ Beyond the veil of the mundane hide the secrets of absolute power. The works of 
 
 **Table 3–16: Wizard**
 
-<table>
-<thead>
-<tr><th rowspan="2">Level</th><th rowspan="2">Base Attack Bonus</th><th rowspan="2">Fort Save</th><th rowspan="2">Ref Save</th><th rowspan="2">Will Save Special</th><th colspan="10">Spells per Day</th></tr>
-<tr><th>0</th><th>1st</th><th>2nd</th><th>3rd</th><th>4th</th><th>5th</th><th>6th</th><th>7th</th><th>8th</th><th>9th</th></tr>
-</thead>
-<tbody>
-<tr><td>1st</td><td>+0</td><td>+0</td><td>+0</td><td>+2 Arcane bond, arcane school, cantrips, Scribe Scroll</td><td>3</td><td>1</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr>
-<tr><td>2nd</td><td>+1</td><td>+0</td><td>+0</td><td>+3</td><td>4</td><td>2</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr>
-<tr><td>3rd</td><td>+1</td><td>+1</td><td>+1</td><td>+3</td><td>4</td><td>2</td><td>1</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr>
-<tr><td>4th</td><td>+2</td><td>+1</td><td>+1</td><td>+4</td><td>4</td><td>3</td><td>2</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr>
-<tr><td>5th</td><td>+2</td><td>+1</td><td>+1</td><td>+4 Bonus feat</td><td>4</td><td>3</td><td>2</td><td>1</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr>
-<tr><td>6th</td><td>+3</td><td>+2</td><td>+2</td><td>+5</td><td>4</td><td>3</td><td>3</td><td>2</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr>
-<tr><td>7th</td><td>+3</td><td>+2</td><td>+2</td><td>+5</td><td>4</td><td>4</td><td>3</td><td>2</td><td>1</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr>
-<tr><td>8th</td><td>+4</td><td>+2</td><td>+2</td><td>+6</td><td>4</td><td>4</td><td>3</td><td>3</td><td>2</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr>
-<tr><td>9th</td><td>+4</td><td>+3</td><td>+3</td><td>+6</td><td>4</td><td>4</td><td>4</td><td>3</td><td>2</td><td>1</td><td>—</td><td>—</td><td>—</td><td>—</td></tr>
-<tr><td>10th</td><td>+5</td><td>+3</td><td>+3</td><td>+7 Bonus feat</td><td>4</td><td>4</td><td>4</td><td>3</td><td>3</td><td>2</td><td>—</td><td>—</td><td>—</td><td>—</td></tr>
-<tr><td>11th</td><td>+5</td><td>+3</td><td>+3</td><td>+7</td><td>4</td><td>4</td><td>4</td><td>4</td><td>3</td><td>2</td><td>1</td><td>—</td><td>—</td><td>—</td></tr>
-<tr><td>12th</td><td>+6/+1</td><td>+4</td><td>+4</td><td>+8</td><td>4</td><td>4</td><td>4</td><td>4</td><td>3</td><td>3</td><td>2</td><td>—</td><td>—</td><td>—</td></tr>
-<tr><td>13th</td><td>+6/+1</td><td>+4</td><td>+4</td><td>+8</td><td>4</td><td>4</td><td>4</td><td>4</td><td>4</td><td>3</td><td>2</td><td>1</td><td>—</td><td>—</td></tr>
-<tr><td>14th</td><td>+7/+2</td><td>+4</td><td>+4</td><td>+9</td><td>4</td><td>4</td><td>4</td><td>4</td><td>4</td><td>3</td><td>3</td><td>2</td><td>—</td><td>—</td></tr>
-<tr><td>15th</td><td>+7/+2</td><td>+5</td><td>+5</td><td>+9 Bonus feat</td><td>4</td><td>4</td><td>4</td><td>4</td><td>4</td><td>4</td><td>3</td><td>2</td><td>1</td><td>—</td></tr>
-<tr><td>16th</td><td>+8/+3</td><td>+5</td><td>+5</td><td>+10</td><td>4</td><td>4</td><td>4</td><td>4</td><td>4</td><td>4</td><td>3</td><td>3</td><td>2</td><td>—</td></tr>
-<tr><td>17th</td><td>+8/+3</td><td>+5</td><td>+5</td><td>+10</td><td>4</td><td>4</td><td>4</td><td>4</td><td>4</td><td>4</td><td>4</td><td>3</td><td>2</td><td>1</td></tr>
-<tr><td>18th</td><td>+9/+4</td><td>+6</td><td>+6</td><td>+11</td><td>4</td><td>4</td><td>4</td><td>4</td><td>4</td><td>4</td><td>4</td><td>3</td><td>3</td><td>2</td></tr>
-<tr><td>19th</td><td>+9/+4</td><td>+6</td><td>+6</td><td>+11</td><td>4</td><td>4</td><td>4</td><td>4</td><td>4</td><td>4</td><td>4</td><td>4</td><td>3</td><td>3</td></tr>
-<tr><td>20th</td><td>+10/+5</td><td>+6</td><td>+6</td><td>+12 Bonus feat</td><td>4</td><td>4</td><td>4</td><td>4</td><td>4</td><td>4</td><td>4</td><td>4</td><td>4</td><td>4</td></tr>
-</tbody>
-</table>
+
+| Level | Base Attack Bonus | Fort Save | Ref Save | Will Save Special                                      | Spells per Day |     |     |     |     |     |     |     |     |     |
+|-------|-------------------|-----------|----------|--------------------------------------------------------|----------------|-----|-----|-----|-----|-----|-----|-----|-----|-----|
+|       |                   |           |          |                                                        | 0              | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
+| 1st   | +0                | +0        | +0       | +2 Arcane bond, arcane school, cantrips, Scribe Scroll | 3              | 1   | —   | —   | —   | —   | —   | —   | —   | —   |
+| 2nd   | +1                | +0        | +0       | +3                                                     | 4              | 2   | —   | —   | —   | —   | —   | —   | —   | —   |
+| 3rd   | +1                | +1        | +1       | +3                                                     | 4              | 2   | 1   | —   | —   | —   | —   | —   | —   | —   |
+| 4th   | +2                | +1        | +1       | +4                                                     | 4              | 3   | 2   | —   | —   | —   | —   | —   | —   | —   |
+| 5th   | +2                | +1        | +1       | +4 Bonus feat                                          | 4              | 3   | 2   | 1   | —   | —   | —   | —   | —   | —   |
+| 6th   | +3                | +2        | +2       | +5                                                     | 4              | 3   | 3   | 2   | —   | —   | —   | —   | —   | —   |
+| 7th   | +3                | +2        | +2       | +5                                                     | 4              | 4   | 3   | 2   | 1   | —   | —   | —   | —   | —   |
+| 8th   | +4                | +2        | +2       | +6                                                     | 4              | 4   | 3   | 3   | 2   | —   | —   | —   | —   | —   |
+| 9th   | +4                | +3        | +3       | +6                                                     | 4              | 4   | 4   | 3   | 2   | 1   | —   | —   | —   | —   |
+| 10th  | +5                | +3        | +3       | +7 Bonus feat                                          | 4              | 4   | 4   | 3   | 3   | 2   | —   | —   | —   | —   |
+| 11th  | +5                | +3        | +3       | +7                                                     | 4              | 4   | 4   | 4   | 3   | 2   | 1   | —   | —   | —   |
+| 12th  | +6/+1             | +4        | +4       | +8                                                     | 4              | 4   | 4   | 4   | 3   | 3   | 2   | —   | —   | —   |
+| 13th  | +6/+1             | +4        | +4       | +8                                                     | 4              | 4   | 4   | 4   | 4   | 3   | 2   | 1   | —   | —   |
+| 14th  | +7/+2             | +4        | +4       | +9                                                     | 4              | 4   | 4   | 4   | 4   | 3   | 3   | 2   | —   | —   |
+| 15th  | +7/+2             | +5        | +5       | +9 Bonus feat                                          | 4              | 4   | 4   | 4   | 4   | 4   | 3   | 2   | 1   | —   |
+| 16th  | +8/+3             | +5        | +5       | +10                                                    | 4              | 4   | 4   | 4   | 4   | 4   | 3   | 3   | 2   | —   |
+| 17th  | +8/+3             | +5        | +5       | +10                                                    | 4              | 4   | 4   | 4   | 4   | 4   | 4   | 3   | 2   | 1   |
+| 18th  | +9/+4             | +6        | +6       | +11                                                    | 4              | 4   | 4   | 4   | 4   | 4   | 4   | 3   | 3   | 2   |
+| 19th  | +9/+4             | +6        | +6       | +11                                                    | 4              | 4   | 4   | 4   | 4   | 4   | 4   | 4   | 3   | 3   |
+| 20th  | +10/+5            | +6        | +6       | +12 Bonus feat                                         | 4              | 4   | 4   | 4   | 4   | 4   | 4   | 4   | 4   | 4   |
+
 
 ## Class Skills
 
@@ -219,24 +216,21 @@ Damage equals that of a normal creature of the familiar’s kind.
 
 **Familiar Ability Descriptions**: All familiars have special abilities (or impart abilities to their masters) depending on the master’s combined level in classes that grant familiars, as shown on the table below. The abilities are cumulative.
 
-<table>
-<thead>
-<tr><th rowspan="2">Master Class Level</th><th colspan="1">Natural</th><th rowspan="2">Int</th><th rowspan="2">Special</th></tr>
-<tr><th>Armor Adj.</th></tr>
-</thead>
-<tbody>
-<tr><td>1st–2nd</td><td>+1</td><td>6</td><td>Alertness, improved evasion, share spells, empathic link</td></tr>
-<tr><td>3rd–4th</td><td>+2</td><td>7</td><td>Deliver touch spells</td></tr>
-<tr><td>5th–6th</td><td>+3</td><td>8</td><td>Speak with master</td></tr>
-<tr><td>7th–8th</td><td>+4</td><td>9</td><td>Speak with animals of its kind</td></tr>
-<tr><td>9th–10th</td><td>+5</td><td>10</td><td>—</td></tr>
-<tr><td>11th–12th</td><td>+6</td><td>11</td><td>Spell resistance</td></tr>
-<tr><td>13th–14th</td><td>+7</td><td>12</td><td>Scry on familiar</td></tr>
-<tr><td>15th–16th</td><td>+8</td><td>13</td><td>—</td></tr>
-<tr><td>17th–18th</td><td>+9</td><td>14</td><td>—</td></tr>
-<tr><td>19th–20th</td><td>+10</td><td>15</td><td>—</td></tr>
-</tbody>
-</table>
+
+| Master Class Level | Natural    | Int | Special                                                  |
+|--------------------|------------|-----|----------------------------------------------------------|
+|                    | Armor Adj. |     |                                                          |
+| 1st–2nd            | +1         | 6   | Alertness, improved evasion, share spells, empathic link |
+| 3rd–4th            | +2         | 7   | Deliver touch spells                                     |
+| 5th–6th            | +3         | 8   | Speak with master                                        |
+| 7th–8th            | +4         | 9   | Speak with animals of its kind                           |
+| 9th–10th           | +5         | 10  | —                                                        |
+| 11th–12th          | +6         | 11  | Spell resistance                                         |
+| 13th–14th          | +7         | 12  | Scry on familiar                                         |
+| 15th–16th          | +8         | 13  | —                                                        |
+| 17th–18th          | +9         | 14  | —                                                        |
+| 19th–20th          | +10        | 15  | —                                                        |
+
 
 *Natural Armor Adj.*: The number noted here is in addition to the familiar’s existing natural armor bonus.
 

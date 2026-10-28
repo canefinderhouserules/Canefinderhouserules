@@ -434,7 +434,7 @@ You can use this ability once per day. You must be 11th level to select this rev
 
 **Tracer Touch (Sp)**: Once per day, you can touch a creature or object and plant a scrying sensor on it, as if you had cast *vicarious view*. At 15th level, you can use this ability twice per day. You must be at least 11th level to select this revelation.
 
-**Veiled Venom (Sp)**: The powers of intrigue veil your poisons and magic items from magical scrutiny. As a standard action, you can touch an object, granting it the benefits of the spells *magic aura* and *obscure poison* (see page 220). You can use this ability at will, but each time you do, the effects of any previous use end.
+**Veiled Venom (Sp)**: The powers of intrigue veil your poisons and magic items from magical scrutiny. As a standard action, you can touch an object, granting it the benefits of the spells *magic aura* and *obscure poison*. You can use this ability at will, but each time you do, the effects of any previous use end.
 
 **Whispered Glimpses (Su)**: The whispers of intrigue sing to you with glimpses of insight into others’ presence and motives, granting you greater awareness than your own senses could manage. You can add your Charisma modifier instead of your Wisdom bonus on Perception and Sense Motive checks.
 

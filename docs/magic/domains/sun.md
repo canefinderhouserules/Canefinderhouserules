@@ -1,6 +1,5 @@
 # Sun
 
-***Source** [PRPG Core Rulebook pg. 47](http://paizo.com/pathfinderRPG/v5748btpy88yj)*
 
 
 ***Granted Powers**: You see truth in the pure and burning light of the sun, and can call upon its blessing or wrath to work great deeds.*
@@ -11,9 +10,8 @@
 
 ***Domain Spells**: 1st—endure elements, 2nd—heat metal, 3rd—searing light, 4th—fire shield, 5th—flame strike, 6th—fire seeds, 7th—sunbeam, 8th—sunburst, 9th—prismatic sphere.*
 
-###  *<span class="smallcaps">Day Subdomain</span>*
+###  *Day Subdomain*
 
-***Source** [Advanced Player's Guide pg. 1](http://paizo.com/pathfinderRPG/v5748btpy8fo1)*
 
 ***Associated Domain(s)**: Sun*
 
@@ -24,9 +22,8 @@
 
 ***Replacement Domain Spells**: 2nd—continual flame, 3rd—daylight.*
 
-###  *<span class="smallcaps">Light Subdomain</span>*
+###  *Light Subdomain*
 
-***Source** [Advanced Player's Guide pg. 1](http://paizo.com/pathfinderRPG/v5748btpy8fo1)*
 
 ***Associated Domain(s)**: Sun*
 
@@ -37,9 +34,8 @@
 
 ***Replacement Domain Spells**: 1st—faerie fire, 3rd—daylight.*
 
-###  *<span class="smallcaps">Revelation Subdomain</span>*
+###  *Revelation Subdomain*
 
-***Source** [Champions of Purity pg. 21](http://paizo.com/products/btpy8x1s?Pathfinder-Player-Companion-Champions-of-Purity)*
 
 ***Associated Domain(s)**: Sun*
 
@@ -48,13 +44,12 @@
 
 *Guided Eyes (Su): Perception is always a class skill for you. In addition, whenever you make a skill check to see through a disguise or find something that is hidden or concealed, you gain a +4 sacred bonus on the check.*
 
-***Replacement Domain Spells**: 1st—detect secret doors, 2nd—see invisibility, 3rd—banish seeming<sup>APG</sup>, 5th—true seeing*
+***Replacement Domain Spells**: 1st—detect secret doors, 2nd—see invisibility, 3rd—banish seeming, 5th—true seeing*
 
-###  *<span class="smallcaps">Thirst Subdomain</span>*
+###  *Thirst Subdomain*
 
-***Source** [Divine Anthology pg. 26](http://paizo.com/products/btpy9nvh?Pathfinder-Player-Companion-Divine-Anthology)*
 
-*This subdomain requires the [Acolyte of Apocrypha](https://www.aonprd.com/TraitDisplay.aspx?ItemName=Acolyte%20of%20Apocrypha) trait to access.*
+*This subdomain requires the Acolyte of Apocrypha trait to access.*
 
 ***Associated Domain(s)**: Sun*
 
@@ -65,4 +60,4 @@
 
 *Withering Nimbus (Su): This ability functions as the nimbus of light domain ability, but it damages plants and creatures with the aquatic or water subtype, not undead.*
 
-***Replacement Domain Spells**: 3rd—cup of dust<sup>APG</sup>, 9th—horrid wilting.*
+***Replacement Domain Spells**: 3rd—cup of dust, 9th—horrid wilting.*

@@ -290,7 +290,7 @@ A shaman who selects the nature spirit takes on an appearance that reflects the 
 
 **Stormwalker (Su)**: The shaman can move through nonmagical fog, rain, mist, snow, and other environmental effects without penalty (see Weather, Core Rulebook 437). She is never slowed by such effects, and she doesn't need to attempt Acrobatics skill checks to move across such surfaces. She can also move through magical environmental effects that she created. At 10th level, the shaman can see twice as far as normal through environmental effects, whether or not they are magical in nature.
 
-**Spirit Animal**: The shaman's spirit animal looks feral, and appears to be in peak physical form. The animal can move through any sort of undergrowth or natural difficult terrain at its normal speed without taking damage or suffering any other impairment. If the animal has a fly speed, it can ignore the penalty on Fly skill checks for winds up to windstorm strength (see page 439 of the Core Rulebook).
+**Spirit Animal**: The shaman's spirit animal looks feral, and appears to be in peak physical form. The animal can move through any sort of undergrowth or natural difficult terrain at its normal speed without taking damage or suffering any other impairment. If the animal has a fly speed, it can ignore the penalty on Fly skill checks for winds up to windstorm strength (see the Core Rulebook).
 
 **Spirit Ability**: A shaman who chooses the nature spirit as her spirit or wandering spirit gains the following ability.
 
@@ -548,7 +548,7 @@ A spirit animal can be imbued with only one spell at a time in this manner. If t
 
 ## Spirit Animal
 
-By communing with the incredible powers of her spirit, the shaman forges a cherished bond with one specific servant of that spirit-known as a spirit animal. A spirit animal is a creature chosen by a shaman to serve as a conduit, allowing her to more fully access the magic of her spirit on a daily basis. The shaman's spirit animal also grants her special powers. This ability uses the same rules as the wizard's arcane bond class feature and is treated as a familiar (see pages 78 and 82 of the Core Rulebook), except as noted below.
+By communing with the incredible powers of her spirit, the shaman forges a cherished bond with one specific servant of that spirit-known as a spirit animal. A spirit animal is a creature chosen by a shaman to serve as a conduit, allowing her to more fully access the magic of her spirit on a daily basis. The shaman's spirit animal also grants her special powers. This ability uses the same rules as the wizard's arcane bond class feature and is treated as a familiar (see the Core Rulebook), except as noted below.
 
 A shaman uses her level as her effective wizard level when determining the abilities of her spirit animal. A shaman can select any familiar available to wizards to serve as her spirit animal, although her spirit animal is augmented by the power of her chosen spirit. Once selected, the spirit animal cannot be changed. Although a shaman's spirit animal uses the statistics of a specific animal, it is treated as an outsider with the native subtype for the purposes of spells and abilities that affect it.
 

@@ -38,34 +38,31 @@ A druid must spend 1 hour each day in a trance-like meditation on the mysteries 
 
 **Table 3–7: Druid**
 
-<table>
-<thead>
-<tr><th rowspan="2">Level</th><th rowspan="2">Base Attack Bonus</th><th rowspan="2">Fort Save</th><th rowspan="2">Ref Save</th><th rowspan="2">Will Save</th><th rowspan="2">Special</th><th colspan="10">Spells per Day</th></tr>
-<tr><th>0</th><th>1st</th><th>2nd</th><th>3rd</th><th>4th</th><th>5th</th><th>6th</th><th>7th</th><th>8th</th><th>9th</th></tr>
-</thead>
-<tbody>
-<tr><td>1st</td><td>+0</td><td>+2</td><td>+0</td><td>+2</td><td>Nature bond, nature sense, orisons, wild empathy</td><td>3</td><td>1</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr>
-<tr><td>2nd</td><td>+1</td><td>+3</td><td>+0</td><td>+3</td><td>Woodland stride</td><td>4</td><td>2</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr>
-<tr><td>3rd</td><td>+2</td><td>+3</td><td>+1</td><td>+3</td><td>Trackless step</td><td>4</td><td>2</td><td>1</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr>
-<tr><td>4th</td><td>+3</td><td>+4</td><td>+1</td><td>+4</td><td>Resist nature’s lure, Wild shape (1/day)</td><td>4</td><td>3</td><td>2</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr>
-<tr><td>5th</td><td>+3</td><td>+4</td><td>+1</td><td>+4</td><td></td><td>4</td><td>3</td><td>2</td><td>1</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr>
-<tr><td>6th</td><td>+4</td><td>+5</td><td>+2</td><td>+5</td><td>Wild shape (2/day)</td><td>4</td><td>3</td><td>3</td><td>2</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr>
-<tr><td>7th</td><td>+5</td><td>+5</td><td>+2</td><td>+5</td><td></td><td>4</td><td>4</td><td>3</td><td>2</td><td>1</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr>
-<tr><td>8th</td><td>+6/+1</td><td>+6</td><td>+2</td><td>+6</td><td>Wild shape (3/day)</td><td>4</td><td>4</td><td>3</td><td>3</td><td>2</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr>
-<tr><td>9th</td><td>+6/+1</td><td>+6</td><td>+3</td><td>+6</td><td>Venom immunity</td><td>4</td><td>4</td><td>4</td><td>3</td><td>2</td><td>1</td><td>—</td><td>—</td><td>—</td><td>—</td></tr>
-<tr><td>10th</td><td>+7/+2</td><td>+7</td><td>+3</td><td>+7</td><td>Wild shape (4/day)</td><td>4</td><td>4</td><td>4</td><td>3</td><td>3</td><td>2</td><td>—</td><td>—</td><td>—</td><td>—</td></tr>
-<tr><td>11th</td><td>+8/+3</td><td>+7</td><td>+3</td><td>+7</td><td></td><td>4</td><td>4</td><td>4</td><td>4</td><td>3</td><td>2</td><td>1</td><td>—</td><td>—</td><td>—</td></tr>
-<tr><td>12th</td><td>+9/+4</td><td>+8</td><td>+4</td><td>+8</td><td>Wild shape (5/day)</td><td>4</td><td>4</td><td>4</td><td>4</td><td>3</td><td>3</td><td>2</td><td>—</td><td>—</td><td>—</td></tr>
-<tr><td>13th</td><td>+9/+4</td><td>+8</td><td>+4</td><td>+8</td><td>A thousand faces</td><td>4</td><td>4</td><td>4</td><td>4</td><td>4</td><td>3</td><td>2</td><td>1</td><td>—</td><td>—</td></tr>
-<tr><td>14th</td><td>+10/+5</td><td>+9</td><td>+4</td><td>+9</td><td>Wild shape (6/day)</td><td>4</td><td>4</td><td>4</td><td>4</td><td>4</td><td>3</td><td>3</td><td>2</td><td>—</td><td>—</td></tr>
-<tr><td>15th</td><td>+11/+6/+1</td><td>+9</td><td>+5</td><td>+9</td><td>Timeless body</td><td>4</td><td>4</td><td>4</td><td>4</td><td>4</td><td>4</td><td>3</td><td>2</td><td>1</td><td>—</td></tr>
-<tr><td>16th</td><td>+12/+7/+2</td><td>+10</td><td>+5</td><td>+10</td><td>Wild shape (7/day)</td><td>4</td><td>4</td><td>4</td><td>4</td><td>4</td><td>4</td><td>3</td><td>3</td><td>2</td><td>—</td></tr>
-<tr><td>17th</td><td>+12/+7/+2</td><td>+10</td><td>+5</td><td>+10</td><td></td><td>4</td><td>4</td><td>4</td><td>4</td><td>4</td><td>4</td><td>4</td><td>3</td><td>2</td><td>1</td></tr>
-<tr><td>18th</td><td>+13/+8/+3</td><td>+11</td><td>+6</td><td>+11</td><td>Wild shape (8/day)</td><td>4</td><td>4</td><td>4</td><td>4</td><td>4</td><td>4</td><td>4</td><td>3</td><td>3</td><td>2</td></tr>
-<tr><td>19th</td><td>+14/+9/+4</td><td>+11</td><td>+6</td><td>+11</td><td></td><td>4</td><td>4</td><td>4</td><td>4</td><td>4</td><td>4</td><td>4</td><td>4</td><td>3</td><td>3</td></tr>
-<tr><td>20th</td><td>+15/+10/+5</td><td>+12</td><td>+6</td><td>+12</td><td>Wild shape (at will)</td><td>4</td><td>4</td><td>4</td><td>4</td><td>4</td><td>4</td><td>4</td><td>4</td><td>4</td><td>4</td></tr>
-</tbody>
-</table>
+
+| Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special                                          | Spells per Day |     |     |     |     |     |     |     |     |     |
+|-------|-------------------|-----------|----------|-----------|--------------------------------------------------|----------------|-----|-----|-----|-----|-----|-----|-----|-----|-----|
+|       |                   |           |          |           |                                                  | 0              | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
+| 1st   | +0                | +2        | +0       | +2        | Nature bond, nature sense, orisons, wild empathy | 3              | 1   | —   | —   | —   | —   | —   | —   | —   | —   |
+| 2nd   | +1                | +3        | +0       | +3        | Woodland stride                                  | 4              | 2   | —   | —   | —   | —   | —   | —   | —   | —   |
+| 3rd   | +2                | +3        | +1       | +3        | Trackless step                                   | 4              | 2   | 1   | —   | —   | —   | —   | —   | —   | —   |
+| 4th   | +3                | +4        | +1       | +4        | Resist nature’s lure, Wild shape (1/day)         | 4              | 3   | 2   | —   | —   | —   | —   | —   | —   | —   |
+| 5th   | +3                | +4        | +1       | +4        |                                                  | 4              | 3   | 2   | 1   | —   | —   | —   | —   | —   | —   |
+| 6th   | +4                | +5        | +2       | +5        | Wild shape (2/day)                               | 4              | 3   | 3   | 2   | —   | —   | —   | —   | —   | —   |
+| 7th   | +5                | +5        | +2       | +5        |                                                  | 4              | 4   | 3   | 2   | 1   | —   | —   | —   | —   | —   |
+| 8th   | +6/+1             | +6        | +2       | +6        | Wild shape (3/day)                               | 4              | 4   | 3   | 3   | 2   | —   | —   | —   | —   | —   |
+| 9th   | +6/+1             | +6        | +3       | +6        | Venom immunity                                   | 4              | 4   | 4   | 3   | 2   | 1   | —   | —   | —   | —   |
+| 10th  | +7/+2             | +7        | +3       | +7        | Wild shape (4/day)                               | 4              | 4   | 4   | 3   | 3   | 2   | —   | —   | —   | —   |
+| 11th  | +8/+3             | +7        | +3       | +7        |                                                  | 4              | 4   | 4   | 4   | 3   | 2   | 1   | —   | —   | —   |
+| 12th  | +9/+4             | +8        | +4       | +8        | Wild shape (5/day)                               | 4              | 4   | 4   | 4   | 3   | 3   | 2   | —   | —   | —   |
+| 13th  | +9/+4             | +8        | +4       | +8        | A thousand faces                                 | 4              | 4   | 4   | 4   | 4   | 3   | 2   | 1   | —   | —   |
+| 14th  | +10/+5            | +9        | +4       | +9        | Wild shape (6/day)                               | 4              | 4   | 4   | 4   | 4   | 3   | 3   | 2   | —   | —   |
+| 15th  | +11/+6/+1         | +9        | +5       | +9        | Timeless body                                    | 4              | 4   | 4   | 4   | 4   | 4   | 3   | 2   | 1   | —   |
+| 16th  | +12/+7/+2         | +10       | +5       | +10       | Wild shape (7/day)                               | 4              | 4   | 4   | 4   | 4   | 4   | 3   | 3   | 2   | —   |
+| 17th  | +12/+7/+2         | +10       | +5       | +10       |                                                  | 4              | 4   | 4   | 4   | 4   | 4   | 4   | 3   | 2   | 1   |
+| 18th  | +13/+8/+3         | +11       | +6       | +11       | Wild shape (8/day)                               | 4              | 4   | 4   | 4   | 4   | 4   | 4   | 3   | 3   | 2   |
+| 19th  | +14/+9/+4         | +11       | +6       | +11       |                                                  | 4              | 4   | 4   | 4   | 4   | 4   | 4   | 4   | 3   | 3   |
+| 20th  | +15/+10/+5        | +12       | +6       | +12       | Wild shape (at will)                             | 4              | 4   | 4   | 4   | 4   | 4   | 4   | 4   | 4   | 4   |
+
 
 **Bonus Languages**: A druid’s bonus language options include Sylvan, the language of woodland creatures. This choice is in addition to the bonus languages available to the character because of her race.
 
@@ -129,33 +126,30 @@ An animal companion’s abilities are determined by the druid’s level and its 
 
 **Table 3–8: Animal Companion Base Statistics**
 
-<table>
-<thead>
-<tr><th>Class Level</th><th>HD</th><th>BAB</th><th>Fort</th><th>Ref</th><th>Will</th><th>Skills</th><th>Feats</th><th>Natural Armor Bonus</th><th>Str/Dex Bonus</th><th>Bonus Tricks</th><th>Special</th></tr>
-</thead>
-<tbody>
-<tr><td>1st</td><td>2</td><td>+1</td><td>+3</td><td>+3</td><td>+0</td><td>2</td><td>1</td><td>+0</td><td>+0</td><td>1</td><td>Link, share spells</td></tr>
-<tr><td>2nd</td><td>3</td><td>+2</td><td>+3</td><td>+3</td><td>+1</td><td>3</td><td>2</td><td>+0</td><td>+0</td><td>1</td><td>—</td></tr>
-<tr><td>3rd</td><td>3</td><td>+2</td><td>+3</td><td>+3</td><td>+1</td><td>3</td><td>2</td><td>+2</td><td>+1</td><td>2</td><td>Evasion</td></tr>
-<tr><td>4th</td><td>4</td><td>+3</td><td>+4</td><td>+4</td><td>+1</td><td>4</td><td>2</td><td>+2</td><td>+1</td><td>2</td><td>Ability score increase</td></tr>
-<tr><td>5th</td><td>5</td><td>+3</td><td>+4</td><td>+4</td><td>+1</td><td>5</td><td>3</td><td>+2</td><td>+1</td><td>2</td><td>—</td></tr>
-<tr><td>6th</td><td>6</td><td>+4</td><td>+5</td><td>+5</td><td>+2</td><td>6</td><td>3</td><td>+4</td><td>+2</td><td>3</td><td>Devotion</td></tr>
-<tr><td>7th</td><td>6</td><td>+4</td><td>+5</td><td>+5</td><td>+2</td><td>6</td><td>3</td><td>+4</td><td>+2</td><td>3</td><td>—</td></tr>
-<tr><td>8th</td><td>7</td><td>+5</td><td>+5</td><td>+5</td><td>+2</td><td>7</td><td>4</td><td>+4</td><td>+2</td><td>3</td><td>—</td></tr>
-<tr><td>9th</td><td>8</td><td>+6</td><td>+6</td><td>+6</td><td>+2</td><td>8</td><td>4</td><td>+6</td><td>+3</td><td>4</td><td>Ability score increase, Multiattack</td></tr>
-<tr><td>10th</td><td>9</td><td>+6</td><td>+6</td><td>+6</td><td>+3</td><td>9</td><td>5</td><td>+6</td><td>+3</td><td>4</td><td>—</td></tr>
-<tr><td>11th</td><td>9</td><td>+6</td><td>+6</td><td>+6</td><td>+3</td><td>9</td><td>5</td><td>+6</td><td>+3</td><td>4</td><td>—</td></tr>
-<tr><td>12th</td><td>10</td><td>+7</td><td>+7</td><td>+7</td><td>+3</td><td>10</td><td>5</td><td>+8</td><td>+4</td><td>5</td><td>—</td></tr>
-<tr><td>13th</td><td>11</td><td>+8</td><td>+7</td><td>+7</td><td>+3</td><td>11</td><td>6</td><td>+8</td><td>+4</td><td>5</td><td>—</td></tr>
-<tr><td>14th</td><td>12</td><td>+9</td><td>+8</td><td>+8</td><td>+4</td><td>12</td><td>6</td><td>+8</td><td>+4</td><td>5</td><td>Ability score increase</td></tr>
-<tr><td>15th</td><td>12</td><td>+9</td><td>+8</td><td>+8</td><td>+4</td><td>12</td><td>6</td><td>+10</td><td>+5</td><td>6</td><td>Improved evasion</td></tr>
-<tr><td>16th</td><td>13</td><td>+9</td><td>+8</td><td>+8</td><td>+4</td><td>13</td><td>7</td><td>+10</td><td>+5</td><td>6</td><td>—</td></tr>
-<tr><td>17th</td><td>14</td><td>+10</td><td>+9</td><td>+9</td><td>+4</td><td>14</td><td>7</td><td>+10</td><td>+5</td><td>6</td><td>—</td></tr>
-<tr><td>18th</td><td>15</td><td>+11</td><td>+9</td><td>+9</td><td>+5</td><td>15</td><td>8</td><td>+12</td><td>+6</td><td>7</td><td>—</td></tr>
-<tr><td>19th</td><td>15</td><td>+11</td><td>+9</td><td>+9</td><td>+5</td><td>15</td><td>8</td><td>+12</td><td>+6</td><td>7</td><td>—</td></tr>
-<tr><td>20th</td><td>16</td><td>+12</td><td>+10</td><td>+10</td><td>+5</td><td>16</td><td>8</td><td>+12</td><td>+6</td><td>7</td><td>Ability score increase</td></tr>
-</tbody>
-</table>
+
+| Class Level | HD  | BAB | Fort | Ref | Will | Skills | Feats | Natural Armor Bonus | Str/Dex Bonus | Bonus Tricks | Special                             |
+|-------------|-----|-----|------|-----|------|--------|-------|---------------------|---------------|--------------|-------------------------------------|
+| 1st         | 2   | +1  | +3   | +3  | +0   | 2      | 1     | +0                  | +0            | 1            | Link, share spells                  |
+| 2nd         | 3   | +2  | +3   | +3  | +1   | 3      | 2     | +0                  | +0            | 1            | —                                   |
+| 3rd         | 3   | +2  | +3   | +3  | +1   | 3      | 2     | +2                  | +1            | 2            | Evasion                             |
+| 4th         | 4   | +3  | +4   | +4  | +1   | 4      | 2     | +2                  | +1            | 2            | Ability score increase              |
+| 5th         | 5   | +3  | +4   | +4  | +1   | 5      | 3     | +2                  | +1            | 2            | —                                   |
+| 6th         | 6   | +4  | +5   | +5  | +2   | 6      | 3     | +4                  | +2            | 3            | Devotion                            |
+| 7th         | 6   | +4  | +5   | +5  | +2   | 6      | 3     | +4                  | +2            | 3            | —                                   |
+| 8th         | 7   | +5  | +5   | +5  | +2   | 7      | 4     | +4                  | +2            | 3            | —                                   |
+| 9th         | 8   | +6  | +6   | +6  | +2   | 8      | 4     | +6                  | +3            | 4            | Ability score increase, Multiattack |
+| 10th        | 9   | +6  | +6   | +6  | +3   | 9      | 5     | +6                  | +3            | 4            | —                                   |
+| 11th        | 9   | +6  | +6   | +6  | +3   | 9      | 5     | +6                  | +3            | 4            | —                                   |
+| 12th        | 10  | +7  | +7   | +7  | +3   | 10     | 5     | +8                  | +4            | 5            | —                                   |
+| 13th        | 11  | +8  | +7   | +7  | +3   | 11     | 6     | +8                  | +4            | 5            | —                                   |
+| 14th        | 12  | +9  | +8   | +8  | +4   | 12     | 6     | +8                  | +4            | 5            | Ability score increase              |
+| 15th        | 12  | +9  | +8   | +8  | +4   | 12     | 6     | +10                 | +5            | 6            | Improved evasion                    |
+| 16th        | 13  | +9  | +8   | +8  | +4   | 13     | 7     | +10                 | +5            | 6            | —                                   |
+| 17th        | 14  | +10 | +9   | +9  | +4   | 14     | 7     | +10                 | +5            | 6            | —                                   |
+| 18th        | 15  | +11 | +9   | +9  | +5   | 15     | 8     | +12                 | +6            | 7            | —                                   |
+| 19th        | 15  | +11 | +9   | +9  | +5   | 15     | 8     | +12                 | +6            | 7            | —                                   |
+| 20th        | 16  | +12 | +10  | +10 | +5   | 16     | 8     | +12                 | +6            | 7            | Ability score increase              |
+
 
 that of a druid of a level equal to the animal’s HD. Animal companions do not gain additional attacks using their natural weapons for a high base attack bonus.
 

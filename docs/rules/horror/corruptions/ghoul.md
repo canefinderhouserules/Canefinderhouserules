@@ -120,6 +120,6 @@ Your body exudes a stench of decay.
 
 **Gift**: You exude an aura of decay. Creatures that begin their turns adjacent to you are sickened for 1d6 rounds unless they succeed at a Fortitude save. A creature that succeeds can’t be affected by your stench again for 24 hours. At manifestation level 5th, this aura extends out to 10 feet.
 
-**Stain**: The stench of decay you emit allows creatures with scent to notice you from twice the usual distance, and makes it extremely difficult to disguise yourself. Any living creatures that have a sense of smell have their starting attitudes toward you reduced by one step. Your supernatural scent is not affected by the *negate aroma*APG spell.
+**Stain**: The stench of decay you emit allows creatures with scent to notice you from twice the usual distance, and makes it extremely difficult to disguise yourself. Any living creatures that have a sense of smell have their starting attitudes toward you reduced by one step. Your supernatural scent is not affected by the *negate aroma* spell.
 
 **Special**: Upon taking this manifestation, you must take both the gift and the stain, even with the useful corruption or vile corruption variants.

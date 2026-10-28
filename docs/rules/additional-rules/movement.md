@@ -12,44 +12,41 @@ If your character is weak or carrying a lot of gear, however, then you’ll need
 
 **Table 7–4: Carrying Capacity**
 
-<table>
-<thead>
-<tr><th colspan="1">Strength</th><th rowspan="2">Light Load</th><th rowspan="2">Medium Load</th><th rowspan="2">Heavy Load</th></tr>
-<tr><th>Score</th></tr>
-</thead>
-<tbody>
-<tr><td>1</td><td>3 lbs. or less</td><td>4–6 lbs.</td><td>7–10 lbs.</td></tr>
-<tr><td>2</td><td>6 lbs. or less</td><td>7–13 lbs.</td><td>14–20 lbs.</td></tr>
-<tr><td>3</td><td>10 lbs. or less</td><td>11–20 lbs.</td><td>21–30 lbs.</td></tr>
-<tr><td>4</td><td>13 lbs. or less</td><td>14–26 lbs.</td><td>27–40 lbs.</td></tr>
-<tr><td>5</td><td>16 lbs. or less</td><td>17–33 lbs.</td><td>34–50 lbs.</td></tr>
-<tr><td>6</td><td>20 lbs. or less</td><td>21–40 lbs.</td><td>41–60 lbs.</td></tr>
-<tr><td>7</td><td>23 lbs. or less</td><td>24–46 lbs.</td><td>47–70 lbs.</td></tr>
-<tr><td>8</td><td>26 lbs. or less</td><td>27–53 lbs.</td><td>54–80 lbs.</td></tr>
-<tr><td>9</td><td>30 lbs. or less</td><td>31–60 lbs.</td><td>61–90 lbs.</td></tr>
-<tr><td>10</td><td>33 lbs. or less</td><td>34–66 lbs.</td><td>67–100 lbs.</td></tr>
-<tr><td>11</td><td>38 lbs. or less</td><td>39–76 lbs.</td><td>77–115 lbs.</td></tr>
-<tr><td>12</td><td>43 lbs. or less</td><td>44–86 lbs.</td><td>87–130 lbs.</td></tr>
-<tr><td>13</td><td>50 lbs. or less</td><td>51–100 lbs.</td><td>101–150 lbs.</td></tr>
-<tr><td>14</td><td>58 lbs. or less</td><td>59–116 lbs.</td><td>117–175 lbs.</td></tr>
-<tr><td>15</td><td>66 lbs. or less</td><td>67–133 lbs.</td><td>134–200 lbs.</td></tr>
-<tr><td>16</td><td>76 lbs. or less</td><td>77–153 lbs.</td><td>154–230 lbs.</td></tr>
-<tr><td>17</td><td>86 lbs. or less</td><td>87–173 lbs.</td><td>174–260 lbs.</td></tr>
-<tr><td>18</td><td>100 lbs. or less</td><td>101–200 lbs.</td><td>201–300 lbs.</td></tr>
-<tr><td>19</td><td>116 lbs. or less</td><td>117–233 lbs.</td><td>234–350 lbs.</td></tr>
-<tr><td>20</td><td>133 lbs. or less</td><td>134–266 lbs.</td><td>267–400 lbs.</td></tr>
-<tr><td>21</td><td>153 lbs. or less</td><td>154–306 lbs.</td><td>307–460 lbs.</td></tr>
-<tr><td>22</td><td>173 lbs. or less</td><td>174–346 lbs.</td><td>347–520 lbs.</td></tr>
-<tr><td>23</td><td>200 lbs. or less</td><td>201–400 lbs.</td><td>401–600 lbs.</td></tr>
-<tr><td>24</td><td>233 lbs. or less</td><td>234–466 lbs.</td><td>467–700 lbs.</td></tr>
-<tr><td>25</td><td>266 lbs. or less</td><td>267–533 lbs.</td><td>534–800 lbs.</td></tr>
-<tr><td>26</td><td>306 lbs. or less</td><td>307–613 lbs.</td><td>614–920 lbs.</td></tr>
-<tr><td>27</td><td>346 lbs. or less</td><td>347–693 lbs.</td><td>694–1,040 lbs.</td></tr>
-<tr><td>28</td><td>400 lbs. or less</td><td>401–800 lbs.</td><td>801–1,200 lbs.</td></tr>
-<tr><td>29</td><td>466 lbs. or less</td><td>467–933 lbs.</td><td>934–1,400 lbs.</td></tr>
-<tr><td>+10</td><td>×4</td><td>×4</td><td>×4</td></tr>
-</tbody>
-</table>
+
+| Strength | Light Load       | Medium Load  | Heavy Load     |
+|----------|------------------|--------------|----------------|
+| Score    |                  |              |                |
+| 1        | 3 lbs. or less   | 4–6 lbs.     | 7–10 lbs.      |
+| 2        | 6 lbs. or less   | 7–13 lbs.    | 14–20 lbs.     |
+| 3        | 10 lbs. or less  | 11–20 lbs.   | 21–30 lbs.     |
+| 4        | 13 lbs. or less  | 14–26 lbs.   | 27–40 lbs.     |
+| 5        | 16 lbs. or less  | 17–33 lbs.   | 34–50 lbs.     |
+| 6        | 20 lbs. or less  | 21–40 lbs.   | 41–60 lbs.     |
+| 7        | 23 lbs. or less  | 24–46 lbs.   | 47–70 lbs.     |
+| 8        | 26 lbs. or less  | 27–53 lbs.   | 54–80 lbs.     |
+| 9        | 30 lbs. or less  | 31–60 lbs.   | 61–90 lbs.     |
+| 10       | 33 lbs. or less  | 34–66 lbs.   | 67–100 lbs.    |
+| 11       | 38 lbs. or less  | 39–76 lbs.   | 77–115 lbs.    |
+| 12       | 43 lbs. or less  | 44–86 lbs.   | 87–130 lbs.    |
+| 13       | 50 lbs. or less  | 51–100 lbs.  | 101–150 lbs.   |
+| 14       | 58 lbs. or less  | 59–116 lbs.  | 117–175 lbs.   |
+| 15       | 66 lbs. or less  | 67–133 lbs.  | 134–200 lbs.   |
+| 16       | 76 lbs. or less  | 77–153 lbs.  | 154–230 lbs.   |
+| 17       | 86 lbs. or less  | 87–173 lbs.  | 174–260 lbs.   |
+| 18       | 100 lbs. or less | 101–200 lbs. | 201–300 lbs.   |
+| 19       | 116 lbs. or less | 117–233 lbs. | 234–350 lbs.   |
+| 20       | 133 lbs. or less | 134–266 lbs. | 267–400 lbs.   |
+| 21       | 153 lbs. or less | 154–306 lbs. | 307–460 lbs.   |
+| 22       | 173 lbs. or less | 174–346 lbs. | 347–520 lbs.   |
+| 23       | 200 lbs. or less | 201–400 lbs. | 401–600 lbs.   |
+| 24       | 233 lbs. or less | 234–466 lbs. | 467–700 lbs.   |
+| 25       | 266 lbs. or less | 267–533 lbs. | 534–800 lbs.   |
+| 26       | 306 lbs. or less | 307–613 lbs. | 614–920 lbs.   |
+| 27       | 346 lbs. or less | 347–693 lbs. | 694–1,040 lbs. |
+| 28       | 400 lbs. or less | 401–800 lbs. | 801–1,200 lbs. |
+| 29       | 466 lbs. or less | 467–933 lbs. | 934–1,400 lbs. |
+| +10      | ×4               | ×4           | ×4             |
+
 
 **Table 7–5: Encumbrance Effects**
 

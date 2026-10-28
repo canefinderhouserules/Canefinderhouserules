@@ -1,6 +1,5 @@
 # Charm
 
-**Source** [*PRPG Core Rulebook pg. 42*](http://paizo.com/pathfinderRPG/v5748btpy88yj)
 
 
 **Granted Powers**: You can baffle and befuddle foes with a touch or a smile, and your beauty and grace are divine.
@@ -11,11 +10,10 @@
 
 **Domain Spells**: 1st—*charm person*, 2nd—*calm emotions*, 3rd—*suggestion*, 4th—*heroism*, 5th—*charm monster*, 6th—*geas/quest*, 7th—*insanity*, 8th—*demand*, 9th—*dominate monster*.
 
-###  <span class="smallcaps">Captivation Subdomain</span>
+###  Captivation Subdomain
 
-**Source** [*Divine Anthology pg. 22*](http://paizo.com/products/btpy9nvh?Pathfinder-Player-Companion-Divine-Anthology)
 
-*This subdomain requires the [Acolyte of Apocrypha](https://www.aonprd.com/TraitDisplay.aspx?ItemName=Acolyte%20of%20Apocrypha) trait to access.*
+*This subdomain requires the Acolyte of Apocrypha trait to access.*
 
 **Associated Domain(s)**: Charm
 
@@ -26,9 +24,8 @@
 
 **Replacement Domain Spells**: 1st—*hypnotism*, 2nd—*hypnotic pattern*, 4th—*rainbow pattern*.
 
-###  <span class="smallcaps">Love Subdomain</span>
+###  Love Subdomain
 
-**Source** [*Advanced Player's Guide pg. 1*](http://paizo.com/pathfinderRPG/v5748btpy8fo1)
 
 **Associated Domain(s)**: Charm
 
@@ -39,9 +36,8 @@
 
 **Replacement Domain Spells**: 2nd—*enthrall*, 8th—*euphoric tranquility*.
 
-###  <span class="smallcaps">Lust Subdomain</span>
+###  Lust Subdomain
 
-**Source** [*Advanced Player's Guide pg. 1*](http://paizo.com/pathfinderRPG/v5748btpy8fo1)
 
 **Associated Domain(s)**: Charm
 

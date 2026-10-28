@@ -1,6 +1,5 @@
 # Artifice
 
-**Source** [*PRPG Core Rulebook pg. 41*](http://paizo.com/pathfinderRPG/v5748btpy88yj)
 
 
 **Granted Powers**: You can repair damage to objects, animate objects with life, and create objects from nothing.
@@ -11,11 +10,10 @@
 
 **Domain Spells**: 1st—*animate rope*, 2nd—*wood shape*, 3rd—*stone shape*, 4th—*minor creation*, 5th—*fabricate*, 6th—*major creation*, 7th—*wall of iron*, 8th—*statue*, 9th—*prismatic sphere*.
 
-###  <span class="smallcaps">Alchemy Subdomain</span>
+###  Alchemy Subdomain
 
-**Source** [*Divine Anthology pg. 22*](http://paizo.com/products/btpy9nvh?Pathfinder-Player-Companion-Divine-Anthology)
 
-*This subdomain requires the [Acolyte of Apocrypha](https://www.aonprd.com/TraitDisplay.aspx?ItemName=Acolyte%20of%20Apocrypha) trait to access.*
+*This subdomain requires the Acolyte of Apocrypha trait to access.*
 
 **Associated Domain(s)**: Artifice, Magic
 
@@ -24,11 +22,10 @@
 
 *Divine Alchemy (Su)*: You gain the Craft Potions feat. You can perform a 1-minute ritual that infuses a flask of water with one of your prepared spells, creating an improvised potion that lasts until consumed or the next time you prepare spells. You can use this ability only with spells that target one or more creatures, and the maximum spell level you can infuse in this way is equal to 1 + 1 for every 4 cleric levels you have. These potions are treated as alchemist extracts for the purpose of your domain spells. You can use this ability a number of times per day equal to 3 + your Wisdom modifier.
 
-**Replacement Domain Spells**: 2nd— *touch injection<sup>UC</sup>*, 4th— *amplify elixir<sup>APG</sup>*, 6th—*delayed consumptionAPG<sup>APG</sup>*.
+**Replacement Domain Spells**: 2nd— *touch injection*, 4th— *amplify elixir*, 6th—*delayed consumption*.
 
-###  <span class="smallcaps">Construct Subdomain</span>
+###  Construct Subdomain
 
-**Source** [*Advanced Player's Guide pg. 1*](http://paizo.com/pathfinderRPG/v5748btpy8fo1)
 
 **Associated Domain(s)**: Artifice
 
@@ -39,9 +36,8 @@
 
 **Replacement Domain Spells**: 7th—*limited wish*, 8th—*polymorph any object*.
 
-###  <span class="smallcaps">Industry Subdomain</span>
+###  Industry Subdomain
 
-**Source** [*Heroes of the Streets pg. 19*](http://paizo.com/products/btpy9ghc?Pathfinder-Player-Companion-Heroes-of-the-Streets)
 
 **Associated Domain(s)**: Artifice
 
@@ -50,11 +46,10 @@
 
 *Crafting Efficiency (Su)*: At 6th level, you can create items (if you have the apropiate feats) for 25% of the full price, instead of 50%, but only if their caster level is at least 3 levels lower than yours.
 
-**Replacement Domain Spells**: 1st—*crafter’s fortune*<sup>APG</sup>, 7th—*mage’s magnificent mansion*, 9th—*wooden phalanx*<sup>UM</sup>.
+**Replacement Domain Spells**: 1st—*crafter’s fortune*, 7th—*mage’s magnificent mansion*, 9th—*wooden phalanx*.
 
-###  <span class="smallcaps">Toil Subdomain</span>
+###  Toil Subdomain
 
-**Source** [*Advanced Player's Guide pg. 1*](http://paizo.com/pathfinderRPG/v5748btpy8fo1)
 
 **Associated Domain(s)**: Artifice
 
@@ -65,13 +60,13 @@
 
 **Replacement Domain Spells**: 1st—*command*, 5th—*waves of fatigue*, 7th—*waves of exhaustion*.
 
-### <span class="smallcaps">Trap Subdomain</span>
+### Trap Subdomain
 
 
 **Associated Domain(s)**: Artifice
 
 
-**Replacement Power**: *Note: Only creatures with the [Kobold Faith](https://www.aonprd.com/TraitDisplay.aspx?ItemName=Kobold%20Faith) trait can take this subdomain.*
+**Replacement Power**: *Note: Only creatures with the Kobold Faith trait can take this subdomain.*
 
 The following granted power replaces the dancing weapons power of the Artifice domain.
 
@@ -79,7 +74,7 @@ The following granted power replaces the dancing weapons power of the Artifice d
 
 **Replacement Domain Spells**: 2nd—*snare*, 3rd—*improve trap*, 7th—*teleport trap*.
 
-###  *<span class="smallcaps">Industry Subdomain</span>*
+###  *Industry Subdomain*
 
 ***Associated Domain(s)**: Artifice*
 

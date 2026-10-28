@@ -10,7 +10,7 @@
 
 ***Domain Spells**: 1st—magic fang, 2nd—animal trance, 3rd—greater magic fang, 4th—poison, 5th—animal growth\*, 6th—eyebite, 7th—creeping doom (takes the form of Diminutive-sized reptiles), 8th—animal shapes\*, 9th—shapechange.\*Only reptiles.*
 
-###  *<span class="smallcaps">Dragon Subdomain</span>*
+###  *Dragon Subdomain*
 
 
 ***Associated Domain(s)**: Scalykind*
@@ -22,7 +22,7 @@
 
 ***Replacement Domain Spells**: 3rd—draconic reservoir , 4th—dragon's breath , 6th—form of the dragon I.*
 
-###  *<span class="smallcaps">Saurian Subdomain</span>*
+###  *Saurian Subdomain*
 
 
 ***Associated Domain(s)**: Scalykind*
@@ -34,7 +34,7 @@
 
 ***Replacement Domain Spells**: 4th—summon nature’s ally IV (deinonychus or pteranodon only), 5th—beast shape III, 7th—summon nature’s ally VII (brachiosaurus or tyrannosaurus only).*
 
-###  *<span class="smallcaps">Venom Subdomain</span>*
+###  *Venom Subdomain*
 
 
 ***Associated Domain(s)**: Scalykind*

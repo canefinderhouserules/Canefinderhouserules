@@ -1,6 +1,5 @@
 # Air
 
-**Source** [*PRPG Core Rulebook pg. 41*](http://paizo.com/pathfinderRPG/v5748btpy88yj)
 
 
 **Granted Powers**: You can manipulate lightning, mist, and wind, traffic with air creatures, and are resistant to electricity damage.
@@ -11,9 +10,8 @@
 
 **Domain Spells**: 1st—*obscuring mist*, 2nd—*wind wall*, 3rd—*gaseous form*, 4th—*air walk*, 5th—*control winds*, 6th—*chain lightning*, 7th—*elemental body IV* (air only), 8th—*whirlwind*, 9th—*elemental swarm* (air spell only).
 
-###  <span class="smallcaps">Cloud Subdomain</span>
+###  Cloud Subdomain
 
-**Source** [*Advanced Player's Guide pg. 1*](http://paizo.com/pathfinderRPG/v5748btpy8fo1)
 
 **Associated Domain(s)**: Air
 
@@ -24,11 +22,10 @@
 
 **Replacement Domain Spells**: 4th—*solid fog*, 9th—*storm of vengeance*.
 
-###  <span class="smallcaps">Lightning Subdomain</span>
+###  Lightning Subdomain
 
-**Source** [*Divine Anthology pg. 24*](http://paizo.com/products/btpy9nvh?Pathfinder-Player-Companion-Divine-Anthology)
 
-*This subdomain requires the [Acolyte of Apocrypha](https://www.aonprd.com/TraitDisplay.aspx?ItemName=Acolyte%20of%20Apocrypha) trait to access.*
+*This subdomain requires the Acolyte of Apocrypha trait to access.*
 
 **Associated Domain(s)**: Air
 
@@ -39,9 +36,8 @@
 
 **Replacement Domain Spells**: 1st— *shocking grasp*, 2nd—*flame blade* (deals electricity damage and gains the electricity descriptor instead of fire), 3rd— *lightning bolt*.
 
-###  <span class="smallcaps">Wind Subdomain</span>
+###  Wind Subdomain
 
-**Source** [*Advanced Player's Guide pg. 1*](http://paizo.com/pathfinderRPG/v5748btpy8fo1)
 
 **Associated Domain(s)**: Air
 

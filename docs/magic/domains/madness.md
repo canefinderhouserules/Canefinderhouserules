@@ -1,6 +1,5 @@
 # Madness
 
-***Source** [PRPG Core Rulebook pg. 45](http://paizo.com/pathfinderRPG/v5748btpy88yj)*
 
 
 ***Granted Powers**: You embrace the madness that lurks deep in your heart, and can unleash it to drive your foes insane or to sacrifice certain abilities to hone others.*
@@ -11,9 +10,8 @@
 
 ***Domain Spells**: 1st—lesser confusion, 2nd—touch of idiocy, 3rd—rage, 4th—confusion, 5th—nightmare, 6th—phantasmal killer, 7th—insanity, 8th—scintillating pattern, 9th—weird.*
 
-###  *<span class="smallcaps">Insanity Subdomain</span>*
+###  *Insanity Subdomain*
 
-***Source** [Advanced Player's Guide pg. 1](http://paizo.com/pathfinderRPG/v5748btpy8fo1)*
 
 ***Associated Domain(s)**: Madness*
 
@@ -24,9 +22,8 @@
 
 ***Replacement Domain Spells**: 4th—moonstruck, 6th—phantasmal web.*
 
-###  *<span class="smallcaps">Nightmare Subdomain</span>*
+###  *Nightmare Subdomain*
 
-***Source** [Advanced Player's Guide pg. 1](http://paizo.com/pathfinderRPG/v5748btpy8fo1)*
 
 ***Associated Domain(s)**: Madness*
 
@@ -37,11 +34,10 @@
 
 ***Replacement Domain Spells**: 4th—phantasmal killer, 6th—cloak of dreams.*
 
-###  *<span class="smallcaps">Truth Subdomain</span>*
+###  *Truth Subdomain*
 
-***Source** [Divine Anthology pg. 27](http://paizo.com/products/btpy9nvh?Pathfinder-Player-Companion-Divine-Anthology)*
 
-*This subdomain requires the [Acolyte of Apocrypha](https://www.aonprd.com/TraitDisplay.aspx?ItemName=Acolyte%20of%20Apocrypha) trait to access.*
+*This subdomain requires the Acolyte of Apocrypha trait to access.*
 
 ***Associated Domain(s)**: Madness*
 
@@ -50,4 +46,4 @@
 
 *Dawning Realization (Su): At 4th level, you can impart a shared vision of unfathomable ineffability to a living creature you touch as a standard action, after which your turn immediately ends. You are dazed and the target confused for 1 round by what you both learn. On the following round, you are both staggered for 1 round by the ramifications of your discovery. On the third round, you are confused and the target dazed for 1 round as you attempt to regain your bearings. Each round, the target can attempt a Will save with a DC equal to 10 + 1/2 your cleric level + your Wisdom modifier to negate that round’s effects for both of you, though the effect does not end until the end of the third round. This is a mindaffecting effect that you can use a number of times per day equal to 1/2 your class level.*
 
-***Replacement Domain Spells**: 3rd—wall of nausea<sup>ACG</sup>, 5th—contact other plane, 6th—litany of madness<sup>UC</sup>.*
+***Replacement Domain Spells**: 3rd—wall of nausea, 5th—contact other plane, 6th—litany of madness.*

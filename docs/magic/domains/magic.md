@@ -1,6 +1,5 @@
 # Magic
 
-***Source** [PRPG Core Rulebook pg. 46](http://paizo.com/pathfinderRPG/v5748btpy88yj)*
 
 
 ***Granted Powers**: You are a true student of all things mystical, and see divinity in the purity of magic.*
@@ -13,11 +12,10 @@
 
 ***Domain Spells**: 1st—identify, 2nd—magic mouth, 3rd—dispel magic, 4th—imbue with spell ability, 5th—spell resistance, 6th—antimagic field, 7th—spell turning, 8th—protection from spells, 9th—mage's disjunction.*
 
-###  *<span class="smallcaps">Alchemy Subdomain</span>*
+###  *Alchemy Subdomain*
 
-***Source** [Divine Anthology pg. 22](http://paizo.com/products/btpy9nvh?Pathfinder-Player-Companion-Divine-Anthology)*
 
-*This subdomain requires the [Acolyte of Apocrypha](https://www.aonprd.com/TraitDisplay.aspx?ItemName=Acolyte%20of%20Apocrypha) trait to access.*
+*This subdomain requires the Acolyte of Apocrypha trait to access.*
 
 ***Associated Domain(s)**: Artifice, Magic*
 
@@ -26,11 +24,10 @@
 
 *Divine Alchemy (Su): You can perform a 1-minute ritual that infuses a flask of water with one of your prepared spells, creating an improvised potion that lasts until consumed or the next time you prepare spells. You can use this ability only with spells that target one or more creatures, and the maximum spell level you can infuse in this way is equal to 1 + 1 for every 4 cleric levels you have. These potions are treated as alchemist extracts for the purpose of your domain spells. You can use this ability a number of times per day equal to 3 + your Wisdom modifier.*
 
-***Replacement Domain Spells**: 2nd— touch injection<sup>UC</sup>, 4th— amplify elixir<sup>APG</sup>, 6th—delayed consumptionAPG<sup>APG</sup>.*
+***Replacement Domain Spells**: 2nd— touch injection, 4th— amplify elixir, 6th—delayed consumption.*
 
-###  *<span class="smallcaps">Arcane Subdomain</span>*
+###  *Arcane Subdomain*
 
-***Source** [Advanced Player's Guide pg. 1](http://paizo.com/pathfinderRPG/v5748btpy8fo1)*
 
 ***Associated Domain(s)**: Magic*
 
@@ -41,9 +38,8 @@
 
 ***Replacement Domain Spells**: 1st—magic aura, 4th—arcane eye, 6th—analyze dweomer.*
 
-###  *<span class="smallcaps">Divine Subdomain</span>*
+###  *Divine Subdomain*
 
-***Source** [Advanced Player's Guide pg. 1](http://paizo.com/pathfinderRPG/v5748btpy8fo1)*
 
 ***Associated Domain(s)**: Magic*
 
@@ -54,11 +50,10 @@
 
 ***Replacement Domain Spells**: 2nd—bless water, 5th—cleanse, 7th—resurrection, 9th—miracle.*
 
-###  *<span class="smallcaps">Rites Subdomain</span>*
+###  *Rites Subdomain*
 
-***Source** [Divine Anthology pg. 26](http://paizo.com/products/btpy9nvh?Pathfinder-Player-Companion-Divine-Anthology)*
 
-*This subdomain requires the [Acolyte of Apocrypha](https://www.aonprd.com/TraitDisplay.aspx?ItemName=Acolyte%20of%20Apocrypha) trait to access.*
+*This subdomain requires the Acolyte of Apocrypha trait to access.*
 
 ***Associated Domain(s)**: Magic*
 
@@ -67,4 +62,4 @@
 
 *Enduring Ritual (Su): As a swift action when you cast a spell with a duration of at least 1 minute per caster level, you can increase the spell’s effective caster level by 1 for the purpose of determining its duration and preventing attempts to dispel it. The effective caster level increases by an additional 1 for every 10 cleric levels you have (maximum +3). You can use this ability a number of times per day equal to 3 + your Wisdom modifier.*
 
-***Replacement Domain Spells**: 1st—sanctify corpse<sup>UM</sup>, 5th—permanency, 8th—binding.*
+***Replacement Domain Spells**: 1st—sanctify corpse, 5th—permanency, 8th—binding.*

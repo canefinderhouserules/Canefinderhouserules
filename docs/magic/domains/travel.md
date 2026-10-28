@@ -1,6 +1,5 @@
 # Travel
 
-***Source** [PRPG Core Rulebook pg. 47](http://paizo.com/pathfinderRPG/v5748btpy88yj)*
 
 
 ***Granted Powers**: You are an explorer and find enlightenment in the simple joy of travel, be it by foot or conveyance or magic. Increase your base speed by 10 feet.*
@@ -11,9 +10,8 @@
 
 ***Domain Spells**: 1st—longstrider, 2nd—locate object, 3rd—fly, 4th—dimension door, 5th—teleport, 6th—find the path, 7th—greater teleport, 8th—phase door, 9th—astral projection.*
 
-###  *<span class="smallcaps">Exploration Subdomain</span>*
+###  *Exploration Subdomain*
 
-***Source** [Advanced Player's Guide pg. 1](http://paizo.com/pathfinderRPG/v5748btpy8fo1)*
 
 ***Associated Domain(s)**: Travel*
 
@@ -24,11 +22,10 @@
 
 ***Replacement Domain Spells**: 1st—expeditious retreat, 4th—locate creature, 9th—world wave.*
 
-###  *<span class="smallcaps">Portal Subdomain</span>*
+###  *Portal Subdomain*
 
-***Source** [Divine Anthology pg. 25](http://paizo.com/products/btpy9nvh?Pathfinder-Player-Companion-Divine-Anthology)*
 
-*This subdomain requires the [Acolyte of Apocrypha](https://www.aonprd.com/TraitDisplay.aspx?ItemName=Acolyte%20of%20Apocrypha) trait to access.*
+*This subdomain requires the Acolyte of Apocrypha trait to access.*
 
 ***Associated Domain(s)**: Travel*
 
@@ -39,11 +36,10 @@
 
 *Travel as One (Su): When you cast a spell with the teleportation descriptor, treat your caster level as 3 higher for the purpose of determining how many additional creatures you can bring with you. In addition, you and any creatures you teleport gain a number of temporary hit points equal to your level that disappear after you reach your destination; these offset any damage you might take from teleportation mishaps or attempting to teleport into a solid body.*
 
-***Replacement Domain Spells**: 1st—open and shut<sup>UI</sup>, 2nd—knock, 3rd—urban step<sup>UI</sup>, 9th—teleportation circle.*
+***Replacement Domain Spells**: 1st—open and shut, 2nd—knock, 3rd—urban step, 9th—teleportation circle.*
 
-###  *<span class="smallcaps">Trade Subdomain</span>*
+###  *Trade Subdomain*
 
-***Source** [Advanced Player's Guide pg. 1](http://paizo.com/pathfinderRPG/v5748btpy8fo1)*
 
 ***Associated Domain(s)**: Travel*
 

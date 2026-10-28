@@ -1,6 +1,5 @@
 # Liberation
 
-***Source** [PRPG Core Rulebook pg. 45](http://paizo.com/pathfinderRPG/v5748btpy88yj)*
 
 
 ***Granted Powers**: You are a spirit of freedom and a staunch foe against all who would enslave and oppress.*
@@ -11,9 +10,8 @@
 
 ***Domain Spells**: 1st—remove fear, 2nd—remove paralysis, 3rd—remove curse, 4th—freedom of movement, 5th—break enchantment, 6th—greater dispel magic, 7th—refuge, 8th—mind blank, 9th—freedom.*
 
-###  *<span class="smallcaps">Freedom Subdomain</span>*
+###  *Freedom Subdomain*
 
-***Source** [Advanced Player's Guide pg. 1](http://paizo.com/pathfinderRPG/v5748btpy8fo1)*
 
 ***Associated Domain(s)**: Liberation*
 
@@ -24,9 +22,8 @@
 
 ***Replacement Domain Spells**: 1st—sanctuary, 5th—plane shift.*
 
-###  *<span class="smallcaps">Revolution Subdomain</span>*
+###  *Revolution Subdomain*
 
-***Source** [Advanced Player's Guide pg. 1](http://paizo.com/pathfinderRPG/v5748btpy8fo1)*
 
 ***Associated Domain(s)**: Liberation*
 
@@ -37,11 +34,10 @@
 
 ***Replacement Domain Spells**: 2nd—enthrall, 6th—symbol of persuasion.*
 
-###  *<span class="smallcaps">Self-Realization Subdomain</span>*
+###  *Self-Realization Subdomain*
 
-***Source** [Divine Anthology pg. 26](http://paizo.com/products/btpy9nvh?Pathfinder-Player-Companion-Divine-Anthology)*
 
-*This subdomain requires the [Acolyte of Apocrypha](https://www.aonprd.com/TraitDisplay.aspx?ItemName=Acolyte%20of%20Apocrypha) trait to access.*
+*This subdomain requires the Acolyte of Apocrypha trait to access.*
 
 ***Associated Domain(s)**: Liberation, Strength*
 
@@ -50,4 +46,4 @@
 
 *Perfected Form (Su): You maintain an unshakable sense of who you are, and no force can compel you to be anything else. You gain a +1 sacred (if your patron is good or neutral) or profane (if your patron is evil) bonus on saving throws against polymorph, petrification, and transmutation effects. This bonus increases by 1 for every 5 cleric levels you have (maximum +5). Once per day when you succeed at a saving throw against such an effect, you can gain a surge of self-confidence as an immediate action that grants you a number of temporary hit points equal to your cleric level and a +2 morale bonus on attack rolls, skill checks, and saving throws; both effects last for 1 minute.*
 
-***Replacement Domain Spells**: 4th—paragon surge (Pathfinder RPG Advanced Race Guide 48; always matches your actual race), 6th—primal scream<sup>UM</sup>, 7th—transformation.*
+***Replacement Domain Spells**: 4th—paragon surge (Pathfinder RPG Advanced Race Guide 48; always matches your actual race), 6th—primal scream, 7th—transformation.*

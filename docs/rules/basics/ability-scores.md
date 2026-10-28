@@ -20,7 +20,7 @@ Assign these totals to your ability scores as you see fit. This method is less r
 
 **Purchase:** Each character receives a number of points to spend on increasing his basic attributes. In this method, all attributes start at a base of 10. A character can increase an individual score by spending some of his points. Likewise, he can gain more points to spend on other scores by decreasing one or more of his ability scores. No score can be reduced below 7 or raised above 18 using this method. See Table 1–1 on the next page for the costs of each score. After all the points are spent, apply any racial modifiers the character might have.
 
-The number of points you have to spend using the purchase method depends on the type of campaign you are playing. The standard value for a character is 15 points. Average nonplayer characters (NPCs) are typically built using as few as 3 points. See Table 1–2 on the next page for a number of possible point values depending on the style of campaign. The purchase method emphasizes player choice and creates equally balanced characters. This system is typically used for organized play events, such as the Pathfinder Society (visit **paizo.com/pathfinderSociety** for more details on this exciting campaign).
+The number of points you have to spend using the purchase method depends on the type of campaign you are playing. The standard value for a character is 15 points. Average nonplayer characters (NPCs) are typically built using as few as 3 points. See Table 1–2 on the next page for a number of possible point values depending on the style of campaign. The purchase method emphasizes player choice and creates equally balanced characters. This system is typically used for organized play events.
 
 #### Determine Bonuses
 
@@ -98,38 +98,35 @@ Intelligence determines how well your character learns and reasons. This ability
 
 **Table 1–3: Ability Modifiers and Bonus Spells**
 
-<table>
-<thead>
-<tr><th rowspan="2">Ability Score</th><th rowspan="2">Modifier</th><th colspan="10">Bonus Spells per Day (by Spell Level)</th></tr>
-<tr><th>0</th><th>1st</th><th>2nd</th><th>3rd</th><th>4th</th><th>5th</th><th>6th</th><th>7th</th><th>8th</th><th>9th</th></tr>
-</thead>
-<tbody>
-<tr><td>1</td><td>–5</td><td></td><td></td><td></td><td></td><td>Can’t cast spells tied to this ability</td><td></td><td></td><td></td><td></td><td></td></tr>
-<tr><td>2–3</td><td>–4</td><td></td><td></td><td></td><td></td><td>Can’t cast spells tied to this ability</td><td></td><td></td><td></td><td></td><td></td></tr>
-<tr><td>4–5</td><td>–3</td><td></td><td></td><td></td><td></td><td>Can’t cast spells tied to this ability</td><td></td><td></td><td></td><td></td><td></td></tr>
-<tr><td>6–7</td><td>–2</td><td></td><td></td><td></td><td></td><td>Can’t cast spells tied to this ability</td><td></td><td></td><td></td><td></td><td></td></tr>
-<tr><td>8–9</td><td>–1</td><td></td><td></td><td></td><td></td><td>Can’t cast spells tied to this ability</td><td></td><td></td><td></td><td></td><td></td></tr>
-<tr><td>10–11</td><td>0</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr>
-<tr><td>12–13</td><td>+1</td><td>—</td><td>1</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr>
-<tr><td>14–15</td><td>+2</td><td>—</td><td>1</td><td>1</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr>
-<tr><td>16–17</td><td>+3</td><td>—</td><td>1</td><td>1</td><td>1</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr>
-<tr><td>18–19</td><td>+4</td><td>—</td><td>1</td><td>1</td><td>1</td><td>1</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr>
-<tr><td>20–21</td><td>+5</td><td>—</td><td>2</td><td>1</td><td>1</td><td>1</td><td>1</td><td>—</td><td>—</td><td>—</td><td>—</td></tr>
-<tr><td>22–23</td><td>+6</td><td>—</td><td>2</td><td>2</td><td>1</td><td>1</td><td>1</td><td>1</td><td>—</td><td>—</td><td>—</td></tr>
-<tr><td>24–25</td><td>+7</td><td>—</td><td>2</td><td>2</td><td>2</td><td>1</td><td>1</td><td>1</td><td>1</td><td>—</td><td>—</td></tr>
-<tr><td>26–27</td><td>+8</td><td>—</td><td>2</td><td>2</td><td>2</td><td>2</td><td>1</td><td>1</td><td>1</td><td>1</td><td>—</td></tr>
-<tr><td>28–29</td><td>+9</td><td>—</td><td>3</td><td>2</td><td>2</td><td>2</td><td>2</td><td>1</td><td>1</td><td>1</td><td>1</td></tr>
-<tr><td>30–31</td><td>+10</td><td>—</td><td>3</td><td>3</td><td>2</td><td>2</td><td>2</td><td>2</td><td>1</td><td>1</td><td>1</td></tr>
-<tr><td>32–33</td><td>+11</td><td>—</td><td>3</td><td>3</td><td>3</td><td>2</td><td>2</td><td>2</td><td>2</td><td>1</td><td>1</td></tr>
-<tr><td>34–35</td><td>+12</td><td>—</td><td>3</td><td>3</td><td>3</td><td>3</td><td>2</td><td>2</td><td>2</td><td>2</td><td>1</td></tr>
-<tr><td>36–37</td><td>+13</td><td>—</td><td>4</td><td>3</td><td>3</td><td>3</td><td>3</td><td>2</td><td>2</td><td>2</td><td>2</td></tr>
-<tr><td>38–39</td><td>+14</td><td>—</td><td>4</td><td>4</td><td>3</td><td>3</td><td>3</td><td>3</td><td>2</td><td>2</td><td>2</td></tr>
-<tr><td>40–41</td><td>+15</td><td>—</td><td>4</td><td>4</td><td>4</td><td>3</td><td>3</td><td>3</td><td>3</td><td>2</td><td>2</td></tr>
-<tr><td>42–43</td><td>+16</td><td>—</td><td>4</td><td>4</td><td>4</td><td>4</td><td>3</td><td>3</td><td>3</td><td>3</td><td>2</td></tr>
-<tr><td>44–45</td><td>+17</td><td>—</td><td>5</td><td>4</td><td>4</td><td>4</td><td>4</td><td>3</td><td>3</td><td>3</td><td>3</td></tr>
-<tr><td>etc. …</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
-</tbody>
-</table>
+
+| Ability Score | Modifier | Bonus Spells per Day (by Spell Level) |     |     |     |                                        |     |     |     |     |     |
+|---------------|----------|---------------------------------------|-----|-----|-----|----------------------------------------|-----|-----|-----|-----|-----|
+|               |          | 0                                     | 1st | 2nd | 3rd | 4th                                    | 5th | 6th | 7th | 8th | 9th |
+| 1             | –5       |                                       |     |     |     | Can’t cast spells tied to this ability |     |     |     |     |     |
+| 2–3           | –4       |                                       |     |     |     | Can’t cast spells tied to this ability |     |     |     |     |     |
+| 4–5           | –3       |                                       |     |     |     | Can’t cast spells tied to this ability |     |     |     |     |     |
+| 6–7           | –2       |                                       |     |     |     | Can’t cast spells tied to this ability |     |     |     |     |     |
+| 8–9           | –1       |                                       |     |     |     | Can’t cast spells tied to this ability |     |     |     |     |     |
+| 10–11         | 0        | —                                     | —   | —   | —   | —                                      | —   | —   | —   | —   | —   |
+| 12–13         | +1       | —                                     | 1   | —   | —   | —                                      | —   | —   | —   | —   | —   |
+| 14–15         | +2       | —                                     | 1   | 1   | —   | —                                      | —   | —   | —   | —   | —   |
+| 16–17         | +3       | —                                     | 1   | 1   | 1   | —                                      | —   | —   | —   | —   | —   |
+| 18–19         | +4       | —                                     | 1   | 1   | 1   | 1                                      | —   | —   | —   | —   | —   |
+| 20–21         | +5       | —                                     | 2   | 1   | 1   | 1                                      | 1   | —   | —   | —   | —   |
+| 22–23         | +6       | —                                     | 2   | 2   | 1   | 1                                      | 1   | 1   | —   | —   | —   |
+| 24–25         | +7       | —                                     | 2   | 2   | 2   | 1                                      | 1   | 1   | 1   | —   | —   |
+| 26–27         | +8       | —                                     | 2   | 2   | 2   | 2                                      | 1   | 1   | 1   | 1   | —   |
+| 28–29         | +9       | —                                     | 3   | 2   | 2   | 2                                      | 2   | 1   | 1   | 1   | 1   |
+| 30–31         | +10      | —                                     | 3   | 3   | 2   | 2                                      | 2   | 2   | 1   | 1   | 1   |
+| 32–33         | +11      | —                                     | 3   | 3   | 3   | 2                                      | 2   | 2   | 2   | 1   | 1   |
+| 34–35         | +12      | —                                     | 3   | 3   | 3   | 3                                      | 2   | 2   | 2   | 2   | 1   |
+| 36–37         | +13      | —                                     | 4   | 3   | 3   | 3                                      | 3   | 2   | 2   | 2   | 2   |
+| 38–39         | +14      | —                                     | 4   | 4   | 3   | 3                                      | 3   | 3   | 2   | 2   | 2   |
+| 40–41         | +15      | —                                     | 4   | 4   | 4   | 3                                      | 3   | 3   | 3   | 2   | 2   |
+| 42–43         | +16      | —                                     | 4   | 4   | 4   | 4                                      | 3   | 3   | 3   | 3   | 2   |
+| 44–45         | +17      | —                                     | 5   | 4   | 4   | 4                                      | 4   | 3   | 3   | 3   | 3   |
+| etc. …        |          |                                       |     |     |     |                                        |     |     |     |     |     |
+
 
 You apply your character’s Intelligence modifier to:
 

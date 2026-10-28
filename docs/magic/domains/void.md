@@ -10,9 +10,9 @@
 
 *The victim must succeed at a new saving throw each round to end the effect— these additional saving throws apply only to the additional confusion effect and not to the original spell effect. Part the veil is a mind-affecting effect. You can use this ability a number of times per day equal to 1/2 your class level.*
 
-***Domain Spells**: 1st—feather fall, 2nd—levitate, 3rd—fly, 4th—lesser planar binding, 5th—overland flight, 6th—planar binding, 7th—reverse gravity, 8th—greater planar binding, 9th—interplanetary teleport<sup>UM</sup>.*
+***Domain Spells**: 1st—feather fall, 2nd—levitate, 3rd—fly, 4th—lesser planar binding, 5th—overland flight, 6th—planar binding, 7th—reverse gravity, 8th—greater planar binding, 9th—interplanetary teleport.*
 
-###  *<span class="smallcaps">Dark Tapestry Subdomain</span>*
+###  *Dark Tapestry Subdomain*
 
 
 ***Associated Domain(s)**: Void*
@@ -24,7 +24,7 @@
 
 ***Replacement Domain Spells**: 2nd - summon monster II, 5th - summon monster V, 7th - insanity.*
 
-###  *<span class="smallcaps">Isolation Subdomain</span>*
+###  *Isolation Subdomain*
 
 
 ***Associated Domain(s)**: Void*
@@ -36,7 +36,7 @@
 
 ***Replacement Domain Spells**: 4th—crushing despair, 6th—wall of force, 8th—prismatic wall.*
 
-###  *<span class="smallcaps">Stars Subdomain</span>*
+###  *Stars Subdomain*
 
 
 ***Associated Domain(s)**: Void*

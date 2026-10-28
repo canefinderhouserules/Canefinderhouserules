@@ -20,7 +20,7 @@ When the spirit has at least 3 points of influence, you have visible difficulty 
 
 ### Removing the Corruption
 
-Ending a possession corruption usually requires you to be targeted with *dispel evil* or *cast out*APG while you stand inside a *magic circle against evil* turned inward as a trap. The spirit uses your Will save modifier without any of your penalties, and its effective caster level is equal to your character level + your possessed manifestation level.
+Ending a possession corruption usually requires you to be targeted with *dispel evil* or *cast out* while you stand inside a *magic circle against evil* turned inward as a trap. The spirit uses your Will save modifier without any of your penalties, and its effective caster level is equal to your character level + your possessed manifestation level.
 
 However, since the method of possession varies from case to case, a particular possession might require other means of removal, such as undergoing therapy or fulfilling the spirit’s unfinished business.
 

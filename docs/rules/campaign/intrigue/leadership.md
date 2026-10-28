@@ -35,7 +35,7 @@ Conflicting loyalties and potential betrayals are part of the excitement of the 
 
 On the other hand, players like to receive a more concrete benefit from their feats—the benefits of Toughness and Skill Focus, for example, can’t be reduced by bribes or chicanery. For that reason, as well as to balance the spotlight, consider making the Leadership feat free in an intrigue-focused campaign, with the caveat that players’ cohorts and followers may change their loyalties in certain circumstances. Sometimes, a little warning is all it takes to avoid an unpleasant clash of expectations later in the game.
 
-Some groups have players with the Leadership feat run their cohorts during combat to take the burden of running additional NPCs off the GM. This method can still be used in a campaign where cohorts and followers might betray the PCs, but the GM should remind players that she might make adjustments to a cohort’s proposed actions every once in a while. For more advice on running cohorts, see pages 140–141 of *Ultimate Campaign*.
+Some groups have players with the Leadership feat run their cohorts during combat to take the burden of running additional NPCs off the GM. This method can still be used in a campaign where cohorts and followers might betray the PCs, but the GM should remind players that she might make adjustments to a cohort’s proposed actions every once in a while. For more advice on running cohorts, see the *Ultimate Campaign*.
 
 ## The Role of Cohorts and Followers
 
@@ -43,7 +43,7 @@ Cohorts traditionally function as fellow adventurers, and followers function as 
 
 **Contacts**: When using the contacts rules of *Ultimate Campaign*, a cohort or a follower can act as a contact. Followers typically have a Trust score of 3 or 4, whereas a cohort always has a Trust score of 5. Using followers and cohorts as contacts is a good way to keep them in the background and away from the direct spotlight.
 
-**Downtime**: The downtime system in *Ultimate Campaign* already interfaces with the Leadership feat. A character can use followers as labor or organize them into teams, and can appoint a cohort or a notable follower to serve as a manager for her business. See page 80 of *Ultimate Campaign* for more details.
+**Downtime**: The downtime system in *Ultimate Campaign* already interfaces with the Leadership feat. A character can use followers as labor or organize them into teams, and can appoint a cohort or a notable follower to serve as a manager for her business. See the *Ultimate Campaign* for more details.
 
 **Heists**: Followers can aid in overcoming the obstacles of a heist. They can help distract guards, help foil barriers, and even brave hazards. Cohorts can act as if they were additional PCs during the heist, allowing the group to do more to achieve the heist’s goals.
 

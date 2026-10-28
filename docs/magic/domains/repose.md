@@ -1,6 +1,5 @@
 # Repose
 
-***Source** [PRPG Core Rulebook pg. 46](http://paizo.com/pathfinderRPG/v5748btpy88yj)*
 
 
 ***Granted Powers**: You see death not as something to be feared, but as a final rest and reward for a life well spent. The taint of undeath is a mockery of what you hold dear.*
@@ -11,9 +10,8 @@
 
 ***Domain Spells**: 1st—deathwatch, 2nd—gentle repose, 3rd—speak with dead, 4th—death ward, 5th—slay living, 6th—undeath to death, 7th—destruction, 8th—waves of exhaustion, 9th—wail of the banshee.*
 
-###  *<span class="smallcaps">Ancestors Subdomain</span>*
+###  *Ancestors Subdomain*
 
-***Source** [Advanced Player's Guide pg. 1](http://paizo.com/pathfinderRPG/v5748btpy8fo1)*
 
 ***Associated Domain(s)**: Repose*
 
@@ -24,9 +22,8 @@
 
 ***Replacement Domain Spells**: 4th—rest eternal, 6th—geas/quest.*
 
-###  *<span class="smallcaps">Psychopomp (Repose) Subdomain</span>*
+###  *Psychopomp (Repose) Subdomain*
 
-***Source** [Champions of Balance pg. 17](http://paizo.com/products/btpy93nc?Pathfinder-Player-Companion-Champions-of-Balance)*
 
 ***Associated Domain(s)**: Repose*
 
@@ -35,11 +32,10 @@
 
 *Spirit Touch (Su): At 6th level, as a swift action, you can give your natural weapons or any weapons you wield the ghost touch weapon special ability. You can use this power a number of rounds per day equal to your cleric level. These rounds need not be consecutive.*
 
-***Replacement Domain Spells**: 3rd—chain of perdition<sup>UC</sup>, 6th—planar ally (psychopomps only), 8th—trap the soul.*
+***Replacement Domain Spells**: 3rd—chain of perdition, 6th—planar ally (psychopomps only), 8th—trap the soul.*
 
-###  *<span class="smallcaps">Souls Subdomain</span>*
+###  *Souls Subdomain*
 
-***Source** [Advanced Player's Guide pg. 1](http://paizo.com/pathfinderRPG/v5748btpy8fo1)*
 
 ***Associated Domain(s)**: Repose*
 
@@ -50,17 +46,16 @@
 
 ***Replacement Domain Spells**: 3rd—animate dead, 6th—antilife shield, 9th—trap the soul.*
 
-***Deity-Friendly Souls Subdomain** (Source: [Paizo Blog](http://paizo.com/paizo/blog/v5748dyo5lbvp), PFS-Legal) 3rd-level domain spell: Replace animate dead with speak with dead.*
+***Deity-Friendly Souls Subdomain** 3rd-level domain spell: Replace animate dead with speak with dead.*
+
 
 ## Variant Domain Powers
 
-***Description Source**: [**Haunted Heroes Handbook**](http://paizo.com/products/btpy9nft?Pathfinder-Player-Companion-Haunted-Heroes-Handbook)*
 
 *A cleric (or any other character capable of selecting a domain) who worships the deity in question can choose to gain the variant domain power upon first gaining the domain in question, but the choice to replace the domain power must be made immediately upon gaining access to that domain and cannot be changed thereafter.*
 
 ### The Goddess of Graves
 
-***Source** [Haunted Heroes Handbook pg. 9](http://paizo.com/products/btpy9nft?Pathfinder-Player-Companion-Haunted-Heroes-Handbook)*
 
 ***Associated Domain(s)**: Repose*
 

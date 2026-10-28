@@ -388,16 +388,13 @@ Flying mounts can’t fly in medium or heavy barding.
 
 Removing and fitting barding takes five times as long as the figures given on Table 6–7. A barded animal cannot be used to carry any load other than a rider and normal saddlebags.
 
-<table>
-<thead>
-<tr><th rowspan="2">Barding</th><th rowspan="2">(40 ft.)</th><th colspan="1">Base Speed</th><th rowspan="2">(60 ft.)</th></tr>
-<tr><th>(50 ft.)</th></tr>
-</thead>
-<tbody>
-<tr><td>Medium</td><td>30 ft.</td><td>35 ft.</td><td>40 ft.</td></tr>
-<tr><td>Heavy</td><td>30 ft.* normal speed when running instead of quadruple.</td><td>35 ft.*</td><td>40 ft.*</td></tr>
-</tbody>
-</table>
+
+| Barding | (40 ft.)                                                 | Base Speed | (60 ft.) |
+|---------|----------------------------------------------------------|------------|----------|
+|         |                                                          | (50 ft.)   |          |
+| Medium  | 30 ft.                                                   | 35 ft.     | 40 ft.   |
+| Heavy   | 30 ft.\* normal speed when running instead of quadruple. | 35 ft.\*   | 40 ft.\* |
+
 
 * A mount wearing heavy armor moves at only triple its
 

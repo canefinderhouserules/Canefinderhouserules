@@ -1,6 +1,6 @@
 # Shifter
 
-Se usa el Legendary, con los siguientes cambios. [<u>Shifter (Legendary) \| Library of Metzofitz Wiki</u>](https://libraryofmetzofitz.fandom.com/wiki/Shifter_(Legendary))
+Se usa el Legendary, con los siguientes cambios. [Shifter (Legendary) \| Library of Metzofitz Wiki](https://libraryofmetzofitz.fandom.com/wiki/Shifter_(Legendary))
 
 -- Shifter Claws: En vez de la Shifter Evolution de legendary, seguimos usando las shifter claws, con este agregado: Si tu Wild Shape tiene 1 solo ataque, podes elegir ganar 2 ataques naturales para dicha forma, siempre que tengan sentido (Garras en la mayoria de los casos) en lugar de aumentar el daño de tu unico ataque en base a las reglas de esta class feature. Estos dos ataques seran siempre secundarios.
 

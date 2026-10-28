@@ -18,21 +18,18 @@ To determine a character’s height, roll the modifier dice indicated on Table 7
 
 **Table 7–1: Random Starting Ages**
 
-<table>
-<thead>
-<tr><th rowspan="2">Race</th><th rowspan="2">Adulthood</th><th colspan="1">Barbarian,</th><th rowspan="2">Bard, Fighter, Paladin, Ranger</th><th rowspan="2">Cleric, Druid, Monk, Wizard</th></tr>
-<tr><th>Rogue, Sorcerer</th></tr>
-</thead>
-<tbody>
-<tr><td>Human</td><td>15 years</td><td>+1d4</td><td>+1d6</td><td>+2d6</td></tr>
-<tr><td>Dwarf</td><td>40 years</td><td>+3d6</td><td>+5d6</td><td>+7d6</td></tr>
-<tr><td>Elf</td><td>110 years</td><td>+4d6</td><td>+6d6</td><td>+10d6</td></tr>
-<tr><td>Gnome</td><td>40 years</td><td>+4d6</td><td>+6d6</td><td>+9d6</td></tr>
-<tr><td>Half-elf</td><td>20 years</td><td>+1d6</td><td>+2d6</td><td>+3d6</td></tr>
-<tr><td>Half-orc</td><td>14 years</td><td>+1d4</td><td>+1d6</td><td>+2d6</td></tr>
-<tr><td>Halfling</td><td>20 years</td><td>+2d4</td><td>+3d6</td><td>+4d6</td></tr>
-</tbody>
-</table>
+
+| Race     | Adulthood | Barbarian,      | Bard, Fighter, Paladin, Ranger | Cleric, Druid, Monk, Wizard |
+|----------|-----------|-----------------|--------------------------------|-----------------------------|
+|          |           | Rogue, Sorcerer |                                |                             |
+| Human    | 15 years  | +1d4            | +1d6                           | +2d6                        |
+| Dwarf    | 40 years  | +3d6            | +5d6                           | +7d6                        |
+| Elf      | 110 years | +4d6            | +6d6                           | +10d6                       |
+| Gnome    | 40 years  | +4d6            | +6d6                           | +9d6                        |
+| Half-elf | 20 years  | +1d6            | +2d6                           | +3d6                        |
+| Half-orc | 14 years  | +1d4            | +1d6                           | +2d6                        |
+| Halfling | 20 years  | +2d4            | +3d6                           | +4d6                        |
+
 
 she may be carrying a light, medium, or heavy load. Like armor, a character’s load affects his maximum Dexterity bonus to AC, carries a check penalty (which works like an armor check penalty), reduces the character’s speed, and affects how fast the character can run, as shown on Table 7–5. A medium or heavy load counts as medium or heavy armor for the purpose of abilities or skills that are restricted by armor. Carrying a light load does not encumber a character.
 

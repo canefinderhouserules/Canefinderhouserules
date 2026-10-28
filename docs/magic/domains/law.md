@@ -1,6 +1,5 @@
 # Law
 
-***Source** [PRPG Core Rulebook pg. 45](http://paizo.com/pathfinderRPG/v5748btpy88yj)*
 
 
 ***Granted Powers**: You follow a strict and ordered code of laws, and in so doing, achieve enlightenment.*
@@ -11,9 +10,8 @@
 
 ***Domain Spells**: 1st—protection from chaos, 2nd—align weapon (law only), 3rd—magic circle against chaos, 4th—order's wrath, 5th—dispel chaos, 6th—hold monster, 7th—dictum, 8th—shield of law, 9th—summon monster IX (law spell only).*
 
-###  *<span class="smallcaps">Archon Subdomain</span>*
+###  *Archon Subdomain*
 
-***Source** [Advanced Player's Guide pg. 1](http://paizo.com/pathfinderRPG/v5748btpy8fo1)*
 
 ***Associated Domain(s)**: Good, Law*
 
@@ -24,9 +22,8 @@
 
 ***Replacement Domain Spells**: 1st—divine favor, 3rd—prayer, 6th—planar ally (archon only).*
 
-###  *<span class="smallcaps">Devil Subdomain</span>*
+###  *Devil Subdomain*
 
-***Source** [Advanced Player's Guide pg. 1](http://paizo.com/pathfinderRPG/v5748btpy8fo1)*
 
 ***Associated Domain(s)**: Evil, Law*
 
@@ -37,9 +34,8 @@
 
 ***Replacement Domain Spells**: 1st—command, 3rd—suggestion, 6th—planar binding (devils only).*
 
-###  *<span class="smallcaps">Inevitable Subdomain</span>*
+###  *Inevitable Subdomain*
 
-***Source** [Advanced Player's Guide pg. 1](http://paizo.com/pathfinderRPG/v5748btpy8fo1)*
 
 ***Associated Domain(s)**: Law*
 
@@ -50,7 +46,7 @@
 
 ***Replacement Domain Spells**: 3rd—command undead, 5th—command (greater), 6th—planar binding (inevitables only).*
 
-###  *<span class="smallcaps">Judgment Subdomain</span>*
+###  *Judgment Subdomain*
 
 
 ***Associated Domain(s)**: Law*
@@ -60,37 +56,35 @@
 
 *Chastisement (Su): As a standard action, you can cast a strengthened spell against a creature that damaged you since your last turn. This spell must target the creature that damaged you, and is cast at +3 caster level. Area of effect spells cannot be used in conjunction with this ability, but other spells that target multiple creatures may be. You can use this ability a number of times per day equal to 3 + your Wisdom modifier.*
 
-***Replacement Domain Spells**: 2nd—castigate<sup>APG</sup>, 4th—rebuke<sup>APG</sup>, 5th—mark of justice.*
+***Replacement Domain Spells**: 2nd—castigate, 4th—rebuke, 5th—mark of justice.*
 
-### *<span class="smallcaps">Kyton Subdomain</span>*
+### *Kyton Subdomain*
 
-***Source** [Champions of Corruption pg. 19](http://paizo.com/products/btpy991x?Pathfinder-Player-Companion-Champions-of-Corruption)*
 
 ***Associated Domain(s)**: Evil, Law*
 
 
 ***Replacement Power**: The following granted power replaces the scythe of evil ability of the Evil domain or the staff of order ability of the Law domain.*
 
-*Pain Is Power (Su): At 4th level, after taking damage from any source, you may attempt a DC 25 concentration check as an immediate action. If you succeed, you gain the benefits of a blessing of fervor<sup>APG</sup> spell for a number of rounds equal to 1/2 your cleric level. If you fail, this ability is expended with no effect. You can use this ability once at 4th level, plus an additional time for every 2 levels you are beyond 4th.*
+*Pain Is Power (Su): At 4th level, after taking damage from any source, you may attempt a DC 25 concentration check as an immediate action. If you succeed, you gain the benefits of a blessing of fervor spell for a number of rounds equal to 1/2 your cleric level. If you fail, this ability is expended with no effect. You can use this ability once at 4th level, plus an additional time for every 2 levels you are beyond 4th.*
 
-***Replacement Domain Spells**: 1st—delay pain<sup>UM</sup>, 2nd—instrument of agony<sup>UC</sup>, 3rd—agonize<sup>UM</sup>, 5th—symbol of pain.*
+***Replacement Domain Spells**: 1st—delay pain, 2nd—instrument of agony, 3rd—agonize, 5th—symbol of pain.*
 
-###  *<span class="smallcaps">Legislation Subdomain</span>*
+###  *Legislation Subdomain*
 
-***Source** [Heroes of the Streets pg. 19](http://paizo.com/products/btpy9ghc?Pathfinder-Player-Companion-Heroes-of-the-Streets)*
 
 ***Associated Domain(s)**: Law, Rune*
 
 
 ***Replacement Power**: The following granted power replaces the touch of law power of the Law domain or the blast rune power of the Rune domain.*
 
-*Prohibition (Su): As a standard action, you can command a creature within 30 feet to refrain from committing a particular action (including any referenced in the spell forbid action<sup>UM</sup>). If the creature performs the named action before the beginning of your next turn, it takes 1d6 points of damage + 1d6 point for every 2 cleric levels you possess and the effect ends. This is a language-dependent effect. You can use this ability a number of times per day equal to 3 + your Wisdom modifier.*
+*Prohibition (Su): As a standard action, you can command a creature within 30 feet to refrain from committing a particular action (including any referenced in the spell forbid action). If the creature performs the named action before the beginning of your next turn, it takes 1d6 points of damage + 1d6 point for every 2 cleric levels you possess and the effect ends. This is a language-dependent effect. You can use this ability a number of times per day equal to 3 + your Wisdom modifier.*
 
 *If you have the spell rune domain power, you can attach a spell effect to the prohibition as if it were the spell rune domain ability; the spell takes effect if the creature performs the named action. This spell must be of at least 1 level lower than the highest-level cleric spell you can cast, and it must target one or more creatures. Regardless of the number of targets the spell can normally affect, it affects only the creature that triggers the rune. Attaching a spell in this way extends the duration of the prohibition by a number of rounds equal to the spell’s level, or until it is discharged.*
 
-***Replacement Domain Spells**: 1st—forbid action<sup>UM</sup>, 5th—greater forbid action<sup>UM</sup>, 9th—mass hold monster.*
+***Replacement Domain Spells**: 1st—forbid action, 5th—greater forbid action, 9th—mass hold monster.*
 
-###  *<span class="smallcaps">Loyalty Subdomain</span>*
+###  *Loyalty Subdomain*
 
 
 ***Associated Domain(s)**: Law*
@@ -102,7 +96,7 @@
 
 ***Replacement Domain Spells**: 1st—remove fear, 5th—greater command.*
 
-###  *<span class="smallcaps">Slavery Subdomain</span>*
+###  *Slavery Subdomain*
 
 
 ***Associated Domain(s)**: Law*
@@ -114,9 +108,8 @@
 
 ***Replacement Domain Spells**: 1st—charm person, 5th— dominate person, 8th—binding.*
 
-###  *<span class="smallcaps">Sovereignty Subdomain</span>*
+###  *Sovereignty Subdomain*
 
-***Source** [Heroes of the High Court pg. 21](http://paizo.com/products/btpy9nda?Pathfinder-Player-Companion-Heroes-of-the-High-Court)*
 
 ***Associated Domain(s)**: Law*
 
@@ -125,9 +118,9 @@
 
 *Demand Subjugation (Sp): At 4th level, you can force a defeated creature to accept a binding pact as a condition of its surrender, as if you are using lesser geas, except the creature must have a number of Hit Dice equal to or less than your cleric level. At 8th level, this ability functions as per geas/quest. You can use this ability a number of times per day equal to 3 + your Wisdom modifier.*
 
-***Replacement Domain Spells**: 2nd—castigate<sup>APG</sup>, 5th—mass castigate<sup>APG</sup>, 9th—overwhelming presence<sup>UM</sup>.*
+***Replacement Domain Spells**: 2nd—castigate, 5th—mass castigate, 9th—overwhelming presence.*
 
-###  *<span class="smallcaps">Tyranny Subdomain</span>*
+###  *Tyranny Subdomain*
 
 
 ***Associated Domain(s)**: Law*
@@ -139,7 +132,7 @@
 
 ***Replacement Domain Spells**: 1st—command, 3rd— bestow curse, 7th—symbol of persuasion.*
 
-###  *<span class="smallcaps">Legislation Subdomain</span>*
+###  *Legislation Subdomain*
 
 ***Associated Domain(s)**: Law, Rune*
 

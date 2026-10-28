@@ -90,34 +90,31 @@ If a specific terrain falls into more than one category of favored terrain, the 
 
 **Table 3–12: Ranger**
 
-<table>
-<thead>
-<tr><th rowspan="2">Level</th><th rowspan="2">Base Attack Bonus</th><th rowspan="2">Fort Save</th><th rowspan="2">Ref Save</th><th rowspan="2">Will Save</th><th rowspan="2">Special</th><th colspan="4">Spells per Day</th></tr>
-<tr><th>1st</th><th>2nd</th><th>3rd</th><th>4th</th></tr>
-</thead>
-<tbody>
-<tr><td>1st</td><td>+1</td><td>+2</td><td>+2</td><td>+0</td><td>1st favored enemy, track, wild empathy</td><td>—</td><td>—</td><td>—</td><td>—</td></tr>
-<tr><td>2nd</td><td>+2</td><td>+3</td><td>+3</td><td>+0</td><td>Combat style feat</td><td>—</td><td>—</td><td>—</td><td>—</td></tr>
-<tr><td>3rd</td><td>+3</td><td>+3</td><td>+3</td><td>+1</td><td>Endurance, 1st favored terrain</td><td>—</td><td>—</td><td>—</td><td>—</td></tr>
-<tr><td>4th</td><td>+4</td><td>+4</td><td>+4</td><td>+1</td><td>Hunter’s bond</td><td>0</td><td>—</td><td>—</td><td>—</td></tr>
-<tr><td>5th</td><td>+5</td><td>+4</td><td>+4</td><td>+1</td><td>2nd favored enemy</td><td>1</td><td>—</td><td>—</td><td>—</td></tr>
-<tr><td>6th</td><td>+6/+1</td><td>+5</td><td>+5</td><td>+2</td><td>Combat style feat</td><td>1</td><td>—</td><td>—</td><td>—</td></tr>
-<tr><td>7th</td><td>+7/+2</td><td>+5</td><td>+5</td><td>+2</td><td>Woodland stride</td><td>1</td><td>0</td><td>—</td><td>—</td></tr>
-<tr><td>8th</td><td>+8/+3</td><td>+6</td><td>+6</td><td>+2</td><td>Swift tracker, 2nd favored terrain</td><td>1</td><td>1</td><td>—</td><td>—</td></tr>
-<tr><td>9th</td><td>+9/+4</td><td>+6</td><td>+6</td><td>+3</td><td>Evasion</td><td>2</td><td>1</td><td>—</td><td>—</td></tr>
-<tr><td>10th</td><td>+10/+5</td><td>+7</td><td>+7</td><td>+3</td><td>3rd favored enemy, combat style feat</td><td>2</td><td>1</td><td>0</td><td>—</td></tr>
-<tr><td>11th</td><td>+11/+6/+1</td><td>+7</td><td>+7</td><td>+3</td><td>Quarry</td><td>2</td><td>1</td><td>1</td><td>—</td></tr>
-<tr><td>12th</td><td>+12/+7/+2</td><td>+8</td><td>+8</td><td>+4</td><td>Camouflage</td><td>2</td><td>2</td><td>1</td><td>—</td></tr>
-<tr><td>13th</td><td>+13/+8/+3</td><td>+8</td><td>+8</td><td>+4</td><td>3rd favored terrain</td><td>3</td><td>2</td><td>1</td><td>0</td></tr>
-<tr><td>14th</td><td>+14/+9/+4</td><td>+9</td><td>+9</td><td>+4</td><td>Combat style feat</td><td>3</td><td>2</td><td>1</td><td>1</td></tr>
-<tr><td>15th</td><td>+15/+10/+5</td><td>+9</td><td>+9</td><td>+5</td><td>4th favored enemy</td><td>3</td><td>2</td><td>2</td><td>1</td></tr>
-<tr><td>16th</td><td>+16/+11/+6/+1</td><td>+10</td><td>+10</td><td>+5</td><td>Improved evasion</td><td>3</td><td>3</td><td>2</td><td>1</td></tr>
-<tr><td>17th</td><td>+17/+12/+7/+2</td><td>+10</td><td>+10</td><td>+5</td><td>Hide in plain sight</td><td>4</td><td>3</td><td>2</td><td>1</td></tr>
-<tr><td>18th</td><td>+18/+13/+8/+3</td><td>+11</td><td>+11</td><td>+6</td><td>4th favored terrain, combat style feat</td><td>4</td><td>3</td><td>2</td><td>2</td></tr>
-<tr><td>19th</td><td>+19/+14/+9/+4</td><td>+11</td><td>+11</td><td>+6</td><td>Improved quarry</td><td>4</td><td>3</td><td>3</td><td>2</td></tr>
-<tr><td>20th</td><td>+20/+15/+10/+5</td><td>+12</td><td>+12</td><td>+6</td><td>5th favored enemy, master hunter</td><td>4</td><td>4</td><td>3</td><td>3</td></tr>
-</tbody>
-</table>
+
+| Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special                                | Spells per Day |     |     |     |
+|-------|-------------------|-----------|----------|-----------|----------------------------------------|----------------|-----|-----|-----|
+|       |                   |           |          |           |                                        | 1st            | 2nd | 3rd | 4th |
+| 1st   | +1                | +2        | +2       | +0        | 1st favored enemy, track, wild empathy | —              | —   | —   | —   |
+| 2nd   | +2                | +3        | +3       | +0        | Combat style feat                      | —              | —   | —   | —   |
+| 3rd   | +3                | +3        | +3       | +1        | Endurance, 1st favored terrain         | —              | —   | —   | —   |
+| 4th   | +4                | +4        | +4       | +1        | Hunter’s bond                          | 0              | —   | —   | —   |
+| 5th   | +5                | +4        | +4       | +1        | 2nd favored enemy                      | 1              | —   | —   | —   |
+| 6th   | +6/+1             | +5        | +5       | +2        | Combat style feat                      | 1              | —   | —   | —   |
+| 7th   | +7/+2             | +5        | +5       | +2        | Woodland stride                        | 1              | 0   | —   | —   |
+| 8th   | +8/+3             | +6        | +6       | +2        | Swift tracker, 2nd favored terrain     | 1              | 1   | —   | —   |
+| 9th   | +9/+4             | +6        | +6       | +3        | Evasion                                | 2              | 1   | —   | —   |
+| 10th  | +10/+5            | +7        | +7       | +3        | 3rd favored enemy, combat style feat   | 2              | 1   | 0   | —   |
+| 11th  | +11/+6/+1         | +7        | +7       | +3        | Quarry                                 | 2              | 1   | 1   | —   |
+| 12th  | +12/+7/+2         | +8        | +8       | +4        | Camouflage                             | 2              | 2   | 1   | —   |
+| 13th  | +13/+8/+3         | +8        | +8       | +4        | 3rd favored terrain                    | 3              | 2   | 1   | 0   |
+| 14th  | +14/+9/+4         | +9        | +9       | +4        | Combat style feat                      | 3              | 2   | 1   | 1   |
+| 15th  | +15/+10/+5        | +9        | +9       | +5        | 4th favored enemy                      | 3              | 2   | 2   | 1   |
+| 16th  | +16/+11/+6/+1     | +10       | +10      | +5        | Improved evasion                       | 3              | 3   | 2   | 1   |
+| 17th  | +17/+12/+7/+2     | +10       | +10      | +5        | Hide in plain sight                    | 4              | 3   | 2   | 1   |
+| 18th  | +18/+13/+8/+3     | +11       | +11      | +6        | 4th favored terrain, combat style feat | 4              | 3   | 2   | 2   |
+| 19th  | +19/+14/+9/+4     | +11       | +11      | +6        | Improved quarry                        | 4              | 3   | 3   | 2   |
+| 20th  | +20/+15/+10/+5    | +12       | +12      | +6        | 5th favored enemy, master hunter       | 4              | 4   | 3   | 3   |
+
 
 **Hunter’s Bond (Ex)**: At 4th level, a ranger forms a bond with his hunting companions. This bond can take one of two forms. Once the form is chosen, it cannot be changed. The first is a bond to his companions. This bond allows him to spend a move action to grant half his favored enemy bonus against a single target of the appropriate type to all allies within 30 feet who can see or hear him. This bonus lasts for a number of rounds equal to the ranger’s Wisdom modifier (minimum 1). This bonus does not stack with any favored enemy bonuses possessed by his allies; they use whichever bonus is higher.
 

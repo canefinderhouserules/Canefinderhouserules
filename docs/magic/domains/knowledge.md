@@ -1,6 +1,5 @@
 # Knowledge
 
-***Source** [PRPG Core Rulebook pg. 45](http://paizo.com/pathfinderRPG/v5748btpy88yj)*
 
 
 ***Granted Powers**: You are a scholar and a sage of legends. In addition, you treat all Knowledge skills as class skills.*
@@ -11,9 +10,8 @@
 
 ***Domain Spells**: 1st—comprehend languages, 2nd—detect thoughts, 3rd—speak with dead, 4th—divination, 5th—true seeing, 6th—find the path, 7th—legend lore, 8th—discern location, 9th—foresight.*
 
-###  *<span class="smallcaps">Aeon Subdomain</span>*
+###  *Aeon Subdomain*
 
-***Source** [Champions of Balance pg. 16](http://paizo.com/products/btpy93nc?Pathfinder-Player-Companion-Champions-of-Balance)*
 
 ***Associated Domain(s)**: Knowledge*
 
@@ -24,9 +22,8 @@
 
 ***Replacement Domain Spells**: 1st—sanctuary, 5th—telepathic bond, 6th—planar binding (aeons only).*
 
-###  *<span class="smallcaps">Education Subdomain</span>*
+###  *Education Subdomain*
 
-***Source** [Heroes of the Streets pg. 18](http://paizo.com/products/btpy9ghc?Pathfinder-Player-Companion-Heroes-of-the-Streets)*
 
 ***Associated Domain(s)**: Community, Knowledge*
 
@@ -35,11 +32,10 @@
 
 *Teaching Moment (Su)*: At 4th level, when you or an ally within 30 feet rolls a natural 1 or a natural 20 on an attack roll, an ability check, a skill check, or a saving throw, as an immediate action you can grant all allies within 30 feet special insights that help them overcome similar challenges. Once during the next minute, each affected creature can choose to roll twice and take the better result before attempting an attack roll, ability check, skill check, or saving throw. You can use this ability once per day at 4th level, and one additional time per day for every 4 cleric levels beyond 4th.
 
-***Replacement Domain Spells**: 1st—know the enemy<sup>UM</sup>, 2nd—fox’s cunning, 6th—battlemind link<sup>UM</sup>, 8th—circle of clarity<sup>UM</sup>.*
+***Replacement Domain Spells**: 1st—know the enemy, 2nd—fox’s cunning, 6th—battlemind link, 8th—circle of clarity.*
 
-###  *<span class="smallcaps">Espionage Subdomain</span>*
+###  *Espionage Subdomain*
 
-***Source** [Heroes of the Streets pg. 18](http://paizo.com/products/btpy9ghc?Pathfinder-Player-Companion-Heroes-of-the-Streets)*
 
 ***Associated Domain(s)**: Knowledge, Trickery*
 
@@ -48,11 +44,10 @@
 
 *Deep Cover (Su): When you prepare your spells, you can also choose one cover identity—whether that of a real person or a fictitious one. You can assume the disguise of your cover identity in half the normal amount of time. When targeted by a spell or effect that would compromise your chosen disguise (such as detect evil, detect thoughts, or zone of truth), as an immediate action you can force the creature using the ability to attempt a Will save (DC = 10 + 1/2 your cleric level + your Wisdom modifier). If the creature fails, it gains false information in keeping with your cover identity. You can use this false information ability a number of times per day equal to 3 + your Wisdom modifier.*
 
-***Replacement Domain Spells**: 2nd—anonymous interaction<sup>ACG</sup>, 4th—zone of silence, 8th—mind blank.*
+***Replacement Domain Spells**: 2nd—anonymous interaction, 4th—zone of silence, 8th—mind blank.*
 
-###  *<span class="smallcaps">Memory Subdomain</span>*
+###  *Memory Subdomain*
 
-***Source** [Advanced Player's Guide pg. 1](http://paizo.com/pathfinderRPG/v5748btpy8fo1)*
 
 ***Associated Domain(s)**: Knowledge*
 
@@ -63,9 +58,8 @@
 
 ***Replacement Domain Spells**: 2nd—memory lapse, 6th—modify memory, 8th—moment of prescience.*
 
-###  *<span class="smallcaps">Thought Subdomain</span>*
+###  *Thought Subdomain*
 
-***Source** [Advanced Player's Guide pg. 1](http://paizo.com/pathfinderRPG/v5748btpy8fo1)*
 
 ***Associated Domain(s)**: Knowledge*
 
@@ -76,7 +70,7 @@
 
 ***Replacement Domain Spells**: 3rd—seek thoughts, 5th—telepathic bond, 8th—mind blank.*
 
-###  *<span class="smallcaps">Espionage Subdomain</span>*
+###  *Espionage Subdomain*
 
 ***Associated Domain(s)**: Knowledge, Trickery*
 

@@ -600,7 +600,7 @@ At 6th level and every 2 levels thereafter, the road keeper can target an additi
 
 Harbingers of decay, rot wardens live in damp lands where insects and rot break down the dead to feed the living. They see in the process of rot the beauty of nature’s capacity to recycle and repurpose material into something wondrous and new.
 
-**Invoke Decay (Su)**: A rot warden can channel stored spell energy into specific spells he hasn’t prepared ahead of time. He can “lose” a prepared spell in order to cast the following spells at the indicated levels: 1st—decompose corpse, 2nd—warp wood, 3rd—fungal infestation, 4th—explosion of rot, 5th—insect plague, 6th—swarm skin, 7th—creeping doom, 8th—horrid wilting, 9th—massacreHA. This alters spontaneous casting.
+**Invoke Decay (Su)**: A rot warden can channel stored spell energy into specific spells he hasn’t prepared ahead of time. He can “lose” a prepared spell in order to cast the following spells at the indicated levels: 1st—decompose corpse, 2nd—warp wood, 3rd—fungal infestation, 4th—explosion of rot, 5th—insect plague, 6th—swarm skin, 7th—creeping doom, 8th—horrid wilting, 9th—massacre. This alters spontaneous casting.
 
 **Nature Bond**: A rot warden who chooses a cleric domain as his nature bond must choose from the Destruction, Erosion, Repose, or Vermin domains. This alters nature bond.
 

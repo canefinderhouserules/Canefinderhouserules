@@ -3,7 +3,7 @@
 !!! note "Source"
     Rules from *Pathfinder Roleplaying Game: Ultimate Campaign*.
 
-You improve settlements by constructing buildings, which provide bonuses to the kingdom in general and the settlement in particular. Pages 224 and 225 present icons for these buildings, and the building descriptions and effects begin. Some buildings also intersect with the mass combat rules, notably with fortifications and reserve armies.
+You improve settlements by constructing buildings, which provide bonuses to the kingdom in general and the settlement in particular. Icons are presented for these buildings, and the building descriptions and effects begin. Some buildings also intersect with the mass combat rules, notably with fortifications and reserve armies.
 
 **Demolition**: If a lot has a building, you can clear it for new construction. Doing so costs 1 BP. You may construct a building on a lot the same turn you demolish the old building there. You do not regain BP for a demolished building (but see Rebuilding, below).
 
@@ -63,7 +63,7 @@ If you get overzealous in constructing a particular type of building in a settle
 
 **Magic Items**: This lists any magic item slot the building creates, which may be filled in the Upkeep phase. If a building lists multiple options within a category (such as “1 minor potion or wondrous item”), it has an equal chance for each option.
 
-**Settlement**: This lists settlement modifiers from page 205 of the *Pathfinder RPG GameMastery Guide* that affect specific skills within the settlement. These modifiers are ongoing from turn to turn, but apply only to skill checks within that settlement (not other settlements in the hex or anywhere else in your kingdom). Note that the *GameMastery Guide* also uses a settlement statistic called Economy; to avoid confusion with the Economy kingdom score, this book renames the Economy settlement statistic “Productivity.”
+**Settlement**: This lists settlement modifiers from the *Pathfinder RPG GameMastery Guide* that affect specific skills within the settlement. These modifiers are ongoing from turn to turn, but apply only to skill checks within that settlement (not other settlements in the hex or anywhere else in your kingdom). Note that the *GameMastery Guide* also uses a settlement statistic called Economy; to avoid confusion with the Economy kingdom score, this book renames the Economy settlement statistic “Productivity.”
 
 ## Academy
 

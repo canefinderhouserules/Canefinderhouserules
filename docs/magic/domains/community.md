@@ -1,6 +1,5 @@
 # Community
 
-**Source** [*PRPG Core Rulebook pg. 42*](http://paizo.com/pathfinderRPG/v5748btpy88yj)
 
 
 **Granted Powers**: Your touch can heal wounds, and your presence instills unity and strengthens emotional bonds.
@@ -11,7 +10,7 @@
 
 **Domain Spells**: 1st—*bless*, 2nd—*shield other*, 3rd—*prayer*, 4th—*imbue with spell ability*, 5th—*telepathic bond*, 6th—*heroes' feast*, 7th—*refuge*, 8th—*mass cure critical wounds*, 9th—*miracle*.
 
-###  <span class="smallcaps">Cooperation Subdomain</span>
+###  Cooperation Subdomain
 
 
 **Associated Domain(s)**: Community
@@ -21,11 +20,10 @@
 
 *Synergistic Touch (Sp)*: You can touch a creature as a standard action to confer upon it the benefits of any one Teamwork feat that you possess. You can use a Full Round Action and affect every adjacent ally. This effect persists for a number of rounds equal to your cleric level. You can use this ability a number of times per day equal to 3 + your Wisdom modifier.
 
-**Replacement Domain Spells**: 1st—*borrow skill*<sup>APG</sup>, 2nd—*share language*<sup>APG</sup>, 3rd—*coordinated effort*<sup>APG</sup>.
+**Replacement Domain Spells**: 1st—*borrow skill*, 2nd—*share language*, 3rd—*coordinated effort*.
 
-###  <span class="smallcaps">Education Subdomain</span>
+###  Education Subdomain
 
-**Source** [*Heroes of the Streets pg. 18*](http://paizo.com/products/btpy9ghc?Pathfinder-Player-Companion-Heroes-of-the-Streets)
 
 **Associated Domain(s)**: Community, Knowledge
 
@@ -34,11 +32,10 @@
 
 *Teaching Moment (Su)*: At 4th level, when you or an ally within 30 feet rolls a natural 1 or a natural 20 on an attack roll, an ability check, a skill check, or a saving throw, as an immediate action you can grant all allies within 30 feet special insights that help them overcome similar challenges. Once during the next minute, each affected creature can choose to roll twice and take the better result before attempting an attack roll, ability check, skill check, or saving throw. You can use this ability once per day at 4th level, and one additional time per day for every 4 cleric levels beyond 4th.
 
-**Replacement Domain Spells**: 1st—*know the enemy*<sup>UM</sup>, 2nd—*fox’s cunning*, 6th—*battlemind link*<sup>UM</sup>, 8th—*circle of clarity*<sup>UM</sup>.
+**Replacement Domain Spells**: 1st—*know the enemy*, 2nd—*fox’s cunning*, 6th—*battlemind link*, 8th—*circle of clarity*.
 
-###  <span class="smallcaps">Family Subdomain</span>
+###  Family Subdomain
 
-**Source** [*Advanced Player's Guide pg. 1*](http://paizo.com/pathfinderRPG/v5748btpy8fo1)
 
 **Associated Domain(s)**: Community
 
@@ -49,9 +46,8 @@
 
 **Replacement Domain Spells**: 2nd—*calm emotions*, 3rd—*create food and water*.
 
-###  <span class="smallcaps">Home Subdomain</span>
+###  Home Subdomain
 
-**Source** [*Advanced Player's Guide pg. 1*](http://paizo.com/pathfinderRPG/v5748btpy8fo1)
 
 **Associated Domain(s)**: Community
 
@@ -62,7 +58,7 @@
 
 **Replacement Domain Spells**: 1st—*alarm*, 3rd—*glyph of warding*, 7th—*guards and wards*.
 
-###  *<span class="smallcaps">Education Subdomain</span>*
+###  *Education Subdomain*
 
 ***Associated Domain(s)**: Community, Knowledge*
 

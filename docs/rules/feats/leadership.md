@@ -42,39 +42,36 @@ Followers have different priorities from cohorts. When you try to attract a foll
 
 **Table 5–2: Leadership**
 
-<table>
-<thead>
-<tr><th rowspan="2">Leadership Score</th><th rowspan="2">Cohort Level</th><th colspan="6">Number of Followers by Level</th></tr>
-<tr><th>1st</th><th>2nd</th><th>3rd</th><th>4th</th><th>5th</th><th>6th</th></tr>
-</thead>
-<tbody>
-<tr><td>1 or lower</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr>
-<tr><td>2</td><td>1st</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr>
-<tr><td>3</td><td>2nd</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr>
-<tr><td>4</td><td>3rd</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr>
-<tr><td>5</td><td>3rd</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr>
-<tr><td>6</td><td>4th</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr>
-<tr><td>7</td><td>5th</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr>
-<tr><td>8</td><td>5th</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr>
-<tr><td>9</td><td>6th</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr>
-<tr><td>10</td><td>7th</td><td>5</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr>
-<tr><td>11</td><td>7th</td><td>6</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr>
-<tr><td>12</td><td>8th</td><td>8</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr>
-<tr><td>13</td><td>9th</td><td>10</td><td>1</td><td>—</td><td>—</td><td>—</td><td>—</td></tr>
-<tr><td>14</td><td>10th</td><td>15</td><td>1</td><td>—</td><td>—</td><td>—</td><td>—</td></tr>
-<tr><td>15</td><td>10th</td><td>20</td><td>2</td><td>1</td><td>—</td><td>—</td><td>—</td></tr>
-<tr><td>16</td><td>11th</td><td>25</td><td>2</td><td>1</td><td>—</td><td>—</td><td>—</td></tr>
-<tr><td>17</td><td>12th</td><td>30</td><td>3</td><td>1</td><td>1</td><td>—</td><td>—</td></tr>
-<tr><td>18</td><td>12th</td><td>35</td><td>3</td><td>1</td><td>1</td><td>—</td><td>—</td></tr>
-<tr><td>19</td><td>13th</td><td>40</td><td>4</td><td>2</td><td>1</td><td>1</td><td>—</td></tr>
-<tr><td>20</td><td>14th</td><td>50</td><td>5</td><td>3</td><td>2</td><td>1</td><td>—</td></tr>
-<tr><td>21</td><td>15th</td><td>60</td><td>6</td><td>3</td><td>2</td><td>1</td><td>1</td></tr>
-<tr><td>22</td><td>15th</td><td>75</td><td>7</td><td>4</td><td>2</td><td>2</td><td>1</td></tr>
-<tr><td>23</td><td>16th</td><td>90</td><td>9</td><td>5</td><td>3</td><td>2</td><td>1</td></tr>
-<tr><td>24</td><td>17th</td><td>110</td><td>11</td><td>6</td><td>3</td><td>2</td><td>1</td></tr>
-<tr><td>25 or higher</td><td>17th</td><td>135</td><td>13</td><td>7</td><td>4</td><td>2</td><td>2</td></tr>
-</tbody>
-</table>
+
+| Leadership Score | Cohort Level | Number of Followers by Level |     |     |     |     |     |
+|------------------|--------------|------------------------------|-----|-----|-----|-----|-----|
+|                  |              | 1st                          | 2nd | 3rd | 4th | 5th | 6th |
+| 1 or lower       | —            | —                            | —   | —   | —   | —   | —   |
+| 2                | 1st          | —                            | —   | —   | —   | —   | —   |
+| 3                | 2nd          | —                            | —   | —   | —   | —   | —   |
+| 4                | 3rd          | —                            | —   | —   | —   | —   | —   |
+| 5                | 3rd          | —                            | —   | —   | —   | —   | —   |
+| 6                | 4th          | —                            | —   | —   | —   | —   | —   |
+| 7                | 5th          | —                            | —   | —   | —   | —   | —   |
+| 8                | 5th          | —                            | —   | —   | —   | —   | —   |
+| 9                | 6th          | —                            | —   | —   | —   | —   | —   |
+| 10               | 7th          | 5                            | —   | —   | —   | —   | —   |
+| 11               | 7th          | 6                            | —   | —   | —   | —   | —   |
+| 12               | 8th          | 8                            | —   | —   | —   | —   | —   |
+| 13               | 9th          | 10                           | 1   | —   | —   | —   | —   |
+| 14               | 10th         | 15                           | 1   | —   | —   | —   | —   |
+| 15               | 10th         | 20                           | 2   | 1   | —   | —   | —   |
+| 16               | 11th         | 25                           | 2   | 1   | —   | —   | —   |
+| 17               | 12th         | 30                           | 3   | 1   | 1   | —   | —   |
+| 18               | 12th         | 35                           | 3   | 1   | 1   | —   | —   |
+| 19               | 13th         | 40                           | 4   | 2   | 1   | 1   | —   |
+| 20               | 14th         | 50                           | 5   | 3   | 2   | 1   | —   |
+| 21               | 15th         | 60                           | 6   | 3   | 2   | 1   | 1   |
+| 22               | 15th         | 75                           | 7   | 4   | 2   | 2   | 1   |
+| 23               | 16th         | 90                           | 9   | 5   | 3   | 2   | 1   |
+| 24               | 17th         | 110                          | 11  | 6   | 3   | 2   | 1   |
+| 25 or higher     | 17th         | 135                          | 13  | 7   | 4   | 2   | 2   |
+
 
 *Cohort Level*: You can attract a cohort of up to this level. Regardless of your Leadership score, you can only recruit a cohort who is two or more levels lower than yourself. The cohort should be equipped with gear appropriate for its level (see Chapter 14). A cohort can be of any race or class. The cohort’s alignment may not be opposed to your alignment on either the law/chaos or good/evil axis, and you take a –1 penalty to your Leadership score if you recruit a cohort of an alignment different from your own.
 

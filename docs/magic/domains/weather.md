@@ -1,6 +1,5 @@
 # Weather
 
-***Source** [PRPG Core Rulebook pg. 48](http://paizo.com/pathfinderRPG/v5748btpy88yj)*
 
 
 ***Granted Powers**: With power over storm and sky, you can call down the wrath of the gods upon the world below.*
@@ -11,11 +10,10 @@
 
 ***Domain Spells**: 1st—obscuring mist, 2nd—fog cloud, 3rd—call lightning, 4th—sleet storm, 5th—ice storm, 6th—control winds, 7th—control weather, 8th—whirlwind, 9th—storm of vengeance.*
 
-###  *<span class="smallcaps">Monsoon Subdomain</span>*
+###  *Monsoon Subdomain*
 
-***Source** [Divine Anthology pg. 25](http://paizo.com/products/btpy9nvh?Pathfinder-Player-Companion-Divine-Anthology)*
 
-*This subdomain requires the [Acolyte of Apocrypha](https://www.aonprd.com/TraitDisplay.aspx?ItemName=Acolyte%20of%20Apocrypha) trait to access.*
+*This subdomain requires the Acolyte of Apocrypha trait to access.*
 
 ***Associated Domain(s)**: Weather*
 
@@ -24,11 +22,10 @@
 
 *Refreshing Rain (Su): At 8th level, as standard action, you can call a brief shower of rain in a 30-foot radius. Creatures in the area are healed of an amount of nonlethal damage equal to double your cleric level and are no longer exhausted, fatigued, nauseated, or sickened. You can use this ability once per day at 8th level, and one additional time per day for every 4 levels beyond 8th.*
 
-***Replacement Domain Spells**: 3rd—hydraulic torrent<sup>APG</sup>, 4th—control water, 5th—fickle winds<sup>APG</sup>, 9th—tsunami<sup>APG</sup>.*
+***Replacement Domain Spells**: 3rd—hydraulic torrent, 4th—control water, 5th—fickle winds, 9th—tsunami.*
 
-###  *<span class="smallcaps">Seasons Subdomain</span>*
+###  *Seasons Subdomain*
 
-***Source** [Advanced Player's Guide pg. 1](http://paizo.com/pathfinderRPG/v5748btpy8fo1)*
 
 ***Associated Domain(s)**: Weather*
 
@@ -39,9 +36,8 @@
 
 ***Replacement Domain Spells**: 1st—goodberry, 4th—blight, 8th—sunburst.*
 
-###  *<span class="smallcaps">Storms Subdomain</span>*
+###  *Storms Subdomain*
 
-***Source** [Advanced Player's Guide pg. 1](http://paizo.com/pathfinderRPG/v5748btpy8fo1)*
 
 ***Associated Domain(s)**: Weather*
 

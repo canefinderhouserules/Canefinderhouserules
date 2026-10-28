@@ -332,7 +332,7 @@ This complex dance makes you difficult to strike.
 
 **Effect**: The shuffling steps, bends, and leaps of this intricate dance make you a difficult target to hit, but also make it more difficult for you to perform other actions. When using this masterpiece, you take a –2 penalty on melee attack rolls and combat maneuver checks, and you must make a concentration check to cast any spell (DC 15 + the spell’s level), but you gain a +2 dodge bonus to your Armor Class. When you have 8 ranks in Perform (dance), and every 4 ranks thereafter, the penalty increases by –1 and the dodge bonus increases by +1. You can combine this masterpiece with fighting defensively and Combat Expertise, but not total defense. When you use this masterpiece, it lasts until the start of your next turn.
 
-Abilities that extend the duration of a bardic performance (such as Lingering Performance; see page 164 of the Advanced Player’s Guide) affect this masterpiece; this allows you to get multiple rounds of its benefit (and its penalties) at the cost of only 1 round of bardic performance.
+Abilities that extend the duration of a bardic performance (such as Lingering Performance; see the Advanced Player’s Guide) affect this masterpiece; this allows you to get multiple rounds of its benefit (and its penalties) at the cost of only 1 round of bardic performance.
 
 **Use**: 1 bardic performance round.
 
@@ -420,7 +420,7 @@ You can trap opponents with the power of your acting.
 
 **Effect**: You silently mime building an invisible wall, flattening your hands along linear planes to indicate its location and orientation. This “wall” is only real for creatures that see you perform this masterpiece (Will negates); you and your allies may automatically fail your saves if you want to treat the wall as real (for example, if you want to use the wall as a bridge to cross a chasm). For creatures who believe the wall is real, it has hardness 8, 90 hit points, and a break DC of 30 (multiple believing creatures can attack the walls, breaking through it more quickly as if they were all attacking a real wall rather than each attacking separate mental constructs). This is an illusion (phantasm) effect. Because the wall is a mental image, it blocks incorporeal creatures that fail their saves (because they perceive it as a magical barrier that excludes them), though they can still go around the wall or through the floor or ceiling to bypass it. It does not affect objects or creatures immune to mental effects (which can result in situations like an archer firing through the wall but unable to physically cross it).
 
-You can create one 10-foot-square wall per use of this ability; over several rounds you can extend this square or create other walls, all of which persist until you stop using bardic performance rounds to sustain them. The wall is immobile once created. Part of the wall must be in or along the edge of your space, and you cannot create a wall that extends beyond your natural reach (though you can create a wall, move, and create another by using this ability again). Once created, the wall exists until you end your performance or affected creatures “break” it. Abilities that extend the duration of a bardic performance (such as Lingering Performance; see page 164 of the Advanced Player’s Guide) affect this masterpiece.
+You can create one 10-foot-square wall per use of this ability; over several rounds you can extend this square or create other walls, all of which persist until you stop using bardic performance rounds to sustain them. The wall is immobile once created. Part of the wall must be in or along the edge of your space, and you cannot create a wall that extends beyond your natural reach (though you can create a wall, move, and create another by using this ability again). Once created, the wall exists until you end your performance or affected creatures “break” it. Abilities that extend the duration of a bardic performance (such as Lingering Performance; see the Advanced Player’s Guide) affect this masterpiece.
 
 **Use**: 1 bardic performance round per round.
 
@@ -492,7 +492,7 @@ Your driving notes cause unnatural heart rates in your opponents.
 
 **Effect**: You create a musical tempo that first mirrors your enemies’ heartbeats, and then quickens them to dangerous levels. When you complete the performance, all enemies within 30 feet who can hear your performance must save or take 1d6 points of damage as their pounding heart causes them to sweat blood. Creatures that are immune to critical hits are unaffected by this ability.
 
-Each round that you continue the performance adds another round to the bleed effect. Abilities that extend the duration of a bardic performance (such as Lingering Performance; see page 164 of the Advanced Player’s Guide) affect this masterpiece.
+Each round that you continue the performance adds another round to the bleed effect. Abilities that extend the duration of a bardic performance (such as Lingering Performance; see the Advanced Player’s Guide) affect this masterpiece.
 
 **Use**: 1 bardic performance round per round of bleed.
 
@@ -1252,7 +1252,7 @@ Fey who associate with courts often become bards skilled at navigating the inhum
 
 **Bardic Performance**: The fey courtier has access to the following bardic performances.
 
-**Scorn of the Wilds (Sp)**: At 8th level, the fey courtier can use bardic performance to permanently mark a creature with nature’s displeasure by spending 2 rounds performing while the target remains within 30 feet. The performance includes a litany of the target’s misdeeds against fey and nature. Unless the target succeeds at a Will saving throw (DC = 10 + half the bard’s level + his Charisma modifier), it is cursed as per nature’s exile or bestow curse. At 14th level, the fey courtier’s options expand to include baleful polymorph and green caressHA. As part of the performance, the fey courtier must define a condition under which the curse will be lifted, which must relate to making amends for the crime against fey or nature and cannot be suicidal to carry out. A creature that succeeds at its saving throw is immune to the fey courtier’s scorn of the wild for 24 hours. This is a curse effect. This replaces dirge of doom and frightening tune.
+**Scorn of the Wilds (Sp)**: At 8th level, the fey courtier can use bardic performance to permanently mark a creature with nature’s displeasure by spending 2 rounds performing while the target remains within 30 feet. The performance includes a litany of the target’s misdeeds against fey and nature. Unless the target succeeds at a Will saving throw (DC = 10 + half the bard’s level + his Charisma modifier), it is cursed as per nature’s exile or bestow curse. At 14th level, the fey courtier’s options expand to include baleful polymorph and green caress. As part of the performance, the fey courtier must define a condition under which the curse will be lifted, which must relate to making amends for the crime against fey or nature and cannot be suicidal to carry out. A creature that succeeds at its saving throw is immune to the fey courtier’s scorn of the wild for 24 hours. This is a curse effect. This replaces dirge of doom and frightening tune.
 
 **Stone Dance (Sp)**: At 15th level, the bard’s performance can move even the features of the natural world. This performance functions as animate plants (DC = 10 + half the bard’s level + his Charisma modifier) except it can also animate unworked stone and water from natural bodies of water (with statistics equivalent to an appropriate plant). This replaces inspire heroics.
 
@@ -1310,7 +1310,7 @@ Cultivators use music to promote plant growth and influence the behavior of plan
 
 **Class Skills**: A cultivator gains Survival as a class skill. This alters the bard’s class skills.
 
-**Plant Magic**: A cultivator bard adds the following spells to his bard spell list at the corresponding spell levels: entangle (1st), greensight (2nd), plant growth (3rd), antiplant shell (4th), tree stride (5th), green caressHA (6th). This alters the bard’s spells.
+**Plant Magic**: A cultivator bard adds the following spells to his bard spell list at the corresponding spell levels: entangle (1st), greensight (2nd), plant growth (3rd), antiplant shell (4th), tree stride (5th), green caress (6th). This alters the bard’s spells.
 
 **Verdant Voice**: By combining traditional Green Faith chants and fey songs into his bardic performance, a cultivator gains the ability to affect a creature of the plant type with mind-affecting bardic performances. However, doing so requires the cultivator to expend 1 additional round of bardic performance each round he maintains a performance augmented by verdant voice. This replaces bardic knowledge.
 

@@ -1,12 +1,11 @@
 # Runeforged
 
-**Source** [*Rise of the Runelords Anniversary Edition pg. 423*](http://paizo.com/products/btpy8tc0?Pathfinder-Adventure-Path-Rise-of-the-Runelords-Anniversary-Edition), [*Pathfinder \#5: Sins of the Saviors pg. 57*](http://paizo.com/pathfinder/adventurePath/riseOfTheRunelords/v5748btpy815o)
 
 **Aura** strong (two variable schools) **CL** 13th
 
 **Slot** none; **Price** +2 bonus; **Weight** —
 
-#### <span class="smallcaps">Description</span>
+#### Description
 
 In the height of an ancient empire, many of its greatest soldiers, mercenaries, and arcane assassins wielded weapons infused with two allied schools of magic that worked together to grant the wielder additional prowess over practitioners of an opposing school of magic. Weapons steeped in enchantment and illusion magic, for example, held great power over wielders of transmutation. Such weapons were often banned in Thassilon, so wary were the runelords of their propagation, yet all seven kept champions and assassins armed with *runeforged weapons* targeting their enemies’ weaknesses in secret.
 
@@ -32,6 +31,6 @@ The specific effects of each of the seven types of runeforged weapons are listed
 
 **Tyrannical/Liberal (opposes conjuration)**: A union of illusion and evocation magic, a *tyrannical weapon* functions as a *bane weapon* against conjurers and summoned monsters. The first three times each day that the weapon scores a critical hit against a creature with the extraplanar subtype, the weapon casts *dismissal* at the creature struck.
 
-#### <span class="smallcaps">Construction</span>
+#### Construction
 
 **Requirements** see sourcebook; **Price** —

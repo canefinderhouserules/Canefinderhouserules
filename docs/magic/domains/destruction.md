@@ -1,6 +1,5 @@
 # Destruction
 
-***Source** [PRPG Core Rulebook pg. 43](http://paizo.com/pathfinderRPG/v5748btpy88yj)*
 
 
 ***Granted Powers**: You revel in ruin and devastation, and can deliver particularly destructive attacks.*
@@ -11,9 +10,8 @@
 
 ***Domain Spells**: 1st—true strike, 2nd—shatter, 3rd—rage, 4th—inflict critical wounds, 5th—shout, 6th—harm, 7th—disintegrate, 8th—earthquake, 9th—implosion.*
 
-###  *<span class="smallcaps">Catastrophe Subdomain</span>*
+###  *Catastrophe Subdomain*
 
-***Source** [Advanced Player's Guide pg. 1](http://paizo.com/pathfinderRPG/v5748btpy8fo1)*
 
 ***Associated Domain(s)**: Destruction*
 
@@ -24,9 +22,8 @@
 
 ***Replacement Domain Spells**: 2nd—gust of wind, 3rd—call lightning, 7th—control weather.*
 
-### *<span class="smallcaps">Hatred Subdomain</span>*
+### *Hatred Subdomain*
 
-***Source** [Champions of Corruption pg. 19](http://paizo.com/products/btpy991x?Pathfinder-Player-Companion-Champions-of-Corruption)*
 
 ***Associated Domain(s)**: Destruction*
 
@@ -35,11 +32,10 @@
 
 *Hateful Aura (Su): At 4th level, you can emit a 30-foot aura of hatred for a number of rounds per day equal to your cleric level. These rounds need not be consecutive. Enemies within this aura must attempt a Will save (DC = 10 + 1/2 your cleric level + your Wisdom modifier). Characters who fail their save are filled with hatred, and cannot consider other characters allies for the purpose of any actions or use any teamwork feats. The effect ends immediately if the creature leaves the aura, you end the aura as a free action, or you expend all rounds of this ability.*
 
-***Replacement Domain Spells**: 1st—murderous command<sup>UM</sup>, 2nd—wrathful mantle<sup>APG</sup>.*
+***Replacement Domain Spells**: 1st—murderous command, 2nd—wrathful mantle.*
 
-###  *<span class="smallcaps">Rage Subdomain</span>*
+###  *Rage Subdomain*
 
-***Source** [Advanced Player's Guide pg. 1](http://paizo.com/pathfinderRPG/v5748btpy8fo1)*
 
 ***Associated Domain(s)**: Destruction*
 
@@ -50,7 +46,7 @@
 
 ***Replacement Domain Spells**: 2nd—bull’s strength, 6th—moonstruck.*
 
-###  *<span class="smallcaps">Torture Subdomain</span>*
+###  *Torture Subdomain*
 
 
 ***Associated Domain(s)**: Destruction*

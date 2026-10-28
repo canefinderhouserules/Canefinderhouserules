@@ -25,18 +25,15 @@ The effectiveness of your disguise depends on how much you’re changing your ap
 
 If you are impersonating a particular individual, those who know what that person looks like get a bonus on their Perception checks according to the table below. Furthermore, they are automatically considered to be suspicious of you, so opposed checks are always called for.
 
-<table>
-<thead>
-<tr><th rowspan="2">Familiarity</th><th colspan="1">Viewer’s Perception</th></tr>
-<tr><th>Check Bonus</th></tr>
-</thead>
-<tbody>
-<tr><td>Recognizes on sight</td><td>+4</td></tr>
-<tr><td>Friends or associates</td><td>+6</td></tr>
-<tr><td>Close friends</td><td>+8</td></tr>
-<tr><td>Intimate</td><td>+10</td></tr>
-</tbody>
-</table>
+
+| Familiarity           | Viewer’s Perception |
+|-----------------------|---------------------|
+|                       | Check Bonus         |
+| Recognizes on sight   | +4                  |
+| Friends or associates | +6                  |
+| Close friends         | +8                  |
+| Intimate              | +10                 |
+
 
 An individual makes a Perception check to see through your disguise immediately upon meeting you and again every hour thereafter. If you casually meet a large number of different creatures, each for a short time, check once per day or hour, using an average Perception modifier for the group.
 

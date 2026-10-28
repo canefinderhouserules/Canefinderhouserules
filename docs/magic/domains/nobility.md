@@ -1,6 +1,5 @@
 # Nobility
 
-***Source** [PRPG Core Rulebook pg. 46](http://paizo.com/pathfinderRPG/v5748btpy88yj)*
 
 
 ***Granted Powers**: You are a great leader, an inspiration to all who follow the teachings of your faith.*
@@ -11,9 +10,8 @@
 
 ***Domain Spells**: 1st—divine favor, 2nd—enthrall, 3rd—magic vestment, 4th—discern lies, 5th—greater command, 6th—geas/quest, 7th—repulsion, 8th—demand, 9th—storm of vengeance.*
 
-###  *<span class="smallcaps">Aristocracy Subdomain</span>*
+###  *Aristocracy Subdomain*
 
-***Source** [Champions of Balance pg. 16](http://paizo.com/products/btpy93nc?Pathfinder-Player-Companion-Champions-of-Balance)*
 
 ***Associated Domain(s)**: Nobility*
 
@@ -24,13 +22,12 @@
 
 *As a standard action, you can touch an ally to grant her your noble visage bonus against creatures that share her creature type (or subtype) for 1 minute. When you use this ability, you lose your noble visage bonus for 1 minute. You can use this ability a number of times per day equal to 3 + your Wisdom modifier.*
 
-***Replacement Domain Spells**: 3rd—enter image<sup>APG</sup>, 9th—overwhelming presence<sup>UM</sup>.*
+***Replacement Domain Spells**: 3rd—enter image, 9th—overwhelming presence.*
 
-###  *<span class="smallcaps">Hubris Subdomain</span>*
+###  *Hubris Subdomain*
 
-***Source** [Divine Anthology pg. 23](http://paizo.com/products/btpy9nvh?Pathfinder-Player-Companion-Divine-Anthology)*
 
-*This subdomain requires the [Acolyte of Apocrypha](https://www.aonprd.com/TraitDisplay.aspx?ItemName=Acolyte%20of%20Apocrypha) trait to access.*
+*This subdomain requires the Acolyte of Apocrypha trait to access.*
 
 ***Associated Domain(s)**: Glory, Nobility*
 
@@ -39,11 +36,10 @@
 
 *Divine Demand (Su): At 6th level, you can petition your divine patron for far greater power than you deserve. Activating this ability is a swift action that you must use as you cast a spell that has a reduced (but not negated) effect on a successful save. The saving throw DC of the spell increases by 2, and you gain a +2 bonus on caster level checks to overcome spell resistance with the spell. Any creature that succeeds at the saving throw instead avoids the effect entirely. If half or more of the targets are unaffected, you become shaken for a number of rounds equal to the spell’s level. If all of the targets are unaffected, you instead lose the ability to cast divine spells, channel energy, and use domain powers for 1d4+1 rounds; you can end this loss as a full-round action by loudly apologizing to your patron deity as a full-round action that provokes attacks of opportunity. You can use this ability once per day at 6th level, and one additional time per day for every 4 levels beyond 6th.*
 
-***Replacement Domain Spells**: 4th—hollow heroism<sup>UI</sup>, 7th—greater hollow heroism<sup>UI</sup>, 9th—overwhelming presence<sup>UM</sup>. If you are evil, replace the domain spells bless weapon and holy aura with aid and unholy aura respectively.*
+***Replacement Domain Spells**: 4th—hollow heroism, 7th—greater hollow heroism, 9th—overwhelming presence. If you are evil, replace the domain spells bless weapon and holy aura with aid and unholy aura respectively.*
 
-###  *<span class="smallcaps">Leadership Subdomain</span>*
+###  *Leadership Subdomain*
 
-***Source** [Advanced Player's Guide pg. 1](http://paizo.com/pathfinderRPG/v5748btpy8fo1)*
 
 ***Associated Domain(s)**: Nobility*
 
@@ -54,9 +50,8 @@
 
 ***Replacement Domain Spells**: 1st—bless, 3rd—prayer, 6th—brilliant inspiration.*
 
-###  *<span class="smallcaps">Martyr Subdomain</span>*
+###  *Martyr Subdomain*
 
-***Source** [Advanced Player's Guide pg. 1](http://paizo.com/pathfinderRPG/v5748btpy8fo1)*
 
 ***Associated Domain(s)**: Nobility*
 
@@ -69,17 +64,15 @@
 
 ## Variant Domain Powers
 
-***Description Source**: [**Haunted Heroes Handbook**](http://paizo.com/products/btpy9nft?Pathfinder-Player-Companion-Haunted-Heroes-Handbook)*
 
 *A cleric (or any other character capable of selecting a domain) who worships the deity in question can choose to gain the variant domain power upon first gaining the domain in question, but the choice to replace the domain power must be made immediately upon gaining access to that domain and cannot be changed thereafter.*
 
-###  *<span class="smallcaps">Naderi</span>*
+### *Drowned Tragedy Faith*
 
-***Source** [Haunted Heroes Handbook pg. 9](http://paizo.com/products/btpy9nft?Pathfinder-Player-Companion-Haunted-Heroes-Handbook)*
 
 ***Associated Domain(s)**: Nobility*
 
-*As worshipers of the goddess of drowning, romantic tragedy, and suicide, Naderi’s faithful are often fraught with encounters of the supernatural variety. Her followers contend more with undead than they do outsiders or magical possession, more as a matter of her portfolio than because of any actual training against such forces. Her divine worshipers use conventional means of defeating haunts or possessing spirits, but have additional power over those tied to means of death in Naderi’s portfolio.*
+*As worshipers of the goddess of drowning, romantic tragedy, and suicide, her faithful are often fraught with encounters of the supernatural variety. Her followers contend more with undead than they do outsiders or magical possession, more as a matter of her portfolio than because of any actual training against such forces. Her divine worshipers use conventional means of defeating haunts or possessing spirits, but have additional power over those tied to means of death in her portfolio.*
 
 ***Romance Beyond Death (Su)**: You receive Command Undead or Turn Undead as a bonus feat, depending on the type of energy you channel. Increase the DC of the saving throw against these feats’ effects by 2 as long as the spirits involved were slain by drowning or killed themselves. If the circumstances of the affected undead’s creation was linked to romance, increase the save DC by 4 instead.*
 

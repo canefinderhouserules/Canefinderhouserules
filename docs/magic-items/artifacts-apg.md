@@ -87,7 +87,7 @@ The spindle of perfect knowledge is large, bright, and flawless marquise-cut dia
 
 A talisman of reluctant wishes appears the same as a stone of controlling earth elementals, a rugged rock that seems to pulse with an inner power. Its powers are quite different, however, and are dependent on the Charisma of the holder. Any character touching a talisman of reluctant wishes must make a DC 15 Charisma check.
 
-If the check fails, the talisman acts as a stone of weight (see page 543 of the Pathfinder RPG Core Rulebook). Discarding it results in 5d6 points of damage to the character and the disappearance of the talisman.
+If the check fails, the talisman acts as a stone of weight (see the Pathfinder RPG Core Rulebook). Discarding it results in 5d6 points of damage to the character and the disappearance of the talisman.
 
 If the check succeeds, the talisman remains with the character for 5d6 hours, or until a wish is made with it, whichever comes first. It then disappears.
 

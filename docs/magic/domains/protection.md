@@ -1,6 +1,5 @@
 # Protection
 
-***Source** [PRPG Core Rulebook pg. 46](http://paizo.com/pathfinderRPG/v5748btpy88yj)*
 
 
 ***Granted Powers**: Your faith is your greatest source of protection, and you can use that faith to defend others. In addition, you receive a +1 resistance bonus on saving throws. This bonus increases by 1 for every 5 levels you possess.*
@@ -11,9 +10,8 @@
 
 ***Domain Spells**: 1st—sanctuary, 2nd—shield other, 3rd—protection from energy, 4th—spell immunity, 5th—spell resistance, 6th—antimagic field, 7th—repulsion, 8th—mind blank, 9th—prismatic sphere.*
 
-###  *<span class="smallcaps">Defense Subdomain</span>*
+###  *Defense Subdomain*
 
-***Source** [Advanced Player's Guide pg. 1](http://paizo.com/pathfinderRPG/v5748btpy8fo1)*
 
 ***Associated Domain(s)**: Protection*
 
@@ -24,9 +22,8 @@
 
 ***Replacement Domain Spells**: 1st—shield, 2nd—barkskin, 7th—deflection.*
 
-###  *<span class="smallcaps">Fortifications Subdomain</span>*
+###  *Fortifications Subdomain*
 
-***Source** [Heroes of the Streets pg. 18](http://paizo.com/products/btpy9ghc?Pathfinder-Player-Companion-Heroes-of-the-Streets)*
 
 ***Associated Domain(s)**: Protection*
 
@@ -37,9 +34,8 @@
 
 ***Replacement Domain Spells**: 1st—hold portal, 5th—wall of stone, 9th—prismatic wall.*
 
-###  *<span class="smallcaps">Purity Subdomain</span>*
+###  *Purity Subdomain*
 
-***Source** [Advanced Player's Guide pg. 1](http://paizo.com/pathfinderRPG/v5748btpy8fo1)*
 
 ***Associated Domain(s)**: Protection*
 
@@ -50,9 +46,8 @@
 
 ***Replacement Domain Spells**: 1st—protection from chaos/evil/good/law, 3rd—remove blindness/deafness, 5th—atonement.*
 
-###  *<span class="smallcaps">Solitude Subdomain</span>*
+###  *Solitude Subdomain*
 
-***Source** [Champions of Balance pg. 17](http://paizo.com/products/btpy93nc?Pathfinder-Player-Companion-Champions-of-Balance)*
 
 ***Associated Domain(s)**: Protection*
 
@@ -61,9 +56,9 @@
 
 *Taboo (Su): When a creature touches you or strikes you with a melee attack, you can activate this power as an immediate action. That creature takes a –1 penalty on saving throws for 1 minute. This penalty increases by 1 for every 5 levels you possess. When you use this ability, you lose your resistance bonus granted by the Protection domain for 1 minute. You can use this ability a number of times per day equal to 3 + your Wisdom modifier.*
 
-***Replacement Domain Spells**: 2nd—silence, 4th—detect scrying, 5th—mirage arcana, 9th—greater create demiplane<sup>UM</sup>.*
+***Replacement Domain Spells**: 2nd—silence, 4th—detect scrying, 5th—mirage arcana, 9th—greater create demiplane.*
 
-###  *<span class="smallcaps">Fortifications Subdomain</span>*
+###  *Fortifications Subdomain*
 
 ***Associated Domain(s)**: Protection*
 

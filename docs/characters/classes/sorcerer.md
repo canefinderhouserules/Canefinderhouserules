@@ -44,34 +44,31 @@ The following bloodlines represent only some of the possible sources of power th
 
 **Table 3–14: Sorcerer**
 
-<table>
-<thead>
-<tr><th rowspan="2">Level</th><th rowspan="2">Base Attack Bonus</th><th rowspan="2">Fort Save</th><th rowspan="2">Ref Save</th><th rowspan="2">Will Save</th><th rowspan="2">Special</th><th colspan="9">Spells per Day</th></tr>
-<tr><th>1st</th><th>2nd</th><th>3rd</th><th>4th</th><th>5th</th><th>6th</th><th>7th</th><th>8th</th><th>9th</th></tr>
-</thead>
-<tbody>
-<tr><td>1st</td><td>+0</td><td>+0</td><td>+0</td><td>+2</td><td>Bloodline power, cantrips, eschew materials</td><td>3</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr>
-<tr><td>2nd</td><td>+1</td><td>+0</td><td>+0</td><td>+3</td><td></td><td>4</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr>
-<tr><td>3rd</td><td>+1</td><td>+1</td><td>+1</td><td>+3</td><td>Bloodline power, bloodline spell</td><td>5</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr>
-<tr><td>4th</td><td>+2</td><td>+1</td><td>+1</td><td>+4</td><td></td><td>6</td><td>3</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr>
-<tr><td>5th</td><td>+2</td><td>+1</td><td>+1</td><td>+4</td><td>Bloodline spell</td><td>6</td><td>4</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr>
-<tr><td>6th</td><td>+3</td><td>+2</td><td>+2</td><td>+5</td><td></td><td>6</td><td>5</td><td>3</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr>
-<tr><td>7th</td><td>+3</td><td>+2</td><td>+2</td><td>+5</td><td>Bloodline feat, bloodline spell</td><td>6</td><td>6</td><td>4</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr>
-<tr><td>8th</td><td>+4</td><td>+2</td><td>+2</td><td>+6</td><td></td><td>6</td><td>6</td><td>5</td><td>3</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr>
-<tr><td>9th</td><td>+4</td><td>+3</td><td>+3</td><td>+6</td><td>Bloodline power, bloodline spell</td><td>6</td><td>6</td><td>6</td><td>4</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr>
-<tr><td>10th</td><td>+5</td><td>+3</td><td>+3</td><td>+7</td><td></td><td>6</td><td>6</td><td>6</td><td>5</td><td>3</td><td>—</td><td>—</td><td>—</td><td>—</td></tr>
-<tr><td>11th</td><td>+5</td><td>+3</td><td>+3</td><td>+7</td><td>Bloodline spell</td><td>6</td><td>6</td><td>6</td><td>6</td><td>4</td><td>—</td><td>—</td><td>—</td><td>—</td></tr>
-<tr><td>12th</td><td>+6/+1</td><td>+4</td><td>+4</td><td>+8</td><td></td><td>6</td><td>6</td><td>6</td><td>6</td><td>5</td><td>3</td><td>—</td><td>—</td><td>—</td></tr>
-<tr><td>13th</td><td>+6/+1</td><td>+4</td><td>+4</td><td>+8</td><td>Bloodline feat, bloodline spell</td><td>6</td><td>6</td><td>6</td><td>6</td><td>6</td><td>4</td><td>—</td><td>—</td><td>—</td></tr>
-<tr><td>14th</td><td>+7/+2</td><td>+4</td><td>+4</td><td>+9</td><td></td><td>6</td><td>6</td><td>6</td><td>6</td><td>6</td><td>5</td><td>3</td><td>—</td><td>—</td></tr>
-<tr><td>15th</td><td>+7/+2</td><td>+5</td><td>+5</td><td>+9</td><td>Bloodline power, bloodline spell</td><td>6</td><td>6</td><td>6</td><td>6</td><td>6</td><td>6</td><td>4</td><td>—</td><td>—</td></tr>
-<tr><td>16th</td><td>+8/+3</td><td>+5</td><td>+5</td><td>+10</td><td></td><td>6</td><td>6</td><td>6</td><td>6</td><td>6</td><td>6</td><td>5</td><td>3</td><td>—</td></tr>
-<tr><td>17th</td><td>+8/+3</td><td>+5</td><td>+5</td><td>+10</td><td>Bloodline spell</td><td>6</td><td>6</td><td>6</td><td>6</td><td>6</td><td>6</td><td>6</td><td>4</td><td>—</td></tr>
-<tr><td>18th</td><td>+9/+4</td><td>+6</td><td>+6</td><td>+11</td><td></td><td>6</td><td>6</td><td>6</td><td>6</td><td>6</td><td>6</td><td>6</td><td>5</td><td>3</td></tr>
-<tr><td>19th</td><td>+9/+4</td><td>+6</td><td>+6</td><td>+11</td><td>Bloodline feat, bloodline spell</td><td>6</td><td>6</td><td>6</td><td>6</td><td>6</td><td>6</td><td>6</td><td>6</td><td>4</td></tr>
-<tr><td>20th</td><td>+10/+5</td><td>+6</td><td>+6</td><td>+12</td><td>Bloodline power</td><td>6</td><td>6</td><td>6</td><td>6</td><td>6</td><td>6</td><td>6</td><td>6</td><td>6</td></tr>
-</tbody>
-</table>
+
+| Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special                                     | Spells per Day |     |     |     |     |     |     |     |     |
+|-------|-------------------|-----------|----------|-----------|---------------------------------------------|----------------|-----|-----|-----|-----|-----|-----|-----|-----|
+|       |                   |           |          |           |                                             | 1st            | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
+| 1st   | +0                | +0        | +0       | +2        | Bloodline power, cantrips, eschew materials | 3              | —   | —   | —   | —   | —   | —   | —   | —   |
+| 2nd   | +1                | +0        | +0       | +3        |                                             | 4              | —   | —   | —   | —   | —   | —   | —   | —   |
+| 3rd   | +1                | +1        | +1       | +3        | Bloodline power, bloodline spell            | 5              | —   | —   | —   | —   | —   | —   | —   | —   |
+| 4th   | +2                | +1        | +1       | +4        |                                             | 6              | 3   | —   | —   | —   | —   | —   | —   | —   |
+| 5th   | +2                | +1        | +1       | +4        | Bloodline spell                             | 6              | 4   | —   | —   | —   | —   | —   | —   | —   |
+| 6th   | +3                | +2        | +2       | +5        |                                             | 6              | 5   | 3   | —   | —   | —   | —   | —   | —   |
+| 7th   | +3                | +2        | +2       | +5        | Bloodline feat, bloodline spell             | 6              | 6   | 4   | —   | —   | —   | —   | —   | —   |
+| 8th   | +4                | +2        | +2       | +6        |                                             | 6              | 6   | 5   | 3   | —   | —   | —   | —   | —   |
+| 9th   | +4                | +3        | +3       | +6        | Bloodline power, bloodline spell            | 6              | 6   | 6   | 4   | —   | —   | —   | —   | —   |
+| 10th  | +5                | +3        | +3       | +7        |                                             | 6              | 6   | 6   | 5   | 3   | —   | —   | —   | —   |
+| 11th  | +5                | +3        | +3       | +7        | Bloodline spell                             | 6              | 6   | 6   | 6   | 4   | —   | —   | —   | —   |
+| 12th  | +6/+1             | +4        | +4       | +8        |                                             | 6              | 6   | 6   | 6   | 5   | 3   | —   | —   | —   |
+| 13th  | +6/+1             | +4        | +4       | +8        | Bloodline feat, bloodline spell             | 6              | 6   | 6   | 6   | 6   | 4   | —   | —   | —   |
+| 14th  | +7/+2             | +4        | +4       | +9        |                                             | 6              | 6   | 6   | 6   | 6   | 5   | 3   | —   | —   |
+| 15th  | +7/+2             | +5        | +5       | +9        | Bloodline power, bloodline spell            | 6              | 6   | 6   | 6   | 6   | 6   | 4   | —   | —   |
+| 16th  | +8/+3             | +5        | +5       | +10       |                                             | 6              | 6   | 6   | 6   | 6   | 6   | 5   | 3   | —   |
+| 17th  | +8/+3             | +5        | +5       | +10       | Bloodline spell                             | 6              | 6   | 6   | 6   | 6   | 6   | 6   | 4   | —   |
+| 18th  | +9/+4             | +6        | +6       | +11       |                                             | 6              | 6   | 6   | 6   | 6   | 6   | 6   | 5   | 3   |
+| 19th  | +9/+4             | +6        | +6       | +11       | Bloodline feat, bloodline spell             | 6              | 6   | 6   | 6   | 6   | 6   | 6   | 6   | 4   |
+| 20th  | +10/+5            | +6        | +6       | +12       | Bloodline power                             | 6              | 6   | 6   | 6   | 6   | 6   | 6   | 6   | 6   |
+
 
 ## Aberrant
 
@@ -133,34 +130,31 @@ Your family has always been skilled in the eldritch art of magic. While many of 
 
 **Table 3–15: Sorcerer Spells Known**
 
-<table>
-<thead>
-<tr><th rowspan="2">Level</th><th colspan="10">Spells Known</th></tr>
-<tr><th>0</th><th>1st</th><th>2nd</th><th>3rd</th><th>4th</th><th>5th</th><th>6th</th><th>7th</th><th>8th</th><th>9th</th></tr>
-</thead>
-<tbody>
-<tr><td>1st</td><td>4</td><td>2</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr>
-<tr><td>2nd</td><td>5</td><td>2</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr>
-<tr><td>3rd</td><td>5</td><td>3</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr>
-<tr><td>4th</td><td>6</td><td>3</td><td>1</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr>
-<tr><td>5th</td><td>6</td><td>4</td><td>2</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr>
-<tr><td>6th</td><td>7</td><td>4</td><td>2</td><td>1</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr>
-<tr><td>7th</td><td>7</td><td>5</td><td>3</td><td>2</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr>
-<tr><td>8th</td><td>8</td><td>5</td><td>3</td><td>2</td><td>1</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr>
-<tr><td>9th</td><td>8</td><td>5</td><td>4</td><td>3</td><td>2</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr>
-<tr><td>10th</td><td>9</td><td>5</td><td>4</td><td>3</td><td>2</td><td>1</td><td>—</td><td>—</td><td>—</td><td>—</td></tr>
-<tr><td>11th</td><td>9</td><td>5</td><td>5</td><td>4</td><td>3</td><td>2</td><td>—</td><td>—</td><td>—</td><td>—</td></tr>
-<tr><td>12th</td><td>9</td><td>5</td><td>5</td><td>4</td><td>3</td><td>2</td><td>1</td><td>—</td><td>—</td><td>—</td></tr>
-<tr><td>13th</td><td>9</td><td>5</td><td>5</td><td>4</td><td>4</td><td>3</td><td>2</td><td>—</td><td>—</td><td>—</td></tr>
-<tr><td>14th</td><td>9</td><td>5</td><td>5</td><td>4</td><td>4</td><td>3</td><td>2</td><td>1</td><td>—</td><td>—</td></tr>
-<tr><td>15th</td><td>9</td><td>5</td><td>5</td><td>4</td><td>4</td><td>4</td><td>3</td><td>2</td><td>—</td><td>—</td></tr>
-<tr><td>16th</td><td>9</td><td>5</td><td>5</td><td>4</td><td>4</td><td>4</td><td>3</td><td>2</td><td>1</td><td>—</td></tr>
-<tr><td>17th</td><td>9</td><td>5</td><td>5</td><td>4</td><td>4</td><td>4</td><td>3</td><td>3</td><td>2</td><td>—</td></tr>
-<tr><td>18th</td><td>9</td><td>5</td><td>5</td><td>4</td><td>4</td><td>4</td><td>3</td><td>3</td><td>2</td><td>1</td></tr>
-<tr><td>19th</td><td>9</td><td>5</td><td>5</td><td>4</td><td>4</td><td>4</td><td>3</td><td>3</td><td>3</td><td>2</td></tr>
-<tr><td>20th</td><td>9</td><td>5</td><td>5</td><td>4</td><td>4</td><td>4</td><td>3</td><td>3</td><td>3</td><td>3</td></tr>
-</tbody>
-</table>
+
+| Level | Spells Known |     |     |     |     |     |     |     |     |     |
+|-------|--------------|-----|-----|-----|-----|-----|-----|-----|-----|-----|
+|       | 0            | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
+| 1st   | 4            | 2   | —   | —   | —   | —   | —   | —   | —   | —   |
+| 2nd   | 5            | 2   | —   | —   | —   | —   | —   | —   | —   | —   |
+| 3rd   | 5            | 3   | —   | —   | —   | —   | —   | —   | —   | —   |
+| 4th   | 6            | 3   | 1   | —   | —   | —   | —   | —   | —   | —   |
+| 5th   | 6            | 4   | 2   | —   | —   | —   | —   | —   | —   | —   |
+| 6th   | 7            | 4   | 2   | 1   | —   | —   | —   | —   | —   | —   |
+| 7th   | 7            | 5   | 3   | 2   | —   | —   | —   | —   | —   | —   |
+| 8th   | 8            | 5   | 3   | 2   | 1   | —   | —   | —   | —   | —   |
+| 9th   | 8            | 5   | 4   | 3   | 2   | —   | —   | —   | —   | —   |
+| 10th  | 9            | 5   | 4   | 3   | 2   | 1   | —   | —   | —   | —   |
+| 11th  | 9            | 5   | 5   | 4   | 3   | 2   | —   | —   | —   | —   |
+| 12th  | 9            | 5   | 5   | 4   | 3   | 2   | 1   | —   | —   | —   |
+| 13th  | 9            | 5   | 5   | 4   | 4   | 3   | 2   | —   | —   | —   |
+| 14th  | 9            | 5   | 5   | 4   | 4   | 3   | 2   | 1   | —   | —   |
+| 15th  | 9            | 5   | 5   | 4   | 4   | 4   | 3   | 2   | —   | —   |
+| 16th  | 9            | 5   | 5   | 4   | 4   | 4   | 3   | 2   | 1   | —   |
+| 17th  | 9            | 5   | 5   | 4   | 4   | 4   | 3   | 3   | 2   | —   |
+| 18th  | 9            | 5   | 5   | 4   | 4   | 4   | 3   | 3   | 2   | 1   |
+| 19th  | 9            | 5   | 5   | 4   | 4   | 4   | 3   | 3   | 3   | 2   |
+| 20th  | 9            | 5   | 5   | 4   | 4   | 4   | 3   | 3   | 3   | 3   |
+
 
 **Bloodline Arcana**: Whenever you apply a metamagic feat to a spell that increases the slot used by at least one level, increase the spell’s DC by +1. This bonus does not stack with itself and does not apply to spells modified by the Heighten Spell feat.
 

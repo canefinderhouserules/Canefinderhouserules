@@ -1,6 +1,5 @@
 # Darkness
 
-**Source** [*PRPG Core Rulebook pg. 42*](http://paizo.com/pathfinderRPG/v5748btpy88yj)
 
 
 **Granted Powers**: You manipulate shadows and darkness. In addition, you receive Blind-Fight as a bonus feat.
@@ -11,9 +10,8 @@
 
 **Domain Spells**: 1st—*obscuring mist*, 2nd—*blindness/deafness* (only to cause blindness), 3rd—*deeper darkness*, 4th—*shadow conjuration*, 5th—*summon monster V* (summons 1d3 shadows), 6th—*shadow walk*, 7th—*power word blind*, 8th—*greater shadow evocation*, 9th—*shades*.
 
-###  <span class="smallcaps">Loss Subdomain</span>
+###  Loss Subdomain
 
-**Source** [*Advanced Player's Guide pg. 1*](http://paizo.com/pathfinderRPG/v5748btpy8fo1)
 
 **Associated Domain(s)**: Darkness
 
@@ -24,7 +22,7 @@
 
 **Replacement Domain Spells**: 5th—*enervation*, 6th—*modify memory*, 9th—*energy drain*.
 
-###  <span class="smallcaps">Moon Subdomain</span>
+###  Moon Subdomain
 
 
 **Associated Domain(s)**: Darkness
@@ -36,9 +34,8 @@
 
 **Replacement Domain Spells**: 1st—*faerie fire*, 4th—*moonstruck*, 6th—*dream*.
 
-###  <span class="smallcaps">Night Subdomain</span>
+###  Night Subdomain
 
-**Source** [*Advanced Player's Guide pg. 1*](http://paizo.com/pathfinderRPG/v5748btpy8fo1)
 
 **Associated Domain(s)**: Darkness
 
@@ -49,9 +46,8 @@
 
 **Replacement Domain Spells**: 1st—*sleep*, 6th—*nightmare*.
 
-### <span class="smallcaps">Shadow Subdomain</span>
+### Shadow Subdomain
 
-**Source** [*Blood of Shadows pg. 17*](http://paizo.com/products/btpy9j6s?Pathfinder-Player-Companion-Blood-of-Shadows)
 
 **Associated Domain(s)**: Darkness, Death
 

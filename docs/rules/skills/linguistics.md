@@ -8,22 +8,19 @@ You are skilled at working with language, in both its spoken and written forms. 
 
 Both the Linguistics check and (if necessary) the Wisdom check are made secretly by the GM, so that you can’t tell whether the conclusion you draw is true or false.
 
-<table>
-<thead>
-<tr><th rowspan="2">Condition</th><th colspan="1">Linguistics</th></tr>
-<tr><th>Check Modifier</th></tr>
-</thead>
-<tbody>
-<tr><td>Type of document unknown to reader</td><td>–2</td></tr>
-<tr><td>Type of document somewhat known to reader</td><td>+0</td></tr>
-<tr><td>Type of document well known to reader</td><td>+2</td></tr>
-<tr><td>Handwriting not known to reader</td><td>–2</td></tr>
-<tr><td>Handwriting somewhat known to reader</td><td>+0</td></tr>
-<tr><td>Handwriting intimately known to reader</td><td>+2</td></tr>
-<tr><td>Reader only casually reviews the document</td><td>–2</td></tr>
-<tr><td>Document contradicts orders or knowledge</td><td>+2</td></tr>
-</tbody>
-</table>
+
+| Condition                                 | Linguistics    |
+|-------------------------------------------|----------------|
+|                                           | Check Modifier |
+| Type of document unknown to reader        | –2             |
+| Type of document somewhat known to reader | +0             |
+| Type of document well known to reader     | +2             |
+| Handwriting not known to reader           | –2             |
+| Handwriting somewhat known to reader      | +0             |
+| Handwriting intimately known to reader    | +2             |
+| Reader only casually reviews the document | –2             |
+| Document contradicts orders or knowledge  | +2             |
+
 
 **Table 4–6: Knowledge Skill DCs**
 

@@ -1,6 +1,5 @@
 # Luck
 
-***Source** [PRPG Core Rulebook pg. 45](http://paizo.com/pathfinderRPG/v5748btpy88yj)*
 
 
 ***Granted Powers**: You are infused with luck, and your mere presence can spread good fortune.*
@@ -11,9 +10,8 @@
 
 ***Domain Spells**: 1st—true strike, 2nd—aid, 3rd—protection from energy, 4th—freedom of movement, 5th—break enchantment, 6th—mislead, 7th—spell turning, 8th—moment of prescience, 9th—miracle.*
 
-###  *<span class="smallcaps">Curse Subdomain</span>*
+###  *Curse Subdomain*
 
-***Source** [Advanced Player's Guide pg. 1](http://paizo.com/pathfinderRPG/v5748btpy8fo1)*
 
 ***Associated Domain(s)**: Luck*
 
@@ -24,9 +22,8 @@
 
 ***Replacement Domain Spells**: 1st—bane, 3rd—bestow curse, 6th—eyebite.*
 
-###  *<span class="smallcaps">Fate Subdomain</span>*
+###  *Fate Subdomain*
 
-***Source** [Advanced Player's Guide pg. 1](http://paizo.com/pathfinderRPG/v5748btpy8fo1)*
 
 ***Associated Domain(s)**: Luck*
 
@@ -37,9 +34,8 @@
 
 ***Replacement Domain Spells**: 2nd—augury, 3rd—borrow fortune.*
 
-###  *<span class="smallcaps">Imagination Subdomain</span>*
+###  *Imagination Subdomain*
 
-***Source** [Champions of Purity pg. 21](http://paizo.com/products/btpy8x1s?Pathfinder-Player-Companion-Champions-of-Purity)*
 
 ***Associated Domain(s)**: Luck*
 

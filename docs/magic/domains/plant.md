@@ -1,6 +1,5 @@
 # Plant
 
-***Source** [PRPG Core Rulebook pg. 46](http://paizo.com/pathfinderRPG/v5748btpy88yj)*
 
 
 ***Granted Powers**: You find solace in the green, can grow defensive thorns, and can communicate with plants.*
@@ -11,9 +10,8 @@
 
 ***Domain Spells**: 1st—entangle, 2nd—barkskin, 3rd—plant growth, 4th—command plants, 5th—wall of thorns, 6th—repel wood, 7th—animate plants, 8th—control plants, 9th—shambler.*
 
-###  *<span class="smallcaps">Decay Subdomain</span>*
+###  *Decay Subdomain*
 
-***Source** [Advanced Player's Guide pg. 1](http://paizo.com/pathfinderRPG/v5748btpy8fo1)*
 
 ***Associated Domain(s)**: Plant*
 
@@ -24,9 +22,8 @@
 
 ***Replacement Domain Spells**: 3rd—contagion, 4th—poison, 6th—harm.*
 
-###  *<span class="smallcaps">Growth Subdomain</span>*
+###  *Growth Subdomain*
 
-***Source** [Advanced Player's Guide pg. 1](http://paizo.com/pathfinderRPG/v5748btpy8fo1)*
 
 ***Associated Domain(s)**: Plant*
 
@@ -37,9 +34,8 @@
 
 ***Replacement Domain Spells**: 1st—enlarge person, 5th—righteous might.*
 
-###  *<span class="smallcaps">Leshy Subdomain</span>*
+###  *Leshy Subdomain*
 
-***Source** [Ultimate Wilderness pg. 23](http://paizo.com/products/btpy9ujo)*
 
 ***Associated Domain(s)**: Plant*
 
@@ -52,11 +48,10 @@
 
 ***Replacement Domain Spells**: 1st—tree shape, 5th—commune with nature.*
 
-###  *<span class="smallcaps">Thorns Subdomain</span>*
+###  *Thorns Subdomain*
 
-***Source** [Divine Anthology pg. 26](http://paizo.com/products/btpy9nvh?Pathfinder-Player-Companion-Divine-Anthology)*
 
-*This subdomain requires the [Acolyte of Apocrypha](https://www.aonprd.com/TraitDisplay.aspx?ItemName=Acolyte%20of%20Apocrypha) trait to access.*
+*This subdomain requires the Acolyte of Apocrypha trait to access.*
 
 ***Associated Domain(s)**: Plant*
 
@@ -65,7 +60,7 @@
 
 *Cruel Thicket (Su): As a standard action, you can cause the ground in a 5-foot-radius burst centered on you to sprout twisting, thorny vines. Any creature moving through it must travel at half speed or take bleed damage equal to half your cleric level; if you activate this ability in an area with numerous plants (grass, weeds, trees, etc.), the area also becomes difficult terrain. These effects last for 1 minute, after which the vines crumble to dust. Creatures able to move through natural undergrowth unhindered ignore the effects of this ability. You can use this ability a number of times per day equal to 3 + your Wisdom modifier.*
 
-***Replacement Domain Spells**: 1st—thorn javelin<sup>ACG</sup>, 3rd— thorny entanglement<sup>ACG</sup>, 4th—thorn body<sup>APG</sup>.*
+***Replacement Domain Spells**: 1st—thorn javelin, 3rd— thorny entanglement, 4th—thorn body.*
 
 ## Leshy Subdomain
 

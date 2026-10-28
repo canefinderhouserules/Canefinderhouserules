@@ -32,9 +32,9 @@ The GM is free to invent any sort of event to serve as the moment of ascension, 
 
 ## Selecting a Path
 
-Once you gain mythic power, you select a mythic path, which is much like an additional class. It determines the majority of your mythic abilities. But instead of gaining levels in a mythic path, you gain tiers that grant additional abilities and bonuses. Gaining a tier in a path doesn't replace gaining experience and character levels. You still receive experience points for defeating challenges, but these apply only to your class levels. You gain additional mythic tiers by completing a number of trials; see Gaining Tiers on page 13.
+Once you gain mythic power, you select a mythic path, which is much like an additional class. It determines the majority of your mythic abilities. But instead of gaining levels in a mythic path, you gain tiers that grant additional abilities and bonuses. Gaining a tier in a path doesn't replace gaining experience and character levels. You still receive experience points for defeating challenges, but these apply only to your class levels. You gain additional mythic tiers by completing a number of trials; see Gaining Tiers.
 
-Each path grants a number of specific abilities. In addition, all mythic characters have certain mythic abilities in common (see Table 1-1: Base Mythic Abilities on page 12). As soon as your mythic character achieves a new tier, you must select all of the new powers that come with that tier.
+Each path grants a number of specific abilities. In addition, all mythic characters have certain mythic abilities in common (see Table 1-1: Base Mythic Abilities). As soon as your mythic character achieves a new tier, you must select all of the new powers that come with that tier.
 
 ## Mythic Paths
 

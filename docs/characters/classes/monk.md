@@ -39,33 +39,30 @@ A monk applies his full Strength bonus to his damage rolls for all successful at
 
 **Table 3–10: Monk**
 
-<table>
-<thead>
-<tr><th>Level</th><th>Base Attack Bonus</th><th>Fort Save</th><th>Ref Save</th><th>Will Save</th><th>Special</th><th>Flurry of Blows Attack Bonus</th><th>Unarmed Damage*</th><th>AC Bonus</th><th>Fast Movement</th></tr>
-</thead>
-<tbody>
-<tr><td>1st</td><td>+0</td><td>+2</td><td>+2</td><td>+2</td><td>Stunning fist, unarmed strike</td><td>—</td><td>1d6</td><td>+0</td><td>+0 ft.</td></tr>
-<tr><td>2nd</td><td>+1</td><td>+3</td><td>+3</td><td>+3</td><td>Bonus feats (2), evasion, flurry of blows</td><td>+0/+0</td><td>1d6</td><td>+0</td><td>+0 ft.</td></tr>
-<tr><td>3rd</td><td>+2</td><td>+3</td><td>+3</td><td>+3</td><td>Fast movement, maneuver training, still mind</td><td>+1/+1</td><td>1d6</td><td>+0</td><td>+10 ft.</td></tr>
-<tr><td>4th</td><td>+3</td><td>+4</td><td>+4</td><td>+4</td><td><em>Ki</em> pool (magic), slow fall 20 ft.</td><td>+2/+2</td><td>1d8</td><td>+1</td><td>+10 ft.</td></tr>
-<tr><td>5th</td><td>+3</td><td>+4</td><td>+4</td><td>+4</td><td>High jump, purity of body</td><td>+3/+3</td><td>1d8</td><td>+1</td><td>+10 ft.</td></tr>
-<tr><td>6th</td><td>+4</td><td>+5</td><td>+5</td><td>+5</td><td>Bonus feat, slow fall 30 ft.</td><td>+4/+4/–1</td><td>1d8</td><td>+1</td><td>+20 ft.</td></tr>
-<tr><td>7th</td><td>+5</td><td>+5</td><td>+5</td><td>+5</td><td>Wholeness of body</td><td>+5/+5/+0</td><td>1d8</td><td>+1</td><td>+20 ft.</td></tr>
-<tr><td>8th</td><td>+6/+1</td><td>+6</td><td>+6</td><td>+6</td><td>Slow fall 40 ft.</td><td>+6/+6/+1/+1</td><td>1d10</td><td>+2</td><td>+20 ft.</td></tr>
-<tr><td>9th</td><td>+6/+1</td><td>+6</td><td>+6</td><td>+6</td><td>Improved evasion</td><td>+7/+7/+2/+2</td><td>1d10</td><td>+2</td><td>+30 ft.</td></tr>
-<tr><td>10th</td><td>+7/+2</td><td>+7</td><td>+7</td><td>+7</td><td>Bonus feat, <em>ki</em> pool (lawful), slow fall 50 ft.</td><td>+8/+8/+3/+3</td><td>1d10</td><td>+2</td><td>+30 ft.</td></tr>
-<tr><td>11th</td><td>+8/+3</td><td>+7</td><td>+7</td><td>+7</td><td>Diamond body</td><td>+9/+9/+4/+4/–1</td><td>1d10</td><td>+2</td><td>+30 ft.</td></tr>
-<tr><td>12th</td><td>+9/+4</td><td>+8</td><td>+8</td><td>+8</td><td>Abundant step, slow fall 60 ft.</td><td>+10/+10/+5/+5/+0</td><td>2d6</td><td>+3</td><td>+40 ft.</td></tr>
-<tr><td>13th</td><td>+9/+4</td><td>+8</td><td>+8</td><td>+8</td><td>Diamond soul</td><td>+11/+11/+6/+6/+1</td><td>2d6</td><td>+3</td><td>+40 ft.</td></tr>
-<tr><td>14th</td><td>+10/+5</td><td>+9</td><td>+9</td><td>+9</td><td>Bonus feat, slow fall 70 ft.</td><td>+12/+12/+7/+7/+2</td><td>2d6</td><td>+3</td><td>+40 ft.</td></tr>
-<tr><td>15th</td><td>+11/+6/+1</td><td>+9</td><td>+9</td><td>+9</td><td>Quivering palm</td><td>+13/+13/+8/+8/+3/+3</td><td>2d6</td><td>+3</td><td>+50 ft.</td></tr>
-<tr><td>16th</td><td>+12/+7/+2</td><td>+10</td><td>+10</td><td>+10</td><td><em>Ki</em> pool (adamantine), slow fall 80 ft.</td><td>+14/+14/+9/+9/+4/+4/–1</td><td>2d8</td><td>+4</td><td>+50 ft.</td></tr>
-<tr><td>17th</td><td>+12/+7/+2</td><td>+10</td><td>+10</td><td>+10</td><td>Timeless body, tongue of the sun and moon</td><td>+15/+15/+10/+10/+5/+5/+0</td><td>2d8</td><td>+4</td><td>+50 ft.</td></tr>
-<tr><td>18th</td><td>+13/+8/+3</td><td>+11</td><td>+11</td><td>+11</td><td>Bonus feat, slow fall 90 ft.</td><td>+16/+16/+11/+11/+6/+6/+1</td><td>2d8</td><td>+4</td><td>+60 ft.</td></tr>
-<tr><td>19th</td><td>+14/+9/+4</td><td>+11</td><td>+11</td><td>+11</td><td>Empty body</td><td>+17/+17/+12/+12/+7/+7/+2</td><td>2d8</td><td>+4</td><td>+60 ft.</td></tr>
-<tr><td>20th</td><td>+15/+10/+5</td><td>+12</td><td>+12</td><td>+12</td><td>Perfect self, slow fall any distance *The value shown is for Medium monks. See below for Small or Large monk damage.</td><td>+18/+18/+13/+13/+8/+8/+3</td><td>2d10</td><td>+5</td><td>+60 ft.</td></tr>
-</tbody>
-</table>
+
+| Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special                                                                                                               | Flurry of Blows Attack Bonus | Unarmed Damage\* | AC Bonus | Fast Movement |
+|-------|-------------------|-----------|----------|-----------|-----------------------------------------------------------------------------------------------------------------------|------------------------------|------------------|----------|---------------|
+| 1st   | +0                | +2        | +2       | +2        | Stunning fist, unarmed strike                                                                                         | —                            | 1d6              | +0       | +0 ft.        |
+| 2nd   | +1                | +3        | +3       | +3        | Bonus feats (2), evasion, flurry of blows                                                                             | +0/+0                        | 1d6              | +0       | +0 ft.        |
+| 3rd   | +2                | +3        | +3       | +3        | Fast movement, maneuver training, still mind                                                                          | +1/+1                        | 1d6              | +0       | +10 ft.       |
+| 4th   | +3                | +4        | +4       | +4        | *Ki* pool (magic), slow fall 20 ft.                                                                                   | +2/+2                        | 1d8              | +1       | +10 ft.       |
+| 5th   | +3                | +4        | +4       | +4        | High jump, purity of body                                                                                             | +3/+3                        | 1d8              | +1       | +10 ft.       |
+| 6th   | +4                | +5        | +5       | +5        | Bonus feat, slow fall 30 ft.                                                                                          | +4/+4/–1                     | 1d8              | +1       | +20 ft.       |
+| 7th   | +5                | +5        | +5       | +5        | Wholeness of body                                                                                                     | +5/+5/+0                     | 1d8              | +1       | +20 ft.       |
+| 8th   | +6/+1             | +6        | +6       | +6        | Slow fall 40 ft.                                                                                                      | +6/+6/+1/+1                  | 1d10             | +2       | +20 ft.       |
+| 9th   | +6/+1             | +6        | +6       | +6        | Improved evasion                                                                                                      | +7/+7/+2/+2                  | 1d10             | +2       | +30 ft.       |
+| 10th  | +7/+2             | +7        | +7       | +7        | Bonus feat, *ki* pool (lawful), slow fall 50 ft.                                                                      | +8/+8/+3/+3                  | 1d10             | +2       | +30 ft.       |
+| 11th  | +8/+3             | +7        | +7       | +7        | Diamond body                                                                                                          | +9/+9/+4/+4/–1               | 1d10             | +2       | +30 ft.       |
+| 12th  | +9/+4             | +8        | +8       | +8        | Abundant step, slow fall 60 ft.                                                                                       | +10/+10/+5/+5/+0             | 2d6              | +3       | +40 ft.       |
+| 13th  | +9/+4             | +8        | +8       | +8        | Diamond soul                                                                                                          | +11/+11/+6/+6/+1             | 2d6              | +3       | +40 ft.       |
+| 14th  | +10/+5            | +9        | +9       | +9        | Bonus feat, slow fall 70 ft.                                                                                          | +12/+12/+7/+7/+2             | 2d6              | +3       | +40 ft.       |
+| 15th  | +11/+6/+1         | +9        | +9       | +9        | Quivering palm                                                                                                        | +13/+13/+8/+8/+3/+3          | 2d6              | +3       | +50 ft.       |
+| 16th  | +12/+7/+2         | +10       | +10      | +10       | *Ki* pool (adamantine), slow fall 80 ft.                                                                              | +14/+14/+9/+9/+4/+4/–1       | 2d8              | +4       | +50 ft.       |
+| 17th  | +12/+7/+2         | +10       | +10      | +10       | Timeless body, tongue of the sun and moon                                                                             | +15/+15/+10/+10/+5/+5/+0     | 2d8              | +4       | +50 ft.       |
+| 18th  | +13/+8/+3         | +11       | +11      | +11       | Bonus feat, slow fall 90 ft.                                                                                          | +16/+16/+11/+11/+6/+6/+1     | 2d8              | +4       | +60 ft.       |
+| 19th  | +14/+9/+4         | +11       | +11      | +11       | Empty body                                                                                                            | +17/+17/+12/+12/+7/+7/+2     | 2d8              | +4       | +60 ft.       |
+| 20th  | +15/+10/+5        | +12       | +12      | +12       | Perfect self, slow fall any distance \*The value shown is for Medium monks. See below for Small or Large monk damage. | +18/+18/+13/+13/+8/+8/+3     | 2d10             | +5       | +60 ft.       |
+
 
 weapons cannot use such weapons as part of a flurry of blows, nor can he make natural attacks in addition to his flurry of blows attacks.
 
@@ -82,19 +79,16 @@ A monk also deals more damage with his unarmed strikes than a normal person woul
 
 ## Small or Large Monk Unarmed Damage
 
-<table>
-<thead>
-<tr><th>Level</th><th>Damage (Small Monk)</th><th>Damage (Large Monk)</th></tr>
-</thead>
-<tbody>
-<tr><td>1st–3rd</td><td>1d4</td><td>1d8</td></tr>
-<tr><td>4th–7th</td><td>1d6</td><td>2d6</td></tr>
-<tr><td>8th–11th</td><td>1d8</td><td>2d8</td></tr>
-<tr><td>12th–15th</td><td>1d10</td><td>3d6</td></tr>
-<tr><td>16th–19th</td><td>2d6</td><td>3d8</td></tr>
-<tr><td>20th</td><td>2d8</td><td>4d8</td></tr>
-</tbody>
-</table>
+
+| Level     | Damage (Small Monk) | Damage (Large Monk) |
+|-----------|---------------------|---------------------|
+| 1st–3rd   | 1d4                 | 1d8                 |
+| 4th–7th   | 1d6                 | 2d6                 |
+| 8th–11th  | 1d8                 | 2d8                 |
+| 12th–15th | 1d10                | 3d6                 |
+| 16th–19th | 2d6                 | 3d8                 |
+| 20th      | 2d8                 | 4d8                 |
+
 
 **Bonus Feat:** At 2nd level (when the monk gains two bonus feats: the one normally gained at 1st level and the one gained at 2nd level) and every 4 levels thereafter (6th, 10th, and so on), a monk may select a bonus feat. These feats must be taken from the following list: Catch Off-Guard, Combat Reflexes, Deflect Arrows, Dodge, Improved Grapple, Scorpion Style, and Throw Anything. At 6th level, the following feats are added to the list: Gorgon’s Fist, Improved Bull Rush, Improved Disarm, Improved Feint, Improved Trip, and Mobility. At 10th level, the following feats are added to the list: Improved Critical, Medusa’s Wrath, Snatch Arrows, and Spring Attack. A monk need not have any of the prerequisites normally required for these feats to select them.
 

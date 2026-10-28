@@ -14,7 +14,7 @@ Each book features a value, which represents what a character must pay for the b
 
 When a spellcaster who prepares spells uses a spellbook or formula book with a preparation ritual, as long as he prepares at least three spells (not including cantrips) or formulae from the spellbooks, he gains a temporary boon granted by the ritual. The boon lasts until its effect is spent (as specified by the boon description) or the spellcaster prepares spells again (at which time it can be reapplied by preparing at least three spells from the book). A spellcaster can only take the effect of one preparation ritual when she prepares spells, no matter how many spellbooks with preparation rituals she uses to prepare spells.
 
-A superscript <sup>S</sup> indicates a spell from the caster’s specialty school, whereas a superscript <sup>OP</sup> indicates a spell from the spellbook creator’s opposition school. A single asterisk (\*) marks a spell from *Ultimate Magic* and two asterisks (\*\*) mark a spell from the *Advanced Player’s Guide*.
+A superscript <sup>S</sup> indicates a spell from the caster’s specialty school, whereas a superscript  indicates a spell from the spellbook creator’s opposition school. A single asterisk (\*) marks a spell from *Ultimate Magic* and two asterisks (\*\*) mark a spell from the *Advanced Player’s Guide*.
 
 
 ## Transcribing Preparation Rituals
@@ -168,7 +168,7 @@ The title of this book is embossed into the scaly cover. Inside, the pages spark
 
 - 4th: phantasmal killer<sup>S</sup>, wandering star motes<sup>S</sup>\*\*
 - 3rd: illusory script<sup>S</sup>, invisibility sphere<sup>S</sup>, madness<sup>S</sup>\*, major image<sup>S</sup>
-- 2nd: magic mouth<sup>S</sup>, misdirection<sup>S</sup>, phantom trap<sup>S</sup>, scare<sup>OP</sup>
+- 2nd: magic mouth<sup>S</sup>, misdirection<sup>S</sup>, phantom trap<sup>S</sup>, scare
 - 1st: alarm, animate rope, color spray<sup>S</sup>, comprehend languages, disguise self S, hypnotism, magic aura<sup>S</sup>, magic weapon, shield, sleep
 
 **Preparation Ritual**
@@ -192,7 +192,7 @@ This simple book is bound in white leather with a silver clasp. Careful notes on
 - 4th: beast shape IIS, calcific touch<sup>S</sup>\*\*, confusion, dimension door, stone shape<sup>S</sup>
 - 3rd: arcane sight, dispel magic, explosive runes, lightning bolt, greater magic weapon<sup>S</sup>, slow<sup>S</sup>
 - 2nd: alter self<sup>S</sup>, flaming sphere, knock<sup>S</sup>, pyrotechnics<sup>S</sup>, resist energy, see invisibility, whispering wind<sup>S</sup>
-- 1st: animate rope<sup>S</sup>, charm person, color spray<sup>OP</sup>, erase<sup>S</sup>, floating disk, hush\*, mage armor, magic missile, protection from chaos, unseen servant
+- 1st: animate rope<sup>S</sup>, charm person, color spray, erase<sup>S</sup>, floating disk, hush\*, mage armor, magic missile, protection from chaos, unseen servant
 - 0: standard plus drench\*, spark\*\*
 
 **Preparation Ritual**
@@ -215,7 +215,7 @@ This medium-sized book has a creased spine and supple gray leather covers. The l
 
 - 5th: contact other plane<sup>S</sup>, major creation, telepathic bond<sup>S</sup>,
 - 4th: detect scrying<sup>S</sup>, locate creature<sup>S</sup>, remove curse, scrying<sup>S</sup>
-- 3rd: arcane sight<sup>S</sup>, clairaudience/clairvoyance<sup>S</sup>, secret page<sup>OP</sup>, tongues<sup>S</sup>
+- 3rd: arcane sight<sup>S</sup>, clairaudience/clairvoyance<sup>S</sup>, secret page, tongues<sup>S</sup>
 - 2nd: detect thoughts<sup>S</sup>, flaming sphere, locate object<sup>S</sup>, resist energy, see invisibility<sup>S</sup>, summon monster II
 - 1st: cause fear, comprehend languages<sup>S</sup>, detect secret doors<sup>S</sup>, detect undead<sup>S</sup>, disguise self OP, identify<sup>S</sup>, protection from evil, protection from law, true strike<sup>S</sup>
 
@@ -278,7 +278,7 @@ Fine vellum sheets fill these two well-worn books. Beautiful illustrations depic
 - 5th: cone of cold<sup>S</sup>, mage’s private sanctum, permanency, teleport, wall of force<sup>S</sup>
 - 4th: ice storm<sup>S</sup>, shout<sup>S</sup>, stoneskin, symbol of revelation\*, wall of ice<sup>S</sup>
 - 3rd: arcane sight, dispel magic, elemental aura<sup>S</sup>\*\*, fire trap, heroism, lightning bolt<sup>S</sup>, phantom steed, seek thoughts\*\*
-- 2nd: bull’s strength, false life<sup>OP</sup>, glitterdust, hideous laughter, make whole, resist energy, rope trick
+- 2nd: bull’s strength, false life, glitterdust, hideous laughter, make whole, resist energy, rope trick
 - 1st: detect secret doors, endure elements, enlarge person, feather fall, mage armor, magic missile<sup>S</sup>, obscuring mist, shield, shocking grasp<sup>S</sup>
 - 0: standard plus breeze\*
 
@@ -301,11 +301,11 @@ These two books are part of a set held together with a leather strap. The covers
 **Spells**
 
 - 6th: getaway<sup>S</sup>\*\*, planar binding<sup>S</sup>, summon monster VIS, wall of iron<sup>S</sup>
-- 5th: comet<sup>S</sup>\*, contact other plane<sup>OP</sup>, pierce reality<sup>S</sup>\*, teleport<sup>S</sup>
+- 5th: comet<sup>S</sup>\*, contact other plane, pierce reality<sup>S</sup>\*, teleport<sup>S</sup>
 - 4th: acid pit<sup>S</sup>\*\*, black tentacles<sup>S</sup>, dimensional anchor, lesser geas, phantasmal killer, solid fog<sup>S</sup>
 - 3rd: gaseous form, greater magic weapon, magic circle against evil, sepia snake symbol<sup>S</sup>, spiked pit<sup>S</sup>\*\*, stinking cloud, tiny hut
 - 2nd: arrow eruption<sup>S</sup>\*\*, daze monster, dust of twilight<sup>S</sup>\*\*, fantastic reach\*, glitterdust<sup>S</sup>, metabolize<sup>S</sup>\*, shatter, stone call<sup>S</sup>\*\*
-- 1st: comprehend languages<sup>OP</sup>, disguise self, jump, mage armor<sup>S</sup>, magic aura, mount<sup>S</sup>, sleep, stumble gap<sup>S</sup>\*\*, unseen servant<sup>S</sup>
+- 1st: comprehend languages, disguise self, jump, mage armor<sup>S</sup>, magic aura, mount<sup>S</sup>, sleep, stumble gap<sup>S</sup>\*\*, unseen servant<sup>S</sup>
 
 **Preparation Ritual**
 
@@ -325,11 +325,11 @@ Stuffed between the pages of these two well-worn volumes are all manner of riddl
 
 - 7th: greater arcane sight<sup>S</sup>, greater scrying<sup>S</sup>, prismatic spray
 - 6th: chain lightning, contingency, eyebite, legend lore<sup>S</sup>, true seeing<sup>S</sup>
-- 5th: dominate person, fire snake\*\*, prying eyes<sup>S</sup>, teleport<sup>OP</sup>, telepathic bond<sup>S</sup>
+- 5th: dominate person, fire snake\*\*, prying eyes<sup>S</sup>, teleport, telepathic bond<sup>S</sup>
 - 4th: arcane eye<sup>S</sup>, confusion, detect scrying<sup>S</sup>, fear, ice storm, wall of fire
-- 3rd: clairaudience/clairvoyance<sup>S</sup>, dispel magic, displacement, greater magic weapon<sup>OP</sup>, hydraulic torrent\*\*, lightning bolt, seek thoughts\*\*, tongues<sup>S</sup>
-- 2nd: arcane lock, false life, fox’s cunning<sup>OP</sup>, locate object<sup>S</sup>, resist energy, scorching ray, see invisibility<sup>S</sup>, touch of idiocy
-- 1st: alarm, charm person, comprehend languages<sup>S</sup>, color spray, detect secret doors<sup>S</sup>, expeditious excavation<sup>OP</sup>\*\*, floating disk, protection from evil, shield, true strike<sup>S</sup>, ventriloquism
+- 3rd: clairaudience/clairvoyance<sup>S</sup>, dispel magic, displacement, greater magic weapon, hydraulic torrent\*\*, lightning bolt, seek thoughts\*\*, tongues<sup>S</sup>
+- 2nd: arcane lock, false life, fox’s cunning, locate object<sup>S</sup>, resist energy, scorching ray, see invisibility<sup>S</sup>, touch of idiocy
+- 1st: alarm, charm person, comprehend languages<sup>S</sup>, color spray, detect secret doors<sup>S</sup>, expeditious excavation\*\*, floating disk, protection from evil, shield, true strike<sup>S</sup>, ventriloquism
 - 0: standard plus scoop\*, spark\*\*
 
 **Preparation Ritual**
@@ -398,7 +398,7 @@ These three well-made books are covered with runes of warding against outsiders 
 - 3rd: cloak of winds<sup>S</sup>\*\*, daylight, enter image\*\*, explosive runes<sup>S</sup>, haste, lightning bolt, magic circle against evil<sup>S</sup>, water breathing
 - 2nd: detect thoughts, glitterdust, knock, protection from arrows<sup>S</sup>, reinforcing bands\*, resist energy<sup>S</sup>, scorching ray, whispering wind
 - 1st: animate rope, detect secret doors, detect undead, endure elements<sup>S</sup>, feather fall, obscuring mist, protection from chaos<sup>S</sup>, shadow blade<sup>S</sup>\*, shield<sup>S</sup>, shocking grasp, touch of gracelessness\*\*
-- 0: standard plus disrupt undead<sup>OP</sup>
+- 0: standard plus disrupt undead
 
 **Preparation Ritual**
 
@@ -422,11 +422,11 @@ Each volume of this three-book set is written in gold ink on jetblack paper. Il
 - 7th: finger of death, greater shadow conjuration<sup>S</sup>, project image<sup>S</sup>, simulacrum<sup>S</sup>, spell turning
 - 6th: eyebite, guards and wards, limited wish, permanent image<sup>S</sup>, programmed image<sup>S</sup>, shadow walk<sup>S</sup>, symbol of persuasion
 - 5th: cloudkill, mirage arcana<sup>S</sup>, mind fog, nightmare<sup>S</sup>, seeming<sup>S</sup>, shadow evocation<sup>S</sup>, telekinesis
-- 4th: black tentacles, dimension door, greater invisibility<sup>S</sup>, lesser globe of invulnerability, phantasmal killer<sup>S</sup>, remove curse, scrying<sup>OP</sup>, shadow conjuration<sup>S</sup>
+- 4th: black tentacles, dimension door, greater invisibility<sup>S</sup>, lesser globe of invulnerability, phantasmal killer<sup>S</sup>, remove curse, scrying, shadow conjuration<sup>S</sup>
 - 3rd: dispel magic, heroism, illusory script<sup>S</sup>, magic circle against good, major image<sup>S</sup>, phantom steed, shrink item, slow
-- 2nd: arcane lock, darkness<sup>OP</sup>, false life, glitterdust, magic mouth<sup>S</sup>, mirror image<sup>S</sup>, obscure object, phantom trap<sup>S</sup>, whispering wind
+- 2nd: arcane lock, darkness, false life, glitterdust, magic mouth<sup>S</sup>, mirror image<sup>S</sup>, obscure object, phantom trap<sup>S</sup>, whispering wind
 - 1st: color spray<sup>S</sup>, disguise self S, endure elements, feather fall, grease, magic aura<sup>S</sup>, minor image<sup>S</sup>, obscuring mist, ray of enfeeblement, silent image<sup>S</sup>, ventriloquism<sup>S</sup>
-- 0: standard plus detect magic<sup>OP</sup>
+- 0: standard plus detect magic
 
 **Preparation Ritual**
 
@@ -450,9 +450,9 @@ This trio of books is bound in leather as black as a starless night, clasped tog
 - 8th: demand, discern location<sup>S</sup>, greater prying eyes<sup>S</sup>, trap the soul
 - 7th: instant summons, greater arcane sight<sup>S</sup>, greater scrying<sup>S</sup>, plane shift, vision<sup>S</sup>
 - 6th: analyze dweomer<sup>S</sup>, greater dispel magic, guards and wards, legend lore<sup>S</sup>, repulsion, true seeing<sup>S</sup>
-- 5th: contact other plane<sup>S</sup>, major creation, secret chest, sending, telepathic bond<sup>S</sup>, planar adaptation<sup>OP</sup>
+- 5th: contact other plane<sup>S</sup>, major creation, secret chest, sending, telepathic bond<sup>S</sup>, planar adaptation
 - 4th: bestow curse, dimensional anchor, lesser geas, lesser globe of invulnerability, locate creature<sup>S</sup>, remove curse, secure shelter, share senses<sup>S</sup>\*\*
-- 3rd: arcane sight<sup>S</sup>, blood biography<sup>S</sup>\*\*, clairaudience/clairvoyance<sup>S</sup>, explosive runes, secret page<sup>OP</sup>, seek senses<sup>S</sup>\*\*, tongues<sup>S</sup>
+- 3rd: arcane sight<sup>S</sup>, blood biography<sup>S</sup>\*\*, clairaudience/clairvoyance<sup>S</sup>, explosive runes, secret page, seek senses<sup>S</sup>\*\*, tongues<sup>S</sup>
 - 2nd: continual flame, detect thoughts<sup>S</sup>, flaming sphere, hold person, locate object<sup>S</sup>, resist energy, see invisibility<sup>S</sup>, summon monster II
 - 1st: cause fear, comprehend languages<sup>S</sup>, detect secret doors<sup>S</sup>, detect undead<sup>S</sup>, disguise self OP, identify<sup>S</sup>, protection from evil, protection from law, true strike<sup>S</sup>
 
@@ -476,12 +476,12 @@ The three volumes of this set are bound in black sharkskin, the spells inscribed
 
 - 9th: gate<sup>S</sup>, soul bind, summon monster IXS, time stop, wish
 - 8th: create greater undead, horrid wilting, greater planar binding<sup>S</sup>, maze<sup>S</sup>, screen
-- 7th: banishment<sup>OP</sup>, finger of death, grasping hand, greater teleport<sup>S</sup>, reverse gravity, summon monster VIIS
-- 6th: contagious flames\*\*, disintegrate, greater dispel magic<sup>OP</sup>, legend lore, planar binding<sup>S</sup>, wall of iron<sup>S</sup>
+- 7th: banishment, finger of death, grasping hand, greater teleport<sup>S</sup>, reverse gravity, summon monster VIIS
+- 6th: contagious flames\*\*, disintegrate, greater dispel magic, legend lore, planar binding<sup>S</sup>, wall of iron<sup>S</sup>
 - 5th: cloudkill<sup>S</sup>, cone of cold, contact other plane, hungry pit<sup>S</sup>\*\*, magic jar, overland flight, permanency, secret chest<sup>S</sup>, symbol of pain
-- 4th: ball lightning\*\*, black tentacles<sup>S</sup>, detect scrying, dimension door<sup>S</sup>, enervation, greater invisibility, resilient sphere, remove curse<sup>OP</sup>
+- 4th: ball lightning\*\*, black tentacles<sup>S</sup>, detect scrying, dimension door<sup>S</sup>, enervation, greater invisibility, resilient sphere, remove curse
 - 3rd: blink, daylight, enter image\*\*, fireball, gentle repose, secret page, sepia snake sigil<sup>S</sup>, stinking cloud<sup>S</sup>
-- 2nd: darkvision, false life, glitterdust<sup>S</sup>, make whole, mirror image, resist energy<sup>OP</sup>, see invisibility, summon swarm<sup>S</sup>, web<sup>S</sup>
+- 2nd: darkvision, false life, glitterdust<sup>S</sup>, make whole, mirror image, resist energy, see invisibility, summon swarm<sup>S</sup>, web<sup>S</sup>
 - 1st: burning hands, detect undead, disguise self, grease<sup>S</sup>, mage armor<sup>S</sup>, magic aura, magic missile, ray of enfeeblement, unseen servant<sup>S</sup>
 - 0: standard plus root\*
 
@@ -552,13 +552,13 @@ This massive tome is the size of four normal spellbooks, bound in leather as har
 
 - 9th: dominate monster<sup>S</sup>, foresight, mage’s disjunction, mass hold monster<sup>S</sup>, mass suffocation\*\*, power word kill<sup>S</sup>, time stop
 - 8th: binding<sup>S</sup>, clone, irresistible dance<sup>S</sup>, mind blank, polymorph any object, power word stun<sup>S</sup>, sunburst
-- 7th: deflection\*\*, greater arcane sight, instant summons<sup>OP</sup>, limited wish, mass hold person<sup>S</sup>, plane shift<sup>OP</sup>, power world blind<sup>S</sup>, resonating word\*, symbol of stunning<sup>S</sup>
+- 7th: deflection\*\*, greater arcane sight, instant summons, limited wish, mass hold person<sup>S</sup>, plane shift, power world blind<sup>S</sup>, resonating word\*, symbol of stunning<sup>S</sup>
 - 6th: cloak of dreams<sup>S</sup>\*\*, contingency, enemy hammer\*\*, greater dispel magic, geas/quest<sup>S</sup>, legend lore, mage’s lucubration, thunderclap\*, true seeing
-- 5th: dismissal, dominate person<sup>S</sup>, fabricate, icy prison\*, feeblemind<sup>S</sup>, mage’s private sanctum, permanency, prying eyes, teleport<sup>OP</sup>
+- 5th: dismissal, dominate person<sup>S</sup>, fabricate, icy prison\*, feeblemind<sup>S</sup>, mage’s private sanctum, permanency, prying eyes, teleport
 - 4th: bestow curse, crushing despair<sup>S</sup>, dimensional anchor, fear, moonstruck<sup>S</sup>\*\*, resilient sphere, stone shape, stoneskin
 - 3rd: fireball, fly, greater magic weapon, heroism<sup>S</sup>, loathsome veil\*, nondetection, protection from energy, symbol of peace<sup>S</sup>\*, suggestion<sup>S</sup>
-- 2nd: arcane lock, continual flame, false life, hideous laughter<sup>S</sup>, magic mouth<sup>OP</sup>, mirror image<sup>OP</sup>, resist energy, rope trick, see invisibility, touch of idiocy<sup>S</sup>
-- 1st: alarm, charm person<sup>S</sup>, feather fall, hush\*, hydraulic push\*\*, identify, magic missile, memory lapse<sup>S</sup>\*\*, ray of enfeeblement, shield, unseen servant<sup>OP</sup>
+- 2nd: arcane lock, continual flame, false life, hideous laughter<sup>S</sup>, magic mouth, mirror image, resist energy, rope trick, see invisibility, touch of idiocy<sup>S</sup>
+- 1st: alarm, charm person<sup>S</sup>, feather fall, hush\*, hydraulic push\*\*, identify, magic missile, memory lapse<sup>S</sup>\*\*, ray of enfeeblement, shield, unseen servant
 - 0: standard plus breeze\*, spark\*\*
 
 **Preparation Ritual**

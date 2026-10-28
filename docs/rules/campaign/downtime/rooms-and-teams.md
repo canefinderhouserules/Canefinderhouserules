@@ -69,7 +69,7 @@ The description section of the unit stat block might list other benefits unrelat
 
 *Example*: The Inn example in the sidebar has a Bar, a Common Room, a Kitchen, a Lodging, and a Stall. The Bar gives gp or Influence +10; the Common Room gives gp or Influence +7; the Kitchen gives gp or Goods +4; the Lodging gives gp +12; and the Stall gives gp, Goods, or Labor +8. All of those rooms can earn gp, so if you want to earn gp, just add all the room bonuses together (total +41) and make a skilled work check for the Inn to see how much gp you earn. If you wanted to use the Bar’s bonus to contribute to generating Influence and use the rest of the rooms’ bonuses on gp, you’d attempt one skilled work check for Influence with a +10 modifier (the Bar’s bonus) and another skilled work check for gp with a +31 modifier (the total bonuses from the Common Room, Lodging, and Stall).
 
-**Benefit (Rooms Only)**: This entry lists what non-downtime bonuses the room provides, such skill bonuses or changes to settlement modifiers (such as Corruption, Crime, and Danger; see page 204 of the *Pathfinder RPG*
+**Benefit (Rooms Only)**: This entry lists what non-downtime bonuses the room provides, such skill bonuses or changes to settlement modifiers (such as Corruption, Crime, and Danger; see the *Pathfinder RPG*
 
 *GameMastery Guide*). If a room provides a skill bonus, that bonus applies only when you’re in the location specified. For example, just because you have a Ballroom in your castle doesn’t mean you get its Perform bonus when you’re in a dungeon.
 

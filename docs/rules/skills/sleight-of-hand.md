@@ -16,16 +16,13 @@ If you try to take something from a creature, you must make a DC 20 Sleight of H
 
 You can also use Sleight of Hand to entertain an audience as though you were using the Perform skill. In such a case, your “act” encompasses elements of legerdemain, juggling, and the like.
 
-<table>
-<thead>
-<tr><th colspan="1">Sleight of</th><th rowspan="2">Task</th></tr>
-<tr><th>Hand DC</th></tr>
-</thead>
-<tbody>
-<tr><td>10</td><td>Palm a coin-sized object, make a coin disappear</td></tr>
-<tr><td>20</td><td>Lift a small object from a person</td></tr>
-</tbody>
-</table>
+
+| Sleight of | Task                                            |
+|------------|-------------------------------------------------|
+| Hand DC    |                                                 |
+| 10         | Palm a coin-sized object, make a coin disappear |
+| 20         | Lift a small object from a person               |
+
 
 **Action**: Any Sleight of Hand check is normally a standard action. However, you may perform a Sleight of Hand check as a move action by taking a –20 penalty on the check.
 

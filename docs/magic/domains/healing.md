@@ -1,6 +1,5 @@
 # Healing
 
-***Source** [PRPG Core Rulebook pg. 44](http://paizo.com/pathfinderRPG/v5748btpy88yj)*
 
 
 ***Granted Powers**: Your touch staves off pain and death, and your healing magic is particularly vital and potent.*
@@ -11,11 +10,10 @@
 
 ***Domain Spells**: 1st—cure light wounds, 2nd—cure moderate wounds, 3rd—cure serious wounds, 4th—cure critical wounds, 5th—breath of life, 6th—heal, 7th—regenerate, 8th—mass cure critical wounds, 9th—mass heal.*
 
-###  *<span class="smallcaps">Medicine Subdomain</span>*
+###  *Medicine Subdomain*
 
-***Source** [Divine Anthology pg. 24](http://paizo.com/products/btpy9nvh?Pathfinder-Player-Companion-Divine-Anthology)*
 
-*This subdomain requires the [Acolyte of Apocrypha](https://www.aonprd.com/TraitDisplay.aspx?ItemName=Acolyte%20of%20Apocrypha) trait to access.*
+*This subdomain requires the Acolyte of Apocrypha trait to access.*
 
 ***Associated Domain(s)**: Healing*
 
@@ -24,11 +22,10 @@
 
 *Blessed Surgery (Su): Your divine patron guides your healing hands, allowing you to perform minor miracles with mundane cures. You can use this ability as a free action when using the Heal skill in order to roll the check twice and take the higher result. When you’re using this ability, any use of the Heal skill requiring 1 hour instead takes at most 1 minute. You can use this ability a number of times per day equal to 3 + your Wisdom modifier.*
 
-***Replacement Domain Spells**: 1st—diagnose disease<sup>UM</sup>, 2nd—placebo effect<sup>OA</sup>.*
+***Replacement Domain Spells**: 1st—diagnose disease, 2nd—placebo effect.*
 
-###  *<span class="smallcaps">Restoration Subdomain</span>*
+###  *Restoration Subdomain*
 
-***Source** [Advanced Player's Guide pg. 1](http://paizo.com/pathfinderRPG/v5748btpy8fo1)*
 
 ***Associated Domain(s)**: Healing*
 
@@ -39,9 +36,8 @@
 
 ***Replacement Domain Spells**: 2nd—remove disease, 4th—neutralize poison, 5th—break enchantment.*
 
-###  *<span class="smallcaps">Resurrection Subdomain</span>*
+###  *Resurrection Subdomain*
 
-***Source** [Advanced Player's Guide pg. 1](http://paizo.com/pathfinderRPG/v5748btpy8fo1)*
 
 ***Associated Domain(s)**: Healing*
 
@@ -54,13 +50,11 @@
 
 ## Variant Domain Powers
 
-***Description Source**: [**Haunted Heroes Handbook**](http://paizo.com/products/btpy9nft?Pathfinder-Player-Companion-Haunted-Heroes-Handbook)*
 
 *A cleric (or any other character capable of selecting a domain) who worships the deity in question can choose to gain the variant domain power upon first gaining the domain in question, but the choice to replace the domain power must be made immediately upon gaining access to that domain and cannot be changed thereafter.*
 
-###  *<span class="smallcaps">Irori</span>*
+### *Ascetic Faith*
 
-***Source** [Haunted Heroes Handbook pg. 8](http://paizo.com/products/btpy9nft?Pathfinder-Player-Companion-Haunted-Heroes-Handbook)*
 
 ***Associated Domain(s)**: Healing*
 

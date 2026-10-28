@@ -74,7 +74,7 @@ The following are the class features of the medium.
 
 **Spells**: A medium can cast a small number of psychic spells drawn from the medium spell list. To learn or cast a spell, a medium must have a Charisma score equal to at least 10 + the spell’s level. He can cast any spell he knows without preparing it ahead of time. The saving throw DC against a medium’s spell is equal to 10 + the spell level + the medium’s Charisma modifier.
 
-A medium can cast only a certain number of spells of each level per day. His base daily spell allotment is given on Table 1–2: Medium. In addition, he receives bonus spells per day if he has a high Charisma score (see Table 1–3 on page 17 of the Pathfinder RPG Core Rulebook).
+A medium can cast only a certain number of spells of each level per day. His base daily spell allotment is given on Table 1–2: Medium. In addition, he receives bonus spells per day if he has a high Charisma score (see Table 1–3 in the Pathfinder RPG Core Rulebook).
 
 The medium’s selection of spells is limited. At 1st level, a medium knows two 0-level spells of his choice. At each new level, the medium learns one or more new spells, as indicated on Table 1–3: Medium Spells Known. Unlike his spells per day, the number of spells a medium knows is not affected by his Charisma score; the numbers on Table 1–3 are fixed. At 5th level and every 3 levels thereafter, a medium can learn a single new spell in place of one he already knows. The new spell’s level must be the same as that of the spell being exchanged, and he must choose whether to swap the spell at the same time he gains new spells known for the level.
 

@@ -1,6 +1,5 @@
 # Death
 
-***Source** [PRPG Core Rulebook pg. 42](http://paizo.com/pathfinderRPG/v5748btpy88yj)*
 
 
 ***Granted Powers**: You can cause the living to bleed at a touch, and find comfort in the presence of the dead.*
@@ -11,11 +10,11 @@
 
 ***Domain Spells**: 1st—cause fear, 2nd—death knell, 3rd—animate dead, 4th—death ward, 5th—slay living, 6th—create undead, 7th—destruction, 8th—create greater undead, 9th—wail of the banshee.*
 
-***Deity-Friendly Death Domain** (Source: [Paizo Blog](http://paizo.com/paizo/blog/v5748dyo5lbvp), PFS-Legal) 3rd-level domain spell: Replace animate dead with speak with dead. 6th-level domain spell: Replace create undead with antilife shell. 8th-level domain spell: Replace create greater undead with symbol of death.*
+***Deity-Friendly Death Domain** 3rd-level domain spell: Replace animate dead with speak with dead. 6th-level domain spell: Replace create undead with antilife shell. 8th-level domain spell: Replace create greater undead with symbol of death.*
 
-###  *<span class="smallcaps">Murder Subdomain</span>*
 
-***Source** [Advanced Player's Guide pg. 1](http://paizo.com/pathfinderRPG/v5748btpy8fo1)*
+###  *Murder Subdomain*
+
 
 ***Associated Domain(s)**: Death*
 
@@ -26,9 +25,8 @@
 
 ***Replacement Domain Spells**: 3rd—keen edge, 5th—suffocation, 9th—suffocation (mass).*
 
-###  *<span class="smallcaps">Plague Subdomain</span>*
+###  *Plague Subdomain*
 
-***Source** [Heroes of the Streets pg. 19](http://paizo.com/products/btpy9ghc?Pathfinder-Player-Companion-Heroes-of-the-Streets)*
 
 ***Associated Domain(s)**: Death, Evil*
 
@@ -37,11 +35,10 @@
 
 *Contagion (Su): As a standard action, you can activate a 30ft aura that works like the Contagion Spell. You can use this ability once per day at 6th level, plus one additional time per day for every four levels beyond 6th.*
 
-***Replacement Domain Spells**: 1st—ray of sickening<sup>UM</sup>, 3rd—contagion, 6th—plague storm<sup>UM</sup>, 8th—horrid wilting.*
+***Replacement Domain Spells**: 1st—ray of sickening, 3rd—contagion, 6th—plague storm, 8th—horrid wilting.*
 
-###  *<span class="smallcaps">Psychopomp (Death) Subdomain</span>*
+###  *Psychopomp (Death) Subdomain*
 
-***Source** [Champions of Balance pg. 17](http://paizo.com/products/btpy93nc?Pathfinder-Player-Companion-Champions-of-Balance)*
 
 ***Associated Domain(s)**: Death*
 
@@ -50,11 +47,10 @@
 
 *Spirit Touch and Bane (Su): At 6th level, as a swift action, you can give your natural weapons or any weapons you wield the ghost touch weapon special ability and the Bane (Undead) weapon Special ability. You can use this power a number of rounds per day equal to your cleric level. These rounds need not be consecutive.*
 
-***Replacement Domain Spells**: 3rd—chain of perdition<sup>UC</sup>, 6th—planar ally (psychopomps only), 8th—trap the soul.*
+***Replacement Domain Spells**: 3rd—chain of perdition, 6th—planar ally (psychopomps only), 8th—trap the soul.*
 
-### *<span class="smallcaps">Shadow Subdomain</span>*
+### *Shadow Subdomain*
 
-***Source** [Blood of Shadows pg. 17](http://paizo.com/products/btpy9j6s?Pathfinder-Player-Companion-Blood-of-Shadows)*
 
 ***Associated Domain(s)**: Darkness, Death*
 
@@ -65,9 +61,8 @@
 
 ***Replacement Domain Spells**: 1st—ray of enfeeblement, 4th—phantasmal killer, 8th—orb of the void*
 
-###  *<span class="smallcaps">Undead Subdomain</span>*
+###  *Undead Subdomain*
 
-***Source** [Advanced Player's Guide pg. 1](http://paizo.com/pathfinderRPG/v5748btpy8fo1)*
 
 ***Associated Domain(s)**: Death*
 
@@ -80,13 +75,11 @@
 
 ## Variant Domain Powers
 
-***Description Source**: [**Haunted Heroes Handbook**](http://paizo.com/products/btpy9nft?Pathfinder-Player-Companion-Haunted-Heroes-Handbook)*
 
 *A cleric (or any other character capable of selecting a domain) who worships the deity in question can choose to gain the variant domain power upon first gaining the domain in question, but the choice to replace the domain power must be made immediately upon gaining access to that domain and cannot be changed thereafter.*
 
 ### The Goddess of Undeath
 
-***Source** [Haunted Heroes Handbook pg. 9](http://paizo.com/products/btpy9nft?Pathfinder-Player-Companion-Haunted-Heroes-Handbook)*
 
 ***Associated Domain(s)**: Death*
 
@@ -96,7 +89,7 @@
 
 *This replaces the bleeding touch domain power of the Death domain.*
 
-###  *<span class="smallcaps">Plague Subdomain</span>*
+###  *Plague Subdomain*
 
 ***Associated Domain(s)**: Death, Evil*
 

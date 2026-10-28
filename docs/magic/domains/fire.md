@@ -1,6 +1,5 @@
 # Fire
 
-***Source** [PRPG Core Rulebook pg. 44](http://paizo.com/pathfinderRPG/v5748btpy88yj)*
 
 
 ***Granted Powers**: You can call forth fire, command creatures of the inferno, and your flesh does not burn.*
@@ -11,7 +10,7 @@
 
 ***Domain Spells**: 1st—burning hands, 2nd—produce flame, 3rd—fireball, 4th—wall of fire, 5th—fire shield, 6th—fire seeds, 7th—elemental body IV (fire only), 8th—incendiary cloud, 9th—elemental swarm (fire spell only).*
 
-### *<span class="smallcaps">Arson Subdomain</span>*
+### *Arson Subdomain*
 
 
 ***Associated Domain(s)**: Fire*
@@ -23,9 +22,8 @@
 
 ***Replacement Domain Spells**: 2nd—flaming sphere, 5th—flame strike, 7th—delayed blast fireball.*
 
-###  *<span class="smallcaps">Ash Subdomain</span>*
+###  *Ash Subdomain*
 
-***Source** [Advanced Player's Guide pg. 1](http://paizo.com/pathfinderRPG/v5748btpy8fo1)*
 
 ***Associated Domain(s)**: Fire*
 
@@ -36,9 +34,8 @@
 
 ***Replacement Domain Spells**: 7th—disintegrate, 9th—fiery body.*
 
-###  *<span class="smallcaps">Smoke Subdomain</span>*
+###  *Smoke Subdomain*
 
-***Source** [Advanced Player's Guide pg. 1](http://paizo.com/pathfinderRPG/v5748btpy8fo1)*
 
 ***Associated Domain(s)**: Fire*
 
