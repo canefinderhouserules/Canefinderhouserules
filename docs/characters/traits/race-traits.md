@@ -86,6 +86,16 @@ Only halflings may select one of these traits.
 
 **Well-Informed**: You make it a point to know everyone and to be connected to everything around you. You frequent the best taverns, attend all of the right events, and graciously help anyone who needs it. Because of this, you gain a +1 trait bonus on Diplomacy checks to gather information and Knowledge (local) checks. One of these skills (your choice) is always a class skill for you.
 
+**Helpful**: You see nothing wrong with letting others achieve greatness so long as the job gets done. Whenever you successfully perform an aid another action, you grant your ally a +4 bonus instead of the normal +2.
+
+**Lettered**: You can read a smattering of most languages and know enough to make pretty good guesses about the rest. Linguistics is a class skill for you, and you gain a +1 trait bonus on Linguistics checks made for the purpose of deciphering writing in an unfamiliar language. You never draw a false conclusion if you fail your Linguistics check; instead, you simply realize you cannot make sense of the writing.
+
+**Providential Passenger**: Those who travel for a living understand that your mere presence could make the difference between success and failure once a journey begins, and this gives you an edge when negotiating your fare or other privileges. Improve the starting attitude that ship captains, caravan leaders, and those with similar sorts of responsibilities have toward you by one step.
+
+**Scrounger**: Others may call it junk, but you call it a bargain. You can buy objects with the broken condition at half price (instead of the normal three-quarters price). The value of the unbroken version of these objects cannot exceed four times your character level. The price you pay for this object can never exceed more than twice your character level in gp (for example, at 5th level you can spend up to 10 gp on a broken object, meaning you can buy any object that, if not broken, has a value of 20 gp or less).
+
+**Perfect Servant**: Your training as a maid or valet has left you with unconscious mannerisms that seem to put members of the upper class at ease. You gain a +3 trait bonus on Diplomacy checks made to influence anyone with at least one level of Aristocrat.
+
 ## Human Traits
 
 Only humans may select one of these traits.

@@ -2165,3 +2165,23 @@ Heavy gray mist fills the interior of a storm glass, a receptacle lined with thi
 **Price** 20 gp; **Weight** 1 lb.
 
 This device resembles an ordinary compass, save that it is filled with alcohol and water, in which bob two pieces of alchemically treated metal (one silver and one iron). A spirit compass can be operated by a creature so as to allow the user to employ Survival in place of Perception to notice haunts (it provides no benefit toward detecting those unusual haunts that are not noticed by Perception checks). A creature that is untrained in Survival takes a –4 penalty on any Survival checks when attempting to use a spirit compass in this manner, representing the action of focusing on the compass rather than one's surroundings.
+
+## Halfling Hooch
+
+### Dragon Punch Whiskey
+
+**Price** 10 gp/cup
+
+According to legend, the inventor of this dark and harsh liquor actually did attack a dragon bare-handed (and presumably lived to pass on the recipe). Halflings who drink four cups in the space of an hour take a –4 penalty to Dexterity but gain a +4 alchemical bonus on saves against fear for the next 10 minutes. Non-halflings do not receive any bonuses from halfling hooch.
+
+### Lisken's Medicinal Tonic
+
+**Price** 10 gp/cup
+
+This mild sedative is normally used to treat insomnia, making the drinker reluctant to take hasty actions but adept at remaining still or silent. One cup of the tonic gives a halfling a –4 penalty on initiative checks for 10 minutes and a +2 alchemical bonus on Stealth checks for that time.
+
+### Luglurch Ale
+
+**Price** 1 gp/gallon, 4 sp/mug
+
+Most races find this pale and frothy beer too salty to swallow, but halflings simply consider it an acquired taste. Drinking three or more cups in a 1-minute span gives a halfling a –2 penalty on Perception checks and a +1 bonus on Reflex saves and Acrobatics checks for 10 minutes.

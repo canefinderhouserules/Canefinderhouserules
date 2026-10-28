@@ -297,6 +297,24 @@ These traits rely upon conviction of spirit, perception, and religion, but are n
 
 **Canon of Coin**: You find the pursuit of earning money to be a religious experience. Appraise is a class skill for you. So long as you are carrying coins worth an amount equal to at least 100 gp per character level you have, you gain a +1 trait bonus on Will saves. This bonus increases to +2 against effects that would force you to discard, drop, or give away coins, gems, or trade goods in your possession.
 
+**Backstabber**: Pledging your faith to a god of murder, poison, and secrets gives you the skill to make a brutal attack against an opponent who cannot fully fend you off. When you hit a foe you are flanking, you deal an additional 1 point of damage (this damage is added to your base damage, and is multiplied on a critical hit). This additional damage is a trait bonus. *Requirement*: worship a deity of murder, poison, or secrets.
+
+**Call for Help**: Modeling your life on a trickster-companion of a god of luck means you frequently find yourself in a jam but also ensures that you can always rely upon your friends to bail you out. When you take the total defense action, allies gain a +1 trait bonus on rolls made against a creature threatening you. *Requirement*: worship a deity of luck or friendship.
+
+**Dawn Renewal**: Your morning prayers often send a welcome spark of divine vitality into your most recent patients. When you use the Heal skill to provide long-term care, your patients heal an extra 2 hit points at sunrise. *Requirement*: worship a deity of healing or the sun.
+
+**Good Dreams**: Your dreams often give you a hint of possible dangers you might face during your day—such as a fall, a blast of fire, or a poisonous snake—and this hint sometimes makes all the difference. Each time you sleep, the GM tells you of a dangerous dream you had. Once per day, if you have to make a saving throw against a threat related or similar to that dream, you can roll twice and take the more favorable result. If you do not encounter circumstances similar to the threat or situation you dreamed, this trait has no effect that day. If you have the Halfling Jinx trait, you cannot select this trait, and vice versa. *Requirement*: worship a deity of dreams or luck.
+
+**Provider**: Few things exalt your faith more than feeding the hungry with your own honest sweat. You gain a +1 trait bonus on any d20 roll to acquire food or water for others. Though this bonus most often applies to Survival checks, it could also apply to attacking monsters that are safe and nutritious to eat (mainly animals and plants). However, your deity takes a dim view of waste, and if you abuse this gift (for example, by using the bonus to defeat a bear, then only eating one bite of it), you suffer a –2 penalty on attacks, checks, and saves for 24 hours. *Requirement*: worship a deity of family, farming, or hunting.
+
+**Self-Sacrifice**: You honor your deity through your willingness to take risks for those you care about. As a move action, you can use your own body to grant soft cover to an adjacent ally regardless of the difference in your respective sizes. *Requirement*: worship a deity of art, beauty, or love.
+
+**Sense of Order**: Your ability to notice even the slightest change, and the discomfort it causes, made service to a god of law and commerce a logical choice. You gain a +3 trait bonus on any Perception check made to identify any changes to a location that have occurred since you last visited it. *Requirement*: worship a deity of cities, law, or merchants.
+
+**Sensing Imperfection**: Your faith has honed your ability to recognize when someone lies or dissembles. Sense Motive is a class skill for you, and you gain a +1 trait bonus on Sense Motive checks. *Requirement*: worship a deity of self-perfection or knowledge.
+
+**Venom-Drenched**: You have nothing to fear from one sort of poison. In fact, you can actually drink the toxic brew in order to make your blood dangerous. You are immune to one specific nonmagical poison. If you ingest a dose of that poison (even if it is a contact, inhaled, or injury poison), it remains in your system for 24 hours; any creature that bites you during that time is subject to the poison's effects. *Requirement*: worship a deity of murder or poison.
+
 ## Magic Traits
 
 These traits are associated with magic and focus on spellcasting and manipulating magic. You don’t have to be a spellcaster to take a magic trait (although several of these traits aren’t useful to non-spellcasters). Magic traits can represent a character’s early exposure to magical effects or childhood studies of magic.
@@ -722,3 +740,19 @@ Regional traits are tied to particular regions, often specific nations, territor
 **Lost Origins (Any City)**: You are disconnected from your heritage and do what you can to learn more about where your family is or where your people came from. Knowledge (local) is always a class skill for you, and you can always take 10 on Knowledge (local) checks, even when stress or distractions would normally prevent you from doing so.
 
 **Street Wary (Any City)**: You learned to take care of yourself on the streets and know the warning signs of hostile intent. Sense Motive is always a class skill for you, and you gain a +2 trait bonus on Sense Motive checks to get a hunch.
+
+**Cheap to Feed** (big city): Life in a big city taught the consequences of pride. Now you have no qualms about pointing out how little of a burden your upkeep would prove to potential employers, captors, innkeepers, or anyone else able to provide you with the necessities of life. You gain a +3 trait bonus on Bluff checks made in order to gain food, water, or shelter.
+
+**Clumsy Slave** (land with slavery): As a former slave, you learned how to conceal your malice toward your owner behind a facade of clumsiness. The first time you attack someone with an attack that deals nonlethal damage, your target must make a Sense Motive check opposed by your Bluff check minus the damage dealt to realize you actually intended to harm him; failure means he believes the injury was an accident on your part instead (though he may still want to punish you for it).
+
+**Dusk Dancer** (shadowy land): Growing up in a gloomy land has given you the confidence to avoid hazards which you can barely see. You gain a +2 trait bonus on Reflex saves in dim light or darkness.
+
+**Equality for All** (free republic): Even when facing foes much larger than yourself, you still embody your homeland's ethos of liberty. You gain a +2 trait bonus to your CMB and your CMD when facing opponents who are at least two sizes larger than you.
+
+**Legalistic Liberation** (land of labyrinthine laws): You followed—or some might say exploited—the rules and earned your freedom by finding the loopholes within your homeland's codes regulating slavery and indentured servitude. You gain a +1 bonus on all Knowledge checks to find a legitimate way to avoid, negate, or escape an existing obligation.
+
+**Makeshift Fixer** (impoverished land): Everyone where you grew up knows how to make do with substandard equipment, and you can improvise tools and materials in order to keep a damaged object working for just a little bit longer. Once per day, you can tinker with a broken object to allow anyone who uses it to ignore the penalties for its broken condition for 24 hours (this does not affect the object's hit points). At the end of this time, it regains the broken condition (but you can use this trait on it over and over again).
+
+**Pomp and Pageantry** (land of old ceremony): Though others think you merely waste time, you know that those extra flourishes and ceremonial touches actually make your work just that much better. You gain a +1 trait bonus on Acrobatics, Diplomacy, Handle Animal, Intimidate, Perform, and Ride checks with class skills if you spend twice as long as it normally takes to make that check.
+
+**Rabble Rebel** (land of revolution): Your time spent amid angry mobs has taught you exactly how to use crowds of people to distract your opponents. If you have at least three allies threatening your opponent, you gain a +2 bonus on Bluff checks to feint him and a +2 bonus on Sleight of Hand checks against him.

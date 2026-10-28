@@ -1499,6 +1499,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Ambuscading Spell](ambuscading-spell.md) | — | — |
 | [Ambush Sense](ambush-sense.md) | Combat | Int 13, trap sense class feature |
 | [Ambush Squad](ambush-squad.md) | Combat, Teamwork | Base attack bonus +1, kobold |
+| [Ammo Drop](ammo-drop.md) | Combat | Sleight of Hand 1 rank, proficient with sling |
 | [Amplified Hex](amplified-hex.md) | — | Hex class feature |
 | [Amplified Radiance](amplified-radiance.md) | Teamwork | Aasimar, daylight racial spell-like ability |
 | [Anatomical Savant](anatomical-savant.md) | Combat | Weapon Focus, base attack bonus +12 |
@@ -1515,11 +1516,13 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Aquatic Advantage](aquatic-advantage.md) | — | Combat Reflexes, must have a natural swim speed |
 | [Aquatic Squires](aquatic-squires.md) | — | Triton, *summon nature's ally II* spell-like ability, character level 5th |
 | [Arcane Insight](arcane-insight.md) | — | Arcane Shield, arcane spellcaster, caster level 10th, worshiper of a deity of magic |
+| [Arcane Jinxer](arcane-jinxer.md) | General | Arcane spellcaster, Halfling Jinx racial trait |
 | [Arcane Trap Suppressor](arcane-trap-suppressor.md) | — | Ability to cast dispel magic |
 | [Archon Diversion](archon-diversion.md) | Combat | [Archon Style](archon-style.md), Combat Expertise, Combat Reflexes, base attack bonus +4 or monk level 3rd |
 | [Archon Justice](archon-justice.md) | Combat | [Archon Diversion](archon-diversion.md), [Archon Style](archon-style.md), Combat Expertise, Combat Reflexes, base attack bonus +8 or monk level 7th |
 | [Archon Style](archon-style.md) | Combat, Style | Combat Expertise, Combat Reflexes, base attack bonus +2 or monk level 1st |
 | [Arcing Lob](arcing-lob.md) | — | Dex 15, Point-Blank Shot, Precise Shot, Throw Anything |
+| [Area Jinx](area-jinx.md) | General | Widen Spell, Halfling Jinx racial trait |
 | [Armor Adept](armor-adept.md) | Combat | — |
 | [Armor Focus](armor-focus.md) | Combat | Base attack bonus +1, proficiency with selected armor |
 | [Armor Material Expertise](armor-material-expertise.md) | Armor Mastery | Base attack bonus +6 or fighter level 4th, armor training class feature |
@@ -1592,6 +1595,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Blustering Bluff](blustering-bluff.md) | — | Cha 13, Bluff 1 rank, Intimidate 1 rank |
 | [Body Control](body-control.md) | — | Wis 11, Meditation Master |
 | [Body Mastery](body-mastery.md) | — | Wis 19, Body Control, Meditation Master, character level 15th |
+| [Bolster Jinx](bolster-jinx.md) | General | Great Fortitude, Iron Will, or Lightning Reflexes; Halfling Jinx racial trait |
 | [Bolster Undead](bolster-undead.md) | — | Channel energy 6d6, worshiper of a deity of undeath |
 | [Born of Frost](born-of-frost.md) | — | Frost giant |
 | [Bouncing Trick](bouncing-trick.md) | Trick | Mesmerist trick class feature |
@@ -1789,6 +1793,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Dispel Focus](dispel-focus.md) | General | Ability to cast dispel magic |
 | [Dispel Mastery](dispel-mastery.md) | Item Mastery | Use Magic Device 3 ranks, base Fortitude save bonus +6 |
 | [Dispelling Blood](dispelling-blood.md) | — | Knowledge (arcana) 7 ranks, vishkanya |
+| [Distant Jinx](distant-jinx.md) | General | Halfling Jinx racial trait |
 | [Distant Spell Link](distant-spell-link.md) | — | Enlarge Spell or Reach Spell; animal companion, eidolon, familiar, or other allied creature with the share spells ability |
 | [Diva Advance](diva-advance.md) | Combat | Cha 17, Combat Expertise, Diva Strike, Diva Style, Improved Feint, base attack bonus +11 or bard level 11th |
 | [Diva Strike](diva-strike.md) | Combat | Cha 15, Combat Expertise, Diva Style, Improved Feint, base attack bonus +7 or bard level 7th |
@@ -1897,6 +1902,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Fanged Crown Massacre](fanged-crown-massacre.md) | — | Bodyguard, Combat Reflexes, Perform (oratory) 3 ranks, evil |
 | [Far-Roaming Familiar](far-roaming-familiar.md) | — | Intelligence 13, must have a familiar |
 | [Fascinated by the Mundane](fascinated-by-the-mundane.md) | Story | You must have a fey ancestor somewhere in your family line, and you must have the Adopted by the Fey, Fey Meeting, or Met a Fantastic Creature background. |
+| [Fascination Jinx](fascination-jinx.md) | General | Bardic performance class feature, Halfling Jinx racial trait |
 | [Fast Change](fast-change.md) | — | Dex 13, base attack bonus +6, skinwalker |
 | [Fateful Channel](fateful-channel.md) | — | Channel positive energy 3d6, worshiper of a deity of death and fate |
 | [Favored Community](favored-community.md) | — | Knowledge (local) 2 ranks, must have lived in the settlement for at least 1 year |
@@ -2001,6 +2007,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Guardian’s Return](guardians-return.md) | Familiar | Must have a familiar with the protector archetype |
 | [Guild Emissary](guild-emissary.md) | — | Leadership or Underworld Connections |
 | [Gun Twirling](gun-twirling.md) | Grit | Amateur Gunslinger feat or grit class feature, Dazzling Display, Weapon Focus |
+| [Halfling Slinger](halfling-slinger.md) | Combat | Halfling |
 | [Hammer Guards the Anvil](hammer-guards-the-anvil.md) | Teamwork | — |
 | [Hand's Autonomy](hand-s-autonomy.md) | General | Possessed Hand |
 | [Hand's Detachment](hand-s-detachment.md) | General | Hand's Autonomy, Possessed Hand |
@@ -2097,7 +2104,9 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Ironbound Master](ironbound-master.md) | — | Cleric level 7th, worshiper of a deity of war |
 | [Ironclad Logic](ironclad-logic.md) | — | Int 19, Diplomacy 3 ranks |
 | [Ironclad Reactions](ironclad-reactions.md) | Armor Mastery | Base attack bonus +6 or fighter level 4th, armor training class feature, proficiency with medium armor |
+| [Jinx Alchemy](jinx-alchemy.md) | General | Swift alchemy class feature, Halfling Jinx racial trait |
 | [Joyless Toil](joyless-toil.md) | Combat | Dex 13, Wis 13, Improved Unarmed Strike, base attack bonus +8 |
+| [Juggle Load](juggle-load.md) | Combat | Ammo Drop, Sleight of Hand 1 rank, proficient with sling |
 | [Juke](juke.md) | Combat | Dex 13, Dodge, Mobility, Sidestep |
 | [Jumper](jumper.md) | — | Acrobatics 1 rank, creature type other than humanoid or outsider |
 | [Just out of Reach](just-out-of-reach.md) | Combat | Dex 13, Dodge, Mobility |
@@ -2115,6 +2124,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Kraken Style](kraken-style.md) | Combat, Style | Wis 13, Improved Grapple, Improved Unarmed Strike, base attack bonus +3 or monk level 3rd |
 | [Kraken Throttle](kraken-throttle.md) | Combat, Style | Wis 13, Improved Grapple, Improved Unarmed Strike, Kraken Style, base attack bonus +5 or monk level 5th |
 | [Kraken Wrack](kraken-wrack.md) | Combat, Style | Wis 13, Improved Grapple, Improved Unarmed Strike, Kraken Style, base attack bonus +7 or monk level 7th |
+| [Large Target](large-target.md) | Combat | Proficient with sling |
 | [Lashing Tail](lashing-tail.md) | Combat | [Grasping Tail](grasping-tail.md), you must have a tail |
 | [Last Rites](last-rites.md) | Conduit | Knowledge (planes) 3 ranks, Knowledge (religion) 3 ranks |
 | [Leaping Evasion](leaping-evasion.md) | Combat | Lightning Reflexes, evasion class feature |
@@ -2139,6 +2149,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Magical Enigma](magical-enigma.md) | Story | See text |
 | [Magical Epiphany](magical-epiphany.md) | — | Ability to prepare spells, worshiper of a deity of magic |
 | [Maleficium](maleficium.md) | Damnation | Patronage of an evil outsider |
+| [Malicious Eye](malicious-eye.md) | General | Evil eye witch hex, Halfling Jinx racial trait |
 | [Malleable Form](malleable-form.md) | Conduit | Knowledge (planes) 7 ranks |
 | [Manifold Stare](manifold-stare.md) | Combat, Stare | Mesmerist level 3rd, painful stare class feature |
 | [Manipulative Agility](manipulative-agility.md) | — | Bluff 1 rank, Sleight of Hand 1 rank |
@@ -2440,6 +2451,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Slipslinger Grenadier](slipslinger-grenadier.md) | Combat | Slipslinger Style, Throw Anything, Weapon Focus (sling) or weapon training (thrown) class feature, warslinger racial trait |
 | [Slipslinger Style](slipslinger-style.md) | Combat, Style | Weapon Focus (sling) or weapon training (thrown) class feature, warslinger racial trait |
 | [Slow Time](slow-time.md) | Combat | Wis 15, Combat Meditation, Meditation Master, character level 7th |
+| [Sluggish Jinx](sluggish-jinx.md) | General | Halfling Jinx racial trait |
 | [Slurk Rider](slurk-rider.md) | Combat | Kobold |
 | [Sly Draw](sly-draw.md) | Combat | Quick Draw |
 | [Smash from the Air](smash-from-the-air.md) | Weapon Mastery | Str 13, Cut from the Air, Power Attack, base attack bonus +9, weapon training class feature with a melee weapon |
@@ -2663,6 +2675,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Venomous Spray](venomous-spray.md) | Combat | Serpentfolk |
 | [Venomous Stare](venomous-stare.md) | Stare | Mesmerist level 11th, painful stare class feature |
 | [Verify](verify.md) | — | Ability to cast 1st-level spells, lawful evil alignment, worshiper of a lawful evil deity of devils and contracts |
+| [Versatile Jinxer](versatile-jinxer.md) | General | Iron Will, Halfling Jinx racial trait |
 | [Versatile Summon Monster](versatile-summon-monster.md) | General | Knowledge (arcana) 1 rank, Knowledge (planes) 1 rank |
 | [Versatile Summon Nature's Ally](versatile-summon-natures-ally.md) | General | Augment Summoning, Spell Focus (conjuration), Knowledge (nature) 1 rank, Knowledge (planes) 1 rank |
 | [Vestigial Head](vestigial-head.md) | — | Ogre |
@@ -2697,6 +2710,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Weathered Warrior](weathered-warrior.md) | Combat | Endurance |
 | [Welcome Pain](welcome-pain.md) | — | Iron Will, worshiper of a deity of pain |
 | [Whip-Shot Deed](whip-shot-deed.md) | Grit | Grit class feature or Amateur Gunslinger feat, pistol-whip deed |
+| [Whip-Slinger](whip-slinger.md) | Combat | Proficient with sling |
 | [Wicked Valor](wicked-valor.md) | — | Con 15, Diehard, Endurance, tiefling |
 | [Wild Speaker](wild-speaker.md) | General | Bleachling racial trait, gnome |
 | [Willing Accomplice](willing-accomplice.md) | — | Cha 13, Bluff 3 ranks, Sense Motive 1 rank |
@@ -2707,6 +2721,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Wind Song](wind-song.md) | — | Perform (wind instruments) 5 ranks; bardic performance or raging song class feature |
 | [Wind Strike](wind-strike.md) | Combat, Style | Dex 13, Wis 13, Elemental Discipline Style (wind), Quick Draw, base attack bonus +9 or monk level 9th |
 | [Wingclipper](wingclipper.md) | Combat | Base attack bonus +9 |
+| [Worst Case Jinx](worst-case-jinx.md) | General | Knowledge (arcana) 5 ranks, Halfling Jinx racial trait |
 | [Wrest Charge](wrest-charge.md) | — | Disable Device 5 ranks, Knowledge (engineering) 5 ranks |
 | [Wretched Curator](wretched-curator.md) | Story | You have purchased a scroll or spellbook containing a spell with the evil descriptor in a place where such dealings are illegal. |
 | [Yai-Mimic Spell](yai-mimic-spell.md) | Metamagic | Int 15, Still Spell |
