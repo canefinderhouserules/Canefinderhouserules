@@ -1488,6 +1488,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Acrobatic Spellcaster](acrobatic-spellcaster.md) | Combat | Combat Casting, Skill Focus (Acrobatics) |
 | [Acupuncture Specialist](acupuncture-specialist.md) | — | Heal 5 ranks |
 | [Acute Shot](acute-shot.md) | — | Far Shot, Precise Shot |
+| [Adept Channel](adept-channel.md) | General | Ability to cast divine spells, summon familiar class ability, caster level 4th, Cha 13 |
 | [Advanced Armor Training](advanced-armor-training.md) | Combat | Armor training class feature, fighter level 3rd |
 | [Advanced Weapon Training](advanced-weapon-training.md) | Combat | Fighter level 5th, weapon training class feature |
 | [Aerial Roll](aerial-roll.md) | Combat | Fly 10 ranks |
@@ -1936,6 +1937,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Filth Forager](filth-forager.md) | — | — |
 | [Filthy Weapons](filthy-weapons.md) | Combat | Knowledge (dungeoneering) 1 rank, Knowledge (nature) 1 rank |
 | [Finesse Shot](finesse-shot.md) | Weapon Mastery | Marksman’s Utility, base attack bonus +7, weapon training class feature with a ranged weapon |
+| [Fire God's Blessing](fire-god-s-blessing.md) | General | Half-orc or orc, worshiper of a god of fire |
 | [Firearm Familiarity](firearm-familiarity.md) | Combat | Base attack bonus +3, proficiency with at least one firearm |
 | [Firebrand](firebrand.md) | Combat | Worshiper of a deity of tyranny and contracts |
 | [Flagellant](flagellant.md) | — | Endurance, character level 7th, worshiper of a deity of pain |
@@ -2724,6 +2726,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Walking Sleight](walking-sleight.md) | — | Deft Hands, Sleight of Hand 5 ranks |
 | [Wanderer's Fortune](wanderers-fortune.md) | Conduit | Knowledge (planes) 3 ranks |
 | [Warding Blood](warding-blood.md) | — | Ghostbane Ichor, Knowledge (religion) 13 ranks, vishkanya |
+| [Warleader's Rage](warleader-s-rage.md) | General | Cha 13, half-orc or orc, non-lawful |
 | [Warmonger](warmonger.md) | — | Cha 13, hobgoblin |
 | [Warning Shot](warning-shot.md) | Combat | Point-Blank Shot, Precise Shot, Weapon Focus, proficiency with the selected weapon |
 | [Warren Digger](warren-digger.md) | — | Ghoul |

@@ -170,6 +170,7 @@
 - **[Blessing of Liberty](blessing-of-liberty.md)**: Luck against movement impairment.
 - **[Blindness/Deafness](blindness-deafness.md)**: Makes subject blind or deaf.
 - **[Blistering Invective](blistering-invective.md)**: Make an Intimidate check against all foes within 30 feet; those demoralized also take fire damage.
+- **[Blood Rage](blood-rage.md)**: Targets grow stronger and more reckless as they take damage.
 - **[Blur](blur.md)**: Attacks miss subject 20% of the time.
 - **[Body Double](body-double.md)**: Two creatures look alike; attacks may hit the wrong one.
 - **[Build Trust](build-trust.md)**: Gain various bonuses when interacting with the target.

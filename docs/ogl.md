@@ -229,3 +229,5 @@ The following text is the property of Wizards of the Coast, Inc. and is Copyrigh
     Pathfinder Player Companion: Goblins of Golarion. © 2011, Paizo Publishing, LLC; Author: James Jacobs, Hal Maclean, and Richard Pett.
 
     Pathfinder Player Companion: Kobolds of Golarion © 2013, Paizo Publishing, LLC; Authors: Tork Shaw, Mat Smith, and Jerome Virnich.
+
+    Pathfinder Companion: Orcs of Golarion. Copyright 2010, Paizo Publishing, LLC; Authors: Steve Kenson, Rob McCreary, Richard Pett, Sean K Reynolds, and JD Wiker.

@@ -246,6 +246,56 @@ Though most kobolds exhibit one of the five major chromatic colors, individuals 
 
 **Purple Scales**: Your outlandish purple scales made you an outcast from your tribe and forced you to survive in isolation at the edges of kobold society. While wandering alone through the Underworld, you contacted several other underground races and expanded your linguistic repertoire. In addition to speaking Draconic, you begin play with the ability to speak one of the following: Aklo, Dwarven, Goblin, or Undercommon.
 
+## Orc Traits
+
+Only orcs and half-orcs may select these traits.
+
+**Amazingly Ugly**: Your skull is misshapen in a grotesque way. You receive a +1 trait bonus on Intimidate checks, and it becomes a class skill.
+
+**Beast Rider**: You have a knack for breaking animals to your will, though you know little of civilized training methods. You gain a +2 trait bonus on Ride checks, but should you ever be forcibly dismounted in combat, your mount attacks you to the best of its ability.
+
+**Big Mouth**: You have an innate ability to weave stories about yourself that extol your might and prowess. You gain a +1 trait bonus on all Bluff, Intimidate, and Perform (oratory) checks made against orcs.
+
+**Brute (Orc)**: You are an especially large and hulking individual, and when you strike, you aim to deliver the maximum amount of pain. Whenever you score a critical threat, you add (but not multiply, in the case of a confirmed critical hit) an amount of damage equal to your weapon's critical modifier.
+
+**Deadeye**: You have only one working eye, but that eye is especially keen. You receive a +2 trait bonus on all Perception checks involving sight.
+
+**Demented Inventor**: You adore crafting new and ever more creative weapons, and some of them even work. You gain a +2 trait bonus on Craft (weapons) checks, and it becomes a class skill.
+
+**Dirty Fighter**: You were raised to fight with every dirty trick in the book. You receive a +3 trait bonus on all attempts to feint in combat using your Bluff skill.
+
+**Mindlessly Cruel**: You take delight in delivering vicious blows with cruel weapons. Whenever you have a morale bonus on weapon attack rolls, you also receive a +1 trait bonus on weapon damage rolls.
+
+**Outcast (Orc)**: You are adept at living away from tribes and receive a +1 trait bonus on Survival checks. Survival becomes a class skill for you.
+
+**Rage of Storms**: Summoned creatures can inherit your ferocity. Once per day, a creature you summon can have the ferocity ability.
+
+**Tribal**: You are especially devoted to your tribe, and within 60 feet of a tribal standard, you gain a +1 trait bonus on attack rolls and Will saves against fear effects, as if you were the recipient of a *bless* spell.
+
+**Tusked**: Huge, sharp tusks bulge from your mouth, and you receive a bite attack (1d4 damage for Medium characters). If used as part of a full attack action, the bite attack is made at your full base attack bonus –5.
+
+**Unbreakable Hate**: Your ferocity is focused into your spells, and it is harder to break your concentration. You receive a +2 trait bonus on all concentration checks.
+
+**Dominator** (orc badlands): The blood of dominance runs thick in the savage home of orcs, and your prowess in fighting is a thing of cruel artistry. You receive a +2 trait bonus on all attempts to demoralize an opponent in combat using your Intimidate skill.
+
+**Linebreaker** (orc badlands): Growing up along the border with a human frontier has taught you how to storm battle lines and quickly overwhelm them. When charging, add 10 feet to your base speed.
+
+**Mammoth Master** (orc badlands or mammoth steppes): You have experience trapping and training megafauna such as mastodons, woolly rhinoceroses, and other animals frequently used as orc warbeasts. You gain a +4 trait bonus on Handle Animal checks related to these creatures.
+
+**Sun-Blasted** (any desert): Desert orcs have learned to survive with practically nothing in the desert. You receive a +2 trait bonus on Survival checks made in a desert, and resolve all checks to avoid becoming lost in deserts as though you had proper navigational tools (a +4 bonus). The presence of such tools does not increase your ability, however.
+
+**Unafraid** (haunted lands): The horrors of a fog-shrouded land of terror have hardened you. You receive a +2 bonus on all saving throws made against fear effects.
+
+**Water Brave** (river lands): Travel through dangerous waters has given your tribe special skills in relation to them. You receive a +1 trait bonus on Swim checks, and it becomes a class skill.
+
+**Blessing of the Feast** (cannibal cult): You come from a cannibal tribe, and find strength in the flesh of your foes. Whenever you eat the flesh or drink the blood of another orc (a full-round action that provokes attacks of opportunity), you gain a +1 natural armor bonus for 1 minute/level. You can only receive this benefit once per day.
+
+**Fury** (god of destruction): The flood of battle and destruction stirs deep within you. When wielding a greataxe, you receive a +2 trait bonus on attack rolls to confirm critical hits.
+
+**Mother's Rage** (goddess of monsters): The blood of the beast runs thick in your veins, and your appearance is bestial. You receive a +1 trait bonus on Survival checks, and you treat your caster level as +1 higher when summoning creatures.
+
+**Sacred Smasher** (god of destruction): Your love of carnage extends even to the defenseless, inanimate objects around you. Whenever you make an attempt to break an object, you receive a +2 trait bonus on your Strength check.
+
 ## Ratfolk Traits
 
 Only ratfolk may select one of these traits.

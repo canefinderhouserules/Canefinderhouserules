@@ -509,6 +509,7 @@
 - **[Blade Snare](blade-snare.md)**: Snare a weapon or limb that strikes you.
 - **[Blast Barrier](blast-barrier.md)**: Unstable wall that explodes for damage.
 - **[Bleed for Your Master](bleed-for-your-master.md)**: Compel a companion to take damage for you.
+- **[Blood Rage](blood-rage.md)**: Targets grow stronger and more reckless as they take damage.
 - **[Blood Scent](blood-scent.md)**: School transmutation; Level alchemist 3, antipaladin 2, cleric 3, druid 3, inquisitor 3, ranger 2.
 - **[Blot](blot.md)**: Smears all writing in an area.
 - **[Bone Flense](bone-flense.md)**: Barbed bone spurs flense a struck creature.

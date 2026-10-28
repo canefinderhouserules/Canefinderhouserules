@@ -14,6 +14,7 @@
 - **[Read Magic](read-magic.md)**: Read scrolls and spellbooks.
 - **[Resistance](resistance.md)**: Subject gains +1 on saving throws.
 - **[Stabilize](stabilize.md)**: Cause a dying creature to stabilize.
+- **[Vigor](vigor.md)**: Grant +1 on a single melee damage roll.
 - **[Virtue](virtue.md)**: Subject gains 1 temporary hp.
 
 ## 1st-Level Cleric Spells
@@ -110,6 +111,7 @@
 - **[Scarify](scarify.md)**: Convert lethal damage to nonlethal, leaving scars
 - **[Shadow Trap](shadow-trap.md)**: pins the target's shadow so it is entangled
 - **[Shield of Faith](shield-of-faith.md)**: Aura grants +2 or higher deflection bonus.
+- **[Shield the Banner](shield-the-banner.md)**: Protect a tribal standard with sanctuary and added toughness.
 - **[Skim](skim.md)**: read in a quarter of the time
 - **[Songbird](songbird.md)**: Conjure music from a good-aligned plane
 - **[Speak Local Language](speak-local-language.md)**: Speak and understand one known regional human language.
@@ -300,6 +302,7 @@
 - **[Bestow Curse](bestow-curse.md)**: –6 to an ability score; –4 on attack rolls, saves, and checks; or 50% chance of losing each action.
 - **[Bestow Insight](bestow-insight.md)**: Component V, S Range touch Target one creature touched Duration 1 minute/level When casting this spell.
 - **[Blindness/Deafness](blindness-deafness.md)**: Makes subject blinded or deafened.
+- **[Blood Rage](blood-rage.md)**: Targets grow stronger and more reckless as they take damage.
 - **[Blood Scent](blood-scent.md)**: School transmutation; Level alchemist 3, antipaladin 2, cleric 3, druid 3, inquisitor 3, ranger 2.
 - **[Blot](blot.md)**: Smears all writing in an area.
 - **[Bone Flense](bone-flense.md)**: Barbed bone spurs flense a struck creature.

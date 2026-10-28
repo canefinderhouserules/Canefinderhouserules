@@ -81,15 +81,18 @@ Orcs have access to the following equipment.
 
 ## Feats
 
+- [Adept Channel](../../rules/feats/adept-channel.md)
 - [Born Alone](../../rules/feats/born-alone.md)
 - [Bullying Blow](../../rules/feats/bullying-blow.md)
 - [Ferocious Action](../../rules/feats/ferocious-action.md)
+- [Fire God’s Blessing](../../rules/feats/fire-god-s-blessing.md)
 - [Foment the Blood](../../rules/feats/foment-the-blood.md)
 - [Grudge Fighter](../../rules/feats/grudge-fighter.md)
 - [Orc Weapon Expertise](../../rules/feats/orc-weapon-expertise.md)
 - [Resolute Rager](../../rules/feats/resolute-rager.md)
 - [Reverse-Feint](../../rules/feats/reverse-feint.md)
 - [Trap Wrecker](../../rules/feats/trap-wrecker.md)
+- [Warleader’s Rage](../../rules/feats/warleader-s-rage.md)
 
 ## Magic Items
 
@@ -98,6 +101,9 @@ Orcs have access to the following equipment.
 ## Spells
 
 - [Blood Blaze](../../magic/spells/blood-blaze.md)
+- [Blood Rage](../../magic/spells/blood-rage.md)
 - [Blood Scent](../../magic/spells/blood-scent.md)
 - [Enemy’s Heart](../../magic/spells/enemy-s-heart.md)
 - [Sentry Skull](../../magic/spells/sentry-skull.md)
+- [Shield the Banner](../../magic/spells/shield-the-banner.md)
+- [Vigor](../../magic/spells/vigor.md)
