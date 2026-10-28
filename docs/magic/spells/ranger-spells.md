@@ -213,6 +213,7 @@
 - **[Soothing Mud](soothing-mud.md)**: Create restorative mud that heals hit point and ability damage.
 - **[Spindrift Spritz, Mass](spindrift-spritz-mass.md)**: As spindrift spritz, affecting multiple creatures.
 - **[Summon Nature’s Ally III](summon-natures-ally-iii.md)**: Summons creature to fight for you.
+- **[Summon Totem Creature](summon-totem-creature.md)**: Summon creatures sacred to your totem clan.
 - **[Sunstalker](sunstalker.md)**: Invisible while in sunlight.
 - **[Symbol of Storms](symbol-of-storms.md)**: rune that unleashes hurricane winds and lightning
 - **[Tail Current](tail-current.md)**: Create a current in water to enhance or impede swimming.

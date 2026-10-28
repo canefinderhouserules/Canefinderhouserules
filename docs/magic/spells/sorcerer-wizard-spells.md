@@ -266,6 +266,7 @@
 - **[Brittle Portal](brittle-portal.md)**: Reduce the hardness of a surface.
 - **[Brow Gasher](brow-gasher.md)**: Slashing weapon deals bleed damage to an opponent’s head.
 - **[Bullet Shield](bullet-shield.md)**: You gain a +4 deflection bonus to AC against firearm attacks.
+- **[Burning Arc](burning-arc.md)**: An arc of fire leaps between several targets.
 - **[Burst of Radiance](burst-of-radiance.md)**: Blind creatures and damage evil creatures with a flash of light.
 - **[Callback](callback.md)**: Teleport a familiar or spirit animal to your side when it is injured.
 - **[Carrion Compass](carrion-compass.md)**: Organ leads you to an undead creature's controller
@@ -389,6 +390,7 @@
 - **[Shared Suffering](shared-suffering.md)**: Take damage to deal the same damage to a distant target.
 - **[Shifted Steps](shifted-steps.md)**: Make a target sound as if elsewhere.
 - **[Slick Walls](slick-walls.md)**: Walls and ceilings become much harder to climb.
+- **[Snow Shape](snow-shape.md)**: Shape snow like stone, or carve an ice weapon.
 - **[Solidify Earth](solidify-earth.md)**: Packs earth tight, hindering burrowing creatures.
 - **[Spell Gauge](spell-gauge.md)**: Reveal some of a target’s spells.
 - **[Splinter Spell Resistance](splinter-spell-resistance.md)**: Your weapon lowers a foe's spell resistance by 5.
@@ -493,6 +495,7 @@
 **Abjuration**
 
 - **[Ablative Barrier](ablative-barrier.md)**: Surrounds the target with layers of force.
+- **[Ablative Sphere](ablative-sphere.md)**: A crystalline sphere gives improved cover that degrades as it is damaged.
 - **[Accursed Glare](accursed-glare.md)**: Target rolls attacks and saves twice and takes the lower result.
 - **[Adroit Retrieval](adroit-retrieval.md)**: Target can quickly retrieve small stored items.
 - **[Air Breathing](air-breathing.md)**: Let aquatic creatures breathe air
@@ -655,6 +658,7 @@
 
 - **[Arcane Sight](arcane-sight.md)**: Magical auras become visible to you.
 - **[Clairaudience/Clairvoyance](clairaudience-clairvoyance.md)**: Hear or see at a distance for 1 min./level.
+- **[Summon Totem Creature](summon-totem-creature.md)**: Summon creatures sacred to your totem clan.
 - **[Sundered Serpent Coil](sundered-serpent-coil.md)**: Summon a grappling serpent coil
 - **[Sunstalker](sunstalker.md)**: Invisible while in sunlight.
 - **[Swarm of Fangs](swarm-of-fangs.md)**: Summon a swarm of flying teeth

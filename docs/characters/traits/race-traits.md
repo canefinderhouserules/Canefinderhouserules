@@ -170,6 +170,52 @@ Only humans may select one of these traits.
 
 **World Traveler**: Your family has taken the love of travel to an extreme, roaming the world extensively. You’ve seen dozens of cultures and have learned to appreciate the diversity of what the world has to offer. Select one of the following skills: Diplomacy, Knowledge (local), or Sense Motive. You gain a +1 trait bonus on that skill, and it is always a class skill for you.
 
+**Animalistic Affliction** (northern raider culture): You grew up with an affinity for predatory animals, and whispers amid your clan suggest somewhere in the past, lycanthropy afflicted an ancestor. Whether or not you share this affliction, you often have animalistic urges. You gain a +1 trait bonus on Handle Animal and wild empathy checks.
+
+**Artistic Dilettante** (decadent imperial culture): You come from money, and because of this can quickly discern objects' value. You gain a +1 trait bonus on Appraise checks, and on checks for one Craft skill of your choice.
+
+**Auspicious Tattoo** (plains tribal culture): You bear a tattoo depicting one of your clan's totems that favors you with good fortune. You gain a +1 trait bonus on Will saving throws.
+
+**Ancient Inheritor** (ancient magical empire): The blood of an ancient, magical empire flows in your veins, even if your family members have no knowledge of their mythic pedigree. All your life you've had dreams that seem more like memories of a forgotten age. You gain a +1 trait bonus on Knowledge (history) checks and a +2 trait bonus on Appraise checks related to objects of ancient origin or made to identify ioun stones. (At the GM's discretion, other cultures might take this trait, marking a character as a throwback to these legendary people.)
+
+**Blade Bravado** (decadent imperial culture): You grew up fighting in one of the many dueling academies and have honed your skills with one-handed weapons. When wielding a one-handed weapon and nothing in your off hand, you gain a +1 trait bonus on Acrobatics and Bluff checks.
+
+**Bred for War** (plains tribal culture): You tower above most other humans and possess a physique of hard, corded muscle. You gain a +1 trait bonus on Intimidate checks and a +1 trait bonus on your CMB because of your great size. You must be at least 6 feet tall.
+
+**Ever Home** (coastal trading cities): You have lived in many cities dotting a long coastline, and after you have departed from each, you have taken a small token to remember it by. You gain a +1 trait bonus on Knowledge (geography) and Sleight of Hand checks.
+
+**Glib Barrister** (lawful empire): You grew up within a bureaucratic system where law reigns supreme; however, that has never stopped you from creating loopholes in ironclad contracts. You gain a +2 trait bonus on Linguistics checks to create forgeries.
+
+**Fortune-Card Born** (wandering folk): You grew up around the mysterious fortune-tellers who travel the roads. You start play with a deck of fortune-telling cards passed down from a relative. Because of your skill with fortune-telling, you gain a +1 trait bonus on initiative checks.
+
+**Horse Lord** (desert horse culture): You grew up racing along the plains, hoping to one day compete in a great horse race. You gain a +2 trait bonus on Handle Animal checks, and a +1 trait bonus on Ride checks. This trait applies only to horses.
+
+**Ice Walker** (tundra tribes): You spent years roaming the frozen tundra of the frigid north, and have adapted to its numbing effects. You gain a +1 trait bonus on saving throws against attacks that deal cold damage. Furthermore, you may ignore the Acrobatics penalty for ice and can move across ice at normal speed.
+
+**Keeper of the Ancestral Scrolls** (eastern culture): You take pride in recording the genealogy of your family, tracing your heritage on large scrolls dating back hundreds, if not thousands of years. You gain a +1 trait bonus on Knowledge (history) and Knowledge (nobility) checks, and one of these skills (your choice) is always a class skill for you.
+
+**Market Rat** (desert merchant culture): You spent your youth amid the varied market stalls and mercantile leagues of the world. Perhaps you came from a family of merchants, or you dwelt amid the many booths of a market, begging to survive. You gain a +1 trait bonus on Appraise and Knowledge (local) checks.
+
+**Master of the Sudden Strike** (eastern culture): You have mastered the deadly fighting arts of your people, and when you wield a masterwork version of any sword, you become one with its blade. If you act before your opponent during the surprise round, you gain a +2 trait bonus on weapon damage rolls for the surprise round only. This additional damage is precision damage.
+
+**Open Palm** (martial-arts culture): Your practice of the tenets of your people's martial arts has granted you a perfect balance between body and spirit. You gain a +1 trait bonus on Acrobatics and Knowledge (religion) checks. If you have a ki pool, once per day as a swift action, you may channel your ki during an unarmed strike, gaining a +2 trait bonus on one damage roll. This additional damage is precision damage.
+
+**Operatic** (lawful empire): You grew up in wonder of the theater, and spent countless hours in opera houses and even more time perfecting your voice. You gain a +1 trait bonus on Perform (sing) checks. Furthermore you have memorized the librettos of many works sung in an ancient tongue, granting you a +2 trait bonus on Linguistics checks when trying to decipher that ancient language.
+
+**Shield Bearer** (northern raider culture): You have survived many battles thanks to your skill with your shield. When performing a shield bash, you deal 1 additional point of damage. Also, once per day on your turn as a free action, you may provide one adjacent ally a +2 trait bonus to his Armor Class. This bonus lasts for 1 round, so long as you and the target remain adjacent to one another. You can only use this ability if you are using a shield. You retain your shield bonus to your Armor Class when using this ability.
+
+**Road Stargazer** (wandering folk): You spent many years wandering the roads, and during clear nights, you took to tracking the celestial bodies that adorn the skies. You gain a +1 trait bonus on Knowledge (geography) and Survival checks.
+
+**Student of the Academy** (jungle culture): You have spent time at a magical academy, absorbing the ancient knowledge taught there. You gain a +1 trait bonus on Knowledge (arcana) and Spellcraft checks, and you may make these checks untrained.
+
+**Superstitious** (tundra tribes): You have a healthy fear of sorcerers' speech and wizards' words that has helped you to survive their charms. You gain a +1 trait bonus on saving throws against arcane spells.
+
+**Tongue of Many Towns** (coastal trading cities): You have spent many years traveling across a continent, and have met many different people on your journeys. You gain a +1 trait bonus on two of the following skills: Diplomacy, Knowledge (local), and Linguistics.
+
+**Trailblazer** (jungle culture): Your ability to endure in the darkest jungles has earned you a reputation as a novice guide. While traversing any wilderness, you gain a +1 trait bonus on Survival checks, and gain a +1 trait bonus on Fortitude saving throws against diseases.
+
+**Voice of Velvet** (martial-arts culture): You have the ability to sing a song and spin a story that captures the hearts of those around you. You gain a +1 trait bonus on Diplomacy and Perform (oratory) checks.
+
 ## Catfolk Traits
 
 Only catfolk may select one of these traits.

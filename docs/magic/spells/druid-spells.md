@@ -81,6 +81,7 @@
 - **[Rite of Centered Mind](rite-of-centered-mind.md)**: Meditative spell: bonus against mind-affecting effects, with a reroll.
 - **[Scarify](scarify.md)**: Convert lethal damage to nonlethal, leaving scars
 - **[Shillelagh](shillelagh.md)**: Cudgel or quarterstaff becomes +1 weapon (2d6 damage) for 1 min./level.
+- **[Snow Shape](snow-shape.md)**: Shape snow like stone, or carve an ice weapon.
 - **[Snowball](snowball.md)**: Throw a conjured ball of snow at a target.
 - **[Speak with Animals](speak-with-animals.md)**: You can communicate with animals.
 - **[Spirit Call](spirit-call.md)**: Spirit and domain spells in the area are stronger.
@@ -291,6 +292,7 @@
 - **[Steal Years](steal-years.md)**: drain years from a target to make yourself younger
 - **[Stone Shape](stone-shape.md)**: Sculpts stone into any shape.
 - **[Summon Nature’s Ally III](summon-natures-ally-iii.md)**: Summons creature to fight.
+- **[Summon Totem Creature](summon-totem-creature.md)**: Summon creatures sacred to your totem clan.
 - **[Swarm of Fangs](swarm-of-fangs.md)**: Summon a swarm of flying teeth
 - **[Sweat Poison](sweat-poison.md)**: exude an injury poison from your own glands
 - **[Tail Current](tail-current.md)**: Create a current in water to enhance or impede swimming.

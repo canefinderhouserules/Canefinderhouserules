@@ -111,6 +111,7 @@ New summoner spells from *Ultimate Magic*. Spells from other books will be added
 - **[Siphon Might](siphon-might.md)**: Drains target's Strength and grants it to an ally.
 - **[Spider Climb, Communal](spider-climb-communal.md)**: As spider climb, but you may divide the duration among creatures touched.
 - **[Summon Ship](summon-ship.md)**: conjure a ship
+- **[Summon Totem Creature](summon-totem-creature.md)**: Summon creatures sacred to your totem clan.
 - **[Sundered Serpent Coil](sundered-serpent-coil.md)**: Summon a grappling serpent coil
 - **[Swarm of Fangs](swarm-of-fangs.md)**: Summon a swarm of flying teeth
 - **[Toxic Blood](toxic-blood.md)**: Target's blood sprays black adder venom when cut.

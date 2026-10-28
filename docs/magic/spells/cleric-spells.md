@@ -257,6 +257,7 @@
 - **[Shield of Shards](shield-of-shards.md)**: Your shield breaks into orbiting shards that attack.
 - **[Shield Other](shield-other.md)**: You take half of subject’s damage.
 - **[Silence](silence.md)**: Negates sound in 20-ft. radius.
+- **[Snow Shape](snow-shape.md)**: Shape snow like stone, or carve an ice weapon.
 - **[Solidify Earth](solidify-earth.md)**: Packs earth tight, hindering burrowing creatures.
 - **[Sound Burst](sound-burst.md)**: Deals 1d8 sonic damage to subjects; may stun them.
 - **[Spell Gauge](spell-gauge.md)**: Reveal some of a target’s spells.
@@ -405,6 +406,7 @@
 - **[Stone Shape](stone-shape.md)**: Sculpts stone into any shape.
 - **[Summon Ancestral Guardian](summon-ancestral-guardian.md)**: Two ancestor spirits attack your enemies.
 - **[Summon Monster III](summon-monster-iii.md)**: Summons extraplanar creature to fight for you.
+- **[Summon Totem Creature](summon-totem-creature.md)**: Summon creatures sacred to your totem clan.
 - **[Symbol of Exsanguination](symbol-of-exsanguination.md)**: Triggered rune causes nearby creatures to bleed.
 - **[Tactical Formation](tactical-formation.md)**: Adjacent allies gain a deflection bonus to AC.
 - **[Toxic Blood](toxic-blood.md)**: Target's blood sprays black adder venom when cut.
