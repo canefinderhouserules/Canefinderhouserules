@@ -584,6 +584,7 @@ Shamans gain access to the following spells. Spells in plain text come from othe
 - **[Elemental Swarm](elemental-swarm.md)**: Summons multiple elementals.
 - **[Energy Drain](energy-drain.md)**: Subject gains 2d4 negative levels.
 - **[Entice Fey, Greater](entice-fey-greater.md)**: Entice service from a fey of 18 Hit Dice or fewer.
+- **[Eternal Grove](eternal-grove.md)**: Permanently turn creatures into living trees.
 - **[Etherealness](etherealness.md)**: Travel to Ethereal Plane with companions.
 - **[Foresight](foresight.md)**: “Sixth sense” warns of impending danger.
 - **[Heal, Mass](heal-mass.md)**: As *heal*, but affects 1 subject/level.

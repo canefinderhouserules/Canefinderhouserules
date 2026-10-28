@@ -795,6 +795,7 @@
 - **[Planar Ally, Greater](planar-ally-greater.md)**: As *lesser planar ally,* but up to 18 HD.
 - **[Primal Scar](primal-scar.md)**: Infuse an area with primal magic.
 - **[Quintessence Mastery](quintessence-mastery.md)**: Exercise limited control over the quintessence of an Outer Plane
+- **[Realm Retribution](realm-retribution.md)**: The target sends creatures it hits to your alignment's Outer Plane.
 - **[Remove Radioactivity, Greater](remove-radioactivity-greater.md)**: Cure all radiation damage; deplete radioactive objects.
 - **[Rift of Ruin](rift-of-ruin.md)**: Open a deadly rift; may summon demons
 - **[Rotting Alliance](rotting-alliance.md)**: Curse several creatures to waste away when near one another.

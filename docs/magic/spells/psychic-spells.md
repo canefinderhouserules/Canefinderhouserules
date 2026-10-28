@@ -1042,6 +1042,7 @@ Psychics gain access to the following spells. Spells without a link come from ot
 - **[Scintillating Pattern](scintillating-pattern.md)**: Twisting colors *confuse,* stun, or render unconscious.
 - **[Screen](screen.md)**: Illusion hides area from vision and scrying.
 - **[Shout, Greater](shout-greater.md)**: Devastating yell deals 10d6 sonic damage; stuns creatures.
+- **[Song of Discord, Greater](song-of-discord-greater.md)**: As song of discord, but creatures always attack and gain +4 Strength.
 - **[Spell Immunity, Greater](spell-immunity-greater.md)**: As *spell immunity,* but up to 8th-level spells.
 - **[Summon Monster VIII](summon-monster-viii.md)**: Summons extraplanar creature to fight for you.
 - **[Sympathy](sympathy.md)**: Object or location attracts certain creatures.
@@ -1050,6 +1051,7 @@ Psychics gain access to the following spells. Spells without a link come from ot
 - **[Tower of Iron Will IV](tower-of-iron-will-iv.md)**: As tower of iron will I, but lasts 4 rounds.
 - **[Trap the Soul](trap-the-soul.md)**: Imprisons subject within gem.
 - **[True Prognostication](true-prognostication.md)**: Gain incredibly cryptic information from the distant future.
+- **[Uncanny Reminder](uncanny-reminder.md)**: Conjure a living memory that attacks and unsettles the target.
 
 ## 9th-Level Psychic Spells
 

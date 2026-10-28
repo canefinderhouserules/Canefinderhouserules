@@ -626,6 +626,7 @@
 - **[Shadow Transmutation](shadow-transmutation.md)**: mimics a polymorph or size-changing spell with shadow-stuff
 - **[Shield of Dawn, Greater](shield-of-dawn-greater.md)**: Sun shield damages melee attackers.
 - **[Shout, Greater](shout-greater.md)**: Devastating yell deals 10d6 sonic damage; stuns creatures.
+- **[Song of Discord, Greater](song-of-discord-greater.md)**: As song of discord, but creatures always attack and gain +4 Strength.
 - **[Subjective Reality](subjective-reality.md)**: Treat a creature or object as an illusion that cannot harm you.
 - **[Summon Monster VI](summon-monster-vi.md)**: Summons extraplanar creature to fight for you.
 - **[Symbol of Debauchery](symbol-of-debauchery.md)**: Symbol that fills creatures with lust.

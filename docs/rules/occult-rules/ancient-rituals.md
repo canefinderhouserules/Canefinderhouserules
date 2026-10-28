@@ -39,3 +39,24 @@ This ritual can be enacted up to three times within an area. Reinforcements of t
 **Failure** A spectre appears at the site of the ritual and attacks the caster. At the GM's discretion, the spectre can have the advanced template, be accompanied by additional spectres, or both.
 
 **Effect**: The caster must begin this ritual in the hour before sunset. The affected items or matter must either be immersed in salt, or surrounded by a salt ring. The object is then thinly coated with a mixture of holy water and ectoplasm. If the ritual is successful, the armor, shield, weapon, or projectiles function as if they have the *ghost touch* special ability, except they cannot be moved or used by incorporeal creatures. If the ritual is used to affect a volume of matter, incorporeal creatures cannot pass through it.
+
+## Egoist's Militia
+
+*This forbidden ritual is the sort of knowledge locked away in secret archives.*
+
+**School** conjuration; **Level** 8
+**Casting Time** 80 minutes
+**Components** V, S, M (1 pint of the primary caster's blood, diamond dust worth 5,000 gp), F (at least four weapons), SC (at least 2 and up to 10)
+**Skill Checks** Craft (weapons) DC 36, 1 success per martial weapon; Knowledge (arcana) DC 36, 2 successes; Knowledge (nobility) DC 36, 2 successes
+**Range** touch
+**Target** weapons touched
+**Duration** permanent (D) or until the death of the primary caster
+**Saving Throw** none; **SR** no
+**Backlash** The primary caster takes 2d6 points of damage per weapon and is exhausted.
+**Failure** All casters take a –10 penalty on attack rolls for 1 month, and all of the targeted weapons gain the broken condition.
+
+**Effect**: This ritual must be performed in a place that holds a significance related to weapons, such as an armory, an old battlefield, or a warrior's crypt. The primary caster begins this ritual by mixing her blood with the diamond dust, smearing each weapon with the mixture, and placing the weapons in a circle around herself. The primary caster then holds each weapon and demonstrates the weapon in a combat performance. After the primary caster finishes her performance with a weapon, she places the weapon into the air in front of her, now held in midair by her force of ego.
+
+Upon successful completion of this ritual, ghostly apparitions of the primary caster appear and grasp each of the weapons before fading, representing the shards of the primary caster's own ego placed within each weapon. The egoist weapons are treated as if they are held by the primary caster, using her base attack bonus, ability scores, and any relevant feats when calculating their attack and damage rolls, but the weapons function independently from the primary caster. Egoist weapons make attacks on the primary caster's initiative. When moving, egoist weapons have a fly speed of 100 feet. An egoist weapon uses the statistics of the base weapon and retains its magical enhancements and material properties. For every 2 Hit Dice the primary caster has, an egoist weapon has a hardness of 10 and 5 hit points (magical weapons maintain their additional bonuses to AC and HP). When an egoist weapon is reduced to 0 hit points, it is destroyed. All casters who were part of the ritual can issue simple commands to the egoist weapons, and the weapons follow these commands to the best of their abilities. If an egoist weapon completes its task and does not receive further orders, it remains in its location until it receives additional orders. The primary caster can dispel an individual egoist weapon as a standard action.
+
+This ritual can be used to create more than four egoist weapons. The DC of each skill check increases by 1 for each weapon beyond the fourth added to the ritual.

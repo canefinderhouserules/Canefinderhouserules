@@ -221,6 +221,7 @@ New summoner spells from *Ultimate Magic*. Spells from other books will be added
 - **[Summon Flight of Eagles](summon-flight-of-eagles.md)**: Summon giant eagles to fight or serve as mounts.
 - **[Summon Laborers](summon-laborers.md)**: Summon petitioners to help downtime work
 - **[Treacherous Teleport](treacherous-teleport.md)**: As *teleport*, except you choose some creatures to suffer a mishap or go elsewhere.
+- **[Uncanny Reminder](uncanny-reminder.md)**: Conjure a living memory that attacks and unsettles the target.
 - **[Walk Through Space](walk-through-space.md)**: You can spend a move action to teleport 30 feet or to stand while prone without provoking attacks of opportunity.
 - **[Whip of Ants](whip-of-ants.md)**: As whip of spiders, but with army ants.
 

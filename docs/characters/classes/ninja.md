@@ -155,7 +155,11 @@ If a character already has uncanny dodge from another class, the levels from the
 
 **Master Tricks**: At 10th level, and every two levels thereafter, a ninja can select one of the following master tricks in place of a ninja trick.
 
+**Acceleration of Form (Su)**: A ninja with this trick can spend 1 ki point as a standard action to gain the benefits of displacement and haste for 1 round per 2 ninja levels.
+
 **Advanced Talents**: The ninja can select a rogue talent from the list of Advanced Talents in place of a ninja trick. The ninja cannot select a rogue talent that has the same name as a ninja trick. The ninja cannot select improved evasion unless she has evasion (either as a class feature or as a ninja master trick).
+
+**All the Stars in the Sky (Ex)**: Certain master ninjas possess a seemingly limitless supply of their trusted weapons. Whenever a ninja with this trick buys a set of 50 identical magic shuriken, she thereafter replenishes them at no cost and never runs out. This stock of magical shuriken can be upgraded as though it were a normal magic weapon, and shuriken upgraded this way likewise never run out.
 
 **Assassinate (Ex)**: A ninja with this master trick can kill foes that are unable to defend themselves. To attempt to assassinate a target, the ninja must first study her target for 1 round as a standard action. On the following round, if the ninja makes a sneak attack against the target and the target is denied its Dexterity bonus to AC, the sneak attack has the additional effect of possibly killing the target. This attempt automatically fails if the target recognizes the ninja as an enemy. If the sneak attack is successful and the target of this attack fails a Fortitude save, it dies. The DC of this save is equal to 10 + 1/2 the ninja’s level + the ninja’s Charisma modifier. If the save is successful, the target still takes the sneak attack damage as normal, but it is immune to that ninja’s assassinate ability for 1 day.
 
@@ -169,7 +173,11 @@ The ninja must have the choking bomb ninja trick before selecting this trick.
 
 **Evasion (Ex)**: A ninja can avoid even magical and unusual attacks with great agility. If she makes a successful Reflex saving throw against an attack that normally deals half damage on a successful save, she instead takes no damage. Evasion can be used only if the ninja is wearing light armor or no armor. A helpless ninja does not gain the benefit of evasion.
 
+**False Face (Su)**: Like oni who take mortal shapes to infiltrate society, some ninjas can mold their flesh to pass unsuspected. A ninja with this trick gains the change shape (any Small or Medium humanoid, alter self) universal monster rule as long as she has at least 1 ki point.
+
 **Feat**: A ninja may gain any feat that she qualifies for in place of a ninja trick.
+
+**Fractured Mirror (Su)**: By sending phantom selves across the battlefield, one may fight as many. When a ninja with this trick uses the shadow clone ninja trick, she gains an additional clone for every 3 ninja levels she has, to a maximum of eight clones. In addition, while she has shadow clones deployed, the ninja can cause any number of her clones to split from herself as part of a move action. The shadow clones move up to the ninja's speed at her will each time she uses a move action to move. Shadow clones separated in this way are not considered part of the shadow clone trick until they return to the ninja's square, though they can still be destroyed while separated. Shadow clones separated from the ninja have an AC equal to the ninja's AC – 5 and cannot take any actions, though they can provide flanking. Shadow clones do not occupy any space and a creature can freely enter a shadow clone's square. The ninja must have the shadow clone ninja trick to select this trick.
 
 **Ghost Step (Su)**: As a swift action, a ninja with this trick can pass through walls as if she were a ghost. Until the end of her turn, she can pass through a wall or other surface that is up to 5 feet thick per level as if she were incorporeal. She must exit the solid material by the end of her turn. Each use of this ability uses up 1 ki point.
 
@@ -188,6 +196,10 @@ Whenever the ninja uses the sudden disguise ninja trick, the duration increases 
 **See the Unseen (Su)**: A ninja with this trick learns how to see that which cannot be seen. As a swift action, the ninja can cast see invisibility, using her level as the caster level. Each use of this ability uses up 1 ki point.
 
 **Shadow Split (Su)**: This trick allows the ninja to create an illusory double of herself that moves away from her, allowing the ninja to create a distraction. When she uses this ability, an illusory double appears and moves away from the ninja, heading in one direction. The double climbs walls, jumps pits, or simply passes through obstacles, moving at twice the ninja’s speed in the direction indicated by the ninja when the ability is used. Its course cannot be changed. The double persists for 1 round per level of the ninja. Those who interact with the double receive a Will saving throw to recognize that it is fake. The DC of this save is 10 + 1/2 the ninja’s level + the ninja’s Charisma modifier. Each use of this ability uses up 1 ki point. The ninja must possess the shadow clone ninja trick before selecting this trick.
+
+**Spirit Warden (Su)**: Ninjas can act as bodyguards as well as assassins or spies; some mystically emulate the relationship between guardian spirits and their wards when protecting their charges. A ninja with this trick gains Bodyguard and In Harm's Way as bonus feats, ignoring their prerequisites. When using In Harm's Way to intercept an attack, the ninja can spend 1 ki point to gain DR 10/cold iron and resistance 10 to acid, electricity, and fire for that attack.
+
+**Spiritual Companion (Ex)**: While ninjas are accustomed to solitude, some form pacts with magical beings to seek aid and advice. A ninja with this trick gains an improved familiar, treating her ninja level as her wizard level. The ninja can select any of the following as her familiar: calligraphy wyrm, pipefox, shikigami, or spirit oni. The ninja must have an alignment compatible with the chosen familiar.
 
 **Unarmed Combat Mastery**: A ninja who selects this trick deals damage with her unarmed strikes as if she were a monk of her ninja level –4. If the ninja has levels in monk, this ability stacks with monk levels to determine how much damage she can do with her unarmed strikes. A ninja must have the Improved Unarmed Strike feat before taking this trick.
 

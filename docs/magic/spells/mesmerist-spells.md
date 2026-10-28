@@ -557,10 +557,12 @@ Mesmerists gain access to the following spells. Spells without a link come from 
 - **[Project Image](project-image.md)**: Illusory double can talk and cast spells.
 - **[Scrying, Greater](scrying-greater.md)**: As *scrying*, but faster and longer.
 - **[Shadow Enchantment, Greater](shadow-enchantment-greater.md)**: Quasi-real enchantment of 5th level or lower.
+- **[Song of Discord, Greater](song-of-discord-greater.md)**: As song of discord, but creatures always attack and gain +4 Strength.
 - **[Symbol of Distraction](symbol-of-distraction.md)**: Symbol that fascinates creatures nearby.
 - **[Symbol of Persuasion](symbol-of-persuasion.md)**: Triggered rune charms creatures.
 - **[Triggered Hallucination](triggered-hallucination.md)**: As *scripted hallucination*, but it only appears when triggered.
 - **[True Seeing](true-seeing.md)**: Lets you see all things as they really are.
+- **[Uncanny Reminder](uncanny-reminder.md)**: Conjure a living memory that attacks and unsettles the target.
 - **[Veil](veil.md)**: Changes appearance of a group of creatures.
 - **[Waves of Ecstasy](waves-of-ecstasy.md)**: Pleasure stuns and staggers creatures.
 - **[Waves of Exhaustion](waves-of-exhaustion.md)**: Several targets become exhausted.

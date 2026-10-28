@@ -769,6 +769,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Create Demiplane, Greater](create-demiplane-greater.md)**: As create demiplane, but larger and with more planar traits.
 - **[Curse of Fell Seasons](curse-of-fell-seasons.md)**: Curse an area’s weather.
 - **[Cursed Earth](cursed-earth.md)**: Plants die, living creatures catch diseases, or dead creatures rise as zombies.
+- **[Eternal Grove](eternal-grove.md)**: Permanently turn creatures into living trees.
 - **[Fey Form IV](fey-form-iv.md)**: Assume the form of a powerful fey creature.
 - **[Heroic Invocation](heroic-invocation.md)**: Grants a number of creatures bonuses on attacks and damage, temporary hit points, and immunity to fear and charm effects.
 - **[Impenetrable Veil](impenetrable-veil.md)**: Target is nearly impossible to detect.

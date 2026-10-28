@@ -395,6 +395,7 @@ New inquisitor spells from *Ultimate Magic*. Spells from other books will be add
 - **[Overwhelming Presence](overwhelming-presence.md)**: Creatures bow before you as if you were divine.
 - **[Plague Bearer](plague-bearer.md)**: Target spreads contagion to adjacent creatures.
 - **[Prognostication](prognostication.md)**: Gain cryptic information from further in the future than *divination*.
+- **[Realm Retribution](realm-retribution.md)**: The target sends creatures it hits to your alignment's Outer Plane.
 - **[Rotting Alliance](rotting-alliance.md)**: Curse several creatures to waste away when near one another.
 - **[Shadow Memory](shadow-memory.md)**: Learn a target’s secrets to aid an assassination.
 - **[Tactical Insight](tactical-insight.md)**: Grants an army mastery of one tactic.

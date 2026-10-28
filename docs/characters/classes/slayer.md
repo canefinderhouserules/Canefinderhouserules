@@ -132,3 +132,17 @@ Samsarans are most often associated with quiet reflection, piety, and peaceful s
 **Mystic Veil (Sp)**: Samsaran slayers are adept at obscuring the passes of their mountain homes from intruders. The slayer can cast silent image as a spell-like ability once per day for every 2 slayer levels he has, using his slayer level as his caster level. The slayer uses his Intelligence modifier on concentration checks when using this ability, and the DC to disbelieve the illusion is equal to 11 + the slayer's Intelligence modifier. The slayer must have an Intelligence score of at least 11 to select this talent.
 
 **Recall Training (Ex)**: By calling on the memories of previous incarnations, a samsaran slayer can use martial techniques that transcend his usual capabilities. Once per day, the slayer can take a move action to gain the benefit of a combat feat he doesn't have. This effect lasts for 1 minute per slayer level he has. The slayer must meet all the feat's prerequisites.
+
+## Additional Advanced Slayer Talents
+
+The following advanced talents are available for slayers.
+
+**Armored Marauder (Ex)**: Some elite slayers exchange leather and chain for plate when stalking prey. A slayer with this talent gains proficiency with heavy armor. In addition, the armor check penalty of any heavy armor the slayer wears is reduced by 1 for every 6 class levels he has.
+
+**Armored Swiftness (Ex)**: In time, the heaviest armor can become like a second skin. A slayer with this talent can move at full speed in heavy armor. In addition, the maximum Dexterity bonus of heavy armor the slayer wears increases by 1 for every 6 class levels he has. A slayer must have the armored marauder slayer talent to select this talent.
+
+**Marksman's Shot (Ex)**: Those who seek to slay with a single shot must have keen eyes and perfect poise. As an attack action, the slayer makes a single ranged attack at his highest attack bonus with a ranged weapon he wields. The target of the attack must be the slayer's studied target. On a successful hit, the slayer doubles the number of sneak attack dice applied to the attack; if the attack was not a sneak attack, this benefit does not apply.
+
+**Reaping Stalker (Ex)**: Some slayers prefer weapons with grim symbolism of lives cut short and can wield such weapons with unparalleled lethality. A slayer with this talent treats any sickle or scythe he wields as though it were one size larger for the purpose of determining its damage dice. In addition, the slayer increases the critical threat range of any sickle or scythe he wields by 1; this does not stack with other effects that alter a weapon's threat range.
+
+**Swallow Reversal (Ex)**: This technique, a creation of a legendary duelist, mimics the movement of a bird in flight to pierce an opponent's defenses. As an attack action, the slayer can make a single melee attack against his studied target at his highest base attack bonus. When attempting a swallow reversal, the slayer rolls two attack rolls and uses the highest result. If the attack is a critical threat, the slayer attempts to confirm the critical hit as normal. The slayer can use swallow reversal at will, but it can only be used against a given target once per day.

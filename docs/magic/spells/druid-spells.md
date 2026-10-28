@@ -566,6 +566,7 @@
 - **[Death Clutch](death-clutch.md)**: Rip out someone’s heart.
 - **[Elemental Swarm](elemental-swarm.md)**: Summons multiple elementals.
 - **[Entice Fey, Greater](entice-fey-greater.md)**: Entice service from a fey of 18 Hit Dice or fewer.
+- **[Eternal Grove](eternal-grove.md)**: Permanently turn creatures into living trees.
 - **[Foresight](foresight.md)**: “Sixth sense” warns of impending danger.
 - **[Regenerate](regenerate.md)**: Subject’s severed limbs grow back, cures 4d8 damage +1/level (max +35).
 - **[Sea of Dust](sea-of-dust.md)**: Permanently drive water out of a region to create a desert.

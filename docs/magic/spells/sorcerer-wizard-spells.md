@@ -1524,6 +1524,7 @@
 - **[Polymorph Any Object](polymorph-any-object.md)**: Changes a subject into anything else.
 - **[Temporal Stasis](temporal-stasis.md)**: Puts subject into suspended animation.
 - **[Umbral Infusion, Mass](umbral-infusion-mass.md)**: umbral infusion on multiple mindless undead
+- **[Uncanny Reminder](uncanny-reminder.md)**: Conjure a living memory that attacks and unsettles the target.
 - **[Wandering Weather](wandering-weather.md)**: Control weather in a large area that moves with you.
 
 ## 9th-Level Sorcerer/Wizard Spells

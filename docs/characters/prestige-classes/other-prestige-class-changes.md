@@ -160,6 +160,8 @@
 
 ## Esoteric Knight
 
+See the [Esoteric Knight](esoteric-knight.md) class.
+
 - BAB requirement drops to 3, and instead of advancing spells every other level, it advances at every level except the first, like the Eldritch Knight.
 
 ## Exalted / Sentinel / Evangelist

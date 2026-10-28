@@ -66,6 +66,8 @@ The prestige classes presented in this chapter are summarized below.
 
 **[Envoy of Balance](envoy-of-balance.md)**: Arbiters of universal balance who counter alignment-based magic, banish extremism, and can slay or revive by the scales of alignment.
 
+**[Esoteric Knight](esoteric-knight.md)**: A warrior who learns occult secrets and deadly fighting moves, blending martial prowess with psychic power.
+
 **[Evangelist](evangelist.md)**: A devout follower of any background who gains boons, languages, and versatility from her deity.
 
 **[Exalted](exalted.md)**: A divine spellcaster who embodies her faith and inspires others, culminating in miraculous power.
@@ -125,6 +127,8 @@ The prestige classes presented in this chapter are summarized below.
 **[Rage Prophet](rage-prophet.md)**: A bold and barbaric champion who embraces otherworldly powers in order to perfect the art of combat.
 
 **[Riftwarden](riftwarden.md)**: A planar guardian who counters teleportation and banishes extraplanar foes.
+
+**[Ritualist](ritualist.md)**: A spellcaster who masters dangerous occult rituals, making them faster, safer and more reliable.
 
 **[Scar Soldier](scar-soldier.md)**: An elite, scarred shield-and-sword soldier whose tyrant’s disciplines and infernal gifts grow with level.
 

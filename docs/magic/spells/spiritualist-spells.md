@@ -414,6 +414,7 @@ Spiritualists gain access to the following spells. Spells without a link come fr
 - **[Treacherous Teleport](treacherous-teleport.md)**: As *teleport*, except you choose some creatures to suffer a mishap or go elsewhere.
 - **[True Seeing](true-seeing.md)**: Lets you see all things as they really are.
 - **[Umbral Strike](umbral-strike.md)**: a bolt of dark energy deals cold and negative damage and blinds
+- **[Uncanny Reminder](uncanny-reminder.md)**: Conjure a living memory that attacks and unsettles the target.
 - **[Undead Anatomy III](undead-anatomy-iii.md)**: Take the form and some of the powers of a Diminutive or Huge undead.
 - **[Undeath to Death](undeath-to-death.md)**: Destroys 1d4/level HD of undead (max. 20d4).
 - **[Unshakable Zeal](unshakable-zeal.md)**: Grant benefits on future attempts after failed checks, and protect against fear and emotion effects.
