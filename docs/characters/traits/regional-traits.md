@@ -91,3 +91,11 @@ Potions and poisons are common everywhere, but in some regions they are more com
 **Technological Brewmaster** *(lands of strange technology)*: You have learned the secret of creating potions using advanced scientific techniques so strange that some might consider them alien. When brewing a potion, you can increase its base creation cost by 10% to brew it in half the normal amount of time. This trait does not grant the ability to brew potions.
 
 **Weed Resistance** *(verdant forests)*: You have learned how to keep your flesh out of the way of the toxic thorns and vines that are often prevalent in verdant lands. You gain a +3 trait bonus on saving throws against poison and disease abilities and effects inflicted by creatures of the plant type (such as a basidirond's spores).
+
+**Expert Smuggler** *(city of half-elven exiles)*: Years of smuggling and other unsavory work have trained you to hide your assets even when being actively searched. Other creatures never gain the +4 bonus on their Perception checks (opposed by your Sleight of Hand check) while frisking you.
+
+**Open-Minded Explorer** *(half-orc haven town)*: You grew up constantly interacting with people who speak unfamiliar languages and have diverse customs; your manners may not be polished, but your acceptance of others is genuine. You gain a +1 trait bonus on Diplomacy checks. This bonus increases to +2 when you're speaking the racial or ethnic language of the target creature.
+
+**Spell Duel Prodigy** *(city of half-elven exiles)*: You've participated in many spell duels during your time at the local academy, and you've developed a keen talent for identifying magical arts. You gain a +2 trait bonus on Spellcraft checks to identify a spell as it is being cast and on dispel checks to counterspell a spell.
+
+**Whole-Hearted** *(half-orc haven town)*: Though most outsiders expect your mind to be conflicted, full of self-doubt, and mired in resentment and suspicion, you're truly comfortable in your skin. You gain a +2 trait bonus on saving throws against charms and compulsions.

@@ -132,6 +132,10 @@ Only half-elfs may select one of these traits.
 
 **Failed Apprentice**: As a child, your parents sent you to a distant wizard’s tower as an apprentice so that you might learn the arcane arts. Unfortunately, you had no arcane talent whatsoever, though you did learn a great deal about the workings of spells and how to resist them. You gain a +1 trait bonus on saves against arcane spells.
 
+**Trade Talk** (raised in human society): You picked up not only the basics of your human parent's profession, but also the lingo typical of the craft. Choose a Craft or Profession skill. You gain a +1 trait bonus on checks with the chosen skill, and a +1 trait bonus on Bluff and Sense Motive checks when dealing with people in the context of that craft or profession.
+
+**Elven Serenity** (raised in elven society): You embody the peace of the elven way of life, and apply this philosophy in your interactions with others. You gain a +2 trait bonus on Diplomacy and Handle Animal checks to calm other creatures. You need not speak the same language to attempt a Diplomacy check in this manner.
+
 ## Half-Orc Traits
 
 Only half-orcs may select one of these traits.
@@ -143,6 +147,10 @@ Only half-orcs may select one of these traits.
 **Lasting Ferociousness**: Increase the number of rounds you can act as disabled from your orc ferocity racial trait to 2 rounds.
 
 **Outcast**: Driven from town after town because of your heritage, you have become adept at living apart from others. You gain a +1 trait bonus on Survival skill checks, and Survival is always a class skill for you.
+
+**Iron Control** (raised in human society): You learned the hard way that expressing the rage you inherited from your orc blood exacerbates humans' fearful and hostile reactions to you; after years of effort, you've mastered self-control and buried your anger deep. Whenever you're confused and roll to determine behavior in a given round, subtract 10 from the result.
+
+**Finish the Fight** (raised in orc society): You're at the bottom of the pecking order, so when you challenge that order, your victory must be absolute. You gain a +1 trait bonus on attack rolls against opponents you already injured in the past 24 hours.
 
 ## Halfling Traits
 
@@ -368,6 +376,8 @@ Only ratfolk may select one of these traits.
 
 **Wary**: You grew up around people who were jealous and hostile toward you. Perhaps your parents were not pleased to have a child touched by the divine—they may have berated or beaten you, or even sold you into slavery for an exorbitant price. You grew up mistrustful of others and believing your unique appearance to be a curse. You gain a +1 trait bonus on Disguise and Sense Motive checks.
 
+**Martyr's Blood**: You carry the blood of a self-sacrificing celestial, and strive to live up to your potential for heroism. As long as your current hit point total is less than half of your maximum hit points possible, you gain a +1 trait bonus on attack rolls against evil foes.
+
 ## Tiefling Traits
 
 Only tieflings may select one of these traits.
@@ -410,6 +420,8 @@ Only tieflings may select one of these traits.
 
 **Underling**: People tend to assume you either are, or are willing to become, a minor cog in some evil cabal or conspiracy. You gain a +2 trait bonus on Bluff and Diplomacy checks made to either join or imply that you already belong to an evil organization.
 
+**Tempter's Tongue**: The blood of crafty, bargain-making fiends runs in your veins, and you have a talent for brokering deals of your own. You gain a +1 trait bonus on Diplomacy checks and on opposed Charisma checks to influence creatures you have charmed (such as with *charm person*).
+
 ## Ifrit Traits
 
 Only ifrits may select one of these traits.
@@ -417,6 +429,8 @@ Only ifrits may select one of these traits.
 **Expert Distractor**: Whenever you damage an opponent that is casting a spell with a melee attack that deals fire damage (such as a *flaming* weapon or a torch), the DC of the concentration check for your opponent to cast the spell is equal to 10 + the non-fire damage dealt + double the fire damage dealt + the spell's level (instead of just 10 + the damage dealt + the spell's level).
 
 **Unflappable Arrogance**: You laugh in the face of your aggressors. The DC to demoralize you with the Intimidate skill increases by 5. If an opponent's Intimidate check would be high enough to cause you to become demoralized for more than 1 round, you are instead demoralized for only 1 round.
+
+**Fiery Glare**: You can use your unearthly nature to frighten others. You can always take 10 on Intimidate checks, even in combat.
 
 ## Oread Traits
 
@@ -426,6 +440,8 @@ Only oreads may select one of these traits.
 
 **Statuesque**: You inherited the statuesque physical features of your genie ancestor. Disguise becomes a class skill for you, and you gain a +2 trait bonus on Disguise checks to disguise yourself as a statue made of a specific type of stone, such as marble, sandstone, or alabaster. Furthermore, you take none of the penalties normally associated with disguising yourself as a different type of creature. You must choose the type of stone you resemble when you take this trait; once chosen, it cannot be changed.
 
+**Stoic Dignity**: You are an unmoving rock for those who see you as an authority figure. As long as you are conscious, you and all allies within 10 feet gain a +1 bonus on saving throws against mind-affecting effects you are not already suffering from. This is a trait bonus for you and a morale bonus for your allies.
+
 ## Suli Traits
 
 Only sulis may select one of these traits.
@@ -433,6 +449,8 @@ Only sulis may select one of these traits.
 **Dualborn**: You were not born of a janni—your non-human heritage can instead be traced back to some dualistic power between elemental realms. Choose two energy types other than sonic (acid, cold, electricity, or fire). Once made, this choice cannot be changed. You gain racial energy resistance only to the energy types you choose, and not to others. When using your elemental assault ability, you can only sheath your arms in the energy types selected, but you can choose to sheath your primary hand with one of the selected energy types and your off-hand with the other. Attacks made with each hand (or a weapon held in each hand) deal bonus energy damage of the selected type. While wielding a two-handed weapon, half of the bonus energy damage is one energy type and half is the other.
 
 **Instant Friendship**: You inherited your janni parent's knack for reversing a tense situation. Once per day, you can treat an Intimidate roll to improve a creature's attitude toward you as if you had used Diplomacy instead. You must use this ability after making the check but before the GM has revealed the result. If you continue threatening the target after making the check, the check automatically fails.
+
+**Practiced Impression**: You traveled constantly in your youth, and were forced to practice making a good first impression until you could do so effortlessly. You gain a +2 trait bonus on Diplomacy checks made against NPCs whom you have known for less than 1 hour.
 
 ## Sylph Traits
 
@@ -442,6 +460,8 @@ Only sylphs may select one of these traits.
 
 **Wind-Carried Voices**: You are a master of seeing through falsehoods and sharing secrets—the wind itself seems to carry your voice to those you trust. You gain a +1 trait bonus on Sense Motive checks to tell when someone is lying to you. Additionally, at will, as long as you are outdoors or in an area where there is noticeable air movement, you can whisper to any creature from up to 30 feet away. You can only designate one person in sight to hear your voice, and nearby creatures can hear these messages with a successful DC 20 Perception check. This is an extraordinary ability that otherwise functions as *message*.
 
+**Aerial Observer**: You are practiced at noticing details from high up. You gain a +2 trait bonus on Perception checks while you are at least 30 feet above ground level.
+
 ## Undine Traits
 
 Only undines may select one of these traits.
@@ -449,6 +469,8 @@ Only undines may select one of these traits.
 **Marid's Fury**: Your marid ancestry is particularly strong, and magic runs thick through your veins. When you use your hydraulic push spell-like ability, it can extinguish magical fires as well as nonmagical fires as long as you succeed at an opposed caster level check (the DC is equal to 11 + the magical fire's caster level).
 
 **Whiteout**: When the air is full of water, your elemental blood allows you to blend with your surroundings and become one with the precipitation. In areas of nonmagical fog, rain, snow, or similar conditions (such as the spray of a waterfall), you gain the effects of concealment, but with a miss chance of 10%. If the precipitation would already grant you concealment, the miss chances stack.
+
+**Undine Loyalty**: You learned early on that teamwork can help keep you safe from troublemakers. Choose one teamwork feat that requires an ally with the same feat to be adjacent to you. You may benefit from that teamwork feat as long as you have an ally within 10 feet of you (though your ally does not benefit from the teamwork feat unless it also has this trait or a similar ability).
 
 ## Vampire Traits
 
@@ -493,6 +515,8 @@ Only dhampirs can select these traits. Traits marked with a heritage are intende
 **Thrall Spotter** *(nosferatu-born)*: Your heritage gives you an understanding of the powers of domination. You gain a +5 trait bonus on Sense Motive checks made to determine whether a creature is acting under the effects of a charm or compulsion.
 
 **Unidentifiable Appeal** *(vetala-born)*: The unnatural symmetry of your face gives you an attractiveness that is at once captivating but hard to quantify. You gain a +1 trait bonus on Disguise checks and a +1 trait bonus on Diplomacy checks made to influence those who would be attracted to you.
+
+**Undead Slayer (Dhampir)**: Filled with wrath against the monsters whose unclean blood makes you an outcast, you gain a +1 trait bonus on attack and damage rolls against undead creatures.
 
 ## Skinwalker Traits
 
@@ -550,6 +574,8 @@ Only skinwalkers may select the traits in this section (the heritage sections ar
 
 **Shared Curse**: A portion of your ancestor's fell curse still courses through your blood. Once per day as a standard action, you can share a portion of your accursed heritage with a willing ally by dealing 1 point of damage to that ally with a natural weapon. The ally gains a natural bite attack, as if from your skinwalker ability, for 2 rounds.
 
+**Curse in the Blood**: You gain a +1 trait bonus on saving throws against curses. You treat your caster level as 1 higher when casting spells and spell-like abilities with the curse descriptor.
+
 ## Changeling Traits
 
 Only changelings can select these traits.
@@ -557,6 +583,8 @@ Only changelings can select these traits.
 **Bitter Heart**: You share a sliver of your mother's supernatural hatred, gaining a +2 trait bonus to confirm critical hits.
 
 **Magic in the Blood**: You possess natural magical ability. Select one of the following spells: *bleed*, *create water*, *dancing lights*, *detect good*, *ghost sound*, or *putrefy food and drink*. You can cast this spell three times per day as a spell-like ability.
+
+**Creative Manipulator**: Once per day, you may reroll a Charisma check you just made. You must take the result of the second roll, even if it is worse.
 
 ## Drow Traits
 
@@ -573,3 +601,11 @@ Only fetchlings can select these traits.
 **Shadow Stalker**: You are dedicated to mastering the art of hiding in the shadows. Increase the miss chance gained from your shadow blending ability by 5%.
 
 **Weathered**: Because of your natural resistances, you gain a +2 trait bonus on saves to resist cold or electricity effects and hazards.
+
+**Adaptable Flatterer**: A life spent avoiding racial mistrust has taught you to humor others effectively when it is useful to do so. You gain a +1 trait bonus on Bluff checks and on attack rolls against opponents who are denied their Dexterity bonus to AC against you.
+
+## Gillman Traits
+
+Only gillmen may select these traits.
+
+**Ancient Inheritor (Gillman)**: You have prominent features of an ancient empire, which you can use to inspire confidence in your allies. Whenever you use the aid another action to aid an adjacent ally, increase the bonus you grant your ally by 1. This is a trait bonus.

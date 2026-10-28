@@ -70,6 +70,20 @@ The following racial traits might be selected instead of existing racial traits.
 
 **Skilled**: Second- and third-generation half-orcs often favor their human heritage more than their orc heritage. Half-orcs with this trait gain 1 additional skill rank per level. This racial trait replaces darkvision.
 
+### Heritage Alternate Racial Traits
+
+Half-orcs descended from particular kinds of orcs may select the following racial traits instead of standard half-orc racial traits.
+
+**Burning Assurance** (desert orc heritage): You lack the chip on the shoulder that many half-orcs acquire as a result of prejudice, and your self-confidence puts others at ease. You gain a +2 racial bonus on Diplomacy checks. This racial trait replaces the intimidating racial trait.
+
+**Cliffside Charger** (mountain orc heritage): You are accustomed to traveling in steep terrain. When in mountain terrain, you can move through natural difficult terrain at your normal speed; magically altered terrain affects you normally. In addition, you gain a +10-foot racial bonus to your speed while charging. This racial trait replaces the orc ferocity and weapon familiarity racial traits.
+
+**Evader** (underground orc heritage): Having lived all your life at the mercy of savage underworld creatures, you have an uncanny knack for finding your way about silently in the dark. While underground, you gain a +5 racial bonus on Survival checks to avoid becoming lost, and a +1 racial bonus on Stealth checks. This racial trait replaces the intimidating racial trait.
+
+**Unflinching Valor** (arctic orc heritage): Many fearsome arctic predators consider young half-orcs easy prey, but you managed to surpass your fear and fight off such beasts. You gain a +2 racial bonus on saving throws against fear effects, and a +1 racial bonus to CMD to avoid being grappled. This racial trait replaces the intimidating racial trait.
+
+**Warded Skin** (jungle orc heritage): Elaborate tattoos protect you from the power of demon worshipers by redirecting demonic magic. You gain spell resistance against divine magic equal to 6 + your level. Additionally, divine spells cast on you by demon worshipers have a 10% chance of failure. This racial trait replaces the orc ferocity racial trait.
+
 ### Urban Alternate Racial Traits
 
 **Tenacious**: City-dwelling half-orcs must often be tenacious to get by. Once per day if a half-orc fails a Fortitude save, Will save, or Constitution check, he can reroll the save or check. The half-orc must take the second result, even if it is worse. This racial trait replaces orc ferocity.

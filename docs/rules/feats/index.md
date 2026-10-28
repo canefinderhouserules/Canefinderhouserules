@@ -1577,6 +1577,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Bestow Hope](bestow-hope.md) | — | Improved Channel, channel energy class feature, worshiper of a deity of healing and redemption |
 | [Betrayal Sense](betrayal-sense.md) | Combat | Wis 13, rogue level 3rd, trap sense class feature |
 | [Betrayed](betrayed.md) | Story | You have had a valuable item (worth at least 1,000 gp per character level) stolen by a former ally, or have been left for dead by a former ally. |
+| [Betraying Blow](betraying-blow.md) | Combat | Solo Maneuvers, base attack bonus +8 |
 | [Bewildering Koan](bewildering-koan.md) | General | Bluff 1 rank, ki pool class feature, gnome |
 | [Bilge Rat](bilge-rat.md) | — | — |
 | [Biological Lattice](biological-lattice.md) | General | Gathlain, racial fly speed |
@@ -1630,6 +1631,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Butterfly's Sting](butterflys-sting.md) | Critical | Combat Expertise |
 | [Call Truce](call-truce.md) | — | Cha 15, Persuasive, Diplomacy 5 ranks |
 | [Cannon Master](cannon-master.md) | Combat | Siege Engineer, Knowledge (engineering) or Profession (siege engineer) 7 ranks, proficiency with at least one firearm siege engine |
+| [Canticle of Agony](canticle-of-agony.md) | Masterpiece, Sing | Perform (sing) 7 ranks |
 | [Careful Flyer](careful-flyer.md) | — | Acrobatic, Fly 5 ranks |
 | [Careful Reader](careful-reader.md) | — | Linguistics 3 ranks, Spellcraft 3 ranks |
 | [Careful Sneak](careful-sneak.md) | — | Dex 13, Stealth 3 ranks |
@@ -1796,6 +1798,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Dirty Disarm](dirty-disarm.md) | Combat | Int 13, Combat Expertise, Improved Dirty Trick, Improved Disarm, base attack bonus +6 |
 | [Dirty Fighting](dirty-fighting.md) | Combat | — |
 | [Dirty Grapple](dirty-grapple.md) | Combat | Dex 13, Int 13, Combat Expertise, Improved Dirty Trick, Improved Grapple, Improved Unarmed Strike, base attack bonus +6 |
+| [Dirty Trick Master](dirty-trick-master.md) | Combat | Greater Dirty Trick, Improved Dirty Trick, base attack bonus +11 |
 | [Disarm Partner](disarm-partner.md) | Combat, Teamwork | Base attack bonus +1 |
 | [Disciple of the Blade](disciple-of-the-blade.md) | — | Weapon Focus (deity’s favored weapon), cleric or inquisitor level 4th, worshiper of a deity |
 | [Disconcerting Stare](disconcerting-stare.md) | Combat, Stare | Mesmerist level 5th, painful stare class feature |
@@ -1807,6 +1810,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Diva Advance](diva-advance.md) | Combat | Cha 17, Combat Expertise, Diva Strike, Diva Style, Improved Feint, base attack bonus +11 or bard level 11th |
 | [Diva Strike](diva-strike.md) | Combat | Cha 15, Combat Expertise, Diva Style, Improved Feint, base attack bonus +7 or bard level 7th |
 | [Diva Style](diva-style.md) | Combat, Style | Cha 13, base attack bonus +1 or bard level 1st |
+| [Divert Harm](divert-harm.md) | Combat | Int 13, Combat Expertise, base attack bonus +6, evasion class feature |
 | [Divination Guide](divination-guide.md) | — | Caster level 3rd, ability to cast *augury* or *divination*, must worship a deity |
 | [Divine Barrier](divine-barrier.md) | — | Channel energy class feature, worshiper of a deity of dragons |
 | [Divine Communion](divine-communion.md) | — | Wisdom 13, alignment must match that of your worshiped deity |
@@ -2499,6 +2503,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Snoutgrip](snoutgrip.md) | Combat | Combat Expertise, Combat Reflexes, Improved Grapple, Improved Unarmed Strike, base attack bonus +12 or 10th-level monk |
 | [Social Bravery](social-bravery.md) | Combat | Cha 13, bravery class feature |
 | [Solid Shadows](solid-shadows.md) | Metamagic | Spell Focus (illusion) |
+| [Solo Maneuvers](solo-maneuvers.md) | Combat | — |
 | [Sonic Croak](sonic-croak.md) | — | [Throat Pouch](throat-pouch.md), boggard, terrifying croak |
 | [Soulblade](soulblade.md) | Combat | Knowledge (religion) 1 rank, Perception 1 rank |
 | [Soulless Gaze](soulless-gaze.md) | Damnation | Patronage of an evil outsider |

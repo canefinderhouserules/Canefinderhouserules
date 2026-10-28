@@ -24,6 +24,8 @@ There are 40 basic traits, split evenly among four categories. Combat traits foc
 
 **Resilient**: Growing up in a poor neighborhood or in the unforgiving wilds often forced you to subsist on food and water from doubtful sources. You’ve built up your mettle as a result, and gain a +1 trait bonus on Fortitude saves.
 
+**Improvised Defense**: You're never defenseless, even when you are caught off guard. Whenever you wield an improvised weapon, you gain a +1 shield bonus to AC. If you use the improvised weapon to attack, you lose this shield bonus until the beginning of your next turn.
+
 ## Faith Traits
 
 **Birthmark**: You were born with a strange birthmark that looks very similar to the holy symbol of the god you chose to worship later in life. This birthmark can serve you as a divine focus for casting spells, and as a physical manifestation of your faith, it increases your devotion to your god—you gain a +2 trait bonus on all saving throws against charm and compulsion effects as a result.
@@ -66,6 +68,8 @@ There are 40 basic traits, split evenly among four categories. Combat traits foc
 
 **Skeptic**: Growing up, you were always around magical effects to the extent that you realized much of it was mere smoke and mirrors. You gain a +2 trait bonus on all saving throws against illusions.
 
+**Overwhelming Beauty**: Your wiles are particularly potent against people who share a race with you, as your beauty is often held up as a symbol of perfection. The DC of your mind-affecting effects increases by 1 against creatures that have at least one of the same subtypes as you.
+
 ## Social Traits
 
 **Adopted**: You were adopted and raised by someone not of your actual race, and raised in a society not your own. As a result, you picked up a race trait from your adoptive parents and society, and may immediately select a race trait from your adoptive parents’ race.
@@ -87,3 +91,19 @@ There are 40 basic traits, split evenly among four categories. Combat traits foc
 **Rich Parents**: You were born into a rich family, perhaps even the nobility, and even though you turned to a life of adventure anyway, you enjoy a one-time benefit to your initial finances—your starting cash increases to 900 gp.
 
 **Suspicious**: You discovered at an early age that someone you trusted, perhaps an older sibling or a parent, had lied to you, and lied often, about something you had taken for granted, leaving you quick to question the claims of others. You gain a +1 trait bonus on Sense Motive checks, and Sense Motive is always a class skill for you.
+
+**Chip on the Shoulder**: When someone pushes you, you push back. Whenever a creature fails an Intimidate check against you, you gain a +2 trait bonus on your next Intimidate check against that creature. Intimidate becomes a class skill for you.
+
+**Cynical Ear**: Neither honeyed tongues nor righteous wrath move you much. Add 2 when determining your Hit Dice for Intimidate checks, and increase the DC of all Diplomacy checks against you by 2.
+
+**Doublespeak**: It isn't what you say, it's how you say it. You gain a +2 trait bonus on Bluff checks to pass along secret messages.
+
+**Friends in Low Places**: Outcasts know their own, and that knowledge opens doors and loosens tongues. Gathering information in lower quarters, such as vice dens and poorer districts, takes you 1d2 hours (instead of 1d4 hours). In addition, the attitudes of any destitute or impoverished NPCs you interact with begin one step closer to helpful.
+
+**Heart of Two Worlds**: Born into a world split in twain, you are particularly skilled at understanding and empathizing with those around you. You gain a +2 trait bonus on Diplomacy and Sense Motive checks involving creatures that belong to the same race (or, if human, ethnicity) as your mother or father.
+
+**Marked by Unknown Forces**: That which has marked you for power has also given you proof to show others. You may cast *light* three times per day as a spell-like ability, but this ability only targets the palm of your hand, and it manifests as a glowing sigil representing your ominous birth: a holy or unholy symbol, a demonic symbol, or perhaps some other distinctive marking established by you and your GM. Those who recognize this symbol have a starting attitude toward you one step closer to friendly (if they are followers of or scholars studying the sign) or one step closer to hostile (if they are opposed to the sign or its followers).
+
+**Rest for the Wicked**: Often forced to go without food or stimulation for days at a time, you have learned to use prolonged sleep as a means of escape and a way to heal your wounds. You heal temporary ability damage at a rate of 3 points per day of complete bed rest. A normal night of rest (8 hours) still heals you at a rate of only 1 point of temporary ability damage per night of rest.
+
+**Signature Moves**: You're known for some unique item that has become your trademark. Your starting equipment includes a single masterwork item worth less than 900 gp, and you gain a +1 trait bonus on Bluff and Intimidate checks while wielding this item in one or both hands.

@@ -5152,3 +5152,29 @@ Kobold archmages who follow the tradition of a famously paranoid kobold spellcas
 Each spell inscribed in this book becomes a *greater glyph of warding* (DC 19, spell glyph) containing the spell recorded. When an unauthorized person reads a spell, the glyph triggers against him. This destroys the pages on which the spell is written, but leaves the rest of the book unharmed. Pages containing harmless spells or spells that can't be attached to a glyph are unaffected.
 
 **Construction Requirements:** Craft Wondrous Item, *erase*, *greater glyph of warding*, creator must be a kobold; **Cost** 4,000 gp
+
+## Half-Breed Items
+
+### Ring of Culturemeld
+
+**Slot** ring; **CL** 7th; **Price** 7,800 gp; **Weight** —
+
+**Aura** moderate enchantment
+
+This ornately carved ironwood ring is sometimes gifted to half-elves leaving their elven communities so as to ease transition into human culture. A *ring of culturemeld* slightly alters the wearer's words to be more appropriate to the listener's culture and expectations, granting the wearer a +5 competence bonus on language-based Diplomacy checks.
+
+If worn by a half-elf, a *ring of culturemeld* grants the wearer the ability to speak and understand an additional language dependent on the local area. If the wearer spends 1 day in a settlement the size of a village or larger, the ring becomes attuned to any dominant language spoken there other than Common. After the ring is attuned, the wearer gains that language as a bonus language (if she didn't already know it), though she can only speak and understand it. After 4 more days of attunement, the wearer gains the ability to read the language as well, though not the ability to write that language, and gains a +5 competence bonus on opposed Sense Motive checks against speakers of the attuned language. These benefits expire once the wearer has been out of contact with people who speak the attuned language for longer than 1 day or when the ring becomes attuned to a new language.
+
+**Construction Requirements:** Forge Ring, *comprehend languages*; **Cost** 3,900 gp
+
+### Kin's Face Tattoo
+
+**Slot** none; **CL** 5th; **Price** 1,600 gp; **Weight** —
+
+**Aura** faint illusion
+
+This intricate tattoo covers the bearer's face in thousands of hair-fine lines of ink and carefully incised scars, and even extends to etchings upon the bearer's tusks, together giving the effect of a topographic map of the bearer's face. The bearer can activate the tattoo to cause the marked design to shift and the scars to open and pull the bearer's face into a different shape. The bearer then gains the benefits of *disguise self*, save that the bearer can take only the form of a specific half-orc, human, or orc, and the disguise lasts up to 5 hours per day. This duration need not be continuous, but it must be used in 1-hour increments.
+
+The material components for the *kin's face tattoo* include rare pigments that are mixed with the bearer's blood, then worked into the bearer's skin. To remove this tattoo, the tattooed portions must be erased and the scars healed.
+
+**Construction Requirements:** Inscribe Magical Tattoo, *disguise self*; **Cost** 800 gp

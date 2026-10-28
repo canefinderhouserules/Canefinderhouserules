@@ -2265,3 +2265,21 @@ This appears to be a normal disguise kit, except that if any of the makeup or fa
 **Price** 40 gp; **Weight** 1 lb.; **Perception** DC 20; **Disable Device** DC 20; **Trigger** touch; **Reset** none
 
 This seemingly innocuous scroll case contains a glass pellet filled with gaseous poison (Ungol dust). The pellet breaks when the case is opened, filling a 5-foot square with toxic gas. This poisonous cloud disperses after 1 round.
+
+## Performers' Drugs
+
+### Honeydew Powder
+
+**Type** inhaled; **Addiction** minor, Fortitude DC 13; **Price** 20 gp
+
+This sparkling, honeydew-colored inhalant gives the user a euphoric sensation that can quickly become overwhelming and even sickening. While the long-term effects are relatively minor, few except the hardy care to risk stomaching this toxin.
+
+**Effect** 1 hour; +1d2 alchemical bonus to Charisma, –2 penalty on saves against illusions. **Effect after 1 hour**: 75% chance to become sickened for 1d4 hours. **Damage** 1d2 Wis damage.
+
+### Silvertongue
+
+**Type** ingested; **Addiction** moderate, Fortitude DC 16; **Price** 75 gp
+
+This potent performance enhancer is a sweet alchemical elixir with a metallic aftertaste. A single dose loosens the lips and sharpens the wit. More than one begins to mark the user, and frequent use causes the imbiber's gums and tongue to take on a silvery sheen that advertises her habit.
+
+**Effect** 1 hour; +1d2 alchemical bonus to Charisma. **Effect** 1d4 hours; +2 alchemical bonus on saves against mind-affecting effects. **Damage** 1d4 Con damage.

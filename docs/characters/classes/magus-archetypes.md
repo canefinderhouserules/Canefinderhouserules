@@ -614,3 +614,15 @@ At 1st level, a golem-arm artificer can use his arcane pool to enhance his unarm
 *Sharpened Arm (Ex)*: A golem-arm artificer can rework his arm to more closely resemble a blade. He can choose to deal piercing or slashing damage with his golem arm. When he does so, the golem arm threatens a critical hit on 19–20. The artificer also adds keen and wounding to his list of arcane pool weapon abilities.
 
 *Shielding Arm (Ex)*: A golem-arm artificer learns to deflect blows with his arm. If he is not wielding any other weapons, he gains a shield bonus to his AC equal to his golem arm's enhancement bonus.
+
+## Backstreet Slayer
+
+The blending of martial prowess with elven magic has long been a staple of academies that train spellswords in half-elven cities. More than a few who study at such schools follow this path because of the promises of wealth that the local criminal element makes toward practiced brawlers and smugglers. Backstreet slayers have the following class features.
+
+**Arcane Pool**: At 1st level, a backstreet slayer can expend 1 point from his arcane pool as a swift action to add 1d6 points of sneak attack damage to his next melee attack that round. The attack must meet all of the usual prerequisites for making a sneak attack, as the rogue class feature. For every 4 levels beyond 1st, the amount of sneak attack damage dealt by this ability increases by 1d6 (to a maximum of 5d6 at 17th level). If a backstreet slayer gets a sneak attack from another source, the bonuses on damage stack. A backstreet slayer cannot use his arcane pool to enhance his weapon. This modifies the arcane pool ability.
+
+**Evasion (Ex)**: At 7th level, the backstreet slayer gains evasion, as the rogue class feature. This replaces the medium armor ability.
+
+**Improved Evasion (Ex)**: At 13th level, the backstreet slayer gains improved evasion, as the advanced rogue talent of the same name. This replaces the heavy armor ability.
+
+**Magus Arcana**: The following magus arcana complement the backstreet slayer archetype: close range, hasted assault, maneuver mastery, pool strike, and silent magic.

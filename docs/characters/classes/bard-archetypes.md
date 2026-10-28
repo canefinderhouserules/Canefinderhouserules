@@ -1909,3 +1909,15 @@ Dragon heralds are messengers and evangelists of true dragonkind. They carry the
 **Master of Persuasion (Ex)**: At 5th level, the dragon herald becomes so sure in her craft that she can take 10 on any Diplomacy or Intimidate check, even when rushed or threatened. Once per day, she may attempt either a Diplomacy or Intimidate check as a full-round action, instead of spending a full minute. She can use this ability one additional time per day at 11th and 17th level. This ability replaces lore master.
 
 **Extol Glory (Su)**: At 10th level, the dragon herald gains the ability to spread her patron's glory to all intelligent creatures. When she speaks Draconic, any intelligent creature that hears her and knows any language can understand her words. This ability does not allow the dragon herald to understand languages with which she is not familiar. This ability replaces jack-of-all-trades.
+
+## Unity Arbiter
+
+Some bards make it their mission to unify their fellow outcasts, and are equally skilled at helping allies defeat common enemies and at building a new civilization that reflects their unique identity.
+
+**Bardic Performance**: A unity arbiter gains the following types of bardic performance.
+
+*Inspire Teamwork (Ex)*: A 3rd-level unity arbiter can use his performance to treat his allies as if they possessed the same teamwork feats as the bard for the purpose of determining whether the bard receives a bonus from his teamwork feats. His allies do not receive any bonuses from these feats unless they actually possess the feats themselves. The allies' positioning and actions must still meet the prerequisites listed in the teamwork feat for the bard to receive the listed bonus. This performance replaces inspire competence.
+
+*Ritual of Reconciliation (Su)*: A unity arbiter of 8th level or higher can use his performance to improve the attitudes of nearby creatures by two steps. To be affected, a creature must be within 30 feet and able to hear the bard. Creatures whose attitude toward the bard becomes indifferent or better immediately cease attacking the bard and his allies, but may otherwise act as they please. The effect persists for as long as the creature is within 30 feet and the bard continues his performance. The effect ends if one of the bard's allies attacks the creature. A successful Will saving throw (DC 10 + 1/2 the bard's level + the bard's Charisma modifier) negates the effect. Ritual of reconciliation relies on audible components. This performance replaces dirge of doom.
+
+**Versatile Teamwork (Ex)**: At 2nd level, a unity arbiter gains a bonus teamwork feat. He gains an additional bonus teamwork feat at 6th level and every 4 levels thereafter. This ability replaces versatile performance and well-versed.

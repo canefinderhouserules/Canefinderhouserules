@@ -64,6 +64,20 @@ The following racial traits might be selected instead of existing racial traits.
 
 **Wary**: Many half-elves have spent their long lives moving from place to place, often driven out by the hostility of others. Such experiences have made them wary of others’ motivations. Half-elves with this trait gain a +1 racial bonus on Sense Motive and Bluff checks. This racial trait replaces the keen senses racial trait.
 
+### Heritage Alternate Racial Traits
+
+Half-elves descended from particular kinds of elves may select the following racial traits instead of standard half-elf racial traits.
+
+**Child of the Sea** (aquatic elf heritage): You gain a +4 racial bonus on Swim checks as well as on Profession (sailor) and Wisdom checks to pilot a sea vessel. You also have an innate sense of direction and can never get lost at sea. This racial trait replaces the low-light vision and keen senses racial traits.
+
+**Cold-Honed** (snow elf heritage): You can move through natural snow and ice at your normal speed and gain a +4 racial bonus on Fortitude saves to avoid nonlethal damage from cold environments. This racial trait replaces the elven immunities racial trait.
+
+**Jungle Affinity** (wild jungle elf heritage): You gain a +4 racial bonus on Stealth checks while within jungle terrain, and can move through natural difficult terrain at your normal speed while within jungle. This racial trait replaces the multitalented racial trait.
+
+**Arcane Envoy** (isolationist tower-elf heritage): Add +1 to the caster level of any transmutation spells you cast. If you have a Charisma score of 11 or higher, you also gain the following spell-like abilities: 1/day—*comprehend languages*, *detect secret doors*, *erase*, *read magic*. The caster level for these effects is equal to your character level. This racial trait replaces the adaptability racial trait. If you are raised by these elves, you may begin play speaking Elven and an ancient lost tongue (chosen with your GM) in place of the default half-elf languages.
+
+**Thinblood Resilience** (dark elf heritage): You are accustomed to torture at the hands of your dark elf forebears, and gain a +2 racial bonus on Fortitude saves against poison and disease, including magical diseases. You also gain the poison use ability and never risk accidentally poisoning yourself. This racial trait replaces the elven immunities racial trait.
+
 ### Urban Alternate Racial Traits
 
 **Inspire Imitation**: Whenever a half-elf succeeds at a skill check, she can inspire imitators as a swift action. Any ally within 30 feet who witnesses the successful check and attempts the same check within the next minute gains a +2 bonus on the check as if from the aid another action. This racial trait replaces skilled.
