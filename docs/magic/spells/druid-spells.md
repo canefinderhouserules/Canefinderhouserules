@@ -148,6 +148,7 @@
 - **[Fire Trap](fire-trap.md)**: Opened object deals 1d4 + 1/level damage.
 - **[Flame Blade](flame-blade.md)**: Touch attack deals 1d8 + 1/two levels damage.
 - **[Flaming Sphere](flaming-sphere.md)**: Rolling ball of fire deals 3d6 fire damage.
+- **[Flotsam Vessel](flotsam-vessel.md)**: Builds a raft from river debris that always travels downstream.
 - **[Fog Cloud](fog-cloud.md)**: Fog obscures vision.
 - **[Forest Friend](forest-friend.md)**: Plants in a forested area become helpful instead of hindering you and your allies.
 - **[Frost Fall](frost-fall.md)**: The area is covered in a chilling frost.
@@ -187,6 +188,7 @@
 - **[Resist Energy](resist-energy.md)**: Ignores 10 or more points of damage per attack from specified energy type.
 - **[Restful Cloak](restful-cloak.md)**: Turn your cloak into a healing tent.
 - **[Restoration, Lesser](restoration-lesser.md)**: Dispels magical ability penalty or repairs 1d4 ability damage.
+- **[Riversight](riversight.md)**: Scry along a river you touch.
 - **[Savage Maw](savage-maw.md)**: Your teeth extend and sharpen, transforming your mouth into a maw of razor-sharp fangs.
 - **[Scale Spikes](scale-spikes.md)**: Grow armor spikes from scales
 - **[Scamper](scamper.md)**: Grant your animal companion astonishing agility.
@@ -317,6 +319,7 @@
 - **[Absorbing Inhalation](absorbing-inhalation.md)**: You grant your lungs inhuman strength and capacity, allowing you to harmlessly and completely inhale one gas.
 - **[Aerial Tracks](aerial-tracks.md)**: Track flying creatures through the air.
 - **[Air Walk](air-walk.md)**: Subject treads on air as if solid (climb or descend at 45-degree angle).
+- **[Alter River](alter-river.md)**: Changes a river's current speed or diverts its course.
 - **[Animal Ambassador](animal-ambassador.md)**: Grant an animal messenger sentience to deliver your message.
 - **[Antiplant Shell](antiplant-shell.md)**: Keeps animated plants at bay.
 - **[Blast Barrier](blast-barrier.md)**: Unstable wall that explodes for damage.

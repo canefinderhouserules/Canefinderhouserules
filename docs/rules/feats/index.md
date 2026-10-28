@@ -1633,6 +1633,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Bushwhack](bushwhack.md) | Combat | Dex 13, Improved Grapple, Improved Unarmed Strike |
 | [But a Scratch](but-a-scratch.md) | Combat | Cha 13, Bluff 4 ranks |
 | [Butterfly's Sting](butterflys-sting.md) | Critical | Combat Expertise |
+| [Call Out](call-out.md) | Combat | — |
 | [Call Truce](call-truce.md) | — | Cha 15, Persuasive, Diplomacy 5 ranks |
 | [Cannon Master](cannon-master.md) | Combat | Siege Engineer, Knowledge (engineering) or Profession (siege engineer) 7 ranks, proficiency with at least one firearm siege engine |
 | [Canticle of Agony](canticle-of-agony.md) | Masterpiece, Sing | Perform (sing) 7 ranks |
@@ -2098,6 +2099,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Improved Lookout](improved-lookout.md) | — | Lookout |
 | [Improved Mounted Archery](improved-mounted-archery.md) | — | Mounted Archery, Mounted Combat, Ride 1 rank |
 | [Improved Outflank](improved-outflank.md) | Combat, Teamwork | Outflank, base attack bonus +6 |
+| [Improved Parry](improved-parry.md) | Combat | Int 13, Combat Expertise |
 | [Improved Plane Shift](improved-plane-shift.md) | — | Wizard level 9th |
 | [Improved Position of Strength](improved-position-of-strength.md) | Combat | Position of Strength, Two-Weapon Fighting or Multiattack, Intimidate 5 ranks |
 | [Improved Precise Strike](improved-precise-strike.md) | Combat, Teamwork | Dex 13, Precise Strike, base attack bonus +4 |
@@ -2161,6 +2163,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Lashing Tail](lashing-tail.md) | Combat | [Grasping Tail](grasping-tail.md), you must have a tail |
 | [Last Rites](last-rites.md) | Conduit | Knowledge (planes) 3 ranks, Knowledge (religion) 3 ranks |
 | [Lead from the Back](lead-from-the-back.md) | Combat | Goblin, Intimidate 1 rank |
+| [Leapfrog](leapfrog.md) | Combat, Performance | Acrobatics 3 ranks |
 | [Leaping Evasion](leaping-evasion.md) | Combat | Lightning Reflexes, evasion class feature |
 | [Legendary Influence](legendary-influence.md) | — | Lesser spirit power class feature |
 | [Legionnaire’s Inspiration](legionnaires-inspiration.md) | — | — |
@@ -2444,6 +2447,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Scouting Summons](scouting-summons.md) | Metamagic | Spell Focus (conjuration), ability to cast magic jar |
 | [Scurrying Swarmer](scurrying-swarmer.md) | Combat | Ratfolk, swarming racial trait |
 | [Scuttle](scuttle.md) | — | — |
+| [Second Wind](second-wind-feat.md) | Combat, Performance | Endurance |
 | [Secured Armor](secured-armor.md) | Armor Mastery | Base attack bonus +11 or fighter level 8th, armor training class feature, proficiency with medium or heavy armor |
 | [Seductive Channel](seductive-channel.md) | — | Channel positive energy class feature, worshiper of a deity of lust and revenge |
 | [Seeds of Doubt](seeds-of-doubt.md) | — | Hex class feature, Divine Defiance |
@@ -2631,6 +2635,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Swarm Scatter](swarm-scatter.md) | Teamwork | — |
 | [Swarm Strike](swarm-strike.md) | Teamwork | — |
 | [Swarming Underfoot](swarming-underfoot.md) | Combat | Dodge, swarming racial trait |
+| [Sweeping Dodge](sweeping-dodge.md) | Combat | Dex 13, Dodge |
 | [Sweeping Duelist](sweeping-duelist.md) | Combat | Swordlord Dueling Disciple, Weapon Finesse, Weapon Focus (dueling blade), base attack bonus +5 |
 | [Swift Iron Style](swift-iron-style.md) | Combat, Style | Str 13, Dex 13, proficiency with medium armor |
 | [Swift Refuge](swift-refuge.md) | Combat | Str 13, Dex 13, Swift Iron Style, proficiency with medium armor |

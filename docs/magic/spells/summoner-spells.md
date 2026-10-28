@@ -11,7 +11,9 @@ New summoner spells from *Ultimate Magic*. Spells from other books will be added
 - **[Celestial Healing](celestial-healing.md)**: Target gains fast healing 1.
 - **[Compel Hostility](compel-hostility.md)**: Compels opponents to attack you instead of your allies.
 - **[Corrosive Touch](corrosive-touch.md)**: Touch attack deals 1d4 acid/level.
+- **[Detect Metal](detect-metal.md)**: Detects metal objects and creatures in a cone.
 - **[Enlarge Tail](enlarge-tail.md)**: Your tail gains reach and a bonus to attack and damage.
+- **[Flotsam Vessel](flotsam-vessel.md)**: Builds a raft from river debris that always travels downstream.
 - **[Icicle Dagger](icicle-dagger.md)**: Masterwork ice dagger deals +1 cold damage.
 - **[Instant Portrait](instant-portrait.md)**: Paint a quick monochrome portrait.
 - **[Jury-Rig](jury-rig.md)**: Removes the broken condition from the targeted object.
@@ -206,6 +208,7 @@ New summoner spells from *Ultimate Magic*. Spells from other books will be added
 - **[Hostile Juxtaposition, Greater](hostile-juxtaposition-greater.md)**: You may target one creature for every four of your caster levels.
 - **[Human Potential, Mass](human-potential-mass.md)**: As human potential, affecting multiple creatures.
 - **[Insect Spies, Greater](insect-spies-greater.md)**: Use magic beetles as spies and also share their senses.
+- **[Magnetic Field](magnetic-field.md)**: Pulls metal objects and metal-clad creatures toward you.
 - **[Planetary Adaptation, Mass](planetary-adaptation-mass.md)**: As planetary adaptation, on many creatures.
 - **[Plundered Power](plundered-power.md)**: Kill a creature and steal its strongest spell-like ability.
 - **[Shadow Transmutation](shadow-transmutation.md)**: mimics a polymorph or size-changing spell with shadow-stuff

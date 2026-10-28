@@ -68,6 +68,20 @@ This poem of sadness and longing was developed by a bard seeking a way to fight 
 
 **Action**: 1 full round.
 
+### Dancing Bear Jig (String, Wind)
+
+Your music makes animals act like people.
+
+**Prerequisites**: Perform (string) or Perform (wind) 11 ranks.
+
+**Cost**: Feat or 4th-level bard spell known.
+
+**Effect**: In a famous traveling musical, a lively tune plays whenever the eponymous bear tumbles onto stage. When played with skill, the song actually has the power to grant an animal temporary intelligence. Choose a non-hostile animal within line of sight that can see and hear you perform. This masterpiece affects the target as the *awaken* spell for as long as you maintain the performance. Abilities that extend the duration of a bardic performance (such as Lingering Performance) affect this masterpiece.
+
+**Use**: 1 round of bardic performance per round.
+
+**Action**: 1 full round.
+
 ### Death of Heroes (Oratory, Sing)
 
 You speak of the horrors of a demonic rift, retelling tales of helpless warriors watching their loved ones die.

@@ -795,3 +795,39 @@ The invoker uses her familiar to summon facets of her mysterious patron directly
 - **Revelation**: The invoker gains a +1 insight bonus on attack rolls made with weapons. This bonus increases to +2 at 8th level and +3 at 16th level.
 
 **Second Invocation (Su)**: At 10th level, whenever an invoker uses her invoke patron ability, she selects two different facets of her patron for herself instead of one. Otherwise, this functions like a hunter's second animal focus ability. This ability replaces the witch's 10th-level hex.
+
+## Veneficus Witch
+
+Veneficus witches specialize in poisons—brewing both magical and traditional concoctions, and applying them to weapons, traps, or even her potent hexes. Whether they're members of a poisoners' guild or followers of a goddess of curses and betrayal, veneficus witches are commonly found in lawless river lands.
+
+**Poisoner**: A veneficus witch can select the following alchemist discoveries as hexes, major hexes, or grand hexes, as indicated below. The witch's effective alchemist level is equal to her witch level for the purpose of qualifying for these discoveries.
+
+*Hexes*: Concentrate poison, poison conversion, sticky poison.
+
+*Major Hexes*: Malignant poison, nauseating flesh.
+
+*Grand Hexes*: Poison touch (grand discovery).
+
+**Poison Use (Ex)**: At 2nd level, a veneficus witch cannot accidentally poison herself when applying poison to a weapon.
+
+**Toxic Words (Ex)**: At 2nd level, whenever a veneficus witch targets a single creature with a hex, she can imbue her hex with a dose of injury or contact poison she is holding. The DCs of her hex and the poison are each reduced by 2; if the creature fails its save against the hex, the poison is expended and the creature must succeed at a Fortitude save against the poison or become poisoned. At 10th level, the DC of the witch's hex and poison are each reduced by only 1 and the witch can imbue her hexes with inhaled and ingested poisons as well. This ability replaces the witch's 2nd- and 10th-level hexes.
+
+**Hexes**: The following witch hexes complement the veneficus witch archetype: blight, cauldron, disguise, poison steep.
+
+**Major Hexes**: The following major hexes complement the veneficus witch archetype: cook people, witch's brew.
+
+**Grand Hex**: The following grand hex complements the veneficus witch archetype: eternal slumber.
+
+## Discord Hag
+
+Only female witches dare dedicate themselves to the goddess of hags and discord, and those who do so are feared for their ability to bend minds and sow strife. Some say these witches can watch their enemies from afar and can even corrupt the minds of the most innocent or loyal, including newborn babes and cherished pets.
+
+**Patron**: A discord hag must choose Deception, Trickery, Vengeance, or Water as her witch patron.
+
+**Spells**: A discord hag replaces several of her patron spells with the following: 2nd—*doom*, 6th—*obscure object*, 10th—*commune*, 14th—*repulsion*, 18th—*shapechange*.
+
+**Curdle Thoughts (Su)**: At 2nd level, a discord hag can insert negative emotions into the mind of a single target. She gains a +2 bonus on Diplomacy and Bluff checks to sow suspicion, hatred, or other forms of animosity. In addition, a discord hag can choose to increase the save DC of any spell with the fear descriptor she casts by 2. She can increase a spell's DC in this way a number of times per day equal to 1/2 her witch level. This ability replaces the witch's 2nd-level hex.
+
+**Sunder Hope (Su)**: At 8th level, a discord hag can violently dismiss her curses to counter magical boons and impose her own capricious whims. Once per day, after the discord hag has successfully affected a creature within 30 feet with a mind-affecting spell, spell-like ability, or hex with a duration of longer than 1 round, she can choose to dismiss the mind-affecting effect as an immediate action. If she dismisses this effect in response to another creature targeting her victim with a beneficial spell or ability, the witch's effect is dismissed and the caster of the beneficial spell or ability must succeed at a Will save (DC 10 + 1/2 the witch's level + her Intelligence modifier) or the spell or ability is wasted to no effect and the targeted victim takes 1d4 points of Wisdom damage. At 14th and 20th levels, a discord hag can use this ability an additional time per day. This ability replaces the witch's 8th-level hex.
+
+**Hag Crony (Su)**: At 12th level, a discord hag gains a blessing from her patron goddess in the form of an alliance with a night hag. Once per week, the discord hag can as a full-round action summon the night hag from her native plane. The night hag serves the discord hag to the best of its ability as long as the witch's commands are consistent with the night hag's alignment and goals, but flees back to its native plane after a number of rounds equal to the witch's level or upon losing half or more of its hit points. The night hag may provide the discord hag with other favors or gifts at the GM's discretion. At 15th and 18th levels, a discord hag can call upon her hag crony an additional time per week. This ability replaces the witch's 12th-level hex.

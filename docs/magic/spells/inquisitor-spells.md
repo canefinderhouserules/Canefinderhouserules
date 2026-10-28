@@ -248,6 +248,7 @@ New inquisitor spells from *Ultimate Magic*. Spells from other books will be add
 - **[Reaper's Coterie](reapers-coterie.md)**: Weapon gains profane damage bonus for each kill.
 - **[Resist Energy, Communal](resist-energy-communal.md)**: As resist energy, but you may divide the duration among creatures touched.
 - **[Retributive Reparations](retributive-reparations.md)**: Thieves of the warded item grow fatigued, then exhausted.
+- **[Riversight](riversight.md)**: Scry along a river you touch.
 - **[Sadomasochism](sadomasochism.md)**: Pain empowers your attacks and demoralizes attackers.
 - **[Second Wind](second-wind.md)**: Heal 2d8 + 1/level when below one-quarter hit points.
 - **[Selective Alarm](selective-alarm.md)**: As *alarm*, but only against selected creatures.
@@ -350,6 +351,7 @@ New inquisitor spells from *Ultimate Magic*. Spells from other books will be add
 - **[Litany of Vengeance](litany-of-vengeance.md)**: Allies attacking the target of the spell gain a +5 bonus on damage rolls for 1 round.
 - **[Mage’s Decree](mages-decree.md)**: Send a message to creatures within miles.
 - **[Profane Nimbus](profane-nimbus.md)**: Unholy energy damages good creatures that attack you and protects you from good attacks.
+- **[Sabotage Construct](sabotage-construct.md)**: Confuses a construct.
 - **[Sacred Nimbus](sacred-nimbus.md)**: Holy energy damages evil creatures that attack you and protects you from evil attacks.
 - **[Shroud of Darkness](shroud-of-darkness.md)**: Plunge targets into supernatural darkness
 - **[Soulswitch](soulswitch.md)**: Swap souls with your familiar.

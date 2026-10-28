@@ -86,6 +86,7 @@
 - **[Depilate](depilate.md)**: cause hair or fur to fall out, penalizing social checks
 - **[Desperate Weapon](desperate-weapon.md)**: Create an improvised weapon.
 - **[Detect Charm](detect-charm.md)**: Detect charm, compulsion, and possession effects.
+- **[Detect Metal](detect-metal.md)**: Detects metal objects and creatures in a cone.
 - **[Detect Radiation](detect-radiation.md)**: See radioactive auras.
 - **[Devouring Visage](devouring-visage.md)**: Hideous face grants Intimidate bonus and a bite.
 - **[Ears of the City](ears-of-the-city.md)**: Gather information from echoes of local talk.
@@ -952,6 +953,7 @@
 **Abjuration**
 
 - **[Absorb Toxicity](absorb-toxicity.md)**: You become immune to diseases and toxins, absorb one, and then spread it to others.
+- **[Alter River](alter-river.md)**: Changes a river's current speed or diverts its course.
 - **[Angelic Aspect](angelic-aspect.md)**: Gain wings, resistances and DR 5/evil.
 - **[Apathy](apathy.md)**: A target loses interest in a chosen pursuit.
 - **[Appearance of Life, Greater](appearance-of-life-greater.md)**: Perfectly disguise any undead creature as a living one
@@ -1206,6 +1208,7 @@
 
 - **[Acid Fog](acid-fog.md)**: Fog deals acid damage.
 - **[Planar Binding](planar-binding.md)**: As *lesser planar binding,* but up to 12 HD.
+- **[Sabotage Construct](sabotage-construct.md)**: Confuses a construct.
 - **[Shadow Enchantment, Greater](shadow-enchantment-greater.md)**: Quasi-real enchantment of 5th level or lower.
 - **[Shadow Endurance](shadow-endurance.md)**: Shadow duplicate takes your place when you fall.
 - **[Shadow Memory](shadow-memory.md)**: Learn a target’s secrets to aid an assassination.
@@ -1319,6 +1322,7 @@
 - **[Lost Legacy](lost-legacy.md)**: Others forget positive interactions with the target.
 - **[Maddening Oubliette](maddening-oubliette.md)**: Send a creature to a maddening demiplane prison.
 - **[Magical Beast Shape](magical-beast-shape.md)**: Assume the form of a magical beast.
+- **[Magnetic Field](magnetic-field.md)**: Pulls metal objects and metal-clad creatures toward you.
 - **[Memory of Function](memory-of-function.md)**: Restore broken objects and timeworn tech.
 - **[Mydriatic Spontaneity, Mass](mydriatic-spontaneity-mass.md)**: mydriatic spontaneity affecting multiple creatures
 - **[Object Possession, Greater](object-possession-greater.md)**: As possess object, but the object is more powerful and you can possess a construct.

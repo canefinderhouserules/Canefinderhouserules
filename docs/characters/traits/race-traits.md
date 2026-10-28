@@ -84,6 +84,8 @@ Only gnomes may select one of these traits.
 
 **Collector**: You have a small, bizarre collection of apparently worthless items, such as rusty nails, animal droppings, clockwork cogs, or bent spoons. You find this strange menagerie useful in ways no non-gnome could understand. Select one of the following skills: Craft (any one), Disable Device, Escape Artist, Perform (any one), or Spellcraft. Whenever you have your collection within 5 feet of you, you gain a +2 trait bonus on all checks made with the selected skill. Once this skill has been selected, it cannot be changed, nor can you gain it for any other collection you begin amassing.
 
+**Industrious**: You are helpful and hardworking. When you successfully use the aid another action to aid an ally's Craft or Profession check, that character gains an additional +1 trait bonus on the check (in addition to the +2 bonus normally granted for successfully aiding another). If you have a racial bonus on that skill, your ally gains a +2 trait bonus instead.
+
 ## Goblin Traits
 
 Only goblins may select one of these traits.
@@ -228,6 +230,14 @@ Only humans may select one of these traits.
 
 **Voice of Velvet** (martial-arts culture): You have the ability to sing a song and spin a story that captures the hearts of those around you. You gain a +1 trait bonus on Diplomacy and Perform (oratory) checks.
 
+**Tribal Hunter** *(northern tribal humans)*: You are an expert among your tribe. Whenever you throw a club, shortspear, spear, or javelin, reduce the penalty for throwing the weapon beyond its initial range increment by 2 (to a minimum penalty of 0). For example, a club (with a range of 10 feet) thrown at a target 25 feet away would incur only a –2 penalty with this trait.
+
+**Destined Pioneer** *(colonists' descendants)*: Your forebears served in an army of exploration, and you retain that expansionist spirit. Select a terrain from the ranger's list of favored terrains. Once selected, this choice cannot be changed. Once per day while in the selected terrain, you may move across nonmagical difficult terrain as though it were not difficult terrain until the end of your turn.
+
+**Pragmatic Polytheist** *(northern tribal humans)*: You pray to whatever local deity will answer your prayers—and if they won't, to hell with them. You gain a +1 trait bonus on Knowledge (religion) checks and can make Knowledge (religion) checks as if trained. Once per day, you can cast *resistance* on yourself as a spell-like ability cast at your highest caster level (CL 1st if you have no caster level).
+
+**Ruin Lore** *(northern tribal humans)*: Your time spent exploring the ruins of a fallen alien mountain has taught you much about the strange ways of the metal creatures from the stars. You gain a +2 trait bonus on Knowledge (engineering) checks to identify creatures with the robot subtype and relics of advanced technology. When using Bluff to feint against an intelligent construct, you do not take a penalty for feinting against a non-humanoid.
+
 ## Catfolk Traits
 
 Only catfolk may select one of these traits.
@@ -361,6 +371,8 @@ Only androids may select these traits.
 **Cellular Match**: Whenever you are affected by a polymorph spell or effect, your nanites adjust completely at a molecular level. For the duration of the polymorph effect, you are treated as only a humanoid for the purpose of effects that target creatures by type. For example, a ranger's favored enemy bonus against constructs wouldn't apply to you while you are polymorphed, but nor would spells such as *make whole*. This trait modifies part of the android's constructed racial trait, but otherwise that trait is unchanged (a polymorphed android still can't gain morale bonuses, is still immune to fear, and so on).
 
 **Nanite Revival**: You can instinctively activate your nanites to save your life. Once per day as an immediate action, you can command your nanites to stabilize you while you are dying, even while unconscious or helpless. This does not count as a use of your nanite surge ability.
+
+**Blood Algorithm**: Your inhumanity extends to your very core. Pain receptors were omitted during your construction, so you gain a +2 trait bonus on saving throws against spells with the pain descriptor. Additionally, once per day when you are healed by a spell that targets constructs (such as a *make whole* spell), you heal 1 extra hit point per level of the spell.
 
 ## Kasatha Traits
 

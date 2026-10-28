@@ -279,6 +279,7 @@ The magus class spell list appears on the [Magus](../../characters/classes/magus
 - **[Grim Stalker](grim-stalker.md)**: Haunted object curses its next holder with a spectral hound.
 - **[Illusion of Treachery, Greater](illusion-of-treachery-greater.md)**: Make it seem like another is responsible for your attacks while concealing your own actions.
 - **[Last Hero's Defending Sword](last-heros-defending-sword.md)**: A force sword that defends you, then attacks a foe.
+- **[Magnetic Field](magnetic-field.md)**: Pulls metal objects and metal-clad creatures toward you.
 - **[Monstrous Physique IV](monstrous-physique-iv.md)**: As monstrous physique III, with more abilities.
 - **[Naga Shape III](naga-shape-iii.md)**: assume a naga form with the strongest abilities
 - **[Ooze Form II](ooze-form-ii.md)**: Assume the form of a Large ooze creature.

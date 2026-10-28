@@ -35,6 +35,7 @@
 - **[Echo](echo.md)**: Cause a sound to repeat itself.
 - **[Endure Elements](endure-elements.md)**: Exist comfortably in hot or cold regions.
 - **[Entangle](entangle.md)**: Plants entangle everyone in 40-ft. radius.
+- **[Flotsam Vessel](flotsam-vessel.md)**: Builds a raft from river debris that always travels downstream.
 - **[Handy Grapnel](handy-grapnel.md)**: Transform a ropelike object into a retracting grapple.
 - **[Hidden Spring](hidden-spring.md)**: Discover a temporary spring of fresh, flowing water.
 - **[Hide from Animals](hide-from-animals.md)**: Animals can’t perceive one subject/level.
@@ -133,6 +134,7 @@
 - **[Restful Cloak](restful-cloak.md)**: Turn your cloak into a healing tent.
 - **[Returning Weapon, Communal](returning-weapon-communal.md)**: As returning weapon, but you may divide the duration among weapons touched.
 - **[Ricochet Shot](ricochet-shot.md)**: Imbues a projectile weapon to give its ammunition the ability to ricochet.
+- **[Riversight](riversight.md)**: Scry along a river you touch.
 - **[Ropeweave](ropeweave.md)**: Create useful tools from a coil of rope.
 - **[Scale Spikes](scale-spikes.md)**: Grow armor spikes from scales
 - **[Scamper](scamper.md)**: Grant your animal companion astonishing agility.

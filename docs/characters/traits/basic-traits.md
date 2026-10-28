@@ -26,6 +26,8 @@ There are 40 basic traits, split evenly among four categories. Combat traits foc
 
 **Improvised Defense**: You're never defenseless, even when you are caught off guard. Whenever you wield an improvised weapon, you gain a +1 shield bonus to AC. If you use the improvised weapon to attack, you lose this shield bonus until the beginning of your next turn.
 
+**Splash Attack**: You catch others off-guard when a confrontation escalates. As long as you are standing in or adjacent to water, or holding at least a pint of liquid (including insoluble liquids like oil or alchemist's fire), you can perform a dirty trick combat maneuver to blind a foe within reach without provoking an attack of opportunity. If you select the Improved Dirty Trick feat, you gain a +2 trait bonus on dirty trick combat maneuvers to blind foes as long as you are standing in or adjacent to water or holding a pint of liquid.
+
 ## Faith Traits
 
 **Birthmark**: You were born with a strange birthmark that looks very similar to the holy symbol of the god you chose to worship later in life. This birthmark can serve you as a divine focus for casting spells, and as a physical manifestation of your faith, it increases your devotion to your god—you gain a +2 trait bonus on all saving throws against charm and compulsion effects as a result.
@@ -47,6 +49,8 @@ There are 40 basic traits, split evenly among four categories. Combat traits foc
 **Sacred Touch**: You were exposed to a potent source of positive energy as a child, perhaps by being born under the right cosmic sign, or maybe because one of your parents was a gifted healer. As a standard action, you may automatically stabilize a dying creature merely by touching it.
 
 **Scholar of the Great Beyond**: Your great interests as a child did not lie with current events or the mundane— you have always felt out of place, as if you were born in the wrong era. You take to philosophical discussions of the Great Beyond and of historical events with ease. You gain a +1 trait bonus on Knowledge (history) and Knowledge (planes) checks, and one of these skills (your choice) is always a class skill for you.
+
+**River Acumen**: Your connection with the river and its tributaries has blended with your reverence for the gods of the river passages so much so that you seem divinely blessed while plying river waters. You gain a +2 trait bonus on Swim checks in rivers or streams, and a +2 trait bonus on Survival checks to forage for food in or near a river or stream.
 
 ## Magic Traits
 

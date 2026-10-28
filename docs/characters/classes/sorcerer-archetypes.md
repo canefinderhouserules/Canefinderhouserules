@@ -190,6 +190,30 @@ Naga blood flows within your veins. Perhaps a curious naga experimented upon one
 
 **Power of the Naga (Su)**: At 20th level, your form becomes enhanced by the power of the naga. You gain immunity to charm effects, mind-reading effects, and poison. In addition, you can also assume the shape of a naga at will as if using [*naga shape III*](../../magic/spells/naga-shape-iii.md).
 
+### Nanite
+
+Your conception was marked by an alien influence. Either you were born from one of the forge-wombs scattered throughout a wasteland of fallen machines, or you were infected by nanites, which now course through your blood.
+
+**Class Skill**: Knowledge (engineering).
+
+**Bonus Spells**: *disguise self* (3rd), *defensive shock* (5th), *gaseous form* (7th), *miasmatic form* (9th), *echolocation* (11th), *fluid form* (13th), *magnetic field* (15th), *iron body* (17th), *shapechange* (19th).
+
+**Bonus Feats**: Blind-Fight, Combat Expertise, Dodge, Eldritch Heritage, Expanded Arcana, Improved Disarm, Lightning Reflexes, Skill Focus (Knowledge [engineering]).
+
+**Bloodline Arcana**: Whenever you cast a spell from the transmutation school and target only yourself, increase the spell's duration by 50%. This does not stack with metamagic feats or abilities such as Extend Spell.
+
+**Bloodline Powers**: The microscopic nanites in your blood grant you incredible powers and alien magic.
+
+**Nanite Strike (Ex)**: At 1st level as a free action, you can cause nanites to flow from your body and coat the striking end of any manufactured melee weapon you wield. When you hit with a melee attack using this weapon, some of the nanites infect the blood of the victim (poison—injury; save Fort DC 10 + 1/2 your sorcerer level + your Con modifier; frequency 1/round for 6 rounds; effect 1 Str damage; cure 1 save). At 5th level, weapons you use with this ability are treated as magical for the purposes of overcoming DR, and the poison also deals 1 point of Constitution damage. At 7th level, the damage increases to 1d2 points of Constitution damage and 1d2 points of Strength damage. At 11th level, the cure becomes two successful saves. You can use this ability for a number of rounds per day equal to 3 + your Charisma modifier; these rounds need not be consecutive.
+
+**Nanite Surge (Ex)**: At 3rd level, once per day as an immediate action, you can cause your nanites to surge, granting you a bonus equal to 3 + your sorcerer level on any one d20 roll; this ability must be activated before the roll is made. If you already possess the nanite surge ability from another source (such as from being an android), you can use your nanite surge an additional time per day. At 9th level, you can use this ability an additional time per day.
+
+**Nanite Resurgence (Ex)**: At 9th level, once per day as an immediate action upon being reduced to one-quarter your maximum hit points, you can force the mechanical swarm living inside you to keep you alive. This ability functions like a *resurgent transformation* spell using your sorcerer level as the caster level, except it is an extraordinary ability and cannot be dispelled. At 17th level, you can use this ability twice per day (though using this ability twice in one 24-hour period entails a chance of system shock and death; see the spell's description for more details). At 20th level, you never die of system shock from using this ability.
+
+**Distributed Body (Ex)**: At 15th level, anytime you are struck by a critical hit or a sneak attack, there is a 25% chance that your nanites scatter and reincorporate around the attack, negating the extra damage and causing the attack to deal damage as normal instead.
+
+**Living Swarm (Su)**: At 20th level, you and the machines within you become one. Your nanites consume and replicate your body, allowing swift and radical physical alterations with little more than a thought. You become immune to bleed effects, diseases, and poisons, and gain DR 5/—. At will, you can break down your body and move in a shimmering stream of flying nanites, as if affected by *gaseous form*.
+
 ### Rakshasa
 
 At some point in your family’s history, one of your ancestors was tainted by the influence of a rakshasa. Though most of your family seem entirely normal, you have always felt your own skin is a prison from which magic allows you to escape. Your birthright is a secret you may be forced to keep from societies that would never deal with you if your heritage were known.
@@ -690,6 +714,18 @@ The powers of the Abyss can vary radically, even for similar fiends.
 
 This duration does not need to be consecutive, but it must be used in 1-minute increments. This bloodline power replaces strength of the abyss.
 
+### Dark Fey
+
+Your powers were born of malevolent trickery and shadowy fey magic.
+
+**Associated Bloodline**: Fey.
+
+**Bloodline Arcana**: Whenever you cast a spell with the curse subtype, increase the spell's DC by 2.
+
+**Bloodline Powers**: In your presence, senses are deceived.
+
+**Fey Fascination (Su)**: At 1st level, as a standard action, you can force one target within 30 feet to make a Will save (DC 10 + 1/2 your sorcerer level + your Charisma modifier) or be fascinated for 1 round for every 2 sorcerer levels you possess (minimum 1). This is a mind-affecting, illusion (pattern) effect. You can use this ability a number of times per day equal to 3 + your Charisma modifier. This bloodline power replaces laughing touch.
+
 ### Empyreal
 
 Your heavenly power derives from insight rather than force of personality.
@@ -785,6 +821,18 @@ Your powers are attuned to the concentrated core of the elemental plane.
 **Bloodline Powers**: You can infuse raw energy into your summoned minions.
 
 **Elementalist Summoning (Su)**: At 9th level, whenever you summon a creature, it gains energy resistance 10 against the energy type that matches your elemental bloodline (if it already has such resistance, its resistance increases by +5), and its natural attacks deal an additional 1d6 points of damage of the same energy type. This bloodline power replaces elemental blast.
+
+### Retribution
+
+One of your ancestors was unjustly executed, and your soul is infused with this forebear's vengeful spirit.
+
+**Associated Bloodline**: Martyred.
+
+**Bloodline Arcana**: Whenever a creature damages you, until the end of your next turn if you apply a metamagic feat to a spell that targets that creature, reduce the spell level increase of that metamagic feat by 1 (minimum 0).
+
+**Bloodline Powers**: You never forgive those who wrong you.
+
+**Vengeful Strike (Su)**: At 9th level, once per day after a foe has damaged you in melee, as an immediate action you can deal the same amount and type of damage to your foe (maximum amount of damage equal to double your character level). At 17th level, you can use this ability twice per day. This bloodline power replaces gift of blood.
 
 ### Rime-Blooded
 

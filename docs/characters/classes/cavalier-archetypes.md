@@ -18,6 +18,24 @@ At 15th level, the cavalier can use wild mount shape to change his mount into a 
 
 **Ferocious Charge (Ex)**: At 15th level, the cavalier is the embodiment of nature's fury. When the cavalier charges a creature, he can attempt an Intimidate check to demoralize his enemy as a free action. If he succeeds, the target is frightened.
 
+### Order of Vengeance
+
+Often affiliated with a church devoted to revenge, cavaliers of exiled noble houses who subscribe to the order of vengeance seek not only to reclaim their rightful homeland, but to punish those who betrayed them.
+
+**Edicts**: The cavalier must seek retaliation (legal or otherwise) for any unjustified harm to her person or property. She may not forgive even the slightest insult.
+
+**Challenge**: Whenever a cavalier of the order of vengeance issues a challenge against a creature whose kind she has encountered in the past 24 hours, the cavalier gains a +1 morale bonus on attack rolls made against the target of her challenge. This bonus increases by +1 for every 4 levels the cavalier possesses.
+
+**Skills**: A cavalier of the order of vengeance adds Knowledge (local) and Knowledge (nobility) to her list of class skills. Whenever the cavalier uses Diplomacy to gather information, she receives a bonus on the check equal to 1/2 her cavalier level (minimum +1).
+
+**Order Abilities**: A cavalier that belongs to the order of vengeance gains the following abilities as she increases in level.
+
+*Air Grievances (Ex)*: At 2nd level, when the cavalier attempts to demoralize an opponent using Intimidate, the cavalier gains a bonus on her Intimidate check equal to 1/2 her cavalier level. At 8th level and every 6 levels thereafter, the penalties a cavalier's target takes for being demoralized increase by 1.
+
+*Eye for an Eye (Ex)*: At 8th level, the cavalier gains Critical Focus as a bonus feat. The cavalier can grant a critical feat (in place of a teamwork feat) to her allies using the tactician ability.
+
+*Retribution (Ex)*: At 15th level, the cavalier gains retribution, as the order of the star ability of the same name.
+
 ## New Cavalier Archetype
 
 The following is a new cavalier archetype. Cavaliers of any order can take this archetype, though it's not suited for orders that bolster the power of mounted combat.

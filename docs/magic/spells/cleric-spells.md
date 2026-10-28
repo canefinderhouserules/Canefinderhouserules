@@ -196,6 +196,7 @@
 - **[Fear the Sun](fear-the-sun.md)**: targets gain light blindness
 - **[Find Traps](find-traps.md)**: Notice traps as a rogue does.
 - **[Flickering Lights](flickering-lights.md)**: Create an area of inconsistent lighting.
+- **[Flotsam Vessel](flotsam-vessel.md)**: Builds a raft from river debris that always travels downstream.
 - **[Gentle Repose](gentle-repose.md)**: Preserves one corpse.
 - **[Ghost Whip](ghost-whip.md)**: Create a ghost touch whip that passes through objects.
 - **[Ghoul Hunger](ghoul-hunger.md)**: Target is compelled to eat a helpless or dead humanoid.
@@ -390,6 +391,7 @@
 - **[Remove Disease](remove-disease.md)**: Cures all diseases affecting subject.
 - **[Resist Energy, Communal](resist-energy-communal.md)**: As resist energy, but you may divide the duration among creatures touched.
 - **[Returning Weapon, Communal](returning-weapon-communal.md)**: As returning weapon, but you may divide the duration among weapons touched.
+- **[Riversight](riversight.md)**: Scry along a river you touch.
 - **[Sadomasochism](sadomasochism.md)**: Pain empowers your attacks and demoralizes attackers.
 - **[Screaming Flames](screaming-flames.md)**: Send forth a wave of flames screaming with the agony of the damned.
 - **[Searing Light](searing-light.md)**: Ray deals 1d8/two levels damage (more against undead).
@@ -432,6 +434,7 @@
 - **[Absolution](absolution.md)**: Removes enchantments and forgives actions taken under their effects.
 - **[Absorb Rune I](absorb-rune-i.md)**: Absorb a magical rune and move it elsewhere.
 - **[Air Walk](air-walk.md)**: Subject treads on air as if solid (climb or descend at 45-degree angle).
+- **[Alter River](alter-river.md)**: Changes a river's current speed or diverts its course.
 - **[Ancestral Gift](ancestral-gift.md)**: An ancestor conjures a magical weapon for you.
 - **[Ardor's Onslaught](ardors-onslaught.md)**: The power of conviction assaults neutral foes
 - **[Battle Trance](battle-trance.md)**: 3, witch 4 Casting Time 1 standard action Components V, S Range personal Target you Duration 1 minute/level.
@@ -724,6 +727,7 @@
 - **[Jolting Portent](jolting-portent.md)**: You inflict a vengeful fate on a creature, dealing electricity damage each time it attacks or casts a spell.
 - **[Lost Legacy](lost-legacy.md)**: Others forget positive interactions with the target.
 - **[Maddening Oubliette](maddening-oubliette.md)**: Send a creature to a maddening demiplane prison.
+- **[Magnetic Field](magnetic-field.md)**: Pulls metal objects and metal-clad creatures toward you.
 - **[Memory of Function](memory-of-function.md)**: Restore broken objects and timeworn tech.
 - **[Particulate Form](particulate-form.md)**: Targets gain fast healing and immunity to critical hits.
 - **[Plundered Power](plundered-power.md)**: Kill a creature and steal its strongest spell-like ability.

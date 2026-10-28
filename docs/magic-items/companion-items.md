@@ -5362,3 +5362,112 @@ At will, the owner can speak the item's command word to cause the wayfinder's co
 Once per day, the owner can touch one of the semi-precious stones on the *wayfinder of the stars* to teleport her and any willing creatures touching her to a safe location on the indicated planet, as *interplanetary teleport*.
 
 **Construction Requirements:** Craft Wondrous Item, *interplanetary teleport*, *light*, *locate object*; **Cost** 35,100 gp
+
+## River and Metal Items
+
+### Double-Punishment Blade
+
+**Slot** none; **CL** 8th; **Price** 14,350 gp; **Weight** 8 lbs.
+
+**Aura** moderate conjuration
+
+This +1 greatsword is made of blackened steel and embodies the ideal that all crimes must be punished twice. Once per day after the wielder slays a creature with the blade, the wielder can empower the weapon to become a +2 *bane* greatsword as an immediate action; the sword's *bane* ability is keyed to the same creature type as the one that the wielder killed to activate the effect. This effect lasts for 8 rounds or until the wielder kills a second creature with the weapon, whichever comes first.
+
+**Construction Requirements:** Craft Magic Arms and Armor, *summon monster I*; **Cost** 7,350 gp
+
+### Drowning Medallion
+
+**Slot** neck; **CL** 5th; **Price** 1,000 gp; **Weight** 1 lb.
+
+**Aura** moderate conjuration
+
+Often crafted in river towns and sold to traveling river-goers, this small stone disk is etched with the symbol of waves and affixed to a silver chain. If the wearer falls unconscious from drowning while wearing a *drowning medallion*, she can remain unconscious for up to 10 minutes before she must start attempting Constitution checks to avoid asphyxiation. One round after emerging from the substance that caused the wearer to drown (usually water), the wearer regains consciousness at 0 hit points and the medallion crumbles to dust.
+
+**Construction Requirements:** Craft Wondrous Item, *air bubble*; **Cost** 500 gp
+
+### Metalseeker Swarm
+
+**Slot** none; **CL** 5th; **Price** 5,500 gp; **Weight** 3 lbs.
+
+**Aura** faint conjuration
+
+In its inert state, a *metalseeker swarm* is a heavy, 2-inch-square cube of textured steel. Once per day on command, the cube disintegrates into a cloud of countless Fine flying constructs that resemble mechanical fireflies. These fireflies cluster and flutter about in a 60-foot-radius spread around the user, homing in on Tiny or larger masses of metal and illuminating them as though the objects emitted candlelight. The fireflies continue to highlight metal objects for 5 minutes before swarming back into cube-form in the user's hand. Creatures in the area wearing metal armor are illuminated as if by *faerie fire*. Creatures in the area wielding metal weapons are dazzled as long as they are within range of the mechanical fireflies and continue to wield the weapons. The mechanical fireflies glow different colors depending on the type of metal they touch, though the item bears no indication of which colors correspond to what metals, so the user must figure out the fireflies' code to glean any useful information from it.
+
+**Construction Requirements:** Craft Wondrous Item, *detect metal*, *faerie fire*, *summon swarm*; **Cost** 2,750 gp
+
+### Oathbinding Medallion
+
+**Slot** none; **CL** 7th; **Price** 2,500 gp; **Weight** 2 lbs.
+
+**Aura** moderate necromancy
+
+When this iron medallion is placed between the palms of two persons willingly entering into an agreement via handshake, the accord is enforced by the brand's enchantment. If either person breaks the word of the agreement, a hideous mark appears on the top of the unfaithful creature's hand. The brand marks her as an oath breaker throughout the surrounding region, imposing upon her a –8 penalty on Diplomacy and Bluff checks attempted anywhere in the region as long as the brand is visible. This mark lasts for 1 year or until it is removed by *break enchantment*, *limited wish*, *miracle*, *remove curse*, or *wish*, whichever comes first.
+
+**Construction Requirements:** Craft Wondrous Item, *mark of justice*; **Cost** 1,250 gp
+
+### Player's Prize
+
+**Slot** none; **CL** 7th; **Price** 3,000 gp; **Weight** 1 lb.
+
+**Aura** moderate necromancy
+
+This tiny copper statue of a featureless, dancing humanoid is sometimes awarded to the winners of contests at grand arts academies. The power of a player's prize comes not from possessing it, however, but from giving it to an unsuspecting audience member. By inscribing a personal rune on his player's prize, a bard can cause whoever carries the item (knowingly or not) to be more susceptible to his bardic performances. Once inscribed, a player's prize cannot be keyed to any other creature. Devious bards use Sleight of Hand to drop their player's prize on rivals' or foes' persons, usually in a backpack or in among other gear where it would be difficult to locate. A creature carrying a player's prize keyed to a bard within 30 feet takes a –2 penalty on Will saves against that bard's bardic performances, as well as a –2 penalty on opposed skill checks against any skill checks the bard attempts using his versatile performance class feature. These penalties remain as long as the affected creature continues to carry the player's prize.
+
+Once per day as an immediate action, the character whose personal rune is inscribed on the player's prize can speak the item's command word to cause the statue to instantly appear in his hand. The character must be within 30 feet of the player's prize to activate this ability.
+
+**Construction Requirements:** Craft Wondrous Item, *bestow curse*, *telekinesis*; **Cost** 1,500 gp
+
+### Grove Warden's Favor
+
+**Slot** none; **CL** 9th; **Price** 6,550 gp; **Weight** —
+
+**Aura** moderate conjuration
+
+This palm-sized wooden badge is covered in intricate Druidic script that bears the hallmark of a druid circle. Occasionally given as a gift to those who aid the druids, a *grove warden's favor* gives the wearer a +4 competence bonus on Handle Animal checks and increases the DC of any enchantment spells the wearer casts against animals by 2. If the token of favor is broken apart and added to boiling water, it becomes a nourishing porridge that feeds up to eight Medium creatures. This meal cures all ongoing sickness and nausea effects, and provides the benefits of *neutralize poison* and *remove disease*. In addition, for 24 hours after eating the porridge, subjects gain a +2 luck bonus on Will saves against fear.
+
+**Construction Requirements:** Craft Wondrous Item, *charm animal*, *heroes' feast*, *neutralize poison*, *remove disease*; **Cost** 3,275 gp
+
+### Riverclub Ring
+
+**Slot** ring; **CL** 5th; **Price** 1,000 gp; **Weight** —
+
+**Aura** faint conjuration
+
+Popular among riverfolk who prefer to work their waterway unarmed, this simple bronze band can transform into a handy weapon in a pinch. When the wearer of a *riverclub ring* plunges her hand into at least 1 gallon of water as a move action, she can pull forth a club made of animated water. The weapon maintains the shape, solidity, and statistics of a masterwork club of the wielder's size so long as she holds it, dealing damage as normal, except that it deals 1 additional point of damage against creatures with the fire subtype. The club turns back into a puddle of water again as soon as the wielder loosens her grip around it.
+
+**Construction Requirements:** Forge Ring, *icicle dagger*; **Cost** 500 gp
+
+### Riverseer Plate
+
+**Slot** none; **CL** 7th; **Price** 5,000 gp; **Weight** 1/2 lb.
+
+**Aura** moderate divination
+
+This disc of thick green glass is 12 inches in diameter and has a small, stylized image of a boat acid-etched into its center. When set against the deck of a waterborne vessel, the plate warns of nearby obstacles on or under the water, presenting them as glowing green silhouettes on the glass in relation to the boat etched on the plate's center. A *riverseer plate* warns of inanimate dangers within a 300-foot radius beyond the vessel in which it is set, providing a +6 competence bonus on sailing checks to navigate the vessel around potential dangers.
+
+Once per day, a creature can apply a drop of blood to a *riverseer plate's* surface. For 5 minutes thereafter, the plate marks the location of Small or larger animate creatures in the water around the vessel, presenting them on the plate's surface as glowing red dots.
+
+**Construction Requirements:** Craft Wondrous Item, *detect animals or plants*, *riversight*; **Cost** 2,500 gp
+
+### Screaming Face Shield
+
+**Slot** none; **CL** 7th; **Price** 21,426 gp; **Weight** 5 lbs.
+
+**Aura** moderate necromancy
+
+This +1 light wooden shield has what appears to be a human face stretched across its front, with the weathered skin held in place by thick iron studs. Three times per day on command, the open mouth of the face can emit one of the two following effects:
+
+* A burst of terrified screams that causes creatures in a 30-foot cone to become panicked as if by the *fear* spell. A successful DC 16 Will save causes a creature to become shaken for 1 round instead.
+* A tortured voice pleading for help. Anyone within 60 feet of the shield hears the voice in her own language, spoken as if by a member of her own race.
+
+**Construction Requirements:** Craft Magic Arms and Armor, *fear*, *tongues*; **Cost** 10,713 gp
+
+### Steelbone Frame
+
+**Slot** none; **CL** 5th; **Price** 6,000 gp; **Weight** 35 lbs.
+
+**Aura** faint transmutation
+
+Fashioned from salvaged mechanical "bones" of ancient constructs, this gear-jointed, metal exoskeleton can be affixed to or removed from a suit of medium or heavy armor in 10 minutes. While attached, the enchanted frame bears some of the armor's burden, reducing the armor's check penalty by 2. In addition, three times per day, the wearer of a medium or heavy suit of armor attached to a steelbone frame can ignore the armor's reduction to his speed for 1 round.
+
+**Construction Requirements:** Craft Wondrous Item, *bull's strength*, *longstrider*; **Cost** 3,000 gp

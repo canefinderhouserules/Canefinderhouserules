@@ -909,3 +909,29 @@ Deepwater ragers bellow ferociously as they charge their enemies, tackling them 
 **Full Lungs (Ex)**: At 17th level, a deepwater rager does not need to breathe while she is raging. This ability replaces tireless rage.
 
 **Rage Powers**: The following rage powers complement the deepwater rager archetype: battle roar, bestial swimmer, brawler, intimidating glare, raging swimmer, rolling dodge, and terrifying howl.
+
+## Tribal Liberator
+
+The barbarians who roam the badlands of a star-fallen land have a healthy mistrust of technology and its corruptive influence. Since a cataclysmic rain of alien debris millennia ago, these warriors have developed numerous techniques and skills to protect themselves from the strange mechanical monsters that roam their lands. The most stalwart and staunchly dedicated of these technophobic traditionalists refer to themselves as liberators.
+
+**Class Skill**: A tribal liberator gains Stealth as a class skill and removes Climb from her list of barbarian class skills.
+
+**Hard Hitter (Ex)**: At 2nd level, a tribal liberator can make devastating attacks against objects and foes with breakable components. Damage dealt by the barbarian's attacks ignores an amount of an object's or creature's hardness (if any) equal to 1/2 her class level. This ability replaces uncanny dodge.
+
+**Disruptor**: At 5th level, for any foes in a tribal liberator's threatened area, the DC to cast spells defensively increases by 1. The DC increases by 1 again for every 5 levels thereafter (to a maximum increase of 4 at 20th level). If the barbarian gains the disruptive rage power, the two abilities stack. This ability replaces improved uncanny dodge.
+
+**Hide from Constructs (Su)**: At 14th level, a tribal liberator can control her movement, breathing, body temperature, and other physiological signs to confuse the artificial visions of constructs. At will, the barbarian can make herself undetectable to constructs as if she were affected by a *hide from undead* spell that instead hides the subject from constructs. Intelligent constructs receive a Will save (DC 10 + 1/2 the barbarian's level + the barbarian's Constitution modifier) to see through this effect. The barbarian must expend 1 round of rage for each round she uses this ability. This ability replaces indomitable will.
+
+**Rage Powers**: The following rage powers complement the tribal liberator archetype: deadly accuracy, energy absorption (fire), energy resistance (fire), greater energy resistance (fire), gearbreaker, guarded stance, lethal accuracy, low-light vision, night vision, rolling dodge, reflexive dodge, surprise accuracy.
+
+### Tribal Rage Powers
+
+The following new rage powers represent a few of the tricks and tactics tribal barbarians have developed to combat the unique dangers of a land full of alien machines.
+
+**Breathtaker (Ex)**: The barbarian's blows take the air from her foes' lungs. While raging, whenever the barbarian makes a successful melee attack against an opponent that is holding its breath, in addition to any other effects caused by that attack, the opponent loses a number of rounds of breath equal to the barbarian's Strength modifier.
+
+**Gearbreaker (Ex)**: Once per round while raging, whenever the barbarian makes an attack against a construct, she can ignore an amount of that construct's hardness equal to her barbarian level. This ability must be used before the attack roll is made. A barbarian must have the smasher rage power before selecting this rage power. This power stacks with hard hitter.
+
+**Raging Grappler (Ex)**: While raging, the barbarian grapples her foes with the power and viciousness of a river crocodile. As long as she is raging, whenever the barbarian succeeds at a check to start a grapple, she can choose to deal damage as if she had also succeeded at a check to maintain the grapple. In addition, while she is raging, whenever the barbarian succeeds at a combat maneuver check to maintain a grapple, she can choose to give herself, the target of her grapple, or both the prone condition as a free action while continuing to maintain the grapple.
+
+**Water Sense (Ex)**: The barbarian's senses are no longer fooled by the rippling surface and confounding reflections seen in water that is being used as cover by her foes. While the barbarian is raging and on land, opponents in the water gain only partial cover from her attacks, instead of improved cover. In addition, while on land and targeting an opponent in water, she takes only a –1 penalty on attacks with ranged weapons (including thrown weapons) for every 5 feet of water they pass through (instead of the usual –2 penalty for every 5 feet of water).

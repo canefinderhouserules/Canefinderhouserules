@@ -377,6 +377,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Reinvigorating Wind](reinvigorating-wind.md)**: Wake and invigorate allies with a magical wind
 - **[Returning Weapon, Communal](returning-weapon-communal.md)**: As returning weapon, but you may divide the duration among weapons touched.
 - **[Revenant Armor](revenant-armor.md)**: Armor animates around its fallen wearer.
+- **[Riversight](riversight.md)**: Scry along a river you touch.
 - **[Sands of Time](sands-of-time.md)**: Target temporarily ages.
 - **[Scale Spikes, Greater](scale-spikes-greater.md)**: Scale spikes with up to +5 enhancement
 - **[See Beyond](see-beyond.md)**: Meditative spell: large Perception bonus and brief x-ray vision.
@@ -644,6 +645,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Plague Storm](plague-storm.md)**: Cloud infects creatures like contagion.
 - **[Prognostication](prognostication.md)**: Gain cryptic information from further in the future than *divination*.
 - **[Runic Overload](runic-overload.md)**: Detonates magical runes with sonic force.
+- **[Sabotage Construct](sabotage-construct.md)**: Confuses a construct.
 - **[Shadow Memory](shadow-memory.md)**: Learn a target’s secrets to aid an assassination.
 - **[Shadow Transmutation](shadow-transmutation.md)**: mimics a polymorph or size-changing spell with shadow-stuff
 - **[Share Skin](share-skin.md)**: Possess an animal as with magic jar.
@@ -685,6 +687,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Legendary Proportions](legendary-proportions.md)**: Increase a creature's size category with large bonuses.
 - **[Lunar Veil](lunar-veil.md)**: Dispel light and revert lycanthropes.
 - **[Maddening Oubliette](maddening-oubliette.md)**: Send a creature to a maddening demiplane prison.
+- **[Magnetic Field](magnetic-field.md)**: Pulls metal objects and metal-clad creatures toward you.
 - **[Mydriatic Spontaneity, Mass](mydriatic-spontaneity-mass.md)**: mydriatic spontaneity affecting multiple creatures
 - **[Nature’s Ravages, Greater](natures-ravages-greater.md)**: As nature’s ravages, aging a corpse by years.
 - **[Object Possession, Greater](object-possession-greater.md)**: As possess object, but the object is more powerful and you can possess a construct.

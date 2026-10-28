@@ -58,6 +58,7 @@
 - **[Depilate](depilate.md)**: cause hair or fur to fall out, penalizing social checks
 - **[Desperate Weapon](desperate-weapon.md)**: Create an improvised weapon.
 - **[Detect Charm](detect-charm.md)**: Detect charm, compulsion, and possession effects.
+- **[Detect Metal](detect-metal.md)**: Detects metal objects and creatures in a cone.
 - **[Detect Radiation](detect-radiation.md)**: See radioactive auras.
 - **[Detect Secret Doors](detect-secret-doors.md)**: Reveals hidden doors within 60 ft.
 - **[Disguise Self](disguise-self.md)**: Changes your appearance.
@@ -270,6 +271,7 @@
 - **[Recharge](recharge.md)**: Restore charges to a technological item.
 - **[Reinvigorating Wind](reinvigorating-wind.md)**: Wake and invigorate allies with a magical wind
 - **[Remarkable Legerdemain](remarkable-legerdemain.md)**: Treat held objects as coin-sized for Sleight of Hand.
+- **[Resounding Clang](resounding-clang.md)**: Metal objects vibrate, penalizing attacks, skills and armor.
 - **[Returning Weapon](returning-weapon.md)**: Grants a weapon the returning special weapon quality.
 - **[Rotgut](rotgut.md)**: Turn water into cheap alcohol
 - **[Rumormonger](rumormonger.md)**: Follow a rumor to see where it spreads.
@@ -549,6 +551,7 @@
 - **[Pox of Rumors](pox-of-rumors.md)**: Curse a creature to attract nasty rumors.
 - **[Release the Hounds](release-the-hounds.md)**: Summons a swarm-like pack of canines.
 - **[Repress Memory](repress-memory.md)**: Remove a piece of knowledge from your mind.
+- **[Sabotage Construct](sabotage-construct.md)**: Confuses a construct.
 - **[Scripted Hallucination](scripted-hallucination.md)**: As *complex hallucination*, but without concentration.
 - **[Seeds of Influence, Greater](seeds-of-influence-greater.md)**: As seeds of influence, but can dispel protections against your spells.
 - **[Seeming](seeming.md)**: Changes appearance of one person per two levels.

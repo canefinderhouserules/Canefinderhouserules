@@ -14,6 +14,7 @@ New alchemist spells from *Ultimate Magic* and *Ultimate Combat*. Spells from ot
 - **[Chameleon Scales](chameleon-scales.md)**: Change the color of your skin or scales.
 - **[Coin Shot](coin-shot.md)**: Turns coins into bullets.
 - **[Coward's Cowl](cowards-cowl.md)**: Defensive bonuses while avoiding enemies.
+- **[Detect Metal](detect-metal.md)**: Detects metal objects and creatures in a cone.
 - **[Enlarge Tail](enlarge-tail.md)**: Your tail gains reach and a bonus to attack and damage.
 - **[Fabricate Disguise](fabricate-disguise.md)**: Create a disguise in an instant.
 - **[Ferment](ferment.md)**: Imbue a drink with an intoxicant
@@ -236,6 +237,7 @@ New alchemist spells from *Ultimate Magic* and *Ultimate Combat*. Spells from ot
 - **[Caging Bomb Admixture](caging-bomb-admixture.md)**: Your bombs create a cage of force that traps creatures inside the bomb’s splash radius.
 - **[Fey Form III](fey-form-iii.md)**: Assume the form of a Diminutive or Huge fey creature.
 - **[Legendary Proportions](legendary-proportions.md)**: Increase a creature's size category with large bonuses.
+- **[Magnetic Field](magnetic-field.md)**: Pulls metal objects and metal-clad creatures toward you.
 - **[Monstrous Physique IV](monstrous-physique-iv.md)**: As monstrous physique III, with more abilities.
 - **[Naga Shape III](naga-shape-iii.md)**: assume a naga form with the strongest abilities
 - **[Neutralize Poison, Greater](neutralize-poison-greater.md)**: As neutralize poison, but it also reverses poison damage.

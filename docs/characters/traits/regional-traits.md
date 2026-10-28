@@ -150,6 +150,54 @@ These traits suit characters with ties to other worlds, to the stars, or to the 
 
 **Void Child** *(Regional; asteroid belt)*: You were raised in an asteroid belt and are accustomed to being isolated from most other life in the vast void of space. You gain a +1 trait bonus on saves against fear; this bonus increases to +2 whenever you are 30 feet or farther from your nearest ally.
 
+## River Traits
+
+These traits suit characters from the lawless river kingdoms and the star-fallen lands that border them.
+
+**Ancestral Weapon** *(Regional; star-fallen tribal lands)*: You have inherited a sacred tribal weapon wielded by your forebears since the days before the rain of stars, and you were trained in its use from a young age. Select either cold iron or silver. You begin play with a masterwork melee weapon made of the material of your choice. You must be proficient with this weapon, and its combined cost cannot exceed 500 gp. You gain a +1 trait bonus on attack rolls with weapons made of the selected material.
+
+**Black Rider Recruit** *(Regional; tyrant's hill kingdom)*: You were recruited to serve as one of a dictator's feared armored riders for a time, but you have since left that life. You gain a +1 trait bonus on saves against fear effects; this bonus increases to +3 if an evil outsider caused the effect.
+
+**Blighted Physiology** *(Regional; star-fallen tribal lands)*: Exposure to the corruption that seeps through every drop of water and grain of dirt in your homeland has altered your body. Horrific growths beneath your skin provide you a +1 natural armor bonus to AC, but your body does not work as a normal creature's would. You become sickened for 1 round anytime you receive magical healing.
+
+**Border Fort Acolyte** *(Regional; forest stronghold)*: You trained with the knights of a lawful order at one border fort or the paladins of a good-aligned order at another. If you trained with the lawful knights, you gain a +1 trait bonus on saving throws against chaotic spells and the spell-like abilities of chaotic outsiders. If you trained with the paladins, you gain this bonus against evil spells and evil outsiders instead.
+
+**Hill Rancher** *(Regional; tyrant's hill kingdom)*: Domestic animals from your homeland are known for their resiliency. You gain a +1 trait bonus on Handle Animal checks and Handle Animal is a class skill for you. Your animal companion or bonded mount gains a permanent +3 trait bonus to its maximum hit point total.
+
+**Noble-in-Exile** *(Regional; city of exiled nobles)*: Though forced to live among strangers, you never forget you're a noble. You gain a +1 trait bonus on Diplomacy checks while interacting with aristocrats and nobles, and a +1 trait bonus on Intimidate checks while interacting with commoners.
+
+**The Vessel Between** *(Regional; city of assassins)*: The assassin ushers her victims from the kingdoms of the living to the kingdom of the dead. You gain a +1 trait bonus on attack rolls that would deal sneak attack damage on a hit.
+
+**Wary** *(Regional; city of assassins)*: You survived an assassination attempt once. You gain a +1 trait bonus on opposed Perception and Sense Motive checks. One of these skills is always a class skill for you.
+
+**Exiled Bandit** *(Regional; free city of refugees)*: You fled the persecution of the authorities of your homeland and wound up in a free city. Whether or not you are guilty of your alleged crimes, you seek to build a new life amid new neighbors. Choose one Profession skill and one ability score other than Wisdom. You add that ability score's modifier in addition to your Wisdom modifier on checks with the chosen Profession skill.
+
+**Fey-Wise** *(Regional; druid-ruled farmland)*: You grew up around fey and are accustomed to their tricks. You gain a +1 trait bonus on saving throws against the spell-like and supernatural abilities of fey and a +1 trait bonus on Sense Motive checks against fey.
+
+**Gladiatorial College Alumnus** *(Regional; city of gladiators)*: You trained at an exclusive gladiatorial college. Select one combat maneuver when you take this trait. You gain a +1 trait bonus on performance combat checks and a +1 trait bonus on combat maneuver checks to perform the selected maneuver.
+
+**Improvised Performance** *(Regional; city of arts and smugglers)*: Your quick hands can salvage even the most botched performance. Once per day after you attempt a Perform check and before the results of the roll are revealed by the GM, you can attempt a Bluff check and use the result of that check in place of your Perform check. You must use the result of that Bluff check, even if it is lower.
+
+**Portal Seeker** *(Regional; druid-ruled farmland)*: You've long heard rumors about the mysterious archways in the heart of your homeland and have spent much of your life trying to unravel the mysteries behind the portals. You gain a +1 trait bonus on Knowledge (history) checks and Perception checks to notice secret doors, and Knowledge (history) becomes a class skill for you.
+
+**Swordlord Duelist** *(Regional; city of mercenary duelists)*: Your training in a noble sword style included several bouts in a weekly public dueling circle, which has taught you how to inflict further punishment in one-on-one fights. You gain a +1 trait bonus on damage rolls when you are the only one threatening your opponent.
+
+## Technology Ruins Campaign Traits
+
+These traits tie characters to a frontier realm where savagery and super-science exist side by side. Several refer to technological items or the Technologist feat; consult your GM for the technology rules in use.
+
+**Against the Technocrats**: For whatever reason, you have a grudge against a ruling cabal of technology-hoarding artificers. No matter the root cause, you're convinced that they are somehow responsible for the troubles facing your home today. Choose either weapons or spells. If you choose weapons, you gain a +2 trait bonus on all damage rolls made against targets you know are associated with the cabal. If you choose spells, increase the save DC of your spells by 1 when you target such a foe.
+
+**Missing Mentor**: You have ties to a prominent local scholar who has gone missing. He may have been your tutor, or a friend or business associate of your family. Your association with him has given you insight into how technology works. Choose Disable Device or Knowledge (engineering). You gain a +1 trait bonus on checks with this skill, and it is a class skill for you. In addition, you are treated as if you possessed the Technologist feat for the purposes of resolving checks associated with that skill. If you gain the Technologist feat, your trait bonus for the selected skill increases to +3.
+
+**Ruins Archaeologist**: You've studied eerie technological ruins extensively. You gain the ancient alien language spoken by robots and found in such ruins as an additional language. In addition, you possess a knack for technological items; when you use a timeworn technological item, roll twice when determining any glitches the item might cause and choose which result to use as your actual result.
+
+**Robot Slayer**: The strange steel automatons that plague the wilds are a blight upon the world! You gain a +1 trait bonus on attack rolls against robots and a +1 dodge bonus to AC against attacks made by robots.
+
+**Skymetal Smith**: You've long hoped to work with skymetal, and begin the game with a small metal bauble made of the skymetal of your choice—you made this item yourself. The item is nothing more than a valuable art object worth 100 gp. You can sell it to gain an additional 100 gp when creating your character, but if you keep it, your pride in its crafting grants you a +2 trait bonus on Will saving throws made against emotion and fear effects. You lose this bonus if you willingly sell or give up the item, but if it is destroyed or lost through no fault of your own, you retain a +1 trait bonus on such Will saves.
+
+**Stargazer**: You hope to learn all you can about the strange creatures lurking in ancient dungeons. You gain a +2 trait bonus on Knowledge checks to identify alien monsters' abilities and weaknesses. In addition, you gain a +1 trait bonus on Knowledge (geography) checks, and this skill is a class skill for you. You are treated as if you possessed the Technologist feat for the purpose of resolving checks to identify an alien creature using a Knowledge skill and for all Knowledge (geography) checks. If you already possess the Technologist feat, then your trait bonus on Knowledge (geography) checks increases to +3.
+
 ## Brewing and Poisoning Traits
 
 Potions and poisons are common everywhere, but in some regions they are more common or have more of an effect than in others. The following regional traits represent characters who grew up in places where potions and poisons were part of daily life.
