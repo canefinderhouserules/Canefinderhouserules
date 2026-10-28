@@ -1517,6 +1517,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Aquatic Squires](aquatic-squires.md) | — | Triton, *summon nature's ally II* spell-like ability, character level 5th |
 | [Arcane Insight](arcane-insight.md) | — | Arcane Shield, arcane spellcaster, caster level 10th, worshiper of a deity of magic |
 | [Arcane Jinxer](arcane-jinxer.md) | General | Arcane spellcaster, Halfling Jinx racial trait |
+| [Arcane School Spirit](arcane-school-spirit.md) | General | Bluff 1 rank, arcane school class feature, gnome |
 | [Arcane Trap Suppressor](arcane-trap-suppressor.md) | — | Ability to cast dispel magic |
 | [Archon Diversion](archon-diversion.md) | Combat | [Archon Style](archon-style.md), Combat Expertise, Combat Reflexes, base attack bonus +4 or monk level 3rd |
 | [Archon Justice](archon-justice.md) | Combat | [Archon Diversion](archon-diversion.md), [Archon Style](archon-style.md), Combat Expertise, Combat Reflexes, base attack bonus +8 or monk level 7th |
@@ -1552,6 +1553,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Azata Mischief](azata-mischief.md) | Combat | Agile Maneuvers, [Azata Style](azata-style.md), Dodge, Mobility, base attack bonus +6 |
 | [Azata Sprint](azata-sprint.md) | Combat | Agile Maneuvers, [Azata Mischief](azata-mischief.md), [Azata Style](azata-style.md), Dodge, Mobility, Wind Stance, base attack bonus +10 |
 | [Azata Style](azata-style.md) | Combat, Style | Dodge, Mobility, base attack bonus +2 |
+| [Babble-Peddler](babble-peddler.md) | General | Appraise 5 ranks, Bluff 5 ranks, gnome |
 | [Bag of Bones](bag-of-bones.md) | — | Ghoul |
 | [Balor Whip](balor-whip.md) | Combat | Weapon Focus (whip), Whip Mastery, base attack bonus +8 |
 | [Baneful Judgment](baneful-judgment.md) | Combat | Bane class feature, judgment class feature, monster lore class feature |
@@ -1571,6 +1573,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Bestow Hope](bestow-hope.md) | — | Improved Channel, channel energy class feature, worshiper of a deity of healing and redemption |
 | [Betrayal Sense](betrayal-sense.md) | Combat | Wis 13, rogue level 3rd, trap sense class feature |
 | [Betrayed](betrayed.md) | Story | You have had a valuable item (worth at least 1,000 gp per character level) stolen by a former ally, or have been left for dead by a former ally. |
+| [Bewildering Koan](bewildering-koan.md) | General | Bluff 1 rank, ki pool class feature, gnome |
 | [Bilge Rat](bilge-rat.md) | — | — |
 | [Biological Lattice](biological-lattice.md) | General | Gathlain, racial fly speed |
 | [Black Market Dealings](black-market-dealings.md) | General | — |
@@ -1632,6 +1635,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Cat and Mouse](cat-and-mouse.md) | Combat | Bluff 5 ranks, Sense Motive 5 ranks, opportune parry and riposte deed |
 | [Cataract](cataract.md) | Blood Hex | Int 13, Perception 5 ranks, Use Magic Device 1 rank |
 | [Cat’s Fall](cat-s-fall.md) | — | Dex 13, Acrobatics 1 rank |
+| [Caustic Slur](caustic-slur.md) | General | Bluff 1 rank, favored enemy class feature, gnome |
 | [Cecaelia Focus Tattoo](cecaelia-focus-tattoo.md) | — | Cecaelia |
 | [Centered Spell](centered-spell.md) | Metamagic | Spellcraft 3 ranks |
 | [Chain Challenge](chain-challenge.md) | — | Challenge class feature, character level 7th |
@@ -1833,6 +1837,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Edge Runner](edge-runner.md) | — | Dex 13 |
 | [Eerie Sense](eerie-sense.md) | — | Ability to cast *detect undead* or *detect evil* as a spell or spell-like ability, worshiper of a deity of death and fate |
 | [Eerily Centered](eerily-centered.md) | General | Bleachling racial trait, gnome |
+| [Effortless Trickery](effortless-trickery.md) | General | Gnome |
 | [Eldritch Aid](eldritch-aid.md) | — | Caster level 1st |
 | [Eldritch Assault](eldritch-assault.md) | — | Blind-Fight, Improved Initiative |
 | [Electric Eel Conduit](electric-eel-conduit.md) | Combat, Style | Wis 17, Electric Eel Shock, Electric Eel Style, Elemental Fist, Improved Unarmed Strike, base attack bonus +13 or monk level 9th |
@@ -1880,6 +1885,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Extra Contingency](extra-contingency.md) | — | Character level 19th |
 | [Extra Croaking](extra-croaking.md) | — | Boggard, terrifying croak |
 | [Extra Feature](extra-feature.md) | — | Con 13, skinwalker |
+| [Extra Gnome Magic](extra-gnome-magic.md) | General | Cha 13, gnome |
 | [Extra Impromptu Sneak Attack](extra-impromptu-sneak-attack.md) | Combat | Impromptu sneak attack class feature |
 | [Extra Item Slot](extra-item-slot.md) | — | Non-humanoid body shape |
 | [Extra Light and Dark](extra-light-and-dark.md) | — | Light and dark racial trait, wayang |
@@ -2023,6 +2029,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Healing Potion](healing-potion.md) | Versatile Brewing | Brew Potion, ability to cast *cure serious wounds* |
 | [Heaven's Light](heavens-light.md) | Conduit | Knowledge (planes) 1 rank |
 | [Hellish Shackles](hellish-shackles.md) | — | Channel energy 5d6, worshiper of an archdevil or infernal noble |
+| [Helpless Prisoner](helpless-prisoner.md) | General | Bluff 5 ranks, Escape Artist 1 rank, gnome |
 | [Hemorrhaging Venom](hemorrhaging-venom.md) | Combat | Spit Venom, Virulent Venom, base attack bonus +7, nagaji |
 | [Heroic Interposition](heroic-interposition.md) | Combat | Dex 13, Dodge, Improved Initiative, Mobility, worshiper of a good demigod or angelic lord |
 | [Heroic Leader](heroic-leader.md) | Combat | Cha 13, any combat feat, ability to gain an animal companion, cohort, eidolon, familiar, or mount |
@@ -2111,6 +2118,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Jumper](jumper.md) | — | Acrobatics 1 rank, creature type other than humanoid or outsider |
 | [Just out of Reach](just-out-of-reach.md) | Combat | Dex 13, Dodge, Mobility |
 | [Ki Channel](ki-channel.md) | — | Channel positive energy class feature, worshiper of a deity of perfection and knowledge |
+| [Kindred Pretense](kindred-pretense.md) | General | Bluff 1 rank, bloodline class feature, gnome |
 | [Kinetic Crafting](kinetic-crafting.md) | — | Kineticist level 3rd |
 | [Kinetic Invocation](kinetic-invocation.md) | — | Kineticist level 1st, elemental focus class feature |
 | [Kinslayer](kinslayer.md) | — | Knowledge 3 ranks (see special), evil alignment |
@@ -2314,6 +2322,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Practiced Ritualist](practiced-ritualist.md) | — | Knowledge (arcana, history, planes, and religion) 1 rank |
 | [Press to the Wall](press-to-the-wall.md) | Combat | Step Up, base attack bonus +3 |
 | [Primal Bloom](primal-bloom.md) | Conduit | Knowledge (planes) 10 ranks |
+| [Primal Bluff](primal-bluff.md) | General | Bluff 1 rank, wild shape class feature, gnome |
 | [Protective Channel](protective-channel.md) | — | Channel energy 7d6, worshiper of a deity of valor and justice |
 | [Protective Line](protective-line.md) | Combat, Teamwork | Exotic Weapon Proficiency (firearms) |
 | [Protector’s Strike](protector-s-strike.md) | — | Base attack bonus +5, smite evil class feature |
@@ -2590,6 +2599,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Tail Weapon](tail-weapon.md) | Combat | Base attack bonus +1, serpentfolk |
 | [Take a Breather](take-a-breather.md) | Combat | Con 13, Combat Vigor, character level 4th |
 | [Tandem Evasion](tandem-evasion.md) | Combat, Teamwork | Dex 13, Dodge |
+| [Tantrum](tantrum.md) | Combat | Bluff 1 rank, rage class feature, gnome |
 | [Targeted Blow](targeted-blow.md) | Weapon Mastery | Str 13, Power Attack, base attack bonus +9, weapon training class feature with a melee weapon |
 | [Tattoo Attunement](tattoo-attunement.md) | General | Inscribe Magical Tattoo; Spellcraft 5 ranks |
 | [Tattoo Conversion](tattoo-conversion.md) | General | Inscribe Magical Tattoo; Tattoo Attunement; Spellcraft 15 ranks; ability to cast control summoned creature |
@@ -2721,6 +2731,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Wind Song](wind-song.md) | — | Perform (wind instruments) 5 ranks; bardic performance or raging song class feature |
 | [Wind Strike](wind-strike.md) | Combat, Style | Dex 13, Wis 13, Elemental Discipline Style (wind), Quick Draw, base attack bonus +9 or monk level 9th |
 | [Wingclipper](wingclipper.md) | Combat | Base attack bonus +9 |
+| [Witty Feint](witty-feint.md) | Combat | Bluff 1 rank, weapon training class feature, gnome |
 | [Worst Case Jinx](worst-case-jinx.md) | General | Knowledge (arcana) 5 ranks, Halfling Jinx racial trait |
 | [Wrest Charge](wrest-charge.md) | — | Disable Device 5 ranks, Knowledge (engineering) 5 ranks |
 | [Wretched Curator](wretched-curator.md) | Story | You have purchased a scroll or spellbook containing a spell with the evil descriptor in a place where such dealings are illegal. |

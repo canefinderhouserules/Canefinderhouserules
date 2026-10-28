@@ -223,3 +223,5 @@ The following text is the property of Wizards of the Coast, Inc. and is Copyrigh
     Pathfinder Player Companion: Haunted Heroes Handbook © 2016, Paizo Inc.; Authors: Alexander Augunas, Thurston Hillman, Isabelle Lee, Stephen Rowe, and Christopher Wasko.
 
     Pathfinder Player Companion: Halflings of Golarion. Copyright 2010, Paizo Publishing, LLC; Authors: Hal MacLean and Amber E. Scott.
+
+    Pathfinder Companion: Gnomes of Golarion. Copyright 2010, Paizo Publishing, LLC; Authors: Hal Maclean, Colin McComb, Mark Moreland, Jeff Quick, Sean K Reynolds, Steven Schend, and Owen K. C. Stephens.
