@@ -275,6 +275,7 @@ New inquisitor spells from *Ultimate Magic*. Spells from other books will be add
 - **[Beacon of Luck](beacon-of-luck.md)**: Allies may roll saves twice.
 - **[Bestow Planar Infusion II](bestow-planar-infusion-ii.md)**: Grant a target the effects of an improved planar infusion
 - **[Blade of Light](blade-of-light.md)**: Weapon shines with sunlight, harming undead.
+- **[Blightburn Weapon](blightburn-weapon.md)**: Turn a weapon into radioactive blightburn.
 - **[Brand of Tracking](brand-of-tracking.md)**: Brand a creature so you can locate it.
 - **[Brightest Light](brightest-light.md)**: Longer-lasting daylight that can dispel darkness.
 - **[Burst of Glory](burst-of-glory.md)**: Allies gain attack and fear-save bonuses and temporary hit points.

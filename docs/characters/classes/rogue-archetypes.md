@@ -1043,3 +1043,19 @@ Where bandits and tyrants prey on merchants and caravans, the nameless shadow pr
 **Harmless Guise (Ex)**: A nameless shadow gains the dual identity and seamless guise vigilante class features, with the following restrictions. Her social identity must be that of a mundane and nonthreatening member of society, such as a farmer or a merchant. At 6th level, the nameless shadow gains the many guises vigilante social talent. At 8th level, the nameless shadow gains the quick change vigilante social talent. At 14th level, the nameless shadow gains the everyman vigilante social talent. At 18th level, the nameless shadow gains the any guise vigilante social talent. Additionally, when a nameless shadow attacks a foe while in a social or mundane identity, her target takes a –2 penalty to AC for the purpose of resolving that attack. This use of harmless guise forces the nameless shadow into her vigilante identity after the attack is completed, and the target (if it survives) then becomes aware of the nameless shadow's secret. This ability cannot be used on targets that are aware of the nameless shadow's dual identity. This replaces trapfinding and the rogue talents gained at 2nd, 6th, 10th, 14th, and 18th levels.
 
 **Face in the Crowd (Ex)**: At 4th level, so long as there are at least 10 other nonhostile creatures within 30 feet of her, a nameless shadow can use Bluff or Disguise in place of Stealth to hide or for sniping. At 8th level, she can use this ability to hide within a crowd even if she is being observed. This replaces the rogue talents gained at 4th and 8th levels.
+
+## Snare Setter
+
+Deep in darkness, the snare setter constructs deadly traps and brutal mechanisms to confound and destroy any who try to invade his domain.
+
+**Trapper (Ex)**: At 1st level, a snare setter gains [Learn Ranger Trap](../../rules/feats/learn-ranger-trap.md) as a bonus feat. In addition to the trap granted by this feat, he learns how to construct the tripwire trap for free. For the purposes of this feat, he is considered a ranger of his snare setter level, and uses his Intelligence in place of Wisdom to determine uses per day and the DC of his ranger traps. Whenever the snare setter could learn a new rogue talent, he may instead learn a new ranger trap. This ability replaces sneak attack (but see below).
+
+**Trapsmithing (Ex)**: A snare setter gains a bonus on Perception skill checks to detect traps and on Craft (traps) checks equal to 1/2 his snare setter level. He can use Craft (traps) in place of Disable Device to disarm traps, including magical traps. This ability replaces trapfinding.
+
+**Deadly Traps (Ex)**: At 3rd level, the snare setter's traps deal an additional 1d6 points of damage on the first round they're activated. This damage is of the same type the trap normally deals. Traps that don't deal damage are unaffected by this ability. This additional damage increases by 1d6 points every 4 levels beyond 3rd (7th, 11th, 15th, and 19th).
+
+**Sneak Attack (Su)**: At 5th level, the snare setter gains sneak attack +1d6. This functions as the rogue ability of the same name, but the damage increases by 1d6 every 4 levels after 5th (9th, 13th, and 17th).
+
+**Master Snare Setter (Ex)**: At 20th level, the snare setter can attach one of a rogue's master strike effects to a trap he creates. When the trap is triggered, the subject makes an additional Fortitude save at the same DC as the trap to avoid this effect. A snare setter can have only one trap affected by this ability active at any time. He may remove this ability from a trap at any range as a free action. This ability replaces master strike.
+
+**Rogue Talents**: The following rogue talents complement the snare setter archetype: camouflage, cunning trigger, fast stealth, sniper's eye.

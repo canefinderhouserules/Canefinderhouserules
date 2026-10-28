@@ -208,6 +208,7 @@
 - **[Ironskin](ironskin.md)**: Harden your skin to iron
 - **[Know Peerage](know-peerage.md)**: Target uses your Knowledge (nobility) ranks.
 - **[Lay of the Land](lay-of-the-land.md)**: Instantly learn the geography around you.
+- **[Lead Plating](lead-plating.md)**: Sheathe a target in lead to block radiation and divinations.
 - **[Life Channel](life-channel.md)**: Component V, S Range touch Target one touched creature with negative energy affinity Duration 1 minute/level.
 - **[Light Prison](light-prison.md)**: Cage of light damages and blinds those who leave it.
 - **[Magic Boulder](magic-boulder.md)**: Enchant boulders for throwing
@@ -319,6 +320,7 @@
 - **[Curse of Befouled Fortune](curse-of-befouled-fortune.md)**: curse a target so it rolls twice and takes the worse result
 - **[Cursed Treasure](cursed-treasure.md)**: Curse treasure so the next thief is afflicted
 - **[Damnation](damnation.md)**: Punish creatures for evil spells they know or that affect them.
+- **[Dark-Light](dark-light.md)**: Blind or dazzle creatures that lack light sensitivity.
 - **[Daybreak Arrow](daybreak-arrow.md)**: Targeted ammunition exudes radiant energy.
 - **[Daylight](daylight.md)**: 60-ft. radius of bright light.
 - **[Deadly Juggernaut](deadly-juggernaut.md)**: Your might increases with every kill you make.

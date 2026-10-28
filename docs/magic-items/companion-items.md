@@ -5014,3 +5014,141 @@ This piece of sooty coal has a tiny bit of flint embedded in it. The bearer of a
 This jagged, egg-shaped stone emits a faint red glow when not in direct sunlight. By rubbing a scavenger's stone against a damaged (but not destroyed) construct or object as a full-round action, you repair 1d6 points of damage to the object or construct. If this brings a broken object's hit points above half its maximum hit points, it loses the broken condition. As a standard action, you can smash a scavenger's stone against a destroyed object or damaged construct. Doing so immediately repairs the object to full functionality or heals a damaged construct of 10d6 points of damage. Destroyed magic items can be repaired in this manner if their caster level is no higher than 3rd—more powerful destroyed magical items cannot be repaired by a scavenger's stone. A newly created scavenger's stone has 50 charges—smashing a stone against an object uses up 10 charges.
 
 **Construction Requirements:** Craft Wondrous Item, *make whole*; **Cost** 1,000 gp
+
+## Kobold Items
+
+### Bloatstrike Tail
+
+**Slot** none; **CL** 3rd; **Price** 5,901 gp; **Weight** 4 lbs.
+
+**Aura** faint transmutation
+
+Three times per day, the wielder of this +1 *pounder tail attachment* can force any creature it strikes to increase in size by one size category (Fort DC 11 negates) for 3 rounds. An enlarged creature takes a –2 penalty to Dexterity (to a minimum of 1), a –1 penalty on attack rolls, and a –1 penalty to AC because of its increased size, as the spell *enlarge person*. However, an enlarged creature doesn't gain the usual size bonus to Strength.
+
+If a creature fails its saving throw but can't enlarge any more because of the environment, it begins squeezing. A creature stops growing if growing larger would make it so large that it would be unable to squeeze.
+
+**Construction Requirements:** Craft Magic Arms and Armor, *enlarge person*; **Cost** 3,101 gp
+
+### Displacing Stone
+
+**Slot** none; **CL** 11th; **Price** 430 gp; **Weight** —
+
+**Aura** moderate transmutation
+
+Upon activation, this pulsing white pebble creates an instantaneous burst of reverse gravity, which clears a 5-foot-diameter sphere of any loose stone or earth. The *displacing stone* then holds the affected stone or earth in place, keeping a collapsed tunnel clear for 1 minute. Once the duration ends, the loose earth collapses if it's not supported. Displacing stones are destroyed when used, and don't affect living creatures. Activating a displacing stone is a standard action that doesn't provoke attacks of opportunity.
+
+**Construction Requirements:** Craft Wondrous Item, *move earth*; **Cost** 215 gp
+
+### Dragon Herald Vestments
+
+**Slot** body; **CL** 3rd; **Price** 30,000 gp; **Weight** 1 lb.
+
+**Aura** faint abjuration
+
+A set of *dragon herald vestments* is covered in scales of one of five different colors, and grants resist energy 5 of one type (as the *resist energy* spell) to the wearer: acid for black or green, electricity for blue, fire for red, or cold for white. If the wearer is a kobold with scales matching one of those five colors, she can speak a command word in Draconic to change the vestments' scales to the same color as her own, or back to the color chosen when the vestments were constructed. Altering the scales' color is a standard action that provokes attacks of opportunity.
+
+**Construction Requirements:** Craft Magic Arms and Armor, *resist energy*; **Cost** 15,000 gp
+
+### Dwindling Bullet
+
+**Slot** none; **CL** 3rd; **Price** 166 gp; **Weight** —
+
+**Aura** faint transmutation
+
+This +1 sling bullet is slightly smaller than an average steel bullet, but incredibly dense. It's usually used by kobolds to shrink down foes or prey, weakening them and making them more vulnerable to combat maneuvers. The target must succeed at a DC 11 Fortitude save or decrease in size by one size category for 1d4 rounds, as the spell *reduce person*.
+
+**Construction Requirements:** Craft Magic Arms and Armor, *reduce person*; **Cost** 86 gp
+
+### Imploding Stone
+
+**Slot** none; **CL** 11th; **Price** 3,300 gp; **Weight** —
+
+**Aura** moderate transmutation
+
+When activated, this black pebble acts as a limited gravitational singularity. Once the command word is spoken, the pebble delays for 1 round, then pulls all stone or earth within a 5-foot-diameter sphere toward it with irresistible force. This causes small tunnels to collapse inward, creating localized cave-ins. *Imploding stones* do not affect living creatures, though any creature in the same square as an activated imploding stone is caught in the bury zone of the collapse. Imploding stones are destroyed when used. Activating an imploding stone is a standard action that doesn't provoke attacks of opportunity.
+
+**Construction Requirements:** Craft Wondrous Item, *move earth*; **Cost** 1,650 gp
+
+### Irradiating Tail
+
+**Slot** none; **CL** 5th; **Price** 5,315 gp; **Weight** 1 lb.
+
+**Aura** moderate conjuration
+
+The end of this +1 *viridium long lash tail attachment* is a shard of toxic green rock. As with other viridium weapons, a successful hit with an *irradiating tail* causes the target to contract leprosy, and a critical hit can also poison the target with greenblood oil. However, unlike most viridium weapons, the wielder is magically immune to its toxic effects. The viridium has been strengthened, so the weapon isn't fragile.
+
+**Construction Requirements:** Craft Magic Arms and Armor, *remove disease*; **Cost** 2,815 gp
+
+### Levitating Land Mine
+
+**Slot** none; **CL** 5th; **Price** 750 gp; **Weight** 3 lbs.
+
+**Aura** faint transmutation
+
+Once the command word is spoken, this steel disc burrows 3 inches into the ground. To find it, a character with the trapfinding ability must succeed at a DC 25 Perception check. Planting the mine is a full-round action that provokes attacks of opportunity.
+
+Once the mine is set, any creature that steps into its square must succeed at a DC 14 Will save or the mine levitates the creature 5 inches above the ground. A levitated creature can attack but not move, is denied its Dexterity bonus to AC, and takes a –4 penalty to CMD against bull rush, drag, and reposition combat maneuvers. Flying creatures are immune. The creature can attempt a new save each round to end the effect. The effect ends after 5 rounds, with a successful DC 25 Disable Device check, or with a successful saving throw. The land mine is destroyed when the effect ends.
+
+**Construction Requirements:** Craft Wondrous Item, *hostile levitation*, *snare*; **Cost** 375 gp
+
+### Paralyzing Snare
+
+**Slot** none; **CL** 9th; **Price** 2,250 gp; **Weight** 2 lbs.
+
+**Aura** moderate enchantment
+
+Once the command word is spoken, this 5-foot-diameter loop of wire blends with its surroundings. To find it, a character with the trapfinding ability must succeed at a DC 30 Perception check. Setting the snare is a full-round action that provokes attacks of opportunity. Any creature that steps into the snare must succeed at a DC 26 Will save or become magically paralyzed, as the spell *hold monster*. This effect can be ended by uttering the command word, succeeding at a DC 30 Disable Device check, or succeeding at the Will save. The snare is destroyed when the effect ends.
+
+**Construction Requirements:** Craft Wondrous Item, *snare*, *hold monster*; **Cost** 1,125 gp
+
+### Scarecrow Lure
+
+**Slot** none; **CL** 1st; **Price** 850 gp; **Weight** 40 lbs.
+
+**Aura** faint illusion and transmutation
+
+This life-sized scarecrow is garbed in old clothing and armor. At its center is the real skeleton of a former adventurer. A *scarecrow lure* is enchanted to writhe and cry out for help as if wounded. The lure's voice is usually that of the adventurer whose remains are inside, though the creator may choose any voice when creating the item. Anyone who hears or sees a scarecrow lure can attempt a DC 11 Will save to disbelieve the effect. Activating a scarecrow lure is a standard action that doesn't provoke attacks of opportunity.
+
+**Construction Requirements:** Craft Wondrous Item, *mage hand*, *ventriloquism*; **Cost** 450 gp
+
+### Trapped Beverage
+
+**Slot** none; **CL** 3rd; **Price** 300 gp; **Weight** 2 lbs.
+
+**Aura** faint conjuration
+
+This brightly labeled bottle or waterskin could appear to contain any number of different beverages, from absinthe to wine. However, it's actually a magical trap, and when the bottle is opened, a spider swarm pours out. The swarm stays in the area for 3 rounds, then disappears. Detecting that the bottle is trapped requires a successful DC 25 Perception check made by a character with the trapfinding ability, and disabling it requires a successful DC 25 Disable Device check. After being triggered, the *trapped beverage* remains a mundane bottle or wineskin.
+
+**Construction Requirements:** Craft Wondrous Item, *summon swarm*; **Cost** 150 gp
+
+### Trapped Puzzle Box
+
+**Slot** none; **CL** 5th; **Price** 750 gp; **Weight** 1/2 lb.
+
+**Aura** faint evocation
+
+Solving this simple kinetic puzzle involves removing several pegs from a handheld wooden cube. However, removing the final peg triggers the magical trap. The box explodes in the victim's hands, dealing 6d6 points of fire damage (Reflex DC 14 for half). Detecting that the box is trapped requires a successful DC 30 Perception check made by a character with the trapfinding ability, and disabling it requires a successful DC 30 Disable Device check.
+
+**Construction Requirements:** Craft Wondrous Item, *explosive runes*; **Cost** 375 gp
+
+### Trapped Sword
+
+**Slot** none; **CL** 1st; **Price** 850 gp; **Weight** 4 lbs.
+
+**Aura** faint evocation
+
+This longsword glows and has an aura, making it appear valuable. Its grip is hollow and can be filled with a dose of poison (bought separately, and requiring a full-round action to refill and rearm). Once the sword is grasped, its mechanical trap engages: small needles in the grip deliver the poison. Detecting the trap requires a successful DC 30 Perception check made by a character with the trapfinding ability, and disabling it requires a successful DC 28 Disable Device check.
+
+**Construction Requirements:** Craft Wondrous Item, Learn Ranger Trap, *light*, *magic aura*; **Cost** 175 gp
+
+### Trapmaster's Spellbook
+
+**Slot** none; **CL** 11th; **Price** 8,000 gp; **Weight** 2 lbs.
+
+**Aura** moderate evocation
+
+Kobold archmages who follow the tradition of a famously paranoid kobold spellcaster make spellbooks in which every spell inscribed becomes a trap. They seek out the finest materials, like shed dragonscales, skins from trapped intruders in the tunnels, or the hides of the creators' failed apprentices.
+
+Each spell inscribed in this book becomes a *greater glyph of warding* (DC 19, spell glyph) containing the spell recorded. When an unauthorized person reads a spell, the glyph triggers against him. This destroys the pages on which the spell is written, but leaves the rest of the book unharmed. Pages containing harmless spells or spells that can't be attached to a glyph are unaffected.
+
+**Construction Requirements:** Craft Wondrous Item, *erase*, *greater glyph of warding*, creator must be a kobold; **Cost** 4,000 gp

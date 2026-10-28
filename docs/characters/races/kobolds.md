@@ -50,6 +50,26 @@ The following racial traits may be selected instead of existing kobold racial tr
 
 **Jester**: Some kobolds swallow their pride and survive by groveling, placating, and amusing the powerful. Kobolds with this racial trait gain a +2 racial bonus on Diplomacy and Perform checks. Diplomacy and Perform are always class skills for them. This racial trait replaces crafty.
 
+**Day Raider**: You're one of the few kobolds born with a greater tolerance for sunlight. You don't have light sensitivity, and you have low-light vision instead of darkvision.
+
+**Dragonmaw**: Your powerful jaws and teeth are proof of your kinship to a chromatic dragon. You gain a bite attack that deals 1d4 points of damage. Once per day, you can deal 1d6 points of additional energy damage with your bite attack. The damage type depends on your scale color: acid damage for black or green, electricity for blue, fire for red, or cold for white. If you have a different scale color, you still gain the bite attack, but can't do the additional energy damage. This racial trait replaces the armor racial trait.
+
+**Echo Whistler**: By observing the noises in underground tunnels, you learned to uncannily mimic any voice or sound you heard. Three times per day, you can attempt to trick someone in this way by making a Bluff check against the listener's Sense Motive check. You get a +2 circumstance bonus on this check if you're in tunnels or other structures where your voice can echo. This racial trait replaces crafty.
+
+**Frightener**: Like the great dragons, you can strike fear in the hearts of your foes with your majestic presence. You gain a +1 racial bonus to the DC of saving throws against spells you cast with the fear descriptor. This racial trait replaces the armor racial trait.
+
+**Prehensile Tail**: Your tail is especially flexible and strong, so you've learned to use it for both movement and simple tricks. You gain a +2 racial bonus on Acrobatics and Climb checks, and you can use your tail to draw a hidden weapon as a move action instead of as a standard action. This racial trait replaces the armor racial trait.
+
+**Secret Strider**: You have the ability to traverse the wilderness without a trace. Twice per day, you can move through natural surroundings without leaving a trail for 1 minute, increasing the DC of any attempts to track you by 10. This racial trait replaces crafty.
+
+**Shoulder to Shoulder**: Having lived and worked in close quarters with your tribe-mates, you've learned how to maneuver within their personal space without disturbing them. You can occupy the same space as one other Small ally without penalty. If you share a space with another kobold who has this trait, you each gain a +1 circumstance bonus to AC, as you help jostle one another out of the way of incoming attacks. You also gain a +1 racial bonus on aid another rolls. This racial trait replaces crafty.
+
+**Spellcaster Sneak**: Traversing the tunnels near big, nasty, hungry creatures, you learned to keep quiet, and to keep your spells quiet too. You gain a +2 racial bonus on Stealth checks, and once per day you can gain the benefit of the Silent Spell feat on a spell you cast. This racial trait replaces crafty.
+
+**Wild Forest Kobold**: You're one of the barbaric kobolds dwelling in the forests of the surface world. Your culture shuns artifice, but teaches how to endure and hunt. You gain a +2 racial bonus on Perception and Survival checks, and Stealth and Survival are always class skills for you. This racial trait replaces crafty.
+
+**Wyrmcrowned**: Your horns have grown to the extent that they appear similar to those of a dragon who shares your scale color, lending a draconic power or menace to your dealings with others. Choose either Diplomacy or Intimidate. You gain a +2 racial bonus on checks with that skill, and it is always a class skill for you. This racial trait replaces crafty.
+
 ## Favored Class Options
 
 See the [Advanced Race Guide section of the racial favored class options](../favored-class-bonuses/racial-favored-class-options.md#kobolds-advanced-race-guide).
@@ -57,6 +77,9 @@ See the [Advanced Race Guide section of the racial favored class options](../fav
 ## Archetypes and Class Options
 
 - [Bushwhacker](../classes/gunslinger-archetypes.md#bushwhacker) (gunslinger)
+- [Dragon Herald](../classes/bard-archetypes.md#dragon-herald) (bard)
+- [Snare Setter](../classes/rogue-archetypes.md#snare-setter) (rogue)
+- [Swarm Fighter](../classes/fighter-archetypes.md#swarm-fighter) (fighter)
 
 These archetypes are typically only taken by kobolds, but members of other races, with the GM's permission, can take them as well.
 
@@ -109,8 +132,19 @@ While a kobold is wearing a kobold tail attachment, the attack deals the tail at
 - [Draconic Breath](../../rules/feats/draconic-breath.md)
 - [Draconic Glide](../../rules/feats/draconic-glide.md)
 - [Draconic Paragon](../../rules/feats/draconic-paragon.md)
+- [Ancient Draconic](../../rules/feats/ancient-draconic.md)
 - [Kobold Ambusher](../../rules/feats/kobold-ambusher.md)
+- [Kobold Confidence](../../rules/feats/kobold-confidence.md)
+- [Kobold Flood](../../rules/feats/kobold-flood.md)
+- [Kobold Groundling](../../rules/feats/kobold-groundling.md)
 - [Kobold Sniper](../../rules/feats/kobold-sniper.md)
+- [Kobold Style](../../rules/feats/kobold-style.md)
+- [Merciless Magic](../../rules/feats/merciless-magic.md)
+- [Merciless Precision](../../rules/feats/merciless-precision.md)
+- [Mixed Scales](../../rules/feats/mixed-scales.md)
+- [Redeemed Kobold](../../rules/feats/redeemed-kobold.md)
+- [Scaled Disciple](../../rules/feats/scaled-disciple.md)
+- [Small but Deadly](../../rules/feats/small-but-deadly.md)
 - [Tail Terror](../../rules/feats/tail-terror.md)
 
 ## Magic Items
@@ -120,4 +154,23 @@ While a kobold is wearing a kobold tail attachment, the attack deals the tail at
 
 ## Spells
 
+- [Blightburn Weapon](../../magic/spells/blightburn-weapon.md)
+- [Chameleon Scales](../../magic/spells/chameleon-scales.md)
+- [Dark-Light](../../magic/spells/dark-light.md)
+- [Enlarge Tail](../../magic/spells/enlarge-tail.md)
 - [Improve Trap](../../magic/spells/improve-trap.md)
+- [Lead Plating](../../magic/spells/lead-plating.md)
+- [Shadow Dragon Aspect](../../magic/spells/shadow-dragon-aspect.md)
+- [Strip Scales](../../magic/spells/strip-scales.md)
+- [Unseen Engineers](../../magic/spells/unseen-engineers.md)
+
+## Kobold Familiars
+
+To kobolds, a familiar is above all a loyal servant, one that will never question the absolute power and authority of its master.
+
+- **Bat**: Though their Fly bonus is of limited use underground, bats' sonar is a powerful tool for masters who play the role of the hunted as often as they do that of the hunter.
+- **Lizard**: As a fellow reptile, the lizard shares the cold-bloodedness of its master.
+- **Scarlet spider**: Spiders excel in dark, underground places, making excellent spies. An immunity to mind-affecting effects further guarantees their loyalty.
+- **Toad**: Also cold-blooded, a toad is amphibious, a useful feature in dank, dripping underground caverns. The bonus hit points a toad grants are invaluable to the frail kobold race.
+
+Kobold wizards shy away from more intelligent creatures (such as imps or mephits) as familiars, instead choosing creatures less likely to talk back. They commonly bond with dire rats, fiendish animals, or impassive elementals that match the breath weapon of a dragon the kobold reveres. Good-aligned kobold wizards favor faerie dragons and pseudodragons; evil ones favor raktavarna rakshasas, whose inherent desire to serve and aptitude for spying suit them well.

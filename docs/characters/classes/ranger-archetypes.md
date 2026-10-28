@@ -14,6 +14,16 @@ Setting a trap is a full-round action that provokes attacks of opportunity. A tr
 
 Ranger traps are either extraordinary or supernatural; extraordinary traps are Type: mechanical, and supernatural traps are Type: magic. Some of the traps listed below may be set as extraordinary traps or as magical (supernatural) traps; learning such a trap lets a ranger set it either way. An extraordinary trap has a –2 penalty to its DC. An extraordinary trap lasts 1 day per ranger level or until it is triggered, whichever comes first. A magical trap lasts only 1 hour per level or until triggered, whichever comes first. A trap’s DC decreases by 1 for each full day (or hour, for a magical trap) that passes after it is set. Traps marked with an asterisk (\*) add to or modify the effects of another trap; a ranger can add one of these trap types to any standard ranger trap (this costs 1 additional use of the trap ability).
 
+**Magical Components**: A character who isn't a ranger but has the Learn Ranger Trap feat can create a supernatural ranger trap by including an additional magical component, usually a scroll, potion, or oil, which is expended when the trap is created. Including it increases the time to lay the trap to 1 full minute. Traps below list their magical component where one applies. Traps marked with an asterisk (\*) add to or modify the effects of another trap; a ranger can add one of these trap types to any standard ranger trap (this costs 1 additional use of the trap ability).
+
+### Acid Trap (Ex or Su)
+
+**Effects**
+
+Effect The target is splattered with acid, taking a number of points of acid damage equal to 1d6 + 1/2 the ranger's level (Reflex negates). If it is an extraordinary trap, the ranger must supply a dose of acid when setting the trap.
+
+**Magical Component** *scroll of corrosive touch*
+
 ### Alarm Trap\* (Ex or Su)
 
 **Effects**
@@ -25,6 +35,12 @@ Effect When the trap is triggered, it also creates a momentary loud noise equiva
 **Effects**
 
 Effect This trap can be added to a supernatural snare trap. The trap briefly imprisons any called creature (such as those called by the *planar binding* spells) for 1d4 rounds (Will negates). During this time the creature may not move from the location of the trap, though it may still use ranged effects and attack any creature within its reach. Additionally, anchoring traps disable the creature's ability to travel within or between dimensions. This includes casting *astral projection*, *blink*, *dimension door*, *dimensional gate*, *ethereal jaunt*, *etherealness*, *gate*, *maze*, *plane shift*, *shadow walk*, *teleport*, *teleportation circle*, and similar spell-like abilities. The trap does not prevent the creature from using magic items that produce these effects, like *cubic gates*, *helms of teleportation*, or *amulets of the planes*. The trap can hold up to a Medium creature; each extra daily use of the ranger's trap ability spent when the trap is set increases the maximum size of creature the trap can hold by one size category.
+
+### Blightburn Trap (Ex)
+
+**Effects**
+
+Effect This trap strikes the target with a small shard of blightburn, dealing 2d6 points of fire damage, 1d3 points of Constitution damage, and 1d3 points of Charisma damage. A successful Fortitude save negates the ability damage and halves the fire damage. The ranger must supply a sliver of blightburn, a dangerous task in itself, though storing the blightburn in a lead vial makes the task less risky.
 
 ### Bludgeoning Trap (Ex or Su)
 
@@ -38,6 +54,12 @@ Effect The trap bludgeons the creature that triggers it. The trap makes an attac
 
 Effect A ranger can only add this to a fire trap. If the triggering creature fails its Reflex save, it catches on fire, taking 1d6 points of fire damage at the start of its turn for 1d4 rounds. The burning creature can attempt a new save as a full-round action. Dropping and rolling on the ground grants a +4 bonus on this save.
 
+### Channeled Energy Trap (Ex or Su)
+
+**Effects**
+
+Effect This trap creates a positive or negative energy effect designed to harm either undead or living creatures, respectively. The target takes a number of points of damage equal to 1d8 + the ranger's level from either positive energy or negative energy (Will save for half). If this is an extraordinary trap, the ranger must supply a vial of holy water (positive energy) or unholy water (negative energy).
+
 ### Decoy Trap (Su)
 
 **Effects**
@@ -49,6 +71,14 @@ Effect The trap creates a shadowy humanoid figment that appears to move away fro
 **Effects**
 
 Effect If the triggering creature fails its saving throw against the trap or is struck by the trap's attack, the trap also attempts a dirty trick combat maneuver against the triggering creature. The type of dirty trick is chosen when the trap is created, and if it isn't possible or isn't applicable to the triggering creature, the combat maneuver is wasted. The trap's CMB for the dirty trick is equal to the ranger's level + his Wisdom modifier.
+
+### Distraction Trap (Ex or Su)
+
+**Effects**
+
+Effect The target is affected with irritation that detracts from its alertness. It takes a –2 penalty on Perception checks, initiative checks, and Reflex saves for 10 minutes per ranger level. If this is a supernatural trap, this is a mind-affecting effect. If this is an extraordinary trap, the ranger must supply a dose of itching powder or another alchemical irritant.
+
+**Magical Component** *scroll of daze monster*
 
 ### Exploding Trap\* (Ex or Su)
 
@@ -74,6 +104,12 @@ Effect A ranger can add this augmentation to a fire or smoke trap. The trap expl
 
 Effect The trap creates a burst of ice that damages and encases the triggering creature. The creature takes 1d3 points of cold damage + 1/4 the ranger’s level and is entangled and stuck to the ground, similar to the effect of a tanglefoot bag. A successful Reflex save halves the damage and means the creature is not stuck to the floor by the ice. The ice is 1 inch thick per 2 Hit Dice of the ranger (minimum 1), has hardness 0 and 3 hit points per inch of thickness, and melts in 2d4 rounds.
 
+### Lazurite Trap (Ex or Su)
+
+**Effects**
+
+Effect Lazurite radiation increases the victim's susceptibility to the attacks of undead creatures that are bolstered by the radiation. The target takes a –2 penalty to Armor Class against the attacks of undead creatures and on saving throws against effects created by undead. This effect lasts for 10 minutes per ranger level. A successful Will save negates this effect. If this is an extraordinary trap, the ranger must supply a sliver of lazurite.
+
 ### Limning Trap (Ex or Su)
 
 **Effects**
@@ -86,11 +122,25 @@ Effect This trap sprays glowing dust into the trapped square and all adjacent sq
 
 Effect If the triggering creature fails its save against the trap, it is marked with a dye and/or scent of the ranger’s choosing. A scent mark decreases the DC of tracking the marked creature by scent by 4. The mark can be washed off with vigorous scrubbing, but fades on its own over several days.
 
+### Oversized Barbs (Ex or Su)
+
+**Effects**
+
+Effect The target is speared with barbs that penetrate and protrude from its body, making squeezing, climbing, and swimming challenging. The trap implants 1d4+1 barbs, each dealing 1 point of damage. A successful Reflex save halves the number of barbs. The target takes a penalty on Climb checks and Swim checks equal to the number of barbs attached, and is considered one size category larger for the purposes of determining what size of opening or passageway it must squeeze through as long as at least 1 barb remains attached. Each barb can be removed with a full minute of work and a Heal check that equals or exceeds the trap's DC. If this check fails, the barb is still removed but the target takes 1d4 points of damage. The barbs shake loose harmlessly after 10 minutes per ranger level.
+
 ### Penetrating Trap\* (Ex or Su)
 
 **Effects**
 
 Effect A ranger can only add this to a wounding trap. The damage die of a penetrating trap increases to 1d8. Choose either adamantine, cold iron, or silver. The trap counts as that material for the purposes of overcoming damage reduction. If this is an extraordinary trap, the ranger must provide 1 pound of the chosen material during the trap's construction.
+
+### Pit Trap (Ex or Su)
+
+**Effects**
+
+Effect This simple pit is covered over with leaves or appropriate materials for the area. It is 5 feet deep plus 5 feet for every 4 ranger levels. A victim that succeeds at a Reflex save doesn't fall into the pit. If it is an extraordinary trap, the ranger can set this trap only in terrain with soft ground.
+
+**Magical Component** *scroll of create pit*
 
 ### Poison Trap (Ex or Su)
 
@@ -103,6 +153,22 @@ Effect The trap poisons the creature that triggers it. If it is a supernatural t
 **Effects**
 
 Effect The trap and all adjacent squares become quicksand as long as they contain loose sand or soil. The Swim DC to move in this quicksand is equal to the trap's save DC, and the Swim DC to tread in the quicksand is equal to the trap's DC – 5. The quicksand lasts for a number of rounds equal to the ranger's level. When the effect ends, any creature still in the quicksand is returned to the surface prone.
+
+### Rust Monster Trap (Ex or Su)
+
+**Effects**
+
+Effect The trap throws up a cloud of dust ground from the antennae of a rust monster, dealing 1d4 points of damage to the target's metal armor and weapons. A ranger may increase the damage by 1 point for each additional daily use of his trap ability he spends when creating this trap. A successful Reflex save negates this damage. If this is an extraordinary trap, the ranger must supply a set of rust monster antennae.
+
+**Magical Component** *scroll of rusting grasp*
+
+### Selective Trigger\* (Ex or Su)
+
+**Effects**
+
+Effect The ranger adds a race, type, alignment, or minimum weight restriction to the trap's trigger. If this is an extraordinary trap, the ranger can choose only the minimum weight restriction.
+
+**Magical Component** *potion of identify*
 
 ### Sleet Trap (Su)
 
@@ -124,6 +190,20 @@ Effect The trap constricts around a limb or other part of the triggering creatur
 
 The trapped creature can escape with an Escape Artist check (DC equal to the trap’s DC) as a fullround action. The trap or its leash has a number of hit points equal to 1/2 the ranger’s level, or can be burst as a full-round action with a DC 25 Strength check. The trap can hold up to a Medium creature; each extra daily use of the ranger’s trap ability spent when the trap is set increases the maximum size of creature the trap can hold. At the ranger’s option, if there is a tall object or structure nearby, she can have the trap lift the creature.
 
+### Spell-Stealing Trap (Su)
+
+**Effects**
+
+Effect The target is struck by a burst of abjuration that steals its magical ability. The target loses 1d4+1 levels of spells (of its choice). A ranger may increase the number of spell levels lost by 1d4 for each additional daily use of his trap ability he spends when creating this trap.
+
+**Magical Component** *scroll of dispel magic*
+
+### Spell-Storing Trap (Su)
+
+**Effects**
+
+Effect This trap behaves like a greater glyph of warding, except the maximum level of spell it can hold is 1. A ranger may increase the maximum level by 1 for each daily use of his trap ability he spends when creating this trap. The spell contained must be supplied by either the ranger or another creature within 1 round of the trap being laid. The duration of this trap is dependent on the ranger's level, but a target receives only one save, that of the spell contained.
+
 ### Summoned Ally Trap (Su)
 
 **Effects**
@@ -135,6 +215,12 @@ Effect The trap summons a creature as *summon nature's ally I* with a caster lev
 **Effects**
 
 Effect The trap releases a bat swarm, rat swarm, or spider swarm that attacks all creatures in the area. The swarm remains in the general area for no longer than 1 round per ranger level, after which it disperses. If the trap is an extraordinary trap, the ranger must provide the creatures of the swarm (typically in a small box, cage, or crate); these creatures may die of starvation before the trap is triggered (an extraordinary trap lasts 1 day per level).
+
+### Tar Trap (Ex or Su)
+
+**Effects**
+
+Effect The target is coated in a thin layer of sticky tar unless it succeeds at a Reflex save. It is entangled, and becomes susceptible to catching fire from any source of flame. If lit on fire, the tar burns intensely for 1 round; it deals 2d6 points of fire damage and is destroyed in the process. Unless burned away, the tar remains for 1 round per ranger level. If this is an extraordinary trap, the ranger must supply a dose of tar.
 
 ### Telepathy Trap (Su)
 
@@ -148,11 +234,25 @@ Effect The trap resonates at a high-pitched frequency audible only to creatures 
 
 Effect A ranger can add this to a smoke trap. The smoke this trap creates is extremely noxious. Any breathing creature must succeed at a Fortitude saving throw (in addition to the Fortitude save for the smoke trap) or be nauseated every round it's within the smoke and for 1d4+1 rounds after leaving the smoke. If this is an extraordinary trap, the ranger must use a toxic material when setting the trap, such as a noxious aromatic.
 
+### Transdimensional Trap\* (Su)
+
+**Effects**
+
+Effect This augmentation allows a trap to affect an incorporeal or ethereal creature as if it were corporeal or existed on the Material Plane.
+
+**Magical Component** *scroll of ghostbone dirge*
+
 ### Transpositional Trap (Su)
 
 **Effects**
 
 Effect This pair of traps causes any creature that steps in one of the traps to be teleported to the location of the other trap (Will negates), as the spell *dimension door*. After having been transported, the creature may not take any other actions until its next turn. If one part of a pair of transpositional traps becomes blocked by a solid body or object, the trap does not function until the obstruction is removed. In order to create this trap, a ranger must set up two transpositional traps within 400 feet of each other, thus expending 2 uses of the ranger's traps per day. A ranger can only have one pair of transpositional traps set at a time; setting a third transpositional trap immediately causes the first to disappear and keys the second and third transpositional traps to one another.
+
+### Tripwire (Ex or Su)
+
+**Effects**
+
+Effect A taut wire stretched between two vertical surfaces knocks the target prone unless it succeeds at a Reflex save. A running or charging creature takes a –6 penalty on its save.
 
 ### Wounding Trap (Ex or Su)
 

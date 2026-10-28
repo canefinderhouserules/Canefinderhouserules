@@ -2185,3 +2185,83 @@ This mild sedative is normally used to treat insomnia, making the drinker reluct
 **Price** 1 gp/gallon, 4 sp/mug
 
 Most races find this pale and frothy beer too salty to swallow, but halflings simply consider it an acquired taste. Drinking three or more cups in a 1-minute span gives a halfling a –2 penalty on Perception checks and a +1 bonus on Reflex saves and Acrobatics checks for 10 minutes.
+
+## Kobold Trapping Gear
+
+### Blightburn
+
+**Type** hazard
+
+Blightburn is the deadliest radioactive substance in the Underworld. The green-glowing crystal burns anyone who touches it, dealing 2d6 points of fire damage per round of contact, and its radiation causes blightburn sickness. The substance also limits teleportation: anyone casting a teleportation spell in, or teleporting to, a cavern with blightburn in its walls must succeed at a DC 30 caster level check.
+
+**Blightburn Sickness**: **Type** disease, contact; **Save** Fortitude DC 22; **Frequency** 1/day; **Effect** 1d6 Con damage and 1d6 Cha damage; **Cure** 2 consecutive saves. Contact is automatic when a creature comes within a 60-foot radius, and can be blocked only by lead sheeting, 1 foot of stone, or a force effect.
+
+### Blightburn Paste
+
+**Price** 5,000 gp; **Weight** 45 lbs.
+
+This heavy stone box measures 2 feet to a side, and the tiny compartment inside is lined with lead. Inside the compartment is a half-ounce of deep green paste made of animal fat mixed with ground-up blightburn. Once the box is opened, blightburn paste limits teleportation within 60 feet and irradiates anyone within 60 feet, afflicting them with blightburn sickness (see Blightburn above). Any creature that touches the paste is afflicted with blightburn sickness (no save), and takes 2d6 points of fire damage per round until the paste is cleaned away with a successful DC 15 Heal check. Crafting this item requires a successful DC 30 Craft (alchemy) check.
+
+### Caphorite Dust
+
+**Price** 25 gp; **Weight** 1/2 lb.
+
+This small leather pouch is filled with a faintly radioactive ore called caphorite, with a small percentage of reactants that activate the dust. When used, caphorite dust must be sprinkled in a 5-foot square, which then becomes the center of the dust's effect. All bright or normal light within 30 feet of the activated dust is reduced to dim light, and any creature attempting to cast a spell with the light descriptor in this area must succeed at a DC 15 caster level check or have the spell's effect negated. If caphorite is exposed to sunlight, it immediately becomes permanently inert. Each pouch contains enough dust for two applications. Crafting this item requires a successful DC 25 Craft (alchemy) check.
+
+### Cytillesh Stun Vial
+
+**Price** 75 gp; **Weight** 1/2 lb.
+
+Harvested from the cytillesh fungus commonly found in the Underworld, these small vials emit a bright blue glow. When broken, a stun vial releases a flash of blue light consisting of bright light in a 10-foot radius and dim light in a 20-foot radius. All creatures within the flash area must make a DC 20 Will save. Creatures that fail are stunned for 1d2 rounds if they're in the area of bright light, or are confused for 1 round if in the area of dim light. Crafting this item requires a successful DC 30 Craft (alchemy) check.
+
+### Paper Wall Paste
+
+**Price** 10 gp; **Weight** 2 lbs.
+
+This jar of thick, gritty paste is made from coarsely ground plant matter, weak epoxy, and bat guano. When exposed to air, the moldable substance quickly creates a thin, paperlike surface, which is ideal for creating false earthen walls. Creating a 5-foot-by-5-foot section of paper wall requires a full-round action. Though this false wall is easy to punch through, it requires a successful DC 13 Perception check to identify the wall as a fake. If the creator spends an additional full-round action disguising the wall with dirt and pebbles, the DC increases by 2. Crafting this item requires a successful DC 15 Craft (alchemy) check.
+
+### Decoy Triggers
+
+**Type** trap accessory
+
+Decoy triggers are misleading mechanisms intended to divert a victim's attention from a real trap by presenting an easily found decoy. Ideally, the victim spots the fake mechanism and, in attempting to disarm or evade it, triggers the real trap.
+
+A decoy trigger grants a bonus to the Perception DC of any trap it accessorizes; the decoy itself has an intentionally low Perception DC. Though a decoy trigger increases the CR of the trap it augments, as a standalone accessory it doesn't increase the trap's Craft DC. Instead of a Disable Device DC, decoy triggers have a Sense Motive DC. If a creature succeeds at the decoy's Sense Motive check, it immediately recognizes the decoy trigger as a fake, and the real trap loses the bonus to its Perception DC. All decoy triggers are single-use only.
+
+| Decoy | Price | Perception DC | Sense Motive DC | Trap Perception DC | CR Modifier |
+|---|---|---|---|---|---|
+| Decoy pressure switch | 60 gp | 12 | 24 | +6 | +2 |
+| Decoy trap door | 120 gp | 10 | 28 | +9 | +3 |
+| Decoy tripwire | 25 gp | 15 | 20 | +3 | +1 |
+
+All decoy triggers are mechanical.
+
+### Fake Area Map
+
+**Price** 20 gp
+
+This faux-distressed piece of parchment is a crude map of the local area, with red circles and arcane gibberish scrawled on it. Intentionally made to look old and worn, it's actually a simple piece of parchment that's been singed, crumpled, and rolled in the dirt. Because the average kobold artisan's knowledge of Common is poor, any literate creature within 5 feet can identify the map as a fake. Beyond 5 feet, a fake map requires a successful DC 25 Sense Motive check to identify it as phony.
+
+### Fake Coins
+
+**Price** 5 gp; **Weight** 1/2 lb.
+
+These rough-hewn discs of metal are covered in highly reflective, gold-colored plating, which catches the light and causes them to shimmer. At a distance greater than 5 feet, fake coins require a DC 20 Sense Motive check to identify. Because these "coins" aren't molded and have no embellishment on either side, any creature within 5 feet can clearly identify them as spurious.
+
+### Trapped Items
+
+**Type** mechanical traps
+
+Kobold artisans are constantly looking for new ways to increase the effectiveness of their traps while decreasing their setup time. Trapped items are replica items with traps built into them, and can be armed in a standard action. They're self-contained, single-use, and as easily transportable as the items they mimic.
+
+### Trapped Disguise Kit
+
+**Price** 50 gp; **Weight** 8 lbs.; **Perception** DC 25; **Disable Device** DC 25; **Trigger** touch; **Reset** repair
+
+This appears to be a normal disguise kit, except that if any of the makeup or false facial hair is applied, the victim is marked with a strong scent (scent mark; never misses; onset delay 1 round). This scent mark decreases the DC of tracking the victim by scent by 4. The mark can be washed off with vigorous scrubbing, but otherwise fades on its own over several days.
+
+### Trapped Scroll Case
+
+**Price** 40 gp; **Weight** 1 lb.; **Perception** DC 20; **Disable Device** DC 20; **Trigger** touch; **Reset** none
+
+This seemingly innocuous scroll case contains a glass pellet filled with gaseous poison (Ungol dust). The pellet breaks when the case is opened, filling a 5-foot square with toxic gas. This poisonous cloud disperses after 1 round.

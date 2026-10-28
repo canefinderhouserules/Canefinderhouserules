@@ -2,6 +2,7 @@
 
 ## 0-Level Druid Spells (Orisons)
 
+- **[Chameleon Scales](chameleon-scales.md)**: Change the color of your skin or scales.
 - **[Create Water](create-water.md)**: Creates 2 gallons/level of pure water.
 - **[Detect Magic](detect-magic.md)**: Detects spells and magic items within 60 ft.
 - **[Detect Poison](detect-poison.md)**: Detects poison in one creature or object.
@@ -45,6 +46,7 @@
 - **[Echo](echo.md)**: Cause a sound to repeat itself.
 - **[Endothermic Touch](endothermic-touch.md)**: Slow a reptile or dragon, staggering it
 - **[Endure Elements](endure-elements.md)**: Exist comfortably in hot or cold regions.
+- **[Enlarge Tail](enlarge-tail.md)**: Your tail gains reach and a bonus to attack and damage.
 - **[Entangle](entangle.md)**: Plants entangle everyone in 40-ft. radius.
 - **[Expeditious Construction](expeditious-construction.md)**: Raise a low earthen wall or berm.
 - **[Faerie Fire](faerie-fire.md)**: Outlines subjects with light, canceling *blur*, concealment, and the like.
@@ -167,6 +169,7 @@
 - **[Invigorating Poison](invigorating-poison.md)**: Poison ability damage becomes a bonus instead.
 - **[Ironskin](ironskin.md)**: Harden your skin to iron
 - **[Lay of the Land](lay-of-the-land.md)**: Instantly learn the geography around you.
+- **[Lead Plating](lead-plating.md)**: Sheathe a target in lead to block radiation and divinations.
 - **[Magic Boulder](magic-boulder.md)**: Enchant boulders for throwing
 - **[Mud Buddy](mud-buddy.md)**: Create a small mud servant that can trip foes
 - **[Outbreak](outbreak.md)**: Make diseased creatures contagious
@@ -229,6 +232,7 @@
 - **[Companion Mind Link](companion-mind-link.md)**: You can talk with your animal companion, and can handle it with supernatural ease.
 - **[Contagion](contagion.md)**: Infects subject with chosen disease.
 - **[Cure Moderate Wounds](cure-moderate-wounds.md)**: Cures 2d8 damage + 1/level (max +10).
+- **[Dark-Light](dark-light.md)**: Blind or dazzle creatures that lack light sensitivity.
 - **[Daylight](daylight.md)**: 60-ft. radius of bright light.
 - **[Delay Poison, Communal](delay-poison-communal.md)**: As delay poison, but you may divide the duration among creatures touched.
 - **[Detoxify](detoxify.md)**: Neutralize a creature’s poison attacks.
@@ -362,6 +366,7 @@
 - **[Soul Vault](soul-vault.md)**: Protect a soul from being trapped
 - **[Spike Stones](spike-stones.md)**: Creatures in area take 1d8 damage, may also be slowed*.*
 - **[Spindrift Spritz, Mass](spindrift-spritz-mass.md)**: As spindrift spritz, affecting multiple creatures.
+- **[Strip Scales](strip-scales.md)**: Reduce a creature's racial natural armor.
 - **[Substitute Trail](substitute-trail.md)**: Make the targets’ trails look like another creature’s.
 - **[Summon Nature’s Ally IV](summon-natures-ally-iv.md)**: Summons creature to fight.
 - **[Sword to Snake](sword-to-snake.md)**: An item bites whoever handles it.

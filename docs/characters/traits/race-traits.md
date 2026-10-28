@@ -186,6 +186,66 @@ Only kitsune may select one of these traits.
 
 **Nine-Tailed Scion**: You are talented with kitsune magic. You gain a +1 trait bonus on caster level checks for your racial spell-like abilities as well as those from the Magical Tail feat. Additionally, you can select Magical Tail as a bonus feat whenever your favored class grants you a bonus bloodline feat, combat feat, or metamagic feat instead of the normal type of feat granted by that class. You cannot exchange specific feats granted by a class or race for Magical Tail in this manner; for instance, a monk cannot exchange his Stunning Fist feat for Magical Tail.
 
+## Kobold Traits
+
+Only kobolds may select these traits. Kobold characters aren't restricted from taking traits from another scale color, though each trait below is typical of one color and considered prestigious among kobolds of that color. Kobolds born from two differently colored parents are colored like one parent or the other, not a mix of the two.
+
+### Black-Scaled
+
+**Bog Scamp**: You were raised in the sludgy swamps, and are used to moving through boggy terrain. You can swim through a deep bog at up to half your speed as a move action, instead of the normal quarter speed. Failing a Swim check while in a deep bog doesn't cause you to go underwater, even if you fail by 5 or more, though such a failure still results in a lack of progress.
+
+**Ooze Defense**: The murky tunnels of your tribal home were infested with voracious oozes, so you and your tribespeople never strayed far without anti-ooze acid. You begin play with three alkali flasks. These don't count against your starting character wealth.
+
+**Sneaky Swimmer**: Swimming comes naturally to you, as does hunting marsh vipers and other aquatic creatures. Increase the number of rounds you can hold your breath underwater by an amount equal to your Constitution score. You gain a +2 bonus on Stealth checks in swamps and in underwater environments.
+
+### Blue-Scaled
+
+**Draconic Echo**: Like the blue dragons your tribe reveres, you have a touch of illusory magic. You can cast *ghost sound* twice per day as a spell-like ability. The caster level for this effect is equal to your character level. The save DC is Intelligence-based.
+
+**Elaborate Trapper**: You're blessed with a devious mind, and the more elaborate your traps are, the more effective they become. When creating a trap, if your Craft (traps) roll exceeds the DC of the check by 5 or more, that trap's Disable Device DC increases by 2.
+
+**Lightning Blessed**: You're favored by the lightning shaman of your tribe, and he gifted you several sacred items as a reminder of your origins. You begin play with three vials of bottled lightning. These don't count against your starting character wealth.
+
+**Liquid-Tongued**: The magic-users in your tribe pride themselves on their ability to control the forces of water. Integral to this practice is the ability to study and communicate with visitors from the Elemental Plane of Water. In addition to speaking Draconic, you begin play with the ability to speak Aquan.
+
+### Green-Scaled
+
+**Alchemical Breath**: Your tribe, in an effort to emulate the green chromatic dragons they admire, goes to great lengths to secure alchemical coal. As a member of a green kobold tribe, you begin play with three pieces of the choking smoke variety of alchemical coal. Eating one of these pellets allows you to exhale noxious vapors, damaging and sickening your enemies. These pellets don't count against your starting character wealth.
+
+**Kobold Herbalist**: You are familiar with the flora of your native forest and have rudimentary skill as an herbalist. Once per day, you can attempt a DC 20 Survival check instead of a Craft (alchemy) check to create a single dose of scent cloak without paying any cost for raw materials. Any scent cloak created using this method must be used within 24 hours, or it becomes inert.
+
+**Slithering Stride**: You were raised as a forest trapper, and are adept at moving quickly through underbrush. For 3 rounds per day, you can move through light or heavy undergrowth at full speed. This ability doesn't work in terrain that has been magically manipulated to impede motion.
+
+### Red-Scaled
+
+**Firebug**: Like the red dragons that inspire your tribe, you're blessed with a small spark of incendiary magic. You can cast *spark* three times per day as a spell-like ability. The caster level is equal to your character level. The save DC is Intelligence-based.
+
+**Fire-Tongued**: The sorcerers of your tribe are adept at summoning and binding outsiders from the Elemental Plane of Fire. In order to communicate with their thralls, many in your tribe learned the rudiments of the outsiders' language. In addition to speaking Draconic, you begin play with the ability to speak Ignan.
+
+**Heat Fortitude**: You grew up close to sulfurous volcanic vents, which steeled you against heat dangers. You gain a +4 trait bonus on Fortitude saving throws against nonlethal damage from heat.
+
+**Smoke Resistant**: You've spent so much of your life around fires that smoke no longer affects you the way it does other creatures. Your vision isn't impaired by nonmagical smoke, and you gain a +5 trait bonus on Fortitude saves to avoid coughing and choking because of smoke inhalation. This trait confers no benefits against magically created smoke, such as that produced by *pyrotechnics*.
+
+### White-Scaled
+
+**Cold Fortitude**: The perpetually chilly environment of your youth made you exceptionally resilient in arctic climes. You gain a +4 trait bonus on Fortitude saving throws against nonlethal cold damage.
+
+**Frost Spitter**: The icy breath of a white dragon fills your lungs. Once per day, you can quickly exhale to produce a frigid cloud of dense fog that quickly sinks to the ground. This freezing mist covers a 10-foot-square area with slippery ice that's as difficult to traverse as an ice sheet.
+
+**Icy Mementos**: As a parting gift, the shaman of your tribe gave you an alchemical concoction as a reminder of your icy home. You begin play with three bottles of liquid ice. These don't count against your starting character wealth.
+
+**Skater's Balance**: You grew up stalking across the frozen pools of water that dot your tribe's Underworld home. You don't need to spend extra movement to enter a square of an ice sheet, and the DCs of your Acrobatics checks on ice sheets don't increase by 5.
+
+### Rare Scale Colors
+
+Though most kobolds exhibit one of the five major chromatic colors, individuals occasionally emerge with alternate pigmentations, most commonly purple, orange, and yellow. Those who possess the rarer colors below are discriminated against by their homogeneous tribe-mates, but these colors do have unique benefits.
+
+**Carnation Scales**: Though your light pink scales made you the subject of ridicule by your tribe, you can adapt to more environments than they can. You gain a +1 bonus on Survival checks, and Survival is always a class skill for you. Most kobolds with carnation scales also have the day raider alternate racial trait.
+
+**Golden Scales**: Your distinctive golden scales strongly reflect the light, making other kobolds mistrust you, but aboveground races favor you. You take a –1 penalty on Bluff checks and Diplomacy checks when dealing with other kobolds, but gain a +2 bonus on Bluff checks and Diplomacy checks when dealing with non-reptilian humanoids.
+
+**Purple Scales**: Your outlandish purple scales made you an outcast from your tribe and forced you to survive in isolation at the edges of kobold society. While wandering alone through the Underworld, you contacted several other underground races and expanded your linguistic repertoire. In addition to speaking Draconic, you begin play with the ability to speak one of the following: Aklo, Dwarven, Goblin, or Undercommon.
+
 ## Ratfolk Traits
 
 Only ratfolk may select one of these traits.

@@ -981,3 +981,27 @@ Whenever a particularly imposing intelligent weapon controls the mind of its wie
 A steelbound weapon gains Intelligence, Wisdom, and Charisma scores of 10 when it awakens, and has the same alignment as its wielder. It communicates via empathy, and has senses that extend 30 feet. It has 5 ranks in a skill of the steelbound fighter's choice. At 9th level, the steelbound weapon's ability scores increase to 12 and it gains the ability to speak in its wielder's native tongue. The weapon gains the ability to cast a 3rd-level spell once per day (the choice of the spell is made by the steelbound fighter, but is subject to GM approval, and once chosen, it can't be changed), with a caster level equal to the steelbound fighter's level. The spell's save DC is based off of the item's Charisma. At 13th level, the steelbound weapon's ability scores increase to 14 and its senses extend to 120 feet. The weapon gains a special purpose of the steelbound fighter's choice (subject to GM approval). At 17th level, the steelbound weapon's ability scores increase to 16 and it gains telepathy as well as darkvision with a range of 60 feet. The weapon can now use its spell-like ability three times a day, and can select a second 3rd-level spell that it can use once per day.
 
 A steelbound fighter transfers the effects of his steelbound awakening to a new weapon of the proper type automatically after carrying that weapon on his person for 24 hours, but can have only one weapon under the effects of steelbound awakening at any given time. This ability replaces weapon training.
+
+## Swarm Fighter
+
+Kobolds know there's strength in numbers, and they rarely send fewer than two kobolds out on patrol. This reliance on one another extends to combat tactics too: overwhelming numbers and tight quarters are the kobold fighter's friends. Scuttling between the legs of friend and foe alike, the swarm fighter is an unshakable combatant.
+
+**Weapon and Armor Proficiency**: A swarm fighter is proficient with all simple and martial weapons. She is proficient with light and medium armor, but not with shields.
+
+**Athletic Prowess (Ex)**: A swarm fighter adds Acrobatics and Climb to her class skills, and gains a bonus on checks with these skills equal to 1/2 her swarm fighter level.
+
+**Mobility (Ex)**: The swarm fighter gains Mobility as a bonus feat, even if she does not meet the prerequisites. This replaces the bonus feat a fighter gains at 1st level, and can't be replaced at a later level.
+
+**Safety in Numbers (Ex)**: A swarm fighter benefits greatly from the proximity of her allies. She gains a morale bonus on saves against fear effects equal to the number of allies within 20 feet of her. This bonus can't exceed half her level. This ability replaces bravery.
+
+**Bonus Teamwork Feats (Ex)**: At 2nd level and every 4 levels thereafter, the swarm fighter gains a bonus teamwork feat. This ability replaces the bonus combat feats the fighter normally receives at those levels.
+
+**Bonus Feats (Ex)**: At 4th level, and every 4 levels thereafter, the swarm fighter gains a bonus combat feat. These are gained as with the fighter's normal bonus feats class feature (but less frequently).
+
+**Share Space (Ex)**: At 5th level, the swarm fighter can move into the space of another creature at least one size category larger than she is. She may end her movement in, and make attacks from, that space. She must succeed at the Acrobatics check for moving through an occupied square to move into a space occupied by an enemy. While sharing the space of another creature, she gains a +2 shield bonus to AC and a +1 circumstance bonus on Reflex saves. This ability replaces weapon training 1.
+
+**Strike the Underbelly (Ex)**: At 9th level, creatures with which the swarm fighter shares a space are denied their Dexterity bonus to Armor Class against the swarm fighter's attacks. This ability replaces weapon training 2.
+
+**Always Underfoot (Ex)**: At 13th level, the swarm fighter gains Step Up as a bonus feat. A creature sharing a square with the swarm fighter is considered adjacent for the purposes of this feat. At 17th level, the swarm fighter gains Following Step as a bonus feat. These abilities replace weapon training 3 and 4.
+
+**Soft Underbelly (Ex)**: At 20th level, any attacks made against creatures with which the swarm fighter shares a space automatically confirm all critical threats. This ability replaces weapon mastery.

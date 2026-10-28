@@ -1506,6 +1506,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Ancestral Enmity](ancestral-enmity.md) | Combat | Giant subtype |
 | [Ancestral Scorn](ancestral-scorn.md) | — | Intimidate 5 ranks, tiefling |
 | [Ancestral Weapon Mastery](ancestral-weapon-mastery.md) | Combat | Base attack bonus +1, weapon familiarity racial trait |
+| [Ancient Draconic](ancient-draconic.md) | General | Arcane caster level 5th, speaks Draconic |
 | [Ancient Tradition](ancient-tradition.md) | — | Knowledge (history) 3 ranks, must have a connection to a lost culture (see text) |
 | [Angelbane Strike](angelbane-strike.md) | — | Channel Smite, divine caster level 5th, channel negative energy class feature, evil patron deity |
 | [Animal Ally](animal-ally.md) | — | Nature Soul, character level 4th, must not have an animal companion or mount that advances as an animal companion |
@@ -2077,6 +2078,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Improved Fury of the Tainted](improved-fury-of-the-tainted.md) | Combat | Cha 13, Fury of the Tainted, base attack bonus +8, rage class feature, tiefling |
 | [Improved Gaseous Form](improved-gaseous-form.md) | — | Vampire |
 | [Improved Horse Whisperer](improved-horse-whisperer.md) | — | Horse Whisperer, Handle Animal 5 ranks, Ride 5 ranks |
+| [Improved Learn Ranger Trap](improved-learn-ranger-trap.md) | General | Learn Ranger Trap, Survival 8 ranks |
 | [Improved Legendary Influence](improved-legendary-influence.md) | — | Legendary Influence, lesser spirit power and propitiation class features |
 | [Improved Lookout](improved-lookout.md) | — | Lookout |
 | [Improved Mounted Archery](improved-mounted-archery.md) | — | Mounted Archery, Mounted Combat, Ride 1 rank |
@@ -2133,6 +2135,10 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Knotted Nets](knotted-nets.md) | Combat, Teamwork | Exotic Weapon Proficiency (net), base attack bonus +1 |
 | [Know Weakness](know-weakness.md) | Combat | Bardic knowledge class feature |
 | [Knowledgeable Spellcaster](knowledgeable-spellcaster.md) | — | Knowledge (arcana, dungeoneering, local, nature, planes, or religion) 5 ranks, caster level 7th |
+| [Kobold Confidence](kobold-confidence.md) | General | Charisma 13, kobold |
+| [Kobold Flood](kobold-flood.md) | Combat, Style | Combat Expertise, Kobold Groundling, Kobold Style, Small size or smaller |
+| [Kobold Groundling](kobold-groundling.md) | Combat, Style | Combat Expertise, Kobold Style, Small size or smaller |
+| [Kobold Style](kobold-style.md) | Combat, Style | Combat Expertise, Small size or smaller |
 | [Kraken Style](kraken-style.md) | Combat, Style | Wis 13, Improved Grapple, Improved Unarmed Strike, base attack bonus +3 or monk level 3rd |
 | [Kraken Throttle](kraken-throttle.md) | Combat, Style | Wis 13, Improved Grapple, Improved Unarmed Strike, Kraken Style, base attack bonus +5 or monk level 5th |
 | [Kraken Wrack](kraken-wrack.md) | Combat, Style | Wis 13, Improved Grapple, Improved Unarmed Strike, Kraken Style, base attack bonus +7 or monk level 7th |
@@ -2188,6 +2194,8 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Meditation Master](meditation-master.md) | — | — |
 | [Meditative Concentration](meditative-concentration.md) | — | Wis 13, Combat Meditation, Meditation Master, character level 5th |
 | [Merchant Combine Partner](merchant-combine-partner.md) | — | Associate (a merchant combine) |
+| [Merciless Magic](merciless-magic.md) | General | Ability to cast spells, kobold |
+| [Merciless Precision](merciless-precision.md) | General | Sneak attack class feature, kobold |
 | [Merciless Rush](merciless-rush.md) | Combat | Improved Bull Rush, worshiper of a deity of destruction |
 | [Messenger of Fate](messenger-of-fate.md) | — | Ability to cast *augury*, worshiper of a deity of death and fate |
 | [Metamagic Invocation](metamagic-invocation.md) | — | Metakinesis class feature |
@@ -2201,6 +2209,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Misdirection Attack](misdirection-attack.md) | Combat | Int 13, Combat Expertise, Deceitful, Misdirection Redirection, Misdirection Tactics, Bluff 10 ranks |
 | [Misdirection Redirection](misdirection-redirection.md) | Combat | Int 13, Combat Expertise, Misdirection Tactics, Deceitful, Bluff 10 ranks |
 | [Misdirection Tactics](misdirection-tactics.md) | Combat | Int 13, Combat Expertise, Deceitful, Bluff 4 ranks |
+| [Mixed Scales](mixed-scales.md) | General | Draconic Aspect feat or dragon-scaled racial trait, kobold |
 | [Mobile Acrobat](mobile-acrobat.md) | — | Racial bonus to Dexterity |
 | [Mobile Bulwark Style](mobile-bulwark-style.md) | Combat, Style | Str 13, Shield Focus, Tower Shield Proficiency, base attack bonus +1 |
 | [Mobile Fortress](mobile-fortress.md) | Combat | Str 15, Mobile Bulwark Style, Shield Focus, Tower Shield Proficiency, base attack bonus +4 |
@@ -2358,6 +2367,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Ready for Anything](ready-for-anything.md) | Combat | Alertness, Improved Initiative, Lightning Reflexes, Quick Draw, base attack bonus +6 or uncanny dodge class feature |
 | [Reap the Infirm](reap-the-infirm.md) | Combat | Base attack bonus +3 |
 | [Reckless Aim](reckless-aim.md) | Combat | Point-Blank Shot, Precise Shot |
+| [Redeemed Kobold](redeemed-kobold.md) | General | Good alignment, kobold |
 | [Redirect Attack](redirect-attack.md) | Combat | Dex 15, Int 15, Dodge |
 | [Redirected Shot](redirected-shot.md) | Combat, Grit | Amateur Gunslinger or the grit class feature, Deadly Aim, Point-Blank Shot, Precise Shot |
 | [Redistributed Might](redistributed-might.md) | Combat | Con 13 or Wis 13, Exotic Weapon Proficiency (dueling sword), Iron Will, base attack bonus +4 |
@@ -2399,6 +2409,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Savage Surge](savage-surge.md) | Combat, Performance | Intimidating Prowess, rage class feature |
 | [Savior’s Arrow](savior-s-arrow.md) | — | Ability to cast cure spells, proficient with longbow, worshiper of a deity of the hunt and farming |
 | [Scale and Skin](scale-and-skin.md) | — | Con 13 |
+| [Scaled Disciple](scaled-disciple.md) | General | Ability to spontaneously cast divine spells, kobold |
 | [Scar Soldier Devotion](scar-soldier-devotion.md) | — | Bodyguard, Combat Reflexes, Perform (oratory) 3 ranks, good |
 | [Scar Soldier Initiate](scar-soldier-initiate.md) | — | Female, 1st level only |
 | [Scarred Legion](scarred-legion.md) | Teamwork | — |
@@ -2471,6 +2482,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Sluggish Jinx](sluggish-jinx.md) | General | Halfling Jinx racial trait |
 | [Slurk Rider](slurk-rider.md) | Combat | Kobold |
 | [Sly Draw](sly-draw.md) | Combat | Quick Draw |
+| [Small but Deadly](small-but-deadly.md) | General | Weapon Focus or natural weapon, Small size or smaller |
 | [Smash from the Air](smash-from-the-air.md) | Weapon Mastery | Str 13, Cut from the Air, Power Attack, base attack bonus +9, weapon training class feature with a melee weapon |
 | [Smashing Crush](smashing-crush.md) | Combat | Str 13, Improved Sunder, Smashing Style, Weapon Focus with the chosen weapon |
 | [Smashing Dent](smashing-dent.md) | Combat | Str 13, Improved Sunder, Smashing Crush, Smashing Style, Weapon Focus with the chosen weapon, base attack bonus +6 |

@@ -20,6 +20,7 @@ New antipaladin spells from *Ultimate Magic*. Spells from other books will be ad
 - **[Desperate Weapon](desperate-weapon.md)**: Create an improvised weapon.
 - **[Detect the Faithful](detect-the-faithful.md)**: Find others of the same faith.
 - **[Devouring Visage](devouring-visage.md)**: Hideous face grants Intimidate bonus and a bite.
+- **[Enlarge Tail](enlarge-tail.md)**: Your tail gains reach and a bonus to attack and damage.
 - **[Fabricate Disguise](fabricate-disguise.md)**: Create a disguise in an instant.
 - **[Fear the Sun](fear-the-sun.md)**: targets gain light blindness
 - **[Grasping Corpse](grasping-corpse.md)**: Cause a corpse to grab or trip a foe.

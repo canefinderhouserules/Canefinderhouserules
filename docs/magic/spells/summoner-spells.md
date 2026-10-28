@@ -11,6 +11,7 @@ New summoner spells from *Ultimate Magic*. Spells from other books will be added
 - **[Celestial Healing](celestial-healing.md)**: Target gains fast healing 1.
 - **[Compel Hostility](compel-hostility.md)**: Compels opponents to attack you instead of your allies.
 - **[Corrosive Touch](corrosive-touch.md)**: Touch attack deals 1d4 acid/level.
+- **[Enlarge Tail](enlarge-tail.md)**: Your tail gains reach and a bonus to attack and damage.
 - **[Icicle Dagger](icicle-dagger.md)**: Masterwork ice dagger deals +1 cold damage.
 - **[Instant Portrait](instant-portrait.md)**: Paint a quick monochrome portrait.
 - **[Jury-Rig](jury-rig.md)**: Removes the broken condition from the targeted object.
@@ -58,6 +59,7 @@ New summoner spells from *Ultimate Magic*. Spells from other books will be added
 - **[Shackle](shackle.md)**: Conjure manacles or fetters.
 - **[Slick Walls](slick-walls.md)**: Walls and ceilings become much harder to climb.
 - **[Twisted Space](twisted-space.md)**: Targeted creature’s attacks target a random square instead of the intended target.
+- **[Unseen Engineers](unseen-engineers.md)**: Invisible engineers build a mechanical trap.
 - **[Venomous Bite](venomous-bite.md)**: Target's bite delivers a stored poison.
 - **[Warding Weapon](warding-weapon.md)**
 - **[Web Shelter](web-shelter.md)**: Create a comfortable shelter made of webbing.
