@@ -202,6 +202,7 @@ New antipaladin spells from *Ultimate Magic*. Spells from other books will be ad
 - **[Litany of Thunder](litany-of-thunder.md)**: A single target is deafened until the condition is removed, and is confused for 1 round.
 - **[Litany of Vengeance](litany-of-vengeance.md)**: Allies attacking the target of the spell gain a +5 bonus on damage rolls for 1 round.
 - **[Magic Siege Engine, Greater](magic-siege-engine-greater.md)**: Siege engine gains +1 on targeting and damage rolls for every four caster levels.
+- **[Mark of the Reptile God](mark-of-the-reptile-god.md)**: Burn a handprint that scales the target and drains Charisma.
 - **[Masochistic Shadow](masochistic-shadow.md)**: a shadow attacks the target, dealing Strength damage each round
 - **[Night of Blades](night-of-blades.md)**: Wall of whirling blades.
 - **[Nondetection, Communal](nondetection-communal.md)**

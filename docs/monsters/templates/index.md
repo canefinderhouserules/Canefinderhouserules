@@ -1,6 +1,6 @@
 # Monster Templates
 
-A template is a set of rules applied to a base creature to turn it into a different monster; see [Monster Advancement](../monster-advancement.md) for how templates work. The [simple templates](simple-templates.md) (advanced, celestial, degenerate, entropic, fiendish, giant, resolute and young) can be applied during play with a single line of changes.
+A template is a set of rules applied to a base creature to turn it into a different monster; see [Monster Advancement](../monster-advancement.md) for how templates work. The [simple templates](simple-templates.md) (advanced, celestial, degenerate, entropic, fiendish, giant, resolute and young) can be applied during play with a single line of changes, and the [simple class templates](class-templates.md) give a creature the key features of a character class without rebuilding it.
 
 ## Undead
 

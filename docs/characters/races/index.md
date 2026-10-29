@@ -96,6 +96,8 @@ Aquatic elves, cecaelias, locathahs and tritons are sea-dwelling peoples suited 
 - [Adaros](adaros.md)
 - [Grindylows](grindylows.md)
 - [Sahuagin](sahuagin.md)
+- [Boggards](boggards.md)
+- [Troglodytes](troglodytes.md)
 
 ## Planar Scions
 

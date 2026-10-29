@@ -56,6 +56,12 @@ The following racial traits may be selected instead of existing goblin racial tr
 
 **Weapon Familiarity**: Goblins’ traditional weapons are the dogslicer and the horsechopper, weapons designed specifically to bring down their most hated foes. Goblins with this trait are proficient with the dogslicer and the horsechopper, and treat any weapon with the word “goblin” in it as martial weapons. This racial trait replaces skilled.
 
+## Oversized Goblins
+
+A few goblins attain a much larger size than their kin. No one is exactly sure why they grow to be giants among their kind, but it is probably due to a combination of luck, diet, and constant access to food. These goblins are monsters among their own kind, not just in height, but also in girth and in strength. If not cast out for eating all of the tribe's food, oversized goblins often become the bosses of their tribes, and the most powerful of them become chiefs.
+
+Oversized goblins are Medium, and grow to 4 to 5 feet tall. They tend to be particularly obese, weighing between 225 and 275 pounds. Instead of the normal racial ability score modifiers for goblins, oversized goblins gain a +2 bonus to Strength, a +2 bonus to Dexterity, and a –2 penalty to Charisma.
+
 ## Favored Class Options
 
 See the [Advanced Race Guide section of the racial favored class options](../favored-class-bonuses/racial-favored-class-options.md#goblins-advanced-race-guide).

@@ -336,6 +336,54 @@ The following sample traps represent just some of the possibilities when constru
 **Trigger** proximity (alarm); **Reset** none  
 **Effect** spell effect (heightened destruction, 190 damage, DC 23 Fortitude save reduces damage to 10d6)
 
+## Kobold Traps
+
+The following traps are available to kobolds. At the GM’s discretion, other races can also make use of these traps.
+
+### Dragonfire Trap (CR 1)
+
+**Type** mechanical; **Perception** DC 25; **Disable Device** DC 15  
+**Trigger** location; **Reset** none  
+**Effect** cone of fire (2d6 fire damage, DC 20 Reflex half); multiple targets (all targets in a 15-ft. cone)
+
+### Ensnaring Dirt Trap (CR 1)
+
+**Type** mechanical; **Perception** DC 20; **Disable Device** DC 20  
+**Trigger** location; **Reset** manual  
+**Effect** ensnaring dirt (target is entangled until the target succeeds at a DC 25 Strength or Escape Artist check); DC 25 Reflex negates
+
+### Acid Drop Trap (CR 2)
+
+**Type** mechanical; **Perception** DC 25; **Disable Device** DC 20  
+**Trigger** location; **Reset** none  
+**Effect** falling bag of acid (3d6 acid damage, DC 20 Reflex half)
+
+### Dragon Dung Pit Trap (CR 2)
+
+**Type** mechanical; **Perception** DC 20; **Disable Device** DC 20  
+**Trigger** location; **Reset** manual  
+**Effect** 20-ft.-deep pit (2d6 falling damage); dragon dung (Atk +10, creature stinks of dragon dung, –4 on all Stealth checks for 24 hours, –8 on Stealth checks if the detecting creature has the scent ability); DC 20 Reflex negates; multiple targets (all targets in a 10-ft.-square area)
+
+### Falling Log Trap (CR 3)
+
+**Type** mechanical; **Perception** DC 25; **Disable Device** DC 20  
+**Trigger** location; **Reset** repair  
+**Effect** Atk +10 melee (1d6+7); multiple targets (all targets within a 20-foot line)
+
+### Snake Spear Trap (CR 3)
+
+**Type** mechanical; **Perception** DC 20; **Disable Device** DC 20  
+**Trigger** location; **Reset** repair  
+**Effect** Atk +15 ranged (1d8+6 plus black adder venom)
+
+### Rotting Badger under a Falling Rock Trap (CR 4)
+
+**Type** mechanical; **Perception** DC 25; **Disable Device** DC 25  
+**Trigger** location; **Reset** repair  
+**Effect** Atk +10 melee (1d6+6); rotting badger (nauseated for 1d3 rounds, DC 20 Fortitude negates); multiple targets (all targets within 10 feet must attempt to save against the rotting badger)
+
+## Trap Challenge Rating Tables
+
 **Table 13–3: CR Modifiers for Mechanical Traps**
 
 | Feature | CR Modifier |

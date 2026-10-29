@@ -36,6 +36,10 @@ The following racial traits may be selected instead of existing duergar racial t
 
 **Dwarf Traits**: Duergar can select any dwarf racial trait that replaces stability. They can select dwarf racial traits that replace the hardy dwarf racial trait by giving up duergar immunities instead.
 
+**Ironskinned**: The soul of the earth infuses some duergar, giving them the ability to harden their skin. Duergar with this racial trait can use *ironskin* once per day as a spell-like ability, using their character level as their caster level. This racial trait replaces the *enlarge person* spell-like ability.
+
+**Twilight-Touched**: While most duergar have the power to become invisible, a few are instead able to extinguish the light around them. Duergar with this racial trait can use *dust of twilight* once per day as a spell-like ability, using their character level as their caster level. This racial trait replaces the *invisibility* spell-like ability.
+
 ## Favored Class Options
 
 See the [Advanced Race Guide section of the racial favored class options](../favored-class-bonuses/racial-favored-class-options.md#duergar-advanced-race-guide).
