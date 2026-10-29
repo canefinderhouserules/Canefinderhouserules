@@ -1,0 +1,9 @@
+# Piercing Gambit
+
+*(Teamwork)*
+
+You cast a spell destined to fail in order to help your ally overcome an enemy's spell resistance.
+
+**Prerequisites**: Spell Penetration or Bluff 3 ranks; caster level 1st.
+
+**Benefit**: You can expend one prepared spell or spell slot, as if you had cast the spell, to weaken an enemy's defenses. Your spell has no effect, but a designated ally who also has this feat gains a bonus on her caster level check to overcome spell resistance equal to half the level of the spell or spell slot you expended, lasting until the start of your next turn.

@@ -846,3 +846,29 @@ The following traits are appropriate for those who have felt the influence of co
 **Preternatural Awareness (Social)**: Multiple encounters with fell magic have left you wary. You gain a +2 trait bonus on Perception and Sense Motive checks to notice cursed objects, haunts, and magically disguised creatures.
 
 **Rebuke the Curse (Faith)**: Once per day, you can attempt to suppress the effects of a curse on a single creature with a touch. This functions as a *remove curse* spell, treating your character level as your caster level. If you succeed at your caster level check against the curse, the curse's effects are negated for 1 minute. This trait does not allow a person burdened with a cursed item to remove or discard it. Use of this trait is a supernatural ability.
+
+## Antihero Traits
+
+Antiheroes play by their own internal rules, which allow them to accomplish things that those with stricter moral codes (or weaker stomachs) might not.
+
+**Callous (Social)**: You have endured many hardships throughout your life, and this has hardened you to the suffering of others to the point that you are not easily swayed by a sad story. You gain a +4 trait bonus on Sense Motive checks that oppose the Bluff checks of creatures that attempt to deceive you by winning your sympathy.
+
+**Contemptuous (Social)**: Whether you are a commoner who has come to despise the haughty upper crust or a holier-than-thou noble who can't stand being around the unwashed masses, your contempt drives you to study carefully, making sure you always have the upper hand in social exchanges with them. You gain a +1 trait bonus on Knowledge (local) checks and Knowledge (nobility) checks, and one of these skills becomes a class skill for you.
+
+**Criminally Connected (Social)**: You have spent a lot of time dealing with the criminal underworld—so much that it might be hard for observers to see you as distinct from it. However, this familiarity gives you a leg up on heroes who refuse to muddy their reputation. While in settlements, you gain a +1 trait bonus on Knowledge (local) checks and on Diplomacy checks to gather information.
+
+**Cynical (Social)**: You have seen many heroes in your time, but you see only their capacity for failure and the ways they fall short of being truly good. This practice in looking past facades has proven a useful skill. You gain a +1 trait bonus on saving throws against illusions and charm effects.
+
+**Dirty Trickster (Combat)**: You learned early that there's no point in fighting fair when you're fighting for your life. Others may look down their noses at your tactics, but you know you wouldn't have survived this long without breaking a few conventions of fair play. You can take the [Improved Dirty Trick](../../rules/feats/improved-dirty-trick.md) feat without meeting its prerequisites, and you gain a +1 trait bonus on combat maneuver checks to attempt a dirty trick.
+
+**Fugitive (Combat)**: You crossed the law (or those in charge thought you did), and you are now a wanted criminal. As such, you have grown used to looking over your shoulder wherever you go. While in settlements, you gain a +3 trait bonus on Perception checks to determine awareness for the purpose of a surprise round.
+
+**Irreverent (Faith)**: You are suspicious of those who lead spiritual lives and are quick to seek out the smallest hypocrisy in even the most pious individuals. Of course, you are also keenly aware of the power the faithful can draw from their worship, and you are stubbornly resistant to it. You gain a +2 trait bonus on saving throws against divine spells that target only you.
+
+**Obnoxious (Social)**: You have long since forgotten to care what people think about you—though your interactions are always memorable, at the very least. Choose Perform (act), Perform (comedy), Perform (oratory), or Perform (sing); you gain a +1 trait bonus on checks with the chosen skill and gain it as a class skill.
+
+**Solitary (Combat)**: You are skilled at slipping away from crowds. Once per day, you can attempt a Bluff check to create a diversion to hide with a +2 trait bonus on the check, and if successful, you take only a –5 penalty on your Stealth check to get to an unobserved place while observers are distracted (instead of the normal –10 penalty).
+
+**Spirit of the Law (Combat)**: You have seen the rules of society endlessly twisted in their implementation, and as such, you are especially wary of those who exploit the law to impose their own will. You gain a +1 trait bonus on attacks against lawful-aligned humanoids and a +2 trait bonus on saving throws against effects with the lawful descriptor.
+
+**Vengeful (Social)**: You were brutally betrayed, and you have dedicated yourself to pursuing revenge. Choose a humanoid subtype that is not your own from the following list: dwarf, elf, gnome, halfling, or human. You gain a +2 trait bonus on Intimidate checks against creatures with that subtype.

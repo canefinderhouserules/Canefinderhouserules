@@ -6511,3 +6511,103 @@ This metal +1 klar is shaped like the head of a storm roc, whose sharp feathers 
 The cover of this hefty, leather-bound volume has an ornate spine adorned with a stylized eye worked in metal and jewels and is sealed shut by a strap with a brass scarab fastener. When first created, a tome of forgotten epithets has 50 pages. Each page can hold the name of a creature, along with a short description that distinguishes it from other creatures with the same name. The wielder of a tome of forgotten epithets can speak a command word to cause the burning eye on the cover to close, protecting those named within as per *mind blank* for 24 hours and sealing the book shut for this duration. Afterward, the eye on the cover reopens, and any pages that held names vanish.
 
 **Construction Requirements:** Craft Wondrous Item, *mind blank*, *secret page*; **Cost** 54,000 gp
+
+## Antihero Items
+
+### Arrow Slicer
+
+**Slot** none; **CL** 6th; **Price** 21,310 gp; **Weight** 2 lbs.
+
+**Aura** moderate evocation
+
+The blade of this +1 *limning* short sword pulsates with a faint blue glow when wielded. When its wielder is targeted by ranged attacks, an arrow slicer shines even brighter, alerting its user of the incoming danger and granting a +2 bonus on Perception checks to act in the surprise round. Once per round when the wielder is targeted by an attack from a ranged weapon that uses nonfirearm ammunition, he can attempt a DC 20 Reflex saving throw as an immediate action to deflect the projectile. If he exceeds the DC by more than 5, he not only deflects the projectile but also slices it in half, and all foes within 30 feet that can see the wielder do so become shaken for 1d4 rounds; this is a fear effect and can affect a given creature only once per day. Large projectiles, such as boulders hurled by giants and ballista bolts, can't be deflected or cut in half.
+
+**Construction Requirements:** Craft Magic Arms and Armor, *faerie fire*, *wind wall*; **Cost** 10,810 gp
+
+### Crook's Cube
+
+**Slot** none; **CL** 11th; **Price** 26,000 gp; **Weight** 4 lbs.
+
+**Aura** moderate divination
+
+This crystalline cube has a thin plate of soft white stone on one of its faces that's inscribed with several lines of cryptic runes. When the cube's bearer speaks a command word, the runes change shape and spell out information regarding nearby secrets such as back alleys and hidden paths. Once per day, the wielder of a crook's cube can cast *find the path*. The cube also grants its wielder a +5 insight bonus on checks with the following skills in which the wielder has at least 5 ranks: Knowledge (dungeoneering), Knowledge (engineering), Knowledge (geography), Knowledge (history), and Knowledge (local).
+
+**Construction Requirements:** Craft Wondrous Item, *find the path*; at least 5 ranks in Knowledge (dungeoneering), Knowledge (engineering), Knowledge (geography), Knowledge (history), or Knowledge (local); **Cost** 13,000 gp
+
+### Gambler's Coin
+
+**Slot** none; **CL** 5th; **Price** 8,000 gp; **Weight** —
+
+**Aura** faint abjuration
+
+This standard gold coin typically has two blank faces, but its owner can cause a stylized sunburst emblem to appear on either face at will. This proves especially useful when performing coin flips, as the owner of a gambler's coin can essentially guarantee that the result will end up in her favor. As one would expect of an item associated with luck, a gambler's coin confers on its owner an uncanny ability to fortuitously avoid sudden threats. As a result, its bearer gains a +2 luck bonus on Reflex saving throws.
+
+**Construction Requirements:** Craft Wondrous Item, *divine favor*; **Cost** 4,000 gp
+
+### Guns of the Twin Drakes
+
+**Slot** none; **CL** 15th; **Price** 18,600 gp; **Weight** 8 lbs.
+
+**Aura** strong transmutation
+
+These paired firearms—a +1 *flaming* dragon pistol and a +1 *frost* dragon pistol—are ornately inscribed and carefully carved to resemble fire and ice drakes. As a swift action, the guns of the twin drakes can be joined together to function as a double-barreled weapon. As a standard action, the joined weapons can be fired at the same time; in this case they must be fired at the same target, and each shot uses a separate attack roll and takes a –4 penalty. When fired this way, the first shot deals 1d4 additional points of fire damage and the second deals 1d4 additional points of cold damage; this damage is instead of the extra damage normally granted by the *flaming* and *frost* weapon special abilities.
+
+**Construction Requirements:** Craft Magic Arms and Armor, *haste*, *fireball*, *ray of frost*; **Cost** 10,600 gp
+
+### Lenses of the Bully
+
+**Slot** eyes; **CL** 3rd; **Price** 12,500 gp; **Weight** —
+
+**Aura** faint abjuration
+
+Commonly used by thugs, these dark-tinted lenses make the wearer appear threatening. The wearer gains a +2 competence bonus on Intimidate checks. Intelligent creatures find the wearer hard to read; the wearer is treated as if affected by a constant *undetectable alignment* spell, making her true motives difficult to ascertain.
+
+**Construction Requirements:** Craft Wondrous Item, *undetectable alignment*; **Cost** 6,250 gp
+
+### Vial of Reckless Courage
+
+**Slot** none; **CL** 5th; **Price** 5,000 gp; **Weight** 1 lb.
+
+**Aura** faint transmutation
+
+This small glass vial contains an effervescent blue liquid. When imbibed, a vial of reckless courage instills a sense of bravery in the drinker, granting a +4 enhancement bonus on saving throws against fear effects. If the drinker is under a fear effect, she can attempt a new saving throw with a +2 bonus. The drinker becomes eager to rush into danger, and as a result, all of her modes of movement (including burrow, climb, fly, and swim speeds) increase by 30 feet, to a maximum of double her normal speed in any given form of movement, for 5 rounds.
+
+**Construction Requirements:** Craft Wondrous Item, *haste*, *remove fear*; **Cost** 2,500 gp
+
+## Antihero Cursed Items
+
+### Bloodbite
+
+**Aura** moderate evocation; **CL** 10th  
+**Slot** none; **Weight** 8 lbs.
+
+The grip of this greatsword has a series of deep notches, and its jagged blade is a deep crimson. A bloodbite is awakened by bloodlust, and its appetite must be sated. When the wielder makes a successful attack with the bloodbite, it inflicts a wound that deals 1d4 points of bleed damage (in addition to its normal damage), but it also deals 1d4 points of bleed damage to the wielder as the hilt grows teeth that dig into the wielder's hands. Once used, the bloodbite must be used as its wielder's primary melee weapon, and it can be discarded only after the owner benefits from a *remove curse* spell or similar effect.
+
+**Intended Magic Item** +2 *wounding* greatsword
+
+### Chatter Ring
+
+**Aura** faint divination; **CL** 3rd  
+**Slot** ring; **Weight** —
+
+This ring appears as a normal [ring of eloquence](rings-acg.md), with four different languages (usually Common, Dwarven, Elven, and Gnome) etched around the inside of a silver band, and the wearer of a chatter ring gains the ability to speak the four languages inscribed in the ring. However, the difference between a chatter ring and a normal ring of eloquence quickly becomes apparent when the wearer speaks, as he becomes overwhelmingly talkative. The wearer takes a –2 penalty on Bluff, Diplomacy, Disguise, Perform (oratory), and Stealth checks. The ring can be removed only after the wearer benefits from a *remove curse* spell or similar effect.
+
+**Intended Magic Item** *ring of eloquence*
+
+### Kleptomaniac's Gloves
+
+**Aura** faint transmutation; **CL** 3rd  
+**Slot** hands; **Weight** 1 lb.
+
+These simple calfskin gloves intensify the avaricious inclinations of their wearer. Kleptomaniac's gloves confer the same +5 competence bonus on Sleight of Hand checks as *gloves of larceny*, but the first time the wearer attempts to take something from a given creature with a Sleight of Hand check, she must attempt another such check against that creature at the first available opportunity, whether or not the first attempt was successful. This increases the DC of the check by 10, as though the first attempt were a failure, and it imparts a –20 penalty on the check. Kleptomaniac's gloves can be removed only after the wearer benefits from a *remove curse* spell or similar effect.
+
+**Intended Magic Item** *gloves of larceny*
+
+### Overcharged Staff
+
+**Aura** moderate evocation; **CL** 11th  
+**Slot** none; **Weight** 5 lbs.
+
+This staff appears as a normal *staff of electricity*, except it is black instead of silver and electricity occasionally arcs along the shaft. The curse on this weapon alters the *shocking grasp*, *lightning bolt*, and *chain lightning* spells granted by the staff, causing extra surges of energy to damage the wielder and his allies. When the wielder uses the overcharged staff to cast *shocking grasp*, he takes 1d3 points of electricity damage per caster level (maximum 5d3). When the wielder uses the overcharged staff to cast *lightning bolt*, a random ally takes 1d6 points of electricity damage per caster level (maximum 10d6); the ally takes half that amount with a successful Reflex save. When the wielder uses the overcharged staff to cast *chain lightning*, for each target the wielder chooses as a primary or secondary target, a random ally must be chosen as a secondary target.
+
+**Intended Magic Item** *staff of electricity*

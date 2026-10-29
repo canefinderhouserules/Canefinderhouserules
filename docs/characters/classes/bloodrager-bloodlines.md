@@ -483,3 +483,25 @@ Hags interbreed with other races frequently, and those children who escape their
 **Covenguard (Su)**: At 16th level, you can cast *bestow curse* three times per day as a spell-like ability. You count as a hag for the purposes of joining a coven; the coven must contain at least one hag.
 
 **Curse Conduit (Su)**: At 20th level, you gain immunity to negative energy damage and all spells with the curse descriptor. Whenever you confirm a critical hit with a melee weapon, you can immediately target your opponent with a *bestow curse* spell or spell-like ability as a free action.
+
+## Martyred
+
+One of your ancestors paid the ultimate price for her beliefs. This distant relative martyred herself out of a devout dedication to some specific cause, and that sacrifice has infused you with power that you can use for good—or for ill. When you bloodrage, an inspiring fury conjures echoes of your forebear's incredible determination and selfless dedication, both offering you protection and amplifying your ability to punish any who dare incur your wrath.
+
+**Bonus Feats**: Diehard, Endurance, Heroic Defiance, Heroic Recovery, Leadership, Persuasive, Toughness.
+
+**Bonus Spells**: *Endure elements* (7th), *surmount affliction* (10th), *heroism* (13th), *blessing of fervor* (16th).
+
+**Bloodline Powers**: When you bloodrage, you channel the power of your ancestor's self-sacrifice to urge yourself and your allies on to greater feats of strength than would otherwise be possible.
+
+**Ancestral Strikes (Su)**: At 1st level, three times per day as a swift action, you can imbue your melee attacks with a measure of your ancestor's power. For 1 round, your melee attacks deal 1d6 additional points of good-aligned damage if you are good, or they deal 1d6 additional points of evil-aligned damage if you are evil. If you are neutral, you must choose which type of damage this ability deals when you choose this bloodline, and the decision cannot be changed later. At 8th level, you can use this ability up to five times per day. At 20th level, all your melee attacks deal this additional damage, and you don't need to activate this ability.
+
+**Martyr's Resistances (Su)**: At 4th level, you gain fire resistance 5 and you gain a +2 bonus on saving throws against fear and pain effects. At 8th level, your fire resistance increases to 10, and the bonus on saving throws against fear and pain effects increases to +4.
+
+**Forebear's Reserves (Su)**: At 8th level, you can reroll a saving throw once during a bloodrage. You must decide to use this ability after the die is rolled but before the GM reveals the result. You must take the second result, even if it's worse.
+
+**Ancestral Champion (Su)**: At 12th level, when your ancestral strikes target a creature whose alignment is opposite to the type of damage the strikes deal, your ancestral strikes instead deal 2d6 additional points of damage of that type.
+
+**Sacrificial Exchange (Su)**: At 16th level, as a swift action once per day while you are bloodraging, you can take a –2 penalty to Armor Class to grant one ally within 30 feet a +4 morale bonus to one ability score. (This penalty to your AC stacks with the penalty from your bloodrage.) The penalty and bonus last for the duration of your bloodrage. At 20th level, the penalty this ability imposes changes to –4, and the ally's bonus increases to +6.
+
+**Eternal Martyr (Su)**: Your ancestor's sacrifice transcends time and space, keeping you alive when you otherwise shouldn't be and sanctifying your form. At 20th level, your ancestor's act of martyrdom infuses your spirit. You become immune to death effects. Material components for spells and effects to bring you back to life (such as *raise dead* or *resurrection*) cost half as much as normal. Your body cannot be turned into an undead creature, as though you were affected by a permanent *hallow* effect (caster level = your bloodrager level). You have these benefits constantly, even while not bloodraging.

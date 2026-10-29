@@ -13,11 +13,17 @@ Drawbacks are gained either by choosing them or through the [background generato
 
 **Betrayed**: You were reported to a dangerous authority such as a secret police force, a hunting order of inquisitors, or a ruling council, and narrowly escaped death. You second-guess your instincts constantly, leaving you never sure whether or not to trust someone and endangered if you encounter that group’s agents again. You can roll twice and take the lower result on Sense Motive checks to get hunches. You cannot reroll this result, even if you have another ability that would normally allow you to do so.
 
+**Bitter**: You have been hurt repeatedly by those you trusted, and it has become difficult for you to accept help. When you receive healing from an ally's class feature, spell, or spell-like ability, reduce the amount of that healing by 1 hit point.
+
+**Cowardly**: You might face dangerous situations with bravado, but you are constantly afraid. Your base speed when frightened and fleeing increases by 5 feet, and the penalties you take from having the cowering, frightened, panicked, or shaken conditions increase by 1. If you would normally be immune to fear, you do not take these penalties but instead lose your immunity to fear (regardless of its source).
+
 **Dependent**: You are dependent upon the acceptance of others. Whenever you fail a Diplomacy check, you become shaken for 1 hour.
 
 **Doubt**: You lack confidence in your abilities or confidence in the universe at large. Whenever you fail a skill or ability check, you take a –4 penalty on that type of skill or ability check for the next hour.
 
 **Empty Mask**: You have spent so long hiding your true identity to escape political enemies that you have lost much of your sense of self. You take a –1 penalty on Will saving throws against compulsions. This penalty increases to –2 against foes who know your true identity.
+
+**Entomophobe**: A harrowing experience with insects when you were young instilled in you a deep-seated fear of vermin of all description, especially when they swarm together. You take a –2 penalty on attacks against vermin, and you take a –2 penalty on saving throws against the nauseated condition of a swarm's distraction ability.
 
 **Family Ties**: Your family is extremely important to you, and you feel disheartened when you can’t do what they ask. When a family member makes a request of you, you must fulfill that request or take a –2 penalty on all Wisdom- and Charisma-based ability checks and skill checks until you either do what was requested or succeed at a DC 20 Will saving throw, which you can attempt once per day at the start of each day. You can’t take this drawback if you have no family. If you ever lose your family or lose contact with your family, exchange this drawback for the Doubt drawback.
 
@@ -25,13 +31,21 @@ Drawbacks are gained either by choosing them or through the [background generato
 
 **Guilty Fraud**: You received something through trickery that you did not deserve, and your guilt for the misdeed distracts you from dangers around you. You take a –4 penalty on Bluff checks against creatures with an attitude toward you of indifferent or better.
 
+**Haunted**: Something from your past—or a dark secret you presently hold—makes it difficult for you to ever be at peace, and your chronic worry that you might fall to evil influence has become a self-fulfilling prophecy. You take a –2 penalty on saves against spells with the evil descriptor.
+
 **Headstrong**: You feel compelled to correct every action and argument that contradicts your worldview. Whenever you witness an action or hear an argument that contradicts your alignment, you must attempt to stop or correct that action or argument. If you either don’t try to stop it or fail in your attempt to stop it (as adjudicated by the GM), you are shaken for 1 hour.
 
 **Hedonistic**: You are a creature of pleasure and comfort. Whenever you spend a day without gaining reward or treasure (at least 10 or more gold pieces) or spending an hour on entertainment or pleasure, attempt a DC 20 Fortitude save at the end of that day. If you fail, you begin the next day fatigued. This fatigue lasts 4 hours, or until you receive a reward or sufficient entertainment or pleasure.
 
+**Helpless**: You once stood helpless as great harm befell a loved one, and that paralysis sometimes returns when an ally is in a dire position. The first time per combat encounter that an ally within 30 feet falls unconscious or dies as the result of an attack, you are dazed until the end of your next turn.
+
+**Impatient**: You love leaping into battle at the earliest opportunity, and it frustrates you to wait for others to act. You can't delay or ready actions, and if you are the last of your allies to act in a round of combat, you take a –1 penalty on ability checks, attack rolls, saving throws, and skill checks.
+
 **Infamous**: You were publicly linked, truthfully or not, to a crime of significant infamy. You draw attention wherever you go and risk imprisonment or worse in the jurisdiction where the crime was committed. You and your apparent allies take a –4 penalty on Diplomacy checks to interact with law-abiding citizens (except enemies of the authority that accused you).
 
 **Information Overload**: You have had access to thousands of spy reports, many of which turned out to be based on faulty deductions or even intentionally false stories spread by opposed spy groups. At this point, you have been exposed to false knowledge as much as accurate information, and you can’t always remember which is which. You take a –2 penalty on all Knowledge checks, and if you fail a Knowledge check by 5 or more, you can recall information that is diametrically opposed to the truth.
+
+**Insatiable**: You have become so accustomed to binging on the finer things in life that you find going without such excess particularly strenuous. Goods and services cost you 10% more (and can't be paid for by allies), and you need twice as much food and liquid as normal for the purposes of preventing starvation and thirst.
 
 **Lonely**: You are far too easily convinced of the friendly intentions of others. You take a –2 penalty on Sense Motive checks and on Perception checks to see through disguises, and on saving throws against charm spells and spell-like abilities.
 
@@ -53,9 +67,15 @@ Drawbacks are gained either by choosing them or through the [background generato
 
 **Righteous Indignation**: You have difficulty controlling your temper after living in inhuman conditions under a brutal regime. Whenever a foe provokes an attack of opportunity from you, you must take it unless you succeed at a Will save against a DC equal to 10 + your level. You take a –1 penalty on Will saving throws against spells with the emotion descriptor that do not also have the fear descriptor.
 
+**Scarred**: An injury left you horribly, visibly scarred, making it more difficult for you to hide your true face, and also making most people distrustful of you merely due to your appearance. You take a –5 penalty on Disguise checks and a –2 penalty on Bluff checks.
+
 **Secret Shame**: You have a terrible fear of the public at large, a group, or an important person (such as your order of knights, your liege lord, your family, or your lover) learning a shameful truth about you. You take a –1 penalty on saving throws against fear effects, and the DC of any Intimidate check to demoralize you is reduced by 1. If you would normally be immune to fear, you do not take these penalties, but instead lose your immunity to fear (regardless of its source).
 
+**Self-Doubting**: Your ever-present fear of failure causes a downward spiral. The first time each day that you fail a Will saving throw or skill check, you take a –2 penalty on the next Will saving throw or skill check of that kind.
+
 **Sentimental**: You are sentimental, and your thoughts often stray to the past at inappropriate times. You take a –2 penalty on Perception checks to avoid being surprised and on Reflex saving throws to avoid traps or hazards.
+
+**Stigmatized**: You were kept at the periphery of society for a long period of time, so that even when you are among strangers in a new place, you feel the weight of your missing socialization. You take a –3 penalty on Diplomacy checks to gather information or improve a creature's attitude.
 
 **Too Many Secrets**: You’ve told too many lies, and made up too many cover stories, and now even you can’t keep it all straight. The lies have become reality to you, which makes it difficult to think of a new convincing lie. You hesitate at crucial moments when trying to fool those around you, and likely shouldn’t be in the field at all anymore. You take a –2 penalty on Bluff checks and saving throws against illusions.
 

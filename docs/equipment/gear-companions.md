@@ -2734,3 +2734,35 @@ This simple disk, usually carved from stone or fashioned from metal, is engraved
 **Price** 100 gp; **Weight** 8 lbs.
 
 These fine garments come in assorted vibrant colors and are used in the most important religious or spiritual ceremonies. The vestments typically include a robe or cloak embroidered with a religion's holy symbol, as well as a number of extravagant accessories, such as fine jewelry, long sashes, tall hats, and other appropriate attire.
+
+## Nasty Alchemy
+
+### Iniquitous Panacea
+
+**Price** 200 gp; **Weight** 1 lb.
+
+*Alchemical remedy.* Although it's often packaged and sold as a cure-all, this nefarious snake-oil concoction temporarily weakens the immune system of whoever consumes it, accelerating the rate at which the drinker suffers from a contracted poison or disease. Consuming the iniquitous panacea while suffering the effects of a disease or poison increases the DCs of the imbiber's next three Fortitude saving throws against the disease or poison by 2 and halves the remaining onset time of any contracted diseases or poisons that have not yet taken effect; these effects wear off after 24 hours. An iniquitous panacea has no effect on creatures that have not contracted a disease or a poison. Crafting an iniquitous panacea requires a successful DC 15 Craft (alchemy) check.
+
+### Ink of Stolen Secrets
+
+**Price** 50 gp; **Weight** 1 lb.
+
+*Alchemical tool.* This alchemically concocted black ink can be attuned to a standard sheet of parchment. Anything inscribed using the ink (anywhere on the same plane of existence) appears on the attuned parchment in a sparkling blue script that lasts 1 hour. There is enough ink in one vial to fill one sheet of parchment. The ink cannot duplicate any written magical effects, such as a *symbol of death*. Crafting a vial of ink of stolen secrets requires a successful DC 15 Craft (alchemy) check.
+
+### Dung Grenade
+
+**Price** 100 gp; **Weight** 1 lb.
+
+*Alchemical weapon.* The casing of this modified fuse grenade is partially filled with animal dung or guano. You can throw a dung grenade as a splash weapon with a range increment of 10 feet. Any creature directly hit by a dung grenade or in its splash radius takes 1d6 points of fire damage and is covered with the grenade's malodorous contents, becoming sickened for 1d4 rounds. A target can attempt a DC 15 Reflex saving throw to halve the damage and the duration of the sickened condition. Crafting a dung grenade requires a successful DC 25 Craft (alchemy) check.
+
+### Hellfire Sparkler
+
+**Price** 250 gp; **Weight** 50 lbs.
+
+*Alchemical weapon.* This large barrel-shaped sparkler is imbued with mysterious, hellish forces. The fuse can be lit as a standard action; 1d4 rounds later, the sparkler crackles violently with sickly-green sparks that take the form of an army of ferocious devils. Creatures within a 10-foot-radius burst take 3d6 points of fire damage and become shaken for 2 rounds; a target can attempt a DC 15 Will save to halve the damage and the duration of the shaken condition. Crafting a hellfire sparkler requires a successful DC 25 Craft (alchemy) check.
+
+### Portable Hive
+
+**Price** 300 gp; **Weight** —
+
+*Alchemical weapon.* This large flask holds a swarm of angry wasps. A portable hive can be thrown as a splash weapon, and when it hits a grid intersection or a creature, a wasp swarm appears in a 10-foot-by-10-foot square at the point of impact. This swarm does not have the distraction or poison special abilities, and it disperses after 1d4 rounds. Crafting a portable hive requires a successful DC 25 Craft (alchemy) check.

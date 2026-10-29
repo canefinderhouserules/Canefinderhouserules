@@ -32,6 +32,7 @@ See [Afflictions](afflictions.md) for how to read a stat block.
 | Bloodroot | injury | 12 | 1 rd. | 1/rd. for 4 rds. | 1 Con and 1 Wis | 1 save | 100 gp |
 | Blue whinnis | injury | 14 | — | 1/rd. for 2 rds. | 1 Con/unconscious 1d3 hours | 1 save | 120 gp |
 | Burnt othur fumes | inhaled | 18 | — | 1/rd. for 6 rds. | 1 Con drain/1d3 Con | 2 saves | 2,100 gp |
+| Concentrated Laxative | ingested | 12 | 10 min. | 1/min. for 2 min. | sickened, then nauseated | 1 save | 75 gp |
 | Confabulation Powder | inhaled | 18 | — | 1/minute for 2 minutes | staggered; then suggestible | 1 save | 80 gp |
 | Dark reaver powder | ingested | 18 | 10 min. | 1/min. for 6 min. | 1d3 Con and 1 Str | 2 saves | 800 gp |
 | Deathblade | injury | 20 | — | 1/rd. for 6 rds. | 1d3 Con | 2 saves | 1,800 gp |
@@ -40,6 +41,7 @@ See [Afflictions](afflictions.md) for how to read a stat block.
 | Dreaming Death | inhaled | 16 | 10 min. | 1/10 min. for 1 hr. | Sleep 10 min., see text | 1 save | 2,500 gp |
 | Drow poison | injury | 13 | — | 1/min. for 2 min. | unconscious 1 min./2d4 hours | 1 save | 75 gp |
 | Flaming Doom | injury | 18 | — | 1/round for 6 rounds | 1d6 fire and possible catch fire | 2 saves | 900 gp |
+| Frightshade | inhaled | 14 | — | 1/rd. for 4 rds. | shaken | 1 save | 100 gp |
 | Fury Gas | inhaled | 16 | — | 1/minute for 4 minutes | Non-orcs blinded; orcs rage | 2 saves | 300 gp |
 | Gelidburn Oil | injury | 12 | — | 1/round for 4 rounds | 1d3 fire, 1d3 cold, and staggered 1 round | 1 save | 75 gp |
 | Giant wasp poison | injury | 18 | — | 1/rd. for 6 rds. | 1d2 Dex | 1 save | 210 gp |
@@ -56,8 +58,11 @@ See [Afflictions](afflictions.md) for how to read a stat block.
 | King’s sleep | ingested | 19 | 1 day | 1/day | 1 Con drain | 2 saves | 5,000 gp |
 | Large scorpion venom | injury | 17 | — | 1/rd. for 6 rds. | 1d2 Str | 1 save | 200 gp |
 | Laughing gas | inhaled | 12 | — | 1/rd. for 5 rds. | dazed 1 round | 1 save | 500 gp |
+| Leopard's Bane | ingested | 20 | 1 min. | 1/rd. for 6 rds. | 1d2 Con drain, 1d4 bleed, blinded | 2 saves | 4,500 gp |
 | Lich dust | ingested | 17 | 10 min. | 1/min. for 6 min. | 1d3 Str | 2 saves | 400 gp |
+| Liquid Leprosy | contact | 20 | 1 min. | 1/min. for 6 min. | necrotizing, see text | 2 saves | 750 gp |
 | Liquid Persuasion | ingested | 11 | 10 minutes | 1/minute for 5 minutes | 1 Wis; attitude shifts extra step | 1 save | 120 gp |
+| Lungsap Powder | inhaled | 16 | — | 1/rd. for 4 rds. | staggered, then unconscious | 1 save | 1,200 gp |
 | Malyass root paste | contact | 16 | 1 min. | 1/min. for 6 min. | 1d2 Dex | 1 save | 250 gp |
 | Medium spider venom | injury | 14 | — | 1/rd. for 4 rds. | 1d2 Str | 1 save | 150 gp |
 | Mindcap Extract | ingested | 18 | — | 1/hour for 8 hours | memory loss | 2 saves | 800 gp |
@@ -73,6 +78,7 @@ See [Afflictions](afflictions.md) for how to read a stat block.
 | Sassone leaf residue | contact | 16 | 1 min. | 1/min. for 6 min. | 2d12 hp/1 Con | 1 save | 300 gp |
 | Scholarblight | inhaled | 15 | — | 1/min. for 6 min. | 1d3 Int, see text | 1 save | 1,500 gp |
 | Shadow essence | injury | 17 | — | 1/rd. for 6 rds. | 1 Str drain/1d2 Str | 1 save | 250 gp |
+| Sloth's Bite | injury | 18 | — | 1/rd. for 6 rds. | 1d2 Dex, flat-footed | 1 save | 300 gp |
 | Small centipede poison | injury | 11 | — | 1/rd. for 4 rds. | 1 Dex | 1 save | 90 gp |
 | Smell of Fear | inhaled | 17 | — | 1/minute for 6 minutes | 1d2 Wis; shaken becomes frightened | 2 saves | 600 gp |
 | Snap will | ingested | 18 | 5 min. | 1/min. for 10 min. | –4 on Will saves and Wis skill checks | 2 saves | 2,500 gp |
@@ -155,6 +161,14 @@ This orange liquid burns regardless of temperature, which its drow creators clai
 **Initial Effect** 1 Con drain; **Secondary Effect** 1d3 Con damage;  
 **Cure** 2 consecutive saves
 
+### Concentrated Laxative
+
+**Type** poison, ingested; **Save** Fortitude DC 12  
+**Onset** 10 minutes; **Frequency** 1/minute for 2 minutes  
+**Effect** After the first failed saving throw, the target is sickened for 1 minute, and after a second failure, the target is nauseated for 1 minute; **Cure** 1 save
+
+This mixture is a favorite of pranksters, who use the colonic concoction for any number of reasons, such as to incommode a nosy interlocutor.
+
 ### Confabulation Powder
 
 **Type** poison, inhaled; **Save** Fortitude DC 18  
@@ -212,6 +226,14 @@ Creatures awaken from these visions scarred and prone to self-harm. Victims must
 **Effect** 1d6 fire damage and victim possibly catches on fire; **Cure** 2 saves
 
 **Recipe** (200 magnesium + 200 phosphorus + 250 saltpeter)/distillation; **Craft DC** 18; **Time** 1 day; **Tools** retort; **Type** poison
+
+### Frightshade
+
+**Type** poison, inhaled; **Save** Fortitude DC 14  
+**Onset** immediate; **Frequency** 1/round for 4 rounds  
+**Effect** The target is shaken until the beginning of her next turn. When the target succeeds at her saving throw against the poison, or when the initial duration ends, she is shaken for an additional 1d4 rounds. (This is not a fear effect.); **Cure** 1 save
+
+This plant's pollen contains a powerful hallucinogen that causes affected creatures to experience terribly realistic visions of death and destruction.
 
 ### Fury Gas
 
@@ -323,11 +345,32 @@ Swindlers claim this green capsule restores the victim's youth. After 1 day, any
 **Onset** immediate; **Frequency** 1/round for 5 rounds  
 **Effect** The subject experiences a bout of uncontrollable laughter and is dazed for 1 round; **Cure** 1 save
 
+### Leopard's Bane
+
+**Type** poison, ingested; **Save** Fortitude DC 20  
+**Onset** 1 minute; **Frequency** 1/round for 6 rounds  
+**Effect** 1d2 Constitution drain and 1d4 points of bleed damage. Blood (or an equivalent bodily fluid, if the imbiber does not have blood) flows from the target's eyes, causing the subject to be blinded for the duration of the bleed effect. This bleeding can be stopped as normal (with a successful DC 15 Heal check or the application of any magical healing); **Cure** 2 saves
+
+Consuming the flowers of this plant weakens the walls of the imbiber's veins, causing them to rupture.
+
 ### Lich Dust
 
 **Type** poison, ingested; **Save** Fortitude DC 17  
 **Onset** 10 minutes; **Frequency** 1/minute for 6 minutes  
 **Effect** 1d3 Str damage; **Cure** 2 consecutive saves
+
+### Liquid Leprosy
+
+**Type** poison, contact; **Save** Fortitude DC 20  
+**Onset** 1 minute; **Frequency** 1/minute for 6 minutes  
+**Effect** Each time the target fails its saving throw, part of his body begins to necrotize. Roll d% on the table below to determine which part of the body starts rotting. Each necrotizing effect stacks with the others but not with itself; if the same effect is rolled more than once, choose a new effect that hasn't been rolled yet from the table; **Cure** 2 saves
+
+| d% | Effect |
+|---|---|
+| 1–30 | Hands, 2 Dex damage |
+| 31–60 | Arms, 2 Str damage |
+| 61–95 | Torso, 2 Con damage |
+| 96–100 | Brain, 2 Int and 2 Wis damage |
 
 ### Liquid Persuasion
 
@@ -336,6 +379,14 @@ Swindlers claim this green capsule restores the victim's youth. After 1 day, any
 **Effect** 1 Wis damage, and for the duration of the poison, the next time the victim's attitude toward another creature would shift one or more steps toward helpful as a result of a successful Diplomacy or Intimidate check or other effect, the victim's attitude also shifts one additional step. For example, if the victim's attitude would shift from indifferent to friendly (one step better), it shifts to helpful instead (two steps better); **Cure** 1 save
 
 **Recipe** (20 dew of lunary + 20 quicksilver + 80 spirit of wine)/distillation; **Craft DC** 11; **Time** 1 day; **Tools** retort; **Type** poison
+
+### Lungsap Powder
+
+**Type** poison, inhaled; **Save** Fortitude DC 16  
+**Onset** immediate; **Frequency** 1/round for 4 rounds  
+**Effect** The target has difficulty breathing and is staggered. If the target suffers the effect for 4 rounds, he falls unconscious for 1 minute at the end of the fourth round; **Cure** 1 save
+
+This fine powder absorbs the oxygen from the lungs of any creature that breathes it in, causing the creature to gradually asphyxiate.
 
 ### Malyass Root Paste
 
@@ -439,6 +490,14 @@ Created by necromantic cults to simultaneously protect and bind newcomers and se
 **Frequency** 1/round for 6 rounds  
 **Initial Effect** 1 Str drain; **Secondary Effect** 1d2 Str damage;  
 **Cure** 1 save
+
+### Sloth's Bite
+
+**Type** poison, injury; **Save** Fortitude DC 18  
+**Onset** immediate; **Frequency** 1/round for 6 rounds  
+**Effect** The target takes 1d2 points of Dexterity damage and is flat-footed until the beginning of her next turn; **Cure** 1 save
+
+This poison causes the affected creature to be sluggish and slow to react.
 
 ### Small Centipede Poison
 

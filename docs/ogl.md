@@ -279,3 +279,5 @@ The following text is the property of Wizards of the Coast, Inc. and is Copyrigh
     Pathfinder Player Companion: Blood of the Coven © 2017, Paizo Inc.; Authors: John Compton, Eleanor Ferron, Crystal Frasier, Lissa Guillet, Elisa Mader, Adrian Ng, Mark Seifter, and Linda Zayas-Palmer.
 
     Pathfinder Player Companion: Disciple's Doctrine © 2018, Paizo Inc.; Authors: Saif Ansari, Mara Lynn Butler, Jeffrey Hersh, Andrew Hoskins, Lyz Liddell, Luis Loza, and Linda Zayas-Palmer.
+
+    Pathfinder Player Companion: Antihero's Handbook © 2017, Paizo Inc.; Authors: Emily Brumfield, Violet Hargrave, Susann Hessen, Mikko Kallio, Lyz Liddell, Adrian Ng, Joe Pasini, Lacy Pellazar, Kyle T. Raes, David N. Ross, and Kendra Leigh Speedling.
