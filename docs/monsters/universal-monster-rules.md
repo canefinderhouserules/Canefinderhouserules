@@ -586,6 +586,38 @@ This additional standard action can’t be used to cast a spell. It can’t gain
 
 *Format: display of strength; Location: SQ.*
 
+**Dragon Blood** (Su) The mythic dragon's blood and other fluids are infused with acid, cold, electricity, or fire, matching the dragon's breath weapon energy type. Every time the dragon is damaged by a piercing or slashing weapon, the attacking creature takes energy damage according to the table below (or double damage if the attack is a critical hit). Using a reach weapon does not endanger the attacker in this way. If the dragon has the swallow whole ability, it adds this damage to its swallow whole damage.
+
+| Dragon Size | Points of Energy Damage |
+|---|---|
+| Medium or smaller | 1d4 |
+| Large | 1d6 |
+| Huge | 1d8 |
+| Gargantuan | 2d6 |
+| Colossal | 2d8 |
+
+*Format: dragon blood (2d6 fire); Location: Defensive Abilities.*
+
+**Dragon Fury** (Su) If a mythic dragon confirms a critical hit with a natural weapon, it adds its dragon blood damage to the damage dealt by the natural attack.
+
+*Format: dragon fury (1d6 fire); Location: Special Attacks.*
+
+**Feral Savagery** (Su) Under the circumstances listed in the monster's stat block (such as when it makes a full attack or a rend attack), it can immediately attempt an additional attack against an opponent. This attack is made using the creature's full base attack bonus, plus any modifiers appropriate to the situation. This additional attack doesn't stack with similar means of gaining additional attacks, such as the *haste* spell or a speed weapon. This ability doesn't grant an extra action, so you can't use it to cast a second spell or otherwise take an extra action in the round.
+
+*Format: feral savagery (full attack); Location: Special Attacks.*
+
+**Sand Glide** (Ex) This ability functions like the earth elemental's earth glide ability, but works only on sand, dirt, and other fine-grained solid matter. The creature's speed using sand glide is the same as its base speed.
+
+*Format: sand glide; Location: Speed.*
+
+**Simple Arcane Spellcasting** The creature gains the ability to cast spells from the sorcerer/wizard spell list. Select a number of spells with total spell levels equal to twice the creature's CR. No spell for this ability should have a level higher than 1 + 1/2 the creature's CR. A 0-level spell counts as 1/2 spell level toward this total. The creature can cast each of these spells once per day. Its caster level is equal to its Hit Dice. It uses the higher of its Intelligence or Charisma modifiers to determine its spell DCs.
+
+*Format: simple arcane spellcasting; Location: Special Attacks.*
+
+**Simple Divine Spellcasting** The creature gains the ability to cast spells from the cleric or druid spell list. Select a number of spells with total spell levels equal to twice the creature's CR. No spell for this ability should have a level higher than 1 + 1/2 the creature's CR. A 0-level spell counts as 1/2 spell level toward this total. The creature can cast each of these spells once per day. Its caster level is equal to its Hit Dice. It uses its Wisdom or Charisma (whichever is higher) to determine its spell DCs.
+
+*Format: simple divine spellcasting; Location: Special Attacks.*
+
 **Dragon Cantrips** (Su) If the mythic dragon is able to cast arcane spells, it automatically knows all cantrips for its equivalent spellcasting class and can cast them at will.
 
 *Format: dragon cantrips; Location: SQ.*
@@ -611,6 +643,14 @@ If at least one formian disbelieves an illusion, all formians within its telepat
 **Lingering Breath** (Su) The creature can expend one use of mythic power as a free action when it uses its breath weapon to make the area radiate energy damage (of the same type as the breath weapon) for 1 round per mythic rank.
 
 Any creature in, entering, or passing through the breath weapon’s area during this duration takes damage according to the creature’s size. This ability has no effect on breath weapons that do not deal energy damage.
+
+| Creature Size | Points of Energy Damage |
+|---|---|
+| Medium or smaller | 2d4 |
+| Large | 2d6 |
+| Huge | 2d8 |
+| Gargantuan | 4d6 |
+| Colossal | 4d8 |
 
 *Format: lingering breath (2d6 fire, 5 rounds); Location: Special Attacks.*
 

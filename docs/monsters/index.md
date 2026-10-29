@@ -13,6 +13,7 @@ Rules for understanding, building, and advancing monsters. Individual monster st
 - [Monster Advancement](monster-advancement.md): adding Hit Dice and class levels, and applying templates.
 - [Monster Feats](monster-feats.md): Ability Focus, Flyby Attack, Multiattack and the other feats built for monsters.
 - [Monsters as PCs](monsters-as-pcs.md): guidelines for playing monsters as player characters.
+- [Mythic Monsters](mythic-monsters.md): mythic simple templates and rules for building mythic creatures.
 - [Monster Templates](templates/index.md): simple templates plus undead, planar and other templates from the Bestiary books.
 
 ## Monsters by Source
