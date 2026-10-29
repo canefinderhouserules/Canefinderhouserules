@@ -273,3 +273,5 @@ The following text is the property of Wizards of the Coast, Inc. and is Copyrigh
     Pathfinder Player Companion: Legacy of Dragons © 2016, Paizo Inc.; Authors: Alexander Augunas, Robert Brookes, Thurston Hillman, Michelle Jones, Mikko Kallio, and Mark Seifter.
 
     Pathfinder Player Companion: Wilderness Origins © 2019, Paizo Inc.; Authors: Kim Frandsen, Sasha Hall, Violet Hargrave, Andrew Mullen, Jessica Redekop, Mikhail Rekun, Sean K. Reynolds, and Rodney Sloan.
+
+    Pathfinder Player Companion: Heroes from the Fringe © 2018, Paizo Inc.; Authors: Saif Ansari, Kate Baker, Michelle Jones, Isabelle Lee, Adrian Ng, Alex Riggs, Owen K.C. Stephens.

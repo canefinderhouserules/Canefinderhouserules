@@ -94,6 +94,22 @@ These traits can be selected in place of specific racial traits, but their racia
 
 **Dragon Magic (3 RP)**: Some elves have potent draconic blood. Elves with this racial trait who take a draconic bloodline as a class feature treat their Charisma scores as 2 points higher when determining the DC and uses per day of all bloodline abilities and bloodline spells. Additionally, elves with this trait add spells with the draconic descriptor to their class spell lists for any spellcasting classes in which they have levels.
 
+### Heritage Alternate Racial Traits
+
+Elves from different cultures often take alternate racial traits and also have access to the following traits unique to their subculture. Consult your GM before selecting any of these options.
+
+**Aquatic Mastery**: Some aquatic elves are able to wield the power of the sea with great prowess. Elves with this racial trait increase the DC of any spell with the water descriptor they cast by 1. This replaces weapon familiarity.
+
+**Devoted Companion**: While some elves quickly become inured to the loss and tragedy all too common in their lives among shorter-lived friends, some refuse to let go, fighting passionately when companions are endangered. Elves with this alternate racial trait gain a +1 racial bonus on attack rolls and caster level checks while adjacent to an ally who has been reduced to fewer than half her maximum hit points. This replaces elven magic and weapon familiarity.
+
+**Eastern Weapon Mastery**: Some elves are proficient with many of the weapons of distant eastern lands. Elves with this racial trait are proficient with fighting fans and tonfa, and they treat katanas, kusarigamas, and wakizashis as martial weapons. This replaces weapon familiarity.
+
+**Frostmelding**: A few rare elves from the far north are able to supernaturally blend with their surroundings to avoid the eyes of outsiders. Elves with this alternate racial trait can use *meld into stone* as a spell-like ability once per day, with a caster level equal to their character level, except that they instead meld with snow and ice and the spell duration is 1 round per level. This replaces elven magic.
+
+**Moonkissed**: Some elves, especially those born in secluded and mystically protected enclaves, are warded from birth against dangers both mental and physical. Elves with this alternate racial trait gain a +1 racial bonus on saving throws. This replaces elven immunities and keen senses.
+
+**Sense Thoughts**: Some elves are so closely attuned to each other and their environment that they seem able to read each other's minds and their foes' thoughts. Elves with this alternate racial trait can use *detect thoughts* as a spell-like ability once per day, with a caster level equal to their character level. This replaces elven immunities and keen senses.
+
 ## Racial Subtypes
 
 You can combine various alternate racial traits to create elven subraces or variant races, such as the following.

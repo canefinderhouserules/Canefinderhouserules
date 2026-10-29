@@ -187,6 +187,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Enchantment Sight](enchantment-sight.md)**: See which creatures are under enchantment effects.
 - **[Enemy’s Heart](enemy-s-heart.md)**: You cut out an enemy’s heart and consume it, absorbing that enemy’s power as your own.
 - **[Enshroud Thoughts](enshroud-thoughts.md)**: Ward yourself against thought detection and memory alteration.
+- **[False Age](false-age.md)**: Appear one age category older or younger.
 - **[Familiar Figment](familiar-figment.md)**: Illusory duplicate of your familiar gives a 50% miss chance.
 - **[Fear the Sun](fear-the-sun.md)**: targets gain light blindness
 - **[Flesh Facade](flesh-facade.md)**: Make an undead look alive
@@ -366,6 +367,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Loathsome Veil](loathsome-veil.md)**: Nauseates and/or sickens weak creatures.
 - **[Locate Weakness](locate-weakness.md)**: You roll damage twice when you roll damage for a critical hit and take the best damage.
 - **[Marionette Possession](marionette-possession.md)**: As magic jar, but limited to line of sight.
+- **[Mark of Spite](mark-of-spite.md)**: Hurt yourself to deal double damage to the marked foe.
 - **[Matchmaker](matchmaker.md)**: Cause two creatures to fall in love.
 - **[Motes of Dusk and Dawn](motes-of-dusk-and-dawn.md)**: up to four motes that shed light or darkness
 - **[Nature’s Ravages](natures-ravages.md)**: Rapidly decomposes a corpse.
@@ -594,6 +596,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Old Salt’s Curse](old-salt-s-curse.md)**: You inflict a curse of the roiling sea upon the target, making it permanently sickened.
 - **[Passing Fancy, Mass](passing-fancy-mass.md)**: As passing fancy, affecting multiple creatures.
 - **[Peacebond, Greater](peacebond-greater.md)**: As *peacebond*, but on multiple weapons, even if they aren’t sheathed.
+- **[Pernicious Pranksters](pernicious-pranksters.md)**: Invisible pranksters trip, disarm, and steal from your foes.
 - **[Pessimism](pessimism.md)**: Force a creature to see the negative side of things.
 - **[Plague Carrier](plague-carrier.md)**: Target’s attacks carry filth fever.
 - **[Poisonous Balm](poisonous-balm.md)**: As *cure serious wounds*, but leave behind a latent venom.
@@ -674,6 +677,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Plague Bearer](plague-bearer.md)**: Target spreads contagion to adjacent creatures.
 - **[Plague Storm](plague-storm.md)**: Cloud infects creatures like contagion.
 - **[Prognostication](prognostication.md)**: Gain cryptic information from further in the future than *divination*.
+- **[Redcap's Touch](redcaps-touch.md)**: A bloodied hat grants +2 damage and healing on kills.
 - **[Runic Overload](runic-overload.md)**: Detonates magical runes with sonic force.
 - **[Sabotage Construct](sabotage-construct.md)**: Confuses a construct.
 - **[Shadow Memory](shadow-memory.md)**: Learn a target’s secrets to aid an assassination.

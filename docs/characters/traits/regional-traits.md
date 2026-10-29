@@ -499,3 +499,25 @@ These traits suit characters who grew up on the road or far from civilization. E
 **Surefooted Ascent** *(Region, Hill or Mountain)*: You gain a +1 trait bonus on Acrobatics and Climb checks.
 
 **Windspeaker** *(Region, Desert)*: You have a keen sense for weather patterns, and you always know 8 hours in advance when naturally occurring winds will reach high speeds.
+
+## Fringe Culture Traits
+
+The following regional traits are appropriate for any character that grew up with different values and social expectations than those that are defined by the major cultures of the setting.
+
+**Cliff Strider (Cliff-dwelling native)**: You grew up along a coast of perilous cliffs, dealing with the dangerous creatures that live on these rocky surfaces. As a move action while climbing, you can climb 5 feet without provoking an attack of opportunity, even if you don't have a climb speed.
+
+**Free Spirit (Tribal native)**: The independent tribes of your homeland hold little regard for the control others wield over free people. Their willful, independent streak makes them suspicious of any attempt to guide their behavior. You gain a +1 trait bonus on Sense Motive checks and on Will saves against mind-affecting effects.
+
+**Mechanical Expertise (Gun-city native)**: Growing up bordering a wasteland and living within a city of engineers has made you familiar with tools and practical objects. You rely on mechanics to solve problems and are familiar with basic engineering concepts. Select one of the following skills: Craft (any), Disable Device, or Knowledge (engineering). You gain a +1 trait bonus on checks with that skill, and it is always a class skill for you.
+
+**Observant Archer (Aquatic origin)**: Growing up in an aquatic environment, where three-dimensional movement and perception were necessary, has given you keen observational skills and the ability to notice and target unusual positions with ranged attacks. You gain a +1 trait bonus on ranged attack rolls when your target is at least 10 feet above or below you.
+
+**Polyglot Upbringing (Jungle native)**: Your homeland is a land of dozens of languages, and you grew up speaking most of them. You gain one bonus language of your choice. In addition, you gain a +1 trait bonus on Linguistics checks when trying to communicate with someone who does not share a common language with you.
+
+**Poet's Tongue (Native speaker of a poetic language)**: Your homeland is a land of poetry, and you have grown up immersed in the words and language of that culture. Your facility with the language is evident to all when you speak. You gain a +2 trait bonus on Bluff and Diplomacy checks when speaking with anyone fluent in your native language.
+
+**Relic Scholar (Non-elf who lived near elves)**: Your interactions with elves have taught you much about ancient artifacts, and you now share their fascination with these relics. You gain a +2 trait bonus on Appraise and Use Magic Device checks when attempting to identify or use authentic ancient artifacts.
+
+**Resourceful Scavenger (Wasteland native)**: Living in a land strewn with ruins and crash sites required you to become an expert scavenger, searching for valuables and sustenance. Years spent in this pursuit have given you a keen eye for finding valuables and potentially useful resources in the unlikeliest places. You gain a +2 trait bonus on Perception checks when you search a location for valuables or resources. Appraise is always a class skill for you.
+
+**Snake Handler (Desert native, serpent cultist)**: You have spent time as a member of a cult that venerates serpents. Membership involved the handling of dangerous snakes during rituals, and you have learned how to keep yourself and others safe around them. You gain a +2 bonus on Fortitude saves against poison. Handle Animal is always a class skill for you.

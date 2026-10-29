@@ -310,6 +310,7 @@
 - **[Endure Elements, Communal](endure-elements-communal.md)**: As endure elements, but you may divide the duration among creatures touched.
 - **[Escape Alarm](escape-alarm.md)**: Ward an area to alert you when someone leaves
 - **[Escaping Ward](escaping-ward.md)**: This ward grants you extra maneuverability when you avoid attacks against larger foes.
+- **[False Age](false-age.md)**: Appear one age category older or younger.
 - **[Familiar Figment](familiar-figment.md)**: Illusory duplicate of your familiar gives a 50% miss chance.
 - **[Fear the Sun](fear-the-sun.md)**: targets gain light blindness
 - **[Fiery Runes](fiery-runes.md)**: Weapon rune deals fire damage when discharged.
@@ -610,6 +611,7 @@
 - **[Locate Weakness](locate-weakness.md)**: You roll damage twice when you roll damage for a critical hit and take the best damage.
 - **[Magic Circle against Chaos](magic-circle-against-chaos.md)/[Magic Circle against Evil](magic-circle-against-evil.md)/[Magic Circle against Good](magic-circle-against-good.md)/[Magic Circle against Law](magic-circle-against-law.md)**: As *protection* spells, but 10-ft. radius and 10 min./level.
 - **[Mark of Buoyancy](mark-of-buoyancy.md)**: make an object lighter than air
+- **[Mark of Spite](mark-of-spite.md)**: Hurt yourself to deal double damage to the marked foe.
 - **[Matchmaker](matchmaker.md)**: Cause two creatures to fall in love.
 - **[Minor Dream](minor-dream.md)**: School illusion (figment) [mind-affecting]; Level alchemist 2, bard 3, sorcerer/wizard 3, witch 2 Casting.
 - **[Monstrous Extremities](monstrous-extremities.md)**: Change limbs into tentacles, hooves, or wings.
@@ -1070,6 +1072,7 @@
 - **[Parchment Swarm](parchment-swarm.md)**
 - **[Passing Fancy, Mass](passing-fancy-mass.md)**: As passing fancy, affecting multiple creatures.
 - **[Peacebond, Greater](peacebond-greater.md)**: As *peacebond*, but on multiple weapons, even if they aren’t sheathed.
+- **[Pernicious Pranksters](pernicious-pranksters.md)**: Invisible pranksters trip, disarm, and steal from your foes.
 - **[Pessimism](pessimism.md)**: Force a creature to see the negative side of things.
 - **[Planar Binding, Lesser](planar-binding-lesser.md)**: Traps extraplanar creature of 6 HD or less until it performs a task.
 - **[Planetary Adaptation](planetary-adaptation.md)**: As planar adaptation, for worlds and the void.
@@ -1114,6 +1117,7 @@
 - **[Transplant Visage](transplant-visage.md)**: Wear a stolen face for +10 on Disguise.
 - **[Truespeak](truespeak.md)**: You can communicate with any creature that is not mindless.
 - **[Unseen Crew](unseen-crew.md)**: Invisible sailors crew a ship.
+- **[Untold Wonder](untold-wonder.md)**: Childlike wonder turns emotion penalties into bonuses.
 - **[Vengeful Stinger](vengeful-stinger.md)**: Stinging tail retaliates against melee attackers.
 - **[Vile Dog Transformation](vile-dog-transformation.md)**: Transform ordinary dogs into fiendish minions.
 - **[Village Veil](village-veil.md)**: You throw an illusion over an area to make creatures that view or interact with it believe it has suffered.
@@ -1240,6 +1244,7 @@
 - **[Phantasmal Putrefaction](phantasmal-putrefaction.md)**: Trick creatures into thinking their flesh is rotting.
 - **[Phobia](phobia.md)**: Induce an irrational fear in a creature to the point of madness.
 - **[Psychic Asylum](psychic-asylum.md)**: Perform a lengthy mental task in a private mindscape.
+- **[Redcap's Touch](redcaps-touch.md)**: A bloodied hat grants +2 damage and healing on kills.
 - **[Repulsion](repulsion.md)**: Creatures can’t approach you.
 
 **Conjuration**

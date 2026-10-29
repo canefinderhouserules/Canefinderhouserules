@@ -222,6 +222,7 @@
 - **[Enthrall](enthrall.md)**: Captivates all within 100 ft. + 10 ft./level.
 - **[Escape Alarm](escape-alarm.md)**: Ward an area to alert you when someone leaves
 - **[Escaping Ward](escaping-ward.md)**: This ward grants you extra maneuverability when you avoid attacks against larger foes.
+- **[False Age](false-age.md)**: Appear one age category older or younger.
 - **[False Belief](false-belief.md)**: Temporarily plant a false memory.
 - **[Fleeting Defect](fleeting-defect.md)**: An object temporarily gains the broken condition.
 - **[Flesh Facade](flesh-facade.md)**: Make an undead look alive
@@ -399,6 +400,7 @@
 - **[Motes of Dusk and Dawn](motes-of-dusk-and-dawn.md)**: up to four motes that shed light or darkness
 - **[Mydriatic Spontaneity](mydriatic-spontaneity.md)**: flashing light and dark nauseate and impair a target's sight
 - **[Penumbral Disguise](penumbral-disguise.md)**: shadowy illumination masks your features
+- **[Pernicious Pranksters](pernicious-pranksters.md)**: Invisible pranksters trip, disarm, and steal from your foes.
 - **[Phantom Driver](phantom-driver.md)**: Conjures a phantom to drive vehicles.
 - **[Phantom Steed](phantom-steed.md)**: Magic horse appears for 1 hour/level.
 - **[Phase Step](phase-step.md)**: Short-range teleport of a willing creature with line of sight.
@@ -522,6 +524,7 @@
 - **[Tough Crowd](tough-crowd.md)**: Allies resist the next enchantment or illusion and manipulation.
 - **[Truespeak](truespeak.md)**: You can communicate with any creature that is not mindless.
 - **[Unseen Crew](unseen-crew.md)**: Invisible sailors crew a ship.
+- **[Untold Wonder](untold-wonder.md)**: Childlike wonder turns emotion penalties into bonuses.
 - **[Verdant Song](verdant-song.md)**: Your bardic performance heals allies.
 - **[Vicarious View](vicarious-view.md)**: Plant a scrying sensor that you can use to spy on a creature, object, or location.
 - **[Vigilant Rest](vigilant-rest.md)**: Cause a sleeping creature to retain some perception of its surroundings.

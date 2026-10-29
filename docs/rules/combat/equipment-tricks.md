@@ -170,6 +170,18 @@ You must have the Equipment Trick (rope) feat to use these tricks. Rope tricks c
 
 **Tangle (Throw Anything)**: You can throw a coiled length of rope as a ranged weapon. If you hit with a ranged touch attack, the target becomes entangled. It can cut or burst the rope, or escape with a DC 15 Escape Artist check. The rope must be unsecured to use this trick.
 
+## Sling Tricks
+
+Halflings are masters of the sling, and they have learned to make use of these seemingly innocuous weapons far beyond mere stone throwing. In addition to the feat, skill, or other requirements listed for each of these tricks, you must have the Equipment Trick (sling) feat to use a trick.
+
+**Charging Snare (Improved Trip)**: You can dash toward an opponent and use your sling to trip it up. As a full-round action, you can move up to twice your speed at a foe and attempt a trip combat maneuver. This movement follows the rules of movement during a charge. You gain a +2 bonus on the combat maneuver check, and you take a –2 penalty to your AC until the start of your second turn.
+
+**Disarming Lash (Improved Disarm)**: You can lash out with your sling to ensnare an opponent's weapon and pull it away. When you perform a disarm combat maneuver while wielding a sling, you can use your Dexterity modifier in place of your Strength modifier to determine your CMB.
+
+**Hurl Splash Weapon (Far Shot, Throw Anything)**: You can fling a splash weapon with your sling to great effect. As a full-round action, you can use your sling to hurl a splash weapon as a ranged touch attack with a range equal to half your sling's range. This trick does not work with an alchemist's bombs.
+
+**Pouch Bandage (Heal 5 ranks)**: You can rapidly wrap your sling around an ally's wound, stanching the flow of blood. When you or an ally within your reach has the bleed condition, as a standard action, you can bind the wound, stopping the bleed damage from one bleed effect; any other bleed effects still deal their bleed damage.
+
 ## Sunrod Tricks
 
 You must have the Equipment Trick (sunrod) feat to use these tricks.

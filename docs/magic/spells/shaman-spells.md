@@ -452,6 +452,7 @@ Shamans gain access to the following spells. Spells in plain text come from othe
 - **[Insect Plague](insect-plague.md)**: Wasp swarms attack creatures.
 - **[Mask from Divination](mask-from-divination.md)**: Adhere a mask that foils divination.
 - **[Overland Flight](overland-flight.md)**: You fly at a speed of 40 ft. and can hustle over long distances.
+- **[Pernicious Pranksters](pernicious-pranksters.md)**: Invisible pranksters trip, disarm, and steal from your foes.
 - **[Release the Hounds](release-the-hounds.md)**: Summons a swarm-like pack of canines.
 - **[Rest Eternal](rest-eternal.md)**
 - **[Shadow Endurance](shadow-endurance.md)**: Shadow duplicate takes your place when you fall.
@@ -507,6 +508,7 @@ Shamans gain access to the following spells. Spells in plain text come from othe
 - **[Primal Regression](primal-regression.md)**: Make a creature become bestial and unintelligent.
 - **[Prognostication](prognostication.md)**: Gain cryptic information from further in the future than *divination*.
 - **[Raise Dead](raise-dead.md)**: Restores life to subject who died as long as one day/level ago.
+- **[Redcap's Touch](redcaps-touch.md)**: A bloodied hat grants +2 damage and healing on kills.
 - **[Reincarnate Spy](reincarnate-spy.md)**: As *reincarnate*, but creating a body similar to that of a chosen creature, and you secretly keep part of the body.
 - **[Shadow Transmutation](shadow-transmutation.md)**: mimics a polymorph or size-changing spell with shadow-stuff
 - **[Slay Living](slay-living.md)**: Touch attack deals 12d6 +1 per level.

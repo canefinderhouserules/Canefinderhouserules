@@ -77,6 +77,7 @@ New alchemist spells from *Ultimate Magic* and *Ultimate Combat*. Spells from ot
 - **[Empower Holy Water](empower-holy-water.md)**: Holy water deals extra damage to undead
 - **[Enchantment Sight](enchantment-sight.md)**: See which creatures are under enchantment effects.
 - **[Enshroud Thoughts](enshroud-thoughts.md)**: Ward yourself against thought detection and memory alteration.
+- **[False Age](false-age.md)**: Appear one age category older or younger.
 - **[Fiery Runes](fiery-runes.md)**: Weapon rune deals fire damage when discharged.
 - **[Fire Sneeze](fire-sneeze.md)**: Sneeze cones of fire and wind.
 - **[Flesh Facade](flesh-facade.md)**: Make an undead look alive

@@ -2694,3 +2694,17 @@ This cartridge can be loaded only into a weapon with the scatter quality. Upon s
 **Price** 20 gp
 
 This ammunition makes a piercing scream when fired. If fired as part of an Intimidate check, it imparts a +5 bonus on the check. If used with the startling shot deed, the target is flat-footed for an additional round.
+
+## Half-Elf Gear
+
+### Elven Prosthetics
+
+**Price** 250 gp; **Weight** 1 lb.
+
+The canny half-elf sometimes needs a little something extra to look like a full elf. Ear extensions make somewhat elongated half-elf ears look like sharp elf ears, and colored lenses make a half-elf's human-like eyes look like elven eyes. These accessories give a half-elf a +6 circumstance bonus on Disguise checks to resemble an elf and can be used only by a half-elf.
+
+### Poisoner's Buckler
+
+**Price** 1,505 gp; **Weight** 3 lbs.
+
+This mithral buckler is painted black with three deep grooves running over the surface, each fitted with a slot that can hold a vial of poison, allowing quick application of exactly the right poison in the middle of combat. As a move action, the user can swipe a weapon over the surface of the buckler, coating it with a single dose of poison. The buckler can hold 3 doses of poison. If the wearer does not have the poison use ability, she faces the standard risk of poisoning herself.

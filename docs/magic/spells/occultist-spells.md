@@ -383,6 +383,7 @@ Occultists gain access to the following spells, determined by their chosen imple
 - **[Motes of Dusk and Dawn](motes-of-dusk-and-dawn.md)**: up to four motes that shed light or darkness
 - **[Nondetection](nondetection.md)**: Hides subject from divination, scrying.
 - **[Penumbral Disguise](penumbral-disguise.md)**: shadowy illumination masks your features
+- **[Pernicious Pranksters](pernicious-pranksters.md)**: Invisible pranksters trip, disarm, and steal from your foes.
 - **[Poison Exchange](poison-exchange.md)**: Swallow one poison and regurgitate another.
 - **[Protection from Energy](protection-from-energy.md)**: Absorbs 12 points/level of damage from one kind of energy.
 - Resist Energy, Communal

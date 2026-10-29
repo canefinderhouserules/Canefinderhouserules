@@ -90,6 +90,22 @@ These traits can be selected in place of specific racial traits, but their racia
 
 **Faerie Dragon Magic (2 RP)**: Some gnomes ally with capricious faerie dragons or share a supernatural kinship with these enigmatic creatures. Gnomes with this trait add 1 to the DCs of saves against the illusion spells they cast. Additionally, a gnome with a Charisma score of 11 or higher can use each of the following spell-like abilities once per day: *ghost sound*, *grease*, and *silent image*. The caster level for these effects is equal to the gnome's character level. The DC for these spells is equal to 10 + the spell's level + the gnome's Charisma modifier. This trait replaces gnome magic.
 
+### Heritage Alternate Racial Traits
+
+Gnomes are a wildly varied and independent race. The following alternate racial traits are common among less-usual gnome groups. Consult your GM before selecting any of these options.
+
+**Artistic**: Gnomes with this racial trait gain a +2 racial bonus on a Perform skill of their choice. This replaces obsessive.
+
+**Bleachling Magic**: Gnomes who survive the Bleaching (a condition in which gnomes who fail to maintain their sense of wonder and excitement have the color and vitality drained from them) emerge as humorless, monochrome versions of their former selves, called bleachlings. Gnomes with this racial trait treat their caster level as 1 higher for the purposes of divination spells they cast. Additionally, if the gnome has a Wisdom or Charisma score of 11 or higher, she also gains the ability to cast *charm animal* as a spell-like ability three times per day. The caster level for this effect is equal to the gnome's level, and the DC for these spells is equal to 10 + the spell's level + the gnome's Charisma modifier. This replaces gnome magic.
+
+**Fey Fortitude**: Gnomes with this racial trait are infused with a connection to life. They gain a +2 racial bonus on saves to resist death effects. This replaces weapon familiarity.
+
+**Fey Magic**: Gnomes with this racial trait increase the DC of spells of the compulsion subschool they cast by 1. Additionally, if the gnome has a Charisma score of 11 or higher, she also gains the following spell-like abilities: 1/day—*charm person*, *dancing lights*, *entangle*, and *prestidigitation*. The caster level for these effects is equal to the gnome's level. The DC for these spells is equal to 10 + the spell's level + the gnome's Charisma modifier. This replaces gnome magic, illusion resistance, and obsessive.
+
+**Nature Affinity**: Gnomes with this racial trait gain a +2 racial bonus on Fortitude saves against diseases and poisons inflicted by fey, plants, and forest-related hazards. This replaces keen senses.
+
+**Sound Mimicry**: Gnomes with this racial trait are skilled at imitating sounds and voices. Doing so requires a Bluff check opposed by the listener's Sense Motive check, and the gnome gains a +4 racial bonus on Bluff checks to mimic sounds (including accents and speech patterns) she has listened to for at least 10 minutes. Listeners unfamiliar with a particular sound take a –4 penalty on the Sense Motive check. This replaces weapon familiarity.
+
 ## Racial Subtypes
 
 You can combine various alternate racial traits to create gnome subraces or variant races, such as the following.
@@ -105,6 +121,7 @@ You can combine various alternate racial traits to create gnome subraces or vari
 ## Archetypes and Class Options
 
 - [Experimental Gunsmith](../classes/gunslinger-archetypes.md#experimental-gunsmith) (gunslinger)
+- [Fey Realm Caller](../classes/wizard-archetypes.md#fey-realm-caller) (wizard)
 - [Prankster](../classes/bard-archetypes.md#prankster) (bard)
 - [Saboteur](../classes/alchemist-archetypes.md#saboteur) (alchemist)
 
@@ -159,4 +176,7 @@ Small characters.
 - [Major Phantom Object](../../magic/spells/major-phantom-object.md)
 - [Minor Dream](../../magic/spells/minor-dream.md)
 - [Minor Phantom Object](../../magic/spells/minor-phantom-object.md)
+- [Pernicious Pranksters](../../magic/spells/pernicious-pranksters.md)
 - [Recharge Innate Magic](../../magic/spells/recharge-innate-magic.md)
+- [Redcap's Touch](../../magic/spells/redcaps-touch.md)
+- [Untold Wonder](../../magic/spells/untold-wonder.md)

@@ -152,6 +152,20 @@ You lead your audience through a series of stretches and exercises designed to w
 
 **Action**: 3 rounds.
 
+### Frozen Refuge (Dance, Oratory)
+
+You pray for assistance, invoking shelter from ice and snow.
+
+**Prerequisites**: Perform (dance) 10 ranks or Perform (oratory) 10 ranks.
+
+**Cost**: Feat or 4th-level bard spell known.
+
+**Effect**: This masterpiece can be performed only at or after dusk, or in weather conditions stormy enough to affect visibility. When completed, this masterpiece conjures a frozen shelter. This acts as the hemisphere form of *wall of ice* centered on you, except that the radius is 20 feet, the hemisphere has a single doorway large enough for a Medium creature, and the shelter lasts until the next sunrise or until you leave the shelter.
+
+**Use**: 5 rounds of bardic performance.
+
+**Action**: 5 full rounds.
+
 ### Hymn of Restorative Harmonics (Sing, Wind)
 
 You perform a song of such beauty that it touches the soul of any who hear it, allowing them to recover from any adverse conditions.
@@ -165,6 +179,20 @@ You perform a song of such beauty that it touches the soul of any who hear it, a
 **Use**: 3 bardic performance rounds.
 
 **Action**: 1 full round.
+
+### Hymn of Sacred Lands (Oratory, Sing)
+
+You cherish and love your home with such strength that your words weave protective magic around your dwelling.
+
+**Prerequisites**: Perform (oratory) 16 ranks or Perform (sing) 16 ranks.
+
+**Cost**: Feat or 5th-level bard spell known.
+
+**Effect**: You can perform this masterpiece only within 1 mile of a location where you've lived for at least 1 uninterrupted month. When you complete the performance, the area within 1,000 feet of your home is protected by the effects of *guards and wards* for 1 week. This masterpiece's effects do not affect or hinder other residents who have a home, no matter how small or neglected, within the affected area.
+
+**Use**: 30 rounds of bardic performance.
+
+**Action**: 30 minutes.
 
 ### Lament of the Reluctant Scholar (Oratory)
 
@@ -827,6 +855,20 @@ Upon completing the performance, you may conjure bolts of lightning as though yo
 **Use**: 5 bardic performance rounds.
 
 **Action**: 5 full rounds.
+
+### Wildsoul Aria (Sing, Wind)
+
+Channeling the mysterious power of the fey realm, you grant the listener the gift—or curse—of an animal's shape.
+
+**Prerequisites**: Perform (sing) 7 ranks or Perform (wind instruments) 7 ranks.
+
+**Cost**: Feat or 4th-level bard spell known.
+
+**Effect**: When you complete the performance, one creature within 30 feet is affected by *beast shape I*. If your caster level is at least 10th, you can affect that creature with *baleful polymorph* instead; an affected creature automatically succeeds at the spell's secondary save. If your caster level is at least 15th and you spend 10 additional rounds of bardic performance, you can affect up to one creature per 3 bard levels with *beast shape II* instead. This performance allows a Fortitude save instead of a Will save to resist its effects.
+
+**Use**: 10 rounds of bardic performance.
+
+**Action**: 3 full rounds.
 
 ### Wise King's Saga (Oratory, Sing)
 

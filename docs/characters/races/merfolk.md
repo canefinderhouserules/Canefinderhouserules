@@ -32,6 +32,8 @@ The following racial traits may be selected instead of existing merfolk racial t
 
 **Strongtail**: A few merfolk have broad, strong tails that are more suited for land travel than the typical merfolk tail. Merfolk with this racial trait have a land speed of 15 feet and a swim speed of 30 feet.
 
+**Unexpected Ally**: Merfolk who have grown to live and cooperate with an ancestral enemy, such as sahuagin, gain a +2 bonus on Diplomacy checks to influence a creature's attitude. In addition, they gain a +1 racial bonus on checks to perform the aid another action. This replaces low-light vision.
+
 ## Favored Class Options
 
 See the [Advanced Race Guide section of the racial favored class options](../favored-class-bonuses/racial-favored-class-options.md#merfolk-advanced-race-guide). Merfolk also have the following options.

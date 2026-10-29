@@ -403,3 +403,27 @@ Some who have survived a magical wasteland cannot accept defeat, and those who h
 *Wyrm Saga (Su)*: At 14th level, a wyrm singer embraces the essence of the draconic histories, allowing his allies to manifest aspects of a dragon in their physical forms. The wyrm singer selects a single ally within 60 feet to take on a draconic aspect (as per *form of the dragon I*) of a type of the wyrm singer's choice. The ally cannot use the breath weapon attack provided by *form of the dragon*. The wyrm singer must expend 1 round of raging song each round to maintain wyrm saga, and can affect only a single ally at a time. This ability replaces song of the fallen.
 
 **Breath Weapon (Su)**: At 12th level, once per day as a swift action, a wyrm singer can grant a breath weapon attack to himself or an ally affected by his draconic rage raging song. Using the breath weapon is a standard action, and it affects creatures in a 30-foot cone or a 60-foot line. The breath weapon deals 1d6 points of damage per 2 skald levels the wyrm singer has, and is of an energy type of the wyrm singer's choice (acid, cold, electricity, or fire). Creatures caught in the area can attempt a Reflex save (DC = 10 + 1/2 the wyrm singer's skald level + his Charisma modifier) to halve the damage. This ability replaces the rage power gained at 12th level.
+
+## Wandering Envoy
+
+*Skald archetype (elves only).* Some reclusive elven cultures consider it a sacred duty to seek out and befriend non-elven communities. Wandering envoys travel among outsiders as envoys, diplomats, traders, and even spies as events demand, vigilant for threats to their homes and their people. Wandering envoy is a skald archetype that is available only to elves.
+
+**Devout**: A wandering envoy must worship a chaotic good deity of community, travel, or elves, and his alignment must be within one step of chaotic good. A wandering envoy who does not meet these requirements cannot use inspired devotion or divine blessing.
+
+**Twilight Envoy**: A wandering envoy gains a bonus equal to half his skald level on Bluff, Diplomacy, and Sense Motive checks. This replaces bardic knowledge.
+
+**Raging Song (Su)**: A wandering envoy gains the following raging songs.
+
+*Inspired Devotion (Su)*: The wandering envoy inspires fervor rather than fury. Affected allies gain a +1 competence bonus on attack rolls and a +1 morale bonus on saving throws. At 6th, 12th, and 18th levels, these bonuses increase by 1.
+
+*Song of Understanding (Su)*: At 6th level, a wandering envoy can use his raging song to create an aura that allows creatures to speak and understand each others' languages. By expending 4 rounds of raging song, the wandering envoy creates an aura that grants him and creatures in a 60-foot spread centered on him the effects of *tongues*. This aura uses the skald's level as the caster level for all purposes, including duration. A wandering envoy can dismiss this aura as a standard action.
+
+*Song of Secrecy (Su)*: At 10th level, a wandering envoy can use his song to shroud allies from detection. Affected allies gain a bonus equal to half the wandering envoy's skald level on Stealth checks, and they can attempt such checks without cover or concealment. Song of secrecy is audible only to those affected.
+
+This replaces inspired rage, song of strength, and dirge of doom.
+
+**Community Domain**: At 2nd level, a wandering envoy gains the Community domain and gains the powers and spells of the domain. He treats his skald level as his cleric level, and he uses his Charisma modifier in place of his Wisdom modifier for the purposes of the domain's abilities. This replaces versatile performance and well-versed.
+
+**Divine Blessing (Su)**: At 7th level, once per day a wandering envoy can activate any spell trigger or spell completion item as though the spell were on the skald spell list. He can use this ability an additional time per day at 13th and 19th levels. This ability replaces lore master.
+
+**Divine Hand**: At 20th level, the wandering envoy can use divine blessing at will. This replaces master skald.

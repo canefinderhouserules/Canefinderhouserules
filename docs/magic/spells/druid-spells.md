@@ -435,6 +435,7 @@
 - **[Neutralize Poison, Greater](neutralize-poison-greater.md)**: As neutralize poison, but it also reverses poison damage.
 - **[Oasis](oasis.md)**: Creates a permanent spring.
 - **[Old Salt’s Curse](old-salt-s-curse.md)**: You inflict a curse of the roiling sea upon the target, making it permanently sickened.
+- **[Pernicious Pranksters](pernicious-pranksters.md)**: Invisible pranksters trip, disarm, and steal from your foes.
 - **[Poisonous Balm](poisonous-balm.md)**: As *cure serious wounds*, but leave behind a latent venom.
 - **[Release the Hounds](release-the-hounds.md)**: Summons a swarm-like pack of canines.
 - **[Replay Tracks](replay-tracks.md)**: Reconstruct past events from a set of tracks.
@@ -493,6 +494,7 @@
 - **[Plague Bearer](plague-bearer.md)**: Target spreads contagion to adjacent creatures.
 - **[Poison Breath](poison-breath.md)**: Cone of toxic mist, as poison.
 - **[Primal Regression](primal-regression.md)**: Make a creature become bestial and unintelligent.
+- **[Redcap's Touch](redcaps-touch.md)**: A bloodied hat grants +2 damage and healing on kills.
 - **[Reincarnate Spy](reincarnate-spy.md)**: As *reincarnate*, but creating a body similar to that of a chosen creature, and you secretly keep part of the body.
 - **[Repel Wood](repel-wood.md)**: Pushes away wooden objects.
 - **[Roaming Pit](roaming-pit.md)**: A *create pit* that can move.

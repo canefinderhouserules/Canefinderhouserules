@@ -33,3 +33,11 @@ Sahuagin normally have racial Hit Dice, skills, and other abilities, but PCs cal
 **Speak with Sharks (1 RP)**: Sahuagin can communicate telepathically with sharks to a distance of 100 feet. This communication is limited to simple concepts, such as "attack," "come," and "defend."
 
 **Languages**: Sahuagin begin play speaking Aquan and Common. Sahuagin with high Intelligence scores can choose from the following: Aboleth, Abyssal, Aklo, Draconic, Giant, Goblin, and Infernal.
+
+## Alternate Racial Traits
+
+The following racial traits may be selected instead of existing sahuagin racial traits, typically by sahuagin who live peacefully alongside merfolk and other races. Consult your GM before selecting any of these options.
+
+**Sahuagin Song**: Sahuagin with this racial trait have learned the merfolk love of song. They gain a +2 racial bonus on Perform (sing) checks and a +1 racial bonus on saves against language-dependent effects. This replaces speak with sharks.
+
+**Stoic Defender**: Sahuagin who have learned to control their aggression stand as reliable guards of the city they are proud to call home. Once per day when a sahuagin with this racial trait takes damage, he can focus on remaining steadfast. For 1 minute, the sahuagin gains a +2 racial bonus to AC and a +2 racial bonus on Will saves. This replaces blood frenzy.

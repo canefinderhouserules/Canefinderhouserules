@@ -638,6 +638,7 @@
 - **[Touch of Slumber](touch-of-slumber.md)**: Nonhostile creature falls asleep for hours.
 - **[True Seeing](true-seeing.md)**: Lets you see all things as they really are.
 - **[Unhallow](unhallow.md)**: Designates location as unholy.
+- **[Untold Wonder](untold-wonder.md)**: Childlike wonder turns emotion penalties into bonuses.
 - **[Vile Dog Transformation](vile-dog-transformation.md)**: Transform ordinary dogs into fiendish minions.
 - **[Village Veil](village-veil.md)**: You throw an illusion over an area to make creatures that view or interact with it believe it has suffered.
 - **[Waft](waft.md)**: Targets become light enough to be carried by the wind.

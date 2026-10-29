@@ -96,6 +96,22 @@ These traits can be selected in place of specific racial traits, but their racia
 
 **Treasure Sense (2 RP)**: Some dwarves have learned to sense the presence of material wealth with dragonlike precision. This ability functions as scent, except it can detect only precious metals (copper, silver, and gold) and creatures primarily made of such materials. This trait replaces stability and stonecutting.
 
+### Heritage Alternate Racial Traits
+
+Dwarves from different cultures often take alternate racial traits from the Advanced Race Guide and also have access to the following traits unique to their subculture. Consult your GM before selecting any of these options.
+
+**Breath Weapon**: Dwarves from cultures that revere dragons can call upon the spirit of a sacred dragon to channel a fraction of that dragon's power. Upon taking this trait, the dwarf must select cold, electricity, or fire as the breath weapon's damage type and either a 15-foot cone or a 20-foot line as the breath weapon's shape. Once these selections are made, they cannot be changed. Once per day, the dwarf can make a supernatural breath attack in the selected shape, dealing 1d4 points of damage of the chosen damage type, plus 1d4 points of damage of that type for every 2 levels above 1st the dwarf has (to a maximum of 5d4 at 9th level). Targets in the area can attempt a Reflex save (DC = 10 + half the dwarf's level + the dwarf's Constitution bonus) for half damage. This replaces greed, hatred, stonecunning, and weapon familiarity.
+
+**Death's End**: Some dwarves come from long lines of guardians who train to defeat any undead that enter the tombs they protect. Dwarves with this racial trait gain a +2 bonus to AC against undead and a +2 bonus on saving throws against spells and spell-like abilities cast by undead. This replaces defensive training and hatred.
+
+**Deep Tradition**: While some dwarves focus their early years on training against one specific foe of the dwarven kingdoms, others know that there are many enemies who would destroy dwarvenkind if given the opportunity. A dwarf with this racial trait gains a +1 bonus on melee attack rolls and a +1 bonus to AC against attacks of opportunity made by drow, duergar, creatures of the aberration type, or creatures of the giant or orc subtype. This replaces defensive training and hatred.
+
+**Desert Delver**: Desert dwarves have adapted to the extremes of cold and heat that can suddenly occur in both the harsh deserts and the mountain tunnels around their caravan routes. Dwarves with this racial trait gain cold and fire resistance 1 and treat the temperature as 20 degrees cooler or warmer when determining the effects of extreme heat or extreme cold environments. This replaces defensive training.
+
+**Iron Citizen**: Dwarves with this racial trait gain a +2 bonus on Diplomacy and Sense Motive checks, and Diplomacy is a class skill for such dwarves.
+
+**Iron Within**: Dwarves with this racial trait gain 1 ki point. If the dwarf gains ki points from a different source, this ki point is added to that pool. In addition to any other ways in which the dwarf can use ki, the dwarf can expend the ki point as a swift action to either gain a +2 dodge bonus to AC for 1 round or increase her base speed by 20 feet for 1 round. The bonus ki point does not allow the dwarf to make a ki strike unless she has another ability that allows her to do so, such as the ki pool from the monk class. Like other ki points, this ki point is replenished each morning after 8 hours of rest or meditation. This replaces defensive training and hatred.
+
 ## Racial Subtypes
 
 You can combine various alternate racial traits to create dwarven subraces or variant races, such as the following.
@@ -110,10 +126,13 @@ You can combine various alternate racial traits to create dwarven subraces or va
 
 ## Archetypes and Class Options
 
+- [Dragon-revering shaman hexes](../classes/regional-class-options.md#shaman-hexes-dragon-revering-tribes)
 - [Exarch](../classes/inquisitor-archetypes.md#exarch) (inquisitor)
 - [Foehammer](../classes/fighter-archetypes.md#foehammer) (fighter)
 - [Forgemaster](../classes/cleric-archetypes.md#forgemaster) (cleric)
+- [Psammokinetic](../classes/kineticist-archetypes.md#psammokinetic) (kineticist)
 - [Stonelord](../classes/paladin-archetypes.md#stonelord) (paladin)
+- [Symbol Striker](../classes/bloodrager-archetypes.md#symbol-striker) (bloodrager)
 
 ## Dwarf Equipment (Advanced Race Guide)
 
@@ -143,14 +162,23 @@ Dwarves have access to the following equipment.
 
 - [Brewmaster](../../rules/feats/brewmaster.md)
 - [Cleave Through](../../rules/feats/cleave-through.md)
+- [Cloak of Stone](../../rules/feats/cloak-of-stone.md)
+- [Cloud Invocation](../../rules/feats/cloud-invocation.md)
 - [Cloven Helm](../../rules/feats/cloven-helm.md)
 - [Dented Helm](../../rules/feats/dented-helm.md)
 - [Giant Killer](../../rules/feats/giant-killer.md)
 - [Goblin Cleaver](../../rules/feats/goblin-cleaver.md)
+- [Greater Cloud Invocation](../../rules/feats/greater-cloud-invocation.md)
+- [Hammer Throw](../../rules/feats/hammer-throw.md)
 - [Hard-Headed](../../rules/feats/hard-headed.md)
+- [Improved Hammer Throw](../../rules/feats/improved-hammer-throw.md)
 - [Ledge Walker](../../rules/feats/ledge-walker.md)
+- [Master Hammer Throw](../../rules/feats/master-hammer-throw.md)
 - [Orc Hewer](../../rules/feats/orc-hewer.md)
+- [Sand Strike](../../rules/feats/sand-strike.md)
 - [Shatterspell](../../rules/feats/shatterspell.md)
+- [Stone Cover](../../rules/feats/stone-cover.md)
+- [Stone Shroud](../../rules/feats/stone-shroud.md)
 - [Toxic Recovery](../../rules/feats/toxic-recovery.md)
 
 ## Advanced Race Guide Magic Items

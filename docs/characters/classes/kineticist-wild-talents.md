@@ -54,6 +54,22 @@ You shoot an arc of electricity to shock a single foe.
 
 You unleash a gout of flickering fire to burn a single foe.
 
+### Sand Blast
+
+**Element** air; **Type** simple blast (Sp); **Level** —; **Burn** 0
+
+**Blast Type** physical; **Damage** slashing
+
+You slice at a single foe with a stream of sand. This blast is available only to the psammokinetic and otherwise functions as air blast.
+
+### Sirocco Blast
+
+**Element** air; **Type** simple blast (Sp); **Level** —; **Burn** 0
+
+**Blast Type** energy; **Damage** fire
+
+You shoot a wave of superheated air to burn a single foe. This blast is available only to the psammokinetic and otherwise functions as electric blast.
+
 ### Telekinetic Blast
 
 **Element** aether; **Type** simple blast (Sp); **Level** —; **Burn** 0

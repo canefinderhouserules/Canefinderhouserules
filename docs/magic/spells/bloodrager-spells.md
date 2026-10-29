@@ -294,6 +294,7 @@ Bloodragers gain access to the following spells. Spells in plain text come from 
 - **[Naga Shape I](naga-shape-i.md)**: assume the form of a Large naga
 - **[Phantasmal Killer](phantasmal-killer.md)**: Fearsome illusion kills subject or deals 3d6 damage.
 - **[Poisonous Cloud](poisonous-cloud.md)**: Fog cloud that deals 1d2 Con damage per round.
+- **[Redcap's Touch](redcaps-touch.md)**: A bloodied hat grants +2 damage and healing on kills.
 - **[Reduce Person, Mass](reduce-person-mass.md)**: As *reduce person*, but affects 1 humanoid creature/level.
 - **[Ride the Waves](ride-the-waves.md)**: Target can breathe water and swim.
 - **[River of Wind](river-of-wind.md)**: Creates wind that causes nonlethal damage and can knock down or push creatures.

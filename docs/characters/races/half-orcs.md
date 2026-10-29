@@ -121,9 +121,11 @@ You can combine various alternate racial traits to create half-orc subraces or v
 ## Archetypes and Class Options
 
 - [Blood God Disciple](../classes/summoner-archetypes.md#blood-god-disciple) (summoner)
+- [Ferocious Hunter](../classes/vigilante-archetypes.md#ferocious-hunter) (vigilante)
 - [Hateful Rager](../classes/barbarian-archetypes.md#hateful-rager) (barbarian)
 - [Redeemer](../classes/paladin-archetypes.md#redeemer) (paladin)
 - [Skulking Slayer](../classes/rogue-archetypes.md#skulking-slayer) (rogue)
+- [Terror Weaver](../classes/psychic-archetypes.md#terror-weaver) (psychic)
 
 ## Half-Orc Equipment (Advanced Race Guide)
 
@@ -142,18 +144,25 @@ Half-orcs have access to the following equipment.
 
 - [Beast Rider](../../rules/feats/beast-rider.md)
 - [Blood Vengeance](../../rules/feats/blood-vengeance.md)
+- [Dawn's Blessing](../../rules/feats/dawns-blessing.md)
 - [Destroyer’s Blessing](../../rules/feats/destroyer-s-blessing.md)
 - [Ferocious Resolve](../../rules/feats/ferocious-resolve.md)
 - [Ferocious Summons](../../rules/feats/ferocious-summons.md)
 - [Ferocious Tenacity](../../rules/feats/ferocious-tenacity.md)
+- [Frozen Skin](../../rules/feats/frozen-skin.md)
 - [Gore Fiend](../../rules/feats/gore-fiend.md)
+- [Great Expectations](../../rules/feats/great-expectations.md)
 - [Horde Charge](../../rules/feats/horde-charge.md)
 - [Improved Surprise Follow-Through](../../rules/feats/improved-surprise-follow-through.md)
+- [Lead by Example](../../rules/feats/lead-by-example.md)
+- [Precipice Strike](../../rules/feats/precipice-strike.md)
 - [Resilient Brute](../../rules/feats/resilient-brute.md)
+- [Solitary Survivor](../../rules/feats/solitary-survivor.md)
 - [Surprise Follow-Through](../../rules/feats/surprise-follow-through.md)
 - [Sympathetic Rage](../../rules/feats/sympathetic-rage.md)
 - [Tenacious Survivor](../../rules/feats/tenacious-survivor.md)
 - [Thrill of the Kill](../../rules/feats/thrill-of-the-kill.md)
+- [Unraveler of Secrets](../../rules/feats/unraveler-of-secrets.md)
 
 ## Advanced Race Guide Magic Items
 

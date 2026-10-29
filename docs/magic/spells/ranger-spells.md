@@ -267,6 +267,7 @@
 - **[Overwhelming Poison](overwhelming-poison.md)**: Make a poison more difficult to resist.
 - **[Phantom Hunt](phantom-hunt.md)**: You and your companion gain senses, speed, and fast tracking.
 - **[Planned Assault](planned-assault.md)**: Planned actions grant bonuses for the first round.
+- **[Redcap's Touch](redcaps-touch.md)**: A bloodied hat grants +2 damage and healing on kills.
 - **[Remove Radioactivity](remove-radioactivity.md)**: Cure radiation effects.
 - **[Sea Stallion](sea-stallion.md)**: You and your mount adapt to an aquatic environment.
 - **[Sickening Strikes](sickening-strikes.md)**: You are imbued with disease, and any creature you strike with a melee attack must make a Fortitude save or be.

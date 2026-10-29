@@ -162,3 +162,37 @@ Alchemists from some cultures have developed unique subcultures around the proce
 **Improved Divine Inks**: The alchemist's unique dyes allow him to create images accompanied by sound. If he expends an additional daily use of his bombs, the image he creates with the divine inks discovery also produces minor sounds, as *minor image*. The alchemist must be at least 4th level and must have the divine inks discovery before selecting this discovery.
 
 **Living Pigment**: The alchemist infuses his inks and dyes with a spark of animating force. As a standard action, he can expend one daily use of his bombs and a 1st-level extract he has prepared to create a creature, as *summon monster I*, using his level as the spell's caster level. The extract is expended as if the alchemist had consumed it. The alchemist can expend a higher-level extract when using this ability to create a creature using a *summon monster* spell of a level equal to the level of extract expended. For example, if the alchemist expends a 4th-level extract, he can create a creature as if using *summon monster IV*. Additionally, the alchemist can expend an additional use of his daily bombs when creating a creature in this way to grant the creature the celestial or fiendish template. The alchemist must have the divine inks discovery before selecting this discovery.
+
+## Shaman Hexes: Dragon-Revering Tribes
+
+Shamans of cultures that view dragons and wyverns as sacred animals draw upon their spiritual connections with these creatures to fuel their powers. The following hexes are available to shamans.
+
+**Draconic Resilience (Ex)**: The shaman grants a creature she touches some of the magically resilient nature of dragons, causing the creature to be immune to magical sleep effects for a number of rounds equal to the shaman's level. At 7th level, the creature is also immune to paralysis for this duration. Once a creature has benefited from the draconic resilience hex, it cannot benefit from this hex again for 24 hours.
+
+**Intimidating Display (Ex)**: The shaman can call upon some of the majesty and power of dragons to cow her enemies. The shaman gains Dazzling Display as a bonus feat, even if she does not meet the prerequisites, and she can use it even when not wielding a weapon.
+
+**Wings (Su)**: The shaman can grow a pair of wings for a number of minutes per day equal to her level. These minutes do not need to be consecutive, but they must be spent in 1-minute increments. Initially, these wings lack the power to allow the shaman to fly, but the shaman can use them as a secondary natural attack that deals 1d3 points of damage (1d2 for a Small shaman). At 3rd level, she can use the wings to safely descend any distance, as if using the *feather fall* spell. At 7th level, she can use the wings to fly with poor maneuverability and a fly speed of 30 feet, but the shaman must land at the end of each turn or fall. A shaman of 8th level or higher can select the wings hex a second time. This doubles the number of minutes per day the shaman can use her wings (2 minutes per level), and allows her to fly with average maneuverability and a fly speed of 30 feet while the wings are active.
+
+## Psychic Discipline: Bleaching
+
+You draw power from a void in your emotions, a yawning and empty chasm where your hopes and dreams and fears should be. It is very rare for any creature besides a gnome to have this psychic discipline—usually a bleachling or a gnome with a particularly strong fear of the Bleaching—but in occasional cases members of other races have been known to develop such a strong nihilistic ennui or depression that they can tap into the vitality-draining effects of this discipline as well.
+
+**Phrenic Pool Ability**: Wisdom.
+
+**Bonus Spells**: *decrepit disguise* (1st), *steal voice* (4th), *cup of dust* (6th), *enervation* (8th), *pessimism* (10th), *disintegrate* (12th), *waves of exhaustion* (14th), *greater spell immunity* (16th), *energy drain* (18th).
+
+**Discipline Powers**: Your emotional malaise combines with your psychic ability to allow you to drain the vibrancy from the world around you.
+
+**Draining Touch (Su)**: As a standard action, you can make a melee touch attack to drain vitality from a creature. If the attack hits, the target must succeed at a Fortitude save (DC = 10 + half your psychic level + your Wisdom modifier) or take 1d2 points of Charisma damage. If a creature is affected, the colors of its skin, hair, and eyes dull and become less vibrant. Whether or not the save is successful, a creature cannot be the target of this power again for 24 hours. You regain 1 point in your phrenic pool each time you successfully drain a creature this way. You can use this ability a number of times per day equal to your Wisdom modifier.
+
+**Emotionally Distant (Ex)**: At 5th level, your emotions have atrophied such that you rarely have any genuine feelings at all. You gain a +4 bonus on saving throws to resist charm, emotion, and fear effects.
+
+**Drain Vibrancy (Su)**: At 13th level, you can drain the color and vitality from the world around you. Three times per day, as a standard action you can drain vibrancy within a 30-foot radius, causing the area and all creatures within it to become pale and sallow. Each living creature in the area must succeed at a Fortitude save (DC = 10 + half your psychic level + your Wisdom modifier) or take 1 temporary negative level as their life force drains away. If you're at least 17th level, a creature that fails its saving throw takes 2 temporary negative levels instead.
+
+## Ratfolk Ninja Tricks
+
+The following ninja tricks are available to ratfolk, as they were developed by ratfolk to complement their natural talents.
+
+**Arcane Backfire (Su)**: When a ninja with this trick successfully attacks a creature that is holding a magic item that has a number of charges or uses per day, she can attempt a Use Magic Device check (DC = 20 + the item's CL) to cause the item to lose either one daily use or a number of charges equal to the number of the ninja's sneak attack dice.
+
+**Swarming Attack (Ex)**: Ratfolk ninjas use their large numbers to overwhelm their enemies with countless attacks. While using the swarming racial trait to share a space with an ally, a ninja with this talent gains a bonus on damage rolls equal to the number of sneak attack dice her ally has. For example, a ninja would gain +3 damage if her ally has sneak attack 3d6.

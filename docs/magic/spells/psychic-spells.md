@@ -250,6 +250,7 @@ Psychics gain access to the following spells. Spells without a link come from ot
 - **[Escape Alarm](escape-alarm.md)**: Ward an area to alert you when someone leaves
 - **[Euphoric Cloud](euphoric-cloud.md)**
 - **[Extreme Flexibility](extreme-flexibility.md)**: Gain a bonus to AC, on Escape Artist checks, and when grappling.
+- **[False Age](false-age.md)**: Appear one age category older or younger.
 - **[False Belief](false-belief.md)**: Temporarily plant a false memory.
 - **[False Life](false-life.md)**: Gain 1d10 temporary hp + 1/level (max +10).
 - **[Fear the Sun](fear-the-sun.md)**: targets gain light blindness
@@ -470,6 +471,7 @@ Psychics gain access to the following spells. Spells without a link come from ot
 - **[Mantle of Calm](mantle-of-calm.md)**: Neutralize the rage effects of those who have attacked you.
 - **[Marionette Possession](marionette-possession.md)**: As magic jar, but limited to line of sight.
 - **[Mark of Buoyancy](mark-of-buoyancy.md)**: make an object lighter than air
+- **[Mark of Spite](mark-of-spite.md)**: Hurt yourself to deal double damage to the marked foe.
 - **[Meld into Stone](meld-into-stone.md)**: You and your gear merge with stone.
 - **[Mental Barrier II](mental-barrier-ii.md)**: As mental barrier I, but +6 to AC.
 - **[Mind Thrust III](mind-thrust-iii.md)**: As mind thrust II, but deal a maximum of 10d8 points of damage.
@@ -822,6 +824,7 @@ Psychics gain access to the following spells. Spells without a link come from ot
 - **[Tower of Iron Will I](tower-of-iron-will-i.md)**: As an immediate action, gives creatures in a 10-ft. radius spell resistance against psychic magic and mind-affecting effects.
 - **[True Seeing](true-seeing.md)**: Lets you see all things as they really are.
 - Truespeak
+- **[Untold Wonder](untold-wonder.md)**: Childlike wonder turns emotion penalties into bonuses.
 - **[Utter Contempt](utter-contempt.md)**: Target’s attitude worsens by two categories.
 - Village Veil
 - **[Wall of Ectoplasm](wall-of-ectoplasm.md)**: Wall of spirits blocks movement on the Material Plane and Ethereal Plane and causes fear.

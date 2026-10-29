@@ -116,6 +116,7 @@ You can combine various alternate racial traits to create half-elven subraces or
 
 - [Bonded Witch](../classes/witch-archetypes.md#bonded-witch) (witch)
 - [Bramble Brewer](../classes/alchemist-archetypes.md#bramble-brewer) (alchemist)
+- [Half-Elf Double Scion](../classes/vigilante-archetypes.md#half-elf-double-scion) (vigilante)
 - [Wild Caller](../classes/summoner-archetypes.md#wild-caller) (summoner)
 - [Wild Shadow](../classes/ranger-archetypes.md#wild-shadow) (ranger)
 
@@ -134,15 +135,22 @@ Half-elves have access to the following equipment.
 
 ## Advanced Race Guide Feats
 
+- [Citystep](../../rules/feats/citystep.md)
 - [Discerning Eye](../../rules/feats/discerning-eye.md)
 - [Elven Spirit](../../rules/feats/elven-spirit.md)
 - [Exile’s Path](../../rules/feats/exile-s-path.md)
+- [Gifts from the Sea](../../rules/feats/gifts-from-the-sea.md)
 - [Half-Drow Paragon](../../rules/feats/half-drow-paragon.md)
 - [Human Spirit](../../rules/feats/human-spirit.md)
 - [Multitalented Mastery](../../rules/feats/multitalented-mastery.md)
 - [Neither Elf nor Human](../../rules/feats/neither-elf-nor-human.md)
+- [Pinch Time](../../rules/feats/pinch-time.md)
 - [Seen and Unseen](../../rules/feats/seen-and-unseen.md)
+- [Sense Allies](../../rules/feats/sense-allies.md)
 - [Shared Manipulation](../../rules/feats/shared-manipulation.md)
+- [Strength in Defeat](../../rules/feats/strength-in-defeat.md)
+- [Twilight Words](../../rules/feats/twilight-words.md)
+- [Unaging](../../rules/feats/unaging.md)
 
 ## Advanced Race Guide Magic Items
 
@@ -151,10 +159,14 @@ Half-elves have access to the following equipment.
 - [Cloak of the Diplomat](../../magic-items/racial-items-arg.md#cloak-of-the-diplomat)
 - [Purifying Pearl](../../magic-items/racial-items-arg.md#purifying-pearl)
 - [Ring of the Sophisticate](../../magic-items/racial-items-arg.md#ring-of-the-sophisticate)
+- [Seashell Diving Mask](../../magic-items/companion-items.md#seashell-diving-mask)
+- [Soothing Stole](../../magic-items/companion-items.md#soothing-stole)
 
 ## Advanced Race Guide Spells
 
+- [False Age](../../magic/spells/false-age.md)
 - [Forgetful Slumber](../../magic/spells/forgetful-slumber.md)
+- [Mark of Spite](../../magic/spells/mark-of-spite.md)
 - [Paragon Surge](../../magic/spells/paragon-surge.md)
 - [Resilient Reservoir](../../magic/spells/resilient-reservoir.md)
 - [Urban Grace](../../magic/spells/urban-grace.md)

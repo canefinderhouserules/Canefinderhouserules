@@ -6191,3 +6191,99 @@ The blade of this unassuming longsword is permanently broken, snapped at an angl
 The blade of this +1 *living steel* dagger is always slightly damp to the touch. The save DC of any injury poison coating this blade increases by 2. Once per day, the wielder of a memory-eater dagger can speak the weapon's command word to cause the dagger to seep a bright green neurotoxin. For 1 hour, the next time the wielder damages a creature with the dagger, the creature must succeed at a DC 16 Will save or be affected by *modify memory* as if the wielder had spent 5 minutes modifying the target's memory.
 
 **Construction Requirements:** Craft Magical Arms and Armor, *modify memory*; **Cost** 4,880 gp
+
+## Elven Relics
+
+### Northern Star Ioun Stone
+
+**Slot** none; **CL** 12th; **Price** 10,000 gp; **Weight** —
+
+**Aura** strong transmutation
+
+This pearlescent crystal is perfectly cut in the shape of a five-pointed star. It grants the bearer a +5 competence bonus on Acrobatics and Climb checks. When inserted into a wayfinder, it grants the bearer a +4 bonus on Reflex saves to avoid falling.
+
+**Construction Requirements:** Craft Wondrous Item, *jump*, creator must be at least 12th level; **Cost** 5,000 gp
+
+### Southern Star Ioun Stone
+
+**Slot** none; **CL** 12th; **Price** 8,000 gp; **Weight** —
+
+**Aura** strong transmutation
+
+This brilliant, deep violet crystal is perfectly cut in the shape of a five-pointed star. The gem grants its bearer a swim speed of 30 feet. When inserted into a wayfinder, it allows the bearer to breathe water for up to 10 minutes per day (in 1-minute increments).
+
+**Construction Requirements:** Craft Wondrous Item, *touch of the sea*, creator must be at least 12th level; **Cost** 4,000 gp
+
+### Farspear
+
+**Slot** none; **CL** 7th; **Price** 53,801 gp; **Weight** 3 lbs.
+
+**Aura** moderate conjuration
+
+This +2 elysian bronze spear is capable of warping space to strike faraway targets as if they stood within arm's reach. As a standard action, the farspear's wielder can make a single melee attack against a creature within 60 feet as though it were within his melee reach. Cover and concealment apply as if making a ranged attack. The wielder can use any Vital Strike feat he has as part of this melee attack.
+
+**Construction Requirements:** Craft Magic Arms and Armor, *dimension door*; **Cost** 27,551 gp
+
+## Half-Elf Items
+
+### Seashell Diving Mask
+
+**Slot** head; **CL** 3rd; **Price** 6,000 gp; **Weight** 3 lbs.
+
+**Aura** faint conjuration
+
+This striped pink conch shell has thin leathery straps to keep it attached to the wearer's face, with a clear mask attached to the top that the wearer can see through. The interior of the shell holds enough air to allow the wearer to breathe underwater for 10 minutes, but the mask must then be exposed to air for 20 minutes before it can be used again to breathe underwater. The wearer gains a +4 competence bonus on Perception checks while underwater, and she can detect and attempt to identify magical auras underwater as though she had cast *detect magic*.
+
+**Construction Requirements:** Craft Wondrous Item, *air bubble*, *detect magic*; **Cost** 3,000 gp
+
+### Soothing Stole
+
+**Slot** shoulders; **CL** 3rd; **Price** 6,500 gp; **Weight** 2 lbs.
+
+**Aura** faint enchantment
+
+This white fur stole helps the wary traveler temporarily calm down opponents. While wearing this stole, the wearer gains a +2 competence bonus on Diplomacy checks to improve someone's attitude and on wild empathy checks to improve an animal's attitude. Three times per day on command, the wearer can activate the stole to gain a 20-foot radius aura of either *calm animals* or *calm emotions* for 1 minute (Will DC 13 negates). The stole also functions as cold weather clothing.
+
+**Construction Requirements:** Craft Wondrous Item, *calm animals*, *calm emotions*; **Cost** 3,000 gp
+
+## Halfling Relics
+
+### Elusion Cloak
+
+**Slot** shoulders; **CL** 1st; **Price** 3,600 gp; **Weight** 1 lb.
+
+**Aura** faint illusion and transmutation
+
+Jungle halflings often use these cloaks to evade larger creatures. The wearer of an elusion cloak gains a +5 competence bonus on Stealth checks against creatures of at least one size category larger than she is. In addition, once per day as a free action when the wearer fails a saving throw against a fear effect, she can gain the benefits of *expeditious retreat* for 5 rounds or for as long as she is affected by the fear effect, whichever is shorter.
+
+**Construction Requirements:** Craft Wondrous Item, *expeditious retreat*; **Cost** 1,800 gp
+
+### Festival Garment
+
+**Slot** body; **CL** 1st; **Price** 2,000 gp; **Weight** 1 lb.
+
+**Aura** faint enchantment
+
+These magical sets of clothing can take many forms, from ornate costumes for flower festivals to flamboyant, birdlike costumes for lantern festivals. When a wearer of a festival garment dances, he can get onlookers into a festive, celebratory mood. A wearer of a festival garment can attempt a Perform (dance) check instead of a Diplomacy check to influence the attitude of a humanoid creature, but only if the creature's initial attitude is unfriendly or better. In addition, if the wearer is at a festival or celebration, he gains a +5 competence bonus on Perform (dance) checks.
+
+**Construction Requirements:** Craft Wondrous Item, *charm person*; **Cost** 1,000 gp
+
+### Scatter Sling
+
+**Slot** —; **CL** 4th; **Price** 3,300 gp; **Weight** —
+
+**Aura** faint evocation
+
+This +1 sling looks mundane, but its true ability is revealed when its wielder hurls a bullet with it. When the wielder of a scatter sling makes a ranged attack with the weapon using a nonmagical bullet as ammunition, she can have the bullet fragment into sharp pieces, dealing 1d3 points of piercing damage to each target in a 15-foot cone. She rolls the attack once and compares the result against the AC of each creature in the area of effect.
+
+**Construction Requirements:** Craft Magic Arms and Armor, *shatter*; **Cost** 1,650 gp
+
+### Wanderlust Map
+
+**Slot** —; **CL** 3rd; **Price** 600 gp; **Weight** —
+
+**Aura** faint divination and transmutation
+
+These maps appear as ordinary parchment. A user of a wanderlust map can spend 1 uninterrupted hour holding the map and thinking about exploring a region within 1,000 miles. After this time has passed, the wanderlust map turns into a detailed map of that area, granting a +5 bonus on exploration checks in that region. A wanderlust map shows only geographical features of a specific area. Once a wanderlust map has turned into a detailed map, it cannot be used to map a different region.
+
+**Construction Requirements:** Craft Wondrous Item, *commune with nature*, *secret page*; **Cost** 300 gp

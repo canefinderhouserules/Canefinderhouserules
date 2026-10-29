@@ -90,6 +90,18 @@ These traits can be selected in place of specific racial traits, but their racia
 
 **Luckbringer (2 RP)**: Halflings with this trait learn to share their luck with others much in the way a gold dragon can imbue objects with good fortune. Once per day as a standard action, a halfling with this trait can confer good luck on a single nonmagical token (such as a button or a ring). Any creature carrying this token gains a +1 luck bonus on Will saves. This effect lasts for 1 hour. This trait replaces lucky.
 
+### Heritage Alternate Racial Traits
+
+The following alternate racial traits are common among less-usual halfling groups. Consult your GM before selecting any of these options.
+
+**Danger Detection**: Halflings who have learned to hone in on any indication of danger gain a +4 racial bonus on Perception checks to notice a creature using Stealth, as well as Perception checks to notice a weapon being drawn or a hidden trap (or similar signs of danger, subject to the GM's discretion). This replaces keen senses.
+
+**Evasive Nomad**: Halflings who rarely grow up in one place, as they are quick to move to a new home whenever they are discovered, gain a +2 racial bonus on Reflex saves, but they take a –2 penalty on saving throws against fear effects. This replaces fearless.
+
+**Festive**: Halflings who partake in many festivals to foster a strong sense of community and bring fortune to their peers can, once per day, grant an ally within 60 feet a +2 luck bonus on one skill check as a free action; this bonus can be applied after the ally's check result is determined. This replaces sure-footed.
+
+**Kinsize Ally**: Halflings who live alongside other people of similar stature, such as gnomes, grant themselves and all allies of the same size category within 60 feet a +1 luck bonus on saving throws against fear effects. This replaces fearless.
+
 ## Racial Subtypes
 
 You can combine various alternate racial traits to create halfling subraces or variant races, such as the following.
@@ -145,10 +157,14 @@ Halflings have access to the following equipment.
 ## Advanced Race Guide Magic Items
 
 - [Book of Marvelous Recipes](../../magic-items/racial-items-arg.md#book-of-marvelous-recipes)
+- [Elusion Cloak](../../magic-items/companion-items.md#elusion-cloak)
 - [Escape Dust](../../magic-items/racial-items-arg.md#escape-dust)
+- [Festival Garment](../../magic-items/companion-items.md#festival-garment)
 - [Quickfingers Gloves](../../magic-items/racial-items-arg.md#quickfingers-gloves)
+- [Scatter Sling](../../magic-items/companion-items.md#scatter-sling)
 - [Solidsmoke Pipeweed](../../magic-items/racial-items-arg.md#solidsmoke-pipeweed)
 - [Symbol of Luck](../../magic-items/racial-items-arg.md#symbol-of-luck)
+- [Wanderlust Map](../../magic-items/companion-items.md#wanderlust-map)
 
 ## Advanced Race Guide Spells
 

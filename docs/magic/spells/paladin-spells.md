@@ -168,6 +168,7 @@
 - **[Tail Strike](tail-strike.md)**: Grow a draconic tail with a slam attack.
 - **[They Know](they-know.md)**: Convince target that a nearby creature knows her greatest secret.
 - **[Trial by Fire](trial-by-fire.md)**: Divine fire punishes targets whose alignment differs from your deity’s.
+- **[Untold Wonder](untold-wonder.md)**: Childlike wonder turns emotion penalties into bonuses.
 - **[Vigilant Rest](vigilant-rest.md)**: Cause a sleeping creature to retain some perception of its surroundings.
 
 ## 4th-Level Paladin Spells

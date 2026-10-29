@@ -587,3 +587,29 @@ This ability replaces startling appearance.
 **Deadly Horns (Ex)**: At 6th level, while in his vigilante identity, a horned mask enforcer gains a gore attack. This is a primary natural attack that deals 1d6 points of piercing damage. This replaces the vigilante talent gained at 6th level.
 
 **Third Eye (Su)**: At 12th level, a horned mask enforcer's mask manifests a third eye. As a swift action a number of times per day equal to his vigilante level, he can launch a beam of fire from the eye as a ranged touch attack with a range of 180 feet. On a hit, the beam deals 4d6 points of fire damage. At 18th level, the beam damage increases to 8d6 points of fire damage. This replaces the vigilante talent gained at 12th level.
+
+## Half-Elf Double Scion
+
+*Vigilante archetype.* Many half-elves who live in human or elven societies try to blend in, hiding their true ancestry. But deception takes a toll, and some half-elves form alternate identities to let the suppressed side of their heritage be known. This other identity can be either a force for good, enabling the half-elf to express a part of himself that has been denied to him, or for evil, with the half-elf hurting others to make up for his own pain.
+
+**Dual Heritage**: A half-elf double scion appears to be an elf in one identity and a human in the other identity. He takes no penalties to Disguise checks to appear as the race that matches his current identity. The selection of which race is the social identity and which is the vigilante identity is made at 1st level and cannot be changed. Additionally, when a half-elf double scion switches from one identity to another, he is representing different aspects of his heritage rather than personality. As a result, a half-elf double scion has the same alignment in both of his identities. This alters dual identity.
+
+**Half-Elf Double Scion Talents**: A half-elf double scion can select from the following vigilante talents, in addition to general vigilante talents.
+
+*Elven Weapon Command (Ex)*: A half-elf double scion can wield traditional elven weapons as well as elves can. The half-elf double scion treats any weapon with the word "elven" in its name as a martial weapon, and gains Weapon Focus as a bonus feat for one such weapon.
+
+*Arrogant Strike (Ex)*: A half-elf double scion has a highly confident style in battle, characteristic of both humans and elves. A half-elf double scion can declare that he is using this ability at the beginning of his turn as a free action. He automatically confirms any critical hits until the beginning of his next turn. He can use this ability once per day plus one additional time at 14th level and 18th level. A half-elf double scion must be at least 10th level to select this talent.
+
+*Slick Step (Ex)*: A half-elf double scion can, as a move action, move 10 feet without provoking an attack of opportunity. This movement cannot pass through an opponent's square and must otherwise be a legal movement. He cannot draw a weapon during this movement.
+
+## Ferocious Hunter
+
+*Vigilante archetype.* Half-orcs with more distant orc ancestry often look almost indistinguishable from humans, aside from a slightly greenish tint to their skin or sharp teeth. The ability to move through the world without experiencing the same discrimination many of their kin face opens doors that might otherwise be closed, yet many of these half-orcs still take great pride in their heritage and have a powerful desire to show the world that half-orcs are deserving of respect. By taking on an alter-ego that allows them to show their true colors, they can become a champion of the downtrodden and a hero among half-orcs.
+
+**Hidden Heritage (Ex)**: A ferocious hunter must present as human for his social identity and as a half-orc for his vigilante identity in order to gain the benefits of dual identity. He gains Pass for Human as a bonus feat. In addition, his alignment stays the same when he switches between identities. This alters dual identity.
+
+**Symbol of Pride**: At 2nd level, a ferocious hunter gains the signature weapon vigilante talent, but must select a falchion, greataxe, or a weapon with "orc" in its name as his chosen weapon. He gains this talent regardless of his chosen vigilante specialization. This replaces the vigilante talent gained at 2nd level.
+
+**Spirit of Ferocity (Ex)**: Starting at 3rd level, when using orc ferocity to continue fighting after falling below 0 hit points, a ferocious hunter fights on for a number of rounds equal to his Constitution modifier. This replaces unshakable.
+
+**Symbol of Mastery**: At 8th level, a ferocious hunter gains Improved Critical with the weapon chosen for the symbol of pride ability. His base attack bonus is equal to his vigilante level for the purpose of qualifying for Critical Focus and any feats that require Critical Focus as a prerequisite. This replaces the vigilante talent gained at 8th level.

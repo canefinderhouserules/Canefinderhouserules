@@ -215,6 +215,7 @@ Mesmerists gain access to the following spells. Spells without a link come from 
 - **[Locate Object](locate-object.md)**: Senses direction toward object (specific or type).
 - **[Mad Hallucination](mad-hallucination.md)**: Target takes penalties to mental actions.
 - **[Mantle of Calm](mantle-of-calm.md)**: Neutralize the rage effects of those who have attacked you.
+- **[Mark of Spite](mark-of-spite.md)**: Hurt yourself to deal double damage to the marked foe.
 - **[Matchmaker](matchmaker.md)**: Cause two creatures to fall in love.
 - **[Mind Over Matter](mind-over-matter.md)**: Shift ability damage or drain between paired scores.
 - **[Mindlocked Messenger](mindlocked-messenger.md)**: ‘Target gains a message that can be given only to its intended recipient.
@@ -460,6 +461,7 @@ Mesmerists gain access to the following spells. Spells without a link come from 
 - **[Thoughtsense](thoughtsense.md)**: Automatically detect nearby conscious creatures.
 - Truespeak
 - **[Tough Crowd](tough-crowd.md)**: Allies resist the next enchantment or illusion and manipulation.
+- **[Untold Wonder](untold-wonder.md)**: Childlike wonder turns emotion penalties into bonuses.
 - **[Utter Contempt](utter-contempt.md)**: Target’s attitude worsens by two categories.
 - **[Vicarious View](vicarious-view.md)**: Plant a scrying sensor that you can use to spy on a creature, object, or location.
 - **[Vigilant Rest](vigilant-rest.md)**: Cause a sleeping creature to retain some perception of its surroundings.

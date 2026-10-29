@@ -203,6 +203,7 @@ New antipaladin spells from *Ultimate Magic*. Spells from other books will be ad
 - **[Nondetection, Communal](nondetection-communal.md)**
 - **[Overwhelming Poison](overwhelming-poison.md)**: Make a poison more difficult to resist.
 - **[Profane Nimbus](profane-nimbus.md)**: Unholy energy damages good creatures that attack you and protects you from good attacks.
+- **[Redcap's Touch](redcaps-touch.md)**: A bloodied hat grants +2 damage and healing on kills.
 - **[Reptilian Mark](reptilian-mark.md)**: Curse a creature with a glowing mark that slowly turns it into a lizard
 - **[Shadowform](shadowform.md)**: foes that fail to disbelieve deal only one-fifth damage
 - **[Shroud of Darkness](shroud-of-darkness.md)**: Plunge targets into supernatural darkness

@@ -99,6 +99,24 @@ uses of his resolve to avoid death. If he has at least two uses of his resolve r
 
 The following orders can be chosen by both samurai and cavaliers, although the former are far more likely to do so. Samurai can also select any of the cavalier orders presented in the Pathfinder RPG Advanced Player’s Guide. ### Order of the Warrior
 
+### Order of the Songbird
+
+Samurai of the order of the songbird are artists, scholars, and poets. They treat battle as a beautiful art form; many of these samurai seek pacifistic means of defeating their foes. Even samurai of this order who kill their opponents do so with respect, considering such a fight to be an act of poetic tragedy.
+
+**Edicts**: The samurai must never destroy art unless doing so is part of an artful act or performance of her own. She must respect the skill of her opponents and never desecrate or purposefully humiliate a foe. If she takes a sapient life, she must create a piece of art, performance, or poem in honor of the fallen creature or creatures in order to memorialize what she has taken from the world.
+
+**Challenge**: An order of the songbird samurai gains a +1 dodge bonus to AC and a +1 sacred bonus on saves against the attacks and abilities of the target of her challenge. This bonus increases by 1 for every 4 class levels the samurai has. The samurai must be wearing light or no armor, not using a shield, and carrying no more than a light load to gain this benefit.
+
+**Skills**: An order of the songbird samurai adds Knowledge (religion) (Int) and Perform (Cha) to her list of class skills. The samurai adds half her level to Craft checks and Profession (gardener) checks.
+
+**Order Abilities**: A samurai belonging to the order of the songbird gains the following abilities.
+
+**Versatile Performance (Ex)**: At 2nd level, the order of the songbird samurai gains the benefits of the bard's versatile performance ability with one Perform skill.
+
+**Poetic Inspiration (Ex)**: At 8th level, an order of the songbird samurai can speak a few words as a swift action, inspiring allies to great deeds. Allies within 30 feet who can hear the samurai gain a competence bonus equal to her Charisma modifier on attack and weapon damage rolls for 1 round. This ability can be used once per combat.
+
+**Beautiful Strike (Su)**: At 15th level, once per day when the order of the songbird samurai confirms a critical hit against the target of her challenge, she can declare it a beautiful strike without spending an action. The damage dealt by the attack becomes nonlethal damage, and the target must succeed at a Will save (DC = 10 + half the samurai's class level + her Charisma modifier) or be charmed as per *charm monster* (caster level equals the samurai's class level).
+
 ### Order of the Warrior
 
 Most samurai swear themselves to the code of the warrior, which emphasizes duty, honor, loyalty, and obedience.
