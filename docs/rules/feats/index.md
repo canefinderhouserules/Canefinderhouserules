@@ -3384,4 +3384,6 @@ Feats from Pathfinder Campaign Setting supplements.
 | [Relic Breaker](relic-breaker.md) | Combat | Str 13, Gate Breaker, Improved Sunder, Power Attack, base attack bonus +1 |
 | [Scrutinize Spell](scrutinize-spell.md) | — | Spellcraft 1 rank |
 | [Signifer Armor Training](signifer-armor-training.md) | — | Arcane Armor Mastery, Arcane Armor Training, Heavy Armor Proficiency, caster level 7th, must swear allegiance to a single knightly order |
+| [Infernal Knight Obedience](infernal-knight-obedience.md) | — | Knowledge (planes) 3 ranks, must swear allegiance to a single knightly order |
+| [Infernal Knight Obsession](infernal-knight-obsession.md) | — | Infernal Knight Obedience, Knowledge (planes) 3 ranks, must swear allegiance to a single knightly order |
 | [Traditional Weapons](traditional-weapons.md) | Combat | Int 13 |

@@ -300,3 +300,74 @@ Spells available to the elementalist wizard, who specializes in one of the four 
 
 - **[Gate](gate.md)** (M): Connects two planes for travel or summoning.
 
+
+
+## Additional Elemental Spells
+
+Spells introduced in later books that also belong to the elemental schools, for the elementalist wizard (and for wizards who choose the metal or wood elemental schools).
+
+### Any
+
+- **Level 3**: [Communal resist energy](resist-energy-communal.md)
+- **Level 4**: [Communal protection from energy](protection-from-energy-communal.md)
+
+### Air
+
+- **Level 1**: [Air bubble](air-bubble.md), [Gentle breeze](gentle-breeze.md), [Windy escape](windy-escape.md)
+- **Level 2**: [Aggressive thundercloud](aggressive-thundercloud.md), [Gusting sphere](gusting-sphere.md)
+- **Level 3**: [Air geyser](air-geyser.md), [Hostile levitation](hostile-levitation.md)
+- **Level 4**: [Absorbing inhalation](absorbing-inhalation.md), [Cloud shape](cloud-shape.md), [Greater aggressive thundercloud](aggressive-thundercloud-greater.md), [Miasmatic form](miasmatic-form.md)
+- **Level 5**: [Fickle winds](fickle-winds.md), [Lightning arc](lightning-arc.md), [Wind blades](wind-blades.md)
+- **Level 6**: [Path of the winds](path-of-the-winds.md)
+- **Level 7**: [Scouring winds](scouring-winds.md)
+- **Level 9**: [Ride the lightning](ride-the-lightning.md)
+
+### Earth
+
+- **Level 1**: [Corrosive touch](corrosive-touch.md), [Mudball](mudball.md), [Stone shield](stone-shield.md), [Thunderstomp](thunderstomp.md)
+- **Level 2**: [Molten orb](molten-orb.md), [Stone discus](stone-discus.md)
+- **Level 3**: [Burrow](burrow.md), [Greater thunderstomp](thunderstomp-greater.md), [Heart of the metal](heart-of-the-metal.md), [Raging rubble](raging-rubble.md)
+- **Level 4**: [Earth glide](earth-glide.md), [Obsidian flow](obsidian-flow.md), [Vitriolic mist](vitriolic-mist.md)
+- **Level 5**: [Acidic spray](acidic-spray.md), [Communal stoneskin](stoneskin-communal.md), [Corrosive consumption](corrosive-consumption.md)
+- **Level 6**: [Tar pool](tar-pool.md)
+- **Level 7**: [Caustic eruption](caustic-eruption.md)
+
+### Fire
+
+- **Level 1**: [Touch of combustion](touch-of-combustion.md)
+- **Level 2**: [Fiery shuriken](fiery-shuriken.md), [Molten orb](molten-orb.md)
+- **Level 3**: [Ash storm](ash-storm.md), Fire stream, [Fire trail](fire-trail.md), [Flash fire](flash-fire.md)
+- **Level 4**: [Controlled fireball](controlled-fireball.md), [Greater flaming sphere](flaming-sphere-greater.md), [Obsidian flow](obsidian-flow.md), [Scorching ash form](scorching-ash-form.md), [Volcanic storm](volcanic-storm.md)
+- **Level 5**: [Damnation stride](damnation-stride.md)
+- **Level 6**: [Chains of fire](chains-of-fire.md), [Tar pool](tar-pool.md)
+
+### Metal
+
+- **Level 1**: [Body capacitance](body-capacitance.md), [Mirror polish](mirror-polish.md), [Reinforce armaments](reinforce-armaments.md), [Shock shield](shock-shield.md)
+- **Level 2**: [Aggressive thundercloud](aggressive-thundercloud.md), [Bullet shield](bullet-shield.md), [Bullet ward](bullet-ward.md), [Warding weapon](warding-weapon.md)
+- **Level 3**: [Pellet blast](pellet-blast.md), [Silver darts](silver-darts.md)
+- **Level 4**: [Greater aggressive thundercloud](aggressive-thundercloud-greater.md), [Named bullet](named-bullet.md)
+- **Level 5**: [Wreath of blades](wreath-of-blades.md)
+- **Level 6**: [Greater named bullet](named-bullet-greater.md)
+- **Level 7**: [Arcane cannon](arcane-cannon.md), [Awaken construct](awaken-construct.md)
+
+### Water
+
+- **Level 1**: [Damp powder](damp-powder.md), [Icicle dagger](icicle-dagger.md), Marid’s mastery, [Wave shield](wave-shield.md)
+- **Level 2**: [Frigid touch](frigid-touch.md), [Frost fall](frost-fall.md), [River whip](river-whip.md), [Unshakable chill](unshakable-chill.md)
+- **Level 4**: [Ride the waves](ride-the-waves.md)
+- **Level 5**: [Icy prison](icy-prison.md)
+- **Level 6**: [Cold ice strike](cold-ice-strike.md), [Ice crystal teleport](ice-crystal-teleport.md)
+- **Level 7**: [Ice body](ice-body.md)
+- **Level 9**: [Mass icy prison](icy-prison-mass.md)
+
+### Wood
+
+- **Level 1**: [Cultural adaptation](cultural-adaptation.md), [Handy grapnel](handy-grapnel.md), [Illusion of calm](illusion-of-calm.md), [Liberating command](liberating-command.md), [Quintessence](quintessence.md)
+- **Level 2**: [Companion life link](companion-life-link.md), [Extreme flexibility](extreme-flexibility.md), [Life pact](life-pact.md), [Squeeze](squeeze.md)
+- **Level 3**: [Air geyser](air-geyser.md), [Anchored step](anchored-step.md), [Pack empathy](pack-empathy.md)
+- **Level 4**: [Lesser age resistance](age-resistance-lesser.md)
+- **Level 5**: [Mass charm person](charm-person-mass.md), [Plant shape i](plant-shape-i.md)
+- **Level 6**: [Age resistance](age-resistance.md), [Plant shape ii](plant-shape-ii.md), [Serenity](serenity.md)
+- **Level 7**: [Greater age resistance](age-resistance-greater.md), [Plant shape iii](plant-shape-iii.md)
+- **Level 9**: [Wooden phalanx](wooden-phalanx.md)

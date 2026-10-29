@@ -112,6 +112,8 @@ The prestige classes presented in this chapter are summarized below.
 
 **[Infernal Knight Signifer](infernal-knight-signifer.md)**: The spellcasting arm of a knightly order: masked, lawful casters with devil-resistant gifts and armor training.
 
+**[Knightly Orders](knightly-orders.md)**: The generic orders of the infernal knights, with their reckonings and boons.
+
 **[Introspective Emissary](introspective-emissary.md)**: A shaman-like spirit bonder who summons an animus hybrid through her spirit animal.
 
 **[Knight of the Vigil](knight-of-the-vigil.md)**: A heavily armored undead hunter with teamwork and shield feats.
