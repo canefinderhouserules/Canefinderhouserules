@@ -3368,3 +3368,20 @@ There are no mythic metamagic feats. Mythic versions of spells are, in a way, me
 | [Weapon Focus (Mythic)](weapon-focus-mythic.md) | Mythic | Weapon Focus |
 | [Weapon Specialization (Mythic)](weapon-specialization-mythic.md) | Mythic | Weapon Specialization |
 | [Witch Knife (Mythic)](witch-knife-mythic.md) | Mythic | Witch Knife |
+
+## Campaign Setting Feats
+
+Feats from Pathfinder Campaign Setting supplements.
+
+| Feat | Type | Prerequisites |
+|---|---|---|
+| [Caster's Champion](casters-champion.md) | Combat | — |
+| [Censoring Critical](censoring-critical.md) | Combat, Critical | Critical Focus, base attack bonus +15 |
+| [Dislocate](dislocate.md) | — | Con 13 |
+| [Extended Scrying](extended-scrying.md) | — | Ability to cast a spell of the scrying subschool |
+| [Gate Breaker](gate-breaker.md) | Combat | Str 13, Improved Sunder, Power Attack, base attack bonus +1 |
+| [Infernal Knight Aegis](infernal-knight-aegis.md) | — | Heavy Armor Proficiency, base attack bonus +5, must swear allegiance to a single knightly order |
+| [Relic Breaker](relic-breaker.md) | Combat | Str 13, Gate Breaker, Improved Sunder, Power Attack, base attack bonus +1 |
+| [Scrutinize Spell](scrutinize-spell.md) | — | Spellcraft 1 rank |
+| [Signifer Armor Training](signifer-armor-training.md) | — | Arcane Armor Mastery, Arcane Armor Training, Heavy Armor Proficiency, caster level 7th, must swear allegiance to a single knightly order |
+| [Traditional Weapons](traditional-weapons.md) | Combat | Int 13 |

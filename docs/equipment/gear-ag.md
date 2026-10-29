@@ -201,3 +201,26 @@ While these alchemical solutions do not cause as swift or extensive a change as 
 **Price** 10 gp; **Weight** —
 
 Many who study the old ways to better manage a traumatic injury use this concoction. Despite its evocative name, phantom ash has little to do with spectral spirits. Instead, when applied dry or moistened into a salve, this black dust causes a sensation of warmth when smeared on skin, and it removes any lingering pain or distracting sensations associated with a chronic injury, such as a lost or paralyzed limb. For 1 hour after each application, the user gains a +1 alchemical bonus on all saving throws against phantasm effects and effects that inflict pain.
+
+## Restraints
+
+Knightly orders that capture and hold fugitives employ a variety of restraints.
+
+### Iron Mask
+
+**Price** common 75 gp, masterwork 150 gp; **Weight** 10 lbs. (common), 15 lbs. (masterwork)
+
+This plain but heavy iron helmet covers the entire head and fastens around the neck and shoulders. The wearer becomes difficult to identify, as the mask obscures all facial features: a creature wearing an iron mask is always treated as having made an involuntary Disguise check with a result of 10 (with no further modifiers). The creature can apply only half its Dexterity modifier to Dexterity checks, Dexterity-based skill checks, initiative checks, and Reflex saving throws, and to its Armor Class, CMD, and attack rolls (if applicable). It treats all other creatures as if they had concealment against it.
+
+A creature wearing an iron mask can use Escape Artist to slip free (DC 35, or DC 40 for a masterwork mask). Breaking the mask requires a Strength check (DC 30, or DC 32 for masterwork). An iron mask has hardness 10 and 30 hit points; half the damage dealt to an iron mask applies to the creature wearing it. Most have locks (add the cost of the lock). Masks are made for Medium creatures; Small ones cost the same, and larger ones are priced like larger manacles.
+
+### Manacles
+
+**Price** common 15 gp, masterwork 50 gp, mithral 1,000 gp; **Weight** 2 lbs.
+
+Manacles are detailed in the equipment rules; their exact effects are largely at the GM's discretion because of their versatility. For their most common uses, GMs might employ the following.
+
+- **Fetters**: Manacles designed to fit around the ankles, using the same rules for breaking, escape, and cost by size. A creature in fetters is entangled and can move at only half speed. A fettered creature must succeed at a DC 15 Acrobatics check to move more than its (reduced) speed in a round; failing by 5 or more makes it fall prone.
+- **Frontal Restraint**: A creature whose wrists are bound in front can wield only one melee weapon or shield (the weapon may be two-handed), and cannot use ranged weapons except crossbows (which it cannot reload). Any attack it makes takes a –4 penalty. It can attempt skill checks with its hands at a –5 penalty (–15 on Disable Device checks to pick the lock of its own manacles).
+- **Rear Restraint**: With hands behind the back, the creature cannot use its hands to effectively employ any weapon or shield. Skill checks that use the hands take a –10 penalty (–25 on Disable Device checks to pick its own manacles). It can try to flip its arms beneath its legs to bring its hands in front with a DC 25 Escape Artist check (a separate Escape Artist check is then required to escape the manacles).
+- **Restraining Two Individuals**: Two creatures can share one set of manacles and must remain adjacent. If they are not working together, both are treated as grappled. If they are working together, they can move together in the same round at the speed of the slower creature. A manacled creature can forfeit its turn in combat to mimic the other's movements, allowing that creature to act as if unrestrained.

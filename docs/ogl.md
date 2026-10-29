@@ -293,3 +293,5 @@ The following text is the property of Wizards of the Coast, Inc. and is Copyrigh
     Pathfinder RPG GameMastery Guide © 2010, Paizo Publishing, LLC; Authors: Cam Banks, Wolfgang Baur, Jason Bulmahn, Jim Butler, Eric Cagle, Graeme Davis, Adam Daigle, Joshua J. Frost, James Jacobs, Kenneth Hite, Steven Kenson, Robin Laws, Tito Leati, Rob McCreary, Hal Maclean, Colin McComb, Jason Nelson, David Noonan, Richard Pett, Rich Redman, Sean K Reynolds, F. Wesley Schneider, Amber Scott, Doug Seacat, Mike Selinker, Lisa Stevens, James L. Sutter, Russ Taylor, Penny Williams, Skip Williams, Teeuwynn Woodruff.
 
     Pathfinder Campaign Setting: Construct Handbook © 2018, Paizo Inc.; Authors: Brian Duckwitz, Andrew Hoskins, Nathan King, Kris Leonard, Luis Loza, Adrian Ng, Tom Phillips, Alex Riggs, and Nicholas Wasko.
+
+    Pathfinder Campaign Setting: Path of the Hellknight © 2016, Paizo Inc.; Author: F. Wesley Schneider.

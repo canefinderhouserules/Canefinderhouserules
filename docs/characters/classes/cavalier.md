@@ -314,3 +314,21 @@ Cavaliers of the order of the hammer respect might over all, and believe that th
 **Crushing Grapple (Ex)**: At 8th level, the cavalier gains Chokehold as a bonus feat, even if she does not meet the prerequisites. She does not take the –5 penalty on grapple checks to put an opponent in a chokehold.
 
 **Inspiring Flex (Ex)**: At 15th level, the cavalier can display her own brawn to inspire greater strength in her allies. As a standard action, she can grant herself and any allies within 30 feet a +4 morale bonus on melee attack rolls, combat maneuver checks, Fortitude saves, and Strength checks. The cavalier can maintain her inspiring flex as a free action, and she can use this ability for a number of rounds per day equal to 1/2 her cavalier level; this duration need not be continuous.
+
+### Order of the Iron Decree
+
+Cavaliers of this order have joined a knightly crusade against chaos, adopting a life of ironclad discipline and swearing to thwart disorder by any means. Through intimidation and strength of arms, these severe warriors embody the grim fist of law, pursuing and crushing disorder wherever it festers. Many serve as judges and emissaries of a harsh vision of justice. Members of any infernal knight order may be predisposed to choose this order; an infernal knight order's tenets supersede a cavalier order's edicts, and the cavalier can break an edict without losing the benefits of his order's challenge ability, but only in direct service of the superseding tenet.
+
+**Edicts**: The cavalier is a merciless champion of the law, and if he must crush dreams, coerce obedience, or slay in the name of law, that is a small price to pay for peace and progress. He must bring lawbreakers to justice, and when that is not possible, serve as executioner of that justice. He must also uphold the tenets of his infernal knight order.
+
+**Challenge**: An order of the iron decree cavalier gains bonuses when he challenges a creature of chaotic alignment with an Intelligence score of 3 or higher, or one that he has witnessed committing a crime against local laws within the past hour. Against such a target he receives a +1 morale bonus on attack rolls, and the same bonus on Intimidate checks to demoralize it. This bonus increases by 1 for every 4 class levels the cavalier has.
+
+**Skills**: An order of the iron decree cavalier adds Knowledge (local) and Perception to his list of class skills. Additionally, he gains a circumstance bonus on Perception checks to act in a surprise round equal to 1/2 his cavalier level (minimum +1).
+
+**Order Abilities**: A cavalier belonging to the order of the iron decree gains the following abilities as he increases in level.
+
+**Oppress (Sp)**: At 2nd level, when the cavalier deals damage to an opponent with his infernal knight order's favored weapon, as a swift action he learns whether that creature's alignment is chaotic, as if he had cast *detect chaos* and studied the creature for 3 rounds. If he learns that the creature is chaotic, he gains a +1 morale bonus on attack rolls against it. This bonus does not stack with itself, but does stack with the bonus from his challenge.
+
+**Subjugate (Ex)**: At 8th level, whenever the cavalier confirms a critical hit with a melee weapon against a chaotic creature with an Intelligence score of 3 or higher, or against a creature he has witnessed committing a crime within the past hour, he adds his Charisma modifier to the total critical hit damage. If the critical hit kills the creature or renders it unconscious, as an immediate action he can attempt an Intimidate check to demoralize all foes within 15 feet who can see him. This ability can be used only once per combat.
+
+**Hand of the Law (Ex)**: At 15th level, the cavalier can declare himself an enforcer of martial law as a swift action. For a number of rounds equal to his Charisma modifier, he can ignore difficult terrain and gains an additional +2 bonus on attack rolls while charging. Any creatures he demoralizes while this ability is in effect are shaken for a number of additional rounds equal to his Charisma modifier. Additionally, when these creatures attack him, attempt saving throws against his abilities, or attempt opposed skill checks against him, they take a –3 penalty for being shaken (instead of –2). He can use this ability only once per combat.

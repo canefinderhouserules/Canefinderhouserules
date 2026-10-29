@@ -955,3 +955,13 @@ At 14th level, a verdivant gains the following efflorescences.
 This replaces tactician, banner, greater tactician, greater banner, master tactician, and bonus feats.
 
 **Sinuous Steps (Ex)**: At 3rd level, a verdivant and his plant mount gain the woodland stride druid class feature. In addition, they do not take any penalty to AC after making a charge attack. This alters cavalier's charge.
+
+## Circuit Judge
+
+A circuit judge claims a specific region, becoming an expert in the local laws and, perhaps, a fearsome executioner.
+
+**Circuit (Ex)**: At 1st level, a circuit judge chooses a single community. While in that community or within 25 miles of it, she adds half her cavalier level (minimum 1) on Intimidate, Knowledge (local), and Sense Motive checks (and any other law-related skill checks, at the GM's discretion). Whenever she advances in level, the range increases by another 25 miles (50 miles at 2nd level, 75 miles at 3rd level, and so forth). Her bonus on Intimidate checks increases by 2 when she enters a community within this area that she hasn't visited for 1 week or more. At 9th and 17th level, she can select another community within range; she can measure from that community (and from previous ones) to determine whether she gets the bonus. This replaces tactician, greater tactician, and master tactician.
+
+**Sentence (Ex)**: Once per day as a swift action, the circuit judge can choose one target within sight to sentence, gaining the benefits of one of the following inquisitor judgments against it: destruction, justice, protection, purity, or smiting. The benefits apply only to the judge and the target (the protection judgment's bonus to Armor Class, for example, applies only to attacks made by the sentenced target). She treats her cavalier level as her inquisitor level for how the judgments increase in power. She can use this ability twice per day at 1st level, plus two additional times per day for every 3 cavalier levels beyond 1st, to a maximum of 14 times per day at 19th level. She can switch her sentence as a swift action, but doing so expends an additional daily use. Sentencing a foe requires concentration: she takes a –2 penalty to Armor Class, except against attacks from the target of her sentence. The sentence lasts until the target is dead or unconscious or the combat ends. Sentences count as challenges for the purposes of the effects listed in her order's challenge section. This replaces challenge.
+
+**Double Jeopardy (Ex)**: At 12th level, whenever she sentences a foe, she can gain the benefits of two inquisitor judgments against it instead of one. Using this ability does not expend a daily use of sentence. This replaces demanding challenge.
