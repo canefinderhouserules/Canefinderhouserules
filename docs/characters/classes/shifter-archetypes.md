@@ -217,3 +217,13 @@ At 5th level, a weretouched gains DR/silver equal to half her shifter level, to 
 **Form of the Snapping Turtle**: You double your shield bonus to AC from Snapping Turtle Style. At 8th level, you still gain your shield bonus to AC from Snapping Turtle Style even when you don't have one hand free. At 15th level, there is a 10% chance that critical hits and sneak attacks fail to affect you. This stacks with the light fortification armor special ability and similar effects.
 
 **Form of the Tiger**: On a successful bull rush, overrun, or trip combat maneuver, you deal slashing damage equal to your Strength bonus to the target of the maneuver. This damage increases to twice your Strength bonus at 8th level. At 15th level, if you hit with two or more unarmed strikes and deal slashing damage on your turn, you also rend your target, dealing damage equal to your unarmed strike plus 1-1/2 your Strength bonus.
+
+## Holy Beast
+
+*Shifter archetype.* Many faiths venerate thousands of gods, and devoted followers might have personal relationships with their chosen deities. Holy beast shifters pledge to hunt down their deity's enemies to earn that deity's blessing. These shifters tend to take on the aspect of their deity's sacred animal, and many of them seek to destroy rakshasas.
+
+**Beast's Blessing**: A holy beast must worship a deity.
+
+**Blessed Claws (Su)**: This ability functions as the shifter's claws class feature, except the holy beast shifter's default claws are long and thin, dealing piercing damage. At 3rd level, her claws are treated as one type of aligned weapon (chaotic, evil, good, or lawful) within one step of her deity's alignment in addition to ignoring DR/cold iron, DR/magic, and DR/silver. If multiple alignment components are available to the holy beast, she selects one; this choice cannot be changed later. This alters shifter claws.
+
+**Divine Fury (Su)**: A holy beast shifter focuses entirely on hunting down specific outsiders on behalf of her deity. She gains the ranger's favored enemy class feature, except she can select only an outsider type from the favored enemy table. The bonus against her favored enemy automatically increases by 1 at 5th level and every 5 levels thereafter. At 5th level and every 5 levels thereafter, she can forgo gaining an additional shifter aspect to instead gain an additional outsider type as her favored enemy. Her bonuses from the favored enemy feature against new outsider types chosen in this way are equal to the bonus for the type chosen at 1st level. This replaces wild empathy, track, woodland stride, and trackless step.

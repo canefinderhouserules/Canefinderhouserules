@@ -464,3 +464,51 @@ Your connection to the hungering undead shapes your magic. Sorcerers whose ances
 *Earth Crawler (Su)*: At 15th level, you gain a burrow speed of 30 feet. Additionally, as long as you are surrounded by at least 5 feet of dirt or natural stone on all sides, you gain fast healing 10. You can heal a number of hit points per day equal to 10 × your sorcerer level with this ability.
 
 *Ghoulish Aspect (Su)*: At 20th level, you take on aspects of the nature and appearance of ghouls. You no longer need to eat and are immune to hunger (though you are still able to consume flesh if you choose to). You also gain immunity to cold, nonlethal damage, paralysis, and sleep, and DR 5/—. Additionally, you gain the stench ability with a radius of 10 feet. Creatures that fail their Fortitude saving throws are sickened for 1d6+4 minutes. Use half your sorcerer level instead of half your racial Hit Dice to determine the saving throw DC.
+
+## Unicorn
+
+Unicorns are among the most fabled creatures of the deep forests: deeply empathetic and fiercely protective, they occasionally form close bonds with humans, often young and noble-hearted. When the two have a particularly strong bond, the unicorn's magic can become a part of the bonded human, and sometimes is even passed on to her children. These children, blessed by their parent's connection to that force of true good, grow up to become sorcerers of the unicorn bloodline.
+
+**Class Skill**: Heal.
+
+**Bonus Spells**: *Cure light wounds* (3rd), *cure moderate wounds* (5th), *cure serious wounds* (7th), *atonement* (11th), *heal* (13th), *greater restoration* (15th), *mass cure critical wounds* (17th), *mass heal* (19th).
+
+**Bonus Feats**: Alertness, Animal Affinity, Brew Potion, Fleet, Greater Fortitude, Improved Counterspell, Self-Sufficient, Skill Focus (Heal).
+
+**Bloodline Arcana**: Every time you cast a spell, you can restore a number of hit points equal to double the level of the spell you cast to one target of your choice that you can see. A creature at its maximum hit points cannot be affected by this ability. Healing a dying creature with this ability does not automatically stabilize the creature unless its hit points are brought to 0 or above.
+
+**Bloodline Powers**: Your connection to the unicorns' blessing shapes you as you grow, empowering you with the forces of good and restoration.
+
+*Safekeeping (Su)*: At 1st level, you can touch a creature as a standard action, granting it a +2 insight bonus to AC for 1 round. You can use this ability a number of times per day equal to 3 + your Charisma modifier.
+
+*Pure of Mind (Su)*: At 3rd level, you gain a +2 bonus on saving throws against charm effects and a +4 bonus on saving throws against spells with the evil descriptor. At 9th level, your bonus on saving throws against charm effects increases to +4 and your bonus on saving throws against spells with the evil descriptor increases to +6.
+
+*Righteous Fury (Su)*: At 9th level, once per day you can create a spear of pure light and throw it at a creature within 60 feet as a standard action. This is a ranged touch attack that uses your Charisma modifier in place of your Dexterity modifier to determine the attack bonus. The spear deals 1d6 points of damage per sorcerer level and ignores all damage reduction and hardness. This damage increases to 1d8 points of damage per sorcerer level against an evil creature. At 13th level, you can use this ability twice per day. At 17th level, you can use this ability three times per day.
+
+*Friend to Nature (Su)*: At 15th level, creatures with the animal or magical beast type and a nonevil alignment instinctually trust you. Such creatures automatically have a starting attitude of indifferent or better toward you unless you or a creature allied with you has attacked or otherwise threatened violence against such a creature.
+
+*Blessing (Su)*: At 20th level, you gain immunity to poison, to charm effects, and to spells and weapons with the evil descriptor. You can also cast *magic circle against evil* at will with a caster level equal to your sorcerer level.
+
+## Phoenix
+
+One of your ancestors bore witness to a phoenix's resurrection and formed a bond with the magical creature. The resurrecting flames still course through your veins, surging with power.
+
+**Class Skill**: Knowledge (arcana).
+
+**Bonus Spells**: *Color spray* (3rd), *see invisibility* (5th), *magic circle against evil* (7th), *wall of fire* (9th), *break enchantment* (11th), *path of the winds* (13th), *firebrand* (15th), *prismatic wall* (17th), *fiery body* (19th).
+
+**Bonus Feats**: Dodge, Elemental Focus (fire), Fast Healer, Improved Initiative, Iron Will, Mobility, Quicken Spell, Skill Focus (Knowledge [arcana]).
+
+**Bloodline Arcana**: When casting any spell that deals fire damage, you can instead heal your targets. The spell deals no damage, and living creatures affected by the spell instead regain a number of hit points equal to half the fire damage the spell would normally deal.
+
+**Bloodline Powers**: The phoenix is an elemental creature of sky and primal fire, and its blood within you sings with a similar power.
+
+*The Unseen World (Su)*: At 1st level, you gain *detect magic* and *read magic* as spells known. At 5th level, the phoenix's blood drives you to find and save lost knowledge and magical items. As a swift action, you can automatically identify the properties of a non-cursed magic item you hold; you must still identify a cursed item as normal to correctly identify it as cursed. You can use this ability a number of times equal to your Charisma modifier per day.
+
+*Immolation (Su)*: At 3rd level, you gain the ability to surround yourself in fire as a swift action. This fire burns for a number of rounds per day equal to your character level plus your Charisma bonus. These rounds do not have to be consecutive. Any unarmed attacks you make while affected by immolation deal an additional 1d6 points of fire damage, and any creature that ends its turn adjacent to you while you're affected by immolation also takes 1d6 points of fire damage.
+
+*Vermilion Wings (Su)*: At 9th level, you gain the ability to grow a pair of phoenix wings from your back as a standard action. The wings grant you a fly speed of 60 feet with good maneuverability. You can dismiss the wings as a free action.
+
+*Restoring Flames (Sp)*: At 15th level, you can cast *greater restoration* once per day as a spell-like ability.
+
+*Rebirth (Su)*: At 20th level, the full power of a phoenix erupts from within you if you perish. When you die, you are brought back to life, as *true resurrection*, after 1 minute. This ability can be used only once every 24 hours, and if you are slain again within this period, your death is permanent.

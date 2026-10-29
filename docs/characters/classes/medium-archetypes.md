@@ -168,6 +168,34 @@ The Devilborn Scion is the spirit of a would-be ruler of a great city, slain ato
 
 **Master Duelist (Greater, Su)**: While wielding a light or one-handed piercing weapon, you gain a +3 dodge bonus to your AC against melee attacks. Your surprise strike damage also applies to attacks against creatures you are flanking.
 
+### Dragonslayer King (Champion)
+
+This legendary spirit is a folk hero famed for slaying dragons but refusing to rule any realm until she had slain the greatest of them. Rulers fearful of losing their positions sent warriors to kill her, and she barely escaped with her life.
+
+**Gaining Favor**: To gain the dragonslayer king's favor, you must defeat an enemy with the dragon type and at least 7 Hit Dice without any aid from allies. After defeating the enemy, you must attempt a Wisdom check as you are bombarded with the memory of a dying dragon's curse. If you succeed, the spirit answers your call.
+
+**Taboo**: If you accept a taboo while channeling the dragonslayer king, you must never seek out or accept any position of power or leadership.
+
+**Challenge (Lesser, Su)**: You gain the challenge ability as a cavalier of your level. When you challenge a foe, your attacks ignore any damage reduction your target has. In addition, you gain a +2 bonus on saving throws until the challenge ends.
+
+**Death Curse (Supreme, Su)**: When you channel the dragonslayer king, you can select any two dragonslayer death curse rage powers. You can select different rage powers each time you channel the spirit. Treat your medium level as your barbarian level for the purpose of meeting prerequisites. You gain the benefit of these rage powers against challenged foes even if you are not raging. For each additional point of damage that would be dealt by a rage power, you deal 1d6 points of damage instead.
+
+### Forgiving Vintner (Hierophant)
+
+A farmer who was blessed by the great one-eyed giants of an island of hero-gods, who told him that tragedy would precede his mythic ascension. Sure enough, he returned home to find his whole village slaughtered. The culprits were captured, but he forgave them, an act that was rewarded by the gods. He stands for hope in the face of despair, for new growth, and for redemption.
+
+**Gaining Favor**: To gain the vintner's favor, you must travel to the hills where the hero-god was born. There you must swear to never bear a grudge against another, even if you have been grievously wronged. You must then succeed at a Wisdom check, and if you do, the vintner will answer your call.
+
+**Spirit Bonus**: When you channel the vintner, your spirit bonus applies on Wisdom checks, Wisdom-based skill checks, and saving throws against spells with the evil descriptor.
+
+**Favored Locations**: Farms, gardens, orchards, and wooded areas.
+
+**Taboo**: If you accept a taboo while channeling the vintner, you may not deal lethal damage.
+
+**Student of the Earth (Lesser, Su)**: This power functions as the archmage arcana spirit power, except that you add spells from the druid spell list instead of the sorcerer/wizard spell list. When you cast these spells, they count as divine.
+
+**Divine Overseer (Greater, Su)**: You can allow the vintner to gain 1 point of influence over you as a swift action to enable you to channel positive energy as a cleric of your level and automatically restore or deal the maximum amount your channel permits (for example, 6 points if you roll 1d6 when you channel). You can use this channel energy ability a number of times per day equal to your Charisma modifier (minimum 1).
+
 ### Heretic (Hierophant)
 
 The Heretic warps the faith of a good deity.
@@ -201,6 +229,32 @@ The Lich is a spirit of power over death and the undead.
 **Necromantic Arcana (Lesser, Su)**: This functions as the archmage arcana lesser spirit power, except you gain the following spells at the indicated spell levels (even if they are not the usual spell levels for the sorcerer/wizard spell list), instead of selecting them each day: 0—*bleed*; 1st—*chill touch*; 2nd—*command undead*; 3rd—*animate dead*; 4th—*enervation*; 5th—*magic jar*; 6th—*create greater undead*.
 
 **Lesser Lichdom (Greater, Su)**: In order to benefit from this power, you must have a proto-phylactery that costs you 10,000 gp to create (if you continue with the process of lichdom, you can upgrade this to a true phylactery by paying the difference in cost). If you die while channeling the Lich, you return from the dead in 1d10 days, reforming around the proto-phylactery and gaining 1 permanent negative level (as if subject to the *resurrection* spell). This process consumes the proto-phylactery. If you are already a lich, you can instead create a backup phylactery for 10,000 gp, at which you reform if your normal phylactery is destroyed. This consumes the backup phylactery.
+
+### Monster-Slayer Spearcaptain (Champion)
+
+A prodigy captain in a city guard whose spear forced a sea monster back into the waves, though not before it laid her home city to ruin. She went missing following the battle and was presumed dead, but she returned a decade later and quickly stepped up to train another city for the battle against the monster that she feels is inevitable.
+
+**Gaining Favor**: To gain the spearcaptain's favor, you first must travel to the ruins of a city destroyed by a monster. On the beach where the battle was fought, you must swear an oath to defend civilization from senseless violence wherever you find it. You must then succeed at a Strength check, and if you do, the spearcaptain will answer your call.
+
+**Seance Boon**: You gain a +2 morale bonus on attack rolls against creatures that are at least one size category larger than you.
+
+**Taboo**: If you accept a taboo while channeling the spearcaptain, you must attack any hostile Huge or larger creature on sight.
+
+**Divine Vengeance (Intermediate, Su)**: As a divine warrior, you can cast each of the following spells once per day: *align weapon* (lawful), *magic weapon*, and *shield of faith*. Use your medium level in place of a cleric level. These spells do not count toward your regular allotment of spells per day, but you must have a Charisma score of at least 10 + the spell's level to cast them.
+
+**Spiritual Force (Greater, Su)**: Add *divine power*, *greater magic weapon*, and *magic vestment* to the list of spells you can cast once per day, following the same rules as the divine vengeance spirit power.
+
+### Saga-Singer (Marshal)
+
+The greatest skald of all time. During his life, there was no greater honor than to be immortalized by his song, and several of the most famous epics of his people were first sung by him.
+
+**Gaining Favor**: To gain the saga-singer's favor, you must first compose a song or poem about a heroic event that you witnessed but did not take part in. Then you must perform the piece in front of a crowd of at least 100 people. If you succeed at a Charisma check during the performance, the saga-singer will answer your call.
+
+**Taboo**: If you accept a taboo while channeling the saga-singer, you cannot take any actions that would deny an ally an opportunity for glory. This includes killing an enemy that an ally was attempting to defeat or forcibly removing an ally from combat, even when her life is in danger.
+
+**Song of Valor (Intermediate, Su)**: As a standard action, you can begin a performance that fills allies with power and confidence. Any ally that participated in your seance who can hear your performance receives a morale bonus to Strength and Constitution equal to your spirit bonus. You can maintain this performance for a number of rounds equal to your Charisma modifier plus your spirit bonus. These rounds need not be consecutive. Maintaining your performance is a free action.
+
+**Saga of Future Kings (Supreme, Su)**: Each ally who benefits from your song of valor gains DR/— equal to your spirit bonus. In addition, when an ally affected by your song would be reduced to fewer than 0 hit points, she can attempt a Fortitude saving throw (DC = 10 + half the damage received). If the ally succeeds, she instead is reduced to 0 hit points.
 
 ### Slumbering King (Marshal)
 
@@ -501,3 +555,11 @@ Fate vessels are powerful mediums who are sensitive to the presence and desires 
 **Ki Contact (Su)**: At 15th level, as a swift action, a medium of the master can allow her spirit to gain 1 point of influence over her in order to gain a ki power (see the unchained monk) and a number of ki points equal to her Charisma modifier (minimum 1) until the spirit leaves her body. She uses her medium levels as monk levels for the purposes of meeting the ki power's prerequisites and any level-dependent benefits of the power. Multiple uses of this ability stack, allowing her to select one power to serve as a prerequisite for another. This replaces trance of three.
 
 **Master's Style (Su)**: At 17th level, when a medium of the master channels a champion spirit, she gains a bonus style feat and the two feats in that style's feat path. She does not have to meet the prerequisites for these feats. This alters spirit power (supreme).
+
+## Spirit Eater
+
+*Medium archetype.* In lands haunted by ghosts and hungry spirits, some mediums learn to devour the dead instead of fleeing them. Guardians of their communities, spirit eaters absorb the dead to channel their power and serve as a line of defense against incorporeal creatures.
+
+**Ectoplasmic Strikes (Su)**: At 3rd level, a spirit eater medium treats his attacks as if they had the ghost touch weapon property. This replaces haunt channeler.
+
+**Consume Spirit (Su)**: At 7th level, a spirit eater can attempt to consume an incorporeal creature and house it within his body. If he reduces an incorporeal creature to 0 hit points or fewer, he can instead leave the creature at 1 hit point and consume the creature as an immediate action. A consumed creature is contained in the spirit eater's body and grants him a +1 bonus on either attack rolls, saving throws, or skill checks, chosen by the spirit eater, and a number of temporary hit points equal to the consumed creature's Hit Dice. A spirit eater's body can hold a number of creatures equal to his spirit bonus. If he attempts to consume another creature after this point, he releases the creature that has been contained in his body longest. He can release a consumed creature as a free action. A consumed creature attempts to escape after 24 hours. The spirit eater can attempt to keep a consumed creature in his body by attempting a Will save (DC = 10 + half the spirit eater's level + twice the number of the creatures he has contained in his body). If he succeeds, the consumed creatures remain, but they grant the spirit eater's channeled spirit 1 point of influence over him. A released creature is destroyed as if it were reduced to 0 hit points and can reconstitute again later, if able. This replaces location channel and connection channel.

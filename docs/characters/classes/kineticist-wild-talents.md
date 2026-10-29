@@ -262,6 +262,14 @@ You use your element's power to instantly move 30 feet in any direction (even st
 
 You create a kinetic blade and swing it in an arc around you, making a single attack against all foes within reach as if with kinetic blade. If the result is a critical threat, roll to confirm the critical hit against only the first target you hit. The blade vanishes instantly after the whirlwind.
 
+### Bolt
+
+**Element** air; **Type** form infusion; **Level** 3; **Burn** 2
+
+**Associated Blasts** electric blast, thunderstorm blast; **Saving Throw** Reflex half
+
+You unleash a bolt of lightning above an enemy within 30 feet and send it spiraling down with tremendous force. Each bolt is a 5-foot-wide, 30-foot-long, vertical bolt, dealing your full blast damage to creatures within the line. If all squares in the bolt's area are outdoors and in a storm, the blast deals an additional 1 point of damage per die. The saving throw is Dexterity-based.
+
 ### Bowling Infusion
 
 **Element** aether or earth; **Type** substance infusion; **Level** 2; **Burn** 2
@@ -880,6 +888,33 @@ Your kinetic blast burns so hot that it melts away your foe’s magical effects.
 
 Your kinetic blast can drain your foes’ vitality to replenish your own. If your blast hits (or the enemy fails its saving throw against a blast without an attack roll), you can activate the void healer utility wild talent on yourself by accepting its burn cost; you don’t need to take an action to do so. The void healer utility wild talent heals you when used in this way even if you are a living creature.
 
+### Venom Admixture
+
+**Element** universal; **Type** substance infusion; **Level** 2; **Burn** 2
+
+**Prerequisite** venom speaker
+**Associated Blasts** any simple or composite; **Saving Throw** see text
+
+You can infuse your kinetic blast with poison. To use this infusion, you must be holding a dose of poison or have at least one use of a feat or racial trait that produces poison (such as the Spit Venom feat or the toxic skin grippli alternate racial trait). One dose of poison or one use of your feat or racial trait is consumed if applicable, and creatures damaged by the infused blast are affected by the poison. Use the same type, save, save DC, frequency, effect, and cure as the consumed poison.
+
+### Venom Infusion
+
+**Element** universal; **Type** substance infusion; **Level** 4; **Burn** 3
+
+**Prerequisite** venom speaker
+**Associated Blasts** any simple or composite; **Saving Throw** Fortitude negates
+
+All of your blasts are mildly toxic. Creatures that take damage from your blast are sickened for 1 round.
+
+### Venom Infusion, Greater
+
+**Element** universal; **Type** substance infusion; **Level** 7; **Burn** 4
+
+**Prerequisites** venom speaker, venom infusion
+**Associated Blasts** any simple or composite; **Saving Throw** Fortitude negates
+
+This talent functions as the greater toxic infusion wild talent, except it affects any creature that takes any type of damage from the blast.
+
 ### Wall
 
 **Element** universal; **Type** form infusion; **Level** 5; **Burn** 3
@@ -1018,6 +1053,22 @@ You transform yourself into gas, as per *gaseous form*. You can't use kinetic bl
 **Element** air; **Type** utility (Sp); **Level** 3; **Burn** 0
 
 You can galvanize the flow of electricity within your allies to enhance their speed. This acts as haste except it lasts for 1 round. You can accept 1 point of burn to increase the duration to 1 round per kineticist level you possess.
+
+### Clockwork Heart
+
+**Element** earth; **Type** utility (Su); **Level** 3; **Burn** —
+
+**Prerequisite** metal blast
+
+You have used your power over metal to add clockwork components to your own body. So long as these clockwork components are kept wound (per the winding ability of the clockwork subtype), you gain the benefits of both the Improved Initiative and Lightning Reflexes feats.
+
+### Clockwork Puppet
+
+**Element** earth; **Type** utility (Su); **Level** 5; **Burn** 0
+
+**Prerequisite** metal blast
+
+You can weave metal into clockwork parts, creating clockwork constructs to attack your foes. This functions as the aether puppet wild talent, except the object animated gains the clockwork subtype and cannot have the stone Construction Point ability.
 
 ### Cold Adaptation
 
@@ -1195,11 +1246,25 @@ You can sculpt ice and snow into new shapes, as the spell stone shape but affect
 
 You painfully push forth jagged chunks of rock from your flesh. Until the next time your burn is removed, while your flesh of stone is active, any creature that strikes you with an unarmed strike or natural weapon or that grapples you takes 1d6 points of piercing damage. Weapons that strike you also take this damage, though the damage is unlikely to penetrate the weapon’s hardness.
 
+### Kinetic Awe
+
+**Element** universal; **Type** utility (Su); **Level** 1; **Burn** 0
+
+You create a terrifying display of elemental power. This ability functions as Dazzling Display, except you can use this ability as a standard action and you add half your kineticist level as a bonus on your Intimidate check if you've used gather power during the same round; doing so expends the gathered power. This ability otherwise counts as the Dazzling Display feat; feats and other effects which affect Dazzling Display (such as Shatter Defenses) apply to it, and it counts as Dazzling Display for the purpose of meeting combat feat prerequisites.
+
 ### Kinetic Cover
 
 **Element** aether, earth, or water; **Type** utility (Sp); **Level** 1; **Burn** 0
 
 You call up elemental matter to defend yourself and your allies from attacks. As a standard action, you can select one face of a square within 30 feet of you and move elemental matter to block that face, providing total cover from that direction. The face you select must be supported by the ground, and the kinetic cover cannot support more than 5 pounds of weight. Water, ice, and telekinetic force are translucent, but earth, metal, mud, and the like are opaque and block line of sight. A creature who strikes the cover can easily destroy it. Regardless of its composition, the cover has hardness 0, AC 5, and 2 hit points per kineticist level you possess. You can have a number of kinetic covers in existence equal to your Constitution modifier + 1/2 your kineticist level.
+
+### Kinetic Dissolution
+
+**Element** universal; **Type** utility (Su); **Level** 1; **Burn** 0
+
+**Prerequisites** wayang, chosen racial trait
+
+Choose either the dissolution's child alternate racial trait or the light and darkness racial trait. You can use the chosen racial trait by accepting 1 point of burn, even if you have no daily uses of that racial trait remaining.
 
 ### Kinetic Form
 
@@ -1258,6 +1323,30 @@ You can push and pull metal objects using magnetism. This functions as telekinet
 **Saving Throw** none; **Spell Resistance** no
 
 You can repel or attract metal objects in a vast line with a magnetism so strong that there is no hope of escaping. This functions as *repel metal or stone*, except only for metal objects, and you can also pull the objects toward you instead of pushing them away. The effect lasts for 1 round, and the pulling version of the effect can’t pull objects into the air unless they are already airborne. You can accept 1 point of burn to increase the duration to 1 round per kineticist level you have.
+
+### Mesmerizing Elementalist
+
+**Element** universal; **Type** utility (Su); **Level** 1; **Burn** 0
+
+**Prerequisite** nagaji
+
+You gain the hypnotic gaze nagaji alternate racial trait. If you already have this trait, add +1 to the trait's save DC instead. You can use the hypnotic gaze racial trait by accepting 1 point of burn, even if you have no daily uses of that racial trait remaining.
+
+### Nine-Tailed Kineticist
+
+**Element** universal; **Type** utility (Su); **Level** 1; **Burn** 0
+
+**Prerequisite** kitsune
+
+You can cast a spell-like ability granted to you by any Magical Tail feat you have by accepting 1 point of burn, even if you have no daily uses of that spell-like ability remaining. You must be able to use wild talents of a level equal to the number of extra tails required to use a spell-like ability granted by a Magical Tail feat to use this ability to cast that spell-like ability (for example, you would need to be 15th level and able to use 8th-level wild talents to use this talent to cast the *dominate person* spell-like ability granted by Magical Tail). In addition, you can learn a Magical Tail feat that you qualify for in place of gaining a new infusion or utility wild talent.
+
+### Past Life Evoker
+
+**Element** universal; **Type** utility (Su); **Level** 2; **Burn** 0
+
+**Prerequisite** samsaran
+
+Once per day, you can accept 1 point of burn to choose one simple blast wild talent belonging to any element. You gain the chosen simple blast wild talent for 1 minute, using your kineticist level – 2 to determine the blast talent's damage. The simple blast wild talent you gain in this way does not allow you to meet any prerequisites.
 
 ### Pillar
 
@@ -1347,6 +1436,14 @@ Your shroud bends light, creating a shimmering mirage. While your shroud of wate
 
 kineticist By delving into study of the Ethereal and Elemental Planes, you are able to use your primary element to assist with your skills in an unusual way. Add Knowledge (planes) to your list of class skills. Choose one of your kineticist class skills that wasn’t granted by your primary element to also receive the bonus from skilled kineticist.
 
+### Sky Walk
+
+**Element** air; **Type** utility (Sp); **Level** 7; **Burn** 1
+
+**Prerequisites** air cushion or air's leap, wings of air
+
+By accepting 1 point of burn, you can enable your allies to fly, as *mass fly*, except the duration of the effect is 10 minutes.
+
 ### Slick
 
 **Element** water; **Type** utility (Sp); **Level** 1; **Burn** 0
@@ -1362,6 +1459,14 @@ As a standard action, you call forth slippery water or ice, creating any of the 
 **Saving Throw** Fortitude negates; see text; **Spell Resistance** no
 
 You transform a source of open flame within 120 feet into a cloud of choking smoke, filling a 20-foot-radius spread and affecting vision like a smokestick. All creatures that begin their turns inside the area become sickened as long as they remain in the smoke and for 1d4+1 rounds thereafter (Fortitude negates).
+
+### Spark of Innovation
+
+**Element** earth; **Type** utility (Sp); **Level** 5; **Burn** 0
+
+**Prerequisite** metal blast
+
+You shape metal into a clockwork creature, as spark of life except you summon a clockwork earth elemental. The elemental's type is changed to construct (clockwork) and it gains construct traits and clockwork traits instead of elemental traits. The creature loses any spell-like abilities or supernatural abilities it normally has. If you have the greater elemental whispers utility wild talent, you can take a clockwork familiar as an improved familiar with that ability instead of an earth elemental.
 
 ### Spark of Life
 
@@ -1431,6 +1536,14 @@ You weave strands of aether, bending light and dampening sound; this works as in
 
 You can perform combat maneuvers as telekinesis, but you use your Constitution modifier to determine your Combat Maneuver Bonus rather than your Intelligence or Charisma modifier. If you possess the telekinetic finesse wild talent, add dirty trick and steal combat maneuvers to the list of combat maneuvers you can perform; when performing these maneuvers, determine your Combat Maneuver Bonus using your Dexterity modifier instead of your Constitution modifier.
 
+### Tengu Blade Lore
+
+**Element** universal; **Type** utility (Su); **Level** 1; **Burn** 0
+
+**Prerequisites** kinetic blade, tengu
+
+Whenever you use kinetic blade or an infusion that lists kinetic blade as a prerequisite, the weapon you create counts as having one of the following weapon special features of your choice: blocking, brace, deadly, disarm, distracting, sunder, or trip.
+
 ### Tidal Wave
 
 **Element** water; **Type** utility (Sp); **Level** 9; **Burn** 1
@@ -1486,6 +1599,12 @@ This functions as elemental grip, except it works on a single undead creature as
 **Element** water; **Type** utility (Su); **Level** 2; **Burn** 0
 
 You create a misty veil over your features, disguising yourself as disguise self for a number of minutes equal to your Constitution modifier. If you accept 1 point of burn, until the next time your burn is removed, each use of this wild talent lasts until you dismiss it.
+
+### Venom Speaker
+
+**Element** universal; **Type** utility (Su); **Level** 1; **Burn** 0
+
+You gain the investigator's poison lore class feature, using your kineticist level as your investigator level, and can use your gather power ability even while holding a dose of poison in one of your hands or appendages as long as you could otherwise use that ability. If you are at least 6th level, you can learn the alchemist's swift poisoning class feature or one of the following alchemist discoveries in place of a utility wild talent, using your kineticist level as your alchemist level: concentrate poison, poison conversion, or sticky poison.
 
 ### Voice of the Wind
 

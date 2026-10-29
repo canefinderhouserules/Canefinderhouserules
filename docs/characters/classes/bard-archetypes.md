@@ -2011,3 +2011,15 @@ A buccaneer is a pirate who specializes in raiding ships and port towns, but who
 *Defuse Tension (Su)*: At 3rd level, a court fool can use a silly performance to comfort a beleaguered ally. That ally must be within 30 feet and be able to see the court fool. The ally ignores the fatigued and shaken conditions (but not more extreme conditions, such as exhausted or frightened) as long as she continues to see the court fool's performance. This performance affects one additional creature at 7th level and every 4 bard levels thereafter. A court fool can't use defuse tension on himself. Defuse tension relies on visual components. This performance replaces inspire competence.
 
 **Caper and Jeer (Ex)**: At 5th level, a court fool can take 10 on Acrobatics and Bluff checks, even when in danger or distracted, and can use Bluff to create a diversion to hide (as per the Stealth skill) as a swift action. He can take 20 on an Acrobatics or Bluff check once per day, plus one time per 6 levels beyond 5th, even when in danger or distracted. This ability replaces lore master.
+
+## Occult Speaker
+
+*Bard archetype.* Working from the shadows of high society, some secret orders are built around the quest for immortality, with membership open only to the elite. An occult speaker influences others using his occult knowledge rather than the boisterous enthusiasm of most bards.
+
+**Angelic Grace (Ex)**: Members of such an order carry themselves with the austerity and import their heavenly aspirations demand. An occult speaker does not have Acrobatics or Escape Artist as class skills, but he gains Celestial as a bonus language. This does not count toward the number of languages he is otherwise able to learn. This alters the bard's class skills.
+
+**Spells**: An occult speaker draws his powers from the mysterious rites of his order. He casts psychic spells from the mesmerist list instead of arcane spells from the bard spell list. He otherwise casts spells, learns spells, and determines his spell allotment and spell DCs as a bard. This alters spells.
+
+**Corpse Speaker (Su)**: An occult speaker can make it appear as if a corpse is speaking, similar to ventriloquism. A creature must succeed at a Will saving throw (DC = 10 + half the bard's level + the bard's Charisma modifier) to see through the ruse. A creature that fails the saving throw is convinced that the corpse is speaking of its own volition. This replaces countersong.
+
+**Keen Ritualist (Ex)**: At 10th level, an occult speaker reduces the number of secondary casters required to cast a ritual by 2. At 16th level, the DCs of skill checks the occult speaker attempts during a ritual are reduced by 2. At 19th level, an occult speaker can perform any ritual by himself without needing to satisfy any secondary caster requirements. The DCs of skill checks he attempts during a ritual are reduced by an additional 2, for a maximum DC reduction of 4. This replaces jack-of-all-trades.

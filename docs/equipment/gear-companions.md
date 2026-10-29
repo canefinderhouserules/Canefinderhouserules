@@ -2662,3 +2662,35 @@ Meels are heavily weighted clubs used to train one's strength. They range in siz
 **Price** 40 gp; **Weight** 30 lbs.
 
 At its simplest, a quintain is a swiveling pole with a pair of arms, although permanent quintains are more elaborate and often look like armored mannequins. One arm holds a wooden board shaped like a shield. The other arm has a padded flail attached. In a routine originally used to train knights, a user rides past a quintain and tries to hit the board with a weapon, and then get out of the way before the quintain swings around to strike him with its flail in retaliation. Training with a quintain requires 1 hour of practice and a DC 15 Ride check. If you succeed at the check, you gain a +2 circumstance bonus on Ride checks to stay in the saddle, guide with your knees, and control a combat-trained mount. This bonus lasts for 24 hours or until you fail a Ride check.
+
+## Firearm Ammunition
+
+### Air Reservoir
+
+**Price** 6 gp
+
+A spare reservoir of compressed air comes with 6 pieces of ammunition to be used with an air repeater.
+
+### Alchemical Cartridge, Antimagic Dust
+
+**Price** 50 gp
+
+Packed with mysterious magic-suppressing dust, these rounds burst on impact and inhibit spellcasting. When an antimagic dust cartridge strikes a target, it deals only half damage, but the creature struck takes a –10 penalty on concentration checks to cast spells for 1d4 rounds and cannot cast defensively.
+
+### Alchemical Cartridge, Antimagic Dust Shot
+
+**Price** 50 gp
+
+This version of the antimagic dust cartridge can be loaded only into a weapon with the scatter quality. It functions similarly to an antimagic dust cartridge, except upon impact it bursts into a 20-foot-radius cloud. Creatures within the cloud take a –5 penalty on concentration checks to cast spells. This cloud dissipates in 1d6 rounds in still air. Light wind disperses the cloud in 1 round.
+
+### Alchemical Cartridge, Smoke
+
+**Price** —
+
+This cartridge can be loaded only into a weapon with the scatter quality. Upon striking a target, it deals no damage, but instead bursts into a cloud of smoke in a 20-foot radius. This smoke impairs sight beyond 5 feet; any creature farther away gains concealment (20% miss chance). The cloud disperses after 1d4 rounds, or in 1 round in light wind.
+
+### Bullet, Screaming
+
+**Price** 20 gp
+
+This ammunition makes a piercing scream when fired. If fired as part of an Intimidate check, it imparts a +5 bonus on the check. If used with the startling shot deed, the target is flat-footed for an additional round.

@@ -152,6 +152,12 @@ This ability cannot be used on a given spell effect more than once.
 
 This ability has no effect on spells that are instantaneous or have a duration of permanent.
 
+**Invoke Primal Magic (Su)**: When an event within 30 feet of the arcanist would trigger a chance for a primal magic effect, the arcanist can spend 1 point from her arcane reservoir as an immediate action to increase the chance to 100%.
+
+**Redirect Primal Magic (Su)**: If the arcanist triggers a primal magic event, she can spend 1 point from her arcane reservoir as an immediate action to redirect the event. The event occurs at a location of the arcanist's choosing within a 20-foot radius. This radius expands by 5 feet for every 2 arcanist levels she has.
+
+**Resist Primal Magic (Su)**: When attempting to cast spells in an area infused by primal magic, the arcanist can spend 1 point from her arcane reservoir as part of the casting to gain a bonus equal to half her arcanist level on Spellcraft checks to avoid triggering a primal magic effect.
+
 **Swift Consume (Ex)**: The arcanist can use the consume spells class feature or the consume magic items exploit as swift actions instead of as move actions.
 
 **Cantrips**: Arcanists can prepare a number of cantrips, or 0-level spells, each day as noted on the Spells Prepared table. These spells are cast like any other spell, but they do not consume spell , d_ slots. As with her other spells, these spells are not  I expended when cast.
@@ -164,7 +170,13 @@ This ability has no effect on spells that are instantaneous or have a duration o
 
 **Burning Flame (Su)**: Whenever the arcanist uses the flame arc exploit, she can expend 2 points from her arcane reservoir instead of one. If she does, each target catches on fire if it fails its saving throw. Until the fire is extinguished, the target takes 3d6 points of fire damage at the start of each of its turns. The target can attempt a Reflex saving throw as a full-round action to extinguish the flames. Applying at least 1 gallon of water to the target automatically extinguishes the flames. The arcanist must have the flame arc exploit to select this exploit.
 
+**Consume Primal Magic (Su)**: When the arcanist encounters a primal magic event, as an immediate action she can attempt to consume its power, as the consume spells class feature. The arcanist must succeed at a Fortitude save equal to 10 + the CR of the primal magic event, or she fails to consume the event and is staggered for 1d4 rounds. The arcanist must have the swift consume exploit to select this exploit.
+
 **Counter Drain (Su)**: Whenever the arcanist successfully counters a spell, she regains a number of points to her arcane reservoir, which is determined by the level of the spell countered. Spells of 2nd level or lower do not restore any points to her arcane reservoir. Spells of 3rd and higher restore 1 point to her arcane reservoir for every three spell levels (rounded down), to a maximum of 3 points at 9th level. The arcanist must have the counterspell exploit to select this exploit.
+
+**Counterspell Primal Magic (Su)**: The arcanist can attempt to counter a primal magic event as if counterspelling a magical effect. This requires a Spellcraft check with a DC of 10 + the CR of the primal magic event. If she succeeds, the event is dispelled per *dispel magic*. The arcanist must have the counterspell exploit to select this exploit.
+
+**Create Primal Event (Su)**: The arcanist can twist the magic of an area, forcing primal magic events to occur there. As a standard action, she can spend 2 points from her arcane reservoir to create a 10-foot-by-10-foot area of primal magic at a point within 30 feet. The arcanist can increase the size of the area to 20-foot-by-20-foot by spending 2 additional points from her arcane reservoir. The primal magic effect remains for 1 minute.
 
 **Dancing Electricity (Su)**: Whenever the arcanist uses the lightning lance exploit, she can expend 2 points from her arcane reservoir instead of one. If she does, all creatures adjacent to the target take an amount of damage equal to half the amount of electricity damage rolled. Adjacent creatures can attempt a Reflex saving throw to halve this damage. Whether or not the target makes its saving throw has no effect on adjacent targets. The arcanist must have the lightning lance exploit to select this exploit.
 

@@ -6073,3 +6073,15 @@ Secure sheaths take a hundred different forms, from simple loops to richly engra
 Powerful oni grant these +3 tetsubos to loyal human servants, who use them to enforce the oni's will. The wielder of a wandering punishment can, as a standard action, assume the appearance of an oni of her size as though under the effects of alter self. This transformation does not affect her ability scores and lasts as long as the weapon is held in one or both hands. Once per day, the wielder can also grow in stature as per enlarge person, taking on the form of a larger oni in the process. This growth lasts 10 minutes or until the wielder drops the wandering punishment. Once per day while enlarged, the wielder can deliver an awesome blow. As a standard action, the wielder can attempt a free bull rush combat maneuver check as part of a standard attack with a wandering punishment. She can't move with her target if this combat maneuver succeeds.
 
 **Construction Requirements:** Craft Magic Arms and Armor, giant form I; **Cost** 15,160 gp
+
+## Firearm Ammunition
+
+### Dispelling Bullet
+
+**Slot** none; **CL** 5th; **Price** 250 gp; **Weight** —
+
+**Aura** mild abjuration
+
+This +1 firearm bullet deals no damage but instead dispels one magical effect on the target, as *dispel magic* cast by a 5th-level wizard. If the target has multiple magical effects active, the lowest-level effect is targeted.
+
+**Construction Requirements:** Craft Magic Arms and Armor, *dispel magic*; **Cost** 125 gp

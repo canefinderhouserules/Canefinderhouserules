@@ -88,7 +88,11 @@ Firearms are further divided into one-handed, twohanded, and siege firearms. As
 
 Early Firearms Early firearms are typically matchlock, wheellock, or flintlock weapons, and require more finesse and care to use than advanced firearms. Early firearms are muzzle-loaded, requiring a bullet and powder (or other special alchemical substances) to be shoved down the barrel before the weapon is fired. Early firearm ammunition can be loaded from a cartridge, but that cartridge is made of soft material (like paper or cloth) that is torn open so that the contents may be shoved down the barrel.
 
+**Air Repeater**: This long-barreled firearm is powered by a removable compressed air reservoir. A misfire while an air repeater has the broken condition does not cause the firearm to explode, but it does destroy the air reservoir. An air repeater can fire 6 shots before the air reservoir is depleted. An air repeater comes with three air reservoirs. Replacing the air reservoir requires 1 minute. The Rapid Reload feat reduces this to a full-round action.
+
 **Blunderbuss**: This weapon fires pellets or a bullet from its trumpet-shaped barrel, making it an effective fowling weapon or close-fighting personal defense weapon. The blunderbuss fires in a 15-foot cone when firing pellets, and has a 10-foot range increment when firing a bullet. A blunderbuss uses a bullet or pellets and a single dose of black powder or a single alchemical cartridge as ammunition.
+
+**Breech-Loader**: This double-barreled pistol variant has its barrel attached to its stock by a hinge, enabling ammunition to be loaded quickly and easily. Reloading a breech-loader is a standard action that reloads both barrels; the Rapid Reload feat reduces this to a move action.
 
 **Buckler Gun**: The front of this buckler is fitted with a small, double-barreled gun that can be shot while wearing the buckler. Unlike with a double-barreled pistol, you can only shoot one barrel at a time. You must remove the buckler to reload the gun. Each barrel of a buckler gun uses a bullet and 1 dose of black powder or single alchemical cartridge as ammunition. Because of its awkward construction, a buckler gun is always considered an off-handed weapon.
 

@@ -261,3 +261,5 @@ The following text is the property of Wizards of the Coast, Inc. and is Copyrigh
     Pathfinder Player Companion: Martial Arts Handbook © 2018, Paizo Inc.; Authors: Thurston Hillman, Mikko Kallio, Jacob W. Michaels, Matt Morris, Daniel Reed, Mikhail Rekun, Mark Seifter, and Jeffrey Swank.
 
     Pathfinder Player Companion: Chronicle of Legends © 2019, Paizo Inc.; Authors: Calder CaDavid, Vanessa Hoskins, Mike Kimmel, Isabelle Lee, Matt Morris, Mikhail Rekun, and Michael Sayre.
+
+    Pathfinder Player Companion: Heroes of Golarion © 2019, Paizo Inc.; Authors: Saif Ansari, Alexander Augunas, Mara Lynn Butler, Michelle Jones, Avi Kool, and Alex Riggs.

@@ -359,3 +359,53 @@ Scourges are students of pain and have a rare connection to tormented and wracke
 **Inflict Pain (Sp)**: At 7th level, a scourge can use [inflict pain](../../magic/spells/inflict-pain.md) as a spell-like ability once per day, plus one additional use per day for every 4 spiritualist levels beyond 7th. If her phantom is fully manifested, it can also use this ability, though doing so takes the phantom a full-round action, and it still counts against the scourge's daily uses of this ability. This ability replaces calm spirit.
 
 **Ectoplasmic Swarm (Su)**: At 12th level, as a standard action, a scourge with a phantom manifested in ectoplasmic form can command it to break apart in a gruesome display of gore and agony, transforming it into a swarm of Diminutive ectoplasmic organs and viscera. The phantom gains the swarm subtype, dealing its unmodified slam damage die as damage for its swarm attack. Its distraction DC is equal to 10 + 1/2 the phantom's Hit Dice + its Constitution modifier. In this form, the phantom is too diffuse to use inflict pain or any of its abilities from emotional focus (even passive abilities). This ability replaces greater spiritual interference.
+
+## Plague Eater
+
+*Spiritualist archetype.* Many lands have been ravaged by plague for centuries, and many of their dead do not rest. These ghosts often flock around specialized spiritualists called plague eaters. Such a spiritualist bears the weight of many souls within her consciousness, spirits that remember the devastation of disease and seek to protect their host from infections, cleanse others of plague, and use disease itself as a weapon.
+
+**Plague Ward**: A plague eater does not bond with a single spirit, but rather a group of spirits gathered around her psychic presence. The spiritualist can meditate on an emotional focus during her 8-hour rest and bond with a spirit from her community with a matching focus. A spirit associated with the chosen emotion links with the spiritualist and acts as her phantom until the plague eater changes her emotional focus with another 8-hour rest. The changing roster of spirits dilutes the bond between the plague eater and her community, and the manifesting phantom has a level 1 lower than the spiritualist's level (minimum level 1). While a phantom is confined in a plague eater's consciousness (but not while it's fully manifested or banished to the Ethereal Plane), it grants a +4 bonus on saving throws against disease. At 12th level, this bonus increases to +8. In addition, the phantom grants the plague eater the Skill Focus feat in one of the skills determined by the phantom's emotional focus. This skill is chosen by the plague eater the first time she confines the phantom tied to that particular emotional focus. Once this choice is made for a given emotional focus, it cannot be changed. This alters phantom and shared consciousness.
+
+**Spiritual Inoculation (Su)**: At 4th level, whenever a plague eater is within reach of her ectoplasmic manifested phantom, she gains a +4 circumstance bonus on saving throws against disease. This alters spiritual interference.
+
+**Remove Sickness (Sp)**: At 5th level, a plague eater's understanding of disease grows to the point where she can cast *remove sickness* at will as a spell-like ability with a caster level equal to her spiritualist level. This replaces detect undead.
+
+**Disfiguring Touch (Sp)**: At 7th level, a plague eater can inflict upon others the superficial disfigurement associated with plague by casting *disfiguring touch* as a spell-like ability once per day. At 11th level and every 4 levels thereafter, the spiritualist can use this ability an additional time per day (to a maximum of four times per day at 19th level). This replaces calm spirit.
+
+**Remove Disease (Sp)**: At 9th level, a plague eater gains the ability to purge disease from herself and others. She gains the ability to cast *remove disease* as a spell-like ability three times per day. This ability replaces see invisibility.
+
+**Fused Well-Being (Su)**: At 10th level, a plague eater always gains the benefits of bonded senses when her phantom is manifested. She also gains the skill ranks and bonus to resist disease granted by the spirit's emotional focus, even when her phantom is manifested. This replaces fused consciousness.
+
+**Greater Spiritual Inoculation (Su)**: At 12th level, the plague eater becomes immune to disease, including supernatural and magical diseases. In addition, whenever a manifested phantom is in ectoplasmic form, each of the plague eater's allies within the phantom's reach gains a +4 circumstance bonus on saving throws against disease. This ability alters greater spiritual interference.
+
+**Withdraw Affliction (Sp)**: At 16th level, a plague eater can reach into a body, remove an affliction directly from the flesh, and use the diseased matter as a weapon. She can cast *withdraw affliction* once per day as a spell-like ability with a caster level equal to her spiritualist level. This replaces call spirit.
+
+## Priest of the Fallen
+
+*Spiritualist archetype.* Countless hero-gods have risen and fallen through some lands' long histories, leaving behind mighty spirits. Those attuned to these fallen hero-gods can become conduits for their restless souls and agents acting out their divine will. The result is a priest of the fallen, a spiritualist who channels her land's legends and provides a vessel for mighty heroes to perform heroic acts once more.
+
+**Mythmaker (Su)**: A priest of the fallen can channel many different hero-god phantoms, though only one at a time. These spirits will not suffer being confined in a mortal's consciousness and must be manifested in ectoplasmic or incorporeal form or they return to the Ethereal Plane. They each have an emotional focus depending on their personality and retain some of their hero-god powers, determined by their mythic archetype. A priest of the fallen can channel a hero-god phantom with a ritual that takes 1 minute to perform. A priest of the fallen can channel only one hero-god phantom per 24 hours, but once channeled, a hero-god phantom remains until a new one is channeled.
+
+*Archmage*: The phantom gains *magic missile* and *sleep* as spell-like abilities. It can use each spell-like ability a number of times per day equal to its Hit Dice, which it uses in place of a caster level. At 12th level, it can also cast *fireball* and *hold person* each once per day.
+
+*Champion*: The phantom gains Weapon Focus (slam) as a bonus feat. At 12th level, it gains Greater Weapon Focus (slam) and Weapon Specialization (slam) as bonus feats.
+
+*Guardian*: The phantom gains a +2 natural armor bonus when it manifests in its ectoplasmic form, and a +2 deflection bonus to AC when it manifests in its incorporeal form. At 12th level, the phantom increases its maximum hit points by twice its number of Hit Dice.
+
+*Hierophant*: The phantom gains *bane* and *bless* as spell-like abilities. It can use each spell-like ability a number of times per day equal to its Hit Dice, which it uses in place of a caster level. At 12th level, it can also cast *prayer* and *searing light* each once per day.
+
+*Marshal*: The phantom can fill its allies with its triumphant spirit as a standard action, granting them a +1 morale bonus on saving throws against charm and fear effects and a +1 competence bonus on attack and weapon damage rolls for a number of rounds per day equal to 2 + its Charisma modifier. These rounds need not be consecutive. At 12th level, if the phantom is hit by an attack of opportunity, it can use an immediate action to allow an ally to make an attack of opportunity against the creature that attacked the phantom if it's within the ally's melee reach.
+
+*Trickster*: The phantom gains the sneak attack rogue class feature as a rogue of a level equal to the phantom's Hit Dice. It can use the sneak attack ability a number of times per day equal to its Dexterity modifier (minimum 1). At 12th level, whenever the phantom is in darkness or dim light, it can move at full speed without taking a penalty on Stealth checks.
+
+This alters phantom and replaces shared consciousness.
+
+**Channel Energy (Su)**: At 3rd level, a priest of the fallen can channel her phantom's divine energy. This functions as the cleric's channel energy class feature, except that the amount of damage dealt or hit points restored is equal to 1d6 points plus an additional 1d6 points for every 2 spiritualist levels beyond 3rd. The priest of the fallen decides to channel positive or negative energy based on her alignment. A neutral priest of the fallen can channel either positive or negative energy, but once this choice is made, it cannot be changed. She can use this ability a number of times per day equal to her Charisma modifier (minimum 1). This replaces bonded manifestation.
+
+**Phantom Call (Su)**: At 6th level, once per day, a priest of the fallen can summon a fully manifested hero-god phantom from the Ethereal Plane as a standard action. If she already has a hero-god phantom manifested, that phantom vanishes back to the Ethereal Plane. This replaces phantom recall.
+
+**Fused Consciousness (Su)**: At 10th level, this ability functions as usual, except the phantom retreats to the Ethereal Plane rather than the priest's consciousness. This alters fused consciousness.
+
+**Masterful Faith (Su)**: At 17th level, a priest of the fallen chooses any two cleric domains and receives their full benefits, treating her spiritualist level as her cleric level. She adds the domain spells to her spells known. This replaces dual bond.
+
+**True Legend (Su)**: At 20th level, a priest of the fallen is strong enough to confine a phantom in her consciousness as a standard action. On the start of her following turn, she gains access to all standard spiritualist abilities involving a confined phantom. She can confine her phantom for a number of rounds per day equal to 4 + her Wisdom modifier. This alters empowered consciousness.

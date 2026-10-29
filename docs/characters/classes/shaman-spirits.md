@@ -140,6 +140,40 @@ A shaman who selects the flame spirit has a radiant light behind her eyes and th
 
 **Manifestation**: Upon reaching 20th level, the shaman becomes a spirit of flame. The shaman gains fire resistance 30. She can also apply any one of the following feats to any fire spell she casts without increasing the spell's level or casting time: Enlarge Spell, Extend Spell, Silent Spell, or Still Spell. She doesn't need to possess these feats to use this ability.
 
+## Frost
+
+Far to the north, tribes have adapted to life in the bitter cold. The frost spirit is seen by some as a protector of their way of life, and shamans who commune with the spirit are shown great respect in their communities. A shaman who selects the frost spirit has coarse white hair and always feels cold to the touch.
+
+**Spirit Magic Spells**: *Frostbite* (1st), *elemental touch* (cold only, 2nd), *elemental aura* (cold only, 3rd), *ice storm* (4th), *summon monster V* (ice elementals only, 5th), *freezing sphere* (6th), *ice body* (7th), *polar ray* (8th), *mass icy prison* (9th).
+
+**Hexes**: A shaman who chooses the frost spirit can select from the following hexes.
+
+**Biting Frost (Su)**: The shaman turns the air frigid around a target within 30 feet for a number of rounds equal to the shaman's Charisma modifier (minimum 1). The target must attempt a Fortitude saving throw at the beginning of each turn or be damaged by exposure to the extreme cold. On a failed save, the target takes 1d6 points of nonlethal damage. On a successful save, the effect ends immediately. Whether or not the initial save is successful, the creature cannot be the target of this hex again for 24 hours.
+
+**Hypothermia (Su)**: The shaman afflicts a creature within 30 feet with hypothermia. The target must attempt a Fortitude saving throw. On a failed save, the target is fatigued for 2 rounds. At 8th and 16th levels, the duration of this hex is extended by 1 round. Whether or not the save is successful, the creature cannot be the target of this hex again for 24 hours.
+
+**Sluggish (Su)**: The shaman causes the speed of a creature within 30 feet to be halved. The target can attempt a Fortitude saving throw to negate this effect. The penalty lasts for a number of rounds equal to the shaman's character level and does not stack with other effects that reduce speed. Whether or not the save is successful, the creature can't be the target of this hex again for 24 hours.
+
+**Tundra Dweller (Su)**: The shaman touches a willing creature and grants it cold resistance 10 for a number of rounds equal to her Charisma modifier (minimum 1). This resistance does not stack with any other cold resistance, such as from special abilities or magical items. At 8th and 16th levels, the duration of this hex is extended by 1 round. A creature targeted by this hex cannot be affected by it again for 24 hours.
+
+**Wilds-Attuned (Ex)**: The shaman receives Animal Affinity as a bonus feat and gains a +4 insight bonus on Knowledge (nature) checks when in a cold climate.
+
+**Spirit Animal**: The shaman's spirit animal is covered in a light layer of glimmering frost, and its breath comes out as mist regardless of the temperature. The animal has resistance 5 to cold and electricity.
+
+**Spirit Ability**: A shaman who chooses the frost spirit as her spirit or wandering spirit gains the following ability.
+
+**Ice Splinter (Su)**: As a standard action, the shaman can shoot razor-sharp icicles at an enemy within 30 feet as a ranged touch attack. This barrage deals 1d6 points of piercing damage + 1 point for every 2 shaman levels she has. The shaman can use this ability a number of times per day equal to 3 + her Charisma modifier. At 11th level, any weapon she wields is treated as a frost weapon.
+
+**Greater Spirit Ability**: A shaman who chooses the frost spirit as her spirit or wandering spirit gains the following ability upon having access to the greater version of that spirit.
+
+**Frigid Blast (Su)**: The shaman gains cold resistance 10. In addition, as a standard action, she can summon an icy blast in a 20-foot-radius burst originating from a point she can see within 30 feet. This blast deals cold damage equal to 1d6 per shaman level she has to each creature caught in the burst. Each target can attempt a Reflex saving throw to halve this damage. The shaman can use this ability three times per day, but she must wait at least 1d4 rounds between each use.
+
+**True Spirit Ability**: A shaman who chooses the frost spirit as her spirit or wandering spirit gains the following ability upon having access to the true version of that spirit.
+
+**Guardian of the North (Su)**: As a standard action, the shaman assumes the form, as *beast shape IV*, of one of the following animals: dire bear, dire tiger, mastodon, or woolly rhinoceros. The duration of this transformation is 1 hour per level. The shaman can use this ability once per day.
+
+**Manifestation**: Upon reaching 20th level, the shaman becomes a being of ice and snow. The shaman gains immunity to cold. She can also apply any one of the following feats to any spell with the cold descriptor that she casts without increasing the spell's level or casting time: Enlarge Spell, Extend Spell, Silent Spell, or Still Spell. She doesn't need to have these feats to use this ability.
+
 ## Heavens
 
 A shaman who selects the heavens spirit has eyes that sparkle like starlight, exuding an aura of otherworldliness to those she is around. When she calls upon one of this spirit's abilities, her eyes turn pitch black and the colors around her drain for a brief moment.

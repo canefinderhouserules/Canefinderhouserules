@@ -310,6 +310,28 @@ The blood of doppelgangers, faceless stalkers, lycanthropes, or other shapechang
 
 **True Shapeshifter (Sp)**: At 20th level, you are immune to all transmutation spells and effects unless you are a willing target. You can also use *greater polymorph* at will as a spell-like ability with a caster level equal to your bloodrager level targeting only yourself. These effects function even while you're not bloodraging.
 
+## Sphinx
+
+Those who successfully traded riddles with sphinxes sometimes find themselves or their descendants exhibiting both arcane power and violent fury. These bloodragers find being outwitted or outmaneuvered especially infuriating; though they are usually scholarly and erudite, their fits of frenzied rage are all the more terrifying in comparison.
+
+**Bonus Feats**: Alertness, Combat Casting, Dazzling Display, Improved Critical, Iron Will, Rending Fury, Skill Focus (Intimidate), Voice of the Sibyl.
+
+**Bonus Spells**: *Divine favor* (7th), *touch of idiocy* (10th), *searing light* (13th), *bestow curse* (16th).
+
+**Bloodline Powers**: You gain the ruthless claws and implacable voice of the sphinx while bloodraging.
+
+**Claws (Su)**: At 1st level, you grow claws while bloodraging. These claws are treated as natural weapons, allowing you to make two claw attacks as a full attack, using your full base attack bonus. These attacks deal 1d6 points of damage each (1d4 if you are Small) plus your Strength modifier. At 4th level, these claws are considered magic weapons for the purpose of overcoming damage reduction. At 8th level, the damage increases to 1d8 points (1d6 if you are Small). At 12th level, the critical threat range for these claws increases to 19–20.
+
+**Roar (Su)**: At 4th level, the bloodrager learns the secrets of the sphinx's roar. He can roar as a standard action a number of times per day equal to 3 + his Charisma modifier. Enemies within 60 feet of the bloodrager that can hear the roar must succeed at a Will save (DC = 10 + half the bloodrager's character level + his Charisma modifier) or become frightened for 1d6 rounds. At 10th level, the bloodrager can instead cause the targets to be panicked or stunned (bloodrager's choice) and deafened for the duration; at 16th level, the bloodrager can instead cause the targets to be paralyzed for 1 round. Whether or not the save is successful, a creature cannot be the target of the bloodrager's roar again for 24 hours.
+
+**Desert Fortitude (Su)**: At 8th level, you gain resistance 5 to electricity and fire. In addition, you gain *endure elements* as a constant spell-like ability and a +2 competence bonus on saves against arcane spells. At 16th level, your resistance to electricity and fire increases to 10.
+
+**Rending Rage (Su)**: At 12th level, you gain a rend attack, as the universal monster rule, that deals extra damage equal to 2d4 + 1-1/2 times your Strength modifier. At 18th level, this damage increases to 2d6 + 1-1/2 times your Strength modifier.
+
+**Master of Mysteries (Su)**: At 16th level, you can cast either *maze* or *symbol of insanity* once per day as a spell-like ability, with a caster level equal to your character level. You also gain spell resistance equal to 11 + your level.
+
+**Final Riddle (Su)**: At 20th level, you gain immunity to fire and electricity and ignore environmental penalties due to temperature. Your competence bonus on saving throws against arcane spells increases to +6. You have these benefits constantly, even while not raging.
+
 ## Undead
 
 The foul corruption of undeath is a part of you. Somewhere in the past, death became infused with your lineage. Your connection to the attributes of the undead bestows frightening power when your bloodrage.
@@ -375,6 +397,28 @@ You are the descendant of great heroes from a lost civilization.
 **Legacy Conduit (Su)**: At 16th level, when using the legacy style bloodline power, you can expend a spell slot as a swift action to share the benefits of the selected style feat with all allies within 30 feet. The benefits last for 1 round per level of the spell slot expended. Allies must still enter the style's stance as a swift action.
 
 **Call to Arms (Su)**: At 20th level, you can summon a ghostly army from a fallen civilization once per day. This functions as *spiritual ally* with a caster level equal to your level, except that it summons a number of allies equal to your Constitution modifier, and the allies use your Strength modifier for attack rolls. You can direct all of these allies with a single swift action. Each ally can attack a different target or the same target, as you direct. The allies remain until the spell's duration ends or your bloodrage ends, whichever comes first.
+
+## Medusa
+
+No magical creature is more iconic in some legends than the medusa. Perhaps your lineage traces back to a medusa, or an ancestor survived a medusa's petrifying gaze and was forever changed by the experience. However the medusa's influence entered your bloodline, when you bloodrage, you gain fearsome and ancient powers.
+
+**Bonus Feats**: Alertness, Blind-Fight, Greater Fortitude, Improved Initiative, Improved Unarmed Strike, Intimidating Prowess, Toughness.
+
+**Bonus Spells**: *Cause fear* (7th), *resist energy* (10th), *hold person* (13th), *stoneskin* (16th).
+
+**Bloodline Powers**: The cold fury of your cursed rage can freeze others in their tracks.
+
+**Gaze (Su)**: At 1st level, you can harness the power of the medusa through your gaze. As a standard action, choose a creature within your line of sight who is within 30 feet of you. The creature must succeed at a Fortitude saving throw or have its speed halved for a number of rounds equal to your Constitution modifier (minimum 1 round). The DC of this save is equal to 10 + half your bloodrager level + your Constitution modifier.
+
+**Gift of the Ancients (Su)**: At 4th level, you gain a +2 resistance bonus on saving throws against gaze attacks and to resist poison. You also gain a +2 competence bonus on Perception checks. At 8th level, these bonuses increase by 2.
+
+**Staggering Gaze (Su)**: At 8th level, when a creature is affected by your gaze bloodline power, it is staggered in addition to being slowed.
+
+**Viper's Touch (Su)**: At 12th level, you grow two sets of venomous claws resembling the teeth of a serpent. These claws are primary natural attacks that deal 1d8 points of damage (1d6 if you are Small). The claws also gain the following poison ability: *Viper's Venom*: Claw—injury; save Fort DC 10 + half the bloodrager's level + the bloodrager's Constitution modifier; frequency 1/round for 4 rounds; effect 1d3 Str damage; cure 1 save.
+
+**Stone Resistance (Su)**: At 16th level, you gain acid resistance 10 and are immune to disease, poison, and the sickened and staggered conditions. You also cannot be flanked.
+
+**True Petrification (Su)**: At 20th level, you can use your gaze bloodline ability to permanently turn a creature to stone, as *flesh to stone*. You can still use the less powerful versions of your gaze if you do not wish to turn the target to stone, but you must declare this at the time of the attack.
 
 ## Naga
 
