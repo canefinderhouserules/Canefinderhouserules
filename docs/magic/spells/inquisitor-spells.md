@@ -263,6 +263,7 @@ New inquisitor spells from *Ultimate Magic*. Spells from other books will be add
 - **[Selective Alarm](selective-alarm.md)**: As *alarm*, but only against selected creatures.
 - **[Selective Invisibility](selective-invisibility.md)**: Invisible, except to one chosen creature you may attack.
 - **[Shield of Darkness](shield-of-darkness.md)**: magical darkness grants you total concealment
+- **[Shield of Wings](shield-of-wings.md)**: Gain five burning wings that grant flight and fire resistance.
 - **[Slave to Sin](slave-to-sin.md)**: Exploit a creature’s sin to sicken and stagger it.
 - **[Soul Vault](soul-vault.md)**: Protect a soul from being trapped
 - **[Spiral Ascent](spiral-ascent.md)**: Teleport upward as a helical beam

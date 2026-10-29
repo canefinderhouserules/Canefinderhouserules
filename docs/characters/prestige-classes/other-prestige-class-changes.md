@@ -33,7 +33,7 @@
 - Efreeti Blessing is gained at level 5.
 - Its pet is +3 instead of +2 (which saves you the feat entirely).
 
-## Ashavic Dancer
+## Moonlit Dancer
 
 - No longer requires Ghost Whisperer; it is granted at level 1. Requires Perform 3 and spell level 1.
 - Deathwaking Dance is 1d6 per 2 levels + Charisma, and the save halves the damage instead of negating it.

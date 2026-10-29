@@ -183,6 +183,8 @@ At 1st level, when a witch gains her familiar, she must also select a patron. Th
 
 - **Agility**: 2nd—jump, 4th—cat’s grace, 6th—haste, 8th—freedom of movement, 10th—polymorph, 12th—cat’s grace (mass), 14th—ethereal jaunt, 16th—animal shapes, 18th—shapechange.
 - **Animals**: 2nd—charm animals, 4th—speak with animals, 6th—dominate animal, 8th—summon nature’s ally IV, 10th—animal growth, 12th—antilife shell, 14th—beast shape IV, 16th—animal shapes, 18th—summon nature’s ally IX.
+- **Aurora**: 2nd—color spray, 4th—hypnotic pattern, 6th—wall of nausea, 8th—rainbow pattern, 10th—blazing rainbow, 12th—programmed image, 14th—prismatic spray, 16th—prismatic wall, 18th—polar midnight.
+
 - **Deception**: 2nd—ventriloquism, 4th—invisibility, 6th—blink, 8th—confusion, 10th—passwall, 12th—programmed image, 14th—invisibility (mass), 16th—scintillating pattern, 18th—time stop.
 - **Elements**: 2nd—shocking grasp, 4th—flaming sphere, 6th—fireball, 8th—wall of ice, 10th—flame strike, 12th—freezing sphere, 14th—vortex\*, 16th—fire storm, 18th—meteor swarm.
 - **Endurance**: 2nd—endure elements, 4th—bear’s endurance, 6th—protection from energy, 8th—spell immunity, 10th—spell resistance, 12th—bear’s endurance (mass), 14th—restoration (greater), 16th—iron body, 18th—miracle.

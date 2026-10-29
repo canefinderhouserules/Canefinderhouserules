@@ -411,6 +411,7 @@
 - **[Shared Training](shared-training.md)**: grant a teamwork feat to allies
 - **[Sharesister](sharesister.md)**: Take a negative level to boost an ally’s casting.
 - **[Shield of Darkness](shield-of-darkness.md)**: magical darkness grants you total concealment
+- **[Shield of Wings](shield-of-wings.md)**: Gain five burning wings that grant flight and fire resistance.
 - **[Skeleton Crew](skeleton-crew.md)**: Animates corpses as skeleton sailors.
 - **[Sky Swim](sky-swim.md)**: Swim through the air.
 - **[Slave to Sin](slave-to-sin.md)**: Exploit a creature’s sin to sicken and stagger it.

@@ -1526,6 +1526,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Arcane Jinxer](arcane-jinxer.md) | General | Arcane spellcaster, Halfling Jinx racial trait |
 | [Arcane School Spirit](arcane-school-spirit.md) | General | Bluff 1 rank, arcane school class feature, gnome |
 | [Arcane Trap Suppressor](arcane-trap-suppressor.md) | — | Ability to cast dispel magic |
+| [Archer's Blessing](archers-blessing.md) | Combat | Weapon Focus (longbow), must worship a deity of family, farming, hunting, or trade |
 | [Archon Diversion](archon-diversion.md) | Combat | [Archon Style](archon-style.md), Combat Expertise, Combat Reflexes, base attack bonus +4 or monk level 3rd |
 | [Archon Justice](archon-justice.md) | Combat | [Archon Diversion](archon-diversion.md), [Archon Style](archon-style.md), Combat Expertise, Combat Reflexes, base attack bonus +8 or monk level 7th |
 | [Archon Style](archon-style.md) | Combat, Style | Combat Expertise, Combat Reflexes, base attack bonus +2 or monk level 1st |
@@ -1595,6 +1596,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Black Market Dealings](black-market-dealings.md) | General | — |
 | [Black Market Sleuth](black-market-sleuth.md) | General | Diplomacy 1 rank, Knowledge (local) 1 rank |
 | [Black Powder Spectacle](black-powder-spectacle.md) | Combat, Grit, Performance | Amateur Gunslinger or the grit class feature, base attack bonus +4 |
+| [Bladed Brush](bladed-brush.md) | Combat | Weapon Focus (glaive), must worship a deity of art, beauty, or love |
 | [Blades Above and Below](blades-above-and-below.md) | Combat, Teamwork | Base attack bonus +6 |
 | [Blazing Channel](blazing-channel.md) | — | Turn Undead, channel positive energy class feature |
 | [Bless Equipment](bless-equipment.md) | General | Caster level 3rd, channel energy class feature |
@@ -1789,6 +1791,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Cypher Script](cypher-script.md) | — | Knowledge (arcana) 1 rank, Linguistics 1 rank, Spellcraft 1 rank, spellbook class feature |
 | [Dampen Presence](dampen-presence.md) | — | Skill Focus (Stealth), Stealth 5 ranks |
 | [Dangerous Tail](dangerous-tail.md) | Combat | Base attack bonus +5, lizardfolk |
+| [Daring Exploit](daring-exploit.md) | — | Dare, deeds, or inspiration class ability |
 | [Daring Retrieval](daring-retrieval.md) | Combat, Teamwork | Int 13, Combat Expertise, Improved Disarm |
 | [Darkness Trick](darkness-trick.md) | — | Use Magic Device 5 ranks, ability to cast *darkness* |
 | [Darting Viper](darting-viper.md) | Combat | Base attack bonus +4, proficiency with the dwarven dorn-dergar |
@@ -1980,6 +1983,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Fast Change](fast-change.md) | — | Dex 13, base attack bonus +6, skinwalker |
 | [Fateful Channel](fateful-channel.md) | — | Channel positive energy 3d6, worshiper of a deity of death and fate |
 | [Favored Community](favored-community.md) | — | Knowledge (local) 2 ranks, must have lived in the settlement for at least 1 year |
+| [Favored Prestige Class](favored-prestige-class.md) | — | — |
 | [Fearsome Finish](fearsome-finish.md) | Combat | Intimidating Prowess, worshiper of a deity of monsters and madness |
 | [Feign Curse](feign-curse.md) | — | Deceitful, Bluff 5 ranks, Spellcraft 1 rank |
 | [Feint Defender](feint-defender.md) | Shield Mastery | Shield Focus, base attack bonus +6 or fighter level 4th, Sense Motive 1 rank |
@@ -2004,6 +2008,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Firearm Familiarity](firearm-familiarity.md) | Combat | Base attack bonus +3, proficiency with at least one firearm |
 | [Firebrand](firebrand.md) | Combat | Worshiper of a deity of tyranny and contracts |
 | [Flagellant](flagellant.md) | — | Endurance, character level 7th, worshiper of a deity of pain |
+| [Flame Blade Dervish](flame-blade-dervish.md) | Combat | Ability to cast *flame blade* as a spell or spell-like ability |
 | [Flame Feint](flame-feint.md) | Combat, Style | Int 13, Wis 13, Combat Expertise, Elemental Discipline Style (flame), base attack bonus +9 or monk level 9th |
 | [Flame Fist](flame-fist.md) | Combat, Style | Int 13, Wis 13, Combat Expertise, Elemental Discipline Style (flame), Stunning Fist, Flame Feint, base attack bonus +13 or monk level 13th |
 | [Flaying Critical](flaying-critical.md) | Combat, Critical | Critical Focus, base attack bonus +11 |
@@ -2052,6 +2057,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Fury of the Tainted](fury-of-the-tainted.md) | Combat | Cha 13, rage class feature, tiefling |
 | [Gather Might](gather-might.md) | — | Gather power class feature, kineticist level 8th |
 | [Gaze Reflection](gaze-reflection.md) | — | Spellcraft  10 stare and ranks, bold mesmerist tricks class features |
+| [Ghost Whisperer](ghost-whisperer.md) | — | Ability to cast 3rd-level spells |
 | [Ghostbane Ichor](ghostbane-ichor.md) | — | Knowledge (religion) 9 ranks, vishkanya |
 | [Ghostslayer](ghostslayer.md) | Combat | Base attack bonus +1, Knowledge (religion) 1 rank |
 | [Giant Vendetta](giant-vendetta.md) | Story | You must have been knocked unconscious in an encounter with a challenging giant foe or have a background tied to giants |
@@ -2093,6 +2099,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Guarded Charge](guarded-charge.md) | Shield Mastery | Shield Focus, base attack bonus +6 or fighter level 4th |
 | [Guardian of Tradition](guardian-of-tradition.md) | — | Domain class feature, girtablilu |
 | [Guardian’s Return](guardians-return.md) | Familiar | Must have a familiar with the protector archetype |
+| [Guided Star](guided-star.md) | Combat | Starry Grace, worshipper of a deity of dreams, luck, stars, or travelers |
 | [Guild Emissary](guild-emissary.md) | — | Leadership or Underworld Connections |
 | [Gun Twirling](gun-twirling.md) | Grit | Amateur Gunslinger feat or grit class feature, Dazzling Display, Weapon Focus |
 | [Halfling Slinger](halfling-slinger.md) | Combat | Halfling |
@@ -2465,6 +2472,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Practiced Ritualist](practiced-ritualist.md) | — | Knowledge (arcana, history, planes, and religion) 1 rank |
 | [Precocious Youth](precocious-youth.md) | — | Young age category |
 | [Press to the Wall](press-to-the-wall.md) | Combat | Step Up, base attack bonus +3 |
+| [Prestigious Spellcaster](prestigious-spellcaster.md) | — | Favored Prestige Class with selected prestige class |
 | [Primal Bloom](primal-bloom.md) | Conduit | Knowledge (planes) 10 ranks |
 | [Primal Bluff](primal-bluff.md) | General | Bluff 1 rank, wild shape class feature, gnome |
 | [Primal Kineticist](primal-kineticist.md) | General | Kineticist level 1st |
@@ -2648,6 +2656,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Smashing Dent](smashing-dent.md) | Combat | Str 13, Improved Sunder, Smashing Crush, Smashing Style, Weapon Focus with the chosen weapon, base attack bonus +6 |
 | [Smashing Impact](smashing-impact.md) | Combat | Str 15, Crushing Impact*, Improved Bull Rush, Improved Unarmed Strike, Power Attack |
 | [Smashing Style](smashing-style.md) | Combat, Style | Str 13, Improved Sunder, Power Attack, Weapon Focus with the chosen weapon |
+| [Smite Evil Magic](smite-evil-magic.md) | — | Smite evil class feature |
 | [Smiting Reversal](smiting-reversal.md) | Combat | Power Attack, Toughness. |
 | [Smoking Boulder](smoking-boulder.md) | Combat | Base attack bonus +11, heated rock special ability |
 | [Snapping Flank](snapping-flank.md) | Combat, Teamwork | Base attack bonus +9, bite attack |
@@ -2739,6 +2748,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Street Style](street-style.md) | Combat, Style | Str 15, Improved Bull Rush, Improved Unarmed Strike, Power Attack, base attack bonus +4 or monk level 3rd |
 | [Street Sweep](street-sweep.md) | Combat | Str 15, Improved Bull Rush, Improved Unarmed Strike, Power Attack, Street Style, base attack bonus +6 or monk level 5th |
 | [Strength of Obligation](strength-of-obligation.md) | — | Must be devoted to a philosophy of responsibility and self-improvement and not worship any deities |
+| [Strike True](strike-true.md) | Combat | Combat Expertise, base attack bonus +6 |
 | [Structural Strike](structural-strike.md) | Combat, Panache | Knowledge (engineering) 5 ranks, precise strike class feature or precise strike deed |
 | [Student of Second Chances](student-of-second-chances.md) | — | Aasimar |
 | [Studied Expertise](studied-expertise.md) | General | Inspirational expertise investigator talent |
@@ -2862,12 +2872,14 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Twin Fang Lunge](twin-fang-lunge.md) | Combat | Dex 15, Quick Draw, Twin Fang Strike, Twin Fang Style, Two-Weapon Fighting, Acrobatics 8 ranks, base attack bonus +8 or monk level 8th |
 | [Twin Fang Strike](twin-fang-strike.md) | Combat | Dex 15, Quick Draw, Twin Fang Style, Two-Weapon Fighting, Acrobatics 6 ranks, base attack bonus +6 or monk level 6th |
 | [Twin Fang Style](twin-fang-style.md) | Combat, Style | Dex 15, Quick Draw, Two-Weapon Fighting, base attack bonus +1, Acrobatics 1 rank |
+| [Two-Weapon Drunkard](two-weapon-drunkard.md) | Combat | Catch Off-Guard, Two-Weapon Fighting |
 | [Two-Weapon Grace](two-weapon-grace.md) | Combat | Dex 15, Fencing Grace, Slashing Grace, or Starry Grace, Two-Weapon Fighting, Weapon Finesse |
 | [Tyrant's Rebuke](tyrants-rebuke.md) | Conduit | Knowledge (planes) 5 ranks |
 | [Umbral Shift](umbral-shift.md) | Teamwork | Darkness racial spell-like ability |
 | [Unbalancing Blow](unbalancing-blow.md) | Combat | Dex 13, Wis 13, Improved Unarmed Strike, base attack bonus +4 |
 | [Unbound Bravery](unbound-bravery.md) | — | Bravery class feature, worshiper of a deity of freedom and courage |
 | [Unbreakable](unbreakable.md) | Combat | Con 13, Endurance, Toughness, fighter level 4th |
+| [Uncanny Ally](uncanny-ally.md) | — | Alertness, uncanny dodge class feature |
 | [Uncertainty](uncertainty.md) | Blood Hex | Int 13; Bluff, Diplomacy, and Intimidate 5 ranks |
 | [Uncivilized Tactics](uncivilized-tactics.md) | Combat | Str 13, Power Attack |
 | [Unconquerable Resolve](unconquerable-resolve.md) | Combat | Resolve class feature, samurai level 1st |

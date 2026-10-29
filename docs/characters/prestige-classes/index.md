@@ -38,15 +38,21 @@ The prestige classes presented in this chapter are summarized below.
 
 **[Battle Herald](battle-herald.md)**: A veteran whose masterful tactics and air of command inspire allies to greater feats of heroism.
 
+**[Brewkeeper](brewkeeper.md)**: A spellcaster who distills spells and extracts into draughts and enhances them with homebrews.
+
 **[Brother of the Seal](brother-of-the-seal.md)**: A monk-guardian who shatters wards and hurls foes with awesome blows.
 
 **[Champion of the Enlightened](champion-of-the-enlightened.md)**: A paladin-monk of perfection who smites chaos and evil.
 
 **[Consortium Agent](consortium-agent.md)**: A mercantile operative who evades traps, masks her alignment, and cows foes with a pleasant face.
 
+**[Crimson Templar](crimson-templar.md)**: A ruthless holy assassin who hunts evil outsiders with burning wings and celestial fire.
+
 **[Crowd Blade](crowd-blade.md)**: Bardic spies and fighters of crowded cities who slow foes, vanish into crowds, and become masters of disguise.
 
 **[Cyphermage](cyphermage.md)**: An arcane scholar of runes and written magic who masters scrolls, glyphs, and ancient lore.
+
+**[Darechaser](darechaser.md)**: An athletic daredevil who pushes past mortal limits with adrenaline and self-set dares.
 
 **[Darkfire Adept](darkfire-adept.md)**: An evil summoner who unmakes reality with darkfire.
 
@@ -55,6 +61,8 @@ The prestige classes presented in this chapter are summarized below.
 **[Desert Alchemist](desert-alchemist.md)**: An alchemist who blends desert herbalism with extract-brewing and healing.
 
 **[Devil Thief](devil-thief.md)**: A premier agent of a thieves’ guild who draws on the favor of a city’s patrons.
+
+**[Devoted Muse](devoted-muse.md)**: A graceful duelist who turns combat into art with feints, panache and harmonious strikes.
 
 **[Dissident of Dawn](dissident-of-dawn.md)**: A secretive divine caster who heals or purges schism in his own faith.
 
@@ -92,6 +100,10 @@ The prestige classes presented in this chapter are summarized below.
 
 **[Guild Poisoner](guild-poisoner.md)**: A master toxicologist with toxic tricks and poisoned traps.
 
+**[Hearth Warden](hearth-warden.md)**: A rural defender and archer who guards villages and farmland from monsters, outsiders and the undead.
+
+**[Heritor Knight](heritor-knight.md)**: A holy knight who breaks restraints, grounds fliers and redeems the restless dead.
+
 **[Holy Vindicator](holy-vindicator.md)**: A pious warrior who spreads religion at the edge of a sword.
 
 **[Horizon Walker](horizon-walker.md)**: A scout and wanderer comfortable in even the strangest terrain.
@@ -114,6 +126,8 @@ The prestige classes presented in this chapter are summarized below.
 
 **[Master Spy](master-spy.md)**: An espionage expert specializing in disguises and striking swiftly from the shadows.
 
+**[Moonlit Dancer](moonlit-dancer.md)**: A performer who uses dance and moonlight to unravel undead and free lost spirits.
+
 **[Nature Warden](nature-warden.md)**: A master of the wilderness bonded spiritually to a fearsome animal companion.
 
 **[Noble Scion](noble-scion.md)**: A wealthy aristocrat with cohorts, influence, and regional training.
@@ -129,6 +143,14 @@ The prestige classes presented in this chapter are summarized below.
 **[Riftwarden](riftwarden.md)**: A planar guardian who counters teleportation and banishes extraplanar foes.
 
 **[Ritualist](ritualist.md)**: A spellcaster who masters dangerous occult rituals, making them faster, safer and more reliable.
+
+**[Rose Warden](rose-warden.md)**: A rebel infiltrator who uses disguise, sneak attacks and insurgent techniques against tyranny.
+
+**[Runeguard](runeguard.md)**: A defensive spellcaster who masters the seven virtuous runes.
+
+**[Sacred Sentinel](sacred-sentinel.md)**: A holy front-line guardian who shields allies with auras, healing touch and defiance of death.
+
+**[Scar Seeker](scar-seeker.md)**: A holy martyr who carries enduring scars, shares others' wounds and smites evil.
 
 **[Scar Soldier](scar-soldier.md)**: An elite, scarred shield-and-sword soldier whose tyrant’s disciplines and infernal gifts grow with level.
 
@@ -148,7 +170,11 @@ The prestige classes presented in this chapter are summarized below.
 
 **[Soul Warden](soul-warden.md)**: Soul wardens channel positive energy to harm and control the undead.
 
+**[Sphere Singer](sphere-singer.md)**: A wandering singer who hastens steps, shapes dreams, bends luck and grows butterfly wings.
+
 **[Stalwart Defender](stalwart-defender.md)**: A master of defending territory and holding the line at all costs.
+
+**[Stargazer](stargazer.md)**: A star-watching caster who draws on constellations and is trained against demons.
 
 **[Steel Knight](steel-knight.md)**: A diplomat-warrior who spreads liberty, fights slavers, and inspires allies.
 
@@ -157,6 +183,8 @@ The prestige classes presented in this chapter are summarized below.
 **[Student of Perfection](student-of-perfection.md)**: A monastic master who gains school-specific ki powers and elemental style feats.
 
 **[Student of War](student-of-war.md)**: A martial scholar who studies foes to gain stance-based insight bonuses.
+
+**[Sun Anchorite](sun-anchorite.md)**: A hermit of the sun who invokes sunlight to protect the innocent and smite the wicked.
 
 **[Sword Duelist](sword-duelist.md)**: A master of the dueling sword who intimidates foes, deflects critical hits, and adapts to every opponent.
 

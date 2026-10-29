@@ -6085,3 +6085,15 @@ Powerful oni grant these +3 tetsubos to loyal human servants, who use them to en
 This +1 firearm bullet deals no damage but instead dispels one magical effect on the target, as *dispel magic* cast by a 5th-level wizard. If the target has multiple magical effects active, the lowest-level effect is targeted.
 
 **Construction Requirements:** Craft Magic Arms and Armor, *dispel magic*; **Cost** 125 gp
+
+## Rose Warden Items
+
+### Rose Thorn
+
+**Slot** none; **CL** 10th; **Price** 6,320 gp; **Weight** 2 lbs.
+
+**Aura** moderate transmutation
+
+When the command word is spoken as a move action, this +1 morningstar transforms into a pendant in the shape of a single red rose that does not radiate magic. Only *true seeing* or similar magic reveals the true nature of this weapon. Once per day as part of an initiative check, as long as she holds the rose thorn in its pendant shape in one hand, the wielder can cause the pendant to instantaneously transform back into its +1 morningstar form. When she does so, the wielder of the rose thorn adds her Charisma bonus (minimum of +1) to her initiative check.
+
+**Construction Requirements:** Craft Arms and Armor, *magic aura*, *shrink item*; **Cost** 3,160 gp
