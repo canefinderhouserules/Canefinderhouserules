@@ -302,3 +302,13 @@ This replaces chimeric aspect.
 This replaces greater chimeric aspect.
 
 **Final Aspect (Su)**: At 20th level, a swarm shifter becomes an embodiment of swarms and can cast *swarm skin* as a spell-like ability at will with a caster level equal to her character level. She can separate into up to five swarms, regardless of the number of levels required per swarm. When transforming into swarms with this ability, the swarm shifter still selects swarm abilities granted by the swarm flow and greater swarm flow abilities to apply to her swarm forms. The chosen swarm abilities apply to all swarms. This modifies final aspect.
+
+## Wild Effigy
+
+A wild effigy still takes on the shapes of natural animals, but rather than transforming her body into flesh and muscle, she transforms into constructed effigies of her chosen aspects.
+
+**Armor Plating (Su)**: A wild effigy's animal aspects are made of carved, living rock. When shifted into a minor or major aspect, she gains a +1 enhancement bonus to natural armor and DR/adamantine equal to half her shifter level (minimum 1). The enhancement bonus increases by 1 at 4th level and every 4 levels thereafter, to +6 at 20th level. At 6th level, these bonuses also apply when she transforms into one of her aspects using wild shape. This replaces wild empathy, track, woodland stride, and trackless step.
+
+**Heart of Earth (Su)**: At 4th level, when shifted into a minor or major aspect, or transformed into an aspect using wild shape, she adds her shifter level on checks to stabilize at negative hit points and gains a 25% chance to ignore a critical hit or precision damage (this does not stack with fortification or similar effects). At 9th level the chance increases to 50% and she becomes immune to petrification. At 15th level it increases to 75% and she becomes immune to bleed and blood drain effects. This replaces defensive instinct.
+
+**Stoneclaw Strike (Su)**: At 6th level, by expending a 1-minute increment of her shifter's minor aspect ability as a swift action, she can grant her claws the ability to ignore an amount of damage reduction or hardness equal to her shifter level for 1 minute. She can use this ability 3 times per day.

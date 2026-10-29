@@ -1047,3 +1047,17 @@ While most paladins stride brazenly forth to battle evil in gleaming armor, fait
 | 4 | The creature gains an enhancement bonus to its movement speeds, adding 5 feet of movement for every 2 levels the chaos knight has (to a maximum of +40 feet). |
 
 **Aura of Chaos (Su)**: At 14th level, a chaos knight treats his weapons as chaos-aligned for the purposes of bypassing damage reduction. In addition, the chaos knight treats attacks targeting enemies within 10 feet of him as chaos-aligned for the purpose of overcoming damage reduction. This replaces aura of faith.
+
+## Construct Seeker
+
+Some paladins devote themselves to locating constructs that are used for evil or that become uncontrollable, and are adept at battling constructed foes and guarding those they threaten. A construct seeker must worship a deity of creation, smithing, or craft.
+
+**Detect Construct (Sp)**: A construct seeker can detect the presence of constructs at will. This functions as *aura sight*, except the duration is 1 round and she learns the locations and power of all construct auras, similar to *detect undead*. This replaces detect evil.
+
+**Smite Construct (Su)**: This functions as smite evil, but only against constructs. Smiting a construct automatically bypasses any damage reduction or hardness. She can still smite evil, but adds only half her Charisma bonus on attack rolls, adds only half her level on damage rolls, and doesn't increase her bonus damage against evil outsiders, evil-aligned dragons, or undead. This otherwise functions as smite evil for feats and prerequisites. This alters smite evil.
+
+**Aura of Destruction (Su)**: At 11th level, she grants allies smite construct with her aura of justice instead of smite evil. This alters aura of justice.
+
+**Aura of Unmaking (Su)**: At 14th level, her weapons are treated as adamantine for overcoming damage reduction, and so is any attack against an enemy within 10 feet of her. This works only while she is conscious. This replaces aura of faith.
+
+**Champion of Unmaking (Su)**: At 20th level, her damage reduction increases to 10/evil. Whenever she uses smite construct and hits a construct, she can attempt to destroy it: it is reduced to 0 hit points and destroyed unless it succeeds at a Will save (DC = 10 + half her level + her Charisma modifier). After this effect and the attack's damage are resolved, the smite ends. In addition, whenever she channels positive energy or uses lay on hands to heal a creature, she heals the maximum possible amount. This replaces holy champion.

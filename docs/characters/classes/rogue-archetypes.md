@@ -1168,3 +1168,20 @@ This replaces the ninja trick gained at 2nd level.
 **Rogue Talents**: The following rogue talents complement this archetype: camouflage, charmer, convincing lie, honeyed words, and quick disguise.
 
 **Advanced Talents**: The following advanced talents complement this archetype: hide in plain sight and master of disguise.
+
+## Construct Saboteur
+
+The construct saboteur harnesses arcane energy to combat the golems and eldritch guardians that prowl the depths of ancient ruins.
+
+**Class Skills**: A construct saboteur has Knowledge (arcana) and Knowledge (engineering) as class skills, but not Knowledge (dungeoneering) or Knowledge (local).
+
+**Arcane Strike (Ex)**: A construct saboteur gains Arcane Strike as a bonus feat, even if she does not meet the prerequisites, using her construct saboteur class level in place of her caster level for the feat's effects. This replaces trapfinding.
+
+**Arcane Sabotage (Su)**: At 2nd level, whenever she uses Arcane Strike to attack a construct, she can activate one sabotage ability she has gained. She gains one at 2nd level and can thereafter select any sabotage ability in place of a rogue talent. The DC for any that requires a saving throw is 10 + half the saboteur's level + her Intelligence modifier. This replaces the rogue talent gained at 2nd level.
+
+- **Diminish Senses**: The construct is blinded for 1 round. She can forgo sneak attack damage to extend the blindness by 1 round for every 2d6 forgone. A Will save negates.
+- **Magic Vulnerability**: The construct's immunity to magic is disabled for 1 round; it instead gains spell resistance equal to 15 + its CR. She can forgo 1d6 of sneak attack damage to reduce this spell resistance by 1 per die forgone. A Will save negates.
+- **Overwhelming Jolt**: The construct is staggered for 1 round. A Will save negates.
+- **Slowing Pulse**: The construct's speed is reduced by 5 feet for a number of rounds equal to her Intelligence modifier. She can forgo 1d6 of sneak attack damage to reduce speed by an additional 5 feet per die forgone, but not below 5 feet. A Reflex save reduces the duration to 1 round.
+
+**Dismantling Strikes (Ex)**: At 3rd level, she ignores the first 2 points of damage reduction or hardness when attacking constructs. This increases by 2 every 3 levels after 3rd, to 12 points at 18th level. This replaces trap sense.

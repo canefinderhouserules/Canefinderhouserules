@@ -667,3 +667,11 @@ Reflecting the connected nature of a pair of twins, a twinned summoner and his e
 **Summon Arcana (Su)**: At 2nd level, a story summoner can use a complete fate deck he owns as an additional focus component for his summon monster spell-like ability. When he does so, the summoner draws a random card from the deck and applies a simple template to the summoned monster based on the card's alignment: celestial (any good), fiendish (any evil), resolute (any lawful), or entropic (any chaotic). If a card has more than one alignment, such as a lawful evil or chaotic good card, the summoner can choose which template to apply to the summoned creature. This ability allows a story summoner to summon and command creatures normally prohibited by their alignment. This ability replaces bond senses.
 
 **Evolve Base Form (Su)**: Starting at 8th level, whenever he gains a level, the story summoner can change his eidolon's base form to a new base form. Once chosen, this base form is set until the story summoner gains another summoner level. This ability replaces transposition.
+
+## Construct Caller (Unchained Summoner)
+
+Construct callers use their mechanical and planar understanding to work planar energies as a tinkerer works parts, hand-crafting unique constructed eidolons. This archetype is for the unchained summoner.
+
+**Construct Eidolon (Ex)**: A construct caller must select the inevitable subtype for her eidolon. It functions as an inevitable eidolon except that it can be of any alignment, has no Constitution score, and gains bonus hit points appropriate for a construct of its size. At 12th level, the eidolon gains DR 5/adamantine instead of DR 5/chaotic. This alters eidolon.
+
+**Planar Tinkering (Ex)**: At 3rd level, the number of points in her eidolon's evolution pool increases by 1. It increases by an additional 1 at 7th level and every 4 levels thereafter, for a total of 5 additional points at 19th level. This replaces *summon monster I*.

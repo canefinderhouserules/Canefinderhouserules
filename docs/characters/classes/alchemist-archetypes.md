@@ -1279,3 +1279,15 @@ To create a construct with a mind and body that are constantly changing and impr
 **Pheromones (Su)**: A perfumer can spend 1 hour to distill a special mixture of exotic pheromones and alchemical reagents and store it in an atomizer. The mixture remains potent until used or until the perfumer distills another pheromone mixture, at which point the first becomes inert and the duration of its effects immediately end. Spraying this mixture on a willing creature as a standard action grants the target a +4 alchemical bonus to Charisma and a –2 penalty to Constitution for 10 minutes per alchemist level. Additionally, the target creature gains a +2 alchemical bonus on Diplomacy and Bluff checks. This replaces mutagen. A perfumer can never gain the mutagen, cognatogen, or inspired cognatogen ability, even from a discovery or another class.
 
 **Persistent Pheromones**: At 14th level, the alchemist gains the ability to distill extremely potent pheromones. His pheromone atomizers can be sprayed on up to four different targets before becoming fully used. This allows a perfumer to affect multiple targets with a single atomizer. This replaces persistent mutagen.
+
+## Cruorchymist
+
+Cruorchymists see their blood as just another tool for their experiments, using it to create new life that serves their goals.
+
+**Diminished Poisoning**: A cruorchymist doesn't gain poison use, poison resistance, poison immunity, or swift poisoning.
+
+**Blood Familiar (Ex)**: A cruorchymist has created a homunculus from basic materials and his own blood. It takes the shape of a Tiny humanoid and functions in all ways as a familiar, treating the cruorchymist's alchemist level as his effective wizard level. To replace his blood familiar, he can reduce the cost of the replacement ritual by taking 2 points of Constitution drain for every 100 gp he wishes to forgo. At 3rd level, if he has the infusion discovery, a blood familiar can deliver extracts with a range of touch for its master. This replaces mutagen; a cruorchymist can never gain mutagen, cognatogen, or inspired cognatogen, even from a discovery or another class.
+
+**Blood Treatment (Ex)**: As a swift or immediate action, a cruorchymist can take points of Constitution drain; his blood familiar heals 1d6 hit points for each point. This replaces Brew Potion.
+
+**Blood Augmentation (Ex)**: At 4th level, as a swift action, the cruorchymist can take 1 point of Constitution damage to give his familiar an animal aspect for 1 minute, treating his alchemist level as his hunter level. He takes 1 additional point of Constitution damage for each minute beyond the first. At 12th level he can select two animal aspects, taking 2 points of Constitution damage per minute to maintain both.

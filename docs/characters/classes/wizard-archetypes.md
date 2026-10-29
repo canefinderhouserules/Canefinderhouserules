@@ -865,3 +865,15 @@ Alternatively, the bonded wizard can expend a point from her force pool to creat
 | 1–4 | — |
 | 5–10 | 5/cold iron |
 | 11+ | 10/cold iron |
+
+## Clocksmith
+
+Clocksmiths pursue the study and creation of clockwork constructs to near obsession, favoring mechanical experiments over other arcane pursuits.
+
+**Clockwork Bond (Ex)**: A clocksmith forms a bond with one of his clockwork creations and begins play with a constructed familiar, which he must select as his arcane bond. It functions as a typical familiar of its type except that it is always a construct with the clockwork subtype, and it grants only half of its typical bonus (minimum +1) from its special familiar ability to its master. This alters arcane bond.
+
+**Clockwork Expertise (Ex)**: A clocksmith gains a +2 bonus on saving throws against effects created by creatures of the clockwork subtype, increasing to +4 at 8th level. He also treats his caster level as 1 higher when casting a spell that affects or targets only clockwork creatures (2 higher at 8th level). This replaces the school powers granted by the wizard's arcane school.
+
+**Craft Construct**: A clocksmith gains Craft Construct as a bonus feat, even if he does not meet the prerequisites. He can create any construct, but increases the cost to create constructs without the clockwork subtype by 50%. This replaces Scribe Scroll.
+
+**Familiar Tinkering (Ex)**: At 5th level, a clocksmith can grant his familiar 1 evolution point's worth of eidolon evolutions for every 5 wizard levels he has, though he cannot select any evolution that requires a specific base form. Each time he gains a level, he can change his familiar's evolutions. These evolutions stack with those from the Evolved Familiar feat. This replaces the bonus feats gained at 5th, 10th, 15th, and 20th levels.

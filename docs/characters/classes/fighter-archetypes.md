@@ -1089,3 +1089,11 @@ A corsair is a pirate who focuses on shipboard combat, relying on strength of ar
 **Wings (Su)**: At 15th level, a dragonheir scion can grow leathery dragon wings from her back as a standard action, granting her a fly speed of 60 feet with average maneuverability. She can dismiss the wings as a free action. This ability replaces armor training 4 and armor mastery.
 
 **Might of Wyrms (Su)**: At 20th level, a dragonheir scion's draconic heritage becomes manifest. She gains immunity to paralysis, sleep, and damage of her energy type, as well as blindsense with a range of 60 feet. This ability replaces weapon mastery.
+
+## Scrapper
+
+Scrappers collect the leftovers from enemy armor and use them to improve their own.
+
+**Scrap Armor (Ex)**: At 3rd level, a scrapper can salvage scrap from a destroyed construct or another creature's armor (1 minute) and attach it to his own armor. Scrap from a construct grants a natural armor bonus to AC equal to one-quarter the construct's Hit Dice (minimum +1). Scrap from armor grants a natural armor bonus equal to 1 + the armor's enhancement bonus (if any). Scrap is flimsy: it is immediately destroyed by any sunder combat maneuver that targets the armor it is attached to, and otherwise crumbles away after a number of days equal to the bonus it grants. At 11th level, scrap salvaged from a construct also grants DR/adamantine equal to one-quarter of the construct's Hit Dice. This replaces armor training.
+
+**Scrapper Training (Ex)**: At 5th level, a scrapper selects one fighter weapon group. He gains a +1 bonus on attack and damage rolls when performing a sunder combat maneuver with a weapon from that group and does not provoke attacks of opportunity when doing so. If he has Improved Sunder, these bonuses double. At 9th level and every 4 levels thereafter, he can either take the weapon training class feature or improve his bonuses from scrapper training by 1. This replaces weapon training 1.

@@ -2121,3 +2121,16 @@ A buccaneer is a pirate who specializes in raiding ships and port towns, but who
 **Corpse Speaker (Su)**: An occult speaker can make it appear as if a corpse is speaking, similar to ventriloquism. A creature must succeed at a Will saving throw (DC = 10 + half the bard's level + the bard's Charisma modifier) to see through the ruse. A creature that fails the saving throw is convinced that the corpse is speaking of its own volition. This replaces countersong.
 
 **Keen Ritualist (Ex)**: At 10th level, an occult speaker reduces the number of secondary casters required to cast a ritual by 2. At 16th level, the DCs of skill checks the occult speaker attempts during a ritual are reduced by 2. At 19th level, an occult speaker can perform any ritual by himself without needing to satisfy any secondary caster requirements. The DCs of skill checks he attempts during a ritual are reduced by an additional 2, for a maximum DC reduction of 4. This replaces jack-of-all-trades.
+
+## Voice of the Maker
+
+Bards of this archetype receive inspiration from a patron of craft and invention in the form of music. Their songs hold the notes of creation and unmaking that let them affect constructs, and they typically play custom-made instruments that are marvels of engineering.
+
+**Maker's Knowledge (Ex)**: The bard adds half his class level (minimum 1) as a bonus on Knowledge (arcana), Knowledge (dungeoneering), Knowledge (engineering), and Knowledge (religion) checks and can attempt these checks untrained. In addition, he can affect constructs with his bardic performance, even if they would normally be immune or unaffected.
+
+**Bardic Performance**: A voice of the maker gains the following performances.
+
+- **Maker's Soothing (Su)**: Functions as fascinate, but can target only constructs. This replaces fascinate.
+- **Maker's Anger (Su)**: At 8th level, functions as dirge of doom, but can target only constructs. This replaces dirge of doom.
+- **Maker's Spark (Su)**: At 12th level, the bard selects a destroyed construct within 60 feet and expends 1 round of bardic performance to reanimate it. It reanimates with hit points equal to the bard's level but staggered, and follows his orders. Each round, he can expend another round of performance to keep it reanimated for another round; the construct regains hit points equal to his level each round it remains reanimated. If it recovers all of its hit points, it becomes fully reanimated and no longer needs the performance, and follows his orders as if he were its creator for 24 hours, after which it reverts to its original programming. The construct is completely destroyed if the bard ends the performance before it regains full hit points, if he is interrupted, or if it is reduced to 0 hit points; a completely destroyed construct cannot be repowered or reanimated by another voice of the maker. He can reanimate multiple constructs but must expend 1 round of performance per construct per round. This replaces soothing performance.
+- **Maker's Wrath (Su)**: At 14th level, functions as frightening tune, but can target only constructs. This replaces frightening tune.
