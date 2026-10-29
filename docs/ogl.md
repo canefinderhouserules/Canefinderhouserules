@@ -267,3 +267,5 @@ The following text is the property of Wizards of the Coast, Inc. and is Copyrigh
     Pathfinder Player Companion: Paths of the Righteous © 2016, Paizo Inc.; Authors: Alexander Augunas, John Compton, Jenny Jarzabski, Isabelle Lee, Stephen Rowe, and Owen K.C. Stephens.
 
     Pathfinder Player Companion: The Harrow Handbook © 2014, Paizo Inc.; Authors: Crystal Frasier, Will McCardell, and David Schwartz.
+
+    Wrath of the Righteous Player's Guide © 2013, Paizo Publishing, LLC; Authors: Adam Daigle and Jay Loomis.
