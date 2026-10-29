@@ -6611,3 +6611,19 @@ These simple calfskin gloves intensify the avaricious inclinations of their wear
 This staff appears as a normal *staff of electricity*, except it is black instead of silver and electricity occasionally arcs along the shaft. The curse on this weapon alters the *shocking grasp*, *lightning bolt*, and *chain lightning* spells granted by the staff, causing extra surges of energy to damage the wielder and his allies. When the wielder uses the overcharged staff to cast *shocking grasp*, he takes 1d3 points of electricity damage per caster level (maximum 5d3). When the wielder uses the overcharged staff to cast *lightning bolt*, a random ally takes 1d6 points of electricity damage per caster level (maximum 10d6); the ally takes half that amount with a successful Reflex save. When the wielder uses the overcharged staff to cast *chain lightning*, for each target the wielder chooses as a primary or secondary target, a random ally must be chosen as a secondary target.
 
 **Intended Magic Item** *staff of electricity*
+
+## Planar Travel Items
+
+### Planar Carriage
+
+**Slot** —; **CL** 9th; **Price** 121,500 gp; **Weight** 1,500 lbs.
+
+**Aura** moderate conjuration and transmutation
+
+*Planar vehicle.* Planar carriages are large metal-and-wood vehicles painted or styled to reflect the appearance of a certain plane. When not being used to travel to another plane, a planar carriage functions as a heavy wagon, except for the following changes: instead of muscle propulsion, a planar carriage has built-in magic propulsion that requires a driver to use Spellcraft or Use Magic Device for driving checks. A planar carriage has a maximum speed of 90 feet and an acceleration of 30 feet. Its driving device is a magic item (a 5-foot magical sphere) that occupies the forwardmost square, and its driving space consists of the squares adjacent to the device.
+
+Once per day, the driver of a planar carriage can attempt to transport the carriage and its occupants to a plane of her choosing other than the plane that the carriage is currently on. For the driver to do so, the vehicle must be moving at its maximum speed. While the carriage is moving at maximum speed, the driver can attempt a DC 20 Spellcraft or Use Magic Device check to open a gate in front of the planar carriage to the chosen plane, as per the *gate* spell, and drive the carriage into the gate. If the driver designates a specific arrival point on the target plane, the carriage arrives at that exact location; otherwise, the carriage appears in a random location on the plane appropriate for the carriage's size.
+
+When the carriage arrives on another plane, it grants its occupants the benefits of *planar adaptation* for that plane as long as the occupants remain within the carriage; the carriage itself also gains those benefits. A planar carriage can grant the benefits of *planar adaptation* for only one plane at a time, so when the carriage moves to a different plane, the benefits from *planar adaptation* change accordingly. Occupants who are native to the plane the planar carriage is on do not gain any benefits from *planar adaptation*.
+
+**Construction Requirements:** Craft Wondrous Item, *gate*, *haste*, *planar adaptation*, creator must have at least 5 ranks in Knowledge (engineering); **Cost** 60,850 gp

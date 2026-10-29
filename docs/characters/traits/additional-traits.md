@@ -872,3 +872,13 @@ Antiheroes play by their own internal rules, which allow them to accomplish thin
 **Spirit of the Law (Combat)**: You have seen the rules of society endlessly twisted in their implementation, and as such, you are especially wary of those who exploit the law to impose their own will. You gain a +1 trait bonus on attacks against lawful-aligned humanoids and a +2 trait bonus on saving throws against effects with the lawful descriptor.
 
 **Vengeful (Social)**: You were brutally betrayed, and you have dedicated yourself to pursuing revenge. Choose a humanoid subtype that is not your own from the following list: dwarf, elf, gnome, halfling, or human. You gain a +2 trait bonus on Intimidate checks against creatures with that subtype.
+
+## Plane-Hopping Traits
+
+The following traits are suitable for characters who often travel the Great Beyond.
+
+**Acclimatize Alignment (Faith)**: Like a climber ascending a mountain, you gradually grow acclimatized to an opposing planar alignment. For each consecutive day you remain on a mildly aligned plane that opposes your alignment, reduce your penalty on Charisma-based checks by 1, to a minimum of 0. This does not affect the penalty from a strongly aligned plane.
+
+**Internal Compass (Magic)**: You maintain a sense of direction, even on planes where direction is relative. If you are on a plane that has no analogue to north, you automatically know the direction toward the plane's major dominating feature (for instance, a central spire or the sun of the plane). If there is no such dominating feature, you instead know the direction of the closest feature significant to one of the plane's divinities or demigods.
+
+**Subjective Equilibrium (Combat)**: You understand that gravity is far from constant when traversing the Great Beyond. You gain a +2 trait bonus on Wisdom checks to move on a plane with subjective directional gravity, and you gain a +10-foot enhancement bonus to your speed when "falling" on such a plane.

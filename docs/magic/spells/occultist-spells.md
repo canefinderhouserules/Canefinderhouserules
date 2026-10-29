@@ -536,6 +536,7 @@ Occultists gain access to the following spells, determined by their chosen imple
 - Nondetection, Communal
 - **[Masochistic Shadow](masochistic-shadow.md)**: a shadow attacks the target, dealing Strength damage each round
 - **[Peacebond, Greater](peacebond-greater.md)**: As *peacebond*, but on multiple weapons, even if they aren’t sheathed.
+- **[Planar Aegis](planar-aegis.md)**: A force shield of planar essence damages attackers and halves related damage.
 - **[Reveal Emotions](reveal-emotions.md)**: Creatures in the area glow with their emotions.
 - **[Revenant Armor](revenant-armor.md)**: Armor animates around its fallen wearer.
 - **[Rising Water](rising-water.md)**: Conjures a cylinder of calm, swimmable water.

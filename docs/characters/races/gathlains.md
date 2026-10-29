@@ -116,6 +116,10 @@ Gathlains have access to the following equipment.
 - [Symbiotic Resilience](../../rules/feats/symbiotic-resilience.md)
 - [Treant's Call](../../rules/feats/treants-call.md)
 - [Wandering Mind](../../rules/feats/wandering-mind.md)
+- [Count of the Clock](../../rules/feats/count-of-the-clock.md)
+- [Knight of the Twisted Word](../../rules/feats/knight-of-the-twisted-word.md)
+- [Marcher-Lord of the Deep](../../rules/feats/marcher-lord-of-the-deep.md)
+- [Triple-Baron](../../rules/feats/triple-baron.md)
 
 ## Magic Items
 

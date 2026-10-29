@@ -1030,3 +1030,20 @@ While most paladins stride brazenly forth to battle evil in gleaming armor, fait
 **Aura of Self-Righteousness (Ex)**: At 17th level, a vindictive bastard gains DR 5/lawful or good and immunity to compulsion spells and spell-like abilities. Each ally within 10 feet of her gains a +4 morale bonus on saving throws against compulsion effects. Aura of self-righteousness functions only while the vindictive bastard is conscious, not if she is unconscious or dead. This replaces aura of righteousness.
 
 **Ultimate Vindication (Ex)**: At 20th level, if a foe kills one of a vindictive bastard's allies or knocks the vindictive bastard unconscious (and she later regains consciousness), the vindictive bastard musters a vindictive fury. The next time she hits that foe within 1 minute, the vindictive bastard can channel the effects of a *disintegrate* spell through her weapon, using her paladin level as her effective caster level. Whether or not the target succeeds at its save against the disintegrate effect, it is immune to this ability for the next 24 hours. This replaces holy champion.
+
+## Chaos Knight
+
+*Paladin archetype (available to ganzi characters).* Despite the entropic forces inherent in ganzis, some forgo a life of chaos, instead harnessing their heritage to enforce the power of law. The chaos knight is able to tap into the nature of a plane of pure chaos in order to grant or gain small, unpredictable blessings to aid on her quest for order.
+
+**Entropic Touch (Su)**: At 2nd level, a chaos knight can employ the forces of entropy with a touch to shatter a mind-affecting spell or effect currently affecting an ally. As a standard action, he can touch a creature to grant that creature a new saving throw against one mind-affecting effect, with a bonus on the save equal to one-third the chaos knight's level (minimum +0). If the chaos knight targets himself, he can use this ability as a swift action. A chaos knight can use this ability a number of times per day equal to half his paladin level + his Charisma modifier. This replaces lay on hands.
+
+**Blessings of Chaos (Su)**: At 3rd level, a chaos knight can harness the unpredictable essence of chaos to bless a creature. When he uses his entropic touch ability, the chaos knight can grant the touched creature a blessing from the table below that lasts for a number of rounds equal to 1 + the chaos knight's Charisma modifier (minimum 1 round). Only one creature can have this blessing at a time. If another creature gains the blessing, the previous blessing ends. The creature rolls 1d4 and compares the result to the table below to determine the blessing. If the chaos knight targets himself with the blessing, he can roll twice and choose his preferred result. At 5th level and every 3 levels thereafter, the chaos knight can grant a blessing to one additional creature at a time. This replaces mercy.
+
+| d4 | Blessing |
+|---|---|
+| 1 | The creature gains a sacred bonus to AC equal to 1/5 the paladin's level (minimum +1). |
+| 2 | The creature gains a sacred bonus on weapon damage rolls equal to the chaos knight's Charisma modifier. |
+| 3 | The creature gains fast healing 2. This fast healing increases by 1 for every 3 levels the chaos knight has. |
+| 4 | The creature gains an enhancement bonus to its movement speeds, adding 5 feet of movement for every 2 levels the chaos knight has (to a maximum of +40 feet). |
+
+**Aura of Chaos (Su)**: At 14th level, a chaos knight treats his weapons as chaos-aligned for the purposes of bypassing damage reduction. In addition, the chaos knight treats attacks targeting enemies within 10 feet of him as chaos-aligned for the purpose of overcoming damage reduction. This replaces aura of faith.

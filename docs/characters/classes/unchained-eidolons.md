@@ -91,6 +91,26 @@ As a summoner gains levels, his eidolon gains specific evolutions based on its s
 
 **Base Evolutions**: This describes the base evolutions possessed by all eidolons of this subtype. Following the entry is a list of evolutions gained as the summoner gains levels; these evolutions are gained automatically, and do not cost points from the eidolon’s evolution pool. In some cases, eidolons of certain subtypes will gain abilities that are not evolutions. Unless otherwise noted, such abilities function as described in the Universal Monster Rules section beginning of the Bestiary. (See the relevant section.)
 
+### Aeon
+
+Created to monitor a specific duality, an aeon eidolon often proves frustratingly headstrong in enforcing its own interpretation of balance.
+
+**Alignment**: Neutral.
+
+**Base Form**: Biped (claws, limbs [arms], limbs [legs]) or serpentine (limbs [arms], tail, slam).
+
+**Base Evolutions**: At 1st level, aeon eidolons gain the envisaging ability. Aeon eidolons halve the armor and natural armor bonuses they gain per level, but gain an equal deflection bonus to their AC. They also gain a +4 bonus on saving throws against poison.
+
+At 4th level, aeon eidolons gain the benefits of the moderate fortification armor special ability and cannot be tripped.
+
+At 8th level, aeon eidolons gain the flight evolution (using magic) with a speed equal to their base speed.
+
+At 12th level, aeon eidolons gain the ability to influence either emotions or time as a standard action, as chosen by the summoner. Whenever the summoner gains a level, he can change which ability the eidolon influences. When affecting emotions, an aeon eidolon affects up to five targets within 30 feet as *crushing despair*. A target can negate this effect with a successful Will save (DC = 14 + the eidolon's Charisma modifier). For each target that fails its save, the eidolon can affect one other creature within 30 feet as *good hope*. The caster level equals the eidolon's Hit Dice, and the save DC is equal to 10 + half the eidolon's Hit Dice + the eidolon's Charisma modifier. When affecting time, the ability functions in the same way, but the eidolon affects primary targets as *slow* and secondary targets as *haste*. The eidolon can use this ability once per day for every 5 Hit Dice it has.
+
+At 16th level, aeon eidolons become immune to critical hits, poison, and sneak attacks.
+
+At 20th level, aeon eidolons gain the ability to cast *moment of prescience* (CL 20th) as a spell-like ability three times per day.
+
 ### Agathion
 
 Patient and enlightened liaisons of the good-aligned Outer Planes, agathion eidolons seek to vanquish evil and protect that which is good. Agathion eidolons always have aspects of a single animal or creature, rather than a hodgepodge of several. Though they have patience for summoners with unorthodox methods and even those who stray from the path of good, they will not brook their powers being used for evil ends. An agathion eidolon seeks to bring its summoner closer to its own enlightenment.
@@ -168,6 +188,26 @@ At 8th level, archon eidolons gain the ability increase evolution, applied to an
 At 16th level, archon eidolons lose the resistance (electricity) evolution and skilled (Intimidate) evolution, and instead gain the immunity (electricity) evolution. In addition, they gain the aura of menace ability (see the archon subtype in the Bestiary).
 
 At 20th level, archon eidolons gain the ability to use greater teleport at will, as the spell (caster level 14th), except they can teleport only themselves and up to 50 pounds of carried objects.
+
+### Astral
+
+While some resemble ouroboroses, most astral eidolons are spun from raw thought or the husks of Astral travelers whose silver cords broke.
+
+**Alignment**: Neutral.
+
+**Base Form**: Biped (limbs [arms], limbs [legs], slam) or serpentine (bite, magic attacks, reach [bite], tail, tail slap).
+
+**Base Evolutions**: At 1st level, astral eidolons gain immunity to aging as well as a +4 bonus on saving throws against curses, diseases, and poisons. A summoner's class level is halved for the purpose of determining the rate at which his astral eidolon's Strength and Dexterity increase.
+
+At 4th level, astral eidolons gain the ability to augment their masters' summoning abilities three times per day. To do so, the astral eidolon must ready an action to meld with a summoned creature. The summoner can use his *summon monster* spell-like ability or cast a *summon monster* spell while the astral eidolon is summoned and readied to activate this ability. The eidolon physically melds with one summoned creature as it appears, during which time the eidolon cannot be harmed or take actions of its own except to end the effect as a standard action. The eidolon must be adjacent to or share the space where the summoned creature will appear. The effect ends either when the spell ends, when the summoned creature is slain or dismissed, or when either the summoner or eidolon ends the effect as a standard action, after which the summoned creature disappears and the eidolon appears in the creature's space and is staggered until the beginning of the summoner's next turn. When melded with a summoned creature, the eidolon grants the summoned creature one or more evolutions the eidolon has (maximum 1 point worth of evolutions for every 3 Hit Dice the eidolon has) and a number of temporary hit points equal to 1d8 plus the eidolon's number of Hit Dice. The summoned creature must conform to any limitations of the evolution (for example, it must have wings in order to gain the wing buffet evolution). Furthermore, the summoned creature cannot gain more than one natural attack in this way, though it can replace the damage of its natural weapons with that dealt by the evolution, provided the natural weapons are similar. For effects dependent on Hit Dice, use the eidolon's Hit Dice.
+
+At 8th level, astral eidolons gain the flight evolution (using magic) with a speed equal to their base speed.
+
+At 12th level, astral eidolons gain the ability to augment their master's summoning two additional times per day. When the eidolon melds with a summoned creature, that creature also gains the eidolon's evasion and devotion abilities.
+
+At 16th level, astral eidolons gain immunity to curses, diseases, and poisons. They also increase by 50% the number of evolution points their summoners can divert using the aspect and greater aspect abilities. If the summoner lacks the aspect ability, he gains this ability but can divert only 1 evolution point. The summoner no longer takes penalties to his ability scores for aging, cannot be magically aged, and does not age retroactively when leaving a plane with the timeless planar trait. Ability score bonuses from age still accrue, and the summoner still dies of old age when his time is up.
+
+At 20th level, astral eidolons can simultaneously meld with each creature summoned by the summoner's *summon monster* spell-like ability or *summon monster* spells, and the eidolon does not reappear automatically until each of the creatures is slain. Alternatively, the eidolon can meld with one summoned creature without disappearing, though the eidolon is staggered until the effect ends.
 
 ### Azata
 
@@ -357,6 +397,26 @@ At 12th level, psychopomp eidolons gain DR 5/adamantine. They also gain the spir
 
 At 16th level, psychopomp eidolons gain the ability increase evolution, applied to an ability score of the summoner’s choice. They also gain the ability to cast invisibility (self only) as a spell-like ability at will. At 20th level, psychopomp eidolons increase their damage reduction to 10/adamantine and gain the immunity (cold) and immunity (electricity) evolutions.
 
+### Radiant
+
+Practically glowing with the potential of the Positive Energy Plane, radiant eidolons make for passionate, if judgmental, companions that often have avian features.
+
+**Alignment**: Neutral.
+
+**Base Form**: Biped (bite, limbs [arms], limbs [legs]) or quadruped (claws, limbs [legs, 2]).
+
+**Base Evolutions**: Radiant eidolons are immune to death effects and energy drain. They can exist comfortably on the Positive Energy Plane and do not benefit or suffer from the positive-dominant planar trait. Whenever radiant eidolons are subjected to a magical healing effect, they regain 1 additional hit point per die rolled.
+
+At 4th level, radiant eidolons' natural attacks can strike incorporeal targets as though they were *ghost touch* weapons. Radiant eidolons glow as light with an effective spell level equal to half their Hit Dice (round down); they can suppress or resume this effect as a standard action.
+
+At 8th level, radiant eidolons grow feathery wings, gaining the flight evolution.
+
+At 12th level, radiant eidolons gain the fast healing evolution.
+
+At 16th level, radiant eidolons gain the ability to cast *cure serious wounds* three times per day. When a radiant eidolon's summoner dies or falls unconscious within 60 feet as a result of hit point loss, the eidolon can die as an immediate action to grant the summoner the benefits of *breath of life*. The caster level for both abilities equals the eidolon's Hit Dice.
+
+At 20th level, radiant eidolons deal an additional 2 points of damage per die rolled against undead creatures when attacking with the energy attacks or breath weapon evolutions. Whenever radiant eidolons are subjected to a magical healing effect, the effect functions at its full potential, as if enhanced by Maximize Spell.
+
 ### Shadow
 
 Summoned from the dreary shadowscapes of the Plane of Shadow, shadow eidolons are grim, colorless mockeries of creatures that inhabit the Material Plane. Shadow eidolons resent being pulled into the unbearable brightness of the Material Plane. Despite this, shadow eidolons serve their summoners with somberness, acknowledging that shadow cannot exist without light.
@@ -376,6 +436,28 @@ At 12th level, shadow eidolons lose the ability to cast *darkness* as a spell-li
 At 16th level, shadow eidolons' damage reduction increases to DR 10/magic and they gain the spell resistance evolution.
 
 At 20th level, shadow eidolons increase the range of their darkvision to 120 feet and gain the ability to cast *shadow step* as a spell-like ability at will. Three times per day, a shadow eidolon can quicken this spell-like ability, functioning as the Quicken Spell-Like Ability feat.
+
+### Storykin
+
+Storykin are avatars of the cards of a harrow deck, brought to life through powerful magic. Most storykin are limited in their autonomy, spending their lives acting out the roles in the stories they originated from. The form and alignment of a storykin eidolon is dependent on the harrow card the eidolon is based on.
+
+**Alignment**: Varies.
+
+**Base Form**: Bipedal (limbs [arms], limbs [legs], slam), quadruped (limbs [legs, 2], slam), or serpentine (bite, grab [tail slap], tail, tail slap).
+
+**Base Evolutions**: The first time a summoner summons a storykin eidolon, he must select a specific harrow card, typically one that features a creature, such as the Paladin, the Rabbit Prince, or the Tyrant. This choice determines the eidolon's base form, alignment, and overall appearance, as the eidolon resembles the creature from the chosen card. Harrow cards without an obvious creature instead manifest as a generic humanoid creature made of colorful patchwork cloth. A storykin eidolon's alignment matches the alignment of the chosen harrow card and still must be within one step of the summoner's alignment. The suit of the chosen harrow card determines the abilities of the storykin eidolon as it evolves. When the summoner gains a level, he can choose a different harrow card and thus a different base form, alignment, and appearance.
+
+At 1st level, a storykin eidolon gains the resistance (sonic) evolution. In addition, storykin eidolons of the suit of hammers and suit of shields gain a +2 bonus on Fortitude saving throws. Storykin eidolons of the suit of books and suit of keys gain a +2 bonus on Reflex saving throws. Storykin eidolons of the suit of crowns and suit of stars gain a +2 bonus on Will saving throws.
+
+At 4th level, a storykin eidolon gains cold resistance 10 and electricity resistance 10.
+
+At 8th level, a storykin eidolon gains the ability increase evolution, applied to the ability score corresponding to its harrow suit.
+
+At 12th level, a storykin eidolon gains immunity to bleed, poison, and stun. It also gains DR 5/adamantine.
+
+At 16th level, a storykin eidolon loses the resistance (sonic) evolution and instead gains the immunity (sonic) evolution. It also gains immunity to mind-affecting effects.
+
+At 20th level, a storykin eidolon gains immunity to all types of ability damage and ability drain against the ability score corresponding to its harrow suit and immunity to energy drain. It also gains the ability increase evolution again, applied to the same ability score that was increased at 8th level.
 
 ### Twinned
 
@@ -426,6 +508,26 @@ At 12th level, a kami eidolon gains the 4-point version of the fast healing evol
 At 16th level, kami eidolons are immune to bleed, mind-affecting, petrification, and polymorph effects.
 
 At 20th level, a kami eidolon increases the fast healing from its fast healing evolution by 2 points whenever it is within 30 feet of its ward; while the kami is merged with its ward, the ward gains the same amount of fast healing.
+
+### Void
+
+Like the sharp-angled sceaduinars they resemble, void eidolons exult in entropy and resent anything bearing even a hint of life—including their summoners.
+
+**Alignment**: Neutral or neutral evil.
+
+**Base Form**: Biped (bite, limbs [legs], skilled [Stealth], wing buffet).
+
+**Base Evolutions**: Void eidolons have negative energy affinity and are immune to death effects, disease, energy drain, and poison.
+
+At 4th level, void eidolons gain the resistance (cold) evolution. Their natural attacks can strike incorporeal targets as though they were *ghost touch* weapons.
+
+At 8th level, void eidolons can use their wings to fly, gaining the flight evolution. When selecting the energy attacks evolution, void eidolons can instead choose to deal 1d6 points of negative energy damage on a successful hit; this damage does not heal creatures.
+
+At 12th level, void eidolons gain the lifesense ability. They also gain the energy drain ability (1 negative level) with their bite attacks, though they can drain only a total number of levels per day equal to half their Hit Dice (rounded down).
+
+At 16th level, void eidolons lose the resistance (cold) evolution and instead gain the immunity (cold) evolution. They also gain DR 5/adamantine.
+
+At 20th level, void eidolons can bestow up to 2 negative levels with a successful bite attack, and the number of negative levels they can bestow per day increases by their Constitution modifier. Their damage reduction increases to DR 10/adamantine.
 
 ## Base Forms
 

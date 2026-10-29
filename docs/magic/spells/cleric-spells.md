@@ -200,6 +200,7 @@
 - **[Endure Elements, Communal](endure-elements-communal.md)**: As endure elements, but you may divide the duration among creatures touched.
 - **[Enemy’s Heart](enemy-s-heart.md)**: You cut out an enemy’s heart and consume it, absorbing that enemy’s power as your own.
 - **[Enthrall](enthrall.md)**: Captivates all within 100 ft. + 10 ft./level.
+- **[Eroding Ray](eroding-ray.md)**: Rays crumble constructs and objects.
 - **[Fear the Sun](fear-the-sun.md)**: targets gain light blindness
 - **[Find Traps](find-traps.md)**: Notice traps as a rogue does.
 - **[Flickering Lights](flickering-lights.md)**: Create an area of inconsistent lighting.
@@ -365,6 +366,7 @@
 - **[Free Spirit](free-spirit.md)**: Gain freedom of movement and fear resistance, but be drunk
 - **[Glyph of Warding](glyph-of-warding.md)**: Inscription harms those who pass it.
 - **[Guarding Knowledge](guarding-knowledge.md)**: +4 insight bonus on saves against one identified monster special attack.
+- **[Healing Leak](healing-leak.md)**: Halve the target's healing from positive or negative energy.
 - **[Helping Hand](helping-hand.md)**: Ghostly hand leads subject to you.
 - **[Hide from Undead, Greater](hide-from-undead-greater.md)**: As hide from undead, but not ended by hostile acts.
 - **[Holy Javelin](holy-javelin.md)**: Deal ongoing damage to evil creatures and apply penalties.
@@ -384,6 +386,7 @@
 - **[Magic Vestment](magic-vestment.md)**: Armor or shield gains +1 enhancement per four levels.
 - **[Mark of Buoyancy](mark-of-buoyancy.md)**: make an object lighter than air
 - **[Meld into Stone](meld-into-stone.md)**: You and your gear merge with stone.
+- **[Minor Reversion](minor-reversion.md)**: Absorb strength from an imperfect replica to heal.
 - **[Monstrous Extremities](monstrous-extremities.md)**: Change limbs into tentacles, hooves, or wings.
 - **[Oath of Justice](oath-of-justice.md)**: Seal an oath between two creatures; breakers are marked.
 - **[Obscure Object](obscure-object.md)**: Masks object against scrying.
@@ -404,6 +407,7 @@
 - **[Remove Disease](remove-disease.md)**: Cures all diseases affecting subject.
 - **[Resist Energy, Communal](resist-energy-communal.md)**: As resist energy, but you may divide the duration among creatures touched.
 - **[Returning Weapon, Communal](returning-weapon-communal.md)**: As returning weapon, but you may divide the duration among weapons touched.
+- **[Righteous Condemnation](righteous-condemnation.md)**: Nongood, nonlawful spellcasters who target you take penalties on mental ability checks.
 - **[Riversight](riversight.md)**: Scry along a river you touch.
 - **[Sadomasochism](sadomasochism.md)**: Pain empowers your attacks and demoralizes attackers.
 - **[Screaming Flames](screaming-flames.md)**: Send forth a wave of flames screaming with the agony of the damned.
@@ -536,6 +540,7 @@
 - **[Seek Shelter](seek-shelter.md)**: Weak creatures flee to safety in an orderly fashion.
 - **[Sending](sending.md)**: Delivers short message anywhere, instantly.
 - **[Shadow Barbs](shadow-barbs.md)**: Shadowy vicious spiked chain that radiates darkness.
+- **[Speak with Plane](speak-with-plane.md)**: Question a sentient plane.
 - **[Spell Immunity](spell-immunity.md)**: Subject is immune to one spell per 4 levels.
 - **[Spindrift Spritz, Mass](spindrift-spritz-mass.md)**: As spindrift spritz, affecting multiple creatures.
 - **[Summon Genie, Lesser](summon-genie-lesser.md)**: Summons a janni.
@@ -598,6 +603,7 @@
 - **[Flexile Curse](flexile-curse.md)**: Curse degrades worn armor and shields.
 - **[Geniekind](geniekind.md)**: Gain genie-themed appearance and powers.
 - **[Ghoul Army](ghoul-army.md)**: Ghouls and a ghast rise to fight for you and explode.
+- **[Greater Reversion](greater-reversion.md)**: Absorb strength from a replica of yourself to heal.
 - **[Half-blood Extraction](half-blood-extraction.md)**: You transform the target half-orc into a full-blooded orc.
 - **[Hallow](hallow.md)**: Designates location as holy.
 - **[Hasten Judgment](hasten-judgment.md)**: Quicken a soul's journey to judgment, hampering resurrection or weakening undead foes
@@ -637,6 +643,7 @@
 - **[Symbol of Pain](symbol-of-pain.md)**: Triggered rune wracks nearby creatures with pain.
 - **[Symbol of Sleep](symbol-of-sleep.md)**: Triggered rune puts nearby creatures into catatonic slumber.
 - **[Symbol of Striking](symbol-of-striking.md)**
+- **[Talisman of Reprieve](talisman-of-reprieve.md)**: Allies ignore planar alignment penalties.
 - **[Toast to Freedom](toast-to-freedom.md)**: Teleport a creature 15 feet, freeing it from bonds.
 - **[Tongues, Communal](tongues-communal.md)**: As tongues, but you may divide the duration among creatures touched.
 - **[Touch of Slumber](touch-of-slumber.md)**: Nonhostile creature falls asleep for hours.
@@ -699,6 +706,7 @@
 - **[Knock, Mass](knock-mass.md)**: Open many locks or closures at once
 - **[Mage’s Decree](mages-decree.md)**: Send a message to creatures within miles.
 - **[Metabolic Molting](metabolic-molting.md)**: seven days of encased healing, even bringing back the recently dead
+- **[Minor Reversion, Mass](minor-reversion-mass.md)**: As minor reversion, but affects many creatures.
 - **[Music of the Spheres](music-of-the-spheres.md)**: Fast healing, resistance, and save bonuses for all in the area.
 - **[Neutralize Poison, Greater](neutralize-poison-greater.md)**: As neutralize poison, but it also reverses poison damage.
 - **[Oasis](oasis.md)**: Creates a permanent spring.

@@ -13,6 +13,26 @@ The arcane adept has collected useful magical gear to ensure her success on her 
 **Other Gear**: Backpack, bedroll, belt pouch, candles (5), chalk (5 pieces), flint and steel, ink, inkpen, ioun torch, journal, magnifying glass, mess kit, scroll box, silk rope (50 ft.), spell component pouch, trail rations (5 days), waterskin, 3 gp.  
 **Total Weight**: 45 lbs. (28-3/4 lbs. for a Small character).
 
+## Blessed Warden Package
+
+A blessed warden is prepared to protect herself against the horrors of evil-aligned planes. This equipment package is suitable for clerics, druids, inquisitors, oracles, and paladins. The specific gear is appropriate for those visiting the chaotic evil Abyss but can be adjusted to suit other evil-aligned planes, such as swapping the scrolls of *protection from chaos* for scrolls of *protection from law* for a package designed for travel to a lawful evil plane.
+
+**Armor**: Masterwork chain shirt.  
+**Weapons**: Cold iron shortspear, light crossbow with 20 crossbow bolts.  
+**Combat Gear**: Holy water (3), scrolls of *cure light wounds* (2), scrolls of *protection from chaos* (2), scrolls of *protection from evil* (2), scroll of *remove curse*.  
+**Other Gear**: Backpack, bedroll, candles (5), chalk (5 pieces), crowbar, ioun torch, mess kit, shovel, silk rope (50 ft.), spell component pouch, trail rations (5 days), waterskin, wooden holy symbol, 13 gp.  
+**Total Weight**: 74 lbs. (44-1/2 lbs. for a Small character).
+
+## Corporeal Warrior Package
+
+Normal equipment is ill suited to fighting intangible foes, and a warrior bound for the Ethereal Plane must be prepared for incorporeal threats lurking in the ever-present mists. This equipment package is suitable for fighters and paladins. If the PC can cast spells, add a spell component pouch.
+
+**Armor**: Masterwork breastplate.  
+**Weapons**: Heavy crossbow with 10 bolts, heavy mace, masterwork longsword.  
+**Combat Gear**: Alchemist's fire, *potion of mage armor*, *potion of shield*, *oil of magic weapon*.  
+**Other Gear**: Backpack, bedroll, candles (5), chalk (5 pieces), crowbar, ioun torch, mess kit, shovel, silk rope (50 ft.), trail rations (5 days), waterskin, 10 gp.  
+**Total Weight**: 87 lbs. (48-1/2 lbs. for a Small character).
+
 ## Daring Bravo Package
 
 The daring bravo is equally adept in social situations and combat, with the right equipment to move fluidly from one to the other. Such adventurers are known as much for their flair and panache as their martial prowess, and the daring bravo’s equipment is often ornately ornamented or personalized. This package is good for a bard, fighter, rogue, swashbuckler, or vigilante. Certain cavaliers, investigators, skalds, or even paladins may also find it appealing. If the PC can cast spells, add a spell component pouch.
@@ -51,6 +71,16 @@ This package is designed to provide the most aid to divine casters, such as cler
 **Combat Gear**: Antitoxin, bead of blessing (as a lesser *strand of prayer beads* without the bead of healing), holy water (2), scrolls of *cure light wounds* (2), scroll of *endure elements*.  
 **Other Gear**: Backpack, bedroll, belt pouch, candles (5), chalk (5 pieces), flint and steel, healer’s kit, holy symbol (silver), ioun torch, mess kit, mirror, sack, shovel, silk rope (50 ft.), smelling salts, soap, spell component pouch, trail rations (5 days), waterskin, 4 sp.  
 **Total Weight**: 67 lbs. (39-1/4 lbs. for a Small character).
+
+## Planar Traveler Package
+
+This package equips planar travelers for the challenges of a variety of planar destinations. This package works particularly well for lightly armored combatants, such as bards and rogues. If the PC purchasing it can cast spells, add a spell component pouch as well.
+
+**Armor**: Masterwork studded leather, light wooden shield.  
+**Weapons**: Composite longbow with 20 arrows, masterwork morningstar.  
+**Combat Gear**: Alchemist's fire (3), *potion of air bubble*, potions of *cure light wounds* (2), potions of *endure elements* (2).  
+**Other Gear**: Backpack, bedroll, candles (5), chalk (5 pieces), crowbar, ioun torch, mess kit, shovel, silk rope (50 ft.), trail rations (5 days), waterskin, 11 gp.  
+**Total Weight**: 75 lbs. (42-1/2 lbs. for a Small character).
 
 ## Questing Knight Package
 

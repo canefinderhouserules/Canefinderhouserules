@@ -1,0 +1,11 @@
+# Greater Reversion
+
+**School** conjuration (healing); **Level** cleric 5, psychic 4, sorcerer/wizard 5  
+**Casting Time** 20 minutes  
+**Components** V, S  
+**Range** personal  
+**Target** self  
+**Duration** 24 hours  
+**Saving Throw** none
+
+You create a fine-tuned replica of yourself within a psychic record of reality at the time the spell is cast. You must currently have a number of hit points equal to or greater than half your maximum hit points to cast the spell. If at any time during the duration of the spell you are brought below half your maximum hit points, you can end this spell as an immediate action to absorb strength from your replica and immediately regain a number of hit points equal to 3d8 plus 1 point per caster level (maximum +15).

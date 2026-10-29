@@ -305,6 +305,7 @@ Psychics gain access to the following spells. Spells without a link come from ot
 - **[Mind Thrust II](mind-thrust-ii.md)**: As mind thrust I, but deal 1d8 points of damage per level (maximum 5d8).
 - **[Mindshock](mindshock.md)**: Your attacks deal extra nonlethal damage and can confuse.
 - **[Minor Image](minor-image.md)**: As *silent image*, plus some sound.
+- **[Minor Reversion](minor-reversion.md)**: Absorb strength from an imperfect replica to heal.
 - **[Mirror Hideaway](mirror-hideaway.md)**
 - **[Mirror Image](mirror-image.md)**: Creates decoy duplicates of you.
 - **[Misdirection](misdirection.md)**: Misleads divinations for 1 creature or object.
@@ -606,6 +607,7 @@ Psychics gain access to the following spells. Spells without a link come from ot
 - **[False Future](false-future.md)**: Cause divinations of the future to reveal the result you choose.
 - **[False Life, Greater](false-life-greater.md)**: Gain 2d10 temporary hp + 1/level.
 - **[Fear](fear.md)**: Subjects within cone flee for 1 round/level.
+- **[Fiendish Wrath](fiendish-wrath.md)**: Willing creatures enter a combat frenzy and can rend.
 - **[Fleshworm Infestation](fleshworm-infestation.md)**: Worms deal hp and Dex damage.
 - **[Fool's Teleport](fools-teleport.md)**: Turn invisible while appearing to have teleported away.
 - **[Force Hook Charge](force-hook-charge.md)**: Hook of force drags you to the target.
@@ -617,6 +619,7 @@ Psychics gain access to the following spells. Spells without a link come from ot
 - **[Glimpse of Truth](glimpse-of-truth.md)**: Gain *true seeing* for 1 round.
 - **[Globe of Invulnerability, Lesser](globe-of-invulnerability-lesser.md)**: Stops 1st- through 3rd- level spell effects.
 - **[Greater Hypnotism](greater-hypnotism.md)**: hypnotize more creatures and make several requests
+- **[Greater Reversion](greater-reversion.md)**: Absorb strength from a replica of yourself to heal.
 - **[Hallucinatory Terrain](hallucinatory-terrain.md)**: Makes one type of terrain appear like another (field as forest, or the like).
 - Healing Warmth
 - **[Harvest Knowledge](harvest-knowledge.md)**: Absorb a creature's knowledge
@@ -773,6 +776,7 @@ Psychics gain access to the following spells. Spells without a link come from ot
 - **[Mind Fog](mind-fog.md)**: Subjects in fog get –10 to Wis and Will checks.
 - **[Mind Swap](mind-swap.md)**: Switch minds with another creature for 1 hour per level.
 - **[Mind Thrust V](mind-thrust-v.md)**: As mind thrust IV, but target is exhausted or fatigued for 1 round.
+- **[Minor Reversion, Mass](minor-reversion-mass.md)**: As minor reversion, but affects many creatures.
 - **[Mirage Arcana](mirage-arcana.md)**: As *hallucinatory terrain,* plus structures.
 - **[Modify Memory](modify-memory.md)**: Changes 5 minutes of subject’s memories.
 - **[Nightmare](nightmare.md)**: Sends vision dealing 1d10 damage, fatigue.

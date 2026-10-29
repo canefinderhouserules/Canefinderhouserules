@@ -86,3 +86,13 @@ Aquatic elves, cecaelias, locathahs and tritons are sea-dwelling peoples suited 
 - [Adaros](adaros.md)
 - [Grindylows](grindylows.md)
 - [Sahuagin](sahuagin.md)
+
+## Planar Scions
+
+Options for races with origins tied to the Great Beyond. The core racial traits are not reproduced here.
+
+- [Aphorites](aphorites.md): alternate racial traits, feats, and favored class options.
+- [Duskwalkers](duskwalkers.md): alternate racial traits, feats, origin feats, and favored class options.
+- [Ganzis](ganzis.md): expanded oddities and favored class options.
+- [Shabti](shabti.md): alternate racial traits and favored class options.
+- [Geniekin Heritages](geniekin-heritages.md): eight alternate elemental heritages for ifrits, oreads, sylphs, and undines.

@@ -2766,3 +2766,46 @@ These fine garments come in assorted vibrant colors and are used in the most imp
 **Price** 300 gp; **Weight** —
 
 *Alchemical weapon.* This large flask holds a swarm of angry wasps. A portable hive can be thrown as a splash weapon, and when it hits a grid intersection or a creature, a wasp swarm appears in a 10-foot-by-10-foot square at the point of impact. This swarm does not have the distraction or poison special abilities, and it disperses after 1d4 rounds. Crafting a portable hive requires a successful DC 25 Craft (alchemy) check.
+
+## Planar Power Components
+
+### Cooperation Crystal
+
+**Price** 300 gp; **Weight** —
+
+Planar power components are fragments of pure planar essence. When used as a material component or focus for a spell, a planar power component infuses the spell with planar energy, enhancing the spell's effects. You cannot use a planar component as both a focus and a material component at the same time.
+
+This vibrant blue-green crystal is a distillation of the spirit of cooperation characteristic of the chaotic good plane of Elysium. When you use a cooperation crystal as a material component or focus for a harmless spell, treat your caster level as 1 higher for the purpose of determining the spell's duration and effect. This increase doesn't stack with other effects that raise the caster level of a spell.
+
+### Fire Fragment
+
+**Price** 350 gp; **Weight** —
+
+This small, reddish crystal shard flickers with a brilliant, dancing flame—a representation of the Plane of Fire. When you use a fire fragment as a material component or focus for a spell that deals fire damage, that spell is affected as per the Flaring Spell metamagic feat (though this does not increase the spell slot that the spell uses), and you treat your caster level as 1 higher for the purpose of determining the spell's damage.
+
+### Heavenly Quartz
+
+**Price** 250 gp; **Weight** —
+
+This fragment appears to be made of glass and gold and emits gleaming light, reminiscent of the mountain of a celestial plane. When you use a heavenly quartz as a material component or focus for a spell with the good or lawful descriptor that requires affected creatures to attempt a Will saving throw, increase the DC of that saving throw by 1; if the spell has both the good and lawful descriptors, treat the spell's caster level as if it were 1 higher for the purpose of caster level checks and dispel checks.
+
+### Void Shard
+
+**Price** 250 gp; **Weight** —
+
+This shard seems to absorb the light around it, demonstrating the annihilatory power of the Negative Energy Plane. When you use a void shard as a material component or focus for a spell of the necromancy school, the target takes a –2 penalty on saves against the spell.
+
+### Whimsy Star
+
+**Price** 200 gp; **Weight** —
+
+The shimmering, multicolored whimsy star captures the mutability of the fey realm. When you use a whimsy star as a material component or focus for a spell, roll 1d6 and consult the table below. You can't use magic or other abilities to affect the result of this roll. If a result cannot apply to your spell, then the spell resolves normally. Regardless of the result, the spell slot required to cast the spell doesn't change.
+
+| d6 | Result |
+|---|---|
+| 1 | The spell fails and you are dazzled for 1d4 rounds. |
+| 2 | The spell resolves normally. |
+| 3 | The spell is affected as per the Enlarge Spell metamagic feat. |
+| 4 | The spell is affected as per the Extend Spell metamagic feat. |
+| 5 | The spell is affected as per the Widen Spell metamagic feat. |
+| 6 | The spell is affected as per the Heighten Spell metamagic feat, increasing the spell's level by 1. |

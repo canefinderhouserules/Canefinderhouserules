@@ -368,3 +368,21 @@ The following vigilante talents include techniques favored by unscrupulous heroe
 **Sweeping Strike (Ex)**: The vigilante gains Cleave as a bonus feat. At 6th level, he gains Great Cleave as a bonus feat. He does not need to meet the prerequisites for these feats. At 12th level, while using Great Cleave, he no longer has to hit a target in order to make an additional attack against a foe that is adjacent to that target. Only an avenger vigilante can select this talent.
 
 **Vigilante's Reflexes (Ex)**: The vigilante gains Combat Reflexes as a bonus feat. If he already has the Combat Reflexes feat, he instead gains another feat he qualified for at the level when he chose Combat Reflexes. At 8th and 16th levels, the number of additional attacks of opportunity per round the vigilante can make increases by 1, regardless of the vigilante's Dexterity bonus.
+
+## Arcanist Exploits: Planar Exploits
+
+The following exploits are available to arcanists who have studied the planes extensively and discovered the loopholes written within the planar fabric.
+
+**Focused Summoning (Su)**: When an arcanist is on a plane other than the Material Plane, she can expend 1 point from her arcane reservoir as part of casting a spell that summons a single outsider native to that plane. If she does so, the outsider's attacks bypass all types of DR that it has. For example, an outsider with DR/cold iron and DR/good would bypass both.
+
+**Holy Water Jet (Su)**: The arcanist can unleash a jet of holy water by expending 1 point from her arcane reservoir. This creates a 30-foot line of water that deals damage equal to 1d8 points of damage plus the arcanist's Charisma modifier, plus an additional 1d8 points of damage for every 2 levels beyond 1st (to a maximum of 10d8 at 19th level) to each target in the line that would normally take damage from holy water. Creatures in the area of effect can attempt a Reflex saving throw to halve the damage.
+
+**Orderly Casting (Su)**: The arcanist can tie her spells to the rigid order of a lawful plane, giving them predictable results. As a swift action, she can spend 1 point from her arcane reservoir. For the next minute, her spells deal damage as if she had rolled exactly average on all of the dice, rounded down. To find the average, treat the arcanist as if she had rolled 2-1/2 on all d4s, 3-1/2 on all d6s, 4-1/2 on all d8s, 5-1/2 on all d10s, and 6-1/2 on all d12s. For example, if a 3rd-level arcanist used this exploit and cast *burning hands*, the spell would deal a total of 7 points of damage.
+
+### Greater Planar Exploits
+
+The following greater exploits allow arcanists to forge a deeper connection with planar essence.
+
+**Hellfire Ray (Su)**: When an arcanist uses the flame arc exploit, she can spend 1 additional point from her arcane reservoir to draw the flames from a hellish plane. If she does so, half of the damage she deals is fire, and the other half results directly from unholy power that is not subject to fire resistance. Good creatures that take damage from a hellfire ray must succeed at a Will saving throw or be sickened for 1d4 rounds.
+
+**Chaos Jump (Su)**: The arcanist can call upon the randomness of a plane of pure chaos to move in unpredictable ways. She can expend 1 point from her arcane reservoir as a swift action to gain the benefits of *entropic shield* for 1 minute and move 10 feet in a random direction. For the next minute, she moves 10 feet in a random direction at the end of each of her turns. This movement does not provoke attacks of opportunity or count against her movement for the round. If the movement would end her movement in an occupied space, she instead travels to the nearest unoccupied space.

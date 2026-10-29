@@ -1,0 +1,71 @@
+# Duskwalkers
+
+!!! note "Planar scion options"
+    This page holds the options for this race from the planar player companion. The race's core racial traits are not reproduced on this page; the options below replace or modify those traits.
+
+Born of an ancient pact between a fate-weaving outsider and a judge of the dead, the duskwalkers are the honored dead, souls given the privilege of a single reincarnation. Each had once helped the cause of fate, preserving the cycle of souls by sword or pen, out of duty or kindness or fear. Each had seen his first life end too soon, a thread cut before its fated time. Now, they live again, watched by the psychopomps but free to forge new destinies.
+
+## Alternate Racial Traits
+
+The following racial traits can be selected instead of existing duskwalker racial traits.
+
+**Abandoned**: Some duskwalker children are shunned and feared by their communities, forced to steal and scavenge to survive. Duskwalkers with this racial trait gain a +2 racial bonus on Stealth and Survival checks. This racial trait replaces skilled.
+
+**Fate's Agent**: A few duskwalkers take on more of their patrons' aspects than others. A duskwalker blessed by a fate-weaving outsider is an agent of fate beyond compare. Once per day as a free action, upon making a successful attack, a duskwalker with this racial trait can ignore an amount of DR equal to 10 + his Charisma modifier for that attack. This racial trait replaces ward against corruption.
+
+**Fosterling**: Those duskwalker children fortunate enough to be taken in by warm-hearted families grow up surrounded by parents, siblings, and pets. Duskwalkers with this racial trait gain a +2 racial bonus on Diplomacy and Handle Animal checks. This racial trait replaces skilled.
+
+**Judge's Bailiff**: Duskwalkers tied to the final judges of the dead can draw upon a fraction of their sagacity. Duskwalkers with this racial trait can use their Wisdom modifier when attempting Bluff and Diplomacy checks instead of their Charisma modifier. This racial trait replaces ward against corruption.
+
+## Feats
+
+A duskwalker's unique place between life and death allows her to take the following feats.
+
+- [Experienced Ghost Hunter](../../rules/feats/experienced-ghost-hunter.md)
+- [Ghost Hunting Team](../../rules/feats/ghost-hunting-team.md)
+- [Personal Chronicler](../../rules/feats/personal-chronicler.md)
+
+### Origin Feats
+
+Origin feats are duskwalker racial feats that grant additional powers based on the duskwalker's original cause of death. Generally, a duskwalker can qualify for only a single origin feat, but at the GM's discretion, a duskwalker whose death matches multiple origin feats may be allowed to take more than one.
+
+- [Chance Death](../../rules/feats/chance-death.md)
+- [Deliberate Death](../../rules/feats/deliberate-death.md)
+- [Lonely Death](../../rules/feats/lonely-death.md)
+- [Willing Death](../../rules/feats/willing-death.md)
+
+## Favored Class Options
+
+The following options are available to duskwalkers who have the listed favored class, and unless otherwise stated, the bonus applies each time you select the favored class reward.
+
+**Antipaladin**: Add 1/2 points of damage to the antipaladin's touch of corruption ability (whether using it to heal or harm).
+
+**Arcanist**: Add 1/4 to the arcanist's caster level when casting spells of the necromancy school.
+
+**Bard**: Add 1/2 to the bard's bardic knowledge bonus.
+
+**Cleric**: Add 1/2 point of damage when using positive energy against undead.
+
+**Fighter**: Add 2 to the fighter's Constitution score for the purpose of determining death from negative hit points.
+
+**Investigator**: Add a +1/3 bonus on inspiration rolls applied to Heal, Knowledge, and Linguistics checks.
+
+**Kineticist**: Increase the capacity of the kineticist's internal buffer by 1/6 point.
+
+**Monk**: Add 1/4 point to the monk's ki pool.
+
+**Paladin**: Add 1/2 point to hit points restored by the paladin's lay on hands ability (whether using it to heal or harm).
+
+**Ranger**: Add 1/5 to the ranger's favored enemy bonus against undead. The ranger must have favored enemy (undead) to select this option.
+
+**Rogue**: The rogue gains 1/6 of a new rogue talent.
+
+**Skald**: Add 1/2 to the skald's bardic knowledge bonus.
+
+**Spiritualist**: Add 1 foot to the spiritualist's phantom's base speed. In combat, this option has no effect unless the spiritualist has selected it 5 times (or another increment of 5).
+
+**Vigilante**: Add 1/4 to the penalty inflicted by startling appearance, and a +1/2 bonus on the Intimidate check for frightening appearance.
+
+**Witch**: Add 1/4 to the witch's caster level when casting spells of the necromancy school.
+
+**Wizard**: Add 1/4 to the wizard's caster level when casting spells of the necromancy school.

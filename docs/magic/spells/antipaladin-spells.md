@@ -78,6 +78,7 @@ New antipaladin spells from *Ultimate Magic*. Spells from other books will be ad
 - **[Garrulous Grin](garrulous-grin.md)**: Target seems guilty and takes –4 on Bluff and Diplomacy.
 - **[Ghoul Hunger](ghoul-hunger.md)**: Target is compelled to eat a helpless or dead humanoid.
 - **[Hag's Seasoning](hags-seasoning.md)**: Curse: the target becomes a delicious meal.
+- **[Healing Leak](healing-leak.md)**: Halve the target's healing from positive or negative energy.
 - **[Hidden Blades](hidden-blades.md)**: Weapon becomes invisible and easy to conceal.
 - **[Hungering Beacon](hungering-beacon.md)**: Haunt draws the attention of ravenous undead.
 - **[Ignoble Form](ignoble-form.md)**: a drow takes on a half-elf's form

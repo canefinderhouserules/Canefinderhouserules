@@ -155,6 +155,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Burdened Thoughts](burdened-thoughts.md)**: Target is encumbered and cannot fly.
 - **[Callback](callback.md)**: Teleport a familiar or spirit animal to your side when it is injured.
 - **[Carry Companion](carry-companion.md)**: Turns a willing animal into a stone figurine.
+- **[Celestial Companion](celestial-companion.md)**: Your companion gains spell resistance against evil, DR, and a sacred bonus on saves.
 - **[Commune with Birds](commune-with-birds.md)**: You utter a question in the form of a low-pitched bird call that can be heard up to a mile away, and can.
 - **[Compel Tongue](compel-tongue.md)**: Target can speak and write only in one imparted language.
 - **[Compulsive Liar](compulsive-liar.md)**: Prevent target from speaking the truth.
@@ -352,6 +353,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Gullibility](gullibility.md)**: target believes lies more readily
 - **[Hag's Seasoning](hags-seasoning.md)**: Curse: the target becomes a delicious meal.
 - **[Hallucinatory Decor](hallucinatory-decor.md)**: Reimagine the decor of a structure.
+- **[Healing Leak](healing-leak.md)**: Halve the target's healing from positive or negative energy.
 - **[Healing Thief](healing-thief.md)**: You siphon half of all magical healing that the targeted creature receives.
 - **[Hollow Blades](hollow-blades.md)**: Target's melee damage drops one size.
 - **[Horrifying Visage](horrifying-visage.md)**: Haunt gives victims a phobia of a named thing.
@@ -484,6 +486,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[False Life, Greater](false-life-greater.md)**: Gain 2d10 temporary hp + 1/level.
 - **[Familiar Melding](familiar-melding.md)**: Possess your familiar.
 - **[Fey Form I](fey-form-i.md)**: Assume the form of a Small or Medium fey creature.
+- **[Fiendish Wrath](fiendish-wrath.md)**: Willing creatures enter a combat frenzy and can rend.
 - **[Final Sacrifice](final-sacrifice.md)**: Detonate a summoned creature
 - **[Flame Steed](flame-steed.md)**: Conjure a mount made of flame.
 - **[Flesh Puppet](flesh-puppet.md)**: Control a zombie in human guise.
@@ -536,6 +539,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Share Shape](share-shape.md)**: Beast shape II, limited to your companion's or familiar's kind.
 - **[Skeleton Crew](skeleton-crew.md)**: Animates corpses as skeleton sailors.
 - **[Soul Vault](soul-vault.md)**: Protect a soul from being trapped
+- **[Speak with Plane](speak-with-plane.md)**: Question a sentient plane.
 - **[Summon Genie, Lesser](summon-genie-lesser.md)**: Summons a janni.
 - **[Symbol of Healing](symbol-of-healing.md)**: Triggered rune heals living creatures.
 - **[Symbol of Revelation](symbol-of-revelation.md)**: Triggered symbol reveals illusions.
