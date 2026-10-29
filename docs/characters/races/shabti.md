@@ -1,7 +1,7 @@
 # Shabti
 
-!!! note "Planar scion options"
-    This page holds the options for this race from the planar player companion. The race's core racial traits are not reproduced on this page; the options below replace or modify those traits.
+!!! note "Source note"
+    The core shabti racial traits come from a different source that is not yet in this wiki. The options below replace or modify those traits.
 
 Granted a mortal's face and a mortal's name, shabti are mystic simulacra of rulers who feared both death and the afterlife their actions had earned. Shabti are created to serve out a mortal's punishment in the afterlife in that mortal's place, but some manage to escape or are freed from their unjust sentences by psychopomps. Freed shabti often venture out into the planes to find their own paths.
 

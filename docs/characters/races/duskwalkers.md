@@ -1,9 +1,21 @@
 # Duskwalkers
 
-!!! note "Planar scion options"
-    This page holds the options for this race from the planar player companion. The race's core racial traits are not reproduced on this page; the options below replace or modify those traits.
 
 Born of an ancient pact between a fate-weaving outsider and a judge of the dead, the duskwalkers are the honored dead, souls given the privilege of a single reincarnation. Each had once helped the cause of fate, preserving the cycle of souls by sword or pen, out of duty or kindness or fear. Each had seen his first life end too soon, a thread cut before its fated time. Now, they live again, watched by the psychopomps but free to forge new destinies.
+
+## Duskwalker Racial Traits
+
+Duskwalkers are defined by their class levels—they do not have racial Hit Dice. All duskwalkers have the following racial traits.
+
+- **Ability Score Modifiers**: +2 Dexterity, –2 Constitution, +2 Wisdom. Duskwalkers are agile and wise, but their bodies are fragile.
+- **Type**: Duskwalkers are outsiders with the native subtype.
+- **Size**: Duskwalkers are Medium creatures and have no bonuses or penalties due to their size.
+- **Base Speed**: Duskwalkers have a base speed of 30 feet.
+- **Darkvision**: Duskwalkers can see in the dark up to 60 feet.
+- **Skilled**: Duskwalkers gain a +2 racial bonus on Knowledge (religion) and Heal checks.
+- **Ghost Hunter (Su)**: In a duskwalker's hands, any weapon can strike true against spectral beings. A duskwalker's nonmagical weapons deal half damage to incorporeal creatures, as if they were magic weapons, and her magic weapons can deal critical hits and precision damage, even if they do not have the *ghost touch* property. Once per day as a standard action, a duskwalker can focus her natural revulsion toward undead. If she does so, she treats all weapons she wields as if they had the *ghost touch* property for 1 minute.
+- **Ward against Corruption (Ex)**: Duskwalkers gain a +2 racial bonus on saving throws against negative energy and death effects, as well as the spell-like and supernatural abilities of undead and sahkils. They are immune to all abilities that would transform their bodies or souls into undead.
+- **Languages**: Duskwalkers begin play speaking Common and one of the following: Abyssal, Celestial, or Infernal. Duskwalkers with high Intelligence scores can choose from the following bonus languages: Abyssal, Celestial, Draconic, Dwarven, Elven, Halfling, Infernal, or Protean.
 
 ## Alternate Racial Traits
 

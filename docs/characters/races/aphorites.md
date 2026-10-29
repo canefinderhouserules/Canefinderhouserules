@@ -1,9 +1,22 @@
 # Aphorites
 
-!!! note "Planar scion options"
-    This page holds the options for this race from the planar player companion. The race's core racial traits are not reproduced on this page; the options below replace or modify those traits.
 
 Created by infusing mortal bodies with the ordered essence of a plane of perfect law, aphorites were forged to serve as an interface between that plane's inhabitants and its visitors. Though aphorites were originally nearly identical in form and function to their creators, the spark of free will that defines them meant that they soon came to diversify and integrate with the mortal societies they were meant to guide. Having an inclination toward law tempered with an individuality not present in their creators, aphorites have spread across the Material Plane, where they seek their own paths.
+
+## Aphorite Racial Traits
+
+Aphorites are defined by their class levels—they do not have racial Hit Dice. All aphorites have the following racial traits.
+
+- **Ability Score Modifiers**: +2 Strength, +2 Intelligence, –2 Dexterity. Aphorites are strong and intelligent, but move and react somewhat stiffly.
+- **Type**: Aphorites are outsiders with the native subtype.
+- **Size**: Aphorites are Medium creatures and have no bonuses or penalties due to their size.
+- **Base Speed**: Aphorites have a base speed of 30 feet.
+- **Darkvision**: Aphorites can see in the dark up to 60 feet.
+- **Skilled**: Aphorites gain a +2 racial bonus on checks with a single Craft skill of their choice.
+- **Spell-Like Ability**: Aphorites can use *protection from chaos* once per day as a spell-like ability (caster level equal to the aphorite's class level).
+- **Aphorite Resistances (Ex)**: Aphorites have electricity resistance 5 and a +2 bonus on saves versus poison and mind-affecting effects.
+- **Crystalline Dust (Su)**: An aphorite can manifest a haze of crystalline dust that forms into indistinct runes and glyphs surrounding its body. This effect grants the aphorite a 20% miss chance against melee and ranged attacks. Activating this dust is a move action, but it can be maintained each round as a free action. The effect cannot be disrupted, but it ends immediately if the aphorite is killed, paralyzed, stunned, knocked unconscious, or otherwise prevented from taking a free action to maintain it each round. An aphorite can use this ability a number of rounds per day equal to its Hit Dice, but the rounds do not need to be consecutive.
+- **Languages**: Aphorites speak Common and either Celestial or Infernal. An aphorite with a high Intelligence score can choose from the following as bonus languages: Abyssal, Aquan, Auran, Celestial, Ignan, Infernal, or Terran.
 
 ## Alternate Racial Traits
 

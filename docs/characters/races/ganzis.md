@@ -1,9 +1,37 @@
 # Ganzis
 
-!!! note "Planar scion options"
-    This page holds the options for this race from the planar player companion. The race's core racial traits are not reproduced on this page; the options below replace or modify those traits.
 
 Though they're often mistaken for other planar scions such as aasimars and tieflings, ganzis are mortals whose bloodlines have been infused with chaos—the result of the entropic influence of a plane of pure chaos on the Material Plane rather than of mortals mingling with outsiders. This chaotic touch manifests in the ganzis' quintessential oddities: traits that can range from physical features to magical abilities.
+
+## Ganzi Racial Traits
+
+Ganzis are defined by their class levels—they do not have racial Hit Dice. All ganzis have the following racial traits.
+
+- **Ability Score Modifiers**: +2 Constitution, +2 Charisma, –2 Intelligence. Ganzis are passionate, creative, and resilient, but they have difficulty focusing on intellectual pursuits.
+- **Type**: Ganzis are outsiders with the native subtype.
+- **Size**: Ganzis are Medium creatures and have no bonuses or penalties due to their size.
+- **Base Speed**: Ganzis have a base speed of 30 feet.
+- **Darkvision**: Ganzis can see in the dark up to 60 feet.
+- **Chaos Resistance**: Ganzis have acid resistance 5, electricity resistance 5, and sonic resistance 5, and they gain a +2 racial bonus on saving throws against spells of the polymorph subschool.
+- **Skilled**: Ganzis gain a +2 racial bonus on Sense Motive and Survival checks.
+- **Ganzi Oddity**: See below.
+- **Languages**: Ganzis begin play speaking Common and one of the following: Abyssal, Celestial, or Protean. Ganzis with high Intelligence scores can select any of those languages as bonus languages, along with Aklo, Aquan, Auran, Ignan, Sylvan, or Terran.
+
+### Ganzi Oddity
+
+As creatures infused with the entropic forces of a plane of chaos, all ganzis have a distinct and unusual oddity that manifests as a physical or magical ability that sets the ganzi apart. Typically, a ganzi's oddity is chosen from the most common manifestations of entropy listed below, but other, more unique oddities can certainly exist. The numbers listed for each option can be used to randomly determine what form of ganzi oddity a particular ganzi might have, at the GM's option, but the quibble ability is the most common. The [expanded oddities](#expanded-oddities) below offer additional options.
+
+**1–2: Chaos Champion (Su)**: Ganzis with a lineage linked to the einherji often become crusaders for the forces of entropy and excel in combat against lawful beings. The ganzi can smite law once per day as a swift action, targeting a lawful foe. She adds her Charisma modifier as a bonus on attack rolls and gains a bonus on damage rolls equal to her Hit Dice. Once activated, smite law persists until the target is dead or the ganzi rests, whichever comes first.
+
+**3–4: Entropic Flesh (Ex)**: Ganzis with lineages that link strongly to chaos beasts retain some of their ancestors' immunity to transformation. In addition to gaining a +2 bonus on Escape Artist checks and to CMD against grapple combat maneuvers, when such ganzis are affected by a hostile transmutation effect (such as polymorphing or petrification), they can attempt a new saving throw at the start of their next turn to end the effect. They gain a +4 bonus on this second saving throw, but if they fail, the transmutation effect persists as long as it normally would.
+
+**5–6: Prehensile Tail (Ex)**: Ganzis with lineages that are particularly influenced by the presence of proteans often have colorful feathers, scales, or skin, and a long serpentine tail. This tail can be used to carry items. While ganzis with this oddity cannot wield weapons with their tails, they can use their tails to retrieve small, stowed objects carried on their persons as a swift action.
+
+**7–14: Quibble (Su)**: For most ganzis, the influence of chaos is relatively subtle and manifests as an ability to infect others with entropy and unexpected luck (be it good luck or bad). Once per day as an immediate action, a ganzi can twist probability and alter the luck of a single creature within 20 feet, forcing it to reroll a single d20 roll it has just made. The target must take the second result, even if it is worse. A ganzi can use this ability after the target has rolled but must use it before the GM declares whether the roll was a success or failure. Unwilling creatures can resist a ganzi's quibble with a successful Will save (DC = 10 + half the ganzi's level + the ganzi's Charisma modifier). This is a curse effect.
+
+**15–18: Spell-Like Ability (Sp)**: Ganzis whose chaotic influences rise from regions other than a plane of chaos or its inhabitants often manifest an oddity that duplicates the effects of a specific spell. Such ganzis gain one of the following spell-like abilities, usable once per day at a caster level equal to the ganzi's HD: *alter self*, *blur*, *detect thoughts*, *hideous laughter*, *minor image*, *shatter*, or *spider climb*.
+
+**19–20: Weaponplay (Ex)**: Ganzis with lineages that link to the valkyries manifest their heritage in their skill in combat. Such ganzis are always proficient with all simple and martial weapons, and they can qualify for feats normally available only to fighters (such as Weapon Specialization) even if they don't have any fighter class levels.
 
 ## Archetypes
 
@@ -11,7 +39,7 @@ Though they're often mistaken for other planar scions such as aasimars and tiefl
 
 ## Expanded Oddities
 
-Due to the entropic influence on their compositions, ganzis each have an unusual but defining feature—referred to as an oddity—that sets them apart from other races and even from other members of their own race. These oddities vary wildly from ganzi to ganzi, and they can manifest as physical features, such as feathers, scales, or a tail, or as more subtle magical abilities. At the GM's discretion, players with ganzi characters can roll 1d20 to randomly determine what form their characters' oddities take using the list below.
+At the GM's discretion, players with ganzi characters can instead roll 1d20 on the following list to randomly determine what form their characters' oddities take, or choose from it.
 
 **1–3: Amorphous Limbs (Su)**: The influence of chaos manifests in the ganzi's ability to transform one of her limbs at will, often into a natural weapon such as a massive clawed arm. Every 1d4 rounds as a swift action, a ganzi can transform one of her limbs into a natural melee weapon that deals 1d6 points of damage. The transformation lasts until the beginning of the ganzi's next turn. The damage dealt by this natural weapon can be lethal or nonlethal, at the ganzi's discretion, and she chooses whether the damage type is bludgeoning, piercing, or slashing.
 
