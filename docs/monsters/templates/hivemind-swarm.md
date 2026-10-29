@@ -12,7 +12,7 @@
 
 **Hit Dice:** A hivemind swarm gains at least one racial Hit Die in addition to the Hit Dice of the base creature. The type of racial Hit Die the hivemind swarm gains is the same as that of the base creature. A hivemind swarm can never gain more than 20 racial Hit Dice in this manner.
 
-Saves: The hivemind swarm’s base saves increase as appropriate for a creature of its type as the hivemind swarm gains racial Hit Dice.
+**Saves:** The hivemind swarm’s base saves increase as appropriate for a creature of its type as the hivemind swarm gains racial Hit Dice.
 
 **Defensive Abilities:** A hivemind creature retains all of the base creature’s defensive abilities and special qualities, including all swarm traits. Due to its increased Intelligence score, a hivemind swarm is not immune to mind-affecting effects; since a hivemind swarm has a single mind, mindaffecting effects treat it as a single target despite its numerous separate bodies.
 
@@ -24,9 +24,9 @@ Saves: The hivemind swarm’s base saves increase as appropriate for a creature 
 
 **Ability Scores:** If a base creature’s Intelligence score is 10 or lower, the hivemind swarm gains a base Intelligence score of 11. A hivemind swarm’s Intelligence score increases by 1 point for every Hit Die it gains beyond the base creature’s Hit Dice. If the base creature’s Charisma is lower than 10, the hivemind swarm gains a base Charisma score of 10. For every 4 Hit Dice the hivemind swarm gains beyond the base creature’s Hit Dice, it gains a +1 bonus to an ability score of its choice (this bonus can be applied to Intelligence, and it stacks with the bonus to Intelligence that a hivemind swarm gains for every Hit Die it attains).
 
-BAB: A swarm’s base attack bonus increases as it gains racial Hit Dice as appropriate for a creature of its type.
+**BAB:** A swarm’s base attack bonus increases as it gains racial Hit Dice as appropriate for a creature of its type.
 
-**Feats:** A hivemind swarm loses all feats that the base creature had but gains a number of feats as normal for a creature of its Hit Dice (as presented on Table 1–6 in the Bestiary rules).
+**Feats:** A hivemind swarm loses all feats that the base creature had but gains a number of feats as normal for a creature of its Hit Dice (as presented on the monster advancement rules).
 
 **Skills:** A hivemind swarm loses all skill ranks that the base creature had but has skill ranks per racial Hit Die as defined by its creature type. A hivemind swarm’s class skills are the same as those that its creature type had and also include all Knowledge skills and Spellcraft.
 

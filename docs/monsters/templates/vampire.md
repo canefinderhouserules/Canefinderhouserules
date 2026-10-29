@@ -4,7 +4,7 @@
 
 **CR:** Same as the base creature + 2.
 
-AL: Any evil.
+**Alignment:** Any evil.
 
 **Type:** The creature’s type changes to undead (augmented). Do not recalculate class Hit Dice, BAB, or saves.
 
@@ -42,4 +42,20 @@ AL: Any evil.
 
 ***Shadowless (Ex).*** A vampire casts no shadows and shows no reflection in a mirror.
 
-***Spider Climb (Ex).*** A vampire can climb sheer surfaces as though under the effects of a spider climb spell. Ability Scores Str +6, Dex +4, Int +2, Wis +2, Cha +4. As an undead creature, a vampire has no Constitution score. Skills Vampires gain a +8 racial bonus on Bluff, Perception, Sense Motive, and Stealth checks. Feats Vampires gain Alertness, Combat Reflexes, Dodge, Improved Initiative, Lightning Reflexes, and Toughness as bonus feats. Vampire Spawn A vampire can elect to create a vampire spawn instead of a full-fledged vampire when she uses her create spawn ability on a humanoid creature only. This decision must be made as a free action whenever a vampire slays an appropriate creature by using blood drain or energy drain. A vampire spawn’s statistics are identical to those of a wight, save for the following changes. • It gains the blood drain and dominate vampire special attacks. • It gains channel resistance +2, DR 5/silver, resist cold and electricity 10, fast healing 2, and the vampire qualities listed above (gaseous form, shadowless, and spider climb). • It does not gain the Create Spawn ability. • A vampire spawn gains all of the standard vampire weaknesses. • A vampire spawn is CR 4.
+***Spider Climb (Ex).*** A vampire can climb sheer surfaces as though under the effects of a spider climb spell.
+
+**Ability Scores:** Str +6, Dex +4, Int +2, Wis +2, Cha +4. As an undead creature, a vampire has no Constitution score.
+
+**Skills:** Vampires gain a +8 racial bonus on Bluff, Perception, Sense Motive, and Stealth checks.
+
+**Feats:** Vampires gain Alertness, Combat Reflexes, Dodge, Improved Initiative, Lightning Reflexes, and Toughness as bonus feats.
+
+### Vampire Spawn
+
+A vampire can elect to create a vampire spawn instead of a full-fledged vampire when she uses her create spawn ability on a humanoid creature only. This decision must be made as a free action whenever a vampire slays an appropriate creature by using blood drain or energy drain. A vampire spawn’s statistics are identical to those of a wight, save for the following changes.
+
+- It gains the blood drain and dominate vampire special attacks.
+- It gains channel resistance +2, DR 5/silver, resist cold and electricity 10, fast healing 2, and the vampire qualities listed above (gaseous form, shadowless, and spider climb).
+- It does not gain the Create Spawn ability.
+- A vampire spawn gains all of the standard vampire weaknesses.
+- A vampire spawn is CR 4.

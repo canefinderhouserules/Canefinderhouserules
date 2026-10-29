@@ -12,7 +12,15 @@
 
 **Defensive Abilities:** A shadow lord gains the following defensive abilities.
 
-***Energy Resistance and Damage Reduction (Su).*** A shadow lord gains damage reduction and resistance to cold and electricity based on its Hit Dice, as noted on the table below. This replaces the energy resistance and damage reduction granted by the shadow creature template. Hit Dice Resist Cold and Electricity DR 10/magic 15/magic 20/magic Incorporeal Step (Su): When a shadow lord moves, it gains the incorporeal subtype and quality, including a deflection bonus to AC equal to its Charisma bonus. It loses the incorporeal subtype and special ability when it stops moving.
+***Energy Resistance and Damage Reduction (Su).*** A shadow lord gains damage reduction and resistance to cold and electricity based on its Hit Dice, as noted on the table below. This replaces the energy resistance and damage reduction granted by the shadow creature template.
+
+| Hit Dice | Resist Cold and Electricity | DR |
+|---|---|---|
+| 5–10 | 15 | 10/magic |
+| 11–15 | 20 | 15/magic |
+| 16+ | 30 | 20/magic |
+
+***Incorporeal Step (Su).***  When a shadow lord moves, it gains the incorporeal subtype and quality, including a deflection bonus to AC equal to its Charisma bonus. It loses the incorporeal subtype and special ability when it stops moving.
 
 **Attacks:** A shadow lord gains a melee touch attack that deals 1d6 points of damage (Fortitude negates). The save DC is equal to 10 + 1/2 the shadow lord’s Hit Dice + the shadow lord’s Charisma modifier. On a critical hit, the shadow lord’s touch attack also deals 1 point of Constitution damage (also negated by the saving throw).
 
@@ -20,9 +28,7 @@
 
 ***Cloying Gloom Blast (Su).*** Three times per day, the shadow lord can unleash a 30-foot cone of cloying gloom. On a failed Fortitude saving throw, creatures in the cone are affected by a slow spell (caster level equal to the shadow lord’s Hit Dice) and are blinded for the duration of the slow effect.
 
-**Shadow Creature Spell-Like Abilities:** A shadow lord gains the following spell-like abilities, with a caster level equal to its
-
-**Hit Dice:** at will—ray of sickening UM ; 3/day—shadow conjuration, shadow step UM ; 1/day—greater shadow conjuration (if the shadow lord has 11 or more Hit Dice), shadow walk. A creature created with shadow conjuration or greater shadow conjuration that would normally have a celestial or fiendish template (such as a bear) instead gains the shadow creature template.
+**Spell-Like Abilities:** A shadow lord gains the following spell-like abilities, with a caster level equal to its Hit Dice: at will—ray of sickening; 3/day—shadow conjuration, shadow step; 1/day—greater shadow conjuration (if the shadow lord has 11 or more Hit Dice), shadow walk. A creature created with shadow conjuration or greater shadow conjuration that would normally have a celestial or fiendish template (such as a bear) instead gains the shadow creature template.
 
 **Special Qualities:** A shadow lord gains the following special quality.
 

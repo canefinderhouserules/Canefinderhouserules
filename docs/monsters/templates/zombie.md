@@ -48,11 +48,11 @@
 | Colossal | +10 HD |
  Zombies use their Charisma modifiers to determine bonus hit points (instead of Constitution).
 
-Saves: Base save bonuses are Fort +1/3 HD, Ref +1/3 HD, and Will +1/2 HD + 2.
+**Saves:** Base save bonuses are Fort +1/3 HD, Ref +1/3 HD, and Will +1/2 HD + 2.
 
 **Defensive Abilities:** Zombies lose their defensive abilities and gain all of the qualities and immunities granted by the undead type. Zombies gain DR 5/slashing.
 
-**Speed:** Winged zombies can still fly, but maneuverability drops to clumsy. If the base creature f lew magically, so can the zombie. Retain all other movement types.
+**Speed:** Winged zombies can still fly, but maneuverability drops to clumsy. If the base creature flew magically, so can the zombie. Retain all other movement types.
 
 **Attacks:** A zombie retains all the natural weapons, manufactured weapon attacks, and weapon proficiencies of the base creature. It also gains a slam attack that deals damage based on the zombie’s size, but as if it were one size category larger than its actual size.
 
@@ -60,7 +60,7 @@ Saves: Base save bonuses are Fort +1/3 HD, Ref +1/3 HD, and Will +1/2 HD + 2.
 
 **Abilities:** Str +2, Dex –2. A zombie has no Con or Int score, and its Wis and Cha become 10.
 
-BAB: A zombie’s base attack is equal to 3/4 its Hit Dice.
+**BAB:** A zombie’s base attack is equal to 3/4 its Hit Dice.
 
 **Skills:** A zombie has no skill ranks.
 
@@ -90,4 +90,4 @@ BAB: A zombie’s base attack is equal to 3/4 its Hit Dice.
 
 ***Disease (Su).*** The slam attack—as well as any other natural attacks—of a plague zombie carries the zombie rot disease.
 
-Zombie rot: slam; save Fort DC = 10 + 1/2 the zombie’s Hit Dice + the zombie’s Cha modifier; onset 1d4 days; frequency 1/day; effect 1d2 Con, this damage cannot be healed while the creature is infected; cure 2 consecutive saves. Anyone who dies while infected rises as a plague zombie in 2d6 hours. Appendix 1: Monster Creation Creating a monster is part science and part art. While most monsters follow a general pattern of their overall power and abilities as related to their Challenge Rating (CR), there are many exceptions. Some monsters, for example, have significantly more hit points or a higher AC than the average for their CR, but make up for this advantage by being weak in other areas. Other monsters have significantly higher average damage, but have a lower attack bonus.
+**Zombie rot:** slam; save Fort DC = 10 + 1/2 the zombie’s Hit Dice + the zombie’s Cha modifier; onset 1d4 days; frequency 1/day; effect 1d2 Con, this damage cannot be healed while the creature is infected; cure 2 consecutive saves. Anyone who dies while infected rises as a plague zombie in 2d6 hours. Appendix 1: Monster Creation Creating a monster is part science and part art. While most monsters follow a general pattern of their overall power and abilities as related to their Challenge Rating (CR), there are many exceptions. Some monsters, for example, have significantly more hit points or a higher AC than the average for their CR, but make up for this advantage by being weak in other areas. Other monsters have significantly higher average damage, but have a lower attack bonus.

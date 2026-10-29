@@ -14,7 +14,7 @@
 
 **Skills:** A mutant gains Climb, Intimidate, Knowledge (any one), Perception, Sense Motive, Survival, and Swim as class skills.
 
-Deformities: Each mutant has one of the following deformities. It can take a second deformity to gain a mutation as detailed . A deformity can’t be taken if it wouldn’t disadvantage the mutant.
+**Deformities:** Each mutant has one of the following deformities. It can take a second deformity to gain a mutation as detailed below. A deformity can’t be taken if it wouldn’t disadvantage the mutant.
 
 ***Blind (Ex).*** The mutant can’t see, and gains the blinded condition unless it possesses a means of seeing other than normal vision, darkvision, or low-light vision. This blindness can’t be magically removed.
 
@@ -34,13 +34,13 @@ Deformities: Each mutant has one of the following deformities. It can take a sec
 
 ***Poor Ability (Ex).*** The mutant takes a –4 penalty to one ability score in addition to the normal ability score penalties applied by the template.
 
-***Spasms (Ex).*** When the mutant fails a Ref lex save, for 1 round it can’t take attacks of opportunity or immediate actions and loses its Dexterity bonus to AC, on ranged attack rolls and attack rolls made using finesse weapons, and on ability checks and skill checks.
+***Spasms (Ex).*** When the mutant fails a Reflex save, for 1 round it can’t take attacks of opportunity or immediate actions and loses its Dexterity bonus to AC, on ranged attack rolls and attack rolls made using finesse weapons, and on ability checks and skill checks.
 
 ***Useless Arm (Ex).*** One of the mutant’s arms is malformed and useless.
 
 ***Vulnerability (Ex).*** The mutant is vulnerable to one energy type. If the base creature has innate resistance or immunity to that energy type, it loses those abilities.
 
-Mutations: A mutant gains one of the beneficial mutations below when it acquires this template, plus an additional mutation for every 4 Hit Dice it possesses. By taking an extra deformity (see above), a mutant can add an additional mutation. Only the first extra deformity provides this benefit. A mutant that gains additional Hit Dice after acquiring this template does not gain additional mutations.
+**Mutations:** A mutant gains one of the beneficial mutations below when it acquires this template, plus an additional mutation for every 4 Hit Dice it possesses. By taking an extra deformity (see above), a mutant can add an additional mutation. Only the first extra deformity provides this benefit. A mutant that gains additional Hit Dice after acquiring this template does not gain additional mutations.
 
 ***Armored (Ex).*** The mutant’s natural armor bonus to its AC increases by 2. This ability can be taken multiple times.
 
@@ -76,6 +76,8 @@ Mutations: A mutant gains one of the beneficial mutations below when it acquires
 
 ***Spell-Like Ability (Sp).*** The mutant has one of the following spell-like abilities, usable at will unless noted otherwise: charm monster, charm person, chill metal, deep slumber, dimension door (3/day), dominate person (dominating a new character frees any previously dominated creature), heat metal, mirror image, modify memory, rage, shocking grasp, shout, sleep, suggestion, telekinesis. The mutant’s caster level is equal to its Hit Dice. The mutant can choose only spells with a level no higher than half its Hit Dice. This ability can be taken multiple times, choosing a different spell each time.
 
-***Stench (Ex).*** The mutant has the stench ability, with a duration of 1 minute. Telepathy (Su, Sp): The mutant has telepathy with a range of 100 feet as a supernatural ability and detect thoughts as a spell-like ability, usable at will.
+***Stench (Ex).*** The mutant has the stench ability, with a duration of 1 minute.
+
+***Telepathy (Su, Sp).*** The mutant has telepathy with a range of 100 feet as a supernatural ability and detect thoughts as a spell-like ability, usable at will.
 
 ***Wings (Ex).*** The mutant grows wings, gaining a fly speed of 40 feet with average maneuverability.

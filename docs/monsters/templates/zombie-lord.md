@@ -22,7 +22,7 @@
 
 **Abilities:** Str +2, Dex +2. As an undead, it has no Constitution score.
 
-BAB: A zombie lord’s BAB for its racial HD is equal to 3/4 its HD.
+**BAB:** A zombie lord’s BAB for its racial HD is equal to 3/4 its HD.
 
 **Skills:** A zombie lord gains skill ranks per racial Hit Die equal to 4 + its Int modifier (class skills as the undead type). Skills gained from class levels remain unchanged.
 

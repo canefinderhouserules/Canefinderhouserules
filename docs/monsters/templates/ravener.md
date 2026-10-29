@@ -24,7 +24,7 @@
 
 **Special Attacks:** A ravener retains all of the special attacks of the base creature and gains the following special attacks as described below. All save DCs are equal to 10 + 1/2 the ravener’s HD + the ravener’s Charisma modifier.
 
-***Breath Weapon (Su).*** A ravener keeps the breath weapon of the base creature— the save DC for this breath weapon is now Charisma-based. In addition, a ravener’s breath weapon bestows 2 negative levels on all creatures in the area. A successful Ref lex save halves the damage and reduces the energy drain to 1 negative level. The save DC to remove these negative levels is equal to the ravener’s breath weapon DC. The ravener adds 1 hit point to its soul ward ability for each negative level bestowed in this way.
+***Breath Weapon (Su).*** A ravener keeps the breath weapon of the base creature— the save DC for this breath weapon is now Charisma-based. In addition, a ravener’s breath weapon bestows 2 negative levels on all creatures in the area. A successful Reflex save halves the damage and reduces the energy drain to 1 negative level. The save DC to remove these negative levels is equal to the ravener’s breath weapon DC. The ravener adds 1 hit point to its soul ward ability for each negative level bestowed in this way.
 
 ***Cowering Fear (Su).*** Any creature shaken by the ravener’s frightful presence is cowering instead of shaken for the first round of the effect, and shaken for the rest of the duration. Any creature that is frightened by its frightful presence is instead cowering for the duration.
 

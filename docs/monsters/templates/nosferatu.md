@@ -4,7 +4,7 @@
 
 **CR:** Same as the base creature +2.
 
-AL: Any evil.
+**Alignment:** Any evil.
 
 **Type:** The creature’s type changes to undead (augmented). Do not recalculate class Hit Dice, BAB, or saves.
 

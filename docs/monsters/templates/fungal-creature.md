@@ -24,11 +24,11 @@
 
 ***Poison Spore Cloud (Ex).*** Once per day, a fungal creature can release a choking cloud of spores in a 15-foot-radius spread that lingers in the air for 10 rounds. This cloud functions as an inhaled poison. Any breathing creature in the cloud must succeed at a Fortitude save or inhale the spores. A creature that remains in the area of the spore cloud must continue to attempt Fortitude saves against its effects. Multiple spore clouds from multiple fungal creatures require multiple saves from any creature in an area where the clouds overlap.
 
-Fungal Spores: Poison— inhaled; save Fort DC 10 + 1/2 the fungal creature’s racial Hit Dice + the fungal creature’s Con modifier; frequency 1/round for 6 rounds; effect 1d2 Con damage and fatigued for 1 minute; cure 2 saves.
+**Fungal Spores:** Poison— inhaled; save Fort DC 10 + 1/2 the fungal creature’s racial Hit Dice + the fungal creature’s Con modifier; frequency 1/round for 6 rounds; effect 1d2 Con damage and fatigued for 1 minute; cure 2 saves.
 
 ***Poisonous Blood (Ex).*** A fungal creature’s blood and flesh are ingested poisons. Any creature that makes a bite attack against a fungal creature, swallows one whole, or otherwise ingests part of one must succeed at a Fortitude save or be afflicted by the poison. A fungal creature can drain its own blood to procure an ingested poison that functions as described above. However, its blood has a distinctive and largely unwelcome smell and taste, so most intelligent creatures would refuse to eat food tainted with it unless the taste was thoroughly disguised (which requires a successful DC 15 Profession [cook] check). The fungal creature must deal at least 1 point of damage to itself to get a full dose of poison, and the drawn blood (or amputated flesh) retains its poisonous nature for only 24 hours unless additional living fungal blood is mixed into it.
 
-Fungal Blood or Flesh: Poison—ingested; save Fort DC 10 + 1/2 the fungal creature’s racial Hit Dice + the fungal creature’s Con modifier; frequency 1/minute for 6 minutes; effect 1 Str damage, 1 Dex damage, and nauseated for 1 minute; cure 2 saves.
+**Fungal Blood or Flesh:** Poison—ingested; save Fort DC 10 + 1/2 the fungal creature’s racial Hit Dice + the fungal creature’s Con modifier; frequency 1/minute for 6 minutes; effect 1 Str damage, 1 Dex damage, and nauseated for 1 minute; cure 2 saves.
 
 **Special Qualities:** A fungal creature gains the following.
 

@@ -20,7 +20,20 @@
 
 ***Smite Good (Su).*** Once per day as a swift action it can smite good as the smite evil ability of a paladin of its Hit Dice, except affecting a good target. The smite persists until the target is dead or the half-fiend rests.
 
-**Spell-Like Abilities:** A half-fiend with an Int or Wis score of 8 or higher has a cumulative number of spell-like abilities set by its HD. Unless otherwise noted, an ability is usable 1/day. CL equals the creature’s HD (or the CL of the base creature’s spell-like abilities, whichever is higher). HD Abilities HD Abilities Darkness 3/day 11–12 Blasphemy Desecrate 13–14 Unholy aura 3/day, unhallow Unholy blight 15–16 Horrid wilting Poison 3/day 17–18 Summon monster IX (fiends only) Contagion 19–20 Destruction
+**Spell-Like Abilities:** A half-fiend with an Int or Wis score of 8 or higher has a cumulative number of spell-like abilities set by its HD. Unless otherwise noted, an ability is usable 1/day. CL equals the creature’s HD (or the CL of the base creature’s spell-like abilities, whichever is higher).
+
+| HD | Abilities |
+|---|---|
+| 1–2 | Darkness 3/day |
+| 3–4 | Desecrate |
+| 5–6 | Unholy blight |
+| 7–8 | Poison 3/day |
+| 9–10 | Contagion |
+| 11–12 | Blasphemy |
+| 13–14 | Unholy aura 3/day, unhallow |
+| 15–16 | Horrid wilting |
+| 17–18 | Summon monster IX (fiends only) |
+| 19–20 | Destruction |
 
 **Abilities:** A half-fiend gains a +4 bonus on three ability scores of its choice and a +2 bonus on the other three.
 

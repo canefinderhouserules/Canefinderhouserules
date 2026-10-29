@@ -1,6 +1,6 @@
 # Lich Template
 
-Each lich must create its own phylactery by using the Craft Wondrous Item feat. The character must be able to cast spells and have a caster level of 11th or higher. The phylactery costs 120,000 gp to create and has a caster level equal to that of its creator at the time of creation. The most common form of phylactery is a sealed metal box containing strips of parchment on which magical phrases have been transcribed. The box is Tiny and has 40 hit points, hardness 20, and a break DC of 40. Other forms of phylacteries can exist, such as rings, amulets, or similar items. Creating a Lich “Lich” is an acquired template that can be added to any living creature (referred to hereafter as the base creature), provided it can create the required phylactery. A lich retains all the base creature’s statistics and special abilities except as noted here.
+“Lich” is an acquired template that can be added to any living creature (referred to hereafter as the base creature), provided it can create the required phylactery. A lich retains all the base creature’s statistics and special abilities except as noted here.
 
 **CR:** Same as the base creature + 2.
 
@@ -20,7 +20,7 @@ Each lich must create its own phylactery by using the Craft Wondrous Item feat. 
 
 **Melee Attack:** A lich has a touch attack that it can use once per round as a natural weapon. A lich fighting without weapons uses its natural weapons (if it has any) in addition to its touch attack (which is treated as a primary natural weapon that replaces one claw or slam attack, if the creature has any). A lich armed with a weapon uses its weapons normally, and can use its touch attack as a secondary natural weapon.
 
-Damage: A lich’s touch attack uses negative energy to deal 1d8 points of damage to living creatures + 1 point of damage per 2 Hit Dice possessed by the lich. As negative energy, this damage can be used to heal undead creatures. A lich can take a full-round action to infuse itself with this energy, healing damage as if it had used its touch attack against itself.
+**Damage:** A lich’s touch attack uses negative energy to deal 1d8 points of damage to living creatures + 1 point of damage per 2 Hit Dice possessed by the lich. As negative energy, this damage can be used to heal undead creatures. A lich can take a full-round action to infuse itself with this energy, healing damage as if it had used its touch attack against itself.
 
 **Special Attacks:** A lich gains the two special attacks described below. Save DCs are equal to 10 + 1/2 lich’s HD + lich’s Cha modifier unless otherwise noted.
 
@@ -31,3 +31,7 @@ Damage: A lich’s touch attack uses negative energy to deal 1d8 points of damag
 **Abilities:** Int +2, Wis +2, Cha +2. Being undead, a lich has no Constitution score.
 
 **Skills:** Liches have a +8 racial bonus on Perception, Sense Motive, and Stealth checks. A lich always treats Climb, Disguise, Fly, Intimidate, Knowledge (arcana), Knowledge (religion), Perception, Sense Motive, Spellcraft, and Stealth as class skills. Otherwise, skills are the same as the base creature.
+
+## Phylactery
+
+Each lich must create its own phylactery by using the Craft Wondrous Item feat. The character must be able to cast spells and have a caster level of 11th or higher. The phylactery costs 120,000 gp to create and has a caster level equal to that of its creator at the time of creation. The most common form of phylactery is a sealed metal box containing strips of parchment on which magical phrases have been transcribed. The box is Tiny and has 40 hit points, hardness 20, and a break DC of 40. Other forms of phylacteries can exist, such as rings, amulets, or similar items.

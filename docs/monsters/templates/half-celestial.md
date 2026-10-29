@@ -18,7 +18,20 @@
 
 ***Smite Evil (Su).*** Once per day as a swift action it can smite evil as a paladin of the same level as its Hit Dice. The smite persists until the target is dead or the half-celestial rests.
 
-**Spell-Like Abilities:** A half-celestial with an Int or Wis score of 8 or higher has a cumulative number of spell-like abilities depending on its Hit Dice. Unless otherwise noted, an ability is usable once per day. Caster level equals the creature’s HD (or the caster evel of the base creature’s spell-like abilities, whichever is higher). HD Abilities HD Abilities 1–2 Pro. evil 3/day, bless 11–12 Holy word 3–4 Aid, detect evil 13–14 Holy aura 3/day, hallow 5–6 Cure ser. wounds, neut. poison 15–16 Mass charm monster 7–8 Holy smite, remove disease 17–18 Summon monster IX (celestials only) 9–10 Dispel evil 19–20 Resurrection
+**Spell-Like Abilities:** A half-celestial with an Int or Wis score of 8 or higher has a cumulative number of spell-like abilities depending on its Hit Dice. Unless otherwise noted, an ability is usable once per day. Caster level equals the creature’s HD (or the caster evel of the base creature’s spell-like abilities, whichever is higher).
+
+| HD | Abilities |
+|---|---|
+| 1–2 | Protection from evil 3/day, bless |
+| 3–4 | Aid, detect evil |
+| 5–6 | Cure serious wounds, neutralize poison |
+| 7–8 | Holy smite, remove disease |
+| 9–10 | Dispel evil |
+| 11–12 | Holy word |
+| 13–14 | Holy aura 3/day, hallow |
+| 15–16 | Mass charm monster |
+| 17–18 | Summon monster IX (celestials only) |
+| 19–20 | Resurrection |
 
 **Abilities:** A half-celestial gains a +4 bonus on three ability scores of its choice and a +2 bonus on the other three.
 

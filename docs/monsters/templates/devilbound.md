@@ -28,10 +28,35 @@
 | 17th | Ice devil | 9th |
 **Spell-Like Abilities:** The creature gains the following spell-like abilities, depending on the kind of devil it is bound to. The creature uses its Hit Dice or caster level, whichever is higher, as the caster level for its spell-like abilities. Save DCs are based on the creature’s Intelligence, Wisdom, or Charisma, whichever is highest.
 
-Accuser: 3/day—clairaudience/clairvoyance, invisibility (self only), summon swarm Barbed: 3/day—hold monster Bearded: 3/day—dimension door, rage Belier: 3/day—charm monster Bone: 3/day—fly, invisibility (self only)
+- **Accuser:** 3/day—clairaudience/clairvoyance, invisibility (self only), summon swarm
+- **Barbed:** 3/day—hold monster
+- **Bearded:** 3/day—dimension door, rage
+- **Belier:** 3/day—charm monster
+- **Bone:** 3/day—fly, invisibility (self only)
+- **Contract:** 3/day—bestow curse, detect thoughts, locate creature
+- **Drowning:** 3/day—hydraulic push, water breathing
+- **Erinyes:** 3/day—fear (single target), unholy blight
+- **Handmaiden:** 3/day—black tentacles; 1/day—true seeing
+- **Horned:** 3/day—dispel good, fireball
+- **Host:** 3/day—dimension door, fly
+- **Ice:** 3/day—cone of cold, ice storm
+- **Immolation:** 3/day—fire shield, fireball
+- **Imp:** 3/day—invisibility (self only), polymorph (self only, same size as base creature)
+- **Nemesis:** 3/day—invisibility, scorching ray; 1/day—blasphemy
+- **Pit Fiend:** 3/day—quickened fireball, invisibility; 1/day—blasphemy
 
-Contract: 3/day—bestow curse, detect thoughts, locate creature Drowning: 3/day—hydraulic push, water breathing Erinyes: 3/day—fear (single target), unholy blight Handmaiden: 3/day—black tentacles; 1/day—true seeing Horned: 3/day—dispel good, fireball Host: 3/day—dimension door, fly Ice: 3/day—cone of cold, ice storm Immolation: 3/day—fire shield, fireball Imp: 3/day—invisibility (self only), polymorph (self only, same size as base creature)
+**Abilities:** Adjust the base creature’s ability scores according to the kind of devil it is bound to. 
 
-Nemesis: 3/day—invisibility, scorching ray; 1/day—blasphemy Pit Fiend: 3/day—quickened fireball, invisibility; 1/day—blasphemy
+| Devil | Str | Dex | Con | Int | Wis | Cha |
+|---|---|---|---|---|---|---|
+| Accuser | — | +2 | +2 | — | +2 | — |
+| Barbed, bearded, host | +2 | +2 | +2 | — | — | — |
+| Belier | — | — | — | +2 | +2 | +2 |
+| Bone, ice | — | — | +2 | +2 | +2 | — |
+| Contract, handmaiden | — | — | — | +2 | +2 | +2 |
+| Drowning, horned | +2 | +2 | — | — | — | +2 |
+| Erinyes | — | +2 | +2 | — | — | +2 |
+| Immolation | +2 | — | +2 | — | — | +2 |
+| Imp | — | +2 | — | +2 | — | +2 |
+| Nemesis, pit fiend | +2 to any three different ability scores | | | | | |
 
-**Abilities:** Adjust the base creature’s ability scores according to the kind of devil it is bound to. Devil Accuser Barbed, bearded, host Belier Bone, ice Contract, handmaiden Drowning, horned Erinyes Immolation Imp Nemesis, pit fiend Str Dex Con Int Wis Cha +2 to any three different ability scores

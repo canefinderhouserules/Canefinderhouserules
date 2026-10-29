@@ -1,7 +1,5 @@
 # Ectoplasmic Creature Template
 
-### Creature
-
 “Ectoplasmic” is an acquired template that can be added to any corporeal creature (other than an undead), referred to hereafter as the base creature.
 
 **Challenge Rating:** Same as the base creature +1.
@@ -10,15 +8,27 @@
 
 **Type:** The creature’s type changes to undead. It retains any subtype except for alignment subtypes (such as evil) and subtypes that indicate kind (such as giant). It does not gain the augmented subtype. It uses all the base creature’s statistics and special abilities except as noted in the following sections.
 
-**Armor Class:** The creature’s natural armor bonus changes as follows: Ectoplasm Size Tiny or smaller Small Medium Large Huge Gargantuan Colossal Natural Armor Bonus
+**Armor Class:** The creature’s natural armor bonus changes as follows: 
+
+| Ectoplasm Size | Natural Armor Bonus |
+|---|---|
+| Tiny or smaller | +0 |
+| Small | +1 |
+| Medium | +2 |
+| Large | +3 |
+| Huge | +4 |
+| Gargantuan | +6 |
+| Colossal | +8 |
+
+
 
 **Hit Dice:** Drop HD gained from class levels (to a minimum of 1 HD) and change racial Hit Dice to d8s. Ectoplasmic creatures use their Charisma modifiers to determine bonus hit points (instead of Constitution).
 
-Saves: Base save bonuses for racial Hit Dice are Fort +1/3 HD, Ref +1/3 HD, and Will +1/2 HD + 2.
+**Saves:** Base save bonuses for racial Hit Dice are Fort +1/3 HD, Ref +1/3 HD, and Will +1/2 HD + 2.
 
 **Defensive Abilities:** An ectoplasmic creature loses the base creature’s defensive abilities, and gains DR 5/ slashing as well as all of the standard immunities and traits possessed by undead creatures.
 
-**Speed:** Winged ectoplasmic creatures can still fly, but their maneuverability drops to poor if it was initially any better. If the base creature f lew magically, so can the ectoplasmic creature. Retain all other movement types. An ectoplasmic creature gains the ability to traverse the air (as the air walk spell) as a constant effect.
+**Speed:** Winged ectoplasmic creatures can still fly, but their maneuverability drops to poor if it was initially any better. If the base creature flew magically, so can the ectoplasmic creature. Retain all other movement types. An ectoplasmic creature gains the ability to traverse the air (as the air walk spell) as a constant effect.
 
 **Attacks:** An ectoplasmic creature retains all natural weapons of the base creature. It gains a slam attack that deals damage based on the ectoplasmic creature’s size.
 
@@ -28,7 +38,7 @@ Saves: Base save bonuses for racial Hit Dice are Fort +1/3 HD, Ref +1/3 HD, and 
 
 **Abilities:** An ectoplasmic creature receives a +2 bonus to Strength and a +2 bonus to Charisma. An ectoplasmic creature has no Constitution or Intelligence score, and its Wisdom score becomes 10.
 
-BAB: An ectoplasmic creature’s base attack bonus is equal to 3/4 its Hit Dice.
+**BAB:** An ectoplasmic creature’s base attack bonus is equal to 3/4 its Hit Dice.
 
 **Feats:** An ectoplasmic creature loses all feats possessed by the base creature, and gains Toughness as a bonus feat.
 

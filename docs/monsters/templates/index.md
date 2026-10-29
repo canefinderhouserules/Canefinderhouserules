@@ -11,6 +11,7 @@ A template is a set of rules applied to a base creature to turn it into a differ
 - [Lich](lich.md)
 - [Mummified Creature](mummified-creature.md)
 - [Mummy Lord](mummy-lord.md)
+- [Mythic Skeleton](mythic-skeleton.md)
 - [Necrocraft](necrocraft.md)
 - [Nosferatu](nosferatu.md)
 - [Penanggalen](penanggalen.md)

@@ -16,7 +16,21 @@
 
 **Special Attacks:** A divine guardian gains the following.
 
-**Spell-Like Abilities:** A divine guardian has a cumulative number of spell-like abilities depending on its Hit Dice. Unless otherwise noted, these abilities are usable 1/day. CL is equal to the divine guardian’s HD or the CL of the base creature’s spell-like abilities, whichever is higher. HD Abilities Alarm 3/day, dimension door at will (within sacred site only), hold portal Arcane lock, knock 3/day Augury, clairaudience/clairvoyance Dismissal Commune Guards and wards Forbiddance Banishment Repulsion Screen Antipathy
+**Spell-Like Abilities:** A divine guardian has a cumulative number of spell-like abilities depending on its Hit Dice. Unless otherwise noted, these abilities are usable 1/day. CL is equal to the divine guardian’s HD or the CL of the base creature’s spell-like abilities, whichever is higher.
+
+| HD | Abilities |
+|---|---|
+| 1–2 | Alarm 3/day, dimension door at will (within sacred site only), hold portal |
+| 3–4 | Arcane lock, knock 3/day |
+| 5–6 | Augury, clairaudience/clairvoyance |
+| 7–8 | Dismissal |
+| 9–10 | Commune |
+| 11–12 | Guards and wards |
+| 13–14 | Forbiddance |
+| 15–16 | Banishment |
+| 17–18 | Repulsion |
+| 19–20 | Screen |
+| 21+ | Antipathy |
 
 **Special Qualities:** A divine guardian gains the following.
 

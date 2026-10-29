@@ -4,13 +4,53 @@
 
 **Challenge Rating:** Depends on Hit Dice, as follows.
 
-Hit Dice CR XP Alignment: Always neutral evil.
+
+
+| Hit Dice | CR | XP |
+|---|---|---|
+| 1 | 1/4 | 100 |
+| 2 | 1/2 | 200 |
+| 3–4 | 1 | 400 |
+| 5–6 | 2 | 600 |
+| 7–8 | 3 | 800 |
+| 9–10 | 4 | 1,200 |
+| 11–12 | 5 | 1,600 |
+| 13–15 | 6 | 2,400 |
+| 16–17 | 7 | 3,200 |
+| 18–20 | 8 | 4,800 |
+| 21–24 | 9 | 6,400 |
+| 25–28 | 10 | 9,600 |
+
+**Alignment:** Always neutral evil.
 
 **Type:** The creature’s type changes to undead. It retains any subtype except for alignment subtypes and subtypes that indicate kind. It does not gain the augmented subtype. It uses the base creature’s abilities except as noted below.
 
-**Armor Class:** The base creature’s natural armor changes as follows. Exoskeleton Size Tiny or smaller Small Medium Large Huge Gargantuan Colossal Natural Armor Bonus
+**Armor Class:** The base creature’s natural armor changes as follows. 
 
-**Hit Dice:** An exoskeleton retains the number of Hit Dice the base creature had, and gains a number of additional Hit Dice as noted on the following table. If the base creature has more than 20 Hit Dice, it can’t be made into an exoskeleton by the animate dead spell. An exoskeleton uses its Charisma modifier (instead of its Constitution modifier) to determine bonus hit points. Exoskeleton Size Tiny or smaller Small or Medium Large Huge Gargantuan Colossal Bonus Hit Dice Saves: Base save bonuses are Fort +1/3 Hit Dice, Ref +1/3 Hit Dice, and Will +1/2 Hit Dice + 2.
+| Exoskeleton Size | Natural Armor Bonus |
+|---|---|
+| Tiny or smaller | +0 |
+| Small | +1 |
+| Medium | +2 |
+| Large | +3 |
+| Huge | +4 |
+| Gargantuan | +7 |
+| Colossal | +11 |
+
+
+
+**Hit Dice:** An exoskeleton retains the number of Hit Dice the base creature had, and gains a number of additional Hit Dice as noted on the following table. If the base creature has more than 20 Hit Dice, it can’t be made into an exoskeleton by the animate dead spell. An exoskeleton uses its Charisma modifier (instead of its Constitution modifier) to determine bonus hit points. 
+
+| Exoskeleton Size | Bonus Hit Dice |
+|---|---|
+| Tiny or smaller | — |
+| Small or Medium | +1 |
+| Large | +2 |
+| Huge | +4 |
+| Gargantuan | +6 |
+| Colossal | +10 |
+
+**Saves:** Base save bonuses are Fort +1/3 Hit Dice, Ref +1/3 Hit Dice, and Will +1/2 Hit Dice + 2.
 
 **Defensive Abilities:** Exoskeletons lose their defensive abilities and gain all of the qualities and immunities granted by the undead type. In addition, exoskeletons gain DR 5/bludgeoning.
 
@@ -22,7 +62,7 @@ Hit Dice CR XP Alignment: Always neutral evil.
 
 **Abilities:** An exoskeleton’s Strength increases by 2. The exoskeleton has no Constitution or Intelligence score, and its Wisdom and Charisma scores change to 10.
 
-BAB: An exoskeleton’s base attack bonus is equal to 3/4 of its Hit Dice.
+**BAB:** An exoskeleton’s base attack bonus is equal to 3/4 of its Hit Dice.
 
 **Skills:** Though most vermin are mindless and have no skill ranks, the exoskeleton loses all skill ranks if it had any, and it doesn’t retain any racial bonuses it had.
 

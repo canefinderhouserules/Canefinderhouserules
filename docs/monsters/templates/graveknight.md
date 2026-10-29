@@ -28,7 +28,7 @@
 
 ***Channel Destruction (Su).*** Any weapon a graveknight wields seethes with energy, and deals an additional 1d6 points of damage for every 4 Hit Dice the graveknight has. This additional damage is of the energy type determined by the ruinous revivification special quality.
 
-***Devastating Blast (Su).*** Three times per day, the graveknight may unleash a 30-foot cone of energy as a standard action. This blast deals 2d6 points of damage for every 3 Hit Dice a graveknight has (Ref lex for half ). This damage is of the energy type determined by the graveknight’s ruinous revivification special quality.
+***Devastating Blast (Su).*** Three times per day, the graveknight may unleash a 30-foot cone of energy as a standard action. This blast deals 2d6 points of damage for every 3 Hit Dice a graveknight has (Reflex for half ). This damage is of the energy type determined by the graveknight’s ruinous revivification special quality.
 
 ***Undead Mastery (Su).*** As a standard action, a graveknight can attempt to bend any undead creature within 50 feet to its will. The targeted undead must succeed at a Will save or fall under the graveknight’s control. This control is permanent for unintelligent undead; an undead with an Intelligence score is allowed an additional save every day to break free from the graveknight’s control. A creature that successfully saves cannot be affected again by the same graveknight’s undead mastery for 24 hours. A graveknight can control 5 Hit Dice of undead creatures for every Hit Die it has. If the graveknight exceeds this number, the excess from earlier uses of the ability becomes uncontrolled, as per animate dead.
 

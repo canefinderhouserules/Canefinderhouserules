@@ -20,10 +20,10 @@
 
 **Abilities:** Str +2, Dex +2. As undead, it has no Constitution score.
 
-BAB: Its BAB for racial HD equals 3/4 of its HD.
+**BAB:** Its BAB for racial HD equals 3/4 of its HD.
 
 **Skills:** Gains skill ranks per racial Hit Die equal to 4 + its Int modifier. Class skills for racial HD are Climb, Disguise, Fly, Intimidate, Knowledge (arcana), Knowledge (religion), Perception, Sense Motive, Spellcraft, and Stealth. Skills gained from class levels remain unchanged.
 
 **Feats:** A skeletal champion gains Improved Initiative as a bonus feat.
 
-Saves: Base save bonuses for racial Hit Dice are Fort +1/3 HD, Ref +1/3 HD, and Will +1/2 HD + 2.
+**Saves:** Base save bonuses for racial Hit Dice are Fort +1/3 HD, Ref +1/3 HD, and Will +1/2 HD + 2.

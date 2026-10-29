@@ -10,7 +10,7 @@
 
 **Defensive Abilities:** As a being of mental energy, tulpas naturally resist mental attacks. It gains a +4 racial bonus on saving throws to resist mind-affecting effects.
 
-Psychic Magic: A tulpa is able to use a limited amount of psychic magic, though only to affect itself or its creator. The tulpa can store a maximum amount of psychic energy equal to 3 + its Hit Dice. The tulpa can use burst of adrenaline (1 PE), burst of insight (1 PE), ego whip I (3 PE), levitate (2 PE), and paranoia OA (2 PE) as psychic magic spells. If the tulpa has at least 9 Hit Dice, it can also use create mindscape (5 PE), foster hatred OA (5 PE), mind probe (4 PE), and possession OA (5 PE). A tulpa’s caster level equals its Hit Dice.
+**Psychic Magic:** A tulpa is able to use a limited amount of psychic magic, though only to affect itself or its creator. The tulpa can store a maximum amount of psychic energy equal to 3 + its Hit Dice. The tulpa can use burst of adrenaline (1 PE), burst of insight (1 PE), ego whip I (3 PE), levitate (2 PE), and paranoia OA (2 PE) as psychic magic spells. If the tulpa has at least 9 Hit Dice, it can also use create mindscape (5 PE), foster hatred OA (5 PE), mind probe (4 PE), and possession OA (5 PE). A tulpa’s caster level equals its Hit Dice.
 
 **Special Qualities:** A tulpa gains the following special qualities.
 

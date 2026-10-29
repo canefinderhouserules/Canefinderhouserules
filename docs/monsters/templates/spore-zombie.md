@@ -12,7 +12,7 @@
 
 **Hit Dice:** The base creature’s Hit Dice + 2.
 
-Saves: The creature’s base save bonuses are Fort +1/3 Hit Dice, Ref +1/3 Hit Dice, and Will +1/2 Hit Dice + 2.
+**Saves:** The creature’s base save bonuses are Fort +1/3 Hit Dice, Ref +1/3 Hit Dice, and Will +1/2 Hit Dice + 2.
 
 **Defensive Abilities:** Spore zombies gain all of the qualities and immunities granted by the undead type, and retain all defensive abilities that the base creature had.
 
