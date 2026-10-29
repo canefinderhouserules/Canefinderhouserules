@@ -1,108 +1,106 @@
 # Planar Traits
 
-Each plane of existence has its own properties: the natural laws of its universe. Planar traits are broken down into four general areas: physical, elemental and energy, alignment, and magic. See [The Planes](the-planes.md) for an overview of the types of planes.
+Reality is not the constant a rational creature might like to think it is. Leaving the Material Plane means leaving behind many of the constants of ordinary existence. Each plane defines its own reality, and in some cases this reality is far from stable. Seven categories of traits summarize the nature of reality within each realm: gravity, time, realm, structural, essence, alignment, and magic. See [The Planes](the-planes.md) for an overview of the types of planes and [Planar Exploration](planar-exploration.md) for details on individual planes.
 
-## Physical Traits
+## Gravity Traits
 
-The two most important natural laws set by physical traits are how gravity works and how time passes. Other physical traits pertain to the size and shape of a plane and how easily its nature can be altered.
+**Normal Gravity**: Most planes have gravity similar to that of the Material Plane, either because the plane consists of planets with their own gravitational fields or because "down" is always toward the ground. The usual rules for physical ability scores, carrying capacity, and encumbrance apply.
 
-### Gravity
+**Heavy Gravity**: Acrobatics, Climb, Ride, and Swim checks incur a –2 penalty, as do all attack rolls. Item weights are effectively doubled, which might affect encumbrance or speed. Weapon ranges are halved. Characters who fall take 1d10 points of damage for each 10 feet fallen, to a maximum of 20d10.
 
-**Normal Gravity**: Most planes have gravity similar to that of the Material Plane. The usual rules for ability scores, carrying capacity, and encumbrance apply. Unless otherwise noted, assume a plane has normal gravity.
+**Light Gravity**: Characters take a +2 circumstance bonus on attack rolls and on Acrobatics and Ride checks. All items weigh half as much, and weapon ranges double. These advantages apply to travelers from other planes as well as natives. Falling characters take only 1d4 points of damage for each 10 feet fallen (maximum 20d4).
 
-**Heavy Gravity**: Gravity is much more intense than on the Material Plane. Acrobatics, Climb, Ride, and Swim checks incur a –2 circumstance penalty, as do all attack rolls. All item weights are effectively doubled, which might affect a character's speed. Weapon ranges are halved. Strength and Dexterity scores are not affected. Characters that fall on a heavy gravity plane take 1d10 points of damage for each 10 feet fallen, to a maximum of 20d10.
+**No Gravity**: Individuals merely float in space, unless other effects provide a direction for gravity's pull. Flight is the most common mode of transport.
 
-**Light Gravity**: Gravity is less intense than on the Material Plane. Characters take a +2 circumstance bonus on attack rolls and on Acrobatics and Ride checks. All items weigh half as much, and weapon ranges double. Strength and Dexterity don't change, but what you can do with such scores does. These advantages apply to travelers from other planes as well as natives. Falling characters take 1d4 points of damage for each 10 feet fallen (maximum 20d4).
+**Objective Directional Gravity**: The strength of gravity is the same as on the Material Plane, but the direction is not the traditional "down" toward the ground. It may pull toward any solid object, at an angle to the surface of the plane (creating a plane that appears to consist entirely of an unending mountainside, for example), or even upward.
 
-**No Gravity**: Individuals merely float in space, unless other resources provide a direction for gravity's pull.
+**Subjective Directional Gravity**: The strength of gravity is the same as on the Material Plane, but each individual chooses the direction of gravity's pull for herself. Such a plane has no gravity for unattended objects and nonsentient creatures. Characters can move normally along a solid surface by imagining "down" below their feet. If suspended in midair, a character "flies" by choosing a "down" direction and "falling" that way. An individual falls 150 feet in the first round and 300 feet in each succeeding round. Movement is straight-line only. To stop, a character must change the designated "down" direction to counteract her fall, reducing her falling speed by one step (from 300 feet to 150 feet, or from 150 feet to 0 feet) each round. Setting a new direction of gravity takes a free action and requires a successful DC 16 Wisdom check; a character can attempt this check once per round. A character who fails receives a +6 bonus on subsequent checks until she succeeds.
 
-**Objective Directional Gravity**: The strength of gravity is the same as on the Material Plane, but the direction is not the traditional "down" toward the ground. It may be down toward any solid object, at an angle to the surface of the plane itself, or even upward. The direction of "down" may vary from place to place within the plane.
+## Time Traits
 
-**Subjective Directional Gravity**: The strength of gravity is the same as on the Material Plane, but each individual chooses the direction of gravity's pull. Such a plane has no gravity for unattended objects and nonsentient creatures. Characters can move normally along a solid surface by imagining "down" near their feet. If suspended in midair, a character "flies" by choosing a "down" direction and "falling" that way. An individual "falls" 150 feet in the first round and 300 feet in each succeeding round. Movement is straight-line only. To stop, one must slow one's movement by changing the designated "down" direction (again moving 150 feet in the new direction in the first round and 300 feet per round thereafter). It takes a DC 16 Wisdom check to set a new direction of gravity as a free action; this check can be made once per round. Any character who fails this check in successive rounds receives a +6 bonus on subsequent checks until he succeeds.
+The passage of time is always subjective for the viewer. Travelers may gain or lose time while moving between planes, but from their point of view, time always passes normally.
 
-### Time
+**Normal Time**: 1 hour on a plane with normal time equals 1 hour on the Material Plane.
 
-The rate at which time passes can vary on different planes, though it remains constant within any particular plane. Time is always subjective for the viewer; travelers may gain or lose time while moving between planes, but from their point of view, time always passes naturally.
-
-**Normal Time**: One hour on a plane with normal time equals 1 hour on the Material Plane. Unless otherwise noted, assume normal time.
-
-**Erratic Time**: Time slows down and speeds up, so an individual may lose or gain time as he moves between such planes and others. To denizens, time flows naturally. As an example, roll d%:
+**Erratic Time**: Time slows down and speeds up, so an individual may lose or gain time as he moves between such planes and others. To creatures present, time flows normally. As an example, roll d%:
 
 | d% | Time on Material Plane | Time on Erratic Time Plane |
 |---|---|---|
-| 01–10 | 1 day | 1 round |
+| 1–10 | 1 day | 1 round |
 | 11–40 | 1 day | 1 hour |
 | 41–60 | 1 day | 1 day |
 | 61–90 | 1 hour | 1 day |
 | 91–100 | 1 round | 1 day |
 
-**Flowing Time**: On some planes the flow of time is consistently faster or slower. One may spend a year on such a plane and return to the Material Plane to find that only 6 seconds have elapsed. When designating how time works on such a plane, put the Material Plane's flow of time first, followed by the flow in the other plane.
+**Flowing Time**: The flow of time is consistently faster or slower. An individual may spend a year on such a plane and return to the Material Plane to find that only 6 seconds have elapsed. When indicating how time works on such planes, list the Material Plane's flow of time first, followed by the flow in the other plane.
 
-**Timeless**: Time still passes, but the effects of time are diminished. How the trait affects hunger, thirst, aging, poison, and healing varies from plane to plane. Once an individual leaves a timeless plane for one where time flows normally, conditions such as hunger and aging occur retroactively. If a plane is timeless with respect to magic, any spell cast with a noninstantaneous duration is permanent until dispelled.
+**Timeless**: Time still passes but the effects of time are diminished. How the trait affects hunger, thirst, aging, afflictions, and healing varies from plane to plane. Once an individual leaves for a plane where time flows normally, conditions such as hunger and aging apply retroactively. If a plane is timeless with respect to magic, any spell cast with a duration other than instantaneous is permanent until dispelled.
 
-### Shape and Size
+## Realm Traits
 
-**Infinite**: The plane goes on forever, though it may have finite components within it. Unless otherwise noted, assume a plane is effectively infinite.
+**Finite**: The plane has defined edges or borders, which may adjoin other planes or be hard borders such as the edge of the world or a great wall. Demiplanes are often finite.
 
-**Finite Shape**: The plane has defined edges or borders, which may adjoin other planes or be hard borders such as the edge of the world or a great wall. Demiplanes are often finite.
+**Immeasurable**: The plane might seem to go on forever; many are so vast that, for all practical purposes, their size is infinite. The Material Plane is close enough to being immeasurable to qualify.
 
-**Self-Contained Shape**: The borders wrap in on themselves, depositing the traveler on the other side of the map. Some spherical planes are examples, but they can also be cubes, tori, or flat expanses with magical edges that teleport the traveler to the opposite edge when crossed.
+**Unbounded**: The borders wrap in on themselves, depositing a traveler who voyages too far on the other side of the map. Unbounded planes can be spheres, cubes, tori, or flat expanses with magical edges that teleport the traveler to the opposite edge when crossed.
 
-### Morphic Traits
+## Structural Traits
 
-This trait measures how easily the basic nature of a plane can be changed.
+Structural traits describe the underlying rules of reality that govern how the denizens and landscape of a plane function. Regardless of its structural traits, a plane can be altered on a whim by a deity's will to a certain extent, greatest within the deity's own realm; demigods are limited to changing their own realms.
 
-**Alterable Morphic**: Objects remain where they are (and what they are) unless affected by physical force or magic. You can change the immediate environment as a result of tangible effort. Unless otherwise noted, assume this trait.
+**Morphic Structure**: Behaves similarly to a plane with a lasting structure, but its realities and physicality can be changed with ease even by nondivine beings.
 
-**Divinely Morphic**: Specific unique beings (deities or similar great powers) can alter objects, creatures, and the landscape, instantly and dramatically. Ordinary characters find these planes similar to alterable planes.
+**Sentient Structure**: The plane responds to the thoughts of the plane itself. Travelers might find the landscape changing as a result of what the plane thinks of them, becoming either more or less hospitable. The influence of a deity or demigod can sometimes supersede the plane's whims, but in most cases a sentient plane constantly works to erode and transform such intrusions.
 
-**Highly Morphic**: Features of the plane change so frequently that it is difficult to keep a particular area stable. Some such planes react dramatically to specific spells, sentient thought, or force of will. Others change for no reason.
+**Lasting Structure**: Objects remain where they are (and what they are) unless affected by physical force or magic. Anyone can change the immediate environment as a result of tangible effort.
 
-**Magically Morphic**: Specific spells can alter the basic material of a plane with this trait.
+**Static Structure**: The plane is unchanging, or resets once change occurs. Visitors cannot affect living residents of the plane or objects the denizens carry in any lasting way. Spells that would affect the plane or its denizens have no effect unless the static trait is removed or suppressed. Spells cast before entering remain in effect. Even moving an unattended object requires a successful DC 16 Strength check, and particularly heavy objects may be impossible to move. Often the plane lists a duration: the amount of time a change can persist before reality resets.
 
-**Sentient**: These planes respond to the thoughts of the plane itself. Travelers might find the landscape changing as a result of what the plane thinks of them, becoming more or less hospitable.
+## Essence Traits
 
-**Static**: These planes are unchanging. Visitors cannot affect living residents of the plane or objects the denizens possess. Spells that would affect those on the plane have no effect unless the static trait is removed or suppressed. Spells cast before entering remain in effect. Even moving an unattended object within a static plane requires a DC 16 Strength check. Particularly heavy objects may be impossible to move.
+Four basic elements (air, earth, fire, and water) and two types of energy (positive and negative) combine in various ways to make up reality. Many planes have no elemental or energy traits; they are noted only when present.
 
-## Elemental and Energy Traits
+**Mixed Essence**: Reality is composed of a mixture of all forms of essence; the Material Plane is the classic example. On the Outer Planes a different form of mixed essence composes reality: quintessence, which forms the basis for all matter and life there and is tied to the nature of the soul. When quintessence duplicates another essence (such as earth or fire), effects that interact with that essence function as expected.
 
-Four basic elements (earth, air, fire, water) and two types of energy (positive and negative) combine to make up everything. Each Inner Plane is dominated by one. Many planes have no elemental or energy traits; they are noted only when present.
+**Air-Dominant**: Consisting mostly of open space, with just a few bits of floating stone or other solid matter. Usually a breathable atmosphere, though regions may include acidic or toxic gas.
 
-**Air-Dominant**: Mostly open space, with a few bits of floating stone or other solid matter. Usually a breathable atmosphere, though it may include clouds of acidic or toxic gas. Creatures of the earth subtype are uncomfortable but take no actual damage.
+**Earth-Dominant**: Mostly solid. Visitors who need to breathe risk suffocation if they don't reach a cavern or other pocket of breathable air. Individuals without the ability to burrow are entombed and must dig their way out (5 feet per full-round action spent digging).
 
-**Earth-Dominant**: Mostly solid. Travelers run the risk of suffocation if they don't reach a cavern or other pocket within the earth. Individuals without the ability to burrow are entombed and must dig their way out (5 feet per turn). Creatures of the air subtype are uncomfortable (difficulty moving) but suffer no other inconvenience.
+**Fire-Dominant**: Composed of flames that continually burn without consuming their fuel source. Extremely hostile to Material Plane creatures; those without resistance or immunity to fire are soon immolated. Unprotected flammable materials catch fire almost immediately, and individuals wearing unprotected flammable clothing catch on fire. All individuals take 3d10 points of fire damage each round. Creatures made of water take 6d10 points of fire damage each round instead.
 
-**Fire-Dominant**: Composed of flames that continually burn without consuming their fuel source. Extremely hostile to Material Plane creatures. Unprotected flammable materials catch fire almost immediately, and those wearing unprotected flammable clothing catch on fire. Individuals take 3d10 points of fire damage every round. Creatures of the water subtype are extremely uncomfortable; those made of water take double damage.
+**Water-Dominant**: Mostly liquid. Visitors who can't breathe water or reach a pocket of air likely drown. Creatures of the fire subtype are extremely uncomfortable, and those made of fire take 1d10 points of damage each round.
 
-**Water-Dominant**: Mostly liquid. Visitors who can't breathe water or reach a pocket of air likely drown. Creatures made of fire take 1d10 points of damage each round.
+**Negative-Dominant**: Planes that drain the life out of travelers, drained of color and devoid of plant and animal life. *Death ward* provides protection as long as the effect lasts, regardless of the strength of the trait.
+- *Minor*: Living creatures take 1d6 points of negative energy damage per round; a creature reduced to 0 hit points or below crumbles into ash. Undead gain fast healing 2 (this does not stack with existing fast healing).
+- *Major*: Each round a living creature must succeed at a DC 25 Fortitude save or incur a negative level. A creature whose negative levels equal its current levels or Hit Dice is slain and becomes a wraith. Undead gain fast healing 5 (does not stack).
 
-**Negative-Dominant**: Vast, empty reaches that suck the life out of travelers. On minor negative-dominant planes, living creatures take 1d6 points of damage per round; at 0 hit points or lower, they crumble into ash. On major negative-dominant planes, each round those within must make a DC 25 Fortitude save or gain a negative level. A creature whose negative levels equal its current levels or Hit Dice is slain, becoming a wraith. *Death ward* protects a traveler from the damage and energy drain.
-
-**Positive-Dominant**: An abundance of life. On a minor positive-dominant plane, colors are brighter, fires hotter, noises louder, and all individuals gain fast healing 2 as an extraordinary ability. On a major positive-dominant plane, a creature must make a DC 15 Fortitude save to avoid being blinded for 10 rounds by the brilliance. Simply being on the plane grants fast healing 5, and those at full hit points gain 5 additional temporary hit points per round, which fade 1d20 rounds after leaving. A creature must make a DC 20 Fortitude save each round that its temporary hit points exceed its normal hit point total, or it explodes in a riot of energy, which kills it.
+**Positive-Dominant**: Planes characterized by an abundance of life.
+- *Minor*: A riotous explosion of life; colors are brighter, fires are hotter, noises are louder. All living individuals gain fast healing 2. Undead take 1d6 points of positive energy damage per round, and at 0 hit points they crumble to ash.
+- *Major*: A creature must succeed at a DC 15 Fortitude save or be blinded for 10 rounds by the brilliance. Living creatures gain fast healing 5, and living creatures at full hit points gain 5 additional temporary hit points per round that last until 1d20 rounds after leaving the plane. A creature that gains temporary hit points this way must attempt a DC 20 Fortitude save each round its temporary hit points exceed its normal maximum hit point total; failure results in the creature exploding in a riot of energy, which kills it. Undead take 3d6 points of positive energy damage per round and are staggered during each round they take this damage.
 
 ## Alignment Traits
 
-Some planes have a predisposition to a certain alignment. The alignment trait affects social interactions there. Alignment traits have a moral component (good or evil) and an ethical component (lawful or chaotic); a plane can have one of each, and each is mildly or strongly evident. No plane can be both good-aligned and evil-aligned, or both law-aligned and chaos-aligned. Neutral-aligned planes stand outside the conflicts between good and evil and law and chaos.
+Alignment traits have a moral component (good or evil) and an ethical component (lawful or chaotic); a plane can have one of each, and each is mildly or strongly evident. No plane can be both good-aligned and evil-aligned, nor both law-aligned and chaos-aligned. Many planes have no alignment traits.
 
-**Mildly Aligned**: Creatures with an alignment opposite that of a mildly aligned plane take a –2 circumstance penalty on all Charisma-based checks. A mildly neutral-aligned plane applies no penalty to anyone.
+**Mildly Aligned**: Creatures with an alignment opposite that of a mildly aligned plane take a –2 penalty on all Charisma-based checks. A mildly neutral-aligned plane applies no penalties.
 
-**Strongly Aligned**: A –2 circumstance penalty applies on all Intelligence-, Wisdom-, and Charisma-based checks made by all creatures not of the plane's alignment. The penalties for the moral and ethical components stack. A strongly neutral-aligned plane applies the penalty to any creature that isn't neutral, once for law/chaos and once for good/evil: neutral good, neutral evil, lawful neutral, and chaotic neutral creatures take a –2 penalty, and lawful good, chaotic good, chaotic evil, and lawful evil creatures take a –4 penalty.
+**Strongly Aligned**: A –2 penalty applies on the Intelligence-, Wisdom-, and Charisma-based checks of all creatures not of the plane's alignment. The penalties for the moral and ethical components stack. A strongly neutral-aligned plane imposes the –2 penalty separately for neutrality with respect to law and chaos and with respect to good and evil; chaotic neutral, lawful neutral, neutral evil, and neutral good creatures take a –2 penalty, and chaotic evil, chaotic good, lawful evil, and lawful good creatures take a –4 penalty.
 
 ## Magic Traits
 
-A plane's magic trait describes how magic works there compared to the Material Plane. Particular locations (such as those under the direct control of deities) may be pockets where a different magic trait applies.
+A plane's magic trait describes how magic works there compared to the Material Plane (which has normal magic). Particular locations, such as those under the direct control of deities, may be pockets where a different magic trait applies. Natives are typically aware of which spells and spell-like abilities are affected, but travelers may have to discover this on their own.
 
-**Normal Magic**: All spells and supernatural abilities function as written. Unless otherwise noted, assume normal magic.
+**Normal Magic**: All spells and supernatural abilities function as written.
 
-**Dead Magic**: No magic at all. Functions in all respects like an *antimagic field*. Divination spells cannot detect subjects within the plane, nor can a spellcaster use *teleport* or another spell to move in or out. The only exception is permanent planar portals, which still function normally.
+**Dead Magic**: No magic at all. The plane functions in all respects as if affected by an *antimagic field*. Divination spells cannot detect subjects within a dead magic plane, and a spellcaster cannot cast *plane shift* or another spell to move in or out. The only exceptions are permanent planar portals, which still function normally.
 
-**Enhanced Magic**: Particular spells and spell-like abilities are easier to use or more powerful. Natives know which are enhanced; travelers may have to discover this. An enhanced spell functions as if its caster level was 2 higher than normal.
+**Enhanced Magic**: Particular spells and spell-like abilities are easier to use or more powerful. An enhanced spell functions as if its caster level were 2 higher than normal.
 
-**Impeded Magic**: Particular spells and spell-like abilities are more difficult to cast. The caster must make a concentration check (DC 20 + the level of the spell). If the check fails, the spell does not function but is still lost as a prepared spell or spell slot. If the check succeeds, the spell functions normally.
+**Impeded Magic**: Particular spells and spell-like abilities are more difficult to cast. The caster must attempt a concentration check (DC 20 + the level of the spell). On a failed check, the spell does not function but is still lost as a prepared spell or spell slot. On a success, the spell functions normally.
 
-**Limited Magic**: Only spells and spell-like abilities meeting particular qualifications work, such as certain schools or subschools, descriptors, or levels (or any combination). Others simply don't work.
+**Limited Magic**: Only spells and spell-like abilities that meet particular qualifications work: certain schools or subschools, descriptors, or levels (or any combination). Others simply fail.
 
-**Wild Magic**: Spells and spell-like abilities function in radically different and sometimes dangerous ways. The caster must make a caster level check (DC 15 + the level of the spell or spell-like ability) for the magic to function normally. Failure means something strange happens; roll d% on the table below.
+**Wild Magic**: Spells and spell-like abilities function in radically different and sometimes dangerous ways. The caster must attempt a caster level check (DC 15 + the level of the spell or spell-like ability) for the magic to function normally. Failure means something strange happens; roll d% on the table below. At the GM's discretion, other effects are possible.
 
 ### Wild Magic Effects
 
@@ -121,35 +119,3 @@ A plane's magic trait describes how magic works there compared to the Material P
 | 60–71 | Nothing happens. The spell does not function. Any material components are not consumed. The spell is not expended (a spell slot or prepared spell can be used again). An item does not lose charges. |
 | 72–98 | The spell functions normally. |
 | 99–100 | The spell functions strongly. Saving throws against the spell incur a –2 penalty. The spell has the maximum possible effect, as if cast with the Maximize Spell feat. If already maximized, there is no further effect. |
-
-## The Material, Transitive and Inner Planes
-
-**Material Plane**: The center of most cosmologies, defining what is considered normal. Traits: normal gravity, normal time, alterable morphic, no elemental or energy traits (specific locations may have them), mildly neutral-aligned, normal magic.
-
-**Shadow Plane**: A dimly lit dimension both coterminous to and coexistent with the Material Plane, a world of black and white. A planar traveler can use it to cover great distances quickly, and with the right spell it can be used to visit other realities. Traits:
-
-- **Magically Morphic**: Parts of the plane continually flow onto other planes, so a precise map is next to impossible. *Shadow conjuration* and *shadow evocation* modify the base material of the plane.
-- **Mildly Neutral-Aligned**.
-- **Enhanced Magic**: Spells with the shadow descriptor are enhanced. *Shadow conjuration* and *shadow evocation* are 30% as powerful as the spells they mimic (instead of 20%); *greater shadow conjuration* and *greater shadow evocation* are 70% (instead of 60%); and *shades* conjures at 90% (instead of 80%). Spells that produce, use, or manipulate darkness are unaffected.
-- **Impeded Magic**: Spells with the light descriptor or that use or generate light or fire are impeded. All light sources have their ranges halved.
-
-**Ethereal Plane**: Coexistent with the Material Plane and often other planes. The Material Plane is visible from the Ethereal Plane but appears muted and indistinct; the latter is usually invisible to those on the Material Plane. Normally, creatures on the Ethereal Plane cannot attack creatures on the Material Plane, and vice versa. A traveler is invisible, insubstantial, and utterly silent to someone on the Material Plane. Traits: no gravity; alterable morphic (little to alter); mildly neutral-aligned; normal magic. Spells function normally but do not cross into the Material Plane, except spells and spell-like abilities with the force descriptor and abjuration spells that affect ethereal beings, which can cross from the Material Plane to the Ethereal Plane. Spellcasters must have some way to detect foes on the Ethereal Plane before targeting them. No magical attacks cross from the Ethereal Plane to the Material Plane, including force attacks.
-
-**Astral Plane**: The space between the inner and outer planes, coterminous with all planes, a great endless expanse of clear silvery sky. Traveling through a portal or projecting one's spirit travels through the Astral Plane; even instantaneous movement briefly touches it. Traits:
-
-- **Subjective Directional Gravity**.
-- **Timeless**: Age, hunger, thirst, afflictions (diseases, curses, and poisons), and natural healing don't function, though they resume when the traveler leaves.
-- **Mildly Neutral-Aligned**.
-- **Enhanced Magic**: All spells and spell-like abilities may be employed as if improved by Quicken Spell or Quicken Spell-Like Ability. Already quickened spells and spells from magic items are unaffected. Spells so quickened are still prepared and cast at their unmodified level. Only one quickened spell or spell-like ability can be cast per round.
-
-**Negative Energy Plane**: A dark, empty place, an eternal pit where a traveler can fall until the plane steals away all light and life. The most hostile of the Inner Planes. Only creatures immune to its life-draining energies can survive. Traits: subjective directional gravity; major negative-dominant (some areas have only the minor trait, and these islands tend to be inhabited); enhanced magic for spells and spell-like abilities that use negative energy (class abilities such as channel negative energy gain a +4 bonus to the save DC to resist); impeded magic for positive energy (including *cure* spells), and characters take a –10 penalty on saving throws to remove negative levels bestowed by an energy drain attack.
-
-**Positive Energy Plane**: Has no surface and is akin to the Plane of Air in its open nature, but every bit of it glows with innate power. An unprotected character swells with power and is then immolated. Visits are brief and travelers must be heavily protected. Traits: subjective directional gravity; major positive-dominant (some regions have the minor trait, and these islands tend to be inhabited); enhanced magic for positive energy (class abilities such as channel positive energy gain a +4 bonus to the save DC); impeded magic for negative energy (including *inflict* spells).
-
-**Plane of Air**: An empty plane of sky above and sky below, the most comfortable and survivable of the Inner Planes. Flying creatures have a great advantage. Traits: subjective directional gravity (inhabitants determine their own "down"; objects not under the motive force of others do not move); air-dominant; enhanced magic for the air descriptor or spells that use, manipulate, or create air (including the Air domain and elemental [air] bloodline); impeded magic for earth (including the Earth domain, elemental [earth] bloodline, and spells that summon earth elementals or outsiders with the earth subtype).
-
-**Plane of Earth**: A solid place of soil and stone, ranging from soft soil to veins of valuable metal. An unwary traveler might be entombed and crushed. Traits: earth-dominant; enhanced magic for earth or stone; impeded magic for air.
-
-**Plane of Fire**: Everything is alight. The ground is great, ever-shifting plates of compressed flame, the air ripples with continual firestorms, and the most common liquid is magma. Fire survives without fuel or air, but flammables brought onto the plane are consumed readily. Traits: fire-dominant; enhanced magic for fire; impeded magic for water.
-
-**Plane of Water**: A sea without a floor or a surface, lit by a diffuse glow, one of the more hospitable inner planes once a traveler can breathe the local medium. The oceans vary between ice cold and boiling hot and between saline and fresh, wracked by currents and tides. Traits: subjective directional gravity (similar to the Plane of Air, but sinking or rising is slower and less dangerous); water-dominant; enhanced magic for water; impeded magic for fire.
