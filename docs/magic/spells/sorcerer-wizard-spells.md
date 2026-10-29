@@ -560,6 +560,8 @@
 - **[Dispel Magic](dispel-magic.md)**: Cancels one magical spell or effect.
 - **[Display Aversion](display-aversion.md)**: an illusion of a vampire's aversion keeps it at bay
 - **[Domination Link](domination-link.md)**: learn about the creature controlling a target's mind
+- **[Draconic Ally](draconic-ally.md)**: Create an intelligent draconic servant.
+- **[Draconic Malice](draconic-malice.md)**: Fear-immune foes lose their immunity to your fear effects.
 - **[Dragon Turtle Shell](dragon-turtle-shell.md)**: Natural attacks against you deal reduced damage.
 - **[Earth Tremor](earth-tremor.md)**: Unleash a tremor that creates difficult terrain and can knock foes down and damage them.
 - **[Ectoplasmic Snare](ectoplasmic-snare.md)**: Tendril of ectoplasm grapples a creature and tethers you to it.
@@ -653,6 +655,7 @@
 - **[Rune of Durability](rune-of-durability.md)**: Double a weapon's hit points.
 - **[Rune of Warding](rune-of-warding.md)**: Inscribe a visible blast glyph on a doorway.
 - **[Scale Spikes, Greater](scale-spikes-greater.md)**: Scale spikes with up to +5 enhancement
+- **[Scales of Deflection](scales-of-deflection.md)**: Touch attacks against you resolve against your normal AC.
 - **[See Beyond](see-beyond.md)**: Meditative spell: large Perception bonus and brief x-ray vision.
 - **[Seed Spies](seed-spies.md)**: Wafting seeds act as spies, as insect spies.
 - **[Selective Alarm](selective-alarm.md)**: As *alarm*, but only against selected creatures.
@@ -664,6 +667,7 @@
 - **[Share Language, Communal](share-language-communal.md)**: As share language, but you may divide the duration among creatures touched.
 - **[Shared Training](shared-training.md)**: grant a teamwork feat to allies
 - **[Shifting Shadows](shifting-shadows.md)**: Shadows make flanking and attacks of opportunity unreliable.
+- **[Shining Scales](shining-scales.md)**: Silver scales grant +5 armor and punish evil creatures caught in your breath.
 - **[Shroud of Innocuity](shroud-of-innocuity.md)**: Targets appear as ordinary locals to every viewer.
 - **[Silt Sphere](silt-sphere.md)**: illusory silt cloud that grants concealment
 - **[Siphon Might](siphon-might.md)**: Drains target's Strength and grants it to an ally.
@@ -688,6 +692,7 @@
 - **[Sunstalker](sunstalker.md)**: Invisible while in sunlight.
 - **[Swarm of Fangs](swarm-of-fangs.md)**: Summon a swarm of flying teeth
 - **[Symbol of Exsanguination](symbol-of-exsanguination.md)**: Triggered rune causes nearby creatures to bleed.
+- **[Tail Strike](tail-strike.md)**: Grow a draconic tail with a slam attack.
 - **[Threefold Face](threefold-face.md)**: Grow three faces; all-around vision and no flanking.
 - **[Threefold Sight](threefold-sight.md)**: Roll three d20 and take the middle result.
 - **[Tongues](tongues.md)**: Speak and understand any language.
@@ -1016,6 +1021,7 @@
 - **[Die for Your Master](die-for-your-master.md)**: Familiar intercepts any attack against you.
 - **[Dismissal](dismissal.md)**: Forces a creature to return to its native plane.
 - **[Dissolution](dissolution.md)**: Make a small object vanish from reality temporarily.
+- **[Draconic Bloodlust](draconic-bloodlust.md)**: Target flies into a violent bloodlust.
 - **[Draconic Suppression](draconic-suppression.md)**: Dragon loses its breath weapon and age-based abilities.
 - **[Dungeonsight](dungeonsight.md)**: Reveals the layout of nearby chambers and passages.
 - **[Duplicate Familiar](duplicate-familiar.md)**: Create a temporary duplicate of a familiar.
@@ -1208,6 +1214,8 @@
 - **[Explode Head](explode-head.md)**: Explode the head of a creature with 20 hp or fewer and deal damage in a 10-ft. radius around it.
 - **[Fey Form II](fey-form-ii.md)**: Assume the form of a Tiny or Large fey creature.
 - **[Flesh Wall](flesh-wall.md)**: Create a wall of zombies.
+- **[Form of the Alien Dragon I](form-of-the-alien-dragon-i.md)**: Become a Medium esoteric or outer dragon.
+- **[Form of the Exotic Dragon I](form-of-the-exotic-dragon-i.md)**: Become a Medium imperial or primal dragon.
 - **[Furious Fire Barrage](furious-fire-barrage.md)**: Throw fireballs fueled by anger.
 - **[Globe of Invulnerability](globe-of-invulnerability.md)**: As *lesser globe of invulnerability*, plus 4th-level spell effects.
 - **[Guards and Wards](guards-and-wards.md)**: Array of magic effects protect area.
@@ -1337,6 +1345,8 @@
 - **[Expel Blood](expel-blood.md)**: Forces a foe’s blood into a hostile fiendish water elemental.
 - **[False Vision, Greater](false-vision-greater.md)**: As *false vision*, but moves with the target.
 - **[Fey Form III](fey-form-iii.md)**: Assume the form of a Diminutive or Huge fey creature.
+- **[Form of the Alien Dragon II](form-of-the-alien-dragon-ii.md)**: Become a Large esoteric or outer dragon.
+- **[Form of the Exotic Dragon II](form-of-the-exotic-dragon-ii.md)**: Become a Large imperial or primal dragon.
 - **[Frost Mammoth](frost-mammoth.md)**: Conjure a rideable snow mammoth.
 - **[Grim Stalker](grim-stalker.md)**: Haunted object curses its next holder with a spectral hound.
 - **[Hero's Magic Army](heros-magic-army.md)**: Grant allies' weapons enhancement bonuses.
@@ -1451,6 +1461,8 @@
 - **[Dimensional Lock](dimensional-lock.md)**: Teleportation and interplanar travel blocked for 1 day/level.
 - **[Fey Gate](fey-gate.md)**: Create a portal that allows travel to the First World.
 - **[Fleeting Memory, Mass](fleeting-memory-mass.md)**: As fleeting memory, but affects multiple creatures.
+- **[Form of the Alien Dragon III](form-of-the-alien-dragon-iii.md)**: Become a Huge esoteric or outer dragon.
+- **[Form of the Exotic Dragon III](form-of-the-exotic-dragon-iii.md)**: Become a Huge imperial or primal dragon.
 - **[Frightful Aspect](frightful-aspect.md)**: You take on a terrifying, Large-sized form of yourself and emit an aura that causes creatures to become shaken or frightened.
 - **[Heart of the Mammoth](heart-of-the-mammoth.md)**: +8 Str/Con, fear immunity, wider crit range against dragons.
 - **[Instant Summons, Greater](instant-summons-greater.md)**: As *instant summons*, but for multiple objects and creatures.

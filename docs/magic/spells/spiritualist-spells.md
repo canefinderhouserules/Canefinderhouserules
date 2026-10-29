@@ -171,6 +171,7 @@ Spiritualists gain access to the following spells. Spells without a link come fr
 - **[Detect Desires](detect-desires.md)**: Learn what creatures desire.
 - **[Dispel Magic](dispel-magic.md)**: Cancels one magical spell or effect.
 - **[Displacement](displacement.md)**: Attacks miss subject 50% of the time.
+- **[Draconic Ally](draconic-ally.md)**: Create an intelligent draconic servant.
 - **[Ectoplasmic Snare](ectoplasmic-snare.md)**: Tendril of ectoplasm grapples a creature and tethers you to it.
 - **[Ethereal Fists](ethereal-fists.md)**: Your claws, unarmed strikes, and touch spells affect ethereal creatures.
 - **[Flesh Puppet](flesh-puppet.md)**: Control a zombie in human guise.
@@ -212,6 +213,7 @@ Spiritualists gain access to the following spells. Spells without a link come fr
 - **[Riding Possession](riding-possession.md)**: As possession, but you observe instead of control the subject.
 - **[Rigor Mortis](rigor-mortis.md)**: Painfully swell a target’s joints.
 - **[Sands of Time](sands-of-time.md)**: Target temporarily ages.
+- **[Scales of Deflection](scales-of-deflection.md)**: Touch attacks against you resolve against your normal AC.
 - **[Sealed Life](sealed-life.md)**: Prevent a creature from transferring life force to or from others.
 - **[Seek Thoughts](seek-thoughts.md)**: Detects thinking creatures’ thoughts.
 - **[Selective Alarm](selective-alarm.md)**: As *alarm*, but only against selected creatures.

@@ -142,6 +142,7 @@ Bloodragers gain access to the following spells. Spells in plain text come from 
 - **[Reaper's Coterie](reapers-coterie.md)**: Weapon gains profane damage bonus for each kill.
 - **[Resist Energy](resist-energy.md)**: Ignores 10 (or more) points of damage/attack from specified energy type.
 - **[Scale Spikes](scale-spikes.md)**: Grow armor spikes from scales
+- **[Scales of Deflection](scales-of-deflection.md)**: Touch attacks against you resolve against your normal AC.
 - **[Scorching Ray](scorching-ray.md)**: Ranged touch attack deals 4d6 fire damage, + 1 ray/four levels (max 3).
 - **[See Invisibility](see-invisibility.md)**: Reveals invisible creatures or objects.
 - **[Shadow Claws](shadow-claws.md)**: Gain shadow claws that damage Strength
@@ -181,6 +182,8 @@ Bloodragers gain access to the following spells. Spells in plain text come from 
 - **[Clay Skin](clay-skin.md)**: Target gains DR 5/adamantine.
 - **[Cloak of Winds](cloak-of-winds.md)**: Creates a whirling screen of strong wind around you.
 - **[Countless Eyes](countless-eyes.md)**: Extra eyes give all-around vision.
+- **[Draconic Ally](draconic-ally.md)**: Create an intelligent draconic servant.
+- **[Draconic Malice](draconic-malice.md)**: Fear-immune foes lose their immunity to your fear effects.
 - **[Draconic Reservoir](draconic-reservoir.md)**: Subject can absorb energy damage and enhance melee attacks with it.
 - **[Earth Tremor](earth-tremor.md)**: Unleash a tremor that creates difficult terrain and can knock foes down and damage them.
 - **[Elemental Aura](elemental-aura.md)**: Creates an aura of energy around you.
@@ -223,10 +226,12 @@ Bloodragers gain access to the following spells. Spells in plain text come from 
 - Resinous Skin
 - **[Rising Water](rising-water.md)**: Conjures a cylinder of calm, swimmable water.
 - **[Runic Overload](runic-overload.md)**: Detonates magical runes with sonic force.
+- **[Shining Scales](shining-scales.md)**: Silver scales grant +5 armor and punish evil creatures caught in your breath.
 - **[Silver Darts](silver-darts.md)**: Cone of silver darts deals 1d6 piercing damage/level, less against armored targets.
 - **[Sleet Storm](sleet-storm.md)**: Hampers vision and movement.
 - **[Slow](slow.md)**: One subject/level takes only one action/round, –1 to AC, Reflex saves, and attack rolls.
 - **[Stinking Cloud](stinking-cloud.md)**: Nauseating vapors, 1 round/level.
+- **[Tail Strike](tail-strike.md)**: Grow a draconic tail with a slam attack.
 - **[Temporary Graft](temporary-graft.md)**: Graft a body part onto yourself to gain one of several benefits.
 - **[Thunderstomp, Greater](thunderstomp-greater.md)**: Trip multiple creatures within
 - **[Toxic Blood](toxic-blood.md)**: Target's blood sprays black adder venom when cut.

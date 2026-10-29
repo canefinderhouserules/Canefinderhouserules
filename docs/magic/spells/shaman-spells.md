@@ -250,6 +250,7 @@ Shamans gain access to the following spells. Spells in plain text come from othe
 - **[Detoxify](detoxify.md)**: Neutralize a creature’s poison attacks.
 - **[Dispel Magic](dispel-magic.md)**: Cancels one magical spell or effect.
 - **[Dominate Animal](dominate-animal.md)**: One animal obeys your silent mental commands and orders.
+- **[Draconic Malice](draconic-malice.md)**: Fear-immune foes lose their immunity to your fear effects.
 - **[Earth Tremor](earth-tremor.md)**: Unleash a tremor that creates difficult terrain and can knock foes down and damage them.
 - **[Ectoplasmic Snare](ectoplasmic-snare.md)**: Tendril of ectoplasm grapples a creature and tethers you to it.
 - Fins to Feet
@@ -433,6 +434,7 @@ Shamans gain access to the following spells. Spells in plain text come from othe
 - Dispel Chaos/evil/good/law
 - **[Darkvault](darkvault.md)**: wards an area so light cannot change its illumination
 - **[Dominate Person](dominate-person.md)**: Controls humanoid telepathically.
+- **[Draconic Bloodlust](draconic-bloodlust.md)**: Target flies into a violent bloodlust.
 - **[Empathy Conduit](empathy-conduit.md)**: Affect a bonded creature by targeting its master, or vice versa.
 - **[Entice Fey, Lesser](entice-fey-lesser.md)**: Entice service from a fey of 6 Hit Dice or fewer.
 - **[Feast on Fear](feast-on-fear.md)**: Targets are panicked, and you gain temporary hit points.

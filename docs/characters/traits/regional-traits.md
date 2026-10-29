@@ -441,3 +441,31 @@ These traits tie characters to a campaign in which a crusading army holds the li
 **Stolen Fury**: You were forced to take part in a demonic ritual as a youth after being captured by cultists. Rather than corrupting your soul, you absorbed the ritual's energy and made it your own before you escaped. Ever since, you've been haunted by nightmares, but you've also turned the ritual's aftereffects to your advantage. When you face demons in combat, those energies bolster your fury, granting you a +2 trait bonus on all combat maneuver checks against demons. *Associated mythic path*: champion.
 
 **Touched by Divinity**: As long as you can remember, you've had an unexplainable interest in one deity in particular. You've always felt calm and at ease in places holy to the deity, and often dream about the god or goddess visiting you. You begin play with a silver holy symbol of your chosen deity for free. In addition, choose one domain associated with your chosen deity. You gain the use of that domain's 1st-level domain spell as a spell-like ability usable once per day (caster level equals your character level). If you are a divine spellcaster, you should be a worshiper of this deity. *Associated mythic path*: hierophant.
+
+## Draconic Legacy Traits
+
+These traits represent ways a character could gain a draconic legacy, and the influence of dragons on regions touched by them.
+
+**Draconic Destiny** *(social)*: Whether you are aware of it or not, the moment of your birth was but one part of a far-reaching machination in a dragon's grand design, and the influence of that mysterious plan makes you a little harder to kill. When dying, you gain a +2 trait bonus on Constitution checks to become stable. In addition, you die from hit point loss only once your hit points equal or exceed a negative amount equal to your Constitution score + 2.
+
+**Draconic Infusion** *(magic)*: You were exposed to an artifact or other powerful magic that infused you with the power of dragons. Choose the acid, cold, electricity, or fire spell descriptor when you take this trait. Once per day for every 2 caster levels you have (minimum once per day), when you cast a spell that has your chosen elemental descriptor, you can deal an additional 1d4 points of damage of that energy type to one target of that spell.
+
+**Draconic Lineage** *(race)*: Somewhere in your family line, draconic power entered your bloodline. As a result of this lineage, you gain a +1 trait bonus on saving throws against fear and against any effect created by a creature of the dragon type. If you gain a bloodrager or sorcerer bloodline, you must choose draconic.
+
+**Dragon Pact** *(social)*: At some point your family served a dragon, and acted as its emissary to others. Some members of your family have benefited from this arrangement, gaining some small fraction of that dragon's noble bearing. Choose one category of true dragon (chromatic, metallic, primal, etc.). You gain a +1 trait bonus on Diplomacy checks against that category of dragon and a +1 trait bonus on Intimidate checks against all creatures of the dragon type that are not of the same category of true dragon.
+
+**Balanced Determination** *(social; lands ruled by a dragon sovereign)*: You've come to appreciate the balanced approach taken by sovereign dragons. Once per day, before attempting a saving throw against a spell ability originating from another creature, you can invoke the determination of those dragons. You take 10 on the saving throw (treat the d20 die result as if it were a 10).
+
+**Dragon-Hunted** *(social; islands plagued by dragons)*: You've survived being hunted by draconic nightmares. You gain a +1 trait bonus on Will saves against fear effects, and against any saving throw from a spell or effect created by a dragon.
+
+**Drake Anatomist** *(social; city beset by house drakes)*: You gain a +1 trait bonus on damage rolls against creatures with the dragon creature type, and a +2 trait bonus on Knowledge (arcana) checks to identify dragons and their special powers and vulnerabilities.
+
+**Dragon-Handler Trained** *(social; far-off dragon world)*: You have been trained in intricate dragon-handling techniques. You gain a +1 trait bonus on Perception checks, and a +1 trait bonus on skill checks attempted as part of trying to influence a dragon.
+
+**Fury of the Red** *(social; lands founded by a dragon-blooded conqueror)*: Somewhere in your family line, the mystic power of red dragons was infused into one of your relatives. If you ever take a class that requires you to select a draconic heritage, you must select a red dragon as your type. After successfully completing a charge attack, you gain a +2 trait bonus on Will saves for a full round.
+
+**King in Waiting** *(social; northern land of dragon-slaying kings)*: You've been raised with tales of great wingless dragons, and taught that the death curses of these vile creatures cannot stop the truly mighty. You gain a +1 trait bonus on saves to resist curses and spells with the curse descriptor and a +3 trait bonus on saves to resist curses originating from a linnorm.
+
+**Rugged Dragon Hunter** *(social; mountain dwarf holds)*: You gain a +2 trait bonus on Survival checks to track dragons. If you have the favored terrain class ability, add a +1 bonus to checks for skills affected by this ability, as long as you're using these skills in regards to a dragon.
+
+**Untapped Potential** *(social; island nation ruled by a gold dragon)*: You've been part of one of a dragon's experiments in awakening psychic potential. Once per day, you can cast *detect psychic significance* or *telekinetic projectile* as a spell-like ability, with a caster level equal to your character level.

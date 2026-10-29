@@ -84,6 +84,7 @@ New summoner spells from *Ultimate Magic*. Spells from other books will be added
 - **[Contact Entity II](contact-entity-ii.md)**: Ask more powerful eldritch entities to find and converse with you.
 - **[Control Summoned Creature](control-summoned-creature.md)**: Direct a summoned monster as if you had summoned it.
 - **[Deft Digits](deft-digits.md)**: Animate a glove to manipulate objects at a distance.
+- **[Draconic Ally](draconic-ally.md)**: Create an intelligent draconic servant.
 - **[Glimpse the Hidden](glimpse-the-hidden.md)**: As *see invisibility*, but cannot be made permanent.
 - **[Grasping Tentacles](grasping-tentacles.md)**: As black tentacles, but they perform dirty tricks.
 - **[Infernal Challenger](infernal-challenger.md)**: Call a bearded devil to duel one challenger.
@@ -109,6 +110,7 @@ New summoner spells from *Ultimate Magic*. Spells from other books will be added
 - **[Rain of Frogs](rain-of-frogs.md)**: Summon a swarm of poisonous frogs.
 - **[Resist Energy, Communal](resist-energy-communal.md)**: As resist energy, but you may divide the duration among creatures touched.
 - **[Restore Eidolon](restore-eidolon.md)**: Restoration for an eidolon.
+- **[Scales of Deflection](scales-of-deflection.md)**: Touch attacks against you resolve against your normal AC.
 - **[Selective Alarm](selective-alarm.md)**: As *alarm*, but only against selected creatures.
 - **[Selective Invisibility](selective-invisibility.md)**: Invisible, except to one chosen creature you may attack.
 - **[Shared Sacrifice](shared-sacrifice.md)**: Redirect half your damage to a target.

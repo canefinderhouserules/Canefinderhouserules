@@ -101,6 +101,7 @@ Mesmerists gain access to the following spells. Spells without a link come from 
 - **[Obscure Poison](obscure-poison.md)**: Make it harder to detect a poison or a venomous creature.
 - **[Obscuring Mist](obscuring-mist.md)**: Fog surrounds you.
 - **[Paranoia](paranoia.md)**: Target becomes hostile to all creatures.
+- **[Perfected Potential](perfected-potential.md)**: Target rolls twice on its next attack, save, or check.
 - **[Polypurpose Panacea](polypurpose-panacea.md)**: Gain a relaxing or entertaining effect.
 - **[Psychic Reading](psychic-reading.md)**: Read surface thoughts to learn information about a subject.
 - **[Quintessence](quintessence.md)**: Mask any flaws of or damage to a creature or object.
@@ -304,6 +305,7 @@ Mesmerists gain access to the following spells. Spells without a link come from 
 - **[Dispel Magic](dispel-magic.md)**: Cancels one magical spell or effect.
 - **[Displacement](displacement.md)**: Attacks miss subject 50% of the time.
 - **[Dominate Animal](dominate-animal.md)**: One animal obeys your silent mental commands and orders.
+- **[Draconic Malice](draconic-malice.md)**: Fear-immune foes lose their immunity to your fear effects.
 - **[Dreadscape](dreadscape.md)**: Surroundings and unfamiliar creatures seem like something out of a nightmare.
 - **[Dream Dalliance](dream-dalliance.md)**: Target sleeps in a perfect dream.
 - **[Elemental Speech](elemental-speech.md)**: Enables you to speak to elementals and some creatures.
@@ -475,6 +477,7 @@ Mesmerists gain access to the following spells. Spells without a link come from 
 - **[Crime Wave](crime-wave.md)**: Compel targets to commit criminal actions.
 - **[Death Pact](death-pact.md)**: Control a creature and implant a lethal psychic burst.
 - **[Deceptive Redundancy](deceptive-redundancy.md)**: Fool dispellers and hide a spell’s aura.
+- **[Draconic Bloodlust](draconic-bloodlust.md)**: Target flies into a violent bloodlust.
 - **[Dream Council](dream-council.md)**: Communicate with multiple sleeping creatures.
 - **[Dream Reality](dream-reality.md)**: The target perceives the world as a dream and forgets it.
 - **[Dream Scan](dream-scan.md)**: Read a dreaming creature’s thoughts.

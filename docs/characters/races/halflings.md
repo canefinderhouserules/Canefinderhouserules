@@ -82,6 +82,14 @@ The following racial traits represent a fey ancestor in the family line. They ca
 
 **Surreptitious**: Halflings skilled in eavesdropping on suspicious visitors are highly prized in human courts. These halflings are skilled at maintaining innocuous disguises and vanishing before being confronted. Halflings with this trait gain a +2 racial bonus on Disguise and Stealth checks. This racial trait replaces sure-footed.
 
+### Draconic Alternate Racial Traits
+
+These traits can be selected in place of specific racial traits, but their racial point (RP) values are also listed for campaigns using the race builder rules.
+
+**Joyous Companion (2 RP)**: Halflings enjoy the companionship of copper dragons and other lighthearted representatives of dragonkind and learn to share the joyousness of that bond with others. When halflings with this trait cast spells or use spell-like abilities of the abjuration school or with the emotion descriptor, they can confer a +1 morale bonus on saves versus fear on all adjacent allies for a number of rounds equal to the spell's level. This trait replaces fearless and weapon familiarity.
+
+**Luckbringer (2 RP)**: Halflings with this trait learn to share their luck with others much in the way a gold dragon can imbue objects with good fortune. Once per day as a standard action, a halfling with this trait can confer good luck on a single nonmagical token (such as a button or a ring). Any creature carrying this token gains a +1 luck bonus on Will saves. This effect lasts for 1 hour. This trait replaces lucky.
+
 ## Racial Subtypes
 
 You can combine various alternate racial traits to create halfling subraces or variant races, such as the following.

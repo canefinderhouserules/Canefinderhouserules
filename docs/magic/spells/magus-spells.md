@@ -179,6 +179,7 @@ The magus class spell list appears on the [Magus](../../characters/classes/magus
 - **[Recharge](recharge.md)**: Restore charges to a technological item.
 - **[Reflexive Barrier](reflexive-barrier.md)**: Immediate-action deflection bonus to AC.
 - **[Resilient Reservoir](resilient-reservoir.md)**: School transmutation; Level magus 3, paladin 3, sorcerer/wizard 4, witch 4 Casting Time 1 standard action.
+- **[Scales of Deflection](scales-of-deflection.md)**: Touch attacks against you resolve against your normal AC.
 - **[Selective Invisibility](selective-invisibility.md)**: Invisible, except to one chosen creature you may attack.
 - **[Shining Cord](shining-cord.md)**: Silver cord links you and a foe; blasts the one who moves away.
 - **[Sickening Strikes](sickening-strikes.md)**: You are imbued with disease, and any creature you strike with a melee attack must make a Fortitude save or be.
@@ -286,6 +287,7 @@ The magus class spell list appears on the [Magus](../../characters/classes/magus
 - **[Emblem of Greed](emblem-of-greed.md)**: Turn a melee weapon into a burning glaive.
 - **[Explode Head](explode-head.md)**: Explode the head of a creature with 20 hp or fewer and deal damage in a 10-ft. radius around it.
 - **[Fey Form II](fey-form-ii.md)**: Assume the form of a Tiny or Large fey creature.
+- **[Form of the Alien Dragon I](form-of-the-alien-dragon-i.md)**: Become a Medium esoteric or outer dragon.
 - **[Grim Stalker](grim-stalker.md)**: Haunted object curses its next holder with a spectral hound.
 - **[Illusion of Treachery, Greater](illusion-of-treachery-greater.md)**: Make it seem like another is responsible for your attacks while concealing your own actions.
 - **[Last Hero's Defending Sword](last-heros-defending-sword.md)**: A force sword that defends you, then attacks a foe.

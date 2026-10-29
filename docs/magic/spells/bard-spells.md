@@ -356,6 +356,7 @@
 - **[Displacement](displacement.md)**: Attacks miss subject 50% of the time.
 - **[Disrupt Link](disrupt-link.md)**: Sever the link between a creature and her companion or familiar.
 - **[Domination Link](domination-link.md)**: learn about the creature controlling a target's mind
+- **[Draconic Malice](draconic-malice.md)**: Fear-immune foes lose their immunity to your fear effects.
 - **[Dreadscape](dreadscape.md)**: Surroundings and unfamiliar creatures seem like something out of a nightmare.
 - **[Enticing Adulation](enticing-adulation.md)**: Target rages to defend you.
 - **[False Alibi](false-alibi.md)**: Replace a memory when a trigger occurs.

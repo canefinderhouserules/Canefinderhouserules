@@ -163,6 +163,7 @@ New alchemist spells from *Ultimate Magic* and *Ultimate Combat*. Spells from ot
 - **[Resinous Skin](resinous-skin.md)**: You gain DR 5/piercing and +4 to CMD against disarm attempts.
 - **[Resist Energy, Communal](resist-energy-communal.md)**: As resist energy, but you may divide the duration among creatures touched.
 - **[Selective Invisibility](selective-invisibility.md)**: Invisible, except to one chosen creature you may attack.
+- **[Shining Scales](shining-scales.md)**: Silver scales grant +5 armor and punish evil creatures caught in your breath.
 - **[Spider Climb, Communal](spider-climb-communal.md)**: As spider climb, but you may divide the duration among creatures touched.
 - **[Temporary Graft](temporary-graft.md)**: Graft a body part onto yourself to gain one of several benefits.
 - **[Toxic Blood](toxic-blood.md)**: Target's blood sprays black adder venom when cut.
@@ -202,6 +203,7 @@ New alchemist spells from *Ultimate Magic* and *Ultimate Combat*. Spells from ot
 - **[Rune of Ruin](rune-of-ruin.md)**: Curse a magic item, breaking it and weakening its bonuses.
 - **[Scale Spikes, Greater](scale-spikes-greater.md)**: Scale spikes with up to +5 enhancement
 - **[Scorching Ash Form](scorching-ash-form.md)**: This spell functions like gaseous form, except the target becomes a visible swirl of hot ash and smoke.
+- **[Tail Strike](tail-strike.md)**: Grow a draconic tail with a slam attack.
 - **[Tongues, Communal](tongues-communal.md)**: As tongues, but you may divide the duration among creatures touched.
 - **[Touch of Slime](touch-of-slime.md)**: Touch infests a target with green slime.
 - **[Umbral Infusion](umbral-infusion.md)**: a mindless undead gains the advanced template but may go out of control
@@ -240,6 +242,8 @@ New alchemist spells from *Ultimate Magic* and *Ultimate Combat*. Spells from ot
 - **[Baleful Shadow Transmutation](baleful-shadow-transmutation.md)**: a target's shadow tricks it into believing it is another creature
 - **[Caging Bomb Admixture](caging-bomb-admixture.md)**: Your bombs create a cage of force that traps creatures inside the bomb’s splash radius.
 - **[Fey Form III](fey-form-iii.md)**: Assume the form of a Diminutive or Huge fey creature.
+- **[Form of the Alien Dragon I](form-of-the-alien-dragon-i.md)**: Become a Medium esoteric or outer dragon.
+- **[Form of the Exotic Dragon I](form-of-the-exotic-dragon-i.md)**: Become a Medium imperial or primal dragon.
 - **[Legendary Proportions](legendary-proportions.md)**: Increase a creature's size category with large bonuses.
 - **[Magnetic Field](magnetic-field.md)**: Pulls metal objects and metal-clad creatures toward you.
 - **[Monstrous Physique IV](monstrous-physique-iv.md)**: As monstrous physique III, with more abilities.

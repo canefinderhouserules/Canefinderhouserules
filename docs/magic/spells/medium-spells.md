@@ -77,6 +77,7 @@ Mediums gain access to the following spells. Spells without a link come from oth
 - **[Object Reading](object-reading.md)**: Read psychic impressions left on an object.
 - **[Oneiric Horror](oneiric-horror.md)**: Distract and fatigue the target with a creature from its nightmares.
 - **[Paranoia](paranoia.md)**: Target becomes hostile to all creatures.
+- **[Perfected Potential](perfected-potential.md)**: Target rolls twice on its next attack, save, or check.
 - **[Pesh Vigor](pesh-vigor.md)**: Target gains a Strength bonus it can push higher at a cost.
 - **[Preserve](preserve.md)**: Stop spoilage of objects for a week
 - **[Protection from Chaos](protection-from-chaos.md)**
@@ -306,9 +307,11 @@ Mediums gain access to the following spells. Spells without a link come from oth
 - **[Seeds of Influence](seeds-of-influence.md)**: Leave a trace in a creature’s mind that weakens it against your divinations and enchantments.
 - **[Sending](sending.md)**: Delivers short message anywhere, instantly.
 - **[Share Senses](share-senses.md)**: See/hear/smell what your familiar is.
+- **[Shining Scales](shining-scales.md)**: Silver scales grant +5 armor and punish evil creatures caught in your breath.
 - **[Shroud of Innocuity](shroud-of-innocuity.md)**: Targets appear as ordinary locals to every viewer.
 - **[Sleepwalking Suggestion](sleepwalking-suggestion.md)**: Cause a creature to perform a suggested action while asleep.
 - **[Summon Monster IV](summon-monster-iv.md)**: (Evil creatures only.) Summons extraplanar creature to fight for you.
+- **[Tail Strike](tail-strike.md)**: Grow a draconic tail with a slam attack.
 - **[Thaumaturgic Circle](thaumaturgic-circle.md)**: As magic circle, but affecting a nonalignment subtype or outsider race.
 - **[Threefold Face](threefold-face.md)**: Grow three faces; all-around vision and no flanking.
 - **[Threefold Sight](threefold-sight.md)**: Roll three d20 and take the middle result.

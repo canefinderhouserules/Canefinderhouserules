@@ -132,6 +132,7 @@ Psychics gain access to the following spells. Spells without a link come from ot
 - Negative Reaction
 - Peacebond
 - **[Night Blindness](night-blindness.md)**: Lighting around the target counts as one step darker.
+- **[Perfected Potential](perfected-potential.md)**: Target rolls twice on its next attack, save, or check.
 - **[Pesh Vigor](pesh-vigor.md)**: Target gains a Strength bonus it can push higher at a cost.
 - **[Pierce Facade](pierce-facade.md)**: +5 insight on Perception to see through disguises.
 - **[Polypurpose Panacea](polypurpose-panacea.md)**: Gain a relaxing or entertaining effect.
@@ -428,6 +429,8 @@ Psychics gain access to the following spells. Spells without a link come from ot
 - **[Displacement](displacement.md)**: Attacks miss subject 50% of the time.
 - **[Disrupt Silence](disrupt-silence.md)**: Disrupt all silence effects in an area.
 - **[Distracting Cacophony](distracting-cacophony.md)**: Noise makes it difficult to cast.
+- **[Draconic Ally](draconic-ally.md)**: Create an intelligent draconic servant.
+- **[Draconic Malice](draconic-malice.md)**: Fear-immune foes lose their immunity to your fear effects.
 - **[Dream Shield](dream-shield.md)**: Protect a sleeper's mind from intrusion and control.
 - **[Ectoplasmic Snare](ectoplasmic-snare.md)**: Tendril of ectoplasm grapples a creature and tethers you to it.
 - **[Ego Whip I](ego-whip-i.md)**: Cause a creature to take a –2 penalty to Int, Wis, or Cha and be staggered for 1 round.
@@ -502,6 +505,7 @@ Psychics gain access to the following spells. Spells without a link come from ot
 - **[Rumormonger](rumormonger.md)**: Follow a rumor to see where it spreads.
 - **[Sands of Time](sands-of-time.md)**: Target temporarily ages.
 - Share Glory
+- **[Scales of Deflection](scales-of-deflection.md)**: Touch attacks against you resolve against your normal AC.
 - **[Selective Alarm](selective-alarm.md)**: As *alarm*, but only against selected creatures.
 - **[Sensory Amplifier](sensory-amplifier.md)**: Creatures nearby sense more keenly but take extra damage.
 - **[Shadow Enchantment](shadow-enchantment.md)**: Quasi-real enchantment of 2nd level or lower.
@@ -948,6 +952,7 @@ Psychics gain access to the following spells. Spells without a link come from ot
 - **[Fly, Mass](fly-mass.md)**: One creature/level gains ability to fly.
 - **[Foe to Friend](foe-to-friend.md)**: Redirect an enemy creature's attack.
 - **[Forcecage](forcecage.md)**: Cube or cage of force imprisons all inside.
+- **[Form of the Alien Dragon I](form-of-the-alien-dragon-i.md)**: Become a Medium esoteric or outer dragon.
 - **[Grasping Hand](grasping-hand.md)**: Hand provides cover, pushes, or grapples.
 - **[Hold Person, Mass](hold-person-mass.md)**: As *hold person*, but all within 30 ft.
 - Hostile Juxtaposition, Greater
@@ -1017,6 +1022,7 @@ Psychics gain access to the following spells. Spells without a link come from ot
 - **[Euphoric Tranquility](euphoric-tranquility.md)**: Makes a creature friendly.
 - **[Fool’s Forbiddance](fools-forbiddance.md)**: Confuses enemies who come within a magical emanation centered on you.
 - Frightful Aspect
+- **[Form of the Alien Dragon II](form-of-the-alien-dragon-ii.md)**: Become a Large esoteric or outer dragon.
 - **[Glimpse of the Akashic](glimpse-of-the-akashic.md)**: Gain a large circumstance bonus on everything for 1 minute, then suffer.
 - **[Instant Summons, Greater](instant-summons-greater.md)**: As *instant summons*, but for multiple objects and creatures.
 - **[Iron Body](iron-body.md)**: Your body becomes living iron.
@@ -1064,6 +1070,7 @@ Psychics gain access to the following spells. Spells without a link come from ot
 - **[Dominate Monster](dominate-monster.md)**: As *dominate person,* but any creature.
 - **[Dream Voyage](dream-voyage.md)**: As dream travel, but with more flexibility and able to affect more creatures.
 - **[Foresight](foresight.md)**: “Sixth sense” warns of impending danger.
+- **[Form of the Alien Dragon III](form-of-the-alien-dragon-iii.md)**: Become a Huge esoteric or outer dragon.
 - **[Freedom](freedom.md)**: Releases creature from *imprisonment.*
 - **[Gate](gate.md)**: Connects two planes for travel or summoning.
 - Heroic Invocation

@@ -1341,3 +1341,15 @@ Imbued with the primeval potency of their planet's seasons, those druids known a
 This ability modifies nature bond and replaces trackless step, venom immunity, and timeless body.
 
 **Wild Shape (Su)**: A season keeper gains this ability at 6th level, except that her effective druid level for the ability is equal to her druid level – 2. If she has imbued her animal companion with the spirit of winter, she uses her full druid level when taking on the form of an ice elemental. If she has imbued her companion with the spirit of summer, she uses her full druid level when taking on the form of a plant. A season keeper cannot use wild shape to assume the form of an elemental except an ice elemental, and can assume that shape only if her animal companion has the spirit of winter. Similarly, she can assume a plant form only if her animal companion has the spirit of summer. This ability modifies wild shape.
+
+## Draconic Druid
+
+*Druid archetype.* Some druids believe that dragons are the ultimate expression of nature, combining elemental fury with majestic beauty. These druids consort with dragons and eventually transform into draconic forms.
+
+**Drake Companion**: A draconic druid gains a [drake companion](../companions/drake-companions.md) instead of an animal companion. This ability replaces nature bond, wild empathy, woodland stride, venom immunity, a thousand faces, and timeless body.
+
+**Dragon Sense**: A draconic druid studies dragons and their history. She gains a +2 bonus on Knowledge (arcana) and Knowledge (history) checks. This ability replaces nature sense.
+
+**Resist Dragon's Might**: A draconic druid gains a +4 bonus on saving throws against the spells, spell-like abilities, and supernatural abilities of dragons. This ability replaces resist nature's lure.
+
+**Dragon Shape**: A draconic druid can't use wild shape to change into any of the usual forms available to a druid. Instead, at 4th level, she can use wild shape to change into a dragon-scaled version of herself with long fangs, gaining a +1 natural armor bonus to her AC and a bite attack appropriate for her size (1d6 points of damage for a Medium druid) but otherwise retaining her usual form. At 10th level, she can spend two uses of wild shape to transform into a Medium dragon as per *form of the dragon I*, and at 12th level, she can spend two uses to change into a Large dragon as per *form of the dragon II*. Each time that a draconic druid uses wild shape counts as a separate casting of the spell for the purpose of refreshing her uses of her breath weapon.

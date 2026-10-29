@@ -351,6 +351,7 @@
 - **[Discovery Torch](discovery-torch.md)**: Touched object emanates bright light, granting Perception and Sense Motive bonuses.
 - **[Dispel Magic](dispel-magic.md)**: Cancels one magical spell or effect.
 - **[Disrupt Silence](disrupt-silence.md)**: Disrupt all silence effects in an area.
+- **[Draconic Malice](draconic-malice.md)**: Fear-immune foes lose their immunity to your fear effects.
 - **[Dragon Turtle Shell](dragon-turtle-shell.md)**: Natural attacks against you deal reduced damage.
 - **[Drain Poison](drain-poison.md)**: Drain a creature's poison onto your weapon.
 - **[False Alibi](false-alibi.md)**: Replace a memory when a trigger occurs.

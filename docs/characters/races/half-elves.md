@@ -96,6 +96,12 @@ Half-elves with a drow ancestor can choose from the alternate racial traits list
 
 **Fraudulent**: To obtain and keep a position at court, some half-elves aren't shy about exaggerating or fabricating claims to nobility. Half-elves with this racial trait gain a +1 racial bonus on Bluff checks, Knowledge (nobility) checks, and Linguistics checks to create forgeries. They need to spend only half as much on accessories (such as the jewelry required to accessorize a courtier's or noble's outfit) to appear suitable in a courtly setting. This racial trait replaces keen senses.
 
+### Draconic Alternate Racial Traits
+
+These traits can be selected in place of specific racial traits, but their racial point (RP) values are also listed for campaigns using the race builder rules.
+
+**Dragon Soul (4 RP)**: Some half-elves have forsaken a part of their lineage by embracing a more distant connection to dragons. Half-elves with this trait choose to count as either elves or humans for any effect regarding race. Additionally, half-elves with this trait also count as dragons for the purposes of effects targeting creatures by type (such as a ranger's favored enemy and bane weapons, but not for prerequisites), and gain a +2 racial bonus on all saving throws against fear, sleep and paralysis effects. This trait replaces adaptability, elf blood, and elven immunities.
+
 ## Racial Subtypes
 
 You can combine various alternate racial traits to create half-elven subraces or variant races, such as the following.

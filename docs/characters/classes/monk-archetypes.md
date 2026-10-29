@@ -1043,3 +1043,17 @@ Vested powers are abilities that draw on an invested regent's investiture pool. 
 **Open Sky Stance (Su)**: At 11th level, the fate warden becomes secure in her role within the larger story. She gains immunity to curses and polymorph effects. This ability replaces diamond body.
 
 **Eclipse Strike (Su)**: Beginning at 15th level, the fate warden can strike a target with enough force to realign its place in the world. Foes damaged by the fate warden's jinx strike can attempt a Fortitude save (DC 10 + 1/2 the monk's level + the monk's Wisdom modifier). Those that fail are transmuted into a harmless form, as per the *baleful polymorph* spell. This ability replaces quivering palm.
+
+## Scaled Fist
+
+*Monk archetype.* Steeped in traditions that trace their origins to warrior-monks who trained under the tutelage of draconic masters, scaled fists eschew passive introspection in favor of unshakable confidence. Scaled fists learn to combine brutal intimidation with the brazen ferocity of an ancient wyrm to devastate their foes.
+
+**Draconic Might**: Any of the scaled fist's class abilities that make calculations based on her Wisdom (including bonus feats with DCs or uses per day, such as Stunning Fist, but not Wisdom-based skills or Will saving throws) are instead based on her Charisma.
+
+**Bonus Feats**: A scaled fist adds Dragon Style and Intimidating Prowess to her list of bonus feats at 1st level. At 6th level, she adds Dazzling Display and Dragon Ferocity. At 10th level, she adds Disheartening Display, Dragon Roar, and Shatter Defenses. This ability modifies bonus feats. The scaled fist can add the [Linnorm Style](../../rules/feats/linnorm-style.md), [Tatzlwyrm Claw Style](../../rules/feats/tatzlwyrm-claw-style.md), or [Wyvern Fury Style](../../rules/feats/wyvern-fury-style.md) feats to her list of bonus feats in place of Dragon Style, Dragon Ferocity, and Dragon Roar. If she adds one of these style feats to her list at 1st level, she automatically adds the second feat in the same chain at 6th level, and the third feat in the same chain at 10th level.
+
+**Draconic Mettle (Su)**: At 3rd level, a scaled fist gains a +2 bonus on saving throws attempted against all fear, paralysis, and sleep effects. This ability replaces the still mind ability. For the unchained monk, this ability is gained at 4th level.
+
+**Draconic Fury (Su)**: At 3rd level, the scaled fist has gained some control over the draconic energies she studies. She must select one type of energy: acid, cold, electricity, or fire. Once this choice is made, it cannot be changed. The scaled fist can expend 1 point from her ki pool as a swift action to imbue her natural attacks with this energy, causing them to deal an extra 1d6 points of damage of the chosen energy type for a number of rounds equal to 1/2 her monk level. This ability replaces maneuver training. For the unchained monk, draconic fury is the elemental fury ki power, and is gained in place of the ki power normally gained at 4th level.
+
+**Draconic Breath (Su)**: At 15th level, a scaled fist can spend 3 points from her ki pool to make a breath weapon attack as a standard action. This breath weapon deals 1d6 points of damage of her energy type per monk level in a 30-foot cone. Those caught in the area of the breath can attempt a Reflex save (DC = 10 + 1/2 the scaled fist's monk level + her Charisma modifier) to halve the normal damage. This ability replaces quivering palm. For the unchained monk, this ability is gained at 12th level and replaces the ki power gained at that level.

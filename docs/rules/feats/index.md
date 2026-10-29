@@ -1633,6 +1633,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Brilliant Planner](brilliant-planner.md) | — | Int 13, character level 5th |
 | [Brilliant Spell Preparation](brilliant-spell-preparation.md) | — | Int 13, ability to prepare 3rd-level spells |
 | [Brisk Spell](brisk-spell.md) | Metamagic | Dex 13 |
+| [Brood Defender](brood-defender.md) | — | Bodyguard, Combat Reflexes, wyvaran |
 | [Buffeting Wings](buffeting-wings.md) | Combat | Hover, Powerful Wings |
 | [Bulette Charge Style](bulette-charge-style.md) | Combat, Style | Str 13, Improved Overrun, Power Attack, proficiency with heavy armor |
 | [Bulette Leap](bulette-leap.md) | Combat | Str 15, Bulette Charge Style, Improved Overrun, Power Attack, proficiency with heavy armor |
@@ -1863,7 +1864,10 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Dog Killer, Horse Hunter](dog-killer-horse-hunter.md) | Combat | Goblin, Handle Animal 1 rank |
 | [Domino Crash](domino-crash.md) | Combat | Int 13, Combat Expertise, Improved Reposition, Whipcrack*, base attack bonus +6 or monk level 3rd |
 | [Dorn-Dergar Master](dorn-dergar-master.md) | Combat | Two-Weapon Fighting, base attack bonus +4, proficiency with the dwarven dorn-dergar |
+| [Draconian Law](draconian-law.md) | — | Lawful alignment, wyvaran |
+| [Draconic Heritage](draconic-heritage.md) | — | Cha 13 |
 | [Draconic Magic](draconic-magic.md) | — | Draconic Aspect, kobold |
+| [Draconic Manifestation](draconic-manifestation.md) | — | Access to natural claw attacks, bloodrager or sorcerer with the draconic bloodline |
 | [Dragon Shot](dragon-shot.md) | Combat, Grit | Amateur Gunslinger feat or grit class feature, Spellcraft 5 ranks |
 | [Dragon-Touched](dragon-touched.md) | Story | You must have been knocked unconscious in an encounter with a challenging draconic foe or have a background tied to a specific dragon |
 | [Dragoncrafting](dragoncrafting.md) | — | Craft (any) 5 ranks, Knowledge (arcana) 3 ranks |
@@ -2268,6 +2272,9 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Lightning Rager](lightning-rager.md) | — | Rage class feature |
 | [Lingering Breath](lingering-breath.md) | — | Dragon disciple level 3rd |
 | [Lingering Smite](lingering-smite.md) | General | Channel Smite, channel energy 3d6 |
+| [Linnorm Style](linnorm-style.md) | Combat, Style | Wis 13, Improved Unarmed Strike, base attack bonus +3 or monk level 3rd |
+| [Linnorm Vengeance](linnorm-vengeance.md) | Combat | Wis 13, Improved Unarmed Strike, Linnorm Style, base attack bonus +6 or monk level 6th |
+| [Linnorm Wrath](linnorm-wrath.md) | Combat | Wis 13, Improved Unarmed Strike, Linnorm Style, Linnorm Vengeance, base attack bonus +9 or monk level 9th |
 | [Lithe Attacker](lithe-attacker.md) | — | Narrow Frame, Escape Artist 5 ranks, animal or magical beast |
 | [Living Fortress](living-fortress.md) | Teamwork | Dwarf, hardy racial trait |
 | [Lob Shot](lob-shot.md) | Combat | Far Shot, Point-Blank Shot |
@@ -2525,6 +2532,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Reject Poison](reject-poison.md) | — | Con 13, poison use class feature, worshiper of a deity of secrets and poison |
 | [Relentless Cheer](relentless-cheer.md) | Teamwork | Halfling, fearless and halfling luck racial traits |
 | [Relentless Shot](relentless-shot.md) | Combat | Point-Blank Shot, base attack bonus +6 |
+| [Relic Familiarity](relic-familiarity.md) | — | Wyvaran |
 | [Rending Swarm](rending-swarm.md) | Combat, Teamwork | Dex 15, [Rat Stack](rat-stack.md), swarming racial trait |
 | [Resistance Mastery](resistance-mastery.md) | Item Mastery | Use Magic Device 3 ranks, base Fortitude saving throw bonus +3 |
 | [Resisting Grappler](resisting-grappler.md) | Combat | Dex 13 |
@@ -2633,6 +2641,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Signature Strike Style](signature-strike-style.md) | Combat, Style | Precise Shot; Weapon Focus; base attack bonus +7; Intimidate 7 ranks; Improved Called Shot, targeted strike swashbuckler deed, or targeting gunslinger deed |
 | [Signature Strike Taunt](signature-strike-taunt.md) | Combat | Precise Shot, Signature Strike Style, Weapon Focus, base attack bonus +9, Intimidate 9 ranks |
 | [Signature Strike Triumph](signature-strike-triumph.md) | Combat | Precise Shot, Signature Strike Style, Signature Strike Taunt, Weapon Focus, base attack bonus +11, Intimidate 11 ranks |
+| [Sincere Flattery](sincere-flattery.md) | — | Wyvaran |
 | [Sinister Reputation](sinister-reputation.md) | — | Cha 13, Intimidate 5 ranks, Persuasive or renown social talent |
 | [Siphon Channel](siphon-channel.md) | — | Channel energy 3d6, worshiper of a deity of disease |
 | [Siphon Poison](siphon-poison.md) | — | — |
@@ -2815,6 +2824,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Syndicate Tattoos](syndicate-tattoos.md) | — | Member of a criminal organization that marks its ranks with tattoos |
 | [Tactical Reposition](tactical-reposition.md) | Combat | Int 13, Combat Expertise, Improved Reposition |
 | [Tag-Team Interrogation](tag-team-interrogation.md) | Teamwork | Intimidating Prowess or Persuasive, Diplomacy 1 rank, Intimidate 1 rank |
+| [Tail Maneuvers](tail-maneuvers.md) | — | Dragon creature type, tail attack |
 | [Tail Weapon](tail-weapon.md) | Combat | Base attack bonus +1, serpentfolk |
 | [Take a Breather](take-a-breather.md) | Combat | Con 13, Combat Vigor, character level 4th |
 | [Tandem Evasion](tandem-evasion.md) | Combat, Teamwork | Dex 13, Dodge |
@@ -2824,6 +2834,9 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Tattoo Attunement](tattoo-attunement.md) | General | Inscribe Magical Tattoo; Spellcraft 5 ranks |
 | [Tattoo Conversion](tattoo-conversion.md) | General | Inscribe Magical Tattoo; Tattoo Attunement; Spellcraft 15 ranks; ability to cast control summoned creature |
 | [Tattoo Transformation](tattoo-transformation.md) | General | Inscribe Magical Tattoo; Tattoo Attunement; Spellcraft 9 ranks |
+| [Tatzlwyrm Claw Style](tatzlwyrm-claw-style.md) | Combat, Style | Dex 13, Improved Grapple, Improved Unarmed Strike, Escape Artist 1 rank |
+| [Tatzlwyrm Grappler](tatzlwyrm-grappler.md) | Combat | Dex 13, Improved Grapple, Improved Unarmed Strike, Tatzlwyrm Claw Style, Escape Artist 3 ranks |
+| [Tatzlwyrm Rake](tatzlwyrm-rake.md) | Combat | Dex 13, Improved Grapple, Improved Unarmed Strike, Tatzlwyrm Claw Style, Tatzlwyrm Grappler, Escape Artist 8 ranks |
 | [Technologist](technologist.md) | — | — |
 | [Technology Adept](technology-adept.md) | Combat | Dex 13, Exotic Weapon Proficiency (firearms), Point-Blank Shot |
 | [Technophobe](technophobe.md) | — | Improved Sunder |
@@ -2972,6 +2985,10 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Wrest Charge](wrest-charge.md) | — | Disable Device 5 ranks, Knowledge (engineering) 5 ranks |
 | [Wretched Curator](wretched-curator.md) | Story | You have purchased a scroll or spellbook containing a spell with the evil descriptor in a place where such dealings are illegal. |
 | [Wrist Grab](wrist-grab.md) | Combat | Dex 13, Int 13, Combat Expertise, Combat Reflexes, Improved Disarm, Improved Unarmed Strike, base attack bonus +6 |
+| [Wyvaran Spellcasting](wyvaran-spellcasting.md) | — | Knowledge (arcana) 6 ranks, wyvaran |
+| [Wyvern Fury Style](wyvern-fury-style.md) | Combat, Style | Exotic Weapon Proficiency (whip), Acrobatics 3 ranks, brawler's flurry or flurry of blows class feature |
+| [Wyvern Sting](wyvern-sting.md) | Combat | Exotic Weapon Proficiency (whip), Wyvern Fury Style, Acrobatics 6 ranks, brawler's flurry or flurry of blows class feature |
+| [Wyvern Wing](wyvern-wing.md) | Combat | Exotic Weapon Proficiency (whip), Wyvern Fury Style, Wyvern Sting, Acrobatics 10 ranks, brawler's flurry or flurry of blows class feature |
 | [Yai-Mimic Spell](yai-mimic-spell.md) | Metamagic | Int 15, Still Spell |
 
 ## Horror Adventures Feats

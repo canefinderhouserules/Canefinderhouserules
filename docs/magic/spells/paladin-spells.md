@@ -141,6 +141,7 @@
 - **[Detoxify](detoxify.md)**: Neutralize a creature’s poison attacks.
 - **[Discern Lies](discern-lies.md)**: Reveals deliberate falsehoods.
 - **[Dispel Magic](dispel-magic.md)**: Cancels one magical spell or effect.
+- **[Draconic Ally](draconic-ally.md)**: Create an intelligent draconic servant.
 - **[Firewalker's Meditation](firewalkers-meditation.md)**: Meditative spell: damage reduction, fire resistance, and pain resistance.
 - **[Guardian Monument, Lesser](guardian-monument-lesser.md)**: Humans defending the area gain DR 2/magic.
 - **[Heal Mount](heal-mount.md)**: As *heal* on horse or other special mount.
@@ -156,12 +157,14 @@
 - **[Resilient Reservoir](resilient-reservoir.md)**: School transmutation; Level magus 3, paladin 3, sorcerer/wizard 4, witch 4 Casting Time 1 standard action.
 - **[Resist Energy, Communal](resist-energy-communal.md)**: As resist energy, but you may divide the duration among creatures touched.
 - **[Revenant Armor](revenant-armor.md)**: Armor animates around its fallen wearer.
+- **[Scales of Deflection](scales-of-deflection.md)**: Touch attacks against you resolve against your normal AC.
 - **[Second Wind](second-wind.md)**: Heal 2d8 + 1/level when below one-quarter hit points.
 - **[Shield of Wings](shield-of-wings.md)**: Gain five burning wings that grant flight and fire resistance.
 - **[Sky Steed](sky-steed.md)**: Grant your mount angelic wings.
 - **[Spindrift Spritz, Mass](spindrift-spritz-mass.md)**: As spindrift spritz, affecting multiple creatures.
 - **[Spotlight](spotlight.md)**: bright light on a target suppresses nearby light and ruins its Stealth
 - **[Tactical Formation](tactical-formation.md)**: Adjacent allies gain a deflection bonus to AC.
+- **[Tail Strike](tail-strike.md)**: Grow a draconic tail with a slam attack.
 - **[They Know](they-know.md)**: Convince target that a nearby creature knows her greatest secret.
 - **[Trial by Fire](trial-by-fire.md)**: Divine fire punishes targets whose alignment differs from your deity’s.
 - **[Vigilant Rest](vigilant-rest.md)**: Cause a sleeping creature to retain some perception of its surroundings.

@@ -223,6 +223,7 @@ New inquisitor spells from *Ultimate Magic*. Spells from other books will be add
 - **[Disrupt Link](disrupt-link.md)**: Sever the link between a creature and her companion or familiar.
 - **[Disrupt Silence](disrupt-silence.md)**: Disrupt all silence effects in an area.
 - **[Domination Link](domination-link.md)**: learn about the creature controlling a target's mind
+- **[Draconic Malice](draconic-malice.md)**: Fear-immune foes lose their immunity to your fear effects.
 - **[Eldritch Fever](eldritch-fever.md)**: Target gains the eldritch ague spellblight.
 - **[False Alibi](false-alibi.md)**: Replace a memory when a trigger occurs.
 - **[Fearsome Duplicate](fearsome-duplicate.md)**: School illusion (figment); Level bard 3, inquisitor 3, sorcerer/wizard 3, witch 3 Casting Time 1 standard.

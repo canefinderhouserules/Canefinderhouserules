@@ -1324,3 +1324,9 @@ A freebooter is a natural leader, a pirate who works well with a variety of peop
 **Freebooter's Bond (Ex)**: At 4th level, a freebooter can spend a move action to grant her allies extra combat prowess when they work as a team. All allies within 30 feet who can see or hear the freebooter gain an additional +2 bonus on attack rolls when flanking with the freebooter or with another ally affected by this ability. This ability replaces hunter's bond.
 
 **Fast Swimmer (Ex)**: At 7th level, a freebooter may swim half her speed as a move action or her normal speed as a full-round action with a successful Swim check. She gains a +2 bonus on Swim checks. This ability replaces woodland stride.
+
+## Drake Warden
+
+*Ranger archetype.* Some rangers specialize in dealing with rambunctious younger drakes, protecting them and teaching them to tolerate, and even trust, humanoid creatures. These drake wardens follow and pass along secret techniques for raising drakes effectively, and thanks to their methods, their drakes are both fiercely loyal and extremely useful for scouting and stealth missions.
+
+**Young Drake**: At 4th level, a drake warden gains a [drake companion](../companions/drake-companions.md) instead of an animal companion, but his effective charge's level is equal to his ranger level – 3. The young drake gains drake powers only when its charge reaches 3rd and 7th levels (not 11th or 15th level) and increases in size only when its charge reaches 5th level (not 9th, 13th, or 17th level). This ability replaces hunter's bond, 2nd favored enemy, and swift tracker.

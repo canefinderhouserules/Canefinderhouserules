@@ -134,6 +134,8 @@ New antipaladin spells from *Ultimate Magic*. Spells from other books will be ad
 - **[Darkvision, Communal](darkvision-communal.md)**: As darkvision, but you may divide the duration among creatures touched.
 - **[Deadly Juggernaut](deadly-juggernaut.md)**: Your might increases with every kill you make.
 - **[Deceitful Veneer](deceitful-veneer.md)**: Make someone seem like an obvious liar.
+- **[Draconic Ally](draconic-ally.md)**: Create an intelligent draconic servant.
+- **[Draconic Malice](draconic-malice.md)**: Fear-immune foes lose their immunity to your fear effects.
 - **[Drain Poison](drain-poison.md)**: Drain a creature's poison onto your weapon.
 - **[Final Sacrifice](final-sacrifice.md)**: Detonate a summoned creature
 - **[Flesh Puppet Horde](flesh-puppet-horde.md)**: Control multiple zombies in human guise.
@@ -156,6 +158,7 @@ New antipaladin spells from *Ultimate Magic*. Spells from other books will be ad
 - **[Shared Sacrifice](shared-sacrifice.md)**: Redirect half your damage to a target.
 - **[Shield of Darkness](shield-of-darkness.md)**: magical darkness grants you total concealment
 - **[Stage Fright](stage-fright.md)**: Targets take –4 on ability, skill, and concentration checks.
+- **[Tail Strike](tail-strike.md)**: Grow a draconic tail with a slam attack.
 - **[Trial by Fire](trial-by-fire.md)**: Divine fire punishes targets whose alignment differs from your deity’s.
 - **[Unhallowed Blows, Greater](unhallowed-blows-greater.md)**: As unhallowed blows, with a larger bonus and longer duration.
 - **[Unholy Ward](unholy-ward.md)**: Resist 10 damage from holy sources.

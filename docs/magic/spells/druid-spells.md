@@ -519,6 +519,7 @@
 - **[Delectable Flesh](delectable-flesh.md)**: Creatures near the target become depraved and attack it to feast.
 - **[Entice Fey](entice-fey.md)**: Entice service from a fey of 12 Hit Dice or fewer.
 - **[Fire Storm](fire-storm.md)**: Deals 1d6/level fire damage.
+- **[Form of the Exotic Dragon I](form-of-the-exotic-dragon-i.md)**: Become a Medium imperial or primal dragon.
 - **[Frost Mammoth](frost-mammoth.md)**: Conjure a rideable snow mammoth.
 - **[Heal](heal.md)**: Cures 10 points/level damage, all diseases and mental conditions.
 - **[Infuse Robot](infuse-robot.md)**: Turn a robot into a magical construct you command.
@@ -546,6 +547,7 @@
 - **[Fey Form IV](fey-form-iv.md)**: Assume the form of a powerful fey creature.
 - **[Fey Gate](fey-gate.md)**: Create a portal that allows travel to the First World.
 - **[Finger of Death](finger-of-death.md)**: Deals 10 damage/level to one subject.
+- **[Form of the Exotic Dragon II](form-of-the-exotic-dragon-ii.md)**: Become a Large imperial or primal dragon.
 - **[Frightful Aspect](frightful-aspect.md)**: You take on a terrifying, Large-sized form of yourself and emit an aura that causes creatures to become shaken or frightened.
 - **[Heart of the Mammoth](heart-of-the-mammoth.md)**: +8 Str/Con, fear immunity, wider crit range against dragons.
 - **[Remove Radioactivity, Greater](remove-radioactivity-greater.md)**: Cure all radiation damage; deplete radioactive objects.
@@ -568,6 +570,7 @@
 - **[Entice Fey, Greater](entice-fey-greater.md)**: Entice service from a fey of 18 Hit Dice or fewer.
 - **[Eternal Grove](eternal-grove.md)**: Permanently turn creatures into living trees.
 - **[Foresight](foresight.md)**: “Sixth sense” warns of impending danger.
+- **[Form of the Exotic Dragon III](form-of-the-exotic-dragon-iii.md)**: Become a Huge imperial or primal dragon.
 - **[Regenerate](regenerate.md)**: Subject’s severed limbs grow back, cures 4d8 damage +1/level (max +35).
 - **[Sea of Dust](sea-of-dust.md)**: Permanently drive water out of a region to create a desert.
 - **[Shambler](shambler.md)**: Creates 1d4+2 shambling mounds to fight for you.

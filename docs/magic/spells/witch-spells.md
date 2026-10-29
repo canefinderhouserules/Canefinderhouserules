@@ -80,6 +80,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Open and Shut](open-and-shut.md)**: Obfuscate whether a door is open or closed.
 - **[Peace Bond](peace-bond.md)**: Your low-level area spells ignore protected cubes.
 - **[Peacebond](peacebond.md)**: Locks a weapon in place on the target’s body.
+- **[Perfected Potential](perfected-potential.md)**: Target rolls twice on its next attack, save, or check.
 - **[Pick Your Poison](pick-your-poison.md)**: Poison becomes mere intoxication for a time.
 - **[Pierce Facade](pierce-facade.md)**: +5 insight on Perception to see through disguises.
 - **[Poisoned Egg](poisoned-egg.md)**: Turn an egg into a dose of poison.
@@ -321,6 +322,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Detoxify](detoxify.md)**: Neutralize a creature’s poison attacks.
 - **[Discharge](discharge.md)**: Drain charges from a technological object.
 - **[Domination Link](domination-link.md)**: learn about the creature controlling a target's mind
+- **[Draconic Malice](draconic-malice.md)**: Fear-immune foes lose their immunity to your fear effects.
 - **[Drain Poison](drain-poison.md)**: Drain a creature's poison onto your weapon.
 - **[Earth Tremor](earth-tremor.md)**: Unleash a tremor that creates difficult terrain and can knock foes down and damage them.
 - **[Eldritch Fever](eldritch-fever.md)**: Target gains the eldritch ague spellblight.
@@ -570,6 +572,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Deceitful Veneer](deceitful-veneer.md)**: Make someone seem like an obvious liar.
 - **[Decollate](decollate.md)**: A target can safely remove its head.
 - **[Die for Your Master](die-for-your-master.md)**: Familiar intercepts any attack against you.
+- **[Draconic Bloodlust](draconic-bloodlust.md)**: Target flies into a violent bloodlust.
 - **[Draconic Suppression](draconic-suppression.md)**: Dragon loses its breath weapon and age-based abilities.
 - **[Duplicate Familiar](duplicate-familiar.md)**: Create a temporary duplicate of a familiar.
 - **[Empathy Conduit](empathy-conduit.md)**: Affect a bonded creature by targeting its master, or vice versa.

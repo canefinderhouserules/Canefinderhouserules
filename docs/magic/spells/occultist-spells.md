@@ -363,6 +363,7 @@ Occultists gain access to the following spells, determined by their chosen imple
 - **[Cloak of Winds](cloak-of-winds.md)**: Creates a whirling screen of strong wind around you.
 - **[Deft Digits](deft-digits.md)**: Animate a glove to manipulate objects at a distance.
 - **[Dispel Magic](dispel-magic.md)**: Cancels one magical spell or effect.
+- **[Draconic Ally](draconic-ally.md)**: Create an intelligent draconic servant.
 - **[Erase Impressions](erase-impressions.md)**: Erase psychic impressions from an object.
 - **[Evaluator's Lens](evaluators-lens.md)**: A force lens aids saves against figments and Appraise checks.
 - **[Explosive Runes](explosive-runes.md)**: Deals 6d6 damage when read.
@@ -388,6 +389,7 @@ Occultists gain access to the following spells, determined by their chosen imple
 - **[Quell Energy](quell-energy.md)**: Reduce a creature's energy damage of one type.
 - **[Rags to Riches](rags-to-riches.md)**: Objects function as masterwork with extra bonuses.
 - **[Retributive Reparations](retributive-reparations.md)**: Thieves of the warded item grow fatigued, then exhausted.
+- **[Scales of Deflection](scales-of-deflection.md)**: Touch attacks against you resolve against your normal AC.
 - **[Selective Alarm](selective-alarm.md)**: As *alarm*, but only against selected creatures.
 - **[Shadowmind](shadowmind.md)**: targets perceive the light level as one step darker
 - **[Shaper’s Touch](shapers-touch.md)**: Reshape an object as though it were clay.
@@ -662,6 +664,7 @@ Occultists gain access to the following spells, determined by their chosen imple
 - **[Contagious Suggestion](contagious-suggestion.md)**: a suggestion that spreads from target to target
 - **[Dispel Magic, Greater](dispel-magic-greater.md)**: As *dispel magic*, but with multiple targets.
 - Spell Immunity, Communal
+- **[Draconic Bloodlust](draconic-bloodlust.md)**: Target flies into a violent bloodlust.
 - **[Dream Reality](dream-reality.md)**: The target perceives the world as a dream and forgets it.
 - **[Ectoplasmic Hand](ectoplasmic-hand.md)**: Create a ghostly hand that attacks, manipulates, and delivers touch spells.
 - **[Foretell Failure](foretell-failure.md)**: Learn whether an action would succeed on a roll of 10.

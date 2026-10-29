@@ -86,6 +86,14 @@ The following racial traits represent a fey ancestor in the family line. They ca
 
 **Fey Wisdom**: Elves tend to be too aloof and capricious to make reliable diplomats, but some elves specially train to serve as ambassadors to fey courts. Elves with this racial trait gain a +1 racial bonus on Diplomacy and Knowledge (nature) checks, and Knowledge (nature) is a class skill for them. This racial trait replaces keen senses.
 
+### Draconic Alternate Racial Traits
+
+These traits can be selected in place of specific racial traits, but their racial point (RP) values are also listed for campaigns using the race builder rules.
+
+**Draconic Consular (2 RP)**: Elves serving in the company of dragons are trained to assist and represent their draconic allies. Elves with this racial trait gain a +1 bonus on Diplomacy and Knowledge (arcana) checks. This racial trait replaces keen senses.
+
+**Dragon Magic (3 RP)**: Some elves have potent draconic blood. Elves with this racial trait who take a draconic bloodline as a class feature treat their Charisma scores as 2 points higher when determining the DC and uses per day of all bloodline abilities and bloodline spells. Additionally, elves with this trait add spells with the draconic descriptor to their class spell lists for any spellcasting classes in which they have levels.
+
 ## Racial Subtypes
 
 You can combine various alternate racial traits to create elven subraces or variant races, such as the following.

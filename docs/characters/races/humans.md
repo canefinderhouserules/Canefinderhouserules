@@ -129,6 +129,14 @@ The following racial traits represent a fey ancestor in the family line. They ca
 
 **Powerful Presence**: Humans with a regal bearing and strong personal magnetism can apply their presence more forcefully than others. A human with this trait treats her Charisma score as 2 points higher for the purpose of meeting feat prerequisites. In addition, humans with this racial trait gain Persuasive as a bonus feat. This racial trait replaces the bonus feat trait.
 
+### Draconic Alternate Racial Traits
+
+These traits can be selected in place of specific racial traits, but their racial point (RP) values are also listed for campaigns using the race builder rules.
+
+**Draconic Heritage (4 RP)**: At times, a human's family history can have a dragon's power bound to the bloodline. Humans with this trait gain darkvision with a range of 10 feet and low-light vision. They can also ignore the Charisma prerequisite for Eldritch Heritage and any feat that has Eldritch Heritage as a prerequisite, but can select only the draconic bloodline with these feats. This replaces the bonus skill rank humans receive at each level.
+
+**Dragon Scholar (4 RP)**: Humans with this trait receive a +2 racial bonus on caster level checks to overcome a dragon's spell resistance. In addition, they receive a +3 racial bonus on Knowledge (arcana) checks related to creatures of the dragon type. This trait replaces humans' bonus feat racial trait.
+
 ## Racial Subtypes
 
 You can combine various alternate racial traits to create human subraces or variant races, such as the following.

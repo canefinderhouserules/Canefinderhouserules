@@ -90,6 +90,12 @@ The following racial traits represent a fey ancestor in the family line. They ca
 
 **Conservative Diplomacy**: A dwarf can embrace predictable traditions to avoid social missteps. A dwarf with this racial trait can rely upon conservative tactics when attempting a Diplomacy check; this choice must be made before the Diplomacy check is attempted. The dwarf treats any roll of less than 5 on such a Diplomacy check as though she had rolled a 5, but she treats any roll higher than 15 on such a check as though she rolled a 15. This racial trait replaces stonecunning.
 
+### Draconic Alternate Racial Traits
+
+These traits can be selected in place of specific racial traits, but their racial point (RP) values are also listed for campaigns using the race builder rules.
+
+**Treasure Sense (2 RP)**: Some dwarves have learned to sense the presence of material wealth with dragonlike precision. This ability functions as scent, except it can detect only precious metals (copper, silver, and gold) and creatures primarily made of such materials. This trait replaces stability and stonecutting.
+
 ## Racial Subtypes
 
 You can combine various alternate racial traits to create dwarven subraces or variant races, such as the following.

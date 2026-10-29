@@ -84,6 +84,12 @@ The following racial traits represent a fey ancestor in the family line. They ca
 
 **Genial Magic**: Gnomes with this racial trait add 1 to the DC of saving throws against enchantment spells that they cast. Gnomes with Charisma scores of 11 or higher also gain the following spell-like abilities: 1/day—*charm person*, *guidance*, *message*, and *prestidigitation*. The caster level for these effects is equal to the gnome's level. The DC for these spells is equal to 10 + the spell's level + the gnome's Charisma modifier. This racial trait replaces gnome magic.
 
+### Draconic Alternate Racial Traits
+
+These traits can be selected in place of specific racial traits, but their racial point (RP) values are also listed for campaigns using the race builder rules.
+
+**Faerie Dragon Magic (2 RP)**: Some gnomes ally with capricious faerie dragons or share a supernatural kinship with these enigmatic creatures. Gnomes with this trait add 1 to the DCs of saves against the illusion spells they cast. Additionally, a gnome with a Charisma score of 11 or higher can use each of the following spell-like abilities once per day: *ghost sound*, *grease*, and *silent image*. The caster level for these effects is equal to the gnome's character level. The DC for these spells is equal to 10 + the spell's level + the gnome's Charisma modifier. This trait replaces gnome magic.
+
 ## Racial Subtypes
 
 You can combine various alternate racial traits to create gnome subraces or variant races, such as the following.

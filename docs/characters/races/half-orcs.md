@@ -96,6 +96,14 @@ The following racial traits represent a fey ancestor in the family line. They ca
 
 **Vigilant Gaze**: Half-orcs trained as bodyguards in foreign courts develop a keen eye for trouble, but their night vision, unnecessary in well-lit courts, dwindles. Half-orcs with this racial trait gain low-light vision and have a +1 racial bonus on Perception and Sense Motive checks. This racial trait replaces darkvision.
 
+### Draconic Alternate Racial Traits
+
+These traits can be selected in place of specific racial traits, but their racial point (RP) values are also listed for campaigns using the race builder rules.
+
+**Dragon Sight (2 RP)**: Half-orcs with this trait gain some of the keen senses of dragonkind. They have darkvision with a range of 120 feet. This replaces darkvision and intimidating.
+
+**Dragon Slayer (2 RP)**: Some half-orcs train to defend their kind against dragons that would take advantage of or enslave them. Half-orcs with this trait gain a +2 dodge bonus to their AC against dragons and a +1 racial bonus on attack rolls against dragons. This trait replaces orc ferocity.
+
 ## Racial Subtypes
 
 You can combine various alternate racial traits to create half-orc subraces or variant races, such as the following.

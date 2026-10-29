@@ -1059,3 +1059,33 @@ A corsair is a pirate who focuses on shipboard combat, relying on strength of ar
 **Weapon Training (Ex)**: At 5th level, a spear fighter must choose the spears weapon group for the weapon training class feature.
 
 **Weapon Mastery (Ex)**: At 20th level, a spear fighter must choose a weapon from the spears weapon group for his weapon mastery class feature.
+
+## Dragonheir Scion
+
+*Fighter archetype.* Dragonheir scions are the martially inclined humanoid descendants of those influenced by draconic power. Unlike their sorcerous brethren, dragonheir scions manifest their heritage in ways more suited to strength of arms and skill with steel than arcane energies. Those who follow this path are often the children of mighty dragon-blooded sorcerers and others who drew energy from their dragon blood, though they themselves might not exhibit spellcasting ability.
+
+**Class Skills**: The dragonheir scion adds Knowledge (arcana) and Use Magic Device to her list of class skills, instead of Handle Animal or Ride. This alters the fighter's class skills.
+
+**Draconic Bloodline (Su)**: Each dragonheir scion can draw her lineage back to the influence of a great draconic progenitor. At 1st level, a dragonheir scion must select one of the chromatic or metallic dragon types. Once chosen, this cannot be changed. A number of dragonheir scion's abilities deal damage and grant resistances based on her dragon type, as noted below. If a dragonheir scion takes a level in another class that grants a bloodline, the bloodlines must be of the same type, even if that means that the bloodline of one of the classes must change. Subject to GM discretion, the dragonheir scion can change her former bloodline to make them conform.
+
+| Chromatic Dragon Type | Energy Type | Metallic Dragon Type | Energy Type |
+|---|---|---|---|
+| Black | Acid | Brass | Fire |
+| Blue | Electricity | Bronze | Electricity |
+| Green | Acid | Copper | Acid |
+| Red | Fire | Gold | Fire |
+| White | Cold | Silver | Cold |
+
+**Eldritch Strikes (Su)**: At 1st level, a dragonheir scion gains Arcane Strike as a bonus feat. She does not need to meet its prerequisites. This ability replaces the bonus feat gained at 1st level.
+
+**Fearful Might (Ex)**: At 1st level, a dragonheir scion gains a +1 bonus on Intimidate checks to demoralize a foe. This bonus increases to +2 at 6th level and by an additional 1 every 4 fighter levels thereafter to a maximum of +5 at 18th level. This ability replaces bravery.
+
+**Draconic Defenses (Su)**: At 3rd level, a dragonheir scion gains a +1 natural armor bonus and energy resistance 5 against her energy type. At 7th level, this increases to a +2 natural armor bonus and energy resistance 10; at 13th level, it increases to a +3 natural armor bonus and energy resistance 20. This ability replaces armor training 1, 2, and 3.
+
+**Draconic Strike (Su)**: At 3rd level, whenever the dragonheir scion damages a target with an attack augmented by Arcane Strike, the attack deals an additional 1d4 points of damage of the dragonheir scion's energy type. This ability replaces the bonus feat gained at 3rd level.
+
+**Draconic Presence (Su)**: At 5th level, the dragonheir scion receives Dazzling Display as a bonus feat. She does not need a weapon in hand to use this ability, and can use it as a standard action. This ability replaces the bonus feat gained at 5th level.
+
+**Wings (Su)**: At 15th level, a dragonheir scion can grow leathery dragon wings from her back as a standard action, granting her a fly speed of 60 feet with average maneuverability. She can dismiss the wings as a free action. This ability replaces armor training 4 and armor mastery.
+
+**Might of Wyrms (Su)**: At 20th level, a dragonheir scion's draconic heritage becomes manifest. She gains immunity to paralysis, sleep, and damage of her energy type, as well as blindsense with a range of 60 feet. This ability replaces weapon mastery.
