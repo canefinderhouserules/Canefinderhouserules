@@ -195,30 +195,22 @@ When gaining a combat style feat, the ranger may choose Aquadynamic Focus, Aquad
 
 ## Aquatic Feats
 
-| Feat | Prerequisites | Benefit |
-|---|---|---|
-| **Aquadynamic Focus** (Combat) | Weapon Focus, base attack bonus +1 | No additional penalties for fighting underwater with bludgeoning and slashing melee weapons for which you have Weapon Focus. |
-| **Aquadynamic Shot** (Combat) | Far Shot, Point-Blank Shot, base attack bonus +4 | Projectile attacks take –1 per 5 feet of water instead of –2. Thrown weapons still don't work well. |
-| **Child of Two Worlds** (Story) | One parent aquatic, the other a land-dweller; 1st level only | See below. |
-| **Deep Breath** | Con 15 | Hold your breath four times your Constitution score in rounds instead of two. |
-| **Dolphin Style** (Combat, Style) | Improved Unarmed Strike, Swim 3 ranks, BAB +3 or monk 3rd | +1 on melee attack rolls against a creature adjacent to at least two of its allies if you aren't flanking it; your melee attacks ignore AC bonuses from aid another. |
-| **Dolphin Dart** (Combat) | Dolphin Style, Improved Unarmed Strike, Swim 6 ranks, BAB +6 or monk 6th | In Dolphin Style, as a standard action underwater, move up to half swim speed, make one melee attack against a creature within reach, then retreat to your previous position; no attacks of opportunity. |
-| **Dolphin Circle** (Combat) | Dolphin Dart, Dolphin Style, Improved Unarmed Strike, Swim 10 ranks, BAB +10 or monk 10th | See below. |
-| **Master Swimmer** | Skill Focus (Swim), Swim 10 ranks | Swim speed of 30 feet or base land speed, whichever is slower; your racial bonus for a swim speed is +2 instead of +8. |
-| **Murky Spell** (Metamagic) | — | See below. |
-| **Pressure Adept** | Swim 5 ranks | Add one oceanic zone to your native range for pressure; surface dwellers must choose the sunlight zone, aquatic creatures a zone directly above or below their native range. |
-| **Shark Style** (Combat, Style) | Improved Unarmed Strike, Swim 3 ranks, BAB +3 or monk 3rd | Unarmed strikes can deal piercing or bludgeoning damage. Piercing unarmed strikes and bite attacks deal +1d6 bleed. |
-| **Shark Tear** (Combat) | Shark Style, Improved Unarmed Strike, Swim 6 ranks, BAB +6 or monk 6th | In Shark Style, scent in water against bleeding creatures only, and +1 on attack and damage rolls against bleeding creatures. |
-| **Shark Leap** (Combat) | Shark Style, Shark Tear, Improved Unarmed Strike, Swim 10 ranks, BAB +10 or monk 10th | See below. |
-| **Steam Spell** (Metamagic) | — | A spell with the fire descriptor works underwater without a caster level check, but needs a caster level check to function above water. Uses a slot of the spell's actual level. |
-
-**Child of Two Worlds.** You can't have other feats, traits or abilities that specify your bloodline. *Benefit:* an aquatic creature gains a land speed of 10 feet; a non-aquatic creature gains +4 on Swim checks (doesn't stack with a swim speed's bonus). *Goal:* you must live among the race of your other parent, performing significant rites of passage and forming real bonds with its members until accepted. *Completion Benefit:* you gain the amphibious subtype (and aquatic if you lack it) and breathe water and air equally. As a swift action you can turn your feet into a tail fin (swim speed 40 feet) or your tail fin into feet (land speed 30 feet).
-
-**Dolphin Circle.** In Dolphin Style, as a full-round action underwater, choose a circular path starting and ending in your space, no longer than one move action of swimming. You circle until your next turn without provoking attacks of opportunity. You count as being in every space along the path for threatening, flanking (for allies) and area effects; other creatures can attack you and touch you with beneficial touch spells as if you were in every space. You don't count as occupying them for moving through occupied spaces. At the start of your next turn, stop at any space along the path.
-
-**Murky Spell.** Apply only to a mist or fog spell that doesn't normally work underwater (*cloudkill*, *fog cloud*, *mind fog*, *obscuring mist*, *solid fog*). Cast underwater, it clouds the water with sediment to the same effect as the normal spell, except the duration is one-tenth normal (generally 1 minute per level; *mind fog* 3 minutes), not affecting the duration of secondary effects. Abilities that see through mist and fog don't see through it unless they also see through murky water. A current of speed 10 feet or more disperses it in 1 round. No effect above water. Uses a slot of the spell's actual level.
-
-**Shark Leap.** In Shark Style, underwater with neutral, rising or swiftly rising buoyancy, you can leap at opponents directly above you as a charge that moves only straight up and makes a single piercing unarmed strike or bite. A hit deals double damage; if the roll also exceeds 11 + the target's Swim modifier, it is off-balance until its next turn. Limited to a standard action (such as the surprise round), you move half as far and double only the damage dice (as Vital Strike).
+- [Aquadynamic Focus](../feats/aquadynamic-focus.md): Fight underwater with Weapon Focus weapons without penalty.
+- [Aquadynamic Shot](../feats/aquadynamic-shot.md): Projectile penalty of –1 per 5 feet of water.
+- [Child of Two Worlds](../feats/child-of-two-worlds.md): Story feat: aquatic and land heritage.
+- [Deep Breath](../feats/deep-breath.md): Hold your breath twice as long.
+- [Dolphin Style](../feats/dolphin-style.md): Style: bunch up enemies.
+- [Dolphin Dart](../feats/dolphin-dart.md): Dart, attack and retreat.
+- [Dolphin Circle](../feats/dolphin-circle.md): Circle foes, threatening a whole path.
+- [Favor of the Torrent Queen](../feats/favor-of-the-torrent-queen.md): Hydraulic torrent.
+- [Master Swimmer](../feats/master-swimmer.md): Gain a limited swim speed.
+- [Murky Spell](../feats/murky-spell.md): Metamagic: mist spells underwater.
+- [Pressure Adept](../feats/pressure-adept.md): Extend native pressure range.
+- [Shark Style](../feats/shark-style.md): Style: piercing unarmed strikes and bleed.
+- [Shark Tear](../feats/shark-tear.md): Scent against bleeding creatures.
+- [Shark Leap](../feats/shark-leap.md): Leap at foes above.
+- [Steam Spell](../feats/steam-spell.md): Metamagic: fire spells underwater.
+- [Touch of the Brine Emperor](../feats/touch-of-the-brine-emperor.md): Suppress water breathing.
 
 ## Aquatic Spells
 

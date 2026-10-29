@@ -24,3 +24,5 @@ Each hour that you swim, you must make a DC 20 Swim check or take 1d6 points of 
 **Special**: A creature with a swim speed can move through water at its indicated speed without making Swim checks. It gains a +8 racial bonus on any Swim check to perform a special action or avoid a hazard. The creature can always choose to take 10 on a Swim check, even if distracted or endangered when swimming. Such a creature can use the run action while swimming, provided that it swims in a straight line.
 
 If you have the Athletic feat, you get a bonus on Swim checks (see Chapter 5).
+
+For campaigns set largely underwater, see the [Aquatic Rules](../wilderness/aquatic-rules.md) for buoyancy, drowning, pressure and underwater combat.

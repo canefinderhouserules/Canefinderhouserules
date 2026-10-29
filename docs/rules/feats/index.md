@@ -3375,15 +3375,31 @@ Feats from Pathfinder Campaign Setting supplements.
 
 | Feat | Type | Prerequisites |
 |---|---|---|
+| [Aquadynamic Focus](aquadynamic-focus.md) | Combat | Weapon Focus, base attack bonus +1 |
+| [Aquadynamic Shot](aquadynamic-shot.md) | Combat | Far Shot, Point-Blank Shot, base attack bonus +4 |
 | [Caster's Champion](casters-champion.md) | Combat | — |
 | [Censoring Critical](censoring-critical.md) | Combat, Critical | Critical Focus, base attack bonus +15 |
+| [Child of Two Worlds](child-of-two-worlds.md) | Story | One of your parents was aquatic and the other a land dweller (through an elixir of two worlds or other means); 1st level only |
+| [Deep Breath](deep-breath.md) | — | Constitution 15 |
 | [Dislocate](dislocate.md) | — | Con 13 |
+| [Dolphin Circle](dolphin-circle.md) | Combat | Dolphin Dart, Dolphin Style, Improved Unarmed Strike, Swim 10 ranks, base attack bonus +10 or monk level 10th |
+| [Dolphin Dart](dolphin-dart.md) | Combat | Dolphin Style, Improved Unarmed Strike, Swim 6 ranks, base attack bonus +6 or monk level 6th |
+| [Dolphin Style](dolphin-style.md) | Combat, Style | Improved Unarmed Strike, Swim 3 ranks, base attack bonus +3 or monk level 3rd |
 | [Extended Scrying](extended-scrying.md) | — | Ability to cast a spell of the scrying subschool |
+| [Favor of the Torrent Queen](favor-of-the-torrent-queen.md) | — | Worshiper of a deity of waters or pearl seeker paladin, character level 5th |
 | [Gate Breaker](gate-breaker.md) | Combat | Str 13, Improved Sunder, Power Attack, base attack bonus +1 |
 | [Infernal Knight Aegis](infernal-knight-aegis.md) | — | Heavy Armor Proficiency, base attack bonus +5, must swear allegiance to a single knightly order |
-| [Relic Breaker](relic-breaker.md) | Combat | Str 13, Gate Breaker, Improved Sunder, Power Attack, base attack bonus +1 |
-| [Scrutinize Spell](scrutinize-spell.md) | — | Spellcraft 1 rank |
-| [Signifer Armor Training](signifer-armor-training.md) | — | Arcane Armor Mastery, Arcane Armor Training, Heavy Armor Proficiency, caster level 7th, must swear allegiance to a single knightly order |
 | [Infernal Knight Obedience](infernal-knight-obedience.md) | — | Knowledge (planes) 3 ranks, must swear allegiance to a single knightly order |
 | [Infernal Knight Obsession](infernal-knight-obsession.md) | — | Infernal Knight Obedience, Knowledge (planes) 3 ranks, must swear allegiance to a single knightly order |
+| [Master Swimmer](master-swimmer.md) | — | Skill Focus (Swim), Swim 10 ranks |
+| [Murky Spell](murky-spell.md) | Metamagic | — |
+| [Pressure Adept](pressure-adept.md) | — | Swim 5 ranks |
+| [Relic Breaker](relic-breaker.md) | Combat | Str 13, Gate Breaker, Improved Sunder, Power Attack, base attack bonus +1 |
+| [Scrutinize Spell](scrutinize-spell.md) | — | Spellcraft 1 rank |
+| [Shark Leap](shark-leap.md) | Combat | Improved Unarmed Strike, Shark Style, Shark Tear, Swim 10 ranks, base attack bonus +10 or monk level 10th |
+| [Shark Style](shark-style.md) | Combat, Style | Improved Unarmed Strike, Swim 3 ranks, base attack bonus +3 or monk level 3rd |
+| [Shark Tear](shark-tear.md) | Combat | Improved Unarmed Strike, Shark Style, Swim 6 ranks, base attack bonus +6 or monk level 6th |
+| [Signifer Armor Training](signifer-armor-training.md) | — | Arcane Armor Mastery, Arcane Armor Training, Heavy Armor Proficiency, caster level 7th, must swear allegiance to a single knightly order |
+| [Steam Spell](steam-spell.md) | Metamagic | — |
+| [Touch of the Brine Emperor](touch-of-the-brine-emperor.md) | — | Worshiper of a deity of the sea's depths, character level 5th |
 | [Traditional Weapons](traditional-weapons.md) | Combat | Int 13 |

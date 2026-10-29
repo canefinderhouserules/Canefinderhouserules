@@ -51,7 +51,7 @@ The following are class features of the infernal knight signifer prestige class.
 
 **Catechesis (Ex)**: If an infernal knight signifer has the Warrior Priest feat, his class level stacks with other divine spellcasting classes for determining the effects of those classes’ domain powers, inquisitions, and mysteries. This doesn’t grant any new powers or abilities. In addition, a signifer with the Warrior Priest feat gains Alignment Channel (chaos) as a bonus feat, and treats his signifer levels as cleric levels when determining the amount of damage healed or dealt and saving throw DCs of his channeled energy.
 
-**Order**: An infernal knight signifer chooses a knightly order to join at 1st level. The most common orders (and their favored weapon or weapons) are: Chain (flail), Gate (dagger), Godclaw (morningstar), Nail (halberd or lance), Pyre (glaive), Rack (longsword or whip), and Scourge (heavy mace or whip).
+**Order**: An infernal knight signifer chooses a knightly order to join at 1st level. The most common orders (and their favored weapon or weapons) are: Shackles (flail), Portal (dagger), Faithful (morningstar), Spike (halberd or lance), Brazier (glaive), Austerity (longsword or whip), and Lash (heavy mace or whip).
 
 **Signifer Mask (Su)**: Upon initiation, an infernal knight signifer receives a mask, often devoid of eyeholes or other personal features. This mask doesn’t obscure the signifer’s vision, and while wearing it he gains a +2 competence bonus on Sense Motive checks and on saving throws against spells and abilities that rely on visual effects.
 

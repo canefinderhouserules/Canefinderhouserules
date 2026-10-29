@@ -520,3 +520,55 @@ A powerful magical container built to obscure and confound any attempt to locate
 Three lattice orbs, one inside the other, all carved from a single piece of blue mineral. Originally made to unlock a prison, as a side effect it protects the region around it from the ravages of winter. Within a 5-mile radius, otherwise cold weather (below 40° F) becomes moderate, while severe cold (below 0° F) becomes only cold. A mild wind marks the edge of the effect. The key must remain stationary (unattended) to produce this effect, and takes 24 hours to attune itself to its locale. It only ameliorates natural weather; it has no effect on magically created effects or extraplanar environments.
 
 **Destruction** The key's power is tied to the prison it was made to open; destroying that prison destroys the key.
+
+### Frostlord's Torc
+
+**Aura** overwhelming conjuration and enchantment [evil]; **CL** 25th; **Slot** neck; **Weight** 2 lbs.
+
+A golden collar containing a fragment of a demon lord's mortal soul, trapped within by a powerful witch. The torc grants its wearer immunity to cold and the ability to command frost giants at will. This functions as *dominate monster* but affects only frost giants, who take a –10 penalty on their saves. The wearer can also cast *giant form II* three times per day. Anyone who wears the torc for 1 week gains the ability to summon an aspect of the demon lord's dark hunger once per day, in the form of a wendigo that faithfully serves the wearer for 1 hour. Using the torc this way alerts the demon lord to the torc's whereabouts.
+
+Each time one of the torc's powers is used there is a cumulative 5% chance that the wearer goes berserk (gaining all the benefits and drawbacks of the barbarian's rage), attacking the nearest non-giant creature until unconscious or dead, or until no living non-giant remains within 30 feet.
+
+**Destruction** The torc dissolves if boiled for 24 hours in the cauldron of a legendary witch's dwelling.
+
+### Totem of the Beast Lord
+
+**Aura** strong necromancy and transmutation; **CL** 20th; **Slot** none; **Weight** 150 lbs.
+**Alignment** CE; **Ego** 18; **Senses** 30 ft. hearing and tremorsense, *true seeing*; **Int** 7, **Wis** 14, **Cha** 13; **Communication** empathy; **Special Purpose** slay all non-worshipers of the demon lord who created it
+**Spell-like abilities** (CL 20th, concentration +21): at will *weird* (DC 20); 1/day *reincarnate* (see below); 1/year *reincarnate* (see below)
+
+Dangerous artifacts created by a demon lord of beasts, several of these totems lie hidden in deep jungle. Each is an intelligent artifact largely in control of itself. A totem radiates an aura that forces all non-worshipers of its demon lord within 30 feet to succeed at a DC 15 Will save or become panicked for 1 round (a mind-affecting fear effect). It can use its own spell-like abilities as it pleases, frequently lashing out with *weird*. Its size and direct connection to its creator's power prevent it from being easily used by others: anyone who would employ its powers must touch it, and those who are not chaotic evil worshipers of the demon lord must also enter a contest of wills with the totem to use its powers that day (see Intelligent Items in the Core Rulebook). If a creature wins the contest, it can direct the totem to use its abilities. Additionally, the creature is immune to the totem's panic aura for 24 hours and the totem cannot use its spell-like abilities against it for that day.
+
+Once per day, the totem can *reincarnate* a single creature that dies within 30 feet of it. Unlike the spell, the creature always returns to life as a chaotic evil brutish ape-person: a +4 Str, +2 Dex, +4 Con humanoid. Once per year, the totem may instead bring a creature back to life as a chaotic evil dire ape, gaining +8 Str, +4 Dex and +6 Con. A creature restored this way is infused with a desire to seek out the current tyrant of the apes and challenge him to a fight to the death; the survivor rules for another year. As with all reincarnate effects, the creature must be willing, and it knows that accepting the offer enslaves its soul to the demon lord (hence the shift to chaotic evil).
+
+If the totem is placed on or adjacent to an altar of the demon lord under the effect of *unhallow* cast by a worshiper, its sensory range extends to 300 feet, and it can use its abilities in this range as long as it has line of sight to its target.
+
+**Destruction** A totem can be destroyed only by an ape tyrant (acting on his own volition or under magical control), who can damage it as a normal item with hardness 8 and 100 hit points, or by succeeding at a DC 30 Strength check to break it in half. Once an ape tyrant attacks one of these totems, the blasphemy means he no longer counts as a worshiper, and he can now be affected by the totem's panic aura. The totem can then, once per round, attempt to revoke his reincarnated body: each round the blasphemer remains within the totem's senses, he must succeed at a DC 25 Fortitude save or be transformed back into his original race. He is then no longer an ape tyrant and can no longer damage the totem, but the totem can continue to use *weird* to try to slay him as long as it is able.
+
+### Song of Extinction (Music Box)
+
+**Aura** strong transmutation; **CL** 20th; **Slot** none; **Weight** 3 lbs.
+
+A delicate midnight-blue music box, just large enough to contain a human skull, with images of ruin winding across its surface like worms. Winding it plays a haunting 30-second melody. A bard can learn this tune as though it were a masterpiece (see *Song of Extinction* masterpiece below). Once per week, as a standard action, the wielder can command the music box to perform the masterpiece itself, affecting everyone within range except the bearer. After being used this way, the box cannot be reactivated in any way for 1 week.
+
+*Insubstantial artifact.* The song is in part a bardic masterpiece of artifact-level power. Once a character has attained it, revoking it is even harder than destroying an artifact; GMs should carefully consider allowing it to fall into PC hands. Any bard able to learn and perform it carries an incredibly powerful and completely undetectable weapon. The performer needs less than a minute to unleash it, and in a crowded area, or woven into a greater work performed in a packed hall, it can turn the most innocuous artist into a walking calamity.
+
+**Destruction** Any creature that succeeds at a DC 35 Craft (traps) check while manipulating the box can rig it to play in reverse once. This causes the music box to implode but also kills the performer, who cannot be brought back to life by any means short of divine intervention.
+
+**Song of Extinction Masterpiece (Sing, String, Wind)**
+
+The clarion of the end times, a meticulous cacophony that ends all life.
+
+*Prerequisite* Perform (sing, string or wind) 15 ranks. *Cost* feat or 6th-level bard spell known. *Use* all of the performer's uses of bardic performance for that day. *Action* 5 full rounds.
+
+*Effect* The area within 100 feet of the performer begins quaking and moaning as if the earth itself were in pain. The area is treated as per *earthquake*. In addition, all creatures in the area except the performer must make DC 25 Reflex saves as individual earthen maws open beneath each. Those who fail fall into a 20-foot-deep pit that quickly grinds shut, trapping them as in the bury zone of an avalanche and without air (see the Core Rulebook). If any living, sentient creature is killed by the song's effects, the performer ceases to age for 1 year.
+
+### Gasping Pearl
+
+**Aura** overwhelming transmutation; **CL** 20th; **Slot** none; **Weight** 4 lbs.
+
+Long ago, tyrannical elemental lords waged war on their benevolent counterparts and imprisoned them in powerful, unique artifacts. This one imprisons a benevolent elemental lord of water. It appears as a perfectly spherical iridescent abalone pearl the size of a human fist, and at all times gives forth a choking, gasping sound, as if struggling to breathe. Despite this constant, disturbing noise, the pearl is not evil.
+
+Three times per day, the bearer can call upon its power to move and control water as if by *control water*, affecting a 500-foot-by-500-foot area up to 100 feet deep. Once per day, it can summon an elder water elemental with maximum hit points that serves the caster until it is slain; only one such elemental can be summoned at a time.
+
+**Destruction** The pearl can be smashed by the combined power of three elemental princes, one each from the Planes of Air, Earth and Fire. Even then, the dust must be cast into a place where it will never touch even a drop of water.
