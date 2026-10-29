@@ -91,6 +91,7 @@ New summoner spells from *Ultimate Magic*. Spells from other books will be added
 - **[Insect Scouts](insect-scouts.md)**: Vermin investigate a location and grant rerolls on related skill checks.
 - **[Insect Spies](insect-spies.md)**: Use magic beetles as spies.
 - **[Irradiate](irradiate.md)**: Flood an area with radiation.
+- **[Knell of the Depths](knell-of-the-depths.md)**: Curse: the target sinks in water.
 - **[Leshy Swarm](leshy-swarm.md)**: Summon a swarm of Tiny leshys.
 - **[Life Conduit, Improved](life-conduit-improved.md)**: Transfers 2d6 hit points to your eidolon as a swift action.
 - **[Mad Monkeys](mad-monkeys.md)**: Summon a swarm of mischievous monkeys.
@@ -138,6 +139,7 @@ New summoner spells from *Ultimate Magic*. Spells from other books will be added
 - **[Celestial Healing, Greater](celestial-healing-greater.md)**: Target gains fast healing 4.
 - **[Cold Iron Fetters](cold-iron-fetters.md)**: Shackle a target, halving its speeds and blocking magical movement.
 - **[Contact Entity III](contact-entity-iii.md)**: Ask very powerful eldritch entities to find and converse with you, or they may reply telepathically.
+- **[Curse of Dragonflies](curse-of-dragonflies.md)**: Curse: flying becomes difficult for the target.
 - **[Damnation Stride](damnation-stride.md)**: This spell functions like dimension door, except you leave behind a burst of fire.
 - **[Daze, Mass](daze-mass.md)**: As daze, but affecting multiple creatures.
 - **[Hollow Heroism](hollow-heroism.md)**: Provide a *heroism* effect that you can reverse at any time.

@@ -463,3 +463,23 @@ Because of your heritage, you can move and see through shadows as if you are par
 **Shadow Door (Su)**: At 16th level, you can take any part of your movement through shadows, teleporting to another location within 60 feet. This ability functions as *dimension door*, except you can't use shadow door in brightly lit areas. You can teleport in this manner a total of 10 feet per class level each day.
 
 **Shadow Warrior (Su)**: At 20th level, you become shadow and fury personified. You see perfectly in natural and magical darkness. Whenever you deal hit point damage with a spell or attack, you also deal 2 points of Strength damage to each creature that took damage.
+
+## Hag
+
+Hags interbreed with other races frequently, and those children who escape their grasp may pass their heritage on to later generations before it reemerges. The potent humors that accompany hag blood are better suited to a bloodrager's ferocity than to traditional spellcasting.
+
+**Bonus Feats**: Blind-Fight, Deceitful, Great Fortitude, Improved Natural Attack, Intimidating Prowess, Mother's Gift.
+
+**Bonus Spells**: *Chill touch* (7th), *blindness/deafness* (10th), *bestow curse* (13th), *charm monster* (16th).
+
+**Bloodline Powers**: While bloodraging, you manifest the physical power and arcane corruption of your hag ancestor.
+
+**Evil Eye (Su)**: At 1st level, you can curse an opponent with a wicked glance. As a standard action, you can afflict one target within 30 feet that you can see, causing it to take a –2 penalty to AC and on attack rolls for 1 round per class level or until the target hits you with an attack. The target can negate this effect with a successful Will saving throw (DC = 10 + half your bloodrager level + your Charisma modifier). You can use this ability a number of times per day equal to 3 + your Charisma modifier.
+
+**Hag Fortitude (Su)**: At 4th level, you become immune to mundane and magical diseases. At 8th level, you also become immune to poison.
+
+**Hag Transformation (Su)**: At 12th level, your form grows more twisted and powerful while bloodraging, but clumsy, blind aggression clouds your mind. Your morale bonus to Strength increases by 2, and you gain low-light vision and darkvision (60 feet), but you take a –2 penalty to both Dexterity and Wisdom for the duration of your bloodrage. At 16th level, you apply your morale bonus on Will saving throws while bloodraging to Fortitude and Reflex saving throws against spells and spell-like abilities.
+
+**Covenguard (Su)**: At 16th level, you can cast *bestow curse* three times per day as a spell-like ability. You count as a hag for the purposes of joining a coven; the coven must contain at least one hag.
+
+**Curse Conduit (Su)**: At 20th level, you gain immunity to negative energy damage and all spells with the curse descriptor. Whenever you confirm a critical hit with a melee weapon, you can immediately target your opponent with a *bestow curse* spell or spell-like ability as a free action.

@@ -123,6 +123,7 @@ Bloodragers gain access to the following spells. Spells in plain text come from 
 - Gusting Sphere
 - **[Gust of Wind](gust-of-wind.md)**: Blows away or knocks down smaller creatures.
 - Imbue with Elemental Might
+- **[Hag's Seasoning](hags-seasoning.md)**: Curse: the target becomes a delicious meal.
 - **[Heckle](heckle.md)**: Sour a target's mood and impose –2 penalties.
 - **[Huntmaster’s Spear](huntmasters-spear.md)**: Spear becomes a +1 weapon against a chosen favored-enemy type and can be discharged for a powerful attack.
 - **[Instant Weapon](instant-weapon.md)**: Create a masterwork melee weapon of force.

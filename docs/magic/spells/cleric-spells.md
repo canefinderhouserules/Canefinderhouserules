@@ -354,6 +354,7 @@
 - **[Draconic Malice](draconic-malice.md)**: Fear-immune foes lose their immunity to your fear effects.
 - **[Dragon Turtle Shell](dragon-turtle-shell.md)**: Natural attacks against you deal reduced damage.
 - **[Drain Poison](drain-poison.md)**: Drain a creature's poison onto your weapon.
+- **[Fair Is Foul](fair-is-foul.md)**: Curse: the target gains a random arcane malignancy.
 - **[False Alibi](false-alibi.md)**: Replace a memory when a trigger occurs.
 - **[Final Sacrifice](final-sacrifice.md)**: Detonate a summoned creature
 - **[Flesh Puppet](flesh-puppet.md)**: Control a zombie in human guise.
@@ -460,6 +461,7 @@
 - **[Bountiful Banquet](bountiful-banquet.md)**: Create a luxurious feast for two creatures/level.
 - **[Brightest Light](brightest-light.md)**: Longer-lasting daylight that can dispel darkness.
 - **[Burst with Light](burst-with-light.md)**: Target takes light damage and glows.
+- **[Calamitous Flailing](calamitous-flailing.md)**: Curse: the target's missed attacks strike its allies.
 - **[Celestial Healing, Greater](celestial-healing-greater.md)**: Target gains fast healing 4.
 - **[Chaos Hammer](chaos-hammer.md)**: Harms and slows lawful creatures (1d8 damage/2 levels).
 - **[Conditional Curse](conditional-curse.md)**: Bestow a curse that is difficult to remove without fulfilling a condition.

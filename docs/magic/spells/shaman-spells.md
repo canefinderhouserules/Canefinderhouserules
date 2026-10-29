@@ -255,6 +255,7 @@ Shamans gain access to the following spells. Spells in plain text come from othe
 - **[Earth Tremor](earth-tremor.md)**: Unleash a tremor that creates difficult terrain and can knock foes down and damage them.
 - **[Ectoplasmic Snare](ectoplasmic-snare.md)**: Tendril of ectoplasm grapples a creature and tethers you to it.
 - Fins to Feet
+- **[Fair Is Foul](fair-is-foul.md)**: Curse: the target gains a random arcane malignancy.
 - **[Fey Form I](fey-form-i.md)**: Assume the form of a Small or Medium fey creature.
 - **[Final Sacrifice](final-sacrifice.md)**: Detonate a summoned creature
 - **[Find Fault](find-fault.md)**: Learn a creature's weaknesses and gain +5 on your first attack.
@@ -263,6 +264,7 @@ Shamans gain access to the following spells. Spells in plain text come from othe
 - **[Fly](fly.md)**: Subject flies at speed of 60 ft.
 - **[Font of Spirit Magic](font-of-spirit-magic.md)**
 - **[Free Spirit](free-spirit.md)**: Gain freedom of movement and fear resistance, but be drunk
+- **[Hag's Seasoning](hags-seasoning.md)**: Curse: the target becomes a delicious meal.
 - **[Hex Glyph](hex-glyph.md)**
 - **[Hollow Blades](hollow-blades.md)**: Target's melee damage drops one size.
 - **[Horrifying Visage](horrifying-visage.md)**: Haunt gives victims a phobia of a named thing.
@@ -270,6 +272,7 @@ Shamans gain access to the following spells. Spells in plain text come from othe
 - Magic Circle Against Chaos/evil/good/law
 - **[Irregular Size](irregular-size.md)**: Curse shrivels arms, legs, or wings.
 - **[Jealous Rage](jealous-rage.md)**: Target attacks anyone who receives a benefit it does not.
+- **[Knell of the Depths](knell-of-the-depths.md)**: Curse: the target sinks in water.
 - **[Magic Vestment](magic-vestment.md)**: Armor or shield gains +1 enhancement per four levels.
 - **[Mantle of Calm](mantle-of-calm.md)**: Neutralize the rage effects of those who have attacked you.
 - **[Mindlocked Messenger](mindlocked-messenger.md)**: ‘Target gains a message that can be given only to its intended recipient.
@@ -338,6 +341,7 @@ Shamans gain access to the following spells. Spells in plain text come from othe
 - **[Control Water](control-water.md)**: Raises or lowers bodies of water.
 - **[Cure Critical Wounds](cure-critical-wounds.md)**: Cures 4d8 damage + 1/level (max +20).
 - **[Curse of Burning Sleep](curse-of-burning-sleep.md)**: Creature catches fire the next time it sleeps for an hour.
+- **[Curse of Dragonflies](curse-of-dragonflies.md)**: Curse: flying becomes difficult for the target.
 - **[Curse Terrain](curse-terrain.md)**: Curse an area with four hazards.
 - **[Detect Scrying](detect-scrying.md)**: Alerts you to magical eavesdropping
 - **[Dismissal](dismissal.md)**: Forces a creature to return to its native plane.

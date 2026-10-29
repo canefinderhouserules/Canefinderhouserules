@@ -336,6 +336,7 @@
 - **[Blink](blink.md)**: You randomly vanish and reappear for 1 round/level.
 - **[Blot](blot.md)**: Smears all writing in an area.
 - **[Business Booms](business-booms.md)**: Boosts a promoted business for several days.
+- **[Calamitous Flailing](calamitous-flailing.md)**: Curse: the target's missed attacks strike its allies.
 - **[Channel the Gift](channel-the-gift.md)**: Your spell slot powers an ally’s spell.
 - **[Charm Monster](charm-monster.md)**: Makes monster believe it is your ally.
 - **[Claim Identity](claim-identity.md)**: Steal a touched humanoid’s face and identity.

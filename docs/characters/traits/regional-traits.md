@@ -521,3 +521,15 @@ The following regional traits are appropriate for any character that grew up wit
 **Resourceful Scavenger (Wasteland native)**: Living in a land strewn with ruins and crash sites required you to become an expert scavenger, searching for valuables and sustenance. Years spent in this pursuit have given you a keen eye for finding valuables and potentially useful resources in the unlikeliest places. You gain a +2 trait bonus on Perception checks when you search a location for valuables or resources. Appraise is always a class skill for you.
 
 **Snake Handler (Desert native, serpent cultist)**: You have spent time as a member of a cult that venerates serpents. Membership involved the handling of dangerous snakes during rituals, and you have learned how to keep yourself and others safe around them. You gain a +2 bonus on Fortitude saves against poison. Handle Animal is always a class skill for you.
+
+## Coven Regional Traits
+
+The following traits are for characters hailing from lands where hags and witches practice their magic, either for weal or woe.
+
+**Blessed of the Fey Seers (Northern lands)**: You or one of your parents belonged to a coven that honored powerful fey seers, and you still bear their favor in the form of a subtle sense for danger. You gain a +2 trait bonus on Perception checks to notice traps and ambushes, and a +1 trait bonus to your AC against traps and during any surprise round in which you are caught unaware.
+
+**Shadow Dealer (Gothic forest native)**: You have survived and thrived in dark forests by knowing how to make deals with terrible things. You gain a +1 trait bonus on saving throws against fear effects and a +1 trait bonus on Bluff and Diplomacy skill checks against evil fey, monstrous humanoids, and undead.
+
+**Swamp Skulker (Moor native)**: Terrible things prowl the moors of your homeland, and you are all too familiar with hiding or fleeing from them. You gain a +1 trait bonus on Stealth checks when you are in bog, marsh, or swamp terrain, and you treat shallow bogs and swamp undergrowth as normal terrain for the purposes of movement.
+
+**Witch-Tongued (Witch-ruled land native)**: Hailing from a frozen land where witches rule, you deal with others in a cool, calculated way. You gain a +1 trait bonus on Diplomacy checks, and you gain a +1 trait bonus on Intimidate checks against non-witches.

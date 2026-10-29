@@ -1,0 +1,5 @@
+# Cursed Conduit
+
+Something inside you soothes the lingering malice within corrupted magic items.
+
+**Benefit**: You are not compelled to keep or use cursed items you touch so long as your character level is equal to or higher than the item's caster level. You are still affected by the afflictions of any cursed item you carry or use, but you gain a bonus on saving throws against curse effects equal to one-third the caster level of the highest-level cursed item you carry.

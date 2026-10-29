@@ -249,3 +249,15 @@ Similar to how phytokineticists draw their power from the First World, elysiokin
 The ki pool is replenished each morning after 8 hours of rest or meditation; these hours do not need to be consecutive. If the psammokinetic has levels in another class that grants points to a pool of ki points, her psammokinetic levels stack with the levels of that class to determine the total number of ki points in the combined pool, but only one ability score modifier is added to the total. The choice of which score to use is made when the second class ability is gained, and once made, the choice cannot be changed. The psammokinetic can use ki points from this pool to power the abilities of every class she has that grants a ki pool. This replaces elemental overflow.
 
 **Sand Element (Su)**: At 7th level a psammokinetic must select the earth element as her expanded element. She treats her kineticist level as 2 levels lower (rather than 4 levels lower) for the purpose of determining which wild talents she can learn from the earth element. At 15th level, the psammokinetic must choose to expand her mastery of the air element as her expanded element. This alters expanded element.
+
+## Arakineticist
+
+*Kineticist archetype.* Those of strong will who live under a dark curse long enough might learn to control and channel the corrupt energy afflicting them. Changelings who resist the call of their hag mothers are especially given to the arts of the arakineticist.
+
+**Living Curse**: An arakineticist's curse lives within her, granting her dark powers. She must choose void as her primary element and negative blast as her first simple blast.
+
+**Accursed Shadow (Sp)**: At 4th level, an arakineticist's curse casts a dark shadow over her soul, shielding her from death magic. She gains a +2 bonus on saving throws against necromancy spells and death effects. This bonus increases by 1 every 4 levels beyond 4th, to a maximum of +6 at 20th level. This replaces the utility wild talent gained at 4th level.
+
+**Curse Spinner (Sp)**: An arakineticist learns to wield her living curse like a needle to weave and unravel curses. At 6th level, an arakineticist can accept 1 point of burn to cast *remove curse* as a spell-like ability. At 8th level, she can accept 1 point of burn to curse a target as *bestow curse* as a spell-like ability. Both of these abilities count as 4th-level utility wild talents. This replaces the utility wild talents gained at 6th and 8th levels.
+
+**Accursed Infusion (Su)**: At 13th level, an arakineticist's blasts can temporarily curse and bedevil her foe. On a failed Will save, the target takes a –4 penalty on ability checks, attack rolls, saving throws, and skill checks for 1 round as if it were affected by *bestow curse*. A single creature can't be affected by more than one curse from this infusion at a time. This is a 6th-level substance infusion that costs 4 points of burn and can be used with negative and void blasts. This replaces the utility wild talent gained at 13th level.

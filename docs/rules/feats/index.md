@@ -1559,6 +1559,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Authoritative Spell](authoritative-spell.md) | Metamagic | — |
 | [Aversion Tolerance](aversion-tolerance.md) | — | Vampire |
 | [Avid Spellbook Reader](avid-spellbook-reader.md) | — | Ability to prepare arcane spells |
+| [Awakened Hag Heritage](awakened-hag-heritage.md) | — | Iron Will or Mother's Gift, changeling |
 | [Awe-Inspiring Smash](awe-inspiring-smash.md) | Combat, Performance | Str 15, Power Attack, base attack bonus +3 |
 | [Awesome Charge](awesome-charge.md) | Combat | Str 25, Awesome Blow, Improved Bull Rush, Power Attack |
 | [Axiomatic Discourse](axiomatic-discourse.md) | Conduit | Diplomacy 3 ranks, Knowledge (planes) 3 ranks |
@@ -1754,6 +1755,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Courage in a Bottle](courage-in-a-bottle.md) | — | Bravery class feature, worshiper of a deity of freedom and ale |
 | [Courage in Numbers](courage-in-numbers.md) | Teamwork | Iron Will |
 | [Coven Caster](coven-caster.md) | — | Changeling. |
+| [Coven-Touched](coven-touched.md) | — | Cha 11, changeling |
 | [Covering Fire](covering-fire.md) | Combat, Teamwork | Exotic Weapon Proficiency (firearms), Weapon Focus (at least one firearm) |
 | [Covering Fire (Aid)](covering-fire-aid.md) | Combat, Teamwork | Point-Blank Shot |
 | [Covering Shield](covering-shield.md) | Combat | Dex 13, Shield Focus, Shield Proficiency |
@@ -1794,6 +1796,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Curious Companion](curious-companion.md) | — | Animal companion class feature |
 | [Curse Mastery](curse-mastery.md) | Item Mastery | Use Magic Device 3 ranks, base Fortitude save bonus +6 |
 | [Curse of Vengeance](curse-of-vengeance.md) | — | Ability to cast at least one spell or spell-like ability with the curse descriptor, worshiper of a deity of vengeance |
+| [Cursed Conduit](cursed-conduit.md) | — | — |
 | [Cursed Item Detection](cursed-item-detection.md) | — | Spellcraft 5 ranks, ability to cast detect magic |
 | [Cursed Love](cursed-love.md) | Story | You have a romantic interest who has fallen to some dark influence and rejects you out of shame or fear of newfound capabilities. |
 | [Cushioning Armor](cushioning-armor.md) | Armor Mastery | Armor training class feature, proficiency with medium or heavy armor |
@@ -1941,6 +1944,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Encouraging Spell](encouraging-spell.md) | Metamagic | Cha 13, Diplomacy 6 ranks |
 | [Enduring Might](enduring-might.md) | — | Gather Might*, gather power class feature, kineticist level 8th |
 | [Energy Mastery](energy-mastery.md) | Item Mastery | Use Magic Device 1 rank, base Fortitude save bonus +4 |
+| [Enhanced Coven](enhanced-coven.md) | — | Changeling, coven hex or Coven-Touched |
 | [Enlightened Noble](enlightened-noble.md) | — | Cha 13, Noble Scion, Knowledge (nobility) 1 rank |
 | [Ennobled Resistances](ennobled-resistances.md) | — | Investiture class feature, character level 4th |
 | [Enrage Opponent](enrage-opponent.md) | Combat, Panache | Cha 13, Amateur Swashbuckler or panache class feature, Persuasive |
@@ -1995,6 +1999,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Falter](falter.md) | Blood Hex | Int 13, Spellcraft 5 ranks, Use Magic Device 5 ranks |
 | [Familiar Bond](familiar-bond.md) | — | Iron Will |
 | [Familiar Focus](familiar-focus.md) | — | Familiar |
+| [Familiar Link](familiar-link.md) | Coven, Teamwork | Coven hex or Coven-Touched, familiar or spirit animal class feature, witch level 1st |
 | [Familiar Spell](familiar-spell.md) | Metamagic | Spellcaster with familiar class feature |
 | [Famine Tolerance](famine-tolerance.md) | — | Moroi or nosferatu vampire |
 | [Fanged Crown Massacre](fanged-crown-massacre.md) | — | Bodyguard, Combat Reflexes, Perform (oratory) 3 ranks, evil |
@@ -2280,6 +2285,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Large Target](large-target.md) | Combat | Proficient with sling |
 | [Lashing Tail](lashing-tail.md) | Combat | [Grasping Tail](grasping-tail.md), you must have a tail |
 | [Last Rites](last-rites.md) | Conduit | Knowledge (planes) 3 ranks, Knowledge (religion) 3 ranks |
+| [Latent Curse](latent-curse.md) | Metamagic | — |
 | [Lead by Example](lead-by-example.md) | Combat | Cha 15, half-orc |
 | [Lead from the Back](lead-from-the-back.md) | Combat | Goblin, Intimidate 1 rank |
 | [Leapfrog](leapfrog.md) | Combat, Performance | Acrobatics 3 ranks |
@@ -2354,6 +2360,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Merciless Rush](merciless-rush.md) | Combat | Improved Bull Rush, worshiper of a deity of destruction |
 | [Messenger of Fate](messenger-of-fate.md) | — | Ability to cast *augury*, worshiper of a deity of death and fate |
 | [Metamagic Invocation](metamagic-invocation.md) | — | Metakinesis class feature |
+| [Metamagical Synergy](metamagical-synergy.md) | Coven, Teamwork | Allied Spellcaster |
 | [Meteor Swing](meteor-swing.md) | Combat | Weapon Focus with bludgeoning weapon, base attack bonus +6 |
 | [Mighty Bite](mighty-bite.md) | Combat | Base attack bonus +6, bite attack, rend, troll |
 | [Mighty Boughs](mighty-boughs.md) | — | Str 15, character level 11th, gathlain |
@@ -2608,6 +2615,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Savior’s Arrow](savior-s-arrow.md) | — | Ability to cast cure spells, proficient with longbow, worshiper of a deity of the hunt and farming |
 | [Scale and Skin](scale-and-skin.md) | — | Con 13 |
 | [Scaled Disciple](scaled-disciple.md) | General | Ability to spontaneously cast divine spells, kobold |
+| [Scapegoat](scapegoat.md) | — | Great Fortitude or Iron Will |
 | [Scar Soldier Devotion](scar-soldier-devotion.md) | — | Bodyguard, Combat Reflexes, Perform (oratory) 3 ranks, good |
 | [Scar Soldier Initiate](scar-soldier-initiate.md) | — | Female, 1st level only |
 | [Scarred Legion](scarred-legion.md) | Teamwork | — |
@@ -2676,6 +2684,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Signature Strike Style](signature-strike-style.md) | Combat, Style | Precise Shot; Weapon Focus; base attack bonus +7; Intimidate 7 ranks; Improved Called Shot, targeted strike swashbuckler deed, or targeting gunslinger deed |
 | [Signature Strike Taunt](signature-strike-taunt.md) | Combat | Precise Shot, Signature Strike Style, Weapon Focus, base attack bonus +9, Intimidate 9 ranks |
 | [Signature Strike Triumph](signature-strike-triumph.md) | Combat | Precise Shot, Signature Strike Style, Signature Strike Taunt, Weapon Focus, base attack bonus +11, Intimidate 11 ranks |
+| [Sin-Sharing Critical](sin-sharing-critical.md) | Combat, Critical | Critical Focus, base attack bonus +13 |
 | [Sincere Flattery](sincere-flattery.md) | — | Wyvaran |
 | [Sinister Reputation](sinister-reputation.md) | — | Cha 13, Intimidate 5 ranks, Persuasive or renown social talent |
 | [Sinuous Vines](sinuous-vines.md) | — | Dex 13, Improved Grapple, Improved Unarmed Strike, base attack bonus +6, gathlain |

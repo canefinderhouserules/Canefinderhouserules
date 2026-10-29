@@ -834,3 +834,15 @@ Regional traits are tied to particular regions, often specific nations, territor
 **Pomp and Pageantry** (land of old ceremony): Though others think you merely waste time, you know that those extra flourishes and ceremonial touches actually make your work just that much better. You gain a +1 trait bonus on Acrobatics, Diplomacy, Handle Animal, Intimidate, Perform, and Ride checks with class skills if you spend twice as long as it normally takes to make that check.
 
 **Rabble Rebel** (land of revolution): Your time spent amid angry mobs has taught you exactly how to use crowds of people to distract your opponents. If you have at least three allies threatening your opponent, you gain a +2 bonus on Bluff checks to feint him and a +2 bonus on Sleight of Hand checks against him.
+
+## Coven Traits
+
+The following traits are appropriate for those who have felt the influence of covens.
+
+**Coven Casting (Magic)**: You have belonged to a coven or magical cabal and know how to coordinate your spellcasting with others. When within 30 feet of an allied spellcaster, you both gain a +2 trait bonus on concentration checks.
+
+**Malevolent Temptations (Social)**: You have resisted or escaped the temptations of a disguised hag, and you learned much from your encounter. You gain a +1 trait bonus on Sense Motive checks and a +2 trait bonus on saving throws to disbelieve illusions.
+
+**Preternatural Awareness (Social)**: Multiple encounters with fell magic have left you wary. You gain a +2 trait bonus on Perception and Sense Motive checks to notice cursed objects, haunts, and magically disguised creatures.
+
+**Rebuke the Curse (Faith)**: Once per day, you can attempt to suppress the effects of a curse on a single creature with a touch. This functions as a *remove curse* spell, treating your character level as your caster level. If you succeed at your caster level check against the curse, the curse's effects are negated for 1 minute. This trait does not allow a person burdened with a cursed item to remove or discard it. Use of this trait is a supernatural ability.

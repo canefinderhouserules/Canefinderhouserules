@@ -290,6 +290,7 @@ Mesmerists gain access to the following spells. Spells without a link come from 
 - **[Bereave](bereave.md)**: Make targets count as enemies to their own allies
 - **[Bestow Curse](bestow-curse.md)**: –6 to an ability score; –4 on attack rolls, saves, and checks; or 50% chance of losing each action.
 - Bleed Glory
+- **[Calamitous Flailing](calamitous-flailing.md)**: Curse: the target's missed attacks strike its allies.
 - **[Charm Monster](charm-monster.md)**: Makes monster believe it is your ally.
 - **[Clairaudience/Clairvoyance](clairaudience-clairvoyance.md)**: Hear or see at a distance for 1 min./level.
 - **[Conditional Curse](conditional-curse.md)**: Bestow a curse that is difficult to remove without fulfilling a condition.

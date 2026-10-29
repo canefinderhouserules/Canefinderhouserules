@@ -704,6 +704,10 @@ Only skinwalkers may select the traits in this section (the heritage sections ar
 
 Only changelings can select these traits.
 
+**Cruel Child**: Your wicked bloodline shines through, manifesting as a sadistic bloodlust in battle. When you make a full-round attack with your claws, you gain a +1 trait bonus on the attack rolls.
+
+**Switched at Birth**: You were traded for another child in infancy and remained unaware of your origin as a changeling until some recent tragedy revealed the truth. Now the guilt of knowing you live because another child met a horrible fate haunts you and drives you to push forward in that child's name. Once per day, you can attempt a Will saving throw in place of a Fortitude saving throw against a spell, effect, or condition.
+
 **Bitter Heart**: You share a sliver of your mother's supernatural hatred, gaining a +2 trait bonus to confirm critical hits.
 
 **Magic in the Blood**: You possess natural magical ability. Select one of the following spells: *bleed*, *create water*, *dancing lights*, *detect good*, *ghost sound*, or *putrefy food and drink*. You can cast this spell three times per day as a spell-like ability.

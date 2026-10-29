@@ -105,6 +105,7 @@ The magus class spell list appears on the [Magus](../../characters/classes/magus
 - **[Ice Slick](ice-slick.md)**: Coat the area in slippery ice and cold damage
 - **[Imbue with Elemental Might](imbue-with-elemental-might.md)**: School evocation [see text]; Level cleric 2, magus 2, sorcerer/wizard 2 Components V, S Duration 24 hours or.
 - **[Instant Weapon](instant-weapon.md)**: Create a masterwork melee weapon of force.
+- **[Knell of the Depths](knell-of-the-depths.md)**: Curse: the target sinks in water.
 - **[Light Prison](light-prison.md)**: Cage of light damages and blinds those who leave it.
 - **[Mount, Communal](mount-communal.md)**: As mount, but you may divide the duration among creatures touched.
 - **[Pilfering Hand](pilfering-hand.md)**: You may seize an object or manipulate it from afar.
@@ -148,6 +149,7 @@ The magus class spell list appears on the [Magus](../../characters/classes/magus
 - **[Clay Skin](clay-skin.md)**: Target gains DR 5/adamantine.
 - **[Conjuration Foil](conjuration-foil.md)**: Interfere with nearby teleportation effects.
 - **[Conjure Carriage](conjure-carriage.md)**: Create a fine carriage.
+- **[Curse of Dragonflies](curse-of-dragonflies.md)**: Curse: flying becomes difficult for the target.
 - **[Discharge](discharge.md)**: Drain charges from a technological object.
 - **[Earth Tremor](earth-tremor.md)**: Unleash a tremor that creates difficult terrain and can knock foes down and damage them.
 - **[Ectoplasmic Snare](ectoplasmic-snare.md)**: Tendril of ectoplasm grapples a creature and tethers you to it.

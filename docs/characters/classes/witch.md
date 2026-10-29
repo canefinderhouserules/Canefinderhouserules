@@ -189,8 +189,11 @@ At 1st level, when a witch gains her familiar, she must also select a patron. Th
 - **Elements**: 2nd—shocking grasp, 4th—flaming sphere, 6th—fireball, 8th—wall of ice, 10th—flame strike, 12th—freezing sphere, 14th—vortex\*, 16th—fire storm, 18th—meteor swarm.
 - **Endurance**: 2nd—endure elements, 4th—bear’s endurance, 6th—protection from energy, 8th—spell immunity, 10th—spell resistance, 12th—bear’s endurance (mass), 14th—restoration (greater), 16th—iron body, 18th—miracle.
 - **Ethereal**: 2nd—detect undead, 4th—see invisibility, 6th—ectoplasmic snare\*, 8th—condensed ether\*, 10th—ethereal envelope\*, 12th—ethereal jaunt, 14th—ectoplasmic eruption\*, 16th—ethereal envelopment\*, 18th—etherealness.
+- **Jynx**: 2nd—ill omen, 4th—shatter, 6th—bestow curse, 8th—retribution, 10th—mark of justice, 12th—eyebite, 14th—spell turning, 16th—antipathy, 18th—energy drain.
+- **Mercy**: 2nd—cure light wounds, 4th—eagle's splendor, 6th—remove curse, 8th—restoration, 10th—cleanse, 12th—heroes' feast, 14th—foe to friend, 16th—euphoric tranquility, 18th—true resurrection.
 - **Mind**: 2nd—mindlink\*, 4th—mental block\*, 6th—mindscape door\*, 8th—create mindscape\*, 10th—psychic asylum\*, 12th—create mindscape (greater)\*, 14th—psychic surgery\*, 16th—moment of prescience, 18th—microcosm\*.
 - **Plague**: 2nd—detect undead, 4th—command undead, 6th—contagion, 8th—animate dead, 10th—giant vermin, 12th—create undead, 14th—control undead, 16th—create greater undead, 18th—energy drain.
+- **Rot**: 2nd—decompose corpse, 4th—warp wood, 6th—fungal infestation, 8th—fleshworm infestation, 10th—plague carrier, 12th—epidemic, 14th—creeping doom, 16th—horrid wilting, 18th—cursed earth.
 - **Shadow**: 2nd—silent image, 4th—darkness, 6th—deeper darkness, 8th—shadow conjuration, 10th—shadow evocation, 12th—shadow walk, 14th—shadow conjuration (greater), 16th—shadow evocation (greater), 18th—shades.
 - **Strength**: 2nd—divine favor, 4th—bull’s strength, 6th—greater magic weapon, 8th—divine power, 10th—righteous might, 12th—bull’s strength (mass), 14th—giant form I, 16th—giant form II, 18th—shapechange.
 - **Transformation**: 2nd—jump, 4th—bear’s endurance, 6th—beast shape I, 8th—beast shape II, 10th—beast shape III, 12th—form of the dragon I, 14th—form of the dragon II, 16th—form of the dragon III, 18th—shapechange.

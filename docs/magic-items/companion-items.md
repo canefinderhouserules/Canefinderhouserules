@@ -6287,3 +6287,95 @@ This +1 sling looks mundane, but its true ability is revealed when its wielder h
 These maps appear as ordinary parchment. A user of a wanderlust map can spend 1 uninterrupted hour holding the map and thinking about exploring a region within 1,000 miles. After this time has passed, the wanderlust map turns into a detailed map of that area, granting a +5 bonus on exploration checks in that region. A wanderlust map shows only geographical features of a specific area. Once a wanderlust map has turned into a detailed map, it cannot be used to map a different region.
 
 **Construction Requirements:** Craft Wondrous Item, *commune with nature*, *secret page*; **Cost** 300 gp
+
+## Coven Gear
+
+### Cauldron, Battlepot
+
+**Slot** —; **CL** 8th; **Price** 9,312 gp; **Weight** 8 lbs.
+
+**Aura** moderate transmutation
+
+This small cast-iron cauldron has ring handles and three latches that can secure the lid in place. While the pot can be used for cooking and brewing potions, when gripped by the handles, it can also be wielded as a +1 heavy mace without imposing an improvised weapon penalty. As a standard action that provokes an attack of opportunity, a potion can be sealed inside the cauldron, destroying the potion and infusing the iron with its magic. As a free action when he successfully strikes a creature with the battlepot, the wielder can inject the stored potion into the target, treating the struck creature as if it had just consumed the potion. Up to five potions can be stored in a battlepot at a time, but only one potion can be expended per successful hit; the wielder decides which potion is discharged with each blow.
+
+**Construction Requirements:** Craft Magic Arms and Armor, cauldron hex or *touch injection*; creator must have 8 ranks in Craft (alchemy); **Cost** 4,656 gp
+
+### Cauldron of Fireworks
+
+**Slot** —; **CL** 17th; **Price** 7,500 gp; **Weight** 25 lbs.
+
+**Aura** strong transmutation
+
+This heavy cauldron emits colorful smoke whenever a potion is poured into it. Pouring a potion into a cauldron of fireworks is a standard action, and a creature can use the cauldron to store a number of potions equal to her Intelligence modifier. The wielder can command the cauldron to fire a stored potion at a target within 30 feet as a standard action; the target creature is affected as if it drank the potion. The wielder can target allies automatically, but she must succeed at a ranged touch attack to target unwilling creatures. Only the creature that placed potions in the cauldron of fireworks can command it, and only one creature can store potions within the cauldron at a time. A new creature adding a potion to the cauldron of fireworks immediately destroys any potions currently stored within it. A creature that has the cauldron hex can command a cauldron of fireworks she controls to fire potions stored by another user.
+
+**Construction Requirements:** Brew Potion, Craft Wondrous Item, Reach Spell, cauldron hex; **Cost** 3,750 gp
+
+### Collar, Bloodstone
+
+**Slot** neck; **CL** 3rd; **Price** 900 gp; **Weight** —
+
+**Aura** faint necromancy
+
+This leather collar is studded with red and black heliotropes and fastened with an iron clasp. It functions only when worn by a spellcaster's familiar or spirit animal. If a familiar wearing a bloodstone collar is reduced to fewer than 0 hit points, the familiar immediately stabilizes at –1 hit points, and any remaining damage is dealt to the familiar's master. The master can refuse this damage, but the feedback of doing so immediately slays the familiar. Each time a bloodstone collar activates, one of its heliotrope studs cracks; once a third stud cracks, the collar becomes an ordinary nonmagical collar. A bloodstone collar is not triggered by death effects or other damaging effects that do not deal hit point damage.
+
+**Construction Requirements:** Craft Wondrous Item, *life pact*; **Cost** 450 gp
+
+### Collar of Sacrifice
+
+**Slot** neck; **CL** 10th; **Price** 2,000 gp; **Weight** —
+
+**Aura** moderate necromancy
+
+This plain black collar is decorated with snowflake obsidian and functions only when worn by a spellcaster's familiar or spirit animal. If the bonded master of a familiar wearing a collar of sacrifice is slain, the collar drains the familiar's life force to restore its master; the familiar is killed instantly and the bonded master is returned to life with 1 hit point. This item does not work if worn by familiars who do not have a physical life force, such as undead or construct familiars. A familiar that wears a collar of sacrifice becomes despondent and paranoid. It will do nothing except skulk along in the shadows to follow its master. A master must succeed at a DC 15 Charisma check to compel behavior or obedience from such a familiar.
+
+**Construction Requirements:** Craft Wondrous Item, *death knell*; **Cost** 1,000 gp
+
+### Coven Charm
+
+**Slot** belt; **CL** 15th; **Price** 75,000 gp; **Weight** 1 lb.
+
+**Aura** strong evocation and necromancy
+
+This grisly bag is worn by a member of a coven and binds its sisters together even across vast distances. The coven charm can be charged by placing a sizable chunk of flesh—at least the size of a finger, toe, or tongue—from a member of the coven into the bag as a full-round action. Removing an appropriate offering from her own body deals 1d6 points of damage to the respective coven member, as well as a permanent negative level that cannot be regained until the charge in the bag is expended. Each body part placed within the bag generates 1 charge, and a coven charm can hold up to 3 charges. As a full-round action, the coven charm's wearer can spend charges from the bag to cast a spell that normally requires the presence of her entire coven to cast. Expending 1 charge allows the wearer to cast a spell of up to 4th level. Expending 2 charges allows the wearer to cast a spell of up to 6th level. Expending 3 charges allows the wearer to cast a spell of up to 8th level. These spells must be selected from those bonus spells normally available to her collected coven. If any member of the coven is slain, the bag loses all remaining charges. Once a coven charm is drained of all charges, it cannot be refilled for 24 hours, and it must be completely drained of all charges before it can be refilled.
+
+**Construction Requirements:** Craft Wondrous Item, creator must be a changeling or hag; **Cost** 37,500 gp
+
+### Foxfire Lantern
+
+**Slot** —; **CL** 3rd; **Price** 3,000 gp; **Weight** 1 lb.
+
+**Aura** faint divination
+
+This small copper lantern always glows with a faint green light equivalent to a candle flame. If its reservoir is filled with oil as a full-round action, it burns with the normal intensity of a lamp for 6 hours. A creature filling the lantern can attune the foxfire lantern to a specific creature type (such as aberrations or monstrous humanoids) with a successful DC 15 Knowledge check (appropriate to the creature type). Once the lantern is attuned, its green flame will change to red whenever creatures of that type approach within 50 feet. The creature filling the lantern can choose a more specific type of creature (such as green hags), but doing so increases the DC of the Knowledge check to 15 + the creature's CR.
+
+**Construction Requirements:** Craft Wondrous Item, *alarm*, *blood biography*; **Cost** 1,500 gp
+
+### Lock of Formbinding
+
+**Slot** —; **CL** 7th; **Price** 50,000 gp; **Weight** 2 lbs.
+
+**Aura** moderate abjuration
+
+Forged from adamantine and silver, this heavy lock's shank is large enough to wrap around a humanoid ankle, magically resizing itself to fit any wearer. When the lock is placed on a creature, it immediately suppresses all magical polymorph effects or supernatural shapechanging effects (such as a lycanthrope's change shape ability) affecting the wearer, returning her to her true form. The lock of formbinding does not negate these effects, and creatures return to their altered form if the lock is removed before the effect's duration expires. Creatures targeted by a polymorph effect while wearing a lock of formbinding are affected for only a single round before the lock returns them to their true form. A creature wearing a lock of formbinding can likewise change its own shape, but it must succeed at a DC 16 Will saving throw at the end of each round or revert to its true form; the lock resizes to accommodate whatever new forms its wearer might temporarily assume. Attaching the lock of formbinding is a full-round action that provokes an attack of opportunity. Unwilling creatures must be unconscious, pinned, or helpless before the lock can be attached. The lock has hardness 20 and 20 hit points, and without the key, it can be removed only with a successful DC 30 Strength check, a DC 37 Escape Artist check, or DC 30 Disable Device check.
+
+**Construction Requirements:** Craft Wondrous Item, *true form*; **Cost** 25,000 gp
+
+### Pactseeker's Blade
+
+**Slot** —; **CL** 9th; **Price** 55,330 gp; **Weight** 4 lbs.
+
+**Aura** moderate necromancy
+
+This +2 cruel longsword features layers of cold iron and steel folded over one another repeatedly. The blade counts as cold iron for the purpose of overcoming a creature's damage reduction. Whenever a pactseeker's blade successfully deals at least 1 point of damage (after damage reduction) to a target, the weapon also deals damage equal to the weapon's enhancement bonus to each ally that shares an ongoing spell (such as *haste*) with or is otherwise magically bound to the target (such as other members of a hag coven). This damage disregards the range between the weapon's target and such bound creatures, and the damage bypasses damage reduction.
+
+**Construction Requirements:** Craft Magic Arms and Armor, *cause fear*, *death knell*, *symbol of pain*; **Cost** 27,830 gp
+
+### Witching Doll
+
+**Slot** —; **CL** 5th; **Price** 30,000 gp; **Weight** 1 lb.
+
+**Aura** moderate abjuration
+
+A spellcaster binds herself to a witching doll through an hour-long ritual in which the owner stitches some of her hair and fingernails into the rag doll's mouth. Thereafter, the owner can concentrate to see and hear as if she were the doll for up to 1 hour at a time; doing so leaves the owner blind and deaf to her body's immediate surroundings. While concentrating, the spellcaster imparts a modicum of animation to the doll, allowing it to turn its head, gesture, and speak in hushed whispers. Extraordinary senses such as darkvision function through this link, but magical senses such as *arcane eye* and *detect magic* do not. Once per day, the owner can cast a single spell with a range of touch or greater from the witching doll instead of herself. Many hags use this ability to make a witching doll seem mundane by casting *magic aura*, or they transform it into a distant minion with *animate object*.
+
+**Construction Requirements:** Craft Wondrous Item, *enter image* or scare hex; **Cost** 15,000 gp

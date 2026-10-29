@@ -606,6 +606,7 @@
 - **[Iron Stake](iron-stake.md)**: Hurl a spike of cold iron at a foe.
 - **[Irradiate](irradiate.md)**: Flood an area with radiation.
 - **[Isolate](isolate.md)**: Separate your prey from support
+- **[Knell of the Depths](knell-of-the-depths.md)**: Curse: the target sinks in water.
 - **[Leshy Swarm](leshy-swarm.md)**: Summon a swarm of Tiny leshys.
 - **[Lightning Conductor](lightning-conductor.md)**: Absorb electricity damage and discharge it as a touch or ray.
 - **[Locate Weakness](locate-weakness.md)**: You roll damage twice when you roll damage for a critical hit and take the best damage.
@@ -781,6 +782,7 @@
 - **[Blast of Wind](blast-of-wind.md)**: Gust of wind that treats creatures as one size smaller.
 - **[Bloody Arrows](bloody-arrows.md)**: Ranged hits cause stacking bleed.
 - **[Brightest Light](brightest-light.md)**: Longer-lasting daylight that can dispel darkness.
+- **[Calamitous Flailing](calamitous-flailing.md)**: Curse: the target's missed attacks strike its allies.
 - **[Caustic Safeguard](caustic-safeguard.md)**: Acid ward on an object.
 - **[Celestial Healing, Greater](celestial-healing-greater.md)**: Target gains fast healing 4.
 - **[Claim Identity](claim-identity.md)**: Steal a touched humanoid’s face and identity.
@@ -796,6 +798,7 @@
 - **[Create Holds](create-holds.md)**: Creates a path of climbing handholds on a wall.
 - **[Crimson Breath](crimson-breath.md)**: Spit a dose of breath of the assassin poison.
 - **[Curse of Befouled Fortune](curse-of-befouled-fortune.md)**: curse a target so it rolls twice and takes the worse result
+- **[Curse of Dragonflies](curse-of-dragonflies.md)**: Curse: flying becomes difficult for the target.
 - **[Curse Terrain](curse-terrain.md)**: Curse an area with four hazards.
 - **[Cursed Treasure](cursed-treasure.md)**: Curse treasure so the next thief is afflicted
 - **[Deadman’s Contingency](deadmans-contingency.md)**: Set one of a list of contingencies for your demise.
@@ -809,6 +812,7 @@
 - **[Earth Glide](earth-glide.md)**: School transmutation [earth]; Level alchemist 4, druid 4, sorcerer/wizard 4 Casting Time 1 standard action.
 - **[Energy Hack](energy-hack.md)**: After taking energy damage, swap your spells' energy types.
 - **[Enticing Adulation](enticing-adulation.md)**: Target rages to defend you.
+- **[Fair Is Foul](fair-is-foul.md)**: Curse: the target gains a random arcane malignancy.
 - **[Fey Form I](fey-form-i.md)**: Assume the form of a Small or Medium fey creature.
 - **[Fire Trap](fire-trap.md)**: Opened object deals 1d4 damage + 1/level.
 - **[Firewalker's Meditation](firewalkers-meditation.md)**: Meditative spell: damage reduction, fire resistance, and pain resistance.
