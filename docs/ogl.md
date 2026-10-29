@@ -299,3 +299,5 @@ The following text is the property of Wizards of the Coast, Inc. and is Copyrigh
     Pathfinder Campaign Setting: Ships of the Inner Sea © 2014, Paizo Inc.; Authors: Benjamin Bruck, Paris Crenshaw, Chris A. Jackson, Amanda Hamon Kunz, Philip A. Lee, and John Mangrum.
 
     Pathfinder Campaign Setting: Planes of Power © 2016, Paizo Inc.; Authors: John Compton, Paris Crenshaw, Eleanor Ferron, Thurston Hillman, and Jessica Price.
+
+    Pathfinder Campaign Setting: Lost Treasures © 2014, Paizo Inc.; Authors: Judy Bauer, Savannah Broadway, John Compton, Ron Lundeen, Levi Miles, Justin Riddler, F. Wesley Schneider, Mike Shel, Christina Stiles, James L. Sutter, and Jerome Virnich.
