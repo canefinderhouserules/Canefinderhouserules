@@ -429,3 +429,19 @@ This alters phantom and replaces shared consciousness.
 **Hag Spellcasting**: A hag-haunted spiritualist's spells come from her connection to her hag phantom. Her spells are considered arcane rather than psychic, and they use verbal and somatic components instead of thought and emotion components. She still selects her spells known from the spiritualist class list.
 
 **Death Curse (Sp)**: A hag phantom is partially animated by the power of a hag's dying curse, and at 4th level this grants her a death curse of her own. As an immediate action, whenever the hag phantom is slain and returned to the Ethereal Plane, the phantom can utter a curse on the creature that killed her, targeting it with *bestow curse*. At 6th level, the spiritualist gains *bestow curse* as an extra 3rd-level spell known. At 16th level, the spiritualist gains *major curse* as an additional 6th-level spell known. This replaces spiritual interference and greater spiritual interference.
+
+## Seeker of Enlightenment
+
+*Spiritualist archetype.* Sometimes a spiritualist is so haunted by a past life's failure to reach enlightenment that the past life is reborn not as a new creature but as a phantom in a spiritualist's consciousness. The spiritualist and phantom work in tandem to reach enlightenment and atone for the past life's failures.
+
+**Echoes of Expertise (Ex)**: A seeker of enlightenment gains a bonus equal to her spiritualist level on checks attempted with the two skills determined by her phantom's emotional focus. When the phantom is confined to the seeker of enlightenment's consciousness, it grants a +2 bonus on saving throws against mind-affecting effects; at 12th level, this bonus increases to +4. Once per day as a free action, the seeker of enlightenment can attempt a check with any Knowledge skill, including one in which she is not trained, and add her spiritualist level as a bonus on the check. This replaces shared consciousness.
+
+**Words of the Past (Sp)**: At 5th level, a seeker of enlightenment's connection with her past lives becomes so strong that she can cast *comprehend languages* at will as a spell-like ability, with a caster level equal to her spiritualist level. This replaces detect undead.
+
+**Karmic Insight (Sp)**: At 7th level, a seeker of enlightenment gains the ability to understand which actions will push her toward ultimate understanding. She can cast *augury* as a spell-like ability once per day. At 11th level and every 4 levels thereafter, she can use this ability an additional time per day (to a maximum of four times per day at 19th level). This replaces calm spirit.
+
+**Pinpoint Influence (Sp)**: At 9th level, a seeker of enlightenment gains the ability to track objects that are important to her goal of enlightenment. She can cast *locate object* as a spell-like ability once per day, with a duration of 10 minutes. This replaces see invisibility.
+
+**Echoes of Mastery (Ex)**: At 10th level, a seeker of enlightenment gains the bonus on saving throws from echoes of expertise even when her phantom is manifested. Additionally, once per day, she can take 20 on any Knowledge check, including one in which she is not trained. This replaces fused consciousness.
+
+**Knowledge of the Ancestors (Sp)**: At 16th level, a seeker of enlightenment learns how to tap into the knowledge of her past lives. She can cast *legend lore* as a spell-like ability once per day. This replaces call spirit.

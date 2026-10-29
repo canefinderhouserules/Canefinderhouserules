@@ -18,6 +18,24 @@ At 15th level, the cavalier can use wild mount shape to change his mount into a 
 
 **Ferocious Charge (Ex)**: At 15th level, the cavalier is the embodiment of nature's fury. When the cavalier charges a creature, he can attempt an Intimidate check to demoralize his enemy as a free action. If he succeeds, the target is frightened.
 
+### Order of the Monument
+
+Cavaliers who join the order of the monument dedicate themselves to the protection and service of a particular city or settlement and often follow or respect the faiths of their home locale. Cavaliers belonging to this order hold themselves to their city's laws and customs even when traveling abroad.
+
+**Edicts**: The cavalier must strive to protect the settlement, all those who reside within it, and those travelers who hail from it. He must adhere to the settlement's laws even while away from its borders and promote its populace's overarching ideals and values whenever possible.
+
+**Challenge**: Whenever an order of the monument cavalier issues a challenge, he gains a +1 dodge bonus to his AC against attacks made by the target of his challenge when the cavalier is flanked, as well as a +1 morale bonus on saving throws against fear and mind-affecting effects. This bonus increases by 1 for every 4 levels the cavalier has.
+
+**Skills**: An order of the monument cavalier adds Knowledge (local) and Knowledge (religion) to his list of class skills. An order of the monument cavalier chooses one of these two skills. He can attempt skill checks with his chosen skill untrained. If he has ranks in the skill, he receives a bonus on the check equal to half his cavalier level (minimum +1) as long as the check involves his chosen settlement or a faith with a significant presence in his chosen settlement.
+
+**Order Abilities**: A cavalier belonging to the order of the monument gains the following as he increases in level.
+
+*Sworn Defender (Ex)*: At 2nd level, the cavalier gains a +1 morale bonus on saving throws to resist effects created by creatures whose alignments are at least two steps away from his settlement's alignment (e.g., a cavalier of a lawful good settlement and an opponent of neutral alignment). If the creature's alignment is three or more steps away from his settlement's alignment, the bonus increases to +2.
+
+*Protector of the People (Ex)*: At 8th level, the cavalier can inspire the people around him as a swift action. Each creature within 30 feet that is either a resident of his chosen settlement or whose alignment is within one step of the cavalier's settlement gains a morale bonus on saving throws equal to the cavalier's Charisma modifier for 1 round. This bonus doubles if a creature meets both requirements. The cavalier can use this ability once per day, plus one additional time per day at 12th level and every 4 levels thereafter.
+
+*Bastion of the Monument (Ex)*: At 15th level, the cavalier defends his homeland with unmatched ferocity. As a swift action, the cavalier can declare an opponent an enemy of his settlement. This grants the cavalier and his allies a +4 bonus on attack rolls, damage rolls, and ability and skill checks against the opponent, as well as on saving throws to resist effects originating from that opponent. The cavalier can end this ability as a swift action. He can use this ability for a number of rounds per day equal to half his cavalier level. This duration need not be continuous but must be used in 1-round increments.
+
 ### Order of Vengeance
 
 Often affiliated with a church devoted to revenge, cavaliers of exiled noble houses who subscribe to the order of vengeance seek not only to reclaim their rightful homeland, but to punish those who betrayed them.

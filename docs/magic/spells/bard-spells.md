@@ -71,6 +71,7 @@
 - **[Expeditious Retreat](expeditious-retreat.md)**: Your base land speed increases by 30 ft.
 - **[Fabricate Disguise](fabricate-disguise.md)**: Create a disguise in an instant.
 - **[False Face](false-face.md)**: Change your appearance so you are unrecognizable.
+- **[Fastidiousness](fastidiousness.md)**: Stay clean and gain a bonus against inhaled and ingested diseases.
 - **[Feather Fall](feather-fall.md)**: Objects or creatures fall slowly.
 - **[Ferment](ferment.md)**: Imbue a drink with an intoxicant
 - **[Fool's Gold](fools-gold.md)**: Make copper or silver appear to be gold
@@ -227,6 +228,7 @@
 - **[Fleeting Defect](fleeting-defect.md)**: An object temporarily gains the broken condition.
 - **[Flesh Facade](flesh-facade.md)**: Make an undead look alive
 - **[Flickering Lights](flickering-lights.md)**: Create an area of inconsistent lighting.
+- **[Fortune's Path](fortunes-path.md)**: Roll on a table to foresee events in the next week.
 - **[Fox’s Cunning](foxs-cunning.md)**: Subject gains +4 to Int for 1 min./level.
 - **[Full Pouch](full-pouch.md)**: Duplicate an alchemical item as you draw it.
 - **[Garrulous Grin](garrulous-grin.md)**: Target seems guilty and takes –4 on Bluff and Diplomacy.
@@ -378,6 +380,7 @@
 - **[Guardian Monument, Lesser](guardian-monument-lesser.md)**: Humans defending the area gain DR 2/magic.
 - **[Guarding Knowledge](guarding-knowledge.md)**: +4 insight bonus on saves against one identified monster special attack.
 - **[Gullibility](gullibility.md)**: target believes lies more readily
+- **[Hallucinatory Decor](hallucinatory-decor.md)**: Reimagine the decor of a structure.
 - **[Haste](haste.md)**: One creature/level moves faster, receives +1 on attack rolls, AC, and Reflex saves.
 - **[Hollow Heroism](hollow-heroism.md)**: Provide a *heroism* effect that you can reverse at any time.
 - **[Horrifying Visage](horrifying-visage.md)**: Haunt gives victims a phobia of a named thing.
@@ -441,6 +444,7 @@
 - **[Tiny Hut](tiny-hut.md)**: Creates shelter for 10 creatures.
 - **[Tongues, Communal](tongues-communal.md)**: As tongues, but you may divide the duration among creatures touched.
 - **[Trade Items](trade-items.md)**: Swap a focus object with a target object.
+- **[Unflappable Mien](unflappable-mien.md)**: A force ward punishes creatures that try to touch you.
 - **[Venomous Promise](venomous-promise.md)**: A secret is guarded by a poison that triggers if revealed.
 - **[Wall of Nausea](wall-of-nausea.md)**: Wall of distorted images nauseates creatures passing through.
 - **[Wall of Split Illumination](wall-of-split-illumination.md)**: a wall that is bright on one side and dark on the other

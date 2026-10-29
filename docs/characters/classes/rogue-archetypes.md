@@ -1136,3 +1136,19 @@ This replaces the ninja trick gained at 2nd level.
 **Explosive Impairment (Su)**: At 4th level, a gunpowder bombardier can imbue her gunpowder bombs with impairing effects. By spending 1 additional ki point when she throws a gunpowder bomb, the gunpowder bombardier can cause her bomb to inflict one of the following conditions, in addition to dealing its normal damage, for a number of rounds equal to half her ninja level: dazzled, deafened, entangled, or shaken. At 8th level, she adds nauseated and stunned to the list of conditions her bombs can inflict. A creature that succeeds at the Reflex save to halve the damage also negates the condition inflicted by the gunpowder bomb. This replaces uncanny dodge.
 
 **Delayed Explosive (Ex)**: At 8th level, a gunpowder bombardier can plant a gunpowder bomb and delay its explosion. As a standard action, the gunpowder bombardier can place a gunpowder bomb—adding effects as she would if she were throwing the gunpowder bomb, and spending the requisite ki points—and specify a number of rounds after which the bomb will detonate, up to a maximum number of rounds equal to the gunpowder bombardier's ninja level. If the bomb is touched or moved by another creature, it detonates immediately. The gunpowder bombardier can have only one delayed explosive active at a time; planting another gunpowder bomb renders the previous bomb inert. This replaces improved uncanny dodge.
+
+## Masked Enforcer
+
+*Ninja archetype.* When a masked hierarchy needs to silence the voices of those heretics who question too loudly, these enforcers are the tools it employs.
+
+**Weapon and Armor Proficiency**: In addition to having the ninja's normal weapon and armor proficiencies, the masked enforcer is proficient with bolas, saps, and whips.
+
+**Mask (Ex)**: A masked enforcer has a mask that is a symbol of his faith and the myriad powers invested in him. Abilities granted by this archetype other than undercover faith function only while the masked enforcer is wearing his mask. Putting on or removing this mask is a move action.
+
+**Undercover Faith (Ex)**: At 1st level, when not wearing his mask, a masked enforcer can take on an utterly mundane identity as if he were a vigilante with the many guises social talent. While in a mundane identity, the masked enforcer cannot wear his mask; putting it on while in a mundane identity immediately ends the mundane identity and its effects. Changing into this mundane identity takes 1 minute and must be done out of sight to preserve the masked enforcer's secret. The time it takes the masked enforcer to change into a mundane identity cannot be decreased. This replaces poison use.
+
+**Expurgate (Sp)**: The role of a masked enforcer is to silence heretics and blasphemers, and he is an expert at rendering even the most glib of his foes into babbling fools. At 2nd level, when he deals damage to a target, he can expend 1 point from his ki pool to affect that target as if he had cast *fumbletongue*, using his ninja level as his caster level. The target can attempt a Will saving throw (DC = 10 + half the ninja's level + his Charisma modifier) to negate this effect. At 6th level, the target of this ability is instead struck entirely mute for 1d4 rounds unless it succeeds at a Will saving throw. The masked enforcer cannot spend a point from his ki pool to make an additional attack. This alters ki pool.
+
+**Stern Gaze (Ex)**: A masked enforcer is trained to sense deception and strike fear into the hearts of his foes. At 3rd level, he gains a morale bonus equal to half his ninja level on Intimidate and Sense Motive checks. This replaces no trace.
+
+**Ninja Tricks**: The following ninja tricks complement the masked enforcer archetype: forgotten trick, unarmed combat training, vanishing trick, weapon training. **Master Tricks**: The following master tricks complement the masked enforcer: ghost step, see the unseen, and shadow split.

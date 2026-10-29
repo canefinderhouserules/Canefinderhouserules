@@ -27,6 +27,7 @@
 - **[Endure Elements](endure-elements.md)**: Exist comfortably in hot or cold regions.
 - **[Enhance Water](enhance-water.md)**: Turn water into ale or wine.
 - **[Fallback Strategy](fallback-strategy.md)**: Reroll one attack, maneuver, or skill check.
+- **[Fastidiousness](fastidiousness.md)**: Stay clean and gain a bonus against inhaled and ingested diseases.
 - **[Firebelly](firebelly.md)**: Fire resistance 5 and a small fire breath.
 - **[Funereal Weapon](funereal-weapon.md)**: Weapon ignores 5 points of undead DR
 - **[Guardian Armor](guardian-armor.md)**: Teleports your armor onto an ally.
@@ -40,6 +41,7 @@
 - **[Know Peerage](know-peerage.md)**: Target uses your Knowledge (nobility) ranks.
 - **[Liberating Command](liberating-command.md)**: Target makes an Escape Artist check as an immediate action and gains a bonus on it.
 - **[Linebreaker](linebreaker.md)**: You gain a +20 foot bonus to your base speed when charging and a +2 bonus on combat maneuver checks made to.
+- **[Litany of Duty](litany-of-duty.md)**: Reroll a failed save against a compulsion.
 - **[Litany of Sloth](litany-of-sloth.md)**: Single target cannot make attacks of opportunity for 1 round.
 - **[Longshot](longshot.md)**: Grants a +10-foot bonus to the range increment for any ranged weapon fired.
 - **[Magic Weapon](magic-weapon.md)**: Weapon gains +1 bonus.
@@ -95,6 +97,7 @@
 - **[Litany of Defense](litany-of-defense.md)**: Doubles armor’s enhancement bonus.
 - **[Litany of Eloquence](litany-of-eloquence.md)**: Fascinates a single creature for 1 round.
 - **[Litany of Entanglement](litany-of-entanglement.md)**: Entangles a creature for 1 round.
+- **[Litany of Order](litany-of-order.md)**: Chaotic creatures take double damage from lawful attackers.
 - **[Litany of Righteousness](litany-of-righteousness.md)**: A single evil creature takes more damage from creatures with a good aura.
 - **[Litany of Warding](litany-of-warding.md)**: You gain two additional attacks of opportunity for 1 round.
 - **[Magic Siege Engine](magic-siege-engine.md)**: Siege engine gains +1 on targeting and damage rolls.
@@ -146,6 +149,8 @@
 - **[Flame Steed](flame-steed.md)**: Conjure a mount made of flame.
 - **[Guardian Monument, Lesser](guardian-monument-lesser.md)**: Humans defending the area gain DR 2/magic.
 - **[Heal Mount](heal-mount.md)**: As *heal* on horse or other special mount.
+- **[Litany of Admonition](litany-of-admonition.md)**: Stagger a creature by pointing out its failures.
+- **[Litany of Dependability](litany-of-dependability.md)**: A creature takes the average result on its next roll.
 - **[Litany of Escape](litany-of-escape.md)**: Teleports a friend out of a grapple.
 - **[Litany of Sight](litany-of-sight.md)**: You can see invisible creatures and objects within 30 feet of you.
 - **Magic Circle against Chaos/Evil**: As *protection from chaos*, but 10-ft. radius and 10 min./level.

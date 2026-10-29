@@ -351,6 +351,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Guardian Monument, Lesser](guardian-monument-lesser.md)**: Humans defending the area gain DR 2/magic.
 - **[Gullibility](gullibility.md)**: target believes lies more readily
 - **[Hag's Seasoning](hags-seasoning.md)**: Curse: the target becomes a delicious meal.
+- **[Hallucinatory Decor](hallucinatory-decor.md)**: Reimagine the decor of a structure.
 - **[Healing Thief](healing-thief.md)**: You siphon half of all magical healing that the targeted creature receives.
 - **[Hollow Blades](hollow-blades.md)**: Target's melee damage drops one size.
 - **[Horrifying Visage](horrifying-visage.md)**: Haunt gives victims a phobia of a named thing.

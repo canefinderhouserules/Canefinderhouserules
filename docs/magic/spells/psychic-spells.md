@@ -87,6 +87,7 @@ Psychics gain access to the following spells. Spells without a link come from ot
 - **[Erase](erase.md)**: Mundane or magical writing vanishes.
 - **[Expeditious Retreat](expeditious-retreat.md)**: Your base speed increases by 30 ft.
 - **[Fabricate Disguise](fabricate-disguise.md)**: Create a disguise in an instant.
+- **[Fastidiousness](fastidiousness.md)**: Stay clean and gain a bonus against inhaled and ingested diseases.
 - **[Feather Fall](feather-fall.md)**: Objects or creatures fall slowly.
 - **[Feather Step](feather-step.md)**: Subject ignores adverse movement effects in difficult terrain.
 - **[Flare Burst](flare-burst.md)**: As flare, but all creatures within 10 ft.
@@ -451,6 +452,7 @@ Psychics gain access to the following spells. Spells without a link come from ot
 - **[Guarding Knowledge](guarding-knowledge.md)**: +4 insight bonus on saves against one identified monster special attack.
 - **[Guiding Star](guiding-star.md)**: Know approximate distance from where you cast this spell.
 - **[Gullibility](gullibility.md)**: target believes lies more readily
+- **[Hallucinatory Decor](hallucinatory-decor.md)**: Reimagine the decor of a structure.
 - **[Haste](haste.md)**: One creature/level moves faster, +1 on attack rolls, AC, and Reflex saves.
 - Healing Thief
 - **[Helping Hand](helping-hand.md)**: Ghostly hand leads subject to you.
@@ -538,6 +540,7 @@ Psychics gain access to the following spells. Spells without a link come from ot
 - **[Tough Crowd](tough-crowd.md)**: Allies resist the next enchantment or illusion and manipulation.
 - **[Twilight Knife](twilight-knife.md)**: Floating knife attacks with you.
 - **[Unadulterated Loathing](unadulterated-loathing.md)**: Target is compelled to avoid another creature.
+- **[Unflappable Mien](unflappable-mien.md)**: A force ward punishes creatures that try to touch you.
 - **[Vampiric Touch](vampiric-touch.md)**: Touch deals 1d6 damage/2 levels; caster gains damage as temporary hp.
 - **[Versatile Weapon](versatile-weapon.md)**: Weapon bypasses some DR.
 - **[Vision of Hell](vision-of-hell.md)**: Illusory hellscape makes creatures shaken.

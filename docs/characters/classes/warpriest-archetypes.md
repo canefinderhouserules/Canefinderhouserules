@@ -244,3 +244,25 @@ A proclaimer is the polar opposite of a faithful wanderer, rushing into Abyss-tw
 This replaces focus weapon, sacred weapon, and bonus feats.
 
 **Aspect of Disaster (Su)**: At 20th level, a creature affected by a calamity caller's enhanced calamity does not receive a save to reduce the damage or avoid the calamity's effects. This replaces aspect of war.
+
+## Fist of Law
+
+*Warpriest archetype.* Devoted to the divine control of law above all else, these zealots seek to establish absolute order. Disciplined and precise, they lead their allies against the chaotic hordes.
+
+**Alignment**: A fist of law must be of a lawful alignment. This alters the warpriest's alignment restriction.
+
+**Deities**: A fist of law must worship a lawful deity, or must venerate a pantheon of lawful deities as a whole.
+
+**Blessings of Law (Ex)**: A fist of law must select the Law blessing and the Dictate blessing (see below). This alters blessings.
+
+**Detect Chaos (Sp)**: At 3rd level, a fist of law can cast *detect chaos* three times per day as a spell-like ability, using his warpriest level as his caster level. If the fist of law already has, or later gains, the ability to cast *detect chaos*, then he can cast *detect chaos* at will as a spell-like ability. This replaces the bonus feat gained at 3rd level.
+
+**Alignment Channel (Su)**: At 6th level, a fist of law gains Alignment Channel as a bonus feat. When he uses this feat and spends fervor to channel energy, he can harm only outsiders with the chaotic subtype. Additionally, when using this feat, he expends only one use of his fervor to channel energy and deals 1d6 points of damage for every 2 warpriest levels he has. At 12th level, a fist of law can expend an additional use of fervor to channel energy as a move action. This replaces the bonus feats gained at 6th level and 12th level.
+
+**Aspect of Law (Ex)**: At 20th level, a fist of law can channel an aspect of law, growing even more inflexible. Once per day as a swift action, a warpriest can treat his level as his base attack bonus, gains DR 20/chaotic, and becomes immune to mind-affecting effects. In addition, he can take the average result on any die roll instead of rolling normally. This ability lasts for 1 minute. This replaces aspect of war.
+
+**Dictate Blessing (Lawful Deities)**
+
+*Command Obedience (Minor)*: You can touch an ally and say a quick word to remind her of her obligations, granting her a new saving throw against each enchantment effect that currently affects her. If the saving throw is successful, the enchantment effect immediately ends. This power affects only effects that allow a saving throw.
+
+*Tactical Readiness (Major)*: At 10th level, you can rally your allies within 30 feet, allowing each to immediately do one of the following as a free action that does not provoke attacks of opportunity: remove the flat-footed condition, take a 5-foot step, draw a weapon, ready a shield, or gain a +1 dodge bonus to AC for 1 round. You can affect a number of allies equal to your Wisdom bonus. These actions do not count against your allies' total movement or actions on their next turn.

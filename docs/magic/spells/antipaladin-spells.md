@@ -146,6 +146,7 @@ New antipaladin spells from *Ultimate Magic*. Spells from other books will be ad
 - **[Illusion of Treachery](illusion-of-treachery.md)**: Make it seem like another is also responsible for your attacks.
 - **[Irregular Size](irregular-size.md)**: Curse shrivels arms, legs, or wings.
 - **[Isolate](isolate.md)**: Separate your prey from support
+- **[Litany of Admonition](litany-of-admonition.md)**: Stagger a creature by pointing out its failures.
 - **[Litany of Escape](litany-of-escape.md)**: Teleports a friend out of a grapple.
 - **[Litany of Sight](litany-of-sight.md)**: You can see invisible creatures and objects within 30 feet of you.
 - **[Phantasmal Reminder](phantasmal-reminder.md)**: Recall of past wounds deals damage.

@@ -1330,3 +1330,13 @@ A freebooter is a natural leader, a pirate who works well with a variety of peop
 *Ranger archetype.* Some rangers specialize in dealing with rambunctious younger drakes, protecting them and teaching them to tolerate, and even trust, humanoid creatures. These drake wardens follow and pass along secret techniques for raising drakes effectively, and thanks to their methods, their drakes are both fiercely loyal and extremely useful for scouting and stealth missions.
 
 **Young Drake**: At 4th level, a drake warden gains a [drake companion](../companions/drake-companions.md) instead of an animal companion, but his effective charge's level is equal to his ranger level – 3. The young drake gains drake powers only when its charge reaches 3rd and 7th levels (not 11th or 15th level) and increases in size only when its charge reaches 5th level (not 9th, 13th, or 17th level). This ability replaces hunter's bond, 2nd favored enemy, and swift tracker.
+
+## Elemental Envoy
+
+*Ranger archetype.* An elemental envoy travels the Elemental Planes. He has learned to protect himself from their many dangers, and he models his fighting style after their teachings.
+
+**Planar Combatant (Ex)**: At 2nd level, an elemental envoy must choose the elemental combat style below, choosing his combat style feats from that list. This alters the ranger's combat style feats.
+
+**Elemental Explorer (Ex)**: At 3rd level, instead of selecting a favored terrain, an elemental envoy gains the typical favored terrain bonuses when traveling on the Plane of Air, Plane of Earth, Plane of Fire, and Plane of Water, except the elemental envoy gains a bonus on Knowledge (planes) checks instead of Knowledge (geography) checks. At 8th level and every 5 levels thereafter, he does not select an additional favored terrain, but his favored terrain bonuses increase by 2. This alters favored terrain.
+
+**Elemental Combat Style**: A ranger or other character who gains combat styles can select the following combat style instead of his normal choices. He can choose feats from this style even if he does not meet the normal prerequisites (including racial prerequisites). *Elemental*: If the ranger chooses the elemental combat style, he can choose from the following list whenever he gains a combat style feat: Aquadynamic Focus, Scorching Weapons, Stony Step, and Wind Stance. At 6th level, he adds Inner Flame and Lightning Stance to the list. At 10th level, he adds Blazing Aura and Whirlwind Attack to the list.

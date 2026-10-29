@@ -65,6 +65,7 @@
 - **[Entropic Shield](entropic-shield.md)**: Ranged attacks against you have 20% miss chance.
 - **[Fairness](fairness.md)**: Affected creatures must trade fairly.
 - **[Fallback Strategy](fallback-strategy.md)**: Reroll one attack, maneuver, or skill check.
+- **[Fastidiousness](fastidiousness.md)**: Stay clean and gain a bonus against inhaled and ingested diseases.
 - **[Ferment](ferment.md)**: Imbue a drink with an intoxicant
 - **[Firebelly](firebelly.md)**: Fire resistance 5 and a small fire breath.
 - **[Funereal Weapon](funereal-weapon.md)**: Weapon ignores 5 points of undead DR
@@ -359,6 +360,7 @@
 - **[Final Sacrifice](final-sacrifice.md)**: Detonate a summoned creature
 - **[Flesh Puppet](flesh-puppet.md)**: Control a zombie in human guise.
 - **[Forced Mutation](forced-mutation.md)**: Twist a creature, imposing penalties and a deformity.
+- **[Fortune's Path](fortunes-path.md)**: Roll on a table to foresee events in the next week.
 - **[Fractions of Heal and Harm](fractions-of-heal-and-harm.md)**: Convert 25% of your next area damage spell into healing.
 - **[Free Spirit](free-spirit.md)**: Gain freedom of movement and fear resistance, but be drunk
 - **[Glyph of Warding](glyph-of-warding.md)**: Inscription harms those who pass it.

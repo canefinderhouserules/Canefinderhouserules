@@ -269,3 +269,29 @@ Faith traits are religion traits that tie a character to the portfolio of a deit
 **Wronged** *(deity of wronged vengeance)*: Somewhere in your past, you were taken advantage of because of your gender. You gain a +2 trait bonus on Sense Motive checks against male creatures of your race, and the DC for men to intimidate you increases by 2.
 
 **Zealot's Bearing** *(any zealous faith or philosophy)*: Your fiery passion for your faith or philosophy is obvious to everyone around you. Those who share your convictions automatically find themselves wanting to defer to your zealous authority, making you a natural leader of your faith. Unfortunately, your scorn for those who haven't yet seen the wisdom of converting is equally obvious, and makes you a poor ambassador or missionary to the "ignorant masses" (as you not-so-secretly think of them). You gain a +2 bonus on Diplomacy and Intimidate checks when dealing with adherents of your faith or philosophy, but a –1 penalty on Diplomacy and Intimidate checks when dealing with anyone else.
+
+## Disciple Traits
+
+The following traits are common among those whose form of worship diverges from the mainstream.
+
+**Aspect of the Totem (Faith)**: You call upon your tribe's totem to grant you power. You gain a unique totem aspect that replaces one of the animal aspects granted to you by the animal focus feature. You must be a hunter or have access to the animal aspect class feature to select this trait, and you must choose the totem to which you are bound. You gain access to the totem aspect listed for that totem, and you lose access to the animal aspect listed. Once made, this choice cannot be changed.
+
+- *Cliff (replaces frog)*: The creature gains a +2 competence bonus on Acrobatics checks to avoid falling and on Constitution checks to avoid drowning. This bonus increases to +4 at 8th level and +6 at 15th level.
+- *Emberstorm (replaces bear)*: The creature gains fire resistance 5. This increases to fire resistance 10 at 8th level and fire resistance 15 at 15th level.
+- *Horse (replaces owl)*: The creature gains a +4 competence bonus on Ride checks. This bonus increases to +6 at 8th level and +8 at 15th level.
+- *Star (replaces falcon)*: The creature gains low-light vision and a +2 competence bonus on Perception checks. This bonus increases to +4 at 8th level and +6 at 15th level.
+- *Storm (replaces snake)*: The creature gains a +4 bonus on saving throws against cold dangers, disease, heat dangers, starvation, and thirst. This bonus increases to +6 at 8th level and +8 at 15th level.
+- *Storm Roc (replaces mouse)*: The creature gains a +2 enhancement bonus to Charisma. This bonus increases to +4 at 8th level and +6 at 15th level.
+- *Will-o'-Wisp (replaces wolf)*: The creature gains a +2 bonus on saving throws against fear effects and mind-affecting effects. This bonus increases to +4 at 8th level and +6 at 15th level.
+
+**Dogged (Faith)**: Drawing inspiration from a cult that venerates those who failed in their attempts at divinity, you refuse to let setbacks stop you, no matter how disastrous. Once per day when you roll a natural 1 on an attack roll, saving throw, skill check, or ability check, you gain a +1 trait bonus on any one roll you attempt before the end of the next round.
+
+**Ecumenical (Social)**: Your childhood in a cosmopolitan city taught you to recognize signs of worship of demigods such as empyreal lords. You gain a +2 trait bonus on Knowledge (religion) checks involving entities other than the most influential gods. You also gain a +2 trait bonus on Diplomacy checks to influence worshipers of such entities.
+
+**Heretic's Caution (Faith)**: You were raised in a faith that did not center on a traditional god or that followed a heretical interpretation of a traditional deity. You learned to deflect attention, especially from ecclesiastical figures. You gain a +1 trait bonus on Bluff checks. This bonus increases to +3 on Bluff checks opposed by religious authorities' Sense Motive checks.
+
+**Imperfect Recall (Faith)**: Your belief in reincarnation has been reinforced by personal experience. In moments of great stress, you sometimes experience flashes of déjà vu in which you recall information you don't remember ever having known. Once per day while you are in danger or distracted, you gain a +3 bonus on a single Knowledge skill check.
+
+**Natural Ritualist (Faith)**: You venerate nature, either by paying homage to your totem spirit or by appeasing the spirits around you. In return, the spirits bless your path. Once per week, you can build a small shrine of natural materials and pay your respects in a ritual that takes 15 minutes. Spellcasters can do this as part of their daily spell preparation. You gain a +2 trait bonus on Knowledge (nature) and Survival checks for 24 hours.
+
+**Self-Sustaining (Faith)**: As a follower of a tradition that preaches self-reliance, you make a point of not seeking divine aid for minor matters. When you gain this trait, choose one of the following 0-level spells: *create water*, *mending*, *purify food and drink*, or *stabilize*. You can cast this spell once per day as a spell-like ability, using your character level as your caster level. Once chosen, this selection can't change.

@@ -6379,3 +6379,135 @@ This +2 cruel longsword features layers of cold iron and steel folded over one a
 A spellcaster binds herself to a witching doll through an hour-long ritual in which the owner stitches some of her hair and fingernails into the rag doll's mouth. Thereafter, the owner can concentrate to see and hear as if she were the doll for up to 1 hour at a time; doing so leaves the owner blind and deaf to her body's immediate surroundings. While concentrating, the spellcaster imparts a modicum of animation to the doll, allowing it to turn its head, gesture, and speak in hushed whispers. Extraordinary senses such as darkvision function through this link, but magical senses such as *arcane eye* and *detect magic* do not. Once per day, the owner can cast a single spell with a range of touch or greater from the witching doll instead of herself. Many hags use this ability to make a witching doll seem mundane by casting *magic aura*, or they transform it into a distant minion with *animate object*.
 
 **Construction Requirements:** Craft Wondrous Item, *enter image* or scare hex; **Cost** 15,000 gp
+
+## Faith Relics
+
+### Charlatan's Cope
+
+**Slot** body; **CL** 3rd; **Price** 4,800 gp; **Weight** 2 lbs.
+
+**Aura** faint illusion
+
+This plush hooded robe is finely trimmed with gold accents. When the wearer casts a spell, the robe scintillates with color and produces ostentatious magical effects, such as bright lights and loud hums, increasing the DC of Spellcraft checks to identify the spell by 10. In addition, once per day as a move action, the wearer can trigger these effects with a dramatic flourish; each creature within 30 feet that can see the wearer must succeed at a DC 13 Will save or be blinded for 1d4+1 rounds.
+
+**Construction Requirements:** Craft Wondrous Item, *ghost sound*, *pyrotechnics*, *silent image*; **Cost** 2,400 gp
+
+### Cloak of Good Fortune
+
+**Slot** shoulders; **CL** 9th; **Price** 12,500 gp; **Weight** 1 lb.
+
+**Aura** moderate evocation
+
+This elegant cloak has simple prayers to nature spirits stitched into its lining. The wearer gains a +1 luck bonus on attack rolls, and once per day, the wearer can spend 10 minutes reciting prayers from the cloak's lining to pose a single question to a nearby spirit, as per *commune*.
+
+**Construction Requirements:** Craft Wondrous Item, *commune*, *divine favor*; **Cost** 6,250 gp
+
+### Echo of Divinity's Promise
+
+**Slot** —; **CL** 7th; **Price** 1,400 gp; **Weight** 8 lbs.
+
+**Aura** moderate evocation
+
+This stone tablet bears inscriptions detailing a notable being who fell short of achieving godhood. As a move action, the tablet's holder can break it to release a remnant of latent divinity. The resultant burst of power imbues the user, granting a +1 morale bonus on attack rolls, weapon damage rolls, ability checks, skill checks, and saving throws for 1 minute. In addition, the user can attempt a new saving throw against one ongoing effect, such as a disease.
+
+**Construction Requirements:** Craft Wondrous Item, *commune*, *divine favor*; **Cost** 700 gp
+
+### Emblem of Lost Lives
+
+**Slot** neck; **CL** 3rd; **Price** 12,000 gp; **Weight** —
+
+**Aura** faint divination
+
+This unassuming pendant whispers a constant discordant chorus of voices into the mind of its wearer. As a standard action, the wearer can focus on these voices and pick out one from a past life. The voice whispers information related to a particular subject, granting the wearer a +2 insight bonus on one type of Knowledge check for 1 minute. The wearer can use this ability once per day for each type of Knowledge in which she is trained, choosing a different type of Knowledge each time. Additionally, once per day, the wearer can spend 1 minute consulting with the voices for aid with a future task, as per *augury*.
+
+**Construction Requirements:** Craft Wondrous Item, *augury*, *fox's cunning*; **Cost** 6,000 gp
+
+### Foresight Quill
+
+**Slot** —; **CL** 6th; **Price** 6,500 gp; **Weight** —
+
+**Aura** moderate divination
+
+This plume always bears ink, as though freshly drawn from an inkwell. Once per day, a character holding the quill can enter a trancelike state, automatically writing possible upcoming events. After 1 minute of uninterrupted writing, the writer chooses attack roll, saving throw, or skill check. The next time that day she attempts a roll of the chosen type, she rolls twice and takes the more favorable result. The next time that day she attempts a roll of one of the other types (for example, a saving throw or skill check if she initially chose attack roll), she must roll twice and take the less favorable result.
+
+**Construction Requirements:** Craft Wondrous Item, *borrow fortune*; **Cost** 3,250 gp
+
+### Lawstar
+
+**Slot** —; **CL** 3rd; **Price** 1,000 gp; **Weight** 5 lbs.
+
+**Aura** faint transmutation
+
+This small star is made of a brittle metal alloy and attaches easily to armor or a gauntlet. Each of the star's five points is keyed to a different lawful deity's portfolio and can serve as a holy symbol for a deity of that portfolio. As a standard action, the wearer can break off one of the star's points to activate an effect unique to that point. Once a point has been broken off, it can't be activated again and can no longer be used as a holy symbol. When broken off, each of the lawstar's points provides effects as follows.
+
+**Truth**: The point emanates truth-telling magic in a 5-foot radius, as per *zone of truth*, for 10 minutes. Any creature that succeeds at a DC 13 Will save ignores this effect.
+
+**Command**: The wearer gains fire resistance 5 and her weapon attacks gain the flaming weapon special ability for 1 minute.
+
+**Valor**: If the wearer is under the effects of a fear effect, she can attempt a new saving throw against it with a +4 sacred bonus. The wearer can use this ability even if a fear effect would normally prevent her from doing so.
+
+**Insight**: The wearer can attempt a Knowledge check to identify a creature, even if she is untrained in the relevant Knowledge skill. She gains a +8 bonus on this check.
+
+**Bulwark**: The point transforms into a +1 warhammer when wielded by the owner of the lawstar until it leaves her possession or after 1 minute. The wielder is considered proficient with this weapon for the duration of this effect, after which the weapon becomes a nonmagical masterwork warhammer.
+
+**Construction Requirements:** Craft Wondrous Item, *burst of insight*, *magic weapon*, *remove fear*, *resist energy*, *zone of truth*; **Cost** 500 gp
+
+### Lantern of the Four Elements
+
+**Slot** —; **CL** 5th; **Price** 1,500 gp (standard); 6,500 gp (greater); **Weight** 2 lbs.
+
+**Aura** faint transmutation
+
+This bronze lantern has a square base and four glass panels, each of which represents one of the fundamental elements in the color, shape, and quality of the light that passes through it. The lantern shines light as per the *light* spell, and as long as the bearer carries it the lantern protects her from heat and cold as per *endure elements*. (The bearer can turn the lantern's light off or on as a standard action.) In addition, while carrying the lantern, the bearer gains a +2 competence bonus on Spellcraft checks to identify spells with the air, earth, fire, or water descriptor and a +2 competence bonus on Knowledge (planes) checks to identify creatures that are native to the Elemental Planes. The greater version of this item also allows the bearer to use certain spell-like abilities. As a standard action, the bearer of a greater lantern of the four elements can press one of the lantern's four panels to produce an effect: *levitate* for the air panel, *resist energy* (fire only) for the fire panel, *air bubble* for the water panel, and *spider climb* for the earth panel. Each panel can grant its effect only once per day.
+
+**Construction Requirements:** Craft Wondrous Item, *endure elements*, *light* (standard); Craft Wondrous Item, *endure elements*, *light*, *air bubble*, *levitate*, *resist energy*, *spider climb* (greater); **Cost** 750 gp (standard); 3,250 gp (greater)
+
+### Malleable Monument
+
+**Slot** —; **CL** 9th; **Price** 8,000 gp; **Weight** 15 lbs.
+
+**Aura** moderate evocation
+
+This stone statuette is shaped like a humanoid, but it lacks a face and fine detail. A character holding the statue can call upon her deity as a full-round action, imbuing the statue with divine energy and reshaping it in the image of her deity for 24 hours, after which it reverts to its original appearance. For this duration, followers of that deity who are within 100 feet of the statue gain a +2 morale bonus on saving throws against fear effects. Additionally, followers of the wielder's deity can use the statue as the origin point for channel energy effects as long as the statue is within 100 feet. A follower of the deity can drive the statue into the ground and spend 10 minutes praying to cast *hallow* or *unhallow* centered on the statue. This functions as the chosen spell except all effects end after 24 hours or when the statue is destroyed. The statue loses all abilities after using this effect, but it retains its reshaped image. A malleable monument has hardness 8 and 25 hit points.
+
+**Construction Requirements:** Craft Wondrous Item, *hallow*, *remove fear*, *stone shape*, *unhallow*; **Cost** 4,000 gp
+
+### Numerology Cylinder
+
+**Slot** —; **CL** 5th; **Price** 5,000 gp; **Weight** 1 lb.
+
+**Aura** faint abjuration
+
+This cylindrical puzzle has eight faces and a dozen rings along its length that can be spun individually, each with different numbers on each face. The user of a numerology cylinder can twist and turn these rings into a multitude of combinations. As a full-round action, the user can try to find a new combination with particular numeric significance by attempting a DC 25 Knowledge (arcana) or DC 20 Intelligence check. If she finds one, she gains a +2 insight bonus on caster level checks (such as to overcome spell resistance) for 24 hours. On a failed check, the faces lock and the cylinder can't be used again for 24 hours.
+
+**Construction Requirements:** Craft Wondrous Item, *dispel magic*; **Cost** 2,500 gp
+
+### Spectacles of Comprehension
+
+**Slot** eyes; **CL** 3rd; **Price** 2,500 gp; **Weight** —
+
+**Aura** faint enchantment
+
+These spectacles bear no markings or decoration, but they are obviously sturdy and of high quality. The wearer of these spectacles gains the ability to better understand written material and unravel the language of contracts. The wearer gains a +5 bonus on Linguistics checks to decipher writing, detect forgeries, research in a library, research an infernal contract, or attempt similar types of examinations. Additionally, he is automatically aware if a contract he's examining has any deliberate obfuscations or loopholes, though he might not know exactly what they are.
+
+**Construction Requirements:** Craft Wondrous Item, *investigative mind*; **Cost** 1,250 gp
+
+### Storm Roc's Fang
+
+**Slot** —; **CL** 6th; **Price** 38,312 gp; **Weight** 6 lbs.
+
+**Aura** moderate transmutation
+
+This metal +1 klar is shaped like the head of a storm roc, whose sharp feathers serve as the klar's spikes, and it hums and crackles like a distant stormy sky. When used to make a shield bash attack, a storm roc's fang deals an additional 1d6 points of sonic damage. In addition, the wielder gains electricity resistance 5. When the wielder confirms a critical hit with a storm roc's fang, it unleashes a thunderclap, deafening the target of the critical hit for 1 minute unless that target succeeds at a DC 16 Fortitude saving throw.
+
+**Construction Requirements:** Craft Magic Arms and Armor, *lightning bolt*, *resist energy*, *sound burst*; **Cost** 19,312 gp
+
+### Tome of Forgotten Epithets
+
+**Slot** —; **CL** 15th; **Price** 108,000 gp; **Weight** 2 lbs.
+
+**Aura** strong abjuration
+
+The cover of this hefty, leather-bound volume has an ornate spine adorned with a stylized eye worked in metal and jewels and is sealed shut by a strap with a brass scarab fastener. When first created, a tome of forgotten epithets has 50 pages. Each page can hold the name of a creature, along with a short description that distinguishes it from other creatures with the same name. The wielder of a tome of forgotten epithets can speak a command word to cause the burning eye on the cover to close, protecting those named within as per *mind blank* for 24 hours and sealing the book shut for this duration. Afterward, the eye on the cover reopens, and any pages that held names vanish.
+
+**Construction Requirements:** Craft Wondrous Item, *mind blank*, *secret page*; **Cost** 54,000 gp

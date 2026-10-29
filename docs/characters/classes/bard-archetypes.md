@@ -194,6 +194,20 @@ You cherish and love your home with such strength that your words weave protecti
 
 **Action**: 30 minutes.
 
+### Kaminari Drums (Percussion)
+
+You beat a thunderous cacophony that strikes your foes with the fury of the kami of storms.
+
+**Prerequisite**: Perform (percussion) 10 ranks.
+
+**Cost**: Feat or 4th-level bard spell known.
+
+**Effect**: You produce a thunderous, rolling clamor in imitation of a storm kami's drums, culminating in a resounding blow akin to a massive thunderclap. At the completion of this performance, you call down a smiting bolt of lightning and thunder to strike your enemies. This functions as *flame strike*, with a caster level equal to your bard level, but half the damage is electricity damage and the other half is not subject to any energy resistance.
+
+**Use**: 5 rounds of bardic performance.
+
+**Action**: 5 full rounds.
+
 ### Lament of the Reluctant Scholar (Oratory)
 
 This collection of brooding poetry expresses a young archer's frustration over her overbearing parents' desire for her to become a spellcaster. Her in-depth analysis of their struggles and failings provides great insight into reading and memorizing spells from a spellbook.
@@ -321,6 +335,20 @@ You can hurl your allies into battle by directing swift winds.
 **Use**: 1 round of bardic performance per round.
 
 **Action**: 1 standard action.
+
+### Spirit of the Horse (Strings)
+
+This mournful song, which is typically played upon a traditional horse-head fiddle, empowers animal companions.
+
+**Prerequisite**: Perform (strings) 7 ranks.
+
+**Cost**: Feat or 3rd-level bard spell known.
+
+**Effect**: You play a soulful melody inspired by the legend in which a boy's prized horse, slain by a wicked lord, returns in spirit form and instructs the boy to construct an instrument from its body so that neither boy nor horse would be lonely. Upon the completion of this performance, you inspire the animal (or similar) companions, familiars, and mounts of allies who can hear the performance to avoid a similar fate, granting them the benefits of *greater magic fang* with a caster level equal to your bard level.
+
+**Use**: 1 round of bardic performance per creature affected.
+
+**Action**: 1 round.
 
 ### Stirring Discourse of the Mind (Oratory)
 

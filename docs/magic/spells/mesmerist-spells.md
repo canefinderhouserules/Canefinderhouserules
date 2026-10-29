@@ -66,6 +66,7 @@ Mesmerists gain access to the following spells. Spells without a link come from 
 - **[Expeditious Retreat](expeditious-retreat.md)**: Your base speed increases by 30 ft.
 - **[Faerie Fire](faerie-fire.md)**: Outlines subjects with light, canceling *blur*, concealment, and the like.
 - **[False Face](false-face.md)**: Change your appearance so you are unrecognizable.
+- **[Fastidiousness](fastidiousness.md)**: Stay clean and gain a bonus against inhaled and ingested diseases.
 - **[Fool's Gold](fools-gold.md)**: Make copper or silver appear to be gold
 - **[Forbid Action](forbid-action.md)**: Target obeys your command to not do something.
 - **[Forced Quiet](forced-quiet.md)**: Target cannot make loud noises.
@@ -320,6 +321,7 @@ Mesmerists gain access to the following spells. Spells without a link come from 
 - **[Geas, Lesser](geas-lesser.md)**: Commands subject of 7 HD or less.
 - **[Glibness](glibness.md)**: You gain +20 bonus on Bluff checks, and your lies can escape magical discernment.
 - **[Gullibility](gullibility.md)**: target believes lies more readily
+- **[Hallucinatory Decor](hallucinatory-decor.md)**: Reimagine the decor of a structure.
 - **[Haunting Choir](haunting-choir.md)**: Spirits cause wracking pain to listeners.
 - Hostile Levitation
 - **[Illusion of Treachery](illusion-of-treachery.md)**: Make it seem like another is also responsible for your attacks.
@@ -380,6 +382,7 @@ Mesmerists gain access to the following spells. Spells without a link come from 
 - **[They Know](they-know.md)**: Convince target that a nearby creature knows her greatest secret.
 - **[Trade Items](trade-items.md)**: Swap a focus object with a target object.
 - **[Triggered Suggestion](triggered-suggestion.md)**
+- **[Unflappable Mien](unflappable-mien.md)**: A force ward punishes creatures that try to touch you.
 - **[Vampiric Touch](vampiric-touch.md)**: Touch deals 1d6 damage/2 levels; caster gains damage as temporary hp.
 - **[Venomous Promise](venomous-promise.md)**: A secret is guarded by a poison that triggers if revealed.
 - **[Vision of Hell](vision-of-hell.md)**: Illusory hellscape makes creatures shaken.

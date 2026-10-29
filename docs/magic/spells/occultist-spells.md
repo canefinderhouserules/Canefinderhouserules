@@ -62,6 +62,7 @@ Occultists gain access to the following spells, determined by their chosen imple
 - **[Authenticating Gaze](authenticating-gaze.md)**: Gain insight on Appraise and Linguistics checks about written works.
 - **[Bestow Planar Infusion I](bestow-planar-infusion-i.md)**: Grant a target the effects of a planar infusion
 - **[Detect Charm](detect-charm.md)**: Detect charm, compulsion, and possession effects.
+- **[Fastidiousness](fastidiousness.md)**: Stay clean and gain a bonus against inhaled and ingested diseases.
 - **[Funereal Weapon](funereal-weapon.md)**: Weapon ignores 5 points of undead DR
 - **[Grappling Scarf](grappling-scarf.md)**: Your scarf becomes a grappling hook and rope.
 - **[Guardian Armor](guardian-armor.md)**: Teleports your armor onto an ally.
@@ -398,6 +399,7 @@ Occultists gain access to the following spells, determined by their chosen imple
 - **[Summon Ship](summon-ship.md)**: conjure a ship
 - **[Thaumaturgic Circle](thaumaturgic-circle.md)**: As magic circle, but affecting a nonalignment subtype or outsider race.
 - **[Threefold Sight](threefold-sight.md)**: Roll three d20 and take the middle result.
+- **[Unflappable Mien](unflappable-mien.md)**: A force ward punishes creatures that try to touch you.
 - **[Vigilant Rest](vigilant-rest.md)**: Cause a sleeping creature to retain some perception of its surroundings.
 
 **Conjuration**:

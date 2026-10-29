@@ -2708,3 +2708,29 @@ The canny half-elf sometimes needs a little something extra to look like a full 
 **Price** 1,505 gp; **Weight** 3 lbs.
 
 This mithral buckler is painted black with three deep grooves running over the surface, each fitted with a slot that can hold a vial of poison, allowing quick application of exactly the right poison in the middle of combat. As a move action, the user can swipe a weapon over the surface of the buckler, coating it with a single dose of poison. The buckler can hold 3 doses of poison. If the wearer does not have the poison use ability, she faces the standard risk of poisoning herself.
+
+## Faith Gear
+
+### Convocation Bells
+
+**Price** 100 gp; **Weight** 10 lbs.
+
+This set of simple brass bells is held in a wheeled stand that allows bell ringers to easily move the ensemble. The bells are carefully constructed and ordered to enable ringers to perform the melodies of songs or hymns of a particular religion.
+
+### Disguised Holy Text
+
+**Price** 1–100 gp; **Weight** 1–20 lbs.
+
+This book appears to be a holy text of a particular religion, but it is actually a subtly encoded version of the text of an entirely different faith. Such tomes allow the faithful to keep copies of their holy texts hidden in plain sight—especially when those tomes are outlawed or stigmatized. A creature reading a disguised holy text can notice the irregularities of the text with a successful DC 18 Linguistics check; if the result of this check is 25 or higher, the creature cracks the text's cipher and understands its true meaning. A follower of a disguised holy text's true faith gains a +5 bonus on her Linguistics check to decipher the tome. The typical disguised holy text is of average quality, costs 25 gp, and weighs 2 pounds; cheaper or more extravagant versions are available with varying costs and weights.
+
+### Ritual Disk
+
+**Price** 20 gp; **Weight** 1 lb.
+
+This simple disk, usually carved from stone or fashioned from metal, is engraved with a portion of a specific religious rite or ritual. A single disk details only part of a ritual, requiring multiple followers to bring their disks together to obtain a complete set of instructions.
+
+### Spiritual Leader's Vestments
+
+**Price** 100 gp; **Weight** 8 lbs.
+
+These fine garments come in assorted vibrant colors and are used in the most important religious or spiritual ceremonies. The vestments typically include a robe or cloak embroidered with a religion's holy symbol, as well as a number of extravagant accessories, such as fine jewelry, long sashes, tall hats, and other appropriate attire.

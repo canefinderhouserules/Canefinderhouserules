@@ -240,3 +240,97 @@ A hag's call echoes through your mind like a siren's song, enticing you to surre
 ## Hagtouched Implements
 
 Hags' dark magic pervades their bodies and belongings, granting those items psychic significance and making them perfect occultist implements. Hags' nails and skulls, as well as night hags' former heartstones, can serve as necromancy implements and grant their power over curses and souls. Stylized hag masks as well as rings and bracelets made of knotted hag hair can serve as illusion implements and grant their deceptive abilities. Though morbid, an eyepiece made from a hag's eye—or replacing one of your own living eyes with a preserved hag's eye—can grant access to considerable divination or enchantment magic. Finally, stringed instruments strung with a hag's hair and necklaces of hags' tongues can serve as divination implements and grant an occultist the hag's ability to manipulate and control others.
+
+## Numerology Investigator Talents
+
+A talent marked with an asterisk (*) adds effects to an investigator's studied combat or studied strike class feature. Only one of these talents can be applied to an individual attack, but the choice can be made when the damage is dealt.
+
+**Numerical Alchemy (Su)**: The investigator's skill with mental mathematics allows him to know exactly which muscle movements are necessary to mix an extract in the quickest, most efficient way. The investigator can expend one use of inspiration to mix an extract in 1 round (as opposed to 1 minute).
+
+**Numerical Alchemy, Greater (Su)**: The investigator can calculate his movements and account for his reactions to danger or unexpected situations with lightning speed. He can expend a use of inspiration to mix an extract as a standard action. The investigator must have the numerical alchemy talent and be at least 11th level to select this talent.
+
+**Numerical Strike\* (Ex)**: Once per day when the investigator has confirmed a critical hit with a studied strike, he can deal average damage instead of rolling damage as normal. This includes the damage dealt by the successful attack as well as the additional damage from the studied strike. He can expend a use of inspiration to use this ability a second time per day. Using this ability doesn't require an action. The investigator must be at least 5th level to select this talent.
+
+**Numerical Strike, Greater\* (Ex)**: Once per day, when the investigator has confirmed a critical hit with a studied strike, he can deal the strike's maximum damage instead of rolling damage as normal. This includes the damage dealt by the successful attack as well as the additional damage from the studied strike. He can expend a use of inspiration to use this ability a second time per day. Using this ability doesn't require an action. The investigator must have the numerical strike talent and be at least 13th level to select this talent.
+
+**Numerical Strike, Masterful\* (Ex)**: The investigator can use both numerical strike and greater numerical strike three times per day. The investigator doesn't need to expend uses of inspiration to use either ability, but he can never use either more than three times per day each. The investigator must have the numerical strike and greater numerical strike talents and be at least 17th level to select this talent.
+
+## Past-Life Vigilante Talents
+
+The following social talents are available to vigilantes, and are especially favored by vigilantes who believe in reincarnation.
+
+**Ancestral Enlightenment (Ex, Social)**: The vigilante can attempt any Knowledge check untrained. If he already has ranks in a particular Knowledge skill, he gains a +4 bonus on checks with that skill. A vigilante must be at least 5th level to select this talent.
+
+**Skill Familiarity (Ex, Social)**: The vigilante chooses four skills when he gains this talent. He can take 10 on checks with his chosen skills even when distracted or threatened. If he takes 10 on checks with these skills while not distracted or threatened, he gains a bonus on the check equal to one-quarter his vigilante level (minimum +2). A vigilante must be at least 9th level to select this talent.
+
+The following vigilante talents allow a vigilante to channel the echoes of his past lives.
+
+**Magical Familiarity (Sp)**: The vigilante taps into a past life's arcane secrets. He selects a 0-level spell from the sorcerer/wizard spell list. The vigilante can cast the chosen spell three times per day as a spell-like ability, using his vigilante level as his caster level. At 6th level, he chooses a second 0-level spell that he can also use three times per day as a spell-like ability. At 12th level, in addition to these 0-level spells, he chooses a 1st-level spell that he can cast once per day as a spell-like ability. At 18th level, he can cast his 1st-level spell three times per day and his 0-level spells at will. The vigilante must have an Intelligence score of at least 10 to select this talent.
+
+**Steely Resolve (Ex)**: Three times per day, as an immediate action when the vigilante fails a Will saving throw against a mind-affecting effect, the vigilante can delay the effect's onset for a number of rounds equal to half his vigilante level, after which the vigilante is affected as normal by the entire effect. Rounds spent delaying the effect do not count toward the effect's duration.
+
+**Weapon Familiarity (Ex)**: The vigilante selects either two simple or martial weapons or one exotic weapon when he gains this talent. He gains proficiency with his chosen weapon or weapons. At 8th level, he also gains Weapon Focus as a bonus feat for his selected weapon or weapons. Only an avenger vigilante can select this talent.
+
+## Psychic Discipline: Superiority
+
+You know that you are far better than average creatures of your kind. The more you leverage your psychic talents to prove yourself superior, the more powerful you become.
+
+**Phrenic Pool Ability**: Charisma.
+
+**Bonus Spells**: *Moment of greatness* (1st), *deflect blame* (4th), *unflappable mien* (6th), *majestic image* (8th), *mage's private sanctum* (10th), *transformation* (12th), *project image* (14th), *clone* (self only) (16th), *overwhelming presence* (18th).
+
+**Discipline Powers**: Your unflappable sense of self-worth grants you powers that your rivals can't hope to countermand.
+
+**Self-Assurance (Su)**: Overwhelming confidence in your success brings you closer to your goals, and you know that your superiority has destined you for greatness. As an immediate action, you can gain a morale bonus equal to half your psychic level (minimum 1) on a single ability check, attack roll, saving throw, or skill check. You must declare that you are using this ability before attempting the roll in question. If you succeed at the check, you regain 1 point in your phrenic pool. You can use this ability a number of times per day equal to your Charisma modifier.
+
+**At Arm's Length (Ex)**: At 5th level, you gain Reach Spell as a bonus feat. Additionally, when using this feat, you can spend 1 point from your phrenic pool for each increase in the spell's range category. If you do, the spell does not use up a higher-level spell slot than normal. (For example, a spell with a range of touch increased to long range via this feat would normally use up a spell slot 3 levels higher, but if you spend 3 points from your phrenic pool, the spell does not use up a higher spell slot.)
+
+**Magical Hoarder (Su)**: At 13th level, whenever a creature within 30 feet of you casts a spell intended to benefit its targets, you can spend 1 point from your phrenic pool as an immediate action to include yourself as a target of that spell. If the creature is not your ally, you must be able to clearly see the spell's effects and you must succeed at a Spellcraft check (DC = 15 + the spell's level) to identify the spell before using this ability. If you are not within the normal range of the spell, then you must spend 1 additional point from your phrenic pool to use this ability. If the spell has a range of personal, then you must instead spend 2 additional phrenic points from your pool to use this ability. This ability does not affect spells with an instantaneous or permanent duration.
+
+## Focused Arcane School: Prophecy
+
+Prophets who specialize in arcane magic often claim specialty in manipulating the powers of luck to their advantage. This follows the rules for focused arcane schools. **Associated School**: Divination. **Replacement Powers**: The following replace the forewarned and scrying adept powers of the divination school.
+
+**Inspiring Prediction (Su)**: A number of times per day equal to 3 + your Intelligence modifier, you can predict an ally's success, bolstering others' resolve. As a swift action, you can shout an inspiring prediction, granting each ally within 50 feet who can hear you a +4 luck bonus on her next attack roll, saving throw, or skill check.
+
+**In Accordance with the Prophecy (Su)**: A number of times per day equal to your Intelligence modifier, you can publicly declare that your next spell is guided by prophecy. When you do, the next spell you cast has a 20% chance of fizzling (1–20 on a d%). If the spell does not fail, treat the spell as if it had been modified by the Empower Spell feat, even if you do not have that feat. At 12th level, the chance that the spell fizzles is reduced to 15% (1–15 on a d%). At 16th level, the chance is reduced to 10% (1–10 on a d%).
+
+## Esoteric Order Magus Arcana
+
+Magi studying the writings of a secretive esoteric order have devised a number of arcana. These arcana reflect the order's mission of bringing order to a chaotic world, using their learning and knowledge to further their own interests, and pursuing ultimate transcendence in the afterlife.
+
+**Book-Bound (Su)**: As long as he wields his spellbook in his off hand, the magus can take an immediate action to gain a +4 bonus on a concentration check he attempts within the next round. This bonus stacks with other bonuses, including the bonus from the concentrate arcana. The magus can use this ability three times per day.
+
+**Circle of Order (Su)**: As a swift action, the magus can spend 1 point from his arcane pool to fortify his defenses against chaotic attacks. This grants him a dodge bonus to his AC equal to half his magus level (maximum +10 at 20th level) against chaotic-aligned attacks and effects and outsiders with the chaotic subtype until the beginning of his next turn. (For example, the magus would gain the dodge bonus against attacks from an anarchic weapon or a glabrezu's pincers.) The magus must be at least 9th level to select this arcana.
+
+**Sage's Step (Sp)**: As a swift action, a magus can spend 1 point from his arcane pool and gain the effects of a *water walk* spell for 10 minutes per magus level. If he expends 2 points from his arcane pool, he can affect a total number of touched creatures equal to his magus level. The magus must be at least 6th level to select this arcana.
+
+## Arcanist Exploits: Faith Tricks
+
+The following arcanist exploits are particularly appealing to priests who use them to get by until they reach sufficient standing in their church to receive divine spells.
+
+**Armored Mask (Su)**: By expending 1 point from her arcane reservoir as a standard action, the arcanist grants herself an effective illusion of armor. She gains the benefits of *mage armor* with a caster level that's equal to her arcanist level and appears to be wearing light or medium armor of whatever design she chooses when activating this ability. At any time while this effect is active, she can expend 1 additional point from her arcane reservoir as an immediate action to also gain the benefits of *shield of faith* with a caster level equal to her arcanist level.
+
+**Aspect of Innocence (Su)**: An arcanist can expend 1 point from her arcane reservoir as an immediate action to gain the benefits of *innocence*, with a caster level equal to her arcanist level.
+
+**Charmer (Su)**: An arcanist can expend 1 point from her arcane reservoir as a standard action to gain the benefits of *glibness*, with a caster level equal to her arcanist level. The arcanist must have the aspect of innocence exploit to take this exploit.
+
+**Mending Flesh (Su)**: The arcanist can expend 1 point from her arcane reservoir as a standard action and touch a target to grant superficial healing. This stops any bleed effects the target is suffering and grants a number of temporary hit points equal to 1d8 + the arcanist's Charisma modifier, lasting for a number of hours equal to the arcanist's level. At 6th level, the number of hit points granted increases to 2d8 + the arcanist's Charisma modifier. A creature can benefit from mending flesh only once per day.
+
+**Convert Wand (Su)** *(greater exploit)*: An arcanist can spend 1 point from her arcane reservoir as a full-round action to convert one wand that is in her possession into a wand of a cure spell with the same spell level and caster level (a cure spell is any spell with "cure" in its name). For example, she could convert a wand of *stone shape* into a wand of *cure serious wounds*. This alteration lasts for 1 minute, after which the wand reverts to its original function. Charges expended while the wand was altered are still expended when it reverts.
+
+## Variant Channeling: Divine Themes
+
+Presented here are a number of variant channeling abilities suitable for followers of demigods and other divinities. Worshipers of divinities whose portfolios include the following can select these variant channeling abilities.
+
+**Sexuality**: *Heal*—Creatures gain a channel bonus on Perform checks and on either Bluff or Diplomacy checks for 1 minute. *Harm*—For 1 minute, creatures take a channel penalty on saving throws against charm effects and effects that cause the fascinated condition.
+
+**Duty**: *Heal*—Creatures gain a channel bonus on attacks of opportunity and bull rush and disarm attempts until the end of your next turn. *Harm*—Creatures take a channel penalty on attacks of opportunity and bull rush and disarm attempts until the end of your next turn.
+
+**Flying Creatures**: *Heal*—Creatures gain a channel bonus on Fly checks and increase their fly speed (if any) by 10 feet until the end of your next turn. *Harm*—Creatures take a channel penalty on Fly checks and decrease their fly speed (if any) by 10 feet until the end of your next turn.
+
+**Journeys**: *Heal*—Creatures gain a channel bonus to AC against attacks of opportunity until the end of your next turn. *Harm*—Creatures' movement speed is halved until the end of your next turn.
+
+**Moonlight**: *Heal*—Until the end of your next turn, creatures gain low-light vision and a channel bonus on attack rolls while in dim or darker light. *Harm*—Until the end of your next turn, creatures are dazzled and take a channel penalty on attack rolls while in dim or darker light.
+
+**Monuments**: *Heal*—For 1 minute, creatures gain a channel bonus on saving throws against effects that would in any way reduce their speed or deal ability score damage. *Harm*—Creatures are staggered until the end of your next turn.

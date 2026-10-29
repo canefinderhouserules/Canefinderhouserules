@@ -277,3 +277,5 @@ The following text is the property of Wizards of the Coast, Inc. and is Copyrigh
     Pathfinder Player Companion: Heroes from the Fringe © 2018, Paizo Inc.; Authors: Saif Ansari, Kate Baker, Michelle Jones, Isabelle Lee, Adrian Ng, Alex Riggs, Owen K.C. Stephens.
 
     Pathfinder Player Companion: Blood of the Coven © 2017, Paizo Inc.; Authors: John Compton, Eleanor Ferron, Crystal Frasier, Lissa Guillet, Elisa Mader, Adrian Ng, Mark Seifter, and Linda Zayas-Palmer.
+
+    Pathfinder Player Companion: Disciple's Doctrine © 2018, Paizo Inc.; Authors: Saif Ansari, Mara Lynn Butler, Jeffrey Hersh, Andrew Hoskins, Lyz Liddell, Luis Loza, and Linda Zayas-Palmer.

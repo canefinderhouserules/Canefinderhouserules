@@ -151,6 +151,7 @@ New inquisitor spells from *Ultimate Magic*. Spells from other books will be add
 - **[Lesser Nondetection](lesser-nondetection.md)**: Blocks area-targeted divinations.
 - **[Light Prison](light-prison.md)**: Cage of light damages and blinds those who leave it.
 - **[Litany of Defense](litany-of-defense.md)**: Doubles armor’s enhancement bonus.
+- **[Litany of Duty](litany-of-duty.md)**: Reroll a failed save against a compulsion.
 - **[Magic Siege Engine](magic-siege-engine.md)**: Siege engine gains +1 on targeting and damage rolls.
 - **[Mark of Blood](mark-of-blood.md)**: Mark a creature struck by a bloodied weapon.
 - **[Mindshock](mindshock.md)**: Your attacks deal extra nonlethal damage and can confuse.
@@ -244,6 +245,7 @@ New inquisitor spells from *Ultimate Magic*. Spells from other books will be add
 - **[Light of Purity](light-of-purity.md)**: Illuminate undead and weaken their channel resistance.
 - **[Litany of Eloquence](litany-of-eloquence.md)**: Fascinates a single creature for 1 round.
 - **[Litany of Entanglement](litany-of-entanglement.md)**: Entangles a creature for 1 round.
+- **[Litany of Order](litany-of-order.md)**: Chaotic creatures take double damage from lawful attackers.
 - **[Litany of Righteousness](litany-of-righteousness.md)**: A single evil creature takes more damage from creatures with a good aura.
 - **[Litany of Warding](litany-of-warding.md)**: You gain two additional attacks of opportunity for 1 round.
 - **[Locate Weakness](locate-weakness.md)**: You roll damage twice when you roll damage for a critical hit and take the best damage.
@@ -317,6 +319,8 @@ New inquisitor spells from *Ultimate Magic*. Spells from other books will be add
 - **[Hollow Heroism](hollow-heroism.md)**: Provide a *heroism* effect that you can reverse at any time.
 - **[Interrogation, Greater](interrogation-greater.md)**: As interrogation, except with more pain and more questions. Leashed Shackles : Target is restricted to a specific location.
 - **[Judgment Light](judgment-light.md)**: You gain an additional effect while a judgment is active.
+- **[Litany of Admonition](litany-of-admonition.md)**: Stagger a creature by pointing out its failures.
+- **[Litany of Dependability](litany-of-dependability.md)**: A creature takes the average result on its next roll.
 - **[Litany of Escape](litany-of-escape.md)**: Teleports a friend out of a grapple.
 - **[Litany of Sight](litany-of-sight.md)**: You can see invisible creatures and objects within 30 feet of you.
 - **[Magic Siege Engine, Greater](magic-siege-engine-greater.md)**: Siege engine gains +1 on targeting and damage rolls for every four caster levels.

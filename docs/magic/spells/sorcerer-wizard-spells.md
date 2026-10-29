@@ -100,6 +100,7 @@
 - **[Fabricate Bullets](fabricate-bullets.md)**
 - **[Fabricate Disguise](fabricate-disguise.md)**: Create a disguise in an instant.
 - **[False Face](false-face.md)**: Change your appearance so you are unrecognizable.
+- **[Fastidiousness](fastidiousness.md)**: Stay clean and gain a bonus against inhaled and ingested diseases.
 - **[Ferment](ferment.md)**: Imbue a drink with an intoxicant
 - **[Fool's Gold](fools-gold.md)**: Make copper or silver appear to be gold
 - **[Fumblestep](fumblestep.md)**: slick a target’s feet, then trip it from afar
@@ -578,6 +579,7 @@
 - **[Flash Fire](flash-fire.md)**: Ammunition in the targeted firearm creates a tremendous flash capable of blinding the weapon’s bearer and those around him.
 - **[Force Anchor](force-anchor.md)**: Force anchor hinders a target's movement
 - **[Forced Mutation](forced-mutation.md)**: Twist a creature, imposing penalties and a deformity.
+- **[Fortune's Path](fortunes-path.md)**: Roll on a table to foresee events in the next week.
 - **[Fractions of Heal and Harm](fractions-of-heal-and-harm.md)**: Convert 25% of your next area damage spell into healing.
 - **[Gilded Whispers](gilded-whispers.md)**: Use a coin as a scrying target.
 - **[Glimpse the Hidden](glimpse-the-hidden.md)**: As *see invisibility*, but cannot be made permanent.
@@ -588,6 +590,7 @@
 - **[Guardian Wasps](guardian-wasps.md)**: A wasp swarm builds a nest that guards an area.
 - **[Guarding Knowledge](guarding-knowledge.md)**: +4 insight bonus on saves against one identified monster special attack.
 - **[Gullibility](gullibility.md)**: target believes lies more readily
+- **[Hallucinatory Decor](hallucinatory-decor.md)**: Reimagine the decor of a structure.
 - **[Healing Thief](healing-thief.md)**: You siphon half of all magical healing that the targeted creature receives.
 - **[Hero's Spellsword](heros-spellsword.md)**: Merge a rod or staff into a melee weapon.
 - **[Hollow Blades](hollow-blades.md)**: Target's melee damage drops one size.
@@ -719,6 +722,7 @@
 - **[Toxic Rupture](toxic-rupture.md)**: A poisonous creature is poisoned by its own venom.
 - **[Trial of Fire and Acid](trial-of-fire-and-acid.md)**: Cover a creature in burning acid
 - **[Twisted Innards](twisted-innards.md)**: Crits and sneak attacks may fail.
+- **[Unflappable Mien](unflappable-mien.md)**: A force ward punishes creatures that try to touch you.
 - **[Unhallowed Blows, Greater](unhallowed-blows-greater.md)**: As unhallowed blows, with a larger bonus and longer duration.
 - **[Unseen Engineers](unseen-engineers.md)**: Invisible engineers build a mechanical trap.
 - **[Urban Step](urban-step.md)**: Step into one doorway and out another.
@@ -803,6 +807,7 @@
 - **[Cursed Treasure](cursed-treasure.md)**: Curse treasure so the next thief is afflicted
 - **[Deadman’s Contingency](deadmans-contingency.md)**: Set one of a list of contingencies for your demise.
 - **[Death Knell Aura](death-knell-aura.md)**: Aura kills dying creatures nearby
+- **[Debilitating Speech](debilitating-speech.md)**: A delayed speech panics, cows, or shakes enemies.
 - **[Demanding Message](demanding-message.md)**: Send messages as per *message* with a *suggestion* for one creature.
 - **[Dimensional Anchor](dimensional-anchor.md)**: Bars extradimensional movement.
 - **[Dreadscape](dreadscape.md)**: Surroundings and unfamiliar creatures seem like something out of a nightmare.
@@ -1247,6 +1252,7 @@
 - **[Path of the Winds](path-of-the-winds.md)**: With a sweeping gesture, you call forth mighty winds to clear a path ahead of you.
 - **[Phantasmal Putrefaction](phantasmal-putrefaction.md)**: Trick creatures into thinking their flesh is rotting.
 - **[Phobia](phobia.md)**: Induce an irrational fear in a creature to the point of madness.
+- **[Prophetic Lore](prophetic-lore.md)**: Recall prophecies about a person, place, item, or event.
 - **[Psychic Asylum](psychic-asylum.md)**: Perform a lengthy mental task in a private mindscape.
 - **[Redcap's Touch](redcaps-touch.md)**: A bloodied hat grants +2 damage and healing on kills.
 - **[Repulsion](repulsion.md)**: Creatures can’t approach you.
