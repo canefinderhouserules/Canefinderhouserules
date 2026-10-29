@@ -1627,6 +1627,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Bouncing Trick](bouncing-trick.md) | Trick | Mesmerist trick class feature |
 | [Bounding Hammer](bounding-hammer.md) | Combat | Proficiency with hammer, base attack bonus +6 |
 | [Bounding Step](bounding-step.md) | — | Dex 15, Nimble Moves |
+| [Bounteous Body](bounteous-body.md) | — | Character level 5th, grapevine or natural magic racial trait |
 | [Bravery in Action](bravery-in-action.md) | — | Bravery class feature, worshiper of a deity of freedom and courage |
 | [Breaker of Barriers](breaker-of-barriers.md) | Combat | Str 17, worshiper of a deity of destruction |
 | [Bred Commander](bred-commander.md) | — | Hobgoblin |
@@ -1671,6 +1672,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Chairbreaker](chairbreaker.md) | Combat | Catch Off-Guard, base attack bonus +1 |
 | [Chakra Mandala](chakra-mandala.md) | — | Ki pool class feature |
 | [Change of Heart](change-of-heart.md) | — | Base attack bonus +6 or monk level 6th |
+| [Changeling Familiar](changeling-familiar.md) | — | Familiar class feature, caster level 9th, your familiar must have the change shape universal monster ability |
 | [Channel Deific Essence](channel-deific-essence.md) | — | Alignment Channel, channel energy 5d6, domain class feature, same alignment as patron deity |
 | [Channel Discord](channel-discord.md) | — | Channel energy 8d6, worshiper of a demon lord |
 | [Channel Endurance](channel-endurance.md) | — | Channel positive energy 3d6, worshiper of a deity of nature or weather |
@@ -1688,6 +1690,8 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Child of Two Fates](child-of-two-fates.md) | — | Knowledge (local) 5 ranks, half-elf |
 | [Chilled Rock](chilled-rock.md) | — | [Born of Frost](born-of-frost.md), frost giant |
 | [Chilling Amplification](chilling-amplification.md) | — | — |
+| [Chimeric Adept](chimeric-adept.md) | — | Chimeric aspect class feature, wild shape class feature |
+| [Chimeric Master](chimeric-master.md) | — | Chimeric Adept, greater chimeric aspect class feature, wild shape class feature |
 | [Choir of Blades](choir-of-blades.md) | Combat, Teamwork | — |
 | [Circling Mongoose](circling-mongoose.md) | Combat | Dex 13, Dodge, Mobility, Spring Attack, base attack bonus +6 |
 | [Circuitous Duelist](circuitous-duelist.md) | Combat | Swordlord Dueling Disciple, Weapon Finesse, Weapon Focus (dueling blade), base attack bonus +5 |
@@ -1782,6 +1786,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Cunning Intuition](cunning-intuition.md) | Combat | Alertness, Improved Initiative, Lightning Reflexes, Quick Draw, Ready for Anything, base attack bonus +13 or rogue level 13th, Sense Motive 13 ranks |
 | [Cunning Killer](cunning-killer.md) | — | Base attack bonus +2, Knowledge (arcana, dungeoneering, local, nature, planes, or religion) 3 ranks |
 | [Curative Mastery](curative-mastery.md) | Item Mastery | Use Magic Device 1 rank, base Fortitude bonus +2 |
+| [Curious Companion](curious-companion.md) | — | Animal companion class feature |
 | [Curse Mastery](curse-mastery.md) | Item Mastery | Use Magic Device 3 ranks, base Fortitude save bonus +6 |
 | [Curse of Vengeance](curse-of-vengeance.md) | — | Ability to cast at least one spell or spell-like ability with the curse descriptor, worshiper of a deity of vengeance |
 | [Cursed Item Detection](cursed-item-detection.md) | — | Spellcraft 5 ranks, ability to cast detect magic |
@@ -1882,6 +1887,8 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Druidic Decoder](druidic-decoder.md) | — | Linguistics 1 rank, cannot be a druid |
 | [Drunkard’s Recovery](drunkard-s-recovery.md) | — | Con 13 |
 | [Drunken Brawler](drunken-brawler.md) | Combat | Endurance, worshiper of a deity of freedom and ale |
+| [Dryad's Apprentice](dryads-apprentice.md) | — | Cha 13, gathlain |
+| [Dryad's Attendant](dryads-attendant.md) | — | Cha 15, Dryad's Apprentice, character level 9th, gathlain |
 | [Duelist Artistry](duelist-artistry.md) | Combat | Exotic Weapon Proficiency (dueling sword), Weapon Finesse, base attack bonus +2 |
 | [Duelist Mastery](duelist-mastery.md) | Combat | Exotic Weapon Proficiency (dueling sword), Quick Draw, Weapon Finesse, Weapon Focus (dueling sword) |
 | [Duelist Style](duelist-style.md) | Combat, Style | Alertness, Exotic Weapon Proficiency (dueling sword), Weapon Finesse, Weapon Focus (dueling sword) |
@@ -1905,6 +1912,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Electric Eel Conduit](electric-eel-conduit.md) | Combat, Style | Wis 17, Electric Eel Shock, Electric Eel Style, Elemental Fist, Improved Unarmed Strike, base attack bonus +13 or monk level 9th |
 | [Electric Eel Shock](electric-eel-shock.md) | Combat, Style | Wis 15, Electric Eel Style, Elemental Fist, Improved Unarmed Strike, base attack bonus +11 or monk level 7th |
 | [Electric Eel Style](electric-eel-style.md) | Combat, Style | Wis 13, Elemental Fist, Improved Unarmed Strike, base attack bonus +9 or monk level 5th |
+| [Elemental Claws](elemental-claws.md) | — | Con 13, Wis 13, base attack bonus +8, wild shape class feature |
 | [Elemental Commixture](elemental-commixture.md) | Teamwork | Caster level 1st |
 | [Elemental Conversion](elemental-conversion.md) | General | — |
 | [Elemental Discipline Style](elemental-discipline-style.md) | Combat, Style | Wis 13, base attack bonus +5 or monk level 5th |
@@ -1990,6 +1998,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Fast Change](fast-change.md) | — | Dex 13, base attack bonus +6, skinwalker |
 | [Fate-Deck Summoning](fate-deck-summoning.md) | — | Ability to cast conjuration (summoning) spells or use summoning spell-like abilities, a complete fate deck you own |
 | [Fateful Channel](fateful-channel.md) | — | Channel positive energy 3d6, worshiper of a deity of death and fate |
+| [Favored Animal Focus](favored-animal-focus.md) | — | Animal companion class feature, animal focus class feature |
 | [Favored Community](favored-community.md) | — | Knowledge (local) 2 ranks, must have lived in the settlement for at least 1 year |
 | [Favored Prestige Class](favored-prestige-class.md) | — | — |
 | [Fearsome Finish](fearsome-finish.md) | Combat | Intimidating Prowess, worshiper of a deity of monsters and madness |
@@ -2058,6 +2067,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Fox Trickery](fox-trickery.md) | Combat | Int 13, Combat Expertise, Fox Insight, Fox Style, Improved Dirty Trick |
 | [Freeze in Place](freeze-in-place.md) | Combat | Stealth 5 ranks, wyrwood |
 | [Friend to Animals](friend-to-animals.md) | — | Nature Soul, Handle Animal 3 ranks |
+| [Friendly Face](friendly-face.md) | — | Animal companion |
 | [Friendly Fire Maneuvers](friendly-fire-maneuvers.md) | Combat, Teamwork | Point-Blank Shot, Precise Shot |
 | [Friendly Rivalry](friendly-rivalry.md) | Combat, Teamwork | Human |
 | [Friendly Shroud](friendly-shroud.md) | — | Stealth 1 rank |
@@ -2095,9 +2105,11 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Greater Planar Infusion](greater-planar-infusion.md) | Conduit | [Improved Planar Infusion](improved-planar-infusion.md), [Planar Infusion](planar-infusion.md), character level 13th |
 | [Greater Ray Shield](greater-ray-shield.md) | Shield Mastery | Dex 17, Missile Shield, Ray Shield, Spellbreaker |
 | [Greater School Familiar](greater-school-familiar.md) | — | School Familiar, wizard level 10th, specialized arcane school class feature |
+| [Greater Spelleater](greater-spelleater.md) | — | Cha 13, character level 5th, ghoran, spelleater racial trait |
 | [Greater Stylized Spell](greater-stylized-spell.md) | Metamagic | Stylized Spell, Bluff 10 ranks, Spellcraft 10 ranks |
 | [Greater Subjective Slam](greater-subjective-slam.md) | Combat | Con 15, Wis 15, [Subjective Mobility](subjective-mobility.md), [Subjective Slam](subjective-slam.md), base attack bonus +8 or monk level 7th |
 | [Greater Uncivilized Tactics](greater-uncivilized-tactics.md) | Combat | Str 13, Improved Uncivilized Tactics, Power Attack, Uncivilized Tactics |
+| [Greater Weapon Shift](greater-weapon-shift.md) | — | Improved Weapon Shift, Weapon Shift, base attack bonus +8, wild shape class feature |
 | [Grisly Ornament](grisly-ornament.md) | — | Harvest Parts |
 | [Ground-Grabber](ground-grabber.md) | Combat | Con 13 |
 | [Group Deliver Touch Spells](group-deliver-touch-spells.md) | Teamwork | Group Shared Spells, must have a familiar with the share spells and deliver touch spells abilities |
@@ -2127,6 +2139,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Healer's Hands](healers-hands.md) | Conduit | Heal 1 rank, Knowledge (planes) 1 rank |
 | [Healing Potion](healing-potion.md) | Versatile Brewing | Brew Potion, ability to cast *cure serious wounds* |
 | [Heaven's Light](heavens-light.md) | Conduit | Knowledge (planes) 1 rank |
+| [Hefty Brute](hefty-brute.md) | — | Animal companion or familiar |
 | [Hellish Shackles](hellish-shackles.md) | — | Channel energy 5d6, worshiper of an archdevil or infernal noble |
 | [Helpless Prisoner](helpless-prisoner.md) | General | Bluff 5 ranks, Escape Artist 1 rank, gnome |
 | [Hemorrhaging Venom](hemorrhaging-venom.md) | Combat | Spit Venom, Virulent Venom, base attack bonus +7, nagaji |
@@ -2194,6 +2207,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Improved Swarm Form](improved-swarm-form.md) | — | Vampire |
 | [Improved Toxicological Timing](improved-toxicological-timing.md) | — | Craft (alchemy) 11 ranks, Toxicological Timing |
 | [Improved Uncivilized Tactics](improved-uncivilized-tactics.md) | Combat | Str 13, Power Attack, Uncivilized Tactics |
+| [Improved Weapon Shift](improved-weapon-shift.md) | — | Weapon Shift, base attack bonus +6, wild shape class feature |
 | [Improvisational Focus](improvisational-focus.md) | Combat | Catch Off-Guard or Throw Anything, base attack bonus +1 |
 | [Improvisational Healer](improvisational-healer.md) | — | Heal 1 rank |
 | [Improvised Defenses](improvised-defenses.md) | Combat | Catch Off-Guard or Throw Anything, base attack bonus +1 |
@@ -2250,6 +2264,8 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Kraken Style](kraken-style.md) | Combat, Style | Wis 13, Improved Grapple, Improved Unarmed Strike, base attack bonus +3 or monk level 3rd |
 | [Kraken Throttle](kraken-throttle.md) | Combat, Style | Wis 13, Improved Grapple, Improved Unarmed Strike, Kraken Style, base attack bonus +5 or monk level 5th |
 | [Kraken Wrack](kraken-wrack.md) | Combat, Style | Wis 13, Improved Grapple, Improved Unarmed Strike, Kraken Style, base attack bonus +7 or monk level 7th |
+| [Kudzu Invasion](kudzu-invasion.md) | Combat | Dex 13, Greater Grapple, Improved Grapple, Improved Unarmed Strike, Kudzu Grappler, base attack bonus +6 or monk level 6th, vine leshy |
+| [Kudzu Takeover](kudzu-takeover.md) | Combat | Dex 13, base attack bonus +6 or monk level 6th, Greater Grapple, Improved Grapple, Improved Unarmed Strike, Kudzu Grappler, Kudzu Invasion, vine leshy |
 | [Large Target](large-target.md) | Combat | Proficient with sling |
 | [Lashing Tail](lashing-tail.md) | Combat | [Grasping Tail](grasping-tail.md), you must have a tail |
 | [Last Rites](last-rites.md) | Conduit | Knowledge (planes) 3 ranks, Knowledge (religion) 3 ranks |
@@ -2327,6 +2343,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Metamagic Invocation](metamagic-invocation.md) | — | Metakinesis class feature |
 | [Meteor Swing](meteor-swing.md) | Combat | Weapon Focus with bludgeoning weapon, base attack bonus +6 |
 | [Mighty Bite](mighty-bite.md) | Combat | Base attack bonus +6, bite attack, rend, troll |
+| [Mighty Boughs](mighty-boughs.md) | — | Str 15, character level 11th, gathlain |
 | [Mind Strike](mind-strike.md) | — | Ranged legerdemain class feature |
 | [Mindful Meditation](mindful-meditation.md) | Meditation | Wis 11, [Meditation Master](meditation-master.md) |
 | [Mindfulness Mastery](mindfulness-mastery.md) | Meditation | Wis 19, [Meditation Master](meditation-master.md), [Mindful Meditation](mindful-meditation.md), character level 13th |
@@ -2506,6 +2523,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Racial Item Mastery](racial-item-mastery.md) | Item Mastery | Use Magic Device 6 ranks, base Fortitude saving throw bonus +3 |
 | [Raging Brute](raging-brute.md) | — | Str 21 |
 | [Raging Regeneration](raging-regeneration.md) | Combat | Rage class ability, regeneration, troll |
+| [Raking Claws](raking-claws.md) | — | Base attack bonus +8, shifter, wild shape class feature |
 | [Ranged Disable](ranged-disable.md) | — | Far Shot, Point-Blank Shot, Weapon Focus, Disable Device 9 ranks |
 | [Ranged Disarm](ranged-disarm.md) | Combat, Targeting | Dex 13, Deadly Aim, base attack bonus +6 |
 | [Ranged Feint](ranged-feint.md) | Combat | Base attack bonus +2, Bluff 3 ranks |
@@ -2534,6 +2552,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Relentless Shot](relentless-shot.md) | Combat | Point-Blank Shot, base attack bonus +6 |
 | [Relic Familiarity](relic-familiarity.md) | — | Wyvaran |
 | [Rending Swarm](rending-swarm.md) | Combat, Teamwork | Dex 15, [Rat Stack](rat-stack.md), swarming racial trait |
+| [Repast of Heroes](repast-of-heroes.md) | — | Con 15, character level 8th, ghoran, natural magic racial trait |
 | [Resistance Mastery](resistance-mastery.md) | Item Mastery | Use Magic Device 3 ranks, base Fortitude saving throw bonus +3 |
 | [Resisting Grappler](resisting-grappler.md) | Combat | Dex 13 |
 | [Respectful Prey](respectful-prey.md) | General | — |
@@ -2612,6 +2631,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Shadow's Shroud](shadows-shroud.md) | Conduit | Knowledge (planes) 5 ranks |
 | [Shadows of Fear](shadows-of-fear.md) | Combat | Hidden strike +2d8 or sneak attack +2d6 |
 | [Shapechanging Savage](shapechanging-savage.md) | — | Improved Feint or canny feint vigilante talent, change shape ability, shapechanger subtype |
+| [Shapeless Familiar](shapeless-familiar.md) | — | Familiar class feature, caster level 7th |
 | [Shapeshifter Savage](shapeshifter-savage.md) | Combat | Shapeshifter Style*, Shapeshifter Twist*, base attack bonus +8, change shape ability, shapechanger subtype |
 | [Shapeshifter Style](shapeshifter-style.md) | Combat, Style | Base attack bonus +3, change shape ability, shapechanger subtype |
 | [Shapeshifter Twist](shapeshifter-twist.md) | Combat | Shapeshifter Style*, base attack bonus +5, change shape ability, shapechanger subtype |
@@ -2643,6 +2663,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Signature Strike Triumph](signature-strike-triumph.md) | Combat | Precise Shot, Signature Strike Style, Signature Strike Taunt, Weapon Focus, base attack bonus +11, Intimidate 11 ranks |
 | [Sincere Flattery](sincere-flattery.md) | — | Wyvaran |
 | [Sinister Reputation](sinister-reputation.md) | — | Cha 13, Intimidate 5 ranks, Persuasive or renown social talent |
+| [Sinuous Vines](sinuous-vines.md) | — | Dex 13, Improved Grapple, Improved Unarmed Strike, base attack bonus +6, gathlain |
 | [Siphon Channel](siphon-channel.md) | — | Channel energy 3d6, worshiper of a deity of disease |
 | [Siphon Poison](siphon-poison.md) | — | — |
 | [Siphoning Blade](siphoning-blade.md) | Combat | Voracious Blade, Weapon Focus (rhoka sword), base attack bonus +8, urdefhan |
@@ -2686,6 +2707,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Soulblade](soulblade.md) | Combat | Knowledge (religion) 1 rank, Perception 1 rank |
 | [Soulless Gaze](soulless-gaze.md) | Damnation | Patronage of an evil outsider |
 | [Soulwrecking Strike](soulwrecking-strike.md) | Combat | Vital Strike, base attack bonus +6 |
+| [Spark of the Uncanny](spark-of-the-uncanny.md) | — | Familiar class feature |
 | [Spear Dancer](spear-dancer.md) | Combat | Weapon Focus (any two-handed reach weapon), Perform (dance) 4 ranks |
 | [Spear Dancing Reach](spear-dancing-reach.md) | Combat | Dex 17, Spear Dancing Spiral, Spear Dancing Style, Two-Weapon Fighting, Weapon Finesse, Weapon Focus with the chosen weapon |
 | [Spear Dancing Spiral](spear-dancing-spiral.md) | Combat | Dex 15, Spear Dancing Style, Two-Weapon Fighting, Weapon Finesse, Weapon Focus with the chosen weapon |
@@ -2700,6 +2722,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Spell Trick](spell-trick.md) | Trick | Masterful tricks class feature, ability to cast 4th-level mesmerist spells |
 | [Spell-Drinker](spell-drinker.md) | General | Con 13; Great Fortitude, Iron Will, or Lightning Reflexes |
 | [Spellcut](spellcut.md) | Weapon Mastery | Str 13, Cut from the Air, Power Attack, base attack bonus +9, Spellcraft 1 rank, weapon training class feature with a melee weapon |
+| [Spellmirror](spellmirror.md) | — | Cha 13, character level 6th, ghoran, spelleater racial trait |
 | [Spiked Destroyer](spiked-destroyer.md) | Combat | Proficient with armor spikes |
 | [Spirit Ally](spirit-ally.md) | General | Caster level 8th |
 | [Spirit Beacon](spirit-beacon.md) | — | Wis 15, Iron Will |
@@ -2762,6 +2785,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Street Style](street-style.md) | Combat, Style | Str 15, Improved Bull Rush, Improved Unarmed Strike, Power Attack, base attack bonus +4 or monk level 3rd |
 | [Street Sweep](street-sweep.md) | Combat | Str 15, Improved Bull Rush, Improved Unarmed Strike, Power Attack, Street Style, base attack bonus +6 or monk level 5th |
 | [Strength of Obligation](strength-of-obligation.md) | — | Must be devoted to a philosophy of responsibility and self-improvement and not worship any deities |
+| [Strength of Wood](strength-of-wood.md) | — | Con 13, gathlain |
 | [Strike True](strike-true.md) | Combat | Combat Expertise, base attack bonus +6 |
 | [Structural Strike](structural-strike.md) | Combat, Panache | Knowledge (engineering) 5 ranks, precise strike class feature or precise strike deed |
 | [Student of Second Chances](student-of-second-chances.md) | — | Aasimar |
@@ -2875,6 +2899,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Trailblazing Channel](trailblazing-channel.md) | — | Channel energy 3d6, worshiper of a deity of dreams and travelers |
 | [Train Plants](train-plants.md) | — | Handle Animal 5 ranks, Knowledge (nature) 5 ranks |
 | [Treacherous Toxin](treacherous-toxin.md) | — | Base attack bonus +5, sneak attack class feature |
+| [Treant's Call](treants-call.md) | — | Cha 17, ability to cast *speak with plants*, character level 13th, gathlain |
 | [Trepanation](trepanation.md) | — | Heal 5 ranks, Knowledge (arcana) 2 ranks |
 | [Triangulate](triangulate.md) | Teamwork | Blind-Fight, Greater Blind-Fight, Improved Blind-Fight, Perception 15 ranks, human |
 | [Tribal Scars](tribal-scars.md) | — | — |
@@ -2929,6 +2954,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Vengeful Banisher](vengeful-banisher.md) | Story | You witnessed at least one family member or a close friend being killed by demons or demonic cultists, or you have the Hated Foe or An Eye for an Eye background |
 | [Venomous Spray](venomous-spray.md) | Combat | Serpentfolk |
 | [Venomous Stare](venomous-stare.md) | Stare | Mesmerist level 11th, painful stare class feature |
+| [Verdant Step](verdant-step.md) | — | Con 13, character level 7th, plant type |
 | [Verify](verify.md) | — | Ability to cast 1st-level spells, lawful evil alignment, worshiper of a lawful evil deity of devils and contracts |
 | [Versatile Jinxer](versatile-jinxer.md) | General | Iron Will, Halfling Jinx racial trait |
 | [Versatile Summon Monster](versatile-summon-monster.md) | General | Knowledge (arcana) 1 rank, Knowledge (planes) 1 rank |
@@ -2959,6 +2985,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Weapon Adept](weapon-adept.md) | Combat | — |
 | [Weapon Evoker Mastery](weapon-evoker-mastery.md) | Item Mastery | Use Magic Device 2 ranks, base Fortitude saving throw bonus +3 |
 | [Weapon Material Mastery](weapon-material-mastery.md) | Weapon Mastery | Base attack bonus +7, weapon training class feature with a melee weapon |
+| [Weapon Shift](weapon-shift.md) | — | Wild shape class feature |
 | [Weapon Style Mastery](weapon-style-mastery.md) | Style, Weapon Mastery | Any two style feats from different styles, base attack bonus +6, weapon training class feature with a melee weapon |
 | [Weapon Trick](weapon-trick.md) | Combat | Base attack bonus +1 |
 | [Weapon Versatility](weapon-versatility.md) | Combat | Weapon Focus, base attack bonus +1 |

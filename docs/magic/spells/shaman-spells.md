@@ -183,6 +183,7 @@ Shamans gain access to the following spells. Spells in plain text come from othe
 - **[Night Blindness](night-blindness.md)**: Lighting around the target counts as one step darker.
 - **[Overstimulate](overstimulate.md)**: Grant ferocity to keep a creature conscious
 - **[Owl’s Wisdom](owls-wisdom.md)**: Subject gains +4 to Wis for 1 min./level.
+- **[Pinecone Bomb](pinecone-bomb.md)**: A thrown pinecone explodes for piercing damage.
 - **[Plant Voice](plant-voice.md)**: A plant creature can speak and understand your languages.
 - **[Quick Change](quick-change.md)**: Use change shape as a swift action and surprise foes.
 - **[Raven's Flight](ravens-flight.md)**: Become a Tiny raven shape with fly speed 50 ft. for one turn.
@@ -314,6 +315,7 @@ Shamans gain access to the following spells. Spells in plain text come from othe
 - **[Water Walk](water-walk.md)**: Subject treads on water as if solid.
 - **[Wind Wall](wind-wall.md)**: Deflects arrows, smaller creatures, and gases.
 - **[Wing Thorns](wing-thorns.md)**: Wings sprout poisonous thorns you can attack with.
+- **[Woodland Rune](woodland-rune.md)**: A rune sprouts entangling roots when enemies approach.
 
 ## 4th-Level Shaman Spells
 
@@ -347,6 +349,7 @@ Shamans gain access to the following spells. Spells in plain text come from othe
 - **[Familiar Melding](familiar-melding.md)**: Possess your familiar.
 - **[Fear](fear.md)**: Subjects within cone flee for 1 round/level.
 - **[Firewalker's Meditation](firewalkers-meditation.md)**: Meditative spell: damage reduction, fire resistance, and pain resistance.
+- **[Flame Steed](flame-steed.md)**: Conjure a mount made of flame.
 - **[Flesh Puppet Horde](flesh-puppet-horde.md)**: Control multiple zombies in human guise.
 - **[Forest’s Sense](forests-sense.md)**: Sense the location of a distant target that is near a plant or fungus.
 - **[Frigid Souls](frigid-souls.md)**: Haunt strips protection against cold.
@@ -381,6 +384,7 @@ Shamans gain access to the following spells. Spells in plain text come from othe
 - **[Ride the Waves](ride-the-waves.md)**: Target can breathe water and swim.
 - **[Rigor Mortis](rigor-mortis.md)**: Painfully swell a target’s joints.
 - **[Rising Water](rising-water.md)**: Conjures a cylinder of calm, swimmable water.
+- **[Rope Tornado](rope-tornado.md)**: A line of tornado-force wind knocks creatures prone.
 - **[Sands of Time](sands-of-time.md)**: Target temporarily ages.
 - **[Scrying](scrying.md)**: Spies on subject from a distance.
 - **[Sending](sending.md)**: Delivers short message anywhere, instantly.
@@ -491,6 +495,7 @@ Shamans gain access to the following spells. Spells in plain text come from othe
 - **[Fey Form III](fey-form-iii.md)**: Assume the form of a Diminutive or Huge fey creature.
 - **[Find the Path](find-the-path.md)**: Shows most direct way to a location.
 - **[Fire Seeds](fire-seeds.md)**: Acorns and berries become grenades and bombs.
+- **[Flash Flood](flash-flood.md)**: A wave batters and bull rushes foes, then floods the area.
 - **[Flesh to Stone](flesh-to-stone.md)**: Turns subject creature into statue.
 - **[Flesh Wall](flesh-wall.md)**: Create a wall of zombies.
 - **[Green Caress](green-caress.md)**: Slowly transform a creature into an inanimate plant.
@@ -542,6 +547,7 @@ Shamans gain access to the following spells. Spells in plain text come from othe
 - **[Regenerate](regenerate.md)**: Subject’s severed limbs grow back, cures 4d8 damage +1/level (max +35).
 - **[Restoration, Greater](restoration-greater.md)**: As *restoration,* plus restores all levels and ability scores.
 - **[Scrying, Greater](scrying-greater.md)**: As *scrying*, but faster and longer.
+- **[Seismic Fissure](seismic-fissure.md)**: Split the earth with a deep fissure.
 - **[Speak with Waves](speak-with-waves.md)**: Converse with a body of fresh water.
 - **[Stone Tell](stone-tell.md)**: Talk to natural or worked stone.
 - **[Sunbeam](sunbeam.md)**: Beam blinds and deals 4d6 damage.

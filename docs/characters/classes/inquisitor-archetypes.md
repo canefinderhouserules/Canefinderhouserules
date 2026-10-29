@@ -1039,3 +1039,19 @@ This ability modifies judgment, second judgment, and third judgment.
 **Eye of the Deck (Su)**: At 2nd level, a suit seeker can use the magic of her improvised array to hone her attacks against targets that match the cards' alignment. If any of the cards in her improvised array matches the alignment of an enemy creature within 60 feet on either the good-evil axis or the lawful-chaotic axis, the card glows faintly and the inquisitor gains a +1 sacred bonus on attack rolls against enemies of the matching alignment as long as the card is in her array. If a card matches the alignment of an enemy within 60 feet on both alignment axes, the card glows brightly and the inquisitor gains a +1 sacred bonus on attack rolls and damage rolls against enemies of the matching alignment. This ability replaces detect alignment.
 
 **Unravel Array (Su)**: At 20th level, a suit seeker can tear apart a target's place in destiny, rendering the creature immobile or possibly dead. As long as she has an improvised array drawn, the suit seeker can destroy one of the cards in her array and designate a single creature within 30 feet as the target of the deck's magic. The designated creature must succeed at a Will save (DC 10 + 1/2 the inquisitor's level + the inquisitor's Wisdom modifier) or one of its ability scores is immediately reduced to 0, which can immobilize, render unconscious, or kill the creature. The ability score reduced corresponds to the ability score of the card destroyed. Regardless of whether or not the target succeeds at its save, it becomes immune to the inquisitor's unravel array ability for 24 hours. Once this ability has been used, it cannot be used again for 1d4 rounds. The destroyed card is removed from the deck. The suit seeker can continue to use the reduced deck for the purpose of her suit seeker powers as long as she wants, though she has no chance of drawing the destroyed card until she purchases a new deck. This ability replaces true judgment.
+
+## Fey-Sworn
+
+*Inquisitor archetype.* This archetype is typically only taken by gathlains. With GM permission, other races can take it as well. Fey-sworn are gathlains who have pledged their loyalty to one of the great lords of the fey realm. Although these lords rarely have adherents as other deities do, they still occasionally require mortal agents to advance their aims. Fey-sworn consider their chosen patron to be akin to a powerful benefactor or fey royalty and serve it faithfully.
+
+**Whimsical Worship (Ex)**: A fey-sworn uses her Charisma modifier, rather than her Wisdom modifier, to determine all class features and effects relating to her inquisitor class, including her spells, cunning initiative, and true judgment abilities.
+
+**Deity**: A fey-sworn must select a deity or patron associated with the fey as her deity and must select a domain or subdomain of that patron for her domain ability; she cannot be devoted to an ideal or philosophy. This alters domain.
+
+**Disarming Discernment (Ex)**: A fey-sworn adds her Charisma modifier on Sense Motive skill checks, in addition to her Wisdom modifier. This replaces monster lore.
+
+**Feytongue (Ex)**: A fey-sworn receives a morale bonus equal to half her inquisitor level (minimum +1) on Bluff and Diplomacy checks. This replaces stern gaze.
+
+**Feywatcher (Ex)**: Resistant to the tricky ways of other fey, a fey-sworn gains the resist nature's lure druid class feature. This replaces solo tactics.
+
+**Magic of the Fey Court**: At 3rd level and every 3 levels thereafter, a fey-sworn gains a bonus spell slot of the highest spell level she can cast, and she learns the corresponding spell listed for her domain as a bonus spell known. She can use this bonus spell slot only to cast the domain spell of that level. This replaces all teamwork feats.

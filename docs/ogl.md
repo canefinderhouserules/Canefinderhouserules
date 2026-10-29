@@ -271,3 +271,5 @@ The following text is the property of Wizards of the Coast, Inc. and is Copyrigh
     Wrath of the Righteous Player's Guide © 2013, Paizo Publishing, LLC; Authors: Adam Daigle and Jay Loomis.
 
     Pathfinder Player Companion: Legacy of Dragons © 2016, Paizo Inc.; Authors: Alexander Augunas, Robert Brookes, Thurston Hillman, Michelle Jones, Mikko Kallio, and Mark Seifter.
+
+    Pathfinder Player Companion: Wilderness Origins © 2019, Paizo Inc.; Authors: Kim Frandsen, Sasha Hall, Violet Hargrave, Andrew Mullen, Jessica Redekop, Mikhail Rekun, Sean K. Reynolds, and Rodney Sloan.

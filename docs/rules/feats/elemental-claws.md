@@ -1,0 +1,7 @@
+# Elemental Claws
+
+You empower your claws with elemental energy.
+
+**Prerequisites**: Con 13, Wis 13, base attack bonus +8, wild shape class feature.
+
+**Benefit**: When you attack with a natural weapon, select one of the following energy types: acid, cold, electricity, or fire. If you hit, the attack deals its normal damage plus 1d6 points of damage of the chosen energy type. You must declare that you are using this feat before you make your attack roll (a failed attack roll ruins the attempt). You can attempt one elemental claws attack per day for every 4 levels you have, and no more than once per round.

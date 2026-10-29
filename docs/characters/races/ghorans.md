@@ -54,21 +54,35 @@ The following racial traits can be selected instead of existing ghoran racial tr
 
 **Spelleater**: Ghorans were originally created to survive and thrive in a magic-blasted wasteland, and over the centuries some ghorans have adapted greater abilities to overcome magic in general. Once per day, the ghoran can cast dispel magic as a spell-like ability, with a caster level equal to the ghoran’s character level. If the ghoran’s favored class is a spellcasting class, the ghoran gains a +2 racial bonus on dispel checks. This replaces past-life knowledge and nature magic.
 
+**Fecund Earth**: Ghorans were created to provide nourishment to creatures, but their creator also intended for them to help the land around them to grow and thrive. Once per day, a ghoran with this racial trait can cast *plant growth* as a spell-like ability with a caster level equal to the ghoran's character level. This replaces past-life knowledge and nature magic.
+
+**Intoxicating Aroma**: Some ghorans have an incredibly distracting scent. Once per day, as a spell-like ability, a ghoran with this racial trait can emit an intoxicating aroma that causes creatures within 30 feet to be fascinated for 1d4 rounds. Each target creature within range can attempt a Will save (DC = 10 + half the ghoran's character level + the ghoran's Charisma modifier) to negate the effect. This replaces natural magic.
+
+**Magical Absorption**: Many ghorans are resistant to magic or able to dispel it. Some ghorans even gain nourishment from absorbing magic. Whenever such a ghoran succeeds at a saving throw against a spell or spell-like ability, she regains 1 hit point per level of the spell, though this affects the ghoran only if she is above 0 hit points. A ghoran can use this ability a number of times per day equal to her level. This replaces past-life knowledge and nature magic.
+
+**Natural Camouflage**: Some ghorans evolve by reseeding themselves in different locations. With each new seed, these ghorans take on some of the traits of the areas surrounding their new growth. Ghorans with this racial trait choose one terrain from the ranger's favored terrain list other than planes, urban, or water. These ghorans gain a +4 racial bonus on Stealth checks when in their chosen terrain. This replaces natural armor.
+
 ## Favored Class Options
 
 See the [Ultimate Wilderness section of the racial favored class options](../favored-class-bonuses/racial-favored-class-options.md#ghorans-ultimate-wilderness).
 
 ## Archetypes and Class Options
 
-- [Verdant](../classes/bloodrager-bloodlines.md#verdant) (bloodrager bloodline; favored by ghorans but open to all races)
 - [Aromaphile](../classes/mesmerist-archetypes.md#aromaphile) (mesmerist)
 - [Leafshifter](../classes/shifter-archetypes.md#leafshifter) (shifter)
+- [Petal Ninja](../classes/rogue-archetypes.md#petal-ninja) (ninja; ghorans only)
+- [Verdant](../classes/bloodrager-bloodlines.md#verdant) (bloodrager bloodline; favored by ghorans but open to all races)
 
 ## Feats
 
+- [Bounteous Body](../../rules/feats/bounteous-body.md)
 - [Delectable Feint](../../rules/feats/delectable-feint.md)
+- [Greater Spelleater](../../rules/feats/greater-spelleater.md)
 - [Inner Light](../../rules/feats/inner-light.md)
+- [Repast of Heroes](../../rules/feats/repast-of-heroes.md)
+- [Spellmirror](../../rules/feats/spellmirror.md)
 - [Sproutling](../../rules/feats/sproutling.md)
+- [Verdant Step](../../rules/feats/verdant-step.md)
 
 ## Magic Items
 
@@ -77,3 +91,5 @@ See the [Ultimate Wilderness section of the racial favored class options](../fav
 ## Spells
 
 - [Delectable Flesh](../../magic/spells/delectable-flesh.md)
+- [Pinecone Bomb](../../magic/spells/pinecone-bomb.md)
+- [Woodland Rune](../../magic/spells/woodland-rune.md)

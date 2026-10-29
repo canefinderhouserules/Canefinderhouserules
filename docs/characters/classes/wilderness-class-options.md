@@ -139,9 +139,19 @@ The following hexes are available to all witches and use the standard rules for 
 
 **Enemy Ground (Su)**: The witch curses a target with clumsiness when in dangerous terrain. The target takes a –4 penalty on Acrobatics checks to move over slippery or uneven surfaces and to avoid attacks of opportunity while moving through threatened squares. This effect lasts for 1 minute. On a successful Will save, the penalty is reduced by half and the duration is only 1 round. At 8th level, this penalty increases to –8.
 
+**Floating Lotus (Su)**: The witch can conjure a large lotus flower that floats by her side for a number of minutes per day equal to her level. This duration doesn't need to be consecutive, but must be spent in 1-minute increments. While summoned, the witch can use the lotus to cross water as if she was affected by *water walk*. She can also use the flower for short bursts of flight, gaining a +10 enhancement bonus on Acrobatics checks when attempting high jumps and long jumps. This bonus increases by 10 at 5th level, and again at 9th level.
+
+**Heralding Bloom (Su)**: A witch can compel a plant within 30 feet to spread a message, which must be 25 words or fewer and in a language the witch speaks. This message can't contain verbal spell components, command words, or other magical effects. An intelligent plant that's targeted can attempt a Will save to negate the effect. If the save fails, the plant is magically compelled to "speak" this message in an audible voice, repeating it each time one or more intelligent creatures to whom the message has not yet been repeated comes within range, until 24 hours after the hex has been placed. The plant under the effect of the hex does not gain any special intelligence from this hex or gain any ability to understand the message if it does not normally understand the language the message is delivered in, and it is in no way otherwise compelled to act in any way it would not normally. A witch can have a number of heralding blooms active equal to her witch level + her Charisma modifier.
+
+**Iceplant (Su)**: This hex grants the witch and her familiar a +2 natural armor bonus and the constant effects of *endure elements*. The effect leaves the witch's skin thick and stiff to the touch.
+
+**Leshy Summoning (Su)**: The witch counts as a plant creature for the purpose of growing leshys. She adds leaf leshys, gourd leshys, fungus leshys, seaweed leshys, and lotus leshys to the list of creatures she can summon with *summon monster I*, *II*, *III*, *IV*, and *V*, respectively.
+
 **No Place Like Home (Su)**: The witch fills an ally with the safety he feels at home or inflicts pangs of homesickness to hamper an enemy’s defenses. She chooses a target for the hex within 30 feet. If she chooses an ally, that ally gains a +2 dodge bonus to AC against traps and on Reflex saves against traps. If she chooses an opponent, that opponent takes a –2 penalty to AC against traps and on Reflex saves against traps. Either way, the effects last for 1 minute. The target can attempt a Will save to negate the effects of the hex. At 8th level, the bonus or penalty increases to 4. At 16th level, the bonus or penalty increases to 6. A creature targeted by this hex cannot be targeted again by this hex for 1 day.
 
 **Summer’s Heat (Su)**: The witch surrounds her target with oppressive heat, dealing a number of points of nonlethal damage equal to her witch level and causing the target to become fatigued. The target can attempt a Fortitude save to reduce this nonlethal damage by half and negate the fatigued condition. Whether or not the target succeeds at this save, it can’t be the target of this hex again for 1 day.
+
+**Verdant Familiar (Ex)**: The witch's familiar's creature type changes to plant, gaining all respective plant traits.
 
 **Witch’s Bottle (Su)**: Once per day, the witch can perform a 10-minute ritual to create a potion imbued with the power of one of her hexes. Any creature that consumes this potion is affected by the hex as if cast by its creator. The witch can’t use that hex until the potion is consumed or rendered inert. Only hexes that can target a creature other than the witch can be distilled in this way. The potion remains potent until consumed or rendered inert by the witch as a free action. A witch must have the cauldron hex to select this hex.
 
@@ -176,3 +186,17 @@ At 4th level, plant eidolons gain constant pass without trace and they can chang
 At 12th level, plant eidolons gain immunity to paralysis, poison, sleep, and stun.
 
 At 16th level, plant eidolons gain the ability to use commune with nature once per day and can use their speak with plants ability at will. At 20th level, plant eidolons gain a +8 resistance bonus on saving throws against mind-affecting effects. They lose their resistance (electricity) and resistance (sonic) evolutions and instead gain the immunity (electricity) and immunity (sonic) evolutions.
+
+## Animal Focus: Ward Aspects
+
+Kami are spirits created to protect nature, but they have proven themselves quick to adapt, protecting many kinds of environments. Each kami forms a bond with a single part of nature, such as a stream, a road, or an individual animal, which is known as the kami's ward and which it is sworn to protect. When a character in tune with nature comes upon an area that a kami could ward but that is lacking a guardian, she has the option of making that area her ward in a symbiotic relationship. Whenever a character with the animal focus class feature is within 100 feet per class level of one of the wards listed below, she can use the associated ward aspect instead of one of the 18 normal options for her animal focus class feature. Hunters can apply the benefits of a ward aspect to themselves, but not to their animal companions. If a character with the animal focus class feature spends 30 minutes meditating while within 10 feet per class level of the ward, she attunes herself to that ward. A character attuned to a ward can use the associated ward aspect while within 1 mile per class level. A character can be attuned to only one ward at a time, but depending on her surroundings, she could choose from among multiple wards. A character with the second animal focus class feature can still only use one ward aspect at a time, no matter how many aspects she has available to her.
+
+**Road**: The creature gains a +10-foot enhancement bonus to its base speed while running, charging, or withdrawing. This bonus increases to +20 feet at 8th level and +30 feet at 15th level.
+
+**Shrine**: The creature gains a +2 enhancement bonus to Wisdom. This bonus increases to +4 at 8th level and +6 at 15th level.
+
+**Tree**: The creature gains a +4 competence bonus on saving throws against death effects and effects that deal negative energy damage. This bonus increases to +6 at 8th level and +8 at 15th level.
+
+**Waymarker**: The creature gains a +4 competence bonus on attack rolls with improvised weapons. This bonus increases to +6 at 8th level and +8 at 15th level.
+
+**Well**: The creature gains a +2 shield bonus to AC. This bonus increases to +4 at 8th level and +6 at 15th level.

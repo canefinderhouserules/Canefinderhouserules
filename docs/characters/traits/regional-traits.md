@@ -364,15 +364,25 @@ These traits are granted by a specific breed of mount. A mount trait counts agai
 
 **Black as Night** *(fell pony; statistics as a pony)*: While astride a fell pony, you gain a +1 trait bonus on attack rolls against enemies you are flanking.
 
+**Blessed Mutt** *(lucky hound; statistics as a riding dog)*: Lucky hounds are mostly mutts of unclear heritage, rescued and cared for by temples. They gain a +1 luck bonus on saves against spells or effects with the evil descriptor or which originate from evil outsiders or undead.
+
 **Burst of Speed** *(charger; statistics as a horse)*: Three times per day, while riding a charger and making a charge attack, you can increase your mount's speed by 15 feet as a free action.
+
+**Clamber** *(mountain goat; statistics as a ram)*: Mountain goats are known for being sure-footed climbers, scaling vertical peaks that would give a monkey pause. They gain a +2 trait bonus on Climb checks, and Climb is a class skill for them.
 
 **Cunning Breed** *(jennet; statistics as a horse)*: A jennet can learn a total of eight tricks when trained using the Handle Animal skill (as opposed to the standard six for having an Intelligence score of 2).
 
 **Fleet of Foot** *(hill courser; statistics as a horse)*: While riding a hill courser, you treat your mount's base speed as 10 feet faster for the purpose of using the run or withdraw actions.
 
+**Nauseating Spit** *(trade camel; statistics as a camel)*: Trade camels are larger and shaggier than their cousins, with two humps and long hair. They are also ill-tempered even by camel standards, with a penchant for spitting when annoyed. Once per hour, a trade camel can regurgitate the contents of its stomach, spitting the foul material at a single target within 10 feet as a ranged touch attack. The target must succeed at a Fortitude save (DC = 10 + half the camel's Hit Dice + the camel's Constitution modifier) or be nauseated for 1 round.
+
 **Relentless Fortitude** *(dromedary; statistics as a camel)*: A dromedary heals nonlethal damage at a rate of 2 hit points per hour per Hit Die. This trait does not stack with other effects that increase a creature's rate of healing nonlethal damage.
 
+**Running Pig** *(warthog; statistics as a boar)*: These broad-faced boars have enormous tusks and large fleshy facial protrusions. Those who have worked with them find warthogs easier to deal with than wild boars, as they are more prone to flight than aggression. Warthogs are quicker than they look, with a base speed of 45 feet instead of the boar's 40 feet.
+
 **Stalwart Elk** *(riding elk; statistics as a river elk)*: While riding a riding elk, you gain a +4 trait bonus on Handle Animal, Ride, and wild empathy checks to resist another creature's unnatural aura.
+
+**Too Clever by Half** *(clever mount; any animal)*: By luck (whether good or bad may be up for debate), your mount is something of an intellectual among its species. It usually knows what to do, but getting it to actually obey your instructions is another matter entirely. This mount can learn four tricks per point of Intelligence, instead of the typical three. Commanding the mount with the Handle Animal skill requires a successful DC 15 skill check instead of the usual DC 10, however, as it is willful and easily bored.
 
 **Water-Trained** *(swimming horse; statistics as a horse)*: These horses gain a +2 trait bonus on Swim checks, and Swim is a class skill for them.
 
@@ -469,3 +479,23 @@ These traits represent ways a character could gain a draconic legacy, and the in
 **Rugged Dragon Hunter** *(social; mountain dwarf holds)*: You gain a +2 trait bonus on Survival checks to track dragons. If you have the favored terrain class ability, add a +1 bonus to checks for skills affected by this ability, as long as you're using these skills in regards to a dragon.
 
 **Untapped Potential** *(social; island nation ruled by a gold dragon)*: You've been part of one of a dragon's experiments in awakening psychic potential. Once per day, you can cast *detect psychic significance* or *telekinetic projectile* as a spell-like ability, with a caster level equal to your character level.
+
+## Wilderness Origin Traits
+
+These traits suit characters who grew up on the road or far from civilization. Each lists the environment it is suited to.
+
+**Beachcomber** *(Region, Coastal or River)*: You have a knack for finding what you need as it washes ashore. Once per week, if you spend 8 hours in a single day searching along a shoreline, you can attempt a Survival check. You find any combination of mundane objects whose value in gold pieces is less than or equal to the result of the check, in a usable (if somewhat waterlogged) condition.
+
+**Fruit Merchant** *(Region, Jungle)*: When bartering for mundane items like food, water, and clothing, you can purchase supplies for 10% less and sell them for 10% more.
+
+**Guerrilla Tactics** *(Combat)*: You gain a +2 trait bonus on Stealth checks and initiative checks in forests.
+
+**Sharp Eyes** *(Region, Tundra)*: You are immune to the dazzled condition.
+
+**Star-Guided** *(Religion)*: You gain a +4 trait bonus when using Survival to navigate under clear skies.
+
+**Strong Stomach** *(Region, Swamp)*: You gain a +2 trait bonus on saving throws against poison, and you can safely eat raw fish and game without any effort spent cooking or cleaning them.
+
+**Surefooted Ascent** *(Region, Hill or Mountain)*: You gain a +1 trait bonus on Acrobatics and Climb checks.
+
+**Windspeaker** *(Region, Desert)*: You have a keen sense for weather patterns, and you always know 8 hours in advance when naturally occurring winds will reach high speeds.

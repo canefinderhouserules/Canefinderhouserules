@@ -536,6 +536,7 @@ Occultists gain access to the following spells, determined by their chosen imple
 - **[Reveal Emotions](reveal-emotions.md)**: Creatures in the area glow with their emotions.
 - **[Revenant Armor](revenant-armor.md)**: Armor animates around its fallen wearer.
 - **[Rising Water](rising-water.md)**: Conjures a cylinder of calm, swimmable water.
+- **[Rope Tornado](rope-tornado.md)**: A line of tornado-force wind knocks creatures prone.
 - **[Soothe Construct](soothe-construct.md)**: Reduce the berserk chance of a construct.
 - **[Spell Immunity](spell-immunity.md)**: Subject is immune to one spell per 4 levels.
 - **[Spellcurse](spellcurse.md)**: Deals 1d6 damage per ongoing spell on the target.

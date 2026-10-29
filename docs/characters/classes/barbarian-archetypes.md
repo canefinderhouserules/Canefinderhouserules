@@ -14,6 +14,12 @@ For example, a barbarian that selects a beast totem rage power cannot later chos
 
 **Air Totem, Greater (Su)**: While raging, the barbarian is surrounded by an aura of howling winds. Creatures attempting to cast spells while adjacent to the barbarian must succeed at a concentration check (DC 15 + spell level), and ranged attack rolls against the barbarian take a –4 penalty. Creatures smaller than the barbarian that attack the barbarian in melee with a natural weapon or touch attack must succeed at a Fortitude save (DC 10 + 1/2 the barbarian's level + the barbarian's Constitution modifier) or the attack fails and the creature is flung back 5 feet and knocked prone. The barbarian can suspend this aura as a free action.
 
+**Ancestor Totem (Su)**: The barbarian's insight bonus to her chosen skill increases to +4. The barbarian can now select any skill to receive this bonus, even a Charisma-, Dexterity-, or Intelligence-based skill or a skill that requires patience or concentration; if she selects such a skill, she can use it even while raging. A barbarian must have the lesser ancestor totem rage power and be at least 6th level to select this rage power.
+
+**Ancestor Totem, Greater (Su)**: The barbarian's insight bonus to her chosen skill increases to +6. Once per rage, she can spend one round of rage as an immediate action to reroll a skill check in the chosen skill. She must take the result of the second roll, even if it is lower. A barbarian must have the ancestor totem rage power and be at least 10th level to select this rage power.
+
+**Ancestor Totem, Lesser (Su)**: When she enters a rage, the barbarian selects a skill of her choice, which must be one she can use while raging, such as Climb or Intimidate. While raging, she gains a +2 insight bonus to the chosen skill.
+
 **Beast Totem (Su)**: While raging, the barbarian gains a +1 natural armor bonus. This bonus increases by +1 for every four levels the barbarian has attained. A barbarian must have the lesser beast totem rage power to select this rage power. A barbarian must be at least 6th level to select this rage power.
 
 **Beast Totem, Greater (Su)**: While raging, the barbarian gains the pounce special ability, allowing her to make a full attack at the end of a charge. In addition, the damage from her claws increases to 1d8 (1d6 if Small) and the claws deal ×3 damage on a critical hit. A barbarian must have the beast totem rage power to select this rage power. A barbarian must be at least 10th level to select this rage power.
@@ -108,6 +114,12 @@ For example, a barbarian that selects a beast totem rage power cannot later chos
 
 **Master of the Deep (Su)**: As a standard action, the barbarian commands an aquatic creature to do her bidding. The barbarian selects a creature with the aquatic type within 30 feet and gives a terse command from those listed in the *command* spell. Alternatively, if the creature has an Intelligence of 1 or 2, the barbarian may instead command the creature to attack the closest creature to it as a standard action. The creature must succeed at a Will save (DC equal to 10 + half the barbarian's level + her Strength modifier) or obey the command to the best of its ability on its next turn. Once a creature has attempted a saving throw against master of the deep (successful or not), it is immune to this power for 24 hours. This ability is a mind-affecting effect, but it is not language dependent; the creature need not understand the barbarian giving the command. A barbarian must be at least 8th level before selecting this power.
 
+**Moon Totem (Su)**: While raging, the barbarian gains a bonus equal to half her level on Perception checks to pinpoint the location of an unseen creature, and unseen attackers gain no bonus on attacks against the barbarian. A barbarian must have the lesser moon totem rage power and be at least 6th level to select this rage power.
+
+**Moon Totem, Greater (Su)**: While raging, the barbarian ignores the miss chance for concealment and treats total concealment as concealment. She must have the moon totem rage power and be at least 10th level to select this rage power.
+
+**Moon Totem, Lesser (Su)**: While raging, the barbarian gains darkvision with a range of 30 feet. If the barbarian already has darkvision, the range of her darkvision increases by 30 feet while she is raging.
+
 **Overbearing Advance (Ex)**: While raging, the barbarian inflicts damage equal to her Strength bonus whenever she succeeds at an overrun combat maneuver.
 
 **Overbearing Onslaught (Ex)**: While raging, the barbarian may overrun more than one target per round, with a –2 penalty on her CMB for each overrun check after the first. A barbarian must have the overbearing advance rage power to select this rage power. A barbarian must be at least 6th level to select this rage power.
@@ -135,6 +147,12 @@ This power can only be used once per opponent per rage. A barbarian must be at l
 This ability must be used before the attack roll or sunder check is made.
 
 **Spellbreaker**: When raging, the barbarian gains Spellbreaker as a bonus feat. A barbarian must have the disruptive rage power and be at least 12th level to select this rage power.
+
+**Spire Totem (Su)**: While raging, the barbarian takes no penalties for using a weapon to deal nonlethal damage. When dealing nonlethal damage, the barbarian adds a bonus equal to half her barbarian level on her damage rolls. A barbarian must have the lesser spire totem rage power and be at least 6th level to select this rage power.
+
+**Spire Totem, Greater (Su)**: While the barbarian is raging, all allies within 30 feet gain a +2 morale bonus on Will saves. When attempting a Will save against a fear effect, all allies within this area can roll twice and use the better result. A barbarian must have the spire totem rage power and be at least 10th level to select this rage power.
+
+**Spire Totem, Lesser (Su)**: While raging, the barbarian gains a +1 morale bonus on attacks against any creature that has targeted one of her allies with an attack or a harmful spell within the last round.
 
 **Spirit Steed (Su)**: While raging and mounted, the barbarian’s mount gains DR/magic equal to 1/2 the barbarian’s level. The mount’s natural weapons count as magical for the purpose of overcoming damage reduction.
 

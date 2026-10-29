@@ -58,6 +58,16 @@ The following racial traits can be selected in place of the typical gathlain rac
 
 **Symbiotic Imbalance**: Occasionally the conditions for a gathlain seed's growth heavily favor the plant portion of its body, causing more nutrients to go to the building of its vine wings and fewer to developing the gathlain's legs. These gathlains have larger wings than normal. They have a base speed of 20 feet and a fly speed of 40 feet (average). This racial trait alters the gathlain's speeds.
 
+**Arboreal Vitality**: Some gathlains draw exceptional nourishment from any kind of tree through their wings, although their wings are much more delicate. A gathlain with this racial trait has a fly speed of only 20 feet (poor maneuverability) but gains fast healing 2 for 1 round whenever he is adjacent to a living tree larger than he is. The gathlain can heal up to 2 hit points per level per day with this ability, after which it ceases to function. This modifies the gathlain's fly speed.
+
+**Fey Resilience**: Even gathlains who leave the realm of the fey can retain a bit of the supernatural resilience shared by many fey. A gathlain with this racial trait gains DR 1/cold iron. This DR increases by 1 for every 5 HD the gathlain has. This replaces the spell-like abilities racial trait.
+
+**Natural Bounty**: Some gathlains command natural plants in a different way, with their control increasing as they grow more powerful. Once per day, a gathlain with this racial trait can cast *goodberry* as a spell-like ability. When the gathlain's character level reaches 9th, he can cast *plant growth* (overgrowth only) as a spell-like ability once per day, and at 13th level, he can cast *heroes' feast* as a spell-like ability once per day. The gathlain's caster level for these abilities is equal to his character level. This replaces the natural armor and spell-like abilities racial traits.
+
+**Soaring Agility**: A gathlain whose seed spends a long time drifting through the air before coming to rest grows with a natural aerial agility. Gathlains with this racial trait gain a +1 dodge bonus to AC against attacks originating from at least 20 feet below the gathlain. This replaces natural armor.
+
+**Whimsical Outlook**: Some gathlains can use their unusual mentality as a defense against efforts to control their minds. Once per day when a gathlain with this trait attempts a Will saving throw, he can roll the saving throw twice and use the better result. He must decide to use this ability before attempting the saving throw. This replaces the spell-like abilities racial trait.
+
 ## Favored Class Options
 
 See the [Ultimate Wilderness section of the racial favored class options](../favored-class-bonuses/racial-favored-class-options.md#gathlains-ultimate-wilderness).
@@ -65,8 +75,9 @@ See the [Ultimate Wilderness section of the racial favored class options](../fav
 ## Archetypes and Class Options
 
 - [Fey Courtier](../classes/bard-archetypes.md#fey-courtier) (bard)
-- [Season Sage](../classes/druid-archetypes.md#season-sage) (druid)
 - [Fey Prankster](../classes/rogue-archetypes.md#fey-prankster) (rogue)
+- [Fey-Sworn](../classes/inquisitor-archetypes.md#fey-sworn) (inquisitor)
+- [Season Sage](../classes/druid-archetypes.md#season-sage) (druid)
 
 These archetypes are typically only taken by gathlains, but members of other races, with the GM's permission, can take them as well.
 
@@ -90,14 +101,20 @@ Gathlains have access to the following equipment.
 
 - [Advanced Gathlain Magic](../../rules/feats/advanced-gathlain-magic.md)
 - [Biological Lattice](../../rules/feats/biological-lattice.md)
+- [Dryad's Apprentice](../../rules/feats/dryads-apprentice.md)
+- [Dryad's Attendant](../../rules/feats/dryads-attendant.md)
 - [Greater Gathlain Magic](../../rules/feats/greater-gathlain-magic.md)
 - [Green Tongue](../../rules/feats/green-tongue.md)
 - [Hydroponic Adaptation](../../rules/feats/hydroponic-adaptation.md)
+- [Mighty Boughs](../../rules/feats/mighty-boughs.md)
 - [Seasoned Flier](../../rules/feats/seasoned-flier.md)
+- [Sinuous Vines](../../rules/feats/sinuous-vines.md)
 - [Step of the Flighty Fey](../../rules/feats/step-of-the-flighty-fey.md)
 - [Strange Yield](../../rules/feats/strange-yield.md)
+- [Strength of Wood](../../rules/feats/strength-of-wood.md)
 - [Superior Gathlain Magic](../../rules/feats/superior-gathlain-magic.md)
 - [Symbiotic Resilience](../../rules/feats/symbiotic-resilience.md)
+- [Treant's Call](../../rules/feats/treants-call.md)
 - [Wandering Mind](../../rules/feats/wandering-mind.md)
 
 ## Magic Items

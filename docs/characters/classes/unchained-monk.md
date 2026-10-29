@@ -228,6 +228,16 @@ The following qinggong powers are available to monks with the qinggong monk arch
 | 18th | bilocation (3), Greater Spring Attack (3), true prognostication (3) |
 | 20th | Akashic form (3), divide mind (3), earthquake (4), frightful aspect (3) |
 
+## Wind and Wave Ki Powers
+
+These ki powers are selected by unchained monks whose ki flows in perfect harmony with nature.
+
+**Floating Breath (Su)**: A monk with this ki power can spend 1 point from his ki pool as a swift action to balance on the air, hovering in place, until the end of his next turn. This power does not allow the monk to fly or otherwise move into the air; he must jump or use some other ability to reach his position. This otherwise functions as *air walk*. A monk must be 8th level before selecting this power.
+
+**Racing Current (Su)**: A monk with this ki power can create a wave to help him maneuver allies upon the battlefield, as if using the spell *slipstream*. Using this ability is a move action that costs 2 ki points, and the ability remains in effect for 1 minute. A monk must be 6th level to select this ki power.
+
+**Zephyr Blow (Su)**: By spending 1 ki point as a standard action, a monk with this power can disrupt the wind and create a sharp blast of air, as if using the spell *gust of wind*. The monk's caster level for this effect is equal to his monk level.
+
 ## Ex-monks
 
 A monk who becomes nonlawful cannot gain new levels as a monk but retains all monk abilities.

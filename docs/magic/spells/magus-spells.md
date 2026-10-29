@@ -229,6 +229,7 @@ The magus class spell list appears on the [Magus](../../characters/classes/magus
 - **[Revenant Armor](revenant-armor.md)**: Armor animates around its fallen wearer.
 - **[Rigor Mortis](rigor-mortis.md)**: Painfully swell a target’s joints.
 - **[Rising Water](rising-water.md)**: Conjures a cylinder of calm, swimmable water.
+- **[Rope Tornado](rope-tornado.md)**: A line of tornado-force wind knocks creatures prone.
 - **[Rubberskin](rubberskin.md)**: Bludgeoning and falling damage become nonlethal.
 - **[Runic Overload](runic-overload.md)**: Detonates magical runes with sonic force.
 - **[Sadomasochism](sadomasochism.md)**: Pain empowers your attacks and demoralizes attackers.

@@ -35,6 +35,18 @@ An animal exemplar is a paragon of its species, able to command the loyalty of o
 
 **Influence Animals (Ex, Sp)**: An animal exemplar gains speak with animals with respect to others of its kind at 3rd level instead of 7th level. At 7th level, it gains the ability to influence animals of its kind, as per the wild empathy ability of a druid of its master’s level with a +4 racial bonus on the check, but only for animals of its kind. At 11th level, it can cast charm animal three times per day as a spell-like ability against animals of its kind, and at 13th level, it can cast dominate animal once per day as a spell-like ability against animals of its kind. This alters speak with animals of its kind and replaces deliver touch spells, spell resistance, and scry on familiar.
 
+## Arcane Amplifier
+
+The arcane amplifier is a familiar that strengthens its master's touch spells, whether it is a white-furred fox or hare used by winter witches or a black-eyed raven used by necromancers.
+
+**Echo (Su)**: Once per day when delivering a touch spell, an arcane amplifier can apply the Extend Spell metamagic feat to the spell. An arcane amplifier can use this ability twice per day at 8th level, and three times per day at 13th level. This replaces alertness and improved evasion.
+
+**Reverberate (Su)**: At 7th level, once per day when delivering a touch spell, an arcane amplifier can apply either the Empower Spell metamagic feat to the spell or use the Heighten Spell metamagic feat to increase its spell level by 2. An arcane amplifier can use this ability twice per day at 11th level. This replaces speak with animals of its kind and spell resistance.
+
+**Resonate (Su)**: At 13th level, once per day when delivering a touch spell, an arcane amplifier can apply the Maximize Spell metamagic feat to the spell. This replaces scry on familiar.
+
+An arcane amplifier can apply only one metamagic effect to a single casting of a spell using its echo, reverberate, or resonate abilities.
+
 ## Decoy
 
 A decoy misdirects its master’s enemies, allowing the master to strike by surprise.
@@ -128,6 +140,22 @@ While most familiars are scouts and assistants, the mauler familiar cares only f
 **Battle Form (Su)**: At 3rd level, a mauler gains the ability to transform into a larger, more ferocious form and back as a standard action three times per day. In battle form, the mauler’s size becomes Medium and it gains a +2 size bonus to its Strength score. Since many familiars are Tiny or Diminutive, be sure to check for any additional Strength and Dexterity adjustments for increasing in size from Tiny or Diminutive to Medium. This is a polymorph effect. This replaces deliver touch spells.
 
 **Damage Reduction (Su)**: At 11th level, a mauler gains DR 5/magic. This replaces spell resistance.
+
+## Occult Messenger
+
+Some familiars are messengers of greater powers than themselves. The witch's familiar comes from her patron and the emissary is the servant of a god, but the occult messenger is envoy of an odder power still.
+
+**See the Unseen (Ex)**: While an occult messenger is within arm's reach, the master gains the Psychic Sensitivity feat. This replaces alertness.
+
+**Teacher from Afar (Ex)**: When the occult messenger's master uses a psychic skill unlock while the occult messenger is within arm's reach, the master gains a competence bonus on skill unlocks equal to half the occult messenger's level. This replaces deliver touch spells.
+
+## Parasite
+
+Most familiars are still something akin to normal animals, conduits for power rather than powers themselves. The parasite is one of the more disturbing exceptions.
+
+**Infest (Su)**: As a full-round action, a parasite can infest a willing or helpless target at least two size categories larger than the parasite. This deals 1d6 points of Constitution damage as the parasite burrows through viscera before attaching itself to the target's brain or spinal cord (or equivalent). There, the parasite curls up, with no ability to see or hear anything itself, but with access to its host's senses. Despite the gaping wound, this process is curiously painless. Assuming that the location of the wound and the resultant blood is not obvious (most parasites infest from the back for this reason), the victim must succeed at a Heal or Sense Motive check opposed by the familiar's Bluff check to notice that something is amiss. Removing a parasite requires a successful Heal check opposed by the familiar's Stealth check, or a successful casting of *break enchantment* against a DC of 11 + the parasite's level. If successful, the parasite is destroyed. The parasite can leave the host willingly as a full-round action. If the host is killed, the parasite must succeed at a DC 20 Fortitude save or be killed as well. This replaces improved evasion and share spells.
+
+**Puppeteer (Sp)**: Beginning at 3rd level, the parasite can attempt to control its host once per day. This functions as *suggestion*. At 7th level, the parasite can use this ability to replicate *dominate person* instead. At 15th level, the parasite can replicate *dominate monster*. The DC for this ability is calculated as if the parasite's master had cast the spell (defaulting to Charisma if the owner has no spellcasting ability).
 
 ## Pilferer
 

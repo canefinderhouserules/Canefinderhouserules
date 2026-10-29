@@ -11,6 +11,12 @@ The following pages present several new options for animal companions. Animal co
 
 **Ranger**: A ranger can select a bustard, capybara, falcon, marsupial devil, reindeer, snake (reef snake or spitting cobra), wolfdog, yak, or zebra as an animal companion. If the campaign takes place in an aquatic environment, the ranger can choose an armorfish or reef snake. A falconer ranger can select a falcon companion instead of a bird companion.
 
+**Expanded Lists**: Since these classes were first published, quite a few new animal companions have appeared in the game. The following lists add to the options above.
+
+- **Cavalier**: A Medium cavalier can select an axebeak, elk, giant tortoise, giant seahorse, or giraffe as a mount. A Small cavalier can select an antelope, giant weasel, kangaroo, giant gecko, ram, or stag as a mount. The augmented companion, bodyguard, bully, daredevil, draconic companion, racer, and wrecker companion archetypes are all particularly appropriate for a cavalier's mount.
+- **Paladin**: A Medium paladin can select an elk, giant seahorse, or giraffe as a bonded mount. A Small paladin can select an antelope, giant weasel, ram, or stag as a bonded mount. The auspice, bodyguard, racer, and totem guide archetypes are all particularly appropriate for a paladin's bonded mount.
+- **Ranger**: A ranger can select an antelope, baboon, elk, kangaroo, giant gecko, ram, stag, trumpeter swan, or thylacine as an animal companion. If the campaign takes place in an aquatic environment, the ranger can choose a stingray. The ambusher, bully, daredevil, feytouched companion, precocious companion, totem guide, tracker, verdant companion, and wrecker archetypes are all particularly appropriate for a ranger's animal companion.
+
 ### Anglerfish
 
 The anglerfish is a fish that uses a bioluminescent lure at the tip of a stalk protruding from its head to attract prey.

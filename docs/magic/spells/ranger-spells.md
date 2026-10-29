@@ -205,6 +205,7 @@
 - **[Mirage](mirage.md)**: Create illusory terrain.
 - **[Named Bullet](named-bullet.md)**: Imbues ammunition with accuracy against a specific creature type.
 - **[Neutralize Poison](neutralize-poison.md)**: Immunizes subject against poison, detoxifies venom in or on subject.
+- **[Pinecone Bomb](pinecone-bomb.md)**: A thrown pinecone explodes for piercing damage.
 - **[Plant Growth](plant-growth.md)**: Grows vegetation, improves crops.
 - **[Pocketful of Vipers](pocketful-of-vipers.md)**: Ward a container with summoned vipers.
 - **[Protection from Energy, Communal](protection-from-energy-communal.md)**: As protection from energy, but you may divide the duration among creatures touched.
@@ -237,6 +238,7 @@
 - **[Vigilant Rest](vigilant-rest.md)**: Cause a sleeping creature to retain some perception of its surroundings.
 - **[Ward of the Season](ward-of-the-season.md)**: This spell harnesses the power of the seasons to protect the target and grant a number of bonuses.
 - **[Water Walk](water-walk.md)**: Subject treads on water as if solid.
+- **[Woodland Rune](woodland-rune.md)**: A rune sprouts entangling roots when enemies approach.
 
 ## 4th-Level Ranger Spells
 

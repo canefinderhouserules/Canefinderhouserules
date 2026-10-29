@@ -64,6 +64,14 @@ The leshy can use this ability a number of times per day equal to its Constituti
 
 **Grapevine**: A vine leshy made from a grapevine can produce magically infused fruit that can heal her allies. She can cast goodberry once per day as a spell-like ability, with a caster level equal to her character level. This replaces pass without trace.
 
+**Curiosity**: Vine leshys bearing gregarious spirits are more suited to learn about other cultures. They always treat Diplomacy and Linguistics as class skills, and they gain a +2 racial bonus on Diplomacy and Linguistics checks. This replaces pass without trace and plantspeech.
+
+**Lashvine**: Some vine leshys can sprout whip-like appendages. These individuals gain proficiency with whips and scorpion whips. As a free action, the vine leshy can turn one hand into a lashvine. A lashvine is a primary natural attack that deals 1d3 points of bludgeoning damage. A lashvine cannot hold items, wield weapons, or perform fine manipulation. This replaces change shape and verdant burst.
+
+**Seasoned Spirit**: Long-lived vine leshys are less flexible, but they have established stronger bonds with the natural world. These leshys can spend an hour in concentration to cast *speak with plants* as a spell-like ability with a caster level equal to their character level. This alters plantspeech and replaces climber and unassuming foliage.
+
+**Writhing Eye**: Some vine leshys can grow thin vines that serve as sensory organs. Growing or controlling the vine is a full-round action that provokes attacks of opportunity. The vine can extend up to 15 feet and is small enough to pass through a keyhole. A leshy can perceive, using all of her senses, within 20 feet of the vine's tip. This replaces darkvision and low-light vision.
+
 ## Favored Class Options
 
 See the [Ultimate Wilderness section of the racial favored class options](../favored-class-bonuses/racial-favored-class-options.md#vine-leshys-ultimate-wilderness).
@@ -73,9 +81,10 @@ See the [Ultimate Wilderness section of the racial favored class options](../fav
 Vine leshys and other characters with the leshy subtype can use these options. Leshys can also take the treesinger druid archetype even though they are not elves. The leshy subdomain is available to non-leshy druids as well as clerics who worship a deity that grants it.
 
 - [Herbalist](../classes/alchemist-archetypes.md#herbalist) (alchemist)
-- [Plant Speaker](../classes/bard-archetypes.md#plant-speaker) (bard)
-- [Leshykineticist](../classes/kineticist-archetypes.md#leshykineticist) (kineticist), with the Photokinetic Infusion
 - [Leshy Subdomain](../../magic/domains/plant.md#leshy-subdomain) (Plant domain)
+- [Leshykineticist](../classes/kineticist-archetypes.md#leshykineticist) (kineticist), with the Photokinetic Infusion
+- [Plant Speaker](../classes/bard-archetypes.md#plant-speaker) (bard)
+- [Verdivant](../classes/cavalier-archetypes.md#verdivant) (cavalier)
 
 ## Vine Leshy Equipment
 
@@ -92,10 +101,14 @@ Vine leshys have access to the following equipment.
 
 ## Feats
 
+- [Bounteous Body](../../rules/feats/bounteous-body.md)
 - [Climbing Vine](../../rules/feats/climbing-vine.md)
 - [Kudzu Grappler](../../rules/feats/kudzu-grappler.md)
+- [Kudzu Invasion](../../rules/feats/kudzu-invasion.md)
+- [Kudzu Takeover](../../rules/feats/kudzu-takeover.md)
 - [Photosynthetic Healing](../../rules/feats/photosynthetic-healing.md)
 - [Reactive Reversion](../../rules/feats/reactive-reversion.md)
+- [Verdant Step](../../rules/feats/verdant-step.md)
 
 ## Magic Items
 

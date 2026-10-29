@@ -118,6 +118,8 @@ All shifter aspects have a minor form and a major form. The minor form grants a 
 
 The following options represent only the most common choices used by shifters. Other aspects based on different animals certainly exist, and might grant similar powers or entirely new abilities based on the animal’s themes and nature. You can use the following aspects as guides for developing aspects of your own design, but if you wish to do so, you must secure your GM’s permission.
 
+Shifters with a vermin aspect, such as dragonfly or spider, assume these major aspects with *vermin shape II* rather than *beast shape II*.
+
 ### Bat
 
 The aspect of the bat imparts mastery over darkness and the night. Though not as powerful in battle as some other aspects, those who take this aspect become adept at skirmishing and spying.
@@ -134,6 +136,14 @@ The aspect of the bear invokes a juggernaut of tireless endurance and furious po
 
 **Major Form**: Your shape changes to that of a dire bear. While in this form, you gain low-light vision and scent (30 feet). At 8th level, you gain Improved Natural Attack with your claws. At 15th level, the critical multiplier of your claw attack increases by 1 (×2 becomes ×3) to a maximum of ×4, and you gain the Awesome Blow feat.
 
+### Boar
+
+Those with the aspect of the boar are famously stubborn.
+
+**Minor Form**: You gain Diehard as a bonus feat. At 8th level, you add your Hit Dice to your Constitution score when determining the negative number of hit points at which you die.
+
+**Major Form**: Your shape changes to that of a dire boar. While in this form, you gain low-light vision, scent, a gore attack (1d8), and a base speed of 40 feet. At 8th level you gain Improved Natural Attack with your gore attack, and you gain powerful charge (+1d8 on your gore attack). At 15th level, you gain 1 additional hit point per Hit Die you have, and you gain Awesome Blow as a bonus feat.
+
 ### Bull
 
 The bull is a fierce charger and is adept at trampling its foes, pounding them to a bloody pulp.
@@ -142,6 +152,14 @@ The bull is a fierce charger and is adept at trampling its foes, pounding them t
 
 **Major Form**: Your shape changes to that of a Large bull (see Cattle). While in this form, you gain low-light vision, scent, and a gore attack (1d8 damage) with powerful charge (+1d8 on your gore attack). At 8th level, you gain the trample as per the universal monster rule (dealing gore damage plus 1-1/2 times your Strength modifier). At 15th level, your gore damage increases to 2d8 and you gain the Awesome Blow feat.
 
+### Crocodile
+
+The crocodile lurks in the water, unseen until it lunges forth with its powerful jaws.
+
+**Minor Form**: You gain a +2 competence bonus on Swim checks and grapple combat maneuver checks. This bonus increases to +4 at 8th level and +6 at 15th level.
+
+**Major Form**: Your shape changes to that of a crocodile. While in this form, you gain a swim speed of 30 feet, low-light vision, a bite attack (1d8) with the grab ability, and a tail slap attack (a secondary natural attack that deals 1d12 points of damage). At 8th level, once per minute as a free action, you can increase your land speed by 20 feet for 1 round. At 15th level, you gain Improved Natural Attack with your bite attack, and when you successfully grapple a foe, you can knock your grappled foe prone.
+
 ### Deinonychus
 
 The deinonychus is adept at racing from ambush to deliver grievous wounds with its talons. This aspect infuses the shifter with an enhanced ability to surprise foes and strike first in battle.
@@ -149,6 +167,30 @@ The deinonychus is adept at racing from ambush to deliver grievous wounds with i
 **Minor Form**: You gain a +2 bonus on Initiative checks. This bonus increases to +4 at 8th level and +6 at 15th level.
 
 **Major Form**: Your shape changes to that of a deinonychus. While in this form, you gain a base speed of 60 feet, low-light vision, scent (30 feet), a bite attack, and two talon attacks (your talon attacks can use your shifter claws damage), and pounce. At 8th level, you gain two foreclaw attacks (these attacks cannot use your shifter claws damage) and a +4 racial bonus on Acrobatics checks. At 15th level, you gain a +1 dodge bonus to AC and Spring Attack as a bonus feat.
+
+### Dolphin
+
+The aspect of the dolphin imparts clever mastery of the seas. Shifters with this aspect also embody the size and ferociousness of large dolphins, such as orcas.
+
+**Minor Form**: You gain a +4 competence bonus on Knowledge checks to identify creatures' abilities and weaknesses. This bonus increases to +6 at 8th level and +8 at 15th level.
+
+**Major Form**: Your shape changes to that of a Large dolphin, but your space is 10 feet instead of 5 feet. While in this form, you gain a swim speed of 60 feet, blindsense with a range of 10 feet, low-light vision, a bite attack (1d8), and the ability to hold your breath for a number of minutes equal to 6 times your Constitution score before you risk drowning. At 8th level, the range of your blindsense increases to 20 feet. At 15th level, the range of your blindsense increases to 60 feet and your swim speed increases to 80 feet.
+
+### Dragonfly
+
+The aspect of the dragonfly offers the ability to make quick, darting attacks at foes.
+
+**Minor Form**: You gain an enhancement bonus of +10 feet to your base speed when charging. This bonus increases to +20 feet at 8th level and +30 feet at 15th level.
+
+**Major Form**: Your shape changes to that of a giant dragonfly. While in this form, you gain a fly speed of 60 feet (average), darkvision with a range of 60 feet, and a bite attack (2d6) with the grab ability. At 8th level, you gain Flyby Attack as a bonus feat, and your fly speed improves to 60 feet (good). At 15th level, your fly speed increases to 80 feet (perfect), and if you charge while flying, you gain a +4 bonus on grapple combat maneuver checks for 1 round.
+
+### Electric Eel
+
+The aspect of the electric eel imparts the ability to charge attacks with electricity and to slip effortlessly out of danger.
+
+**Minor Form**: Your attacks deal 1 point of electricity damage in addition to their normal damage. This additional electricity damage increases to 1d3 at 8th level and 1d6 at 15th level.
+
+**Major Form**: Your shape changes to that of an electric eel. While in this form, you gain a swim speed of 30 feet, low-light vision, electricity resistance 5, a bite attack (1d6), and a tail attack (a secondary natural touch attack that deals 1d6 points of electricity damage). At 8th level, your electricity resistance increases to 10 and you gain a +4 racial bonus on Escape Artist checks. At 15th level, on a critical hit with your tail attack, the creature struck must succeed at a Fortitude save (DC = 10 + half your shifter level + your Constitution modifier) or be stunned for 1d4 rounds.
 
 ### Falcon
 
@@ -176,6 +218,14 @@ The aspect of the lizard is one of swift, graceful movement, granting the abilit
 
 **Major Form**: Your shape changes to that of an agile and brightly colored giant lizard (as per the giant frilled lizard, but with the following changes). While in this form, you gain a base speed of 40 feet, low-light vision, scent (30 feet), a primary bite attack (1d8 damage) with the grab ability and a secondary tail attack (1d6 damage) with the trip ability. At 8th level, your base speed increases to 60 feet and you gain a climb speed of 30 feet. At 15th level, you gain Improved Natural Attack with your bite and your tail attacks, and the reach of your tail attack becomes 10 feet.
 
+### Mantis
+
+The aspect of the mantis imparts uncanny patience and unsettling speed.
+
+**Minor Form**: You gain Lunge as a bonus feat. At 12th level, your reach increases by 5 feet.
+
+**Major Form**: Your shape changes to that of a giant mantis. While in this form, you gain darkvision with a range of 60 feet, a +2 racial bonus on initiative checks, and two primary claw attacks (1d6) with the grab ability. At 8th level, you can always act in the surprise round, but if you fail to notice your foes, you act last, regardless of your initiative result (you act in the normal order in subsequent rounds). At 15th level, whenever you roll for initiative, you can roll three times and use any one of the results.
+
 ### Monkey
 
 The monkey is a climbing trickster who specializes in mobility and manual agility.
@@ -192,6 +242,16 @@ The aspect of the mouse offers the ability to gain access to hard-to-reach place
 
 **Major Form**: Your shape changes to that of a Tiny mouse (as per the dire rat, but with a space of 2-1/2 feet and a reach of 0 feet). While in this form, you gain a climb speed of 20 feet, a swim speed of 20 feet, low-light vision, and scent (30 feet), and you use your Dexterity modifier instead of your Strength modifier on Climb and Swim checks. At 8th level, your climb and swim speeds both increase to 40 feet. At 15th level, you do not provoke attacks of opportunity while moving through or out of a creature’s threatened area or moving into its space, but you do when you leave its space.
 
+### Octopus
+
+The octopus is a cunning hunter, able to contort its malleable body with ease.
+
+**Minor Form**: You gain a +4 competence bonus on Escape Artist checks. It increases to +6 at 8th level and +8 at 15th level.
+
+**Major Form**: Your shape changes to that of an octopus. While in this form, you gain the aquatic subtype, a swim speed of 30 feet, low-light vision, a bite attack (1d3), a tentacles attack (no damage) with the grab ability, and Multiattack as a bonus feat. At 8th level, you gain the jet ability (200 feet). At 15th level, you gain the ability to produce an ink cloud and deal an amount of bludgeoning damage with your tentacles attack equal to the damage dealt by your shifter claws.
+
+**Ink Cloud (Ex)**: While within water, you can emit a 10-foot-radius sphere of ink once per minute as a swift action. This ink provides total concealment and persists for 1 minute.
+
 ### Owl
 
 The aspect of the owl is one of silence. This predator glides through the night unheard, a master of stealthy attacks.
@@ -199,6 +259,16 @@ The aspect of the owl is one of silence. This predator glides through the night 
 **Minor Form**: You gain a +4 competence bonus on Stealth checks. This bonus increases to +6 at 8th level and +8 at 15th level.
 
 **Major Form**: Your shape changes to that of a Medium owl. While in this form, you gain two claw attacks (1d6 damage), darkvision with a range of 60 feet, and a +2 racial bonus on Stealth checks. At 8th level, you gain Flyby Attack as a bonus feat, and the range of your darkvision increases to 120 feet. At 15th level, you can take the form of a Large owl and gain the benefits of the Snatch feat, but you can use it only to grab a creature at least one size category smaller than yourself, and you can squeeze a creature grappled with this ability no matter what size it is.
+
+### Scorpion
+
+The aspect of the scorpion invokes a hidden menace with a poisonous sting.
+
+**Minor Form**: You gain a +2 competence bonus on Stealth checks and grapple combat maneuver checks. This bonus increases to +4 at 8th level and +6 at 15th level.
+
+**Major Form**: Your shape changes to that of a giant scorpion. While in this form, you gain darkvision with a range of 60 feet, tremorsense with a range of 10 feet, two primary claw attacks (1d6) with the grab ability, and a secondary sting attack (1d6). At 8th level, the range of your tremorsense increases to 20 feet, and you gain a +4 racial bonus on Climb and Perception checks. At 15th level, when you make an attack of opportunity with your sting attack or maintain a grapple and deal damage with your sting attack, that attack also applies the following poison.
+
+**Poison (Ex)**: Sting—injury; *save* Fort DC = 10 + half your shifter level + your Constitution modifier; *frequency* 1/round for 6 rounds; *effect* 1d3 Strength damage; *cure* 2 consecutive saves.
 
 ### Snake
 
@@ -209,6 +279,14 @@ The snake is a sneaky and lethal foe who strikes unexpectedly with deadly effect
 **Major Form**: Your shape changes to that of an emperor cobra. While in this form, you gain a climb speed of 30 feet, a swim speed of 30 feet, low-light vision, scent (30 feet), and the Combat Reflexes feat. If you already have Combat Reflexes or your Dexterity score is not high enough to gain more attacks of opportunity from Combat Reflexes, you can instead make one additional attack of opportunity each round. At 8th level, you gain a +4 racial bonus on Acrobatics and Stealth checks. At 15th level, when you make an attack of opportunity with your bite attack, that attack also applies the following poison.
 
 **Poison (Ex)**: Bite—injury; save Fort DC = 10 + half your shifter level + your Constitution modifier; frequency 1/round for 6 rounds; effect 1d3 Con damage; cure 2 consecutive saves.
+
+### Spider
+
+The spider is a patient hunter, sensing foes that struggle in its webs.
+
+**Minor Form**: You gain a +2 competence bonus on Climb checks, Stealth checks, saving throws against web effects (magical or otherwise), and checks to break free of webs. This bonus increases to +4 at 8th level and +6 at 15th level.
+
+**Major Form**: Your shape changes to that of a giant spider. While in this form, you gain darkvision with a range of 60 feet, tremorsense with a range of 10 feet, a climb speed of 30 feet, the web special attack, and a bite attack (1d6). At 8th level, you gain a +4 racial bonus on Perception checks, and the range of your tremorsense increases to 20 feet. At 15th level, you gain Improved Natural Attack (bite), and the range of your tremorsense increases to 30 feet.
 
 ### Stag
 
@@ -242,15 +320,59 @@ This aspect unlocks the brutal ferocity and tenacious fury of the wolverine. The
 
 **Major Form**: Your shape changes to that of a dire wolverine. While in this form, you gain a climb speed of 10 feet, low-light vision, and scent (30 feet). While in dire wolverine form, you gain the barbarian’s rage power, but can activate this rage only in a round after you’ve taken damage. You can rage for a number of rounds each day equal to your shifter level. This ability otherwise functions the same as the barbarian rage ability (unlike a dire wolverine, you can choose to end this rage voluntarily). At 8th level, you can choose two barbarian rage powers, treating your shifter level as your effective barbarian level for the purposes of meeting prerequisites. At 15th level, you are no longer fatigued at the end of your rage.
 
+## Alternate Natural Attacks
+
+A shifter can draw on her chosen animal aspect to transform her hands into deadly weapons, as represented by the shifter's claws class feature, but not every animal has prominent claws. The following list provides alternate natural attacks for the shifter's claws class feature. Each time the shifter activates her shifter's claws ability in her natural form, she can manifest one of the alternate natural attacks listed below for any of her chosen aspects (or those that relate to her archetype). Each alternate natural attack replaces one of the shifter's claw attacks. The shifter can gain up to two different alternate natural attacks with this method. These alternate natural attacks modify only the damage type of the shifter's natural attacks and otherwise function exactly as the shifter's claws class feature.
+
+| Aspect | Alternate Natural Attacks |
+|---|---|
+| Bat | Bite (B, P, S), wing (B) |
+| Bear | Bite (B, P, S) |
+| Bull | Gore (P), hoof (B), slam (B) |
+| Boar | Gore (P), hoof (B) |
+| Crocodile | Bite (B, P, S), tail slap (B) |
+| Dinosaur, Deinonychus | Bite (B, P, S), talon (S) |
+| Dolphin/Orca | Bite (B, P, S), slam (B) |
+| Dragon (dragonblood shifter) | Bite (B, P, S), tail slap (B), wing (B) |
+| Dragonfly | Bite (B, P, S), wing (B) |
+| Electric Eel | Bite (B, P, S), tail slap (B) |
+| Falcon | Bite (B, P, S), talon (S) |
+| Fey (feyform shifter) | Bite (B, P, S), sting (P) |
+| Frog | Bite (B, P, S) |
+| Lizard | Bite (B, P, S), tail slap (B) |
+| Mantis | Bite (B, P, S) |
+| Monkey | Bite (B, P, S) |
+| Mouse | Bite (B, P, S) |
+| Octopus | Bite (B, P, S), tentacle (B) |
+| Owl | Bite (B, P, S), talons (S) |
+| Scorpion | Pincers (B), sting (P) |
+| Snake | Bite (B, P, S), tail slap (B) |
+| Spider | Bite (B, P, S) |
+| Stag | Gore (P), hoof (B) |
+| Swarm (swarm shifter) | Bite (B, P, S), pincers (B), sting (P) |
+| Tiger | Bite (B, P, S) |
+| Wolf | Bite (B, P, S) |
+| Wolverine | Bite (B, P, S) |
+
 ## Shifter Favored Class Options
 
 The following favored class bonuses are available to shifters who come from the various core races. Each of these rewards replaces the normal reward for taking a level in a favored class.
+
+**Catfolk**: Add 1/5 to the damage dealt when using the shifter's claws ability.
+
+**Dhampir**: Add a +1 bonus on wild empathy checks to improve the attitude of bats, rats, and wolves.
+
+**Drow**: Add a +1/2 bonus on Climb checks.
 
 **Dwarves**: Add a +1/2 bonus on wild empathy checks to influence animals and magical beasts that are normally encountered in underground environments.
 
 **Elves**: Add 1 to the shifter’s base speed. This has no in-game effect unless the shifter has selected this reward five times (or any multiple of five) to enhance her speed by 5 feet. For example, a 4th-level elven shifter who has selected this option four times has a base speed of 34 feet, but is treated as if she still had a base speed of 30 feet. When she reaches 5th level and takes this favored class option again, her base speed becomes 35 feet. This bonus applies only when the shifter is wearing no armor.
 
+**Gathlain**: Add a +1 bonus on Knowledge (nature) checks relating to plants and flying animals.
+
 **Gnomes**: Gain energy resistance 1 against acid, cold, electricity, or fire. Each time the shifter selects this reward, increase that energy resistance by 1, to a maximum of energy resistance 10. Once the gnome reaches energy resistance 10, she can select a new type of energy to build her resistance to the next time she selects this favored class option.
+
+**Grippli**: Add a +1 bonus on Survival checks to follow tracks through swamps.
 
 **Half-Elves**: Add a +1/2 bonus on Survival checks to get along in the wild, to avoid getting lost, and to avoid all natural hazards.
 
@@ -259,3 +381,19 @@ The following favored class bonuses are available to shifters who come from the 
 **Halflings**: Increase the AC bonus from defensive instinct by 1/4 against creatures of size Large or larger.
 
 **Humans**: Add 1/3 to the number of minutes the shifter can assume her minor form each day.
+
+**Kitsune**: Add 1/4 to the number of minutes the shifter can assume her minor form each day.
+
+**Kobold**: Add a +1/4 bonus on Stealth checks while in the shifter's minor or major form.
+
+**Orc**: Add 1/5 to the damage dealt when using the shifter's claws ability.
+
+**Ratfolk**: Add a +1 bonus on wild empathy checks to influence animals and magical beasts that live underground.
+
+**Tiefling**: Add a +1 bonus on wild empathy checks to improve the attitude of fiendish creatures.
+
+**Undine**: Add a +1 bonus on wild empathy checks to influence animals and magical beasts with the aquatic subtype.
+
+**Vanara**: Add a +1/2 bonus on Acrobatics checks to jump and a +1/2 bonus on wild empathy checks.
+
+**Vine Leshy**: Add a +1 bonus on Knowledge (nature) checks relating to plants.

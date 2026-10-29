@@ -228,6 +228,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Paranoia](paranoia.md)**: Target becomes hostile to all creatures.
 - **[Passing Fancy](passing-fancy.md)**: Target becomes obsessed with a topic you choose.
 - **[Pernicious Poison](pernicious-poison.md)**: Target takes a –4 penalty against poison.
+- **[Pinecone Bomb](pinecone-bomb.md)**: A thrown pinecone explodes for piercing damage.
 - **[Planetarium](planetarium.md)**: Project the night sky.
 - **[Pouncing Fury](pouncing-fury.md)**: Make a full attack with your claws after a charge.
 - **[Protective Penumbra](protective-penumbra.md)**: Shadow protects the target from light.
@@ -436,6 +437,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Waves of Blood](waves-of-blood.md)**: A cone of blood pushes creatures, sickens them, and makes the ground slick.
 - **[Wing Thorns](wing-thorns.md)**: Wings sprout poisonous thorns you can attack with.
 - **[Witness](witness.md)**: See through the target’s eyes and ears.
+- **[Woodland Rune](woodland-rune.md)**: A rune sprouts entangling roots when enemies approach.
 
 ## 4th-Level Witch Spells
 
@@ -475,6 +477,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Familiar Melding](familiar-melding.md)**: Possess your familiar.
 - **[Fey Form I](fey-form-i.md)**: Assume the form of a Small or Medium fey creature.
 - **[Final Sacrifice](final-sacrifice.md)**: Detonate a summoned creature
+- **[Flame Steed](flame-steed.md)**: Conjure a mount made of flame.
 - **[Flesh Puppet](flesh-puppet.md)**: Control a zombie in human guise.
 - **[Fleshworm Infestation](fleshworm-infestation.md)**: Worms deal hp and Dex damage.
 - **[Foretell Failure](foretell-failure.md)**: Learn whether an action would succeed on a roll of 10.
@@ -517,6 +520,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Ride the Waves](ride-the-waves.md)**: Target can breathe water and swim.
 - **[Riding Possession](riding-possession.md)**: As possession, but you observe instead of control the subject.
 - **[Rigor Mortis](rigor-mortis.md)**: Painfully swell a target’s joints.
+- **[Rope Tornado](rope-tornado.md)**: A line of tornado-force wind knocks creatures prone.
 - **[Sadomasochism](sadomasochism.md)**: Pain empowers your attacks and demoralizes attackers.
 - **[Seeds of Influence](seeds-of-influence.md)**: Leave a trace in a creature’s mind that weakens it against your divinations and enchantments.
 - **[Shadow Step](shadow-step.md)**: Teleport from one shadow to another.

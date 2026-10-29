@@ -143,6 +143,7 @@
 - **[Dispel Magic](dispel-magic.md)**: Cancels one magical spell or effect.
 - **[Draconic Ally](draconic-ally.md)**: Create an intelligent draconic servant.
 - **[Firewalker's Meditation](firewalkers-meditation.md)**: Meditative spell: damage reduction, fire resistance, and pain resistance.
+- **[Flame Steed](flame-steed.md)**: Conjure a mount made of flame.
 - **[Guardian Monument, Lesser](guardian-monument-lesser.md)**: Humans defending the area gain DR 2/magic.
 - **[Heal Mount](heal-mount.md)**: As *heal* on horse or other special mount.
 - **[Litany of Escape](litany-of-escape.md)**: Teleports a friend out of a grapple.

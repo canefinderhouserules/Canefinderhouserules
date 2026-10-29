@@ -27,6 +27,41 @@ Ambushers sneak up on unsuspecting prey, pouncing on targets when they least exp
 
 **Cunning Ambusher (Ex)**: At 3rd level, an ambusher gains uncanny dodge. At 6th level, an ambusher gains a +2 racial bonus on initiative checks, and during the surprise round, opponents are always considered flat-footed against the ambusher’s attacks, even if they have already acted. At 9th level, an ambusher gains a +2 morale bonus on attack and damage rolls during a surprise round. This replaces evasion, devotion, and Multiattack.
 
+## Apex Species
+
+Some animals have no serious competitors and no real predators. They are masters of their habitats, perfectly evolved to take advantage of their native terrain. They need not be predators, of course—some herbivores are just as lethally suited to their homes.
+
+**Native Environment (Ex)**: An apex species selects a specific terrain type from the ranger list of favored terrains. While in that terrain, the apex species gains a bonus equal to half its level on checks and saves to deal with environmental hazards. An apex species may not select a plane as its native environment. This replaces share spells.
+
+**Favored Terrain (Ex)**: At 3rd level, the apex species gains the ranger's favored terrain ability for the terrain that matches its native environment, except that the bonus is +1 instead of the ranger's +2. The bonus improves by 1 at 8th, 13th, and 18th levels, but the animal companion does not gain additional favored terrains. This replaces evasion.
+
+**Natural Selection (Ex)**: At 6th level, the apex species gains an ability based on its favored terrain, as follows:
+
+| Favored Terrain | Ability |
+|---|---|
+| Cold | Cold resistance 5, increasing to 15 at 15th level |
+| Desert | Fire resistance 5, increasing to 15 at 15th level |
+| Forest, jungle | +1 dodge bonus to CMD, increasing to +3 at 15th level |
+| Mountains, plains | Electricity resistance 5, increasing to 15 at 15th level |
+| Water, underground | Acid resistance 5, increasing to 15 at 15th level |
+| Swamp, urban | +4 racial bonus on saves against disease and poison; at 15th level, immunity to disease and poison |
+
+This replaces devotion and improved evasion.
+
+**Master of the Wild (Ex)**: At 9th level, the apex species gains an ability based on its favored terrain, as follows:
+
+| Favored Terrain | Ability |
+|---|---|
+| Cold | Can see through weather conditions (including blizzards, rain, fog, and mist) without penalty, ignoring any cover or concealment from such effects. If the effect is created by magic, the apex species instead triples the distance it can see without penalty. |
+| Desert | +4 morale bonus on Will saves against illusion spells and effects |
+| Forest, urban | Skill Focus (Stealth) as a bonus feat |
+| Jungle, mountains | Climb speed equal to half its base land speed, or +10 feet to an existing climb speed |
+| Plains | Base land speed increases by 10 feet |
+| Swamp, water | Swim speed equal to half its base land speed, or +10 feet to an existing swim speed |
+| Underground | Burrow speed equal to half its base land speed, or +10 feet to an existing burrow speed |
+
+This replaces Multiattack.
+
 ## Augmented Companion
 
 Augmented companions have suffered an injury, such as the loss of a wing, and parts of their bodies have been replaced by a master construct crafter. This procedure grants them unusual abilities.
@@ -178,6 +213,14 @@ Some companions are expert trackers, able to use their scent ability to follow a
 **Tracker Skills**: Trackers treat Survival as a class skill.
 
 **Expert Tracker (Ex)**: A tracker gains a competence bonus on Survival checks to track via scent equal to half its total Hit Dice. At 6th level, it can move at its normal speed while using Survival to follow tracks without taking the normal –5 penalty. It takes only a –10 penalty (instead of the normal –20 penalty) when moving at up to twice its normal speed while tracking. This replaces share spells and devotion.
+
+## Unexpected Intellectual
+
+Sometimes, when an insect or other vermin is chosen to be an animal companion, it proves cleverer than expected. On occasion, it proves much cleverer.
+
+**Special Requirement**: Only vermin companions may become unexpected intellectuals.
+
+**Genius that Creeps and Crawls (Ex)**: The unexpected intellectual gains an Intelligence score of 2 and can gain skills and feats. It loses the mindless quality. This replaces share spells.
 
 ## Verdant Companion
 

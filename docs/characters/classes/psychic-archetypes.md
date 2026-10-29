@@ -148,3 +148,41 @@ This ability replaces bonded manifestation, phantom recall, and dual bond.
 **Ectoplasmic Armor (Su)**: At 4th level when an ectoplasmatist manifests her spiritual lash ability, tendrils of ectoplasmic material envelop her body, granting her a +4 armor bonus to AC.
 
 At 12th level, the ectoplasmatist’s armor bonus to AC increases to +6 and is treated as ghost touch armor.
+
+## Starseeker
+
+*Psychic archetype.* The celestial bodies travel through the sky in fixed patterns, and knowledgeable astrologers rely on these stellar constants to make accurate predictions, but the constellations can also be a source of power. A starseeker is a psychic who focuses her studies on uncovering the secrets of the sky and the constellations of the heavens, able to read the stars as well as she can read minds.
+
+**Written in the Stars**: A starseeker can spend 1 hour each night in quiet contemplation of the stars to attune herself to a constellation from the list below, gaining knowledge of new spells from it. She gains one bonus constellation spell slot for each spell level she can cast, and she can prepare a spell associated with her attuned constellation into that slot. At 11th level, she can attune herself to two constellations, choosing between the spells offered by both constellations when she prepares her constellation spells. Whenever she attunes herself to a constellation, the starseeker must also weaken her connection to one school of magic of her choice, increasing the casting time for all spells of that school to a full-round action or an additional full-round action, as though she were using a metamagic feat. She can change her attuned constellations and her weakened school each day when she prepares her constellation spells. The constellations and their associated spells are as follows.
+
+| Constellation | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
+|---|---|---|---|---|---|---|---|---|---|
+| Songbird | *comprehend languages* | *magic mouth* | *tiny hut* | *dream* | *remote viewing* | *battlemind link* | *phase door* | *discern location* | *wish* |
+| Lantern Bearer | *liberating command* | *glitterdust* | *guiding star* | *wandering star motes* | *true seeing* | *sonic form* | *prismatic spray* | *sunburst* | *meteor swarm* |
+| Wedded Pair | *charm person* | *enthrall* | *synesthesia* | *break enchantment* | *reincarnate* | *joyful rapture* | *mass synesthesia* | *bilocation* | *overwhelming presence* |
+| Bridge | *endure elements* | *resist energy* | *daylight* | *fire shield* | *wall of force* | *contagious flame* | *reverse gravity* | *create demiplane* | *world wave* |
+| Daughter | *bless* | *hypnotic pattern* | *heroism* | *freedom of movement* | *hostile juxtaposition* | *cloak of dreams* | *greater hostile juxtaposition* | *irresistible dance* | *freedom* |
+| Rider | *anticipate peril* | *acute senses* | *ablative barrier* | *dimensional anchor* | *echolocation* | *blade barrier* | *grasping hand* | *frightful aspect* | *ride the lightning* |
+| Patriarch | *command* | *spiritual weapon* | *dispel magic* | *telekinetic charge* | *contact other plane* | *find the path* | *mage's sword* | *brilliant inspiration* | *gate* |
+| Wagon | *expeditious retreat* | *twisted space* | *haste* | *mirror transport* | *teleport* | *fluid form* | *walk through space* | *etherealness* | *time stop* |
+| Pack | *calm animals* | *animal aspect* | *rage* | *greater animal aspect* | *summon monster V* | *mass bear's endurance* | *summon monster VII* | *animal shapes* | *shapechange* |
+| Mother | *identify* | *aid* | *invisibility purge* | *stoneskin* | *spell resistance* | *contingency* | *mind blank* | *refuge* | *wall of suppression* |
+| Stargazer | *know the enemy* | *augury* | *arcane sight* | *locate creature* | *feeblemind* | *geas/quest* | *greater arcane sight* | *moment of prescience* | *dream voyage* |
+| Stranger | *disguise self* | *invisibility* | *displacement* | *riding possession* | *prying eyes* | *veil* | *project image* | *maze* | *divide mind* |
+| Follower | *forced quiet* | *darkness* | *vision of hell* | *enervation* | *waves of fatigue* | *shadow walk* | *simulacrum* | *destruction* | *energy drain* |
+
+This replaces the bonus spells normally granted by the psychic's discipline and the phrenic amplifications gained at 1st and 11th levels.
+
+**Major Amplifications**: A starseeker gains this ability at 15th level.
+
+## Primal Telepath
+
+*Psychic archetype.* While many students of magic focus on the blending of arcane and divine magic, some instead focus on the occult connection between all living creatures and the resonance between the natural and supernatural world. Primal telepaths hone their mental abilities to detect such spiritual and eldritch bonds, and attempt to commune with the mind of the jungle or the hearts of its wild inhabitants. Whether seeking information that only nature knows or attempting to impose their will upon the natural world, these psychics employ techniques that few outside of their traditions understand.
+
+**Primal Spells**: A primal telepath adds one 1st-level spell from the druid spell list to the psychic spell list and her spells known. Each time a primal telepath gains the ability to cast a new level of spell, she can add one spell of that level from the druid spell list to both the psychic spell list and her spells known. She casts these spells as psychic spells, and once the spells are selected these choices cannot be changed. This replaces discipline spells.
+
+**Nature's Command (Ex)**: The primal telepath's mind-affecting spells can affect even plant creatures. When she casts a mind-affecting spell, the primal telepath can spend 2 points from her phrenic pool to overcome a plant creature's immunity to mind-affecting effects for the purposes of that spell. This ability functions even on mindless plant creatures, but it has no effect on creatures that aren't plants. At 11th level, when the primal telepath casts a mind-affecting or language-dependent spell, the psychic can spend 2 points from her phrenic pool to cause the spell to affect creatures of the plant and animal types as if they were humanoids that understood her language. This replaces the phrenic amplifications gained at 1st and 11th levels.
+
+**Know the Land (Sp)**: At 9th level, the primal telepath can cast *commune with nature* as a spell-like ability once per day, using her psychic level as her caster level. She can also expend any unused spell slot of 5th level or higher to cast *commune with nature*. This replaces telepathic bond.
+
+**Wild Mind (Su)**: At 17th level, when the primal telepath gains the telepathy ability, she can also mentally communicate with any animal or plant creature as if it had a language. This alters telepathy.

@@ -480,6 +480,7 @@
 - **[Divine Power](divine-power.md)**: You gain attack bonuses and 1 hp/level.
 - **[False Future](false-future.md)**: Cause divinations of the future to reveal the result you choose.
 - **[Firewalker's Meditation](firewalkers-meditation.md)**: Meditative spell: damage reduction, fire resistance, and pain resistance.
+- **[Flame Steed](flame-steed.md)**: Conjure a mount made of flame.
 - **[Flesh Puppet Horde](flesh-puppet-horde.md)**: Control multiple zombies in human guise.
 - **[Forceful Strike](forceful-strike.md)**: Melee hit deals extra force damage and bull rush.
 - **[Freedom of Movement](freedom-of-movement.md)**: Subject moves normally despite impediments to movement.

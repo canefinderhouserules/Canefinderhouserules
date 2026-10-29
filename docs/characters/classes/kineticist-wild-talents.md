@@ -418,6 +418,16 @@ You can use force to rip your targets apart. Against creatures, your kinetic bla
 
 You can drain elemental energy and matter from your foes to strengthen your next attack. When you use this infusion, your kinetic blast affects only creatures with a subtype matching your kinetic blast’s element (for instance, a fire blast would damage only creatures of the fire subtype). Against such creatures, your blast targets touch AC (if it requires an attack roll) and always allows spell resistance. Because you are draining energy from the target, your blast doesn’t apply your elemental overflow bonuses or Constitution modifier. The target can attempt a Fortitude save to take 1/4 the normal amount of damage. Draining infusion ignores any damage reduction, resistances, and immunities the creature might possess. If at least one creature fails its saving throw against your draining infusion, you can reduce the total burn cost of any one blast wild talent used before the end of your next turn by 1, or by 2 if you have the supercharge ability. If you use draining infusion again before applying this reduction, you still deal the damage from that draining infusion, but the burn reductions don’t stack.
 
+### Elemental Trap
+
+**Element** utility; **Type** form infusion; **Level** 3; **Burn** 2
+
+**Associated Blasts** any
+
+**Saving Throw** Reflex half; see text
+
+You touch an area of natural ground, drawing up elemental energy that roils just below the surface, ready to explode when stepped on. This 5-foot square detonates when triggered by a weight of 10 pounds or more, affecting all creatures within 10 feet of the trap with your simple blast (or composite blast, if you have it). Any creature other than the one that triggered the elemental trap can attempt a Reflex save for half damage. The elemental trap lasts until the next time you use this wild talent or until it triggers. This counts as a magical trap with a Perception and Disable Device DC equal to 10 + your kineticist level + your Dexterity modifier. You can accept 2 points of burn, which cannot be reduced with gather power, to make a new trap without dismissing any previous traps. If you do, the trap lasts until the next time you recover burn.
+
 ### Energize Weapon
 
 **Element** air, fire, void, or water; **Type** form infusion; **Level** 1; **Burn** 1
@@ -1132,6 +1142,14 @@ You are constantly capable of speaking to rocks and stones, including natural an
 
 **Element** earth; **Type** utility (Su); **Level** 1; **Burn** —Because you meld very slightly into the earth, when you are standing on an earthen surface, you ignore difficult terrain caused by rocks, earth, or mud, and while on such surfaces you add your elemental overflow bonus to your CMD against being moved or tripped and on Acrobatics checks to balance.
 
+### Elemental Exile
+
+**Element** universal; **Type** utility (Sp); **Level** 8; **Burn** 1
+
+**Saving Throw** Will negates; **Spell Resistance** yes
+
+You transport a single creature you touch to the plane associated with your element. Precise accuracy regarding a particular arrival location on the intended plane is almost impossible. The creature appears 5 to 500 miles (5d%) from your intended destination. Elemental exile transports creatures instantaneously and then ends. The creature must find other means to travel back (such as casting *plane shift* or using elemental exile again).
+
 ### Elemental Grip
 
 **Element** universal; **Type** utility (Sp); **Level** 3; **Burn** 0
@@ -1139,6 +1157,14 @@ You are constantly capable of speaking to rocks and stones, including natural an
 **Saving Throw** Will negates; **Spell Resistance** yes
 
 You use your element to halt a creature associated with your element, as hold monster except it requires concentration to maintain, and it works only on creatures with a subtype matching one of your elements (for example, a pyrokineticist could use it on creatures of the fire subtype). At any time, you can accept 1 point of burn to remove the need to concentrate.
+
+### Elemental Transmission
+
+**Element** earth, fire, or water; **Type** utility (Sp); **Level** 5; **Burn** 0
+
+**Saving Throw** Will negates; **Spell Resistance** yes
+
+You reach out to a creature with which you are familiar by using a conduit through an elemental plane. By concentrating for 10 minutes, you create one end of the conduit in a manifestation of your chosen element, such as a fire, pool of water, or section of earth, which must be at least 2 feet in diameter. If the creature you are attempting to contact is within earshot of a similar elemental manifestation and on the same plane, the conduit forms successfully, allowing both sides to see a likeness of the other. You can hear and talk to each other, though you cannot perceive anything else from the other side of the connection. If the creature is not within earshot of a similar elemental manifestation, you can maintain your concentration to wait until the creature comes close enough to such a feature. The connection lasts until you stop concentrating on it, use this ability again, or until the creature moves away from the conduit.
 
 ### Enduring Earth
 
@@ -1156,11 +1182,23 @@ You bend your winds into a formidable barrier. Until the start of your next turn
 
 **Element** universal; **Type** utility (Su); **Level** 4; **Burn** —Choose an element you selected with expanded element. You gain that element’s defense wild talent. You can take this wild talent multiple times, choosing a different element each time.
 
+### Fire Corridor
+
+**Element** fire; **Type** utility (Sp); **Level** 5; **Burn** 1
+
+You create a passage through a fire or pool of lava. The passage is 5 feet wide and 8 feet high. It is 10 feet long, plus 5 feet longer for every 3 kineticist levels you have. Any heat generated by the fire or lava through which the passage passes is radiated outwards, making the passage comfortable and safe. The passage lasts for 1 hour, though you can end the effect at any time as a free action. If this effect ends while a creature is inside the tunnel, that creature is affected by the fire or lava as normal.
+
 ### Fire Sculptor
 
 **Element** fire; **Type** utility (Sp); **Level** 1; **Burn** 0
 
 You can sculpt shapes out of flame or alter a fire’s spread. As a standard action, you can move one 5-foot square of an ongoing fire per kineticist level you possess to any square contiguous to that fire. For instance, a 4th-level kineticist could move 4 contiguous squares from the center of a 20-foot-by-20-foot fire to the fire’s edge in order to create a safe path to escape. The fire continues to spread normally after you sculpt it.
+
+### Fire Steed
+
+**Element** fire; **Type** utility (Sp); **Level** 2; **Burn** 0
+
+You imbue a willing animal, magical beast, or other creature that can serve as a suitable mount with elemental power from the Plane of Fire, wreathing it in flames for 1 round. You can accept 1 point of burn to increase the duration to 1 round per kineticist level you have. The mount gains fire resistance 10 and its speed increases by 10 feet. Creatures other than you who touch the mount, attack the mount with a natural weapon or unarmed strike, or attempt to mount the creature take 1d6 points of fire damage every round they are in contact with the mount.
 
 ### Fire’s Fury
 
@@ -1206,6 +1244,14 @@ You create an immobile sphere or hemisphere of force around your square or squar
 
 When you are about to fall unconscious or die from hit point damage, as an immediate action you can burst into flames that leave behind only ash, which cannot be appreciably affected by most attacks or effects, though a disintegrate spell or similar magic can annihilate it. At the start of your next turn, unless the ash has been completely destroyed, you arise in the square where the most ash is located, having taken the damage from the triggering effect but having also healed 5 points of damage per kineticist level you possess.
 
+### Greater Fire Steed
+
+**Element** fire; **Type** utility (Sp); **Level** 8; **Burn** 0
+
+**Prerequisites** fire steed, improved fire steed
+
+When using fire steed, the mount gains immunity to fire and its speed increases by an additional 10 feet. In addition, when the mount takes a run action, it can run up steep slopes at its normal speed and down steep slopes without its rider needing to attempt a Ride check.
+
 ### Heat Adaptation
 
 **Element** fire or water; **Type** utility (Sp); **Level** 1; **Burn** 0
@@ -1237,6 +1283,14 @@ You can sculpt ice and snow into new shapes, as the spell stone shape but affect
 ### Icewalker
 
 **Element** water; **Type** utility (Su); **Level** 1; **Burn** —You can move across wet and icy surfaces without needing to attempt Acrobatics checks due to slipperiness, including across areas under the effects of the slick wild talent. Additionally, you are immune to seasickness.
+
+### Improved Fire Steed
+
+**Element** fire; **Type** utility (Sp); **Level** 5; **Burn** 0
+
+**Prerequisites** fire steed
+
+When using fire steed, the mount's fire resistance increases to 20 and its speed increases by an additional 10 feet. The mount can move over lava without difficulty or a decrease in speed.
 
 ### Jagged Flesh
 
@@ -1359,6 +1413,12 @@ You create a 5-foot-by-5-foot pillar of ice, packed dirt, or tangled roots with 
 The pillar can’t be used to crush creatures or objects against the ceiling; if insufficient room is available for the pillar and any creatures or objects on it, the pillar reaches only the maximum possible height. You can’t create a pillar under a Large or larger creature.
 
 The pillar has AC 4, hardness 0, and 3 hit points per kineticist level. Scaling the pillar’s rough edges requires a successful DC 15 Climb check. When destroyed, when you create a new pillar, or when a number of rounds equal to your Constitution bonus (minimum 1) have elapsed, the pillar crumbles, melts, or withers away, gently lowering anything on it back to the ground.
+
+### Purifying Flames
+
+**Element** fire; **Type** utility (Sp); **Level** 4; **Burn** 1
+
+You use fire to burn poison from within a creature's veins. You must attempt a caster level check (1d20 + your kineticist level) against the DC of each poison affecting the target. Success means that the poison is neutralized, as *neutralize poison*. When you attempt to neutralize poison in this way, you can choose to deal a number of points of fire damage to the poisoned creature equal to the amount of damage you normally take from accepting burn in order to reduce the DC of one poison affecting the target by 2. This reduction remains until the end of your next turn.
 
 ### Reverse Shift
 

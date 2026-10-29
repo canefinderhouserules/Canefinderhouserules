@@ -183,6 +183,7 @@
 - **[Outbreak](outbreak.md)**: Make diseased creatures contagious
 - **[Overstimulate](overstimulate.md)**: Grant ferocity to keep a creature conscious
 - **[Owl’s Wisdom](owls-wisdom.md)**: Subject gains +4 to Wis for 1 min./level.
+- **[Pinecone Bomb](pinecone-bomb.md)**: A thrown pinecone explodes for piercing damage.
 - **[Planetarium](planetarium.md)**: Project the night sky.
 - **[Plant Voice](plant-voice.md)**: A plant creature can speak and understand your languages.
 - **[Poison Exchange](poison-exchange.md)**: Swallow one poison and regurgitate another.
@@ -322,6 +323,7 @@
 - **[Water Breathing](water-breathing.md)**: Subjects can breathe underwater.
 - **[Wind Wall](wind-wall.md)**: Deflects arrows, smaller creatures, and gases.
 - **[Wing Thorns](wing-thorns.md)**: Wings sprout poisonous thorns you can attack with.
+- **[Woodland Rune](woodland-rune.md)**: A rune sprouts entangling roots when enemies approach.
 
 ## 4th-Level Druid Spells
 
@@ -352,6 +354,7 @@
 - **[Earth Glide](earth-glide.md)**: School transmutation [earth]; Level alchemist 4, druid 4, sorcerer/wizard 4 Casting Time 1 standard action.
 - **[Explosion of Rot](explosion-of-rot.md)**: Call forth a burst of decay that damages and can stagger targets.
 - **[Firewalker's Meditation](firewalkers-meditation.md)**: Meditative spell: damage reduction, fire resistance, and pain resistance.
+- **[Flame Steed](flame-steed.md)**: Conjure a mount made of flame.
 - **[Flame Strike](flame-strike.md)**: Smites foes with divine fire (1d6/level damage).
 - **[Forest’s Sense](forests-sense.md)**: Sense the location of a distant target that is near a plant or fungus.
 - **[Freedom of Movement](freedom-of-movement.md)**: Subject moves normally despite impediments to movement.
@@ -377,6 +380,7 @@
 - **[Repel Vermin](repel-vermin.md)**: Insects, spiders, and other vermin stay 10 ft. away.
 - **[Repugnant Taste](repugnant-taste.md)**: Creatures that bite or swallow the target become nauseated.
 - **[Rising Water](rising-water.md)**: Conjures a cylinder of calm, swimmable water.
+- **[Rope Tornado](rope-tornado.md)**: A line of tornado-force wind knocks creatures prone.
 - **[Rusting Grasp](rusting-grasp.md)**: Your touch corrodes iron and alloys.
 - **[Scrying](scrying.md)**: Spies on subject from a distance.
 - **[Sea Stallion](sea-stallion.md)**: You and your mount adapt to an aquatic environment.
@@ -473,6 +477,7 @@
 - **[Fey Form III](fey-form-iii.md)**: Assume the form of a Diminutive or Huge fey creature.
 - **[Find the Path](find-the-path.md)**: Shows most direct way to a location.
 - **[Fire Seeds](fire-seeds.md)**: Acorns and berries become grenades and bombs.
+- **[Flash Flood](flash-flood.md)**: A wave batters and bull rushes foes, then floods the area.
 - **[Gravity Sphere](gravity-sphere.md)**: Alter gravity in a 30-ft. sphere.
 - **[Gravity Well](gravity-well.md)**: Target is crushed by heavy gravity.
 - **[Green Caress](green-caress.md)**: Slowly transform a creature into an inanimate plant.
@@ -527,6 +532,7 @@
 - **[Planar Refuge](planar-refuge.md)**: A pocket of Material Plane wilderness on another plane.
 - **[Plundered Power](plundered-power.md)**: Kill a creature and steal its strongest spell-like ability.
 - **[Scrying, Greater](scrying-greater.md)**: As *scrying*, but faster and longer.
+- **[Seismic Fissure](seismic-fissure.md)**: Split the earth with a deep fissure.
 - **[Siege of Trees](siege-of-trees.md)**: Transforms Large trees into arboreal catapults of the same size.
 - **[Summon Nature’s Ally VII](summon-natures-ally-vii.md)**: Summons creature to fight.
 - **[Sunbeam](sunbeam.md)**: Beam blinds and deals 4d6 damage.

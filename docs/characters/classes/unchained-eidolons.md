@@ -407,6 +407,26 @@ The vast, lightless reaches of the sea are home to creatures of unimaginable pow
 
 **Base Evolutions**: Starting at 1st level, deepwater eidolons gain the gills, resistance (cold), and swim evolutions. At 4th level, deepwater eidolons gain the jet ability at a speed of 200 feet and increase the range of their darkvision to 120 feet. At 8th level, deepwater eidolons gain the poison evolution for all tail slap and tentacle attacks, although the poison can be used only once per round. The summoner can spend 2 evolution points to make this poison deal Constitution damage instead of Strength damage, as normal for the poison evolution. At 12th level, deepwater eidolons gain DR 5/magic. They also gain the rend evolution for tentacle attacks rather than claw attacks. At 16th level, deepwater eidolons lose the resistance (cold) evolution and instead gain the immunity (cold) evolution. At 20th level, deepwater eidolons gain constant *freedom of movement* and fast healing 5.
 
+### Kami
+
+Kami eidolons are spirits of nature bound to an unchained summoner. They seek to protect their wards, but because of their summoner's bond, they have more flexibility choosing their wards than most of their kind.
+
+**Alignment**: Any non-evil. Kami eidolons do not have an alignment subtype, instead having the native subtype.
+
+**Base Form**: Biped (limbs [arms], limbs [legs], slam).
+
+**Base Evolutions**: At 1st level, a kami eidolon gains the resistance (fire) evolution and the 4-point weapon training evolution (proficiency in martial weapons).
+
+At 4th level, a kami eidolon gains acid resistance 10 and cold resistance 10.
+
+At 8th level, a kami eidolon can declare a ward once per day as a standard action. Its ward must be an object, a plant, or a creature with an Intelligence score of 2 or less, and the ward maintains the designation for 1 hour. So long as a kami eidolon is within 60 feet of its ward, it and its ward gain a +2 sacred bonus on saving throws.
+
+At 12th level, a kami eidolon gains the 4-point version of the fast healing evolution and the merge with ward ability (as the kami subtype ability). A kami eidolon automatically emerges from its ward if they are merged when that object or creature ceases to be the eidolon's ward.
+
+At 16th level, kami eidolons are immune to bleed, mind-affecting, petrification, and polymorph effects.
+
+At 20th level, a kami eidolon increases the fast healing from its fast healing evolution by 2 points whenever it is within 30 feet of its ward; while the kami is merged with its ward, the ward gains the same amount of fast healing.
+
 ## Base Forms
 
 Each eidolon has one of three base forms that determines its starting size, speed, AC, attacks, and ability scores. All natural attacks are made using the eidolon’s full base attack bonus unless otherwise noted (such as in the case of secondary attacks). An eidolon’s attacks add the eidolon’s Strength modifier to the damage rolls, unless the eidolon has only one attack, in which case the attack adds 1-1/2 times the eidolon’s Strength modifier.

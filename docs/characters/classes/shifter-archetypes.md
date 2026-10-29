@@ -227,3 +227,78 @@ At 5th level, a weretouched gains DR/silver equal to half her shifter level, to 
 **Blessed Claws (Su)**: This ability functions as the shifter's claws class feature, except the holy beast shifter's default claws are long and thin, dealing piercing damage. At 3rd level, her claws are treated as one type of aligned weapon (chaotic, evil, good, or lawful) within one step of her deity's alignment in addition to ignoring DR/cold iron, DR/magic, and DR/silver. If multiple alignment components are available to the holy beast, she selects one; this choice cannot be changed later. This alters shifter claws.
 
 **Divine Fury (Su)**: A holy beast shifter focuses entirely on hunting down specific outsiders on behalf of her deity. She gains the ranger's favored enemy class feature, except she can select only an outsider type from the favored enemy table. The bonus against her favored enemy automatically increases by 1 at 5th level and every 5 levels thereafter. At 5th level and every 5 levels thereafter, she can forgo gaining an additional shifter aspect to instead gain an additional outsider type as her favored enemy. Her bonuses from the favored enemy feature against new outsider types chosen in this way are equal to the bonus for the type chosen at 1st level. This replaces wild empathy, track, woodland stride, and trackless step.
+
+## Dragonblood Shifter
+
+*Shifter archetype.* Dragonblood shifters draw upon the inherent strength and majesty of true dragons, gaining a measure of their powers from their association.
+
+**Draconic Aspect (Su)**: A dragonblood shifter can temporarily imbue her body with draconic majesty as a swift action. When activating this ability, the shifter must select one of the chromatic or metallic dragon types from the table below. Her draconic aspect abilities grant resistances and deal a type of damage based on the chosen dragon type. While shifted into this form, she gains the scent ability and energy resistance 5 against the energy type that corresponds to her selected dragon type. She can maintain this form for a number of minutes per day equal to 3 + her shifter level. The duration does not need to be consecutive, but it must be spent in 1-minute increments. The shifter can select a different dragon type every time she uses this ability, but she must end her current draconic aspect and activate this ability again in order to change her chosen dragon type.
+
+| Dragon Type | Energy Type |
+|---|---|
+| Black | Acid |
+| Blue | Electricity |
+| Green | Acid |
+| Red | Fire |
+| White | Cold |
+| Brass | Fire |
+| Bronze | Electricity |
+| Copper | Acid |
+| Gold | Fire |
+| Silver | Cold |
+
+At 5th level, the energy resistance granted by the dragonblood shifter's draconic aspect increases to 10. At 10th level, it increases to 15, and she gains a breath weapon of her energy type that deals 1d6 points of damage per shifter level within a 30-foot cone. A target can attempt a Reflex save (DC = 10 + half the dragonblood shifter's level + her Charisma modifier) to reduce damage by half. The dragonblood shifter can use her breath weapon once per day. At 15th level, the energy resistance increases to 20, and she can use her breath weapon twice per day. At 20th level, the dragonblood shifter becomes immune to the energy type that corresponds to her selected dragon type while in her draconic aspect. In addition, she gains spell resistance equal to 10 + her shifter level, and she can use her breath weapon three times per day. This replaces shifter aspect and all improvements to shifter aspect.
+
+**Wyrmshifter (Su)**: At 9th level, a dragonblood shifter can push her form closer to that of a true dragon. She gains a +2 racial bonus on saving throws against sleep and paralysis effects. She does not gain the wild shape ability until 9th level. When using the ability, she takes on the form of a true dragon; this ability functions as *form of the dragon I* instead of *beast shape II*. A dragonblood shifter can use wild shape for a number of minutes each day equal to her shifter level + her Wisdom modifier. This duration doesn't need to be consecutive, but it must be spent in 1-minute increments. For abilities that function based on uses of wild shape, each minute of wild shape counts as a use. This alters wild shape and replaces chimeric aspect.
+
+**Improved Wyrmshifter (Su)**: At 14th level, a dragonblood shifter's ties to her draconic abilities grow stronger. Her bonus on saves against sleep and paralysis effects increases to +4. Her wild shape ability now functions as *form of the dragon II*, and she can use it for a number of minutes each day equal to twice her shifter level + her Wisdom modifier, though it still must be used in 1-minute increments. This replaces greater chimeric aspect.
+
+**Greater Wyrmshifter (Su)**: At 20th level, a dragonblood shifter's tie to her draconic abilities reaches its peak. She becomes immune to sleep and paralysis effects. She can use wild shape to transform into a dragon for a number of hours each day equal to her shifter level + her Wisdom modifier. This duration does not need to be consecutive, but it must be spent in 1-hour increments. For abilities that function based on uses of wild shape, each hour of wild shape counts as a use. This replaces final aspect.
+
+## Feyform Shifter
+
+*Shifter archetype.* Feyform shifters are intimately linked to the realm of the fey, and can draw from it to gain otherworldly powers.
+
+**Fey Aspect (Su)**: A feyform shifter can take on a fey aspect and assume fey traits as a swift action. While in this form, she gains low-light vision (or darkvision with a range of 30 feet, if she already has low-light vision) and DR 1/cold iron. Her body outline becomes indistinct; she is treated as though she has concealment, except that she cannot use this concealment to attempt Stealth checks. She can maintain this form for a number of minutes per day equal to 3 + her shifter level. The duration does not need to be consecutive, but it must be spent in 1-minute increments.
+
+At 5th level, the feyform shifter's DR increases to 2/cold iron, and she grows a pair of butterfly-like wings that grant her a fly speed of 30 feet with average maneuverability. At 10th level, the feyform shifter's DR increases to 5/cold iron, and she gains a +4 bonus on saving throws against enchantment spells and effects. At 15th level, the feyform shifter's DR increases to 7/cold iron, and her fly speed maneuverability increases to good. At 20th level, the feyform shifter's DR increases to 10/cold iron. She becomes resistant to movement-impairing effects (as *freedom of movement*) and gains spell resistance equal to 10 + her level. This alters and replaces all improvements to shifter aspect.
+
+**Fey Shape (Su)**: At 4th level, a feyform shifter can use her wild shape ability to become a fey creature. The feyform shifter must spend at least one use of wild shape to transform into a fey creature; this ability functions as *fey form I*, except that it lasts for only 1 minute per use of wild shape spent. Using fey shape or reverting back is a standard action that does not cause attacks of opportunity. At 8th level this ability instead functions as *fey form II*. At 10th level this ability functions as *fey form III*, and at 14th level it functions as *fey form IV*. This alters wild shape.
+
+**Fey Shifter (Su)**: At 9th level, a feyform shifter gains a second shifter aspect, chosen from the animal aspects normally available to shifters. When she uses her shifter aspect ability to take on her fey aspect, she can choose a second aspect and assume the minor form of that aspect, alongside her fey aspect, allowing her to combine her fey aspect with the animal aspects available to her. This modifies chimeric aspect.
+
+**Greater Fey Shifter (Su)**: At 14th level, a feyform shifter gains a third aspect. When she uses her shifter aspect ability to take on her fey aspect, she can choose two aspects and assume the minor form of each aspect, alongside her fey aspect. This modifies greater chimeric aspect.
+
+**Final Aspect (Su)**: At 20th level, a feyform shifter gains access to a fourth aspect. When she uses shifter aspect, she can assume the minor forms of all her aspects in addition to her fey aspect, and she can use her major and minor forms at will. This alters final aspect.
+
+## Swarm Shifter
+
+*Shifter archetype.* Swarm shifters channel the essence of the basest and most overlooked animals, vermin.
+
+**Vermin Aspect (Su)**: As a swift action, a swarm shifter can transform into a swarm of vermin. While in her vermin form, she gains a +2 bonus to natural armor. Her size increases by one size category (as *enlarge person*, except her reach does not increase to 10 feet), but she can occupy the same space as a creature of any size. She must still attack a target as normal, even if occupying the same space as her target. She can maintain this form for a number of minutes per day equal to 3 + her shifter level. The duration does not need to be consecutive, but it must be spent in 1-minute increments.
+
+At 5th level, a swarm shifter becomes immune to bull rush, grapple, and trip combat maneuvers while in vermin form. At 10th level, the swarm shifter's bonus to natural armor increases to +4 while in vermin form. At 15th level, a swarm shifter gains the distraction universal monster ability while in vermin form. At 20th level, the swarm shifter becomes immune to critical hits and flanking while in vermin form, but unlike a normal swarm, doesn't become immune to normal weapon damage. This replaces wild shape, shifter aspect, and all improvements to shifter aspect.
+
+**Swarmer (Su)**: Starting at 4th level, while a swarm shifter is in her natural form, she can transform her hands into living vermin as a swift action at will. This grants her a touch attack that deals 1d6 points of piercing damage and counts as an area attack for the purpose of overcoming the damage reduction of swarms. She doesn't add her Strength modifier as a bonus on damage rolls for this attack. This damage increases by 1d6 at 7th level and every 4 levels thereafter (maximum 6d6 points of damage at 20th level). A swarm shifter can't use her normal shifter claws while her hands are transformed in this way. At 10th level, a swarm shifter can use this ability to automatically deal her touch attack damage to foes that she is grappling. At 15th level, a swarm shifter can use this ability while in her vermin form to automatically deal her touch attack damage to foes within her squares.
+
+**Swarm Flow (Su)**: At 9th level, when a swarm shifter uses her vermin aspect ability, she gains a swarm ability from the list below. She can select a different ability each time she uses her vermin aspect ability.
+
+*Crawling*: The swarm shifter gains a climb speed equal to her base speed.
+
+*Flying*: The swarm shifter gains a fly speed equal to her base speed, with good maneuverability.
+
+*Undulating*: The swarm shifter gains a burrow speed equal to her base speed.
+
+This replaces chimeric aspect.
+
+**Greater Swarm Flow (Su)**: At 14th level, when using her vermin aspect ability, a swarm shifter also gains a greater swarm ability from the list below. She can select a different ability each time she uses her vermin aspect ability.
+
+*Crawling*: The swarm shifter gains tremorsense with a range of 60 feet and a +4 bonus on Perception checks.
+
+*Flying*: The swarm shifter's claws change to venomous stingers that deliver poison on each attack. (Poison: injury; *save* Fort DC = 10 + half the swarm shifter's level + her Constitution modifier; *frequency* 1/round for 6 rounds; *effect* 1d3 Dexterity damage; *cure* 2 consecutive saves.)
+
+*Undulating*: Whenever the swarm shifter is subject to a critical hit, she gains fast healing equal to 1/3 her level for a number of rounds equal to 3 + her Wisdom modifier.
+
+This replaces greater chimeric aspect.
+
+**Final Aspect (Su)**: At 20th level, a swarm shifter becomes an embodiment of swarms and can cast *swarm skin* as a spell-like ability at will with a caster level equal to her character level. She can separate into up to five swarms, regardless of the number of levels required per swarm. When transforming into swarms with this ability, the swarm shifter still selects swarm abilities granted by the swarm flow and greater swarm flow abilities to apply to her swarm forms. The chosen swarm abilities apply to all swarms. This modifies final aspect.

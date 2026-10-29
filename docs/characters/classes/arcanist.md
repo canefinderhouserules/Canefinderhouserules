@@ -112,7 +112,11 @@ An arcanist begins play with a spellbook containing all 0-level wizard/sorcerer 
 
 **Familiar (Ex)**: An arcanist with this exploit can acquire a familiar as the arcane bond wizard class feature, using her arcanist level as her wizard level to determine any of the statistics and abilities of the familiar. If the arcanist receives a familiar from another class, her levels of arcanist stack with the levels from that class when determining the familiar's statistics and abilities (this ability does not stack with a familiar gained through the bloodline development exploit; she must choose one or the other).
 
+**Feral Shifting (Su)**: As a swift action, the arcanist can spend 1 point from her arcane reservoir to gain either a bite attack that deals 1d6 points of damage (1d4 points of damage if she is Small) or two claw attacks that deal 1d4 points of damage (1d3 points of damage if she is Small) for a number of minutes equal to her Charisma modifier (minimum 1). These are primary natural attacks.
+
 **Flame Arc (Su)**: The arcanist can unleash an arc of flame by expending 1 point from her arcane reservoir. This creates a 30-foot line of flame that deals 1d6 points of fire damage + the arcanist's Charisma modifier, plus an additional 1d6 points of fire damage for every 2 levels beyond 1st (to a maximum of 10d6 at 19th level) to each target in the line. Creatures in the area of effect may attempt a Reflex saving throw to halve the damage.
+
+**Flame Control (Su)**: The arcanist can spend 1 point from her arcane reservoir to move or extinguish one 5-foot square per arcanist level of an ongoing nonmagical fire. If she chooses to move a portion of the fire, it must be moved to a square contiguous with that fire. If she also expends a spell slot of at least 3rd level when activating this ability, she can attempt to dispel a magical fire effect, as *dispel magic*.
 
 **Force Strike (Su)**: The arcanist can unleash a blast of force by expending 1 point from her arcane reservoir. This attack automatically strikes one target within 30 feet (as magic missile) and deals 1d4 points of force damage, plus 1 point of damage per arcanist level. Spells and effects that negate magic missile also negate this effect.
 
@@ -151,6 +155,12 @@ During this time, she is treated as if she had studied each aura for 3 rounds an
 This ability cannot be used on a given spell effect more than once.
 
 This ability has no effect on spells that are instantaneous or have a duration of permanent.
+
+**Weather Sage (Su)**: If she spends 1 point from her arcane reservoir, the arcanist can predict the weather in her current location for the next 24 hours. The arcanist's prediction is always accurate, but it cannot account for spells or supernatural effects that might alter conditions. In addition, she gains a bonus equal to half her arcanist level on Fortitude saves against severe weather for the next 24 hours. She can share this benefit with a number of allies equal to her Charisma bonus.
+
+**Wild Stride (Su)**: The arcanist can spend 1 point from her arcane reservoir to ignore impediments to her movement and vision in natural growth. For 1 minute per level, the arcanist gains the druid's woodland stride ability and can see through plant material as if she had greensight with a range of 60 feet.
+
+**Wooden Flesh (Su)**: The arcanist infuses herself with the toughness of the plant life that she studies. The arcanist can spend 1 point from her arcane reservoir to gain a +2 natural armor bonus and DR/slashing equal to her Charisma modifier (minimum 1) for 1 minute per arcanist level. While this ability is in effect, she counts as both her original creature type and a plant creature for the purpose of abilities and spells.
 
 **Invoke Primal Magic (Su)**: When an event within 30 feet of the arcanist would trigger a chance for a primal magic effect, the arcanist can spend 1 point from her arcane reservoir as an immediate action to increase the chance to 100%.
 

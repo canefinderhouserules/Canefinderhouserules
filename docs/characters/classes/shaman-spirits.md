@@ -444,6 +444,40 @@ Also once per day (but only after first using this ability as per *contact other
 
 **Manifestation**: Upon reaching 20th level, the shaman becomes an unnatural spirit of the void. She gains damage reduction 5/— and immunity to acid, critical hits, and sneak attacks. While she retains much of her original appearance, several minor cosmetic changes leave no doubt as to her now-alien nature. Her eyes might appear as solid spheres of blackness, her fingers might writhe like tentacles, or her legs might bend backward at the knees. Once per day, the shaman can cast *shapechange* as a spell-like ability without requiring a material component, but the form the shaman assumes via this spell-like ability is never something that looks of natural origin to the shaman's home world.
 
+## Tribe
+
+A shaman who selects the tribe spirit strives to protect her allies, whether they be a traditional tribal unit or a chosen group of adventuring companions.
+
+**Spirit Magic Spells**: *bless* (1st), *shield other* (2nd), *create food and water* (3rd), *spiritual ally* (4th), *life bubble* (5th), *battlemind link* (6th), *vision* (7th), *discern location* (8th), *mass heal* (9th).
+
+**Hexes**: A shaman who chooses the tribe spirit can select from the following hexes.
+
+**Curse of Faltering (Su)**: As an immediate action when an enemy within 30 feet threatens a critical hit, the shaman can force the creature to reroll its original attack roll with a penalty equal to the shaman's Charisma modifier. The target can attempt a Will save to negate this ability. Whether or not the save is successful, the creature cannot be the target of this hex again for 24 hours. This is a curse effect.
+
+**Curse of Isolation (Ex)**: The shaman makes an enemy within 30 feet keenly feel its status outside the tribe. For a number of rounds equal to the shaman's level, the target gains no benefit from flanking or the aid another action, and it doesn't benefit from morale bonuses. The target can attempt a Will save to negate this ability. Whether or not the save is successful, the creature cannot be the target of this hex again for 24 hours. This is a curse effect.
+
+**Steadfast Example (Su)**: The shaman touches a willing creature and bolsters its mental and emotional defenses. The next time the target attempts a Will saving throw, the subject can use the shaman's Will saving throw bonus instead of his own. The shaman can have only one creature under the effect of this hex at a time, and a creature affected by this hex cannot be affected by it again for 24 hours.
+
+**Threatening Coordination (Su)**: The shaman causes a creature within 30 feet to view the shaman's allies as obstacles. The target treats squares adjacent to the shaman's allies as difficult terrain for a number of rounds equal to the shaman's level, or for 1 round if the target succeeds at a Will saving throw. Whether or not the save is successful, a creature affected by this hex cannot be the target of it again for 24 hours.
+
+**Touch of Succor (Su)**: The shaman can touch a willing creature as a standard action to remove one of the following conditions: fatigued, shaken, or sickened. At 8th level, she adds confused and frightened to the list of conditions she can remove. At 12th level, she also adds dazed, nauseated, and panicked. The shaman can use this ability a number of times per day equal to her shaman level.
+
+**Spirit Animal**: The shaman's spirit animal has colorations or markings that resemble a totem or important symbol for the shaman's tribe. When the spirit animal successfully performs the aid another action, the bonus it provides increases by 1.
+
+**Spirit Ability**: A shaman who chooses the tribe spirit as her spirit or wandering spirit gains the following ability.
+
+**Tribal Cooperation (Su)**: The shaman gains a teamwork feat as a bonus feat. She must meet the feat's prerequisites. As a standard action, the shaman can grant one of her teamwork feats to all allies within 30 feet who can see and hear her. Allies retain the use of this bonus feat for 3 rounds plus 1 round for every 2 levels the shaman has. Allies do not need to meet the prerequisites of this bonus feat. The shaman can use this ability a number of times per day equal to 3 + her Charisma modifier.
+
+**Greater Spirit Ability**: A shaman who chooses the tribe spirit as her spirit or wandering spirit gains the following ability upon having access to the greater version of that spirit.
+
+**Tribal Bond (Sp)**: The shaman and her tribe share a transcendent bond. Once per day when she communes with her spirit animal to regain spells, the shaman can select a number of creatures equal to half her shaman level to serve as her honorary tribe. These creatures can constantly communicate with each other, as *telepathic bond*.
+
+**True Spirit Ability**: A shaman who chooses the tribe spirit as her spirit or wandering spirit gains the following ability upon having access to the true version of that spirit.
+
+**Guardian of the Tribe (Su)**: The shaman can cast a harmless spell with a range of touch on a member of her tribal bond as long as that creature is within 30 feet. The shaman can use this ability a number of times per day equal to her Charisma modifier (minimum 1). In addition, she is constantly aware of the condition of all members of her tribal bond ability, as *status*.
+
+**Manifestation**: Upon reaching 20th level, the shaman embodies the strength and unity of her tribe. She gains a bonus on all of her saving throws equal to her Charisma modifier and becomes immune to compulsion spells and spell-like abilities. Once per day as a standard action, she can attempt to revive a creature connected to her by her tribal bond ability who has died within 1 round as *breath of life*, except that the spell can be cast at any range as long as the target is on the same plane, and the target regains a number of hit points equal to 10 × the shaman's level (maximum 200).
+
 ## Waves
 
 A shaman who selects the waves spirit has a fluid grace that exhibits itself whenever she moves. When she calls upon one of this spirit's abilities, floating orbs dance about her, sublimating between icy crystals, misty vapors, and globules of water.

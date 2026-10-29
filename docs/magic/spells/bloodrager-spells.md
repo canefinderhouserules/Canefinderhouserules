@@ -195,6 +195,7 @@ Bloodragers gain access to the following spells. Spells in plain text come from 
 - Firestream
 - Fire Trail
 - **[Flame Arrow](flame-arrow.md)**: Arrows deal +1d6 fire damage.
+- **[Flame Steed](flame-steed.md)**: Conjure a mount made of flame.
 - **[Fly](fly.md)**: Subject flies at speed of 60 ft.
 - **[Force Hook Charge](force-hook-charge.md)**: Hook of force drags you to the target.
 - **[Force Punch](force-punch.md)**: Target takes 1d4 force damage per level and is pushed away.

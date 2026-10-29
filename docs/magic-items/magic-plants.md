@@ -22,10 +22,14 @@ A magic plant can be uprooted and moved, but it dies within a day unless it is m
 |---|---|
 | Acidic lemon tree | 12,000 gp |
 | Altitude fern | 12,000 gp |
+| Ambrosial lotus | 25,000 gp |
+| Cleanthistle | 7,200 gp |
 | Fireapple tree | 5,000 gp |
 | Fishweed | 30,000 gp |
+| Ghostblossom | 10,500 gp |
 | Goodberry bush | 8,000 gp |
 | Grabbing vines | 2,000 gp |
+| Gravebane petals | 16,000 gp |
 | Helping hands vines | 12,000 gp |
 | Palm of decadent feasts | 9,600 gp |
 | Poison siphon tree | 56,000 gp |
@@ -59,6 +63,28 @@ An altitude fern produces up to six berries a day, and it bears no more than 50 
 
 **Cultivation** Cultivate Magic Plant, endure elements, cultivator must have 3 ranks in Knowledge (nature); **Cost** 6,000 gp
 
+### Ambrosial Lotus
+
+**Aura** strong enchantment; **CL** 12th  
+**Price** 25,000 gp; **Slot** none; **Weight** 50 lbs.
+
+A creature who consumes an ambrosial lotus must succeed at a DC 17 Will save or be overtaken by such a state of total bliss so as to be almost oblivious to the world around him. The creature's Intelligence and Charisma scores drop to 1, and the creature can no longer cast spells, understand language, or communicate. These effects are permanent unless removed with a *heal*, *limited wish*, *miracle*, or *wish* spell.
+
+An ambrosial lotus stalk grows one flower per day during its 13-week growing period in spring.
+
+**Cultivation** Cultivate Magic Plant, feeblemind, cultivator must have 10 ranks in Knowledge (nature); **Cost** 12,500 gp
+
+### Cleanthistle
+
+**Aura** moderate conjuration; **CL** 9th  
+**Price** 7,200 gp; **Slot** none; **Weight** 50 lbs.
+
+The needles of this bitter, black herb are used to alleviate the effects of radiation poisoning. A creature that drinks tea made from the needles of cleanthistle is affected by a *neutralize poison* effect (CL 9th) except that the effect can neutralize only the oldest poison affecting the creature.
+
+A cleanthistle stalk has a single 26-week growing period, through spring and summer. During this period, enough needles for a single dose of tea regrow 4 days after being harvested. The needles remain potent enough to brew for 1 week after being harvested.
+
+**Cultivation** Cultivate Magic Plant, neutralize poison, cultivator must have 5 ranks in Knowledge (nature); **Cost** 3,600 gp
+
 ### Fireapple Tree
 
 **Aura** faint evocation; **CL** 5th  
@@ -81,6 +107,17 @@ Fishweed yields up to four leaves per day. A patch of fishweed has no more than 
 
 **Cultivation** Cultivate Magic Plant, water breathing, cultivator must have 1 rank in Knowledge (nature); **Cost** 15,000 gp
 
+### Ghostblossom
+
+**Aura** moderate enchantment; **CL** 10th  
+**Price** 10,500 gp; **Slot** none; **Weight** 50 lbs.
+
+The eyes of those who chew these pale white flowers widen and turn a milky white. The flowers send the user into a furious rage similar to that of a barbarian, granting a +2 morale bonus to Strength and Constitution, a +1 morale bonus on Will saves, and a –2 penalty to AC. These effects remain active for as long as she chews the flower, up to 1 minute. A creature can begin chewing ghostblossom as a move action and can continue to chew as a free action every round.
+
+A ghostblossom vine flowers once daily through a single 13-week growing period every summer.
+
+**Cultivation** Cultivate Magic Plant, rage, cultivator must have 3 ranks in Knowledge (nature); **Cost** 5,250 gp
+
 ### Goodberry Bush
 
 **Aura** faint transmutation; **CL** 1st  
@@ -102,6 +139,17 @@ These thick green vines grow leaves sparingly. When fully mature, they fill an a
 Grabbing vines have a 13-week growing season, though the season depends on when the vines were first cultivated; the grabbing vines return for 13 weeks during the same season each year.
 
 **Cultivation** Cultivate Magic Plant, entangle, cultivator must have 1 rank in Knowledge (nature); **Cost** 1,000 gp
+
+### Gravebane Petals
+
+**Aura** faint necromancy; **CL** 3rd  
+**Price** 16,000 gp; **Slot** none; **Weight** 50 lbs.
+
+When packed tightly within the mouth of a corpse or undead creature, the deep red petals of the gravebane flower prevent any decay, as if the corpse were under the effects of *gentle repose*, and they completely mask any stench with a sickly sweet fragrance. These effects persist for 1 month.
+
+A single bush grows one new flower each day, and it takes 1 month to accumulate enough gravebane petals to preserve a single corpse. The plant has a 52-week growing period.
+
+**Cultivation** Cultivate Magic Plant, gentle repose, cultivator must have 3 ranks in Knowledge (nature); **Cost** 8,000 gp
 
 ### Helping Hands Vine
 
