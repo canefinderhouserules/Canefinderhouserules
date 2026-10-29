@@ -153,3 +153,5 @@ Note that these values are approximate and based on the values for a campaign us
 ## Step 7: Details
 
 Once you have assigned all of the NPC's gear, all that remains is to fill out the details. Determine the character's attack and damage bonuses, CMB, CMD, initiative modifier, and Armor Class. If the character's magic items affect his skills or ability scores, make sure to take those changes into account. Determine the character's total hit points by assuming the average result. Finally, fill out any other important details, such as name, alignment, religion, and a few personality traits to round him out.
+
+See also [NPC Boons](npc-boons.md) for minor favors, skill bonuses and unique benefits NPCs can grant.
