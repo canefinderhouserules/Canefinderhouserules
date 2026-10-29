@@ -303,3 +303,5 @@ The following text is the property of Wizards of the Coast, Inc. and is Copyrigh
     Pathfinder Campaign Setting: Lost Treasures © 2014, Paizo Inc.; Authors: Judy Bauer, Savannah Broadway, John Compton, Ron Lundeen, Levi Miles, Justin Riddler, F. Wesley Schneider, Mike Shel, Christina Stiles, James L. Sutter, and Jerome Virnich.
 
     Pathfinder Campaign Setting: Artifacts & Legends © 2012, Paizo Publishing, LLC; Author: F. Wesley Schneider.
+
+    Pathfinder Campaign Setting: Aquatic Adventures © 2017, Paizo Inc.; Authors: Amber E. Scott and Mark Seifter.
