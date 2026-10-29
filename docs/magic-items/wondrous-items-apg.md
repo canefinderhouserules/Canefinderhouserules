@@ -138,7 +138,7 @@ The wearer of this simple glove can speak a command word to transform it into a 
 **Aura** faint conjuration (healing); **CL** 1st  
 **Slot** chest; **Price** 200 gp; **Weight** 1 lb.
 
-These linen bandages have the same color and softness as the feathers of a dove, but their antiseptic smell suggests a less natural origin. Any creature wrapped in these bandages recovers from wounds and ability damage each day as if receiving complete bed rest regardless of activity (Pathfinder RPG Core Rulebook 191). A creature actually receiving long- term care (from the Heal skill) or complete bed rest while wearing the bandages gains a +4 bonus to its effective level or Hit Dice when determining how many hit points it recovers each day. The bandages are destroyed once removed or when the wearer recovers all hit points and ability damage, whichever comes first.
+These linen bandages have the same color and softness as the feathers of a dove, but their antiseptic smell suggests a less natural origin. Any creature wrapped in these bandages recovers from wounds and ability damage each day as if receiving complete bed rest regardless of activity. A creature actually receiving long- term care (from the Heal skill) or complete bed rest while wearing the bandages gains a +4 bonus to its effective level or Hit Dice when determining how many hit points it recovers each day. The bandages are destroyed once removed or when the wearer recovers all hit points and ability damage, whichever comes first.
 
 **Requirements** Craft Wondrous Item, cure light wounds, lesser restoration, stabilize; **Cost** 100 gp
 

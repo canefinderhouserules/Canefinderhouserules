@@ -50,4 +50,4 @@ The following granted power replaces the speak with animals power of the Animal 
 
 *Exoskeleton (Su)*: As a swift action, you can grow an exoskeleton that grants you a +1 enhancement bonus to your natural armor and 1d4 temporary hit points + 1 for every 2 cleric levels you have. The natural armor bonus increases by 1 for every 5 cleric levels you have. The exoskeleton lasts for a number of rounds equal to your Cleric Level. You can use this ability a number of times per day equal to 3 + your Wisdom modifier.
 
-**Replacement Domain Spells**: 4th—*giant vermin*, 5th—*vermin shape II*, 8th—*summon nature’s ally VIII* (1d3 goliath stag beetles; *Pathfinder RPG Bestiary 2 44*).
+**Replacement Domain Spells**: 4th—*giant vermin*, 5th—*vermin shape II*, 8th—*summon nature’s ally VIII* (1d3 goliath stag beetles).

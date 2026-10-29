@@ -10,4 +10,4 @@
 
 This spell functions as possession, except you possess an object instead of a creature.
 
-A possessed object becomes capable of animation, gaining the statistics of an animated object of its size (including 1 CP worth of abilities; Pathfinder RPG Bestiary 14). You can’t use any spells or other abilities while possessing an object. A spiritual tether connects your body to the possessed object, in a manner similar to a silver cord. If the possessed object and your body are ever farther than close range (25 ft. + 5 ft./2 levels) from one another, this tether breaks, returning your consciousness to your body.
+A possessed object becomes capable of animation, gaining the statistics of an animated object of its size (including 1 CP worth of abilities). You can’t use any spells or other abilities while possessing an object. A spiritual tether connects your body to the possessed object, in a manner similar to a silver cord. If the possessed object and your body are ever farther than close range (25 ft. + 5 ft./2 levels) from one another, this tether breaks, returning your consciousness to your body.

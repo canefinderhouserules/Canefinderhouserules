@@ -93,7 +93,7 @@ An echo of the First World functions (and is designed) as a haunt, but unlike ha
 
 **Effect** As soon as a Small or larger creature enters the area of a dimensional tear, it is affected as if by plane shift and must succeed at a Will save (DC 21) or be immediately transported to the First World. When this occurs, a creature from the First World (determined randomly from the summon nature’s ally VI list) is teleported to a space adjacent to the echo, determined by the GM. The creature has a starting attitude of hostile.
 
-**Overcharge** Determine the First World creature called using the summon nature’s ally VII list instead, and then add the fey creature template (Pathfinder RPG Bestiary 4).
+**Overcharge** Determine the First World creature called using the summon nature’s ally VII list instead, and then add the fey creature template.
 
 **Destruction** A character with plane shift prepared can attempt to counterspell the echo’s effect. Successfully doing so destroys the dimensional tear.
 

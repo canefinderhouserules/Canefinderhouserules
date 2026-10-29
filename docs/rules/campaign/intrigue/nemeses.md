@@ -55,7 +55,7 @@ These stratagems tend to be simple, as well as less costly and vicious. They are
 
 **XP Reward**: low
 
-The nemesis uses extra resources against the PCs. In either a combat with the nemesis or against a group the nemesis supports, the nemesis or group receives a 25% increase in their wealth per level, typically applied to consumable gear that the opposition uses before the fight to bolster their abilities. In a noncombat encounter, the affluence stratagem grants the nemesis or a group the nemesis supports a modest advantage at a task in which they are competing against the PCs. For example, if a PC and the nemesis are engaged in a verbal duel, the nemesis gains 3 edges (representing access to better training, ringers in the audience, or bribes; see pages 176–181).
+The nemesis uses extra resources against the PCs. In either a combat with the nemesis or against a group the nemesis supports, the nemesis or group receives a 25% increase in their wealth per level, typically applied to consumable gear that the opposition uses before the fight to bolster their abilities. In a noncombat encounter, the affluence stratagem grants the nemesis or a group the nemesis supports a modest advantage at a task in which they are competing against the PCs. For example, if a PC and the nemesis are engaged in a verbal duel, the nemesis gains 3 edges (representing access to better training, ringers in the audience, or bribes).
 
 **Opportunities**: The nemesis accidently reveals something personal about his background, where his wealth comes from, who manages his money, or that it comes from an illicit source.
 
@@ -149,7 +149,7 @@ The nemesis discovers the PCs’ eventual destination while they are on a quest,
 
 The nemesis sends one or more agents ahead of the PCs as they are traveling or resting, tasking them with manufacturing obstacles to slow the PCs down. Simple dangers that the agents might devise, and that provide a low XP reward, include obstructing the PCs’ travels by destroying a bridge, stealing the
 
-PCs’ mounts, or luring ordinary animals to the PCs’ camp to cause havoc. More threatening obstacles that provide a medium XP reward include locking the PCs inside a building and setting it on fire, triggering an avalanche, or provoking a dangerous creature to attack the PCs. To use this stratagem, the nemesis must have already used a tail stratagem against the PCs at least once (or have another way of knowing where the PCs are going, such as if the PCs are pursuing the nemesis; see pages 142–147).
+PCs’ mounts, or luring ordinary animals to the PCs’ camp to cause havoc. More threatening obstacles that provide a medium XP reward include locking the PCs inside a building and setting it on fire, triggering an avalanche, or provoking a dangerous creature to attack the PCs. To use this stratagem, the nemesis must have already used a tail stratagem against the PCs at least once (or have another way of knowing where the PCs are going, such as if the PCs are pursuing the nemesis).
 
 **Opportunities**: The trap the nemesis’s agents set up reveal a threat that might be used against the nemesis on the return trip. Tempting creatures into the PCs’ camp might also give those beasts the scent of the nemesis and his agents, with unintended consequences.
 

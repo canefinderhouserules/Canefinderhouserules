@@ -294,7 +294,7 @@ The suggested options for a cleric vary based on the cleric’s domains. Conside
 
 **Community**: Remove minor condition.
 
-**Darkness**: See in darkness (Pathfinder RPG Bestiary 3 299).
+**Darkness**: See in darkness.
 
 **Death**: Bleed, negative healing.
 
@@ -562,7 +562,7 @@ The mystery an oracle possesses can alter her abilities significantly. Consider 
 
 **Nature**: Animal talker, vampiric attack (ranged).
 
-**Stone**: Earth glide (Pathfinder RPG Bestiary 3 294), magic attack (bludgeoning), metamagic spell (earth spells only).
+**Stone**: Earth glide, magic attack (bludgeoning), metamagic spell (earth spells only).
 
 **Waves**: Magic attack (cold, melee touch attack), magic weapon (cold energy), metamagic spell (cold or water spell).
 
@@ -676,7 +676,7 @@ Sorcerers draw magical power from a quirk in their heritage, the remnant of a pa
 
 A sorcerer’s bloodline provides several additional powers. Consider the following options if a bloodline ability is particularly important to the sorcerer. Any creature with a theme similar to a sorcerer bloodline might also draw from the appropriate bloodline’s list of options. See Step 7 for descriptions of monster options.
 
-**Aberrant**: Fortification (as the universal monster rule, Pathfinder RPG Bestiary 4 294), magic attack (acid).
+**Aberrant**: Fortification (as the universal monster rule), magic attack (acid).
 
 **Abyssal**: Use two natural attacks instead of weapon attacks, resistance (electricity).
 
@@ -820,7 +820,7 @@ All subtype abilities are added automatically; none are optional. They’re mean
 
 ### Subtype Entries
 
-The following subtypes cover all those presented from the first Bestiary through Pathfinder RPG Bestiary 4, with the exception of those that either don’t grant significant abilities or have such an impact on the monster that a graft can’t cover them. Those subtypes appear in the “Other Subtypes” sidebar.
+The following subtypes cover all those presented from the first Bestiary through the fourth Bestiary, with the exception of those that either don’t grant significant abilities or have such an impact on the monster that a graft can’t cover them. Those subtypes appear in the “Other Subtypes” sidebar.
 
 **Aeon**: Gain a deflection bonus to AC equal to 1/4 CR; options—energy resistance 10 (electricity and fire), immunity (cold, poison, and critical hits).
 

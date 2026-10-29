@@ -14,35 +14,3 @@ In addition to its other abilities, a *truthful* weapon functions as a special k
 #### Construction
 
 **Requirements** Craft Magic Arms and Armor, *greater dispel magic, true strike*; **Price** —
-
-
-## Unholy
-
-**Aura** moderate evocation **CL** 7th
-
-**Slot** weapon quality; **Price** +2 bonus; **Weight** —
-
-### Description
-
-An *unholy* weapon is imbued with unholy power. This power makes the weapon evil-aligned and thus bypasses the corresponding damage reduction. It deals an extra 2d6 points of damage against all creatures of good alignment. It bestows one permanent negative level on any good creature attempting to wield it. The negative level remains as long as the weapon is in hand and disappears when the weapon is no longer wielded. This negative level cannot be overcome in any way (including *restoration* spells) while the weapon is wielded.
-
-### Construction
-
-**Requirements** Craft Magic Arms and Armor, *unholy blight*, creator must be evil; **Price** —
-
-
-
-## Unseen
-
-**Aura** moderate illusion **CL** 7th
-
-**Slot** none; **Price** +2 bonus; **Weight** —
-
-### Description
-
-This special ability can be placed only on a melee weapon. Upon command, an *unseen* weapon can be made invisible, including any scabbard, sheath, or similar accessory used to hold the weapon. A careful search will still reveal its presence, but purely visual examination will not. While invisible, an *unseen* weapon causes its wielder to take a –1 penalty on attack rolls unless she has the Blind-Fight feat or is able to see invisible objects. On the first attack made with an *unseen* weapon during a combat, the defender is denied its Dexterity bonus to Armor Class unless it has the Blind-Fight feat, is able to see invisible objects, or is specifically aware that the wielder is using an *unseen* weapon. An *unseen* weapon is considered to have total concealment for attacks or effects directed at it, such as combat maneuver checks made to disarm, steal, or sunder it and *disintegrate* or *rusting grasp*.
-
-### Construction
-
-**Requirements** Craft Magic Arms and Armor, *greater invisibility*; **Price** —
-

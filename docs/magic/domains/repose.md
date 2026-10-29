@@ -28,7 +28,7 @@
 ***Associated Domain(s)**: Repose*
 
 
-***Replacement Power**: The following granted power replaces the death’s embrace ability of the Death domain or the ward against death ability of the Repose domain. Psychopomps are a race of neutral outsiders (Pathfinder RPG Bestiary 4 217).*
+***Replacement Power**: The following granted power replaces the death’s embrace ability of the Death domain or the ward against death ability of the Repose domain. Psychopomps are a race of neutral outsiders.*
 
 *Spirit Touch (Su): At 6th level, as a swift action, you can give your natural weapons or any weapons you wield the ghost touch weapon special ability. You can use this power a number of rounds per day equal to your cleric level. These rounds need not be consecutive.*
 

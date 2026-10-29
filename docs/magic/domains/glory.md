@@ -68,7 +68,7 @@
 ***Associated Domain(s)**: Glory*
 
 
-***Replacement Power**: In campaigns that use the optional hero point system (Pathfinder RPG Advanced Player’s Guide 322), you gain Hero’s Fortune (Advanced Player’s Guide 324) as a bonus feat. Otherwise, you gain Marked for Glory (Pathfinder RPG Mythic Adventures 69) as a bonus feat, even if you do not meet its prerequisites. These replace the Glory domain’s increased save DC when channeling positive energy. In addition, the following granted power replaces the divine presence power of the Glory domain.*
+***Replacement Power**: In campaigns that use the optional hero point system (Pathfinder RPG Advanced Player’s Guide 322), you gain Hero’s Fortune (Advanced Player’s Guide 324) as a bonus feat. Otherwise, you gain Marked for Glory as a bonus feat, even if you do not meet its prerequisites. These replace the Glory domain’s increased save DC when channeling positive energy. In addition, the following granted power replaces the divine presence power of the Glory domain.*
 
 *Witness the Legend (Su): At 4th level, as a move action, you can extol the virtues of yourself or an ally within 60 feet that you can see. This causes the target to shed light like a torch for 1 minute, and while the effect lasts, you can expend a daily use of your touch of glory domain ability as an immediate action to add 1d6 to an attack, saving throw, skill check, or ability check attempted by the target; for a roll to confirm a critical hit or save against a fear effect, you instead add 1d12. You can use this ability once per day at 4th level and one additional time per day for every 2 levels beyond 4th.*
 

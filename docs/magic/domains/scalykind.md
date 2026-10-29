@@ -4,9 +4,9 @@
 
 ***Granted Powers**: You are a true lord of reptiles, and your gaze can drive weak creatures into unconsciousness.*
 
-*Venemous Stare (Sp): As a standard action, you can activate a gaze attack with a 30-foot range (Pathfinder RPG Bestiary 300). This is an active gaze attack that can target a single creature within range. The target must make a Will save (DC = 10 + 1/2 your cleric level + your Wisdom modifier). Those that fail take 1d6 points of nonlethal damage + 1 point for every two cleric levels you possess and are fascinated until the beginning of your next turn. You can use this ability a number of times per day equal to 3 + your Wisdom modifier. This is a mind-affecting effect.*
+*Venemous Stare (Sp): As a standard action, you can activate a gaze attack with a 30-foot range. This is an active gaze attack that can target a single creature within range. The target must make a Will save (DC = 10 + 1/2 your cleric level + your Wisdom modifier). Those that fail take 1d6 points of nonlethal damage + 1 point for every two cleric levels you possess and are fascinated until the beginning of your next turn. You can use this ability a number of times per day equal to 3 + your Wisdom modifier. This is a mind-affecting effect.*
 
-*Serpent Companion (Ex): At 4th level, you gain the service of an animal companion. Your effective druid level for this animal companion is equal to your cleric level –2. You may choose either a viper or a constrictor snake (Pathfinder RPG Core Rulebook 54) as your companion.*
+*Serpent Companion (Ex): At 4th level, you gain the service of an animal companion. Your effective druid level for this animal companion is equal to your cleric level –2. You may choose either a viper or a constrictor snake as your companion.*
 
 ***Domain Spells**: 1st—magic fang, 2nd—animal trance, 3rd—greater magic fang, 4th—poison, 5th—animal growth\*, 6th—eyebite, 7th—creeping doom (takes the form of Diminutive-sized reptiles), 8th—animal shapes\*, 9th—shapechange.\*Only reptiles.*
 

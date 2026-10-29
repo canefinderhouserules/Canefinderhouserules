@@ -16,7 +16,7 @@
 ***Associated Domain(s)**: Knowledge*
 
 
-***Replacement Power**: The following granted power replaces the remote viewing ability of the Knowledge domain. Aeons are a race of neutral outsiders (Pathfinder RPG Bestiary 2 8).*
+***Replacement Power**: The following granted power replaces the remote viewing ability of the Knowledge domain. Aeons are a race of neutral outsiders.*
 
 *Void Form (Su): At 6th level, you can become semi-tangible as a standard action. While in this form, you are immune to critical hits and gain a +1 deflection bonus to AC. This bonus increases by 1 at 8th level and every 4 levels thereafter. You can use this power a number of rounds per day equal to your cleric level. These rounds need not be consecutive.*
 

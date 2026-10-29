@@ -42,7 +42,7 @@
 
 ***Replacement Power**: The following granted power replaces the wooden fist power of the Plant domain.*
 
-*Leshy Caller (Sp): You can spontaneously swap out any of your domain spells for a summon nature’s ally spell of the same level or lower, to a maximum of summon nature’s ally VII. If you do, you must use the spell to summon one or more leshys. Add leaf leshy, gourd leshy, fungus leshy, seaweed leshy, and lotus leshy to your summon nature’s ally I, II, III, IV, and V lists, respectively. You count as a plant creature for the purpose of creating leshys (Pathfinder RPG Bestiary 3 176).*
+*Leshy Caller (Sp): You can spontaneously swap out any of your domain spells for a summon nature’s ally spell of the same level or lower, to a maximum of summon nature’s ally VII. If you do, you must use the spell to summon one or more leshys. Add leaf leshy, gourd leshy, fungus leshy, seaweed leshy, and lotus leshy to your summon nature’s ally I, II, III, IV, and V lists, respectively. You count as a plant creature for the purpose of creating leshys.*
 
 *As a standard action, you can grant a single leshy within 30 feet a +4 sacred bonus on its next attack roll before the start of your next turn. You can use this ability a number of times per day equal to 3 + your Wisdom modifier.*
 

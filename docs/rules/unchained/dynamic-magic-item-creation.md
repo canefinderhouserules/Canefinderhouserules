@@ -831,7 +831,7 @@ Quirks are oddities that make an item unusual in a way that’s generally neithe
 
 **Color-Altering**: The color of the bearer’s eyes, hair, or skin changes when she carries or wears the item.
 
-**Convergent**: The item is connected to another plane, bringing its bearer into telepathic contact with an otherworldly entity. The entity can communicate with the bearer to serve its own ends. Choose an appropriate entity or choose randomly from among outsider subtypes. The entity shouldn’t be a being that can cause harm to the bearer through telepathic contact, such as a star-spawn of Cthulhu (Pathfinder RPG Bestiary 4 254).
+**Convergent**: The item is connected to another plane, bringing its bearer into telepathic contact with an otherworldly entity. The entity can communicate with the bearer to serve its own ends. Choose an appropriate entity or choose randomly from among outsider subtypes. The entity shouldn’t be a being that can cause harm to the bearer through telepathic contact, such as a star-spawn of Cthulhu.
 
 **Decorous**: The item activates only if the user says “please” and ceases function for 1 hour if the user doesn’t thank it afterward.
 

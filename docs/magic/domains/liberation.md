@@ -46,4 +46,4 @@
 
 *Perfected Form (Su): You maintain an unshakable sense of who you are, and no force can compel you to be anything else. You gain a +1 sacred (if your patron is good or neutral) or profane (if your patron is evil) bonus on saving throws against polymorph, petrification, and transmutation effects. This bonus increases by 1 for every 5 cleric levels you have (maximum +5). Once per day when you succeed at a saving throw against such an effect, you can gain a surge of self-confidence as an immediate action that grants you a number of temporary hit points equal to your cleric level and a +2 morale bonus on attack rolls, skill checks, and saving throws; both effects last for 1 minute.*
 
-***Replacement Domain Spells**: 4th—paragon surge (Pathfinder RPG Advanced Race Guide 48; always matches your actual race), 6th—primal scream, 7th—transformation.*
+***Replacement Domain Spells**: 4th—paragon surge (always matches your actual race), 6th—primal scream, 7th—transformation.*

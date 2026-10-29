@@ -22,7 +22,7 @@ A warpriest can select any two blessings. Each blessing is named after the domai
 
 **Anarchic Strike (minor)**: At 1st level, you can touch one weapon and grant it a chaotic blessing. For 1 minute, this weapon glows yellow or purple and deals an additional 1d6 points of damage against lawful creatures. During this time, it's treated as chaotic for the purposes of overcoming damage reduction. This blessing's additional damage doesn't stack with the additional damage from the anarchic weapon special ability.
 
-**Battle Companion (major)**: At 10th level, you can summon a battle companion. This ability functions as summon monster IV with a duration of 1 minute, but for only a chaotic outsider or an animal with the entropic creature simple template (Pathfinder RPG Bestiary z 293). This ability can summon only one creature, regardless of the list used. For every 2 levels beyond 10th, the level of the summon monster spell increases by 1 (to a maximum of summon monster IX at 20th level).
+**Battle Companion (major)**: At 10th level, you can summon a battle companion. This ability functions as summon monster IV with a duration of 1 minute, but for only a chaotic outsider or an animal with the entropic creature simple template. This ability can summon only one creature, regardless of the list used. For every 2 levels beyond 10th, the level of the summon monster spell increases by 1 (to a maximum of summon monster IX at 20th level).
 
 ## Charm Blessing
 
