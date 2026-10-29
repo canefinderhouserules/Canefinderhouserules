@@ -306,6 +306,4 @@ The following text is the property of Wizards of the Coast, Inc. and is Copyrigh
 
     Pathfinder Campaign Setting: Aquatic Adventures © 2017, Paizo Inc.; Authors: Amber E. Scott and Mark Seifter.
 
-    Pathfinder Campaign Setting: Path of the Hellknight © 2016, Paizo Inc.; Authors: Amanda Hamon Kunz, Mikko Kallio, and Mark Moreland.
 
-    Pathfinder Campaign Setting: Planes of Power © 2015, Paizo Inc.; Authors: Jesse Benner, Jason Bulmahn, Ben McFarland, Tom Phillips, Tork Shaw, Stephen Radney-MacFarland, and Mike Shel.
