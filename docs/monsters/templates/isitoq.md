@@ -1,0 +1,3 @@
+# Isitoq Template
+
+A spellcaster can create an isitoq from the head of a Small or Medium corpse that has at least one intact eye. The head must be animated as a 1 Hit Die undead using animate dead (this counts toward the total HD animated by the spell and the total HD the caster can control), followed by casting clairaudience/clairvoyance or locate object to establish the sensory connection, and air walk, fly, levitate, or wind wall to give it the ability to fly. When these spells are finished, one of the head’s eyes pulls itself free of its socket and becomes an isitoq. The rest of the head remains part of a corpse. An evil spellcaster with the Improved Familiar feat can gain an isitoq as a familiar at 5th level.

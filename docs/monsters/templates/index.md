@@ -1,0 +1,68 @@
+# Monster Templates
+
+A template is a set of rules applied to a base creature to turn it into a different monster; see [Monster Advancement](../monster-advancement.md) for how templates work. The [simple templates](simple-templates.md) (advanced, celestial, degenerate, entropic, fiendish, giant, resolute and young) can be applied during play with a single line of changes.
+
+## Undead
+
+- [Ghost](ghost.md)
+- [Graveknight](graveknight.md)
+- [Jiang-Shi](jiang-shi.md)
+- [Juju Zombie](juju-zombie.md)
+- [Lich](lich.md)
+- [Mummified Creature](mummified-creature.md)
+- [Mummy Lord](mummy-lord.md)
+- [Necrocraft](necrocraft.md)
+- [Nosferatu](nosferatu.md)
+- [Penanggalen](penanggalen.md)
+- [Ravener](ravener.md)
+- [Skeletal Champion](skeletal-champion.md)
+- [Skeleton](skeleton.md)
+- [Spore Zombie](spore-zombie.md)
+- [Vampire](vampire.md)
+- [Worm That Walks](worm-that-walks.md)
+- [Zombie](zombie.md)
+- [Zombie Lord](zombie-lord.md)
+
+## Planar and Bloodline
+
+- [Devilbound Creature](devilbound.md)
+- [Divine Guardian](divine-guardian.md)
+- [Half-Celestial](half-celestial.md)
+- [Half-Dragon](half-dragon.md)
+- [Half-Fiend](half-fiend.md)
+- [Nightmare Creature](nightmare-creature.md)
+- [Ogrekin](ogrekin.md)
+- [Petitioner](petitioner.md)
+- [Shadow Creature](shadow-creature.md)
+- [Shadow Lord](shadow-lord.md)
+- [Fey Creature](fey-creature.md)
+- [Foo Creature](foo-creature.md)
+- [Imperial Foo](imperial-foo.md)
+- [Vahana](vahana.md)
+
+## Other
+
+- [Alter Ego](alter-ego.md)
+- [Animal Lord](animal-lord.md)
+- [Animus Shade](animus-shade.md)
+- [Blighted Fey](blighted-fey.md)
+- [Broken Soul](broken-soul.md)
+- [Ectoplasmic Creature](ectoplasmic.md)
+- [Entothrope](entothrope.md)
+- [Exoskeleton](exoskeleton.md)
+- [Fungal Creature](fungal-creature.md)
+- [Fungoid Creature](fungoid.md)
+- [Hivemind Swarm](hivemind-swarm.md)
+- [Isitoq](isitoq.md)
+- [Lotus Creature](lotus.md)
+- [Lycanthrope](lycanthrope.md)
+- [Mongrel Giant](mongrel-giant.md)
+- [Mutant](mutant.md)
+- [Plagued Beast](plagued-beast.md)
+- [Pod-Spawned Creature](pod-spawned.md)
+- [Siabrae](siabrae.md)
+- [Taxidermic Creature](taxidermic-creature.md)
+- [Tsukumogami](tsukumogami.md)
+- [Tulpa](tulpa.md)
+- [Unfettered Eidolon](unfettered-eidolon.md)
+
