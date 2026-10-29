@@ -295,3 +295,5 @@ The following text is the property of Wizards of the Coast, Inc. and is Copyrigh
     Pathfinder Campaign Setting: Construct Handbook © 2018, Paizo Inc.; Authors: Brian Duckwitz, Andrew Hoskins, Nathan King, Kris Leonard, Luis Loza, Adrian Ng, Tom Phillips, Alex Riggs, and Nicholas Wasko.
 
     Pathfinder Campaign Setting: Path of the Hellknight © 2016, Paizo Inc.; Author: F. Wesley Schneider.
+
+    Pathfinder Campaign Setting: Ships of the Inner Sea © 2014, Paizo Inc.; Authors: Benjamin Bruck, Paris Crenshaw, Chris A. Jackson, Amanda Hamon Kunz, Philip A. Lee, and John Mangrum.

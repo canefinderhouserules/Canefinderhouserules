@@ -44,3 +44,11 @@ A ship gains the sinking condition if its hit points are reduced to 0 or fewer. 
 - **Ram**: The damage the ship inflicts on a successful ramming attack (without a ram siege engine).
 - **Squares**: The number of squares the ship takes up on the battle mat. A ship's width is always one square.
 - **Crew**: The first number is the minimum crew the ship needs to function normally, excluding those needed to use the vessel's weapons. The second is the maximum crew plus additional soldiers or passengers. A ship without its minimum crew can only move, change speed, change direction, or ram if its captain makes a DC 20 Profession (sailor) check. Crew in excess of the minimum have no effect on movement, but they can replace fallen crewmembers or man additional weapons.
+
+## Plunder
+
+When a party takes a ship, record its cargo as points of plunder. As a general rule, 1 point of plunder is worth about 1,000 gp and takes up about 1 ton of cargo capacity. Tracking a ship's value as plunder points (rather than raw treasure) helps a GM keep player characters from obtaining too much gold too quickly, since a vessel's price, cargo, and crew gear can all but guarantee deviation from the expected wealth by level.
+
+## Nautical Weapons
+
+Seafaring weapons such as cutlasses and boarding pikes differ in description from other weapons but not in statistics: a cutlass is statistically identical to a scimitar, and a boarding pike is statistically identical to a longspear.
