@@ -1,9 +1,23 @@
 # Shabti
 
-!!! note "Source note"
-    The core shabti racial traits come from a different source that is not yet in this wiki. The options below replace or modify those traits.
-
 Granted a mortal's face and a mortal's name, shabti are mystic simulacra of rulers who feared both death and the afterlife their actions had earned. Shabti are created to serve out a mortal's punishment in the afterlife in that mortal's place, but some manage to escape or are freed from their unjust sentences by psychopomps. Freed shabti often venture out into the planes to find their own paths.
+
+## Standard Racial Traits
+
+Shabti are facsimiles of wealthy or powerful mortals seeking to escape judgement for their sins upon death. Grown from broken bits of mortal souls, shabti endure whatever cosmic punishments or labor might await their creators in the afterlife unless they are discovered and freed by psychopomps. Shabti typically look like idealized humans with perfect physiques and flawless features. They usually stand 6 feet tall and weigh around 175 pounds. Liberated shabti often explore the planes, seeking to replace their false memories with unique experiences.
+
+- **Ability Score Racial Traits**: Shabti gain +2 Constitution and +2 Charisma: they have powerful bodies and presences to match.
+- **Type**: Shabti are outsiders with the native subtype.
+- **Size**: Shabti are Medium creatures and receive no bonuses or penalties due to their size.
+- **Base Speed**: Shabti have a base speed of 30 feet.
+- **Languages**: Shabti begin play speaking Common. Those with high Intelligence scores can choose any languages they want (except secret languages, such as Druidic).
+- **Darkvision**: Shabti can see in the dark up to 60 feet.
+- **Immortal**: Shabti do not age naturally and can't die of old age. While some might come into being at age categories other than adulthood, they never leave their original age categories. Spells and effects that cause aging affect a shabti as normal.
+- **Immune to Undeath**: Shabti can't become undead. Spells and abilities that would transform a shabti into an undead creature have no effect.
+- **Past-Life Knowledge**: Shabti remember bits of their past lives. As a result, they treat all Knowledge skills as class skills.
+- **Resist Level Drain**: A shabti takes no penalties from energy drain effects, though it can still be killed if it accrues more negative levels than it has Hit Dice. After 24 hours, any negative levels a shabti takes are automatically removed without the need for additional saving throws.
+- **Shattered Soul**: Shabti who are killed are exceptionally difficult to return to life. Anyone who attempts to return a shabti to life using *raise dead*, *resurrection*, or a similar spell must succeed at a caster level check whose DC is equal to 10 + the shabti's Hit Dice. If it fails, the spell fails and the caster can't return the shabti to life for the next 24 hours (though the caster can try again after this period).
+- **Spell-Like Ability**: A shabti can use *suggestion* once per day as a spell-like ability, with a caster level equal to the shabti's class level.
 
 ## Alternate Racial Traits
 

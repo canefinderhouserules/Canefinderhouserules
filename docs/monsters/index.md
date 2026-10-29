@@ -11,6 +11,8 @@ Rules for understanding, building, and advancing monsters. Individual monster st
 - [Creature Subtypes](creature-subtypes.md): additional traits granted by subtypes.
 - [Monster Creation](monster-creation.md): guidelines and tables for building a monster by Challenge Rating.
 - [Monster Advancement](monster-advancement.md): adding Hit Dice and class levels, and applying templates.
+- [Monster Feats](monster-feats.md): Ability Focus, Flyby Attack, Multiattack and the other feats built for monsters.
+- [Monsters as PCs](monsters-as-pcs.md): guidelines for playing monsters as player characters.
 - [Monster Templates](templates/index.md): simple templates plus undead, planar and other templates from the Bestiary books.
 
 ## Monsters by Source

@@ -1,0 +1,23 @@
+# Astomoi
+
+These mysterious humanoids require no food—indeed, they have no mouths—and they have no eyes with which to survey their environment. Instead, they rely on their powerful minds to sense the world around them, and subsist on nutrients absorbed from the air. This can turn against them, however, as powerful smells and inhaled poisons can render an astomoi helpless. Predisposed to asceticism, astomoi rarely wear more than rags, if they wear anything at all.
+
+An astomoi appears to be made of darkness, and has no discernible ears, eyes, mouth, or nose.
+
+## Astomoi Racial Traits
+
+**–2 Constitution, +2 Intelligence, +2 Wisdom**: Astomoi ever pursue enlightenment through self-denial and are psychically attuned to their surroundings, but their delicate bodies are more susceptible to the physical dangers of the world.
+
+**Medium**: Astomoi are Medium creatures and have no bonuses or penalties due to their size.
+
+**Normal Speed**: Astomoi have a base speed of 30 feet.
+
+**Scent**: Astomoi have the scent special ability.
+
+**Telepathic Senses (Ex)**: Astomoi can't speak or see, but can mentally sense the area within 60 feet, as per darkvision, and can speak telepathically. An astomoi can't see anything beyond 60 feet. An astomoi must provide thought components for spells that normally require verbal components. It can use language-dependent abilities with its telepathy, but not abilities that depend on audible components.
+
+**Sensitive Breath (Ex)**: Astomoi take a –2 penalty on saving throws against disease and inhaled poisons.
+
+**Mouthless (Ex)**: Astomoi don't need to eat or drink to survive. Instead, they absorb the essence of food and drink; this consumes the nutrients of the meal as though it had been eaten, rendering the food useless to others. Astomoi consume potions and other ingested materials in the same fashion. Since they never actually ingest anything, they can't normally be exposed to ingested poisons.
+
+**Languages**: Astomoi begin play knowing Common, but as they have no mouths, they cannot speak. They have telepathy with a range of 100 feet. Astomoi with high Intelligence scores can choose any of the following languages: Abyssal, Aklo, Celestial, Elven, Gnome, Infernal, and Sylvan.

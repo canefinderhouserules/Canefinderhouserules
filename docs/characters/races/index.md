@@ -66,6 +66,16 @@ Fourteen uncommon races, each with alternate racial traits, favored class option
 - [Vishkanyas](vishkanyas.md)
 - [Wayangs](wayangs.md)
 
+## Bestiary Races
+
+Monsters that the Bestiary books present as playable races (they have no racial Hit Dice). See also [Monsters as PCs](../../monsters/monsters-as-pcs.md).
+
+- [Astomoi](astomoi.md): mouthless, eyeless telepathic ascetics.
+- [Monkey Goblins](monkey-goblins.md): tree-dwelling goblins with prehensile tails.
+- [Naiads](naiads.md): fey guardians of fresh water.
+- [Reptoids](reptoids.md): shapechanging infiltrators with mind-affecting talents.
+- [Yaddithians](yaddithians.md): ancient starfaring scholars.
+
 ## Building New Races
 
 To create a new race of your own, see the [Race Builder](../../rules/race-builder/index.md).
@@ -89,7 +99,7 @@ Aquatic elves, cecaelias, locathahs and tritons are sea-dwelling peoples suited 
 
 ## Planar Scions
 
-Races with origins tied to the Great Beyond. Aphorites, duskwalkers, and ganzis include full racial traits; the shabti page holds only its options.
+Races with origins tied to the Great Beyond. Aphorites, duskwalkers, ganzis, and shabti include full racial traits.
 
 - [Aphorites](aphorites.md): alternate racial traits, feats, and favored class options.
 - [Duskwalkers](duskwalkers.md): alternate racial traits, feats, origin feats, and favored class options.
