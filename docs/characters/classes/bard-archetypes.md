@@ -110,6 +110,20 @@ You speak of the horrors of a demonic rift, retelling tales of helpless warriors
 
 **Action**: 1 full round.
 
+### Deception's Undoing (Act, Comedy, Oratory)
+
+These stories of wiliness and mystery inspire listeners to see through deceptions.
+
+**Prerequisites**: Perform (comedy) 5 ranks or Perform (oratory) 5 ranks.
+
+**Cost**: Feat or 2nd-level bard spell known.
+
+**Effect**: While performing this masterpiece, you gain a +4 bonus on saving throws to disbelieve illusions. You can expend 1 round of bardic performance for each ally other than yourself whom you want to gain this bonus.
+
+**Use**: 1 bardic performance round per round, +1 round per ally affected.
+
+**Action**: 1 full round.
+
 ### Dirge of the Torn Sail (Sing, String)
 
 Your ominous refrain warns away those who would trespass in your domain.
@@ -293,6 +307,20 @@ You lecture your audience on the merits of studious endeavors and inspire them w
 **Use**: 2 rounds of bardic performance.
 
 **Action**: 1 minute.
+
+### Tales of Twisting Steel (Act, Oratory)
+
+This medley of tales inspires listeners to new heights of bravery and self-sacrifice.
+
+**Prerequisites**: Perform (act) 3 ranks or Perform (oratory) 3 ranks.
+
+**Cost**: Feat or 2nd-level bard spell known.
+
+**Effect**: When you complete the performance, choose one adjacent creature. You and that creature are affected as if you had cast *shield other*.
+
+**Use**: 3 bardic performance rounds.
+
+**Action**: 3 rounds.
 
 ### The Cat-Step (Dance)
 

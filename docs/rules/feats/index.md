@@ -1499,6 +1499,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Alchemical Strike](alchemical-strike.md) | Combat | Throw Anything, base attack bonus +6 |
 | [Align Equipment](align-equipment.md) | General | Alignment Channel, Bless Equipment, caster level 3rd, channel energy class feature |
 | [Aligned Crafting](aligned-crafting.md) | Item Creation | Craft Magic Arms and Armor or Craft Wondrous Item |
+| [All-Consuming Swing](all-consuming-swing.md) | Combat | Str 13, Power Attack, Cleave, Vital Strike, base attack bonus +8 |
 | [Ally Caller](ally-caller.md) | — | Triton, *summon nature's ally II* spell-like ability, character level 3rd |
 | [Ambuscading Spell](ambuscading-spell.md) | — | — |
 | [Ambush Sense](ambush-sense.md) | Combat | Int 13, trap sense class feature |
@@ -1580,6 +1581,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Battle Singer](battle-singer.md) | General | Goblin, bardic performance class feature |
 | [Beacon of Hope](beacon-of-hope.md) | — | Channel energy 3d6, worshiper of a deity of hope or uprising |
 | [Bear Hug](bear-hug.md) | Combat | Str 17, Beartrap Bite, Weapon Focus (bite), base attack bonus +8 |
+| [Bear's Balance](bears-balance.md) | Combat | Iron Will, rage class feature |
 | [Beartrap Bite](beartrap-bite.md) | Combat | Weapon Focus (bite), base attack bonus +6 |
 | [Beast Speaker](beast-speaker.md) | — | Handle Animal 7 ranks, animal companion with effective druid level 7 |
 | [Beast Speaker Mastery](beast-speaker-mastery.md) | — | Beast Speaker, character level equal to or higher than that listed in your companion's mastery entry |
@@ -1797,6 +1799,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Darting Viper](darting-viper.md) | Combat | Base attack bonus +4, proficiency with the dwarven dorn-dergar |
 | [Dastardly Trick](dastardly-trick.md) | Combat, Panache | Int 13; Amateur Swashbuckler or panache class feature; Combat Expertise; Improved Dirty Trick |
 | [Dead Inside](dead-inside.md) | Story | You have failed your saving throws against at least five different emotion-manipulating spells or your saving throw against a supernatural creature's fear effect (such as a dragon's frightful presence). |
+| [Deadly Dealer](deadly-dealer.md) | — | Arcane Strike, Sleight of Hand 5 ranks |
 | [Deadly Grappler](deadly-grappler.md) | Combat | Dex 13, Improved Grapple, Improved Unarmed Strike |
 | [Deadly Kiss](deadly-kiss.md) | — | Toxic racial trait, vishkanya |
 | [Deadly Troupe](deadly-troupe.md) | Teamwork | Perform (act) or Perform (dance) 3 ranks, human |
@@ -1981,6 +1984,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Fascinated by the Mundane](fascinated-by-the-mundane.md) | Story | You must have a fey ancestor somewhere in your family line, and you must have the Adopted by the Fey, Fey Meeting, or Met a Fantastic Creature background. |
 | [Fascination Jinx](fascination-jinx.md) | General | Bardic performance class feature, Halfling Jinx racial trait |
 | [Fast Change](fast-change.md) | — | Dex 13, base attack bonus +6, skinwalker |
+| [Fate-Deck Summoning](fate-deck-summoning.md) | — | Ability to cast conjuration (summoning) spells or use summoning spell-like abilities, a complete fate deck you own |
 | [Fateful Channel](fateful-channel.md) | — | Channel positive energy 3d6, worshiper of a deity of death and fate |
 | [Favored Community](favored-community.md) | — | Knowledge (local) 2 ranks, must have lived in the settlement for at least 1 year |
 | [Favored Prestige Class](favored-prestige-class.md) | — | — |
@@ -2308,6 +2312,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Mental Stare](mental-stare.md) | Stare | Hypnotic stare class feature |
 | [Merchant Combine Partner](merchant-combine-partner.md) | — | Associate (a merchant combine) |
 | [Merciful Takedown](merciful-takedown.md) | Combat | — |
+| [Merciless Beating](merciless-beating.md) | Combat | Int 13, Combat Expertise, Gang Up |
 | [Merciless Magic](merciless-magic.md) | General | Ability to cast spells, kobold |
 | [Merciless Precision](merciless-precision.md) | General | Sneak attack class feature, kobold |
 | [Merciless Rush](merciless-rush.md) | Combat | Improved Bull Rush, worshiper of a deity of destruction |

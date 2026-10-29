@@ -512,3 +512,27 @@ One of your ancestors bore witness to a phoenix's resurrection and formed a bond
 *Restoring Flames (Sp)*: At 15th level, you can cast *greater restoration* once per day as a spell-like ability.
 
 *Rebirth (Su)*: At 20th level, the full power of a phoenix erupts from within you if you perish. When you die, you are brought back to life, as *true resurrection*, after 1 minute. This ability can be used only once every 24 hours, and if you are slain again within this period, your death is permanent.
+
+## Fatebound
+
+Just as knowledge of the fate deck has passed from generation to generation since time immemorial, so too has a deep spiritual connection to the otherworldly forces bound by the cards passed through the ages. Your family line might trace back to an ancient clan of fortune-tellers, or one of your ancestors might have once escaped a realm of living cards, carrying its influence back in his blood. Regardless, your connection to the mysterious deck grants you magical power over the cards, visions of the future, and the ability to call down ephemeral forces.
+
+**Class Skill**: Knowledge (history).
+
+**Bonus Spells**: *Ill omen* (3rd), *augury* (5th), *clairaudience/clairvoyance* (7th), *shadow conjuration* (9th), *contact other plane* (11th), *legend lore* (13th), *vision* (15th), *moment of prescience* (17th), *weird* (19th).
+
+**Bonus Feats**: Alertness, Craft Wondrous Item, Extend Spell, Skill Focus (Knowledge [history]).
+
+**Bloodline Arcana**: Whenever you cast a divination spell that requires a percentage roll, add 5 to the result of your roll. In addition, you can roll the percentage dice twice and use the result you prefer. Your maximum percentage chance of receiving a meaningful and accurate reply for divination spells is 100%, instead of the usual 90%.
+
+**Bloodline Powers**: Your connection to the cards gives you uncanny insight into both the future and the motivations of mortals.
+
+*Twisted Fortune (Sp)*: At 1st level, you can use your supernatural insight to hijack the fortunes of a single target within 30 feet. For 1 round, the target becomes confused and cannot directly control its actions (Will negates). Once a creature has been affected by twisted fortune, it is immune to the ability's effects for 24 hours. You can use this ability a number of times per day equal to 3 + your Charisma modifier.
+
+*See It Coming (Su)*: At 3rd level, you gain a +1 luck bonus on the saving throw type of your choice (Fortitude, Reflex, or Will). As a full-round action, you can change which saving throw your luck bonus applies to. At 7th level and every 4 levels thereafter, this bonus increases by 1, to a maximum of +5 at 19th level.
+
+*Invoke the Deck (Su)*: At 9th level, you can draw a random card from a complete [fate deck](../../equipment/fate-deck.md) you own as a standard action and channel the aspects of the card into your body. You take on superficial traits featured on the card and gain a +4 enhancement bonus to the ability score associated with the card's suit. You can invoke the deck for a number of minutes per day equal to your sorcerer level; the duration need not be continuous, but it must be used in 1-minute increments.
+
+*Deck Realm (Sp)*: At 15th level, your otherworldly connection is so strong that your subconscious cleaves off a small portion of the realm of the cards for use as your own private sanctuary. Your deck realm is created the first time you use this ability, and is decorated as a garish reflection of your personality. Thereafter, you always visit this same home. You can place a portal to your deck realm once every 24 hours, but placing a new portal destroys the previous one, and you cannot move the entrance while you are inside. As long as you are not in your deck realm, time ceases to pass for anything and anyone still in your pocket dimension; creatures cannot move, objects do not decay, and everything remains exactly the same as you left it the last time you visited the plane. Time continues as normal whenever you are inside your deck realm. This ability is otherwise identical to *mage's magnificent mansion*.
+
+*Kin to the Old Tales (Su)*: At 20th level, your soul becomes host to the otherworldly energies of the cards. You gain DR 10/cold iron and immunity to curses, paralysis, and sleep. You can always act in the surprise round of combat, and you cannot be caught flat-footed. You gain unlimited use of your invoke the deck ability.

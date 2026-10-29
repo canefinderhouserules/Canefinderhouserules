@@ -6097,3 +6097,97 @@ This +1 firearm bullet deals no damage but instead dispels one magical effect on
 When the command word is spoken as a move action, this +1 morningstar transforms into a pendant in the shape of a single red rose that does not radiate magic. Only *true seeing* or similar magic reveals the true nature of this weapon. Once per day as part of an initiative check, as long as she holds the rose thorn in its pendant shape in one hand, the wielder can cause the pendant to instantaneously transform back into its +1 morningstar form. When she does so, the wielder of the rose thorn adds her Charisma bonus (minimum of +1) to her initiative check.
 
 **Construction Requirements:** Craft Arms and Armor, *magic aura*, *shrink item*; **Cost** 3,160 gp
+
+## Fate Deck Items
+
+### Backbiter's Focus
+
+**Slot** none; **CL** 7th; **Price** 7,800 gp; **Weight** 1 lb.
+
+**Aura** moderate evocation
+
+This small darkwood rod is adorned with a carving of a figure whose own weapon is curled backward as if to strike the figure. Three times per day, the user can speak the rod's command word to curse a single manufactured weapon within 30 feet. If the weapon is magical, it can attempt a DC 16 Will save to avoid the curse. Whenever the cursed weapon damages a creature, it deals half as much damage to its wielder as well; only the weapon's base damage and the wielder's Strength bonus are factored into this damage—bonus damage from a magic weapon's special abilities, from its wielder's class features and feats, or from other effects are not factored into the damage dealt to the wielder. This is a curse effect that lasts for 7 rounds.
+
+**Construction Requirements:** Craft Rod, *bestow curse*; **Cost** 4,900 gp
+
+### Bastion Boots
+
+**Slot** feet; **CL** 10th; **Price** 10,500 gp; **Weight** 4 lbs.
+
+**Aura** moderate transmutation
+
+These metal boots are engraved with the imagery of a great fortress, and evoke the unwavering determination it represents. The boots can be used as an *immovable rod*, even when worn. If the boots are moved, the wearer moves with the boots. Even while not activated, *bastion boots* grant the wearer a +4 bonus to her CMD against combat maneuvers to move her.
+
+**Construction Requirements:** Craft Wondrous Item, *levitate*; **Cost** 5,250 gp
+
+### Deck of Slivering Fate
+
+**Slot** none; **CL** 7th; **Price** 13,000 gp; **Weight** —
+
+**Aura** moderate evocation
+
+The 54 cards in this +1 *limning* [fate deck](../equipment/fate-deck.md) have more violent imagery than a standard deck, and each card has a thin metallic frill around its edges. When the wielder uses a card from this deck with the [Deadly Dealer](../rules/feats/deadly-dealer.md) feat, the metallic frills become taut and sharp. When they are used in this way, the cards deal slashing damage instead of piercing, and the bonus damage from the Arcane Strike feat is doubled.
+
+**Construction Requirements:** Craft Magical Arms and Armor, Craft Wondrous Item, Deadly Dealer, *magic missile*; **Cost** 6,500 gp
+
+### Fate-Reader's Lenses
+
+**Slot** none; **CL** 5th; **Price** 11,250 gp; **Weight** —
+
+**Aura** strong divination
+
+*Fate-reader's lenses* consist of two specially crafted fate decks. The decks sport a stylized image of an eye on the back of each card—one deck's eyes are red, and the other deck's eyes are blue. Each card in the red deck is linked to its corresponding card in the blue deck. The owner can peer through the eyes of any card from the red deck to see whatever is in front of the corresponding blue-eyed card, as if using *enter image*. The owner can peer through any red card at will; drawing a random card and peering through it is a standard action, while going through the deck and selecting a specific card is a full-round action. If the corresponding blue card is still shuffled in with the rest of the blue deck, it is automatically moved to the top of that deck, ready to be drawn by whoever bears it. Once a blue card is drawn, it can be placed on a creature's person with a successful Sleight of Hand check or stuck to any sturdy flat surface, where it remains until moved again by either you or another creature.
+
+Only a single pair of cards can have a visual link between them at any time, and placing a red card at the bottom of its deck causes the eye on the matching blue card to close, ending the visual link until the red card is peered through again. While the blue cards can be meted out and separated however the owner desires, the red cards lose their magic if separated from the red-eyed deck for more than 10 minutes. If a blue card or a red card is destroyed, the matching card of the opposite deck loses its magic.
+
+**Construction Requirements:** Craft Wondrous Item, *enter image*; **Cost** 5,625 gp
+
+### Earthshaking Plate
+
+**Slot** armor; **CL** 15th; **Price** 32,350 gp; **Weight** 75 lbs.
+
+**Aura** strong transmutation
+
+Three times per day, as an immediate action when struck by a melee attack while he is touching the ground, the wearer of this +1 *titanic* stone plate can cause the earth around him to shake, turning the area into difficult terrain. The radius of this effect is equal to 1d4 × 5 feet, and any creature in the affected area must succeed at a DC 15 Reflex save or fall prone.
+
+**Construction Requirements:** Craft Magical Arms and Armor, *earthquake*; **Cost** 17,150 gp
+
+### Silencing Marionette
+
+**Slot** none; **CL** 7th; **Price** 16,500 gp; **Weight** 2 lbs.
+
+**Aura** moderate enchantment
+
+Every *silencing marionette* appears as a hag with its lips sewn shut. The creator of a silencing marionette chooses a creature type or subtype from the ranger's list of favored enemies to which the doll is attuned. If the doll's owner is within 30 feet of one or more creatures of the attuned type, the owner can shake the doll as a standard action. Creatures of the attuned type must attempt a DC 11 Will save; on a failure, for the next hour, affected creatures have a 10% chance of failing to cast spells or spell-like abilities as long as they remain within 30 feet of the doll. Regardless of the result of its save, a creature cannot be targeted by a silencing marionette more than once per 24 hours. Once per day, a silencing marionette can be presented forcefully to cast *confusion* (DC 16) at an area within 170 feet, affecting all creatures of the attuned type in a 15-foot-radius burst.
+
+**Construction Requirements:** Craft Wondrous Item, *confusion*, *fumbletongue*; **Cost** 8,250 gp
+
+### Grandiose Deck Case
+
+**Slot** none; **CL** 5th; **Price** 1,200 gp; **Weight** 2 lbs.
+
+**Aura** moderate illusion and transmutation
+
+This masterwork fate deck carrying case protects the deck within from harm. When the case is used as part of a reading, the light level within 15 feet of the case darkens to dim light and miniature illusions of the interpreted cards appear in front of the reader and her subjects. While stored in a grandiose deck case, a fate deck gains a +2 bonus on saves against effects that specifically target the deck.
+
+**Construction Requirements:** Craft Wondrous Item, *darkness*, *endure elements*, *major image*; **Cost** 600 gp
+
+### Solitary Cleaver
+
+**Slot** none; **CL** 7th; **Price** 22,307 gp; **Weight** 1 lb.
+
+**Aura** moderate evocation
+
+The blade of this unassuming longsword is permanently broken, snapped at an angle halfway along the blade. In spite of this, the sword can be wielded as a +2 short sword without penalty. As long as the wielder of a *solitary cleaver* is threatening two or more foes and he has no allies within 15 feet, he gains the use of the Cleave feat. If he is threatening three or more foes and has no allies within 30 feet, the wielder gains the use of the Great Cleave feat instead. Each threatened foe must have Hit Dice equal to or greater than 1/2 the wielder's character level in order to count toward this weapon's ability.
+
+**Construction Requirements:** Cleave, Craft Magical Arms and Armor, Great Cleave, *divine power*; **Cost** 11,307 gp
+
+### Memory-Eater Dagger
+
+**Slot** none; **CL** 10th; **Price** 9,760 gp; **Weight** 1 lb.
+
+**Aura** moderate enchantment
+
+The blade of this +1 *living steel* dagger is always slightly damp to the touch. The save DC of any injury poison coating this blade increases by 2. Once per day, the wielder of a memory-eater dagger can speak the weapon's command word to cause the dagger to seep a bright green neurotoxin. For 1 hour, the next time the wielder damages a creature with the dagger, the creature must succeed at a DC 16 Will save or be affected by *modify memory* as if the wielder had spent 5 minutes modifying the target's memory.
+
+**Construction Requirements:** Craft Magical Arms and Armor, *modify memory*; **Cost** 4,880 gp

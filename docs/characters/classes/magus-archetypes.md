@@ -648,3 +648,15 @@ The blending of martial prowess with elven magic has long been a staple of acade
 **Spell Maneuvers (Su)**: At 7th level, as long as an iron-ring striker is wearing light armor or no armor, he can use his unarmed spellstrike ability as part of a combat maneuver check to bull rush, disarm, sunder, or trip an opponent. This replaces knowledge pool.
 
 **Reflexive Spell Maneuver (Ex)**: At 16th level, when an iron-ring striker is the target of a combat maneuver check to bull rush, disarm, sunder, or trip, as an immediate action he can target his attacker with a magus spell he has prepared with a range of touch. If the spell would normally require a touch attack, an iron-ring striker can attempt a combat maneuver check for this attack instead. The iron-ring striker must be wearing light armor or no armor to use reflexive spell maneuver. This replaces counterstrike.
+
+## Card Caster
+
+*Magus archetype.* Though it is known primarily as a tool of knowledge, the fate deck is also an instrument of defense and even war. The card caster is an ancient, martial offshoot of the traditional fortune-teller, learning to not only draw power from the deck, but also to invest each card with deadly power.
+
+**Deadly Dealer (Su)**: At 1st level, the card caster gains [Deadly Dealer](../../rules/feats/deadly-dealer.md) as a bonus feat, even if he does not meet the prerequisites. A card caster can invest cards with enough magic to deal lethal damage even without the Arcane Strike feat so long as he has at least 1 point in his arcane pool.
+
+**Arcane Pool Focus (Su)**: A card caster's arcane pool can be used to augment only ranged weapons. At 5th level, a card caster can use his arcane pool to add the following weapon special abilities to ranged weapons: *brilliant energy*, *distance*, *flaming*, *flaming burst*, *frost*, *icy burst*, *returning*, *seeking*, *shock*, *shocking burst*, and *speed*. He can use his arcane pool to augment an entire fate deck as if it were ammunition. All cards from a deck enhanced with a special ability, such as *flaming*, must share the same bonus. This ability modifies arcane pool.
+
+**Deck Spellstrike (Su)**: Beginning at 2nd level, a card caster can invest a single thrown weapon with a single touch or ranged spell as part of the spell's normal casting time. The spell must target a single creature, and the spell's range changes to match the thrown weapon's range increment. This ability otherwise functions identically to spellstrike, except it can only be applied to thrown ranged weapons instead of melee attacks. This ability replaces and modifies spellstrike.
+
+**Role Dealer (Su)**: Beginning at 3rd level, whenever the card caster randomly draws and throws a card from a [fate deck](../../equipment/fate-deck.md) matching one axis of his alignment, the card's critical threat range increases to 19–20. If the card caster draws and throws a card matching his alignment exactly, the attack's critical multiplier also increases to ×3 and the magus gains a +4 bonus on his confirmation roll. This ability replaces the magus arcana gained at 3rd level.

@@ -297,3 +297,20 @@ Cavaliers belonging to the order of the asp belong to a cutthroat group where ru
 
 **Better You Than Me (Ex)**: At 15th level, the cavalier can interpose an adjacent ally in the way of an incoming attack as an immediate action, gaining cover against the attack. The attack must target only the cavalier, and she must choose to use this ability before seeing the result of the attack roll. The ally must have the shaken condition or have no more than half the Hit Dice of the cavalier, and the ally gains a Reflex save to negate this ability’s effect entirely (DC = 10 + half the cavalier’s level + the higher of her Strength modifier or Charisma modifier). If the attack hits, the damage is split evenly between the cavalier and the ally. If the ally’s save was a natural 1, the ally takes all of the damage, including any associated effects (bleed, poison, etc.). An ally can purposefully fail this saving throw, but cannot purposefully roll a natural 1.
 
+### Order of the Hammer
+
+Cavaliers of the order of the hammer respect might over all, and believe that those who prove their strength have earned the right to make decisions for the weak. When the cavalier's own goals conflict with those of a mighty ruler, the cavalier must prove that her own strength and ideals are superior.
+
+**Edicts**: The cavalier must continually strive to prove her own strength as well as the strength of those she is allied with, especially when faced with adversity or by those who would seek to best the cavalier's brawn.
+
+**Challenge**: An order of the hammer cavalier can attempt a free grapple check or free sunder combat maneuver check anytime she takes the full-attack action against the target of her challenge. This free combat maneuver does not provoke an attack of opportunity.
+
+**Skills**: An order of the hammer cavalier adds Acrobatics (Dex) and Knowledge (local) (Int) to her list of class skills. In addition, whenever the cavalier uses Acrobatics to jump, she can add her Strength bonus to the check in addition to her Dexterity modifier, and she receives a bonus on Acrobatics checks to jump equal to 1/2 her cavalier level (minimum +1).
+
+**Order Abilities**: A cavalier belonging to the order of the hammer gains the following abilities as she increases in level.
+
+**Mighty Bash (Ex)**: At 2nd level, the cavalier does not provoke attacks of opportunity when she attacks foes while unarmed so long as she is dealing nonlethal damage. In addition, the cavalier's unarmed strikes deal more nonlethal damage than usual; she is treated as having a number of monk levels equal to her cavalier level for the purpose of determining how much nonlethal damage her unarmed strikes deal. For example, a 12th-level cavalier of the order of the hammer would deal 2d6 points of nonlethal damage with her unarmed strike. The cavalier must still select the Improved Unarmed Strike feat if she wants to deal lethal damage with her unarmed strike, and lethal damage dealt with her unarmed strike is not increased by this ability.
+
+**Crushing Grapple (Ex)**: At 8th level, the cavalier gains Chokehold as a bonus feat, even if she does not meet the prerequisites. She does not take the –5 penalty on grapple checks to put an opponent in a chokehold.
+
+**Inspiring Flex (Ex)**: At 15th level, the cavalier can display her own brawn to inspire greater strength in her allies. As a standard action, she can grant herself and any allies within 30 feet a +4 morale bonus on melee attack rolls, combat maneuver checks, Fortitude saves, and Strength checks. The cavalier can maintain her inspiring flex as a free action, and she can use this ability for a number of rounds per day equal to 1/2 her cavalier level; this duration need not be continuous.

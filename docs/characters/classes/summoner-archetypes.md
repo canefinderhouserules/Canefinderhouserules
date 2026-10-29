@@ -40,6 +40,12 @@ The eidolon looks like a humanoid warrior. The natural armor of a bodyguard eido
 
 11 points: Base Form biped; Primary Evolutions improved natural armor, weapon training; Secondary Evolutions ability increase (Strength), fast healing, weapon training (martial).
 
+### Cardkin
+
+The eidolon appears as an amalgam of shifting cards.
+
+**27 Points**: *Base Form* biped; *Primary Evolutions* flight, magic attacks, spell resistance; *Secondary Evolutions* basic magic (*dancing lights*, *daze*, *detect magic*, or *mage hand*), blindsense, dimension door, immunity, large, no breath, reach, unnatural aura, wing buffet.
+
 ### Centaur
 
 The eidolon has the upper torso of a humanoid and the lower body of a quadruped (such as a horse). A centaur eidolon’s upper humanoid torso is smaller than its quadrupedal body. As a result, it wields weapons as if it were one size category smaller than its actual size (Medium for most centaur eidolons). The centaur model can also be used to create a lamia (a centaur eidolon with the upper body of a woman and the lower body of a lion) by replacing the hooves evolution with claws and taking basic magic\* (touch of fatigue), minor magic\* (ventriloquism), major magic\* (daze monster), and ultimate magic\* (major image), resulting in a 23-point model. 13 points: Base Form quadruped; Primary Evolutions limbs (arms), hooves\*; Secondary Evolutions large, trample, weapon training, weapon training (martial).
@@ -651,3 +657,13 @@ Reflecting the connected nature of a pair of twins, a twinned summoner and his e
 *Extra Feat (Ex)*: The eidolon gains an extra feat. It must meet the prerequisites of the feat.
 
 *Shared Slot (Su)*: Select a magic item slot. A magic item worn by the eidolon in that slot remains active even if the summoner is also wearing a magic item in that slot. This evolution can be selected more than once. Each time an eidolon selects this evolution, it applies to a new slot.
+
+## Story Summoner
+
+*Summoner archetype.* Story summoners rely on the fate deck to weave the paths they walk, turning their tales into reality. They channel magic through their decks to influence the strange extraplanar beings they summon, bringing familiar and fateful characters to life. Some focus on the more whimsical figures of tale and legend, while others bring its darkest icons into the real world.
+
+**Storykin Eidolon**: Unlike most eidolons, a story summoner's eidolon cannot touch or attack creatures warded by *protection from evil* and similar effects that prevent contact with summoned creatures. As a standard action while his eidolon is summoned, the story summoner can draw a random card from a complete [fate deck](../../equipment/fate-deck.md) he owns. For a number of rounds equal to 1/2 the summoner's class level (minimum 1), the eidolon's alignment changes to match that of the card drawn, and the eidolon gains a +4 enhancement bonus on the ability score linked to the drawn card's suit. The eidolon continues to follow its summoner's orders regardless of its alignment. The story summoner can use this ability a number of times per day equal to 3 + his Charisma modifier.
+
+**Summon Arcana (Su)**: At 2nd level, a story summoner can use a complete fate deck he owns as an additional focus component for his summon monster spell-like ability. When he does so, the summoner draws a random card from the deck and applies a simple template to the summoned monster based on the card's alignment: celestial (any good), fiendish (any evil), resolute (any lawful), or entropic (any chaotic). If a card has more than one alignment, such as a lawful evil or chaotic good card, the summoner can choose which template to apply to the summoned creature. This ability allows a story summoner to summon and command creatures normally prohibited by their alignment. This ability replaces bond senses.
+
+**Evolve Base Form (Su)**: Starting at 8th level, whenever he gains a level, the story summoner can change his eidolon's base form to a new base form. Once chosen, this base form is set until the story summoner gains another summoner level. This ability replaces transposition.

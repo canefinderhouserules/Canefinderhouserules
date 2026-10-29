@@ -321,3 +321,7 @@ Talents marked with an asterisk (\*) add effects to a rogue's sneak attack. Only
 The following advanced rogue talent can be selected by any rogue of 10th level or higher who meets the prerequisites.
 
 **Hamstring Strike\* (Ex)**: Anytime a rogue with this talent successfully hits an opponent with a sneak attack, she may forgo her sneak attack damage to try to hamstring her opponent. If the attack succeeds, the rogue deals weapon damage as normal, but instead of the rogue dealing sneak attack damage, the target is knocked prone and is unable to take move actions during its next turn. A successful Fortitude save (DC = 10 + 1/2 the rogue's level + the rogue's Dexterity modifier) negates this effect.
+
+## Fate Deck Rogue Talents
+
+**Fate Strike (Ex)** (advanced talent, 10th level): Once per day while making a sneak attack against a creature, you can draw a random card from a [fate deck](../../equipment/fate-deck.md) you own. If your attack hits, instead of dealing sneak attack damage as normal, you deal a number of points of ability damage equal to your number of sneak attack dice. The ability score damaged is the score affiliated with the suit of the card drawn. You can use this ability an additional time per day at 15th level and 20th level.

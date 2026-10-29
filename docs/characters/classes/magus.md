@@ -73,6 +73,8 @@ A magus can only enhance one weapon in this way at one time. If he uses this abi
 
 **Arcane Accuracy (Su)**: The magus can expend 1 point from his arcane pool as a swift action to grant himself an insight bonus equal to his Intelligence bonus on all attack rolls until the end of his turn.
 
+**Arcane Dealer (Su)**: The magus gains the [Deadly Dealer](../../rules/feats/deadly-dealer.md) feat, even if he does not meet the prerequisites. He can use his arcane pool to grant a deck of cards an enhancement bonus as though it were a ranged weapon with 54 pieces of ammunition. The magus must use either Arcane Strike or his arcane pool to enhance the cards in order to use them as weapons. The magus must be at least 6th level before selecting this arcana.
+
 **Broad Study (Ex)**: The magus selects another one of his spellcasting classes. The magus can use his spellstrike and spell combat abilities while casting or using spells from the spell list of that class. This does not allow him to cast arcane spells from that class’s spell list without suffering the normal chances of arcane spell failure, unless the spell lacks somatic components. The magus must be at least 6th level and must possess levels in at least one other spellcasting class before selecting this arcana.
 
 **Close Range (Ex)**: The magus can deliver ray spells that feature a ranged touch attack as melee touch spells. He can use a ranged touch attack spell that targets more than one creature (such as scorching ray), but he makes only one melee touch attack to deliver one of these ranged touch effects; additional ranged touch attacks from that spell are wasted and have no effect. These spells can be used with the spellstrike class feature.
@@ -102,6 +104,8 @@ A magus can only enhance one weapon in this way at one time. If he uses this abi
 **Silent Magic (Su)**: The magus can cast one spell per day as if it were modified by the Silent Spell feat. This does not increase the casting time or the level of the spell.
 
 **Spell Blending (Ex)**: When a magus selects this arcana, he must select one spell from the wizard spell list that is of a magus spell level he can cast. He adds this spell to his spellbook and list of magus spells known as a magus spell of its wizard spell level. He can instead select two spells to add in this way, but both must be at least one level lower than the highest-level magus spell he can cast. A magus can select this magus arcana more than once.
+
+**Shapeshifter's Fortune (Su)**: Whenever the magus casts a spell of the polymorph subschool on himself, he can draw a card from a complete [fate deck](../../equipment/fate-deck.md) he owns as a free action. If the card's alignment and the magus's alignment are a true match, the spell's duration is doubled and the magus can select two additional monster abilities granted by the polymorph spell (such as scent or grab for *beast shape II*), even if the form assumed by the magus doesn't normally grant that ability. On a partial match, the magus can select an additional ability granted by the polymorph spell, even if the form assumed by the magus doesn't normally grant that ability. On an opposite match, the duration of the spell is halved and the magus must forgo one of the abilities granted by his form. The magus must be at least 9th level before selecting this arcana.
 
 **Spell Shield (Su)**: The magus can expend a point from his arcane pool as an immediate action to grant himself a shield bonus to AC equal to his Intelligence bonus until the end of his next turn.
 

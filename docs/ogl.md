@@ -265,3 +265,5 @@ The following text is the property of Wizards of the Coast, Inc. and is Copyrigh
     Pathfinder Player Companion: Heroes of Golarion © 2019, Paizo Inc.; Authors: Saif Ansari, Alexander Augunas, Mara Lynn Butler, Michelle Jones, Avi Kool, and Alex Riggs.
 
     Pathfinder Player Companion: Paths of the Righteous © 2016, Paizo Inc.; Authors: Alexander Augunas, John Compton, Jenny Jarzabski, Isabelle Lee, Stephen Rowe, and Owen K.C. Stephens.
+
+    Pathfinder Player Companion: The Harrow Handbook © 2014, Paizo Inc.; Authors: Crystal Frasier, Will McCardell, and David Schwartz.
