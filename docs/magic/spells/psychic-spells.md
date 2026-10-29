@@ -712,6 +712,7 @@ Psychics gain access to the following spells. Spells without a link come from ot
 - **[Wandering Star Motes](wandering-star-motes.md)**: Outlines subject and produces light as a sunrod.
 - **[Warp Metal](warp-metal.md)**: Permanently warps metal objects.
 - Water Walk, Communal
+- **[Janni's Jaunt](jannis-jaunt.md)**: Plane shift for willing creatures to the Elemental, Astral, or Material Planes.
 
 ## 5th-Level Psychic Spells
 

@@ -40,6 +40,7 @@ A template is a set of rules applied to a base creature to turn it into a differ
 - [Void-Ravaged Creature](void-ravaged.md)
 - [Fey Creature](fey-creature.md)
 - [Foo Creature](foo-creature.md)
+- [Element-Infused Creature](element-infused.md)
 - [Imperial Foo](imperial-foo.md)
 - [Vahana](vahana.md)
 

@@ -204,6 +204,7 @@ New summoner spells from *Ultimate Magic*. Spells from other books will be added
 - **[Walk the Plank](walk-the-plank.md)**: Open a shark-filled pit in the ground
 - **[Whip of Centipedes](whip-of-centipedes.md)**: As whip of spiders, but with centipedes.
 - **[Wreath of Blades](wreath-of-blades.md)**
+- **[Janni's Jaunt](jannis-jaunt.md)**: Plane shift for willing creatures to the Elemental, Astral, or Material Planes.
 
 ## 6th-Level Summoner Spells
 

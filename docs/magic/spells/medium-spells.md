@@ -320,6 +320,7 @@ Mediums gain access to the following spells. Spells without a link come from oth
 - **[Vicarious View](vicarious-view.md)**: Plant a scrying sensor that you can use to spy on a creature, object, or location.
 - **[Vigilant Rest](vigilant-rest.md)**: Cause a sleeping creature to retain some perception of its surroundings.
 - **[Witness](witness.md)**: See through the target’s eyes and ears.
+- **[Janni's Jaunt](jannis-jaunt.md)**: Plane shift for willing creatures to the Elemental, Astral, or Material Planes.
 
 ## 4th-Level Medium Spells
 

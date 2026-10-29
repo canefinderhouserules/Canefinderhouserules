@@ -1371,3 +1371,47 @@ This ability modifies nature bond and replaces trackless step, venom immunity, a
 **Resist the Opposite (Ex)**: At 4th level, a planar extremist gains a +2 bonus on saving throws against the spell-like and supernatural abilities of creatures whose alignment is diametrically opposed to her own. This replaces resist nature's lure.
 
 **Planar Aspect (Su)**: At 4th level, as a standard action, a planar extremist can gain the benefits of the bloodrager bloodline associated with her alignment (choosing from Abyssal, Celestial, or Infernal), as if she were a bloodrager of her druid level. She can gain these benefits for 1 minute per druid level as if she were bloodraging (but she gains no other benefits or penalties of bloodrage) or until she dismisses it as a swift action; this duration need not be used consecutively but must be spent in 1-minute increments. She can use this ability an additional time per day at 6th level and every 4 levels thereafter, for a total of five times per day at 18th level. At 20th level, a planar extremist can use planar aspect at will. This replaces wild shape.
+
+## Elemental Plane Domains
+
+The following domains are common among druids who frequent the Elemental Planes. A druid who has any of these domains can use her wild empathy to influence a creature with the respective subtype (air, earth, fire, or water) if its Intelligence score is 1 or 2. Furthermore, she can choose to replace the 8th-level power with a Small elemental familiar that corresponds to her element, as if she possessed the Improved Familiar feat. Her effective wizard level for this ability equals her druid level and stacks with other classes that grant a familiar.
+
+### Plane of Air Domain
+
+**Granted Powers**: You draw your power from the boundless expanse of air and clouds. Fly is a class skill for you, and you can take ranks in the skill even without first having a reliable means to fly or glide.
+
+**Aerial Agility (Ex)**: You can navigate the air unhindered. As a free action, you automatically succeed at your Wisdom check to change your direction in an area of subjective gravity, and you can increase or decrease your falling speed by 10 feet per druid level during the first round after you change the direction of gravity. In areas of light, normal, or heavy gravity, activating this ability instead grants you a bonus equal to your druid level on Fly checks and Acrobatics checks to jump for a number of rounds equal to your Wisdom modifier. You can use this ability 3 + your Wisdom modifier times.
+
+**Wind Savant (Su)**: At 8th level, you treat the penalties from natural or magical wind effects as two steps less severe. You are also surrounded by a cushion of air that grants you a bonus equal to 1/2 your druid level on saving throws against gases, gaseous breath weapons, inhaled poisons, and similar effects.
+
+**Domain Spells**: 1st—feather fall, 2nd—elemental speech, 3rd—fly, 4th—planar adaptation, 5th—overland flight, 6th—mass planar adaptation, 7th—mass fly, 8th—mass invisibility, 9th—winds of vengeance.
+
+### Plane of Earth Domain
+
+**Granted Powers**: You can navigate the untold wonders of the Plane of Earth with ease.
+
+**Spelunker (Su)**: You ably clamber through underground areas. As a free action, you can ignore difficult terrain from stony surfaces, take no penalties for squeezing through rocky areas, and gain damage reduction 5/— against rocky hazards such as *spike growth*. This effect lasts 1 round, and you can use it 3 + your Wisdom modifier times per day.
+
+**One with the Stone (Su)**: At 8th level, as a swift action, you gain the earth glide universal monster ability with a speed equal to your base speed. You can breathe normally while using it. You can use this ability for a number of rounds per day equal to your druid level, which need not be consecutive.
+
+**Domain Spells**: 1st—stone fist, 2nd—elemental speech, 3rd—burrow, 4th—planar adaptation, 5th—passwall, 6th—mass planar adaptation, 7th—stone to flesh, 8th—repel metal or stone, 9th—clashing rocks.
+
+### Plane of Fire Domain
+
+**Granted Powers**: You embrace the destructive flames and ever-roaring volcanoes of the Plane of Fire, having proven yourself impervious to its heat.
+
+**Fire Hardened (Ex)**: You ignore fire damage from the fire-dominant planar trait and gain fire resistance 5. If you have natural fire resistance, it increases by 5 instead; if you are naturally immune to fire, you heal hit points and ability damage at twice the normal rate when resting on a fire-dominant plane. You can touch a willing creature to grant these benefits for 1 hour. You can use this ability 3 + your Wisdom modifier times per day.
+
+**All-Consuming Flames (Su)**: At 8th level, as a standard action, you can channel the extraplanar heat into your allies' weapons within 30 feet. For 1 minute, the affected weapons gain the cold outsider bane, fire outsider bane, or *flaming* weapon special ability. You must grant each weapon the same ability, and no more than two of any ally's weapons are affected. You can use this ability once per day, plus once more per day for every four levels beyond 8th.
+
+**Domain Spells**: 1st—obscuring mist (creates smoke), 2nd—elemental speech, 3rd—ash storm, 4th—planar adaptation, 5th—scorching ash form, 6th—mass planar adaptation, 7th—delayed blast fireball, 8th—destruction, 9th—fiery body.
+
+### Plane of Water Domain
+
+**Granted Powers**: You are at one with the Plane of Water, able to navigate it and weaponize it at will.
+
+**Aquatic Veil (Su)**: As a standard action, you can sheathe your body in a thin layer of water for a number of rounds equal to your Wisdom modifier. This grants a bonus on Swim checks equal to 1/2 your druid level and allows you to breathe normally underwater. You can end the effect when delivering a touch spell to create a pseudopod of water that extends your effective reach by 5 feet for that attack (10 feet when used underwater). You can use this ability 3 + your Wisdom modifier times per day.
+
+**Hydraulic Crush (Sp)**: At 8th level, you can strike an area with a pressurized blast of water in a 5-foot-radius column 30 feet tall with a range of 60 feet. Creatures in the area take 1d6 bludgeoning damage per druid level and are knocked prone. When used underwater, the radius and height double, and the effect instead creates a powerful eddy that causes affected creatures to lose their Dexterity bonus to Armor Class for 1 round instead of knocking them prone. A successful Reflex save halves the damage and prevents the secondary effect. You can use this ability once per day, plus once more for every 6 levels beyond 8th.
+
+**Domain Spells**: 1st—touch of the sea, 2nd—elemental speech, 3rd—water breathing, 4th—planar adaptation, 5th—solid fog (functions underwater), 6th—mass planar adaptation, 7th—fluid form, 8th—seamantle, 9th—tsunami.

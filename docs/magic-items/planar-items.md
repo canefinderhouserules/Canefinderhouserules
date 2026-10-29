@@ -396,3 +396,23 @@ This elaborate red and black quill contains an endless reservoir of red ink that
 
 **Construction Requirements:** Craft Wondrous Item, *death knell*, *honeyed tongue*; **Cost** 2,250 gp
 
+## Planefarer's Band
+
+*Aura* moderate transmutation; *CL* 10th; *Slot* ring; *Price* 30,000 gp; *Weight* —
+
+Once per day, the wearer can attune this ring to one of the four Elemental Planes for 24 hours. While on that plane, the ring grants the wearer the benefits below. Once per day on command, the wearer can gain these benefits even when on a different plane, but the effects last only 10 minutes.
+
+- **Plane of Air**: A fly speed of 20 feet (average) and a +4 insight bonus on Wisdom checks to change the direction of gravity in an area with the subjective gravity planar trait.
+- **Plane of Earth**: Darkvision 60 feet, and the wearer can walk across rock, metal, and other earthen surfaces as if under *spider climb*.
+- **Plane of Fire**: Fire resistance 20, and the wearer can walk atop lava, bubbling tar, and other dangerously hot surfaces as if under *water walk*.
+- **Plane of Water**: The wearer can breathe underwater and gains a swim speed of 40 feet.
+
+*Construction* Forge Ring, *planar adaptation*; Cost 15,000 gp.
+
+## Rift-Rending Bracers
+
+*Aura* moderate conjuration; *CL* 7th; *Slot* wrists; *Price* 18,000 gp; *Weight* 1 lb.
+
+When worn by a kineticist, these bracers develop finely inscribed patterns reflecting the wearer's elemental connection. As a full-round action, a kineticist wearing the bracers can accept 3 points of burn to tear open a brief rift between her current location and the Material Plane, Ethereal Plane, or an Elemental Plane; this behaves as *plane shift*, but the rift can transport only her. By accepting an additional point of burn, she can allow up to 8 willing creatures to travel with her. When traveling to or from the plane that corresponds to her elemental focus, the total burn cost is reduced by 1. The bracers must be worn for 24 hours before a kineticist can activate them.
+
+*Construction* Craft Wondrous Item, *plane shift*; Cost 9,000 gp.

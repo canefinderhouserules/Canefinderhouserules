@@ -1185,3 +1185,13 @@ The construct saboteur harnesses arcane energy to combat the golems and eldritch
 - **Slowing Pulse**: The construct's speed is reduced by 5 feet for a number of rounds equal to her Intelligence modifier. She can forgo 1d6 of sneak attack damage to reduce speed by an additional 5 feet per die forgone, but not below 5 feet. A Reflex save reduces the duration to 1 round.
 
 **Dismantling Strikes (Ex)**: At 3rd level, she ignores the first 2 points of damage reduction or hardness when attacking constructs. This increases by 2 every 3 levels after 3rd, to 12 points at 18th level. This replaces trap sense.
+
+## Planar Sneak
+
+A planar sneak finds creative ways to defy conventional limitations when trying to overcome extraplanar obstacles.
+
+**Planar Sense (Ex)**: At 3rd level, a planar sneak gains a +1 bonus on saving throws against all effects with the air, chaos, earth, evil, fire, good, law, or water descriptors. This bonus increases by 1 for every 3 rogue levels thereafter (maximum +6 at 18th level). This replaces trap sense.
+
+**Elemental Execution (Su)**: At 4th level, a planar sneak treats creatures with the elemental subtype as though they were vulnerable to her sneak attack, but she deals only half as much sneak attack damage as normal. She can confirm critical hits against such creatures, though 50% of the time the critical hit is automatically negated and damage is rolled normally. At 8th level, this ability also applies to all outsiders otherwise immune to critical hits and sneak attack damage. This replaces uncanny dodge and improved uncanny dodge.
+
+**Rogue Talents**: The following rogue talents complement this archetype: guileful polyglot, strong stroke, terrain mastery. **Advanced Rogue Talents**: defensive roll, hide in plain sight, and skill mastery.
