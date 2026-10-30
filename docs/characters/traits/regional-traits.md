@@ -537,3 +537,152 @@ The following traits are for characters hailing from lands where hags and witche
 ## Underworld Regional Traits
 
 **Cavern Survivor (Underworld native)**: You’ve regularly traversed the upper Underworld and know how to subsist in that lightless realm better than most surface dwellers. You gain a +2 trait bonus on Survival checks to survive in a subterranean wilderness, and Survival is a class skill for you.
+
+## Regional Traits of the Inner Lands
+
+These traits come from the many nations of a great inland sea. Each trait names the kind of homeland it suits; the GM can tie it to any region of the campaign that fits.
+
+**Acolyte of the False God (False-god theocracy native)**: You are an adherent of a faith built around a mortal who claims to be a god, or once were and have since renounced it. You gain a +1 trait bonus on Knowledge (local) and Knowledge (religion) checks, and one of these skills is always a class skill for you. This bonus increases to +2 when dealing with specifics of that faith.
+
+**Antiquities Smuggler (Ancient desert kingdom native)**: You have moved contraband relics from the ancient kingdom’s elder days for years, and have learned some tricks. Choose one of the following skills: Appraise, Bluff, or Sleight of Hand. You gain a +1 trait bonus on that skill, and it is always a class skill for you.
+
+**Arcane University Graduate (Wizard nation native)**: You graduated from one of the justly famous arcane academies of a wizard nation, and the rigorous program of study has honed your mind. You gain a +2 trait bonus on concentration checks when casting arcane spells.
+
+**Artifact Hunter (Jungle native)**: You know the legends of the great jungle and the places where great treasures were rumored to have fallen. You gain a +1 trait bonus on Knowledge (geography) and Knowledge (history) checks, and one of them is always a class skill for you.
+
+**Aspiring Infernal Knight (Infernal empire native)**: Your family has a long tradition of service in an order of infernal knights, and your strict upbringing and training have given you a forceful aura of command. You gain a +1 trait bonus on Intimidate checks, and Intimidate is always a class skill for you.
+
+**Bandit (Lawless river lands native)**: Since you were young, you’ve been a member of one bandit gang or another. Choose one of the following skills: Escape Artist, Intimidate, or Stealth. You gain a +1 trait bonus on that skill, and it is always a class skill for you.
+
+**Bounty Hunter (Bandit-plagued vassal state native)**: You have made it your mission to help bring the bandits of your homeland to justice. You gain a +1 trait bonus on Survival checks to find or follow tracks, and a +1 trait bonus on Perception checks to avoid being surprised.
+
+**Candidate for Perfection (Monastic island native)**: You have begun training to enter one of the great monasteries of perfection, and have honed your body, mind, and spirit into one well-trained weapon. You gain a +1 trait bonus on attack of opportunity attack rolls made with unarmed strikes.
+
+**Child of the Crusades (Crusader land native)**: Your parents stood strong against the demons pouring from a rift into the Abyss, facing down the worst of this world and the planes beyond. You have inherited their indomitable spirit, and you gain a +2 trait bonus on all saves against fear.
+
+**Chivalrous (Decadent empire native)**: You were raised on tales of heroic knights and benevolent wizards from your empire’s golden age, and try to emulate their great deeds. You gain a +1 trait bonus on Diplomacy and Knowledge (history) checks.
+
+**City Hotspur (Great city native)**: You grew up on the streets of a great city and have worked as both guide and bodyguard for visitors to it. You gain a +1 trait bonus on Initiative checks and Knowledge (local) checks.
+
+**Colonial Guard (Jungle colony native)**: You served in a colonial guard, either as an officer or as a native regular, and have grown accustomed to marching in hot temperatures while wearing armor. When you wear armor of any sort, reduce the armor check penalty by 1, to a minimum penalty of 0.
+
+**Cosmopolitan (Port city native)**: Your exposure to the many peoples intersecting in a great port and the tongues spoken there has given you a particular facility for speech. You gain a +1 trait bonus on Linguistics checks, and Linguistics becomes a class skill for you.
+
+**Crusader Cavalry Rider (Crusader fortress nation native)**: From the moment you were old enough to walk, you learned how to ride the mighty warhorses of your homeland. You gain a +1 trait bonus on Ride checks, and Ride is always a class skill for you.
+
+**Crusader Tactician (Crusader fortress nation native)**: You have studied at a crusader war college, and are skilled in both heraldry and siege tactics. You gain a +1 trait bonus on Knowledge (engineering) and Knowledge (nobility) checks, and one of these skills is always a class skill for you.
+
+**Cynic (Crusader land native)**: As a native of a crusader land, you have seen all manner of people claiming holy motives, and you have learned to judge them by their deeds, rather than their words. You gain a +1 trait bonus on Sense Motive checks, and Sense Motive is always a class skill for you.
+
+**Demonbane (Elven forest kingdom native)**: Having fought in many battles against a demon lord that corrupts the forest, you have learned the best ways to kill the various creatures under his control. You gain a +2 trait bonus on weapon damage against demons, evil fey, and plants and animals corrupted by evil.
+
+**Desert Merchant (Desert city-states native)**: You have traveled the great circular trade route of the desert city-states, following the sale of a legendary elixir of youth from city to city, and are used to haggling with foreigners. You gain a +1 trait bonus on Appraise, Bluff, and Sense Motive checks made for business deals and transactions.
+
+**Desert Nomad (Desert city-states native)**: You were born and raised in the burning sands of a desert interior. You gain a +4 trait bonus on any saving throws made to resist the effects of being in hot conditions, and a +1 trait bonus on all saving throws against fire effects.
+
+**Devotee of Profit (Merchant nation native)**: As an adherent of a philosophy that holds wealth to be the path to enlightenment, you understand the importance of a good deal. You gain a +1 trait bonus on Appraise checks, and a +1 trait bonus on Bluff checks when trying to make a deal with nonbelievers.
+
+**Disbeliever (Godless nation native)**: As one who rejects covenants with gods, your belief is strong enough to repel divine spells. You gain a +2 trait bonus on saving throws against divine spells, but you must make a saving throw even when that magic is beneficial to you.
+
+**Elven Illusionist (Elven forest kingdom native)**: You have lived in an elven capital for so long that you are very familiar with illusions. You gain a +1 trait bonus on caster level checks with illusion spells and a +1 trait bonus on Will saves to disbelieve illusions.
+
+**Enemy of the Undead (Undead nation native)**: Your disgust at the way an undead aristocracy treats the living has inspired hatred in you. You gain a +2 trait bonus on saving throws against any spells or spell-like abilities from an undead creature.
+
+**Fallen Noble (Haunted land native)**: You come from an aristocratic family, though your family has long since lost any power or prestige it once had. You gain a +1 trait bonus on Diplomacy and Knowledge (nobility) checks. In addition, your starting money is increased by 100 gp—your “birthright,” such as it is.
+
+**Feuding Noble (Feuding northern kingdom native)**: You are a scion of one of the warring noble houses of your land, and are well versed in maneuvering though its cutthroat world of politics. You gain a +1 trait bonus on Knowledge (nobility) and Sense Motive checks.
+
+**Forest Diplomat (Forest freehold native)**: You’ve lived and worked among the disparate guerrilla groups of a contested forest. You gain a +1 trait bonus on Diplomacy checks, and Diplomacy is always a class skill for you.
+
+**Freed Slave (Free republic native)**: You were either born or sold into slavery, but were freed by abolitionists. Your strong will helped you persevere in captivity, and gave you strength to start again from nothing in your new life. You gain a +1 trait bonus on Will saves.
+
+**Freehold Militia (Forest freehold native)**: You have served in one of the militia bands of your homeland, and have learned valuable skills. Select one of the following skills: Profession (soldier), Ride, or Survival. You gain a +1 trait bonus on that skill, and it is always a class skill for you.
+
+**Friend of the Dead (Undead nation native)**: Your close association with intelligent undead has imparted some of their otherworldly essence to you, and this essence helps you in your dealings with the undead. You gain a +2 trait bonus on Diplomacy checks against sentient undead.
+
+**Friend of the Fey (Northern kingdoms native)**: You have a special relationship with the fey, having grown up in close proximity to them. You gain a +2 trait bonus on Diplomacy checks against fey creatures.
+
+**Genie-Caller (Desert satrapy native)**: Your exploration of the magic for calling genies has increased your overall aptitude for summoning. Once per day, you may cast one conjuration (summoning) spell as if your caster level were 2 higher than normal.
+
+**Golemworks Alchemist (Wizard nation native)**: You studied with the alchemists of a great industrial city, perfecting your craft in the homunculus factories, golemworks, and ooze colony. You gain a +1 trait bonus on Craft (alchemy) checks.
+
+**Gun City Defender (Magic-dead wasteland native)**: You have lived in a city of gunsmiths and served in its militia. You know just where to aim to do the most damage. You gain a +1 trait bonus on all rolls to confirm critical hits with ranged weapons.
+
+**Highland Tribesman (Frontier land native)**: You were born or adopted into a highland tribe. Choose one of the following skills: Climb, Survival, or Swim. You gain a +1 trait bonus on this skill, and it is always a class skill for you.
+
+**Imperial Soldier (Militaristic empire native)**: You’ve served in an imperial army. Choose one of the following skills: Heal, Intimidate, or Ride. You gain a +1 trait bonus on that skill, and it is always a class skill for you.
+
+**Inspiring Speaker (Revolutionary nation native)**: You have learned the arts of oratory, and know how to speak to crowds to rile them up or to calm them down. You gain a +1 trait bonus on Bluff and Diplomacy checks when addressing crowds of 10 people or more.
+
+**Island Paragon (Isolated island native)**: You are a product of an island’s breeding programs—either your parents were chosen to be citizens, or you were, but later failed to live up to the island’s high standards. Whatever the case, you are quicker than normal members of your race, and gain a +2 trait bonus on Initiative checks.
+
+**Jungle Guide (Jungle colony native)**: You’ve made your living outfitting and guiding expeditions deep into the jungle interior in search of ancient ruins and lost cities. You gain a +1 trait bonus on Handle Animal checks, and a +1 trait bonus on Survival checks in jungle terrain. One of these skills is a class skill for you.
+
+**Jungle Walker (Jungle native)**: You have learned how to navigate the darkest jungles, and how to avoid the most dangerous hazards of the land. You gain a +2 trait bonus on Survival checks in jungle terrain.
+
+**Liberator (Free republic native)**: You’ve dedicated your life to fighting against oppression, tyranny, and slavery. You gain a +1 trait bonus on attack and damage rolls against slavers or any creature holding someone against their will.
+
+**Merchant’s Child (Trade city native)**: One of your close relatives was a gifted merchant in the bustling bazaars of a great trade city, and taught you early in life how to see the innate value in any object. You gain a +1 trait bonus on Appraise checks, and Appraise is always a class skill for you.
+
+**Mountain Guide (Dwarven mountains native)**: You are skilled at getting along in the mountains, enabling you to find hidden trails and secret entrances into the caverns beneath mountains. You gain a +1 trait bonus on Knowledge (geography) and Survival checks when in mountainous areas, and Knowledge (geography) is always a class skill for you.
+
+**Nomad Wanderer (Frontier land native)**: You were raised among or have spent time with a group of wandering nomads, whether travelers, criminals, or entertainers, and have learned their ways. Choose one of the following skills: Perform (choose one type), Profession (fortuneteller), or Sleight of Hand. You gain a +1 trait bonus on this skill, and it is always a class skill for you.
+
+**Orphanage Survivor (Bandit-plagued vassal state native)**: You grew up in one of the many orphanages run by a devil-worshiping church. Whether or not you took to their teachings, your strict indoctrination at the hands of the “devil nuns” has toughened your body to punishment. You gain a +1 trait bonus on Fortitude saves.
+
+**Perseverance (Dwarven mountains native)**: Your time in the mountains has taught you that any obstacle can be endured and overcome. When you have more than one Will saving throw to overcome an effect (such as from *greater command* or *hold person*, or by using the good fortune ability of the Luck domain), you receive a +3 trait bonus on the extra Will saves against that effect.
+
+**Pesh Addict (Trade city native)**: You spent several years addicted to pesh, a habit that you may or may not have kicked. You start with only half of the normal starting cash, but your knowledge of the pesh lifestyle grants you a +1 trait bonus on Bluff, Knowledge (local), and Sense Motive checks. One of these skills (your choice) is always a class skill for you.
+
+**Pirate Isles Seafarer (Pirate isles native)**: You’re familiar with the treacherous coastlines, currents, and tides of the pirate isles, and can use that knowledge anywhere. You gain a +1 trait bonus on Knowledge (nature) and Knowledge (geography) checks while on the ocean. You also gain a +1 trait bonus on Swim checks, and Swim is always a class skill for you.
+
+**Plains Rider (Desert satrapy native)**: You call the great grassy plains home, whether you were born among the plains’ tribes or in a glittering city. The horses are your kin. When mounted and making a charge, your mount’s speed is increased by 10 feet. You must have the Mounted Combat feat to take this trait.
+
+**Purchased Loyalty (Merchant nation native)**: As a member of a mercenary league, you are utterly loyal to the holder of your contract—at least until it expires. Once per day, when protecting someone who has bought your services, you may roll twice when making a Will save against charm effects and take the better result.
+
+**Raider Blood (Northern kingdoms native)**: You have the imposing build of a northern raider, and people of the south fear your unpredictable nature. You gain a +1 trait bonus on Intimidate checks, and Intimidate is always a class skill for you.
+
+**Riverfolk (Lawless river lands native)**: You’ve grown up on the tributaries of a great river system, and are as comfortable on boats as on land. You gain a +2 trait bonus on Profession (sailor) checks and any skill checks involving rope use.
+
+**Secret Cultist (Godless nation native)**: You’re a secret member of a forbidden faith in a land that outlaws religion. You have learned to hide your beliefs and how to identify others of your faith. You gain a +5 trait bonus on Bluff checks to receive secret messages, and a +5 trait bonus on Sense Motive checks to intercept secret messages from others of your faith.
+
+**Secret of the Impossible Kingdom (Monastic island native)**: You have studied the ancient lore of a distant empire at a monastery, and have learned a mystical secret that empowers your spellcasting. Pick one spell when you choose this trait—from this point on, whenever you cast that spell, you do so at +1 caster level.
+
+**Secret Revolutionary (Infernal empire native)**: You seek to return your nation to its heyday before the rise of its devil-worshiping rulers. You have trained yourself to resist any questioning or torture should you ever be caught. You gain a +1 trait bonus on Will saves against mind-affecting effects, and on Fortitude saves against drugs or poisons.
+
+**Shadowcaster (Shadow-sworn nation native)**: You have studied with feared shadowcasters. Choose one spell with the shadow descriptor—from this point on, whenever you cast this spell, its effect manifest at +1 caster level.
+
+**Signaler (Militaristic empire native)**: By watching imperial troops, you know how to use flags, smoke signals, and other methods to send secret messages, and gain a +5 trait bonus on Bluff checks to receive secret messages and a +5 trait bonus on Sense Motive checks to intercept messages.
+
+**Silent Watcher (Revolutionary nation native)**: You can sense an ugly mood brewing in a crowd, and know how to dodge wrathful mobs when they seek victims for their anger. You gain a +1 trait bonus on Sense Motive checks in crowds, and a +1 trait bonus on Stealth checks in city streets.
+
+**Soldier of the Faith (False-god theocracy native)**: You have served a self-proclaimed god as a faithful enforcer, or upon one of the “faith barges” plying the waters of a great lake, and have learned the enforcement techniques of his theocracy. You gain a +1 trait bonus on Intimidate checks, and Intimidate is always a class skill for you.
+
+**Spire Elf Heritage (Isolated island native)**: You have lived among a reclusive clan of sea-spire elves and know their strange ways. You gain a +1 trait bonus on Swim checks and a +1 trait bonus on saving throws against enchantment effects.
+
+**Storm Spellpiercer (Hurricane coast native)**: You have spent time in the gales of a perpetual hurricane, and can cast spells even when battered by the elements. You gain a +2 trait bonus on concentration checks when spellcasting.
+
+**Stormrunner (Pirate isles native)**: You have sailed on some of the roughest seas in the world, and have skirted the edge of a perpetual hurricane. You’re accustomed to the pitch and yaw of sailing vessels, even in a storm, and gain a +2 trait bonus on Acrobatics checks to keep your footing on uneven ground or unsteady surfaces.
+
+**Sunken City Diver (Hurricane coast native)**: You know how to operate diving bells, and you’ve dived the streets of a sunken city yourself, so you know what to expect. You gain a +1 trait bonus on Swim checks, and Swim is always a class skill for you.
+
+**Superstitious Ward (Haunted land native)**: You’re not frightened of the old wives’ tales of vampires and ghosts, and though you try to avoid the undead, you’ve learned how to deal with them. You may cast *disrupt undead* once per day as a spell-like ability. This is cast at your highest caster level gained; if you have no caster level, it functions at CL 1st.
+
+**Swordlord’s Page (Feuding northern kingdom native)**: You have trained under the dueling swordlords, and though not yet a swordlord yourself, you have learned how to strike hard with your weapon. You gain a +1 attack bonus to confirm critical hits when using an edged weapon you are proficient with.
+
+**Technic Tinkerer (Skyfallen wasteland native)**: You managed to uncover some lesser secrets of a league of technology hoarders, and have mastered a minor bit of magic. Choose a 0-level spell. You may cast that spell once per day as a spell-like ability. This is cast at your highest caster level gained; if you have no caster level, it functions at CL 1st.
+
+**Tomb Scholar (Ancient desert kingdom native)**: You have studied the history of an ancient desert empire, and may have even ventured inside one of its great pyramids. You gain a +1 trait bonus on Knowledge (engineering) and Knowledge (history) checks, and one of them is always a class skill for you. In addition, you may choose the ancient tongue of that empire as one of your bonus languages.
+
+**Touched by the Sky (Skyfallen wasteland native)**: Somehow, you managed to retrieve a rare vial of fluid from a piece of crashed wreckage on the plains of a skyfallen wasteland. Before you could be caught with the contraband, you drank it. You now have the ability to stabilize a dying creature with a touch as a standard action.
+
+**Twilight Hunter (Shadow-sworn nation native)**: You have served a shadowy court, discreetly following interlopers through twilit city streets to pinpoint their locations for the authorities. You gain a +1 trait bonus on Stealth checks, and Stealth is always a class skill for you.
+
+**Wasteland Survivalist (Magic-dead wasteland native)**: You grew up in the blasted badlands of a magic-dead wasteland, or have spent a lot of time there, and the harsh land has toughened your body. You gain a +1 trait bonus on Fortitude saves.
+
+**Wealthy Dabbler (Decadent empire native)**: You study magic at one of your empire’s many social clubs, wowing your friends with your expertise in the simplest of magical exploits. Select two non-harmful arcane cantrips. You can cast these two cantrips once per day each (caster level 1st). If you have levels in a class that can cast these cantrips, your caster level for these cantrips is equal to that class level.
+
+**Winter Warrior (Witch-ruled land native)**: You grew up in icy lands of eternal winter, and surviving in the cold snows is second nature to you. You gain a +1 trait bonus on Stealth and Survival checks in ice- or snow-covered terrain.
+
+**Winter’s Soul (Witch-ruled land native)**: The eternal winter of your homeland is as much a part of you as it is the land. You may cast *ray of frost* once per day as a spell-like ability. This is cast at your highest caster level gained; if you have no caster level, it functions at CL 1st.
+

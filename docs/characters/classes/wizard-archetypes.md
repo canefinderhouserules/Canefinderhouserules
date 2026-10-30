@@ -246,6 +246,16 @@ If that spell summoned more than one creature, only the creature that failed its
 
 **Counterspell Mastery (Su)**: At 6th level, you gain Improved Counterspell as a bonus feat. You may attempt to counterspell an opponent’s spell once per day as an immediate action (instead of a readied action). You must use a spell at least one level higher than the spell being countered to use this ability. You can use this ability once per day at 6th level, plus one additional time per day for every 4 levels beyond 6th.
 
+### Crafter School
+
+Some magical colleges teach a broad array of specialties, but their most intensive specialty is no specialization at all. The wizards who graduate from such academies become well respected, well paid, and highly sought after in their homelands. A crafter is one of the builders of the arcane world, assembling magic items with facility, skill, and power. He is intimately familiar with the craft and practice of imbuing items with arcane power, and works with precision even early in his career.
+
+**Associated School**: Universalist.
+
+**Replacement Powers**: The following school power replaces the hand of the apprentice power of the universalist school.
+
+**Metacharge (Ex)**: As a crafter, you gain a bonus feat at 3rd level, which must be an item creation feat or metamagic feat. You must still meet all prerequisites for a bonus feat, including caster level minimums. When using metamagic feats to create magic items, your skill and understanding of the principles involved in the item’s creation give you a +2 bonus on the skill check made to create the item.
+
 ### Creation School
 
 **Associated School**: Conjuration.
@@ -315,6 +325,26 @@ Some illusionists rely more on their natural talents and less on flashy figments
 **Freezing Shards (Su)**: As a standard action, you can cause shards of ice to burst forth from the ground around you. The shards deal 1d4 points of piercing damage and 1d6 points of cold damage + 1 point for every 2 wizard levels you have to all creatures within 5 feet of you. A successful Reflex save (DC = 10 + half your wizard level + your Intelligence modifier) negates the piercing damage and halves the cold damage. The shards remain until the beginning of your next turn; during this time, the area is difficult terrain. You are not affected by your own freezing shards and can move through the area normally. You can use this ability a number of times per day equal to 3 + your Intelligence modifier.
 
 **Icy Shackles (Su)**: At 8th level, as a standard action, you can make a melee touch attack against a foe to conjure icy restraints around its ankles, reducing its base speed to 5 feet and dealing it an amount of cold damage at the beginning of its turn equal to your Intelligence modifier. The manacles have AC 10, hardness 0, and 30 hit points, and a creature can destroy them with a successful Strength check (DC = 10 + half your wizard level + your Intelligence modifier) as a standard action. The icy shackles melt away after 1 minute. You can use this ability a number of times per day equal to your Intelligence modifier.
+
+### Infernal Binder School
+
+Some academies of the magical arts are best known for an infernal binding program in the school of conjuration. An infernal binder learns the Names of Hell, and can use those powers to summon and bind devils to do her bidding. If she makes a single mistake in the binding, she opens herself to an eternity of torment.
+
+**Associated School**: Conjuration.
+
+**Suggested Opposition Schools**: Divination, illusion, or transmutation.
+
+**Alignment**: Lawful evil, lawful neutral, neutral evil, or neutral.
+
+**Requirements**: An infernal binder must choose a familiar as her arcane bond at 1st level.
+
+**Replacement Powers**: The following school powers replace the acid dart and dimensional steps powers of the conjuration school.
+
+**Planar Knowledge (Ex)**: As an infernal binder, you gain a +3 bonus on Knowledge (planes) checks.
+
+**Assume Control (Su)**: At 1st level, you can attempt to gain control over a summoned creature by disrupting the bond between it and the caster who summoned it. You must make a caster level check (1d20 + caster level) equal to 10 + the summoning caster’s level. If you know the summoned creature’s name, you receive a +2 circumstance bonus on the check. If the check is successful, you can control the summoned creature as if you had summoned it for a number of rounds equal to 1/2 your wizard level (minimum 1 round). This does not increase the duration of the original summoning. The original summoning caster can attempt to regain control of the summoned creature as a standard action by making a caster level check against your caster level + 10. When your control ends, the creature reverts to the control of its summoner. At 9th level, you can use this ability to bargain with called creatures as if you were the caster who conjured them. You can use this ability a number of times per day equal to 3 + your Intelligence modifier.
+
+**Imp Familiar (Ex)**: At 7th level, you gain Improved Familiar as a bonus feat, and must take an imp as a familiar. The imp replaces your current familiar.
 
 ### Life School
 
@@ -419,6 +449,24 @@ These temporary hit points disappear 1 hour later. You may not use this ability 
 **Replacement Power**: The following school power replaces the grave touch power of the necromancy school.
 
 **Bolster (Sp)**: As a standard action, you can touch an undead creature and infuse it with negative energy. It gains a +1 profane bonus on all attack rolls and saving throws, as well as 1 temporary hit point per Hit Die and a +2 bonus to its turn resistance. The bonus on attack rolls and saving throws increases by +1 for every 5 wizard levels you possess. These bonuses last for a number of rounds equal to 1/2 your wizard level (minimum 1 round). The bonuses and temporary hit points are immediately dispelled if the creature is within the area of a consecrate spell. You can use this ability a number of times per day equal to 3 + your Intelligence modifier. 3Feats They notched my sword!” Valeros cried.
+
+### Veil School
+
+Rather than controlling the elements or transforming the environment, mages of the veil focus on much more subtle magic—blending into their surroundings to watch, observe, and gather secrets, or fading from view completely for the sake of solitude. Most graduates of this tradition enter the service of rulers as spies, scouts, or infiltrators.
+
+**Associated School**: Illusion.
+
+**Requirements**: A mage of the veil must select *disguise self* as one of his spells known at 1st level.
+
+**Class Skills**: A mage of the veil gains Bluff, Disguise, and Stealth as class skills.
+
+**Replacement Powers**: The following school powers replace the blinding ray and invisibility field powers of the illusion school.
+
+**Face in the Crowd (Sp)**: At 1st level as a standard action, you can cause yourself to appear so normal, mundane, and unexceptional that you blend in to your surroundings. All creatures within 30 feet treat you as if you belonged there, effectively ignoring you. Creatures outside of this area may notice that you appear out of place, but as soon as they approach within 30 feet they are affected by the magic and no longer think something is amiss. If you interact with an affected creature in any way, it gains a Will save (DC 10 + 1/2 your wizard level + your Intelligence modifier) to disbelieve the illusion and notice you. The effect lasts for a number of minutes equal to your wizard level, or until the illusion is dispelled. The minutes do not need to be consecutive, but must be used in 1-minute increments. This is a mind-affecting phantasm effect.
+
+This ability does not turn you invisible and opponents are not considered flat-footed. It does not allow you to disguise yourself as a specific individual, type of person, or member of another race, so you cannot blend into a group of uniformed guards or appear as a member of an individual’s family, and a human cannot blend into a group of gnolls. You can blend in with any group made up of different types of people, such as a crowd of courtiers in a king’s throne room, and you can disguise yourself (either through magic or more mundane means) to appear as a specific type of person or another race (such as a uniformed guard or a gnoll) before using this ability.
+
+**Master of the Veil (Sp)**: At 8th level, you can create an illusion that hides the appearance of yourself and any number of allies within 30 feet for 1 round per wizard level. This ability otherwise functions like the spell *veil*. The rounds do not need to be consecutive.
 
 ## Exploiter Wizard
 

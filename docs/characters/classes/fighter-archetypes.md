@@ -1097,3 +1097,33 @@ Scrappers collect the leftovers from enemy armor and use them to improve their o
 **Scrap Armor (Ex)**: At 3rd level, a scrapper can salvage scrap from a destroyed construct or another creature's armor (1 minute) and attach it to his own armor. Scrap from a construct grants a natural armor bonus to AC equal to one-quarter the construct's Hit Dice (minimum +1). Scrap from armor grants a natural armor bonus equal to 1 + the armor's enhancement bonus (if any). Scrap is flimsy: it is immediately destroyed by any sunder combat maneuver that targets the armor it is attached to, and otherwise crumbles away after a number of days equal to the bonus it grants. At 11th level, scrap salvaged from a construct also grants DR/adamantine equal to one-quarter of the construct's Hit Dice. This replaces armor training.
 
 **Scrapper Training (Ex)**: At 5th level, a scrapper selects one fighter weapon group. He gains a +1 bonus on attack and damage rolls when performing a sunder combat maneuver with a weapon from that group and does not provoke attacks of opportunity when doing so. If he has Improved Sunder, these bonuses double. At 9th level and every 4 levels thereafter, he can either take the weapon training class feature or improve his bonuses from scrapper training by 1. This replaces weapon training 1.
+
+## Desert Dervish
+
+In the desert lands, no enemy is as feared as the dervishes of the sun goddess. While dervishes can be clerics, paladins, or rangers, zealous fighters join their ranks as well. These spinning warriors prefer light or no armor and wield scimitars with devastating consequences, moving swiftly over the treacherous desert sands to attack with lightning-fast strikes. They maneuver quickly among their enemies, relying on their speed and their skill to see them through the battle.
+
+**Suggested Feats**: Agile Maneuvers, Combat Expertise, Dazzling Display, Dervish Dance, Dodge, Mobility, Spring Attack, Step Up, Weapon Finesse, Weapon Focus (scimitar), Weapon Specialization (scimitar), Whirlwind Attack.
+
+**Burst of Speed (Ex)**: At 3rd level, a desert dervish takes only a –1 penalty to her AC after charging. At 7th level, the desert dervish can charge with no penalty. This ability replaces armor training 1.
+
+**Desert Stride (Ex)**: At 7th level, a desert dervish can move through 10 feet of difficult terrain each round as if it were normal terrain. This benefit stacks with the benefits provided by the Acrobatic Steps and Nimble Moves feats. This ability replaces armor training 2.
+
+**Rapid Attack (Ex)**: At 11th level, a desert dervish can combine a full attack with a single move. She must forgo the attack at her highest bonus but may take the remaining attacks at any point during her movement. This movement provokes attacks of opportunity as normal. This ability replaces armor training 3.
+
+**Lightning Strike (Ex)**: At 15th level, as part of a full attack, a desert dervish can make one additional attack. This attack is at the dervish’s highest base attack bonus, but each attack in the round (including the extra one) takes a –2 penalty. This ability replaces armor training 4.
+
+## Rondelero Duelist
+
+The warriors of an old empire have perfected the art of fighting with the falcata and buckler in an art they call rondelero. They use their bucklers both to defend themselves and to launch unexpected strikes while chopping and hewing at their foes’ unprotected bodies and heads with their falcatas. Rondeleros wear any type of armor, but favor bucklers, and are comfortable using both hands for offense and defense.
+
+**Suggested Feats**: Exotic Weapon Proficiency (falcata), Improved Shield Bash, Improved Two-Weapon Fighting, Power Attack, Shield Slam, Shield Master, Two-Weapon Fighting, Weapon Focus (falcata), Weapon Specialization (falcata).
+
+**Buckler Bash (Ex)**: At 2nd level, a rondelero can perform a shield bash with a buckler (use the same damage and critical modifier as for a light shield). This ability replaces bravery.
+
+**Buckler Catch (Ex)**: At 3rd level, a rondelero can catch his opponent’s weapon between his buckler and his forearm, effectively wedging the hafts of polearms and hammers or the flats of blades. This functions as a disarm combat maneuver, and the rondelero gains a +4 bonus on the roll. If the rondelero’s attack fails by 10 or more, he suffers a –2 penalty to his AC until the start of his next turn. This ability replaces armor training 1.
+
+**Strong Swing (Ex)**: At 5th level, a rondelero gains a +1 bonus on attack and damage rolls when wielding a falcata and buckler that applies to attacks made by either hand. These bonuses increase by +1 for every four levels beyond 5th. With a full-attack action, a rondelero may alternate between using his falcata or his buckler for each attack. This does not grant additional attacks or incur penalties as two-weapon fighting does. This ability replaces weapon training 1.
+
+**Armor Training (Ex)**: At 7th level, a rondelero gains armor training 1, and can move at his normal speed in medium armor. At 15th level, the rondelero gains armor training 2, and can move at his normal speed in heavy armor. This ability replaces armor training 2.
+
+**Chopping Blow (Ex)**: At 11th level, as a standard action, a rondelero can make a single melee attack with a falcata. If the attack hits, he may make a sunder combat maneuver against the target of his attack as a free action that does not provoke an attack of opportunity. This ability replaces armor training 3.
