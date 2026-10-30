@@ -55,6 +55,7 @@
 - **[Restoration, Lesser](restoration-lesser.md)**: Dispels magical ability penalty or repairs 1d4 ability damage.
 - **[Rite of Bodily Purity](rite-of-bodily-purity.md)**: Meditative spell: bonus against disease and poison, with a reroll.
 - **[Shield of Shards](shield-of-shards.md)**: Your shield breaks into orbiting shards that attack.
+- **[Sign of the Dawn](sign-of-the-dawn.md)**: Silently tell creatures you worship the sun deity.
 - **[Songbird](songbird.md)**: Conjure music from a good-aligned plane
 - **[Spindrift Spritz](spindrift-spritz.md)**: Ally rerolls a save against fatigue, shaken, sickened, or staggered.
 - **[Stalwart Resolve](stalwart-resolve.md)**: Ignore ability damage to one score.

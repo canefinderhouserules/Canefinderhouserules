@@ -71,3 +71,10 @@ Religion traits are tied to a specific deity. You need not be a divine spellcast
 **Starlit Hexer** *(any alien cosmic deity of the void)*: Your spellcasting powers are infused with the powers of the occult beings of the void between the stars. Whenever you cast a spell or spell-like ability with the curse descriptor, increase the DC of the spell's saving throw by 1. If you cast such a spell or spell-like ability at night, as long as the sky is clear and the stars are visible, treat your caster level as 1 higher when determining the spell's duration.
 
 **Twisted Transformations** *(any alien elder deity)*: Whenever you are affected by a transmutation spell of the polymorph subschool, your new form is always in some way horrific, grotesque, or otherwise marked by the corruption of the elder powers. While polymorphed, you gain a +2 trait bonus on Intimidate checks and increase the DC of spells you cast with the fear descriptor by 1. However, you also take a –2 penalty on Diplomacy checks while polymorphed.
+
+**Ambassador** *(deity of the sun and redemption)*: Your natural abilities at mediation and compromise manifested at a young age. For as long as you can remember, you were always more able to solve disputes and carefully settle violent disagreements than others. You gain a +2 trait bonus to Diplomacy checks.
+
+**Devotee of a Dead God** *(a god who has died)*: You simply cannot and will not accept that your god is dead. Your faith in his teachings and religion are stronger than ever. You gain a +1 trait bonus on Diplomacy checks and Knowledge (religion) checks. One of these skills (your choice) is always a class skill for you.
+
+**Under Siege** *(deity of the sun and redemption)*: In order to maintain your devotion to your persecuted faith and stay alive, you and your fellow worshipers developed a complex system of hand signs and facial gestures to identify yourselves as faithful. You gain a +1 trait bonus on Bluff and Sense Motive checks. One of these skills (your choice) is always a class skill for you.
+

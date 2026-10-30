@@ -68,6 +68,7 @@
 - **[Rock Whip](rock-whip.md)**: Whip of stone ignores stone cover and bull rushes foes it hits.
 - **[Savage Maw](savage-maw.md)**: Your teeth extend and sharpen, transforming your mouth into a maw of razor-sharp fangs.
 - **[Sculpted Cape](sculpted-cape.md)**: Your cape stiffens and holds its shape.
+- **[Sign of the Dawn](sign-of-the-dawn.md)**: Silently tell creatures you worship the sun deity.
 - **[Speak Local Language](speak-local-language.md)**: Speak and understand one known regional human language.
 - **[Speak with Animals](speak-with-animals.md)**: You can communicate with animals.
 - **[Spindrift Spritz](spindrift-spritz.md)**: Ally rerolls a save against fatigue, shaken, sickened, or staggered.

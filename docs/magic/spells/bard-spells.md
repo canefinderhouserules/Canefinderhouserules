@@ -127,6 +127,7 @@
 - **[See Alignment](see-alignment.md)**: Pick an alignment; in your sight, creatures and items with that alignment emit a ghostly radiance.
 - **[Shadow Trap](shadow-trap.md)**: pins the target's shadow so it is entangled
 - **[Shadowfade](shadowfade.md)**: Target is invisible to darkvision in darkness.
+- **[Shield Speech](shield-speech.md)**: You and one creature talk without being overheard.
 - **[Silent Image](silent-image.md)**: Creates minor illusion of your design.
 - **[Skim](skim.md)**: read in a quarter of the time
 - **[Sleep](sleep.md)**: Puts 4 HD of creatures into magical slumber.

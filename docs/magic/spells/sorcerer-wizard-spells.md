@@ -169,6 +169,7 @@
 - **[Mage Armor](mage-armor.md)**: Gives subject +4 armor bonus.
 - **[Mount](mount.md)**: Summons riding horse for 2 hours/level.
 - **[Obscuring Mist](obscuring-mist.md)**: Fog surrounds you.
+- **[Shield Speech](shield-speech.md)**: You and one creature talk without being overheard.
 - **[Shock Shield](shock-shield.md)**: A shield of force protects you until you dismiss it in an explosion of electricity.
 - **[Skim](skim.md)**: read in a quarter of the time
 - **[Skin Tag](skin-tag.md)**: Haunted food that lets you torment its eater from afar.
@@ -255,6 +256,7 @@
 **Abjuration**
 
 - **[Aboleth’s Lung](aboleth-s-lung.md)**: The targets are able to breathe water, freely.
+- **[Admonishing Ray](admonishing-ray.md)**: Rays of force deal 4d6 nonlethal damage each.
 - **[Adoration](adoration.md)**: You gain a bonus on Diplomacy checks and performance combat checks.
 - **[Ally Across Time](ally-across-time.md)**: Summon a brief duplicate of yourself to aid you.
 - **[Alter Summoned Monster](alter-summoned-monster.md)**: Swap a summoned creature for another
@@ -922,6 +924,7 @@
 - **[Shadowform](shadowform.md)**: foes that fail to disbelieve deal only one-fifth damage
 - **[Shadowy Haven](shadowy-haven.md)**: This spell functions like rope trick, except the point of entry is through a 5-foot-square instead of a rope.
 - **[Share Shape](share-shape.md)**: Beast shape II, limited to your companion's or familiar's kind.
+- **[Shield Speech, Greater](shield-speech-greater.md)**: Creatures within 30 ft. talk without being overheard.
 - **[Shocking Image](shocking-image.md)**: As mirror image, but the duplicates emit electrical damage when destroyed.
 - **[Skeleton Crew](skeleton-crew.md)**: Animates corpses as skeleton sailors.
 - **[Soul Vault](soul-vault.md)**: Protect a soul from being trapped

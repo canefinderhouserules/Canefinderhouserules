@@ -42,6 +42,8 @@ Only dwarfs may select one of these traits.
 
 **Ancestral Grounds**: You recall the dangers the dwarves faced during their ancient migration from the Underworld to the surface. You gain a +1 trait bonus on Knowledge (dungeoneering) checks and a +2 trait bonus on Knowledge (history) checks pertaining to that migration. Select one of these skills to be a class skill for you.
 
+**Militant Merchant**: You know what it takes to get your goods to market and will stop at nothing to protect your products. Years of fending off thieves, cutthroats, and brigands have given you a sixth sense when it comes to danger. You gain a +1 trait bonus on Perception checks made to determine surprise, and Perception is always a class skill for you.
+
 ## Elf Traits
 
 Only elfs may select one of these traits.
@@ -69,6 +71,8 @@ Only elfs may select one of these traits.
 **Wild Stride**: Choose a favored terrain from those listed in the ranger favored terrain class ability. You can move through naturally occurring difficult terrain without any penalty while within your favored terrain. Terrain created or modified by magic or traps affects you normally.
 
 **Keeper of the Secret Shame**: You are a member of an elven order sworn to secrecy, tasked with ensuring that knowledge of the elves’ secret shame—the drow—never reaches the surface. You gain a +2 trait bonus on Knowledge checks pertaining to drow and drow settlements.
+
+**Dilettante Artist**: Art for you is a social gateway and you use it to influence and penetrate high society. You gain a +1 trait bonus to one category of Perform checks and a +1 trait bonus to Diplomacy checks. One of these skills (your choice) is always a class skill for you.
 
 ## Gnome Traits
 
@@ -317,6 +321,12 @@ Only humans may select one of these traits.
 **Tribal Steed**: Your nomadic culture gives you a profound knowledge of and respect for the horses that roam your homelands. You begin play with a combat-trained light horse. While riding this horse bareback, you are treated as though you were riding it with a riding saddle (placing any actual saddle upon the horse negates this benefit). The horse can fend for itself outside of settlements in all but the most hostile environments. If whistled for outside of a community, the horse typically arrives within 1d6 minutes. If your horse is slain, you may receive a new horse by returning to your clan and performing a vigil for its spirit (a rite that costs 100 gp in rare herbs and incense). You must be a human of the highland tribes to take this trait.
 
 **Tribal Tattoo**: Upon reaching adulthood, you received a tribal tattoo, marking you with the symbols of your clan and totem spirits. You gain a +1 trait bonus on saving throws against fear effects. Additionally, you are proficient with earth breakers, klars, and spiked bolas. You must be a human of the highland tribes to take this trait.
+
+**Aspiring Bard**: You spent countless hours of your youth wandering the open campuses of your capital’s great music academies, listening to wonderful musicians and singers and daydreaming of your life as a bard. You gain a +1 trait bonus to one category of Perform checks and a +2 trait bonus to any Knowledge (local) checks that deal with your capital’s music scene. You must be a human of the old empire to take this trait.
+
+**Ancient Empire Fanatic**: Your years spent in libraries reading every musty tome you could find about an ancient lost human empire have given you insight into the subjects of history and the arcane. You gain a +1 trait bonus to Knowledge (arcana) and Knowledge (history) checks. One of these skills (your choice) is always a class skill for you. You must be a human descended from that lost empire to take this trait.
+
+**Carefully Hidden**: The old empire is not kind to people of your desert-born ethnicity. Your life as a member of an unpopular ethnic group has given you an uncanny knack for avoiding detection. You gain a +1 trait bonus to Will saves and a +2 trait bonus to saving throws versus divination effects. You must be a human to take this trait.
 
 ## Catfolk Traits
 

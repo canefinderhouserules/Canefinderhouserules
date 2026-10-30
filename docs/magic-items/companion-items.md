@@ -7212,3 +7212,77 @@ The gavel bestows one negative level on any chaotic or good creature attempting 
 
 **Construction Requirements:** Craft Wondrous Item, *dictum*; **Cost** 16,000 gp
 
+## Old Empire Items
+
+### Ring of the Sublime
+
+**Slot** ring; **CL** 1st; **Price** 2,000 gp; **Weight** —
+
+**Aura** faint abjuration
+
+This ornate gold ring is set with a single round sapphire and platinum stems. When worn, the ring of the sublime protects its wearer from fear effects as if constantly under the effects of *remove fear*. Wearers of rings of the sublime in the old empire often believe the ring’s ability to combat fear also removes social anxiety, making the wearer a more confident and self-assured member of high society.
+
+**Construction Requirements:** Forge Ring, *remove fear*; **Cost** 1,000 gp
+
+### Gossip Glass
+
+**Slot** eyes; **CL** 1st; **Price** 3,600 gp; **Weight** 1 lb.
+
+**Aura** faint divination
+
+This silver, bejeweled set of opera glasses is indistinguishable from a regular set, save that when you look through the lenses you gain a +4 competence bonus on sight-based Perception checks. When reading lips, you can understand any spoken language as the *comprehend languages* spell. You can only use a gossip glass to spy on conversations within line of sight and must be able to see people speak in order to read their lips.
+
+**Construction Requirements:** Craft Wondrous Item, *comprehend languages*; **Cost** 1,800 gp
+
+### Missive Stone
+
+**Slot** neck; **CL** 3rd; **Price** 10,000 gp; **Weight** —
+
+**Aura** faint transmutation
+
+These two small, polished pieces of black rock dangle from simple silver chains and are covered in dozens of tiny arcane symbols etched in red paint. Missive stones are always created in pairs. When you and another person each wear one of the stones, you can send whispered messages to each other as long as you are no more than 3 miles apart.
+
+**Construction Requirements:** Craft Wondrous Item, *whispering wind*; **Cost** 5,000 gp
+
+### Philanderous Compact
+
+**Slot** none; **CL** 1st; **Price** 1,500 gp; **Weight** —
+
+**Aura** faint illusion
+
+This small, polished leather case opens to reveal a mirror, face powder, rouge, and a puff. Using the puff and uttering a command word allows you to change your appearance once per day as per *disguise self*. Additionally, you get a +2 competence bonus on Diplomacy checks to gather information.
+
+**Construction Requirements:** Craft Wondrous Item, *disguise self*, creator must have at least 5 ranks in Diplomacy; **Cost** 750 gp
+
+### Soaring Cathedra
+
+**Slot** none; **CL** 3rd; **Price** 5,000 gp; **Weight** 250 lbs.
+
+**Aura** faint transmutation
+
+This large sedan chair is made of light but sturdy blackwood and is draped with white silk coverings. Inside, there is room for two medium-sized occupants on a bed of silken pillows and thick padding. Its movement is controlled by one of the occupants. It always floats a few feet above the ground and moves horizontally with a speed of 10 feet, though the occupants can make it land or float again as a free action.
+
+**Construction Requirements:** Craft Wondrous Item, *levitate*, creator must have at least 5 ranks in Craft (woodworking); **Cost** 2,500 gp
+
+### Talisman of the Summoned Steed
+
+**Slot** none; **CL** 1st; **Price** 3,600 gp; **Weight** —
+
+**Aura** faint conjuration
+
+This onyx talisman resembles a majestic black stallion covered in carved wavy lines and bearing a tiny twine bridle. When the command word is spoken, it transforms into a saddled and thoroughbred light horse that serves you willingly. The command word also returns it to talisman form. If slain, the horse reverts to talisman form and cannot be activated again for 24 hours.
+
+Each talisman’s horse form has a specific color (black, brown, gray, pinto, and so on) and markings (blazes, stars, stockings, etc.), chosen by the creator when the item is crafted.
+
+**Construction Requirements:** Craft Wondrous Item, *mount*, creator must have at least 5 ranks in Ride; **Cost** 1,800 gp
+
+### Pendulate Divan
+
+**Slot** none; **CL** 11th; **Price** 66,000 gp; **Weight** 100 lbs.
+
+**Aura** moderate conjuration and transmutation
+
+This luxurious, red felt divan is edged in gold latticework and made from highly polished, glossy black wood. If you lie upon it, you automatically understand how to activate it. Created for a mad emperor thousands of years ago, the *pendulate divan* includes many special abilities. When you sit, stand, or lie upon it, it can walk like a four-legged animal with a movement speed of 30 feet, create up to 2 gallons of water per day, protect you with *endure elements*, and *fly* or *teleport* as per the spells (once each per day). The original *pendulate divan* is kept in the old empire’s imperial palace, though a few copies of it were created over the centuries, and many wealthy nobles own lesser versions which can only walk and have no other powers.
+
+**Construction Requirements:** Craft Wondrous Item, *animate object*, *create water*, *endure elements*, *fly*, *teleport*, creator must have at least 5 ranks in Craft (woodworking); **Cost** 33,000 gp (original version), 20,000 gp (lesser version)
+

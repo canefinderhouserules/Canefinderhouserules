@@ -7,6 +7,7 @@
 - **[Detect Fiendish Presence](detect-fiendish-presence.md)**: Detects evil outsiders and their servants.
 - **[Detect Magic](detect-magic.md)**: Detects spells and magic items within 60 ft.
 - **[Detect Poison](detect-poison.md)**: Detects poison in one creature or object.
+- **[Enhanced Diplomacy](enhanced-diplomacy.md)**: +2 on one Diplomacy or Intimidate check.
 - **[Grasp](grasp.md)**: Reattempt a failed Climb check to avoid falling.
 - **[Guidance](guidance.md)**: +1 on one attack roll, saving throw, or skill check.
 - **[Light](light.md)**: Object shines like a torch.
@@ -14,6 +15,7 @@
 - **[Purify Food and Drink](purify-food-and-drink.md)**: Purifies 1 cu. ft./level of food or water.
 - **[Read Magic](read-magic.md)**: Read scrolls and spellbooks.
 - **[Resistance](resistance.md)**: Subject gains +1 on saving throws.
+- **[Sign of the Dawn](sign-of-the-dawn.md)**: Silently tell creatures you worship the sun deity.
 - **[Stabilize](stabilize.md)**: Cause a dying creature to stabilize.
 - **[Vigor](vigor.md)**: Grant +1 on a single melee damage roll.
 - **[Virtue](virtue.md)**: Subject gains 1 temporary hp.
@@ -118,6 +120,7 @@
 - **[Scholar’s Perusal](scholars-perusal.md)**: Instantly skim a book’s contents as if read for 1 hour.
 - **[Shadow Trap](shadow-trap.md)**: pins the target's shadow so it is entangled
 - **[Shield of Faith](shield-of-faith.md)**: Aura grants +2 or higher deflection bonus.
+- **[Shield Speech](shield-speech.md)**: You and one creature talk without being overheard.
 - **[Shield the Banner](shield-the-banner.md)**: Protect a tribal standard with sanctuary and added toughness.
 - **[Skim](skim.md)**: read in a quarter of the time
 - **[Songbird](songbird.md)**: Conjure music from a good-aligned plane
@@ -148,6 +151,7 @@
 ## 2nd-Level Cleric Spells
 
 - **[Aboleth’s Lung](aboleth-s-lung.md)**: The targets are able to breathe water, freely.
+- **[Admonishing Ray](admonishing-ray.md)**: Rays of force deal 4d6 nonlethal damage each.
 - **[Aid](aid.md)**: +1 on attack rolls and saves against fear, 1d8 temporary hp +1/level (max +10).
 - **[Alchemical Tinkering](alchemical-tinkering.md)**: You transform one alchemical item or firearm into another alchemical item or firearm of the same or lesser.
 - **[Align Weapon](align-weapon.md)**: Weapon becomes good, evil, lawful, or chaotic.
@@ -419,6 +423,7 @@
 - **[Righteous Condemnation](righteous-condemnation.md)**: Nongood, nonlawful spellcasters who target you take penalties on mental ability checks.
 - **[Riversight](riversight.md)**: Scry along a river you touch.
 - **[Sadomasochism](sadomasochism.md)**: Pain empowers your attacks and demoralizes attackers.
+- **[Sand Whirlwind](sand-whirlwind.md)**: Whirling sand blinds a target and hampers its speech.
 - **[Screaming Flames](screaming-flames.md)**: Send forth a wave of flames screaming with the agony of the damned.
 - **[Searing Light](searing-light.md)**: Ray deals 1d8/two levels damage (more against undead).
 - **[Second Wind](second-wind.md)**: Heal 2d8 + 1/level when below one-quarter hit points.
@@ -552,6 +557,7 @@
 - **[Seek Shelter](seek-shelter.md)**: Weak creatures flee to safety in an orderly fashion.
 - **[Sending](sending.md)**: Delivers short message anywhere, instantly.
 - **[Shadow Barbs](shadow-barbs.md)**: Shadowy vicious spiked chain that radiates darkness.
+- **[Shield Speech, Greater](shield-speech-greater.md)**: Creatures within 30 ft. talk without being overheard.
 - **[Speak with Plane](speak-with-plane.md)**: Question a sentient plane.
 - **[Spell Immunity](spell-immunity.md)**: Subject is immune to one spell per 4 levels.
 - **[Spindrift Spritz, Mass](spindrift-spritz-mass.md)**: As spindrift spritz, affecting multiple creatures.
@@ -635,6 +641,7 @@
 - **[Reboot](reboot.md)**: Briefly reactivate a destroyed construct.
 - **[Righteous Might](righteous-might.md)**: Your size increases, and you gain bonuses in combat.
 - **[Sacred Nimbus](sacred-nimbus.md)**: Holy energy damages evil creatures that attack you and protects you from evil attacks.
+- **[Sand Whirlwind, Greater](sand-whirlwind-greater.md)**: As sand whirlwind, but in a 10-ft.-radius spread.
 - **[Sawtooth Terrain](sawtooth-terrain.md)**: Serrated blades erupt from a surface.
 - **[Scrying](scrying.md)**: Spies on subject from a distance.
 - **[Sessile Spirit](sessile-spirit.md)**: Cause a spirit inhabiting a creature or an object to go dormant.

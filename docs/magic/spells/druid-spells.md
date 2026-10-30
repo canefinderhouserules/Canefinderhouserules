@@ -6,6 +6,7 @@
 - **[Create Water](create-water.md)**: Creates 2 gallons/level of pure water.
 - **[Detect Magic](detect-magic.md)**: Detects spells and magic items within 60 ft.
 - **[Detect Poison](detect-poison.md)**: Detects poison in one creature or object.
+- **[Enhanced Diplomacy](enhanced-diplomacy.md)**: +2 on one Diplomacy or Intimidate check.
 - **[Flare](flare.md)**: Dazzles one creature (–1 penalty on attack rolls).
 - **[Grasp](grasp.md)**: Reattempt a failed Climb check to avoid falling.
 - **[Guidance](guidance.md)**: +1 on one attack roll, saving throw, or skill check.
@@ -15,6 +16,7 @@
 - **[Purify Food and Drink](purify-food-and-drink.md)**: Purifies 1 cu. ft./level of food or water.
 - **[Read Magic](read-magic.md)**: Read scrolls and spellbooks.
 - **[Resistance](resistance.md)**: Subject gains +1 bonus on saving throws.
+- **[Sign of the Dawn](sign-of-the-dawn.md)**: Silently tell creatures you worship the sun deity.
 - **[Stabilize](stabilize.md)**: Cause a dying creature to stabilize.
 - **[Virtue](virtue.md)**: Subject gains 1 temporary hp.
 
@@ -83,6 +85,7 @@
 - **[Rite of Bodily Purity](rite-of-bodily-purity.md)**: Meditative spell: bonus against disease and poison, with a reroll.
 - **[Rite of Centered Mind](rite-of-centered-mind.md)**: Meditative spell: bonus against mind-affecting effects, with a reroll.
 - **[Scarify](scarify.md)**: Convert lethal damage to nonlethal, leaving scars
+- **[Shield Speech](shield-speech.md)**: You and one creature talk without being overheard.
 - **[Shillelagh](shillelagh.md)**: Cudgel or quarterstaff becomes +1 weapon (2d6 damage) for 1 min./level.
 - **[Snow Shape](snow-shape.md)**: Shape snow like stone, or carve an ice weapon.
 - **[Snowball](snowball.md)**: Throw a conjured ball of snow at a target.
@@ -398,6 +401,7 @@
 - **[Sea Stallion](sea-stallion.md)**: You and your mount adapt to an aquatic environment.
 - **[See Through Stone](see-through-stone.md)**: See through stone as if it were glass.
 - **[Sensory Amplifier](sensory-amplifier.md)**: Creatures nearby sense more keenly but take extra damage.
+- **[Shield Speech, Greater](shield-speech-greater.md)**: Creatures within 30 ft. talk without being overheard.
 - **[Soul Vault](soul-vault.md)**: Protect a soul from being trapped
 - **[Spike Stones](spike-stones.md)**: Creatures in area take 1d8 damage, may also be slowed*.*
 - **[Spindrift Spritz, Mass](spindrift-spritz-mass.md)**: As spindrift spritz, affecting multiple creatures.

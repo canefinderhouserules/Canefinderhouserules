@@ -1,0 +1,5 @@
+# Sneaky Vagabond
+
+You have a well-practiced ability at going unnoticed.
+
+**Benefit**: You get a +2 bonus on Stealth checks when others are actively trying to find you. In crowds, this bonus increases to +4. Additionally, you gain a +2 circumstance bonus on Diplomacy (to gather information) and Knowledge (local) checks when trying to find a place to hide.

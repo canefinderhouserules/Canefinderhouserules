@@ -1996,6 +1996,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Expansive Trap Ability](expansive-trap-ability.md) | — | Ability to use ranger traps or land mines |
 | [Expeditious Sleuth](expeditious-sleuth.md) | — | Perception 3 ranks, inspiration or lore master class feature |
 | [Experienced Ghost Hunter](experienced-ghost-hunter.md) | — | Character level 7th, duskwalker, ghost hunter racial trait |
+| [Experienced Vagabond](experienced-vagabond.md) | — | Bluff 2 ranks, Knowledge (local) 2 ranks, member of an underclass |
 | [Expert Boarder](expert-boarder.md) | — | — |
 | [Expert Sniper](expert-sniper.md) | Combat | Stealth 3 ranks |
 | [Expert Trainer](expert-trainer.md) | — | — |
@@ -2125,6 +2126,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Fury of the Tainted](fury-of-the-tainted.md) | Combat | Cha 13, rage class feature, tiefling |
 | [Fury’s Fall](furys-fall.md) | Combat | Improved Trip |
 | [Fury’s Snare](furys-snare.md) | Combat | Fury’s Fall, Improved Trip |
+| [Galley Slave](galley-slave.md) | — | Profession (sailor) 2 ranks, current or former galley slave |
 | [Gather Might](gather-might.md) | — | Gather power class feature, kineticist level 8th |
 | [Gaze Reflection](gaze-reflection.md) | — | Spellcraft  10 stare and ranks, bold mesmerist tricks class features |
 | [Ghost Hunting Team](ghost-hunting-team.md) | — | Duskwalker, ghost hunter racial trait |
@@ -2235,6 +2237,9 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Illusive Gnome Bewilderment](illusive-gnome-bewilderment.md) | Combat | Int 13, Combat Expertise, Gnome Weapon Focus, Illusive Gnome Style, Illusive Gnome Surprise, Improved Feint, gnome magic and weapon familiarity racial traits |
 | [Illusive Gnome Style](illusive-gnome-style.md) | Combat, Style | Int 13, Combat Expertise, Gnome Weapon Focus, Improved Feint, base attack bonus +1, gnome magic and weapon familiarity racial traits |
 | [Illusive Gnome Surprise](illusive-gnome-surprise.md) | Combat | Int 13, Combat Expertise, Gnome Weapon Focus, Illusive Gnome Style, Improved Feint |
+| [Imperial Conscript](imperial-conscript.md) | — | Serf in service to a lord |
+| [Imperial Knight](imperial-knight.md) | — | Base attack bonus +6, heavy armor proficiency, proficient in a martial weapon |
+| [Imperial Squire](imperial-squire.md) | — | Base attack bonus +1, proficient in a martial weapon |
 | [Implement Mastery](implement-mastery.md) | Item Mastery | Implements class feature, mental focus class feature |
 | [Imposing Bearing](imposing-bearing.md) | Armor Mastery | Poised Bearing, base attack bonus +11 or fighter level 8th, armor training class feature, proficiency with heavy armor |
 | [Impressive Grit](impressive-grit.md) | Weapon Mastery | Base attack bonus +11, weapon training class feature with a ranged weapon |
@@ -2397,6 +2402,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Masked Symbol](masked-symbol.md) | — | Disguise 1 rank or dual identity |
 | [Master Hammer Throw](master-hammer-throw.md) | Combat | Int 13, Combat Expertise, Hammer Throw, Improved Hammer Throw, Improved Trip, Point-Blank Shot, Precise Shot, base attack bonus +6, dwarf |
 | [Master of Knowledge](master-of-knowledge.md) | — | Int 17, Skill Focus (Knowledge [any]), worshiper of a deity of knowledge |
+| [Master of the Ledger](master-of-the-ledger.md) | — | Appraise 6 ranks, Profession (any one) 6 ranks |
 | [Master of Your Kind](master-of-your-kind.md) | — | Familiar, speak with animals of its kind ability |
 | [Master Sniper](master-sniper.md) | Combat | Expert Sniper, Rapid Shot, Stealth 6 ranks |
 | [Masterful Flourish](masterful-flourish.md) | Combat, Performance | Weapon training class feature |
@@ -2800,6 +2806,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Snapping Jaws](snapping-jaws.md) | Combat | Base attack bonus +1, gnoll |
 | [Snatch and Drop](snatch-and-drop.md) | Combat | Flyby Attack, Powerful Wings |
 | [Sneaking Critical](sneaking-critical.md) | Combat, Critical | Critical Focus, base attack bonus +9, sneak attack class feature |
+| [Sneaky Vagabond](sneaky-vagabond.md) | — | — |
 | [Sniper's Lantern](snipers-lantern.md) | — | Point-Blank Shot, *dancing lights* racial spell-like ability |
 | [Snoutgrip](snoutgrip.md) | Combat | Combat Expertise, Combat Reflexes, Improved Grapple, Improved Unarmed Strike, base attack bonus +12 or 10th-level monk |
 | [Social Bravery](social-bravery.md) | Combat | Cha 13, bravery class feature |
@@ -3060,6 +3067,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Upsetting Shield Style](upsetting-shield-style.md) | Combat, Style | Dex 13, proficiency with bucklers |
 | [Upsetting Strike](upsetting-strike.md) | Combat | Dex 15, Combat Reflexes, Improved Shield Bash, Upsetting Shield Style, proficiency with bucklers |
 | [Upsetting Vengeance](upsetting-vengeance.md) | Combat | Dex 13, Combat Reflexes, Improved Shield Bash, Upsetting Shield Style, Upsetting Strike, proficiency with bucklers |
+| [Urban Forager](urban-forager.md) | — | Knowledge (local) 4 ranks, Survival 4 ranks, track class feature |
 | [Urdefhan Bladebreaker](urdefhan-bladebreaker.md) | Combat | Base attack bonus +1, proficiency with the rhoka sword, urdefhan |
 | [Valiant Steed](valiant-steed.md) | — | Animal or magical beast |
 | [Vampiric Companion](vampiric-companion.md) | — | Dhampir or vampire, nongood alignment, 10th level in a class that grants a familiar or animal companion |

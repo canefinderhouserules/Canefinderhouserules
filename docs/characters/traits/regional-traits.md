@@ -878,3 +878,9 @@ These traits tie characters to a frontier campaign of ancient monuments, rival c
 
 **Town Faithful**: As a faithful adherent of a good or neutral deity, you’ve come to celebrate the consecration of your town’s new cathedral. You gain a silver holy symbol of your chosen deity, and so long as you worship that deity and openly wear his or her symbol, you regain +1 additional hit point every time you receive magical healing.
 
+## Regional Traits of the Old Empire
+
+**Narrows Survivor (Old empire slum native)**: You spent your childhood in the infamous slums of the old empire’s capital. Years of living in violent squalor have sharpened your senses and given you an ardent distrust of humanity. You gain a +1 trait bonus to Initiative and Sense Motive checks. Sense Motive is always a class skill for you.
+
+**Precocious Spellcaster (Old empire native)**: Before you even began your training as a spellcaster, you spent a great deal of time studying cantrips and simple spells on your own. Because of this, you developed some innate magical abilities without any outside guidance. Select one cantrip and one 1st-level spell; when you cast these spells, they function at one caster level higher than your actual caster level.
+

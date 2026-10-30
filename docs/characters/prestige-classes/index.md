@@ -110,6 +110,8 @@ The prestige classes presented in this chapter are summarized below.
 
 **[Horizon Walker](horizon-walker.md)**: A scout and wanderer comfortable in even the strangest terrain.
 
+**[Imperial Shadow Blade](imperial-shadow-blade.md)**: A spy and duelist of an old empire’s shadow schools who vanishes into crowds and slows foes with sneak attacks.
+
 **[Infernal Knight](infernal-knight.md)**: A lawful devil-slayer who smites chaos and wears specialized armor.
 
 **[Infernal Knight Signifer](infernal-knight-signifer.md)**: The spellcasting arm of a knightly order: masked, lawful casters with devil-resistant gifts and armor training.
