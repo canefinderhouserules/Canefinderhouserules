@@ -884,3 +884,10 @@ These traits tie characters to a frontier campaign of ancient monuments, rival c
 
 **Precocious Spellcaster (Old empire native)**: Before you even began your training as a spellcaster, you spent a great deal of time studying cantrips and simple spells on your own. Because of this, you developed some innate magical abilities without any outside guidance. Select one cantrip and one 1st-level spell; when you cast these spells, they function at one caster level higher than your actual caster level.
 
+## Regional Traits of the Jungle Colony
+
+**Citizen of the Colony (Colonial capital native)**: You live and work in the colony’s capital. You gain a +1 trait bonus on all Knowledge (local) and Knowledge (nobility) checks regarding the capital.
+
+**Citizen of the Old Port (Colonial port native)**: You live and work in the colony’s old port city. You gain a +1 trait bonus on all Knowledge (local) and Knowledge (history) checks regarding the port.
+
+**Plainsman (Colonial plains native)**: You live and work on the colony’s grassy plains. You gain a +1 trait bonus on all Knowledge (geography) and Survival checks regarding those plains.

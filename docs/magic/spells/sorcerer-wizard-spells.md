@@ -304,6 +304,7 @@
 - **[Dark Whispers](dark-whispers.md)**: Whisper through the shadows.
 - **[Death From Below](death-from-below.md)**: School abjuration; Level bard 3, sorcerer/wizard 2 Casting Time 1 standard action Components V, S Range touch.
 - **[Defending Bone](defending-bone.md)**: Floating bone grants DR 5/bludgeoning.
+- **[Defoliate](defoliate.md)**: Destroys undergrowth in a line or spread, or deals 2d8 to a plant creature.
 - **[Demand Offering](demand-offering.md)**: Make a creature give you an object it’s holding.
 - **[Destabilize Powder](destabilize-powder.md)**: Ammunition in the targeted firearm is prone to misfire.
 - **[Detect Magic, Greater](detect-magic-greater.md)**: As *detect magic*, but learn more information.
@@ -538,6 +539,7 @@
 - **[Allied Cloak](allied-cloak.md)**: Animate your cloak to shield you and aid your actions.
 - **[Ancestral Regression](ancestral-regression.md)**: School transmutation (polymorph); Level alchemist 2, antipaladin 3, cleric 2, sorcerer/wizard 3, witch 2.
 - **[Ancestral Revision](ancestral-revision.md)**: a wayang appears as a gnome-like version of herself
+- **[Ape Walk](ape-walk.md)**: Gain a climb speed of 30 ft. and a +8 bonus on Climb checks.
 - **[Appearance of Life](appearance-of-life.md)**: Undead appear to be alive.
 - **[Apport Animal](apport-animal.md)**: Send or receive a Tiny or smaller animal via teleportation.
 - **[Armor Lock](armor-lock.md)**: Stiffens armor joints, staggering or entangling the target.
@@ -611,6 +613,7 @@
 - **[Hallucinatory Decor](hallucinatory-decor.md)**: Reimagine the decor of a structure.
 - **[Healing Leak](healing-leak.md)**: Halve the target's healing from positive or negative energy.
 - **[Healing Thief](healing-thief.md)**: You siphon half of all magical healing that the targeted creature receives.
+- **[Heatstroke](heatstroke.md)**: Ray deals 1d4 nonlethal damage and exhausts like ray of exhaustion.
 - **[Hero's Spellsword](heros-spellsword.md)**: Merge a rod or staff into a melee weapon.
 - **[Hollow Blades](hollow-blades.md)**: Target's melee damage drops one size.
 - **[Horrifying Visage](horrifying-visage.md)**: Haunt gives victims a phobia of a named thing.

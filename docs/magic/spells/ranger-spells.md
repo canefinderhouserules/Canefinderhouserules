@@ -25,6 +25,7 @@
 - **[Commune with Birds](commune-with-birds.md)**: You utter a question in the form of a low-pitched bird call that can be heard up to a mile away, and can.
 - **[Compel Hostility](compel-hostility.md)**: Compels opponents to attack you instead of your allies.
 - **[Deadeye’s Lore](deadeyes-lore.md)**: Gain a +4 bonus on Survival and move full speed while tracking.
+- **[Defoliate](defoliate.md)**: Destroys undergrowth in a line or spread, or deals 2d8 to a plant creature.
 - **[Delay Poison](delay-poison.md)**: Stops poison from harming subject for 1 hour/level.
 - **[Desperate Weapon](desperate-weapon.md)**: Create an improvised weapon.
 - **[Detect Animals or Plants](detect-animals-or-plants.md)**: Detects kinds of animals or plants.
@@ -94,6 +95,7 @@
 - **[Alter Summoned Monster](alter-summoned-monster.md)**: Swap a summoned creature for another
 - **[Animal Aspect](animal-aspect.md)**: You gain some of the beneficial qualities of an animal.
 - **[Ant Haul, Communal](ant-haul-communal.md)**: As ant haul, but you may divide the duration among creatures touched.
+- **[Ape Walk](ape-walk.md)**: Gain a climb speed of 30 ft. and a +8 bonus on Climb checks.
 - **[Aquatic Cavalry](aquatic-cavalry.md)**: Summon hippocampi to serve as aquatic mounts.
 - **[Ashen Path](ashen-path.md)**: breathe contaminated air and see through ash and smoke
 - **[Barkskin](barkskin.md)**: Grants +2 (or higher) enhancement to natural armor.

@@ -224,6 +224,8 @@ Only halflings may select one of these traits.
 
 **Successful Shirker**: Born and raised a slave with no hope of advancement, you are adept at avoiding your overseer’s ire and attention, the better to spend time on your own interests. You gain a +1 trait bonus on Stealth checks and a +3 trait bonus on Bluff and Diplomacy checks to avoid punishment by lawful authority.
 
+**Adventurous Explorer**: You are one of the few jungle halflings to brave the world outside their hidden jungle. When frightened or shaken, you only take a –1 penalty on your rolls instead of –2.
+
 ## Human Traits
 
 Only humans may select one of these traits.
@@ -327,6 +329,20 @@ Only humans may select one of these traits.
 **Ancient Empire Fanatic**: Your years spent in libraries reading every musty tome you could find about an ancient lost human empire have given you insight into the subjects of history and the arcane. You gain a +1 trait bonus to Knowledge (arcana) and Knowledge (history) checks. One of these skills (your choice) is always a class skill for you. You must be a human descended from that lost empire to take this trait.
 
 **Carefully Hidden**: The old empire is not kind to people of your desert-born ethnicity. Your life as a member of an unpopular ethnic group has given you an uncanny knack for avoiding detection. You gain a +1 trait bonus to Will saves and a +2 trait bonus to saving throws versus divination effects. You must be a human to take this trait.
+
+**Assimilated Native**: You have adopted the ways of the colonials. As a result, you feel that other, “inferior” races—such as your jungle-tribe brethren—should obey you as they do the colonials. You gain a +2 trait bonus on Intimidate checks to influence jungle natives, but you suffer a –2 on Diplomacy checks to influence them. You must be a human of the jungle tribes to take this trait.
+
+**Born to the Water**: You were born on the shore, and you easily live on and under the water. You gain a +1 bonus on Swim checks and only need to make Swim checks once every 2 hours to avoid fatigue, instead of once each hour. You must be a human of a coastal jungle tribe to take this trait.
+
+**Colonial Entitlement**: You are a firm believer in the superiority of your colonial heritage, and you cling to your racial and cultural pride. You gain a +2 trait bonus on Intimidate checks against jungle natives. You must be a human colonist to take this trait.
+
+**Colonial Sympathizer**: Your behavior is heavily influenced by the colonials. You gain a +1 trait bonus on Bluff and Diplomacy checks involving colonials and others with this trait. You must be a human of the jungle tribes to take this trait.
+
+**Nomadic**: You have lived among a nomadic jungle tribe and know the colony and its lands well. You gain a +1 trait bonus on Knowledge (geography) and Survival checks, and one of these skills (your choice) is always a class skill for you. You must be a human to take this trait.
+
+**Proud Tribesman**: You may have to coexist with the colonials, but you don’t have to like them. You gain a +2 bonus on checks to Intimidate colonials. You must be a human of the jungle tribes to take this trait.
+
+**Slaver Tribe**: You may never have participated in a single slave raid, but members of other tribes recognize you as a member of a slaver tribe, and they fear and distrust you accordingly. You gain a +2 trait bonus on Intimidate checks to influence other jungle natives, but you suffer a –2 penalty on Bluff or Diplomacy checks to influence them. You must be a human of a slaver jungle tribe to take this trait.
 
 ## Catfolk Traits
 

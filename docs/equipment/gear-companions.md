@@ -3007,3 +3007,11 @@ If used as an additional material component when casting a spell the idol affect
 *Pocketed*: An elaborate design disguises several small pockets on one side of this scarf. This scarf grants you a +4 bonus on Sleight of Hand checks made to hide objects on your body. This bonus does not stack with the bonus wearing heavy clothing provides but does stack with bonuses for attempting to hide small objects.
 
 *Reinforced*: One side of this 8-foot-long scarf is reinforced with chain links and metal plates. While not enough to provide a benefit to Armor Class, these versatile scarves can be used like a length of chain to climb short distances or bind an enemy. A reinforced scarf has hardness 10 and 4 hit points. It can be burst with a successful DC 24 Strength check.
+
+## Jungle Colony Gear
+
+### Prey Musk
+
+**Price** 40 gp; **Weight** 1/2 lb.
+
+*Alchemical tool.* This emerald-colored adhesive is made from animal glands, urine, and other powerful scents that are difficult to wash off. A target splashed with it smells like weak prey to predators. Creatures with the scent ability can detect a marked creature at five times the normal range, note its direction as a free action, pinpoint it when it is within 25 feet, and track it by scent with a +5 bonus on their Survival checks. Immersion in water within 1 round of exposure washes the musk off; otherwise the effect decreases by 1 range increment per day (four times normal range after 1 day, three times normal range after 2 days, and so on) until the creature is again at normal scent levels. The Craft (alchemy) DC to create prey musk is 20. Prey musk can also be used for [equipment tricks](../rules/combat/equipment-tricks.md#prey-musk-tricks).

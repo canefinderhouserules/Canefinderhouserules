@@ -184,3 +184,16 @@ These traits suit characters raised in or around an empire ruled by devil-worshi
 
 **Threatening Defender (Combat)**: You know how to avoid a blow while still maintaining your offensive posture. When you use Combat Expertise, reduce the number you subtract from your melee attack rolls by 1.
 
+## Jungle Colony Traits
+
+These traits suit characters from a jungle colony and its wild surroundings. Each lists its trait category in parentheses.
+
+**Hill Fighter (Combat)**: You are used to fighting in hilly environments. You may run or charge downhill on a steep slope (moving up to your base speed) without making an Acrobatics check to avoid stumbling—but if you travel farther than this distance, the normal rules for steep slopes apply.
+
+**Jungle Fighter (Combat)**: You are sure-footed in jungle environments, and your speed may not be reduced to less than 10 feet by difficult terrain in jungles (meaning you may take a 5-foot step in difficult terrain and not provoke an attack of opportunity).
+
+**River Fighter (Combat)**: You are used to fighting while swimming. You may swim downstream or cross-current as a charge if you make your Swim DC by 5 or more.
+
+**Savanna Hunter (Combat)**: You have been trained to hunt and fight on the open plains since birth. You gain a +1 trait bonus on attacks of opportunity attack rolls made with a shortspear, as well as a +1 racial bonus on Constitution checks to continue running and avoid nonlethal damage from a forced march.
+
+**Two-World Magic (Magic)**: You have bridged the gap between the natural magic of the jungle peoples and the refined magic of the colonists. Select one 0-level spell from a class spell list other than your own. This spell is a 0-level spell on your class spell list (or a 1st-level spell if your class doesn’t have 0-level spells). For example, if you are a druid, you could select *mage hand* and thereafter prepare it as a 0-level druid spell; if you are a sorcerer, you could select *know direction* as a 0-level sorcerer spell known.

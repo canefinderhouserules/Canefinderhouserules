@@ -143,6 +143,7 @@
 - **[Control Vermin](control-vermin.md)**: Control vermin as if they were animals
 - **[Crafter's Nightmare](crafters-nightmare.md)**: Haunt sabotages crafting, ritual, and long-casting-time work.
 - **[Curse Terrain, Lesser](curse-terrain-lesser.md)**: Curse an area with three mild hazards.
+- **[Defoliate](defoliate.md)**: Destroys undergrowth in a line or spread, or deals 2d8 to a plant creature.
 - **[Delay Disease](delay-disease.md)**: The target becomes temporarily immune to disease.
 - **[Delay Poison](delay-poison.md)**: Stops poison from harming subject for 1 hour/level.
 - **[Detect Magic, Greater](detect-magic-greater.md)**: As *detect magic*, but learn more information.
@@ -243,6 +244,7 @@
 - **[Accept Affliction](accept-affliction.md)**: Transfer an affliction or condition from a creature to yourself.
 - **[Air Breathing](air-breathing.md)**: Let aquatic creatures breathe air
 - **[Animal Aspect, Greater](animal-aspect-greater.md)**: As animal aspect, but you gain two animal qualities.
+- **[Ape Walk](ape-walk.md)**: Gain a climb speed of 30 ft. and a +8 bonus on Climb checks.
 - **[Apport Animal](apport-animal.md)**: Send or receive a Tiny or smaller animal via teleportation.
 - **[Aversion](aversion.md)**: Cause the target to avoid an object or location.
 - **[Bite the Hand](bite-the-hand.md)**: Summoned creature attacks its summoner.
@@ -274,6 +276,7 @@
 - **[Free Spirit](free-spirit.md)**: Gain freedom of movement and fear resistance, but be drunk
 - **[Guardian Wasps](guardian-wasps.md)**: A wasp swarm builds a nest that guards an area.
 - **[Hag's Seasoning](hags-seasoning.md)**: Curse: the target becomes a delicious meal.
+- **[Heatstroke](heatstroke.md)**: Ray deals 1d4 nonlethal damage and exhausts like ray of exhaustion.
 - **[Hunter's Friend](hunters-friend.md)**: Share ranger class abilities with your companion.
 - **[Hydrophobia](hydrophobia.md)**: targets are terrified of water and drowning
 - **[Ice Spears](ice-spears.md)**: Icy spears deal piercing and cold damage and trip foes.

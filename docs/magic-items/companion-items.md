@@ -7286,3 +7286,79 @@ This luxurious, red felt divan is edged in gold latticework and made from highly
 
 **Construction Requirements:** Craft Wondrous Item, *animate object*, *create water*, *endure elements*, *fly*, *teleport*, creator must have at least 5 ranks in Craft (woodworking); **Cost** 33,000 gp (original version), 20,000 gp (lesser version)
 
+## Jungle Colony Items
+
+### Tribal Spirit Shield
+
+**Slot** shield; **CL** 15th; **Price** 19,393 gp; **Weight** 5 lbs.
+
+**Aura** strong transmutation
+
+This large wood-and-hide shield is similar to other tribal shields, but the totem animal painted on the shield’s face seems to move when the shield is carried. Crafted by jungle shamans to grant its wielder the power of tribal totem spirits, a *tribal spirit shield* functions as a *+1 ghost touch light wooden shield*. Once per day on command, the shield can grant its bearer *bull’s strength* for 1 minute.
+
+Other versions of the *tribal spirit shield* exist; some are known to grant *cat’s grace* or *bear’s endurance* to their wielders instead of *bull’s strength*.
+
+**Construction Requirements:** Craft Magic Arms and Armor, *bull’s strength*, *etherealness*; **Cost** 9,733 gp
+
+### Staff of Spirit-Talking
+
+**Slot** none; **CL** 11th; **Price** 39,050 gp; **Weight** 5 lbs.
+
+**Aura** moderate divination
+
+A *staff of spirit-talking* is made of ebony or other dark wood, with the bones of numerous small animals dangling from it. It allows the use of the following spells:
+
+- *speak with animals* (1 charge)
+- *speak with plants* (1 charge)
+- *command plants* (1 charge)
+- *commune with nature* (2 charges)
+- *stone tell* (2 charges)
+
+**Construction Requirements:** Craft Staff, *command plants*, *commune with nature*, *speak with animals*, *speak with plants*, *stone tell*; **Cost** 19,525 gp
+
+### Machete of Clearing
+
+**Slot** none; **CL** 3rd; **Price** 5,550 gp (normal), 11,550 gp (animal or plant bane); **Weight** 2 lbs.
+
+**Aura** faint necromancy (moderate conjuration, CL 8th, for animal or plant bane)
+
+This broad, heavy knife is used to chop through thick undergrowth in the jungle. Once per day on command, this *+1 short sword* can cast [*defoliate*](../magic/spells/defoliate.md) to clear vegetation either in a line 60 feet long or in a 10-foot radius spread.
+
+Explorers used to fighting the jungle’s dangerous inhabitants sometimes commission *machetes of clearing* with either the *animal bane* or *plant bane* special abilities.
+
+**Construction Requirements:** Craft Magic Arms and Armor, *defoliate* (plus *summon monster I* for *animal* or *plant bane*); **Cost** 2,930 gp (5,930 gp for *animal* or *plant bane*)
+
+### Cloak of the Jungle
+
+**Slot** shoulders; **CL** 3rd; **Price** 2,400 gp; **Weight** 1 lb.
+
+**Aura** faint transmutation
+
+When this plain green cloak is worn with the hood drawn up around the head, the wearer can assume the form of a Large tree or shrub, as per the *tree shape* spell. The cloak is usable once per day, and the wearer may remain in tree form for up to 1 hour. The wearer can return to her normal form as a free action.
+
+**Construction Requirements:** Craft Wondrous Item, *tree shape*; **Cost** 1,200 gp
+
+### Expedition Pavilion
+
+**Slot** none; **CL** 5th; **Price** 6,400 gp; **Weight** 10 lbs.
+
+**Aura** faint evocation
+
+This ordinary-looking, windowless tent appears to cover only a 10-foot-by-10-foot area, but, inside, it measures a full 30 feet by 30 feet, with a large central area and three small “bedrooms” (separated by curtains) along the back wall. The interior can be lit on command, and can be adjusted from normal darkness as per the spell *light*. Occupants inside the tent cannot be seen, heard, or smelled by creatures outside.
+
+The temperature inside the *expedition pavilion* is 70° F if the exterior temperature is between 0° and 100° F. For every degree the exterior temperature is below 0° or above 100°, the interior temperature decreases or increases, respectively, by 1°. The pavilion also provides protection against the elements, such as rain, dust, and sandstorms. The pavilion withstands any wind of less than hurricane force, but a hurricane (75+ mph wind speed) or greater force destroys it.
+
+The pavilion can only be set up once per day, requiring 10 minutes to erect or dismantle. The tent cannot be dismantled while foreign objects are still inside, though if the pavilion is destroyed, any creatures and objects inside immediately spill out.
+
+**Construction Requirements:** Craft Wondrous Item, *hide from animals*, *tiny hut*; **Cost** 3,200 gp
+
+### Jungle Boots
+
+**Slot** feet; **CL** 3rd; **Price** 6,000 gp; **Weight** 1 lb.
+
+**Aura** faint transmutation
+
+These soft leather boots grant the wearer the ability to move through normal undergrowth without hindrance as if she had the woodland stride ability.
+
+**Construction Requirements:** Craft Wondrous Item, *longstrider*, woodland stride ability; **Cost** 3,000 gp
+

@@ -78,3 +78,6 @@ Religion traits are tied to a specific deity. You need not be a divine spellcast
 
 **Under Siege** *(deity of the sun and redemption)*: In order to maintain your devotion to your persecuted faith and stay alive, you and your fellow worshipers developed a complex system of hand signs and facial gestures to identify yourselves as faithful. You gain a +1 trait bonus on Bluff and Sense Motive checks. One of these skills (your choice) is always a class skill for you.
 
+**Faithful of the Dead God** *(a god who has died)*: You worship a dead god, and are skilled at making that sound reasonable. You gain a +1 trait bonus on Diplomacy checks; this bonus increases to +3 if you are dealing with a follower of the dead god or of the goddess who inherited his mantle.
+
+**Spirit Talker** *(jungle shamanistic faith)*: You are a devotee of the shamanistic practices of the jungle tribes, having little use for the deities of the colonials. You gain a +1 racial bonus on Will saves against divine spells and spell-like effects employed against you by clerics or paladins of the colonials’ deities—but you suffer a –1 penalty on Will saves against divine spells cast by devotees of jungle faiths.

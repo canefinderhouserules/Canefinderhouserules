@@ -1958,6 +1958,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Elemental Overload](elemental-overload.md) | — | Elemental overflow class feature, kineticist level 15th |
 | [Elemental Strike](elemental-strike.md) | Combat | Ifrit, oread, sylph, or undine |
 | [Elemental Vigor](elemental-vigor.md) | — | Worshiper of an elemental deity |
+| [Elephant Stomp](elephant-stomp.md) | Combat | Str 13, Power Attack, Improved Overrun, base attack bonus +1 |
 | [Elven Battle Focus](elven-battle-focus.md) | Combat | Int 13, Elven Battle Style, Elven Battle Training, Weapon Finesse, base attack bonus +4, weapon familiarity racial trait |
 | [Elven Battle Style](elven-battle-style.md) | Combat, Style | Elven Battle Training, Weapon Finesse, base attack bonus +1, weapon familiarity racial trait |
 | [Elven Battle Torrent](elven-battle-torrent.md) | Combat | Int 13, Elven Battle Focus, Elven Battle Style, Elven Battle Training, Weapon Finesse, base attack bonus +10, weapon familiarity racial trait |
@@ -2445,6 +2446,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Modification Mastery](modification-mastery.md) | Combat | Creative Armorsmith, Armor Adept, and Craft (armor) 7 ranks, or Creative Weaponsmith, Weapon Adept, and Craft (weapons) 7 ranks; Knowledge (engineering) 7 ranks |
 | [Modification Trainer](modification-trainer.md) | Combat | Cha 13, Armor Adept or Weapon Adept, fighter level 4th |
 | [Modified Weapon Proficiency](modified-weapon-proficiency.md) | Combat | Proficiency with the selected weapon |
+| [Monkey Lunge](monkey-lunge.md) | Combat | Lunge, Acrobatics 1 rank |
 | [Monster Spotter](monster-spotter.md) | — | Skill Focus (Knowledge [any]), Knowledge (any) 3 ranks |
 | [Monstrous Companion](monstrous-companion.md) | — | Handle Animal 7 ranks; class feature that functions as the druid animal companion ability (including animal companion, divine bond [mount], hunter's bond [animal companion], nature's bond [animal companion], and the mount class feature) with an effective druid level of 7 |
 | [Monstrous Crafter](monstrous-crafter.md) | — | Craft Wondrous Item, Grisly Ornament, Harvest Parts |
@@ -2562,6 +2564,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Piercing Grapple](piercing-grapple.md) | Combat | Dex 13, Improved Grapple, Improved Unarmed Strike, Quick Draw, Intimidate 7 ranks |
 | [Pile On](pile-on.md) | Combat | Str 13, [Hurtful](hurtful.md), Power Attack |
 | [Pinpoint Jab](pinpoint-jab.md) | Combat | Improved Unarmed Strike, base attack bonus +6, ki pool or martial flexibility class feature |
+| [Piranha Strike](piranha-strike.md) | Combat | Weapon Finesse, base attack bonus +1 |
 | [Plague Resistance](plague-resistance.md) | — | Constitution 13 |
 | [Planar Focus](planar-focus.md) | General | Knowledge (planes) 5 ranks, animal focus class feature |
 | [Planar Heritage](planar-heritage.md) | — | Human |
@@ -2663,6 +2666,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Reverse Somersault Throw](reverse-somersault-throw.md) | Combat | Str 13, Improved Drag, Power Attack, base attack bonus +6 or monk level 3rd |
 | [Reward of the Faithful](reward-of-the-faithful.md) | — | Knowledge (religion) 1 rank, alignment must match that of your worshiped deity |
 | [Rhabdomancy](rhabdomancy.md) | — | Knowledge (nature) 3 ranks, Survival 3 ranks |
+| [Rhino Charge](rhino-charge.md) | Combat | Power Attack, Improved Bull Rush, base attack bonus +5 |
 | [Ricochet Toss](ricochet-toss.md) | Weapon Mastery | Quick Draw, base attack bonus +6, weapon training class feature with a ranged weapon |
 | [Righteous Orator](righteous-orator.md) | — | Diplomacy 3 ranks, smite evil class feature |
 | [Righteous Phalanx](righteous-phalanx.md) | Teamwork | Base attack bonus +3, good alignment |

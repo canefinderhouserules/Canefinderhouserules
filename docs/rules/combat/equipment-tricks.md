@@ -209,3 +209,25 @@ In addition to the feat or skill requirements listed for each of these tricks, y
 **Quick Fix (Craft [any] 5 ranks)**: You can spend 1 minute with your anvil and a metal item with the broken condition to remove the broken condition from the item for 1 hour. The item does not recover any hit points, and at the end of the hour it regains the broken condition and loses an additional 1d6 hit points (unless properly fixed by then).
 
 **Smash Through (Improved Bull Rush)**: When you end your move adjacent to a closed door, you can open the door as part of your move action (instead of as a separate move action) by smashing it with an anvil as you move. If the door is stuck or locked, you must succeed at a bull rush combat maneuver check that exceeds the door's break DC.
+
+## Prey Musk Tricks
+
+In addition to the feat, skill, or other requirement listed for each of these tricks, you normally must have the Equipment Trick (prey musk) feat to use a trick. You can, however, attempt prey musk tricks marked with an asterisk without the Equipment Trick (prey musk) feat, but you have a 50% chance of splashing yourself with the musk instead of completing the trick; this failure uses the dose of the musk (and in most cases invalidates what you were planning to use the musk for).
+
+**Careful Steps (Nimble Moves or Acrobatics 5 ranks)**: You can pass through a square splashed with prey musk without getting any of it on you.
+
+**Fast Flask (Quick Draw)**: You can draw an easily accessible flask of prey musk as a free action rather than a standard action.
+
+**Make the Kill (scent ability or scent rage power)**: You gain a +1 morale bonus on weapon attack and weapon damage rolls when attacking a target marked with prey musk.
+
+**Musk Blinding (Blinding Critical)**: When using prey musk as a thrown weapon, increase the Fortitude save DC of the blinding critical effect by +5.
+
+**Musk Poison (poison use class ability)***: You can apply prey musk to a melee or thrown weapon as if it were a poison. This makes your weapon reek in the normal manner. However, the first creature struck by your weapon also gains the musk-stink as if it were splashed by a full container of musk 2 days ago. The struck target can wash off the musk on the next round in the normal manner, but otherwise it continues to stink for 2 more days. Prey musk applied to small items like ammunition has no effect.
+
+**Musk Sickening (Sickening Critical)**: When using prey musk as a thrown weapon, increase the duration of the sickening critical effect by 1 minute.
+
+**Reactive Splashing (Improved Disarm)***: When disarming an opponent of a flask of prey musk, you can have the flask break at your opponent’s feet, automatically splashing him with the musk.
+
+**Splashproof Shield (Shield Focus)**: If you are using a shield and are hit with prey musk, you can make a Reflex save to use the shield to prevent any of the musk from touching you (thus, if you drop the shield, you do not have any of the musk penalties). The DC for this ability is 10 if using a tower shield, 15 for a heavy shield, 20 for a light shield, and 25 for a buckler. You cannot use this trick if you are flat-footed or helpless.
+
+**Stink-Fighting (Blind-Fight)**: Your familiarity with prey musk allows you to pinpoint an invisible musk-marked creature with a Perception check at only a –10 penalty rather than the normal –20 penalty.
