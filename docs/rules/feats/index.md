@@ -1725,6 +1725,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Close Call](close-call.md) | — | Deft Hands |
 | [Cloud Invocation](cloud-invocation.md) | — | Dwarf from a dragon-revering culture |
 | [Cold Celerity](cold-celerity.md) | — | Endurance |
+| [Collective Recollection](collective-recollection.md) | Teamwork | — |
 | [Collector's Boon](collectors-boon.md) | — | Character level 5th |
 | [Combat Advice](combat-advice.md) | — | — |
 | [Combat Distraction](combat-distraction.md) | General | Goblin, Acrobatics 1 rank, Escape Artist 1 rank |
@@ -1816,6 +1817,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Cushioning Armor](cushioning-armor.md) | Armor Mastery | Armor training class feature, proficiency with medium or heavy armor |
 | [Cushioning Shield](cushioning-shield.md) | Shield Mastery | Shield Focus, base attack bonus +6 or fighter level 4th |
 | [Cut from the Air](cut-from-the-air.md) | Weapon Mastery | Str 13, Power Attack, base attack bonus +5, weapon training class feature with a melee weapon |
+| [Cut Your Losses](cut-your-losses.md) | — | Str 13, Acrobatics 1 rank |
 | [Cutting Humiliation](cutting-humiliation.md) | — | Persuasive, Intimidate 5 ranks |
 | [Cypher Magic](cypher-magic.md) | — | Int 15, Scribe Scroll |
 | [Cypher Script](cypher-script.md) | — | Knowledge (arcana) 1 rank, Linguistics 1 rank, Spellcraft 1 rank, spellbook class feature |
@@ -1953,6 +1955,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Elven Battle Style](elven-battle-style.md) | Combat, Style | Elven Battle Training, Weapon Finesse, base attack bonus +1, weapon familiarity racial trait |
 | [Elven Battle Torrent](elven-battle-torrent.md) | Combat | Int 13, Elven Battle Focus, Elven Battle Style, Elven Battle Training, Weapon Finesse, base attack bonus +10, weapon familiarity racial trait |
 | [Embrace the Dark Fey](embrace-the-dark-fey.md) | Story | You must have an evil fey such as a quickling or redcap somewhere in your family line, or you must have the Shameful Heritage background. |
+| [Emergency Attunement](emergency-attunement.md) | — | Spellcraft 7 ranks |
 | [Emissary’s Emboldening](emissarys-emboldening.md) | Familiar | Must have a familiar with the emissary archetype |
 | [Empathy](empathy.md) | Android | Cha 13, android |
 | [Empowered Daemonic Pact](empowered-daemonic-pact.md) | — | Urdefhan |
@@ -1972,6 +1975,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Ephemeral Tread](ephemeral-tread.md) | — | Cha 15, [Lucid Dreamer](lucid-dreamer.md), Knowledge (planes) 5 ranks |
 | [Equipment Trick](equipment-trick.md) | Combat | Base attack bonus +1 |
 | [Eroding Strikes](eroding-strikes.md) | Combat, Combination | Weapon Focus with bludgeoning weapon |
+| [Esoteric Advantage](esoteric-advantage.md) | — | Knowledge (arcana, dungeoneering, local, nature, planes, or religion) 3 ranks |
 | [Eternal Enmity](eternal-enmity.md) | — | Knowledge 3 ranks (see special), hatred racial trait |
 | [Exceptional Pull](exceptional-pull.md) | Combat | Dex 13, Deadly Aim, base attack bonus +3 |
 | [Exorcist’s Rebuttal](exorcists-rebuttal.md) | — | Improved Iron Will, Iron Will |
@@ -2252,6 +2256,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Improved Swarm Form](improved-swarm-form.md) | — | Vampire |
 | [Improved Toxicological Timing](improved-toxicological-timing.md) | — | Craft (alchemy) 11 ranks, Toxicological Timing |
 | [Improved Uncivilized Tactics](improved-uncivilized-tactics.md) | Combat | Str 13, Power Attack, Uncivilized Tactics |
+| [Improved Underhanded Teamwork](improved-underhanded-teamwork.md) | Combat, Teamwork | Combat Expertise, Improved Dirty Trick, Underhanded Teamwork, base attack bonus +6 |
 | [Improved Weapon Shift](improved-weapon-shift.md) | — | Weapon Shift, base attack bonus +6, wild shape class feature |
 | [Improvisational Focus](improvisational-focus.md) | Combat | Catch Off-Guard or Throw Anything, base attack bonus +1 |
 | [Improvisational Healer](improvisational-healer.md) | — | Heal 1 rank |
@@ -2507,6 +2512,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Pantheistic Blessing](pantheistic-blessing.md) | — | Wis 13, must worship a pantheon of deities |
 | [Passed Critical](passed-critical.md) | Combat | Combat Expertise, worshiper of a deity of luck or dreams |
 | [Pathologist](pathologist.md) | — | Incredible Healer |
+| [Patient Strike](patient-strike.md) | Combat | Int 13 |
 | [Peace of Mind](peace-of-mind.md) | Conduit | Knowledge (planes) 3 ranks |
 | [Peacemaker](peacemaker.md) | — | Charisma 13, good alignment |
 | [Peerless Courtier](peerless-courtier.md) | — | Cha 13, base attack bonus +3 |
@@ -2539,6 +2545,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Planar Survivor](planar-survivor.md) | — | Knowledge (planes) 3 ranks, Survival 3 ranks |
 | [Planar Wanderer](planar-wanderer.md) | — | Cartogramancer, Knowledge (geography) 10 ranks, Knowledge (planes) 10 ranks, ability to cast *greater teleport* and *plane shift* |
 | [Planewalker's Insight](planewalkers-insight.md) | — | — |
+| [Planned Spontaneity](planned-spontaneity.md) | — | Knowledge (arcana) 9 ranks, ability to prepare and cast 4th-level spells |
 | [Play to the Crowd](play-to-the-crowd.md) | — | Int 19, Ironclad Logic, Diplomacy 5 ranks, Sense Motive 5 ranks |
 | [Poised Bearing](poised-bearing.md) | Armor Mastery | Base attack bonus +6 or fighter level 4th, armor training class feature, proficiency with medium or heavy armor |
 | [Poison Focus](poison-focus.md) | — | Craft (alchemy) 1 rank |
@@ -2577,6 +2584,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Purifying Channel](purifying-channel.md) | — | Cha 15, Selective Channeling, channel energy class feature |
 | [Pursuit of Glory](pursuit-of-glory.md) | Combat, Teamwork | Human |
 | [Quick Favor](quick-favor.md) | — | Persuasive |
+| [Quick Preparation](quick-preparation.md) | — | Ability to prepare spells |
 | [Quick Stow](quick-stow.md) | Combat | Quick Draw, base attack bonus +1 |
 | [Quick Study](quick-study.md) | Combat | Int 13, bravery +3 class feature, fighter level 10th |
 | [Quiet Death](quiet-death.md) | Combat | Dex 19, Stealth 10 ranks, rogue level 10th |
@@ -2834,6 +2842,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Startoss Shower](startoss-shower.md) | Combat | Dex 13, Point-Blank Shot, Startoss Comet, Startoss Style, Weapon Focus with the chosen weapon, base attack bonus +4 |
 | [Startoss Style](startoss-style.md) | Combat, Style | Dex 13, Point-Blank Shot, Weapon Focus with the chosen weapon |
 | [Stayed Blade](stayed-blade.md) | — | Base attack bonus +3 |
+| [Steadfast Mind](steadfast-mind.md) | — | Cha 15, Int 15, or Wis 15 (see special) |
 | [Steadfast Slayer](steadfast-slayer.md) | Combat | — |
 | [Steady Engagement](steady-engagement.md) | Combat | Combat Reflexes, Stand Still, worshiper of a deity of perfection and knowledge |
 | [Steelskin Channel](steelskin-channel.md) | — | Channel energy 7d6, worshiper of a deity of the forge and protection |
@@ -2934,6 +2943,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Tandem Evasion](tandem-evasion.md) | Combat, Teamwork | Dex 13, Dodge |
 | [Tangled Limbs](tangled-limbs.md) | Combat | Int 13, Combat Expertise, Improved Trip, Weapon Focus with the chosen weapon |
 | [Tantrum](tantrum.md) | Combat | Bluff 1 rank, rage class feature, gnome |
+| [Tapestry Traveler](tapestry-traveler.md) | — | Character level 5th |
 | [Targeted Blow](targeted-blow.md) | Weapon Mastery | Str 13, Power Attack, base attack bonus +9, weapon training class feature with a melee weapon |
 | [Tattoo Attunement](tattoo-attunement.md) | General | Inscribe Magical Tattoo; Spellcraft 5 ranks |
 | [Tattoo Conversion](tattoo-conversion.md) | General | Inscribe Magical Tattoo; Tattoo Attunement; Spellcraft 15 ranks; ability to cast control summoned creature |
@@ -3005,11 +3015,13 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Unbalancing Blow](unbalancing-blow.md) | Combat | Dex 13, Wis 13, Improved Unarmed Strike, base attack bonus +4 |
 | [Unbound Bravery](unbound-bravery.md) | — | Bravery class feature, worshiper of a deity of freedom and courage |
 | [Unbreakable](unbreakable.md) | Combat | Con 13, Endurance, Toughness, fighter level 4th |
+| [Uncanny Activation](uncanny-activation.md) | — | Use Magic Device 12 ranks |
 | [Uncanny Ally](uncanny-ally.md) | — | Alertness, uncanny dodge class feature |
 | [Uncertainty](uncertainty.md) | Blood Hex | Int 13; Bluff, Diplomacy, and Intimidate 5 ranks |
 | [Uncivilized Tactics](uncivilized-tactics.md) | Combat | Str 13, Power Attack |
 | [Unconquerable Resolve](unconquerable-resolve.md) | Combat | Resolve class feature, samurai level 1st |
 | [Undaunted Bravery](undaunted-bravery.md) | — | Bravery class feature, worshiper of a deity of freedom and courage |
+| [Underhanded Teamwork](underhanded-teamwork.md) | Combat, Teamwork | Combat Expertise, Improved Dirty Trick |
 | [Undermine](undermine.md) | Teamwork | — |
 | [Undermining Exploit](undermining-exploit.md) | — | Knowledge (dungeoneering) 4 ranks |
 | [Underworld Connections](underworld-connections.md) | — | — |
@@ -3041,6 +3053,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Verdant Step](verdant-step.md) | — | Con 13, character level 7th, plant type |
 | [Verify](verify.md) | — | Ability to cast 1st-level spells, lawful evil alignment, worshiper of a lawful evil deity of devils and contracts |
 | [Versatile Jinxer](versatile-jinxer.md) | General | Iron Will, Halfling Jinx racial trait |
+| [Versatile Spontaneity](versatile-spontaneity.md) | — | Int 13 or Wis 13 (see Special), ability to spontaneously cast 2nd-level spells |
 | [Versatile Summon Monster](versatile-summon-monster.md) | General | Knowledge (arcana) 1 rank, Knowledge (planes) 1 rank |
 | [Versatile Summon Nature's Ally](versatile-summon-natures-ally.md) | General | Augment Summoning, Spell Focus (conjuration), Knowledge (nature) 1 rank, Knowledge (planes) 1 rank |
 | [Vestigial Head](vestigial-head.md) | — | Ogre |

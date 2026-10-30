@@ -2916,3 +2916,17 @@ This potent toxin is used by both drow and duergar to extract gold from ore and 
 
 This saccharine extract is made by drow and duergar taskmasters to help keep recalcitrant slaves in line. The poison clouds the minds of those who consume it, impairing victims’ critical thinking and making them more suggestible.
 
+## Explorers’ Society Gear
+
+### Infiltration Kit
+
+**Price** 140 gp; **Weight** 15 lbs.
+
+*Kit.* This kit is useful to explorers who must practice guile and deception in order to acquire useful information, and includes a set of caltrops, chalk, a disguise kit, an ear trumpet, fake footprint shoes, a skeleton key, and a wrist sheath. For Small creatures, the weight of an infiltration kit is 9 pounds.
+
+### Explorer’s Kit
+
+**Price** 12 gp; **Weight** 22 lbs.
+
+*Kit.* This kit consists of a backpack, a bedroll, a belt pouch, a clay mug, a dagger, two fishhooks, a flint and steel, a sewing needle, a signal whistle, 50 feet of string, 50 feet of thread, a week’s worth of trail rations, a waterskin, and a whetstone. For Small creatures, the weight of an explorer’s kit is 7–1/2 pounds. Leaving the bedroll and rations at camp or on a mount reduces the weight by 12 pounds for Medium creatures and by 3 pounds for Small creatures.
+

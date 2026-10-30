@@ -6754,3 +6754,201 @@ The wearer of a pair of *stonemeld boots* gains a +4 bonus to CMD against bull r
 
 **Construction Requirements:** Craft Wondrous Item, *transmute rock to mud*; **Cost** 1,750 gp
 
+## Explorers’ Society Items
+
+### Deceptive (Weapon Special Ability)
+
+**Aura** moderate illusion; **CL** 9th; **Price** +1 bonus
+
+A *deceptive* weapon’s shape blurs and appears to bend unpredictably. When the weapon is in hand, the wielder gains a bonus on Bluff checks to feint equal to the enhancement bonus of the weapon. In addition, when the wielder successfully confirms a critical hit with a *deceptive* weapon against an opponent, she can attempt to feint against that opponent as an immediate action.
+
+**Construction Requirements:** Craft Magic Arms and Armor, *dazzling blade*
+
+### Book Thief’s Satchel
+
+**Slot** none; **CL** 9th; **Price** 10,000 gp; **Weight** 2 lbs.
+
+**Aura** moderate conjuration and divination
+
+Often used by spies and arcane scholars to steal important texts without alerting their owners, a *book thief’s satchel* contains enough room to hold a single tome of no more than 1,000 pages and no larger than 12 by 18 inches in size. Prior to using the satchel, its bearer must place a blank book in the satchel and utter a command word. This blank book is sequestered in an extradimensional space accessible only upon command. (A typical blank, 50-page journal costs 10 gp.)
+
+Once per day, when another book, folio, scroll, or other text is placed within the satchel while a blank book is hidden within the extradimensional space, the pages of the newly added book are wiped blank (though the covers and bindings remain unchanged). The entire contents of this book or scroll appear on the pages of the blank book in the satchel’s extradimensional pocket. The transfer takes 1 full round, and if the process is interrupted, such as by either book being removed or the satchel being significantly damaged, the text being copied is lost forever. If the blank book is smaller in size (in number of pages for a book or number of inches for a scroll) than the book to be stolen, the satchel doesn’t transfer the contents, and the text being copied is lost forever.
+
+A *book thief’s satchel* can’t transfer magical writing (such as the pages of a wizard’s spellbook, a magical scroll, or a wondrous item). Attempts to do so fail immediately, neither erasing the book to be copied nor copying any of the pages to the blank book.
+
+**Construction Requirements:** Craft Wondrous Item, *secret chest*; **Cost** 5,000 gp
+
+### Honeytongue Elixir
+
+**Slot** none; **CL** 7th; **Price** 750 gp; **Weight** 1/2 lb.
+
+**Aura** moderate transmutation
+
+Drinking this elixir grants the imbiber a +10 bonus on Bluff checks made to convince another that her words are the truth. This bonus lasts for 10 minutes, and doesn’t apply to any other use of the Bluff skill, such as feinting in combat, creating a diversion to hide, or communicating a secret message via innuendo.
+
+If a magical effect is used against the *honeytongue elixir’s* imbiber that would detect her lies or force her to speak the truth, the user of the effect must succeed at a DC 16 caster level check to compel the elixir’s imbiber to tell the truth. Failure means the effect doesn’t detect the imbiber’s lies or force her to tell the truth.
+
+**Construction Requirements:** Craft Wondrous Item, *glibness*; **Cost** 375 gp
+
+### Lenses of Situational Sight
+
+**Slot** eyes; **CL** 10th; **Price** 5,000 gp; **Weight** 1 lb.
+
+**Aura** moderate divination and transmutation
+
+These wire spectacles are fitted with several ground-crystal filters on hinged arms, any combination of which can be moved in front of or away from the lenses as a standard action (one, two, or all three lenses may be positioned at the same time with one action). Each filter grants a specific sense to the wearer when it is placed before one of the lenses. Each set of filters can be used for 10 minutes in 1-minute increments before losing its magical properties. The three sets of lenses are as follows.
+
+*Green Lenses*: Grant the wearer the benefits of *detect magic*. The wearer doesn’t need to concentrate to gain the benefits of the spell as long as a source of magic remains in her line of sight for the appropriate number of rounds.
+
+*Pink Lenses*: Grant the wearer the benefits of *see invisibility*.
+
+*Purple Lenses*: Grant the wearer darkvision out to a distance of 60 feet. If the wearer already has darkvision, the range of her darkvision increases by 60 feet while she uses these filters.
+
+**Construction Requirements:** Craft Wondrous Item, *arcane sight*, *darkvision*, *see invisibility*; **Cost** 2,500 gp
+
+### Explorer’s Greatcoat
+
+**Slot** body; **CL** 9th; **Price** 8,000 gp; **Weight** 4 lbs.
+
+**Aura** moderate transmutation
+
+This long, double-breasted jacket is sewn from durable, dun-colored canvas with a removable liner to keep its wearer comfortable in a wide range of temperatures. Anyone wearing the coat notes many small cloth patches of various shapes. Only the wearer of the robe can see these patches, recognize them for the items they become, and detach them. One patch can be detached each round. Detaching a patch causes it to become an actual item, as indicated below. A *explorer’s greatcoat* has each of the following patches (unless noted otherwise, the coat has only one of each patch):
+
+- 10 days of trail rations and five full waterskins
+- A case containing five adamantine bolts, five cold iron bolts, and two silver bolts
+- A large scroll case containing a 2-foot-by-10-foot roll of paper and two sticks of charcoal
+- A quiver containing five adamantine arrows, five cold iron arrows, and two silver arrows
+- A 10-square-yard roll of canvas containing 10 pitons and a small hammer
+- One silver and three bronze badges of a rival treasure-hunting company
+- Bullseye lanterns (2; full and lit)
+- Daggers (2)
+- Disguise kit
+- Healer’s kit
+- Hemp ropes (2; 50-foot coil)
+- Light combat-trained horse with a military saddle
+- Mirrors (2; highly polished 2-foot-by-4-foot steel mirrors)
+- Noble’s outfit with jewelry worth 200 gold pieces
+- *Oil of bless weapon*
+- *Oil of daylight*
+- Poles (2; 10-foot length)
+- *Potion of cure moderate wounds*
+- Sacks (2)
+- *Universal solvent*
+- *Wand of prestidigitation* (CL 1st, 5 charges)
+
+**Construction Requirements:** Craft Wondrous Item, *fabricate*; **Cost** 4,000 gp
+
+### Polish of Inconspicuous Armor
+
+**Slot** none; **CL** 5th; **Price** 750 gp; **Weight** 1/2 lb.
+
+**Aura** faint conjuration
+
+This pungent, tar-black armor polish comes in a small, circular tin. The 1 dose contained in the tin is enough to apply to a single Medium suit of armor or two Small suits of armor. Applying the polish takes 10 minutes, during which time the user must visualize an alternative appearance for the armor to take on, such as a normal set of clothes or another set of armor. After the polish is applied, its noxious scent dissipates and the armor appears the way the user visualized, as the *glamered* magic armor special ability. The armor maintains all properties other than its physical appearance, including weight, armor check penalty, and maximum Dexterity bonus. This effect remains for 24 hours before wearing off.
+
+**Construction Requirements:** Craft Wondrous Item, *disguise self*; **Cost** 375 gp
+
+### Tightfit Belt
+
+**Slot** belt; **CL** 3rd; **Price** 4,000 gp; **Weight** 1 lb.
+
+**Aura** faint transmutation
+
+As a free action, the wearer of this brown leather belt can compress himself to fit through tight spaces as though affected by a *squeeze* spell for up to 10 rounds per day. When using the belt’s squeezing ability, the wearer gains a +5 circumstance bonus on Escape Artist checks. Once per day as a move action, the wearer can reduce his size by one step, as the *reduce person* spell, for 1 round. These effects can be used simultaneously.
+
+**Construction Requirements:** Craft Wondrous Item, *grease*, *reduce person*, *squeeze*; **Cost** 2,000 gp
+
+### Feather Token (Campsite)
+
+**Slot** none; **CL** 12th; **Price** 500 gp; **Weight** —
+
+**Aura** strong conjuration
+
+This feather token works like the other feather tokens. This feather token can be used only once. It creates a fully functional campsite, including a tent suitable to house six Medium creatures, a campfire with enough dry wood to burn for 24 hours, a modest wooden table with two benches suitable to seat three people each, and a hitching post for up to six steeds. The campsite remains for up to 24 hours before disappearing, leaving no trace except footsteps and refuse left behind by those using the site.
+
+**Construction Requirements:** Craft Wondrous Item, *major creation*; **Cost** 250 gp
+
+### Agate Ellipsoid Ioun Stone
+
+**Slot** none; **CL** 12th; **Price** 1,000 gp; **Weight** —
+
+**Aura** strong divination
+
+This stone grants you a single use of the *augury* spell with a 100% success rate. The stone must have been orbiting your head for at least 24 hours before it can be activated in such a way, which you can do with a thought as a free action. The stone instantly returns an answer of “weal,” “woe,” “weal and woe,” or “nothing.” After being used in this manner, the stone loses all magical power and becomes a *dull gray ioun stone*.
+
+**Resonance**: Increases the caster level of divination spells by 1.
+
+**Construction Requirements:** Craft Wondrous Item, *augury*, creator must be 12th level; **Cost** 500 gp
+
+### Amethyst Pyramid Ioun Stone
+
+**Slot** none; **CL** 12th; **Price** 8,000 gp; **Weight** —
+
+**Aura** strong abjuration
+
+This stone grants you the ability to pass undetected before undead as if under the effects of a *hide from undead* spell. Unintelligent undead automatically can’t see you, and intelligent undead receive a single DC 12 Will save to notice you despite the stone’s effects. If you attempt to channel positive energy, turn or command undead, touch an undead creature, or attack any creature (even with a spell), the stone’s effects are negated for 1 hour.
+
+**Resonance**: +2 circumstance bonus on Stealth checks against undead.
+
+**Construction Requirements:** Craft Wondrous Item, *hide from undead*, creator must be 12th level; **Cost** 4,000 gp
+
+### Gold Nodule Ioun Stone
+
+**Slot** none; **CL** 12th; **Price** 5,000 gp; **Weight** —
+
+**Aura** strong divination
+
+This stone grants you the ability to comprehend, speak, read, and write a single language (chosen by the *ioun stone*’s creator).
+
+**Resonance**: +1 bonus on saves against language-dependent effects.
+
+**Construction Requirements:** Craft Wondrous Item, *tongues*, creator must be 12th level; **Cost** 2,500 gp
+
+### Magenta Prism Ioun Stone
+
+**Slot** none; **CL** 12th; **Price** 16,000 gp; **Weight** —
+
+**Aura** strong transmutation
+
+This stone grants you a +2 enhancement bonus to any one ability score of your choosing. The selected ability score can be changed only once per day at a time unique to each stone (typically sunrise or sunset). A stone attuned to a specific ability score maintains that attunement until changed at the specified time of day, regardless of how long it has remained unused or how many times it changes hands.
+
+**Resonance**: +1 bonus on one saving throw not modified by the ability score the stone is currently attuned to (chosen at the same time as the ability score).
+
+**Construction Requirements:** Craft Wondrous Item, *bear’s endurance*, *bull’s strength*, *cat’s grace*, *eagle’s splendor*, *fox’s cunning*, *owl’s wisdom*, creator must be 12th level; **Cost** 8,000 gp
+
+### Pale Orange Rhomboid Ioun Stone
+
+**Slot** none; **CL** 12th; **Price** 200,000 gp; **Weight** —
+
+**Aura** strong necromancy
+
+This stone absorbs your soul as the *magic jar* spell immediately prior to your death. You can’t transfer your soul from the *ioun stone* receptacle to another creature’s body, and are, for all intents and purposes, dead. While your soul is in the *ioun stone*, you can sense any life forces within 120 feet as though you were placed in a *magic jar*. At any point within 12 hours of your soul’s transfer into the *pale orange rhomboid ioun stone*, you can return to your body as long as it is within 120 feet of the *ioun stone*. Upon returning to your body, you are unconscious and dying with a number of negative hit points equal to your Constitution score minus 1. If you fail to stabilize and aren’t healed after 1 turn, you die and your soul is not absorbed by the *ioun stone*. Your soul can be absorbed into a *pale orange rhomboid ioun stone* only once per 24-hour period.
+
+**Resonance**: A soul held within the stone can remain there indefinitely as long as the *wayfinder* remains on the soul’s original body. If the *wayfinder* is removed from the body, the *ioun stone’s* resonant power is suppressed until the *wayfinder* is replaced.
+
+**Construction Requirements:** Craft Wondrous Item, *magic jar*, creator must be 12th level; **Cost** 100,000 gp
+
+### Silver Spindle Ioun Stone
+
+**Slot** none; **CL** 12th; **Price** 24,000 gp; **Weight** —
+
+**Aura** strong evocation
+
+This stone grants you the ability to use a 1st-level spell from the cleric, druid, or sorcerer/wizard spell list as a spell-like ability three times per day, using your character level as your caster level. The spell keyed to the *ioun stone* is selected by the stone’s creator. In order for you to use this spell-like ability, you must have a Charisma score of 11 or higher. The save DCs of the chosen spell are Charisma-based, if any.
+
+**Resonance**: All spell-like abilities granted by race are treated as 1 caster level higher.
+
+**Construction Requirements:** Craft Wondrous Item, *imbue with spell ability*, creator must be 12th level; **Cost** 12,000 gp
+
+### Tourmaline Sphere Ioun Stone
+
+**Slot** none; **CL** 12th; **Price** 1,000 gp; **Weight** —
+
+**Aura** strong transmutation
+
+This stone grants you a benefit when you’re dying. When determining the number of negative hit points you must accrue to die, treat your Constitution score as if it were 2 higher. This doesn’t provide a bonus to Constitution, so it doesn’t grant a bonus on checks to stabilize, but it does provide you 2 additional rounds in which you can attempt such checks. You can benefit from only one tourmaline sphere ioun stone at a time.
+
+**Resonance**: This stone grants a +1 bonus on Constitution checks to stabilize when dying.
+
+**Construction Requirements:** Craft Wondrous Item, *bear’s endurance*, creator must be 12th level; **Cost** 500 gp
+

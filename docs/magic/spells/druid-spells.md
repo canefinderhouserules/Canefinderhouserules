@@ -251,6 +251,7 @@
 - **[Carrying Wind](carrying-wind.md)**: Wind spirit boosts your speed and grants a fly speed.
 - **[Channel the Gift](channel-the-gift.md)**: Your spell slot powers an ally’s spell.
 - **[Clear Grove](clear-grove.md)**: Vegetation withdraws from a 20-ft.-radius clearing.
+- **[Collaborative Thaumaturgy](collaborative-thaumaturgy.md)**: Ally applies a metamagic feat to a spell for free.
 - **[Companion Mind Link](companion-mind-link.md)**: You can talk with your animal companion, and can handle it with supernatural ease.
 - **[Contagion](contagion.md)**: Infects subject with chosen disease.
 - **[Cure Moderate Wounds](cure-moderate-wounds.md)**: Cures 2d8 damage + 1/level (max +10).

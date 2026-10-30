@@ -154,6 +154,7 @@
 - **[Reveal Secrets](reveal-secrets.md)**: Learn whether a target has a secret
 - **[Rite of Centered Mind](rite-of-centered-mind.md)**: Meditative spell: bonus against mind-affecting effects, with a reroll.
 - **[Rune Trace](rune-trace.md)**: Learn a rune’s age, language, and purpose.
+- **[Scholar’s Perusal](scholars-perusal.md)**: Instantly skim a book’s contents as if read for 1 hour.
 - **[Sculpted Cape](sculpted-cape.md)**: Your cape stiffens and holds its shape.
 - **[Secluded Grimoire](secluded-grimoire.md)**: Hide your spellbook on the Ethereal Plane.
 - **[See Alignment](see-alignment.md)**: Pick an alignment; in your sight, creatures and items with that alignment emit a ghostly radiance.
@@ -180,6 +181,7 @@
 - **[Stone Shield](stone-shield.md)**: A 1-inch-thick slab of stone springs up from the ground, interposing itself between you and an opponent of.
 - **[Strong Wings](strong-wings.md)**: School transmutation; Level druid 1, ranger 1, sorcerer/wizard 1, witch 1 Casting Time 1 standard action.
 - **[Summon Monster I](summon-monster-i.md)**: Summons extraplanar creature to fight for you.
+- **[Sure Casting](sure-casting.md)**: +5 caster level to overcome spell resistance with your next spell.
 - **[Swift Girding](swift-girding.md)**: Instantly clads willing targets in chosen armor.
 - **[Technomancy](technomancy.md)**: Detect technological objects.
 - **[Theft Ward](theft-ward.md)**: You ward a single object in your possession against theft.
@@ -368,6 +370,7 @@
 - **[Mud Buddy](mud-buddy.md)**: Create a small mud servant that can trip foes
 - **[Obscure Object](obscure-object.md)**: Masks object against scrying.
 - **[Obscured Script](obscured-script.md)**: Text becomes hard to read and deciphers falsely.
+- **[Page-Bound Epiphany](page-bound-epiphany.md)**: Study magical notes for up to +10 on one Knowledge check.
 - **[Painful Revelation](painful-revelation.md)**: Illusion hurts those who disbelieve it
 - **[Paranoia](paranoia.md)**: Target becomes hostile to all creatures.
 - **[Passing Fancy](passing-fancy.md)**: Target becomes obsessed with a topic you choose.
@@ -550,9 +553,11 @@
 - **[Burdened Thoughts](burdened-thoughts.md)**: Target is encumbered and cannot fly.
 - **[Business Booms](business-booms.md)**: Boosts a promoted business for several days.
 - **[Catatonia](catatonia.md)**: Make a willing target appear to be dead.
+- **[Cauterizing Weapon](cauterizing-weapon.md)**: Weapon or ammunition overcomes regeneration.
 - **[Chain of Perdition](chain-of-perdition.md)**: Creates a floating chain of force.
 - **[Channel the Gift](channel-the-gift.md)**: Your spell slot powers an ally’s spell.
 - **[Clay Skin](clay-skin.md)**: Target gains DR 5/adamantine.
+- **[Collaborative Thaumaturgy](collaborative-thaumaturgy.md)**: Ally applies a metamagic feat to a spell for free.
 - **[Conjure Carriage](conjure-carriage.md)**: Create a fine carriage.
 - **[Contact Entity II](contact-entity-ii.md)**: Ask more powerful eldritch entities to find and converse with you.
 - **[Contagious Zeal](contagious-zeal.md)**: Grant bonuses and temporary hit points that spread from creature to creature.

@@ -80,6 +80,8 @@ The prestige classes presented in this chapter are summarized below.
 
 **[Exalted](exalted.md)**: A divine spellcaster who embodies her faith and inspires others, culminating in miraculous power.
 
+**[Explorer Field Agent](explorer-field-agent.md)**: A versatile agent of an explorers’ society, trained to explore, report, and cooperate, with an upgraded *wayfinder*.
+
 **[Faithless Enforcer](faithless-enforcer.md)**: A lawful investigator who hunts hidden cults and purges divine influence from lands that outlaw religion.
 
 **[False Priest](false-priest.md)**: An arcane caster who fakes divine power with temporary healing and lies.

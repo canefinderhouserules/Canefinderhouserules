@@ -145,3 +145,20 @@ These traits suit characters who have lived in or explored the Underworld. Each 
 **Underworld Trader (Social)**: You’re familiar with the upper Underworld’s trade routes and negotiation involving the denizens of the Underworld. You gain a +1 trait bonus on Diplomacy checks relating to subterranean trade and on Knowledge (dungeoneering) checks relating to subterranean creatures. Select one of these skills to be a class skill for you.
 
 **Voices in your Head (Social)**: Through pacts with eldritch beings or a simple quirk of circumstance, your voice has an uncanny rapport with those swept up in madness. Once per day as an immediate action, you can issue a command to a confused creature within 30 feet. This allows the creature to immediately reroll on the confused condition table, and you can pick which of the two actions—the action of its initial roll or that of the reroll—the creature takes. Confused creatures do not need to understand you for this trait to take effect.
+
+## Explorers’ Society Traits
+
+These traits suit members of a society of explorers and treasure seekers. Each lists its trait category in parentheses.
+
+**Ambush Training (Combat)**: You’ve learned that taking an enemy by surprise can end a combat before it begins. You gain a +1 trait bonus on initiative checks and a +1 trait bonus on weapon damage rolls during any surprise round in which you act.
+
+**Clever Wordplay (Social)**: Your cunning and logic are more than a match for another’s confidence and poise. Choose one Charisma-based skill. You attempt checks with that skill using your Intelligence modifier instead of your Charisma modifier.
+
+**Explorer’s Focus (Magic)**: You can select a magnetic compass for your arcane bond class feature; this compass is nonmagical, but you can later spend 250 gp to upgrade it into a *wayfinder*. Choosing this trait allows you to upgrade this *wayfinder* to a variant or unique *wayfinder* per the normal rules for improving magic items. A bonded *wayfinder* must be held in your hand to grant the benefits of being a bonded object.
+
+**Insistent Benefactor (Magic)**: Explorers of different backgrounds don’t always realize what’s best for them, and you have perfected the art of forcing your magical boons on your allies. Whenever you cast a harmless spell, you gain a +2 trait bonus on caster level checks to overcome spell resistance, and the saving throw DC of the spell (if any) is increased by 2.
+
+**Muscle of the Society (Combat)**: Your intense training with the society’s martial masters has taught you how to infiltrate otherwise inaccessible ruins and extract their treasures without too much exertion. You gain a +2 trait bonus on Strength checks made to break doors and lift portcullises, and you treat your Strength score as 2 higher for the purpose of determining your carrying capacity.
+
+**Relic-Proof (Social)**: Your experiments—both your successes and failures—have inured you to the effects of stored magic. You gain a +1 trait bonus on saving throws against effects produced by spell completion and spell trigger items.
+

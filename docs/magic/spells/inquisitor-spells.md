@@ -75,6 +75,7 @@ New inquisitor spells from *Ultimate Magic*. Spells from other books will be add
 - **[Speak Local Language](speak-local-language.md)**: Speak and understand one known regional human language.
 - **[Speechreader's Sight](speechreaders-sight.md)**: Read the lips of speakers within 100 ft.
 - **[Stalwart Resolve](stalwart-resolve.md)**: Ignore ability damage to one score.
+- **[Sure Casting](sure-casting.md)**: +5 caster level to overcome spell resistance with your next spell.
 - **[Theft Ward](theft-ward.md)**: You ward a single object in your possession against theft.
 - **[Thunder Arrow](thunder-arrow.md)**: Electric arrow that attacks or signals.
 - **[Touch of Combustion](touch-of-combustion.md)**: Your successful melee touch attack causes the target to ignite in a violent burst of flame, dealing 1d6.
@@ -192,6 +193,7 @@ New inquisitor spells from *Ultimate Magic*. Spells from other books will be add
 - **[Sun’s Disdain](suns-disdain.md)**: Target is hurt by sunlight.
 - **[Surmount Affliction](surmount-affliction.md)**: Temporarily suppress one condition.
 - **[Tactical Acumen](tactical-acumen.md)**: You gain an additional +1 on attack rolls or to AC due to battlefield positioning.
+- **[Tactical Miscalculation](tactical-miscalculation.md)**: Target must save to make attacks of opportunity.
 - **[Telepathic Censure](telepathic-censure.md)**: Blocks telepathy.
 - **[Undeath Sense](undeath-sense.md)**: Constant awareness of undead within 60 ft.
 - **[Vexing Miscalculation](vexing-miscalculation.md)**: Target cannot score critical threats.

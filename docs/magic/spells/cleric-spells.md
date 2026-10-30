@@ -114,6 +114,7 @@
 - **[Rune Trace](rune-trace.md)**: Learn a rune’s age, language, and purpose.
 - **[Sanctuary](sanctuary.md)**: Opponents can’t attack you, and you can’t attack.
 - **[Scarify](scarify.md)**: Convert lethal damage to nonlethal, leaving scars
+- **[Scholar’s Perusal](scholars-perusal.md)**: Instantly skim a book’s contents as if read for 1 hour.
 - **[Shadow Trap](shadow-trap.md)**: pins the target's shadow so it is entangled
 - **[Shield of Faith](shield-of-faith.md)**: Aura grants +2 or higher deflection bonus.
 - **[Shield the Banner](shield-the-banner.md)**: Protect a tribal standard with sanctuary and added toughness.
@@ -126,6 +127,7 @@
 - **[Stone Shield](stone-shield.md)**: A 1-inch-thick slab of stone springs up from the ground, interposing itself between you and an opponent of.
 - **[Summon Monster I](summon-monster-i.md)**: Summons extraplanar creature to fight for you.
 - **[Sun Metal](sun-metal.md)**: Weapon touched bursts into flames.
+- **[Sure Casting](sure-casting.md)**: +5 caster level to overcome spell resistance with your next spell.
 - **[Suspend Drowning](suspend-drowning.md)**: temporarily stop drowning
 - **[Tap Inner Beauty](tap-inner-beauty.md)**: +2 insight bonus on Charisma checks.
 - **[Theft Ward](theft-ward.md)**: You ward a single object in your possession against theft.
@@ -239,6 +241,7 @@
 - **[Outbreak](outbreak.md)**: Make diseased creatures contagious
 - **[Overstimulate](overstimulate.md)**: Grant ferocity to keep a creature conscious
 - **[Owl’s Wisdom](owls-wisdom.md)**: Subject gains +4 to Wis for 1 min./level.
+- **[Page-Bound Epiphany](page-bound-epiphany.md)**: Study magical notes for up to +10 on one Knowledge check.
 - **[Painful Revelation](painful-revelation.md)**: Illusion hurts those who disbelieve it
 - **[Peacemaker's Parley](peacemakers-parley.md)**: Make a Diplomacy check against hostile creatures.
 - **[Pilfering Hand](pilfering-hand.md)**: You may seize an object or manipulate it from afar.
@@ -330,6 +333,7 @@
 - **[Chain of Perdition](chain-of-perdition.md)**: Creates a floating chain of force.
 - **[Channel the Gift](channel-the-gift.md)**: Your spell slot powers an ally’s spell.
 - **[Channel Vigor](channel-vigor.md)**: Focus on limbs, mind, spirit, or torso for bonuses.
+- **[Collaborative Thaumaturgy](collaborative-thaumaturgy.md)**: Ally applies a metamagic feat to a spell for free.
 - **[Contact Entity II](contact-entity-ii.md)**: Ask more powerful eldritch entities to find and converse with you.
 - **[Contact High](contact-high.md)**: Share the effects of a drug you are under with others.
 - **[Contagion](contagion.md)**: Infects subject with chosen disease.

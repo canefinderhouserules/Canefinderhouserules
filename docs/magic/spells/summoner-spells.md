@@ -81,6 +81,7 @@ New summoner spells from *Ultimate Magic*. Spells from other books will be added
 - **[Assume Appearance](assume-appearance.md)**: Use a creature’s corpse to adopt its form.
 - **[Bite the Hand](bite-the-hand.md)**: Summoned creature attacks its summoner.
 - **[Clay Skin](clay-skin.md)**: Target gains DR 5/adamantine.
+- **[Collaborative Thaumaturgy](collaborative-thaumaturgy.md)**: Ally applies a metamagic feat to a spell for free.
 - **[Conjuration Foil](conjuration-foil.md)**: Interfere with nearby teleportation effects.
 - **[Conjure Carriage](conjure-carriage.md)**: Create a fine carriage.
 - **[Contact Entity II](contact-entity-ii.md)**: Ask more powerful eldritch entities to find and converse with you.

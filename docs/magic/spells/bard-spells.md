@@ -120,6 +120,7 @@
 - **[Reveal Secrets](reveal-secrets.md)**: Learn whether a target has a secret
 - **[Revealing Light](revealing-light.md)**: Object sheds shifting light that foils Stealth bonuses.
 - **[Rune Trace](rune-trace.md)**: Learn a rune’s age, language, and purpose.
+- **[Scholar’s Perusal](scholars-perusal.md)**: Instantly skim a book’s contents as if read for 1 hour.
 - **[Sculpted Cape](sculpted-cape.md)**: Your cape stiffens and holds its shape.
 - **[Secret Sign](secret-sign.md)**: Invisibly mark a creature or object for designated viewers.
 - **[Secret Speech](secret-speech.md)**: Send hidden messages within normal speech.
@@ -136,6 +137,7 @@
 - **[Spirit Share](spirit-share.md)**: Deliver a drink or potion by touch
 - **[Starsight](starsight.md)**: See the night sky clearly and gain stargazing bonuses.
 - **[Summon Monster I](summon-monster-i.md)**: Summons extraplanar creature to fight for you.
+- **[Sure Casting](sure-casting.md)**: +5 caster level to overcome spell resistance with your next spell.
 - **[Suspend Drowning](suspend-drowning.md)**: temporarily stop drowning
 - **[Tamer’s Lash](tamers-lash.md)**: Create a whip made of sound that damages foes and can frighten animals.
 - **[Tap Inner Beauty](tap-inner-beauty.md)**: +2 insight bonus on Charisma checks.
@@ -188,6 +190,7 @@
 - **[Calm Emotions](calm-emotions.md)**: Calms creatures, negating emotion effects.
 - **[Catatonia](catatonia.md)**: Make a willing target appear to be dead.
 - **[Cat’s Grace](cats-grace.md)**: Subject gains +4 to Dex for 1 min./level.
+- **[Cauterizing Weapon](cauterizing-weapon.md)**: Weapon or ammunition overcomes regeneration.
 - **[Codespeak](codespeak.md)**: Speak, read, and write a new code language.
 - **[Commune with Birds](commune-with-birds.md)**: You utter a question in the form of a low-pitched bird call that can be heard up to a mile away, and can.
 - **[Conditional Favor](conditional-favor.md)**: Provide another spell whose effects reverse if the target breaks a restriction.
@@ -268,6 +271,7 @@
 - **[Oneiric Horror](oneiric-horror.md)**: Distract and fatigue the target with a creature from its nightmares.
 - **[Open Book](open-book.md)**: Make it permanently easier to learn more about a target.
 - **[Overstimulate](overstimulate.md)**: Grant ferocity to keep a creature conscious
+- **[Page-Bound Epiphany](page-bound-epiphany.md)**: Study magical notes for up to +10 on one Knowledge check.
 - **[Painful Revelation](painful-revelation.md)**: Illusion hurts those who disbelieve it
 - **[Paranoia](paranoia.md)**: Target becomes hostile to all creatures.
 - **[Passing Fancy](passing-fancy.md)**: Target becomes obsessed with a topic you choose.
@@ -312,6 +316,7 @@
 - **[Suppress Charms and Compulsions](suppress-charms-and-compulsions.md)**: Bolster or suppress charm and compulsion effects.
 - **[Sympathetic Aura](sympathetic-aura.md)**: Magic aura that also covers similar nearby items.
 - **[Tactical Acumen](tactical-acumen.md)**: You gain an additional +1 on attack rolls or to AC due to battlefield positioning.
+- **[Tactical Miscalculation](tactical-miscalculation.md)**: Target must save to make attacks of opportunity.
 - **[Tattoo Potion](tattoo-potion.md)**: Turn a potion into a spell tattoo.
 - **[Telepathic Censure](telepathic-censure.md)**: Blocks telepathy.
 - **[Thunder Fire](thunder-fire.md)**: Ammunition in the targeted firearm deafens opponents.
@@ -347,6 +352,7 @@
 - **[Charm Monster](charm-monster.md)**: Makes monster believe it is your ally.
 - **[Claim Identity](claim-identity.md)**: Steal a touched humanoid’s face and identity.
 - **[Clairaudience/Clairvoyance](clairaudience-clairvoyance.md)**: Hear or see at a distance for 1 min./level.
+- **[Collaborative Thaumaturgy](collaborative-thaumaturgy.md)**: Ally applies a metamagic feat to a spell for free.
 - **[Confusion](confusion.md)**: Subjects behave oddly for 1 round/level.
 - **[Conjure Carriage](conjure-carriage.md)**: Create a fine carriage.
 - **[Crushing Despair](crushing-despair.md)**: Subjects take –2 on attack rolls, damage rolls, saves, and checks.

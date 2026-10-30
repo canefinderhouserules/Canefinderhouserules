@@ -109,6 +109,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Starsight](starsight.md)**: See the night sky clearly and gain stargazing bonuses.
 - **[Strong Wings](strong-wings.md)**: School transmutation; Level druid 1, ranger 1, sorcerer/wizard 1, witch 1 Casting Time 1 standard action.
 - **[Summon Minor Monster](summon-minor-monster.md)**: Summon 1d3 Tiny animals.
+- **[Sure Casting](sure-casting.md)**: +5 caster level to overcome spell resistance with your next spell.
 - **[Tap Inner Beauty](tap-inner-beauty.md)**: +2 insight bonus on Charisma checks.
 - **[Theft Ward](theft-ward.md)**: You ward a single object in your possession against theft.
 - **[Touch of Blindness](touch-of-blindness.md)**: touches blind creatures for 1 round
@@ -319,6 +320,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Channel the Gift](channel-the-gift.md)**: Your spell slot powers an ally’s spell.
 - **[Claim Identity](claim-identity.md)**: Steal a touched humanoid’s face and identity.
 - **[Clear Grove](clear-grove.md)**: Vegetation withdraws from a 20-ft.-radius clearing.
+- **[Collaborative Thaumaturgy](collaborative-thaumaturgy.md)**: Ally applies a metamagic feat to a spell for free.
 - **[Conjure Carriage](conjure-carriage.md)**: Create a fine carriage.
 - **[Contact Entity II](contact-entity-ii.md)**: Ask more powerful eldritch entities to find and converse with you.
 - **[Countless Eyes](countless-eyes.md)**: Extra eyes give all-around vision.

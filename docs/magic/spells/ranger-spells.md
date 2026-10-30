@@ -101,6 +101,7 @@
 - **[Brow Gasher](brow-gasher.md)**: Slashing weapon deals bleed damage to an opponent’s head.
 - **[Carry Companion](carry-companion.md)**: Turns a willing animal into a stone figurine.
 - **[Cat’s Grace](cats-grace.md)**: Subject gains +4 to Dex for 1 min./level.
+- **[Cauterizing Weapon](cauterizing-weapon.md)**: Weapon or ammunition overcomes regeneration.
 - **[Celestial Companion](celestial-companion.md)**: Your companion gains spell resistance against evil, DR, and a sacred bonus on saves.
 - **[Clear Grove](clear-grove.md)**: Vegetation withdraws from a 20-ft.-radius clearing.
 - **[Cure Light Wounds](cure-light-wounds.md)**: Cures 1d8 damage + 1/level (max +5).
@@ -160,6 +161,7 @@
 - **[Summon Nature’s Ally II](summon-natures-ally-ii.md)**: Summons creature to fight for you.
 - **[Surefoot Boots](surefoot-boots.md)**: Footwear grants perfect balance.
 - **[Sweat Poison](sweat-poison.md)**: exude an injury poison from your own glands
+- **[Tactical Miscalculation](tactical-miscalculation.md)**: Target must save to make attacks of opportunity.
 - **[Undetectable Trap](undetectable-trap.md)**: Make a trap extremely difficult to find.
 - **[Venomous Bite](venomous-bite.md)**: Target's bite delivers a stored poison.
 - **[Vine Strike](vine-strike.md)**: Enhance one of your natural or unarmed attacks with thorny vine growth.

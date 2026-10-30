@@ -48,6 +48,7 @@ The magus class spell list appears on the [Magus](../../characters/classes/magus
 - **[Recharge Innate Magic](recharge-innate-magic.md)**: You channel magic energy into your own aura, recharging your innate magic abilities.
 - **[Reinforce Armaments](reinforce-armaments.md)**: Temporarily mitigates the fragile quality in targeted weapon or armor.
 - **[Returning Weapon](returning-weapon.md)**: Grants a weapon the returning special weapon quality.
+- **[Scholar’s Perusal](scholars-perusal.md)**: Instantly skim a book’s contents as if read for 1 hour.
 - **[Secluded Grimoire](secluded-grimoire.md)**: Hide your spellbook on the Ethereal Plane.
 - **[Shock Shield](shock-shield.md)**: A shield of force protects you until you dismiss it in an explosion of electricity.
 - **[Skim](skim.md)**: read in a quarter of the time
@@ -80,6 +81,7 @@ The magus class spell list appears on the [Magus](../../characters/classes/magus
 - **[Blood Transcription](blood-transcription.md)**: Learn a spell from the target’s blood.
 - **[Body Double](body-double.md)**: Two creatures look alike; attacks may hit the wrong one.
 - **[Brow Gasher](brow-gasher.md)**: Slashing weapon deals bleed damage to an opponent’s head.
+- **[Cauterizing Weapon](cauterizing-weapon.md)**: Weapon or ammunition overcomes regeneration.
 - **[Contest of Skill](contest-of-skill.md)**: Target’s critical threats fail to confirm.
 - **[Debasing Touch](debasing-touch.md)**: Target's touch turns coins to copper.
 - **[Defending Bone](defending-bone.md)**: Floating bone grants DR 5/bludgeoning.
@@ -109,6 +111,7 @@ The magus class spell list appears on the [Magus](../../characters/classes/magus
 - **[Knell of the Depths](knell-of-the-depths.md)**: Curse: the target sinks in water.
 - **[Light Prison](light-prison.md)**: Cage of light damages and blinds those who leave it.
 - **[Mount, Communal](mount-communal.md)**: As mount, but you may divide the duration among creatures touched.
+- **[Page-Bound Epiphany](page-bound-epiphany.md)**: Study magical notes for up to +10 on one Knowledge check.
 - **[Pilfering Hand](pilfering-hand.md)**: You may seize an object or manipulate it from afar.
 - **[Pouncing Fury](pouncing-fury.md)**: Make a full attack with your claws after a charge.
 - **[Quick Change](quick-change.md)**: Use change shape as a swift action and surprise foes.
@@ -149,6 +152,7 @@ The magus class spell list appears on the [Magus](../../characters/classes/magus
 - **[Caustic Safeguard](caustic-safeguard.md)**: Acid ward on an object.
 - **[Channel Vigor](channel-vigor.md)**: Focus on limbs, mind, spirit, or torso for bonuses.
 - **[Clay Skin](clay-skin.md)**: Target gains DR 5/adamantine.
+- **[Collaborative Thaumaturgy](collaborative-thaumaturgy.md)**: Ally applies a metamagic feat to a spell for free.
 - **[Conjuration Foil](conjuration-foil.md)**: Interfere with nearby teleportation effects.
 - **[Conjure Carriage](conjure-carriage.md)**: Create a fine carriage.
 - **[Curse of Dragonflies](curse-of-dragonflies.md)**: Curse: flying becomes difficult for the target.

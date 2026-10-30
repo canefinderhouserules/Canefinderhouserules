@@ -309,3 +309,5 @@ The following text is the property of Wizards of the Coast, Inc. and is Copyrigh
     Pathfinder Player Companion: Heroes of the Darklands © 2017, Paizo Inc.; Authors: Robert Brookes, Eleanor Ferron, Michelle Jones, Alex Riggs, and Nicholas Wasko.
 
     Pathfinder Player Companion: Inner Sea Primer © 2010, Paizo Publishing, LLC; Author: Colin McComb.
+
+    Pathfinder Player Companion: Pathfinder Society Primer © 2013, Paizo Publishing, LLC; Authors: John Compton and Mark Moreland.
