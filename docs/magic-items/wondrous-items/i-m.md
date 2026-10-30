@@ -56,6 +56,54 @@ Regeneration from the pearly white ioun stone works like a ring of regeneration.
 
 **Requirements** Craft Wondrous Item, creator must be 12th level; **Cost** half the market price
 
+#### Cracked and Flawed Ioun Stones
+
+Ioun stones can also be found damaged. A *cracked* ioun stone has a lesser power than the intact stone of the same color and shape. A *flawed* ioun stone keeps much of its power but carries a drawback.
+
+**Cracked Ioun Stones**
+
+| Color | Shape | Effect | Market Price |
+|---|---|---|---|
+| Deep red | Sphere | This stone grants a +1 competence bonus on one Dexterity-based skill. | 200 gp |
+| Incandescent blue | Sphere | This stone grants a +1 competence bonus on one Wisdom-based skill. | 200 gp |
+| Pale blue | Rhomboid | This stone grants a +1 competence bonus on one Strength-based skill. | 200 gp |
+| Pink and green | Sphere | This stone grants a +1 bonus on one Charisma-based skill. | 200 gp |
+| Scarlet and blue | Sphere | This stone grants a +1 competence bonus on one Intelligence-based skill. | 200 gp |
+| Dark blue | Rhomboid | This stone grants a +1 competence bonus on Perception and Sense Motive checks. | 400 gp |
+| Dusty rose | Prism | This stone grants a +1 competence bonus on initiative checks. | 500 gp |
+| Iridescent | Spindle | This stone grants a +4 competence bonus on Constitution checks to hold your breath. | 500 gp |
+| Clear | Spindle | This stone sustains the wearer on half the normal amount of food. | 1,000 gp |
+| Orange | Prism | Wearer adds one cantrip or orison (determined when the stone is created) to his list of spells known or spells prepared. | 1,000 gp |
+| Pink | Rhomboid | This stone grants a +4 competence bonus on one type of check affected by the Endurance feat. | 1,400 gp |
+| Vibrant purple | Prism | This stone stores one spell level, as a *ring of spell storing (minor)*. | 2,000 gp |
+| Pale lavender | Ellipsoid | This stone absorbs spells of 1st level or lower. After absorbing 5 spell levels, the stone burns out and turns dull gray. | 2,500 gp |
+| Pearly white | Spindle | Regenerate 1 point of damage per hour. | 3,400 gp |
+| Pale green | Prism | This stone grants a +1 competence bonus on attack rolls or saving throws. | 4,000 gp |
+| Lavender and green | Ellipsoid | This stone absorbs spells of 2nd level or lower. After absorbing 10 spell levels, the stone burns out and turns dull gray. | 10,000 gp |
+
+**Flawed Ioun Stones**
+
+| Color | Shape | Effect | Market Price |
+|---|---|---|---|
+| Dark blue | Rhomboid | This stone grants a +2 competence bonus on Perception checks and a –1 penalty to initiative checks. | 300 gp |
+| Clear | Spindle | This stone sustains the wearer without food but he must consume twice the normal amount of water. | 2,000 gp |
+| Dusty rose | Prism | This stone grants a +1 insight bonus to AC and a –2 penalty to Strength. | 4,000 gp |
+| Deep red | Sphere | This stone grants a +2 enhancement bonus to Dexterity, and a –2 penalty to Constitution. | 6,000 gp |
+| Pale blue | Rhomboid | This stone grants a +2 enhancement bonus to Strength and a –2 penalty to Constitution. | 6,000 gp |
+| Pink | Rhomboid | This stone grants a +2 enhancement bonus to Constitution and –2 penalty to Dexterity. | 6,000 gp |
+| Pink and green | Sphere | This stone grants a +2 enhancement bonus to Charisma and a –2 penalty to Constitution. | 6,000 gp |
+| Scarlet and blue | Sphere | This stone grants a +2 enhancement bonus to Intelligence and a –2 penalty to Constitution. | 6,000 gp |
+| Incandescent blue | Sphere | This stone grants a +2 enhancement bonus to Wisdom and a –2 penalty on Perception checks. | 7,200 gp |
+| Iridescent | Spindle | This stone sustains the wearer without air, but he is always staggered. | 12,000 gp |
+| Pale lavender | Ellipsoid | This stone absorbs spells of 3rd level or lower, which deals 2 hit points of damage to the user for each spell level absorbed. After absorbing 20 spell levels, the stone burns out and turns dull gray. | 18,000 gp |
+| Pearly white | Spindle | The user regenerates 4 points of damage per hour. | 18,000 gp |
+| Orange | Prism | This stone grants a +1 caster level and a –2 penalty to the wearer’s primary casting ability score (Wisdom for clerics, Intelligence for wizards, and so on). | 25,000 gp |
+| Pale green | Prism | This stone grants a +1 morale bonus on attack rolls, saves, skill checks, and ability checks. | 28,000 gp |
+| Vibrant purple | Prism | This stone stores three levels of spells, as a *ring of spell storing (minor)*, except casting spells out of the stone requires at least a full-round action. | 36,000 gp |
+| Lavender and green | Ellipsoid | This stone absorbs spells of 6th level or lower, which deals 2 hit points of damage to the wearer for each spell level absorbed. After absorbing 50 spell levels, the stone burns out and turns dull gray. | 36,000 gp |
+
+**Requirements** Craft Wondrous Item, creator must be 12th level; **Cost** half the market price
+
 ### Iron Bands of Binding
 
 **Aura** strong evocation; **CL** 13th  
