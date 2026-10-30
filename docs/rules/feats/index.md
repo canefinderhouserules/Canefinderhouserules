@@ -1612,6 +1612,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Blinded Blade Style](blinded-blade-style.md) | Combat, Style | Blind-Fight, Perception 5 ranks |
 | [Blinded Competence](blinded-competence.md) | Combat | Blinded Blade Style, Blind-Fight, Improved Blind-Fight, Perception 10 ranks |
 | [Blinded Master](blinded-master.md) | Combat | Blind-Fight, Blinded Blade Style, Blinded Competence, Greater Blind-Fight, Improved Blind-Fight, Perception 15 ranks |
+| [Blinding Flash](blinding-flash.md) | Combat | Dex 13, Combat Expertise |
 | [Blinding Light](blinding-light.md) | — | Inner Light, aasimar, *daylight* spell-like ability |
 | [Blinding Sneak Attack](blinding-sneak-attack.md) | Combat | Base attack bonus +5, *darkness* spell-like ability, sneak attack class feature, tiefling |
 | [Blinding Stare](blinding-stare.md) | Combat, Stare | Mesmerist level 7th, painful stare class feature |
@@ -1877,6 +1878,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Disarm Partner](disarm-partner.md) | Combat, Teamwork | Base attack bonus +1 |
 | [Disciple of the Blade](disciple-of-the-blade.md) | — | Weapon Focus (deity’s favored weapon), cleric or inquisitor level 4th, worshiper of a deity |
 | [Disconcerting Stare](disconcerting-stare.md) | Combat, Stare | Mesmerist level 5th, painful stare class feature |
+| [Disorienting Blow](disorienting-blow.md) | Combat | Stunning Fist, base attack bonus +11 |
 | [Dispel Focus](dispel-focus.md) | General | Ability to cast dispel magic |
 | [Dispel Mastery](dispel-mastery.md) | Item Mastery | Use Magic Device 3 ranks, base Fortitude save bonus +6 |
 | [Dispelling Blood](dispelling-blood.md) | — | Knowledge (arcana) 7 ranks, vishkanya |
@@ -1967,6 +1969,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Enduring Might](enduring-might.md) | — | Gather Might*, gather power class feature, kineticist level 8th |
 | [Energy Mastery](energy-mastery.md) | Item Mastery | Use Magic Device 1 rank, base Fortitude save bonus +4 |
 | [Enhanced Coven](enhanced-coven.md) | — | Changeling, coven hex or Coven-Touched |
+| [Enhanced Ki Throw](enhanced-ki-throw.md) | Combat | Ki pool class feature, Ki Throw |
 | [Enlightened Noble](enlightened-noble.md) | — | Cha 13, Noble Scion, Knowledge (nobility) 1 rank |
 | [Ennobled Resistances](ennobled-resistances.md) | — | Investiture class feature, character level 4th |
 | [Enrage Opponent](enrage-opponent.md) | Combat, Panache | Cha 13, Amateur Swashbuckler or panache class feature, Persuasive |
@@ -2042,6 +2045,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Fearsome Finish](fearsome-finish.md) | Combat | Intimidating Prowess, worshiper of a deity of monsters and madness |
 | [Feign Curse](feign-curse.md) | — | Deceitful, Bluff 5 ranks, Spellcraft 1 rank |
 | [Feint Defender](feint-defender.md) | Shield Mastery | Shield Focus, base attack bonus +6 or fighter level 4th, Sense Motive 1 rank |
+| [Feinting Flurry](feinting-flurry.md) | Combat | Dex 15, flurry of blows class feature, Combat Expertise |
 | [Fencing Grace](fencing-grace.md) | Combat | Dex 13, Weapon Finesse, Weapon Focus (rapier) |
 | [Ferocious Horde](ferocious-horde.md) | Teamwork | Orc, ferocity racial trait |
 | [Ferocious Loyalty](ferocious-loyalty.md) | Teamwork | — |
@@ -2102,6 +2106,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Fortunate Manager](fortunate-manager.md) | — | Own at least one building |
 | [Fortunate Ruler](fortunate-ruler.md) | — | Hold the Ruler leadership role for a kingdom |
 | [Fox Insight](fox-insight.md) | Combat | Int 13, Fox Style |
+| [Fox Shape](fox-shape.md) | — | Cha 13, base attack bonus +3, kitsune |
 | [Fox Style](fox-style.md) | Combat, Style | Int 13 |
 | [Fox Trickery](fox-trickery.md) | Combat | Int 13, Combat Expertise, Fox Insight, Fox Style, Improved Dirty Trick |
 | [Freeze in Place](freeze-in-place.md) | Combat | Stealth 5 ranks, wyrwood |
@@ -2196,6 +2201,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [High Magic Focus](high-magic-focus.md) | Teamwork | Any metamagic feat, Spellcraft 7 ranks, ability to cast 2nd-level spells, human |
 | [Hinder](hinder.md) | Blood Hex | Int 13, Use Magic Device 5 ranks |
 | [Hindrance Dismissal](hindrance-dismissal.md) | — | — |
+| [Hold the Blade](hold-the-blade.md) | Combat | Improved Disarm, base attack bonus +10 |
 | [Hollow Soul](hollow-soul.md) | Conduit | Knowledge (planes) 9 ranks |
 | [Holy Water Assault](holy-water-assault.md) | Combat | Base attack bonus +1, Knowledge (religion) 3 ranks |
 | [Hook Fighter](hook-fighter.md) | Combat | Base attack bonus +1 |
@@ -2231,6 +2237,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Improved Disarm Partner](improved-disarm-partner.md) | Combat, Teamwork | [Disarm Partner](disarm-partner.md), base attack bonus +5 |
 | [Improved Elemental Counterspell](improved-elemental-counterspell.md) | — | Two basic blast wild talents from two different elements, expanded element class feature, kinetic blast class feature |
 | [Improved Familiar Bond](improved-familiar-bond.md) | — | Familiar Bond, Iron Will |
+| [Improved Feinting Flurry](improved-feinting-flurry.md) | Combat | Dex 17, flurry of blows class feature, Combat Expertise, Feinting Flurry, base attack bonus +6 |
 | [Improved Fiendish Darkness](improved-fiendish-darkness.md) | — | Fiendish Darkness, *darkness* spell-like ability, caster level 3rd, tiefling |
 | [Improved Fiendish Sorcery](improved-fiendish-sorcery.md) | — | Fiendish sorcery racial trait, tiefling |
 | [Improved Forceful Charge](improved-forceful-charge.md) | Animal Companion | Forceful Charge, Improved Bull Rush, Power Attack, animal companion |
@@ -2589,6 +2596,8 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Quick Study](quick-study.md) | Combat | Int 13, bravery +3 class feature, fighter level 10th |
 | [Quiet Death](quiet-death.md) | Combat | Dex 19, Stealth 10 ranks, rogue level 10th |
 | [Quillbreaker Defense](quillbreaker-defense.md) | Combat | Proficiency with armor spikes |
+| [Quivering Palm Adept](quivering-palm-adept.md) | Combat | Quivering palm class feature |
+| [Quivering Palm Versatility](quivering-palm-versatility.md) | Combat | Quivering palm class feature, base attack bonus +13 |
 | [Racial Item Mastery](racial-item-mastery.md) | Item Mastery | Use Magic Device 6 ranks, base Fortitude saving throw bonus +3 |
 | [Raging Brute](raging-brute.md) | — | Str 21 |
 | [Raging Regeneration](raging-regeneration.md) | Combat | Rage class ability, regeneration, troll |
@@ -2756,6 +2765,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Skyseeker Style](skyseeker-style.md) | Combat, Style | Step Up, base attack bonus +1 |
 | [Skyseeker Thrash](skyseeker-thrash.md) | Combat | Con 13, Skyseeker Style, Step Up, base attack bonus +4 |
 | [Sleeper](sleeper.md) | — | [Warren Digger](warren-digger.md), ghoul |
+| [Sleeper Hold](sleeper-hold.md) | Combat | Greater Grapple, base attack bonus +8 |
 | [Sliding Axe Throw](sliding-axe-throw.md) | Combat | Dex 13, base attack bonus +1 |
 | [Sliding Dash](sliding-dash.md) | Combat | Dex 15, Acrobatics 10 ranks or acrobatic charge class feature, Bluff 3 ranks |
 | [Slipslinger Bombardment](slipslinger-bombardment.md) | Combat | Quick Draw, Slipslinger Grenadier, Slipslinger Style, Throw Anything, Weapon Focus (sling) or weapon training (thrown) class feature, warslinger racial trait |
@@ -2881,6 +2891,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Studied Spell](studied-spell.md) | Metamagic | — |
 | [Stumbling Bash](stumbling-bash.md) | Shield Mastery | Improved Shield Bash, Shield Focus, base attack bonus +6 or fighter level 4th |
 | [Stunning Croak](stunning-croak.md) | — | [Sonic Croak](sonic-croak.md), [Throat Pouch](throat-pouch.md), boggard, terrifying croak |
+| [Stunning Fist Adept](stunning-fist-adept.md) | Combat | Stunning Fist, base attack bonus +3 |
 | [Stunning Irruption](stunning-irruption.md) | Combat | Str 15, Power Attack, base attack bonus +5 |
 | [Stupefying Strike](stupefying-strike.md) | Combat | Dex 13, Wis 13, Improved Unarmed Strike, base attack bonus +8 |
 | [Stygian Spell](stygian-spell.md) | Metamagic | — |
@@ -2921,6 +2932,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Sweeping Dodge](sweeping-dodge.md) | Combat | Dex 13, Dodge |
 | [Sweeping Duelist](sweeping-duelist.md) | Combat | Swordlord Dueling Disciple, Weapon Finesse, Weapon Focus (dueling blade), base attack bonus +5 |
 | [Swift Iron Style](swift-iron-style.md) | Combat, Style | Str 13, Dex 13, proficiency with medium armor |
+| [Swift Kitsune Shapechanger](swift-kitsune-shapechanger.md) | — | Dex 13, base attack bonus +6, kitsune |
 | [Swift Refuge](swift-refuge.md) | Combat | Str 13, Dex 13, Swift Iron Style, proficiency with medium armor |
 | [Swift Sprint](swift-sprint.md) | Combat | Str 13, Dex 13, Swift Iron Style, Swift Refuge, proficiency with medium armor |
 | [Swift Swimmer](swift-swimmer.md) | — | Lizardfolk, swim speed |
@@ -3069,6 +3081,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Vision Mastery](vision-mastery.md) | Item Mastery | Use Magic Device 2 ranks, base Fortitude save bonus +4 |
 | [Volley Fire](volley-fire.md) | Combat, Teamwork | Point-Blank Shot |
 | [Voracious Blade](voracious-blade.md) | Combat | Weapon Focus (rhoka sword), base attack bonus +4, urdefhan |
+| [Vulpine Pounce](vulpine-pounce.md) | Combat | Swift Kitsune Shapechanger, base attack bonus +10, kitsune |
 | [Waking Dream](waking-dream.md) | — | Cha 17, [Ephemeral Tread](ephemeral-tread.md), [Lucid Dreamer](lucid-dreamer.md), Knowledge (planes) 10 ranks |
 | [Walking Sleight](walking-sleight.md) | — | Deft Hands, Sleight of Hand 5 ranks |
 | [Wanderer's Fortune](wanderers-fortune.md) | Conduit | Knowledge (planes) 3 ranks |

@@ -552,6 +552,7 @@
 - **[Bone Flense](bone-flense.md)**: Barbed bone spurs flense a struck creature.
 - **[Burdened Thoughts](burdened-thoughts.md)**: Target is encumbered and cannot fly.
 - **[Business Booms](business-booms.md)**: Boosts a promoted business for several days.
+- **[Call the Void](call-the-void.md)**: Aura of nothingness damages and silences adjacent creatures.
 - **[Catatonia](catatonia.md)**: Make a willing target appear to be dead.
 - **[Cauterizing Weapon](cauterizing-weapon.md)**: Weapon or ammunition overcomes regeneration.
 - **[Chain of Perdition](chain-of-perdition.md)**: Creates a floating chain of force.

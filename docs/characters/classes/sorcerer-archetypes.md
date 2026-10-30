@@ -238,6 +238,30 @@ Your conception was marked by an alien influence. Either you were born from one 
 
 **Living Swarm (Su)**: At 20th level, you and the machines within you become one. Your nanites consume and replicate your body, allowing swift and radical physical alterations with little more than a thought. You become immune to bleed effects, diseases, and poisons, and gain DR 5/—. At will, you can break down your body and move in a shimmering stream of flying nanites, as if affected by *gaseous form*.
 
+### Oni
+
+As slaves of capricious oni lords, your ancestors were forced to yield to their masters’ hedonistic desires, inevitably tainting their descendents with oni blood. Now, you wield the powers of the oni thanks to your vile heritage.
+
+**Class Skill**: Intimidate.
+
+**Bonus Spells**: *ray of enfeeblement* (3rd), *invisibility* (5th), *fly* (7th), *charm monster* (9th), *cone of cold* (11th), *greater dispel magic* (13th), *waves of exhaustion* (15th), *trap the soul* (17th), *dominate monster* (19th).
+
+**Bonus Feats**: Combat Expertise, Combat Reflexes, Enforcer, Fast Healer, Improved Initiative, Iron Will, Power Attack, Skill Focus (Intimidate), Exotic Weapon Proficiency (katana).
+
+**Bloodline Arcana**: Whenever you cast a spell of the charm or compulsion subschool, you gain a bonus on Bluff, Diplomacy, and Intimidate skill checks equal to the level of the spell for 1d4 rounds.
+
+**Bloodline Powers**: While some would call you cursed, you have learned to unlock the powers of your oni heritage. Your emergent cruelty becomes more dominant as your power increases.
+
+**Touch of Agony (Sp)**: At 1st level, you can make a melee touch attack as a standard action that wracks a living creature with agonizing pain. The target takes 1d4 points of nonlethal damage each round for a number of rounds equal to 1/2 your sorcerer level (minimum 1). You can use this ability a number of times per day equal to 3 + your Charisma modifier.
+
+**Altered Form (Sp)**: At 3rd level, you gain the ability to change shape (as the spell *alter self*) for a number of minutes per day equal to your sorcerer level. These rounds need not be consecutive. At 17th level, the duration of this effect is no longer limited, and you may remain in your chosen form as long as you want.
+
+**Windborne (Sp)**: At 9th level, you can turn gaseous (as the spell *gaseous form*) for a number of rounds per day equal to your sorcerer level. These rounds need not be consecutive. At 11th level and every two levels thereafter, your speed while gaseous increases by +10 feet, to a maximum speed of 60 feet at 19th level.
+
+**Oni Healing (Su)**: At 15th level, if your hit points drop below 0, you automatically stabilize and begin regenerating 2 hit points per round for a number of rounds per day equal to your sorcerer level. While regenerating in this way, you are not affected by spells or effects that would cause you to continue dying, such as *bleed*, but if you take any acid or fire damage, you stop regenerating for the rest of the day (but remain stabilized) and you are affected by such effects as normal. You still die if your hit points reach a negative number equal to your Constitution score, regardless of whether you are regenerating. This ability only works once per day—if you drop below 0 hit points a second time, you do not benefit from this ability.
+
+**Hedonistic Master (Su)**: At 20th level, you fully embrace your oni heritage to unlock its maximum potential. You gain the ability to change your shape between your natural form and that of any one Large humanoid creature of the giant subtype at will (as the spell *giant form I*). You must choose which creature you wish to be able to change into when you reach 20th level; once you make this decision, you cannot change it. You can switch between your forms at will, and can assume your giant form for as long as you want. In addition, you gain SR equal to 6 + your sorcerer level, and whenever you cast a spell of the charm or compulsion subschool, the spell’s DC increases by +2.
+
 ### Rakshasa
 
 At some point in your family’s history, one of your ancestors was tainted by the influence of a rakshasa. Though most of your family seem entirely normal, you have always felt your own skin is a prison from which magic allows you to escape. Your birthright is a secret you may be forced to keep from societies that would never deal with you if your heritage were known.

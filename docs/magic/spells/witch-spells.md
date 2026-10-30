@@ -316,6 +316,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Burning Entanglement](burning-entanglement.md)**: Entangling plants burst into flame
 - **[Cackling Skull](cackling-skull.md)**: Skull acts as magic mouth, listeners are shaken.
 - **[Calamitous Flailing](calamitous-flailing.md)**: Curse: the target's missed attacks strike its allies.
+- **[Call the Void](call-the-void.md)**: Aura of nothingness damages and silences adjacent creatures.
 - **[Catatonia](catatonia.md)**: Make a willing target appear to be dead.
 - **[Channel the Gift](channel-the-gift.md)**: Your spell slot powers an ally’s spell.
 - **[Claim Identity](claim-identity.md)**: Steal a touched humanoid’s face and identity.

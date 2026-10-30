@@ -2146,3 +2146,17 @@ Once practiced by the dwarves during their ancient migration from the Underworld
 **Tremor (Su)**: As part of another bardic performance, a stonesinger can cause the ground within 30 feet to tremble, throwing enemies off balance and causing them to take a –1 circumstance penalty to AC as long as the stonesinger continues performing. This penalty increases by 1 at 5th level and every 6 levels thereafter. Creatures levitating or flying above the ground are unaffected by this ability. This replaces countersong.
 
 **Quake (Su)**: At 8th level, a stonesinger causes the ground to shudder and buckle with his song. All enemies within 30 feet of the stonesinger must succeed at a Reflex save (DC = 10 + half the stonesinger’s level + his Charisma bonus) when he begins a bardic performance or be knocked prone. Prone and flying creatures, as well as creatures with the earth glide universal monster ability, are unaffected by this performance. This replaces dirge of doom.
+
+## Lotus Geisha
+
+The lotus geisha of the eastern empires are renowned for their powers of seduction, and tales tell of lotus geisha disarming foes and bolstering allies.
+
+**Weapon Proficiency**: A lotus geisha is proficient with all simple weapons, plus the butterfly sword, fighting fan, iron brush, sai, shortbow, and shuriken. This replaces the normal bard weapon proficiencies.
+
+**Enrapturing Performance (Su)**: At 2nd level, a lotus geisha gains the ability to execute an enrapturing performance in addition to her bardic performance ability. An enrapturing performance is exactly like a bardic performance with the following exceptions.
+
+A lotus geisha can use an enrapturing performance to recreate the effects of any of her known bardic performances, but she focuses the performance on only a single target within range. While other creatures see and hear a lotus geisha’s enrapturing performance, only the target of this ability is affected by it. A lotus geisha cannot have a bardic performance and an enrapturing performance in effect at the same time. Every round spent engaged in an enrapturing performance counts against the total number of rounds per day she can use her bardic performance, and she cannot use this ability if she does not have any more rounds of bardic performance left for that day. Starting an enrapturing performance is a standard action; at 7th level, it becomes a move action, and at 13th level, it becomes a swift action.
+
+A lotus geisha adds a +2 bonus to the DC of Will saves made to resist the effects of her fascinate, frightening tune, and suggestion enrapturing performances. When a lotus geisha uses her enrapturing performance ability to emulate inspire competence, inspire courage, inspire greatness, or inspire heroics, any bonuses to AC or on ability checks, attack rolls, damage rolls, saving throws, and skill checks increase by +1. For example, a lotus geisha using inspire heroics as an enrapturing performance would grant her target a +5 morale bonus on saving throws and a +5 dodge bonus to AC, instead of the usual +4 bonuses. This ability replaces well-versed.
+
+**Bonus Feats**: At 1st level, a lotus geisha gains Spell Focus (enchantment) as a bonus feat. At 5th level, she gains Greater Spell Focus (enchantment) as a bonus feat. These bonus feats replace bardic knowledge and lore master.

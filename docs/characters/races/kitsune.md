@@ -40,7 +40,7 @@ The following racial traits may be selected instead of existing kitsune racial t
 
 **Skilled**: Some kitsune focus on diversifying their skill set in order to better blend in with their human peers. They gain an additional skill rank at 1st level and one additional skill rank whenever they gain a level. This racial trait replaces agile and kitsune magic.
 
-**Superior Shapeshifter**: Some talented kitsune take more naturally to shapeshifting than magic, and develop that gift. They gain Fox Shape as a bonus feat at 1st level, ignoring its prerequisites. This racial trait replaces kitsune magic.
+**Superior Shapeshifter**: Some talented kitsune take more naturally to shapeshifting than magic, and develop that gift. They gain [Fox Shape](../../rules/feats/fox-shape.md) as a bonus feat at 1st level, ignoring its prerequisites. This racial trait replaces kitsune magic.
 
 ## Favored Class Options
 
@@ -83,6 +83,9 @@ These archetypes are typically only taken by kitsune, but members of other races
 - [Human Guise](../../rules/feats/human-guise.md)
 - [Shapechanging Savage](../../rules/feats/shapechanging-savage.md)
 - [Startling Shapechange](../../rules/feats/startling-shapechange.md)
+- [Fox Shape](../../rules/feats/fox-shape.md)
+- [Swift Kitsune Shapechanger](../../rules/feats/swift-kitsune-shapechanger.md)
+- [Vulpine Pounce](../../rules/feats/vulpine-pounce.md)
 
 ## Magic Items
 

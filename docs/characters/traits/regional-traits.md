@@ -686,3 +686,117 @@ These traits come from the many nations of a great inland sea. Each trait names 
 
 **Winter’s Soul (Witch-ruled land native)**: The eternal winter of your homeland is as much a part of you as it is the land. You may cast *ray of frost* once per day as a spell-like ability. This is cast at your highest caster level gained; if you have no caster level, it functions at CL 1st.
 
+## Regional Traits of the Eastern Lands
+
+These traits come from the empires and wilds of a distant eastern continent. Each trait names the kind of homeland it suits; the GM can tie it to any region of the campaign that fits.
+
+**Aberration Hunter (Haunted eastern nation native)**: You refuse to give in to the monsters that feast on your people, and hunt them instead. You gain a +1 trait bonus on attacks of opportunity against aberrations.
+
+**Acupuncturist (Eastern river province native)**: You have studied the ancient art of acupuncture, and use it to pursue enlightenment and healing. You gain a +2 trait bonus on all Fortitude saves made against poison effects.
+
+**Altruistic Diplomat (Peaceful eastern kingdom native)**: Your upbringing in a peaceful kingdom has influenced you to be both peaceful and wise, and your arguments are consistently sound. You gain a +2 trait bonus on Diplomacy checks. You must be lawful good, neutral good, or chaotic good to take this trait.
+
+**Border Guard (Tengu theocracy native)**: You are one of the warriors on the front lines against a land ruled by sea monsters, and excel at combat against water-dwelling foes. You gain a +2 trait bonus on rolls to confirm critical hits against foes with the aquatic subtype.
+
+**Chosen Child (Eastern oracle state native)**: The oracles of your homeland smiled upon you when your parents claimed you were of divine right, and you were raised with privileges few of your countrymen can fathom. Your starting money increases by 900 gp.
+
+**Clan Artisan (Dragon-ruled eastern nation native)**: You were raised in one of the numerous clans of your homeland, and learned a valuable trade in your early years. Pick one Craft skill. You gain a +2 trait bonus on checks with that skill, and it becomes a class skill for you.
+
+**Conscientious Miner (Eastern elven nation native)**: You were one of the mithral miners of an elven nation, and learned how to extract the delicate ore as well as determine its value. You gain a +1 trait bonus on Appraise checks, and a +1 trait bonus on Profession (miner) checks. In addition, Profession (miner) becomes a class skill for you.
+
+**Court Artist (Peaceful eastern kingdom native)**: You grew up in a kingdom that cherishes art, and your artistic talents were honed from an early age. Choose one Perform skill. You gain a +1 trait bonus on checks with that skill, and it becomes a class skill for you.
+
+**Crag Miner (Eastern mining land native)**: You were a miner of the now-scarce ores of the high crags, and have become adept at identifying minerals and gems. You gain a +1 trait bonus on Appraise checks, and Appraise becomes a class skill for you.
+
+**Desert Nomad Explorer (Eastern desert native)**: You belong to one of the nomadic tribes that wander the eastern desert wastes, and you are adept at navigating the seemingly endless desert. You gain a +1 trait bonus on Knowledge (geography) checks and Survival checks made in the desert.
+
+**Discerning Beliefs (Eastern mountain valleys native)**: You helped the samsarans maintain the magical boundaries around valleys in the high peaks, and learned the secrets of avoiding such illusions yourself. You gain a +2 trait bonus on saving throws to disbelieve illusions.
+
+**Dragon-Led Soldier (Dragon-ruled eastern nation native)**: You were a soldier in one of your homeland’s extensive armies, trained under the oversight of its draconic rulers. You gain a +1 trait bonus on Reflex saves.
+
+**Favored Bloodline (Eastern rainforest kingdom native)**: As you were born in a kingdom that prizes certain sorcerous bloodlines and possess one of them, your sorcerous powers are particularly potent. Select one of the following sorcerer bloodlines: fey, maestro, starsoul, or stormborn. Once per day, you may use one of your bloodline powers as if your sorcerer level were 1 higher than normal. This trait does not give you access to bloodline powers whose level requirements you do not yet meet.
+
+**Guerilla (Eastern rainforest kingdom native)**: You have spent much time in the rainforests of your homeland, and know its secrets. You gain a +1 trait bonus on Knowledge (nature) checks as well as Survival checks made in the rainforest. One of these skills becomes a class skill for you.
+
+**Gulf Pearl Diver (Eastern gulf native)**: You were a pearl harvester for a nation bordering a great gulf, and you know just what clues to look for when searching for a worthwhile haul in the briny shallows. You gain a +1 trait bonus on Appraise and Swim checks.
+
+**Haunted Mine Prospector (Haunted eastern nation native)**: You were a talented laborer in the silver mines of a cursed nation, and have seen many wonders in the haunted caverns beneath its surface. You gain a +1 trait bonus on Appraise and Knowledge (dungeoneering) checks.
+
+**Heart of Clay (Eastern imperial nation native)**: You believe you are destined for an afterlife of service as part of your emperor’s terra-cotta army, so you do not fear death as others do. You gain a +1 trait bonus on Fortitude saves.
+
+**Heavenly Touch (Eastern temple land native)**: Growing up, you were exposed to everyday miracles performed by your half-celestial friends, and some of this magic rubbed off. At will, you can touch a dying creature to stabilize it as a standard action.
+
+**Honeyed Tongue (Eastern colony native)**: Having matured in a colonial melting pot, you know the customs of both the eastern natives and the western colonists, and you utilize this knowledge to create peace between rival groups. You gain a +1 trait bonus on Diplomacy checks, and Diplomacy becomes a class skill for you.
+
+**Imperial Advocate (Eastern empire native)**: You possess strong ties to your empire, and spread flattering words regarding it. You gain a +1 trait bonus on Bluff checks, and Bluff becomes a class skill for you.
+
+**Imperial Elite (Eastern imperial nation native)**: You are an elite soldier in one of your empire’s numerous armies, and your discipline has made you a truly deadly foe. You gain a +1 trait bonus on all rolls to confirm critical hits.
+
+**Indentured Blacksmith (Hobgoblin empire native)**: As a former slave of the hobgoblins, you were forced to make many of the weapons and shields that your captors used in war. Choose either Craft (armor) or Craft (weapons). You gain a +1 trait bonus on the chosen skill, and it becomes a class skill for you.
+
+**Instigator of Rebellion (Eastern empire native)**: Your rage over the political repositioning within your empire has led you to incite rage within your compatriots. You have become adept at organizing rallies in opposition to the government. You gain a +1 trait bonus on Diplomacy and Intimidate checks.
+
+**Intrepid Delver (Eastern elven nation native)**: One of the elder elves of your city told you many stories of the Underworld beneath it, and your nerves have hardened to horrors others can hardly fathom. You gain a +2 trait bonus on saving throws against fear effects.
+
+**Island Pirate (Eastern island chain native)**: The hidden coves and bays of a pirate island have been your home throughout most of your career as a pirate, and the winding waterways of the island chain have trained you well in the art of sailing. You gain a +1 trait bonus on Knowledge (geography) checks and Profession (sailor) checks, and one of these skills becomes a class skill for you.
+
+**Jungle Diplomat (Eastern jungle native)**: You know the ways and mores of the jungle tribes, and how to handle delicate communications with different groups of people. You gain a +1 trait bonus on Diplomacy and Sense Motive checks.
+
+**Jungle Resilience (Naga kingdom native)**: Having grown up in a kingdom of nagas and nagaji, you are used to the myriad poisons of its people, and have developed a strong immune system. You gain a +2 trait bonus on Fortitude saves against poison effects.
+
+**Jungle Veteran (Eastern jungle native)**: You have traveled to the great eastern jungle on numerous occasions, and your prowess in traversing the jungle wilderness makes you a formidable guide and explorer. You gain a +1 trait bonus on Perception checks, and a +1 trait bonus on Survival checks in jungle terrain. One of these skills becomes a class skill for you.
+
+**Kami Talker (Spirit forest native)**: You have traversed a forest of spirits numerous times, and have learned how best to communicate with its otherworldly inhabitants. You gain a +2 trait bonus on Diplomacy and Intimidate checks made against outsiders that have the native subtype.
+
+**Martial Rebel (Eastern river province native)**: You have trained in martial arts under the banner of a rebel movement. You gain a +1 trait bonus on damage rolls made with unarmed attacks.
+
+**Martial School Student (Eastern bureaucratic empire native)**: Having grown up in a land of many martial schools, you were taught under various schools of martial arts, and have used all you have learned to hone your fighting prowess. You gain a +1 trait bonus on damage rolls when using unarmed strikes.
+
+**Master of Peaks (Great eastern mountains native)**: You have made it to the summits of a number of the great mountains’ peaks, and your body is used to the effects of both extreme cold and high altitude. You gain a +2 trait bonus on Fortitude saving throws made against the effects of cold dangers and altitude sickness.
+
+**Militia (Eastern colony native)**: As part of a colonial militia, you have trained extensively with groups. You gain a +1 trait bonus on attacks made while flanking an opponent.
+
+**Passionate Believer (Eastern oracle state native)**: Your faith was stifled while you lived in religiously oppressive slums, and the persecutions against you only spurred your own beliefs and made your convictions stronger. You gain a +1 trait bonus on saving throws against divine spells.
+
+**Peasant Rebel (Eastern rebel province native)**: You come from a family of farmers, but are determined to fight for your rights. You gain a +1 trait bonus on attacks made with improvised weapons. If you do not possess the Catch Off-Guard or Throw Anything feats, you still take penalties on these attack rolls as normal.
+
+**Privileged Slave (Hobgoblin empire native)**: You were enslaved by hobgoblins, and obeyed your masters dutifully, turning your back on comrades in order to find favor with your slavers—all the while plotting your escape. You gain a +1 trait bonus on Bluff checks, and Bluff becomes a class skill for you.
+
+**Rebel Leader (Eastern rebel province native)**: A close relative was an important player in the rebellions that led to the independence of your homeland, and passed on her passion to you. If you take the Leadership feat, you receive a +1 trait bonus to your Leadership score.
+
+**Rice Runner (Kraken-ruled land native)**: You grew up as a slave harvesting rice for a kraken despot, and you know how to move agilely across sodden and unsteady ground. You gain a +1 trait bonus on Acrobatics checks, and Acrobatics becomes a class skill for you.
+
+**Seasoned Climber (Great eastern mountains native)**: Your time on the slopes of the great mountains has improved your ability to surmount great peaks. You gain a +1 trait bonus on Climb checks, and Climb becomes a class skill for you.
+
+**Silvertongued Eunuch (Eastern bureaucratic empire native)**: You were brought up as part of your empire’s strictly eunuch bureaucracy, trading your sexual potency for education and tact. You gain a +1 trait bonus on Knowledge (nobility) and Diplomacy checks.
+
+**Sky Spirit Worshipper (Eastern desert native)**: As the child of a nomad shaman, you have seen the sky spirits that roam above and know that the world is rife with unexplainable and terrifying mysteries. You gain a +2 trait bonus on saves against fear effects.
+
+**Slayer of the Deep (Eastern Underworld native)**: You have hunted monsters throughout the Underworld and know how to take advantage of their weaknesses. You gain a +1 trait bonus on damage rolls made against creatures of the aberration type.
+
+**Snake Bleeder (Naga kingdom native)**: You were a nagaji vassal of knowledgeable nagas, and they taught you much regarding how they concoct their various poisons. You gain a +2 trait bonus on Craft (alchemy) checks when brewing poisons, and Craft (alchemy) becomes a class skill for you.
+
+**Sound of Mind (Eastern mountain valleys native)**: You have lived in the high mountains and found utter tranquility among the samsarans of the region. You gain a +2 trait bonus on saving throws against mind-affecting effects.
+
+**Spiritual Forester (Spirit forest native)**: You grew up in a small settlement along the outskirts of a forest of spirits, and have learned much about the woods as well as about their supernatural inhabitants. You gain a +1 trait bonus on Knowledge (nature) and Knowledge (planes) checks, and one of these skills becomes a class skill for you.
+
+**Steppe Bloodrider (Eastern steppe native)**: You belong to one of the nomadic groups of horseback riders that range throughout the steppe. You gain a +1 trait bonus on Handle Animal and Ride checks.
+
+**Storm Hunter (Eastern steppe native)**: You learned to hunt in the relentless winds of the steppe, and still make your arrows fly true. When fighting in windy weather, you treat the wind category as one level lower for the purposes of determining penalties on ranged attacks made with normal weapons.
+
+**Swamp Rebel (Kraken-ruled land native)**: You grew up hiding in the swamps from the monstrous overlords who enslaved you and your people. You gain a +2 trait bonus on Stealth checks in swampy terrain, and Stealth becomes a class skill for you.
+
+**Temple Guard (Eastern temple land native)**: You were a stalwart guard of one of your homeland’s magnificent temple cities, and your resolve proved to be of great use during bandit raids. You gain a +1 trait bonus on attacks of opportunity made with polearm weapons.
+
+**Tengu Church Believer (Tengu theocracy native)**: You were raised in one of the devout tengu churches, and your dedication to your cause makes your divine abilities particularly potent. You gain a +2 trait bonus on concentration checks made while casting divine spells.
+
+**Tiger Brigadier (Eastern mining land native)**: As a member of a youthful brigade, you are ready to guide the people of your homeland and other nations. You gain a +2 trait bonus on Intimidate checks made against anyone whose age is one or more aging steps above yours, and Intimidate becomes a class skill for you.
+
+**Trench Navigator (Eastern gulf native)**: You’ve sailed the treacherous waters of a great gulf in your past, and you can navigate their dangers adroitly. You gain a +1 trait bonus on Knowledge (geography) checks, and a +1 trait bonus on Profession (sailor) checks. One of these skills becomes a class skill for you.
+
+**Undermarket Smuggler (Port city native)**: You worked in a port city’s hidden undermarket for a time, and have learned how to dodge the city’s tax collectors and the port inspectors. You gain a +1 trait bonus on Bluff and Sleight of Hand checks.
+
+**Underworld Delver (Eastern Underworld native)**: You are familiar with the byways and passages of the eastern Underworld. You gain a +1 trait bonus on Knowledge (dungeoneering) checks, and a +1 trait bonus on Survival checks made in the Underworld. One of these skills becomes a class skill for you.
+
+**Wayang Spellhunter (Eastern island chain native)**: You grew up on one of the wayang-populated islands, and your use of magic while hunting has been a boon to you. Select a spell of 3rd level or below. When you use this spell with a metamagic feat, it uses up a spell slot one level lower than it normally would.
+

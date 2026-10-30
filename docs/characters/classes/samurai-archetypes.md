@@ -65,3 +65,19 @@ This replaces mount, weapon expertise, banner, and greater banner.
 *Zuishin (Sp)*: As an immediate action, the ward speaker can dismiss this fortune to cast *cure light wounds* as a spell-like ability. At 9th level, the ward speaker can dismiss this fortune to cast *cure serious wounds*, *lesser restoration*, *remove curse*, or *remove disease*; at 17th level, he also adds *breath of life* and *heal* to this list. The ward speaker's caster level for these spell-like abilities is equal to his samurai level.
 
 **Resilient Stand (Ex)**: At 11th level, the spirits can bolster a ward speaker's willpower and resolve, granting him an inner reservoir he can use when he needs it most. If a ward speaker has not expended his daily uses of propitiation, he can call upon the spirits to reroll a saving throw during an honorable stand instead of expending a use of resolve to do so. He must take the result of the second roll, even if it is worse. This expends a daily use of propitiation. This alters honorable stand.
+
+## Sword Saint
+
+Sword saints hail from lands where samurai are prevalent, and are often ronin who wander the world seeking new challenges to perfect their intricate style of swordplay called *iaijutsu*. The following benefits apply only when a sword saint is using a sword and carrying nothing in his other hand.
+
+**Iaijutsu Strike (Ex)**: A sword saint can perform a lightning-quick iaijutsu strike against the target of his challenge to inflict devastating wounds while drawing his sword. After the sword saint has challenged a foe but before he has attacked the target of his challenge, he may choose to use his iaijutsu strike as a full-round action, making an attack roll with his weapon as normal. In order to use this ability, the sword saint’s weapon must be sheathed at the start of his turn. If he successfully hits his opponent with an iaijutsu strike, his attack deals an additional +1d6 points of damage. This bonus damage increases by an additional +1d6 at 3rd level and every two levels thereafter to a maximum of +10d6 damage at 19th level. Any extra damage as a result of a successful iaijutsu strike is not multiplied by a critical hit.
+
+After making an iaijutsu strike, a sword saint takes a –4 penalty to his AC until his next turn, but his weapon is now drawn and he may continually to fight normally. Regardless of whether he hits his opponent with the iaijutsu strike, a sword saint cannot use this ability on the same foe more than once per day.
+
+At 10th level, a sword saint learns to focus faster and is able to make an iaijutsu strike as a standard action, and the penalty to his AC is reduced to –2. This ability replaces a samurai’s mount.
+
+**Brutal Slash (Ex)**: At 3rd level, a sword saint’s iaijutsu strike becomes even more deadly. If a sword saint threatens a critical hit with his iaijutsu strike, he adds a bonus equal to 1/2 his class level to the attack roll to confirm a critical hit. The sword saint may only select the katana or the wakizashi as his chosen weapon for the weapon expertise ability. This ability alters weapon expertise and replaces mounted archer.
+
+**Terrifying Iaijutsu (Ex)**: At 5th level, a sword saint’s iaijutsu strike devastates the morale of foes that witness it. When a sword saint successfully hits with an iaijutsu strike, all foes within 30 feet must succeed at a Will save (DC 10 + 1/2 the sword saint’s class level + the sword saint’s Cha modifier) or become shaken for 1d4+1 rounds. This ability replaces banner.
+
+**Roaring Iaijutsu (Ex)**: At 14th level, a sword saint’s iaijutsu strike deafens foes upon impact. When a sword saint successfully hits with an iaijutsu strike, all foes within 30 feet must succeed at a Fortitude save (DC 10 + 1/2 the sword saint’s class level + the sword saint’s Str modifier) or be deafened for 1d4 minutes. This ability replaces greater banner.

@@ -130,6 +130,22 @@ If a scroll contains a spell with a metamagic feat, this ability uses the origin
 
 **Improved Scroll Casting (Su)**: At 10th level, the scrollmaster can cast a wizard spell from a scroll and use his own Intelligence score and relevant feats to set the DC for the spell, and can use his own caster level if it is higher than that of the scroll (similar to a caster using a staff ). The scrollmaster must have already deciphered the writing on the scroll to use this ability. This ability replaces the 10th-level wizard bonus feat.
 
+### Void (Elemental School)
+
+The void is a complex idea considered by some to be a fifth element—one that comprises thought, space, spiritualism, and insight. Wizards who tap into its mysterious powers gain control over energies that bind the earth to the heavens and the planes to their mysterious and eternal alignments, as well as the powers that stitch living beings to their spirits. The void elemental school presented here is an additional arcane school for the wizard class.
+
+A wizard who specializes in the void element gains a number of school powers and one bonus spell slot of each level that the wizard can cast, from 1st on up. This bonus spell slot must be used to prepare a spell from the void elemental school’s spell list. Unlike a normal arcane school, the void elemental school requires the wizard to select a single element (air, earth, fire, or water) as his opposition school. A wizard must expend two spell slots to prepare a spell from his opposed elemental school as normal. He does not need to select a second opposition school.
+
+**Void Magic**: Add the following spells to your wizard spell list at the listed spell level: 1st—*keen senses*, 3rd—*twilight knife*, 4th—*wandering star motes*, 6th—*true seeing*, 8th—*moment of prescience*.
+
+**Void Awareness (Su)**: Your ability to recognize the void allows your body to react to magical manifestations before you’re even aware of them. You gain a +2 insight bonus on saving throws against spells and spell-like abilities. This bonus increases by +1 for every five wizard levels you possess. At 20th level, whenever you would be affected by a spell or spell-like ability that allows a saving throw, you can roll twice to save against the effect and take the better result.
+
+**Reveal Weakness (Su)**: When you activate this school power as a standard action, you select a foe within 30 feet. That creature takes a penalty to its AC and on saving throws equal to 1/2 your caster level (minimum –1) for 1 round. You can use this ability a number of times per day equal to 3 + your Intelligence bonus.
+
+**Aura of Prescience (Su)**: At 8th level, you can emit a 30-foot aura of void energy for a number of rounds per day equal to your wizard level. Allies within this aura gain a +2 insight bonus on ability checks, attack rolls, damage rolls, saving throws, and skill checks. These rounds do not need to be consecutive.
+
+**Void Elementalist Wizard Spells**: 0—*guidance*; 1st—*gravity bow*, *keen senses*, *shield*, *true strike*; 2nd—*continual flame*, *haunting mists*, *invisibility*, *masterwork transformation*, *see invisibility*, *share memory*; 3rd—*arcane sight*, *clairaudience/clairvoyance*, *dispel magic*, *nondetection*, *seek thoughts*, *tapestry's embrace*, *twilight knife*; 4th—*minor creation*, *moonstruck*, *wandering star motes*; 5th—*fabricate*, *major creation*, *mind fog*, *telepathic bond*, *teleport*; 6th—*dispel magic, greater*, *legend lore*, *mage's lucubration*, *true seeing*; 7th—*simulacrum*, *teleport, greater*, *vision*; 8th—*mind blank*, *moment of prescience*, *orb of the void*, *whirlwind*; 9th—*foresight*, *mage's disjunction*, *time stop*.
+
 ## Elemental Arcane Schools
 
 Instead of specializing in one of the standard eight schools of magic, a wizard can choose to specialize in one of the four elemental schools of magic. Like a normal arcane school, an elemental school grants a number of school powers and one bonus spell slot of each level the wizard can cast, from 1st on up. This bonus spell slot must be used to prepare a spell from the elemental school’s spell list (see Chapter 5). Unlike a normal arcane school, each elemental school requires the wizard to select his opposed element as his opposition school (air opposes earth, fire opposes water). He does not need to select a second opposition school. He must expend two spell slots to prepare a spell from his opposed elemental school as normal.
