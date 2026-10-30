@@ -1856,6 +1856,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Deep Toxin](deep-toxin.md) | — | Vital Strike; base attack bonus +6; Craft (poison) 6 ranks or poison use class feature |
 | [Defended Movement](defended-movement.md) | Shield Mastery | Shield Focus, base attack bonus +6 or fighter level 4th |
 | [Deft Catcher](deft-catcher.md) | — | Skill Focus (Sleight of Hand) |
+| [Deific Obedience](deific-obedience.md) | — | Knowledge (religion) 3 ranks, must worship a deity |
 | [Delayed Potion](delayed-potion.md) | Versatile Brewing | Brew Potion, caster level 5th |
 | [Deliberate Death](deliberate-death.md) | Origin | Duskwalker |
 | [Demonic Momentum](demonic-momentum.md) | Combat | [Demonic Style](demonic-style.md), Improved Bull Rush, Power Attack, base attack bonus +5 |

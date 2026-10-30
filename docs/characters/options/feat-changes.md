@@ -85,7 +85,7 @@
 
 ## Obedience
 
-Deific, demonic or any other Obedience feat now grants its boons at levels 6, 10 and 14. You can always choose between Exalted, Sentinel or Evangelist, but the decision is absolute: once made, it cannot be changed.
+[Deific](../../rules/feats/deific-obedience.md), demonic or any other Obedience feat now grants its boons at levels 6, 10 and 14 (see [Deific Obediences](deific-obediences.md)). You can always choose between Exalted, Sentinel or Evangelist, but the decision is absolute: once made, it cannot be changed.
 
 ## Eclectic Training
 
