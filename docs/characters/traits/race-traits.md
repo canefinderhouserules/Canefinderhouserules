@@ -218,6 +218,8 @@ Only halflings may select one of these traits.
 
 **Wild Shadow**: Select one terrain type from the ranger's favored terrain list. You can attempt Stealth checks in this terrain in normal light without having cover or being invisible. You still can't attempt Stealth checks in areas of bright light without invisibility or cover.
 
+**Successful Shirker**: Born and raised a slave with no hope of advancement, you are adept at avoiding your overseer’s ire and attention, the better to spend time on your own interests. You gain a +1 trait bonus on Stealth checks and a +3 trait bonus on Bluff and Diplomacy checks to avoid punishment by lawful authority.
+
 ## Human Traits
 
 Only humans may select one of these traits.
@@ -303,6 +305,10 @@ Only humans may select one of these traits.
 **Landspeaker** *(arctic hunter-herders)*: You are deeply attuned to the lands your people call home and the spirits that live there. You gain a +1 trait bonus on Survival checks in arctic or cold terrain. In addition, while in such terrain, you may query the spirits of the land once per day to gain a +5 trait bonus on a single skill check to follow tracks, forage, or find shelter.
 
 **Survivalist**: You gain a +1 trait bonus on saving throws against natural environmental hazards.
+
+**Infernal Influence**: Your family, from the infernal empire, boasts secret diabolical ties that may go back much further than the current regime, and much deeper. You gain fire resistance 1 and a +1 trait bonus on Fortitude saves against poison.
+
+**Masterful Demeanor**: As a proud citizen of the infernal empire, you are confident that members of other, inferior races will obey you, and quickly. You gain a +3 trait bonus on Intimidate checks against members of non-human humanoid races.
 
 ## Catfolk Traits
 

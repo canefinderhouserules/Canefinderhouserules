@@ -7119,3 +7119,96 @@ This stone grants a +1 insight bonus on saving throws against death effects.
 **Resonance**: This stone grants a +1 bonus on Constitution checks to stabilize when dying.
 
 **Construction Requirements:** Craft Wondrous Item, *bear’s endurance*, creator must be 12th level; **Cost** 400 gp
+
+## Infernal Empire Items
+
+### Hellwasp Corset
+
+**Slot** armor; **CL** 9th; **Price** 17,175 gp; **Weight** 10 lbs.
+
+**Aura** moderate enchantment
+
+Devised by a queen of the infernal empire, this *+3 studded leather armor* is lavishly adorned with a bound swarm of hellwasps. Once ranking among the most spectacular pieces of clothing in the empire, the discomfort caused during the creation of this corset is as legendary as the protection it offers.
+
+The wasps bound to the corset prevent the first 20 points of damage you take each day (resetting at midnight). Once the wasps have prevented 20 points of damage for the day, they angrily animate and swarm around you, and you must make a DC 18 Fortitude save or be nauseated for 1 round. After 1 round of activity, the swarm then returns to the corset and goes dormant, and this ability to prevent damage does not function until it recovers at midnight.
+
+The swarm cannot be targeted separately from the armor and cannot be killed unless the armor is destroyed (not just broken).
+
+**Construction Requirements:** Craft Magic Arms and Armor, *lesser planar ally*, *summon swarm*, caster level 9th; **Cost** 8,675 gp
+
+### Ring of Terrible Cost
+
+**Slot** ring; **CL** 9th; **Price** 20,000 gp; **Weight** —
+
+**Aura** moderate transmutation
+
+These rings once displayed the smiling face of a long-dead king, and were forged in limited quantities to celebrate the end of his reign. After the death of the god he served, the rings were cast aside or lost. Recently, several resurfaced, but changed by unknown means—the king’s face now bears a sorrowful expression, and flames loom behind him.
+
+As a standard action, you may charge the ring with a +1 profane bonus by sacrificing 2 of your hit points. These hit points remain lost and cannot be healed by any means until the ring’s power is expended. You may do this multiple times, up to a maximum of a +5 profane bonus stored in the ring.
+
+As an immediate action, you can add the stored profane bonus to any single attack roll, damage roll, skill check, or saving throw, which expends the charged energy from the ring. You must declare this use after rolling the die but before you learn the result of the roll. You must expend all the ring’s power at once. Once the charge is expended, you can heal your lost hit points normally. Expending this charge does not ruin the ring, and you may charge it again by sacrificing more hit points.
+
+The charge in the ring can come from multiple donors, but none of the donors can regain their sacrificed hit points until the ring’s charge is spent or the ring is destroyed. For this reason, owners of a *ring of terrible cost* guard the item carefully.
+
+**Construction Requirements:** Forge Ring, *aid*, *resistance*, *vampiric touch*; **Cost** 10,000 gp
+
+### Grudge Blade
+
+**Slot** weapon; **CL** 9th; **Price** 10,320 gp; **Weight** 2 lbs.
+
+**Aura** faint necromancy
+
+*Grudge blades* play a role in many of the conflicts driven by the diabolical elite, both petty and epic. The dull, dark-gray steel of the blades almost appears blunt on the edges, but these *+1 rapiers* are wickedly sharp. Each elegantly carved hilt displays an engraved, glaring eye that appears to wink and flash as you fight.
+
+The true power of a *grudge blade* reveals itself against an opponent you have already injured with the sword. If you hit a creature with the sword on your previous turn, you gain an extra +1 bonus on damage rolls with the sword against that creature. As long as you continue to hit that creature at least once per round and attack no other creatures with the *grudge blade*, this damage bonus continues to build, to a maximum of +5; failing to hit that target or attacking anyone else resets the damage bonus to +0.
+
+**Construction Requirements:** Craft Magic Arms and Armor, *death knell*, *magic weapon*; **Cost** 5,320 gp
+
+### Hellcaller’s Edge
+
+**Slot** weapon; **CL** 9th; **Price** 20,350 gp; **Weight** 8 lbs.
+
+**Aura** moderate evocation
+
+Bestowed as rewards for unwavering loyalty to infernal knight commanders of great renown, these filigreed *+2 greatswords* pulse with a sickening carmine light in rhythm with the heartbeats of their bearers. Prized trophies, these weapons are brandished eagerly by staunch champions of the infernal empire.
+
+Once per day as a standard action, you may strike the blade against the ground to create a one-way rift from Phlegethon (the fieriest layer of Hell) centered where the sword hits. The rift spews magical flames upward in a 10-foot-radius, 40-foot-high cylinder. All creatures in this area (including you) take 9d6 points of damage (Reflex half DC 17). Half the damage is fire, but the other half results directly from divine power and is therefore not subject to fire resistance or immunity.
+
+**Construction Requirements:** Craft Magic Arms and Armor, *flame strike*, caster level 6th; **Cost** 10,350 gp
+
+### Cloak of Flash and Shadow
+
+**Slot** cloak; **CL** 3rd; **Price** 11,000 gp; **Weight** 1 lb.
+
+**Aura** faint illusion
+
+Designed to meet the dual needs of the infernal empire’s elite—glamour and subtlety—the *cloak of flash and shadow* is a magic reversible cloak. When worn one way, the cloak shimmers with heavy gold and silver embroidery against richly colored silk, and grants you a +2 enhancement bonus to Charisma.
+
+When worn inside-out, the matte-black lining seems to absorb light, cloaking you in shadow and giving you a +2 competence bonus on Stealth checks. In this configuration you can cast *blur* three times per day.
+
+Reversing the cloak’s position is a standard action and requires at least one free hand.
+
+**Construction Requirements:** Craft Wondrous Item, *blur*, *eagle’s splendor*; **Cost** 5,500 gp
+
+### Pact Parchment
+
+**Slot** none; **CL** 11th; **Price** 3,500 gp; **Weight** —
+
+**Aura** moderate enchantment
+
+Written and signed in blood, a *pact parchment* ensures the utter and undeniable fulfillment of the actions stated within. Upon a pact parchment, you can inscribe a contract, defining a certain service or course of action by one or more creatures. If all listed creatures willingly (without magical influence, threats, and so on) sign this pact in blood, they are bound to fulfill this agreement. Henceforth everyone breaking the pact suffers a –4 penalty on attack rolls, saves, ability checks, and skill checks, until they either satisfy the pact’s conditions (if still possible) or the parchment is destroyed.
+
+**Construction Requirements:** Craft Wondrous Item, *geas/quest*; **Cost** 1,750 gp
+
+### Verdict of the Nether Court
+
+**Slot** weapon; **CL** 13th; **Price** 32,000 gp; **Weight** 2 lbs.
+
+**Aura** strong necromancy
+
+Infused with the power of Hell’s courts, this blood-quenched steel gavel emits an ear-splitting din when struck against a hard surface. Once per day, as a standard action, you can use it to judge a single foe within 30 feet, who then suffers the effect of a *dictum* spell.
+
+The gavel bestows one negative level on any chaotic or good creature attempting to wield it. The negative level remains as long as the weapon is in hand and disappears when the weapon is no longer wielded. This negative level never results in actual level loss, but it cannot be overcome in any way (including restoration spells) while the weapon is wielded. If the creature is chaotic good, these negative levels stack.
+
+**Construction Requirements:** Craft Wondrous Item, *dictum*; **Cost** 16,000 gp
+

@@ -34,6 +34,7 @@
 - **[Bless Water](bless-water.md)**: Makes holy water.
 - **[Blessing of the Watch](blessing-of-the-watch.md)**: *Bless* that works only in the caster’s home city.
 - **[Brightest Night](brightest-night.md)**: grant or enhance low-light vision
+- **[Burning Disarm](burning-disarm.md)**: Held metal object turns red-hot; drop it or take 1d4 fire damage/level.
 - **[Carrion Compass](carrion-compass.md)**: Organ leads you to an undead creature's controller
 - **[Cause Fear](cause-fear.md)**: One creature of 5 HD or less flees for 1d4 rounds.
 - **[Celestial Healing](celestial-healing.md)**: Target gains fast healing 1.
@@ -790,6 +791,7 @@
 - **[Restoration, Greater](restoration-greater.md)**: As *restoration,* plus restores all levels and ability scores.
 - **[Resurrection](resurrection.md)**: Fully restore dead subject.
 - **[Scrying, Greater](scrying-greater.md)**: As *scrying*, but faster and longer.
+- **[Signifer’s Rally](signifers-rally.md)**: Teleport one ally/5 levels to your side.
 - **[Soul Transfer](soul-transfer.md)**: Move or capture bodiless souls
 - **[Spell Scourge](spell-scourge.md)**: Strip harmless spells from a creature or confuse it.
 - **[Summon Monster VII](summon-monster-vii.md)**: Summons extraplanar creature to fight for you.

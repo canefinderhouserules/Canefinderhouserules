@@ -74,6 +74,7 @@
 - **[Blend with Surroundings](blend-with-surroundings.md)**: Target looks like an object and hides easily while still.
 - **[Bouncy Body](bouncy-body.md)**: Become rubbery and bounce when falling
 - **[Brightest Night](brightest-night.md)**: grant or enhance low-light vision
+- **[Burning Disarm](burning-disarm.md)**: Held metal object turns red-hot; drop it or take 1d4 fire damage/level.
 - **[Burning Sands](burning-sands.md)**: Burning sand slows and damages creatures.
 - **[Celestial Healing](celestial-healing.md)**: Target gains fast healing 1.
 - **[Clarion Call](clarion-call.md)**: Creates a horn blast and a booming voice.
@@ -579,6 +580,7 @@
 - **[Draconic Ally](draconic-ally.md)**: Create an intelligent draconic servant.
 - **[Draconic Malice](draconic-malice.md)**: Fear-immune foes lose their immunity to your fear effects.
 - **[Dragon Turtle Shell](dragon-turtle-shell.md)**: Natural attacks against you deal reduced damage.
+- **[Dweomer Retaliation](dweomer-retaliation.md)**: After a counterspell, gain temporary hp and damage the countered caster.
 - **[Earth Tremor](earth-tremor.md)**: Unleash a tremor that creates difficult terrain and can knock foes down and damage them.
 - **[Ectoplasmic Snare](ectoplasmic-snare.md)**: Tendril of ectoplasm grapples a creature and tethers you to it.
 - **[Erode Defenses](erode-defenses.md)**: Target's DR and natural armor wear away.
@@ -738,6 +740,7 @@
 - **[Toxic Blood](toxic-blood.md)**: Target's blood sprays black adder venom when cut.
 - **[Toxic Rupture](toxic-rupture.md)**: A poisonous creature is poisoned by its own venom.
 - **[Trial of Fire and Acid](trial-of-fire-and-acid.md)**: Cover a creature in burning acid
+- **[Twine Double](twine-double.md)**: Creates a cloth-and-twine double of yourself that you can control.
 - **[Twisted Innards](twisted-innards.md)**: Crits and sneak attacks may fail.
 - **[Unflappable Mien](unflappable-mien.md)**: A force ward punishes creatures that try to touch you.
 - **[Unhallowed Blows, Greater](unhallowed-blows-greater.md)**: As unhallowed blows, with a larger bonus and longer duration.
@@ -833,6 +836,7 @@
 - **[Dream Shield](dream-shield.md)**: Protect a sleeper's mind from intrusion and control.
 - **[Earsend](earsend.md)**: Your ear flies off as a spy.
 - **[Earth Glide](earth-glide.md)**: School transmutation [earth]; Level alchemist 4, druid 4, sorcerer/wizard 4 Casting Time 1 standard action.
+- **[Emergency Force Sphere](emergency-force-sphere.md)**: Immediate dome of force shelters you from collapses and ambushes.
 - **[Energy Hack](energy-hack.md)**: After taking energy damage, swap your spells' energy types.
 - **[Enticing Adulation](enticing-adulation.md)**: Target rages to defend you.
 - **[Fair Is Foul](fair-is-foul.md)**: Curse: the target gains a random arcane malignancy.
@@ -1423,6 +1427,7 @@
 - **[Sequester](sequester.md)**: Subject is invisible to sight and scrying; renders creature comatose.
 - **[Shadow Body](shadow-body.md)**: Turn your body into a living shadow.
 - **[Shapechanger’s Gift, Greater](shapechangers-gift-greater.md)**: Temporarily change a target into an animal, elemental, fey, humanoid, monstrous humanoid, or vermin.
+- **[Signifer’s Rally](signifers-rally.md)**: Teleport one ally/5 levels to your side.
 - **[Soul Transfer](soul-transfer.md)**: Move or capture bodiless souls
 - **[Spell Scourge](spell-scourge.md)**: Strip harmless spells from a creature or confuse it.
 - **[Spell Turning](spell-turning.md)**: Reflect 1d4+6 spell levels back at caster.

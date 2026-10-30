@@ -1592,6 +1592,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Beast Speaker](beast-speaker.md) | — | Handle Animal 7 ranks, animal companion with effective druid level 7 |
 | [Beast Speaker Mastery](beast-speaker-mastery.md) | — | Beast Speaker, character level equal to or higher than that listed in your companion's mastery entry |
 | [Befuddling Initiative](befuddling-initiative.md) | Combat | Improved Initiative |
+| [Belier’s Bite](beliers-bite.md) | Combat | Improved Unarmed Strike |
 | [Believable Veils](believable-veils.md) | — | Caster level 3rd, ability to cast at least one glamer or figment, worshiper of a deity of illusion or secrets |
 | [Bend with the Wind](bend-with-the-wind.md) | — | Wis 15, Body Control, Endurance, Meditation Master |
 | [Bestow Hope](bestow-hope.md) | — | Improved Channel, channel energy class feature, worshiper of a deity of healing and redemption |
@@ -1761,6 +1762,10 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Coordinated Capture](coordinated-capture.md) | Combat, Teamwork | Base attack bonus +1 |
 | [Coordinated Distraction](coordinated-distraction.md) | Combat, Teamwork | — |
 | [Coordinated Reposition](coordinated-reposition.md) | Teamwork | Step-Up |
+| [Cornugon Shield](cornugon-shield.md) | Combat | Dex 15, Weapon Focus (spiked chain) |
+| [Cornugon Smash](cornugon-smash.md) | Combat | Power Attack, Intimidate 6 ranks |
+| [Cornugon Stun](cornugon-stun.md) | Combat | Stunning Fist |
+| [Cornugon Trip](cornugon-trip.md) | Combat | Dex 15, Improved Trip, Weapon Focus (spiked chain) |
 | [Corpse Companion](corpse-companion.md) | — | Animal companion class feature, ghoul |
 | [Corrupted Flesh](corrupted-flesh.md) | — | Con 15, 6 HD, ogre |
 | [Cosmic Gate](cosmic-gate.md) | — | [Starlit Guidance](starlit-guidance.md), Knowledge (planes) 10 ranks |
@@ -2118,6 +2123,8 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Frightening Ambush](frightening-ambush.md) | Combat | Intimidate 1 rank |
 | [Frozen Skin](frozen-skin.md) | — | Con 15, half-orc of winter descent |
 | [Fury of the Tainted](fury-of-the-tainted.md) | Combat | Cha 13, rage class feature, tiefling |
+| [Fury’s Fall](furys-fall.md) | Combat | Improved Trip |
+| [Fury’s Snare](furys-snare.md) | Combat | Fury’s Fall, Improved Trip |
 | [Gather Might](gather-might.md) | — | Gather power class feature, kineticist level 8th |
 | [Gaze Reflection](gaze-reflection.md) | — | Spellcraft  10 stare and ranks, bold mesmerist tricks class features |
 | [Ghost Hunting Team](ghost-hunting-team.md) | — | Duskwalker, ghost hunter racial trait |
@@ -2173,6 +2180,8 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Guild Emissary](guild-emissary.md) | — | Leadership or Underworld Connections |
 | [Gun Twirling](gun-twirling.md) | Grit | Amateur Gunslinger feat or grit class feature, Dazzling Display, Weapon Focus |
 | [Halfling Slinger](halfling-slinger.md) | Combat | Halfling |
+| [Hamatula Grasp](hamatula-grasp.md) | Combat | Hamatula Strike, Improved Grapple, Strength 13, base attack bonus +9 |
+| [Hamatula Strike](hamatula-strike.md) | Combat | Improved Grapple, Strength 13, Base Attack Bonus +7 |
 | [Hammer Guards the Anvil](hammer-guards-the-anvil.md) | Teamwork | — |
 | [Hammer Throw](hammer-throw.md) | Combat | Int 13, Combat Expertise, Improved Trip, Point-Blank Shot, Precise Shot, base attack bonus +1, dwarf |
 | [Hand's Autonomy](hand-s-autonomy.md) | General | Possessed Hand |
@@ -2191,6 +2200,8 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Healing Potion](healing-potion.md) | Versatile Brewing | Brew Potion, ability to cast *cure serious wounds* |
 | [Heaven's Light](heavens-light.md) | Conduit | Knowledge (planes) 1 rank |
 | [Hefty Brute](hefty-brute.md) | — | Animal companion or familiar |
+| [Hellcat Pounce](hellcat-pounce.md) | Combat | Hellcat Stealth, Skill Focus (Stealth), sneak attack +2d6 |
+| [Hellcat Stealth](hellcat-stealth.md) | — | Skill Focus (Stealth), Stealth 6 ranks |
 | [Hellish Shackles](hellish-shackles.md) | — | Channel energy 5d6, worshiper of an archdevil or infernal noble |
 | [Helpless Prisoner](helpless-prisoner.md) | General | Bluff 5 ranks, Escape Artist 1 rank, gnome |
 | [Hemorrhaging Venom](hemorrhaging-venom.md) | Combat | Spit Venom, Virulent Venom, base attack bonus +7, nagaji |
@@ -2493,6 +2504,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Ostentatious Display](ostentatious-display.md) | — | — |
 | [Ostentatious Rager](ostentatious-rager.md) | Combat | Intimidate 5 ranks, rage class feature |
 | [Ostentatious Weakness](ostentatious-weakness.md) | Combat, Performance | Base attack bonus +5, favored enemy class feature |
+| [Osyluth Guile](osyluth-guile.md) | Combat | Bluff 8 ranks, Dodge |
 | [Otherworldly Influence](otherworldly-influence.md) | Story | You have refused an evil creature with at least 15 Hit Dice who offered gifts or assistance, or have refused an evil creature offering to cast a spell of 7th level or higher on your behalf. |
 | [Outer Planes Traveler](outer-planes-traveler.md) | — | Knowledge (planes) 11 ranks, ability to cast *plane shift* or *gate* as a spell or spell-like ability |
 | [Outslug Sprint](outslug-sprint.md) | Combat | Int 13, Combat Expertise or brawler’s cunning class feature, Lunge, Outslug Style, Outslug Weave, Weapon Focus with the chosen weapon |

@@ -162,3 +162,25 @@ These traits suit members of a society of explorers and treasure seekers. Each l
 
 **Relic-Proof (Social)**: Your experiments—both your successes and failures—have inured you to the effects of stored magic. You gain a +1 trait bonus on saving throws against effects produced by spell completion and spell trigger items.
 
+## Infernal Empire Traits
+
+These traits suit characters raised in or around an empire ruled by devil-worshipers. Each lists its trait category in parentheses.
+
+**Accelerated Drinker (Combat)**: You know how to drink a potion efficiently, such as by not using your hands, tossing it in the air and catching it in your mouth, or opening it with your teeth. You may drink a potion as a move action instead of a standard as long as you start your turn with the potion in your hand.
+
+**Gnome City Businessman (Social)**: Your time among the gnome elite of a great gnomish city has led to an extensive knowledge of alchemy and ready connections in the business. You gain a +2 trait bonus on all Craft (alchemy) checks. You must be a gnome to take this trait.
+
+**Desperate Focus (Magic)**: You’ve often found yourself in situations where a lack of focus can lead to worse than a lost spell. You gain a +2 trait bonus on concentration checks.
+
+**Diabolical Dabbler (Magic)**: Each fiendish animal you conjure with any summon spell gains +1 hit point per Hit Die for the duration of the spell that summoned it.
+
+**Infernal Knight Ancestry (Social)**: At least one of your parents was an infernal knight, and you see the knightly orders as the embodiment of civic virtue. You gain a +2 trait bonus on Diplomacy checks to influence infernal knights and a +2 trait bonus on Intimidate checks to influence enemies of the infernal knights.
+
+**Lost Nobility (Social)**: Your family was prominent before the rise of the current devil-worshiping regime, but that legacy is now forgotten by all but you. You hold every government official of that regime (including infernal knights) personally responsible for your lost glory. You gain a +1 trait bonus on attack and damage rolls against these officials.
+
+**Nonchalant Thuggery (Social)**: You are adept at keeping witnesses from noticing that anything is wrong. You gain a +4 trait bonus on Bluff checks to keep others from noticing your aggressive actions.
+
+**Theoretical Magician (Magic)**: You’ve studied more magic than what you can actually perform. You gain a +2 trait bonus on Spellcraft checks, or a +3 bonus if you aren’t a spellcaster.
+
+**Threatening Defender (Combat)**: You know how to avoid a blow while still maintaining your offensive posture. When you use Combat Expertise, reduce the number you subtract from your melee attack rolls by 1.
+

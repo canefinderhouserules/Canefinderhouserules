@@ -800,3 +800,15 @@ These traits come from the empires and wilds of a distant eastern continent. Eac
 
 **Wayang Spellhunter (Eastern island chain native)**: You grew up on one of the wayang-populated islands, and your use of magic while hunting has been a boon to you. Select a spell of 3rd level or below. When you use this spell with a metamagic feat, it uses up a spell slot one level lower than it normally would.
 
+## Regional Traits of the Infernal Empire
+
+**Cliff Jumper (Coastal cliffs native)**: You spent your early years exploring and foraging along the coastal cliffs. You gain a +1 trait bonus on Acrobatics and Climb checks, and on Reflex saves to avoid falling.
+
+**Dump Salvager (Decaying city native)**: You grew up in or around a decaying city’s rubbish-strewn shores and spent your spare time digging through trash looking for things worth selling. You gain a +3 trait bonus on Perception checks to search for concealed items.
+
+**Fiend-Haunted Woods Hunter (Fiend-haunted woods native)**: Your family prepared you for a life of evading or destroying fiendish creatures. You gain a +2 trait bonus on Survival checks to track evil outsiders and a +2 trait bonus on initiative checks when you know your opponent is an evil outsider.
+
+**Infernal Architecture Apprentice (Infernal empire native)**: You studied under one of the masters of the infernal empire’s grand style of architecture. You gain a +3 trait bonus on Knowledge (engineering) checks and a +2 trait bonus on Perception checks to find secret doors or traps in buildings built in that style.
+
+**Wharf Rat (Port city native)**: You may never have been on a boat larger than a garbage scow, but you’ve been helping them dock all your life. You gain a +2 trait bonus on skill checks involving climbing and rope use, and a +4 trait bonus on Appraise checks to determine the value of large quantities of bulk goods without opening their containers.
+
