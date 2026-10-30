@@ -7419,3 +7419,55 @@ This golden circlet is set with rubies and is small enough to fit under the stan
 This small, blue figurine is fashioned in the likeness of a scarab beetle, the sacred animal of an ancient god of freedom, the rising sun, and work. Once per day, the bearer of the scarab can speak with vermin as if using *speak with animals*, though the information obtained is very limited. If the bearer has the wild empathy class feature, she may use it to influence vermin as easily as she influences animals. Once per day, the bearer can cast *summon swarm* to summon a swarm of scarab beetles (treat as a spider swarm, but instead of poison, the swarm causes filth fever).
 
 **Construction Requirements:** Craft Wondrous Item, Vermin Heart, *speak with animals*, *summon swarm*; **Cost** 3,900 gp
+
+## Free Republic Items
+
+### Feather Token (Floating Feather)
+
+**Slot** none; **CL** 12th; **Price** 450 gp; **Weight** —
+
+**Aura** strong conjuration
+
+This feather token works like the other feather tokens and can be used once. It can be attached to any creature up to 200 pounds, causing a pair of large wings to grow from the target and allowing her to fly (speed 30, average maneuverability) for 1 minute. The token can be attached to an object of up to 200 pounds, which flies straight in a direction indicated by the creature who activates the feather unless the activator uses a move action to redirect its movement. The wings persist for 1 minute.
+
+**Construction Requirements:** Craft Wondrous Item, *major creation*; **Cost** 225 gp
+
+### Feather Token (Lance)
+
+**Slot** none; **CL** 12th; **Price** 150 gp; **Weight** —
+
+**Aura** strong conjuration
+
+This feather token works like the other feather tokens and can be used once. It turns into a white-plumed *+1 lance* for 1 minute. This token is often used when carrying a large weapon is illegal or impractical.
+
+**Construction Requirements:** Craft Wondrous Item, *major creation*; **Cost** 75 gp
+
+### Feather Token (Sky Hook)
+
+**Slot** none; **CL** 12th; **Price** 200 gp; **Weight** —
+
+**Aura** strong conjuration
+
+This feather token works like the other feather tokens and can be used once. It transforms into a huge disembodied eagle’s talon (hardness 5, hp 25) anchored wherever you activate it. The talon can support up to 1,000 pounds and persists for 1 day. The talon can be moved up to 10 feet with a DC 20 Strength check.
+
+**Construction Requirements:** Craft Wondrous Item, *major creation*; **Cost** 100 gp
+
+### Feather Token (Tar and Feathers)
+
+**Slot** none; **CL** 12th; **Price** 600 gp; **Weight** —
+
+**Aura** strong conjuration
+
+This feather token works like the other feather tokens and can be used once. It can be directed to float to any point within 60 feet and then burst into a mass of sticky white feathers that adheres to all creatures in a 10-foot radius. The clinging feathers affect creatures in the area as a *glitterdust* spell.
+
+**Construction Requirements:** Craft Wondrous Item, *major creation*; **Cost** 300 gp
+
+### Figurine of Wondrous Power (Serpentine Eagle)
+
+**Slot** none; **CL** 11th; **Price** 9,100 gp; **Weight** 1 lb.
+
+**Aura** moderate transmutation
+
+This variant of the *serpentine owl* can be transformed into an eagle or giant eagle but is otherwise identical to the owl figurine. *Serpentine eagles* are popular among knightly orders for scouting and emergency transportation.
+
+**Construction Requirements:** Craft Wondrous Item, *animate objects*; **Cost** 4,550 gp

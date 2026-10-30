@@ -325,3 +325,5 @@ The following text is the property of Wizards of the Coast, Inc. and is Copyrigh
     Pathfinder Companion: Sargava, the Lost Colony. Copyright 2010, Paizo Publishing, LLC; Authors: JD Wiker and Sean K Reynolds.
 
     Pathfinder Companion: Osirion, Land of Pharaohs. Copyright 2008, Paizo Publishing, LLC; Authors: Jason Nelson and Todd Stewart.
+
+    Pathfinder Companion: Andoran, Spirit of Liberty. Copyright 2010, Paizo Publishing, LLC; Authors: Jonathan Keith, Hal Maclean, Colin McComb, Jason Nelson, and Hank Woon.

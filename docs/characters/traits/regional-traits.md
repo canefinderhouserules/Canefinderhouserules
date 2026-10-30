@@ -891,3 +891,24 @@ These traits tie characters to a frontier campaign of ancient monuments, rival c
 **Citizen of the Old Port (Colonial port native)**: You live and work in the colony’s old port city. You gain a +1 trait bonus on all Knowledge (local) and Knowledge (history) checks regarding the port.
 
 **Plainsman (Colonial plains native)**: You live and work on the colony’s grassy plains. You gain a +1 trait bonus on all Knowledge (geography) and Survival checks regarding those plains.
+
+## Regional Traits of the Free Republic
+
+**Axe Master (Logging town native)**: No one knows how to swing an axe better than a logger from your hometown! You gain a +2 trait bonus on all rolls made to confirm critical hits with axes (battle axe, hand axe, or greataxe).
+
+**Factory Desperation (Factory town native)**: Your instinct to survive easily overpowers your intellect, and you consider this a more than fair trade. Once per day you can improve your condition from dying to disabled by taking 4 points of Intelligence damage.
+
+**Factory Timing (Factory town native)**: After years of soul-numbing obedience to the schedules of others, you find synchronizing your actions with an ally second nature. Once per day when you take a readied action in combat, you gain a +3 trait bonus on the d20 roll for that action if it was triggered by an ally’s action.
+
+**Factory Vandal (Factory town native)**: You find it quite easy to apply your carefully honed instincts for building and repairing to destruction instead. You gain a +2 trait bonus on damage rolls made against targets with hardness. This bonus does not apply to attacks that ignore hardness.
+
+**Festival Lobber (Festival town native)**: Your regular participation in your town’s melon-throwing festival has made you wickedly effective at hurling harmless objects. You gain a +2 trait bonus on attack rolls when throwing items that do not deal normal hit point damage (such as weapons that deal nonlethal damage or items such as tanglefoot bags and thunderstones).
+
+**Honey Harvester (Logging town native)**: Your frequent exposure to bees—and their stings—makes all such creatures seem more like nuisances than actual threats. You gain DR 3/— against damage dealt by swarms and a +1 trait bonus on saving throws against distraction and poison from swarms.
+
+**Kobold’s Neighbor (Free republic native)**: You grew up in wilderness where kobolds make their homes. You learned early on how to find traps before they find you, how to disable them, and when you should just walk away. You gain a +2 trait bonus on Perception checks to discover traps and a +1 trait bonus on Disable Device checks.
+
+**Rooftop Runner (Festival town native)**: Your childhood playing atop your town’s buildings has given you a remarkable head for heights. You gain a +2 trait bonus on Acrobatics checks made when you are at least 20 feet above the ground.
+
+**Stone-Game Player (Free republic native)**: You’ve grown up playing a confusing game of thrown stones and throw them with accuracy and ease. You gain a +1 trait bonus on attack rolls with fist-sized rocks or similarly shaped objects, and a +1 trait bonus on concentration checks.
+

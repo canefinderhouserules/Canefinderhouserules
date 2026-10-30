@@ -1565,6 +1565,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Authoritative Spell](authoritative-spell.md) | Metamagic | — |
 | [Aversion Tolerance](aversion-tolerance.md) | — | Vampire |
 | [Avid Spellbook Reader](avid-spellbook-reader.md) | — | Ability to prepare arcane spells |
+| [Avoral’s Lifting](avorals-lifting.md) | Achievement | Take at least 10d6 falling damage on three different occasions and survive |
 | [Awakened Hag Heritage](awakened-hag-heritage.md) | — | Iron Will or Mother's Gift, changeling |
 | [Awe-Inspiring Smash](awe-inspiring-smash.md) | Combat, Performance | Str 15, Power Attack, base attack bonus +3 |
 | [Awesome Charge](awesome-charge.md) | Combat | Str 25, Awesome Blow, Improved Bull Rush, Power Attack |
@@ -1686,6 +1687,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Cerberus Snare](cerberus-snare.md) | Combat | Cerberus Style, base attack bonus +9 or monk level 9th |
 | [Cerberus Style](cerberus-style.md) | Combat, Style | Cleave, Improved Unarmed Strike, base attack bonus +6 or monk level 6th |
 | [Chain Challenge](chain-challenge.md) | — | Challenge class feature, character level 7th |
+| [Chainbreaker](chainbreaker.md) | Achievement | Over the course of at least five different occasions, free a cumulative total of 50+ sentient beings held in unjust captivity |
 | [Chairbreaker](chairbreaker.md) | Combat | Catch Off-Guard, base attack bonus +1 |
 | [Chakra Mandala](chakra-mandala.md) | — | Ki pool class feature |
 | [Chance Death](chance-death.md) | Origin | Duskwalker |
@@ -1865,6 +1867,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Destructive Persuasion](destructive-persuasion.md) | Combat | Str 13, Power Attack, Intimidate 1 rank |
 | [Devastating Assault](devastating-assault.md) | Weapon Mastery | Base attack bonus +9, weapon training class feature with a melee weapon |
 | [Devil Sense](devil-sense.md) | — | Wis 13, ability to cast detect evil |
+| [Devil’s Foe](devils-foe.md) | Achievement | Face 10 different devils in combat and take damage or suffer some other sort of injury from five or more attacks made by each one without falling unconscious, fleeing, or otherwise becoming unable to strike back at them |
 | [Devilish Pride](devilish-pride.md) | — | Iron Will, worshiper of a deity of tyranny and contracts |
 | [Diabolic Humiliation](diabolic-humiliation.md) | Combat | Combat Reflexes, [Diabolic Style](diabolic-style.md), Vital Strike, Improved Unarmed Strike or Weapon Focus (unarmed strike), base attack bonus +8 or monk level 7th |
 | [Diabolic Judgment](diabolic-judgment.md) | Combat | Combat Reflexes, [Diabolic Humiliation](diabolic-humiliation.md), [Diabolic Style](diabolic-style.md), Improved Vital Strike, Vital Strike, Improved Unarmed Strike or Weapon Focus (unarmed strike), base attack bonus +12 or monk level 11th |
@@ -2118,6 +2121,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Fox Shape](fox-shape.md) | — | Cha 13, base attack bonus +3, kitsune |
 | [Fox Style](fox-style.md) | Combat, Style | Int 13 |
 | [Fox Trickery](fox-trickery.md) | Combat | Int 13, Combat Expertise, Fox Insight, Fox Style, Improved Dirty Trick |
+| [Free Knight Candidate](free-knight-candidate.md) | Achievement | Character level 5th, convince four different free knights and either a member of the republic’s ruling council or a town mayor to write letters of commendation on your behalf |
 | [Freeze in Place](freeze-in-place.md) | Combat | Stealth 5 ranks, wyrwood |
 | [Friend to Animals](friend-to-animals.md) | — | Nature Soul, Handle Animal 3 ranks |
 | [Friendly Face](friendly-face.md) | — | Animal companion |
