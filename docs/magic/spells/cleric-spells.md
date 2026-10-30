@@ -595,6 +595,7 @@
 - **[Ban Corruption](ban-corruption.md)**: Eliminate the gifts of nearby corrupted creatures.
 - **[Blood Tentacles](blood-tentacles.md)**: Blood tentacles attack and heal you.
 - **[Blood Ties](blood-ties.md)**: When a target is harmed, so is the target’s relative.
+- **[Boneshatter](boneshatter.md)**: Splinters a creature’s bones for 1d6/level damage and exhaustion.
 - **[Break Enchantment](break-enchantment.md)**: Frees subjects from enchantments, transmutations, and curses.
 - **[Breath of Life](breath-of-life.md)**: Cures 5d8 damage + 1/level and restores life to recently slain creatures.
 - **[Burst of Glory](burst-of-glory.md)**: Allies gain attack and fear-save bonuses and temporary hit points.
@@ -846,6 +847,7 @@
 - **[Symbol of Debauchery](symbol-of-debauchery.md)**: Symbol that fills creatures with lust.
 - **[Symbol of Dispelling](symbol-of-dispelling.md)**: Symbol that dispels magic in an area.
 - **[Symbol of Insanity](symbol-of-insanity.md)**: Triggered rune renders nearby creatures insane.
+- **[Tomb Legion](tomb-legion.md)**: As shambler, but calls 1d4+2 advanced mummies.
 - **[True Prognostication](true-prognostication.md)**: Gain incredibly cryptic information from the distant future.
 - **[Umbral Infusion, Mass](umbral-infusion-mass.md)**: umbral infusion on multiple mindless undead
 - **[Unholy Aura](unholy-aura.md)**: +4 to AC, +4 resistance, and SR 25 against good spells.
@@ -855,6 +857,7 @@
 
 - **[Absorb Rune III](absorb-rune-iii.md)**: Absorb a rune of 8th level or lower.
 - **[Astral Projection](astral-projection.md)**: Projects you and others onto Astral Plane.
+- **[Canopic Conversion](canopic-conversion.md)**: Eviscerates a humanoid; if it dies, it rises as a mummy bound to canopic jars.
 - **[Energy Drain](energy-drain.md)**: Subject gains 2d4 negative levels.
 - **[Etherealness](etherealness.md)**: Travel to Ethereal Plane with companions.
 - **[False Resurrection, Greater](false-resurrection-greater.md)**: Appear to use *true resurrection* on someone but instead allow a belier devil to possess the corpse.

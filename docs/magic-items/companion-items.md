@@ -7362,3 +7362,60 @@ These soft leather boots grant the wearer the ability to move through normal und
 
 **Construction Requirements:** Craft Wondrous Item, *longstrider*, woodland stride ability; **Cost** 3,000 gp
 
+## Desert Kingdom Items
+
+### Rod of the River Serpent
+
+**Slot** none; **CL** 10th; **Price** 20,000 gp; **Weight** 10 lbs.
+
+**Aura** moderate illusion and transmutation
+
+This heavy rod is carved to look like the fanged head of the primordial river serpent of an ancient pantheon, the deceiver, devourer, and destroyer of the sun, light, and life. You can use the rod as a *+1 heavy mace*. If you are chaotic, you can activate the other abilities of the rod.
+
+You gain darkvision at a range of 30 feet when you hold the rod. Once per day, you can use the rod to create an eerie pattern of shadows that acts as a *hypnotic pattern* (Will DC 13 negates); this pattern also acts as a *dispel magic* to any spells with the light descriptor within its area of effect.
+
+When you confirm a critical hit with the rod, it automatically attempts a grapple (+5 bonus) against the target as a free action that does not provoke attacks of opportunity. If the grapple check succeeds, the snake head on the rod unhinges its jaw to swallow the target whole into a flesh-walled extradimensional space. The swallowed target suffers 1d8 points of bludgeoning damage per round on its turn and is considered grappled. It can escape with a DC 20 Escape Artist check or by damaging the fleshy walls of the extradimensional prison (AC 12, 24 hit points); either means of escape causes the rod’s mouth to expand and disgorge the trapped creature into a random adjacent square (as does the death of a swallowed creature). The prison can hold 1 Medium, 2 Small, 8 Tiny, or 32 Diminutive or smaller opponents.
+
+**Construction Requirements:** Craft Magic Arms and Armor, Craft Rod, *darkvision*, *dispel magic*, *hypnotic pattern*, *secret chest*; **Cost** 10,000 gp
+
+### Rod of the Uraeus
+
+**Slot** none; **CL** 8th; **Price** 14,400 gp; **Weight** 4 lbs.
+
+**Aura** moderate necromancy
+
+This rod is fashioned in the form of a uraeus, the legendary two-headed winged cobra that is the symbol of an ancient goddess of good serpents, sphinxes, and wisdom. Her priesthood is credited with creating the first *rods of the uraeus*, but others have since replicated the feat.
+
+A *rod of the uraeus* can be wielded as a *+1 light mace*. When holding the rod, the wielder gains a +2 resistance bonus on Reflex saves and a +5 competence bonus on Sense Motive checks. The wielder can fire a 30-foot line of stinging poison from the rod up to twice per day (once for each head of the uraeus). A creature in the area of effect can avoid the poison with a successful DC 13 Reflex save. On a failed save, a creature is blinded and paralyzed for 8 rounds. Each round on its turn, an affected creature may attempt a DC 13 Fortitude save to end the blindness and paralysis effects. A *rod of the uraeus* functions only if its possessor is lawful.
+
+**Construction Requirements:** Craft Magic Arms and Armor, Craft Rod, *poison*, *resistance*, creator must have 5 ranks in Sense Motive; **Cost** 7,200 gp
+
+### Crook of the Ancient Serpent
+
+**Slot** none; **CL** 13th; **Price** 70,000 gp; **Weight** 5 lbs.
+
+**Aura** strong divination, evocation, and necromancy
+
+This curved and striped staff of office has all the powers of a *rod of withering* and a *rod of enemy detection*. It can also store one offensive spell as if it were a weapon with the spell storing property.
+
+**Construction Requirements:** Craft Magic Arms and Armor, *contagion*, *true seeing*, creator must be at least 12th level; **Cost** 35,000 gp
+
+### Ruby Circlet
+
+**Slot** head; **CL** 11th; **Price** 94,000 gp; **Weight** 5 lbs.
+
+**Aura** moderate conjuration and transmutation
+
+This golden circlet is set with rubies and is small enough to fit under the standard head regalia of a reigning pharaoh. It functions as a *+6 periapt of Wisdom* and a *circlet of persuasion*. If you are the rightful ruler of the desert kingdom, you can use the *ruby circlet* to telepathically communicate with a genie agent of the elemental lords of the desert; this ability functions as long as you and she are on the same plane.
+
+**Construction Requirements:** Craft Wondrous Item, *eagle’s splendor*, *owl’s wisdom*, *planar ally*, *telepathic bond*; **Cost** 47,000 gp
+
+### Scarab of the Dawn God
+
+**Slot** none; **CL** 5th; **Price** 7,800 gp; **Weight** —
+
+**Aura** faint conjuration
+
+This small, blue figurine is fashioned in the likeness of a scarab beetle, the sacred animal of an ancient god of freedom, the rising sun, and work. Once per day, the bearer of the scarab can speak with vermin as if using *speak with animals*, though the information obtained is very limited. If the bearer has the wild empathy class feature, she may use it to influence vermin as easily as she influences animals. Once per day, the bearer can cast *summon swarm* to summon a swarm of scarab beetles (treat as a spider swarm, but instead of poison, the swarm causes filth fever).
+
+**Construction Requirements:** Craft Wondrous Item, Vermin Heart, *speak with animals*, *summon swarm*; **Cost** 3,900 gp

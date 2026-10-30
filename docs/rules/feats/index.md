@@ -1513,6 +1513,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Ancestral Weapon Mastery](ancestral-weapon-mastery.md) | Combat | Base attack bonus +1, weapon familiarity racial trait |
 | [Ancient Draconic](ancient-draconic.md) | General | Arcane caster level 5th, speaks Draconic |
 | [Ancient Kingdom Scholar](ancient-kingdom-scholar.md) | General | Knowledge (history) 1 rank, Knowledge (local) 1 rank, must speak the regional language and its ancient ancestor language |
+| [Ancient Kingdom Scholar](ancient-kingdom-scholar.md) | — | Knowledge (history) 4 ranks, Knowledge (local) 4 ranks, speaks the kingdom’s modern and ancient languages |
 | [Ancient Tradition](ancient-tradition.md) | — | Knowledge (history) 3 ranks, must have a connection to a lost culture (see text) |
 | [Angelbane Strike](angelbane-strike.md) | — | Channel Smite, divine caster level 5th, channel negative energy class feature, evil patron deity |
 | [Animal Ally](animal-ally.md) | — | Nature Soul, character level 4th, must not have an animal companion or mount that advances as an animal companion |
@@ -1737,6 +1738,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Commander of Goblinkind](commander-of-goblinkind.md) | — | Cha 13, hobgoblin |
 | [Compulsion Mastery](compulsion-mastery.md) | Item Mastery | Use Magic Device 3 ranks, base Fortitude save bonus +6 |
 | [Conceal Aura](conceal-aura.md) | — | Chaotic, evil, good, or lawful alignment |
+| [Conceal Scent](conceal-scent.md) | — | Stealth 3 ranks, Survival 3 ranks |
 | [Conceal Spell](conceal-spell.md) | — | Deceitful, Bluff 1 rank, Disguise 1 rank, Sleight of Hand 1 rank |
 | [Concealment Mastery](concealment-mastery.md) | Item Mastery | Stealth 3 ranks, Use Magic Device 3 ranks, base Fortitude saving throw bonus +3 |
 | [Concentrated Fire](concentrated-fire.md) | Combat, Teamwork | Point-Blank Shot, elf, weapon familiarity racial trait |
@@ -2203,6 +2205,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Healing Potion](healing-potion.md) | Versatile Brewing | Brew Potion, ability to cast *cure serious wounds* |
 | [Heaven's Light](heavens-light.md) | Conduit | Knowledge (planes) 1 rank |
 | [Hefty Brute](hefty-brute.md) | — | Animal companion or familiar |
+| [Heightened Trap Sense](heightened-trap-sense.md) | — | Perception 6 ranks, trap sense +1 |
 | [Hellcat Pounce](hellcat-pounce.md) | Combat | Hellcat Stealth, Skill Focus (Stealth), sneak attack +2d6 |
 | [Hellcat Stealth](hellcat-stealth.md) | — | Skill Focus (Stealth), Stealth 6 ranks |
 | [Hellish Shackles](hellish-shackles.md) | — | Channel energy 5d6, worshiper of an archdevil or infernal noble |
@@ -2372,6 +2375,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Living Fortress](living-fortress.md) | Teamwork | Dwarf, hardy racial trait |
 | [Lob Shot](lob-shot.md) | Combat | Far Shot, Point-Blank Shot |
 | [Lonely Death](lonely-death.md) | Origin | Duskwalker |
+| [Lost in the Crowd](lost-in-the-crowd.md) | — | — |
 | [Lovable Scoundrel](lovable-scoundrel.md) | — | Bluff 1 rank, Diplomacy 1 rank, tengu |
 | [Loyal to the Death](loyal-to-the-death.md) | Teamwork | Human |
 | [Lucky](lucky.md) | — | [Black Cat](black-cat.md) or [Lucky Halfling](lucky-halfling.md); must have a racial trait with “luck” in its name |
@@ -2651,6 +2655,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Relentless Cheer](relentless-cheer.md) | Teamwork | Halfling, fearless and halfling luck racial traits |
 | [Relentless Shot](relentless-shot.md) | Combat | Point-Blank Shot, base attack bonus +6 |
 | [Relic Familiarity](relic-familiarity.md) | — | Wyvaran |
+| [Religious Pilgrim](religious-pilgrim.md) | — | Knowledge (geography) 2 ranks, Knowledge (religion) 4 ranks |
 | [Rending Summons](rending-summons.md) | — | [Sacred Summons](sacred-summons.md) |
 | [Rending Swarm](rending-swarm.md) | Combat, Teamwork | Dex 15, [Rat Stack](rat-stack.md), swarming racial trait |
 | [Repast of Heroes](repast-of-heroes.md) | — | Con 15, character level 8th, ghoran, natural magic racial trait |
@@ -2731,6 +2736,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Sense Metals and Minerals](sense-metals-and-minerals.md) | — | — |
 | [Sense Relationships](sense-relationships.md) | — | Street Smarts |
 | [Sensory Control](sensory-control.md) | Meditation | Wis 15, Blind-Fight, [Meditation Master](meditation-master.md) |
+| [Serpent Lash](serpent-lash.md) | Combat | Weapon Finesse, proficient in whip |
 | [Serpentine Compression](serpentine-compression.md) | — | Serpentfolk |
 | [Shadow Dodge](shadow-dodge.md) | — | Dex 13, worshiper of a deity of secrets |
 | [Shadow Gambit](shadow-gambit.md) | — | Spell Focus (illusion), caster level 5th |
@@ -2948,6 +2954,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Surprising Combatant](surprising-combatant.md) | Combat | Improved Initiative, Bluff 3 ranks |
 | [Surprising Strategy](surprising-strategy.md) | Combat | Riposte class feature |
 | [Swap Trick](swap-trick.md) | Trick | Mesmerist tricks class feature |
+| [Swarm Dodger](swarm-dodger.md) | — | Dex 15, evasion |
 | [Swarm Scatter](swarm-scatter.md) | Teamwork | — |
 | [Swarm Strike](swarm-strike.md) | Teamwork | — |
 | [Swarming Underfoot](swarming-underfoot.md) | Combat | Dodge, swarming racial trait |

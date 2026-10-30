@@ -1,9 +1,7 @@
 # Ancient Kingdom Scholar
 
-*(General)*
+You are well schooled in the traditions, culture, and history of an ancient desert kingdom, especially the broad expanse of its long history and ancient relics.
 
-You have a broad interest in an ancient realm and are something of an authority in one specialized field.
+**Prerequisites**: Knowledge (history) 4 ranks, Knowledge (local) 4 ranks, speaks the kingdom’s modern and ancient languages.
 
-**Prerequisites**: Knowledge (history) 1 rank, Knowledge (local) 1 rank, must speak the regional language and its ancient ancestor language.
-
-**Benefit**: Pick one Intelligence-based skill and one ancient kingdom or its people. You gain a +3 bonus on all checks made with that skill in relation to the chosen kingdom or its people. In addition, you gain a +1 bonus on all other Intelligence-based skill checks made in relation to the chosen kingdom or its people.
+**Benefit**: When in the desert kingdom, you gain a +1 circumstance bonus on Bluff, Diplomacy, Disguise, Intimidate, and Perform checks. You gain a +5 bonus when using Appraise, Linguistics, Knowledge (all skills), and Perception to learn about a person, place, or item of the ancient kingdom.

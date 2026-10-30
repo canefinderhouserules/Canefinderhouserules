@@ -702,6 +702,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Share Skin](share-skin.md)**: Possess an animal as with magic jar.
 - **[Soul-Rending Claws](soul-rending-claws.md)**: Claws grant negative levels
 - **[Source Severance](source-severance.md)**: Suppress either arcane or divine magic around you.
+- **[Spectral Saluqi](spectral-saluqi.md)**: Summons a spectral undead hound that fights for you.
 - **[Summon Flight of Eagles](summon-flight-of-eagles.md)**: Summon giant eagles to fight or serve as mounts.
 - **[Summon Genie, Greater](summon-genie-greater.md)**: Summons a shaitan, djinn or janni.
 - **[Summon Laborers](summon-laborers.md)**: Summon petitioners to help downtime work

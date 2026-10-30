@@ -810,6 +810,7 @@
 - **[Bite the Hand](bite-the-hand.md)**: Summoned creature attacks its summoner.
 - **[Blast of Wind](blast-of-wind.md)**: Gust of wind that treats creatures as one size smaller.
 - **[Bloody Arrows](bloody-arrows.md)**: Ranged hits cause stacking bleed.
+- **[Boneshatter](boneshatter.md)**: Splinters a creature’s bones for 1d6/level damage and exhaustion.
 - **[Brightest Light](brightest-light.md)**: Longer-lasting daylight that can dispel darkness.
 - **[Calamitous Flailing](calamitous-flailing.md)**: Curse: the target's missed attacks strike its allies.
 - **[Caustic Safeguard](caustic-safeguard.md)**: Acid ward on an object.
@@ -1301,6 +1302,7 @@
 - **[Shadow Memory](shadow-memory.md)**: Learn a target’s secrets to aid an assassination.
 - **[Shadow Transmutation](shadow-transmutation.md)**: mimics a polymorph or size-changing spell with shadow-stuff
 - **[Soul-Rending Claws](soul-rending-claws.md)**: Claws grant negative levels
+- **[Spectral Saluqi](spectral-saluqi.md)**: Summons a spectral undead hound that fights for you.
 - **[Spellfire Jinx](spellfire-jinx.md)**: Cursed caster burns and may lose spells.
 - **[Summon Flight of Eagles](summon-flight-of-eagles.md)**: Summon giant eagles to fight or serve as mounts.
 - **[Summon Genie, Greater](summon-genie-greater.md)**: Summons a shaitan, djinn or janni.
@@ -1542,6 +1544,7 @@
 - **[Symbol of Debauchery](symbol-of-debauchery.md)**: Symbol that fills creatures with lust.
 - **[Symbol of Dispelling](symbol-of-dispelling.md)**: Symbol that dispels magic in an area.
 - **[Temporal Regression](temporal-regression.md)**: Return to a marked place and condition.
+- **[Tomb Legion](tomb-legion.md)**: As shambler, but calls 1d4+2 advanced mummies.
 - **[Trap the Soul](trap-the-soul.md)**: Imprisons subject within gem.
 
 **Divination**
@@ -1599,6 +1602,7 @@
 
 - **[Absorb Rune III](absorb-rune-iii.md)**: Absorb a rune of 8th level or lower.
 - **[Bilocation](bilocation.md)**: Exist in two places at once.
+- **[Canopic Conversion](canopic-conversion.md)**: Eviscerates a humanoid; if it dies, it rises as a mummy bound to canopic jars.
 - **[Curse of Fell Seasons](curse-of-fell-seasons.md)**: Curse an area’s weather.
 - **[Fey Form IV](fey-form-iv.md)**: Assume the form of a powerful fey creature.
 - **[Freedom](freedom.md)**: Releases creature from *imprisonment.*
