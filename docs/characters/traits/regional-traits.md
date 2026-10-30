@@ -912,3 +912,17 @@ These traits tie characters to a frontier campaign of ancient monuments, rival c
 
 **Stone-Game Player (Free republic native)**: You’ve grown up playing a confusing game of thrown stones and throw them with accuracy and ease. You gain a +1 trait bonus on attack rolls with fist-sized rocks or similarly shaped objects, and a +1 trait bonus on concentration checks.
 
+## More Regional Traits of the Desert Satrapy
+
+**Elemental Pupil (Desert satrapy native)**: You have studied at the feet of the masters of the satrapy’s colleges of magic, and so increased your own mastery of the elements. Choose one of the following energy types: acid, cold, electricity, or fire. When casting a spell of 1st level or higher that deals damage of your chosen energy type, the spell deals 1 extra point of damage of this type.
+
+**Keeper of the Veil (Desert satrapy native)**: Even when not cloaked in magic, your training has taught you how to conceal your true nature. You gain a +1 competence bonus on Bluff and Disguise checks, and one of these skills (your choice) is always a class skill for you.
+
+**Bazaar Merchant (Desert satrapy native)**: You grew up among the market stalls of the greatest trading post in all the world, and can almost smell the value of an item before you touch it. You gain a +1 trait bonus on Appraise checks, and Appraise is always a class skill for you.
+
+**College Medic (Desert satrapy native)**: You have studied at a college of medicaments and chirurgery, and know by sight the signs of ailments and toxins you might encounter. You gain a +2 trait bonus on Heal checks to treat diseases or poisons, and Heal is always a class skill for you.
+
+**Walking Ward (Desert satrapy native)**: Your training included constant exposure to elemental forces. Choose one of the following energy types: acid, cold, electricity, or fire; you gain a +1 bonus on saving throws against spells that deal damage of this type or have this subtype.
+
+**Watching the Old Empire (Desert satrapy native)**: You have spent your adult life waiting for a hated neighboring empire to give you an excuse to fight. You gain a +1 trait bonus on initiative checks, and if you are able to act during the surprise round of an encounter, you can draw a weapon (but not a potion or magic item) as a free action during that round. You must have had family members, neighbors, or friends affected by that empire’s aggression, or have fallen victim to it yourself, to take this trait.
+

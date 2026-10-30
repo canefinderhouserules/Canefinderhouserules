@@ -81,3 +81,5 @@ Religion traits are tied to a specific deity. You need not be a divine spellcast
 **Faithful of the Dead God** *(a god who has died)*: You worship a dead god, and are skilled at making that sound reasonable. You gain a +1 trait bonus on Diplomacy checks; this bonus increases to +3 if you are dealing with a follower of the dead god or of the goddess who inherited his mantle.
 
 **Spirit Talker** *(jungle shamanistic faith)*: You are a devotee of the shamanistic practices of the jungle tribes, having little use for the deities of the colonials. You gain a +1 racial bonus on Will saves against divine spells and spell-like effects employed against you by clerics or paladins of the colonials’ deities—but you suffer a –1 penalty on Will saves against divine spells cast by devotees of jungle faiths.
+
+**Flame of the Dawn** *(deity of the sun and redemption)*: You have been raised to view yourself as a blade in your goddess’s service, or you have taken on that duty for yourself. Whenever you score a critical hit with a scimitar, you deal 2 additional points of fire damage to your target.

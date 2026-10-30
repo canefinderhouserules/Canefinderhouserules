@@ -52,6 +52,8 @@ The prestige classes presented in this chapter are summarized below.
 
 **[Cyphermage](cyphermage.md)**: An arcane scholar of runes and written magic who masters scrolls, glyphs, and ancient lore.
 
+**[Daivrat](daivrat.md)**: An arcane caster who befriends genies, fetching unusual spells and mastering one element.
+
 **[Darechaser](darechaser.md)**: An athletic daredevil who pushes past mortal limits with adrenaline and self-set dares.
 
 **[Darkfire Adept](darkfire-adept.md)**: An evil summoner who unmakes reality with darkfire.

@@ -1862,6 +1862,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Demonic Nemesis](demonic-nemesis.md) | Combat | Knowledge (planes) 6 ranks |
 | [Demonic Slaughter](demonic-slaughter.md) | Combat | Cleave, [Demonic Momentum](demonic-momentum.md), [Demonic Style](demonic-style.md), Great Cleave, Improved Bull Rush, Power Attack, base attack bonus +9 |
 | [Demonic Style](demonic-style.md) | Combat, Style | Power Attack, base attack bonus +1 |
+| [Dervish Dance](dervish-dance.md) | Combat | Dex 13, Weapon Finesse, Perform (dance) 2 ranks, proficient with scimitar |
 | [Designated Antagonist](designated-antagonist.md) | Teamwork | [Antagonize](antagonize.md) |
 | [Destroy Identity](destroy-identity.md) | Combat, Critical | Critical Focus, base attack bonus +11, worshiper of a deity of monsters and madness |
 | [Destructive Persuasion](destructive-persuasion.md) | Combat | Str 13, Power Attack, Intimidate 1 rank |

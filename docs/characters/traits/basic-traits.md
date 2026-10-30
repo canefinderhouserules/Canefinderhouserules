@@ -197,3 +197,9 @@ These traits suit characters from a jungle colony and its wild surroundings. Eac
 **Savanna Hunter (Combat)**: You have been trained to hunt and fight on the open plains since birth. You gain a +1 trait bonus on attacks of opportunity attack rolls made with a shortspear, as well as a +1 racial bonus on Constitution checks to continue running and avoid nonlethal damage from a forced march.
 
 **Two-World Magic (Magic)**: You have bridged the gap between the natural magic of the jungle peoples and the refined magic of the colonists. Select one 0-level spell from a class spell list other than your own. This spell is a 0-level spell on your class spell list (or a 1st-level spell if your class doesn’t have 0-level spells). For example, if you are a druid, you could select *mage hand* and thereafter prepare it as a 0-level druid spell; if you are a sorcerer, you could select *know direction* as a 0-level sorcerer spell known.
+
+## Desert Satrapy Traits
+
+**Desert Princess (Social)**: You have been raised to expect obedience from those around you, regardless of their station, and are not shy about demanding what you want. You gain a +1 trait bonus on Diplomacy and Intimidate checks, and one of these skills (your choice) is always a class skill for you. You must be a noblewoman of the desert satrapy to take this trait.
+
+**Strong Arm, Supple Wrist (Combat)**: You have been trained in the javelin and the spear, and you know how to make the best use of your momentum. When you move at least 10 feet before making an attack with a thrown weapon, you can add 10 feet to the range increment of the weapon thrown. You can gain this benefit only once per round.

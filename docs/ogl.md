@@ -327,3 +327,5 @@ The following text is the property of Wizards of the Coast, Inc. and is Copyrigh
     Pathfinder Companion: Osirion, Land of Pharaohs. Copyright 2008, Paizo Publishing, LLC; Authors: Jason Nelson and Todd Stewart.
 
     Pathfinder Companion: Andoran, Spirit of Liberty. Copyright 2010, Paizo Publishing, LLC; Authors: Jonathan Keith, Hal Maclean, Colin McComb, Jason Nelson, and Hank Woon.
+
+    Pathfinder Companion: Qadira, Gateway to the East. Copyright 2009, Paizo Publishing, LLC; Author: Brian Cortijo.
