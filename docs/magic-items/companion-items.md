@@ -6880,6 +6880,30 @@ This stone grants you a single use of the *augury* spell with a 100% success rat
 
 **Construction Requirements:** Craft Wondrous Item, *augury*, creator must be 12th level; **Cost** 500 gp
 
+### Agate Ellipsoid Ioun Stone (Flawed)
+
+**Slot** none; **CL** 12th; **Price** 800 gp; **Weight** —
+
+**Aura** strong divination
+
+This stone functions as a normal *agate ellipsoid ioun stone*, but you lose any abilities to reroll ability checks, skill checks, or saving throws for 24 hours after equipping it.
+
+**Resonance**: Increases the caster level of divination spells by 1.
+
+**Construction Requirements:** Craft Wondrous Item, *augury*, creator must be 12th level; **Cost** 400 gp
+
+### Agate Ellipsoid Ioun Stone (Cracked)
+
+**Slot** none; **CL** 12th; **Price** 500 gp; **Weight** —
+
+**Aura** strong divination
+
+This stone grants you a single use of augury with an 80% success rate. It otherwise functions as a normal *agate ellipsoid ioun stone*.
+
+**Resonance**: Increases the caster level of divination spells by 1.
+
+**Construction Requirements:** Craft Wondrous Item, *augury*, creator must be 12th level; **Cost** 250 gp
+
 ### Amethyst Pyramid Ioun Stone
 
 **Slot** none; **CL** 12th; **Price** 8,000 gp; **Weight** —
@@ -6891,6 +6915,30 @@ This stone grants you the ability to pass undetected before undead as if under t
 **Resonance**: +2 circumstance bonus on Stealth checks against undead.
 
 **Construction Requirements:** Craft Wondrous Item, *hide from undead*, creator must be 12th level; **Cost** 4,000 gp
+
+### Amethyst Pyramid Ioun Stone (Flawed)
+
+**Slot** none; **CL** 12th; **Price** 6,000 gp; **Weight** —
+
+**Aura** strong abjuration
+
+This stone functions as a normal *amethyst pyramid ioun stone*, but against undead you take a –1 penalty to AC and on saves.
+
+**Resonance**: +2 circumstance bonus on Stealth checks against undead.
+
+**Construction Requirements:** Craft Wondrous Item, *hide from undead*, creator must be 12th level; **Cost** 3,000 gp
+
+### Amethyst Pyramid Ioun Stone (Cracked)
+
+**Slot** none; **CL** 12th; **Price** 150 gp; **Weight** —
+
+**Aura** strong abjuration
+
+This stone grants a +2 competence bonus on Knowledge (religion) checks to identify undead and their special abilities.
+
+**Resonance**: +2 circumstance bonus on Stealth checks against undead.
+
+**Construction Requirements:** Craft Wondrous Item, *hide from undead*, creator must be 12th level; **Cost** 75 gp
 
 ### Gold Nodule Ioun Stone
 
@@ -6904,6 +6952,30 @@ This stone grants you the ability to comprehend, speak, read, and write a single
 
 **Construction Requirements:** Craft Wondrous Item, *tongues*, creator must be 12th level; **Cost** 2,500 gp
 
+### Gold Nodule Ioun Stone (Flawed)
+
+**Slot** none; **CL** 12th; **Price** 1,000 gp; **Weight** —
+
+**Aura** strong divination
+
+This stone grants you the ability to comprehend and read, but not speak or write, a single language (chosen by the *ioun stone’s* creator).
+
+**Resonance**: +1 bonus on saves against language-dependent effects.
+
+**Construction Requirements:** Craft Wondrous Item, *tongues*, creator must be 12th level; **Cost** 500 gp
+
+### Gold Nodule Ioun Stone (Cracked)
+
+**Slot** none; **CL** 12th; **Price** 150 gp; **Weight** —
+
+**Aura** strong divination
+
+This stone grants a +1 competence bonus on Linguistics checks.
+
+**Resonance**: +1 bonus on saves against language-dependent effects.
+
+**Construction Requirements:** Craft Wondrous Item, *tongues*, creator must be 12th level; **Cost** 75 gp
+
 ### Magenta Prism Ioun Stone
 
 **Slot** none; **CL** 12th; **Price** 16,000 gp; **Weight** —
@@ -6915,6 +6987,30 @@ This stone grants you a +2 enhancement bonus to any one ability score of your ch
 **Resonance**: +1 bonus on one saving throw not modified by the ability score the stone is currently attuned to (chosen at the same time as the ability score).
 
 **Construction Requirements:** Craft Wondrous Item, *bear’s endurance*, *bull’s strength*, *cat’s grace*, *eagle’s splendor*, *fox’s cunning*, *owl’s wisdom*, creator must be 12th level; **Cost** 8,000 gp
+
+### Magenta Prism Ioun Stone (Flawed)
+
+**Slot** none; **CL** 12th; **Price** 12,000 gp; **Weight** —
+
+**Aura** strong transmutation
+
+This stone functions as a normal *magenta prism ioun stone* that has 4 charges. Changing the ability score modified uses 1 charge, and the stone loses the ability to change when reduced to 0 charges, though it still grants a bonus to the ability score to which it was last changed.
+
+**Resonance**: +1 bonus on one saving throw not modified by the ability score the stone is currently attuned to (chosen at the same time as the ability score).
+
+**Construction Requirements:** Craft Wondrous Item, *bear’s endurance*, *bull’s strength*, *cat’s grace*, *eagle’s splendor*, *fox’s cunning*, *owl’s wisdom*, creator must be 12th level; **Cost** 6,000 gp
+
+### Magenta Prism Ioun Stone (Cracked)
+
+**Slot** none; **CL** 12th; **Price** 800 gp; **Weight** —
+
+**Aura** strong transmutation
+
+This stone grants you a +2 competence bonus on checks with any one skill you choose, and you can change the skill modified once per day, as a normal *magenta prism ioun stone*.
+
+**Resonance**: +1 bonus on one saving throw not modified by the ability score the stone is currently attuned to (chosen at the same time as the ability score).
+
+**Construction Requirements:** Craft Wondrous Item, *bear’s endurance*, *bull’s strength*, *cat’s grace*, *eagle’s splendor*, *fox’s cunning*, *owl’s wisdom*, creator must be 12th level; **Cost** 400 gp
 
 ### Pale Orange Rhomboid Ioun Stone
 
@@ -6928,6 +7024,30 @@ This stone absorbs your soul as the *magic jar* spell immediately prior to your 
 
 **Construction Requirements:** Craft Wondrous Item, *magic jar*, creator must be 12th level; **Cost** 100,000 gp
 
+### Pale Orange Rhomboid Ioun Stone (Flawed)
+
+**Slot** none; **CL** 12th; **Price** 12,000 gp; **Weight** —
+
+**Aura** strong necromancy
+
+This stone functions as a normal *pale orange rhomboid*, but only once, after which it burns out and turns dull gray.
+
+**Resonance**: A soul held within the stone can remain there indefinitely as long as the *wayfinder* remains on the soul’s original body. If the *wayfinder* is removed from the body, the *ioun stone’s* resonant power is suppressed until the *wayfinder* is replaced.
+
+**Construction Requirements:** Craft Wondrous Item, *magic jar*, creator must be 12th level; **Cost** 6,000 gp
+
+### Pale Orange Rhomboid Ioun Stone (Cracked)
+
+**Slot** none; **CL** 12th; **Price** 1,800 gp; **Weight** —
+
+**Aura** strong necromancy
+
+If you die while using this* ioun stone*, the stone can be used as an additional material component in any spell to return you to life, reducing the spell’s total material component cost by 20%.
+
+**Resonance**: A soul held within the stone can remain there indefinitely as long as the *wayfinder* remains on the soul’s original body. If the *wayfinder* is removed from the body, the *ioun stone’s* resonant power is suppressed until the *wayfinder* is replaced.
+
+**Construction Requirements:** Craft Wondrous Item, *magic jar*, creator must be 12th level; **Cost** 900 gp
+
 ### Silver Spindle Ioun Stone
 
 **Slot** none; **CL** 12th; **Price** 24,000 gp; **Weight** —
@@ -6939,6 +7059,30 @@ This stone grants you the ability to use a 1st-level spell from the cleric, drui
 **Resonance**: All spell-like abilities granted by race are treated as 1 caster level higher.
 
 **Construction Requirements:** Craft Wondrous Item, *imbue with spell ability*, creator must be 12th level; **Cost** 12,000 gp
+
+### Silver Spindle Ioun Stone (Flawed)
+
+**Slot** none; **CL** 12th; **Price** 16,000 gp; **Weight** —
+
+**Aura** strong evocation
+
+This stone functions as a normal *silver spindle ioun stone*, but it deals 1d3 Charisma damage to you each time you use the spell-like ability.
+
+**Resonance**: All spell-like abilities granted by race are treated as 1 caster level higher.
+
+**Construction Requirements:** Craft Wondrous Item, *imbue with spell ability*, creator must be 12th level; **Cost** 8,000 gp
+
+### Silver Spindle Ioun Stone (Cracked)
+
+**Slot** none; **CL** 12th; **Price** 12,000 gp; **Weight** —
+
+**Aura** strong evocation
+
+This stone functions as a normal *silver spindle ioun stone*, but instead grants a 0-level spell.
+
+**Resonance**: All spell-like abilities granted by race are treated as 1 caster level higher.
+
+**Construction Requirements:** Craft Wondrous Item, *imbue with spell ability*, creator must be 12th level; **Cost** 6,000 gp
 
 ### Tourmaline Sphere Ioun Stone
 
@@ -6952,3 +7096,26 @@ This stone grants you a benefit when you’re dying. When determining the number
 
 **Construction Requirements:** Craft Wondrous Item, *bear’s endurance*, creator must be 12th level; **Cost** 500 gp
 
+### Tourmaline Sphere Ioun Stone (Flawed)
+
+**Slot** none; **CL** 12th; **Price** 600 gp; **Weight** —
+
+**Aura** strong transmutation
+
+This stone functions as a normal *tourmaline sphere ioun stone*, but you take a –1 penalty on Constitution checks to stabilize when dying.
+
+**Resonance**: This stone grants a +1 bonus on Constitution checks to stabilize when dying.
+
+**Construction Requirements:** Craft Wondrous Item, *bear’s endurance*, creator must be 12th level; **Cost** 300 gp
+
+### Tourmaline Sphere Ioun Stone (Cracked)
+
+**Slot** none; **CL** 12th; **Price** 800 gp; **Weight** —
+
+**Aura** strong transmutation
+
+This stone grants a +1 insight bonus on saving throws against death effects.
+
+**Resonance**: This stone grants a +1 bonus on Constitution checks to stabilize when dying.
+
+**Construction Requirements:** Craft Wondrous Item, *bear’s endurance*, creator must be 12th level; **Cost** 400 gp
