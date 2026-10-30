@@ -1,7 +1,11 @@
 # Old Mage's Ire
 
 **School** transmutation [good]; **Level** druid 6, sorcerer/wizard 6  
-**Area** 120-ft.-radius spread
+**Casting Time** 1 standard action  
+**Components** V, S, M (octopus or squid tentacle)  
+**Area** 120-ft.-radius spread  
+**Duration** 1 round/level (D)  
+**Saving Throw** none; **Spell Resistance** no
 
 This spell causes tall grass, weeds, and other plants to swell into Gargantuan vines and tendrils that erupt from the ground, reaching for any structure or any creature of evil alignment, functioning like *black tentacles* except as noted. When you are determining the tendrils' CMB, the tendrils use your caster level as their base attack bonus and have a +13 bonus due to their Strength. Any tendril that succeeds in grappling a foe deals 4d6+13 points of damage to the grappled creature.
 
