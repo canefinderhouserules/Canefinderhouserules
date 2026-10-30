@@ -676,3 +676,27 @@ The blending of martial prowess with elven magic has long been a staple of acade
 *Wracking Dispel (Su)*: Whenever the hexbreaker successfully dispels a spell using *break enchantment*, *dispel magic*, or *remove curse*, he can expend 1 point from his arcane pool to wrack the original caster with pain, dealing 1d4 points of damage per spell level of the effect dispelled. If the target succeeds at a Will save (DC = 15 + the level of the spell dispelled + the hexbreaker's Intelligence modifier) it takes only 1 point of damage per spell level. The hexbreaker cannot target the same caster more than once per round with this ability, regardless of how many effects he dispels.
 
 **Magus Arcana**: The following magus arcana complement the hexbreaker: bane blade, dispelling strike, disruptive, lingering pain, spellbreaker, and reflection.
+
+## Kapenia Dancer
+
+For some wandering nomads, their traditional dances pulse with the power of their ancestors. These dancers incorporate their kapenias—scarves embroidered with the history of the bearer’s clan—into their dances, weaving deadly whirling steps with the power of their ancestors.
+
+**Weapon and Armor Proficiency**: A kapenia dancer is proficient in simple weapons and bladed scarves (see [Frontier Gear](../../equipment/gear-companions.md#frontier-gear)). Additionally, a kapenia dancer can wield a bladed scarf as a one-handed melee weapon. A kapenia dancer is not proficient with armor or shields and suffers the normal arcane spell failure chance when casting magus spells while armored.
+
+**Diminished Spellcasting**: A kapenia dancer can cast one fewer spell of each level than normal. If this reduces the number to 0, he can cast spells of that level only if his Intelligence allows bonus spells of that level.
+
+**Canny Defense (Ex)**: At 1st level, when a kapenia dancer is wielding a bladed scarf, he gains the canny defense ability. This is identical to the duelist prestige class ability of the same name, save that his magus level (rather than his duelist level) affects his Armor Class.
+
+**Weapon Focus (Ex)**: At 1st level, a kapenia dancer gains Weapon Focus (bladed scarf) as a bonus feat.
+
+**Kapenia Dancer Arcana**: A kapenia dancer gains access to the following magus arcana. He cannot select any arcana more than once.
+
+*Elasticity (Su)*: As a free action, the kapenia dancer can spend 1 point from his arcane pool in order to grant a bladed scarf he’s wielding reach until the end of his turn. A kapenia dancer can use this arcana in tandem with other magus arcana.
+
+*Kapenia Curse (Su)*: Choose an ability score upon taking this arcana. Whenever the kapenia dancer scores a critical hit with a bladed scarf, he may expend 1 point from his arcane pool to deal 1d4 points of damage to that ability score of the creature struck. This arcana can be selected multiple times, but a different ability score must be chosen each time. The kapenia dancer must be at least 9th level before selecting this arcana.
+
+*Spirit Fingers (Su)*: Whenever the kapenia dancer scores a hit with a melee weapon, he can spend 1 point from his arcane pool as a swift action to immediately attempt a steal combat maneuver.
+
+*Spirit Step (Su)*: Whenever the kapenia dancer scores a critical hit with a bladed scarf, he may expend 1 point from his arcane pool to teleport to any point within 30 feet. The kapenia dancer’s turn ends after being teleported. The kapenia dancer must be at least 12th level before selecting this arcana.
+
+**Magus Arcana**: The following magus arcana complement the kapenia dancer archetype: arcane cloak, dispelling strike, hastened assault, maneuver mastery, prescient attack, prescient defense.

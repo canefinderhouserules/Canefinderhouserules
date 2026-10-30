@@ -310,6 +310,14 @@ Only humans may select one of these traits.
 
 **Masterful Demeanor**: As a proud citizen of the infernal empire, you are confident that members of other, inferior races will obey you, and quickly. You gain a +3 trait bonus on Intimidate checks against members of non-human humanoid races.
 
+**Harrow Chosen**: All your life you’ve been drawn to the mysteries surrounding your family’s harrow deck. You begin play with your family’s heirloom harrow deck. If you use this specific harrow deck as an additional focus component when you cast a divination spell, your caster level is treated as being 2 levels higher. Additionally, twice per week, you can spend 10 minutes consulting this harrow deck on a particular action to gain the effects of the spell *augury* as a spellcaster of your character level. No one other than you gains these benefits from this harrow deck. If your harrow deck is destroyed, it cannot be replaced. However, by returning to your family, paying 300 gp on materials, and spending 1 week immersed in the songs and stories of your people, you can create a new harrow deck that grants half the benefits of the lost heirloom. You must be a human of the wandering nomads to take this trait.
+
+**Nomad Tattoo**: You bear the elaborate tattoos of your people, marking you as a free son or daughter of the road. You gain a +1 trait bonus on saving throws against charm and compulsion effects. Additionally, you are proficient with bladed scarves and starknives. You must be a human of the wandering nomads to take this trait.
+
+**Tribal Steed**: Your nomadic culture gives you a profound knowledge of and respect for the horses that roam your homelands. You begin play with a combat-trained light horse. While riding this horse bareback, you are treated as though you were riding it with a riding saddle (placing any actual saddle upon the horse negates this benefit). The horse can fend for itself outside of settlements in all but the most hostile environments. If whistled for outside of a community, the horse typically arrives within 1d6 minutes. If your horse is slain, you may receive a new horse by returning to your clan and performing a vigil for its spirit (a rite that costs 100 gp in rare herbs and incense). You must be a human of the highland tribes to take this trait.
+
+**Tribal Tattoo**: Upon reaching adulthood, you received a tribal tattoo, marking you with the symbols of your clan and totem spirits. You gain a +1 trait bonus on saving throws against fear effects. Additionally, you are proficient with earth breakers, klars, and spiked bolas. You must be a human of the highland tribes to take this trait.
+
 ## Catfolk Traits
 
 Only catfolk may select one of these traits.

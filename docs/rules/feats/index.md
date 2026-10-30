@@ -2996,6 +2996,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Throat Pouch](throat-pouch.md) | — | Boggard, terrifying croak |
 | [Throat Slicer](throat-slicer.md) | Combat | Base attack bonus +1 |
 | [Throw Back Arrows](throw-back-arrows.md) | Combat | Dex 17, Deflect Arrows, Improved Unarmed Strike, Snatch Arrows |
+| [Thunder and Fang](thunder-and-fang.md) | Combat | Str 15, Two-Weapon Fighting, Weapon Focus (earth breaker), Weapon Focus (klar) |
 | [Tidal Swiftness](tidal-swiftness.md) | Conduit | Knowledge (planes) 5 ranks |
 | [Timely Coordination](timely-coordination.md) | Teamwork | — |
 | [Titan's Tangle](titans-tangle.md) | Combat | Int 13, Combat Expertise, Improved Trip, Tangled Limbs*, Weapon Focus with the chosen weapon |

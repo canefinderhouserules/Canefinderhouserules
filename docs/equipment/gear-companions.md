@@ -2930,3 +2930,80 @@ This saccharine extract is made by drow and duergar taskmasters to help keep rec
 
 *Kit.* This kit consists of a backpack, a bedroll, a belt pouch, a clay mug, a dagger, two fishhooks, a flint and steel, a sewing needle, a signal whistle, 50 feet of string, 50 feet of thread, a week’s worth of trail rations, a waterskin, and a whetstone. For Small creatures, the weight of an explorer’s kit is 7–1/2 pounds. Leaving the bedroll and rations at camp or on a mount reduces the weight by 12 pounds for Medium creatures and by 3 pounds for Small creatures.
 
+## Frontier Gear
+
+### Bladed Scarf
+
+**Price** 12 gp; **Weight** 2 lbs.
+
+*Exotic two-handed melee weapon.* **Damage** 1d4 (Small), 1d6 (Medium); **Critical** ×2; **Type** S; **Special** disarm, trip; **Weapon Group** flails.
+
+Knowing that seductive performances can bring out the worst in watchers, some nomads craft rows of razor-sharp blades into their scarves. The skill required in using such scarves effectively and not revealing their deadly nature makes them exotic weapons. If you are proficient with a bladed scarf, you deal 1d4 points of slashing damage to any creature that makes a successful grapple check against you while you wield the scarf. You can use the Weapon Finesse feat to apply your Dexterity modifier instead of your Strength modifier on attack rolls with a bladed scarf sized for you, even though it isn’t a light weapon.
+
+### Spiked Bolas
+
+**Price** 15 gp; **Weight** 2 lbs.
+
+*Exotic ranged weapon.* **Damage** 1d3 (Small), 1d4 (Medium); **Critical** ×2; **Range** 10 ft.; **Type** B and P; **Special** trip; **Weapon Group** thrown.
+
+This spiked bolas, favored by highland tribes, functions as a standard bolas, but deals lethal damage rather than nonlethal damage.
+
+### Totem Spear
+
+**Price** 25 gp; **Weight** 6 lbs.
+
+*Exotic two-handed melee weapon.* **Damage** 1d8 (Small), 1d10 (Medium); **Critical** ×3; **Range** 10 ft.; **Type** P or B.
+
+Favored by some highland tribes, totem spears combine deadly weapons with mournful music. The shovel-like heads of these broad spears are decorated with variously oriented hollows. In addition to its use as a weapon, a totem spear can be played using the Perform (wind instrument) skill.
+
+### Hide Shirt
+
+**Price** 20 gp; **Weight** 18 lbs.
+
+*Light armor.* **Armor Bonus** +3; **Max Dex Bonus** +4; **Armor Check Penalty** –1; **Arcane Spell Failure Chance** 15%; **Speed** 30 ft./20 ft.
+
+Made from animal hide and giant lizard scales over a shirt of interwoven cords, these chest and shoulder coverings protect tribal riders without restricting their mobility. The wearer of a hide shirt can make a DC 15 Strength check as a standard action. If he succeeds, the armor gains the broken condition and drops to the ground rather than requiring the usual 1 minute it would take to remove it. The armor must be repaired as though it had taken 8 points of damage before it can be used again; a broken hide shirt grants no bonus to Armor Class.
+
+### Barbarian Chew
+
+**Price** 25 gp; **Weight** 1 lb.
+
+*Alchemical tool.* Badlands tribes combine lime, crimson galtroot leaves, and some say horse blood to create this invigorating chew. Aside from staining the teeth a bloody shade, barbarian chew causes the user to feel stronger, but also angrier. One use of barbarian chew grants a barbarian +1 additional round of rage. This additional round is used first when a barbarian begins raging. If a barbarian does not rage within 1 hour of using the chew, this additional round of rage is lost. This benefit can be gained only once per day; consuming multiple doses in a 24-hour period has no additional effects. Barbarian chew can be created with a successful DC 20 Craft (alchemy) check.
+
+### Harpy Musk
+
+**Price** 20 gp; **Weight** 1 lb.
+
+*Alchemical tool.* For all their cowardice and cruelty, goblins have a keen sense of what can kill them, and harpies number among goblins’ most feared predators. Using this knowledge to their advantage, frontier alchemists have devised ways to recreate or distill the musk of harpies into a potent concoction. If smeared on a surface or used as a thrown weapon, harpy musk fills a 30-foot area for 10 minutes before dispersing. Any goblin who enters the area must succeed at a DC 14 Will save or be shaken for 1 minute. Harpy musk affects only goblins—bugbears and hobgoblins are unaffected. Harpy musk can be created with a successful DC 20 Craft (alchemy) check.
+
+### Nomad Idol
+
+**Price** 75 gp; **Weight** 1 lb.
+
+*Adventuring gear.* Scavenged from mysterious monuments, these depictions of forgotten figures and nameless spirits are often sold as good luck charms, but most commoners don’t know that they can also be used to augment magic. Seven types of idols exist, each tied to a school of magic; those that affect evocation, transmutation, and illusion are the most common.
+
+If used as an additional material component when casting a spell the idol affects, an idol increases the effect of that spell. Using multiple idols to cast a spell has no additional effect. An idol is destroyed after one use.
+
+*Abjuration Idol*: When used to cast a spell that allows you to make a dispel check (such as *dispel magic* or *mage’s disjunction*), you gain a +2 bonus on that check.
+
+*Conjuration Idol*: When used to cast *summon monster* or *summon nature’s ally*, the summoned creature’s maximum hit points increase by +2 for every Hit Die it possesses.
+
+*Enchantment Idol*: When used to cast any spell of the charm subschool, a threatened target does not gain the usual +5 bonus on its saving throw to resist the effect.
+
+*Evocation Idol*: When used to cast a spell that deals energy damage, you gain a +2 bonus on caster level checks made to overcome spell resistance.
+
+*Illusion Idol*: When used to cast a spell of the glamer subschool with a duration measured in minutes or less (such as *displacement* or *invisibility*), the effects of that spell persist for 1 round longer than normal.
+
+*Necromancy Idol*: When used to cast a spell of the necromancy school that deals hit point damage, you also deal a number of points of bleed damage equal to the spell level. This bleed effect lasts for 5 rounds.
+
+*Transmutation Idol*: When used to cast *bear’s endurance*, *bull’s strength*, *cat’s grace*, *eagle’s splendor*, *fox’s cunning*, or *owl’s wisdom*, the spell grants a +5 enhancement bonus to the affected ability score.
+
+### Scarf
+
+**Price** 1 sp–5 gp (plain), 8 gp (pocketed), 10 gp (reinforced); **Weight** 1/2 lb. (plain or pocketed), 1 lb. (reinforced)
+
+*Clothing.* Entertainers often employ seductive garb and entrancing props in their performances. Scarves of colorful cloth or transparent silk, often embroidered with elaborate scenes or motifs, are favorite accessories.
+
+*Pocketed*: An elaborate design disguises several small pockets on one side of this scarf. This scarf grants you a +4 bonus on Sleight of Hand checks made to hide objects on your body. This bonus does not stack with the bonus wearing heavy clothing provides but does stack with bonuses for attempting to hide small objects.
+
+*Reinforced*: One side of this 8-foot-long scarf is reinforced with chain links and metal plates. While not enough to provide a benefit to Armor Class, these versatile scarves can be used like a length of chain to climb short distances or bind an enemy. A reinforced scarf has hardness 10 and 4 hit points. It can be burst with a successful DC 24 Strength check.

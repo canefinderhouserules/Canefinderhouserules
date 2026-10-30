@@ -812,3 +812,69 @@ These traits come from the empires and wilds of a distant eastern continent. Eac
 
 **Wharf Rat (Port city native)**: You may never have been on a boat larger than a garbage scow, but you’ve been helping them dock all your life. You gain a +2 trait bonus on skill checks involving climbing and rope use, and a +4 trait bonus on Appraise checks to determine the value of large quantities of bulk goods without opening their containers.
 
+## Regional Traits of the Frontier
+
+These traits suit characters from a wild frontier dotted with ancient monuments, rival city-states, wandering nomads and highland tribes.
+
+**Coincunning (Dwarven trade city native)**: Whether from working with dwarven merchants or being one yourself, you’ve developed a distinctly dwarven business sense. You receive a +2 trait bonus on Perception checks to notice coins, gems, jewelry, and valuable trade goods. You gain a chance to notice such goods whenever you pass within 10 feet of them, whether or not you are actively looking.
+
+**Cypher Resistance (Pirate port native)**: You have grown up near an ancient rune-covered arch, passing under it countless times in your lifetime. You can recount the runes from memory, and repeated exposure has imbued you with a faint resistance to runic magic. You gain a +2 trait bonus on saving throws against spells with the word “glyph” or “symbol” in their name.
+
+**Emissary (City of strangers native)**: Accustomed to the strange residents of a lawless walled city, you have few prejudices. You gain a +2 trait bonus on Diplomacy checks when dealing with aberrations, monstrous humanoids, undead, and creatures with the giant subtype.
+
+**Empyreal Cultist (City of monuments native)**: Your faith in the empyreal lords—a host of good demigods—and your fascination with the legendary angel watching over your city have you constantly on the hopeful lookout for celestial messengers. Choose an empyreal lord as your patron deity. You gain Celestial as a bonus language and a +1 trait bonus on Diplomacy checks when dealing with good-aligned humanoids.
+
+**Humble Beginnings (Frontier native)**: You didn’t have any intention of becoming an adventurer, but a single, unexpected confrontation changed everything. Choose one of the following: boot, bucket, frying pan, mug, rolling pin, spade, or stool. You are treated as having the Catch Off-Guard feat when wielding the chosen item. (These items should all be considered improvised melee weapons that deal 1d4 points of bludgeoning damage.)
+
+**Local Know-It-All (Frontier native)**: Choose a community that you’ve lived in for at least 5 years. You gain a +2 trait bonus on Knowledge (local) checks related to that community.
+
+**Regional Influence (Frontier native)**: Although you live some distance from the city-state your community owes fealty to, you’ve been influenced by its sophisticated urban ways. Determine the city-state of which your home is a holding. You gain a +1 trait bonus on checks with one Profession skill and one of the following benefits. *Devil-tied city*: Gain Infernal as a bonus language. If you already have this language, gain a +1 trait bonus on Diplomacy checks. *City of monuments*: Gain one random [nomad idol](../../equipment/gear-companions.md#nomad-idol). *Pirate port*: Gain a +1 trait bonus on Swim checks.
+
+**Regional Recluse (Frontier native)**: Your home community prides itself on remaining independent from the frontier’s city-states. Choose the kind of settlement you come from. You gain a +1 trait bonus on Survival checks and one of the following benefits. *Night village*: Gain a +1 trait bonus on Perception checks made at night. *Shield-wall town*: Gain proficiency with light shields. *Forest village*: Gain Gnome as a bonus language. If you already have this language, gain a +1 trait bonus on Stealth checks made in forested areas. *River town by giant lands*: Gain a +1 bonus to damage on all attacks against creatures of the giant type. *Orc-ruled town*: Gain Orc as a bonus language. If you already know this language, gain a +1 trait bonus on Intimidate checks.
+
+**Roof Racer (Devil-tied city native)**: You’ve spent more than your fair share of time among the strange sloping slums that cover the rooftops of your city’s old quarter. When using the Acrobatics skill to make a long jump, you treat the DC of the skill check as if the distance being jumped were 5 feet shorter than it actually is.
+
+**Savage Breaker (Devil-tied city native)**: You openly despise the highland tribes and their backward ways. You gain a +2 trait bonus on combat maneuver checks made to sunder clubs, earth breakers, klars, hide armor, primitive armor and weapons, and any other equipment the GM deems “barbarian-made.”
+
+**Town Gossip (Frontier native)**: Choose a community that you’ve lived in for at least 5 years. You gain a +2 trait bonus on Diplomacy checks while in that community.
+
+**Underbridge Dweller (City of monuments native)**: You were raised in a shadowed district beneath a colossal ancient bridge, a veiled place the light of the sun touches for only 3 hours per day. Your well-founded suspicions grant you a +2 trait bonus on Perception checks in dim light, and Perception is always a class skill for you.
+
+**Winner’s Luck (Pirate port native)**: Winning at the tables in your city’s gambling houses can be as devastating as losing. Years of dodging the jealous blows of card table patrons have given you a sixth sense for when your luck is about to run out. Whenever you succeed at a Reflex saving throw, you may draw a weapon as an immediate action, or a hidden weapon as a move action.
+
+## Frontier Campaign Traits
+
+These traits tie characters to a frontier campaign of ancient monuments, rival city-states and rising omens.
+
+**Best Customer**: You’ve sat on your favorite barstool at the local tavern every night for as long as you can remember—and some nights you can’t remember thanks to a few too many drinks. In your various hazes, you’ve gotten to know the tavern’s proprietor or one of the regulars quite well. Additionally, you’re well acquainted with a variety of uses for strong drink. Any time you have an alcoholic beverage on hand, you can expend one use of it to grant you a +2 trait bonus on a Heal check. This bonus increases to +4 if you’re treating your favorite drinking buddy (an NPC of your choice).
+
+**Daring Doomsayer**: The end times are coming, and the omens in the sky are just the first piece of proof. Convinced that the end of the world is nigh, you’ve decided to take every risk—after all, what do you have to lose? Whenever you roll a “1” on an attack roll, you gain a +1 trait bonus on your next attack roll so long as it is made within 1 minute. You also begin play with a placard bearing an apocalyptic slogan of your choice—this wooden sign can be used as a club.
+
+**Disowned Noble**: You are a member of one of your city’s wealthiest families… or rather, you used to be. A falling-out left you disowned and disinherited. Now you hope to get away from the city and find fortune enough to shame your former kinsfolk. Despite your exile, your name still carries considerable weight in your home city, and you gain a +1 trait bonus on Diplomacy and Intimidate checks made within the city. Additionally, you start play with a noble’s outfit, a signet ring, and a single additional nonmagical item worth no more than 200 gp.
+
+**Dockside Avenger**: No crime is too despicable for a certain gang boss and his thugs—a gang of lowlife murderers, kidnappers, and drug dealers that operate in your city. You’ve lost someone to this boss and now you’re out for revenge. While the boss remains alive and free, you are not slain until your hit point total reaches a negative number equal to your Constitution score + 3. Once the boss is imprisoned or killed, you lose the former benefit but gain 3 permanent hit points.
+
+**Ex-Gang Member**: Though you were raised as a member of one of your city’s criminal gangs, you never fit in with the rest of your brethren. Over the years, you fell out of favor with the gang, and eventually left to pursue interests outside of simple banditry, though you still remember the lessons your criminal relations taught you. You gain a +2 trait bonus on Bluff checks to pass hidden messages. Also, anytime you deliver a coup de grace, you deal an additional 1d6 points of damage.
+
+**Exchange Agent**: Although you’re a relative newcomer to the frontier, you’re not some naive stranger. You’ve been sent by an explorers’ lodge in your home country to learn more about the frontier by experiencing it firsthand. To represent your experience in distant lands, choose a distant country as your homeland and gain one of the languages spoken there as a bonus language. Additionally, choose one of the following skills: Handle Animal, Knowledge (geography), Linguistics, or Survival. You gain a +1 trait bonus on checks made with this skill and it is always a class skill for you.
+
+**Fixer of Odds**: You’re going to win the next big gambling tournament one way or the other. You gain a +1 trait bonus on Profession (gambling) checks, and creatures searching you for objects hidden on your body don’t gain the usual +4 bonus on their Perception checks. Additionally, you begin play with a “fixed” six-sided die (it has two “6s” and no “1”) and a dagger.
+
+**Foreign-Tongued**: Intrigued by the travels of one of your long-time acquaintances (an NPC of your choice), you’ve convinced that person to teach you one of the exotic languages they picked up in their journeys. You may select one of that character’s languages as a bonus language. Additionally, you gain a +2 trait bonus on Bluff checks made to pass secret messages to the chosen character (see the description of the Bluff skill).
+
+**Hardy Ancestry**: Your family is particularly hearty, and has even passed down tales of an ancestor who sought to cure (or, some loose-lipped relatives say, create) diseases. You gain a +1 trait bonus on saving throws made to resist diseases. Additionally, you are immune to the diseases Vorel’s phage and blood veil.
+
+**Monument Scholar**: As a child, your city’s ancient monuments inspired you with wonder. Your fascination with these relics has only grown in the years since. Though you know little about the actual lore of the monuments, you’ve studied these colossal works extensively. You gain a +1 trait bonus on Knowledge (history) checks made in your home region due to your familiarity with its historical remnants. This bonus increases to +2 if the check relates to your home city. Additionally, you gain a +2 trait bonus on any skill check made to receive a boon from one of your city’s magically imbued monuments.
+
+**Nontraditional Native**: You are a member of the wandering nomads or the highland tribes who left your people to learn more about the mysteries of your strange homeland. Although none of your family members are present, you carry them and your family traditions with you. If you are a nomad, you gain a +1 trait bonus on Knowledge (geography) checks made relating to your homeland and gain a +1 trait bonus on damage rolls made during the surprise round when you’re wielding a bladed scarf or starknife. If you are a tribesman, you gain a +1 trait bonus on Survival checks made while in your homeland and gain a +1 trait bonus on rolls to confirm critical hits made using an earth breaker or a klar.
+
+**Portentous Perception**: You’ve come (or been sent) to observe a strange omen that has appeared in the sky. Your sharp eyesight makes it easier for you to notice things at a distance. For you, Perception checks only start increasing in difficulty at a range of 20 feet or farther, as opposed to the normal 10. This has no effect on checks made to perceive things within 10 feet.
+
+**Ruin Raider**: While the mercantile industries of your city appeal to your keen eye for monetary gain, you know that the boldest route to true fortune lays in hunting down rare relics and selling them to the highest bidder. You brought with you a sharp eye and keen ability to distinguish fakes from the genuine article. You gain a +1 trait bonus on Appraise checks. Additionally, you gain a +4 bonus on Perception checks made to distinguish statue-like creatures (like caryatid columns and gargoyles) from actual sculptures.
+
+**Serpent Runner**: You’ve participated in the mock gladiatorial battles and athletic feats at your city’s grand hippodrome, but the safe nature of those games leaves you bored. Choose one of the following benefits to represent the techniques you learned there: choose a specific type of armor, and when wearing armor of that type, you treat its armor check penalty as if it were –1 lower; or when fighting with two weapons, the penalty imposed on your primary weapon is reduced by 1; or you gain a +2 trait bonus on Intimidate checks to demoralize opponents.
+
+**Thrill Seeker**: You’ve grown up in or around a small town and are the heir to your family’s modest farm, shop, or fishing boat, but you’ve always dreamed of more. The thrill of danger grants you an additional +5 feet of movement during the first round of any combat. Additionally, you begin play with three star candle fireworks.
+
+**Town Faithful**: As a faithful adherent of a good or neutral deity, you’ve come to celebrate the consecration of your town’s new cathedral. You gain a silver holy symbol of your chosen deity, and so long as you worship that deity and openly wear his or her symbol, you regain +1 additional hit point every time you receive magical healing.
+
