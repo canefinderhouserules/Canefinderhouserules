@@ -1340,3 +1340,17 @@ A freebooter is a natural leader, a pirate who works well with a variety of peop
 **Elemental Explorer (Ex)**: At 3rd level, instead of selecting a favored terrain, an elemental envoy gains the typical favored terrain bonuses when traveling on the Plane of Air, Plane of Earth, Plane of Fire, and Plane of Water, except the elemental envoy gains a bonus on Knowledge (planes) checks instead of Knowledge (geography) checks. At 8th level and every 5 levels thereafter, he does not select an additional favored terrain, but his favored terrain bonuses increase by 2. This alters favored terrain.
 
 **Elemental Combat Style**: A ranger or other character who gains combat styles can select the following combat style instead of his normal choices. He can choose feats from this style even if he does not meet the normal prerequisites (including racial prerequisites). *Elemental*: If the ranger chooses the elemental combat style, he can choose from the following list whenever he gains a combat style feat: Aquadynamic Focus, Scorching Weapons, Stony Step, and Wind Stance. At 6th level, he adds Inner Flame and Lightning Stance to the list. At 10th level, he adds Blazing Aura and Whirlwind Attack to the list.
+
+## Underworld Sailor
+
+Those plying the lightless waters of the Underworld learn to use sound to augment their compromised vision, providing insight into the hazards lurking below the surface. A Underworld sailor has the following class features.
+
+**Skilled Pilot (Ex)**: A Underworld sailor adds half his level (minimum 1) to Profession (sailor) and Survival checks to navigate or avoid natural hazards in subterranean waterways. This ability replaces track.
+
+**Keen Ear (Ex)**: At 3rd level, a Underworld sailor learns how to use sound to compensate for poor visibility when facing threats above and below the water. He gains the uncanny dodge rogue ability when underground and either swimming or aboard a boat. At 8th level, he gains improved uncanny dodge under these conditions, treating his Underworld sailor level as his effective rogue level for the purpose of denying an enemy’s sneak attacks. At 13th level, he gains blind sense with a range of 30 feet against creatures touching water. At 18th level, his blind sense range increases to 60 feet or equal to the range of his darkvision, whichever is greater. If the Underworld sailor becomes deafened, he loses all benefits of this ability until his hearing is restored. This replaces favored terrain.
+
+**Quick Swim (Ex)**: At 7th level, a Underworld sailor can swim at his full speed as a move action without penalty. This ability replaces woodland stride.
+
+**Subsonic Warning (Ex)**: At 8th level as a swift action, a Underworld sailor can provide the benefits of his keen ear ability to the subjects of his hunter’s bond. This effect lasts for a number of rounds per day equal to the Underworld sailor’s Wisdom modifier. These rounds need not be consecutive. A deafened creature can’t benefit from a Underworld sailor’s subsonic warning. This ability replaces swift tracker.
+
+**Hidden Depths (Ex)**: At 12th level, a Underworld sailor can use the Stealth skill to hide while underground or underwater, even if he doesn’t have cover or concealment. At 17th level, he can use the Stealth skill even while being observed when underground or underwater. This ability replaces camouflage and hide in plain sight.

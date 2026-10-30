@@ -59,11 +59,13 @@
 - **[Nature's Paths](natures-paths.md)**: Find the fastest way through the wilderness
 - **[Pass without Trace](pass-without-trace.md)**: One subject/level leaves no tracks.
 - **[Preserve](preserve.md)**: Stop spoilage of objects for a week
+- **[Radiation Ward](radiation-ward.md)**: +4 on saves against radiation; sense radiation levels.
 - **[Read Magic](read-magic.md)**: Read scrolls and spellbooks.
 - **[Read Weather](read-weather.md)**: Forecast the weather for 48 hours.
 - **[Resist Energy](resist-energy.md)**: Ignores 10 (or more) points of damage/attack from specified energy type.
 - **[Returning Weapon](returning-weapon.md)**: Grants a weapon the returning special weapon quality.
 - **[Rite of Bodily Purity](rite-of-bodily-purity.md)**: Meditative spell: bonus against disease and poison, with a reroll.
+- **[Rock Whip](rock-whip.md)**: Whip of stone ignores stone cover and bull rushes foes it hits.
 - **[Savage Maw](savage-maw.md)**: Your teeth extend and sharpen, transforming your mouth into a maw of razor-sharp fangs.
 - **[Sculpted Cape](sculpted-cape.md)**: Your cape stiffens and holds its shape.
 - **[Speak Local Language](speak-local-language.md)**: Speak and understand one known regional human language.

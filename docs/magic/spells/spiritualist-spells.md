@@ -109,6 +109,7 @@ Spiritualists gain access to the following spells. Spells without a link come fr
 - **[Inflict Moderate Wounds](inflict-moderate-wounds.md)**: Touch attack, 2d8 damage +1/ level (max +10).
 - **[Inflict Pain](inflict-pain.md)**: Target takes a –4 penalty on attack rolls, skill checks, and ability checks.
 - **[Instigate Psychic Duel](instigate-psychic-duel.md)**: Start a psychic duel between yourself and another creature.
+- **[Intensify Psyche](intensify-psyche.md)**: +2 on social checks and emotion DCs, –2 on saves against emotion and pain.
 - **[Invisibility](invisibility.md)**: Subject is invisible for 1 min./level or until it attacks.
 - **[Jealous Rage](jealous-rage.md)**: Target attacks anyone who receives a benefit it does not.
 - **[Levitate](levitate.md)**: Subject moves up and down at your direction.
@@ -306,6 +307,7 @@ Spiritualists gain access to the following spells. Spells without a link come fr
 - **[Spiritual Ally](spiritual-ally.md)**: Creates a divine ally to aid you.
 - **[Summon Monster IV](summon-monster-iv.md)**: (Evil creatures only.) Summons extraplanar creature to fight for you.
 - Telekinetic Charge
+- **[Surface Excursion](surface-excursion.md)**: Teleport to the surface directly above you, with a beacon to return.
 - **[Telekinetic Maneuver](telekinetic-maneuver.md)**: Perform a telekinetic combat maneuver.
 - **[Telepathic Silence](telepathic-silence.md)**: Blocks telepathy and thought reading in an area.
 - **[Terrible Remorse](terrible-remorse.md)**: Creature is compelled to harm itself.

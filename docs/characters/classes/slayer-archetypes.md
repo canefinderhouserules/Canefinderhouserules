@@ -395,3 +395,15 @@ Followers of a demonic harbinger of gunpowder and poisonous metals hide througho
 **Disrupt Coven (Su)**: Anyone the slayer threatens no longer counts as an ally for the purposes of friendly spellcasting or employing teamwork feats and cannot access any special abilities gained from being part of a coven (including coven spellcasting). This replaces stalker.
 
 **Unseen Sense (Su)**: At 11th level, the covenbane learns to use his hag sense to help target concealed or invisible opponents in combat. He can use his hag sense to detect invisible opponents as well as magically disguised creatures. He also gains Blind-Fight as a bonus feat but gains its benefits only against spellcasters and creatures with spell-like abilities. This replaces swift tracker.
+
+## Turncoat
+
+In the depths of the Underworld, betraying others before they have the chance to betray you can be a necessary survival technique. While not all adventurers have the heart for such underhanded dealings, others have developed a knack for it. The turncoat’s natural talents for deception and treachery are fitting when negotiating with the untrustworthy inhabitants of the Underworld and other notoriously unscrupulous areas, and his ability to adapt allows him to preempt opponents’ schemes. Not all party members may be comfortable with having someone so adept at backstabbing among their ranks, but most tend to be grateful that he uses his skills to their benefit.
+
+**Dubious Recognition (Ex)**: A turncoat adds half his level (minimum 1) to Sense Motive checks to recognize when a creature is lying or attempting to take advantage of the turncoat and his allies. This replaces track.
+
+**Double Speak (Ex)**: At 7th level, a turncoat can attempt a Bluff check in place of a Diplomacy check against a studied target. The target can attempt an opposed Sense Motive check. This ability replaces stalker.
+
+**Sudden Betrayal (Ex)**: At 14th level, as a standard action a turncoat can choose a single creature within 30 feet. He gains a +4 circumstance bonus on Diplomacy checks against this target. If the target has an attitude of indifferent or better toward him, the first attack roll the turncoat makes against that target is automatically treated as threatening a critical hit. If the target’s attitude is friendly or better, a successful attack is treated as a confirmed critical hit. This ability can be used only once per day.
+
+At 19th level, the bonus increases to +6, and the attack is treated as a confirmed critical hit if the target is at least indifferent to the turncoat. This ability replaces quarry and improved quarry.

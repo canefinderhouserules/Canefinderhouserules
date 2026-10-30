@@ -2809,3 +2809,110 @@ The shimmering, multicolored whimsy star captures the mutability of the fey real
 | 4 | The spell is affected as per the Extend Spell metamagic feat. |
 | 5 | The spell is affected as per the Widen Spell metamagic feat. |
 | 6 | The spell is affected as per the Heighten Spell metamagic feat, increasing the spell's level by 1. |
+
+## Underworld Gear
+
+### Blasting Jelly
+
+**Price** 45 gp; **Weight** 1/2 lb.
+
+*Alchemical tool.* This volatile gray paste sticks to solid surfaces and creates a concentrated blast when exposed to fire, making it a valuable excavation tool. You can apply 1 dose of blasting jelly to a 5-foot square as a standard action. The paste can be ignited with another standard action by striking it from an adjacent square with a metal weapon or object. When thus ignited or otherwise exposed to fire, the jelly explodes, dealing 2d6 points of fire damage to creatures and unattended objects within the treated square. If the ignited square is adjacent to another square containing blasting jelly, that square ignites as well. Blasting jelly deals full damage to objects made of stone or softer material. Blasting jelly decays relatively quickly when exposed to air, becoming inert after 4 hours if not ignited.
+
+### Blightburn Reader
+
+**Price** 25 gp; **Weight** 1 lb.
+
+*Adventuring gear.* A blightburn reader is a small wooden or metal frame, roughly 2 inches wide and 4 inches long, containing a specially prepared alchemical paper pressed between two thin panes of glass. Whenever a character wearing a blightburn reader enters an area with a radiation hazard, the paper within changes from white to black over the course of 1 minute. Once the paper turns black, it is destroyed and must be replaced at a cost of 15 gp before the blightburn reader can be used again.
+
+### Clatterstone
+
+**Price** 30 gp; **Weight** 2 lbs.
+
+*Alchemical tool.* Comprising several chunks of magnetized ore connected by twine, a clatterstone creates an intense racket when it strikes a solid surface. The combination of magnetic disturbances, noise, and vibrations interferes with blindsight. A creature using blindsight perceives a detonated clatterstone as a Medium target until it attempts to interact with the perceived “creature” or identifies it with some other sense, such as darkvision. You can throw a clatterstone as a ranged attack with a range increment of 20 feet, and it remains active for 1d4+1 rounds before becoming inert.
+
+### Collapsible Rowboat
+
+**Price** 100 gp; **Weight** 40 lbs.
+
+*Adventuring gear.* This boat has a canvas hull and wooden frame that can be easily disassembled. When collapsed, the boat fits into a pack that can be carried by one person. When expanded, this boat has the same base statistics as a rowboat (Core Rulebook). Expanding or collapsing it takes 5 minutes.
+
+### Deep Breath
+
+**Price** 100 gp; **Weight** 1 lb.
+
+*Alchemical tool.* Underworld explorers who frequently run afoul of troglodytes, pockets of natural gas, and toxic fumes from magma flows use this dense flask to ease their breathing. You can open the flask as a standard action or throw it as a splash weapon. When opened or broken, the flask releases a burst of cleansing, breathable air in a 10-foot-radius burst, providing a +4 alchemical bonus on saving throws against gases, inhaled poisons, or other breathable hazards. The cloud of fresh air lasts for 1d4 rounds. If you hit a creature that has the stench ability with a thrown flask of deep breath, the DC of its stench is reduced by 4 for the duration of the cloud.
+
+### Drought Powder
+
+**Price** 5 gp; **Weight** —
+
+*Alchemical tool.* This unique, salty alchemical powder is crafted in Underworld communities where fresh water is either scarce or guarded by dangerous predators. Consuming 1 dose allows you to go without water for 3 days instead of 1, in growing discomfort but without any negative effects. After this time, you must attempt a Constitution check once every 6 hours instead of once per hour to avoid taking nonlethal damage. One dose of drought powder functions for 1 week, after which penalties for thirst accrue at their normal pace (Core Rulebook).
+
+### Focus Chew
+
+**Price** 40 gp; **Weight** —
+
+*Alchemical tool.* When chewed, this spongy gum releases mild stimulants that heighten your focus. Derros use focus chew in an effort to improve their experiments, though spellcasters from other Underworld cultures have adopted their recipe for use in research. For up to 1 hour while chewing focus chew, you gain a +2 alchemical bonus on concentration checks and a +1 alchemical bonus on Intelligence-based skill checks.
+
+### Miner's Bird
+
+**Price** 5 gp; **Weight** 1 lb.
+
+*Adventuring gear.* A miner’s bird is a Diminutive, semi-trained animal (typically a canary or other delicate songbird) in a portable cage. The enclosure is most often made of wood or metal. The bird within has 1 hit point, a Constitution score of 3, and a Fortitude save bonus of –2 (otherwise, its statistics are identical to a thrush). When the bird fails its first saving throw against a poison-based effect, it emits a loud chirping, audible within 60 feet.
+
+### Monochrome Camouflage
+
+**Price** 40 gp; **Weight** 1 lb.
+
+*Alchemical tool.* This slimy gray unguent distorts wavelengths of light beyond of the normal visual spectrum, causing you to appear blurry to creatures using darkvision. Applying the camouflage takes 1 minute and provides a +4 alchemical bonus on Stealth checks against creatures relying on darkvision to see. One dose of monochrome camouflage lasts for 1 hour.
+
+### Mu Spore Secretions
+
+**Price** 25 gp; **Weight** —
+
+*Alchemical weapon.* These secretions are only one of the many spores and fluids that mu spores produce, but this is one of the few that surface dwellers have learned to safely use. This clear secretion can be added to any alchemical weapon, including an alchemist’s bombs, as a move action. When mixed in this way, the affected alchemical weapon ignores half the hardness of any wooden objects it strikes. Alternatively, against creatures primarily made of wood (such as treants or wood golems), such weapons ignore the first 5 points of damage reduction the creatures has.
+
+### Muscle Grout
+
+**Price** 100 gp; **Weight** 1 lb.
+
+*Alchemical remedy.* A gritty salve with an earthy odor, muscle grout is frequently sold in areas where giant spiders or ropers haunt local trade routes. When massaged into the muscles as a full-round action, this ointment provides a +2 alchemical bonus on saving throws to resist nonmagical effects that cause Strength damage. Any Strength damage you take manifests gradually as the salve slows muscle decay; anytime you take Strength damage, you take only 1 point per round until the full amount of damage is dealt. Additional Strength damage adds to the total, but is dealt only at a maximum rate of 1 point per round, as long as the grout is active. A dose of muscle grout lasts for 10 minutes. One dose of muscle grout is sufficient for a Medium or smaller creature; Large creatures require 2 doses, Huge creatures require 4 doses, and so on.
+
+### Ooze Attractant
+
+**Price** 100 gp; **Weight** 1 lb.
+
+*Alchemical tool.* Drow alchemists of a noble house developed this mixture to function as a lure for mindless oozes. You can throw a flask of ooze attractant as a splash weapon. On a direct hit, each mindless ooze within 60 feet must succeed at a DC 12 Will save or be compelled to approach the target for the next 1d4+1 rounds. On a miss, an ooze still attempts a Will save, but on a failure it instead approaches the square in which the flask landed. Once an ooze moves adjacent to the targeted creature or into the targeted square, it resumes its normal behavior. An ooze can be affected by ooze attractant only once in a 24-hour period.
+
+### Spore Dehiscent
+
+**Price** 30 gp; **Weight** 1 lb.
+
+*Alchemical weapon.* This pungent concoction can be thrown as a splash weapon to trigger unsustainable spore or pollen release in fungi and plants. Any plant creature in the square where the spore dehiscent lands must succeed at a DC 14 Fortitude save or immediately activate any of its effects based on spores or pollen, treating itself as the target or center of the effect. Fungal hazards like russet mold or yellow mold are activated automatically with no saving throw. Plant creatures or hazards in squares adjacent to the square of impact must each succeed at a DC 10 Fortitude save or suffer the same effect. Once the effect is triggered, the creature or hazard cannot activate the effect again for 1d4 rounds or until the effect could normally be used again, whichever is longer.
+
+### Sunsoil
+
+**Price** 50 gp; **Weight** 1 lb.
+
+*Alchemical tool.* Created by dwarves after their ancient migration to the surface, this faintly glowing collection of minerals allows photosynthetic plants to grow in underground environments without sunlight. Sunsoil has since spread to a handful of agricultural communities throughout the Underworld, particularly among duergar plantations and svirfneblin enclaves. One pound of sunsoil covers a 20-foot-by-20-foot area of regular earth and takes 1 minute to distribute evenly. A treated area allows plants to grow without sunlight for 4 months. Light-based spells and magical effects trigger an alchemical reaction in sunsoil. Any spell with the light descriptor cast on a pound of sunsoil causes all areas covered in the soil to be treated as areas of bright light for 1 round. This light counts as natural sunlight for creatures vulnerable to such effects. After being subjected to such an effect, sunsoil immediately becomes normal dirt.
+
+### Vault Altimeter
+
+**Price** 10 gp; **Weight** 1/2 lb.
+
+*Adventuring gear.* This altimeter has been specially calibrated for the Underworld and can be used to measure how deep you are beneath the surface. It grants a +2 circumstance bonus on Survival checks to navigate underground.
+
+### Poisons
+
+#### Cyanide
+
+**Type** contact; **Save** Fortitude DC 20; **Onset** 1 minute; **Frequency** 1/round for 6 rounds; **Effect** 1d4 Con damage, target must succeed at a second Fortitude save or 1 point of the Con damage is instead drain. Cyanide’s unique metal-extracting properties make it effective against elementals with the earth subtype, despite their natural immunity to other poisons.; **Cure** 2 saves; **Price** 4,000 gp
+
+This potent toxin is used by both drow and duergar to extract gold from ore and to eliminate political enemies. Cyanide poisoning usually manifests as bright red flushing of the skin, even more noticeable in pallid creatures like derros and duergar.
+
+#### Slaver's Will
+
+**Type** ingested; **Save** Fortitude DC 14; **Onset** 10 minutes; **Frequency** 1/hour for 8 hours; **Effect** 1 Wis damage, target must roll twice and take the lower result for all saving throws against mind-affecting effects until the Wis damage is healed; **Cure** 1 save; **Price** 350 gp
+
+This saccharine extract is made by drow and duergar taskmasters to help keep recalcitrant slaves in line. The poison clouds the minds of those who consume it, impairing victims’ critical thinking and making them more suggestible.
+

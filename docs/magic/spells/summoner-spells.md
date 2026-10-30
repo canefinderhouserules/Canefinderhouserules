@@ -24,6 +24,7 @@ New summoner spells from *Ultimate Magic*. Spells from other books will be added
 - **[Positive Pulse](positive-pulse.md)**: Energy harms undead or bolsters the living
 - **[Punishing Armor](punishing-armor.md)**: Reflects nonlethal damage back at attackers.
 - **[Ray of Sickening](ray-of-sickening.md)**: Ray makes the subject sickened.
+- **[Shadowfade](shadowfade.md)**: Target is invisible to darkvision in darkness.
 - **[Snowball](snowball.md)**: Throw a conjured ball of snow at a target.
 - **[Stone Shield](stone-shield.md)**: A 1-inch-thick slab of stone springs up from the ground, interposing itself between you and an opponent of.
 - **[Summon Minor Monster](summon-minor-monster.md)**: Summon 1d3 Tiny animals.
@@ -141,6 +142,7 @@ New summoner spells from *Ultimate Magic*. Spells from other books will be added
 - **[Caustic Blood](caustic-blood.md)**: Wounds spray acid at attackers.
 - **[Celestial Healing, Greater](celestial-healing-greater.md)**: Target gains fast healing 4.
 - **[Cold Iron Fetters](cold-iron-fetters.md)**: Shackle a target, halving its speeds and blocking magical movement.
+- **[Concealed Breath](concealed-breath.md)**: Touched creatures need not breathe.
 - **[Contact Entity III](contact-entity-iii.md)**: Ask very powerful eldritch entities to find and converse with you, or they may reply telepathically.
 - **[Curse of Dragonflies](curse-of-dragonflies.md)**: Curse: flying becomes difficult for the target.
 - **[Damnation Stride](damnation-stride.md)**: This spell functions like dimension door, except you leave behind a burst of fire.
@@ -164,6 +166,7 @@ New summoner spells from *Ultimate Magic*. Spells from other books will be added
 - **[Stoneskin, Communal](stoneskin-communal.md)**
 - **[Summon Genie](summon-genie.md)**: Summons a djinni or janni.
 - **[Summoner Conduit](summoner-conduit.md)**: The target takes damage whenever its summoned creature does.
+- **[Surface Excursion](surface-excursion.md)**: Teleport to the surface directly above you, with a beacon to return.
 - **[Sword to Snake](sword-to-snake.md)**: An item bites whoever handles it.
 - **[Thaumaturgic Circle](thaumaturgic-circle.md)**: As magic circle, but affecting a nonalignment subtype or outsider race.
 - **[Tongues, Communal](tongues-communal.md)**: As tongues, but you may divide the duration among creatures touched.

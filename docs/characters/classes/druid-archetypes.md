@@ -1415,3 +1415,19 @@ The following domains are common among druids who frequent the Elemental Planes.
 **Hydraulic Crush (Sp)**: At 8th level, you can strike an area with a pressurized blast of water in a 5-foot-radius column 30 feet tall with a range of 60 feet. Creatures in the area take 1d6 bludgeoning damage per druid level and are knocked prone. When used underwater, the radius and height double, and the effect instead creates a powerful eddy that causes affected creatures to lose their Dexterity bonus to Armor Class for 1 round instead of knocking them prone. A successful Reflex save halves the damage and prevents the secondary effect. You can use this ability once per day, plus once more for every 6 levels beyond 8th.
 
 **Domain Spells**: 1st—touch of the sea, 2nd—elemental speech, 3rd—water breathing, 4th—planar adaptation, 5th—solid fog (functions underwater), 6th—mass planar adaptation, 7th—fluid form, 8th—seamantle, 9th—tsunami.
+
+## Fungal Pilgrim
+
+Druids often work to preserve the natural world, but some seek to further emulate it. Fungal pilgrims are druids seeking transformation into a more plantlike existence. These unique adherents of nature’s creed see fungi as the means to such ends, as many fungi—particularly those of the Underworld— naturally work their way into the bodies of living creatures.
+
+**Devotion to Ascension (Ex)**: A fungal pilgrim must select the Plant domain for her nature bond if she does not select an animal companion. This alters nature bond.
+
+**Spore Spawning**: At 4th level, a fungal pilgrim who selected the Plant domain for her nature bond gains the ability to grow fungal creatures from the spores of her body. Once per day, when casting a *summon nature’s ally* spell to summon a single creature, the fungal pilgrim can infuse her fungal connection into the casting. The creature summoned must be selected from the *summon nature’s ally* list for 1 spell level lower than the spell cast. For example, if the fungal pilgrim casts *summon nature’s ally III*, she must choose a creature from the list in *summon nature’s ally II*.
+
+Creatures summoned in this manner gain the fungal creature template, except they do not gain the create spawn and poison spore cloud special attacks. A creature summoned in this manner cannot be harvested for its poison.
+
+A druid can use this ability an additional time per day at 6th level and every 2 levels thereafter, for a total of eight times at 18th level. At 20th level, it can be used any number of times per day. This ability replaces wild shape if the fungal pilgrim selected the Plant domain as her nature bond.
+
+**Fungal Companion**: At 4th level, a fungal pilgrim who selected an animal companion for her nature bond initiates a transformation in her companion. The animal companion gains the fungal creature template, but does not gain the create spawn, poison spore cloud, and poisonous blood special attacks. At 10th level, the animal companion gains the poisonous blood special attack. At 14th level, the animal companion gains the poison spore cloud special attack. At 20th level, the animal companion gains the create spawn special attack; created spawn are under the control of the fungal pilgrim. Spawn created in this way last for only 48 hours before rotting away. This ability replaces wild shape if the fungal pilgrim selected an animal companion as her nature bond.
+
+**Mycological Transformation (Ex)**: Fungal spores become fully integrated into the druid’s body, inside and out. At 15th level, she gains all immunities granted by the plant creature type as well as the light sensitivity universal monster rule. She counts as a plant for the purposes of effects that would negatively affect or damage plants. In addition, she no longer needs to eat or sleep in the typical manner, and instead gains the fungal creature’s rejuvenation ability. She can perform her daily meditation during her rejuvenation. This ability replaces timeless body.

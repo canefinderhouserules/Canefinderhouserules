@@ -5,6 +5,7 @@ The magus class spell list appears on the [Magus](../../characters/classes/magus
 ## 0-Level Magus Spells
 
 - **[Detect Fiendish Presence](detect-fiendish-presence.md)**: Detects evil outsiders and their servants.
+- **[Grasp](grasp.md)**: Reattempt a failed Climb check to avoid falling.
 
 ## 1st-Level Magus Spells
 
@@ -115,6 +116,7 @@ The magus class spell list appears on the [Magus](../../characters/classes/magus
 - **[Reinforce Armaments, Communal](reinforce-armaments-communal.md)**: As reinforce armaments, but you may divide the duration among objects touched.
 - **[Reloading Hands](reloading-hands.md)**: Loads a single shot into your weapon every round.
 - **[Returning Weapon, Communal](returning-weapon-communal.md)**: As returning weapon, but you may divide the duration among weapons touched.
+- **[Rock Whip](rock-whip.md)**: Whip of stone ignores stone cover and bull rushes foes it hits.
 - **[Savage Maw](savage-maw.md)**: Your teeth extend and sharpen, transforming your mouth into a maw of razor-sharp fangs.
 - **[Shadow Claws](shadow-claws.md)**: Gain shadow claws that damage Strength
 - **[Shared Training](shared-training.md)**: grant a teamwork feat to allies
@@ -272,6 +274,7 @@ The magus class spell list appears on the [Magus](../../characters/classes/magus
 - **[Shapechanger’s Gift](shapechangers-gift.md)**: Temporarily change a target into an animal, humanoid, or monstrous humanoid.
 - **[Soul-Rending Claws](soul-rending-claws.md)**: Claws grant negative levels
 - **[Soulswitch](soulswitch.md)**: Swap souls with your familiar.
+- **[Surface Excursion](surface-excursion.md)**: Teleport to the surface directly above you, with a beacon to return.
 - **[Symbol of Striking](symbol-of-striking.md)**
 - **[Transplant Visage](transplant-visage.md)**: Wear a stolen face for +10 on Disguise.
 - **[Undead Anatomy II](undead-anatomy-ii.md)**: Take the form and some of the powers of a Tiny or Large undead.

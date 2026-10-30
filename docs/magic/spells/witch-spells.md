@@ -5,6 +5,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 ## 0-Level Witch Spells
 
 - **[Detect Fiendish Presence](detect-fiendish-presence.md)**: Detects evil outsiders and their servants.
+- **[Grasp](grasp.md)**: Reattempt a failed Climb check to avoid falling.
 
 ## 1st-Level Witch Spells
 
@@ -209,6 +210,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Ice Slick](ice-slick.md)**: Coat the area in slippery ice and cold damage
 - **[Identifier's Eye](identifiers-eye.md)**: Detect magic and +5 on Spellcraft to identify items.
 - **[Influence Wild Magic](influence-wild-magic.md)**: Roll twice on wild magic effects and choose.
+- **[Intensify Psyche](intensify-psyche.md)**: +2 on social checks and emotion DCs, –2 on saves against emotion and pain.
 - **[Ironskin](ironskin.md)**: Harden your skin to iron
 - **[Knell of the Depths](knell-of-the-depths.md)**: Curse: the target sinks in water.
 - **[Lay of the Land](lay-of-the-land.md)**: Instantly learn the geography around you.
@@ -244,6 +246,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Recoil Fire](recoil-fire.md)**: Ammunition in the targeted firearm generates excessive recoil.
 - **[Reinforce Armaments, Communal](reinforce-armaments-communal.md)**: As reinforce armaments, but you may divide the duration among objects touched.
 - **[Returning Weapon](returning-weapon.md)**: Grants a weapon the returning special weapon quality.
+- **[Rock Whip](rock-whip.md)**: Whip of stone ignores stone cover and bull rushes foes it hits.
 - **[Rune of Rule](rune-of-rule.md)**: Paint a rune on an ally that grants a one-time boost.
 - **[Scale Spikes](scale-spikes.md)**: Grow armor spikes from scales
 - **[Secret Coffer](secret-coffer.md)**: Small secret chest.
@@ -634,6 +637,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Summon Genie](summon-genie.md)**: Summons a djinni or janni.
 - **[Summoner Conduit](summoner-conduit.md)**: The target takes damage whenever its summoned creature does.
 - **[Sun’s Disdain, Mass](suns-disdain-mass.md)**: As *sun’s disdain*, on multiple creatures.
+- **[Surface Excursion](surface-excursion.md)**: Teleport to the surface directly above you, with a beacon to return.
 - **[Swallow Poison](swallow-poison.md)**: Protect yourself from ingested poison, then spit it out in a cone.
 - **[Symbol of Scrying](symbol-of-scrying.md)**: Triggered rune activates scrying sensor.
 - **[Symbol of Striking](symbol-of-striking.md)**

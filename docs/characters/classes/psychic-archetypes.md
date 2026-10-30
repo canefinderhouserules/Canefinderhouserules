@@ -196,3 +196,23 @@ This replaces the bonus spells normally granted by the psychic's discipline and 
 **Aura of Intimidation (Sp)**: Because he lacks the physical prowess of most orcs, a terror weaver seeks to end fights before they start. At 9th level, he can cast *aura of doom* as a spell-like ability once per day. He can also expend any unused spell slot of 4th level or higher to cast *aura of doom*. Casting the spell using a higher-level spell slot gives no benefit on its own, but the terror weaver can apply metamagic feats that would increase the spell level to the appropriate level. At 11th level, a terror weaver's *aura of doom* causes enemies to become frightened instead of shaken. At 19th level, it causes enemies to become panicked. This replaces telepathic bond and the phrenic amplifications gained at 11th and 19th levels.
 
 **Persistent Nightmare (Sp)**: Half-orcs of the Underworld often suffer from lifetimes of cruelty and abuse, and a terror weaver repays that suffering back onto his tormentors. At 15th level, when he successfully casts a mind-affecting spell on a target, he can spend 2 points from his phrenic pool to afflict the target with a *nightmare* spell the next time it goes to sleep. The day after *nightmare* has taken effect, regardless of the victim's saving throw, the target takes a –2 penalty on Will saves against the terror weaver's mind-affecting spells and abilities for 24 hours. This ability replaces the phrenic amplification gained at 15th level.
+
+## Psychic Marauder
+
+When one encounters aberrant creatures, it can unlock psychic potential within a person, though this experience is traumatic for those who endure it. The psychic marauder’s powers come hand in hand with madness, either from exposure to alien psyches or from terrifying glimpses into the cosmos that the psychic can’t suppress. But she does not crumble under the strain of this insanity; instead, she cordons it off to use as a shield against other psychic intrusions and harnesses it to unleash it upon the world around her.
+
+Psychic marauders in the deepest reaches of the Underworld have often been corrupted by the influence of aboleths or neothelids.
+
+**Alignment**: A psychic marauder must be of nonlawful alignment. A psychic marauder that becomes lawful loses her aura of insanity. However, she retains all other benefits of this archetype.
+
+**Skewed Mentality (Ex)**: At 2nd level, a psychic marauder becomes alienated from reality as others perceive it. The psychic marauder uses her Charisma modifier on Will saves instead of her Wisdom modifier. This ability replaces detect thoughts.
+
+**Aura of Insanity (Su)**: At 3rd level, a psychic marauder’s madness begins to leak out. As a standard action, the psychic marauder can spend 1 point from her phrenic pool to manifest an aura of insanity, letting bits of her psyche penetrate the minds of those around her. The aura is centered on the psychic marauder and has a radius of 10 feet, increasing by 5 feet for every 3 class levels beyond 3rd. Any creature starting its turn within the aura must succeed at a Will save (DC = 10 + half the psychic marauder’s level + the psychic marauder’s Charisma modifier) or be confused for 1 round. The psychic marauder can exclude a number of targets inside the radius equal to 1 + 1 for every 3 class levels beyond 3rd, shielding them from her madness. The aura of insanity lasts for a number of rounds equal to the psychic marauder’s Charisma modifier. This is a mind-affecting effect.
+
+At 11th level, when a creature rolls to determine the effects of a confusion effect while within the aura of insanity, the psychic marauder can spend 1 point from her phrenic pool to force the affected creature to roll twice. The psychic marauder selects which result is used.
+
+At 19th level, when a creature would roll to determine the effects of a confusion effect while within the aura of insanity, the psychic marauder can spend 2 points from her phrenic pool to select the result of the affected creature’s confused condition without rolling. This does not allow the psychic marauder to control how that result is applied. This ability replaces the phrenic amplifications gained at 3rd, 11th, and 19th levels.
+
+**Cracked Perspectives (Ex)**: At 9th level, a psychic marauder’s growing madness renders her immune to confusion and insanity effects. This ability replaces telepathic bond.
+
+**Unreal Understanding (Ex)**: At 20th level, a psychic marauder’s mindset becomes completely aberrant, to the point that no outside force can penetrate her psyche. Because of this, the psychic marauder becomes immune to all mind-affecting effects. This ability replaces remade self.

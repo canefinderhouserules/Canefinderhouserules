@@ -533,3 +533,7 @@ The following traits are for characters hailing from lands where hags and witche
 **Swamp Skulker (Moor native)**: Terrible things prowl the moors of your homeland, and you are all too familiar with hiding or fleeing from them. You gain a +1 trait bonus on Stealth checks when you are in bog, marsh, or swamp terrain, and you treat shallow bogs and swamp undergrowth as normal terrain for the purposes of movement.
 
 **Witch-Tongued (Witch-ruled land native)**: Hailing from a frozen land where witches rule, you deal with others in a cool, calculated way. You gain a +1 trait bonus on Diplomacy checks, and you gain a +1 trait bonus on Intimidate checks against non-witches.
+
+## Underworld Regional Traits
+
+**Cavern Survivor (Underworld native)**: You’ve regularly traversed the upper Underworld and know how to subsist in that lightless realm better than most surface dwellers. You gain a +2 trait bonus on Survival checks to survive in a subterranean wilderness, and Survival is a class skill for you.

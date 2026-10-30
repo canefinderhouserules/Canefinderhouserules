@@ -1291,3 +1291,45 @@ Cruorchymists see their blood as just another tool for their experiments, using 
 **Blood Treatment (Ex)**: As a swift or immediate action, a cruorchymist can take points of Constitution drain; his blood familiar heals 1d6 hit points for each point. This replaces Brew Potion.
 
 **Blood Augmentation (Ex)**: At 4th level, as a swift action, the cruorchymist can take 1 point of Constitution damage to give his familiar an animal aspect for 1 minute, treating his alchemist level as his hunter level. He takes 1 additional point of Constitution damage for each minute beyond the first. At 12th level he can select two animal aspects, taking 2 points of Constitution damage per minute to maintain both.
+
+## Blightseeker
+
+Blightseekers are alchemists devoted to the study of fungi native to the Underworld. While diverse fungi exist on the surface world, the unique combination of environmental conditions found in the Underworld fosters the growth of unpredictable and otherworldly fungal growths.
+
+**Spore Bomb (Su)**: At 1st level, a blightseeker creates a special kind of alchemist bomb that delivers a payload of alchemically engineered fungal spores. These bombs infest their target with a virulent blight (see below). The blightseeker’s bombs deal 1d4 points of damage (instead of 1d6), plus 1d4 points of damage for every 2 alchemist levels beyond 1st.
+
+A creature that takes a direct hit from a spore bomb must succeed at a Fortitude save (DC = 10 + half the blightseeker’s level + his Intelligence modifier) or suffer the associated blight effects. Creatures that take splash damage from the bomb are not affected by the blight. This ability alters bombs.
+
+**Blights (Ex)**: At 1st level, a blightseeker gains the blights from the list below. When he prepares bombs at the start of the day, a blightseeker chooses which blight to apply to each bomb. If a blight has no duration listed, it lasts a number of rounds equal to the blightseeker’s Intelligence modifier. At 1st level, a blightseeker gains the following blights.
+
+*Impairing*: The target’s base land speed decreases by 10 feet, to a minimum of 10 feet. This effect doesn’t stack with itself.
+
+*Minor Sickening*: The target is sickened, but it takes only a –1 penalty on affected rolls.
+
+At 6th level, a blightseeker adds the following blights to the list of those that can be applied to his bombs.
+
+*Fatiguing*: The target is fatigued.
+
+*Fear-Inducing*: The target is shaken.
+
+*Sickening*: The target is sickened.
+
+At 12th level, a blightseeker adds the following blights to the list of those blights that can be applied to his bombs.
+
+*Confusing*: The target is confused.
+
+*Exhausting*: The target is exhausted.
+
+*Nauseating*: The target is nauseated for 1 round.
+
+*Staggering*: The target becomes staggered for 1 round.
+
+At 18th level, a blightseeker adds the following blights to the list of those that can be selected.
+
+*Blinding*: The target is blinded.
+
+*Deafening*: The target is deafened.
+
+*Stunning*: The target is stunned for 1 round. This ability replaces the discoveries gained at 6th, 12th, and 18th levels.
+
+**Blight Engineering (Ex)**: At 14th level, a blightseeker can apply two blights that he knows to each spore bomb he creates. This ability replaces persistent mutagen.

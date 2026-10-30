@@ -100,6 +100,7 @@ New alchemist spells from *Ultimate Magic* and *Ultimate Combat*. Spells from ot
 - **[Poison Exchange](poison-exchange.md)**: Swallow one poison and regurgitate another.
 - **[Pouncing Fury](pouncing-fury.md)**: Make a full attack with your claws after a charge.
 - **[Quick Change](quick-change.md)**: Use change shape as a swift action and surprise foes.
+- **[Radiation Ward](radiation-ward.md)**: +4 on saves against radiation; sense radiation levels.
 - **[Scale Spikes](scale-spikes.md)**: Grow armor spikes from scales
 - **[Shadow Bomb Admixture](shadow-bomb-admixture.md)**: Empowers bombs you throw to cover the target with a shadowy substance that grants it concealment and limits its vision.
 - **[Shaper’s Touch](shapers-touch.md)**: Reshape an object as though it were clay.
@@ -183,6 +184,7 @@ New alchemist spells from *Ultimate Magic* and *Ultimate Combat*. Spells from ot
 - **[Bit of Luck](bit-of-luck.md)**: reservoir of luck points for attack rolls and skill checks
 - **[Blightburn Weapon](blightburn-weapon.md)**: Turn a weapon into radioactive blightburn.
 - **[Caustic Blood](caustic-blood.md)**: Wounds spray acid at attackers.
+- **[Concealed Breath](concealed-breath.md)**: Touched creatures need not breathe.
 - **[Crimson Breath](crimson-breath.md)**: Spit a dose of breath of the assassin poison.
 - **[Darkvision, Greater](darkvision-greater.md)**: See 120 ft. in total darkness.
 - **[Decollate](decollate.md)**: A target can safely remove its head.

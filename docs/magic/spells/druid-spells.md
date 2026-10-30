@@ -7,6 +7,7 @@
 - **[Detect Magic](detect-magic.md)**: Detects spells and magic items within 60 ft.
 - **[Detect Poison](detect-poison.md)**: Detects poison in one creature or object.
 - **[Flare](flare.md)**: Dazzles one creature (–1 penalty on attack rolls).
+- **[Grasp](grasp.md)**: Reattempt a failed Climb check to avoid falling.
 - **[Guidance](guidance.md)**: +1 on one attack roll, saving throw, or skill check.
 - **[Know Direction](know-direction.md)**: You discern north.
 - **[Light](light.md)**: Object shines like a torch.
@@ -185,18 +186,21 @@
 - **[Outbreak](outbreak.md)**: Make diseased creatures contagious
 - **[Overstimulate](overstimulate.md)**: Grant ferocity to keep a creature conscious
 - **[Owl’s Wisdom](owls-wisdom.md)**: Subject gains +4 to Wis for 1 min./level.
+- **[Pale Flame](pale-flame.md)**: As produce flame, but dim and deals 2d6 + 1/level.
 - **[Pinecone Bomb](pinecone-bomb.md)**: A thrown pinecone explodes for piercing damage.
 - **[Planetarium](planetarium.md)**: Project the night sky.
 - **[Plant Voice](plant-voice.md)**: A plant creature can speak and understand your languages.
 - **[Poison Exchange](poison-exchange.md)**: Swallow one poison and regurgitate another.
 - **[Pouncing Fury](pouncing-fury.md)**: Make a full attack with your claws after a charge.
 - **[Quick Change](quick-change.md)**: Use change shape as a swift action and surprise foes.
+- **[Radiation Ward](radiation-ward.md)**: +4 on saves against radiation; sense radiation levels.
 - **[Recentering Drone](recentering-drone.md)**: Targets ignore or reduce the penalties of debilitating conditions.
 - **[Reduce Animal](reduce-animal.md)**: Shrinks one willing animal.
 - **[Resist Energy](resist-energy.md)**: Ignores 10 or more points of damage per attack from specified energy type.
 - **[Restful Cloak](restful-cloak.md)**: Turn your cloak into a healing tent.
 - **[Restoration, Lesser](restoration-lesser.md)**: Dispels magical ability penalty or repairs 1d4 ability damage.
 - **[Riversight](riversight.md)**: Scry along a river you touch.
+- **[Rock Whip](rock-whip.md)**: Whip of stone ignores stone cover and bull rushes foes it hits.
 - **[Savage Maw](savage-maw.md)**: Your teeth extend and sharpen, transforming your mouth into a maw of razor-sharp fangs.
 - **[Scale Spikes](scale-spikes.md)**: Grow armor spikes from scales
 - **[Scamper](scamper.md)**: Grant your animal companion astonishing agility.
@@ -350,6 +354,7 @@
 - **[Claim Identity](claim-identity.md)**: Steal a touched humanoid’s face and identity.
 - **[Cloud Shape](cloud-shape.md)**: This spell functions like gaseous form, except you assume the shape of a Colossal cloud with a space of 30.
 - **[Command Plants](command-plants.md)**: Sways the actions of plant creatures.
+- **[Concealed Breath](concealed-breath.md)**: Touched creatures need not breathe.
 - **[Control Water](control-water.md)**: Raises or lowers bodies of water.
 - **[Create Holds](create-holds.md)**: Creates a path of climbing handholds on a wall.
 - **[Crimson Breath](crimson-breath.md)**: Spit a dose of breath of the assassin poison.
@@ -537,6 +542,7 @@
 - **[Heal](heal.md)**: Cures 10 points/level damage, all diseases and mental conditions.
 - **[Infuse Robot](infuse-robot.md)**: Turn a robot into a magical construct you command.
 - **[Legendary Proportions](legendary-proportions.md)**: Increase a creature's size category with large bonuses.
+- **[Morning Sun](morning-sun.md)**: Sphere of sunlight staggers creatures harmed by sunlight and burns what it touches.
 - **[Planar Refuge](planar-refuge.md)**: A pocket of Material Plane wilderness on another plane.
 - **[Plundered Power](plundered-power.md)**: Kill a creature and steal its strongest spell-like ability.
 - **[Scrying, Greater](scrying-greater.md)**: As *scrying*, but faster and longer.
@@ -558,6 +564,7 @@
 - **[Curse of Night](curse-of-night.md)**: Curse an area with eternal night.
 - **[Curse Terrain, Supreme](curse-terrain-supreme.md)**: Curse an area with seven deadly hazards.
 - **[Earthquake](earthquake.md)**: Intense tremor shakes 80-ft.-radius.
+- **[Entomb](entomb.md)**: Sinks an area deep underground inside a sealed vault.
 - **[Fey Form IV](fey-form-iv.md)**: Assume the form of a powerful fey creature.
 - **[Fey Gate](fey-gate.md)**: Create a portal that allows travel to the First World.
 - **[Finger of Death](finger-of-death.md)**: Deals 10 damage/level to one subject.

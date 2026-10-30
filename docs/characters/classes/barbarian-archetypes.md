@@ -965,3 +965,17 @@ The following rage powers can be selected by any barbarian or skald who is at le
 **Tide of Fury (Su)**: When the barbarian rages, enemies find it difficult to escape the vortex of her fury. As a full-round action while raging, she can attempt a single combat maneuver check against each creature within 10 feet of her. If her roll equals or exceeds a creature's CMD, she moves that creature 5 feet closer to her. Once per day after attempting this maneuver, she can attack each adjacent creature as a free action as if using the Whirlwind Attack feat. If she has the Whirlwind Attack feat, she can also use it as a free action in this way one additional time per day.
 
 **Purifying Pyre (Su)**: The barbarian visibly burns with an inner flame that consumes all impurities affecting her. Each round that she rages reduces the duration of negative spells and effects inflicted upon her as if 2 rounds had passed (no effect on the duration of such effects against other creatures). Once per day, she can expend 5 rounds of rage to attempt a new saving throw against each nonpermanent effect currently affecting her. Each successful saving throw ends the related effect, and she can choose not to make a save against an effect.
+
+## Beastkin Berserker
+
+While some barbarians take on bestial aspects in their rages, the beastkin berserker descends so deeply into primal fury that she actually transforms into an animal. Berserkers of the surface world often associate with predators such as bears or wolves, and are sometimes mistaken for lycanthropes. Some barbarians of the deep caverns shapechange into rampaging dinosaurs or megafauna, crafting their armor out of the hide and bones of their favored animals.
+
+**Savage Rapport (Ex)**: At 1st level, a beastkin berserker gains a spiritual connection to a specific kind of creature with the animal type (such as a badger or a triceratops). She adds half her level (minimum 1) on Handle Animal, Intimidate, and Sense Motive checks involving the chosen type of animal.
+
+At 5th level and every 5 levels thereafter (10th, 15th, and 20th levels), the beastkin berserker can select an additional kind of animal to which these bonuses apply. This ability replaces fast movement.
+
+**Feral Transformation (Su)**: At 4th level, when entering a rage, a beastkin berserker can take the form of a Small or Medium animal. This functions as *beast shape I*, except the duration is for as long as the beastkin berserker rages and the animal must be one she has chosen with her savage rapport.
+
+At 8th level, the beastkin berserker can use feral transformation to take the form of a Large or Tiny animal that she has chosen with her savage rapport. Feral transformation now acts as *beast shape II*.
+
+At 12th level, a beastkin berserker is able to use feral transformation to take the form of a Huge or Diminutive animal that she has chosen with her savage rapport. Feral transformation now functions as *beast shape III*. This ability replaces the rage powers gained at 4th, 8th, and 12th levels.

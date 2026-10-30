@@ -8,6 +8,7 @@
 - **[Detect Magic](detect-magic.md)**: Detects spells and magic items within 60 ft.
 - **[Flare](flare.md)**: Dazzles one creature (–1 on attack rolls).
 - **[Ghost Sound](ghost-sound.md)**: Figment sounds.
+- **[Grasp](grasp.md)**: Reattempt a failed Climb check to avoid falling.
 - **[Haunted Fey Aspect](haunted-fey-aspect.md)**: You surround yourself with disturbing illusions.
 - **[Know Direction](know-direction.md)**: You discern north.
 - **[Light](light.md)**: Object shines like a torch.
@@ -88,6 +89,7 @@
 - **[Incessant Buzzing](incessant-buzzing.md)**: Illusory wasp swarm disrupts concentration
 - **[Instant Clot](instant-clot.md)**: end bleeding and stop blood flowing from wounds
 - **[Instant Portrait](instant-portrait.md)**: Paint a quick monochrome portrait.
+- **[Intensify Psyche](intensify-psyche.md)**: +2 on social checks and emotion DCs, –2 on saves against emotion and pain.
 - **[Itching Curse](itching-curse.md)**: Itch gives –1 penalty unless scratched.
 - **[Jitterbugs](jitterbugs.md)**: School illusion (figment) [mind-affecting]; Level bard 1, sorcerer/wizard 2 Casting Time 1 standard action.
 - **[Jury-Rig](jury-rig.md)**: Removes the broken condition from the targeted object.
@@ -123,6 +125,7 @@
 - **[Secret Speech](secret-speech.md)**: Send hidden messages within normal speech.
 - **[See Alignment](see-alignment.md)**: Pick an alignment; in your sight, creatures and items with that alignment emit a ghostly radiance.
 - **[Shadow Trap](shadow-trap.md)**: pins the target's shadow so it is entangled
+- **[Shadowfade](shadowfade.md)**: Target is invisible to darkvision in darkness.
 - **[Silent Image](silent-image.md)**: Creates minor illusion of your design.
 - **[Skim](skim.md)**: read in a quarter of the time
 - **[Sleep](sleep.md)**: Puts 4 HD of creatures into magical slumber.
@@ -254,6 +257,7 @@
 - **[Lay of the Land](lay-of-the-land.md)**: Instantly learn the geography around you.
 - **[Light Prison](light-prison.md)**: Cage of light damages and blinds those who leave it.
 - **[Locate Object](locate-object.md)**: Senses direction toward object (specific or type).
+- **[Mage's Crawl Space](mages-crawl-space.md)**: Merge into stone inside a 5-ft. pocket of air.
 - **[Matchmaker](matchmaker.md)**: Cause two creatures to fall in love.
 - **[Mental Block](mental-block.md)**: Prevent the target from using its skill ranks, spells, feats, and abilities.
 - **[Minor Image](minor-image.md)**: As *silent image*, plus some sound.
@@ -432,6 +436,7 @@
 - **[Shifting Shadows](shifting-shadows.md)**: Shadows make flanking and attacks of opportunity unreliable.
 - **[Shroud of Innocuity](shroud-of-innocuity.md)**: Targets appear as ordinary locals to every viewer.
 - **[Silt Sphere](silt-sphere.md)**: illusory silt cloud that grants concealment
+- **[Skyshroud](skyshroud.md)**: Shows the real sky above you, even underground.
 - **[Slow](slow.md)**: One subject/level takes only one action/round, –1 to AC, Reflex saves, and attack rolls.
 - **[Speak with Animals](speak-with-animals.md)**: You can communicate with animals.
 - **[Spotlight](spotlight.md)**: bright light on a target suppresses nearby light and ruins its Stealth

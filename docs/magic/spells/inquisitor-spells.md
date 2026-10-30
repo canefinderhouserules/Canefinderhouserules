@@ -70,6 +70,7 @@ New inquisitor spells from *Ultimate Magic*. Spells from other books will be add
 - **[Scarify](scarify.md)**: Convert lethal damage to nonlethal, leaving scars
 - **[Secret Sign](secret-sign.md)**: Invisibly mark a creature or object for designated viewers.
 - **[Secret Speech](secret-speech.md)**: Send hidden messages within normal speech.
+- **[Shadowfade](shadowfade.md)**: Target is invisible to darkvision in darkness.
 - **[Skim](skim.md)**: read in a quarter of the time
 - **[Speak Local Language](speak-local-language.md)**: Speak and understand one known regional human language.
 - **[Speechreader's Sight](speechreaders-sight.md)**: Read the lips of speakers within 100 ft.
@@ -399,6 +400,7 @@ New inquisitor spells from *Ultimate Magic*. Spells from other books will be add
 - **[Knock, Mass](knock-mass.md)**: Open many locks or closures at once
 - **[Litany of Madness](litany-of-madness.md)**: A single target is confused for at least 1 round.
 - **[Lost Legacy](lost-legacy.md)**: Others forget positive interactions with the target.
+- **[Morning Sun](morning-sun.md)**: Sphere of sunlight staggers creatures harmed by sunlight and burns what it touches.
 - **[Named Bullet, Greater](named-bullet-greater.md)**: As named bullet, but deals 2 points of damage per caster level.
 - **[Neutralize Poison, Greater](neutralize-poison-greater.md)**: As neutralize poison, but it also reverses poison damage.
 - **[Overwhelming Presence](overwhelming-presence.md)**: Creatures bow before you as if you were divine.

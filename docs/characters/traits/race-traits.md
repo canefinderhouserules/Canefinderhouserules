@@ -40,6 +40,8 @@ Only dwarfs may select one of these traits.
 
 **Fungal Brewing**: You gain a +2 trait bonus on Craft checks to create alchemical items, and can create nonmagical alchemical materials in 20% less time than normal.
 
+**Ancestral Grounds**: You recall the dangers the dwarves faced during their ancient migration from the Underworld to the surface. You gain a +1 trait bonus on Knowledge (dungeoneering) checks and a +2 trait bonus on Knowledge (history) checks pertaining to that migration. Select one of these skills to be a class skill for you.
+
 ## Elf Traits
 
 Only elfs may select one of these traits.
@@ -65,6 +67,8 @@ Only elfs may select one of these traits.
 **Snowblooded** *(arctic elves)*: Your family has a long tradition of producing excellent sentries and envoys. You gain a +4 trait bonus on Fortitude saving throws made to avoid nonlethal damage from cold environments, and gain a +1 trait bonus on saving throws against spells with the cold descriptor.
 
 **Wild Stride**: Choose a favored terrain from those listed in the ranger favored terrain class ability. You can move through naturally occurring difficult terrain without any penalty while within your favored terrain. Terrain created or modified by magic or traps affects you normally.
+
+**Keeper of the Secret Shame**: You are a member of an elven order sworn to secrecy, tasked with ensuring that knowledge of the elves’ secret shame—the drow—never reaches the surface. You gain a +2 trait bonus on Knowledge checks pertaining to drow and drow settlements.
 
 ## Gnome Traits
 

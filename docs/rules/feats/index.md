@@ -1549,6 +1549,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Ascetic Strike](ascetic-strike.md) | Combat | Ascetic Form, Ascetic Style, Weapon Focus with the chosen weapon, base attack bonus +7 or monk level 7th |
 | [Ascetic Style](ascetic-style.md) | Combat, Style | Weapon Focus with the chosen melee weapon, base attack bonus +1 or monk level 1st |
 | [Assassins' Guild Collaborator](assassins-guild-collaborator.md) | — | Associate (an assassins' guild) |
+| [Assisted Ascension](assisted-ascension.md) | Teamwork | Climb 5 ranks |
 | [Associate](associate.md) | — | You maintain a positive relationship with an organization for at least 6 months or achieve a major accomplishment on behalf of an organization. |
 | [Assured Destruction](assured-destruction.md) | — | Empowered Daemonic Pact, urdefhan |
 | [Astrological Timing](astrological-timing.md) | General | Ability to cast *augury* as a spell or spell-like ability |
@@ -1558,6 +1559,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Atheist Abjurations](atheist-abjurations.md) | — | Divine Defiance |
 | [Augment Calling](augment-calling.md) | General | Spell Focus (conjuration); ability to cast lesser planar ally, lesser planar binding, or a higher-level version of these spells |
 | [Aura of Succumbing](aura-of-succumbing.md) | — | Channel energy class feature, worshiper of a deity of death or plague |
+| [Aural Insight](aural-insight.md) | — | Blind-Fight, Improved Blind-Fight, Perception 10 ranks |
 | [Auspicious Birth](auspicious-birth.md) | — | Must be taken at 1st level |
 | [Authoritative Spell](authoritative-spell.md) | Metamagic | — |
 | [Aversion Tolerance](aversion-tolerance.md) | — | Vampire |
@@ -2442,6 +2444,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Nameless One](nameless-one.md) | — | — |
 | [Nanite Disruption](nanite-disruption.md) | Android | Nanite surge racial trait |
 | [Narrow Frame](narrow-frame.md) | — | Escape Artist 1 rank, animal or magical beast |
+| [Natural Pathseeker](natural-pathseeker.md) | — | Favored terrain class feature |
 | [Natural Ruler](natural-ruler.md) | — | Hold a leadership role related to running a kingdom |
 | [Nature Soul](nature-soul.md) | — | — |
 | [Nature's Wrath](natures-wrath.md) | — | Int 1, any nongood alignment, plant type |
@@ -2457,6 +2460,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Numbing Blow](numbing-blow.md) | Combat | Int 13, Str 13, Combat Expertise, Improved Disarm, Power Attack |
 | [Oath of the Unbound](oath-of-the-unbound.md) | — | Worshiper of a deity of destruction or freedom |
 | [Obliviating Stare](obliviating-stare.md) | Stare | Allure bold stare improvement, hypnotic stare class feature, mesmerist level 5th |
+| [Obscuring Beacon](obscuring-beacon.md) | Combat | — |
 | [Occult Conduit](occult-conduit.md) | — | Caster level 5th, implements class feature, mental focus class feature, wyrwood |
 | [Octopus Focus](octopus-focus.md) | Combat | Dex 13, Dodge, Octopus Style*, Acrobatics 3 ranks, Perception 3 ranks |
 | [Octopus Style](octopus-style.md) | Combat, Style | Dex 13, Dodge, Improved Unarmed Strike, Acrobatics 1 rank, Perception 1 rank |
@@ -2670,6 +2674,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Sculpting the River](sculpting-the-river.md) | Combat, Combination | Dodge, Improved Unarmed Strike, base attack bonus +6 or monk level 6th |
 | [Scurrying Swarmer](scurrying-swarmer.md) | Combat | Ratfolk, swarming racial trait |
 | [Scuttle](scuttle.md) | — | — |
+| [Searing Distraction](searing-distraction.md) | Combat | Catch Off-Guard |
 | [Second Wind](second-wind-feat.md) | Combat, Performance | Endurance |
 | [Secret Language](secret-language.md) | Teamwork | Bluff 1 rank, Linguistics 1 rank, Sense Motive 1 rank |
 | [Secret of Magical Discipline](secret-of-magical-discipline.md) | — | Secret class feature |
@@ -2684,6 +2689,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Sense Assumptions](sense-assumptions.md) | — | Sense Motive 3 ranks |
 | [Sense Loyalties](sense-loyalties.md) | — | Knowledge (nobility) 1 rank, Knowledge (religion) 1 rank |
 | [Sense Magical Interrogation](sense-magical-interrogation.md) | — | Sense Motive 3 ranks, Spellcraft 3 ranks |
+| [Sense Metals and Minerals](sense-metals-and-minerals.md) | — | — |
 | [Sense Relationships](sense-relationships.md) | — | Street Smarts |
 | [Sensory Control](sensory-control.md) | Meditation | Wis 15, Blind-Fight, [Meditation Master](meditation-master.md) |
 | [Serpentine Compression](serpentine-compression.md) | — | Serpentfolk |
@@ -2945,6 +2951,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Teleportation Mastery](teleportation-mastery.md) | Item Mastery | Use Magic Device 4 ranks, base Fortitude save bonus +6 |
 | [Tempting Bargain](tempting-bargain.md) | — | Unchained summoner level 1st, eidolon class feature |
 | [Tenacious Spell](tenacious-spell.md) | Metamagic | — |
+| [Terrain Celerity](terrain-celerity.md) | — | Favored enemy class feature, favored terrain class feature |
 | [Terrifying Assassination](terrifying-assassination.md) | — | Assassinate ninja master trick, assassinate slayer advanced talent, or death attack |
 | [Terrifying Assault](terrifying-assault.md) | Combat | Frightening Ambush, Intimidate 5 ranks |
 | [Terrifying Mask](terrifying-mask.md) | — | Cha 13, Monstrous Mask, tiefling |
@@ -2970,6 +2977,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Toxic Secretions](toxic-secretions.md) | — | Grippli, toxic skin alternate racial trait |
 | [Toxic Spray](toxic-spray.md) | Combat | Spit Venom, Viscous Venom, nagaji |
 | [Toxicological Timing](toxicological-timing.md) | — | Craft (alchemy) 9 ranks |
+| [Tracer Fire](tracer-fire.md) | Combat | Point-Blank Shot, Precise Shot |
 | [Trailblazing Channel](trailblazing-channel.md) | — | Channel energy 3d6, worshiper of a deity of dreams and travelers |
 | [Train Plants](train-plants.md) | — | Handle Animal 5 ranks, Knowledge (nature) 5 ranks |
 | [Treacherous Toxin](treacherous-toxin.md) | — | Base attack bonus +5, sneak attack class feature |

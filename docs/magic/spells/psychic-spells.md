@@ -13,6 +13,7 @@ Psychics gain access to the following spells. Spells without a link come from ot
 - **[Detect Psychic Significance](detect-psychic-significance.md)**: Find psychically charged items.
 - **[Flare](flare.md)**: Dazzles one creature (–1 penalty on attack rolls).
 - **[Ghost Sound](ghost-sound.md)**: Figment sounds.
+- **[Grasp](grasp.md)**: Reattempt a failed Climb check to avoid falling.
 - **[Grave Words](grave-words.md)**: Force a corpse to babble.
 - Haunted Fey Aspect
 - **[Know Direction](know-direction.md)**: You discern north.
@@ -192,6 +193,7 @@ Psychics gain access to the following spells. Spells without a link come from ot
 - **[Ancestral Revision](ancestral-revision.md)**: a wayang appears as a gnome-like version of herself
 - **[Animal Messenger](animal-messenger.md)**: Sends a Tiny animal to a specific place.
 - **[Animal Trance](animal-trance.md)**: Fascinates 2d6 HD of animals.
+- **[Animus Mine](animus-mine.md)**: Psychic mine damages and staggers creatures that use mind-affecting effects on you.
 - **[Anonymous Interaction](anonymous-interaction.md)**
 - Ant Haul, Communal
 - **[Anticipate Thoughts](anticipate-thoughts.md)**: Gain increasing bonuses to AC and on attack rolls and damage rolls against one creature.
@@ -285,6 +287,7 @@ Psychics gain access to the following spells. Spells without a link come from ot
 - **[Inflict Pain](inflict-pain.md)**: Target takes a –4 penalty on attack rolls, skill checks, and ability checks.
 - **[Instant Armor](instant-armor.md)**: Summon armor temporarily replacing your current attire.
 - **[Instigate Psychic Duel](instigate-psychic-duel.md)**: Start a psychic duel between yourself and another creature.
+- **[Intensify Psyche](intensify-psyche.md)**: +2 on social checks and emotion DCs, –2 on saves against emotion and pain.
 - **[Investigative Mind](investigative-mind.md)**
 - **[Invisibility](invisibility.md)**: Subject is invisible for 1 min./level or until it attacks.
 - Ironskin
@@ -717,6 +720,7 @@ Psychics gain access to the following spells. Spells without a link come from ot
 ## 5th-Level Psychic Spells
 
 - Absorb Toxicity
+- **[Animus Mine, Greater](animus-mine-greater.md)**: As animus mine, but the mine stuns.
 - **[Apathy](apathy.md)**: A target loses interest in a chosen pursuit.
 - **[Appearance of Life, Greater](appearance-of-life-greater.md)**: Perfectly disguise any undead creature as a living one
 - **[Arcana Theft](arcana-theft.md)**: Targeted dispel transfers an effect to you.
@@ -823,6 +827,7 @@ Psychics gain access to the following spells. Spells without a link come from ot
 - **[Suggestion, Mass](suggestion-mass.md)**: As *suggestion,* affects 1 subject/level.
 - **[Summon Monster V](summon-monster-v.md)**: Summons extraplanar creature to fight for you.
 - Summoner Conduit
+- **[Surface Excursion](surface-excursion.md)**: Teleport to the surface directly above you, with a beacon to return.
 - **[Synapse Overload](synapse-overload.md)**: Deal 1d6 points of damage per level and stagger target for 1 minute.
 - **[Synaptic Pulse, Greater](synaptic-pulse-greater.md)**: As synaptic pulse, but for 1d4 rounds.
 - **[Telepathy](telepathy.md)**: Communicate mentally with creatures within 100 ft.

@@ -6627,3 +6627,130 @@ Once per day, the driver of a planar carriage can attempt to transport the carri
 When the carriage arrives on another plane, it grants its occupants the benefits of *planar adaptation* for that plane as long as the occupants remain within the carriage; the carriage itself also gains those benefits. A planar carriage can grant the benefits of *planar adaptation* for only one plane at a time, so when the carriage moves to a different plane, the benefits from *planar adaptation* change accordingly. Occupants who are native to the plane the planar carriage is on do not gain any benefits from *planar adaptation*.
 
 **Construction Requirements:** Craft Wondrous Item, *gate*, *haste*, *planar adaptation*, creator must have at least 5 ranks in Knowledge (engineering); **Cost** 60,850 gp
+
+## Underworld Items
+
+### Blightburn Arrow
+
+**Slot** none; **CL** 7th; **Price** 3,000 gp; **Weight** 1/10 lb.
+
+**Aura** moderate evocation and necromancy
+
+This *+2 arrow* is fitted with a head of pure, crystallized blightburn. Unless contained in a lead-lined case or quiver, the arrow deals 1 point of fire damage per round to the creature carrying it. If the arrow hits, the arrowhead embeds itself in the target, dealing an additional 3d6 points of fire damage. The arrow continues to deal 2d6 points of fire damage each round for the following 6 rounds unless it’s pulled out as a move action. A creature taking recurring damage from a *blightburn arrow* also suffers from low-level blightburn radiation as long as the arrow remains embedded. An arrow that misses its target can be recovered as normal, but an arrow removed after hitting a target is destroyed.
+
+**Construction Requirements:** Craft Magic Arms and Armor, *fester, fireball*; **Cost** 1,500 gp
+
+### Amulet of Radiation Absorption
+
+**Slot** neck; **CL** 10th; **Price** 45,000 gp; **Weight** 1 lb.
+
+**Aura** moderate abjuration and conjuration
+
+This amulet features a large, ragged stone that was harvested from highly radioactive regions of the Underworld and that glows with a faint green light. The wearer is rendered immune to the effects of all forms of radiation. Additionally, for each minute the wearer is exposed to radiation, the amulet absorbs 1 charge of radioactive energy. The amulet can hold up to 5 charges. Charges naturally dissipate at a rate of 1 charge per 24 hours. As a standard action, the wearer can expend 1 charge in order to fire a ray of concentrated radiation from the amulet. Treat this as a ranged touch attack with a range of 60 feet. The wearer can choose any one of the following effects, as outlined below.
+
+*Blightburn*: The target takes 6d6 points of fire damage.
+
+*Caphorite*: The target must succeed at a DC 14 Fortitude save or be blinded for 1d4 rounds.
+
+*Lazurite*: The target takes 2d6 points of negative energy damage, and if it dies in the next hour, there is a 50% chance it rises as a ghoul 1d4 rounds later.
+
+*Surface*: The target takes 1d2 points of Strength and Constitution damage.
+
+**Construction Requirements:** Craft Wondrous Item, *radiation ward, remove radioactivity*; **Cost** 22,500 gp
+
+### Cavern Compass
+
+**Slot** none; **CL** 11th; **Price** 15,000 gp; **Weight** 1 lb.
+
+**Aura** moderate divination
+
+Made specifically for those who frequently navigate the mazelike tunnels that wind throughout the upper Underworld, these compasses are made from stone sourced from the Underworld. However, instead of featuring the four cardinal directions, the compass’s circumference is adorned with several small pictographs. To use a *cavern compass*, the bearer must be at an intersection of tunnels or caverns somewhere underground, and must hold it in his hand and speak the name of his desired destination. The destination must be well known enough to be likely to appear on a map of the area, such as a settlement or a prominent ruin, or else must be a location with which the holder is intimately familiar. For the next mile, the needle of the cavern compass points down whichever passageway most efficiently leads to the chosen destination.
+
+Additionally, if the passage contains any of the following hazards over the course of 1 mile, a corresponding pictograph glows with a faint light: magma, molds or slimes, radiation, sudden vertical passages, or water hazards. If a passage further splits into multiple pathways within 1 mile, the *cavern compass* selects whichever one results in being closest to the destination after 1 mile and provides information about hazards only down that route.
+
+**Construction Requirements:** Craft Wondrous Item, *find the path*; **Cost** 7,500 gp
+
+### Earthquake Boots
+
+**Slot** feet; **CL** 15th; **Price** 67,500 gp; **Weight** 1 lb.
+
+**Aura** strong evocation
+
+These thick hide boots allow the wearer to detect unseen enemies, and they provide a final line of defense against overwhelming foes. The wearer gains tremorsense with a range of up to 60 feet as long as she is standing on solid ground. Additionally, once per day, by stomping repeatedly on an earthen or stone surface as a full-round action that provokes attacks of opportunity, the wearer can cast *earthquake* as a spell-like ability.
+
+**Construction Requirements:** Craft Wondrous Item, *earthquake, see invisibility*; **Cost** 33,750 gp
+
+### Ghoulbane Belt
+
+**Slot** belt; **CL** 7th; **Price** 20,000 gp; **Weight** 1 lb.
+
+**Aura** moderate conjuration
+
+Due to the toxic nature of many environments found within the Underworld, this belt is designed to protect its wearer from exotic diseases, paralyzing attacks, and poisonous molds. The wearer gains a +2 bonus on saving throws to resist disease, paralysis, and poison. This bonus increases to +4 on saving throws to resist such effects caused by molds or slimes. Additionally, the wearer can cast a single spell from the following list as a spell-like ability once per day: *neutralize poison, remove disease*, or *remove paralysis*. Activating this ability is a purely mental action that can be taken even while paralyzed or otherwise helpless. The chosen spell affects only the belt’s wearer.
+
+**Construction Requirements:** Craft Wondrous Item, *neutralize poison, remove disease, remove paralysis*; **Cost** 10,000 gp
+
+### Helm of Ooze
+
+**Slot** head; **CL** 10th; **Price** 21,500 gp; **Weight** 3 lbs.
+
+**Aura** moderate enchantment
+
+This bulky, rusted helm incorporates a pair of goggles that sit on the wearer’s brow. The wearer of a *helm of ooze* gains a limited ability to telepathically command oozes. Once per day as a standard action, the wearer can attempt to gain control over a single ooze within 60 feet. The ooze must succeed at a DC 17 Will save or fall under the wearer’s mental control. This compulsion affects even mindless oozes. The control offered by the helm is very limited, and the wearer is able to issue only one of the following commands at a time, as a move action, to a controlled ooze within 60 feet.
+
+*Attack*: The ooze attacks the nearest creature.
+
+*Halt*: The ooze remains in place. It does not take any actions but is not considered helpless.
+
+*Move*: The ooze moves toward a point in space that the wearer can see.
+
+The wearer can control up to 20 Hit Dice worth of oozes at any given time. An ooze with 5 or more Hit Dice can attempt a new Will save each day to free itself from the wearer’s control. An ooze ordered to halt receives a new Will save to overcome the helm’s control if attacked. Oozes with an Intelligence score, as well as those with 11 or more Hit Dice, are immune to this effect.
+
+The wearer can issue a command to multiple controlled oozes with a single move action, but if she does, each ooze receives the same command. Oozes that have been issued a command continue to follow that command until a new command is issued or they are released from the helm’s control. Removing the helm does not release the oozes from control, but the helm must be worn to issue new commands. If 24 hours pass without the helm being worn, then all affected oozes are released from control.
+
+**Construction Requirements:** Craft Wondrous Item, *greater command*; **Cost** 10,750 gp
+
+### Polychrome Cover
+
+**Slot** none; **CL** 7th; **Price** 2,000 gp; **Weight** 4 lbs.
+
+**Aura** moderate illusion
+
+This multicolored tarp is made from intricately woven cloth that gives its exterior the texture of stonework. It covers a 10-foot-by-10-foot area and can be placed vertically, magically supporting its own weight. A *polychrome cover* magically takes on the same coloration of nearby stone, imitating any terrain it’s in contact with. The coloration of the cover is an illusion effect that can be disbelieved (Will DC 16). Those who successfully disbelieve the effect instead see the cover’s true coloration.
+
+When a *polychrome cover* is crafted, the maker designates any number of creatures present at its creation to be immune to the cover’s illusory effect. The crafter can instead exclude a specific race from the item’s illusion. Most *polychrome covers* are set to exclude svirfneblin.
+
+**Construction Requirements:** Craft Wondrous Item, *hallucinatory terrain*; **Cost** 1,000 gp
+
+### Robe of Magma
+
+**Slot** body; **CL** 15th; **Price** 112,000 gp; **Weight** 1 lb.
+
+**Aura** strong conjuration
+
+These striking black robes are lined with glowing cracks, and resemble flows of partially cooled magma. They allow the wearer not only to survive within areas of lava and magma, but also to conjure molten rock from the earth. The wearer gains fire resistance 20 and immunity to fire damage from lava and magma. Additionally, while submerged in lava or magma, the wearer can breathe normally, gains a +5 bonus on Swim checks, and can see through the substance as clearly as if it were water.
+
+Once per day as a full-round action, the wearer of a *robe of magma* can conjure a great burst of magma from deep below the surface. This ability can be used only while the wearer is on the Material Plane, and only while on solid ground on a planetary body. The deeper beneath a planet’s surface the wearer is, the sooner the magma arrives. If the wearer uses this ability while 8,000 feet (or more) below the surface, the magma arrives instantaneously. If she uses it between 2,000 and 8,000 feet below the surface, the magma arrives at the beginning of the wearer’s next turn. If she uses it on the surface or down to 2,000 feet below the surface, the magma arrives in 1d4 rounds. Once the magma arrives, it bursts from the ground in a geyser that sprays up to 40 feet in height and showers a 20-foot radius centered on the location of the wearer when this ability was activated. This deals 20d6 points of fire damage to creatures in the area (Reflex DC 22 half) and creates a shallow pool of lava in the area of the burst. The magma geyser continues for 1d3 rounds. For each round that the geyser continues, the pool of lava expands its radius by 10 feet. Creatures that enter the pool of lava or begin their turn in this area take 2d6 points of fire damage. Once the magma geyser stops, this pool cools and hardens over the course of 1d3 rounds. The magma arrives through an extradimensional space and does not impact any features or terrain located under its point of conjuration.
+
+**Construction Requirements:** Craft Wondrous Item, *protection from energy, wall of lava*; **Cost** 56,000 gp
+
+### Rockfall Cloak
+
+**Slot** shoulders; **CL** 5th; **Price** 2,500 gp; **Weight** 1 lb.
+
+**Aura** faint conjuration
+
+A *rockfall cloak* is fashioned from rigid fabric with a stony texture, and it grants a +2 circumstance bonus on Stealth checks in underground terrain. The wearer can command the cloak to encapsulate her as a free action. The cloak then hardens into a spherical stone shell resembling a smooth boulder that occupies an entire 5-foot square and weighs 200 pounds. The shell has a hardness of 10 and 25 hit points. Any damage from falling or from falling rocks is dealt to the stone shell. If it is destroyed, any remaining damage is transferred to its wearer. A *rockfall cloak* remains in this stone shell form for 1 hour (or earlier, if the wearer chooses) before crumbling to dust. Once it’s used in its stone shell form, a *rockfall cloak* is destroyed.
+
+**Construction Requirements:** Craft Wondrous Item, *stone shield*; **Cost** 1,250 gp
+
+### Stonemeld Boots
+
+**Slot** feet; **CL** 9th; **Price** 3,500 gp; **Weight** 1 lb.
+
+**Aura** moderate transmutation
+
+The wearer of a pair of *stonemeld boots* gains a +4 bonus to CMD against bull rush, drag, reposition, and trip combat maneuvers. Additionally, once per day as a swift action, the boots can be activated to grant the wearer a climb speed of 10 feet on any natural stone surface (but not manufactured stone surfaces like brick walls) for 30 minutes. A creature using *stonemeld boots* to climb in this fashion leaves obvious deformities in the rock surface. Anyone attempting to track a wearer of *stonemeld boots* moving in this fashion treats the base DC as though the tracks were left in soft earth, and takes no penalties for time elapsed since the tracks were made.
+
+**Construction Requirements:** Craft Wondrous Item, *transmute rock to mud*; **Cost** 1,750 gp
+

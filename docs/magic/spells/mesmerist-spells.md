@@ -84,6 +84,7 @@ Mesmerists gain access to the following spells. Spells without a link come from 
 - **[Implant Urge](implant-urge.md)**: A target unconsciously desires a goal you choose.
 - **[Innocence](innocence.md)**: Gain +10 on Bluff checks to seem innocent.
 - **[Instant Portrait](instant-portrait.md)**: Paint a quick monochrome portrait.
+- **[Intensify Psyche](intensify-psyche.md)**: +2 on social checks and emotion DCs, –2 on saves against emotion and pain.
 - **[Interrogation](interrogation.md)**: Target answers questions or suffers pain.
 - **[Invigorate](invigorate.md)**: Temporarily relieves fatigue or exhaustion.
 - Jitterbugs
@@ -113,6 +114,7 @@ Mesmerists gain access to the following spells. Spells without a link come from 
 - **[Remove Sickness](remove-sickness.md)**: Suppress disease, nausea, and the sickened condition.
 - **[Reveal Secrets](reveal-secrets.md)**: Learn whether a target has a secret
 - **[Shadow Trap](shadow-trap.md)**: pins the target's shadow so it is entangled
+- **[Shadowfade](shadowfade.md)**: Target is invisible to darkvision in darkness.
 - **[Share Language](share-language.md)**: Subject understands chosen language.
 - **[Silent Image](silent-image.md)**: Creates minor illusion of your design.
 - **[Sleep](sleep.md)**: Puts 4 HD of creatures into magical slumber.
@@ -140,6 +142,7 @@ Mesmerists gain access to the following spells. Spells without a link come from 
 - **[Alter Self](alter-self.md)**: Assume form of a Small or Medium humanoid.
 - **[Animal Messenger](animal-messenger.md)**: Sends a Tiny animal to a specific place.
 - **[Animal Trance](animal-trance.md)**: Fascinates 2d6 HD of animals.
+- **[Animus Mine](animus-mine.md)**: Psychic mine damages and staggers creatures that use mind-affecting effects on you.
 - **[Anonymous Interaction](anonymous-interaction.md)**
 - **[Anticipate Thoughts](anticipate-thoughts.md)**: Gain increasing bonuses to AC and on attack rolls and damage rolls against one creature.
 - **[Apport Object](apport-object.md)**: Send or receive a small object via teleportation.
@@ -393,6 +396,7 @@ Mesmerists gain access to the following spells. Spells without a link come from 
 
 - **[Akashic Communion](akashic-communion.md)**: Many Knowledge checks with +10 insight.
 - **[Amnesia](amnesia.md)**: Strip a target of its memories, skills and class abilities
+- **[Animus Mine, Greater](animus-mine-greater.md)**: As animus mine, but the mine stuns.
 - **[Apathy](apathy.md)**: A target loses interest in a chosen pursuit.
 - **[Arcane Eye](arcane-eye.md)**: Invisible floating eye moves 30 ft./round.
 - **[Assume Appearance, Greater](assume-appearance-greater.md)**: Use a likeness to adopt a dead creature’s form.

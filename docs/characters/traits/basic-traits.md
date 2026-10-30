@@ -122,3 +122,26 @@ There are 40 basic traits, split evenly among four categories. Combat traits foc
 
 **Wild Tongue**: You were raised in a community that included numerous individuals who spoke with creatures of the wild. You gain one of the following languages of your choice as a bonus language: Aklo, Aquan, Auran, Giant, Ignan, or Sylvan. With your GM's permission, you can instead select Druidic, but druids are protective of their language and may hunt you as a threat to their sole ownership of their secrets.
 
+## Underworld Traits
+
+These traits suit characters who have lived in or explored the Underworld. Each lists its trait category in parentheses.
+
+**Allies in the Deep (Social)**: You’ve learned to deal amicably with individuals of questionable morals when necessary. You gain a +1 trait bonus on Charisma-based skill checks to influence evil creatures. You must have a nonevil alignment in order to take this trait.
+
+**Black Blood Heritage (Magic)**: One of your ancestors came in contact with the mystical black blood, granting you an affinity for the substance. You are immune to the negative effects of black blood. Once per day as a swift action, you can channel the essence of black blood, increasing your effective caster level by 1 for any 1st-or 2nd-level necromancy spell you cast. Your blood is pitch black as a result of this trait.
+
+**Deep Faith (Faith)**: Your deity was born of the depths, and you’re a child of such realms. Whenever you cast a spell granted by the earth domain (or associated subdomains) while in the Underworld, that spell functions at 1 caster level higher than your actual caster level.
+
+**Escaped Captive (Social)**: Whether you were on your way to becoming a drow slave or slated for the ghoul chattel pits, you very narrowly avoided a life of miserable captivity. You make a habit of avoiding restraints or tight spaces, gaining a +1 trait bonus on Escape Artist checks and a +2 trait bonus to CMD to avoid being pinned.
+
+**Light in the Darkness (Faith)**: You’re destined to bring light to the darkness and expunge the faithless from the deep. Whenever you cast a spell granted by the sun domain (or associated subdomains) while in the Underworld, the spell functions at 1 caster level higher than your actual caster level.
+
+**Radiant Healing (Magic)**: You’ve learned how to infuse your healing magic with lingering traces of light. Whenever you cast a spell from the conjuration (healing) school that has a casting time of a standard action, you can extend its casting time to a full-round action to imbue the target with light, as per light, with a duration of 1 round per caster level.
+
+**Scourge of the Darkness (Faith)**: Stories of the depredations present in the Underworld drive you to explore its shadowy depths and purge the corruption from within. You gain a +1 trait bonus on saving throws against fear while in the Underworld and a +1 trait bonus on Intimidate checks against creatures native to the Underworld.
+
+**Underworld Scholar (Social)**: Unsatisfied with mere stories, you have spent years researching journals and firsthand accounts of those who explored the Underworld before you. You gain a +2 trait bonus on Knowledge checks to identify the weaknesses of Underworld creatures.
+
+**Underworld Trader (Social)**: You’re familiar with the upper Underworld’s trade routes and negotiation involving the denizens of the Underworld. You gain a +1 trait bonus on Diplomacy checks relating to subterranean trade and on Knowledge (dungeoneering) checks relating to subterranean creatures. Select one of these skills to be a class skill for you.
+
+**Voices in your Head (Social)**: Through pacts with eldritch beings or a simple quirk of circumstance, your voice has an uncanny rapport with those swept up in madness. Once per day as an immediate action, you can issue a command to a confused creature within 30 feet. This allows the creature to immediately reroll on the confused condition table, and you can pick which of the two actions—the action of its initial roll or that of the reroll—the creature takes. Confused creatures do not need to understand you for this trait to take effect.

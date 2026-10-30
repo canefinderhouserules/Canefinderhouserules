@@ -545,6 +545,7 @@ Occultists gain access to the following spells, determined by their chosen imple
 - **[Spell Immunity](spell-immunity.md)**: Subject is immune to one spell per 4 levels.
 - **[Spellcurse](spellcurse.md)**: Deals 1d6 damage per ongoing spell on the target.
 - **[Stoneskin](stoneskin.md)**: Grants DR 10/adamantine.
+- **[Surface Excursion](surface-excursion.md)**: Teleport to the surface directly above you, with a beacon to return.
 - **[Symbol of Distraction](symbol-of-distraction.md)**: Symbol that fascinates creatures nearby.
 - **[Symbol of Sealing](symbol-of-sealing.md)**: Create triggered wall of force.
 - **[Telepathic Silence](telepathic-silence.md)**: Blocks telepathy and thought reading in an area.

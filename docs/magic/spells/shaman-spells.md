@@ -177,6 +177,7 @@ Shamans gain access to the following spells. Spells in plain text come from othe
 - **[Languid Venom](languid-venom.md)**: Delay a poison’s onset and hide its presence.
 - **[Levitate](levitate.md)**: Subject moves up and down at your direction.
 - **[Life Pact](life-pact.md)**: Affected creatures automatically donate hp to stabilize fallen ally.
+- **[Mage's Crawl Space](mages-crawl-space.md)**: Merge into stone inside a 5-ft. pocket of air.
 - **[Merge with Familiar](merge-with-familiar.md)**: Merge the body of your familiar or spirit animal into your own.
 - **[Mindshock](mindshock.md)**: Your attacks deal extra nonlethal damage and can confuse.
 - **[Mortal Terror](mortal-terror.md)**: Target is shaken and grows more afraid each time it is hurt.
@@ -184,15 +185,18 @@ Shamans gain access to the following spells. Spells in plain text come from othe
 - **[Night Blindness](night-blindness.md)**: Lighting around the target counts as one step darker.
 - **[Overstimulate](overstimulate.md)**: Grant ferocity to keep a creature conscious
 - **[Owl’s Wisdom](owls-wisdom.md)**: Subject gains +4 to Wis for 1 min./level.
+- **[Pale Flame](pale-flame.md)**: As produce flame, but dim and deals 2d6 + 1/level.
 - **[Pinecone Bomb](pinecone-bomb.md)**: A thrown pinecone explodes for piercing damage.
 - **[Plant Voice](plant-voice.md)**: A plant creature can speak and understand your languages.
 - **[Quick Change](quick-change.md)**: Use change shape as a swift action and surprise foes.
+- **[Radiation Ward](radiation-ward.md)**: +4 on saves against radiation; sense radiation levels.
 - **[Raven's Flight](ravens-flight.md)**: Become a Tiny raven shape with fly speed 50 ft. for one turn.
 - **[Reinvigorating Wind](reinvigorating-wind.md)**: Wake and invigorate allies with a magical wind
 - **[Remove Paralysis](remove-paralysis.md)**: Frees creatures from paralysis or *slow* effect.
 - **[Resist Energy](resist-energy.md)**: Ignores 10 (or more) points of damage/attack from specified energy type.
 - **[Restful Cloak](restful-cloak.md)**: Turn your cloak into a healing tent.
 - **[Restoration, Lesser](restoration-lesser.md)**: Dispels magical ability penalty or repairs 1d4 ability damage.
+- **[Rock Whip](rock-whip.md)**: Whip of stone ignores stone cover and bull rushes foes it hits.
 - **[Scale Spikes](scale-spikes.md)**: Grow armor spikes from scales
 - **[Scare](scare.md)**: Frightens creature of less than 6 HD.
 - **[Sense Fear](sense-fear.md)**: Perceive nearby creatures that are experiencing fear.
@@ -337,6 +341,7 @@ Shamans gain access to the following spells. Spells in plain text come from othe
 - **[Brightest Light](brightest-light.md)**: Longer-lasting daylight that can dispel darkness.
 - **[Claim Identity](claim-identity.md)**: Steal a touched humanoid’s face and identity.
 - **[Command Plants](command-plants.md)**: Sway the actions of plant creatures.
+- **[Concealed Breath](concealed-breath.md)**: Touched creatures need not breathe.
 - **[Conditional Curse](conditional-curse.md)**: Bestow a curse that is difficult to remove without fulfilling a condition.
 - **[Contingent Venom](contingent-venom.md)**: As *languid venom*, but with a triggering condition.
 - **[Control Water](control-water.md)**: Raises or lowers bodies of water.
@@ -467,6 +472,7 @@ Shamans gain access to the following spells. Spells in plain text come from othe
 - **[Spellfire Jinx](spellfire-jinx.md)**: Cursed caster burns and may lose spells.
 - **[Stoneskin](stoneskin.md)**: Grants DR 10/adamantine.
 - **[Sun’s Disdain, Mass](suns-disdain-mass.md)**: As *sun’s disdain*, on multiple creatures.
+- **[Surface Excursion](surface-excursion.md)**: Teleport to the surface directly above you, with a beacon to return.
 - **[Swallow Poison](swallow-poison.md)**: Protect yourself from ingested poison, then spit it out in a cone.
 - **[Tidal Surge](tidal-surge.md)**: Create a surge of water to bludgeon foes and extinguish fires.
 - **[Touch of Slumber](touch-of-slumber.md)**: Nonhostile creature falls asleep for hours.
@@ -550,6 +556,7 @@ Shamans gain access to the following spells. Spells in plain text come from othe
 - **[Inflict Serious Wounds, Mass](inflict-serious-wounds-mass.md)**: Deals 3d8 damage + 1/level, affects 1 subject/level.
 - **[Legendary Proportions](legendary-proportions.md)**: Increase a creature's size category with large bonuses.
 - **[Liveoak](liveoak.md)**: Oak becomes treant guardian.
+- **[Morning Sun](morning-sun.md)**: Sphere of sunlight staggers creatures harmed by sunlight and burns what it touches.
 - **[Planar Refuge](planar-refuge.md)**: A pocket of Material Plane wilderness on another plane.
 - **[Plane Shift](plane-shift.md)**: As many as eight subjects travel to another plane.
 - **[Plundered Power](plundered-power.md)**: Kill a creature and steal its strongest spell-like ability.
@@ -578,6 +585,7 @@ Shamans gain access to the following spells. Spells in plain text come from othe
 - **[Destruction](destruction.md)**: Kills subject and destroys remains.
 - **[Discern Location](discern-location.md)**: Reveals exact location of creature or object.
 - **[Earthquake](earthquake.md)**: Intense tremor shakes 80-ft.-radius.
+- **[Entomb](entomb.md)**: Sinks an area deep underground inside a sealed vault.
 - **[False Resurrection](false-resurrection.md)**: Appear to resurrect someone but instead allow a shadow demon to possess the corpse.
 - **[Fey Form IV](fey-form-iv.md)**: Assume the form of a powerful fey creature.
 - **[Fire Storm](fire-storm.md)**: Deals 1d6/level fire damage.

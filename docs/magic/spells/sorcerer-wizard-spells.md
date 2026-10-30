@@ -6,6 +6,7 @@
 
 - **[Chameleon Scales](chameleon-scales.md)**: Change the color of your skin or scales.
 - **[Detect Fiendish Presence](detect-fiendish-presence.md)**: Detects evil outsiders and their servants.
+- **[Grasp](grasp.md)**: Reattempt a failed Climb check to avoid falling.
 - **[Haunted Fey Aspect](haunted-fey-aspect.md)**: You surround yourself with disturbing illusions.
 - **[Oath of Anonymity](oath-of-anonymity.md)**: Magically conceal your identity behind an alternate persona.
 - **[Resistance](resistance.md)**: Subject gains +1 on saving throws.
@@ -157,6 +158,7 @@
 - **[Secluded Grimoire](secluded-grimoire.md)**: Hide your spellbook on the Ethereal Plane.
 - **[See Alignment](see-alignment.md)**: Pick an alignment; in your sight, creatures and items with that alignment emit a ghostly radiance.
 - **[Shadow Trap](shadow-trap.md)**: pins the target's shadow so it is entangled
+- **[Shadowfade](shadowfade.md)**: Target is invisible to darkvision in darkness.
 - **[Shield](shield.md)**: Invisible disc gives +4 to AC, blocks *magic missiles.*
 
 **Conjuration**
@@ -347,6 +349,7 @@
 - **[Imbue with Elemental Might](imbue-with-elemental-might.md)**: School evocation [see text]; Level cleric 2, magus 2, sorcerer/wizard 2 Components V, S Duration 24 hours or.
 - **[Influence Wild Magic](influence-wild-magic.md)**: Roll twice on wild magic effects and choose.
 - **[Instant Weapon](instant-weapon.md)**: Create a masterwork melee weapon of force.
+- **[Intensify Psyche](intensify-psyche.md)**: +2 on social checks and emotion DCs, –2 on saves against emotion and pain.
 - **[Jitterbugs](jitterbugs.md)**: School illusion (figment) [mind-affecting]; Level bard 1, sorcerer/wizard 2 Casting Time 1 standard action.
 - **[Kinetic Reverberation](kinetic-reverberation.md)**: Channels the force of an enemy’s attack back into its weapon.
 - **[Know Peerage](know-peerage.md)**: Target uses your Knowledge (nobility) ranks.
@@ -356,6 +359,7 @@
 - **[Light Prison](light-prison.md)**: Cage of light damages and blinds those who leave it.
 - **[Limp Lash](limp-lash.md)**: Energy whip saps and paralyzes a target.
 - **[Lipstitch](lipstitch.md)**: Sew the target’s lips shut.
+- **[Mage's Crawl Space](mages-crawl-space.md)**: Merge into stone inside a 5-ft. pocket of air.
 - **[Magic Siege Engine](magic-siege-engine.md)**: Siege engine gains +1 on targeting and damage rolls.
 - **[Mark of Blood](mark-of-blood.md)**: Mark a creature struck by a bloodied weapon.
 - **[Merge with Familiar](merge-with-familiar.md)**: Merge the body of your familiar or spirit animal into your own.
@@ -381,6 +385,7 @@
 - **[Quaking Fury](quaking-fury.md)**: Minor earthquake trips creatures in a cone.
 - **[Qualm](qualm.md)**: Target gains penalties on ability checks, skill checks, and concentration checks until it spends an entire round doing nothing.
 - **[Quick Change](quick-change.md)**: Use change shape as a swift action and surprise foes.
+- **[Radiation Ward](radiation-ward.md)**: +4 on saves against radiation; sense radiation levels.
 - **[Raven's Flight](ravens-flight.md)**: Become a Tiny raven shape with fly speed 50 ft. for one turn.
 - **[Recoil Fire](recoil-fire.md)**: Ammunition in the targeted firearm generates excessive recoil.
 - **[Reinforce Armaments, Communal](reinforce-armaments-communal.md)**: As reinforce armaments, but you may divide the duration among objects touched.
@@ -396,6 +401,7 @@
 - **[Returning Weapon](returning-weapon.md)**: Grants a weapon the returning special weapon quality.
 - **[Revealing Light](revealing-light.md)**: Object sheds shifting light that foils Stealth bonuses.
 - **[Ricochet Shot](ricochet-shot.md)**: Imbues a projectile weapon to give its ammunition the ability to ricochet.
+- **[Rock Whip](rock-whip.md)**: Whip of stone ignores stone cover and bull rushes foes it hits.
 - **[Rune of Rule](rune-of-rule.md)**: Paint a rune on an ally that grants a one-time boost.
 - **[Scale Spikes](scale-spikes.md)**: Grow armor spikes from scales
 - **[Searching Shadows](searching-shadows.md)**: Shadows search an area for a specified creature or object.
@@ -681,6 +687,7 @@
 - **[Shroud of Innocuity](shroud-of-innocuity.md)**: Targets appear as ordinary locals to every viewer.
 - **[Silt Sphere](silt-sphere.md)**: illusory silt cloud that grants concealment
 - **[Siphon Might](siphon-might.md)**: Drains target's Strength and grants it to an ally.
+- **[Skyshroud](skyshroud.md)**: Shows the real sky above you, even underground.
 - **[Slave to Sin](slave-to-sin.md)**: Exploit a creature’s sin to sicken and stagger it.
 - **[Sleet Storm](sleet-storm.md)**: Hampers vision and movement.
 - **[Spider Climb, Communal](spider-climb-communal.md)**: As spider climb, but you may divide the duration among creatures touched.
@@ -796,6 +803,7 @@
 - **[Claim Identity](claim-identity.md)**: Steal a touched humanoid’s face and identity.
 - **[Cloud Shape](cloud-shape.md)**: This spell functions like gaseous form, except you assume the shape of a Colossal cloud with a space of 30.
 - **[Complex Hallucination](complex-hallucination.md)**: Create a phantasm with effects for all senses.
+- **[Concealed Breath](concealed-breath.md)**: Touched creatures need not breathe.
 - **[Conjuration Foil](conjuration-foil.md)**: Interfere with nearby teleportation effects.
 - **[Conjure Deadfall](conjure-deadfall.md)**: Drop a spiked metal block on creatures below.
 - **[Contingent Venom](contingent-venom.md)**: As *languid venom*, but with a triggering condition.
@@ -1125,6 +1133,7 @@
 - **[Summon Monster V](summon-monster-v.md)**: Summons extraplanar creature to fight for you.
 - **[Summoner Conduit](summoner-conduit.md)**: The target takes damage whenever its summoned creature does.
 - **[Sun’s Disdain, Mass](suns-disdain-mass.md)**: As *sun’s disdain*, on multiple creatures.
+- **[Surface Excursion](surface-excursion.md)**: Teleport to the surface directly above you, with a beacon to return.
 - **[Symbol of Striking](symbol-of-striking.md)**
 - **[Teleport](teleport.md)**: Instantly transports you as far as 100 miles per level.
 - **[Thoughtsense](thoughtsense.md)**: Automatically detect nearby conscious creatures.
@@ -1486,6 +1495,7 @@
 - **[Curse Terrain, Supreme](curse-terrain-supreme.md)**: Curse an area with seven deadly hazards.
 - **[Death Clutch](death-clutch.md)**: Rip out someone’s heart.
 - **[Dimensional Lock](dimensional-lock.md)**: Teleportation and interplanar travel blocked for 1 day/level.
+- **[Entomb](entomb.md)**: Sinks an area deep underground inside a sealed vault.
 - **[Fey Gate](fey-gate.md)**: Create a portal that allows travel to the First World.
 - **[Fleeting Memory, Mass](fleeting-memory-mass.md)**: As fleeting memory, but affects multiple creatures.
 - **[Form of the Alien Dragon III](form-of-the-alien-dragon-iii.md)**: Become a Huge esoteric or outer dragon.

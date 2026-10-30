@@ -7,6 +7,7 @@
 - **[Detect Fiendish Presence](detect-fiendish-presence.md)**: Detects evil outsiders and their servants.
 - **[Detect Magic](detect-magic.md)**: Detects spells and magic items within 60 ft.
 - **[Detect Poison](detect-poison.md)**: Detects poison in one creature or object.
+- **[Grasp](grasp.md)**: Reattempt a failed Climb check to avoid falling.
 - **[Guidance](guidance.md)**: +1 on one attack roll, saving throw, or skill check.
 - **[Light](light.md)**: Object shines like a torch.
 - **[Mending](mending.md)**: Makes minor repairs on an object.
@@ -219,6 +220,7 @@
 - **[Inner Focus](inner-focus.md)**: Cast divine spells without displaying a holy symbol.
 - **[Instant Weapon](instant-weapon.md)**: Create a masterwork melee weapon of force.
 - **[Instrument of Agony](instrument-of-agony.md)**: Weapon exudes divine fury, granting a bonus on Intimidate checks.
+- **[Intensify Psyche](intensify-psyche.md)**: +2 on social checks and emotion DCs, –2 on saves against emotion and pain.
 - **[Invigorating Poison](invigorating-poison.md)**: Poison ability damage becomes a bonus instead.
 - **[Ironskin](ironskin.md)**: Harden your skin to iron
 - **[Know Peerage](know-peerage.md)**: Target uses your Knowledge (nobility) ranks.
@@ -249,6 +251,7 @@
 - **[Protection from Outsiders](protection-from-outsiders.md)**: Protection from one race of outsiders.
 - **[Protection from Technology](protection-from-technology.md)**: Ward against technology and robots.
 - **[Quaking Fury](quaking-fury.md)**: Minor earthquake trips creatures in a cone.
+- **[Radiation Ward](radiation-ward.md)**: +4 on saves against radiation; sense radiation levels.
 - **[Recentering Drone](recentering-drone.md)**: Targets ignore or reduce the penalties of debilitating conditions.
 - **[Reinforce Armaments, Communal](reinforce-armaments-communal.md)**: As reinforce armaments, but you may divide the duration among objects touched.
 - **[Remove Paralysis](remove-paralysis.md)**: Frees creatures from paralysis or *slow* effect.
@@ -258,6 +261,7 @@
 - **[Returning Weapon](returning-weapon.md)**: Grants a weapon the returning special weapon quality.
 - **[Revealing Light](revealing-light.md)**: Object sheds shifting light that foils Stealth bonuses.
 - **[Righteous Smite](righteous-smite.md)**: Next melee attack gets +5 and a free bull rush.
+- **[Rock Whip](rock-whip.md)**: Whip of stone ignores stone cover and bull rushes foes it hits.
 - **[Rotgut](rotgut.md)**: Turn water into cheap alcohol
 - **[Sacred Space](sacred-space.md)**: This spell sanctifies an area with heavenly power.
 - **[Savage Maw](savage-maw.md)**: Your teeth extend and sharpen, transforming your mouth into a maw of razor-sharp fangs.
@@ -422,6 +426,7 @@
 - **[Shield of Wings](shield-of-wings.md)**: Gain five burning wings that grant flight and fire resistance.
 - **[Skeleton Crew](skeleton-crew.md)**: Animates corpses as skeleton sailors.
 - **[Sky Swim](sky-swim.md)**: Swim through the air.
+- **[Skyshroud](skyshroud.md)**: Shows the real sky above you, even underground.
 - **[Slave to Sin](slave-to-sin.md)**: Exploit a creature’s sin to sicken and stagger it.
 - **[Soul Vault](soul-vault.md)**: Protect a soul from being trapped
 - **[Speak with Dead](speak-with-dead.md)**: Corpse answers one question/two levels.
@@ -470,6 +475,7 @@
 - **[Calamitous Flailing](calamitous-flailing.md)**: Curse: the target's missed attacks strike its allies.
 - **[Celestial Healing, Greater](celestial-healing-greater.md)**: Target gains fast healing 4.
 - **[Chaos Hammer](chaos-hammer.md)**: Harms and slows lawful creatures (1d8 damage/2 levels).
+- **[Concealed Breath](concealed-breath.md)**: Touched creatures need not breathe.
 - **[Conditional Curse](conditional-curse.md)**: Bestow a curse that is difficult to remove without fulfilling a condition.
 - **[Control Water](control-water.md)**: Raises or lowers bodies of water.
 - **[Crimson Breath](crimson-breath.md)**: Spit a dose of breath of the assassin poison.
@@ -768,6 +774,7 @@
 - **[Maddening Oubliette](maddening-oubliette.md)**: Send a creature to a maddening demiplane prison.
 - **[Magnetic Field](magnetic-field.md)**: Pulls metal objects and metal-clad creatures toward you.
 - **[Memory of Function](memory-of-function.md)**: Restore broken objects and timeworn tech.
+- **[Morning Sun](morning-sun.md)**: Sphere of sunlight staggers creatures harmed by sunlight and burns what it touches.
 - **[Particulate Form](particulate-form.md)**: Targets gain fast healing and immunity to critical hits.
 - **[Planar Refuge](planar-refuge.md)**: A pocket of Material Plane wilderness on another plane.
 - **[Plundered Power](plundered-power.md)**: Kill a creature and steal its strongest spell-like ability.
