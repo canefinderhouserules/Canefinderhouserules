@@ -3,6 +3,8 @@
 **School** necromancy [death, evil, fire]; **Level** antipaladin 1, cleric 2, inquisitor 2, witch 2  
 **Casting Time** 1 round  
 **Components** V, S  
+**Range** touch  
+**Target** living creature touched  
 **Duration** instantaneous/1 round per HD of subject; see text  
 **Saving Throw** Fortitude negates; **Spell Resistance** yes
 

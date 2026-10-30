@@ -1,7 +1,12 @@
 # Web Cloud
 
 **School** conjuration (creation); **Level** sorcerer/wizard 4, witch 4  
-**Casting Time** 1 standard action
+**Casting Time** 1 standard action  
+**Components** V, S  
+**Range** medium (100 ft. + 10 ft./level)  
+**Effect** cloud spreads in 20-ft. radius, 20 ft. high  
+**Duration** 1 minute/level  
+**Saving Throw** Reflex partial, see text; **Spell Resistance** no
 
 **Component** V, S
 

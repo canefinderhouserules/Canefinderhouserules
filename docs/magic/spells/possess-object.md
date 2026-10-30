@@ -2,5 +2,7 @@
 
 **School** necromancy; **Level** sorcerer/wizard 5, witch 5  
 **Casting Time** 1 standard action  
+**Components** V, S, F (a gem or crystal worth at least 100 gp)  
 **Target** one object; see text  
-**Duration** 1 hour/level or until you return to your body This spell functions as magic jar, except you transfer your mind to a single object, animating it as if using animate objects, except your mind controls the object as if it were your own body. You cannot speak or cast spells while possessing the object. Because your original body is effectively dead while under the effect of this spell, this temporarily suspends disease, poisons, and other afflictions affecting you.
+**Duration** 1 hour/level or until you return to your body This spell functions as magic jar, except you transfer your mind to a single object, animating it as if using animate objects, except your mind controls the object as if it were your own body. You cannot speak or cast spells while possessing the object. Because your original body is effectively dead while under the effect of this spell, this temporarily suspends disease, poisons, and other afflictions affecting you.  
+**Saving Throw** Will negates, see text; **Spell Resistance** yes

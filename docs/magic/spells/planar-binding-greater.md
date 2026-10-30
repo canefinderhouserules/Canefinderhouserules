@@ -1,6 +1,12 @@
 # Planar Binding, Greater
 
-**School** conjuration (calling) [see text for *lesser planar binding*]; **Level**: sorcerer/wizard 8
+**School** conjuration (calling) [see text for *lesser planar binding*]; **Level** : sorcerer/wizard 8  
+**Casting Time** 10 minutes  
+**Components** V, S  
+**Range** close (25 ft. + 5 ft./2 levels)  
+**Targets** up to three elementals or outsiders, totaling no more than 18 HD, no two of which can be more than 30 ft. apart when they appear  
+**Duration** instantaneous  
+**Saving Throw** Will negates; **Spell Resistance** no and yes; see text
 
 **Components**: V, S **Targets** up to three elementals or outsiders, totaling no more
 

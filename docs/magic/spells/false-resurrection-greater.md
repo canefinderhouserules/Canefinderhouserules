@@ -1,8 +1,12 @@
 # False Resurrection, Greater
 
 **School** conjuration (calling) [evil, lawful, ruse]; **Level** cleric 9  
+**Casting Time** 1 minute  
 **Components** V, S, M (diamond worth 25,000 gp), DF  
-**Duration** permanent
+**Range** touch  
+**Target** dead creature touched  
+**Duration** permanent  
+**Saving Throw** none; **Spell Resistance** yes (harmless)
 
 This spell functions as *false resurrection* except that it calls a belier devil with the young simple template to possess the body and all parts of *false resurrection* that function like *resurrection* instead function like *true resurrection*.
 

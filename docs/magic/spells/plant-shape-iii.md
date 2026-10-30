@@ -1,6 +1,11 @@
 # Plant Shape III
 
-**School** transmutation (polymorph); **Level** sorcerer/wizard 7
+**School** transmutation (polymorph); **Level** sorcerer/wizard 7  
+**Casting Time** 1 standard action  
+**Components** V, S, M (a piece of the creature whose form you plan to assume)  
+**Range** personal  
+**Target** you  
+**Duration** 1 min./level (D)
 
 This spell functions as *plant shape II* except that it also allows you to assume the form of a Huge creature of the plant type. If the form you assume has any of the following abilities, you gain the listed ability: DR, regeneration 5, and trample.
 

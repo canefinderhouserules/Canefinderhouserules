@@ -2,6 +2,7 @@
 
 **School** abjuration; **Level** cleric 8, witch 8  
 **Casting Time** 1 standard action  
+**Components** V, S, M/DF (a cat's whisker)  
 **Range** touch  
 **Target** one creature touched  
 **Duration** 1 hour/level  

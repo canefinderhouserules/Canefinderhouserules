@@ -1,7 +1,12 @@
 # Forbid Action
 
 **School** enchantment (compulsion) [language-dependent, mind-affecting]; **Level** cleric 1, inquisitor 1  
-**Casting Time** 1 standard action
+**Casting Time** 1 standard action  
+**Components** V  
+**Range** close (25 ft. + 5 ft./2 levels)  
+**Target** one creature  
+**Duration** 1 round  
+**Saving Throw** Will negates; **Spell Resistance** yes
 
 Component V Range close (25 ft. +5 ft./2 levels)
 

@@ -1,6 +1,12 @@
 # Charm Person
 
-**School** enchantment (charm) [mind-affecting]; **Level** bard 1,
+**School** enchantment (charm) [mind-affecting]; **Level** bard 1,  
+**Casting Time** 1 standard action  
+**Components** V, S  
+**Range** close (25 ft. + 5 ft./2 levels)  
+**Target** one humanoid creature  
+**Duration** 1 hour/level  
+**Saving Throw** Will negates; **Spell Resistance** yes
 
 sorcerer/wizard 1 **Casting Time** 1 standard action **Components** V, S **Range** close (25 ft. + 5 ft./2 levels) **Target** one humanoid creature **Duration** 1 hour/level **Saving Throw** Will negates; **Spell Resistance** yes This charm makes a humanoid creature regard you as its trusted friend and ally (treat the target’s attitude as friendly). If the creature is currently being threatened or attacked by you or your allies, however, it receives a +5 bonus on its saving throw.
 

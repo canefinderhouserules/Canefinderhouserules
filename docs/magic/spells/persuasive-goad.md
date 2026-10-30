@@ -1,7 +1,12 @@
 # Persuasive Goad
 
 **School** necromancy [pain]; **Level** inquisitor 1  
-**Casting Time** 1 standard action
+**Casting Time** 1 standard action  
+**Components** V, S  
+**Range** close (25 ft. + 5 ft./2 levels)  
+**Target** one creature  
+**Duration** instantaneous and 1 minute  
+**Saving Throw** Fortitude negates; **Spell Resistance** yes
 
 Component V, S Range close (25 ft. +5 ft./2 levels)
 

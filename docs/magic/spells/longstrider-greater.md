@@ -1,6 +1,11 @@
 # Longstrider, Greater
 
-**School** transmutation; **Level** druid 3, ranger 3 Range
+**School** transmutation; **Level** druid 3, ranger 3 Range  
+**Casting Time** 1 standard action  
+**Components** V, S, M (a pinch of dirt)  
+**Range** personal  
+**Target** you  
+**Duration** 1 hour/level (D)
 
 personal Target you Duration 1 hour/level (D)
 

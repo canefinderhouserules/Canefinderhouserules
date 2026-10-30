@@ -1,6 +1,12 @@
 # Animal Aspect, Greater
 
-**School** transmutation (polymorph); **Level** alchemist 3, magus 3, druid 3, ranger 3, sorcerer/wizard 4
+**School** transmutation (polymorph); **Level** alchemist 3, magus 3, druid 3, ranger 3, sorcerer/wizard 4  
+**Casting Time** 1 standard action  
+**Components** V, S, M/DF (a part of the animal)  
+**Range** personal  
+**Target** you  
+**Duration** 1 minute/level (D)  
+**Saving Throw** none; **Spell Resistance** yes (harmless)
 
 This spell functions like animal aspect, except you can either gain two aspects at once or one aspect that adds effects to the aspects that animal aspect grants, as described below.
 

@@ -5,7 +5,8 @@
 **Components** V, S, M (one Tiny or larger living creature)  
 **Range** long (400 ft. + 40 ft./caster level)  
 **Target** one or more undead creatures  
-**Duration** 10 minutes/level (D)
+**Duration** 10 minutes/level (D)  
+**Saving Throw** Will disbelief or Will negates (see text); **Spell Resistance** no
 
 **Saving Throw** Will disbelief or Will negates (see text); **Spell Resistance** no The illusion makes undead creatures of Medium size or smaller appear as if they were living humanoid creatures. You can target a number of undead creatures whose total number of Hit Dice is no greater than twice your caster level. When you create the illusion, you choose the races, genders, and attire for the undead creatures. Additionally, the illusion makes the undead creatures’ movements appear lifelike (two shuffling zombies could be made to appear as two strolling lovers). The illusion doesn’t create smell, sound, texture, or temperature. Undead with Intelligence scores can attempt a saving throw to negate the effect of the spell, but mindless undead do not. Any creatures interacting with the illusion receive a saving throw to disbelieve the illusion.
 

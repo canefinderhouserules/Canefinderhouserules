@@ -3,7 +3,9 @@
 **School** universal; **Level** sorcerer/wizard 9  
 **Casting Time** 1 standard action  
 **Components** V, S, M (diamond worth 25,000 gp)  
-**Range** see text
+**Range** see text  
+**Duration** see text  
+**Saving Throw** none, see text; **Spell Resistance** yes
 
 **Target, Effect, Area** see text **Duration** see text **Saving Throw** none, see text; **Spell Resistance** yes *Wish* is the mightiest spell a wizard or sorcerer can cast. By simply speaking aloud, you can alter reality to better suit you. Even *wish*, however, has its limits. A *wish* can produce any one of the following effects. • Duplicate any sorcerer/wizard spell of 8th level or lower, provided
 

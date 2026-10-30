@@ -1,8 +1,12 @@
 # Symbol of Insanity
 
 **School** enchantment (compulsion) [mind-affecting]; **Level** cleric 8, sorcerer/wizard 8  
+**Casting Time** 10 minutes  
 **Components** V, S, M (mercury and phosphorus, plus powdered diamond and opal worth a total of 5,000 gp)  
-**Saving Throw** Will negates
+**Range** 0 ft.; see text  
+**Effect** one symbol  
+**Duration** see text  
+**Saving Throw** Will negates; **Spell Resistance** yes
 
 This spell functions like *symbol of death*, except that all creatures within the radius of the *symbol of insanity* instead become permanently insane (as the *insanity* spell).
 

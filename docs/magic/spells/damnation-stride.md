@@ -2,6 +2,7 @@
 
 **School** conjuration (teleportation) [fire]; **Level** sorcerer/wizard 5, summoner 4, witch 5  
 **Casting Time** 1 standard action  
+**Components** V  
 **Target** self and creatures within a 10-foot-radius burst (see below)  
 **Duration** 1 minutes/level  
 **Saving Throw** Reflex half, see text; **Spell Resistance** no

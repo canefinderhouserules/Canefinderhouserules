@@ -5,7 +5,8 @@
 **Components** V, S, M (octopus or squid tentacle)  
 **Range** medium (100 ft. + 10 ft./level)  
 **Area** 20-ft.-radius spread  
-**Duration** 1 round/level (D)
+**Duration** 1 round/level (D)  
+**Saving Throw** none; **Spell Resistance** no
 
 **Saving Throw**: none; **Spell Resistance**: no This spell causes a field of rubbery black tentacles to appear, burrowing up from the floor and reaching for any creature in the area.
 

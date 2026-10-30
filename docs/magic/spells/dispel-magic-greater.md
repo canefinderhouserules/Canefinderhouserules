@@ -1,6 +1,11 @@
 # Dispel Magic, Greater
 
 **School** abjuration; **Level** bard 5, cleric 6, druid 6, sorcerer/wizard 6  
+**Casting Time** 1 standard action  
+**Components** V, S  
+**Range** medium (100 ft. + 10 ft./level)  
+**Duration** instantaneous  
+**Saving Throw** none; **Spell Resistance** no  
 **Target or Area** one spellcaster, creature, or object; or a 20-ft.- radius burst
 
 This spell functions like *dispel magic*, except that it can end more than one spell on a target and it can be used to target multiple creatures.

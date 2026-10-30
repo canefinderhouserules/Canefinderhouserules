@@ -2,6 +2,7 @@
 
 **School** divination [mind-affecting]; **Level** inquisitor 4, sorcerer/ wizard 6  
 **Casting Time** 1 standard action  
+**Components** V, S  
 **Range** personal and close (25 ft. + 5 ft./2 levels)  
 **Target** you and 1 ally  
 **Duration** 1 minute/level  

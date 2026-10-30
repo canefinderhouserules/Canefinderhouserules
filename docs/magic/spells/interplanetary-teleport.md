@@ -6,7 +6,7 @@
 **Range** personal and touch  
 **Target** you and touched objects or other touched willing creatures  
 **Duration** instantaneous  
-**Saving Throw** none and Will negates (object); Spell Resistance
+**Saving Throw** none and Will negates (object); Spell Resistance; **Spell Resistance** no and yes (object)
 
 no and yes (object)
 

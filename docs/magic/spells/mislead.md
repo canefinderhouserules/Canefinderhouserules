@@ -3,7 +3,9 @@
 **School** illusion (figment, glamer); **Level** bard 5, sorcerer/wizard 6  
 **Casting Time** 1 standard action  
 **Components** S  
-**Range** close (25 ft. + 5 ft./2 levels)
+**Range** close (25 ft. + 5 ft./2 levels)  
+**Duration** 1 round/level (D) and concentration + 3 rounds; see text  
+**Saving Throw** none or Will disbelief (if interacted with); see text; **Spell Resistance** no
 
 **Target/Effect** you/one illusory double **Duration** 1 round/level (D) and concentration + 3 rounds; see text **Saving Throw** none or Will disbelief (if interacted with); see text;
 

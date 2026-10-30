@@ -3,7 +3,9 @@
 **School** conjuration (creation); **Level** cleric 9, sorcerer/wizard 9, witch 9  
 **Casting Time** 6 hours  
 **Components** V, S, F (a forked metal rod worth at least 500 gp)  
-**Effect** extradimensional demiplane, up to 20 10-ft. cubes/level (S) This spell functions as create demiplane, except the area is larger and you can add more features to the plane. You can use this spell to expand a demiplane you created with lesser create demiplane or create demiplane (you do not need to create an entirely new plane using this spell), in which case it has a duration of 1 day/level. Alternatively, when cast within your demiplane, you may add to your demiplane (or remove from it) one of the following features (or any of the features described in create demiplane) with each casting of the spell, in which case it has an instantaneous duration.
+**Effect** extradimensional demiplane, up to 20 10-ft. cubes/level (S) This spell functions as create demiplane, except the area is larger and you can add more features to the plane. You can use this spell to expand a demiplane you created with lesser create demiplane or create demiplane (you do not need to create an entirely new plane using this spell), in which case it has a duration of 1 day/level. Alternatively, when cast within your demiplane, you may add to your demiplane (or remove from it) one of the following features (or any of the features described in create demiplane) with each casting of the spell, in which case it has an instantaneous duration.  
+**Duration** 1 day/level or instantaneous (see text)  
+**Saving Throw** none; **Spell Resistance** no
 
 **Energy**: Your plane gains the (minor) negative- or positive-dominant energy trait (see Elemental and Energy Traits, GameMastery Guide 186). A plane cannot have both the negative-dominant and positive-dominant energy traits.
 

@@ -1,5 +1,11 @@
 # Psychic Crush V
 
-**School** necromancy [mind-affecting]; **Level** psychic 9
+**School** necromancy [mind-affecting]; **Level** psychic 9  
+**Casting Time** 1 standard action  
+**Components** S  
+**Range** close (25 ft. + 5 ft./2 levels)  
+**Target** one creature  
+**Duration** instantaneous  
+**Saving Throw** Will partial and Fortitude partial, see text; **Spell Resistance** yes
 
 This functions as psychic crush IV, but on a successful Fortitude or Will save, the target takes 11d6 points of damage + 1 point of damage per caster level. If it is at fewer than half its total hit points, the target takes a –2 penalty on the Will save to resist this spell. This spell can be undercast.

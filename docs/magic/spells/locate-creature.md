@@ -1,6 +1,12 @@
 # Locate Creature
 
-**School** divination; **Level** bard 4, sorcerer/wizard 4
+**School** divination; **Level** bard 4, sorcerer/wizard 4  
+**Casting Time** 1 standard action  
+**Components** V, S, M (fur from a bloodhound)  
+**Range** long (400 ft. + 40 ft./level)  
+**Area** circle, centered on you, with a radius of 400 ft. + 40 ft./level  
+**Duration** 10 min./level  
+**Saving Throw** none; **Spell Resistance** no
 
 **Components**: V, S, M (fur from a bloodhound) **Duration** 10 min./level This spell functions like *locate object,* except this spell locates a known creature. You slowly turn and sense when you are facing in the direction of the creature to be located, provided it is within range. You also know in which direction the creature is moving, if any.
 

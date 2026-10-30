@@ -1,8 +1,11 @@
 # Teleport Object
 
 **School** conjuration (teleportation); **Level** sorcerer/wizard 7  
+**Casting Time** 1 standard action  
+**Components** V  
 **Range** touch  
 **Target** one touched object of up to 50 lbs./level and 3 cu. ft./level  
+**Duration** instantaneous  
 **Saving Throw** Will negates (object); **Spell Resistance** yes (object)
 
 This spell functions like *teleport,* except that it teleports an object, not you. Creatures and magical forces cannot be teleported.

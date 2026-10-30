@@ -3,7 +3,9 @@
 **School** universal; **Level** sorcerer/wizard 7  
 **Casting Time** 1 standard action  
 **Components** V, S, M (diamond worth 1,500 gp)  
-**Range** see text
+**Range** see text  
+**Duration** see text  
+**Saving Throw** none, see text; **Spell Resistance** yes
 
 **Target, Effect, Area** see text **Duration** see text **Saving Throw** none, see text; **Spell Resistance** yes A *limited wish* lets you create nearly any type of effect. For example, a *limited wish* can do any of the following things. • Duplicate any sorcerer/wizard spell of 6th level or lower, provided
 

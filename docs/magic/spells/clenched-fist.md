@@ -1,7 +1,12 @@
 # Clenched Fist
 
 **School** evocation [force]; **Level** sorcerer/wizard 8  
-**Components** V, S, F/DF (a leather glove)
+**Casting Time** 1 standard action  
+**Components** V, S, F/DF (a leather glove)  
+**Range** medium (100 ft. + 10 ft./level)  
+**Effect** 10-ft. hand  
+**Duration** 1 round/level (D)  
+**Saving Throw** none; **Spell Resistance** yes
 
 This spell functions like *interposing hand,* except that the hand can also push or strike one opponent that you select. The floating hand can move as far as 60 feet and can attack in the same round. Since this hand is directed by you, its ability to notice or attack invisible or concealed creatures is no better than yours.
 

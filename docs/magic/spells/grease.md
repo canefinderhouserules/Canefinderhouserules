@@ -5,7 +5,8 @@
 **Components** V, S, M (butter)  
 **Range** close (25 ft. + 5 ft./2 levels)  
 **Target** one object or 10-ft. square  
-**Duration** 1 min./level (D)
+**Duration** 1 min./level (D)  
+**Saving Throw** see text; **Spell Resistance** no
 
 **Save** see text; **SR** no A *grease* spell covers a solid surface with a layer of slippery grease. Any creature in the area when the spell is cast must make a successful Reflex save or fall. A creature can walk within or through the area of grease at half normal speed with a DC 10 Acrobatics check. Failure means it can’t move that round (and must then make a Reflex save or fall), while failure by 5 or more means it falls (see the Acrobatics skill for details). Creatures that do not move on their turn do not need to make this check and are not considered flat-footed.
 

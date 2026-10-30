@@ -2,6 +2,7 @@
 
 **School** transmutation [poison]; **Level** cleric 4, druid 3, witch 3  
 **Casting Time** 1 standard action  
+**Components** V  
 **Range** close (25 ft. + 5 ft./2 levels)  
 **Effect** one stream of venom  
 **Duration** instantaneous; see text  

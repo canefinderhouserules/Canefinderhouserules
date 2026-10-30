@@ -1,6 +1,11 @@
 # Ooze Form II
 
-**School** transmutation (polymorph); **Level** alchemist 6, magus 6, sorcerer/wizard 6
+**School** transmutation (polymorph); **Level** alchemist 6, magus 6, sorcerer/wizard 6  
+**Casting Time** 1 standard action  
+**Components** V, S, M (a bit of the creature whose form you plan to assume)  
+**Range** personal  
+**Target** you  
+**Duration** 1 minute/level (D)
 
 This spell functions as ooze form I except you can also assume the form of a Large ooze. You gain blindsight 30 feet and immunity to critical hits and precision damage as well.
 

@@ -2,8 +2,10 @@
 
 **School** conjuration (creation); **Level** cleric 8, sorcerer/wizard 8, summoner 6, witch 8  
 **Casting Time** 4 hours  
+**Components** V, S, F (a forked metal rod worth at least 500 gp)  
 **Effect** extradimensional demiplane, up to 10 10-ft. cubes/level (S) This spell functions as create lesser demiplane, except the area is larger and you can add more features to the plane. You can use this spell to expand a demiplane you created with create lesser demiplane (you do not need to create an entirely new plane using this spell), in which case it has a duration of 1 day/level. Alternatively, when cast within your demiplane, you may add (or remove) one of the following features to your demiplane with each casting of the spell, in which case it has an instantaneous duration.  
-**Duration** 1 day/level or instantaneous (see text)
+**Duration** 1 day/level or instantaneous (see text)  
+**Saving Throw** none; **Spell Resistance** no
 
 **Alignment**: Your plane gains the (mildly) chaos-, good-, evil-, law-, or neutral-aligned alignment trait (see Alignment Traits, GameMastery Guide 187). You cannot give your demiplane an alignment trait for an alignment you do not have.
 

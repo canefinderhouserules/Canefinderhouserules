@@ -5,7 +5,8 @@
 **Components** V, S  
 **Range** long (400 ft. + 40 ft./level)  
 **Area** 20-ft.-radius emanation centered on a creature, object, or point in space  
-**Duration** 1 round/level (D)
+**Duration** 1 round/level (D)  
+**Saving Throw** Will negates; see text or none (object); **Spell Resistance** yes; see text or no (object)
 
 **Saving Throw**: Will negates; see text or none (object); **Spell**
 

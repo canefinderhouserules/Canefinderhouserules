@@ -5,7 +5,8 @@
 **Components** V, S  
 **Range** 10 ft.  
 **Target** one object of up to 1 lb./level  
-**Duration** instantaneous
+**Duration** instantaneous  
+**Saving Throw** Will negates (harmless, object); **Spell Resistance** yes (harmless, object)
 
 **Saving Throw**: Will negates (harmless, object); **Spell Resistance**:
 

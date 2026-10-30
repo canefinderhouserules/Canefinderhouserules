@@ -1,6 +1,8 @@
 # Siege of Trees, Greater
 
 **School** transmutation; **Level** druid 9  
+**Casting Time** 10 minutes  
+**Components** V, S, DF  
 **Targets** one Gargantuan, Huge, or Large plant per three caster levels  
 **Duration** 1 hour/level (D)  
 **Saving Throw** none; **Spell Resistance** no

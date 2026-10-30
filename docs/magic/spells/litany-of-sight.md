@@ -5,7 +5,8 @@
 **Components** V, S, DF  
 **Range** personal  
 **Target** you  
-**Duration** 1 round
+**Duration** 1 round  
+**Saving Throw** no; **Spell Resistance** yes
 
 This litany reveals the unseen to you. You can see invisible creatures and objects within 30 feet.
 

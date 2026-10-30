@@ -1,6 +1,8 @@
 # Etherealness
 
 **School** transmutation; **Level** cleric 9, sorcerer/wizard 9  
+**Casting Time** 1 standard action  
+**Components** V, S  
 **Range** touch; see text  
 **Targets** you and one other touched creature per three levels  
 **Duration** 1 min./level (D)  

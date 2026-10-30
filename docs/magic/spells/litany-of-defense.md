@@ -5,7 +5,8 @@
 **Components** V, S, DF  
 **Range** personal  
 **Target** you  
-**Duration** 1 round
+**Duration** 1 round  
+**Saving Throw** no; **Spell Resistance** yes
 
 Invoking this litany strengthens your defenses. Any enhancement bonus your armor has is doubled and you are immune to fear.
 

@@ -1,7 +1,12 @@
 # Symbol of Pain
 
 **School** necromancy [evil]; **Level** cleric 5, sorcerer/wizard 5  
-**Components** V, S, M (mercury and phosphorus, plus powdered diamond and opal worth a total of 1,000 gp)
+**Casting Time** 10 minutes  
+**Components** V, S, M (mercury and phosphorus, plus powdered diamond and opal worth a total of 1,000 gp)  
+**Range** 0 ft.; see text  
+**Effect** one symbol  
+**Duration** see text  
+**Saving Throw** Fortitude negates; **Spell Resistance** yes
 
 This spell functions like *symbol of death*, except that each creature within the radius of a *symbol of pain* instead suffers wracking pains that impose a –4 penalty on attack rolls, skill checks, and ability checks. These effects last for 1 hour after the creature moves farther than 60 feet from the symbol.
 

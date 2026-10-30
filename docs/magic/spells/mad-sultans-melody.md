@@ -1,6 +1,8 @@
 # Mad Sultan’s Melody
 
 **School** enchantment (compulsion) [mind-affecting, sonic]; **Level**   
+**Casting Time** 1 standard action  
+**Components** V, S, F (masterwork flute, pipe, or string instrument)  
 **Range** close (25 ft. + 5 ft./2 levels)  
 **Target** one creature/2 levels, no two of which may be more than 30 ft. apart (see text)  
 **Duration** 1 round/level (D)  

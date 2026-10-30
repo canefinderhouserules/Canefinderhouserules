@@ -1,6 +1,11 @@
 # Plant Shape II
 
-**School** transmutation (polymorph); **Level** sorcerer/wizard 6
+**School** transmutation (polymorph); **Level** sorcerer/wizard 6  
+**Casting Time** 1 standard action  
+**Components** V, S, M (a piece of the creature whose form you plan to assume)  
+**Range** personal  
+**Target** you  
+**Duration** 1 min./level (D)
 
 This spell functions as *plant shape I* except that it also allows you to assume the form of a Large creature of the plant type. If the creature has immunity or resistance to any elements, you gain resistance 20 to those elements. If the creature has vulnerability to an element, you gain that vulnerability.
 

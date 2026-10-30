@@ -4,7 +4,9 @@
 **Casting Time** 1 standard action  
 **Components** V, S  
 **Range** 20 ft.  
-**Effect** cloud spreads in 20-ft.
+**Effect** cloud spreads in 20-ft.  
+**Duration** 1 minute/level (D)  
+**Saving Throw** Will partial (see text); **Spell Resistance** no
 
 radius, 20 ft. high Duration 1 minute/level (D)
 

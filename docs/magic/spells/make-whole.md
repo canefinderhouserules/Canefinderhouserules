@@ -1,8 +1,12 @@
 # Make Whole
 
 **School** transmutation; **Level** cleric 2, sorcerer/wizard 2  
+**Casting Time** 10 minutes  
+**Components** V, S  
 **Range** close (25 ft. + 5 ft./2 levels)  
-**Target** one object of up to 10 cu. ft./level or one construct creature of any size
+**Target** one object of up to 10 cu. ft./level or one construct creature of any size  
+**Duration** instantaneous  
+**Saving Throw** Will negates (harmless, object); **Spell Resistance** yes (harmless, object)
 
 This spell functions as *mending*, except that it repairs 1d6 points of damage per level when cast on an object or construct creature (maximum 5d6).
 

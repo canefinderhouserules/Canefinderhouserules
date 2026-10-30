@@ -3,6 +3,8 @@
 **School** divination; **Level** cleric 5, psychic 5, ranger 4, summoner 5, witch 5  
 **Casting Time** 10 minutes  
 **Components** V, S  
+**Range** personal  
+**Target** you  
 **Duration** instantaneous
 
 You become one with the plane around you, attaining knowledge of the surrounding territory. You instantly gain knowledge of as many as three facts from among the following subjects: areas with different planar traits, the layout and topography of local terrain, local divine influences, planar phenomena, portals between planes, presence of creatures native to the plane, presence of powerful nonnative creatures, the general state of the plane, or valuable planar substances.

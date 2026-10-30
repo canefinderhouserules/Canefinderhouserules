@@ -1,6 +1,8 @@
 # Phantasmal Putrefaction
 
 **School** illusion (phantasm) [fear, mind-affecting]; **Level**   
+**Casting Time** 1 standard action  
+**Components** V, S  
 **Target** one creature/level, no two of which can be more than 30 ft. apart  
 **Duration** 1 round/level (D)  
 **Saving Throw** Will disbelief, then Fortitude partial (see text); **Spell Resistance** yes

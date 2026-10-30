@@ -1,7 +1,12 @@
 # Resurrection
 
 **School** conjuration (healing); **Level** cleric 7  
-**Components** V, S, M (diamond worth 10,000 gp), DF
+**Casting Time** 1 minute  
+**Components** V, S, M (diamond worth 10,000 gp), DF  
+**Range** touch  
+**Target** dead creature touched  
+**Duration** instantaneous  
+**Saving Throw** none, see text; **Spell Resistance** yes (harmless)
 
 This spell functions like *raise dead,* except that you are able to restore life and complete strength to any deceased creature.
 

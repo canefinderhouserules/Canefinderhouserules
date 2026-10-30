@@ -1,7 +1,12 @@
 # Energy Drain
 
 **School** necromancy; **Level** cleric 9, sorcerer/wizard 9  
-**Saving Throw** Fortitude partial; see text for *enervation*
+**Casting Time** 1 standard action  
+**Components** V, S  
+**Range** close (25 ft. + 5 ft./2 levels)  
+**Effect** ray of negative energy  
+**Duration** instantaneous  
+**Saving Throw** Fortitude partial; see text for *enervation*; **Spell Resistance** yes
 
 This spell functions like *enervation,* except that the creature struck gains 2d4 temporary negative levels. Twenty-four hours after gaining them, the subject must make a Fortitude saving throw (DC = *energy drain* spell’s save DC) for each negative level. If the save succeeds, that negative level is removed. If it fails, that negative level becomes permanent.
 

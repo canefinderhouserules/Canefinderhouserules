@@ -1,7 +1,12 @@
 # Life Channel
 
 **School** transmutation; **Level** cleric 2  
-**Casting Time** 1 standard action
+**Casting Time** 1 standard action  
+**Components** V, S  
+**Range** touch  
+**Target** one touched creature with negative energy affinity  
+**Duration** 1 minute/level  
+**Saving Throw** Fortitude negates (harmless); **Spell Resistance** yes (harmless)
 
 **Component** V, S
 

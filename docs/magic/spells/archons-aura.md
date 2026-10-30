@@ -1,7 +1,12 @@
 # Archon’s Aura
 
 **School** evocation [good, lawful]; **Level** cleric 3, paladin 3  
-**Casting Time** 1 standard action
+**Casting Time** 1 standard action  
+**Components** V, S  
+**Range** 20 ft.  
+**Area** 20-ft. radius centered on you  
+**Duration** 1 minute/level  
+**Saving Throw** Will negates; **Spell Resistance** yes
 
 Component V, S Range 20 ft.
 

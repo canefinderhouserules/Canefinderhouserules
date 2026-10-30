@@ -1,6 +1,12 @@
 # Major Creation
 
-**School** conjuration (creation); **Level** sorcerer/wizard 5
+**School** conjuration (creation); **Level** sorcerer/wizard 5  
+**Casting Time** 10 minutes  
+**Components** V, S, M (a tiny piece of matter of the same sort of item you plan to create with major creation)  
+**Range** close (25 ft. + 5 ft./2 levels)  
+**Effect** unattended, nonmagical object of nonliving matter, up to 1 cu. ft./level  
+**Duration** see text  
+**Saving Throw** none; **Spell Resistance** no
 
 **Casting Time**: 10 minutes **Range** close (25 ft. + 5 ft./2 levels) **Duration** see text This spell functions like *minor creation,* except that you can also create an object of mineral nature: stone, crystal, metal, or the like. The duration of the created item varies with its relative hardness and rarity, as indicated on the following table.
 

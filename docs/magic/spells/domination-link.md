@@ -1,6 +1,12 @@
 # Domination Link
 
 **School** divination [mind-affecting]; **Level** bard 3, inquisitor 3, sorcerer/wizard 3, witch 3  
+**Casting Time** 1 standard action  
+**Components** V, S, F/DF (a copper piece)  
+**Range** 60 ft.  
+**Area** cone-shaped emanation  
+**Duration** concentration, up to 1 min./level (D)  
+**Saving Throw** Will negates, see text; **Spell Resistance** no
 
 This spell functions like *detect thoughts*, with the additional ability to find echoes of the thoughts of a creature mentally controlling the target. For example, if the target has been dominated by a vampire, you can use evidence left in the target’s mind to learn about that vampire. Each minute you concentrate on the spell, you can learn your choice of one of the following pieces of information.
 

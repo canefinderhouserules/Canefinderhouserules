@@ -5,7 +5,8 @@
 **Components** V, S  
 **Range** medium (100 ft. + 10 ft./level)  
 **Area** cloud spreads in 20-ft. radius, 20 ft. high  
-**Duration** 1 round/level (D)
+**Duration** 1 round/level (D)  
+**Saving Throw** Reflex half, see text; **Spell Resistance** no
 
 **Saving Throw**: Reflex half, see text; **Spell Resistance**: no An *incendiary cloud* spell creates a cloud of roiling smoke shot through with white-hot embers. The smoke obscures all sight as a *fog cloud* does. In addition, the white-hot embers within the cloud deal 6d6 points of fire damage to everything within the cloud on your turn each round. All targets can make Reflex saves each round to take half damage.
 

@@ -6,7 +6,7 @@
 **Range** close (25 ft. + 5 ft./2 levels)  
 **Targets** one creature  
 **Duration** 10 minutes/level; see text  
-**Saving Throw** Fortitude negates (harmless); Spell Resistance
+**Saving Throw** Fortitude negates (harmless); Spell Resistance; **Spell Resistance** yes (harmless)
 
 yes (harmless)
 

@@ -2,7 +2,10 @@
 
 **School** transmutation [air]; **Level** cleric 5, druid 5, ranger 3, sorcerer/wizard 5  
 **Casting Time** 1 standard action  
-**Targets** one or more
+**Components** V, S, M/DF (a tiny fan and an exotic feather)  
+**Targets** one or more  
+**Duration** 1 minute/level (D)  
+**Saving Throw** none (see text); **Spell Resistance** yes
 
 Medium creatures/ level, no two of which can be more than 30 ft. apart Duration 1 minute/level (D)
 

@@ -1,6 +1,12 @@
 # Invisibility Sphere
 
-**School** illusion (glamer); **Level** bard 3, sorcerer/wizard 3
+**School** illusion (glamer); **Level** bard 3, sorcerer/wizard 3  
+**Casting Time** 1 standard action  
+**Components** V, S, M  
+**Range** personal or touch  
+**Area** 10-ft.-radius emanation around the creature  
+**Duration** 1 min./level (D)  
+**Saving Throw** Will negates (harmless); **Spell Resistance** yes (harmless)
 
 **Components**: V, S, M **Area** 10-ft.-radius emanation around the creature This spell functions like *invisibility,* except that this spell confers invisibility upon all creatures within 10 feet of the recipient at the time the spell is cast. The center of the effect is mobile with the recipient.
 

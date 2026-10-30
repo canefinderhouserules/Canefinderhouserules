@@ -1,6 +1,12 @@
 # Detect Good
 
-**School** divination; **Level** cleric 1
+**School** divination; **Level** cleric 1  
+**Casting Time** 1 standard action  
+**Components** V, S, DF  
+**Range** 60 ft.  
+**Area** cone-shaped emanation  
+**Duration** concentration, up to 10 min./level (D)  
+**Saving Throw** none; **Spell Resistance** no
 
 This spell functions like *detect evil*, except that it detects the auras of good creatures, clerics or paladins of good deities, good spells, and good magic items, and you are vulnerable to an overwhelming good aura if you are evil.
 

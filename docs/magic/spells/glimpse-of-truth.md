@@ -5,6 +5,7 @@
 **Components** V, S, M (a tourmaline costing 50 gp)  
 **Range** personal  
 **Target** you  
-**Duration** 1 round
+**Duration** 1 round  
+**Saving Throw** none; **Spell Resistance** no
 
 This spell functions like *true seeing*, except as noted above.

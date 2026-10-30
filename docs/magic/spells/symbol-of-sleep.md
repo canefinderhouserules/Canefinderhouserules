@@ -1,8 +1,12 @@
 # Symbol of Sleep
 
 **School** enchantment (compulsion) [mind-affecting]; **Level** cleric 5, sorcerer/wizard 5  
+**Casting Time** 10 minutes  
 **Components** V, S, M (mercury and phosphorus, plus powdered diamond and opal worth a total of 1,000 gp)  
-**Saving Throw** Will negates
+**Range** 0 ft.; see text  
+**Effect** one symbol  
+**Duration** see text  
+**Saving Throw** Will negates; **Spell Resistance** yes
 
 This spell functions like *symbol of death*, except that all creatures of 10 HD or less within 60 feet of the *symbol of sleep* instead fall into a catatonic slumber for 3d6 × 10 minutes. Unlike with the *sleep* spell, sleeping creatures cannot be awakened by nonmagical means before this time expires.
 

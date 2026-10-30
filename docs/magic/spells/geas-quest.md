@@ -2,7 +2,9 @@
 
 **School** enchantment (compulsion) [language-dependent, mind- affecting]; **Level** bard 6, cleric 6, sorcerer/wizard 6  
 **Casting Time** 10 minutes  
+**Components** V  
 **Target** one living creature  
+**Duration** 1 day/level or until discharged (D)  
 **Saving Throw** none; **Spell Resistance** yes
 
 This spell functions similarly to *lesser geas,* except that it affects a creature of any HD and allows no saving throw.

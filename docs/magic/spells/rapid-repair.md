@@ -6,7 +6,7 @@
 **Range** touch  
 **Target** construct touched  
 **Duration** 1 round/level  
-**Saving Throw** Fortitude negates (harmless); Spell Resistance
+**Saving Throw** Fortitude negates (harmless); Spell Resistance; **Spell Resistance** yes (harmless)
 
 yes (harmless)
 

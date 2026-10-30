@@ -3,7 +3,9 @@
 **School** evocation; **Level** cleric 9  
 **Casting Time** 1 standard action  
 **Components** V, S; see text  
-**Range** see text
+**Range** see text  
+**Duration** see text  
+**Saving Throw** see text; **Spell Resistance** yes
 
 **Target, Effect, or Area** see text **Duration** see text **Saving Throw** see text; **Spell Resistance** yes You don’t so much cast a *miracle* as request one. You state what you would like to have happen and request that your deity (or the power you pray to for spells) intercede.
 

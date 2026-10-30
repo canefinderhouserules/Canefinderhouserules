@@ -1,6 +1,11 @@
 # Beast Shape III
 
-**School** transmutation (polymorph); **Level** sorcerer/wizard 5
+**School** transmutation (polymorph); **Level** sorcerer/wizard 5  
+**Casting Time** 1 standard action  
+**Components** V, S, M (a piece of the creature whose form you plan to assume)  
+**Range** personal  
+**Target** you  
+**Duration** 1 min./level (D)
 
 This spell functions as *beast shape II,* except that it also allows you to assume the form of a Diminutive or Huge creature of the animal type. This spell also allows you to take on the form of a Small or Medium creature of the magical beast type. If the form you assume has any of the following abilities, you gain the listed ability: burrow 30 feet, climb 90 feet, fly 90 feet (good maneuverability), swim 90 feet, blindsense 30 feet, darkvision 60 feet, low-light vision, scent, constrict, ferocity, grab, jet, poison, pounce, rake, trample, trip, and web.
 

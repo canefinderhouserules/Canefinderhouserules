@@ -1,6 +1,12 @@
 # True Resurrection
 
-**School** conjuration (healing); **Level** cleric 9
+**School** conjuration (healing); **Level** cleric 9  
+**Casting Time** 10 minutes  
+**Components** V, S, DF, M (diamond worth 25,000 gp)  
+**Range** touch  
+**Target** dead creature touched  
+**Duration** instantaneous  
+**Saving Throw** none, see text; **Spell Resistance** yes (harmless)
 
 **Casting Time**: 10 minutes **Components** V, S, DF, M (diamond worth 25,000 gp) This spell functions like *raise dead,* except that you can resurrect a creature that has been dead for as long as 10 years per caster level. This spell can even bring back creatures whose bodies have been destroyed, provided that you unambiguously identify the deceased in some fashion (reciting the deceased’s time and place of birth or death is the most common method).
 

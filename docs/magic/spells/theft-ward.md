@@ -5,6 +5,7 @@
 **Components** V, S  
 **Range** touch  
 **Target** one object  
-**Duration** 1 day
+**Duration** 1 day  
+**Saving Throw** Will negates (harmless, object); **Spell Resistance** yes (harmless, object)
 
 You ward a single object in your possession against theft. You gain a +10 bonus on Perception checks to notice someone trying to take the object from you.

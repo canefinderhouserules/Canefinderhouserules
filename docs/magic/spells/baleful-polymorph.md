@@ -5,7 +5,8 @@
 **Components** V, S  
 **Range** close (25 ft. + 5 ft./2 levels)  
 **Target** one creature  
-**Duration** permanent
+**Duration** permanent  
+**Saving Throw** Fortitude negates, Will partial, see text; **Spell Resistance** yes
 
 **Saving Throw**: Fortitude negates, Will partial, see text; **Spell**
 

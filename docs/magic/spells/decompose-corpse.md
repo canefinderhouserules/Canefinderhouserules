@@ -6,7 +6,7 @@
 **Range** touch  
 **Target** one corpse or corporeal undead  
 **Duration** instantaneous or 1 minute; see text  
-**Saving Throw** Fortitude negates (object); Spell Resistance
+**Saving Throw** Fortitude negates (object); Spell Resistance; **Spell Resistance** yes (object)
 
 yes (object)
 

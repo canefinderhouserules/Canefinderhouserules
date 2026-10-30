@@ -1,6 +1,12 @@
 # Prismatic Sphere
 
-**School** abjuration; **Level** sorcerer/wizard 9
+**School** abjuration; **Level** sorcerer/wizard 9  
+**Casting Time** 1 standard action  
+**Components** V  
+**Range** 10 ft.  
+**Effect** 10-ft.-radius sphere centered on you  
+**Duration** 10 min./level (D)  
+**Saving Throw** see text; **Spell Resistance** see text
 
 **Components**: V **Range** 10 ft. **Effect** 10-ft.-radius sphere centered on you This spell functions like *prismatic wall,* except you conjure up an immobile, opaque globe of shimmering, multicolored light that surrounds you and protects you from all forms of attack. The sphere flashes in all colors of the visible spectrum.
 

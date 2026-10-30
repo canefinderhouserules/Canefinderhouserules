@@ -1,7 +1,10 @@
 # Miasmatic Form
 
 **School** transmutation [air, poison]; **Level** alchemist 4, sorcerer/wizard 4  
+**Casting Time** 1 standard action  
 **Components** S, M (contact or inhaled poison worth 100 gp)  
+**Range** touch  
+**Target** willing corporeal creature touched  
 **Duration** 1 minute/level  
 **Saving Throw** none; see text; **Spell Resistance** no
 

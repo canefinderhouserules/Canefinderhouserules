@@ -1,7 +1,12 @@
 # Detect Magic
 
 **School** divination; **Level** bard 0, cleric 0, druid 0, sorcerer/wizard 0  
-**Casting Time** 1 standard action
+**Casting Time** 1 standard action  
+**Components** V, S  
+**Range** 60 ft.  
+**Area** cone-shaped emanation  
+**Duration** concentration, up to 1 min./level (D)  
+**Saving Throw** none; **Spell Resistance** no
 
 **Component**: V, S **Range** 60 ft. **Area** cone-shaped emanation **Duration** concentration, up to 1 min./level (D) **Saving Throw** none; **Spell Resistance** no You detect magical auras. The amount of information revealed depends on how long you study a particular area or subject.
 

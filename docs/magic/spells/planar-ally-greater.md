@@ -1,8 +1,10 @@
 # Planar Ally, Greater
 
-**School** conjuration (calling) [see text for *lesser planar ally*];  
-**Level** cleric 8  
+**School** conjuration (calling) [see text for *lesser planar ally*]; **Level** cleric 8  
+**Casting Time** 10 minutes  
 **Components** V, S, M (offerings worth 2,500 gp plus payment), DF  
-**Effect** up to three called outsiders, totaling no more than 18 HD, no two of which can be more than 30 ft. apart when they appear.
+**Effect** up to three called outsiders, totaling no more than 18 HD, no two of which can be more than 30 ft. apart when they appear.  
+**Duration** instantaneous  
+**Saving Throw** none; **Spell Resistance** no
 
 This spell functions like *lesser planar ally*, except that you may call a single creature of 18 HD or less, or up to three creatures of the same kind whose Hit Dice total no more than 18. The creatures agree to help you and request your return payment together.

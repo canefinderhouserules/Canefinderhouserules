@@ -1,6 +1,11 @@
 # Beast Shape IV
 
-**School** transmutation (polymorph); **Level** sorcerer/wizard 6
+**School** transmutation (polymorph); **Level** sorcerer/wizard 6  
+**Casting Time** 1 standard action  
+**Components** V, S, M (a piece of the creature whose form you plan to assume)  
+**Range** personal  
+**Target** you  
+**Duration** 1 min./level (D)
 
 This spell functions as *beast shape III* except that it also allows you to assume the form of a Tiny or Large creature of the magical beast type. If the form you assume has any of the following abilities, you gain the listed ability: burrow 60 feet, climb 90 feet, fly 120 feet (good maneuverability), swim 120 feet, blindsense 60 feet, darkvision 90 feet, low-light vision, scent, tremorsense 60 feet, breath weapon, constrict, ferocity, grab, jet, poison, pounce, rake, rend, roar, spikes, trample, trip, and web. If the creature has immunity or resistance to any elements, you gain resistance 20 to those elements. If the creature has vulnerability to an element, you gain that vulnerability.
 

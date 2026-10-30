@@ -1,6 +1,11 @@
 # Ooze Form III
 
-**School** transmutation (polymorph); **Level** sorcerer/wizard 7
+**School** transmutation (polymorph); **Level** sorcerer/wizard 7  
+**Casting Time** 1 standard action  
+**Components** V, S, M (a bit of the creature whose form you plan to assume)  
+**Range** personal  
+**Target** you  
+**Duration** 1 minute/level (D)
 
 This spell functions as ooze form II except you can also assume the form of a Huge ooze. You gain blindsight 60 feet and a +8 resistance bonus on saving throws against mind-affecting effects and poison as well.
 

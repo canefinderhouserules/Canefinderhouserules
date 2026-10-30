@@ -1,6 +1,11 @@
 # Elemental Body III
 
-**School** transmutation (polymorph); **Level** sorcerer/wizard 6
+**School** transmutation (polymorph); **Level** sorcerer/wizard 6  
+**Casting Time** 1 standard action  
+**Components** V, S, M (the element you plan to assume)  
+**Range** personal  
+**Target** you  
+**Duration** 1 min./level
 
 This spell functions as *elemental body II,* except that it also allows you to assume the form of a Large air, earth, fire, or water elemental. The abilities you gain depend upon the type of elemental into which you change. You are also immune to bleed damage, critical hits, and sneak attacks while in elemental form.
 

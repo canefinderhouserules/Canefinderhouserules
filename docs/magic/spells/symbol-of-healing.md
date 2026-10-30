@@ -1,7 +1,12 @@
 # Symbol of Healing
 
 **School** conjuration (healing); **Level** cleric 3, paladin 4, witch 4  
-**Components** V, S, M (mercury and phosphorous, plus
+**Casting Time** 10 minutes  
+**Components** V, S, M (mercury and phosphorous, plus  
+**Range** 0 ft.; see text  
+**Effect** one symbol  
+**Duration** see text  
+**Saving Throw** Will half (harmless) (see text); **Spell Resistance** yes (harmless) (see text)
 
 powdered diamond and opal worth a total of 500 gp) Saving Throw Will half (harmless) (see text); Spell Resistance yes (harmless) (see text)
 

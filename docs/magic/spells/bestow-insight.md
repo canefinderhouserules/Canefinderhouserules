@@ -1,7 +1,12 @@
 # Bestow Insight
 
 **School** enchantment (compulsion); **Level** bard 2, cleric 3, inquisitor 2, sorcerer/wizard 2, witch 2  
-**Casting Time** 1 standard action
+**Casting Time** 1 standard action  
+**Components** V, S  
+**Range** touch  
+**Target** one creature touched  
+**Duration** 1 minute/level  
+**Saving Throw** Will negates (harmless); **Spell Resistance** yes (harmless)
 
 **Component** V, S
 

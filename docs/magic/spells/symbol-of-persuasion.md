@@ -1,8 +1,12 @@
 # Symbol of Persuasion
 
 **School** enchantment (charm) [mind-affecting]; **Level** cleric 6, sorcerer/wizard 6  
+**Casting Time** 10 minutes  
 **Components** V, S, M (mercury and phosphorus, plus powdered diamond and opal worth a total of 5,000 gp)  
-**Saving Throw** Will negates
+**Range** 0 ft.; see text  
+**Effect** one symbol  
+**Duration** see text  
+**Saving Throw** Will negates; **Spell Resistance** yes
 
 This spell functions like *symbol of death*, except that all creatures within the radius of a *symbol of persuasion* instead become charmed by the caster (as the *charm monster* spell) for 1 hour per caster level.
 

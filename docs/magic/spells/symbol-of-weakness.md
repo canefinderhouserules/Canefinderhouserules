@@ -1,7 +1,12 @@
 # Symbol of Weakness
 
 **School** necromancy; **Level** cleric 7, sorcerer/wizard 7  
-**Components** V, S, M (mercury and phosphorus, plus powdered diamond and opal worth a total of 5,000 gp)
+**Casting Time** 10 minutes  
+**Components** V, S, M (mercury and phosphorus, plus powdered diamond and opal worth a total of 5,000 gp)  
+**Range** 0 ft.; see text  
+**Effect** one symbol  
+**Duration** see text  
+**Saving Throw** Fortitude negates; **Spell Resistance** yes
 
 This spell functions like *symbol of death*, except that every creature within 60 feet of a *symbol of weakness* instead suffers crippling weakness that deals 3d6 points of Strength damage.
 

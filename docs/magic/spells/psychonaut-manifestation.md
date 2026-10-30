@@ -6,7 +6,7 @@
 **Range** personal  
 **Target** you  
 **Duration** 1 round/level (D)  
-**Saving Throw** see text
+**Saving Throw** see text; **Spell Resistance** none
 
 You take a mental journey through the doors of perception to enter an altered state of consciousness. Despite this hallucinatory transmigration being entirely unreal, your mind and body fully react to it. You gain a +4 alchemical bonus to a random ability score, as well as a corresponding –2 penalty. If the bonus applies to Strength, the penalty applies to Intelligence, and vice versa. If the bonus applies to Dexterity, the penalty applies to Wisdom, and vice versa. If the bonus applies to Constitution, the penalty applies to Charisma, and vice versa.
 

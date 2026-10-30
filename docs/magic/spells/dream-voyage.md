@@ -1,6 +1,12 @@
 # Dream Voyage
 
-**School** conjuration (teleportation) [mind-affecting]; **Level** psychic 9
+**School** conjuration (teleportation) [mind-affecting]; **Level** psychic 9  
+**Casting Time** 1 standard action  
+**Components** V, S  
+**Range** touch  
+**Target** you and one creature/level  
+**Duration** 1 hour/level (D)  
+**Saving Throw** Will negates; **Spell Resistance** yes
 
 This spell functions as dream travel, but you and your companions travel through the Dimension of Dreams in a fantastical vehicle of your own devising that halves the travel time. Only you can pilot the vessel, and you can do so even if you aren’t inside it. Your psychic vehicle buffers minds from the intense emotional tides of the Dimension of Dreams, rendering everyone inside immune to harmful emotion and fear effects. Unlike with dream travel, there is no chance the vessel arrives off target. In addition, you need not have met the target creature, but in that case you must have at least a reliable description of it. However, if you attempt to travel there with insufficient or incorrect information, you do need to roll, using the false identity entry from dream travel.
 
