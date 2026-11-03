@@ -36,6 +36,8 @@ The prestige classes presented in this chapter are summarized below.
 
 **[Arclord of the Eye](arclord-of-the-eye.md)**: A scholarly wizard who builds constructs and shares school powers.
 
+**[Balanced Scale](balanced-scale.md)**: A divine treasure-hunter who bypasses wards, appraises at a glance and draws goods from a divine vault.
+
 **[Battle Herald](battle-herald.md)**: A veteran whose masterful tactics and air of command inspire allies to greater feats of heroism.
 
 **[Brewkeeper](brewkeeper.md)**: A spellcaster who distills spells and extracts into draughts and enhances them with homebrews.

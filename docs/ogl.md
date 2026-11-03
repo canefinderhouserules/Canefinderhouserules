@@ -381,3 +381,5 @@ The following text is the property of Wizards of the Coast, Inc. and is Copyrigh
     Pathfinder Campaign Setting: Distant Shores © 2015, Paizo Inc.; Authors: John Compton, Adam Daigle, Crystal Frasier, Amanda Hamon, Rob McCreary, Mark Moreland, James L. Sutter, and Owen K.C. Stephens.
 
     Pathfinder Campaign Setting: Demons Revisited © 2013, Paizo Publishing, LLC; Author: James Jacobs.
+
+    Pathfinder Chronicles: Dark Markets, A Guide to Katapesh © 2009, Paizo Publishing, LLC; Authors: Stephen S. Greer and Amber E. Scott.

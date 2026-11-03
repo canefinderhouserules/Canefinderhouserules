@@ -8200,3 +8200,15 @@ A *whispering amulet* looks like a bejeweled glabrezu head to the person who own
 
 **Construction Requirements:** Craft Wondrous Item, *sending*, *undetectable alignment*, *wish*; **Cost** 35,000 gp
 
+## Bazaar Items
+
+### Brazen Claw
+
+**Slot** weapon; **CL** 9th; **Price** 18,315 gp; **Weight** 4 lbs.
+
+**Aura** moderate transmutation
+
+This jagged piece of curved brass with a razor-sharp edge functions as a *+2 vicious scimitar*. If a gnoll wields the *brazen claw*, he takes no damage from the sword’s vicious ability.
+
+**Construction Requirements:** Craft Magic Arms and Armor, *enervation*, *magic weapon*, creator must be a gnoll; **Cost** 9,158 gp
+

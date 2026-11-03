@@ -2363,6 +2363,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Ironbound Master](ironbound-master.md) | — | Cleric level 7th, worshiper of a deity of war |
 | [Ironclad Logic](ironclad-logic.md) | — | Int 19, Diplomacy 3 ranks |
 | [Ironclad Reactions](ironclad-reactions.md) | Armor Mastery | Base attack bonus +6 or fighter level 4th, armor training class feature, proficiency with medium armor |
+| [Jackal Blood](jackal-blood.md) | — | — |
 | [Jackal Heritage](jackal-heritage.md) | — | Humanoid, must be taken at 1st level |
 | [Jinx Alchemy](jinx-alchemy.md) | General | Swift alchemy class feature, Halfling Jinx racial trait |
 | [Joined Wings](joined-wings.md) | Teamwork | Fervor or lay on hands class feature |
@@ -2628,6 +2629,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Pesh Adept](pesh-adept.md) | General | Spell Focus (any), ability to cast 2nd-level spells |
 | [Pesh Euphoria](pesh-euphoria.md) | General | Pesh Adept or pesh addict |
 | [Pesh Healing](pesh-healing.md) | General | Pesh Adept or pesh addict |
+| [Pesh Mage](pesh-mage.md) | — | Spell Focus (any), ability to cast 2nd-level spells |
 | [Pesh Rejuvenation](pesh-rejuvenation.md) | General | Pesh Adept or pesh addict |
 | [Phalanx Formation](phalanx-formation.md) | Combat | Base attack bonus +1 |
 | [Phantom Ally](phantom-ally.md) | General | Phantom class feature |

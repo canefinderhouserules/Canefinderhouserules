@@ -3293,3 +3293,45 @@ The gastraphetes, sometimes called a “belly bow,” is an oversized crossbow r
 **Cost** 5 gp; **Weight** 3 lbs.; **Damage** 1d4 (small), 1d6 (medium); **Critical** ×2; **Range** 20 ft.; **Type** P; martial ranged.
 
 A phaleros is a type of metal javelin that stores a splash weapon in a small cage between the haft and the spearhead. When a phaleros strikes its target, the spearhead compresses toward the haft and breaks the payload, showering the target with its contents as though you had struck the target’s square with the splash weapon. On a critical hit, you instead treat the target as though it had suffered a direct hit from the splash weapon. A phaleros is reusable, and reloading one with a splash weapon is a process that takes two rounds and provokes attacks of opportunity.
+
+## Bazaar Poisons
+
+### Dhabba Spittle
+
+**Price** 50 gp; **Weight** —
+
+**Type** injury; **Save** Fortitude DC 12
+
+**Initial Effect** 1d6 acid damage and nauseated; **Secondary Effect** 1d4 Dex
+
+### Flayleaf Spider Venom
+
+**Price** 100 gp; **Weight** —
+
+**Type** injury; **Save** Fortitude DC 11
+
+**Initial Effect** 1d3 Con; **Secondary Effect** 1d3 Con
+
+### Insanity Pill
+
+**Price** 1,500 gp; **Weight** —
+
+**Type** ingested; **Save** Fortitude DC 14
+
+**Effect** creature affected as if by a *confusion* spell for 1 minute
+
+### Mage Bane
+
+**Price** 500 gp; **Weight** —
+
+**Type** contact; **Save** Fortitude DC 20
+
+**Initial Effect** +10 to all Concentration checks for 1 hour; **Secondary Effect** +10 to all Concentration checks for 1 hour
+
+### Purple Pesh
+
+**Price** 200 gp; **Weight** —
+
+**Type** ingested; **Save** Fortitude DC 18
+
+**Initial Effect** 1d2 Con and Str; **Secondary Effect** unconscious for 1 hour
