@@ -321,6 +321,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Call the Void](call-the-void.md)**: Aura of nothingness damages and silences adjacent creatures.
 - **[Catatonia](catatonia.md)**: Make a willing target appear to be dead.
 - **[Channel the Gift](channel-the-gift.md)**: Your spell slot powers an ally’s spell.
+- **[Charitable Impulse](charitable-impulse.md)**: Compels a humanoid to heal others and give away its possessions.
 - **[Claim Identity](claim-identity.md)**: Steal a touched humanoid’s face and identity.
 - **[Clear Grove](clear-grove.md)**: Vegetation withdraws from a 20-ft.-radius clearing.
 - **[Collaborative Thaumaturgy](collaborative-thaumaturgy.md)**: Ally applies a metamagic feat to a spell for free.

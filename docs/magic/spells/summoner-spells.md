@@ -168,6 +168,7 @@ New summoner spells from *Ultimate Magic*. Spells from other books will be added
 - **[Skeleton Crew](skeleton-crew.md)**: Animates corpses as skeleton sailors.
 - **[Stoneskin, Communal](stoneskin-communal.md)**
 - **[Summon Genie](summon-genie.md)**: Summons a djinni or janni.
+- **[Summon Stampede](summon-stampede.md)**: A conjured herd tramples everything in its straight-line path.
 - **[Summoner Conduit](summoner-conduit.md)**: The target takes damage whenever its summoned creature does.
 - **[Surface Excursion](surface-excursion.md)**: Teleport to the surface directly above you, with a beacon to return.
 - **[Sword to Snake](sword-to-snake.md)**: An item bites whoever handles it.

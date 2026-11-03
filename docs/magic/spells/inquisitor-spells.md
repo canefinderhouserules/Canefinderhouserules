@@ -210,6 +210,7 @@ New inquisitor spells from *Ultimate Magic*. Spells from other books will be add
 - **[Bite the Hand](bite-the-hand.md)**: Summoned creature attacks its summoner.
 - **[Blessing of the Mole](blessing-of-the-mole.md)**: 1 ally/level gains darkvision and a +2 Stealth bonus.
 - **[Blinding Ray](blinding-ray.md)**: School evocation [good, light]; Level cleric 2, inquisitor 3, paladin 2 Casting Time 1 standard action.
+- **[Blood of the Martyr](blood-of-the-martyr.md)**: The target bleeds, and those who drink its blood are healed.
 - **[Blood Scent](blood-scent.md)**: School transmutation; Level alchemist 3, antipaladin 2, cleric 3, druid 3, inquisitor 3, ranger 2.
 - **[Bloody Arrows](bloody-arrows.md)**: Ranged hits cause stacking bleed.
 - **[Bone Flense](bone-flense.md)**: Barbed bone spurs flense a struck creature.

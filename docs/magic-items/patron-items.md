@@ -1,8 +1,20 @@
 # Patron Items
 
-Items favored by the faithful of particular deities. Anyone can use their first power; the rest work only if the listed deity is the user’s patron. Deities are named by what they govern.
+Items tied to particular faiths and celestial powers. Many have a power anyone can use, plus others that work only if the listed deity is the user’s patron. Deities are named by what they govern.
 
 ## Items
+
+### Angel’s Clarion
+
+**Slot** none; **CL** 5th; **Price** 23,400 gp; **Weight** 1 lb.
+
+**Aura** faint conjuration and transmutation
+
+An *angel’s clarion* is a graceful trumpet whose bell unfolds like the petals of a flower. These trumpets are usually platinum or silver near the mouthpiece, transforming to a rose gold at the bell.
+
+Three times per day when an *angel’s clarion* is sounded, it releases a blast that sounds like the chiming, resonant voices of an angelic choir. Any good-aligned creatures in a 30-foot cone emanating from the trumpet are washed in positive energy and healed for 3d8+5 points of damage. This energy only affects good-aligned creatures; neutral and evil creatures receive no benefit and undead creatures are not harmed. A carpet of flowers springs up beneath the 30-foot cone, growing and blooming in seconds. Any evil-aligned creatures within the area of effect must succeed at a DC 13 Reflex save or be treated as if in the area of an *entangle* spell. The entangling flowers persist for 5 minutes.
+
+**Construction Requirements:** Craft Wondrous Item, *cure serious wounds*, *entangle*, creator must worship an empyreal lord; **Cost** 11,700 gp
 
 ### Barbed Pentacle of Hell
 
@@ -159,6 +171,18 @@ This primitive hyena mask is usually made of leather, but may be made of soft me
 If the goddess of monsters is the wearer’s patron, the mask counts as an unholy symbol and a hole for a third eye appears in its forehead. The wearer can use *summon monster II* once per day to summon a fiendish hyena, which obeys the wearer as if they shared a common language. The wearer may interbreed with animals within one size category of the wearer’s size. The offspring of such unions are members of the mother’s race with the fiendish simple template and bear monstrous aesthetic features of the father’s race.
 
 **Construction Requirements:** Craft Wondrous Item, *detect animals or plants*, *polymorph*, *summon monster II*, creator must have 5 ranks in Handle Animal and Heal; **Cost** 1,800 gp
+
+### Empyreal Armor
+
+**Slot** armor; **CL** 13th; **Price** 100,050 gp; **Weight** 50 lbs.
+
+**Aura** strong evocation [fire]
+
+Legend tells that the first suits of *empyreal armor* were forged from the battered, cast-off breastplates worn by solars in battle. These suits were gifted to powerful mortal heroes and have since changed hands many times.
+
+*Empyreal armor* is made of steel forged so that it reflects a golden sheen in the sunlight. This armor functions as a suit of *+3 moderate fortification full plate*. In addition, three times per day, its wearer can activate a *fire shield* (warm shield only) that lasts for 13 rounds. Any creature attacking the wearer with its body or a handheld weapon while the *fire shield* effect is active deals normal damage but takes 1d6+13 points of damage in return. Half this damage is fire damage, but the other half results directly from divine power and is therefore not subject to energy resistance.
+
+**Construction Requirements:** Craft Magic Arms and Armor, *fire shield*, *limited wish* or *miracle*; **Cost** 50,850 gp
 
 ### Father’s Forgehammer
 
@@ -364,6 +388,46 @@ If the god of magic is the wearer’s patron, the wearer can use the bracer as i
 
 **Construction Requirements:** Craft Wondrous Item, Silent Spell, *detect magic*, *mage hand*, *resistance*; **Cost** 1,050 gp
 
+### Splendorous Ring
+
+**Slot** ring; **CL** 3rd; **Price** 9,900 gp; **Weight** —
+
+**Aura** faint illusion
+
+A *splendorous ring* is composed of six white and yellow gemstones faceted in a platinum band. Three times per day, the wearer of a *splendorous ring* can twist the ring to cloak himself in an aura of glory. He appears both radiant and terrible, glowing with the might of the heavens. Anyone within 10 feet of the ring when it is activated must succeed at a DC 13 Will save or be fascinated by the wearer’s form as if affected by *hypnotic pattern*. 2d4+3 Hit Dice worth of creatures are affected in this way.
+
+The fascinating effect of the ring lasts for 3 rounds. During that time and for 5 rounds after, the ring’s wearer gains a +2 sacred bonus on any Charisma checks or Charisma-based skill checks to influence any good-aligned creatures affected by the ring’s *hypnotic pattern* effect, and a –2 penalty on any Charisma checks or Charisma-based skill checks to influence any evil-aligned creatures affected by the *hypnotic pattern* effect.
+
+**Construction Requirements:** Forge Ring, *eagle's splendor*, *hypnotic pattern*, creator must be good-aligned; **Cost** 4,950 gp
+
+### Staff of Wings
+
+**Slot** none; **CL** 13th; **Price** 59,400 gp; **Weight** 5 lbs.
+
+**Aura** strong illusion and transmutation
+
+Angels crafted the first *staff of wings* to assist their mortal allies during a fiendish invasion onto the Material Plane. Copies have since been made by secular crafters. A *staff of wings* is made of light birch and topped with a carved pair of angelic wings made out of precious stone. This staff produces flight effects, and the wielder gains translucent, illusory wings upon casting them. Depending on the alignment and chosen patron of the creator, these wings may appear draconic, feathery, or prismatic, or may have other celestial features. The staff allows the use of the following spells:
+
+- *Fly* (1 charge)
+
+- *Overland flight* (2 charges)
+
+- *Mass fly*APG (3 charges)
+
+**Construction Requirements:** Craft Staff, *fly*, *mass fly*APG, *overland flight*, *silent image*; **Cost** 29,700 gp
+
+### Starknife of the Void
+
+**Slot** none; **CL** 5th; **Price** 21,324 gp; **Weight** 3 lbs.
+
+**Aura** strong illusion and transmutation
+
+The *starknife of the void* is a weapon designed by devotees of an empyreal lord of silence and space and at one time could only be found among the faithful of her mystery cults. Over time, these weapons fell into the hands of those outside the cult, and now they crop up in odd places—sealed vaults, underground treasure caches, the bottom of the sea—but always places where there is darkness and stillness.
+
+The *starknife of the void* is a *+2 returning starknife*. If the wielder scores a critical hit against a foe with a *starknife of the void*, it discharges a *blindness/deafness* spell affecting the creature struck. The target must succeed at a DC 14 Fortitude save or be struck blind or deaf (as chosen by the wielder of the *starknife of the void*). If the *starknife of the void* deals more than one critical hit to the same target, the target can potentially become both blind and deaf.
+
+**Construction Requirements:** Craft Magic Arms and Armor, *blindness/deafness*, *telekinesis*; **Cost** 10,824 gp
+
 ### Stinging Stiletto
 
 **Slot** neck, ring, or none; **CL** 3rd; **Price** 4,500 gp; **Weight** —
@@ -387,6 +451,16 @@ This impossibly hard, lumpy piece of unforged iron originates from metal that re
 If the god of battle is the wearer’s patron, the wearer can use *chill metal* once per day. At will, the wearer can mend small metallic items as if using a *mending* spell.
 
 **Construction Requirements:** Craft Wondrous Item, *chill metal*, *mending*, *resist energy*, *resistance*; **Cost** 2,100 gp
+
+### Sword of Vengeance
+
+**Slot** none; **CL** 9th; **Price** 32,350 gp; **Weight** 8 lbs.
+
+**Aura** moderate evocation [good]
+
+It is said that the divine soldiers of an empyreal lord of vengeance wield these golden *+1 holy greatswords* in their battles against fiends and other evil creatures. Once per day upon successfully striking an evil-aligned creature with a *sword of vengeance*, the wielder can cause the sword to emit a 20-foot-radius burst of holy energy. This effect is identical to that of a *holy smite* spell centered on the creature struck, and deals 4d8 points of damage to each evil creature in the area (or 9d6 points of damage to evil outsiders) and causes each to become blinded for 1 round. A successful DC 16 Will save halves the damage and negates the blinded effect. Neutral creatures in the area only take half damage (reduced to one-quarter on a successful save) and are not blinded.
+
+**Construction Requirements:** Craft Magic Arms and Armor, *holy smite*, creator must be good; **Cost** 16,350 gp
 
 ### Tankard of the Drunken Hero
 
@@ -459,6 +533,22 @@ If the dead god of humanity is your patron, the pendant counts as a holy symbol.
 **Construction Requirements:** Craft Wondrous Item, *moment of prescience*, creator must have 5 ranks in the appropriate Knowledge skill; **Cost** 1,550 gp
 
 ## Artifacts
+
+### Chronicle of the Good Planes
+
+**Slot** none; **CL** 25th; **Price** —; **Weight** 12 lbs.
+
+**Aura** overwhelming (all schools) [good]
+
+The *Chronicle of the Good Planes* is the collected records of the good Outer Planes as written by an exiled angel, who was ordered to catalog the lore of all the multiverse but was cast out of Heaven for his findings. The pages pertaining to the good Outer Planes lie within covers of beaten precious metals, bedecked with jewels of every color and inscribed with celestial iconography. Only a truly reverent individual, completely devoted to good, can open the *Chronicle of the Good Planes* without an effort of will; for others, a successful DC 12 Will save is required to open the book. On a failed save, the individual decides she is unworthy of beholding the *Chronicle* and cannot attempt to open the book again for 24 hours.
+
+The *Chronicle of the Good Planes* is written in Celestial. It details the geography of the good-aligned planes, the gods, empyreal lords, and celestial creatures who live there, and the unadulterated truths of these beings and their acts—truths that are sometimes heartening and at other times unsettling. Any evil-aligned creature who touches the *Chronicle of the Good Planes* gains 1 negative level. This level cannot be restored until the character has remained more than 10 feet away from the book for 24 hours. Nongood creatures attempting to read the book must succeed at a DC 15 Will save or have their alignment permanently take one step toward good.
+
+A reader who spends 30 days (not necessarily consecutively) studying the book receives several benefits. The book contains copies of every conjuration (healing) spell and every spell with the good descriptor. The user gains a +4 bonus on all Knowledge (planes) checks if she uses the book as a resource (consulting it for at least 1 hour regarding a question), and its descriptions of the good-aligned planes are so accurate that any teleportation travel to or within those planes always brings the caster to the exact location desired.
+
+As long as the book is carried, the user is immediately aware of any action that might cause an alignment shift or a loss of standing with her deity, as if she wore a *phylactery of faithfulness*. The *Chronicle of the Good Planes* is also surrounded by a permanent *zone of truth*, and creatures must succeed at a DC 15 Will save to tell a lie within 20 feet of the book. The bearer of the book casts all good spells as if she were 2 caster levels higher and gains a +2 bonus on all Charisma checks and Charisma-based skill checks when interacting with good creatures. Three times per day, the book can be used to cast one of the following spells: *banishment*, *consecrate*, *greater planar binding*, *holy smite*, *holy word*, *sanctify weapons*, and *summon monster VII*. Each time the *Chronicle of the Good Planes* is referenced or used to cast a spell, there is a 10% chance that any empyreal lords on the same plane as the user instantly become aware of the book’s precise location.
+
+**Destruction**: The *Chronicle of the Good Planes* can be destroyed by first bathing it in the blood of a fallen empyreal lord who has killed at least 100 good mortals and then burning it in a pit of hellfire.
 
 ### Greatcube of Magic
 

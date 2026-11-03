@@ -530,6 +530,7 @@
 - **[Stoneskin, Communal](stoneskin-communal.md)**
 - **[Summon Flight of Eagles](summon-flight-of-eagles.md)**: Summon giant eagles to fight or serve as mounts.
 - **[Summon Nature’s Ally VI](summon-natures-ally-vi.md)**: Summons creature to fight.
+- **[Summon Stampede](summon-stampede.md)**: A conjured herd tramples everything in its straight-line path.
 - **[Symbol of Storms](symbol-of-storms.md)**: rune that unleashes hurricane winds and lightning
 - **[Tar Pool](tar-pool.md)**: Converts the top layer of the ground into hot tar.
 - **[Transport via Plants](transport-via-plants.md)**: Move instantly from one plant to another of the same kind.
@@ -590,6 +591,7 @@
 - **[Rotting Alliance](rotting-alliance.md)**: Curse several creatures to waste away when near one another.
 - **[Summon Nature’s Ally VIII](summon-natures-ally-viii.md)**: Summons creature to fight.
 - **[Sunburst](sunburst.md)**: Blinds all within 10 ft., deals 6d6 damage.
+- **[Vinetrap](vinetrap.md)**: Thorny vines progressively slow a target, with blessed, noxious, or swift variants.
 - **[Wandering Weather](wandering-weather.md)**: Control weather in a large area that moves with you.
 - **[Whirlwind](whirlwind.md)**: Cyclone deals damage and can pick up creatures.
 - **[Word of Recall](word-of-recall.md)**: Teleports you back to designated place.

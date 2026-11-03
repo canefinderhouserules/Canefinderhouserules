@@ -567,6 +567,7 @@
 - **[Cauterizing Weapon](cauterizing-weapon.md)**: Weapon or ammunition overcomes regeneration.
 - **[Chain of Perdition](chain-of-perdition.md)**: Creates a floating chain of force.
 - **[Channel the Gift](channel-the-gift.md)**: Your spell slot powers an ally’s spell.
+- **[Charitable Impulse](charitable-impulse.md)**: Compels a humanoid to heal others and give away its possessions.
 - **[Clay Skin](clay-skin.md)**: Target gains DR 5/adamantine.
 - **[Collaborative Thaumaturgy](collaborative-thaumaturgy.md)**: Ally applies a metamagic feat to a spell for free.
 - **[Conjure Carriage](conjure-carriage.md)**: Create a fine carriage.
@@ -1265,6 +1266,7 @@
 - **[Dream Scan](dream-scan.md)**: Read a dreaming creature’s thoughts.
 - **[Dust Ward](dust-ward.md)**: Ward a magic item against other creatures learning to use or copy it
 - **[Eldritch Conduit, Greater](eldritch-conduit-greater.md)**: Use multiple enemies as origin points for area spells.
+- **[Elemental Assessor](elemental-assessor.md)**: A ray deals four energy types, then keeps burning with the one that hurt most.
 - **[Emblem of Greed](emblem-of-greed.md)**: Turn a melee weapon into a burning glaive.
 - **[Energy Siege Shot, Greater](energy-siege-shot-greater.md)**: As energy siege shot, but you can affect any size siege engine.
 - **[Ether Step](ether-step.md)**: Step briefly into the Ethereal Plane to avoid attacks and dangers
