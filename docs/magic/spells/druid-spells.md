@@ -319,6 +319,7 @@
 - **[Share Language, Communal](share-language-communal.md)**: As share language, but you may divide the duration among creatures touched.
 - **[Sheet Lightning](sheet-lightning.md)**: A flash of electricity dazes or dazzles creatures in a 20-foot spread.
 - **[Signs of the Land](signs-of-the-land.md)**: Learn up to three details about the surrounding territory.
+- **[Silverlight](silverlight.md)**: Silvery light dazzles and sickens creatures with DR/silver.
 - **[Siphon Might](siphon-might.md)**: Drains target's Strength and grants it to an ally.
 - **[Sky Swim](sky-swim.md)**: Swim through the air.
 - **[Sleet Storm](sleet-storm.md)**: Hampers vision and movement.

@@ -453,6 +453,7 @@
 - **[Sharesister](sharesister.md)**: Take a negative level to boost an ally’s casting.
 - **[Shield of Darkness](shield-of-darkness.md)**: magical darkness grants you total concealment
 - **[Shield of Wings](shield-of-wings.md)**: Gain five burning wings that grant flight and fire resistance.
+- **[Silverlight](silverlight.md)**: Silvery light dazzles and sickens creatures with DR/silver.
 - **[Skeleton Crew](skeleton-crew.md)**: Animates corpses as skeleton sailors.
 - **[Sky Swim](sky-swim.md)**: Swim through the air.
 - **[Skyshroud](skyshroud.md)**: Shows the real sky above you, even underground.

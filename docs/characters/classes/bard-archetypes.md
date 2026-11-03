@@ -2210,3 +2210,9 @@ At 7th level, an agent need only wait 1d6 days between uses of called favors. In
 *Master of Manipulation (Su)*: At 8th level, a society agent gains a reputation of being able to sense lies. When using bardic performance, his very presence can often draw the truth out of others. This ability affects all creatures selected by the bard within a 20-foot-radius emanation from the bard. Any affected creature can’t speak any deliberate or intentional lies, but is aware of the effect and can choose to avoid answering a question to which it would normally respond with a lie, or may be evasive as long as it remains within the boundaries of the truth. This is a mind-affecting compulsion effect.
 
 This performance replaces dirge of doom.
+
+## Academy Graduate
+
+Bards who have successfully mastered the strict curriculum of an academy of grand arts are more adept in their assigned field of performance, at the expense of versatility in other areas. Such bards have the focused performance alternate class ability, which replaces versatile performance.
+
+**Focused Performance (Ex)**: At 2nd level, a bard must choose one type of Perform skill. The bard gains Extra Performance as a bonus feat, usable only with the chosen category of the Perform skill. At 8th level, and every 6 levels thereafter, the bard gains Extra Performance as an additional bonus feat. The additional uses of bardic performance gained from these feats cannot be used with any category of the Perform skill other than the one chosen at 2nd level.

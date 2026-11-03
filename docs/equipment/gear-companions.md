@@ -3533,3 +3533,65 @@ The best cure for this disease is dosing the patient with the poison arsenic—i
 **Effect** 1d6 Con damage and 1d6 Cha damage; whenever the character takes Con damage, 1 point is permanent drain
 
 **Cure** 2 consecutive saves
+
+## River Poisons
+
+### Aconite Root
+
+**Price** 1,800 gp; **Weight** —
+
+**Type** ingested; **Save** Fortitude DC 25
+
+**Onset** 1 minute; **Frequency** 1/round for 5 rounds
+
+**Effect** 1d3 Dex damage, 1 Con damage, and nauseated for 1 round
+
+**Cure** 2 saves
+
+### Baneberry
+
+**Price** 90 gp; **Weight** —
+
+**Type** ingested or injury; **Save** Fortitude DC 15
+
+**Onset** 1 round (injury), 30 minutes (ingested); **Frequency** 1/minute for 5 minutes
+
+**Effect** 1d3 Str damage, 1 Con damage, paralyzed for 1d3 rounds
+
+**Cure** 2 saves
+
+### Calotropis
+
+**Price** 120 gp; **Weight** —
+
+**Type** ingested; **Save** Fortitude DC 14
+
+**Onset** 1 hour; **Frequency** 1/minute for 6 minutes
+
+**Effect** 1 Wis damage and 1d3 Dex damage
+
+**Cure** 1 save
+
+### Shamweed
+
+**Price** 6,500 gp; **Weight** —
+
+**Type** contact; **Save** Fortitude DC 18
+
+**Onset** immediate and 1 week, see effect; **Frequency** varies, see effect
+
+**Initial Effect** +1 Con/day for 1 week; **Secondary Effect** all Con gained from initial effect removed, 1d6 Con damage/day for 7 days
+
+**Cure** 2 consecutive saves
+
+### Thornapple
+
+**Price** 90 gp; **Weight** —
+
+**Type** contact; **Save** Fortitude DC 11
+
+**Onset** 10 minutes; **Frequency** 1/minute for 6 minutes
+
+**Effect** 1 Int damage, 1 Wis damage, 1 Con damage, and blind for 1 minute
+
+**Cure** 2 saves

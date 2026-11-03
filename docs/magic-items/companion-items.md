@@ -8296,3 +8296,15 @@ Finally, a creature in control of the *void crystal* can use *dimension door* at
 
 **Destruction**: The *void crystal* can be destroyed by subjecting it to 16 continual hours of true sunlight without removing it from its receptacle in the collection chamber.
 
+## River Items
+
+### Salve of the Second Chance
+
+**Slot** none; **CL** 7th; **Price** 1,600 gp; **Weight** —
+
+**Aura** moderate transmutation
+
+Under tutelage from forest sprites, a wise-woman of the wilds developed this potent salve from the distillation of a rare moss. When smeared on a body or body part from a recently deceased creature, the salve mimics the effects of a *reincarnate* spell. If this salve is used on a creature during the night of a new moon, roll twice on the *reincarnate* table and have the recipient player or NPC choose his preferred result.
+
+**Construction Requirements:** Craft Wondrous Item, *reincarnate*; **Cost** 800 gp
+

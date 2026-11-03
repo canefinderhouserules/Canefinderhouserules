@@ -1947,10 +1947,13 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Dramatic Slam](dramatic-slam.md) | Combat | Dazzling Display, Improved Grapple, Improved Unarmed Strike, Savage Slam*, Weapon Focus, base attack bonus +9 or monk level 6th |
 | [Dreamed Secrets](dreamed-secrets.md) | — | Ability to cast divine spells, caster level 7th, worshiper of an alien or eldritch power |
 | [Dreamwalker](dreamwalker.md) | — | Cha 17, [Lucid Dreamer](lucid-dreamer.md), [Practiced Dreamer](practiced-dreamer.md), Knowledge (planes) 10 ranks |
+| [Drinking Buddy](drinking-buddy.md) | Teamwork | — |
 | [Drow Spirit](drow-spirit.md) | — | Half-elf |
 | [Druidic Decoder](druidic-decoder.md) | — | Linguistics 1 rank, cannot be a druid |
 | [Drunkard’s Recovery](drunkard-s-recovery.md) | — | Con 13 |
 | [Drunken Brawler](drunken-brawler.md) | Combat | Endurance, worshiper of a deity of freedom and ale |
+| [Drunken God’s Blessings](drunken-gods-blessings.md) | — | Worshiper of the god of freedom and ale |
+| [Drunken Sing-Along](drunken-sing-along.md) | — | Diplomacy 1 rank, Perform (sing) 1 rank |
 | [Dryad's Apprentice](dryads-apprentice.md) | — | Cha 13, gathlain |
 | [Dryad's Attendant](dryads-attendant.md) | — | Cha 15, Dryad's Apprentice, character level 9th, gathlain |
 | [Duelist Artistry](duelist-artistry.md) | Combat | Exotic Weapon Proficiency (dueling sword), Weapon Finesse, base attack bonus +2 |
@@ -2053,6 +2056,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Extra Variance](extra-variance.md) | — | Channeling Variance or variant channeling ability, channel energy class feature |
 | [Extra Vested Power](extra-vested-power.md) | — | Vested power class feature |
 | [Extraplanar Conjunction](extraplanar-conjunction.md) | Teamwork | Any racial spell-like ability, outsider |
+| [Extreme Mood Swings](extreme-mood-swings.md) | — | — |
 | [Eye for Ingredients](eye-for-ingredients.md) | — | Eschew Materials, Appraise 6 ranks, Spellcraft 6 ranks |
 | [Eyes of the Twilight](eyes-of-the-twilight.md) | — | Sharp Senses, Perception 7 ranks, keen senses racial trait, low-light vision |
 | [Fabulist](fabulist.md) | Grit | Amateur Gunslinger feat or grit class feature |
@@ -2236,6 +2240,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Hand's Sight](hand-s-sight.md) | General | Possessed Hand |
 | [Hands of Valor](hands-of-valor.md) | — | Lay on hands class feature, worshiper of a deity of valor and justice |
 | [Harder They Fall](harder-they-fall.md) | Combat, Teamwork | Str 13, Int 13, Combat Expertise, Power Attack |
+| [Hardy Liver](hardy-liver.md) | — | Great Fortitude |
 | [Harmonic Accord](harmonic-accord.md) | Teamwork | Bardic performance or raging song |
 | [Harmonic Empowerment](harmonic-empowerment.md) | Teamwork | Harmonic Accord, Perform (keyboard, percussion, sing, string, or wind) 10 ranks, bardic performance or raging song |
 | [Harmonic Spell](harmonic-spell.md) | — | Bardic music ability |
@@ -2264,6 +2269,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Hold the Blade](hold-the-blade.md) | Combat | Improved Disarm, base attack bonus +10 |
 | [Hollow Soul](hollow-soul.md) | Conduit | Knowledge (planes) 9 ranks |
 | [Holy Water Assault](holy-water-assault.md) | Combat | Base attack bonus +1, Knowledge (religion) 3 ranks |
+| [Homeland Defender](homeland-defender.md) | — | Born or sworn in a small military state |
 | [Hook Fighter](hook-fighter.md) | Combat | Base attack bonus +1 |
 | [Horn of the Criosphinx](horn-of-the-criosphinx.md) | Combat | Base attack bonus +6 or monk level 6th |
 | [Horn Rider](horn-rider.md) | Combat | Base attack bonus +1 |
@@ -2526,6 +2532,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Mounted Blade](mounted-blade.md) | — | Mounted Combat, Ride-By Attack, Ride 3 ranks |
 | [Mounted Onslaught](mounted-onslaught.md) | — | Mounted Combat, Trample, Ride 5 ranks |
 | [Mud in Your Eye](mud-in-your-eye.md) | Combat | Throw Anything |
+| [Muddled Morals](muddled-morals.md) | — | — |
 | [Multiweapon Defense](multiweapon-defense.md) | — | Three or more arms, Dex 21 |
 | [Multiweapon Specialist](multiweapon-specialist.md) | — | Three or more arms, Dex 21 |
 | [Murderous Sniper](murderous-sniper.md) | Combat | Death attack class feature |
@@ -2711,6 +2718,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Reach Defense](reach-defense.md) | Combat | Dex 15 |
 | [Reactive Arcane Shield](reactive-arcane-shield.md) | — | Arcane Shield, arcane spellcaster, caster level 12th |
 | [Read Spell Traces](read-spell-traces.md) | — | — |
+| [Read the Room](read-the-room.md) | — | Drunken Sing-Along, Diplomacy 1 rank, Perform (sing) 1 rank, Sense Motive 1 rank |
 | [Ready for Anything](ready-for-anything.md) | Combat | Alertness, Improved Initiative, Lightning Reflexes, Quick Draw, base attack bonus +6 or uncanny dodge class feature |
 | [Reap the Infirm](reap-the-infirm.md) | Combat | Base attack bonus +3 |
 | [Recall Ammunition](recall-ammunition.md) | Combat, Grit | Amateur Gunslinger feat or grit class feature, base attack bonus +9, Spellcraft 5 ranks |
@@ -3078,6 +3086,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Tatzlwyrm Claw Style](tatzlwyrm-claw-style.md) | Combat, Style | Dex 13, Improved Grapple, Improved Unarmed Strike, Escape Artist 1 rank |
 | [Tatzlwyrm Grappler](tatzlwyrm-grappler.md) | Combat | Dex 13, Improved Grapple, Improved Unarmed Strike, Tatzlwyrm Claw Style, Escape Artist 3 ranks |
 | [Tatzlwyrm Rake](tatzlwyrm-rake.md) | Combat | Dex 13, Improved Grapple, Improved Unarmed Strike, Tatzlwyrm Claw Style, Tatzlwyrm Grappler, Escape Artist 8 ranks |
+| [Tavern Regular](tavern-regular.md) | — | Cha 14 |
 | [Technologist](technologist.md) | — | — |
 | [Technology Adept](technology-adept.md) | Combat | Dex 13, Exotic Weapon Proficiency (firearms), Point-Blank Shot |
 | [Technophobe](technophobe.md) | — | Improved Sunder |
