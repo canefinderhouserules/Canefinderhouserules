@@ -8588,9 +8588,9 @@ An observer using this device gains a +20 circumstance bonus on Perception check
 
 The *helm of frenzied hunger* grants its wearer a +4 circumstance bonus on attack rolls made to confirm critical hits. However, whenever the wearer threatens a critical hit (regardless of whether or not he actually succeeds), he immediately becomes berserk (gaining all the benefits and drawbacks of the barbarian’s rage ability). For 1d4+1 rounds, he is compelled to attack the nearest creature until it has fallen, regardless of whether the target is friend or foe.
 
-In addition, whenever the wearer of a *helm of Ikimizi* slays a creature, he must spend at least 1 full-round action feasting on the flesh of the fallen creature, heedless of anything or anyone else around him.
+In addition, whenever the wearer of a *helm of frenzied hunger* slays a creature, he must spend at least 1 full-round action feasting on the flesh of the fallen creature, heedless of anything or anyone else around him.
 
-Once it is equipped, the *helm of Ikimizi* can only be removed by a *remove curse* spell.
+Once it is equipped, the *helm of frenzied hunger* can only be removed by a *remove curse* spell.
 
 **Construction Requirements:** *helm of comprehend languages and read magic*, *helm of telepathy*, *helm of underwater action*; **Cost** —
 
@@ -8667,4 +8667,148 @@ This *+1 keen spear *has a crimson haft made of petrified redwood, and its black
 This hardened, oversized eyeball is nearly a foot in diameter. The possessor gains a +1 insight bonus on the saving throw DCs of any spells of the divination school he casts, as well as a +1 insight bonus on dispel checks made against divination effects. In addition, once per week, the possessor of an *all-seeing eye* can cast *commune* as a spell-like ability without the need for a material component. Using an *all-seeing eye* in this way effectively uses up its magic for a week, and the possessor does not benefit from the insight bonuses it grants until a week after *commune* was cast.
 
 **Construction Requirements:** Craft Wondrous Item, *commune*, *guidance*; **Cost** 2,250 gp
+
+## Shadow Land Items
+
+### Harp of Night’s Hope (Artifact)
+
+**Slot** none; **CL** 20th; **Price** —; **Weight** 75 lbs.
+
+**Aura** strong abjuration
+
+This beautifully made concert harp features intarsia butterflies on its walnut frame and column, golden pedals, and silver strings. It produces a warm, mellow tone.
+
+If played for a full hour during a starry night, the *Harp of Night’s Hope* grants restful sleep and heartening, reassuring dreams to all good-aligned creatures within 1,200 feet, granting those creatures a +1 morale bonus on all saving throws and skill checks for the next 24 hours. This morale bonus does not stack with itself. Additionally, when the harp grants its morale bonus, each creature of any alignment within range that is subject to an ongoing negative effect (such as possession, a spell of the compulsion subschool, or a similar effect) can immediately attempt a new saving throw with a +1 bonus to break free of the effect. If the effect does not ordinarily allow a saving throw to resist it, the harp does not grant one.
+
+If the harp is played for an hour in the same place on a second consecutive night (24 hours later), in addition to extending the duration of the morale bonus provided to good-aligned creatures, the harp grants a new saving throw to creatures under ongoing negative effects as described above, this time with a +3 bonus. If the harp is played for an hour in the same place on a third consecutive night, the morale bonus is again extended, and creatures suffering from ongoing negative effects receive a new saving throw to break free, this time with a +5 bonus.
+
+After being played for 3 consecutive nights, the harp cannot be used again to grant morale bonuses or new saving throws for a month.
+
+**Destruction**: The *Harp of Night’s Hope* crumbles into ash if a kyton takes it to the stronghold of the god of darkness and pain on the Shadow Plane and there severs each of its strings with a blade made from the sharpened finger bones of a worshiper of the goddess of dreams who committed a heresy and did not atone before death.
+
+## Northern Items
+
+### Banner of the Ancient Kings
+
+**Slot** none; **CL** 8th; **Price** 18,000 gp; **Weight** 5 lbs.
+
+**Aura** moderate abjuration
+
+This tattered white canvas banner looks like an old piece of sailcloth, or perhaps a winding shroud—a 4-foot-by-6-foot rectangle with loops that can fit over a spear haft or pole running up one side. If mounted on a longspear or pole at least 8 feet in length, the banner shifts in appearance to match the heraldry or coat of arms of the person who attached it. If that person has no device, the flag instead displays a device that echoes the owner’s personality (such as a favorite animal, favored weapon, or holy symbol of the wielder’s deity).
+
+When carried into battle, a *banner of the ancient kings* confers several benefits. As long as the longspear or pole to which the banner is attached is firmly wielded in two hands, its carrier gains a +4 circumstance bonus on Initiative checks. In addition, when so wielded, it grants the wielder and all allies within 30 feet a +2 resistance bonus on all saving throws against mind-affecting effects. If the carrier of the banner fails a saving throw against a mind-affecting effect, he may attempt a new saving throw against that effect every round he continues to wield the *banner of the ancient kings*—once he releases his firm grip on the banner’s haft, though, he no longer gets this benefit, even if he wields the banner properly at a later point while still under the effects of the mind-affecting effect.
+
+If the banner’s carrier possesses the Flagbearer feat, the *banner of the ancient kings* doubles the morale bonuses granted by that feat. A bard who carries a longspear or pole to which a *banner of the ancient kings* has been attached is treated as four levels higher than his actual bard level for the purposes of determining the bonuses granted by his inspire courage bardic performance ability.
+
+**Construction Requirements:** Craft Wondrous Item, *heroism*, *resistance*; **Cost** 9,000 gp
+
+### Harp of Storms
+
+**Slot** none; **CL** 7th; **Price** 22,000 gp; **Weight** 2 lbs.
+
+**Aura** moderate evocation
+
+This small harp is carved from whale ivory, and its frame is filigreed with delicate gold patterns depicting winds and clouds. Up to three times per day as a standard action, you can use a *harp of storms* to surround yourself with an aura of brisk wind that grants you a 20% miss chance against all ranged attacks. This wind cloak effect lasts for 1 minute. At any time during that minute, you may strike additional notes on the *harp of storms* in order to produce one of the following three effects.
+
+- *Air Walk*: You cause the winds to lift you off the ground, granting you the effects of an *air walk* spell for 1 round. This is normally a move action, but if you succeed at a DC 15 Perform (strings) check, it is a swift action.
+- *Gust of Wind*: You can direct the winds surrounding you to duplicate the effects of a *gust of wind* spell. This is a standard action.
+- *Lightning Strike*: As a standard action, make a Perform (strings) check. You cause a bolt of lightning to strike a single foe within 30 feet, dealing an amount of electricity damage equal to the result of your Perform (strings) check. The target gets a DC 15 Reflex save to halve the damage caused by this lightning strike.
+
+**Construction Requirements:** Craft Wondrous Item, *air walk*, *call lightning*, *gust of wind*; **Cost** 11,000 gp
+
+## Hellish Items
+
+### Sanguine Talisman
+
+**Slot** neck; **CL** 8th; **Price** 67,500 gp; **Weight** —
+
+**Aura** moderate conjuration
+
+This crimson devil talisman once belonged to a diabolist who investigated the ways of Hell. The wearer of this talisman gains a +3 profane bonus to Armor Class and a *telepathic bond* with the bearded devil bound within. Once per day, the wearer can attempt an opposed Charisma check against the barbazu’s +0 modifier to summon him forth for 8 rounds, as per the spell *summon monster*. Rather than Weapon Focus (glaive), the barbazu bound within this talisman has Throw Anything—preferring to fling his polearm, then following it into the fray with his vicious claws.
+
+**Construction Requirements:** Craft Wondrous Item, *planar binding*, ability to conjure and bind a barbazu; **Cost** 33,750 gp
+
+### Infernal Trident (Artifact)
+
+**Slot** none; **CL** 28th; **Price** —; **Weight** 24 lbs.
+
+**Aura** overwhelming varied
+
+This weapon of an infernal duke is a *+4 axiomatic flaming burst unholy trident*. The weapon’s *flaming burst* special ability wreathes the trident in hellfire—half the damage its flames deal is fire damage, while the other half results directly from infernal power and is therefore not reduced by fire resistance. As a standard action, its wielder can slam the trident’s haft against the ground, causing all creatures within 30 feet to be affected by *dimensional anchor*. Any affected creature that attempts to teleport or travel to another plane (even by a permanent gate) instead appears in a square adjacent to the wielder. As a standard action, its wielder can call the trident to his hand from any distance, even across planar boundaries.
+
+**Destruction**: The *infernal trident* must be sunk to the bottom of the deepest sea of Elysium for 1 year, then dealt a blow by the weapon of a chaotic good deity.
+
+### Throne of Blasphemy (Artifact)
+
+**Slot** none; **CL** 16th; **Price** —; **Weight** 500 lbs.
+
+**Aura** strong enchantment
+
+By sitting on the *throne of blasphemy* and intoning profane blasphemies (a full-round action) with hands soaked in the blood of a good-aligned sentient being, a creature gains the ability to poison the minds of those nearby for 24 hours. Every round the seated creature speaks (a standard action), all creatures with Intelligence scores of 3 or higher within 100 feet must succeed at a Will save or be compelled to listen, becoming vulnerable to its blasphemies. The save DC is equal to 10 + the seated creature’s Charisma modifier + 1/2 its Hit Dice. Deafened creatures, or those immune to sonic mind-affecting effects, are not considered to be listening.
+
+The seated creature can then use its speech to affect listeners as if by the following spells: *confusion* (as a 4th-level spell), *crushing despair* (as a 4th-level spell), *enthrall*, *modify memory*, or *suggestion* (as a 3rd-level spell). The seated creature can affect multiple victims with different spell effects in the same round. The DC to resist these spells is equal to the original DC from above + the mimicked spell’s level. Victims still receive saving throws against these effects, but if they fail their saves, they are not aware that the throne is working its power on them.
+
+Any victim that succeeds at its saving throw against a particular spell effect is immune to that effect for the next 24 hours. However, it can still be affected by the throne’s other spell effects. These are sonic mind-affecting effects.
+
+A creature that gains the power to poison other creatures’ minds from the throne maintains this ability for 24 hours even if it moves off the throne. If another creature sits on the throne and gains this power, any other creature that gained the ability this way immediately loses it.
+
+The throne imposes 2 permanent negative levels on nonevil creatures that sit upon it and use its blasphemous power.
+
+**Destruction**: The *throne of blasphemy* is destroyed if a lawful evil creature is killed upon it and then *magic circle against evil* is cast upon the throne.
+
+## Lost City Items
+
+### Nightmare Tears
+
+**Slot** none; **CL** 5th; **Price** 250 gp; **Weight** —
+
+**Aura** faint divination
+
+*Nightmare tears* are a toxic alchemical solution that, when applied to the eyes, allows the individual to see past certain supernatural effects, as the spell *true seeing*. These include reality-warping effects such as those caused by the nightmare realm of Leng and spells or supernatural powers that create phantasms such as *weird*, *nightmare*, and *phantasmal killer*. The effect of the tears lasts for 1 hour.
+
+*Nightmare tears* have horrific side effects—users suffer both temporary blindness and insanity. Immediately after applying the tears, the user goes blind for 1d4 rounds and loses 1d4 points of Wisdom until the tears wear off. However, if the user fails a DC 11 Will save, both effects become permanent.
+
+**Construction Requirements:** Craft Wondrous Item, *blindness*, *true seeing*; **Cost** 125 gp
+
+### Aqualinth (Artifact)
+
+**Slot** none; **CL** 18th; **Price** —; **Weight** —
+
+**Aura** strong (all schools) [evil]
+
+A strange statue of some unknown dark material resembling unnaturally slippery stone, this idol is carved in the shape of something at once unrecognizable and terrifyingly organic, and possesses a number of unique abilities when touching liquid.
+
+*Geyser*: If four or more levels’ worth of spells are cast upon the *Aqualinth*, the artifact is capable of causing the water surrounding it to purify and multiply, generating thousands of gallons of water. At the same time, it creates an effect mimicking *reverse gravity* upon the water, causing it to shoot up in a geyser capable of reaching a thousand feet high. Moments later, the effect passes; the water comes crashing down, and can be captured or diverted in the process, though the water level of the original supply remains unchanged.
+
+*Bath of the God-Kings*: Bathing in a pool infested by the *Aqualinth* instantly refreshes the bather, removing any fatigued or exhausted conditions. In addition, the bather is treated as though he were wearing a *ring of sustenance* for the next 4 months. Regular bathing for 56 days results in a +1 increase to a single ability score of the bather’s choice—a creature can receive this bonus only once, but can continue to receive the other benefits of bathing in the pool.
+
+*Liquid Ones*: Anyone who spies her own reflection in a pool infested by the *Aqualinth* and who is not completely loyal to the idol’s masters is treated as though she had gazed into the reflective surface of a *mirror of opposition*. The duplicates created by the *Aqualinth* are not truly identical to their originals. A duplicate has vulnerability to fire, losing any fire resistance or immunity the original may have, and also gains the water subtype. A duplicate can be distinguished from the original with a DC 30 Perception check, as the duplicate has a faint watery texture to its skin.
+
+*Whispering Water*: Possessed of a malign and alien intellect, the *Aqualinth* has an unknown agenda of its own, and is capable of casting *suggestion* (save DC 31) upon anyone who drinks at least half a gallon of water it has touched or produced.
+
+**Destruction**: The *Aqualinth* may be evaporated into nothingness by transporting it to the heart of a sun or star.
+
+## Starfaring Items
+
+### Pressure Suit
+
+**Slot** body and helm (see text); **CL** 5th; **Price** 4,000 gp; **Weight** 30 lbs.
+
+**Aura** faint abjuration
+
+This magical full-body suit completely protects the wearer from temperature extremes (as if by *endure elements*) and pressure dangers of hard vacuum and all worlds in the system (save the sun), though it only carries enough air for 3 days before it must be recharged in breathable atmosphere (such as that inside a ship). If the suit’s seal is broken—such as the helmet being removed to eat or drink—all the air escapes in 2d6 rounds. A suit with a broken seal confers only the benefits of *endure elements*. The suit automatically repairs small holes, but if it is struck by a critical hit from a piercing or slashing weapon, the wearer of the pressure suit must succeed at a Reflex save (DC equal to the opponent’s confirmation roll) or the seal breaks. A suit with a broken seal can be repaired with a DC 18 Craft (armor) check or a *make whole* spell. The suit does not compensate for changes in gravity. Wearing a pressure suit imposes a –1 armor check penalty; this penalty stacks with those provided by other equipment (such as armor). Since it takes up both the body and helm slots, armor can be worn over a pressure suit, but robes and helms cannot.
+
+**Construction Requirements:** Craft Wondrous Item, *endure elements*, *gust of wind*; **Cost** 2,000 gp
+
+## Misfit Items
+
+### Snailplate
+
+**Slot** armor; **CL** 14th; **Price** 36,000 gp; **Weight** 30 lbs.
+
+**Aura** strong abjuration
+
+This breastplate made from the shell of a flail snail functions as a *+1 reflecting breastplate* (even though that shield property cannot normally be added to armor). Once per day, the wearer can cause a spell targeted at him to reflect back at the caster, exactly like *spell turning*. At the GM’s discretion, the wearer can instead expend this one use per day to roll on the flail snail’s chart, randomly warping the spell in question.
+
+**Construction Requirements:** Craft Magic Arms and Armor, *spell turning*, one flail snail shell; **Cost** 18,000 gp
 

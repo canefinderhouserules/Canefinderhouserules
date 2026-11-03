@@ -483,3 +483,134 @@ At the completion of the festival, the primary and secondary casters are charged
 
 Since the casters must touch a celebrant to bestow the boon, the 2-hour period after the ritual turns into a huge parade as the casters wind through the city to greet the populace. Segadans gather along the streets to reach out and touch one of the casters as they pass.
 
+## More Rituals
+
+### Enter the Shadow Court
+
+**School** necromancy; **Level** 8
+
+**Casting Time** 80 minutes
+
+**Components** V, S, M (a whip made of braided strips of skin flyed from the target), SC (at least 2 and up to 7)
+
+**Skill Checks** Intimidate DC 31, 2 successes; Knowledge (planes) DC 31, 2 successes; Knowledge (religion) DC 31, 4 successes
+
+**Range** close
+
+**Target** one creature
+
+**Duration** permanent
+
+**Saving Throw** Will negates; **SR** yes
+
+**Backlash** casters take 1 permanent negative level.
+
+**Failure** The casters are immediately shunted to a single place on the Shadow Plane that is anywhere from 5 to 500 miles (5d%) from the stronghold of the god of darkness and pain’s deific realm, as plane shift. Within 1 round of arriving, the casters are attacked by a number of apostle kytons equal to the number of casters plus 3.
+
+**Effect**
+
+Before this ritual can be cast, the casters must reach deep into the target’s mind to extract the most personally heinous torture the target could imagine, and then the casters must inflict it upon the target during the casting. This often involves whips, spiked chains, barbed hooks, or other torturous elements usually constructed from the target’s own skin and viscera. While the target endures this torture, it must recite the parable of Nidal’s pact with the god of darkness and pain while the casters alternatingly chant epic poetry vaguely detailing the Midnight Lord’s travels behind reality and the unfathomable horrors that he is capable of inflicting on the target’s soul. If the target does not cower in fear at these descriptions, the ritual fails.
+
+Upon successful completion of this ritual, the target’s eyes fill with inky black shadow, and it gains the following benefits. It is immune to spells from the shadow subschool and those with the shadow descriptor, though it can choose to suppress or restore this immunity as a standard action. The target also gains regeneration 5, bypassed by good weapons and spells and silver weapons, and DR 15/good or silver.
+
+If the target’s alignment is not already lawful evil, it immediately shifts to such upon this ritual’s successful completion. Further, this ritual ties a shard of the target’s soul to the god of darkness and pain and his realm on the Shadow Plane. If the target commits a heretical act against the god of darkness and pain’s faith, there is a 25% chance (1–25 on d%) that at a random time within 24 hours the target is transported to that stronghold via plane shift into a private, eternal torment-scape of the Midnight Lord’s choosing. This effect cannot be suppressed or removed.
+
+### Divert Soul
+
+**School** necromancy; **Level** 9
+
+**Casting Time** 9 hours
+
+**Components** V, S, M (black diamond worth 25,000 gp), F (a forked metal rod attuned to the destination plane, as that used for plane shift), SC (at least 6, up to 12)
+
+**Skill Checks** Knowledge (planes) DC 26, 4 successes; Knowledge (religion) DC 26, 3 successes; Spellcraft DC 26, 2 successes
+
+**Range** touch
+
+**Target** one helpless creature or soul (such as a soul imprisoned by *soul bind* or *trap the soul*)
+
+**Duration** instantaneous
+
+**Saving Throw** none; **SR** no
+
+**Backlash** For 1 week following the performance of the ritual, every psychopomp within 10 miles of a caster knows the distance and direction to that caster and is aware that the caster was involved in a ritual to thwart a soul's natural progression.
+
+**Failure** A helpless creature is automatically freed and whisked away to a place it considers familiar and safe, as *word of recall*. An imprisoned soul is automatically freed. In addition, a memitim psychopomp appears adjacent to each caster and attacks the caster to the best of its ability. The memitim disappears once its designated caster is slain or after 10 minutes, whichever comes first.
+
+**Effect**
+
+This powerful ritual attempts to shunt the target's soul to a plane determined during the preparation for the ritual. A key component of the ritual is a forked rod, just like that used for a *plane shift* spell. Any other device suitable for use as a focus component for *plane shift* is also suitable for use with this ritual. The casters form a circle around the target, each touching the shoulder of the caster to his left to form a ring representing the multiverse as a whole. The primary caster stands inside this ring with the target, holding the diamond in one hand and the forked rod in the other. As the casters chant, the primary caster walks around the target in a circle. At the conclusion of the ritual, the primary caster touches the forked rod to the black diamond, which shatters. If the ritual is performed successfully, the target's soul is immediately sent to the designated plane and manifests there as a petitioner or another appropriate outsider, just as if the designated plane were the soul's appropriate reward and regardless of the soul's actual alignment or outlook. If the target is a helpless creature, it is slain by this effect (no save). If the target is a soul trapped inside an object, the object is emptied when the soul departs to its designated destination.
+
+As this ritual bypasses the soul's judgment and natural passage to the afterlife, it is considered anathema to the psychopomps. Agents of the psychopomp ushers actively attempt to suppress knowledge of this ritual wherever they find it, but the psychopomps' enemies—such as daemons and sahkils—work hard to disseminate knowledge of the ritual to inquisitive mortals.
+
+### Invariability
+
+**School** transmutation; **Level** 6
+
+**Casting Time** 60 minutes
+
+**Components** V, S, M (chalk, four intricately carved cogs worth 125 gp each), SC (up to the Intelligence modifier of the primary caster)
+
+**Skill Checks** Craft (clockwork) DC 28, 2 successes; Knowledge (planes) DC 28, 2 successes; Spellcraft DC 28, 2 successes
+
+**Range** touch
+
+**Target** one willing or helpless creature
+
+**Duration** 1 hour
+
+**Saving Throw** none; **SR** yes
+
+**Backlash** All casters take 4d6 points of damage.
+
+**Failure** The primary caster is exhausted and the target gains the benefit of a *magic circle against law* effect (CL equal to the primary caster's character level) for 1 hour.
+
+**Effect**
+
+The caster carefully places the four cogs around the target and traces chalk lines connecting them. As the chalk lines must be as close to perfectly square as possible, the caster typically uses a guide or straight edge to draw the lines, although these components aren't strictly necessary if the caster can draw the lines freehand with exceptional precision. As the caster recites certain mathematical formulae, the cogs slide slowly along the chalk lines and closer to the target, redrawing the chalk lines across the floor as they move. As the cogs approach the target, the target's skin and clothing become more metallic-looking, and the target's gaps and joints appear to contain rapidly whirring clockwork mechanisms, as though the target were a quasi-mechanical creature like an inevitable. If the ritual is successful, the target is infused with the essence of Axis and can act only with rigid precision. The first ability check, attack roll, caster level check, saving throw, or skill check the target makes each round throughout the ritual's duration is automatically treated as though the natural d20 roll resulted in an 11. When the duration ends, the target's appearance returns to normal.
+
+### Multiversal Knowledge
+
+**School** divination; **Level** 4
+
+**Casting Time** 40 minutes
+
+**Components** V, S, M (a spool of silver wire), F (a compendium, encyclopedia, or similar book related to knowledge worth at least 5,000 gp), SC (up to 5)
+
+**Skill Checks** Linguistics DC 30, 2 successes; Knowledge (planes) DC 30, 2 successes
+
+**Range** primary caster
+
+**Duration** 10 minutes/character level of primary caster
+
+**Saving Throw** no; **SR** no
+
+**Backlash** All casters take 2d6 points of damage.
+
+**Failure** All casters gain a temporary negative level (DC = 14 + primary caster's Intelligence bonus to remove after the first day), and the primary caster is confused for 24 hours.
+
+**Effect**
+
+The ritual allows the primary caster to tap into the multiversal connection shared by all aeons. The primary caster weaves complicated occult patterns around herself with the silver wire; if secondary casters are involved in the ritual, they stand around the primary caster and the primary caster wraps the silver wire around their outstretched limbs to form these patterns. If successfully performed, the primary caster can utilize the envisaging ability as though she were an aeon to communicate with other creatures, can attempt Knowledge checks untrained, and gains an enhancement bonus on Knowledge checks equal to half her character level or twice the number of secondary casters, whichever is greater. Although the primary caster can communicate with aeons themselves across vast gulfs of distance and even planar boundaries, they are unlikely to respond except to profess amusement or mild annoyance.
+
+### Unmaking Touch
+
+**School** transmutation; **Level** 5
+
+**Casting Time** 50 minutes
+
+**Components** V, S, F (a *chaos emerald*), SC (up to the Charisma modifier of the primary caster)
+
+**Skill Checks** Knowledge (planes) DC 32, 2 successes; Sleight of Hand DC 32, 1 success; Use Magic Device DC 32, 2 successes
+
+**Range** primary caster
+
+**Duration** 1 hour/character level of the primary caster (D)
+
+**Backlash** The primary caster takes 1d4 points of Constitution damage and becomes fatigued.
+
+**Failure** All casters gain a temporary negative level (DC = 16 + the primary caster's Charisma bonus to remove the negative level after the first day) and are also exhausted until this negative level is removed.
+
+**Effect**
+
+The primary caster juggles the *chaos emerald* back and forth between his hands, under his clothing, and between any secondary casters involved in the ritual. As the ritual progresses, the primary caster's actions with the *chaos emerald* become increasingly improbable (putting it into his mouth and pulling it out of his ear, for example, or placing it into the cupped hands of one secondary caster and removing it from the cupped hands of a different secondary caster). If the ritual is successful, the *chaos emerald* disappears entirely, and the primary caster gains the ability to inflict warpwaves like a protean for the ritual's duration. The primary caster can inflict a warpwave on a creature within 100 feet as a standard action. The target can negate the effects of the warpwave with a successful Fortitude save (DC 10 + half the primary caster's character level + the primary caster's Charisma modifier). When the duration expires, the *chaos emerald* reappears in the primary caster's possession—usually in a hidden place, such as the bottom of a backpack or inside a hat.

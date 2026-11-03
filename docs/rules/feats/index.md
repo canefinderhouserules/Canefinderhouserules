@@ -1731,6 +1731,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Circuitous Shot](circuitous-shot.md) | Combat | Dex 19, Blind-Fight, Improved Precise Shot, Point-Blank Shot, Precise Shot, base attack bonus +11 |
 | [City Sprinter](city-sprinter.md) | — | Street Smarts |
 | [City-Locked](city-locked.md) | Story | You must permanently dwell in a settlement at least as large as a large town. You must also have a fey ancestor somewhere in your family line, or have the Wanderer background. |
+| [Civilized Ghoulishness](civilized-ghoulishness.md) | — | Ghoul, Cha 18 |
 | [Clambering Escape](clambering-escape.md) | Combat | Int 13, Combat Expertise, Improved Reposition, evasion class feature |
 | [Clarifying Channel](clarifying-channel.md) | — | Channel energy class feature, worshiper of a deity of art and love |
 | [Claw Wrench](claw-wrench.md) | Combat | Dex 13, Improved Grapple, Improved Unarmed Strike |
@@ -1934,9 +1935,11 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Domino Crash](domino-crash.md) | Combat | Int 13, Combat Expertise, Improved Reposition, Whipcrack*, base attack bonus +6 or monk level 3rd |
 | [Dorn-Dergar Master](dorn-dergar-master.md) | Combat | Two-Weapon Fighting, base attack bonus +4, proficiency with the dwarven dorn-dergar |
 | [Draconian Law](draconian-law.md) | — | Lawful alignment, wyvaran |
+| [Draconic Defender](draconic-defender.md) | — | Con 17, Toughness |
 | [Draconic Heritage](draconic-heritage.md) | — | Cha 13 |
 | [Draconic Magic](draconic-magic.md) | — | Draconic Aspect, kobold |
 | [Draconic Manifestation](draconic-manifestation.md) | — | Access to natural claw attacks, bloodrager or sorcerer with the draconic bloodline |
+| [Dragon Discipline](dragon-discipline.md) | — | Wis 17, base Will save +10, any lawful alignment, dragon type |
 | [Dragon Shot](dragon-shot.md) | Combat, Grit | Amateur Gunslinger feat or grit class feature, Spellcraft 5 ranks |
 | [Dragon-Touched](dragon-touched.md) | Story | You must have been knocked unconscious in an encounter with a challenging draconic foe or have a background tied to a specific dragon |
 | [Dragoncrafting](dragoncrafting.md) | — | Craft (any) 5 ranks, Knowledge (arcana) 3 ranks |
@@ -2270,6 +2273,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [High Magic Focus](high-magic-focus.md) | Teamwork | Any metamagic feat, Spellcraft 7 ranks, ability to cast 2nd-level spells, human |
 | [Hinder](hinder.md) | Blood Hex | Int 13, Use Magic Device 5 ranks |
 | [Hindrance Dismissal](hindrance-dismissal.md) | — | — |
+| [Hippogriff Marine](hippogriff-marine.md) | — | Ride 6 ranks, ranger level 4th |
 | [Hold the Blade](hold-the-blade.md) | Combat | Improved Disarm, base attack bonus +10 |
 | [Hollow Soul](hollow-soul.md) | Conduit | Knowledge (planes) 9 ranks |
 | [Holy Water Assault](holy-water-assault.md) | Combat | Base attack bonus +1, Knowledge (religion) 3 ranks |
@@ -2572,6 +2576,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Nomad Spell Tattoo](nomad-spell-tattoo.md) | — | Spell Focus |
 | [Nomad-Trained Horse](nomad-trained-horse.md) | Animal Companion | Horse |
 | [Notorious Vigilante](notorious-vigilante.md) | Combat | Dazzling Display, Weapon Focus, any nongood alignment, great renown social talent, proficiency with chosen weapon |
+| [Noxious Bite](noxious-bite.md) | — | Acidic breath weapon, bite attack |
 | [Noxious Touch](noxious-touch.md) | — | Grippli, toxic skin alternate racial trait |
 | [Numbing Blow](numbing-blow.md) | Combat | Int 13, Str 13, Combat Expertise, Improved Disarm, Power Attack |
 | [Oath of the Unbound](oath-of-the-unbound.md) | — | Worshiper of a deity of destruction or freedom |
@@ -2691,6 +2696,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Precocious Youth](precocious-youth.md) | — | Young age category |
 | [Press to the Wall](press-to-the-wall.md) | Combat | Step Up, base attack bonus +3 |
 | [Prestigious Spellcaster](prestigious-spellcaster.md) | — | Favored Prestige Class with selected prestige class |
+| [Primal Ancestry](primal-ancestry.md) | — | Wis 13, member of an order of primal druids |
 | [Primal Bloom](primal-bloom.md) | Conduit | Knowledge (planes) 10 ranks |
 | [Primal Bluff](primal-bluff.md) | General | Bluff 1 rank, wild shape class feature, gnome |
 | [Primal Kineticist](primal-kineticist.md) | General | Kineticist level 1st |
@@ -2814,6 +2820,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Scuttle](scuttle.md) | — | — |
 | [Searing Distraction](searing-distraction.md) | Combat | Catch Off-Guard |
 | [Second Wind](second-wind-feat.md) | Combat, Performance | Endurance |
+| [Secret Capital](secret-capital.md) | — | Int 13, member of a great merchant house |
 | [Secret Language](secret-language.md) | Teamwork | Bluff 1 rank, Linguistics 1 rank, Sense Motive 1 rank |
 | [Secret of Magical Discipline](secret-of-magical-discipline.md) | — | Secret class feature |
 | [Secured Armor](secured-armor.md) | Armor Mastery | Base attack bonus +11 or fighter level 8th, armor training class feature, proficiency with medium or heavy armor |
@@ -3017,8 +3024,10 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Street Style](street-style.md) | Combat, Style | Str 15, Improved Bull Rush, Improved Unarmed Strike, Power Attack, base attack bonus +4 or monk level 3rd |
 | [Street Sweep](street-sweep.md) | Combat | Str 15, Improved Bull Rush, Improved Unarmed Strike, Power Attack, Street Style, base attack bonus +6 or monk level 5th |
 | [Strength of Obligation](strength-of-obligation.md) | — | Must be devoted to a philosophy of responsibility and self-improvement and not worship any deities |
+| [Strength of the Diamond](strength-of-the-diamond.md) | — | Con 13, Wis 13, character level 3rd, member of an elite regiment |
 | [Strength of Wood](strength-of-wood.md) | — | Con 13, gathlain |
 | [Strike True](strike-true.md) | Combat | Combat Expertise, base attack bonus +6 |
+| [Strongarm](strongarm.md) | — | Intimidating Prowess, member of a mercantile consortium |
 | [Structural Strike](structural-strike.md) | Combat, Panache | Knowledge (engineering) 5 ranks, precise strike class feature or precise strike deed |
 | [Student of Second Chances](student-of-second-chances.md) | — | Aasimar |
 | [Studied Expertise](studied-expertise.md) | General | Inspirational expertise investigator talent |

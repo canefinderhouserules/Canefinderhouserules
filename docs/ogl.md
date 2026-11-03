@@ -413,3 +413,37 @@ The following text is the property of Wizards of the Coast, Inc. and is Copyrigh
     Pathfinder Campaign Setting: Giants Revisited © 2012, Paizo Publishing, LLC; Authors: Jesse Benner, Ryan Costello, Brian R. James, Jason Nelson, Russ Taylor, and Ray Vallese.
 
     Pathfinder Campaign Setting: Druma, Profit and Prophecy © 2019, Paizo Inc.; Authors: John Compton and Thurston Hillman.
+
+    Pathfinder Campaign Setting: Nidal, Land of Shadows © 2018, Paizo Inc.; Authors: Lyz Liddell, Ron Lundeen, and Mark Moreland.
+
+    Pathfinder Campaign Setting: Andoran, Birthplace of Freedom © 2015, Paizo Inc.; Authors: Tim Hitchcock and Jason Nelson.
+
+    Pathfinder Campaign Setting: Classic Horrors Revisited © 2010, Paizo Publishing, LLC; Authors: James Jacobs, Rob McCreary, and F. Wesley Schneider.
+
+    Pathfinder Campaign Setting: Hell Unleashed © 2015, Paizo Inc.; Authors: F. Wesley Schneider and Jerome Virnich.
+
+    Pathfinder Campaign Setting: Magnimar, City of Monuments © 2012, Paizo Publishing, LLC; Authors: Adam Daigle and James Jacobs.
+
+    Pathfinder Chronicles: Dragons Revisited © 2009, Paizo Publishing, LLC; Author: Mike McArtor.
+
+    Pathfinder Campaign Setting: The Worldwound © 2013, Paizo Publishing, LLC; Authors: James Jacobs, Jonathan Keith, Jason Nelson, Amber Stewart, and Tanith Tyrr.
+
+    Pathfinder Campaign Setting: Irrisen, Land of Eternal Winter © 2013, Paizo Publishing, LLC; Author: Mike Shel.
+
+    Pathfinder Campaign Setting: Lost Cities of Golarion © 2011, Paizo Publishing, LLC; Authors: Tim Hitchcock, Brandon Hodge, Michael Kortes, Jason Nelson, and Russ Taylor.
+
+    Pathfinder Campaign Setting: Numeria, Land of Fallen Stars © 2014, Paizo Inc.; Authors: Jim Groves, James Jacobs, and Russ Taylor.
+
+    Pathfinder Campaign Setting: Osirion, Legacy of Pharaohs © 2014, Paizo Inc.; Authors: Alex Greenshields, Amanda Hamon, Jonathan H. Keith, Ron Lundeen, and David N. Ross.
+
+    Pathfinder Campaign Setting: Castles of the Inner Sea © 2013, Paizo Publishing, LLC; Authors: Alyssa Faden and Tim Hitchcock.
+
+    Pathfinder Campaign Setting: Distant Worlds © 2012, Paizo Publishing, LLC; Author: James L. Sutter.
+
+    Pathfinder Chronicles: Guide to Darkmoon Vale © 2008, Paizo Publishing, LLC; Author: Mike McArtor.
+
+    Pathfinder Chronicles: Guide to Korvosa © 2008, Paizo Publishing, LLC; Author: Mike McArtor.
+
+    Pathfinder Campaign Setting: Misfit Monsters Redeemed © 2010, Paizo Publishing, LLC; Authors: Colin McComb, Robert G. McCreary, and James L. Sutter.
+
+    Pathfinder Campaign Setting: Lands of the Linnorm Kings © 2011, Paizo Publishing, LLC; Authors: Matthew Goodall, Jonathan H. Keith, Colin McComb, and Rob McCreary.
