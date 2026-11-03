@@ -1745,6 +1745,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Combat Rhythm](combat-rhythm.md) | Combat, Combination | Base attack bonus +6 or monk level 6th |
 | [Combat Vigor](combat-vigor.md) | Combat | Con 13 |
 | [Commander of Goblinkind](commander-of-goblinkind.md) | — | Cha 13, hobgoblin |
+| [Companion Figurine](companion-figurine.md) | — | Handle Animal 1 rank, own a *figurine of wondrous power* |
 | [Compulsion Mastery](compulsion-mastery.md) | Item Mastery | Use Magic Device 3 ranks, base Fortitude save bonus +6 |
 | [Conceal Aura](conceal-aura.md) | — | Chaotic, evil, good, or lawful alignment |
 | [Conceal Scent](conceal-scent.md) | — | Stealth 3 ranks, Survival 3 ranks |

@@ -296,6 +296,7 @@
 - **[Reinvigorating Wind](reinvigorating-wind.md)**: Wake and invigorate allies with a magical wind
 - **[Remarkable Legerdemain](remarkable-legerdemain.md)**: Treat held objects as coin-sized for Sleight of Hand.
 - **[Resounding Clang](resounding-clang.md)**: Metal objects vibrate, penalizing attacks, skills and armor.
+- **[Retrieve Item](retrieve-item.md)**: A small prepared object appears in your hand when you snap your fingers.
 - **[Returning Weapon](returning-weapon.md)**: Grants a weapon the returning special weapon quality.
 - **[Rotgut](rotgut.md)**: Turn water into cheap alcohol
 - **[Rumormonger](rumormonger.md)**: Follow a rumor to see where it spreads.

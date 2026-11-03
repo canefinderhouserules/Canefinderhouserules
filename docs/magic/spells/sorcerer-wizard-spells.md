@@ -410,6 +410,7 @@
 - **[Acid Arrow](acid-arrow.md)**: Ranged touch attack; 2d4 damage for 1 round + 1 round/three levels.
 - **[Fog Cloud](fog-cloud.md)**: Fog obscures vision.
 - **[Glitterdust](glitterdust.md)**: Blinds creatures, outlines invisible creatures.
+- **[Retrieve Item](retrieve-item.md)**: A small prepared object appears in your hand when you snap your fingers.
 - **[Returning Weapon](returning-weapon.md)**: Grants a weapon the returning special weapon quality.
 - **[Revealing Light](revealing-light.md)**: Object sheds shifting light that foils Stealth bonuses.
 - **[Ricochet Shot](ricochet-shot.md)**: Imbues a projectile weapon to give its ammunition the ability to ricochet.
@@ -715,6 +716,7 @@
 - **[Skyshroud](skyshroud.md)**: Shows the real sky above you, even underground.
 - **[Slave to Sin](slave-to-sin.md)**: Exploit a creature’s sin to sicken and stagger it.
 - **[Sleet Storm](sleet-storm.md)**: Hampers vision and movement.
+- **[Spherescry](spherescry.md)**: See and hear through a *sphere of annihilation* that has consumed part of your body.
 - **[Spider Climb, Communal](spider-climb-communal.md)**: As spider climb, but you may divide the duration among creatures touched.
 - **[Spirit Bonds](spirit-bonds.md)**: Meditative spell: track bonded creatures and send a telepathic message.
 - **[Spotlight](spotlight.md)**: bright light on a target suppresses nearby light and ruins its Stealth

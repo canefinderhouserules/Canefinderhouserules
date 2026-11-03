@@ -367,3 +367,5 @@ The following text is the property of Wizards of the Coast, Inc. and is Copyrigh
     Pathfinder Campaign Setting: The Inner Sea World Guide © 2011, Paizo Publishing, LLC; Authors: Keith Baker, Wolfgang Baur, Clinton J. Boomer, Jason Bulmahn, Joshua J. Frost, Ed Greenwood, Stephen S. Greer, Jeff Grubb, James Jacobs, Michael Kortes, Tito Leati, Mike McArtor, Rob McCreary, Erik Mona, Jason Eric Nelson, Chris Pramas, F. Wesley Schneider, Amber Scott, Neil Spicer, Owen K.C. Stephens, and Todd Stewart.
 
     Pathfinder Campaign Setting: Rival Guide © 2011, Paizo Publishing, LLC; Authors: Brian Cortijo, Adam Daigle, Tim Hitchcock, Brandon Hodge, Colin McComb, Jason Nelson, Amber Scott, Neil Spicer, and Amber Stewart.
+
+    Pathfinder Campaign Setting: Classic Treasures Revisited © 2010, Paizo Publishing, LLC; Authors: Jacob Burgess, Brian Cortijo, Jonathan H. Keith, Michael Kortes, Jeff Quick, Amber Scott, Amber Stewart, and Russ Taylor.

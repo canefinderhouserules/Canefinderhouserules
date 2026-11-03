@@ -7774,3 +7774,339 @@ A carved ruby in the shape of a scarab set in gold, this magic amulet grants its
 
 **Construction Requirements:** Craft Wondrous Item, *true strike*; **Cost** 500 gp
 
+## Classic Treasures
+
+### Aligned Horn of Valhalla
+
+**Slot** none; **CL** 13th; **Price** 45,000 gp; **Weight** 2 lbs.
+
+**Aura** strong conjuration
+
+This *horn of Valhalla* is crafted for service to a cause, whether lofty or profane. Though not intelligent, it has an alignment as determined by the Intelligent Item Alignment table on page 533 of the *Pathfinder RPG Core Rulebook*, and summons barbarians of that alignment. A character who sounds the horn but is more than one step away from the horn’s alignment is attacked by the summoned barbarians. The horn's minions also turn against an owner who gives them an order in strong opposition to their ethos, such as ordering lawful good barbarians to attack helpless villagers.
+
+**Construction Requirements:** Craft Wondrous Item, *summon monster VI*; **Cost** 25,000 gp (alignment restriction affects the item's market price, but not the cost to create the item)
+
+### Bag of Concealment
+
+**Slot** none; **CL** 9th; **Price** 5,000 gp (Type I), 10,000 gp (Type II), 14,800 gp (Type III), 20,000 gp (Type IV); **Weight** 15 lbs. (type I), 25 lbs. (type II), 35 lbs. (type III), 60 lbs. (type IV)
+
+**Aura** moderate conjuration
+
+A *bag of concealment* appears to be a common leather sack with a shoulder strap, about 2 feet by 4 feet in size. The bag behaves as a *bag of holding*, with all the same carrying capacities according to size, except for a few key points. Each *bag of concealment* is keyed to a specific owner upon creation (and can only be keyed to one person at a time)—should the bag’s owner be killed, it becomes keyed to the next person to open it (the currently keyed person can also relinquish this status as a standard action, allowing another creature to become keyed to the bag by opening it). Only the person a *bag of concealment* is keyed to may access its contents. Any others who look in the bag see only the inside of an empty sack, with dimensions matching the bag’s outside measurements, as the true contents are kept separate and undetectable in the bag’s magical pocket dimension. Should anything be placed in the empty bag by someone other than the owner, the goods that have been shunted to the pocket dimension cannot be accessed unless the new item is removed.
+
+A *bag of concealment* registers as nonmagical unless successfully identified, as per a permanent version of the spell *magic aura*. The mouth of a *bag of concealment* can be stretched to up to four times its normal width, so larger goods may be hidden inside.
+
+**Construction Requirements:** Craft Wondrous Item, *fabricate*, *magic aura*, *secret chest*; **Cost** 2,500 gp (type I), 5,000 gp (type II), 7,400 gp (type III), 10,000 gp (type IV)
+
+### Bag of Holding, Minor
+
+**Slot** none; **CL** 9th; **Price** 1,000 gp; **Weight** 3 lbs.
+
+**Aura** moderate conjuration
+
+This more economical version of the *bag of holding* functions in the same manner, but its internal measurements are smaller than those of a regular *bag of holding*. It measures 2 feet by 4 feet and can carry up to 50 pounds or 6 cubic feet of material.
+
+**Construction Requirements:** Craft Wondrous Item, *secret chest*; **Cost** 500 gp
+
+### Corpse-Ferrying Bag
+
+**Slot** none; **CL** 9th; **Price** 4,000 gp; **Weight** 3 lbs.
+
+**Aura** moderate conjuration and necromancy
+
+This large black leather bag has a wide mouth and laces to help keep it shut. It weighs 20 pounds and can carry up to 300 pounds or 10 cubic feet of material (easily able to hold a single Medium corpse or two Small corpses, including their gear). Anything within the bag is protected by a *gentle repose* spell.
+
+**Construction Requirements:** Craft Wondrous Item, *gentle repose*, *secret chest*; **Cost** 2,000 gp
+
+### Cube of Varied Force Walls
+
+**Slot** none; **CL** 10th; **Price** 56,000 gp; **Weight** 1/2 lb.
+
+**Aura** moderate evocation
+
+This cube functions exactly like a *cube of force* except that each wall of the cube can be activated independently and can even have different effects. For example, one wall can block living matter, another wall can block magic, and a third can keep out gases, while the other sides are open without any protection. Activating each wall costs the price of activating that effect for an entire standard *cube of force*—for instance, one wall against magic and one wall against living matter cost a total of 7 charges per minute.
+
+**Construction Requirements:** Craft Wondrous Item, *wall of force*; **Cost** 28,000 gp
+
+### Discriminating Cube
+
+**Slot** none; **CL** 10th; **Price** 40,000 gp; **Weight** 1/2 lb.
+
+**Aura** moderate evocation
+
+This *cube of force* only creates one type of screen, which excludes living matter. Each of the five active faces sets the screen to exclude a different type of living matter (using the same categories as the *bane weapon* special ability).
+
+**Construction Requirements:** Craft Wondrous Item, *summon monster I*, *wall of force*; **Cost** 20,000 gp
+
+### Executioner’s Hand
+
+**Slot** none; **CL** 18th; **Price** 75,000 gp; **Weight** 8 lbs.
+
+**Aura** strong necromancy and transmutation
+
+This *+3 adamantine greatsword* is designed with a single purpose: to bring swift death to those tried and found guilty before the law. When wielded in a coup de grace attempt against a helpless target, the *executioner’s hand* is treated as a *vorpal weapon*, and if the attack is a critical threat, it is automatically confirmed as a critical hit.
+
+**Construction Requirements:** Craft Magic Arms and Armor, *circle of death*, *keen edge*; **Cost** 30,000 gp
+
+### Frostkiss Whip
+
+**Slot** none; **CL** 18th; **Price** 128,300 gp; **Weight** 2 lbs.
+
+**Aura** strong necromancy and transmutation
+
+Ice covers the lash of this *+1 frost vorpal whip*. A *frostkiss whip* deals damage as though it were one size category larger (1d3 for a Small whip, 1d4 for a Medium whip, and so on). In addition, on command a *frostkiss whip* deals lethal damage instead of nonlethal damage, and it can deal damage even against creatures with armor bonuses greater than +1 or natural armor bonuses higher than +3.
+
+**Construction Requirements:** Craft Magic Arms and Armor, *chill metal* or *ice storm*; *horrid wilting*, *keen edge*; **Cost** 64,300 gp
+
+### Helm of Reclamation
+
+**Slot** head; **CL** 15th; **Price** 80,000 gp; **Weight** 3 lbs.
+
+**Aura** strong varied
+
+The *helm of reclamation* is designed to destroy large groups of undead or powerful individual undead creatures, and is often used by undead-hating clerics with a flair for the dramatic. The gems of this helm produce *sunburst* (10 yellow diamonds), *searing light* (30 bloodstones), and *daylight* (40 opals). Like a standard *helm of brilliance*, it glows near and harms undead, and has the *flaming* weapon ability, but does not protect against fire or risk detonation.
+
+**Construction Requirements:** Craft Wondrous Item, *daylight*, *detect undead*, *flame blade*, *searing light*, *sunburst*; **Cost** 40,000 gp
+
+### Independent Cube of Force
+
+**Slot** none; **CL** 10th; **Price** 70,000 gp; **Weight** 1/2 lb.
+
+**Aura** moderate evocation
+
+The *independent cube of force* functions exactly like a *cube of force* except that it remains activated when dropped or set down. Anyone can pick up and deactivate the item or change the active type of wall; otherwise it shuts off when it runs out of charges.
+
+**Construction Requirements:** Craft Wondrous Item, *wall of force*; **Cost** 35,000 gp
+
+### Giant’s Harm
+
+**Slot** none; **CL** 18th; **Price** 150,320 gp; **Weight** 24 lbs.
+
+**Aura** strong necromancy [evil] and transmutation
+
+This Large *+2 keen vorpal greataxe* has an adamantine haft and a chipped, pitted guillotine blade instead of a curved axehead. Obviously made for a giant’s hands, the axe laughs evilly whenever it kills. Any creature killed by it (whether from decapitation or simple damage) finds its soul trapped within the blade, and it cannot be raised from the dead while so trapped. Only a few executioners’ orders know how to release a soul from the blade.
+
+**Construction Requirements:** Craft Magic Arms and Armor, *circle of death*, *enervation*, *keen edge*; **Cost** 75,320 gp
+
+### Liar’s Well
+
+**Slot** none; **CL** 17th; **Price** 84,250 gp; **Weight** —
+
+**Aura** strong conjuration
+
+When opened, this cursed *well of many worlds* has a 50% chance of displaying a false image of its destination. For example, the well may appear to open onto a plane of law while in reality opening onto a layer of the Abyss, though the difference is not always to the user’s detriment. Any creatures emerging from the other side are not subject to the illusion. The false image is defeated by a *true seeing* spell.
+
+**Construction Requirements:** Craft Wondrous Item, *gate*, *mirage arcana*; **Cost** 42,125 gp
+
+### Rechargeable Cube of Force
+
+**Slot** none; **CL** 10th; **Price** 70,000 gp; **Weight** 1/2 lb.
+
+**Aura** moderate evocation
+
+This cube functions like a *cube of force* except that it can be recharged by casting a *wall of force* spell into it. Each spell cast in this manner adds 2 charges to the cube. The cube cannot hold more than 36 charges.
+
+**Construction Requirements:** Craft Wondrous Item, *wall of force*; **Cost** 35,000 gp
+
+### Remote Activation Cube
+
+**Slot** none; **CL** 10th; **Price** 70,000 gp; **Weight** 1/2 lb.
+
+**Aura** moderate evocation
+
+This cube can be activated or deactivated from a distance via use of the spell *mage hand* or the hand of the apprentice ability. The antimagic wall and the wall that keeps out all things prevent remote deactivation in this manner.
+
+**Construction Requirements:** Craft Wondrous Item, *mage hand*, *wall of force*; **Cost** 35,000 gp
+
+### Twinned Cubes of Force
+
+**Slot** none; **CL** 10th; **Price** 66,000 gp; **Weight** 1/2 lb.
+
+**Aura** moderate evocation
+
+These cubes function as two *cubes of force*, except that when a face on one cube is pressed, its counterpart creates the appropriate wall instead as long as the distance between the cubes does not exceed 100 feet. Both cubes can remain active even after being set down on the ground and abandoned.
+
+**Construction Requirements:** Craft Wondrous Item, *wall of force*; **Cost** 33,000 gp
+
+### Well of Stars
+
+**Slot** none; **CL** 17th; **Price** 60,000 gp; **Weight** —
+
+**Aura** strong conjuration
+
+Rather than opening to locations on different planes, this well instead opens to worlds on the Material Plane. It does not, however, necessarily open to worlds with similar environments to that of its user; hence it can pose much the same danger as the traditional well in terms of both the unpredictable environs of the destination and the alien beings that might step through from the other side.
+
+**Construction Requirements:** Craft Wondrous Item, *gate*; **Cost** 30,000 gp
+
+### Well of the Welcome Respite
+
+**Slot** none; **CL** 17th; **Price** 122,000 gp; **Weight** —
+
+**Aura** strong conjuration
+
+While normally functioning as a standard *well of many worlds*, this well possesses a command word that supersedes its normal placement-based destination, and it instead opens up onto a single location designated by its maker during the well’s creation (often the creator’s home or a private, warded demiplane). Those finding the well are not immediately aware of this command word unless a spell more powerful than a simple *identify* spell is used, and the well’s secret destination, whatever it might be, may or may not still be occupied.
+
+**Construction Requirements:** Craft Wondrous Item, *gate*, *mage's magnificent mansion*; **Cost** 61,000 gp
+
+### House of Cards (Artifact)
+
+**Slot** none; **CL** 20th; **Price** —; **Weight** —
+
+**Aura** strong (all schools)
+
+This item operates as a standard 22-card *deck of many things*, save that if its wielder takes 5 minutes to build a card house out of its deck (a DC 20 Sleight of Hand check), he and any creatures touching him are instantly transported to a pocket dimension constructed to resemble a massive, fully furnished mansion made out of cards. Within its ever-shifting corridors, the PCs must defeat personifications of the negative cards or be immediately shunted back to the Material Plane and suffer the effects of the card that conquered them. If the PCs successfully reach the heart of the mansion, they find the positive result cards floating there. Each PC may choose one, whereupon he returns to the Material Plane and receives its effects. A creature may enter the House of Cards only once. Designing and mapping the adventure that results from characters entering the House of Cards is left up to the GM; such preparations should take place before introducing this artifact.
+
+**Destruction**: The *House of Cards* can be destroyed only by surmounting its challenges and then using the Moon card to wish for the deck's destruction.
+
+### Linnorm’s Lament (Artifact)
+
+**Slot** none; **CL** 20th; **Price** —; **Weight** 2 lbs.
+
+**Aura** strong conjuration
+
+This horn operates as a normal *horn of Valhalla*, save that it can be blown more than once per day, with the warriors from previous soundings remaining until their 1 hour has passed. When the wielder blows the horn for the third time, he becomes destined to die before the next dawn, with chance-based events turning against him in more and more improbable ways until he’s slain. The manner of this curse and any potential methods of defeating it are left to the GM.
+
+**Destruction**: *Linnorm's Lament* shatters if someone blows it a third time and survives for 1 year afterward.
+
+### Magi Staff of the Deep Black (Artifact)
+
+**Slot** none; **CL** 20th; **Price** —; **Weight** 5 lbs.
+
+**Aura** strong (all schools)
+
+This crystalline blue-white staff fell from the sky during a dazzling display of falling stars. Sages believe it was once part of an enormous piece of ice drifting between worlds since the dawn of time, only coming to the world on a quirk of chance. Though as hard as crystal, the staff feels like wet ice, is cold to the touch, and gives the impression of great age. It slowly sinks in fresh or salt water (unlike true ice, which floats), and while it creates a cocoon of ice around itself when submerged, it is only after several hours that this coating is thick enough to cause the staff to bob to the surface. The staff’s powers (and the equivalent *staff of the magi* powers they replace) are:
+
+- *ray of frost* (*detect magic*, 0 charges)
+- *reduce person* (*enlarge person*, 0 charges)
+- *cone of cold* (*fireball*, 1 charge)
+- *freezing ray* (*knock*, functions as *scorching ray* but deals cold damage, 1 charge)
+- *water breathing* (*lightning bolt*, 1 charge)
+- *fly* (*passwall*, 1 charge)
+- *wall of ice* (*wall of fire*, 1 charge)
+- *teleport* (*passwall*, 2 charges)
+- *time stop* (*monster summoning IX*, 2 charges)
+
+The staff otherwise has the normal powers and abilities of a *staff of the magi*. If it is broken in a retributive strike, the bearer has a 25% chance to be held in stasis somewhere (as *imprisonment*, no saving throw), a 25% chance to be transported to a random plane, and a 50% chance to be utterly destroyed.
+
+**Destruction**: This item can be destroyed in the same manner as a normal *staff of the magi*. It is also destroyed if consumed by an elder fire elemental or an efreeti, or if cast into an active volcano.
+
+### Magi Staff of the Mammoth (Artifact)
+
+**Slot** none; **CL** 20th; **Price** —; **Weight** 5 lbs.
+
+**Aura** strong (all schools)
+
+Seven feet of twisted, gnarled spruce carved with primitive runes and icons depicting mammoths, tigers, and hunters form this regal staff. The staff has all the powers of a *staff of the magi* with the following changes:
+
+- *sleet storm* (instead of *fireball*)
+- *fog cloud* (instead of *pyrotechnics*)
+- *wall of ice* (instead of *wall of fire*)
+
+The staff can also cast *cone of cold* (15d6 damage, Reflex DC 19 half) for a cost of 2 charges. When casting *summon monster IX*, the *staff of the mammoth* always summons 1d4+1 celestial or fiendish mastodons.
+
+**Destruction**: This item can be destroyed in the same manner as a normal *staff of the magi*.
+
+### Magi Staff of the Necromancer (Artifact)
+
+**Slot** none; **CL** 20th; **Price** —; **Weight** 5 lbs.
+
+**Aura** strong (all schools)
+
+This long staff of smooth, pale bone is bent in a swaying shape, like a crone’s back, and is carved with ancient symbols of death and spirits, with the writing standing out in stark black from a thick paste of human ash rubbed into it. Any good creature who holds or carries the staff gains two permanent negative levels (similar to holding an unholy weapon). The staff’s powers (and the equivalent *staff of the magi* powers they replace) are:
+
+- *detect undead* (*detect magic*, 0 charges)
+- *disrupt undead* (*enlarge person*, 0 charges)
+- *spectral hand* (*knock*, 1 charge)
+- *vampiric touch* (*lightning bolt*, 1 charge)
+- *animate dead* (*wall of fire*, 1 charge)
+- *finger of death* (*plane shift*, 2 charges)
+- *energy drain* (*monster summoning IX*, 2 charges)
+
+The staff otherwise has the normal powers and abilities of a *staff of the magi*. If broken in a retributive strike, the bearer has a 25% chance to be transported to the Negative Energy Plane, a 50% chance to be transported to a random plane, and a 25% chance to be utterly destroyed. Rumor has it that the staff contains a hollow space to hold a lich’s phylactery, though arcane scholars point out that no sane lich would keep his life essence in a magic item that explodes when broken.
+
+**Destruction**: This item can be destroyed in the same manner as a normal *staff of the magi*. It is also destroyed immediately if a good cleric casts *heal* on the staff while on the Positive Energy Plane.
+
+### Magi Staff of the Scholar (Artifact)
+
+**Slot** none; **CL** 20th; **Price** —; **Weight** 5 lbs.
+
+**Aura** strong (all schools)
+
+This shepherd’s crook is formed of alternating bands of ivory and obsidian around a sycamore shaft. Golden runes run the length of the staff, twisting into new configurations as its various powers are used. The *staff of the scholar* has all the powers of a regular *staff of the magi* plus the following abilities: *contact other plane* (2 charges), *legend lore* (2 charges), and *scrying* (2 charges). If the wielder of the *staff of the scholar* uses its retributive strike ability and successfully travels to another plane of existence, he always arrives in the abode of a god of knowledge (though not necessarily a friendly one).
+
+**Destruction**: This item can be destroyed in the same manner as a normal *staff of the magi*.
+
+### Rift-Born Sphere (Artifact)
+
+**Slot** none; **CL** 20th; **Price** —; **Weight** —
+
+**Aura** strong transmutation
+
+This sphere acts as a normal *sphere of annihilation* in all respects, save that any use of a *gate* spell to destroy it results in an automatic planar rift to a plane of the GM’s choosing. The sphere remains behind at its original location, intact and unaffected.
+
+**Destruction**: A *rift-born sphere* can only be destroyed by using a *rod of cancellation* or fusion with another, normal sphere (which destroys both spheres in a 180-foot blast dealing 5d6 x 10 points of damage).
+
+### Mother Deck (Artifact)
+
+**Slot** none; **CL** 20th; **Price** —; **Weight** —
+
+**Aura** strong (all schools)
+
+**Alignment** CN; **Ego** 21
+
+**Senses** 30 ft. senses
+
+**Int** 19, **Wis** 10, **Cha** 20
+
+**Communication** speech, telepathy
+
+The *Mother Deck* operates as an intelligent *deck of many things*, save that all her benefits and penalties are doubled (for example, the Star card grants a +4 bonus to ability stats instead of +2, the Skull card summons two dread wraiths at a time, and so on). She can cast *teleport* once per day, transporting herself and her puzzle box only.
+
+**Destruction**: The *Mother Deck* can only be destroyed by using her own Moon card to wish for her destruction.
+
+### Sphere of Bleeding Snowflakes (Artifact)
+
+**Slot** none; **CL** 20th; **Price** —; **Weight** —
+
+**Aura** strong transmutation
+
+This sphere originates within the Negative Energy Plane as either a naturally occurring phenomenon or a normal *sphere of annihilation* empowered or even damaged by beings there. The *sphere of bleeding snowflakes* radiates a cold, dense fog of black energy extending 60 feet into its surrounding area, infusing the region with negative energy, and dealing 4d6 negative energy damage (as a cleric’s channeled energy) and 1 permanent negative level per round to everything within 60 feet. While spells such as *death ward* may negate the energy’s ill effects, any who die as a result of these effects, or who die by other means within the sphere’s affected radius, cannot be returned to life by anything short of *true resurrection*, *wish*, or *miracle*.
+
+**Destruction**: The *sphere of bleeding snowflakes* can be destroyed by sending it through one of the portals on the Positive Energy Plane leading into the heart of a star.
+
+### Staff of Elemental Castigation (Artifact)
+
+**Slot** none; **CL** 20th; **Price** —; **Weight** 5 lbs.
+
+**Aura** strong (all schools)
+
+This staff functions as a *staff of the magi*, with several modifications. Its *summon monster IX* power can only summon elementals, and it has the following powers:
+
+- *summon monster IV* (elementals only, 1 charge)
+- *elemental body IV* (2 charges)
+- *planar binding* (elementals only, 2 charges)
+
+Whenever the staff is broken in a retributive strike, it automatically reforms, but can never again be wielded by its previous possessor. A wielder transported to another plane by a retributive strike always appears on an elemental plane, while the staff itself is sent to a different elemental plane moments after reforming.
+
+**Destruction**: This item can be destroyed by having elementals from all four elemental planes (earth, air, fire, and water) attack it at the same time while it is broken in a retributive strike.
+
+### Elder Decks (Artifact)
+
+**Slot** none; **CL** 20th; **Price** —; **Weight** —
+
+**Aura** strong (all schools)
+
+These ancient artifacts function as *decks of many things*, save that they have only 13 cards: Euryale, Flames, Jester, Key, Knight, Moon, Rogue, Ruin, Skull, Star, Sun, Throne, and The Void.
+
+**Destruction**: An *elder deck* can be destroyed by losing it in a wager with a deity of law. The deity must be unaware of the nature of the deck.
+
+### Twin Spheres (Artifact)
+
+**Slot** none; **CL** 20th; **Price** —; **Weight** —
+
+**Aura** strong transmutation
+
+Rumored to have once been a single, normal sphere split in two through a failed attempt to destroy it, these dual *spheres of annihilation* are linked, such that objects devoured by one may be disgorged from the other. Anything devoured by one of the *twin spheres* must make a Fortitude save (DC 25) or be utterly consumed as by a normal sphere; anything that makes the save take 10d6 points of damage in transit and is hurled, smoking and partially disintegrated, from the maw of the other sphere. Anyone currently in mental control of one sphere may freely pass through it to the location of its twin.
+
+**Destruction**: The *twin spheres* can be destroyed by directing one sphere through the other, causing an explosion that deals 20d6 damage to everything within 100 feet.
+
