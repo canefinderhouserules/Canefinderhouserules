@@ -1640,12 +1640,6 @@ This sealed copper tube contains a packet of alchemical fertilizer and several s
 
 ## Dwarven Gear
 
-### Dwarven Dorn-Dergar
-
-**Exotic two-handed melee weapon**; **Cost** 50 gp; **Dmg (S)** 1d8; **Dmg (M)** 1d10; **Critical** ×2; **Weight** 15 lbs.; **Type** B; **Special** reach
-
-This exotic weapon is a 10-foot-long, heavy metal chain weighted at the end by a round ball of solid iron about the size of a large fist. By adjusting the slack of the chain, the weapon can be used either with or without reach. Changing between using it as a normal weapon and a reach weapon is a move action. Dwarves treat dorn-dergars as martial weapons.
-
 ### Auroch's Breath
 
 **Price** 1 gp (pint)
@@ -3751,3 +3745,13 @@ Identifying the effects of a dose of alien fluids presents a challenge, as the c
 **Price** 1,000 gp; **Weight** 500 lbs.
 
 Dwarven siege engineers fill these 20-foot-diameter cloth balloons with a secret and highly flammable gas (included in the price) and then release them into the sky over their enemies. To transform the balloons into decoys, dwarven siege warriors place dummies in cargo baskets beneath the balloons to look like balloonist scouts or snipers. Whoever releases the balloon can attempt a DC 15 Profession (driver), Knowledge (nature), or Wisdom check; if the check is successful, the balloon can be guided out to a maximum range of 300 feet, a far enough distance for archers to safely shoot the balloon with flaming arrows, causing it to explode in a devastating ball of fire. A detonated sky mine creates a 50-foot-radius burst of flame that deals 10d6 points of fire damage to anything in the area.
+
+## Clothing
+
+### Scarf
+
+**Price** 1 sp–5 gp; **Weight** 1/2 lb.
+
+*Clothing.* Entertainers often employ seductive garb and entrancing props in their performances. Scarves of colorful cloth or transparent silk, often embroidered with elaborate scenes or motifs, are favorite accessories.
+
+For the pocketed and reinforced versions, see Clothing in the Ultimate Equipment goods.
