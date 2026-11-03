@@ -407,6 +407,7 @@
 - **[Hypercognition](hypercognition.md)**: Rapidly recall everything you know about a subject.
 - **[Illusory Script](illusory-script.md)**: Only select creatures can read text.
 - **[Infuse Self](infuse-self.md)**: Assume the form of a native outsider
+- **[Inhibiting Patterns](inhibiting-patterns.md)**: Pillars of color block movement and impose a miss chance on ranged attacks.
 - **[Instant Fake](instant-fake.md)**: Provide a short-term replica of an object.
 - **[Inveigle Person](inveigle-person.md)**: The target treats all creatures as friendly.
 - **[Invisibility Sphere](invisibility-sphere.md)**: Makes everyone within 10 feet invisible.
@@ -536,6 +537,7 @@
 - **[Remove Radioactivity](remove-radioactivity.md)**: Cure radiation effects.
 - **[Repel Vermin](repel-vermin.md)**: Insects, spiders, and other vermin stay 10 ft. away.
 - **[Rune of Ruin](rune-of-ruin.md)**: Curse a magic item, breaking it and weakening its bonuses.
+- **[Scintillating Wall](scintillating-wall.md)**: A wall of light fascinates those who pass through it.
 - **[Secure Shelter](secure-shelter.md)**: Creates sturdy cottage.
 - **[Seek Shelter](seek-shelter.md)**: Weak creatures flee to safety in an orderly fashion.
 - **[Shadow Conjuration](shadow-conjuration.md)**: Mimics conjuration below 4th level, but only 20% real.

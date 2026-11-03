@@ -325,3 +325,11 @@ The following advanced rogue talent can be selected by any rogue of 10th level o
 ## Fate Deck Rogue Talents
 
 **Fate Strike (Ex)** (advanced talent, 10th level): Once per day while making a sneak attack against a creature, you can draw a random card from a [fate deck](../../equipment/fate-deck.md) you own. If your attack hits, instead of dealing sneak attack damage as normal, you deal a number of points of ability damage equal to your number of sneak attack dice. The ability score damaged is the score affiliated with the suit of the card drawn. You can use this ability an additional time per day at 15th level and 20th level.
+
+## Alignment Rogue Talents
+
+Slayers can also select these as slayer talents.
+
+**Aligned Sneak Attack (Su)**: When making a sneak attack against a creature that has damage reduction that can be overcome by weapons of a particular alignment (such as DR 5/good), the rogue’s attack reduces that damage reduction by an amount equal to the number of sneak attack dice rolled until the end of the rogue’s turn.
+
+**Sever Alignment (Su)**: When making a sneak attack against an opponent with an alignment subtype, a rogue with this talent can forgo her sneak attack damage to scramble the creature’s metaphysical nature. If the attack succeeds, the rogue deals weapon damage as normal, and the target must succeed at a Fortitude save (DC = 10 + half the rogue’s level + the rogue’s Intelligence modifier) or lose all damage reduction overcome by aligned weapons (such as DR 10/good), lose all regeneration overcome by aligned sources (such as regeneration 10 [good]), and lose the ability to cast spells and use spell-like abilities with alignment descriptors for 1 round for every 2d6 points of sneak attack damage the rogue would have dealt (minimum 1 round). The rogue must have the aligned sneak attack talent to select this talent.

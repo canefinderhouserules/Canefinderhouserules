@@ -632,6 +632,7 @@ Psychics gain access to the following spells. Spells without a link come from ot
 - **[Id Insinuation III](id-insinuation-iii.md)**: As id insinuation I, but affects three creatures and has a stronger confusion effect.
 - **[Illusion of Treachery](illusion-of-treachery.md)**: Make it seem like another is also responsible for your attacks.
 - **[Illusory Wall](illusory-wall.md)**: Wall, floor, or ceiling looks real, but anything can pass through.
+- **[Inhibiting Patterns](inhibiting-patterns.md)**: Pillars of color block movement and impose a miss chance on ranged attacks.
 - **[Innocuous Shape](innocuous-shape.md)**: Target looks like a harmless creature.
 - **[Insect Scouts](insect-scouts.md)**: Vermin investigate a location and grant rerolls on related skill checks.
 - **[Intellect Fortress I](intellect-fortress-i.md)**: Suppress emotion and fear effects in a 20-ft. radius as an immediate action.
@@ -806,6 +807,7 @@ Psychics gain access to the following spells. Spells without a link come from ot
 - **[Rend Body I](rend-body-i.md)**: Telekinetic damage that can rip off limbs.
 - **[Replay Tracks](replay-tracks.md)**: Reconstruct past events from a set of tracks.
 - **[Retrocognition](retrocognition.md)**: Gain psychic impressions from past events in a location.
+- **[Scintillating Wall](scintillating-wall.md)**: A wall of light fascinates those who pass through it.
 - **[Scripted Hallucination](scripted-hallucination.md)**: As *complex hallucination*, but without concentration.
 - **[Secret Chest](secret-chest.md)**: Hides expensive chest on Ethereal Plane; you retrieve it at will.
 - **[Secret Workshop](secret-workshop.md)**: As nondetection, but protects many creatures and objects.

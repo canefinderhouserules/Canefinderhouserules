@@ -1720,6 +1720,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Chimeric Adept](chimeric-adept.md) | — | Chimeric aspect class feature, wild shape class feature |
 | [Chimeric Master](chimeric-master.md) | — | Chimeric Adept, greater chimeric aspect class feature, wild shape class feature |
 | [Choir of Blades](choir-of-blades.md) | Combat, Teamwork | — |
+| [Choral Support](choral-support.md) | Teamwork | Perform (sing) 3 ranks |
 | [Circling Mongoose](circling-mongoose.md) | Combat | Dex 13, Dodge, Mobility, Spring Attack, base attack bonus +6 |
 | [Circuitous Duelist](circuitous-duelist.md) | Combat | Swordlord Dueling Disciple, Weapon Finesse, Weapon Focus (dueling blade), base attack bonus +5 |
 | [Circuitous Shot](circuitous-shot.md) | Combat | Dex 19, Blind-Fight, Improved Precise Shot, Point-Blank Shot, Precise Shot, base attack bonus +11 |
@@ -1763,6 +1764,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Consume Power](consume-power.md) | — | Spellcraft 3 ranks, wyrwood |
 | [Consumption](consumption.md) | Blood Hex | Int 13, Use Magic Device 5 ranks |
 | [Contingent Trick](contingent-trick.md) | Trick | Any two trick feats |
+| [Controlled Patterns](controlled-patterns.md) | — | Pattern Message, Spell Focus (illusion), caster level 7th |
 | [Conversion Channel](conversion-channel.md) | — | Channel energy 7d6, worshiper of a deity of tyranny and contracts |
 | [Conviction](conviction.md) | — | Cha 13 |
 | [Convincing Persona](convincing-persona.md) | — | Bluff 5 ranks, Perform (act) 5 ranks, or dual identity |
@@ -2237,6 +2239,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Healer's Hands](healers-hands.md) | Conduit | Heal 1 rank, Knowledge (planes) 1 rank |
 | [Healing Potion](healing-potion.md) | Versatile Brewing | Brew Potion, ability to cast *cure serious wounds* |
 | [Heaven's Light](heavens-light.md) | Conduit | Knowledge (planes) 1 rank |
+| [Heavenly Bane](heavenly-bane.md) | — | Bane class feature |
 | [Hefty Brute](hefty-brute.md) | — | Animal companion or familiar |
 | [Heightened Trap Sense](heightened-trap-sense.md) | — | Perception 6 ranks, trap sense +1 |
 | [Hellcat Pounce](hellcat-pounce.md) | Combat | Hellcat Stealth, Skill Focus (Stealth), sneak attack +2d6 |
@@ -2351,6 +2354,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Ironclad Reactions](ironclad-reactions.md) | Armor Mastery | Base attack bonus +6 or fighter level 4th, armor training class feature, proficiency with medium armor |
 | [Jackal Heritage](jackal-heritage.md) | — | Humanoid, must be taken at 1st level |
 | [Jinx Alchemy](jinx-alchemy.md) | General | Swift alchemy class feature, Halfling Jinx racial trait |
+| [Joined Wings](joined-wings.md) | Teamwork | Fervor or lay on hands class feature |
 | [Joyless Toil](joyless-toil.md) | Combat | Dex 13, Wis 13, Improved Unarmed Strike, base attack bonus +8 |
 | [Juggle Load](juggle-load.md) | Combat | Ammo Drop, Sleight of Hand 1 rank, proficient with sling |
 | [Juke](juke.md) | Combat | Dex 13, Dodge, Mobility, Sidestep |
@@ -2379,6 +2383,9 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Kraken Wrack](kraken-wrack.md) | Combat, Style | Wis 13, Improved Grapple, Improved Unarmed Strike, Kraken Style, base attack bonus +7 or monk level 7th |
 | [Kudzu Invasion](kudzu-invasion.md) | Combat | Dex 13, Greater Grapple, Improved Grapple, Improved Unarmed Strike, Kudzu Grappler, base attack bonus +6 or monk level 6th, vine leshy |
 | [Kudzu Takeover](kudzu-takeover.md) | Combat | Dex 13, base attack bonus +6 or monk level 6th, Greater Grapple, Improved Grapple, Improved Unarmed Strike, Kudzu Grappler, Kudzu Invasion, vine leshy |
+| [Lantern Glare](lantern-glare.md) | Combat | Lantern Light, Lantern Style, Point-Blank Shot, Precise Shot, good or lawful alignment, caster level 11th or monk level 11th |
+| [Lantern Light](lantern-light.md) | Combat | Lantern Style, Point-Blank Shot, Precise Shot, good or lawful alignment, caster level 7th or monk level 7th |
+| [Lantern Style](lantern-style.md) | Combat, Style | Point-Blank Shot, good or lawful alignment, caster level 1st or monk level 1st |
 | [Large Target](large-target.md) | Combat | Proficient with sling |
 | [Lashing Tail](lashing-tail.md) | Combat | [Grasping Tail](grasping-tail.md), you must have a tail |
 | [Last Rites](last-rites.md) | Conduit | Knowledge (planes) 3 ranks, Knowledge (religion) 3 ranks |
@@ -2586,8 +2593,10 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Painful Cures](painful-cures.md) | — | Evil alignment |
 | [Pantheistic Blessing](pantheistic-blessing.md) | — | Wis 13, must worship a pantheon of deities |
 | [Passed Critical](passed-critical.md) | Combat | Combat Expertise, worshiper of a deity of luck or dreams |
+| [Passing Grace](passing-grace.md) | Teamwork | — |
 | [Pathologist](pathologist.md) | — | Incredible Healer |
 | [Patient Strike](patient-strike.md) | Combat | Int 13 |
+| [Pattern Message](pattern-message.md) | — | Caster level 3rd |
 | [Peace of Mind](peace-of-mind.md) | Conduit | Knowledge (planes) 3 ranks |
 | [Peacemaker](peacemaker.md) | — | Charisma 13, good alignment |
 | [Peerless Courtier](peerless-courtier.md) | — | Cha 13, base attack bonus +3 |
@@ -2713,6 +2722,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Returning Throw](returning-throw.md) | Combat, Teamwork | Point-Blank Shot, Precise Shot, Sleight of Hand 3 ranks, goblinoid subtype |
 | [Revered Guidance](revered-guidance.md) | — | Aasimar, must be taken at 1st level |
 | [Reverse Somersault Throw](reverse-somersault-throw.md) | Combat | Str 13, Improved Drag, Power Attack, base attack bonus +6 or monk level 3rd |
+| [Reviving Channel](reviving-channel.md) | — | Channel energy 3d6 |
 | [Reward of the Faithful](reward-of-the-faithful.md) | — | Knowledge (religion) 1 rank, alignment must match that of your worshiped deity |
 | [Rhabdomancy](rhabdomancy.md) | — | Knowledge (nature) 3 ranks, Survival 3 ranks |
 | [Rhino Charge](rhino-charge.md) | Combat | Power Attack, Improved Bull Rush, base attack bonus +5 |
@@ -2814,6 +2824,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Shielded Staff Master](shielded-staff-master.md) | Combat | Dex 17, Improved Two-Weapon Fighting, Shielded Staff Style*, Two-Weapon Fighting, base attack bonus +8 |
 | [Shielded Staff Style](shielded-staff-style.md) | Combat, Style | Dex 15, Two-Weapon Fighting, Weapon Focus (quarterstaff, any weapon from the polearms fighter weapon group, or any weapon from the spears fighter weapon group), proficiency with bucklers and light shields |
 | [Shielded Stand](shielded-stand.md) | Shield Mastery | Shield Focus, base attack bonus +3 or fighter level 1st |
+| [Shifting Patterns](shifting-patterns.md) | — | Spell Focus (illusion), caster level 5th |
 | [Shocking Amplification](shocking-amplification.md) | — | — |
 | [Shocking Bellow](shocking-bellow.md) | Combat | Intimidating Prowess |
 | [Shrapnel Strike](shrapnel-strike.md) | Combat | Str 15, Improved Sunder, Power Attack |

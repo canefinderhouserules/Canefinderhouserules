@@ -445,3 +445,13 @@ This alters phantom and replaces shared consciousness.
 **Echoes of Mastery (Ex)**: At 10th level, a seeker of enlightenment gains the bonus on saving throws from echoes of expertise even when her phantom is manifested. Additionally, once per day, she can take 20 on any Knowledge check, including one in which she is not trained. This replaces fused consciousness.
 
 **Knowledge of the Ancestors (Sp)**: At 16th level, a seeker of enlightenment learns how to tap into the knowledge of her past lives. She can cast *legend lore* as a spell-like ability once per day. This replaces call spirit.
+
+## Quintessentialist
+
+When the pressure to grow wars with a personal need for simplicity, a mortal soul can split between extremes, creating two half-beings that rely on one another to survive. The quintessentialist learns to project her best self—her exemplar—as an independent being, but in doing so leaves only the weakest and basest aspects behind in her body.
+
+**Unfocused Spellcasting**: A quintessentialist’s sheared mind has difficulty focusing on even the simplest spells. All of her spells have a minimum casting time of 1 round, even if casting a spell would normally take less time, such as a standard action.
+
+**Exemplar**: Instead of bonding to the phantom of a dead soul, a quintessentialist forges her best qualities into a spiritual aspect called an exemplar, which resides in her subconscious mind at all times rather than on the Ethereal Plane. An exemplar uses the quintessentialist’s ability scores when fully manifested rather than those of a standard phantom, but otherwise advances as a phantom. The exemplar can cast any of the spiritualist’s spells while fully manifested, sharing the same spells known and spell slots, and does not suffer from the quintessentialist’s unfocused spellcasting ability.
+
+A quintessentialist can fully manifest her exemplar as a full-round action rather than a 1-minute ritual, and she can dismiss it back into her mind as a standard action. When fully manifested, a quintessentialist can transfer any equipment she is currently wearing or carrying to her exemplar, allowing it to manifest with weapons, armor, and other equipment, but doing so removes these possessions from the quintessentialist. She can likewise grant her exemplar any feats she knows, losing access to those feats herself while the exemplar remains fully manifested. Projecting an exemplar is draining, however. A quintessentialist cannot cast any spells herself and she takes a –2 penalty to all ability scores while her exemplar is fully manifested. Every round the exemplar remains fully manifested, the quintessentialist takes 1d6 points of damage; this damage cannot be reduced or prevented in any way. This alters phantom.

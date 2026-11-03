@@ -369,3 +369,5 @@ The following text is the property of Wizards of the Coast, Inc. and is Copyrigh
     Pathfinder Campaign Setting: Rival Guide © 2011, Paizo Publishing, LLC; Authors: Brian Cortijo, Adam Daigle, Tim Hitchcock, Brandon Hodge, Colin McComb, Jason Nelson, Amber Scott, Neil Spicer, and Amber Stewart.
 
     Pathfinder Campaign Setting: Classic Treasures Revisited © 2010, Paizo Publishing, LLC; Authors: Jacob Burgess, Brian Cortijo, Jonathan H. Keith, Michael Kortes, Jeff Quick, Amber Scott, Amber Stewart, and Russ Taylor.
+
+    Pathfinder Campaign Setting: Distant Realms © 2018, Paizo Inc.; Authors: John Compton, Crystal Frasier, Thurston Hillman, Amanda Hamon, Lyz Liddell, and David Schwartz.

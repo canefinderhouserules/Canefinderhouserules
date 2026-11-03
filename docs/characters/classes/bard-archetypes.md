@@ -2160,3 +2160,35 @@ A lotus geisha can use an enrapturing performance to recreate the effects of any
 A lotus geisha adds a +2 bonus to the DC of Will saves made to resist the effects of her fascinate, frightening tune, and suggestion enrapturing performances. When a lotus geisha uses her enrapturing performance ability to emulate inspire competence, inspire courage, inspire greatness, or inspire heroics, any bonuses to AC or on ability checks, attack rolls, damage rolls, saving throws, and skill checks increase by +1. For example, a lotus geisha using inspire heroics as an enrapturing performance would grant her target a +5 morale bonus on saving throws and a +5 dodge bonus to AC, instead of the usual +4 bonuses. This ability replaces well-versed.
 
 **Bonus Feats**: At 1st level, a lotus geisha gains Spell Focus (enchantment) as a bonus feat. At 5th level, she gains Greater Spell Focus (enchantment) as a bonus feat. These bonus feats replace bardic knowledge and lore master.
+
+## Masterpieces of Distant Realms
+
+### Night Queen’s Fury (Act, Oratory)
+
+You lay a curse on those who have wronged you.
+
+**Prerequisite**: Perform (act) or Perform (oratory) 7 ranks.
+
+**Cost**: Feat or 3rd-level bard spell known.
+
+**Effect**: You scream out a litany of every way you have been harmed by others, from physical abuse, to verbal insults, to subtle harassment, to any other number of contemptuous actions that denied you something you were rightfully due. When you complete the performance, you fall prone, the emotion or power behind your speech driving you to your knees. Any creature that damaged you within the last round must succeed at a Will save or be cursed, as per the *bestow curse* spell.
+
+Once per day, if you are reduced to fewer than 0 hit points, you can activate this bardic masterpiece as an immediate action before you become dying or dead as long as you have at least 3 rounds of bardic performance remaining.
+
+**Use**: 3 rounds of bardic performance.
+
+**Action**: 1 full-round action (see text).
+
+### Symphony of the Iron Court (Sing)
+
+You contort your vocal cords to produce an eerie, melodious song about the wonders of an archdevil’s court.
+
+**Prerequisite**: Perform (sing) 15 ranks.
+
+**Cost**: Feat or 5th-level bard spell known.
+
+**Effect**: The sinisterly seductive song bores its way into the target’s flesh, levitating it as per *reverse gravity* as long as the bard maintains the performance. Although the symphony does have words—and is often sung in Infernal—this is not a language-dependent effect.
+
+**Use**: 1 round of bardic performance per round.
+
+**Action**: 1 standard action.

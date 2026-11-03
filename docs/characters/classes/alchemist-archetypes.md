@@ -1333,3 +1333,37 @@ At 18th level, a blightseeker adds the following blights to the list of those th
 *Stunning*: The target is stunned for 1 round. This ability replaces the discoveries gained at 6th, 12th, and 18th levels.
 
 **Blight Engineering (Ex)**: At 14th level, a blightseeker can apply two blights that he knows to each spore bomb he creates. This ability replaces persistent mutagen.
+
+## Mnemostiller
+
+Mnemostillers extract memories, storing them as a thick vapor called mnemos. They can return memories as easily as administering a potion, and experienced mnemostillers create a variety of effects through the careful administration of past traumas or victories.
+
+**Mental Ambix**: A mnemostiller’s alchemy relies on force of personality, using his own mind as an alchemy lab to draw and purify the mnemos collected from others. A mnemostiller uses his Charisma score in place of his Intelligence score for the purpose of extracts and bonus extracts. A mnemostiller still uses his Intelligence score to learn new formulae.
+
+The mnemostiller can cast *detect thoughts* as a spell-like ability a number of times per day equal to his Charisma modifier (minimum 1). This alters alchemy and replaces throw anything.
+
+**Rasugen (Su)**: A mnemostiller learns to brew a unique type of mutagen, called a rasugen, that suppresses his mind to enter a state of sublime purity. In this state, a mnemostiller becomes incredibly resilient, but cannot perform complex skills. Once imbibed, a rasugen grants a +2 alchemical bonus on all saving throws and 2 temporary hit points per alchemist level for 10 minutes per alchemist level. In addition, while the rasugen is in effect, a mnemostiller takes a –2 penalty to his Intelligence score and can’t attempt checks using Appraise, Craft, Disable Device, Heal, Knowledge (any), Profession, Sleight of Hand, or Spellcraft. This acts in all other ways like a mutagen. This replaces mutagen. A mnemostiller can never gain the mutagen, cognatogen, or inspiring cognatogen ability, even from a discovery or another class.
+
+**Anguish Bomb (Su)**: A mnemostiller crafts his bombs from mnemos of pain and discomfort, inflicting psychic damage. An anguish bomb is identical to a bomb except that it deals nonlethal damage, it deals no damage to inanimate objects and creatures immune to mental effects, and creatures caught in the anguish bomb’s splash can attempt a Will save for half damage. A mnemostiller uses his Charisma score in place of his Intelligence score to determine the bonus damage of his anguish bomb and the save DC of the anguish bomb’s splash damage. He still uses his Intelligence score to determine his number of bombs per day. If the mnemostiller has taken any hit point damage in the past 24 hours, his anguish bombs inflict 1 additional point of nonlethal damage for every 2 alchemist levels he has. This replaces bombs.
+
+**Brewed Memories**: A mnemostiller can create several unique extracts from the mnemos he pulls from the minds of others. At 2nd level, he adds *mindlink*, *placebo effect*, and *thought echo* to his formula book as 1st-level extracts. At 5th level, he adds *aura alteration*, *detect mindscape*, and *mindscape door* to his formula book as 2nd-level extracts. At 8th level, he adds *mindwipe* and *thoughtsense* to his formula book as 3rd-level extracts; the range for a *mindwipe* extract becomes creature touched, and it can be applied only to a helpless or willing creature. This replaces poison resistance.
+
+**Natural Empath (Ex)**: A mnemostiller’s studies naturally focus on others. He gains infusion as a bonus discovery at 2nd level. This replaces poison use.
+
+**Mind-Delver (Su)**: At 10th level, a mnemostiller can use *mind probe* as a spell-like ability a number of times per day equal to his Charisma modifier (minimum 1).
+
+## Discoveries of the Mnemostillers
+
+**Anguish Bomb\***: You can throw bombs infused with psychic trauma. This discovery allows other alchemists to duplicate the anguish bombs used by mnemostillers.
+
+**Dread Bomb**: Your anguish bombs are tainted with fear and dread. Creatures who take damage from your anguish bombs become frightened for 1d6 rounds. A target that succeeds at a Will saving throw is instead shaken for a single round. An alchemist must be 6th level and have the anguish bomb class feature or the anguish bomb discovery before selecting this discovery.
+
+**Greater Rasugen**: The alchemist’s rasugen now grants a +4 alchemical bonus on all saving throws, 3 temporary hit points per alchemist level, and immunity to mind-affecting effects. The alchemist takes a –4 penalty to Intelligence as long as the greater rasugen persists. An alchemist must be at least 12th level and able to brew a rasugen before selecting this discovery.
+
+**Grand Rasugen**: The alchemist’s rasugen now grants a +6 alchemical bonus on all saving throws, 4 temporary hit points per alchemist level, and immunity to disease, mind-affecting effects, and poison. The alchemist takes a –6 penalty to Intelligence and a –2 penalty to Charisma and Wisdom as long as the grand rasugen persists. An alchemist must be at least 16th level and have the greater rasugen discovery before selecting this discovery.
+
+**Melancholy Bomb**: Your anguish bombs are filled with memories of sadness and regret. Creatures who take damage from your anguish bombs are also affected as per *crushing despair* for 1 round per alchemist level, or a single round if the target succeeds at a Will saving throw. An alchemist must be 10th level and have the anguish bomb class feature or the anguish bomb discovery before selecting this discovery.
+
+**Substantiating Bomb\***: Your bombs are infused with ectoplasm and a longing for life, lending ethereal creatures a measure of substance. You can throw a bomb that inflicts no damage but instead creates a 10-foot-radius cloud of fog that functions as *fog cloud* and lasts for 1 round per alchemist level. Incorporeal creatures that pass through this cloud become partially solid, taking half damage from nonmagic attacks and full damage from magic weapons, spells, and spell-like abilities. This effect lasts for the duration of the smoke cloud, even if the incorporeal creature moves outside the cloud’s area. A creature affected by the cloud can attempt a Will saving throw to negate the substantiating effects of this bomb. An alchemist must be 10th level before selecting this discovery.
+
+Discoveries marked with an asterisk modify bombs and do not stack with each other.

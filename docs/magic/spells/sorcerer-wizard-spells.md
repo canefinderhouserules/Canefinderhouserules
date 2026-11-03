@@ -883,6 +883,7 @@
 - **[Ignoble Form](ignoble-form.md)**: a drow takes on a half-elf's form
 - **[Illusion of Treachery](illusion-of-treachery.md)**: Make it seem like another is also responsible for your attacks.
 - **[Infernal Healing, Greater](infernal-healing-greater.md)**: As *infernal healing*, but fast healing 4.
+- **[Inhibiting Patterns](inhibiting-patterns.md)**: Pillars of color block movement and impose a miss chance on ranged attacks.
 - **[Innocuous Shape](innocuous-shape.md)**: Target looks like a harmless creature.
 - **[Insect Spies](insect-spies.md)**: Use magic beetles as spies.
 - **[Instant Fake](instant-fake.md)**: Provide a short-term replica of an object.
@@ -1145,6 +1146,7 @@
 - **[Rune of Ruin](rune-of-ruin.md)**: Curse a magic item, breaking it and weakening its bonuses.
 - **[Runic Overload](runic-overload.md)**: Detonates magical runes with sonic force.
 - **[Sawtooth Terrain](sawtooth-terrain.md)**: Serrated blades erupt from a surface.
+- **[Scintillating Wall](scintillating-wall.md)**: A wall of light fascinates those who pass through it.
 - **[Scripted Hallucination](scripted-hallucination.md)**: As *complex hallucination*, but without concentration.
 - **[Sealed Sending](sealed-sending.md)**: A scroll with a short message appears anywhere you have seen.
 - **[Secret Chest](secret-chest.md)**: Hides expensive chest on Ethereal Plane; you retrieve it at will.
