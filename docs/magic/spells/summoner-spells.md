@@ -21,6 +21,7 @@ New summoner spells from *Ultimate Magic*. Spells from other books will be added
 - **[Jury-Rig](jury-rig.md)**: Removes the broken condition from the targeted object.
 - **[Life Conduit](life-conduit.md)**: You are bound even tighter to your eidolon than normal, and may share hit points with it through your life link ability.
 - **[Lighten Object](lighten-object.md)**: Halve an object’s weight.
+- **[Lucky Number](lucky-number.md)**: When the target rolls a chosen number it can reroll or add +2 luck.
 - **[Pesh Vigor](pesh-vigor.md)**: Target gains a Strength bonus it can push higher at a cost.
 - **[Positive Pulse](positive-pulse.md)**: Energy harms undead or bolsters the living
 - **[Punishing Armor](punishing-armor.md)**: Reflects nonlethal damage back at attackers.

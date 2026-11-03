@@ -8132,3 +8132,47 @@ Crafted from a preserved rust monster antenna, this item works similarly to a *g
 
 **Construction Requirements:** Craft Wondrous Item, *rusting grasp*; **Cost** 28,000 gp (24,000 gp if deceased rust monster is provided)
 
+## Occult Mysteries Items
+
+### Grave Candle
+
+**Slot** none; **CL** 10th; **Price** 5,500 gp; **Weight** 1 lb.
+
+**Aura** moderate necromancy
+
+Grave candles are magical candles that draw forth spirits from the mortal remains of long-dead creatures, allowing the living to speak to these spirits for a short period while the candle’s wick burns. In order to function, a *grave candle* must be placed amid the physical remains of the body whose spirit the user wishes to contact. These remains can be partial, or even just a handful of ash or grave dust, but a totally destroyed body (as results from *destruction* or *disintegrate*) doesn’t leave enough material for a grave candle to function. When the candle is lit, the smoke rising from the candle grows thick, and a ghostly shape similar to the creature’s appearance in life manifests in the smoke.
+
+At this point, the manifested spirit (which is as much an echo of the creature as it is the actual departed soul) can speak. A *grave candle* does not impart any additional understanding of languages to its user. In other respects, the conversation with the dead spirit adheres to the rules for *speak with dead*, save that the dead spirit takes a –4 penalty on its saving throw to resist the spell. Furthermore, a dead body can be subjected to the effects of a *grave candle* only once—the burning of a *grave candle* effectively burns out the latent necromantic and spiritual energy left behind by the soul’s departure from the world (this does not harm the actual soul of the dead spirit, however) and destroys the candle.
+
+**Construction Requirements:** Craft Wondrous Item, *speak with dead*; **Cost** 2,750 gp
+
+### Trumpet of Spirit Speaking
+
+**Slot** none; **CL** 6th; **Price** 6,500 gp; **Weight** 1 lb.
+
+**Aura** moderate necromancy
+
+This long, segmented cone is made of a lightweight metal and collapses into three sections. Although nonmagical spirit trumpets are most often used by fraudulent mediums and manipulated with sleight of hand and ventriloquism, a *trumpet of spirit speaking* allows actual communication with the spirits of the deceased. Once per day, when its mouthpiece is placed to the lips of a mostly intact corpse, the user can ask up to three questions of the dead creature, as if the corpse were subject to a *speak with dead* spell. The corpse’s replies to the questions issue forth from the horn in quiet, ghostly whispers.
+
+**Construction Requirements:** Craft Wondrous Item, *speak with dead*; **Cost** 3,250 gp
+
+### Eastern Star Ioun Stone
+
+**Slot** none; **CL** 1st; **Price** 6,000 gp; **Weight** —
+
+**Aura** faint divination
+
+This red crystal is perfectly cut in the shape of a five-pointed star. Its user understands spoken languages, and reads as if under the effects of *comprehend languages*.
+
+**Construction Requirements:** Craft Wondrous Item, *comprehend languages*; **Cost** 3,000 gp
+
+### Western Star Ioun Stone
+
+**Slot** none; **CL** 12th; **Price** 4,000 gp; **Weight** —
+
+**Aura** strong illusion
+
+This blue crystal is cut in the shape of a five-pointed star. As a standard action, its user can alter his appearance as with a *disguise self* spell. When so disguised, the user can render the *western star* and other *ioun stones* in his possession invisible.
+
+**Construction Requirements:** Craft Wondrous Item, *disguise self*; **Cost** 2,000 gp
+

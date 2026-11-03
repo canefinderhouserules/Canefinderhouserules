@@ -150,6 +150,8 @@ The prestige classes presented in this chapter are summarized below.
 
 **[Nomad Horse Rider](nomad-horse-rider.md)**: A tribal cavalry leader with a genie-blessed mount who strengthens allies and tramples foes.
 
+**[Pain Taster](pain-taster.md)**: A masochist who turns self-torture into strength, cruelty and resistance to harm.
+
 **[Pit Fighter](pit-fighter.md)**: A gladiator who wins the crowd and rages on its applause.
 
 **[Prophet of Commerce](prophet-of-commerce.md)**: A merchant-prophet who buys spells with gold and displays wealth as armor.

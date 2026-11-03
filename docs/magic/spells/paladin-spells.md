@@ -45,6 +45,7 @@
 - **[Litany of Duty](litany-of-duty.md)**: Reroll a failed save against a compulsion.
 - **[Litany of Sloth](litany-of-sloth.md)**: Single target cannot make attacks of opportunity for 1 round.
 - **[Longshot](longshot.md)**: Grants a +10-foot bonus to the range increment for any ranged weapon fired.
+- **[Lucky Number](lucky-number.md)**: When the target rolls a chosen number it can reroll or add +2 luck.
 - **[Magic Weapon](magic-weapon.md)**: Weapon gains +1 bonus.
 - **Protection from Chaos/Evil**: +2 to AC and saves, plus additional protection against selected alignment.
 - **[Peace Bond](peace-bond.md)**: Your low-level area spells ignore protected cubes.

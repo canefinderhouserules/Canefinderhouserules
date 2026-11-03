@@ -53,6 +53,7 @@ New inquisitor spells from *Ultimate Magic*. Spells from other books will be add
 - **[Lock Gaze](lock-gaze.md)**: Compels the target to look only at you for the duration of the spell.
 - **[Locksight](locksight.md)**: Sense a lock’s state and quality.
 - **[Longshot](longshot.md)**: Grants a +10-foot bonus to the range increment for any ranged weapon fired.
+- **[Lucky Number](lucky-number.md)**: When the target rolls a chosen number it can reroll or add +2 luck.
 - **[Nature's Paths](natures-paths.md)**: Find the fastest way through the wilderness
 - **[Open and Shut](open-and-shut.md)**: Obfuscate whether a door is open or closed.
 - **[Peace Bond](peace-bond.md)**: Your low-level area spells ignore protected cubes.
@@ -218,6 +219,7 @@ New inquisitor spells from *Ultimate Magic*. Spells from other books will be add
 - **[Channel Vigor](channel-vigor.md)**: Focus on limbs, mind, spirit, or torso for bonuses.
 - **[Claim Identity](claim-identity.md)**: Steal a touched humanoid’s face and identity.
 - **[Clay Skin](clay-skin.md)**: Target gains DR 5/adamantine.
+- **[Cleromancy](cleromancy.md)**: Group dice rolled per caster level into luck bonuses for your d20 rolls.
 - **[Contagious Zeal](contagious-zeal.md)**: Grant bonuses and temporary hit points that spread from creature to creature.
 - **[Countless Eyes](countless-eyes.md)**: Extra eyes give all-around vision.
 - **[Damnation](damnation.md)**: Punish creatures for evil spells they know or that affect them.

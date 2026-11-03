@@ -1496,6 +1496,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Agent of Fear](agent-of-fear.md) | — | Persuasive, frightening appearance class feature |
 | [Agent of Purity](agent-of-purity.md) | Story | A friend or ally must have been significantly corrupted by a specific natural or supernatural blight, or you must have a regional background trait tied to a specific blight |
 | [Agile Maiden](agile-maiden.md) | Combat | Str 13, Dex 13, Endurance or armor training, heavy armor proficiency |
+| [Agonizing Obedience](agonizing-obedience.md) | — | 3 ranks in Heal |
 | [Alchemical Grenadier](alchemical-grenadier.md) | Teamwork | Precise Shot or Throw Anything |
 | [Alchemical Strike](alchemical-strike.md) | Combat | Throw Anything, base attack bonus +6 |
 | [Align Equipment](align-equipment.md) | General | Alignment Channel, Bless Equipment, caster level 3rd, channel energy class feature |
@@ -1538,6 +1539,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Arcing Lob](arcing-lob.md) | — | Dex 15, Point-Blank Shot, Precise Shot, Throw Anything |
 | [Arcing Weapon](arcing-weapon.md) | Combat | Diverse training class feature |
 | [Area Jinx](area-jinx.md) | General | Widen Spell, Halfling Jinx racial trait |
+| [Arithmancy](arithmancy.md) | — | Int 13, Spell Focus (divination), Spellcraft 3 ranks |
 | [Arming Grab](arming-grab.md) | Combat | Int 13, Catch Off-Guard, Combat Expertise, Improved Disarm |
 | [Armor Adept](armor-adept.md) | Combat | — |
 | [Armor Focus](armor-focus.md) | Combat | Base attack bonus +1, proficiency with selected armor |
@@ -1669,6 +1671,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Bushwhack](bushwhack.md) | Combat | Dex 13, Improved Grapple, Improved Unarmed Strike |
 | [But a Scratch](but-a-scratch.md) | Combat | Cha 13, Bluff 4 ranks |
 | [Butterfly's Sting](butterflys-sting.md) | Critical | Combat Expertise |
+| [Calculating Mind](calculating-mind.md) | — | Sacred Geometry, Knowledge (engineering) 5 ranks |
 | [Call Out](call-out.md) | Combat | — |
 | [Call Truce](call-truce.md) | — | Cha 15, Persuasive, Diplomacy 5 ranks |
 | [Calm Disposition](calm-disposition.md) | — | member of a sect of merchant prophets |
@@ -2748,6 +2751,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Sabotage Magic Item](sabotage-magic-item.md) | — | Magical Aptitude, Disable Device 5 ranks, Use Magic Device 5 ranks |
 | [Sabotage Specialist](sabotage-specialist.md) | — | Deft Hands, Disable Device 5 ranks |
 | [Sabotaging Sunder](sabotaging-sunder.md) | Combat | Str 13, Improved Sunder, Power Attack, Disable Device 7 ranks |
+| [Sacred Geometry](sacred-geometry.md) | — | Int 13, Knowledge (engineering) 2 ranks |
 | [Sacred Pyromania](sacred-pyromania.md) | — | Goblin, worshipper of a deity whose portfolio includes the sun |
 | [Sacrificial Aid](sacrificial-aid.md) | Teamwork | — |
 | [Saddle Shrieker](saddle-shrieker.md) | Combat | Goblin, Ride 1 rank |

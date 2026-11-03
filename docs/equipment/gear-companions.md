@@ -3224,8 +3224,6 @@ Sunsilk, produced by a closely guarded silkworm species, takes on a golden glitt
 
 These tiny granules can be dissolved in water, creating a slimy material used to coat metallic items such as weapons or armor. Such a coating neutralizes the metal-eating acid of black puddings and gray oozes, protecting the item from 1d3 contacts with an ooze’s acidic touch.
 
-### Construction
-
 **Craft (Alchemy)** DC 20
 
 ### Enraging Whip
@@ -3245,8 +3243,6 @@ Designed by dwarves, this iron potbellied stove is about the size of a halfling.
 **Price** 50 gp; **Weight** 1 lb.
 
 This alchemical concoction can be spread over a Medium or Small creature’s body as a full-round action. It provides a +5 alchemical bonus on Escape Artist checks, grapple checks to avoid a grapple, and Reflex saves to avoid an ooze’s improved grab or engulf abilities, but gives a –5 penalty to disarm checks, grapple checks to start or maintain a grapple or pin, and other checks that may be hindered by a loose grip (such as Climb). One application lasts for up to 1 hour and can be removed with soap and water.
-
-### Construction
 
 **Craft (Alchemy)** DC 25
 

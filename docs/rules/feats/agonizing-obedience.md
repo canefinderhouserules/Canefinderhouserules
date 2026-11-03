@@ -1,0 +1,50 @@
+# Agonizing Obedience
+
+You physically defile yourself out of zealous devotion to pain in order to gain special boons.
+
+**Prerequisites**: 3 ranks in Heal.
+
+!!! warning "House rule"
+    Boons are gained at character levels 6, 10 and 14 instead of 12, 16 and 20 Hit Dice (see [Feat Changes](../../characters/options/feat-changes.md#obedience)).
+
+**Benefit**:  When you take this feat, select an agony. You can gain this feat multiple times, each time selecting a different agony, but you can perform an obedience for only a single agony in a 24-hour period. Each agony requires a different obedience, but all obediences take only an hour to perform. Once the obedience has been performed, you take a number of minor penalties and gain the benefit of a resistance to some element or attack associated with your agony, as indicated below. Additionally, you gain the ability to make an agony strike. A number of times per day equal to 1 + 1 per every 5 Hit Dice you possess, when you deal damage to a creature, you can declare that attack as an agony strike. In addition to the normal damage dealt by the attack, you cause the target to take the penalties associated with your agony for 1 minute. Incorporeal creatures and creatures that are immune to critical hits are immune to agony strikes.
+
+If you have at least 12 Hit Dice, you also gain the first boon granted by your agony upon undertaking your obedience. If you have at least 16 Hit Dice, you gain the agony’s second boon as well. If you have 20 Hit Dice or more, you also gain the agony’s third boon. Unless a specific duration or number of uses per day is listed, a boon’s effects are constant.
+
+If you ever fail to perform a daily obedience, or if you are healed of damage, conditions, or penalties caused in the course of performing your obedience, you lose all access to resistances and boons granted by this feat until you next perform the obedience.
+
+## Amputation
+
+You have amputated a digit on one of your hands and treated the wound such that it will never fully heal.
+
+**Obedience**: Manipulate the scabs, scar tissue, and open wound of your amputated digit, preventing it from closing and forcing bits of metal and glass into the wound. Take a –2 penalty on Disable Device, Disguise, Escape Artist, and Sleight of Hand skill checks, as well as to your CMD against disarm maneuvers. When attempting to cast a spell with somatic components, succeed at a caster level check whose DC is equal to 5 + twice the spell level or lose the spell slot with no effect. Gain a +2 bonus on saving throws against transmutation spells; this bonus increases to +4 against spells in the polymorph subschool.
+
+**Boon 1**: In addition to the normal effects of your agony strike, the target has a chance of dropping one object held in its hand immediately after you hit it with the agony strike. A successful Reflex save (DC 10 + 1/2 your HD + your Dexterity modifier) avoids this effect.
+
+**Boon 2**: You gain the use of a phantom arm, which functions as the vestigial arm alchemist discovery save that it is an invisible force effect, it does not grant an additional ring magic item slot, and it cannot make attacks.
+
+**Boon 3**: You are immune to effects that would cause you to become sickened, and you gain a +4 bonus on saving throws against any conditions that would make you nauseated.
+
+## Blinding
+
+You temporarily blind yourself with blood to heighten your other senses.
+
+**Obedience**: Scratch at your eyes with your fingernails, jagged metal shavings, and thorny branches, allowing the blood from your wounds to form thick scabs over your eyelids and tear ducts. Take a –4 penalty on vision-based Perception checks, and anytime you make an attack against a target benefiting from concealment, increase the miss chance by 10% (maximum 50%). Gain a +4 bonus on saving throws against illusions in the pattern subschool and against gaze attacks.
+
+**Boon 1**: Creatures affected by your agony strike have the distance they can see in areas of dim light and darkness reduced by 50%.
+
+**Boon 2**: You gain a gaze attack with a range of 30 feet that you can activate as a standard action. You can use this ability a number of minutes per day equal to half your hit dice; these minutes need not be consecutive but you must use the ability in 1-minute increments. Enemies affected by your gaze are frightened for 1 minute. A successful Will saving throw (DC 10 + 1/2 your HD + your Charisma modifier) negates this effect. A creature that successfully saves against your gaze is immune to its effects for 24 hours.
+
+**Boon 3**: Your affinity to pain allows you to sense suffering in others. You gain lifesense out to a distance of 60 feet.
+
+## Flensing
+
+Practitioners of the agony of flensing are adept at finely removing the skin from living flesh, revealing the vulnerable tissue beneath.
+
+**Obedience**: Remove a patch of your own skin measuring at least 3 square inches with a flensing knife, while carefully avoiding damage to the muscles, veins, and other tissues underneath. Leave this patch of exposed nerves uncovered by clothing or armor, allowing it to be exposed to the elements and displaying your sacrifice to all you meet. Take a –2 penalty on saving throws against disease, and take 1 extra point of damage per die from sneak attacks. Gain a +4 bonus on saving throws against pain effects.
+
+**Boon 1**: All attacks you make against a creature suffering the effects of your agony strike deal 1d6 points of bleed damage.
+
+**Boon 2**: Your knowledge of anatomy imparts to you an awareness of others’ vulnerabilities. You gain a +4 bonus on attack rolls to confirm critical hits.
+
+**Boon 3**: The frequent removal of skin and subsequent healing has covered your body in thick scars. Your natural armor bonus to AC increases by 2. Additionally, there is a 25% chance that critical hits and sneak attacks fail to affect you, as though you were wearing armor with the *light fortification* property.
