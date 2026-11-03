@@ -52,6 +52,7 @@
 - **[Keep Watch](keep-watch.md)**: Lets subjects keep watch all night yet gain a full rest.
 - **[Liberating Command](liberating-command.md)**: Target makes an Escape Artist check as an immediate action and gains a bonus on it.
 - **[Linebreaker](linebreaker.md)**: You gain a +20 foot bonus to your base speed when charging and a +2 bonus on combat maneuver checks made to.
+- **[Locate Portal](locate-portal.md)**: You feel a pull toward the nearest active portal to another plane.
 - **[Longshot](longshot.md)**: Grants a +10-foot bonus to the range increment for any ranged weapon fired.
 - **[Longstrider](longstrider.md)**: Your base speed increases by 10 ft.
 - **[Lose the Trail](lose-the-trail.md)**: Harder to track.
@@ -59,6 +60,7 @@
 - **[Marid’s Mastery](marid-s-mastery.md)**: School transmutation [water]; Level cleric 1, druid 1, ranger 1, sorcerer/wizard 1, witch 1 Casting Time 1.
 - **[Nature's Paths](natures-paths.md)**: Find the fastest way through the wilderness
 - **[Pass without Trace](pass-without-trace.md)**: One subject/level leaves no tracks.
+- **[Planar Orientation](planar-orientation.md)**: Points you toward the seat of the ruler of the plane you are on.
 - **[Preserve](preserve.md)**: Stop spoilage of objects for a week
 - **[Radiation Ward](radiation-ward.md)**: +4 on saves against radiation; sense radiation levels.
 - **[Read Magic](read-magic.md)**: Read scrolls and spellbooks.

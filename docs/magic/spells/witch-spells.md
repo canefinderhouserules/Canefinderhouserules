@@ -86,6 +86,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Perfected Potential](perfected-potential.md)**: Target rolls twice on its next attack, save, or check.
 - **[Pick Your Poison](pick-your-poison.md)**: Poison becomes mere intoxication for a time.
 - **[Pierce Facade](pierce-facade.md)**: +5 insight on Perception to see through disguises.
+- **[Planar Orientation](planar-orientation.md)**: Points you toward the seat of the ruler of the plane you are on.
 - **[Poisoned Egg](poisoned-egg.md)**: Turn an egg into a dose of poison.
 - **[Positive Pulse](positive-pulse.md)**: Energy harms undead or bolsters the living
 - **[Preserve](preserve.md)**: Stop spoilage of objects for a week
@@ -211,6 +212,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Harmless Form](harmless-form.md)**: Turns a companion into an unobtrusive animal.
 - **[Haunting Mists](haunting-mists.md)**: Creatures are shaken and take Wis damage.
 - **[Hidden Presence](hidden-presence.md)**: Prevent creatures from noticing your presence.
+- **[Hold Fey](hold-fey.md)**: As *hold person*, but affects a fey.
 - **[Ice Slick](ice-slick.md)**: Coat the area in slippery ice and cold damage
 - **[Identifier's Eye](identifiers-eye.md)**: Detect magic and +5 on Spellcraft to identify items.
 - **[Influence Wild Magic](influence-wild-magic.md)**: Roll twice on wild magic effects and choose.
@@ -221,6 +223,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Lead Plating](lead-plating.md)**: Sheathe a target in lead to block radiation and divinations.
 - **[Limp Lash](limp-lash.md)**: Energy whip saps and paralyzes a target.
 - **[Lipstitch](lipstitch.md)**: Sew the target’s lips shut.
+- **[Locate Portal](locate-portal.md)**: You feel a pull toward the nearest active portal to another plane.
 - **[Mad Hallucination](mad-hallucination.md)**: Target takes penalties to mental actions.
 - **[Mark of Blood](mark-of-blood.md)**: Mark a creature struck by a bloodied weapon.
 - **[Mask Dweomer, Communal](mask-dweomer-communal.md)**: As mask dweomer, but you may divide the duration among creatures touched.

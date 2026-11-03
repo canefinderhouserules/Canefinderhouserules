@@ -80,6 +80,7 @@
 - **[Pass without Trace](pass-without-trace.md)**: One subject/level leaves no tracks.
 - **[Peace Bond](peace-bond.md)**: Your low-level area spells ignore protected cubes.
 - **[Pesh Vigor](pesh-vigor.md)**: Target gains a Strength bonus it can push higher at a cost.
+- **[Planar Orientation](planar-orientation.md)**: Points you toward the seat of the ruler of the plane you are on.
 - **[Produce Flame](produce-flame.md)**: 1d6 damage + 1/level, touch or thrown.
 - **[Read Weather](read-weather.md)**: Forecast the weather for 48 hours.
 - **[Recharge Innate Magic](recharge-innate-magic.md)**: You channel magic energy into your own aura, recharging your innate magic abilities.
@@ -188,6 +189,7 @@
 - **[Ironskin](ironskin.md)**: Harden your skin to iron
 - **[Lay of the Land](lay-of-the-land.md)**: Instantly learn the geography around you.
 - **[Lead Plating](lead-plating.md)**: Sheathe a target in lead to block radiation and divinations.
+- **[Locate Portal](locate-portal.md)**: You feel a pull toward the nearest active portal to another plane.
 - **[Magic Boulder](magic-boulder.md)**: Enchant boulders for throwing
 - **[Mud Buddy](mud-buddy.md)**: Create a small mud servant that can trip foes
 - **[Outbreak](outbreak.md)**: Make diseased creatures contagious

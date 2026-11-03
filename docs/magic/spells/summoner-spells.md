@@ -23,6 +23,7 @@ New summoner spells from *Ultimate Magic*. Spells from other books will be added
 - **[Lighten Object](lighten-object.md)**: Halve an object’s weight.
 - **[Lucky Number](lucky-number.md)**: When the target rolls a chosen number it can reroll or add +2 luck.
 - **[Pesh Vigor](pesh-vigor.md)**: Target gains a Strength bonus it can push higher at a cost.
+- **[Planar Orientation](planar-orientation.md)**: Points you toward the seat of the ruler of the plane you are on.
 - **[Positive Pulse](positive-pulse.md)**: Energy harms undead or bolsters the living
 - **[Punishing Armor](punishing-armor.md)**: Reflects nonlethal damage back at attackers.
 - **[Ray of Sickening](ray-of-sickening.md)**: Ray makes the subject sickened.
@@ -55,6 +56,7 @@ New summoner spells from *Ultimate Magic*. Spells from other books will be added
 - **[Identifier's Eye](identifiers-eye.md)**: Detect magic and +5 on Spellcraft to identify items.
 - **[Influence Wild Magic](influence-wild-magic.md)**: Roll twice on wild magic effects and choose.
 - **[Lesser Nondetection](lesser-nondetection.md)**: Blocks area-targeted divinations.
+- **[Locate Portal](locate-portal.md)**: You feel a pull toward the nearest active portal to another plane.
 - **[Mount, Communal](mount-communal.md)**: As mount, but you may divide the duration among creatures touched.
 - **[Overstimulate](overstimulate.md)**: Grant ferocity to keep a creature conscious
 - **[Planetarium](planetarium.md)**: Project the night sky.

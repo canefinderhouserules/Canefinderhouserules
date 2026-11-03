@@ -61,6 +61,7 @@ New inquisitor spells from *Ultimate Magic*. Spells from other books will be add
 - **[Persuasive Goad](persuasive-goad.md)**: Target takes 1d6 nonlethal damage; you gain an Intimidate bonus.
 - **[Pick Your Poison](pick-your-poison.md)**: Poison becomes mere intoxication for a time.
 - **[Pierce Facade](pierce-facade.md)**: +5 insight on Perception to see through disguises.
+- **[Planar Orientation](planar-orientation.md)**: Points you toward the seat of the ruler of the plane you are on.
 - **[Poisoned Egg](poisoned-egg.md)**: Turn an egg into a dose of poison.
 - **[Positive Pulse](positive-pulse.md)**: Energy harms undead or bolsters the living
 - **[Preserve Grace](preserve-grace.md)**: Grant a phylactery of faithfulness effect.
@@ -143,6 +144,7 @@ New inquisitor spells from *Ultimate Magic*. Spells from other books will be add
 - **[Healing Token](healing-token.md)**: Holy symbols let allies request healing at a distance.
 - **[Hidden Blades](hidden-blades.md)**: Weapon becomes invisible and easy to conceal.
 - **[Hidden Presence](hidden-presence.md)**: Prevent creatures from noticing your presence.
+- **[Hold Fey](hold-fey.md)**: As *hold person*, but affects a fey.
 - **[Howling Agony](howling-agony.md)**: Screaming pain limits the target’s actions.
 - **[Hungering Beacon](hungering-beacon.md)**: Haunt draws the attention of ravenous undead.
 - **[Hunter’s Lore](hunters-lore.md)**: Take 20 on Knowledge checks to learn a foe’s weaknesses.

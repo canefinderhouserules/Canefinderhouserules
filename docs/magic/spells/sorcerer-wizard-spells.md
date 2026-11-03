@@ -78,6 +78,7 @@
 - **[Burning Disarm](burning-disarm.md)**: Held metal object turns red-hot; drop it or take 1d4 fire damage/level.
 - **[Burning Sands](burning-sands.md)**: Burning sand slows and damages creatures.
 - **[Celestial Healing](celestial-healing.md)**: Target gains fast healing 1.
+- **[Charm Fey](charm-fey.md)**: As *charm person*, but affects a fey.
 - **[Clarion Call](clarion-call.md)**: Creates a horn blast and a booming voice.
 - **[Cloak of Secrets](cloak-of-secrets.md)**: Bubble disguises speech and spell components.
 - **[Coin Shot](coin-shot.md)**: Turns coins into bullets.
@@ -148,6 +149,7 @@
 - **[Peacebond](peacebond.md)**: Locks a weapon in place on the target’s body.
 - **[Pesh Vigor](pesh-vigor.md)**: Target gains a Strength bonus it can push higher at a cost.
 - **[Pierce Facade](pierce-facade.md)**: +5 insight on Perception to see through disguises.
+- **[Planar Orientation](planar-orientation.md)**: Points you toward the seat of the ruler of the plane you are on.
 - **[Poisoned Egg](poisoned-egg.md)**: Turn an egg into a dose of poison.
 - **[Positive Pulse](positive-pulse.md)**: Energy harms undead or bolsters the living
 - **[Preserve](preserve.md)**: Stop spoilage of objects for a week
@@ -371,6 +373,7 @@
 - **[Light Prison](light-prison.md)**: Cage of light damages and blinds those who leave it.
 - **[Limp Lash](limp-lash.md)**: Energy whip saps and paralyzes a target.
 - **[Lipstitch](lipstitch.md)**: Sew the target’s lips shut.
+- **[Locate Portal](locate-portal.md)**: You feel a pull toward the nearest active portal to another plane.
 - **[Mage's Crawl Space](mages-crawl-space.md)**: Merge into stone inside a 5-ft. pocket of air.
 - **[Magic Siege Engine](magic-siege-engine.md)**: Siege engine gains +1 on targeting and damage rolls.
 - **[Mark of Blood](mark-of-blood.md)**: Mark a creature struck by a bloodied weapon.
@@ -629,6 +632,7 @@
 - **[Healing Thief](healing-thief.md)**: You siphon half of all magical healing that the targeted creature receives.
 - **[Heatstroke](heatstroke.md)**: Ray deals 1d4 nonlethal damage and exhausts like ray of exhaustion.
 - **[Hero's Spellsword](heros-spellsword.md)**: Merge a rod or staff into a melee weapon.
+- **[Hold Fey](hold-fey.md)**: As *hold person*, but affects a fey.
 - **[Hollow Blades](hollow-blades.md)**: Target's melee damage drops one size.
 - **[Horrifying Visage](horrifying-visage.md)**: Haunt gives victims a phobia of a named thing.
 - **[Hostile Levitation](hostile-levitation.md)**: Levitates the targeted creature up off the ground.

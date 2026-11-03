@@ -137,6 +137,7 @@ Psychics gain access to the following spells. Spells without a link come from ot
 - **[Perfected Potential](perfected-potential.md)**: Target rolls twice on its next attack, save, or check.
 - **[Pesh Vigor](pesh-vigor.md)**: Target gains a Strength bonus it can push higher at a cost.
 - **[Pierce Facade](pierce-facade.md)**: +5 insight on Perception to see through disguises.
+- **[Planar Orientation](planar-orientation.md)**: Points you toward the seat of the ruler of the plane you are on.
 - **[Polypurpose Panacea](polypurpose-panacea.md)**: Gain a relaxing or entertaining effect.
 - **[Psychic Reading](psychic-reading.md)**: Read surface thoughts to learn information about a subject.
 - **[Quintessence](quintessence.md)**: Mask any flaws of or damage to a creature or object.
@@ -298,6 +299,7 @@ Psychics gain access to the following spells. Spells without a link come from ot
 - **[Levitate](levitate.md)**: Subject moves up and down at your direction.
 - **[Life Pact](life-pact.md)**: Affected creatures automatically donate hp to stabilize fallen ally.
 - **[Locate Object](locate-object.md)**: Senses direction toward object (specific or type).
+- **[Locate Portal](locate-portal.md)**: You feel a pull toward the nearest active portal to another plane.
 - **[Mad Hallucination](mad-hallucination.md)**: Target takes penalties to mental actions.
 - **[Magic Mouth](magic-mouth.md)**: Object speaks once when triggered.
 - **[Make Whole](make-whole.md)**: Repairs an object.

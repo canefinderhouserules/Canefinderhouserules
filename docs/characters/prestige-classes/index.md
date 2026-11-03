@@ -92,6 +92,8 @@ The prestige classes presented in this chapter are summarized below.
 
 **[Fate Reader](fate-reader.md)**: A diviner who draws fate deck cards to bless allies and empower her spells.
 
+**[Feysworn](feysworn.md)**: A servant of a fey lord who gains her boons early, cheats death and summons fey.
+
 **[First Magic Arcanist](first-magic-arcanist.md)**: An arcane caster who adapts druid magic and fights evil with good-descriptor spells.
 
 **[Freedom Tiller](freedom-tiller.md)**: A liberator who escorts a crop of allies to safety, empowering them with teamwork and local contacts.

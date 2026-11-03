@@ -41,6 +41,7 @@
 - **[Brightest Night](brightest-night.md)**: grant or enhance low-light vision
 - **[Call Weapon](call-weapon.md)**: Pull an ally’s weapon into your hand.
 - **[Cause Fear](cause-fear.md)**: One creature of 5 HD or less flees for 1d4 rounds.
+- **[Charm Fey](charm-fey.md)**: As *charm person*, but affects a fey.
 - **[Charm Person](charm-person.md)**: Makes one person your friend.
 - **[Clarion Call](clarion-call.md)**: Creates a horn blast and a booming voice.
 - **[Cloak of Secrets](cloak-of-secrets.md)**: Bubble disguises speech and spell components.
@@ -115,6 +116,7 @@
 - **[Peace Bond](peace-bond.md)**: Your low-level area spells ignore protected cubes.
 - **[Pick Your Poison](pick-your-poison.md)**: Poison becomes mere intoxication for a time.
 - **[Pierce Facade](pierce-facade.md)**: +5 insight on Perception to see through disguises.
+- **[Planar Orientation](planar-orientation.md)**: Points you toward the seat of the ruler of the plane you are on.
 - **[Poisoned Egg](poisoned-egg.md)**: Turn an egg into a dose of poison.
 - **[Quintessence](quintessence.md)**: Mask any flaws of or damage to a creature or object.
 - **[Read Weather](read-weather.md)**: Forecast the weather for 48 hours.
@@ -254,6 +256,7 @@
 - **[Hidden Blades](hidden-blades.md)**: Weapon becomes invisible and easy to conceal.
 - **[Hidden Knowledge](hidden-knowledge.md)**: Store knowledge in a tattoo, forgetting it temporarily.
 - **[Hidden Presence](hidden-presence.md)**: Prevent creatures from noticing your presence.
+- **[Hold Fey](hold-fey.md)**: As *hold person*, but affects a fey.
 - **[Hold Person](hold-person.md)**: Paralyzes one humanoid for 1 round/level.
 - **[Hoodwink](hoodwink.md)**: Befuddle targets so they can be led away
 - **[Human Potential](human-potential.md)**: Target chooses one ability score and gains +2.
@@ -268,6 +271,7 @@
 - **[Lay of the Land](lay-of-the-land.md)**: Instantly learn the geography around you.
 - **[Light Prison](light-prison.md)**: Cage of light damages and blinds those who leave it.
 - **[Locate Object](locate-object.md)**: Senses direction toward object (specific or type).
+- **[Locate Portal](locate-portal.md)**: You feel a pull toward the nearest active portal to another plane.
 - **[Mage's Crawl Space](mages-crawl-space.md)**: Merge into stone inside a 5-ft. pocket of air.
 - **[Matchmaker](matchmaker.md)**: Cause two creatures to fall in love.
 - **[Mathematical Curse](mathematical-curse.md)**: Assign 3d8 to set a penalty on one d20 roll type and its duration.
