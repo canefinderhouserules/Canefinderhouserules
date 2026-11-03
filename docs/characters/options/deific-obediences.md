@@ -1,9 +1,9 @@
 # Deific Obediences
 
-A character with the [Deific Obedience](../../rules/feats/deific-obedience.md) feat performs a daily obedience to her deity and gains its benefit. As she advances, she also gains her deity’s boons: evangelist boons for [evangelists](../prestige-classes/evangelist.md), sentinel boons for [sentinels](../prestige-classes/sentinel.md), and exalted boons for [exalted](../prestige-classes/exalted.md) and for characters with none of these prestige classes.
+A character with the [Deific Obedience](../../rules/feats/deific-obedience.md) feat performs a daily obedience to her deity and gains its benefit. As she advances, she also gains the boons of the list she chose from her deity. The lists are named after the [evangelist](../prestige-classes/evangelist.md), [sentinel](../prestige-classes/sentinel.md) and [exalted](../prestige-classes/exalted.md) prestige classes.
 
 !!! warning "House rule"
-    Obedience boons are gained at character levels 6, 10 and 14, and the choice between exalted, sentinel and evangelist boons is permanent once made (see [Feat Changes](feat-changes.md#obedience)).
+    Obedience boons are gained at character levels 6, 10 and 14. The player chooses any one boon list her patron offers, whatever its name and whatever her class; the choice is permanent once made (see [Feat Changes](feat-changes.md#obedience)).
 
 Deities are listed by their portfolio rather than by name. Each entry gives the daily obedience, its benefit, and the three boons for each path.
 

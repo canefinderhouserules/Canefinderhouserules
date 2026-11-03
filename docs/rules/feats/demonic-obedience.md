@@ -11,4 +11,4 @@ If you have at least 12 Hit Dice, you also gain the first boon granted by your d
 If you ever fail to perform a daily obedience, you lose all access to resistances and boons granted by this feat until you next perform the obedience.
 
 !!! warning "House rule"
-    Boons are gained at character levels 6, 10 and 14 instead (see [Feat Changes](../../characters/options/feat-changes.md#obedience)).
+    Boons are gained at character levels 6, 10 and 14 instead, and you choose any one boon list your patron offers (see [Feat Changes](../../characters/options/feat-changes.md#obedience)).
