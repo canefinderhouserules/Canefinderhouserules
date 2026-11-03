@@ -136,6 +136,8 @@ The prestige classes presented in this chapter are summarized below.
 
 **[Moonlit Dancer](moonlit-dancer.md)**: A performer who uses dance and moonlight to unravel undead and free lost spirits.
 
+**[Mystery Cultist](mystery-cultist.md)**: A zealous spellcaster devoted to an empyreal lord, who gains that patron’s boons earlier than other worshipers.
+
 **[Nature Warden](nature-warden.md)**: A master of the wilderness bonded spiritually to a fearsome animal companion.
 
 **[Noble Scion](noble-scion.md)**: A wealthy aristocrat with cohorts, influence, and regional training.

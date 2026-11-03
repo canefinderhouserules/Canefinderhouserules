@@ -329,3 +329,7 @@ The following text is the property of Wizards of the Coast, Inc. and is Copyrigh
     Pathfinder Companion: Andoran, Spirit of Liberty. Copyright 2010, Paizo Publishing, LLC; Authors: Jonathan Keith, Hal Maclean, Colin McComb, Jason Nelson, and Hank Woon.
 
     Pathfinder Companion: Qadira, Gateway to the East. Copyright 2009, Paizo Publishing, LLC; Author: Brian Cortijo.
+
+    Pathfinder Campaign Setting: Chronicle of the Righteous © 2013, Paizo Publishing, LLC; Author: Amber E. Scott.
+
+    Pathfinder Campaign Setting: Inner Sea Faiths © 2016, Paizo Inc.; Authors: Robert Brookes, Benjamin Bruck, Crystal Frasier, Thurston Hillman, Brandon Hodge, James Jacobs, Jessica Price, Patrick Renie, and David N. Ross.

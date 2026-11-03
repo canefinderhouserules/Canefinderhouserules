@@ -1681,6 +1681,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Caustic Slur](caustic-slur.md) | General | Bluff 1 rank, favored enemy class feature, gnome |
 | [Cecaelia Focus Tattoo](cecaelia-focus-tattoo.md) | — | Cecaelia |
 | [Celestial Guidance](celestial-guidance.md) | General | — |
+| [Celestial Obedience](celestial-obedience.md) | — | Knowledge (planes) 3 ranks, must worship an empyreal lord |
 | [Center of Power](center-of-power.md) | — | Leadership score 13, hold a leadership role related to running a kingdom |
 | [Centered Spell](centered-spell.md) | Metamagic | Spellcraft 3 ranks |
 | [Cerberus Crush](cerberus-crush.md) | Combat | Cerberus Snare, Cerberus Style, Vital Strike, base attack bonus +13 or monk level 13th |
