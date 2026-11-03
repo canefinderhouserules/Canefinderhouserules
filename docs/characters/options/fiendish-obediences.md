@@ -182,3 +182,180 @@ Fiends are listed by their portfolio rather than by name. These obediences are m
 1. **Ophidian Kiss (Sp)**: *disguise weapon* 3/day, *animal trance* 2/day, or *greater magic fang* 1/day
 2. **Crushing Coils (Sp)**: Although it is often contemplative, your archdevil relishes visiting a hellish and mighty wrath upon those liars and sinners who have earned its ire, particularly the damned souls that writhe in the swamps of Hell. As its worshiper, you are more than happy to further your archdevil’s dark work. Once per day, you can cast *vortex* as spell-like ability.
 3. **Three-Headed Serpent (Su)**: For a number of minutes equal to your Hit Dice, you become a Large version of yourself, with powerful coils sprouting in place of your feet. This increases your base speed by 30 feet. Additionally, you can use your coils to form a cage for your enemies. When you successfully grapple a creature, you can transfer that creature into your coils; this works like the swallow whole universal monster ability. Your coils have AC 17 and 18 hp when an entrapped creature attempts to cut itself free. Your coils heal quickly while this ability is in effect, allowing you to transfer another (or the same) creature into your coils 1 round after a creature cuts itself free. Activating three-headed serpent is a standard action, and dismissing it is a free action. This effect’s duration need not be used all at once, but it must be used in 1-minute increments.
+
+## Patrons Without Boons
+
+These lesser fiends grant only the benefit of their obedience: they have no boon lists. They are listed by portfolio, or by the theme of their obedience where they have no known portfolio.
+
+### Infernal Dukes
+
+| Portfolio | Alignment | Obedience |
+| --- | --- | --- |
+| Abduction, rape and transformation | LE | Carve the flesh of a deceased creature into pieces, then reassemble them into a new form. Gain a +4 profane bonus on saving throws against polymorph effects. |
+| Apprehension, promises and terror | LE | Consume three maggots plucked from a grave. Gain a +4 profane bonus on saves against poison. |
+| Architecture, expansion and waste | LE | Shoot or throw 26 flaming projectiles into the sky. Gain a +4 profane bonus on Reflex saving throws to avoid physical dangers. |
+| Armor, mercilessness and revelation | LE | Use your weapon to utterly destroy something fragile. Gain a +4 profane bonus on saving throws against spells and abilities that deal ability damage or drain. |
+| Arrogance, nobility and sexual perversion | LE | Smash a crystal goblet and fling shards upon anyone who steps into your way. Gain a +4 profane bonus to CMD against disarm, sunder, and trip combat maneuvers. |
+| Atrocity, pestilence and war | LE | Mix volatile chemicals together, smash them at your feet, and pray. Gain a +4 profane bonus on saving throws against disease and poisons. |
+| Authority, hubris and liars | LE | Place a black stone over an open flame to heat it, all the while chanting war cries against all that is good. Gain a +4 profane bonus on saves against compulsions. |
+| Beasts, hunters and tradition | LE | Lure or chase any quarry, then kill it and pray over the corpse. Gain a +4 profane bonus to AC against attack rolls made to confirm a critical hit against you. |
+| Betrayal, doom and obsession | LE | Replace the internal mechanisms of a clockwork or other mechanical device with tiger claws. Gain a +4 profane bonus on saving throws against mind-affecting effects. |
+| Blasphemy, humor and undeath | LE | Mock the beliefs of your companions or of any creatures you have recently encountered. Gain a +4 profane bonus on saving throws against language-dependent effects. |
+| Blood, rebirth and undeath | LE | Chew on pieces of undead flesh. Gain a +4 profane bonus on saves against negative energy effects. |
+| Burial rites, death and insects | LE | Pray over an unburied corpse. Gain a +4 profane bonus on saving throws against death effects. |
+| Carrion, patience and storms | LE | Slice slivers of flesh from a living creature, and consume them one by one. Gain a +4 profane bonus on saves against effects that cause the nauseated condition. |
+| Condemnation, judges and revision | LE | Pass a binding judgment on the words or deeds of a creature you’ve recently encountered, perhaps even yourself. Gain a +4 profane bonus on saving throws against compulsions. |
+| Construction, parasites and toil | LE | Toss random handfuls of nails, caltrops, or other destructive materials onto ground behind you where you expect others to tread. Gain a +4 profane bonus on Heal checks to provide first aid. |
+| Debility, dependence and frailty | LE | Pray on the frailty of flesh while you cut yourself. Gain a +4 profane bonus on saves against disease. |
+| Denial, drugs and wonder | LE | Mix a concoction from materials you have on hand, and drink it without considering its effects. Gain a +4 profane bonus on saving throws against poison. |
+| Depression, nooses and sad stories | LE | Tie a noose and leave it around the neck of any dead creature. Gain a +4 profane bonus on saving throws against mind-affecting effects. |
+| Discovery, hubris and scholarship | LE | Carve your patron’s symbol onto six coins of different mintings. Gain a +4 profane bonus on Appraise checks. |
+| Divination, illusion and water | LE | Drown a living creature in any amount of fetid water. Gain a +4 profane bonus on saving throws against divinations. |
+| Dominance, hounds and punishment | LE | Hand-feed raw meat to a beast, and rub the ensuing blood around your eyes like kohl. Gain a +4 profane bonus on saving throws against fear effects. |
+| Duty, flames and herbalism | LE | Mix any herbal salve or concoction; apply or drink half of it yourself, and burn the other half. Gain a +4 profane bonus on saving throws against poison. |
+| Exiles, scholars and theories | LE | Work on a never-ending compendium of promises of pain to your enemies. Gain a +4 profane bonus on Knowledge and Spellcraft checks. |
+| Exploration, gems and legends | LE | Find a small stretch of land, claim it as your own for the day, and sprinkle bloody gems over its expanse. Gain a +4 profane bonus on saving throws against compulsion effects. |
+| Fate, luck and patterns | LE | Recite a pattern that occurred the previous day that foretells some horrendous doom. Gain a +4 profane bonus on saving throws against curse spells and effects. |
+| Flight, soldiers and watchfulness | LE | Ride your mount at top speed in a circuitous route you repeat three times while scattering bones behind you. Gain a +4 profane bonus on saving throws against spells with the ruse descriptor. |
+| Hellspawn, misdirection and night | LE | Release a bat upon an unsuspecting living creature, and tell of the doom that’s coming. Gain a +4 profane bonus on saving throws against transmutation effects. |
+| Hidden waters, illusion and language | LE | Dissect a rat or another vermin, and carve the patterns you see in its bared viscera. Gain a +4 profane bonus on saving throws against illusions. |
+| Immolation, renewal and shackles | LE | Burn a spiderweb while a living creature is entangled inside. Gain a +4 profane bonus on saving throws against effects that deal fire damage. |
+| Lies, propaganda and rhetoric | LE | Write propaganda that insidiously promotes your patron and his deeds. Gain a +4 profane bonus on saving throws against mind-affecting effects. |
+| Masks, ugliness and volition | LE | Score an unblemished section of your own flesh with ugly and asymmetrical cuts. Gain a +4 profane bonus on saving throws against polymorph effects. |
+| Pollution, swamps and toads | LE | Swallow a toad whole, and bask in the croaking sounds it makes in your throat while it travels to your stomach. Gain a +4 profane bonus on saving throws against sonic effects. |
+
+### Infernal Generals
+
+| Portfolio | Alignment | Obedience |
+| --- | --- | --- |
+| Antiquity, death and mists | LE | Contemplate the terror an army of your lord’s spirits might wreak while reclining atop a grave. Gain a +4 profane bonus on saving throws against death effects. |
+| Conquest, cruelty and martial skill | LE | Brandish your unholy symbol and recount the tactics you will use to conquer your enemies. Gain a +4 profane bonus on saving throws against mind-affecting effects. |
+| Corruption, elusiveness and vermin | LE | Release a cloud of wasps in the midst of a peaceful situation. Gain a +4 profane bonus on saves against spells and effects that would cause the nauseated condition. |
+| Deceit, poison and temptation | LE | Weave a fabric of lies glorifying yourself and your infernal liege, but never name him, instead hinting at glorious truths your faith reveals. Gain a +4 profane bonus on saving throws against language-dependent effects. |
+| Deception, madness and royalty | LE | Tell a joke with a sadistic punch line involving abject violence or cruelty, and laugh maniacally at it until you’re out of breath. Gain a +4 bonus on saving throws against mind-affecting effects. |
+| Devastation, monsters and patience | LE | Lie prostrate in an area with the most bustling activity you can find. Gain a +4 profane bonus on saving throws against magical sleep effects. |
+| Dreams, insanity and mystery | LE | Inscribe a heinous nightmare you have had, and leave the note in a public place for another to find. Gain a +4 profane bonus on saving throws against phantasms. |
+| Elusiveness, fear and murder | LE | Swear a lengthy blood oath against an enemy. Gain a +4 profane bonus on saving throws against fear effects. |
+| Fecundity, predators and slaughter | LE | Use the harvested teeth or claws of a fearsome predator to shred the flesh of a creature you recently killed. Gain a +4 profane bonus on saving throws against force effects. |
+| Fire, honor and nobility | LE | Stand on smoldering coals. Recount how the heat and flames harden your resolve and make you a stronger follower of your liege. Gain a +4 profane bonus on saving throws against fire effects. |
+| Gluttony, greed and undead | LE | Consume rotten or spoiled food, then vomit it up where as many people as possible will find it. Gain a +4 profane bonus on saving throws against disease. |
+| Rage, violence and wind | LE | Smash any work of art and scatter its pieces into four opposing corners. Gain a +4 profane bonus on saving throws against transmutation effects. |
+
+### Daemon Harbingers
+
+| Portfolio | Alignment | Obedience |
+| --- | --- | --- |
+| Abduction, strangers and sweets | NE | Stalk a child and make him witness or endure a horrifically brutal event. Promise him that you will return, and then release him with that haunting thought. Gain a +2 profane bonus on Charisma-based skill checks. |
+| Aging pains, organ failure and senility | NE | Trick an elderly creature into believing it has forgotten something. Gain a +4 profane bonus on saving throws against disease and effects related to memory. |
+| Animal attacks, coups and revolution | NE | Plot a revolution against a peaceful ruler. Gain a +4 profane bonus on checks associated with grappling. |
+| Anxiety, coddling and unhealthy parental love | NE | Spend an hour creating and then eating a detailed portrait of your mother or father. Gain a +4 profane bonus on saving throws against enchantment effects. |
+| Arson, burning alive and cremation | NE | Burn a living creature of at least the size of a cat or infant atop a pyre. Gain a +4 profane bonus on saving throws against fire-based spells and effects. |
+| Basements, closets and delusions of safety | NE | Meditate in a basement or cellar (preferably one that does not belong to you). Gain a +4 profane bonus on all saving throws attempted while in complete darkness. |
+| Body modification, destructive vanity and pins | NE | Repeatedly cut a murdered victim’s name into your flesh. Gain a +4 profane bonus on saving throws against effects that cause pain or slashing damage. |
+| Broken deals, fine print and unfair bargains | NE | Craft a one-sided contract. Gain a +4 profane bonus on saving throws against mind-affecting effects. |
+| Cacodaemons, cannibalism and secret messages | NE | Whisper a personal secret to a stranger. Gain a +4 profane bonus on saving throws against death and negative energy effects. |
+| Castaways, fouled water and oceans | NE | Consume at least a pint of brackish water. Gain a +4 profane bonus on saving throws against water-based effects and effects that cause suffocation or drowning. |
+| Cesspools, rat catchers and sewers | NE | Drown a warm-blooded animal no smaller than a rat, and then consume the corpse while it still drips with water. Gain a +4 profane bonus on saving throws against disease effects. |
+| Cyclical revenge, crusades and intolerance | NE | Work on crafting an ever-expanding manifesto of your hatreds and intolerances. Gain a +4 profane bonus on saving throws against conjuration effects. |
+| Dehumanization, disposal and euthanasia | NE | Pray over the body of one who died of sickness. Gain a +4 profane bonus on saving throws against death effects. |
+| Electricity, gunpowder and poisonous metals | NE | Pray atop a hill at night, preferably during a thunderstorm. Gain a +4 profane bonus on saving throws against lightning effects. |
+| Explosions, immolation and pyromaniacs | NE | Set an occupied building on fire, and watch it burn. Gain a +4 profane bonus on saves against fire effects. |
+| Failed martyrdom, false worship and ritual death | NE | Offer a sacrifice to a dead or nonexistent god in the temple of a nonevil deity. Gain a +4 profane bonus on saving throws against divine spells. |
+| Falling, nonmagical flight and projectiles | NE | Shoot a creature from the sky, or push one to its death from a great height. Gain a +4 profane bonus on attack rolls against flying creatures. |
+| Fear of aging, radical routes to immortality and wills | NE | Smear yourself in and drink the blood of a much younger victim. Gain a +4 profane bonus on saving throws against effects causing aging or ability damage. |
+| Flagellation, repression and self denial | NE | Publicly self-flagellate without acknowledging others’ reactions. Gain a +4 profane bonus on saving throws against effects that damage, drain, or penalize ability scores. |
+| Fungi, infected wounds and rot | NE | Feed poisonous mushrooms to a victim, or consume them yourself. Gain a +4 profane bonus on saving throws against poison and disease. |
+| Hobbling, lobotomizing and slavery | NE | Meditate within earshot of no fewer than a dozen toiling slaves. Gain a +4 profane bonus to your CMD. |
+| Immortality, liches and magical catastrophes | NE | Eat a portion of a being killed by magic. Gain a +4 profane bonus on saving throws against death effects. |
+| Incurable afflictions, poison and toxicity | NE | Consume a diluted dose of poison. Gain a +4 profane bonus on saving throws against poison. |
+| Invasive species, extinction and natural disaster | NE | Meditate while pondering various natural disasters such as earthquakes, mudslides, and wildfires. Gain a +4 profane bonus on saving throws related to natural disasters. |
+| Lechery, love potions and obsession | NE | Sleep on the grave or next to the corpse of someone you knew when the person was alive. Gain a +4 profane bonus on saving throws against charm effects. |
+| Maggots, myiasis and parasites | NE | Willingly play host to a parasite. Gain a +4 profane bonus on saving throws against disease. |
+| Mutilation, skinning and trophy taking | NE | Mutilate the corpse of a defeated enemy. Gain a +4 profane bonus on saving throws against effects that cause fatigue or exhaustion. |
+| Nightmares, quartering and trampling | NE | Ingest drugs that put you in a nightmarish fugue state for an hour. Gain a +4 profane bonus on saving throws and checks involving mounts and mounted combat. |
+| Rebirth, rites of passage and transformation | NE | Meditate while cutting your flesh. Gain a +4 profane bonus on saving throws against transmutation effects. |
+| Regression, reversion and savage revenge | NE | Meticulously plot the brutal murder of an enemy. Gain a +4 profane bonus on saving throws against effects involving or originating from animals. |
+
+### Asura Ranas
+
+| Portfolio | Alignment | Obedience |
+| --- | --- | --- |
+| Abduction, isolation and propaganda | LE | Don the guise of a nonevil priest, and spend 1 hour proselytizing and distributing poisoned food to the poor. Gain a +4 profane bonus on saving throws against spells with the chaotic or good descriptors. |
+| Anger, dreams and shattering of bonds | LE | Bind yourself tightly with cords of woven hair and then lull yourself into anger-filled dreams for an hour. Gain a +4 profane bonus on saving throws against paralysis and sleep effects. |
+| Avarice, meditation and vigilance | LE | Spend 1 hour recording reasons you deserve another’s treasured heirloom and devising ways to steal it for yourself. Gain a +4 profane bonus to your CMD against disarm and steal combat maneuvers. |
+| Axes, dismemberment and torture | LE | Ritualistically scrape painful scratches and welts along your limbs’ joints. Gain DR 2/slashing. |
+| Beauty, double standards and self-mutilation | LE | Spend 1 hour using cosmetics, scarification, or other means to decorate the left side of your body differently from your right side. Gain a +4 profane bonus on saving throws against charm effects. |
+| Blood, butchers and leather | LE | Either butcher an animal or work on the crafting of a leather garment. Gain immunity to bleed effects. |
+| Caverns, cliffs and premature burials | LE | Partially bury yourself in dirt or gravel while meditating. Gain a +4 profane bonus on saving throws against earth effects and petrification. |
+| Corruption, indoctrination and lies | LE | Count the bearings inside a sap, assigning each the name of someone you know and intend to indoctrinate or deceive. Gain a +4 profane bonus on Bluff checks to tell lies and on saving throws against divination effects. |
+| Eclipses, executions and gluttony | LE | Behead a serpent and offer its head to the rising sun. If no serpent is available, you must undertake a ritual that symbolizes severing your own head with a silver knife (this deals 1 point of damage). Gain a +4 profane bonus on saving throws against blindness and vision-based effects. |
+| Eternity, hunger and madness | LE | Consume 13 pages from a sacred text. Gain a +4 profane bonus on saving throws against effects that cause exhaustion, fatigue, hunger, or pain. |
+| Fearful memories, serpents and vision | LE | Think back upon a frightful memory and immerse yourself in growing terror. Gain a +4 profane bonus on saving throws against fear effects. |
+| Fire, injustice and vendettas | LE | Steal something of sentimental value, burn it, and place the ashes where the owner will find them. Gain a +4 profane bonus on saving throws against fire effects. |
+| Mist, poison and veils | LE | Meditate while wearing a veil soaked in acrid, toxic chemicals that induce minor rashes. Gain a +4 profane bonus on saving throws against poison effects. |
+
+### Kyton Demagogues
+
+| Portfolio | Alignment | Obedience |
+| --- | --- | --- |
+| Absolute cold, preservation and solitude | LE | Inventory your collection of hoarded knickknacks, reciting your unique name for each item as you do. Gain a +4 profane bonus on saving throws to resist effects that would petrify or paralyze you. |
+| Ecstasy, fleetingness and incorporeality | LE | Sing your name or events from your life for an hour. Gain a +4 profane bonus on saving throws to resist sonic effects. |
+| Evolution, mutation and skulls | LE | Spend an hour cleaning and considering your collection of skulls. Gain a +4 profane bonus on saving throws to resist energy drain and negative energy effects. |
+| Experience, murder and patterns | LE | Study the interior of a freshly severed limb. You are immune to bleed effects that deal 6 damage or less. |
+| Experimentation, physical merger and stitches | LE | Spend an hour stitching mortal flesh. The creature you stitch gains a number of temporary hit points equal to half its Hit Dice (lasting 24 hours or until lost). You know when any of these hit points are lost. |
+| Illusion of freedom, potential and transcendence | LE | Meditate on how you changed someone’s daily routine in an unexpected way the previous day (this should be a painful change). Gain a +4 profane bonus on saving throws to resist charm effects. |
+| Invasiveness, proliferation and redundancy | LE | Find two similar creatures of any type (animals, insects, people, etc.) and make them fight to the death. Gain a +2 profane bonus to your CMD. |
+| Possibility, revenge and sanctuary | LE | List the names of those who have wronged you until the writing covers a page, then consume the parchment. Gain a +4 profane bonus on saving throws to resist compulsion effects. |
+| The elderly, fatalistic insights and resurrection | LE | Practice breath control, holding your breath until you nearly pass out. Gain a +4 profane bonus on checks to resist drowning and on saves against inhaled poisons. |
+
+### Oni Daimyo
+
+| Portfolio | Alignment | Obedience |
+| --- | --- | --- |
+| Ambushes, hunting and traps | NE | Draft plans for a complex ambush or trap using blood as ink. Gain a +2 profane bonus on Initiative checks. |
+| Battle, honor and martial arts | LE | Practice martial art stances and routines. Gain a +4 profane bonus to CMD. |
+| Blizzards, frozen ghosts and starvation | LE | Meditate on the sensations of starving to death in the snow; you need not actually be starving or in the snow to do so, but for each of these conditions you lack, you must deal 1d4 points of damage to yourself via self-flagellation. Gain a +4 profane bonus on saving throws against cold-based effects. |
+| Curses, promises and volcanoes | NE | Burn a small model of a building, and meditate on the smoke. Gain a +4 profane bonus on saving throws against fire effects. |
+| Drought, forest fires and perfume | NE | Meditate within a ring of fire while periodically casting incense into the flames. Gain a +4 profane bonus on saves against fire effects. |
+| Earthquakes, keys and sabotage | CE | Bury a key in the earth, and meditate over the site before retrieving the key. Gain a +4 profane bonus on saves against earth effects and being knocked prone. |
+| Eclipses, sunsets and unseen things | NE | While blindfolded, turn your back to the setting sun and concentrate on what the world might be like should the sun fail to rise the next day. Gain a +4 profane bonus on saving throws against blindness and vision-based effects. |
+| Lavish wealth, origami and servitude | LE | Craft delicate origami representing those you seek to rule over. Gain a +4 profane bonus on saving throws against mind-affecting effects. |
+| Orgies, sake and tattoos | CE | Lightly trace the lines of your tattoos with the tip of a needle dipped in sake. Gain a +4 profane bonus on saving throws against effects that cause the confused, exhausted, or fatigued condition. |
+| Piracy, tea and tsunamis | CE | Perform a tea ceremony on the shore of an ocean or while blindfolded. Gain a +4 profane bonus on saving throws against water-based effects. |
+
+### Rakshasa Immortals
+
+| Portfolio | Alignment | Obedience |
+| --- | --- | --- |
+| Blasphemy and curses | LE | Spew blasphemies against a random good-aligned god and curse the names of all those you know who worship that deity. Gain a +4 profane bonus on saving throws against language-dependent effects. |
+| Dragon teeth and pain | LE | Pierce your skin with a sharpened dragon’s tooth and bask in the power that the pain brings you. Gain a +4 profane bonus on saving throws against effects that deal piercing damage. |
+| Ecstatic selfishness | LE | Meditate upon the ecstasy that utter selfishness and determination can bring. Gain a +4 profane bonus on saving throws against mind-affecting effects. |
+| Family slander | LE | Spread slander and lies about a member of your family to anyone who will listen. Gain a +4 profane bonus on saving throws against compulsions. |
+| Fruitless searches | LE | Toss a cat’s whisker into a pile of leaves or a bale of hay and search for it meticulously. Gain a +4 profane bonus on saving throws against effects that cause the confused condition. |
+| High places and marked prey | LE | Climb to the highest point you can reach and draw a bead on as many living creatures as you see. Gain a +4 profane bonus on saving throws against death effects. |
+| Honeyed corruption | LE | Speak honeyed words into a righteous creature’s ear with the intent of poisoning its virtue with your evil. Gain a +4 profane bonus on saving throws against good-aligned effects. |
+| Many heads and summoned creatures | LE | Howl prayers to your patron and pay homage to each of his mighty heads. Gain a +4 profane bonus on saving throws against effects from summoned creatures. |
+| Masks of blood | LE | Pour a large amount of any sort of blood over your face and let it dry in natural rivulets. Gain a +4 profane bonus on saving throws against pain effects. |
+| Raw feasts and song | LE | Filet a slab of raw meat and then eat the slices one by one, being sure to sing while your mouth is full. Gain a +4 profane bonus on saving throws against disease. |
+| Scented smoke | LE | Light a scented torch and meditate on its smoke. Gain a +4 profane bonus on saves against fire effects. |
+| Stillness and whispered sadism | LE | Stay perfectly still while whispering sadistic thoughts aloud. Gain a +4 profane bonus on saving throws against compulsions. |
+| Torn flesh and life force | LE | Study those presently or recently around you and envision using your life force to rip through their pathetic flesh. Gain a +4 profane bonus on saving throws against force effects. |
+| Vows of family vengeance | LE | Speak the names of one or more individuals who have wronged you or your family and describe how you will one day brutally murder them. Gain a +4 profane bonus on saving throws against fear effects. |
+
+### Sahkil Tormentors
+
+| Portfolio | Alignment | Obedience |
+| --- | --- | --- |
+| Avoiding responsibility, shifting earth and violence | CE | In a completely dark space, meditate on how you can shirk your duties to focus on your wants, or how you can intimidate another person to do something for you. Gain a +4 profane bonus on Intimidate checks. |
+| Brutality, torture and wild animals | CE | Rend your flesh, dealing 1d4 points of damage with one of your natural weapons or a knife. Gain a +3 profane bonus to AC against attacks from animals or vermin. |
+| Catastrophic decline, detrimental complacency and monsters | CE | Meditate on the hunting habits of a dangerous animal. The duration of your conjuration spells and spell-like abilities increases by 2 rounds. |
+| Darkness, empty places and pits | CE | Hide an item valuable or sentimental to someone you know. Gain a +4 profane bonus on saving throws against divination effects. |
+| Deadly pranks, stalkers and sudden death | CE | Obsess on revenge against one who wronged you. Gain a +2 profane bonus on Bluff and Stealth checks. |
+| Delusions of authority, doubt and torment | CE | Erase evidence of your deeds or compel a sentient creature to act against its own interests for your benefit. Gain a +2 profane bonus on Will saving throws. |
+| Despair, restless spirits and sadism | CE | Torment or berate another sentient creature to instill a sense of worthlessness. Gain a +4 profane bonus on Intimidate checks. |
+| Domination, hopelessness and mortality | CE | Pray while performing a false divination for a stranger in which you reveal the person’s death. Gain a +1 profane bonus to the DC of your enchantment spells and abilities. |
+| Drought, drowning and stagnation | CE | Dam a small stream or another source of flowing water. Gain a +4 profane bonus on Swim checks. |
+| Emotional manipulation, emptiness and ignorance | CE | Convince someone to perform a humiliating act. Gain a +4 profane bonus on Bluff checks. |
+| Evisceration, fatal falls and genocide | CE | Savagely eviscerate a creature smaller than yourself or throw such a creature from a deadly height. Gain a +1 profane bonus on damage rolls. |
+| Fecundity, overgrown places and psychoactive plants | CE | Ingest a toxic plant or sow the seeds of a dangerous plant somewhere meant to be safe. Gain a +4 profane bonus on Fortitude and Will saving throws against effects from plants or plant creatures. |
+| Isolation, loneliness and lost time | CE | Pray alone for an hour in a hidden place. Gain a +4 profane bonus on Stealth checks. |
