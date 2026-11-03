@@ -81,7 +81,7 @@ Deities are listed by their portfolio rather than by name. Each entry gives the 
 
 1. **Blessing of the Mantis (Sp)**: *disguise self* 3/day, *invisibility* 2/day, or *gaseous form* 1/day
 2. **Walk Unseen (Su)**: Your deity cloaks your steps, ensuring that you can move clandestinely during your hunts. You are constantly under the effects of a *pass without trace* spell, unless you wish to be followed. You also gain a +2 profane bonus on Stealth checks.
-3. **Second Face (Su)**: Your deadly equipment is sacred to you. As long as you carry a *mask of the mantis* (*Pathfinder Campaign Setting: The Inner Sea World Guide* 298) on your person (even if you do so by carrying it in an extradimensional space), you can instantly don it as a free action or as part of an attack of opportunity. While you wear a *mask of the mantis*, you can attempt to demoralize a creature within 30 feet using Intimidate as a swift action. You no longer need to expend charges from a *mask of the mantis* to gain the effect of *deathwatch*, although you must expend charges as normal to use the mask’s other effects.
+3. **Second Face (Su)**: Your deadly equipment is sacred to you. As long as you carry a *mask of the mantis* on your person (even if you do so by carrying it in an extradimensional space), you can instantly don it as a free action or as part of an attack of opportunity. While you wear a *mask of the mantis*, you can attempt to demoralize a creature within 30 feet using Intimidate as a swift action. You no longer need to expend charges from a *mask of the mantis* to gain the effect of *deathwatch*, although you must expend charges as normal to use the mask’s other effects.
 
 ### Exalted Boons
 
