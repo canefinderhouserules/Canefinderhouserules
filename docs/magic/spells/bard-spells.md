@@ -55,6 +55,7 @@
 - **[Cure Light Wounds](cure-light-wounds.md)**: Cures 1d8 damage + 1/level (max +5).
 - **[Dancing Darkness](dancing-darkness.md)**: up to four spheres of moving darkness
 - **[Darting Duplicate](darting-duplicate.md)**: Illusory duplicate baits attacks of opportunity.
+- **[Dazzling Blade](dazzling-blade.md)**: A shining weapon helps feints and disarms, and can burst to blind a foe.
 - **[Deadeye’s Lore](deadeyes-lore.md)**: Gain a +4 bonus on Survival and move full speed while tracking.
 - **[Decrepit Disguise](decrepit-disguise.md)**: Make an object seem worthless.
 - **[Deja Vu](deja-vu.md)**: Make a creature repeat its actions.
@@ -546,6 +547,7 @@
 - **[Sleepwalking Suggestion](sleepwalking-suggestion.md)**: Cause a creature to perform a suggested action while asleep.
 - **[Speak with Plants](speak-with-plants.md)**: You can talk to plants and plant creatures.
 - **[Spellfire Jinx](spellfire-jinx.md)**: Cursed caster burns and may lose spells.
+- **[Summon Accuser](summon-accuser.md)**: Summons an accuser devil to spy for you.
 - **[Summon Monster IV](summon-monster-iv.md)**: Summons extraplanar creature to fight for you.
 - **[Summon Ship](summon-ship.md)**: conjure a ship
 - **[Tough Crowd](tough-crowd.md)**: Allies resist the next enchantment or illusion and manipulation.
@@ -606,6 +608,7 @@
 - **[Song of Discord](song-of-discord.md)**: Forces targets to attack each other.
 - **[Soulswitch](soulswitch.md)**: Swap souls with your familiar.
 - **[Suggestion, Mass](suggestion-mass.md)**: As *suggestion,* affects subject/level.
+- **[Summon Infernal Host](summon-infernal-host.md)**: Summons 1d4+1 lesser host devils or 1 greater host devil.
 - **[Summon Monster V](summon-monster-v.md)**: Summons extraplanar creature to fight for you.
 - **[Toast to Freedom](toast-to-freedom.md)**: Teleport a creature 15 feet, freeing it from bonds.
 - **[Unshakable Zeal](unshakable-zeal.md)**: Grant benefits on future attempts after failed checks, and protect against fear and emotion effects.

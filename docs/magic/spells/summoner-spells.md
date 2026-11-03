@@ -167,6 +167,7 @@ New summoner spells from *Ultimate Magic*. Spells from other books will be added
 - **[Shadow Jaunt](shadow-jaunt.md)**: Teleport between shadows, leaving an image behind
 - **[Skeleton Crew](skeleton-crew.md)**: Animates corpses as skeleton sailors.
 - **[Stoneskin, Communal](stoneskin-communal.md)**
+- **[Summon Accuser](summon-accuser.md)**: Summons an accuser devil to spy for you.
 - **[Summon Genie](summon-genie.md)**: Summons a djinni or janni.
 - **[Summon Stampede](summon-stampede.md)**: A conjured herd tramples everything in its straight-line path.
 - **[Summoner Conduit](summoner-conduit.md)**: The target takes damage whenever its summoned creature does.
@@ -205,6 +206,7 @@ New summoner spells from *Ultimate Magic*. Spells from other books will be added
 - **[Secret Workshop](secret-workshop.md)**: As nondetection, but protects many creatures and objects.
 - **[Straitjacket](straitjacket.md)**: Restrain a creature’s arms and grant it a second saving throw against certain magic.
 - **[Summon Genie, Greater](summon-genie-greater.md)**: Summons a shaitan, djinn or janni.
+- **[Summon Infernal Host](summon-infernal-host.md)**: Summons 1d4+1 lesser host devils or 1 greater host devil.
 - **[Tar Pool](tar-pool.md)**: Converts the top layer of the ground into hot tar.
 - **[Unseen Crew](unseen-crew.md)**: Invisible sailors crew a ship.
 - **[Vengeful Stinger](vengeful-stinger.md)**: Stinging tail retaliates against melee attackers.

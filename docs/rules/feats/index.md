@@ -2132,6 +2132,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Focused Worker](focused-worker.md) | — | — |
 | [Follow-Up Strike](follow-up-strike.md) | Combat | Int 13, Combat Expertise, Improved Disarm, Improved Unarmed Strike, base attack bonus +6 or monk level 6th |
 | [Fool Magic](fool-magic.md) | — | Deceitful, Disguise 1 rank, Use Magic Device 1 rank |
+| [Footslasher](footslasher.md) | Combat | — |
 | [Force Shield Mastery](force-shield-mastery.md) | Item Mastery | Use Magic Device 3 ranks, base Fortitude saving throw bonus +3 |
 | [Forceful Channel](forceful-channel.md) | — | Channel negative energy 7d6, worshiper of a deity of magic |
 | [Forceful Charge](forceful-charge.md) | Animal Companion | Improved Bull Rush, Power Attack, animal companion |
@@ -2196,6 +2197,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Greater Planar Mentor](greater-planar-mentor.md) | — | [Improved Planar Mentor](improved-planar-mentor.md), [Planar Mentor](planar-mentor.md), character level 13th |
 | [Greater Ray Shield](greater-ray-shield.md) | Shield Mastery | Dex 17, Missile Shield, Ray Shield, Spellbreaker |
 | [Greater School Familiar](greater-school-familiar.md) | — | School Familiar, wizard level 10th, specialized arcane school class feature |
+| [Greater Serpent Lash](greater-serpent-lash.md) | Combat | Serpent Lash, base attack bonus +4 |
 | [Greater Spelleater](greater-spelleater.md) | — | Cha 13, character level 5th, ghoran, spelleater racial trait |
 | [Greater Stylized Spell](greater-stylized-spell.md) | Metamagic | Stylized Spell, Bluff 10 ranks, Spellcraft 10 ranks |
 | [Greater Subjective Slam](greater-subjective-slam.md) | Combat | Con 15, Wis 15, [Subjective Mobility](subjective-mobility.md), [Subjective Slam](subjective-slam.md), base attack bonus +8 or monk level 7th |
@@ -2346,6 +2348,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Ironbound Master](ironbound-master.md) | — | Cleric level 7th, worshiper of a deity of war |
 | [Ironclad Logic](ironclad-logic.md) | — | Int 19, Diplomacy 3 ranks |
 | [Ironclad Reactions](ironclad-reactions.md) | Armor Mastery | Base attack bonus +6 or fighter level 4th, armor training class feature, proficiency with medium armor |
+| [Jackal Heritage](jackal-heritage.md) | — | Humanoid, must be taken at 1st level |
 | [Jinx Alchemy](jinx-alchemy.md) | General | Swift alchemy class feature, Halfling Jinx racial trait |
 | [Joyless Toil](joyless-toil.md) | Combat | Dex 13, Wis 13, Improved Unarmed Strike, base attack bonus +8 |
 | [Juggle Load](juggle-load.md) | Combat | Ammo Drop, Sleight of Hand 1 rank, proficient with sling |
@@ -2835,6 +2838,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Skyseeker Impact](skyseeker-impact.md) | Combat | Con 13, Skyseeker Style, Skyseeker Thrash, Step Up, base attack bonus +9 |
 | [Skyseeker Style](skyseeker-style.md) | Combat, Style | Step Up, base attack bonus +1 |
 | [Skyseeker Thrash](skyseeker-thrash.md) | Combat | Con 13, Skyseeker Style, Step Up, base attack bonus +4 |
+| [Slaying Sprint](slaying-sprint.md) | — | Dodge, Mobility, Spring Attack, base attack bonus +13 |
 | [Sleeper](sleeper.md) | — | [Warren Digger](warren-digger.md), ghoul |
 | [Sleeper Hold](sleeper-hold.md) | Combat | Greater Grapple, base attack bonus +8 |
 | [Sliding Axe Throw](sliding-axe-throw.md) | Combat | Dex 13, base attack bonus +1 |
@@ -3063,6 +3067,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Titan's Tangle](titans-tangle.md) | Combat | Int 13, Combat Expertise, Improved Trip, Tangled Limbs*, Weapon Focus with the chosen weapon |
 | [To the Last](to-the-last.md) | Combat | Diehard, Endurance, worshiper of a deity of battle |
 | [Tool Optimizer](tool-optimizer.md) | — | Craft (any) 1 rank, Disable Device 1 rank, or Profession (any) 1 rank |
+| [Topple Foe](topple-foe.md) | Combat, Teamwork | Combat Expertise, Improved Trip |
 | [Toppling Bash](toppling-bash.md) | Shield Mastery | Improved Shield Bash, Shield Focus, Stumbling Bash, base attack bonus +11 or fighter level 8th |
 | [Toppling Pileup](toppling-pileup.md) | Combat | Int 13, Combat Expertise, Improved Trip |
 | [Torch Handling](torch-handling.md) | — | Torchbearer |
@@ -3125,6 +3130,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Urban Forager](urban-forager.md) | — | Knowledge (local) 4 ranks, Survival 4 ranks, track class feature |
 | [Urdefhan Bladebreaker](urdefhan-bladebreaker.md) | Combat | Base attack bonus +1, proficiency with the rhoka sword, urdefhan |
 | [Valiant Steed](valiant-steed.md) | — | Animal or magical beast |
+| [Vampiric Animal Companion](vampiric-animal-companion.md) | — | Vampire, Charisma 18, animal companion class ability, sufficiently high level (see below) |
 | [Vampiric Companion](vampiric-companion.md) | — | Dhampir or vampire, nongood alignment, 10th level in a class that grants a familiar or animal companion |
 | [Vandal](vandal.md) | General | Goblin, sneak attack class feature |
 | [Vanguard Hustle](vanguard-hustle.md) | Combat | Dex 13, Bodyguard, Combat Patrol, Combat Reflexes, Mobility, Saving Shield, Vanguard Style, Vanguard Ward, proficiency with light or heavy shields |

@@ -7684,3 +7684,93 @@ When a rift to the Abyss destroyed an entire nation, the faithful of the goddess
 
 **Destruction**: If a *wardstone* misses its yearly maintenance ritual, it becomes vulnerable to damage. At this point, a *wardstone* can be damaged by mortal attacks, but it still has hardness 25 and 500 hit points. If a *wardstone* along a series of linked *wardstones* is destroyed, the resulting “hole” in the path of the *forbiddance* effect can be as narrow as a few dozen feet or as wide as several miles, depending upon numerous other variables (such as the terrain, the strength of the other *wardstones*, and other factors).
 
+## Rivals’ Items
+
+### Bivouac Banners
+
+**Slot** none; **CL** 5th; **Price** 3,200 gp; **Weight** 5 lbs. per banner
+
+**Aura** faint abjuration and conjuration
+
+All three of these banners must be planted in the ground, with no two banners more than 40 feet apart, before they activate. An illusory mastiff manifests once all three banners are planted and walks a triangular circuit from banner to banner, moving at a speed of 30 feet. The illusory hound lasts for as long as the banners remain planted, to a maximum of 8 hours. After 8 hours, the ward ceases to function. The banners cannot be replanted and reactivated for 12 hours.
+
+Anytime a creature of Tiny or larger size crosses into the area delineated by the banners, the mastiff erupts in earsplitting barks. At the same time, the banners summon a riding dog (as per *summon nature’s ally I*). The dog appears adjacent to the square in which the ward was breached; if the ward was breached in multiple areas, the dog appears adjacent to a randomly selected breached square. The dog attacks the nearest intruder immediately.
+
+Any creatures standing within the warded area when the third banner is planted are excluded from the effects of the item, and can freely cross into and out of the area without triggering the mastiff’s attack.
+
+**Construction Requirements:** Craft Wondrous Item, *alarm*, *minor image*, *summon nature's ally I*; **Cost** 1,600 gp
+
+### Cockatrice Grit
+
+**Slot** none; **CL** 11th; **Price** 2,000 gp; **Weight** —
+
+**Aura** moderate transmutation
+
+This magical grit is used by flinging a dose at a creature within 15 feet as a ranged touch attack. If the grit hits, the target takes 1d4 points of Dexterity damage and is slowed (as the spell) for 1 round as its body starts slowly turning to stone. Each round that follows, the victim can attempt a DC 17 Fortitude save at the start of its turn as a free action to end the effect; otherwise, it takes an additional 1d4 points of Dexterity damage and is slowed for 1 more round. This effect can last for a maximum of 11 rounds. If this Dexterity damage ever meets or exceeds the victim’s actual Dexterity score, the creature becomes petrified permanently, as if by *flesh to stone*. A dose of *cockatrice grit* is consumed when it is used, and doesn’t activate until it has been thrown—the grit can be handled safely.
+
+**Construction Requirements:** Craft Wondrous Item, *calcific flesh* or *flesh to stone*; **Cost** 1,000 gp
+
+### Desiccating Dust
+
+**Slot** none; **CL** 5th; **Price** 1,500 gp; **Weight** —
+
+**Aura** moderate necromancy
+
+This yellowish gray powder is composed of grave dirt and ground snakeskin. The user spreads the dust in two 5-foot squares, typically across doorways frequented by the intended victims—this takes 1d4 rounds to accomplish.
+
+A creature stepping into an area warded by *desiccating dust* must make a DC 19 Fortitude save to avoid suddenly becoming horrifically thirsty and wracked with pain, taking 5d6 points of nonlethal damage, and immediately becoming fatigued. The nonlethal damage caused by this effect cannot be healed until the creature can drink some water. A creature that remains in an area warded by *desiccating dust* need not make additional saves to avoid the effect, but if it steps out of the area, it must save again as soon as it reenters the warded area. A creature already taking nonlethal damage or fatigue from *desiccating dust* suffers no additional ill effect from passing through an area protected by this magical dust. Once a dose of *desiccating dust* is applied to an area, that area remains warded by the effect for 24 hours.
+
+**Construction Requirements:** Craft Wondrous Item, *cup of dust*; **Cost** 750 gp
+
+### Firefoot Powder
+
+**Slot** none; **CL** 5th; **Price** 1,000 gp; **Weight** —
+
+**Aura** faint necromancy
+
+This bright red powder contains a mixture of rare herbs and black salt. One dose of *firefoot powder* is enough powder to spread over two 5-foot squares, usually around doorways. The first creature to enter a powdered square must succeed on a DC 14 Fortitude save or immediately become overwhelmed by waves of fiery pain as if its legs and feet were being burned to ashes. The victim takes 1d6 points of nonlethal damage per round for 5 rounds, during which time it is also sickened.
+
+Once a dose of *firefoot powder* is applied to an area, that area remains warded by the effect for 24 hours, or until a creature is affected by the powder, at which point the entire powdered area expends its magic and becomes harmless.
+
+**Construction Requirements:** Craft Wondrous Item, *pain strike*; **Cost** 500 gp
+
+### Marionette Crux
+
+**Slot** none; **CL** 9th; **Price** 36,000 gp; **Weight** 5 lbs.
+
+**Aura** strong enchantment
+
+Short lengths of twine dangle sharp metal needles from each end of this cross-shaped wooden bar. To use a *marionette crux*, the wielder points the item at any humanoid within 25 feet and makes a ranged touch attack as a standard action as the strings suddenly extend out. If the attack hits, the needles pierce the victim’s wrists and ankles, causing the victim to become sickened for 1 round by the momentary flash of pain. In addition, the victim must make a DC 17 Will save to avoid being dominated by the crux, as if via *dominate person*.
+
+The needles immediately retract back to the crux an instant after they strike a foe, but if the victim has been dominated, the crux’s wielder can control its actions. Control lies with the crux, not the person who made the initial attack—passing the crux to another creature allows that creature to take control of the dominated humanoid. If the *crux* is given to the victim, the effect ends. The *crux* must be held in the user’s hand in order for the user to issue a new command to the victim. Otherwise, the domination effect caused by a *marionette crux* lasts for a day, but additional uses of the *crux* can effectively extend the effect over a victim indefinitely. A *marionette crux* can maintain domination over only one creature at a time—if a second humanoid is dominated by the crux, the previously dominated human is released from the effect immediately.
+
+A *marionette crux* can be activated up to two times per day.
+
+**Construction Requirements:** Craft Wondrous Item, *dominate person*; **Cost** 18,000 gp
+
+### Metamagic Gem
+
+**Slot** none; **CL** 11th; **Price** 1,000 gp (Enlarging Amethyst), 1,000 gp (Extending Garnet), 1,000 gp (Silent Spinel), 1,000 gp (Still Amber), 2,000 gp (Empowering Topaz), 4,000 gp (Maximizing Sapphire), 4,000 gp (Widening Emerald), 8,000 gp (Quickening Diamond); **Weight** —
+
+**Aura** strong (no school)
+
+*Metamagic gems* can be used to enhance spells with various metamagic effects, similar to the way *metamagic rods* are used, save that metamagic gems are consumed when they are used. To apply the effects of a *metamagic gem* to a spell, you need only use the metamagic gem as an additional material component for the spell in question.
+
+When you apply a metamagic effect to a spell using a *metamagic gem*, the spell slot of the altered spell does not change. You may only use one metamagic gem on any given spell, and while that spell cannot be further enhanced by a *metamagic rod*, it can be used with spells already enhanced in the normal way via any metamagic feats you possess. In this case, only the feats possessed by you adjust the spell slot of the spell being cast.
+
+Use of a *metamagic gem* does not confer the associated feat on the owner, only the one-time ability to use the given feat. A sorcerer or other spontaneous spellcaster must still take a full-round action when using a *metamagic gem*, just as if using a metamagic feat he possesses (except for *quickening diamonds*, which can be used as a swift action).
+
+The *metamagic gems* presented here are not the only such gems that exist. Other *metamagic gems* based on metamagic feats from other sources could easily be created—their costs should follow the pattern presented here (1,000 gp for gems that alter a spell slot by 1 level, 2,000 gp for those that alter spell slots by 2 levels, and so on), and each new gem should have a corresponding unique gemstone type associated with it.
+
+**Construction Requirements:** Craft Wondrous Item, appropriate metamagic feat; **Cost** 1,000 gp (*empowering topaz*), 500 gp (*enlarging amethyst*), 500 gp (*extending garnet*), 2,000 gp (*maximizing sapphire*), 4,000 gp (*quickening diamond*), 500 gp (*silent spinel*), 500 gp (*still amber*), 2,000 gp (*widening emerald*)
+
+### Pendant of the Blood Scarab
+
+**Slot** neck; **CL** 3rd; **Price** 1,000 gp; **Weight** —
+
+**Aura** faint divination
+
+A carved ruby in the shape of a scarab set in gold, this magic amulet grants its wearer insight on where to strike a creature so as to maximize pain and distress. This pendant must be worn against bare flesh in order to function. Once per day, as an immediate action, when the wearer of a *pendant of the blood scarab* threatens a critical hit with any attack, he may automatically confirm the critical hit. When the user activates this ability, the pendant’s spiky little legs momentarily animate and clutch against the wearer’s skin, dealing 1d6 points of damage as the amulet burrows and digs into the wearer’s body in apparent delight at the devastating blow inflicted on the enemy.
+
+**Construction Requirements:** Craft Wondrous Item, *true strike*; **Cost** 500 gp
+

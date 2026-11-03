@@ -271,6 +271,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Spore Burst](spore-burst.md)**: A plant creature can burst spores that sicken nearby creatures.
 - **[Squeeze](squeeze.md)**: School transmutation (polymorph); Level alchemist 2, sorcerer/wizard 2, witch 2 Casting Time 1 standard.
 - **[Stabilize Powder](stabilize-powder.md)**: Ammunition in the targeted firearm is less likely to misfire.
+- **[Staggering Fall](staggering-fall.md)**: A falling creature takes extra damage and may be staggered.
 - **[Stalwart Resolve](stalwart-resolve.md)**: Ignore ability damage to one score.
 - **[Steal Breath](steal-breath.md)**: You pull the breath from a creature’s lungs, dealing damage and leaving it unable to speak, use breath.
 - **[Steal Size](steal-size.md)**: Shrinks a larger target and enlarges you.
@@ -553,6 +554,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Skeleton Crew](skeleton-crew.md)**: Animates corpses as skeleton sailors.
 - **[Soul Vault](soul-vault.md)**: Protect a soul from being trapped
 - **[Speak with Plane](speak-with-plane.md)**: Question a sentient plane.
+- **[Summon Accuser](summon-accuser.md)**: Summons an accuser devil to spy for you.
 - **[Summon Genie, Lesser](summon-genie-lesser.md)**: Summons a janni.
 - **[Symbol of Healing](symbol-of-healing.md)**: Triggered rune heals living creatures.
 - **[Symbol of Revelation](symbol-of-revelation.md)**: Triggered symbol reveals illusions.
@@ -645,6 +647,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Steal Years, Greater](steal-years-greater.md)**: steal years with a longer duration and more years
 - **[Strip Scales](strip-scales.md)**: Reduce a creature's racial natural armor.
 - **[Summon Genie](summon-genie.md)**: Summons a djinni or janni.
+- **[Summon Infernal Host](summon-infernal-host.md)**: Summons 1d4+1 lesser host devils or 1 greater host devil.
 - **[Summoner Conduit](summoner-conduit.md)**: The target takes damage whenever its summoned creature does.
 - **[Sun’s Disdain, Mass](suns-disdain-mass.md)**: As *sun’s disdain*, on multiple creatures.
 - **[Surface Excursion](surface-excursion.md)**: Teleport to the surface directly above you, with a beacon to return.

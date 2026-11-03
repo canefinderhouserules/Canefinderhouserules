@@ -298,6 +298,7 @@
 - **[Spiral Descent](spiral-descent.md)**: Teleport downward as a helical beam
 - **[Spiritual Squire](spiritual-squire.md)**: A force servant helps carry, aid, and armor allies.
 - **[Spiritual Weapon](spiritual-weapon.md)**: Magic weapon attacks on its own.
+- **[Staggering Fall](staggering-fall.md)**: A falling creature takes extra damage and may be staggered.
 - **[Stalwart Resolve](stalwart-resolve.md)**: Ignore ability damage to one score.
 - **[Status](status.md)**: Monitors condition, position of allies.
 - **[Stave Off Corruption](stave-off-corruption.md)**: Protect against a corruption’s progression.
@@ -574,6 +575,7 @@
 - **[Speak with Plane](speak-with-plane.md)**: Question a sentient plane.
 - **[Spell Immunity](spell-immunity.md)**: Subject is immune to one spell per 4 levels.
 - **[Spindrift Spritz, Mass](spindrift-spritz-mass.md)**: As spindrift spritz, affecting multiple creatures.
+- **[Summon Accuser](summon-accuser.md)**: Summons an accuser devil to spy for you.
 - **[Summon Genie, Lesser](summon-genie-lesser.md)**: Summons a janni.
 - **[Summon Monster IV](summon-monster-iv.md)**: Summons extraplanar creature to fight for you.
 - **[Summon Ship](summon-ship.md)**: conjure a ship
@@ -674,6 +676,7 @@
 - **[Sphere of Warding](sphere-of-warding.md)**: Sphere ejects possessors and harms incorporeal creatures
 - **[Steal Years, Greater](steal-years-greater.md)**: steal years with a longer duration and more years
 - **[Summon Genie](summon-genie.md)**: Summons a djinni or janni.
+- **[Summon Infernal Host](summon-infernal-host.md)**: Summons 1d4+1 lesser host devils or 1 greater host devil.
 - **[Summon Monster V](summon-monster-v.md)**: Summons extraplanar creature to fight for you.
 - **[Sun’s Disdain, Mass](suns-disdain-mass.md)**: As *sun’s disdain*, on multiple creatures.
 - **[Symbol of Pain](symbol-of-pain.md)**: Triggered rune wracks nearby creatures with pain.

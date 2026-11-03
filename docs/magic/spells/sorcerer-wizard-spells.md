@@ -86,6 +86,7 @@
 - **[Damp Powder](damp-powder.md)**: Ruins ammunition loaded in the targeted firearm.
 - **[Dancing Darkness](dancing-darkness.md)**: up to four spheres of moving darkness
 - **[Darting Duplicate](darting-duplicate.md)**: Illusory duplicate baits attacks of opportunity.
+- **[Dazzling Blade](dazzling-blade.md)**: A shining weapon helps feints and disarms, and can burst to blind a foe.
 - **[Decrepit Disguise](decrepit-disguise.md)**: Make an object seem worthless.
 - **[Deja Vu](deja-vu.md)**: Make a creature repeat its actions.
 - **[Depilate](depilate.md)**: cause hair or fur to fall out, penalizing social checks
@@ -436,6 +437,7 @@
 - **[Spontaneous Immolation](spontaneous-immolation.md)**: Target takes 3d6 points of fire damage and catches on fire.
 - **[Squeeze](squeeze.md)**: School transmutation (polymorph); Level alchemist 2, sorcerer/wizard 2, witch 2 Casting Time 1 standard.
 - **[Stabilize Powder](stabilize-powder.md)**: Ammunition in the targeted firearm is less likely to misfire.
+- **[Staggering Fall](staggering-fall.md)**: A falling creature takes extra damage and may be staggered.
 - **[Steal Breath](steal-breath.md)**: You pull the breath from a creature’s lungs, dealing damage and leaving it unable to speak, use breath.
 - **[Steal Size](steal-size.md)**: Shrinks a larger target and enlarges you.
 - **[Stone Throwing](stone-throwing.md)**: Subject can throw and catch rocks.
@@ -576,6 +578,7 @@
 - **[Control Vermin](control-vermin.md)**: Control vermin as if they were animals
 - **[Dark-Light](dark-light.md)**: Blind or dazzle creatures that lack light sensitivity.
 - **[Darkvision, Communal](darkvision-communal.md)**: As darkvision, but you may divide the duration among creatures touched.
+- **[Dazzling Blade, Mass](dazzling-blade-mass.md)**: As *dazzling blade*, on one metal weapon/level.
 - **[Debasing Touch](debasing-touch.md)**: Target's touch turns coins to copper.
 - **[Deflect Blame](deflect-blame.md)**: Blame someone else for your action.
 - **[Deft Digits](deft-digits.md)**: Animate a glove to manipulate objects at a distance.
@@ -703,6 +706,7 @@
 - **[Shaper’s Touch](shapers-touch.md)**: Reshape an object as though it were clay.
 - **[Share Language, Communal](share-language-communal.md)**: As share language, but you may divide the duration among creatures touched.
 - **[Shared Training](shared-training.md)**: grant a teamwork feat to allies
+- **[Sheet Lightning](sheet-lightning.md)**: A flash of electricity dazes or dazzles creatures in a 20-foot spread.
 - **[Shifting Shadows](shifting-shadows.md)**: Shadows make flanking and attacks of opportunity unreliable.
 - **[Shining Scales](shining-scales.md)**: Silver scales grant +5 armor and punish evil creatures caught in your breath.
 - **[Shroud of Innocuity](shroud-of-innocuity.md)**: Targets appear as ordinary locals to every viewer.
@@ -952,6 +956,7 @@
 - **[Minor Creation](minor-creation.md)**: Creates one cloth or wood object.
 - **[Secure Shelter](secure-shelter.md)**: Creates sturdy cottage.
 - **[Solid Fog](solid-fog.md)**: Blocks vision and slows movement.
+- **[Summon Accuser](summon-accuser.md)**: Summons an accuser devil to spy for you.
 - **[Summon Genie, Lesser](summon-genie-lesser.md)**: Summons a janni.
 - **[Summon Monster IV](summon-monster-iv.md)**: Summons extraplanar creature to fight for you.
 
@@ -1157,6 +1162,7 @@
 - **[Straitjacket](straitjacket.md)**: Restrain a creature’s arms and grant it a second saving throw against certain magic.
 - **[Strip Scales](strip-scales.md)**: Reduce a creature's racial natural armor.
 - **[Summon Genie](summon-genie.md)**: Summons a djinni or janni.
+- **[Summon Infernal Host](summon-infernal-host.md)**: Summons 1d4+1 lesser host devils or 1 greater host devil.
 - **[Summon Monster V](summon-monster-v.md)**: Summons extraplanar creature to fight for you.
 - **[Summoner Conduit](summoner-conduit.md)**: The target takes damage whenever its summoned creature does.
 - **[Sun’s Disdain, Mass](suns-disdain-mass.md)**: As *sun’s disdain*, on multiple creatures.
@@ -1615,6 +1621,7 @@
 - **[Bilocation](bilocation.md)**: Exist in two places at once.
 - **[Canopic Conversion](canopic-conversion.md)**: Eviscerates a humanoid; if it dies, it rises as a mummy bound to canopic jars.
 - **[Curse of Fell Seasons](curse-of-fell-seasons.md)**: Curse an area’s weather.
+- **[Excellent Enclosure](excellent-enclosure.md)**: A sphere of force around you holds an *antimagic field*.
 - **[Fey Form IV](fey-form-iv.md)**: Assume the form of a powerful fey creature.
 - **[Freedom](freedom.md)**: Releases creature from *imprisonment.*
 - **[Heroic Invocation](heroic-invocation.md)**: Grants a number of creatures bonuses on attacks and damage, temporary hit points, and immunity to fear and charm effects.

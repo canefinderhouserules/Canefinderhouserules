@@ -3071,3 +3071,107 @@ The faithful of a self-proclaimed living god utilize a number of tools to help t
 **Effects** 1 hour; +1 alchemical bonus to Constitution, –2 penalty on Wisdom-based skill checks
 
 **Damage** 1d2 Con damage
+
+## Rivals’ Gear
+
+### Blood Sap
+
+**Type** ingested; **Addiction** moderate, Fortitude DC 20
+
+**Price** 150 gp
+
+**Effect** 30 minutes; +1d4 Str and +1d3 Dex, then slowed (as per the spell *slow*) for 3 hours
+
+**Damage** 1d4 Con
+
+Blood sap is distilled from the crimson sap exuded by a pale green vine native to southern jungle swamplands. Users of this deep red syrup justify the negative effects of the drug with their increased agility and strength. Blood sap addicts often display vividly red lips and teeth.
+
+### Dreamtime Tea
+
+**Type** ingested; **Addiction** moderate, Fortitude DC 20
+
+**Price** 120 gp
+
+**Effect** 2d12 minutes; unconscious, gain vivid dreams acting as the *augury* spell, but with only a 60% chance of receiving a meaningful reply
+
+**Damage** 1d3 Wis
+
+This tea carries a complex aroma combining the unlikely mix of citrus and dung. Originally developed in a distant eastern land from a mix of rare herbs and flowers, dreamtime tea is gaining popularity in many cities, particularly among those who seek dreams as an escape from reality.
+
+### Harlot Sweets
+
+**Type** ingested; **Addiction** moderate, Fortitude DC 18
+
+**Price** 60 gp
+
+**Effect** 1 hour; +1d4 Cha and +1 Dex
+
+**Damage** 1d2 Int damage
+
+These amber-colored lozenges instill within the user a slightly increased agility and enhance both physical beauty and speech. So named for the fact that prostitutes often abuse the drug, harlot sweets are gaining popularity among certain circles in the aristocracy as well.
+
+### Slaver’s Drops
+
+**Type** ingested; **Addiction** minor, Fortitude DC 13
+
+**Price** 20 gp
+
+**Effect** 3 hours; –3 on Will saves, +3 on Perception checks
+
+**Damage** 1d2 Str damage
+
+Dropped into the eyes, this clear liquid awakens the senses but makes the user mentally pliant and open to suggestion. This drug is often used during interrogations or by slavers who seek to force compliance via enchantment effects or similar methods of mind-control.
+
+### Cockatrice Spit
+
+**Price** 1,000 gp; **Weight** —
+
+**Type** poison, contact, injury, ingested; **Save** Fortitude DC 12
+
+**Frequency** 1/round for 4 rounds
+
+**Effect** 1d2 Dex damage (a creature who takes Dexterity damage equal to its Dexterity score from this poison becomes petrified; each day, a petrified victim can attempt a new DC 12 Fortitude save to recover from the venom and become unpetrified with an amount of Dexterity damage equal to 1 point less than its Dexterity score)
+
+**Cure** 1 save
+
+### Fiddleback Venom
+
+**Price** 500 gp; **Weight** —
+
+**Type** poison, injury, ingested; **Save** Fortitude DC 13
+
+**Onset** 1 minute; **Frequency** 1/minute for 6 minutes
+
+**Initial Effect** nauseated 1d4 rounds; **Secondary Effect** 1d3 Str damage and 1d4 Con damage
+
+**Cure** 2 saves
+
+### Hag Spit
+
+**Price** 1,500 gp; **Weight** —
+
+**Type** poison, injury, ingested; **Save** Fortitude DC 16
+
+**Frequency** 1/round for 6 rounds
+
+**Initial Effect** blindness for 1d10 rounds; **Secondary Effect** 1d4 Wis damage
+
+**Cure** 2 saves
+
+### Rainbow Jellyfish Toxin
+
+**Price** 400 gp; **Weight** —
+
+**Type** poison, contact, injury; **Save** Fortitude DC 14
+
+**Frequency** 1/round for 2 rounds
+
+**Initial Effect** staggered for 1d6 rounds; **Secondary Effect** paralyzed for 1d6 minutes
+
+**Cure** 1 save
+
+### Blackfingers Paste
+
+**Price** 50 gp; **Weight** —
+
+Developed by followers of the god of secrets and murder, this inky paste aids unskilled poison-users. When smeared on the fingers, a dose of blackfingers paste prevents accidental poisoning while applying poison to a weapon, as if the user possessed the poison use ability. A single dose of blackfingers paste lasts for 1d6 hours, but the black stains the stuff creates on the user’s fingers lasts for days. A single dose of this alchemical item costs 50 gp.
