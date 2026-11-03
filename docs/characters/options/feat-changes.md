@@ -85,7 +85,7 @@
 
 ## Obedience
 
-[Deific](../../rules/feats/deific-obedience.md), [demonic](../../rules/feats/demonic-obedience.md) or any other Obedience feat now grants its boons at levels 6, 10 and 14 (see [Deific Obediences](deific-obediences.md), [Celestial Obediences](celestial-obediences.md) and [Demonic Obediences](demonic-obediences.md)). All of them work as one feat: you simply choose which of your patron’s boon lists you want (Exalted, Sentinel, Evangelist, Demoniac, Mystery Cultist or any other it offers), but the decision is absolute: once made, it cannot be changed.
+[Deific](../../rules/feats/deific-obedience.md), [demonic](../../rules/feats/demonic-obedience.md), [fiendish](../../rules/feats/fiendish-obedience.md) or any other Obedience feat now grants its boons at levels 6, 10 and 14 (see [Deific Obediences](deific-obediences.md), [Celestial Obediences](celestial-obediences.md), [Demonic Obediences](demonic-obediences.md) and [Fiendish Obediences](fiendish-obediences.md)). All of them work as one feat: you simply choose which of your patron’s boon lists you want (Exalted, Sentinel, Evangelist, Demoniac, Mystery Cultist or any other it offers), but the decision is absolute: once made, it cannot be changed.
 
 ## Eclectic Training
 

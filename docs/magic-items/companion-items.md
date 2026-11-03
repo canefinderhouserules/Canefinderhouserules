@@ -7172,7 +7172,7 @@ The true power of a *grudge blade* reveals itself against an opponent you have a
 
 Bestowed as rewards for unwavering loyalty to infernal knight commanders of great renown, these filigreed *+2 greatswords* pulse with a sickening carmine light in rhythm with the heartbeats of their bearers. Prized trophies, these weapons are brandished eagerly by staunch champions of the infernal empire.
 
-Once per day as a standard action, you may strike the blade against the ground to create a one-way rift from Phlegethon (the fieriest layer of Hell) centered where the sword hits. The rift spews magical flames upward in a 10-foot-radius, 40-foot-high cylinder. All creatures in this area (including you) take 9d6 points of damage (Reflex half DC 17). Half the damage is fire, but the other half results directly from divine power and is therefore not subject to fire resistance or immunity.
+Once per day as a standard action, you may strike the blade against the ground to create a one-way rift from the fieriest layer of Hell centered where the sword hits. The rift spews magical flames upward in a 10-foot-radius, 40-foot-high cylinder. All creatures in this area (including you) take 9d6 points of damage (Reflex half DC 17). Half the damage is fire, but the other half results directly from divine power and is therefore not subject to fire resistance or immunity.
 
 **Construction Requirements:** Craft Magic Arms and Armor, *flame strike*, caster level 6th; **Cost** 10,350 gp
 

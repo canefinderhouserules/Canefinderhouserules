@@ -2071,6 +2071,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Fey Spell Versatility](fey-spell-versatility.md) | — | Cha 13, Spellcraft 1 rank, ability to cast ranger spells |
 | [Fiendish Darkness](fiendish-darkness.md) | — | *Darkness* spell-like ability, tiefling |
 | [Fiendish Facade](fiendish-facade.md) | — | Must be taken at 1st level, tiefling |
+| [Fiendish Obedience](fiendish-obedience.md) | — | Knowledge (religion) 3 ranks; must worship a fiendish deity, demigod, or quasi deity |
 | [Fiendish Resilience](fiendish-resilience.md) | — | Dex 13, evasion class feature, tiefling |
 | [Fiendskin](fiendskin.md) | Damnation | Patronage of an evil outsider |
 | [Fighting Frenzy](fighting-frenzy.md) | Combat, Teamwork | Cha 13, rage class feature |
