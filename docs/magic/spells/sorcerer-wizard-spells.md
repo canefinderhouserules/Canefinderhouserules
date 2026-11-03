@@ -561,6 +561,7 @@
 - **[Aura of Cannibalism](aura-of-cannibalism.md)**: Drain life from creatures of your own kind
 - **[Aversion](aversion.md)**: Cause the target to avoid an object or location.
 - **[Babble](babble.md)**: Target becomes nauseated and nearby creatures become fascinated.
+- **[Battering Blast](battering-blast.md)**: A ball of force damages and bull rushes one target or object.
 - **[Blade Snare](blade-snare.md)**: Snare a weapon or limb that strikes you.
 - **[Blast Barrier](blast-barrier.md)**: Unstable wall that explodes for damage.
 - **[Bleed for Your Master](bleed-for-your-master.md)**: Compel a companion to take damage for you.
@@ -660,6 +661,7 @@
 - **[Matchmaker](matchmaker.md)**: Cause two creatures to fall in love.
 - **[Minor Dream](minor-dream.md)**: School illusion (figment) [mind-affecting]; Level alchemist 2, bard 3, sorcerer/wizard 3, witch 2 Casting.
 - **[Minor Reversion](minor-reversion.md)**: Absorb strength from an imperfect replica to heal.
+- **[Mirror Sight](mirror-sight.md)**: See through another mirror, or the reflection of a known person or place.
 - **[Monstrous Extremities](monstrous-extremities.md)**: Change limbs into tentacles, hooves, or wings.
 - **[Motes of Dusk and Dawn](motes-of-dusk-and-dawn.md)**: up to four motes that shed light or darkness
 - **[Necromantic Burden](necromantic-burden.md)**: Make undead harder to control
@@ -1349,6 +1351,7 @@
 - **[Transfiguring Touch](transfiguring-touch.md)**: Convert an object into iron, paper, or wood.
 - **[Treacherous Teleport](treacherous-teleport.md)**: As *teleport*, except you choose some creatures to suffer a mishap or go elsewhere.
 - **[Triggered Hallucination](triggered-hallucination.md)**: As *scripted hallucination*, but it only appears when triggered.
+- **[Undeath Ward](undeath-ward.md)**: A silver barrier keeps out undead with fewer Hit Dice than your caster level.
 - **[Violent Misfire, Mass](violent-misfire-mass.md)**: As violent misfire, on many firearms.
 - **[Wall of Iron](wall-of-iron.md)**: 30 hp/four levels; can topple onto foes.
 

@@ -1,0 +1,9 @@
+# Indomitable Mount
+
+*(Combat)*
+
+Your skill at riding helps your mount avoid attacks.
+
+**Prerequisites**: Mounted Combat, Handle Animal 5 ranks, Ride 5 ranks, trained by a crusader order.
+
+**Benefit**: Once per round when your mount must make a saving throw, you can make a Ride check as an immediate action. Your mount makes its save if your Ride check result is greater than the DC of the opponent’s attack.

@@ -8308,3 +8308,201 @@ Under tutelage from forest sprites, a wise-woman of the wilds developed this pot
 
 **Construction Requirements:** Craft Wondrous Item, *reincarnate*; **Cost** 800 gp
 
+## Mystery Monster Items
+
+### Chupar Pick
+
+**Slot** none; **CL** 7th; **Price** 24,304 gp; **Weight** 3 lbs.
+
+**Aura** moderate evocation and transmutation
+
+A curved yellow fang juts from the wooden haft of this light pick in place of a metal tip. Though the fang seems fragile, the enchantments on the weapon render it as hard as steel, and the fang evokes some of the powers of the beast from which it came. A *chupar pick* functions as a *+1 light pick of wounding*. When the *chupar pick* scores a critical hit, its wielder is affected by a *haste* effect for 7 rounds as if targeted by a *haste* spell. Subsequent critical hits made while the wielder is affected extend the duration of the *haste* effect but have no additional effect.
+
+**Construction Requirements:** Craft Magic Arms and Armor, *bleed*, *haste*, one chupacabra fang; **Cost** 12,304 gp
+
+### Leng Tea
+
+**Slot** none; **CL** 9th; **Price** 2,250 gp; **Weight** —
+
+**Aura** moderate illusion (phantasm)
+
+By imbibing this potent concoction, a creature gains the ability to see as well as walk through the mysterious mountaintop portals that lead to the nightmare dimension of Leng. This effect lasts for 1d6 hours, during which time the drinker experiences phantasmagoric hallucinations in addition to the very real effect of seeing Leng’s secret doorways. While in Leng, a creature under the effects of *Leng tea* can see the portal back to the Material Plane on the other side. As soon as the tea’s effects end, the creature loses the ability to see gateways into or out of Leng, regardless of where the creature is. In addition, a creature coming down from the effects of *Leng tea* takes 1d4 points of Dexterity damage and is fatigued.
+
+**Construction Requirements:** Craft Wondrous Item, *dream*; **Cost** 1,125 gp
+
+### Mokele-Mbembe Tail Whip
+
+**Slot** none; **CL** 9th; **Price** 32,301 gp; **Weight** 2 lbs.
+
+**Aura** moderate evocation
+
+This item is crafted from tightly braided rawhide from a water buffalo skin, and is usually awarded to a prominent member of a tribe. The *mokele-mbembe tail whip* functions as a *+2 whip*, but deals an additional 1d6 points of sonic damage on a successful hit. In addition, anyone hit by a critical hit with the whip must succeed at a DC 21 Fortitude save or be stunned for 1 round. A successful critical hit with the whip does not multiply the weapon’s sonic damage.
+
+**Construction Requirements:** Craft Magic Arms and Armor, *shout*; **Cost** 16,301 gp
+
+### Mothman Memento
+
+**Slot** neck; **CL** 12th; **Price** 28,800 gp; **Weight** —
+
+**Aura** strong enchantment, illusion, and necromancy
+
+Mothmen sometimes create these tokens when they know their powers won’t be needed for a long period of time or they are close to death and wish to preserve their legacies. A *mothman memento* can be any item that is worn around the neck, such as an amulet or pendant. As a full-round action while wearing a *mothman memento*, a mothman can simultaneously kill itself and inject its soul into the item.
+
+A *mothman memento* can lie untouched for years or even decades before it winds up in the hands of another creature. Any humanoid or monstrous humanoid that wears the memento gains the ability to cast *modify memory* as a spell-like ability three times per day (caster level 12th). If a creature goes to sleep or falls unconscious while wearing a *mothman memento*, the wearer must succeed at a DC 19 Will save or be affected as though by a *nightmare* spell (no modifiers due to knowledge or physical connection; caster level 12th). A creature can be affected by this *nightmare* effect only once every 24 hours. After the first time the wearer is affected by the nightmare effect, the memento can only be removed by means of a *remove curse* spell. A creature that dies from the *nightmare* effect rises as a mothman the next morning.
+
+**Construction Requirements:** Craft Wondrous Item, *modify memory*, *nightmare*, *soul bind*; **Cost** 14,400 gp
+
+### Sasquatch Skull
+
+**Slot** none; **CL** 7th; **Price** —; **Weight** 5 lbs.
+
+**Aura** moderate transmutation
+
+Divination reveals this large humanoid skull to be that of a gorilla or giant, although it is actually an accursed *sasquatch skull*. The item seems to grant its bearer a +5 bonus on Stealth checks in wooded areas. If an individual takes possession of the *sasquatch skull* for more than 24 hours, it quickly begins to stink. The smell is undetectable by the skull’s bearer, but companions and creatures within 30 feet find the pungent smell extremely noticeable. The smell imposes a –2 penalty on Charisma checks and Charisma-based skill checks made by the skull’s owner. In addition, aggressive wild animals always target the skull’s owner first during combat. The skull need not be on the owner’s person for the curse to manifest, so long as ownership has not been transferred through sale, gift, or theft.
+
+**Construction Requirements:** *darkskull*; **Cost** —
+
+### Serpentseeker Bow
+
+**Slot** none; **CL** 7th; **Price** 15,330 gp; **Weight** 2 lbs.
+
+**Aura** moderate conjuration and divination
+
+This *+1 shortbow *is crafted from one of the long spines that bristle along the body of a sea serpent. When used against a magical beast with the aquatic subtype, a* serpentseeker bow *gains the benefit of the* bane *weapon special ability. If such a creature is hit by an arrow fired from this weapon, anyone who touches the bow senses the location of that creature as though by* locate creature* as long as the arrow remains imbedded in the creature. If the creature is protected by *nondetection* or a similar effect, anyone holding the bow gains a +10 competence bonus on the caster level check to overcome it, but a failed check means the arrow’s magic burns out. The locating magic on an arrow fired from this bow automatically ends after 1d6 days.
+
+**Construction Requirements:** Craft Magic Arms and Armor, *locate creature*, *summon monster I*; **Cost** 7,830 gp
+
+### Vitreous Goggles
+
+**Slot** eyes; **CL** 7th; **Price** 11,200 gp; **Weight** —
+
+**Aura** moderate divination and evocation
+
+This pair of clear crystal lenses allows the wearer to see the indistinct shapes of living creatures moving below the surface of the earth. The wearer can see any Medium or larger creatures within 60 feet as long as they are moving underground. The wearer must have seen the creature aboveground within the past minute while wearing the goggles to gain this benefit. Each subsequent round after the first that the goggles are worn, the wearer has a cumulative 5% chance of immediately going blind for 1d4 rounds. Once the goggles are removed, the wearer’s eyes need 1 hour to adjust before he or she can wear the goggles again.
+
+**Construction Requirements:** Craft Wondrous Item, *faerie fire*, *locate creature*; **Cost** 5,600 gp
+
+## Dungeon Items
+
+### Deadflesh Waraxe
+
+**Slot** none; **CL** 12th; **Price** —; **Weight** 8 lbs.
+
+**Aura** strong conjuration and transmutation
+
+These *+1 mithral ghost touch undead bane dwarven waraxes* were crafted hurriedly to combat the rising undead threat, but the rush to craft these weapons and cut corners in their creation resulted in a dangerous flaw—whenever an undead creature is slain with a *deadflesh waraxe*, the axe allows a portion of the destroyed undead’s necromantic energy to flow through the axe and into the wielder’s body, causing the wielder to become shaken for 1 minute if he fails a DC 15 Will save. These effects stack with each other—the second time the victim succumbs, he becomes frightened. The third time, he is panicked and drops the *deadflesh waraxe* in his attempt to flee. This is a mind-affecting fear effect. This flaw is relatively subtle—in order to notice it when identifying the item, the examiner must exceed the DC 27 Spellcraft check by 10 points or more. In the hands of a soldier ready to deal with this imperfection, a deadflesh waraxe can be a powerful tool against the undead, but many of its dwarven wielders weren’t made aware of the flaw until it was too late.
+
+**Construction Requirements:** *+1 mithral ghost touch undead bane dwarven waraxe*; **Cost** —
+
+### Dwarfbane Ruin
+
+**Slot** none; **CL** 15th; **Price** 91,712 gp; **Weight** 5 lbs.
+
+**Aura** strong evocation
+
+**Alignment** lawful evil; **Ego** 13 (17 with restored wisdom)
+
+**Senses** 60 ft., darkvision 60 ft.
+
+**Int** 12, **Wis** 5 (originally 14), **Cha** 16
+
+**Communication** speech (Dwarven, Undercommon)
+
+**Powers** Knowledge (dungeoneering) +14 (10 ranks), *dispel magic* 1/day, *invisibility purge* 1/day
+
+**Special Purpose** defeat dwarves (the *dwarfbane ruin* can detect dwarves within 60 ft., and can cast *earthquake* once per day in any area that includes structures built by dwarves)
+
+The *dwarfbane ruin* is an intelligent *+2 dwarf bane warhammer*. It has spent the past several generations in the possession of the same enemies it was once crafted to defeat. In that time, the weapon has gone somewhat insane, warped to thirst for the death of non-duergar dwarves and eager to please a line of duergar rulers. Restoring it to its original purpose is possible only by seeking out a living descendant of its dwarven maker and securing an *atonement* spell from that dwarf to absolve the magic warhammer of its madness. Doing so re-aligns its special purpose to oppose duergar, changes its alignment to lawful good, and raises its Wisdom score up to 14.
+
+**Destruction**: 
+
+### Raven Bracers
+
+**Slot** hands; **CL** 9th; **Price** 16,600 gp; **Weight** 4 lbs.
+
+**Aura** moderate divination and transmutation
+
+This pair of magnificent dark metal bracers is forged to depict the shape of a raven stretched over the wearer’s forearm. Once prized by a lost dwarven king, several additional *raven bracers* were created to aid the king’s bodyguards in defending him and maintaining communications.
+
+While worn, these bracers can be used as a swift action to grant the *throwing* and *returning* magic weapon qualities to any held melee weapon; these qualities persist for 1 round. This ability can be used three times a day.
+
+In addition, the bracers may be removed and tossed into the air as a standard action, where they transform into a pair of identical black metallic ravens similar to *silver raven figurines of wondrous power*. Like those items, these ravens obey the wearer, and may each bear a message as if affected by the *animal messenger* spell. The ravens can only take this shape once per week, retaining the form continuously for up to 24 hours.
+
+Once both of these ravens have delivered their messages (or once the 24-hour limit is reached), they both vanish in a cloud of smoke and return unerringly to the owner’s hands via teleportation. If the item’s owner is no longer on the same plane as the bracers when this event occurs, they merely revert to bracer form and fall to the ground, awaiting a new owner to find and claim them for their own use.
+
+**Construction Requirements:** Craft Wondrous Item, *animal messenger*, *animate object*, *teleport object*, *telekinesis*; **Cost** 8,300 gp
+
+### Gem of Dreams (Artifact)
+
+**Slot** none; **CL** 20th; **Price** —; **Weight** 2 lbs.
+
+**Aura** strong necromancy
+
+No record of where its first owner found this potent artifact exists, although many believe she discovered it while exploring a remote corner of the nightmare realm of Leng. The *Gem of Dreams* can be used once per month to absorb the dreaming mind of any sleeping creature it is in contact with—this ability must be activated as a full-round action. The sleeping creature can resist this doom by making a DC 20 Will save—with a success, he is afflicted by a *nightmare* spell (CL 20th) but is otherwise unharmed. If he fails the save, his dreaming mind is stolen, warped, and then siphoned back into his body in the space of an hour. If the victim is awakened before this process completes, his body twists and transforms into a creature known as a dream eater, at which point only *wish* or *miracle* (or the destruction of the *Gem of Dreams*) can restore him to his true form. At the point the transformation occurs, the creature that activated the gem’s power ceases to age for a month. By using the gem every month (and creating more and more dream eaters), a person can effectively become immortal in this manner. While this is technically nothing more than a beneficial side effect, it is this power that has generated the majority of the gem’s legendary fame.
+
+**Destruction**: The gem must absorb the dreams of a slumbering spawn of the god of wrath and destruction, whereupon it shatters into dust and releases a particularly powerful animate dream; the power of this animate dream is left to you, but it should be advanced in Hit Dice to a point where its CR is equal to 3 points above the party’s average level. Needless to say, the animate dream immediately attacks—if not slain, it reforms as a new *Gem of Dreams* after 24 hours.
+
+## Tomb Items
+
+### Force Casket
+
+**Slot** none; **CL** 10th; **Price** 8,000 gp; **Weight** —
+
+**Aura** moderate evocation, necromancy, and universal
+
+A permanent globe of shimmering force encloses one corpse, provided the corpse is small enough to fit within the 10-foot diameter of the sphere, which functions as a *resilient sphere* spell. The sphere is not subject to damage of any sort except from a *rod of cancellation*, a *rod of negation*, a *disintegrate* spell, or a targeted *dispel magic* spell. These effects destroy the sphere without causing harm to the corpse within. Nothing can pass through the sphere, either from the outside or from within. The corpse within a *force casket* is also preserved so that it does not decay.
+
+**Construction Requirements:** Craft Wondrous Item, *gentle repose*, *resilient sphere*; **Cost** 4,000 gp
+
+### Hearthhammer
+
+**Slot** none; **CL** 9th; **Price** 30,000 gp; **Weight** 10 lbs.
+
+**Aura** moderate
+
+The stone handle of this *+3 adamantine warhammer* is carved in the form of a stately dwarven woman. The wielder of *Hearthhammer* gains a +5 competence bonus on Craft (armor, jewelry, stonemasonry, traps, and weapon) checks. If the wielder is a humanoid with the dwarf subtype, this bonus increases to +10.
+
+**Construction Requirements:** Craft Magic Arms and Armor, *fabricate*; **Cost** 16,506 gp
+
+### Horse-Speaker’s Saddle
+
+**Slot** none; **CL** 9th; **Price** 16,500 gp; **Weight** 20 lbs.
+
+**Aura** moderate divination and transmutation
+
+This wood-and-leather riding saddle is stitched with icons of warriors on horseback. The saddle is of archaic design, with a thick girth, high cantle, and no stirrups. It automatically resizes to fit any mount from Medium to Huge size.
+
+When the saddle is worn by a mount, its rider can *speak with animals* at will, as the spell. Once per year as a full-round action, the rider can target the animal wearing the saddle with the *awaken* spell. This doesn’t predispose the animal toward the rider and doesn’t compel the animal to follow the rider’s commands; in fact, if the rider has treated the animal cruelly, the awakened animal may attempt to unseat or attack the rider.
+
+**Construction Requirements:** Craft Wondrous Item, *awaken*, *speak with animals*; **Cost** 8,250 gp
+
+### Ossuary Mask
+
+**Slot** head; **CL** 5th; **Price** 3,100 gp; **Weight** 1 lb.
+
+**Aura** faint abjuration and divination
+
+This golden funerary mask depicts the serene expression found only at the moment of a peaceful death. When worn, it grants the wearer a +2 competence bonus on Appraise, Perception, and Sense Motive checks, and a +2 resistance bonus on Will saving throws.
+
+**Construction Requirements:** Craft Wondrous Item, *guidance*, *resistance*; **Cost** 1,550 gp
+
+### Soulforge (Artifact)
+
+**Slot** none; **CL** 20th; **Price** —; **Weight** —
+
+**Aura** strong evocation
+
+This massive forge is built into the structure of a temple to a dwarven god of the dead and can’t be moved without divine intervention. Made of precious metals and gemstones, the forge is surprisingly resilient, and even hard metals can be crafted upon its seemingly soft, delicate surfaces.
+
+Any item crafted with this forge can be constructed in half the normal amount of time.
+
+When the forge’s furnace is fed by a specific set of bellows the flames glow with a divine radiance and emit no noticeable heat, allowing for forging at a temperature more comfortable to the crafter. While the Soulforge is so lit, if a character’s successful Craft (armor, jewelry, locks, or weapons) check result using the forge exceeds DC 40, that crafter garners the god’s favor and can choose from one of the three following special rewards.
+
+First, the crafter can ask of the god a single *miracle*, so long as the request does not conflict with the god’s lawful neutral alignment. A creature can receive at most one such *miracle* over the course of her life.
+
+Second, at the GM’s discretion, the crafter can override the destruction conditions of a minor artifact without a lawful aura and destroy it in the *Soulforge*.
+
+Finally, the crafter can choose for her soul to pass from her body, traveling through the *Soulforge* to the god’s realm among the dead, effectively causing the crafter to die. The god immediately ushers the crafter’s soul before the goddess of death for judgment and petitions on her behalf, advocating for his most faithful followers to find ultimate rest in the realm best befitting their lives.
+
+**Destruction**: If the great anvil of the *Soulforge* is used as a sacrificial altar to slay a willing lawful outsider of at least 18 Hit Dice while the forge burns with divine flame, the artifact is destroyed.
+

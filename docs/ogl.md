@@ -393,3 +393,11 @@ The following text is the property of Wizards of the Coast, Inc. and is Copyrigh
     Pathfinder Campaign Setting: Inner Sea Taverns © 2018, Paizo Inc.; Authors: Kate Baker, Eleanor Ferron, Michelle Jones, Jason Keeley, Luis Loza, Jacob W. Michaels, Joe Pasini, and David N. Ross.
 
     Pathfinder Chronicles: Guide to the River Kingdoms © 2010, Paizo Publishing, LLC; Authors: Elaine Cunningham, Steve Kenson, China Miéville, Chris Pramas, and others.
+
+    Pathfinder Campaign Setting: Mystery Monsters Revisited © 2012, Paizo Publishing, LLC; Authors: Richard Pett, Anthony Pryor, Amber E. Scott, and Ray Vallese.
+
+    Pathfinder Campaign Setting: Dungeons of Golarion © 2011, Paizo Publishing, LLC; Authors: Jason Bulmahn, Matthew Goodall, Brandon Hodge, Anthony Pryor, and Mike Shel.
+
+    Pathfinder Campaign Setting: Tombs of Golarion © 2015, Paizo Inc.; Authors: Scott Fernandez, Ron Lundeen, and Larry Wilhelm.
+
+    Pathfinder Chronicles: Cities of Golarion © 2009, Paizo Publishing, LLC; Authors: Joshua J. Frost, Tim Hitchcock, Jonathan Keith, Rob McCreary, Jason Nelson, and Jeff Quick.

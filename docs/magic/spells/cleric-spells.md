@@ -696,6 +696,7 @@
 - **[Tongues, Communal](tongues-communal.md)**: As tongues, but you may divide the duration among creatures touched.
 - **[Touch of Slumber](touch-of-slumber.md)**: Nonhostile creature falls asleep for hours.
 - **[True Seeing](true-seeing.md)**: Lets you see all things as they really are.
+- **[Undeath Ward](undeath-ward.md)**: A silver barrier keeps out undead with fewer Hit Dice than your caster level.
 - **[Unhallow](unhallow.md)**: Designates location as unholy.
 - **[Untold Wonder](untold-wonder.md)**: Childlike wonder turns emotion penalties into bonuses.
 - **[Vile Dog Transformation](vile-dog-transformation.md)**: Transform ordinary dogs into fiendish minions.

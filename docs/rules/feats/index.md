@@ -2291,6 +2291,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Illusive Gnome Style](illusive-gnome-style.md) | Combat, Style | Int 13, Combat Expertise, Gnome Weapon Focus, Improved Feint, base attack bonus +1, gnome magic and weapon familiarity racial traits |
 | [Illusive Gnome Surprise](illusive-gnome-surprise.md) | Combat | Int 13, Combat Expertise, Gnome Weapon Focus, Illusive Gnome Style, Improved Feint |
 | [Imperial Conscript](imperial-conscript.md) | — | Serf in service to a lord |
+| [Imperial Corsair](imperial-corsair.md) | — | Spent at least 1 month working on a ship in imperial service |
 | [Imperial Knight](imperial-knight.md) | — | Base attack bonus +6, heavy armor proficiency, proficient in a martial weapon |
 | [Imperial Squire](imperial-squire.md) | — | Base attack bonus +1, proficient in a martial weapon |
 | [Implement Mastery](implement-mastery.md) | Item Mastery | Implements class feature, mental focus class feature |
@@ -2328,6 +2329,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Improved Possession](improved-possession.md) | — | Demonic Possession or shadow demon, Cha 25 |
 | [Improved Precise Strike](improved-precise-strike.md) | Combat, Teamwork | Dex 13, Precise Strike, base attack bonus +4 |
 | [Improved Punishing Step](improved-punishing-step.md) | Combat | Dex 13, Dodge, Punishing Step, base attack bonus +8 |
+| [Improved Roar](improved-roar.md) | — | Con 17, bunyip, roar special attack |
 | [Improved Sabotaging Sunder](improved-sabotaging-sunder.md) | Combat | Str 13, Improved Sunder, Power Attack, Sabotaging Sunder, Disable Device 9 ranks |
 | [Improved Shadowy Resistance](improved-shadowy-resistance.md) | — | Fetchling, shadowy resistance racial trait |
 | [Improved Shield Focus](improved-shield-focus.md) | Combat | Shield Focus, base attack bonus +6 |
@@ -2343,6 +2345,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Improvised Defenses](improvised-defenses.md) | Combat | Catch Off-Guard or Throw Anything, base attack bonus +1 |
 | [Incite Paranoia](incite-paranoia.md) | Combat | Int 13, Combat Expertise, Deceitful, Greater Feint, Improved Feint, base attack bonus +6 |
 | [Incredible Healer](incredible-healer.md) | — | Heal 5 ranks |
+| [Indomitable Mount](indomitable-mount.md) | Combat | Mounted Combat, Handle Animal 5 ranks, Ride 5 ranks, trained by a crusader order |
 | [Inerrant Justice](inerrant-justice.md) | Story | See text |
 | [Infiltrator](infiltrator.md) | Story | See text |
 | [Infuse Poison](infuse-poison.md) | Item Creation | Brew Potion, Craft (alchemy) 5 ranks, caster level 3rd |
@@ -2467,6 +2470,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Masked Intent](masked-intent.md) | — | Nameless One |
 | [Masked Renown](masked-renown.md) | — | Cha 13, Disguise 2 ranks |
 | [Masked Symbol](masked-symbol.md) | — | Disguise 1 rank or dual identity |
+| [Master Delver](master-delver.md) | — | Explored part of a sunken ruin |
 | [Master Hammer Throw](master-hammer-throw.md) | Combat | Int 13, Combat Expertise, Hammer Throw, Improved Hammer Throw, Improved Trip, Point-Blank Shot, Precise Shot, base attack bonus +6, dwarf |
 | [Master of Knowledge](master-of-knowledge.md) | — | Int 17, Skill Focus (Knowledge [any]), worshiper of a deity of knowledge |
 | [Master of the Ledger](master-of-the-ledger.md) | — | Appraise 6 ranks, Profession (any one) 6 ranks |
@@ -3236,6 +3240,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Weather Eye](weather-eye.md) | — | Survival 3 ranks, must worship nature |
 | [Weathered Warrior](weathered-warrior.md) | Combat | Endurance |
 | [Welcome Pain](welcome-pain.md) | — | Iron Will, worshiper of a deity of pain |
+| [Wheeling Charge](wheeling-charge.md) | Combat | Mounted Combat, Ride-By Attack, Ride 5 ranks, trained by a crusader order |
 | [Whip-Shot Deed](whip-shot-deed.md) | Grit | Grit class feature or Amateur Gunslinger feat, pistol-whip deed |
 | [Whip-Slinger](whip-slinger.md) | Combat | Proficient with sling |
 | [Whipcrack](whipcrack.md) | Combat | Int 13, Combat Expertise, Improved Reposition, base attack bonus +3 or monk level 1st |
@@ -3253,6 +3258,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Wind Strike](wind-strike.md) | Combat, Style | Dex 13, Wis 13, Elemental Discipline Style (wind), Quick Draw, base attack bonus +9 or monk level 9th |
 | [Wingclipper](wingclipper.md) | Combat | Base attack bonus +9 |
 | [Wings of the Androsphinx](wings-of-the-androsphinx.md) | Combat | Int 13, Combat Expertise, Improved Reposition, base attack bonus +1 or monk level 1st |
+| [Winter Icemage](winter-icemage.md) | — | Sorcerer, native of a winter realm, may only be taken at first level |
 | [Witty Feint](witty-feint.md) | Combat | Bluff 1 rank, weapon training class feature, gnome |
 | [Worst Case Jinx](worst-case-jinx.md) | General | Knowledge (arcana) 5 ranks, Halfling Jinx racial trait |
 | [Wrest Charge](wrest-charge.md) | — | Disable Device 5 ranks, Knowledge (engineering) 5 ranks |

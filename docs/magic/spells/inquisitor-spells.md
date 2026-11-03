@@ -359,6 +359,7 @@ New inquisitor spells from *Ultimate Magic*. Spells from other books will be add
 - **[Thaumaturgic Circle](thaumaturgic-circle.md)**: As magic circle, but affecting a nonalignment subtype or outsider race.
 - **[Tough Crowd](tough-crowd.md)**: Allies resist the next enchantment or illusion and manipulation.
 - **[Transplant Visage](transplant-visage.md)**: Wear a stolen face for +10 on Disguise.
+- **[Undeath Ward](undeath-ward.md)**: A silver barrier keeps out undead with fewer Hit Dice than your caster level.
 - **[Ward Shield](ward-shield.md)**: Shield grants spell resistance against targeted spells.
 
 ## 5th-Level Inquisitor Spells

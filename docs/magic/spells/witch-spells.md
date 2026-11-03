@@ -394,6 +394,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Marionette Possession](marionette-possession.md)**: As magic jar, but limited to line of sight.
 - **[Mark of Spite](mark-of-spite.md)**: Hurt yourself to deal double damage to the marked foe.
 - **[Matchmaker](matchmaker.md)**: Cause two creatures to fall in love.
+- **[Mirror Sight](mirror-sight.md)**: See through another mirror, or the reflection of a known person or place.
 - **[Motes of Dusk and Dawn](motes-of-dusk-and-dawn.md)**: up to four motes that shed light or darkness
 - **[Nature’s Ravages](natures-ravages.md)**: Rapidly decomposes a corpse.
 - **[Necromantic Burden](necromantic-burden.md)**: Make undead harder to control
@@ -730,6 +731,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Touch of Slumber](touch-of-slumber.md)**: Nonhostile creature falls asleep for hours.
 - **[Transfer Familiar](transfer-familiar.md)**: Temporarily give control of your familiar to another creature.
 - **[Treacherous Teleport](treacherous-teleport.md)**: As *teleport*, except you choose some creatures to suffer a mishap or go elsewhere.
+- **[Undeath Ward](undeath-ward.md)**: A silver barrier keeps out undead with fewer Hit Dice than your caster level.
 - **[Vengeful Outrage](vengeful-outrage.md)**: Target is compelled to destroy one enemy.
 - **[Whip of Ants](whip-of-ants.md)**: As whip of spiders, but with army ants.
 - **[Wither Limb](wither-limb.md)**: Make one of the target’s limbs useless.

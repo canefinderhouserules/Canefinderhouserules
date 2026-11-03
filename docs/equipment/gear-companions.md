@@ -3595,3 +3595,15 @@ The best cure for this disease is dosing the patient with the poison arsenic—i
 **Effect** 1 Int damage, 1 Wis damage, 1 Con damage, and blind for 1 minute
 
 **Cure** 2 saves
+
+## City Gear
+
+### Heathensnuff
+
+**Price** 10 gp; **Weight** —
+
+Those lacking the will to harden themselves against pain turn to alchemical methods to endure. This purplish paste is made from sea urchin toxins and numbs the user’s ability to sense pain. A dose gives the user the Endure Pain feat for 1 hour, though it also has debilitating side effects and leaves telltale reddish-purple stains around the nostrils for up to one day, easily identified by those familiar with the symptoms.
+
+Anyone who takes the drug must make a DC 10 saving throw or become addicted. A snuff addict can stave off withdrawal for 5 days by taking a dose; failure means he must save or take 1d4 Dex and 1d4 Wis damage. This save DC increases by +5 for every 5 days since the last time the addict had a dose. If the addict makes two of these saves in a row, he is no longer addicted. *Remove disease* can cure an addict if the caster’s caster level check succeeds against a DC equal to the addict’s current withdrawal DC. *Greater restoration* or *heal* cures the addiction without requiring a roll.
+
+**Type** poison, ingested; **Save** Fortitude DC 13; **Frequency** 1/hour for 4 hours; **Initial Effect** Endure Pain feat for 1 hour; **Secondary Effect** 1 Con damage; **Cure** 1 save
