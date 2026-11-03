@@ -1271,6 +1271,7 @@
 - **[Chains of Fire](chains-of-fire.md)**: This spell functions like chain lightning, except as noted above, and the spell deals fire damage instead of.
 - **[Chains of Light](chains-of-light.md)**: Hold a creature in chains of light and block extradimensional travel.
 - **[Claim Identity, Greater](claim-identity-greater.md)**: As claim identity, but the target becomes a mask others can wear.
+- **[Contact Nalfeshnee](contact-nalfeshnee.md)**: Telepathically question a nalfeshnee demon, risking ability drain.
 - **[Cosmic Ray](cosmic-ray.md)**: Ray of cosmic energy that damages and sickens.
 - **[Cruel Jaunt](cruel-jaunt.md)**: Sense creatures suffering from fear, then teleport close to them.
 - **[Curse Terrain, Greater](curse-terrain-greater.md)**: Curse an area with six dangerous hazards.

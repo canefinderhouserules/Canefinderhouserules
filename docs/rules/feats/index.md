@@ -1578,6 +1578,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Azata Mischief](azata-mischief.md) | Combat | Agile Maneuvers, [Azata Style](azata-style.md), Dodge, Mobility, base attack bonus +6 |
 | [Azata Sprint](azata-sprint.md) | Combat | Agile Maneuvers, [Azata Mischief](azata-mischief.md), [Azata Style](azata-style.md), Dodge, Mobility, Wind Stance, base attack bonus +10 |
 | [Azata Style](azata-style.md) | Combat, Style | Dodge, Mobility, base attack bonus +2 |
+| [Babau Rogue Talent](babau-rogue-talent.md) | — | Dex 17, babau |
 | [Babble-Peddler](babble-peddler.md) | General | Appraise 5 ranks, Bluff 5 ranks, gnome |
 | [Bag of Bones](bag-of-bones.md) | — | Ghoul |
 | [Balor Whip](balor-whip.md) | Combat | Weapon Focus (whip), Whip Mastery, base attack bonus +8 |
@@ -1765,6 +1766,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Conservatory-Trained](conservatory-trained.md) | — | Sense Motive 1 rank |
 | [Consortium Partner](consortium-partner.md) | — | — |
 | [Consume Power](consume-power.md) | — | Spellcraft 3 ranks, wyrwood |
+| [Consume Undeath](consume-undeath.md) | — | Nabasu, Con 23 |
 | [Consumption](consumption.md) | Blood Hex | Int 13, Use Magic Device 5 ranks |
 | [Contingent Trick](contingent-trick.md) | Trick | Any two trick feats |
 | [Controlled Patterns](controlled-patterns.md) | — | Pattern Message, Spell Focus (illusion), caster level 7th |
@@ -2113,6 +2115,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Flame Fist](flame-fist.md) | Combat, Style | Int 13, Wis 13, Combat Expertise, Elemental Discipline Style (flame), Stunning Fist, Flame Feint, base attack bonus +13 or monk level 13th |
 | [Flaying Critical](flaying-critical.md) | Combat, Critical | Critical Focus, base attack bonus +11 |
 | [Fleeting Spell](fleeting-spell.md) | Metamagic | — |
+| [Flensing Strike](flensing-strike.md) | — | Sneak attack +3d6, bleeding sneak attack rogue trick or bleed universal monster ability |
 | [Flexible Foe](flexible-foe.md) | Combat | Base attack bonus +5, favored enemy (any humanoid or any outsider), favored enemy class feature |
 | [Flexible Shadow Jump](flexible-shadow-jump.md) | — | Shadow jump shadowdancer class feature |
 | [Flickering Step](flickering-step.md) | Conduit | Knowledge (planes) 9 ranks |
@@ -2294,6 +2297,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Improved Bravery](improved-bravery.md) | Combat | Cha 13, bravery class feature |
 | [Improved Collector's Boon](improved-collectors-boon.md) | — | Collector's Boon, character level 9th |
 | [Improved Conceal Spell](improved-conceal-spell.md) | — | Conceal Spell, Deceitful, Bluff 5 ranks, Disguise 5 ranks, Sleight of Hand 10 ranks, ability to cast 3rd-level spells or use a 3rd-level spell-like ability |
+| [Improved Death-Stealing](improved-death-stealing.md) | — | Nabasu, Ability Focus (death-stealing gaze) |
 | [Improved Disarm Partner](improved-disarm-partner.md) | Combat, Teamwork | [Disarm Partner](disarm-partner.md), base attack bonus +5 |
 | [Improved Elemental Counterspell](improved-elemental-counterspell.md) | — | Two basic blast wild talents from two different elements, expanded element class feature, kinetic blast class feature |
 | [Improved Familiar Bond](improved-familiar-bond.md) | — | Familiar Bond, Iron Will |
@@ -2305,6 +2309,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Improved Gaseous Form](improved-gaseous-form.md) | — | Vampire |
 | [Improved Hammer Throw](improved-hammer-throw.md) | Combat | Int 13, Combat Expertise, Hammer Throw, Improved Trip, Point-Blank Shot, Precise Shot, base attack bonus +6, dwarf |
 | [Improved Horse Whisperer](improved-horse-whisperer.md) | — | Horse Whisperer, Handle Animal 5 ranks, Ride 5 ranks |
+| [Improved Infuse Weapon](improved-infuse-weapon.md) | — | Infuse weapon special ability, Cha 27 |
 | [Improved Learn Ranger Trap](improved-learn-ranger-trap.md) | General | Learn Ranger Trap, Survival 8 ranks |
 | [Improved Legendary Influence](improved-legendary-influence.md) | — | Legendary Influence, lesser spirit power and propitiation class features |
 | [Improved Lookout](improved-lookout.md) | — | Lookout |
@@ -2314,12 +2319,14 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Improved Planar Mentor](improved-planar-mentor.md) | — | [Planar Mentor](planar-mentor.md), character level 7th |
 | [Improved Plane Shift](improved-plane-shift.md) | — | Wizard level 9th |
 | [Improved Position of Strength](improved-position-of-strength.md) | Combat | Position of Strength, Two-Weapon Fighting or Multiattack, Intimidate 5 ranks |
+| [Improved Possession](improved-possession.md) | — | Demonic Possession or shadow demon, Cha 25 |
 | [Improved Precise Strike](improved-precise-strike.md) | Combat, Teamwork | Dex 13, Precise Strike, base attack bonus +4 |
 | [Improved Punishing Step](improved-punishing-step.md) | Combat | Dex 13, Dodge, Punishing Step, base attack bonus +8 |
 | [Improved Sabotaging Sunder](improved-sabotaging-sunder.md) | Combat | Str 13, Improved Sunder, Power Attack, Sabotaging Sunder, Disable Device 9 ranks |
 | [Improved Shadowy Resistance](improved-shadowy-resistance.md) | — | Fetchling, shadowy resistance racial trait |
 | [Improved Shield Focus](improved-shield-focus.md) | Combat | Shield Focus, base attack bonus +6 |
 | [Improved Stellar Wanderer](improved-stellar-wanderer.md) | — | [Stellar Wanderer](stellar-wanderer.md), Knowledge (planes) 15 ranks |
+| [Improved Stench](improved-stench.md) | — | Stench universal monster ability |
 | [Improved Swarm Form](improved-swarm-form.md) | — | Vampire |
 | [Improved Toxicological Timing](improved-toxicological-timing.md) | — | Craft (alchemy) 11 ranks, Toxicological Timing |
 | [Improved Uncivilized Tactics](improved-uncivilized-tactics.md) | Combat | Str 13, Power Attack, Uncivilized Tactics |
@@ -2517,6 +2524,8 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Mounted Blade](mounted-blade.md) | — | Mounted Combat, Ride-By Attack, Ride 3 ranks |
 | [Mounted Onslaught](mounted-onslaught.md) | — | Mounted Combat, Trample, Ride 5 ranks |
 | [Mud in Your Eye](mud-in-your-eye.md) | Combat | Throw Anything |
+| [Multiweapon Defense](multiweapon-defense.md) | — | Three or more arms, Dex 21 |
+| [Multiweapon Specialist](multiweapon-specialist.md) | — | Three or more arms, Dex 21 |
 | [Murderous Sniper](murderous-sniper.md) | Combat | Death attack class feature |
 | [Musketeer's Daring](musketeers-daring.md) | Combat, Panache | Dex 15, derring-do deed, swashbuckler level 6th |
 | [Musketeer's Dodge](musketeers-dodge.md) | Combat, Grit | Exotic Weapon Proficiency (firearms), gunslinger level 3rd, gunslinger's dodge deed |
@@ -2606,6 +2615,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Peace of Mind](peace-of-mind.md) | Conduit | Knowledge (planes) 3 ranks |
 | [Peacemaker](peacemaker.md) | — | Charisma 13, good alignment |
 | [Peerless Courtier](peerless-courtier.md) | — | Cha 13, base attack bonus +3 |
+| [Penetrating Possession](penetrating-possession.md) | — | *Magic jar* as a known spell or spell-like ability, Cha 21 |
 | [Penetrating Stare](penetrating-stare.md) | Combat, Stare | Mesmerist level 7th, painful stare class feature |
 | [Perfect Awareness](perfect-awareness.md) | Combat | Wis 17, Combat Meditation, Meditation Master, character level 9th |
 | [Perfect Casting](perfect-casting.md) | — | Combat Casting, Divine Dignity, ability to cast divine spells, worshiper of a deity of law and trade |
@@ -2670,6 +2680,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Protector’s Strike](protector-s-strike.md) | — | Base attack bonus +5, smite evil class feature |
 | [Proxy Summoning](proxy-summoning.md) | — | Ability to cast conjuration (summoning) spells or a conjuration (summoning) spell-like ability, caster level 5th |
 | [Punch Through](punch-through.md) | Combat, Teamwork | Base attack bonus +6 |
+| [Pungent Stench](pungent-stench.md) | — | Stench universal monster ability, Improved Stench, Great Fortitude |
 | [Punishing Step](punishing-step.md) | Combat | Dex 13, Dodge |
 | [Puppet Master](puppet-master.md) | Story | See text |
 | [Purifying Channel](purifying-channel.md) | — | Cha 15, Selective Channeling, channel energy class feature |
@@ -3102,6 +3113,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Tower Shield Specialist](tower-shield-specialist.md) | Shield Mastery | Shield Focus, Tower Shield Proficiency, base attack bonus +11 or fighter level 8th |
 | [Toxic Secretions](toxic-secretions.md) | — | Grippli, toxic skin alternate racial trait |
 | [Toxic Spray](toxic-spray.md) | Combat | Spit Venom, Viscous Venom, nagaji |
+| [Toxic Stench](toxic-stench.md) | — | Stench universal monster ability, immunity to poison, Improved Stench, Toughness |
 | [Toxicological Timing](toxicological-timing.md) | — | Craft (alchemy) 9 ranks |
 | [Tracer Fire](tracer-fire.md) | Combat | Point-Blank Shot, Precise Shot |
 | [Trailblazing Channel](trailblazing-channel.md) | — | Channel energy 3d6, worshiper of a deity of dreams and travelers |

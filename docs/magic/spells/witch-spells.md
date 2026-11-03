@@ -680,6 +680,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Baleful Shadow Transmutation](baleful-shadow-transmutation.md)**: a target's shadow tricks it into believing it is another creature
 - **[Betraying Sting](betraying-sting.md)**: Smite those who trusted you
 - **[Binding Earth, Mass](binding-earth-mass.md)**: School transmutation [earth]; Level druid 6, witch 6 Target one creature or object/level, no two of which can.
+- **[Contact Nalfeshnee](contact-nalfeshnee.md)**: Telepathically question a nalfeshnee demon, risking ability drain.
 - **[Cruel Jaunt](cruel-jaunt.md)**: Sense creatures suffering from fear, then teleport near them.
 - **[Curse of the Outcast](curse-of-the-outcast.md)**: Curse someone to rub people the wrong way.
 - **[Curse Terrain, Greater](curse-terrain-greater.md)**: Curse an area with six dangerous hazards.

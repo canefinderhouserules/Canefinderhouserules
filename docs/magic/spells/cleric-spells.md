@@ -720,6 +720,7 @@
 - **[Bull’s Strength, Mass](bulls-strength-mass.md)**: As *bull’s strength*, affects 1 subject/level.
 - **[Chains of Light](chains-of-light.md)**: Hold a creature in chains of light and block extradimensional travel.
 - **[Commune with Texts](commune-with-texts.md)**: Absorb knowledge from a collection of texts.
+- **[Contact Nalfeshnee](contact-nalfeshnee.md)**: Telepathically question a nalfeshnee demon, risking ability drain.
 - **[Create Undead](create-undead.md)**: Create ghasts, ghouls, mohrgs, or mummies.
 - **[Cruel Jaunt](cruel-jaunt.md)**: Sense creatures suffering from fear, then teleport close to them.
 - **[Cure Moderate Wounds, Mass](cure-moderate-wounds-mass.md)**: Cures 2d8 damage + 1/level, affects 1 subject/level.

@@ -379,3 +379,5 @@ The following text is the property of Wizards of the Coast, Inc. and is Copyrigh
     Pathfinder Campaign Setting: Occult Mysteries © 2014, Paizo Inc.; Authors: Jason Bulmahn, Crystal Frasier, Jim Groves, Brandon Hodge, James Jacobs, Erik Mona, F. Wesley Schneider, and Jerome Virnich.
 
     Pathfinder Campaign Setting: Distant Shores © 2015, Paizo Inc.; Authors: John Compton, Adam Daigle, Crystal Frasier, Amanda Hamon, Rob McCreary, Mark Moreland, James L. Sutter, and Owen K.C. Stephens.
+
+    Pathfinder Campaign Setting: Demons Revisited © 2013, Paizo Publishing, LLC; Author: James Jacobs.
