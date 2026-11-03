@@ -60,6 +60,8 @@ The prestige classes presented in this chapter are summarized below.
 
 **[Death Slayer](death-slayer.md)**: A divine assassin who hunts undead with channeled positive energy.
 
+**[Demoniac](demoniac.md)**: A worshiper of a demon lord who opens herself to possession and slowly transforms into a demon.
+
 **[Desert Alchemist](desert-alchemist.md)**: An alchemist who blends desert herbalism with extract-brewing and healing.
 
 **[Devil Thief](devil-thief.md)**: A premier agent of a thieves’ guild who draws on the favor of a city’s patrons.
