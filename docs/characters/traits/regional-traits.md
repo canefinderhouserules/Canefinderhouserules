@@ -939,3 +939,9 @@ These traits tie characters to a frontier campaign of ancient monuments, rival c
 **Satrapy Trader (Desert satrapy native)**: Your cosmopolitan upbringing has given you familiarity with many cultures. You gain two bonus languages and a +2 trait bonus on Knowledge (local) checks.
 
 **Dwarven-Taught Weaponsmith (Desert satrapy native)**: You are a descendant of a long line of skilled dwarven weapon makers or have apprenticed under such artisans. Either way, you learned their long-held secrets relating to the production of magical arms and armor. You treat your caster level as 1 higher for purposes of creating magical weapons, and gain a +1 trait bonus on Craft checks to create magical armor, shields, or weapons.
+
+## Traits of the Rebuilt City
+
+**City Engineer (Rebuilt city native)**: Your family helped to rebuild a ruined city of warrior women, and that tradition runs in your blood. You gain a +2 bonus on Perception checks to notice unusual stonework, traps, and hidden doors in worked stone and artificial constructions. Knowledge (engineering) is always a class skill for you.
+
+**Balanced Education (Rebuilt city native)**: Your upbringing focused on strengthening mind and body in equal measure. Once per day, you can draw on this training to apply a physical ability modifier to a skill check instead of its usual mental ability modifier, or apply a mental ability modifier to a skill check instead of its usual physical ability modifier. You can only exchange ability modifiers between the following pairings: Strength with Intelligence, Dexterity with Wisdom, and Constitution with Charisma.

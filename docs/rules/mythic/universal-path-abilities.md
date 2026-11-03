@@ -83,3 +83,11 @@ You must be at least 6th tier to select these path abilities.
 **Mythic Sight (Sp)**: When you take this ability, you gain blind sense out to a range of 30 feet. You can take this ability twice. The second time you take it, you can see illusions and magical deceptions for what they truly are, as if using true seeing. This ability doesn't apply to illusions and magical effects that were cast by other mythic creatures or that are affecting other mythic creatures. If this ability is dispelled, you can resume it as a free action.
 
 **Tongues (Sp)**: You can understand and speak any language, as the tongues spell. If this ability is dispelled, you can resume it as a free action.
+
+## Abilities of the Myth-Speakers
+
+Mythic characters of at least 1st tier who gain mythic power from a cyclops myth-speaker can select the following mythic path abilities.
+
+**As Foretold (Su)** *(universal)*: Just as the cyclopes foretold your mythic ascension, so too can you foresee your own greatness. As a full-round action you can expend two uses of mythic power to roll your mythic surge die and add 10 (treat any result of 21 or higher as 20). At any point within the next 10 minutes, you may use the result of the roll as the result of any one d20 roll you are required to make. If you do not use the result within 10 minutes, it is lost. You can use this ability to replace an attack roll or saving throw only once per day each.
+
+**Myth Slayer (Ex)** *(champion)*: When you use the surge mythic ability against a creature whose mythic tier or rank is higher than yours, you add the difference between your tiers as a bonus to the surge result; if the surge applied to an attack roll, the attack also deals additional damage equal to your tier. In addition, you can use the surge mythic ability twice per day without using one use of mythic power, but only when the roll modified is against a mythic creature.

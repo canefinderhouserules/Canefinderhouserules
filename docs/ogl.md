@@ -377,3 +377,5 @@ The following text is the property of Wizards of the Coast, Inc. and is Copyrigh
     Pathfinder Chronicles: Dungeon Denizens Revisited © 2009, Paizo Publishing, LLC; Authors: Clinton Boomer, Jason Bulmahn, Joshua J. Frost, Nicolas Logue, Rob McCreary, Jason Nelson, Richard Pett, Sean K Reynolds, James L. Sutter, and Greg A. Vaughan.
 
     Pathfinder Campaign Setting: Occult Mysteries © 2014, Paizo Inc.; Authors: Jason Bulmahn, Crystal Frasier, Jim Groves, Brandon Hodge, James Jacobs, Erik Mona, F. Wesley Schneider, and Jerome Virnich.
+
+    Pathfinder Campaign Setting: Distant Shores © 2015, Paizo Inc.; Authors: John Compton, Adam Daigle, Crystal Frasier, Amanda Hamon, Rob McCreary, Mark Moreland, James L. Sutter, and Owen K.C. Stephens.

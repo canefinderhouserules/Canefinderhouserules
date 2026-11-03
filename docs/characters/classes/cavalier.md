@@ -129,6 +129,26 @@ Cavaliers belonging to the order of the dragon dedicate themselves to a group of
 
 **Act as One (Ex)**: At 15th level, the cavalier can spend a standard action to move up to his speed and make a melee attack. All allies within 30 feet can also move up to their speed and make a melee attack as an immediate action. This movement and attack can be made as a charge if the movement qualifies. All attacks are made at a +2 bonus (this stacks with the bonus from a charge) and all participants receive a +2 dodge bonus to their AC for 1 round. A cavalier can use this ability once per combat.
 
+### Order of the Eclipse
+
+*(Samurai order)*
+
+Hobgoblins have long taken advantage of the tactical edge darkvision gives them when fighting in darkness, particularly against elves, humans, and samsarans. As the ruling class of an eastern warlord state, hobgoblin samurai have adopted the benefit of darkness as a spiritual alliance that forms a guiding principle in not only how they fight, but every aspect of their lives. This has given rise to the order of the eclipse, a respected samurai order devoted to darkness itself. Although the order is not officially restricted to hobgoblins, its edicts make it difficult for any samurai without darkvision to operate in its ranks.
+
+**Edicts**: The samurai cannot create light where it is not necessary—anything that can be done in darkness should be. The samurai must belong to a military organization (likely a warband commanded by a senior samurai). The samurai must enforce his place within this order and societies that recognize its authority, obeying those senior to him without question and demanding total obedience from those beneath him. The samurai must take every opportunity to extinguish the lights of his foes.
+
+**Challenge**: The order of the eclipse samurai gains a +1 bonus on all Intimidate checks made against the target of his challenge. This bonus increases by 1 for every four levels the samurai possesses.
+
+**Skills**: An order of the eclipse samurai adds Perception (Wis) and Survival (Wis) to his list of class skills. In addition, whenever he makes a Perception check to notice an invisible creature or object, he receives a bonus on the check equal to 1/2 his samurai level (minimum +1).
+
+**Order Abilities**: A samurai that belongs to the order of the eclipse gains the following abilities as he increases in level.
+
+*Dark Rider (Su)*: At 2nd level, whenever the samurai is on his mount, both he and his mount share any of the following senses if either of them possesses it: darkvision, low-light vision, scent, and see in darkness. This applies regardless of the source of the sense (including senses gained from spells or magic items), but only while the samurai is mounted. If the samurai and mount both have a sense but one has an improved version (such as a samurai with darkvision with a range of 60 feet riding a mount that has darkvision with a range of 90 feet), both receive the improved version of the sense.
+
+*Eclipsing Blade (Sp)*: At 8th level, the samurai can cast *darkness* on a weapon he is holding. The *darkness* does not affect the vision of any order of the eclipse samurai, or that of their mounts. The spell immediately ends if the weapon leaves the samurai’s hand. He may do this once per day, plus one additional time per day for every four levels he possesses above 8th (to a maximum of four times per day at 20th level).
+
+*See in Darkness (Ex)*: At 15th level the samurai can see perfectly in darkness, even magical darkness, as the universal monster ability of the same name.
+
 ### Order of the Lion
 
 A cavalier who belongs to this order has pledged himself to a sovereign; be it a king, queen, or even the local warlord. Cavaliers of this order are stalwart and dedicated to their cause, willing to go any length to ensure the safety of their lord and his domain.

@@ -400,3 +400,86 @@ subschool); Saving Throw Will negates (harmless); SR yes (harmless).
 **Necromancy**: Range close; Target one or more creatures or corpses; Duration instantaneous; Saving Throw none; SR no.
 
 **Transmutation**: Range medium; Target one creature or 20 cu. ft. of matter; Duration rounds; Saving Throw
+
+## Festival Rituals
+
+### Festival of Flowers
+
+**School** divination; **Level** 4
+
+**Casting Time** 12 hours
+
+**Components** V, S, M (100 lbs. of flowers per caster, a feast consisting of 1,000 gp worth of food and drink), F (set of 7 silver cups worth a total of 1,500 gp), SC (7)
+
+**Skill Checks** Knowledge (nature) DC 30, 1 success; Perform (dance) DC 30, 1 success; Perform (sing) DC 30, 2 successes
+
+**Range** touch
+
+**Target** primary caster and secondary casters
+
+**Duration** 3 months or until discharged
+
+**Saving Throw** Will negates (harmless); **SR** no
+
+**Backlash** The next time the casters attempt a check, they must roll twice and take the worse result.
+
+**Failure** All casters receive a –1 luck penalty on saving throws for 1 year.
+
+**Effect**
+
+The ritual takes place from sunrise to sunset, and involves the performance of dozens of traditional songs and dances. At the completion of the ritual, the Seven Petals drink a special brew made from herbs and fungus from seven silver cups.
+
+The primary and secondary casters gain a +1 luck bonus on all saving throws for 3 months following the ritual. At any point during this time, a caster can roll twice for a single saving throw and take the higher result, but once this reroll is used, the luck bonus ends.
+
+### Harvest Bounty Festival
+
+**School** transmutation; **Level** 8
+
+**Casting Time** 24 hours
+
+**Components** V, S, M (a feast capable of feeding at least 1,000 people), F (ceremonial sickle worth at least 500 gp), SC (up to 100)
+
+**Skill Checks** Perform (oratory) DC 33, 2 successes; Knowledge (nature) DC 33, 3 successes; Profession (cook) DC 33, 3 successes
+
+**Range** touch
+
+**Target** one creature
+
+**Duration** 30 days; see text
+
+**Saving Throw** Will negates (harmless); **SR** no
+
+**Backlash** The primary caster is sickened for 1d4 days.
+
+**Failure** The casters are nauseated for 24 hours.
+
+**Effect**
+
+At the completion of this ritual, one of the casters is selected as the target for the effect. The selected caster gains the ability to cast *commune with nature* as a spell-like ability once over the course of the next 30 days, and the ability to cast *plant growth* (enrichment only) five times over the course of the next 30 days. The caster level for these effects is equal to the character level of the primary caster. In addition, all casters who celebrate the festival gain a +1 morale bonus on Diplomacy checks for 48 hours.
+
+### Waning Light Festival
+
+**School** divination; **Level** 8
+
+**Casting Time** 9 hours
+
+**Components** V, S, F (each caster must wear a ceremonial costume worth 500 gp), SC (up to 12)
+
+**Skill Checks** Knowledge (religion) DC 29, 3 successes; Perform (dance) DC 29, 3 successes; Perform (percussion) DC 29, 3 successes
+
+**Range** primary and secondary casters
+
+**Duration** 2 hours
+
+**Saving Throw** Will negates (harmless); **SR** no
+
+**Backlash** All casters become exhausted and gain 1 temporary negative level (DC = 16 + the primary caster’s Charisma bonus to remove after the first day).
+
+**Failure** All casters gain 1 temporary negative level (DC = 16 + the primary caster’s Charisma bonus to remove after the first day), and the primary caster takes 4d6 points of damage.
+
+**Effect**
+
+At the completion of the festival, the primary and secondary casters are charged with magical energy. For the next 2 hours, any creature they touch gains a resistance bonus on their next 5 saving throws equal to 1 for every 5 Hit Dice the primary caster possesses. It’s considered auspicious if it rains during the festival, even more so if thunder and lightning crack through the sky. If the ritual is performed in these conditions, the benefit is doubled, instead granting the bonus on saving throws for the next 10 saves.
+
+Since the casters must touch a celebrant to bestow the boon, the 2-hour period after the ritual turns into a huge parade as the casters wind through the city to greet the populace. Segadans gather along the streets to reach out and touch one of the casters as they pass.
+

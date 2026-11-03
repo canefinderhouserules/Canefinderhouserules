@@ -255,3 +255,11 @@ These traits suit characters from a jungle colony and its wild surroundings. Eac
 **Unnatural Presence (Faith)**: Your prolonged association with alien forces leaks from your pores. You can use your Intimidate skill to demoralize animals and vermin; Intimidate is a class skill for you. You must be a member of the old cults to take this trait.
 
 **Witty Repartee (Combat)**: You are quick with your tongue and have always possessed the talent to quickly admonish your enemies. You gain a +1 trait bonus on Bluff checks and Bluff is a class skill for you. You must be a member of a bardic academy to take this trait.
+
+## Distant Shores Traits
+
+**Empyreal Pantheon (Faith)**: Your faith in the empyreal lords accommodates numerous gods, and you are gifted at adapting their wide variety of focuses and lessons to your own life. Select either the law or chaos alignment descriptor. You may cast spells with that descriptor, even if your alignment or that of your god would normally not allow it. Doing so applies the good descriptor to the spell if it does not already apply.
+
+**Druidic School Pupil (Magic)**: You studied at a center for druidic magic long enough to begin bonding with a familiar. You gain a +1 trait bonus on Handle Animal checks. You may substitute this trait for Iron Will as the prerequisite for the Familiar Bond feat.
+
+**Pact Servant (Faith)**: Your faith focuses on finding the good in unusual places and appreciating the nuances of virtue in the world. You may treat the god of tyranny and contracts as if he were a lawful neutral deity for the purposes of determining your own alignment as a cleric, inquisitor, or other divine spellcaster. You may not select the evil domain unless your own alignment also contains an evil aspect.

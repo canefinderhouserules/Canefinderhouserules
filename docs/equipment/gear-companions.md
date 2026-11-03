@@ -3271,3 +3271,25 @@ Dwarves have long treasured bulettes for their thick hides and armor plating. In
 A set of bulette plate is functionally similar to metal full plate, but is prized by wealthy collectors and military commanders the world over, and tends to sell for up to 10 times more than a normal set. Bulette full plate is slightly heavier (65 pounds) than regular steel plate, but is more flexible and durable (max Dex bonus +2, hardness 12).
 
 A suit of bulette leather armor weighs 20 pounds, and its appearance matches the coloration of the landshark from which it was made. It sells for 50 gp, but has the same statistics as studded leather.
+
+## Distant Shores Gear
+
+### Litchina
+
+**Price** 100 gp; **Weight** 2 lbs.
+
+A litchina is a metal face mask sculpted to match a given warrior’s face, so that the enemy can never read any fear or pain in the warrior’s expression. Each warrior must earn his or her litchina in battle, and most of the steppe warriors who wear them would sooner fight naked than go without theirs.
+
+To be worn properly, a litchina must be attached to a helm or headpiece of some sort (usually via small hooks). While worn in this manner, it grants the wearer a +1 competence bonus to Intimidate. A magically enhanced litchina can count as occupying either the head, headband, or eyes slot (determined at the time of item creation).
+
+### Gastraphetes
+
+**Cost** 65 gp; **Weight** 12 lbs.; **Damage** 1d10 (small), 1d12 (medium); **Critical** 19–20/×2; **Range** 120 ft.; **Type** P; martial ranged.
+
+The gastraphetes, sometimes called a “belly bow,” is an oversized crossbow reloaded by pressing one end against the ground, the other against one’s abdomen, and locking the string in place through ratchet action. Reloading takes a full-round action, uses two hands, and requires that the wielder be standing. Wielding a gastraphetes requires two hands, and due to the weapon’s bulk, firing it while standing without support (such as a wall, a window, or a stand) imposes a –4 penalty on attack rolls; you take no penalty for firing a gastraphetes while prone. A Large or larger creature can use a gastraphetes one size smaller than itself without any support, but takes the normal penalty for firing an inappropriately sized weapon.
+
+### Phaleros
+
+**Cost** 5 gp; **Weight** 3 lbs.; **Damage** 1d4 (small), 1d6 (medium); **Critical** ×2; **Range** 20 ft.; **Type** P; martial ranged.
+
+A phaleros is a type of metal javelin that stores a splash weapon in a small cage between the haft and the spearhead. When a phaleros strikes its target, the spearhead compresses toward the haft and breaks the payload, showering the target with its contents as though you had struck the target’s square with the splash weapon. On a critical hit, you instead treat the target as though it had suffered a direct hit from the splash weapon. A phaleros is reusable, and reloading one with a splash weapon is a process that takes two rounds and provokes attacks of opportunity.
