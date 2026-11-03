@@ -101,6 +101,7 @@ Shamans gain access to the following spells. Spells in plain text come from othe
 - **[Skin Tag](skin-tag.md)**: Haunted food that lets you torment its eater from afar.
 - **[Sleep](sleep.md)**: Puts 4 HD of creatures into magical slumber.
 - Stone Shield
+- **[Spiked Armor](spiked-armor.md)**: A suit of metal armor or shield sprouts spikes that hurt natural attackers.
 - **[Spirit Call](spirit-call.md)**: Spirit and domain spells in the area are stronger.
 - **[Spirit Share](spirit-share.md)**: Deliver a drink or potion by touch
 - **[Tears to Wine](tears-to-wine.md)**: Turn liquids into wine that sharpens the mind.

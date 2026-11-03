@@ -53,6 +53,7 @@ The magus class spell list appears on the [Magus](../../characters/classes/magus
 - **[Shock Shield](shock-shield.md)**: A shield of force protects you until you dismiss it in an explosion of electricity.
 - **[Skim](skim.md)**: read in a quarter of the time
 - **[Snowball](snowball.md)**: Throw a conjured ball of snow at a target.
+- **[Spiked Armor](spiked-armor.md)**: A suit of metal armor or shield sprouts spikes that hurt natural attackers.
 - **[Swift Girding](swift-girding.md)**: Instantly clads willing targets in chosen armor.
 - **[Tamer’s Lash](tamers-lash.md)**: Create a whip made of sound that damages foes and can frighten animals.
 - **[Thunder Arrow](thunder-arrow.md)**: Electric arrow that attacks or signals.
@@ -242,6 +243,7 @@ The magus class spell list appears on the [Magus](../../characters/classes/magus
 - **[Runic Overload](runic-overload.md)**: Detonates magical runes with sonic force.
 - **[Sadomasochism](sadomasochism.md)**: Pain empowers your attacks and demoralizes attackers.
 - **[Shadow Invasion](shadow-invasion.md)**: Create an area of darkness that strengthens shadow spells and attracts kytons
+- **[Shield of Dawn](shield-of-dawn.md)**: A disk of sunlight burns those who strike you in melee.
 - **[Tail Current](tail-current.md)**: Create a current in water to enhance or impede swimming.
 - **[Tailwind](tailwind.md)**: Create a current of wind to enhance or impede flight.
 - **[Telekinetic Maneuver](telekinetic-maneuver.md)**: Perform a telekinetic combat maneuver.

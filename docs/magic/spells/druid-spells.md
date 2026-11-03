@@ -226,6 +226,7 @@
 - **[Summon Nature’s Ally II](summon-natures-ally-ii.md)**: Summons creature to fight.
 - **[Summon Swarm](summon-swarm.md)**: Summons swarm of bats, rats, or spiders.
 - **[Surefoot Boots](surefoot-boots.md)**: Footwear grants perfect balance.
+- **[Sympathetic Wounds](sympathetic-wounds.md)**: As *shield other*, but your wounds transfer to the target.
 - **[Tree Shape](tree-shape.md)**: You look exactly like a tree for 1 hour/level.
 - **[Venomous Bite](venomous-bite.md)**: Target's bite delivers a stored poison.
 - **[Vine Strike](vine-strike.md)**: Enhance one of your natural or unarmed attacks with thorny vine growth.
@@ -339,6 +340,7 @@
 - **[Virulent Miasma](virulent-miasma.md)**: Create a fog that weakens resistance to disease
 - **[Ward of the Season](ward-of-the-season.md)**: This spell harnesses the power of the seasons to protect the target and grant a number of bonuses.
 - **[Water Breathing](water-breathing.md)**: Subjects can breathe underwater.
+- **[Waters of Corruption](waters-of-corruption.md)**: Creates foul water that acts as unholy water and damages Intelligence and Dexterity.
 - **[Wind Wall](wind-wall.md)**: Deflects arrows, smaller creatures, and gases.
 - **[Wing Thorns](wing-thorns.md)**: Wings sprout poisonous thorns you can attack with.
 - **[Woodland Rune](woodland-rune.md)**: A rune sprouts entangling roots when enemies approach.
@@ -414,6 +416,7 @@
 - **[Summon Nature’s Ally IV](summon-natures-ally-iv.md)**: Summons creature to fight.
 - **[Sword to Snake](sword-to-snake.md)**: An item bites whoever handles it.
 - **[Thirsting Entanglement](thirsting-entanglement.md)**: As entangle, but the plants drain Constitution.
+- **[Traveling Dream](traveling-dream.md)**: You sleep while a dreamscryer shaped like you scouts unlimited distances.
 - **[Warp Metal](warp-metal.md)**: Permanently warps metal objects.
 - **[Watchful Animal](watchful-animal.md)**: Your animal companion or familiar becomes a scrying sensor.
 - **[Wooden Wing Shield](wooden-wing-shield.md)**: Your wings become a barrier granting a +4 shield bonus to AC.

@@ -119,6 +119,7 @@ New antipaladin spells from *Ultimate Magic*. Spells from other books will be ad
 - **[Vestment of the Champion](vestment-of-the-champion.md)**: Armor or shield gains a +1 enhancement per four levels.
 - **[Vine Strike](vine-strike.md)**: Enhance one of your natural or unarmed attacks with thorny vine growth.
 - **[Virulent Miasma](virulent-miasma.md)**: Create a fog that weakens resistance to disease
+- **[Waters of Corruption](waters-of-corruption.md)**: Creates foul water that acts as unholy water and damages Intelligence and Dexterity.
 - **[Widen Auras](widen-auras.md)**: Doubles the range of your antipaladin or paladin auras.
 
 ## 3rd-Level Antipaladin Spells

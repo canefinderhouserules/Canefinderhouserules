@@ -279,6 +279,7 @@
 - **[Redcap's Touch](redcaps-touch.md)**: A bloodied hat grants +2 damage and healing on kills.
 - **[Remove Radioactivity](remove-radioactivity.md)**: Cure radiation effects.
 - **[Sea Stallion](sea-stallion.md)**: You and your mount adapt to an aquatic environment.
+- **[Shield of Dawn](shield-of-dawn.md)**: A disk of sunlight burns those who strike you in melee.
 - **[Sickening Strikes](sickening-strikes.md)**: You are imbued with disease, and any creature you strike with a melee attack must make a Fortitude save or be.
 - **[Sturdy Tree Fort](sturdy-tree-fort.md)**: Create a tree with a defensive fort within it.
 - **[Substitute Trail](substitute-trail.md)**: Make the targets’ trails look like another creature’s.

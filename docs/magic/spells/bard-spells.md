@@ -536,6 +536,7 @@
 - **[Shadow Dragon Aspect](shadow-dragon-aspect.md)**: Become a quasi-real shadow dragon.
 - **[Shadow Jaunt](shadow-jaunt.md)**: Teleport between shadows, leaving an image behind
 - **[Shadowform](shadowform.md)**: foes that fail to disbelieve deal only one-fifth damage
+- **[Shield of Dawn](shield-of-dawn.md)**: A disk of sunlight burns those who strike you in melee.
 - **[Shocking Image](shocking-image.md)**: As mirror image, but the duplicates emit electrical damage when destroyed.
 - **[Shout](shout.md)**: Deafens all within cone and deals 5d6 sonic damage.
 - **[Sleepwalking Suggestion](sleepwalking-suggestion.md)**: Cause a creature to perform a suggested action while asleep.

@@ -74,12 +74,14 @@ New inquisitor spells from *Ultimate Magic*. Spells from other books will be add
 - **[Skim](skim.md)**: read in a quarter of the time
 - **[Speak Local Language](speak-local-language.md)**: Speak and understand one known regional human language.
 - **[Speechreader's Sight](speechreaders-sight.md)**: Read the lips of speakers within 100 ft.
+- **[Spiked Armor](spiked-armor.md)**: A suit of metal armor or shield sprouts spikes that hurt natural attackers.
 - **[Stalwart Resolve](stalwart-resolve.md)**: Ignore ability damage to one score.
 - **[Sure Casting](sure-casting.md)**: +5 caster level to overcome spell resistance with your next spell.
 - **[Theft Ward](theft-ward.md)**: You ward a single object in your possession against theft.
 - **[Thunder Arrow](thunder-arrow.md)**: Electric arrow that attacks or signals.
 - **[Touch of Combustion](touch-of-combustion.md)**: Your successful melee touch attack causes the target to ignite in a violent burst of flame, dealing 1d6.
 - **[True Appraisal](true-appraisal.md)**: Gain insight into the value of objects
+- **[Truthtelling](truthtelling.md)**: As *zone of truth*, but on one touched creature, who briefly looks like a being of perfect order.
 - **[Unerring Weapon](unerring-weapon.md)**: Grants a +2 bonus, +1 per four caster levels, on attack rolls to confirm a critical hit.
 - **[Unhallowed Blows](unhallowed-blows.md)**: Give undead a +1 enhancement bonus on one natural attack or unarmed strikes.
 - **[Velvet Diplomacy](velvet-diplomacy.md)**: Intimidate a target into friendliness and cloud its memory of the threats.

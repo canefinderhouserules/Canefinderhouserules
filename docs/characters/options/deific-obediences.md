@@ -173,7 +173,7 @@ Deities are listed by their portfolio rather than by name. Each entry gives the 
 
 ### Exalted Boons
 
-1. **Ordered Mien (Sp)**: *truthtelling* 3/day, *align weapon* (lawful only) 2/day, or *magic circle against chaos* 1/day
+1. **Ordered Mien (Sp)**: [*truthtelling*](../../magic/spells/truthtelling.md) 3/day, *align weapon* (lawful only) 2/day, or *magic circle against chaos* 1/day
 2. **Diplomatic Immunity (Ex)**: While within the bounds of a city of more than 5,000 inhabitants, you gain a +4 sacred or profane bonus on Bluff and Diplomacy checks. You also gain special status with the law. You’re considered a person to be respected, and may obtain special treatment and assistance that ordinary citizens could not, such as information on political activity, criminal investigations, or threats against the city. Any bribes or fees that would normally be levied by the legal system are waived for you. City guards and officials with an initial starting attitude of unfriendly or hostile instead have an attitude of indifferent toward you. These benefits apply only when you identify yourself as an exalted of your deity.
 3. **Scales of Balance (Su)**: Once per day as a full-round action, you can pool and redistribute your current hit points and those of all willing allies within 30 feet of you. Total your current hit points and those of your willing allies, and then decide how you wish to redistribute them among the same individuals. You cannot give an ally more hit points than her maximum, nor can you leave an ally with 0 hit points.
 

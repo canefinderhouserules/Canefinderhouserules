@@ -450,6 +450,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Vision of Hell](vision-of-hell.md)**: Illusory hellscape makes creatures shaken.
 - **[Voluminous Vocabulary](voluminous-vocabulary.md)**: Grant ability to speak, read, and write one or more languages for 8 hours.
 - **[Ward of the Season](ward-of-the-season.md)**: This spell harnesses the power of the seasons to protect the target and grant a number of bonuses.
+- **[Waters of Corruption](waters-of-corruption.md)**: Creates foul water that acts as unholy water and damages Intelligence and Dexterity.
 - **[Waves of Blood](waves-of-blood.md)**: A cone of blood pushes creatures, sickens them, and makes the ground slick.
 - **[Wing Thorns](wing-thorns.md)**: Wings sprout poisonous thorns you can attack with.
 - **[Witness](witness.md)**: See through the target’s eyes and ears.

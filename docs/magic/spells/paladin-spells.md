@@ -65,6 +65,7 @@
 - **[Tactical Acumen](tactical-acumen.md)**: You gain an additional +1 on attack rolls or to AC due to battlefield positioning.
 - **[Thunder Arrow](thunder-arrow.md)**: Electric arrow that attacks or signals.
 - **[Tracking Mark](tracking-mark.md)**: Easier to track a target.
+- **[Truthtelling](truthtelling.md)**: As *zone of truth*, but on one touched creature, who briefly looks like a being of perfect order.
 - **[Unwelcome Halo](unwelcome-halo.md)**: Target glows, losing concealment.
 - **[Veil of Heaven](veil-of-heaven.md)**: You surround yourself with a veil of positive energy, making it harder for evil outsiders to harm you.
 - **[Virtue](virtue.md)**: Subject gains 1 temporary hp.
@@ -224,6 +225,7 @@
 - **[Restoration](restoration.md)**: Restores level and ability score drains.
 - **[Sacred Nimbus](sacred-nimbus.md)**: Holy energy damages evil creatures that attack you and protects you from evil attacks.
 - **[Sea Stallion](sea-stallion.md)**: You and your mount adapt to an aquatic environment.
+- **[Shield of Dawn](shield-of-dawn.md)**: A disk of sunlight burns those who strike you in melee.
 - **[Speak with Soul](speak-with-soul.md)**: Hold an extended conversation with a soul
 
 ## Ultimate Magic Spells

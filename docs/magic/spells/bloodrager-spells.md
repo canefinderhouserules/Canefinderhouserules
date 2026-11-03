@@ -61,6 +61,7 @@ Bloodragers gain access to the following spells. Spells in plain text come from 
 - **[Shocking Grasp](shocking-grasp.md)**: Touch delivers 1d6/level electricity damage (max 5d6).
 - Shock Shield
 - **[Snowball](snowball.md)**: Throw a conjured ball of snow at a target.
+- **[Spiked Armor](spiked-armor.md)**: A suit of metal armor or shield sprouts spikes that hurt natural attackers.
 - **[Stone Fist](stone-fist.md)**: Your unarmed strikes are lethal.
 - Stone Shield
 - Strong Wings

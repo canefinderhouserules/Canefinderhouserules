@@ -127,6 +127,7 @@
 - **[Songbird](songbird.md)**: Conjure music from a good-aligned plane
 - **[Speak Local Language](speak-local-language.md)**: Speak and understand one known regional human language.
 - **[Speechreader's Sight](speechreaders-sight.md)**: Read the lips of speakers within 100 ft.
+- **[Spiked Armor](spiked-armor.md)**: A suit of metal armor or shield sprouts spikes that hurt natural attackers.
 - **[Spirit Share](spirit-share.md)**: Deliver a drink or potion by touch
 - **[Starsight](starsight.md)**: See the night sky clearly and gain stargazing bonuses.
 - **[Stone Shield](stone-shield.md)**: A 1-inch-thick slab of stone springs up from the ground, interposing itself between you and an opponent of.
@@ -140,6 +141,7 @@
 - **[Touch of Bloodletting](touch-of-bloodletting.md)**: Wounded target bleeds and is exhausted.
 - **[Tracking Mark](tracking-mark.md)**: Easier to track a target.
 - **[True Appraisal](true-appraisal.md)**: Gain insight into the value of objects
+- **[Truthtelling](truthtelling.md)**: As *zone of truth*, but on one touched creature, who briefly looks like a being of perfect order.
 - **[Unhallowed Blows](unhallowed-blows.md)**: Give undead a +1 enhancement bonus on one natural attack or unarmed strikes.
 - **[Unwelcome Halo](unwelcome-halo.md)**: Target glows, losing concealment.
 - **[Velvet Diplomacy](velvet-diplomacy.md)**: Intimidate a target into friendliness and cloud its memory of the threats.
@@ -302,6 +304,7 @@
 - **[Summon Monster II](summon-monster-ii.md)**: Summons extraplanar creature to fight for you.
 - **[Sun’s Disdain](suns-disdain.md)**: Target is hurt by sunlight.
 - **[Suppress Charms and Compulsions](suppress-charms-and-compulsions.md)**: Bolster or suppress charm and compulsion effects.
+- **[Sympathetic Wounds](sympathetic-wounds.md)**: As *shield other*, but your wounds transfer to the target.
 - **[Tears to Wine](tears-to-wine.md)**: Turn liquids into wine that sharpens the mind.
 - **[Thunder Arrow](thunder-arrow.md)**: Electric arrow that attacks or signals.
 - **[Touch of Mercy](touch-of-mercy.md)**: Target deals only nonlethal damage with weapon attacks.
@@ -464,6 +467,7 @@
 - **[Wall of Split Illumination](wall-of-split-illumination.md)**: a wall that is bright on one side and dark on the other
 - **[Water Breathing](water-breathing.md)**: Subjects can breathe underwater.
 - **[Water Walk](water-walk.md)**: Subject treads on water as if solid.
+- **[Waters of Corruption](waters-of-corruption.md)**: Creates foul water that acts as unholy water and damages Intelligence and Dexterity.
 - **[Wind Wall](wind-wall.md)**: Deflects arrows, smaller creatures, and gases.
 
 ## 4th-Level Cleric Spells
@@ -559,6 +563,7 @@
 - **[Seek Shelter](seek-shelter.md)**: Weak creatures flee to safety in an orderly fashion.
 - **[Sending](sending.md)**: Delivers short message anywhere, instantly.
 - **[Shadow Barbs](shadow-barbs.md)**: Shadowy vicious spiked chain that radiates darkness.
+- **[Shield of Dawn](shield-of-dawn.md)**: A disk of sunlight burns those who strike you in melee.
 - **[Shield Speech, Greater](shield-speech-greater.md)**: Creatures within 30 ft. talk without being overheard.
 - **[Speak with Plane](speak-with-plane.md)**: Question a sentient plane.
 - **[Spell Immunity](spell-immunity.md)**: Subject is immune to one spell per 4 levels.
@@ -575,6 +580,7 @@
 - **[Tongues](tongues.md)**: Speak and understand any language.
 - **[Torpid Reanimation](torpid-reanimation.md)**: *Animate dead* when a specific trigger condition occurs.
 - **[Transplant Visage](transplant-visage.md)**: Wear a stolen face for +10 on Disguise.
+- **[Traveling Dream](traveling-dream.md)**: You sleep while a dreamscryer shaped like you scouts unlimited distances.
 - **[Umbral Infusion](umbral-infusion.md)**: a mindless undead gains the advanced template but may go out of control
 - **[Undeath Inversion](undeath-inversion.md)**: Undead is harmed by negative energy and healed by positive
 - **[Unholy Blight](unholy-blight.md)**: Harms and sickens good creatures (1d8 damage/2 levels).

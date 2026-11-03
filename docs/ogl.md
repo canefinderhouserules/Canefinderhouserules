@@ -361,3 +361,5 @@ The following text is the property of Wizards of the Coast, Inc. and is Copyrigh
     Pathfinder Adventure Path #144: Midwives to Death © 2019, Paizo Inc.; Author: John Compton.
 
     Pathfinder Chronicles: Faction Guide © 2010, Paizo Publishing, LLC; Authors: Joshua J. Frost, Jason Nelson, and Sean K Reynolds.
+
+    Pathfinder Chronicles: Gods and Magic. Copyright 2008, Paizo Publishing, LLC; Author: Sean K Reynolds.
