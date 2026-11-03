@@ -104,7 +104,7 @@ Demon lords are listed by their portfolio rather than by name. These obediences 
 ### Evangelist Boons
 
 1. **Swamp Secrets (Sp)**: *obscuring mist* 3/day, *tree shape* 2/day, or *lily pad stride* 1/day
-2. **Murky Gaze (Sp and Su)**: your demon lord has many eyes, and nothing escapes her glare. Your eyes take on a pale green-blue hue as you are granted a fraction of the power of her murky gaze. You gain a +2 bonus on Perception checks and can see through fog and mist as though they weren’t there. While in swamp terrain, you ignore concealment and cover (including total cover) from vegetation and water. In addition, once per day when in swamp terrain, you can cast *true seeing* as a spell-like ability.
+2. **Murky Gaze (Sp and Su)**: Your demon lord has many eyes, and nothing escapes her glare. Your eyes take on a pale green-blue hue as you are granted a fraction of the power of her murky gaze. You gain a +2 bonus on Perception checks and can see through fog and mist as though they weren’t there. While in swamp terrain, you ignore concealment and cover (including total cover) from vegetation and water. In addition, once per day when in swamp terrain, you can cast *true seeing* as a spell-like ability.
 3. **Fen Witchcraft (Sp or Su)**: As one of your demon lord’s most powerful worshipers, you have been granted access to some of the most sinister powers of her faith. You are constantly under the effects of *freedom of movement*. In addition, once per day as a standard action, you can activate a drowning aura. Creatures within 30 feet of you must succeed at a Will save each round (DC = 10 + half your Hit Dice + your Constitution modifier) or be unable to speak or breathe. A creature can still hold its breath, but the aura saps held breath as well—a creature in the aura can hold its breath only for a number of rounds equal to its Constitution modifier before running out of air. Worshipers of your demon lord and creatures that don’t breathe air are unaffected by this aura. Once activated, your drowning aura persists for 1 round per Hit Die.
 
 ### Exalted Boons
@@ -368,7 +368,7 @@ Demon lords are listed by their portfolio rather than by name. These obediences 
 ### Sentinel Boons
 
 1. **Tormentor’s Invocation (Sp)**: *ill omen* 3/day, *blindness/deafness* 2/day, or *pain strike* 1/day
-2. **Widow’s Cruelty (Ex or Su)**: your demon lord grants you a form meant to beguile and slay, as well as the power to join a witch coven. You count as a hag for the purpose of forming a coven. In addition, your nails become razor sharp, granting you two natural claw attacks that deal damage appropriate to your size (1d4 for a Medium creature). If you already had claw attacks, those attacks deal damage as though you were one size larger instead. You become female (if you weren’t already) and physically attractive; depending on how drastic the changes are, you may or may not still be recognizable as your former self. Hags do not become physically attractive in this way.
+2. **Widow’s Cruelty (Ex or Su)**: Your demon lord grants you a form meant to beguile and slay, as well as the power to join a witch coven. You count as a hag for the purpose of forming a coven. In addition, your nails become razor sharp, granting you two natural claw attacks that deal damage appropriate to your size (1d4 for a Medium creature). If you already had claw attacks, those attacks deal damage as though you were one size larger instead. You become female (if you weren’t already) and physically attractive; depending on how drastic the changes are, you may or may not still be recognizable as your former self. Hags do not become physically attractive in this way.
 3. **Maiming Strike (Su)**: With a single ripping claw, you destroy a creature’s virility and wreck its physical and magical potency. Three times per day, you can make a single claw attack as a standard action. In addition to taking normal claw damage, the creature struck must succeed at a Fortitude save (DC = 10 + half your Hit Dice + your Strength or Dexterity modifier, whichever is higher) or become permanently mutilated in a physical and spiritual way. The victim takes a –6 penalty to its Strength, Dexterity, or Constitution score (chosen by you) and on caster level checks, concentration checks, and spell penetration checks. The victim can no longer sire or birth children. This is a curse effect.
 
 ## Demon lord of death, necromancy and wrath
@@ -440,7 +440,7 @@ Demon lords are listed by their portfolio rather than by name. These obediences 
 ### Evangelist Boons
 
 1. **Sun’s Wrath (Sp)**: *burning hands* 3/day, *flaming sphere* 2/day, or *searing light* 1/day
-2. **High Noon (Su)**: your demon lord’s guidance sharpens your aim and steadies your hand, allowing you to make otherwise impossible attacks. Three times per day as a move action, you can use this power to improve the next melee or ranged attack you make during your turn; if you are in an area of bright light, you can instead use this ability as a swift action. For the purpose of this enhanced attack, you are treated as if you had true seeing against the target. If the target of the attack is within 30 feet, your enhanced attack targets the creature’s touch AC. If this attack is made using a firearm, the result is never a misfire, regardless of the attack roll. If the attack threatens a critical hit, the critical threat is automatically confirmed. Any attack that hits threatens a critical hit that must be confirmed as normal. If you hit the target and deal damage, the creature must attempt a Fortitude save (DC = 10 + half your Hit Dice + your Strength modifier) or be staggered for 1d3 rounds.
+2. **High Noon (Su)**: Your demon lord’s guidance sharpens your aim and steadies your hand, allowing you to make otherwise impossible attacks. Three times per day as a move action, you can use this power to improve the next melee or ranged attack you make during your turn; if you are in an area of bright light, you can instead use this ability as a swift action. For the purpose of this enhanced attack, you are treated as if you had true seeing against the target. If the target of the attack is within 30 feet, your enhanced attack targets the creature’s touch AC. If this attack is made using a firearm, the result is never a misfire, regardless of the attack roll. If the attack threatens a critical hit, the critical threat is automatically confirmed. Any attack that hits threatens a critical hit that must be confirmed as normal. If you hit the target and deal damage, the creature must attempt a Fortitude save (DC = 10 + half your Hit Dice + your Strength modifier) or be staggered for 1d3 rounds.
 3. **Solar Weaponry (Sp)**: You strike with the power of the sun, channeling its deadly light through your weapons. As a swift action up to three times per day, you can transform your weapon into raw energy for 3 rounds, giving it the qualities of a *brilliant energy* weapon. Any creature struck by your weapon must succeed at a Fortitude saving throw (DC = 10 + half your Hit Dice + your Charisma modifier) or be permanently blinded. Unlike normal *brilliant energy* weapons, this weapon is made of pure sunlight and can harm undead creatures normally. Against undead foes that are particularly vulnerable to sun, the weapon also functions as a *disrupting* weapon.
 
 ### Exalted Boons
@@ -536,7 +536,7 @@ Demon lords are listed by their portfolio rather than by name. These obediences 
 ### Sentinel Boons
 
 1. **Gifts of Slaughter (Sp)**: *divine favor* 3/day, *instrument of agony* 2/day, or *haste* 1/day
-2. **Unholy Butcher (Su)**: your demon lord grants you a blessing when you use your gifts to spread death and murder. As a swift action, you can imbue a natural weapon you have or a manufactured weapon you wield with the *vicious* special ability for 1 round. During this round, whenever you take the 1d6 points of damage from using a *vicious* weapon (whether it’s one you created with this ability or otherwise), you gain a profane bonus to Armor Class and saving throws equal to the amount of damage taken until the start of your turn in the next round. This bonus does not stack with itself if you use a vicious weapon multiple times in a round, but a higher roll can increase the bonus gained. You can use this ability a number of rounds per day equal to your Hit Dice, but these rounds need not be consecutive.
+2. **Unholy Butcher (Su)**: Your demon lord grants you a blessing when you use your gifts to spread death and murder. As a swift action, you can imbue a natural weapon you have or a manufactured weapon you wield with the *vicious* special ability for 1 round. During this round, whenever you take the 1d6 points of damage from using a *vicious* weapon (whether it’s one you created with this ability or otherwise), you gain a profane bonus to Armor Class and saving throws equal to the amount of damage taken until the start of your turn in the next round. This bonus does not stack with itself if you use a vicious weapon multiple times in a round, but a higher roll can increase the bonus gained. You can use this ability a number of rounds per day equal to your Hit Dice, but these rounds need not be consecutive.
 3. **Bloodbath (Su)**: You wield daggers like paintbrushes, crafting an exquisite masterpiece of blood and gore with every surgical stroke. Whenever you use a dagger to deal damage to a creature, you also deal bleed damage equal to your Charisma modifier. This bleed damage stacks with bleed damage you have from other abilities. Whenever a creature within 15 feet of you takes bleed damage from a wound you inflict, the blood flows to you and into your wounds, healing you for an number of hit points equal to the bleed damage taken this way.
 
 ## Demon lord of fire, salamanders and volcanoes
@@ -552,7 +552,7 @@ Demon lords are listed by their portfolio rather than by name. These obediences 
 ### Evangelist Boons
 
 1. **Salamander Magic (Sp)**: *magic weapon* 3/day, *pyrotechnics* 2/day, or *protection from energy* (fire only) 1/day
-2. **Servants of your demon lord’s volcanic realm (Sp)**: your demon lord is served by a wide range of burning demons and fiery fiends, and as one of his favored, you have the power to call upon the aid of the servants of your demon lord’s volcanic realm. Once per day as a standard action, you can summon two advanced salamanders or two advanced brimorak demons as though using *summon monster VII*.
+2. **Servants of your demon lord’s volcanic realm (Sp)**: Your demon lord is served by a wide range of burning demons and fiery fiends, and as one of his favored, you have the power to call upon the aid of the servants of your demon lord’s volcanic realm. Once per day as a standard action, you can summon two advanced salamanders or two advanced brimorak demons as though using *summon monster VII*.
 3. **Salamander’s Heart (Su)**: Although they dwell in the Plane of Fire, salamanders have long ranked among your demon lord’s favorite minions he sends to impose his will upon realms beyond the Abyss. As one of his chosen few, you can take on aspects of this favored race. Your skin turns a deep crimson, and your body emanates intense heat. You gain the fire subtype and DR 10/magic. Your touch and any metallic weapons you wield deal 1d6 points of fire damage, but your equipment is not damaged by this effect. At will, as a standard action you can transform your legs into a salamander-like tail or back again. This tail reduces your base speed by 10 feet, to a minimum of 20 feet, but grants you a tail slap natural attack (dealing 2d6 points of damage for a Medium creature) with reach 5 feet greater than your natural reach. You also gain the grab and constrict special attacks; your constrict damage is equal to your tail slap damage plus 1-1/2 times your Strength modifier.
 
 ### Exalted Boons
@@ -665,7 +665,7 @@ Demon lords are listed by their portfolio rather than by name. These obediences 
 
 1. **Twisted Riddles (Sp)**: *fumbletongue* 3/day, *fox’s cunning* 2/day, or *illusory script* 1/day
 2. **Maddening Enigma (Sp)**: Through your faith in your demon lord, you are granted knowledge of three unsolvable riddles. Three times per day as a standard action, you can speak one of these riddles, though the riddles must be spoken in order. When spoken to a creature within 30 feet, the first unsolvable riddle you use in a day paralyzes the target as it searches for the answer; the creature must succeed at a Will save (DC = half your Hit Dice + your Charisma modifier) or be affected by *hold monster*. The second unsolvable riddle is filled with subliminal messages; up to one creature for every 3 Hit Dice you have within 30 feet must succeed at a Will save (at the same DC as above) or be affected by a *suggestion* spell (with a suggestion of your choosing). The third unsolvable riddle uses such circuitous and warped logic that it shatters listeners’ sanity; each creature within 60 feet must succeed at a Will save (using the same DC) or become *confused*. Worshipers of your demon lord are immune to these effects.
-3. **Faceless Mystery (Su)**: your demon lord’s form is the most sacred of shapes, and as one of her favored minions, you can adopt a similar form as your own. You gain the change shape universal monster ability, allowing you to assume the form of a sphinx as per *beast shape IV*. In sphinx form, your face is eerily devoid of features (although they appear when you need them to eat, speak, make bite attacks, cast spells, and so on), and you gain blindsight to a range of 60 feet. You can activate this ability only once per day, but the new form lasts indefinitely. However, if you lose access to this boon by failing to perform your obedience, you cannot change forms or return to your true form until you perform the obedience again or the effect ends.
+3. **Faceless Mystery (Su)**: Your demon lord’s form is the most sacred of shapes, and as one of her favored minions, you can adopt a similar form as your own. You gain the change shape universal monster ability, allowing you to assume the form of a sphinx as per *beast shape IV*. In sphinx form, your face is eerily devoid of features (although they appear when you need them to eat, speak, make bite attacks, cast spells, and so on), and you gain blindsight to a range of 60 feet. You can activate this ability only once per day, but the new form lasts indefinitely. However, if you lose access to this boon by failing to perform your obedience, you cannot change forms or return to your true form until you perform the obedience again or the effect ends.
 
 ### Exalted Boons
 
@@ -720,7 +720,7 @@ Demon lords are listed by their portfolio rather than by name. These obediences 
 ### Evangelist Boons
 
 1. **Storm’s Wrath (Sp)**: *shocking grasp* 3/day, *aggressive thundercloud* 2/day, or *lightning bolt* 1/day
-2. **Tempest Hide (Ex)**: your demon lord rewards your devotion by transforming your skin into leathery rust-red hide (if you already have fur, hide, or scales on your body, the coloration merely changes). As a result of this transformation, you gain electricity resistance 30. If you are already immune to electricity (or if you gain immunity to electricity at a point after you gain this boon), you gain sonic resistance 30 instead. In either case, the gift allows you to enjoy the fury of the greatest of storms in relative safety.
+2. **Tempest Hide (Ex)**: Your demon lord rewards your devotion by transforming your skin into leathery rust-red hide (if you already have fur, hide, or scales on your body, the coloration merely changes). As a result of this transformation, you gain electricity resistance 30. If you are already immune to electricity (or if you gain immunity to electricity at a point after you gain this boon), you gain sonic resistance 30 instead. In either case, the gift allows you to enjoy the fury of the greatest of storms in relative safety.
 3. **Storm of the Troll Lord (Su)**: You can unleash the power of your demon lord with your voice, channeling the raw fury of his eternally tempest-tormented realm in a thunderous shout. With a mighty roar, you blast those around you with deadly storms of Abyssal energy. Twice per day as a standard action, you can exude waves of energy in a 30-foot-radius burst centered on yourself. The blast does not harm natural vegetation or creatures in the area you wish to exclude from damage. Other creatures in the area take 1d8 points of acid, cold, electricity, or fire damage per character level you have (maximum 20d8) and are stunned for 1 round. You choose what type of energy damage this ability deals when you activate your storm (all targets take the same type of energy damage; you can’t cause one target to take fire damage and another to take acid damage). A creature that succeeds at a Fortitude saving throw (DC = 10 + half your Hit Dice + your Charisma modifier) takes half damage and negates the stunned effect.
 
 ### Exalted Boons
@@ -846,3 +846,87 @@ Demon lords are listed by their portfolio rather than by name. These obediences 
 1. **Master of Air (Sp)**: *feather fall* 3/day, *gust of wind* 2/day, or *wind wall* 1/day
 2. **The Wind, My Shield (Su)**: A cylinder of swirling wind constantly surrounds you, an effect you can dismiss or reactivate as a free action. While this effect is active, you gain a +4 deflection bonus to Armor Class, and all ranged attacks against you suffer a 50% miss chance. These supernatural winds can even deflect ranged touch spell effects (such as rays) and massive ranged weapons such as ballista bolts or thrown boulders. As a standard action, you can also direct these winds to assail a creature within 30 feet; this acts as a bull rush or trip attempt, using your Constitution modifier in place of your Strength modifier. You can maintain this wind shield for a number of rounds per day equal to your Hit Dice, but these rounds need not be consecutive.
 3. **Champion of the Winds (Sp)**: Your demon lord grants you mastery over the power of the winds. You can cast *winds of vengeance* as a spell-like ability once per day.
+
+## Nascent demon lord of angry mobs and ants
+
+**Obedience**: Meditate while within a swarm of ants. Gain a +4 profane bonus on saves against charm effects.
+
+### Demoniac Boons
+
+1. **First Boon (Sp)**: *enthrall* 1/day
+2. **Second Boon (Sp)**: *giant vermin* 1/day
+3. **Third Boon (Sp)**: *mass suggestion* 1/day
+
+## Nascent demon lord of blizzards and the frozen dead
+
+**Obedience**: Meditate while carving complex runes into the flesh of a frozen creature, or while naked in freezing environs.
+
+### Demoniac Boons
+
+1. **First Boon (Sp)**: *chill metal* 1/day
+2. **Second Boon (Sp)**: *ice storm* 1/day
+3. **Third Boon (Sp)**: *freezing sphere* 1/day
+
+## Nascent demon lord of botched executions and pits
+
+**Obedience**: Perform a series of cuts upon the flesh while periodically auto-asphyxiating. Gain a +4 profane bonus on all effects linked to slashing damage.
+
+### Demoniac Boons
+
+1. **First Boon (Sp)**: *spiritual weapon* 1/day
+2. **Second Boon (Sp)**: *phantasmal killer* 1/day
+3. **Third Boon (Sp)**: *harm* 1/day
+
+## Nascent demon lord of carrion and scavengers
+
+**Obedience**: Eat at least a pound of carrion. Gain a +4 profane bonus on saves against disease.
+
+### Demoniac Boons
+
+1. **First Boon (Sp)**: *death knell* 1/day
+2. **Second Boon (Sp)**: *contagion* 1/day
+3. **Third Boon (Sp)**: *beast shape IV* 1/day
+
+## Nascent demon lord of corruption of nature and pollution
+
+**Obedience**: Feast on rotting flesh infested with hallucinogenic or poisonous fungus, then meditate upon the harrowing visions they provide.
+
+## Nascent demon lord of grave robbing and necrophilia
+
+**Obedience**: Engage in acts of necrophilia. Gain a +4 profane bonus on saves against negative energy effects.
+
+### Demoniac Boons
+
+1. **First Boon (Sp)**: *command undead* 1/day
+2. **Second Boon (Sp)**: *animate dead* 1/day
+3. **Third Boon (Sp)**: *move earth* 1/day
+
+## Nascent demon lord of lost dreams and seduction of the pure
+
+**Obedience**: Engage in sexual acts (either alone or with a partner) in the presence of a sleeping intelligent creature without waking that creature. Gain a +4 profane bonus on saves against charm effects.
+
+### Demoniac Boons
+
+1. **First Boon (Sp)**: *alter self* 1/day
+2. **Second Boon (Sp)**: *fire shield* 1/day
+3. **Third Boon (Sp)**: *mass suggestion* 1/day
+
+## Nascent demon lord of rats and sewers
+
+**Obedience**: Meditate while floating in sewage or similar filth. Gain a +4 profane bonus on saves against disease.
+
+### Demoniac Boons
+
+1. **First Boon (Sp)**: *summon swarm* 1/day
+2. **Second Boon (Sp)**: *beast shape II* 1/day
+3. **Third Boon (Sp)**: *control water* 1/day
+
+## Nascent demon lord of sharks and shipwrecks
+
+**Obedience**: Allow a shark to bite you and then focus on the pain while floating in seawater. Gain a +4 profane bonus on saves against fear-based effects.
+
+### Demoniac Boons
+
+1. **First Boon (Sp)**: *wood shape* 1/day
+2. **Second Boon (Sp)**: *summon monster IV* (1d3 sharks only) 1/day
+3. **Third Boon (Sp)**: *beast shape IV* (sharks only) 1/day

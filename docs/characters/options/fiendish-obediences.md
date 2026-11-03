@@ -183,6 +183,210 @@ Fiends are listed by their portfolio rather than by name. These obediences are m
 2. **Crushing Coils (Sp)**: Although it is often contemplative, your archdevil relishes visiting a hellish and mighty wrath upon those liars and sinners who have earned its ire, particularly the damned souls that writhe in the swamps of Hell. As its worshiper, you are more than happy to further your archdevil’s dark work. Once per day, you can cast *vortex* as spell-like ability.
 3. **Three-Headed Serpent (Su)**: For a number of minutes equal to your Hit Dice, you become a Large version of yourself, with powerful coils sprouting in place of your feet. This increases your base speed by 30 feet. Additionally, you can use your coils to form a cage for your enemies. When you successfully grapple a creature, you can transfer that creature into your coils; this works like the swallow whole universal monster ability. Your coils have AC 17 and 18 hp when an entrapped creature attempts to cut itself free. Your coils heal quickly while this ability is in effect, allowing you to transfer another (or the same) creature into your coils 1 round after a creature cuts itself free. Activating three-headed serpent is a standard action, and dismissing it is a free action. This effect’s duration need not be used all at once, but it must be used in 1-minute increments.
 
+## Horseman of death
+
+**Obedience**: Meditate upon your infirmities and the slow, inevitable progression of physical and mental decay inherent to the ravages of time. Mimic this progression by immersing yourself or a victim in icy water until nearly unconscious, or by consuming alcohol or drugs that dull memory and mental faculties. Gain a +4 profane bonus on saving throws against necromancy and negative energy effects.
+
+### Evangelist Boons
+
+1. **Death’s Blessing (Sp)**: *memory lapse* 3/day, *catatonia* 2/day, or *create soul gem* 1/day
+2. **Soul Crush (Su)**: As a standard action, you can crush a soul gem (such as one you create via *create soul gem* or one created by a cacodaemon) to gain fast healing 15 for a number of rounds equal to your Hit Dice. This action condemns the crushed soul to Abaddon; resurrecting this victim requires a successful DC 28 caster level check.
+3. **Death’s Clutches (Sp)**: You can use *soul bind* as a spell-like ability once per day.
+
+### Exalted Boons
+
+1. **Death’s Grace (Sp)**: *ray of enfeeblement* 3/day, *death knell* 2/day, or *sands of time* 1/day
+2. **Hunger of the River of Death (Su)**: By channeling the memory-sapping ability of the river of death, you can stun foes with a sudden but temporary loss of all memory. You can use this ability three times per day, activating it as a swift action when you strike a foe in combat with a melee weapon. The creature struck is stunned for 1 round and then staggered for an additional 1d4+1 rounds if it fails a Will save (DC = 10 + half your Hit Dice + your Charisma modifier). On a successful save, the creature is instead staggered for 1 round. This is a mind-affecting effect.
+3. **Grasp of the River of Death (Sp)**: Once per day as a standard action, you can call upon the waters of the river of death to bubble up and manifest as an immense, skeletal talon of mud and black water. This effect duplicates the effects of *grasping hand*, except any creature that is grappled by the hand must also succeed at a Fortitude save against the spell or gain 1 negative level.
+
+### Sentinel Boons
+
+1. **Death’s Crusader (Sp)**: *mount* 3/day, *wartrain mount* 2/day, or *phantom steed* 1/day
+2. **On a Pale Horse (Su)**: You gain the ability to invoke the power of the Pale Horse. As a swift action, you cause a flickering image of the Pale Horse to appear in a 10-foot square adjacent to you. It then moves up to 120 feet as you mentally direct its movement (doing so is a move action that requires concentration). The image of the Pale Horse ignores difficult terrain and can walk over water or other surfaces that would normally not bear a creature’s weight, but it cannot fly. Any creature whose space the image of the Pale Horse passes through must succeed at a Fortitude save or take a –6 penalty to Strength, Dexterity, and Constitution, as if it had suddenly aged to become venerable. Creatures (like dragons) that normally gain benefits from aging do not gain any benefits, and they instead take the ability score penalties described above. These penalties do not stack with themselves or with existing penalties from aging. A creature can resist the effects of the Pale Horse with a successful Fortitude save (DC = 10 + half your Hit Dice + your Charisma modifier). A creature can be affected by the Pale Horse only once per round, regardless of how many times the Pale Horse moves through its space. This is an aging curse effect.
+3. **Death’s Call (Sp)**: Once per day, you can call upon your horseman’s power to wither your enemies into dust. This ability functions as *wail of the banshee*, except it lacks a sonic component.
+
+## Horseman of famine
+
+**Obedience**: Abstain from eating or drinking until you experience the bitter pangs of hunger. Meditate in this state for just under an hour, and then gorge yourself upon any available substance regardless of its suitability as food, such as sand, ashes, or flesh. Gain a +4 profane bonus on saving throws against effects that cause exhaustion, fatigue, nausea, or sickness.
+
+### Evangelist Boons
+
+1. **Jackal’s Blessing (Sp)**: *memory lapse* 3/day, *false life* 2/day, or *vampiric touch* 1/day
+2. **Unending Whispers (Sp)**: You can cast *insanity* once per day as a spell-like ability.
+3. **Kiss of the Parasite Prince (Su)**: You can make a touch attack to infect another creature with a fragment of your soul. The target can resist the attack with a successful Will save (DC = 10 + half your Hit Dice + your Charisma modifier). Otherwise, while you and the target are on the same plane, as a free action you can observe what your target perceives with its senses. Once per day as a standard action, you can directly control the target’s actions for 1 round plus a number of additional rounds equal to your Charisma bonus. The affected creature retains no memory of your controlling influence or its actions while controlled. This is a curse effect. You can have only one target affected by your kiss at a time; if you target another creature, the first is no longer affected.
+
+### Exalted Boons
+
+1. **Jackal’s Grace (Sp)**: *ray of enfeeblement* 3/day, *feast of ashes* 2/day, or *cup of dust* 1/day
+2. **Unending Hunger (Su)**: Once per day as a standard action, you can consume any nonliving substance without ill effect. The size of the object consumed can be no larger than a creature of your own size category, but regardless of the size, consuming the object takes only 1 round. A body consumed in this way can be restored to life only via *miracle*, *true resurrection*, or *wish*. Any object you consume can attempt a Fortitude save (DC = 10 + half your Hit Dice + your Constitution modifier) to avoid being destroyed.
+3. **Withering Invocation (Sp)**: Once per day, you can invoke your horseman’s unending hunger to cause a number of victims to consume themselves from the inside out. You can cast *implosion* once per day as a spell-like ability.
+
+### Sentinel Boons
+
+1. **Famine’s Crusader (Sp)**: *mount* 3/day, *wartrain mount* 2/day, or *phantom steed* 1/day
+2. **Consumptive Aura (Su)**: As a swift action, you can radiate an aura of hunger to a radius of 20 feet. Once you activate this ability, you can maintain it each round as a free action. You can use this ability for a number of rounds per day equal to your Hit Dice; these rounds need not be consecutive, but they must be used in 1-round increments. Each round a creature begins its turn within this aura, it must succeed at a Fortitude save (DC = 10 + half your Hit Dice + your Charisma modifier) or take 1d6 points of nonlethal damage and become fatigued from extreme hunger. Creatures that don’t need to eat are immune to this effect. You are immune to this effect, and although you still feel hunger pangs, you no longer take damage nor are otherwise inconvenienced by the effects of starvation.
+3. **Eruptive Arrival (Sp)**: Once per day, you can teleport yourself into the flesh of any living creature that you can see (as per *greater teleport*), erupting out of its body in a shower of blood, bone, and viscera, arriving in an adjacent square, and dealing 5d6 damage to all creatures within 10 feet. The target itself takes 20d6 points of damage. The target and creatures in the affected areas can attempt Fortitude saves (DC = 10 + half your Hit Dice + your Constitution bonus) to reduce the damage by half, but any creature that fails this saving throw is also nauseated for 1d4 rounds.
+
+## Horseman of pestilence
+
+**Obedience**: Induce the spread of disease into a population, either by befouling a well, encouraging the fecundity of disease-carrying pests, handing out contaminated clothing, or directly spreading a disease you carry to others. Gain a +4 profane bonus on saving throws against diseases and poisons.
+
+### Evangelist Boons
+
+1. **Plague’s Blessing (Sp)**: *ray of sickening* 3/day, *blindness/deafness* 2/day, or *contagion* 1/day
+2. **Plague Breath (Sp)**: You can cast *plague storm* twice per day as a spell-like ability.
+3. **Fallow Flesh (Ex)**: Infused with your horseman’s grace, you are immune to the negative effects of disease, yet you can still carry diseases in your body and infect others with them. Disease effects you create take effect at once, with the first day of damage happening immediately; the disease then progresses as normal. The saving throw DCs of disease effects you generate increase by 1, and victims can’t recover from those effects naturally through rest; only magic can cure the diseases you create (although those who contract a disease from someone you infect treat the disease as normal). Any creature that is immune to disease as a result of a class feature or a nonartifact magic item is not immune to disease effects you create, but it gains a +4 bonus on its saving throw to resist the disease. Any creature that is immune to disease via a racial feature or as a feature of its creature type remains immune to your diseases.
+
+### Exalted Boons
+
+1. **Plague’s Grace (Sp)**: *diagnose disease* 3/day, *summon swarm* 2/day, or *vermin shape I* 1/day
+2. **Breath of Flies (Su)**: Once per minute as a standard action (up to three times a day), you can exhale a cloud of biting, corpse-bloated black flies in a 20-foot cone. Creatures caught in the cone take 8d6 points of slashing damage. A victim can reduce this damage by half with a successful Reflex save (DC = 10 + half your Hit Dice + your Constitution modifier), but any creature that takes any damage at all from this effect is sickened for 1 minute. The cloud of flies lingers for 1d4+1 rounds, congealing into a buzzing, 20-foot-square cloud centered on the cone’s original point of origin. A creature that ends its turn in this cloud must succeed at a Reflex save or take 4d6 points of slashing damage and be sickened for 1 minute. Any area effect that deals damage or creates strong or stronger wind disperses this cloud. You are immune to the effects of these flies, as are all daemons.
+3. **Flood of Vermin (Sp)**: You can cast empowered *creeping doom* as a spell-like ability once per day. You are immune to swarm attacks.
+
+### Sentinel Boons
+
+1. **Plague’s Crusader (Sp)**: *mount* 3/day, *wartrain mount* 2/day, or *phantom steed* 1/day
+2. **Contagious Strike (Sp)**: Up to three times per day as a swift action, you can cause a creature damaged by a ranged or melee weapon you wield to become affected by *contagion*.
+3. **Usher of Pestilence (Su)**: As a swift action, you can summon into your hands either a *+4 unholy wounding scythe* or a *+4 adaptive distance unholy longbow*, lasting for a number of rounds equal to your Hit Dice + your Constitution modifier. This weapon vanishes if you release it, and the rounds of use need not be consecutive.
+
+## Horseman of war
+
+**Obedience**: Select a target or multiple targets of your wrath, studying them for a time before either slaying them in open combat with multiple witnesses or crucifying your enemies in effigy in a public venue. Gain a +4 profane bonus on saving throws against fire-based effects.
+
+### Evangelist Boons
+
+1. **Seraph’s Blessing (Sp)**: *charm person* 3/day, *tactical acumen* 2/day, or *suggestion* 1/day
+2. **Swift Fires of War (Sp)**: You can cast quickened *haste* once per day as a spell-like ability.
+3. **Horseman’s Command (Sp)**: Once per day, you can invoke your horseman’s fury, exhorting every creature within 30 feet to fly into a rage and attack your enemies. This functions as a quickened *song of discord*.
+
+### Exalted Boons
+
+1. **Seraph’s Grace (Sp)**: *moment of greatness* 3/day, *burning gaze* 2/day, or *fireball* 1/day
+2. **Pyre’s Touch (Ex)**: You gain fire resistance 30 (this stacks with any other natural fire resistance you have).
+3. **Punishment of the Forsaken (Sp)**: Once per day as a standard action, you call down your horseman’s wrath upon a single target. This ability acts as *implosion*, but the victim is drawn into the air, held cruciform, and then torn apart by an invisible force.
+
+### Sentinel Boons
+
+1. **War’s Crusader (Sp)**: *mount* 3/day, *wartrain mount* 2/day, or *phantom steed* 1/day
+2. **Weapon Lore (Su)**: You are proficient with all weapons, but you are particularly gifted with swords. You gain a +2 profane bonus on attack and damage rolls with swords; this bonus becomes +4 when you wield a greatsword.
+3. **Avatar of the Seraph (Su)**: You gain a +2 profane bonus to Strength and Constitution.
+
+## Queen of battle, revenge and wrath
+
+**Obedience**: Sharpen a blade with 603 strokes—one for each year your queen wandered existence, building glorious hatred in her heart—repeating prayers to your queen for the duration. Gain a +1 profane bonus to attacks against a single type of creature, chosen each time you perform this obedience. If you choose humanoids or outsiders, you must choose an associated subtype.
+
+### Evangelist Boons
+
+1. **Dark Wings of Vengeance (Sp)**: *murderous command* 3/day, *death knell* 2/day, or *excruciating deformation* 1/day
+2. **Erinyes Legion (Su)**: Once per day as a standard action, you can call down a shower of erinyes’ flaming arrows in a 40-foot-radius area centered anywhere within 400 feet of your position. Each creature in the area takes 3d6 points of fire damage and 3d6 points of evil-aligned damage and is then staggered for 1d4 rounds. A creature that succeeds at a Reflex saving throw (DC = 10 + half your Hit Dice + your Charisma modifier) takes half damage and negates the staggered condition.
+3. **Fallen Angel’s Return (Sp)**: The might and fury of a vengeful your queen standing against her foes is a terrible sight to behold. Once per day, you can create an overwhelming image of your queen storming the gates of Heaven to annex her long-deserved dark queendom. This ability functions as per *weird*.
+
+### Exalted Boons
+
+1. **603 Years of Wrath (Sp)**: *ear-piercing scream* 3/day, *badger’s ferocity* 2/day, or *fireball* 1/day
+2. **Descent of the Fallen Queen (Sp)**: When your queen beats her mighty wings in unholy wrath, all take notice—and you know how to harness this power to aid you in battle. Once per day, you can cast *scouring winds* as a spell-like ability. Instead of sand, the storm conjures clouds of fiery ash, and it deals fire damage instead of piercing damage.
+3. **The Furies Unleashed (Sp)**: Once per day, you can summon five erinyes to your side to fight on your behalf. This functions as *summon monster IX*. When an erinyes is defeated or the effect’s duration has expired, a cloak of the blackest night heralds the erinyes’s return to Hell, creating a 10-foot-radius sphere of darkness (as per *deeper darkness*) for 1 round, centered on the erinyes’s last position.
+
+### Sentinel Boons
+
+1. **Dark Battle Rising (Sp)**: *true strike* 3/day, *flame blade* 2/day, or *force hook charge* 1/day
+2. **Swords of the Ash Wings (Su)**: Three times per day when you successfully strike an enemy, you can infuse your blow with the weight of your queen’s dark fury as a swift action. When you do, your attack deals an additional 4d6 points of fire damage and 4d6 points of slashing damage as flaming swords from the depths of Hell bite into your opponent’s body. This damage is considered evil-aligned for the purpose of overcoming damage reduction. This additional damage is never doubled upon a critical hit.
+3. **The Dark Queen Marches (Sp)**: When she focuses her terrible wrath on a single goal, your queen is a force of unbelievable power. You have studied your queen’s tactics carefully and can imitate them to advance your goddess’s dark glory. Once per day, you can cast *ride the lightning* as a spell-like ability. Instead of a lightning bolt, though, you transform into a streak of lava, so this ability deals fire damage instead of electricity damage.
+
+## Queen of death, fate and vanity
+
+**Obedience**: Spend an hour in deep meditation, reflecting on the nature of the cosmos and your exceptional place above all others in the multiversal scheme—preferably while under the effects of a perception-altering drug. The DC of all illusion spells you cast increases by +2 and you gain a +2 profane bonus on saving throws to resist mind-affecting effects.
+
+### Evangelist Boons
+
+1. **Voice from the Mist (Sp)**: *ventriloquism* 3/day, *hypnotic pattern* 2/day, or *major image* 1/day
+2. **Persistent Illusions (Su)**: You have experienced incredibly realistic visions and memorable hallucinations as a result of drug-fueled rituals to your queen, and as such you are particularly gifted at infusing your own illusions with a veneer of reality and believability that helps your unreal creations to persist. Whenever you cast an illusion spell with a duration of concentration (plus any number of rounds), add your level to the additional spell duration.
+3. **Indirect Dose (Su)**: You can apply drugs of the injury type to a weapon as if they were poison. When you do so, the save DC for the drug increases by 2. Additionally, you can’t accidentally expose yourself to a poison or a drug when applying it to a weapon—though you are still exposed if you roll a 1 when attacking with a poisoned weapon.
+
+### Exalted Boons
+
+1. **Mists of the Mind (Sp)**: *silent image* 3/day, *invisibility* 2/day, or *create drug* 1/day
+2. **Breathe In the Cosmos (Su)**: Upon ingesting a drug—including those conjured by the *create drug* spell—you heal an amount of damage determined by the severity of that drug’s base addictiveness: 2d6 hit points for minor, 4d6 hit points for moderate, and 6d6 hit points for major. Additionally, when taking the drug adyton, you automatically succeed at the Will save.
+3. **Breathe Out Death (Su)**: You know the secrets of controlling the flow of blood and toxins in your body. You gain a +4 saving throw against poison and can no longer become addicted to drugs. Additionally, you gain a +4 bonus on rolls to become stable when reduced to negative hit points. Finally, your life span is supernaturally lengthened; each aging step (middle age, old, venerable) is postponed by a number of years equal to twice your Wisdom score.
+
+### Sentinel Boons
+
+1. **Dervish in the Mist (Sp)**: *disguise self* 3/day, *blur* 2/day, or *displacement* 1/day
+2. **Inescapable Fate (Su)**: Just as your queen eschews cumbersome armor, you prefer to serve your mistress in flowing robes and shimmering veils. When you wear armor not made of metal, its maximum Dexterity bonus increases by 2. This applies to armors normally made out of metal but crafted from different materials such as bone or obsidian. Additionally, the DC for entangled creatures to escape a net you wield increases by 1 for every 4 Hit Dice you have.
+3. **Cut to the Truth (Su)**: Whenever you attack a target and have to roll a percent miss chance as a result of effects such as *blur* or concealment, reduce that percent miss chance by 20%. If this reduces the miss chance to 0%, the creature no longer counts as having concealment against you at all. Additionally, when taking the drug adyton, you automatically succeed at the Will save.
+
+## Queen of detachment, dispassion and pain
+
+**Obedience**: Take a small, humanoid-shaped doll and slowly insert needles, small daggers, or other sharp implements into its pressure points. Throughout the process, dispassionately narrate what you’re doing, detailing the steps you take to maximize the physical pain you’re symbolically causing. After each step, repeat a mantra dedicating your efforts to your queen. Gain a +4 profane bonus on saving throws to resist pain effects and effects that would cause the nauseated condition.
+
+### Evangelist Boons
+
+1. **Hell’s Cold Logic (Sp)**: *forbid action* 3/day, *owl’s wisdom* 2/day, or *dispel magic* 1/day
+2. **Unholy Mind over Matter (Sp)**: Your queen’s profane teachings have shown you that the only way to true power is to have a clear mind unpolluted with petty emotions or attachments. You have made an art of using your queen’s unholy power to inure creatures against the weaknesses emotions cause. Once per day, you can cast *sequester* as a spell-like ability.
+3. **Leave This Petty Existence (Sp)**: Like your queen, you know that the emotions and love of others, especially family members, are foolish distractions that only make you vulnerable to your enemies. Thus, you have become adept at transcending your pathetic feelings and can briefly enter new states of existence along with anyone smart enough to ally with you. Once per day, you can cast *etherealness* as a spell-like ability, using your Hit Dice as your caster level.
+
+### Exalted Boons
+
+1. **Excise Fervor (Sp)**: *ray of sickening* 3/day, *calm emotions* 2/day, or *nondetection* 1/day
+2. **Power over Passion (Su)**: Like your queen torturing the souls of the damned in Hell, you know that the passions of your enemies only give you more fodder with which to torment them. Once per day, when one or more creatures within 60 feet of you is under an emotion or mind-affecting effect, as a standard action you can speak a profane prayer to your queen. When you do, the creature or creatures must succeed at a Will saving throw (DC = 10 + half your Hit Dice + your Charisma modifier) or be paralyzed for 1 round and then staggered for a number of rounds equal to your Hit Dice. A successful saving throw negates this effect. When this ability targets multiple creatures, you can choose to exclude one or more of them. Once a creature has been targeted by this ability (whether or not it succeeded at its saving throw), that creature cannot again be the target of power over passion for 24 hours. This is a mind-affecting emotion effect.
+3. **Emotionless Void (Sp)**: Adherence to the ways of your queen has taught you how to siphon desires, dreams, fears, and hopes out of your enemies, until the void of dispassion steals the very breath from their lungs. Once per day, you can cast *mass suffocation* as a spell-like ability.
+
+### Sentinel Boons
+
+1. **Suffer for Your Queen (Sp)**: *interrogation* 3/day, *instrument of agony* 2/day, or *inflict serious wounds* 1/day
+2. **Bringer of Pain (Sp)**: Like your queen, who is deaf to the screams of agony from the souls that she and her minions perpetually torture in her unholy realm, you have perfected the art of visiting pain upon your enemies, and you delight in drawing forth their tormented cries. Three times per day, you can cast *harm* as a spell-like ability.
+3. **Hell’s Sadistic Angel (Sp)**: Your queen is well versed in ways to cause unholy pain to even the strongest and most resourceful souls, and you have painstakingly studied her torturer’s techniques. Once per day as a standard action, you can call down your evil goddess’s dispassionate, unholy might upon all enemies in a 30-foot radius centered anywhere within 100 feet of you. When you do, otherworldly chains forged in the infernal morass of Hell itself latch on to your enemies’ feet, rooting them in place for a number of rounds equal to your Hit Dice. Affected creatures cannot damage the hellish chains nor magically escape them; if they attempt to use teleportation magic or a similar ability to circumvent the chains, the spell or ability fails and is wasted. While they are rooted, affected creatures take 2d6 points of piercing damage and 4d6 points of fire damage per round as blazing, hellish needles stab into the exposed portions of their bodies (affected creatures begin taking damage as soon as they are under this ability’s effects). A creature that succeeds at a Reflex saving throw is only held in place for half the number of rounds and takes the listed damage only once.
+
+## Queen of seduction, snakes and women
+
+**Obedience**: Spontaneously compose a song whose lyrics consist of a deliciously profane promise you do not intend to keep. If the promise is to another individual, you must perform the song so that person can hear it, but the intentionally disingenuous promise can instead be one you make to yourself (in which case you need not perform it for another). Gain a +4 bonus on saving throws against sonic effects and effects that deal sonic damage.
+
+### Evangelist Boons
+
+1. **Darkest Muse (Sp)**: *disguise self* 3/day, *adoration* 2/day, or *reckless infatuation* 1/day
+2. **Promises Insincere (Sp)**: Much like your queen can make mortals see in her presence their fondest desires, you can create an image of yourself to make promises you don’t intend to keep or otherwise fool your enemies into doing your bidding. Once per day, you can cast *project image* as a spell-like ability.
+3. **Soul-Bound Caress (Sp)**: Like that of your queen, your touch results in a much different experience than you might promise. Once per day, you can cast *soul bind* as a spell-like ability without paying the cost of the required material component. You must still touch the target corpse, however.
+
+### Exalted Boons
+
+1. **Leveraged Wiles (Sp)**: *innocence* 3/day, *calm emotions* 2/day, or *slow* 1/day
+2. **False Innocence (Sp)**: You have learned much from the ways of this fallen angel, including how to leverage your charms to convince fools to believe almost anything you wish. Three times per day when you are accused of anything, you can use *mass suggestion* as a spell-like ability. You can use this suggestion to persuade targets that you are innocent, that another is guilty, or that any other statement or insinuation is true. You or an ally must first be accused of some offense before you use this ability, however.
+3. **From the Mouths of Fools (Sp)**: In the course of exacting pledges of adoration and fealty from the fools you have tricked in your dark goddess’s name, you have amassed memories of begging, wheedling, and other pathetic pleas for your favor. Far from letting this energy go to waste, you can periodically release it in a mighty cacophonous scream. Once per day, you can cast *wail of the banshee* as a spell-like ability.
+
+### Sentinel Boons
+
+1. **Selfish Scales (Sp)**: *lock gaze* 3/day, *chameleon stride* 2/day, or *burst of nettles* 1/day
+2. **Beware the Forked Tongue (Sp)**: Just like your queen can drop her pretense of innocence when she decides she’s had enough of an annoying mortal, you can lash out at your enemies with all the force of your queen’s hatred and wrath. Once per day as a standard action, you can cast *mass inflict serious wounds* as a spell-like ability.
+3. **So Speaks the Queen (Su)**: When the fury of your queen is bared, it is an unholy and terrifying sight, and so is it when you display your full might to your foes. Once per day as a standard action, you can speak a profane prayer to your goddess. When you do, each enemy within 60 feet must succeed at a Fortitude saving throw (DC = 10 + half your Hit Dice + your Wisdom modifier) or its skin partially turns to scales. This painful process deals 1d6 points of damage for every 2 Hit Dice you have, and the target is subject to the effects of a *slow* spell for a number of rounds equal to your Hit Dice. On a successful saving throw, a target takes only half the damage and negates the *slow* effect. Creatures need not hear you to be affected, but you must be able to speak to use this ability. This is a polymorph effect.
+
+## Qlippoth lord of cursed kingdoms and vile experiments
+
+**Obedience**: Work the flesh of your own body or the body of another creature into a strange new shape, then meditate upon the sensations this unfamiliar shape affords. Gain a +4 profane bonus on saves against polymorph effects and petrification.
+
+### Evangelist Boons
+
+1. **Maledictions (Sp)**: *bane* 3/day, *blindness/deafness* 2/day, or *bestow curse* 1/day
+2. **Ill Luck (Su)**: As a swift action, you can activate or deactivate a 5-foot-radius aura of unluck. A creature in the area when the aura is active must roll attack rolls and skill checks twice and take the worse result. A creature benefiting from a luck bonus is immune to this aura. You can use this aura for a total number of rounds per day equal to your Charisma modifier.
+3. **Transfer Curse (Su)**: Once per day, you can touch a creature that is affected by a curse effect or a spell with the curse descriptor and attempt to remove a single curse as the *remove curse* spell (treat your total Hit Dice as your caster level). You then hold the energy of that curse in your hand, as if you were holding the charge on a spell. With a successful touch attack, you can place that curse on another creature. The new target attempts the same saving throw as the original curse effect; if it fails, it is subject to the curse and the curse’s duration (if any) resets. Attempts to remove this transferred curse with a *remove curse* spell use your total Hit Dice as the new caster level.
+
+### Exalted Boons
+
+1. **Transformations (Sp)**: *enlarge person* 3/day, *alter self* 2/day, or *undead anatomy I* 1/day
+2. **Shrivel Limbs (Su)**: Three times per day, you can make a touch attack to cause a living creature’s arms and legs to temporarily wither unless it succeeds at a Fortitude saving throw (DC = 10 + half your total Hit Dice + your Charisma modifier). An affected creature counts as one size category smaller for the purpose of determining the size of weapons it can wield. If the creature is capable of making natural attacks with its arms, hands, or claws, the damage dealt by those attacks decreases as though the target were one size category smaller than its actual size. In addition, the creature’s base speed decreases by 10 feet (to a minimum of 5 feet) and its Strength score counts as 4 lower for the purpose of determining its carrying capacity. After 24 hours, the creature’s limbs return to normal. This is a curse effect.
+3. **Contagious Curse (Sp)**: You can cast *conditional curse* as a spell-like ability once per day. The condition you dictate to remove the curse must involve the target manipulating the flesh of two other creatures in some manner (such as removing a limb or organ, or grafting on an additional facial feature). Each creature whose flesh the target manipulates in this manner must also succeed at a saving throw at the same DC as your *conditional curse* or be affected in the same way as the first target, with the same condition to remove the curse.
+
+### Sentinel Boons
+
+1. **Adaptations (Sp)**: *ant haul* 3/day, *spider climb* 2/day, or *water breathing* 1/day
+2. **Corrupted Nature (Sp)**: You can cast *animal aspect* as a spell-like ability three times per day. The body parts you chose to alter are twisted and horrific to behold, though they provide the normal benefits of the spell.
+3. **Monstrous Form (Su)**: Once per day as a standard action, you can will your body to reshape itself, though this metamorphosis is incredibly taxing. You gain a +2 profane bonus to any two of your Strength, Dexterity, and Constitution scores and gain DR 5/— for 10 minutes. After this ends, you are fatigued for 1 minute.
+
+### Demoniac Boons
+
+1. **First Boon (Sp)**: *alter self* 1/day
+2. **Second Boon (Sp)**: *polymorph* 1/day
+3. **Third Boon (Sp)**: *elemental body III* 1/day
+
 ## Patrons Without Boons
 
 These lesser fiends grant only the benefit of their obedience: they have no boon lists. They are listed by portfolio, or by the theme of their obedience where they have no known portfolio.
@@ -359,3 +563,13 @@ These lesser fiends grant only the benefit of their obedience: they have no boon
 | Evisceration, fatal falls and genocide | CE | Savagely eviscerate a creature smaller than yourself or throw such a creature from a deadly height. Gain a +1 profane bonus on damage rolls. |
 | Fecundity, overgrown places and psychoactive plants | CE | Ingest a toxic plant or sow the seeds of a dangerous plant somewhere meant to be safe. Gain a +4 profane bonus on Fortitude and Will saving throws against effects from plants or plant creatures. |
 | Isolation, loneliness and lost time | CE | Pray alone for an hour in a hidden place. Gain a +4 profane bonus on Stealth checks. |
+
+### Qlippoth Lords
+
+| Portfolio | Alignment | Obedience |
+| --- | --- | --- |
+| Blinding hunger and revealed secrets | CE | Destroy something someone else created, working the whole hour to wreck the object as much as possible. Gain a +4 profane bonus on saving throws against area effects that deal hit point damage. |
+| Fiery consumption and monstrous recursion | CE | Torture a living creature with red-hot brands or small fires, and meditate on the cries of pain and scent of scorched flesh. Gain a +4 profane bonus on saving throws against fire-based effects. |
+| Forbidden magic and wartime atrocities | CE | Study texts on the tactics of war, particularly those involving the use of powerful magic. Gain a +1 profane bonus to your Armor Class. |
+| Infestation of the flesh and poisonous wind | CE | Consume a handful of live parasites or infested flesh. Gain a +4 profane bonus on saving throws against disease and parasitic infestations. |
+| Tainted oceans and vile fecundity | CE | Drink fouled water, and maintain yourself on the edge of regurgitation for an hour. Gain a +4 profane bonus on saving throws against poison effects. |
