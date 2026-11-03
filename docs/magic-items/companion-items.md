@@ -8110,3 +8110,25 @@ Rumored to have once been a single, normal sphere split in two through a failed 
 
 **Destruction**: The *twin spheres* can be destroyed by directing one sphere through the other, causing an explosion that deals 20d6 damage to everything within 100 feet.
 
+## Dungeon Denizens Items
+
+### Bulette Bulwark
+
+**Slot** shield; **CL** 9th; **Price** 9,157 gp; **Weight** 15 lbs.
+
+**Aura** faint abjuration
+
+Fashioned from a bulette’s neck armor, this *+3 heavy shield* is as hard as steel (hardness 10, 20 hp). Because it is not made of metal, druids can use it without penalty.
+
+**Construction Requirements:** Craft Magic Arms and Armor, 1 intact set of neck plates from a bulette; **Cost** 4,657 gp
+
+### Rust Monster Antenna Whip
+
+**Slot** hand; **CL** 7th; **Price** 56,000 gp; **Weight** 2 lbs.
+
+**Aura** moderate transmutation
+
+Crafted from a preserved rust monster antenna, this item works similarly to a *gauntlet of rust*, with the exceptions that you can make a *rusting grasp* touch attack with the whip at will, you can use it on all nonmagical metallic objects (not just ferrous ones), and it does not protect you from other rusting attacks. This item counts as a whip for the purposes of proficiency and weapon feats.
+
+**Construction Requirements:** Craft Wondrous Item, *rusting grasp*; **Cost** 28,000 gp (24,000 gp if deceased rust monster is provided)
+

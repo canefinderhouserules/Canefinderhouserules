@@ -3215,3 +3215,63 @@ Developed by desert riders, this saddle is sturdy but minimal, allowing horse an
 ### Sunsilk
 
 Sunsilk, produced by a closely guarded silkworm species, takes on a golden glitter after it has been left to cure in the sun. Though it is light and flexible, when multiple layers are pressed together, its myriad thin fibers inhibit weapons and can slightly help prevent slashing or piercing weapons from causing harm. Clothing made from sunsilk grants its wearer DR 2/bludgeoning. Sunsilk can be incorporated into any suit of armor without hampering the armor’s other qualities, typically as an inner layer of soft lining. Sunsilk adds 6,000 gp to the cost of the garment or armor.
+
+## Dungeon Denizens Gear
+
+### Alkali Salt
+
+**Price** 30 gp; **Weight** —
+
+These tiny granules can be dissolved in water, creating a slimy material used to coat metallic items such as weapons or armor. Such a coating neutralizes the metal-eating acid of black puddings and gray oozes, protecting the item from 1d3 contacts with an ooze’s acidic touch.
+
+### Construction
+
+**Craft (Alchemy)** DC 20
+
+### Enraging Whip
+
+**Price** 10 gp; **Weight** —
+
+This whip has small caltrops or metal barbs woven into its length and a quartet of metal whistles attached to the fall; when snapped, the whistle sounds like screaming owlbear young. An owlbear’s rider uses this noise to enrage the monster, prodding it to attack the nearest creature. Anyone who attacks an owlbear with such a whip draws its attack in preference to all other targets.
+
+### Incubation Stove
+
+**Price** 750 gp; **Weight** 250 lbs.
+
+Designed by dwarves, this iron potbellied stove is about the size of a halfling. It burns wood, coal, dung, or fungus stalks, and has a large moveable compartment on the outside to hold maturing owlbear eggs. The stoves need constant attention to maintain the right temperature, else the eggs get cooked rather than incubated. Some variations have a spring- or crank-turned device that turns the eggs.
+
+### Ooze Grease
+
+**Price** 50 gp; **Weight** 1 lb.
+
+This alchemical concoction can be spread over a Medium or Small creature’s body as a full-round action. It provides a +5 alchemical bonus on Escape Artist checks, grapple checks to avoid a grapple, and Reflex saves to avoid an ooze’s improved grab or engulf abilities, but gives a –5 penalty to disarm checks, grapple checks to start or maintain a grapple or pin, and other checks that may be hindered by a loose grip (such as Climb). One application lasts for up to 1 hour and can be removed with soap and water.
+
+### Construction
+
+**Craft (Alchemy)** DC 25
+
+### Owlbear Blinders
+
+**Price** 10 gp; **Weight** —
+
+Used in siege warfare, these blinders restrict the owlbear’s vision to directly where its head is pointing, helping to stop the owlbear from getting distracted and allowing the rider to focus its attention. This gives the rider a +2 equipment bonus on Ride checks made to control the owlbear, but gives the owlbear a –2 penalty on Perception checks.
+
+### Target Dummy
+
+**Price** 2-20 gp; **Weight** —
+
+Dummies come in various shapes and sizes depending on what creature or race the prospective owner of the owlbear wants them to hate most.
+
+### Thorny Breastplate
+
+**Price** 600 gp; **Weight** 80 lbs.
+
+This barding is covered in thick metal spikes and is designed to protect the owlbear’s chest, shoulders, and neck, while leaving the limbs mostly free for moving and attacking. It provides a +5 bonus to AC, reduces the owlbear’s speed to 20 feet, and adds +1d8 piercing damage to its grapple attacks.
+
+### Bulette Armor
+
+Dwarves have long treasured bulettes for their thick hides and armor plating. In fact, some dwarf clans require their young to travel on long pilgrimages to areas thick with land sharks to hunt the reclusive and vicious beasts, intent on harvesting their plates for armor. A single adult male bulette has enough armor plating and hide to produce two sets of Medium bulette plate mail and four sets of Medium leather or studded leather armor. These armor sets are more often than not imbued with the delving armor quality, and veteran dwarf bulette hunters are rarely seen without their *+1 delving bulette full plate* while on the hunt. Creating bulette armor from the creature’s hide requires a skilled armorer; crafted bulette armor may be normal or masterwork quality.
+
+A set of bulette plate is functionally similar to metal full plate, but is prized by wealthy collectors and military commanders the world over, and tends to sell for up to 10 times more than a normal set. Bulette full plate is slightly heavier (65 pounds) than regular steel plate, but is more flexible and durable (max Dex bonus +2, hardness 12).
+
+A suit of bulette leather armor weighs 20 pounds, and its appearance matches the coloration of the landshark from which it was made. It sells for 50 gp, but has the same statistics as studded leather.

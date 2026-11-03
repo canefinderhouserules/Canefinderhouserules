@@ -1,0 +1,7 @@
+# Ooze Companion
+
+Your understanding of oozes has grown to the point where you can bond with one as a companion.
+
+**Prerequisites**: Ooze Whisperer, animal companion, wild empathy.
+
+**Benefit**: Add the following oozes to your list of possible animal companions. 7th—gelatinous cube, gray ooze; 10th—ochre jelly; 13th—black pudding. Because of its nonintelligence, an ooze companion starts with 0 tricks (only your bonus tricks from druid levels apply) and can only learn the following bonus tricks: attack, come, defend, and stay.

@@ -1283,6 +1283,7 @@
 - **[Explode Head](explode-head.md)**: Explode the head of a creature with 20 hp or fewer and deal damage in a 10-ft. radius around it.
 - **[Fey Form II](fey-form-ii.md)**: Assume the form of a Tiny or Large fey creature.
 - **[Flash Flood](flash-flood.md)**: A wave batters and bull rushes foes, then floods the area.
+- **[Flesh to Ooze](flesh-to-ooze.md)**: As *baleful polymorph*, but the target becomes an ooze.
 - **[Flesh Wall](flesh-wall.md)**: Create a wall of zombies.
 - **[Form of the Alien Dragon I](form-of-the-alien-dragon-i.md)**: Become a Medium esoteric or outer dragon.
 - **[Form of the Exotic Dragon I](form-of-the-exotic-dragon-i.md)**: Become a Medium imperial or primal dragon.

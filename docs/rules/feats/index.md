@@ -2558,6 +2558,8 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [One Mind](one-mind.md) | Teamwork | Alertness, Sense Motive 3 ranks, human |
 | [One-Inch Punch](one-inch-punch.md) | Combat | Improved Unarmed Strike, base attack bonus +6, brawler's flurry class feature or flurry of blows class feature |
 | [Onslaught](onslaught.md) | Combat | Str 13, Power Attack, base attack bonus +1, sneak attack class feature |
+| [Ooze Companion](ooze-companion.md) | — | Ooze Whisperer, animal companion, wild empathy |
+| [Ooze Whisperer](ooze-whisperer.md) | — | Wild empathy class feature |
 | [Open Conduit](open-conduit.md) | — | Knowledge (planes) 5 ranks or outsider with the native subtype |
 | [Open Up](open-up.md) | Combat, Teamwork | Int 13, Combat Expertise |
 | [Opportunistic Grappler](opportunistic-grappler.md) | Combat | — |
@@ -2801,6 +2803,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Shadow's Embrace](shadows-embrace.md) | — | Shadow illusion class feature |
 | [Shadow's Shroud](shadows-shroud.md) | Conduit | Knowledge (planes) 5 ranks |
 | [Shadows of Fear](shadows-of-fear.md) | Combat | Hidden strike +2d8 or sneak attack +2d6 |
+| [Shambling Monolith](shambling-monolith.md) | — | Shambling mound |
 | [Shapechanging Savage](shapechanging-savage.md) | — | Improved Feint or canny feint vigilante talent, change shape ability, shapechanger subtype |
 | [Shapeless Familiar](shapeless-familiar.md) | — | Familiar class feature, caster level 7th |
 | [Shapeshifter Savage](shapeshifter-savage.md) | Combat | Shapeshifter Style*, Shapeshifter Twist*, base attack bonus +8, change shape ability, shapechanger subtype |
@@ -2835,6 +2838,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Signature Strike Style](signature-strike-style.md) | Combat, Style | Precise Shot; Weapon Focus; base attack bonus +7; Intimidate 7 ranks; Improved Called Shot, targeted strike swashbuckler deed, or targeting gunslinger deed |
 | [Signature Strike Taunt](signature-strike-taunt.md) | Combat | Precise Shot, Signature Strike Style, Weapon Focus, base attack bonus +9, Intimidate 9 ranks |
 | [Signature Strike Triumph](signature-strike-triumph.md) | Combat | Precise Shot, Signature Strike Style, Signature Strike Taunt, Weapon Focus, base attack bonus +11, Intimidate 11 ranks |
+| [Silent as Stone](silent-as-stone.md) | — | Roper, Stealthy |
 | [Silent Performer](silent-performer.md) | — | Bardic performance class feature, Extra Performance, Master Performer, bard level 12th, member of a bardic academy |
 | [Sin-Sharing Critical](sin-sharing-critical.md) | Combat, Critical | Critical Focus, base attack bonus +13 |
 | [Sincere Flattery](sincere-flattery.md) | — | Wyvaran |
@@ -2954,6 +2958,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Stock-Striker Style](stock-striker-style.md) | Combat, Style | Pistol-whip gunslinger deed |
 | [Stock-Striker Sweep](stock-striker-sweep.md) | Combat | Stock-Striker Style, base attack bonus +7, pistol-whip gunslinger deed |
 | [Stock-Striker Takedown](stock-striker-takedown.md) | Combat | Point-Blank Shot, Stock-Striker Style, Stock-Striker Sweep, base attack bonus +9, pistol-whip gunslinger deed |
+| [Stone Clinger](stone-clinger.md) | — | Roper |
 | [Stone Cover](stone-cover.md) | — | Wis 15, Stone Shroud, Stealth 6 ranks, dwarf, stonecunning racial trait |
 | [Stone Dodger](stone-dodger.md) | Teamwork | — |
 | [Stone Read](stone-read.md) | — | Knowledge (dungeoneering) 4 ranks |
@@ -2966,6 +2971,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Storm of Arrows](storm-of-arrows.md) | Combat | Hail of arrows class feature |
 | [Storm of Blades](storm-of-blades.md) | Combat | Weapon Focus with slashing weapon, base attack bonus +6 |
 | [Storm-Lashed](storm-lashed.md) | — | — |
+| [Stormstruck Shambler](stormstruck-shambler.md) | — | Shambling mound, must have been struck by lightning |
 | [Strange Yield](strange-yield.md) | General | Craft (alchemy) 5 ranks, gathlain, racial fly speed |
 | [Street Carnage](street-carnage.md) | Combat | Str 15, Improved Bull Rush, Improved Unarmed Strike, Power Attack, Street Style, Street Sweep, base attack bonus +8 or monk level 7th |
 | [Street Smarts](street-smarts.md) | — | — |
@@ -2991,6 +2997,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Subtle Devices](subtle-devices.md) | — | Stealthy |
 | [Subtle Enchantments](subtle-enchantments.md) | — | Deceitful, Spell Focus (enchantment) |
 | [Subtle Poisoner](subtle-poisoner.md) | — | Sleight of Hand 5 ranks |
+| [Suffocating Strangulation](suffocating-strangulation.md) | — | Improved grab, constrict |
 | [Summon Evil Monster](summon-evil-monster.md) | — | Evil alignment |
 | [Summon Good Monster](summon-good-monster.md) | — | Good alignment |
 | [Summon Plant Ally](summon-plant-ally.md) | — | Knowledge (nature) 1 rank, ability to cast *summon nature's ally* spells |
