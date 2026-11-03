@@ -2134,6 +2134,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Friendly Fire Maneuvers](friendly-fire-maneuvers.md) | Combat, Teamwork | Point-Blank Shot, Precise Shot |
 | [Friendly Rivalry](friendly-rivalry.md) | Combat, Teamwork | Human |
 | [Friendly Shroud](friendly-shroud.md) | — | Stealth 1 rank |
+| [Friendly Switch](friendly-switch.md) | — | Base attack bonus +1 |
 | [Frightening Ambush](frightening-ambush.md) | Combat | Intimidate 1 rank |
 | [Frozen Skin](frozen-skin.md) | — | Con 15, half-orc of winter descent |
 | [Fury of the Tainted](fury-of-the-tainted.md) | Combat | Cha 13, rage class feature, tiefling |

@@ -40,6 +40,7 @@
 
 - **[Bleed](bleed.md)**: Cause a stabilized creature to resume dying.
 - **[Disrupt Undead](disrupt-undead.md)**: Deals 1d6 damage to one undead.
+- **[Scrivener’s Chant](scriveners-chant.md)**: An animated quill copies nonmagical writing at one page per minute.
 - **[Touch of Fatigue](touch-of-fatigue.md)**: Touch attack fatigues target.
 
 **Transmutation**
@@ -282,6 +283,7 @@
 - **[Body Double](body-double.md)**: Two creatures look alike; attacks may hit the wrong one.
 - **[Bone Fists](bone-fists.md)**: Targets gain natural armor, natural weapon damage, and armor spikes.
 - **[Boneshaker](boneshaker.md)**: Momentarily control a living or undead creature’s skeleton.
+- **[Book Ward](book-ward.md)**: Protects a touched object from acid and fire, and waterproofs it.
 - **[Brittle Portal](brittle-portal.md)**: Reduce the hardness of a surface.
 - **[Brow Gasher](brow-gasher.md)**: Slashing weapon deals bleed damage to an opponent’s head.
 - **[Bullet Shield](bullet-shield.md)**: You gain a +4 deflection bonus to AC against firearm attacks.
@@ -906,6 +908,7 @@
 - **[Protection from Energy, Communal](protection-from-energy-communal.md)**: As protection from energy, but you may divide the duration among creatures touched.
 - **[Purge Spirit](purge-spirit.md)**: Deal 1d6 points of damage per level to one haunt or spirit creature and stagger it.
 - **[Pyrotechnic Eruption](pyrotechnic-eruption.md)**: Erupting flames burn a target several times.
+- **[Questing Stone](questing-stone.md)**: Uses an *ioun stone* as a visible scrying sensor, like *arcane eye*.
 - **[Quieting Weapons](quieting-weapons.md)**: Weapons make no sound and quiet their victims.
 - **[Rags to Riches](rags-to-riches.md)**: Objects function as masterwork with extra bonuses.
 - **[Rebuke Technology](rebuke-technology.md)**: Render a technological target inert.

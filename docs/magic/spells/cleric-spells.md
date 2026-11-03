@@ -15,6 +15,7 @@
 - **[Purify Food and Drink](purify-food-and-drink.md)**: Purifies 1 cu. ft./level of food or water.
 - **[Read Magic](read-magic.md)**: Read scrolls and spellbooks.
 - **[Resistance](resistance.md)**: Subject gains +1 on saving throws.
+- **[Scrivener’s Chant](scriveners-chant.md)**: An animated quill copies nonmagical writing at one page per minute.
 - **[Sign of the Dawn](sign-of-the-dawn.md)**: Silently tell creatures you worship the sun deity.
 - **[Stabilize](stabilize.md)**: Cause a dying creature to stabilize.
 - **[Vigor](vigor.md)**: Grant +1 on a single melee damage roll.
@@ -175,6 +176,7 @@
 - **[Bloodbath](bloodbath.md)**: Cause yourself and enemies to bleed.
 - **[Bone Fists](bone-fists.md)**: Targets gain natural armor, natural weapon damage, and armor spikes.
 - **[Boneshaker](boneshaker.md)**: Momentarily control a living or undead creature’s skeleton.
+- **[Book Ward](book-ward.md)**: Protects a touched object from acid and fire, and waterproofs it.
 - **[Brittle Portal](brittle-portal.md)**: Reduce the hardness of a surface.
 - **[Build Trust](build-trust.md)**: Gain various bonuses when interacting with the target.
 - **[Bull’s Strength](bulls-strength.md)**: Subject gains +4 to Str for 1 min./level.

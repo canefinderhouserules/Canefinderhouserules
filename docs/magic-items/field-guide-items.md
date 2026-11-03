@@ -90,6 +90,60 @@ A slender copper band, a tyrant's friend is thin enough to be hidden beneath ano
 
 *Construction* Forge Ring, *detect poison*; Cost 1,500 gp.
 
+### Autonomous Cartographer
+
+*Aura* faint divination; *CL* 5th; *Slot* none; *Price* 2,000 gp; *Weight* 1/2 lb.
+
+Upon command, this item draws your surroundings, out to the limits of your normal vision, rendering them as if depicted by a competent but unexceptional artist. It does not record any details you cannot see. The *autonomous cartographer* creates the map as needed to fit upon a 1-foot-by-4-foot parchment or scroll contained within the item. A second command erases the scroll, allowing you to use it again. You may insert or remove a scroll as a full-round action.
+
+*Construction* Craft Wondrous Item, *erase*, *prestidigitation*; Cost 1,000 gp.
+
+### Dead Man’s Shroud
+
+*Aura* faint necromancy; *CL* 5th; *Slot* shoulders; *Price* 6,000 gp; *Weight* 1 lb.
+
+This dirt-stained cloak was woven in shadow from the burial shroud of a condemned murderer. It prevents nonintelligent undead from detecting you, as per the *hide from undead* spell. Intelligent undead can perceive you if they succeed at a DC 11 Will save. The warding is ended if you touch an undead creature, channel energy against undead, or attack any creature. Once per day as a standard action you can silently call forth the shadows bound into the shroud, rendering you invisible for 5 minutes.
+
+*Construction* Craft Wondrous Item, *hide from undead*, *invisibility*; Cost 3,000 gp.
+
+### Eldritch Egress
+
+*Aura* moderate transmutation; *CL* 9th; *Slot* none; *Price* 10,000 gp; *Weight* 4 lbs.
+
+This cunningly designed bundle of wooden slats unfolds and interlocks to form a 3-foot-by-3-foot frame. Once per day you may place the unfolded frame upon a solid surface to form a passage up to 10 feet deep, as if using a *passwall* spell. The passageway lasts for 1 hour unless the frame is removed earlier.
+
+Folding or unfolding the frame is a full-round action that provokes attacks of opportunity. Using the unfolded frame to create a passage is a standard action. Medium or smaller creatures can easily pass through the tunnel, while Large creatures require an Escape Artist check. The *eldritch egress* can only be removed from outside the surface it was placed on, so careful planning is required when using it.
+
+*Construction* Craft Wondrous Item, *passwall*; Cost 5,000 gp.
+
+### Horseshoes of Great Burden
+
+*Aura* faint transmutation; *CL* 3rd; *Slot* feet; *Price* 2,500 gp; *Weight* 24 lbs. (for four)
+
+These sturdy iron horseshoes come in sets of four like ordinary horseshoes, but are much heavier. When affixed to an animal’s hooves, they double the animal’s carrying capacity. All four shoes must be worn by the same animal for the magic to be effective.
+
+*Construction* Craft Wondrous Item, *bear's endurance*, *bull's strength*; Cost 1,250 gp.
+
+### Explorer’s Pouch
+
+*Aura* none; *CL* 9th; *Slot* none; *Price* 1,000 gp; *Weight* 1 lb.
+
+This nondescript belt pouch is quite popular among explorers who need to smuggle items past snooping guards or government officials. *Detect magic* does not detect that it is magical (as per the *magic aura* spell), but the pouch acts as a very small *bag of holding* (contents limit 10 pounds, volume limit 2 cubic feet).
+
+With a command word, the wearer can close or open the extradimensional space within the pouch; when closed, the pouch holds no more than a mundane belt pouch the size of a human fist, though objects within the extradimensional space remain stored, unreachable until the pouch is unsealed again. This allows the user to empty his pockets or even turn the pouch inside-out to prove he carries no contraband, and access the hidden goods later when in a safe place. Because of their nonmagical auras, these pouches sometimes hold secret treasures for generations without their owners realizing their nature.
+
+*Construction* Craft Wondrous Item, *magic aura*, *secret chest*; Cost 1,000 gp.
+
+### Versatile Vest
+
+*Aura* moderate conjuration and transmutation; *CL* 9th; *Slot* chest; *Price* 2,000 gp; *Weight* 1 lb.
+
+This sturdy vest stays dry and spotless in the worst of conditions. You can secure up to six objects (weighing up to 1 pound each) to the vest by holding them to it and speaking a command word. You can retrieve any of these items as a move action.
+
+In addition, the vest has four large pockets, each capable of holding as much as 1/2 cubic foot in volume or 5 pounds in weight, and weighing only 1 pound when full. When closed, the pockets are proof against water and the elements. The first pocket contains 1 day’s worth of trail rations, a quart of water in a waterskin, two candles, and a tindertwig. The vest recreates these items if the first pocket is left empty for 3 days.
+
+*Construction* Craft Wondrous Item, *create food and water*, *prestidigitation*, *secret chest*; Cost 1,000 gp.
+
 ## Wayfinders
 
 Wayfinders are small magical devices patterned after ancient relics. In addition to any magical powers, all wayfinders act as magnetic compasses, granting a +2 competence bonus on Survival checks to avoid becoming lost. Each wayfinder includes a small indentation in the center of its face—this indentation is designed to hold a single ioun stone. An ioun stone slotted in this manner grants the normal benefits it would grant if it were orbiting your head. A standard wayfinder also has the ability to create light (as the *light* spell). The specialized wayfinders detailed below each add a further power.
@@ -197,3 +251,63 @@ This *wayfinder* is crafted from polished gold and when viewed in bright light i
 This *wayfinder* is made of magically hardened glass, through which the complex inner matrix of the compass can be seen. Once per day, the wielder of a *wayfinder of the planes* can choose one of the following alignments: chaotic, evil, good, or lawful. For 1 hour thereafter, the *wayfinder of the planes* creates a *magic circle* effect against the chosen alignment, centered on the *wayfinder*. Once selected, the alignment of the *magic circle* effect can’t be changed until the effect recharges the next day.
 
 *Construction* Craft Wondrous Item, *light*, *magic circle against chaos*, *magic circle against evil*, *magic circle against good*, *magic circle against law*; Cost 9,000 gp.
+
+### Ebon Wayfinder
+
+*Aura* faint evocation and transmutation; *CL* 5th; *Slot* none; *Price* 18,000 gp; *Weight* 1 lb.
+
+Favored by explorers exploring dark and dangerous locales, the exterior of this *wayfinder* is constructed of panels of darkwood with ebony inlays. The panels slide apart to reveal platinum meshwork capable of holding one or two *ioun stones*. An *ebon wayfinder* grants the bearer darkvision with a range of 60 feet, and with a command word it can create *darkness* (as per the spell) once per day, centered on itself.
+
+When one *ioun stone* is slotted into the device, its *darkness* ability no longer functions. When a second stone is placed in it, the darkvision ability no longer functions.
+
+*Construction* Craft Wondrous Item, *darkness*, *darkvision*; Cost 9,000 gp.
+
+### Wayfinder of Passage
+
+*Aura* moderate varied; *CL* 10th; *Slot* none; *Price* 136,000 gp; *Weight* 1 lb.
+
+This *wayfinder* is an artistic treasure, crafted in gold and set with tiny opals, rubies, diamonds, and sapphires. Three slots on the inner side of the lid can each hold one *ioun stone*. It sheds light equivalent to the *daylight* spell on your command. It has the following abilities, each activated by a different command word:
+
+- *dimension door* (once per day)
+- *feather fall* (at will)
+- *knock* (at will)
+- *resist energy* (once per day, energy resistance 20, lasts 24 hours)
+When the first *ioun stone* slot is used, the *dimension door* ability no longer functions. When the second slot is used, *feather fall* and *resist energy* are unavailable. When the third slot is used, *daylight* and *knock* no longer function.
+
+*Construction* Craft Wondrous Item, *daylight*, *dimension door*, *feather fall*, *knock*, *resist energy*; Cost 68,000 gp.
+
+### Wayfinder of the Sleeping Eye
+
+*Aura* strong illusion; *CL* 13th; *Slot* none; *Price* 70,000 gp; *Weight* 1 lb.
+
+This exquisitely crafted *wayfinder* bears the design of a half-closed eye in platinum and mithral. The eye is a socket for an *ioun stone*; when filled, you may activate the *wayfinder* when you sleep or meditate to create a mobile illusory image of yourself that is partly real.
+
+You control the image as if it were your own body and perceive things through it as if it had all of your normal senses plus darkvision with a range of 60 feet. You do not need to maintain line of sight to the image. The image is visible but transparent, and it cannot perform any action that an *unseen servant* is unable to perform. The image has 40% of your hit points at the time it was created. Its AC is 10 + your size modifier + your Dexterity modifier. It uses your current Will saving throw bonus but automatically fails Fortitude and Reflex saves. It is destroyed if brought to 0 hit points, which deals you 2d4 points of Charisma damage. It can be dispelled, and cannot enter areas warded against summoned creatures, your alignment, illusions, or incorporeal creatures. You may end this ability as a free action, and it ends automatically if you are awakened, your body is attacked, or 8 hours pass; ending the image in this manner does not deal you Charisma damage.
+
+Using this ability drains energy from the slotted *ioun stone*, rendering it dull gray and powerless for 24 hours. A dull gray *ioun stone* cannot power the projection ability of this *wayfinder*. The *wayfinder* can still have synergistic powers granted by an *ioun stone*, though they do not function while the slotted stone is powerless.
+
+*Construction* Craft Wondrous Item, *arcane eye*, *shadow conjuration*; Cost 35,000 gp.
+
+## Weapons
+
+### Blade of the Willing Martyr
+
+*Aura* strong necromancy; *CL* 18th; *Slot* chest; *Price* 150,000 gp; *Weight* 1 lb.
+
+Even explorers cannot say which tale of this item’s origins is true; it may have been made from a piece of a divine relic, carried by a mortal as he achieved godhood, or forged in the depths of the underworld and quenched in its maker’s heartblood. This silver slender athame is deceptively plain, but has a treacherous past. It has been credited with deeds as noble as ending the life of a powerful annis witch (slain even as the blade’s owner was beheaded) and as petty as the murder of a loving mother and priestess by her estranged and vengeful husband.
+
+The *blade of the willing martyr* is a *+3 keen vicious dagger*, but its greatest power can only be invoked outside of battle. To activate this power you must spill your blood on your target, an object belonging to the target, or a physical token of the target’s body (such as a few strands of hair). Your target gets a DC 23 Will save (using the same saving throw modifiers as the *scrying* spell for the owner’s knowledge and connection to the victim) to avoid the effect, which forges a link between you and the target.
+
+Once you forge a link, your soul and the target’s soul are intertwined. Should you die, your target dies, suffering the same apparent injuries and symptoms; likewise, you die if your target dies. The link may only be severed by *break enchantment* or *remove curse*.
+
+*Construction* Craft Magic Arms and Armor, *enervation*, *keen edge*, *symbol of death*; Cost 75,000 gp.
+
+## Cursed Items
+
+### Mindborer Ioun Stone
+
+*Aura* strong transmutation; *CL* 12th; *Slot* none; *Price* varies; *Weight* —
+
+This cursed item looks like any normal *ioun stone*, and has powers according to its color and shape. However, whenever you are in combat, the orbiting stone batters at your face and head, dealing 1 hit point of damage each round. If you sleep or fall unconscious while the stone is in orbit, it drills into your head, dealing 1 point of Intelligence, Wisdom, and Charisma damage each round until the penalty to one of these ability scores exceeds your actual score, at which point it removes itself from your head and hides itself on your person, near other gems. The stone can remove itself from a *wayfinder* to attack you in this fashion. The attack automatically wakes a sleeping character. The only way to end the attack is to interfere with the magic of the stone (by using *dispel magic*, entering an *antimagic field*, and so on) or grab it and place it in a container.
+
+*Construction* Craft Magic Arms and Armor, creator must be 12th level; Cost varies.

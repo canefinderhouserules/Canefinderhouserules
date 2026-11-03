@@ -84,7 +84,11 @@ The prestige classes presented in this chapter are summarized below.
 
 **[Exalted](exalted.md)**: A divine spellcaster who embodies her faith and inspires others, culminating in miraculous power.
 
+**[Explorer Delver](explorer-delver.md)**: A ruin-diving explorer who masters traps, escapes certain death, and leaves the journaling to others.
+
 **[Explorer Field Agent](explorer-field-agent.md)**: A versatile agent of an explorers’ society, trained to explore, report, and cooperate, with an upgraded *wayfinder*.
+
+**[Explorer Savant](explorer-savant.md)**: A scholar of ancient magic who masters magic items, glyphs and exotic spells while advancing in spellcasting.
 
 **[Faithless Enforcer](faithless-enforcer.md)**: A lawful investigator who hunts hidden cults and purges divine influence from lands that outlaw religion.
 

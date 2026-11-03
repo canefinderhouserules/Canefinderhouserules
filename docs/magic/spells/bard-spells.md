@@ -21,6 +21,7 @@
 - **[Prestidigitation](prestidigitation.md)**: Performs minor tricks.
 - **[Read Magic](read-magic.md)**: Read scrolls and spellbooks.
 - **[Resistance](resistance.md)**: Subject gains +1 on saving throws.
+- **[Scrivener’s Chant](scriveners-chant.md)**: An animated quill copies nonmagical writing at one page per minute.
 - **[Summon Instrument](summon-instrument.md)**: Summons one musical instrument.
 - **[Vacuous Vessel](vacuous-vessel.md)**: A container looks and feels empty.
 
@@ -186,6 +187,7 @@
 - **[Blood Rage](blood-rage.md)**: Targets grow stronger and more reckless as they take damage.
 - **[Blur](blur.md)**: Attacks miss subject 20% of the time.
 - **[Body Double](body-double.md)**: Two creatures look alike; attacks may hit the wrong one.
+- **[Book Ward](book-ward.md)**: Protects a touched object from acid and fire, and waterproofs it.
 - **[Build Trust](build-trust.md)**: Gain various bonuses when interacting with the target.
 - **[Callback](callback.md)**: Teleport a familiar or spirit animal to your side when it is injured.
 - **[Calm Emotions](calm-emotions.md)**: Calms creatures, negating emotion effects.
@@ -520,6 +522,7 @@
 - **[Pessimism](pessimism.md)**: Force a creature to see the negative side of things.
 - **[Phantasmal Reminder](phantasmal-reminder.md)**: Recall of past wounds deals damage.
 - **[Phantom Steed, Communal](phantom-steed-communal.md)**: As phantom steed, but you may divide the duration among creatures touched.
+- **[Questing Stone](questing-stone.md)**: Uses an *ioun stone* as a visible scrying sensor, like *arcane eye*.
 - **[Quieting Weapons](quieting-weapons.md)**: Weapons make no sound and quiet their victims.
 - **[Rainbow Pattern](rainbow-pattern.md)**: Lights fascinate 24 HD of creatures.
 - **[Red Hand of the Killer](red-hand-of-the-killer.md)**: Stain the hand of a creature’s killer red.
