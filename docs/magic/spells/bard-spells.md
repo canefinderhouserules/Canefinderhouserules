@@ -148,6 +148,7 @@
 - **[Toilsome Chant](toilsome-chant.md)**: School enchantment (compulsion)[mind-affecting]; Level bard 1 Casting Time see text Components V, S Range.
 - **[Touch of Blindness](touch-of-blindness.md)**: touches blind creatures for 1 round
 - **[Transfer Tattoo](transfer-tattoo.md)**: Move a magic tattoo between creatures.
+- **[Tripvine](tripvine.md)**: An animated rope or vine trips anything in a 10-foot square.
 - **[True Appraisal](true-appraisal.md)**: Gain insight into the value of objects
 - **[True Skill](true-skill.md)**: Gain an insight bonus on your next check with a chosen skill.
 - **[Twisted Futures](twisted-futures.md)**: Target can't reroll or pick die results.

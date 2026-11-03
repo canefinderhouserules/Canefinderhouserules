@@ -7485,3 +7485,134 @@ A favored item among the dervishes of the sun goddess, this skirt of overlapping
 Once per day, when an adjacent foe attempts to take a 5-foot step away from you, you may make a 5-foot step as an immediate action so long as you end up adjacent to that foe. If you take this step, you cannot take a 5-foot step during your next turn. If you take an action to move during your next turn, subtract 5 feet from your total movement.
 
 **Construction Requirements:** Craft Wondrous Item, *expeditious retreat*, *barkskin* or *stoneskin*; **Cost** 6,500 gp
+
+## Faction Items
+
+### Utilitarian Rod
+
+**Slot** none; **CL** 8th; **Price** 5,000 gp; **Weight** 5 lbs.
+
+**Aura** moderate transmutation
+
+Created by an arcane academy, this plain wooden rod is capped with steel, with 10 buttons along its length; it looks rugged and is usually scratched and stained. Pushing any of the buttons is an action equivalent to drawing a weapon. Unless otherwise stated, pressing a button a second time reverts the rod to its basic form. The following functions have no limit on the number of times they can be employed.
+
+*Brace/jack*: The end caps flatten into 2-foot-diameter discs and the wooden haft extends up to 10 feet, creating a brace for a tunnel ceiling or lifting a heavy object 10 feet into the air.
+
+*Bridge*: The rod flattens and extends to 1 foot wide, 1 inch thick, and 12 feet long. This form can support 4,000 pounds.
+
+*Climbing pole/ladder*: A spike that can anchor in stone extrudes from one end, while the other sprouts three sharp hooks. The rod lengthens to anywhere between 5 and 50 feet in a single round. Horizontal bars 3 inches long fold out from the sides, 1 foot apart, in staggered progression. The rod is firmly held by the spike and hooks and can bear up to 4,000 pounds.
+
+*Crowbar*: This functions like a normal crowbar.
+
+*Drill*: One metal cap extends to a drill-like point and begins to spin, easily drilling a 3-inch-diameter hole through 3 feet of wood or 1 foot of stone per minute.
+
+*Mallet*: Though not intended as a weapon, a character can attack with the rod in this form as if it were a Medium warhammer with a –2 penalty.
+
+*Portable ram*: This functions like a normal portable ram, except up to three people are needed to help the wielder.
+
+*Saw*: This works like a normal two-person saw.
+
+*Shovel*: Pressing this button makes the rod cycle between a short-handled shovel, a long-handled shovel, and its basic form.
+
+*Wedge*: One metal cap extends to form a flat chisel shape, such as for cutting wood or breaking stone (normally a hammer or mallet is used with it for this task).
+
+**Construction Requirements:** Craft Rod, *fabricate*, *polymorph any object*; **Cost** 2,500 gp
+
+### Crowcaller
+
+**Slot** none; **CL** 8th; **Price** 29,110 gp; **Weight** 10 lbs.
+
+**Aura** faint necromancy
+
+The northern royal guard favors a single-bladed battleaxe as their weapon of choice. An elite few are chosen to bear a *crowcaller*, a magically enhanced version that not only strikes down assassins, but also helps track the assassins’ masters. A *crowcaller* is a *+2 keen greataxe*. Once per day, if the axe is laid across the chest of a foe it has slain, it compels the corpse to answer five questions as per the *speak with dead* spell.
+
+**Construction Requirements:** Craft Magic Arms and Armor, *keen edge*, *speak with dead*; **Cost** 14,710 gp
+
+### Midsummer Sickle
+
+**Slot** none; **CL** 12th; **Price** 7,806 gp; **Weight** 1 lb.
+
+**Aura** moderate evocation
+
+Created by the druids of the Green Faith, this *+1 mithral spell storing sickle* serves as a divine focus for druids. It can only store spells on the druid spell list or from the Air, Earth, Fire, or Water domains or nature bond domain lists.
+
+**Construction Requirements:** Craft Magic Arms and Armor, creator must be a druid of at least 12th level; **Cost** 4,306 gp
+
+### Guiding Vellum
+
+**Slot** none; **CL** 7th; **Price** 500 gp (1st), 2,000 gp (2nd), 4,500 gp (3rd), 8,000 gp (4th), 12,500 gp (5th), 18,000 gp (6th), 24,500 gp (7th), 32,000 gp (8th), 40,500 gp (9th); **Weight** 1/2 lb.
+
+**Aura** moderate divination
+
+Fashioned from soft yet still quite durable lambskin, this piece of parchment gives a faithful divine spellcaster of a specific religion a hint about what spell may be useful for that day. Each day, when the owner prepares spells in the presence of the *guiding vellum*, the name of one specific divine spell which the owner already has the ability to cast appears on its surface. This represents a spell which should prove useful for the tasks in the next 24 hours. Each *guiding vellum* is associated with one level of divine spells and only shows a spell of that level. For example, if a cleric caster has a 3rd-level vellum and the GM expects the character to face invisible opponents later that day, the vellum shows the name “invisibility purge” (a 3rd-level cleric spell); if the opponents are using poison and the cleric has a 2nd-level vellum, it would show the name “delay poison.”
+
+A caster can only use one vellum of a particular spell level each day (using two 1st-level vellums gives the same result), but using vellums of different spell levels works normally. Each vellum works only once per day. A *guiding vellum* normally does not work for a character not of the item’s specific religion; some religions add additional magic so a vellum used by a hostile or rival faith provides misleading spell suggestions.
+
+**Construction Requirements:** Craft Wondrous Item, *divination*; **Cost** 250 gp (1st), 1,000 gp (2nd), 2,250 gp (3rd), 4,000 gp (4th), 6,250 gp (5th), 9,000 gp (6th), 12,250 gp (7th), 16,000 (8th), 20,250 gp (9th)
+
+### Beguiling Bangles
+
+**Slot** neck; **CL** 7th; **Price** 11,000 gp; **Weight** —
+
+**Aura** moderate enchantment
+
+Originally created by wandering nomads, this elaborate silver and glass necklace renders the wearer immune to any magical effect that detects lies and grants the wearer a +2 bonus on Will saves to resist any magic that would compel him to tell the truth.
+
+The necklace grants the wearer a +5 competence bonus on Bluff checks made to deceive (but not create a diversion or feint).
+
+**Construction Requirements:** Craft Wondrous Item, *glibness*; **Cost** 5,500 gp
+
+### Chest of Preparedness
+
+**Slot** none; **CL** 7th; **Price** 5,000 gp; **Weight** 30 lbs.
+
+**Aura** moderate conjuration
+
+Created by a sect of merchant prophets, this chest is approximately 2 feet wide and 1 foot long. On creation, the maker chooses 10 nonmagical items worth under 100 gp that could fit within the chest’s dimensions. They can be specially created items for the chest (such as a silvered dagger) or a standard item (such as 50 feet of silk rope). Thereafter, when the box is closed, the owner need only speak the name of one of the items, and it appears within the chest, ready to be removed and used. A given item only appears once per day, and disappears after 24 hours. These prophets use the chests to keep backups of important tools, and to hide weapons in case of emergency.
+
+**Construction Requirements:** Craft Wondrous Item, *minor creation*; **Cost** 2,500 gp
+
+### Daring Dancers
+
+**Slot** feet; **CL** 8th; **Price** 16,000 gp; **Weight** —
+
+**Aura** moderate transmutation
+
+These glittering anklets or spurs are favorites of wandering nomads, both for their showy addition to performances and their more practical uses. Normally made of metal and leather and adorned with glass beads or small gemstones, they make the wearer's feet light and agile, granting a +5 competence bonus to Perform (dance) checks. The wearer’s footfalls become so light that she can dance gracefully on any surface and make a 5-foot step even in difficult terrain.
+
+If the wearer has 5 or more ranks in Perform (dance), *daring dancers* allow her to cast *dimension door* on herself once per day to travel up to 700 feet.
+
+**Construction Requirements:** Craft Wondrous Item, *dimension door*, creator must have 10 ranks in Perform (dance); **Cost** 8,000 gp
+
+### Disk of the Lost Giants
+
+**Slot** none; **CL** 11th; **Price** 24,000 gp; **Weight** 3 lbs.
+
+**Aura** moderate conjuration (teleportation)
+
+Excavated on a chain of pirate-held islands among the temples of a lost giant culture, these stone disks display whorls of symbols in the dead language of that dead kingdom, centered about a sphere of black volcanic glass. Each disk acts as a *word of recall* spell when the command word is spoken; each disk is keyed to a specific island in the territory once controlled by that lost people. The disk functions once per day, and its destination cannot be changed.
+
+Most of these are in the hands of pirate lords.
+
+**Construction Requirements:** Craft Wondrous Item, *word of recall*; **Cost** 12,000 gp
+
+### Home Stone
+
+**Slot** none; **CL** 9th; **Price** 2,250 gp; **Weight** 1 lb.
+
+**Aura** moderate conjuration (teleportation)
+
+When the command word is spoken, this palm-sized stone teleports one Medium creature and up to 100 pounds of equipment to a specific elf gate that the stone is keyed to. Only one creature may travel this way per *home stone*. The stone crumbles when activated. *Home stones* were originally invented by elven lantern-bearers as a way to quickly escape the underworld when raids went poorly, with a typical raiding party carrying only one such stone, allowing a lone survivor to return and report on the mission.
+
+**Construction Requirements:** Craft Wondrous Item, *teleport*; **Cost** 1,125 gp
+
+### Ki Crystal
+
+**Slot** none; **CL** 10th; **Price** 2,000 gp; **Weight** —
+
+**Aura** moderate transmutation
+
+Created by the masters of a secret monk society, this thumbnail-sized crystal stores a single point of *ki*. Any person with the *ki* pool ability may expend the stored *ki* as if using his own *ki*. Once the *ki* is expended, the crystal shatters. These monks sometimes craft *ki crystals* into the hilts of powerful weapons. In other eastern lands, such crystals are often embedded in small animal statuettes or in shrines venerating a favored deity.
+
+**Construction Requirements:** *ki* pool, member of a secret monk society; **Cost** 1,000 gp
+

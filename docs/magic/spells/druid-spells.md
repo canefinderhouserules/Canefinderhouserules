@@ -103,6 +103,7 @@
 - **[Touch of Bloodletting](touch-of-bloodletting.md)**: Wounded target bleeds and is exhausted.
 - **[Touch of Combustion](touch-of-combustion.md)**: Your successful melee touch attack causes the target to ignite in a violent burst of flame, dealing 1d6.
 - **[Tracking Mark](tracking-mark.md)**: Easier to track a target.
+- **[Tripvine](tripvine.md)**: An animated rope or vine trips anything in a 10-foot square.
 - **[Twisted Futures](twisted-futures.md)**: Target can't reroll or pick die results.
 - **[Underbrush Decoy](underbrush-decoy.md)**: Create a rustling distraction to hide.
 - **[Waterproof](waterproof.md)**: Renders an object or creature’s gear waterproof.
@@ -607,6 +608,7 @@
 - **[Shapechange](shapechange.md)**: Transforms you into certain creatures, and you can change forms once per round.
 - **[Siege of Trees, Greater](siege-of-trees-greater.md)**: As siege of trees, but can transform Huge and Gargantuan trees into arboreal catapults of the same size.
 - **[Storm of Vengeance](storm-of-vengeance.md)**: Storm rains acid, lightning, and hail.
+- **[Summon Elemental Steed](summon-elemental-steed.md)**: A greater elemental becomes a chariot that carries nine creatures.
 - **[Summon Nature’s Ally IX](summon-natures-ally-ix.md)**: Summons creature to fight.
 - **[Sympathy](sympathy.md)**: Object or location attracts certain creatures.
 - **[Temporal Regression](temporal-regression.md)**: Return to a marked place and condition.

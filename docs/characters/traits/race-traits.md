@@ -781,3 +781,7 @@ Only fetchlings can select these traits.
 Only gillmen may select these traits.
 
 **Ancient Inheritor (Gillman)**: You have prominent features of an ancient empire, which you can use to inspire confidence in your allies. Whenever you use the aid another action to aid an adjacent ally, increase the bonus you grant your ally by 1. This is a trait bonus.
+
+## Faction Race Traits
+
+**Trifler** (wandering nomad human): A childhood spent at your mystically gifted grandmother's side has taught you the basics of real magic. You may cast *prestidigitation* three times per day as a spell-like ability. This spell-like ability is cast at your highest caster level; if you have no caster level, it functions at CL 1st.

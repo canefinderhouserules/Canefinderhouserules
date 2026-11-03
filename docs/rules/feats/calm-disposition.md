@@ -1,0 +1,7 @@
+# Calm Disposition
+
+You always appear to be in control of your situation.
+
+**Prerequisites**: member of a sect of merchant prophets.
+
+**Benefit**: You gain +2 bonus on saving throws against effects that affect your composure. This includes all mind-affecting spells, as well as any spell or ability that would cause you to behave in an out-of-control manner, such as fear effects and nausea. This does not include physical effects such as fatigue, and does not reduce any damage taken from concurrent effects.

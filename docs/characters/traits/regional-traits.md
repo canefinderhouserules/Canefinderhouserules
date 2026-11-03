@@ -926,3 +926,6 @@ These traits tie characters to a frontier campaign of ancient monuments, rival c
 
 **Watching the Old Empire (Desert satrapy native)**: You have spent your adult life waiting for a hated neighboring empire to give you an excuse to fight. You gain a +1 trait bonus on initiative checks, and if you are able to act during the surprise round of an encounter, you can draw a weapon (but not a potion or magic item) as a free action during that round. You must have had family members, neighbors, or friends affected by that empire’s aggression, or have fallen victim to it yourself, to take this trait.
 
+## Faction Regional Traits
+
+**Network Tiller (Infernal empire native)**: You are a tiller in a secretive freed-slave network in the infernal empire and carefully move slaves from one hideout to the next. You gain a +5 trait bonus on all Survival skill checks made to get along in the wild, travel in severe weather, keep from getting lost, or predict the weather. You must be a member of the freed-slave network to take this trait.

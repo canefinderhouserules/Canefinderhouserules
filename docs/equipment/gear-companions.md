@@ -3015,3 +3015,19 @@ If used as an additional material component when casting a spell the idol affect
 **Price** 40 gp; **Weight** 1/2 lb.
 
 *Alchemical tool.* This emerald-colored adhesive is made from animal glands, urine, and other powerful scents that are difficult to wash off. A target splashed with it smells like weak prey to predators. Creatures with the scent ability can detect a marked creature at five times the normal range, note its direction as a free action, pinpoint it when it is within 25 feet, and track it by scent with a +5 bonus on their Survival checks. Immersion in water within 1 round of exposure washes the musk off; otherwise the effect decreases by 1 range increment per day (four times normal range after 1 day, three times normal range after 2 days, and so on) until the creature is again at normal scent levels. The Craft (alchemy) DC to create prey musk is 20. Prey musk can also be used for [equipment tricks](../rules/combat/equipment-tricks.md#prey-musk-tricks).
+
+## Faction Gear
+
+### Tears of Perfection
+
+**Price** 600 gp; **Weight** —
+
+**Type** poison, injury; **Save** Fortitude DC 18
+
+**Onset** 1 round; **Frequency** 1/round for 4 rounds
+
+**Initial Effect** 1d2 Wis damage and blindness for 1 round; **Secondary Effect** blindness for 24 hours; **Cure** 1 save
+
+### Crusader’s Steel
+
+Forged by the smiths of a crusader nation out of iron and a rare mineral, this bluish steel strikes true against monsters vulnerable to cold iron (such as demons). Weapons made of crusader’s steel cost 1-1/2 times as much to make as their normal counterparts. This steel is even more delicate than cold iron regarding magical enhancements; adding enhancements to the steel increases its price by 3,000 gp. This increase is applied the first time the item is enhanced, not once per ability added. Crusader’s steel is otherwise identical to cold iron.

@@ -191,6 +191,7 @@
 - **[Touch of Blindness](touch-of-blindness.md)**: touches blind creatures for 1 round
 - **[Touch of Combustion](touch-of-combustion.md)**: Your successful melee touch attack causes the target to ignite in a violent burst of flame, dealing 1d6.
 - **[Transfer Tattoo](transfer-tattoo.md)**: Move a magic tattoo between creatures.
+- **[Tripvine](tripvine.md)**: An animated rope or vine trips anything in a 10-foot square.
 - **[True Skill](true-skill.md)**: Gain an insight bonus on your next check with a chosen skill.
 - **[Undine’s Curse](undine-s-curse.md)**: The target loses its body’s natural ability to breathe automatically.
 - **[Unerring Weapon](unerring-weapon.md)**: Grants a +2 bonus, +1 per four caster levels, on attack rolls to confirm a critical hit.
@@ -544,6 +545,7 @@
 - **[Ape Walk](ape-walk.md)**: Gain a climb speed of 30 ft. and a +8 bonus on Climb checks.
 - **[Appearance of Life](appearance-of-life.md)**: Undead appear to be alive.
 - **[Apport Animal](apport-animal.md)**: Send or receive a Tiny or smaller animal via teleportation.
+- **[Arcane Reinforcement](arcane-reinforcement.md)**: Add your Spellcraft ranks to Craft checks while you chant.
 - **[Armor Lock](armor-lock.md)**: Stiffens armor joints, staggering or entangling the target.
 - **[Assume Appearance](assume-appearance.md)**: Use a creature’s corpse to adopt its form.
 - **[Audiovisual Hallucination](audiovisual-hallucination.md)**: Create a phantasm with auditory and visual effects.

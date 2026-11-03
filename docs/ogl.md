@@ -359,3 +359,5 @@ The following text is the property of Wizards of the Coast, Inc. and is Copyrigh
     Pathfinder Adventure Path #117: Assault on Longshadow © 2017, Paizo Inc.; Authors: Benjamin Bruck and Thurston Hillman.
 
     Pathfinder Adventure Path #144: Midwives to Death © 2019, Paizo Inc.; Author: John Compton.
+
+    Pathfinder Chronicles: Faction Guide © 2010, Paizo Publishing, LLC; Authors: Joshua J. Frost, Jason Nelson, and Sean K Reynolds.

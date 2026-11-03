@@ -162,6 +162,28 @@ These traits suit members of a society of explorers and treasure seekers. Each l
 
 **Relic-Proof (Social)**: Your experiments—both your successes and failures—have inured you to the effects of stored magic. You gain a +1 trait bonus on saving throws against effects produced by spell completion and spell trigger items.
 
+**Beast of the Society (Magic)**: A druid at the society’s great lodge revealed to you secrets changing your form into that of an animal. Whenever you use your wild shape class ability to turn yourself into a Small or Medium animal, the effect lasts for 2 hours per druid level instead of 1 hour per druid level. You must be a druid and a member of the explorers’ society to take this trait.
+
+**Berserker of the Society (Combat)**: Your time spent as an explorer has taught you new truths about the origins of your rage ability. You may use your rage ability for 3 additional rounds per day. You must be a barbarian and a member of the explorers’ society to take this trait.
+
+**Blade of the Society (Combat)**: The society gave you access to charts detailing the weak spots of hundreds of humanoids and monsters. You gain a +1 trait bonus on damage rolls from sneak attacks. You must be a rogue and a member of the explorers’ society to take this trait.
+
+**Defender of the Society (Combat)**: Your time spent studying the greatest warriors of the society taught you new defensive skills while wearing armor. You gain a +1 trait bonus to Armor Class when wearing medium or heavy armor. You must be a fighter and a member of the explorers’ society to take this trait.
+
+**Exalted of the Society (Faith)**: The vaults of the society’s great lodge contain many secrets of the divine powers of the gods, and you have studied your deity extensively. You may channel energy one additional time per day. You must be a cleric and a member of the explorers’ society to take this trait.
+
+**Greater Adept of the Society (Magic)**: Months of meditation and practice with the greatest spellcasters of the society have given you an increased capacity for arcane knowledge. You gain one additional 0-level spell slot. You must be a wizard and a member of the explorers’ society to take this trait.
+
+**Havoc of the Society (Magic)**: Through countless hours studying vast libraries of arcane power, you have learned how to cause greater damage to your foes. Whenever you cast a spell that deals damage, you gain a +1 trait bonus to the total damage dealt. This damage is considered force damage regardless of the type of damage dealt by the spell. You must be a sorcerer and a member of the explorers’ society to take this trait.
+
+**Honored Fist of the Society (Combat)**: You have studied dozens of ancient texts on martial arts that only the society possesses, and are more learned in these arts than most. You increase your *ki* pool by 1 point. You must be a monk and a member of the explorers’ society to take this trait.
+
+**Maestro of the Society (Social)**: The skills of the world’s greatest musicians are at your fingertips, thanks to the vast treasure trove of musical knowledge in the vaults beneath the society’s great lodge. Studying this knowledge gives you the ability to use your bardic performance an additional 3 rounds per day. You must be a bard and a member of the explorers’ society to take this trait.
+
+**Stalwart of the Society (Faith)**: The courageous powers of the world’s ancient paladin orders are open to you thanks to the society’s records of heroic deeds. As a result, your aura of courage class ability grants an additional +1 trait bonus on saving throws against fear effects. You must be a paladin and a member of the explorers’ society to take this trait.
+
+**Tracker of the Society (Combat)**: Thanks to your time as an explorer, you’ve mastered the art of tracking. You gain a +1 trait bonus on initiative checks and a +2 trait bonus on Survival checks made while traveling through any of your favored terrains. This is in addition to any bonuses you receive from your favored terrain class ability. You must be a ranger and a member of the explorers’ society to take this trait.
+
 ## Infernal Empire Traits
 
 These traits suit characters raised in or around an empire ruled by devil-worshipers. Each lists its trait category in parentheses.
@@ -203,3 +225,33 @@ These traits suit characters from a jungle colony and its wild surroundings. Eac
 **Desert Princess (Social)**: You have been raised to expect obedience from those around you, regardless of their station, and are not shy about demanding what you want. You gain a +1 trait bonus on Diplomacy and Intimidate checks, and one of these skills (your choice) is always a class skill for you. You must be a noblewoman of the desert satrapy to take this trait.
 
 **Strong Arm, Supple Wrist (Combat)**: You have been trained in the javelin and the spear, and you know how to make the best use of your momentum. When you move at least 10 feet before making an attack with a thrown weapon, you can add 10 feet to the range increment of the weapon thrown. You can gain this benefit only once per round.
+
+## Faction Traits
+
+**Coherent Rage (Combat)**: Your determination allows you to hold onto a shred of your rational mind at all times. Select one of the following skills: Bluff, Escape Artist, Handle Animal, or Stealth. You may use this skill normally while raging. You must be a member of the northern royal guard to take this trait.
+
+**Convincing Liar (Social)**: You’ve spent your life perfecting the art of half-truths in order to accomplish what you need to. You gain a +1 trait bonus on Bluff or Intimidate checks and one of these skills (your choice) is a class skill for you. You must be a member of the freed-slave network to take this trait.
+
+**Defy Madness (Faith)**: Your direct involvement with supernatural and alien forces has left you less vulnerable to the insanity they cause. You gain a +1 trait bonus on any saving throws against confusion, insanity, madness, and Wisdom damage and drain. You must be a member of the old cults to take this trait.
+
+**Demon Slayer (Combat)**: By studying a demonic opponent, you can sense and target its weak spots. You can attempt a Knowledge (planes) check to find a demon’s weak spot. (DC 10 + the demon’s CR). If you succeed, you gain a +3 trait bonus on rolls to confirm critical hits against that demon until the end of the battle. This effect only works on demons. You must be a member of a demon-hunting crusade to take this trait.
+
+**Faithful Feedback (Faith)**: A shared religious fervor makes your healing magic more effective. Whenever you cast a spell belonging to the healing subschool on someone of your religion, increase the hit points healed by +1.
+
+**Lucid Dreamer (Magic)**: Your dreams are a special place of power that only you get to enjoy; driving away threats to your subconscious is as easy as slamming a door. You receive a +1 trait bonus on Knowledge (planes) checks and a +2 trait bonus on Will saves against effects on your dreaming mind or subconscious, such as a night hag’s dream haunting ability, the *nightmare* spell, and illusions of the phantasm subschool. You must be a member of the wandering nomads to take this trait.
+
+**Necrotic Aura (Faith)**: Your exposure to the necromantic arts has strengthened your defenses against its vile rot. You gain a +1 trait bonus on saving throws against spells from the necromancy school or any effect that deals negative energy damage. You must be a member of a whispering necromancer cult to take this trait.
+
+**Noble Savage (Social)**: You hail from the fringes of civilization or the bottommost strata of society, but something in your character makes that seem endearing. You gain a +2 trait bonus on Diplomacy and Perform checks when dealing with people of high social standing. You must be a member of the northern royal guard to take this trait.
+
+**Savant (Social)**: From a very young age, the ability to master performance types has come quite naturally to you. Choose a performance type. You gain a +2 trait bonus on all Perform checks made using that performance type. Perform is always a class skill for you. You must be a member of a bardic academy to take this trait.
+
+**Second Tongue (Magic)**: Using an ancient and painful surgical technique, you’ve reshaped your tongue. These surgical mutilations permit you to speak ancient words unpronounceable to most mortals, enhancing your ability to work magic associated with the Great Old Ones. Any summoning or divination spell you cast to summon or contact a Great Old One or one of their minions is cast at +1 caster level. You must be a member of the old cults to take this trait.
+
+**Saint’s Ward (Faith)**: You have learned the secrets of an ancient prayer that wards off the attacks of demons. As a standard action, you can recite a holy chant that affects demons as if you were under the effect of a *sanctuary* spell (caster level equal to 1/2 your Hit Dice + your Charisma modifier). You must be a member of a demon-hunting crusade to take this trait.
+
+**Lich King’s Whisper (Magic)**: You have learned the secrets of sotto voce, the eerie, dry whispering voice used to pass on cult secrets. You may cast *sotto voce* three times per day as a spell-like ability. This spell-like ability is cast at your highest caster level; if you have no caster level, it functions at CL 1st. You must be a member of a whispering necromancer cult to take this trait.
+
+**Unnatural Presence (Faith)**: Your prolonged association with alien forces leaks from your pores. You can use your Intimidate skill to demoralize animals and vermin; Intimidate is a class skill for you. You must be a member of the old cults to take this trait.
+
+**Witty Repartee (Combat)**: You are quick with your tongue and have always possessed the talent to quickly admonish your enemies. You gain a +1 trait bonus on Bluff checks and Bluff is a class skill for you. You must be a member of a bardic academy to take this trait.
