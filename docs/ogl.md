@@ -363,3 +363,5 @@ The following text is the property of Wizards of the Coast, Inc. and is Copyrigh
     Pathfinder Chronicles: Faction Guide © 2010, Paizo Publishing, LLC; Authors: Joshua J. Frost, Jason Nelson, and Sean K Reynolds.
 
     Pathfinder Chronicles: Gods and Magic. Copyright 2008, Paizo Publishing, LLC; Author: Sean K Reynolds.
+
+    Pathfinder Campaign Setting: The Inner Sea World Guide © 2011, Paizo Publishing, LLC; Authors: Keith Baker, Wolfgang Baur, Clinton J. Boomer, Jason Bulmahn, Joshua J. Frost, Ed Greenwood, Stephen S. Greer, Jeff Grubb, James Jacobs, Michael Kortes, Tito Leati, Mike McArtor, Rob McCreary, Erik Mona, Jason Eric Nelson, Chris Pramas, F. Wesley Schneider, Amber Scott, Neil Spicer, Owen K.C. Stephens, and Todd Stewart.

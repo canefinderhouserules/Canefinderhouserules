@@ -3031,3 +3031,43 @@ If used as an additional material component when casting a spell the idol affect
 ### Crusader’s Steel
 
 Forged by the smiths of a crusader nation out of iron and a rare mineral, this bluish steel strikes true against monsters vulnerable to cold iron (such as demons). Weapons made of crusader’s steel cost 1-1/2 times as much to make as their normal counterparts. This steel is even more delicate than cold iron regarding magical enhancements; adding enhancements to the steel increases its price by 3,000 gp. This increase is applied the first time the item is enhanced, not once per ability added. Crusader’s steel is otherwise identical to cold iron.
+
+## Inner Lands Gear
+
+### Cannon Ball
+
+**Price** 30 gp; **Weight** 25 lbs.
+
+A cannon ball is the ammunition of a cannon and many other siege firearms. Picking up or drawing a cannon ball requires a move action for Medium and Small creatures, but is a free action for Large and larger creatures.
+
+### Explorer’s Chronicle
+
+**Price** 50 gp; **Weight** 1 lb.
+
+Numerous volumes and editions of these explorers’ chronicles exist. When used as a reference (an action that takes 1d4 full rounds of searching the text), a chronicle grants a +2 circumstance bonus on a specific Knowledge check. Each chronicle grants this bonus to a different type of Knowledge. Regardless of which type that particular chronicle is focused on, the cost of the book remains the same.
+
+### First-Tree Wood
+
+Towering above most other trees, these lofty silver-barked hardwoods are widely held as the “first trees.” Lumberjacks superstitiously connect them to the fey races of the woodlands and, despite the strength of the wood, often avoid harvesting them. Nature enthusiasts revere them. They grow to immense heights, but never spread to more than a few feet in diameter.
+
+**Stats**: As darkwood but with hardness 7 and 150% as expensive.
+
+### Infernal Knight Plate
+
+**Cost** 2,000 gp; **Weight** 50 lbs.
+
+**Armor Bonus** +9; **Max Dex Bonus** +1; **Armor Check Penalty** –5; **Arcane Spell Failure Chance** 35%; **Speed** 20 ft./15 ft.
+
+These distinctive suits of armor are a special type of masterwork full plate that grant additional effects when worn by a character with levels in the [infernal knight](../characters/prestige-classes/infernal-knight.md) prestige class. Apart from its distinctive look (each order of infernal knights has its own style of armor), a suit of this plate functions the same as a suit of masterwork full plate.
+
+### Tears of the Living God
+
+**Price** 25 gp; **Weight** —
+
+The faithful of a self-proclaimed living god utilize a number of tools to help them control the populace, but few are more insidious than these tears. This alchemical concoction contains mild narcotics and hallucinogens that bolster the user’s energy and resistance to pain. It is also highly addictive. Although the clergy gives away the tears to non-users, it eventually demands payment—as much as 10 gp per dose from wealthy addicts.
+
+**Type** ingested; **Addiction** major, Fortitude DC 18
+
+**Effects** 1 hour; +1 alchemical bonus to Constitution, –2 penalty on Wisdom-based skill checks
+
+**Damage** 1d2 Con damage

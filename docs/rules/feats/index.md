@@ -1502,6 +1502,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Aligned Crafting](aligned-crafting.md) | Item Creation | Craft Magic Arms and Armor or Craft Wondrous Item |
 | [All-Consuming Swing](all-consuming-swing.md) | Combat | Str 13, Power Attack, Cleave, Vital Strike, base attack bonus +8 |
 | [Ally Caller](ally-caller.md) | — | Triton, *summon nature's ally II* spell-like ability, character level 3rd |
+| [Altitude Affinity](altitude-affinity.md) | — | Endurance |
 | [Ambuscading Spell](ambuscading-spell.md) | — | — |
 | [Ambush Sense](ambush-sense.md) | Combat | Int 13, trap sense class feature |
 | [Ambush Squad](ambush-squad.md) | Combat, Teamwork | Base attack bonus +1, kobold |
@@ -1529,6 +1530,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Arcane Jinxer](arcane-jinxer.md) | General | Arcane spellcaster, Halfling Jinx racial trait |
 | [Arcane School Spirit](arcane-school-spirit.md) | General | Bluff 1 rank, arcane school class feature, gnome |
 | [Arcane Trap Suppressor](arcane-trap-suppressor.md) | — | Ability to cast dispel magic |
+| [Arcane Vendetta](arcane-vendetta.md) | — | Spellcraft 1 rank |
 | [Archer's Blessing](archers-blessing.md) | Combat | Weapon Focus (longbow), must worship a deity of family, farming, hunting, or trade |
 | [Archon Diversion](archon-diversion.md) | Combat | [Archon Style](archon-style.md), Combat Expertise, Combat Reflexes, base attack bonus +4 or monk level 3rd |
 | [Archon Justice](archon-justice.md) | Combat | [Archon Diversion](archon-diversion.md), [Archon Style](archon-style.md), Combat Expertise, Combat Reflexes, base attack bonus +8 or monk level 7th |
@@ -1581,6 +1583,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Banish Possessor](banish-possessor.md) | General | — |
 | [Banishing Critical](banishing-critical.md) | Critical | Arcane Strike or Disruptive; Spellcraft 8 ranks; arcane pool class feature |
 | [Banner of Doom](banner-of-doom.md) | Combat | Base attack bonus +8, banner class feature, tiefling |
+| [Barbed Devil Fist](barbed-devil-fist.md) | Combat | Improved Unarmed Strike, Weapon Focus (unarmed strike) |
 | [Barrage of Styles](barrage-of-styles.md) | Combat, Teamwork | Base attack bonus +1, human |
 | [Bastion Stance](bastion-stance.md) | Combat | Con 13, proficiency with heavy armor and shields |
 | [Bat Shape](bat-shape.md) | — | Cha 13, werebat-kin |
@@ -1626,6 +1629,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Blood Frenzy Assault](blood-frenzy-assault.md) | Combat | Str 17, Blood Frenzy Strike, Blood Frenzy Style, Bloody Assault, Improved Unarmed Strike, Power Attack, base attack bonus +6, aquatic subtype |
 | [Blood Frenzy Strike](blood-frenzy-strike.md) | Combat | Str 15, Blood Frenzy Style, Improved Unarmed Strike, Power Attack, base attack bonus +4, aquatic subtype |
 | [Blood Frenzy Style](blood-frenzy-style.md) | Combat, Style | Str 13, Improved Unarmed Strike, base attack bonus +1, aquatic subtype |
+| [Blood of Greatness](blood-of-greatness.md) | — | You may only gain this feat at 1st level |
 | [Blood Tide](blood-tide.md) | Combat | Combat Expertise, Greater Blood Frenzy, base attack bonus +6, blood frenzy ability, sahuagin |
 | [Bloodletting](bloodletting.md) | Combat | Worshiper of a deity of pain |
 | [Bloodmarked Flight](bloodmarked-flight.md) | — | Base attack bonus +5, werebat-kin |
@@ -1870,6 +1874,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Demonic Style](demonic-style.md) | Combat, Style | Power Attack, base attack bonus +1 |
 | [Dervish Dance](dervish-dance.md) | Combat | Dex 13, Weapon Finesse, Perform (dance) 2 ranks, proficient with scimitar |
 | [Designated Antagonist](designated-antagonist.md) | Teamwork | [Antagonize](antagonize.md) |
+| [Desperate Battler](desperate-battler.md) | Combat | — |
 | [Destroy Identity](destroy-identity.md) | Combat, Critical | Critical Focus, base attack bonus +11, worshiper of a deity of monsters and madness |
 | [Destructive Persuasion](destructive-persuasion.md) | Combat | Str 13, Power Attack, Intimidate 1 rank |
 | [Devastating Assault](devastating-assault.md) | Weapon Mastery | Base attack bonus +9, weapon training class feature with a melee weapon |
@@ -2043,7 +2048,9 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Eye for Ingredients](eye-for-ingredients.md) | — | Eschew Materials, Appraise 6 ranks, Spellcraft 6 ranks |
 | [Eyes of the Twilight](eyes-of-the-twilight.md) | — | Sharp Senses, Perception 7 ranks, keen senses racial trait, low-light vision |
 | [Fabulist](fabulist.md) | Grit | Amateur Gunslinger feat or grit class feature |
+| [Falcata Duelist](falcata-duelist.md) | Combat | Dex 13, Exotic Weapon Proficiency (falcata), Shield Proficiency (buckler), Weapon Focus (falcata) |
 | [Falcon’s Cry](falcons-cry.md) | — | Cha 13 |
+| [Falconry Arts](falconry-arts.md) | — | Cha 13, Animal Affinity, animal companion class feature |
 | [Fall Guy](fall-guy.md) | Teamwork | Bluff 1 rank |
 | [False Casting](false-casting.md) | — | Magical Aptitude, Bluff 1 rank, Sleight of Hand 1 rank |
 | [False Focus](false-focus.md) | — | Knowledge (religion) 1 rank, ability to cast arcane spells |
@@ -2060,6 +2067,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Fast Change](fast-change.md) | — | Dex 13, base attack bonus +6, skinwalker |
 | [Fast Crawl](fast-crawl.md) | — | — |
 | [Fate-Deck Summoning](fate-deck-summoning.md) | — | Ability to cast conjuration (summoning) spells or use summoning spell-like abilities, a complete fate deck you own |
+| [Fate-Touched](fate-touched.md) | — | — |
 | [Fateful Channel](fateful-channel.md) | — | Channel positive energy 3d6, worshiper of a deity of death and fate |
 | [Favored Animal Focus](favored-animal-focus.md) | — | Animal companion class feature, animal focus class feature |
 | [Favored Community](favored-community.md) | — | Knowledge (local) 2 ranks, must have lived in the settlement for at least 1 year |
@@ -2073,6 +2081,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Ferocious Horde](ferocious-horde.md) | Teamwork | Orc, ferocity racial trait |
 | [Ferocious Loyalty](ferocious-loyalty.md) | Teamwork | — |
 | [Fetid Breath](fetid-breath.md) | — | Con 15, Corrupted Flesh, 6 HD, ogre |
+| [Fey Foundling](fey-foundling.md) | — | You may only select this feat at 1st level |
 | [Fey Friend](fey-friend.md) | — | Worshiper of a deity of the fey |
 | [Fey Obedience](fey-obedience.md) | — | Knowledge (planes) 3 ranks, must worship a fey lord |
 | [Fey Spell Lore](fey-spell-lore.md) | — | Cha 13, Spellcraft 1 rank, ability to cast druid spells |
@@ -2164,6 +2173,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Glorious Heat](glorious-heat.md) | — | Ability to cast divine spells, caster level 5th, worshiper of a deity of the sun |
 | [Gluttonous Gobbler](gluttonous-gobbler.md) | — | Improved Unarmed Strike, Improved Grapple or the grab ability, ogre, size Large or larger |
 | [Gnawer](gnawer.md) | — | Sharptooth, ratfolk |
+| [Godless Healing](godless-healing.md) | — | Cannot have a patron deity |
 | [Got Your Back](got-your-back.md) | Combat, Teamwork | Int 13, Combat Expertise |
 | [Grab and Go](grab-and-go.md) | Combat | Catch Off-Guard or Throw Anything, base attack bonus +1 |
 | [Graceful Athlete](graceful-athlete.md) | — | Acrobatics 1 rank, Climb 1 rank, Swim 1 rank, racial bonus to Dexterity |
@@ -2216,6 +2226,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Harder They Fall](harder-they-fall.md) | Combat, Teamwork | Str 13, Int 13, Combat Expertise, Power Attack |
 | [Harmonic Accord](harmonic-accord.md) | Teamwork | Bardic performance or raging song |
 | [Harmonic Empowerment](harmonic-empowerment.md) | Teamwork | Harmonic Accord, Perform (keyboard, percussion, sing, string, or wind) 10 ranks, bardic performance or raging song |
+| [Harmonic Spell](harmonic-spell.md) | — | Bardic music ability |
 | [Harrying Partners](harrying-partners.md) | Combat, Teamwork | Any teamwork feat, base attack bonus +6 |
 | [Haruspicy](haruspicy.md) | — | Knowledge (religion) 3 ranks |
 | [Harvest Parts](harvest-parts.md) | — | Craft (any) 1 rank or Heal 1 rank |
@@ -2508,12 +2519,14 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Natural Ruler](natural-ruler.md) | — | Hold a leadership role related to running a kingdom |
 | [Nature Soul](nature-soul.md) | — | — |
 | [Nature's Wrath](natures-wrath.md) | — | Int 1, any nongood alignment, plant type |
+| [Necromantic Affinity](necromantic-affinity.md) | — | Con 15 |
 | [Needle in a Haystack](needle-in-a-haystack.md) | — | Skill Focus (Perception), Perception 3 ranks |
 | [Nerve-Racking Negotiator](nerve-racking-negotiator.md) | — | Persuasive |
 | [Night Stalker](night-stalker.md) | — | Skill Focus (Stealth), darkvision, half-ogre or ogre, size Large or larger |
 | [Nightmare Scars](nightmare-scars.md) | — | Worshiper of a deity of monsters and madness |
 | [Nimble Natural Summons](nimble-natural-summons.md) | — | Augment Summoning, Spell Focus (conjuration), ability to cast *summon nature’s ally*, caster level 6th, worshiper of a deity of the hunt and farming |
 | [Noble Stipend](noble-stipend.md) | — | Cha 13, Noble Scion |
+| [Nomad Spell Tattoo](nomad-spell-tattoo.md) | — | Spell Focus |
 | [Nomad-Trained Horse](nomad-trained-horse.md) | Animal Companion | Horse |
 | [Notorious Vigilante](notorious-vigilante.md) | Combat | Dazzling Display, Weapon Focus, any nongood alignment, great renown social talent, proficiency with chosen weapon |
 | [Noxious Touch](noxious-touch.md) | — | Grippli, toxic skin alternate racial trait |
@@ -2765,6 +2778,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Sensory Control](sensory-control.md) | Meditation | Wis 15, Blind-Fight, [Meditation Master](meditation-master.md) |
 | [Serpent Lash](serpent-lash.md) | Combat | Weapon Finesse, proficient in whip |
 | [Serpentine Compression](serpentine-compression.md) | — | Serpentfolk |
+| [Shade of the Haunted Forest](shade-of-the-haunted-forest.md) | — | Neutral evil, patron deity of darkness and pain |
 | [Shadow Dodge](shadow-dodge.md) | — | Dex 13, worshiper of a deity of secrets |
 | [Shadow Gambit](shadow-gambit.md) | — | Spell Focus (illusion), caster level 5th |
 | [Shadow Magic Defense](shadow-magic-defense.md) | — | *Disguise self* racial spell-like ability or shadow illusion shadowdancer class feature |
@@ -2799,6 +2813,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Shocking Amplification](shocking-amplification.md) | — | — |
 | [Shocking Bellow](shocking-bellow.md) | Combat | Intimidating Prowess |
 | [Shrapnel Strike](shrapnel-strike.md) | Combat | Str 15, Improved Sunder, Power Attack |
+| [Shrewd Tactician](shrewd-tactician.md) | Combat | Alertness, Combat Reflexes |
 | [Shrouded in Mystery](shrouded-in-mystery.md) | — | Bluff 1 rank; Disguise 1 rank; kitsune, nagaji, samsaran, tengu, or wayang |
 | [Shrug On](shrug-on.md) | Combat | Base attack bonus +1, medium armor proficiency |
 | [Signature Strike Style](signature-strike-style.md) | Combat, Style | Precise Shot; Weapon Focus; base attack bonus +7; Intimidate 7 ranks; Improved Called Shot, targeted strike swashbuckler deed, or targeting gunslinger deed |
@@ -3146,6 +3161,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Vulpine Pounce](vulpine-pounce.md) | Combat | Swift Kitsune Shapechanger, base attack bonus +10, kitsune |
 | [Waking Dream](waking-dream.md) | — | Cha 17, [Ephemeral Tread](ephemeral-tread.md), [Lucid Dreamer](lucid-dreamer.md), Knowledge (planes) 10 ranks |
 | [Walking Sleight](walking-sleight.md) | — | Deft Hands, Sleight of Hand 5 ranks |
+| [Wand Dancer](wand-dancer.md) | — | Dex 13, Dodge, Mobility, Perform (dance) 5 ranks |
 | [Wanderer's Fortune](wanderers-fortune.md) | Conduit | Knowledge (planes) 3 ranks |
 | [Warding Blood](warding-blood.md) | — | Ghostbane Ichor, Knowledge (religion) 13 ranks, vishkanya |
 | [Warleader's Rage](warleader-s-rage.md) | General | Cha 13, half-orc or orc, non-lawful |

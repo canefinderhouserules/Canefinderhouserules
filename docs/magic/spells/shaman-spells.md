@@ -108,6 +108,7 @@ Shamans gain access to the following spells. Spells in plain text come from othe
 - **[Thorn Javelin](thorn-javelin.md)**: Wield a javelin that sickens opponents when it strikes.
 - **[Touch of Blindness](touch-of-blindness.md)**: touches blind creatures for 1 round
 - **[Twisted Futures](twisted-futures.md)**: Target can't reroll or pick die results.
+- **[Unbreakable Heart](unbreakable-heart.md)**: +4 morale bonus against negative emotions and effects that would make the target harm an ally.
 - **[Underbrush Decoy](underbrush-decoy.md)**: Create a rustling distraction to hide.
 - **[Waterproof](waterproof.md)**: Renders an object or creature’s gear waterproof.
 - **[Wave Shield](wave-shield.md)**: Water blunts one incoming attack or fire effect.
@@ -262,6 +263,7 @@ Shamans gain access to the following spells. Spells in plain text come from othe
 - **[Ectoplasmic Snare](ectoplasmic-snare.md)**: Tendril of ectoplasm grapples a creature and tethers you to it.
 - Fins to Feet
 - **[Fair Is Foul](fair-is-foul.md)**: Curse: the target gains a random arcane malignancy.
+- **[Fate Reading](fate-reading.md)**: Fate deck cards grant one-use luck bonuses or penalties on checks for a chosen undertaking.
 - **[Fey Form I](fey-form-i.md)**: Assume the form of a Small or Medium fey creature.
 - **[Final Sacrifice](final-sacrifice.md)**: Detonate a summoned creature
 - **[Find Fault](find-fault.md)**: Learn a creature's weaknesses and gain +5 on your first attack.
@@ -279,6 +281,7 @@ Shamans gain access to the following spells. Spells in plain text come from othe
 - **[Irregular Size](irregular-size.md)**: Curse shrivels arms, legs, or wings.
 - **[Jealous Rage](jealous-rage.md)**: Target attacks anyone who receives a benefit it does not.
 - **[Knell of the Depths](knell-of-the-depths.md)**: Curse: the target sinks in water.
+- **[Lover’s Vengeance](lovers-vengeance.md)**: You or a lover gain *rage* the next time you fight a chosen enemy.
 - **[Magic Vestment](magic-vestment.md)**: Armor or shield gains +1 enhancement per four levels.
 - **[Mantle of Calm](mantle-of-calm.md)**: Neutralize the rage effects of those who have attacked you.
 - **[Mindlocked Messenger](mindlocked-messenger.md)**: ‘Target gains a message that can be given only to its intended recipient.
@@ -558,6 +561,7 @@ Shamans gain access to the following spells. Spells in plain text come from othe
 - **[Legendary Proportions](legendary-proportions.md)**: Increase a creature's size category with large bonuses.
 - **[Liveoak](liveoak.md)**: Oak becomes treant guardian.
 - **[Morning Sun](morning-sun.md)**: Sphere of sunlight staggers creatures harmed by sunlight and burns what it touches.
+- **[Nightmare Vision](nightmare-vision.md)**: As *nightmare*, and a second spell of 6th level or lower strikes the target as it wakes.
 - **[Planar Refuge](planar-refuge.md)**: A pocket of Material Plane wilderness on another plane.
 - **[Plane Shift](plane-shift.md)**: As many as eight subjects travel to another plane.
 - **[Plundered Power](plundered-power.md)**: Kill a creature and steal its strongest spell-like ability.

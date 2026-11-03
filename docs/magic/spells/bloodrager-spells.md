@@ -34,6 +34,7 @@ Bloodragers gain access to the following spells. Spells in plain text come from 
 - **[Hobble](hobble.md)**: Halve the movement speed of several creatures
 - **[Hydraulic Push](hydraulic-push.md)**: Wave of water bull rushes an enemy.
 - **[Icicle Dagger](icicle-dagger.md)**: Masterwork ice dagger deals +1 cold damage.
+- **[Infernal Healing](infernal-healing.md)**: Devil’s blood or unholy water grants fast healing 1 for 1 minute.
 - **[Jump](jump.md)**: Subject gets bonus on Acrobatics checks.
 - **[Line in the Sand](line-in-the-sand.md)**: Increase your attacks of opportunity per round.
 - **[Long Arm](long-arm.md)**: Your arms lengthen, giving you extra reach.

@@ -152,6 +152,7 @@
 - **[True Appraisal](true-appraisal.md)**: Gain insight into the value of objects
 - **[True Skill](true-skill.md)**: Gain an insight bonus on your next check with a chosen skill.
 - **[Twisted Futures](twisted-futures.md)**: Target can't reroll or pick die results.
+- **[Unbreakable Heart](unbreakable-heart.md)**: +4 morale bonus against negative emotions and effects that would make the target harm an ally.
 - **[Undetectable Alignment](undetectable-alignment.md)**: Conceals alignment for 24 hours.
 - **[Unseen Servant](unseen-servant.md)**: Invisible force obeys your commands.
 - **[Urban Grace](urban-grace.md)**: You become one with the city around you, allowing you to move more easily through its crowds and buildings.
@@ -379,6 +380,7 @@
 - **[Enticing Adulation](enticing-adulation.md)**: Target rages to defend you.
 - **[False Alibi](false-alibi.md)**: Replace a memory when a trigger occurs.
 - **[False Future](false-future.md)**: Cause divinations of the future to reveal the result you choose.
+- **[Fate Reading](fate-reading.md)**: Fate deck cards grant one-use luck bonuses or penalties on checks for a chosen undertaking.
 - **[Fear](fear.md)**: Subjects within cone flee for 1 round/level.
 - **[Fearsome Duplicate](fearsome-duplicate.md)**: School illusion (figment); Level bard 3, inquisitor 3, sorcerer/wizard 3, witch 3 Casting Time 1 standard.
 - **[Fiendish Wrath](fiendish-wrath.md)**: Willing creatures enter a combat frenzy and can rend.
@@ -408,6 +410,7 @@
 - **[Isolate](isolate.md)**: Separate your prey from support
 - **[Leshy Swarm](leshy-swarm.md)**: Summon a swarm of Tiny leshys.
 - **[Liquefy](liquefy.md)**: Turn an object into a harmless liquid.
+- **[Lover’s Vengeance](lovers-vengeance.md)**: You or a lover gain *rage* the next time you fight a chosen enemy.
 - **[Mad Sultan’s Melody](mad-sultans-melody.md)**: Bizarre cacophony fascinates eldritch creatures.
 - **[Magic Aura, Greater](magic-aura-greater.md)**: As *magic aura*, but also affects creatures and allows more options.
 - **[Major Image](major-image.md)**: As *silent image*, plus sound, smell, and thermal effects.

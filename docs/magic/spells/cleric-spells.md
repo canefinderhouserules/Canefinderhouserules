@@ -83,6 +83,7 @@
 - **[Hide from Undead](hide-from-undead.md)**: Undead can’t perceive one subject/level.
 - **[Ice Armor](ice-armor.md)**: Breastplate made of ice.
 - **[Incessant Buzzing](incessant-buzzing.md)**: Illusory wasp swarm disrupts concentration
+- **[Infernal Healing](infernal-healing.md)**: Devil’s blood or unholy water grants fast healing 1 for 1 minute.
 - **[Inflict Light Wounds](inflict-light-wounds.md)**: Touch deals 1d8 damage +1/level (max +5).
 - **[Instant Clot](instant-clot.md)**: end bleeding and stop blood flowing from wounds
 - **[Instant Portrait](instant-portrait.md)**: Paint a quick monochrome portrait.
@@ -142,6 +143,7 @@
 - **[Tracking Mark](tracking-mark.md)**: Easier to track a target.
 - **[True Appraisal](true-appraisal.md)**: Gain insight into the value of objects
 - **[Truthtelling](truthtelling.md)**: As *zone of truth*, but on one touched creature, who briefly looks like a being of perfect order.
+- **[Unbreakable Heart](unbreakable-heart.md)**: +4 morale bonus against negative emotions and effects that would make the target harm an ally.
 - **[Unhallowed Blows](unhallowed-blows.md)**: Give undead a +1 enhancement bonus on one natural attack or unarmed strikes.
 - **[Unwelcome Halo](unwelcome-halo.md)**: Target glows, losing concealment.
 - **[Velvet Diplomacy](velvet-diplomacy.md)**: Intimidate a target into friendliness and cloud its memory of the threats.
@@ -400,6 +402,7 @@
 - **[Life Shield](life-shield.md)**: Undead that hit you take positive energy damage
 - **[Light of Purity](light-of-purity.md)**: Illuminate undead and weaken their channel resistance.
 - **[Locate Object](locate-object.md)**: Senses direction toward object (specific or type).
+- **[Lover’s Vengeance](lovers-vengeance.md)**: You or a lover gain *rage* the next time you fight a chosen enemy.
 - **[Magic Circle against Chaos](magic-circle-against-chaos.md)/[Magic Circle against Evil](magic-circle-against-evil.md)/[Magic Circle against Good](magic-circle-against-good.md)/[Magic Circle against Law](magic-circle-against-law.md)**: As *protection* spells, but 10-ft. radius and 10 min./level.
 - **[Magic Vestment](magic-vestment.md)**: Armor or shield gains +1 enhancement per four levels.
 - **[Mark of Buoyancy](mark-of-buoyancy.md)**: make an object lighter than air
@@ -528,6 +531,7 @@
 - **[Holy Smite](holy-smite.md)**: Harms and possibly blinds evil creatures (1d8 damage/2 levels).
 - **[Hunger for Flesh](hunger-for-flesh.md)**: Give a creature a bite attack and a hunger for its own kind’s flesh.
 - **[Imbue with Spell Ability](imbue-with-spell-ability.md)**: Transfer spells to subject.
+- **[Infernal Healing, Greater](infernal-healing-greater.md)**: As *infernal healing*, but fast healing 4.
 - **[Inflict Critical Wounds](inflict-critical-wounds.md)**: Touch attack, 4d8 damage + 1/level (max +20).
 - **[Instant Restoration](instant-restoration.md)**: Heal a summoned creature as it falls
 - **[Iron Spine](iron-spine.md)**: Target takes damage and is sickened whenever it moves.
@@ -796,6 +800,7 @@
 - **[Magnetic Field](magnetic-field.md)**: Pulls metal objects and metal-clad creatures toward you.
 - **[Memory of Function](memory-of-function.md)**: Restore broken objects and timeworn tech.
 - **[Morning Sun](morning-sun.md)**: Sphere of sunlight staggers creatures harmed by sunlight and burns what it touches.
+- **[Nightmare Vision](nightmare-vision.md)**: As *nightmare*, and a second spell of 6th level or lower strikes the target as it wakes.
 - **[Particulate Form](particulate-form.md)**: Targets gain fast healing and immunity to critical hits.
 - **[Planar Refuge](planar-refuge.md)**: A pocket of Material Plane wilderness on another plane.
 - **[Plundered Power](plundered-power.md)**: Kill a creature and steal its strongest spell-like ability.

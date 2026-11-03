@@ -60,6 +60,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Illusory Crowd](illusory-crowd.md)**: Illusory stationary crowd.
 - **[Implant Urge](implant-urge.md)**: A target unconsciously desires a goal you choose.
 - **[Incessant Buzzing](incessant-buzzing.md)**: Illusory wasp swarm disrupts concentration
+- **[Infernal Healing](infernal-healing.md)**: Devil’s blood or unholy water grants fast healing 1 for 1 minute.
 - **[Instant Clot](instant-clot.md)**: end bleeding and stop blood flowing from wounds
 - **[Instant Portrait](instant-portrait.md)**: Paint a quick monochrome portrait.
 - **[Interrogation](interrogation.md)**: Target answers questions or suffers pain.
@@ -117,6 +118,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Transfer Tattoo](transfer-tattoo.md)**: Move a magic tattoo between creatures.
 - **[True Appraisal](true-appraisal.md)**: Gain insight into the value of objects
 - **[Twisted Futures](twisted-futures.md)**: Target can't reroll or pick die results.
+- **[Unbreakable Heart](unbreakable-heart.md)**: +4 morale bonus against negative emotions and effects that would make the target harm an ally.
 - **[Undine’s Curse](undine-s-curse.md)**: The target loses its body’s natural ability to breathe automatically.
 - **[Unerring Weapon](unerring-weapon.md)**: Grants a +2 bonus, +1 per four caster levels, on attack rolls to confirm a critical hit.
 - **[Unhallowed Blows](unhallowed-blows.md)**: Give undead a +1 enhancement bonus on one natural attack or unarmed strikes.
@@ -343,6 +345,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Eruptive Pustules](eruptive-pustules.md)**: Acid boils burst when you are attacked.
 - **[Evaluator's Lens](evaluators-lens.md)**: A force lens aids saves against figments and Appraise checks.
 - **[Excruciating Deformation](excruciating-deformation.md)**: Target takes Dex and Con damage.
+- **[Fate Reading](fate-reading.md)**: Fate deck cards grant one-use luck bonuses or penalties on checks for a chosen undertaking.
 - **[Fearsome Duplicate](fearsome-duplicate.md)**: School illusion (figment); Level bard 3, inquisitor 3, sorcerer/wizard 3, witch 3 Casting Time 1 standard.
 - **[Find Fault](find-fault.md)**: Learn a creature's weaknesses and gain +5 on your first attack.
 - **[Fins to Feet](fins-to-feet.md)**: School transmutation (polymorph); Level druid 3, sorcerer/wizard 3, witch 3 Casting Time 1 standard action.
@@ -380,6 +383,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Ki Leech](ki-leech.md)**: Add to your ki pool when you critically hit.
 - **[Loathsome Veil](loathsome-veil.md)**: Nauseates and/or sickens weak creatures.
 - **[Locate Weakness](locate-weakness.md)**: You roll damage twice when you roll damage for a critical hit and take the best damage.
+- **[Lover’s Vengeance](lovers-vengeance.md)**: You or a lover gain *rage* the next time you fight a chosen enemy.
 - **[Marionette Possession](marionette-possession.md)**: As magic jar, but limited to line of sight.
 - **[Mark of Spite](mark-of-spite.md)**: Hurt yourself to deal double damage to the marked foe.
 - **[Matchmaker](matchmaker.md)**: Cause two creatures to fall in love.
@@ -511,6 +515,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Hollow Heroism](hollow-heroism.md)**: Provide a *heroism* effect that you can reverse at any time.
 - **[Hunger for Flesh](hunger-for-flesh.md)**: Give a creature a bite attack and a hunger for its own kind’s flesh.
 - **[Ignoble Form](ignoble-form.md)**: a drow takes on a half-elf's form
+- **[Infernal Healing, Greater](infernal-healing-greater.md)**: As *infernal healing*, but fast healing 4.
 - **[Innocuous Shape](innocuous-shape.md)**: Target looks like a harmless creature.
 - **[Insect Spies](insect-spies.md)**: Use magic beetles as spies.
 - **[Instant Restoration](instant-restoration.md)**: Heal a summoned creature as it falls
@@ -745,6 +750,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Magnetic Field](magnetic-field.md)**: Pulls metal objects and metal-clad creatures toward you.
 - **[Mydriatic Spontaneity, Mass](mydriatic-spontaneity-mass.md)**: mydriatic spontaneity affecting multiple creatures
 - **[Nature’s Ravages, Greater](natures-ravages-greater.md)**: As nature’s ravages, aging a corpse by years.
+- **[Nightmare Vision](nightmare-vision.md)**: As *nightmare*, and a second spell of 6th level or lower strikes the target as it wakes.
 - **[Object Possession, Greater](object-possession-greater.md)**: As possess object, but the object is more powerful and you can possess a construct.
 - **[Particulate Form](particulate-form.md)**: Targets gain fast healing and immunity to critical hits.
 - **[Phasic Challenge](phasic-challenge.md)**: An enemy and an ally can affect only each other.

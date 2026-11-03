@@ -16,6 +16,7 @@ New summoner spells from *Ultimate Magic*. Spells from other books will be added
 - **[Enlarge Tail](enlarge-tail.md)**: Your tail gains reach and a bonus to attack and damage.
 - **[Flotsam Vessel](flotsam-vessel.md)**: Builds a raft from river debris that always travels downstream.
 - **[Icicle Dagger](icicle-dagger.md)**: Masterwork ice dagger deals +1 cold damage.
+- **[Infernal Healing](infernal-healing.md)**: Devil’s blood or unholy water grants fast healing 1 for 1 minute.
 - **[Instant Portrait](instant-portrait.md)**: Paint a quick monochrome portrait.
 - **[Jury-Rig](jury-rig.md)**: Removes the broken condition from the targeted object.
 - **[Life Conduit](life-conduit.md)**: You are bound even tighter to your eidolon than normal, and may share hit points with it through your life link ability.
@@ -150,6 +151,7 @@ New summoner spells from *Ultimate Magic*. Spells from other books will be added
 - **[Daze, Mass](daze-mass.md)**: As daze, but affecting multiple creatures.
 - **[Hollow Heroism](hollow-heroism.md)**: Provide a *heroism* effect that you can reverse at any time.
 - **[Hostile Juxtaposition](hostile-juxtaposition.md)**: You create a dimensional link with a targeted creature, and switch spots with it.
+- **[Infernal Healing, Greater](infernal-healing-greater.md)**: As *infernal healing*, but fast healing 4.
 - **[Instant Restoration](instant-restoration.md)**: Heal a summoned creature as it falls
 - **[Minotaur’s Blessing](minotaurs-blessing.md)**: Turn a creature’s head into a bull’s.
 - **[Mischievous Shadow](mischievous-shadow.md)**: Shadows of victims interfere with their actions.

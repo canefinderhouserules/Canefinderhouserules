@@ -83,6 +83,7 @@
 - **[Tamer’s Lash](tamers-lash.md)**: Create a whip made of sound that damages foes and can frighten animals.
 - **[Thunder Arrow](thunder-arrow.md)**: Electric arrow that attacks or signals.
 - **[Tracking Mark](tracking-mark.md)**: Easier to track a target.
+- **[Unbreakable Heart](unbreakable-heart.md)**: +4 morale bonus against negative emotions and effects that would make the target harm an ally.
 - **[Underbrush Decoy](underbrush-decoy.md)**: Create a rustling distraction to hide.
 - **[Urban Grace](urban-grace.md)**: You become one with the city around you, allowing you to move more easily through its crowds and buildings.
 - **[Waterproof](waterproof.md)**: Renders an object or creature’s gear waterproof.

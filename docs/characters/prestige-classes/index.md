@@ -84,15 +84,13 @@ The prestige classes presented in this chapter are summarized below.
 
 **[Exalted](exalted.md)**: A divine spellcaster who embodies her faith and inspires others, culminating in miraculous power.
 
-**[Explorer Delver](explorer-delver.md)**: A ruin-diving explorer who masters traps, escapes certain death, and leaves the journaling to others.
-
 **[Explorer Field Agent](explorer-field-agent.md)**: A versatile agent of an explorers’ society, trained to explore, report, and cooperate, with an upgraded *wayfinder*.
-
-**[Explorer Savant](explorer-savant.md)**: A scholar of ancient magic who masters magic items, glyphs and exotic spells while advancing in spellcasting.
 
 **[Faithless Enforcer](faithless-enforcer.md)**: A lawful investigator who hunts hidden cults and purges divine influence from lands that outlaw religion.
 
 **[False Priest](false-priest.md)**: An arcane caster who fakes divine power with temporary healing and lies.
+
+**[Fate Reader](fate-reader.md)**: A diviner who draws fate deck cards to bless allies and empower her spells.
 
 **[First Magic Arcanist](first-magic-arcanist.md)**: An arcane caster who adapts druid magic and fights evil with good-descriptor spells.
 
@@ -131,6 +129,8 @@ The prestige classes presented in this chapter are summarized below.
 **[Knight of the Vigil](knight-of-the-vigil.md)**: A heavily armored undead hunter with teamwork and shield feats.
 
 **[Living Monolith](living-monolith.md)**: A mortal who takes on the mantle of an immortal stone guardian.
+
+**[Low Templar](low-templar.md)**: A crusader of doubtful morals who fights demons with dirty tricks while hiding his true allegiance.
 
 **[Mammoth Rider](mammoth-rider.md)**: A tribal warrior mounted on a gigantic arctic beast.
 

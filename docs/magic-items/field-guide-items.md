@@ -252,16 +252,6 @@ This *wayfinder* is made of magically hardened glass, through which the complex 
 
 *Construction* Craft Wondrous Item, *light*, *magic circle against chaos*, *magic circle against evil*, *magic circle against good*, *magic circle against law*; Cost 9,000 gp.
 
-### Ebon Wayfinder
-
-*Aura* faint evocation and transmutation; *CL* 5th; *Slot* none; *Price* 18,000 gp; *Weight* 1 lb.
-
-Favored by explorers exploring dark and dangerous locales, the exterior of this *wayfinder* is constructed of panels of darkwood with ebony inlays. The panels slide apart to reveal platinum meshwork capable of holding one or two *ioun stones*. An *ebon wayfinder* grants the bearer darkvision with a range of 60 feet, and with a command word it can create *darkness* (as per the spell) once per day, centered on itself.
-
-When one *ioun stone* is slotted into the device, its *darkness* ability no longer functions. When a second stone is placed in it, the darkvision ability no longer functions.
-
-*Construction* Craft Wondrous Item, *darkness*, *darkvision*; Cost 9,000 gp.
-
 ### Wayfinder of Passage
 
 *Aura* moderate varied; *CL* 10th; *Slot* none; *Price* 136,000 gp; *Weight* 1 lb.

@@ -66,6 +66,7 @@
 - **[Thunder Arrow](thunder-arrow.md)**: Electric arrow that attacks or signals.
 - **[Tracking Mark](tracking-mark.md)**: Easier to track a target.
 - **[Truthtelling](truthtelling.md)**: As *zone of truth*, but on one touched creature, who briefly looks like a being of perfect order.
+- **[Unbreakable Heart](unbreakable-heart.md)**: +4 morale bonus against negative emotions and effects that would make the target harm an ally.
 - **[Unwelcome Halo](unwelcome-halo.md)**: Target glows, losing concealment.
 - **[Veil of Heaven](veil-of-heaven.md)**: You surround yourself with a veil of positive energy, making it harder for evil outsiders to harm you.
 - **[Virtue](virtue.md)**: Subject gains 1 temporary hp.

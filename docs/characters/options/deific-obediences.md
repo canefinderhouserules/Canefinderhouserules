@@ -93,7 +93,7 @@ Deities are listed by their portfolio rather than by name. Each entry gives the 
 
 1. **Blood Must Flow (Sp)**: *lead blades* 3/day, *spiritual weapon* 2/day, or *keen edge* 1/day
 2. **Bleeding Wounds (Ex)**: All wounds you inflict with a sawtooth sabre are bleeding wounds, and deal 1d4 points of bleed damage to the target. If you deal bleed damage via another source (such as the bleeding attack rogue talent or by using a *wounding sawtooth sabre*), this ability does not deal additional bleed damage. You can also use *bleed* as a quickened spell-like ability three times per day.
-3. **Mantis Style Mastery (Ex)**: You take no penalties on attack rolls from two-weapon fighting when wielding two sawtooth sabres simultaneously, and you gain a +2 profane bonus on all damage rolls with sawtooth sabres. If you deal sneak attack damage with a sawtooth sabre, you deal 2 additional points of damage for each die rolled as part of your sneak attack damage. If you have levels in a mantis assassin prestige class, the DC for the save against your prayer attack increases by 2.
+3. **Mantis Style Mastery (Ex)**: You take no penalties on attack rolls from two-weapon fighting when wielding two sawtooth sabres simultaneously, and you gain a +2 profane bonus on all damage rolls with sawtooth sabres. If you deal sneak attack damage with a sawtooth sabre, you deal 2 additional points of damage for each die rolled as part of your sneak attack damage. If you have levels in the [scarlet assassin](../prestige-classes/scarlet-assassin.md) prestige class, the DC for the save against your prayer attack increases by 2.
 
 ## Deity of battle, luck and mischief
 

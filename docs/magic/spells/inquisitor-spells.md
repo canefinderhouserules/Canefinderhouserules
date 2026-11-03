@@ -407,6 +407,7 @@ New inquisitor spells from *Ultimate Magic*. Spells from other books will be add
 - **[Morning Sun](morning-sun.md)**: Sphere of sunlight staggers creatures harmed by sunlight and burns what it touches.
 - **[Named Bullet, Greater](named-bullet-greater.md)**: As named bullet, but deals 2 points of damage per caster level.
 - **[Neutralize Poison, Greater](neutralize-poison-greater.md)**: As neutralize poison, but it also reverses poison damage.
+- **[Nightmare Vision](nightmare-vision.md)**: As *nightmare*, and a second spell of 6th level or lower strikes the target as it wakes.
 - **[Overwhelming Presence](overwhelming-presence.md)**: Creatures bow before you as if you were divine.
 - **[Plague Bearer](plague-bearer.md)**: Target spreads contagion to adjacent creatures.
 - **[Prognostication](prognostication.md)**: Gain cryptic information from further in the future than *divination*.

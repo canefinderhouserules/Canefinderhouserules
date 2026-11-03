@@ -32,6 +32,7 @@ The magus class spell list appears on the [Magus](../../characters/classes/magus
 - **[Hide Weapon](hide-weapon.md)**: Meld a weapon into your arm.
 - **[Hobble](hobble.md)**: Halve the movement speed of several creatures
 - **[Illusion of Calm](illusion-of-calm.md)**: You appear to be standing still, even when you take some actions.
+- **[Infernal Healing](infernal-healing.md)**: Devil’s blood or unholy water grants fast healing 1 for 1 minute.
 - **[Ironbeard](ironbeard.md)**: School transmutation; Level antipaladin 1, cleric 1, magus 1, paladin 1, ranger 1 Casting Time 1 standard.
 - **[Jury-Rig](jury-rig.md)**: Removes the broken condition from the targeted object.
 - **[Keep Watch](keep-watch.md)**: Lets subjects keep watch all night yet gain a full rest.
@@ -225,6 +226,7 @@ The magus class spell list appears on the [Magus](../../characters/classes/magus
 - **[Flash Forward](flash-forward.md)**: Make a charge attack, then teleport back.
 - **[Forceful Strike](forceful-strike.md)**: Melee hit deals extra force damage and bull rush.
 - **[Illusion of Treachery](illusion-of-treachery.md)**: Make it seem like another is also responsible for your attacks.
+- **[Infernal Healing, Greater](infernal-healing-greater.md)**: As *infernal healing*, but fast healing 4.
 - **[Instant Fake](instant-fake.md)**: Provide a short-term replica of an object.
 - **[Masochistic Shadow](masochistic-shadow.md)**: a shadow attacks the target, dealing Strength damage each round
 - **[Mischievous Shadow](mischievous-shadow.md)**: Shadows of victims interfere with their actions.

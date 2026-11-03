@@ -7616,3 +7616,71 @@ Created by the masters of a secret monk society, this thumbnail-sized crystal st
 
 **Construction Requirements:** *ki* pool, member of a secret monk society; **Cost** 1,000 gp
 
+## Inner Lands Items
+
+### Charm of Guardian Control
+
+**Slot** neck; **CL** 20th; **Price** 20,000 gp; **Weight** —
+
+**Aura** moderate transmutation
+
+This pendant holds a glowing crystal etched with faint runes. Created by the merchant lords of a great bazaar city to manipulate and control their guardian constructs, these charms are much sought after on the black market. Unauthorized possession of a *charm of guardian control* is considered a grave crime in that city, punishable by decades of imprisonment, exile, or even death. Each *charm of guardian control* is attuned to a single, specific construct, but the magic of the charm allows it to function somewhat against other guardian constructs as well. Against its specific attuned construct, the charm grants you the ability to command that construct as if you were using *dominate person* on a humanoid creature. This effect functions against other guardian constructs, but non-attuned guardian constructs gain a DC 16 Will save to resist the effect. If an construct fails such a save, it becomes attuned to that charm and the previous construct becomes unattuned—a single *charm of guardian control* can only be attuned to one construct at a time. For purposes of this effect, ordering an construct to attack a merchant lord or someone who appears to be part of the city’s government or army or to damage any structure in the city counts as an action against the construct’s nature and allows the construct a new saving throw with a +2 bonus to resist the charm’s effects. If an construct escapes this effect, it is no longer attuned and typically attacks the target who attempted to command it.
+
+**Construction Requirements:** Craft Construct, Craft Wondrous Item, *soul bind*; **Cost** 10,000 gp
+
+### Unguent of Revivification
+
+**Slot** none; **CL** 3rd; **Price** 300 gp; **Weight** 1 lb.
+
+**Aura** faint necromancy
+
+This foul-smelling gray paste is typically stored in a bone container. When smeared upon a corpse, it preserves that corpse’s state of decay for 5 days, as if via the *gentle repose* spell. If smeared upon a corporeal undead creature, it restores that creature’s living appearance for 5 days—this has no effect on the creature’s abilities, but does grant it a +10 circumstance bonus on Disguise checks to appear as a living creature and imparts a –5 penalty on Knowledge (religion) checks to identify what type of undead creature it is. *Unguent of revivification* is particularly popular in lands ruled by the undead, where many of the powerful view it as a vanity item to mask the hideous truths of their undead flesh.
+
+**Construction Requirements:** Craft Wondrous Item, *gentle repose*; **Cost** 150 gp
+
+### Zoic Fetish
+
+**Slot** none; **CL** 5th; **Price** 7,500 gp; **Weight** —
+
+**Aura** faint enchantment
+
+Originally invented by shamans of northern tribes, *zoic fetishes* have spread far and wide and are much sought after in any area where dangerous animals dwell. Each *zoic fetish* looks different, but is essentially a small fetish made from bone, branches, grass, and twine crafted into one of several shapes—a mammal, a bird, a reptile, an amphibian, or a fish.
+
+
+As long as a creature carries a *zoic fetish*, it is somewhat protected against attacks from animals, gaining a +1 insight bonus to AC against all animals. In addition, possession of a *zoic fetish* grants a +4 insight bonus on wild empathy checks. Finally, once per day, the wielder can present a *zoic fetish* to an animal of the same classification as the fetish (amphibian, bird, fish, mammal, or reptile) to use *dominate animal* on that creature.
+
+**Construction Requirements:** Craft Wondrous Item, *dominate animal*, *hide from animals*; **Cost** 3,750 gp
+
+### Blackaxe (Artifact)
+
+**Slot** none; **CL** 20th; **Price** —; **Weight** 50 lbs.
+
+**Aura** strong conjuration
+
+*Blackaxe* is a Huge *+5 plant bane greataxe* which is considered epic and can penetrate epic damage reduction. Virulent acid constantly seeps from its blade, dealing +1d6 points of acid damage on a successful hit. On a successful critical hit, *Blackaxe* deals an additional +2d10 points of acid damage. Once per minute, the weapon’s wielder can use *heal* on herself by striking a living and nonmagical tree with *Blackaxe*, causing the tree to wither to ash. The artifact is inexorably tied to a nascent demon lord of corrupted nature, who can call *Blackaxe* to his hand as a free action, despite any intervening distance, so long as *Blackaxe* is not kept in an area that prevents teleportation effects from occurring. While *Blackaxe* is wielded by another creature, the demon lord always knows that creature’s location and condition (as via the *discern location *and *status* spells), and by concentrating can observe the world around the wielder as if using that wielder’s senses. While in this state, the demon lord may use any of his spell-like abilities through the link, treating *Blackaxe* as if it were the source of the spell-like ability. Each time the demon lord does so, *Blackaxe’s* wielder must make a successful DC 25 Will save to avoid being staggered for 1 round from the flow of power. These spell-like abilities trigger during the wielder’s turn in initiative, but do not consume any of the wielder’s actions in that round.
+
+**Destruction**: In order to destroy *Blackaxe*, the weapon must be used against a powerful magical tree, and while the sap on the blade is still fresh it must then be used to sever one of the many fungoid limbs of a demon lord of parasites. Doing so causes *Blackaxe* to explode in a burst of obsidian shrapnel and acid that deals 20d6 points of acid damage and 20d6 points of piercing damage to all within a 60-foot burst (DC 30 Reflex save for half).
+
+### Sun Orchid Elixir (Artifact)
+
+**Slot** none; **CL** 17th; **Price** —; **Weight** —
+
+**Aura** strong necromancy
+
+The *sun orchid elixir* of a desert nation is a nearly perfect solution for those who seek eternal life. A single dose of *sun orchid elixir* cannot stop the aging process, but it does the next-best thing—it restores youth. A creature that drinks the elixir is restored to its starting age as a young adult. The drinker’s new age is randomly determined using Table 7–1 on page 169 of the *Pathfinder RPG Core Rulebook*. All penalties to Strength, Dexterity, and Constitution the drinker may have suffered as a result of advanced age are removed, but all bonuses to Intelligence, Wisdom, and Charisma that result from advanced age remain (although as the character ages again into middle age and beyond, he does not gain any of these bonuses a second time).
+
+
+Vanity-seekers go to nearly any length to acquire the elixir, resorting to bribery, extortion, and murder. To curtail such troubles in the land of its creation, the use of the elixir is outlawed there (except by the formula’s creator). Each vial of *sun orchid elixir* requires six mature sun orchids and 1 month’s time to ferment, although the exact formula used is a secret known only to a reclusive alchemist of that nation. Prices for a dose of the elixir vary wildly since the elixir is sold at auction, but no dose has ever sold for less than 50,000 gp.
+
+**Destruction**: A dose of *sun orchid elixir* is simple to destroy—merely pouring the elixir out and allowing the fluid to evaporate or be absorbed into the ground is enough to ruin it, as is mixing it with any other fluid or solvent. Of course, if word gets out of this fantastic waste of powerful magic, any number of enraged or scandalized organizations might seek out the character responsible for the elixir’s waste to extract bloody vengeance.
+
+### Wardstone (Artifact)
+
+**Slot** none; **CL** 20th; **Price** —; **Weight** 2,500 lbs.
+
+**Aura** strong abjuration
+
+When a rift to the Abyss destroyed an entire nation, the faithful of the goddess of valor seized upon the event as a balm against the horror of their former god’s death. The invention of the first *wardstones*, giant menhirs infused with holy magic meant to contain and repel demonic creatures, was perhaps the greatest result of the crusaders’ initial response to that destruction. Today, dozens of *wardstones* stand sentinel along the borders of the rift. The primary purpose of the *wardstones* is to contain the growing influence of the rift itself, but they also exude a powerful field similar to that generated by a *forbiddance* spell. A single *wardstone* exerts this aura in a 300-foot radius, but when multiple *wardstones* are linked (as in the case of those running along the border of the rift), they create a 300-foot-wide path of *forbiddance*, with the *wardstones* running down the middle. The *forbiddance* area, be it a radius or path, deals 12d6 points of damage per round to any demon within that area (DC 18 Will save half; spell resistance applies). Teleportation effects do not function in this zone at all. The *wardstones* that bolster the main borders of the rift have a further effect as well—focused on it as they are, they prevent demons from teleporting into or out of the rift and effectively contain the threat.
+
+**Destruction**: If a *wardstone* misses its yearly maintenance ritual, it becomes vulnerable to damage. At this point, a *wardstone* can be damaged by mortal attacks, but it still has hardness 25 and 500 hit points. If a *wardstone* along a series of linked *wardstones* is destroyed, the resulting “hole” in the path of the *forbiddance* effect can be as narrow as a few dozen feet or as wide as several miles, depending upon numerous other variables (such as the terrain, the strength of the other *wardstones*, and other factors).
+

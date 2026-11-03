@@ -120,6 +120,7 @@
 - **[Implant Urge](implant-urge.md)**: A target unconsciously desires a goal you choose.
 - **[Incendiary Runes](incendiary-runes.md)**: As explosive runes, but deals fire damage and sets targets aflame.
 - **[Incessant Buzzing](incessant-buzzing.md)**: Illusory wasp swarm disrupts concentration
+- **[Infernal Healing](infernal-healing.md)**: Devil’s blood or unholy water grants fast healing 1 for 1 minute.
 - **[Instant Portrait](instant-portrait.md)**: Paint a quick monochrome portrait.
 - **[Itching Curse](itching-curse.md)**: Itch gives –1 penalty unless scratched.
 - **[Jury-Rig](jury-rig.md)**: Removes the broken condition from the targeted object.
@@ -594,6 +595,7 @@
 - **[Erode Defenses](erode-defenses.md)**: Target's DR and natural armor wear away.
 - **[Evaluator's Lens](evaluators-lens.md)**: A force lens aids saves against figments and Appraise checks.
 - **[Explosive Runes](explosive-runes.md)**: Deals 6d6 damage when read.
+- **[Fate Reading](fate-reading.md)**: Fate deck cards grant one-use luck bonuses or penalties on checks for a chosen undertaking.
 - **[Fearsome Duplicate](fearsome-duplicate.md)**: School illusion (figment); Level bard 3, inquisitor 3, sorcerer/wizard 3, witch 3 Casting Time 1 standard.
 - **[Final Sacrifice](final-sacrifice.md)**: Detonate a summoned creature
 - **[Find Fault](find-fault.md)**: Learn a creature's weaknesses and gain +5 on your first attack.
@@ -639,6 +641,7 @@
 - **[Leshy Swarm](leshy-swarm.md)**: Summon a swarm of Tiny leshys.
 - **[Lightning Conductor](lightning-conductor.md)**: Absorb electricity damage and discharge it as a touch or ray.
 - **[Locate Weakness](locate-weakness.md)**: You roll damage twice when you roll damage for a critical hit and take the best damage.
+- **[Lover’s Vengeance](lovers-vengeance.md)**: You or a lover gain *rage* the next time you fight a chosen enemy.
 - **[Magic Circle against Chaos](magic-circle-against-chaos.md)/[Magic Circle against Evil](magic-circle-against-evil.md)/[Magic Circle against Good](magic-circle-against-good.md)/[Magic Circle against Law](magic-circle-against-law.md)**: As *protection* spells, but 10-ft. radius and 10 min./level.
 - **[Mark of Buoyancy](mark-of-buoyancy.md)**: make an object lighter than air
 - **[Mark of Spite](mark-of-spite.md)**: Hurt yourself to deal double damage to the marked foe.
@@ -872,6 +875,7 @@
 - **[Hypercognition](hypercognition.md)**: Rapidly recall everything you know about a subject.
 - **[Ignoble Form](ignoble-form.md)**: a drow takes on a half-elf's form
 - **[Illusion of Treachery](illusion-of-treachery.md)**: Make it seem like another is also responsible for your attacks.
+- **[Infernal Healing, Greater](infernal-healing-greater.md)**: As *infernal healing*, but fast healing 4.
 - **[Innocuous Shape](innocuous-shape.md)**: Target looks like a harmless creature.
 - **[Insect Spies](insect-spies.md)**: Use magic beetles as spies.
 - **[Instant Fake](instant-fake.md)**: Provide a short-term replica of an object.
