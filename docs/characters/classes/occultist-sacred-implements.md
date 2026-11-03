@@ -33,7 +33,7 @@ Outsiders and divine servants leave especially lasting impressions when they int
 
 **Implement School** evocation; **Implement** figurine; **Opposition School** abjuration
 
-**Footsteps of the Rough Beast (Su)**: You can expend 1 point of mental focus as a move action to cause the ground in a 5-foot-radius burst centered on you to crumble and rupture, becoming difficult terrain. If you remain stationary, in subsequent rounds you can concentrate on this area as though concentrating on a spell by expending 1 additional mental focus each round. As long as you maintain concentration, the radius of the difficult terrain increases by 5 feet (maximum 30-foot radius) each round. You immediately cease concentrating if you move from your originating location. Difficult terrain created this way remains for 24 hours before returning to its original state.
+**Footsteps of the Destroyer (Su)**: You can expend 1 point of mental focus as a move action to cause the ground in a 5-foot-radius burst centered on you to crumble and rupture, becoming difficult terrain. If you remain stationary, in subsequent rounds you can concentrate on this area as though concentrating on a spell by expending 1 additional mental focus each round. As long as you maintain concentration, the radius of the difficult terrain increases by 5 feet (maximum 30-foot radius) each round. You immediately cease concentrating if you move from your originating location. Difficult terrain created this way remains for 24 hours before returning to its original state.
 
 ## Mask of the Secret-Eater
 
