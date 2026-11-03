@@ -217,6 +217,14 @@ This primeval crocodile is equally effective in the water and on land. Its jaws 
 
 **7th-Level Advancement**: Size Large; AC +2 natural armor; Attack bite (2d6 plus grab); Ability Scores Str +4, Dex –2, Con +4; Special Attacks constrict (2d6).
 
+### Pygmy Hippopotamus
+
+This fleshy behemoth wallows forward on four stumpy legs. Its jaws spread wide in a roar of challenge, exposing massive, tusk-like teeth.
+
+**Starting Statistics**: **Size** Medium; **Speed** 30 ft.; **AC** +4 natural armor; **Attack** bite (1d6); **Ability Scores** Str 14, Dex 10, Con 13, Int 2, Wis 10, Cha 4; **Special Qualities** low-light vision, scent.
+
+**7th-Level Advancement**: **Size** Large; **AC** +4 natural armor; **Attack** bite (2d6); **Ability Scores** Str +4, Dex -2, Con +4; **Special Attacks** trample (1d8).
+
 ### Reef Snake
 
 Highly venomous and an excellent swimmer, the brightly colored reef snake is at home in tidal waters but can slither about on land if needed.

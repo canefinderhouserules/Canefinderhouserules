@@ -385,3 +385,5 @@ The following text is the property of Wizards of the Coast, Inc. and is Copyrigh
     Pathfinder Chronicles: Dark Markets, A Guide to Katapesh © 2009, Paizo Publishing, LLC; Authors: Stephen S. Greer and Amber E. Scott.
 
     Pathfinder Campaign Setting: Belkzen, Hold of the Orc Hordes © 2015, Paizo Inc.; Authors: Tyler Beck, Jason Garrett, Alex Greenshields, and David Schwartz.
+
+    Pathfinder Campaign Setting: Heart of the Jungle © 2010, Paizo Publishing, LLC; Authors: Tim Hitchcock, Jason Nelson, Amber Scott, Chris Self, and Amber Stewart.

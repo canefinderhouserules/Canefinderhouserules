@@ -3405,3 +3405,119 @@ This massive ballista fires a dozen or more bolts at once in a devastating rain 
 **Cost** 2,000 gp **Weight** 100 lbs.
 
 Usable in catapults and trebuchets, this ammunition consists of a wooden crate packed with wax globes, from which a faint buzzing sound emanates. Visible as a dark shape at the center of each globe is a rat-sized hornet known as a rockwasp. The alchemical wax keeps the wasps immobilized, while tiny air holes allow them to breathe. This ammunition deals only half damage, but releases a wasp swarm—two wasp swarms if used for a heavy catapult or heavy trebuchet. The wasps attack for 1 minute before dispersing. On a siege engine mishap, the wasps escape before the ammunition is launched.
+
+## Jungle Diseases and Poisons
+
+### Bonecrusher
+
+**Type** disease, injury; **Fortitude Save** DC 12
+
+**Onset** 1 week; **Frequency** 1/day
+
+**Effect** 1d4 Dex damage
+
+**Cure** 2 consecutive saves
+
+### Boot Soup
+
+**Type** contact; **Fortitude Save** DC 16
+
+**Onset** 1 day; **Frequency** 1/day
+
+**Effect** speed reduced by 5 feet and 1d3 Dex damage, creatures reduced to 0 feet are permanently paralyzed
+
+**Cure** 2 consecutive saves, or completely skinning or burning the affected area (inflicting 1d8 points of damage)
+
+### Brainworms
+
+**Type** contact or injury; **Fortitude Save** DC 14
+
+**Onset** 1 day; **Frequency** 1/day
+
+**Effect** 1d3 Wis damage and 1d3 Int damage, if damaged in combat, target must make a second Fort save or gain the confused condition for the duration of the encounter
+
+**Cure** 2 consecutive saves
+
+### Dysentery
+
+**Type** contact or injury; **Fortitude Save** DC 16
+
+**Onset** 1d3 days; **Frequency** 1/day
+
+**Effect** 1d6 nonlethal damage and target is fatigued and staggered
+
+**Cure** 2 consecutive saves
+
+### Firegut
+
+**Type** injury or inhaled; **Fortitude Save** DC 17
+
+**Onset** 1 day; **Frequency** 1/day
+
+**Effect** target is staggered
+
+**Cure** 3 consecutive saves
+
+### Green Haze
+
+**Type** contact; **Fortitude Save** DC 13
+
+**Onset** 1 day; **Frequency** 1/day
+
+**Effect** -4 on Perception checks, target is permanently blinded if it fails 3 saves
+
+**Cure** 2 consecutive saves
+
+### Greenscale
+
+**Type** injury; **Fortitude Save** DC 15
+
+**Onset** 1d6 days; **Frequency** 1/week
+
+**Effect** 1d2 Cha damage and 1d2 Dex damage, target must make a second Fort save or 1 point of the Cha damage is drain instead
+
+**Cure** 2 consecutive saves
+
+### Jungle Fever
+
+**Type** injury; **Fortitude Save** DC 18
+
+**Onset** 1d3 days; **Frequency** 1/day
+
+**Effect** 1d3 Str damage and 1d3 Con damage and target is fatigued
+
+**Cure** 2 consecutive saves
+
+### Red Drip
+
+**Type** contact (fungus); **Fortitude Save** DC 18
+
+**Onset** 1 day; **Frequency** 1/day
+
+**Effect** 1d4 Dex damage and 1d2 Cha damage
+
+**Cure** 2 consecutive saves or amputation of infected limb
+
+### Sleeping Sickness
+
+**Type** injury; **Fortitude Save** DC 14
+
+**Onset** 1d2 days; **Frequency** 1/day
+
+**Effect** 1d4 Wis damage and target is fatigued
+
+**Cure** 2 consecutive saves or arsenic (see text)
+
+The best cure for this disease is dosing the patient with the poison arsenic—if the patient survives, there’s a cumulative 30% chance that the disease is immediately cured.
+
+### Spidervine Poison
+
+**Weight** —
+
+**Type** injury; **Save** Fortitude DC 15
+
+**Frequency** 1/round for 6 rounds
+
+**Initial Effect** paralysis; **Secondary Effect** 1d2 Con damage
+
+**Cure** 2 consecutive saves
