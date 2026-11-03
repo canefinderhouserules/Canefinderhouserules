@@ -324,6 +324,7 @@
 - **[Drain Construct](drain-construct.md)**: Strip a construct of DR, fast healing, speed, and Strength.
 - **[Dress Corpse](dress-corpse.md)**: Doctor the evidence on a corpse.
 - **[Eldritch Conduit](eldritch-conduit.md)**: Use an enemy as the origin point of an area spell.
+- **[Embrace Destiny](embrace-destiny.md)**: Roll a d20 now and use the result for a later roll.
 - **[Enchantment Sight](enchantment-sight.md)**: See which creatures are under enchantment effects.
 - **[Endure Elements, Communal](endure-elements-communal.md)**: As endure elements, but you may divide the duration among creatures touched.
 - **[Eroding Ray](eroding-ray.md)**: Rays crumble constructs and objects.

@@ -95,3 +95,9 @@
 | Weasel | Master gains a +3 bonus on Reflex saves |
 | Ermine (use weasel statistics and gains a +4 racial bonus on Stealth checks in snow.) | Master gains a +3 bonus on Reflex saves |
 | Mongoose (use weasel statistics and gains a +4 bonus on saving throws against poison from snakes.) | Master gains a +3 bonus on Fortitude saves |
+
+## More Familiars
+
+**Keulia**: This small, frilled lizard covers itself in debris and shiny detritus to blend in with its surroundings. Its master gains a +3 bonus on Disguise checks. (Tiny animal; speed 20 ft., burrow 5 ft.; Str 5, Dex 12, Con 11, Int 1, Wis 12, Cha 7; custom camouflage: after 1 hour adhering debris to its scales, +2 racial bonus on Stealth checks in that environment.)
+
+**Tauhoti**: This fluffy trading squirrel has a round body and long tufts atop its ears, and never forgets a debt or a slight. Its master gains a +3 bonus on one Profession check of her choice, selected when gaining the familiar. (Diminutive animal; speed 20 ft., burrow 5 ft.; Str 1, Dex 16, Con 8, Int 2, Wis 15, Cha 9; excellent memory: +4 bonus on Intelligence checks to remember facts, +2 racial bonus on saves against effects that damage, drain or reduce Intelligence or Wisdom.)

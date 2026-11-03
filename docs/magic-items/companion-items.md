@@ -8506,3 +8506,165 @@ Finally, the crafter can choose for her soul to pass from her body, traveling th
 
 **Destruction**: If the great anvil of the *Soulforge* is used as a sacrificial altar to slay a willing lawful outsider of at least 18 Hit Dice while the forge burns with divine flame, the artifact is destroyed.
 
+## Heavenly Items
+
+### Chaos Cutter
+
+**Slot** none; **CL** 9th; **Price** 160,000 gp; **Weight** 1200 lbs.
+
+**Aura** strong abjuration and transmutation
+
+This narrow, sleek sloop is made of an iridescent metal that glows a pale white and is as hard as adamantine. It boasts a single mast with two translucent planar sails and can plow across the tumultuous metaphysical seas of the plane of chaos to reach any plane. When not on that plane, the vehicle acts in all regards as a heavy chariot that hovers 5 feet off the ground instead of standing on a pair of wheels.
+
+When piloted there, a *chaos cutter* can fly with a maximum speed of 100 feet and acceleration of 30 feet. Any creature can sail and direct a cutter using its rudder with a successful DC 10 Profession (sailor) check, which can be attempted untrained. Success at this check also counts as success at a Wisdom check to change the direction of gravity (and thus the cutter’s trajectory); creatures on a cutter treat gravity as normal while in the vehicle.
+
+A *chaos cutter* is reinforced with an imperceptible field that protects against planar energies. While on a cutter, a passenger does not need to eat, drink, or breathe, as though it were of the outsider type. Additionally, all creatures on the vehicle are affected by *planar adaptation* and *protection from chaos*.
+
+A *chaos cutter* has 175 hit points and is 15 feet long.
+
+**Construction Requirements:** Craft Wondrous Item, overland flight, *planar adaptation*APG, polymorph, protection from chaos;* *Cost** 80,000 gp
+
+### Gory Beacon
+
+**Slot** none; **Price** 5,800 gp; **Weight** —
+
+**Aura** strong evil
+
+The skull of this *grim lantern* bears several rivets. Its blast of heat functions only when a creature of the user’s type within 30 feet (including the user) is taking bleed damage.
+
+### Cannibal’s Medallion
+
+**Slot** neck; **Price** 7,500 gp; **Weight** —
+
+**Aura** strong evil
+
+This *periapt of health* functions only for a wearer who has consumed at least 1 pound of humanoid flesh within the past week.
+
+### Mimic Poppet
+
+**Slot** none; **Price** 2,500 gp; **Weight** —
+
+**Aura** strong evil
+
+This rag and wicker haunted doll appears to be a *hex doll*, but its appearance adjusts to mimic its owner after it has been carried for more than 24 hours.
+
+### Shrouded Demise
+
+**Slot** none; **Price** 4,410 gp; **Weight** —
+
+**Aura** strong evil
+
+This *wand of death knell* (49 charges) is made of wood but carved to appear as though it were tightly wrapped in several veils.
+
+### Staff of Remorse (Artifact)
+
+**Slot** none; **CL** 28th; **Price** —; **Weight** 4 lbs.
+
+**Aura** overwhelming varied
+
+This artifact is a *+5 anchoring ghost touch holy quarterstaff*. It can also appear as a walking stick and can assume its true form as a free action. Any time it deals damage, the creature struck must attempt a DC 25 Will saving throw. If it fails, the target becomes overwrought with remorse for events that took place in the course of its existence, even if it is denied, never had, or lost the capacity to feel emotion, as per *overwhelming grief*. This effect affects only creatures with Intelligence 3 or greater, even if they are normally immune to mind-affecting effects. Once affected or after a successful saving throw, the target becomes immune to this ability for 24 hours. As a standard action, its bearer, an empyreal lord of redemption, can summon it to her hand from any distance, even across planar boundaries.
+
+**Destruction**: The staff must be broken in the bare hands of an archon whose CR is 20 or greater, while that being renounces Heaven and swears allegiance to an evil master or cause.
+
+## Lost Kingdom Items
+
+### Farwatcher
+
+**Slot** none; **CL** 11th; **Price** 120,850 gp; **Weight** 260 lbs.
+
+**Aura** moderate divination
+
+This exquisite telescope is crafted of brass, ivory, wood, and carefully polished crystal lenses and silver mirrors, and is over 10 feet long. Anyone using a *farwatcher* must possess at least 5 ranks in Profession (astronomy) in order to use it—the device is simply too complex for anyone with less training to use it properly.
+
+An observer using this device gains a +20 circumstance bonus on Perception checks to discern celestial bodies, as well as a +20 circumstance bonus on any Profession (astronomer) checks made while using it at night. A *farwatcher* can be used during either the night or day to look at celestial or terrestrial objects, though any object within 1 mile viewed through the telescope is obscured beyond recognition. A *farwatcher* allows its user to see things through it as though under the effects of *true seeing* for up to 1 hour per day. These minutes need not be consecutive, but must be expended in minimum increments of 10 minutes each.
+
+**Construction Requirements:** Craft Wondrous Item, Profession (astronomy) 11 ranks, *true seeing*; **Cost** 60,550 gp
+
+### Helm of Frenzied Hunger
+
+**Slot** head; **CL** 7th; **Price** —; **Weight** 3 lbs.
+
+**Aura** moderate enchantment
+
+The *helm of frenzied hunger* grants its wearer a +4 circumstance bonus on attack rolls made to confirm critical hits. However, whenever the wearer threatens a critical hit (regardless of whether or not he actually succeeds), he immediately becomes berserk (gaining all the benefits and drawbacks of the barbarian’s rage ability). For 1d4+1 rounds, he is compelled to attack the nearest creature until it has fallen, regardless of whether the target is friend or foe.
+
+In addition, whenever the wearer of a *helm of Ikimizi* slays a creature, he must spend at least 1 full-round action feasting on the flesh of the fallen creature, heedless of anything or anyone else around him.
+
+Once it is equipped, the *helm of Ikimizi* can only be removed by a *remove curse* spell.
+
+**Construction Requirements:** *helm of comprehend languages and read magic*, *helm of telepathy*, *helm of underwater action*; **Cost** —
+
+### Ivory Baton
+
+**Slot** none; **CL** 18th; **Price** 40,000 gp; **Weight** 6 lbs.
+
+**Aura** strong enchantment
+
+This white, slender rod is engraved with decorative emblems of elephants, jackals, alligators, and other wild beasts, and is worth 2,000 gp because of its masterful craftsmanship. The wielder can command the obedience of golems within 120 feet when she activates the device (a standard action), bypassing their immunity to magic and any other resistances to magic they may possess. Up to 300 Hit Dice worth of golems can be ruled at once with an *ivory baton*. Ruled golems obey the wielder as if she were their creator. Still, if the wielder attacks a ruled golem or gives it a command that is obviously harmful to it, the magic is broken. An *ivory baton* can be used for 500 total minutes before crumbling to dust. This duration need not be continuous. For each golem ruled beyond the first, multiply the number of minutes expended by the number of golems ruled (so, for example, a creature wielding an *ivory baton* to control three golems effectively expends 3 minutes of the rod’s total duration every minute).
+
+**Construction Requirements:** Craft Rod, *geas/quest*, *mass charm monster*; **Cost** 21,000 gp
+
+### Rotcarver
+
+**Slot** none; **CL** 13th; **Price** 52,118 gp; **Weight** 10 lbs.
+
+**Aura** strong conjuration and necromancy
+
+Though largely constructed in the image of a locust demon lord’s own terrible scythe, these *+3 scythes *bear tiny cracks and etchings that, upon close examination, make the weapons appear like they’re constructed of minute petrified maggots. Once per day, upon scoring a successful critical hit with a* Rotcarver*, the wielder can animate part of the blade as a rot grub that immediately attempts to burrow into the victim struck. The victim must succeed at a DC 15 Reflex save to avoid the grub; otherwise, it is affected as per the description of rot grubs. Additionally, once per week, the *Rotcarver’s* wielder can transform it into a swarm of rot grubs. The swarm obeys the wielder’s commands for 13 rounds before turning back into a weapon. If the swarm is destroyed, it immediately reverts back to a weapon, which is undamaged. The wielder takes no ill effects from a swarm under his control.
+
+**Construction Requirements:** Craft Magic Arms and Armor, *contagion*, *summon monster VII*; **Cost** 26,218 gp
+
+### Visage of the Broodlord
+
+**Slot** head; **CL** 6th; **Price** 9,600 gp; **Weight** 1 lb.
+
+**Aura** strong conjuration
+
+Made of interwoven wicker strands and insect-excreted resin, these horrific masks have the appearance of demonic insects. The mask’s wearer is rendered immune to swarms’ distraction special attack. Additionally, once per day the wearer can transform into an insect as per the spell *vermin shape I* (see page 297 of *Pathfinder Campaign Setting: The Inner Sea World Guide*).
+
+**Construction Requirements:** Craft Wondrous Item, *vermin shape I*; **Cost** 4,800 gp
+
+## City of Strangers Items
+
+### Death’s Head Talisman
+
+**Slot** amulet; **CL** 5th (10 HD), 7th (14 HD), 9th (18 HD), 12th (24 HD); **Price** 1,000 gp (10 HD), 1,400 gp (14 HD), 1,800 gp (18 HD), 2,400 gp (24 HD); **Weight** —
+
+**Aura** varies
+
+This amulet allows the wearer to command a number of undead skeletons and zombies, which are keyed to the amulet when it is created. The animation of the undead is part of the creation process—undead that have already been created cannot be bound to a *death’s head talisman*. The number of HD of undead tied to the amulet is equal to twice the amulet’s caster level. The amulet allows the wearer to command the undead as if she had created them with *animate dead*, even if she has no magical talent of her own. The undead are only under control while the amulet is worn; if the amulet is removed, the undead revert to normal behavior, standing in place but responding if attacked. Once the specific undead tied to the amulet are destroyed, the talisman loses all power.
+
+**Construction Requirements:** Craft Wondrous Item, *animate dead*; **Cost** 625 gp (10 HD), 875 gp (14 HD), 1,125 gp (18 HD), 1,500 gp (24 HD)
+
+### Halflight Charm
+
+**Slot** none; **CL** 3rd; **Price** 2,500 gp; **Weight** —
+
+**Aura** faint divination
+
+This amulet is a small crystal at the end of a simple leather thong. It glows brightly from within, shedding light equivalent to that of a torch. Once per day, the amulet’s bearer can clutch the object and call for help. Doing so immediately contacts the three closest members of a city’s night watch and gives them intimate knowledge of the pendant’s location, as per the *locate object* spell, out to a distance of a mile.
+
+**Construction Requirements:** Craft Wondrous Item, *light*, *locate object*; **Cost** 1,250 gp
+
+## Giant Items
+
+### Bloodstone Impaler
+
+**Slot** none; **CL** 11th; **Price** 23,302 gp; **Weight** 9 lbs.
+
+**Aura** strong transmutation
+
+This *+1 keen spear *has a crimson haft made of petrified redwood, and its blackened stone head sports numerous vicious barbs on each side. Once per day when the wielder confirms a critical hit against a creature with this weapon, in addition to dealing damage, he can command the spear to turn the struck creature to stone. The creature struck must succeed at a DC 19 Fortitude save or instantly become a mindless statue as* flesh to stone*. This effect traps the *bloodstone impaler* in the process, making it unusable as long as it remains embedded in the statue. A *bloodstone impaler* may be removed from a lapidified creature by a humanoid capable of wielding it who succeeds at a DC 25 Strength check; doing so is a full-round action that provokes attacks of opportunity. Removing a *bloodstone impaler* from a petrified victim instantly changes the creature back to its original form.
+
+**Construction Requirements:** Craft Magic Arms and Armor, *flesh to stone*, *keen edge*; **Cost** 18,802 gp
+
+### All-Seeing Eye
+
+**Slot** none; **CL** 9th; **Price** 5,500 gp; **Weight** 5 lbs.
+
+**Aura** moderate divination
+
+This hardened, oversized eyeball is nearly a foot in diameter. The possessor gains a +1 insight bonus on the saving throw DCs of any spells of the divination school he casts, as well as a +1 insight bonus on dispel checks made against divination effects. In addition, once per week, the possessor of an *all-seeing eye* can cast *commune* as a spell-like ability without the need for a material component. Using an *all-seeing eye* in this way effectively uses up its magic for a week, and the possessor does not benefit from the insight bonuses it grants until a week after *commune* was cast.
+
+**Construction Requirements:** Craft Wondrous Item, *commune*, *guidance*; **Cost** 2,250 gp
+

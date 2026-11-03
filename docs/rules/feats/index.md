@@ -1627,6 +1627,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Blinding Sneak Attack](blinding-sneak-attack.md) | Combat | Base attack bonus +5, *darkness* spell-like ability, sneak attack class feature, tiefling |
 | [Blinding Stare](blinding-stare.md) | Combat, Stare | Mesmerist level 7th, painful stare class feature |
 | [Blissful Spell](blissful-spell.md) | Metamagic | — |
+| [Bloatmage Initiate](bloatmage-initiate.md) | — | Spell Focus (any school) |
 | [Block Chakras](block-chakras.md) | — | Psychic Sensitivity or levels in an occult class, brawler's flurry or flurry of blows class feature, ki pool |
 | [Block Upper Chakras](block-upper-chakras.md) | — | Block Chakras*, Psychic Sensitivity or levels in an occult class, brawler's flurry or flurry of blows class feature, ki pool, character level 8th |
 | [Blood Frenzy Assault](blood-frenzy-assault.md) | Combat | Str 17, Blood Frenzy Strike, Blood Frenzy Style, Bloody Assault, Improved Unarmed Strike, Power Attack, base attack bonus +6, aquatic subtype |
@@ -1967,6 +1968,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Dwarven Hatred Style](dwarven-hatred-style.md) | Combat, Style | Base attack bonus +1, defensive training and hatred racial traits, Medium size |
 | [Dwarven Seething](dwarven-seething.md) | Combat | Dwarven Hatred Style, base attack bonus +5, defensive training and hatred racial traits, Medium size |
 | [Eagle’s Resolve](eagles-resolve.md) | — | Iron Will |
+| [Earthtouched](earthtouched.md) | — | Cha 15, stone giant |
 | [Echoes of the First World](echoes-of-the-first-world.md) | Teamwork | Knowledge (nature) 2 ranks, gnome subtype |
 | [Eclipse Strike](eclipse-strike.md) | Teamwork | Tiefling, darkness racial spell-like ability |
 | [Edge Runner](edge-runner.md) | — | Dex 13 |
@@ -2182,6 +2184,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Giant-Bane Caster](giant-bane-caster.md) | — | Caster level 4th, favored enemy (giants) class feature |
 | [Giant-Killer Stance](giant-killer-stance.md) | Combat | Power Attack |
 | [Giantslaying Team](giantslaying-team.md) | Combat, Teamwork | Dex 13, Dodge, Mobility, base attack bonus +4, defensive training racial trait |
+| [Gift of Sight](gift-of-sight.md) | — | Troll, patron deity a demon god of trolls |
 | [Gilded Weapons](gilded-weapons.md) | — | Aphorite, crystalline dust racial trait, nonchaotic alignment |
 | [Gloomstorm](gloomstorm.md) | Combat, Conduit | Knowledge (planes) 4 ranks, shadow weapon class feature (see the [gloomblade](../../characters/classes/fighter-archetypes.md)) |
 | [Glorious Blaze](glorious-blaze.md) | — | Goblin, worshipper of a deity whose portfolio includes the sun |
@@ -2189,6 +2192,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Gluttonous Gobbler](gluttonous-gobbler.md) | — | Improved Unarmed Strike, Improved Grapple or the grab ability, ogre, size Large or larger |
 | [Gnawer](gnawer.md) | — | Sharptooth, ratfolk |
 | [Godless Healing](godless-healing.md) | — | Cannot have a patron deity |
+| [Golem’s Conviction](golems-conviction.md) | — | Improved Iron Will, Iron Will, base attack bonus +8 |
 | [Got Your Back](got-your-back.md) | Combat, Teamwork | Int 13, Combat Expertise |
 | [Grab and Go](grab-and-go.md) | Combat | Catch Off-Guard or Throw Anything, base attack bonus +1 |
 | [Graceful Athlete](graceful-athlete.md) | — | Acrobatics 1 rank, Climb 1 rank, Swim 1 rank, racial bonus to Dexterity |
@@ -2290,6 +2294,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Illusive Gnome Bewilderment](illusive-gnome-bewilderment.md) | Combat | Int 13, Combat Expertise, Gnome Weapon Focus, Illusive Gnome Style, Illusive Gnome Surprise, Improved Feint, gnome magic and weapon familiarity racial traits |
 | [Illusive Gnome Style](illusive-gnome-style.md) | Combat, Style | Int 13, Combat Expertise, Gnome Weapon Focus, Improved Feint, base attack bonus +1, gnome magic and weapon familiarity racial traits |
 | [Illusive Gnome Surprise](illusive-gnome-surprise.md) | Combat | Int 13, Combat Expertise, Gnome Weapon Focus, Illusive Gnome Style, Improved Feint |
+| [Impaling Charge](impaling-charge.md) | — | Gore attack, powerful charge |
 | [Imperial Conscript](imperial-conscript.md) | — | Serf in service to a lord |
 | [Imperial Corsair](imperial-corsair.md) | — | Spent at least 1 month working on a ship in imperial service |
 | [Imperial Knight](imperial-knight.md) | — | Base attack bonus +6, heavy armor proficiency, proficient in a martial weapon |
@@ -2503,6 +2508,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Mindful Meditation](mindful-meditation.md) | Meditation | Wis 11, [Meditation Master](meditation-master.md) |
 | [Mindfulness Mastery](mindfulness-mastery.md) | Meditation | Wis 19, [Meditation Master](meditation-master.md), [Mindful Meditation](mindful-meditation.md), character level 13th |
 | [Minor Miracle](minor-miracle.md) | — | Wisdom 12, Knowledge (religion) 5 ranks, alignment must match that of your worshiped deity |
+| [Minotaur’s Charge](minotaurs-charge.md) | — | Str 13, Improved Bull Rush, powerful charge |
 | [Mirror Kin](mirror-kin.md) | Teamwork | Bluff 8 ranks, gnome, gnome magic racial trait |
 | [Mirror Move](mirror-move.md) | Combat | Int 13, Combat Expertise, base attack bonus +4 |
 | [Mischievous Tail](mischievous-tail.md) | — | Dex 15, [Grasping Tail](grasping-tail.md), you must have a tail |
@@ -2699,6 +2705,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Puppet Master](puppet-master.md) | Story | See text |
 | [Purifying Channel](purifying-channel.md) | — | Cha 15, Selective Channeling, channel energy class feature |
 | [Pursuit of Glory](pursuit-of-glory.md) | Combat, Teamwork | Human |
+| [Quick at Hand](quick-at-hand.md) | — | Ogre |
 | [Quick Favor](quick-favor.md) | — | Persuasive |
 | [Quick Preparation](quick-preparation.md) | — | Ability to prepare spells |
 | [Quick Stow](quick-stow.md) | Combat | Quick Draw, base attack bonus +1 |
@@ -2921,6 +2928,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Soulblade](soulblade.md) | Combat | Knowledge (religion) 1 rank, Perception 1 rank |
 | [Soulless Gaze](soulless-gaze.md) | Damnation | Patronage of an evil outsider |
 | [Soulwrecking Strike](soulwrecking-strike.md) | Combat | Vital Strike, base attack bonus +6 |
+| [Sow Terror](sow-terror.md) | — | Stealthy |
 | [Spark of the Uncanny](spark-of-the-uncanny.md) | — | Familiar class feature |
 | [Spear Dancer](spear-dancer.md) | Combat | Weapon Focus (any two-handed reach weapon), Perform (dance) 4 ranks |
 | [Spear Dancing Reach](spear-dancing-reach.md) | Combat | Dex 17, Spear Dancing Spiral, Spear Dancing Style, Two-Weapon Fighting, Weapon Finesse, Weapon Focus with the chosen weapon |
@@ -2988,6 +2996,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Stock-Striker Style](stock-striker-style.md) | Combat, Style | Pistol-whip gunslinger deed |
 | [Stock-Striker Sweep](stock-striker-sweep.md) | Combat | Stock-Striker Style, base attack bonus +7, pistol-whip gunslinger deed |
 | [Stock-Striker Takedown](stock-striker-takedown.md) | Combat | Point-Blank Shot, Stock-Striker Style, Stock-Striker Sweep, base attack bonus +9, pistol-whip gunslinger deed |
+| [Stone Awareness](stone-awareness.md) | — | Wis 13, Perception 10 ranks, stone giant |
 | [Stone Clinger](stone-clinger.md) | — | Roper |
 | [Stone Cover](stone-cover.md) | — | Wis 15, Stone Shroud, Stealth 6 ranks, dwarf, stonecunning racial trait |
 | [Stone Dodger](stone-dodger.md) | Teamwork | — |
@@ -3176,6 +3185,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Unraveler of Secrets](unraveler-of-secrets.md) | — | Int 15, Knowledge (history) 1 rank, half-orc of underworld descent |
 | [Unraveling Blood](unraveling-blood.md) | — | Dispelling Blood, Knowledge (arcana) 9 ranks, vishkanya |
 | [Unseen Poison](unseen-poison.md) | — | Bluff 5 ranks, Craft (poison) 5 ranks, ability to cast *nondetection* |
+| [Unspoken Bond](unspoken-bond.md) | Teamwork | Bluff 4 ranks, Sense Motive 4 ranks |
 | [Upsetting Shield Style](upsetting-shield-style.md) | Combat, Style | Dex 13, proficiency with bucklers |
 | [Upsetting Strike](upsetting-strike.md) | Combat | Dex 15, Combat Reflexes, Improved Shield Bash, Upsetting Shield Style, proficiency with bucklers |
 | [Upsetting Vengeance](upsetting-vengeance.md) | Combat | Dex 13, Combat Reflexes, Improved Shield Bash, Upsetting Shield Style, Upsetting Strike, proficiency with bucklers |

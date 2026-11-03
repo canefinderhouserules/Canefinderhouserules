@@ -3607,3 +3607,13 @@ Those lacking the will to harden themselves against pain turn to alchemical meth
 Anyone who takes the drug must make a DC 10 saving throw or become addicted. A snuff addict can stave off withdrawal for 5 days by taking a dose; failure means he must save or take 1d4 Dex and 1d4 Wis damage. This save DC increases by +5 for every 5 days since the last time the addict had a dose. If the addict makes two of these saves in a row, he is no longer addicted. *Remove disease* can cure an addict if the caster’s caster level check succeeds against a DC equal to the addict’s current withdrawal DC. *Greater restoration* or *heal* cures the addiction without requiring a roll.
 
 **Type** poison, ingested; **Save** Fortitude DC 13; **Frequency** 1/hour for 4 hours; **Initial Effect** Endure Pain feat for 1 hour; **Secondary Effect** 1 Con damage; **Cure** 1 save
+
+## Monstrous Weapons
+
+### Lizard King War Trident
+
+**Cost** 20 gp **Weight** 12 lbs.
+
+**Damage** see text (small), see text (medium); **Critical** x3; **Range** 10 ft.; **Type** P; **Special** brace
+
+Upon his 100th birthday, a lizard king’s status is officially acknowledged, and he is honored with the presentation of a special weapon, the war trident, reserved exclusively for the use of his kind. These large, two-handed tridents are much heavier than normal (12 pounds) in order to take advantage of their wielders’ great strength, and as a result they lose their range increment but deal 1d10 points of damage and have a ×3 critical hit multiplier. In addition, extensive ritualistic practice with this weapon gives the lizard king the Improved Critical (war trident) feat as a bonus feat. A war trident is worth 20 gp, although most are masterwork and many are inlaid with precious metals and fetch higher prices.

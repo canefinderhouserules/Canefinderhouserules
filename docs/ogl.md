@@ -401,3 +401,15 @@ The following text is the property of Wizards of the Coast, Inc. and is Copyrigh
     Pathfinder Campaign Setting: Tombs of Golarion © 2015, Paizo Inc.; Authors: Scott Fernandez, Ron Lundeen, and Larry Wilhelm.
 
     Pathfinder Chronicles: Cities of Golarion © 2009, Paizo Publishing, LLC; Authors: Joshua J. Frost, Tim Hitchcock, Jonathan Keith, Rob McCreary, Jason Nelson, and Jeff Quick.
+
+    Pathfinder Campaign Setting: Heaven Unleashed © 2016, Paizo Inc.; Authors: Judy Bauer, Crystal Frasier, Jim Groves, Amanda Hamon, Jenny Jarzabski, Jason Keeley, Luis Loza, Ron Lundeen, and Jessica Price.
+
+    Pathfinder Campaign Setting: Lost Kingdoms © 2012, Paizo Publishing, LLC; Authors: Wolfgang Baur, Adam Daigle, Jeff Erwin, and F. Wesley Schneider.
+
+    Pathfinder Chronicles: City of Strangers © 2010, Paizo Publishing, LLC; Author: James L. Sutter.
+
+    Pathfinder Chronicles: Classic Monsters Revisited © 2008, Paizo Publishing, LLC; Authors: Wolfgang Baur, Jason Bulmahn, Joshua J. Frost, James Jacobs, Nicolas Logue, Mike McArtor, James L. Sutter, Greg A. Vaughan, and Jeremy Walker.
+
+    Pathfinder Campaign Setting: Giants Revisited © 2012, Paizo Publishing, LLC; Authors: Jesse Benner, Ryan Costello, Brian R. James, Jason Nelson, Russ Taylor, and Ray Vallese.
+
+    Pathfinder Campaign Setting: Druma, Profit and Prophecy © 2019, Paizo Inc.; Authors: John Compton and Thurston Hillman.

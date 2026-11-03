@@ -57,6 +57,20 @@ This massive catlike creature has the lithe grace of a feline despite a shell-li
 
 **7th-Level Advancement**: **Size** Large; **AC** +2 natural armor; **Attack** bite (1d8), 2 claws (1d6); **Ability Scores** Str +8, Dex -2, Con +4; **Special Attacks** grab, pounce, rake (1d6).
 
+### Bacallia
+
+This animal resembles an alpaca with voluminous, shiny wool.
+
+**Starting Statistics**: **Size** Medium; **Speed** 40 ft.; **AC** +1 natural armor; **Attack** 2 hooves (1d4); **Ability Scores** Str 13, Dex 13, Con 13, Int 2, Wis 12, Cha 13; **Special Attacks** spit; **Special Qualities** low-light vision, pristine wool.
+
+**4th-Level Advancement**: **Ability Scores** Str +2, Con +2; **Special Attacks** Aura: dazzling (10 ft.); **Bonus Feat(s)** Nimble Moves.
+
+**Dazzling (Ex)**: While uninjured and in normal or bright light, a bacallia’s wool reflects light in distracting ways. All others within 10 feet take a –1 penalty on saving throws against effects that would dazzle or fascinate them.
+
+**Pristine Wool (Ex)**: A bacallia gains a +2 racial bonus on saving throws against contact poisons and effects that would entangle it, and a +1 bonus to its touch AC.
+
+**Spit (Ex)**: Once per hour, a bacallia can spit at a single target within 10 feet. The target must succeed at a DC 13 Fortitude save or be sickened for 1d4 rounds.
+
 ### Bristle Boar
 
 The vicious spines surrounding this boar’s head are almost as unnerving as the wild look in its eyes.

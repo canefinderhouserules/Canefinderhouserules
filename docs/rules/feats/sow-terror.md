@@ -1,0 +1,7 @@
+# Sow Terror
+
+Bugbears are stealthy, and sometimes they use their skill at furtiveness to inspire dread in their prey.
+
+**Prerequisites**: Stealthy.
+
+**Benefit**: Anytime you win an opposed Stealth check by 5 or more you might sow terror as a standard action. You do so by scraping your nails slightly on a solid surface, causing a board to creak ever so lightly, or rapping on a window pane. The victim cannot detect the source of the sound and dismisses it as the wind or some other mundane source, but the idea that something might be lurking nearby festers in the victim’s subconscious. The victim must roll a Will save (DC 10 + 1/2 your character level + your Charisma modifier) or become shaken for 1d4 rounds.

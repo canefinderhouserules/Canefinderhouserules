@@ -191,6 +191,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Drain Construct](drain-construct.md)**: Strip a construct of DR, fast healing, speed, and Strength.
 - **[Dress Corpse](dress-corpse.md)**: Doctor the evidence on a corpse.
 - **[Eldritch Conduit](eldritch-conduit.md)**: Use an enemy as the origin point of an area spell.
+- **[Embrace Destiny](embrace-destiny.md)**: Roll a d20 now and use the result for a later roll.
 - **[Enchantment Sight](enchantment-sight.md)**: See which creatures are under enchantment effects.
 - **[Enemy’s Heart](enemy-s-heart.md)**: You cut out an enemy’s heart and consume it, absorbing that enemy’s power as your own.
 - **[Enshroud Thoughts](enshroud-thoughts.md)**: Ward yourself against thought detection and memory alteration.
