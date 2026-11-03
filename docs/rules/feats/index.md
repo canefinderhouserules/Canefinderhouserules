@@ -2067,6 +2067,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Ferocious Loyalty](ferocious-loyalty.md) | Teamwork | — |
 | [Fetid Breath](fetid-breath.md) | — | Con 15, Corrupted Flesh, 6 HD, ogre |
 | [Fey Friend](fey-friend.md) | — | Worshiper of a deity of the fey |
+| [Fey Obedience](fey-obedience.md) | — | Knowledge (planes) 3 ranks, must worship a fey lord |
 | [Fey Spell Lore](fey-spell-lore.md) | — | Cha 13, Spellcraft 1 rank, ability to cast druid spells |
 | [Fey Spell Versatility](fey-spell-versatility.md) | — | Cha 13, Spellcraft 1 rank, ability to cast ranger spells |
 | [Fiendish Darkness](fiendish-darkness.md) | — | *Darkness* spell-like ability, tiefling |
@@ -2459,6 +2460,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Modification Mastery](modification-mastery.md) | Combat | Creative Armorsmith, Armor Adept, and Craft (armor) 7 ranks, or Creative Weaponsmith, Weapon Adept, and Craft (weapons) 7 ranks; Knowledge (engineering) 7 ranks |
 | [Modification Trainer](modification-trainer.md) | Combat | Cha 13, Armor Adept or Weapon Adept, fighter level 4th |
 | [Modified Weapon Proficiency](modified-weapon-proficiency.md) | Combat | Proficiency with the selected weapon |
+| [Monitor Obedience](monitor-obedience.md) | — | Knowledge (planes) 3 ranks, must worship a monitor demigod |
 | [Monkey Lunge](monkey-lunge.md) | Combat | Lunge, Acrobatics 1 rank |
 | [Monster Spotter](monster-spotter.md) | — | Skill Focus (Knowledge [any]), Knowledge (any) 3 ranks |
 | [Monstrous Companion](monstrous-companion.md) | — | Handle Animal 7 ranks; class feature that functions as the druid animal companion ability (including animal companion, divine bond [mount], hunter's bond [animal companion], nature's bond [animal companion], and the mount class feature) with an effective druid level of 7 |

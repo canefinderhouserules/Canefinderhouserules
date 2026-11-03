@@ -337,3 +337,7 @@ The following text is the property of Wizards of the Coast, Inc. and is Copyrigh
     Pathfinder Roleplaying Game Book of the Damned © 2017, Paizo Inc.; Authors: Alexander Augunas, John Bennett, Robert Brookes, John Compton, Dan Dillon, Steven T. Helt, Thurston Hillman, Eric Hindley, Mikko Kallio, Jason Keeley, Isabelle Lee, Jason Nelson, Stephen Radney-MacFarland, Alex Riggs, David N. Ross, David Schwartz, Mark Seifter, Jeffery Swank, and Linda Zayas-Palmer.
 
     Pathfinder Adventure Path #99: Dance of the Damned © 2015, Paizo Inc.; Author: Richard Pett.
+
+    Pathfinder Campaign Setting: The First World, Realm of the Fey © 2016, Paizo Inc.; Author: James L. Sutter.
+
+    Pathfinder Campaign Setting: Concordance of Rivals © 2019, Paizo Inc.; Authors: John Compton, Crystal Frasier, Ron Lundeen, and Amber Stewart.
