@@ -49,6 +49,22 @@ The bustard is a sizable bird with long legs. Bustards can fly, but they do so r
 
 **4th-Level Advancement**: Ability Scores Str +2, Con +2.
 
+### Armored Warcat
+
+This massive catlike creature has the lithe grace of a feline despite a shell-like armor of segmented plates.
+
+**Starting Statistics**: **Size** Medium; **Speed** 40 ft.; **AC** +4 natural armor; **Attack** bite (1d6), 2 claws (1d4); **Ability Scores** Str 15, Dex 15, Con 14, Int 2, Wis 11, Cha 5; **Special Attacks** rake (1d4); **Special Qualities** low-light vision, scent.
+
+**7th-Level Advancement**: **Size** Large; **AC** +2 natural armor; **Attack** bite (1d8), 2 claws (1d6); **Ability Scores** Str +8, Dex -2, Con +4; **Special Attacks** grab, pounce, rake (1d6).
+
+### Bristle Boar
+
+The vicious spines surrounding this boar’s head are almost as unnerving as the wild look in its eyes.
+
+**Starting Statistics**: **Size** Small; **Speed** 40 ft.; **AC** +6 natural armor; **Attack** gore (1d6); **Ability Scores** Str 15, Dex 10, Con 15, Int 2, Wis 11, Cha 4; **Special Qualities** low-light vision.
+
+**4th-Level Advancement**: **Size** Medium; **Attack** gore (1d8); **Ability Scores** Str +4, Dex -2, Con +2; **Special Attacks** spines (Those hit by a bristle boar’s gore attack must succeed at a Reflex saving throw to avoid being speared by the dangerously sharp spines around its head and neck. Failure results in 1d4 points of piercing damage.).
+
 ### Capybara
 
 This large, brown-furred rodent is equally at home on land or in the water, and is often found near lakes and rivers.
@@ -112,6 +128,14 @@ This unusual shark is named for its blocky, rectangular head. The creature’s e
 **Starting Statistics**: Size Medium; Speed swim 60 ft.; AC +3 natural armor; Attack bite (1d6); Ability Scores Str 13, Dex 14, Con 12, Int 1, Wis 15, Cha 6; Special Qualities aquatic, low-light vision, scent.
 
 **7th-Level Advancement**: Size Large; AC +3 natural armor; Attack bite (1d8); Ability Scores Str +2, Dex –2, Con +4; Special Qualities blindsense 30 ft.
+
+### Hunting Vulture
+
+This dark-winged vulture has a wickedly hooked beak stained with bright red blood.
+
+**Starting Statistics**: **Size** Small; **Speed** 10 ft., fly 60 ft. (average); **AC** +1 natural armor; **Attack** bite (1d6); **Ability Scores** Str 12, Dex 15, Con 12, Int 2, Wis 13, Cha 7; **Special Qualities** low-light vision.
+
+**4th-Level Advancement**: **Ability Scores** Str +2, Con +2.
 
 ### Llama
 
@@ -270,6 +294,14 @@ This bulky, thick-skinned, flippered creature has on its face two enormous tusks
 **Starting Statistics**: Size Medium; Speed 20 ft., swim 40 ft.; AC +3 natural armor; Attack gore (1d6); Ability Scores Str 14, Dex 13, Con 14, Int 2, Wis 13, Cha 9; Special Qualities hold breath, low-light vision.
 
 **7th-Level Advancement**: Size Large; AC +4 natural armor; Attack gore (1d8); Ability Scores Str +8, Dex –2, Con +4; Special Qualities fatal gore (a walrus threatens a critical hit with its gore attack on a roll of 19–20).
+
+### War Bull
+
+This immense bovine has horns reminiscent of a stag, with daggerlike points spreading more than fifteen feet across.
+
+**Starting Statistics**: **Size** Medium; **Speed** 40 ft.; **AC** +4 natural armor; **Attack** gore (1d8); **Ability Scores** Str 15, Dex 14, Con 13, Int 2, Wis 11, Cha 4; **Special Qualities** low-light vision.
+
+**4th-Level Advancement**: **Size** Large; **AC** +3 natural armor; **Attack** gore (2d6); **Ability Scores** Str +8, Dex -2, Con +4; **Special Attacks** trample.
 
 ### Wolfdog
 

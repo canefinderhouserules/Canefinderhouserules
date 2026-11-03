@@ -383,3 +383,5 @@ The following text is the property of Wizards of the Coast, Inc. and is Copyrigh
     Pathfinder Campaign Setting: Demons Revisited © 2013, Paizo Publishing, LLC; Author: James Jacobs.
 
     Pathfinder Chronicles: Dark Markets, A Guide to Katapesh © 2009, Paizo Publishing, LLC; Authors: Stephen S. Greer and Amber E. Scott.
+
+    Pathfinder Campaign Setting: Belkzen, Hold of the Orc Hordes © 2015, Paizo Inc.; Authors: Tyler Beck, Jason Garrett, Alex Greenshields, and David Schwartz.

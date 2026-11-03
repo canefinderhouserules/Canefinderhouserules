@@ -3335,3 +3335,73 @@ A phaleros is a type of metal javelin that stores a splash weapon in a small cag
 **Type** ingested; **Save** Fortitude DC 18
 
 **Initial Effect** 1d2 Con and Str; **Secondary Effect** unconscious for 1 hour
+
+## War Beast Gear and Siege Engines
+
+### Howdah
+
+**Price** 500 gp; **Weight** 250 lbs.
+
+This wooden platform is tied like a saddle to a Huge creature’s back. The platform is 10 feet square and enclosed by a low wall and sometimes a roof. The howdah has room for four Medium creatures (usually armed with bows or longspears), or two Medium creatures and a light ballista or light catapult. Occupants of the howdah have cover against attackers from below and are considered mounted for the purposes of making attacks.
+
+### Tusk Blades
+
+**Price** 50 gp; **Weight** 10 lbs.
+
+These metal caps must be specially fitted to a creature’s horns or tusks; a blade reminiscent of a sword or axe head projects from each cap. If the creature makes a gore attack (including as part of a powerful charge), the attack deals both piercing and slashing damage, and has a critical threat range of 19–20 (this range can be increased by other effects). Tusk blades can be enhanced as melee weapons; the enhancement is applied to the creature’s gore attack.
+
+### Crushing Wheel
+
+**Cost** 500 gp **Weight** —
+
+**Damage** 4d6; **Critical** —; **Range** —; **Type** B
+
+**Crew** 4; **Aim** 0; **Load** 0; **Speed** 0 ft.
+
+The bulk of this weapon is a steel roller nearly 10 feet wide. Handles or a harness project from the axle, allowing four orcs or one Large beast to push the crushing wheel from behind. As a full-round action, its crew can roll the crushing wheel over creatures in front of it. This functions as the trample monster ability except as noted here. Creatures that are overrun fall prone and take 4d6 points of damage. Targets that succeed at a DC 15 Reflex saving throw take only half damage and avoid falling prone. A crushing wheel has a hardness of 10 and 100 hit points.
+
+A crushing wheel is a Large siege engine.
+
+### Defoliant Shot
+
+**Cost** 300 gp **Weight** 20 lbs.
+
+When used as ammunition in a catapult or trebuchet, this ceramic canister releases a mist of defoliant on impact. When it hits the target square, it deals 2d6 points of damage to any creature in that space. Plant creatures within 30 feet of the target square take an additional 4d6 points of damage. A successful DC 20 Fortitude saving throw halves this additional damage. Plant creatures within 5 feet of the target space that fail their saving throws also take 1d4 points of Strength damage and 1d4 points of Constitution damage. The defoliant also kills vegetation within 30 feet of the target square.
+
+On a siege engine mishap, this ammunition explodes before it’s launched, dealing its damage to the siege engine and all nearby plant creatures as if one of the spaces of the siege engine (crew leader’s choice) were the target square.
+
+### Earthmaul
+
+**Cost** 1,000 gp **Weight** —
+
+**Damage** 6d6; **Critical** —; **Range** —; **Type** B
+
+**Crew** 3; **Aim** 0; **Load** 3; **Speed** 0 ft.
+
+This war machine is fitted with an enormous hammer. When dropped into the horizontal position, it functions like a sideways-mounted catapult, and is capable of clearing wide swaths of enemies. Although it doesn’t use ammunition, the earthmaul must effectively be reloaded by winding the torsion. When the earthmaul is activated, creatures on the ground in a 15-foot cone take 6d6 points of damage, are knocked 10 feet in the direction of the swing, and fall prone. A successful DC 20 Reflex saving throw halves the damage and negates the additional effects. An earthmaul has a hardness of 5 and 100 hit points.
+
+An earthmaul is a Huge siege engine.
+
+### Entangling Bolt
+
+**Cost** 50 gp **Weight** 25 lbs.
+
+When launched from a ballista, this specialized bolt unfurls into a large net. An attack with entangling ammunition is a ranged touch attack, but it’s only effective within one range increment. If it hits, the target is entangled, but the attack deals no damage.
+
+An entangled creature can escape with a successful DC 20 Escape Artist check (a full-round action). The net has 5 hit points and can be burst with a successful DC 25 Strength check (also a full-round action). Entangling ammunition is useful only against creatures within one size category of the firing ballista.
+
+### Manticore’s Tail
+
+**Cost** 1,000 gp **Weight** —
+
+**Damage** 3d8; **Critical** 19-20/x2; **Range** see text; **Type** P
+
+**Crew** 3; **Aim** 0; **Load** 4; **Speed** 0 ft.
+
+This massive ballista fires a dozen or more bolts at once in a devastating rain of steel that deals 3d8 points of damage. The crew leader makes a separate attack roll with a –2 penalty against each creature and object within a 60-foot cone, ignoring concealment. Confirm any critical threats separately. This weapon has a mishap only if the first attack roll is a mishap. A manticore’s tail has a hardness of 5 and 100 hit points. Ammunition for one use of the manticore’s tail costs 120 gp and weighs 120 pounds.
+
+### Rockwasp Bomb
+
+**Cost** 2,000 gp **Weight** 100 lbs.
+
+Usable in catapults and trebuchets, this ammunition consists of a wooden crate packed with wax globes, from which a faint buzzing sound emanates. Visible as a dark shape at the center of each globe is a rat-sized hornet known as a rockwasp. The alchemical wax keeps the wasps immobilized, while tiny air holes allow them to breathe. This ammunition deals only half damage, but releases a wasp swarm—two wasp swarms if used for a heavy catapult or heavy trebuchet. The wasps attack for 1 minute before dispersing. On a siege engine mishap, the wasps escape before the ammunition is launched.
