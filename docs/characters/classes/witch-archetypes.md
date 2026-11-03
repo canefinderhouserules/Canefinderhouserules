@@ -940,3 +940,19 @@ For major hexes, the damage increases to 2d4. For grand hexes, the damage increa
 **Manifest Pact (Ex)**: At 6th level, the demon-sworn gains Improved Familiar as a bonus feat. The associated familiar is made up of the tiny amount of soul matter lost when the demon-sworn made her pact with demonic powers. The familiar must be a quasit, regardless of the demon-sworn’s actual alignment, and it manifests by eating its way out of the demon-sworn’s former familiar. The quasit knows all spells known to the previous familiar. It loyally serves the demon-sworn, despite any conflicts of alignment, obeying its mistress to the best of its abilities.
 
 This familiar cannot be replaced, and if slain, the ritual to replace the lost familiar recreates the same quasit, along with the same spells previously known. Replacing the familiar in this fashion also imparts the demon-sworn with 1 permanent negative level, as if she had been hit by an energy-draining creature. This ability replaces the hex gained at 6th level.
+
+## Battle Witch
+
+The desert satrapy’s armies strike terror into foes, but tales of something even more terrible than desert dervishes or charging cavalry haunt foot soldiers serving its neighbors. A battle witch drifts like a phantom among the enemy armies, calling down disaster upon their heads and weakening their resolve. Battle witches usually go veiled, and even their cohorts in the imperial forces superstitiously believe that seeing their faces brings misfortune.
+
+**Protecting Veil**: An battle witch’s veil is not merely a uniform, but a magical vestment imbued with power. Its ability to hold spells functions identically to a witch’s familiar. A battle witch must veil herself and commune with her patron each day to prepare her spells and cannot prepare spells not stored in the veil. This ability replaces familiar.
+
+**Ghostwalk (Su)**: Starting at 2nd level, as a move action after using a hex, a battle witch can become invisible as per *vanish* and can then take a 5-foot step. Using ghostwalk doesn’t provoke attacks of opportunity. This ability replaces the hex gained at 2nd level.
+
+**Deliver Touch Spells (Su)**: Starting at 3rd level, a battle witch can use her veil to deliver touch spells. After casting a touch spell, as a full-round action, she can tear a strip from her veil and whisper to it, designating a target. She then releases the scrap of fabric, which drifts on the wind to the target and delivers the spell as a ranged touch attack. The target must be within 20 feet of the witch. The veil mends itself after the spell is delivered.
+
+**Fog of War (Sp)**: At 6th level, as a standard action, a battle witch can blanket a 20-foot-radius area of the battlefield in a clammy mist that functions as per *barrow haze*ACG, allowing her to treat any area within the mist as within 30 feet for purposes of her hexes, as long as some part of that area is within 30 feet of her. This replaces the hex gained at 6th level.
+
+## Deathcall Hex
+
+**Deathcall (Su)**: The witch’s presence makes death more likely for wounded foes. Creatures within 120 feet of the witch take a –1 penalty on checks to stabilize when dying. At 8th level, this penalty changes to –2, and at 16th level, it changes to –3.

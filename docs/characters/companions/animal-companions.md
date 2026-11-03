@@ -233,6 +233,20 @@ Its unmistakable black-and-white-striped coloration gives a clear warning sign t
 
 **7th-Level Advancement**: Size Large; AC +2 natural armor; Attack bite (1d8), 2 claws (1d6); Ability Scores Str +8, Dex –2, Con +4; Special Attacks spray (usable 2/day); Special Qualities musk (Fort save or nauseated for 1d3 rounds).
 
+### Shissah
+
+This sleek equine is slightly smaller than an average horse, but its eyes contain a gleam of higher intelligence. It starts with slightly less natural armor than a typical horse and doesn’t advance until 7th level, but it is easier to train.
+
+**Starting Statistics**: **Size** Large; **Speed** 60 ft.; **AC** +1 natural armor; **Attack** bite (1d6), 2 hooves (1d4; secondary attack); **Ability Scores** Str 16, Dex 15, Con 13, Int 2, Wis 14, Cha 10; **Special Qualities** desert dweller, easily trained.
+
+**7th-Level Advancement**: **AC** +3 natural armor; **Attack** bite (1d8), 2 hooves (1d4, secondary attack); **Ability Scores** Str +2, Dex +4, Con +2; **Special Qualities** desert senses.
+
+**Desert Dweller (Ex)**: A shissah does not treat light rubble or sand as difficult terrain. It gains a +4 racial bonus on Survival checks in the desert, and it treats hot temperatures as one category less for the purposes of heat danger.
+
+**Desert Senses (Ex)**: A shissah gains a +4 racial bonus on saving throws against mirage effects and against effects that cause the dazzled condition, and a +4 racial bonus on Perception checks in deserts.
+
+**Easily Trained (Ex)**: Anyone attempting to train a shissah gains a +2 bonus on her Handle Animal checks. A shissah can learn an additional 2 tricks beyond what an animal of its intelligence can normally be taught.
+
 ### Spitting Cobra
 
 This brightly colored snake can spit its venom, giving it a dangerous ranged attack.

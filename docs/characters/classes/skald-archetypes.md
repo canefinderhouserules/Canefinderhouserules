@@ -437,3 +437,15 @@ This replaces inspired rage, song of strength, and dirge of doom.
 **Tandem Totems (Ex)**: At 5th level, when a totem channeler starts an inspired rage raging song and adds a totem rage power, he can add totem rage powers from a different group. Adding or maintaining totem rage powers from the additional group requires spending 1 additional round of raging song each round. He can activate up to two additional totem groups at 11th level and up to three additional totem groups at 17th level. He must spend 1 additional round of raging song each round for each additional totem group. If the totem channeler does not have enough rounds of raging song remaining to maintain his inspired rage, the song ends. This replaces spell kenning.
 
 **Totem's Guidance (Su)**: At 9th level, the totem channeler can draw strength and protection from his totem powers when he wades into battle with song on his lips. When he adds a totem rage power to his inspired rage, he and his allies gain a +1 insight bonus to AC and on saving throws for the duration of the totem channeler's raging song. At 14th level, this bonus increases to +2. This bonus applies only to the first totem rage power he applies to his inspired rage. This replaces damage reduction.
+
+## Sunsinger
+
+Sunsingers are particularly religious skalds of the goddess of the sun and redemption who call down their goddess’s glory to fill soldiers with fire.
+
+**Alignment**: A sunsinger skald must be lawful good, neutral good, or neutral, and must worship the goddess of the sun and redemption.
+
+**Pillar of Light (Su)**: At 3rd level, a sunsinger skald can use her raging song to call upon her goddess to imbue her with glory and make all who see it pay heed. A great beam of sunlight shines down upon the skald, casting bright light in a 30-foot radius, and allows the skald’s raging song to function as the fascinate bardic performance. This ability replaces song of marching.
+
+**Channel Solar Energy (Su)**: At 5th level, a sunsinger skald can channel energy as a cleric once per day to heal wounds or harm undead like a good-aligned cleric. When she does so, she fills the area affected by the channeled energy with light, and can outline creatures in the area of effect as per *faerie fire*. The sunsinger uses her skald level as her effective cleric level when channeling positive energy. Undead who are particularly harmed by sunlight take a –2 penalty on saving throws against this channeled energy, and take 1 additional point of damage per die of damage dealt by the effect.
+
+At 11th level, a sunsinger can channel energy twice per day. At 17th level, she can use this ability three times per day. This ability replaces spell kenning.

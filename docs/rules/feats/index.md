@@ -2163,6 +2163,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Galley Slave](galley-slave.md) | — | Profession (sailor) 2 ranks, current or former galley slave |
 | [Gather Might](gather-might.md) | — | Gather power class feature, kineticist level 8th |
 | [Gaze Reflection](gaze-reflection.md) | — | Spellcraft  10 stare and ranks, bold mesmerist tricks class features |
+| [Genie-Touched Companion](genie-touched-companion.md) | — | Cha 13, animal companion or mount class feature |
 | [Ghost Hunting Team](ghost-hunting-team.md) | — | Duskwalker, ghost hunter racial trait |
 | [Ghost Whisperer](ghost-whisperer.md) | — | Ability to cast 3rd-level spells |
 | [Ghostbane Ichor](ghostbane-ichor.md) | — | Knowledge (religion) 9 ranks, vishkanya |

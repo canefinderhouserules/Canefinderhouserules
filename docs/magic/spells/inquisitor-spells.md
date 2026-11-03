@@ -404,6 +404,7 @@ New inquisitor spells from *Ultimate Magic*. Spells from other books will be add
 - **[Invoke Deity](invoke-deity.md)**: Infuse yourself with the powers of your deity's planar realm
 - **[Knock, Mass](knock-mass.md)**: Open many locks or closures at once
 - **[Litany of Madness](litany-of-madness.md)**: A single target is confused for at least 1 round.
+- **[Litany of Truth](litany-of-truth.md)**: Strips a target of illusions and concealment for 1 round.
 - **[Lost Legacy](lost-legacy.md)**: Others forget positive interactions with the target.
 - **[Morning Sun](morning-sun.md)**: Sphere of sunlight staggers creatures harmed by sunlight and burns what it touches.
 - **[Named Bullet, Greater](named-bullet-greater.md)**: As named bullet, but deals 2 points of damage per caster level.

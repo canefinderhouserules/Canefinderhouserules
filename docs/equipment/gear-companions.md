@@ -3197,3 +3197,21 @@ Adding aszite veins to armor increases the item’s weight by 10%. The added vei
 Aszite has hardness 15 and has 20 hit points per inch of thickness.
 
 **Price Modifier**: light armor +750 gp; medium armor +750 gp; heavy armor +1,000 gp.
+
+## Desert Satrapy Gear
+
+### Healing Myrrh
+
+**Price** 50 gp; **Weight** —
+
+This most famous invention of the scholars of the desert satrapy’s college of medicaments and chirurgery is an alchemical remedy. When you burn a dose of healing myrrh, it fills a 15-foot-radius spread with faint smoke that persists for 24 hours (or until dispersed by a moderate or stronger wind). Any creatures resting or receiving long-term care in the area while the myrrh is active regain 1 additional hit point per level. Multiple uses of healing myrrh in a 24-hour period do not stack.
+
+### Desert Saddle
+
+**Price** 200 gp; **Weight** 5 lbs.
+
+Developed by desert riders, this saddle is sturdy but minimal, allowing horse and rider to communicate through slight muscle shifts and delicate balance adjustments. A desert saddle gives a rider a +2 circumstance bonus on Ride checks, and it allows a rider to ignore the AC penalty from a charge when she is mounted and her mount charges.
+
+### Sunsilk
+
+Sunsilk, produced by a closely guarded silkworm species, takes on a golden glitter after it has been left to cure in the sun. Though it is light and flexible, when multiple layers are pressed together, its myriad thin fibers inhibit weapons and can slightly help prevent slashing or piercing weapons from causing harm. Clothing made from sunsilk grants its wearer DR 2/bludgeoning. Sunsilk can be incorporated into any suit of armor without hampering the armor’s other qualities, typically as an inner layer of soft lining. Sunsilk adds 6,000 gp to the cost of the garment or armor.

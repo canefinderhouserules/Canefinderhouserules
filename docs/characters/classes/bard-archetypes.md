@@ -2192,3 +2192,21 @@ You contort your vocal cords to produce an eerie, melodious song about the wonde
 **Use**: 1 round of bardic performance per round.
 
 **Action**: 1 standard action.
+
+## Society Agent
+
+Although a secret society of informers employs all manner of specialists, bards who take up the role of agent are among its most infamous and widespread.
+
+**Called Favor (Ex)**: At 1st level, a society agent can use his contacts to ask for a favor from various individuals who have benefited from the society’s aid in the past. The agent must spend 1d4 hours in an urban area with a population of at least 200 people to use this ability, and must succeed at a DC 20 Diplomacy check to secure the favor. Once an attempt to call in a favor has been made, whether or not the Diplomacy check was successful, the society agent must wait 2d6 days before attempting to call in a new favor, so as to not overtax the favors owed the society as a whole.
+
+The society agent can use a successful called favor to secure an introduction to an important NPC, either to learn an important piece of information (something that would otherwise require a successful DC 20 Knowledge check to know) or to secure a pardon for a minor crime of which an ally has been convicted. Similar favors could be granted at the GM’s discretion.
+
+At 7th level, an agent need only wait 1d6 days between uses of called favors. In addition to the favors above, he can now ask for a favor that supplies the aid of a single 5th-level specialist for 24 hours. This specialist is treated as a short-term cohort for the agent, but should remain under the control of the GM. The exact statistics for the specialist (who can be of any class) should also be calculated by the GM. The maximum level of the specialist the agent can secure increases by 1 for every 2 bard levels the society agent has above 7th, to a maximum of an 11th-level specialist at 19th level.  This ability replaces bardic knowledge.
+
+**Informed Persuasion (Ex)**: At 2nd level, a society agent uses his knowledge of a target to increase his persuasiveness. If he has at least 1 rank in an associated Knowledge skill, he applies his Intelligence modifier (in addition to his Charisma modifier, as normal) to Bluff, Diplomacy, and Intimidate checks against that Knowledge skill’s associated category of targets. The types of Knowledge and their associated groups are arcana (spellcasters), geography (tribal citizens), local (urban citizens), nobility (politicians and nobles), and religion (worshipers of a recognized faith). This ability replaces well-versed.
+
+**Bardic Performance**: A society agent gains the bardic performance listed below.
+
+*Master of Manipulation (Su)*: At 8th level, a society agent gains a reputation of being able to sense lies. When using bardic performance, his very presence can often draw the truth out of others. This ability affects all creatures selected by the bard within a 20-foot-radius emanation from the bard. Any affected creature can’t speak any deliberate or intentional lies, but is aware of the effect and can choose to avoid answering a question to which it would normally respond with a lie, or may be evasive as long as it remains within the boundaries of the truth. This is a mind-affecting compulsion effect.
+
+This performance replaces dirge of doom.

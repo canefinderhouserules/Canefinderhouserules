@@ -147,6 +147,26 @@ A cavalier who belongs to this order has pledged himself to a sovereign; be it a
 
 **Shield of the Liege (Ex)**: At 15th level, an order of the lion cavalier can protect those around him. Allies that are adjacent to the cavalier receive a +2 shield bonus to their AC. In addition, as an immediate action, the cavalier can redirect an attack made at a creature adjacent to himself, as long as the creature making the attack is within the cavalier’s reach. This ability must be declared before the attack roll is made. The attack is made against the cavalier’s AC and defenses, even if the creature could not normally reach or attack the cavalier. The cavalier loses any cover or concealment bonuses when subject to the redirected attack.
 
+### Order of the Saddle
+
+Cavaliers of the order of the saddle have pledged themselves to the pursuit of perfect partnership between rider and mount. This order holds that the balance found when such a partnership is achieved contains the seeds of a better self, a better relationship with one’s community, and a better sense of how to keep the world itself healthy.
+
+**Restriction**: Only horse-riding cavaliers are eligible to join this order.
+
+**Edicts**: The cavalier must care for her mount before herself. She must show mercy to any noncombatants or less intelligent creatures who serve her opponents. She must teach any who ask about how to better communicate with their mounts. The only meat she may eat must come from animals that have been humanely raised and slaughtered. She must strive to ensure her community lives in harmony with the land it occupies and that it doesn’t cause unnecessary suffering to the animals under its care.
+
+**Challenge**: Whenever an order of the saddle cavalier issues a challenge and is astride her mount, she can charge the target of her challenge—moving and attacking as if with a standard charge—and then move again as if using Ride-By Attack. Her total movement for the round can’t exceed her mounted speed. This maneuver provokes attacks of opportunity, but the cavalier gains a +1 dodge bonus to AC against attacks of opportunity while charging the target of her challenge. This bonus increases by 1 for every 4 levels the cavalier has. If the cavalier already has the Ride-By Attack feat, this dodge bonus increases by 2.
+
+**Skills**: An order of the saddle cavalier adds Knowledge (nature) and Perception to her list of class skills. When she uses Survival to track a creature or find food and water for herself and her mount, she receives a bonus on the check equal to 1/2 her cavalier level (minimum +1).
+
+**Order Abilities**: A cavalier that belongs to the order of the saddle gains the following abilities as she increases in level.
+
+*Mounted Synergy (Ex)*: At 2nd level, the cavalier receives Mounted Combat as a bonus feat and, whenever she is mounted, gains a +2 bonus on initiative checks as long as her mount is conscious and mobile.
+
+*Stalwart Mount (Su)*: At 8th level, the cavalier’s mount becomes healthier and more robust. It gains Toughness as a bonus feat (if it already has Toughness, or takes this as a feat later, the hit points granted by the feat are doubled) and gains a +2 bonus on saving throws.
+
+*Protective Partner (Ex)*: At 15th level, the cavalier wreaks terrible vengeance on those who would try to harm her mount. Whenever an opponent attacks the cavalier’s mount, the attacking creature provokes an attack of opportunity from the cavalier. The cavalier receives a +2 bonus on attack rolls and damage rolls when she makes these attacks of opportunity.
+
 ### Order of the Shield
 
 Cavaliers who join the order of the shield devote their lives to protecting the common folk, from the simple farmer to the honest craftsman. These cavaliers stand before the tide, protecting the innocent from roving marauders and hungry monsters.

@@ -371,3 +371,5 @@ The following text is the property of Wizards of the Coast, Inc. and is Copyrigh
     Pathfinder Campaign Setting: Classic Treasures Revisited © 2010, Paizo Publishing, LLC; Authors: Jacob Burgess, Brian Cortijo, Jonathan H. Keith, Michael Kortes, Jeff Quick, Amber Scott, Amber Stewart, and Russ Taylor.
 
     Pathfinder Campaign Setting: Distant Realms © 2018, Paizo Inc.; Authors: John Compton, Crystal Frasier, Thurston Hillman, Amanda Hamon, Lyz Liddell, and David Schwartz.
+
+    Pathfinder Campaign Setting: Qadira, Jewel of the East © 2017, Paizo Inc.; Author: Jessica Price.

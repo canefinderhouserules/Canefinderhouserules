@@ -929,3 +929,13 @@ These traits tie characters to a frontier campaign of ancient monuments, rival c
 ## Faction Regional Traits
 
 **Network Tiller (Infernal empire native)**: You are a tiller in a secretive freed-slave network in the infernal empire and carefully move slaves from one hideout to the next. You gain a +5 trait bonus on all Survival skill checks made to get along in the wild, travel in severe weather, keep from getting lost, or predict the weather. You must be a member of the freed-slave network to take this trait.
+
+## More Traits of the Desert Satrapy
+
+**Emberkin Imposter (Desert satrapy native)**: You have found it is easier to be mistaken for someone with celestial blood than to reveal your true nature. You gain a +5 trait bonus on Disguise checks when pretending to be an aasimar, and a +2 trait bonus on Diplomacy checks against those you have convinced of your supposed celestial nature.
+
+**Empathic Diplomat (Desert satrapy native)**: You have long followed the path of common sense and empathic insight when using diplomacy. You modify your Diplomacy checks using your Wisdom modifier, not your Charisma modifier.
+
+**Satrapy Trader (Desert satrapy native)**: Your cosmopolitan upbringing has given you familiarity with many cultures. You gain two bonus languages and a +2 trait bonus on Knowledge (local) checks.
+
+**Dwarven-Taught Weaponsmith (Desert satrapy native)**: You are a descendant of a long line of skilled dwarven weapon makers or have apprenticed under such artisans. Either way, you learned their long-held secrets relating to the production of magical arms and armor. You treat your caster level as 1 higher for purposes of creating magical weapons, and gain a +1 trait bonus on Craft checks to create magical armor, shields, or weapons.

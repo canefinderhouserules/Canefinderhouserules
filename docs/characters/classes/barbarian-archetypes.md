@@ -979,3 +979,11 @@ At 5th level and every 5 levels thereafter (10th, 15th, and 20th levels), the be
 At 8th level, the beastkin berserker can use feral transformation to take the form of a Large or Tiny animal that she has chosen with her savage rapport. Feral transformation now acts as *beast shape II*.
 
 At 12th level, a beastkin berserker is able to use feral transformation to take the form of a Huge or Diminutive animal that she has chosen with her savage rapport. Feral transformation now functions as *beast shape III*. This ability replaces the rage powers gained at 4th, 8th, and 12th levels.
+
+## Sun Totem Rage Powers
+
+**Sun Totem, Lesser (Su)**: The sun’s fire invigorates the barbarian. She is immune to environmental effects from heat and severe heat, and she gains a +2 bonus on Fortitude saves against the effects of extreme heat. In addition, the barbarian gains fire resistance 5 while raging.
+
+**Sun Totem (Su)**: The touch of flame fuels and bolsters the barbarian’s rage. She gains fire resistance 10 when raging. In addition, for 1d6 rounds after coming in direct contact with open flame, her speed increases by 10 feet. A barbarian must have the lesser sun totem rage power and be at least 6th level to select this rage power.
+
+**Sun Totem, Greater (Su)**: The barbarian takes on aspects of the sun. She gains fire resistance 20 when raging. While raging, she is surrounded by a halo of flame that deals 1d6 points of fire damage to anyone that hits her with a touch attack or unarmed attack or succeeds at a bull rush, drag, or grapple combat maneuver against her. Her unarmed strikes and attacks with natural weapons deal 1d6 additional points of fire damage. A barbarian must have the sun totem rage power and be at least 10th level to select this rage power.
