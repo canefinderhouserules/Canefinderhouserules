@@ -341,3 +341,21 @@ The following text is the property of Wizards of the Coast, Inc. and is Copyrigh
     Pathfinder Campaign Setting: The First World, Realm of the Fey © 2016, Paizo Inc.; Author: James L. Sutter.
 
     Pathfinder Campaign Setting: Concordance of Rivals © 2019, Paizo Inc.; Authors: John Compton, Crystal Frasier, Ron Lundeen, and Amber Stewart.
+
+    Pathfinder Campaign Setting: Dragon Empires Gazetteer © 2011, Paizo Publishing, LLC; Authors: James Jacobs, Dave Gross, and Robert G. McCreary.
+
+    Pathfinder Campaign Setting: Inner Sea Faiths © 2016, Paizo Inc.; Authors: Robert Brookes, Benjamin Bruck, Crystal Frasier, Thurston Hillman, Brandon Hodge, James Jacobs, Jessica Price, Patrick Renie, and David N. Ross.
+
+    Pathfinder Campaign Setting: Faiths of Golarion © 2018, Paizo Inc.; Authors: Kate Baker, John Compton, Adam Daigle, Crystal Frasier, Ron Lundeen, Liane Merciel, Michael Sayre, and Owen K.C. Stephens.
+
+    Pathfinder Adventure Path #93: Forge of the Giant God © 2015, Paizo Inc.; Author: Tim Hitchcock.
+
+    Pathfinder Adventure Path #95: Anvil of Fire © 2015, Paizo Inc.; Author: Sean K Reynolds.
+
+    Pathfinder Adventure Path #110: The Thrushmoor Terror © 2016, Paizo Inc.; Author: Tito Leati.
+
+    Pathfinder Adventure Path #113: What Grows Within © 2017, Paizo Inc.; Author: John Compton.
+
+    Pathfinder Adventure Path #117: Assault on Longshadow © 2017, Paizo Inc.; Authors: Benjamin Bruck and Thurston Hillman.
+
+    Pathfinder Adventure Path #144: Midwives to Death © 2019, Paizo Inc.; Author: John Compton.
