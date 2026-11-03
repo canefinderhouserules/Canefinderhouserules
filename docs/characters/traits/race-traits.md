@@ -440,8 +440,6 @@ Only orcs and half-orcs may select these traits.
 
 **Mindlessly Cruel**: You take delight in delivering vicious blows with cruel weapons. Whenever you have a morale bonus on weapon attack rolls, you also receive a +1 trait bonus on weapon damage rolls.
 
-**Outcast (Orc)**: You are adept at living away from tribes and receive a +1 trait bonus on Survival checks. Survival becomes a class skill for you.
-
 **Rage of Storms**: Summoned creatures can inherit your ferocity. Once per day, a creature you summon can have the ferocity ability.
 
 **Tribal**: You are especially devoted to your tribe, and within 60 feet of a tribal standard, you gain a +1 trait bonus on attack rolls and Will saves against fear effects, as if you were the recipient of a *bless* spell.

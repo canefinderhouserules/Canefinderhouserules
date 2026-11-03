@@ -1,6 +1,6 @@
 # Pesh Addiction
 
-**School** necromancy; **Level** pesh mage 5  
+**School** necromancy; **Level** pesh adept 5  
 **Casting Time** 10 minutes  
 **Components** V, M (a dose of pesh)  
 **Range** close (25 ft. + 5 ft./2 levels)  

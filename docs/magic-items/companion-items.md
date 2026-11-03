@@ -435,16 +435,6 @@ A *fitting* shield or suit of armor instantly shrinks or grows to suit the size 
 
 **Construction Requirements:** Craft Magic Arms and Armor, *resize item*; **Cost** +1,000 gp
 
-### Resizing (weapon special ability)
-
-**Slot** weapon special ability; **CL** 5th; **Price** +4,000 gp; **Weight** —
-
-**Aura** faint transmutation
-
-A *resizing* weapon instantly shrinks or grows to suit the size of any creature that picks it up unless it is currently wielded by another creature. It reverts to its original size 1 round after it leaves its wielder's possession.
-
-**Construction Requirements:** Craft Magic Arms and Armor, *resize item*; **Cost** +2,000 gp
-
 ### Ring of Perfect Sizing
 
 **Slot** ring; **CL** 5th; **Price** 16,000 gp; **Weight** —
@@ -644,36 +634,6 @@ The *weeping* special quality can be applied only to a shield. As a move action,
 
 **Construction Requirements:** Craft Magic Arms and Armor, *crushing despair*; **Cost** +1 bonus equivalent (half the price)
 
-### Injecting (weapon special ability)
-
-**Slot** weapon special ability; **CL** 5th; **Price** +1 bonus; **Weight** —
-
-**Aura** moderate conjuration
-
-*Injecting* weapons feature bulbous pommels and small grooves along their blades, allowing them to store and deliver poison. An *injecting* weapon can hold up to 3 doses of injury poison. As a swift action, the wielder of an *injecting* weapon can coat the weapon with 1 dose of one of the inserted poisons. Only bladed weapons can be made into *injecting* weapons. Adding a dose of poison to the reservoir is a full-round action.
-
-**Construction Requirements:** Craft Magic Arms and Armor, *delay poison*; **Cost** +0.5 bonus equivalent (half the price)
-
-### Miserable (weapon special ability)
-
-**Slot** weapon special ability; **CL** 8th; **Price** +1 bonus; **Weight** —
-
-**Aura** moderate conjuration
-
-A *miserable* weapon cuts through the energy resistance of certain foes. *Miserable* weapons must be crafted with a designated creature type (just like bane weapons), and each time they deal damage to their designated foes, their magic halves the creatures' natural energy resistances for 1 round.
-
-**Construction Requirements:** Craft Magic Arms and Armor, *summon monster I*; **Cost** +0.5 bonus equivalent (half the price)
-
-### Toxic (weapon special ability)
-
-**Slot** weapon special ability; **CL** 7th; **Price** +2 bonus; **Weight** —
-
-**Aura** moderate transmutation
-
-Weapons with the *toxic* special ability reinforce the effects of applied poisons. The save DC of a poison applied to the weapon and delivered via an attack increases by 2. In addition, each time such a weapon strikes a target, there is a 25% chance that the poison dose is not expended in the attack and can be used to make an additional attack. A single dose of poison can be preserved by this property only once.
-
-**Construction Requirements:** Craft Magic Arms and Armor, *accelerate poison*, *pernicious poison*; **Cost** +1 bonus equivalent (half the price)
-
 ### Closing Offer
 
 **Slot** none; **CL** 10th; **Price** 15,310 gp; **Weight** 2 lbs.
@@ -778,18 +738,6 @@ These stylized red gloves are often employed by guild assassins for stealthy kil
 Adorned with stylized bronze feathers, these headbands are prized by treacherous nobles who fear an assassin's dagger in the back. While worn, an *imperious headband* grants its wearer a +4 deflection bonus to his AC against any attack made by a hireling, a slave, a servant, or any other sentient creature in his employ. In addition, such creatures must succeed at a DC 13 Will save or treat their master as if he were affected by a *sanctuary* spell. If such creatures are subject to magical compulsion to attack the wearer, they must roll all attack rolls and checks to overcome spell resistance against the wearer twice and take the lower result.
 
 **Construction Requirements:** Craft Wondrous Item, *charm person*, *sanctuary*; **Cost** 2,000 gp
-
-### Ioun Spite Bracers
-
-**Slot** wrists; **CL** 12th; **Price** 15,000 gp; **Weight** 2 lbs.
-
-**Aura** strong evocation
-
-These bracers find particular use by thieves who prey on collectors and adventurers. As a standard action, a creature wearing these bracers can attempt a steal combat maneuver check to nab any orbiting *ioun stone* within 30 feet, though the *ioun stone's* owner receives a +4 circumstance bonus to her CMD. If the bracers' wearer succeeds, the stolen *ioun stone* embeds itself in one of the bracers' four available slots (each bracer has two). Embedded *ioun stones* provide their bonuses to the wearer and can be removed with a move action.
-
-As a standard action, the wearer can temporarily drain the power of any *ioun stone* that is embedded in the bracers and isn't dull gray, and can then channel that power to cast *magic missile* as a spell-like ability, firing three missiles at a target or targets up to 160 feet away. Drained *ioun stones* become dull gray for the next 2d4 hours.
-
-**Construction Requirements:** Craft Wondrous Item, *magic missile*, *telekinesis*; **Cost** 7,500 gp
 
 ### Meduseion
 
@@ -1562,68 +1510,6 @@ This special ability can be placed only on a shield. Once per day, a singing shi
 This special ability can be placed only on heavy armor. Volcanic armor is often stony in appearance and gives off a soft red glow. Once per day, the wearer can command the armor to erupt, causing a cloud of smoke and hot molten liquid to shoot forth from the armor in a 5-foot radius centered on the wearer. The smoke provides concealment, and the liquid deals 1d6 points of fire damage and ignites flammable substances. One round after the armor erupts, the smoke clears and the liquid cools and solidifies, creating difficult terrain. The wearer of this armor isn't affected by the smoke, fire damage, or difficult terrain created by this armor.
 
 **Construction Requirements:** Craft Magic Arms and Armor, *incendiary cloud*; **Cost** +2 bonus
-
-### Culling (weapon special ability)
-
-**Slot** melee slashing weapon special ability; **CL** 8th; **Price** +2 bonus; **Weight** —
-
-**Aura** moderate evocation
-
-This special ability can be placed only on melee slashing weapons. When a *culling* weapon is used to make an attack using the Cleave or Great Cleave feat, it deals an additional 2d6 points of damage on both the initial attack and any additional attacks granted by Cleave or Great Cleave. The weapon also applies the bonus 2d6 points of damage to successful attacks granted by use of the Cleaving Finish and Improved Cleaving Finish feats.
-
-**Construction Requirements:** Cleave, Craft Magic Arms and Armor, *divine favor*; **Cost** +2 bonus
-
-### Growing (weapon special ability)
-
-**Slot** melee weapon special ability; **CL** 6th; **Price** +1 bonus; **Weight** —
-
-**Aura** moderate transmutation
-
-This special ability can be placed only on melee weapons. Once per day, a *growing* weapon is able to grow by one size category, dealing damage as appropriate for its new size and allowing its wielder to affect creatures one size larger than normal with combat maneuvers limited by size. The wielder is able to use the weapon normally without penalty despite its increased size. The weapon remains at its increased size for 10 minutes.
-
-**Construction Requirements:** Craft Magic Arms and Armor, *enlarge person*; **Cost** +1 bonus
-
-### Shrinking (weapon special ability)
-
-**Slot** melee weapon special ability; **CL** 5th; **Price** +1,000 gp; **Weight** —
-
-**Aura** faint transmutation
-
-This special ability can be placed only on melee weapons. When the wielder issues the command word, a *shrinking* weapon shrinks to the size of a standard dagger. While in this state, the weapon deals 1d4 points of damage but is more easily concealable. When the command word is spoken again, the weapon returns to its original state.
-
-**Construction Requirements:** Craft Magic Arms and Armor, *shrink item*; **Cost** +500 gp
-
-### Smashing (weapon special ability)
-
-**Slot** melee bludgeoning weapon special ability; **CL** 10th; **Price** +1 bonus; **Weight** —
-
-**Aura** moderate conjuration
-
-This special ability can be placed only on melee bludgeoning weapons. A *smashing* weapon deals an additional 2d6 points of damage to inanimate objects, including when it is used to sunder armor and weapons.
-
-**Construction Requirements:** Craft Magic Arms and Armor, *bull's strength*; **Cost** +1 bonus
-
-### Spell Siphon (weapon special ability)
-
-**Slot** melee weapon special ability; **CL** 15th; **Price** +5 bonus; **Weight** —
-
-**Aura** strong transmutation
-
-This special ability can be placed only on melee weapons. A *spell siphon* weapon allows the wielder to siphon a single combat spell from a target. When the wielder rolls a critical threat against the target, she can forgo confirming the critical hit (dealing normal damage) to instead automatically learn what combat spells are active on the target. For the purposes of this ability, a combat spell is any spell that grants a bonus to Strength, Dexterity, Constitution, movement, or Armor Class, or on attack rolls, damage rolls, or saving throws.
-
-The wielder can then attempt a check to siphon one of the combat spells of her choice. This check uses either the wielder's caster level or the wielder's base attack bonus plus the weapon's enhancement bonus, and is attempted against a DC of 11 + the targeted spell's caster level. If the wielder succeeds, the target immediately loses access to the spell being siphoned, and the wielder gains the effects of the spell for its remaining duration or 1 minute, whichever is shorter. If the *spell siphon* weapon has a critical multiplier greater than ×2, the wielder can attempt to siphon one additional combat spell for each additional multiplier beyond 2 (two spells for ×3, three for ×4, and so on).
-
-**Construction Requirements:** Craft Magic Arms and Armor, *greater arcane sight*, *limited wish*; **Cost** +5 bonus
-
-### Sticky (weapon special ability)
-
-**Slot** reach or piercing melee weapon special ability; **CL** 8th; **Price** +1 bonus; **Weight** —
-
-**Aura** moderate transmutation
-
-This special ability can be placed only on reach weapons, piercing melee weapons, and weapons from the flail fighter weapon training group. When a *sticky* weapon scores a critical hit against a target, instead of rolling to confirm the critical threat, the wielder can deal normal damage and attempt a steal combat maneuver check against the target of the attack. This combat maneuver doesn't provoke an attack of opportunity, and the wielder gains a +2 bonus on the combat maneuver check.
-
-**Construction Requirements:** Craft Magic Arms and Armor, Improved Steal, *spider climb*; **Cost** +1 bonus
 
 ### Amulet of Quaking Strikes
 
@@ -3639,16 +3525,6 @@ If the second command word is spoken, any animal trapped within the *trophy box*
 
 ## Marketplace Weapon Items
 
-### Legbreaker (weapon special ability)
-
-**Slot** weapon special ability; **CL** 7th; **Price** +2 bonus; **Weight** —
-
-**Aura** moderate transmutation
-
-A *legbreaker* weapon reduces the base land speed of a struck creature by 10 feet for 1d4 rounds. Multiple hits from a *legbreaker* weapon do not reduce a creature's land speed further, but they do extend the duration of the penalty. This speed penalty can be removed with a successful DC 15 Heal check. On a critical hit, in addition to dealing critical damage and impeding the victim's speed, the wielder may perform a free trip combat maneuver against the struck creature. This ability can only be placed on bludgeoning melee weapons.
-
-**Construction Requirements:** Craft Magic Arms and Armor, *touch of gracelessness*; **Cost** +2 bonus
-
 ### Lizardmarked Blade
 
 **Slot** none; **CL** 10th; **Price** 15,715 gp; **Weight** 3 lbs.
@@ -3670,16 +3546,6 @@ Once per day, the wielder can speak the *lizardmarked blade's* command word to c
 *Marrowcracker* is a +2 *mighty cleaving* warhammer with a haft carved to look like a stout femur. Whenever the wielder confirms a critical hit against a corporeal creature with a skeletal system, the creature struck takes 1d4 points of Strength or Dexterity damage (wielder's choice).
 
 **Construction Requirements:** Craft Magic Arms and Armor, *calcific touch*, *divine power*, *ray of enfeeblement*; **Cost** 14,312 gp
-
-### Rusting (weapon special ability)
-
-**Slot** weapon special ability; **CL** 7th; **Price** +1 bonus; **Weight** —
-
-**Aura** moderate transmutation
-
-A weapon with the *rusting* special ability is so badly tarnished that no amount of cleaning can restore it. Although the weapon constantly sheds flecks of rust and corroded metal, it remains structurally sound. When the wielder confirms a critical hit with a *rusting* weapon, she can forgo any extra damage to instead deal normal damage to the target and affect the target or the target's armor with the *rusting grasp* spell. A *rusting* weapon cannot be used against unattended inanimate objects. A *rusting* weapon is immune to mundane or magical rust, including the attack of a rust monster.
-
-**Construction Requirements:** Craft Magic Arms and Armor, *rusting grasp*; **Cost** +1 bonus
 
 ## Marketplace Intelligent Items
 
@@ -3862,16 +3728,6 @@ This weapon special ability can only be placed on ammunition. A creature struck 
 **Construction Requirements:** Craft Wondrous Item, *mirror strike*; **Cost** +2 bonus
 
 ## Marketplace Rogue and Assassin Items
-
-### Murderer's Silence
-
-**Slot** none; **CL** 3rd; **Price** 900 gp; **Weight** 1 lb.
-
-**Aura** faint conjuration
-
-In magical societies, *speak with dead* has captured many a murderer, and so this serum was invented by assassins to silence their victims. *Murderer's silence* prevents a corpse from communicating via *speak with dead* by dissolving the victim's vocal organs. To use this item, the thick black liquid must be slowly poured down the throat of the corpse (a full-round action that provokes attacks of opportunity). The following round, the corpse's tongue, vocal cords, and lips deteriorate and the corpse becomes incapable of responding to *speak with dead*. Other means of interrogating the spirit of the departed still function normally. The price listed is for a single dose.
-
-**Construction Requirements:** Craft Wondrous Item, *contagion*; **Cost** 450 gp
 
 ### Poison Vial of Distance
 
@@ -6756,14 +6612,6 @@ The wearer of a pair of *stonemeld boots* gains a +4 bonus to CMD against bull r
 
 ## Explorers’ Society Items
 
-### Deceptive (Weapon Special Ability)
-
-**Aura** moderate illusion; **CL** 9th; **Price** +1 bonus
-
-A *deceptive* weapon’s shape blurs and appears to bend unpredictably. When the weapon is in hand, the wielder gains a bonus on Bluff checks to feint equal to the enhancement bonus of the weapon. In addition, when the wielder successfully confirms a critical hit with a *deceptive* weapon against an opponent, she can attempt to feint against that opponent as an immediate action.
-
-**Construction Requirements:** Craft Magic Arms and Armor, *dazzling blade*
-
 ### Book Thief’s Satchel
 
 **Slot** none; **CL** 9th; **Price** 10,000 gp; **Weight** 2 lbs.
@@ -6837,16 +6685,6 @@ This long, double-breasted jacket is sewn from durable, dun-colored canvas with 
 - *Wand of prestidigitation* (CL 1st, 5 charges)
 
 **Construction Requirements:** Craft Wondrous Item, *fabricate*; **Cost** 4,000 gp
-
-### Polish of Inconspicuous Armor
-
-**Slot** none; **CL** 5th; **Price** 750 gp; **Weight** 1/2 lb.
-
-**Aura** faint conjuration
-
-This pungent, tar-black armor polish comes in a small, circular tin. The 1 dose contained in the tin is enough to apply to a single Medium suit of armor or two Small suits of armor. Applying the polish takes 10 minutes, during which time the user must visualize an alternative appearance for the armor to take on, such as a normal set of clothes or another set of armor. After the polish is applied, its noxious scent dissipates and the armor appears the way the user visualized, as the *glamered* magic armor special ability. The armor maintains all properties other than its physical appearance, including weight, armor check penalty, and maximum Dexterity bonus. This effect remains for 24 hours before wearing off.
-
-**Construction Requirements:** Craft Wondrous Item, *disguise self*; **Cost** 375 gp
 
 ### Tightfit Belt
 
@@ -7646,7 +7484,6 @@ This foul-smelling gray paste is typically stored in a bone container. When smea
 
 Originally invented by shamans of northern tribes, *zoic fetishes* have spread far and wide and are much sought after in any area where dangerous animals dwell. Each *zoic fetish* looks different, but is essentially a small fetish made from bone, branches, grass, and twine crafted into one of several shapes—a mammal, a bird, a reptile, an amphibian, or a fish.
 
-
 As long as a creature carries a *zoic fetish*, it is somewhat protected against attacks from animals, gaining a +1 insight bonus to AC against all animals. In addition, possession of a *zoic fetish* grants a +4 insight bonus on wild empathy checks. Finally, once per day, the wielder can present a *zoic fetish* to an animal of the same classification as the fetish (amphibian, bird, fish, mammal, or reptile) to use *dominate animal* on that creature.
 
 **Construction Requirements:** Craft Wondrous Item, *dominate animal*, *hide from animals*; **Cost** 3,750 gp
@@ -7668,7 +7505,6 @@ As long as a creature carries a *zoic fetish*, it is somewhat protected against 
 **Aura** strong necromancy
 
 The *sun orchid elixir* of a desert nation is a nearly perfect solution for those who seek eternal life. A single dose of *sun orchid elixir* cannot stop the aging process, but it does the next-best thing—it restores youth. A creature that drinks the elixir is restored to its starting age as a young adult. The drinker’s new age is randomly determined using Table 7–1 on page 169 of the *Pathfinder RPG Core Rulebook*. All penalties to Strength, Dexterity, and Constitution the drinker may have suffered as a result of advanced age are removed, but all bonuses to Intelligence, Wisdom, and Charisma that result from advanced age remain (although as the character ages again into middle age and beyond, he does not gain any of these bonuses a second time).
-
 
 Vanity-seekers go to nearly any length to acquire the elixir, resorting to bribery, extortion, and murder. To curtail such troubles in the land of its creation, the use of the elixir is outlawed there (except by the formula’s creator). Each vial of *sun orchid elixir* requires six mature sun orchids and 1 month’s time to ferment, although the exact formula used is a secret known only to a reclusive alchemist of that nation. Prices for a dose of the elixir vary wildly since the elixir is sold at auction, but no dose has ever sold for less than 50,000 gp.
 
@@ -8811,4 +8647,3 @@ This magical full-body suit completely protects the wearer from temperature extr
 This breastplate made from the shell of a flail snail functions as a *+1 reflecting breastplate* (even though that shield property cannot normally be added to armor). Once per day, the wearer can cause a spell targeted at him to reflect back at the caster, exactly like *spell turning*. At the GM’s discretion, the wearer can instead expend this one use per day to roll on the flail snail’s chart, randomly warping the spell in question.
 
 **Construction Requirements:** Craft Magic Arms and Armor, *spell turning*, one flail snail shell; **Cost** 18,000 gp
-

@@ -2652,7 +2652,6 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Pesh Adept](pesh-adept.md) | General | Spell Focus (any), ability to cast 2nd-level spells |
 | [Pesh Euphoria](pesh-euphoria.md) | General | Pesh Adept or pesh addict |
 | [Pesh Healing](pesh-healing.md) | General | Pesh Adept or pesh addict |
-| [Pesh Mage](pesh-mage.md) | — | Spell Focus (any), ability to cast 2nd-level spells |
 | [Pesh Rejuvenation](pesh-rejuvenation.md) | General | Pesh Adept or pesh addict |
 | [Phalanx Formation](phalanx-formation.md) | Combat | Base attack bonus +1 |
 | [Phantom Ally](phantom-ally.md) | General | Phantom class feature |

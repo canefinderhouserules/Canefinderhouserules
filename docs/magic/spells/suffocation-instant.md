@@ -1,6 +1,6 @@
 # Suffocation, Instant
 
-**School** necromancy [death]; **Level** pesh mage 5  
+**School** necromancy [death]; **Level** pesh adept 5  
 **Casting Time** 1 standard action  
 **Components** V, S  
 **Range** touch  

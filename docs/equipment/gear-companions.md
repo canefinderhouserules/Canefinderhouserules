@@ -2479,12 +2479,6 @@ A common source of illumination in northern lands, 1 pint of whale oil burns for
 
 ## Pirate Gear
 
-### Chest, Treasure
-
-**Price** 3 gp (small), 7 gp (medium), 15 gp (large), 37 gp (huge); **Weight** 25 lbs. (small), 50 lbs. (medium), 100 lbs. (large), 250 lbs. (huge)
-
-A treasure chest begins as a common wooden chest and is treated with resin to make the wood water-resistant. Metal bands, usually bronze to prevent rusting, strengthen it, and the lock is also bronze. A treasure chest uses the statistics of an ordinary wooden chest, but its hit points increase by 25% and its Break DC increases by 2. Treasure chests stand up better to water travel and to being buried than ordinary chests.
-
 ### Eye Patch
 
 **Price** 1 sp; **Weight** —
@@ -2924,12 +2918,6 @@ This saccharine extract is made by drow and duergar taskmasters to help keep rec
 
 *Kit.* This kit is useful to explorers who must practice guile and deception in order to acquire useful information, and includes a set of caltrops, chalk, a disguise kit, an ear trumpet, fake footprint shoes, a skeleton key, and a wrist sheath. For Small creatures, the weight of an infiltration kit is 9 pounds.
 
-### Explorer’s Kit
-
-**Price** 12 gp; **Weight** 22 lbs.
-
-*Kit.* This kit consists of a backpack, a bedroll, a belt pouch, a clay mug, a dagger, two fishhooks, a flint and steel, a sewing needle, a signal whistle, 50 feet of string, 50 feet of thread, a week’s worth of trail rations, a waterskin, and a whetstone. For Small creatures, the weight of an explorer’s kit is 7–1/2 pounds. Leaving the bedroll and rations at camp or on a mount reduces the weight by 12 pounds for Medium creatures and by 3 pounds for Small creatures.
-
 ## Frontier Gear
 
 ### Bladed Scarf
@@ -2998,24 +2986,6 @@ If used as an additional material component when casting a spell the idol affect
 
 *Transmutation Idol*: When used to cast *bear’s endurance*, *bull’s strength*, *cat’s grace*, *eagle’s splendor*, *fox’s cunning*, or *owl’s wisdom*, the spell grants a +5 enhancement bonus to the affected ability score.
 
-### Scarf
-
-**Price** 1 sp–5 gp (plain), 8 gp (pocketed), 10 gp (reinforced); **Weight** 1/2 lb. (plain or pocketed), 1 lb. (reinforced)
-
-*Clothing.* Entertainers often employ seductive garb and entrancing props in their performances. Scarves of colorful cloth or transparent silk, often embroidered with elaborate scenes or motifs, are favorite accessories.
-
-*Pocketed*: An elaborate design disguises several small pockets on one side of this scarf. This scarf grants you a +4 bonus on Sleight of Hand checks made to hide objects on your body. This bonus does not stack with the bonus wearing heavy clothing provides but does stack with bonuses for attempting to hide small objects.
-
-*Reinforced*: One side of this 8-foot-long scarf is reinforced with chain links and metal plates. While not enough to provide a benefit to Armor Class, these versatile scarves can be used like a length of chain to climb short distances or bind an enemy. A reinforced scarf has hardness 10 and 4 hit points. It can be burst with a successful DC 24 Strength check.
-
-## Jungle Colony Gear
-
-### Prey Musk
-
-**Price** 40 gp; **Weight** 1/2 lb.
-
-*Alchemical tool.* This emerald-colored adhesive is made from animal glands, urine, and other powerful scents that are difficult to wash off. A target splashed with it smells like weak prey to predators. Creatures with the scent ability can detect a marked creature at five times the normal range, note its direction as a free action, pinpoint it when it is within 25 feet, and track it by scent with a +5 bonus on their Survival checks. Immersion in water within 1 round of exposure washes the musk off; otherwise the effect decreases by 1 range increment per day (four times normal range after 1 day, three times normal range after 2 days, and so on) until the creature is again at normal scent levels. The Craft (alchemy) DC to create prey musk is 20. Prey musk can also be used for [equipment tricks](../rules/combat/equipment-tricks.md#prey-musk-tricks).
-
 ## Faction Gear
 
 ### Tears of Perfection
@@ -3040,25 +3010,11 @@ Forged by the smiths of a crusader nation out of iron and a rare mineral, this b
 
 A cannon ball is the ammunition of a cannon and many other siege firearms. Picking up or drawing a cannon ball requires a move action for Medium and Small creatures, but is a free action for Large and larger creatures.
 
-### Explorer’s Chronicle
-
-**Price** 50 gp; **Weight** 1 lb.
-
-Numerous volumes and editions of these explorers’ chronicles exist. When used as a reference (an action that takes 1d4 full rounds of searching the text), a chronicle grants a +2 circumstance bonus on a specific Knowledge check. Each chronicle grants this bonus to a different type of Knowledge. Regardless of which type that particular chronicle is focused on, the cost of the book remains the same.
-
 ### First-Tree Wood
 
 Towering above most other trees, these lofty silver-barked hardwoods are widely held as the “first trees.” Lumberjacks superstitiously connect them to the fey races of the woodlands and, despite the strength of the wood, often avoid harvesting them. Nature enthusiasts revere them. They grow to immense heights, but never spread to more than a few feet in diameter.
 
 **Stats**: As darkwood but with hardness 7 and 150% as expensive.
-
-### Infernal Knight Plate
-
-**Cost** 2,000 gp; **Weight** 50 lbs.
-
-**Armor Bonus** +9; **Max Dex Bonus** +1; **Armor Check Penalty** –5; **Arcane Spell Failure Chance** 35%; **Speed** 20 ft./15 ft.
-
-These distinctive suits of armor are a special type of masterwork full plate that grant additional effects when worn by a character with levels in the [infernal knight](../characters/prestige-classes/infernal-knight.md) prestige class. Apart from its distinctive look (each order of infernal knights has its own style of armor), a suit of this plate functions the same as a suit of masterwork full plate.
 
 ### Tears of the Living God
 
@@ -3631,9 +3587,6 @@ Upon his 100th birthday, a lizard king’s status is officially acknowledged, an
 **Effect** The victim loses all memory of events that took place in the previous hour and can’t form new memories for 8 hours. These lost and prevented memories might return later in the form of dreams, and can be returned with a *restoration* or *heal* spell
 
 **Cure** 2 saves
-
-
-
 
 ### Crystal Chakram
 

@@ -130,6 +130,8 @@ There are instances where wearing full plate armor can jeopardize a knight’s l
 
 **Price** 2,000 gp; **Weight** 50 lbs.
 
+**Armor Bonus** +9; **Max Dex Bonus** +1; **Armor Check Penalty** –5; **Arcane Spell Failure Chance** 35%; **Speed** 20 ft./15 ft.
+
 These distinctive suits of armor are a special type of masterwork full plate that grant additional effects when worn by a character with levels in the infernal knight prestige class. Apart from its distinctive look (each order has its own style of armor), a suit of infernal knight plate functions the same as a suit of masterwork full plate.
 
 ### Signifer Mask
