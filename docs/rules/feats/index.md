@@ -2449,6 +2449,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Manifold Stare](manifold-stare.md) | Combat, Stare | Mesmerist level 3rd, painful stare class feature |
 | [Manipulative Agility](manipulative-agility.md) | — | Bluff 1 rank, Sleight of Hand 1 rank |
 | [Marcher-Lord of the Deep](marcher-lord-of-the-deep.md) | — | Fey creature type or sworn fealty to a fey lord, you must have carved your name and your patron's holy symbol on the hide of a living dragon or outsider with either the aquatic or water subtype and a CR at least 2 higher than your level when you took the feat |
+| [Mark of the Devoted](mark-of-the-devoted.md) | — | 1st-level character, human, worshiper of a living god-king, must personally create a token worth at least 50 gp prior to an 8-hour branding ritual during which you survive taking 2d6 points of fire damage |
 | [Marksman’s Utility](marksmans-utility.md) | Weapon Mastery | Base attack bonus +6, weapon training class feature with a ranged weapon |
 | [Marsh Dweller](marsh-dweller.md) | — | Str 13, must have spent time in a marsh-dwelling lizardfolk community |
 | [Martial Dominance](martial-dominance.md) | Combat | Base attack bonus +5, Intimidate 1 rank |

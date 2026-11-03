@@ -387,3 +387,5 @@ The following text is the property of Wizards of the Coast, Inc. and is Copyrigh
     Pathfinder Campaign Setting: Belkzen, Hold of the Orc Hordes © 2015, Paizo Inc.; Authors: Tyler Beck, Jason Garrett, Alex Greenshields, and David Schwartz.
 
     Pathfinder Campaign Setting: Heart of the Jungle © 2010, Paizo Publishing, LLC; Authors: Tim Hitchcock, Jason Nelson, Amber Scott, Chris Self, and Amber Stewart.
+
+    Pathfinder Campaign Setting: Undead Unleashed © 2014, Paizo Inc.; Authors: Adam Daigle, Dave Gross, Mark Moreland, David N. Ross, Amber Stewart, and Jerome Virnich.

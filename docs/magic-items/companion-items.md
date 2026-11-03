@@ -8212,3 +8212,87 @@ This jagged piece of curved brass with a razor-sharp edge functions as a *+2 vic
 
 **Construction Requirements:** Craft Magic Arms and Armor, *enervation*, *magic weapon*, creator must be a gnoll; **Cost** 9,158 gp
 
+## Undead Items
+
+### Cauldron of Transmutation
+
+**Slot** none; **CL** 13th; **Price** 33,000 gp; **Weight** 15 lbs.
+
+**Aura** strong transmutation
+
+This small brass cauldron is engraved with arcane runes, and its bottom is blackened by fire. To function, the cauldron must be filled with pure water and heated from below. When any two potions are emptied into the cauldron, they are transmuted into a single potion, the spell level of which must be equal to or lower than that of the component potion with the lower spell level. The user of the cauldron must designate which potion is to be created when the process begins. The entire process takes 1 minute per spell level of the potion being created.
+
+**Construction Requirements:** Craft Wondrous Item, *polymorph any object*; **Cost** 16,500 gp
+
+### Dragonslayer’s Brand
+
+**Slot** none; **CL** 10th; **Price** 90,000 gp; **Weight** 8 lbs.
+
+**Aura** moderate conjuration and evocation
+
+A legendary dragonslayer’s blade, the *dragonslayer’s brand* is a double-sided blade of folded blue steel, intricately engraved with ancient runes that light up with electric flame in the presence of dragonkind. The hilt is inlaid with ebony and wrapped with silver wire; the pommel features two silvered dragon heads.
+
+The *dragonslayer’s brand* is a *+3 wounding dragon-bane greatsword*. When the blade scores a critical hit on a dragon, the dragon heads on its pommel spit boiling acid into the wound hewn by the blade. This deals an additional 1d10 points of acid damage and 1d10 points of fire damage to the dragon. Its wielder gains a +4 resistance bonus on all saving throws against breath weapons, spell-like abilities, and spells from dragons.
+
+Since its first owner’s death, several duplicates of the legendary sword have been created. These blades have been wielded by mercenaries and adventurers alike, although they tend to end up in dragon hoards when their would-be dragonslayer wielders tackle something beyond their ability to endure even with the blade in hand—the same fate that befell the original sword in its first owner’s hands.
+
+**Construction Requirements:** Craft Magic Arms and Armor, *bleed*, *summon monster I*; **Cost** 45,000 gp
+
+### Ghost Mirror
+
+**Slot** none; **CL** 3rd; **Price** 3,000 gp; **Weight** 1/2 lb.
+
+**Aura** faint divination and evocation
+
+This small hand mirror is warped and tarnished around the edges. A creature wielding the mirror can activate it by speaking a command word as a standard action. Once activated, the mirror grants the wielder the ability to see all undead within 60 feet clearly reflected in the mirror. This includes ethereal undead and incorporeal undead hiding in objects or walls of up to 5 feet in thickness. A *ghost mirror* does not confer any ability to see such creatures directly—only their mirrored reflections—and grants creatures seen in it concealment (50% miss chance). A *ghost mirror* can be used for 3 minutes per day. These uses do not need to be consecutive but must be used in 1-minute increments.
+
+**Construction Requirements:** Craft Wondrous Item, *detect undead*; **Cost** 1,500 gp
+
+### Pharaoh’s Chariot
+
+**Slot** none; **CL** 9th; **Price** 45,000 gp; **Weight** 1/2 lb.
+
+**Aura** moderate transmutation
+
+This miniature chariot is made of wood and bronze and has a leather thong so it can hang around the neck or a belt. Once per day when the command word is spoken, the chariot increases in size to a fully functioning medium chariot capable of holding one Large creature or four Medium creatures. Up to four Medium creatures or one Large creature can be harnessed to the chariot to pull it, allowing these creatures as well as the chariot to gain the effects of *overland flight*. The chariot cannot move of its own volition and must have a source of propulsion in order to fly.
+
+With a second command word, the chariot shrinks back to its miniature size. Any creatures harnessed to it (but not those riding the vehicle) are absorbed into the miniature chariot. Such creatures are affected as if by a *temporal stasis* spell; they reappear at their normal size when the chariot is next activated.
+
+**Construction Requirements:** Craft Wondrous Item, *overland flight*, *shrink item*; **Cost** 22,500 gp
+
+### Funerary Mask
+
+**Slot** head; **CL** 9th; **Price** 9,000 gp; **Weight** 1 lb.
+
+**Aura** moderate varied
+
+An undead wearing this golden mask is treated as both an undead and a creature of the type it was before becoming undead (including any associated subtypes) for the purposes of determining its eligibility as a target of illusion and transmutation spells (such as *alter self* or *disguise self*). A corpse wearing the mask gains the effects of *gentle repose* and *sanctify corpse*. A living creature wearing the mask gains no effects.
+
+**Construction Requirements:** Craft Wondrous Item, *polymorph*, *sanctify corpse*; **Cost** 4,500 gp
+
+### Void Funnel
+
+**Slot** none; **CL** 18th; **Price** 46,000 gp; **Weight** 10 lbs.
+
+**Aura** strong conjuration
+
+This elaborately tapered lattice of adamantine and copper channels the essence of one plane to which it has been attuned. Whenever it leaves a plane of existence, it becomes attuned to one planar trait from among the following that the plane possessed: minor negative-dominant, minor positive-dominant, mildly aligned. If a plane had multiple appropriate traits, one is chosen randomly. If the plane has a more powerful version of one of these traits, the item attunes to the weaker version of the trait. Once per day, when a command word is spoken, the area within a 30-foot-radius emanation centered on the funnel gains the attuned trait for 1 minute. If the user of a *void funnel* chooses, she becomes immune to any negative effects of the funnel when it’s activated.
+
+**Construction Requirements:** Craft Wondrous Item, *gate*; **Cost** 23,000 gp
+
+### Void Crystal (Artifact)
+
+**Slot** none; **CL** 15th; **Price** —; **Weight** 160 lbs.
+
+**Aura** strong necromancy
+
+The *void crystal* crackled into existence through interplanetary feedback between a device on one world—one of two linked magical rings—and a facility on a dead world. The ring that’s buried deep beneath a great gate sits at the center of this great crystal, which shudders and expands in the collection chamber each time the proper alignment of celestial bodies comes to pass.
+
+The *void crystal* is attuned to the creature that wears its *control ring*, which is inherently linked to the ring at the center of the crystal. As a move action, a creature wearing the ring can trigger the crystal to discharge negative energy. This discharge fills the chamber, and deals 150 points of negative energy damage (Will DC 20 half). Undead creatures in the area of the discharge are healed of 150 points of damage. The reservoirs in the gate usually contain enough energy to power this discharge three times per week.
+
+Also, a creature in control of the *void crystal* can use its necromantic energy to raise any creature killed by the discharge as an undead creature as if using *animate dead*, *create undead*, or *create greater undead*. The creature in control of the *void crystal* can control up to 30 HD of undead created in this manner.
+
+Finally, a creature in control of the *void crystal* can use *dimension door* at will to travel to the collection chamber or the gate’s control room.
+
+**Destruction**: The *void crystal* can be destroyed by subjecting it to 16 continual hours of true sunlight without removing it from its receptacle in the collection chamber.
+

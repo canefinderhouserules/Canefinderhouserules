@@ -3521,3 +3521,15 @@ The best cure for this disease is dosing the patient with the poison arsenic—i
 **Initial Effect** paralysis; **Secondary Effect** 1d2 Con damage
 
 **Cure** 2 consecutive saves
+
+## Undead Diseases
+
+### Scarlet Leprosy
+
+**Type** contact; **Fortitude Save** DC 20
+
+**Onset** 1 day; **Frequency** 1/day
+
+**Effect** 1d6 Con damage and 1d6 Cha damage; whenever the character takes Con damage, 1 point is permanent drain
+
+**Cure** 2 consecutive saves
