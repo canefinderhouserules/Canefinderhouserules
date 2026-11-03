@@ -332,4 +332,4 @@ The following text is the property of Wizards of the Coast, Inc. and is Copyrigh
 
     Pathfinder Campaign Setting: Chronicle of the Righteous © 2013, Paizo Publishing, LLC; Author: Amber E. Scott.
 
-    Pathfinder Campaign Setting: Inner Sea Faiths © 2016, Paizo Inc.; Authors: Robert Brookes, Benjamin Bruck, Crystal Frasier, Thurston Hillman, Brandon Hodge, James Jacobs, Jessica Price, Patrick Renie, and David N. Ross.
+    Pathfinder Adventure Path #134: It Came from Hollow Mountain © 2018, Paizo Inc.; Authors: Mike Shel, with Jason Keeley, Patchen Mortimer, and Mark Moreland.

@@ -63,7 +63,7 @@ Empyreal lords are listed by their portfolio rather than by name, with their ali
 
 ### Boons
 
-1. **Virtuous Combat (Sp)**: *bless weapon* 3/day, *litany of righteousness* 2/day, or* magic vestment *1/day
+1. **Virtuous Combat (Sp)**: *bless weapon* 3/day, *litany of righteousness* 2/day, or *magic vestment* 1/day
 2. **Retribution (Su)**: You gain a sacred bonus equal to half your HD on damage rolls made with slashing weapons against the last creature to have physically wounded you within the last 24 hours.
 3. **Pure Soul (Sp)**: You can cast *holy aura* on yourself once per day. In addition to the effects of the spell, you gain DR 10/good and cold iron and you treat any weapon in hand as a *+5 holy weapon *for the duration of the effect.
 
@@ -201,7 +201,7 @@ Empyreal lords are listed by their portfolio rather than by name, with their ali
 
 ### Boons
 
-1. **Devotion (Sp)**: *command* 3/day, *paladin’s sacrifice* 2/day, or* pain strike* 1/day
+1. **Devotion (Sp)**: *command* 3/day, *paladin’s sacrifice* 2/day, or *pain strike* 1/day
 2. **Imperative (Sp)**: Once per day, you can command a creature to carry out some particular task or service. This ability acts as *geas/quest*, except it has a casting time of 1 minute and the penalty to ability scores for disobeying the *geas/quest* is –4 for every 24 hours the target so disobeys, up to a total of –16 (though none of the creature’s ability scores can be reduced to less than 1 by this effect).
 3. **Martyr's Blood (Su)**: You are immune to bleed effects. Whenever you would be affected by a bleed effect, all enemies within 30 feet gain the bleeding condition instead as though they were the effect’s original targets (no save; creatures immune to bleeding are immune to this effect). The Heal DC to stop this supernatural bleeding is 20 rather than 15.
 
@@ -341,7 +341,7 @@ Empyreal lords are listed by their portfolio rather than by name, with their ali
 
 ### Boons
 
-1. **Joyful Step (Sp)**: *longstrider* 3/day, *forest friend* 2/day, or* good hope *1/day
+1. **Joyful Step (Sp)**: *longstrider* 3/day, *forest friend* 2/day, or *good hope* 1/day
 2. **Infectious Joy (Su)**: Your delightful demeanor is so contagious that enemies find it hard to resist your charms. The save DC of your mind-affecting effects increases by 1, or by 2 against intelligent foes of the same race as you.
 3. **Familiar Journey (Sp)**: You can cast *word of recall* once per day, except you may target up to six willing creatures within 30 feet to travel with you; these creatures need not be touching you.
 
@@ -351,7 +351,7 @@ Empyreal lords are listed by their portfolio rather than by name, with their ali
 
 ### Boons
 
-1. **Whitewater (Sp)**: *hydraulic push* 3/day,* slipstream* 2/day, or* water breathing *1/day
+1. **Whitewater (Sp)**: *hydraulic push* 3/day, *slipstream* 2/day, or *water breathing* 1/day
 2. **Sacred Scales (Ex)**: You grow a coat of iridescent scales that matches your skin tone. Your natural armor bonus to AC increases by +3.
 3. **Waterform (Su)**: Three times per day, you and a number of willing touched companions equal to 1/2 your HD may meld into a body of flowing water (such as a river or creek) and travel up or downstream at a rate of 50 miles per hour. This transformation takes 1 minute to complete. You can wind through natural obstructions with ease as long as the body of water is still flowing, but not through largely impermeable barriers such as artificial dams. This effect lasts for a number of hours equal to your HD, and you cannot otherwise act or defend yourself while traveling in this way.
 
@@ -361,7 +361,7 @@ Empyreal lords are listed by their portfolio rather than by name, with their ali
 
 ### Boons
 
-1. **Forest Dweller (Sp)**: *calm animals* 3/day, *eagle eye* 2/day, or* deeper darkness *1/day
+1. **Forest Dweller (Sp)**: *calm animals* 3/day, *eagle eye* 2/day, or *deeper darkness* 1/day
 2. **Owl's Eye (Su)**: You gain darkvision out to a range of 60 feet. If you already have darkvision, increase its range by an additional 60 feet.
 3. **Hunter's Edge (Su)**: You gain sneak attack +3d6. This increase to sneak attack damage stacks with sneak attack damage you may have from other sources. Whenever you deal sneak attack damage with a piercing weapon, you deal +2 points of damage per sneak attack die.
 
