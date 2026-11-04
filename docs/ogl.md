@@ -785,3 +785,7 @@ The following text is the property of Wizards of the Coast, Inc. and is Copyrigh
     Ultimate Kineticist Compendium © 2019, Legendary Games; Lead Developer Onyx Tanuki.
 
     Legendary Kineticists II © 2017, Legendary Games; Authors: N. Jolly and Onyx Tanuki.
+
+    Legendary Clerics © 2020, Legendary Games; Authors: Matt Daley and Nathan Reinecke.
+
+    Legendary Investigators © 2022, Legendary Games; Authors: Connor Bates, Andrew J Gibson, Norman Mitchell, Margherita Tramontano, and Tara Collins.
