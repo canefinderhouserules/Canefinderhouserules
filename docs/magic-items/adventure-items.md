@@ -4112,7 +4112,9 @@ As long as the staff’s *anchoring* special ability is in effect, these spells 
 
 ## Wondrous Items
 
-### Agate Ellipsoid (Cracked) Ioun Stone
+### Agate Ellipsoid Ioun Stone
+
+**Cracked version**
 
 **Aura** strong divination; **CL** 12th
 
@@ -4128,7 +4130,7 @@ Increases the caster level of divination spells by 1.
 
 **Requirements** Craft Wondrous Item, *augury*, creator must be 12th level; **Cost** 250 gp
 
-### Agate Ellipsoid (Flawed) Ioun Stone
+**Flawed version**
 
 **Aura** strong divination; **CL** 12th
 
@@ -4212,7 +4214,9 @@ This stone grants a +1 resistance bonus on saving throws per stone, stacking up 
 
 **Requirements** Craft Wondrous Item, *resistance*, creator must be 12th level; **Cost** 3,000 gp
 
-### Amethyst Pyramid (Cracked) Ioun Stone
+### Amethyst Pyramid Ioun Stone
+
+**Cracked version**
 
 **Aura** strong abjuration; **CL** 12th
 
@@ -4228,7 +4232,7 @@ This stone grants a +2 competence bonus on Knowledge (religion) checks to identi
 
 **Requirements** Craft Wondrous Item, *hide from undead*, creator must be 12th level; **Cost** 75 gp
 
-### Amethyst Pyramid (Flawed) Ioun Stone
+**Flawed version**
 
 **Aura** strong abjuration; **CL** 12th
 
@@ -5015,7 +5019,9 @@ When active, a *bronze sentinel* has the following statistics: **Size **Large; *
 
 **Requirements** Craft Wondrous Item, *animate objects*,* continual flame*, creator must have 8 ranks in Knowledge (engineering); **Cost** 45,000 gp
 
-### Brown Thorny (Cracked) Ioun Stone
+### Brown Thorny Ioun Stone
+
+**Cracked version**
 
 **Aura** strong varies; **CL** 12th
 
@@ -5031,7 +5037,7 @@ Grants the bearer the benefit of either the Acrobatic or the Athletic feat. The 
 
 **Requirements** Craft Wondrous Item, creator must be 12th level; **Cost** 1,600 gp
 
-### Brown Thorny (Flawed) Ioun Stone
+**Flawed version**
 
 **Aura** strong varies; **CL** 12th
 
@@ -5435,7 +5441,25 @@ The key also grants its wielder a +4 bonus on saving throws to resist illusion e
 
 **Requirements** Craft Wondrous Item, Lucid Dreamer, *deep slumber*, *eagle’s splendor*, *guidance*; **Cost** 5,150 gp
 
-### Clear Spindle (Cracked) Ioun Stone
+### Clear Spindle Ioun Stone
+
+**Normal version**
+
+**Aura** strong varied; **CL** 12th
+
+**Slot** none; **Price** 4,000 gp; **Weight** —
+
+Sustains creature without food or water.
+
+**Resonance**
+
+The wearer can cast *protection from chaos/evil/good/law* on himself once per day (CL 12th). He can activate this ability as an immediate action, but doing so drains the ioun stone of its magic, turning it into a dull gray ioun stone.
+
+**Construction**
+
+**Requirements** Craft Wondrous Item, creator must be 12th level; **Cost** 2,000 gp
+
+**Cracked version**
 
 **Aura** strong varied; **CL** 12th
 
@@ -5451,7 +5475,7 @@ The wearer can cast *protection from chaos/evil/good/law* on himself once per da
 
 **Requirements** Craft Wondrous Item, creator must be 12th level; **Cost** 500 gp
 
-### Clear Spindle (Flawed) Ioun Stone
+**Flawed version**
 
 **Aura** strong varied; **CL** 12th
 
@@ -5466,22 +5490,6 @@ The wearer can cast *protection from chaos/evil/good/law* on himself once per da
 **Construction**
 
 **Requirements** Craft Wondrous Item, creator must be 12th level; **Cost** 1,000 gp
-
-### Clear Spindle (Normal) Ioun Stone
-
-**Aura** strong varied; **CL** 12th
-
-**Slot** none; **Price** 4,000 gp; **Weight** —
-
-Sustains creature without food or water.
-
-**Resonance**
-
-The wearer can cast *protection from chaos/evil/good/law* on himself once per day (CL 12th). He can activate this ability as an immediate action, but doing so drains the ioun stone of its magic, turning it into a dull gray ioun stone.
-
-**Construction**
-
-**Requirements** Craft Wondrous Item, creator must be 12th level; **Cost** 2,000 gp
 
 ### Cloak of Nightmares
 
@@ -5667,38 +5675,6 @@ If the animal is slain, it disappears and the heraldic image on the *crest of th
 
 **Requirements** Craft Wondrous Item, *deathwatch*, *summon nature’s ally II*; **Cost** 6,000 gp
 
-### Crimson Sphere (Cracked) Ioun Stone
-
-**Aura** moderate transmutation; **CL** 12th
-
-**Slot** none; **Price** 12,000 gp; **Weight** —
-
-Individually these have no effect; when used in pairs, each pair grants a +2 enhancement bonus to Intelligence. The bonuses from multiple* crimson spheres* (cracked or otherwise) stack, up to a maximum of a +6 enhancement bonus.
-
-**Resonance**
-
-+1 competence bonus on single Knowledge skill (chosen by the stone’s creator).
-
-**Construction**
-
-**Requirements** Craft Wondrous Item, *fox’s cunning*, creator must be 12th level; **Cost** 6,000 gp
-
-### Crimson Sphere (Flawed) Ioun Stone
-
-**Aura** moderate transmutation; **CL** 12th
-
-**Slot** none; **Price** 16,000 gp; **Weight** —
-
-This stone grants a +2 enhancement bonus to Intelligence per stone, stacking up to +4 total. These stones do not stack with non-flawed *crimson sphere ioun stones*.
-
-**Resonance**
-
-+1 competence bonus on single Knowledge skill (chosen by the stone’s creator).
-
-**Construction**
-
-**Requirements** Craft Wondrous Item, *fox’s cunning*, creator must be 12th level; **Cost** 8,000 gp
-
 ### Crimson Sphere Ioun Stone
 
 **Normal version**
@@ -5717,7 +5693,41 @@ This stone grants you a +2 enhancement bonus to Intelligence. The bonuses from m
 
 **Requirements** Craft Wondrous Item, *fox’s cunning*, creator must be 12th level; **Cost** 12,000 gp
 
-### Crimson Thorny (Cracked) Ioun Stone
+**Cracked version**
+
+**Aura** moderate transmutation; **CL** 12th
+
+**Slot** none; **Price** 12,000 gp; **Weight** —
+
+Individually these have no effect; when used in pairs, each pair grants a +2 enhancement bonus to Intelligence. The bonuses from multiple* crimson spheres* (cracked or otherwise) stack, up to a maximum of a +6 enhancement bonus.
+
+**Resonance**
+
++1 competence bonus on single Knowledge skill (chosen by the stone’s creator).
+
+**Construction**
+
+**Requirements** Craft Wondrous Item, *fox’s cunning*, creator must be 12th level; **Cost** 6,000 gp
+
+**Flawed version**
+
+**Aura** moderate transmutation; **CL** 12th
+
+**Slot** none; **Price** 16,000 gp; **Weight** —
+
+This stone grants a +2 enhancement bonus to Intelligence per stone, stacking up to +4 total. These stones do not stack with non-flawed *crimson sphere ioun stones*.
+
+**Resonance**
+
++1 competence bonus on single Knowledge skill (chosen by the stone’s creator).
+
+**Construction**
+
+**Requirements** Craft Wondrous Item, *fox’s cunning*, creator must be 12th level; **Cost** 8,000 gp
+
+### Crimson Thorny Ioun Stone
+
+**Cracked version**
 
 **Aura** strong varies; **CL** 12th
 
@@ -5733,7 +5743,7 @@ Grants the bearer the benefit of either the Acrobatic or the Athletic feat. The 
 
 **Requirements** Craft Wondrous Item, creator must be 12th level; **Cost** 1,600 gp
 
-### Crimson Thorny (Flawed) Ioun Stone
+**Flawed version**
 
 **Aura** strong varies; **CL** 12th
 
@@ -5841,7 +5851,25 @@ This scarf is crafted from fine, almost transparent silk of a deep red hue. When
 
 **Requirements** Craft Wondrous Item, *disguise self*,* eagle’s splendor*,* fox’s cunning*,* levitate*,* feather fall*; **Cost** 13,500 gp
 
-### Dark Blue Rhomboid (Cracked) Ioun Stone
+### Dark Blue Rhomboid Ioun Stone
+
+**Normal version**
+
+**Aura** strong varied; **CL** 12th
+
+**Slot** none; **Price** 10,000 gp; **Weight** —
+
+Alertness (as the feat).
+
+**Resonance**
+
+The wearer no longer takes penalties on Perception checks for being distracted or asleep; while asleep, the wearer can remain open-eyed and fully aware of his environment, though he is still helpless against undetected threats until he actually wakes up.
+
+**Construction**
+
+**Requirements** Craft Wondrous Item, creator must be 12th level; **Cost** 5,000 gp
+
+**Cracked version**
 
 **Aura** strong varied; **CL** 12th
 
@@ -5857,7 +5885,7 @@ The wearer no longer takes penalties on Perception checks for being distracted o
 
 **Requirements** Craft Wondrous Item, creator must be 12th level; **Cost** 200 gp
 
-### Dark Blue Rhomboid (Flawed) Ioun Stone
+**Flawed version**
 
 **Aura** strong varied; **CL** 12th
 
@@ -5872,22 +5900,6 @@ The wearer no longer takes penalties on Perception checks for being distracted o
 **Construction**
 
 **Requirements** Craft Wondrous Item, creator must be 12th level; **Cost** 150 gp
-
-### Dark Blue Rhomboid (Normal) Ioun Stone
-
-**Aura** strong varied; **CL** 12th
-
-**Slot** none; **Price** 10,000 gp; **Weight** —
-
-Alertness (as the feat).
-
-**Resonance**
-
-The wearer no longer takes penalties on Perception checks for being distracted or asleep; while asleep, the wearer can remain open-eyed and fully aware of his environment, though he is still helpless against undetected threats until he actually wakes up.
-
-**Construction**
-
-**Requirements** Craft Wondrous Item, creator must be 12th level; **Cost** 5,000 gp
 
 ### Daylight Diadem
 
@@ -5975,7 +5987,25 @@ This slim black leather bracer fits easily onto the wrist, growing tight against
 
 **Requirements** Craft Wondrous Item, *detect thoughts*; **Cost** 500 gp
 
-### Deep Red Sphere (Cracked) Ioun Stone
+### Deep Red Sphere Ioun Stone
+
+**Normal version**
+
+**Aura** strong varied; **CL** 12th
+
+**Slot** none; **Price** 8,000 gp; **Weight** —
+
++2 enhancement bonus to Dexterity.
+
+**Resonance**
+
+Improved Unarmed Strike.
+
+**Construction**
+
+**Requirements** Craft Wondrous Item, creator must be 12th level; **Cost** 4,000 gp
+
+**Cracked version**
 
 **Aura** strong varied; **CL** 12th
 
@@ -5991,7 +6021,7 @@ Improved Unarmed Strike.
 
 **Requirements** Craft Wondrous Item, creator must be 12th level; **Cost** 100 gp
 
-### Deep Red Sphere (Flawed) Ioun Stone
+**Flawed version**
 
 **Aura** strong varied; **CL** 12th
 
@@ -6006,22 +6036,6 @@ Improved Unarmed Strike.
 **Construction**
 
 **Requirements** Craft Wondrous Item, creator must be 12th level; **Cost** 3,000 gp
-
-### Deep Red Sphere (Normal) Ioun Stone
-
-**Aura** strong varied; **CL** 12th
-
-**Slot** none; **Price** 8,000 gp; **Weight** —
-
-+2 enhancement bonus to Dexterity.
-
-**Resonance**
-
-Improved Unarmed Strike.
-
-**Construction**
-
-**Requirements** Craft Wondrous Item, creator must be 12th level; **Cost** 4,000 gp
 
 ### Demon-Forged Nugget
 
@@ -6135,22 +6149,6 @@ This knee-length cape is decorated with images of butterflies, moths, and stars.
 
 **Requirements** Craft Wondrous Item, *cape of wasps*,* glitterdust*; **Cost** 8,750 gp
 
-### Dull Gray Stone (Normal) Ioun Stone
-
-**Aura** faint universal; **CL** 12th
-
-**Slot** none; **Price** 25 gp; **Weight** —
-
-These are *ioun stones* that have been burned out or otherwise rendered all but powerless. They retain the ability to float and orbit, and are useful as the target of spells such as *continual flame*,* daylight*, and* silence*, allowing you to keep your hands free. They may be any shape (cabochon, disk, ellipsoid, and so on).
-
-**Resonance**
-
-*Read magic* 1/day for 10 minutes.
-
-**Construction**
-
-**Requirements** Craft Wondrous Item, creator must be 12th level; **Cost** 12 gp, 5 sp
-
 ### Dull Gray Stone Ioun Stone
 
 **Cracked version**
@@ -6176,6 +6174,22 @@ This stone has no powers.
 **Slot** none; **Price** 25 gp; **Weight** —
 
 This stone has no powers.
+
+**Resonance**
+
+*Read magic* 1/day for 10 minutes.
+
+**Construction**
+
+**Requirements** Craft Wondrous Item, creator must be 12th level; **Cost** 12 gp, 5 sp
+
+**Normal version**
+
+**Aura** faint universal; **CL** 12th
+
+**Slot** none; **Price** 25 gp; **Weight** —
+
+These are *ioun stones* that have been burned out or otherwise rendered all but powerless. They retain the ability to float and orbit, and are useful as the target of spells such as *continual flame*,* daylight*, and* silence*, allowing you to keep your hands free. They may be any shape (cabochon, disk, ellipsoid, and so on).
 
 **Resonance**
 
@@ -6211,7 +6225,25 @@ While legends credit an ancient archmage of envy with creating *dust of envy*, f
 
 **Requirements** Craft Wondrous Item, *dispel magic*; **Cost** 450 gp, 36 XP
 
-### Dusty Rose Prism (Cracked) Ioun Stone
+### Dusty Rose Prism Ioun Stone
+
+**Normal version**
+
+**Aura** strong varied; **CL** 12th
+
+**Slot** none; **Price** 5,000 gp; **Weight** —
+
++1 insight bonus to AC.
+
+**Resonance**
+
++1 insight bonus on combat maneuver checks.
+
+**Construction**
+
+**Requirements** Craft Wondrous Item, creator must be 12th level; **Cost** 2,500 gp
+
+**Cracked version**
 
 **Aura** strong varied; **CL** 12th
 
@@ -6227,7 +6259,7 @@ This stone grants a +1 competence bonus on initiative checks.
 
 **Requirements** Craft Wondrous Item, creator must be 12th level; **Cost** 250 gp
 
-### Dusty Rose Prism (Flawed) Ioun Stone
+**Flawed version**
 
 **Aura** strong varied; **CL** 12th
 
@@ -6242,22 +6274,6 @@ This stone grants a +1 insight bonus to AC and a –2 penalty to Strength.
 **Construction**
 
 **Requirements** Craft Wondrous Item, creator must be 12th level; **Cost** 2,000 gp
-
-### Dusty Rose Prism (Normal) Ioun Stone
-
-**Aura** strong varied; **CL** 12th
-
-**Slot** none; **Price** 5,000 gp; **Weight** —
-
-+1 insight bonus to AC.
-
-**Resonance**
-
-+1 insight bonus on combat maneuver checks.
-
-**Construction**
-
-**Requirements** Craft Wondrous Item, creator must be 12th level; **Cost** 2,500 gp
 
 ### Effigy of the Burial God
 
@@ -6435,38 +6451,6 @@ This minty-smelling salve is commonly used by lust-goddess elves to render unsus
 
 **Requirements** Craft Wondrous Item, *touch of idiocy*; **Cost** 250 gp
 
-### Emerald Ellipsoid (Cracked) Ioun Stone
-
-**Aura** moderate necromancy; **CL** 12th
-
-**Slot** none; **Price** 2,000 gp; **Weight** —
-
-This stone grants 1 temporary hit point, which is restored automatically at a specific time of day unique to each stone (typically sunrise or sunset). The bonuses from multiple cracked *emerald ellipsoids* stack (limit 5 temporary hit points).
-
-**Resonance**
-
-5 additional temporary hit points.
-
-**Construction**
-
-**Requirements** Craft Wondrous Item, *false life*, creator must be 12th level; **Cost** 1,000 gp
-
-### Emerald Ellipsoid (Flawed) Ioun Stone
-
-**Aura** moderate necromancy; **CL** 12th
-
-**Slot** none; **Price** 10,000 gp; **Weight** —
-
-This stone grants the wearer 5 temporary hit points (stacking to 25 for multiple *emerald ellipsoids* of any kind), which are restored automatically at a specif ic time of day unique to each stone (typically sunrise or sunset). Each stone inf licts one negative level upon you (no known limit); these negative levels remain as long as the stone is in use, and disappear when it is no longer in use. These negative levels never result in actual level loss, but they cannot be overcome in any way while the stone is used.
-
-**Resonance**
-
-5 additional temporary hit points.
-
-**Construction**
-
-**Requirements** Craft Wondrous Item, *false life*, creator must be 12th level; **Cost** 5,000 gp
-
 ### Emerald Ellipsoid Ioun Stone
 
 **Normal version**
@@ -6484,6 +6468,38 @@ This stone grants you 5 temporary hit points, which are restored automatically a
 **Construction**
 
 **Requirements** Craft Wondrous Item, *false life*, creator must be 12th level; **Cost** 10,000 gp
+
+**Cracked version**
+
+**Aura** moderate necromancy; **CL** 12th
+
+**Slot** none; **Price** 2,000 gp; **Weight** —
+
+This stone grants 1 temporary hit point, which is restored automatically at a specific time of day unique to each stone (typically sunrise or sunset). The bonuses from multiple cracked *emerald ellipsoids* stack (limit 5 temporary hit points).
+
+**Resonance**
+
+5 additional temporary hit points.
+
+**Construction**
+
+**Requirements** Craft Wondrous Item, *false life*, creator must be 12th level; **Cost** 1,000 gp
+
+**Flawed version**
+
+**Aura** moderate necromancy; **CL** 12th
+
+**Slot** none; **Price** 10,000 gp; **Weight** —
+
+This stone grants the wearer 5 temporary hit points (stacking to 25 for multiple *emerald ellipsoids* of any kind), which are restored automatically at a specif ic time of day unique to each stone (typically sunrise or sunset). Each stone inf licts one negative level upon you (no known limit); these negative levels remain as long as the stone is in use, and disappear when it is no longer in use. These negative levels never result in actual level loss, but they cannot be overcome in any way while the stone is used.
+
+**Resonance**
+
+5 additional temporary hit points.
+
+**Construction**
+
+**Requirements** Craft Wondrous Item, *false life*, creator must be 12th level; **Cost** 5,000 gp
 
 ### Emerald Wedge Ioun Stone
 
@@ -7164,7 +7180,25 @@ These simple goggles, made of two emeralds attached to a twin frame, grant the w
 
 **Requirements** Craft Wondrous Item, *beast shape II*,* guidance*; **Cost** 4,250 gp
 
-### Gold Nodule (Cracked) Ioun Stone
+### Gold Nodule Ioun Stone
+
+**Normal version**
+
+**Aura** strong divination; **CL** 12th
+
+**Slot** none; **Price** 5,000 gp; **Weight** —
+
+This stone grants you the ability to comprehend, speak, read, and write a single language (chosen by the *ioun stone*’s creator).
+
+**Resonance**
+
++1 bonus on saves against languagedependent effects.
+
+**Construction**
+
+**Requirements** Craft Wondrous Item, *tongues*, creator must be 12th level; **Cost** 2,500 gp
+
+**Cracked version**
 
 **Aura** strong divination; **CL** 12th
 
@@ -7180,7 +7214,7 @@ This stone grants a +1 competence bonus on Linguistics checks.
 
 **Requirements** Craft Wondrous Item, *tongues*, creator must be 12th level; **Cost** 75 gp
 
-### Gold Nodule (Flawed) Ioun Stone
+**Flawed version**
 
 **Aura** strong divination; **CL** 12th
 
@@ -7195,22 +7229,6 @@ This stone grants you the ability to comprehend and read, but not speak or write
 **Construction**
 
 **Requirements** Craft Wondrous Item, *tongues*, creator must be 12th level; **Cost** 500 gp
-
-### Gold Nodule (Normal) Ioun Stone
-
-**Aura** strong divination; **CL** 12th
-
-**Slot** none; **Price** 5,000 gp; **Weight** —
-
-This stone grants you the ability to comprehend, speak, read, and write a single language (chosen by the *ioun stone*’s creator).
-
-**Resonance**
-
-+1 bonus on saves against languagedependent effects.
-
-**Construction**
-
-**Requirements** Craft Wondrous Item, *tongues*, creator must be 12th level; **Cost** 2,500 gp
 
 ### Golden Carriage of a Wandering Showman
 
@@ -7794,7 +7812,25 @@ Lastly, an *impossible bottle* can be used to repair an unattuned ship. As long 
 
 **Requirements** Craft Wondrous Item, *make whole*,* shield other*,* shrink item*, creator must have 5 ranks in the Craft (ships) skill; **Cost** 10,000 gp
 
-### Incandescent Blue Sphere (Cracked) Ioun Stone
+### Incandescent Blue Sphere Ioun Stone
+
+**Normal version**
+
+**Aura** strong varied; **CL** 12th
+
+**Slot** none; **Price** 8,000 gp; **Weight** —
+
++2 enhancement bonus to Wisdom.
+
+**Resonance**
+
+Blind-Fight.
+
+**Construction**
+
+**Requirements** Craft Wondrous Item, creator must be 12th level; **Cost** 4,000 gp
+
+**Cracked version**
 
 **Aura** strong varied; **CL** 12th
 
@@ -7810,7 +7846,7 @@ Blind-Fight.
 
 **Requirements** Craft Wondrous Item, creator must be 12th level; **Cost** 100 gp
 
-### Incandescent Blue Sphere (Flawed) Ioun Stone
+**Flawed version**
 
 **Aura** strong varied; **CL** 12th
 
@@ -7825,22 +7861,6 @@ Blind-Fight.
 **Construction**
 
 **Requirements** Craft Wondrous Item, creator must be 12th level; **Cost** 3,600 gp
-
-### Incandescent Blue Sphere (Normal) Ioun Stone
-
-**Aura** strong varied; **CL** 12th
-
-**Slot** none; **Price** 8,000 gp; **Weight** —
-
-+2 enhancement bonus to Wisdom.
-
-**Resonance**
-
-Blind-Fight.
-
-**Construction**
-
-**Requirements** Craft Wondrous Item, creator must be 12th level; **Cost** 4,000 gp
 
 ### Infernal Crux
 
@@ -7949,7 +7969,25 @@ The skills, languages, and alignment are chosen when the node is created. The no
 
 **Requirements** Craft Wondrous Item, *awaken construct*; **Cost** 3,000 gp (Type I), 7,000 gp (Type II), 12,000 gp (Type III), 18,000 gp (Type IV)
 
-### Iridescent Spindle (Cracked) Ioun Stone
+### Iridescent Spindle Ioun Stone
+
+**Normal version**
+
+**Aura** strong varied; **CL** 12th
+
+**Slot** none; **Price** 18,000 gp; **Weight** —
+
+Sustains creature without air.
+
+**Resonance**
+
+The wearer gains the constant effects of *endure elements* and takes only half damage from exposure to vacuum and underwater pressure.
+
+**Construction**
+
+**Requirements** Craft Wondrous Item, creator must be 12th level; **Cost** 9,000 gp
+
+**Cracked version**
 
 **Aura** strong varied; **CL** 12th
 
@@ -7965,7 +8003,7 @@ The wearer gains the constant effects of *endure elements* and takes only half d
 
 **Requirements** Craft Wondrous Item, creator must be 12th level; **Cost** 250 gp
 
-### Iridescent Spindle (Flawed) Ioun Stone
+**Flawed version**
 
 **Aura** strong varied; **CL** 12th
 
@@ -7980,22 +8018,6 @@ The wearer gains the constant effects of *endure elements* and takes only half d
 **Construction**
 
 **Requirements** Craft Wondrous Item, creator must be 12th level; **Cost** 6,000 gp
-
-### Iridescent Spindle (Normal) Ioun Stone
-
-**Aura** strong varied; **CL** 12th
-
-**Slot** none; **Price** 18,000 gp; **Weight** —
-
-Sustains creature without air.
-
-**Resonance**
-
-The wearer gains the constant effects of *endure elements* and takes only half damage from exposure to vacuum and underwater pressure.
-
-**Construction**
-
-**Requirements** Craft Wondrous Item, creator must be 12th level; **Cost** 9,000 gp
 
 ### Iron Band of Iron Mind
 
@@ -8172,7 +8194,25 @@ This coin-sized black disk is engraved with a spiral on one side and a whippoorw
 
 **Requirements** Craft Wondrous Item, *cure light wounds*; **Cost** 75 gp
 
-### Lavender and Green Ellipsoid (Cracked) Ioun Stone
+### Lavender and Green Ellipsoid Ioun Stone
+
+**Normal version**
+
+**Aura** strong varied; **CL** 12th
+
+**Slot** none; **Price** 40,000 gp; **Weight** —
+
+Absorbs spells of 8th level or lower. After absorbing 50 spell levels, the stone burns out and turns dull gray, forever useless.
+
+**Resonance**
+
+If the bearer is holding the *wayfinder*, he can use the stone’s absorption ability as an immediate action instead of a readied action.
+
+**Construction**
+
+**Requirements** Craft Wondrous Item, creator must be 12th level; **Cost** 20,000 gp
+
+**Cracked version**
 
 **Aura** strong varied; **CL** 12th
 
@@ -8188,7 +8228,7 @@ If the bearer is holding the *wayfinder*, he can use the stone’s absorption ab
 
 **Requirements** Craft Wondrous Item, creator must be 12th level; **Cost** 5,000 gp
 
-### Lavender and Green Ellipsoid (Flawed) Ioun Stone
+**Flawed version**
 
 **Aura** strong varied; **CL** 12th
 
@@ -8203,22 +8243,6 @@ If the bearer is holding the *wayfinder*, he can use the stone’s absorption ab
 **Construction**
 
 **Requirements** Craft Wondrous Item, creator must be 12th level; **Cost** 18,000 gp
-
-### Lavender and Green Ellipsoid (Normal) Ioun Stone
-
-**Aura** strong varied; **CL** 12th
-
-**Slot** none; **Price** 40,000 gp; **Weight** —
-
-Absorbs spells of 8th level or lower. After absorbing 50 spell levels, the stone burns out and turns dull gray, forever useless.
-
-**Resonance**
-
-If the bearer is holding the *wayfinder*, he can use the stone’s absorption ability as an immediate action instead of a readied action.
-
-**Construction**
-
-**Requirements** Craft Wondrous Item, creator must be 12th level; **Cost** 20,000 gp
 
 ### Lidless Charm Bracelet
 
@@ -8284,7 +8308,9 @@ This animal-skin cloak comes in eight varieties (one for each kind of skinwalker
 
 **Requirements** Craft Wondrous Item, *beast shape I*,* speak with animals*, creator must be a skinwalker; **Cost** 12,000 gp (boar, rat, wolf), 20,000 gp (brown bear, bat, crocodile, shark, tiger)
 
-### Magenta Prism (Cracked) Ioun Stone
+### Magenta Prism Ioun Stone
+
+**Cracked version**
 
 **Aura** strong transmutation; **CL** 12th
 
@@ -8300,7 +8326,7 @@ This stone grants you a +2 competence bonus on checks with any one skill you cho
 
 **Requirements** Craft Wondrous Item, *bear’s endurance*,* bull’s strength*,* cat’s grace*,* eagle’s splendor*,* fox’s cunning*,* owl’s wisdom*, creator must be 12th level; **Cost** 400 gp
 
-### Magenta Prism (Flawed) Ioun Stone
+**Flawed version**
 
 **Aura** strong transmutation; **CL** 12th
 
@@ -8522,7 +8548,17 @@ A *mortuary mask* covers the top half of the face, leavrng the mouth and chin ex
 
 **Requirements** Craft Wondrous Item, *cause fear, deathwatch*; **Cost** 1,750 gp
 
-### Mossy Disk (Cracked) Ioun Stone
+### Mossy Disk Ioun Stone
+
+**Normal version**
+
+**Aura** strong divination and evocation; **CL** 12th
+
+**Slot** none; **Price** 5,000 gp; **Weight** —
+
+This stone grants you a +5 competence bonus on checks with one Knowledge skill (chosen by the stone’s creator).
+
+**Cracked version**
 
 **Aura** strong divination and evocation; **CL**
 
@@ -8538,7 +8574,7 @@ This stone grants a +1 competence bonus on Appraise checks.
 
 **Requirements** Craft Wondrous Item, *fox’s cunning*, creator must be 12th level; **Cost** 100 gp
 
-### Mossy Disk (Flawed) Ioun Stone
+**Flawed version**
 
 **Aura** strong divination and evocation; **CL**
 
@@ -8553,30 +8589,6 @@ This stone grants a +1 competence bonus on Appraise checks.
 **Construction**
 
 **Requirements** Craft Wondrous Item, *fox’s cunning*, creator must be 12th level; **Cost** 800 gp
-
-### Mossy Disk (Normal) Ioun Stone
-
-**Aura** strong divination and evocation; **CL** 12th
-
-**Slot** none; **Price** 5,000 gp; **Weight** —
-
-This stone grants you a +5 competence bonus on checks with one Knowledge skill (chosen by the stone’s creator).
-
-**Resonance**
-
-This stone grants a +1 competence bonus on Appraise checks.
-
-**Construction**
-
-**Requirements** Craft Wondrous Item, *fox’s cunning*, creator must be 12th level; **Cost** 2,500 gp
-
-### Mossy Disk Ioun Stone
-
-**Aura** strong divination and evocation; **CL** 12th
-
-**Slot** none; **Price** 5,000 gp; **Weight** —
-
-This stone grants you a +5 competence bonus on checks with one Knowledge skill (chosen by the stone’s creator).
 
 ### Mouthpiece of the Dominion
 
@@ -8714,7 +8726,9 @@ The possessor of a *mythopoeic sphinx* can also use the figurine to call a gynos
 
 **Requirements** Craft Wondrous Item, *legend lore*,* planar ally*; **Cost** 7,250 gp
 
-### Nacreous Gray Sphere
+### Nacreous Gray Sphere Ioun Stone
+
+**Normal version**
 
 **Aura** moderate abjuration; **CL** 12th
 
@@ -8730,7 +8744,7 @@ Miss chance against incorporeal creatures decreases to 25%.
 
 **Requirements** Craft Wondrous Item, *bear’s endurance*, creator must be 12th level; **Cost** 5,000 gp
 
-### Nacreous Gray Sphere (Cracked) Ioun Stone
+**Cracked version**
 
 **Aura** moderate abjuration; **CL** 12th
 
@@ -8746,7 +8760,7 @@ Miss chance against incorporeal creatures decreases to 25%.
 
 **Requirements** Craft Wondrous Item, *bear’s endurance*, creator must be 12th level; **Cost** 1,700 gp
 
-### Nacreous Gray Sphere (Flawed) Ioun Stone
+**Flawed version**
 
 **Aura** moderate abjuration; **CL** 12th
 
@@ -8916,38 +8930,6 @@ This elixir is generally stored in a palm-sized crystal jar. When applied under 
 
 **Requirements** Craft Wondrous Item, *true seeing*, creator must be an northern; **Cost** 1,000 gp
 
-### Onyx Rhomboid (Cracked) Ioun Stone
-
-**Aura** moderate transmutation; **CL** 12th
-
-**Slot** none; **Price** 12,000 gp; **Weight** —
-
-Individually has no effect; when used in pairs, each pair grants a +2 enhancement bonus to Constitution. The bonuses from multiple stones (cracked or otherwise) stack, up to a maximum of a +6 bonus.
-
-**Resonance**
-
-*Virtue* at will (self only).
-
-**Construction**
-
-**Requirements** Craft Wondrous Item, *bear’s endurance*, creator must be 12th level; **Cost** 6,000 gp
-
-### Onyx Rhomboid (Flawed) Ioun Stone
-
-**Aura** moderate transmutation; **CL** 12th
-
-**Slot** none; **Price** 16,000 gp; **Weight** —
-
-This stone grants a +2 enhancement bonus to Constitution per stone, stacking up to +4 total. These stones do not stack with non-f lawed *onyx rhomboid ioun stones*.
-
-**Resonance**
-
-*Virtue* at will (self only).
-
-**Construction**
-
-**Requirements** Craft Wondrous Item, *bear’s endurance*, creator must be 12th level; **Cost** 8,000 gp
-
 ### Onyx Rhomboid Ioun Stone
 
 **Normal version**
@@ -8965,6 +8947,38 @@ This stone grants you a +2 enhancement bonus to Constitution. The enhancement bo
 **Construction**
 
 **Requirements** Craft Wondrous Item, *bear’s endurance*, creator must be 12th level; **Cost** 12,000 gp
+
+**Cracked version**
+
+**Aura** moderate transmutation; **CL** 12th
+
+**Slot** none; **Price** 12,000 gp; **Weight** —
+
+Individually has no effect; when used in pairs, each pair grants a +2 enhancement bonus to Constitution. The bonuses from multiple stones (cracked or otherwise) stack, up to a maximum of a +6 bonus.
+
+**Resonance**
+
+*Virtue* at will (self only).
+
+**Construction**
+
+**Requirements** Craft Wondrous Item, *bear’s endurance*, creator must be 12th level; **Cost** 6,000 gp
+
+**Flawed version**
+
+**Aura** moderate transmutation; **CL** 12th
+
+**Slot** none; **Price** 16,000 gp; **Weight** —
+
+This stone grants a +2 enhancement bonus to Constitution per stone, stacking up to +4 total. These stones do not stack with non-f lawed *onyx rhomboid ioun stones*.
+
+**Resonance**
+
+*Virtue* at will (self only).
+
+**Construction**
+
+**Requirements** Craft Wondrous Item, *bear’s endurance*, creator must be 12th level; **Cost** 8,000 gp
 
 ### Oozeclot Unguent
 
@@ -9032,39 +9046,9 @@ Weapon Focus with the stone’s keyed weapon.
 
 **Requirements** Craft Wondrous Item, *transformation* or proficiency in the appropriate weapon, creator must be 12th level; **Cost** 1,500 gp
 
-### Orange Prism (Cracked) Ioun Stone
+### Orange Prism Ioun Stone
 
-**Aura** strong varied; **CL** 12th
-
-**Slot** none; **Price** 1,000 gp; **Weight** —
-
-Wearer adds one cantrip or orison (determined when the stone is created) to his list of spells known or spells prepared.
-
-**Resonance**
-
-Every time the bearer casts a spell, he rolls 1d4–2 and adds the result (as well as the +1 caster level granted by the normal power of the ioun stone) to his caster level.
-
-**Construction**
-
-**Requirements** Craft Wondrous Item, creator must be 12th level; **Cost** 500 gp
-
-### Orange Prism (Flawed) Ioun Stone
-
-**Aura** strong varied; **CL** 12th
-
-**Slot** none; **Price** 25,000 gp; **Weight** —
-
-This stone grants a +1 caster level and a –2 penalty to the wearer’s primary casting ability score (Wisdom for clerics, Intelligence for wizards, and so on).
-
-**Resonance**
-
-Every time the bearer casts a spell, he rolls 1d4–2 and adds the result (as well as the +1 caster level granted by the normal power of the ioun stone) to his caster level.
-
-**Construction**
-
-**Requirements** Craft Wondrous Item, creator must be 12th level; **Cost** 12,500 gp
-
-### Orange Prism (Normal) Ioun Stone
+**Normal version**
 
 **Aura** strong varied; **CL** 12th
 
@@ -9080,7 +9064,41 @@ Every time the bearer casts a spell, he rolls 1d4–2 and adds the result (as we
 
 **Requirements** Craft Wondrous Item, creator must be 12th level; **Cost** 15,000 gp
 
-### Orange Thorny (Cracked) Ioun Stone
+**Cracked version**
+
+**Aura** strong varied; **CL** 12th
+
+**Slot** none; **Price** 1,000 gp; **Weight** —
+
+Wearer adds one cantrip or orison (determined when the stone is created) to his list of spells known or spells prepared.
+
+**Resonance**
+
+Every time the bearer casts a spell, he rolls 1d4–2 and adds the result (as well as the +1 caster level granted by the normal power of the ioun stone) to his caster level.
+
+**Construction**
+
+**Requirements** Craft Wondrous Item, creator must be 12th level; **Cost** 500 gp
+
+**Flawed version**
+
+**Aura** strong varied; **CL** 12th
+
+**Slot** none; **Price** 25,000 gp; **Weight** —
+
+This stone grants a +1 caster level and a –2 penalty to the wearer’s primary casting ability score (Wisdom for clerics, Intelligence for wizards, and so on).
+
+**Resonance**
+
+Every time the bearer casts a spell, he rolls 1d4–2 and adds the result (as well as the +1 caster level granted by the normal power of the ioun stone) to his caster level.
+
+**Construction**
+
+**Requirements** Craft Wondrous Item, creator must be 12th level; **Cost** 12,500 gp
+
+### Orange Thorny Ioun Stone
+
+**Cracked version**
 
 **Aura** strong varies; **CL** 12th
 
@@ -9096,7 +9114,7 @@ Grants the bearer the benefit of either the Acrobatic or the Athletic feat. The 
 
 **Requirements** Craft Wondrous Item, creator must be 12th level; **Cost** 1,600 gp
 
-### Orange Thorny (Flawed) Ioun Stone
+**Flawed version**
 
 **Aura** strong varies; **CL** 12th
 
@@ -9124,39 +9142,9 @@ This perfect lotus flower formed from pink jade offers purity of mind and spirit
 
 **Requirements** Craft Wondrous Item, *calm emotions*, *remove fear*; **Cost** 4,000 gp
 
-### Pale Blue Rhomboid (Cracked) Ioun Stone
+### Pale Blue Rhomboid Ioun Stone
 
-**Aura** strong varied; **CL** 12th
-
-**Slot** none; **Price** 200 gp; **Weight** —
-
-This stone grants a +1 competence bonus on one Strength-based skill.
-
-**Resonance**
-
-+1 bonus on Fortitude saves.
-
-**Construction**
-
-**Requirements** Craft Wondrous Item, creator must be 12th level; **Cost** 100 gp
-
-### Pale Blue Rhomboid (Flawed) Ioun Stone
-
-**Aura** strong varied; **CL** 12th
-
-**Slot** none; **Price** 6,000 gp; **Weight** —
-
-This stone grants a +2 enhancement bonus to Strength and a –2 penalty to Constitution.
-
-**Resonance**
-
-+1 bonus on Fortitude saves.
-
-**Construction**
-
-**Requirements** Craft Wondrous Item, creator must be 12th level; **Cost** 3,000 gp
-
-### Pale Blue Rhomboid (Normal) Ioun Stone
+**Normal version**
 
 **Aura** strong varied; **CL** 12th
 
@@ -9172,39 +9160,41 @@ This stone grants a +2 enhancement bonus to Strength and a –2 penalty to Const
 
 **Requirements** Craft Wondrous Item, creator must be 12th level; **Cost** 4,000 gp
 
-### Pale Green Prism (Cracked) Ioun Stone
+**Cracked version**
 
 **Aura** strong varied; **CL** 12th
 
-**Slot** none; **Price** 4,000 gp; **Weight** —
+**Slot** none; **Price** 200 gp; **Weight** —
 
-This stone grants a +1 competence bonus on attack rolls or saving throws.
+This stone grants a +1 competence bonus on one Strength-based skill.
 
 **Resonance**
 
-Twice per day as a free action, the bearer can remove the fatigued condition from himself (or reduce the exhausted condition to fatigued).
++1 bonus on Fortitude saves.
 
 **Construction**
 
-**Requirements** Craft Wondrous Item, creator must be 12th level; **Cost** 2,000 gp
+**Requirements** Craft Wondrous Item, creator must be 12th level; **Cost** 100 gp
 
-### Pale Green Prism (Flawed) Ioun Stone
+**Flawed version**
 
 **Aura** strong varied; **CL** 12th
 
-**Slot** none; **Price** 28,000 gp; **Weight** —
+**Slot** none; **Price** 6,000 gp; **Weight** —
 
-This stone grants a +1 morale bonus on attack rolls, saves, skill checks, and ability checks.
+This stone grants a +2 enhancement bonus to Strength and a –2 penalty to Constitution.
 
 **Resonance**
 
-Twice per day as a free action, the bearer can remove the fatigued condition from himself (or reduce the exhausted condition to fatigued).
++1 bonus on Fortitude saves.
 
 **Construction**
 
-**Requirements** Craft Wondrous Item, creator must be 12th level; **Cost** 14,000 gp
+**Requirements** Craft Wondrous Item, creator must be 12th level; **Cost** 3,000 gp
 
-### Pale Green Prism (Normal) Ioun Stone
+### Pale Green Prism Ioun Stone
+
+**Normal version**
 
 **Aura** strong varied; **CL** 12th
 
@@ -9220,39 +9210,41 @@ Twice per day as a free action, the bearer can remove the fatigued condition fro
 
 **Requirements** Craft Wondrous Item, creator must be 12th level; **Cost** 15,000 gp
 
-### Pale Lavender Ellipsoid (Cracked) Ioun Stone
+**Cracked version**
 
 **Aura** strong varied; **CL** 12th
 
-**Slot** none; **Price** 2,500 gp; **Weight** —
+**Slot** none; **Price** 4,000 gp; **Weight** —
 
-This stone absorbs spells of 1st level or lower. After absorbing 5 spell levels, the stone burns out and turns dull gray.
+This stone grants a +1 competence bonus on attack rolls or saving throws.
 
 **Resonance**
 
-If the bearer is holding the *wayfinder*, he can use the stone’s absorption ability as an immediate action instead of a readied action.
+Twice per day as a free action, the bearer can remove the fatigued condition from himself (or reduce the exhausted condition to fatigued).
 
 **Construction**
 
-**Requirements** Craft Wondrous Item, creator must be 12th level; **Cost** 1,250 gp
+**Requirements** Craft Wondrous Item, creator must be 12th level; **Cost** 2,000 gp
 
-### Pale Lavender Ellipsoid (Flawed) Ioun Stone
+**Flawed version**
 
 **Aura** strong varied; **CL** 12th
 
-**Slot** none; **Price** 18,000 gp; **Weight** —
+**Slot** none; **Price** 28,000 gp; **Weight** —
 
-This stone absorbs spells of 3rd level or lower, which deals 2 hit points of damage to the user for each spell level absorbed. After absorbing 20 spell levels, the stone burns out and turns dull gray.
+This stone grants a +1 morale bonus on attack rolls, saves, skill checks, and ability checks.
 
 **Resonance**
 
-If the bearer is holding the *wayfinder*, he can use the stone’s absorption ability as an immediate action instead of a readied action.
+Twice per day as a free action, the bearer can remove the fatigued condition from himself (or reduce the exhausted condition to fatigued).
 
 **Construction**
 
-**Requirements** Craft Wondrous Item, creator must be 12th level; **Cost** 9,000 gp
+**Requirements** Craft Wondrous Item, creator must be 12th level; **Cost** 14,000 gp
 
-### Pale Lavender Ellipsoid (Normal) Ioun Stone
+### Pale Lavender Ellipsoid Ioun Stone
+
+**Normal version**
 
 **Aura** strong varied; **CL** 12th
 
@@ -9268,7 +9260,41 @@ If the bearer is holding the *wayfinder*, he can use the stone’s absorption ab
 
 **Requirements** Craft Wondrous Item, creator must be 12th level; **Cost** 10,000 gp
 
-### Pale Orange Rhomboid (Cracked) Ioun Stone
+**Cracked version**
+
+**Aura** strong varied; **CL** 12th
+
+**Slot** none; **Price** 2,500 gp; **Weight** —
+
+This stone absorbs spells of 1st level or lower. After absorbing 5 spell levels, the stone burns out and turns dull gray.
+
+**Resonance**
+
+If the bearer is holding the *wayfinder*, he can use the stone’s absorption ability as an immediate action instead of a readied action.
+
+**Construction**
+
+**Requirements** Craft Wondrous Item, creator must be 12th level; **Cost** 1,250 gp
+
+**Flawed version**
+
+**Aura** strong varied; **CL** 12th
+
+**Slot** none; **Price** 18,000 gp; **Weight** —
+
+This stone absorbs spells of 3rd level or lower, which deals 2 hit points of damage to the user for each spell level absorbed. After absorbing 20 spell levels, the stone burns out and turns dull gray.
+
+**Resonance**
+
+If the bearer is holding the *wayfinder*, he can use the stone’s absorption ability as an immediate action instead of a readied action.
+
+**Construction**
+
+**Requirements** Craft Wondrous Item, creator must be 12th level; **Cost** 9,000 gp
+
+### Pale Orange Rhomboid Ioun Stone
+
+**Cracked version**
 
 **Aura** strong necromancy; **CL** 12th
 
@@ -9284,7 +9310,7 @@ A soul held within the stone can remain there indefinitely as long as the *wayfi
 
 **Requirements** Craft Wondrous Item, *magic jar*, creator must be 12th level; **Cost** 900 gp
 
-### Pale Orange Rhomboid (Flawed) Ioun Stone
+**Flawed version**
 
 **Aura** strong necromancy; **CL** 12th
 
@@ -9390,7 +9416,17 @@ These spectacles fit firmly over eyes and are held in place by two crystalline s
 
 **Requirements** Craft Wondrous Item, *minor globe of invulnerability*; **Cost** 375 gp
 
-### Pearlescent Pyramid (Cracked) Ioun Stone
+### Pearlescent Pyramid Ioun Stone
+
+**Normal version**
+
+**Aura** strong conjuration; **CL** 12th
+
+**Slot** none; **Price** 48,000 gp; **Weight** —
+
+This *ioun stone* resembles a small, pearl-white tetrahedron. This stone grants the *ghost touch* special ability to the user’s unarmed strikes and to melee weapons she wields. The user can also focus her gaze as a standard action and gain the benefits of *see invisibility* for 1 round. If the user is incorporeal, corporeal melee weapons she touches gain the *ghost touch* special ability, allowing her to pick up and use corporeal melee weapons as normal.
+
+**Cracked version**
 
 **Aura** strong conjuration; **CL**
 
@@ -9406,7 +9442,7 @@ This stone grants the *ghost touch* special ability to normal or masterwork ligh
 
 **Requirements** Craft Wondrous Item, creator must be 12th level; **Cost** 16,000 gp
 
-### Pearlescent Pyramid (Flawed) Ioun Stone
+**Flawed version**
 
 **Aura** strong conjuration; **CL**
 
@@ -9422,15 +9458,25 @@ This stone grants the *ghost touch* special ability to normal or masterwork ligh
 
 **Requirements** Craft Wondrous Item, creator must be 12th level; **Cost** 22,500 gp
 
-### Pearlescent Pyramid Ioun Stone
+### Pearly White Spindle Ioun Stone
 
-**Aura** strong conjuration; **CL** 12th
+**Normal version**
 
-**Slot** none; **Price** 48,000 gp; **Weight** —
+**Aura** strong varied; **CL** 12th
 
-This *ioun stone* resembles a small, pearl-white tetrahedron. This stone grants the *ghost touch* special ability to the user’s unarmed strikes and to melee weapons she wields. The user can also focus her gaze as a standard action and gain the benefits of *see invisibility* for 1 round. If the user is incorporeal, corporeal melee weapons she touches gain the *ghost touch* special ability, allowing her to pick up and use corporeal melee weapons as normal.
+**Slot** none; **Price** 20,000 gp; **Weight** —
 
-### Pearly White Spindle (Cracked) Ioun Stone
+Regenerate 1 point of damage per 10 minutes.
+
+**Resonance**
+
++2 sacred bonus on saves against death effects and attacks that rely on negative energy.
+
+**Construction**
+
+**Requirements** Craft Wondrous Item, creator must be 12th level; **Cost** 10,000 gp
+
+**Cracked version**
 
 **Aura** strong varied; **CL** 12th
 
@@ -9446,7 +9492,7 @@ Regenerate 1 point of damage per hour.
 
 **Requirements** Craft Wondrous Item, creator must be 12th level; **Cost** 1,700 gp
 
-### Pearly White Spindle (Flawed) Ioun Stone
+**Flawed version**
 
 **Aura** strong varied; **CL** 12th
 
@@ -9461,22 +9507,6 @@ The user regenerates 4 points of damage per hour.
 **Construction**
 
 **Requirements** Craft Wondrous Item, creator must be 12th level; **Cost** 9,000 gp
-
-### Pearly White Spindle (Normal) Ioun Stone
-
-**Aura** strong varied; **CL** 12th
-
-**Slot** none; **Price** 20,000 gp; **Weight** —
-
-Regenerate 1 point of damage per 10 minutes.
-
-**Resonance**
-
-+2 sacred bonus on saves against death effects and attacks that rely on negative energy.
-
-**Construction**
-
-**Requirements** Craft Wondrous Item, creator must be 12th level; **Cost** 10,000 gp
 
 ### Pendant of the Souk
 
@@ -9556,39 +9586,9 @@ An undead wearing this golden mask is treated as both an undead and a creature o
 
 **Requirements** Craft Wondrous Item, *polymorph*,* sanctify corpse*; **Cost** 4,500 gp
 
-### Pink and Green Sphere (Cracked) Ioun Stone
+### Pink and Green Sphere Ioun Stone
 
-**Aura** strong varied; **CL** 12th
-
-**Slot** none; **Price** 200 gp; **Weight** —
-
-This stone grants a +1 bonus on one Charisma-based skill.
-
-**Resonance**
-
-+1 bonus on Will saves.
-
-**Construction**
-
-**Requirements** Craft Wondrous Item, creator must be 12th level; **Cost** 100 gp
-
-### Pink and Green Sphere (Flawed) Ioun Stone
-
-**Aura** strong varied; **CL** 12th
-
-**Slot** none; **Price** 6,000 gp; **Weight** —
-
-This stone grants a +2 enhancement bonus to Charisma and a –2 penalty to Constitution.
-
-**Resonance**
-
-+1 bonus on Will saves.
-
-**Construction**
-
-**Requirements** Craft Wondrous Item, creator must be 12th level; **Cost** 3,000 gp
-
-### Pink and Green Sphere (Normal) Ioun Stone
+**Normal version**
 
 **Aura** strong varied; **CL** 12th
 
@@ -9604,7 +9604,57 @@ This stone grants a +2 enhancement bonus to Charisma and a –2 penalty to Const
 
 **Requirements** Craft Wondrous Item, creator must be 12th level; **Cost** 4,000 gp
 
-### Pink Rhomboid (Cracked) Ioun Stone
+**Cracked version**
+
+**Aura** strong varied; **CL** 12th
+
+**Slot** none; **Price** 200 gp; **Weight** —
+
+This stone grants a +1 bonus on one Charisma-based skill.
+
+**Resonance**
+
++1 bonus on Will saves.
+
+**Construction**
+
+**Requirements** Craft Wondrous Item, creator must be 12th level; **Cost** 100 gp
+
+**Flawed version**
+
+**Aura** strong varied; **CL** 12th
+
+**Slot** none; **Price** 6,000 gp; **Weight** —
+
+This stone grants a +2 enhancement bonus to Charisma and a –2 penalty to Constitution.
+
+**Resonance**
+
++1 bonus on Will saves.
+
+**Construction**
+
+**Requirements** Craft Wondrous Item, creator must be 12th level; **Cost** 3,000 gp
+
+### Pink Rhomboid Ioun Stone
+
+**Normal version**
+
+**Aura** strong varied; **CL** 12th
+
+**Slot** none; **Price** 8,000 gp; **Weight** —
+
++2 enhancement bonus to Constitution.
+
+**Resonance**
+
++1 bonus on Reflex saves.
+
+**Construction**
+
+**Requirements** Craft Wondrous Item, creator must be 12th level; **Cost** 4,000 gp
+
+**Cracked version**
 
 **Aura** strong varied; **CL** 12th
 
@@ -9620,7 +9670,7 @@ This stone grants a +4 competence bonus on one type of check affected by the End
 
 **Requirements** Craft Wondrous Item, creator must be 12th level; **Cost** 700 gp
 
-### Pink Rhomboid (Flawed) Ioun Stone
+**Flawed version**
 
 **Aura** strong varied; **CL** 12th
 
@@ -9635,22 +9685,6 @@ This stone grants a +2 enhancement bonus to Constitution and –2 penalty to Dex
 **Construction**
 
 **Requirements** Craft Wondrous Item, creator must be 12th level; **Cost** 3,000 gp
-
-### Pink Rhomboid (Normal) Ioun Stone
-
-**Aura** strong varied; **CL** 12th
-
-**Slot** none; **Price** 8,000 gp; **Weight** —
-
-+2 enhancement bonus to Constitution.
-
-**Resonance**
-
-+1 bonus on Reflex saves.
-
-**Construction**
-
-**Requirements** Craft Wondrous Item, creator must be 12th level; **Cost** 4,000 gp
 
 ### Pirate Ensign
 
@@ -10152,39 +10186,9 @@ If the wearer rightfully owns a kapenia and wears it at the same time as the sca
 
 **Requirements** Craft Wondrous Item; creator must have 5 ranks in Intimidate, Knowledge (history), and Perform (dance); creator must be a wandering nomad; **Cost** 4,500 gp
 
-### Scarlet and Blue Sphere (Cracked) Ioun Stone
+### Scarlet and Blue Sphere Ioun Stone
 
-**Aura** strong varied; **CL** 12th
-
-**Slot** none; **Price** 200 gp; **Weight** —
-
-This stone grants a +1 competence bonus on one Intelligence-based skill.
-
-**Resonance**
-
-+1 bonus on Will saves.
-
-**Construction**
-
-**Requirements** Craft Wondrous Item, creator must be 12th level; **Cost** 100 gp
-
-### Scarlet and Blue Sphere (Flawed) Ioun Stone
-
-**Aura** strong varied; **CL** 12th
-
-**Slot** none; **Price** 6,000 gp; **Weight** —
-
-This stone grants a +2 enhancement bonus to Intelligence and a –2 penalty to Constitution.
-
-**Resonance**
-
-+1 bonus on Will saves.
-
-**Construction**
-
-**Requirements** Craft Wondrous Item, creator must be 12th level; **Cost** 3,000 gp
-
-### Scarlet and Blue Sphere (Normal) Ioun Stone
+**Normal version**
 
 **Aura** strong varied; **CL** 12th
 
@@ -10200,21 +10204,37 @@ This stone grants a +2 enhancement bonus to Intelligence and a –2 penalty to C
 
 **Requirements** Craft Wondrous Item, creator must be 12th level; **Cost** 4,000 gp
 
-### Scarlet and Green Cabochon (Flawed) Ioun Stone
+**Cracked version**
 
-**Aura** moderate transmutation; **CL** 12th
+**Aura** strong varied; **CL** 12th
 
-**Slot** none; **Price** 8,000 gp; **Weight** —
+**Slot** none; **Price** 200 gp; **Weight** —
 
-This stone grants the wearer the Endurance feat. Anything that would make the wearer fatigued instead makes him sickened. Anything that would make the wearer exhausted instead makes him nauseated.
+This stone grants a +1 competence bonus on one Intelligence-based skill.
 
 **Resonance**
 
-+5 bonus on Constitution checks made to stabilize.
++1 bonus on Will saves.
 
 **Construction**
 
-**Requirements** Craft Wondrous Item, *bull’s strength*,* cat’s grace*, creator must be 12th level; **Cost** 4,000 gp
+**Requirements** Craft Wondrous Item, creator must be 12th level; **Cost** 100 gp
+
+**Flawed version**
+
+**Aura** strong varied; **CL** 12th
+
+**Slot** none; **Price** 6,000 gp; **Weight** —
+
+This stone grants a +2 enhancement bonus to Intelligence and a –2 penalty to Constitution.
+
+**Resonance**
+
++1 bonus on Will saves.
+
+**Construction**
+
+**Requirements** Craft Wondrous Item, creator must be 12th level; **Cost** 3,000 gp
 
 ### Scarlet and Green Cabochon Ioun Stone
 
@@ -10249,6 +10269,22 @@ This stone grants a +4 bonus on one type of check affected by the Endurance feat
 **Construction**
 
 **Requirements** Craft Wondrous Item, *bull’s strength*,* cat’s grace*, creator must be 12th level; **Cost** 700 gp
+
+**Flawed version**
+
+**Aura** moderate transmutation; **CL** 12th
+
+**Slot** none; **Price** 8,000 gp; **Weight** —
+
+This stone grants the wearer the Endurance feat. Anything that would make the wearer fatigued instead makes him sickened. Anything that would make the wearer exhausted instead makes him nauseated.
+
+**Resonance**
+
++5 bonus on Constitution checks made to stabilize.
+
+**Construction**
+
+**Requirements** Craft Wondrous Item, *bull’s strength*,* cat’s grace*, creator must be 12th level; **Cost** 4,000 gp
 
 ### Scintillating Garment
 
@@ -10454,7 +10490,9 @@ This dapper, halfling-sized gray vest has dull black buttons and several hidden 
 
 **Requirements** Craft Wondrous Item, *invisibility*, creator must have 5 ranks in Sleight of Hand; **Cost** 2,150 gp
 
-### Silver Spindle (Cracked) Ioun Stone
+### Silver Spindle Ioun Stone
+
+**Cracked version**
 
 **Aura** strong evocation; **CL** 12th
 
@@ -10470,7 +10508,7 @@ All spell-like abilities granted by race are treated as 1 caster level higher.
 
 **Requirements** Craft Wondrous Item, *imbue with spell ability*, creator must be 12th level; **Cost** 6,000 gp
 
-### Silver Spindle (Flawed) Ioun Stone
+**Flawed version**
 
 **Aura** strong evocation; **CL** 12th
 
@@ -10486,7 +10524,9 @@ All spell-like abilities granted by race are treated as 1 caster level higher.
 
 **Requirements** Craft Wondrous Item, *imbue with spell ability*, creator must be 12th level; **Cost** 8,000 gp
 
-### Silver Thorny (Cracked) Ioun Stone
+### Silver Thorny Ioun Stone
+
+**Cracked version**
 
 **Aura** strong varies; **CL** 12th
 
@@ -10502,7 +10542,7 @@ Grants the bearer the benefit of either the Acrobatic or the Athletic feat. The 
 
 **Requirements** Craft Wondrous Item, creator must be 12th level; **Cost** 1,600 gp
 
-### Silver Thorny (Flawed) Ioun Stone
+**Flawed version**
 
 **Aura** strong varies; **CL** 12th
 
@@ -11076,7 +11116,9 @@ This disgusting mass of hardened beef tallow is always found divided into three 
 
 **Requirements** Craft Wondrous Item, *cure serious wounds*, *haste*, *protection from energy*; **Cost** 1,125 gp, 90 XP
 
-### Teal Thorny (Cracked) Ioun Stone
+### Teal Thorny Ioun Stone
+
+**Cracked version**
 
 **Aura** strong varies; **CL** 12th
 
@@ -11092,7 +11134,7 @@ Grants the bearer the benefit of either the Acrobatic or the Athletic feat. The 
 
 **Requirements** Craft Wondrous Item, creator must be 12th level; **Cost** 1,600 gp
 
-### Teal Thorny (Flawed) Ioun Stone
+**Flawed version**
 
 **Aura** strong varies; **CL** 12th
 
@@ -11265,7 +11307,9 @@ A *touch of avolition* works best when damp. The save DC to resist a dry *touch 
 
 **Requirements** Craft Wondrous Item, *bestow curse*,* hold person*; **Cost** 1,250 gp
 
-### Tourmaline Sphere (Cracked) Ioun Stone
+### Tourmaline Sphere Ioun Stone
+
+**Cracked version**
 
 **Aura** strong transmutation; **CL**
 
@@ -11281,7 +11325,7 @@ This stone grants a +1 bonus on Constitution checks to stabilize when dying.
 
 **Requirements** Craft Wondrous Item, *bear’s endurance*, creator must be 12th level; **Cost** 400 gp
 
-### Tourmaline Sphere (Flawed) Ioun Stone
+**Flawed version**
 
 **Aura** strong transmutation; **CL**
 
@@ -11595,7 +11639,25 @@ A *vest of the deep* creates a constant shell of magical energy that protects th
 
 **Requirements** Craft Wondrous Item, *life bubble*; **Cost** 1,000 gp
 
-### Vibrant Purple Prism (Cracked) Ioun Stone
+### Vibrant Purple Prism Ioun Stone
+
+**Normal version**
+
+**Aura** strong varied; **CL** 12th
+
+**Slot** none; **Price** 36,000 gp; **Weight** —
+
+Stores three levels of spells, as a *ring of spell storing*.
+
+**Resonance**
+
+As a standard action, the bearer can expend a stored spell to refresh a cast spell of the same level as if using a *pearl of power*. The bearer can refresh up to 3 spell levels per day using this ability.
+
+**Construction**
+
+**Requirements** Craft Wondrous Item, creator must be 12th level; **Cost** 18,000 gp
+
+**Cracked version**
 
 **Aura** strong varied; **CL** 12th
 
@@ -11611,29 +11673,13 @@ As a standard action, the bearer can expend a stored spell to refresh a cast spe
 
 **Requirements** Craft Wondrous Item, creator must be 12th level; **Cost** 1,000 gp
 
-### Vibrant Purple Prism (Flawed) Ioun Stone
+**Flawed version**
 
 **Aura** strong varied; **CL** 12th
 
 **Slot** none; **Price** 36,000 gp; **Weight** —
 
 This stone stores three levels of spells, as a *ring of spell storing (minor)*, except casting spells out of the stone requires at least a full-round action.
-
-**Resonance**
-
-As a standard action, the bearer can expend a stored spell to refresh a cast spell of the same level as if using a *pearl of power*. The bearer can refresh up to 3 spell levels per day using this ability.
-
-**Construction**
-
-**Requirements** Craft Wondrous Item, creator must be 12th level; **Cost** 18,000 gp
-
-### Vibrant Purple Prism (Normal) Ioun Stone
-
-**Aura** strong varied; **CL** 12th
-
-**Slot** none; **Price** 36,000 gp; **Weight** —
-
-Stores three levels of spells, as a *ring of spell storing*.
 
 **Resonance**
 
@@ -11655,7 +11701,9 @@ Whenever the bearer casts a conjuration (summoning) spell, he can expend a numbe
 
 **Requirements** Augment Summoning, Craft Wondrous Item, *summon monster III*, Perform (string instruments) 5 ranks; **Cost** 12,200 gp
 
-### Violet Thorny (Cracked) Ioun Stone
+### Violet Thorny Ioun Stone
+
+**Cracked version**
 
 **Aura** strong varies; **CL** 12th
 
@@ -11671,7 +11719,7 @@ Grants the bearer the benefit of either the Acrobatic or the Athletic feat. The 
 
 **Requirements** Craft Wondrous Item, creator must be 12th level; **Cost** 1,600 gp
 
-### Violet Thorny (Flawed) Ioun Stone
+**Flawed version**
 
 **Aura** strong varies; **CL** 12th
 
