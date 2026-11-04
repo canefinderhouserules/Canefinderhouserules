@@ -128,7 +128,7 @@ A shaman who selects the flame spirit has a radiant light behind her eyes and th
 
 **Spirit Ability**: A shaman who chooses the flame spirit as her spirit or wandering spirit gains the following ability.
 
-**Touch of Flame (Su)**: As a standard action, the shaman can make a melee touch attack that deals 1d6 points of fire damage +1 point for every 2 shaman levels she possesses. A shaman can use this ability a number of times per day equal to 3 +her Charisma modifier. At 11th level, any weapon she wields is treated as aflaming weapon.
+**Touch of Flame (Su)**: As a standard action, the shaman can make a melee touch attack that deals 1d6 points of fire damage +1 point for every 2 shaman levels she possesses. A shaman can use this ability a number of times per day equal to 3 +her Charisma modifier. At 11th level, any weapon she wields is treated as a flaming weapon.
 
 **Greater Spirit Ability**: A shaman who chooses the flame spirit as her spirit or wandering spirit gains the following ability upon having access to the greater version of that spirit.
 
@@ -234,7 +234,7 @@ Life S(ght (Ex): The shaman can see the states of life, death, and general healt
 
 **True Spirit Ability**: A shaman who chooses the life spirit as her spirit or wandering spirit gains the following ability upon having access to the true version of that spirit.
 
-**Qjtick Healin, g (Su)**: The shaman calls upon her spirit to enhance the speed of her healing abilities. This ability allows her to channel positive energy or cast a cure spell as a swift action. The shaman can use this ability a number of times per day equal to her Charisma modifier.
+**Qjtick Healing, g (Su)**: The shaman calls upon her spirit to enhance the speed of her healing abilities. This ability allows her to channel positive energy or cast a cure spell as a swift action. The shaman can use this ability a number of times per day equal to her Charisma modifier.
 
 **Manifestation**: Upon reaching 20th level, the shaman becomes a perfect channel for life energy. She gains immunity to bleed, death attacks, and negative energy, as well as to the exhausted, fatigued, nauseated, and sickened conditions. Ability damage and drain cannot reduce her to below 1 in any ability score. She automatically succeeds at saving throws against massive damage. When she is reduced to below 0 hit points, she doesn't die until her negative hit point total exceeds double her Constitution score.
 
@@ -264,7 +264,7 @@ A shaman who selects the lore spirit appears far wiser and knowing that her age 
 
 **Greater Spirit Ability**: A shaman who chooses the lore spirit as her spirit or wandering spirit gains the following ability upon having access to the greater version of that spirit.
 
-**Automatic Writin, g (Su)**: Once per day, the shaman can spend 10 minutes in uninterrupted meditation to tap into greater understanding. During this period, her hands produce mysterious writings pertaining to the future. This writing takes the form of divination with 90% effectiveness. The shaman can use this ability an additional time per day at 12th, 16th, and 20th levels.
+**Automatic Writing, g (Su)**: Once per day, the shaman can spend 10 minutes in uninterrupted meditation to tap into greater understanding. During this period, her hands produce mysterious writings pertaining to the future. This writing takes the form of divination with 90% effectiveness. The shaman can use this ability an additional time per day at 12th, 16th, and 20th levels.
 
 **True Spirit Ability**: A shaman who chooses the lore spirit as her spirit or wandering spirit gains the following ability upon having access to the true version of that spirit.
 

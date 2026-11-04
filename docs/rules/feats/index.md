@@ -653,7 +653,7 @@ Feats from the *Advanced Class Guide*. Each name links to its full description.
 | [Blooded Arcane Strike](blooded-arcane-strike.md) | Combat | Arcane Strike, ability to cast arcane spells, bloodrage class feature |
 | [Bookish Rogue](bookish-rogue.md) | — | Minor magic rogue talent |
 | [Canny Tumble](canny-tumble.md) | Combat | Dodge, Mobility, Acrobatics 5 ranks |
-| [Channeled Blessing](channeled-blessing.md) | — | Blessingst class feature, channel energy class feature |
+| [Channeled Blessing](channeled-blessing.md) | — | Blessings class feature, channel energy class feature |
 | [Channeling Force](channeling-force.md) | Combat | Ability to cast at least one force spell, channel energy class feature |
 | [Confounding Tumble Deed](confounding-tumble-deed.md) | Panache | Amateur Swashbuckler feat or panache class feature, Canny Tumble, Acrobatics 7 ranks |
 | [Coordinated Shot](coordinated-shot.md) | Combat, Teamwork | Point-Blank Shot |

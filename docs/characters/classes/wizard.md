@@ -146,7 +146,7 @@ Illusionists use magic to weave confounding images, figments, and phantoms to ba
 
 *Blinding Ray (Sp)*: As a standard action you can fire a shimmering ray at any foe within 30 feet as a ranged touch attack. The ray causes creatures to be blinded for 1 round. Creatures with more Hit Dice than your wizard level are dazzled for 1 round instead. You can use this ability a number of times per day equal to 3 + your Intelligence modifier.
 
-*Invisibility Field (Sp)*: At 8th level, you can make yourselfinvisible as a swift action for a number of rounds per day equal to your wizard level. These rounds do not need to be consecutive. This otherwise functions as *greater invisibility.*
+*Invisibility Field (Sp)*: At 8th level, you can make yourself invisible as a swift action for a number of rounds per day equal to your wizard level. These rounds do not need to be consecutive. This otherwise functions as *greater invisibility.*
 
 ### Necromancy School
 
@@ -170,7 +170,7 @@ Transmuters use magic to change the world around them.
 
 ### Universalist School
 
-Wizards who do not specialize (known as as universalists) have the most diversity of all arcane spellcasters.
+Wizards who do not specialize (known as universalists) have the most diversity of all arcane spellcasters.
 
 *Hand of the Apprentice (Su)*: You cause your melee weapon to fly from your grasp and strike a foe before instantly returning to you. As a standard action, you can make a single attack using a melee weapon at a range of 30 feet. This attack is treated as a ranged attack with a thrown weapon, except that you add your Intelligence modifier on the attack roll instead of your Dexterity modifier (damage still relies on Strength). This ability cannot be used to perform a combat maneuver. You can use this ability a number of times per day equal to 3 + your Intelligence modifier.
 

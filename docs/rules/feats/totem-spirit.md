@@ -8,7 +8,7 @@ You are mystically tied to your tribe’s sacred totem.
 
 *Lyrune-Quah (Moon Clan)*: You gain a +1 bonus on Will saves and a +2 bonus on Perception checks.
 
-*Shadde-Quah (Axe Clan)*: If you have the rage ability, you can rage for 3 additional rounds per day. You also gain a +2 bonus on Intimidate checks.
+*Shade-Quah (Axe Clan)*: If you have the rage ability, you can rage for 3 additional rounds per day. You also gain a +2 bonus on Intimidate checks.
 
 *Shriikirri-Quah (Hawk Clan)*: You gain a +2 bonus on Initiative checks and a +2 bonus on Ride checks.
 

@@ -53,7 +53,7 @@ In addition to being used for lying, the Bluff skill has several other uses defi
 
 ## Diplomacy
 
-Due to its ability to convince people without using either deception or coercion—and risking their negative consequences—the Diplomacy skill is one of the most commonly used forms of persuasion in the the game. However, it is also difficult to adjudicate in a variety of situations involving intrigue and combat.
+Due to its ability to convince people without using either deception or coercion—and risking their negative consequences—the Diplomacy skill is one of the most commonly used forms of persuasion in the game. However, it is also difficult to adjudicate in a variety of situations involving intrigue and combat.
 
 ### Attitudes and Requests
 

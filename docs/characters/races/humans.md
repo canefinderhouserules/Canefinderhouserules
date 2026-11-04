@@ -24,7 +24,7 @@ Humans possess exceptional drive and a great capacity to endure and expand, and 
 
 **Languages**: Humans begin play speaking Common. Humans with high Intelligence scores can choose any languages they want (except secret languages, such as Druidic).
 
-Acharacter’s class is one of his most defining features.
+A character’s class is one of his most defining features.
 
 It’s the source of most of his abilities, and gives him a
 

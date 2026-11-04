@@ -54,7 +54,7 @@
 
 ***Replacement Power**: The following granted power replaces the touch of good power of the Good domain.*
 
-*Powerful Bond (Su): As a swift action, you can share a spell, supernatural or spell like possitive effect you recieve with an adjacent ally. Both buffs will last half as much but be active in both you and your ally. You can use this ability once per day at 1st level, and an additional time per day for every four levels beyond the 1st.*
+*Powerful Bond (Su): As a swift action, you can share a spell, supernatural or spell like positive effect you receive with an adjacent ally. Both buffs will last half as much but be active in both you and your ally. You can use this ability once per day at 1st level, and an additional time per day for every four levels beyond the 1st.*
 
 ***Replacement Domain Spells**: 2nd—shield other, 5th—telepathic bond.*
 

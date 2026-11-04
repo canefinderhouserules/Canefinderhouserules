@@ -91,7 +91,7 @@
 
 **Recoil X:** Siempre que hagas mas de 1 disparo en un mismo turno, sea por Rapid Shot o Itteratives, tenes - X a todas las tiradas después de la primera. Two-handear un arma de 1 mano con recoil reduce en 1 el penalizador, hasta un máximo de 0.
 
-**Double-Barreled:** the two barrels can be fired independently as separate attacks, or both can be fired at once as a standard action (the attack action). A double shot that fires bullets is inaccurate, and takes a –2 penalty on both attacks. A double shot that fires bullets targets only a single creature. It doesn’t multiply Vital Strike, and it doesn’t aplies sneak attack or any other type of precision damage more than once.
+**Double-Barreled:** the two barrels can be fired independently as separate attacks, or both can be fired at once as a standard action (the attack action). A double shot that fires bullets is inaccurate, and takes a –2 penalty on both attacks. A double shot that fires bullets targets only a single creature. It doesn’t multiply Vital Strike, and it doesn’t applies sneak attack or any other type of precision damage more than once.
 
 **Long Range:** -3 ataque en 30ft o menos.
 
@@ -105,7 +105,7 @@
 
 **- Wild (Armor Enchant):** Ya no tiene de coste +3, ahora es +1.
 
-**- Inteligent Items:** Ahora el precio base para crear uno es 5000gp en vez de 500gp.
+**- Intelligent Items:** Ahora el precio base para crear uno es 5000gp en vez de 500gp.
 
 **- Kineticist’s Diadem:** Ahora los precios son diferentes, pasando a ser los siguientes:
 

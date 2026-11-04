@@ -31,7 +31,7 @@ To qualify to become a forest warden, a character must fulfill all the following
 
 **Skills**: Stealth 3 ranks, Survival 3 ranks.
 
-**Special**: You must defeat an evil enemy of a CR 5 levels higher than your character level. This victory must be witnessed by a a forest ranger.
+**Special**: You must defeat an evil enemy of a CR 5 levels higher than your character level. This victory must be witnessed by a forest ranger.
 
 ??? note "Original requirements"
 
@@ -41,7 +41,7 @@ To qualify to become a forest warden, a character must fulfill all the following
 
     **Skills**: Stealth 5 ranks, Survival 5 ranks.
 
-    **Special**: You must defeat an evil enemy of a CR 5 levels higher than your character level. This victory must be witnessed by a a forest ranger.
+    **Special**: You must defeat an evil enemy of a CR 5 levels higher than your character level. This victory must be witnessed by a forest ranger.
 
 ### Class Skills
 

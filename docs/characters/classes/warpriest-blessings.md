@@ -193,7 +193,7 @@ A warpriest can select any two blessings. Each blessing is named after the domai
 
 **Double (minor)**: At 1st level, as a move action you can create an illusory double of yours el( This double functions as a single mirror image, and lasts for a number of rounds equal to your warpriest level, or until the illusory duplicate is dispelled or destroyed. You can have no more than one double at a time. This ability doesn't stack with the additional damage from the mirror image spell.
 
-**Greater Invisibility (major)**: At 10th level, as a swift action you can become invisible for 1 round (as weater invisibility).
+**Greater Invisibility (major)**: At 10th level, as a swift action you can become invisible for 1 round (as water invisibility).
 
 ## Void Blessing
 

@@ -137,7 +137,7 @@ Often this is through temptation or some sort of ruse, but once the deal is stru
 
 When such a fall occurs, the transformation can be swift. The paladin trades in all of his paladin levels for antipaladin levels on a 1-for-1 basis. This is usually a traumatic experience, involving a complex ritual that involves a living sacrifice and dark oaths made to foul powers (who sometimes send minions to bear witness).
 
-Once complete, the anitpaladin emerges, ready to bring ruin to the world.
+Once complete, the antipaladin emerges, ready to bring ruin to the world.
 
 It should be noted that not all antipaladins are fallen heroes. Some warriors are trained from a young age to assume the mantle of antipaladin, forged through pain and trauma into exemplars of evil. These cruel warriors know nothing of compassion or loyalty, but they can teach a great deal about pain and suffering.
 

@@ -228,7 +228,7 @@ Barbarians are known for their ability to consume potent drink, but drunken brut
 
 Some barbarian tribes have strong ties to the elemental forces of nature. Their shamans anoint the warriors at birth, tying them to the patron element of the tribe and granting them lasting boons against such forces. An elemental kin has the following class feature.
 
-**Elemental Fury (Ex)**: At 3rd level, whenever the elemental kin takes an amount of energy damage equal to or greater than her barbarian level while raging, she adds 1 to the total number of rounds that she can rage that day. At 6th level, and every three levels thereafter, the number of extra rounds per energy attack increases by +1, to a maximum of +6 rounds per energy attack at at 18th level. This ability replaces trap sense.
+**Elemental Fury (Ex)**: At 3rd level, whenever the elemental kin takes an amount of energy damage equal to or greater than her barbarian level while raging, she adds 1 to the total number of rounds that she can rage that day. At 6th level, and every three levels thereafter, the number of extra rounds per energy attack increases by +1, to a maximum of +6 rounds per energy attack at 18th level. This ability replaces trap sense.
 
 **Rage Powers**: The following rage powers complement the elemental kin archetype: elemental rage, energy absorption, energy eruption, energy resistance, greater elemental rage, greater energy resistance, and lesser elemental rage.
 
@@ -290,7 +290,7 @@ Many barbarians distrust magic. While most just shy away from magic, others focu
 
 A barbarian often has a special totem that is the patron of her tribe. While individual totems vary, those in the tribe that call upon a totem receive similar abilities. Totem warrior barbarians can select from the following rage powers.
 
-**Rage Powers**: The totem warrior is based entirely upon his totem rage powers. In addition to the totem powers themselves, the following rage powers complement the totem warrior archtype (depending on the totem chosen): animal fury*, low-light vision*, night vision*, raging climber*, raging leaper*, raging swimmer*, and swift foot*.
+**Rage Powers**: The totem warrior is based entirely upon his totem rage powers. In addition to the totem powers themselves, the following rage powers complement the totem warrior archetype (depending on the totem chosen): animal fury*, low-light vision*, night vision*, raging climber*, raging leaper*, raging swimmer*, and swift foot*.
 
 ## New Rage Powers
 

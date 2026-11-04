@@ -320,7 +320,7 @@ A list of extra traits to use alongside the wiki’s own trait system, if your t
 
 **Peninsula Artist** (*an eastern peninsula*): You grew up in an eastern peninsula, and your artistic talents were cherished and honed from an early age. You have been nurtured on the artistic spirit of an eastern peninsula. Choose one Perform skill. You gain a +1 trait bonus on checks with that skill, and it becomes a class skill for you.
 
-**Prism Player** (*the free republic*): You’ve grown up playing the confusing game of prismati and throw stones with accuracy and ease. You gain a +1 trait bonus on attack rolls with fistsized rocks or similarly shaped objects, and a +1 trait bonus on concentration checks.
+**Prism Player** (*the free republic*): You’ve grown up playing the confusing game of prismatic and throw stones with accuracy and ease. You gain a +1 trait bonus on attack rolls with fistsized rocks or similarly shaped objects, and a +1 trait bonus on concentration checks.
 
 **Scion of the Ancient Flying-city** (*the southern jungle*): The blood of an ancient flying-city aeromancer flows through your veins. You gain a +2 bonus on concentration checks when casting flight spells such as *levitate*,* fly*, or* overland flight*. Once per day, you can use* message* as a spell-like ability.
 

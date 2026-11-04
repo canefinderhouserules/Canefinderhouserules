@@ -566,7 +566,7 @@
 | 35–38 | *Iron body* | 3,000 gp | CR |
 | 39–43 | *Moment of prescience* | 3,000 gp | CR |
 | 44–47 | *Orb of the void* | 3,000 gp | UM |
-| 48–52 | *Pyrying eyes, greater* | 3,000 gp | CR |
+| 48–52 | *Prying eyes, greater* | 3,000 gp | CR |
 | 53–56 | *Screen* | 3,000 gp | CR |
 | 57–62 | *Shadow evocation, greater* | 3,000 gp | CR |
 | 63–66 | *Shout, greater* | 3,000 gp | CR |

@@ -97,7 +97,7 @@ This ability replaces autonomic grasp.
 
 **Scholastic (Ex)**
 
-A lore warden gains 2 additional skill ranks each level. These ranks must be spent on Intelligencebased skills. All Craft and Knowledge skills are class skills for lore wardens, as are Linguistics and Spellcraft.
+A lore warden gains 2 additional skill ranks each level. These ranks must be spent on Intelligence-based skills. All Craft and Knowledge skills are class skills for lore wardens, as are Linguistics and Spellcraft.
 
 This ability replaces the fighter’s proficiency with medium armor, heavy armor, and shields.
 

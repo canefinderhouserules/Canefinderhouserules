@@ -84,7 +84,7 @@ A character who chooses druid as her secondary class gains the following seconda
 
 **Greater Wildshape**: At 15th level, her wild shape improves to include the 6th-level druid options, and she can use wild shape three times per day.
 
-**Shapeless**: At 19th level, she gains the A Thounsand Faces Class Feature.
+**Shapeless**: At 19th level, she gains the A Thousand Faces Class Feature.
 
 ##### Fighter
 
@@ -330,7 +330,7 @@ A character who chooses witch as her secondary class gains the following seconda
 
 **Hex**: At 13th level, she gains a hex of her choice treating her character level as her effective witch level -2.
 
-**Improved Hex**: At 15th level, she gains anoter hex.
+**Improved Hex**: At 15th level, she gains another hex.
 
 **Major Hex**: At 19th level, she gains a major hex.
 
@@ -465,7 +465,7 @@ A character who chooses brawler as his secondary class gains the following secon
 
 **Martial Flexibility**: At 7th level, he gains the martial flexibility class feature as a brawler of his character level.
 
-**Close Weapon Mastery and Maneuver Training:** At 11th level, she gains the Close weapon Mastery and Maneuver training class features as a brawler of her chaaracter level.
+**Close Weapon Mastery and Maneuver Training:** At 11th level, she gains the Close weapon Mastery and Maneuver training class features as a brawler of her character level.
 
 **Knockout:** At 15th level, she gains the knockout class feature.
 
@@ -599,7 +599,7 @@ A character who chooses Vigilante as his secondary class gains the following sec
 
 **Vigilante Talent**: At 7th level, she gains a single Vigilante Talent. She doesn’t count as having any Vigilante Specialization.
 
-**Startling and Frightning Appearence:** At 11th level, she gains Startling and Frightning Appearence class features. She also gains another social talent.
+**Startling and Frightening Appearance:** At 11th level, she gains Startling and Frightening Appearance class features. She also gains another social talent.
 
 **Vigilante Talent:** At 15th level, she gains another vigilante talent.
 

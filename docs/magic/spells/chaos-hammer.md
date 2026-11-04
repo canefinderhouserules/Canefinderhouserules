@@ -12,4 +12,4 @@ You unleash chaotic power to smite your enemies. The power takes the form of a m
 
 The spell deals 1d8 points of damage per two caster levels (maximum 5d8) to lawful creatures (or 1d6 points of damage per caster level, maximum 10d6, to lawful outsiders) and slows them for 1d6 rounds (see the *slow* spell). A successful Will save reduces the damage by half and negates the slow effect.
 
-The spell deals only half damage against creatures who are neither lawful nor chaotic, and they are not slowed. Such a creature can reduce the damage by half again (down to onequarter) with a successful Will save.
+The spell deals only half damage against creatures who are neither lawful nor chaotic, and they are not slowed. Such a creature can reduce the damage by half again (down to one-quarter) with a successful Will save.

@@ -14,7 +14,7 @@ However, even if they generally tend toward human societies, aasimars can become
 
 **Adventurers**: Aasimars frequently become adventurers, as they often do not quite feel at home in human society and feel the pull of some greater destiny. Clerics, oracles, and paladins are most plentiful in their ranks, though bards, sorcerers, and summoners are not uncommon among those with a fondness for arcane magic. Aasimar barbarians are rare, but when born into such tribes they often rise to leadership and encourage their clans to embrace celestial totems.
 
-**Male Names**: Aritian, Beltin, Cernan, Cronwier, Eran, Ilamin, Maudril, Okrin, Parant, Tural, Wyran, Zaigan.
+**Male Names**: Aritian, Beltin, Cernan, Cronwier, Eran, Ilamin, Maudril, Okrin, Parent, Tural, Wyran, Zaigan.
 
 **Female Names**: Arken, Arsinoe, Davina, Drinma, Imesah, Masozi, Nijena, Niramour, Ondrea, Rhialla, Valtyra.
 

@@ -8,7 +8,7 @@ The following guidelines are provided to assist in monster creation and to help 
 
 ### Step 1: Concept
 
-The first step in creating a new monster is to define its concept and role in the game. Generally, this involves picking the monster’s CR, type, physical appearance, and manner off ighting. Once you have these basic pieces of information, you should find a number of similar monsters of the same type and roughly the same CR for comparison purposes.
+The first step in creating a new monster is to define its concept and role in the game. Generally, this involves picking the monster’s CR, type, physical appearance, and manner off fighting. Once you have these basic pieces of information, you should find a number of similar monsters of the same type and roughly the same CR for comparison purposes.
 
 ### Step 2: Target Statistics
 
@@ -166,7 +166,7 @@ Most special abilities that cause damage, such as breath weapons, give a save (F
 
 *As long as a creature has an Intelligence of at least 1, it gains a minimum of 1 skill point per Hit Die. Creatures with an Intelligence score of “—” gain no skill points or feats.*
 
-Special senses and resistances to certain energy types are common in creatures of CR 5 and lower. Damage reduction, energy immunities, and regeneration are more common in creatures above CR 5. Spell resistance and immunities become more common above CR 10. As a general rule a creature’s spell resitance should equal its CR + 11.
+Special senses and resistances to certain energy types are common in creatures of CR 5 and lower. Damage reduction, energy immunities, and regeneration are more common in creatures above CR 5. Spell resistance and immunities become more common above CR 10. As a general rule a creature’s spell resistance should equal its CR + 11.
 
 **Table 1–5: Average Die Results**
 

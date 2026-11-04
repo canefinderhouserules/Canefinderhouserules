@@ -328,7 +328,7 @@ These alternative class features can be taken in place of alchemical weapon.
 
 **Firebreather (Ex)**: At 3rd level, the legendary alchemist can ingest a dose of a single splash weapon as a move action. Once within a number of rounds equal to their Intelligence modifier (minimum 1), they may breathe it out in a 15-foot cone as a standard action that provokes attacks of opportunity.
 
-All within the area are affected as if struck with the splash weapon. If a target succeeds on a Reflex saving throw (DC 10 + 1/2 the legendary alchemist’s level + their Intelligence modifer) they are instead affected as if by the splash damage (if any). The legendary alchemist may add their Intelligence modifier to the damage if they have the throw anything class feature.
+All within the area are affected as if struck with the splash weapon. If a target succeeds on a Reflex saving throw (DC 10 + 1/2 the legendary alchemist’s level + their Intelligence modifier) they are instead affected as if by the splash damage (if any). The legendary alchemist may add their Intelligence modifier to the damage if they have the throw anything class feature.
 
 **Vigilante Talent (Ex)** At 3rd level, the legendary alchemist can select a vigilante talent as though they were a vigilante of their class level (they do not have a vigilante specialization). Each time they gain a level, they can choose to change this talent.
 
@@ -512,7 +512,7 @@ The red-headed merchant can also select the following social talents in place of
 
 *This ability alters bombs.*
 
-**Elemental Alchemy (Ex):** The ruin elementalist can select utility wild talents as discoveries, treating their alchemist level as though it was their kineticist level for the purposes of qualitying for utility wild talents and their effects. The ruin elementalist can spend quintessence instead of accepting burn equal to the burn required for a utility wild talent.
+**Elemental Alchemy (Ex):** The ruin elementalist can select utility wild talents as discoveries, treating their alchemist level as though it was their kineticist level for the purposes of qualifying for utility wild talents and their effects. The ruin elementalist can spend quintessence instead of accepting burn equal to the burn required for a utility wild talent.
 
 **Elemental Defense (Su):** The alchemist gains the elemental defense for their elemental focus.
 

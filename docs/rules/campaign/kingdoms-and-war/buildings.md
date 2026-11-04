@@ -736,4 +736,4 @@ A port for waterborne arrival and departure, with facilities for shipping and sh
 **Cost**: 3 BP, 1–2 lots  
 **Special**: Counts as water district border for adjacent buildings
 
-A river or canal occuping part of the District Grid. At the GM’s option, a natural Waterway may already exist on the grid, requiring no action or BP to build. If you construct a City Wall that touches or crosses the Waterway, you must also build Watergates on the same turn.
+A river or canal occupying part of the District Grid. At the GM’s option, a natural Waterway may already exist on the grid, requiring no action or BP to build. If you construct a City Wall that touches or crosses the Waterway, you must also build Watergates on the same turn.

@@ -183,7 +183,7 @@ Any creature that fails its saving throw against a jinxed spell also suffers the
 
 You can alter a spell with the curse descriptor to target an object rather than a person. Your spell immediately targets the next creature to pick up, handle, or interact with the object as if that creature were the spell’s original target.
 
-if the curse originally affected multiple targets, it triggers as an area effect when someone touchs it. An object invested with a latent curse detects as magical, with an aura appropriate for the spell’s original level and school.
+if the curse originally affected multiple targets, it triggers as an area effect when someone touches it. An object invested with a latent curse detects as magical, with an aura appropriate for the spell’s original level and school.
 
 As with all cursed items, someone studying the object’s magic aura recognizes that it is cursed only if her Spellcraft check exceeds the target DC by 10 or more.
 
@@ -255,7 +255,7 @@ You can modify a spell to sicken a creature damaged by the spell. When a creatur
 
 **Silent Spell +1 \[Common\]**
 
-Cast spell without verbal components. A spell with no somatic AND no verbal component, has no visual cue of it beeing casted, unless under a detect magic spell.
+Cast spell without verbal components. A spell with no somatic AND no verbal component, has no visual cue of it being casted, unless under a detect magic spell.
 
 **Snuffing Spell +1 \[Trait\]**
 
@@ -273,7 +273,7 @@ When casting greater shadow conjuration, greater shadow evocation, shadow conjur
 
 **Still Spell +1 \[Common\]**
 
-Cast spell without somatic components. A spell with no somatic AND no verbal component, has no visual cue of it beeing casted, unless under a detect magic spell.
+Cast spell without somatic components. A spell with no somatic AND no verbal component, has no visual cue of it being casted, unless under a detect magic spell.
 
 **Steam Spell +0 \[Trait\]**
 

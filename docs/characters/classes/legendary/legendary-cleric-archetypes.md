@@ -134,7 +134,7 @@ Alternate class features are small, modular archetypes. They swap out a single c
 
 **Weapon and Armor Proficiencies**
 
-The following options can be taken in place of the egendary cleric’s normal weapon and armor proficiencies
+The following options can be taken in place of the legendary cleric’s normal weapon and armor proficiencies
 
 **Weapon and Armor Proficiencies:** Clerics are proficient with all simple weapons, light armor, and bucklers, plus one weapon appropriate to their faith.
 

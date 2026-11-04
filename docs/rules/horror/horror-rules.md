@@ -41,7 +41,7 @@ See [Fleshwarping](fleshwarping.md).
 
 ## Haunts
 
-One of the most ubiquitous representations of horror in the the game, haunts provide a different kind of challenge from monsters. To make haunts more versatile, this section includes haunt elements, which function like templates to change the effects of haunts.
+One of the most ubiquitous representations of horror in the game, haunts provide a different kind of challenge from monsters. To make haunts more versatile, this section includes haunt elements, which function like templates to change the effects of haunts.
 
 After that come variant haunts. Though haunts normally work like undead, other forms of horror can manifest as haunts. The influence of the Great Old Ones, magical scars, dimensional instabilities, and psychic energy can all give rise to these variants.
 

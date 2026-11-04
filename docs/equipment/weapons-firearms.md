@@ -46,7 +46,7 @@
 | Shotgun | 5,000 gp | 1d6 | 1d8 | ×2 | 20 ft. | 1–2 | 1 | 12 lbs. | B and P | scatter, Recoil 2. | |
 | Shotgun, double-barreled | 7,000 gp | 1d6 | 1d8 | ×2 | 20 ft. | 1–2 | 2 | 15 lbs. | B and P | scatter, Double-barreled. Recoil 3. | |
 | Assault Rifle, Light | 8,000 gp | 1d8 | 1d10 | 18-20x2 | 200 ft. | 1 | 35 | 10 lbs. | B and P | Armor Pen 1. Automatic. | |
-| Assaul Rifle, Heavy | 9,000 gp | 2d5 | 2d6 | x3 | 200 ft. | 1 | 45 | 20 lbs. | B and P | Armor Pen 3. Automatic. Recoil 1. | |
+| Assault Rifle, Heavy | 9,000 gp | 2d5 | 2d6 | x3 | 200 ft. | 1 | 45 | 20 lbs. | B and P | Armor Pen 3. Automatic. Recoil 1. | |
 | Assault Rifle | 8,500 gp | 1d10 | 1d12 | 19-20x3 | 200 ft. | 1 | 40 | 15 lbs. | B and P | Armor Pen 2. Automatic. Recoil 1. | |
 | Modern Shotgun | 6,000 gp | 2d4 | 2d6 | x4 | 50 ft. | 1 | 1 | 25 lbs. | B and P | Scatter. Armor Pen 1. Recoil 2. | |
 | Modern Shotgun, double barreled | 10,000 gp | 2d4 | 2d6 | x3 | 50 ft. | 1 | 2 | 35 lbs. | B and P | Scatter. Armor Pen 1. Recoil 3. Double-barreled. | |

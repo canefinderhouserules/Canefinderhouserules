@@ -292,7 +292,7 @@ Nearly every combat feat has a combat trick associated with it. Some very basic 
 
 **Distracting Charge (Combat, Teamwork)**: You can spend 1 stamina point when an ally with this feat charges but misses with the charge attack. When you do, you can still gain the benefit of this feat when you charge.
 
-**Djinni Spin (Combat)**: Instead of spending two uses of Elemental Fist to surround yourself in a whirlwind of electrif ied air, you can spend one use of Elemental Fist and 2 stamina points.
+**Djinni Spin (Combat)**: Instead of spending two uses of Elemental Fist to surround yourself in a whirlwind of electrified air, you can spend one use of Elemental Fist and 2 stamina points.
 
 **Djinni Spirit (Combat)**: When you make an Elemental Fist attack, you can spend up to 5 stamina points to increase the DC of the saving throw of the deafening effect by an amount equal to the number of stamina points you spent.
 

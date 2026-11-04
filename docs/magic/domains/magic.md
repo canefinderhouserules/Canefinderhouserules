@@ -4,7 +4,7 @@
 
 ***Granted Powers**: You are a true student of all things mystical, and see divinity in the purity of magic.*
 
-*Hand of the Acolyte (Su): You can cause your melee weapon to fly from your grasp and strike a foe before instantly returning. As a standard action, you can make a single attack using a melee weapon at a range of 30 feet. This attack is treated as a ranged attack with a thrown weapon, except that you add your Wisdom modifier to the attack and damage rolls instead of your Dexterity and Strengh modifier. This ability cannot be used to perform a combat maneuver. You can use this ability a number of times per day equal to 3 + your Wisdom modifier.*
+*Hand of the Acolyte (Su): You can cause your melee weapon to fly from your grasp and strike a foe before instantly returning. As a standard action, you can make a single attack using a melee weapon at a range of 30 feet. This attack is treated as a ranged attack with a thrown weapon, except that you add your Wisdom modifier to the attack and damage rolls instead of your Dexterity and Strength modifier. This ability cannot be used to perform a combat maneuver. You can use this ability a number of times per day equal to 3 + your Wisdom modifier.*
 
 *LLEGUE HASTA ACA*
 

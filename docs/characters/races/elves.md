@@ -214,7 +214,7 @@ the sea-spire elves train with weapons that can be used underwater. An elf with 
 
 ### Disinterested Observer
 
-Elves who frequently interact with shorterlived species, especially members who hail from the frontier, often come to rely on their ability to weight out such impatient races. These elves gain a +1 racial bonus on attack rolls and skill checks made as part of readied actions in combat. This racial trait replaces the elven magic and weapon familiarity traits.
+Elves who frequently interact with shorter-lived species, especially members who hail from the frontier, often come to rely on their ability to weight out such impatient races. These elves gain a +1 racial bonus on attack rolls and skill checks made as part of readied actions in combat. This racial trait replaces the elven magic and weapon familiarity traits.
 
 ### Dusk Elf
 

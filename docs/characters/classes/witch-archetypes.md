@@ -514,7 +514,7 @@ This ability replaces the hexes gained at 1st, 8th, and 14th level.
 
 ## Dimensional Occultist
 
-A dimensional occultist sacrifices some of her mastery over hexes in return for increased planar lore—she spends much of her time researching and communing with otherplanar spirits, often through her familiar or via the study of ancient texts, and has an increased mastery over various conjurations and other extraplanar effects. She can even travel between dimensions as she gains power.
+A dimensional occultist sacrifices some of her mastery over hexes in return for increased planar lore—she spends much of her time researching and communing with other-planar spirits, often through her familiar or via the study of ancient texts, and has an increased mastery over various conjurations and other extraplanar effects. She can even travel between dimensions as she gains power.
 
 **Patron**: A dimensional occultist witch must select the Dimensions patron when she gains this archetype. The Dimensions patron provides the following bonus spells: 2nd—*hold portal*, 4th—*rope trick*, 6th—*blink*, 8th—*dimensional anchor*, 10th—*lesser planar binding*, 12th—*planar binding*, 14th—*banishment*, 16th—*greater planar binding*, 18th—*gate*.
 

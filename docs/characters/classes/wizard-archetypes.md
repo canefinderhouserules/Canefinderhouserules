@@ -420,7 +420,7 @@ These temporary hit points disappear 1 hour later. You may not use this ability 
 
 **Replacement Power**: The following school power replaces the diviner’s fortune power of the divination school.
 
-**Send Senses (Sp)**: As a standard action, you place a scrying sensor at a point within medium range (100 feet + 10 feet/wizard level) that you can see and have line of effect to. You can see or hear (not both) through this sensor for number of rounds equal to 1/2 your wizard level (minimum 1). The sensor otherwise functions as a clairaudience/clairovoyance spell with a caster level equal to your wizard level. You can use this ability a number of times per day equal to 3 + your Intelligence modifier.
+**Send Senses (Sp)**: As a standard action, you place a scrying sensor at a point within medium range (100 feet + 10 feet/wizard level) that you can see and have line of effect to. You can see or hear (not both) through this sensor for number of rounds equal to 1/2 your wizard level (minimum 1). The sensor otherwise functions as a clairaudience/clairvoyance spell with a caster level equal to your wizard level. You can use this ability a number of times per day equal to 3 + your Intelligence modifier.
 
 ### Shadow School
 
@@ -946,7 +946,7 @@ Clocksmiths pursue the study and creation of clockwork constructs to near obsess
 
 ## Great City: Great Arcane College Crafter (Wizard)
 
-The most famous magical college of the central sea region, the great arcane college of the great city teaches a broad array of specialties, but its most intensive specialty is no specialization at all. It is one of the primary training academies of universalist magic on the world, and the wizards who graduate from the school become well respected, well paid, and highly soughtafter in their homelands. An great arcane college crafter is one of the builders of the arcane world, assembling magic items with facility, skill, and power. He is intimately familiar with the craft and practice of imbuing items with arcane power, and works with precision even early in his career to help create some of the most powerful magic items of the world.
+The most famous magical college of the central sea region, the great arcane college of the great city teaches a broad array of specialties, but its most intensive specialty is no specialization at all. It is one of the primary training academies of universalist magic on the world, and the wizards who graduate from the school become well respected, well paid, and highly sought-after in their homelands. An great arcane college crafter is one of the builders of the arcane world, assembling magic items with facility, skill, and power. He is intimately familiar with the craft and practice of imbuing items with arcane power, and works with precision even early in his career to help create some of the most powerful magic items of the world.
 
 **Associated School**: Universalist.
 

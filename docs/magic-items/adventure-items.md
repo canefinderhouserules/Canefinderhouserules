@@ -4367,7 +4367,7 @@ Each *amulet of the Abyss* bears a demon lord’s rune on its face, indicating t
 
 **Slot** neck; **Price** 10,000 gp; **Weight** —
 
-This circular stone amulet is engraved with a fine, spiraling line that winds inward toward the center, creating the impression of a powerful vortex. The amulet surrounds the wearer with a reactive field that counters the negative effects of natural or magically controlled winds. The wearer treats all such effects as though she is under the infuence of *freedom of movement*.
+This circular stone amulet is engraved with a fine, spiraling line that winds inward toward the center, creating the impression of a powerful vortex. The amulet surrounds the wearer with a reactive field that counters the negative effects of natural or magically controlled winds. The wearer treats all such effects as though she is under the influence of *freedom of movement*.
 
 **Construction**
 
@@ -4588,7 +4588,7 @@ A *bilious bottle* appears to be a tightly stoppered container of water. It can 
 | 5 | The subject takes 1d6 points of cold damage. |
 | 6 | The subject develops a persistent nosebleed, taking 1d4 points nonlethal damage every 10 minutes for the next hour. |
 | 7 | The subject takes 1d6 points of electricity damage. |
-| 8 | The subject experiences a persistent adrenaline rush. For the next 2 hours, subject receives a +2 bonus on Initiative checks but takes a –2 penalty on Dexteritybased skill checks due to uncontrollable trembling. |
+| 8 | The subject experiences a persistent adrenaline rush. For the next 2 hours, subject receives a +2 bonus on Initiative checks but takes a –2 penalty on Dexterity-based skill checks due to uncontrollable trembling. |
 
 **Construction**
 
@@ -4700,7 +4700,7 @@ The wearer can speak the first command word to draw 1 or more charges from the r
 
 The wearer can speak the second command word to imbue herself with a great burst of physical prowess, depleting all remaining charges and gaining an inherent bonus to one physical ability score equal to twice the number of charges used. This bonus lasts until the end of the wearer’s next turn.
 
-The bearer can only use the reservoir if it is held in hand or attached to a held or wielded weapon. A bearer can safely carry only one charged reservoir at a time; any others spontaneously drain their charges in 1d10 rounds, leaving only the highestcharged reservoir intact. A reservoir has no effect if not charged with the wearer’s blood, and cannot be charged by bloodless creatures or those that cannot take Constitution damage.
+The bearer can only use the reservoir if it is held in hand or attached to a held or wielded weapon. A bearer can safely carry only one charged reservoir at a time; any others spontaneously drain their charges in 1d10 rounds, leaving only the highest-charged reservoir intact. A reservoir has no effect if not charged with the wearer’s blood, and cannot be charged by bloodless creatures or those that cannot take Constitution damage.
 
 **Construction**
 
@@ -5330,13 +5330,13 @@ A *chime of storm calling* cannot summon lightning or wind while underground, in
 
 **Requirements** Craft Wondrous Item, *call lightning*, *gust of wind*, *obscuring mist*; **Cost** 3,375 gp
 
-### Chirugeon Cube
+### Chirurgeon Cube
 
 **Aura** moderate transmutation; **CL** 11th
 
 **Slot** none; **Price** 9,800 gp; **Weight** —
 
-This 1-inch steel cube bears a variety of unique, intricate carvings upon each face. On command, the cube sprouts wings and arms and becomes a Diminutive-sized, cube-shaped mechanical construct (treat as a thrush with hardness 10). The creature obeys and serves whoever activated the cube. It understands Common but cannot speak. The *chirurgeon cube* is skilled at healing constructs. As a standard action, the cube can use the magnets and small hooks embedded on its underside to attach itself to a construct and quickly stitch together any torn and broken pieces. This provides the construct with fast healing 2 for as long as the* chirurgeon cube* remains in contact with it. A* chirurgeon cube* can be activated for up to 10 minutes each day, spent in 1-minute increments. If the* chirugeon cube* is broken or destroyed in either form, it is forever ruined.
+This 1-inch steel cube bears a variety of unique, intricate carvings upon each face. On command, the cube sprouts wings and arms and becomes a Diminutive-sized, cube-shaped mechanical construct (treat as a thrush with hardness 10). The creature obeys and serves whoever activated the cube. It understands Common but cannot speak. The *chirurgeon cube* is skilled at healing constructs. As a standard action, the cube can use the magnets and small hooks embedded on its underside to attach itself to a construct and quickly stitch together any torn and broken pieces. This provides the construct with fast healing 2 for as long as the* chirurgeon cube* remains in contact with it. A* chirurgeon cube* can be activated for up to 10 minutes each day, spent in 1-minute increments. If the* chirurgeon cube* is broken or destroyed in either form, it is forever ruined.
 
 **Construction**
 
@@ -5981,7 +5981,7 @@ In addition, as long as there are at least 20 cards remaining in the deck, the e
 
 **Slot** wrists; **Price** 1,000 gp; **Weight** —
 
-This slim black leather bracer fits easily onto the wrist, growing tight against the skin within moments of putting it on. The wearer of a A *decorum band* is aware of any action that could cause a creature’s attitude toward the wearer to shift negatively. He acquires this information prior to performing such an action.
+This slim black leather bracer fits easily onto the wrist, growing tight against the skin within moments of putting it on. The wearer of a *decorum band* is aware of any action that could cause a creature’s attitude toward the wearer to shift negatively. He acquires this information prior to performing such an action.
 
 **Construction**
 
@@ -6607,7 +6607,7 @@ Once per day, an *extraction scarificator* can be used to extract and concentrat
 
 **Slot** none; **Price** 6,000 gp; **Weight** 7 lbs.
 
-This bloodshot eye is larger than a grown man’s fist. Its vivid green iris suggests strange depths, and is unnerving to look at for too long. Once per day you may use it to cast *clairaudiance/clairvoyance*. If you can cast *scrying*, you may use the eye as your focus object for the spell.
+This bloodshot eye is larger than a grown man’s fist. Its vivid green iris suggests strange depths, and is unnerving to look at for too long. Once per day you may use it to cast *clairaudience/clairvoyance*. If you can cast *scrying*, you may use the eye as your focus object for the spell.
 
 **Construction**
 
@@ -7174,7 +7174,7 @@ In all cases, the text is destroyed once drunk, and the knowledge gained fades a
 
 **Slot** eyes; **Price** 8,500 gp; **Weight** —
 
-These simple goggles, made of two emeralds attached to a twin frame, grant the wearer low-light vision and a +5 compentence bonus on Spellcraft checks to identify magic auras and items. If the wearer already has low-light vision, it grants the wearer double the normal range for low-light vision.
+These simple goggles, made of two emeralds attached to a twin frame, grant the wearer low-light vision and a +5 competence bonus on Spellcraft checks to identify magic auras and items. If the wearer already has low-light vision, it grants the wearer double the normal range for low-light vision.
 
 **Construction**
 
@@ -8176,7 +8176,7 @@ The *Kiss of Noctura* can be removed by cutting the flap of skin away, which dea
 
 The dark cosmetic in this small decorative tube is made from finely ground minerals. Favored by desert men and women alike, nonmagical kohl is applied around the eyes and is used to reduce the glare from the desert sun, and cosmetically to cause the whites of the wearer’s eyes to stand out distinctly.
 
-When applied to the eyes, *kohl of uncanny discernment* grants its wearer low-light vision and a +2 competence bonus on Perception checks. If the wearer already has low-light vision, the kohl doubles the distance the wearer can see. The wearer also gains a +2 resistance bonus on saving throws against gaze attacks, patterns, visual effects, and sightbased attacks. These effects last for 1 hour. Applying the kohl is a full-round action, and it must be applied to both eyes to function. An unopened tube of *kohl of uncanny discernment* contains 5 applications.
+When applied to the eyes, *kohl of uncanny discernment* grants its wearer low-light vision and a +2 competence bonus on Perception checks. If the wearer already has low-light vision, the kohl doubles the distance the wearer can see. The wearer also gains a +2 resistance bonus on saving throws against gaze attacks, patterns, visual effects, and sight-based attacks. These effects last for 1 hour. Applying the kohl is a full-round action, and it must be applied to both eyes to function. An unopened tube of *kohl of uncanny discernment* contains 5 applications.
 
 **Construction**
 
@@ -8542,7 +8542,7 @@ Greater agents of a death cult use these silver medallions as keys to their sanc
 
 **Slot** head; **Price** 3,500 gp; **Weight** 2 lbs.
 
-A *mortuary mask* covers the top half of the face, leavrng the mouth and chin exposed. The design of this eerie mask evokes that of a human skull, although some *mortuary masks* have more canine or even demonic features. Regardless of the mask’s appearance, once it is donned, a *mortuary mask* works to enhance the wearer’s presence, making him or her appear more horrific and frightening and granting a resonant tone to the wearer’s voice. These enhancements grant a +3 circumstance bonus on all lntimidate checks made while the mask is worn. In addition to this unnerving effect, a *mortuary mask* also grants constant *deathwatch* while it is worn, allowing the wearer to see the auras of living and dead creatures within 30 feet. The wearer loses the ability if he is blinded or cannot see (such as might occur while in darkness). Furthermore, the mask guides the wearer’s hand against foes who are heavily wounded. When the wearer of a mortuary mask attacks a creature that has 3 or fewer hit points remaining, the wearer gains a +2 insight bonus on the attack roll.
+A *mortuary mask* covers the top half of the face, leaving the mouth and chin exposed. The design of this eerie mask evokes that of a human skull, although some *mortuary masks* have more canine or even demonic features. Regardless of the mask’s appearance, once it is donned, a *mortuary mask* works to enhance the wearer’s presence, making him or her appear more horrific and frightening and granting a resonant tone to the wearer’s voice. These enhancements grant a +3 circumstance bonus on all Intimidate checks made while the mask is worn. In addition to this unnerving effect, a *mortuary mask* also grants constant *deathwatch* while it is worn, allowing the wearer to see the auras of living and dead creatures within 30 feet. The wearer loses the ability if he is blinded or cannot see (such as might occur while in darkness). Furthermore, the mask guides the wearer’s hand against foes who are heavily wounded. When the wearer of a mortuary mask attacks a creature that has 3 or fewer hit points remaining, the wearer gains a +2 insight bonus on the attack roll.
 
 **Construction**
 
@@ -9768,7 +9768,7 @@ Once used, the knot loses its magic and becomes 50 feet of tangle, mundane twine
 
 This beautiful watercolor painting depicts a clear mountain stream flanked by moss-covered stones and dew-drenched ferns. Mountains rise up in the background, casting rippled shadows across the water’s surface. The silver frame is etched with symbols of healing.
 
-By touching the painting while uttering one of three seperate command words, you may cast the following spells: 3/day - maximized *cure light wounds* (13 points); 1/day - maximized *cure moderate wounds* (26 points); 1/week - *heal*.
+By touching the painting while uttering one of three separate command words, you may cast the following spells: 3/day - maximized *cure light wounds* (13 points); 1/day - maximized *cure moderate wounds* (26 points); 1/week - *heal*.
 
 **Construction**
 
@@ -12375,7 +12375,7 @@ Similar in construction to the standard radium rifle, the giant radium rifle off
 
 **Radium Weapons**
 
-Red-planet firearms are stocked with rare local woods. Metal components consist of an alloy of aluminum and steel that exceeds the strength of Earth metals (giving Red-planet firarms a hardness of 12). Radium weapons fire special cartridges that must be manufactured under artificial light, as exposure to sunlight results in an explosion. When the cartridges strike their target they shatter exposing the radium powder within. The moment sunlight strikes this substance it explodes with considerable violence, making the weapons versatile for either direct fire or suppressive fire. Radium weapons follow the general rules for advanced firearms found in the firearm rules.
+Red-planet firearms are stocked with rare local woods. Metal components consist of an alloy of aluminum and steel that exceeds the strength of Earth metals (giving Red-planet firearms a hardness of 12). Radium weapons fire special cartridges that must be manufactured under artificial light, as exposure to sunlight results in an explosion. When the cartridges strike their target they shatter exposing the radium powder within. The moment sunlight strikes this substance it explodes with considerable violence, making the weapons versatile for either direct fire or suppressive fire. Radium weapons follow the general rules for advanced firearms found in the firearm rules.
 
 All radium weapons use radium cartridges for ammunition. As a result. in addition to targeting specific creatures or objects. the wielder may fire a radium weapon at an unoccupied square similar to throwing a splash weapon. All creatures within 15 feet of the targeted square take 2d6 points of bludgeoning, piercing, and slashing damage (Reflex DC 15 half). Radium cartridge damage does not change based on the size of the weapon used to fire them. Radium cartridges cannot be fired effectively in this way outside the rays of the sun, such as underground or at night. Radium cartridges cost 3 gp per cartridge.
 
@@ -12473,7 +12473,7 @@ naval gun, designed for use in the sponsons of World
 
 War I-era tanks such as the Mark IV. The Hotchkiss
 
-6 pounder is a direct-f ire advanced siege f irearm that
+6 pounder is a direct-f ire advanced siege f firearm that
 
 must be mounted in place on a vehicle to be used. It
 
@@ -12849,7 +12849,7 @@ These sling stones require only a touch attack to succeed. When they strike a ta
 
 **Category** Light; **Proficiency** Simple
 
-This wickedly curved sickle is cast in the form of a segmented spider’s leg. It has the same statistics as a normal sickle and can trip opponents, but deals piercing damage rather than slashing damage. The leatherwrapped handle contains a hollow recess that can hold a single dose of poison. Filling the reservoir is a full-round action that carries the usual risks of poisoning yourself. Once filled, the reservoir keeps the blade saturated and viable for up to 2 hours. The first successful attack made with the spider-leg sickle during this time administers and expends the dose of poison. Mog-Lathar’s deacons carry masterwork versions of these weapons. The cult uses blue whinnis poison, and within the radius of the *dreamstone*’s effects the unconsciousness effect may trigger lucid dreaming.
+This wickedly curved sickle is cast in the form of a segmented spider’s leg. It has the same statistics as a normal sickle and can trip opponents, but deals piercing damage rather than slashing damage. The leather-wrapped handle contains a hollow recess that can hold a single dose of poison. Filling the reservoir is a full-round action that carries the usual risks of poisoning yourself. Once filled, the reservoir keeps the blade saturated and viable for up to 2 hours. The first successful attack made with the spider-leg sickle during this time administers and expends the dose of poison. Mog-Lathar’s deacons carry masterwork versions of these weapons. The cult uses blue whinnis poison, and within the radius of the *dreamstone*’s effects the unconsciousness effect may trigger lucid dreaming.
 
 **Mustard Gas**
 
@@ -13119,7 +13119,7 @@ This pale salve is always cool to the touch, regardless of the surrounding tempe
 
 **Category** Tools
 
-These strange books are fashioned from a metallic alloy, the crafting of which is known only to yithians and a very few others. Supposedly taken from the same collection as the fabled elder manuscripts and traded throughout the multiverse, these books are collections of notes recorded by visitors to the yithians’ cities. Each book is written in multiple languages and provides a vast array of information on a specifc topic, but the information it contains is often oddly specifc and lacks context. A single elder record focuses on a single subject within the confines of a single Knowledge skill, such as a presentation on the nature of deep one religious practices in worshiping a Great Old One (Knowledge [religion]), the mechanics of a shoggoth’s biology (Knowledge [dungeoneering]), or the methods of creating portals between worlds (Knowledge [arcana]). By studying a elder record for 8 hours, a reader can attempt a single Knowledge check of the appropriate type when researching the book’s corresponding subject to gain a +10 circumstance bonus on the check.
+These strange books are fashioned from a metallic alloy, the crafting of which is known only to yithians and a very few others. Supposedly taken from the same collection as the fabled elder manuscripts and traded throughout the multiverse, these books are collections of notes recorded by visitors to the yithians’ cities. Each book is written in multiple languages and provides a vast array of information on a specific topic, but the information it contains is often oddly specific and lacks context. A single elder record focuses on a single subject within the confines of a single Knowledge skill, such as a presentation on the nature of deep one religious practices in worshiping a Great Old One (Knowledge [religion]), the mechanics of a shoggoth’s biology (Knowledge [dungeoneering]), or the methods of creating portals between worlds (Knowledge [arcana]). By studying a elder record for 8 hours, a reader can attempt a single Knowledge check of the appropriate type when researching the book’s corresponding subject to gain a +10 circumstance bonus on the check.
 
 ### Emissary’s Sash
 

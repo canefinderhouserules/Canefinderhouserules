@@ -109,7 +109,7 @@ On the other hand, failure might mean a temporary setback when it comes to attai
 
 ## Freeform Events
 
-While you could use many of the existing tools in the the game to run social conflict events, eventually you’ll want to shape the PCs’ encounters around a story you have created or around some unanticipated consequence of the PCs’ past actions. When planning such encounters, you may want to create freeform events that give players a more active role in developing the ongoing story. Since social conflict events are less predictable than combat encounters, the following tools and guidelines can help you ad-lib when your players do something out of the ordinary.
+While you could use many of the existing tools in the game to run social conflict events, eventually you’ll want to shape the PCs’ encounters around a story you have created or around some unanticipated consequence of the PCs’ past actions. When planning such encounters, you may want to create freeform events that give players a more active role in developing the ongoing story. Since social conflict events are less predictable than combat encounters, the following tools and guidelines can help you ad-lib when your players do something out of the ordinary.
 
 ### Creating Actions and Goals
 
@@ -121,7 +121,7 @@ When you’re running a freeform challenge where wits and charm are more effecti
 
 ### Freeform Checks
 
-While the players will usually be using the standard DCs for various skill checks found in the the game rules, sometimes you’ll want them to attempt skill checks for purposes not defined in the rules, but that fit within the scope of the challenge events they’re engaged in. In such cases, Table 4–1: Freeform Check DCs by Level provides some suggested benchmarks for these freeform checks.
+While the players will usually be using the standard DCs for various skill checks found in the game rules, sometimes you’ll want them to attempt skill checks for purposes not defined in the rules, but that fit within the scope of the challenge events they’re engaged in. In such cases, Table 4–1: Freeform Check DCs by Level provides some suggested benchmarks for these freeform checks.
 
 **Table 4–1: Freeform Check DCs by Level**
 
@@ -174,7 +174,7 @@ When designing any type of social conflict event, it’s always best to allow th
 
 ## Social Conflict Events and Advancement
 
-When do social conflict events grant the PCs experience points and treasure? The short answer is whenever you choose. The typical experience point progression in the the game has a baseline assumption that heroic experience increases player characters’ personal power and wealth. A combat-driven campaign is balanced with the assumption that the PCs have a set amount of combat resources, and achieving goals slowly whittles down these resources, making success less certain as time goes on. In this baseline mode of advancement, few if any social conflicts grant experience points or wealth; while this style of play can whittle down some of the PCs’ resources, it doesn’t do so with the regularity of combat encounters. Thus, the rewards for success in social conflict events are either ad hoc or based on the few combat encounters that might be peppered into the story arc. But if you’re running a campaign in which social conflict is the main focus, it’s prudent to discard this baseline mode, and instead grant the PCs experience points and treasure on a more regular basis.
+When do social conflict events grant the PCs experience points and treasure? The short answer is whenever you choose. The typical experience point progression in the game has a baseline assumption that heroic experience increases player characters’ personal power and wealth. A combat-driven campaign is balanced with the assumption that the PCs have a set amount of combat resources, and achieving goals slowly whittles down these resources, making success less certain as time goes on. In this baseline mode of advancement, few if any social conflicts grant experience points or wealth; while this style of play can whittle down some of the PCs’ resources, it doesn’t do so with the regularity of combat encounters. Thus, the rewards for success in social conflict events are either ad hoc or based on the few combat encounters that might be peppered into the story arc. But if you’re running a campaign in which social conflict is the main focus, it’s prudent to discard this baseline mode, and instead grant the PCs experience points and treasure on a more regular basis.
 
 Some of the treasure the PCs gain during social conflict events could be looted from enemies or found during exploration of the social landscape. Most, however, should be gifts from allied contenders, the rewards for shifts in economic stakes, or the culminations of capital gained through bribes, tributes, or even taxes.
 

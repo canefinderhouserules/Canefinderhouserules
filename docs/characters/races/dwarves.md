@@ -10,7 +10,7 @@ Dwarves are a stoic but stern race, ensconced in cities carved from the hearts o
 
 **Male Names**: Dolgrin, Grunyar, Kazmuk, Morgrym, Rogar.
 
-**Female Names**: Agna, Bodill, Ingra, Kotri, Rusilka, Yangrit.
+**Female Names**: Agna, Bodily, Ingra, Kotri, Rusilka, Yangrit.
 
 ## Dwarf Racial Traits
 

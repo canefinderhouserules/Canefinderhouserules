@@ -22,7 +22,7 @@ Benefit: Members of this race gain a +1 natural armor bonus to their Armor Class
 
 Skill Training: Nature Lover (1 RP)
 
-Benefit: Knowledge (Nature) and survival are allways class skills for you.
+Benefit: Knowledge (Nature) and survival are always class skills for you.
 
 Skill Bonus (2 RP)
 

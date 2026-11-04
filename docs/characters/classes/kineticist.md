@@ -150,7 +150,7 @@ The full list of wild talents (simple, utility, infusion and substance infusions
 ## House Rules
 
 !!! warning "House rule"
-    \- Kinetic Blade te permite elegir un arma, que puede incluso ser de 2 manos y beneficiarse de conx1,5 de daño y todos los detalles en si de las armas, exceptuando el daño, el rango/daño critico y el efecto de flail. Puede incluso ser 2 armas o arma doble y dual wieldear, pero esto último divide su daño a la mitad (si solo tenes 1d6, pos 1d3. Los bonus no los divide a la mitad (o sea el de la secondary si a menos que tengas double slice), solo la cantidad de dados, mitad para cada arma). Requieren la proficiency (es decir solo podes convertir tu kinetic blade en un arma con la que seas proficient).
+    \- Kinetic Blade te permite elegir un arma, que puede incluso ser de 2 manos y beneficiarse de conx1,5 de daño y todos los detalles en si de las armas, exceptuando el daño, el rango/daño critico y el efecto de flail. Puede incluso ser 2 armas o arma doble y dual wielder, pero esto último divide su daño a la mitad (si solo tenes 1d6, pos 1d3. Los bonus no los divide a la mitad (o sea el de la secondary si a menos que tengas double slice), solo la cantidad de dados, mitad para cada arma). Requieren la proficiency (es decir solo podes convertir tu kinetic blade en un arma con la que seas proficient).
 
     \- Kinetic Whip simplemente te da +5ft de rango al arma que decidas usar
 

@@ -12,7 +12,7 @@ Se usa el Legendary, con los siguientes cambios. [Shifter (Legendary) \| Library
 
 -- Bat:
 
-Minor Form: You gain blindsense 10ft and +1 to Perception skill checks. At 8th level, the bonues increase to 20ft and +2, and at 13th level it increases to 30ft and +3. Blindsense stacks with the major form.
+Minor Form: You gain blindsense 10ft and +1 to Perception skill checks. At 8th level, the bonuses increase to 20ft and +2, and at 13th level it increases to 30ft and +3. Blindsense stacks with the major form.
 
 -- Bear:
 
@@ -40,7 +40,7 @@ Minor Form: You gain a +4 competence bonus on Knowledge checks. This bonus incre
 
 -- Dragonfly:
 
-Minor Form: Reduces the penalty to mantain a grapple without gaining the grappled condition by -5. At 8th level decreases to -7, and at 13th level decreases to -9.
+Minor Form: Reduces the penalty to maintain a grapple without gaining the grappled condition by -5. At 8th level decreases to -7, and at 13th level decreases to -9.
 
 -- Electric Eel:
 
@@ -132,7 +132,7 @@ Minor Form: You gain 1 additional hit point per Hit Die you have, and treat your
 
 **-- Weretouched:** Sigue limitado a 1 sola minor form, que es lo que le limita en que tipo de animles se puede convertir (solo pudiendo el de esa forma, pero con mas variedad entre distintos tipos de ese mismo animal)
 
---- La Hibrid form sigue con las mismas reglas, pero a lvl 6 puede elegir una hibrid form large, y a lvl 8 una huge, sumando los bonos de stats normales de cambiar de tamaño.
+--- La Hybrid form sigue con las mismas reglas, pero a lvl 6 puede elegir una hybrid form large, y a lvl 8 una huge, sumando los bonos de stats normales de cambiar de tamaño.
 
 --- El DR ahora es igual al nivel.
 

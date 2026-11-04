@@ -44,7 +44,7 @@ Found primarily in the underworld, this fungus takes its name from the bruise-co
 
 **Price** N/A; **Weight** —
 
-**Type** contact or injested; **Save** Fortitude DC 14 (18 if injested)
+**Type** contact or ingested; **Save** Fortitude DC 14 (18 if ingested)
 
 **Onset** 1 minute; **Frequency** 1/hour for 6 hours
 
@@ -112,7 +112,7 @@ This particularly strong coffee is popular throughout the great empire of the ea
 
 **Type** ingested; **Save** Fortitude DC 16
 
-**Onset** consuming one or more alchoholic drink; **Frequency** 1/minute for 6 minutes
+**Onset** consuming one or more alcoholic drink; **Frequency** 1/minute for 6 minutes
 
 **Effect** 1d2 Dexterity damage
 
@@ -264,7 +264,7 @@ Invented as part of a series of dares between feuding goblin camps, this noxious
 
 **Type** ingested; **Save** Fortitude DC 16
 
-**Onset** consuming one or more alchoholic drink; **Frequency** 1/minute for 6 minutes
+**Onset** consuming one or more alcoholic drink; **Frequency** 1/minute for 6 minutes
 
 **Effect** 1d2 Dexterity damage
 

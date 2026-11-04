@@ -89,7 +89,7 @@ Using a hex is a standard action that doesn't provoke an attack of opportunity u
 
 **Healing (Su)**: A shaman soothes the wounds of those she touches. This acts as cure light wounds, using the shaman's caster level. Once a creature has benefited from the healing hex, it cannot benefit from it again for 24 hours. At 5th level, this acts as cure moderate wounds.
 
-**Miifortune (Su)**: The shaman causes a creature within 30 feet to suffer grave misfortune for 1 round. Anytime the creature makes an ability check, attack roll, saving throw, or skill check, it must roll twice and take the worse result. A successful Will saving throw negates this hex. At 8th level and 16th level, the duration of this hex is extended by 1 round. This hex affects all rolls the target must make while it lasts. Whether or not the save is successful, the creature cannot be the target of this hex again for 24 hours.
+**Misfortune (Su)**: The shaman causes a creature within 30 feet to suffer grave misfortune for 1 round. Anytime the creature makes an ability check, attack roll, saving throw, or skill check, it must roll twice and take the worse result. A successful Will saving throw negates this hex. At 8th level and 16th level, the duration of this hex is extended by 1 round. This hex affects all rolls the target must make while it lasts. Whether or not the save is successful, the creature cannot be the target of this hex again for 24 hours.
 
 **Secret (Ex)**: The shaman receives one metamagic feat as a bonus feat. The shaman must meet the prerequisites for the feat.
 

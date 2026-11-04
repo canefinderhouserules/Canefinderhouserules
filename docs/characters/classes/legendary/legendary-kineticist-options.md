@@ -488,7 +488,7 @@ At 15th level, the cavalier gains one composite blast of their choice; it must e
 
 **Notes**
 
-- Book says Extended Metakinesis, but no such thing exists in the referenced books. There is Expanded Metakinesis, and is a feature for for applying metamagic to kinetic blasts, so it should be that one, considering the archetype referenced also refers to expanded metakinesis.
+- Book says Extended Metakinesis, but no such thing exists in the referenced books. There is Expanded Metakinesis, and is a feature for applying metamagic to kinetic blasts, so it should be that one, considering the archetype referenced also refers to expanded metakinesis.
 
 ### Overwhelming Prowess
 

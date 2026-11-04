@@ -38,7 +38,7 @@ At 11th level, a braggart swashbuckler can use her overwhelming ego and self-con
 
 **Massive Ego (Ex)**
 
-At 15th level, while she has at least 1 panache point, a braggart swashbuckler adds her Charisma bonus (if any) as an insight bonus on saving throws against mind-affecting effects. If she has the Steadfast Personality feat, this ability grants her a +2 bonus on saving throws against mind-affecting effects instead. By spending 1 pananche point as an immediate action after making a saving throw against a mind-affecting effect, she can reroll her saving throw.
+At 15th level, while she has at least 1 panache point, a braggart swashbuckler adds her Charisma bonus (if any) as an insight bonus on saving throws against mind-affecting effects. If she has the Steadfast Personality feat, this ability grants her a +2 bonus on saving throws against mind-affecting effects instead. By spending 1 panache point as an immediate action after making a saving throw against a mind-affecting effect, she can reroll her saving throw.
 
 She must use the new result, even if it’s worse. She must use this ability before the result of her saving throw has been revealed.
 
@@ -288,7 +288,7 @@ At 2nd level, whenever an opponent makes an attack of opportunity against a madc
 
 **Tumbling Panache (Ex)**
 
-At 10th level, when a madcap swashbuckler succeeds on an Acrobatics check to tumble through an opponent’s threatened area without provoking an attack of opportunity, she regains 1 panache point. If she succeeds on an Acrobatics check to tumble through an opponent’s space without provoking an attack of opportunity, she regains 2 panache points instead. Tumbling through an helpless or unaware creaure’s threatened area or space or the threatened area or space of an opponent that has fewer Hit Dice than half the swashbuckler’s character level doesn’t restore panache.
+At 10th level, when a madcap swashbuckler succeeds on an Acrobatics check to tumble through an opponent’s threatened area without provoking an attack of opportunity, she regains 1 panache point. If she succeeds on an Acrobatics check to tumble through an opponent’s space without provoking an attack of opportunity, she regains 2 panache points instead. Tumbling through an helpless or unaware creature’s threatened area or space or the threatened area or space of an opponent that has fewer Hit Dice than half the swashbuckler’s character level doesn’t restore panache.
 
 **Overwhelming Bravado (Ex)**
 
@@ -432,7 +432,7 @@ Instead of needing 1 minute to change his personage, he can do so as a full-roun
 
 **Extended Influence (Ex)**
 
-At 18th level, any attitude shift that the phantom swashbuckler causes through use of the Diplomacy or Intimidate skill generally lasts for 1d4 days instead of 1d4 hours, but can last much longer or shorter depending upon the situation (GM discretion). In addition, whenever the swashbuckler uses Intimidate to cause a fear effect, he increases the duration of that fear effect by 50%; for example, a fear effect with a duration of 5 rounds would be increased to to 7 rounds.
+At 18th level, any attitude shift that the phantom swashbuckler causes through use of the Diplomacy or Intimidate skill generally lasts for 1d4 days instead of 1d4 hours, but can last much longer or shorter depending upon the situation (GM discretion). In addition, whenever the swashbuckler uses Intimidate to cause a fear effect, he increases the duration of that fear effect by 50%; for example, a fear effect with a duration of 5 rounds would be increased to 7 rounds.
 
 **Personage Deeds**: A swashbuckler with the phantom personage gains the following deeds when she reaches the appropriate level.
 

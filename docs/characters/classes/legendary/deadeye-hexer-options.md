@@ -78,7 +78,7 @@ In addition to the grand bullet hexes provided below, the following grand witch 
 **Level 10**
 
 *Deadeye Shot (Ex):* At 10th level, the deadeye hexer can spend one point of mana to automatically confirm a critical hit against a target. Performing this deed does not allow the deadeye hexer to regain mana from confirming a critical hit.
-*Eldritch Reload (Su):* At 10th level, the deadeye hexer can spend one point of mana to reload a firearm as a swift action. One dose of powder and a bullet are conjured into the firearm. These remain in the firearm until it is fired. If they leave the gun by any means other than being fired, they disappear. Alternately, a bullet and powder or alchemical cartridge that the deadye hexer carries on his person can be magically loaded into the gun. The deadeye hexer does not need a free hand to reload in this fashion and this action does not provoke attacks of opportunity.
+*Eldritch Reload (Su):* At 10th level, the deadeye hexer can spend one point of mana to reload a firearm as a swift action. One dose of powder and a bullet are conjured into the firearm. These remain in the firearm until it is fired. If they leave the gun by any means other than being fired, they disappear. Alternately, a bullet and powder or alchemical cartridge that the deadeye hexer carries on his person can be magically loaded into the gun. The deadeye hexer does not need a free hand to reload in this fashion and this action does not provoke attacks of opportunity.
 *Pellet Blast (Su):* At 10th level, the deadeye hexer can spend one point of mana to cause a single bullet fired from his firearm to turn into a spray of pellets in a 15-foot cone. This provides the firearm with the scatter weapon quality for that particular shot. If the loaded bullet was crafted of a special material or possessed a particular property— magical or otherwise—then those properties apply to the pellets. If this deed is used in conjunction with a bullet hex that affects a struck target, the hex still only applies to one target, but the deadeye hexer can apply it to any target within the area of effect that is struck by the pellets.
 
 **Level 14**
@@ -95,7 +95,7 @@ In addition to the grand bullet hexes provided below, the following grand witch 
 
 ### Deadeye Hexer Patron
 
-At 1st level, the deadeye hexer selects a patron. It is this mysterious force that provides the spirit of the deadeye hexer’s firearm familiar and thus his powers. At 3rd level, and every 3 levels thereafter, a deadeye hexer’s patron adds a new spell to the deadeye hexer’s spells known. These spells are automatically added to to the list of spells stored by the firearm familiar, and are considered spells of the highest level the deadeye hexer can cast when he attains them. (Spells gained at 3rd level are 1st level spells, spells gained at 6th are 2nd level spells, etc.) The deadeye hexer may choose one of the patrons below. It is up to the GM and the deadeye hexer’s player to decide upon the patron’s actual name.
+At 1st level, the deadeye hexer selects a patron. It is this mysterious force that provides the spirit of the deadeye hexer’s firearm familiar and thus his powers. At 3rd level, and every 3 levels thereafter, a deadeye hexer’s patron adds a new spell to the deadeye hexer’s spells known. These spells are automatically added to the list of spells stored by the firearm familiar, and are considered spells of the highest level the deadeye hexer can cast when he attains them. (Spells gained at 3rd level are 1st level spells, spells gained at 6th are 2nd level spells, etc.) The deadeye hexer may choose one of the patrons below. It is up to the GM and the deadeye hexer’s player to decide upon the patron’s actual name.
 
 **Legendary Hybrids: Deadeye Hexer**
 
@@ -140,7 +140,7 @@ The firearm familiar is a special type of intelligent magical weapon, and gains 
 | 17th-18th | +5 | 14 | — |
 | 19th-20th | +5 | 15 | — |
 
-*Enhancement Bonus (Su)*: As the deadeye hexer increases in level, his firearm familiar becomes a magical weapon, gaining a +1 enhancement bonus. At 5th level and above, whenever the firearm familiar’s enhancement bonus increases, the deadye hexer can choose instead to apply a special weapon ability. The deadeye hexer can choose a special weapon ability from the following: *bane*, *cunning*, *distance*, *ghost touch*, *lucky*, *planar*, *reliable*, or *seeking*. A deadeye hexer with the Craft Magic Arms and Armor feat can add additional enhancement bonuses or abilities as per the magic item crafting rules.
+*Enhancement Bonus (Su)*: As the deadeye hexer increases in level, his firearm familiar becomes a magical weapon, gaining a +1 enhancement bonus. At 5th level and above, whenever the firearm familiar’s enhancement bonus increases, the deadeye hexer can choose instead to apply a special weapon ability. The deadeye hexer can choose a special weapon ability from the following: *bane*, *cunning*, *distance*, *ghost touch*, *lucky*, *planar*, *reliable*, or *seeking*. A deadeye hexer with the Craft Magic Arms and Armor feat can add additional enhancement bonuses or abilities as per the magic item crafting rules.
 
 *Alertness (Ex)*: While wielding his firearm familiar, the deadeye hexer gains the Alertness feat.
 

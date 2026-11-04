@@ -27,7 +27,7 @@
 
 1- Vanish. \[Swift\]
 
-2- Invisiblity. \[Swift\]
+2- Invisibility. \[Swift\]
 
 3- Disguise Self at will. \[Standard\]
 
