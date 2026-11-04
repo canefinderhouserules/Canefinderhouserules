@@ -577,3 +577,91 @@ The following text is the property of Wizards of the Coast, Inc. and is Copyrigh
     Pathfinder Adventure Path #2: The Skinsaw Murders © 2007, Paizo Publishing, LLC; Author: Richard Pett.
 
     Pathfinder Adventure Path #1: Burnt Offerings © 2007, Paizo Publishing, LLC; Author: James Jacobs.
+
+    Pathfinder Adventure Path #141: Last Watch © 2019, Paizo Inc.; Author: Larry Wilhelm.
+
+    Pathfinder Adventure Path #138: Rise of New Thassilon © 2019, Paizo Inc.; Author: Greg A. Vaughan.
+
+    Pathfinder Adventure Path #137: The City Outside of Time © 2018, Paizo Inc.; Authors: Amanda Hamon, Mikko Kallio, Gregory Hanigan, and John Compton.
+
+    Pathfinder Adventure Path #136: Temple of the Peacock Spirit © 2018, Paizo Inc.; Authors: Jason Keeley, John Compton, James Jacobs, Luis Loza, Dan Cascone, and Nathan King.
+
+    Pathfinder Adventure Path #127: Crownfall © 2018, Paizo Inc.; Author: Thurston Hillman.
+
+    Pathfinder Adventure Path #126: Beyond the Veiled Past © 2018, Paizo Inc.; Authors: Thurston Hillman, Robert Brookes, Eleanor Ferron, Crystal Malarsky, and Scott Sharplin.
+
+    Pathfinder Adventure Path #125: Tower of the Drowned Dead © 2017, Paizo Inc.; Author: Ron Lundeen.
+
+    Pathfinder Adventure Path #122: Into the Shattered Continent © 2017, Paizo Inc.; Author: Robert Brookes.
+
+    Pathfinder Adventure Path #120: Vault of the Onyx Citadel © 2017, Paizo Inc.; Author: Larry Wilhelm.
+
+    Pathfinder Adventure Path #112: The Whisper Out of Time © 2016, Paizo Inc.; Author: Richard Pett.
+
+    Pathfinder Adventure Path #111: Dreams of the Yellow King © 2016, Paizo Inc.; Author: Ron Lundeen.
+
+    Pathfinder Adventure Path #108: Hell Comes to Westcrown © 2016, Paizo Inc.; Author: Ron Lundeen.
+
+    Pathfinder Adventure Path #106: For Queen and Empire © 2016, Paizo Inc.; Author: Stephen Radney-MacFarland.
+
+    Pathfinder Adventure Path #104: Wrath of Thrune © 2016, Paizo Inc.; Author: Thurston Hillman.
+
+    Pathfinder Adventure Path #101: The Kintargo Contract © 2016, Paizo Inc.; Author: Jim Groves.
+
+    Pathfinder Adventure Path #100: A Song of Silver © 2015, Paizo Inc.; Author: James Jacobs.
+
+    Pathfinder Adventure Path #98: Turn of the Torrent © 2015, Paizo Inc.; Author: Mike Shel.
+
+    Pathfinder Adventure Path #96: Shadow of the Storm Tyrant © 2015, Paizo Inc.; Author: Tito Leati.
+
+    Pathfinder Adventure Path #94: Ice Tomb of the Giant Queen © 2015, Paizo Inc.; Author: Jim Groves.
+
+    Pathfinder Adventure Path #87: The Choking Tower © 2014, Paizo Publishing, LLC; Author: Ron Lundeen.
+
+    Pathfinder Adventure Path #84: Pyramid of the Sky Pharaoh © 2014, Paizo Publishing, LLC; Author: Mike Shel.
+
+    Pathfinder Adventure Path #83: The Slave Trenches of Hakotep © 2014, Paizo Publishing, LLC; Author: Michael Kortes.
+
+    Pathfinder Adventure Path #79: The Half-Dead City © 2014, Paizo Publishing, LLC; Author: Jim Groves.
+
+    Pathfinder Adventure Path #76: The Midnight Isles © 2013, Paizo Publishing, LLC; Authors: James Jacobs and Greg A. Vaughan.
+
+    Pathfinder Adventure Path #70: The Frozen Stars © 2013, Paizo Publishing, LLC; Author: Matthew Goodall.
+
+    Pathfinder Adventure Path #66: The Dead Heart of Xin © 2013, Paizo Publishing, LLC; Author: Brandon Hodge.
+
+    Pathfinder Adventure Path #63: The Asylum Stone © 2012, Paizo Publishing, LLC; Author: James L. Sutter.
+
+    Pathfinder Adventure Path #59: The Price of Infamy © 2012, Paizo Publishing, LLC; Author: Tim Hitchcock.
+
+    Pathfinder Adventure Path #57: Tempest Rising © 2012, Paizo Publishing, LLC; Author: Matthew Goodall.
+
+    Pathfinder Adventure Path #53: Tide of Honor © 2012, Paizo Publishing, LLC; Author: Tito Leati.
+
+    Pathfinder Adventure Path #52: Forest of Spirits © 2011, Paizo Publishing, LLC; Author: Richard Pett.
+
+    Pathfinder Adventure Path #50: Night of Frozen Shadows © 2011, Paizo Publishing, LLC; Author: Greg A. Vaughan.
+
+    Pathfinder Adventure Path #49: The Brinewall Legacy © 2011, Paizo Publishing, LLC; Author: James Jacobs.
+
+    Pathfinder Adventure Path #48: Shadows of Gallowspire © 2011, Paizo Publishing, LLC; Author: Brandon Hodge.
+
+    Pathfinder Adventure Path #47: Ashes at Dawn © 2011, Paizo Publishing, LLC; Author: Neil Spicer.
+
+    Pathfinder Adventure Path #46: Wake of the Watcher © 2011, Paizo Publishing, LLC; Author: Greg A. Vaughan.
+
+    Pathfinder Adventure Path #45: Broken Moon © 2011, Paizo Publishing, LLC; Author: Tim Hitchcock.
+
+    Pathfinder Adventure Path #38: Racing to Ruin © 2010, Paizo Publishing, LLC; Author: Tim Hitchcock.
+
+    Pathfinder Adventure Path #31: Stolen Land © 2010, Paizo Publishing, LLC; Author: Tim Hitchcock.
+
+    Pathfinder Adventure Path #27: What Lies in Dust © 2009, Paizo Publishing, LLC; Author: Michael Kortes.
+
+    Pathfinder Adventure Path #22: The End of Eternity © 2009, Paizo Publishing, LLC; Author: Jason Nelson.
+
+    Pathfinder Adventure Path #15: The Armageddon Echo © 2008, Paizo Publishing, LLC; Author: Jason Bulmahn.
+
+    Pathfinder Adventure Path #11: Skeletons of Scarwall © 2008, Paizo Publishing, LLC; Author: Greg A. Vaughan.
+
+    Pathfinder Adventure Path #10: A History of Ashes © 2008, Paizo Publishing, LLC; Author: Michael Kortes.
