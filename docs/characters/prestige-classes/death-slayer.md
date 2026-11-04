@@ -49,9 +49,9 @@ The death slayer's class skills (and the key ability for each skill) are Disguis
 
 ### Class Features
 
-**Favored Weapon**: With the GM’s approval, the sawtooth sabre can be swapped for another weapon that reasonably suits some other fitting deity.
-
 The following are class features of the death slayer prestige class.
+
+**Favored Weapon**: With the GM’s approval, the sawtooth sabre can be swapped for another weapon that reasonably suits some other fitting deity.
 
 **Channel Energy (Su)**: At 1st level, a death slayer gains the power to harm undead with positive energy. This ability functions as a cleric’s ability to channel positive energy to deal damage to undead (but not to heal living creatures), and it counts as channel energy for the purposes of qualifying for feats or determining effects that rely on channel energy. A death slayer uses her class level as her effective cleric level when channeling energy. She can channel energy a number of times per day equal to 3 + her Charisma modifier. She deals 1d10 points of damage at 1st level and an additional 1d10 points of damage every 2 levels thereafter. Death slayer levels stack with levels in any class that grants channel energy (if any) for the purpose of determining the number of damage dice her channel energy ability deals to undead, but this channel energy can never do anything other than harm undead. An undead creature that takes damage from this channeled energy can attempt a Will save to halve the damage; the DC of this save is equal to 10 + the death slayer’s class level + her Charisma modifier. The death slayer must be able to present either her holy symbol or a [sawtooth sabre](../../equipment/gear-aa-armory.md) to use this ability.
 

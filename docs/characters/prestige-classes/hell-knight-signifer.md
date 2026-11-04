@@ -59,8 +59,6 @@ The following are class features of the hell knight signifer prestige class.
 
 **Weapon and Armor Proficiency**: A hell knight signifer gains proficiency with heavy armor and with one of his order’s favored weapons (see Order below).
 
-**Aligned Class (Ex)**: At 2nd level, a hell knight signifer must choose a class they belonged to before adding the prestige class to be their aligned class. At 2nd level and every 2 levels thereafter, they gain the class features of an additional level of their aligned class. They still retain the Hit Dice, base attack bonus, saving throw bonuses, and skill ranks of the prestige class.
-
 **Bonus Feat**: At 1st level, a divine caster gains Warrior Priest as a bonus feat, and an arcane caster gains Arcane Armor Training as a bonus feat.
 
 **Aura of Law (Ex)**: A hell knight signifer’s lawful aura (see the *detect law* spell) functions as that of a cleric whose level is equal to the signifer’s character level.
@@ -76,6 +74,8 @@ The following are class features of the hell knight signifer prestige class.
 **Signifer Mask (Su)**: Upon initiation, a hell knight signifer receives a mask, often devoid of eyeholes or other personal features. This mask doesn’t obscure the signifer’s vision, and while wearing it he gains a +2 competence bonus on Sense Motive checks and on saving throws against spells and abilities that rely on visual effects.
 
 A signifer with a bonded object from the arcane bond class feature can perform a special ritual that costs 500 gp and takes 8 hours to complete. This ritual converts the signifer’s mask into his new bonded object, which takes up the head slot. In this case, his signifer levels stack with levels from the class that grants the arcane bond for determining what additional magical abilities can be added to the bonded object.
+
+**Aligned Class (Ex)**: At 2nd level, a hell knight signifer must choose a class they belonged to before adding the prestige class to be their aligned class. At 2nd level and every 2 levels thereafter, they gain the class features of an additional level of their aligned class. They still retain the Hit Dice, base attack bonus, saving throw bonuses, and skill ranks of the prestige class.
 
 **Arcane Armor Expertise (Ex)**: At 2nd level, if a hell knight signifer has the Arcane Armor Training feat, he gains Arcane Armor Mastery as a bonus feat. At 5th level, the action required to use this feat changes from a swift action to a free action.
 

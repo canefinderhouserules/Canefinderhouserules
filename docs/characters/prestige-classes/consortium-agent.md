@@ -43,13 +43,13 @@ The consortium agent's class skills (and the key ability for each skill) are Blu
 
 ### Class Features
 
-**Aligned Class (Ex)**: At 2nd level, a consortium agent must choose a class they belonged to before adding the prestige class to be their aligned class. They gain all the class features of this class, essentially adding every consortium agent level beyond 1st to their aligned class to determine what class features they gain. They still retain the Hit Dice, base attack bonus, saving throw bonuses, and skill ranks of the prestige class, but gain all other class features of their aligned class as well as those of this prestige class.
-
 The following are class features of the consortium agent prestige class.
 
 **Trap Sense (Ex)**: A consortium agent gains a +1 bonus to her AC and on Reflex saves to avoid traps; this bonus increases by 1 at 4th level and every 3 levels thereafter. This ability stacks with any trap sense bonuses that are gained from other classes.
 
 **Trapfinding (Ex)**: This ability functions as per the rogue class feature. Levels in consortium agent stack with levels from any other class that grants this ability for the purposes of determining a consortium agent’s total trapfinding bonus.
+
+**Aligned Class (Ex)**: At 2nd level, a consortium agent must choose a class they belonged to before adding the prestige class to be their aligned class. They gain all the class features of this class, essentially adding every consortium agent level beyond 1st to their aligned class to determine what class features they gain. They still retain the Hit Dice, base attack bonus, saving throw bonuses, and skill ranks of the prestige class, but gain all other class features of their aligned class as well as those of this prestige class.
 
 **Agency Secrets**: At 2nd level and every 2 levels thereafter, a consortium agent gains one of the following agency secrets. A consortium agent can’t select an individual agency secret more than once (unless otherwise stated in the secret’s text).
 

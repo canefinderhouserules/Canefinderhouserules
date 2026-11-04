@@ -69,17 +69,17 @@ The following are class features of the nomad horse rider prestige class.
 
 **Djinni’s Blessing (Su)**: When a nomad horse rider reaches 4th level, her mount receives the blessing of the djinn, making it swift and tireless. The mount’s speed increases by 10 feet, it doesn’t take movement penalties from wearing barding, and it can carry a second rider without penalties. When she reaches 8th level, her mount’s speed increases by an additional 10 feet.
 
-**Marid’s Blessing (Su)**: At 6th level, a nomad horse rider’s mount receives the blessing of the marids, making it an agile partner with a flowing pace. Anyone riding the mount does not need to attempt concentration checks normally required because of the mount’s movement. The mount gains a +2 racial bonus on Reflex saves.
-
-**Trampling Gallop (Ex)**: At 6th level, a nomad horse rider’s mount gains the trample universal monster ability, but only when commanded by her as a full-round action. Damage dealt by the trample is equal to that of the horse’s hoof attack plus 1-1/2 times its Strength modifier.
-
-**All Eyes on Me (Su)**: At 7th level, three times per day as a swift action, a nomad horse rider can call out a challenge. Each opponent within 30 feet must succeed at a Will save (DC = 10 + her character level + her Charisma bonus) or be distracted by the display until the beginning of her next turn. Any creature that fails is considered to be flat-footed and takes a –2 penalty to AC against attacks from her allies. This is a mind-affecting, visual effect.
-
 **Efreeti’s Blessing (Su)**: When a nomad horse rider reaches 5th level, her mount receives the blessing of the efreet, gaining fire resistance 5. It also deals an additional 1d6 points of fire damage with its hoof attacks.
 
 ??? note "Original rule"
 
     **Efreeti’s Blessing (Su)**: When a nomad horse rider reaches 8th level, her mount receives the blessing of the efreet, gaining fire resistance 5. It also deals an additional 1d6 points of fire damage with its hoof attacks.
+
+**Marid’s Blessing (Su)**: At 6th level, a nomad horse rider’s mount receives the blessing of the marids, making it an agile partner with a flowing pace. Anyone riding the mount does not need to attempt concentration checks normally required because of the mount’s movement. The mount gains a +2 racial bonus on Reflex saves.
+
+**Trampling Gallop (Ex)**: At 6th level, a nomad horse rider’s mount gains the trample universal monster ability, but only when commanded by her as a full-round action. Damage dealt by the trample is equal to that of the horse’s hoof attack plus 1-1/2 times its Strength modifier.
+
+**All Eyes on Me (Su)**: At 7th level, three times per day as a swift action, a nomad horse rider can call out a challenge. Each opponent within 30 feet must succeed at a Will save (DC = 10 + her character level + her Charisma bonus) or be distracted by the display until the beginning of her next turn. Any creature that fails is considered to be flat-footed and takes a –2 penalty to AC against attacks from her allies. This is a mind-affecting, visual effect.
 
 **Inspiring Leader (Su)**: At 9th level, a nomad horse rider can call out encouragement to her allies as a move action, bolstering their courage. Allies within 60 feet who can hear her receive a morale bonus equal to her Charisma bonus on attack and damage rolls with weapons for 1 round. She can use this ability three times per day. This is a mind-affecting, language-dependent effect.
 

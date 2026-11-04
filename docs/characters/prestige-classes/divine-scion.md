@@ -57,13 +57,13 @@ The following are class features of the divine scion prestige class.
 
 **Weapon and Armor Proficiency**: A divine scion gains no additional weapon or armor proficiencies. She can select Greater Weapon Focus, Weapon Specialization, and Greater Weapon Specialization as feats once she qualifies for them normally (although she does not have to fulfill the prerequisite of having fighter levels in order to select these feats).
 
-**Aligned Class (Ex)**: At 2nd level, a divine scion must choose a class they belonged to before adding the prestige class to be their aligned class. At 2nd level and every 2 levels thereafter, they gain the class features of an additional level of their aligned class. They still retain the Hit Dice, base attack bonus, saving throw bonuses, and skill ranks of the prestige class.
-
 **Spells**: When a divine scion gains a level, she gains new spells per day as if she had also gained a level in a divine spellcasting class she belonged to before she added the prestige class. She does not, however, gain any other benefits a character of that class would have gained. This essentially means that she adds the level of divine scion to the level of whatever other divine spellcasting class she has.
 
 If the character had more than one divine spellcasting class before she became a divine scion, she must choose which class she adds each divine scion level to for the purposes of determining spells per day.
 
 **Opposition Alignment (Ex)**: A divine scion must pick one of the following alignment subtypes as her opposition alignment: chaotic, evil, good, or lawful. The opposition alignment she chooses must be one that she does not possess as part of her own alignment. She gains a +1 bonus on caster level checks made to overcome spell resistance of creatures with that alignment subtype.
+
+**Aligned Class (Ex)**: At 2nd level, a divine scion must choose a class they belonged to before adding the prestige class to be their aligned class. At 2nd level and every 2 levels thereafter, they gain the class features of an additional level of their aligned class. They still retain the Hit Dice, base attack bonus, saving throw bonuses, and skill ranks of the prestige class.
 
 **Domain Specialization (Su)**: At 3rd level, a divine scion selects a domain granted by her deity—this domain becomes the divine scion's chosen specialization in representing her deity. Although most divine scions pick domains that they've gained from other classes (such as cleric), they don't have to do so. Every time a divine scion casts a domain spell from her specialized domain, she heals damage equal to twice the spell's level.
 

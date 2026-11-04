@@ -53,9 +53,9 @@ The darechaser's class skills (and the key ability for each skill) are Acrobatic
 
 ### Class Features
 
-**Athletic**: At 1st level, a darechaser gains Athletic as a bonus feat.
-
 The following are class features of the darechaser prestige class.
+
+**Athletic**: At 1st level, a darechaser gains Athletic as a bonus feat.
 
 **Adrenaline Rush (Ex)**: A darechaser can call upon her inner reserves of strength and speed as a free action to overcome otherwise insurmountable obstacles. A darechaser can harness this energy for a number of rounds per day equal to 4 + her Constitution modifier. At each level after 1st, she can use adrenaline rush for an additional 2 rounds. Temporary increases to Constitution do not allow her to use this ability for additional rounds per day. If she has the rage class feature, she can expend rounds of rage to activate and sustain her adrenaline rush (e.g. for making Constitution checks). While experiencing an adrenaline rush, a darechaser gains a +1 bonus on Acrobatics, Climb, Constitution, Dexterity, Escape Artist, Ride, Strength, and Swim checks. This bonus increases by 1 at 3rd level and every 2 levels thereafter (maximum +5). She also gains a +2 morale bonus to all physical ability scores, which improves to +4 at 6th level. A darechaser can end her adrenaline rush as a free action and is fatigued afterward for a number of rounds equal to double the number of rounds she used this ability. A darechaser can't begin an adrenaline rush while fatigued or exhausted. If she falls unconscious, she can choose to continue her adrenaline rush.
 

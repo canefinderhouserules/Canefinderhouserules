@@ -57,11 +57,11 @@ The following are class features of the crimson templar prestige class.
 
 **Shield of Wings (Su)**: At 1st level, a crimson templar gains fire resistance 5. This increases to fire resistance 10 at 3rd level, increases to fire resistance 30 at 6th level, and becomes immunity to fire at 9th level. As a swift action, a crimson templar can manifest a set of five burning wings from his back to gain a fly speed of 40 feet (average maneuverability) for a number of minutes equal to his crimson templar level. He can dismiss these wings as a move action, but any remaining duration is lost. While the crimson templar has these wings, and for a number of minutes equal to the number of minutes the crimson templar had wings after the duration ends or the wings are dismissed, the crimson templar does not have the fire resistance or immunity granted by shield of wings.
 
+**Bonus Feat**: At 1st level, 3rd level, 4th level, 6th level, 7th level, 9th level, and 10th level, the crimson templar gains a bonus combat feat. He must still meet any prerequisites for these bonus feats.
+
 **Ruthlessness (Ex)**: At 2nd level, a crimson templar can use a bastard sword to deliver a coup de grace to a helpless opponent as a standard action.
 
 **Sneak Attack (Ex)**: This ability is like the rogue ability of the same name. The extra damage dealt is 1d6 at 2nd level and increases by 1d6 every 3 levels thereafter. If a crimson templar gains sneak attack from another source, the bonuses to damage stack.
-
-**Bonus Feat**: At 1st level, 3rd level, 4th level, 6th level, 7th level, 9th level, and 10th level, the crimson templar gains a bonus combat feat. He must still meet any prerequisites for these bonus feats.
 
 **Heavenly Fire (Su)**: At 4th level, the crimson templar can incinerate unaware evil foes with pure celestial flame. If the crimson templar deals sneak attack damage to a creature he has successfully used his fiendish studies ability on, the sneak attack wreathes the target in crimson fire. The target must attempt a Fortitude saving throw (DC = 10 + the crimson templar's class level + his Charisma modifier). If the target fails this save, it takes an additional 1d6 points of damage per class level the crimson templar has. Half of this damage is fire damage, but the other half results directly from divine power and is therefore not subject to being reduced by resistance or immunity to fire-based attacks. On a successful save, the target takes the sneak attack damage as normal and half of the heavenly fire damage. A crimson templar can use heavenly fire a number of times per day equal to his crimson templar level.
 

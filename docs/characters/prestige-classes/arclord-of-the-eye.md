@@ -53,13 +53,13 @@ The following are class features of the arclord of the eye prestige class.
 
 **Weapon and Armor Proficiency**: An arclord gains no additional weapon or armor proficiencies.
 
-**Aligned Class (Ex)**: At 2nd level, a arclord of the eye must choose a class they belonged to before adding the prestige class to be their aligned class. They gain all the class features of this class, essentially adding every arclord of the eye level beyond 1st to their aligned class to determine what class features they gain. They still retain the Hit Dice, base attack bonus, saving throw bonuses, and skill ranks of the prestige class, but gain all other class features of their aligned class as well as those of this prestige class.
-
-**Arcane Sight**: *Arcane sight* is a 1st-level spell for an arclord of the eye.
-
 **Mystic Pedagogue (Ex)**: An arclord adds a bonus equal to 1/2 his class level on Spellcraft checks to learn a wizard spell or craft a magical item.
 
 **Third Eye (Su)**: An arclord can use his Eye of the Arclord feat one additional time per day, plus one additional time per day for every two levels beyond 1st (three times per day at 3rd level, and so on). In addition, while the eye is open, the arclord can use the aid another action to grant an adjacent wizard a +1 bonus to her caster level and a +2 circumstance bonus on concentration checks for the next wizard spell she casts before the beginning of the arclord’s next turn.
+
+**Aligned Class (Ex)**: At 2nd level, a arclord of the eye must choose a class they belonged to before adding the prestige class to be their aligned class. They gain all the class features of this class, essentially adding every arclord of the eye level beyond 1st to their aligned class to determine what class features they gain. They still retain the Hit Dice, base attack bonus, saving throw bonuses, and skill ranks of the prestige class, but gain all other class features of their aligned class as well as those of this prestige class.
+
+**Arcane Sight**: *Arcane sight* is a 1st-level spell for an arclord of the eye.
 
 **Artificer’s Touch (Sp)**: At 2nd level, an arclord can expend one use of his hand of the apprentice to use the Artifice domain’s artificer’s touch power, using his caster level as his cleric level.
 

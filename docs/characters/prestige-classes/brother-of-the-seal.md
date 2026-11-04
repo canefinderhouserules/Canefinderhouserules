@@ -51,11 +51,11 @@ The following are class features of the brother of the seal prestige class.
 
 **Weapon and Armor Proficiency**: A Brother of the Seal gains no additional weapon or armor proficiencies.
 
-**Aligned Class (Ex)**: At 2nd level, a brother of the seal must choose a class they belonged to before adding the prestige class to be their aligned class. At 2nd level and every 2 levels thereafter, they gain the class features of an additional level of their aligned class. They still retain the Hit Dice, base attack bonus, saving throw bonuses, and skill ranks of the prestige class.
-
 **Unarmed Combat (Ex)**: A Brother of the Seal’s class levels stack with any monk levels for the purposes of determining his flurry of blows, stunning fist, and unarmed strike class features (including determining damage dealt by his unarmed strike attacks).
 
 **Water Splitting Stone (Ex)**: When attacking an object, a Brother of the Seal ignores 1 point of hardness per class level.
+
+**Aligned Class (Ex)**: At 2nd level, a brother of the seal must choose a class they belonged to before adding the prestige class to be their aligned class. At 2nd level and every 2 levels thereafter, they gain the class features of an additional level of their aligned class. They still retain the Hit Dice, base attack bonus, saving throw bonuses, and skill ranks of the prestige class.
 
 **Gatekeeper (Sp)**: At 2nd level, a Brother of the Seal may select either *hold portal* or *arcane lock*, and he gains the ability to cast the selected spell once per day. Once made, this choice cannot be reversed. At 6th level, and again at 10th level, a Brother of the Seal may cast the selected spell an additional time per day.
 

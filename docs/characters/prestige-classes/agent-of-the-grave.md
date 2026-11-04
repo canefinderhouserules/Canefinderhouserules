@@ -36,8 +36,6 @@ The agent of the grave’s class skills are Bluff (Cha), Heal (Wis), Intimidate 
 
 **Weapon and Armor Proficiency**: An agent of the grave gains no proficiency with any weapon or armor.
 
-**Aligned Class (Ex)**: At 2nd and 4th level, an agent of the grave gains the class features of an additional level of a class they belonged to before adding the prestige class.
-
 **Spells per Day**: At every level, an agent of the grave gains new spells per day (and spells known, if applicable) and an increased effective caster level as if they had also gained a level in a spellcasting class they belonged to before adding the prestige class. They gain no other benefit of that class from this ability.
 
 ??? note "Original rule"
@@ -53,6 +51,8 @@ The agent of the grave’s class skills are Bluff (Cha), Heal (Wis), Intimidate 
     **Lich’s Touch (Su)**: The touch deals 1d6 points of negative energy damage per level.
 
 **Unholy Fortitude (Su)**: Starting with the hit points you roll for your first agent of the grave level, and for each level in any class after that, you can add either your Constitution bonus or your Charisma bonus to the hit points gained that level.
+
+**Aligned Class (Ex)**: At 2nd and 4th level, an agent of the grave gains the class features of an additional level of a class they belonged to before adding the prestige class.
 
 **Undead Manipulator (Ex)**: Your mind-affecting spells and spell-like abilities treat undead as their original type (for example, *charm person* works on a humanoid zombie).
 

@@ -57,11 +57,11 @@ The following are class features of the envoy of balance prestige class.
 
 **Weapon and Armor Proficiency**: An envoy of balance gains no additional weapon or armor proficiencies.
 
-**Aligned Class (Ex)**: At 2nd level, a envoy of balance must choose a class they belonged to before adding the prestige class to be their aligned class. At 2nd level and every 2 levels thereafter, they gain the class features of an additional level of their aligned class. They still retain the Hit Dice, base attack bonus, saving throw bonuses, and skill ranks of the prestige class.
-
 **Spells per Day**: When an envoy of balance gains a level, she gains new spells per day as if she had also gained a level in a spellcasting class she belonged to before adding the prestige class. She does not, however, gain any other benefits a character of that class would have gained, except for additional spells per day, spells known (if a spontaneous spellcaster), and an increased effective level of spellcasting. If a character has more than one spellcasting class, she must decide to which class she adds the new level for the purpose of determining spells per day.
 
 **Incisive Spells (Su)**: An envoy of balance gains a +1 bonus on caster level checks to overcome the spell resistance of creatures with an alignment subtype. This bonus increases to +2 at 9th level.
+
+**Aligned Class (Ex)**: At 2nd level, a envoy of balance must choose a class they belonged to before adding the prestige class to be their aligned class. At 2nd level and every 2 levels thereafter, they gain the class features of an additional level of their aligned class. They still retain the Hit Dice, base attack bonus, saving throw bonuses, and skill ranks of the prestige class.
 
 **Endowment (Su)**: At 2nd level and again at 4th, 6th, and 8th level, an envoy of balance gains one of the following endowments. He can swap an endowment for a channel feat, metamagic feat, or summoning feat.
 

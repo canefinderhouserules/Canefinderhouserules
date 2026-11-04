@@ -40,13 +40,13 @@ The halfling opportunist’s class skills are Acrobatics (Dex), Bluff (Cha), Cli
 
 **Defensive Combat Training**: At 1st level, you gain Defensive Combat Training as a bonus feat.
 
-**Aligned Class (Ex)**: At 2nd and 4th level, you gain the class features of an additional level of a class you belonged to before adding the prestige class. You still retain the Hit Dice, base attack bonus, saving throw bonuses, and skill ranks of the prestige class.
-
 **Exploitive Maneuver (Ex)**: When an enemy that can reach you acts in combat, you can immediately take advantage of it, as though the enemy were using aid another on your behalf. You must succeed at a combat maneuver check against the enemy’s CMD, made as an immediate action. The GM may let you substitute another ability modifier for Strength, such as Dexterity or Charisma. On a success, on your next turn you gain the aid another bonus on your action and subtract that same bonus from the enemy’s roll for that action. The GM decides whether the enemy’s action can benefit you in the intended way.
 
 **Trap Spotter (Ex)**: You gain the rogue’s trap spotter talent.
 
 **Excellent Aid (Ex)**: The bonus you gain when others aid you increases by +1 at 1st level, +2 at 3rd level, and +3 at 5th level. It does not apply when you aid others.
+
+**Aligned Class (Ex)**: At 2nd and 4th level, you gain the class features of an additional level of a class you belonged to before adding the prestige class. You still retain the Hit Dice, base attack bonus, saving throw bonuses, and skill ranks of the prestige class.
 
 **Exceptionally Lucky (Ex)**: Your halfling racial bonus on saving throws increases to +2 at 2nd level and +3 at 4th level.
 

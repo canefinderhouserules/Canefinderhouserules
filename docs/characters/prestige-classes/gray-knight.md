@@ -43,9 +43,9 @@ The gray knight's class skills (and the key ability for each skill) are Acrobati
 
 ### Class Features
 
-**Sea Legs**: At 1st level, a gray knight gains [Sea Legs](../../rules/feats/sea-legs.md) as a bonus feat.
-
 The following are class features of the gray knight prestige class.
+
+**Sea Legs**: At 1st level, a gray knight gains [Sea Legs](../../rules/feats/sea-legs.md) as a bonus feat.
 
 **Favored Port (Ex)**: A gray knight can pick any coastal settlement as a favored port. While in that settlement, a gray knight gains a +2 bonus on all Bluff, Diplomacy, Intimidate, and Knowledge (local) checks, as well as on initiative checks and Will saving throws. He need not pay for room and board in a favored port. At 3rd level and every 2 levels thereafter, a gray knight can select another favored port. A gray knight also gains his favored port bonuses when aboard any ship whose home port is one of his favored ports.
 

@@ -48,6 +48,8 @@ The following are class features of the genie binder prestige class.
 
 **Weapon and Armor Proficiency**: A genie binder gains no additional weapon or armor proficiencies.
 
+**Spells per Day**: At the indicated levels, a genie binder gains new spells per day as if she had also gained a level in a spellcasting class she belonged to before adding the prestige class. She does not, however, gain other benefits a character of that class would have gained, except for additional spells per day, spells known (if she is a spontaneous spellcaster), and an increased effective level of spellcasting. If a character had more than one spellcasting class before becoming a genie binder, she must decide to which class she adds the new level for the purposes of determining spells per day.
+
 **Persuasive**: At 1st level, a genie binder gains Persuasive as a bonus feat.
 
 **Binding Pool (Su)**: Using a combination of blackmail, contracts, magical finesse, and negotiation, a genie binder can command genies and channel their magic. A genie binder has a binding pool equal to twice her genie binder class level, and the pool recharges each day, typically after she gets a restful night’s sleep. As a free action before attempting a Charisma check or Charisma-based skill check to interact with a genie, the genie binder can expend 1 point from her binding pool to add 1d6 to the result.
@@ -63,8 +65,6 @@ If a genie binder places an elemental seal on a non-genie creature, that creatur
 When placed on a solid surface, an elemental seal functions as a *glyph of warding*. The seal can duplicate only the effects of a blast glyph and deals a specific type of damage based on the seal: acid (seal of earth), cold (seal of water), electricity (seal of air), or fire (seal of fire).
 
 **Genie Mastery (Su)**: At 1st level, a genie binder must decide whether to bind a genie minion or pursue spellcasting power. Once this decision is made, it can’t be changed. If she selects a genie minion, she gains an eidolon with the [genie subtype](../classes/unchained-eidolons.md), treating her genie binder level as her effective summoner level; her genie binder levels stack with any summoner levels she has for this purpose, but only for an eidolon with the genie subtype. If she selects spellcasting, she gains the spells-per-day progression noted in the table.
-
-**Spells per Day**: At the indicated levels, a genie binder gains new spells per day as if she had also gained a level in a spellcasting class she belonged to before adding the prestige class. She does not, however, gain other benefits a character of that class would have gained, except for additional spells per day, spells known (if she is a spontaneous spellcaster), and an increased effective level of spellcasting. If a character had more than one spellcasting class before becoming a genie binder, she must decide to which class she adds the new level for the purposes of determining spells per day.
 
 **Genie Summoner (Su)**: At 2nd level, a genie binder adds several types of genie to the creatures she can summon using the indicated *summon monster* spells: djinni (*summon monster V*), efreeti or shaitan (*summon monster VI*), or marid (*summon monster VII*). Each time she summons a genie in this way, she must expend 1 point from her binding pool, and summoned genies cannot cast *wish*.
 

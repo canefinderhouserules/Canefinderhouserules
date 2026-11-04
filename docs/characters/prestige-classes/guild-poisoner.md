@@ -45,15 +45,15 @@ The following are class features of the guild poisoner prestige class.
 
 **Weapon and Armor Proficiency**: A guild poisoner gains no additional weapon or armor proficiencies.
 
-**Aligned Class (Ex)**: At 2nd level, a guild poisoner must choose a class they belonged to before adding the prestige class to be their aligned class. At 2nd level and every 2 levels thereafter, they gain the class features of an additional level of their aligned class. They still retain the Hit Dice, base attack bonus, saving throw bonuses, and skill ranks of the prestige class.
-
-**Deadly Poisons**: The DC of any poison a guild poisoner applies increases by her class level.
-
 **Master Poisoner (Ex)**: A guild poisoner adds 1/2 her level on Craft (alchemy) checks dealing with poison. In addition, she can use Craft (alchemy) to change the type of a poison with 1 hour of work and an alchemist’s lab. If the Craft (alchemy) check (DC equals the poison’s save DC) is successful, the poison’s type changes to contact, ingested, inhaled, or injury; on a failed check, the poison is ruined.
 
 **Poison Resistance (Ex)**: A guild poisoner gains a +2 bonus on saves against poison, increasing to +4 at 4th level, +6 at 7th level, and total immunity at 9th level. Alchemist levels stack with guild poisoner levels when determining the effect of this ability.
 
 **Quick Poisoning (Ex)**: A guild poisoner can poison a weapon as a move action. She can create poisons with the Craft (alchemy) skill in half the normal amount of time.
+
+**Aligned Class (Ex)**: At 2nd level, a guild poisoner must choose a class they belonged to before adding the prestige class to be their aligned class. At 2nd level and every 2 levels thereafter, they gain the class features of an additional level of their aligned class. They still retain the Hit Dice, base attack bonus, saving throw bonuses, and skill ranks of the prestige class.
+
+**Deadly Poisons**: The DC of any poison a guild poisoner applies increases by her class level.
 
 **Toxic Apothecary (Ex and Sp)**: At 2nd level, a guild poisoner can use *detect poison* at will (range 5 feet, caster level equal to the guild poisoner’s class level) as a swift action. She gains a bonus equal to 1/2 her class level on Heal checks dealing with poison, and on a successful check she adds this bonus to the save bonus she provides her patient against the treated poison.
 

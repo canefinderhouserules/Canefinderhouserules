@@ -47,6 +47,8 @@ The following are class features of the hearth warden prestige class.
 
 **Weapon and Armor Proficiency**: A hearth warden is proficient with all simple weapons, longbows, light armor, medium armor, and shields (except tower shields).
 
+**Spells per Day**: At the indicated levels, the character gains new spells per day as if he had also gained a level in a spellcasting class he belonged to before adding the prestige class. He doesn't, however, gain other benefits a character of that class would have gained, except for additional spells per day, spells known (if he is a spontaneous spellcaster), and an increased effective level of spellcasting. If a character had more than one spellcasting class before gaining this prestige class ability, he must decide to which class he adds the new level for purposes of determining spells per day.
+
 **Favored Enemy (Ex)**: At 1st level, a hearth warden chooses a favored enemy from the list below. This functions like the ranger class feature of the same name, except that the hearth warden gains an additional ability corresponding with the favored enemy chosen. Additionally, at 8th level, he can select a new favored enemy and the bonus for one such enemy increases by 2 (rather than at 5th and 10th levels).
 
 - *Aberrations*: The hearth warden gains a +2 bonus on all saves against spells, spell-like abilities, and supernatural abilities used by aberrations.
@@ -71,5 +73,3 @@ The following are class features of the hearth warden prestige class.
 **Imbue Arrow (Su)**: At 7th level, a hearth warden gains the ability to place a spell that affects an area upon an arrow. This functions exactly like the arcane archer ability of the same name.
 
 **Waymarker Travel (Sp)**: At 10th level, a hearth warden gains the ability to create a waymarker anywhere within the area of a defended hearth. The hearth warden can maintain up to five waymarkers at a time—if the hearth warden creates a sixth waymarker, he chooses which of the previous five deactivates. Once per day as a move action, the hearth warden can cast *word of recall* as a spell-like ability to teleport to any of his active waymarkers.
-
-**Spells per Day**: At the indicated levels, the character gains new spells per day as if he had also gained a level in a spellcasting class he belonged to before adding the prestige class. He doesn't, however, gain other benefits a character of that class would have gained, except for additional spells per day, spells known (if he is a spontaneous spellcaster), and an increased effective level of spellcasting. If a character had more than one spellcasting class before gaining this prestige class ability, he must decide to which class he adds the new level for purposes of determining spells per day.

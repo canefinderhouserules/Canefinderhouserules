@@ -43,11 +43,11 @@ The sword duelist's class skills (and the key ability for each skill) are Acroba
 
 ### Class Features
 
-**Bonus Proficiency and Feat**: At 1st level, a sword duelist gains proficiency with the dueling sword and [Dazzling Display](../../rules/feats/dazzling-display.md) as a bonus feat.
-
 The following are class features of the sword duelist prestige class.
 
 Unless stated otherwise, the following benefits apply only when a sword duelist is wielding a [dueling sword](../../equipment/gear-ag.md) and carrying nothing in his other hand.
+
+**Bonus Proficiency and Feat**: At 1st level, a sword duelist gains proficiency with the dueling sword and [Dazzling Display](../../rules/feats/dazzling-display.md) as a bonus feat.
 
 **Deft Strike (Ex)**: A sword duelist can add his Dexterity bonus (if any) to damage rolls made with a dueling sword instead of his Strength bonus, or 1-1/2 times his Dexterity bonus if he wields it two-handed. He also adds his sword duelist level to these damage rolls, whether he wields the dueling sword one-handed or two-handed. A sword duelist cannot use this ability if he is wielding a shield or using an off-hand weapon (including armor spikes, unarmed strikes, or natural weapons).
 

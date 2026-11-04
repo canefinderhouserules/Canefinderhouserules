@@ -41,8 +41,6 @@ The freedom tiller's class skills (and the key ability for each skill) are Acrob
 
 ### Class Features
 
-**Tactician**: At 6th level, a freedom tiller gains the tactician ability of a cavalier of her level + 5. The teamwork feats the class already grants count as part of this ability, plus 1 extra for the normal tactician effects.
-
 The following are class features of the freedom tiller prestige class.
 
 **Crop (Ex)**: As a standard action, a freedom tiller can designate a number of allies up to 3 + her Charisma modifier as part of her crop. Members of a crop must remain within 30 feet of the tiller to gain any benefits from abilities that affect a crop, regardless of the ability’s source (whether it’s a freedom harvester, irrigator, or tiller). If any leave this range, the tiller must designate these allies again for them to be included in her crop. At 7th level, this range increases to 60 feet.
@@ -72,3 +70,6 @@ Provided that she isn’t in immediate danger (such as fleeing from pursuers rig
 At 7th level and 9th level, the tiller can select an additional community in which to receive these bonuses. Each time she selects a new community, the skill bonus and initiative bonus in any one chosen community (including the one just selected, if so desired) increases by 2.
 
 For the purposes of this ability, a community can be any settlement of 100 or more individuals. Outlying farms, fields, and houses are considered part of a community.
+
+**Tactician**: At 6th level, a freedom tiller gains the tactician ability of a cavalier of her level + 5. The teamwork feats the class already grants count as part of this ability, plus 1 extra for the normal tactician effects.
+

@@ -61,9 +61,9 @@ All of the following are class features of the daivrat prestige class.
 
 **Weapon and Armor Proficiency**: A daivrat gains no proficiency with any weapon or armor.
 
-**Spell Focus**: At 1st level, a daivrat gains Spell Focus (conjuration) as a bonus feat.
-
 **Spells**: At the indicated levels, a daivrat gains new spells per day as if he had also gained a level in a spellcasting class he belonged to before adding the prestige class. He does not gain other benefits a character of that class would have gained, except for additional spells per day, spells known (if he is a spontaneous spellcaster), and an increased effective level of spellcasting. If a character had more than one spellcasting class before becoming a daivrat, he must decide to which class he adds the new level for purposes of determining spells per day.
+
+**Spell Focus**: At 1st level, a daivrat gains Spell Focus (conjuration) as a bonus feat.
 
 **Elemental Focus (Su)**: At 1st level, the daivrat gains a measure of connection with elemental powers. Choose one of the following descriptors: acid, air, cold, earth, electricity, fire, or water. When casting spells of the chosen descriptor, the daivrat is considered to possess the Spell Focus feat for that spell. Only one Spell Focus or Greater Spell Focus applies to the casting of a spell.
 

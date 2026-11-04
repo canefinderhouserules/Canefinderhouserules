@@ -53,8 +53,6 @@ The hell knight's class skills (and the key ability for each skill) are Intimida
 
 ### Class Features
 
-**Aligned Class (Ex)**: At 2nd level, a hell knight must choose a class they belonged to before adding the prestige class to be their aligned class. At 2nd level and every 2 levels thereafter, they gain the class features of an additional level of their aligned class. They still retain the Hit Dice, base attack bonus, saving throw bonuses, and skill ranks of the prestige class.
-
 The following are class features of the hell knight prestige class.
 
 **Aura of Law (Ex)**: A hell knight’s lawful aura (see the *detect law* spell) functions as that of a cleric whose level is equal to the hell knight’s character level.
@@ -72,6 +70,8 @@ The smite chaos effect remains until the target of the smite is dead or the next
 ??? note "Original rule"
 
     **Smite Chaos (Su)**: This ability functions as the paladin’s smite evil class feature but against chaotic-aligned creatures. This ability is twice as effective against outsiders with the chaotic subtype, chaotic-aligned aberrations, and fey.
+
+**Aligned Class (Ex)**: At 2nd level, a hell knight must choose a class they belonged to before adding the prestige class to be their aligned class. At 2nd level and every 2 levels thereafter, they gain the class features of an additional level of their aligned class. They still retain the Hit Dice, base attack bonus, saving throw bonuses, and skill ranks of the prestige class.
 
 **Discern Lies (Sp)**: At 2nd level, a hell knight can use *discern lies* as a spell-like ability a number of times per day equal to 3 + his Charisma modifier with a caster level equal to his character level.
 

@@ -55,10 +55,6 @@ All of the following are class features of the duelist prestige class.
 
 **Weapon and Armor Proficiency**: The duelist is proficient with all simple and martial weapons. Duelists are proficient with light armor but not with shields.
 
-**Evasion (Ex)**: At 5th level, a duelist gains evasion. If she already has evasion, it becomes improved evasion.
-
-**Deeds**: A duelist gains 1 deed at every even level.
-
 **Canny Defense (Ex)**: When wearing light or no armor and not using a shield, a duelist adds 1 point of Intelligence bonus (if any) per duelist class level to her Dexterity bonus to modify Armor Class while wielding a melee weapon. If a duelist is caught flat-footed or otherwise denied her Dexterity bonus, she also loses this bonus.
 
 **Precise Strike (Ex)**: This works like the precise strike deed of the [Legendary Swashbuckler](../classes/legendary/legendary-swashbuckler.md), using the duelist’s class level as her swashbuckler level.
@@ -68,6 +64,8 @@ All of the following are class features of the duelist prestige class.
     **Precise Strike (Ex)**: A duelist gains the ability to strike precisely with a light or one-handed piercing weapon, adding her duelist level to her damage roll.
 
 When making a precise strike, a duelist cannot attack with a weapon in her other hand or use a shield. A duelist’s precise strike only works against living creatures with discernible anatomies. Any creature that is immune to critical hits is also immune to a precise strike, and any item or ability that protects a creature from critical hits also protects a creature from a precise strike.
+
+**Deeds**: At 2nd level and every even level thereafter, a duelist gains 1 deed.
 
 **Improved Reaction (Ex)**: At 2nd level, a duelist gains a +2 bonus on initiative checks. At 8th level, the bonus increases to +4. This bonus stacks with the benefit provided by the Improved Initiative feat. She also gains Improved Initiative as a bonus feat.
 
@@ -86,6 +84,8 @@ When making a precise strike, a duelist cannot attack with a weapon in her other
 **Combat Reflexes**: At 4th level, a duelist gains the benefit of the Combat Reflexes feat when using a light or one-handed piercing weapon.
 
 **Grace (Ex)**: At 4th level, a duelist gains an additional +2 competence bonus on all Reflex saving throws. This ability functions for a duelist only when she is wearing light or no armor and not using a shield.
+
+**Evasion (Ex)**: At 5th level, a duelist gains evasion. If she already has evasion, it becomes improved evasion.
 
 **Riposte (Ex)**: Starting at 5th level, a duelist can make an attack of opportunity against any creature whose attack she successfully parries, so long as the creature she is attacking is within reach.
 
